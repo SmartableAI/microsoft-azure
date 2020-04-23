@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-18T00:00:02Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-migrate-now-available-in-azure-government/"
 type: article
 quality: 77
-heat: 79
+heat: 77
 published: true
 
 provider:

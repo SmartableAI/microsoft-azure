@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-14T00:00:09Z
 webUrl: "https://azure.microsoft.com/en-us/updates/announcing-reverse-dns-support-in-azure-virtual-networks/"
 type: article
 quality: 77
-heat: 78
+heat: 77
 published: true
 
 provider:

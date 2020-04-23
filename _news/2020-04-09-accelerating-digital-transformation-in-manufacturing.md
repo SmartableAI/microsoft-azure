@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-09T09:00:12Z
 webUrl: "https://azure.microsoft.com/blog/accelerating-digital-transformation-in-manufacturing/"
 type: article
 quality: 86
-heat: 87
+heat: 86
 published: true
 
 provider:

@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-13T16:00:06Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-vs-code-extension-update-april-2020/"
 type: article
 quality: 77
-heat: 78
+heat: 77
 published: true
 
 provider:

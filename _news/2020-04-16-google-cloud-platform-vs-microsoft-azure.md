@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-16T18:06:00Z
 webUrl: "https://www.computerworld.com/resources/201378/google-cloud-platform-vs-microsoft-azure"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,21 @@ images:
     width: 300
     height: 300
     title: "GOOGLE CLOUD PLATFORM VS. MICROSOFT AZURE"
+
+related:
+  - title: "14 ways AWS beats Microsoft Azure and Google Cloud"
+    excerpt: "For all of its dominance, though, Amazon has strong competitors. Companies like Microsoft, Google, IBM, Oracle, SAP, Rackspace, Linnode, and Digital Ocean know that they must establish a real presence in the cloud and they are finding clever ways to compete and excel in what is less and less a commodity business. These rivals offer great ..."
+    publishedDateTime: 2020-04-20T10:02:00Z
+    webUrl: "https://www.infoworld.com/article/3321176/14-ways-aws-beats-microsoft-azure-and-google-cloud.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 77
+    images:
+      - url: "https://images.techhive.com/images/article/2016/12/thumbs-up-multicultural-100701134-large.jpg"
+        width: 700
+        height: 394
 
 secured: "lv8qeZirxRVZ1tZhX6uDc6k1Mn1uDYR8mfAo/iu0q6x5iVRFvNjMTZ5IxRIux9/S7XAcOgfDWy3yNy3EpBwj+OebFcirJ5IeBYntj8eU10IMRxqgHz1nXgElyS759jeF0QdGOIpxwOHgY3KB1pgXCZAmOlaVdFzC4K2/KpxbGNT5FyrPoD2yqoHt4452E2OkPl0sc1dfzMl+eOiM+5Ic/nS9w10aeUnpcYslH4bzeOCwc5lwyQETi3RGYz/RlR6hFZT9kw04//nGdtHmr6OBz82Td8cjfBtps4apS8RKY9JTHrsy0+w7L4rY8jCuDCQHncbdDBrFLJb3iTZdM8OqIzXYrgmPEd6dbL1OZaMJAOJoSen47xn+uy3QYzQybYzzgr0CePvh7i02hac92MDR773IyMJC/c1M8pDJVd6K0mUk57Rr/hrJE3CnNBeh7XbX4TeDkUIJrk1pDl9g6p4JQABm4oE20pQ9dRWJ2ojzyQA=;8FYVLm63maXm3blHj0UCFg=="
 ---

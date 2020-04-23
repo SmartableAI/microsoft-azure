@@ -38,6 +38,21 @@ related:
       - url: "https://media.ycharts.com/charts/24981e8743742bcb2fd3f34c85905335.png"
         width: 720
         height: 386
+  - title: "Forget Amazon, Microsoft Is a Better Cloud Computing Stock"
+    excerpt: "That's driving increased demand for cloud services, boding well for the likes of Amazon (NASDAQ:AMZN), through its Amazon Web Services, and Microsoft (NASDAQ:MSFT), through its Azure services. Amazon is the overall leader in this sector, but Microsoft is a scrappy second-place player. It's been chipping away at AWS' lead, and with demand ..."
+    publishedDateTime: 2020-04-20T20:54:00Z
+    webUrl: "https://www.fool.com/investing/2020/04/20/forget-amazon-microsoft-better-cloud-computing.aspx"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/04/20/forget-amazon-microsoft-better-cloud-computing.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/20/forget-amazon-microsoft-better-cloud-computing.aspx"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 82
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568510%2Fmicrosoft-better-cloud-mf.jpg&w=1200&op=resize"
+        width: 1200
+        height: 480
   - title: "Microsoft Stock Keeps Winning Because It Has Been Essential for Years"
     excerpt: "Microsoft (NASDAQ:MSFT) is also the star of my personal portfolio. I bought Microsoft stock a few years after Satya Nadella became CEO, committing the company’s future to the cloud, and its capital costs. My shares have more than tripled in value. There’s a good reason. In running your business there are many expenses you can forego during ..."
     publishedDateTime: 2020-04-17T11:44:00Z

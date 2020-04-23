@@ -6,7 +6,7 @@ publishedDateTime: 2020-03-19T09:00:12Z
 webUrl: "https://azure.microsoft.com/blog/filesystem-sdks-for-azure-data-lake-storage-gen2-now-generally-available/"
 type: article
 quality: 78
-heat: 79
+heat: 78
 published: true
 
 provider:
