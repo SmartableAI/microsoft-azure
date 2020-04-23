@@ -1,0 +1,29 @@
+---
+category: news
+title: "Lenovo Teams With Microsoft Azure At The Edge"
+excerpt: "The new offerings are tied closely to Microsoft’s Azure software stack for enterprises operating in a hybrid cloud model, with a presence both on-premises and in the cloud. Microsoft actually pre-announced the new ThinkAgile MX1021 at its Ignite 2019 ..."
+publishedDateTime: 2020-03-31T15:36:00Z
+webUrl: "https://www.nextplatform.com/2020/03/31/lenovo-teams-with-microsoft-azure-at-the-edge/"
+ampWebUrl: "https://www.nextplatform.com/2020/03/31/lenovo-teams-with-microsoft-azure-at-the-edge/amp/"
+cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/03/31/lenovo-teams-with-microsoft-azure-at-the-edge/amp/"
+type: article
+quality: 57
+heat: 57
+published: false
+
+provider:
+  name: The Next Platform
+  domain: nextplatform.com
+
+topics:
+  - Azure
+
+images:
+  - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/ab_cloud-edge-1024x1024.jpg"
+    width: 1024
+    height: 1024
+    title: "Lenovo Teams With Microsoft Azure At The Edge"
+
+secured: "hSQEz82WxOzJZRC0lN2WPnbiFsgNQoxYsXPQxoODME5ntHg9Y0A3+m7Y/DReCqu1AnrEewCmu9lqQmKk8sI8uwzAvcc5QX4McCs9eBDtUhsP0t7JHrBQ6g2v9NT5GZ1cg685eWDzBzayfqLvOwxWjg8QBbC+6/ux9W2JYPKzQtg376sT0UQB6jkN/LmbZ2xRKS65VI7jdg8CEY2dzoXOTeYxrgpVlo1MTvDFcDZePO8Rx2hdxK4cFnLjDBeIi2Apfecazd1CCZCozcMcK9ds5XCU1+Qlzoisrt30WbtvzL2pBy0CcR7N94jmKV0NQSFK;z+ho5GodI0aeAKnd6w4zHA=="
+---
+
