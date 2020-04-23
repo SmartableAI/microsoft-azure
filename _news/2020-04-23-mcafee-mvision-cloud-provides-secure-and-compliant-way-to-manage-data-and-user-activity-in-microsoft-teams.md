@@ -1,27 +1,31 @@
 ---
 category: news
 title: "McAfee MVISION Cloud Provides Secure and Compliant Way to Manage Data and User Activity in Microsoft Teams"
-excerpt: "SANTA CLARA, Calif.--(BUSINESS WIRE)--McAfee, a device-to-cloud cybersecurity company, today announced that McAfee MVISION Cloud now supports encryption enhancements in Microsoft Teams, including encrypted webhooks and encrypted payloads. This enables organizations to improve productivity of their employees by letting them use Teams as a ..."
-publishedDateTime: 2020-04-23T04:15:00Z
-webUrl: "https://www.businesswire.com/news/home/20200422005877/en/McAfee-MVISION-Cloud-Secure-Compliant-Manage-Data"
+excerpt: "McAfee, a device-to-cloud cybersecurity company, today announced that McAfee MVISION Cloud now supports encryption enhancements in Microsoft Teams,"
+publishedDateTime: 2020-04-23T15:08:00Z
+webUrl: "https://www.marketwatch.com/press-release/mcafee-mvision-cloud-provides-secure-and-compliant-way-to-manage-data-and-user-activity-in-microsoft-teams-2020-04-23-1115980"
 type: article
-quality: 4
-heat: 4
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://mms.businesswire.com/media/20200422005877/en/698457/23/McA_Logo.jpg"
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
-    height: 627
+    height: 630
     title: "McAfee MVISION Cloud Provides Secure and Compliant Way to Manage Data and User Activity in Microsoft Teams"
 
-secured: "JdYjyZirsrkrUg2Bd/VljkN5pFqplk8BML9pD01WBdbt4VXtcLPzc8Em+e9k9emujyowKUTw+foTR7kE74YhBp0Vo66Xyf6UaDDHsM2jbjhZ9f+GI3uL9dtXg9MFHdElp/nD1qnnS/JEZHXiLKNVLxUUgPIiysUwzbhWVpvgcGTy5GEi6seGCZwb+0gk216urSvI4KQO/WXlxMd3spwjtc5CTGCxq19oSMOBvZ+E0TOzPDpwpGPawGgkOXLEy1KjNj+tzpoIxkXXv/ILcfSyMP/eWwO2njhGhiUARSeLCTHanGj+Vgo0geJ1wobt6S1r;WfWIQXrEDGfN38W6BiiOhg=="
+secured: "ASVc+fjLAHZnEt1KgKO3/OzK4M+r9Lfk+EOyp4xRxVE+50kfC8b6nmGpveAuK25rYBx3Dq4BbWjDtGmoUeuPG8dB4zDS/gWmD+aG18EH8unoQ7On2tDO4Un/kfxrUMgXi3hANMQE30ZdDIPI7s/A98y+pflUoTTwGBak3xZrm+hezBUDkVqgVhqj3Cz3vmy3oogjUEDZHkevaFb7cUwi6a6D/AyEx04/aBbZUushO6BIcBORBiP4MVoDtonyIZZfo9UC4It1Xtv4HVC6IW5fRiu6HnCJJ8IDUmVVvdUHUCGDk+Reoy/KcLE6da7CQhHN;7bHKuMQLiT/YHwWeen7Szw=="
 ---
 

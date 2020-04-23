@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-21T09:00:40Z
 webUrl: "https://azure.microsoft.com/blog/enhanced-features-in-azure-archive-storage-now-generally-available/"
 type: article
 quality: 79
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -20,6 +20,17 @@ provider:
 topics:
   - Azure
   - Storage
+
+related:
+  - title: "Azure Archive expanded capabilities now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-23T16:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-archive-expanded-capabilities-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
 
 secured: "nezoDIQEbSSUQE+Z1TPkQxEyF+/xVPdq+XR858OXszBo4D6kktOzNF0VQPpSexTVzgCTQ9iEZr0ZpOvxm9ug0DMpr4ue57JQFYyey7wq/uiJ4QC8Vtfhp3XBpukcRtsCuyYxRrq3FyqdpzWhNOEaHuU+XupFqVTY2qeX1+JFv+frcboLM4n0QfVPg7dd6kL6TvxiDymGFpHJ0oHxUB2y2FRPFRmINI43E+mVFbHcYRV7/jN2h2/FnDIG0Q/fyVdOX/T7w8whV3I/hXFQEZtaJFm5oGkF763X07JQf7jEcu6VQ0xRX35vW52EyZB2GosHX5q6r/UUKFAzM4yqmAmUQg==;mJEc0gagrYq7Dzqy9qtuTQ=="
 ---

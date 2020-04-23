@@ -24,6 +24,6 @@ images:
     height: 537
     title: "Alibaba Cloud to take on Microsoft Azure and AWS with a $28 billion investment"
 
-secured: "Wx2c2Ur0cnWhwmg8HgwgqCXYz9weAhymfI06DA+MwCW0H89Wg4J+vjoyHzUBSeIch23sapdI2vkzsJyg8dshN3eo2MvNjn7gMaOg6CKCcGl1Al0oHbcHdKicbo/c+gMy3HurO0f5+0EqJlojQG+TppW3UYco0UKjjLuwzziJvnr8hTfiWFVCBk4FLXekrEQJ8mUWjRvbJGaqR5MiTegLldqsHaDTXLIcBrTK9gPKMSFcvVXl9jOu7aZqRv8MZHe4lxlBoLypb0AUMxRDDR5gRG7UFWlHtbqx7hXdwF2rdWyfNmewlirg93xda8zFqCKi;hzWu62/amCxEcT4/sTpHqg=="
+secured: "zF+xc225kxk3e9k08aSMdi421fGArZ33SCHLNOksx0UAECZHiu5qyvT0ThCDGJOWIpxl0DP6ylGaPGDmQu5k5+vRmpoHxPUwY2QfQmfR/KfQHj+wO3lKQIqG+QHCpmGJxy7yEliYrR9Tpl3H9gOhujvoIyDeFg95KjqdU6hJJD0Wp+fnUz/W5+QkISCtrcQjIi5GmPmxejq9/qZVXA/bYbTTKk0suVuj9jCpTf3Vw9O+5PUcZYA4lojYOHrZRfFl+NTFPY4YplMB3NV8wI6wtnybQzK0G9LLxNlupfTOencnM2jgXBG+I9Jz623L79adyx+rG+N3N6LUAHNDX1m4mSQw9bQr78r1QrbLcknnjOKCokIDxvOaU+Xv/ddF9adzmYQc7iJli+NQzgvQZuny8ybHV7rsL2Di/XFvEpQ+oEI9cQbhppsz+iWZ6phhf4xb/4OMvf0gTWT8ye7Sv3jv6hHvOdU0IKySP0wfq4MOOg4=;HZZWncniLVrG0yI0Xwsr6g=="
 ---
 

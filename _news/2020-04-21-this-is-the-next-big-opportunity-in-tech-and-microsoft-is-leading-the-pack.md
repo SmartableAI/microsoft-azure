@@ -28,6 +28,6 @@ images:
     height: 840
     title: "This Is the Next Big Opportunity in Tech, and Microsoft Is Leading the Pack"
 
-secured: "5FrxIsutGdKKCvjC6vDybRqOfEIKZtuMnG+uYh4S8A4rvkMMIU7akwic0xgXTgbilLP0YleC9xzdME7ct/gpktN8Q5+4gDF7DqV+X0MTcqmRCkP4dQczUCdEEuZF+Fb/F39UUEl6zlIcTHarTyDxnt9OEbK9JUR8r8MsHpmKwH2x4I9rG6vGopYN064lKQ5732ou/Te3gD4P2UvHp309pDxmePLqVzHabsDvDYm5H0ICu/J6VITxg2OD/1gmN3FXycDKC6q/1bwPZWeyQB/PSFYuNBgC/kSA1gJCygp5qrxFbLC+NTf4ICNSuaVxQonj;u7tzaDGkmxKkFi4xOOli7Q=="
+secured: "RIXiWDdN9sEVIHAVyVrSFcYzYlDY7DEDhxHEHFOoIyTx+6CX1noWDtCXqH6mh4SX7cx819ilQr+w8mFd9/Avrf2VZz0D7jG5WbdgJvE+XWQl71wXTPzIjYnZqV3p5SNrWxhnFV3ixbWq3DEMyYbMNIWNoI2rzIVn+JIHo4VFiATzISs8l0/21uTL6/Ko+dGHFo2mN8nk3zYzNAxGaZ/I7n4KP/eT3QBOcBbjRU/uY3ttlmPbYmXpvmCEgpiK8dYhI2tXPvbysM13Fka4hv1yMbmqW11UlLXs3xRaCcDkE3A/atjiMOqWML8i9EIVGZcU/Z3e5gh+jtiey1fAoUg8AUirlYOaT7ZytHEacb/DYZd7swkeVT5lrePQViFun+ZlBDuFmIAtzj7UeK9mtmtARAt6RAtCKG0AIYHIajQwjGmvo+RM73c8QQT2wWtD41GLyU0NSiMbI5eNjaUFse2NXiBYsewqZECyphN7PtDHIAw=;7PULnDxM+YkiK9ew3mk8Pw=="
 ---
 
