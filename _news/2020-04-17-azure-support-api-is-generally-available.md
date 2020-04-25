@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-17T17:00:00Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-support-api-is-generally-available/"
 type: article
 quality: 77
-heat: 87
+heat: 97
 published: true
 
 provider:

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/4/16/21223932/microsoft-n
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/4/16/21223932/microsoft-nba-partnership-deal-azure-surface-details"
 type: article
 quality: 97
-heat: 147
+heat: 197
 published: true
 
 provider:

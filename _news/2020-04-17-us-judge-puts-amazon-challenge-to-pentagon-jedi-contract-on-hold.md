@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN21Z3GW"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21Z3GW"
 type: article
 quality: 82
-heat: 122
+heat: 162
 published: true
 
 provider:

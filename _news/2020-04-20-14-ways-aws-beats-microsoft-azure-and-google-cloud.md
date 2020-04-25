@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-20T10:02:00Z
 webUrl: "https://www.infoworld.com/article/3321176/14-ways-aws-beats-microsoft-azure-and-google-cloud.html"
 type: article
 quality: 77
-heat: 87
+heat: 97
 published: true
 
 provider:

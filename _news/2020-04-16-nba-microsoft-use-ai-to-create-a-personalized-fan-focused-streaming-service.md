@@ -8,7 +8,7 @@ ampWebUrl: "https://www.digitaltrends.com/home-theater/nba-microsoft-new-streami
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home-theater/nba-microsoft-new-streaming-service/?amp"
 type: article
 quality: 78
-heat: 88
+heat: 98
 published: true
 
 provider:

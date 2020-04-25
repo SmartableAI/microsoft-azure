@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/04/22/amazon-running-out-way
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/22/amazon-running-out-ways-stop-microsoft-jedi-deal.aspx"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:

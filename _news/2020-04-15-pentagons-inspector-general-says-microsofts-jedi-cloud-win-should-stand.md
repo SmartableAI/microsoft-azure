@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/pentagons-inspector-general
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pentagons-inspector-general-says-microsofts-jedi-cloud-win-should-stand/"
 type: article
 quality: 81
-heat: 141
+heat: 201
 published: true
 
 provider:

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/defense-department-watchdog-finds-f
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/defense-department-watchdog-finds-few-problems-in-awarding-jedi-contract-to-microsoft-over-amazon-11586960694"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:

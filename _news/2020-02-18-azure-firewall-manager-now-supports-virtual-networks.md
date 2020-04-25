@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-18T10:05:39Z
 webUrl: "https://azure.microsoft.com/blog/azure-firewall-manager-now-supports-virtual-networks/"
 type: article
 quality: 99
-heat: 109
+heat: 119
 published: true
 
 provider:

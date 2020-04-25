@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/hardfork/2020/04/16/dod-pentagon-okay-in-givi
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/hardfork/2020/04/16/dod-pentagon-okay-in-giving-10b-war-cloud-contract-to-microsoft-over-amazon/amp/"
 type: article
 quality: 78
-heat: 98
+heat: 118
 published: true
 
 provider:

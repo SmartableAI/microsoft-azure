@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-21T09:00:40Z
 webUrl: "https://azure.microsoft.com/blog/enhanced-features-in-azure-archive-storage-now-generally-available/"
 type: article
 quality: 79
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -32,6 +32,6 @@ related:
       domain: microsoft.com
     quality: 77
 
-secured: "CV6bQ/B32vxyiMuhoTikxEJhsotA4kfdVT9n+i+n9/Nuu23WnXL0sj09lmYqTAb2QfXr35dKVkNKOj3b/J4Qv0qA+LejZvi1Qe9Ayv9sX7zUNFl2fmDHE/wMrW9NUAnhI/OIMwsDZakpsWVUe0Y1rn85aUm+Um9mgUNsl5GbcLNZ3hb+WnJkIo+/UdTIrTpbZlNRRDEI3V6bJ9oHhql/vDBqxMlkel+RqUHVLEpVSPcuCUsGdDFH3m3KxWBB7L0PsBUQcho0frB4ZtDdpzo0ofa8DXYhN3/HSuQG/ZBP+tdf+4SVhXHji4kvY2tk5mgF/xAxp9F0uwwahQY1oYmlkg==;3Wi5JDI8S8CZKK4g6mSAhQ=="
+secured: "A//gvsmHahKQDn3sI96LvxK8IOOlCaMNN85/xNsU57Z6DzHw1UdZndHuKIrpA1T62AwetnqU1eENdfdgCdotH/gr2I9omvk4Lv2JXC7SuTsZ95aFFDwE6TuKD4qkL++6AVYde7Ftl1R/ZqQLw6j0oBEcz/K8CHK7SDAsZQtkYZTCN2hgdd5faEssIMkqgtywZpKc6pYwW+m4OGUC9gci7xipv70YZK7jAejIzGgKx0Ga88xpCscY9f3k0aqJPUGekoGwHm41RemX09N34hoKQ2PxWAlVQn9BLlyYkqqdSzdOJGKS6oq8LdD+ORYhgvxILGlBcYZU3t1/o/w9VhzciQ==;C56f1DDZn8xWVw/hhayE7A=="
 ---
 

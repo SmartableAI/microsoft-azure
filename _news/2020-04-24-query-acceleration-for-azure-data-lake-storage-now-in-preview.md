@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-24T22:00:07Z
 webUrl: "https://azure.microsoft.com/en-us/updates/query-acceleration-for-azure-data-lake-storage-now-in-preview/"
 type: article
 quality: 77
-heat: 87
+heat: 97
 published: true
 
 provider:

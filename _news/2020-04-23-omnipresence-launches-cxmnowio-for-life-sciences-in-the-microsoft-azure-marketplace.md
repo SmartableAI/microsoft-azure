@@ -8,7 +8,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/omnipresence-launches-c
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/omnipresence-launches-cxmnow-io-for-life-sciences-in-the-microsoft-azure-marketplace-1029123493"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:

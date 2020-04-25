@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/04/17/forget-microsoft-arist
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/17/forget-microsoft-arista-networks-is-a-better-cloud.aspx"
 type: article
 quality: 82
-heat: 112
+heat: 142
 published: true
 
 provider:

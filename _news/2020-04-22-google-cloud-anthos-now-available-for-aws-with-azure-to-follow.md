@@ -8,7 +8,7 @@ ampWebUrl: "https://www.infoworld.com/article/3539551/google-cloud-anthos-now-av
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3539551/google-cloud-anthos-now-available-for-aws-azure-to-follow.amp.html"
 type: article
 quality: 97
-heat: 107
+heat: 117
 published: true
 
 provider:
