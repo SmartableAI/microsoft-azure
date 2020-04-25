@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-heres-how-were-tr
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-heres-how-were-trying-to-manage-increased-cloud-demand/"
 type: article
 quality: 82
-heat: 82
+heat: 83
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 675
     title: "Microsoft: Here's how we're trying to manage increased cloud demand"
 
-secured: "eHqo5MnQ/uLWy0MYB4m0gRcXk911yAI/Ex6RmZWt3s7gRYT8KmxRkUqLUg81XUwtfHHGmRGTfHPUL3jIK4VJiceiWvPVGl/K/rkCQDeQDF11RXWAq7Qgyo1hk/IjE9nr812DFeFQr6xIPY6Ngtv8aueVQ8u+44xNPDY4Mr4MmZAltd1xbcQd3M36SW0/fi3sTVPOgMs6P5vXxS4aUtCee6yAnXN8zDto76L45fGEZGXSHIyCQAYrL17F+AJ3HL2BoPpifpvbuA9TumSIiGwsOmSDRlmsPZAQ1QoACpdBAteYIVpEFe2EmJT7mya18Cdp8mPVChsf1ks13Jx+DLt740gnlsxZt6i8LHNlMrV6dQyV1XiZzNwo0Efs+LVCIRGKQv/Q2f92lGAAC5fxVxsvUuzcz8JmPNosBVAJXOQvmyDPTFgITj72K00yJSNfJrgtQQFlBVniWJgpDbqJJSlbdJcEdQcl8VRvyopXpd0dHa4=;ahSeEvuFcUoqTl5zLauCMw=="
+secured: "cXvF36gzKW0DQv+I5U85feDoamoB8jVJGsjL8Wa2lQCG+lhMnUuefYRy3gBQgO/HTxNDRMqMWwYmeJpju/vZAcFSJoeviWr+RX0N1K341Fjty/D4KTImugwWKshk2URY9GI3AM5zXFXLlZJuQW74xCTLIFJ7g46Y/MMM4yTmBQBV7zDZKpPSWSfVwAQkRWFDA+RO1F6swsDpu4DvZp2WAftyKm89GtNZ352Jgi35VfwOZdg4nTBPsSrkaHfS76/jQgGFK7kdAqmUAVKxAZTik4sQhGj+jW7W5XdhxBfSxHgA8aMQVW5e0nOVUSANePibKVT0jccZSc30hD853JyZHZugiHhHXpMgE9v+1D+ztuJxhHGOgf+agNuj9nImZVglhWEaVyH51JwdhVupYlSrirzaenDR5Wz2Na10DDjTERzv4RUlKL1TIEjTshSSRUw+Z1SQeykyQxbRZ+noTeAFmAsbkuWqwDT8265QyDVMoaQ=;ecJg8GWCQ82/vPnUNhVazQ=="
 ---
 

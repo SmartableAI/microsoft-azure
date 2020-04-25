@@ -2,6 +2,51 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-02-13-sql-server-runs-best-on-azure-heres-why.md",
+      "title": "SQL Server runs best on Azure. Here’s why.",
+      "excerpt": "SQL Server customers migrating their databases to the cloud have multiple choices for their cloud destination. To thoroughly assess which cloud is best for SQL Server workloads, two key factors to consider are:\r\n\r\n\r\n\t\r\n\tInnovations that the cloud provider can uniquely provide.\r\n\t\r\n\t\r\n\tIndependent benchmark",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/sql-server-runs-best-on-azure-heres-why/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-13T04:00:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7ceff60b-0bd4-4867-85cd-61883c401c2f.png",
+          "width": 1287,
+          "height": 482,
+          "title": "SQL Server runs best on Azure. Here’s why.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_news/2020-02-13-announcing-the-preview-of-azure-shared-disks-for-clustered-applications.md",
       "title": "Announcing the preview of Azure Shared Disks for clustered applications",
       "excerpt": "Today, we are announcing the limited preview of Azure Shared Disks, the industry’s first shared cloud block storage. Azure Shared Disks enables the next wave of block storage workloads migrating to the cloud including the most demanding enterprise applications, currently running on-premises on Storage",
@@ -1015,51 +1060,6 @@
       "topics": [
         "Azure",
         "Databases"
-      ]
-    },
-    {
-      "path": "_news/2019-11-07-azure-sql-data-warehouse-is-now-azure-synapse-analytics.md",
-      "title": "Azure SQL Data Warehouse is now Azure Synapse Analytics",
-      "excerpt": "On November fourth, we announced Azure Synapse Analytics, the next evolution of Azure SQL Data Warehouse. Azure Synapse is a limitless analytics service that brings together enterprise data warehousing and Big Data analytics. It gives you the freedom to query data on your terms, using either serverless",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/azure-sql-data-warehouse-is-now-azure-synapse-analytics/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-07T02:00:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/4f907102-6934-45ea-9eb4-acdfec680961.png",
-          "width": 1000,
-          "height": 562,
-          "title": "Azure SQL Data Warehouse is now Azure Synapse Analytics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Analytics"
       ]
     }
   ],

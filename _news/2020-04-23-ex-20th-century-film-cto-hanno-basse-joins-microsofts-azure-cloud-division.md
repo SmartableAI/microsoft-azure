@@ -8,7 +8,7 @@ ampWebUrl: "https://variety.com/2020/digital/news/hanno-basse-microsoft-azure-ct
 cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/digital/news/hanno-basse-microsoft-azure-cto-1234588564/amp/"
 type: article
 quality: 55
-heat: 75
+heat: 80
 published: true
 
 provider:
@@ -41,6 +41,6 @@ related:
         width: 768
         height: 433
 
-secured: "PXqbJuLBKIwxciv4w4ajqjdguPdltIR2Gt89txkG4352+bJKcXQmjZ8+ufWRLvcqjJtyMeY018xydzS+fPBxgau9OFbZqGDi6uvnMpBsdGLNoVZ+CX+nuWgWdlaqISUm86KyOViNOF2NkRUzfS71qth84MqpASdHwE9/GUqGkEqsSOJSMrHwzVLM8B3a8126ScUMm3OqKVk7jmyuVzTkJx/zp4MTurpdxwJemjTZ+tL3FLQKNqgcyowpsS/luiZ4sqcgLiASqaQauCjnZmEQnP8OftcWOEZHAUdDtW5yKmYz0SyuVhZQuXTbPqMPp4pHqc7jdRTe38NxBoudOlobn5YcE6GbX/inzbVTB+YL8Jf1oi7HStm9TPf0eXiNe955/1q1O4nWcTjxMh/ItXc1ak/ht3PpoRQEzJOw4VTqprqAYDTmtKHr0i2NoUzWKCRbWio+K7ZVAuatn4tOeLSF/UsNXtXXxX7wmREKaz3iU98=;R1oJmszpNG/pLe7263eTUQ=="
+secured: "doMJmPnsHqIjmZx/Vm5x9jxjgbbPMR3memcpqxIoVZ081rMF+VOlBGt4y+nA6cyCj2+ktloxXlaaFADRJzwOo2NzTasz+f3thqPQCP/liONepDHqdG0u8Pj0ihB43ICnuttbydEzqe9HwMQ5KSf8c9E+UOz3xXkBp9GuegxpUyZf3vbAMMv+sstcFvTs66e0Xcrt6vSRiwBATm6iTGND1fl7rwBDXpIzIIuilwW5VXc72c+kKMsZEiXJyCaze5cfcsD1F+t7goiprQR178K7c3Qih8BzBGtkuNGe3P0sC1K/w7M4sT4wP8bFgMo6Eg83lc6cMiZqeYP2wFKVKPr2gcSakCc2YEhi1OmMiAx2aHw0nvW/1o5T/ZPwQ/K2n3/I7twwcU+/6H94ByjxZ+NXerY2DWFtLNJ7lh46u5mjizF0HSz2FEfjBMyxW+ggPnxTHRbQedkRSnCXT3TRT1ucSo+xR+FlnGqmT23wBp1TKuY=;diZZaA7O5cx5Bxe8uqv8XA=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-09T09:00:12Z
 webUrl: "https://azure.microsoft.com/blog/accelerating-digital-transformation-in-manufacturing/"
 type: article
 quality: 86
-heat: 86
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 683
     title: "Accelerating digital transformation in manufacturing"
 
-secured: "3nUpWp2py2aTW+pk88+5pvpvkbuyWKxkI4zn1vLAJYq9HfHq83sqLlfHFp+4mJ+r+Y90MCYfzTJePvSW/7hzSXPxC52+wTBJcRPtoXBOjIsR9sdJRx0cArReKZbDo1ZNzfXR5exb4/CTqkWyDFmDf7xfoSoPE2D7hdC3HoqChWrILjrbz/sJd26uV0q/NWS2qP7W4zp88w9V8UWUmCr5skQPjcTsO32qL7teGOyC2rXDt5GzxNSJbUqylj7DReHfW5Gp0lbojsu52RwrI5X04OOT6GtJvp29Vt1s1XASrYPN5wUk78PzzHzA8fsoj+3fV/l4H/R67llAPeLZ8nvamw==;e1ejPT42cjTeJhjOueFplA=="
+secured: "s8GH0KefUlboOcvc8JwNznoSw1RvF6hpnRpUFG7TKXorg/lWyMEQkq26VEigw3zojQkadXB0wNINjmHZ8LSCqLSKxG4S2OMUQeKNN67sozhM9GtrErMe6/vKFtDr63QJyK89sf81aPl7wvtRfZmFBGauy90WQA8wQrFu5IgY/d/VMjdTlSrvEh/oLioQ5kFk2sHw4v4bNwnjUbUkO7VHHQIQQsKboK9N9ItygIVvmCsMp4+yOk1IQfpeJvQmL5bug4xp0jprGLlkLdz4I5QAWg0tw7aa3MyLaRM83+fReFgcClkTONJDUCV++pJcqR/Hhd17eef0IIpdRZOLHXKZRg==;pSxNCTUlIJU6r4dp58Kksw=="
 ---
 

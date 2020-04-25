@@ -6,7 +6,7 @@ publishedDateTime: 2020-03-06T08:00:29Z
 webUrl: "https://azure.microsoft.com/blog/data-agility-and-open-standards-in-health-fhir-fueling-interoperability-in-azure/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:
@@ -21,6 +21,6 @@ topics:
   - Azure
   - IoT
 
-secured: "ne3RUcXaEVZbqFjPOXG/ZucJrflOkB/7mT8AHw5D0XGoPOx4vziY73gw6D6gqPhLV+9nYuOIBKEtstGUAuU+wY/TpZgdc+i75JUwtCoEpAbbDHoR49VMeAI/rxGTO0LFyJYqawnbj7CyzmIxxV2wRdEr+tc1kGH7wPGOJHqKLHUM90OndBvsOu6hdsQolF5dQJMExCmVPwzlUlGy1Zyzm81DJV9K0mKtG52zd9DX/jM9s09XI5umIJyAjavuZFg4QHYb0xibe2OT8Plh+e9Jw8q5zWsaszxqq026lPPqNsAxxCuzeMBQwFol9Lh2VB/vRKccR1WfHFoyx82KhHE8jw==;hkssIXTAGMsw3dPWi5e6DQ=="
+secured: "KD1rf1qz6TE1OaJMBqKBD7OCoxonBeOIEvMV6O7r1jJM1L1GShh4srhVXHMFm7eq28OIr20S2/bQYpFwUQxh1mzENXuimzdx4H39kaYqPGCK43gYT3GiQwYHZUAhQTWggDKwJaxzydHPN0viewXuYJJ4C8W84WVQTAivkSrewxu0dwaU13UkIFbyR+yhZkv5VrgSFm4073YMk5+6dFNOt+A9xAqcA4B4cliC59sRIw9ZjvhF1Th/X8Xj21CGElx4Ou9Gf/syM1/walmc5+Gg3Gtjsc5Z1SjDjZzZOk9isZ5STEISvCZoNrwI9iKVPx9bWB839eWmQomsclvcTfSISw==;1bOJKm59YpRprq6IJkmMTA=="
 ---
 
