@@ -6,8 +6,8 @@ publishedDateTime: 2020-04-20T10:02:00Z
 webUrl: "https://www.infoworld.com/article/3321176/14-ways-aws-beats-microsoft-azure-and-google-cloud.html"
 type: article
 quality: 77
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: InfoWorld
@@ -28,16 +28,16 @@ images:
 
 related:
   - title: "GOOGLE CLOUD PLATFORM VS. MICROSOFT AZURE"
-    excerpt: "CSO offers the latest information and best practices on business continuity and data protection, best practices for prevention of social engineering scams, malware and breaches, and tips and advice abut security careers and leadership."
-    publishedDateTime: 2020-04-16T18:15:00Z
-    webUrl: "https://www.csoonline.com/resources/201378/google-cloud-platform-vs-microsoft-azure"
+    excerpt: "We've compiled the ultimate GCP vs. Azure guide that takes a deep dive into the 10 key ways that the two cloud providers differ. Download the guide for stats, head-to-head comparisons, and customer perspectives that reveal which provider is leading the public cloud race."
+    publishedDateTime: 2020-04-16T18:20:00Z
+    webUrl: "https://www.infoworld.com/resources/201378/google-cloud-platform-vs-microsoft-azure"
     type: article
     provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 37
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 77
     images:
-      - url: "https://idge.staticworld.net/cso/CSO_logo_300x300.png"
+      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
         width: 300
         height: 300
 

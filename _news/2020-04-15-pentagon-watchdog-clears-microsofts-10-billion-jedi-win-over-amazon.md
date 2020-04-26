@@ -1,32 +1,26 @@
 ---
 category: news
-title: "DoD watchdog sanctions JEDI award to Microsoft over Amazon, calls bias claims unfounded"
-excerpt: "The findings represent a victory for the Defense Department and Microsoft. The two are eager to start work on the Joint Enterprise Defense Infrastructure (JEDI) project pending the outcome of a legal challenge. It’s a blow to Amazon, which claims that Trump’s personal animus toward the company and its founder, Jeff Bezos, improperly ..."
-publishedDateTime: 2020-04-15T16:38:00Z
-webUrl: "https://www.geekwire.com/2020/dod-watchdog-sanctions-jedi-award-microsoft-amazon-calls-bias-claims-unfounded/"
-ampWebUrl: "https://www.geekwire.com/2020/dod-watchdog-sanctions-jedi-award-microsoft-amazon-calls-bias-claims-unfounded/amp/"
-cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/dod-watchdog-sanctions-jedi-award-microsoft-amazon-calls-bias-claims-unfounded/amp/"
+title: "Pentagon watchdog clears Microsoft’s $10 billion JEDI win over Amazon"
+excerpt: "The Defense Department’s watchdog found no evidence that the Pentagon’s controversial decision to award a $10 billion cloud-computing contract to Microsoft was the result of interference from President Donald Trump,"
+publishedDateTime: 2020-04-15T16:10:00Z
+webUrl: "https://www.stripes.com/news/us/pentagon-watchdog-clears-microsoft-s-10-billion-jedi-win-over-amazon-1.626150"
 type: article
-quality: 74
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: GeekWire
-  domain: geekwire.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/geekwire.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Stars and Stripes
+  domain: stripes.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://cdn.geekwire.com/wp-content/uploads/2018/04/2196640900_c072470031_z-630x451.jpg"
-    width: 630
-    height: 451
-    title: "DoD watchdog sanctions JEDI award to Microsoft over Amazon, calls bias claims unfounded"
+  - url: "https://www.stripes.com/polopoly_fs/1.626151.1586966540!/image/image.jpg_gen/derivatives/landscape_490/image.jpg"
+    width: 490
+    height: 341
+    title: "Pentagon watchdog clears Microsoft’s $10 billion JEDI win over Amazon"
 
 related:
   - title: "Pentagon's inspector general says Microsoft's JEDI cloud win should stand"
@@ -59,6 +53,21 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d9fd65a-cbde-44cd-8be7-69ca1b916d0b/6161526e-62a1-46df-9a5e-9c833fb50275/1280x720/match/image.jpg"
         width: 1280
         height: 720
+  - title: "DoD watchdog sanctions JEDI award to Microsoft over Amazon, calls bias claims unfounded"
+    excerpt: "The findings represent a victory for the Defense Department and Microsoft. The two are eager to start work on the Joint Enterprise Defense Infrastructure (JEDI) project pending the outcome of a legal challenge. It’s a blow to Amazon, which claims that Trump’s personal animus toward the company and its founder, Jeff Bezos, improperly ..."
+    publishedDateTime: 2020-04-15T16:38:00Z
+    webUrl: "https://www.geekwire.com/2020/dod-watchdog-sanctions-jedi-award-microsoft-amazon-calls-bias-claims-unfounded/"
+    ampWebUrl: "https://www.geekwire.com/2020/dod-watchdog-sanctions-jedi-award-microsoft-amazon-calls-bias-claims-unfounded/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/dod-watchdog-sanctions-jedi-award-microsoft-amazon-calls-bias-claims-unfounded/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 74
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2018/04/2196640900_c072470031_z-630x451.jpg"
+        width: 630
+        height: 451
   - title: "Pentagon watchdog clears Microsoft’s $10 billion cloud-computing win over Amazon"
     excerpt: "The Defense Department’s watchdog found no evidence that the Pentagon’s controversial decision to award a $10 billion cloud-computing contract to Microsoft was the result of interference from President Donald Trump, though it said its probe was limited by the White House. The 317-page report issued Wednesday by the inspector general also ..."
     publishedDateTime: 2020-04-15T15:52:00Z
@@ -102,19 +111,6 @@ related:
       - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2019/10/us-pentagon.jpg"
         width: 1280
         height: 720
-  - title: "Pentagon watchdog clears Microsoft’s $10 billion JEDI win over Amazon"
-    excerpt: "The Defense Department’s watchdog found no evidence that the Pentagon’s controversial decision to award a $10 billion cloud-computing contract to Microsoft was the result of interference from President Donald Trump,"
-    publishedDateTime: 2020-04-15T16:10:00Z
-    webUrl: "https://www.stripes.com/news/us/pentagon-watchdog-clears-microsoft-s-10-billion-jedi-win-over-amazon-1.626150"
-    type: article
-    provider:
-      name: Stars and Stripes
-      domain: stripes.com
-    quality: 22
-    images:
-      - url: "https://www.stripes.com/polopoly_fs/1.626151.1586966540!/image/image.jpg_gen/derivatives/landscape_490/image.jpg"
-        width: 490
-        height: 341
   - title: "Pentagon watchdog uncovers no Trump influence in $10B JEDI contract awarded to Microsoft over Amazon"
     excerpt: "The Pentagon's inspector general uncovered few problems with the hotly contested $10 billion JEDI cloud-computing contract given to Microsoft but was not able to assess assertions of ethical misconduct due to limited cooperation by the White House."
     publishedDateTime: 2020-04-15T21:09:00Z
@@ -127,6 +123,6 @@ related:
       domain: washingtonexaminer.com
     quality: 7
 
-secured: "2NXDbTioU7xsahC2ar1ephnZIRCe3ek1nd+sTzqKDLIYdGaBfdxgJcJYNWOKc10zwqPBqcfuzyVtUg7+6sv2DW8XSmCQw+Uo7uSmENxY8XuyU1KekXJNeTF7D1enuXGkl9PJitCfU9pifauUAGBWez4NEO/Jl47DqD712+EE5sodaGfzlmYPGl71qfDlWp29KrogysO6bj5uEN19EOMqWbf183dKoLJle5Q+ZKhH4yO48cLqjjcMaOXiH3fkPjU235tk4kJMBqeVI5vXbHLX0mUTJN7+wdGyd7rpeYBeX+QL0ew/rLkXbVla7l+qw7zHbzUM5A5IfhNzXp8eUXkmlpMfZt0P9dcn2NLesBTYKZc41y9SU9pMlhXmk4iMz7uISsBDla4sG8rs/YlJwq6psr98EVStghy7v5EpMdNo76t8Dj9x+LjsbIHUvsvCcURBI8O++aYvAYsa8WymH+AhEFVxc3II7k2+hET3/+ISLi0=;4SWmrTvuBWuIzwhusn/tvQ=="
+secured: "Rh+J8uIU8P4R7EivRH5ULTr5u6vGplF+nq3HQm2vigdMBWQc2m2d5grNWqly8lI24SVABM7ANXbX9m7Z2c8dvjmW32HZQXWRxvV5DRIKWaCyuMdAucz4GUsgiMT0nMvtKyy3AYIF6Mf944cCh/ODN1MVd1aL6fpsx65bZ5iRSx+BlLC+Gq8SRCUDrkMqOyQlCcDqmseNNsHIF3as82seVstFaWXWG1lMiKWRWTYm6JAXx128zb66e0td0XhUuUt5kb6gvkUBnjUeaBW00xE2eL27rS/Mo2fvbNpWvEkNiC0CR8AtWqp36u+Sn8h/I2Xr;HG4b5PZ0sy8PeDKHdrP1Ug=="
 ---
 

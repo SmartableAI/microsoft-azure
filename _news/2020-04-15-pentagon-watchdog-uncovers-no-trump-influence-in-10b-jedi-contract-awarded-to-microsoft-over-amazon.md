@@ -107,6 +107,19 @@ related:
       - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2019/10/us-pentagon.jpg"
         width: 1280
         height: 720
+  - title: "Pentagon watchdog clears Microsoft’s $10 billion JEDI win over Amazon"
+    excerpt: "The Defense Department’s watchdog found no evidence that the Pentagon’s controversial decision to award a $10 billion cloud-computing contract to Microsoft was the result of interference from President Donald Trump,"
+    publishedDateTime: 2020-04-15T16:10:00Z
+    webUrl: "https://www.stripes.com/news/us/pentagon-watchdog-clears-microsoft-s-10-billion-jedi-win-over-amazon-1.626150"
+    type: article
+    provider:
+      name: Stars and Stripes
+      domain: stripes.com
+    quality: 22
+    images:
+      - url: "https://www.stripes.com/polopoly_fs/1.626151.1586966540!/image/image.jpg_gen/derivatives/landscape_490/image.jpg"
+        width: 490
+        height: 341
 
 secured: "KLg8jy3bj+U4Zv8t65GwazwOmCf2s9cH/biV63VarCP0naTCbPO+Sly06PWmu7F+Znwvx5wow5qZcAn/zSciI0F9m0z1sCMa2WQLYpDOsfRywTvaX8bJ8aYWI1VQ8pnNlE5CkU0+81WLdiOy2CBxns2jvEP2hCw8OhbNieEq66lZaIJmXYFfeVDqxQJoflFplZTnCUMrWWAHWm8oE6TjWcibexbxtACxqW+n/HjfrsyUNDjaPZOCim73oECNTtXRFgOJ5D4JQt9t8TuI1l7dBId5KEC3dfd6tKpnJ1B7zvbt7UytRq31tDhapkio8iyI4IXenjMNkRah3yvDCJieIpyM2to/+J2FiJvAwVEtgfxfyCvTPBp7CUIQzhuZb3MkY2KWnlRdeI9ig18rim3LAakQzyHQttnqR3Pv/Rhg35w59Lbk3Bi7wFwX2yEXTMnNg+vqdf/GQxmbAKmKWfIspmrROkm2bw52quXpemPwdWY=;2TXYcZl8d7d85lZUxkriFw=="
 ---
