@@ -3,9 +3,9 @@ title: "Core Cloud Services - Introduction to Azure"
 excerpt: "Get started with Azure by creating and configuring your first website in the cloud."
 webUrl: https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/
 type: course
-price: 
+price: Free
 length: 36 mins
-heat: 0
+heat: 
 
 provider:
   name: Microsoft Learn
@@ -22,9 +22,10 @@ topics:
   - Azure
 
 images:
-  - url: https://docs.microsoft.com/en-us/learn/achievements/welcome-to-azure.png
+  - url: https://docs.microsoft.com/learn/achievements/welcome-to-azure-social.png
     width: 200
     height: 200
     title: "Core Cloud Services - Introduction to Azure"
+
 ---
 

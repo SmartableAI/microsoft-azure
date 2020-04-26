@@ -3,9 +3,9 @@ title: "Core Cloud Services - Azure architecture and service guarantees"
 excerpt: "Azure provides a global network of secure datacenters you can deploy your services into. Learn about the physical architecture of Azure, how redundancy is provided, and what service guarantees Microsoft provides."
 webUrl: https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/
 type: course
-price: 
+price: Free
 length: 45 mins
-heat: 0
+heat: 
 
 provider:
   name: Microsoft Learn
@@ -22,9 +22,10 @@ topics:
   - Azure
 
 images:
-  - url: https://docs.microsoft.com/en-us/learn/achievements/explore-azure-infrastructure.png
-    width: 200
-    height: 200
+  - url: https://docs.microsoft.com/learn/achievements/explore-azure-infrastructure-social.png
+    width: 100
+    height: 100
     title: "Core Cloud Services - Azure architecture and service guarantees"
+
 ---
 

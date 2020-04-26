@@ -1,0 +1,31 @@
+---
+title: "Build applications on the cloud"
+excerpt: "Learn how developers write programs that run on the cloud, including how to deploy, be fault-tolerant, load balance, scale, and deal with latency."
+webUrl: https://docs.microsoft.com/en-us/learn/cmu-cloud-computing/cmu-build-apps-cloud/
+type: course
+price: Free
+length: 81 mins
+heat: 
+
+provider:
+  name: Microsoft Learn
+  domain: microsoft.com
+  images:
+    - url: /assets/images/organizations/microsoft.com-50x50.jpg
+      width: 50
+      height: 50
+
+levels:
+  - Beginner
+
+topics:
+  - Azure
+
+images:
+  - url: https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/build-applications-on-the-cloud-social.png
+    width: 800
+    height: 400
+    title: "Build applications on the cloud"
+
+---
+

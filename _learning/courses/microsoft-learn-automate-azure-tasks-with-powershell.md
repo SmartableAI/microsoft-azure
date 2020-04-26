@@ -1,0 +1,31 @@
+---
+title: "Automate Azure tasks using scripts with PowerShell"
+excerpt: "Install Azure PowerShell locally and use it to manage Azure resources."
+webUrl: https://docs.microsoft.com/en-us/learn/modules/automate-azure-tasks-with-powershell/
+type: course
+price: Free
+length: 71 mins
+heat: 
+
+provider:
+  name: Microsoft Learn
+  domain: microsoft.com
+  images:
+    - url: /assets/images/organizations/microsoft.com-50x50.jpg
+      width: 50
+      height: 50
+
+levels:
+  - Beginner
+
+topics:
+  - Azure
+
+images:
+  - url: https://docs.microsoft.com/learn/achievements/automate-azure-tasks-with-powershell-social.png
+    width: 200
+    height: 200
+    title: "Automate Azure tasks using scripts with PowerShell"
+
+---
+

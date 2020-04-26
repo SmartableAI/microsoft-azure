@@ -3,9 +3,9 @@ title: "Cloud Concepts - Principles of cloud computing"
 excerpt: "Explore the core concepts of cloud computing and how it can help your business."
 webUrl: https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/
 type: course
-price: 
+price: Free
 length: 62 mins
-heat: 0
+heat: 
 
 provider:
   name: Microsoft Learn
@@ -22,9 +22,10 @@ topics:
   - Azure
 
 images:
-  - url: https://docs.microsoft.com/en-us/learn/achievements/principles-cloud-computing.png
+  - url: https://docs.microsoft.com/learn/achievements/principles-cloud-computing-social.png
     width: 200
     height: 200
     title: "Cloud Concepts - Principles of cloud computing"
+
 ---
 

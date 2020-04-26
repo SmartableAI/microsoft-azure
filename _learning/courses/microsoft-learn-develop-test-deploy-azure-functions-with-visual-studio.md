@@ -1,0 +1,33 @@
+---
+title: "Develop, test, and deploy an Azure Function with Visual Studio"
+excerpt: "Create test and deploy Azure Functions using Visual studio and how to manage Azure Function code."
+webUrl: https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-visual-studio/
+type: course
+price: Free
+length: 43 mins
+heat: 
+
+provider:
+  name: Microsoft Learn
+  domain: microsoft.com
+  images:
+    - url: /assets/images/organizations/microsoft.com-50x50.jpg
+      width: 50
+      height: 50
+
+levels:
+  - Beginner
+
+topics:
+  - Azure
+  - Compute
+  - Serverless
+
+images:
+  - url: https://docs.microsoft.com/learn/achievements/develop-test-deploy-azure-functions-with-visual-studio-social.png
+    width: 800
+    height: 400
+    title: "Develop, test, and deploy an Azure Function with Visual Studio"
+
+---
+

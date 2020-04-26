@@ -1,0 +1,31 @@
+---
+title: "Design for security in Azure"
+excerpt: "Learn how to incorporate security into your architecture design, and discover the tools that Azure provides to help you create a secure environment through all the layers of your architecture."
+webUrl: https://docs.microsoft.com/en-us/learn/modules/design-for-security-in-azure/
+type: course
+price: Free
+length: 62 mins
+heat: 
+
+provider:
+  name: Microsoft Learn
+  domain: microsoft.com
+  images:
+    - url: /assets/images/organizations/microsoft.com-50x50.jpg
+      width: 50
+      height: 50
+
+levels:
+  - Intermediate
+
+topics:
+  - Azure
+
+images:
+  - url: https://docs.microsoft.com/learn/achievements/design-for-security-in-azure-social.png
+    width: 200
+    height: 200
+    title: "Design for security in Azure"
+
+---
+
