@@ -28,6 +28,6 @@ images:
     height: 637
     title: "Is NVIDIA’s Cloud Gaming Platform Already Dying?"
 
-secured: "sXOReVFQIr3Gzn39VmYXWx5IBAkGt0PLRlAHDxt3uPZT0xj8MNGMlJZ5/c//J1x1iTnynAiHDj2Sygh5AAMsHE7BUs1pnpOxEh9JsJDs07/IeRp3VQpIV9ZsadPyWGyE2EJxcwno3BwS2lqo9L/GTtOEY4xCeMUmXb974aZG7OOTt8E6iCvphuhxYzqjk3zur8Pp1wqc4XZqpo+o7p9gGJtBvZLMmxn4CGtOrr+YbjrX9Js+gutQq9UQKEmRj8IaWZ9Qh/uhtEMecfya7VMBpV1VAs/8ke0AbHjqBFmqm+wk5yNMWfVPR/jBLCb6HlIO;bLZWaFG3Iig+3g+lryzEXQ=="
+secured: "uTIZ/65WkwoggTEaBvzhTidwdJYp8b4IfPwQVwuMfkP5TH13Zai+udi4iPE4gSxablB3bCXSm8rPVrvJJWmN2c4sdvQz1qYQJXWiBWUhDW+CWVjqMqh2sazArl/6Itn2KJEwqyDhZxjdDRCLGcDbNpITLEgXotSOZD0wMke16eNwdpOAGQkNk9PfeUKr7gKu1v6sKq/rSWG9coMncr6otYKYWVRpe2haYpuSSoJp4i3w3MwuaaKbBexqmKTe2RSCW4oEME5N6Np+VRvxJAGDY6/BQJ4bG/wi6VtOVQLXvopd9i7uTwAbmuFzY612dFiF;0XOp6kadMxQ6BmVmQ0F7Bw=="
 ---
 
