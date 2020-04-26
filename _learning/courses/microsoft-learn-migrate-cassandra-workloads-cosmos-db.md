@@ -19,7 +19,9 @@ levels:
   - Intermediate
 
 topics:
+  - Azure
   - Databases
+  - Migration
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/learn-pr/achievements/migrate-cassandra-workloads-to-cosmos-db-social.png

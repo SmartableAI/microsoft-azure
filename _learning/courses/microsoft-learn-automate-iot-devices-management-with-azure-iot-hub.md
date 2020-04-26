@@ -20,6 +20,7 @@ levels:
 
 topics:
   - IoT
+  - Azure
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/iot/automate-iot-devices-management-with-azure-iot-hub-social.png

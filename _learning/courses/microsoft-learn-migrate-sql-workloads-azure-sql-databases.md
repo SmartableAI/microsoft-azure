@@ -19,6 +19,8 @@ levels:
   - Intermediate
 
 topics:
+  - Azure
+  - Migration
   - Databases
 
 images:

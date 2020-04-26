@@ -20,6 +20,7 @@ levels:
 
 topics:
   - Azure
+  - Migration
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/migrating-sap-workloads-azure-social.png

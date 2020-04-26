@@ -20,6 +20,7 @@ levels:
 
 topics:
   - Azure
+  - Migration
   - Compute
 
 images:

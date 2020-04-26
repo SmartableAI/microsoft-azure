@@ -20,6 +20,7 @@ levels:
 
 topics:
   - Azure
+  - Security
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/design-for-security-in-azure-social.png

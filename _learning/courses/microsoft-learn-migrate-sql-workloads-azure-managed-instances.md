@@ -19,7 +19,9 @@ levels:
   - Intermediate
 
 topics:
+  - Azure
   - Databases
+  - Migration
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/migrate-sql-workloads-to-azure-managed-instances-social.png
