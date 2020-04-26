@@ -28,6 +28,6 @@ images:
     height: 683
     title: "Accelerating digital transformation in manufacturing"
 
-secured: "KofXrIKBy+s5yhrWCyuylqVZ90q3vNJOo2PnV7MKZs6m9YRiH6Tfni8WS46Bla04mbXZIoun2lyiO1Ohukk5kY3zOZdU/Kez1+Zfue4FiOhVCfGaa/glvvLtMufwF7eVeD8XmBjcSjBX3Gta+JFXetV0gtYLBubCo42p/d9QL4MJyb24An6q+cFW5P8Qhc01M7x30WNRX7x5ii2keet02HYkqnZmZbWbpoSXG6WGRR3YMA/ipZP0kDL1EAz3vR8+YUGuw5mSsZwYSRbPeq67Ce/YeXCDn732s231fIeq/FcpX4X+7aMISk01Vuq5NQUU96yF/xcxr/lMJQqTuzp5SA==;GfkJFSr5hBFn+T1tPkNp0Q=="
+secured: "FP57Qdzx6Clv4FNeI1eNBjC9nGBtjQGHAkiIhbVLNew9MPbX97YGV58bdYu5T+RXU0ozI0S1j2VVRinQY2NrGkLe2oO6oJF9HxtuOJvNh7jJB6G+fMq66lXE0W/s1/JemmbfZaDd9ksl9DHRdzGcC5Poic2pUPT5XC62imQINv6J/7SaOhRgyX403PvQuRuHUee1M5HAJq7Bifh15C4MZ7sB603KxGHJ8uW/0OcOaSoc8TETqZDFSO8+ZiUZYk4sG/weTyMeHJOt2E3pXsJvjOa4QJXyitEQdsBghQR6R7z5kVMStVR1LtWzNeRU2+upt8GKi5vde1aMzyxzE9dpwg==;o+0gMYjQZajRnH+ZFPGgPg=="
 ---
 
