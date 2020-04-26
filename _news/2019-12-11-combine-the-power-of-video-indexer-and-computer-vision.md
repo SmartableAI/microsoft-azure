@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-11T10:00:23Z
 webUrl: "https://azure.microsoft.com/blog/combine-the-power-of-video-indexer-and-computer-vision/"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 645
     title: "Combine the Power of Video Indexer and Computer Vision"
 
-secured: "1Vi33X1dvWqG6a4j9Pr9kIPws5JMbUepn4X6TT8HENN7Pd8awM/xfvjTudZ+1YpYVpPRoyPDgI3QykTpZaDyMZcm9Tyai/ZE+wwIbNT7s737LrxUJOezUR0/QJOaCenrTnuJhPXKH0FwiuE1MlxR0d3jB7sD8Q+gSSno2HIuP9CFO2A2ZIlw/r23jLfc/Vq0QUNMZg2tvkK3FS+RTYEFsIsR0CRhrS8Y4IQnNiOfXjrsZkKM8DtkcwWCwXstK+Hx9zWtlLy3Qm0Ociyt7tCqxk/XBK3ZEvIgzGBUtWYGugdkvsGR+UWH82bXQKku78KM1l8a30TFrCq0H68oh1lH3w==;ubCpDiMQIXCcMcdFR0KlnA=="
+secured: "ocX7IB4t2mXTfYjwSpcuDR5q+r1tnyMSK+0rwhmKEd+G8U741lseRWp+ZuqFcqTzv7xxN6gC3MyrnJvu3EMSQX+lKA+mHyF8u2RGln+NO05K+WiZzfM3tSqymGJWaB4wTv6c8v+fBWOO6YUcqNPv0mak7qav1jCI80Y+FzFRZwlk0o/YccPSawk2XzadM2gppvtl4L0v6s8EB9R7vibqNSQe/SEnyojUccexC5IFIV1wrKfuW+kFcvIhcOOuOPrRZEjPPhwDw+rD593sex2hD1j3u+tLV6yDJj+joAUw7DNn7qKOPjjqF08GtG96gbuwGyvV7/qHjIqblRcJaktQQQ==;N6mrDQHOCKg/w8o7mQPJMQ=="
 ---
 
