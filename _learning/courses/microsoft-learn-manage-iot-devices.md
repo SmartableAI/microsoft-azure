@@ -20,6 +20,7 @@ levels:
 
 topics:
   - Azure
+  - IoT
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/manage-your-iot-devices-social.png

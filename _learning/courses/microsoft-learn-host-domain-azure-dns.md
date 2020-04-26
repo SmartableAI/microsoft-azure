@@ -20,6 +20,7 @@ levels:
 
 topics:
   - Azure
+  - Networking
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/host-domain-azure-dns-social.png
