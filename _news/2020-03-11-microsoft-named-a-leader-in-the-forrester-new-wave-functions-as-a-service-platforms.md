@@ -27,6 +27,6 @@ images:
     height: 670
     title: "Microsoft named a leader in The Forrester New Wave: Functions-as-a-Service Platforms"
 
-secured: "zcl9kpR+75KE84eR8fymJKmgFNPJiMkQm16CO/82XvcuAL/hF+3Ojp1VU9R2VuaSj1KY6uMDG/gYFuuBBSTcf0wIGJ2uETbCu13jW6cQmVY6w2voip6Ri7J59kefYtt5Cp8JBE+YYZqxSHXQyGskzv1+FJQ7F3TIXZVPHGQ/Uv4rMVMd5PyyTn97T5ro69Q7/MTMGJ3lLSF9/NrDVm7LxVEsH11ByzchI1UBfIzDuu+0j4+dyzxTDnY5YNaT5ZAGahdhrird1sYQyoxO8DotD7XQIMuSCrICiMNnGMDkhqocc2OjGyKB9WE+NW3sv+Z5UONtDQPbSQDgR/EcvmzxWw==;nMvWBlWJfdM5ASxzke4Tvw=="
+secured: "UgYu+2KofBL7UkYMdRJbZsh37RmG1/LSLG4wJa/bVBPYLYDTmOFoQNkTFulV7bMIfe4mHutOe4VseoV6WL0TUwE6spqdbwDcDo9lF9Coy6zw/sXow6EjhFOr7wRskRbI9O9Arx3e7yQBaQjowDojRN0LSHfjD8RjHo1nImXcZNX0knl3Q2exggPNJXj3Zqfb1hvXHhsNFEOg1H3ocOiz0Rscp2bCJsiC/RaYmfhiY5EEv/c2xLdMqSJcClO9TVcwFCZbWVWR1lVdAFKnIxrDPHjzKoSbC3Dns9wc6aCYkMyKFPA7zsTHcB7h2TbsOnoq+h3MM5oQbV7b4g2/78SgGw==;njxKdKY3JxvorLXxEs4wng=="
 ---
 

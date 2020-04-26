@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/04/25/is-nvidias-cloud-gamin
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/25/is-nvidias-cloud-gaming-platform-already-dying.aspx"
 type: article
 quality: 82
-heat: 82
+heat: 83
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 637
     title: "Is NVIDIA’s Cloud Gaming Platform Already Dying?"
 
-secured: "CXdpbOdvCVxzknOcf2LaBkF1frRYBgBedP7TxBzcLwApiI9a3jrhK19mDdTRl0vmh0JboqmqKaYHUyMF2B2k/VRbO9sRsbxh2aTd14caA/quX5liywmSwJ7+a3t7G7dg2/qmvb3afIkKTgCBru0QUmzyi1FifdZ8yhfP/qGqLS8ElppFJuqQME35m2g5QzrSk5AoCSNDQQ/wtlSm6V6OSkZ8OQE0DbxT7oJbn58Kz203XWN9bZXBrxtoSAY3glsXIxTyUmMJe/sHNbPGZRhTB5ggFrArsKWU+o3XMu5SMMDN7bx5ghi4jW2LWs6pOGCy;fBQg+7kYPuaiGCBdpgBBag=="
+secured: "1Gk6sRNTM3T500oX/btAEgH0LZpitekwioKTJHPKNFmATH2tkInIeMp4/plAgPrh0zO5wTWzrBKK7pbXjInmRK0J/7uk/KmGsrkfus3yuLr/FXVhMa3Qc0lQXNbvkfEgsIFOvM7owLmo4aC29IZRGLcAn5nfB1W+VjMFflKYx123Cog9emZD+sSRZo0mS8yX8m8Gs6RbgpGjNyw9vbXrAbUCttWOdjUtR/5JOKbo8C77ZaXkBXiZ7+MV2lQLoaPUJdkHM3dvHtIU5x//rgRK/+yQJ4GtY5zadEY0kW6DMoR8I3tUgrNbdJ9/tnZxG7m9;7ysPeRgmf/SsvnTKxaPiJw=="
 ---
 
