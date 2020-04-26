@@ -2,6 +2,51 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-02-18-azure-offline-backup-with-azure-data-box-now-in-preview.md",
+      "title": "Azure Offline Backup with Azure Data Box now in preview",
+      "excerpt": "An ever-increasing number of enterprises, even as they adopt a hybrid IT strategy, continue to retain mission-critical data on-premises and look towards the public cloud as an effective offsite for their backups. Azure Backup—Azure’s built-in data-protection solution, provides a simple, secure, and cost-effective",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/azure-offline-backup-with-azure-data-box-now-in-preview/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-18T01:00:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/3480941d-7a91-4521-b196-d0bbab7c616b.png",
+          "width": 1054,
+          "height": 581,
+          "title": "Azure Offline Backup with Azure Data Box now in preview",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
       "path": "_news/2020-02-13-sql-server-runs-best-on-azure-heres-why.md",
       "title": "SQL Server runs best on Azure. Here’s why.",
       "excerpt": "SQL Server customers migrating their databases to the cloud have multiple choices for their cloud destination. To thoroughly assess which cloud is best for SQL Server workloads, two key factors to consider are:\r\n\r\n\r\n\t\r\n\tInnovations that the cloud provider can uniquely provide.\r\n\t\r\n\t\r\n\tIndependent benchmark",
@@ -1023,43 +1068,6 @@
       "topics": [
         "Azure",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2019-11-13-save-more-on-azure-usageannouncing-reservations-for-six-more-services.md",
-      "title": "Save more on Azure usage—Announcing reservations for six more services",
-      "excerpt": "With reserved capacity, you get significant discounts over your on-demand costs by committing to long-term usage of a service. We are pleased to share reserved capacity offerings for the following additional services. With the addition of these services, we now support reservations for 16 services, giving",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/save-more-on-azure-usage-announcing-reservations-for-six-more-services/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-13T05:00:16-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Databases"
       ]
     }
   ],
