@@ -32,6 +32,6 @@ related:
       domain: microsoft.com
     quality: 77
 
-secured: "YGqgswXFZBvhvD4utdiDMywwKvA/iQbKR/KspCQMpS7Ioh/+68RLdjel01xEu4i8kG8+7TdbPyDFiK6AVJRrnPfptZWjWV1sxx51IyLLz+Uqxi8Rek2sHNyMxhh4wxMR5Josj/EnDt+EE9z+8AsFeb87Nh1Uva1wv5CSVhan0atVQkerW88AiwPAlbftT2mzvU5+zwxJbGDGwmLCCIr0lmCPdPEcD8go4PV+ez/UK9OV6BnMgMuD0bI9MEXoLGDL/hfL5JztjU++iipSq7icrG5vbGmTpZs5DO/gN1rVmF0s4vemQXzmPkIRvjWBVaN5g80Xgl2FkwgOIkvY0n06ew==;iyqbWnohb5w3YXJFaM3z0w=="
+secured: "6n0UbYTJHkmbqc3PAZuzMM0DSxt9jFqD8pE/BGHG0NSE1ZGR6dIDGYhNOIRj6MzW9UGvwSncao1RgCpXP7zHEOek5NVgHSMHEw50MPZqOIleBaHl72J8wVgXTJdEduacjSCR3GZo4VDvODK5gFJ0J0sVW7Eu9+uKw/ru0X2nuoOq/uEu+7JJlCGOC8ebSritbw9gfSBos97fFIGzB7rVoRvN9fDB0we2rJe77qXwzzDtCLFs3Van3pi1vQ8SHi/PZw91mYmXDzPNMkrhnoybRY90k4Q+Rg4HsyKaZZDFXxlHyjefA6FG0SIH6gnGrcc1iRhuIksdFoQ65yBbsTj3ow==;IPdcExJIb/QU2dl17YNOzw=="
 ---
 
