@@ -26,6 +26,6 @@ images:
     height: 450
     title: "These four charts show how use of Microsoft Teams, Slack, and Zoom has skyrocketed thanks to the remote work boom"
 
-secured: "syBzdg2nhISuKdLDeB1VlBmgX3u2y+32HPDqrHandCN6yjaEKor9qiTGFVv5e5aNmOMk745b+KjHFMkWhoXdSG0WrZrQGV0xLXGKudDJM0xdmDofEprO2uDICvs6WlOap85Z9oPEkFJ/2SmMpOjpaqVmc2g5CJ92Y7j2geoe/TqcflNLFjPV1xjG08P2xnJzbVpatTmfmtmVf6+n6vzdrmXW+YtQc+DxCkeRksGFys6vtAW4sPfetucJteuo86a2zP0pGkv/7Mxet1elyfV5hR2tN1OoZxci+99UZ3rWc9g0Q80X02CtV8Masv/p+8yY;meTAakGBwZXGLhE75D+hMw=="
+secured: "3j0oXurf48XlVQvYsHL3oRJ8/mZ+L0Gu4zt3nKIva/7W9V5/OIbfxRZsx3FcZqlFORrWvmQMm7djUOVl0J97C06ys9nEYTZpC0tseak3JlmFy44fShyPeltD27vYq93XZvpzU3o1/6baBQkn/df5ctVwWtwqWBs8PJXh4y1+jLRVRuRG5kr4KX6/6jHDzLWClpB6yDw0QcWnRKYrvnYTPmG9zomJIZ79Bhd+PKRyY2zElGuxrXUDNij+5bGhQZIXHGA0srgNP+/fUs1O2cfZkz1HhaEoXKwXwjvor86lxrq7j7DRHoH8B5x/fGpIoSnMojQSTggW/idxXWtt6nfw8/LPSOY+DC2Wtpf6Fr+5b6YmKOMiZIzoXKPe2nWB924/sJ/GlCThJYpHLJ8+6Db9c7hTSE4NGgswNaJbHhPDTehqAFzYOO7PhH2nmKjBBz6qddpkBdezSEb9KlhgDvOmz26i2L/cUP/ryf3+HjNs2ws=;p+jppKcScDcYwXIgUkbgLA=="
 ---
 
