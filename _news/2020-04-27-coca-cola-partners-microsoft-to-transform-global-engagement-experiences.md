@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-27T14:04:00Z
 webUrl: "https://www.telecompaper.com/news/coca-cola-partners-microsoft-to-transform-global-engagement-experiences--1336182"
 type: article
 quality: 1
-heat: 1
+heat: -1
 published: false
 
 provider:
@@ -17,19 +17,34 @@ topics:
   - Azure
 
 related:
-  - title: "The Coca-Cola Company announces strategic partnership with Microsoft to transform global engagement and experiences"
-    excerpt: "PRNewswire/ -- The Coca-Cola Company (NYSE: \"KO\") on Monday announced a five-year agreement with Microsoft Corp. (Nasdaq: \"MSFT\") to standardize its"
-    publishedDateTime: 2020-04-27T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/the-coca-cola-company-announces-strategic-partnership-with-microsoft-to-transform-global-engagement-and-experiences-301047345.html"
+  - title: "Coca-Cola selects Microsoft cloud to modernize its business"
+    excerpt: "The Coca-Cola Company today announced a five-year agreement with Microsoft to standardize its business operations on Microsoft’s cloud. As part of this partnership, Coca-Cola will be using Microsoft Azure,"
+    publishedDateTime: 2020-04-27T14:29:00Z
+    webUrl: "https://mspoweruser.com/coca-cola-microsoft-cloud-business/"
+    ampWebUrl: "https://mspoweruser.com/coca-cola-microsoft-cloud-business/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/coca-cola-microsoft-cloud-business/amp/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 42
+    images:
+      - url: "https://mspoweruser.com/wp-content/uploads/2020/04/Coca-cola-Microsoft.jpg"
+        width: 1189
+        height: 616
+  - title: "The Coca-Cola Company announces strategic partnership with Microsoft to transform global engagement and experiences"
+    excerpt: "The Coca-Cola Company (NYSE: “KO”) on Monday announced a five-year agreement with Microsoft Corp. (Nasdaq: “MSFT)"
+    publishedDateTime: 2020-04-27T15:31:00Z
+    webUrl: "https://apnews.com/PR Newswire/cd5af10340231d2145bc2ee6bc0ff70d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
     quality: 0
     images:
-      - url: "https://mma.prnewswire.com/media/24227/microsoft_corp_logo226_9217jpg.jpg?p=facebook"
-        width: 2695
-        height: 1414
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
 
 secured: "+FkMp5RwSAO+fzR2D/oqx5WQKnGzfFo5kXFwB2YK1W4wUpfRw1fZKGua1UJOGmNrqZyOVvGPbvxSn7KAMQvhprJtBePX3lpE+X2KW+dg2vs1LLlpFgF6bo7XGi+NDhmaALw8wIj3nb/swBzY2CRsPuMMsghf/6SdzGdTYwtNyPHGaBv5ZTkcOAm+WxtJpof231OXEgNZ1qRJL0gYY5do464VyrDQj4OTIIZUFF99akgwglpIGenRb0K37vOEBGzr0Fymu6NGqhergrN46/mfvIYTd9u9lpX4X8SHLmRiX6Iu/IOiV4IjhaHURQLaS2Sx;LTnvHt8tWv9j0DX3s3Eyiw=="
 ---
