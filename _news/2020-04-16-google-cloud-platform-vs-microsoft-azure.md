@@ -1,23 +1,27 @@
 ---
 category: news
 title: "GOOGLE CLOUD PLATFORM VS. MICROSOFT AZURE"
-excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-publishedDateTime: 2020-04-16T18:06:00Z
-webUrl: "https://www.computerworld.com/resources/201378/google-cloud-platform-vs-microsoft-azure"
+excerpt: "We've compiled the ultimate GCP vs. Azure guide that takes a deep dive into the 10 key ways that the two cloud providers differ. Download the guide for stats, head-to-head comparisons, and customer perspectives that reveal which provider is leading the public cloud race."
+publishedDateTime: 2020-04-16T18:20:00Z
+webUrl: "https://www.infoworld.com/resources/201378/google-cloud-platform-vs-microsoft-azure"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 77
+heat: 97
+published: true
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
     width: 300
     height: 300
     title: "GOOGLE CLOUD PLATFORM VS. MICROSOFT AZURE"
@@ -37,6 +41,6 @@ related:
         width: 700
         height: 394
 
-secured: "eca/iIMUqLkx31UnHIL9abml7ST1vywadkLhF23Gl2r/p0BaUfVHyrxscgzMhlHT3RB8UEauOtfcZDWfm5OOGzhx5ebBGHdveotljcbUwykRJT1tPA8nZNAuaBP1MaFea77agQ7q84qabLsr1J4WVz1sTBNKHQWPNsxNElQMfvDBY/HU23vuLUO0QcJEJQ/OUzqIkmt9nVD6airGFt9Lzh4xWKUT+f5hFKZAwrW2THRtiL7VMoMSMW8TozeG21Gz2MVvOm1GcELIVo9XVyQq+q0DxCfLRCy508rpKSwRh4YYdKetL5aDr0HSR/KsRbuDqK2R/CV0SnvJrDmxmWgT0vAGh2SrXY1NSYzc9HF2+TpCN5+OvxyGQTufb+1ajkqIE0QEBtXm3zZL3uaj7JQudg0RhZf023Eyh3AAdT3109KS8qpF+/Hqz9IitV9pPScePlzmhZuYkZ8xDAy2PYt32pw8M5FLF6Xr2s7TUWGRiO4=;nwZ7AReCoCmXgK6Eph814A=="
+secured: "cg5d4NJowl/68JN4YfpmyiwdC08z+9DFObyqdzqmkNVWvcR3x2Mr4ldxTb7UzltLuFVoap3C9qnp1qltAFbQ1uCTiy2Ccth4pxIXgdOek2RwI3NnQQ3z8+ySI5Eq0u6UPcsNdSiAMQxPlyT5l27bJzMEyA9tqNTH+vGJ1K9zlEeUuv6TfqELugAu2+DkgO9Is8oMUGLTyce78oBP/s121g2qmhl9o4+FF15mpUGuSl7EpHWIb4gnoIQGasxj3+fmOrEcCeDdqbw29TrHuHBjqe6+17Ws51Td8QMcnCwEIp9FVrj0H5h9pvOgRx3oOrob;LtFumYJo44NsCp+mbNEOGA=="
 ---
 
