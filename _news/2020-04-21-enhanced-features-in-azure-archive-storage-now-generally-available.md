@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-21T09:00:40Z
 webUrl: "https://azure.microsoft.com/blog/enhanced-features-in-azure-archive-storage-now-generally-available/"
 type: article
 quality: 79
-heat: 100
+heat: 99
 published: true
 
 provider:

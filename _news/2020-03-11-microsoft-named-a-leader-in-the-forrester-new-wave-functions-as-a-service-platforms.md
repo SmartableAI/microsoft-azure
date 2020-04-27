@@ -6,7 +6,7 @@ publishedDateTime: 2020-03-11T09:00:16Z
 webUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-forrester-new-wave-functions-as-a-service-platforms/"
 type: article
 quality: 77
-heat: 79
+heat: 77
 published: true
 
 provider:

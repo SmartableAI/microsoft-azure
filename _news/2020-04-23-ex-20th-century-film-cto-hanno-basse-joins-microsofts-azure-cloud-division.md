@@ -8,7 +8,7 @@ ampWebUrl: "https://variety.com/2020/digital/news/hanno-basse-microsoft-azure-ct
 cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/digital/news/hanno-basse-microsoft-azure-cto-1234588564/amp/"
 type: article
 quality: 55
-heat: 80
+heat: 75
 published: true
 
 provider:
