@@ -27,6 +27,6 @@ images:
     height: 645
     title: "Combine the Power of Video Indexer and Computer Vision"
 
-secured: "niQkzDPalyLs+tCMugaDNey0H/wGQRd3wUL5mkw1RpwPLYDhbUrwMv0SETbR4STtWTK6+ERh6eDA2dmtLm0DYlX6C7q6UoXpJgQjuRXfEBTUv226eHE9ZdjtmVmhaXNgrMVfhChmgunZUfwF5xT2dSOTUefgWxh3zgwqEnud2rWrvE7S8HH7LrLpx0LnsqgxShudqNt4C2t6zVB0vhTCdYfHo/gYy7Cr8tWO9rY7uoWXwCooCtT/Et8keG7FumVgkeiVvHIHRwuQExUGi/+c0PWzeE6gvw7FEkc5oTKiDa6N+M6HOjNjt42sULOEF6ZUD+i0Okfz1eldQpYRNin3kA==;N3dI/ZIP3WVW6j333Smk9Q=="
+secured: "IySXnWZfoTz5fwoyXCUcLzp4Pks62Pztti6cU52U+gAN8HxEymJaYwTsDgvaYKnuf5+CyBSitqAZM81QfPv8FA44LiV8qPQ6XkMJd4qhuuyq7CQCG/sfzjCWob+vvvVFSJYvBsTIW/cyhPnTQXVgsrW7T2REDJlEObRyuPfzWwghrMjupf9u8BMbmD7WeDu03eF5sbe/OpjWNwV4k2qkrIS7rl8pY75mPc+mo53kA/2V2oqhg00jCdQBwgZtQ0raiM1yi4UymnRf0JHtZN0scXNyr533k8pemWjQatnIBr8Q0Trum//7HKrqhnxLN2PUbUeVYrbzV7hym0DKZyQzhg==;UKy9MjEwWCjeP4BXl/cF5Q=="
 ---
 
