@@ -1,31 +1,27 @@
 ---
 category: news
 title: "McAfee MVISION Cloud Provides Secure and Compliant Way to Manage Data and User Activity in Microsoft Teams"
-excerpt: "McAfee, a device-to-cloud cybersecurity company, today announced that McAfee MVISION Cloud now supports encryption enhancements in Microsoft Teams,"
-publishedDateTime: 2020-04-23T15:08:00Z
-webUrl: "https://www.marketwatch.com/press-release/mcafee-mvision-cloud-provides-secure-and-compliant-way-to-manage-data-and-user-activity-in-microsoft-teams-2020-04-23-1115980"
+excerpt: "McAfee, a device-to-cloud cybersecurity company, today announced that McAfee MVISION Cloud now supports encryption enhancements in Microsoft Teams, in"
+publishedDateTime: 2020-04-23T04:15:00Z
+webUrl: "https://www.businesswire.com/news/home/20200422005877/en/McAfee-MVISION-Cloud-Secure-Compliant-Manage-Data"
 type: article
-quality: 44
-heat: 44
+quality: 4
+heat: 4
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+  - url: "https://mms.businesswire.com/media/20200422005877/en/698457/23/McA_Logo.jpg"
     width: 1200
-    height: 630
+    height: 627
     title: "McAfee MVISION Cloud Provides Secure and Compliant Way to Manage Data and User Activity in Microsoft Teams"
 
-secured: "OXJIdyzjUb88hzPm4jqVUozroDJp75qHJOKkdO5fN1+igi7I1zo1GfWe5CNA2PnwnPcILis8wCQGanNnMtShNDIStYCrgdcGBlsxKfIJrVQyjirdYtuJFg6jAL4Qbku2O7ucb6KHuzBKwJyEIbIRcDmjE+HkYE+jrAPzBUwdwJtfC9AxWSsJ6jPMsNibUf9zgMSsq1qBMQl0yqVwPONlrJnkZ8OQDGa5/191+9QUMq5UdiED3+yN7wuGfItTUypBKiN8PFtVmKimaLw7Zuz9vBEEGmbQJzeLsnoTBqRgePo9YAJldev9tBboooK0lOtJ;pBcNqDnGCkdgMlt6uksD7g=="
+secured: "F8h37OjFj5sG2r+FLp+SQIO+0iXf8ZoDTDqNb0JJ8GtefX3oywZwTYpDHKyitcAEeJuRJsS7k8awLRD9cDfuYUJG9xuPlS+pqEKvWjGT1X5nzbTTweImQkP/jZTSn9LMghXHAgsW0Xc5Ad3m1B4GTzD7D2dZLqXFAjgVaqLZ6j2NgPIVbzrT4p/oy/uWpgUfFwPViuVabtyrTDpmkma9/Yp4MHMfwNE3qhfLSSRxTAackwQTIYCMDmA5yoSFUXxdJzBoDks6LW+nutqTOAFstcWsz8Ht8dRxmTHzBvsnyqXGXW8bvSnieu8qtNM85uXX;w3uh20qnmj2x3DnA3UUEkA=="
 ---
 
