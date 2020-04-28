@@ -22,6 +22,21 @@ images:
     height: 627
     title: "Veeam Announces General Availability of NEW Veeam Backup for Microsoft Azure"
 
-secured: "C4KUapOw656HzUl2KWayFKv1cGhWYo0HqTd45qJmxEGj/Ji9FImJ+IZSXosY3j0iMD5/+g2KMkC6lgRdz4r3HA/X96wJC9eLCZsEBetK6X7x7kDjT0oq/IQUwL5NiXS/tQhCwomFZqCvpwgSNRLqiinWFsAIdDWpOlj0L3bClBLdn5vMgj/AnBEFr27rLTZ32cl4HFqyewGj01K7hKjnWYy9ftcBahYP+m0aFWne+4zfHIhQpqnRf+eodnGE/b+5/Wsuts8PTkM65VRhsdkfw6Aqa7ognC3e5JeiV1JZtVYgfVuqZokD4KHZ84AgHMaS;op2v9U0UHTsNe/Pl0UUtFA=="
+related:
+  - title: "Research Solutions Announces Addition of Article Galaxy Platform to Microsoft Azure Marketplace"
+    excerpt: "PRNewswire/ -- Research Solutions, Inc. (NASDAQ: RSSS), a pioneer in providing cloud-based workflow solutions for R&D driven organizations, and its"
+    publishedDateTime: 2020-04-28T12:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/research-solutions-announces-addition-of-article-galaxy-platform-to-microsoft-azure-marketplace-301047963.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
+    images:
+      - url: "https://mma.prnewswire.com/media/1154590/Research_Solutions_Reprints_Desk_Logo.jpg?p=facebook"
+        width: 2542
+        height: 1331
+
+secured: "hc+TGjfQ2+vzlPVtBiYfsaG3xsXGosx2KNnoqnYVrF3/xBkD+mlbLmX039zFB8IEfy5O8CijjiiKg3oaKGt+pu4iBbLn+g+DjZ8jUzNi79OHqC2cWgduPD9moKLyuI+Ci2fw5oxYQei2Zoj1xaVV2s4mHlmhowe60DMCDVvu2EmVBhDtzytxBJmb/7yeI79nwo8aiaLwEeB8vFEgLfVpEabNSd4jcJmcNKXfCbMqvUjmNvnhJpFHMLSfe1koMY9zAIz/EWwogLaaCZB3hcrPMFHjqTxrEVUKuJ+64XFWX4uwKL9EzEh8hcgi0JNNOOROp2XShMM/f3XvPKv7W8xrzs995+DfJGUnmtEqP4N9WmdQj5X/SOuf5aWGgV6a6C7l8NADD3X5Kabai80/+Q/UoqpmPk9ABuF/L7dJlSMAe61G+d2xQZVhSjScbDO4PXQMv8YMeGMf+NmRGnkBop2v1bh8feN6ny6mfOirqfv66Zw=;iGbrX34ugeP/CG2dNOEQRg=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/red-hat-takes-on-the-hybrid
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/red-hat-takes-on-the-hybrid-cloud-with-its-latest-openshift-kubernetes-distro/"
 type: article
 quality: 79
-heat: 79
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,23 @@ images:
     width: 1200
     height: 675
     title: "Red Hat takes on the hybrid cloud with its latest OpenShift Kubernetes distro"
+
+related:
+  - title: "OpenShift, Kubernetes, And The Hybrid Cloud"
+    excerpt: "For all the talk of cloud computing for the past decade and a half, for all the growth that the hyperscale public cloud providers like Amazon Web"
+    publishedDateTime: 2020-04-28T13:53:00Z
+    webUrl: "https://www.nextplatform.com/2020/04/28/openshift-kubernetes-and-the-hybrid-cloud/"
+    ampWebUrl: "https://www.nextplatform.com/2020/04/28/openshift-kubernetes-and-the-hybrid-cloud/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/04/28/openshift-kubernetes-and-the-hybrid-cloud/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 42
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/skyscraper-cloud-looking-up-vertical-1024x1024.jpg"
+        width: 1024
+        height: 1024
 
 secured: "q6s2SovLKuBCkI8N3kZTa53MaKooPguzWB7B4QIevILzMoIKkuVDRxgXItE/sFkCdJYTzc00xJVZu4dCaCsiZRZJLOvh6ws/76zFiDbXKDBAcEErjDqbirPWC4yzgvdgEAw1oxaBUTRchTjKuvdwOrO4m7wnwUEV4i0dZgFQs51skoR4rPMDXPpii7Y43UbXviqmF+Hb+Np5wX9vxQt7U3wSwWEqmNuXg8gTMVvoNjthz7i2rqrG9ektyauWpZmKxSFkqgO8EA/Qb7L7aWIeAvNcnfMZF/2yy6FaBE+GKJVyKiX/cCvC3Aak6KIG79Pc;E1Ws9gb3ynR6+SAFKwQF8g=="
 ---
