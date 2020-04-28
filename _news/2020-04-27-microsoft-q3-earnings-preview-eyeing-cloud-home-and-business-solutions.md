@@ -24,6 +24,6 @@ images:
     height: 630
     title: "Microsoft Q3 Earnings Preview: Eyeing Cloud, Home, And Business Solutions"
 
-secured: "WHSWhNwmqE8tF7nYO4RQkoWwLnd1gKVsE32gah4eVr5OaI3gPsxqtwAP3lXyFyVVTE+oQVtLtIs6JPLACteF111kSWIEeg3OvfOr1heUIEJ+B0WV5pQDUrLe0u1VsgU81sRihkF1A7A29aCZFGGCMAYov9LSsBlVzHu5lTiv3z/maUBsuLPaIQnADF/pXXdrjKnRiYaRisJ0WO/Oc138V313d66Pe0lRMYfuoClv6Wuq5EOSXjT8tK3PEsu5VC+TCh34bKJx+MnFZpw8wLBkdMQVFKZo7/Dw+tIypcPv/XDxipMvfhlAp54F1aOeCPCH;v9QJuLRaRXOGmn8WE5g9CA=="
+secured: "LnhJv+1R33uRcutNBKHZ+q3cq1wZ+iz9p2hoavKi/FifsqBo16s97JVlsC4kSq8rGzFlixpGlbRYR5RImuGERt8ODXJRSSf+XWKCv2tPT4gGwTNU2qkcRw4bsiXnBvxs6Nvj/B6TTn3szuM9ZHoQ/BOqsEaNzTalTEeUiEpCTSl4WxWUAs0LobsOBnxaB/vUWCjhuT0ITvbjAV1Ivq0zMzCAEFEC3TEWY8oLNV2WSzsbBLQpgH93OKAEmjT1eSXEkyf7iAUK6h0xs+8SaRxGnmTnDY4EVXOqsV4IafcnDf9JhE2/TwbBB/ThscGDJatQGKiBPIE4oUoSZbF6wxmjNZBYev/DyRCeKjgaT1LgCNEWG0syPtFAaoV4teiXtBEHquz1l4vZSh0UGJNeNuQoTKP/4DQbWdvhxv8LLtfGW/gSWhVxyjK2+clTLvDDNMIxY1Izp+W8lbtQHffBrrl+fizs26u0wfUg/8//dTo/8JU=;BPjHwW/oRtMhwhQXsbLLJw=="
 ---
 

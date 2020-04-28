@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-11T10:00:23Z
 webUrl: "https://azure.microsoft.com/blog/combine-the-power-of-video-indexer-and-computer-vision/"
 type: article
 quality: 84
-heat: 85
+heat: 84
 published: true
 
 provider:
