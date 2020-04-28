@@ -47,7 +47,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 55
+  - title: "Microsoft beefs up Azure’s Kubernetes features and Red Hat integrations"
+    excerpt: "Microsoft Corp. today introduced two updates for Azure, one focused on its managed Kubernetes service and another on Red Hat workloads, that should allow the cloud platform to better accommodate enterprises running a variety of different application types."
+    publishedDateTime: 2020-04-28T20:09:00Z
+    webUrl: "https://siliconangle.com/2020/04/28/microsoft-beefs-azures-kubernetes-features-red-hat-integrations/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/microsoft2-1-1.png"
+        width: 718
+        height: 400
 
-secured: "67blWmShfT7c+R8mn2ePlvBqsowm0as5NLJNtwzciEU8xpIG02PFqsPjwJII9h3OQNu5KgpctkH/nE/g/Gu/s14ZxgeZTK8gvzKVTt6gLUNTnsdpUI3ah1Swy3Hz89610yRqshligUDL9aR5liUqwH+NlFIJgOzwxhLjfJMqEWrQdncHnBgh9IeMi6moSUvx2rC/VqtdcN7B7fBwTo9sSb7BqnOYM5vzy9gT0xci0H2KNEnWGKCOxMjCxN1DduOhO2hevQijW9TdmWZpOp6TU9Y1D1v1/u9lG/Z9LDb5aQYqc+tzW9/R6vaaOsftK+vK;1nY7gb5k/EMC3CS6Wbphcg=="
+secured: "RCzcqDptGcsFiAEq6+oNV7DzdFIvo7yhmM63k6eryFRtorlNie5yrtPZ/IErfkj2TpUUTs5iyc2lNbkgvD+vIJzE78BpPf5/ObY3szNFPzYlSa4foO5rUA9JrxRhFdYRHhfxq5sW1haq9kCfqaqeLWBAQ/BuPwn17Bj0hAda5OwOaZ3bTXigxwhRf7PZFPXT1AF7C1qTOC8dqqtD9k+/62Pn8OZ+7pazkKIvxWquUoQym0bxAA17ZSHgnJ2IHEKlMZZeRkULyT51Sd9PXS3k1BqrO2vkpJC+6qr9foPiaTUc1p80knxPwoFSXEyNlcgVnLeIJkdo+Tn7uo+m5KXbw9+sDrVXyWcOAGtK3iDeDfKyKfskcNQtelQPVfwP3DD6nrU3sOZkrraf7hGvY7nC+ZpqvAGGFa0/ua31X0uZSetGTlZhLbiJnqMvcQTXceJt9wl0b4QhWrd49htkygdotW6MYn0VQQd6xKUU9iYClwI=;Ld21Y5/+iDdx6zhUsjF9HA=="
 ---
 

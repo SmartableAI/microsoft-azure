@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-28T08:00:39Z
 webUrl: "https://azure.microsoft.com/blog/azure-red-hat-expanding-hybrid-management-and-data-services-for-easier-innovation-anywhere/"
 type: article
 quality: 86
-heat: 126
+heat: 146
 published: true
 
 provider:
@@ -51,7 +51,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 55
+  - title: "Microsoft beefs up Azure’s Kubernetes features and Red Hat integrations"
+    excerpt: "Microsoft Corp. today introduced two updates for Azure, one focused on its managed Kubernetes service and another on Red Hat workloads, that should allow the cloud platform to better accommodate enterprises running a variety of different application types."
+    publishedDateTime: 2020-04-28T20:09:00Z
+    webUrl: "https://siliconangle.com/2020/04/28/microsoft-beefs-azures-kubernetes-features-red-hat-integrations/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/microsoft2-1-1.png"
+        width: 718
+        height: 400
 
-secured: "ftc8zsqrtitvBohnHWcwiVUvjYs3ObQ2fpwHwR/GmLpGQQ5z/i25fmRh/CkuPcpjuk6VV6WUfFB9tjIGu2JC49xSEh3hIFyB7skLVb5LGY6xwedjuTV1JFNKjonDinynpLn4PLIV0EUPw6Z8h7011xDIHYt/VvTrFWvzKmLH511ddz4/ipABxbjaExJKQlsRJ7souvIgvV//kbjlolleCaTki+f7yefUJXBe86gfJxdn6yt+e2JEpoopGXQETUxSIW3BMHZPAsx6WT+bEJGepLq9rYoYPXGc9BNE1yFsJuVCxL6oLzZqHqpW1QJJrz7JehJv1KMXAvH9x/DIiG4wlA==;HcooZAHIlY8OxQwF4MPROA=="
+secured: "DJNeSWcjRjRtKxjJpqms+526kb+WRivyiUSJ2TTDzpWPtXBgZicWqrPP+RYtf08y2ld6CVKpQEZTY8em45uVAErnh/LbcTBg72N++jIT/vfv8ogXyTgNNFJL1Y6MEPXM3jkznQanP5XRCTP76kNY7x8DLzDEocltlUVxsxet85agbcJz283u3CozzNe1T4yHcQKJejj8oG3wspKDnb7nB/BeGYSx6gOkjWY9CXMf3uikTQvE/ol6F9QZAS0FZK0luMQoGjIiQL86Dod5D/NJThnvqP5SABSEmJiC4SZpNa1hXRBdDxD9P37hEnqWXSJ6yhppN48rNuvBp9CATBp7jA==;V3rk7fj9kP1KDP3oY8r1Gw=="
 ---
 
