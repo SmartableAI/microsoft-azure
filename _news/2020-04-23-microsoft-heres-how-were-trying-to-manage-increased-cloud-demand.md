@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-heres-how-were-tr
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-heres-how-were-trying-to-manage-increased-cloud-demand/"
 type: article
 quality: 82
-heat: 82
+heat: 102
 published: true
 
 provider:
@@ -27,6 +27,21 @@ images:
     width: 1200
     height: 675
     title: "Microsoft: Here's how we're trying to manage increased cloud demand"
+
+related:
+  - title: "How to manage the increase in cloud demand? This is Microsoft's plan"
+    excerpt: "Microsoft officials say they've been taking some behind-the-scenes steps to try to head off current and future cloud capacity issues."
+    publishedDateTime: 2020-04-28T11:19:00Z
+    webUrl: "https://www.zdnet.com/video/microsoft-heres-how-were-trying-to-manage-increased-cloud-demand/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 62
+    images:
+      - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/27/357591cc-30e1-4a7b-a061-402d91546b99/thumbnail/770x578/372d2152febad4993f210ec409c97378/microsoft-heres-how-were-trying-to-manag-5ea3181b1c719e452658f536-1-apr-27-2020-14-51-24-poster.jpg"
+        width: 770
+        height: 578
 
 secured: "n1cuA2YPKWXkNRVHeKiVRjfbN/ZruK4zBtcP1FgmUC100PGEO72IwH5XuyLeI9poOwSclW2X0V5iewzhbP8Lc8lxgBGu50BCPBOgtunnkYDPx8kMMRQNJG/rGP4yths+SM3Fsn03ar649RGvps+j3HrdrDgmhUAP0eoaXpj5Wv5cOYvgmS1wtEaRbmNhQdjqqyrhwXPIv0VI/D8aPfyOtXNQJILkGTMc1ueUJpePSUo2/RjFE//bAZ1QjnqtEnMjjO+y1egy2ky4YO0XWUmEx96VVSSopwvDOCoFmmqnIC1IamEan49LkeSl8+acXs/DHzH6dY1ubyazSt2gClEUgfHciTkfwVLsD82CER1f0Oa1M7hD1YfUuN75W8wC7hryJLlzEf2oy4Ld157q9xLSYjc6mFUm99Xw+MmxwabsV3CU0CeLjwOrMN/TXIvKskARLKJG6F4LVdeHcBjc71UnJMreydBrGzwp/3Ii/fynrEY=;6O82aP+8hI94B/a3biMrPA=="
 ---
