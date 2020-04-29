@@ -2,12 +2,12 @@
 category: news
 title: "Query Acceleration for Azure Data Lake Storage now in preview"
 excerpt: ""
-publishedDateTime: 2020-04-24T22:00:07Z
-webUrl: "https://azure.microsoft.com/en-us/updates/query-acceleration-for-azure-data-lake-storage-now-in-preview/"
+publishedDateTime: 2020-04-29T16:00:06Z
+webUrl: "https://azure.microsoft.com/en-us/updates/query-acceleration-for-azure-data-lake-storage-now-in-preview-2/"
 type: article
 quality: 77
-heat: 117
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -23,8 +23,8 @@ topics:
 related:
   - title: "Query Acceleration for Azure Data Lake Storage now in preview"
     excerpt: ""
-    publishedDateTime: 2020-04-29T16:00:06Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/query-acceleration-for-azure-data-lake-storage-now-in-preview-2/"
+    publishedDateTime: 2020-04-24T22:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/query-acceleration-for-azure-data-lake-storage-now-in-preview/"
     type: article
     provider:
       name: Microsoft
@@ -40,6 +40,6 @@ related:
       domain: microsoft.com
     quality: 72
 
-secured: "+GFgXSWizQnxlD/LzcqpVs0HFigYKYFbfq5Zb+AjUQs76ayG6xKZz8R/0/lCRTr/K/0llQhRI2ZRpntR1sCWA6RjuR5HTLUBdWWEsx2HPj/+OuBqICPGPxUpAV42y8ei5rKtgP3/iX4xeedyJQHCGjtik6aBK/x+JOsyA0/ETvM8AMtbg8p2Nlya0LOolLfTFdfqW4hYMJt0sQ5NK/nf7PJGpLimrg0l+vG+3PIO/P2nVFa5A9h+naC53Xx4Ild2zIW6D/bMjz5tkSTM4LD3hV4qjrctE+vbogJhGvK7cmdxg+1lO+uZXdYGk8iAKaPINPriAEhWZID6vUQ43y/Q3A==;UgDYT32VwkcwBM8KpplX4A=="
+secured: "SM2rYUUBbIYyPQN7swLcFUkCgavMjlWyxdg6Mh7JdO4mYJ1aiKElt7rf0TJFI5suFf+biFWlk/soj9yB7mlzx9FJgcR0OfVPFTvKsoD6jutqG/tfNDBKQ/Vx7Ty7YrTOc5wuvpcwoKwA5po7A6n6tpLHUUsAiy84NRojl5HYczxdATGGoHcfP5SVF7G3zkvz9Ut3QlFXbMYL/uFCGTaRCQK8wCoS2A5qJK93N7nAlnbiAc68WM8s+fVxpPGawhZcAYNK2VHEp28akjtTvXkAyR3G7juofUwHp45O739tmxkwJ4C0dGHTKP7MNlvN7IqvmInthRGree+sDSRDeeO13A==;0lyKyjuelXfRMeU+YClLQw=="
 ---
 
