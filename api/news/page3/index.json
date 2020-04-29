@@ -2,6 +2,131 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-23-microsofts-last-major-windows-terminal-preview-azure-cloud-shell-settings-updates.md",
+      "title": "Microsoft's last major Windows Terminal preview: Azure Cloud Shell, Settings updates",
+      "excerpt": "Terminal v0.11 is the first version that supports a non-English UI language, but Microsoft is still ironing out bugs and translation issues. Terminal's connection to Azure Cloud Shell, Microsoft's browser-based shell for managing Azure resources, should now be more robust when confronted with errors and expired tokens. \"When there's an ...",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/microsofts-last-major-windows-terminal-preview-azure-cloud-shell-settings-updates/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsofts-last-major-windows-terminal-preview-azure-cloud-shell-settings-updates/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-last-major-windows-terminal-preview-azure-cloud-shell-settings-updates/",
+      "publishedDateTime": "2020-04-23T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-aws-appflow-takes-on-microsoft-azures-power-automate.md",
+      "title": "AWS AppFlow takes on Microsoft Azure’s Power Automate",
+      "excerpt": "Six Nations 2020 will be the smartest yet thanks to AWS BlackBerry and AWS team up to make smart vehicles even smarter AWS Data Exchange brings third-party data to AWS The platform looks to compete with the likes of Microsoft Azure’s Power Automate, which also allows developers to manage data by triggering flows around events or at predefined ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/au/news/aws-appflow-takes-on-microsoft-azures-power-automate",
+      "ampWebUrl": "https://www.techradar.com/au/amp/news/aws-appflow-takes-on-microsoft-azures-power-automate",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/aws-appflow-takes-on-microsoft-azures-power-automate",
+      "publishedDateTime": "2020-04-23T05:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/5egycZyR8KutGdsgWQA3M7-1200-80.jpg",
+          "width": 1023,
+          "height": 576,
+          "title": "AWS AppFlow takes on Microsoft Azure’s Power Automate",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-azure-migrate-now-available-in-azure-government.md",
+      "title": "Azure Migrate now available in Azure Government",
+      "excerpt": "Microsoft’s service for datacenter migration, Azure Migrate, is now available in Azure Government—unlocking the whole range of functionality for government customers. Previously, Azure Migrate V1 was available to US Azure Government customers, which performed limited scale assessment for VMware workloads.",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/azure-migrate-now-available-in-azure-government/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-23T04:00:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a69c6248-11fa-477b-81e0-17d56596895a.jpg",
+          "width": 1024,
+          "height": 489,
+          "title": "Azure Migrate now available in Azure Government",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Migration"
+      ]
+    },
+    {
       "path": "_news/2020-04-23-amazons-new-appflow-links-cloud-based-apps-to-aws-services-automating-data-flows.md",
       "title": "Amazon’s new ‘AppFlow’ links cloud-based apps to AWS services, automating data flows",
       "excerpt": "Amazon’s crosstown cloud rival, Microsoft, offers its own service called Azure Logic Apps that offers similar capabilities. Amazon also offers an existing data integration service called EventBridge, geared toward developers. AppFlow, in contrast, offers a point-and-click interface that can be used by people such as business intelligence ...",
@@ -475,7 +600,7 @@
       "path": "_news/2020-04-20-azure-sphere-2004-update-1-is-now-available-for-compatibility-testing.md",
       "title": "Azure Sphere 20.04 Update 1 is now available for compatibility testing",
       "excerpt": "",
-      "heat": 77,
+      "heat": 97,
       "tags": null,
       "type": "article",
       "webUrl": "https://azure.microsoft.com/en-us/updates/azure-sphere-2004-update-1-is-now-available-for-compatibility-testing/",
@@ -921,122 +1046,6 @@
           "width": 720,
           "height": 386,
           "title": "Forget Microsoft, Arista Networks Is a Better Cloud Stock",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-azure-support-api-is-generally-available.md",
-      "title": "Azure Support API is generally available",
-      "excerpt": "",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-support-api-is-generally-available/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-17T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-azure-devops-update-to-increase-productivity-and-reduce-latency.md",
-      "title": "Azure DevOps update to increase productivity and reduce latency",
-      "excerpt": "",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-devops-update-to-increase-productivity-and-reduce-latency/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-16T16:00:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-azure-analysis-servicesimproved-query-replica-synchronization-now-available.md",
-      "title": "Azure Analysis Services—Improved query replica synchronization now available",
-      "excerpt": "",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://azure.microsoft.com/en-us/updates/announcing-general-availability-ga-of-improved-query-replica-synchronization-in-azure-analysis-services/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-16T16:00:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/2eee66bc-197a-4a22-97b3-a23d469d3f97.png",
-          "width": 604,
-          "height": 492,
-          "title": "Azure Analysis Services—Improved query replica synchronization now available",
           "attribution": null
         }
       ],
