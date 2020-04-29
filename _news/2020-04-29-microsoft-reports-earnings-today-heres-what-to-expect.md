@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Microsoft Reports Earnings on Wednesday. Here’s What to Expect."
+title: "Microsoft Reports Earnings Today. Here’s What to Expect."
 excerpt: "Outside of the company’s PC exposure, the question is whether Microsoft will get a boost from more cloud activity, or whether a recession will slow spending and hit the company’s enterprise-software business throughout 2020 and perhaps beyond."
-publishedDateTime: 2020-04-28T10:15:00Z
+publishedDateTime: 2020-04-29T09:30:00Z
 webUrl: "https://www.barrons.com/articles/microsoft-earnings-wednesday-personal-computing-cloud-azure-51588019515"
 ampWebUrl: "https://www.barrons.com/amp/articles/microsoft-earnings-wednesday-personal-computing-cloud-azure-51588019515"
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/microsoft-earnings-wednesday-personal-computing-cloud-azure-51588019515"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -22,12 +22,12 @@ images:
   - url: "https://images.barrons.com/im-144883/social"
     width: 1280
     height: 640
-    title: "Microsoft Reports Earnings on Wednesday. Here’s What to Expect."
+    title: "Microsoft Reports Earnings Today. Here’s What to Expect."
 
 related:
-  - title: "Microsoft Reports Earnings Today. Here’s What to Expect."
+  - title: "Microsoft Reports Earnings on Wednesday. Here’s What to Expect."
     excerpt: "Outside of the company’s PC exposure, the question is whether Microsoft will get a boost from more cloud activity, or whether a recession will slow spending and hit the company’s enterprise-software business throughout 2020 and perhaps beyond."
-    publishedDateTime: 2020-04-29T09:30:00Z
+    publishedDateTime: 2020-04-28T10:15:00Z
     webUrl: "https://www.barrons.com/articles/microsoft-earnings-wednesday-personal-computing-cloud-azure-51588019515"
     ampWebUrl: "https://www.barrons.com/amp/articles/microsoft-earnings-wednesday-personal-computing-cloud-azure-51588019515"
     cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/microsoft-earnings-wednesday-personal-computing-cloud-azure-51588019515"
@@ -54,6 +54,6 @@ related:
         width: 1920
         height: 1080
 
-secured: "eHyrWmMNoHLxvDkUPL6ey0ZUVcNJqXzqxw5JSGogigIZZvKqMB2fkYtNWdgLeQiM7lbXnjNZmzYYUbuXDJoijjV1YoKRwLbnVbLs5Nsa5gZvo5nhHPIrVOQJT6+pI+1TEBISiM7dGd0r1k4TxdagPkQlweOGaJ67bWLQQNDFGkdp9mtcma+I23RnOBNc3DjFULy3AYuLDEEP11PJfxXZVBkrqU9Pn0gXgdyUWsDNPJz3GBarSP6aUpmoSHF/dUdyMcvQCYHYTr+3MmzyndIAbNkvQETB0+ca49RZjujaMjzhYtG8i3tsXxq9cTqyPM9qwNhQ9AVDpsG4RzDCaynCbg/hvVRkAHIhEKZuE+Mx/g9VdTioeQzZnHdiC/X9XDkzo5/ML2ocoHnLuG45EhFACwlEOcQ8vPvsY94ZJw1T/TRI7XXKYFFQ3XZ5xmg7ACT0U2Y1o7xLKocBn2gzIOPl8n2yXSnrcXJW9RlluNosL18=;gAjAqPnqtAC+vRnV7KGbhg=="
+secured: "QD/I9GHg2yNNpfChXjSHOw8gsbtKj+WZ9OGe8RC20OWZTFJJ6fC1UUdxNEGHZ94rsa2SKWN+LlomBhKPMU7rmvzStj9d74Bj4ajxO2jmD1sUM9oCJYCePkRPEy1/p+qw+5uc/l/uSIKRjSpdzLoPQP9iWtpbV2h85LU+6TcN0Wp6r9igvMnkfqKf6et8ua9vQ5Yv4BMUIA0l/Nf1aLt+sYaZ2lgb4dPVfPX7ioOQ8w5mfeEvsj91zNRr3qHgqRzBAKx66azWMbSO9wH/Z7GjbzM5JINiLnUn3k2i4LJU2PJiJLSiKc/pZQnM8wITQQoC;VkJ6yqJJCvgmjqcF24+M0Q=="
 ---
 

@@ -38,6 +38,21 @@ related:
       - url: "https://images.barrons.com/im-144883/social"
         width: 1280
         height: 640
+  - title: "Microsoft Reports Earnings Today. Here’s What to Expect."
+    excerpt: "Outside of the company’s PC exposure, the question is whether Microsoft will get a boost from more cloud activity, or whether a recession will slow spending and hit the company’s enterprise-software business throughout 2020 and perhaps beyond."
+    publishedDateTime: 2020-04-29T09:30:00Z
+    webUrl: "https://www.barrons.com/articles/microsoft-earnings-wednesday-personal-computing-cloud-azure-51588019515"
+    ampWebUrl: "https://www.barrons.com/amp/articles/microsoft-earnings-wednesday-personal-computing-cloud-azure-51588019515"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/microsoft-earnings-wednesday-personal-computing-cloud-azure-51588019515"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 42
+    images:
+      - url: "https://images.barrons.com/im-144883/social"
+        width: 1280
+        height: 640
 
 secured: "xptpCg9MpIanA22OvFJQZfjbUabKPZqxuAzvVAIFpciGOpgQ7fKMEDJ+Ot8NJSf/UIjpDOJg+9V3eLMN/P4FzQV6LFh381vmUbc/Ffmqd746hLM+2d7iVtVfHnbTs+8oPo4Cl+vLiE8+O11G2rxSNLbjWuuKQnmIeiAu92M4bALcdBaLBxflLZ2GfhPgGkYDqKypUzYs+AdELxCIq4sqs6wQ3RJjtO86el8SFN9CJoN/srN9DAKTz4uoAIhEoSCJtzd2xqOn4n6BSJ0PApf8rHsZe6P03KMvU9v+rqowMTtog+6Ov95YTzzdN31AWvrY;P2IADVBz6epfdlPW8NVoww=="
 ---
