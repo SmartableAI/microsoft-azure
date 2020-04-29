@@ -26,6 +26,6 @@ images:
     height: 600
     title: "An Oracle exec explains how it went from a Zoom customer to one of its key cloud providers in a matter of weeks"
 
-secured: "Z83sWcU7NJtnehmcpI02wFQS7/1ovyJZGUOAVU3pbL8ALZQ7jXqPKhUW6ar/F66CCZUKbYXHfvM7wLI7NqHSELwVsHbbHQ7t26pQRkSWK8i0wWwb04K3DVmo/KlXm4lARBHtIcf0eTtsBDWcmj38FQYGk6QErp1bxhUStONE+XqTgP2bUHMBhIgl3wS9CovMRCxRBv33Y9+HbKc+yjApGzrqhLCKuz1GbTXGlcccXbLjLUUIB5gKcpy9FHSUyEkxKtXO29CbXq8IpAhZWg2mWAatODtcr5deJNapK2Cbxw66fCiPfQ43dyrRReT0OxJh;1hXEBGd40QYQX+4B2/6mHA=="
+secured: "alqm6+cstmQkoLDxPsCzbjOkE2jkQHQBdfxijS1OzzKlOasvjheb8Uwovsfod1hd3q6OW88WcWaAYUgV8bXbzXwry8CHm2EbY/3gvoR179vTs6yaX60RL0zmF69/mMN3woIGch0vnjcurkZn8Ppc5vISKM+WbNEmfjQLUNc02wz0zZq3Ph2C+u9xQlicdnQB8/VGZ87t2kPVaCyuR1UXR4hFzpF3bJ5tGlVb1+L/c3IOMWB5B//DmAHym+XR5zABgvMhRFqARpuYQ+lfpZ+uKBgkUUHIv7aiGPF8ldgq/YhbfpUuOXNzDhFSlV8dQKFQlrL6dPfVo8gaXXQ51/KFlfrpw+ZpOs4sk3wTpWMndOYAhNBEqLAwNPmggHxrmZ10hirg2oMg4jIx2fH+hAnFs4abhLRFRhKJiNcqibmAufWDecnUTGI2kDjiD+Ylp4giartP0fIX701BU3yvSqXpi7x1RpinqSUbT75wh7RDkmo=;RPIUt4fqREu7gL4JMJt+Yw=="
 ---
 
