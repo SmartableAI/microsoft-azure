@@ -28,6 +28,6 @@ images:
     height: 600
     title: "Microsoft rebrands Visual Studio Online as Visual Studio Codespaces, cuts pricing by over 60%"
 
-secured: "InGIYj/L9EwQctKHAA3hYS/RlLRFtbquXT0V0jwSj9d/DPH4tXdtnFXm+gjGOXVyCmQ3KE33citaYc92z/ZRqUoCpaPgL/O2hfm53OkpysIb6GQwKEEme7grsbW5NgJgchFbjarZt/a/gCZZVXmZcSISh63gS4sOKMwBS43ZAxMbvVc45/zOnTqg8KKAkchaZyjfL7IOZ/KIjKyRbPrXN0XXUCHY3q2zyYPhAbmRTnyy4WKwU+OQxWQV2Gbn/H6ODmj7MvbTEjCjKvXTVfTrPYaAff9mK3KbYLtPHqvQcp+7H3r2Czv/WBwN4+k0wZt8;P0sTUJ3tFeh0vOaCf6JNyg=="
+secured: "diGc4TVi5hXjH1bRXI6Tb10WxzdaUwMPemCeSBwTyyND0txAqQ7G8OnHvNXt0Q40BhRbz7PJ6yg68xE++whhndI/jMSNfivjh3kPlPMn5gSBVnCEOddJls0PSfxky56FJhe/wXpo4Z5h3I8MO6U+l9dAGX/6I8kz5YF0QJsucDRhj8qH0Ge7g5J39yZcKT11apTzcjY8s1LUDL6S/otu0klKaYVerV8CeGxrXcScv3YMCG01keHnH0mYyYmtm4P1f8PgQBkAdDQ34Jp7t21v/yjfpj/9TzwwBR5JAdvWBE6W2qlxUNKbmavluN/g0cGQtD7sRuvUpj/swR6ZzGkUA/0VKDsVZAlftegdxU4iqsCKsUcSkl4P0qmR9O+XSNHKJQWB9qpMCT9REwcH5S59xCVfXFpPOYDCbmzQhzny22dhv5v5n/cVZlZXG2ZiexB/PnZ5yK868cerF11eDDcmm7G7U/LBztAsho9efKdP22k=;sp+t6lDuOH7K9Ip1q77WkA=="
 ---
 
