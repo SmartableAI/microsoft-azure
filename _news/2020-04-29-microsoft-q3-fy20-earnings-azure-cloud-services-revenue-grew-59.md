@@ -8,7 +8,7 @@ ampWebUrl: "https://mspoweruser.com/microsoft-q3-fy20-earnings-azure-revenue-gre
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-q3-fy20-earnings-azure-revenue-grew-59/amp/"
 type: article
 quality: 57
-heat: 97
+heat: 77
 published: true
 
 provider:
@@ -25,21 +25,6 @@ images:
     title: "Microsoft Q3 FY20 Earnings: Azure cloud services revenue grew 59%"
 
 related:
-  - title: "Microsoft reports quarterly revenue of $35 billion, beating Wall Street estimates as the coronavirus crisis drives demand for its cloud"
-    excerpt: "The earnings report will give insight into how Microsoft has fared during the coronavirus crisis and what it's expecting in the future."
-    publishedDateTime: 2020-04-29T20:40:00Z
-    webUrl: "https://www.businessinsider.com/microsoft-reports-q3-fy20-earnings-2020-4"
-    ampWebUrl: "https://www.businessinsider.com/microsoft-reports-q3-fy20-earnings-2020-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/microsoft-reports-q3-fy20-earnings-2020-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
-    images:
-      - url: "https://i.insider.com/5ea9cc5f5f726e057f0f9244?width=1200&format=jpeg"
-        width: 1200
-        height: 600
   - title: "Microsoft Says Covid-19 Had Minimal Impact On Revenue In Its Latest Quarter. Its Stock Is Rising."
     excerpt: "Microsoft had revenue of $35 billion and earnings of $1.40 a share in the March quarter. Both figures were better than Wall Street expected."
     publishedDateTime: 2020-04-29T20:50:00Z
@@ -56,6 +41,6 @@ related:
         width: 1280
         height: 640
 
-secured: "ykSrgAqtW8afYeSKweVePvutkppIKJHLMDpPJH70KTPfquX9CBERjSzFbW7WiylUSoY31OPvMedOc1tEhlGSTxA4VyrdCle95mVSh+bhahJn10MORIsqS3HPKzUgJVpGik4L6N/eONY8NJVT9QLeBPALsNJgg+XNW2Ox0FDeGixg/cp1ja5DPCdMEh6Q+HFcAEYI3UoAnUi+O+BrsKiB0F+Juqtp70zkdK8IpVNwNuAdhI1VWHKagL+Ih39nyEDlI8ThglpVudMH6cjQqsR3hv9pbyYo2CEieFxs76xnAz5l0gqMgRDWjsQqJ+5bQ6FY;kUBsOAPnbreVeZxNA5ta8A=="
+secured: "7Sv9OHEBHnK9+jN8p3gcVqQcUb8JjdBpeFYMCPLRJ3haNOaM/A+7SBKljUPjc+WNnDZVMU8g87MPMdGKn93P2hXiKlf1uVrxlEjUMf7Y6BeNoZLhzCfkC40eTnj8IGhne99g2Pl50QbQzyhf4Bg0C7yLB+C7zT3OOlglisxFy9NLLgjcDEO5R6SiaSmvmoMJv2qJm4y0e/Y7EMgy1uxSoUPooktKBfITyTnFL2sEZn7wZWki73eUW57S1MCCKN9XxL9LL1DJ/FIvZ//l2g4b9IV2vRNsMS724QWuyEpbgDH4sKHQZw0Rxkn165B+t3wIzEdtrW5Ljxfuz26aX63qGmoBXW0bosju3D78tV0HrQjKvbc2EPSf8YHXI/pzazjo7NceUna66O92F7n9USxTLoI91uRTfc5A8RY1+tNinQ9XYSm2LpxYTSJSFdMG6bhb0lxrZ05MmdUBgTpXFt2pb5EnDJObzKMmY6FbbxYTS4o=;PtXFtVq2K1wnjJLHxv4itg=="
 ---
 

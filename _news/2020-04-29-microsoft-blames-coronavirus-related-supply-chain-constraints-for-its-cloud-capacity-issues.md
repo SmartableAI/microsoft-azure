@@ -83,7 +83,20 @@ related:
       - url: "https://www.washingtonpost.com/resizer/iAwDp1yG46qwbRqde_rAAu43rKI=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RBIUICTQDUI6TEZRGC6FQNXURY.jpg"
         width: 1440
         height: 917
+  - title: "Microsoft's cloud business helps offset pandemic woes"
+    excerpt: "Ongoing demand for Microsoft's cloud computing services help softened the blow of the coronavirus pandemic on the software giant's other products during the first three months of the year. The company on Wednesday reported fiscal third-quarter profit of $10."
+    publishedDateTime: 2020-04-29T21:23:00Z
+    webUrl: "https://www.chron.com/business/article/Microsoft-s-cloud-business-helps-offset-pandemic-15235193.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 22
+    images:
+      - url: "https://s.hdnux.com/photos/01/11/65/34/19355416/3/rawImage.jpg"
+        width: 2048
+        height: 1422
 
-secured: "AXG4XYPNG+A5qNcpfQmgO8rRcTuZfRoiWe0Cs+aXyB8sM41pRIHJJHE1ANVdn6FI7e+3BxPzv7KCQAI+/BtR7jxLSy3nnCJLh1OjhLwVPqxx9w7L5TMrfV/9KcbGOdj9t/egDt3kyEP2SDJcOOgFbZ7jJBXJxvnDAZUgS8g53RrthCxtUsXHbLvPsgb3debU5wc1rYiygFbJnF8zwE1fZlx1OS3zEpTTmU5MVIknZF9O29+49ySdWsKWuOKBmUK0B6sXl+RKulynQdewgCPbcE1HQLQheELUAV/2QYEXrvxidp4uTNeA6M9oRHU4FKlm;9oBVyzNu8x3jNEN3LFE0OA=="
+secured: "0Nedp8Ate/VVxiu5tbB+pKOSAmUkV1B8/FGdjuQKIs5hFS/FKirN9lLPL5CVitLOxY6hxUiQhkif/6d6xtIu2+IRh+FppaduBOd1UIwRkZn5xl70x94Xcbs9JvQHp1r2wtCuC0NSLMsD0sPK4EW57Ikt+J3SCRPzdt5qrLOdxSmpKFMabWooKVu82pBVIS7QQXfxlGS8q9b7sJGj1DFcqG2qolO7SZc0bejk+4aDc5UALP7Evh2Ao5te9ah/mJ01zr9MJJnDVzMN/Nwshp0PX6sL2MSfAqtGajzOmABKChku5lFiprUqu46Bq2qKLnH4/NNFr4YypCoIibFA6ToLyIgi//ak2IMMuPf2+JOuvjOxT3AhZbXfIJmD0671jfMBWc2QnvVuFt2fnP2IIX5xKfrgf0kijVD6884ZgittcUi4FKQV9mukMZBSpX3901MvMUJbs6qplu8CpiaTOBVD68D/yNMFqwW90rjFOlLaLBk=;8vXHe4KQPNADI44dWf27AQ=="
 ---
 

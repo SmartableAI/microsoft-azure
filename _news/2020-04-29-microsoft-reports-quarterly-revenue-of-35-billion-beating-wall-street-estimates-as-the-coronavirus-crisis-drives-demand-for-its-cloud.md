@@ -29,37 +29,22 @@ images:
     title: "Microsoft reports quarterly revenue of $35 billion, beating Wall Street estimates as the coronavirus crisis drives demand for its cloud"
 
 related:
-  - title: "Microsoft Q3 FY20 Earnings: Azure cloud services revenue grew 59%"
-    excerpt: "Microsoft today announced FY20 Q3 earnings results. Microsoft’s revenue in the last quarter was $35 billion and the operating income was $13 billion. Revenue in Intelligent Cloud business segment was $12."
-    publishedDateTime: 2020-04-29T20:08:00Z
-    webUrl: "https://mspoweruser.com/microsoft-q3-fy20-earnings-azure-revenue-grew-59/"
-    ampWebUrl: "https://mspoweruser.com/microsoft-q3-fy20-earnings-azure-revenue-grew-59/amp/"
-    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-q3-fy20-earnings-azure-revenue-grew-59/amp/"
+  - title: "Microsoft posts $35B in revenue, up 15%, sees ‘minimal net impact’ from COVID-19 in quarter"
+    excerpt: "Microsoft reported $35 billion in revenue, an increase of 15% from a year ago, as increased demand for its productivity, gaming and cloud technologies overcame the COVID-19 pandemic’s impact on"
+    publishedDateTime: 2020-04-29T20:33:00Z
+    webUrl: "https://www.geekwire.com/2020/microsoft-posts-35b-revenue-15-sees-minimal-net-impact-covid-19-quarter/"
+    ampWebUrl: "https://www.geekwire.com/2020/microsoft-posts-35b-revenue-15-sees-minimal-net-impact-covid-19-quarter/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-posts-35b-revenue-15-sees-minimal-net-impact-covid-19-quarter/amp/"
     type: article
     provider:
-      name: MSPoweruser
-      domain: mspoweruser.com
-    quality: 57
+      name: GeekWire
+      domain: geekwire.com
+    quality: 72
     images:
-      - url: "https://mspoweruser.com/wp-content/uploads/2016/05/Microsoft-Azure.jpg"
-        width: 791
-        height: 448
-  - title: "Microsoft Says Covid-19 Had Minimal Impact On Revenue In Its Latest Quarter. Its Stock Is Rising."
-    excerpt: "Microsoft had revenue of $35 billion and earnings of $1.40 a share in the March quarter. Both figures were better than Wall Street expected."
-    publishedDateTime: 2020-04-29T20:50:00Z
-    webUrl: "https://www.barrons.com/articles/microsoft-stock-rises-after-company-says-covid-19-had-minimal-impact-on-fiscal-third-quarter-earnings-51588193445"
-    ampWebUrl: "https://www.barrons.com/amp/articles/microsoft-stock-rises-after-company-says-covid-19-had-minimal-impact-on-fiscal-third-quarter-earnings-51588193445"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/microsoft-stock-rises-after-company-says-covid-19-had-minimal-impact-on-fiscal-third-quarter-earnings-51588193445"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 29
-    images:
-      - url: "https://images.barrons.com/im-181595/social"
-        width: 1280
-        height: 640
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2019/05/20190506_Microsoft_Build_55-630x420.jpg"
+        width: 630
+        height: 420
 
-secured: "JX4I09SrE2W+sUpSa4HdkXkOMcSVn2IJ5xURq7I9Y94l8tH2eDozjJE08IeTejftWddIG+yEY7cl8lLuU423MkU9ojS9P4ohL30/jHKcUi2tzAjhUBwST9jmtqNeSb41qoJGP/kqJhPUODtfn9wGpTrLXD6ejN5/72VQ5ZAQAJs5WCa+nhn98oS++fbwH7GPABA6+aPXPm2gafASldOBAQzCkkS9HHErw/1U3fhGGetyUpIOsUmrfPHOo6XkZLMI5OBWHTZJIhhzQR1d0ct1y1oM97SEExmWJDT3oM+V3vBam0VjUKSDGkVw2W9k993x;faqOww46l425gYYaT/3tfw=="
+secured: "ZuOdf7S8LVgXpCNucEFJvgaKr6UFw/zCkRGTjpLxP8K2NSqc3ncreorgeY2fG707pq2bDE/eZ/BIoiPZzU/hQUNTWV3/DulzSUYzWp7YLEDHDQh/J0bapYkx0jvMun/Kx0TchCkZKTyHK9R8+fhmpme42q/7nJUsx0yJoTCURGbqgP/KrZJMzGCC3wBTxVZYjGe3LqSGMYHSkeWXSlP/7e6O3bajlmBUwP8gmJ47LCkQX4QVJBjvJZbM197476D7TqaaOxwwTNuenzPRWHHctuJWpxhnT3eMoe0ddZfy5Mfzf74t+yTEv8pYsEKCsR04WTNZfKColsR9972moBlD73VOF2RHVsj/vwpoekmBnYdiKiJMpDiHEHdzY5DnUEHm8pr2mHi3sUWP4iq6IEeYJzdjeKv5iJSNljAx+XXF0k36IihrSncDWqeRoPsF/uDFTgURJoQtodeFJtm8Di9Oi1lIWfuCMB4zgXxcxugJ7sg=;1Y8kfe5omHrOIkCd7/PPzg=="
 ---
 
