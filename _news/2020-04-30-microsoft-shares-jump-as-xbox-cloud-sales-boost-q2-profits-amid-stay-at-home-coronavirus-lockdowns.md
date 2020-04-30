@@ -24,6 +24,6 @@ images:
     height: 406
     title: "Microsoft Shares Jump as Xbox, Cloud Sales Boost Q2 Profits Amid Stay-at-Home Coronavirus Lockdowns"
 
-secured: "zgU4IhEZoeVnUhyHHcvPkeYVNTgYJo54V34S2O00R6pZ5wzdmxuWQ4ficyK/Dt+bMjj34iDwuA99W+dnDKPZ538DSx4IQhK6jobmPrRh82IE3wO/0PzYmp/zWsi3sYuqnNtDNez5sUwJKhGCsHCDkIq22y2c76693hhorTWOz8mAN28yHbwk3iBct5NWxUeERKLWx+CCQ1cVeUjRgcYbcBeh9fdQ04R/WdNQrgkfQhsjwqDZb0EadqR+JWc5DJWEVeoQ01KSYZ7LvEZ/t6fhJTj9axD21H21C6hIWAK+sRkAHou2T8oJimJLhGeF0Yh1;6LGsoGbqrd6TpFhfUqPGLw=="
+secured: "yibpL1uSjMAhA0pmh7O9THu3ofUcDWyWbHx8qI7NfaF7I4zy3bGn6IV3Qc+FzxAevahO5ar05Fjw+L2FwrJ9GjvwhJFlGoVMlIuK6v2pOgCnk90EokPFKH2aKjNP+1oCoT2GCOUZ/S/zrXoWtQlYdf/uxDMDby3GVi10r4siaaz7uZ3zEvh9ESmfvSz4eymWH5m7WOzI/HcI4gqhNWJVGqmFamZ4H/x3qcESDCxmyZYT/giMN3wFZetJjCjuxGKAYZ1+hmlVyGt2c5iQHgECa3IUm3Y/0kflIQkKkVJDLn7ARkpZHa+8cn0Y2GR9NRE/KvRvhH15g8mrL+Cl5joPs9mkbvdROc8Z7QRalWI/Yean3JtjiD6VRO2R9nCU85cLBttHp8/T1ufIRatJZ+iqT1ACa8R5wBQ1AoPs5GqrojptfWRJDxHQRufzZJdz8SqDNZC1xl5qTAh0+WV/aFJ/+ft1j79L5gX5+DkwWYHuVEg=;Z59uwim+cUrEmZsodOnPNw=="
 ---
 
