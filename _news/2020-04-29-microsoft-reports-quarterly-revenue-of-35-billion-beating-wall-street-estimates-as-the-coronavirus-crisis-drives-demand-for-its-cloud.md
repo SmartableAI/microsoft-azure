@@ -29,21 +29,36 @@ images:
     title: "Microsoft reports quarterly revenue of $35 billion, beating Wall Street estimates as the coronavirus crisis drives demand for its cloud"
 
 related:
-  - title: "Microsoft posts $35B in revenue, up 15%, sees ‘minimal net impact’ from COVID-19 in quarter"
-    excerpt: "Microsoft reported $35 billion in revenue, an increase of 15% from a year ago, as increased demand for its productivity, gaming and cloud technologies overcame the COVID-19 pandemic’s impact on"
-    publishedDateTime: 2020-04-29T20:33:00Z
-    webUrl: "https://www.geekwire.com/2020/microsoft-posts-35b-revenue-15-sees-minimal-net-impact-covid-19-quarter/"
-    ampWebUrl: "https://www.geekwire.com/2020/microsoft-posts-35b-revenue-15-sees-minimal-net-impact-covid-19-quarter/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-posts-35b-revenue-15-sees-minimal-net-impact-covid-19-quarter/amp/"
+  - title: "Microsoft reports $35.0 billion in Q3 2020 revenue: Azure up 59%, Surface up 1%, and LinkedIn up 21%"
+    excerpt: "Microsoft today reported fiscal Q3 2020 earnings, including revenue of $35.0 billion, net income of $10.8 billion, and earnings per share of $1.40."
+    publishedDateTime: 2020-04-29T21:06:00Z
+    webUrl: "https://venturebeat.com/2020/04/29/microsoft-earnings-q3-2020/"
+    ampWebUrl: "https://venturebeat.com/2020/04/29/microsoft-earnings-q3-2020/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/microsoft-earnings-q3-2020/amp/"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 72
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 82
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2019/05/20190506_Microsoft_Build_55-630x420.jpg"
-        width: 630
-        height: 420
+      - url: "https://venturebeat.com/wp-content/uploads/2016/11/Microsoft.jpg?fit=2048%2C1025&strip=all"
+        width: 2048
+        height: 1025
+  - title: "Microsoft Q3 FY20 Earnings: Azure cloud services revenue grew 59%"
+    excerpt: "Microsoft today announced FY20 Q3 earnings results. Microsoft’s revenue in the last quarter was $35 billion and the operating income was $13 billion. Revenue in Intelligent Cloud business segment was $12."
+    publishedDateTime: 2020-04-29T20:08:00Z
+    webUrl: "https://mspoweruser.com/microsoft-q3-fy20-earnings-azure-revenue-grew-59/"
+    ampWebUrl: "https://mspoweruser.com/microsoft-q3-fy20-earnings-azure-revenue-grew-59/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-q3-fy20-earnings-azure-revenue-grew-59/amp/"
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 57
+    images:
+      - url: "https://mspoweruser.com/wp-content/uploads/2016/05/Microsoft-Azure.jpg"
+        width: 791
+        height: 448
 
 secured: "ZuOdf7S8LVgXpCNucEFJvgaKr6UFw/zCkRGTjpLxP8K2NSqc3ncreorgeY2fG707pq2bDE/eZ/BIoiPZzU/hQUNTWV3/DulzSUYzWp7YLEDHDQh/J0bapYkx0jvMun/Kx0TchCkZKTyHK9R8+fhmpme42q/7nJUsx0yJoTCURGbqgP/KrZJMzGCC3wBTxVZYjGe3LqSGMYHSkeWXSlP/7e6O3bajlmBUwP8gmJ47LCkQX4QVJBjvJZbM197476D7TqaaOxwwTNuenzPRWHHctuJWpxhnT3eMoe0ddZfy5Mfzf74t+yTEv8pYsEKCsR04WTNZfKColsR9972moBlD73VOF2RHVsj/vwpoekmBnYdiKiJMpDiHEHdzY5DnUEHm8pr2mHi3sUWP4iq6IEeYJzdjeKv5iJSNljAx+XXF0k36IihrSncDWqeRoPsF/uDFTgURJoQtodeFJtm8Di9Oi1lIWfuCMB4zgXxcxugJ7sg=;1Y8kfe5omHrOIkCd7/PPzg=="
 ---
