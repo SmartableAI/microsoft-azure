@@ -22,6 +22,21 @@ images:
     height: 630
     title: "Judge allows DoD to review JEDI contract award"
 
+related:
+  - title: "US judge uses JEDI mind hold"
+    excerpt: "Suspends Amazon’s case against Microsoft A US judge held a case by Amazon challenging the Pentagon’s decision to award a $10 billion contract to Microsoft. Judge Patricia Campbell-Smith granted the Pentagon’s request to halt further action on the lawsuit to allow the military to reconsider aspects"
+    publishedDateTime: 2020-04-20T14:04:00Z
+    webUrl: "https://www.fudzilla.com/news/memory-and-storage/50686-us-judge-uses-jedi-mind-hold"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 22
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/17ce92444fc91e5296ede4e94f12b8c8_L.jpg"
+        width: 620
+        height: 465
+
 secured: "F1Rcf7ArEe9kex48mVQ8t4Aw16RTcj1uDSHcC/Cwbjpo4axxC4ElD9yGqqYMST9IlIN/3yOTm/1fv0er8NshoJ59cJMT0FsqlCmXJpoM5wwF8SVDTEFNRkv0faP+fZ6LDCvbUqzpIrtDMtSnrMVJJGA5CJgInOZYuxQA0T+qyhtgj+5rs+DhB9P41FvSHFXCr+NqLRHdplioU3AhSuGdTeuR5uE8XJqGIg9epw+2ghL2CXW6sF9bZSjj0z7fcOcQsSmgifr0tMJ/J6Zk78yT6dNQNGSYoJ2175yPtQC/tC9S/cZjxD2Xe/jBmPbRxPIlJEr307BKq9yweApPvpiz6z2XhBGlPC2VLLRC2IWtXUiPgdSrj4qMf4xLktr1zzY+IzzOLZokyaZDJVM7HrDRPfVXVicEkNeDG1iK/+Nej2UsLi8IRBtbURHb58JGjRi/Ri7LbX5ZC1KknN/x7YM2XF8LtDA8ezpUgUhcVekxFOw=;yIDq6EqE8JlSs261o8DKyg=="
 ---
 

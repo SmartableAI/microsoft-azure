@@ -94,6 +94,19 @@ related:
       - url: "https://s.hdnux.com/photos/01/11/65/34/19355416/3/rawImage.jpg"
         width: 2048
         height: 1422
+  - title: "Microsoft's cloud business helps offset pandemic woes"
+    excerpt: "Ongoing demand for Microsoft's cloud computing services help softened the blow of the coronavirus pandemic on the software giant's other products during the first three months of the year. The company on Wednesday reported fiscal third-quarter profit of $10."
+    publishedDateTime: 2020-04-30T05:30:00Z
+    webUrl: "https://www.sfgate.com/business/article/Microsoft-s-cloud-business-helps-offset-pandemic-15235193.php"
+    type: article
+    provider:
+      name: SFGate
+      domain: sfgate.com
+    quality: 22
+    images:
+      - url: "https://s.hdnux.com/photos/01/11/65/34/19355416/3/rawImage.jpg"
+        width: 2048
+        height: 1422
 
 secured: "8+xOj5xlOGLpZcAdQriAdDDn9stbc/GcJxA2dPn1xd0fcq++bxp3xIu8yezsraqz+cdFlA5fArP1pSgevHeut5KvGTqFTTDPXHYGN3zgR4tU5JWvIDgmSEOda9yXQUJCe+mPc77b1RYw89IJ+muyjISSBDbuLhgg+FbH8WTLe+11QFZnhoH6cNuCjjYRd2IeZqilUUQgAFOK9iynrBe9nwN0E4Ylkt6p+3bEk+QddFW1gyQYh8HHCjbP+kpHBAI6RJWRAEzswyAJf4eKfbuLZTqLPugPp04FPyUMCq9+Jd+mN8ALOWNkGHnGrFdC63ri5iZxr8sYjPwOmIhFnEHEtM32L0W6OStHTQwULbeMKmWCLaZi89FPw3ycoqKlguGhNw5aNjbNYAsy2gX/Ss0NztgYQEh6bbJT5VC3hdZLgGzg5E1odgeD4K7uybhE55zYLIv/Fnpq9poFOQmBEvL2pxqFfdkoOa9DGRl1Y19kojo=;0e8K7sxc4vzIhL7xVvu3sg=="
 ---

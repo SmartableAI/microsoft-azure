@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Microsoft blames coronavirus-related supply chain constraints for its cloud capacity issues"
-excerpt: "Microsoft has struggled at times to keep up with the huge demand for its cloud services, as people work from home more."
-publishedDateTime: 2020-04-29T21:37:00Z
-webUrl: "https://www.businessinsider.com/microsoft-coronavirus-supply-chain-constraints-2020-4"
+title: "Microsoft's cloud business helps offset pandemic woes"
+excerpt: "Ongoing demand for Microsoft's cloud computing services help softened the blow of the coronavirus pandemic on the software giant's other products during the first three months of the year. The company on Wednesday reported fiscal third-quarter profit of $10."
+publishedDateTime: 2020-04-30T05:30:00Z
+webUrl: "https://www.sfgate.com/business/article/Microsoft-s-cloud-business-helps-offset-pandemic-15235193.php"
 type: article
-quality: 52
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: SFGate
+  domain: sfgate.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://i.insider.com/5dfbb9b6855cc26de1630123?width=1200&format=jpeg"
-    width: 1200
-    height: 600
-    title: "Microsoft blames coronavirus-related supply chain constraints for its cloud capacity issues"
+  - url: "https://s.hdnux.com/photos/01/11/65/34/19355416/3/rawImage.jpg"
+    width: 2048
+    height: 1422
+    title: "Microsoft's cloud business helps offset pandemic woes"
 
 related:
   - title: "Microsoft beats quarterly revenue estimates on cloud boost"
@@ -68,6 +64,19 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 62
+  - title: "Microsoft blames coronavirus-related supply chain constraints for its cloud capacity issues"
+    excerpt: "Microsoft has struggled at times to keep up with the huge demand for its cloud services, as people work from home more."
+    publishedDateTime: 2020-04-29T21:37:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-coronavirus-supply-chain-constraints-2020-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
+    images:
+      - url: "https://i.insider.com/5dfbb9b6855cc26de1630123?width=1200&format=jpeg"
+        width: 1200
+        height: 600
   - title: "Microsoft weathers the coronavirus storm, posting earnings boost from its cloud business"
     excerpt: "Even as much of the global economy has shutdown amid the coronavirus pandemic, Microsoft recorded huge revenue gains in its fiscal third quarter as homebound workers turned to its cloud-computing services to get their jobs done."
     publishedDateTime: 2020-04-29T20:33:00Z
@@ -96,20 +105,7 @@ related:
       - url: "https://s.hdnux.com/photos/01/11/65/34/19355416/3/rawImage.jpg"
         width: 2048
         height: 1422
-  - title: "Microsoft's cloud business helps offset pandemic woes"
-    excerpt: "Ongoing demand for Microsoft's cloud computing services help softened the blow of the coronavirus pandemic on the software giant's other products during the first three months of the year. The company on Wednesday reported fiscal third-quarter profit of $10."
-    publishedDateTime: 2020-04-30T05:30:00Z
-    webUrl: "https://www.sfgate.com/business/article/Microsoft-s-cloud-business-helps-offset-pandemic-15235193.php"
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 22
-    images:
-      - url: "https://s.hdnux.com/photos/01/11/65/34/19355416/3/rawImage.jpg"
-        width: 2048
-        height: 1422
 
-secured: "0Nedp8Ate/VVxiu5tbB+pKOSAmUkV1B8/FGdjuQKIs5hFS/FKirN9lLPL5CVitLOxY6hxUiQhkif/6d6xtIu2+IRh+FppaduBOd1UIwRkZn5xl70x94Xcbs9JvQHp1r2wtCuC0NSLMsD0sPK4EW57Ikt+J3SCRPzdt5qrLOdxSmpKFMabWooKVu82pBVIS7QQXfxlGS8q9b7sJGj1DFcqG2qolO7SZc0bejk+4aDc5UALP7Evh2Ao5te9ah/mJ01zr9MJJnDVzMN/Nwshp0PX6sL2MSfAqtGajzOmABKChku5lFiprUqu46Bq2qKLnH4/NNFr4YypCoIibFA6ToLyIgi//ak2IMMuPf2+JOuvjOxT3AhZbXfIJmD0671jfMBWc2QnvVuFt2fnP2IIX5xKfrgf0kijVD6884ZgittcUi4FKQV9mukMZBSpX3901MvMUJbs6qplu8CpiaTOBVD68D/yNMFqwW90rjFOlLaLBk=;8vXHe4KQPNADI44dWf27AQ=="
+secured: "2cr3Xn2I/UIomw/f2n07PjJC24zVHWYGCg3kw+bNEW/bQgvYKE34tTSBsdj5yF9fh1f5VxwClIdjpywk9okg6D3DufPERBH29esPPqwYcyPx4c8eKPYnyE3+W/YgjRnWek3tUXDgt+9KezdqQ6Hx112yN2K+WrBhufrdaobONb5Vnxzeu7Jnc4bH1afvetyB78XDrICpEULRou6oNsosY/rqjm31eDrvuM+dXG9i/jpoefVxgFfwiKmuYu5DPabzs+cgt75aunsrKxsEbc5zTPG7xLPID5aB1QC/sp6GFGFO8UYr2vctpt4Sbp3zGo/m;EgWW8Ttspjt6drdEXEnp4g=="
 ---
 
