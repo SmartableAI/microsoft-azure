@@ -1,38 +1,43 @@
 ---
 category: news
-title: "U.S. judge puts Amazon challenge to Pentagon JEDI contract on hold"
-excerpt: "A U.S. judge on Friday put on hold a suit by Amazon.com Inc (AMZN.O) challenging the Pentagon’s decision to award a $10 billion contract to Microsoft Corp (MSFT.O). Judge Patricia E. Campbell-Smith granted the Pentagon’s request to halt further action on the lawsuit to allow the military to reconsider aspects of the decision being challenged by Amazon,"
-publishedDateTime: 2020-04-18T04:52:00Z
-webUrl: "https://www.reuters.com/article/us-amazon-com-pentagon-microsoft-idUSKBN21Z3GW"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN21Z3GW"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21Z3GW"
+title: "Judge puts Amazon challenge to Pentagon JEDI contract on hold"
+excerpt: "Known as Joint Enterprise Defense Infrastructure, or JEDI, the cloud computing contract is intended to give the military better access to data and technology from remote locations."
+publishedDateTime: 2020-04-18T00:51:00Z
+webUrl: "https://www.foxbusiness.com/technology/judge-puts-amazon-challenge-to-pentagon-jedi-contract-on-hold"
+ampWebUrl: "https://www.foxbusiness.com/technology/judge-puts-amazon-challenge-to-pentagon-jedi-contract-on-hold.amp"
+cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/judge-puts-amazon-challenge-to-pentagon-jedi-contract-on-hold.amp"
 type: article
-quality: 82
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Fox Business
+  domain: foxbusiness.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200417&t=2&i=1515553285&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG3G2CA"
-    width: 911
-    height: 545
-    title: "U.S. judge puts Amazon challenge to Pentagon JEDI contract on hold"
 
 related:
   - title: "U.S. judge puts Amazon challenge to Pentagon JEDI contract on hold"
     excerpt: "Known as Joint Enterprise Defense Infrastructure, or JEDI, the cloud computing contract is intended ... namely “the merits of its argument that the DOD improperly evaluated” Microsoft’s data storage in one price scenario. She said Amazon is likely ..."
     publishedDateTime: 2020-04-17T23:55:00Z
     webUrl: "https://www.reuters.com/article/us-amazon-com-pentagon-microsoft/u-s-judge-puts-amazon-challenge-to-pentagon-jedi-contract-on-hold-idUSKBN21Z3GW?feedType=RSS&feedName=businessNews"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN21Z3GW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21Z3GW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 82
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200417&t=2&i=1515553285&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG3G2CA"
+        width: 911
+        height: 545
+  - title: "U.S. judge puts Amazon challenge to Pentagon JEDI contract on hold"
+    excerpt: "A U.S. judge on Friday put on hold a suit by Amazon.com Inc (AMZN.O) challenging the Pentagon’s decision to award a $10 billion contract to Microsoft Corp (MSFT.O). Judge Patricia E. Campbell-Smith granted the Pentagon’s request to halt further action on the lawsuit to allow the military to reconsider aspects of the decision being challenged by Amazon,"
+    publishedDateTime: 2020-04-18T04:52:00Z
+    webUrl: "https://www.reuters.com/article/us-amazon-com-pentagon-microsoft-idUSKBN21Z3GW"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN21Z3GW"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21Z3GW"
     type: article
@@ -72,17 +77,6 @@ related:
       - url: "https://www.armytimes.com/resizer/4oY6QYiwbrQ_P1x7G8W5rhRChq4=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/YF6HUO4ZSVD2HL4ULQM3SV46UM.jpg"
         width: 1200
         height: 630
-  - title: "Judge puts Amazon challenge to Pentagon JEDI contract on hold"
-    excerpt: "Known as Joint Enterprise Defense Infrastructure, or JEDI, the cloud computing contract is intended to give the military better access to data and technology from remote locations."
-    publishedDateTime: 2020-04-18T00:51:00Z
-    webUrl: "https://www.foxbusiness.com/technology/judge-puts-amazon-challenge-to-pentagon-jedi-contract-on-hold"
-    ampWebUrl: "https://www.foxbusiness.com/technology/judge-puts-amazon-challenge-to-pentagon-jedi-contract-on-hold.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/judge-puts-amazon-challenge-to-pentagon-jedi-contract-on-hold.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 22
   - title: "Court decides Pentagon can reevaluate specific aspects of JEDI procurement"
     excerpt: "A federal judge ruled that DoD may reconsider specific aspects of the JEDI cloud. (moodboard) A federal judge will allow the DoD to reconsider ... Amazon opposed the motion on March 24, arguing that the corrective action proposed by the department would “preserve\" Microsoft’s award. Microsoft won the controversial contract over Amazon ..."
     publishedDateTime: 2020-04-17T20:46:00Z
@@ -97,6 +91,6 @@ related:
         width: 1200
         height: 630
 
-secured: "CS4OKyU6xbv0JMxyubeMtkUcpyqlrrg+VsItCb3SymlhJYVgg3EAkkL8qQIhgGw2LLZVxouaG4zkIdtiWmvWX0ik8su6xF+Fd9r08V4iUUP0ED/67A5cYR39yZTSqnIhI9xClTMhMgVd31KuCkfRUXaOq7IDK0eL7gsoy/pXgE9ZL38aHIPyPQj6h0xD3qpNX7ycbBcyatOrqkSMA0LMgaZPNFFyJD77ZpHoYpiFe0Ls7bUeRZ4eP7hoIbgJaQrIJ/kLR1K7BPVLyRZmzmWiR4+Cmixoi3pfBBsyCoaY1S7zdrB1/KJ051aMu0GbJ9C0zOIi2bM9mP4XvOXEXzDo+Hnz/86bi8TnBoZxeFk96J/O1ozQhJPbGTDk5OdrPLHbwLsD4yJT8gwHyocsuXWAT4bfaXu+6M5h1m9rXCHgm9bN6WAUzceDxk34+z3lvrY47y1VHpDEnUW6js+LofDZCzlAWSom+1h/w/TtDyM5vIQ=;X+RnNfakIdML6wZprXjp4Q=="
+secured: "aKFiMZ46YFPEeT3unlyTuay4h6P2KGWP66KkLXaGTCKWq+VDtMAvQxeVaI7AbSSdULwH38pk/0V0UeYyGb+33InGC9Y8iV2KNHnpLd+2fzD1hEaR6Zx8DTwRos6L2WlGN7ZXf1pRXtx345IDVs7lZKsGjDxSgZ92haN29i/3qGgzq5/gkr5pQh4faOkyRB7pwlJjY4A+VptYysF+4yJaNgU7qTvbfpo/qSgeFmaMbhp+ehasxm4gGpkDolHFz7SybTUaYo2+5vToVECS7nZZ5RB7DQa/NN9d6DeTcjNPFOHhCynWCau9BOh6CEJc3zbCMl2HLteLEhTHaS/kAEFVXzdGfng0ApUP3ntCMMmaNMpPBnhKW6av3LKNX/Fuqh0fp5mkkMUhjff9od9W6Nw5IxrCSyaAmQO58hqMu9+gAlRF3TpdrCDGuO1JLpXViwKYATJS5quElB0DoTFue3m7qo1K0b8QBWsbe6r0x9yWunk=;ISTOQPtia53LggtyPJbc0g=="
 ---
 

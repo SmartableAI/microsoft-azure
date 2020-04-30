@@ -72,6 +72,17 @@ related:
       - url: "https://www.armytimes.com/resizer/4oY6QYiwbrQ_P1x7G8W5rhRChq4=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/YF6HUO4ZSVD2HL4ULQM3SV46UM.jpg"
         width: 1200
         height: 630
+  - title: "Judge puts Amazon challenge to Pentagon JEDI contract on hold"
+    excerpt: "Known as Joint Enterprise Defense Infrastructure, or JEDI, the cloud computing contract is intended to give the military better access to data and technology from remote locations."
+    publishedDateTime: 2020-04-18T00:51:00Z
+    webUrl: "https://www.foxbusiness.com/technology/judge-puts-amazon-challenge-to-pentagon-jedi-contract-on-hold"
+    ampWebUrl: "https://www.foxbusiness.com/technology/judge-puts-amazon-challenge-to-pentagon-jedi-contract-on-hold.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/judge-puts-amazon-challenge-to-pentagon-jedi-contract-on-hold.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 22
   - title: "Court decides Pentagon can reevaluate specific aspects of JEDI procurement"
     excerpt: "A federal judge ruled that DoD may reconsider specific aspects of the JEDI cloud. (moodboard) A federal judge will allow the DoD to reconsider ... Amazon opposed the motion on March 24, arguing that the corrective action proposed by the department would “preserve\" Microsoft’s award. Microsoft won the controversial contract over Amazon ..."
     publishedDateTime: 2020-04-17T20:46:00Z

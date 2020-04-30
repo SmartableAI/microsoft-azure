@@ -81,6 +81,17 @@ related:
       - url: "https://www.armytimes.com/resizer/4oY6QYiwbrQ_P1x7G8W5rhRChq4=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/YF6HUO4ZSVD2HL4ULQM3SV46UM.jpg"
         width: 1200
         height: 630
+  - title: "Judge puts Amazon challenge to Pentagon JEDI contract on hold"
+    excerpt: "Known as Joint Enterprise Defense Infrastructure, or JEDI, the cloud computing contract is intended to give the military better access to data and technology from remote locations."
+    publishedDateTime: 2020-04-18T00:51:00Z
+    webUrl: "https://www.foxbusiness.com/technology/judge-puts-amazon-challenge-to-pentagon-jedi-contract-on-hold"
+    ampWebUrl: "https://www.foxbusiness.com/technology/judge-puts-amazon-challenge-to-pentagon-jedi-contract-on-hold.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/judge-puts-amazon-challenge-to-pentagon-jedi-contract-on-hold.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 22
 
 secured: "33IX2yJuU8HezjDVjx7gP+s90HT9ylhhN+NCHaAYEjQASPT20Xn93CIywgiB5B1MO+1DM3Ow8tkISLrOvcvbXu7e/FWuJEWg8beT4a0NVVVR5U8IFgdxShxt0jH3B+/DzvBnyINrPxN/m/Sx2qhffda0Nwcbc6FvzGNy13Nkb9G0kyHx+QDJpKAdPWPxAWr+Kziz6aKVtRKSbGamWnDvBvjlPsRXQMkAnHCuLDfoLpj1Efl3UiSvQZhKXC+j3mn7nYuMH+fBIXw1Gv1M7jVdl0ZlDRzUvTPN7fZRduIBAHOr1uNJzGtIQOQUBq3EbwbDiHLJqTyaFODOVCrkADYj7VyxWtnfF/VtaqEIq4v8ysiA6ViwfpZE5ksqula3SyChZCjewxhE3uu1mFHEbkLZCckmcQ4+BHE4s5FOxcoN8jXD1Lqt+Q33bnZeV5v5/rMH6VQGs1v6JVjhnhUxuvbUJElGR4NL5FPZPaI7k13ROus=;XqB/beMT7cnNAVm6KMbL/w=="
 ---
