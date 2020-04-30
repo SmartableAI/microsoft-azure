@@ -28,6 +28,6 @@ images:
     height: 600
     title: "Google Cloud generated nearly $2.8 billion in revenue this quarter, up 52% from a year ago"
 
-secured: "hZjKrrPqDbpwDoXzt10pn5xSOBA97CulFv4ao8c8TyhBFYpAjllPEZkGS66AC3Goxtn4Oj7htok/q0qJyWR+Q8ud+meQHNbePsjlZxAsgXnFjl1rcYgWA//Ockf84Pva5nY+e4lhKbqIP50e0LCozDnVLAlPC7/WQpStU+Qt17RBSawmoj92OBR1ZcIxc+kvlsL8e1OYApyuvM5/IJBaCsYvGTDYWADfmzOsyE862O/6+WKU/4tW5jLp0+Vq670cA6jpDXEsRvkQggrUS1l8qWreYOhK8C8/3HugxIe6aXfeQD3RmWEIG9bu5HXvClxJkGRV1ZkxRmQs/EAAFiIv/NN5Dz3mG/+UDjDxTYilqCAR739KmGI6Adh1M/Yzd/3Dhw4ePJQmBra6XdIZ0fjeV18ck8KpMDiZ5+XCjx8Pnp+NIi05hWYqwaFbDBDDDp3Mutgoi/QcBnUUrJiac/Ea00d6RUDNjp0VWi6RROc4R/0=;vNVD7o0oAn9cSo1g8jPjeg=="
+secured: "kp4xJJBqsGadjMqx6/uOfSXCiwqj4v/VfL3UakHv/bUHC4PIG7NY9y3h5kK3jLJkumL8l6MOehulSRN5hQu/FNhShFfiRn6u0ucLfSXDNSFz2gfv1kFbg9SBFN6ZRdbbUMuF/BOjk3z2NxDqYhyR+P5E7TMydAQAaUnyAAXnAedpWOvaX2I/MLW8D2bHAO4MI4uWk/eJXzAZ8l++4MwFBiiIcq0GzM0k6RAH9VgY7y/rrOtS0eMcf+b/5ul3kNp/OxdW0DVNTEkol8LEs+vFCkMZVGQ8W8yTMZAMfCrEjchh0LeQhmIlHWqc8bnjLBR/3riOG/peflc4bFjCQsIZNwrZAg8GLCspvl2ECfqlMb5zg6z/X9aPDwJFqaSldr9lH68VUHauuqLO08o8STG6vivkvQ4qFn3fG+kcTHtqcn0fP+IWWqIcZixL1rYPeO3sNtiee7oBE3kO+lmTopPC60IB7NwWt2t1hprUDrap2K4=;KL6tI4T2cIjPqn2fpZhhWw=="
 ---
 
