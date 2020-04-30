@@ -2,19 +2,25 @@
 category: news
 title: "CognitiveScale's Cortex Certifai Now Available in the Microsoft Azure Marketplace"
 excerpt: "AUSTIN, Texas, April 27, 2020 /PRNewswire/ -- CognitiveScale, the Trusted AI Company, today announced the availability of Cortex Certifai (Certifai) in the Microsoft Azure Marketplace, an online ..."
-publishedDateTime: 2020-04-27T12:00:00Z
-webUrl: "https://www.morningstar.com/news/pr-newswire/20200427cl88966/cognitivescales-cortex-certifai-now-available-in-the-microsoft-azure-marketplace"
+publishedDateTime: 2020-04-27T12:01:00Z
+webUrl: "https://www.prnewswire.com/news-releases/cognitivescales-cortex-certifai-now-available-in-the-microsoft-azure-marketplace-301047031.html"
 type: article
-quality: 12
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    title: "CognitiveScale's Cortex Certifai Now Available in the Microsoft Azure Marketplace"
 
 related:
   - title: "ThroughPut Inc.'s ELITE Now Available in the Microsoft Azure Marketplace"
@@ -31,6 +37,6 @@ related:
         width: 1200
         height: 630
 
-secured: "gA+nzTA5GGL0MuIZmpa417vMC8JQn0bug1r3vsrMSQaWFGKQxwqY7sML6tK65NPMVmVN2O/vYI9bMRAfYBkK7UNuHHV10xsEOsTJ6INCP9EEWaBBpJrwSwJA/FbNxCslkaFtpnwBOkfSe95uPSIPjLRjLFJG6tv9u5k7G4DJXA/pRP59yKfKszypvpnX3YfHMgJ+LlOQYmdugDPpQHsO9g5FRDZFvh/vtMkZVrdjdcbTtcSNgt2D5AaeZuBQc58sfT7X8tlImZI8FLWZxqMCvrg5NYZeccU6mBvZkotctlAefxGSLaXFo+pR7VJKyqjz;+7ufLK0nUNMM/J+GE43ezQ=="
+secured: "7H5MhTJF18b3QLtDLXgs8JN7X6YILzq/erZWKx5dgl4EmgVj6RcbdSZ4U/lB2e/qAKDLBbg6WS0sw3w20D25gFf4kJFiMtKKR2+2dXKKtSDaIMxwDw7QJCPzuxR36mN66k4MYmuogqgdTeU+cZUG0mlm3H+G89Wp9B2WmPxjovclofbju5ijxOLJU2e53BlV3LgdEQVq4g5fPiFJm0qvprTiGv5hF6pgtYvFamBWUFSS+pBvJYaAbTPXQpyWE2TgQUkaiRumJCgvszQuT4bh9uA95lrwOY/vpo93lDf3fe36TpUc2BoDg9kEBGqZa+/m;JDSc1XpJL9Tm63Ckq+LOVw=="
 ---
 

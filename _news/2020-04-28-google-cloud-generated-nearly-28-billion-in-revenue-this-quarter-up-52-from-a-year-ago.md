@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/alphabet-earnings-q1-google-cloud-re
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/alphabet-earnings-q1-google-cloud-revenue-2020-4?amp"
 type: article
 quality: 72
-heat: 73
+heat: 93
 published: true
 
 provider:
@@ -28,6 +28,23 @@ images:
     height: 600
     title: "Google Cloud generated nearly $2.8 billion in revenue this quarter, up 52% from a year ago"
 
-secured: "uwdI0uWqvBpS7Ov9xdNj99Zr8ILh5R6xvoR7lwIslg61NR+fj16pdPEbInkAT8MwdINQehOWNehfgWlGL/qdp2cuzT6VE8t4pjJcuIg/4Ql9ROru0dFjy6sGB2YfPMGqDJdHZXKXgrwNgr3RURtZRKsiUHO9DvgJUfX52cjrOphRKvoJP3LjC0T8RikYTmm4DdV56q9yVOJStRQRRBHuK3/wNwWbubOnuI1gv/dM7yyZgJsLQiuYgDNjpVqyEoUTSSGOAqVyHkd/CrjbBmh3oousHfk3RhMhaawGMKiu6zArCNrgB2LL9GA0bsfjZqM8VebTV7XXX31fqdjqqLlQTfBD5iv9Gme6UMVLnN8poU103BtFLI/sbnIxRSldAMzMz0rPTf+o4shnMrmVa2IhyLoknn0LfmWdogPWtmd1sp+Z6TBePXacwVOqOBBzzhNKvSVLvAMV4vZ+jwonD4cVLlvAa9G2vG7B4DfzPH1PKBc=;FpX2+qsgVJ26t25JRRrkfQ=="
+related:
+  - title: "Amazon's cloud generated over $10 billion in net quarterly sales for the first time ever — up 33% from a year ago"
+    excerpt: "Amazon Web Services saw a slowdown in quarterly growth, although it still has a larger cloud market share than rivals Microsoft and Google Cloud."
+    publishedDateTime: 2020-04-30T21:10:00Z
+    webUrl: "https://www.businessinsider.com/amazon-earnings-aws-amazon-web-services-10-billion-quarterly-revenue-2020-4"
+    ampWebUrl: "https://www.businessinsider.com/amazon-earnings-aws-amazon-web-services-10-billion-quarterly-revenue-2020-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-earnings-aws-amazon-web-services-10-billion-quarterly-revenue-2020-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
+    images:
+      - url: "https://i.insider.com/5deaa0b7fd9db21eeb482b3c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+
+secured: "EXTA7jfKXXKJ0KmvSktAdq9OfxDlivcR/hseNibhbpiw9UPllc2HdNBmQYv8CPAyWh8Ooe2re3VjeWoC5OsQX26z+nHomNNhSOff1Z4PIHOHWIl1er3P+oD+OXLHzGVW8Opn23aTiweMn2w7s/Xjl3PMFSxIKhte8AZ0l+ptCWtOtJN+7V54Md5iNWf/SKo/VU7ABL9OLwZFCFBgVAjYOdjr6ZjUUQT3yZKFslkOonz28jnYxcp1imcSlca9z239jGIhNTB6V416UOaqlxmBAxcvnyNgn18fmPJvrblg6XWwqOLRhxrco/qggDatGZ1zQuPtj+tObm5bW/hYfa73FaH3LZXkn15vKYyxFxFHUS5bbt7gDih3lTwgXFOhme4Q2AHGlpUD/ji0VPFkGBWOJJmrnBIwWrTQdzdot+P5vwbCbD/Y3TrTBc0tWK+gzwtVoEeCXgKzWRifzU862wKU4UzKGB7Z0JEiYS7T7CAQPAo=;8zlH3CNjSRx/SDHLQgPVBA=="
 ---
 
