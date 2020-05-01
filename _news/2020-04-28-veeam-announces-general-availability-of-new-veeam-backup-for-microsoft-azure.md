@@ -1,42 +1,44 @@
 ---
 category: news
 title: "Veeam Announces General Availability of NEW Veeam Backup for Microsoft Azure"
-excerpt: "Veeam® Software, the leader in backup solutions that deliver Cloud Data Management™, today announced the general availability of NEW Veeam Backup for Microsoft Azure, an enterprise-ready cloud backup and recovery solution."
-publishedDateTime: 2020-04-28T11:34:00Z
-webUrl: "https://apnews.com/Business Wire/80030b1b83d14cd3b278af2e44c449a3"
+excerpt: "Public cloud Infrastructure-as-a-Service (IaaS), such as Microsoft Azure, continues to rapidly grow in adoption for production IT workloads. Even with public cloud IaaS, while the uptime of the ..."
+publishedDateTime: 2020-04-28T11:27:00Z
+webUrl: "https://www.businesswire.com/news/home/20200428005491/en/Veeam-Announces-General-Availability-NEW-Veeam-Backup"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mms.businesswire.com/media/20200428005491/en/774069/23/logo_NEW.jpg"
+    width: 1200
+    height: 627
     title: "Veeam Announces General Availability of NEW Veeam Backup for Microsoft Azure"
 
 related:
-  - title: "Research Solutions Announces Addition of Article Galaxy Platform to Microsoft Azure Marketplace"
-    excerpt: "(NASDAQ: RSSS), a pioneer in providing cloud-based workflow solutions for R&D driven organizations, and its wholly owned subsidiary Reprints Desk, today announced the addition of the Article Galaxy research platform to the Microsoft Azure Marketplace,"
-    publishedDateTime: 2020-04-28T12:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/research-solutions-announces-addition-of-article-galaxy-platform-to-microsoft-azure-marketplace-2020-04-28?mod=mw_quote_news&tesla=y"
+  - title: "Veeam announces general availability of New Veeam backup for Microsoft Azure"
+    excerpt: "New backup and recovery solution integrates with Azure functionality to help organizations move more applications and data to Azure; eliminates cloud data loss while maintaining control over costs and"
+    publishedDateTime: 2020-04-29T09:26:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Veeam_announces_general_availability_of_New_Veeam_backup_for_Microsoft_Azure-ZAWYA20200429090836/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200429090836/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200429090836/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
+      name: Zawya
+      domain: zawya.com
+    quality: 54
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
         width: 1200
-        height: 630
+        height: 878
 
-secured: "4mBSHvh3xeJ0ExeUCpMrAEQdh2quVGwZRJCshbnE3gw99wM/lrsbmDvAIbHi7J8VaPTJ7C5LBhdkHzeIM+CdGlgMRYCkqvE2OtY5osIq05TOU+0MDIJsiMhhkYXWkjkvAYlKTGhYHgZwvl3Z1NyBng5WMr/XubWaifSdr8cnZpK5Amgkr9VKKb9OZ4ZsnEmwI8pxARVENkXmUMx3rbhS+hkA3DwdjRBaFw3jzO51EQEih4yDkMhQtFzF0zAgYr5Nc6DfB74qA8qlyM4VyKnDZwrnSEIa5ozzWy0Ff5J82Rz/UYxAvr5JCmnDsQNhRbAT;fwL/16EDaVr1FT1jnou5lg=="
+secured: "bWNpSt5+kzvT1MljN8EsyzBm3Cqj7+INs6mA+vCiB8FJUeBSVLtCazXmsvdB5pAdh8I1VgZbmDwF03hM+Mdgyyg7AoG5MTSZERktevboUD7M4aTpAWIrqq+YWJJEnmaIe3Zrf7p3qW+vH1w0mpMlmg67D1EIIxkn7prrBejR3UZ0AcgGekO4/gL9O6b69MQo6MqvAu8O8TQNDPtz4SXx/wdlBhGoJ3fAU8o6P71wJpx2TM7LTzZAiTrnSa6G0kb4gFjfQqjH/CAFp6XN2bgoclGOiBJnO+x62gmgM+Bc2jPFXmkY26yu+zj+e0RWh7M5;GvUHiR+vZbOOWCaWoaJmdg=="
 ---
 

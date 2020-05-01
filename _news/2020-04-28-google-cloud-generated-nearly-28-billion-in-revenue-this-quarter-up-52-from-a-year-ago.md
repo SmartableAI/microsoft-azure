@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/alphabet-earnings-q1-google-cloud-re
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/alphabet-earnings-q1-google-cloud-revenue-2020-4?amp"
 type: article
 quality: 72
-heat: 93
+heat: 92
 published: true
 
 provider:
