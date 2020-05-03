@@ -42,6 +42,21 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200429&t=2&i=1516924789&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG3S223"
         width: 817
         height: 545
+  - title: "Microsoft Earnings Jump, Aided by Cloud-Computing Demand During Pandemic"
+    excerpt: "Microsoft reported strong growth in quarterly sales and profit and said the shift of more activities online amid the coronavirus pandemic is helping propel growth in areas from cloud-computing to videogames."
+    publishedDateTime: 2020-04-30T04:31:00Z
+    webUrl: "https://www.wsj.com/articles/microsoft-earnings-jump-aided-by-cloud-computing-demand-during-pandemic-11588192187"
+    ampWebUrl: "https://www.wsj.com/amp/articles/microsoft-earnings-jump-aided-by-cloud-computing-demand-during-pandemic-11588192187"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/microsoft-earnings-jump-aided-by-cloud-computing-demand-during-pandemic-11588192187"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 81
+    images:
+      - url: "https://images.wsj.net/im-181683/social"
+        width: 1280
+        height: 640
   - title: "Microsoft tops $10 billion in earnings, beating even pre-coronavirus expectations"
     excerpt: "Microsoft Corp. outperformed the financial expectations that it faced even before the coronavirus in an earnings report Wednesday, sending shares"
     publishedDateTime: 2020-04-29T19:17:00Z

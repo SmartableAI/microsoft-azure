@@ -44,6 +44,21 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200429&t=2&i=1516924789&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG3S223"
         width: 817
         height: 545
+  - title: "Microsoft Earnings Jump, Aided by Cloud-Computing Demand During Pandemic"
+    excerpt: "Microsoft reported strong growth in quarterly sales and profit and said the shift of more activities online amid the coronavirus pandemic is helping propel growth in areas from cloud-computing to videogames."
+    publishedDateTime: 2020-04-30T04:31:00Z
+    webUrl: "https://www.wsj.com/articles/microsoft-earnings-jump-aided-by-cloud-computing-demand-during-pandemic-11588192187"
+    ampWebUrl: "https://www.wsj.com/amp/articles/microsoft-earnings-jump-aided-by-cloud-computing-demand-during-pandemic-11588192187"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/microsoft-earnings-jump-aided-by-cloud-computing-demand-during-pandemic-11588192187"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 81
+    images:
+      - url: "https://images.wsj.net/im-181683/social"
+        width: 1280
+        height: 640
   - title: "Microsoft Sales Rise as Remote Working Buoys Cloud Services"
     excerpt: "Microsoft Corp. said quarterly sales and profit rose, buoyed by demand for internet-based software and cloud services needed to accommodate a shift to remote working during the coronavirus crisis."
     publishedDateTime: 2020-04-29T20:16:00Z

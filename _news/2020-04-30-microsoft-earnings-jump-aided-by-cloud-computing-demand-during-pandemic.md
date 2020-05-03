@@ -1,26 +1,32 @@
 ---
 category: news
-title: "Microsoft's cloud business helps offset pandemic woes"
-excerpt: "Ongoing demand for Microsoft's cloud computing services help softened the blow of the coronavirus pandemic on the software giant's other products during the first three months of the year. The company on Wednesday reported fiscal third-quarter profit of $10."
-publishedDateTime: 2020-04-30T05:30:00Z
-webUrl: "https://www.sfgate.com/business/article/Microsoft-s-cloud-business-helps-offset-pandemic-15235193.php"
+title: "Microsoft Earnings Jump, Aided by Cloud-Computing Demand During Pandemic"
+excerpt: "Microsoft reported strong growth in quarterly sales and profit and said the shift of more activities online amid the coronavirus pandemic is helping propel growth in areas from cloud-computing to videogames."
+publishedDateTime: 2020-04-30T04:31:00Z
+webUrl: "https://www.wsj.com/articles/microsoft-earnings-jump-aided-by-cloud-computing-demand-during-pandemic-11588192187"
+ampWebUrl: "https://www.wsj.com/amp/articles/microsoft-earnings-jump-aided-by-cloud-computing-demand-during-pandemic-11588192187"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/microsoft-earnings-jump-aided-by-cloud-computing-demand-during-pandemic-11588192187"
 type: article
-quality: 22
+quality: 81
 heat: -1
 published: false
 
 provider:
-  name: SFGate
-  domain: sfgate.com
+  name: Wall Street Journal
+  domain: wsj.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/wsj.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://s.hdnux.com/photos/01/11/65/34/19355416/3/rawImage.jpg"
-    width: 2048
-    height: 1422
-    title: "Microsoft's cloud business helps offset pandemic woes"
+  - url: "https://images.wsj.net/im-181683/social"
+    width: 1280
+    height: 640
+    title: "Microsoft Earnings Jump, Aided by Cloud-Computing Demand During Pandemic"
 
 related:
   - title: "Microsoft beats quarterly revenue estimates on cloud boost"
@@ -38,21 +44,6 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200429&t=2&i=1516924789&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG3S223"
         width: 817
         height: 545
-  - title: "Microsoft Earnings Jump, Aided by Cloud-Computing Demand During Pandemic"
-    excerpt: "Microsoft reported strong growth in quarterly sales and profit and said the shift of more activities online amid the coronavirus pandemic is helping propel growth in areas from cloud-computing to videogames."
-    publishedDateTime: 2020-04-30T04:31:00Z
-    webUrl: "https://www.wsj.com/articles/microsoft-earnings-jump-aided-by-cloud-computing-demand-during-pandemic-11588192187"
-    ampWebUrl: "https://www.wsj.com/amp/articles/microsoft-earnings-jump-aided-by-cloud-computing-demand-during-pandemic-11588192187"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/microsoft-earnings-jump-aided-by-cloud-computing-demand-during-pandemic-11588192187"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 81
-    images:
-      - url: "https://images.wsj.net/im-181683/social"
-        width: 1280
-        height: 640
   - title: "Microsoft tops $10 billion in earnings, beating even pre-coronavirus expectations"
     excerpt: "Microsoft Corp. outperformed the financial expectations that it faced even before the coronavirus in an earnings report Wednesday, sending shares"
     publishedDateTime: 2020-04-29T19:17:00Z
@@ -120,7 +111,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/11/65/34/19355416/3/rawImage.jpg"
         width: 2048
         height: 1422
+  - title: "Microsoft's cloud business helps offset pandemic woes"
+    excerpt: "Ongoing demand for Microsoft's cloud computing services help softened the blow of the coronavirus pandemic on the software giant's other products during the first three months of the year. The company on Wednesday reported fiscal third-quarter profit of $10."
+    publishedDateTime: 2020-04-30T05:30:00Z
+    webUrl: "https://www.sfgate.com/business/article/Microsoft-s-cloud-business-helps-offset-pandemic-15235193.php"
+    type: article
+    provider:
+      name: SFGate
+      domain: sfgate.com
+    quality: 22
+    images:
+      - url: "https://s.hdnux.com/photos/01/11/65/34/19355416/3/rawImage.jpg"
+        width: 2048
+        height: 1422
 
-secured: "P5eD+1vJvgJpfy/H4UIYguL+kv5CecVpXdVBy1AlJHGjwrj3jfyIl94gXsuDU6/UJWEr/cS8o8EF8EylyMj+Ht8qEayf7uhBev16Hv72kChTVCJ2JiL8BycQ3BpnywmnG6/gVYJSYec4IGcK/ZytwETbpZcAewkbgmcdmfiCICPezKlL2MFmf/yii7ErUr66TryJ7Ku31WCJ3UgKQ6GC8yBrWmsSds9iBqOMEf6J2PEDGa3f1pd0uif1J1ACC4B2D2oW7talVtEVGTDzQDEKXQRGd1H6JGeXk7CQoll1nPeqyW1Q/iHY7cBCctJK+EDed6EgSW7v99Hz1NkU1HYuY6r+anyGGQvx7cG+9veJpPzMwxjiNef6GkUyYiMvSEoEAUHr4zj1B5gjbrt8qNNSHAeBIGahgiD2FU1+pCZuRNk7asmYiYM9lPkkiLcZtfbVu414jn4EzrPZwdAfyAscDSdQD3D6gSDgxV72Z3zuIz8=;39Zd2+wH3I53gYBDw6PzqA=="
+secured: "LBwUntC1STYdGRSIzkIXVxHOwJEfUghK2FcVx+SawwPg45nQ3TGhOxoZIbhiWRmtR5J79BDW2Iph7glGS8q9T4RMnvHMubFmVJvIR4IHLNHn48QoT/dqcxgE2pdgE0L0I23jZSn4oR832QStJXKAvoTf1SMAVPVlNOShtxOXDo9Z/3TOKutxH20IsOV3A0AgppcHZh2rQeSwGYhCgvtQ2+pChtMx4a5liuj5g0YHgUX1eW0SK4aSZ+hH623HkKt/MupjxV6dzlKqnA7X4NOLw0VlIbyV/Q31+PKJedseL6aYlBzfxGPoNHi4gk9KAEna;g2T9qlbNkj2ftKDPIhUg+g=="
 ---
 
