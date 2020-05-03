@@ -1,29 +1,25 @@
 ---
 category: news
 title: "ThroughPut Inc.'s ELITE Now Available in the Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers worldwide now gain access to ELITE to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies. ThroughPut Inc."
-publishedDateTime: 2020-04-28T11:00:00Z
-webUrl: "https://www.marketwatch.com/press-release/throughput-incs-elite-now-available-in-the-microsoft-azure-marketplace-2020-04-28-719700"
+excerpt: "ThroughPut Inc. today announced the availability of ELITE in the Microsoft Azure Marketplace, an online store providing applications"
+publishedDateTime: 2020-04-28T20:30:00Z
+webUrl: "https://www.prnewswire.com/in/news-releases/throughput-inc-s-elite-now-available-in-the-microsoft-azure-marketplace-838367579.html"
 type: article
-quality: 76
-heat: 96
-published: true
+quality: 36
+heat: 36
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     title: "ThroughPut Inc.'s ELITE Now Available in the Microsoft Azure Marketplace"
 
 related:
@@ -41,6 +37,6 @@ related:
         width: 600
         height: 315
 
-secured: "F92CKAYtgkqhouhTdvU2VNk8WdGHoMigSGsMNKDcpH6iC7uWy0TesYCa+bPSaIS2qyO+1CN3SKrmjeFPQD2+ehazkDTqV2nvELrbWoL4HtyssTm6+yvAyADThjGQQv1lAP7ch3Uvd8T2w4Dd3She0fdsR0I/B4OmpsS6hITE4AZ9AmJTTsdTY1A1WdtOwdKT6M4k2aPx/NFaUr6pNbKg+lwDiGJB75dlHwKLCBUwUdcrsy7DBbaQ33gT9hox1DXSdfA1AyhjB3Mk6X7GaM/6nc0qXq9JdULL+sC9v9ICbR5bAhdj7Rr49avOITSteCZr;WUIG4i5Oiav/6mInzZsGVQ=="
+secured: "CsQOKh9B8RaomIQKneSsLMAO0Ay1EIZPRo6SXiqs5qYn/Pzijjc5Hpgp86Ow/U9sxCgBSLc9emu9z3zOaFvOo7KsuYVH73C4yPbHWNSszAxqirWeLeWHx+59yUbdcoMiqOhf1LHLFFYpfDy8PibY5/MAcpE/osgUvNqNNe5JwzgP3AWoFAbr4R5D5KFNro7I0xxgIFPLjbb04FJrusMLMa2Xrrl01RMilBpKq9KdXWUAKheTrEeh/jApOKyliW8bSHOqnZY5ChEZRuUHCctClllF2DXVhujcFshtlXGmjIWJdME+X4UIEWKRAFd6IFO1;yEy68k2U9ZDjLutgGYg1ug=="
 ---
 

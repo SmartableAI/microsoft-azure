@@ -28,6 +28,6 @@ images:
     height: 800
     title: "Google Meet Goes Free, Microsoft Flags Double Spaces…And Other Small Business Tech News"
 
-secured: "shgsBwOhLKLH9UNCxY6XO28ZS/Xzczj5Uv03zUYZWxfR5ToSL7FN7xFcjiq59DPrnxWGLIeRDIgCx770/rRtWrcfbjcignFmTHoowlcARF+t0P2OhVHVppQ1zkJtBc/pC+6wOP+5HncUk1XE7pYSpmzI0S7eMKNMqUhSRCnYr5HUsMQIocMdknJ8mimoxor70jWFNvKvgnkNT+InD/7iMVzmw4bTZfjft1Iy6wva0Ly5BaypzjpIyDFzEtW4g03Z/MNUcIWqPk2KELH0DZu8HQdtFGnIqUaPEBi5BEpWwUp7s+NwApjXHuyHJy0sKB/s;G4ixIqJIJ2pO1lGCiMl+/Q=="
+secured: "Is+v24PjbZBE/ync3fqN4SyUkfj+z+9yBviZSRPIKFYiRy1xhX453dSDveiZlQzBhzuyZnhiDUcL7c/O68gza/oSScr7RxhYpxd9LTTCZuPdjcP+6NCDy7X7H1q4HbEf1gT6/0jmT7c/LeU6eie/GXf+RJAR3282EXVjbYI1WannLEDdlkI2GIge+Q7pjr3QDirRa/2ku7KHpwmg+nP28PoROfxOmbcgI9hIkGReyazlQ4lNfjsDs07WSUXrP+IwxmY+bRLu+YlcyQDkbXOvkEco7/2ZEP25X/ccCER1tu7InPSHFQtm7oXE/t8YKKc8Uf9h/mhbWYG3NEaQMDur47zMmmherE4QHFp7pLXwcR1VQr7S1HHCEjuQxy8KL4xu/D5svTGBDcO9wVfyb6HcREccSQA/rRfa6k66m3tUF3LyGeyIFwBRLCEAMv/Ooj8T9/W+G7+tcIHMu1prPjt7Inwz8Uvt725VSbQyAB6iYi8=;oN+3e0x+TiTKQZlL8LqwBw=="
 ---
 
