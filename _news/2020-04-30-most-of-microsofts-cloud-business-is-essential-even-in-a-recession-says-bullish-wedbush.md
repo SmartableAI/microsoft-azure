@@ -24,6 +24,6 @@ images:
     height: 720
     title: "Most Of Microsoft's Cloud Business Is 'Essential,' Even In a Recession, Says Bullish Wedbush"
 
-secured: "+JY4lVQ20WT//eYV6i1QMgyYWfYHOwuJB9JBGW0PKY0ggAScHTqaezLJWkSG1Nrc9CkD+8ZClxJ4KtVjno+wdfBlwjw2uIXb2iYzr4CFgflMvMIJPcO+pgdnZkTR9DdARocnZYW+GacZkQqezfCkQAxT4uqxZtutw6m/J3BkMYBelwa7/q84O9/x5SNzVWj2QoOEUCo9Zqml42kO5aIWBG6WF9W3dNvNUyOSu9hVrDRaEo2ACExAgb3tOkhnjCbp7sYAeeyB2xnSyAroZjmGvv2CYq3kf93QJqh9CfKFYzZjrUZDjVK+AkgrkXM/Vnuk;UzEJO5xZzs/dGC94qxVPGA=="
+secured: "PEg3VwBZZtbtsyiwEldccfsAWlh9hfChsUKvJI87FAQA65mTGEW0v5s0g6bTUx1PGIY18dFJSSZcjRmyfCpko7uXGMUM99enz/wSVgLEECQZnVJNFFwHYqDnYOC6k6+Lo+IDEC5WKhDDwtF6oi+IBHQI8BHjS8Li6Jkm3/kbEvROSlHH5WRHXCg9kGJkv9ViN34BPb9wAcB/5nsRWccemOxXZD7sgcQHdpF52UhhpD9p/13w/5llJBkMmahmHLFzr0OJDlNlhIBXeKzA6voftHWH5mpbuU5bznvd0f2/+38s25mFi7roLICclKJBelC3BZLizlUwjs5P8n0QEGIg0pQapBAgHFt6o/fidIu1xS6/rXMkipDwtvjf5hNbQjsT2x0nH9kH9T5F5rLjg2DAGpVliuKWeJV9Ojj4qNe5KZuRnLNM4jqh6eSa6JjKr24We1z33tb5GRxz1kJkHj27fzoUlCxTIZxj+59HM9S257U=;XWuDvvlX4Fux/411BATy0g=="
 ---
 
