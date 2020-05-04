@@ -22,6 +22,6 @@ images:
     height: 430
     title: "Fortanix Self-Defending Key Management Service now running on Microsoft Azure"
 
-secured: "BbYbhaZgIl4vzirqgAgoQsnT/+4E8hb3QTrBsGD5t4EEClf/bT6cHGFh+LS5xwNTw8fgpQfPQh69+NTLDIfTVSgr00txMCj8Jv45lothBzZ4TxiR8kl5mMSrW/SK7u4f1vumuQsDIGL1RrpouzDjSxmhQEA5+1RPz2GHReJUQD+OeKBxPje6m/to3DO/jbWxv9uMQHwsJTsVmP0Jg4AZKY3hDrq7ozslcIxgm9RbknJ4FChwh2olxKxRnETR5qA3Yec00oUVXgEG7/tyxu/ogJ2LY4hxHEpkYNIQquFPedjEyxYxBAEyW0vx7wg61uhw;KOOaN2hnkZZwnE6TKxgO4Q=="
+secured: "bPmTXxGRGNQjGtGiDMQsmAq1C2xF7xVs9VJqOAyOkqzhQpwWM/yrPCocnQvOHnf6SqPfFVIDid2cP3QveHVHtnM2I5PulX0kiP13YUebrnFZw0BWXMhJWZvDeGmlDeiCupVjFq1T1nsEc6wITD+y0HnyzMIcjBL+P3J+N+90lrIDfZ15BeJzK8t+eXwjLIKDDvq1FyVAKcWrefJ/sbpjAsgSGBXoCmax056iWX+YzQK4J15TtxIyFhCUQLcJg+nqZNQdykOoDV2/5RY0FQDid2h3IsXLyb9r7UaM9KrsFUPZtQg1um4O6gCif4A0lVIbxyWEP0V4/+i+HInx4eybKbP1jFTS4B+MlWVoAZhaQyHPS6QZVWlbiCq1QOE42BqSl8m5tNajjJlaiiD925QKM598HoCRY4joeErYXt/VaiBhu+CiChBOjfLnMmfcNooaIT++ev2VlxNPv+IoBhH07+xESSLCNvnDHWpXCxj/k3o=;7AY64MjPZfy//jcVxTNyWw=="
 ---
 
