@@ -40,7 +40,20 @@ related:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/04/Microsoft-JEDI-DoD.jpg"
         width: 1265
         height: 745
+  - title: "Pentagon IG finds JEDI contract didn’t violate law, but ethical questions remain"
+    excerpt: "The long-anticipated report on the Joint Enterprise Defense Infrastructure (JEDI) cloud contract, which was awarded to Microsoft over Amazon Web Services in October, found that while the Pentagon ..."
+    publishedDateTime: 2020-04-15T19:21:00Z
+    webUrl: "https://www.federaltimes.com/civilian/dhs/2020/04/15/pentagon-ig-finds-jedi-contract-didnt-violate-law-but-ethical-questions-remain/"
+    type: article
+    provider:
+      name: Federal Times
+      domain: federaltimes.com
+    quality: 17
+    images:
+      - url: "https://www.armytimes.com/resizer/PAsw1-1BhUO77r_zGK1_xhhGs3o=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/WXVIJLL7IBHTZAHBV5NQLHTO4Y.jpg"
+        width: 1200
+        height: 630
 
-secured: "mLDHRNb8yyT9igWRUNKgPCRRGfXGyIT+7oulPpksUYvpO0QhPcIhG56uVk6Ra7pMJkuGr8ybEEtGWIVNmLjcTReCSKNLcnBJfP+/jtUml82dekmqeXklYgMHtdFo91CwJmFPRU7PjFP7YTqCM5Wh0ik3ZdxUWprOmHlXTHyrJs6vSzPbASQLrfhOJSGLqoHHw0Itx+TZK8pKNBTjRl97elPaG4Mm2WC785asRmRolZrXGNc1ZophaiwENFlvEMsxg3mbTn7ta8T1L/I9jrc8DspRp+H633hjn7m/bOUZKQ5Al4vGSTMFy/0i5AKVqShb;eTc97bNIYGBltsdFGIhWOA=="
+secured: "Ihxlen7XCt7UZ6+2NX79BCq73gtWUuohYQS3kPsHtHLhV8MuQ/0UswF2RWxDoKXp/1gEPVV7C0k+AYWi7ZBL2xmVYMnEB/S5r8lc64a5zImo4ZUqa1GdpKGKJSG0/bIv/7v8go7V/tuuPITKYu98BDWvP/p0tSnFGufbGx9QsSn5jAm/Ma9TT/U9vwtuNwTVhZj3OEoy4KLyCtgctBh5Ptx+omxnfgqE7+8zdwTTlfVWjkXIDsPG+si+Dk+SB6aUgRj9LsUxiFuLjHmAp/4Vms1mKBWbobFdVy4fakZirT+6/qk/fNCLZoZK3u1CFaeJoQQ4rccvJNu/yvpiZrij3Kud5QXZ5S4lfa4kRB8rm5Gg4CwFcr2CAeBlDkJnfDu+7n7rYz7YXRgbp7T+7b1rrBQ19FMyweKNn6lNA7O8wBVjnjnwZiihTuvQw1JSg+cXjRVimd1OTb9l7K7EoxddjZh2bcgodbxEFr+9IFS+U8U=;GRWF9op4qwH3D0Efbvd/xQ=="
 ---
 
