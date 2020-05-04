@@ -22,6 +22,6 @@ images:
     height: 500
     title: "Q1 belongs to AWS and Microsoft as cloud provides ‘safe haven’ during Covid-19"
 
-secured: "w/6wCv9F7iSy8kNTzAmYO72pNvXcEvHkj8QEtcQSdBuly56Mk5moLk6OvsUpEh5qMGgynWb2S5FJ2+3vAMKm513lxSTr7NT7NgJeygtBy9/ju3tctpFfnr4iQ9e3/oSal0AV76XQnzeWWnPe94h+EZMhU6Q0GjcMm/8hRiDnBqcvY0N2WeEIpTV5pH50XcLBNtyMHVgwlEB/rMW+UX0I/tuIVuNBY9noORnVHchwgRnshSi9gUNrHobZy8wRgChYkdM0D7LFgvzaxBAbIb+IIV78ZkxEaDO74UC1A7BrofXcS+jQI7WYAcz63qS4uRkk;ovoPgHMYx2rhEr57+pHaKg=="
+secured: "1mqrxinWgTkg7J0BZ/AOTvaAIlvXEZ28ZBlu7AfxRjCN78t+EAcqgmict9FVq+YEFPf27iPfFYTgyMSKIK/tox79gN9404IAXCe7uKs9AjtNjKyr8Ot8DsofbmW8ordXIgfckqfmWNdtZPDBFQ9Nb+EktcGNh0+jUAAkiNqruEalb4kS0PwJuCgqdNC4i6/VaXA6VQJNEQPWi7Sg5kOFgdEYmCd/LbeLjC9490x8rFgxVrbbTEPAmSboXUbOtx0Sg1w9XbV124iZUo3PXQ9jrrSllinzk4OmekFy5gs+Rc031chHVsskkCTgWAA4Bk2byN+VooWmKurqqUhwDFEDk+tktOoc+Ip729//KzmuWSDwFfxAfj+PIXwqu1UVuuvd47pC6thSuddk4L3HFTotzfl2GfACxjQ8iGVvEAgDeiSZRYaEdds9gcu8ZoEGnizFalkfuvXSFuyI1xFaZJQafsSvSOaBIb6sdga2VagGdIg=;tLpm+keWiSsQycwJ/3zQnw=="
 ---
 
