@@ -28,6 +28,6 @@ images:
     height: 442
     title: "Cloud lift: Amazon, Microsoft, Google, Apple and others find a common cushion in the crisis"
 
-secured: "v/wRrXYXUtcSSLLQuJTYVfAtQ+pBQn14ZLgzuyZdh10hrQLUhqkCqv5luBDGuso4A9Acu9xPo3Jx8BSIaB2RNVg6vkFQO/Wmje8O2OAIki92RKYk75B+Tb4y40HeZ0+Qo0eFZM6PL8kp8Xhp/bVquqVRNzXeNwhJf9oVbEpWMw+TLeq3j0ZZy1eEe2ZElf8UaJBTG25VomJJ7hIn22xabgLqp/w772A/YAUflQuM1ZX/M5vepaTi2kq9UYN24PH7zAOxKXFvK8xC+Ua/v8pczXPusK8S+L93MJdfN21OCarOoo7/D8RCMBnoxNDchlvZ;5d1LK6LKIV0vs23FrGyBsA=="
+secured: "bd3gbp8fLyTJ65ncZgszqQuXaXMlv4uoo0PDdog4pTT9IckH5SWAEQ/UATwixJWMt7evfV2Ee3uDxNH/mjG4Jpa9mCXsYRycIyNTF+PW9+oZ7eHencZ2U3XSRvEmhuPsWDWZIpk+viV+jBzsz7yWVZFxuvqAxLItmZt2I1c36BrIr1mI1shKfub/Y7ex8CmbTMagiutAJ13hJQ+b0k7cnLHV9+ohJ5vqivXcPDNOVxA62tDnzqGyek0ouxSMUmp9hCHIubWXXEkfow2/Riumt36whUkXfJOdfU/fU/r9y+FzYu5NekCjfCtdMlBp/JJ9qPCJN8fYy1GKbuAnegr4soPUWQ7tcqmAa4f4aIGfF9EtYPDgPvw20cEqX/4Tclxwk6JuEXQezH7BZ5RAaMYhFkkVdr9Ckn+pVZzw89pFZieYJPsmLmJUF6s6sx53Ks42gEY7oBGFxJ5yfBSbjL41qUUbpGTdP5QdGqBEjVcZNwc=;zBdmc6BAriQKLQIV9CrzqA=="
 ---
 
