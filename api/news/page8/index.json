@@ -2,6 +2,43 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-02-20-azure-security-center-for-iot-rsa-2020-announcements.md",
+      "title": "Azure Security Center for IoT RSA 2020 announcements",
+      "excerpt": "We announced the general availability of Azure Security Center for IoT in July 2019. Since then, we have seen a lot of interest from both our customers and partners. Our team has been working on enhancing the capabilities we offer our customers to secure their IoT solutions. As our team gets ready to",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/azure-security-center-for-iot-rsa-2020-announcements/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-20T01:00:27-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
       "path": "_news/2020-02-18-azure-firewall-manager-now-supports-virtual-networks.md",
       "title": "Azure Firewall Manager now supports virtual networks",
       "excerpt": "This post was co-authored by Yair Tor, Principal Program Manager, Azure Networking.\r\n\r\nLast November we introduced Microsoft Azure Firewall Manager preview for Azure Firewall policy and route management in secured virtual hubs. This also included integration with key Security as a Service partners, Zscaler,",
@@ -1031,51 +1068,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2019-11-21-azure-backup-support-for-sql-server-2019-and-restore-as-files.md",
-      "title": "Azure Backup support for SQL Server 2019 and restore as files",
-      "excerpt": "As SQL Server 2019 continues to push the boundaries of availability, performance, and data intelligence, a centrally managed, enterprise-scale backup solution is imperative to ensure the protection of all that data. This is especially true if you are running the SQL Server in the cloud to leverage the",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/azure-backup-support-for-sql-server-2019-and-restore-as-files/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-21T05:00:16-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/eda6a05e-75d3-47ed-88c2-0ae27e75ec3e.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Azure Backup support for SQL Server 2019 and restore as files",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Storage"
       ]
     }
   ],

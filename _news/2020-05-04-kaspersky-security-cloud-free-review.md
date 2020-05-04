@@ -3,7 +3,7 @@ category: news
 title: "Kaspersky Security Cloud Free review"
 excerpt: "Kaspersky Security Cloud Free replaces the old Kaspersky Free Antivirus and adds more tools as well as Android and (limited) iOS protection. The program has such a light system impact that it sped up our machine a bit after installation."
 publishedDateTime: 2020-05-04T18:24:00Z
-webUrl: "https://www.tomsguide.com/reviews/kaspersky-security-cloud-free"
+webUrl: "https://www.tomsguide.com/uk/reviews/kaspersky-security-cloud-free"
 type: article
 quality: 22
 heat: 22
@@ -22,6 +22,6 @@ images:
     height: 750
     title: "Kaspersky Security Cloud Free review"
 
-secured: "QqJ4xvkPK5sngz5R8HIwRhS2wuai4es9kmyQlpSU24rDSZ/33qOjjP/ZN4hjsu0mmd7dXHq7XnVcRR96vYjyuJs+QQuGrD1rd4b5JRmhvPRLJcSTnWtrCr80NU+9O1sN/o+QiEg2/qk9rqzv7OhTd7xvzc1tbCJDlLsiVUhIze9XJQCvwleKcWeHtHO3BIprTwodRw/6Dan8ZXxYQUDcWf4rcytqI6FDt2Y6rUvgeyTwhjk0BWa39BhPTD28JX/LtmkeiHot+bvAgSZNJIz53vBRDc1qqPlsJA0dHj3/mf1JvD/aQcQz/m83PnLTEtuq;ok4vJr8Fr2qhrOgDzEoYnA=="
+secured: "sAcgjstowES0LXxdTKeO9saJ1gxHFcA2yLkE/JOboDolSrw2Svq/ywbMfJR3XVf9VEiy3oMfq2Akyaj7rV//DvUuKfYJNjJ8SkA7s4V7hTfMO22WoaKsEFarEiQs/Vd4/BcAiMZ+d+kzmNM9Sb73OB/gtZvHYwdfL+Yd2bE0MmX2oHvicNxJ4t1z+DP3iJe6YpacqocU3oLFtxWOEVRotmJJrur63rj3tGxoOjwBiG5XWZRPsyOaO9ab6L31dX7J55ZSMM9ZXlnzX0Ix8k9GVLMWcTF77O9/Xb7w8jhibkgdjTM3bl/rXpd1jGn7ZfvA;lFN3x9Ecli77Ei5U3U5qNw=="
 ---
 
