@@ -22,6 +22,6 @@ images:
     height: 1067
     title: "Protecting corporate data in popular cloud-based collaborative apps"
 
-secured: "YxCFwW8o2JzN+5TrnPwzcwuR/MO8VRlm/ycKEZbsqigCYfgOmVojcehmy+9Dfn5v/C8KjnK7iF38oUIhVGFeQ44PSBbD9T6lyo+CXUuBJOBjtGTkN9HGf5wxlTfLLOIba1MniVRGmrT+ZXFZnJRLyIenrI0uCYNNdq8nL3UGhsyI2W6fG0fPfC6jYR6p6V2TublbKWLY4d3abhvpbyvMlu2z1fLALhHXCcF8Amjn7a3ceUPwc63IWPRouyBS9Rr8VsCeaveuwNc1TjpWXnMkiGiXXm4ey4n4tONE2xzJ87NF8XCwy/ozsCj7BMGuK9E3;ipXz4TeW7TuExigjJ//Byg=="
+secured: "RHcUkGMG7GBY7MyWEwOC8JShZJT5e04+/RaB/GOSHPiyJMD9aXBmtyT+pn5HUknduZ+Y8dvAoKH/nRxz295o0IKu6ro8PhzE+q8j/jzEeRyNKBsF4Uo8jhy7jngAQHXR5E5jpup3VK0hbI+Ou9PKZSmMuVZ586I/DYT2D01YKySLL/875pwGtQi/Pdet7fkjtKCGnpAVwsIYhgDmN2YVlBzJAXMcLmDc3htFfUrq9QNTUeCNzBAU8GZ1LjC+vqN9nh8dpCR5TM1A/p86GY9BwVCbLCUzJNaDAp/371GU/W0to5ECdPVXwlAgZ33AdU+l5BaMNzc8Afb6iZc54iu4uXTccmDZXrRYZCgSsi0PxotYIP1/GWQ0mnxatTx4XuuUrdDag5W1h1dC/8L4EeY5V+hfZiBqSIAbEsaXOYoMr6NTkUPpph6HLrBAejHT7uFg5z/H/09mQ/+MIpqJDt5YflVMZ8kwO40HrnCP8D+f1Qk=;0rnI8eHZxCDhXOsjOIPFFQ=="
 ---
 
