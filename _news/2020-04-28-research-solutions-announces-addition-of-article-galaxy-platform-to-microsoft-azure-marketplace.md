@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Research Solutions Announces Addition of Article Galaxy Platform to Microsoft Azure Marketplace"
-excerpt: "PRNewswire/ -- (NASDAQ: RSSS), a pioneer in providing cloud-based workflow solutions for R&D driven organizations, and its wholly owned subsidiary Reprints Desk,"
-publishedDateTime: 2020-04-28T12:52:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/research-solutions-announces-addition-of-article-galaxy-platform-to-microsoft-azure-marketplace/article_0f5f94b2-df64-5498-a8da-18f5ab8dd1af.html"
+excerpt: "PRNewswire/ -- Research Solutions, Inc. (NASDAQ: RSSS), a pioneer in providing cloud-based workflow solutions for R&D driven organizations, and its"
+publishedDateTime: 2020-04-28T12:30:00Z
+webUrl: "https://www.prnewswire.com/news-releases/research-solutions-announces-addition-of-article-galaxy-platform-to-microsoft-azure-marketplace-301047963.html"
 type: article
 quality: 25
 heat: 25
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://mma.prnewswire.com/media/1154590/Research_Solutions_Reprints_Desk_Logo.jpg?p=facebook"
+    width: 2542
+    height: 1331
     title: "Research Solutions Announces Addition of Article Galaxy Platform to Microsoft Azure Marketplace"
 
-secured: "Ba9x4z7BCdSvKdsJPSAOX0EMyOD6119cOsruZh8gqHV8cfhwhwOpPH1PBpzbXh3q7WHRHGppIf9WcFdOZ4/5JZUXG97LECo3601nHTHAKzu/f8QkBsruvTBxsdNymcLdrE62DuN/nV2P0oNWmdxl2y+LkDanozJYIWSP8t1rXvyvE2ZhKfqLlqo/yWBed1hjVz8MO2eFGGkulOO03FBbgHJb3jn/umd7JwCRYpEJ6WpM3q1bhkgukWD7sE73CfnyDNE95pm2x0So53STIdYPOcx8qrQqiwwGckAUKUVaCZMjrFAyEQ2ex1Be11VpFtTN;hoMnuluFkfkE9I2JwAdkIQ=="
+secured: "jRv/Z1SsJMKkLa8mvPymGqWnOlDL4PULHALrCS/LMB7RY1Tomvj6/LZLB87r1tvogl1Igjhe6FS2yoP2fjl/uYc0i1n1RxM/1Aw5RPcpnY8jgwExh3Z8hIYNHit3ecp6LjGhoruT0IBEpAm9fBZtcvK+oJIGO8S6jRrLf7+aUZz45TNYr2waKWd3o4uVAnEDsa8aQwdjouq2wjN9pHtHhGletIe246I1nYiZwYbBBE065uFpnacWX7gHCFUcPghNyy8JCM4rbLUkaIglVjhl57SkZhK79oHG7QnjmltxogbPm+MsZGRPqXZvBFVvddJ3;apzUIrFG4n3Z/KMvqQxnVw=="
 ---
 
