@@ -49,6 +49,21 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 62
+  - title: "Microsoft announces $1 billion investment plan in Poland"
+    excerpt: "Microsoft today announced a $1 billion investment plan in Poland. As part of this investment, Microsoft will open a new datacenter region in Poland to support startups, enterprises and government with enterprise-grade cloud services."
+    publishedDateTime: 2020-05-05T15:45:00Z
+    webUrl: "https://mspoweruser.com/microsoft-1-billion-investment-poland/"
+    ampWebUrl: "https://mspoweruser.com/microsoft-1-billion-investment-poland/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-1-billion-investment-poland/amp/"
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 42
+    images:
+      - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Microsoft-Poland-1200x788.jpg"
+        width: 1200
+        height: 788
 
 secured: "/ItT9N3YrR00DNv2EafOrURvbg80ZMx7j46TVlH6dWZFx6BKkQBQHB2/P2d20PoaIubudK5dRDJvhV9PFhxzO/97FO7ZjKG2+rWr3VHZg/4GWhYRFoOE5A5n9kfoglBE60y6F7zRgG4RP7XKt8kkAM09ApAo+MkpifVcR/Km6m+wuV8P5yjYhkfzkiLfPCjdXFAavNicBYfKL1723wWVt9OwIpz9JRB2XqnQ12JrkRf6jVyZDl9oxXTfIAqDTBRhT5Lo/otdukEJexCtgrdz/QP5wOsIbQ5/QgmOnSCvgJRchhaXQxQaVdWjmuu+A2yfk4jDahGE82Vxxu+7er7GzM+REuJVElTIy5GOo2GigTftQLVqgBtHv+yl86KNIE5ToHhstQ49XYTCiUpM5wf6Mrm0TfaxRENaTQUB8Su0SpECTqx8Fgl89tUi8g7cBcVxLnYaZ7tkHEvRiQDAeeg3YatwZ9RwNcA+Q6aYKVHur08=;us17AcsyAriFxZLRcu7aNg=="
 ---

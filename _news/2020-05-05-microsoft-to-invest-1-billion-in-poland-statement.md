@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN22H0WP"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22H0WP"
 type: article
 quality: 82
-heat: 122
+heat: 142
 published: true
 
 provider:
@@ -51,6 +51,21 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 62
+  - title: "Microsoft announces $1 billion investment plan in Poland"
+    excerpt: "Microsoft today announced a $1 billion investment plan in Poland. As part of this investment, Microsoft will open a new datacenter region in Poland to support startups, enterprises and government with enterprise-grade cloud services."
+    publishedDateTime: 2020-05-05T15:45:00Z
+    webUrl: "https://mspoweruser.com/microsoft-1-billion-investment-poland/"
+    ampWebUrl: "https://mspoweruser.com/microsoft-1-billion-investment-poland/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-1-billion-investment-poland/amp/"
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 42
+    images:
+      - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Microsoft-Poland-1200x788.jpg"
+        width: 1200
+        height: 788
 
 secured: "EGf+z8feC25ab+d65a+xwwNURufO/TQY/nkyt39SR2uM+lCNqUzNhN3WnfdMe5/tnrGe/WIaiW03o9uAv/Cxodp9WLZaT83qsHjtqx88T4rQ91LOUgESe3F4Rt0WUoJN4jwFWWi+BMK5IPKnaUZ3rU6FQiHLflveU/5O+FTMw6T9efSNBMycBDO1mTRDxlYrVtRdd7U6gGjQP/55BxcFbRF1hbLpAtVPFwtGaMlp0K9ZLyFHsonbA70v9mQolYK2qT+9WmWt1EXE8Zt8Hspel05DFm+I32Ilnb/k0g1qKPsGVTRlHdHcVmZ+xxQyXxPE;3Yf1NNR01NJkUps2Q+YN+Q=="
 ---

@@ -2,26 +2,20 @@
 category: news
 title: "CognitiveScale's Cortex Certifai Now Available in the Microsoft Azure Marketplace"
 excerpt: "AUSTIN, Texas, April 27, 2020 /PRNewswire/ -- CognitiveScale, the Trusted AI Company, today announced the availability of Cortex Certifai (Certifai) in the Microsoft Azure Marketplace, an online ..."
-publishedDateTime: 2020-04-27T12:01:00Z
-webUrl: "https://www.prnewswire.com/news-releases/cognitivescales-cortex-certifai-now-available-in-the-microsoft-azure-marketplace-301047031.html"
+publishedDateTime: 2020-04-27T12:00:00Z
+webUrl: "https://www.morningstar.com/news/pr-newswire/20200427cl88966/cognitivescales-cortex-certifai-now-available-in-the-microsoft-azure-marketplace"
 type: article
-quality: 32
-heat: 32
+quality: 12
+heat: 12
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Azure
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    title: "CognitiveScale's Cortex Certifai Now Available in the Microsoft Azure Marketplace"
-
-secured: "7H5MhTJF18b3QLtDLXgs8JN7X6YILzq/erZWKx5dgl4EmgVj6RcbdSZ4U/lB2e/qAKDLBbg6WS0sw3w20D25gFf4kJFiMtKKR2+2dXKKtSDaIMxwDw7QJCPzuxR36mN66k4MYmuogqgdTeU+cZUG0mlm3H+G89Wp9B2WmPxjovclofbju5ijxOLJU2e53BlV3LgdEQVq4g5fPiFJm0qvprTiGv5hF6pgtYvFamBWUFSS+pBvJYaAbTPXQpyWE2TgQUkaiRumJCgvszQuT4bh9uA95lrwOY/vpo93lDf3fe36TpUc2BoDg9kEBGqZa+/m;JDSc1XpJL9Tm63Ckq+LOVw=="
+secured: "C9vzxtlphB7Tblpt6dVAr2ICtmZhJL9HDM/J+GVDgNXa5La5FsC7R9/Nsh1qV5uv7mZ82368muGnUMx7J6eFJX4oidDtiM6/cLIRjqiEJxq4SSt2+diXv5ydO1DexsTSbLWNXvveRMyvh4M3hv1iB+WqJ5HbZTiLCA/CsBumA6eL+WicQgduGS1GoyPu6hHiMxFidK6juGyFBq6/AD0uR7G9S1GvI7d6bKAPKMyxFTYOJPP3KxshqY7nSepmY7/dBUdBn1JxtvkUdtv/b3KzMZ2NasLvod+ds2DH/bt2jV9lzmvkkJ4al70lYYg8k/I1;Sgydw761fBDouPrYlSNHJA=="
 ---
 

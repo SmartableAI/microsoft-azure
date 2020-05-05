@@ -45,6 +45,21 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 62
+  - title: "Microsoft announces $1 billion investment plan in Poland"
+    excerpt: "Microsoft today announced a $1 billion investment plan in Poland. As part of this investment, Microsoft will open a new datacenter region in Poland to support startups, enterprises and government with enterprise-grade cloud services."
+    publishedDateTime: 2020-05-05T15:45:00Z
+    webUrl: "https://mspoweruser.com/microsoft-1-billion-investment-poland/"
+    ampWebUrl: "https://mspoweruser.com/microsoft-1-billion-investment-poland/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-1-billion-investment-poland/amp/"
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 42
+    images:
+      - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Microsoft-Poland-1200x788.jpg"
+        width: 1200
+        height: 788
 
 secured: "mj1cDellCdEZxAf6VsJqtt21rQQJacUoKlf6WEwW4Sp9aylET/06smCNqpCmdlEFUOdTY7BTqlKM7Hw00zRSwdumzMHfWrtJusimI42Bl1bJ1vbtFNjiJlT8mZ5r6u3K29s8u+tpLV/+kKQqHzmc3v2o5nAs2rz3X1VuNoyK8u4SMFtwouDLFJ1HnUw3D8ILXkHlDSrB7UerTj5FX54ykQt8hedaGuCYHhkSDOCREF9BqQ4l/hoN5hf+2yHlc0awBrKW5wl9dz7cdFJK7UulE6NCgov1e3SZ6RSwPLFVe58VQeRyRiIjR/li9WnAYtEiHeaaH9cZINqI5xpQEdD4mH2e8hI0Fp7HZwyk2fDtp/Fgp1z/3tIMw7DAld7Vgt91pQnKPa7dI4IA/nggnkIIuMtaSFlit7IDKeRxf3KEAFAzwnbbvQaZZP3B9GtMWzZNwFoAH3s5R9Ug57F1vf7pE0XDLn6wMoo97/EbDUz2QoA=;bo/HlbjPE3RA46p6PIEtbg=="
 ---

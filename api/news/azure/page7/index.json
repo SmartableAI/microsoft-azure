@@ -2,6 +2,51 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-02-18-azure-firewall-manager-now-supports-virtual-networks.md",
+      "title": "Azure Firewall Manager now supports virtual networks",
+      "excerpt": "This post was co-authored by Yair Tor, Principal Program Manager, Azure Networking.\r\n\r\nLast November we introduced Microsoft Azure Firewall Manager preview for Azure Firewall policy and route management in secured virtual hubs. This also included integration with key Security as a Service partners, Zscaler,",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/azure-firewall-manager-now-supports-virtual-networks/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-18T02:05:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/35eac5bb-b137-49ca-b783-a4321ac7ffbf.jpg",
+          "width": 1024,
+          "height": 471,
+          "title": "Azure Firewall Manager now supports virtual networks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
       "path": "_news/2020-02-18-azure-offline-backup-with-azure-data-box-now-in-preview.md",
       "title": "Azure Offline Backup with Azure Data Box now in preview",
       "excerpt": "An ever-increasing number of enterprises, even as they adopt a hybrid IT strategy, continue to retain mission-critical data on-premises and look towards the public cloud as an effective offsite for their backups. Azure Backup—Azure’s built-in data-protection solution, provides a simple, secure, and cost-effective",
@@ -1240,51 +1285,6 @@
       "topics": [
         "Azure",
         "Serverless"
-      ]
-    },
-    {
-      "path": "_news/2019-11-05-enabling-and-securing-ubiquitous-compute-from-intelligent-cloud-to-intelligent-edge.md",
-      "title": "Enabling and securing ubiquitous compute from intelligent cloud to intelligent edge",
-      "excerpt": "Enterprises are embracing the cloud to run their mission-critical workloads. The number of connected devices on and off-premises, and the data they generate continue to increase requiring new enterprise network edge architectures. We call this the intelligent edge – compute closer to the data sources",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/enabling-and-securing-ubiquitous-compute-from-intelligent-cloud-to-intelligent-edge/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-05T06:00:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e1b20a6e-6ee7-49ad-a51b-4052efa37e38.png",
-          "width": 1000,
-          "height": 613,
-          "title": "Enabling and securing ubiquitous compute from intelligent cloud to intelligent edge",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Networking"
       ]
     }
   ],
