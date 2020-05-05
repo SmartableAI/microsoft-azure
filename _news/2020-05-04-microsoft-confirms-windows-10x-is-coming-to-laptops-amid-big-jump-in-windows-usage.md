@@ -59,6 +59,21 @@ related:
       - url: "https://cnet4.cbsistatic.com/img/PFC-zJ2VC7-KbBX7F0hLIXgw_5A=/756x567/2019/10/02/5fe390f5-c2d3-4b3a-889a-6696648dc461/windows-10x.jpg"
         width: 756
         height: 567
+  - title: "Windows 10X will debut initially on single-screen devices, Microsoft exec confirms"
+    excerpt: "Microsoft confirmed this week that it will pause development of its Windows 10X operating system for dual-screen devices and instead focus first on developing Windows 10X first for"
+    publishedDateTime: 2020-05-05T16:29:00Z
+    webUrl: "https://www.geekwire.com/2020/windows-10x-will-debut-initially-single-screen-devices-microsoft-exec-confirms/"
+    ampWebUrl: "https://www.geekwire.com/2020/windows-10x-will-debut-initially-single-screen-devices-microsoft-exec-confirms/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/windows-10x-will-debut-initially-single-screen-devices-microsoft-exec-confirms/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 76
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/04/no-neo-in-2020-microsoft-pauses-630x354.jpg"
+        width: 630
+        height: 354
 
 secured: "0VItcHYHg0rdMj9WplY1QcYg68Sryhs+9YjLSOsiF6aQvg4hIdJ+RwCL17Yu50d11oG5xEkZKmfD4Ppxorlwo5lZauNgvojcGc8jPhgJrRSmkj7O2iE+ElM+QJJaCzrgDqagi3P3IBl1BiM0YFvRGc0m7M3FtgdxqbxmCEeQBhGdYK820PB/47fFybecC6/hpncy6/P/qlg9GaC5Ur8rQ6njhw+m+p2KyvUe3qFQjqSY/61pRE7boFr4toJcRKoLrgeMjWSlUA/rc/maD1MGwgwuKK9xlYA+L+DcvbOA16guzS4RZ5TtNoBjtDnI1cFUbR5pFovMgI2d2lOfxusR1g3qadHfLBYKm1JomebOVcph4BfWU4S19crt3f/XcMPOQipb1Ei+C263jQYTrd1nKrI3wBja4ZrJQfjji4fLeDPXqYMzu6SQk6faNKkJZzlX2DB81OETlRBTVUDpMjQzHx6kvssvcw57IvyQso25+qc=;OJVziy1G69XGLRSFZe5mXA=="
 ---

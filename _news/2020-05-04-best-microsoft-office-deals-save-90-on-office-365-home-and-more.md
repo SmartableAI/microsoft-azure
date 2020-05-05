@@ -28,6 +28,6 @@ images:
     height: 470
     title: "Best Microsoft Office deals — Save $90 on Office 365 Home and more!"
 
-secured: "rZvfQ/Lu+KsZQIRZEzUN9mIMHFSlnmkZDGUKAqZAoZg+ad5r35lFdkIZTfz52aBVGlEbygJ9x8+cVGv44CnBKQxROamFSzPtj87nBNXBmhb+r2r3oPDeJD2pmw9rXDMN5/+ek+LQV8B16dXBQLxUWIJVmLnA2TZ88yWwDx4WxgX0/QwNw6fzUsfCVHT/JO5aYRmlWs9JwvKzgesJ/8ZqotvJrIbmqriuZAM9SvKm5o5UuipeNifOPqxtsysDg2zBmt2N3T/TQwQg1+u8IphRu70c7IA/w1fWEiQwZ9yOdbmz1rmgfwGR4F57IKAd9zBY;RGKCdL0F/NYUISdXZuqVkQ=="
+secured: "2G59DTveM5yHWDw/Vn8Eqer9pexlh/NmytaBmtgJ3oufvbd3RWbZA7jMhe8MVlDiiLsNuZKtvkMyZDZ5ZX7Q7/eeWE7dg3njDWpRsttBnG1mH2mru3Df6RDUIKCMQVEukiHQYg9FCSUVC9UXFeVrps5S6IeZo7carAD5y2cGA+HIS7IJTZnZAvC4qUXFKQPofmonmHSi/sXgWLyQHYtzUVenk/V+gUBrUKOUw8MFPVfU7cIRI+EHZ9CDfIasKLsSMM20kLKIxpHt/LYAm63re77TANbuuVnZythprpKsqaKsts+sUfgB+3xVCBUhud+g;1mUt/ELzt20cO6SMTqnDyg=="
 ---
 

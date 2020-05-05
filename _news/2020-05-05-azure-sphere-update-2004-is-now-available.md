@@ -1,0 +1,25 @@
+---
+category: news
+title: "Azure Sphere update 20.04 is now available"
+excerpt: ""
+publishedDateTime: 2020-05-05T17:00:14Z
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-update-2004-is-now-available/"
+type: article
+quality: 77
+heat: 77
+published: true
+
+provider:
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Azure
+
+secured: "pQ8ZtzPcufH0cbPKXKOojaqpLRdFVX/EZfdyxWWEBH6iuLGgExkLCMDiJmgJamWmu+BT9xcLdeuatM3aWcU5bq+PsEXf3yZepzNKi5M2qprCbSyEOTjmO3erzLn6A1co83SDYBOE09Cxp01M1xym8t10GFr7Qdu549MgJDKsWVS8LiG29kP3R0LtR3Aa0QIov8vkMgNIQ+LiAeDNbhH3VwManAZR0Y+jKPHmvf+8EGuEjtolFMMtlx0rEzBEDtdpX9Ih30pVT3VD8DgFiAxyiiFitkODbBSl+qBCsdDGQGGooRx8/QLuv0MX4nW8WzwGWR2i80xdu/EP4nDcJer6eA==;QwCdrRRDRJeOv7xcdca/XA=="
+---
+

@@ -22,6 +22,6 @@ images:
     height: 627
     title: "Open Systems Integrates Microsoft Azure Sentinel Into its Managed Detection and Response (MDR) Security Service"
 
-secured: "dXJtxYNzNLaPJ5YVB+wwGqU/uTBJNXf6nXvYgKI9Np8JBLeSiaCeqLxGzR526xgCAo+aOwIyBKmHc7AGC29QwZy9lLsjy665SMUtCGZnxvMcF39llLvh6KZVeIppC9RP3K9g7pne95jOa5zcCIlO2QHT/UpKEAbs1wS60TC+pd9y+wfgbLtGNZd+uyxrXySocFMCpaIVcweRIwcvellptiUsVTsfiN/8/lWjQ+MFQBy8Wstdr8vWI8Ij/gdQbUpyQslE8dFHrZiTVO803ECUyKmq95ev2C8lNpQI8/kqvoQbxZ+kCG4vMS/8F/neP7oy;URdTayO6gxjL/maTGlMqSw=="
+secured: "wy0sbmu861SSGJJ/oRUxOVx+rm4Kvt8lNYVlvF5aQQrlX4l7BGgYjgbs8uttFhMV2ACKc/xxpGeIXllcpOaBSAS7ycbcc+sQljhR9CvAgcd74KcRcu0qNAkaRME+QfSHUnDpoFLw2n05LCnjHRssRrh88+2XQXzgTnUUApLMrbDLYKFt5Ijnr9jJ8bjlIJwy1JIRR1nc2717EW4fnSzrVQMKwLoRdQG8496hEGYtGU8KBsubrn3/OSBC9utL3taPsZcgYAhsSuBHp9l094DfgdQQDL+W9/uogy0Pesxwt+E7xmazWCl/UjP33UdFKrOlThJJ0J84GAA30BbHzn8Y9TDIE8bvvFZuf3Jgx0yOQp61wIN6ND0GKmhc2pLzVP9HImiLpGlDEX/8rr8zH/mWGZ+QaMZCpRCuxu6g54QNGFfnnnYcEvpQdjzMXfSBYrU7M9OlrsXzJ5sB7GYpfeqwbgxgvens3VNnx18ZcnU/Ll0=;OhVdnP77xHcwSBEy+0674g=="
 ---
 

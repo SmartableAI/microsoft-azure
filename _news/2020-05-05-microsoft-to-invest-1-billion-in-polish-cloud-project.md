@@ -64,6 +64,21 @@ related:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Microsoft-Poland-1200x788.jpg"
         width: 1200
         height: 788
+  - title: "Microsoft to invest $1 billion in Poland, including new datacenter"
+    excerpt: "Microsoft will invest $1 billion to help transform the \"Polish Digital Valley.\" The investment includes a new Microsoft datacenter and plans to educate people on how to transform organizations by utilizing the cloud."
+    publishedDateTime: 2020-05-05T17:54:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-investing-1-billion-poland-new-data-center"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-investing-1-billion-poland-new-data-center?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-investing-1-billion-poland-new-data-center?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 42
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/03/microsoft-logo-ignite-2017.jpg?itok=LlgVw_jV"
+        width: 800
+        height: 600
 
 secured: "/ItT9N3YrR00DNv2EafOrURvbg80ZMx7j46TVlH6dWZFx6BKkQBQHB2/P2d20PoaIubudK5dRDJvhV9PFhxzO/97FO7ZjKG2+rWr3VHZg/4GWhYRFoOE5A5n9kfoglBE60y6F7zRgG4RP7XKt8kkAM09ApAo+MkpifVcR/Km6m+wuV8P5yjYhkfzkiLfPCjdXFAavNicBYfKL1723wWVt9OwIpz9JRB2XqnQ12JrkRf6jVyZDl9oxXTfIAqDTBRhT5Lo/otdukEJexCtgrdz/QP5wOsIbQ5/QgmOnSCvgJRchhaXQxQaVdWjmuu+A2yfk4jDahGE82Vxxu+7er7GzM+REuJVElTIy5GOo2GigTftQLVqgBtHv+yl86KNIE5ToHhstQ49XYTCiUpM5wf6Mrm0TfaxRENaTQUB8Su0SpECTqx8Fgl89tUi8g7cBcVxLnYaZ7tkHEvRiQDAeeg3YatwZ9RwNcA+Q6aYKVHur08=;us17AcsyAriFxZLRcu7aNg=="
 ---

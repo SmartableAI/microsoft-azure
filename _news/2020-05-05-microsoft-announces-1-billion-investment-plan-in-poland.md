@@ -62,7 +62,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 62
+  - title: "Microsoft to invest $1 billion in Poland, including new datacenter"
+    excerpt: "Microsoft will invest $1 billion to help transform the \"Polish Digital Valley.\" The investment includes a new Microsoft datacenter and plans to educate people on how to transform organizations by utilizing the cloud."
+    publishedDateTime: 2020-05-05T17:54:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-investing-1-billion-poland-new-data-center"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-investing-1-billion-poland-new-data-center?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-investing-1-billion-poland-new-data-center?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 42
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/03/microsoft-logo-ignite-2017.jpg?itok=LlgVw_jV"
+        width: 800
+        height: 600
 
-secured: "RMJAqliyC9Jl5L651xOo9Fvr6zpigndhhK5BiGRi2eMJV4+5jR1wVNtABye4UrDE9D8TK3OLd11MZcI737Zma8wM7IIA9deUc8a+MnVyH91aoj1+C9KP9ZoUlqx8Bkb+/Dz30JRpGwEmce7rSdYw/9yXBHHQfxkDVpBhb64tHtFf8kZC0DwCv4tD9hqMsfc3G/Mrxud3ERDluqe2p//u12hs4mx/y1c0yIrvy63j8bHlDmmvPMsqSWzoikA92K4GX51MlMeqmt36mRUmSrP4pscUjCJNbaqZvTMuO6MSrVpM922LUrdwM75JgvmBSxa+;0yxaJ4XAy5hzU7jdGGp8sQ=="
+secured: "KDYT/lcXkjPEWyGapoHGnrPWpsCN3MzPe0O4kIPjJ+S94/z6dmwxY8qOsaVXIotDwTkDSE7C1lStyZ+0ulifLZDKkLDc+c+ELiDqGlGrEGsmmjAOkafPu+VEAVbFSqCtU4T4MS3MhcSnolUFTgndpUfw/Q2VfhB6lxYe7H3Yo7hBEYDzB6gf2DLDmeDbBMCI03ifMoWhVgNnCogcK5Z/PGrXPEPOwUJyQ5sqAYtl4oUjTLX7YCX/LP5HuEqri9dB7mE0Nfat7jHtsyQ7m0QnAHdshkfkAehJp3Tn30Mw/ipfmFK4YPxE57EZ5I+VbiO4UYHLFf3v1treLn6HDQmB52Jyu/L9V6K0JtyrhsrQULVUk/A9WAZro5BdrXogqVhawvOy+pqQBpLEM2Xy0FsmLBzl8aa6HQGQOPetwsvcHJkRdA2hiyqwgW9qApAizqDdaA4VGO1MQf0pjxrnpxNManFrtOA5vkfLgxVcdfoH1D8=;JhRS4lQq/kWXIeBvOdRNbg=="
 ---
 

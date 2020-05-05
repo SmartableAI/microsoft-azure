@@ -62,6 +62,19 @@ related:
       - url: "https://mspoweruser.com/wp-content/uploads/2018/10/Swift-Azure.jpg"
         width: 932
         height: 537
+  - title: "Microsoft Announces Azure VMware Solution Preview"
+    excerpt: "The long and winding road to run VMware virtualization tech on the Microsoft Azure cloud has taken a new turn with a preview of an updated Azure VMware Solution announced this week."
+    publishedDateTime: 2020-05-05T17:21:00Z
+    webUrl: "https://virtualizationreview.com/articles/2020/05/05/azure-vmware.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 37
+    images:
+      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/IntroImages2019/BlackWhiteDotsWavePatarn.jpg"
+        width: 647
+        height: 450
   - title: "Microsoft Unveils Next-Gen Azure VMware Solution To Accelerate Cloud Shift"
     excerpt: "Microsoft announced the next version of the Azure VMware Solution will be available in the second half of 2020."
     publishedDateTime: 2020-05-04T22:45:00Z

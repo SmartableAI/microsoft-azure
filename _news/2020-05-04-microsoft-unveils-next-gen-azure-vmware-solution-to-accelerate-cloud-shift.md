@@ -75,6 +75,19 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/16077984773_ea37e226c1_k.jpg"
         width: 2048
         height: 1365
+  - title: "Microsoft Announces Azure VMware Solution Preview"
+    excerpt: "The long and winding road to run VMware virtualization tech on the Microsoft Azure cloud has taken a new turn with a preview of an updated Azure VMware Solution announced this week."
+    publishedDateTime: 2020-05-05T17:21:00Z
+    webUrl: "https://virtualizationreview.com/articles/2020/05/05/azure-vmware.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 37
+    images:
+      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/IntroImages2019/BlackWhiteDotsWavePatarn.jpg"
+        width: 647
+        height: 450
 
 secured: "5zkRyGutzUFYWFBFV+chLYobLNaGQc+vCR4ywNZXX9jyEydfJjZneXFJzd3cn2o37626o/knj5HrSo2JVpoFqRfppX1bD+1ins7BxqBpxG3oXkew6JXlAZfFchF5DiegJVMuyR9eSE+/AbFDptAuZLh+smiqYsQJKlJ2V4n+Q4byPJTETeX/TeUM9VN9khuLzm9HXsYUAwypYIOE+P0JLabOFC/3ShK9kTIiU5ViN4TEkIiM6l3at59GpC0OPVrSHdxUsb71Hv/9Wd00tFh4mKZ1sa6jnFP6tIarmLfldwtgzrRLAzfzaq5CwYwYY/uhepyVs0ciWozLCoyErr+BJMXNdQ2D4KX1z4qz/DumnAtGQDmGlK8jUonEHFfdHSSQtGHjNoRfmKd4NWVyjmsqS2qwcrdKa3oFer28fJqWFEIL66nEl3Vha675TvdzpzOj0efs48Jm09RO+eLexCevdG+JWtAhMEgpggzZBTLvOHE=;ctsTsvDDLys6jFoBhr4n9w=="
 ---
