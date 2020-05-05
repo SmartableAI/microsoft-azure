@@ -1,0 +1,40 @@
+---
+category: news
+title: "Microsoft to invest $1 bln in Polish cloud project"
+excerpt: "Microsoft will invest $1 billion in Poland as part of a plan that will involve opening a data centre in the country to provide cloud services to businesses and government institutions, the company said in a statement on Tuesday."
+publishedDateTime: 2020-05-05T09:42:00Z
+webUrl: "https://www.nasdaq.com/articles/microsoft-to-invest-%241-bln-in-polish-cloud-project-2020-05-05"
+ampWebUrl: "https://www.nasdaq.com/articles/microsoft-to-invest-%241-bln-in-polish-cloud-project-2020-05-05?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-to-invest-%241-bln-in-polish-cloud-project-2020-05-05?amp"
+type: article
+quality: 62
+heat: -1
+published: false
+
+provider:
+  name: Nasdaq
+  domain: nasdaq.com
+
+topics:
+  - Azure
+
+related:
+  - title: "Microsoft to invest $1 billion in Poland: statement"
+    excerpt: "Microsoft will invest $1 billion in Poland as part of a plan that will involve opening a data centre in the country to provide cloud services to businesses and government institutions, the company said in a statement on Tuesday."
+    publishedDateTime: 2020-05-05T09:03:00Z
+    webUrl: "https://www.reuters.com/article/us-microsoft-poland-idUSKBN22H0WP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN22H0WP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22H0WP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 82
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200505&t=2&i=1517499643&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG440IH"
+        width: 817
+        height: 545
+
+secured: "mj1cDellCdEZxAf6VsJqtt21rQQJacUoKlf6WEwW4Sp9aylET/06smCNqpCmdlEFUOdTY7BTqlKM7Hw00zRSwdumzMHfWrtJusimI42Bl1bJ1vbtFNjiJlT8mZ5r6u3K29s8u+tpLV/+kKQqHzmc3v2o5nAs2rz3X1VuNoyK8u4SMFtwouDLFJ1HnUw3D8ILXkHlDSrB7UerTj5FX54ykQt8hedaGuCYHhkSDOCREF9BqQ4l/hoN5hf+2yHlc0awBrKW5wl9dz7cdFJK7UulE6NCgov1e3SZ6RSwPLFVe58VQeRyRiIjR/li9WnAYtEiHeaaH9cZINqI5xpQEdD4mH2e8hI0Fp7HZwyk2fDtp/Fgp1z/3tIMw7DAld7Vgt91pQnKPa7dI4IA/nggnkIIuMtaSFlit7IDKeRxf3KEAFAzwnbbvQaZZP3B9GtMWzZNwFoAH3s5R9Ug57F1vf7pE0XDLn6wMoo97/EbDUz2QoA=;bo/HlbjPE3RA46p6PIEtbg=="
+---
+

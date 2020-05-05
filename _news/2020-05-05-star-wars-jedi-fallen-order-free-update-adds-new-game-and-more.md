@@ -24,6 +24,21 @@ images:
     height: 720
     title: "Star Wars Jedi: Fallen Order free update adds New Game+ and more"
 
-secured: "C8Joz128UPsM7/5G6PEtfeMFGSf08LecBo9NepU5YVl8kQH3lI2EqSbusyUv7yCg75kMeaMqLpYVBU6sYcqdf/5a0soa41JfY4RlMSFkzAuDZUjsfUQ8v59tLIhCTc432GEEJJCuJvV6R3GLbyot5JI3uNkbPZ5PR43aQZqlknNu+ZUYRTqazpuKS9LPcz11BNNTqNWKBrofvoLH0UaFjkUdsAHsC5N/dZ8mGk1vKtPMuqcCFqiAWF8XKlVvVefXxKLjrIvTh3bextpsghw8GTKWSp0wFJasf/cH6hnXwi1XzCUxu660N/j1rOgVbLR6;/1Cw8HgdeZEVfP+1dUdI2A=="
+related:
+  - title: "Star Wars Jedi: Fallen Order video game updates on Xbox One consoles with new free content"
+    excerpt: "Fallen Order video game was announced yesterday on May the 4th (aka Star Wars Day) and is now live for owners of the game on Microsoft’s Xbox One consoles"
+    publishedDateTime: 2020-05-05T08:11:00Z
+    webUrl: "https://www.onmsft.com/news/star-wars-jedi-fallen-order-video-game-updates-on-xbox-one-consoles-with-new-free-content"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 12
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2020/05/jedifallenorderupdate.jpg"
+        width: 1024
+        height: 768
+
+secured: "h3AhDWQeW/GCflPDfdwKQoWpihoXqFtw7FLddWaOFLzaVvcpXK8H+ZIllA9DmENKe+WThOTK4qknNUQ8JP8gTp5SwdTofbW7YFmWJbuApYZuCSBl3NBre9QYnT2NkPScpDETz6cL77/Ny3WrP0quceGQgiQX6f3+mFD/gdM6/y1vupntwgo0Oxy3AzH2KmLkrG595PyWv6ft58gtWEhjRaR+p8YWzLwzGuxnzvJjcZNr2uuwfvVBPrOM7ZbKIVLNayUI5Omj047iMqDsrNLR9V7FG+XyXwUGirbJPAdOFBOwq91+hgnC7vybZkGD0QB2j30FzSqSgvX9Mq6xWXMV4uovwyiEyqPvzvzZO/WbbF0Qv7w54YDlt2QcXVh7O61J0+Yl4+dLkEe+ZNGhDFmclYHnxvBU0pXZSBYqNpbz/Cj16ITORewCFGpzlJlUFfhl5fimuQGG0Pz1H3+MhQwD85ck+Ae0Se/lKWClz+2u5Q4=;8WCnwzr1x+Hl8v4yGnlhow=="
 ---
 
