@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN22H0WP"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22H0WP"
 type: article
 quality: 82
-heat: 162
+heat: 182
 published: true
 
 provider:
@@ -81,6 +81,19 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/03/microsoft-logo-ignite-2017.jpg?itok=LlgVw_jV"
         width: 800
         height: 600
+  - title: "Microsoft To Invest $1 Bln In Poland Cloud"
+    excerpt: "Microsoft on Tuesday announced it would invest one billion dollars in Poland to expand its operations, including the creation of a new regional cloud-computing data hub. The US tech giant said it had signed an agreement with Poland's state-backed National Cloud Operator to provide \"cloud solutions for all industries and companies in Poland\","
+    publishedDateTime: 2020-05-05T18:47:00Z
+    webUrl: "https://www.ibtimes.com/microsoft-invest-1-bln-poland-cloud-2970673"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 22
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/05/05/microsoft-said-it-had-signed-an-agreement-with.jpg"
+        width: 1024
+        height: 520
 
 secured: "EGf+z8feC25ab+d65a+xwwNURufO/TQY/nkyt39SR2uM+lCNqUzNhN3WnfdMe5/tnrGe/WIaiW03o9uAv/Cxodp9WLZaT83qsHjtqx88T4rQ91LOUgESe3F4Rt0WUoJN4jwFWWi+BMK5IPKnaUZ3rU6FQiHLflveU/5O+FTMw6T9efSNBMycBDO1mTRDxlYrVtRdd7U6gGjQP/55BxcFbRF1hbLpAtVPFwtGaMlp0K9ZLyFHsonbA70v9mQolYK2qT+9WmWt1EXE8Zt8Hspel05DFm+I32Ilnb/k0g1qKPsGVTRlHdHcVmZ+xxQyXxPE;3Yf1NNR01NJkUps2Q+YN+Q=="
 ---

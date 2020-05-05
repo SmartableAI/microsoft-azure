@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Microsoft to invest $1 billion in Poland, including new datacenter"
-excerpt: "Microsoft will invest $1 billion to help transform the \"Polish Digital Valley.\" The investment includes a new Microsoft datacenter and plans to educate people on how to transform organizations by utilizing the cloud."
-publishedDateTime: 2020-05-05T17:54:00Z
-webUrl: "https://www.windowscentral.com/microsoft-investing-1-billion-poland-new-data-center"
-ampWebUrl: "https://www.windowscentral.com/microsoft-investing-1-billion-poland-new-data-center?amp"
-cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-investing-1-billion-poland-new-data-center?amp"
+title: "Microsoft To Invest $1 Bln In Poland Cloud"
+excerpt: "Microsoft on Tuesday announced it would invest one billion dollars in Poland to expand its operations, including the creation of a new regional cloud-computing data hub. The US tech giant said it had signed an agreement with Poland's state-backed National Cloud Operator to provide \"cloud solutions for all industries and companies in Poland\","
+publishedDateTime: 2020-05-05T18:47:00Z
+webUrl: "https://www.ibtimes.com/microsoft-invest-1-bln-poland-cloud-2970673"
 type: article
-quality: 42
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Windows Central
-  domain: windowscentral.com
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/03/microsoft-logo-ignite-2017.jpg?itok=LlgVw_jV"
-    width: 800
-    height: 600
-    title: "Microsoft to invest $1 billion in Poland, including new datacenter"
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/05/05/microsoft-said-it-had-signed-an-agreement-with.jpg"
+    width: 1024
+    height: 520
+    title: "Microsoft To Invest $1 Bln In Poland Cloud"
 
 related:
   - title: "Microsoft to invest $1 billion in Poland: statement"
@@ -77,20 +75,22 @@ related:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Microsoft-Poland-1200x788.jpg"
         width: 1200
         height: 788
-  - title: "Microsoft To Invest $1 Bln In Poland Cloud"
-    excerpt: "Microsoft on Tuesday announced it would invest one billion dollars in Poland to expand its operations, including the creation of a new regional cloud-computing data hub. The US tech giant said it had signed an agreement with Poland's state-backed National Cloud Operator to provide \"cloud solutions for all industries and companies in Poland\","
-    publishedDateTime: 2020-05-05T18:47:00Z
-    webUrl: "https://www.ibtimes.com/microsoft-invest-1-bln-poland-cloud-2970673"
+  - title: "Microsoft to invest $1 billion in Poland, including new datacenter"
+    excerpt: "Microsoft will invest $1 billion to help transform the \"Polish Digital Valley.\" The investment includes a new Microsoft datacenter and plans to educate people on how to transform organizations by utilizing the cloud."
+    publishedDateTime: 2020-05-05T17:54:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-investing-1-billion-poland-new-data-center"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-investing-1-billion-poland-new-data-center?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-investing-1-billion-poland-new-data-center?amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 22
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 42
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/05/05/microsoft-said-it-had-signed-an-agreement-with.jpg"
-        width: 1024
-        height: 520
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/03/microsoft-logo-ignite-2017.jpg?itok=LlgVw_jV"
+        width: 800
+        height: 600
 
-secured: "EK0qAH4LQv9VETK4OYdSIoKI9C9/DgRQ2gGf9WyJd70g4a2YawYk2GaXHMcl3uK1CtF365jJWHGuwbEVpZIiqFxUIrpaeSv0G2lFbEQi4K8On24jHECosOsqRxvtwJA0T1wGk+Osd/5me+6flKDsOg8UyN80rPQBNdlymD/hpmvsRQLwEwpAk6KR9RkZTQvOSWHE2mQbltfgx9VPjf4VRPuCgNmRtqV3O84N1FK3pN0lyLJilnPlN4+rGWrzPekX5TOwxOyNmPnJAAwr/HzZvifZl0nWliwIkD/jNnqUEBV+pUQA42rTdpID4bl4ycBxebcUaybv4sdYJJvcEPL3Henw19OaABTuxZ5ry65DrQHGWyRsg/HJYLXRB+VPO1vMeaWIIEFYnnxMMu1IoCrfhj9kikiK8kZwBQAntmY+KzebxftYyRRXDHm9oufi4KixKIK9vkPBpjDZwQa9zY5M5Rn3llaFxmsue+YfH6bbu0I=;gEaofkuop5n174e+fTKKwA=="
+secured: "v2330Gh2f3xI6dFdzvChedrkWGLOVWANtL9d0Ot4Vp8ZyZcH04jC/nCAWlSqM6HctDDNub/zZ1KsOxvKLgtj2BtQgkW/gwjHFyA7EyDSf/wviKmf5jgOxYLL6jGZ/26zKBxS+Wxur2K8y6chilzfh8dpubk9nt2XZKxjzweqvKFcRRdXITer5BGOpEmO52KKVqtd2S5CO5k56lyroLVRPmYKZidkpCxXAnQT1NHWjuB2LpVEMqr+W9nxkEMHCTJyztUB+ua3KH6ENn64PAQxdYkqduz8n+ibHQ39GTJ+amrwvUjNC6PKXB8Jmw3Dz2Vo;5aEPP9SLuru04r7jlXMB3Q=="
 ---
 
