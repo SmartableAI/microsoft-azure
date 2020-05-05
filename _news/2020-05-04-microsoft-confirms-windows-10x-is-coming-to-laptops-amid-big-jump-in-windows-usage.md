@@ -8,8 +8,8 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/4/21246561/microsoft-wi
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/4/21246561/microsoft-windows-10x-single-screens-windows-usage-demand-coronavirus-pandemic"
 type: article
 quality: 76
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Verge
@@ -27,6 +27,38 @@ images:
     width: 1400
     height: 933
     title: "Microsoft confirms Windows 10X is coming to laptops amid big jump in Windows usage"
+
+related:
+  - title: "Microsoft shifts the focus on Windows 10X to single-screen devices"
+    excerpt: "Microsoft Windows 10X was supposed to power dual-screen devices, but the company will bring the OS to single-screen devices first."
+    publishedDateTime: 2020-05-04T18:02:00Z
+    webUrl: "https://www.engadget.com/microsoft-windows-10x-single-screen-175859033.html"
+    ampWebUrl: "https://www.engadget.com/amp/microsoft-windows-10x-single-screen-175859033.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-windows-10x-single-screen-175859033.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 82
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-05%2Ffe4dc1d0-8e2e-11ea-bfdf-96f360b43ccd&client=amp-blogside-v2&signature=08fae138036032b01bc5ed56fe270592902b738a"
+        width: 600
+        height: 350
+  - title: "Microsoft will bring its new Windows 10X to single-screen devices first"
+    excerpt: "The future of Windows is starting with traditional designs. Windows 10X, the future of Microsoft's popular operating system, is still on the way, but those hoping to try it out on new dual-screen hardware will need to wait a bit longer."
+    publishedDateTime: 2020-05-04T17:30:00Z
+    webUrl: "https://www.cnet.com/news/microsoft-will-bring-its-new-windows-10x-to-single-screen-devices-first/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-will-bring-its-new-windows-10x-to-single-screen-devices-first/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-will-bring-its-new-windows-10x-to-single-screen-devices-first/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 82
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/PFC-zJ2VC7-KbBX7F0hLIXgw_5A=/756x567/2019/10/02/5fe390f5-c2d3-4b3a-889a-6696648dc461/windows-10x.jpg"
+        width: 756
+        height: 567
 
 secured: "0VItcHYHg0rdMj9WplY1QcYg68Sryhs+9YjLSOsiF6aQvg4hIdJ+RwCL17Yu50d11oG5xEkZKmfD4Ppxorlwo5lZauNgvojcGc8jPhgJrRSmkj7O2iE+ElM+QJJaCzrgDqagi3P3IBl1BiM0YFvRGc0m7M3FtgdxqbxmCEeQBhGdYK820PB/47fFybecC6/hpncy6/P/qlg9GaC5Ur8rQ6njhw+m+p2KyvUe3qFQjqSY/61pRE7boFr4toJcRKoLrgeMjWSlUA/rc/maD1MGwgwuKK9xlYA+L+DcvbOA16guzS4RZ5TtNoBjtDnI1cFUbR5pFovMgI2d2lOfxusR1g3qadHfLBYKm1JomebOVcph4BfWU4S19crt3f/XcMPOQipb1Ei+C263jQYTrd1nKrI3wBja4ZrJQfjji4fLeDPXqYMzu6SQk6faNKkJZzlX2DB81OETlRBTVUDpMjQzHx6kvssvcw57IvyQso25+qc=;OJVziy1G69XGLRSFZe5mXA=="
 ---
