@@ -51,6 +51,32 @@ related:
       - url: "https://mspoweruser.com/wp-content/uploads/2018/10/Swift-Azure.jpg"
         width: 932
         height: 537
+  - title: "Microsoft debuts Azure VMware Solution in preview"
+    excerpt: "Microsoft Corp. has announced the launch of its long-awaited Azure VMware Solution, which makes it cheaper and easier for customers to migrate on-premises VMware applications to the company’s public cloud infrastructure platform."
+    publishedDateTime: 2020-05-04T23:52:00Z
+    webUrl: "https://siliconangle.com/2020/05/04/microsoft-debuts-azure-vmware-solution-preview/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/16077984773_ea37e226c1_k.jpg"
+        width: 2048
+        height: 1365
+  - title: "Microsoft Unveils Next-Gen Azure VMware Solution To Accelerate Cloud Shift"
+    excerpt: "Microsoft announced the next version of the Azure VMware Solution will be available in the second half of 2020."
+    publishedDateTime: 2020-05-04T22:45:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-unveils-next-gen-azure-vmware-solution-to-accelerate-cloud-shift"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 35
+    images:
+      - url: "https://www.crn.com/resources/025d-0f549f4162f9-5e108ebff150-1000/microsoft_hq-1.jpg"
+        width: 395
+        height: 297
 
 secured: "qpBU9ojq/gKm6d7I5laTYYUQmAxR2k2+HynnHJ6a6A9xJDUmxKn1Alh0eyiHGMwZDC7bXdcaGWIfJBwlQn5ivVLBSjX2ac8WVfsNdV/6OFZ2/h523kVRePVRSfWvfIv1JihYsQH+RvUVhNJ8/XCUR8bVKj/jQ6vKSBzgAqVcn1Z75cYWT4AywTwbWQc9t+g+bg0UeJ7pdilK3zi1odgBuVx7EPLHv608wwo3NRS87aTkfiD4lJhWTsL2GcsFvZHIEsYKDGZnFJuOSVIt8xTZ6++rhNPedwyuDzAWVHTA6/1wslZEihkW/X457Uh5jlgY7ZfON5Rley6F4jMBi/JZEw==;lIDuUvb0mTWVViF+svM0ow=="
 ---

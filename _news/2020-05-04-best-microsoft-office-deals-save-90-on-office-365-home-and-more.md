@@ -8,7 +8,7 @@ ampWebUrl: "https://www.androidauthority.com/best-microsoft-office-deals-1114096
 cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/best-microsoft-office-deals-1114096/amp/"
 type: article
 quality: 82
-heat: 82
+heat: 83
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 470
     title: "Best Microsoft Office deals — Save $90 on Office 365 Home and more!"
 
-secured: "MDURB1PJnl1gUaAIhCaq/iphPbmoAKSeo7PO5bnl9F4hXEsUyq0+AkumH8+KIWCciSxbWeRzdLDXRagw74+zN4DD/O7QCk9ZeHW+xyXLIxbPCU++CA6ElxNXB9qvcyoU1/4JVfTB9gr0MlHifUJGq4pvMBYsViiB1AY4SUmF50KmNTyVRNpaCv+YpwV3SbJFYz6W/8u4hKaqVj9XY05NuQYXNgrRgkOlhfeej/ct5X2OEVI1x8aRJyYXIKn/UO3RXyOQJSWtFFUs0xYNoCVBoQ8q+CaDZVvljodChogE99g6mnYdWnFFCdI2e8w5zrlP;Y6PKBFfPeBSOtDKP1o2q9Q=="
+secured: "a5n8IkdgzrqXLt9Dvq54TKDnktDhk49ncABApXFSdNMpCgN3nGJpylmDUsNDYoDhQjr5DL7i9PeCw9GomlD+u88AjjWjYbh5InANTw4OGhyfpQnYR7Sa/e0VG9yXxYVg0csq+mX2BtmA9X/QUtopo4eXYdlokm4+PSP8bmdY+F00l7++IWOKIbSH1DwZPsb+54pDMQuTJauuJmadalDloWC8Ro9top5E9TZJ+1+nWdimD5AbOq4Bu4bOtdFkpLoG9oQmoIgY2YrW6Tl+q3H1KD992gZ5BknlpgouhD/tuQecfKTI/UbgFNYgNlBSZLPH;EBVMRj6hsIJItxHOgrnpyg=="
 ---
 

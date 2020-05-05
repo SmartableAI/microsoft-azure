@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Microsoft announces next generation of Azure VMware Solution"
-excerpt: "Microsoft today announced the preview of the next generation of Azure VMware Solution which allows you to seamlessly move VMware-based workloads from your datacenter to Azure. This is the official solution supported by Microsoft and endorsed by VMware."
-publishedDateTime: 2020-05-04T18:41:00Z
-webUrl: "https://mspoweruser.com/microsoft-next-generation-azure-vmware-solution/"
-ampWebUrl: "https://mspoweruser.com/microsoft-next-generation-azure-vmware-solution/amp/"
-cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-next-generation-azure-vmware-solution/amp/"
+title: "Microsoft debuts Azure VMware Solution in preview"
+excerpt: "Microsoft Corp. has announced the launch of its long-awaited Azure VMware Solution, which makes it cheaper and easier for customers to migrate on-premises VMware applications to the company’s public cloud infrastructure platform."
+publishedDateTime: 2020-05-04T23:52:00Z
+webUrl: "https://siliconangle.com/2020/05/04/microsoft-debuts-azure-vmware-solution-preview/"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: MSPoweruser
-  domain: mspoweruser.com
+  name: SiliconANGLE
+  domain: siliconangle.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mspoweruser.com/wp-content/uploads/2018/10/Swift-Azure.jpg"
-    width: 932
-    height: 537
-    title: "Microsoft announces next generation of Azure VMware Solution"
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/16077984773_ea37e226c1_k.jpg"
+    width: 2048
+    height: 1365
+    title: "Microsoft debuts Azure VMware Solution in preview"
 
 related:
   - title: "Microsoft announces next-gen Azure VMware Solution"
@@ -49,19 +47,21 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Microsoft debuts Azure VMware Solution in preview"
-    excerpt: "Microsoft Corp. has announced the launch of its long-awaited Azure VMware Solution, which makes it cheaper and easier for customers to migrate on-premises VMware applications to the company’s public cloud infrastructure platform."
-    publishedDateTime: 2020-05-04T23:52:00Z
-    webUrl: "https://siliconangle.com/2020/05/04/microsoft-debuts-azure-vmware-solution-preview/"
+  - title: "Microsoft announces next generation of Azure VMware Solution"
+    excerpt: "Microsoft today announced the preview of the next generation of Azure VMware Solution which allows you to seamlessly move VMware-based workloads from your datacenter to Azure. This is the official solution supported by Microsoft and endorsed by VMware."
+    publishedDateTime: 2020-05-04T18:41:00Z
+    webUrl: "https://mspoweruser.com/microsoft-next-generation-azure-vmware-solution/"
+    ampWebUrl: "https://mspoweruser.com/microsoft-next-generation-azure-vmware-solution/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-next-generation-azure-vmware-solution/amp/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 57
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/16077984773_ea37e226c1_k.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://mspoweruser.com/wp-content/uploads/2018/10/Swift-Azure.jpg"
+        width: 932
+        height: 537
   - title: "Microsoft Unveils Next-Gen Azure VMware Solution To Accelerate Cloud Shift"
     excerpt: "Microsoft announced the next version of the Azure VMware Solution will be available in the second half of 2020."
     publishedDateTime: 2020-05-04T22:45:00Z
@@ -76,6 +76,6 @@ related:
         width: 395
         height: 297
 
-secured: "0EKZ1uDljxcvokRjLzmn7PqNskpCaa+bKjgxjA645ZTt+JtBq67tjRBCCJ/tcC8QkyNs+dG9YRDPdcf0xNPINlymnQPOW/80GWyplvkG6eUSm1T3mHeZVbo8HiaxtiJ1eDSR6rS8bbF2v7Mj3mOIlAkINvqFRvyd8W7WUFI2/7E196HbJmNvpT8mDvtzSSf5IGnCXV0qZZ78Q2ztQelOcnLjbjtP5S2IH3ANJSrHO0N3S/jeEMYN1Ym5PlQc44Z0VJ/86Y1smGdmNS+TyBYv0ao25QFRcaI8e5EdZhp3lQx0UX94jaVLkt2knFyhoZ/eJ/U3UzICBUJPOlrhF1T4yyRoNGRjbCy+Xqs4W+6NCOwZMchJTWb4Dijmp2aDFPj2iPgS94ixhAAeujlt7n+6mlcQe8ylpOOPhEFTPUUljzSalXN8sFzI4uJZVVqvt6PmRI+fVuPa1PDCqh555+pS70itGfqW5bRVfKgLdT/8guU=;qi87Nv4c3qTHYDi49G6I/A=="
+secured: "kyOgHGSq3aiYv1MX4JGf0B5R3Cp21Po8NUwJbWNMMLoKmn44+IzvSJItJHscNtNuGaohv5wk4PsSfskh4XzZ6+bi3wt8TRTZkxWwjZBwnklDLli36oN4RL+Ub/lKo+ZS91i1THhl1LwZXnEVnmilv2RlDPZKqyLZZlwFgfEIX2uMAdCJ9oiiP+fEuUJ2fiA+7ZwBp5nuckU9XFC6lkZD4rIix/IqJ37xYCb7Xooy4RqKmqKeAb5LL39QNxLN3/BTEGPT0dwSUmH0PwYktZPHU01N5I7cBqi2/zUgzrH8YFiMDodnd50euJuML+0NMzRn;WJC2PCsgB7339Q8XpW1nEQ=="
 ---
 

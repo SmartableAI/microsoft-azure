@@ -8,7 +8,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-announces-next-gen-azure-vmware
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-next-gen-azure-vmware-solution/"
 type: article
 quality: 97
-heat: 137
+heat: 177
 published: true
 
 provider:
@@ -53,6 +53,32 @@ related:
       - url: "https://mspoweruser.com/wp-content/uploads/2018/10/Swift-Azure.jpg"
         width: 932
         height: 537
+  - title: "Microsoft debuts Azure VMware Solution in preview"
+    excerpt: "Microsoft Corp. has announced the launch of its long-awaited Azure VMware Solution, which makes it cheaper and easier for customers to migrate on-premises VMware applications to the company’s public cloud infrastructure platform."
+    publishedDateTime: 2020-05-04T23:52:00Z
+    webUrl: "https://siliconangle.com/2020/05/04/microsoft-debuts-azure-vmware-solution-preview/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/16077984773_ea37e226c1_k.jpg"
+        width: 2048
+        height: 1365
+  - title: "Microsoft Unveils Next-Gen Azure VMware Solution To Accelerate Cloud Shift"
+    excerpt: "Microsoft announced the next version of the Azure VMware Solution will be available in the second half of 2020."
+    publishedDateTime: 2020-05-04T22:45:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-unveils-next-gen-azure-vmware-solution-to-accelerate-cloud-shift"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 35
+    images:
+      - url: "https://www.crn.com/resources/025d-0f549f4162f9-5e108ebff150-1000/microsoft_hq-1.jpg"
+        width: 395
+        height: 297
 
 secured: "zXGjOdS0jLTMBNew/jyvAF4FjChU0tb2m3U+WSVSFBGUvoMWtefEARNv2BOUOvNh21UTT5UHQ8pzacqhVg8Nj1fAByhuIPRaPjUD5r6Ta5kSUzPj3/TdU+6u+W0RyXkXRIeRbr30TsMYqDwnBD8Aggs1264hQbBhKM89X5n3kPY/96ElrOUq4uKFwdXV0aVf4GGwCzEDohbIcz9rWC9NverZYA0IxjvQeo0BWrIq8uxqmG8bSOJyfSz4SGAbDFzbEniP33DeC6XT2Tr6rZYmqn6/eqP8q8Qa8bqWRqUjl8GjCzdwLz01D3dRB9uHg1kQ;6Y5m8f+wgh3uq2mDH2QCwg=="
 ---

@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Microsoft announces next generation of Azure VMware Solution"
-excerpt: "Microsoft today announced the preview of the next generation of Azure VMware Solution which allows you to seamlessly move VMware-based workloads from your datacenter to Azure. This is the official solution supported by Microsoft and endorsed by VMware."
-publishedDateTime: 2020-05-04T18:41:00Z
-webUrl: "https://mspoweruser.com/microsoft-next-generation-azure-vmware-solution/"
-ampWebUrl: "https://mspoweruser.com/microsoft-next-generation-azure-vmware-solution/amp/"
-cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-next-generation-azure-vmware-solution/amp/"
+title: "Microsoft Unveils Next-Gen Azure VMware Solution To Accelerate Cloud Shift"
+excerpt: "Microsoft announced the next version of the Azure VMware Solution will be available in the second half of 2020."
+publishedDateTime: 2020-05-04T22:45:00Z
+webUrl: "https://www.crn.com/news/cloud/microsoft-unveils-next-gen-azure-vmware-solution-to-accelerate-cloud-shift"
 type: article
-quality: 57
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: MSPoweruser
-  domain: mspoweruser.com
+  name: CRN
+  domain: crn.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mspoweruser.com/wp-content/uploads/2018/10/Swift-Azure.jpg"
-    width: 932
-    height: 537
-    title: "Microsoft announces next generation of Azure VMware Solution"
+  - url: "https://www.crn.com/resources/025d-0f549f4162f9-5e108ebff150-1000/microsoft_hq-1.jpg"
+    width: 395
+    height: 297
+    title: "Microsoft Unveils Next-Gen Azure VMware Solution To Accelerate Cloud Shift"
 
 related:
   - title: "Microsoft announces next-gen Azure VMware Solution"
@@ -49,6 +47,21 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Microsoft announces next generation of Azure VMware Solution"
+    excerpt: "Microsoft today announced the preview of the next generation of Azure VMware Solution which allows you to seamlessly move VMware-based workloads from your datacenter to Azure. This is the official solution supported by Microsoft and endorsed by VMware."
+    publishedDateTime: 2020-05-04T18:41:00Z
+    webUrl: "https://mspoweruser.com/microsoft-next-generation-azure-vmware-solution/"
+    ampWebUrl: "https://mspoweruser.com/microsoft-next-generation-azure-vmware-solution/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-next-generation-azure-vmware-solution/amp/"
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 57
+    images:
+      - url: "https://mspoweruser.com/wp-content/uploads/2018/10/Swift-Azure.jpg"
+        width: 932
+        height: 537
   - title: "Microsoft debuts Azure VMware Solution in preview"
     excerpt: "Microsoft Corp. has announced the launch of its long-awaited Azure VMware Solution, which makes it cheaper and easier for customers to migrate on-premises VMware applications to the company’s public cloud infrastructure platform."
     publishedDateTime: 2020-05-04T23:52:00Z
@@ -62,20 +75,7 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/16077984773_ea37e226c1_k.jpg"
         width: 2048
         height: 1365
-  - title: "Microsoft Unveils Next-Gen Azure VMware Solution To Accelerate Cloud Shift"
-    excerpt: "Microsoft announced the next version of the Azure VMware Solution will be available in the second half of 2020."
-    publishedDateTime: 2020-05-04T22:45:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-unveils-next-gen-azure-vmware-solution-to-accelerate-cloud-shift"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 35
-    images:
-      - url: "https://www.crn.com/resources/025d-0f549f4162f9-5e108ebff150-1000/microsoft_hq-1.jpg"
-        width: 395
-        height: 297
 
-secured: "0EKZ1uDljxcvokRjLzmn7PqNskpCaa+bKjgxjA645ZTt+JtBq67tjRBCCJ/tcC8QkyNs+dG9YRDPdcf0xNPINlymnQPOW/80GWyplvkG6eUSm1T3mHeZVbo8HiaxtiJ1eDSR6rS8bbF2v7Mj3mOIlAkINvqFRvyd8W7WUFI2/7E196HbJmNvpT8mDvtzSSf5IGnCXV0qZZ78Q2ztQelOcnLjbjtP5S2IH3ANJSrHO0N3S/jeEMYN1Ym5PlQc44Z0VJ/86Y1smGdmNS+TyBYv0ao25QFRcaI8e5EdZhp3lQx0UX94jaVLkt2knFyhoZ/eJ/U3UzICBUJPOlrhF1T4yyRoNGRjbCy+Xqs4W+6NCOwZMchJTWb4Dijmp2aDFPj2iPgS94ixhAAeujlt7n+6mlcQe8ylpOOPhEFTPUUljzSalXN8sFzI4uJZVVqvt6PmRI+fVuPa1PDCqh555+pS70itGfqW5bRVfKgLdT/8guU=;qi87Nv4c3qTHYDi49G6I/A=="
+secured: "pVTB1moHA2YlMwwIJTzpXhgSFQQf8wL/3UeVtPDeHCcd/go9LZEJqeM+iPs9PPFlG+kWH/2lIN7WrRTzaQ69jhg55uVDR1N+Zs48J1MAVJv9U/LvkPGk21GSfFwpRO4qVmkuMTO9FjMmtsoxA3I6XlK+OzwPpwGqxLWdsp9IFuSsdJ5WNGGUqXVJsVIbSoys9oJy15ZPo5C25NHWzMhYh1NrOEuDzqPAGx+v9qtzuVFP63daB1sNwuqNDM+DKwO+d8aR2Rj3sfbp2T7OpFlQ4jLQbzD9FoqR3Jd9ADLBrQ7ypehtGeApKZWHWOuZx3QF;4C5EKNSSoreb97RfyhIfHg=="
 ---
 
