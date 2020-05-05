@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-04-15-securing-azure-functions-with-api-management-and-identityserver4.md",
+      "title": "Securing Azure Functions with API Management and IdentityServer4.",
+      "excerpt": "There are several Azure App Service platform authentication features like Active Directory, Microsoft ID, Facebook, Google, Twitter. And a Function level authentication provides Anonymous ...",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/microsoftazure/secure-functions-apim-identityserver4-4b6f62d773b0",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-15T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*IxBnSbM_RxB9Av3TdXB0Mg.png",
+          "width": 1200,
+          "height": 521,
+          "title": "Securing Azure Functions with API Management and IdentityServer4.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2020-04-15-azure-sql-database-hyperscalechange-tracking-support-now-available.md",
       "title": "Azure SQL Database Hyperscale—Change tracking support now available",
       "excerpt": "",
@@ -1000,51 +1044,6 @@
       "topics": [
         "Azure",
         "Compute"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-microsoft-partners-with-the-industry-to-unlock-new-5g-scenarios-with-azure-edge-zones.md",
-      "title": "Microsoft partners with the industry to unlock new 5G scenarios with Azure Edge Zones",
-      "excerpt": "Cloud, edge computing, and IoT are making strides to transform whole industries and create opportunities that weren't possible just a few years ago. With the rise of 5G mobile connectivity, there are even more possibilities to deliver immersive, real-time experiences that have demanding, ultra-low latency,",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/microsoft-partners-with-the-industry-to-unlock-new-5g-scenarios-with-azure-edge-zones/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-31T01:00:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/cddd85e8-8aa8-4290-b5d4-22f41eeb03eb.png",
-          "width": 1023,
-          "height": 484,
-          "title": "Microsoft partners with the industry to unlock new 5G scenarios with Azure Edge Zones",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Networking"
       ]
     }
   ],

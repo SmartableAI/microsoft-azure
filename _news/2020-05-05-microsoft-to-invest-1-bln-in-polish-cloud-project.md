@@ -34,6 +34,17 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200505&t=2&i=1517499643&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG440IH"
         width: 817
         height: 545
+  - title: "Microsoft to Invest $1 Billion in Polish Cloud Project"
+    excerpt: "Microsoft will invest $1 billion in Poland as part of a plan that will involve opening a data centre in the country to provide cloud services to businesses and government institutions, the company said in a statement on Tuesday."
+    publishedDateTime: 2020-05-05T12:05:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-05-05/microsoft-to-invest-1-billion-in-poland-statement"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-05-05/microsoft-to-invest-1-billion-in-poland-statement?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-05-05/microsoft-to-invest-1-billion-in-poland-statement?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 62
 
 secured: "mj1cDellCdEZxAf6VsJqtt21rQQJacUoKlf6WEwW4Sp9aylET/06smCNqpCmdlEFUOdTY7BTqlKM7Hw00zRSwdumzMHfWrtJusimI42Bl1bJ1vbtFNjiJlT8mZ5r6u3K29s8u+tpLV/+kKQqHzmc3v2o5nAs2rz3X1VuNoyK8u4SMFtwouDLFJ1HnUw3D8ILXkHlDSrB7UerTj5FX54ykQt8hedaGuCYHhkSDOCREF9BqQ4l/hoN5hf+2yHlc0awBrKW5wl9dz7cdFJK7UulE6NCgov1e3SZ6RSwPLFVe58VQeRyRiIjR/li9WnAYtEiHeaaH9cZINqI5xpQEdD4mH2e8hI0Fp7HZwyk2fDtp/Fgp1z/3tIMw7DAld7Vgt91pQnKPa7dI4IA/nggnkIIuMtaSFlit7IDKeRxf3KEAFAzwnbbvQaZZP3B9GtMWzZNwFoAH3s5R9Ug57F1vf7pE0XDLn6wMoo97/EbDUz2QoA=;bo/HlbjPE3RA46p6PIEtbg=="
 ---

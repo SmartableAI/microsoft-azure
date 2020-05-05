@@ -1,0 +1,55 @@
+---
+category: news
+title: "Microsoft to Invest $1 Billion in Polish Cloud Project"
+excerpt: "Microsoft will invest $1 billion in Poland as part of a plan that will involve opening a data centre in the country to provide cloud services to businesses and government institutions, the company said in a statement on Tuesday."
+publishedDateTime: 2020-05-05T12:05:00Z
+webUrl: "https://www.usnews.com/news/technology/articles/2020-05-05/microsoft-to-invest-1-billion-in-poland-statement"
+ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-05-05/microsoft-to-invest-1-billion-in-poland-statement?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-05-05/microsoft-to-invest-1-billion-in-poland-statement?context=amp"
+type: article
+quality: 62
+heat: -1
+published: false
+
+provider:
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Azure
+
+related:
+  - title: "Microsoft to invest $1 billion in Poland: statement"
+    excerpt: "Microsoft will invest $1 billion in Poland as part of a plan that will involve opening a data centre in the country to provide cloud services to businesses and government institutions, the company said in a statement on Tuesday."
+    publishedDateTime: 2020-05-05T09:03:00Z
+    webUrl: "https://www.reuters.com/article/us-microsoft-poland-idUSKBN22H0WP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN22H0WP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22H0WP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 82
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200505&t=2&i=1517499643&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG440IH"
+        width: 817
+        height: 545
+  - title: "Microsoft to invest $1 bln in Polish cloud project"
+    excerpt: "Microsoft will invest $1 billion in Poland as part of a plan that will involve opening a data centre in the country to provide cloud services to businesses and government institutions, the company said in a statement on Tuesday."
+    publishedDateTime: 2020-05-05T09:42:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-to-invest-%241-bln-in-polish-cloud-project-2020-05-05"
+    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-to-invest-%241-bln-in-polish-cloud-project-2020-05-05?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-to-invest-%241-bln-in-polish-cloud-project-2020-05-05?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 62
+
+secured: "/ItT9N3YrR00DNv2EafOrURvbg80ZMx7j46TVlH6dWZFx6BKkQBQHB2/P2d20PoaIubudK5dRDJvhV9PFhxzO/97FO7ZjKG2+rWr3VHZg/4GWhYRFoOE5A5n9kfoglBE60y6F7zRgG4RP7XKt8kkAM09ApAo+MkpifVcR/Km6m+wuV8P5yjYhkfzkiLfPCjdXFAavNicBYfKL1723wWVt9OwIpz9JRB2XqnQ12JrkRf6jVyZDl9oxXTfIAqDTBRhT5Lo/otdukEJexCtgrdz/QP5wOsIbQ5/QgmOnSCvgJRchhaXQxQaVdWjmuu+A2yfk4jDahGE82Vxxu+7er7GzM+REuJVElTIy5GOo2GigTftQLVqgBtHv+yl86KNIE5ToHhstQ49XYTCiUpM5wf6Mrm0TfaxRENaTQUB8Su0SpECTqx8Fgl89tUi8g7cBcVxLnYaZ7tkHEvRiQDAeeg3YatwZ9RwNcA+Q6aYKVHur08=;us17AcsyAriFxZLRcu7aNg=="
+---
+
