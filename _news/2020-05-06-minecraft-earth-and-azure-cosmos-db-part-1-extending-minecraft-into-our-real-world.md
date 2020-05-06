@@ -27,6 +27,6 @@ images:
     height: 534
     title: "Minecraft Earth and Azure Cosmos DB part 1: Extending Minecraft into our real world"
 
-secured: "1OS98F07D8CEhRTqaOjsKMoGI7eNfqbTs4KdmK3QlEWTiyGQbd4nCmlZ8aiLI1asSF53bgJ2R68/FzynBMnt4krb3bpPoagNf4urNeEGT7a1jppoTVbcF9Z9eyfxWxfoYfYmICg+12owZsLzXgF2PZ4vyzQ1EqX/YBVSTnreGudKqnhUNmNDTVIruKthVbm1LMVQ6M05tHbDHpLX/7bMcWp62EiHt/de3HO6YCLPGOmxF3jrHewtAgTxGt3kR55XBOUnTIy2ZAikDVwT+TGoq7QOK2m9EnsW3c/9R8+ydd+aLGXZXm8iTD60A368iF4IyBk/ljpVI6AaqQwInWyR0w==;rKEYxTYjm8u2ZjBNs5mu5Q=="
+secured: "3j6hjXKx3ailhwSJYw1hBvjkZa9IoDKgipR1sUEtQP2bcxaosK49cs4ymvUNmhdh0D5BKEKgiBStAeqjnfV1hf/fioYBHs6onFWGABmDnGK+z1sDTz+5nAEJf+guAjxH5X1KzWjly1exCaXF+4V21XUHkxpQ0akUKVMFj0PevFurUuJZOkGIqeV76j46sUX61r9aVkbaH/ZLmSjsg2LxFnT/4vfJCCOr6yGh8VFsw8pJiaSEQQ0v1Ju4ZLtXLaRCv+7DpxgH+LaBmyggvuNMRTFwchNHkTffgKCz/DpWtZUMiZ7HOaBziZrqRNPaAQwCQErqq3BCvACC39cpYuM46A==;4oa/TRY6BjDyS3A4s3llbg=="
 ---
 
