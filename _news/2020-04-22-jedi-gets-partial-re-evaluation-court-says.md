@@ -3,7 +3,7 @@ category: news
 title: "JEDI gets partial re-evaluation, court says"
 excerpt: "A federal judge is giving the Defense Department until Aug. 17 to accept proposal revisions addressing storage pricing, effectively extending a nearly three-year-long drama over the potential $10 billion enterprise cloud contract."
 publishedDateTime: 2020-04-22T23:52:00Z
-webUrl: "https://defensesystems.com/articles/2020/04/22/jedi-saga-continues.aspx"
+webUrl: "https://defensesystems.com/articles/2020/04/22/jedi-saga-continues.aspx?admgarea=TC_DefenseIT"
 type: article
 quality: 22
 heat: 22
@@ -22,6 +22,6 @@ images:
     height: 368
     title: "JEDI gets partial re-evaluation, court says"
 
-secured: "J/QTr/TX3ggz6gwJiHCDfotyL5tcQ0MJLp5EyNgZz1FVoCr3lRITWowa+PZ56myCtbt5fYjKi3GZiSn7jbQTCbSIq5tMnSskSmN3wmD/s+Hsn5p2w4RdCkfgeMV/9glFlDc2UvvokRz9ltuuts/Es4kKx2X36fxzg/Ha0WnFTFpl4QusNUGuSen1mFLj45p87u7ApadijOmf325OCdi8J4b5lMu4nJLIKPsKQXGVPqI88eVrds/Eo+hs1eOpnJ5f7UgdMSYE/uBqEMbNCRjH0KiWXPeZTIhUbEWZQ2NspS3rRbThtoMXtWua4VWFk27K6r7GCTAOlmoVTRQUdVf+YFI7M5ZqC2O1xyw8eEySa5r5EqTaZGADtAm70QZwkuLH/0kNyXH94HfYGm0buyY48hLtpQx2fg3KXBPsynftEtBH5ayF0qiBx2wqrzp6bTcHokCpUoLdTEUMhSUThmWZo1RcGob7vEekttWk0Y2fGX8=;fLMZT78fNSLPeUSmhWEJCA=="
+secured: "R/lDRqLwbl6Gsvo2PlnLhgA/SEg65oYrmo5DJEoF+WQJDyfCGj9Ae/Zf8WYAXSMK3449poq9jyX5SJH4pm+cBf9JMrzJNChqg3XeBqonS7fSaXsWOTn0f7NVuSMOB2vRXOErDXigUY7/lElvkkv/yIRF0ksRfvesP4bc7oFI1pAWI2NGTnMxTlbEGj+nhKEXf2+H5IdGxgfTqbIbeE0IhcNVSChjas3sEvYWDxlAzC3Si27CD0yva7ne34JS3tL4Fm28s6aSCKNQ7hZwVmD201GxofkzvGH0gykKtEmZw/8Bm23whQbghHOfKtbJsNGM;to1WAlW5UKjo6CgaOsxegQ=="
 ---
 

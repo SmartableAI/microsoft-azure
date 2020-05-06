@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Microsoft to invest $1 billion in Poland, including new datacenter"
-excerpt: "Microsoft will invest $1 billion to help transform the \"Polish Digital Valley.\" The investment includes a new Microsoft datacenter and plans to educate people on how to transform organizations by utilizing the cloud."
-publishedDateTime: 2020-05-05T17:54:00Z
-webUrl: "https://www.windowscentral.com/microsoft-investing-1-billion-poland-new-data-center"
-ampWebUrl: "https://www.windowscentral.com/microsoft-investing-1-billion-poland-new-data-center?amp"
-cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-investing-1-billion-poland-new-data-center?amp"
+title: "Microsoft to invest $1 billion in Poland cloud"
+excerpt: "Microsoft on Tuesday announced it would invest one billion dollars in Poland to expand its operations, including the creation of a new regional cloud-computing data hub. The US tech giant said it had signed an agreement with Poland's state-backed National Cloud Operator to provide \"cloud solutions for all industries and companies in Poland ..."
+publishedDateTime: 2020-05-06T02:04:00Z
+webUrl: "https://www.thejakartapost.com/news/2020/05/06/microsoft-to-invest-1-billion-in-poland-cloud.html"
+ampWebUrl: "https://www.thejakartapost.com/amp/news/2020/05/06/microsoft-to-invest-1-billion-in-poland-cloud.html"
+cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/news/2020/05/06/microsoft-to-invest-1-billion-in-poland-cloud.html"
 type: article
 quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Windows Central
-  domain: windowscentral.com
+  name: The Jakarta Post
+  domain: thejakartapost.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/03/microsoft-logo-ignite-2017.jpg?itok=LlgVw_jV"
-    width: 800
-    height: 600
-    title: "Microsoft to invest $1 billion in Poland, including new datacenter"
+  - url: "https://img.jakpost.net/c/2019/03/23/2019_03_23_68363_1553355661._medium.jpg"
+    width: 747
+    height: 515
+    title: "Microsoft to invest $1 billion in Poland cloud"
 
 related:
   - title: "Microsoft to invest $1 billion in Poland: statement"
@@ -77,21 +77,21 @@ related:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Microsoft-Poland-1200x788.jpg"
         width: 1200
         height: 788
-  - title: "Microsoft to invest $1 billion in Poland cloud"
-    excerpt: "Microsoft on Tuesday announced it would invest one billion dollars in Poland to expand its operations, including the creation of a new regional cloud-computing data hub. The US tech giant said it had signed an agreement with Poland's state-backed National Cloud Operator to provide \"cloud solutions for all industries and companies in Poland ..."
-    publishedDateTime: 2020-05-06T02:04:00Z
-    webUrl: "https://www.thejakartapost.com/news/2020/05/06/microsoft-to-invest-1-billion-in-poland-cloud.html"
-    ampWebUrl: "https://www.thejakartapost.com/amp/news/2020/05/06/microsoft-to-invest-1-billion-in-poland-cloud.html"
-    cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/news/2020/05/06/microsoft-to-invest-1-billion-in-poland-cloud.html"
+  - title: "Microsoft to invest $1 billion in Poland, including new datacenter"
+    excerpt: "Microsoft will invest $1 billion to help transform the \"Polish Digital Valley.\" The investment includes a new Microsoft datacenter and plans to educate people on how to transform organizations by utilizing the cloud."
+    publishedDateTime: 2020-05-05T17:54:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-investing-1-billion-poland-new-data-center"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-investing-1-billion-poland-new-data-center?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-investing-1-billion-poland-new-data-center?amp"
     type: article
     provider:
-      name: The Jakarta Post
-      domain: thejakartapost.com
+      name: Windows Central
+      domain: windowscentral.com
     quality: 42
     images:
-      - url: "https://img.jakpost.net/c/2019/03/23/2019_03_23_68363_1553355661._medium.jpg"
-        width: 747
-        height: 515
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/03/microsoft-logo-ignite-2017.jpg?itok=LlgVw_jV"
+        width: 800
+        height: 600
   - title: "Microsoft lands public cloud in New Zealand with new datacenter region"
     excerpt: "Microsoft plans to establish its first datacenter region in New Zealand, in what it described as \"a major milestone toward delivering enterprise-grade cloud services in the country\"."
     publishedDateTime: 2020-05-05T23:37:00Z
@@ -119,6 +119,6 @@ related:
         width: 1024
         height: 520
 
-secured: "EK0qAH4LQv9VETK4OYdSIoKI9C9/DgRQ2gGf9WyJd70g4a2YawYk2GaXHMcl3uK1CtF365jJWHGuwbEVpZIiqFxUIrpaeSv0G2lFbEQi4K8On24jHECosOsqRxvtwJA0T1wGk+Osd/5me+6flKDsOg8UyN80rPQBNdlymD/hpmvsRQLwEwpAk6KR9RkZTQvOSWHE2mQbltfgx9VPjf4VRPuCgNmRtqV3O84N1FK3pN0lyLJilnPlN4+rGWrzPekX5TOwxOyNmPnJAAwr/HzZvifZl0nWliwIkD/jNnqUEBV+pUQA42rTdpID4bl4ycBxebcUaybv4sdYJJvcEPL3Henw19OaABTuxZ5ry65DrQHGWyRsg/HJYLXRB+VPO1vMeaWIIEFYnnxMMu1IoCrfhj9kikiK8kZwBQAntmY+KzebxftYyRRXDHm9oufi4KixKIK9vkPBpjDZwQa9zY5M5Rn3llaFxmsue+YfH6bbu0I=;gEaofkuop5n174e+fTKKwA=="
+secured: "zDH/t8EDlCzsfd1eBAJ6wEa5p5rH6XY1ePVKtX1ZkisPyO2GP7ZZL26yatKua/L83y4CgLr0ZqsJIJmH1D4hHaoK7/ij+2y3UQatNmmujwkUzGqBYe1xM9jwQumUneHaMsfTdT2vDImoA7bdLhW6Gx5n+ETVHPCNC1X0RdXWej65NG7eKO9oZIy542xTcuyI7viqsIv3/W4/B8a3dSlJpN0o9UljAIsu0cmZwMVIivzgZCRrTvUBkWw9Y6+u4ZPwxr1eSlss35PjmBdb6Vg2UX/Xwxqght1ZM/9UZY/uxo3wIDkhahILUKNCm5yDidLc;JEyp4Cse8EXGBp+AFdQhwA=="
 ---
 

@@ -75,6 +75,21 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/03/microsoft-logo-ignite-2017.jpg?itok=LlgVw_jV"
         width: 800
         height: 600
+  - title: "Microsoft to invest $1 billion in Poland cloud"
+    excerpt: "Microsoft on Tuesday announced it would invest one billion dollars in Poland to expand its operations, including the creation of a new regional cloud-computing data hub. The US tech giant said it had signed an agreement with Poland's state-backed National Cloud Operator to provide \"cloud solutions for all industries and companies in Poland ..."
+    publishedDateTime: 2020-05-06T02:04:00Z
+    webUrl: "https://www.thejakartapost.com/news/2020/05/06/microsoft-to-invest-1-billion-in-poland-cloud.html"
+    ampWebUrl: "https://www.thejakartapost.com/amp/news/2020/05/06/microsoft-to-invest-1-billion-in-poland-cloud.html"
+    cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/news/2020/05/06/microsoft-to-invest-1-billion-in-poland-cloud.html"
+    type: article
+    provider:
+      name: The Jakarta Post
+      domain: thejakartapost.com
+    quality: 42
+    images:
+      - url: "https://img.jakpost.net/c/2019/03/23/2019_03_23_68363_1553355661._medium.jpg"
+        width: 747
+        height: 515
   - title: "Microsoft lands public cloud in New Zealand with new datacenter region"
     excerpt: "Microsoft plans to establish its first datacenter region in New Zealand, in what it described as \"a major milestone toward delivering enterprise-grade cloud services in the country\"."
     publishedDateTime: 2020-05-05T23:37:00Z
