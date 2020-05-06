@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Microsoft To Invest $1 Bln In Poland Cloud"
-excerpt: "Microsoft on Tuesday announced it would invest one billion dollars in Poland to expand its operations, including the creation of a new regional cloud-computing data hub. The US tech giant said it had signed an agreement with Poland's state-backed National Cloud Operator to provide \"cloud solutions for all industries and companies in Poland\","
-publishedDateTime: 2020-05-05T18:47:00Z
-webUrl: "https://www.ibtimes.com/microsoft-invest-1-bln-poland-cloud-2970673"
+title: "Microsoft lands public cloud in New Zealand with new datacenter region"
+excerpt: "Microsoft plans to establish its first datacenter region in New Zealand, in what it described as \"a major milestone toward delivering enterprise-grade cloud services in the country\"."
+publishedDateTime: 2020-05-05T23:37:00Z
+webUrl: "https://www.reseller.co.nz/article/679032/microsoft-lands-public-cloud-new-zealand-new-datacenter-region/"
 type: article
 quality: 22
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: Reseller News
+  domain: reseller.co.nz
 
 topics:
   - Azure
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/05/05/microsoft-said-it-had-signed-an-agreement-with.jpg"
-    width: 1024
-    height: 520
-    title: "Microsoft To Invest $1 Bln In Poland Cloud"
+  - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/img_20190327_063139.jpg"
+    width: 800
+    height: 546
+    title: "Microsoft lands public cloud in New Zealand with new datacenter region"
 
 related:
   - title: "Microsoft to invest $1 billion in Poland: statement"
@@ -90,20 +90,20 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/03/microsoft-logo-ignite-2017.jpg?itok=LlgVw_jV"
         width: 800
         height: 600
-  - title: "Microsoft lands public cloud in New Zealand with new datacenter region"
-    excerpt: "Microsoft plans to establish its first datacenter region in New Zealand, in what it described as \"a major milestone toward delivering enterprise-grade cloud services in the country\"."
-    publishedDateTime: 2020-05-05T23:37:00Z
-    webUrl: "https://www.reseller.co.nz/article/679032/microsoft-lands-public-cloud-new-zealand-new-datacenter-region/"
+  - title: "Microsoft To Invest $1 Bln In Poland Cloud"
+    excerpt: "Microsoft on Tuesday announced it would invest one billion dollars in Poland to expand its operations, including the creation of a new regional cloud-computing data hub. The US tech giant said it had signed an agreement with Poland's state-backed National Cloud Operator to provide \"cloud solutions for all industries and companies in Poland\","
+    publishedDateTime: 2020-05-05T18:47:00Z
+    webUrl: "https://www.ibtimes.com/microsoft-invest-1-bln-poland-cloud-2970673"
     type: article
     provider:
-      name: Reseller News
-      domain: reseller.co.nz
+      name: International Business Times
+      domain: ibtimes.com
     quality: 22
     images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/img_20190327_063139.jpg"
-        width: 800
-        height: 546
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/05/05/microsoft-said-it-had-signed-an-agreement-with.jpg"
+        width: 1024
+        height: 520
 
-secured: "v2330Gh2f3xI6dFdzvChedrkWGLOVWANtL9d0Ot4Vp8ZyZcH04jC/nCAWlSqM6HctDDNub/zZ1KsOxvKLgtj2BtQgkW/gwjHFyA7EyDSf/wviKmf5jgOxYLL6jGZ/26zKBxS+Wxur2K8y6chilzfh8dpubk9nt2XZKxjzweqvKFcRRdXITer5BGOpEmO52KKVqtd2S5CO5k56lyroLVRPmYKZidkpCxXAnQT1NHWjuB2LpVEMqr+W9nxkEMHCTJyztUB+ua3KH6ENn64PAQxdYkqduz8n+ibHQ39GTJ+amrwvUjNC6PKXB8Jmw3Dz2Vo;5aEPP9SLuru04r7jlXMB3Q=="
+secured: "m3nQQnAExPIL2e7IzbM1g9jxU1pIne2uzgiNnA/LmepxKC0y7RyXSYIY1RHTIdjJFOFVcBWD28GtbeI3UEJ+vRkWKqTRvQ+rB3QYPBZO7Gnxn7EKXiZSp+mJCOpf7E5GdeR+gosBnllvSpmRXH03Pgt8b7a+M/nyTefQqdauJzXUtZqDBqHivJpyaG3koEjncBtUEGi4j2g2nZQhFTvpyPCD5FaCsQQ/XtEiw/bBNAiUA5VX0omwIOR1BUkKqXa5zl2KJ2u3MjvKSDYbC3Q6T3aERrIQKfh0V2UqI3OZRO6wQz9FdbcUxq7F+LmZKYxA;Z45YAk429YnRBC3+E2l9ig=="
 ---
 

@@ -24,6 +24,6 @@ images:
     height: 450
     title: "Star Wars Jedi: Fallen Order crosses 10 million players, EA post Q4 results"
 
-secured: "3BJ032eort9RqTozfMNjnEwvUp/wistp6db3nHQoSkUN5PqANCaXo0QrYU5Hr03E6x/h0E/+IP9NQaFmoNLvIJ8bLGj4pmlp4chiEZ7XW2seSfEdfTjpMLycQf5PrruSgFVDA7u+tvx4ZTUnhCAsyXW3bThZEY9WICjc+JbLDxyGTRX+YfLGnj24EI5oaG2DtsiOqNFTBw+BiBKXyaFQE0k1tuJw//hRRgyN/wBq/bsv5LQQ1gPk1yyjPDyk9CLSJ0QNMnCvWTUZTU0z49bbjLZLP7Uy3p6j9DIqgC6Yb8dv7QalczAP5BPhURIWBQ3U;gDbIzqziMGakc773RAy18A=="
+secured: "uDctsAluAHMsJ7Tkvr2hVgfasA34co+b+beoXYq9ZpOG5kBDD6fsu5HhWOsayGyOlj/BL5TLeF1UE1aK8j53YwexcQOOx/8c1+WoM1U+SSzpMp0h0vb9GIjuLfnsr4ho08cKNtH6nWzi7OVgWuY4/nO4wQ07sNEe686r4OJk0xBfwf7W+CtDPaD+qEODFT0403usxrVRM/RQXQzCqmbdYqCMk8GM2pDnv2CZ3FDA1gMAaEgZhW4gaK8PjE9T9KAEh7juKMzBipXk1CYyApotSJWZc+liPi1g24oHcB1b8fOfKM/3C+gj9b2a2tY/9axozcR4uMbSxeXFnvumFoqg8xg3dVhgOgDPHA25YvBzMHZXSXCM7YhHedqI4SliZ3xiw3TzTpnY12A3Vl6r1OXop6QH/QwRguynIYFztMRqt7gz/jwYW0PgdkwfnGIj8PYDT9Q3JXNZXSqsydLy/MGJZ+X+xUOV/WpUvsQTv8QIZqo=;8uUu+v2wo/RlFlep2DvK1Q=="
 ---
 

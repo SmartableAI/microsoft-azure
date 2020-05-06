@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN22H0WP"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22H0WP"
 type: article
 quality: 82
-heat: 182
+heat: 202
 published: true
 
 provider:
@@ -81,6 +81,19 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/03/microsoft-logo-ignite-2017.jpg?itok=LlgVw_jV"
         width: 800
         height: 600
+  - title: "Microsoft lands public cloud in New Zealand with new datacenter region"
+    excerpt: "Microsoft plans to establish its first datacenter region in New Zealand, in what it described as \"a major milestone toward delivering enterprise-grade cloud services in the country\"."
+    publishedDateTime: 2020-05-05T23:37:00Z
+    webUrl: "https://www.reseller.co.nz/article/679032/microsoft-lands-public-cloud-new-zealand-new-datacenter-region/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 22
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/img_20190327_063139.jpg"
+        width: 800
+        height: 546
   - title: "Microsoft To Invest $1 Bln In Poland Cloud"
     excerpt: "Microsoft on Tuesday announced it would invest one billion dollars in Poland to expand its operations, including the creation of a new regional cloud-computing data hub. The US tech giant said it had signed an agreement with Poland's state-backed National Cloud Operator to provide \"cloud solutions for all industries and companies in Poland\","
     publishedDateTime: 2020-05-05T18:47:00Z
