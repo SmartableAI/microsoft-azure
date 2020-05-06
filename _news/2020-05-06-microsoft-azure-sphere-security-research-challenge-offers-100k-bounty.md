@@ -23,20 +23,33 @@ images:
     title: "Microsoft Azure Sphere Security Research Challenge offers $100K bounty"
 
 related:
-  - title: "Microsoft Challenges Security Researchers to Hack Azure Sphere"
-    excerpt: "Participants can earn up to $100,000 for finding severe flaws in Microsoft's Linux-based Azure Sphere IoT operating system."
-    publishedDateTime: 2020-05-05T21:54:00Z
-    webUrl: "https://www.darkreading.com/threat-intelligence/microsoft-challenges-security-researchers-to-hack-azure-sphere/d/d-id/1337739"
+  - title: "Microsoft offers hackers $100K to break Azure Sphere"
+    excerpt: "Microsoft recently launched the Azure Sphere Research Challenge, offering approved security researchers up to a $100,000 reward for identifying dangerous exploits that could potentially impact the security of Azure Sphere,"
+    publishedDateTime: 2020-05-06T17:33:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/355567/microsoft-offers-hackers-100k-to-break-azure-sphere"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/355567/microsoft-offers-hackers-100k-to-break-azure-sphere?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/355567/microsoft-offers-hackers-100k-to-break-azure-sphere?amp"
     type: article
     provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 37
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 97
     images:
-      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
-        width: 600
-        height: 600
+      - url: "https://media.itpro.co.uk//image/upload/v1588785400/itpro/AS.png"
+        width: 902
+        height: 602
+  - title: "Microsoft to hackers: Break our Azure Sphere Linux IoT OS and earn up to $100k"
+    excerpt: "Microsoft has launched the Azure Sphere Research Challenge, offering approved security researchers individual rewards of up to $100,000 for dangerous exploits that break the security of Azure Sphere,"
+    publishedDateTime: 2020-05-05T16:00:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-to-hackers-break-our-azure-sphere-linux-iot-os-and-earn-up-to-100k/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-to-hackers-break-our-azure-sphere-linux-iot-os-and-earn-up-to-100k/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-hackers-break-our-azure-sphere-linux-iot-os-and-earn-up-to-100k/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 73
 
-secured: "3smwp1TnlqSc+UFBbRxxlu8qFV1iZkCK2Hzm/13eTfK7ws9Kpz+6dKkRo2IKdHTalRit68gRkiJQNb8Acalc6W9J1Uur18uG56OPVojnPq0SqkInt88lOkhr2vnFkjvvp00MCusfY2OOev9h1ZQ7JHpXxiIH5jlWYHsbhF4YFGslWqkMrM+pK/PaWJwCg/+44eaz2tMxeKFe9jHzr6RtZccULvfWcSYrsMCITkSfWBg8zV21AUXIQZJmqvuGh2nVBbsHyZBM7uk+DAS3qPaCWnoyvZMsq38qDgk4pugcUzV72wuQ+/GE8vqLh1Z43EZw;UdTW7uOIZa+OP2qAV/esKw=="
+secured: "Qzu1IU2t1KEZZTjguSP5RxEHSep/iTKdbm4eguCCC8OC0CJ5vIsUK3PuiK+SynIGH2zmqVMCu3qI2/cf3xqgOMcP0ukTjclqNOnlxNOD9drlRKiJOFUgO+Kid1V+1rSkIxG7jfN0GPeKlYiNK3jNqgP8o4GbR03KwhIbfK+luQ6rmWiPIipDkEbBnO6JVjn/gGLrvFOjNYGaiesrZ2XQFZp+mMYqYQt8YfSe7ILXfaoem9iqB+hm/XyUFxEapL9mCt3wrDtxL1NrgTTxo+2sruFu9z1QdtyLG4GzjrMV/bLnZ9tQGOrH0y9J1W6+3wv/ZkOT6pai/JmaUj3nk/UYi32+88tHpHw4Gj4dCWYieXhgF1CfIy+0spQKWCSoXpyW9Vs5Q+di2IC1YKNLXOB2UDN4Q1A++nMWLthXIc2RGos8Z7FSNJU0m5Ym3LYo11jHwd24Z5sAk+dl8e5a4p3lg/s1zrJiNRqwqkDqULCwOrE=;/D2qa8rqzpQmKHj/7DfW0g=="
 ---
 
