@@ -1,22 +1,26 @@
 ---
 category: news
-title: "Microsoft to invest $1 bln in Polish cloud project"
-excerpt: "Microsoft will invest $1 billion in Poland as part of a plan that will involve opening a data centre in the country to provide cloud services to businesses and government institutions, the company said in a statement on Tuesday."
-publishedDateTime: 2020-05-05T09:42:00Z
-webUrl: "https://www.nasdaq.com/articles/microsoft-to-invest-%241-bln-in-polish-cloud-project-2020-05-05"
-ampWebUrl: "https://www.nasdaq.com/articles/microsoft-to-invest-%241-bln-in-polish-cloud-project-2020-05-05?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-to-invest-%241-bln-in-polish-cloud-project-2020-05-05?amp"
+title: "New Zealand to get its own Microsoft Azure region"
+excerpt: "Microsoft has applied for permission from the New Zealand government's Overseas Investment Office to acquire sites to build its first Azure region in the country, the company announced. Storing customer data at rest in New Zealand along with meeting users' security and compliance needs are cited by Microsoft as the drivers for establishing the new region."
+publishedDateTime: 2020-05-06T01:40:00Z
+webUrl: "https://www.itnews.com.au/news/new-zealand-to-get-its-own-microsoft-azure-region-547817"
 type: article
-quality: 62
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: IT News For Australia Business
+  domain: itnews.com.au
 
 topics:
   - Azure
+
+images:
+  - url: "https://i.nextmedia.com.au/News/MS_Azure_regions.png"
+    width: 882
+    height: 432
+    title: "New Zealand to get its own Microsoft Azure region"
 
 related:
   - title: "Microsoft to invest $1 billion in Poland: statement"
@@ -44,6 +48,17 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
+    quality: 62
+  - title: "Microsoft to invest $1 bln in Polish cloud project"
+    excerpt: "Microsoft will invest $1 billion in Poland as part of a plan that will involve opening a data centre in the country to provide cloud services to businesses and government institutions, the company said in a statement on Tuesday."
+    publishedDateTime: 2020-05-05T09:42:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-to-invest-%241-bln-in-polish-cloud-project-2020-05-05"
+    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-to-invest-%241-bln-in-polish-cloud-project-2020-05-05?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-to-invest-%241-bln-in-polish-cloud-project-2020-05-05?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 62
   - title: "Microsoft announces $1 billion investment plan in Poland"
     excerpt: "Microsoft today announced a $1 billion investment plan in Poland. As part of this investment, Microsoft will open a new datacenter region in Poland to support startups, enterprises and government with enterprise-grade cloud services."
@@ -90,19 +105,6 @@ related:
       - url: "https://img.jakpost.net/c/2019/03/23/2019_03_23_68363_1553355661._medium.jpg"
         width: 747
         height: 515
-  - title: "New Zealand to get its own Microsoft Azure region"
-    excerpt: "Microsoft has applied for permission from the New Zealand government's Overseas Investment Office to acquire sites to build its first Azure region in the country, the company announced. Storing customer data at rest in New Zealand along with meeting users' security and compliance needs are cited by Microsoft as the drivers for establishing the new region."
-    publishedDateTime: 2020-05-06T01:40:00Z
-    webUrl: "https://www.itnews.com.au/news/new-zealand-to-get-its-own-microsoft-azure-region-547817"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 37
-    images:
-      - url: "https://i.nextmedia.com.au/News/MS_Azure_regions.png"
-        width: 882
-        height: 432
   - title: "Microsoft lands public cloud in New Zealand with new datacenter region"
     excerpt: "Microsoft plans to establish its first datacenter region in New Zealand, in what it described as \"a major milestone toward delivering enterprise-grade cloud services in the country\"."
     publishedDateTime: 2020-05-05T23:37:00Z
@@ -130,6 +132,6 @@ related:
         width: 1024
         height: 520
 
-secured: "mj1cDellCdEZxAf6VsJqtt21rQQJacUoKlf6WEwW4Sp9aylET/06smCNqpCmdlEFUOdTY7BTqlKM7Hw00zRSwdumzMHfWrtJusimI42Bl1bJ1vbtFNjiJlT8mZ5r6u3K29s8u+tpLV/+kKQqHzmc3v2o5nAs2rz3X1VuNoyK8u4SMFtwouDLFJ1HnUw3D8ILXkHlDSrB7UerTj5FX54ykQt8hedaGuCYHhkSDOCREF9BqQ4l/hoN5hf+2yHlc0awBrKW5wl9dz7cdFJK7UulE6NCgov1e3SZ6RSwPLFVe58VQeRyRiIjR/li9WnAYtEiHeaaH9cZINqI5xpQEdD4mH2e8hI0Fp7HZwyk2fDtp/Fgp1z/3tIMw7DAld7Vgt91pQnKPa7dI4IA/nggnkIIuMtaSFlit7IDKeRxf3KEAFAzwnbbvQaZZP3B9GtMWzZNwFoAH3s5R9Ug57F1vf7pE0XDLn6wMoo97/EbDUz2QoA=;bo/HlbjPE3RA46p6PIEtbg=="
+secured: "UlxSdLXXMzNDhZK32loonjpmp1iaaBZL1HgG6mgeqcPEZGrwxPf8SU990w91y/b0f+5IhCcUv79rvfjRs78vFCk+4a6TceJgnqEVeWGz/xI2icxY4E+lebFV5dDLIFQCJmpLab9M+M2pR30wFx9NIUfPG2UaPK8wYZmh98P+W5yCH/Y7Tn4OFXhzsamCOtx+TswyUX/mC5TEcNssKQcfFe6dqp9t8FnYQQ80tOI9+HC2iHOoL5keavhELwwfZNsEY43/pjVCfJ97Pkae02k0cXiO+iexHvkNKLoQRr9GPPQYE6kVAY03feNXU0u3kXcH;3kj94JtphZhObbibPJCxWg=="
 ---
 
