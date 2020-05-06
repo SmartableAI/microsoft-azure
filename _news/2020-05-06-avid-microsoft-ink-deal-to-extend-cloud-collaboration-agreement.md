@@ -24,6 +24,6 @@ images:
     height: 360
     title: "Avid, Microsoft Ink Deal to Extend Cloud Collaboration Agreement"
 
-secured: "a+DSWU+XyCWYSEt2KobTLDsrEzVwCpLlYDhCsN7+TFdmnysM8qHC2uwdsk2JTFIzZipmaHZmlwHSYnAwEH91Ihjk61h04JXgL08Mdw0UOiu5aadXvQY/ulOSHVYfIm8ItojHPmfdrNqToFA45Zw+j354Lf4FQndTRP/ALNL0Vvzk/v6rv1omXePqPszZIKvru/+aSfSf/QoYugYUCwGO346OqIB9YfqUTjumkQd8CbeWc/jhB3TCks4nzvp+3OIZ0fmhPT3AktLKA8kxHSEdqhhxjFUeJzMAsz19pIMibpGT/aX2MkjqRpwx5Qyfop6z;E6EEzEgrKeX842k6HKMJ/A=="
+secured: "or6+sq1P4KBDc8kiCc1cX4/Vgae9KWFS2wJ/YG5fj8F1OU8kk5nMllSg7Z719GERa4oHEdtsjTx/BiBVtXGQfmlaGwUJDhABJk6qBhLuIgqmVXxy5idPtG+t/wlvTt60SIx+YdAHEVryhI9biXICDfuo0D57MwA5tmICyEm6YVetne3XjSAbx+ZtegfmdbB7ix5SZlcetCKAFEhxJ5NPoZ5tqXaDkTuHfolS+AOgdLdlaYKSTEmOuT2YdyUvJsx6WzWsO+l0+9ZL0CYcsxNHPaVTfcyNYr7jHGUPic/fABlurh6RZ6d7OS0NZtNd4qOeB1DSsmoQUuGo1lAOuf+qcVuNBl00mJogumlhv/4+sIPmOC0H/URmqNNGqneWJaOnxOaQ8fFVv7GG9NpAq+CEMQvjxw7wrtpLyH2edGcSCpud+MEGDCqENkpQUvJ15XbHSvYbwylZhYAtt2PZwN+46tmqExuXu8iR+Cr6qDSVRcc=;WjekNFvkcBG5aPzIcW3CCw=="
 ---
 
