@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-04-microsoft-to-bring-windows-10x-to-laptops-first-pivoting-away-from-dual-screens.md",
+      "title": "Microsoft to bring Windows 10X to laptops first, pivoting away from dual-screens",
+      "excerpt": "Microsoft has officially confirmed that the Windows 10X operating system once intended for only dual-screen devices, will be coming to laptops and tablets, too.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/computing/microsoft-confirms-windows-10-x-single-screen-devices/",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/microsoft-confirms-windows-10-x-single-screen-devices/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-confirms-windows-10-x-single-screen-devices/?amp",
+      "publishedDateTime": "2020-05-04T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/b5398ddb6eed22d586aaa3eaf71ff362-1200x630-c-ar1.91.jpg",
+          "width": 1152,
+          "height": 603,
+          "title": "Microsoft to bring Windows 10X to laptops first, pivoting away from dual-screens",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-cloud-lift-amazon-microsoft-google-apple-and-others-find-a-common-cushion-in-the-crisis.md",
       "title": "Cloud lift: Amazon, Microsoft, Google, Apple and others find a common cushion in the crisis",
       "excerpt": "Amazon CEO Jeff Bezos is advising the company’s shareholders to “take a seat” to prepare for the tech giant’s ambitious spending on COVID-19 initiatives, but if not for Amazon Web Services, they",
@@ -1032,50 +1076,6 @@
       "topics": [
         "Azure",
         "Databases"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-azure-container-registry-mitigating-data-exfiltration-with-dedicated-data-endpoints.md",
-      "title": "Azure Container Registry: Mitigating data exfiltration with dedicated data endpoints",
-      "excerpt": "Azure Container Registry announces dedicated data endpoints, enabling tightly scoped client firewall rules to specific registries, minimizing data exfiltration concerns.\r\n\r\nPulling content from a registry involves two endpoints:\r\n\r\n\r\n\tRegistry endpoint, often referred to as the login URL, used for authentication",
-      "heat": 110,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/azure-container-registry-mitigating-data-exfiltration-with-dedicated-data-endpoints/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-30T03:00:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/65527b4a-84d5-4864-92e5-78da3ecba512.png",
-          "width": 640,
-          "height": 214,
-          "title": "Azure Container Registry: Mitigating data exfiltration with dedicated data endpoints",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
       ]
     }
   ],
