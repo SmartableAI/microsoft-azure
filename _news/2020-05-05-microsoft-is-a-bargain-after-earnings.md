@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Microsoft Is A Bargain After Earnings"
-excerpt: "Microsoft (NASDAQ:MSFT) stock rose 5% after reporting exceptional earnings for the third quarter, which proved the"
-publishedDateTime: 2020-05-05T11:50:00Z
-webUrl: "https://www.nasdaq.com/articles/microsoft-is-a-bargain-after-earnings-2020-05-05"
-ampWebUrl: "https://www.nasdaq.com/articles/microsoft-is-a-bargain-after-earnings-2020-05-05?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-is-a-bargain-after-earnings-2020-05-05?amp"
+excerpt: "MSFT stock soars higher after the company reports exceptional third-quarter earnings thanks to its intelligent cloud segment."
+publishedDateTime: 2020-05-05T10:50:00Z
+webUrl: "https://investorplace.com/2020/05/msft-stock-microsoft-is-a-bargain-after-earnings/"
+ampWebUrl: "https://investorplace.com/2020/05/msft-stock-microsoft-is-a-bargain-after-earnings/amp/"
+cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/05/msft-stock-microsoft-is-a-bargain-after-earnings/amp/"
 type: article
-quality: 62
-heat: 62
+quality: 42
+heat: 42
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: InvestorPlace
+  domain: investorplace.com
 
 topics:
   - Azure
 
-secured: "NkFkJBAfhs8e9XnruzcIfMo2zTT3+8vrPxlROSEOQqIUVXxg9tBt8Q2hX61/WZ6LyVrX13uKqTPi+CCUrLffqmDbexUZNK0ajp8+HBvtzueIpfK4VOwZLYCf+siTppfPuY4lEZO+lYm8ecg9SGwRLg9trJlfZiOLO/OCOH25d6WvH+BgGFMusOBF1HNTCrYKYASRv6aH+1853PiT9aVfNgUcfmvnNy0OiuwSzQll0eusWT0ABC0Ke4peZbHw9t9hMn/0ITHxtVPb5m4cMGUl5BK7E/PxRg0CEu6XDkUX4B+GiZ3iV8+Zrw0/uPEVUWjuvtHCUtiB22FEa4dngE/PRcLg8qg6jVvzck92YSJjCOSDvxOLoJNZgnH0GOxZjjv9ToZ1sNc3pD1I+WXq2ZJ0/XC+To3WSpHiJSfF/5izRGSyDwRLCnPMATbjnz8B/BAqG6MFDTicdMklCFYRb9b/ZnSdXcHGe52SsKdaHkER98c=;VbYXgsoLGTSdF8x6sYL7/g=="
+images:
+  - url: "https://investorplace.com/wp-content/uploads/2019/10/msft1600e-1024x576.jpg"
+    width: 1024
+    height: 576
+    title: "Microsoft Is A Bargain After Earnings"
+
+secured: "aos4kD7oJHHPpHcJZKILTQiJnszEPcYhN1mVPXB5Fc40i4p8gpaVSFum4SfnKOJ2fgGXVh6Fmepqc2eHEw4ArT32N+ing+2v7eTl7BxAkvTRyRUv6TIcyzKJHWyWULSom7RaYP1y7qEXlsGIYI9u6K22QUd6b4rYXk0Wo3Ze0z2h7mxD/2tvM3ivd9PG4jNNyiMLQkM3t0hQ+YNDp6J5Xd+NXln7S6sf5Oxyl52py/rioxt9LZBMa7KFTH5YOlMbub2ZFLWpb6PTbwglNHcWOBSx7Jo86GBAV/tyCAtWO0NfUCV2YHglFEp+EDPhgLyF;S7ohq52EX9pRIMQhhQ14ww=="
 ---
 
