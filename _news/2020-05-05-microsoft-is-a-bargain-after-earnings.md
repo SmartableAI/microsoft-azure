@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Microsoft Is A Bargain After Earnings"
-excerpt: "MSFT stock soars higher after the company reports exceptional third-quarter earnings thanks to its intelligent cloud segment."
-publishedDateTime: 2020-05-05T10:50:00Z
-webUrl: "https://investorplace.com/2020/05/msft-stock-microsoft-is-a-bargain-after-earnings/"
-ampWebUrl: "https://investorplace.com/2020/05/msft-stock-microsoft-is-a-bargain-after-earnings/amp/"
-cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/05/msft-stock-microsoft-is-a-bargain-after-earnings/amp/"
+excerpt: "Microsoft (NASDAQ:MSFT) stock rose 5% after reporting exceptional earnings for the third quarter, which proved the"
+publishedDateTime: 2020-05-05T11:50:00Z
+webUrl: "https://www.nasdaq.com/articles/microsoft-is-a-bargain-after-earnings-2020-05-05"
+ampWebUrl: "https://www.nasdaq.com/articles/microsoft-is-a-bargain-after-earnings-2020-05-05?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-is-a-bargain-after-earnings-2020-05-05?amp"
 type: article
-quality: 42
-heat: 42
+quality: 62
+heat: 62
 published: false
 
 provider:
-  name: InvestorPlace
-  domain: investorplace.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Azure
 
-images:
-  - url: "https://investorplace.com/wp-content/uploads/2019/10/msft1600e-1024x576.jpg"
-    width: 1024
-    height: 576
-    title: "Microsoft Is A Bargain After Earnings"
-
-secured: "10l7hUhG1fDWjptN2qRd6cBlVVkVorEI2L30qwIqv3kKmgtX8kw1Du5dES2lRRKskf4sg+XJB4xw7J3ApO0/868GW/yNTJy0gP8kKEsUYP7iGTXKHIAZD6NpW1vhlfPWjFb1TeOIOpC7g2wID4jiaObqG5NZ9/um8mePsbFwWu4yrsiuZD/C/DvZbefYxMYcwJG6tEZzPnpcm8g3pO5ciG0qa0xS7n7tXkWt/TVFe4qk+icdq/Sk8AcdBylZEr4ZfXFhQ6oYPVsMyTLiHLckGM7jtc1VTqNO6EQWLqxcNJnRZjXCQchDfiNTceol6ziobE984CsZfz3DqPlYXkLbkaUOv0rTeHxMsEokF/TBp6OuUyCOgblAqgGfiDdEuMn0WSq5s5Wj/wC3l+TrW8NUiUTyskj15W+4h/InJsk2+h51E9//XnQbtv1BN/DUFFC62Y0bpO5PfbAiptaBstNOzvYezlRSSnC2s/SXNTXEmjk=;zB3IcvNBl1zjNpuj4BBBqA=="
+secured: "ITKMX6cjYLjtgeR6Z1HtDLcNlmGO1vrqCSZuHCBMt2mqk/sdmzuwIPgDvf8kznhIMuy8TJhMFIJKvIiX93vnW8LfeuswMFs1QHcCHxz4TRd67jLxAZ9BjJs+wW+jgncuEZgWZaVKBkag2c7OBbsTRO2h3rcUiGHpIqh7IOvpTA7rkDHdLhyvg8AyuGz66w1KYJbQ1fp77JQZIe/ehJIKtY22dcGUjJZ3DcZ9WsinSNeOyAi7+bQuypLvwwDKZ0VzgW4mKBvMiSgRntL0AiKSu4NSACo9WZ/LS+WlBksGEcbs6oqGPlUK5aLGfJU8bN/1JvdWfYTMdxp+A5Cv/7wuM0ms71rsZlTuBrRqLZDT1skrNLC0kp+EIYE9Nt0l8i6nO92oLbevEL16McNJWy8HthcCQGBVSYpccV32Ab9AYCHlHhrkC36XFkQZBgw5v2lh9QfKs/myZ/TsEDikYCX+HiITp+P1idBtbFt5PggxNhI=;LJKEF//nVkpUA5gmGOGFOg=="
 ---
 
