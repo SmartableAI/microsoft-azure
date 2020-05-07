@@ -24,9 +24,9 @@ images:
 
 related:
   - title: "Avid Announces New Five-Year Agreement with Microsoft Azure to Bring More Media Companies to the Cloud"
-    excerpt: "Leading media and entertainment technology provider Avid (R) (Nasdaq: AVID) today announced it has renewed its cloud collaboration with Microsoft. Over the course of the new five-year strategic alliance agreement Avid will continue to develop and deploy its cloud-based solutions on Microsoft Azure."
-    publishedDateTime: 2020-05-04T20:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/avid-announces-new-five-year-agreement-with-microsoft-azure-to-bring-more-media-companies-to-the-cloud-2020-05-04-16184562"
+    excerpt: "Leading media and entertainment technology provider Avid (Nasdaq: AVID) today announced it has renewed its cloud collaboration with Microsoft. Over the course of the new five-year"
+    publishedDateTime: 2020-05-04T20:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/avid-announces-new-five-year-agreement-with-microsoft-azure-to-bring-more-media-companies-to-the-cloud-2020-05-04"
     type: article
     provider:
       name: MarketWatch
