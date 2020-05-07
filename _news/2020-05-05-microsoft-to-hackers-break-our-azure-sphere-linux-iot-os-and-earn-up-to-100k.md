@@ -38,6 +38,21 @@ related:
       - url: "https://media.itpro.co.uk//image/upload/v1588785400/itpro/AS.png"
         width: 902
         height: 602
+  - title: "Microsoft offers bug hunters $100K to hack its Linux smart home software"
+    excerpt: "Researchers have three months to find problems in the software for net-connected devices like baby monitors and refrigerators."
+    publishedDateTime: 2020-05-07T16:04:00Z
+    webUrl: "https://www.cnet.com/news/microsoft-offers-bug-hunters-100k-to-hack-its-linux-smart-home-software/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-offers-bug-hunters-100k-to-hack-its-linux-smart-home-software/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-offers-bug-hunters-100k-to-hack-its-linux-smart-home-software/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 81
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/iF1uhBUrlwnFFy_E2G17d1LEm-c=/756x567/2017/10/02/5e7fdcb8-e585-47dd-b13c-93d21b4e4d9e/security-privacy-hackers-locks-key-6749.jpg"
+        width: 756
+        height: 567
   - title: "Microsoft Azure Sphere Security Research Challenge offers $100K bounty"
     excerpt: "Microsoft has announced a $100,000 bounty for bug hunters who are able to discover specific vulnerabilities in two new areas of the company’s Azure Sphere."
     publishedDateTime: 2020-05-06T16:01:00Z
