@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-08T00:20:00Z
 webUrl: "https://siliconangle.com/2020/05/07/aws-files-another-protest-jedi-cloud-computing-contract-award/"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,21 @@ images:
     height: 521
     title: "AWS files another protest over JEDI cloud computing contract award"
 
-secured: "nkqBUUIWS9YJxuWULfo5zzP/mm06GKPSwsxTVyHalmKJtiZrWJYJyT4MGO6UGno4obhCMSTiQA7/4KPJdD2xO7av4yITyKeqRU7L4+6sEWdFxMhRzJ0I2SKZcWJfbBY6DgGnHxfH+TB2tkTyiHHX7MKnHPhYe9GComdsJSUDZMwRFe37USZFPS2CfzhabPwzev3LTWWugUjb99mFC0BYVub7vbgucun6O/1c4DPZ/81xjLuw49wijltxqwXumeFd/9mNjNu9R8sFVrIuZ+zheuLy7UEdPtwmwk4ilgPyekWuPzJ7qiR1RguqkTcSZq0I;wb4/USBsA8+Rt0nQN8Fk8w=="
+related:
+  - title: "Amazon Files Another Protest Over JEDI Contract"
+    excerpt: "Microsoft responds by blasting Amazon Web Services for trying to force a do-over for the multibillion-dollar cloud contract."
+    publishedDateTime: 2020-05-08T03:25:00Z
+    webUrl: "https://www.nextgov.com/it-modernization/2020/05/amazon-files-another-protest-over-jedi-contract/165243/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 22
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/05/07/NGcloud20200507/open-graph.jpg"
+        width: 400
+        height: 400
+
+secured: "/WrVbwLq6ehc+0BetsT46Gd6REge2qMtJXZ2VJGZXfTS4lw25+tXbOTQD2X17GBMdJxm9FIQLealawlGEPD8oGD2wG8fkRL/2yRhNUlzCQkj4pci0k76SnNis0xhXFy/rdYF/0WVidJUlHQIru9YbnEX2rXu7cI1OiV8Lckv9DT4GvJB+kM1/8VcfZ3ZFjQY16SdRfXYQCtzuqvnISLpsK8QprkGrbbYUfPfWuFM5RCw9fo02766dG5ZWXa1z2w2MsqrJfXyf5AyznSWJkrnkYPJTcvFmneGaINDmqbZ77ERbjsH8P9SlM3Or/ZzE/CfbePl4UoFZEZ+EkcxHrGA/UKFkWPocYP/N2ZmLnqOGQ0cVKSWOHKvXCRTQRPaWN08VfhmbcwXErAbqrSwVJHuQHHzhm1iz6+5l/s1SFMhOyMX1lK9Q4wjYoQJeIZ8FTdINWpOAstAmNbZty3SPp24BMap/nzEa7sEoI5zTFwhtCs=;RsK1pn0XwxA6GuwwiMmTrw=="
 ---
 

@@ -56,7 +56,7 @@ related:
   - title: "Amazon Files New Protest Over Pentagon's $10B JEDI Deal"
     excerpt: "Amazon has filed a protest with the U.S. Department of Defense over the contentious $10 billion JEDI cloud computing deal, saying Thursday that the DOD had refused to answer questions about ambiguities in the solicitation."
     publishedDateTime: 2020-05-08T01:09:00Z
-    webUrl: "https://www.law360.com/articles/1271571/amazon-files-new-protest-over-pentagon-s-10b-jedi-deal"
+    webUrl: "https://www.law360.com/articles/1271571"
     ampWebUrl: "https://www.law360.com/amp/articles/1271571"
     cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1271571"
     type: article
