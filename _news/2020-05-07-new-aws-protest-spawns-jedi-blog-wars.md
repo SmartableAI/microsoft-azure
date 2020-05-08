@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-07T23:40:00Z
 webUrl: "https://fcw.com/articles/2020/05/07/aws-dod-agency-protest-blog-wars.aspx?admgarea=TC_Management"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -22,21 +22,6 @@ images:
     height: 368
     title: "New AWS protest spawns JEDI blog wars"
 
-related:
-  - title: "Microsoft says Amazon has filed a new protest 'out of view of the public' over the $10 billion JEDI cloud computing contract"
-    excerpt: "A Pentagon investigation recently cleared Microsoft's victory, despite Amazon's claim that President Trump unfairly interfered in the process."
-    publishedDateTime: 2020-05-07T20:46:00Z
-    webUrl: "https://www.businessinsider.com/amazon-microsoft-jedi-pentagon-cloud-computing-protest-2020-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
-    images:
-      - url: "https://i.insider.com/5eb32c9042278d19492e26ec?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-
-secured: "Ssf3MccjgXwKC1qJ3gWWaGqTNRR7AU53EGkkq2Wo13Pl0MqOB8Zz24xd4eWRSKeG00FAlUksavXbdjCAiGmfnEsP3yBqzoZL5TnEufYbek0iodwuu+kBjWy65CeQ63jEDy9y3qGAMKL8ixjfuNlFHvAvzuWpyXt8XYwLns2oXoUmqLo7jw/KjJ42sCGEuAaNAnDompEyNZ0Fj5R6gt/sQIDzpK5c6JSCl2/SP1WxOEWYAWB8tojVJkzm3W5IwL2NTcvaspAIs+PM2QNuRSrXu/+F02Yz4//tSpcVR6wDq1EGn+GRF+zkPWuRZUdGUAJc;HJeJE2R/SH+I22F3VhTzNw=="
+secured: "DEqANCePneyqe0R1Hpb35yRMr7MVyfdtQXHiB8jFc5sugE/GDq1vqk7jzwdMCFid2qSHt5Qc/d9sP+k5KOzSZ+EMJ80NNIfE+GP/WXPv8njBrWq5DP/yZgwKGIietvAOvH01cW6Ab5cHLfGPSnIIY/BAmpPM9CSuXedA2LkhoBA+AT99JHMJZytTLYhnaBNPoR5mnxi8xnbsmOXy2c+vK21U72WO84iQSoTzSdCtnuw7YyYQnMtFp9oPIY6ZtRCPbYl+RdHVRr/MHKeCfLVGCUS3PMC7/JIuk0+MtaCQN1hXQl5pEpkIDztWqA4eZjr/C3zyR5tNryWwH7j2f1RBMZDJ5aHrGuG/a+8CofUsokCpBF+U6Ufo+Yr/6HhV4JuaOqmbj+C5soqCu4DH74/NGqm+4UYLhuVSJNFz1H04dVOabB19Q4RhaHGMn80l/IWOpcC+TZU780kqkyXqZxDJ9rUqRTmPLQSPQWdFk9zjAYY=;SiJRc9Q/rOJRJ64M+xyQwA=="
 ---
 

@@ -53,6 +53,17 @@ related:
       - url: "https://mspoweruser.com/wp-content/uploads/2019/10/109411443_gettyimages-853699560.jpg"
         width: 660
         height: 371
+  - title: "Amazon Files New Protest Over Pentagon's $10B JEDI Deal"
+    excerpt: "Amazon has filed a protest with the U.S. Department of Defense over the contentious $10 billion JEDI cloud computing deal, saying Thursday that the DOD had refused to answer questions about ambiguities in the solicitation."
+    publishedDateTime: 2020-05-08T01:09:00Z
+    webUrl: "https://www.law360.com/articles/1271571/amazon-files-new-protest-over-pentagon-s-10b-jedi-deal"
+    ampWebUrl: "https://www.law360.com/amp/articles/1271571"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1271571"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 22
   - title: "Amazon challenges the Pentagon’s revised JEDI solicitation directly to the department"
     excerpt: "Amazon Web Services filed a bid protest directly to the Department of Defense challenging “ambiguous aspects” of the Pentagon’s revised solicitation for its embattled enterprise cloud contract. AWS’ challenge is in response to a revised solicitation from DoD regarding a specific technical requirement of the Joint Enterprise Defense Infrastructure cloud contract that AWS had challenged."
     publishedDateTime: 2020-05-07T22:19:00Z
@@ -67,6 +78,6 @@ related:
         width: 1200
         height: 630
 
-secured: "1gzdCKkwCPGPUm3JvgBcwFrWu3sutB9hfebHnB1vV9F7EjIan4W1WbkVofjqdtvSXH3mwxodC7LNvnhxLXJBWH2gLp/SDIZqvJccQBgyPQE+eTwjkI4moyPNMP726mijcATT4SMVgvMPDEqWgajmTxIL63/krW82kSST58odDEt3nKicOQT+QGsgOCENmH2LPrbPYNaBZuT8Wu3MHInN3nmAOgYtnOM8E1pkC9Hc+n6SyWFkM5Br4A2aLCTIkfDk6FUjTY7he4NoHx14RjW8xLnYp4l04bKMPp+UhJTA0hL2h46nANDHKsxDkBpMvMpB;NB4t8Q6DPPmneXQ9/yS+iw=="
+secured: "Kv/4twTp0J9/S7qN2v7EE8p0Xxo7IYXyICdMN4xR4SHA1jqe0wlS/z34+JMBEIuVOkPsU5fXnqkQjjLMHigHELqLKiVygvisyFZXAvwhSu7iWvYpAKAufNW3Tsc339B0P5HOmkZwBDtwAKTJT4/JqMpW1yONrovA8fRI1PT4+bsCS0NSdS0wHhZEWBiqNqd9kOK3F1m3SHOyDSyzBRPPAIfKc+ZBeVoDRsfGTQbNkmpiNSg2q11qmuzfpuDnrj3Yp6e30DYvgko/B6Xl+WwHxhLyajrYra8Vh7dVV47H3E0bXKsSvkvF+V2C2bnnus3nx1N+E8t+bTfBV38ko4Fce23ZhhgYepvaC+HYuu4OPkX++jxVEB9XQLhQ+K5oLjIhLIHW0r/kedjCFhzsApizzHWkqLhvXPbCPeWddJ4qSQi/+zPlD8zsBu0sCumxIKZQn1xAGlylTuXi4MWmypvr04e9tI6EKMSzrKXkiveJJGs=;r5h3uSSz1M4ZFS+P5XfpPA=="
 ---
 

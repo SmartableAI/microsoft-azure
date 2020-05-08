@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Amazon launched another JEDI contract complaint to DOD, and Microsoft responds"
-excerpt: "In a blog post, Frank X. Shaw, Microsoft Corporate Vice President, Communications, revealed that Amazon has launched another bid to prevent Microsoft from fulfilling the Pentagon’s JEDI contract, which would update the Department of Defences’s IT services to a modern cloud-based back-end."
-publishedDateTime: 2020-05-07T22:24:00Z
-webUrl: "https://mspoweruser.com/amazon-launched-another-jedi-contract-complaint-to-dod-and-microsoft-responds/"
-ampWebUrl: "https://mspoweruser.com/amazon-launched-another-jedi-contract-complaint-to-dod-and-microsoft-responds/amp/"
-cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/amazon-launched-another-jedi-contract-complaint-to-dod-and-microsoft-responds/amp/"
+title: "Amazon Files New Protest Over Pentagon's $10B JEDI Deal"
+excerpt: "Amazon has filed a protest with the U.S. Department of Defense over the contentious $10 billion JEDI cloud computing deal, saying Thursday that the DOD had refused to answer questions about ambiguities in the solicitation."
+publishedDateTime: 2020-05-08T01:09:00Z
+webUrl: "https://www.law360.com/articles/1271571/amazon-files-new-protest-over-pentagon-s-10b-jedi-deal"
+ampWebUrl: "https://www.law360.com/amp/articles/1271571"
+cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1271571"
 type: article
-quality: 38
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: MSPoweruser
-  domain: mspoweruser.com
+  name: Law360
+  domain: law360.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://mspoweruser.com/wp-content/uploads/2019/10/109411443_gettyimages-853699560.jpg"
-    width: 660
-    height: 371
-    title: "Amazon launched another JEDI contract complaint to DOD, and Microsoft responds"
 
 related:
   - title: "Microsoft slams Amazon’s latest protest over Pentagon cloud contract as ‘a way to avoid the consequences of its own bad business decisions’"
@@ -40,17 +34,21 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2019/11/microsoft-630x473.jpg"
         width: 630
         height: 473
-  - title: "Amazon Files New Protest Over Pentagon's $10B JEDI Deal"
-    excerpt: "Amazon has filed a protest with the U.S. Department of Defense over the contentious $10 billion JEDI cloud computing deal, saying Thursday that the DOD had refused to answer questions about ambiguities in the solicitation."
-    publishedDateTime: 2020-05-08T01:09:00Z
-    webUrl: "https://www.law360.com/articles/1271571/amazon-files-new-protest-over-pentagon-s-10b-jedi-deal"
-    ampWebUrl: "https://www.law360.com/amp/articles/1271571"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1271571"
+  - title: "Amazon launched another JEDI contract complaint to DOD, and Microsoft responds"
+    excerpt: "In a blog post, Frank X. Shaw, Microsoft Corporate Vice President, Communications, revealed that Amazon has launched another bid to prevent Microsoft from fulfilling the Pentagon’s JEDI contract, which would update the Department of Defences’s IT services to a modern cloud-based back-end."
+    publishedDateTime: 2020-05-07T22:24:00Z
+    webUrl: "https://mspoweruser.com/amazon-launched-another-jedi-contract-complaint-to-dod-and-microsoft-responds/"
+    ampWebUrl: "https://mspoweruser.com/amazon-launched-another-jedi-contract-complaint-to-dod-and-microsoft-responds/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/amazon-launched-another-jedi-contract-complaint-to-dod-and-microsoft-responds/amp/"
     type: article
     provider:
-      name: Law360
-      domain: law360.com
-    quality: 22
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 38
+    images:
+      - url: "https://mspoweruser.com/wp-content/uploads/2019/10/109411443_gettyimages-853699560.jpg"
+        width: 660
+        height: 371
   - title: "Amazon files another JEDI protest — this time against Pentagon’s corrective action"
     excerpt: "Amazon has doubled down in its protest of the Joint Enterprise Defense Infrastructure (JEDI) cloud contract. The company filed a second, concurrent bid protest this week directly with the Department of Defense asking for more clarity around the corrective action it has proposed taking on the JEDI contract."
     publishedDateTime: 2020-05-07T23:04:00Z
@@ -78,6 +76,6 @@ related:
         width: 1200
         height: 630
 
-secured: "9bIUh6lK5louTmklQ66HiqzpIZqf5WLUO1oWOJyQBxwKxwpUwulebPuKxZeXPp8PtFq5eBvwRVcjMNB3Gj+ekEAWck1/A1LSWfQ1y3N6ynCVVABZAcYUybiwTS+Xt62LqVTwn0h2BV8V5Wa0ZGEp3BQtJ8ZcBQuv/bqfbv4R6eRYhbzOwgkLOjfLxLwA5kE0xenXjQwxrsHF1QcpiIiV1JUaql/LEdss0hAsrRGYixWJEkdMHckmJJKkdejGPW5mgacaTogBXVeqCDnDShXOw9zVi/KxlTCxge6HxemP4T9gNKQ0Byn9+PNX6zZdJHjsXSa5sn3zTYDLtNgEia0pQTkf+q2UfxKTuh/WKL9Ij6tNfw6fRxxSMkXTE6FRqDAMsc20dLdapJXOpP8Wfh6mYXzS9nKjQz3fmLv9taStN8fLjw2jlgHg0Mg8AXNLR7KNaOdY9YTsjmnDmO0hXdsn0hSX3P38KlmG5poR3hmn4jE=;J3s4Ba/V6ftf8jijPxxSRQ=="
+secured: "U6nix2iS/Gcycj5/fHKcWPgirnJKeT+bmr9bmMVUkLGZZOE5bRzeUWFjpZrFK38Cgpc43LWX39XyPDLsQItJblbDK0gw8P70qAc/X4gHTdChKwChhi1n9Yq74/60yNp5+1Vaufub2KHXu1ov/J3DtRYpuRY84xlnAK8ELxQm5fCB8Hc8gpLq+ZJHeUjWNTM3VbQnnum5LAxDKlzgk1DQzhKtM8FKJ6KCV2MeALll/uLEpM2HVjORQ0PlGTfOKJYokGEpXMem0SXHnuEz8ZNuG92d0pC+ZKKPChp73FugHivbH8Y0FdWuaoXYCMyddabY;FmtQYZIdpCYkHR4yWnGLCw=="
 ---
 
