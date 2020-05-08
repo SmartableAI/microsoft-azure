@@ -3,7 +3,7 @@ category: news
 title: "Amazon Files New Protest Over Pentagon's $10B JEDI Deal"
 excerpt: "Amazon has filed a protest with the U.S. Department of Defense over the contentious $10 billion JEDI cloud computing deal, saying Thursday that the DOD had refused to answer questions about ambiguities in the solicitation."
 publishedDateTime: 2020-05-08T01:09:00Z
-webUrl: "https://www.law360.com/articles/1271571"
+webUrl: "https://www.law360.com/articles/1271571/amazon-files-new-protest-over-pentagon-s-10b-jedi-deal"
 ampWebUrl: "https://www.law360.com/amp/articles/1271571"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1271571"
 type: article
@@ -76,6 +76,6 @@ related:
         width: 1200
         height: 630
 
-secured: "NB9+rFPdKsfL59fB0WlPOagJ6ZotJeKugHPFEOvKxn7ERf7WLpJgujJKTw3ht8G27b09NxXPBqfwCU2wNO9XeQac6F/bDZ/he87H99mu7QNQAXfD1NjyJNqCpXyMFn1mDGizCaqZjmA6DfAZIkEg4EiO0un9B6eK40RoVyGyoR90QKfy7Bd91iumHikAiratV0B2coq1ENXQhKpgCeHScPLKJqPM3xxeC2v51OPItpNoK5ui9bJJurHaScxyCec5qUp+1K9tfpyQAnGryxiFRLlV5mz5cfO5NZkyEQfTkIk1Cc6y26Tiq2J77HGO45n/;VcLufSh5fjmXHQoc2K4Wgw=="
+secured: "rs4tZuuFDp+yp95xHA1NBImLD62TAino4eiSoXRr6r+i9IRdf9P3ysFxkF+BM9hRaJse8t2OfEdcUFaPtvxJwyM1j0fX9d6/KQFFeMQzHlacIvRDo/gB8KL82GqFsf0Io68zKTmt2Bqww9sQdx8mc+JO0GSCVVD/Gwk/iq/2SCeJExaTk68mpb6sTr74ZQeCQ2oyrvwBgCnqf1mjkt8QPu8qImG8Jel/1NStJc3Qf6hOXK5xcOp2qbmtsyh2yROrNpeuHk5S2h2a4m2zBlBeAcyHqwHfA9vDnAH1UOv9g8DSGfUI2JpTTQJlhXk8JUQ8;PGwuPMnxw6GjJ709Ep9M/A=="
 ---
 

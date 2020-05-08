@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Microsoft claims AWS has used new JEDI mind trick with secret contract objection filing"
-excerpt: "Amazon.com has filed a second, secret, appeal at the decision to award Microsoft the $10bn Pentagon Joint Enterprise Defense Infrastructure (JEDI) contract. So says Microsoft corp"
-publishedDateTime: 2020-05-08T09:07:00Z
-webUrl: "https://www.theregister.co.uk/2020/05/08/new_jedi_contract_objection/"
-ampWebUrl: "https://www.theregister.co.uk/AMP/2020/05/08/new_jedi_contract_objection/"
-cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/08/new_jedi_contract_objection/"
+title: "Amazon files new protest over ‘fatally flawed’ JEDI cloud computing contract award"
+excerpt: "In an increasingly sharp war of words and legal maneuvers, Amazon Web Services Inc. is stepping up its protest of the Joint Enterprise Defense Infrastructure cloud contract award, asking the U.S. Department of Defense for more clarity around corrective action it has proposed taking."
+publishedDateTime: 2020-05-08T12:17:00Z
+webUrl: "https://siliconangle.com/2020/05/08/amazon-files-new-protest-fatally-flawed-jedi-cloud-computing-contract-award/"
 type: article
-quality: 34
+quality: 16
 heat: -1
 published: false
 
 provider:
-  name: The Register
-  domain: theregister.co.uk
+  name: SiliconANGLE
+  domain: siliconangle.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://regmedia.co.uk/2017/12/19/lightsaber.jpg"
-    width: 648
-    height: 432
-    title: "Microsoft claims AWS has used new JEDI mind trick with secret contract objection filing"
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/pentagon-720022_1280-AutoGirl-Pixabay.jpg"
+    width: 1280
+    height: 1280
+    title: "Amazon files new protest over ‘fatally flawed’ JEDI cloud computing contract award"
 
 related:
   - title: "AWS files another JEDI complaint against Microsoft"
@@ -70,20 +68,22 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/88UejibhsWKbhFSpfr62oA-1200-80.jpg"
         width: 1000
         height: 668
-  - title: "Amazon files new protest over ‘fatally flawed’ JEDI cloud computing contract award"
-    excerpt: "In an increasingly sharp war of words and legal maneuvers, Amazon Web Services Inc. is stepping up its protest of the Joint Enterprise Defense Infrastructure cloud contract award, asking the U.S. Department of Defense for more clarity around corrective action it has proposed taking."
-    publishedDateTime: 2020-05-08T12:17:00Z
-    webUrl: "https://siliconangle.com/2020/05/08/amazon-files-new-protest-fatally-flawed-jedi-cloud-computing-contract-award/"
+  - title: "Microsoft claims AWS has used new JEDI mind trick with secret contract objection filing"
+    excerpt: "Amazon.com has filed a second, secret, appeal at the decision to award Microsoft the $10bn Pentagon Joint Enterprise Defense Infrastructure (JEDI) contract. So says Microsoft corp"
+    publishedDateTime: 2020-05-08T09:07:00Z
+    webUrl: "https://www.theregister.co.uk/2020/05/08/new_jedi_contract_objection/"
+    ampWebUrl: "https://www.theregister.co.uk/AMP/2020/05/08/new_jedi_contract_objection/"
+    cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/08/new_jedi_contract_objection/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 16
+      name: The Register
+      domain: theregister.co.uk
+    quality: 34
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/pentagon-720022_1280-AutoGirl-Pixabay.jpg"
-        width: 1280
-        height: 1280
+      - url: "https://regmedia.co.uk/2017/12/19/lightsaber.jpg"
+        width: 648
+        height: 432
 
-secured: "mXXhFhl58aAoEmaUieKkGvzUU/NdUtnFCMb53f0uOS3hg433uZMukC50Dk3Iia6L+1CF2dO1RtBwBrQIm2OuSUtQT0dlprxWZgWt0sruXdOkCDkgnFnpHoljVoGO7XEQgKTKOytUbrjmDpQv4QrmjMuuFOLNXWnGf+LnMF46tjuvSUP6LH4CCoZswAazTrrbWku8SfG77MneJ0a1cabj5lAMI3lQNWe1wKFs+fNrLd2QAFYy3D8I0xavoL5+iNTe/lBc+d6RieI9A6kYDNiQfJ4jROefSFDi+/1tf9AXdRmXmfw/+m5Tpnb7wwT6fPYuEBuLfw0qR98zXIpK7yemySFLFWs48WxkKVYYBIp1yYpE8dA0QPD6FkOQuxpUpiuGvKKRpSoFD/p83fcElLXijLjtVXQpVma8iWb5EQrph5EeCRCGy1u8saCral3sVpIznLrQ3b0OTmbMNLXmryYxaL8Faifuo7ijCvY775BORJ8=;tJNezxlipxxwg/I6Em2Xrg=="
+secured: "7ylgy69PZApiUBXoL2+I0hJ+9awv6Ah1uzZPNqcLOBEPguJcvjOAeL8BOTnwZIl0Ar/ZURwbMldOxr9140b0jqEg/6WMN0TqHpc/XfbDUXuEd9IP+X9YP/w5Ol1GoYVkV50iaN9lPPEkWFIdoeJLOPbvUdgWAeTEqxvOat1fHq7ix8Lm1oFSmwhBe2ZKW8oifHK76H45VZfp0evhjwrLJl1822OqcYXqpQdAz7xfETpm70oIU7V16FL9JXXpFmyRcrYJqqGDXa2jI/IdagqmNBYjagyKEAsosPFLZHjZar3CiT8SWghla3LbB5oqNNrc;2d12f5/VMsTQshvWDwIsDQ=="
 ---
 
