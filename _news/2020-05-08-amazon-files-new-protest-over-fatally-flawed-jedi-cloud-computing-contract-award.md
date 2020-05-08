@@ -38,21 +38,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/utLgVZfGNmPcqfsQrX5XMh-1200-80.jpg"
         width: 970
         height: 545
-  - title: "Microsoft and AWS exchange poisoned pen blog posts in latest Pentagon JEDI contract spat"
-    excerpt: "Microsoft and Amazon are at it again as the fight for the Defense Department JEDI contract continues. In a recent series of increasingly acerbic pronouncements, the two companies continue their ongoing spat over the $10 billion,"
-    publishedDateTime: 2020-05-08T13:20:00Z
-    webUrl: "https://techcrunch.com/2020/05/08/microsoft-and-aws-exchange-poisoned-pen-blog-posts-in-latest-pentagon-jedi-contract-spat/"
-    ampWebUrl: "https://techcrunch.com/2020/05/08/microsoft-and-aws-exchange-poisoned-pen-blog-posts-in-latest-pentagon-jedi-contract-spat/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/08/microsoft-and-aws-exchange-poisoned-pen-blog-posts-in-latest-pentagon-jedi-contract-spat/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 73
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1073698070.jpg?w=1024"
-        width: 1024
-        height: 682
   - title: "AWS files another appeal against Microsoft's JEDI win"
     excerpt: "Amazon is still chasing the now infamous JEDI cloud contract - this time around asking the US Department of Defence (DoD) for clarity around the recent Court of Federal Claims ruling. The Joint Enterprise Defence Infrastructure (JEDI) contract is a US government cloud project designed to deliver an upgrade to the Pentagon's IT operations."
     publishedDateTime: 2020-05-08T11:00:00Z
@@ -84,6 +69,6 @@ related:
         width: 648
         height: 432
 
-secured: "7ylgy69PZApiUBXoL2+I0hJ+9awv6Ah1uzZPNqcLOBEPguJcvjOAeL8BOTnwZIl0Ar/ZURwbMldOxr9140b0jqEg/6WMN0TqHpc/XfbDUXuEd9IP+X9YP/w5Ol1GoYVkV50iaN9lPPEkWFIdoeJLOPbvUdgWAeTEqxvOat1fHq7ix8Lm1oFSmwhBe2ZKW8oifHK76H45VZfp0evhjwrLJl1822OqcYXqpQdAz7xfETpm70oIU7V16FL9JXXpFmyRcrYJqqGDXa2jI/IdagqmNBYjagyKEAsosPFLZHjZar3CiT8SWghla3LbB5oqNNrc;2d12f5/VMsTQshvWDwIsDQ=="
+secured: "Q2+XC/IeliCyuWvO4s9PpswhMjl/TxcDwUVqmiX6PZeNM9+FOtn4L/iDmlZakRNc2B11YVqpKLrwCtd/kvMIPWFAmOKcPK2WaGxMT3jTOC1DkWXGXG8YvRtvp7zgN7McOx50JLAUpvpzVIZ9ytEyUSor1FsQbh07Oq78tcZpidThuvFs6/4pdsjLCDVKZZH1lXPzysuAlf2o6T4jsSz6Wwmil3Wy+dEmpwEcrL5T32TacWj9YfJ8ABih9ADNbhzGuA+DOXm6LStsX8DMBgFbIuHbhePMtk91Guxus8R1Ejm6lBxl7jOuT71AONe3g6yU9T1TkDD3YMf+/MAKw/Jr8DzpQuSeZCf/TzG2mGNqHFmb4wtgS8jcQmDO1uhexKqqjOfWVM1gGG0aK0Fz5fMW+D4jPUSqAlGsWZgu5s4y5oYKV8XLe5ZGruMZoTlvEGUo1RAi2ET6wFUGaY+vgx0ZnYk9V2iYCwKow5iDCn0yuJU=;tdAM09g/NjMHRtXuG313Uw=="
 ---
 

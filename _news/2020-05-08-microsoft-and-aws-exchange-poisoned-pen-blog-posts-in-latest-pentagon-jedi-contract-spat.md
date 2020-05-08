@@ -29,65 +29,22 @@ images:
     title: "Microsoft and AWS exchange poisoned pen blog posts in latest Pentagon JEDI contract spat"
 
 related:
-  - title: "AWS files another JEDI complaint against Microsoft"
-    excerpt: "Amazon Web Services (AWS) has mounted yet another appeal against the US government’s decision to award Microsoft the $10 billion Pentagon cloud contract, known as JEDI. Despite an earlier investigation into the procurement process finding no evidence of coercion or interference by US President Donald Trump,"
-    publishedDateTime: 2020-05-08T10:55:00Z
-    webUrl: "https://www.techradar.com/au/news/aws-files-another-jedi-complaint-against-microsoft"
-    ampWebUrl: "https://www.techradar.com/au/amp/news/aws-files-another-jedi-complaint-against-microsoft"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/aws-files-another-jedi-complaint-against-microsoft"
+  - title: "Amazon and Microsoft are trash talking each other over a DoD contract"
+    excerpt: "Amazon claims that Microsoft was only awarded the $10 billion JEDI contract by the DoD due to political pressure. Microsoft is fighting back, though."
+    publishedDateTime: 2020-05-08T15:48:00Z
+    webUrl: "https://www.engadget.com/amazon-microsoft-jedi-fight-154208730.html"
+    ampWebUrl: "https://www.engadget.com/amp/amazon-microsoft-jedi-fight-154208730.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/amazon-microsoft-jedi-fight-154208730.html"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
+      name: Engadget
+      domain: engadget.com
     quality: 82
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/utLgVZfGNmPcqfsQrX5XMh-1200-80.jpg"
-        width: 970
-        height: 545
-  - title: "AWS files another appeal against Microsoft's JEDI win"
-    excerpt: "Amazon is still chasing the now infamous JEDI cloud contract - this time around asking the US Department of Defence (DoD) for clarity around the recent Court of Federal Claims ruling. The Joint Enterprise Defence Infrastructure (JEDI) contract is a US government cloud project designed to deliver an upgrade to the Pentagon's IT operations."
-    publishedDateTime: 2020-05-08T11:00:00Z
-    webUrl: "https://www.itproportal.com/news/aws-files-another-complaint-againt-microsofts-jedi-win/"
-    ampWebUrl: "https://www.itproportal.com/amp/news/aws-files-another-complaint-againt-microsofts-jedi-win/"
-    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/aws-files-another-complaint-againt-microsofts-jedi-win/"
-    type: article
-    provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 42
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/88UejibhsWKbhFSpfr62oA-1200-80.jpg"
-        width: 1000
-        height: 668
-  - title: "Microsoft claims AWS has used new JEDI mind trick with secret contract objection filing"
-    excerpt: "Amazon.com has filed a second, secret, appeal at the decision to award Microsoft the $10bn Pentagon Joint Enterprise Defense Infrastructure (JEDI) contract. So says Microsoft corp"
-    publishedDateTime: 2020-05-08T09:07:00Z
-    webUrl: "https://www.theregister.co.uk/2020/05/08/new_jedi_contract_objection/"
-    ampWebUrl: "https://www.theregister.co.uk/AMP/2020/05/08/new_jedi_contract_objection/"
-    cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/08/new_jedi_contract_objection/"
-    type: article
-    provider:
-      name: The Register
-      domain: theregister.co.uk
-    quality: 34
-    images:
-      - url: "https://regmedia.co.uk/2017/12/19/lightsaber.jpg"
-        width: 648
-        height: 432
-  - title: "Amazon files new protest over ‘fatally flawed’ JEDI cloud computing contract award"
-    excerpt: "In an increasingly sharp war of words and legal maneuvers, Amazon Web Services Inc. is stepping up its protest of the Joint Enterprise Defense Infrastructure cloud contract award, asking the U.S. Department of Defense for more clarity around corrective action it has proposed taking."
-    publishedDateTime: 2020-05-08T12:17:00Z
-    webUrl: "https://siliconangle.com/2020/05/08/amazon-files-new-protest-fatally-flawed-jedi-cloud-computing-contract-award/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 16
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/pentagon-720022_1280-AutoGirl-Pixabay.jpg"
-        width: 1280
-        height: 1280
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-10%2F073b94a0-f1c4-11e9-8f5b-2c0832cca481&client=amp-blogside-v2&signature=0440a7701a50126da12ef6ffbcc2f78eb97c80fd"
+        width: 600
+        height: 350
 
-secured: "dYIVGDW9d0xEjd2I6YjspEYUJd52f0gKiqFiBba9lL2ntt4joUBFWBliLd7WypSaq+2NMF7GnKV1LjzfXxLLFm87is0UqiaWNAiLc2XISDto7y88bJQHdgMFgmuL2leWlhV5UTk3N7XKl/pcN6axD8vgFw1FjdXyFiA1etoWFd/2/GDPtgz1IxHCXF8yHXM+wJCdmc6VLDR0s3WRuJNEViflDuLic6RO5HW1v/kVb3fveGKgmy+4f3+E8n++81hhZHc3D33csUereMKV8ai/3uddE3SBt4DmVkXLwe40yRqYS4yxefLAq6G9tnQW+gVI;9frdH9PY5wNux/ES8HVZbQ=="
+secured: "WgwGbhBhikYo59cUQUtUD+xTFhh97ptk+wI9iBDvRlMJ0JK2FVjDMxcwN/moOk91SioDN1QV6C/DG8xly1rULz9QDlnzrrVISA33JuYVO1sWw8et6Cb9nGHDiwN886lhrpEUVN1D8m8azfFO5W0eKZeoXL+7Urv4kONDpRbM+0jnGRs2upmY8Dw/LG+9G0b85VLMTirhmTq9f9+mcOtR4LH/WKnChiFtDavXhXrzX4SRloq1x14muhdIG6BDAtXTh59cNT86bK8KxfS3waRwX1gMucynDVeb6Zx720wohTQIspjrmnPCQbUwb1Xos1MC5XPd+wAhnUT72J1NratenJVxaSC+OV6jpECuTlz9fDm+lcqAwY9BH9U3W6Q4UAY/ksNEppDzff0ezCbOSBJAe2GKvBG6mR8oYwmaa3umP5cswffJCz8LJGOYri33kzMG2MYcPlw4LNTPveJq8HLWGgAcw0YLAuXxDwm6uY0RgDA=;A11L/vKbvSpT53pRjWiRAw=="
 ---
 

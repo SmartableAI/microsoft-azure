@@ -3,7 +3,7 @@ category: news
 title: "New AWS protest spawns JEDI blog wars"
 excerpt: "Microsoft won the JEDI contract in October, but a lawsuit from rival AWS and early legal ruling from a federal judge induced the Pentagon to amend the solicitation and invite new bids on storage requirements for the portion of the request for bids called \"price scenario 6\" – a cloud storage component that,"
 publishedDateTime: 2020-05-07T23:40:00Z
-webUrl: "https://fcw.com/articles/2020/05/07/aws-dod-agency-protest-blog-wars.aspx?admgarea=TC_Management"
+webUrl: "https://fcw.com/articles/2020/05/07/aws-dod-agency-protest-blog-wars.aspx"
 type: article
 quality: 22
 heat: 22
@@ -22,6 +22,6 @@ images:
     height: 368
     title: "New AWS protest spawns JEDI blog wars"
 
-secured: "DEqANCePneyqe0R1Hpb35yRMr7MVyfdtQXHiB8jFc5sugE/GDq1vqk7jzwdMCFid2qSHt5Qc/d9sP+k5KOzSZ+EMJ80NNIfE+GP/WXPv8njBrWq5DP/yZgwKGIietvAOvH01cW6Ab5cHLfGPSnIIY/BAmpPM9CSuXedA2LkhoBA+AT99JHMJZytTLYhnaBNPoR5mnxi8xnbsmOXy2c+vK21U72WO84iQSoTzSdCtnuw7YyYQnMtFp9oPIY6ZtRCPbYl+RdHVRr/MHKeCfLVGCUS3PMC7/JIuk0+MtaCQN1hXQl5pEpkIDztWqA4eZjr/C3zyR5tNryWwH7j2f1RBMZDJ5aHrGuG/a+8CofUsokCpBF+U6Ufo+Yr/6HhV4JuaOqmbj+C5soqCu4DH74/NGqm+4UYLhuVSJNFz1H04dVOabB19Q4RhaHGMn80l/IWOpcC+TZU780kqkyXqZxDJ9rUqRTmPLQSPQWdFk9zjAYY=;SiJRc9Q/rOJRJ64M+xyQwA=="
+secured: "jlip+m7Am0qwhhvGoP5rlQ490/n9NpnGj6Klk+q8vRNahPUlsXgjq3HbYVeCuQE1W4ZqCLjUPMPxVIZ7MS5SriEw0sg5ULJZS+G4A73z9osBkm43nntpaPY66HIldue7JlweBjZrrTWUYpbP2NAPjmQL1rwfw5+I+u1ywetNXmQ1taIbpFuNsuhDGef2o+cMN6SvIZMvRbutZut3YZ6pnQok6Q9URGcvCd/NmfEPUZYidYL4gFWQ6cCI4/Cjq0U4W6/Ns7jMU48CfFAe3z1gVkcakGecXjr47dZZSm3Zh8xYXsdZC0dtN1Tvr1Q8nMue;fvi4ZquoVBqFn0sjG+ULpw=="
 ---
 
