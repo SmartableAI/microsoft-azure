@@ -40,6 +40,21 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200505&t=2&i=1517499643&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG440IH"
         width: 817
         height: 545
+  - title: "Microsoft to invest $1.5 billion in Italian cloud business"
+    excerpt: "Microsoft Corp. said on Friday it would create its first datacentre region in Italy under a $1.5 billion investment plan as the U.S. company expands its cloud computing services to more locations across the world."
+    publishedDateTime: 2020-05-08T14:52:00Z
+    webUrl: "https://www.reuters.com/article/us-microsoft-italy-idUSKBN22K211"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN22K211"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22K211"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 82
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200508&t=2&i=1517951945&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG471BI"
+        width: 817
+        height: 545
   - title: "Microsoft to Invest $1 Billion in Polish Cloud Project"
     excerpt: "Microsoft will invest $1 billion in Poland as part of a plan that will involve opening a data centre in the country to provide cloud services to businesses and government institutions, the company said in a statement on Tuesday."
     publishedDateTime: 2020-05-05T12:05:00Z

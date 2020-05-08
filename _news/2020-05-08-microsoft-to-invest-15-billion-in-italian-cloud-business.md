@@ -1,15 +1,15 @@
 ---
 category: news
-title: "Microsoft to invest $1 billion in Poland: statement"
-excerpt: "Microsoft will invest $1 billion in Poland as part of a plan that will involve opening a data centre in the country to provide cloud services to businesses and government institutions, the company said in a statement on Tuesday."
-publishedDateTime: 2020-05-05T09:03:00Z
-webUrl: "https://www.reuters.com/article/us-microsoft-poland-idUSKBN22H0WP"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN22H0WP"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22H0WP"
+title: "Microsoft to invest $1.5 billion in Italian cloud business"
+excerpt: "Microsoft Corp. said on Friday it would create its first datacentre region in Italy under a $1.5 billion investment plan as the U.S. company expands its cloud computing services to more locations across the world."
+publishedDateTime: 2020-05-08T14:52:00Z
+webUrl: "https://www.reuters.com/article/us-microsoft-italy-idUSKBN22K211"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN22K211"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22K211"
 type: article
 quality: 82
-heat: 262
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -23,25 +23,25 @@ topics:
   - Azure
 
 images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200505&t=2&i=1517499643&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG440IH"
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200508&t=2&i=1517951945&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG471BI"
     width: 817
     height: 545
-    title: "Microsoft to invest $1 billion in Poland: statement"
+    title: "Microsoft to invest $1.5 billion in Italian cloud business"
 
 related:
-  - title: "Microsoft to invest $1.5 billion in Italian cloud business"
-    excerpt: "Microsoft Corp. said on Friday it would create its first datacentre region in Italy under a $1.5 billion investment plan as the U.S. company expands its cloud computing services to more locations across the world."
-    publishedDateTime: 2020-05-08T14:52:00Z
-    webUrl: "https://www.reuters.com/article/us-microsoft-italy-idUSKBN22K211"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN22K211"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22K211"
+  - title: "Microsoft to invest $1 billion in Poland: statement"
+    excerpt: "Microsoft will invest $1 billion in Poland as part of a plan that will involve opening a data centre in the country to provide cloud services to businesses and government institutions, the company said in a statement on Tuesday."
+    publishedDateTime: 2020-05-05T09:03:00Z
+    webUrl: "https://www.reuters.com/article/us-microsoft-poland-idUSKBN22H0WP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN22H0WP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22H0WP"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 82
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200508&t=2&i=1517951945&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG471BI"
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200505&t=2&i=1517499643&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG440IH"
         width: 817
         height: 545
   - title: "Microsoft to Invest $1 Billion in Polish Cloud Project"
@@ -151,6 +151,6 @@ related:
         width: 1024
         height: 520
 
-secured: "EDDWIIuMXwE5SEx+xRZvOQKfKD35+2D1FVRecUpKjopCSUpqJfmmHTI9piWDpWgyUO1iI4OoFVytKMK2AYVQcgPRnwawDKL91k/kUcqIrpiN700pWwIKDAMRGnAOXTEECTcDvCFFQ8KMQBfDjrvf4pWKg2DVK7zvmMKQTurP8Aq4/iQwLJ0IHpM2FlwMuDBOZd5h5Tf1vs+49KR1eQkTUJU94Fe695kG/u9wCsHhmQ1tXrD9tcxNPEpyQTXHg8vbqtPZ46U9HdxP1wd3meuUxXGAUzHliPzlBWrDXrFkHn5g3WCjct6i6RtF1Ov1nE94MdBrMH2VJExABf5WF75eTWV3pLMdSq5ETGBRjFdHweh6GcMxZHRVmAIPTuQp4K+qMm0bzxG1ndVqTw7xtUbfLyycPxbbnZfF4N2Gc207CUR7uua6reY5tqJxLzC6w/HUrbI1DdVAW+zy3/xhTDzqZwBWHWGtYh1qSlYlYs0PJ9Q=;8Tcyd7wEq6k27dMaqhMipg=="
+secured: "aXWfnNT9ASBXME3JtUtN/er3s+ONXsg/ko+m3TE60Mo9SQFsmSJ0QcV1a6t9iJD1cdk5f+6xwVOcbuZ/+abzhToOPhpZWD3ifIXl+inzoLbt1oaPvEgbgGR1z96w7rkQUCSG9cLirZvVaD5AcFB12MRgLIdXGr2u6WHHt1jgK6I7WHIOh6zwtLAhc7T08g3Uoi0Zy4RskvFypwTgNOMGLQZMqjzcXdyuvO0NK+PHrmsOsv/ANt6oTKNx2P27PXySEGGZPaZkXzoO+sfkaj2M+vhJggcHVdPI8z3thPvH4dN9PAv5Wobm35MDwGO62Zul;hRhDkCHvb0BEcsrNrtPtcQ=="
 ---
 
