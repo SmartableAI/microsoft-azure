@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-04-14-azure-analysis-services-calculation-groups-are-now-generally-available.md",
+      "title": "Azure Analysis Services calculation groups are now generally available",
+      "excerpt": "",
+      "heat": 137,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/en-us/updates/announcing-general-availability-ga-of-calculation-groups-in-azure-analysis-services/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-14T15:00:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/0f9f89b3-100e-4d95-b715-e3b3f4e20492.gif",
+          "width": 1290,
+          "height": 757,
+          "title": "Azure Analysis Services calculation groups are now generally available",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2020-04-14-a-closer-look-at-microsoft-azure-synapse-analytics.md",
       "title": "A closer look at Microsoft Azure Synapse Analytics",
       "excerpt": "Roughly six months after its unveiling at the Ignite conference last fall, Microsoft took a group of analysts and MVP professionals on a deep dive into the Azure Synapse Analytics service. As noted in Andrew's coverage last fall, Azure Synapse Analytics is a rebrand and evolution of Azure SQL Data Warehouse, broadening its footprint to span ...",
@@ -1247,51 +1291,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-announcing-the-general-availability-of-azure-monitor-for-virtual-machines.md",
-      "title": "Announcing the general availability of Azure Monitor for virtual machines",
-      "excerpt": "Today we're announcing the general availability of Azure Monitor for virtual machines (VMs), which provides an in-depth view of VM performance trends and dependencies. You can access Azure Monitor for VMs from the Azure VM resource blade to view details about a single VM, from the Azure Virtual Machine",
-      "heat": 113,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-monitor-for-virtual-machines/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T03:00:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8aaf8f84-054c-4681-82e8-58dd8d160940.png",
-          "width": 1430,
-          "height": 953,
-          "title": "Announcing the general availability of Azure Monitor for virtual machines",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Compute"
       ]
     }
   ],

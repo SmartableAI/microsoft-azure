@@ -36,6 +36,15 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/pentagon-80394_1920-tpsdave-pixabay-800x521.jpg"
         width: 800
         height: 521
+  - title: "Amazon files another JEDI cloud contract challenge"
+    excerpt: "The second, concurrent protest was filed with the Defense Department and has Amazon (NASDAQ:AMZN) asking for more clarity around the DOD's proposed review of the $10B JEDI cloud contract.Last month, a"
+    publishedDateTime: 2020-05-08T11:39:00Z
+    webUrl: "https://seekingalpha.com/news/3572106-amazon-files-another-jedi-cloud-contract-challenge"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 2
 
 secured: "KaonUX++zZa1gYRjb4Fu27PQHp+JG3/FMcS8MY1EEbGNBMg6Il6c8P9QaQP2lBk3N+jo0OfhQ3B/KJ0DlRR/bsxeu3wJZSKjoYoZNt9AJxQ/v48lVzsJTq1N1i8KkkhKdVC1/ISgOjmEwCnEJ211jCitqm/0Ul4xmvtnRBzfI4TnJVa2+2VDASuAdRbs3eeYA6HXffYTtksB2m6CjSmYbmHaxna1Kg+t9euMyoHzEcg9C5AWU0mk8MGtcd05j9avKjTkYhcN/mvWIShB4ORqWj8pL9hfj3GJz4frTEAK2s1TH6yeA1PT4ERHBbaDnPVtFZjZuyYTgJQtdGlCn+gatzflZjJBXoaDeYcvyIlwG04cIojdTUWcFSYm2FqflEhnz42FI6uNXEHhLiDyRsJA5vSe0W+Il+amDZyYzTiYD1PAkWgSFwUa+crEtF3M/MPAb1/deirPyoO5Is4qxA3DQD1hx9r2MdUSyQa45pi7Ls0=;1yKqWCZfjlYivaMoGgSShw=="
 ---

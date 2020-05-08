@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theregister.co.uk/AMP/2020/05/08/new_jedi_contract_objec
 cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/08/new_jedi_contract_objection/"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,38 @@ images:
     height: 432
     title: "Microsoft claims AWS has used new JEDI mind trick with secret contract objection filing"
 
-secured: "UZLgjA+qrgsOYBESJEEuzrVNQu6b5RBHUDgvp9HF/IEhxAqoHwNzxEFO3d/uz3DE7efOAHIL8v0VmsK3nlki9WUb1Kgsw38yB2O4al5+nwjKAwM2du1VPTnHbTbVUz2GxkU75wgiKlFBY7g348FRu3NNAfYoXzjAFuXQrhdWfTJdcix+oY6cjcds3DS0xxxDBwsrIGQIw1Lg97feY4uR5vopziO6D6VGQv2haBAIoAWbhN74m4SdSe/joh6p2hy50vdyfCrKhcm+iRsq2YFRQrbUeKfDw6le/h2EWT2n5wvuCcdavuCRZNyNe1iyaDBM;IuFksmesiFTVVUl9wYe5dQ=="
+related:
+  - title: "AWS files another JEDI complaint against Microsoft"
+    excerpt: "Amazon Web Services (AWS) has mounted yet another appeal against the US government’s decision to award Microsoft the $10 billion Pentagon cloud contract, known as JEDI. Despite an earlier investigation into the procurement process finding no evidence of coercion or interference by US President Donald Trump,"
+    publishedDateTime: 2020-05-08T10:55:00Z
+    webUrl: "https://www.techradar.com/au/news/aws-files-another-jedi-complaint-against-microsoft"
+    ampWebUrl: "https://www.techradar.com/au/amp/news/aws-files-another-jedi-complaint-against-microsoft"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/aws-files-another-jedi-complaint-against-microsoft"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 82
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/utLgVZfGNmPcqfsQrX5XMh-1200-80.jpg"
+        width: 970
+        height: 545
+  - title: "AWS files another appeal against Microsoft's JEDI win"
+    excerpt: "Amazon is still chasing the now infamous JEDI cloud contract - this time around asking the US Department of Defence (DoD) for clarity around the recent Court of Federal Claims ruling. The Joint Enterprise Defence Infrastructure (JEDI) contract is a US government cloud project designed to deliver an upgrade to the Pentagon's IT operations."
+    publishedDateTime: 2020-05-08T11:00:00Z
+    webUrl: "https://www.itproportal.com/news/aws-files-another-complaint-againt-microsofts-jedi-win/"
+    ampWebUrl: "https://www.itproportal.com/amp/news/aws-files-another-complaint-againt-microsofts-jedi-win/"
+    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/aws-files-another-complaint-againt-microsofts-jedi-win/"
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 42
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/88UejibhsWKbhFSpfr62oA-1200-80.jpg"
+        width: 1000
+        height: 668
+
+secured: "mXXhFhl58aAoEmaUieKkGvzUU/NdUtnFCMb53f0uOS3hg433uZMukC50Dk3Iia6L+1CF2dO1RtBwBrQIm2OuSUtQT0dlprxWZgWt0sruXdOkCDkgnFnpHoljVoGO7XEQgKTKOytUbrjmDpQv4QrmjMuuFOLNXWnGf+LnMF46tjuvSUP6LH4CCoZswAazTrrbWku8SfG77MneJ0a1cabj5lAMI3lQNWe1wKFs+fNrLd2QAFYy3D8I0xavoL5+iNTe/lBc+d6RieI9A6kYDNiQfJ4jROefSFDi+/1tf9AXdRmXmfw/+m5Tpnb7wwT6fPYuEBuLfw0qR98zXIpK7yemySFLFWs48WxkKVYYBIp1yYpE8dA0QPD6FkOQuxpUpiuGvKKRpSoFD/p83fcElLXijLjtVXQpVma8iWb5EQrph5EeCRCGy1u8saCral3sVpIznLrQ3b0OTmbMNLXmryYxaL8Faifuo7ijCvY775BORJ8=;tJNezxlipxxwg/I6Em2Xrg=="
 ---
 
