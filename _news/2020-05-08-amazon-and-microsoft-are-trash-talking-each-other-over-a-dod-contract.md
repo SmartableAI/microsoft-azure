@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/amazon-microsoft-jedi-fight-154208730.h
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/amazon-microsoft-jedi-fight-154208730.html"
 type: article
 quality: 82
-heat: 102
+heat: 122
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     title: "Amazon and Microsoft are trash talking each other over a DoD contract"
 
 related:
+  - title: "Amazon, Microsoft Trade Fresh Barbs in Ongoing JEDI Dispute"
+    excerpt: "Microsoft (NASDAQ:MSFT) and Amazon.com (NASDAQ:AMZN) traded a new round of shots in their ongoing fight over a $10 billion defense cloud computing contract award on Friday, with Microsoft urging Amazon to stand down but Amazon vowing to press on."
+    publishedDateTime: 2020-05-08T18:53:00Z
+    webUrl: "https://www.fool.com/investing/2020/05/08/amazon-microsoft-trade-fresh-barbs-in-ongoing-jedi.aspx"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/05/08/amazon-microsoft-trade-fresh-barbs-in-ongoing-jedi.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/08/amazon-microsoft-trade-fresh-barbs-in-ongoing-jedi.aspx"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 82
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg"
+        width: 580
+        height: 378
   - title: "Microsoft and AWS exchange poisoned pen blog posts in latest Pentagon JEDI contract spat"
     excerpt: "Microsoft and Amazon are at it again as the fight for the Defense Department JEDI contract continues. In a recent series of increasingly acerbic pronouncements, the two companies continue their ongoing spat over the $10 billion,"
     publishedDateTime: 2020-05-08T13:20:00Z
