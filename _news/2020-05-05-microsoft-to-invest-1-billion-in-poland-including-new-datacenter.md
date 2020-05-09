@@ -120,6 +120,21 @@ related:
       - url: "https://i.nextmedia.com.au/News/MS_Azure_regions.png"
         width: 882
         height: 432
+  - title: "Microsoft to invest $1.5 billion in Italy, new datacenter region coming in Milan"
+    excerpt: "Microsoft today announced a $1.5 billion 5-year investment plan in Italy. Microsoft also announced the first data center region coming to the country in Milan."
+    publishedDateTime: 2020-05-08T13:02:00Z
+    webUrl: "https://mspoweruser.com/microsoft-invest-1-5-billion-italy/"
+    ampWebUrl: "https://mspoweruser.com/microsoft-invest-1-5-billion-italy/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-invest-1-5-billion-italy/amp/"
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 37
+    images:
+      - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Microsoft-Italy.jpg"
+        width: 890
+        height: 578
   - title: "Microsoft lands public cloud in New Zealand with new datacenter region"
     excerpt: "Microsoft plans to establish its first datacenter region in New Zealand, in what it described as \"a major milestone toward delivering enterprise-grade cloud services in the country\"."
     publishedDateTime: 2020-05-05T23:37:00Z

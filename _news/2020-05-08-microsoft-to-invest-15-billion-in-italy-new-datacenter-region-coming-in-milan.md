@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Microsoft to invest $1 billion in Poland cloud"
-excerpt: "Microsoft on Tuesday announced it would invest one billion dollars in Poland to expand its operations, including the creation of a new regional cloud-computing data hub. The US tech giant said it had signed an agreement with Poland's state-backed National Cloud Operator to provide \"cloud solutions for all industries and companies in Poland ..."
-publishedDateTime: 2020-05-06T02:04:00Z
-webUrl: "https://www.thejakartapost.com/news/2020/05/06/microsoft-to-invest-1-billion-in-poland-cloud.html"
-ampWebUrl: "https://www.thejakartapost.com/amp/news/2020/05/06/microsoft-to-invest-1-billion-in-poland-cloud.html"
-cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/news/2020/05/06/microsoft-to-invest-1-billion-in-poland-cloud.html"
+title: "Microsoft to invest $1.5 billion in Italy, new datacenter region coming in Milan"
+excerpt: "Microsoft today announced a $1.5 billion 5-year investment plan in Italy. Microsoft also announced the first data center region coming to the country in Milan."
+publishedDateTime: 2020-05-08T13:02:00Z
+webUrl: "https://mspoweruser.com/microsoft-invest-1-5-billion-italy/"
+ampWebUrl: "https://mspoweruser.com/microsoft-invest-1-5-billion-italy/amp/"
+cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-invest-1-5-billion-italy/amp/"
 type: article
-quality: 42
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: The Jakarta Post
-  domain: thejakartapost.com
+  name: MSPoweruser
+  domain: mspoweruser.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://img.jakpost.net/c/2019/03/23/2019_03_23_68363_1553355661._medium.jpg"
-    width: 747
-    height: 515
-    title: "Microsoft to invest $1 billion in Poland cloud"
+  - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Microsoft-Italy.jpg"
+    width: 890
+    height: 578
+    title: "Microsoft to invest $1.5 billion in Italy, new datacenter region coming in Milan"
 
 related:
   - title: "Microsoft to invest $1 billion in Poland: statement"
@@ -107,6 +107,21 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/03/microsoft-logo-ignite-2017.jpg?itok=LlgVw_jV"
         width: 800
         height: 600
+  - title: "Microsoft to invest $1 billion in Poland cloud"
+    excerpt: "Microsoft on Tuesday announced it would invest one billion dollars in Poland to expand its operations, including the creation of a new regional cloud-computing data hub. The US tech giant said it had signed an agreement with Poland's state-backed National Cloud Operator to provide \"cloud solutions for all industries and companies in Poland ..."
+    publishedDateTime: 2020-05-06T02:04:00Z
+    webUrl: "https://www.thejakartapost.com/news/2020/05/06/microsoft-to-invest-1-billion-in-poland-cloud.html"
+    ampWebUrl: "https://www.thejakartapost.com/amp/news/2020/05/06/microsoft-to-invest-1-billion-in-poland-cloud.html"
+    cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/news/2020/05/06/microsoft-to-invest-1-billion-in-poland-cloud.html"
+    type: article
+    provider:
+      name: The Jakarta Post
+      domain: thejakartapost.com
+    quality: 42
+    images:
+      - url: "https://img.jakpost.net/c/2019/03/23/2019_03_23_68363_1553355661._medium.jpg"
+        width: 747
+        height: 515
   - title: "New Zealand to get its own Microsoft Azure region"
     excerpt: "Microsoft has applied for permission from the New Zealand government's Overseas Investment Office to acquire sites to build its first Azure region in the country, the company announced. Storing customer data at rest in New Zealand along with meeting users' security and compliance needs are cited by Microsoft as the drivers for establishing the new region."
     publishedDateTime: 2020-05-06T01:40:00Z
@@ -120,21 +135,6 @@ related:
       - url: "https://i.nextmedia.com.au/News/MS_Azure_regions.png"
         width: 882
         height: 432
-  - title: "Microsoft to invest $1.5 billion in Italy, new datacenter region coming in Milan"
-    excerpt: "Microsoft today announced a $1.5 billion 5-year investment plan in Italy. Microsoft also announced the first data center region coming to the country in Milan."
-    publishedDateTime: 2020-05-08T13:02:00Z
-    webUrl: "https://mspoweruser.com/microsoft-invest-1-5-billion-italy/"
-    ampWebUrl: "https://mspoweruser.com/microsoft-invest-1-5-billion-italy/amp/"
-    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-invest-1-5-billion-italy/amp/"
-    type: article
-    provider:
-      name: MSPoweruser
-      domain: mspoweruser.com
-    quality: 37
-    images:
-      - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Microsoft-Italy.jpg"
-        width: 890
-        height: 578
   - title: "Microsoft lands public cloud in New Zealand with new datacenter region"
     excerpt: "Microsoft plans to establish its first datacenter region in New Zealand, in what it described as \"a major milestone toward delivering enterprise-grade cloud services in the country\"."
     publishedDateTime: 2020-05-05T23:37:00Z
@@ -162,6 +162,6 @@ related:
         width: 1024
         height: 520
 
-secured: "zDH/t8EDlCzsfd1eBAJ6wEa5p5rH6XY1ePVKtX1ZkisPyO2GP7ZZL26yatKua/L83y4CgLr0ZqsJIJmH1D4hHaoK7/ij+2y3UQatNmmujwkUzGqBYe1xM9jwQumUneHaMsfTdT2vDImoA7bdLhW6Gx5n+ETVHPCNC1X0RdXWej65NG7eKO9oZIy542xTcuyI7viqsIv3/W4/B8a3dSlJpN0o9UljAIsu0cmZwMVIivzgZCRrTvUBkWw9Y6+u4ZPwxr1eSlss35PjmBdb6Vg2UX/Xwxqght1ZM/9UZY/uxo3wIDkhahILUKNCm5yDidLc;JEyp4Cse8EXGBp+AFdQhwA=="
+secured: "iWjtPKerDmUURDZuM3y3EJnWNOmrbX7Xaxiw12g3bmj2Aj6gVcQ98mMcoWyHIH0fPOvjiTjKnj0f8F3rLobDgD8voWy5EgSCPnOyRS8ytfPskNECKUkUdc6NJCv4g5LX7iTicRrBmBA6Ex7Iv5iCgFIDvJzgdfRG9nY+ac8/qLQUyigPw9VziylK6ZEnv0+/yhGg70f/10o+cVt4VG2JqNxwbXfs93kZK8rq9Nkb3btaklJv15KxP4HvZ/XSvhqP0V5Xsy6H0ykKJ18JvlS09HPKiL+finfilfEsk1/k370yelhXiCrv4tNJRJ3zVaC6;oI1V+LhnHVGGR3cEpWxzig=="
 ---
 
