@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Microsoft claims AWS has used new JEDI mind trick with secret contract objection filing"
-excerpt: "Amazon.com has filed a second, secret, appeal at the decision to award Microsoft the $10bn Pentagon Joint Enterprise Defense Infrastructure (JEDI) contract. So says Microsoft corp"
-publishedDateTime: 2020-05-08T09:07:00Z
-webUrl: "https://www.theregister.co.uk/2020/05/08/new_jedi_contract_objection/"
-ampWebUrl: "https://www.theregister.co.uk/AMP/2020/05/08/new_jedi_contract_objection/"
-cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/08/new_jedi_contract_objection/"
+title: "AWS and Microsoft engage in heated public spat over $10bn cloud project"
+excerpt: "After Microsoft slammed Amazon's Cloud arm for challenging the US government's decision to award $10 billion Pentagon Cloud project to Satya Nadella-run enterprise, Amazon Web Services (AWS) has hit back,"
+publishedDateTime: 2020-05-09T05:45:00Z
+webUrl: "https://menafn.com/1100140280/AWS-and-Microsoft-engage-in-heated-public-spat-over-10bn-cloud-project"
 type: article
-quality: 34
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: The Register
-  domain: theregister.co.uk
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://regmedia.co.uk/2017/12/19/lightsaber.jpg"
-    width: 648
-    height: 432
-    title: "Microsoft claims AWS has used new JEDI mind trick with secret contract objection filing"
+  - url: "https://menafn.com/updates/pr/2020-05/09/I_10254b1b-1image_story.jpg"
+    width: 400
+    height: 300
+    title: "AWS and Microsoft engage in heated public spat over $10bn cloud project"
 
 related:
   - title: "AWS files another JEDI complaint against Microsoft"
@@ -55,19 +53,21 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/88UejibhsWKbhFSpfr62oA-1200-80.jpg"
         width: 1000
         height: 668
-  - title: "AWS and Microsoft engage in heated public spat over $10bn cloud project"
-    excerpt: "After Microsoft slammed Amazon's Cloud arm for challenging the US government's decision to award $10 billion Pentagon Cloud project to Satya Nadella-run enterprise, Amazon Web Services (AWS) has hit back,"
-    publishedDateTime: 2020-05-09T05:45:00Z
-    webUrl: "https://menafn.com/1100140280/AWS-and-Microsoft-engage-in-heated-public-spat-over-10bn-cloud-project"
+  - title: "Microsoft claims AWS has used new JEDI mind trick with secret contract objection filing"
+    excerpt: "Amazon.com has filed a second, secret, appeal at the decision to award Microsoft the $10bn Pentagon Joint Enterprise Defense Infrastructure (JEDI) contract. So says Microsoft corp"
+    publishedDateTime: 2020-05-08T09:07:00Z
+    webUrl: "https://www.theregister.co.uk/2020/05/08/new_jedi_contract_objection/"
+    ampWebUrl: "https://www.theregister.co.uk/AMP/2020/05/08/new_jedi_contract_objection/"
+    cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/08/new_jedi_contract_objection/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 22
+      name: The Register
+      domain: theregister.co.uk
+    quality: 34
     images:
-      - url: "https://menafn.com/updates/pr/2020-05/09/I_10254b1b-1image_story.jpg"
-        width: 400
-        height: 300
+      - url: "https://regmedia.co.uk/2017/12/19/lightsaber.jpg"
+        width: 648
+        height: 432
   - title: "Amazon files new protest over ‘fatally flawed’ JEDI cloud computing contract award"
     excerpt: "In an increasingly sharp war of words and legal maneuvers, Amazon Web Services Inc. is stepping up its protest of the Joint Enterprise Defense Infrastructure cloud contract award, asking the U.S. Department of Defense for more clarity around corrective action it has proposed taking."
     publishedDateTime: 2020-05-08T12:17:00Z
@@ -82,6 +82,6 @@ related:
         width: 1280
         height: 1280
 
-secured: "mXXhFhl58aAoEmaUieKkGvzUU/NdUtnFCMb53f0uOS3hg433uZMukC50Dk3Iia6L+1CF2dO1RtBwBrQIm2OuSUtQT0dlprxWZgWt0sruXdOkCDkgnFnpHoljVoGO7XEQgKTKOytUbrjmDpQv4QrmjMuuFOLNXWnGf+LnMF46tjuvSUP6LH4CCoZswAazTrrbWku8SfG77MneJ0a1cabj5lAMI3lQNWe1wKFs+fNrLd2QAFYy3D8I0xavoL5+iNTe/lBc+d6RieI9A6kYDNiQfJ4jROefSFDi+/1tf9AXdRmXmfw/+m5Tpnb7wwT6fPYuEBuLfw0qR98zXIpK7yemySFLFWs48WxkKVYYBIp1yYpE8dA0QPD6FkOQuxpUpiuGvKKRpSoFD/p83fcElLXijLjtVXQpVma8iWb5EQrph5EeCRCGy1u8saCral3sVpIznLrQ3b0OTmbMNLXmryYxaL8Faifuo7ijCvY775BORJ8=;tJNezxlipxxwg/I6Em2Xrg=="
+secured: "odNLOV5OIKZSCVbkk/UIxfcA7dpjetvUTnZG0LtyEj95QZyc99pkPHBjdFvUDt/b6IA4vd6egwu0apv0f0XgZ1k5n37tip0Kalzq6/1dAYn3oLKLAgd4dchLmX57w+EIGlGs4tGDhCI+3ykd315jOhvqQ34lMXdr9STEfBTqwf6OGW3LEEFjuWjLftxUCuU6GXQ/oj1F5wSWXOt14a7Nifozpq/Elrgno+O279V4wRohp0bppCAD7JdLph5XunVDSrWEvrkshQoHkuHaJ88xFMOnpSOby7Vb3VtFuKeI3F3dcVu8u9qbaAyruDo/a1mk;BFNpf9+lJBDUhn8lSbo7SQ=="
 ---
 
