@@ -59,6 +59,21 @@ related:
       - url: "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg"
         width: 580
         height: 378
+  - title: "Amazon and Microsoft are accusing each other of playing dirty to get JEDI contract"
+    excerpt: "Last month, the DoD cleared Microsoft's JEDI contract award, after it couldn't find any wrongdoing in the whole process. This was the first result of legal action where Amazon, the company that came closest to winning the bid,"
+    publishedDateTime: 2020-05-08T23:38:00Z
+    webUrl: "https://www.techspot.com/news/85160-amazon-microsoft-accusing-each-other-playing-dirty-get.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/85160-amazon-microsoft-accusing-each-other-playing-dirty-get.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85160-amazon-microsoft-accusing-each-other-playing-dirty-get.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 76
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-08-image-13.jpg"
+        width: 1600
+        height: 1001
 
 secured: "WgwGbhBhikYo59cUQUtUD+xTFhh97ptk+wI9iBDvRlMJ0JK2FVjDMxcwN/moOk91SioDN1QV6C/DG8xly1rULz9QDlnzrrVISA33JuYVO1sWw8et6Cb9nGHDiwN886lhrpEUVN1D8m8azfFO5W0eKZeoXL+7Urv4kONDpRbM+0jnGRs2upmY8Dw/LG+9G0b85VLMTirhmTq9f9+mcOtR4LH/WKnChiFtDavXhXrzX4SRloq1x14muhdIG6BDAtXTh59cNT86bK8KxfS3waRwX1gMucynDVeb6Zx720wohTQIspjrmnPCQbUwb1Xos1MC5XPd+wAhnUT72J1NratenJVxaSC+OV6jpECuTlz9fDm+lcqAwY9BH9U3W6Q4UAY/ksNEppDzff0ezCbOSBJAe2GKvBG6mR8oYwmaa3umP5cswffJCz8LJGOYri33kzMG2MYcPlw4LNTPveJq8HLWGgAcw0YLAuXxDwm6uY0RgDA=;A11L/vKbvSpT53pRjWiRAw=="
 ---

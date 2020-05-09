@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/amazon-microsoft-jedi-fight-154208730.h
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/amazon-microsoft-jedi-fight-154208730.html"
 type: article
 quality: 82
-heat: 122
+heat: 142
 published: true
 
 provider:
@@ -44,6 +44,21 @@ related:
       - url: "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg"
         width: 580
         height: 378
+  - title: "Amazon and Microsoft are accusing each other of playing dirty to get JEDI contract"
+    excerpt: "Last month, the DoD cleared Microsoft's JEDI contract award, after it couldn't find any wrongdoing in the whole process. This was the first result of legal action where Amazon, the company that came closest to winning the bid,"
+    publishedDateTime: 2020-05-08T23:38:00Z
+    webUrl: "https://www.techspot.com/news/85160-amazon-microsoft-accusing-each-other-playing-dirty-get.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/85160-amazon-microsoft-accusing-each-other-playing-dirty-get.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85160-amazon-microsoft-accusing-each-other-playing-dirty-get.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 76
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-08-image-13.jpg"
+        width: 1600
+        height: 1001
   - title: "Microsoft and AWS exchange poisoned pen blog posts in latest Pentagon JEDI contract spat"
     excerpt: "Microsoft and Amazon are at it again as the fight for the Defense Department JEDI contract continues. In a recent series of increasingly acerbic pronouncements, the two companies continue their ongoing spat over the $10 billion,"
     publishedDateTime: 2020-05-08T13:20:00Z

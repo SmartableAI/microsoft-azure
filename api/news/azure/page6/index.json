@@ -2,6 +2,94 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-04-16-amazon-bid-high-and-lost-on-jedi-microsoft-says-after-release-of-dod-watchdog-report.md",
+      "title": "Amazon ‘bid high and lost’ on JEDI, Microsoft says after release of DoD watchdog report",
+      "excerpt": "Microsoft took aim at Amazon in a blog post Wednesday, accusing its rival of seeking an unfair advantage as the two companies lock horns over the Pentagon’s JEDI contract. The Department of Defense awarded the Joint Enterprise Defense Infrastructure project to Microsoft last year despite Amazon’s apparent advantage during the bidding process.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/amazon-bid-high-lost-jedi-microsoft-says-release-dod-watchdog-report/",
+      "ampWebUrl": "https://www.geekwire.com/2020/amazon-bid-high-lost-jedi-microsoft-says-release-dod-watchdog-report/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazon-bid-high-lost-jedi-microsoft-says-release-dod-watchdog-report/amp/",
+      "publishedDateTime": "2020-04-15T23:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/11/microsoft-630x473.jpg",
+          "width": 630,
+          "height": 473,
+          "title": "Amazon ‘bid high and lost’ on JEDI, Microsoft says after release of DoD watchdog report",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-securing-azure-functions-with-api-management-and-identityserver4.md",
+      "title": "Securing Azure Functions with API Management and IdentityServer4.",
+      "excerpt": "There are several Azure App Service platform authentication features like Active Directory, Microsoft ID, Facebook, Google, Twitter. And a Function level authentication provides Anonymous ...",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/microsoftazure/secure-functions-apim-identityserver4-4b6f62d773b0",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-15T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*IxBnSbM_RxB9Av3TdXB0Mg.png",
+          "width": 1200,
+          "height": 521,
+          "title": "Securing Azure Functions with API Management and IdentityServer4.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2020-04-15-azure-sql-database-hyperscalechange-tracking-support-now-available.md",
       "title": "Azure SQL Database Hyperscale—Change tracking support now available",
       "excerpt": "",
@@ -1179,96 +1267,6 @@
       "topics": [
         "Azure",
         "Networking"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-azure-dedicated-host-new-capabilities-and-benefits.md",
-      "title": "Azure Dedicated Host: New capabilities and benefits",
-      "excerpt": "Late last year, we’ve announced the general availability of Azure Dedicated Hosts. This blog provides an update regarding the new and recently added capabilities since we introduced Azure Dedicated Hosts in preview.\r\n\r\nAzure Dedicated Host provides a single-tenant physical server to run your Azure Virtual",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/azure-dedicated-host-new-capabilities-and-benefits/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-25T05:00:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/4b73c068-85c5-42f8-a604-28d872e13b59.png",
-          "width": 1015,
-          "height": 899,
-          "title": "Azure Dedicated Host: New capabilities and benefits",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-keeping-your-cloud-deployments-secure-during-challenging-times.md",
-      "title": "Keeping your cloud deployments secure during challenging times",
-      "excerpt": "As the world comes together to combat COVID-19, and remote work becomes a critical capability for many companies, customers have asked us how to best maintain the security posture of their cloud assets while enabling more remote workers to access them.\r\n\r\nMisconfiguration of cloud security controls has",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/keeping-your-cloud-deployments-secure-during-challenging-times/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-25T01:00:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/dbf0ab1b-ee96-4bad-87e3-24a8f81f5e8f.png",
-          "width": 553,
-          "height": 223,
-          "title": "Keeping your cloud deployments secure during challenging times",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Security"
       ]
     }
   ],
