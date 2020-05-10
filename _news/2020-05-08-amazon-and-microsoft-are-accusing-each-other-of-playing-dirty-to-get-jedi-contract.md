@@ -74,6 +74,21 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1073698070.jpg?w=1024"
         width: 1024
         height: 682
+  - title: "Amazon Fires Back in JEDI Cloud Wars Between Microsoft Azure and AWS"
+    excerpt: "Amazon says it will continue to fight Microsoft over Azure winning the $10 billion JEDI cloud contract from the Pentagon."
+    publishedDateTime: 2020-05-08T16:53:00Z
+    webUrl: "https://winbuzzer.com/2020/05/08/amazon-fires-back-in-jedi-cloud-wars-between-microsoft-azure-and-aws-xcxwbn/"
+    ampWebUrl: "https://winbuzzer.com/2020/05/08/amazon-fires-back-in-jedi-cloud-wars-between-microsoft-azure-and-aws-xcxwbn/?amp"
+    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/05/08/amazon-fires-back-in-jedi-cloud-wars-between-microsoft-azure-and-aws-xcxwbn/?amp"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 57
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2016/04/Microsoft-Clouds-Pixels-Reuse.jpg"
+        width: 1280
+        height: 853
 
 secured: "19M8hb3pHnhXB+TiskuSSjrEb2RLB2Hq1+nVae0tgbCbdrHLCp0Fa7crU0WywVz1NqgmFrm6oEfFl4TWVUSeuS3dT5KZA6BlkkG5Rtcv/DwOddqJKQP9hYoaGmwS6SQgMJulNodjwNRWhEgkLLRGPNL27suV2zsflQ3estVrcjiq4OpAqfJUNkRpEjIca0nR2V1nhB/SgrTjKUsCoKOc48Wps2Oab7tSi8URmNUqu375S4KrPRGlumxkkP+saoDZB3spAte913ntmTiMpuZ7H26De+lvQv4WH2rjb7dsDeJA+bdjvLK8il1ARxiX6QdFLc7Tt/tNW/Kezfh78dPn8vwFFRWq/FJwwiJiRtcUEpZomFgduHmO/l0ggfc1H7EhVnw9+1BmFo3kqgcJNF0NwpRGB1ds4y/3o4yBiBQkjlBLjHtHddYW5DNi7CrvxXJCAaEtf9qERTBshC17lXyO6DlK0/XQheHrQ4zHc9zQXVw=;dlP/3oWsaVnyP9uydTQTug=="
 ---
