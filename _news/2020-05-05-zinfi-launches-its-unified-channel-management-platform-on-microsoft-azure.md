@@ -1,23 +1,25 @@
 ---
 category: news
 title: "ZINFI Launches Its Unified Channel Management Platform on Microsoft Azure"
-excerpt: "Leading Unified Channel Management Platform Will Now Also Be Available on Microsoft Azure, Further Enhancing Platform Security, Scalability and"
+excerpt: "Leading Unified Channel Management Platform Will Now Also Be Available on Microsoft Azure, Further Enhancing Platform Security,"
 publishedDateTime: 2020-05-05T11:00:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/05/g15952988/zinfi-launches-its-unified-channel-management-platform-on-microsoft-azure"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15952988"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15952988"
+webUrl: "https://markets.businessinsider.com/news/stocks/zinfi-launches-its-unified-channel-management-platform-on-microsoft-azure-1029164843"
 type: article
-quality: 36
-heat: 36
+quality: 56
+heat: 56
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
-secured: "toLIa8v2bh2DFxwo1NAkReOJdaUQd/UCPPDAddGmrYV1nR7f6FqRvIzW9NA2b8EIJmShJrCyfGORpYDoANEgkcRLZFzSoI1QicRFiS1bCkiP0uelIzGS89k8mPVg2uZMbb9K9d7OKa4VqMfkvAaX/HQQTU7aNy1Kf5ipHUeygEhHJOO3iuieDdPnVwkqtojpylYRfFm7SJ9Jd2hCmJbgbXm1A0Fqi+HSWaFfrNZyOFZmwpnaxe1jcxbW0BVa0yHI72QeJBpoZhbpptNFZ1ZIGpPFJEQOd3tjHMGyYAfSd+N99NMKs+Cp/DTCwBDoEuzB;OhjrI+kWaizH+RSVHTZVlg=="
+secured: "xl8n6duBMTG+gj/Y3Xd4+6alHioCAPdCWjKlRFzII3mht1Qt1CW+K2hsQw7xryBBu+P1jR+Xbj1B9drCKS5jDREqLftPjb4SGGCFrDZvJuOVbLGon52i+YWua3U/MlFdyjDCJ7bjhLytUxZKwv47A3IS1s+p/tmjRfVw//tKnGgeJ9rauyiwlRFKey3U4/u9OSO2XqspQFYDkU3VcNjk9ztPUm6AAMifQ7KyaOedRv0UGkWiWDpP9Ah9OqPvtzvVPEgYxgI3JY+JxJUXejTIRK/Esgwt4hgWJ7Ay1LccGxWr6gpxKRGY16GzGIt1taiK;FKcgSfu+Ulixd6gcHPM5RA=="
 ---
 
