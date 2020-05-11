@@ -24,6 +24,17 @@ images:
     height: 390
     title: "Google appoints ex-Microsoft executive for cloud business in India"
 
+related:
+  - title: "Google poaches ex-Microsoft executive for Cloud biz in India"
+    excerpt: "Google Cloud on Monday announced the appointment of former Microsoft executive Anil Bhansali as Vice President of Engineering. In his new role, Bhansali will coordinate all software development support efforts for Google Cloud in India."
+    publishedDateTime: 2020-05-11T13:27:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20200511/3556331.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 2
+
 secured: "VSFJTlss/eJKLLzW600KMuo6aaNiS42sZ670k0PGIqvN5Ek057LxyVJKd7vxMnubCd6fkDoyJtPaKkJdO7KkB3hK561Xlp9vFv7LiYYTzag5QSC1w9Ad+/EWX4Q3s2AhNIyCK3ICjSSNoUlNRsyhZFjRR+Hj3rR9DJu6s4FycWOCuJOGbMVthDXDNGsDIB4UutzWC0dWbVZ8LAteMvniS4wODbd3M6ZqVyNG5vMRDOwKBTlGghCNR9DGmIXGhFVsCVigD35qbKUspuaI844hcWCS2tFc52lu+qlDduRNilHKttayHLs/ncM23O3wNw7CWB3WcZck5Fti3toEEV83eW5tLsztvpZ1AJRprVIYA/C7Y8QPZXcFKn0K3lenq0pnX6iGT+Q3pLfR3Y9FwXr4Obz8y1sxthTuGcBDzj2E4kFmu59oBL980+P7C8343DqAV3mRqh9vuEWZiiWOncuRaU+g1pWTgHPG+1IFzVJlZyM=;p59CsdNeyzTIcaZZzK1gAw=="
 ---
 
