@@ -1,23 +1,17 @@
 ---
 category: news
 title: "Greater Than Make FIA Smart Driving Challenge Now Available in the Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers worldwide now gain access to FIA Smart Driving Challenge provided by Greater Than, to take advantage of the"
-publishedDateTime: 2020-05-05T12:35:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/greater-than-make-fia-smart-driving-challenge-now-available-in-the-microsoft-azure-marketplace-1029165531"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/greater-than-make-fia-smart-driving-challenge-now-available-in-the-microsoft-azure-marketplace-1029165531"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/greater-than-make-fia-smart-driving-challenge-now-available-in-the-microsoft-azure-marketplace-1029165531"
+excerpt: "Microsoft Azure customers worldwide now gain access to FIA Smart Driving Challenge provided by Greater Than, to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies."
+publishedDateTime: 2020-05-05T13:06:00Z
+webUrl: "https://www.autoblog.com/press-releases/greater-than-make-fia-smart-driving-challenge-now-available-in-the-microsoft-azure-marketplace_23004/"
 type: article
-quality: 65
-heat: 85
-published: true
+quality: 5
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Autoblog
+  domain: autoblog.com
 
 topics:
   - Azure
@@ -36,7 +30,20 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+  - title: "CognitiveScale's Cortex Certifai Now Available in the Microsoft Azure Marketplace"
+    excerpt: "AUSTIN, Texas, April 27, 2020 /PRNewswire/ -- CognitiveScale, the Trusted AI Company, today announced the availability of Cortex Certifai (Certifai) in the Microsoft Azure Marketplace, an online ..."
+    publishedDateTime: 2020-04-27T12:01:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/cognitivescales-cortex-certifai-now-available-in-the-microsoft-azure-marketplace-301047031.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 32
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
 
-secured: "P34bPa1XIv11yce3d3nuqd9KwcmUO45F3Iz9N36Jz4cByFNI1d3vNg+FmS6UWGxeSLPD45kluksi9L86JrMQ9nOEq1klliJbT2sUh/v0U6ux9cfe2nFnMemYsHxLAyuqBNZ7fsYuMukzZ5yuyJVTwRfSUWcWPTVbm45rYzWOF/X20/uJj8TKQJO0BIHwVrOTWeCQyAL1ePrjPqTXE6HR5YnemLjw0aEK5AtTymlhQdVKu4G1wNK9slw0fUjxnX0+h3jAJDShUlvr1a/SodCgiNDGjieWPRL5bYU5zlro5sss0JGPZJOtEcXRU8nd7wYP;mxsP3DMpmpCXOKwrZQ/KVA=="
+secured: "5OHNK8yVEufTilrVG2kUezcDgQjAFglOT5FyxluXaWNFPxeoPI5NrJ/XIuXCZxsr1AUncwlXQ0GGZQ4Lo9/xd31tN0I+GjhjnY04mHOobeP8Vf0K8Z/984oxigfN2YYE8C19xFbjcwjtnwwY9XtTLFZz0eEvHqN44mH0Y1ZjBx1T2M7uvczkcRYZTEBepcXhlboN/nYcKM3bUpyWc/BhscqZbDxzI4QHNEv9ps8hjMZVeRyddYgzeVqv0WjzBdW/+Et4uqISqKuGFSc3popbBo6nXJFOu7KqiXy+iqddekh18SrWS5vn1yHoJAFiZHXo;9TUHwify+pr4PFWbtC1/Dg=="
 ---
 
