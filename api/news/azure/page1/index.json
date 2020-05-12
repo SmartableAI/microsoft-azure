@@ -5,7 +5,7 @@
       "path": "_news/2020-05-11-microsoft-reportedly-teamed-up-with-oracle-to-fend-off-amazon-for-the-pentagons-jedi-contract.md",
       "title": "Microsoft reportedly teamed up with Oracle to fend off Amazon for the Pentagon’s JEDI contract",
       "excerpt": "The Information revealed Monday how Microsoft had a “secret alley” — Oracle — to help land the coveted Joint Enterprise Defense Infrastructure contract, a $10 billion Pentagon project that",
-      "heat": 70,
+      "heat": 90,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.geekwire.com/2020/microsoft-reportedly-teamed-oracle-fend-off-amazon-pentagons-jedi-contract/",
@@ -371,7 +371,7 @@
       "path": "_news/2020-05-11-rpt-microsoft-to-invest-15-bln-in-italian-cloud-business.md",
       "title": "RPT-Microsoft to invest $1.5 bln in Italian cloud business",
       "excerpt": "Friday it would create its first datacentre region in Italy under a $1.5 billion investment plan as the U.S. company expands its cloud computing services to more locations across the world. Microsoft’s rival Amazon Web Services last week opened a datacentre region in Milan,",
-      "heat": 122,
+      "heat": 142,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.reuters.com/article/microsoft-italy-idUSL8N2CT3B2",
@@ -400,6 +400,50 @@
           "width": 1200,
           "height": 630,
           "title": "RPT-Microsoft to invest $1.5 bln in Italian cloud business",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-microsoft-and-intel-project-converts-malware-into-images-before-analyzing-it.md",
+      "title": "Microsoft and Intel project converts malware into images before analyzing it",
+      "excerpt": "Microsoft and Intel have recently collaborated on a new research project that explored a new approach to detecting and classifying malware. Called STAMINA (STAtic Malware-as-Image Network Analysis), the project relies on a new technique that converts malware samples into grayscale images and then scans the image for textural and structural patterns specific to malware samples.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/microsoft-and-intel-project-converts-malware-into-images-before-analyzing-it/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-and-intel-project-converts-malware-into-images-before-analyzing-it/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-intel-project-converts-malware-into-images-before-analyzing-it/",
+      "publishedDateTime": "2020-05-10T18:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2019/04/20/932ea1cb-d0e5-4b88-801e-c33b6433469f/resize/1200x900/350c937a9c20ed5d4994987051363f4e/03-optional-features.jpg",
+          "width": 991,
+          "height": 900,
+          "title": "Microsoft and Intel project converts malware into images before analyzing it",
           "attribution": null
         }
       ],
@@ -1205,51 +1249,6 @@
       ],
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-minecraft-earth-and-azure-cosmos-db-part-1-extending-minecraft-into-our-real-world.md",
-      "title": "Minecraft Earth and Azure Cosmos DB part 1: Extending Minecraft into our real world",
-      "excerpt": "This post is part 1 of a two-part series about how organizations use Azure Cosmos DB to meet real world needs and the difference it’s making to them. In part 1, we explore the challenges that led service developers for Minecraft Earth to choose Azure Cosmos DB and how they’re using it to capture almost",
-      "heat": 108,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/minecraft-earth-and-azure-cosmos-db-part-1-extending-minecraft-into-our-real-world/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-06T03:00:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/dfd8c989-e0f7-4554-8e02-d4fbc1046c4f.png",
-          "width": 634,
-          "height": 534,
-          "title": "Minecraft Earth and Azure Cosmos DB part 1: Extending Minecraft into our real world",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Databases"
       ]
     }
   ],

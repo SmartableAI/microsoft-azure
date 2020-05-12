@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2CT3B2"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2CT3B2"
 type: article
 quality: 82
-heat: 122
+heat: 142
 published: true
 
 provider:
@@ -53,6 +53,19 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
+  - title: "Microsoft to Open Cloud Region, Invest $1.5B In Italy"
+    excerpt: "Microsoft continues to ramp up its cloud infrastructure with plans to open a new data center region in Milan – its first in Italy -- as part of a $1.5 billion, five-year investment in the country"
+    publishedDateTime: 2020-05-11T22:58:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-to-open-cloud-region-invest-1-5b-in-italy"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 22
+    images:
+      - url: "https://www.crn.com/resources/025d-0f62b427e83a-33808bdb1efc-1000/cloud-hybrid-it-hand.jpg"
+        width: 610
+        height: 458
 
 secured: "9IprSUU5gxu8T3que+FOrnMlP6+7vQW5TsQUC/wff9uRxwXWzRyMLDxiTpn3L5jBtJ+gUKo/k24WFc+7WUltcxO9/1hkCFyvFtr8ln/RiQfaFiy/hCWEWlI4whID/tKtppfei48qmUFZjBE7mWPr97wfJsJ3VaoCzJsjoGoMUv/wv0BCpVMkVPSlmGe6R/d1neKGO7HtnpKpa/TDiCA0HGZuuxxNJ0Njg2w9rsjtZOSqlUYtOlzYwGve1RQaz1/VPbWHwS8aG8+YjjimgaIf8i7IW7oxa1J5vnz5oy+4BLV5BZwAcSN/0KKGltMJXmMD;1Uhs70azjLjerkXdatLJvg=="
 ---

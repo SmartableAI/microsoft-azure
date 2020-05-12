@@ -24,6 +24,21 @@ images:
     height: 575
     title: "Amazon fires back at Microsoft regarding JEDI contract complaint"
 
+related:
+  - title: "Amazon attempts to “set the record straight” on its new private JEDI complaint"
+    excerpt: "In response to Microsoft’s corporate vice president of communications Frank X. Shaw’s recent blog post title Bid high, lose, try again. Amazon continues to push for JEDI re-do, an"
+    publishedDateTime: 2020-05-08T16:24:00Z
+    webUrl: "https://www.onmsft.com/news/amazon-attempts-to-set-the-record-straight-on-its-new-private-jedi-complaint"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 18
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2020/05/DH-Amazon.jpg"
+        width: 1130
+        height: 753
+
 secured: "ZeqeSJui4DiLa+16cPP80OBi3op9CEVn9B3h2Vl37ylriGgSDWqhPK5EfX3XyNdp7KD11Kh7XZHpWaKompVb4QDR/J3NsVMl6rNVyq4pt53f2UpffYOGmowzrfOirW9zKjFpuwadCBnoVWsFYwDjfGBuUf9DsxUxPa824MmE5DW5l+EotYw0DA6T2niYaBqJLkhABnFe5/VVJX1/BG6Xv4lwdpHoZKc/0gqkxliMHvTilCYALRFAToKF3Kc86URJGmAQRkpwYqE+yrPnBXJa6mcAddMOAs47mfWTs5CcSgzAT2aru8jvQoz7C65+oEX05h5g/Igy9mF/WJYy8WenLui0SiwKXgfrTluesTDwJRuW5BLCzUea6I5dLvwQSlhGuRNLVURnf/2WuvKX34Bv7nc5BBR5Aouodpof4PBjKz3bJ+wZXVDKsZQn1IY2xEfS3+/LgvE99Mu5/MSsBH2e4Dys0LwywhDJEnzJKCU0Tqs=;fMTMa0eBOpFbwhH6XbuY0Q=="
 ---
 

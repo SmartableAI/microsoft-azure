@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Microsoft invests $1.5bn in Italian cloud region"
-excerpt: "Microsoft is investing $1.5bn to establish an Italian cloud region in Milan, according to Reuters. In February, Microsoft promised declared it was to invest in Europe with a $1bn injection into its Polish business coinciding with the opening of a new data center."
-publishedDateTime: 2020-05-11T10:30:00Z
-webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-invest-15bn-italian-cloud-region/"
+title: "Microsoft to Open Cloud Region, Invest $1.5B In Italy"
+excerpt: "Microsoft continues to ramp up its cloud infrastructure with plans to open a new data center region in Milan – its first in Italy -- as part of a $1.5 billion, five-year investment in the country"
+publishedDateTime: 2020-05-11T22:58:00Z
+webUrl: "https://www.crn.com/news/cloud/microsoft-to-open-cloud-region-invest-1-5b-in-italy"
 type: article
 quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Datacenter Dynamics
-  domain: datacenterdynamics.com
+  name: CRN
+  domain: crn.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
-    width: 1200
-    height: 630
-    title: "Microsoft invests $1.5bn in Italian cloud region"
+  - url: "https://www.crn.com/resources/025d-0f62b427e83a-33808bdb1efc-1000/cloud-hybrid-it-hand.jpg"
+    width: 610
+    height: 458
+    title: "Microsoft to Open Cloud Region, Invest $1.5B In Italy"
 
 related:
   - title: "RPT-Microsoft to invest $1.5 bln in Italian cloud business"
@@ -49,20 +49,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 62
-  - title: "Microsoft to Open Cloud Region, Invest $1.5B In Italy"
-    excerpt: "Microsoft continues to ramp up its cloud infrastructure with plans to open a new data center region in Milan – its first in Italy -- as part of a $1.5 billion, five-year investment in the country"
-    publishedDateTime: 2020-05-11T22:58:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-to-open-cloud-region-invest-1-5b-in-italy"
+  - title: "Microsoft invests $1.5bn in Italian cloud region"
+    excerpt: "Microsoft is investing $1.5bn to establish an Italian cloud region in Milan, according to Reuters. In February, Microsoft promised declared it was to invest in Europe with a $1bn injection into its Polish business coinciding with the opening of a new data center."
+    publishedDateTime: 2020-05-11T10:30:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-invest-15bn-italian-cloud-region/"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
     quality: 22
     images:
-      - url: "https://www.crn.com/resources/025d-0f62b427e83a-33808bdb1efc-1000/cloud-hybrid-it-hand.jpg"
-        width: 610
-        height: 458
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
 
-secured: "kfulcevTMwhRVSXHTk7cabFSg5dOngSB1WuIcUtmKvo9cWZ+67JrUMnZKb137nilSlJNO4flVroR3dnV/6Xgkm2pTWhGi2VXkQjqn9kgaNk0bLFIvfCpd4psWAcYgq3TipNdZUtGt3Xp2jnepwS0vMF5sBd0+UMAR9E66C5nxuv/o+aXFroZPwN8/7rwbNp+fFIu+OfVq6M/701ioAGsfE/kQBpQvWEsWSbkkUzGUDnFELqwKu0yzrmqV2Uj4hR6gDu15B4QgG1DGLhHICHoPMAB6BX9WIRgv+ehKvMdAsC/PyGE3ciqO4FAqGNLrEfiMk0ZYKYNSWSoOiGzDdB9awZPjTwwoE+t70e7/9W+AJ4SxCo5KvLEhFtMPjV8KK93k0r7Tvh0gWaba8phx62xOJzsPuuxy7Dm+wgoImBHeuu7gUsGJRTWC2SCUiaphE+hTU4oC9Z/2ceJia7Z1KkfbR1JMrcZMu0fWw0k21AYiVU=;/W1IjkdVCDf+56ryAg5EFA=="
+secured: "yzdqHIXiLS0qGo8fe4ZXzEp/mb0HUuUyM+XwQYiR8DKbwgcFNk2EdYi71H3ioHGGbILEVabQll0OCfXgChwGJT3meVYwruncHry84FCGHrw4PkJZxewffwpgznqqZYlpFdE/WjCx5B75mDJZL/So4KtL/9xhlGyPVA1oO5X9SCXBrfa57yiirhomzktShN/BRYTueVk7RqeYvG+5Zq6hDWxPYnsBEudbhuG7zuWwWyrxeUPKieJ8L1MXuSPteSjILAHQC/tP1wO/4iumgxGEao7efyyIeHu+A9sYLxz5YSjLKyB/kbSNP6PPdcUdqyXm;GoW1J1iMbUS/c0QPzz9zbw=="
 ---
 
