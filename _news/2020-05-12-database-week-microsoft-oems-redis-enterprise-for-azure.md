@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/database-week-microsoft-oem
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/database-week-microsoft-oems-redis-enterprise-for-azure/"
 type: article
 quality: 97
-heat: 117
+heat: 118
 published: true
 
 provider:
@@ -45,6 +45,6 @@ related:
         width: 1024
         height: 682
 
-secured: "c0NBsTNoLpqiVSTANJ2UPV+9BaIid2hmAItD6I/kNudBW5WuioqapejT2apTGOOCxec0UPerHy8xOHJgXhW/jik49+HlusPvkNJrb4Gvh5aa2/PfMJzdkWIubb7IibZiloX5/uMZAfHkt3fPVgY9T6aAt1F9lEqr8Oj73i0+QGNDydGyAo3rPGNq3s/VJBO95OLaeJUHE0PnSCn3BzHS4jOTUX/0A+pleWSxqaNbVyu2JzvemN5aRu+0uMjdljQCpYYJYhz/N+3yFLOT2yNZUbFiTSjMgTxdqsCgqv9tTjl6tbykhNI9zyndekx1xp7o;7G6dikTr3PS+w6xjEQhiWw=="
+secured: "9NDfvYZKuXEPpemyXswnRtoLf4XgfmGCRmXH1L8RFOLuQeTt63HQ3VbS5kIauBoLXFj+pyjxtRRxejg+mbZhww5yt5QYcXrRXR/IfRxLQ5PAubsJzAVYJ7vYEYR8LBimQGzX6hQo2sPsNoxj59TJ85NvP1u7qgzwv5qrTBfbV7kJMb1PtXE6J9wmxJbESqBwSGBm+YQwyJKZYns2Y8MaAGqzDt4tOVuLBcdvJEPytln00yv6cQf6GTaIhXbauNOjhQCXr01aEbFlrHNq20Ay7VlEBlA4LMCOTZLqSjDPb0wdyhMXcpUkzF/h6YrNzjSE;fxMjv3WgJigClgTWadUNQg=="
 ---
 

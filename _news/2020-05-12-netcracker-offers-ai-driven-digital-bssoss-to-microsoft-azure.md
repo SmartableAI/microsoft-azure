@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-12T13:00:00Z
 webUrl: "https://www.marketwatch.com/press-release/netcracker-offers-ai-driven-digital-bssoss-to-microsoft-azure-2020-05-12"
 type: article
 quality: 77
-heat: 77
+heat: 78
 published: true
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 630
     title: "Netcracker Offers AI-Driven Digital BSS/OSS to Microsoft Azure"
 
-secured: "p0fWLdeVpT6xjrMcMW7CKc/ZyAx8f1s4bkWvPPxlNIUkIogBrWPXoRb6ke9kr+L5kAQ6rvz0rxiC90Gu/rJ47lsDAj5YUdJPruzevpve1vk5ZKqzuVVncu4vbJl32KU2lrprckBtJ3D/a4Losm4r5sOOMJx0o0kQ2cJPaWJnpowvA076lu9Ag3/lAGZdHKjAOZz2xOFJ2ul9XHQKu1TEOx4Ox6xhtvknfRWbfyeGUbRnChI4MEc31toPe4H2cibWlB5IGIwM764gZkMh9XHolThUYBQE8Dv587zbf4ETBgVGDeHZGl4BNQwrFYBAngM1;i+WHj1BV3q7cAbPffMdC+A=="
+secured: "tjNbyEqa+nwl2KYAlHDGLmUCbjjhE6nOseSW1TGeAX6vgtuLcEXoLpuYtK8Dx+52Lr49h4dP96LTl/YLhwbY5oI/it1COcK8Z9MVxXKiFaCNYgxT2d6qnP5iFlpXF3LOEiRmb322DxpSBICYc7Iv4OupPMT5whrX5JL4KlQEPkTNfrUko3kMMi2PCtk+5k3MVeOB8qfz1/LLDK2kdKxAE/+jyq5CurMgIL2I6Oeo3RKwwA2sd7RKGa/Jms2WPHiTUz6Yf/kMMimGVEr7uippJcoEi67048JqUs8ENL1jlL1ujEuaDu0If+/BqoNjSYue;X5OHKcC//lg7fswli/e+ug=="
 ---
 

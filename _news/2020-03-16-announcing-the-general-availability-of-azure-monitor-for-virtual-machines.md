@@ -6,7 +6,7 @@ publishedDateTime: 2020-03-16T10:00:32Z
 webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-monitor-for-virtual-machines/"
 type: article
 quality: 113
-heat: 113
+heat: 133
 published: true
 
 provider:
@@ -26,6 +26,21 @@ images:
     width: 1430
     height: 953
     title: "Announcing the general availability of Azure Monitor for virtual machines"
+
+related:
+  - title: "Announcing the general availability of Azure Spot Virtual Machines"
+    excerpt: "Today we’re announcing the general availability of Azure Spot Virtual Machines (VMs). Azure Spot VMs provide access to unused Azure compute capacity at deep discounts. Spot pricing is available on single VMs in addition to VM scale sets (VMSS). This enables you to deploy a broader variety of workloads"
+    publishedDateTime: 2020-05-12T08:00:18Z
+    webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-spot-virtual-machines/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 97
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/333076bc-4f9e-4461-9ba7-810752e19173.jpg"
+        width: 800
+        height: 468
 
 secured: "5KFKWaC1B7s62sRd7Ga+0/1l5iQRmX5qG1W2y3PssIv29pJ74aXuNtTxIrwtMD4xt1cXhh8Vh+Aerg3ckbBtjb6Fy2C0hUdG/P80jC2BC0qdbOqYqM6Snivh6jV3MhAAOl4STUD7CP+BhgvZ+0rQJF/1W6Z8JlohW2RPiJYcifZFVODTCqrTGdvhcpCnBYGGlk/trCDZfrFM/6pNfQMbxDtdwBO4KNL6syxvGJD1QQlzC2ME1eAhHHRn194xJXWWuvgGsAnQfC5+BaZ3rAyIoZ2L9eEA7ig+mLGT2LWmeOo7yvf21tudbY1unZMnsh6ggOV/l/SNtWZU5ZApvuXZUw==;JRxLW7Kk8B67k1fHOLXm5w=="
 ---
