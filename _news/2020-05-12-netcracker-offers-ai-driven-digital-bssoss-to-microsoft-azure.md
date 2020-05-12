@@ -26,6 +26,6 @@ images:
     height: 630
     title: "Netcracker Offers AI-Driven Digital BSS/OSS to Microsoft Azure"
 
-secured: "tjNbyEqa+nwl2KYAlHDGLmUCbjjhE6nOseSW1TGeAX6vgtuLcEXoLpuYtK8Dx+52Lr49h4dP96LTl/YLhwbY5oI/it1COcK8Z9MVxXKiFaCNYgxT2d6qnP5iFlpXF3LOEiRmb322DxpSBICYc7Iv4OupPMT5whrX5JL4KlQEPkTNfrUko3kMMi2PCtk+5k3MVeOB8qfz1/LLDK2kdKxAE/+jyq5CurMgIL2I6Oeo3RKwwA2sd7RKGa/Jms2WPHiTUz6Yf/kMMimGVEr7uippJcoEi67048JqUs8ENL1jlL1ujEuaDu0If+/BqoNjSYue;X5OHKcC//lg7fswli/e+ug=="
+secured: "qFnfe+jxHUVUdZIiS24fbI/AixjWMBhTg30ZH+LwfN+QfwW3czx1fXeqQGtXc2RhXUTmL+voEUPqLkfzHxs4yuSA2AicRGUHh1nk4j3USqu232WG+V75TtckyJv6lVTcITqXv+GCB/8z/HQVBkzZmfIJ6OHFWOiLoAzXum3+5IbBPbVX3J62u2qnejpmgITn0W356W8jzWpVKIEL0sm9Y2f0/NicLvROVI+4TeZZJ4D80dEolX47DMsBJTNszkxszlnwBzhIpEvOyChpX/H+5JnHJ20ClYZl8bUdI3IBK0FiRXnXIEhaKs1Y+1iUZw2g;Ed1strppBD1t1qIBIROF/g=="
 ---
 

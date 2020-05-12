@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Matillion Launches Matillion ETL for Azure Synapse Empowering Users with Data Transformation Capabilities for Rapid Access to Insights"
-excerpt: "Matillion, a leading provider of data transformation software for cloud data warehouses (CDWs), today announced the availability of"
-publishedDateTime: 2020-05-12T13:16:00Z
-webUrl: "https://www.prnewswire.com/news-releases/matillion-launches-matillion-etl-for-azure-synapse-empowering-users-with-data-transformation-capabilities-for-rapid-access-to-insights-301057644.html"
+excerpt: "Matillion, a leading provider of data transformation software for cloud data warehouses (CDWs), today announced the availability of Matillion ETL for"
+publishedDateTime: 2020-05-12T15:21:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/matillion-launches-matillion-etl-for-azure-synapse-empowering-users-with-data-transformation-capabilities-for-rapid/article_7b962a36-a426-5aed-ac9e-04ed7242d321.html"
 type: article
-quality: 5
-heat: 5
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
 
-images:
-  - url: "https://mma.prnewswire.com/media/775068/Matillion_Logo.jpg?p=facebook"
-    width: 812
-    height: 427
-    title: "Matillion Launches Matillion ETL for Azure Synapse Empowering Users with Data Transformation Capabilities for Rapid Access to Insights"
-
-secured: "E0bGiCGo3wX2qCjgg6EH1QZZG/uxFg6GxYW6plucxtXX5h6nQ16OU9+p3Vr7HOZUjT+cIk1NJC0+sG+Usl3/cteBPv20hf/Rg7Itw2a7uC8Kp71VaN6wdheFtpt50GTrVRIV1/aCpuIE1KRsu3lo620ZYSrlL5v/6BtfRaz+cJ3PdHsdXK1scH/ldKUPZ61h0lgI8e9fCbF/mBdJ77raFgUhyCLQYdN9KwsEM/l8H3EQSI0JFFx1PU7j9QP5eogwTa0u7Ixraa1+mrVl09hhYhDwPQSnWjBBG9zqXApLj0UQ4MZlx+OrgEOOIRudWQ9cSCYRzUFnZ9cNYcwhgBgD5pELLIN0zjlUMpu3gmNkZS53HAOEy6TYV4jLeYlHuNV/+PRuEGojtA60xSyMbcbn9kX/NPtlnH+75wKxPSUOeH4JlXyJtoa4TjYKnZD0ToKRHcCBDYJrEYBIOyH2XHALBCPHUNil8fYVVkVymaS/drg=;KRAU+ahsbeT56oZGnkXurg=="
+secured: "dlgpxUNmbhCDMFfivgQX3R0SshP+ZzKxzGBYKWbSXlQ4+soY7yJoCArDMpKXEasiPYhGpJB256sBKyNHe0y73Zys+oH9rBOryRJPnd/c9illvNtJgCEj221QM7Id8PIlDakbqTfqzjpDchWwTZJsdLCpmll488+sqma597opTLpZV7hc71R39qM0MXDuPJZ3tI0jIb7HJZscqR7IOQQct2k28HYGVzwLwVi9XoE1jt9RfGEpbB2USubY9ivmA/aDRSDsWbqPd6l6UklLUUgjToL/Se3g7+G+bxVzNYL/2sgmzJe6r9Z0DAsA0HfDjYzrSpqZ7XYzBMMLGRikeLVSwD+bfbLQIbGJON8HEZEMQ5nSFBdVxHpYpykuo3KPZNTBe+lUoWbpHxEo5fP4RHH7zXBA+mGjq2v7+UAuTeDKlHPQGuWAt/U1PZ/I/swthoEAMJ3+fZD5FO3v0ikzyMHHoQ0C1yI+5oAuiJ/zZlll+2Y=;za32rub35cCW3MvTRtBypA=="
 ---
 
