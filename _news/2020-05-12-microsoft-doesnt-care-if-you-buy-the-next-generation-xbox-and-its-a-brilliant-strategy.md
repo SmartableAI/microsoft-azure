@@ -28,6 +28,6 @@ images:
     height: 600
     title: "Microsoft doesn't care if you buy the next-generation Xbox — and it's a brilliant strategy"
 
-secured: "MvGFza4041UdsIWZGfjtwShsVJhc8ZwqbYWP5a4iSM63x4loNs5/M9RTpcyl47wtmdxmWSbHkWw/OPRYHk5ElAcVu2QdBHez5HeA2z/xgDQiyoCFtMYJwxa93RwbTYaoplahM/7khalcJQmP2MTgFVeAI1dLoKWpwNiZzl5hjhP59YBCM23I2yGWUKATXWGc2qNrHhKulp+mm5xy2DbONxEMQyk9PLwhIvWLz8bRhf50O7e++aloJ1Ws0ZQaQeptFYASxcHpJWKDpyH4WkpMWea/kE3bv7JuNjbGUoQILPdLNtSpowkLeqB+ThZjpVTt;Y3stI/g7vtuiS0yUdeMLWg=="
+secured: "cFAsPhIwQPY1zXTLXMKdOQ6vxha1+OSGPhVBDhSGVuT/BeFVT0Vh52mEhXhKzJ8tYEcylZHGgOu/SzDaOMmwBj57Dpdlgl7+4gIMTtU++umm6FjAwGAXZdCATUfUbksAk/y+v/cYUBqs9oFMkKpvVi2ErI89GY3oTyaayU/HMVqXZHnxm3WASy5EOATPYsIfr/Ym3cSvMXrTHx97z5Ts0C1LGAKFf2Ly3Y+fvHs5Fp9ezuHsVQ8+ghuKB/9CSiIWKWb5Qu9MgD/JlVNbxG2kYqzbMSgKZyYrHRoSgDilAAe1vX5/nBr48ILoDgfUF/i6F0L6S3l2HQpSi0wyDzxmBU+RvCFyf3YMyoDb5APJGpl6AoigCocDJcl5H7Rpyn4ThyIEvjU4TZO71vjPgc5chX3YwT5wDHGpYQc6qYwCQsNiw22mK2CPEviIiIGWcu+djY4kr14hP3DmzUJ4Of50H8hEMqGqPBgGAPhlmPtvNhw=;QeuTVFJpPlCG+sW5PmBBHA=="
 ---
 

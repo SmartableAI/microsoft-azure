@@ -28,6 +28,6 @@ images:
     height: 503
     title: "Microsoft releases more open-sourced cloud datacenter components, specs"
 
-secured: "5K5SKH2v/JTZkrzvkwvI0zEpMhTfvoDxQuih+8kGcg+4VnZoAoevTWqmH0GSFl47Z8SvTamq8ZN/i5u6+Rvg2JYjD8eiino375BrQ9r7tP9BSgGoMsIObuU+HAbslgo3lBu2hZyOhtmHm5R0NJQBGpbjM2nkkbyxQe1gI9GiweovcmSG1bNZyWpSF62FgeR4CpVfOKdlRqBYuhVQrK/BMrSU+eWMt/U+Mpj3O4B3Fir2rpo5Us/9zpf0Y6Kh/Ub2oGgkLU7DcVuMkHEN8XYaiE5YlKA6/7bTKlxcPBzKGv6Et709Ou/ryT/scVgSikiP;ie36o3rz6kSTqrqLT+hdcA=="
+secured: "MXx8uJ0j8Tvio1e/a/6x4BX6oc/MqqppCfBbLsrktdSI4zANElKUQXz6hXh0qJJP+ecU+xtMzG1tDoxG4IxlYB6hNnJS0V/p2xL8CAkHgbdJ0Fwqik3/bDRvKZQqVVmXP9E7X9z/U3Mrt5FeGTAYrljTT4wvXWF0dtveL3sdHLjyBw6zh4gTGz3e2kmf+l2XCQnEcyw7Van4z4LtDm2/mYXBVF3lRW/rIDKC7xCXsf0ak3HpwLnvsia+wpBzVjjsWH2cXkrYyK+EHKSYmQXWuqrUCLhIkYYgNIBMi5XeEH4OqcnE5iQlVFW69RreAHhFgQJEtcod5shthC+sPeO/yMo9E6KY83dh3nHVjrC1PCBbrY15r+bP12Tz7tqU/R9Nhn5FnFBdAkDPFhtjOeXuiJQJecuDNVuRF/+YxGTHr+aqFq5iNvgDsg24mvKTMArqhoVUd3k/P0iFAtz8VZoVOmd2uZMFyfzw8BcvM7K7vbs=;fRvHbvHiTcVjGOTV08i/Vg=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-12T15:29:00Z
 webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-eslint-7-0-datastax-astra-now-available-and-redis-labs-and-microsoft-announce-partnership/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,32 @@ images:
     height: 400
     title: "SD Times news digest: ESLint 7.0, DataStax Astra now available, and Redis Labs and Microsoft announce partnership"
 
-secured: "IFI7pyDKfwCA351v+dMpZFv8sLRxK/5OTn1IrDtYAhN3NnfnrTy+YaTG4i341F1T+JXhQNxV8+f5QOj8La2cqJf8mbN/f/wtbSVD7iwXWPm6KOcS1gomwCIAbHi6xNsSppOMiVFAVKZlkA/oBfiByFgy9fOfaGroq/FBF9vfu//olPS8+8JCkzWvfykHY2fRnqk1l0RlGfSbs/8owXilMOW24ir24BA9WjdHMu/7kF0yRrjTL/lPNAasU+T2162jj9rBhAVGRmecIdzHhJC2hi61O2Oz9MXgcZbv8QQwOParN00V3rFKihQIKZoDSEQ2;y+Kivr59PnyQxVi0DzUp7w=="
+related:
+  - title: "Microsoft deepens partnership with Redis to improve capabilities of Azure Cache for Redis"
+    excerpt: "Microsoft and Redis Labs today announced a major partnership to bring native integration between Redis Labs technology and Azure cloud. As part of this partnership, Redis Enterprise is now available as two new tiers of Azure Cache for Redis."
+    publishedDateTime: 2020-05-12T15:29:00Z
+    webUrl: "https://mspoweruser.com/microsoft-azure-cache-for-redis/"
+    ampWebUrl: "https://mspoweruser.com/microsoft-azure-cache-for-redis/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-azure-cache-for-redis/amp/"
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 48
+    images:
+      - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Redis-Enterprise-for-Azure-Cache.jpg"
+        width: 1663
+        height: 945
+  - title: "Matillion Launches Matillion ETL for Azure Synapse Empowering Users with Data Transformation Capabilities for Rapid Access to Insights"
+    excerpt: "Matillion, a leading provider of data transformation software for cloud data warehouses (CDWs), today announced the availability of Matillion ETL for"
+    publishedDateTime: 2020-05-12T15:21:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/matillion-launches-matillion-etl-for-azure-synapse-empowering-users-with-data-transformation-capabilities-for-rapid/article_7b962a36-a426-5aed-ac9e-04ed7242d321.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
+
+secured: "4udsugOxIls8vYdluK5Snehnx/ED/j81pWuXKx36BqKuXG2zHN+HYQnzMoNHX24HVkxGYg8Ponu31cqVhbt+H8LxgjlTwMd5jwZNSKeWcIxpvPuJ+aIQNE9xrM9a7h2/t2Y5C8gyQOXEYB8Q7W9/OalMV8sFoGeFUkJEOmn1hN7n7zLTSa9fUs25ZmtxeRYeSJc/Jnm5F9R9FjwkwTa2Hpvc70D5mw4ujEsG8aAB8l2qxkGszQ6Z7hzgmjEX0ba1ooKa3Ls4BchbC0Z9zG6O0/gdgSoqUC+kssHE2mc7A7L2ZZ5tVP1Xlrpk0dn6kuUZN1HBhrOqiVlssad0dvbGhQpWum4/rgxliF4RIeDq7tNqQYaIIPnWFE8oAjpYUr7LbtZfauVMC99S31JiKdAlVlamrpRPmFPS8QHmYXBEhDk4og2sBmHKfwzwi1QVkzLzZeXmciiVgcNZmxDyQvIunDkOLMIyuzBJsKbZtTGh6ws=;uwp2/R006zIvj+0qxk2OKg=="
 ---
 
