@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-well-give-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-well-give-you-100000-if-you-can-hack-our-azure-sphere-iot-platform/"
 type: article
 quality: 92
-heat: 92
+heat: 112
 published: true
 
 provider:
@@ -27,6 +27,23 @@ images:
     width: 1200
     height: 675
     title: "Microsoft: We'll give you $100,000 if you can hack our Azure Sphere IoT platform"
+
+related:
+  - title: "Microsoft will pay up to $100,000 if you can hack Azure Sphere OS"
+    excerpt: "Microsoft has announced a new bug bounty program to push the limits of Azure Sphere Linux OS. To that end, the company has announced “The Azure Sphere Research"
+    publishedDateTime: 2020-05-08T13:00:00Z
+    webUrl: "https://mspoweruser.com/microsoft-pay-100000-you-hack-azure-sphere-os/"
+    ampWebUrl: "https://mspoweruser.com/microsoft-pay-100000-you-hack-azure-sphere-os/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-pay-100000-you-hack-azure-sphere-os/amp/"
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 57
+    images:
+      - url: "https://mspoweruser.com/wp-content/uploads/2019/10/Azure-Sphere.jpg"
+        width: 926
+        height: 596
 
 secured: "3B/J76GFPBVCCs7lVYYuyxiJS2ZwfAwo3nJKmFpXMigaYcmkKF1tvBoJyefz4FC0Vrd9R1xdgoOpDuKZPFlh0Fdzug3St5m12n2d77UZMokg+Tee/DStmwDCH69TRsgwQoyDXcG4dIc1E7ATlyl2fdLZkTL3+wTfNnB1BuI/2t2qJ4xXRHgvuMwITSdUJDwd3N38q3WX54dLxHdBCI+aQ8gkS9UxX/sQbw8WXyLJWyVFYEbSfyX9BXawabBMX2wy6EoH+gppwUdIXb/61PQ9UU7mg2bvjoojJNCK3SAefBQAvecPXBK8nBK6n59sjfT19rAt9/y01EwNBY6CTf+v2ABrFfIrCO7tvupX6fvH/CIKZNRGoKinBsHRBQLWDTiuydEEDwHPZf1ulygaZ7U6yb7GuuTA2IlDSIdjdyYYjCf0uxGKyu0zqU9NK5JLFhTR3JT7UALFBq7jpMHqo33+TL/GMcna81F42cUDk5zraXc=;mlclozkLOhXBB14X4cDhfg=="
 ---
