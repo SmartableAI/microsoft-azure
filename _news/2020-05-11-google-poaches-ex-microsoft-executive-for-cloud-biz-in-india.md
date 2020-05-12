@@ -32,6 +32,19 @@ related:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/5/11/w600X390/AP19249633396987.jpg"
         width: 600
         height: 390
+  - title: "Google poaches ex-Microsoft executive for Cloud biz in India"
+    excerpt: "Google Cloud on Monday announced the appointment of former Microsoft executive Anil Bhansali as Vice President of Engineering."
+    publishedDateTime: 2020-05-12T04:31:00Z
+    webUrl: "https://www.sify.com/finance/google-poaches-ex-microsoft-executive-for-cloud-biz-in-india-news-topnews-ufmjDAebbadef.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 22
+    images:
+      - url: "https://www.sify.com/uploads/google_cloud_logo_ians_ufmjDAebbbjag.jpg"
+        width: 650
+        height: 427
 
 secured: "KkHmLOgtbQRYCcE0MJvDnu0uyGzPU4FrECiK8mW4kpIy4GD7Uj8SUWXgcmQryEs8vYN3QME+vhhwTX/lRs+VjjiVNzoRz6nrsYn/NOTjq7AXE/EWfaV49UAty/6nIEMs4YW+oG/wuwZg1swgwfx/BXiRo9pBqnfvwzT1cMxZg49o9DRfzZP8xpXwhCetZ6UhD6LJf6KSoDsh0a6TLov0FIzTx6jLcK2itrFAhiTw3lso22gCgU2xig2/C5qlb/Slfblwrlxx6MuENP0Uuvls1rBRH4BhIilZVK0bcJf36l379M8KCo+GyouiobD3YmCh;iCj4AgmwXi21ZXmxviLyqQ=="
 ---

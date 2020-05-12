@@ -1,32 +1,22 @@
 ---
 category: news
 title: "Amazon, Microsoft Trade Fresh Barbs in Ongoing JEDI Dispute"
-excerpt: "Microsoft (NASDAQ:MSFT) and Amazon.com (NASDAQ:AMZN) traded a new round of shots in their ongoing fight over a $10 billion defense cloud computing contract award on Friday, with Microsoft urging Amazon to stand down but Amazon vowing to press on."
-publishedDateTime: 2020-05-08T22:44:00Z
-webUrl: "https://www.fool.com/investing/2020/05/08/amazon-microsoft-trade-fresh-barbs-in-ongoing-jedi.aspx"
-ampWebUrl: "https://www.fool.com/amp/investing/2020/05/08/amazon-microsoft-trade-fresh-barbs-in-ongoing-jedi.aspx"
-cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/08/amazon-microsoft-trade-fresh-barbs-in-ongoing-jedi.aspx"
+excerpt: "Microsoft (NASDAQ: MSFT) and Amazon.com (NASDAQ: AMZN) traded a new round of shots in their ongoing fight over a $10 billion defense cloud computing contract award on Friday, with"
+publishedDateTime: 2020-05-08T19:07:00Z
+webUrl: "https://www.nasdaq.com/articles/amazon-microsoft-trade-fresh-barbs-in-ongoing-jedi-dispute-2020-05-08"
+ampWebUrl: "https://www.nasdaq.com/articles/amazon-microsoft-trade-fresh-barbs-in-ongoing-jedi-dispute-2020-05-08?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-microsoft-trade-fresh-barbs-in-ongoing-jedi-dispute-2020-05-08?amp"
 type: article
-quality: 82
+quality: 62
 heat: -1
 published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg"
-    width: 580
-    height: 378
-    title: "Amazon, Microsoft Trade Fresh Barbs in Ongoing JEDI Dispute"
 
 related:
   - title: "Amazon and Microsoft are trash talking each other over a DoD contract"
@@ -90,6 +80,6 @@ related:
         width: 1280
         height: 853
 
-secured: "7mBQAOO3ZRsBuynFDxn4KxuyZ8XiYE1fa/OBew7PseoXK/Ev8AWH6clIBdKMrX4tRljyA2KbdY8xhALX1I/kUtjGa72BG97twQFWaT7dubnBqN6C0Uj/XwOQ8kObQ0ajTtHmnqwA08MPwd20MZQqh1T04Tn8EKf3js4pOjfh6QHhczgeTJIVtYjbqbNRIyr5crcBNvMgZidTMaUzm5igKLp7xSKa/cWNDbzilD4s7jN7e/R2dlyrykVpWOPK6ylDmkTdFpANckWCWD6UK+0xM1tORMHk89Myhga3MTvJBaKVIe0em8fWX14+OFHnhoDHAMo4ZuiKklC/jT/j3Okg6/JYp63deXfcp3t07J7X3mX952ErE1Ue0j6DIfss+VR+q9jpGXFvHIej8oTF3Xst+r1EGeF5Lt0mYITlyKTWSrs3p+yz54IWN/YhpeftOeHx4GUG4vJrhvbI+d0wS5jhiReCfN9y7mHG/HoDDb05gJU=;6nDz/X93mRROLTZpXJVG4A=="
+secured: "JHwqQ5m+Cfp+ec7c1vHQr2W7mD4KhTSR8+mT92HyP3a8i1rCxgK0X7EZAQOqVcTdqnz60e9ua3j4rBTxnTPb/+727TuotvigVv9RLk5/gWAelH4/+UndardZa38nNKyZUDwak7nyPfefYbsVZeNg5I7ML6hvhDrliNnJZu6/lr54TxHPZ+FkXbjLIgQHH+MERDXlq01zWDIBEhl6BbBUVUKQGLb1Z7fjJePSojoBvJrYrWvlQ9yggfK8Mnh6B18tcTNeK8d8Zue95UW4oPoQBsoLd+AWOYQRaXjQZ4clStg2jq1tnHqk3QHXOBlGkzS9xjwPa9B5TZdLdk+B6e+y7vePZzKfxd8Fj4BBohRte1tj1i1xvhJcJ+brMnz+KoHFVJbUtf4dJJzzBOc7AIUFxgaav86KodMOeh3EhBPwOLv+0kCY1x8TiwdgsdY+8GbDIxt5DH30NfBa3PijN+VRFjezogRKAQ4tGZQq6BzIZVs=;1oul9DuLCjfS4uo11LdOdw=="
 ---
 

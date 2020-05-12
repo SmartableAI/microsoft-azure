@@ -44,21 +44,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-10%2F073b94a0-f1c4-11e9-8f5b-2c0832cca481&client=amp-blogside-v2&signature=0440a7701a50126da12ef6ffbcc2f78eb97c80fd"
         width: 600
         height: 350
-  - title: "Amazon, Microsoft Trade Fresh Barbs in Ongoing JEDI Dispute"
-    excerpt: "Microsoft (NASDAQ:MSFT) and Amazon.com (NASDAQ:AMZN) traded a new round of shots in their ongoing fight over a $10 billion defense cloud computing contract award on Friday, with Microsoft urging Amazon to stand down but Amazon vowing to press on."
-    publishedDateTime: 2020-05-08T22:44:00Z
-    webUrl: "https://www.fool.com/investing/2020/05/08/amazon-microsoft-trade-fresh-barbs-in-ongoing-jedi.aspx"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/05/08/amazon-microsoft-trade-fresh-barbs-in-ongoing-jedi.aspx"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/08/amazon-microsoft-trade-fresh-barbs-in-ongoing-jedi.aspx"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 82
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg"
-        width: 580
-        height: 378
   - title: "Amazon and Microsoft are accusing each other of playing dirty to get JEDI contract"
     excerpt: "Last month, the DoD cleared Microsoft's JEDI contract award, after it couldn't find any wrongdoing in the whole process. This was the first result of legal action where Amazon, the company that came closest to winning the bid,"
     publishedDateTime: 2020-05-08T23:38:00Z
@@ -74,6 +59,17 @@ related:
       - url: "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-08-image-13.jpg"
         width: 1600
         height: 1001
+  - title: "Amazon, Microsoft Trade Fresh Barbs in Ongoing JEDI Dispute"
+    excerpt: "Microsoft (NASDAQ: MSFT) and Amazon.com (NASDAQ: AMZN) traded a new round of shots in their ongoing fight over a $10 billion defense cloud computing contract award on Friday, with"
+    publishedDateTime: 2020-05-08T19:07:00Z
+    webUrl: "https://www.nasdaq.com/articles/amazon-microsoft-trade-fresh-barbs-in-ongoing-jedi-dispute-2020-05-08"
+    ampWebUrl: "https://www.nasdaq.com/articles/amazon-microsoft-trade-fresh-barbs-in-ongoing-jedi-dispute-2020-05-08?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-microsoft-trade-fresh-barbs-in-ongoing-jedi-dispute-2020-05-08?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 62
   - title: "Amazon Fires Back in JEDI Cloud Wars Between Microsoft Azure and AWS"
     excerpt: "Amazon says it will continue to fight Microsoft over Azure winning the $10 billion JEDI cloud contract from the Pentagon."
     publishedDateTime: 2020-05-08T16:53:00Z
