@@ -2,6 +2,183 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-30-microsoft-stock-pumps-after-it-sees-two-years-of-digital-transformation-in-two-months.md",
+      "title": "Microsoft stock pumps after it sees two years of digital transformation in two months",
+      "excerpt": "Microsoft just dropped its earnings for the first quarter of 2020 and — as one might expect — coronavirus lockdowns were great for its bottom line.",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/hardfork/2020/04/30/microsoft-stock-pumps-after-it-sees-two-years-of-digital-transformation-in-two-months/",
+      "ampWebUrl": "https://thenextweb.com/hardfork/2020/04/30/microsoft-stock-pumps-after-it-sees-two-years-of-digital-transformation-in-two-months/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/hardfork/2020/04/30/microsoft-stock-pumps-after-it-sees-two-years-of-digital-transformation-in-two-months/amp/",
+      "publishedDateTime": "2020-04-30T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/12/Microsoft2-796x530.jpg",
+          "width": 796,
+          "height": 530,
+          "title": "Microsoft stock pumps after it sees two years of digital transformation in two months",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-azure-cost-management-billing-updates-april-2020.md",
+      "title": "Azure Cost Management + Billing updates – April 2020",
+      "excerpt": "Whether you're a new student, thriving startup, or the largest enterprise, you have financial constraints and you need to know what you're spending, where, and how to plan for the future. Nobody wants a surprise when it comes to the bill, and this is where Azure Cost Management + Billing comes in.\r\n\r\nWe're",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-april-2020/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-30T04:00:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/099b92eb-591a-4ea0-b7b4-78f34f6e8f57.png",
+          "width": 1506,
+          "height": 872,
+          "title": "Azure Cost Management + Billing updates – April 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-azure-container-registry-mitigating-data-exfiltration-with-dedicated-data-endpoints.md",
+      "title": "Azure Container Registry: Mitigating data exfiltration with dedicated data endpoints",
+      "excerpt": "Azure Container Registry announces dedicated data endpoints, enabling tightly scoped client firewall rules to specific registries, minimizing data exfiltration concerns.\r\n\r\nPulling content from a registry involves two endpoints:\r\n\r\n\r\n\tRegistry endpoint, often referred to as the login URL, used for authentication",
+      "heat": 110,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/azure-container-registry-mitigating-data-exfiltration-with-dedicated-data-endpoints/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-30T03:00:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/65527b4a-84d5-4864-92e5-78da3ecba512.png",
+          "width": 640,
+          "height": 214,
+          "title": "Azure Container Registry: Mitigating data exfiltration with dedicated data endpoints",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-cross-region-restore-crr-for-azure-virtual-machines-using-azure-backup.md",
+      "title": "Cross Region Restore (CRR) for Azure Virtual Machines using Azure Backup",
+      "excerpt": "Today we're indroducing the preview of Cross Region Restore (CRR) for Microsoft Azure Virtual Machines (VMs) support using Microsoft Azure Backup.\r\n\r\nAzure Backup uses Recovery Services vault to hold customers' backup data which offers both local and geographic redundancy. To ensure high availability",
+      "heat": 116,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/cross-region-restore-crr-for-azure-virtual-machines-using-azure-backup/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-30T02:00:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/b8495529-cdab-454f-ac29-78f63339532e.jpg",
+          "width": 755,
+          "height": 385,
+          "title": "Cross Region Restore (CRR) for Azure Virtual Machines using Azure Backup",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2020-04-30-microsoft-q3-strong-as-remote-work-propels-teams-office-365-azure.md",
       "title": "Microsoft Q3 strong as remote work propels Teams, Office 365, Azure",
       "excerpt": "Most every organization has been thrust into the future of work faster than prognosticators dared imagine. What will determine failure or success in this brave new world of work? Read More Microsoft crushed expectations for its third quarter as the company saw strong demand among its cloud services.",
@@ -34,6 +211,50 @@
           "width": 1337,
           "height": 779,
           "title": "Microsoft Q3 strong as remote work propels Teams, Office 365, Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-timextender-discovery-hub-is-now-microsoft-azure-certified.md",
+      "title": "TimeXtender Discovery Hub is now Microsoft Azure certified",
+      "excerpt": "With this certification, Discovery Hub is now a trusted application that is available in the Microsoft Azure Marketplace. The Azure Marketplace is an extensive catalog of products from independent ...",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sdtimes.com/msft/timextender-discovery-hub-is-now-microsoft-azure-certified/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sdtimes.com/images/sd-premium.png",
+          "width": 628,
+          "height": 246,
+          "title": "TimeXtender Discovery Hub is now Microsoft Azure certified",
           "attribution": null
         }
       ],
@@ -814,210 +1035,6 @@
           "width": 630,
           "height": 473,
           "title": "Google Cloud revenue rises 52% as tech giant tempers hiring and spending plans amid crisis",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-google-extending-cloud-reach-with-cisco-amazon-and-microsoft-connections.md",
-      "title": "Google extending cloud reach with Cisco, Amazon and Microsoft connections",
-      "excerpt": "Google made several announcements, including a partnership with Cisco that will better connect Cisco’s software-defined wide area network (SD-WAN) tools with Google Cloud. Google also announced the production release of Anthos for Amazon’s AWS and a preview",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/85012-google-extending-cloud-reach-cisco-amazon-microsoft-connections.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85012-google-extending-cloud-reach-cisco-amazon-microsoft-connections.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85012-google-extending-cloud-reach-cisco-amazon-microsoft-connections.html",
-      "publishedDateTime": "2020-04-28T13:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/04/2020-04-28-image-30.jpg",
-          "width": 2461,
-          "height": 1200,
-          "title": "Google extending cloud reach with Cisco, Amazon and Microsoft connections",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-azure-advisor-integration-with-aks-now-generally-available.md",
-      "title": "Azure Advisor integration with AKS now generally available",
-      "excerpt": "",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-advisor-integration-with-aks-now-generally-available/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-28T09:30:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-windows-server-containers-in-aks-now-generally-available.md",
-      "title": "Windows Server containers in AKS now generally available",
-      "excerpt": "",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://azure.microsoft.com/en-us/updates/windows-server-containers-in-aks-now-generally-available/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-28T09:30:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-cloud-security-company-cloudflare-makes-maverick-big-bet-on-china.md",
-      "title": "Cloud Security Company Cloudflare Makes ‘Maverick’ Big Bet On China",
-      "excerpt": "With U.S.-China relations at a frigid moment as the COVID-19 pandemic grinds world trade to a trickle, it might seem an unlikely moment for a Silicon Valley tech company to make a big China push. But to hear Cloudflare CEO Matthew Prince tell it,",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/davidjeans/2020/04/28/cloud-security-company-cloudflare-makes-maverick-big-bet-on-china/",
-      "ampWebUrl": "https://www.forbes.com/sites/davidjeans/2020/04/28/cloud-security-company-cloudflare-makes-maverick-big-bet-on-china/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidjeans/2020/04/28/cloud-security-company-cloudflare-makes-maverick-big-bet-on-china/amp/",
-      "publishedDateTime": "2020-04-28T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ea856ec165a170006a5e90e%2F0x0.jpg",
-          "width": 1199,
-          "height": 798,
-          "title": "Cloud Security Company Cloudflare Makes ‘Maverick’ Big Bet On China",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-zoom-hires-oracle-not-amazon-or-microsoft-for-cloud-deal.md",
-      "title": "Zoom Hires Oracle, Not Amazon or Microsoft, For Cloud Deal",
-      "excerpt": "Zoom said it tapped Oracle for its cloud needs because it stood out in its ability to meet all the demand the company has experienced.",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/04/28/zoom-hires-oracle-not-amazon-or-microsoft-for-clou.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/28/zoom-hires-oracle-not-amazon-or-microsoft-for-clou.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/28/zoom-hires-oracle-not-amazon-or-microsoft-for-clou.aspx",
-      "publishedDateTime": "2020-04-28T08:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F570037%2Fzoom-oracle-cloud-mf.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": "Zoom Hires Oracle, Not Amazon or Microsoft, For Cloud Deal",
           "attribution": null
         }
       ],

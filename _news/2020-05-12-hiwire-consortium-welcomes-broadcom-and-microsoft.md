@@ -1,27 +1,27 @@
 ---
 category: news
 title: "HiWire™ Consortium Welcomes Broadcom and Microsoft"
-excerpt: "Today the HiWire Consortium, a non-profit corporation supporting the advancement and adoption of HiWire Active Electrical Cables (AECs), announced that Broadcom (NASDAQ: AVGO) and Microsoft have joined the HiWire Consortium,"
-publishedDateTime: 2020-05-12T11:54:00Z
-webUrl: "https://apnews.com/054ca064034448aba2c4cf789705a500"
+excerpt: "Broadcom and Microsoft have joined the HiWire Consortium, which supports the advancement and adoption of HiWire Active Electrical Cables (AECs)."
+publishedDateTime: 2020-05-12T12:22:00Z
+webUrl: "https://www.businesswire.com/news/home/20200512005238/en/HiWire™-Consortium-Welcomes-Broadcom-Microsoft"
 type: article
 quality: 22
 heat: 22
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mms.businesswire.com/media/20200512005238/en/791014/23/hiwire_consortium_purple-grey_TM_10_inches.jpg"
+    width: 1200
+    height: 627
     title: "HiWire™ Consortium Welcomes Broadcom and Microsoft"
 
-secured: "5g3D/WXyi/dww1nKZ0vFNkXoKWwlc5MYfoEfQO5Zff0RX8SjJ65A/k+amZAXuSqdyxCWJZqMXKJ54hoX1F9AgRfYbgwf2vgtLmGCEBIHhLeO+ubsO6Qn4c/RI/i1F4O0NWO/wx01HEGbb5zN57QhmgOv2j2xTpLcQ+m+lwQjaDSzeD+J0WtH1dg6UCacC8eZq7rRVXUl+d6WiEeHImtTUru/vX4PUQJn7rPPcAPyq4AkIg7WOPNk16HTcQQqaGVxD6oRWnBUCHGDYvR6NJ/fk1w2cqwFEcL/+i2aRBud1b4LJeTx+soILtw8ccATLPIE;ROJ6Q9yPUf2FFq1jDZ7IUw=="
+secured: "yI9fE+hJQAkYrm4TFHTFmldGKNa/zVn20Hr03EJj2xkSMBIfEriuovVqfstQwf7MdrNZIK+Tf2Li/oZ+jY7YS364YU8bt2+YPZ1liSVhgp4Ec56LjWfqvJjlX6Uhhr/d8yt3SmS2JiTaPm/fLNR97NmKXONu8mMlylB+oFZod9Aut9pO5wIc3xCdwM0jqw3mIVyL/EI6YQOWReolpdNHO7AKN7g8MmheGmmfX3zHJ41oJ2Br6vbD3SHdpevKA8Xr8pTbkBK+5ZQELbaoF8J3MIZn09xBdUtSumRtHuQL5ZlufCxN6UkorzvmdgLO+B6p;2mtSiaKe+rjQh5jSUGhzNw=="
 ---
 
