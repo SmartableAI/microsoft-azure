@@ -22,6 +22,6 @@ images:
     height: 250
     title: "TD Bank chooses Microsoft Azure, says hyperscalers have ‘upped their game’"
 
-secured: "LqNpGTiVCvq3hVKvBD8GLMMoCbxtBmuY6nZcJMZ13xbB5Qtz9x2v36JswI/gcDOazBe6rbNssSZJyjbkSLjVKFZlZCmb6/cYzntVVqK2NqBsV0Xa0a9G+OtWrDsfHKm1LZsPvuK9Z9SJJyJ8bkEH61VXz8EEJqzoCdPuBxyH7LKHILK0v5p6OJFsNZ6U7vbSIcr2gnGo7gpzwMmQUwBu6YtK1Sex4qswbk1siSNsgxIl4Wv+Srrdz2FDwD1BHqw7ZrjcwW+nivsOPqLuMTZNKdGNWRnybkNJjuA27OiGLR5yvHOUrCGB8bfsm5dKN2/Q;Hw/Ob5OJ9eQ/Q28MjQu6fQ=="
+secured: "4RBL0uifDY9H7mu5i7koatKli6FYlxgkkEBw9ZW0/8ZF+QfPEl/22mQhUNZZokkcAOg7efb0KfayTYg+d5pJzgq1mTKRr0GxuK4E9aGqVs/mqklq5tHQyPl9powL9vEd4pyi+938bHZ7OmcaBBxvuqhvA4eduQESY49gVmf2RCeZsiZLb2e42rOuczeqDN+rKZDtozgOtwjVqj5lvjiIQy6MmCgdjN37RIpNEbAh6F5w8omeiWvN76hsgf1EgWz4eMcPwu8XS5fI9rLhY3Ce9vm55CmNwsjg9lqFFLXTRuyhndpuhsuMirUFM+Cl83nj;myoHnRaVxPGr8IPsilF5Iw=="
 ---
 
