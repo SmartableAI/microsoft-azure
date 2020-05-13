@@ -22,6 +22,6 @@ images:
     height: 627
     title: "Global Cloud Applications Market Analysis (2020 to 2026) - Key Players Include Google, Oracle & Adobe Among Others - ResearchAndMarkets.com"
 
-secured: "jS3gqG+zwNB21Q+QLsup4Kss9hYlwHoXl7ueLy4ajes+ck1ifkE1h5P7zL8/vzWUrMqs4X3wTCZQZtSabRXnEHcMnX0eIgARMm8BLgJPEqfqgWn6dn90UnL6+kJbRacjlNznynt0eE88BglAZiLHgt4dV3ejmvtAc0ld3+SpjtD3rTlyaGyKxE2l9KT/Q0+q9KXsx+tZOPfDcOwMqvvIXfWaXsrXtfupk35pJsinOoBT7sPLvWw1fQHU3mZ2ZYaM6jazFIzD7GZ95VH5vzEpEin8c5FFvzbTO2zDzw4yHwhm+agUs7KJlpW1TjFpGQnb;pDkXBvCFJVyB0GTKR08gtA=="
+secured: "6GAHZ4iPKk+OryHE07r6bU2n0wxFfYtfbs9XhuDSMwsDNIkoHjYZfgI2oXlQo6/8BQq1iV+0AG+rtZ/5OVg031gsE4KqHn3JUv6JQ6UnROQmOlENNGvX3Oax1dszBb8FhjE2tPquw9RWOddzbsGej17crPglhXUyi8DZUrLh8639VIXKJ9tDkFxgAcL0WCjvhMw+zeWxvG2SkLrs9OR9FnsoUBcW+ubBeeQSrH0UpRm66NcqtcDlj3FjoNaRERj+DH5BsH3N+rfMsuC/4nLSGgDvrt3Q5yunaR+lxtNBrz9pu+jxQJ0qkcVI4rH45ku/vBBmiZF+EXbNp3EjMUSguwNjETVV+6IQBKKrGyXXkF0KumpMnxF/5rkh9V2T+Mhdexqd1kPKQSKf+tq2Ev7oks0ZyJWpv2Xgbuggz1J8egXvONgfXUhIhdZKgArFyI0KNSzbWCOduzp28leMdUyUOan6hddZY3huXXBeRpo8lsY=;KJ+i6s4v9FRMp526ROWiJQ=="
 ---
 
