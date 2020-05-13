@@ -38,6 +38,15 @@ related:
       - url: "https://www.thehindubusinessline.com/static/theme/default/base/img/og-image.jpg"
         width: 300
         height: 300
+  - title: "Microsoft to launch Back2Business Solution Boxes for Indian SMBs"
+    excerpt: "Microsoft to launch Back2Business Solution Boxes for Indian SMBs New Delhi, May 13 (KNN) Microsoft has plans to launch the Back2Business Solution Boxes for helping Indian small and medium businesses (SMBs) in maintaining business continuity and embark on their cloud adoption journeys."
+    publishedDateTime: 2020-05-13T13:59:00Z
+    webUrl: "https://menafn.com/1100156764/Microsoft-to-launch-Back2Business-Solution-Boxes-for-Indian-SMBs"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 2
 
 secured: "3zfVZiIzWAVad+E7gHICLF0VSuZof3mF3D3McTky1arN0ax8kwbGQerA9h1Vnd99WqvxIQKHH/Gjad1/fq/uV0c1mMZJJhJvwNeRuTWGX8DPO3dNzYBUEx0m+AfStfzs235flQKnCwtexg7B12NjlG6Zm8JMBhPGSo3bKN4Rhvwn0vR9sZF65wgWvwoe+FAJ7TkX6beRjCO56FmpyCBlwsTlNZiaaWI7aADuDHbWpXjb+cOa7JSH48eqxY5bw8H7BAI+mM5BMsAKilykG66qjVN1Dhxz0pXlW5uh3M7tunSIHXIJvOPYRek3XY0G9v8h;WjYNn0vE9qfHvqeB9aBV9Q=="
 ---
