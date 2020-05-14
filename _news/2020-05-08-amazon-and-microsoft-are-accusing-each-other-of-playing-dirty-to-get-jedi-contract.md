@@ -89,6 +89,19 @@ related:
       - url: "https://winbuzzer.com/wp-content/uploads/2016/04/Microsoft-Clouds-Pixels-Reuse.jpg"
         width: 1280
         height: 853
+  - title: "Amazon and Microsoft row over JEDI contract"
+    excerpt: "It was awarded to Microsoft in October 2019, after more than a year of acrimonious argument, and the war of words has continued since then. Throughout 2019,, it had looked as though AWS would be clear winner,"
+    publishedDateTime: 2020-05-14T15:30:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/amazon-and-microsoft-row-over-jedi-contract/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 22
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/JEDI_Thats_No_Moon.2e16d0ba.fill-1200x630.png"
+        width: 1200
+        height: 630
 
 secured: "19M8hb3pHnhXB+TiskuSSjrEb2RLB2Hq1+nVae0tgbCbdrHLCp0Fa7crU0WywVz1NqgmFrm6oEfFl4TWVUSeuS3dT5KZA6BlkkG5Rtcv/DwOddqJKQP9hYoaGmwS6SQgMJulNodjwNRWhEgkLLRGPNL27suV2zsflQ3estVrcjiq4OpAqfJUNkRpEjIca0nR2V1nhB/SgrTjKUsCoKOc48Wps2Oab7tSi8URmNUqu375S4KrPRGlumxkkP+saoDZB3spAte913ntmTiMpuZ7H26De+lvQv4WH2rjb7dsDeJA+bdjvLK8il1ARxiX6QdFLc7Tt/tNW/Kezfh78dPn8vwFFRWq/FJwwiJiRtcUEpZomFgduHmO/l0ggfc1H7EhVnw9+1BmFo3kqgcJNF0NwpRGB1ds4y/3o4yBiBQkjlBLjHtHddYW5DNi7CrvxXJCAaEtf9qERTBshC17lXyO6DlK0/XQheHrQ4zHc9zQXVw=;dlP/3oWsaVnyP9uydTQTug=="
 ---

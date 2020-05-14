@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/amazon-microsoft-jedi-fight-154208730.h
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/amazon-microsoft-jedi-fight-154208730.html"
 type: article
 quality: 82
-heat: 162
+heat: 182
 published: true
 
 provider:
@@ -89,6 +89,19 @@ related:
       - url: "https://winbuzzer.com/wp-content/uploads/2016/04/Microsoft-Clouds-Pixels-Reuse.jpg"
         width: 1280
         height: 853
+  - title: "Amazon and Microsoft row over JEDI contract"
+    excerpt: "It was awarded to Microsoft in October 2019, after more than a year of acrimonious argument, and the war of words has continued since then. Throughout 2019,, it had looked as though AWS would be clear winner,"
+    publishedDateTime: 2020-05-14T15:30:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/amazon-and-microsoft-row-over-jedi-contract/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 22
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/JEDI_Thats_No_Moon.2e16d0ba.fill-1200x630.png"
+        width: 1200
+        height: 630
 
 secured: "KT22ENLuzgf3/VENGQG7FD0aeV0AvNnm7S24cy7imiQd/ZhDei7QeVMCXd17rrjEVccU6h5hELIjL20JbCEQcd6gaQcxBueVy9+TP3wECE+5I6Vym2tYx+jNEEHFj6q/bMjzpd+3ZE7MT5cX2pQ1o742GR5o9n4OA8R31dWHd0vJfNqfehXmJTz7ejG6Qc4jL7Uc+6LDVUWQV7AtkUPE7NecCK2n3jfPilpn+RjrDsY1lW4axAjQN6rK/lGSHH4EsGn24Ns8lsPDm1r7Mzo4WjX3gwzkvffwkTgEQgWzLvv/Rirt9v+6c1zCzkz5qIRQ55kF69WD2OWJ/QpPVOgd1rWIpGqIRGCekybIB4+pU5nraTkoulBnd1Nn+Mz8Bh6wiuCOyuYrhsJUF5W3fq8zBKoinwC0HSeEB6xUoIPi7rRJzazdQzdVXzQxA+44WpzT1JmqsVJX83srreCii796DBlspca8Cf//OkgCbfCmgSs=;vBeE/T52SAldAWZyFkJnuA=="
 ---
