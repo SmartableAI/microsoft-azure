@@ -38,6 +38,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Netcracker Offers AI-Driven Digital BSS/OSS to Microsoft Azure"
+    excerpt: "Netcracker Technology announced today it is working with Microsoft to offer its Digital BSS/OSS and Orchestration applications on Microsoft Azure. Netcracker is collaborating with Microsoft to integrate Azure Machine Learning (ML) and AI services with Netcracker’s Advanced Analytics to add intelligent contextual decisioning and recommendations to enable more personalized customer"
+    publishedDateTime: 2020-05-14T09:16:00Z
+    webUrl: "https://www.totaltele.com/505911/Netcracker-Offers-AI-Driven-Digital-BSSOSS-to-Microsoft-Azure"
+    type: article
+    provider:
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 17
 
 secured: "6JuBsWW4SuS91ofpQqvvc5Lys0BkRhxXwa2+AweRUJpZBrDi0yk1nDyB57cR0ALvYiUE555+ZI1AnUbfYpUUx7cMj9RzL/SGYKoIFl5Qb8ADrVB+eoFjE17rsgUdS0dN9o1/jzXmSKfR5vYQuNfrEJYicxbtNIsZTLr4tnnaammfQCfpRYUyrpx4QWWuVuyuYpWC303Kkx67/Y//wvs0V1rvcQCxC/nftqpHhiDPS6ClyahGZuZNj03bbcNo+CC5RflXAvFgxpJGz2Eu8/qXnGDCtci+u5Wcz2p/g+LUMWW/aVG+cwzir3jE/RKgutxb;I6bmEewnbiYN0MlfbtlwBg=="
 ---
