@@ -1,37 +1,34 @@
 ---
 category: news
-title: "Microsoft acquires Metaswitch Networks"
-excerpt: "Microsoft (MSFT -1.2%) signs a definitive agreement to acquire Metaswitch Networks, which provides virtualized network software and voice, data, and communications solutions for operators.Financial te"
-publishedDateTime: 2020-05-14T15:36:00Z
-webUrl: "https://seekingalpha.com/news/3574564-microsoft-acquires-metaswitch-networks"
+title: "Microsoft to acquire Metaswitch Networks, bolstering Azure telecommunications efforts"
+excerpt: "Microsoft plans to acquire Metaswitch Networks, a 39-year-old company that develops software for cloud-based communication networks. The acquisition builds on Microsoft’s existing cloud-related"
+publishedDateTime: 2020-05-14T16:13:00Z
+webUrl: "https://www.geekwire.com/2020/microsoft-acquire-metaswitch-networks-bolstering-azure-telecommunications-efforts/"
+ampWebUrl: "https://www.geekwire.com/2020/microsoft-acquire-metaswitch-networks-bolstering-azure-telecommunications-efforts/amp/"
+cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-acquire-metaswitch-networks-bolstering-azure-telecommunications-efforts/amp/"
 type: article
-quality: 2
-heat: -1
-published: false
+quality: 90
+heat: 190
+published: true
 
 provider:
-  name: Seeking Alpha
-  domain: seekingalpha.com
+  name: GeekWire
+  domain: geekwire.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/geekwire.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
+images:
+  - url: "https://cdn.geekwire.com/wp-content/uploads/2016/04/20160404_Envision_07-1240x828.jpg"
+    width: 1240
+    height: 828
+    title: "Microsoft to acquire Metaswitch Networks, bolstering Azure telecommunications efforts"
+
 related:
-  - title: "Microsoft to acquire Metaswitch Networks, bolstering Azure telecommunications efforts"
-    excerpt: "Microsoft plans to acquire Metaswitch Networks, a 39-year-old company that develops software for cloud-based communication networks. The acquisition builds on Microsoft’s existing cloud-related"
-    publishedDateTime: 2020-05-14T16:13:00Z
-    webUrl: "https://www.geekwire.com/2020/microsoft-acquire-metaswitch-networks-bolstering-azure-telecommunications-efforts/"
-    ampWebUrl: "https://www.geekwire.com/2020/microsoft-acquire-metaswitch-networks-bolstering-azure-telecommunications-efforts/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-acquire-metaswitch-networks-bolstering-azure-telecommunications-efforts/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 90
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2016/04/20160404_Envision_07-1240x828.jpg"
-        width: 1240
-        height: 828
   - title: "Microsoft to Acquire Cloud Communications Specialist Metaswitch Networks"
     excerpt: "Microsoft (NASDAQ:MSFT) is moving to expand its cloud communications portfolio. The tech giant announced today that it has signed a definitive agreement to acquire cloud communications specialist Metaswitch for an undisclosed amount. Metaswitch provides cloud-based voice, data, and communication software solutions for telecommunication providers."
     publishedDateTime: 2020-05-14T18:04:00Z
@@ -88,7 +85,16 @@ related:
       - url: "https://mspoweruser.com/wp-content/uploads/2017/06/452292672.jpg"
         width: 800
         height: 587
+  - title: "Microsoft acquires Metaswitch Networks"
+    excerpt: "Microsoft (MSFT -1.2%) signs a definitive agreement to acquire Metaswitch Networks, which provides virtualized network software and voice, data, and communications solutions for operators.Financial te"
+    publishedDateTime: 2020-05-14T15:36:00Z
+    webUrl: "https://seekingalpha.com/news/3574564-microsoft-acquires-metaswitch-networks"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 2
 
-secured: "vSTMa5K4IZzqYMFlKtrZoj6r/oQ+ms74spZaQfew65kk0xw86JeFGHiMln3zy9sENIiCio3xXrwnn87RJ1X3NSqE8V6hT549kVE8ST2mKtCLQIEFVjSKf4fj6mdNB0APA3zjaC0+HniYL6WY8sO+zMeyIrKKiT8yforOBeXgRuKgqMBfXgmown1kHyClpK9Jr+ZEuVZ96EOoZH+EUJ9F9ygeMwIAS9K2hGj2OnKWx6KybBElhb98g53wE85Gz2Bs9jTqlCLZjeTyMXUpUsrkxTCyNK82diYwKMxHEdeKHkf1bOGOCP8Nv7FKhTVLr5Pa;2/UnUeKsjthllgMwCWp0aw=="
+secured: "/4oKA8jv7Ww+9Pdkdm7uikWdjTyU5NN31GrvFOOS1aJdfmo57KXmXl5biYPa0671RShqNtYfzrzMFoTieLXT7HacFKlTRCy5u5WMujTTN2V0r4Nuirn+u+tsh9RYEFUXEVWNDO0EYHoiDnAOV+B1obQElxz8RoW7KiX9tWzCRDx4gbU7BtLwnMdnU2B2qXkmanRSIaZ0t6M1Dwg2KyecnI5mpiZmKvIW1/8urNPi1LkxhYD7WHobDPCaB6dqOC0b/dvATudhz3AFTCGkAc5USF89oKJY0if7wIW9D2KBO0dDMIF0pUOQ7NRLuBcHyqxo;o2BAh0dEdVCOsP0XDO5zCg=="
 ---
 

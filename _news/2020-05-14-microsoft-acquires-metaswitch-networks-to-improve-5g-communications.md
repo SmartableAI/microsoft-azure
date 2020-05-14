@@ -1,20 +1,28 @@
 ---
 category: news
-title: "Microsoft acquires Metaswitch Networks"
-excerpt: "Microsoft (MSFT -1.2%) signs a definitive agreement to acquire Metaswitch Networks, which provides virtualized network software and voice, data, and communications solutions for operators.Financial te"
-publishedDateTime: 2020-05-14T15:36:00Z
-webUrl: "https://seekingalpha.com/news/3574564-microsoft-acquires-metaswitch-networks"
+title: "Microsoft acquires Metaswitch Networks to improve 5G communications"
+excerpt: "Microsoft announced yet another acquisition related to 5G development. Its acquisition of Metaswitch Networks follows on the heels of a recent purchase of Affirmed Networks."
+publishedDateTime: 2020-05-14T16:19:00Z
+webUrl: "https://www.windowscentral.com/microsoft-acquires-metaswitch-networks-improve-5g-communications"
+ampWebUrl: "https://www.windowscentral.com/microsoft-acquires-metaswitch-networks-improve-5g-communications?amp"
+cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-acquires-metaswitch-networks-improve-5g-communications?amp"
 type: article
-quality: 2
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Seeking Alpha
-  domain: seekingalpha.com
+  name: Windows Central
+  domain: windowscentral.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2017/09/microsoft-logo-2017-ignite2.jpg?itok=c3ocGDNm"
+    width: 800
+    height: 600
+    title: "Microsoft acquires Metaswitch Networks to improve 5G communications"
 
 related:
   - title: "Microsoft to acquire Metaswitch Networks, bolstering Azure telecommunications efforts"
@@ -58,21 +66,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 55
-  - title: "Microsoft acquires Metaswitch Networks to improve 5G communications"
-    excerpt: "Microsoft announced yet another acquisition related to 5G development. Its acquisition of Metaswitch Networks follows on the heels of a recent purchase of Affirmed Networks."
-    publishedDateTime: 2020-05-14T16:19:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-acquires-metaswitch-networks-improve-5g-communications"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-acquires-metaswitch-networks-improve-5g-communications?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-acquires-metaswitch-networks-improve-5g-communications?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 42
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2017/09/microsoft-logo-2017-ignite2.jpg?itok=c3ocGDNm"
-        width: 800
-        height: 600
   - title: "Microsoft to acquire Metaswitch Networks, a leading telecommunications software provider"
     excerpt: "Metaswitch is a developer of critical networking software, delivering products and solutions worldwide to more than 1,000 communications service providers and network equipment providers. Today, Microsoft announced that it has signed a definitive agreement to acquire Metaswitch Networks."
     publishedDateTime: 2020-05-14T16:04:00Z
@@ -88,7 +81,16 @@ related:
       - url: "https://mspoweruser.com/wp-content/uploads/2017/06/452292672.jpg"
         width: 800
         height: 587
+  - title: "Microsoft acquires Metaswitch Networks"
+    excerpt: "Microsoft (MSFT -1.2%) signs a definitive agreement to acquire Metaswitch Networks, which provides virtualized network software and voice, data, and communications solutions for operators.Financial te"
+    publishedDateTime: 2020-05-14T15:36:00Z
+    webUrl: "https://seekingalpha.com/news/3574564-microsoft-acquires-metaswitch-networks"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 2
 
-secured: "vSTMa5K4IZzqYMFlKtrZoj6r/oQ+ms74spZaQfew65kk0xw86JeFGHiMln3zy9sENIiCio3xXrwnn87RJ1X3NSqE8V6hT549kVE8ST2mKtCLQIEFVjSKf4fj6mdNB0APA3zjaC0+HniYL6WY8sO+zMeyIrKKiT8yforOBeXgRuKgqMBfXgmown1kHyClpK9Jr+ZEuVZ96EOoZH+EUJ9F9ygeMwIAS9K2hGj2OnKWx6KybBElhb98g53wE85Gz2Bs9jTqlCLZjeTyMXUpUsrkxTCyNK82diYwKMxHEdeKHkf1bOGOCP8Nv7FKhTVLr5Pa;2/UnUeKsjthllgMwCWp0aw=="
+secured: "iBaAjlFP/GpVaBjYd8LbMqYLsoE2EovXALrBt/h0ZI50ZLVTFM2G5yRoXUgFpMDsxuH8PML2ZyCdZr4HC+1RdckTkATErROcoeG0Ue4nKrvB+ET6SgnYNslSd58KhZ6ZM6O8go/4GgIh1jGnGsT47DgB9qIbJpGOnOdrHxm+AQV8fET+7KhafSI7v06EfyMeUkq9UI91B6+R+q6gyEsmm+oHVt2vKXqKQBmVUgG/V3rGyKnMNBCLiEH4Je9AdshWdJmyD9CoGNJsiGvp0TgLBNkmm9oHyegVCuPp+/wJORMMgLpnLlss6fcVkoW3YLwM;twRoiytiG8m9TEKgxf+IaQ=="
 ---
 

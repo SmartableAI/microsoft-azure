@@ -1,20 +1,28 @@
 ---
 category: news
-title: "Microsoft acquires Metaswitch Networks"
-excerpt: "Microsoft (MSFT -1.2%) signs a definitive agreement to acquire Metaswitch Networks, which provides virtualized network software and voice, data, and communications solutions for operators.Financial te"
-publishedDateTime: 2020-05-14T15:36:00Z
-webUrl: "https://seekingalpha.com/news/3574564-microsoft-acquires-metaswitch-networks"
+title: "Microsoft to acquire Metaswitch Networks, a leading telecommunications software provider"
+excerpt: "Metaswitch is a developer of critical networking software, delivering products and solutions worldwide to more than 1,000 communications service providers and network equipment providers. Today, Microsoft announced that it has signed a definitive agreement to acquire Metaswitch Networks."
+publishedDateTime: 2020-05-14T16:04:00Z
+webUrl: "https://mspoweruser.com/microsoft-to-acquire-metaswitch-networks/"
+ampWebUrl: "https://mspoweruser.com/microsoft-to-acquire-metaswitch-networks/amp/"
+cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-to-acquire-metaswitch-networks/amp/"
 type: article
-quality: 2
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Seeking Alpha
-  domain: seekingalpha.com
+  name: MSPoweruser
+  domain: mspoweruser.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://mspoweruser.com/wp-content/uploads/2017/06/452292672.jpg"
+    width: 800
+    height: 587
+    title: "Microsoft to acquire Metaswitch Networks, a leading telecommunications software provider"
 
 related:
   - title: "Microsoft to acquire Metaswitch Networks, bolstering Azure telecommunications efforts"
@@ -73,22 +81,16 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2017/09/microsoft-logo-2017-ignite2.jpg?itok=c3ocGDNm"
         width: 800
         height: 600
-  - title: "Microsoft to acquire Metaswitch Networks, a leading telecommunications software provider"
-    excerpt: "Metaswitch is a developer of critical networking software, delivering products and solutions worldwide to more than 1,000 communications service providers and network equipment providers. Today, Microsoft announced that it has signed a definitive agreement to acquire Metaswitch Networks."
-    publishedDateTime: 2020-05-14T16:04:00Z
-    webUrl: "https://mspoweruser.com/microsoft-to-acquire-metaswitch-networks/"
-    ampWebUrl: "https://mspoweruser.com/microsoft-to-acquire-metaswitch-networks/amp/"
-    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-to-acquire-metaswitch-networks/amp/"
+  - title: "Microsoft acquires Metaswitch Networks"
+    excerpt: "Microsoft (MSFT -1.2%) signs a definitive agreement to acquire Metaswitch Networks, which provides virtualized network software and voice, data, and communications solutions for operators.Financial te"
+    publishedDateTime: 2020-05-14T15:36:00Z
+    webUrl: "https://seekingalpha.com/news/3574564-microsoft-acquires-metaswitch-networks"
     type: article
     provider:
-      name: MSPoweruser
-      domain: mspoweruser.com
-    quality: 33
-    images:
-      - url: "https://mspoweruser.com/wp-content/uploads/2017/06/452292672.jpg"
-        width: 800
-        height: 587
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 2
 
-secured: "vSTMa5K4IZzqYMFlKtrZoj6r/oQ+ms74spZaQfew65kk0xw86JeFGHiMln3zy9sENIiCio3xXrwnn87RJ1X3NSqE8V6hT549kVE8ST2mKtCLQIEFVjSKf4fj6mdNB0APA3zjaC0+HniYL6WY8sO+zMeyIrKKiT8yforOBeXgRuKgqMBfXgmown1kHyClpK9Jr+ZEuVZ96EOoZH+EUJ9F9ygeMwIAS9K2hGj2OnKWx6KybBElhb98g53wE85Gz2Bs9jTqlCLZjeTyMXUpUsrkxTCyNK82diYwKMxHEdeKHkf1bOGOCP8Nv7FKhTVLr5Pa;2/UnUeKsjthllgMwCWp0aw=="
+secured: "HMvSTWM6V8GqLaxbZyt8JOV6jGirM/wY+Z4dG7Q2X0HpDA+M8udNEx10FFbt5CxD2iMrxS9SVjVd0ZUC/lKHumI6YxVQh3KpS5J77wRswCAvMgbar1vwoyt8Keg1I335A3hVkdhGGney3bwulzNYPMYGFpM4jcQm3scIsATc13HK2Va1wQhjy0ZViFrrV+DENTMJxyXZBeaNALVYPkGFxp3aiNmzVwiRLP6/a3J4bjL7bRJRtfpDiNRcAw/BqiC2XMU6TYU06TbcCLUZOyiuKdPybrrm0lM+1erm7gZVFZ43NiCup6+GXJTA9K8SeNHC;4uwy5Cuylky59pcpyJrDGA=="
 ---
 

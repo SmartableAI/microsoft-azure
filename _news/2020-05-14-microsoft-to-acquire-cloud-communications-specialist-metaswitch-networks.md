@@ -1,20 +1,32 @@
 ---
 category: news
-title: "Microsoft acquires Metaswitch Networks"
-excerpt: "Microsoft (MSFT -1.2%) signs a definitive agreement to acquire Metaswitch Networks, which provides virtualized network software and voice, data, and communications solutions for operators.Financial te"
-publishedDateTime: 2020-05-14T15:36:00Z
-webUrl: "https://seekingalpha.com/news/3574564-microsoft-acquires-metaswitch-networks"
+title: "Microsoft to Acquire Cloud Communications Specialist Metaswitch Networks"
+excerpt: "Microsoft (NASDAQ:MSFT) is moving to expand its cloud communications portfolio. The tech giant announced today that it has signed a definitive agreement to acquire cloud communications specialist Metaswitch for an undisclosed amount. Metaswitch provides cloud-based voice, data, and communication software solutions for telecommunication providers."
+publishedDateTime: 2020-05-14T18:04:00Z
+webUrl: "https://www.fool.com/investing/2020/05/14/microsoft-to-acquire-cloud-communications-speciali.aspx"
+ampWebUrl: "https://www.fool.com/amp/investing/2020/05/14/microsoft-to-acquire-cloud-communications-speciali.aspx"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/14/microsoft-to-acquire-cloud-communications-speciali.aspx"
 type: article
-quality: 2
+quality: 81
 heat: -1
 published: false
 
 provider:
-  name: Seeking Alpha
-  domain: seekingalpha.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
+
+images:
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F574460%2Fcloud-on-blur-computer-data-center-background.jpg&w=1200&op=resize"
+    width: 1200
+    height: 600
+    title: "Microsoft to Acquire Cloud Communications Specialist Metaswitch Networks"
 
 related:
   - title: "Microsoft to acquire Metaswitch Networks, bolstering Azure telecommunications efforts"
@@ -32,21 +44,6 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2016/04/20160404_Envision_07-1240x828.jpg"
         width: 1240
         height: 828
-  - title: "Microsoft to Acquire Cloud Communications Specialist Metaswitch Networks"
-    excerpt: "Microsoft (NASDAQ:MSFT) is moving to expand its cloud communications portfolio. The tech giant announced today that it has signed a definitive agreement to acquire cloud communications specialist Metaswitch for an undisclosed amount. Metaswitch provides cloud-based voice, data, and communication software solutions for telecommunication providers."
-    publishedDateTime: 2020-05-14T18:04:00Z
-    webUrl: "https://www.fool.com/investing/2020/05/14/microsoft-to-acquire-cloud-communications-speciali.aspx"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/05/14/microsoft-to-acquire-cloud-communications-speciali.aspx"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/14/microsoft-to-acquire-cloud-communications-speciali.aspx"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 81
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F574460%2Fcloud-on-blur-computer-data-center-background.jpg&w=1200&op=resize"
-        width: 1200
-        height: 600
   - title: "Microsoft buys cloud communications software vendor Metaswitch Networks to bolster 5G"
     excerpt: "Microsoft makes its second acquisition in the 5G space in two months, as it works to capitalize on the convergence of cloud and communications networks."
     publishedDateTime: 2020-05-14T16:21:00Z
@@ -88,7 +85,16 @@ related:
       - url: "https://mspoweruser.com/wp-content/uploads/2017/06/452292672.jpg"
         width: 800
         height: 587
+  - title: "Microsoft acquires Metaswitch Networks"
+    excerpt: "Microsoft (MSFT -1.2%) signs a definitive agreement to acquire Metaswitch Networks, which provides virtualized network software and voice, data, and communications solutions for operators.Financial te"
+    publishedDateTime: 2020-05-14T15:36:00Z
+    webUrl: "https://seekingalpha.com/news/3574564-microsoft-acquires-metaswitch-networks"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 2
 
-secured: "vSTMa5K4IZzqYMFlKtrZoj6r/oQ+ms74spZaQfew65kk0xw86JeFGHiMln3zy9sENIiCio3xXrwnn87RJ1X3NSqE8V6hT549kVE8ST2mKtCLQIEFVjSKf4fj6mdNB0APA3zjaC0+HniYL6WY8sO+zMeyIrKKiT8yforOBeXgRuKgqMBfXgmown1kHyClpK9Jr+ZEuVZ96EOoZH+EUJ9F9ygeMwIAS9K2hGj2OnKWx6KybBElhb98g53wE85Gz2Bs9jTqlCLZjeTyMXUpUsrkxTCyNK82diYwKMxHEdeKHkf1bOGOCP8Nv7FKhTVLr5Pa;2/UnUeKsjthllgMwCWp0aw=="
+secured: "CPL6I384BunMq1au5YIq++rUbTtZkVa5YjwttsHKpupE2OxbQx67D81xptQEt8LPrKNCOTjYq24lZZroxczJ+tKHC16LFnlxugqYhdI5ReRUUQv+CDpFmayBCJdU9VoiktE4ietNre/rhoYbk3giAGcbitWc0a/o7XT/ZGSpnXxhkiGsWKpvip75IpLCjAHjdySLWDUVSVlTY5RTm77bLK7j350pV9jQdcRltGwF30mkaEAi7WP/nomLStkPBHscBBbHQ3ee+iTHnbX1d43Zn5T8v3NtXJWEN1VAN+oH+CRmjiPLZpVW5cXoVCU7JWE/;30+JzNRE6M7ao2R9QTy9cg=="
 ---
 

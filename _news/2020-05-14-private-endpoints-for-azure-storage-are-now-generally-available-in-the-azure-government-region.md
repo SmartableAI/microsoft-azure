@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Virtual Network NAT now generally available in Azure Government and Azure China"
+title: "Private endpoints for Azure Storage are now generally available in the Azure Government region"
 excerpt: ""
-publishedDateTime: 2020-05-07T21:00:13Z
-webUrl: "https://azure.microsoft.com/en-us/updates/virtualnetworknatgovchinaga/"
+publishedDateTime: 2020-05-14T16:00:17Z
+webUrl: "https://azure.microsoft.com/en-us/updates/private-endpoints-for-azure-storage-in-azure-government/"
 type: article
-quality: 73
+quality: 65
 heat: -1
 published: false
 
@@ -30,15 +30,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Private endpoints for Azure Storage are now generally available in the Azure Government region"
+  - title: "Virtual Network NAT now generally available in Azure Government and Azure China"
     excerpt: ""
-    publishedDateTime: 2020-05-14T16:00:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/private-endpoints-for-azure-storage-in-azure-government/"
+    publishedDateTime: 2020-05-07T21:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/virtualnetworknatgovchinaga/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 65
+    quality: 73
   - title: "Azure Private Link for Azure SQL Database and Azure Synapse Analytics is now available in all US government regions"
     excerpt: ""
     publishedDateTime: 2020-05-14T12:00:02Z
@@ -49,6 +49,6 @@ related:
       domain: microsoft.com
     quality: 55
 
-secured: "48g9But8I2d8N+ngf+PpvTADML73juthZwbyIqXc1EjYajhsVcf9fRHYYr6d+P7yjpBAzC/Mel5uhPt92b77J235sS9k3/kLzbOEOMvIw/BtQtc1vdc15rjM9GzLB5bA94hUTKTZyejLQ8IPmGgDXiyYaY6VtYFXnltoOq9HcZgal44RWsMfqb6gDAnjXGcEPLU4V3oSHY1ZGpiSWGsrwSLoFDkuoB4mHCUrZGTlycPnYoH6MKoEfgEL+NzeKQFb9KitGsx2Vj5A6BTFUSJCqr4xQFRzClxxyS+AqZVajH0EOCemKF+nALngVMgR81cUpdV5U4QdUq1LPz26P0fx2g==;naYFFCKHhd+4cPZyH2tW6A=="
+secured: "CIL5n0uqRdX3VK6p2hbEWC8q6a+q4qc4C86ZU+p+xaReth1A7WhKbNPbAruJWkWcSaBWucVFlvhtNluxSOjwmyFseMzAhDovNuVcx2v4NEG0lqcp2bMOPzR+z/5yvVIQkrQc+sX1BMZaEQ/Hwuj5zEsaQazTvHI4fcqfISlIKqCQZAOAWWSOpwXUfr589g6sD9G+Wu8jIWAyXKgobbV23CvRv1XWTIqTSSTFTBHxov/qBxQja3ICM7C1gdiMn4IvUUDj/HJJ5wAo1ipatPa5unl21JJZiqq1fLahz/nL6+N1mwZ2z3ZeB5VhsOH5MkLfSb4X85/ZQbaFn+USc1Hy1Q==;KDaqN4POKg7EwC4IogRRDg=="
 ---
 

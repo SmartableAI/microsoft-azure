@@ -1,17 +1,23 @@
 ---
 category: news
-title: "Microsoft acquires Metaswitch Networks"
-excerpt: "Microsoft (MSFT -1.2%) signs a definitive agreement to acquire Metaswitch Networks, which provides virtualized network software and voice, data, and communications solutions for operators.Financial te"
-publishedDateTime: 2020-05-14T15:36:00Z
-webUrl: "https://seekingalpha.com/news/3574564-microsoft-acquires-metaswitch-networks"
+title: "Microsoft buys cloud communications software vendor Metaswitch Networks to bolster 5G"
+excerpt: "Microsoft makes its second acquisition in the 5G space in two months, as it works to capitalize on the convergence of cloud and communications networks."
+publishedDateTime: 2020-05-14T16:21:00Z
+webUrl: "https://www.zdnet.com/article/microsoft-buys-cloud-communications-software-vendor-metaswitch-networks-to-bolster-5g/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-buys-cloud-communications-software-vendor-metaswitch-networks-to-bolster-5g/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-buys-cloud-communications-software-vendor-metaswitch-networks-to-bolster-5g/"
 type: article
-quality: 2
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Seeking Alpha
-  domain: seekingalpha.com
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
@@ -47,17 +53,6 @@ related:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F574460%2Fcloud-on-blur-computer-data-center-background.jpg&w=1200&op=resize"
         width: 1200
         height: 600
-  - title: "Microsoft buys cloud communications software vendor Metaswitch Networks to bolster 5G"
-    excerpt: "Microsoft makes its second acquisition in the 5G space in two months, as it works to capitalize on the convergence of cloud and communications networks."
-    publishedDateTime: 2020-05-14T16:21:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-buys-cloud-communications-software-vendor-metaswitch-networks-to-bolster-5g/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-buys-cloud-communications-software-vendor-metaswitch-networks-to-bolster-5g/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-buys-cloud-communications-software-vendor-metaswitch-networks-to-bolster-5g/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 55
   - title: "Microsoft acquires Metaswitch Networks to improve 5G communications"
     excerpt: "Microsoft announced yet another acquisition related to 5G development. Its acquisition of Metaswitch Networks follows on the heels of a recent purchase of Affirmed Networks."
     publishedDateTime: 2020-05-14T16:19:00Z
@@ -88,7 +83,16 @@ related:
       - url: "https://mspoweruser.com/wp-content/uploads/2017/06/452292672.jpg"
         width: 800
         height: 587
+  - title: "Microsoft acquires Metaswitch Networks"
+    excerpt: "Microsoft (MSFT -1.2%) signs a definitive agreement to acquire Metaswitch Networks, which provides virtualized network software and voice, data, and communications solutions for operators.Financial te"
+    publishedDateTime: 2020-05-14T15:36:00Z
+    webUrl: "https://seekingalpha.com/news/3574564-microsoft-acquires-metaswitch-networks"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 2
 
-secured: "vSTMa5K4IZzqYMFlKtrZoj6r/oQ+ms74spZaQfew65kk0xw86JeFGHiMln3zy9sENIiCio3xXrwnn87RJ1X3NSqE8V6hT549kVE8ST2mKtCLQIEFVjSKf4fj6mdNB0APA3zjaC0+HniYL6WY8sO+zMeyIrKKiT8yforOBeXgRuKgqMBfXgmown1kHyClpK9Jr+ZEuVZ96EOoZH+EUJ9F9ygeMwIAS9K2hGj2OnKWx6KybBElhb98g53wE85Gz2Bs9jTqlCLZjeTyMXUpUsrkxTCyNK82diYwKMxHEdeKHkf1bOGOCP8Nv7FKhTVLr5Pa;2/UnUeKsjthllgMwCWp0aw=="
+secured: "fnB9xyK7XtmF8LFEQsj6rqyGziI4xO8rhTYEOXFq+GLr0qWyzqxceGJBaHrxS7BIi6ZXDwP+KoMn7ZEeT9lSpwtkRP4PhpwjLOUhKQV/QBv15h48kumTyia6kGMX1VwUNRrpiLSNcLSQdgP+D94CjkCAgFCCL5xoGZUROVjER5P6Ny3+3I9M/ranN6eOQpkdQGVXgjGemB4cH7tP52WiLMV8c6WhlV7Jzzq/eb+9zvT4WFt31giYA5MrpiIpiDL20o0NBa9U2JJRYXXy/n8O98Von34WxL0gHOOVjBqAVwqiOxSY+E9n8MZvAkXrEK7QcEogeJguL1z8HAUeBNPKIedClOXyhh103z0HZRKrjITfbCuAAocmV2jxt5OzgQYtTUaA77sGBJSwZsbPVilKyh57SM6PHlOnIXGwlg5LOl/kzcTlhnSHlPXpoxL9wgFS5THfU+u3A17XUeHijAq7eC+tDkMO7TmbFuaT2MiaMko=;YggSA5OeQ1hwYNk1jFMhlw=="
 ---
 
