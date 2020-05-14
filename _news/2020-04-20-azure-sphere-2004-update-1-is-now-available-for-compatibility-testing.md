@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-20T22:29:30Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-2004-update-1-is-now-available-for-compatibility-testing/"
 type: article
 quality: 77
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -25,6 +25,15 @@ related:
     excerpt: ""
     publishedDateTime: 2020-04-29T20:00:03Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-2004-update-2-is-now-available-for-compatibility-testing/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure Sphere update 20.05 is now available for compatibility testing"
+    excerpt: ""
+    publishedDateTime: 2020-05-14T21:00:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-update-2005-is-now-available-for-compatibility-testing/"
     type: article
     provider:
       name: Microsoft

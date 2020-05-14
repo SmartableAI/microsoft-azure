@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/05/14/microsoft-is-acquiring-metaswitch-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/14/microsoft-is-acquiring-metaswitch-networks-to-expand-its-azure-5g-strategy/amp/"
 type: article
 quality: 95
-heat: 115
+heat: 135
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     title: "Microsoft is acquiring Metaswitch Networks to expand its Azure 5G strategy"
 
 related:
+  - title: "Microsoft acquires Metaswitch Networks to accelerate its cloud 5G approach"
+    excerpt: "The UK-based firm that has been acquired develops equipment for network operators. Microsoft hopes to accelerate the move to 5G through software solutions that advance cloud-based networking."
+    publishedDateTime: 2020-05-14T21:04:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-acquires-metaswitch-networks-to-accelerate-its-cloud-5g-approach"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-acquires-metaswitch-networks-to-accelerate-its-cloud-5g-approach/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-acquires-metaswitch-networks-to-accelerate-its-cloud-5g-approach/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 80
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/04/1585909473_microsoft_6_story.jpg"
+        width: 760
+        height: 428
   - title: "Microsoft acquires Metaswitch Networks"
     excerpt: "Microsoft (MSFT -1.2%) signs a definitive agreement to acquire Metaswitch Networks, which provides virtualized network software and voice, data, and communications solutions for operators.Financial te"
     publishedDateTime: 2020-05-14T15:36:00Z
@@ -39,6 +54,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "y97hfr4QrIkDKs+TF38q/PSmG8fPtOnqFwb/2x6UwPQAJJoj1dQrafr/9+iMFNijWyt/DcW55mlrbSmOTDMSHd+gTZRzTQpVsMc6CoWtMf2OT2+qtXu7LSWErmMAXARgAoInMFZ+41leXovshzrIZZ3rrQOkY4TfyQktC27eVNIlcISKsaHeqKQMC86GkYaoEfaLFgmNyzYJyIL67mHKiTPWY3o65haGahHzuQki1/ITtQFz1DfBIYufgKiBNeyYZ6erdIcfwARrpx9fihTb4qIQS4IKgQuC5MkVwC7VgkHYe1Y0TuQ8VeFLlS5sIhR1;gjwImdFLDdbOu+sM87PfpQ=="
+secured: "43y7oT1bfTeGFjqlj+rl9BDTQnUC9iySboIN1RDe2XpakOT6b/5lYweZK06112b36by8qzmll4djlcIwIViN9ZPUDDCZ2C0KtnYQJchwvpZXkbnEnR/h+Wx89VAEFaLhVZtEt8RLPm9X8CPepPxGI9IubhjwOKW6tgmL0oIANPeLwkiVjtDyUKhl8it2yiPQLNndKoW5H9jPKpIbAez1zF73E2yG6zbPP1VUghPoYGfnAe+zAqxZkIdvsuZ2riuO+0XKuhElAqlH6idCK4ZyC7Stkzw9yt9o1D4CCA12r/3UQqdtB0Q9Yb+wG5fXSBNqJrS+6VPACXU8zAIfuASpclgJxNlKm6zMUE3zeDSuvA1FeInWe45EKENRYlbvE+mI9mqYNXDqNoYf5u4WSuMMDFh2X6EL6581cOgANti3YnpXfBkWZ0WRWvJEULqJKwocepjaERqICXtMltJMnI9vA5c6pY7SR7TOaAo/c9C1jHU=;StMSY1OBeKIal4VQe8K84g=="
 ---
 

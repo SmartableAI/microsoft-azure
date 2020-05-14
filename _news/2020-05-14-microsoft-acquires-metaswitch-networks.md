@@ -32,6 +32,21 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2019/11/IMG_20191106_093354.jpg?w=1024"
         width: 1024
         height: 768
+  - title: "Microsoft acquires Metaswitch Networks to accelerate its cloud 5G approach"
+    excerpt: "The UK-based firm that has been acquired develops equipment for network operators. Microsoft hopes to accelerate the move to 5G through software solutions that advance cloud-based networking."
+    publishedDateTime: 2020-05-14T21:04:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-acquires-metaswitch-networks-to-accelerate-its-cloud-5g-approach"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-acquires-metaswitch-networks-to-accelerate-its-cloud-5g-approach/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-acquires-metaswitch-networks-to-accelerate-its-cloud-5g-approach/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 80
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/04/1585909473_microsoft_6_story.jpg"
+        width: 760
+        height: 428
 
 secured: "vSTMa5K4IZzqYMFlKtrZoj6r/oQ+ms74spZaQfew65kk0xw86JeFGHiMln3zy9sENIiCio3xXrwnn87RJ1X3NSqE8V6hT549kVE8ST2mKtCLQIEFVjSKf4fj6mdNB0APA3zjaC0+HniYL6WY8sO+zMeyIrKKiT8yforOBeXgRuKgqMBfXgmown1kHyClpK9Jr+ZEuVZ96EOoZH+EUJ9F9ygeMwIAS9K2hGj2OnKWx6KybBElhb98g53wE85Gz2Bs9jTqlCLZjeTyMXUpUsrkxTCyNK82diYwKMxHEdeKHkf1bOGOCP8Nv7FKhTVLr5Pa;2/UnUeKsjthllgMwCWp0aw=="
 ---

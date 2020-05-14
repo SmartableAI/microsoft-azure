@@ -100,6 +100,19 @@ related:
       - url: "https://mspoweruser.com/wp-content/uploads/2017/06/452292672.jpg"
         width: 800
         height: 587
+  - title: "Microsoft Buying Metaswitch Networks to Bolster 5G Wireless Operations"
+    excerpt: "The buy represents Microsoft's second purchase this year of a company involved with supporting 5G communication service providers and equipment providers with software-defined solutions. In March, Microsoft announced the acquisition of Affirmed Networks,"
+    publishedDateTime: 2020-05-14T20:41:00Z
+    webUrl: "https://redmondmag.com/articles/2020/05/14/microsoft-buying-metaswitch-networks.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 22
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/1117red_F2CF.jpg"
+        width: 647
+        height: 450
 
 secured: "wu7lRROzCp3Hi2uL/gdPyW8COwCt6AYLdF9+AtpaYWLsIpWO68HYymTX8vOJ1M0sG2I6danxAL0zVbToxfW9VqgYc4v9Y9mmn0vMZnEHy8LFx9/GktjiEf6W5/am30vmEYoxnAh1Fb3VFEEfXBes0bwVybH9doGoDHnHIsccc4FrYtC3zF9b3RRxroQ/cudOgLziSHYYuSU+8q6vFwylEnjf6trJIUZVggGfRh6qOxFw+Ox+kSF7JFAC5xfwctYD+CE9Yr2BcHWAE+4veMQ4aXoxlmwiH5QdD12v6wJHJRdz5XBdULAqoCh2Wkph6Dy+rvZDoscu0qy8OGfVQ00yLp7Zcg4bZqFjBVXi7ydr73hvNiQp8qs2gAR9vDcwJKC2khq/pGYDHA8UHBJWVOgG4lBv7bKbVU2o4XVl9M7sw/jo7vBkBYheHqQgdnXoFIzWaWSSIOFQJ2WbMIgCj/qs0VFezoyFBYD/F2oi9jYCqkM=;Gnw/0TopUK7SI38m28edTA=="
 ---

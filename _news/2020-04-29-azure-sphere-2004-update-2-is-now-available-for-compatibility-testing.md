@@ -30,6 +30,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Azure Sphere update 20.05 is now available for compatibility testing"
+    excerpt: ""
+    publishedDateTime: 2020-05-14T21:00:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-update-2005-is-now-available-for-compatibility-testing/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
 
 secured: "DSS3gjudFzdyAU8vTYyhEk68iau8maXYFuqt3+/m511023yQ1+UxUs/2iepbmvPK7UXHHZEhZlRvgj63FwfuO3Df4BL//PWv4RZ6qH97BmgPd22yl0z9nQ1SA5SLx7yiDMyjeY+3lRnSDdAK9/67UHZfpgjSib/GAJBE3lNw2jvi11rHlxfoVg/kCjKopGBpuQ/dmqKe0RlBIimKT8v9Ozrskm7q6Mw4ST9c78v3HV9ZgyYljhQo+NWOrSslqPpLWotxxJhMdT6aFExm7qLPHzRPVxujBGqKAK3lMYwvmdFcmZHPoh9MUkaT1r9ATtkveEUKAQ2+l8xzm48z7HJJ9A==;57ovbwAFg+XA5kWxGANGXQ=="
 ---

@@ -1,34 +1,43 @@
 ---
 category: news
-title: "Microsoft to acquire Metaswitch Networks, bolstering Azure telecommunications efforts"
-excerpt: "Microsoft plans to acquire Metaswitch Networks, a 39-year-old company that develops software for cloud-based communication networks. The acquisition builds on Microsoft’s existing cloud-related"
-publishedDateTime: 2020-05-14T16:13:00Z
-webUrl: "https://www.geekwire.com/2020/microsoft-acquire-metaswitch-networks-bolstering-azure-telecommunications-efforts/"
-ampWebUrl: "https://www.geekwire.com/2020/microsoft-acquire-metaswitch-networks-bolstering-azure-telecommunications-efforts/amp/"
-cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-acquire-metaswitch-networks-bolstering-azure-telecommunications-efforts/amp/"
+title: "Microsoft Buying Metaswitch Networks to Bolster 5G Wireless Operations"
+excerpt: "The buy represents Microsoft's second purchase this year of a company involved with supporting 5G communication service providers and equipment providers with software-defined solutions. In March, Microsoft announced the acquisition of Affirmed Networks,"
+publishedDateTime: 2020-05-14T20:41:00Z
+webUrl: "https://redmondmag.com/articles/2020/05/14/microsoft-buying-metaswitch-networks.aspx"
 type: article
-quality: 90
-heat: 210
-published: true
+quality: 22
+heat: -1
+published: false
 
 provider:
-  name: GeekWire
-  domain: geekwire.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/geekwire.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Redmond Magazine
+  domain: redmondmag.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://cdn.geekwire.com/wp-content/uploads/2016/04/20160404_Envision_07-1240x828.jpg"
-    width: 1240
-    height: 828
-    title: "Microsoft to acquire Metaswitch Networks, bolstering Azure telecommunications efforts"
+  - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/1117red_F2CF.jpg"
+    width: 647
+    height: 450
+    title: "Microsoft Buying Metaswitch Networks to Bolster 5G Wireless Operations"
 
 related:
+  - title: "Microsoft to acquire Metaswitch Networks, bolstering Azure telecommunications efforts"
+    excerpt: "Microsoft plans to acquire Metaswitch Networks, a 39-year-old company that develops software for cloud-based communication networks. The acquisition builds on Microsoft’s existing cloud-related"
+    publishedDateTime: 2020-05-14T16:13:00Z
+    webUrl: "https://www.geekwire.com/2020/microsoft-acquire-metaswitch-networks-bolstering-azure-telecommunications-efforts/"
+    ampWebUrl: "https://www.geekwire.com/2020/microsoft-acquire-metaswitch-networks-bolstering-azure-telecommunications-efforts/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-acquire-metaswitch-networks-bolstering-azure-telecommunications-efforts/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 90
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2016/04/20160404_Envision_07-1240x828.jpg"
+        width: 1240
+        height: 828
   - title: "Microsoft to Acquire Cloud Communications Specialist Metaswitch Networks"
     excerpt: "Microsoft (NASDAQ:MSFT) is moving to expand its cloud communications portfolio. The tech giant announced today that it has signed a definitive agreement to acquire cloud communications specialist Metaswitch for an undisclosed amount. Metaswitch provides cloud-based voice, data, and communication software solutions for telecommunication providers."
     publishedDateTime: 2020-05-14T18:04:00Z
@@ -100,20 +109,7 @@ related:
       - url: "https://mspoweruser.com/wp-content/uploads/2017/06/452292672.jpg"
         width: 800
         height: 587
-  - title: "Microsoft Buying Metaswitch Networks to Bolster 5G Wireless Operations"
-    excerpt: "The buy represents Microsoft's second purchase this year of a company involved with supporting 5G communication service providers and equipment providers with software-defined solutions. In March, Microsoft announced the acquisition of Affirmed Networks,"
-    publishedDateTime: 2020-05-14T20:41:00Z
-    webUrl: "https://redmondmag.com/articles/2020/05/14/microsoft-buying-metaswitch-networks.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 22
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/1117red_F2CF.jpg"
-        width: 647
-        height: 450
 
-secured: "CDfHqdw8RPgsAokUheDxkbaP0D46rIB2XSJ1g0/blv+xpWQOeaEGOtAR5ZFTxlmBm+EF5YJPsaaqu/KaQgMPakSBkBNOKFQhtiNMkn6dJ5D1+y7EIjE1zsUdl/oqPBhiEN9B4d2PLGcicHSuSvjR74OunfPXCbnTHCS82CmAsBf2sxdBatPihWP9d+hRQDKOoBUL/oseIgxstsGuDZLN6txw+QTZQtAYzcIZPZ3MVqKUQoLq2ksm9mP09MZUXy5Rre2x9Xtv76jmXD/azw50380mvji4OHuxMPsFKmGW/vy3n3ENE6iuIcKb7slXG/CLeAWOrcd/XborKo+5YVwKRfdbj5v0hRPhyJm/bMH1ekMk3XVEnmU/jso1ZamU1aPO27im6g87kkqHCgsZe4QkU04j6s4E1Qqkcj1jXg5k0NX6sE8wVBS2zvSAxdK04LFpnC0QibLZx0Gr9IjJMkkjrzUy6ChgOn0KCugyBfdfvVU=;GRmbDXsWf7kw+3YFIK9Hdw=="
+secured: "MOgiuiYuZzBCxhaYyFX9fbp2sahbz9Sx4z8qFCvn/mhRChDzf99v8ZVYJ4v1EKbesG7eG06G3AXn985sWS/hw61/hFSC+XWHTsjrAevnMFp/x0h1irbhfyYXRsynYE3yef/F+TR1Ajbsy4jO+wLvZICJ2L5Q5JiEWS3WclQ+1jCQJD7T3tI76VWtZKf6Mcu4b3jHOjARj8JzZcWniaeWAa7eOtuLXHx4lGBC+IkPplK32qeI/q9uZp32v+IbAKuGIzEbSvFNdXg3HVlND9irJrsjePa5Etn01d7CBayS6Yzh0/Uuvxe5bp+P2qaZ3bwA;3x7b73WX/LyouQf59pMzWQ=="
 ---
 
