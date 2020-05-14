@@ -70,6 +70,21 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2017/09/microsoft-logo-2017-ignite2.jpg?itok=c3ocGDNm"
         width: 800
         height: 600
+  - title: "Microsoft announces agreement to acquire Metaswitch Networks"
+    excerpt: "Microsoft said Thursday it has agreed to acquire Metaswitch Networks to expand its cloud-based telecom offerings."
+    publishedDateTime: 2020-05-14T19:44:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/05/14/Microsoft-announces-agreement-to-acquire-Metaswitch-Networks/2971589479123/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/05/14/Microsoft-announces-agreement-to-acquire-Metaswitch-Networks/2971589479123/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/05/14/Microsoft-announces-agreement-to-acquire-Metaswitch-Networks/2971589479123/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 42
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/2971589479123/2020/1/033a3a5736c93029032c750c2036488e/v1.5/Microsoft-announces-agreement-to-acquire-Metaswitch-Networks.jpg"
+        width: 800
+        height: 533
   - title: "Microsoft to acquire Metaswitch Networks, a leading telecommunications software provider"
     excerpt: "Metaswitch is a developer of critical networking software, delivering products and solutions worldwide to more than 1,000 communications service providers and network equipment providers. Today, Microsoft announced that it has signed a definitive agreement to acquire Metaswitch Networks."
     publishedDateTime: 2020-05-14T16:04:00Z
@@ -85,16 +100,7 @@ related:
       - url: "https://mspoweruser.com/wp-content/uploads/2017/06/452292672.jpg"
         width: 800
         height: 587
-  - title: "Microsoft acquires Metaswitch Networks"
-    excerpt: "Microsoft (MSFT -1.2%) signs a definitive agreement to acquire Metaswitch Networks, which provides virtualized network software and voice, data, and communications solutions for operators.Financial te"
-    publishedDateTime: 2020-05-14T15:36:00Z
-    webUrl: "https://seekingalpha.com/news/3574564-microsoft-acquires-metaswitch-networks"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 2
 
-secured: "/4oKA8jv7Ww+9Pdkdm7uikWdjTyU5NN31GrvFOOS1aJdfmo57KXmXl5biYPa0671RShqNtYfzrzMFoTieLXT7HacFKlTRCy5u5WMujTTN2V0r4Nuirn+u+tsh9RYEFUXEVWNDO0EYHoiDnAOV+B1obQElxz8RoW7KiX9tWzCRDx4gbU7BtLwnMdnU2B2qXkmanRSIaZ0t6M1Dwg2KyecnI5mpiZmKvIW1/8urNPi1LkxhYD7WHobDPCaB6dqOC0b/dvATudhz3AFTCGkAc5USF89oKJY0if7wIW9D2KBO0dDMIF0pUOQ7NRLuBcHyqxo;o2BAh0dEdVCOsP0XDO5zCg=="
+secured: "CDfHqdw8RPgsAokUheDxkbaP0D46rIB2XSJ1g0/blv+xpWQOeaEGOtAR5ZFTxlmBm+EF5YJPsaaqu/KaQgMPakSBkBNOKFQhtiNMkn6dJ5D1+y7EIjE1zsUdl/oqPBhiEN9B4d2PLGcicHSuSvjR74OunfPXCbnTHCS82CmAsBf2sxdBatPihWP9d+hRQDKOoBUL/oseIgxstsGuDZLN6txw+QTZQtAYzcIZPZ3MVqKUQoLq2ksm9mP09MZUXy5Rre2x9Xtv76jmXD/azw50380mvji4OHuxMPsFKmGW/vy3n3ENE6iuIcKb7slXG/CLeAWOrcd/XborKo+5YVwKRfdbj5v0hRPhyJm/bMH1ekMk3XVEnmU/jso1ZamU1aPO27im6g87kkqHCgsZe4QkU04j6s4E1Qqkcj1jXg5k0NX6sE8wVBS2zvSAxdK04LFpnC0QibLZx0Gr9IjJMkkjrzUy6ChgOn0KCugyBfdfvVU=;GRmbDXsWf7kw+3YFIK9Hdw=="
 ---
 

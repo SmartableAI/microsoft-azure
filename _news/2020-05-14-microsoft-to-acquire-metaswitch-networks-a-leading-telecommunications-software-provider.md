@@ -81,15 +81,21 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2017/09/microsoft-logo-2017-ignite2.jpg?itok=c3ocGDNm"
         width: 800
         height: 600
-  - title: "Microsoft acquires Metaswitch Networks"
-    excerpt: "Microsoft (MSFT -1.2%) signs a definitive agreement to acquire Metaswitch Networks, which provides virtualized network software and voice, data, and communications solutions for operators.Financial te"
-    publishedDateTime: 2020-05-14T15:36:00Z
-    webUrl: "https://seekingalpha.com/news/3574564-microsoft-acquires-metaswitch-networks"
+  - title: "Microsoft announces agreement to acquire Metaswitch Networks"
+    excerpt: "Microsoft said Thursday it has agreed to acquire Metaswitch Networks to expand its cloud-based telecom offerings."
+    publishedDateTime: 2020-05-14T19:44:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/05/14/Microsoft-announces-agreement-to-acquire-Metaswitch-Networks/2971589479123/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/05/14/Microsoft-announces-agreement-to-acquire-Metaswitch-Networks/2971589479123/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/05/14/Microsoft-announces-agreement-to-acquire-Metaswitch-Networks/2971589479123/"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 2
+      name: UPI.com
+      domain: upi.com
+    quality: 42
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/2971589479123/2020/1/033a3a5736c93029032c750c2036488e/v1.5/Microsoft-announces-agreement-to-acquire-Metaswitch-Networks.jpg"
+        width: 800
+        height: 533
 
 secured: "HMvSTWM6V8GqLaxbZyt8JOV6jGirM/wY+Z4dG7Q2X0HpDA+M8udNEx10FFbt5CxD2iMrxS9SVjVd0ZUC/lKHumI6YxVQh3KpS5J77wRswCAvMgbar1vwoyt8Keg1I335A3hVkdhGGney3bwulzNYPMYGFpM4jcQm3scIsATc13HK2Va1wQhjy0ZViFrrV+DENTMJxyXZBeaNALVYPkGFxp3aiNmzVwiRLP6/a3J4bjL7bRJRtfpDiNRcAw/BqiC2XMU6TYU06TbcCLUZOyiuKdPybrrm0lM+1erm7gZVFZ43NiCup6+GXJTA9K8SeNHC;4uwy5Cuylky59pcpyJrDGA=="
 ---

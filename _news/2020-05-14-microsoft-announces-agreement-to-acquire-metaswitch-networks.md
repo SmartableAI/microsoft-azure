@@ -1,32 +1,28 @@
 ---
 category: news
-title: "Microsoft to Acquire Cloud Communications Specialist Metaswitch Networks"
-excerpt: "Microsoft (NASDAQ:MSFT) is moving to expand its cloud communications portfolio. The tech giant announced today that it has signed a definitive agreement to acquire cloud communications specialist Metaswitch for an undisclosed amount. Metaswitch provides cloud-based voice, data, and communication software solutions for telecommunication providers."
-publishedDateTime: 2020-05-14T18:04:00Z
-webUrl: "https://www.fool.com/investing/2020/05/14/microsoft-to-acquire-cloud-communications-speciali.aspx"
-ampWebUrl: "https://www.fool.com/amp/investing/2020/05/14/microsoft-to-acquire-cloud-communications-speciali.aspx"
-cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/14/microsoft-to-acquire-cloud-communications-speciali.aspx"
+title: "Microsoft announces agreement to acquire Metaswitch Networks"
+excerpt: "Microsoft said Thursday it has agreed to acquire Metaswitch Networks to expand its cloud-based telecom offerings."
+publishedDateTime: 2020-05-14T19:44:00Z
+webUrl: "https://www.upi.com/Top_News/US/2020/05/14/Microsoft-announces-agreement-to-acquire-Metaswitch-Networks/2971589479123/"
+ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/05/14/Microsoft-announces-agreement-to-acquire-Metaswitch-Networks/2971589479123/"
+cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/05/14/Microsoft-announces-agreement-to-acquire-Metaswitch-Networks/2971589479123/"
 type: article
-quality: 81
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: UPI.com
+  domain: upi.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F574460%2Fcloud-on-blur-computer-data-center-background.jpg&w=1200&op=resize"
-    width: 1200
-    height: 600
-    title: "Microsoft to Acquire Cloud Communications Specialist Metaswitch Networks"
+  - url: "https://cdnph.upi.com/sv/ph/og/upi/2971589479123/2020/1/033a3a5736c93029032c750c2036488e/v1.5/Microsoft-announces-agreement-to-acquire-Metaswitch-Networks.jpg"
+    width: 800
+    height: 533
+    title: "Microsoft announces agreement to acquire Metaswitch Networks"
 
 related:
   - title: "Microsoft to acquire Metaswitch Networks, bolstering Azure telecommunications efforts"
@@ -44,6 +40,21 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2016/04/20160404_Envision_07-1240x828.jpg"
         width: 1240
         height: 828
+  - title: "Microsoft to Acquire Cloud Communications Specialist Metaswitch Networks"
+    excerpt: "Microsoft (NASDAQ:MSFT) is moving to expand its cloud communications portfolio. The tech giant announced today that it has signed a definitive agreement to acquire cloud communications specialist Metaswitch for an undisclosed amount. Metaswitch provides cloud-based voice, data, and communication software solutions for telecommunication providers."
+    publishedDateTime: 2020-05-14T18:04:00Z
+    webUrl: "https://www.fool.com/investing/2020/05/14/microsoft-to-acquire-cloud-communications-speciali.aspx"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/05/14/microsoft-to-acquire-cloud-communications-speciali.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/14/microsoft-to-acquire-cloud-communications-speciali.aspx"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 81
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F574460%2Fcloud-on-blur-computer-data-center-background.jpg&w=1200&op=resize"
+        width: 1200
+        height: 600
   - title: "Microsoft buys cloud communications software vendor Metaswitch Networks to bolster 5G"
     excerpt: "Microsoft makes its second acquisition in the 5G space in two months, as it works to capitalize on the convergence of cloud and communications networks."
     publishedDateTime: 2020-05-14T16:21:00Z
@@ -70,21 +81,6 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2017/09/microsoft-logo-2017-ignite2.jpg?itok=c3ocGDNm"
         width: 800
         height: 600
-  - title: "Microsoft announces agreement to acquire Metaswitch Networks"
-    excerpt: "Microsoft said Thursday it has agreed to acquire Metaswitch Networks to expand its cloud-based telecom offerings."
-    publishedDateTime: 2020-05-14T19:44:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/05/14/Microsoft-announces-agreement-to-acquire-Metaswitch-Networks/2971589479123/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/05/14/Microsoft-announces-agreement-to-acquire-Metaswitch-Networks/2971589479123/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/05/14/Microsoft-announces-agreement-to-acquire-Metaswitch-Networks/2971589479123/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 42
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/2971589479123/2020/1/033a3a5736c93029032c750c2036488e/v1.5/Microsoft-announces-agreement-to-acquire-Metaswitch-Networks.jpg"
-        width: 800
-        height: 533
   - title: "Microsoft to acquire Metaswitch Networks, a leading telecommunications software provider"
     excerpt: "Metaswitch is a developer of critical networking software, delivering products and solutions worldwide to more than 1,000 communications service providers and network equipment providers. Today, Microsoft announced that it has signed a definitive agreement to acquire Metaswitch Networks."
     publishedDateTime: 2020-05-14T16:04:00Z
@@ -101,6 +97,6 @@ related:
         width: 800
         height: 587
 
-secured: "wu7lRROzCp3Hi2uL/gdPyW8COwCt6AYLdF9+AtpaYWLsIpWO68HYymTX8vOJ1M0sG2I6danxAL0zVbToxfW9VqgYc4v9Y9mmn0vMZnEHy8LFx9/GktjiEf6W5/am30vmEYoxnAh1Fb3VFEEfXBes0bwVybH9doGoDHnHIsccc4FrYtC3zF9b3RRxroQ/cudOgLziSHYYuSU+8q6vFwylEnjf6trJIUZVggGfRh6qOxFw+Ox+kSF7JFAC5xfwctYD+CE9Yr2BcHWAE+4veMQ4aXoxlmwiH5QdD12v6wJHJRdz5XBdULAqoCh2Wkph6Dy+rvZDoscu0qy8OGfVQ00yLp7Zcg4bZqFjBVXi7ydr73hvNiQp8qs2gAR9vDcwJKC2khq/pGYDHA8UHBJWVOgG4lBv7bKbVU2o4XVl9M7sw/jo7vBkBYheHqQgdnXoFIzWaWSSIOFQJ2WbMIgCj/qs0VFezoyFBYD/F2oi9jYCqkM=;Gnw/0TopUK7SI38m28edTA=="
+secured: "H3cg6uaCPcUXaFPpxm83Y014+W143Ttze1e/IpqKFqWz+Nonq7jIDUXxNyMG9KGcrLb0F/x2L6QRpWDaFGGp4wIHvhHQRnalGwysSRNFa07UBAbqy0TZpAXE5Wc9KlJMXX+clOTWLISTZx1HO9jiz3X5fsJeElBrtwwedr42otM+jBKh/3/V82n3zcSR5kXmStL2/yD3A5S7/FfvSt6MrMtlu5hgr91FZhNfidrE3ujaw2EMwuRU9vcbhx+/Xro45BM437JPXKeYvhIfzfiNwTN6g94eiOcMHbRczfao0YDOc+QuXJYHwj3pat8T8ml2;sBUS3Vjhku7QS5t/PRS3rQ=="
 ---
 
