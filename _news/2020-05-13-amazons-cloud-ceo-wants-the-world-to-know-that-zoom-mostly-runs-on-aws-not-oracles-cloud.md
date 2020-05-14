@@ -28,6 +28,6 @@ images:
     height: 552
     title: "Amazon's cloud CEO wants the world to know that Zoom mostly runs on AWS, not Oracle's cloud"
 
-secured: "jMwoMA9ynFHyJ72qJ/837aGfw9ttFX91pIujowVOjIQCtoS/YFIQiO7075+/O2olUERaOr1BNdzsK3ajUGtYJbZhXYl1rs37NLnPrdReGisxmeuYjetDSxIXNMX60OdTT/ppRcUuu+iyc0RFPnd/YdtS7GmnjHoThngUkWFYOnLK45sogBYVsD1meIFihDBdaq+uEYG/vxtIciiq4sk27BN6SrrE8hQMGDhmiFzg2fgYLsQGlmoKB1BYMvzUCnP+d7imjJNfUCSDyk5QkgylM3vXiwy8LJ7gCrOC5ZpvKigWTNVnWIoQs9CA2UJTNb1H;BE75//bV2GD3NfXCbDzF3A=="
+secured: "4alFICRdWGL/pSH2u8+4q7AbvRi4ZemM4pk2pHJW6gKkbRpg3Hai2sy5TwYAP1/LJh/OtivzpUv/q3yWhtOKo/7eQMXmuaA91V2LWpNC/uxa8WuJedveZclxS7WhfzfaWyShaurUCIwj/mlXbvVQ/WsAbcr2fJThvwGUOkK2Kgb4JBp7Emkzs/cI7ZVqAZ/esH+/v3TRkD6R4/8iwJW0WQ33POc1p6FwwQHLcuigywYDJzmeL/hx6SZtYTmzWSHdJvHYN6nA2Bj/m1wZOvZnXkZRVXMQFnlWmqssmdDy0cqFOppDVVn0MjX9Yr9E6jgkfiQJbXJuS1fsCBGHjqHnkRAlZz4RZfY8KgUwrNh//w79kYcYteNmqqnCiqCx/5HtjxFMKbBywaYeGPA8AH1lbT3tLVXHJm3E8XixKdD5PokgOsSIsKpdqh5M47MIEPBUuwCptzaD8HTSU3uK1eGWu0kA8+Nd3V29U0xNzWoiADM=;vQponR46r8jJqUDXJMs6qg=="
 ---
 
