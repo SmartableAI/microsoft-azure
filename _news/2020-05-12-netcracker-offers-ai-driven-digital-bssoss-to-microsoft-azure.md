@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-12T13:00:00Z
 webUrl: "https://www.marketwatch.com/press-release/netcracker-offers-ai-driven-digital-bssoss-to-microsoft-azure-2020-05-12"
 type: article
 quality: 77
-heat: 98
+heat: 97
 published: true
 
 provider:

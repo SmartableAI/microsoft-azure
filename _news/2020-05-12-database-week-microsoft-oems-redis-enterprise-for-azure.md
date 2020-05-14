@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/database-week-microsoft-oem
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/database-week-microsoft-oems-redis-enterprise-for-azure/"
 type: article
 quality: 97
-heat: 118
+heat: 117
 published: true
 
 provider:
