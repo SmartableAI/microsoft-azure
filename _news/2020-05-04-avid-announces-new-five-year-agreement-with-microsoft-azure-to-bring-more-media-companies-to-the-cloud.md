@@ -1,30 +1,20 @@
 ---
 category: news
 title: "Avid Announces New Five-Year Agreement with Microsoft Azure to Bring More Media Companies to the Cloud"
-excerpt: "Leading media and entertainment technology provider Avid (Nasdaq: AVID) today announced it has renewed its cloud collaboration with Microsoft. Over the course of the new five-year"
+excerpt: "Over the course of the new five-year strategic alliance agreement Avid will continue to develop and deploy its cloud-based solutions on Microsoft Azure. Since launching their initial collaboration ..."
 publishedDateTime: 2020-05-04T20:55:00Z
-webUrl: "https://www.marketwatch.com/press-release/avid-announces-new-five-year-agreement-with-microsoft-azure-to-bring-more-media-companies-to-the-cloud-2020-05-04"
+webUrl: "https://www.globenewswire.com/news-release/2020/05/04/2027110/0/en/Avid-Announces-New-Five-Year-Agreement-with-Microsoft-Azure-to-Bring-More-Media-Companies-to-the-Cloud.html"
 type: article
-quality: 61
-heat: 81
-published: true
+quality: 1
+heat: -1
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: GlobeNewswire
+  domain: globenewswire.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    title: "Avid Announces New Five-Year Agreement with Microsoft Azure to Bring More Media Companies to the Cloud"
 
 related:
   - title: "Avid, Microsoft Azure Set Five-Year Agreement"
@@ -41,6 +31,6 @@ related:
         width: 581
         height: 201
 
-secured: "7kKuhZg0UEr8+ZA5NSiJbBI4YfRxch7rUTZ9Odg971zZ6Y7Zu+bJDliEF8slPH1Ch4QA37CkR/yRmRaPY93tWXTpmat7EWmIIeXhIfMcIj9Sjsb7a93YrRkYRA7Z4mFw4VheI5/RoGmCU9tbLNOVjXJBf8ggY8Q68ASuxyQBPbqP22aM67WZZWQe1yyc+80HKK7xHJq86W9Qz8nAXqBWn7KYY5qn6B/QY505EfmLV4nKNn8BIYhSEEqOskIkVlFseKTlY9S8BSRbzfAlP+qjmYZB/JhyLGinGuAiGzk8Ao8h9EAQtQDvtCNDn2mFPIY9;mpahw3l0qM6gJPidIpl6dw=="
+secured: "6w2xOFMtbxHHsqY1KVODGKHcFEXRBo3jxUPfocjpWFkWvVVaJnr/833jtGdycanO6T0o20a/IlVOdIj9z3Nz+3yh6CHYsE1nxWvO+DmBQD7EDPGWo5eXWluvldy5pUwLiKCwFidByIgmizSPwnwzl7oYnS+xu7QpIO6NEjG7MxTJw5+tb3aGl4ToPz7gJST9KIznH4TSpJnXo/MB/yu0H+S2ZJGOa92FblbjRX7tFAbOMTxMS4/CgmTs4bu2W5gbaJXz6jU1gSWkPXkQU8W/XYBeDn7cSGvJleCyhtLAsOseSBucUiM7l06y53woChej;50zyP4BQoyCsHO678m9K3g=="
 ---
 
