@@ -109,6 +109,19 @@ related:
       - url: "https://mspoweruser.com/wp-content/uploads/2017/06/452292672.jpg"
         width: 800
         height: 587
+  - title: "Microsoft to acquire Metaswitch Networks to bolster its cloud-based telecoms offering"
+    excerpt: "Microsoft announced on Thursday that it has entered a definitive agreement to acquire UK's Metaswitch Networks, a leading provider of software solutions for cloud-based communication networks. The announcement comes as telecommunication firms continue to embrace virtualised platforms while they move from network functions running on specialised hardware to one in which software solutions help to perform same functions over servers,"
+    publishedDateTime: 2020-05-15T09:40:00Z
+    webUrl: "https://www.computing.co.uk/news/4015250/microsoft-acquire-metaswitch-networks-bolster-cloud-telecoms-offering"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 15
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/e846d36/23645122-022c-434a-8da2-3cd281a1f8c6/4/Metaswitch-370x229.jpg"
+        width: 370
+        height: 229
 
 secured: "MOgiuiYuZzBCxhaYyFX9fbp2sahbz9Sx4z8qFCvn/mhRChDzf99v8ZVYJ4v1EKbesG7eG06G3AXn985sWS/hw61/hFSC+XWHTsjrAevnMFp/x0h1irbhfyYXRsynYE3yef/F+TR1Ajbsy4jO+wLvZICJ2L5Q5JiEWS3WclQ+1jCQJD7T3tI76VWtZKf6Mcu4b3jHOjARj8JzZcWniaeWAa7eOtuLXHx4lGBC+IkPplK32qeI/q9uZp32v+IbAKuGIzEbSvFNdXg3HVlND9irJrsjePa5Etn01d7CBayS6Yzh0/Uuvxe5bp+P2qaZ3bwA;3x7b73WX/LyouQf59pMzWQ=="
 ---

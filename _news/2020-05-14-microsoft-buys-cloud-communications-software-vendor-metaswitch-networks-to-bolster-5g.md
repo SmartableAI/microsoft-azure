@@ -111,6 +111,19 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/1117red_F2CF.jpg"
         width: 647
         height: 450
+  - title: "Microsoft to acquire Metaswitch Networks to bolster its cloud-based telecoms offering"
+    excerpt: "Microsoft announced on Thursday that it has entered a definitive agreement to acquire UK's Metaswitch Networks, a leading provider of software solutions for cloud-based communication networks. The announcement comes as telecommunication firms continue to embrace virtualised platforms while they move from network functions running on specialised hardware to one in which software solutions help to perform same functions over servers,"
+    publishedDateTime: 2020-05-15T09:40:00Z
+    webUrl: "https://www.computing.co.uk/news/4015250/microsoft-acquire-metaswitch-networks-bolster-cloud-telecoms-offering"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 15
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/e846d36/23645122-022c-434a-8da2-3cd281a1f8c6/4/Metaswitch-370x229.jpg"
+        width: 370
+        height: 229
 
 secured: "fnB9xyK7XtmF8LFEQsj6rqyGziI4xO8rhTYEOXFq+GLr0qWyzqxceGJBaHrxS7BIi6ZXDwP+KoMn7ZEeT9lSpwtkRP4PhpwjLOUhKQV/QBv15h48kumTyia6kGMX1VwUNRrpiLSNcLSQdgP+D94CjkCAgFCCL5xoGZUROVjER5P6Ny3+3I9M/ranN6eOQpkdQGVXgjGemB4cH7tP52WiLMV8c6WhlV7Jzzq/eb+9zvT4WFt31giYA5MrpiIpiDL20o0NBa9U2JJRYXXy/n8O98Von34WxL0gHOOVjBqAVwqiOxSY+E9n8MZvAkXrEK7QcEogeJguL1z8HAUeBNPKIedClOXyhh103z0HZRKrjITfbCuAAocmV2jxt5OzgQYtTUaA77sGBJSwZsbPVilKyh57SM6PHlOnIXGwlg5LOl/kzcTlhnSHlPXpoxL9wgFS5THfU+u3A17XUeHijAq7eC+tDkMO7TmbFuaT2MiaMko=;YggSA5OeQ1hwYNk1jFMhlw=="
 ---

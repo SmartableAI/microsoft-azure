@@ -8,7 +8,7 @@ ampWebUrl: "https://www.geekwire.com/2020/microsoft-acquire-metaswitch-networks-
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-acquire-metaswitch-networks-bolstering-azure-telecommunications-efforts/amp/"
 type: article
 quality: 90
-heat: 210
+heat: 230
 published: true
 
 provider:
@@ -113,6 +113,19 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/1117red_F2CF.jpg"
         width: 647
         height: 450
+  - title: "Microsoft to acquire Metaswitch Networks to bolster its cloud-based telecoms offering"
+    excerpt: "Microsoft announced on Thursday that it has entered a definitive agreement to acquire UK's Metaswitch Networks, a leading provider of software solutions for cloud-based communication networks. The announcement comes as telecommunication firms continue to embrace virtualised platforms while they move from network functions running on specialised hardware to one in which software solutions help to perform same functions over servers,"
+    publishedDateTime: 2020-05-15T09:40:00Z
+    webUrl: "https://www.computing.co.uk/news/4015250/microsoft-acquire-metaswitch-networks-bolster-cloud-telecoms-offering"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 15
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/e846d36/23645122-022c-434a-8da2-3cd281a1f8c6/4/Metaswitch-370x229.jpg"
+        width: 370
+        height: 229
 
 secured: "CDfHqdw8RPgsAokUheDxkbaP0D46rIB2XSJ1g0/blv+xpWQOeaEGOtAR5ZFTxlmBm+EF5YJPsaaqu/KaQgMPakSBkBNOKFQhtiNMkn6dJ5D1+y7EIjE1zsUdl/oqPBhiEN9B4d2PLGcicHSuSvjR74OunfPXCbnTHCS82CmAsBf2sxdBatPihWP9d+hRQDKOoBUL/oseIgxstsGuDZLN6txw+QTZQtAYzcIZPZ3MVqKUQoLq2ksm9mP09MZUXy5Rre2x9Xtv76jmXD/azw50380mvji4OHuxMPsFKmGW/vy3n3ENE6iuIcKb7slXG/CLeAWOrcd/XborKo+5YVwKRfdbj5v0hRPhyJm/bMH1ekMk3XVEnmU/jso1ZamU1aPO27im6g87kkqHCgsZe4QkU04j6s4E1Qqkcj1jXg5k0NX6sE8wVBS2zvSAxdK04LFpnC0QibLZx0Gr9IjJMkkjrzUy6ChgOn0KCugyBfdfvVU=;GRmbDXsWf7kw+3YFIK9Hdw=="
 ---
