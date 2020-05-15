@@ -30,7 +30,7 @@ related:
   - title: "Healthcare Cloud Computing Market An Overview, Analysis, Growth, Opportunities with Top Key Players 2020 to 2025"
     excerpt: "Cloud computing will increase actual-time information collection and improves accessibility to the facts. it has outpaced the conventional paper healthcare device by way of imparting extra pace and efficiency in statistics handling."
     publishedDateTime: 2020-05-15T11:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-cloud-computing-market-an-overview-analysis-growth-opportunities-with-top-key-players-2020-to-2025-2020-05-15?mod=mw_quote_news"
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-cloud-computing-market-an-overview-analysis-growth-opportunities-with-top-key-players-2020-to-2025-2020-05-15"
     type: article
     provider:
       name: MarketWatch
