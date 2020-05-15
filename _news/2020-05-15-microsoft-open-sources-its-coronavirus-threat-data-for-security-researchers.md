@@ -6,8 +6,8 @@ publishedDateTime: 2020-05-15T06:44:00Z
 webUrl: "https://thenextweb.com/microsoft/2020/05/15/microsoft-open-sources-its-coronavirus-related-threat-data/"
 type: article
 quality: 60
-heat: 60
-published: false
+heat: 80
+published: true
 
 provider:
   name: The Next Web
@@ -25,6 +25,21 @@ images:
     width: 796
     height: 417
     title: "Microsoft open-sources its coronavirus threat data for security researchers"
+
+related:
+  - title: "Microsoft Open Sources Its Coronavirus Threat Data"
+    excerpt: "Microsoft's COVID-19 intelligence will be made publicly available to help businesses fight virus-related security threats."
+    publishedDateTime: 2020-05-15T19:06:00Z
+    webUrl: "https://www.darkreading.com/threat-intelligence/microsoft-open-sources-its-coronavirus-threat-data/d/d-id/1337836"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 22
+    images:
+      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
+        width: 600
+        height: 600
 
 secured: "SRok5yuJUoP1dlFhTqAHG4eMUiS5M/CPyub7R9ztUYWmAQgWFeQNQmXNpvNmIDJwGE8Sj36GC6uRkjs9v/+V5naQlUrgIzSKIfbrcfGcd24xkClPF2pnM2hlkfSrdIrluDo7tukrXeQGLNV1em+647imIcLpQcK9aVsR3DbJLffwNXy9BCQp1ubsgjLMey5VdOja3UOuGv8/Er7MCT1W1HzAU8aixaF18MSipS02Pe//f6gvdUgv4+uxyPLz7SNMMH1AiqqDp0YVcJ9BBv76p/P7LbjakHXVf2pdp2SovaoPhK/Jdfq6K3fJhk6/kTmUGOjIteGXYNtGCVHXt/nAXfg/TEFmvG1Xri1mRkcu8EUVjCD8+fJIOs5zIOcVoRfhWyiM649Z9JlU6fixmAsDmXUdKSlZMbXqVzjRT2WbVXuF0KV1Fmv/8BN+gL5QlDfQmxaB3hI/sNwrFlIlLwHdOvnaY+bvVq1fuxOJnTP+AY0=;E2+rr0f7yMZNWbNnZa8zjA=="
 ---
