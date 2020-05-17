@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Finxact Announces General Availability of its Core-as-a-Service on Microsoft Azure"
-excerpt: "Finxact is responding to growing market demand from its regional and super regional clients and prospects to support Azure. Finxact chose Microsoft based on its unique strength in accelerating digital transformation,"
-publishedDateTime: 2020-05-13T12:30:00Z
-webUrl: "https://www.marketwatch.com/press-release/finxact-announces-general-availability-of-its-core-as-a-service-on-microsoft-azure-2020-05-13?mod=mw_quote_news&tesla=y"
+excerpt: "Finxact is responding to growing market demand from its regional and super regional clients and prospects to support Azure. Finxact chose Microsoft based on its unique strength in accelerating ..."
+publishedDateTime: 2020-05-13T12:33:00Z
+webUrl: "https://www.prnewswire.com/news-releases/finxact-announces-general-availability-of-its-core-as-a-service-on-microsoft-azure-301058085.html"
 type: article
-quality: 71
-heat: 71
-published: true
+quality: 31
+heat: 31
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     title: "Finxact Announces General Availability of its Core-as-a-Service on Microsoft Azure"
 
-secured: "Eqo8J9ULnKtCwnrYyG6kUDxD1B5JpfpZBMQQAZoKw56zKb6EvP+lppJTrUSbCt/FzvLkFIfTueioCMiazS1uoTdNJ9lQX+mvOJg1c8+i63BNQfDEqGYKrk8td9jP04MkDJjAJZJvia6UWJtHaVzKEnwaGSG5/1+dSZq603ZXYvESPDOCyxkB69kzpluKw3HnYdi41/u49jmMoOtDA9Mb9RluugAZ79xOYc69t8RvQMsA4aZ2k1LxUECAnae9XmtAPtiV5HIuou6gdfQnJLlWfcrbij113Px9wPkrty9UByMlgVe/zViNF2GmrbB+KS1L;oL7QAXDLt+vGxCXwU5quZQ=="
+secured: "cQx8i45LlNbxUsX1OJky88JQ2jM+TlSXRs4VGksi7lCGnmdeOzGVNr3P9Rg2vRZhjDT7f0RIeK97Dm/0YX4dWmJh3CzQPHlA2LvHBSUlpSWvhPi2f8d7GJNCY/vts5e94lzRcVWTKYsOrA49+g2agqf2QYfYHfSgSv1v56w1ew6gwcvNeQ7PmKacrNxS4mXcnQAcZvTPa3YABFjq+CUsCIdDgMAy+j2gzz+Wscpo2t8ysjBYu7DbsYGC4Nip7/XnFfpz0CEBRhI1hNiai5BTMroykoXBDRlOz46JZYFzF8yL8efyIguhmxW73NHNdUeS;Kl1CMPvOPKbdqeaxkSJQuQ=="
 ---
 
