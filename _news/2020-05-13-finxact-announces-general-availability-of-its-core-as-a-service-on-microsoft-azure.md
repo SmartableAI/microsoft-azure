@@ -22,6 +22,6 @@ images:
     height: 315
     title: "Finxact Announces General Availability of its Core-as-a-Service on Microsoft Azure"
 
-secured: "zyubrB0w9rhOhJXwnqdTYCTbXq5oHqBVNb8B69thKvfHfVCnftnoV9V8qntbG0DhelRnhQZtA/j3e0M7368cChgh199dWI7EMiWKqmUkg1+HGwP1McNOVYDpUpkr4FostVHyHtUEWeN+J0Z/aXj22TPp4yUlBUwodiL9GOfJUW9maz+n7q1tMdti2fNXQSaebuIt1cdQifxEvP/kluR33+lQUGAO3jBWE9hZ7YqeaCPeqkezTl1QZ5ugA7ByHj+MRyHQ0+iHpibFbyAXQkI88vu+SKSEAuBgDwiW3POaFS3NRAUsPZEpngoAJFFoDhAh;J/H8r3MVOyw+avH7JsWsXw=="
+secured: "ofxrZT6U9v9WvnftnhektqMJLITz/yEVhNVO60cgyp5EmEIJC0WXCd1XimZdc57pKfqFzTJTGjCOARnQGsS5q2uTaTUpQYZCBuaPXmgOZAqQcrA069N1dSgiOAGoB301kLBlj7/P/bqS2ZlT/opIw1CyT0kj1ptTYKvUmNxVtFvkLqgvGeAeTauvuNwpOnMH+YCnrq4/wr0aQupmtAgcqW0c8ouX+v51QPsW3zBtM+lT4E/bz03aSovjZ6MmvrgGfAhj1oV+rO4g9YxPE/5Nyi7msv1YTqMmitXTUM4rRQT172qAj1iyDc5q6AnP1+WE;0bOIXcAy2+8hNceQKyCFSA=="
 ---
 
