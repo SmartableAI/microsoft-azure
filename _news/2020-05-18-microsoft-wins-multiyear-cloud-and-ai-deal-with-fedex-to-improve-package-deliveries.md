@@ -1,26 +1,26 @@
 ---
 category: news
-title: "FedEx and Microsoft join forces to transform commerce"
-excerpt: "MEMPHIS, Tenn., and REDMOND, Wash., May 18, 2020 /PRNewswire/ -- FedEx Corp. (NYSE: FDX) and Microsoft Corp. (Nasdaq: MSFT) on Monday announced a new multiyear collaboration to help transform commerce by combining the global digital and logistics network of FedEx with the power of Microsoft’s intelligent cloud."
-publishedDateTime: 2020-05-18T16:04:00Z
-webUrl: "https://apnews.com/PR Newswire/6651f50c5ebc9cc48560cd0ce2ae173a"
+title: "Microsoft wins multiyear cloud and AI deal with FedEx to improve package deliveries"
+excerpt: "Microsoft Corp. and FedEx Corp. today unveiled a multiyear partnership that will see the logistics giant use Azure to build a machine learning-powered platform for predicting package delivery delays."
+publishedDateTime: 2020-05-18T17:12:00Z
+webUrl: "https://siliconangle.com/2020/05/18/microsoft-wins-multiyear-cloud-ai-deal-fedex-improve-package-deliveries/"
 type: article
-quality: 22
+quality: 16
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: SiliconANGLE
+  domain: siliconangle.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    title: "FedEx and Microsoft join forces to transform commerce"
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/microsoft-2.png"
+    width: 718
+    height: 400
+    title: "Microsoft wins multiyear cloud and AI deal with FedEx to improve package deliveries"
 
 related:
   - title: "Microsoft and FedEx team up against Amazon with new technology and logistics partnership"
@@ -53,20 +53,20 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/3821841996d20be492a000e5b8789ec34da3e9bd/c=0-57-2539-1492/local/-/media/2017/08/29/TennGroup/Memphis/636396002819185337-060915-a.JPG?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 678
-  - title: "Microsoft wins multiyear cloud and AI deal with FedEx to improve package deliveries"
-    excerpt: "Microsoft Corp. and FedEx Corp. today unveiled a multiyear partnership that will see the logistics giant use Azure to build a machine learning-powered platform for predicting package delivery delays."
-    publishedDateTime: 2020-05-18T17:12:00Z
-    webUrl: "https://siliconangle.com/2020/05/18/microsoft-wins-multiyear-cloud-ai-deal-fedex-improve-package-deliveries/"
+  - title: "FedEx and Microsoft join forces to transform commerce"
+    excerpt: "MEMPHIS, Tenn., and REDMOND, Wash., May 18, 2020 /PRNewswire/ -- FedEx Corp. (NYSE: FDX) and Microsoft Corp. (Nasdaq: MSFT) on Monday announced a new multiyear collaboration to help transform commerce by combining the global digital and logistics network of FedEx with the power of Microsoft’s intelligent cloud."
+    publishedDateTime: 2020-05-18T16:04:00Z
+    webUrl: "https://apnews.com/PR Newswire/6651f50c5ebc9cc48560cd0ce2ae173a"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 16
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/microsoft-2.png"
-        width: 718
-        height: 400
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
 
-secured: "fTA8w55LgHLz9t7krcpGkgSwghB62O9JQJQkGDk8Qlvfwy6KmhLJKqyWwu9D+HrXiofyj9YhObkQtXjnComXK+EED52O1u5gGvhtD3hwlBg25xXDAB5tnLm/NKmEl926vjpGD8+8JJOXhWD8rZemE5AKS4IpPxUdL5mYEJP0/PtN8jPg11gsa0ocsYvSG2rUvmAYMRsryvo3EL8CXWhkX62YZSN4wGWNrEb0W8nagbuaLcrr7kFbQVTH9IEAFAE0lmIonwBWDfr/P/VBAGbTRk26YIsCumTE6Kv8tRlP5l9YNYtfmF7Q0VOQrsxhckqb;hNF21qEsxV6K2aMKuxJ4kw=="
+secured: "OIqKAze8xtGyGjTZuWgPvZMllFPrOXM1FnEcj4VMvJec8j0mp7nV0RfnUKmKUJmrbnlzzPGm+M24FqbeAT1VnvCnTGpIisNCg1zWTb43KOjDqM2eT3HdxySOR6vFckCtZrpKOJWulIVtssP3k7nV9Efq7XCwE4LffQFIrZL8eTxvgU/GBuyuANPVxConZ5y9rwJ1FBdOhhmcs38atb4vlx0FyKgBRkI7IszBGPSSSMu+dKvnaaBDuh0XwZi7ptufgb9legq0+daHPVrNHAhqiJDiJ7vBzskI4uaVAq7bdYBVkwaXTo4xDh5MJua3+Dcj;ystY4otR6JHra5yKeBEVtQ=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.geekwire.com/2020/microsoft-fedex-team-amazon-new-techno
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-fedex-team-amazon-new-technology-logistics-partnership/amp/"
 type: article
 quality: 73
-heat: 93
+heat: 133
 published: true
 
 provider:
@@ -44,7 +44,33 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/3821841996d20be492a000e5b8789ec34da3e9bd/c=0-57-2539-1492/local/-/media/2017/08/29/TennGroup/Memphis/636396002819185337-060915-a.JPG?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 678
+  - title: "FedEx and Microsoft join forces to transform commerce"
+    excerpt: "MEMPHIS, Tenn., and REDMOND, Wash., May 18, 2020 /PRNewswire/ -- FedEx Corp. (NYSE: FDX) and Microsoft Corp. (Nasdaq: MSFT) on Monday announced a new multiyear collaboration to help transform commerce by combining the global digital and logistics network of FedEx with the power of Microsoft’s intelligent cloud."
+    publishedDateTime: 2020-05-18T16:04:00Z
+    webUrl: "https://apnews.com/PR Newswire/6651f50c5ebc9cc48560cd0ce2ae173a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+  - title: "Microsoft wins multiyear cloud and AI deal with FedEx to improve package deliveries"
+    excerpt: "Microsoft Corp. and FedEx Corp. today unveiled a multiyear partnership that will see the logistics giant use Azure to build a machine learning-powered platform for predicting package delivery delays."
+    publishedDateTime: 2020-05-18T17:12:00Z
+    webUrl: "https://siliconangle.com/2020/05/18/microsoft-wins-multiyear-cloud-ai-deal-fedex-improve-package-deliveries/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 16
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/microsoft-2.png"
+        width: 718
+        height: 400
 
-secured: "cFj5Xcjopi6CwV2XsyF+2+eb3PT1gxMW7JHkGKI3j80puD8cuXWKdzRxQQPFU9/WY/R5syzyu09GQ0FuxAdjUVYOEfo9L4bt838JoXnHDzhIi70rCiBtjHFcWY54NZdJ/jGin4j7YSuNoUL5n4wNlNbKIgGhk/lX7+a8iSuDfETQmbDdOkyazEylLtwpk4hf+x2A1E60d6IM8qKyQcPQqGQUg6Q6hqfDiNIesnv8hrqe5ZP+MII9tcSP+3RimXvTzbyB+9W/UCJUNYsfuc/kmhTbq/JO8SFTJEW76NLd5oOkh1MkOtvfH45dGwukPxem;Hry1bQvrt4gdNGO1WJFZ5g=="
+secured: "Az/m7Wl+QPx8qh3BdKOluVKqKDJUOVCOBACCxgshLhlbkJIzy7iX91ln3IfiPd7sZgO+Reft+iS2C0LFjki9lJRN+Z/BUfYcCkmJre2ZCGaWvkEOBcsYnUOabZ6ECqkHgRiOoS6xMmutG6EiqMG6XI44IUOANPDPetcBo41wEbKT3Hn8W0xoylDjJOm7y8zpGT0ipM5qhApKBbX7AXsnfzRrr9EWfblyjTvDgCiXAx5FQRLFz5Ngwy3yqqxizlK5hYSUMJzJTzweIyOWpx6PbHjKfZc85FWdnDqcg1slWHvRyvDXp77wkcj+BQXfW4QH3ljtQjGbOoZK2RlBvOzuwjaZeteNZS3WaSN+J6tv/kVb3UVH9lWS8GWHc3hx2el60IKdV0pvr+yBtnuSVl4Sc81h27ARAxf9sJTWePTEqISqSNN7Vik6L7tdSIBvL8SGBq+veAJWCjRU4k8U9V9h4rAoequDmRsb4EV4XhAuEDg=;mPhqZjqK4xf4MMdpt4CEjA=="
 ---
 

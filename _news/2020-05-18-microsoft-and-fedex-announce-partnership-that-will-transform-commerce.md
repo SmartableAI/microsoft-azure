@@ -40,7 +40,22 @@ related:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F574884%2Fgettyimages-1162624331.jpg&w=1200&op=resize"
         width: 1200
         height: 800
+  - title: "FedEx, Microsoft announce multi-year partnership"
+    excerpt: "Talk about team-ups. George Lucas and Steven Spielberg made \"Raiders of the Lost Ark.\" Lebron James and Anthony Davis rejuvenated the Lakers. Now, FedEx and Microsoft join forces as they attempt to transform commerce."
+    publishedDateTime: 2020-05-18T16:47:00Z
+    webUrl: "https://www.bizjournals.com/memphis/news/2020/05/18/fedex-microsoft-join-forces-to-transform-commerce.html"
+    ampWebUrl: "https://www.bizjournals.com/memphis/news/2020/05/18/fedex-microsoft-join-forces-to-transform-commerce.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/memphis/news/2020/05/18/fedex-microsoft-join-forces-to-transform-commerce.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 42
+    images:
+      - url: "https://media.bizj.us/view/img/10858802/fedex-boxes*600xx1197-798-2-0.jpg"
+        width: 600
+        height: 400
 
-secured: "m5JVnnq28DfCwIgZPe/3dtdf5xspd0GKYglkVCfsL+b+dLHWuMcAPyfVLGwyKrn3mVojHNVk0AB1HAOYpcvEml/5gJ+uhP9dIe1Z0AIUR7fyTB+JTRKEEWirIQ0FFpvbNUR6tlOYDadUcthP3qBjxNwVH8rrG2f/9ijs4rt0Yz+iKr3NP+94YOETMRPYjKV694C/XOSXK6BIqEkkRmQyb2AAMRD/EirszSoN7Jlg6AlaERcAQpbulVrOtUwlzXwxq3FJFvAj71WXm5Ge+cHY9882Cahn2u/IbcnZH3mJvRwLQPzfAK7z2JIutzFbcOVJ;hDVdgRHtuOWD7xNJLhmsog=="
+secured: "+/CivutOh04+9orGaiLmhSghloddqveA2aJTRADAr/17f7S94spPfszoE909ZCyEK6/IxoBUVzVZZSuzzT2TV9qXnzzBiR1Kq9jXuaQerZNB6vru4hLCh3ncXvoCiDSJff77VaLTRLX2IleoXlGDoo7EwF/IXoZ+5De37vm8XfOQqK3VQ6/PlskEcf3381fQC7wWoOOq60yLXfmglXywPGpXKneNDEbEDcwci1mRUlVdOdu9WBNHrXW9q19VfuCRMiiNJz9qvgX4R/PFNqs25ud6qUomAipglBhXiYMvtepg0Je53sm/gFbiA/SD4tr+CPJXyVi01xb1Zynfu2DA2NZbF+sEHw6txotWCat3HXZk7/DIw9TnO5FNfAJeozhw24gpth9NR1HovzpoyJ5Og1nYYAbs9PrVusO3Q34MH9hukrlAQdjbNqLlg0zc+e+yOQCbq+SZ3NbKSXQDBtbS7fACsY95uSSBdA7Zfm9z5sU=;HnVives9YD1x0MRZMVwh9w=="
 ---
 

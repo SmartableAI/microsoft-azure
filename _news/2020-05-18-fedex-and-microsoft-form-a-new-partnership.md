@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/05/18/fedex-and-microsoft-cr
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/18/fedex-and-microsoft-create-an-exciting-new-partner.aspx"
 type: article
 quality: 82
-heat: 102
+heat: 122
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     title: "FedEx and Microsoft Form A New Partnership"
 
 related:
+  - title: "FedEx, Microsoft announce multi-year partnership"
+    excerpt: "Talk about team-ups. George Lucas and Steven Spielberg made \"Raiders of the Lost Ark.\" Lebron James and Anthony Davis rejuvenated the Lakers. Now, FedEx and Microsoft join forces as they attempt to transform commerce."
+    publishedDateTime: 2020-05-18T16:47:00Z
+    webUrl: "https://www.bizjournals.com/memphis/news/2020/05/18/fedex-microsoft-join-forces-to-transform-commerce.html"
+    ampWebUrl: "https://www.bizjournals.com/memphis/news/2020/05/18/fedex-microsoft-join-forces-to-transform-commerce.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/memphis/news/2020/05/18/fedex-microsoft-join-forces-to-transform-commerce.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 42
+    images:
+      - url: "https://media.bizj.us/view/img/10858802/fedex-boxes*600xx1197-798-2-0.jpg"
+        width: 600
+        height: 400
   - title: "Microsoft and FedEx announce partnership that will 'transform commerce'"
     excerpt: "FedEx and Microsoft will work together to help businesses track and analyze commerce data in near-real-time. The first solution to come from the partnership is FedEx Surround, which helps businesses meet demand with inventory."
     publishedDateTime: 2020-05-18T15:48:00Z
