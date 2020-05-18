@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/05/14/microsoft-is-acquiring-metaswitch-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/14/microsoft-is-acquiring-metaswitch-networks-to-expand-its-azure-5g-strategy/amp/"
 type: article
 quality: 95
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -52,6 +52,15 @@ related:
     provider:
       name: Seeking Alpha
       domain: seekingalpha.com
+    quality: 2
+  - title: "Microsoft to Acquire Metaswitch Networks to Expand 5G Cloud Strategy"
+    excerpt: "Microsoft has signed an agreement to acquire Metaswitch Networks, a leading provider of virtualized network software and voice,"
+    publishedDateTime: 2020-05-18T00:57:00Z
+    webUrl: "https://www.thefastmode.com/solution-vendors-m-a/17122-microsoft-to-acquire-metaswitch-networks-to-expand-5g-cloud-strategy"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
     quality: 2
 
 secured: "43y7oT1bfTeGFjqlj+rl9BDTQnUC9iySboIN1RDe2XpakOT6b/5lYweZK06112b36by8qzmll4djlcIwIViN9ZPUDDCZ2C0KtnYQJchwvpZXkbnEnR/h+Wx89VAEFaLhVZtEt8RLPm9X8CPepPxGI9IubhjwOKW6tgmL0oIANPeLwkiVjtDyUKhl8it2yiPQLNndKoW5H9jPKpIbAez1zF73E2yG6zbPP1VUghPoYGfnAe+zAqxZkIdvsuZ2riuO+0XKuhElAqlH6idCK4ZyC7Stkzw9yt9o1D4CCA12r/3UQqdtB0Q9Yb+wG5fXSBNqJrS+6VPACXU8zAIfuASpclgJxNlKm6zMUE3zeDSuvA1FeInWe45EKENRYlbvE+mI9mqYNXDqNoYf5u4WSuMMDFh2X6EL6581cOgANti3YnpXfBkWZ0WRWvJEULqJKwocepjaERqICXtMltJMnI9vA5c6pY7SR7TOaAo/c9C1jHU=;StMSY1OBeKIal4VQe8K84g=="

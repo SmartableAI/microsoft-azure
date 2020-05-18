@@ -53,6 +53,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 2
+  - title: "Microsoft to Acquire Metaswitch Networks to Expand 5G Cloud Strategy"
+    excerpt: "Microsoft has signed an agreement to acquire Metaswitch Networks, a leading provider of virtualized network software and voice,"
+    publishedDateTime: 2020-05-18T00:57:00Z
+    webUrl: "https://www.thefastmode.com/solution-vendors-m-a/17122-microsoft-to-acquire-metaswitch-networks-to-expand-5g-cloud-strategy"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 2
 
 secured: "HRPNYO2jLr7M3r/UH6Il0fQ69LbzCpu9lnD3i22qWuluw/8LCyKlnQJHmm8zqqVpq/LxXvBZaig3nLHyfhkBi2gVlyFIxPpEMD8ueFnSGeoLZJHzE/p2cxqLMczB9M1n02mK5xo4vSOdcHKtv5N4iMNbxZbpQGS85qgtKdk6dn7+IMx0pU/vRd3yRzpYQzdZpyD21NT5l3qTttlazQkyGAeRre8/INip4qO6anZHFE/fHU/a/q8Yrm3K46emIQFViiOeIiddb/d8fpI2ynMZMh5VB6Ocb79+5RpqBbkDus8KznPW20qu92lv3XNS8k5kWvT9z32TpxvlpkzBG7foiNVFcBG4op55y8EXpyKbmx/7JXkebg+xwjT4r7OYKvGcHNyYcHVe0m4n8a8vqhYngvMJu9N4I/wxur8r1FJvnw69KcaJWKI9k13yjTNr1gTk0Cg+GOa+Vr4SWCpk75K6uEETYfhDnEtLcP/PdZ90Ymo=;F5bdVny4CzlIwTWBZRw2HQ=="
 ---
