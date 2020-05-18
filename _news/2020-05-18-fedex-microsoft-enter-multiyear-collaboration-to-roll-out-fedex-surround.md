@@ -32,6 +32,17 @@ related:
       - url: "https://content.jwplatform.com/thumbs/9eFnHW1Q-720.jpg"
         width: 720
         height: 406
+  - title: "FedEx, Microsoft Team Up To Launch Shipping Initiative"
+    excerpt: "FedEx and Microsoft plan to launch a collaboration that they say will combine the transportation company's logistics network with the power of cloud computing."
+    publishedDateTime: 2020-05-18T17:51:00Z
+    webUrl: "https://www.pymnts.com/news/delivery/2020/fedex-microsoft-team-up-for-shipping-initiative/"
+    ampWebUrl: "https://www.pymnts.com/news/delivery/2020/fedex-microsoft-team-up-for-shipping-initiative/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/delivery/2020/fedex-microsoft-team-up-for-shipping-initiative/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 22
 
 secured: "Zqk7IscPQgKIZbRGwZnss6SlIojtDsnhcYRX+dq09qeyrkSsQ0UY0fSRnjMiHfTVEzG1a4MymCZPSUruGmDFEkq97pIYisVLnhUN/NMlGHf3pc02HOYtcq3m/rxgKe5z2WlG484mGPa/YRP+A7tev2b5EHcNE6AraPzrY8b2p1eaTrZjelVkWrp6q1UGHJzAtVN1gUNR6YVKy5D1WIyX7o5/3EbgPhVk3FhsSnoDk09HVfxNleuOBoMQmnsk0cuZ9WO3rPnKauafi8ohfi2OFPXc96PuOiJDmf3+N/sjbwwpoFBf3vP52iN3B0cWI1bKxU6JxjmzU9Nk6JwwHF3iKBtp9+acpKNv0tBoy+u764QarMLkslFlxvTqjacBJYJPWDQTWeGYA2uA7UtF620A/+RyEzoNuyNY95JrQR//ZRSV/X76UZI/cew2ROEUdDUE3Bp1fvw2LyJqAkyWe4PrswN9FtjUo+wiAE/iUo1DKU0=;fk/sMkN6aUIBESICAxfB8g=="
 ---

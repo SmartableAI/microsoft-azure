@@ -26,6 +26,6 @@ images:
     height: 450
     title: "Google Cloud hired 2 new execs in the wake of its recent reorg to beef up its industry-specific products, particularly in telecommunications"
 
-secured: "XSF9XZEXc/4SZtBCIqz3qXPUuziHif6/jpt19xfvpBH3QuDyBh7Bra0nlknjwo1fn8rxzRkOYuKiYpHH5lS5iKZBZF+Ullba4Aznz9G3jewOEdJD2bJOliHOzLs4554tNUFdw3/hAQms3aBLcsioK4Mzwpjcwova9iZ2oTLIcW6/IpdkgpnleYGm0Gz09G88fg90hHUtIKXzrz5QF3GuJUkm5KFIuSHoHYggwflXUyM3WAt2IDBhfPa00L5JrNAilQC15pMASskNLV7pEP9NsdtvwwCsBiKLUiDz2H3zaQjcAmDJM53bGJL1qjBZr5ws;E/p9EPwPvYHVdvTgGWsfAQ=="
+secured: "GqsT6x9exVI+dq7f6+fDCsdSLpzDOFPADb+rjdgB4qaYxf7ooJFowhWMNLUoQivftrzm2RCcw2NbpjlARfQ2zG2kd7tGeuboV1P3Febooh9Dynym/7ghrPvgnVBm1f/ojN8VIPdWPDy104sosWkst5FMd+NRF2vtCHnMIAbgR+fp89i7ecf3FP9ri0ola3X2uoVyW0Q4E9dQnbWFtu/My1132QW+CGp92g9DcnHSeOwQC9Odmn1yjz/69Ii9AF2anODNqcGSPxVBLpjIJoIXGKNIwnmV+4/S9qkjtXiqDxuy0zWZk4vo0WF/ZMlVen7HGUq8SwnL0+ftB+tYLdu29mzL0f5cD8IzgfiRYyJrIymudzQBHuW1blXdHpKR7Tb/ydhtHTpUqgHdQqmxKxbXVY16QtbqXGSUDZWmYh+S4jjoD55wyMDxdKJmpxMQQbihyWYBV+6/R9yh/CLKmzDjuEnEdl8M5t+i9r4eCADqm9Q=;DcqJhhvS8BAt5JWxxrAxJg=="
 ---
 
