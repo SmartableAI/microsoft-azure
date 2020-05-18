@@ -2,6 +2,51 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-02-27-azure-hbv2-virtual-machines-eclipse-80000-cores-for-mpi-hpc.md",
+      "title": "Azure HBv2 Virtual Machines eclipse 80,000 cores for MPI HPC",
+      "excerpt": "HPC-optimized virtual machines now available\r\n\r\nAzure HBv2-series Virtual Machines (VMs) are now generally available in the South Central US region. HBv2 VMs will also be available in West Europe, East US, West US 2, North Central US, Japan East soon.\r\n\r\nHBv2 VMs deliver supercomputer-class performance,",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/azure-hbv2-virtual-machines-eclipse-80000-cores-for-mpi-hpc/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-27T01:00:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f9585259-dc32-431e-a5f3-a1272c2e9bf1.jpg",
+          "width": 631,
+          "height": 409,
+          "title": "Azure HBv2 Virtual Machines eclipse 80,000 cores for MPI HPC",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
       "path": "_news/2020-02-24-fileless-attack-detection-for-linux-in-preview.md",
       "title": "Fileless attack detection for Linux in preview",
       "excerpt": "This blog post was co-authored by Aditya Joshi, Senior Software Engineer, Enterprise Protection and Detection.\r\n\r\nAttackers are increasingly employing stealthier methods to avoid detection. Fileless attacks exploit software vulnerabilities, inject malicious payloads into benign system processes, and",
@@ -1016,51 +1061,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2019-12-02-faster-and-cheaper-sql-on-azure-continues-to-outshine-aws.md",
-      "title": "Faster and cheaper: SQL on Azure continues to outshine AWS",
-      "excerpt": "Over a million on-premises SQL Server databases have moved to Azure, representing a massive shift in where customers are collecting, storing, and analyzing their data.\r\n\r\nModernizing your databases provides the opportunity to transform your data architecture. SQL Server on Azure Virtual Machines allows",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/faster-and-cheaper-sql-on-azure-continues-to-outshine-aws/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-12-02T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a35dce0f-b730-4313-b0ce-57698def7c55.png",
-          "width": 1024,
-          "height": 367,
-          "title": "Faster and cheaper: SQL on Azure continues to outshine AWS",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Databases"
       ]
     }
   ],
