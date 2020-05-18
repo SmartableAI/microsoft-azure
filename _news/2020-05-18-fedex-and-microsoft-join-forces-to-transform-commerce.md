@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-18T13:00:00Z
 webUrl: "https://www.prnewswire.com/news-releases/fedex-and-microsoft-join-forces-to-transform-commerce-301060473.html"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     height: 288
     title: "FedEx and Microsoft join forces to transform commerce"
 
-related:
-  - title: "FedEx, Microsoft Enter Multiyear Collaboration; To Roll Out FedEx Surround"
-    excerpt: "(RTTNews) - FedEx Corp. (FDX) and Microsoft Corp. (MSFT) announced a new multiyear collaboration to transform commerce using Microsoft's intelligent cloud. By combining the FedEx network and the Microsoft cloud,"
-    publishedDateTime: 2020-05-18T13:37:00Z
-    webUrl: "https://www.nasdaq.com/articles/fedex-microsoft-enter-multiyear-collaboration-to-roll-out-fedex-surround-2020-05-18"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 40
-
-secured: "PwCF+gWoeWysHwSRTTtgUfiQoentktdWUWSUkeymgIt1vukwzElmKh1rR5D0QNbSMo0uWGBjuA/HphfddDrDhev6EeepPngHuFLL+NJDHzE1YUW4YapnlUpYwo666A8ktisZcqfUAV8JOBABQoL3D7s1C4Q1hZKak/F8hRNLRFsE/fpeJoAFiabl+t7AYHYFPGOVeCvKcyw4uegpHLAMJAws4XwgT6ZVX/s0XY7ywEb16/HW86kYH/BEOed17Tsp/NcZOqJgr5vjxlTq7Z8AHcJGpqjZubsaslrejfuCihpLQxpx6/1dJsMSEI/lP7wm;YwCphvM95x8IN3pguFJ1Ng=="
+secured: "/b1Rp5JmqChqhxnODGAWRK/s/0T2keORZJctSf1Ofo5V3PEVB80ninDK2L7citV8fvFR2QLlgaTVCQc7ayjBH/w+2Xm4XVlopL2aU3g1goe6A+C2IcOZB2p54aWOyVcOA3qUF19W8sse5UhGDQdLZ2NgcMWXqt3jvXpII8S2DmPxdZFk72ypbqDFqOyWaaZdZvXeogNXEzi7B/ZxlrIXjzkKSiGYxn+95f9xRlPN6RV20p2EhyyHmSJnTcM9qqtoZfjCCYJbVQ1LANVPp4uJihKAv+ewVkJCzq9TpTv30+SR7mSJFPhYn/iulA/Pw6xCB2s8Exe70JRJt03biF9n6FZpTcfYgoLDl7pzm4wPltnHPSZ5W3m4f2P+JnoAXF/+MllxOQemlAU61iOl7SMM51rSm0I2X6ETIACbNPh0gHQHzWR925FyofxKoD4jsyj6roiO6vozPe/HlHYpoK8eE9zzhmoc5UdqvCdCMPIfzCs=;D8QSeIin8EPidIRveuc3hw=="
 ---
 
