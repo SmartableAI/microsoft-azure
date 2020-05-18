@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Microsoft to invest $75mn in creating 1,500 jobs in AI, Cloud"
-excerpt: "Tech giant Microsoft has announced to invest $75 million to build a new office at Atlanta, Georgia, by next year that will create 1,500 new jobs in the Artificial Intelligence (AI) and Cloud space.The Satya Nadella-run enterprise will expand operations in the city's midtown area in a 523,"
-publishedDateTime: 2020-05-18T05:22:00Z
-webUrl: "https://menafn.com/1100177379/Microsoft-to-invest-75mn-in-creating-1500-jobs-in-AI-Cloud"
+excerpt: "Tech giant Microsoft has announced to invest $75 million to build a new office at Atlanta, Georgia, by next year that will create 1,500 new jobs in the Artificial Intelligence (AI) and Cloud space. The Satya Nadella-run enterprise will expand operations in the city's midtown area in a 523,"
+publishedDateTime: 2020-05-18T10:04:00Z
+webUrl: "https://news.webindia123.com/news/Articles/Business/20200518/3560343.html"
 type: article
-quality: 22
+quality: 2
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://menafn.com/updates/pr/2020-05/18/I_4d23a7fc-1image_story.jpg"
-    width: 400
-    height: 300
-    title: "Microsoft to invest $75mn in creating 1,500 jobs in AI, Cloud"
 
 related:
   - title: "Microsoft to invest $75 million in creating 1,500 jobs in AI, Cloud"
@@ -39,6 +33,6 @@ related:
         width: 600
         height: 338
 
-secured: "Sc9hax4RAabKoqu+qD7Ca7G3zqZnUvd1eWVwZz7dqot0x70DsBVjnyHmaqVogs66tEjK2HPMru/x8ub1OtGjAaT1QP+mCgpfVOJ7WpYoUH3JCgpfeWduetmT4c5wvIxjPfWqeMY5AqZa6KXQuljH/bua/Dtk2sdGKg6axbPQbrvYxR1NMALoBU2ZmI3mpxKWYwqyFmRlOJDk1I/5uEDNwHOTTkohhKC1d4lCDz2RIdLAnRddVzBXd4r/UfXMT+ss8PH5B42gEhANrYiPlbqncVgUya3c3/FNflxkleMJTRd6+XbuPxLDTLAXmnL434M7;8cOn22OOjsqr9HCK5JS8CQ=="
+secured: "ZIhwF8bt/l8qjvnzS2e3J28UTfF18Ic9QvzIilSSPTA+pS8pATfvr2CNCfFBEzVuBoFWIWFBARHVSnfKes0lLDw5phZsUay7nxwlvsS2vZjHJO070R/U13azumoI5WG6YTImhi8t2fhpvCVHdfJk3cH7RuwZHFGnsIe8cRoAOPAPsGa5jv8coR4v9tSCzT9JGLI/g0bs3cP57+P8y+CJ4cC3yfk+hKFv9p+OF7n2dLna1Jhyeh5AMrwQ9ZXm/+TJVPmebqXvqvMrqqTYdfATBc2Pokm/jJpSHz11kvuplV0g0O8AzMHKJseGbu3n9qP0;fjTW09KjAQzbeZtluYghMA=="
 ---
 
