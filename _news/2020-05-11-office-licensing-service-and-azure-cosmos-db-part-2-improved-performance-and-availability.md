@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-11T14:00:02Z
 webUrl: "https://azure.microsoft.com/blog/office-licensing-service-and-azure-cosmos-db-part-2-improved-performance-and-availability/"
 type: article
 quality: 106
-heat: 126
+heat: 127
 published: true
 
 provider:
@@ -39,6 +39,6 @@ related:
       domain: microsoft.com
     quality: 88
 
-secured: "aDPz3tgfBTFAQPXW0EwJbKg1bV1nyfQzOXuSPNCLECnxxGLIgURNAawIFPJxin8RwjlXosDm2NnjSjG+Dv293SKoDYpHsAL6C1yCt/4biJGln5JzjKozwL3UaU1fpqekkREtDFguN+2CsfzQ3uq2b+qIZiqTF3pEHyw/sl1S+C92cLvlP4FOV85sqf+/sRQh6jHkffKDVbVOroXpgZc+7LSpRNE8QAp35ZYIC+X+AcrodZ5I194MisTeTaw2C8wo61LNwBR/ZXEC16L84REtxKXXBeMqDvk5+/cFwWtfqrcTolwDPEn1LopfivqlfJ063wOva302bVHImUlHyfFRvQ==;ji59A9QpqxEF3kEfjoXfcQ=="
+secured: "9EGFDDUkk8HVCtEa3xU/GC4UA+RWjlfX7Wh8+c9/pC4mQx/pB7fK1cp6XvsK/N60sKU41kx3PYigrMLUWKR4el2SSYf7f3mHyphsFWIZtgUrsCJGyaraiDAlmnIjeCyEvCw57kq4bfhlWUen+hjdY1GN6CRjXYSrZH+BO2OXMGBG4+YM49zCrweOhYKRFQA28YPL+2/D074DSdRBEerYpFND3cGg2wfoPiXDVbDrxkCxCUinKgAmZewwoi8mPE1SDn8Ws3r4hiRNC3mWdHgx76m+rnEjzYph5NOSzY9xPJ7EI26+eIuzHEndlYqChDZi;WtE/jIKJtdaWTElw4XcfOQ=="
 ---
 

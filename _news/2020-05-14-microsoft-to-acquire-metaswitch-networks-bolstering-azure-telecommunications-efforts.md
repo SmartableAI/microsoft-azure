@@ -8,7 +8,7 @@ ampWebUrl: "https://www.geekwire.com/2020/microsoft-acquire-metaswitch-networks-
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-acquire-metaswitch-networks-bolstering-azure-telecommunications-efforts/amp/"
 type: article
 quality: 90
-heat: 230
+heat: 231
 published: true
 
 provider:
@@ -127,6 +127,6 @@ related:
         width: 370
         height: 229
 
-secured: "CDfHqdw8RPgsAokUheDxkbaP0D46rIB2XSJ1g0/blv+xpWQOeaEGOtAR5ZFTxlmBm+EF5YJPsaaqu/KaQgMPakSBkBNOKFQhtiNMkn6dJ5D1+y7EIjE1zsUdl/oqPBhiEN9B4d2PLGcicHSuSvjR74OunfPXCbnTHCS82CmAsBf2sxdBatPihWP9d+hRQDKOoBUL/oseIgxstsGuDZLN6txw+QTZQtAYzcIZPZ3MVqKUQoLq2ksm9mP09MZUXy5Rre2x9Xtv76jmXD/azw50380mvji4OHuxMPsFKmGW/vy3n3ENE6iuIcKb7slXG/CLeAWOrcd/XborKo+5YVwKRfdbj5v0hRPhyJm/bMH1ekMk3XVEnmU/jso1ZamU1aPO27im6g87kkqHCgsZe4QkU04j6s4E1Qqkcj1jXg5k0NX6sE8wVBS2zvSAxdK04LFpnC0QibLZx0Gr9IjJMkkjrzUy6ChgOn0KCugyBfdfvVU=;GRmbDXsWf7kw+3YFIK9Hdw=="
+secured: "at2YFDjw3l0bKB9VN8KpWw0BmavGImD8+CC2GPvZdED1qky2MnVXo+XGISEbIC1ombrslQkZ1ESmmiZB4f7utJ7Lhm/5f88+aqFb6h/O/2cB3SuDdhjfV7J/9ePxvwJIIYpE6fbhzY5QLE4+we3UbEKN+MyafAf9OFNNi6y051SMIhQV/1wGvPYklDx6RAXzn1H6z9BXQVAufJlPNyg5iiGK9AGaO96fWNYQUhnBBbG+uiDHFfot+tVRt9RMPPbdlLD4qXC3+zXXkO7Upef5CXWJvPLsr0qUR2nUctWvssnx7y/Mo/wULtXgeVwH9zGlpo1CVGOOExA62AyF1RRXeMVio+46Af3as/dY1bE9B7Dhof5UqhAX1oYQ0XeCgpiNTCbdmyeQJ6hP7il0QegZoOE2/F1dVHSELXfnU8q/BD9JbxxMMPodj7xmLNXjCD6NVBbXP1v4k4+4naP8JciJhnSvWnaMK89GwVSDbSOSZYg=;Os5RjYpYnPAqQArWRsHPlA=="
 ---
 

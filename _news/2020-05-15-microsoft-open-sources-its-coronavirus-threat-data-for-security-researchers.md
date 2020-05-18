@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-15T06:44:00Z
 webUrl: "https://thenextweb.com/microsoft/2020/05/15/microsoft-open-sources-its-coronavirus-related-threat-data/"
 type: article
 quality: 60
-heat: 80
+heat: 81
 published: true
 
 provider:
@@ -41,6 +41,6 @@ related:
         width: 600
         height: 600
 
-secured: "SRok5yuJUoP1dlFhTqAHG4eMUiS5M/CPyub7R9ztUYWmAQgWFeQNQmXNpvNmIDJwGE8Sj36GC6uRkjs9v/+V5naQlUrgIzSKIfbrcfGcd24xkClPF2pnM2hlkfSrdIrluDo7tukrXeQGLNV1em+647imIcLpQcK9aVsR3DbJLffwNXy9BCQp1ubsgjLMey5VdOja3UOuGv8/Er7MCT1W1HzAU8aixaF18MSipS02Pe//f6gvdUgv4+uxyPLz7SNMMH1AiqqDp0YVcJ9BBv76p/P7LbjakHXVf2pdp2SovaoPhK/Jdfq6K3fJhk6/kTmUGOjIteGXYNtGCVHXt/nAXfg/TEFmvG1Xri1mRkcu8EUVjCD8+fJIOs5zIOcVoRfhWyiM649Z9JlU6fixmAsDmXUdKSlZMbXqVzjRT2WbVXuF0KV1Fmv/8BN+gL5QlDfQmxaB3hI/sNwrFlIlLwHdOvnaY+bvVq1fuxOJnTP+AY0=;E2+rr0f7yMZNWbNnZa8zjA=="
+secured: "YM6e49Ebc34D0ojonAPSTscazRHvJ9T6YPvRcW/AgJpwRhJqFAAwYXghmMzNvvoQ9xv0KMNsQaWDxFMfNb8IYJlv4k4JNiUkjgkCVkVFqRJ7PsiFmsbe6rK0WahlRMeuKRwGMjMm/Nkw2OaFAWiDfwBk4usWgJhL20CRyOUPGi0wrBCZBxgNVc6ZSYE291i83WvCtzHeCBkWWmqbIUJKv8M0xbtUVUyzCTuxa8HYk4bRp07HegJs1PHwuPTuL71URZrdBHmi6PtqfNGQMTcnHYpY0tSU4bKhyCMZee+RN9whWpUifG5NG8msFjfJz6NkO1v7Kpt9IkOA1+5LfZvBshBYqDl3Ljq3cpcHQqxK14zQs3rW9CccQnFBKM+VrQpK8MB/eizm5aJLeShdJXQzMoEG6zhCk5RLkYH+PDX2QGy53CR9mIsZFTNsPlyLiBf+nCFdienta2NW4R/3G/3l28a9jr5S5z+mCmSel+cWVUE=;QZDEsQ2uZYAxMYzqlbKHYg=="
 ---
 

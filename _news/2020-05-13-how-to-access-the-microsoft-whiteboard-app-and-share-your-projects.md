@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-to-access-the-mi
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-access-the-microsoft-whiteboard-app-and-share-your-projects/"
 type: article
 quality: 82
-heat: 82
+heat: 83
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 800
     title: "How to access the Microsoft Whiteboard app and share your projects"
 
-secured: "TKkw4qvKpg0z48TdcG86G8XhYa0ozbMFy5Fpe0EqSPzw0ii7wr49rx08J/YhBGAjDiWS0Bfan7YFkSBrhF5Lm118ECMXtkfm8YUHiTS2xz0cAiT6QKvx3OcZWmM5hs/VIErXpOYRC4NFF7XiVIlpX2Vn7ksNwo3109UvxRSR1YtBsfbvO/WceecGLun4YFdnzXTeiG5bvYNi1a9mSKM9xBDUALfDBDZ/D0a4z+d0A4DuVKa7hdq3CiOLFuiVHjlcEPDNUqQ6ts2+cGucB+ZyqxXOU6ZXupQHXq8q7yaeA3ATPi86M8FitQpyARqfzjIG0EUQW0ylJWAhBV0NWKtBxdHAlEz4R4Ot5YCD8cMr+YaZTXm8ZuTNax71y0vozhLpp45Q8oYl0dv7/oJ1pHvBA1U+38JDloFsYgXqjR6rjAcT26HXFBFbDf5z+ma2tZ4jkWLQb+B33lmDiReib62QH82Yra5qrFpZ53lrJRwuRo8=;orC0O+jF4WCf3e6nN0li4w=="
+secured: "coSbLRN2fqfj1nB60iG/y77LoZsBT2BULxLCDZHCtl3xseBJWxye7EjKxkdU6GfbnZg2Eg5oL2lYTru2HkIFAzZliSxWbM9h3rRBcHhFkzry/U4RZfT39Leq2ZReEsCGwCTV7ItuDV04KQieDIoKZaduUcS/xhzurBBfZtWhIQZvA+fyprTOY2kLxhRrN/0O16YnkP3c3f7sVmx0H26jfy2po0NJ9Ui1+4KeHYYEbihCbmkYrTGwZd7byaUlTt0FCXfPUJD4SK9hEfRLfWdxw6xAySO15s7Gvk5NHc6bedWGySIR/1N5m5+5EDpdihJNQNVKd6mvex13DMT4I/FAawWFVCmCwInRAAor0FfkwP4f7O9YPpmaNIO8Y5uQ0U0Mlxh+WJgUc4NIzr6lIfBWkp2UfklPfk1gkR2cZryg+Aw39mRad3edVvgLCtJLkEeES8Vp5VYuYb+WfghdK7rp1XdIEnSCC9+s2jA4idm24XU=;HGyuuVk3AcjfsJSPeyQv5g=="
 ---
 
