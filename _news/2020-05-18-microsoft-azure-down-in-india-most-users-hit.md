@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Microsoft Azure down in India, most users hit"
-excerpt: "User reports compiled by Downdetector, a service that gives details about live outages, showed that some users faced problems Azure portal loading, while others faced connection f"
-publishedDateTime: 2020-05-18T16:11:00Z
-webUrl: "https://www.sify.com/finance/microsoft-azure-down-in-india-most-users-hit-news-topnews-ufsvE8jjfihdb.html"
+excerpt: "Several users of Microsoft Azure in India reported problems with accessing the Cloud-based service on Monday. User reports compiled by Downdetector, a service that gives details about live outages, showed that some users faced problems Azure portal loading, while others faced connection failures. \"Hello @Azure and @AzureSupport, most of our ..."
+publishedDateTime: 2020-05-18T21:35:00Z
+webUrl: "https://news.webindia123.com/news/articles/Science/20200519/3560754.html"
 type: article
-quality: 37
-heat: 37
+quality: 17
+heat: 17
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Azure
 
-images:
-  - url: "http://iansphoto.in/web/photoimages_new/400/2018/03/07/2492f3e275f2262e1d7ceadf5c16e03d.jpg"
-    width: 400
-    height: 400
-    title: "Microsoft Azure down in India, most users hit"
-
-secured: "cIOebI9hdwIc/fmZV1OvwxL4248ZLlH4Ci25p8m02q8nnFy7sr4m35GJDH0Nmx5Ho1MhCrC5ecOvXVpwcaqDVfKkTwZDJbxZ/aEqp36AEqpeQntVPt/ppbJe4jp21pcYpY9yFyjsP2XpN2QCjUpX+4+IyAAyDtD0TGYSaNwwNwGy4AIn7mWlQ/vl9m09IRi8mLCYyFgOYU25+dwqAXx9KhhHFM7yVuTBNzooZ/1AGJhDhfiij/kvKFiywAK0sAm8vNIP5CNYTU3aHIxOQKvNm6qKfg6m5KZR+T3+ywn/1W6JOY4JIrym5cOtLl2jBCx1;iprcoiLlSg4FUgyi7s0ZZQ=="
+secured: "r7SPruvbWi3MkK766fVtEyWdS2lhWL1x0rBAIlg5mHunZf8rk6rLG3MNou+mrUfjZurBlPvrzi3rdg+MCJFyLoDjAtZs7h5/0EaugFm7lceHi7nsTte3KKljgyuk8hlXO+i7MyPE0pEPn+nzhENvkajDD+tDLHbbuSO+Qv5AV2d+5MMGhZ8lO0vWlGCDEceWf5YEPZFu6pN3CKj79rO5lg5uwSry3PagUYPj5YAK1Sh7b4jO85sgzTvrt16lpbSBD6lrxT2L4jgABp+ShWxPC4b4lhH+s6+hP1IIwIXCOkFtR0Xof7XveSg9ucF61kAL;TNgqbfPuNJBngtTf2TT5cQ=="
 ---
 

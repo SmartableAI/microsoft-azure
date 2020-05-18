@@ -25,15 +25,6 @@ images:
     title: "FedEx Teams With Microsoft for Cloud-Based Delivery Tracking"
 
 related:
-  - title: "FedEx, Microsoft Enter Multiyear Collaboration; To Roll Out FedEx Surround"
-    excerpt: "(RTTNews) - FedEx Corp. (FDX) and Microsoft Corp. (MSFT) announced a new multiyear collaboration to transform commerce using Microsoft's intelligent cloud. By combining the FedEx network and the Microsoft cloud,"
-    publishedDateTime: 2020-05-18T13:37:00Z
-    webUrl: "https://www.nasdaq.com/articles/fedex-microsoft-enter-multiyear-collaboration-to-roll-out-fedex-surround-2020-05-18"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 40
   - title: "FedEx, Microsoft Team Up To Launch Shipping Initiative"
     excerpt: "FedEx and Microsoft plan to launch a collaboration that they say will combine the transportation company's logistics network with the power of cloud computing."
     publishedDateTime: 2020-05-18T17:51:00Z

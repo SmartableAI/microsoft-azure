@@ -55,6 +55,15 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2017/09/microsoft-logo-2017-ignite2.jpg?itok=c3ocGDNm"
         width: 800
         height: 600
+  - title: "FedEx, Microsoft team up against Amazon for shipping solutions"
+    excerpt: "The new multiyear collaboration will help transform commerce by combining the global digital and logistics network of FedEx with the power of Microsoft's intelligent cloud, the two companies said. \"Now more than ever, organisations are counting on an efficient and capable supply chain to remain competitive and open for business,\" Satya Nadella ..."
+    publishedDateTime: 2020-05-18T22:01:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20200519/3560768.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 2
 
 secured: "psVJ6SExN7emQvmRdlKxiUJQ9PS6a8B1wiKXNt8+CNdPoIvaU/jjRFzywaLGgjxu62y2JSwegcwgSio1HiuNcfYDR4in3pVqGCb0AYR0CirQrNxrZBmqaUixqMwQZTM+JCv6P52paEXP/jFTKEtY3ddqxuVr9dJO/gyeowtVBeHBf3gG+RAguHnT6sPDNkbO7pXzwr8LoCUXRW5yHENj3EOuATHqQaCzG3Xvq7ajC/YoSXv8Nnra3DYzMbI/on62lIkFaar6E36qy06Gx39B8ReGE/Wx8kGsYyFKVCYmvgQoBz4lRtv4OWGQxk/7zu/s4LIkFVcNP4T03/EK6AF24R9d+tDL5SiemI2TXpmRUDhWjviQKuLCLvUjhl6orEiV9KSaclA7XrZsIqfamh8iChaKwMW0aJA4IkjqGDBlEolFZkDzx27MVrtpEAB3zh/ovBE9bYJPYfV1YQB2zzWHQormz1xjRoic7RPzABD65M4=;ajbHDRBWZ2lcF7JGegXVLg=="
 ---

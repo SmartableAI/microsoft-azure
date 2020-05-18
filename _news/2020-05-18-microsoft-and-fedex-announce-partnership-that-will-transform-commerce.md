@@ -55,6 +55,15 @@ related:
       - url: "https://media.bizj.us/view/img/10858802/fedex-boxes*600xx1197-798-2-0.jpg"
         width: 600
         height: 400
+  - title: "FedEx, Microsoft team up against Amazon for shipping solutions"
+    excerpt: "The new multiyear collaboration will help transform commerce by combining the global digital and logistics network of FedEx with the power of Microsoft's intelligent cloud, the two companies said. \"Now more than ever, organisations are counting on an efficient and capable supply chain to remain competitive and open for business,\" Satya Nadella ..."
+    publishedDateTime: 2020-05-18T22:01:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20200519/3560768.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 2
 
 secured: "+/CivutOh04+9orGaiLmhSghloddqveA2aJTRADAr/17f7S94spPfszoE909ZCyEK6/IxoBUVzVZZSuzzT2TV9qXnzzBiR1Kq9jXuaQerZNB6vru4hLCh3ncXvoCiDSJff77VaLTRLX2IleoXlGDoo7EwF/IXoZ+5De37vm8XfOQqK3VQ6/PlskEcf3381fQC7wWoOOq60yLXfmglXywPGpXKneNDEbEDcwci1mRUlVdOdu9WBNHrXW9q19VfuCRMiiNJz9qvgX4R/PFNqs25ud6qUomAipglBhXiYMvtepg0Je53sm/gFbiA/SD4tr+CPJXyVi01xb1Zynfu2DA2NZbF+sEHw6txotWCat3HXZk7/DIw9TnO5FNfAJeozhw24gpth9NR1HovzpoyJ5Og1nYYAbs9PrVusO3Q34MH9hukrlAQdjbNqLlg0zc+e+yOQCbq+SZ3NbKSXQDBtbS7fACsY95uSSBdA7Zfm9z5sU=;HnVives9YD1x0MRZMVwh9w=="
 ---

@@ -1,34 +1,37 @@
 ---
 category: news
-title: "FedEx and Microsoft Form A New Partnership"
-excerpt: "The partnership has already produced a solution aimed at helping companies improve their supply chain efficiency."
-publishedDateTime: 2020-05-18T15:42:00Z
-webUrl: "https://www.fool.com/investing/2020/05/18/fedex-and-microsoft-create-an-exciting-new-partner.aspx"
-ampWebUrl: "https://www.fool.com/amp/investing/2020/05/18/fedex-and-microsoft-create-an-exciting-new-partner.aspx"
-cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/18/fedex-and-microsoft-create-an-exciting-new-partner.aspx"
+title: "FedEx, Microsoft team up against Amazon for shipping solutions"
+excerpt: "The new multiyear collaboration will help transform commerce by combining the global digital and logistics network of FedEx with the power of Microsoft's intelligent cloud, the two companies said. \"Now more than ever, organisations are counting on an efficient and capable supply chain to remain competitive and open for business,\" Satya Nadella ..."
+publishedDateTime: 2020-05-18T22:01:00Z
+webUrl: "https://news.webindia123.com/news/Articles/Science/20200519/3560768.html"
 type: article
-quality: 82
-heat: 142
-published: true
+quality: 2
+heat: -1
+published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Azure
 
-images:
-  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F574884%2Fgettyimages-1162624331.jpg&w=1200&op=resize"
-    width: 1200
-    height: 800
-    title: "FedEx and Microsoft Form A New Partnership"
-
 related:
+  - title: "FedEx and Microsoft Form A New Partnership"
+    excerpt: "The partnership has already produced a solution aimed at helping companies improve their supply chain efficiency."
+    publishedDateTime: 2020-05-18T15:42:00Z
+    webUrl: "https://www.fool.com/investing/2020/05/18/fedex-and-microsoft-create-an-exciting-new-partner.aspx"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/05/18/fedex-and-microsoft-create-an-exciting-new-partner.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/18/fedex-and-microsoft-create-an-exciting-new-partner.aspx"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 82
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F574884%2Fgettyimages-1162624331.jpg&w=1200&op=resize"
+        width: 1200
+        height: 800
   - title: "FedEx, Microsoft announce multi-year partnership"
     excerpt: "Talk about team-ups. George Lucas and Steven Spielberg made \"Raiders of the Lost Ark.\" Lebron James and Anthony Davis rejuvenated the Lakers. Now, FedEx and Microsoft join forces as they attempt to transform commerce."
     publishedDateTime: 2020-05-18T16:47:00Z
@@ -59,16 +62,7 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2017/09/microsoft-logo-2017-ignite2.jpg?itok=c3ocGDNm"
         width: 800
         height: 600
-  - title: "FedEx, Microsoft team up against Amazon for shipping solutions"
-    excerpt: "The new multiyear collaboration will help transform commerce by combining the global digital and logistics network of FedEx with the power of Microsoft's intelligent cloud, the two companies said. \"Now more than ever, organisations are counting on an efficient and capable supply chain to remain competitive and open for business,\" Satya Nadella ..."
-    publishedDateTime: 2020-05-18T22:01:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20200519/3560768.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 2
 
-secured: "omAZYCrpmy55nxb4KogT3gQYl/Mk5jGwr4NIrFjq0Bm71UiNE1BoYNGgdt8b+g2T5XFci7INzE/Svy2DCRchKR5Jdn8ZjCuamD64ufv4Ck/n3V9Wyb1IXDziZ/6V0vVxL5si/Ea7P0E3RM3gurUJNqilQMZsnFUFSpQOd+qYpJ1QbnEXOgQmw3l/4BI+gUPS79cbequVLBg300nfLuac+/FVcLyLbyPOdFnc8Whd/1BYXLJeffjdOiomFdtuHIiCrpDvNGdBUbHQIdEAVGvAv1nJoYu0pfHUf7krayXhhYUTXZCE2e3hlWD0expP6/4W;C9iU+LXe+lCqfKe2eeIPxg=="
+secured: "YRrZC0o5HN9zaNNEf6Du10qofHLYqp6/CAmwim9AW/n1+nLE3f+tNdJgNOhaAWM7F1vdABd5kodrw6xD7747q2yxJTTXqDPEm/x1jl2zm7L5WfbZrlHaRKSE2StpM/sp5QYijxFlFbVenU48OLE3a571d6cqgL38vpRF0aDQCi8g9xEeK4fEUEEKUF3rZyQ6h1Av6X/6j++TPPAag8WbGn8je87zH3B5WnVsdNHzgnrEm3wUHImUg3F/Vf9I3EeSu8Xtgsx9ofV2th9aw0hVEObFSUWTYG5N/mBOQIzvRPrlPsEUW6s7t55bc/iQb/UG;P+kf6Um+Dye1WZnHb31ffA=="
 ---
 
