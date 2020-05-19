@@ -55,6 +55,21 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/A0qSlkmYYXZrzHTj7PIDFJAR7J8=/0x0:3000x1984/1400x933/filters:focal(1260x752:1740x1232):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66814907/518216764.jpg.0.jpg"
         width: 1400
         height: 933
+  - title: "Microsoft launches new tools for building fairer machine learning models"
+    excerpt: "At its Build developer conference, Microsoft today put a strong emphasis on machine learning but in addition to plenty of new tools and features, the company also highlighted its work on building more responsible and fairer AI systems — both in the Azure cloud and Microsoft’s"
+    publishedDateTime: 2020-05-19T15:14:00Z
+    webUrl: "https://techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/"
+    ampWebUrl: "https://techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 81
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2016/09/gettyimages-452481532.jpg?w=1024"
+        width: 1024
+        height: 683
   - title: "Microsoft's Cloud for Healthcare is an elaborate suite of telehealth tools"
     excerpt: "Microsoft Cloud for Healthcare is now available in a public preview and as a free six-month trial. Microsoft’s service is also designed to make it easier for care teams to work across the many parts of America’s dizzying healthcare infrastructure."
     publishedDateTime: 2020-05-19T15:05:00Z
@@ -97,6 +112,6 @@ related:
       domain: forbes.com
     quality: 46
 
-secured: "mKAZYMMhU1OmCjbfhQDPKWNzqzd4XjRAxExWNuUA0J8x5rjXPUmJ6ynoIJp6UIqu+VCGd5FJkTU5gC9Sibf/4jQsvlw5PL6yWph+W2WnCIFrIzp9k1UAmZ6xpUKLljoPyS9QyX4VpYr6kpdNthWEzxNPvdXHtV3UZknUIyHOXGz93g6vTr8hG2P1MxsYUu48B/DKcQWh5Mk+SyqblnHYAzItoY6c0tFZ4Giymv8IceKyI9VsSvl9Q60Z2dQzHQzvCTSGJ143m5vgdHBK5CyK3t1ZKewfkkt/Tk9TuC4l0+5L/rDNEKKiasnZuPmz2wCY;qKvf5N9KKYxThUDBNw0VIw=="
+secured: "eNO4FoRofTlVmp8QzF8mvD4ATp+B9WvENd5i7Pq8t8CLX5V5AR2J16Caf2S8dPkQWfq+/qzWNXtrYuhTUNx30v6TqjOjwbJST2OqFLyhW12o6cVW0JvQhIzkaV8eK1vNmt+/n2BetuQZKPfk2oPLLgiL4QPOeS1/b07gMFqTYOb3jW3xLacLMk+7+/d4Wca1U7C2V4ifZ8hYQ5wpb1IIlJdf6MMWemG12SjQUp85fWO5wuvtO/QPLc6SKIKi5/mV6rkr2YiLLxxR215O1YOXR82HCc33wcUXaMgUh8mHJdiobemBrTjDYIXxQpcj3VuEJd/kuRXo8cyBw0W2juI6qlQFhabObetYhY663Pdpqrdl3hfen/2ty++Y2t96LVd2QAmpZLjnXzWEjKIfP5lzq0NnXAC7+cqMZh3eD2sy9fuKGBXH18u+LWXsGH7hrx3GpGVtiFzgdTTGYSPepmLTJn/YfiPskwPlWU2MOJCKVAI=;vWyx3lkztHBIHI9441W9wQ=="
 ---
 

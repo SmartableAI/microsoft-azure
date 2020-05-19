@@ -59,6 +59,21 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/A0qSlkmYYXZrzHTj7PIDFJAR7J8=/0x0:3000x1984/1400x933/filters:focal(1260x752:1740x1232):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66814907/518216764.jpg.0.jpg"
         width: 1400
         height: 933
+  - title: "Microsoft launches new tools for building fairer machine learning models"
+    excerpt: "At its Build developer conference, Microsoft today put a strong emphasis on machine learning but in addition to plenty of new tools and features, the company also highlighted its work on building more responsible and fairer AI systems — both in the Azure cloud and Microsoft’s"
+    publishedDateTime: 2020-05-19T15:14:00Z
+    webUrl: "https://techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/"
+    ampWebUrl: "https://techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 81
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2016/09/gettyimages-452481532.jpg?w=1024"
+        width: 1024
+        height: 683
   - title: "Microsoft Build brings announcements for cloud data, analytics services, and intersection of the two"
     excerpt: "A series of announcements around Synapse Analytics, Cosmos DB, Azure Database and SQL Edge make this year's Microsoft Build conference a virtual event revealing actual advances and concrete integrations."
     publishedDateTime: 2020-05-19T15:00:00Z
@@ -101,6 +116,6 @@ related:
         width: 918
         height: 516
 
-secured: "71yyorQrqEInQzENcL2dtEdDl8hjIEy46AW922OnrA78XhBkKV7X7Qzze88KbeoBDGl/b8yqxPZi5IkN9WUBMsa40itKt5wFCtLWkC/aTtf1+SI5E41bxd6l6WA5DB/d0wMQ9V3ivTRnVtuz/OiprUyCCdLa0H0V8bC5KWJYDAon9OmpW1sAAGBaTbxO+Bqn9noAoB7KEO7kaRVKEsCxDMGMiFTIZ3ezkXGYKOAIBFs/o0L4SEZ1m5fKu/YMlop/SlU1MoTMGO8N+Xrvl8FMarLsLu7I+fgUxJL4uWOLhC5jMk9UfQSv1A8+sNAyKtxu;0thq5YVVwrPEkAhjUlupsw=="
+secured: "duRE991XY1syFU/VPh5jg3cClDtTVHymlHBGVuuZM+J5N/DzGgRLGorCZy7dfUd65tJX9oDdmLr91n37ajGy2mwxK5UyS1/Qz2BoT02SN38/zLyR30IvC/8uKYdw9nckyjNgTADf9F4+1O2YwLatZTAWb8Dj/E3xGKcTAgRc1UZX4L68E1YikHVmJAoc7i0nhQ7kfkFmcPDzOdSaB63VMhGCOxVEsSGM1N4SXlH+vyNyQe1BiJG+xdUgDolKRinDjhgFJM/tLTPfxKGGOmNZEBb0xiLOlc/hc6qiJSKkzydNfEKeq0pnaXd1wGuXIXL/6N1fbhqpEzfUTG54/hsQaxdGlKsrUF3d5dRErkjSkSgZz83QMe73YLztK3kK0CjDd/ow2/fIcC5eKhUaqTxsI0NDX5IDWusuFBMfnICudq09qWbQM8uhAZUQK0A99sb/lfzaAFpkEgidjDkRcrP/B701qXXdAM/azOZS4a1sMCo=;ZvhsFnTJ+xWBIWlCFKe4tg=="
 ---
 

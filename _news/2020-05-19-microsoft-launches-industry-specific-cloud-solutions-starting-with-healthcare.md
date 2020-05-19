@@ -8,8 +8,8 @@ ampWebUrl: "https://techcrunch.com/2020/05/19/microsoft-launches-industry-specif
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/microsoft-launches-industry-specific-cloud-solutions-starting-with-healthcare/amp/"
 type: article
 quality: 78
-heat: 98
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -29,18 +29,52 @@ images:
     title: "Microsoft launches industry-specific cloud solutions, starting with healthcare"
 
 related:
-  - title: "Microsoft Unveils Cloud Tools Tailored for Health-Care Systems"
-    excerpt: "Microsoft Corp. unveiled a package of cloud software designed for health-care systems, starting with a free trial to help the industry weather a viral pandemic that is both increasing the need for technology solutions and putting hospitals in financial peril."
-    publishedDateTime: 2020-05-19T15:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-05-19/microsoft-unveils-cloud-tools-tailored-for-health-care-systems"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-05-19/microsoft-unveils-cloud-tools-tailored-for-health-care-systems"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-05-19/microsoft-unveils-cloud-tools-tailored-for-health-care-systems"
+  - title: "Microsoft Launches Cloud for Healthcare"
+    excerpt: "Microsoft's new cloud offering aims to improve patient engagement and enhance collaboration in the post-COVID-19 era."
+    publishedDateTime: 2020-05-19T17:40:00Z
+    webUrl: "https://www.fool.com/investing/2020/05/19/microsoft-launches-cloud-for-healthcare-first-of-i.aspx"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/05/19/microsoft-launches-cloud-for-healthcare-first-of-i.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/19/microsoft-launches-cloud-for-healthcare-first-of-i.aspx"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 62
+      name: The Motley Fool
+      domain: fool.com
+    quality: 82
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F575083%2Fmicrosoft-healthcare-cloud-mf.jpg&w=1200&op=resize"
+        width: 1200
+        height: 800
+  - title: "Microsoft to adapt its cloud software for healthcare industry"
+    excerpt: "Microsoft Corp said on Tuesday it plans to roll out a version of its cloud-based software that will be modified to suit the needs of healthcare organizations."
+    publishedDateTime: 2020-05-19T15:05:00Z
+    webUrl: "https://www.reuters.com/article/us-microsoft-tech-idUSKBN22V27Z"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN22V27Z"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22V27Z"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 82
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519179146&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4I1BJ"
+        width: 817
+        height: 545
+  - title: "Microsoft announces first vertical cloud offering: Microsoft Cloud for Healthcare"
+    excerpt: "Microsoft is taking the wraps off the first of its planned industry-specific clouds, the Microsoft Cloud for Healthcare, which is due to start rolling out in Q4 this year."
+    publishedDateTime: 2020-05-19T15:00:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-announces-first-vertical-cloud-offering-microsoft-cloud-for-healthcare/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-announces-first-vertical-cloud-offering-microsoft-cloud-for-healthcare/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-announces-first-vertical-cloud-offering-microsoft-cloud-for-healthcare/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 77
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/14/533e6954-77da-4a3b-a494-d048db111d54/thumbnail/1200x675/0f777a75c789f86629369bf9956b8307/microsoftmetaswitch.jpg"
+        width: 1200
+        height: 675
 
-secured: "N+dU/+kPe+9b8/Ur7YCGf45D9rX7VaEUeOxwjqX3db/F+ZpBQH8lZGL4qTlh9bc2nUlKiiLa27yHBe93LWgT3xLKVusn7pMPXyORaafwjj2uGBovnq4b9iLdIr5xFM6Mf//TSNV0GVvfHKfj3qF5S02nzU0k06F0txtnfFHFbxvNBGWuPhSg60BSpqfpnGaNCQO9UQbHPKafBpxwikATnoph2Me7JGzcam5jI99jYtAXSM4VjM9v37lEQfPkmBX398MXg3h9hfdeij4ASuDrgLivKD03QDCNlxyZ1FZ4r+OtS0Xo0vzNakC9QDUaG5E2;w1MHDC3C1FRQISRZyycuCQ=="
+secured: "kXMi0BQrC9GbyE7546KWcOLY3Cbr3Hhcr532gcbw3VCJJ3+k2OSujJ8Ro/JY7qAT9NmeChiKyZiSDtPOgeVKeG++JdtUeNB8iRkUkKday/Dvx4GX6cGZ77uBU8aqgIgq35rSra9yofDGl8czq8sENzmogEHBzOV5UShjZ/zgua6ls2PX+We+pwOff76QYF43Wb1IQsGM3mHkOgnmhEqPWg9iPOUz/daBN11lw/1Ht3JeOYXKzPYHDELVW+tpXXo8/UGooG5y0EXGChJD2puyzB/JqqjN7v+u4iap4kWOPc3Yrzy+wP45AzxidCudxBZZhykS+hzOfTKrfikTpQ8NQwdDnjNSgmg3tl0eLoq8989cuTZQKQPEDnc31u8cU42M+kqOpCtVhHFpcXQeiDQJwNkf8NpQUFgTaO2TyGgjGAh5JlUqCaR+uh5mKOefLKswIutB1sFX4F4yfoTSel41SPXGKCsWdqbf7GO5HHNO97Y=;OpltZdAYbkgnjkol1ubZqg=="
 ---
 

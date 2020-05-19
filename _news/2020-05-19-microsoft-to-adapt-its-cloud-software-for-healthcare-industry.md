@@ -29,21 +29,51 @@ images:
     title: "Microsoft to adapt its cloud software for healthcare industry"
 
 related:
-  - title: "Microsoft targets health-care industry with new cloud offering"
-    excerpt: "The move shows that Microsoft intends to deliver more growth in Azure as it competes with Amazon: by tailoring its wares to the needs of specific industries."
-    publishedDateTime: 2020-05-19T15:03:00Z
-    webUrl: "https://www.cnbc.com/2020/05/19/microsoft-cloud-for-health-care-bundle-targets-health-care-industry.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/05/19/microsoft-cloud-for-health-care-bundle-targets-health-care-industry.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/19/microsoft-cloud-for-health-care-bundle-targets-health-care-industry.html"
+  - title: "Microsoft Launches Cloud for Healthcare"
+    excerpt: "Microsoft's new cloud offering aims to improve patient engagement and enhance collaboration in the post-COVID-19 era."
+    publishedDateTime: 2020-05-19T17:40:00Z
+    webUrl: "https://www.fool.com/investing/2020/05/19/microsoft-launches-cloud-for-healthcare-first-of-i.aspx"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/05/19/microsoft-launches-cloud-for-healthcare-first-of-i.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/19/microsoft-launches-cloud-for-healthcare-first-of-i.aspx"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
+      name: The Motley Fool
+      domain: fool.com
     quality: 82
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106542932-1589847896682gettyimages-1195111622.jpeg?v=1589848130"
-        width: 6202
-        height: 4135
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F575083%2Fmicrosoft-healthcare-cloud-mf.jpg&w=1200&op=resize"
+        width: 1200
+        height: 800
+  - title: "Microsoft launches industry-specific cloud solutions, starting with healthcare"
+    excerpt: "Microsoft today announced the launch of the Microsoft Cloud for Healthcare, an industry-specific cloud solution for healthcare providers. This is the first in what is likely going to be a set of cloud offerings that target specific verticals and extends a trend we’ve seen among large cloud"
+    publishedDateTime: 2020-05-19T15:13:00Z
+    webUrl: "https://techcrunch.com/2020/05/19/microsoft-launches-industry-specific-cloud-solutions-starting-with-healthcare/"
+    ampWebUrl: "https://techcrunch.com/2020/05/19/microsoft-launches-industry-specific-cloud-solutions-starting-with-healthcare/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/microsoft-launches-industry-specific-cloud-solutions-starting-with-healthcare/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 78
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2018/06/GettyImages-952061110.jpg?w=1024"
+        width: 1024
+        height: 696
+  - title: "Microsoft announces first vertical cloud offering: Microsoft Cloud for Healthcare"
+    excerpt: "Microsoft is taking the wraps off the first of its planned industry-specific clouds, the Microsoft Cloud for Healthcare, which is due to start rolling out in Q4 this year."
+    publishedDateTime: 2020-05-19T15:00:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-announces-first-vertical-cloud-offering-microsoft-cloud-for-healthcare/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-announces-first-vertical-cloud-offering-microsoft-cloud-for-healthcare/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-announces-first-vertical-cloud-offering-microsoft-cloud-for-healthcare/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 77
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/14/533e6954-77da-4a3b-a494-d048db111d54/thumbnail/1200x675/0f777a75c789f86629369bf9956b8307/microsoftmetaswitch.jpg"
+        width: 1200
+        height: 675
 
 secured: "jNgRO+7BDIUdf5mP6Y3P9oxyRLVOan/8P0XLxjU2wDoqBETebfs9WWQ5g3CFq8c4v5f8Tu/+zhOfMcXq4QnykMKzsbysW8VeMt6XO7evjOqVNwZtQgw523flfzFZvh+0j8KBWTpWE8vpPPRntNjjbKr4VLYIF7y4TSaHPctmrs8YAkpbj2gbrjPZ9aWutOSJ8Hy19upikpSh0kOlqwz7zPQBz7YAuXSPdP683nYFrXmr8OpFnHmaqfnO4Nzq4gMrL81UxR6yttdhbJ4ebF1qcKS2leVF1Y58gnSscr6gNSCtI2QJs+Vht04mI7PH6n+Z;bS0xv+kFnu+4qiZOKWFX+g=="
 ---
