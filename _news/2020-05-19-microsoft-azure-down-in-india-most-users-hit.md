@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Microsoft Azure down in India, most users hit"
-excerpt: "Several users of Microsoft Azure in India reported problems with accessing the Cloud-based service on Monday.User reports compiled by Downdetector, a service that gives details about live outages, showed that some users faced problems Azure portal loading,"
-publishedDateTime: 2020-05-19T02:21:00Z
-webUrl: "https://menafn.com/1100182235/Microsoft-Azure-down-in-India-most-users-hit"
+excerpt: "Several users of Microsoft Azure in India reported problems with accessing the Cloud-based service on Monday. User reports compiled by Downdetector, a service that gives details about live outages, showed that some users faced problems Azure portal loading,"
+publishedDateTime: 2020-05-19T04:55:00Z
+webUrl: "https://www.dailypioneer.com/2020/technology/microsoft-azure-down-in-india--most-users-hit.html"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: The Pioneer
+  domain: dailypioneer.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://menafn.com/updates/pr/2020-05/18/I_ec4a2349-1image_story.jpg"
-    width: 400
-    height: 400
+  - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/microsoft-azure-down-in-india--most-users-hit-2020-05-19.jpg"
+    width: 1000
+    height: 800
     title: "Microsoft Azure down in India, most users hit"
 
 related:
@@ -33,6 +33,6 @@ related:
       domain: webindia123.com
     quality: 17
 
-secured: "Vf6mDxg14Y06+Ht2tQybBQq5oD8D+vne9a/wDWtfUrxP2B1w7McpQrmMvPRElEjs5nTrvKyEX2JQnKvh3uAn+G4ZUETneXRNGDZAFZqrr5zBUmnb6ReUMTZSfiEOvAgyJMGnEkqd9OBNI6o8DHGThBWw1PdXVYWrosYYN3OyNQXS2BJdUqaETRLFKRbw02RHlWx+p+ZkOlgnycidgLoe8/HTqh72q7V59xpgML2a5glfrSHpoHTDn4EPiba12iFnIjlrTxBY4c4AcXJSnLtuyXrWIlPc6z2MmILY3WJJtox3Qr2hG0LDK93qQ8mnZYkZ;8fm9oMNevM17SEBTN//mwA=="
+secured: "hPv3PtHeK+RrgtYEhT0EN2tyILe5cuU5Qnj1qjtj8SzfmNw5kiytA1IdUpc8beNol6DRyXq5X7lKFOd3khTwvr//8Td1rpkID5xsOkq/i2D9I+NKvExB0iZBdl9BKmM6otS5Y1r3Rr1GdlUypDhKo70rB1S/NlfzWgMUA9gZ6rD9I+xmi+TaI5MBeXe5JZsFFhNQ4DIaJ/MVlRemfL0g8a0Pm9NBwkrVHX4Hw2hN96W1+4HR0+FoiCFiuEVCaTrV4CRUyJMlFQr7TtvfjL3H24qL+kTs45E1ZWE44Li54jsE78avT8uzLpVU9gmAtE99;lG1g1G2X1Ktn7XRdjiBCFQ=="
 ---
 
