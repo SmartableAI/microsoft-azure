@@ -2,6 +2,51 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-02-05-backup-explorer-now-available-in-preview.md",
+      "title": "Backup Explorer now available in preview",
+      "excerpt": "As organizations continue to expand their use of IT and the cloud, protecting critical enterprise data becomes extremely important. And if you are a backup admin on Microsoft Azure, being able to efficiently monitor backups on a daily basis is a key requirement to ensuring that your organization has",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/backup-explorer-now-available-in-preview/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-05T00:00:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f68dd946-126d-46ef-a94a-c336a605aa9b.jpg",
+          "width": 1024,
+          "height": 693,
+          "title": "Backup Explorer now available in preview",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
       "path": "_news/2020-01-30-hyperledger-fabric-on-azure-kubernetes-service-marketplace-template.md",
       "title": "Hyperledger Fabric on Azure Kubernetes Service Marketplace template",
       "excerpt": "Customers exploring blockchain for their applications and solutions typically start with a prototype or proof of concept effort with a blockchain technology before they get to build, pilot, and production rollout. During the latter stages, apart from the ease of deployment, there is an expectation of",
@@ -1241,51 +1286,6 @@
       "topics": [
         "Azure",
         "Databases"
-      ]
-    },
-    {
-      "path": "_news/2019-10-28-customize-networking-for-dr-drills-azure-site-recovery.md",
-      "title": "Customize networking for DR drills: Azure Site Recovery",
-      "excerpt": "One of the most important features of a disaster recovery tool is failover readiness. Administrators ensure this by watching out for health signals from the product. Some also choose to set up their own monitoring solutions to track readiness. End to end testing is conducted using disaster recovery (DR)",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/customize-networking-for-dr-drills-azure-site-recovery/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-10-28T06:00:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8c343096-f652-47ef-a1a7-1451d4832dbd.png",
-          "width": 1423,
-          "height": 556,
-          "title": "Customize networking for DR drills: Azure Site Recovery",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Networking"
       ]
     }
   ],

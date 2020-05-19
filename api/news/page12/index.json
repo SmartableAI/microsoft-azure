@@ -2,6 +2,43 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-01-16-creating-a-more-accessible-world-with-azure-ai.md",
+      "title": "Creating a more accessible world with Azure AI",
+      "excerpt": "At Microsoft, we are inspired by how artificial intelligence is transforming organizations of all sizes, empowering them to reimagine what’s possible. AI has immense potential to unlock solutions to some of society’s most pressing challenges.\r\n\r\nOne challenge is that according to the World Health Association,",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/creating-a-more-accessible-world-with-azure-ai/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-16T00:00:51-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-15-new-azure-blueprint-for-cis-benchmark.md",
       "title": "New Azure blueprint for CIS Benchmark",
       "excerpt": "We’ve released our newest Azure blueprint that maps to another key industry-standard, the Center for Internet Security (CIS) Microsoft Azure Foundations Benchmark. This follows the recent announcement of our Azure blueprint for FedRAMP moderate and adds to the growing list of Azure blueprints for regulatory",
@@ -1024,51 +1061,6 @@
       "topics": [
         "Azure",
         "Databases"
-      ]
-    },
-    {
-      "path": "_news/2019-10-28-customize-networking-for-dr-drills-azure-site-recovery.md",
-      "title": "Customize networking for DR drills: Azure Site Recovery",
-      "excerpt": "One of the most important features of a disaster recovery tool is failover readiness. Administrators ensure this by watching out for health signals from the product. Some also choose to set up their own monitoring solutions to track readiness. End to end testing is conducted using disaster recovery (DR)",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/customize-networking-for-dr-drills-azure-site-recovery/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-10-28T06:00:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8c343096-f652-47ef-a1a7-1451d4832dbd.png",
-          "width": 1423,
-          "height": 556,
-          "title": "Customize networking for DR drills: Azure Site Recovery",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Networking"
       ]
     }
   ],
