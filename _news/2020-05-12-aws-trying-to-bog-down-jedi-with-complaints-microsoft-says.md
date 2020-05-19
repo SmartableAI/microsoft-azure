@@ -3,7 +3,7 @@ category: news
 title: "AWS trying to bog down JEDI with complaints, Microsoft says"
 excerpt: "When Amazon Web Services filed an agency protest with the Defense Department seeking clarity about technical aspects of the $10 billion Joint Enterprise Defense Infrastructure cloud contract, Microsoft called it an attempt “to force a do-over to rescue its failed bid."
 publishedDateTime: 2020-05-12T22:58:00Z
-webUrl: "https://gcn.com/articles/2020/05/12/aws-jedi-microsoft-blog-spat.aspx"
+webUrl: "https://gcn.com/articles/2020/05/12/aws-jedi-microsoft-blog-spat.aspx?admgarea=TC_Cloud"
 type: article
 quality: 22
 heat: -1
@@ -39,6 +39,6 @@ related:
         width: 620
         height: 370
 
-secured: "oypio+sY4ug9sGyc8gSkFWo95hrzvyfVLXWCQF3/+O5lv6ojul7rMp8kj/OFW7w4PTr2TxLtKh7y3ys8J+/++kOs4avtY4T4ubXvkSKj4NH2uiy1wCF4omh6z+zFeNY9G1miMMtxJM5ujemRXWO9NNcDoppvbpxwJg4Jb8xN0XPmUXf2UtzrK1qBJHZOBKiFujyoszPXzUHVw4u2xKXrnbaNToMPP9dcKKEMAm7KmteIOEeEZ0mo3sRY+WIgHyejdMbOpfLhXPaHwj9UHBPQhFNp+uBaXmXoO5c7rzasB99YfLyXDWboDSKgkm9cyFwf;TDQEpvKEiGtbuFdYXrU+0w=="
+secured: "PXlp1r8LY0c3zPqxBfjAx4HlPdn7F3HU1WqoZLkAKxX1qsqfkpIqwcxl0BOMSvnXRySnuzao0xrvEU+JKrFzzP6QB2CC0pCbPUjKd/cVyqpCZr0M+TeBE8ovzge20r9DFsY0tM7w2Oe0kwRKHqzQtxjE44pIT114vvuiPEvuSOjY7TrZ2ixYDlN2OGABD2czYr8ipYUpZPuyKsVjF8+vBpULWb80k20Zwh19i5mfHZ2F/UNtt/HOPrJFdC2leQ8gkftiTkn4o98+AbsqViEXRcgZKFjjxH6da56I6KwCSH+LM6g1q/szFhSczfeHBvxR;dphlzSfKefMKrBzcnrm49Q=="
 ---
 
