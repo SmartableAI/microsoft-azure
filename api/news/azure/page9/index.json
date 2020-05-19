@@ -2,6 +2,51 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-03-30-extending-the-power-of-azure-ai-to-microsoft-365-users.md",
+      "title": "Extending the power of Azure AI to Microsoft 365 users",
+      "excerpt": "Today, Yusuf Mehdi, Corporate Vice President of Modern Life and Devices, announced the availability of new Microsoft 365 Personal and Family subscriptions. In his blog, he shared a few examples of how Microsoft 365 is innovating to deliver experiences powered by artificial intelligence (AI) to billions",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/extending-the-power-of-azure-ai-to-microsoft-365-users/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-30T01:30:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/9657b8e1-a355-40b6-ae91-6285753322d9.png",
+          "width": 1187,
+          "height": 821,
+          "title": "Extending the power of Azure AI to Microsoft 365 users",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-26-announcing-general-availability-of-incremental-snapshots-of-managed-disks.md",
       "title": "Announcing general availability of incremental snapshots of Managed Disks",
       "excerpt": "We're announcing the general availability of incremental snapshots of Azure Managed Disks. Incremental snapshots are a cost-effective, point-in-time backup of managed disks. Unlike current snapshots, which are billed for the full size, incremental snapshots are billed for the delta changes to disks since",
@@ -1242,51 +1287,6 @@
       "topics": [
         "Azure",
         "Storage"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-sql-server-runs-best-on-azure-heres-why.md",
-      "title": "SQL Server runs best on Azure. Here’s why.",
-      "excerpt": "SQL Server customers migrating their databases to the cloud have multiple choices for their cloud destination. To thoroughly assess which cloud is best for SQL Server workloads, two key factors to consider are:\r\n\r\n\r\n\t\r\n\tInnovations that the cloud provider can uniquely provide.\r\n\t\r\n\t\r\n\tIndependent benchmark",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/sql-server-runs-best-on-azure-heres-why/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-13T04:00:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7ceff60b-0bd4-4867-85cd-61883c401c2f.png",
-          "width": 1287,
-          "height": 482,
-          "title": "SQL Server runs best on Azure. Here’s why.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Databases"
       ]
     }
   ],
