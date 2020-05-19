@@ -1,21 +1,21 @@
 ---
 category: news
-title: "How to watch Microsoft’s Build conference"
-excerpt: "Microsoft will host 48 hours of non-stop Build content in different time zones starting at 8AM PT / 11AM ET today. You’ll be able to tune into the main keynotes, replay them later, and register for multiple sessions that are also replayed at different hours of the day."
-publishedDateTime: 2020-05-19T11:03:00Z
-webUrl: "https://www.theverge.com/2020/5/19/21263383/microsoft-build-live-stream-watch-how-to-event-announcements"
-ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/19/21263383/microsoft-build-live-stream-watch-how-to-event-announcements"
-cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/19/21263383/microsoft-build-live-stream-watch-how-to-event-announcements"
+title: "Azure Arc, Microsoft’s service for managing cloud resources anywhere, is now in public preview"
+excerpt: "At its Build developer conference, Microsoft today announced that Azure Arc, its service for managing cloud resources anywhere, including competing clouds like AWS and GCP and platforms like Red Hat’s Open Shift,"
+publishedDateTime: 2020-05-19T15:07:00Z
+webUrl: "https://techcrunch.com/2020/05/19/azure-arc-microsofts-service-for-managing-cloud-resources-anywhere-is-now-in-public-preview/"
+ampWebUrl: "https://techcrunch.com/2020/05/19/azure-arc-microsofts-service-for-managing-cloud-resources-anywhere-is-now-in-public-preview/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/azure-arc-microsofts-service-for-managing-cloud-resources-anywhere-is-now-in-public-preview/amp/"
 type: article
-quality: 82
-heat: -1
-published: false
+quality: 85
+heat: 185
+published: true
 
 provider:
-  name: The Verge
-  domain: theverge.com
+  name: TechCrunch
+  domain: techcrunch.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/theverge.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techcrunch.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,27 +23,27 @@ topics:
   - Azure
 
 images:
-  - url: "https://cdn.vox-cdn.com/thumbor/A0qSlkmYYXZrzHTj7PIDFJAR7J8=/0x0:3000x1984/1400x933/filters:focal(1260x752:1740x1232):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66814907/518216764.jpg.0.jpg"
-    width: 1400
-    height: 933
-    title: "How to watch Microsoft’s Build conference"
+  - url: "https://techcrunch.com/wp-content/uploads/2020/05/IMG_20191104_091357.jpg?w=1024"
+    width: 1024
+    height: 686
+    title: "Azure Arc, Microsoft’s service for managing cloud resources anywhere, is now in public preview"
 
 related:
-  - title: "Azure Arc, Microsoft’s service for managing cloud resources anywhere, is now in public preview"
-    excerpt: "At its Build developer conference, Microsoft today announced that Azure Arc, its service for managing cloud resources anywhere, including competing clouds like AWS and GCP and platforms like Red Hat’s Open Shift,"
-    publishedDateTime: 2020-05-19T15:07:00Z
-    webUrl: "https://techcrunch.com/2020/05/19/azure-arc-microsofts-service-for-managing-cloud-resources-anywhere-is-now-in-public-preview/"
-    ampWebUrl: "https://techcrunch.com/2020/05/19/azure-arc-microsofts-service-for-managing-cloud-resources-anywhere-is-now-in-public-preview/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/azure-arc-microsofts-service-for-managing-cloud-resources-anywhere-is-now-in-public-preview/amp/"
+  - title: "How to watch Microsoft’s Build conference"
+    excerpt: "Microsoft will host 48 hours of non-stop Build content in different time zones starting at 8AM PT / 11AM ET today. You’ll be able to tune into the main keynotes, replay them later, and register for multiple sessions that are also replayed at different hours of the day."
+    publishedDateTime: 2020-05-19T11:03:00Z
+    webUrl: "https://www.theverge.com/2020/5/19/21263383/microsoft-build-live-stream-watch-how-to-event-announcements"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/19/21263383/microsoft-build-live-stream-watch-how-to-event-announcements"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/19/21263383/microsoft-build-live-stream-watch-how-to-event-announcements"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 85
+      name: The Verge
+      domain: theverge.com
+    quality: 82
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/05/IMG_20191104_091357.jpg?w=1024"
-        width: 1024
-        height: 686
+      - url: "https://cdn.vox-cdn.com/thumbor/A0qSlkmYYXZrzHTj7PIDFJAR7J8=/0x0:3000x1984/1400x933/filters:focal(1260x752:1740x1232):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66814907/518216764.jpg.0.jpg"
+        width: 1400
+        height: 933
   - title: "Microsoft's Cloud for Healthcare is an elaborate suite of telehealth tools"
     excerpt: "Microsoft Cloud for Healthcare is now available in a public preview and as a free six-month trial. Microsoft’s service is also designed to make it easier for care teams to work across the many parts of America’s dizzying healthcare infrastructure."
     publishedDateTime: 2020-05-19T15:05:00Z
@@ -101,6 +101,6 @@ related:
         width: 918
         height: 516
 
-secured: "N/4B785Qp1vGwRKSrKcj3GJ7NtStGJBMAw6mC4po8B5vKzs9V3TX5KYdkKMZPTfww4IxjHOGmSNLxoUlNgtYc9TJEhc7olu8vC0fgXe1nwIrbR6FPxdn3xwizWKvKa5DPkveLLLL8+gVfhiVxtgLcPDDJG63IsHaE/c5Hdp2DVqBgisvoTIvGEpt4otaUfj52Xk1C204MTQV9KMWRdsNw/H8V7dLbpgjEyEqIjObMAdODfWjYlxIz1ugjUEFngXyxkr5dQfRGY8t8ECTx9fi3dNM2LAJrSbJAXdedVc6PITgvGvcWfquAFa8rJ/W61eC;XHhafFqupGtYSWGS0WBPFQ=="
+secured: "VdR+9Gs7odar/5Hlo1ddhrzStgO3DnrQvGA7yhH6e5rzN/qVzR4vyar8hAT/1w7BcPMACmV5DcZg58WQyRwXrvu76E0WoRS6TR7BRDGs0E0UvnV+/BGAqmSLA2f6K1l9iGx1VkbIo786rGo33/QHBiE/TTaes/+90k3UaVY3GtERnJc70C++1gimrep/eVOJdNr9BGZurVLO4TuTo0NIDRzRuHP0CyDg+9NTxp4j+DRHo+2YG0+w8wqp4SAXWdYV+nmy7TxFIMIk3frOKI00PluqyF6R14KUQW5D5lKbc2Ckm+yaDk7+CoKGb8v3oU0e;E8LSGvSjOG5zpjwyU9N7Ag=="
 ---
 

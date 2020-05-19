@@ -1,32 +1,28 @@
 ---
 category: news
-title: "How to watch Microsoft’s Build conference"
-excerpt: "Microsoft will host 48 hours of non-stop Build content in different time zones starting at 8AM PT / 11AM ET today. You’ll be able to tune into the main keynotes, replay them later, and register for multiple sessions that are also replayed at different hours of the day."
-publishedDateTime: 2020-05-19T11:03:00Z
-webUrl: "https://www.theverge.com/2020/5/19/21263383/microsoft-build-live-stream-watch-how-to-event-announcements"
-ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/19/21263383/microsoft-build-live-stream-watch-how-to-event-announcements"
-cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/19/21263383/microsoft-build-live-stream-watch-how-to-event-announcements"
+title: "Meet Microsoft Cloud for Healthcare, Microsoft’s first industry-specific cloud solution"
+excerpt: "Microsoft made great progress in the health care related business. Today, Microsoft is announcing Microsoft Cloud for Healthcare, its first industry-specific cloud solution."
+publishedDateTime: 2020-05-19T15:02:00Z
+webUrl: "https://mspoweruser.com/meet-microsoft-cloud-for-healthcare-solution/"
+ampWebUrl: "https://mspoweruser.com/meet-microsoft-cloud-for-healthcare-solution/amp/"
+cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/meet-microsoft-cloud-for-healthcare-solution/amp/"
 type: article
-quality: 82
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: The Verge
-  domain: theverge.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/theverge.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: MSPoweruser
+  domain: mspoweruser.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://cdn.vox-cdn.com/thumbor/A0qSlkmYYXZrzHTj7PIDFJAR7J8=/0x0:3000x1984/1400x933/filters:focal(1260x752:1740x1232):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66814907/518216764.jpg.0.jpg"
-    width: 1400
-    height: 933
-    title: "How to watch Microsoft’s Build conference"
+  - url: "https://mspoweruser.com/wp-content/uploads/2019/01/Azure-Cloud.jpg"
+    width: 918
+    height: 516
+    title: "Meet Microsoft Cloud for Healthcare, Microsoft’s first industry-specific cloud solution"
 
 related:
   - title: "Azure Arc, Microsoft’s service for managing cloud resources anywhere, is now in public preview"
@@ -44,6 +40,21 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/05/IMG_20191104_091357.jpg?w=1024"
         width: 1024
         height: 686
+  - title: "How to watch Microsoft’s Build conference"
+    excerpt: "Microsoft will host 48 hours of non-stop Build content in different time zones starting at 8AM PT / 11AM ET today. You’ll be able to tune into the main keynotes, replay them later, and register for multiple sessions that are also replayed at different hours of the day."
+    publishedDateTime: 2020-05-19T11:03:00Z
+    webUrl: "https://www.theverge.com/2020/5/19/21263383/microsoft-build-live-stream-watch-how-to-event-announcements"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/19/21263383/microsoft-build-live-stream-watch-how-to-event-announcements"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/19/21263383/microsoft-build-live-stream-watch-how-to-event-announcements"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 82
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/A0qSlkmYYXZrzHTj7PIDFJAR7J8=/0x0:3000x1984/1400x933/filters:focal(1260x752:1740x1232):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66814907/518216764.jpg.0.jpg"
+        width: 1400
+        height: 933
   - title: "Microsoft's Cloud for Healthcare is an elaborate suite of telehealth tools"
     excerpt: "Microsoft Cloud for Healthcare is now available in a public preview and as a free six-month trial. Microsoft’s service is also designed to make it easier for care teams to work across the many parts of America’s dizzying healthcare infrastructure."
     publishedDateTime: 2020-05-19T15:05:00Z
@@ -85,22 +96,7 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 46
-  - title: "Meet Microsoft Cloud for Healthcare, Microsoft’s first industry-specific cloud solution"
-    excerpt: "Microsoft made great progress in the health care related business. Today, Microsoft is announcing Microsoft Cloud for Healthcare, its first industry-specific cloud solution."
-    publishedDateTime: 2020-05-19T15:02:00Z
-    webUrl: "https://mspoweruser.com/meet-microsoft-cloud-for-healthcare-solution/"
-    ampWebUrl: "https://mspoweruser.com/meet-microsoft-cloud-for-healthcare-solution/amp/"
-    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/meet-microsoft-cloud-for-healthcare-solution/amp/"
-    type: article
-    provider:
-      name: MSPoweruser
-      domain: mspoweruser.com
-    quality: 34
-    images:
-      - url: "https://mspoweruser.com/wp-content/uploads/2019/01/Azure-Cloud.jpg"
-        width: 918
-        height: 516
 
-secured: "N/4B785Qp1vGwRKSrKcj3GJ7NtStGJBMAw6mC4po8B5vKzs9V3TX5KYdkKMZPTfww4IxjHOGmSNLxoUlNgtYc9TJEhc7olu8vC0fgXe1nwIrbR6FPxdn3xwizWKvKa5DPkveLLLL8+gVfhiVxtgLcPDDJG63IsHaE/c5Hdp2DVqBgisvoTIvGEpt4otaUfj52Xk1C204MTQV9KMWRdsNw/H8V7dLbpgjEyEqIjObMAdODfWjYlxIz1ugjUEFngXyxkr5dQfRGY8t8ECTx9fi3dNM2LAJrSbJAXdedVc6PITgvGvcWfquAFa8rJ/W61eC;XHhafFqupGtYSWGS0WBPFQ=="
+secured: "mKAZYMMhU1OmCjbfhQDPKWNzqzd4XjRAxExWNuUA0J8x5rjXPUmJ6ynoIJp6UIqu+VCGd5FJkTU5gC9Sibf/4jQsvlw5PL6yWph+W2WnCIFrIzp9k1UAmZ6xpUKLljoPyS9QyX4VpYr6kpdNthWEzxNPvdXHtV3UZknUIyHOXGz93g6vTr8hG2P1MxsYUu48B/DKcQWh5Mk+SyqblnHYAzItoY6c0tFZ4Giymv8IceKyI9VsSvl9Q60Z2dQzHQzvCTSGJ143m5vgdHBK5CyK3t1ZKewfkkt/Tk9TuC4l0+5L/rDNEKKiasnZuPmz2wCY;qKvf5N9KKYxThUDBNw0VIw=="
 ---
 

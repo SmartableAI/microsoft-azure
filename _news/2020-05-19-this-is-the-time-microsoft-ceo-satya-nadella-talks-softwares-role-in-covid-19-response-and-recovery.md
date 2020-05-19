@@ -1,32 +1,26 @@
 ---
 category: news
-title: "How to watch Microsoft’s Build conference"
-excerpt: "Microsoft will host 48 hours of non-stop Build content in different time zones starting at 8AM PT / 11AM ET today. You’ll be able to tune into the main keynotes, replay them later, and register for multiple sessions that are also replayed at different hours of the day."
-publishedDateTime: 2020-05-19T11:03:00Z
-webUrl: "https://www.theverge.com/2020/5/19/21263383/microsoft-build-live-stream-watch-how-to-event-announcements"
-ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/19/21263383/microsoft-build-live-stream-watch-how-to-event-announcements"
-cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/19/21263383/microsoft-build-live-stream-watch-how-to-event-announcements"
+title: "‘This Is The Time’: Microsoft CEO Satya Nadella Talks Software’s Role In COVID-19 Response And Recovery"
+excerpt: "CEO Satya Nadella talks the role of software and developers in COVID-19 response and what Microsoft has learned from working from home in an exclusive video interview ahead of the company's Build developer conference."
+publishedDateTime: 2020-05-19T15:02:00Z
+webUrl: "https://www.forbes.com/sites/alexkonrad/2020/05/19/microsoft-ceo-satya-nadella-talks-software-in-covid-19-response/"
+ampWebUrl: "https://www.forbes.com/sites/alexkonrad/2020/05/19/microsoft-ceo-satya-nadella-talks-software-in-covid-19-response/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexkonrad/2020/05/19/microsoft-ceo-satya-nadella-talks-software-in-covid-19-response/amp/"
 type: article
-quality: 82
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: The Verge
-  domain: theverge.com
+  name: Forbes
+  domain: forbes.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/theverge.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/forbes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://cdn.vox-cdn.com/thumbor/A0qSlkmYYXZrzHTj7PIDFJAR7J8=/0x0:3000x1984/1400x933/filters:focal(1260x752:1740x1232):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66814907/518216764.jpg.0.jpg"
-    width: 1400
-    height: 933
-    title: "How to watch Microsoft’s Build conference"
 
 related:
   - title: "Azure Arc, Microsoft’s service for managing cloud resources anywhere, is now in public preview"
@@ -44,6 +38,21 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/05/IMG_20191104_091357.jpg?w=1024"
         width: 1024
         height: 686
+  - title: "How to watch Microsoft’s Build conference"
+    excerpt: "Microsoft will host 48 hours of non-stop Build content in different time zones starting at 8AM PT / 11AM ET today. You’ll be able to tune into the main keynotes, replay them later, and register for multiple sessions that are also replayed at different hours of the day."
+    publishedDateTime: 2020-05-19T11:03:00Z
+    webUrl: "https://www.theverge.com/2020/5/19/21263383/microsoft-build-live-stream-watch-how-to-event-announcements"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/19/21263383/microsoft-build-live-stream-watch-how-to-event-announcements"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/19/21263383/microsoft-build-live-stream-watch-how-to-event-announcements"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 82
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/A0qSlkmYYXZrzHTj7PIDFJAR7J8=/0x0:3000x1984/1400x933/filters:focal(1260x752:1740x1232):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66814907/518216764.jpg.0.jpg"
+        width: 1400
+        height: 933
   - title: "Microsoft's Cloud for Healthcare is an elaborate suite of telehealth tools"
     excerpt: "Microsoft Cloud for Healthcare is now available in a public preview and as a free six-month trial. Microsoft’s service is also designed to make it easier for care teams to work across the many parts of America’s dizzying healthcare infrastructure."
     publishedDateTime: 2020-05-19T15:05:00Z
@@ -74,17 +83,6 @@ related:
       - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/05/13/bf550a82-e9e8-4511-bee9-983426e8fc52/thumbnail/1200x675/aaf99352c82c362f4feba84192e7819c/2555435eba4cad133864-58121622-nvidia-accelerates-apache-spark.jpg"
         width: 1200
         height: 675
-  - title: "‘This Is The Time’: Microsoft CEO Satya Nadella Talks Software’s Role In COVID-19 Response And Recovery"
-    excerpt: "CEO Satya Nadella talks the role of software and developers in COVID-19 response and what Microsoft has learned from working from home in an exclusive video interview ahead of the company's Build developer conference."
-    publishedDateTime: 2020-05-19T15:02:00Z
-    webUrl: "https://www.forbes.com/sites/alexkonrad/2020/05/19/microsoft-ceo-satya-nadella-talks-software-in-covid-19-response/"
-    ampWebUrl: "https://www.forbes.com/sites/alexkonrad/2020/05/19/microsoft-ceo-satya-nadella-talks-software-in-covid-19-response/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexkonrad/2020/05/19/microsoft-ceo-satya-nadella-talks-software-in-covid-19-response/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 46
   - title: "Meet Microsoft Cloud for Healthcare, Microsoft’s first industry-specific cloud solution"
     excerpt: "Microsoft made great progress in the health care related business. Today, Microsoft is announcing Microsoft Cloud for Healthcare, its first industry-specific cloud solution."
     publishedDateTime: 2020-05-19T15:02:00Z
@@ -101,6 +99,6 @@ related:
         width: 918
         height: 516
 
-secured: "N/4B785Qp1vGwRKSrKcj3GJ7NtStGJBMAw6mC4po8B5vKzs9V3TX5KYdkKMZPTfww4IxjHOGmSNLxoUlNgtYc9TJEhc7olu8vC0fgXe1nwIrbR6FPxdn3xwizWKvKa5DPkveLLLL8+gVfhiVxtgLcPDDJG63IsHaE/c5Hdp2DVqBgisvoTIvGEpt4otaUfj52Xk1C204MTQV9KMWRdsNw/H8V7dLbpgjEyEqIjObMAdODfWjYlxIz1ugjUEFngXyxkr5dQfRGY8t8ECTx9fi3dNM2LAJrSbJAXdedVc6PITgvGvcWfquAFa8rJ/W61eC;XHhafFqupGtYSWGS0WBPFQ=="
+secured: "ZVnOuiaR07azwUMX2+u0gx7ykQSdr+5hfrnvG4wJQv61TZouwvUbdvQbgfH+jbLlwFFH3zQPnklHsk7O6TeIGWV+oE2MMtMFFhaOGliUtkLT7slVFYq+gtBqSUSsHWxLhMDkbFYYrNzXZOD63ji75Pr6OE8ekcZu6W9/aGC7uspX5R5S16eNYk9Q5k56yZv33un6He39KIApkzIE48BSnF8E9rG95ar+vX/wknMpjB8bHQauStKRzOoZew4EIAf/2Pbu7MOl8vU/xbqHsWSANUMawMptBLMWdVLrMSh7pWw8SGBM9TsMI3zPD7H2ZhuZ/ziZgLbv0oNkG9PeYiyJMUFuCcStPUNSC7FlpVh+3xNc30Gqc2lWTWi+gil24HulIVRqGtynQ+iPniG0/3YnMXTEZpto/Pyy6IQqSdiXvfptBwnhI338n5lh1rQDFudgYQJq8d8Hz6M2eolv0bE4Zndpw16FRKHQcJL15Nj0J9c=;Y3Q2z732Etf65fRpZKw7Yg=="
 ---
 

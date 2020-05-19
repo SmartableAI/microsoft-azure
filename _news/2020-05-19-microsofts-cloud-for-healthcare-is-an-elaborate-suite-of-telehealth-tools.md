@@ -1,21 +1,21 @@
 ---
 category: news
-title: "How to watch Microsoft’s Build conference"
-excerpt: "Microsoft will host 48 hours of non-stop Build content in different time zones starting at 8AM PT / 11AM ET today. You’ll be able to tune into the main keynotes, replay them later, and register for multiple sessions that are also replayed at different hours of the day."
-publishedDateTime: 2020-05-19T11:03:00Z
-webUrl: "https://www.theverge.com/2020/5/19/21263383/microsoft-build-live-stream-watch-how-to-event-announcements"
-ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/19/21263383/microsoft-build-live-stream-watch-how-to-event-announcements"
-cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/19/21263383/microsoft-build-live-stream-watch-how-to-event-announcements"
+title: "Microsoft's Cloud for Healthcare is an elaborate suite of telehealth tools"
+excerpt: "Microsoft Cloud for Healthcare is now available in a public preview and as a free six-month trial. Microsoft’s service is also designed to make it easier for care teams to work across the many parts of America’s dizzying healthcare infrastructure."
+publishedDateTime: 2020-05-19T15:05:00Z
+webUrl: "https://www.engadget.com/microsoft-cloud-for-healthcare-150051142.html"
+ampWebUrl: "https://www.engadget.com/amp/microsoft-cloud-for-healthcare-150051142.html"
+cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-cloud-for-healthcare-150051142.html"
 type: article
-quality: 82
+quality: 80
 heat: -1
 published: false
 
 provider:
-  name: The Verge
-  domain: theverge.com
+  name: Engadget
+  domain: engadget.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/theverge.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/engadget.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,10 +23,10 @@ topics:
   - Azure
 
 images:
-  - url: "https://cdn.vox-cdn.com/thumbor/A0qSlkmYYXZrzHTj7PIDFJAR7J8=/0x0:3000x1984/1400x933/filters:focal(1260x752:1740x1232):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66814907/518216764.jpg.0.jpg"
-    width: 1400
-    height: 933
-    title: "How to watch Microsoft’s Build conference"
+  - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-05%2Fa0edfd10-9956-11ea-bf56-d8317e33c37c&client=amp-blogside-v2&signature=ba67488c1e6727b316ffc4eea32d47020ae36a8c"
+    width: 600
+    height: 350
+    title: "Microsoft's Cloud for Healthcare is an elaborate suite of telehealth tools"
 
 related:
   - title: "Azure Arc, Microsoft’s service for managing cloud resources anywhere, is now in public preview"
@@ -44,21 +44,21 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/05/IMG_20191104_091357.jpg?w=1024"
         width: 1024
         height: 686
-  - title: "Microsoft's Cloud for Healthcare is an elaborate suite of telehealth tools"
-    excerpt: "Microsoft Cloud for Healthcare is now available in a public preview and as a free six-month trial. Microsoft’s service is also designed to make it easier for care teams to work across the many parts of America’s dizzying healthcare infrastructure."
-    publishedDateTime: 2020-05-19T15:05:00Z
-    webUrl: "https://www.engadget.com/microsoft-cloud-for-healthcare-150051142.html"
-    ampWebUrl: "https://www.engadget.com/amp/microsoft-cloud-for-healthcare-150051142.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-cloud-for-healthcare-150051142.html"
+  - title: "How to watch Microsoft’s Build conference"
+    excerpt: "Microsoft will host 48 hours of non-stop Build content in different time zones starting at 8AM PT / 11AM ET today. You’ll be able to tune into the main keynotes, replay them later, and register for multiple sessions that are also replayed at different hours of the day."
+    publishedDateTime: 2020-05-19T11:03:00Z
+    webUrl: "https://www.theverge.com/2020/5/19/21263383/microsoft-build-live-stream-watch-how-to-event-announcements"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/19/21263383/microsoft-build-live-stream-watch-how-to-event-announcements"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/19/21263383/microsoft-build-live-stream-watch-how-to-event-announcements"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 80
+      name: The Verge
+      domain: theverge.com
+    quality: 82
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-05%2Fa0edfd10-9956-11ea-bf56-d8317e33c37c&client=amp-blogside-v2&signature=ba67488c1e6727b316ffc4eea32d47020ae36a8c"
-        width: 600
-        height: 350
+      - url: "https://cdn.vox-cdn.com/thumbor/A0qSlkmYYXZrzHTj7PIDFJAR7J8=/0x0:3000x1984/1400x933/filters:focal(1260x752:1740x1232):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66814907/518216764.jpg.0.jpg"
+        width: 1400
+        height: 933
   - title: "Microsoft Build brings announcements for cloud data, analytics services, and intersection of the two"
     excerpt: "A series of announcements around Synapse Analytics, Cosmos DB, Azure Database and SQL Edge make this year's Microsoft Build conference a virtual event revealing actual advances and concrete integrations."
     publishedDateTime: 2020-05-19T15:00:00Z
@@ -101,6 +101,6 @@ related:
         width: 918
         height: 516
 
-secured: "N/4B785Qp1vGwRKSrKcj3GJ7NtStGJBMAw6mC4po8B5vKzs9V3TX5KYdkKMZPTfww4IxjHOGmSNLxoUlNgtYc9TJEhc7olu8vC0fgXe1nwIrbR6FPxdn3xwizWKvKa5DPkveLLLL8+gVfhiVxtgLcPDDJG63IsHaE/c5Hdp2DVqBgisvoTIvGEpt4otaUfj52Xk1C204MTQV9KMWRdsNw/H8V7dLbpgjEyEqIjObMAdODfWjYlxIz1ugjUEFngXyxkr5dQfRGY8t8ECTx9fi3dNM2LAJrSbJAXdedVc6PITgvGvcWfquAFa8rJ/W61eC;XHhafFqupGtYSWGS0WBPFQ=="
+secured: "71yyorQrqEInQzENcL2dtEdDl8hjIEy46AW922OnrA78XhBkKV7X7Qzze88KbeoBDGl/b8yqxPZi5IkN9WUBMsa40itKt5wFCtLWkC/aTtf1+SI5E41bxd6l6WA5DB/d0wMQ9V3ivTRnVtuz/OiprUyCCdLa0H0V8bC5KWJYDAon9OmpW1sAAGBaTbxO+Bqn9noAoB7KEO7kaRVKEsCxDMGMiFTIZ3ezkXGYKOAIBFs/o0L4SEZ1m5fKu/YMlop/SlU1MoTMGO8N+Xrvl8FMarLsLu7I+fgUxJL4uWOLhC5jMk9UfQSv1A8+sNAyKtxu;0thq5YVVwrPEkAhjUlupsw=="
 ---
 
