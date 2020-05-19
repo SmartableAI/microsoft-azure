@@ -2,50 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2020-04-28-red-hat-takes-on-the-hybrid-cloud-with-its-latest-openshift-kubernetes-distro.md",
-      "title": "Red Hat takes on the hybrid cloud with its latest OpenShift Kubernetes distro",
-      "excerpt": "IT's future belongs to containers and Kubernetes, and Red Hat thinks its latest OpenShift Kubernetes distro will take you there.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/red-hat-takes-on-the-hybrid-cloud-with-its-latest-openshift-kubernetes-distro/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/red-hat-takes-on-the-hybrid-cloud-with-its-latest-openshift-kubernetes-distro/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/red-hat-takes-on-the-hybrid-cloud-with-its-latest-openshift-kubernetes-distro/",
-      "publishedDateTime": "2020-04-28T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2019/10/17/80f9289a-950c-41d9-9434-64906e178775/thumbnail/1200x675/1503a8d0f23cb307b71eda70d8ddcada/openshift-container-logo.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Red Hat takes on the hybrid cloud with its latest OpenShift Kubernetes distro",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_news/2020-04-28-microsoft-services-is-now-a-kubernetes-certified-service-provider.md",
       "title": "Microsoft Services is now a Kubernetes Certified Service Provider",
       "excerpt": "Modern applications are increasingly built using containers, which are microservices packaged with their dependencies and configurations. For this reason, many companies are either containerizing their existing applications or creating new complex applications that are composed of multiple containers.\r\n\r\nAs",
@@ -987,6 +943,51 @@
       ],
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-azure-migrate-now-available-in-azure-government.md",
+      "title": "Azure Migrate now available in Azure Government",
+      "excerpt": "Microsoft’s service for datacenter migration, Azure Migrate, is now available in Azure Government—unlocking the whole range of functionality for government customers. Previously, Azure Migrate V1 was available to US Azure Government customers, which performed limited scale assessment for VMware workloads.",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/azure-migrate-now-available-in-azure-government/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-23T04:00:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a69c6248-11fa-477b-81e0-17d56596895a.jpg",
+          "width": 1024,
+          "height": 489,
+          "title": "Azure Migrate now available in Azure Government",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Migration"
       ]
     }
   ],

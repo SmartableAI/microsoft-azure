@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-11T14:00:02Z
 webUrl: "https://azure.microsoft.com/blog/office-licensing-service-and-azure-cosmos-db-part-2-improved-performance-and-availability/"
 type: article
 quality: 106
-heat: 127
+heat: 126
 published: true
 
 provider:

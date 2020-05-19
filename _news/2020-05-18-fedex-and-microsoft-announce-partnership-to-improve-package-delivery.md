@@ -1,43 +1,34 @@
 ---
 category: news
-title: "FedEx and Microsoft join forces to transform commerce"
-excerpt: "MEMPHIS, Tenn., and REDMOND, Wash., May 18, 2020 /PRNewswire/ -- FedEx Corp. (NYSE: FDX) and Microsoft Corp. (Nasdaq: MSFT) on Monday announced a new multiyear collaboration to help transform commerce by combining the global digital and logistics network of FedEx with the power of Microsoft’s intelligent cloud."
-publishedDateTime: 2020-05-18T16:04:00Z
-webUrl: "https://apnews.com/PR Newswire/6651f50c5ebc9cc48560cd0ce2ae173a"
+title: "FedEx and Microsoft announce partnership to improve package delivery"
+excerpt: "Microsoft and FedEx are joining forces with a new partnership that will supposedly \"transform commerce\" by pairing the former company's cloud prowess with the logistics network of the latter."
+publishedDateTime: 2020-05-18T23:26:00Z
+webUrl: "https://www.techspot.com/news/85276-fedex-microsoft-announce-partnership-improve-package-delivery.html"
+ampWebUrl: "https://www.techspot.com/amp/news/85276-fedex-microsoft-announce-partnership-improve-package-delivery.html"
+cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85276-fedex-microsoft-announce-partnership-improve-package-delivery.html"
 type: article
-quality: 22
-heat: -1
-published: false
+quality: 82
+heat: 322
+published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TechSpot
+  domain: techspot.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techspot.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    title: "FedEx and Microsoft join forces to transform commerce"
+  - url: "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-18-image-34.jpg"
+    width: 2560
+    height: 1440
+    title: "FedEx and Microsoft announce partnership to improve package delivery"
 
 related:
-  - title: "FedEx and Microsoft announce partnership to improve package delivery"
-    excerpt: "Microsoft and FedEx are joining forces with a new partnership that will supposedly \"transform commerce\" by pairing the former company's cloud prowess with the logistics network of the latter."
-    publishedDateTime: 2020-05-18T23:26:00Z
-    webUrl: "https://www.techspot.com/news/85276-fedex-microsoft-announce-partnership-improve-package-delivery.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/85276-fedex-microsoft-announce-partnership-improve-package-delivery.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85276-fedex-microsoft-announce-partnership-improve-package-delivery.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 82
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-18-image-34.jpg"
-        width: 2560
-        height: 1440
   - title: "FedEx and Microsoft Form A New Partnership"
     excerpt: "The partnership has already produced a solution aimed at helping companies improve their supply chain efficiency."
     publishedDateTime: 2020-05-18T15:42:00Z
@@ -152,6 +143,19 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 40
+  - title: "FedEx and Microsoft join forces to transform commerce"
+    excerpt: "MEMPHIS, Tenn., and REDMOND, Wash., May 18, 2020 /PRNewswire/ -- FedEx Corp. (NYSE: FDX) and Microsoft Corp. (Nasdaq: MSFT) on Monday announced a new multiyear collaboration to help transform commerce by combining the global digital and logistics network of FedEx with the power of Microsoft’s intelligent cloud."
+    publishedDateTime: 2020-05-18T16:04:00Z
+    webUrl: "https://apnews.com/PR Newswire/6651f50c5ebc9cc48560cd0ce2ae173a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
   - title: "FedEx, Microsoft Team Up To Launch Shipping Initiative"
     excerpt: "FedEx and Microsoft plan to launch a collaboration that they say will combine the transportation company's logistics network with the power of cloud computing."
     publishedDateTime: 2020-05-18T17:51:00Z
@@ -186,6 +190,6 @@ related:
       domain: webindia123.com
     quality: 2
 
-secured: "fTA8w55LgHLz9t7krcpGkgSwghB62O9JQJQkGDk8Qlvfwy6KmhLJKqyWwu9D+HrXiofyj9YhObkQtXjnComXK+EED52O1u5gGvhtD3hwlBg25xXDAB5tnLm/NKmEl926vjpGD8+8JJOXhWD8rZemE5AKS4IpPxUdL5mYEJP0/PtN8jPg11gsa0ocsYvSG2rUvmAYMRsryvo3EL8CXWhkX62YZSN4wGWNrEb0W8nagbuaLcrr7kFbQVTH9IEAFAE0lmIonwBWDfr/P/VBAGbTRk26YIsCumTE6Kv8tRlP5l9YNYtfmF7Q0VOQrsxhckqb;hNF21qEsxV6K2aMKuxJ4kw=="
+secured: "yYwWsx15WHiQxAZO0cFXb6oWOClogqBO4LgewBlyIQZMd8MhtuqAB0kY4x/NVryXfP4Z2SW0JCCISdbd60kGjZxfN9iIV29Mpbyd9hVgpk5ylHwWGFHUJ++hAOwEIJmIbnoZlqUYYkhhLkkWfIoMr2UijXHpjVKGxmJWSaUy0RN4P/t1MccnOYN5z3VFizgYJ9hUIXDF9MzUUsF3mQNf0RfJdNn6ZWIn/j9NzmbiILXZ8M/+ozr/SOnbpsb5P8bsW0jav7qml6XpLCiVg2ev+aU/bBMmUuRWzJYnEipIOIIUi2r4/I8x33lWbuYngmUq;sGdIxtWH2eE7nRg5VsHbeQ=="
 ---
 

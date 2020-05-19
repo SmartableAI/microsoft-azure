@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-15T06:44:00Z
 webUrl: "https://thenextweb.com/microsoft/2020/05/15/microsoft-open-sources-its-coronavirus-related-threat-data/"
 type: article
 quality: 60
-heat: 81
+heat: 80
 published: true
 
 provider:

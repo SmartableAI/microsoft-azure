@@ -8,7 +8,7 @@ ampWebUrl: "https://www.geekwire.com/2020/microsoft-acquire-metaswitch-networks-
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-acquire-metaswitch-networks-bolstering-azure-telecommunications-efforts/amp/"
 type: article
 quality: 90
-heat: 231
+heat: 230
 published: true
 
 provider:

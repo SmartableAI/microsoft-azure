@@ -1,33 +1,21 @@
 ---
 category: news
 title: "Dow Jones News: Microsoft Partners With FedEx; Apple Stock Rises as Stores Slowly Reopen"
-excerpt: "The Dow Jones Industrial Average (DJINDICES:\\^DJI) had surged 3.4% by 12:50 p.m. EDT Monday. The rally was likely driven by two pieces of news. First, Federal Reserve Chairman Jero"
-publishedDateTime: 2020-05-18T22:02:00Z
-webUrl: "https://www.fool.com/investing/2020/05/18/dow-jones-news-microsoft-partners-with-fedex-apple.aspx"
-ampWebUrl: "https://www.fool.com/amp/investing/2020/05/18/dow-jones-news-microsoft-partners-with-fedex-apple.aspx"
-cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/18/dow-jones-news-microsoft-partners-with-fedex-apple.aspx"
+excerpt: "Tech giants Microsoft (NASDAQ: MSFT) and Apple (NASDAQ: AAPL) underperformed the market on Monday, although both stocks still managed to rise. Microsoft announced a collaboration with FedEx (NYSE: FDX) to offer logistics solutions,"
+publishedDateTime: 2020-05-18T18:17:00Z
+webUrl: "https://www.nasdaq.com/articles/dow-jones-news%3A-microsoft-partners-with-fedex-apple-stock-rises-as-stores-slowly-reopen"
 type: article
-quality: 73
-heat: 73
-published: true
+quality: 33
+heat: 33
+published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Azure
 
-images:
-  - url: "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg"
-    width: 580
-    height: 378
-    title: "Dow Jones News: Microsoft Partners With FedEx; Apple Stock Rises as Stores Slowly Reopen"
-
-secured: "jh7ghjahr4nWOgLlE8abKnLk5P0Wk+kpJyRY5Q5wqbQ4oLcHGct1jubmLe/tIPWfzAqFs63bIPaAzyK2GNb528qI3a4FazIj7uTetHb5QYEcbzMVSd7H+QZDvj5/tTZwdWtDoe/GtzGssQzDxmhXJ67OhtJ8Su0FnOkct6qaI9dmV+XnHY+c2xqR9Bhzr85Hd+rKUEaj1YapJHTbZeJLYmO5KzCpptjG6As3N+cu8i+MFzXkyBrgfKiV5h837hNDmTcvpf+IZA7S1FjhG818REzOztYJQyFc8LxvUFYhRnDWVit9B8BdFSaZ/r9HRbe8;+PvB56aBoDkge8GH5ab0Rw=="
+secured: "0btzdD2CTtDoMLAYYDH8DshHvtYyG4WvADFVLmm6sFqkZsWEqvoThNBCZF8UdkrgFfBKWOyvOCdhkO75NrANOkXEgrIX74BQzGq1rY2ATwIbQ/2YtzVbK+2EDCU9y8eByYihJzzF50pvfjEh0rIv0K9M+CRC8HC5/gsHMDIbi1Dsdmckq2wKUvarQMPlVZC5Va9rJVaHd9JCJoMPeY31U4KzGXIIK2tLEqvXT8Ox3IELoH2Y73GcEu1MgK03j4i1SpThfVW99rRkGpj6L15ThBpioiLTSMM8Ze168aB7yEmnhx+QC+sB3rZlAvRiWURiKkldRKozXXJOc51nIkmd5ReISi4QU0ILLENWwFuBA5BhVWJzCmC87jzh9+k2W/R2tJMgQ54bxPkNemZtveNZRcSf3z+lfzd0T/NBmYNTHLlNSwj5sUAm659OYoNGjrWvwFYv+QljrpO9JEIYV7H72CMyHhM3fpuTp+XSF1Zo2pI=;a5Y/tgQR33r6XaWB23d42g=="
 ---
 

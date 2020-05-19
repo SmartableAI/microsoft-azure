@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-to-access-the-mi
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-access-the-microsoft-whiteboard-app-and-share-your-projects/"
 type: article
 quality: 82
-heat: 83
+heat: 82
 published: true
 
 provider:
