@@ -1,0 +1,44 @@
+---
+category: news
+title: "Microsoft Builds Massive Supercomputer For OpenAI"
+excerpt: "Microsoft has announced that it has built the fifth fastest supercomputer specifically to support OpenAI, the industry consortium formed by Elon Musk"
+publishedDateTime: 2020-05-20T13:59:00Z
+webUrl: "https://www.forbes.com/sites/moorinsights/2020/05/20/microsoft-builds-massive-supercomputer-for-openai/"
+ampWebUrl: "https://www.forbes.com/sites/moorinsights/2020/05/20/microsoft-builds-massive-supercomputer-for-openai/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/05/20/microsoft-builds-massive-supercomputer-for-openai/amp/"
+type: article
+quality: 62
+heat: -1
+published: false
+
+provider:
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Azure
+
+related:
+  - title: "Microsoft builds massive supercomputer for smarter AI"
+    excerpt: "The Azure machine has 285,000 processor cores and 10,000 GPUs to tackle a new class of artificial intelligence tasks."
+    publishedDateTime: 2020-05-19T21:00:00Z
+    webUrl: "https://www.cnet.com/news/microsoft-builds-massive-supercomputer-for-smarter-ai/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-builds-massive-supercomputer-for-smarter-ai/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-builds-massive-supercomputer-for-smarter-ai/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 82
+    images:
+      - url: "https://cnet1.cbsistatic.com/img/TEkbzdFayDjsegaDhc8T7JF9qVI=/756x567/2018/11/10/97f08e96-4be4-41b1-acdc-43595379dfe1/llnl-sierra-supercomputer-randy-wong.jpg"
+        width: 756
+        height: 567
+
+secured: "BpQ6AHN9szvKnuSZle4eu0MNhprAF+79EmojFzqDr8AMNWpu5tKgwnV19EmaSnNsBTrfGuKGBo3E0osemuPU0Xf14OK5SkjoumTf8nUyaJTkGUZBIcdbyq1WVN1BXPjl3k5P6fKy+5gU1Z5ggt2uffehaFfJEx9tOj2UDfDbwn59aGC5h3NYEv4JmvqbBlNxSQZMOWucSJ+IIR/+WoNFBWstsGI3i8gnRN85KHhxZUXdJReobemLIszD6DcTm8ufGBeU+Pq0LJ7tmWmuIupk05eftsVJTrQwdsvJboG8Q9E1UxmwNWMc0wfRslOZ+baHGu+NWbd+JabmFAulOh90uVu8u7B/oaIyPAbnC5fsGSXUu0uoK5Sdlhqc6+egNhMjqIFdKQKTRRE5NDhKYhdAsNls4c0qYfV90aqM0jjCT15dZzTha7oFfUu6p2w4aZUTRR8kjzD/A6Z+/HjnL58GKZZ9Q8ScWHgMpLI9zVG7ppo=;Fe5HVUE2TuouaW1nrqhpjA=="
+---
+

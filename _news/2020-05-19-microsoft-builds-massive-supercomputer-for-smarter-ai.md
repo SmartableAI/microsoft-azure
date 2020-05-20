@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-builds-massive-superc
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-builds-massive-supercomputer-for-smarter-ai/"
 type: article
 quality: 82
-heat: 82
+heat: 102
 published: true
 
 provider:
@@ -27,6 +27,19 @@ images:
     width: 756
     height: 567
     title: "Microsoft builds massive supercomputer for smarter AI"
+
+related:
+  - title: "Microsoft Builds Massive Supercomputer For OpenAI"
+    excerpt: "Microsoft has announced that it has built the fifth fastest supercomputer specifically to support OpenAI, the industry consortium formed by Elon Musk"
+    publishedDateTime: 2020-05-20T13:59:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2020/05/20/microsoft-builds-massive-supercomputer-for-openai/"
+    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2020/05/20/microsoft-builds-massive-supercomputer-for-openai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/05/20/microsoft-builds-massive-supercomputer-for-openai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 62
 
 secured: "E//wb/bkFp+uOXXHTTfEAdT/VwUdQNr31+k09h598tUbRRIr5D8vNscAQEcL5WzIc4bR9n5h5Z28c2iiQiD2ReftBjnFq6+Icif+6YjAQWcTqvoS7bbx53c2I+VLea65ppYm4OrTpJXZm52VMZkXDDopAIS+GXLUZQQ+0aKdMT1b7gpmsFomunH/7wJd3/eKTVbjlYf7wLVDm5kCHTmdNbA8u2QlN8w/ihTbyR8KsfeMYl1FXds+xR4r27+vWBFHZi8FBkkJXFM1mJJ3H+b9/j19pAF5j//rwJQLbzCqDuumsCbZO5sZuHLSbRIQzV3s6pmXN0/ugiMW9MX/TX3b81X2URk61LaUzWF+TZ1nHZPpMiQb+cmFp70jZa8tLa8vXRREXm9/W8vjtTAA0Ogn/mihXu2wLUsHOsbFYTlwryxXu2amzuwjuB9k8IaiuvDVAbETmFu6oSxlglPZLmEGYh+xuGIw0x3fnI+nf2ET3GY=;Ii00oIX6KcBqho7R70NMtQ=="
 ---
