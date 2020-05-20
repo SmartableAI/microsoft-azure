@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/05/19/microsoft-launches-clo
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/19/microsoft-launches-cloud-for-healthcare-first-of-i.aspx"
 type: article
 quality: 82
-heat: 142
+heat: 162
 published: true
 
 provider:
@@ -74,6 +74,21 @@ related:
       - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/14/533e6954-77da-4a3b-a494-d048db111d54/thumbnail/1200x675/0f777a75c789f86629369bf9956b8307/microsoftmetaswitch.jpg"
         width: 1200
         height: 675
+  - title: "Microsoft Creates Specific Cloud Service for Health Care"
+    excerpt: "Microsoft created a specific cloud service for health care, possibly presaging a trend toward customized cloud offerings for individual industries."
+    publishedDateTime: 2020-05-19T17:19:00Z
+    webUrl: "https://www.thestreet.com/investing/microsoft-creates-cloud-platform-specifically-for-health-care"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/microsoft-msft-cloud-computing-health-care"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/microsoft-msft-cloud-computing-health-care"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 42
+    images:
+      - url: "https://content.jwplatform.com/thumbs/6UhcmMhw-720.jpg"
+        width: 720
+        height: 406
 
 secured: "kmGdO16c+p791ELYMf8l3/c7U5Day8dwpGEhVpuLCpVvkC0Pe45Kiq99ID4F5TqE52Hv2nZYgYsYh6ExpPgfXB5n18skakgWR36Wl6l9EmzPFBsFed/c+QqLkE/utOOBhglbeA8eAh9w/GwJ+cYWkFkphpJT00779UHgA5QXm8SWlQicITN1YhCa4EwsvfqcXs4oT1eN9bkLZUwBlTHbS06cC4Rl4NpBMq/sNbG7X8t+4+PIaczjF6J5UysyLpfcLv0/PlHMr6CJsGPVPNzo3aybCM/hJCCzlaNwn1CczwkZQXQDF7oYQv/qTK4ddzV0i7FOUlAiS71d/opbWGzJ7DGomLCWEcOr5LTninjBAvx6hZohT6a8+tNj51sATvoDJG8bmrS+Ver33eazqUbbfDGWUbfXegCDfX5BwQiWnXTM71wNrY1TRiRQ5ReNwg1PNSfsmfx4sz7s5oM8Lv4xM5YtAcNGwHjh/AIXpN9Fki4=;eOCwnoYEdFFWq7dAEiSv7A=="
 ---

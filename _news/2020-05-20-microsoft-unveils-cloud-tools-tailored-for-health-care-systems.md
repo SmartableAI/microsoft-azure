@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Meet Microsoft Cloud for Healthcare, Microsoft’s first industry-specific cloud solution"
-excerpt: "Microsoft made great progress in the health care related business. Today, Microsoft is announcing Microsoft Cloud for Healthcare, its first industry-specific cloud solution."
-publishedDateTime: 2020-05-19T15:02:00Z
-webUrl: "https://mspoweruser.com/meet-microsoft-cloud-for-healthcare-solution/"
-ampWebUrl: "https://mspoweruser.com/meet-microsoft-cloud-for-healthcare-solution/amp/"
-cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/meet-microsoft-cloud-for-healthcare-solution/amp/"
+title: "Microsoft unveils cloud tools tailored for health care systems"
+excerpt: "Microsoft Cloud for Healthcare includes tools that allow for digital triage, telemedicine and coordination of care using internet-based services, chat and conferencing apps. The product was unveiled in a virtual version of the annual Build conference for developers,"
+publishedDateTime: 2020-05-20T06:01:00Z
+webUrl: "https://www.seattletimes.com/business/microsoft/microsoft-unveils-cloud-tools-tailored-for-health-care-systems/"
+ampWebUrl: "https://www.seattletimes.com/business/microsoft/microsoft-unveils-cloud-tools-tailored-for-health-care-systems/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/microsoft/microsoft-unveils-cloud-tools-tailored-for-health-care-systems/?amp=1"
 type: article
-quality: 34
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: MSPoweruser
-  domain: mspoweruser.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://mspoweruser.com/wp-content/uploads/2019/01/Azure-Cloud.jpg"
-    width: 918
-    height: 516
-    title: "Meet Microsoft Cloud for Healthcare, Microsoft’s first industry-specific cloud solution"
 
 related:
   - title: "Azure Arc, Microsoft’s service for managing cloud resources anywhere, is now in public preview"
@@ -111,18 +105,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 46
-  - title: "Microsoft unveils cloud tools tailored for health care systems"
-    excerpt: "Microsoft Cloud for Healthcare includes tools that allow for digital triage, telemedicine and coordination of care using internet-based services, chat and conferencing apps. The product was unveiled in a virtual version of the annual Build conference for developers,"
-    publishedDateTime: 2020-05-20T06:01:00Z
-    webUrl: "https://www.seattletimes.com/business/microsoft/microsoft-unveils-cloud-tools-tailored-for-health-care-systems/"
-    ampWebUrl: "https://www.seattletimes.com/business/microsoft/microsoft-unveils-cloud-tools-tailored-for-health-care-systems/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/microsoft/microsoft-unveils-cloud-tools-tailored-for-health-care-systems/?amp=1"
+  - title: "Meet Microsoft Cloud for Healthcare, Microsoft’s first industry-specific cloud solution"
+    excerpt: "Microsoft made great progress in the health care related business. Today, Microsoft is announcing Microsoft Cloud for Healthcare, its first industry-specific cloud solution."
+    publishedDateTime: 2020-05-19T15:02:00Z
+    webUrl: "https://mspoweruser.com/meet-microsoft-cloud-for-healthcare-solution/"
+    ampWebUrl: "https://mspoweruser.com/meet-microsoft-cloud-for-healthcare-solution/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/meet-microsoft-cloud-for-healthcare-solution/amp/"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 22
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 34
+    images:
+      - url: "https://mspoweruser.com/wp-content/uploads/2019/01/Azure-Cloud.jpg"
+        width: 918
+        height: 516
 
-secured: "eNO4FoRofTlVmp8QzF8mvD4ATp+B9WvENd5i7Pq8t8CLX5V5AR2J16Caf2S8dPkQWfq+/qzWNXtrYuhTUNx30v6TqjOjwbJST2OqFLyhW12o6cVW0JvQhIzkaV8eK1vNmt+/n2BetuQZKPfk2oPLLgiL4QPOeS1/b07gMFqTYOb3jW3xLacLMk+7+/d4Wca1U7C2V4ifZ8hYQ5wpb1IIlJdf6MMWemG12SjQUp85fWO5wuvtO/QPLc6SKIKi5/mV6rkr2YiLLxxR215O1YOXR82HCc33wcUXaMgUh8mHJdiobemBrTjDYIXxQpcj3VuEJd/kuRXo8cyBw0W2juI6qlQFhabObetYhY663Pdpqrdl3hfen/2ty++Y2t96LVd2QAmpZLjnXzWEjKIfP5lzq0NnXAC7+cqMZh3eD2sy9fuKGBXH18u+LWXsGH7hrx3GpGVtiFzgdTTGYSPepmLTJn/YfiPskwPlWU2MOJCKVAI=;vWyx3lkztHBIHI9441W9wQ=="
+secured: "vcp8hNRxLY8OvWIf5HZRrutJt+6bgZrwVZZKc8Buip4kFUGNzWNmRF1PotHp+5q98641NWC+w6wbTndS9I+rDGH6Nd7/JWS7UraYjqxuAdmhrx9O2eGG8X83nxhvXCmbEqdmkD+DeGOJEaqD+KRCzcIS8Obop3ffkBEyZMZQh1mJDUiAUV1XSxhVnrUjUB515CchetsQ7Bw2dDWTjC9TSbOYyOf+OEZg6ITCe61h7/m67OStFWRavoE8GYbTNzPdXsrTwgJ01dWbo6eQBv2rxKkWsbwDoItfjmuKdvjlyDgEGFV5f0NonWoY8JsizvJGbub7oCbon72iDtt8qNkVbJRciBpw6UmnEGbNbJOmr3gOJJKRsZnuIg+xcxpSQkhm6aRyhwqWW4YFsPMoVC1mLAz0V1YDNqq0zibsRgY+nG9/34l/CH+ynWkp0uvnglIWEj7lEKn9XsRuhP3cHhhgnrmjZWguVDC0aMfsGjvhmXw=;u4qLr3NJ+d99jNEjFxeEbQ=="
 ---
 

@@ -74,6 +74,21 @@ related:
       - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/14/533e6954-77da-4a3b-a494-d048db111d54/thumbnail/1200x675/0f777a75c789f86629369bf9956b8307/microsoftmetaswitch.jpg"
         width: 1200
         height: 675
+  - title: "Microsoft Creates Specific Cloud Service for Health Care"
+    excerpt: "Microsoft created a specific cloud service for health care, possibly presaging a trend toward customized cloud offerings for individual industries."
+    publishedDateTime: 2020-05-19T17:19:00Z
+    webUrl: "https://www.thestreet.com/investing/microsoft-creates-cloud-platform-specifically-for-health-care"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/microsoft-msft-cloud-computing-health-care"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/microsoft-msft-cloud-computing-health-care"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 42
+    images:
+      - url: "https://content.jwplatform.com/thumbs/6UhcmMhw-720.jpg"
+        width: 720
+        height: 406
 
 secured: "jNgRO+7BDIUdf5mP6Y3P9oxyRLVOan/8P0XLxjU2wDoqBETebfs9WWQ5g3CFq8c4v5f8Tu/+zhOfMcXq4QnykMKzsbysW8VeMt6XO7evjOqVNwZtQgw523flfzFZvh+0j8KBWTpWE8vpPPRntNjjbKr4VLYIF7y4TSaHPctmrs8YAkpbj2gbrjPZ9aWutOSJ8Hy19upikpSh0kOlqwz7zPQBz7YAuXSPdP683nYFrXmr8OpFnHmaqfnO4Nzq4gMrL81UxR6yttdhbJ4ebF1qcKS2leVF1Y58gnSscr6gNSCtI2QJs+Vht04mI7PH6n+Z;bS0xv+kFnu+4qiZOKWFX+g=="
 ---

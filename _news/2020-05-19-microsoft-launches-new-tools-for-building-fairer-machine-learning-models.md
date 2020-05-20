@@ -115,6 +115,17 @@ related:
       - url: "https://mspoweruser.com/wp-content/uploads/2019/01/Azure-Cloud.jpg"
         width: 918
         height: 516
+  - title: "Microsoft unveils cloud tools tailored for health care systems"
+    excerpt: "Microsoft Cloud for Healthcare includes tools that allow for digital triage, telemedicine and coordination of care using internet-based services, chat and conferencing apps. The product was unveiled in a virtual version of the annual Build conference for developers,"
+    publishedDateTime: 2020-05-20T06:01:00Z
+    webUrl: "https://www.seattletimes.com/business/microsoft/microsoft-unveils-cloud-tools-tailored-for-health-care-systems/"
+    ampWebUrl: "https://www.seattletimes.com/business/microsoft/microsoft-unveils-cloud-tools-tailored-for-health-care-systems/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/microsoft/microsoft-unveils-cloud-tools-tailored-for-health-care-systems/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 22
 
 secured: "YvLthA8pz/uHiWlAGqaAq3Krizi9/frDCMgNLoGbyfGvfudSWrQs5JkwGbl/QndsQooQfksJMFssB7kwJ363YqnPgg8eevNmctz9kvVq+CnjNOmsWwBmU96nO9/fMMGXSffbGP8xzoEb44HfXngoliY23QMfCfmBrd/EXWB9GlVqpgdw/jC/t0NiPHwAGJ7jCzu7a/BuRGzse6YsjQhIT/Fc6rOfoiGky8r87ECAOkfhYjve5AAlN4xTIQw4IpDCW/mQY9ovUC9/G2QaZ52JOqVGFpizkIjHNfwz25YN8to3mUSNQXw+0UY3dbUyi7/3bDyldRTPnbyNMpwH1zKUQqGD5ivVW3LZqxkNoBZ8dTYrY1JegGhMzKJtxV8r0i6WTK6Stq+hykKXMu6cNAgf3M5crCV6q1ZzY+CRMDXEH3PCN0KWf5+g3brCO1WzxjrnL+cSQf92UdAgY9BENG6yLdfKTSqUA7OnACaB80X591I=;4G3/3yLgcCbDWGPTt8NPhw=="
 ---

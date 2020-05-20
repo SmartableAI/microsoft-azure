@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/05/19/azure-arc-microsofts-service-for-m
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/azure-arc-microsofts-service-for-managing-cloud-resources-anywhere-is-now-in-public-preview/amp/"
 type: article
 quality: 85
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -115,6 +115,17 @@ related:
       - url: "https://mspoweruser.com/wp-content/uploads/2019/01/Azure-Cloud.jpg"
         width: 918
         height: 516
+  - title: "Microsoft unveils cloud tools tailored for health care systems"
+    excerpt: "Microsoft Cloud for Healthcare includes tools that allow for digital triage, telemedicine and coordination of care using internet-based services, chat and conferencing apps. The product was unveiled in a virtual version of the annual Build conference for developers,"
+    publishedDateTime: 2020-05-20T06:01:00Z
+    webUrl: "https://www.seattletimes.com/business/microsoft/microsoft-unveils-cloud-tools-tailored-for-health-care-systems/"
+    ampWebUrl: "https://www.seattletimes.com/business/microsoft/microsoft-unveils-cloud-tools-tailored-for-health-care-systems/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/microsoft/microsoft-unveils-cloud-tools-tailored-for-health-care-systems/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 22
 
 secured: "VdR+9Gs7odar/5Hlo1ddhrzStgO3DnrQvGA7yhH6e5rzN/qVzR4vyar8hAT/1w7BcPMACmV5DcZg58WQyRwXrvu76E0WoRS6TR7BRDGs0E0UvnV+/BGAqmSLA2f6K1l9iGx1VkbIo786rGo33/QHBiE/TTaes/+90k3UaVY3GtERnJc70C++1gimrep/eVOJdNr9BGZurVLO4TuTo0NIDRzRuHP0CyDg+9NTxp4j+DRHo+2YG0+w8wqp4SAXWdYV+nmy7TxFIMIk3frOKI00PluqyF6R14KUQW5D5lKbc2Ckm+yaDk7+CoKGb8v3oU0e;E8LSGvSjOG5zpjwyU9N7Ag=="
 ---

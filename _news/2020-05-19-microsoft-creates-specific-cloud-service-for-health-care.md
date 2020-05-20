@@ -1,32 +1,28 @@
 ---
 category: news
-title: "Microsoft launches industry-specific cloud solutions, starting with healthcare"
-excerpt: "Microsoft today announced the launch of the Microsoft Cloud for Healthcare, an industry-specific cloud solution for healthcare providers. This is the first in what is likely going to be a set of cloud offerings that target specific verticals and extends a trend we’ve seen among large cloud"
-publishedDateTime: 2020-05-19T15:13:00Z
-webUrl: "https://techcrunch.com/2020/05/19/microsoft-launches-industry-specific-cloud-solutions-starting-with-healthcare/"
-ampWebUrl: "https://techcrunch.com/2020/05/19/microsoft-launches-industry-specific-cloud-solutions-starting-with-healthcare/amp/"
-cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/microsoft-launches-industry-specific-cloud-solutions-starting-with-healthcare/amp/"
+title: "Microsoft Creates Specific Cloud Service for Health Care"
+excerpt: "Microsoft created a specific cloud service for health care, possibly presaging a trend toward customized cloud offerings for individual industries."
+publishedDateTime: 2020-05-19T17:19:00Z
+webUrl: "https://www.thestreet.com/investing/microsoft-creates-cloud-platform-specifically-for-health-care"
+ampWebUrl: "https://www.thestreet.com/.amp/investing/microsoft-msft-cloud-computing-health-care"
+cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/microsoft-msft-cloud-computing-health-care"
 type: article
-quality: 78
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techcrunch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TheStreet.com
+  domain: thestreet.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://techcrunch.com/wp-content/uploads/2018/06/GettyImages-952061110.jpg?w=1024"
-    width: 1024
-    height: 696
-    title: "Microsoft launches industry-specific cloud solutions, starting with healthcare"
+  - url: "https://content.jwplatform.com/thumbs/6UhcmMhw-720.jpg"
+    width: 720
+    height: 406
+    title: "Microsoft Creates Specific Cloud Service for Health Care"
 
 related:
   - title: "Microsoft Launches Cloud for Healthcare"
@@ -59,6 +55,21 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519179146&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4I1BJ"
         width: 817
         height: 545
+  - title: "Microsoft launches industry-specific cloud solutions, starting with healthcare"
+    excerpt: "Microsoft today announced the launch of the Microsoft Cloud for Healthcare, an industry-specific cloud solution for healthcare providers. This is the first in what is likely going to be a set of cloud offerings that target specific verticals and extends a trend we’ve seen among large cloud"
+    publishedDateTime: 2020-05-19T15:13:00Z
+    webUrl: "https://techcrunch.com/2020/05/19/microsoft-launches-industry-specific-cloud-solutions-starting-with-healthcare/"
+    ampWebUrl: "https://techcrunch.com/2020/05/19/microsoft-launches-industry-specific-cloud-solutions-starting-with-healthcare/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/microsoft-launches-industry-specific-cloud-solutions-starting-with-healthcare/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 78
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2018/06/GettyImages-952061110.jpg?w=1024"
+        width: 1024
+        height: 696
   - title: "Microsoft announces first vertical cloud offering: Microsoft Cloud for Healthcare"
     excerpt: "Microsoft is taking the wraps off the first of its planned industry-specific clouds, the Microsoft Cloud for Healthcare, which is due to start rolling out in Q4 this year."
     publishedDateTime: 2020-05-19T15:00:00Z
@@ -74,22 +85,7 @@ related:
       - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/14/533e6954-77da-4a3b-a494-d048db111d54/thumbnail/1200x675/0f777a75c789f86629369bf9956b8307/microsoftmetaswitch.jpg"
         width: 1200
         height: 675
-  - title: "Microsoft Creates Specific Cloud Service for Health Care"
-    excerpt: "Microsoft created a specific cloud service for health care, possibly presaging a trend toward customized cloud offerings for individual industries."
-    publishedDateTime: 2020-05-19T17:19:00Z
-    webUrl: "https://www.thestreet.com/investing/microsoft-creates-cloud-platform-specifically-for-health-care"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/microsoft-msft-cloud-computing-health-care"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/microsoft-msft-cloud-computing-health-care"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 42
-    images:
-      - url: "https://content.jwplatform.com/thumbs/6UhcmMhw-720.jpg"
-        width: 720
-        height: 406
 
-secured: "kXMi0BQrC9GbyE7546KWcOLY3Cbr3Hhcr532gcbw3VCJJ3+k2OSujJ8Ro/JY7qAT9NmeChiKyZiSDtPOgeVKeG++JdtUeNB8iRkUkKday/Dvx4GX6cGZ77uBU8aqgIgq35rSra9yofDGl8czq8sENzmogEHBzOV5UShjZ/zgua6ls2PX+We+pwOff76QYF43Wb1IQsGM3mHkOgnmhEqPWg9iPOUz/daBN11lw/1Ht3JeOYXKzPYHDELVW+tpXXo8/UGooG5y0EXGChJD2puyzB/JqqjN7v+u4iap4kWOPc3Yrzy+wP45AzxidCudxBZZhykS+hzOfTKrfikTpQ8NQwdDnjNSgmg3tl0eLoq8989cuTZQKQPEDnc31u8cU42M+kqOpCtVhHFpcXQeiDQJwNkf8NpQUFgTaO2TyGgjGAh5JlUqCaR+uh5mKOefLKswIutB1sFX4F4yfoTSel41SPXGKCsWdqbf7GO5HHNO97Y=;OpltZdAYbkgnjkol1ubZqg=="
+secured: "Y/xCXHUWDOxz5YhiYi7NpibZDVgSOfhzM6DijhHEWl4f9gIC6D4k5ecqM7SnSB4SMQfmKIaX7Od7XDGeekgihT59OhFQO/0rDm5B/CeYvUXmVlRQL0uRRkGbAoPvqcY2td7SYGA46daDmUThnHOY5QsNyEd7Vh1uCrfbBF6yoq/DIpKHeZAs8uovNrG8GrGSfy64xlrS8tTNVIeKMBeG5wJpvmndvWBxU9M1BfLTtnF7XAwKKqb5jAHxiZg8uR4IT6NSq00H5lmHP0KfsCbP5bUCtkzEta9LSlZuxmctTJlg5RrXc5dwKR5yviktG5+M;9gnUi/BxkAfmiDZeVr/rWA=="
 ---
 
