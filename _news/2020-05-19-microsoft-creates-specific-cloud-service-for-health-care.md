@@ -85,6 +85,21 @@ related:
       - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/14/533e6954-77da-4a3b-a494-d048db111d54/thumbnail/1200x675/0f777a75c789f86629369bf9956b8307/microsoftmetaswitch.jpg"
         width: 1200
         height: 675
+  - title: "Microsoft VP Explains How Its Cloud for Healthcare Will Reshape Industry"
+    excerpt: "Microsoft Cloud for Healthcare is the first of many custom, industry-specific cloud offerings Microsoft has planned."
+    publishedDateTime: 2020-05-20T21:10:00Z
+    webUrl: "https://www.thestreet.com/investing/microsoft-explains-cloud-for-healthcare-will-reshape-industry"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/microsoft-explains-cloud-for-healthcare-will-reshape-industry"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/microsoft-explains-cloud-for-healthcare-will-reshape-industry"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 41
+    images:
+      - url: "https://content.jwplatform.com/thumbs/9eFnHW1Q-720.jpg"
+        width: 720
+        height: 406
 
 secured: "Y/xCXHUWDOxz5YhiYi7NpibZDVgSOfhzM6DijhHEWl4f9gIC6D4k5ecqM7SnSB4SMQfmKIaX7Od7XDGeekgihT59OhFQO/0rDm5B/CeYvUXmVlRQL0uRRkGbAoPvqcY2td7SYGA46daDmUThnHOY5QsNyEd7Vh1uCrfbBF6yoq/DIpKHeZAs8uovNrG8GrGSfy64xlrS8tTNVIeKMBeG5wJpvmndvWBxU9M1BfLTtnF7XAwKKqb5jAHxiZg8uR4IT6NSq00H5lmHP0KfsCbP5bUCtkzEta9LSlZuxmctTJlg5RrXc5dwKR5yviktG5+M;9gnUi/BxkAfmiDZeVr/rWA=="
 ---

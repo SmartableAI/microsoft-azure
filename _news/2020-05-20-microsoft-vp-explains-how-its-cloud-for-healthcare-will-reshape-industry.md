@@ -1,32 +1,28 @@
 ---
 category: news
-title: "Microsoft to adapt its cloud software for healthcare industry"
-excerpt: "Microsoft Corp said on Tuesday it plans to roll out a version of its cloud-based software that will be modified to suit the needs of healthcare organizations."
-publishedDateTime: 2020-05-19T15:05:00Z
-webUrl: "https://www.reuters.com/article/us-microsoft-tech-idUSKBN22V27Z"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN22V27Z"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22V27Z"
+title: "Microsoft VP Explains How Its Cloud for Healthcare Will Reshape Industry"
+excerpt: "Microsoft Cloud for Healthcare is the first of many custom, industry-specific cloud offerings Microsoft has planned."
+publishedDateTime: 2020-05-20T21:10:00Z
+webUrl: "https://www.thestreet.com/investing/microsoft-explains-cloud-for-healthcare-will-reshape-industry"
+ampWebUrl: "https://www.thestreet.com/.amp/investing/microsoft-explains-cloud-for-healthcare-will-reshape-industry"
+cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/microsoft-explains-cloud-for-healthcare-will-reshape-industry"
 type: article
-quality: 82
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TheStreet.com
+  domain: thestreet.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519179146&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4I1BJ"
-    width: 817
-    height: 545
-    title: "Microsoft to adapt its cloud software for healthcare industry"
+  - url: "https://content.jwplatform.com/thumbs/9eFnHW1Q-720.jpg"
+    width: 720
+    height: 406
+    title: "Microsoft VP Explains How Its Cloud for Healthcare Will Reshape Industry"
 
 related:
   - title: "Microsoft Launches Cloud for Healthcare"
@@ -44,6 +40,21 @@ related:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F575083%2Fmicrosoft-healthcare-cloud-mf.jpg&w=1200&op=resize"
         width: 1200
         height: 800
+  - title: "Microsoft to adapt its cloud software for healthcare industry"
+    excerpt: "Microsoft Corp said on Tuesday it plans to roll out a version of its cloud-based software that will be modified to suit the needs of healthcare organizations."
+    publishedDateTime: 2020-05-19T15:05:00Z
+    webUrl: "https://www.reuters.com/article/us-microsoft-tech-idUSKBN22V27Z"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN22V27Z"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22V27Z"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 82
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519179146&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4I1BJ"
+        width: 817
+        height: 545
   - title: "Microsoft launches industry-specific cloud solutions, starting with healthcare"
     excerpt: "Microsoft today announced the launch of the Microsoft Cloud for Healthcare, an industry-specific cloud solution for healthcare providers. This is the first in what is likely going to be a set of cloud offerings that target specific verticals and extends a trend we’ve seen among large cloud"
     publishedDateTime: 2020-05-19T15:13:00Z
@@ -89,22 +100,7 @@ related:
       - url: "https://content.jwplatform.com/thumbs/6UhcmMhw-720.jpg"
         width: 720
         height: 406
-  - title: "Microsoft VP Explains How Its Cloud for Healthcare Will Reshape Industry"
-    excerpt: "Microsoft Cloud for Healthcare is the first of many custom, industry-specific cloud offerings Microsoft has planned."
-    publishedDateTime: 2020-05-20T21:10:00Z
-    webUrl: "https://www.thestreet.com/investing/microsoft-explains-cloud-for-healthcare-will-reshape-industry"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/microsoft-explains-cloud-for-healthcare-will-reshape-industry"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/microsoft-explains-cloud-for-healthcare-will-reshape-industry"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 41
-    images:
-      - url: "https://content.jwplatform.com/thumbs/9eFnHW1Q-720.jpg"
-        width: 720
-        height: 406
 
-secured: "jNgRO+7BDIUdf5mP6Y3P9oxyRLVOan/8P0XLxjU2wDoqBETebfs9WWQ5g3CFq8c4v5f8Tu/+zhOfMcXq4QnykMKzsbysW8VeMt6XO7evjOqVNwZtQgw523flfzFZvh+0j8KBWTpWE8vpPPRntNjjbKr4VLYIF7y4TSaHPctmrs8YAkpbj2gbrjPZ9aWutOSJ8Hy19upikpSh0kOlqwz7zPQBz7YAuXSPdP683nYFrXmr8OpFnHmaqfnO4Nzq4gMrL81UxR6yttdhbJ4ebF1qcKS2leVF1Y58gnSscr6gNSCtI2QJs+Vht04mI7PH6n+Z;bS0xv+kFnu+4qiZOKWFX+g=="
+secured: "a/8Ng47WaDJ8fl5mevnNj11kfDjlCZanN5QT9duxYgZ47aelR2CuyulkOcahGZAN6IWG0tvif4O4IZL8+ayDAw5Ry4m27cv+xRQ/yW2pqrEEe7rdY5DQlqCTXkUz0W3nDzkQNpT/ZmNck18qLUaOTXqMAZAcB5UTZjFEFKOXF21wLAY7HdpyPUTISMa/atRbHWHG01ZlQp8Oliw3yfSDFb3xgAjnowDPohzkJ5oJzq7Do0kpFiJsmpnOQTUY6W8e/F6Vcha8hDPUZWCXL6ghRkZLvRbf5LYN/8zO31mVHJ4sfsYE/nx96U3Lo5yEiKT9;VLXeuJdiMTpYC9+PW879ag=="
 ---
 

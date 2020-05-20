@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/05/19/microsoft-launches-clo
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/19/microsoft-launches-cloud-for-healthcare-first-of-i.aspx"
 type: article
 quality: 82
-heat: 162
+heat: 182
 published: true
 
 provider:
@@ -87,6 +87,21 @@ related:
     quality: 42
     images:
       - url: "https://content.jwplatform.com/thumbs/6UhcmMhw-720.jpg"
+        width: 720
+        height: 406
+  - title: "Microsoft VP Explains How Its Cloud for Healthcare Will Reshape Industry"
+    excerpt: "Microsoft Cloud for Healthcare is the first of many custom, industry-specific cloud offerings Microsoft has planned."
+    publishedDateTime: 2020-05-20T21:10:00Z
+    webUrl: "https://www.thestreet.com/investing/microsoft-explains-cloud-for-healthcare-will-reshape-industry"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/microsoft-explains-cloud-for-healthcare-will-reshape-industry"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/microsoft-explains-cloud-for-healthcare-will-reshape-industry"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 41
+    images:
+      - url: "https://content.jwplatform.com/thumbs/9eFnHW1Q-720.jpg"
         width: 720
         height: 406
 
