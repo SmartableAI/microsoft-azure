@@ -1,0 +1,51 @@
+---
+category: news
+title: "Healthper USA, Inc. Now Available in the Microsoft Azure Marketplace"
+excerpt: "Hamden, CT, May 20, 2020 --( )-- Healthper, your well-being architect, today announced the availability of Healthper programs & challenges in the Microsoft Azure Marketplace, an o"
+publishedDateTime: 2020-05-20T16:41:00Z
+webUrl: "https://apnews.com/PR.com/c15f7544d93ec18a587ffc50711ba213"
+type: article
+quality: 37
+heat: 37
+published: false
+
+provider:
+  name: Associated Press
+  domain: apnews.com
+
+topics:
+  - Azure
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    title: "Healthper USA, Inc. Now Available in the Microsoft Azure Marketplace"
+
+related:
+  - title: "ThroughPut Inc.'s ELITE Now Available in the Microsoft Azure Marketplace"
+    excerpt: "ThroughPut Inc. today announced the availability of ELITE in the Microsoft Azure Marketplace, an online store providing applications"
+    publishedDateTime: 2020-04-28T20:30:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/throughput-inc-s-elite-now-available-in-the-microsoft-azure-marketplace-838367579.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 36
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+  - title: "DataVisor Now Available in the Microsoft Azure Marketplace"
+    excerpt: "DataVisor, the leading fraud detection company with solutions powered by transformational AI technology, today announced the availability of dVector a"
+    publishedDateTime: 2020-05-19T12:37:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200519005042/en/DataVisor-Microsoft-Azure-Marketplace"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
+
+secured: "Dq07QbWE8C3KdhSAfcuBwFsxKnTf5kRgZv0rPZr1eL7rLySQOLqdMFxxVjDl14hpsfLpZOqccVOPHcFBY1Cs2VDmkK/x79RUoFbZGfzkMdoz1Mfeer2c1wmj7Qxp2qKvYJs/qkUvL97c5RS4NEv7T7VDQfNMmh9O1IBSPrk9FXJ/XYa9JEmcasbtNWeP1bX6sJrs2P0ap9omrpJY2AsQy4un8xZGGH1UXkZtGgtweA7/gMkPqzvU8lmFrWt7fYuknJntZaeGrcTmeR9qfWxj0hY/quQ4/Yz0XB5h33uA5rmB/Qzazqjv940kDLMpwoQH;C2G/cliyWoVpANKskh7wuQ=="
+---
+
