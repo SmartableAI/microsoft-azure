@@ -2,6 +2,94 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-04-16-watchdog-finds-few-problems-in-pentagon-award-of-jedi-contract-to-microsoft-over-amazon.md",
+      "title": "Watchdog Finds Few Problems in Pentagon Award of JEDI Contract to Microsoft Over Amazon",
+      "excerpt": "The Pentagon watchdog’s report concluded few actual problems occurred in awarding the hotly disputed JEDI cloud-computing contract, in a victory for Microsoft.",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/defense-department-watchdog-finds-few-problems-in-awarding-jedi-contract-to-microsoft-over-amazon-11586960694",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/defense-department-watchdog-finds-few-problems-in-awarding-jedi-contract-to-microsoft-over-amazon-11586960694",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/defense-department-watchdog-finds-few-problems-in-awarding-jedi-contract-to-microsoft-over-amazon-11586960694",
+      "publishedDateTime": "2020-04-16T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-168451/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Watchdog Finds Few Problems in Pentagon Award of JEDI Contract to Microsoft Over Amazon",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-amazon-bid-high-and-lost-on-jedi-microsoft-says-after-release-of-dod-watchdog-report.md",
+      "title": "Amazon ‘bid high and lost’ on JEDI, Microsoft says after release of DoD watchdog report",
+      "excerpt": "Microsoft took aim at Amazon in a blog post Wednesday, accusing its rival of seeking an unfair advantage as the two companies lock horns over the Pentagon’s JEDI contract. The Department of Defense awarded the Joint Enterprise Defense Infrastructure project to Microsoft last year despite Amazon’s apparent advantage during the bidding process.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/amazon-bid-high-lost-jedi-microsoft-says-release-dod-watchdog-report/",
+      "ampWebUrl": "https://www.geekwire.com/2020/amazon-bid-high-lost-jedi-microsoft-says-release-dod-watchdog-report/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazon-bid-high-lost-jedi-microsoft-says-release-dod-watchdog-report/amp/",
+      "publishedDateTime": "2020-04-15T23:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/11/microsoft-630x473.jpg",
+          "width": 630,
+          "height": 473,
+          "title": "Amazon ‘bid high and lost’ on JEDI, Microsoft says after release of DoD watchdog report",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2020-04-15-securing-azure-functions-with-api-management-and-identityserver4.md",
       "title": "Securing Azure Functions with API Management and IdentityServer4.",
       "excerpt": "There are several Azure App Service platform authentication features like Active Directory, Microsoft ID, Facebook, Google, Twitter. And a Function level authentication provides Anonymous ...",
@@ -970,80 +1058,6 @@
       "topics": [
         "Azure",
         "IoT"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-announcing-server-side-encryption-with-customer-managed-keys-for-azure-managed-disks.md",
-      "title": "Announcing server-side encryption with customer-managed keys for Azure Managed Disks",
-      "excerpt": "Today, we're announcing the general availability for server-side encryption (SSE) with customer-managed keys (CMK) for Azure Managed Disks. Azure customers already benefit from SSE with platform-managed keys for Managed Disks enabled by default. SSE with CMK improves on platform-managed keys by giving",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/announcing-serverside-encryption-with-customermanaged-keys-for-azure-managed-disks/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-02T01:00:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Storage"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-general-availability-of-new-azure-disk-sizes-and-bursting.md",
-      "title": "General availability of new Azure disk sizes and bursting",
-      "excerpt": "Today marks the general availability of new Azure disk sizes, including 4, 8, and 16 GiB on both Premium and Standard SSDs, as well as bursting support on Azure Premium SSD Disks.\r\n\r\nTo provide the best performance and cost balance for your production workloads, we are making significant improvements",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/general-availability-of-new-azure-disk-sizes-and-bursting/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-01T02:00:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Compute"
       ]
     }
   ],
