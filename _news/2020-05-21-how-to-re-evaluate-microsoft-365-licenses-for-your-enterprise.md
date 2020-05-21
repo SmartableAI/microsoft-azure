@@ -1,13 +1,13 @@
 ---
 category: news
-title: "How to Reevaluate Microsoft 365 Licenses for Your Enterprise"
+title: "How to Re-evaluate Microsoft 365 Licenses for Your Enterprise"
 excerpt: "We offer five steps to take for evaluating an organization's M365 license strategy, how to realize hard dollar cost-savings and gain a better return on investment."
-publishedDateTime: 2020-05-20T00:33:00Z
+publishedDateTime: 2020-05-21T01:37:00Z
 webUrl: "https://www.eweek.com/enterprise-apps/how-to-reevaluate-microsoft-365-licenses-for-your-enterprise"
 type: article
 quality: 62
-heat: 82
-published: true
+heat: -1
+published: false
 
 provider:
   name: eWeek
@@ -24,12 +24,12 @@ images:
   - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2020/05/Microsoft365logo.jpg?alias=social_image"
     width: 560
     height: 300
-    title: "How to Reevaluate Microsoft 365 Licenses for Your Enterprise"
+    title: "How to Re-evaluate Microsoft 365 Licenses for Your Enterprise"
 
 related:
-  - title: "How to Re-evaluate Microsoft 365 Licenses for Your Enterprise"
+  - title: "How to Reevaluate Microsoft 365 Licenses for Your Enterprise"
     excerpt: "We offer five steps to take for evaluating an organization's M365 license strategy, how to realize hard dollar cost-savings and gain a better return on investment."
-    publishedDateTime: 2020-05-21T01:37:00Z
+    publishedDateTime: 2020-05-20T00:33:00Z
     webUrl: "https://www.eweek.com/enterprise-apps/how-to-reevaluate-microsoft-365-licenses-for-your-enterprise"
     type: article
     provider:
@@ -41,6 +41,6 @@ related:
         width: 560
         height: 300
 
-secured: "mQ4SeS8wL5NEYWmzbA+B1drduO+027cYH6CATUsFcOICR9MBmJRt2c88Xsqkr+oSROVDbR7yIwt0nJxhgNkALGBG7/2r5GNsmh8uHwr77I/99fGmZfsztQBUZWGsEDUyDsGkqSqNPLifPmUe03HfI791gcmtlDRHnXSwswXvgIhmMIQu73kvtHrmMyvxGtT37u3hxuHbWmuNkGTcYRmBTCb+crJHbkitU11ssFX/8i4ZO4myEH6UUnK4KwCkmszbue4N0/WAn5doUasIydvmIB7uBJOAGwfzmHzF2Bnty8YdAw7yOjprzDJATSzukdOXI3PjCCsv5PzBr5lX2KVLQ6y9Hd149JZzMqXKoCEnJ9kn0/D5qwq32iyyh8EtsJKz5ZFF3q4rvswRS+Nu/T2WnqQuFt3tqnye0E79sW8eSdIULiw9OcaScN6SnrTDx28WQkMKmILIVx3F6/DzL3oaJX9gtLE5fFfpUYDC/Kq88Nc=;SXgptcXU6WJSVruGVf30Aw=="
+secured: "64Q/KbpziAxliAh56E8IThsbGnyklgx8xdbnGekXRyMprP7kCuJq3xPa/NLKM0CWBmDwZ6M1sufVHr6dlTdS0qrpjhTjT7rbzRG4wt5Vc7vDQpMuqEsbU2j9sxmZxcuHH+A1QZoLDdfXAaeohn1vod54YCAOGUyPej7XYb7BgwvXAkbFMs44wewWW/YZUy+EAONsO2QuGkVlpSuZ1xTIpe8ttbb6fdAM5aRVmiOzlGaXdyLh7Tv2KhhH+2ff+afeLq8CiqEX1W1ogun85SRfAdp/p5pU4sfEJWWkROt6WmtqzKZmsxoi96JB/Ui9MmDw;fn3PbgZJnDlhnGDVP5DLPw=="
 ---
 
