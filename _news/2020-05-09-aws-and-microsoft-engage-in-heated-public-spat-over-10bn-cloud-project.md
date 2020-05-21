@@ -26,9 +26,9 @@ related:
   - title: "AWS files another JEDI complaint against Microsoft"
     excerpt: "Amazon Web Services (AWS) has mounted yet another appeal against the US government’s decision to award Microsoft the $10 billion Pentagon cloud contract, known as JEDI. Despite an earlier investigation into the procurement process finding no evidence of coercion or interference by US President Donald Trump,"
     publishedDateTime: 2020-05-08T10:55:00Z
-    webUrl: "https://www.techradar.com/news/aws-files-another-jedi-complaint-against-microsoft"
-    ampWebUrl: "https://www.techradar.com/amp/news/aws-files-another-jedi-complaint-against-microsoft"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/aws-files-another-jedi-complaint-against-microsoft"
+    webUrl: "https://www.techradar.com/in/news/aws-files-another-jedi-complaint-against-microsoft"
+    ampWebUrl: "https://www.techradar.com/in/amp/news/aws-files-another-jedi-complaint-against-microsoft"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/aws-files-another-jedi-complaint-against-microsoft"
     type: article
     provider:
       name: TechRadar

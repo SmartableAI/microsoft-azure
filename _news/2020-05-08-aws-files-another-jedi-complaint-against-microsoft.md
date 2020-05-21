@@ -3,9 +3,9 @@ category: news
 title: "AWS files another JEDI complaint against Microsoft"
 excerpt: "Amazon Web Services (AWS) has mounted yet another appeal against the US government’s decision to award Microsoft the $10 billion Pentagon cloud contract, known as JEDI. Despite an earlier investigation into the procurement process finding no evidence of coercion or interference by US President Donald Trump,"
 publishedDateTime: 2020-05-08T10:55:00Z
-webUrl: "https://www.techradar.com/news/aws-files-another-jedi-complaint-against-microsoft"
-ampWebUrl: "https://www.techradar.com/amp/news/aws-files-another-jedi-complaint-against-microsoft"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/aws-files-another-jedi-complaint-against-microsoft"
+webUrl: "https://www.techradar.com/in/news/aws-files-another-jedi-complaint-against-microsoft"
+ampWebUrl: "https://www.techradar.com/in/amp/news/aws-files-another-jedi-complaint-against-microsoft"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/aws-files-another-jedi-complaint-against-microsoft"
 type: article
 quality: 82
 heat: 162
@@ -86,6 +86,6 @@ related:
         width: 1280
         height: 1280
 
-secured: "e3Uusin/MTrrlWbeRBWcMy4CFNpmD6ymw4QdXx0FtYlnH/W7Lcb5rrX+QqgAIwwYWwH+fx400EuXx3pNJAfPUVL+LBFpz+Nm6QfeRwkr+yfjvDxjk/5gHWrx/gQaV3ijB9kNWJ2eVkzPmfdm9AVUYj+XdAYOVzJERtegGlr6p+rT8aw3vw4PN6zOR0PC9Kk4WiGMdRYjpDWsk/fFHRWem2n71CS7485/pSlSynnZf7yhZx6GR/ybIGj3Iqb83RvaF09hjjDEL4MMxAKsoOx3YBlW02uTpJKkS/atjEM7Uqwd92IDfEdjt3QGE2dDynJzGUlJG9BmFRvbqvA39UipaCY71FegSsCmoUUsbiwfY3n8oC10zdMIF2lT5gTgCrdoq7OYzftF58qhxQGJvRx7A8SDnRzpxDsEDpC75RWjuX2NzlQNu+OQnK2zPO4g1TLjr1CEbHXkOSSG9Zj9BgWSTkzZjbshDooyjA1CGsJyv9Y=;EyRV27Qt4fPa9xMXPb0CLA=="
+secured: "R4BXq2qaj5Bo5sqRUdai4xhFRwiSNaQOqA+Bcf+L6KJ2yMVYjXh3RntWlIyoFeqnjPXQk3FaJs7T9dnVP9oj+lYM1tnNnnYgR+6Vr5IpQBIHUISNcCKlzamPueNyicyIPT6HuZ0BcEQOaxEd9ZlgG7bJ8SOm2yiRzRk6XtsgOUGu0kKRS/vE3huzG1PPI8cpt1V7/8FB7z58U+AX2z3m8V6n0uvL+EBKqmWQ1jZy03BZw+vfQfmRNxBj9oPxaTzPEiCHZixAwUjLKxTyZCaKA/dHuSGidsu0hWcdnTAdEVEw6TKdVf8P05Sn5n7wzDW+;CzN6d3YBqBEYN1OIGaN3bQ=="
 ---
 
