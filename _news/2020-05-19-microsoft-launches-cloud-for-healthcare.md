@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/05/19/microsoft-launches-clo
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/19/microsoft-launches-cloud-for-healthcare-first-of-i.aspx"
 type: article
 quality: 82
-heat: 182
+heat: 183
 published: true
 
 provider:
@@ -105,6 +105,6 @@ related:
         width: 720
         height: 406
 
-secured: "kmGdO16c+p791ELYMf8l3/c7U5Day8dwpGEhVpuLCpVvkC0Pe45Kiq99ID4F5TqE52Hv2nZYgYsYh6ExpPgfXB5n18skakgWR36Wl6l9EmzPFBsFed/c+QqLkE/utOOBhglbeA8eAh9w/GwJ+cYWkFkphpJT00779UHgA5QXm8SWlQicITN1YhCa4EwsvfqcXs4oT1eN9bkLZUwBlTHbS06cC4Rl4NpBMq/sNbG7X8t+4+PIaczjF6J5UysyLpfcLv0/PlHMr6CJsGPVPNzo3aybCM/hJCCzlaNwn1CczwkZQXQDF7oYQv/qTK4ddzV0i7FOUlAiS71d/opbWGzJ7DGomLCWEcOr5LTninjBAvx6hZohT6a8+tNj51sATvoDJG8bmrS+Ver33eazqUbbfDGWUbfXegCDfX5BwQiWnXTM71wNrY1TRiRQ5ReNwg1PNSfsmfx4sz7s5oM8Lv4xM5YtAcNGwHjh/AIXpN9Fki4=;eOCwnoYEdFFWq7dAEiSv7A=="
+secured: "pScFDUSm8g2Y6DhhnZWlu/pv8rdNtcQRJqQbWptwirBfaVt+KKaHuCLHCaVlJWq6lNuFNUztnf5Kr8ctduw2L3fU8onQX7QrcuRZOnJnlmQuzMVUzq39aprXP+Xx2GbNx27b58jDITqlnRAAz+Z6qRADm7tFRr3aVWZXQFCG52EZsYceQT9yGC5ovnZejGpJjSTyLOh/a/ihqxi7mG78orUpx24E53B6eetXYmGx71fm8yzwXUsw9kczhJ4krs3FuAZn6ORUq/eV3X58U1SKZQRWJayrry2gygYPs3yQJvJQYm1rxCnLgsgccf+mZeRUY6qjXWr/DLdvzpkHyvDyXaBmTBTWvhD43EWizuZ77hl8IgKzEXeFiZqlAvMqpAQcK/p/j8y3kb7fNwbdTUS6bLGw4PnBuS5u2t8rHfvgsWH4TeJGDEzDLIilEW/qR0bIbLlj+FfgvgSsUTCjr/9ryjssgLjIAQjFQCjEe7ApW2w=;DjYTS+7FazD5ATWO1UW9jw=="
 ---
 

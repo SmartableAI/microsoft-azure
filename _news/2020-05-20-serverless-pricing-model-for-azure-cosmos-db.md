@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-20T16:10:28Z
 webUrl: "https://azure.microsoft.com/en-us/updates/serverless-pricing-model-for-azure-cosmos-db/"
 type: article
 quality: 77
-heat: 77
+heat: 79
 published: true
 
 provider:
@@ -20,6 +20,6 @@ provider:
 topics:
   - Azure
 
-secured: "/0cLxbaMcbQYUL4RzGf3s2G+9kaKkp2gtieXSMZJZa/VqO2/HDSoA+Xq4QwU5fBz9HJYufIFW9mO5A5I+xBGnxySHrkGtpIACXzqVwQZdsKI4kETPRsYUtmbzVTfe755uO1/jwQwP8rvkpp839FViz90UL1wTKZsMXsIraBNbF7SfIaErmWtjTaea8a+K7RPlwWZy+WKUoRHW+1USY9NCTbadR9xlZ75qmTWJ9yvUw3LykdFj2URjo5xRN+3UE5hOj7cY93fPDe/URaEOlSXpc8qbi+IiDfqltjWIv+givBDK6jYysUGfDkPOKsKk4Ls8aDWsxTyzTE4WOTwC7XxLg==;LM2+igav4PsBC6HLoCHdvQ=="
+secured: "krBUCv9hHlNA6GZpzu44a1MCwuJ5y1RS5oKe3z0tza5Oq6EwLP/EtpexI3BgsbB0OUJWpcZpQvTGAN9iAQkfwK9yyVzJVQFtRdwwOOxXhwQVf/0M/U1y1yZyVlHUPG3kIY4V46F6F+SGhFp96/ajKPmLZG3tClIpUVhuNwCbWYtlc2iLwihrKkpqJWKpypgAQaY0gD8u6e7Xq7UTeNwkLNdfQIb96WrVW5vJigexuUQleK1eg/E4y96utwUsbPv/I7gng49iaaFTKCINUT/ePO96YhCFw7iFCJK55JfV+xeyMTyN1qkAYVJ3+M5Ayb6WjX3h/wNoW97Kz7KzvYU77Q==;Q3GZgF8Oub9niv51FjM25Q=="
 ---
 

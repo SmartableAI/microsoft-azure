@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-21T04:00:35Z
 webUrl: "https://azure.microsoft.com/en-us/updates/change-feed-with-full-database-operations-for-azure-cosmos-db/"
 type: article
 quality: 77
-heat: 77
+heat: 78
 published: true
 
 provider:
@@ -20,6 +20,6 @@ provider:
 topics:
   - Azure
 
-secured: "eSqvRX00oYSnU90hEj5KE4IZTBG8X/RRw0RMFEep2EOipN0Zlg779oBs3zvFv0vhY4xkXjCXHVyQWlM133pL5J+jXu7we0mAzHhvgzMj84DQKFZq37WD2gGqSTXURf4sFytPDYGdBwu2ZWwv0Js61jWNS3OGjpI9Anjc1GLVeGjyfVxc6+5VrZTAtY+o/jRpUbQQkJMAnsbmkbGOmsKE5rKwyxHReG7Q7Dqpcbvv+vUodPMURmfmysWpYCKWwiwiqU+V+ZzN+TsuDUA5x0O7hGsSnv+Jv+IntD5F1WLv/acuaWMCwil98P4SNrQ48nyPof7cU+kKQuBGo7+RdJRqAQ==;O5uqJ3QPoApHCRTvv5/KhA=="
+secured: "uWVv1mbeHypLdHpGts5qKZM3xIAFjlGMrAzgNBs/oCSNOETqwt76bN9uOoIebVnpmYzQ6XW0olsxk5LOYORoYifoZ8y3QTJarpODtuDHyIY6ifDbQMq46Ixh3EFa06rSmrRfmbVmh1J84JN4AbEAiFtwd/A50TEUqXV1XFBUSYa5RwiFcYc3+QPnPKARWLrptCxfi85uhJFnc2F1EmgnEhgFOkmRM0oz+y6cSG6Sls/eogCVJ3+ldmT5yJcKtYEzNOk0JTiIa7Yx3obzU4tRmwNMGL1v1GdaRMOMorvf6nOsDOOFBk5fnJHre2eGDmF71V/BIYWXhHbGqtnZ/+ezpw==;6HSRdbRw78ZGveZVXOUPfQ=="
 ---
 

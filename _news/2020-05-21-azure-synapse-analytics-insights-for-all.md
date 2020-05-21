@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-21T08:30:41Z
 webUrl: "https://azure.microsoft.com/blog/azure-synapse-analytics-insights-for-all/"
 type: article
 quality: 97
-heat: 97
+heat: 98
 published: true
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 900
     title: "Azure Synapse Analytics: Insights for all"
 
-secured: "2WVlhDNznrQs6F8VUkCTXNtzjU85KXQd+e1Vfa12VRay3F45Q7vskdSdmuehWVYhBAY9ONSgbU/minLMHYsg4eCu++sa1emM91H8Pb5N7G229vT9E2xOi9F/NbTqEu9Ww1pnk9w4a74+wio6Zjqn+FZOti3n13sT7kiGWrhQqwwfboHQGEZqll1FRpUo2yRleE53safeigB6DdWe3kjRKKS8AGJgmFQLFZgWt9Zx1MYQGPnWI+D29F7bh+6/kRP/pKMPTlEfTlx8OoeCKoYwluP0qqREuTZU7J0Fkbg24GK7kwJN9oDajplqhX1ulHFmA+yiD7iO5U/lhQ6a0/hRtA==;sx4hdEzGq0MwQR3iHu+fgg=="
+secured: "kltIwVJ+Iaw9+p2vKcmaEU4TmFeU7rAlhmfzCbIGauwJ8JNbdcN1EO7snmd2Hj8zQU9LIKRuMxx009P1pW6fdCrZA6Mvd7yk3MRr75lGSjxguzkMTdiG9SG8BQT139fP/2tiDshLNw4qAzKf7UWGF5sUYpCu9fBoiaF9CGFAF91oj4CaCEMnfR2epl9F4l+Kr9Efp2EJDW7WL+5B7ADuQhPhD48yFbF9WUk0xWe3Wb2KzbRwFbX5eEnMfKyiDhBLJQZ+fyv7OQn2Vc1u7eJVmviB9ayXFN5eWe9BGAmoX4EiW5DP8WkifwGaloAR200gCWZRa4KYrrjlOYJd/z+d6w==;MdNqQE/l8u71He+64XVixg=="
 ---
 
