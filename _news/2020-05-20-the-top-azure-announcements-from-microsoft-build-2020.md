@@ -1,34 +1,43 @@
 ---
 category: news
-title: "Microsoft Launches Cloud for Healthcare"
-excerpt: "Microsoft's new cloud offering aims to improve patient engagement and enhance collaboration in the post-COVID-19 era."
-publishedDateTime: 2020-05-19T17:40:00Z
-webUrl: "https://www.fool.com/investing/2020/05/19/microsoft-launches-cloud-for-healthcare-first-of-i.aspx"
-ampWebUrl: "https://www.fool.com/amp/investing/2020/05/19/microsoft-launches-cloud-for-healthcare-first-of-i.aspx"
-cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/19/microsoft-launches-cloud-for-healthcare-first-of-i.aspx"
+title: "The top Azure announcements from Microsoft Build 2020"
+excerpt: "Microsoft has built a new artificial intelligence supercomputer on its Azure cloud in collaboration with Open AI, and is rolling out a new Microsoft Cloud for Healthcare, the first of its planned ..."
+publishedDateTime: 2020-05-20T06:28:00Z
+webUrl: "https://www.crn.com.au/news/the-top-azure-announcements-from-microsoft-build-2020-548323"
 type: article
-quality: 82
-heat: 203
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: CRN Australia
+  domain: crn.com.au
 
 topics:
   - Azure
 
 images:
-  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F575083%2Fmicrosoft-healthcare-cloud-mf.jpg&w=1200&op=resize"
-    width: 1200
-    height: 800
-    title: "Microsoft Launches Cloud for Healthcare"
+  - url: "https://i.nextmedia.com.au/News/20200520062800_0_0_0_0_70__News_20181029105528_crn_14_new_Microsoft_stock.jpg"
+    width: 1400
+    height: 900
+    title: "The top Azure announcements from Microsoft Build 2020"
 
 related:
+  - title: "Microsoft Launches Cloud for Healthcare"
+    excerpt: "Microsoft's new cloud offering aims to improve patient engagement and enhance collaboration in the post-COVID-19 era."
+    publishedDateTime: 2020-05-19T17:40:00Z
+    webUrl: "https://www.fool.com/investing/2020/05/19/microsoft-launches-cloud-for-healthcare-first-of-i.aspx"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/05/19/microsoft-launches-cloud-for-healthcare-first-of-i.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/19/microsoft-launches-cloud-for-healthcare-first-of-i.aspx"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 82
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F575083%2Fmicrosoft-healthcare-cloud-mf.jpg&w=1200&op=resize"
+        width: 1200
+        height: 800
   - title: "Microsoft to adapt its cloud software for healthcare industry"
     excerpt: "Microsoft Corp said on Tuesday it plans to roll out a version of its cloud-based software that will be modified to suit the needs of healthcare organizations."
     publishedDateTime: 2020-05-19T15:05:00Z
@@ -104,20 +113,7 @@ related:
       - url: "https://content.jwplatform.com/thumbs/9eFnHW1Q-720.jpg"
         width: 720
         height: 406
-  - title: "The top Azure announcements from Microsoft Build 2020"
-    excerpt: "Microsoft has built a new artificial intelligence supercomputer on its Azure cloud in collaboration with Open AI, and is rolling out a new Microsoft Cloud for Healthcare, the first of its planned ..."
-    publishedDateTime: 2020-05-20T06:28:00Z
-    webUrl: "https://www.crn.com.au/news/the-top-azure-announcements-from-microsoft-build-2020-548323"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 37
-    images:
-      - url: "https://i.nextmedia.com.au/News/20200520062800_0_0_0_0_70__News_20181029105528_crn_14_new_Microsoft_stock.jpg"
-        width: 1400
-        height: 900
 
-secured: "y5vSW3xnXYrALpuRxth2GH2YNmAatJ9GN4vD2KE/KEma/l2YE1EKwbI6oSCiXmSqwCFOmjFmdKt67RrZ3SimTwEZzwdpyrKJmqueMg60tkpgwnfs+W1jG4+gmkV6Du36BJknJU01lq6iz99dftQiKwRb0vl2tTSWHl86DY2KOfli7hdc7udXgwoXhawB8j8InFQQ6TGv6X0tUclQOhrdeZvDaW4ux2i2Wz16NXMGTv0uX6rEF3D+9JjC4OO8euGnjiq4pzjtrY+pHwGZqhsN4YZA0BnI6L2WUMXrHLGevpI8nNd+WRUGE26nbIcTnoHMuCskuLMnrruq1MmCNKkw6F3tPGL54btKHU49wIdTwLJFYrYT7ZYxkP2ESfkQHxSPOlQytAMKI7mbkeHKX9VG3wG57pIjDqDrA7xy6pbTIPHOp7dKeS30H4+JbCJU+JZiL7urMkTicsvAef1g5JVjLWsVC3JfJs4R1o0mbe+4LUo=;9dHiSHJOA78dq7io61mViQ=="
+secured: "NpAFgo377travkG6z4u96I1XZWe1MyGQ0qRKt3yK+KHFiOKaI9lW1H0z6cQ1wduvdWauLjYPME84EEXADuUFQccnDGMl63bBZz4i/r8z/FM+HLOGI2sPHjP6WlgpsioAR/vuIPSWK6bUhTtUIjufTX1KlMkFRQCUAls4SzFUYTKkr6aCsYpvTHts+N5bfCr8RgX4Ex5t/ANpN5QTevGLTgBYsWDJW/rbbUq3LWamwq19yHNeCKKhzABR4AAA47+QaW5LGWlalDzARvf+BkoFkM7foqGA2LNso6LGAeCMndD9zyJW9xrr7AX36883zQjz;hQ2TidGCTgf2cVVXyji65Q=="
 ---
 

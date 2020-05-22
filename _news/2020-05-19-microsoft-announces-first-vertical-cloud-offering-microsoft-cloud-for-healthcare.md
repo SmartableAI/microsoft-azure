@@ -104,6 +104,19 @@ related:
       - url: "https://content.jwplatform.com/thumbs/9eFnHW1Q-720.jpg"
         width: 720
         height: 406
+  - title: "The top Azure announcements from Microsoft Build 2020"
+    excerpt: "Microsoft has built a new artificial intelligence supercomputer on its Azure cloud in collaboration with Open AI, and is rolling out a new Microsoft Cloud for Healthcare, the first of its planned ..."
+    publishedDateTime: 2020-05-20T06:28:00Z
+    webUrl: "https://www.crn.com.au/news/the-top-azure-announcements-from-microsoft-build-2020-548323"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 37
+    images:
+      - url: "https://i.nextmedia.com.au/News/20200520062800_0_0_0_0_70__News_20181029105528_crn_14_new_Microsoft_stock.jpg"
+        width: 1400
+        height: 900
 
 secured: "XsLgHynDSSQyvNG7FD/cqclLo8EMXuZ0DAV2TTkSkZT8nr6GHlBuMfoB8/nilT2sqTPHTPRtGgvA02JV+7+SAIrTnIzTW+ukexFUBuhrPmlD9yvzt3VxHD2CXFtaCaHj/mAfAJbfhOIVB9qHi/LdiPFui9691V7rwTcQBl55oZFfi1AiW6jHKyh269p+4z35Q0GQq5PDK2K1CTdL+iebwbyDGq7ZbskiWr/EzzxvgP7Msl7c2mGAnRmKFLYgiQZO0EqndODKJidgNvAVLo54OuAQS437LKlEr0lhyKVsanol/JmOrP7Dp41wOSgQAIGn9mm+mBNzznQ7B6eKFW1KAeuhTS7StQMOGbENI/gYAZQ9DhkTWwnqEvvIgbcEwZ8xyJtP6zUKuKBspum7ECnz7Vzvstxm5IQgx2GKX4z6pDGYhUxm9lZ/M4PCM+tM0myj2OAOC9SUqf7APtIYJhgsxSyhIvMvUrlAxFInAIVmSRI=;Vpoki8BvLlwu+spIkQVrhg=="
 ---
