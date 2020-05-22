@@ -26,6 +26,6 @@ images:
     height: 900
     title: "Azure Synapse Analytics: Insights for all"
 
-secured: "wjC3z3n0oyJ6q1y3DyLh4JwE+9zTCVOYD6MaFCOp+QXH+MIfHSeGJArMzwhxCA2IgMxAXUYKfFfn1+iZyWxoUlO2QuR/BmY9E/Z6eisDl5Cdo8cfSmYR9abCQ4X5ZXz0VTDeP9Fs6W3uS/2LpghHNUIxrP7ilfpp09H6lHpUQKcquO2t2oZHLL6j36S1JBDzAB2t7V+BPcXbo0W4R0GvNwRCYch6oivYpjKQegzAw9vwZhHHmu0pSzQ8SkhVnx3UNE5M1H8HyPCT6f8OXhwpoYBJ2djjiNm6gkKkajhmhUY21AIjeprWPFa5brgqEZIKhugjvChVk1RvwPrS3SzjpQ==;ia2ErdhARTbYkQRf/IInAw=="
+secured: "dmxnf3NSzOfQowwSIikDpalugC9sfPO4PAx9+RawLxaHF7SPIuTMkSkn9W7Iy2ktLJeLqrp4SpS201b1PdPCLRt0KnWwPIWrXL9LaD1IpwdT/c3i3GupNIzqj5JVvSWDvBZnKkD1+Arpw45+bRiIcFo/KMuRZZxQ/WZK7k0oQ+R9RujdZXz7F3thZzVHKFqPQt14QZZSAInws1kDFSNhksdDO9j8oH2tsSa+H89gLmuV1KdEZyo6JjXsfH918I9nzL+Yj9PgGDAKtcbh3W11XZj6P0ULZPkcMVEjLa6Kaf3Lb7zvobrCYE6YgMsDgFPn5/mTeG1z2D4RP6NWYTggog==;k8AEIBoXnEvwaIH+8w6t6A=="
 ---
 
