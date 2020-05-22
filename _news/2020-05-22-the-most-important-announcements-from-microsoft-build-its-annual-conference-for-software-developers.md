@@ -44,6 +44,21 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/DLpMOz4jmOEGQJb21UUFtRfAEro=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66819966/twarren_180507_2536_0001.5.jpg"
         width: 1400
         height: 933
+  - title: "Microsoft Build 2020: The biggest announcements and sessions to watch"
+    excerpt: "Microsoft Build 2020 is over, and everything that was announced is now out there to be learned about. The biggest news coming out of Build this included Microsoft's \"Project Reunion\" effort that aims to bring together Win32 and UWP app development,"
+    publishedDateTime: 2020-05-22T17:22:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-build-2020-sessions"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-build-2020-sessions?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-build-2020-sessions?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 42
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/03/microsoft-logo-ignite-2017.jpg?itok=LlgVw_jV"
+        width: 800
+        height: 600
 
 secured: "DCOyVKgpg8BB37gxs91ACPUjkoFXaVZKKRI/dCsphCnS9glPV+bjnS4O8LHkIul8/d2ZKZsY5Vr/A+r2lTRCq8hnFHR8r18CYjdbra2cOYPGKmdaq4OU2BoXdpd0QdZk9N0eF0IBEWdMFM/Y2KddMHMqZs/6p6Xoklg7/TpGuC/TraU/I2JFGCsoGvT/2vTlHmhW4toBhmnMk+15hj46nZj0o5RH6VuEcPlFNpRMDFAsozCeQQVv/0/shRTrnccuTBt2NBWqVuCqLne756m9W2OwEQ1xs0WDUGazMlCLHc1XzRzRFImUJUURu5sps2UmsI3efmuDhhp9eJqE390JdRruF0CTNRQYzjJddgqfL1sxMh65/9fUDu/35VsFt6k44OtYGN5uGCJJYVLHGHuRTKHevZI9diwWs/EM4VgEvG5+ImgNE3iLYowx5iiMeO1AivF/zjxtwSON0bCm+FPb6Z8pnsl0wq6KBeHM+DddxJM=;xO2JPEi2SV2G2fLnUv2AGA=="
 ---

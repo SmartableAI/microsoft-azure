@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/20/21264363/microsoft-b
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/20/21264363/microsoft-build-2020-top-news-annoucements-fluid-office-windows-reunion-edge"
 type: article
 quality: 82
-heat: 102
+heat: 122
 published: true
 
 provider:
@@ -44,6 +44,21 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106340571-1579197768152gettyimages-860270484.jpeg?v=1590091539"
         width: 4000
         height: 2917
+  - title: "Microsoft Build 2020: The biggest announcements and sessions to watch"
+    excerpt: "Microsoft Build 2020 is over, and everything that was announced is now out there to be learned about. The biggest news coming out of Build this included Microsoft's \"Project Reunion\" effort that aims to bring together Win32 and UWP app development,"
+    publishedDateTime: 2020-05-22T17:22:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-build-2020-sessions"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-build-2020-sessions?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-build-2020-sessions?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 42
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/03/microsoft-logo-ignite-2017.jpg?itok=LlgVw_jV"
+        width: 800
+        height: 600
 
 secured: "aApjqfY84klgPlX1XBZJYHkesfOXoCaLh4+UlKNT5OoYOJSoabiyaZPiEw4Jrat3JEvOnqOrVGUjRwD/WQm9fRKoVnE6JvBNEoKi14vUUllIH/FD3ViVYUO88ZHlrqCVodOFkrS42wab0Qs7g8yOccFA1OAqlF0wPza7XO6aCKlL6irwhfyhSkfLV9pbUxxAYdVPkr6eezGpP5oIPBTdjjFi1gr/hTuSkbFaP7paIisXVR0de8+GqH5yqbw+xs0ZNbuqgk0mej2sjRiogmQEJw9HndhJuriQubttsQnFifb9x2JyMHkwrVWjCN4T+7xv;FLAD+Z6/DB0Lf1bXya3jpw=="
 ---
