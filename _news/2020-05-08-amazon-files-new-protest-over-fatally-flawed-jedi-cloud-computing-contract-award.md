@@ -68,19 +68,6 @@ related:
       - url: "https://regmedia.co.uk/2017/12/19/lightsaber.jpg"
         width: 648
         height: 432
-  - title: "AWS and Microsoft engage in heated public spat over $10bn cloud project"
-    excerpt: "After Microsoft slammed Amazon's Cloud arm for challenging the US government's decision to award $10 billion Pentagon Cloud project to Satya Nadella-run enterprise, Amazon Web Services (AWS) has hit back,"
-    publishedDateTime: 2020-05-09T05:45:00Z
-    webUrl: "https://menafn.com/1100140280/AWS-and-Microsoft-engage-in-heated-public-spat-over-10bn-cloud-project"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 22
-    images:
-      - url: "https://menafn.com/updates/pr/2020-05/09/I_10254b1b-1image_story.jpg"
-        width: 400
-        height: 300
 
 secured: "Q2+XC/IeliCyuWvO4s9PpswhMjl/TxcDwUVqmiX6PZeNM9+FOtn4L/iDmlZakRNc2B11YVqpKLrwCtd/kvMIPWFAmOKcPK2WaGxMT3jTOC1DkWXGXG8YvRtvp7zgN7McOx50JLAUpvpzVIZ9ytEyUSor1FsQbh07Oq78tcZpidThuvFs6/4pdsjLCDVKZZH1lXPzysuAlf2o6T4jsSz6Wwmil3Wy+dEmpwEcrL5T32TacWj9YfJ8ABih9ADNbhzGuA+DOXm6LStsX8DMBgFbIuHbhePMtk91Guxus8R1Ejm6lBxl7jOuT71AONe3g6yU9T1TkDD3YMf+/MAKw/Jr8DzpQuSeZCf/TzG2mGNqHFmb4wtgS8jcQmDO1uhexKqqjOfWVM1gGG0aK0Fz5fMW+D4jPUSqAlGsWZgu5s4y5oYKV8XLe5ZGruMZoTlvEGUo1RAi2ET6wFUGaY+vgx0ZnYk9V2iYCwKow5iDCn0yuJU=;tdAM09g/NjMHRtXuG313Uw=="
 ---
