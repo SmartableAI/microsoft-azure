@@ -22,6 +22,6 @@ images:
     height: 368
     title: "Microsoft: Amazon is drowning JEDI with complaints"
 
-secured: "tPy1J57li5B5Bf4z9l7K0JK0qX3zVQSiJan3Osk2UAjftTMkMlv16MnZcKq1DQLAnunRctUYgG1Nnoa1UNouSRe+/fl9ADV0wYeTkqmTn4gRCjiNe4jk11Do3QbmFqb5VGt/Q3z06V4oZQ69hbA1fu9R0t6a+dtWy39k0VBqALJKaOABqMRD57+/8MtPAYbyEVBjVVhW/g4Z+jz0Rl8CKYXhYdCVGrUWu+crYEfam4BBNDYMJokVRVxGr/O8CDmRgKqTPiC005Q1fRG/+Rr+kyJafV9z2PhqDagMfp/KclbeKRxC28MGE2SdRoWem2aV;d6OwBYnYeZsHAOPv1gE2nQ=="
+secured: "APYltVmvn9w6DLr/MIs2dp/L67fe+8I8xp6yGlpGIZ73SsivNsg+pk1j9/YdtVwMYsLOtNs8qSA1oTeXIU5gCLI3s2Fjqbv32LBrHllQfBymbB/+gqF+lY/Biu6NVxhZjbXpZ2nFyap6pFiowdlNYsdDrCyjSUA+dZflRUQT+guyHuM0SijwCBnXzdGDjwbHiuDdow0doZOgOo/Z/soHAb8wYGD2HdKLyc4sZ2YKwzm3DqTTJTCVTPwc3fdcQ6v9iC+obaVAaTEDe8449UbZjJpJzt5qcfGRTgU9Ae01V3POemwYjyVOfPzQEsmg9lyUhH/JSc9vJqCC8D5ej+LlzI4GP0yfPxBacgoqxC2k5v8RApwyd5kfmoFbpq62Eg+2oUZHl/V8eVvxWUVbLfQ4ZJjrZ/GuaDKKp8goPb98HXvYUjnFU7zcqN6nSpkrL/qZ3SsS3V93fHYzsY2kFBiHlSWHiqbwAFDpl1UlOTBox68=;mFghBihLt0//SvbsOoLGLw=="
 ---
 
