@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/20/21264363/microsoft-b
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/20/21264363/microsoft-build-2020-top-news-annoucements-fluid-office-windows-reunion-edge"
 type: article
 quality: 82
-heat: 82
+heat: 102
 published: true
 
 provider:
@@ -27,6 +27,23 @@ images:
     width: 1400
     height: 933
     title: "The biggest announcements from Microsoft Build 2020"
+
+related:
+  - title: "The most important announcements from Microsoft Build, its annual conference for software developers"
+    excerpt: "At its Build 2020 conference for software developers, Microsoft announced plans to bolster the Azure public cloud and make it easier for developers to build tools for the growing Teams communication app."
+    publishedDateTime: 2020-05-22T13:16:00Z
+    webUrl: "https://www.cnbc.com/2020/05/22/microsoft-build-2020-recap-windows-azure-and-teams-tools.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/05/22/microsoft-build-2020-recap-windows-azure-and-teams-tools.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/22/microsoft-build-2020-recap-windows-azure-and-teams-tools.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 67
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106340571-1579197768152gettyimages-860270484.jpeg?v=1590091539"
+        width: 4000
+        height: 2917
 
 secured: "aApjqfY84klgPlX1XBZJYHkesfOXoCaLh4+UlKNT5OoYOJSoabiyaZPiEw4Jrat3JEvOnqOrVGUjRwD/WQm9fRKoVnE6JvBNEoKi14vUUllIH/FD3ViVYUO88ZHlrqCVodOFkrS42wab0Qs7g8yOccFA1OAqlF0wPza7XO6aCKlL6irwhfyhSkfLV9pbUxxAYdVPkr6eezGpP5oIPBTdjjFi1gr/hTuSkbFaP7paIisXVR0de8+GqH5yqbw+xs0ZNbuqgk0mej2sjRiogmQEJw9HndhJuriQubttsQnFifb9x2JyMHkwrVWjCN4T+7xv;FLAD+Z6/DB0Lf1bXya3jpw=="
 ---
