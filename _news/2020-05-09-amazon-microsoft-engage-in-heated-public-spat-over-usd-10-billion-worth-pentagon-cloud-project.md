@@ -55,6 +55,15 @@ related:
       - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2020/05/09/118543-singhvi-chouhan.jpg?itok=4uLSp1Pb"
         width: 700
         height: 393
+  - title: "AWS and Microsoft engage in heated public spat over $10bn cloud project"
+    excerpt: "After Microsoft slammed Amazon's Cloud arm for challenging the US government's decision to award $10 billion Pentagon Cloud project to Satya Nadella-run enterprise, Amazon Web Services (AWS) has hit back,"
+    publishedDateTime: 2020-05-09T10:58:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20200509/3555183.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 2
 
 secured: "aLXKpt96gk253cauo8+32Ztn0Ev5XC7zF10eZfINtiMu803O3edF/EGL0mDHPnGTLWjOGcVFa+mth2VxHM0gO5LxLXHBG5Nohs4BHtXHJpx6l8wLoyLPmG2ge20a/bAN4xNxLdm/aBpKTECGPWjkMgk7hwO3eDRyz35hH3bqVKutNovKMM0OsuTWoIYX9bJPHsT2zfAeXhWXBZ5639Z0W4SyDzH4FwnRTVJFBuCeW8ZHpUzxx3xrenMut0HtudsCZCSPRUPs9wHQZTcN9tGprvnqbn4UHg+fP5mRaRVfiQCdKt1hFqj7dFhRXB5HgCxOSx5v0Kzfw39uV44/SkZnX1Kfy0n1AoZUh15ivfOXOeyfoObxT171DxIjw3lcitFsEmGw/Gid6eGIGNNSUZ9y1MkO4naZcYCorEUxfCgPaSdaHau53UkSc2ckNTOO3dMZw5LSQ3sdlyvEEKCNBbfGlwO3pkWFnUdI+/QuxhnbwtM=;72XhZMRBr9Q3eUJlJKStDA=="
 ---
