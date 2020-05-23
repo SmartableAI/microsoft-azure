@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-05-19/microsoft-unv
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-05-19/microsoft-unveils-cloud-tools-tailored-for-health-care-systems"
 type: article
 quality: 62
-heat: 82
+heat: 102
 published: true
 
 provider:
@@ -23,6 +23,21 @@ topics:
   - Azure
 
 related:
+  - title: "Microsoft unveils cloud tools tailored for health-care systems"
+    excerpt: "Microsoft unveiled a package of cloud software designed for health-care systems, starting with a free trial to help the industry weather a viral pandemic that is both increasing the need for technology solutions and putting hospitals in financial peril."
+    publishedDateTime: 2020-05-23T11:00:00Z
+    webUrl: "https://www.dailyherald.com/business/20200523/microsoft-unveils-cloud-tools-tailored-for-health-care-systems"
+    ampWebUrl: "https://www.dailyherald.com/amp-article/20200523/business/200529786/"
+    cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20200523/business/200529786/"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 42
+    images:
+      - url: "https://www.dailyherald.com/storyimage/DA/20200523/business/200529786/AR/0/AR-200529786.jpg&updated=202005211541&MaxW=800&MaxH=800&noborder"
+        width: 800
+        height: 533
   - title: "Microsoft unveils healthcare-specific cloud tools"
     excerpt: "Cloud for Healthcare bundles existing services like Microsoft 365, Azure IoT, and TeamsThe underlying data model makes it easier for hospitals and healthcare providers to analy"
     publishedDateTime: 2020-05-19T15:39:00Z

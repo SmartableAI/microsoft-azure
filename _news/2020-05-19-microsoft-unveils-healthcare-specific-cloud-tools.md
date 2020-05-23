@@ -28,6 +28,21 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 62
+  - title: "Microsoft unveils cloud tools tailored for health-care systems"
+    excerpt: "Microsoft unveiled a package of cloud software designed for health-care systems, starting with a free trial to help the industry weather a viral pandemic that is both increasing the need for technology solutions and putting hospitals in financial peril."
+    publishedDateTime: 2020-05-23T11:00:00Z
+    webUrl: "https://www.dailyherald.com/business/20200523/microsoft-unveils-cloud-tools-tailored-for-health-care-systems"
+    ampWebUrl: "https://www.dailyherald.com/amp-article/20200523/business/200529786/"
+    cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20200523/business/200529786/"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 42
+    images:
+      - url: "https://www.dailyherald.com/storyimage/DA/20200523/business/200529786/AR/0/AR-200529786.jpg&updated=202005211541&MaxW=800&MaxH=800&noborder"
+        width: 800
+        height: 533
 
 secured: "1tpA0XzzRmCwyAFfcBF5lKr5paWHajksycxH8FwZXFybzTljOgHwsLcTie8L19qJ0vs6bbtXeOcY1d0q1ksF9An9fZ8P1N9quEV6mSOz8DCU5qE/Xihy+h3G3gN9DDC6OirD7g3yetPj239RmYgdBkflSb8cvBa4U7ocj0FicSbNKt3OIaqR1G5MSkvKv0fk1D4oQG1T7Wk98hl0UlGReZk7noc6y9q5JooJZ9xiYC7Tdp0YHVJKq3czDAWthKVjfffRHYHcGUMYAGtudX6h9wqrRt6Kq6Vxznt2LXIPjsPZupx9JHchbi8Alxz+y9/b;1iMcJfOEvKJdhtWlzoEl4w=="
 ---
