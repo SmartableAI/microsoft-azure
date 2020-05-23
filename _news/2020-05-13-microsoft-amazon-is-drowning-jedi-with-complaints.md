@@ -3,7 +3,7 @@ category: news
 title: "Microsoft: Amazon is drowning JEDI with complaints"
 excerpt: "When Amazon Web Services filed an agency protest with the Defense Department seeking clarity about technical aspects of the $10 billion Joint Enterprise Defense Infrastructure cloud contract, Microsoft called it an attempt “to force a do-over to rescue its failed bid."
 publishedDateTime: 2020-05-13T18:00:00Z
-webUrl: "https://defensesystems.com/articles/2020/05/13/aws-jedi-microsoft-blog-spat.aspx?admgarea=TC_DefenseIT"
+webUrl: "https://defensesystems.com/articles/2020/05/13/aws-jedi-microsoft-blog-spat.aspx"
 type: article
 quality: 22
 heat: 22
@@ -22,6 +22,6 @@ images:
     height: 368
     title: "Microsoft: Amazon is drowning JEDI with complaints"
 
-secured: "s9rc4WHuory9RKsyvFrWrU2MvyRpKh8sifOpzffNyIAKPGZ9TzhXatydFaKSbxGwydDvn0a1j75Rj5FyFRKp0OpNRoeriQ1/Gu6ay5Bi9993bSroejPYoKo1biZlpaoXZBNg9LmXzqD9dOPmd3iJGSx5T1AtOsqi5LizEqsgYlkRRZzZ17VCRkND4ez2dycWfqzH1PSLneDWLEebPlGyIvtTvhHVAr+5RquzYczk3T2lI8Xn8khlqM5PQn4gja+L0wfR2Yau6v03hQsa0Xz+Bw3VguoJlKMVTWaiK/4vB11sYbvDnY0RLwKzfK+k2OX8;MUMkJQCUUG1A20OnwqqNfg=="
+secured: "KoKggCNXu5R4joCgZOYcxX/3xrJeeGjcWN2UMf564xBbcH/1n8JhGhTF+ZmM279XTxQpb/ZYNMDpuZUnVCToFRecBU/x+4jlMW+JsodhKPNyz7o00XRUgIh0FuT+xfwK4iCvKae8e1yvlJ5iS+LH8QSKe/1yXW6ysgPYmObQED0a7fDreTX0cvZR3mYNRiKTQ1ZPAuo89r95b7HtcrWXHOikHvIlgqhyXbKsEjvYep7PJQJm6l72GrRInuSvsUiZpD3ZV52XDXMLHlqonyoiWVN/iuI79gImnF3MUOodxlraKEhTEOJD/KssC/CHIx8N;1+cV7CCHYbItdSBH1t3Lbw=="
 ---
 
