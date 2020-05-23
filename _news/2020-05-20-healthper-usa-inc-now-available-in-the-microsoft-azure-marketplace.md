@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-20T16:41:00Z
 webUrl: "https://apnews.com/PR.com/c15f7544d93ec18a587ffc50711ba213"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -23,15 +23,15 @@ images:
     title: "Healthper USA, Inc. Now Available in the Microsoft Azure Marketplace"
 
 related:
-  - title: "ThroughPut Inc.'s ELITE Now Available in the Microsoft Azure Marketplace"
-    excerpt: "ThroughPut Inc. today announced the availability of ELITE in the Microsoft Azure Marketplace, an online store providing applications"
-    publishedDateTime: 2020-04-28T20:30:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/throughput-inc-s-elite-now-available-in-the-microsoft-azure-marketplace-838367579.html"
+  - title: "eBaoCloud InsureMO is Now Available in the Microsoft Azure Marketplace"
+    excerpt: "SHANGHAI, May 20, 2020 /PRNewswire/ -- eBaoTech Corporation today announced the availability of eBaoCloud ® InsureMO ® in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. eBaoTech's customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined ..."
+    publishedDateTime: 2020-05-20T15:30:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/ebaocloud-insuremo-is-now-available-in-the-microsoft-azure-marketplace-800602677.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 36
+    quality: 37
     images:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600

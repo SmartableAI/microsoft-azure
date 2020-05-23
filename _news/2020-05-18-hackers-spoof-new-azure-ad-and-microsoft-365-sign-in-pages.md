@@ -8,7 +8,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/355686/hackers-spoof-n
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/355686/hackers-spoof-new-azure-ad-and-microsoft-365-sign-in-pages?amp"
 type: article
 quality: 97
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -27,6 +27,21 @@ images:
     width: 2957
     height: 1958
     title: "Hackers spoof new Azure AD and Microsoft 365 sign-in pages"
+
+related:
+  - title: "New Microsoft Azure AD Sign-In Page Spoofed in Numerous Phishing Campaigns"
+    excerpt: "Microsoft discovered numerous phishing campaigns in which malicious actors attempted to spoof its new Azure AD sign-in page."
+    publishedDateTime: 2020-05-20T13:36:00Z
+    webUrl: "https://securityintelligence.com/news/new-microsoft-azure-ad-sign-in-page-spoofed-in-numerous-phishing-campaigns/"
+    type: article
+    provider:
+      name: Hack
+      domain: securityintelligence.com
+    quality: 35
+    images:
+      - url: "https://securityintelligence.com/wp-content/uploads/2020/05/news_new-microsoft-azure-ad-sign-in-page-spoofed-in-numerous-phishing-campaigns.jpg"
+        width: 1200
+        height: 630
 
 secured: "iF1DMCg4D64xQ9RUF5rXSKnAXkEKt5rexvqFQWaTEbvO9x/WaV5nLYxIU8u7XUYabKddRHvqLNXAWk1CfqZwu8XLOAMspnH71A11fRsbH9dv1KhciclVaLZbItSFilucrfe82+mdE16hl/D0khdhNsx9XPYrzxIfqmRuKrDhm3VvjTQW9C6ofVdXquGvAgmBf5w+y1NQY0wn+DrwbN0pAFF7m9fgYQGWhKa71Nbm6YdH1XQui5bb04ZDai3/7fejfkdqp/lhMveaR6nh4SBeCFjtgbuuOVWj1UaJkby5NmV5hVQ27Kesh/ekx+g+uRGv;HkUvgj6Hpo444EZzRII/Jg=="
 ---
