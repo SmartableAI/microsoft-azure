@@ -38,6 +38,19 @@ related:
       - url: "https://cnet1.cbsistatic.com/img/TEkbzdFayDjsegaDhc8T7JF9qVI=/756x567/2018/11/10/97f08e96-4be4-41b1-acdc-43595379dfe1/llnl-sierra-supercomputer-randy-wong.jpg"
         width: 756
         height: 567
+  - title: "Microsoft Says It’s Built a Top-Five Supercomputer in the Cloud for AI"
+    excerpt: "Future machine learning models will be enormous. The OpenAI system shows that hyperscale cloud platforms can take them on."
+    publishedDateTime: 2020-05-21T16:50:00Z
+    webUrl: "https://www.datacenterknowledge.com/microsoft/microsoft-says-it-s-built-top-five-supercomputer-cloud-ai"
+    type: article
+    provider:
+      name: Data Center Knowledge
+      domain: datacenterknowledge.com
+    quality: 22
+    images:
+      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/sam%20altman%20openai%20techcrunch%20disrupt%202019%20getty.jpg"
+        width: 1024
+        height: 683
 
 secured: "BpQ6AHN9szvKnuSZle4eu0MNhprAF+79EmojFzqDr8AMNWpu5tKgwnV19EmaSnNsBTrfGuKGBo3E0osemuPU0Xf14OK5SkjoumTf8nUyaJTkGUZBIcdbyq1WVN1BXPjl3k5P6fKy+5gU1Z5ggt2uffehaFfJEx9tOj2UDfDbwn59aGC5h3NYEv4JmvqbBlNxSQZMOWucSJ+IIR/+WoNFBWstsGI3i8gnRN85KHhxZUXdJReobemLIszD6DcTm8ufGBeU+Pq0LJ7tmWmuIupk05eftsVJTrQwdsvJboG8Q9E1UxmwNWMc0wfRslOZ+baHGu+NWbd+JabmFAulOh90uVu8u7B/oaIyPAbnC5fsGSXUu0uoK5Sdlhqc6+egNhMjqIFdKQKTRRE5NDhKYhdAsNls4c0qYfV90aqM0jjCT15dZzTha7oFfUu6p2w4aZUTRR8kjzD/A6Z+/HjnL58GKZZ9Q8ScWHgMpLI9zVG7ppo=;Fe5HVUE2TuouaW1nrqhpjA=="
 ---
