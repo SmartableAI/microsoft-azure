@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-21T08:30:41Z
 webUrl: "https://azure.microsoft.com/blog/azure-synapse-analytics-insights-for-all/"
 type: article
 quality: 97
-heat: 98
+heat: 97
 published: true
 
 provider:

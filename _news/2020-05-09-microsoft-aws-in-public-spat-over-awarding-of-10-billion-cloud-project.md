@@ -40,16 +40,22 @@ related:
       - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2020/05/09/118543-singhvi-chouhan.jpg?itok=4uLSp1Pb"
         width: 700
         height: 393
-  - title: "AWS and Microsoft engage in heated public spat over $10bn cloud project"
-    excerpt: "After Microsoft slammed Amazon's Cloud arm for challenging the US government's decision to award $10 billion Pentagon Cloud project to Satya Nadella-run enterprise, Amazon Web Services (AWS) has hit back,"
-    publishedDateTime: 2020-05-09T10:58:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20200509/3555183.html"
+  - title: "Amazon, Microsoft engage in heated public spat over USD 10 billion-worth Pentagon Cloud project"
+    excerpt: "While Amazon said that Microsoft has published multiple self-righteous and 'misleading' blog posts, the Satya Nadella-run firm said that 'such roadblock is disappointing but not surprising'."
+    publishedDateTime: 2020-05-09T05:42:00Z
+    webUrl: "https://www.newindianexpress.com/business/2020/may/09/amazon-microsoft-engage-in-heated-public-spat-over-usd-10-billion-worth-pentagon-cloud-project-2141152.html"
+    ampWebUrl: "https://www.newindianexpress.com/business/2020/may/09/amazon-microsoft-engage-in-heated-public-spat-over-usd-10-billion-worth-pentagon-cloud-project-2141152.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2020/may/09/amazon-microsoft-engage-in-heated-public-spat-over-usd-10-billion-worth-pentagon-cloud-project-2141152.amp"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 2
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 30
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/5/9/w600X390/Microsoft-Amazon.jpg"
+        width: 600
+        height: 390
 
-secured: "2hGc6qqe4mXrJuxQ4yrl34WqeZFLfv5G3u/LDgmF2twjQvM2/Eg0FOtPptPXd3ZHvRzCI10CA9qZY50kq+spo0L9MKpMSleIy9KEArrNXpILLH0+vF//BR29nUTKzUjq19OivatQqaHZsXTee6TDHSdFox7yWrljsbLdta/3GSi151T/B58LDOEkGXxg7rLKIK/kXJ+1/l+ntTXk+JPU6+gUvGyEv/ugAh9Nv/s/K76o7+QptkzGXGNFF/UC3lvOSLRPfT7oVY5ELj8ghBz82W6uojxm42Dhbc3B8Ekcu1d6QOr5Xgh5KeiQG+3AI0qT;zwo/9PYYPUgp0KWq8secHg=="
+secured: "9IuYYl92LlaO2//9LTGOlM8Ek21TwrFQOpGGmjBrFsDdSnEsKWmEveCjrZ+Q/w8PCYLs+1beI+Fgqs1Edr6Dr4zH/d8u9y+Fw5FKAziXjnad0saR1r9hbS0xHOrsh6rKbNJRQFLZopX7V3yl2bg0bZ+IXi4L5eh1CAAOagezu8ykujIw1yDt30KXLPQawpjJWqcsP4WnBeIJkpLpdlyN3D7PouK6qWGr1d8pMV8Kemwm2oGARGi6vPliGBiNVAtT17cj/WMSRyIDssxEvYBqioqLC8nWu+JQSeotOL2cEsZzuiJlNDhJbBlUePc2DbOmh7xnLqjRgWbP1EQIl9KknILSYtG7ypNulaAnD0624YIAJBQ1paT9NkD4k73hccKaA/SQWO8t30bjVm++5h7ErImfk83lropFMGiZ+WQl5sf1ykO2O1f3PCxESssZjbIZv0SuKyMq/UXM8h6+uxURZFj505lC5PGpuDrnEA2bvnM=;lNFiUx704JDwuLSjt/I7oQ=="
 ---
 

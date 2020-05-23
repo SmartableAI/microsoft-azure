@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/five-questions-for-microsof
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie/"
 type: article
 quality: 82
-heat: 83
+heat: 82
 published: true
 
 provider:

@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-21T04:00:35Z
 webUrl: "https://azure.microsoft.com/en-us/updates/change-feed-with-full-database-operations-for-azure-cosmos-db/"
 type: article
 quality: 77
-heat: 78
+heat: 77
 published: true
 
 provider:

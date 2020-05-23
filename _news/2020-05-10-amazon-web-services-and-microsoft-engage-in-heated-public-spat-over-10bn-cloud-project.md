@@ -40,15 +40,21 @@ related:
       - url: "https://www.thenewsminute.com/sites/default/files/microsoft_750_7.jpg"
         width: 750
         height: 500
-  - title: "AWS and Microsoft engage in heated public spat over $10bn cloud project"
-    excerpt: "After Microsoft slammed Amazon's Cloud arm for challenging the US government's decision to award $10 billion Pentagon Cloud project to Satya Nadella-run enterprise, Amazon Web Services (AWS) has hit back,"
-    publishedDateTime: 2020-05-09T10:58:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20200509/3555183.html"
+  - title: "Amazon, Microsoft engage in heated public spat over USD 10 billion-worth Pentagon Cloud project"
+    excerpt: "While Amazon said that Microsoft has published multiple self-righteous and 'misleading' blog posts, the Satya Nadella-run firm said that 'such roadblock is disappointing but not surprising'."
+    publishedDateTime: 2020-05-09T05:42:00Z
+    webUrl: "https://www.newindianexpress.com/business/2020/may/09/amazon-microsoft-engage-in-heated-public-spat-over-usd-10-billion-worth-pentagon-cloud-project-2141152.html"
+    ampWebUrl: "https://www.newindianexpress.com/business/2020/may/09/amazon-microsoft-engage-in-heated-public-spat-over-usd-10-billion-worth-pentagon-cloud-project-2141152.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2020/may/09/amazon-microsoft-engage-in-heated-public-spat-over-usd-10-billion-worth-pentagon-cloud-project-2141152.amp"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 2
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 30
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/5/9/w600X390/Microsoft-Amazon.jpg"
+        width: 600
+        height: 390
 
 secured: "isfVmFJ9UHDgD1iESWMy7TcD+dH9yO2qJ5pQDzGxaup3SlS94KZo/1fJ7QDLbrg1hUrIoVEmdno8XIjKyEhuJ48vgH3j4VBaO7H5DyGgL4p3ma9TXcblYdMazSYi11WQx5JMWGZ6G2X5VrziiRvxz1uB65zoJkePKTQNIXGwwcgo28oQerey84xSGsOPVJxqsW5utkLJcue1IhrjpJXORozPvY6I9MOmFaHxK1oRzhMnANPg8WuTTsplsIPb/bu0JQtxtq2rmpZJbVpvAEAmBHtobBuQM/kmtvOnZeZMZrKaraSHMaIbHJbQY6xLZmSu;v91OGFEBHUOazFqv/h6nCQ=="
 ---

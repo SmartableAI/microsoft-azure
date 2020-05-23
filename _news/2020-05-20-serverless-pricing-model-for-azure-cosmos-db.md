@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-20T16:10:28Z
 webUrl: "https://azure.microsoft.com/en-us/updates/serverless-pricing-model-for-azure-cosmos-db/"
 type: article
 quality: 77
-heat: 79
+heat: 77
 published: true
 
 provider:

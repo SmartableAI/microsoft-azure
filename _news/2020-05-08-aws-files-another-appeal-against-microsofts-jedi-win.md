@@ -55,6 +55,19 @@ related:
       - url: "https://regmedia.co.uk/2017/12/19/lightsaber.jpg"
         width: 648
         height: 432
+  - title: "AWS and Microsoft engage in heated public spat over $10bn cloud project"
+    excerpt: "After Microsoft slammed Amazon's Cloud arm for challenging the US government's decision to award $10 billion Pentagon Cloud project to Satya Nadella-run enterprise, Amazon Web Services (AWS) has hit back,"
+    publishedDateTime: 2020-05-09T05:45:00Z
+    webUrl: "https://menafn.com/1100140280/AWS-and-Microsoft-engage-in-heated-public-spat-over-10bn-cloud-project"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 22
+    images:
+      - url: "https://menafn.com/updates/pr/2020-05/09/I_10254b1b-1image_story.jpg"
+        width: 400
+        height: 300
   - title: "Amazon files new protest over ‘fatally flawed’ JEDI cloud computing contract award"
     excerpt: "In an increasingly sharp war of words and legal maneuvers, Amazon Web Services Inc. is stepping up its protest of the Joint Enterprise Defense Infrastructure cloud contract award, asking the U.S. Department of Defense for more clarity around corrective action it has proposed taking."
     publishedDateTime: 2020-05-08T12:17:00Z
