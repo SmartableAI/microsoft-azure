@@ -117,6 +117,19 @@ related:
       - url: "https://i.nextmedia.com.au/News/20200520062800_0_0_0_0_70__News_20181029105528_crn_14_new_Microsoft_stock.jpg"
         width: 1400
         height: 900
+  - title: "Microsoft launches Cloud for Healthcare, its first industry vertical"
+    excerpt: "Microsoft has launched 'Cloud for Healthcare,' a bundle of cloud services and tools for healthcare providers. The first in what is expected to be a slew of industry verticals, the cloud package is available in public preview and as a six month free trial."
+    publishedDateTime: 2020-05-20T10:03:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-launches-cloud-healthcare-its-first-industry-vertical/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 22
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
 
 secured: "jNgRO+7BDIUdf5mP6Y3P9oxyRLVOan/8P0XLxjU2wDoqBETebfs9WWQ5g3CFq8c4v5f8Tu/+zhOfMcXq4QnykMKzsbysW8VeMt6XO7evjOqVNwZtQgw523flfzFZvh+0j8KBWTpWE8vpPPRntNjjbKr4VLYIF7y4TSaHPctmrs8YAkpbj2gbrjPZ9aWutOSJ8Hy19upikpSh0kOlqwz7zPQBz7YAuXSPdP683nYFrXmr8OpFnHmaqfnO4Nzq4gMrL81UxR6yttdhbJ4ebF1qcKS2leVF1Y58gnSscr6gNSCtI2QJs+Vht04mI7PH6n+Z;bS0xv+kFnu+4qiZOKWFX+g=="
 ---

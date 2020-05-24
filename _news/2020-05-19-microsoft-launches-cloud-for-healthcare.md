@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/05/19/microsoft-launches-clo
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/19/microsoft-launches-cloud-for-healthcare-first-of-i.aspx"
 type: article
 quality: 82
-heat: 202
+heat: 222
 published: true
 
 provider:
@@ -117,6 +117,19 @@ related:
       - url: "https://i.nextmedia.com.au/News/20200520062800_0_0_0_0_70__News_20181029105528_crn_14_new_Microsoft_stock.jpg"
         width: 1400
         height: 900
+  - title: "Microsoft launches Cloud for Healthcare, its first industry vertical"
+    excerpt: "Microsoft has launched 'Cloud for Healthcare,' a bundle of cloud services and tools for healthcare providers. The first in what is expected to be a slew of industry verticals, the cloud package is available in public preview and as a six month free trial."
+    publishedDateTime: 2020-05-20T10:03:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-launches-cloud-healthcare-its-first-industry-vertical/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 22
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
 
 secured: "IZVXTxxpucij6XDuo5aTRMhcQECe1X4zCL/vm6cag3KxIiSoDDoPdM1jpXDaaL7olxhwByjOLVh2zTvTT+29/mowZCrIcdcXcaz8uZX8q/Pwae2M/v+DzMRz6xBfkyGhmItszYllR+w30MGO1ycs4G9O2rR7oOcmUB1HmutA7q0WPMToi/k1Gdhe/WPoBx7fm8jwaqpl79j2m5PqdauEhISvRZ8Zc8BSTZEa0f9TFmV7dDYfDe4c8yV+L/PoPJ4v8GQw4wZEA0IHxthGLUVURuS09tbMbxzODqVbnA4DeeO5jmwpaO5CaVCOjW3yAAX4SDPMKe8XpASYnV2ak/cdNpaB8e9tFuBJPIwaTV+ACPtmWwsEBZrHg2Zxh76GMpox16th6duu9d5Y51RdAauf3RFUzZEjERC3ptFGvZn4qB1MlKj2KM32uTbD2rYp8rXjXHU6VAvSKNMtB86+5RgMlvGSRmdeajdP8JA2WwTmCPo=;RMrcswiW6HR3AdMcoXDuWw=="
 ---

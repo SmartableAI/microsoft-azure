@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Microsoft VP Explains How Its Cloud for Healthcare Will Reshape Industry"
-excerpt: "Microsoft Cloud for Healthcare is the first of many custom, industry-specific cloud offerings Microsoft has planned."
-publishedDateTime: 2020-05-20T21:10:00Z
-webUrl: "https://www.thestreet.com/investing/microsoft-explains-cloud-for-healthcare-will-reshape-industry"
-ampWebUrl: "https://www.thestreet.com/.amp/investing/microsoft-explains-cloud-for-healthcare-will-reshape-industry"
-cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/microsoft-explains-cloud-for-healthcare-will-reshape-industry"
+title: "Microsoft launches Cloud for Healthcare, its first industry vertical"
+excerpt: "Microsoft has launched 'Cloud for Healthcare,' a bundle of cloud services and tools for healthcare providers. The first in what is expected to be a slew of industry verticals, the cloud package is available in public preview and as a six month free trial."
+publishedDateTime: 2020-05-20T10:03:00Z
+webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-launches-cloud-healthcare-its-first-industry-vertical/"
 type: article
-quality: 41
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: TheStreet.com
-  domain: thestreet.com
+  name: Datacenter Dynamics
+  domain: datacenterdynamics.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://content.jwplatform.com/thumbs/9eFnHW1Q-720.jpg"
-    width: 720
-    height: 406
-    title: "Microsoft VP Explains How Its Cloud for Healthcare Will Reshape Industry"
+  - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
+    width: 1200
+    height: 630
+    title: "Microsoft launches Cloud for Healthcare, its first industry vertical"
 
 related:
   - title: "Microsoft Launches Cloud for Healthcare"
@@ -100,6 +98,21 @@ related:
       - url: "https://content.jwplatform.com/thumbs/6UhcmMhw-720.jpg"
         width: 720
         height: 406
+  - title: "Microsoft VP Explains How Its Cloud for Healthcare Will Reshape Industry"
+    excerpt: "Microsoft Cloud for Healthcare is the first of many custom, industry-specific cloud offerings Microsoft has planned."
+    publishedDateTime: 2020-05-20T21:10:00Z
+    webUrl: "https://www.thestreet.com/investing/microsoft-explains-cloud-for-healthcare-will-reshape-industry"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/microsoft-explains-cloud-for-healthcare-will-reshape-industry"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/microsoft-explains-cloud-for-healthcare-will-reshape-industry"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 41
+    images:
+      - url: "https://content.jwplatform.com/thumbs/9eFnHW1Q-720.jpg"
+        width: 720
+        height: 406
   - title: "The top Azure announcements from Microsoft Build 2020"
     excerpt: "Microsoft has built a new artificial intelligence supercomputer on its Azure cloud in collaboration with Open AI, and is rolling out a new Microsoft Cloud for Healthcare, the first of its planned ..."
     publishedDateTime: 2020-05-20T06:28:00Z
@@ -113,20 +126,7 @@ related:
       - url: "https://i.nextmedia.com.au/News/20200520062800_0_0_0_0_70__News_20181029105528_crn_14_new_Microsoft_stock.jpg"
         width: 1400
         height: 900
-  - title: "Microsoft launches Cloud for Healthcare, its first industry vertical"
-    excerpt: "Microsoft has launched 'Cloud for Healthcare,' a bundle of cloud services and tools for healthcare providers. The first in what is expected to be a slew of industry verticals, the cloud package is available in public preview and as a six month free trial."
-    publishedDateTime: 2020-05-20T10:03:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-launches-cloud-healthcare-its-first-industry-vertical/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 22
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
 
-secured: "aUKGCNY4AADj8qaAiZJwh7VwSzJIKGgfEYKt8PDqdSFhvY9EwpipBaRUw8h/oUzr6mQhZ57nXRzQsonvtyksKhYJwxQ1RjxtKj3s2FebymZC9xNxw1FpEcDF8Qk2A+PZvRfipuR4WW+14b9lJrmyAhJprumHC6kf3rmoHhjHCaAsOTa6TZHY3CjZnjLDtvulySEQ921/ERobkFf1+s0SQ+1TSjyZ4q8KkepGJsMYexNHC3ihCRPI/x3LXAu3CXIKNpTL/fILRbH8sevAbRWhwn9L98gqFjpZljdqFNbiAzNnsS7cIU7Qq+4Cg5jF3ISdDqENtrZZ9Z6Ay5bIsCz84JWzUuEmlXjk7giIkXJgFGToYLosZjzRGf5THAsehuI5DmnRUKZjxkOPGdXJUJa+DRsB4vSF345fN8T9B0g32UKyaXVWrtbRYKxPF7uL3oFLYkw7Tx5L20Ek9+hrgj2pUpmjOuDlnlZ3EHZ35HBW+k4=;6EYuRISu2mvp3Hcv3y/1Xw=="
+secured: "FYSfGdYXAoYa0igb9xdR1/cn7RGBOoGqAfMTjLhrh0jJGdZeWttHOOwCK1jiStmeijn4TpoBHBJ1CloyhAgTLfT7mpqH+LaCulgM/SV/2k3BAiX3nLqHq0pr74mBkZd8op6bYyNDuZnA4M5FU/Z2f9TdLOyRrHMHmRg46kgzmkXe55DozfuPTrQLEoW3GL+wO8bX5Pgbb+yXqAgZ7jhpig0GMUNlUuzanovZPyslzD1woc9ghvQXGerDdsOZGzxtTr1W4SL6DE1dQJ+YQgo2O9HYqxUJEcp0gyComtQToINGoxJ2SHi1vvZ5mXXufU5P;ouKBXvbSBq0SW9ytG2hSXw=="
 ---
 

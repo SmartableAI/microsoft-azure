@@ -6,8 +6,8 @@ publishedDateTime: 2020-05-21T12:47:00Z
 webUrl: "https://www.businessinsider.com/microsoft-launches-cloud-for-healthcare-2020-5"
 type: article
 quality: 52
-heat: 52
-published: false
+heat: 72
+published: true
 
 provider:
   name: Business Insider
@@ -25,6 +25,21 @@ images:
     width: 1200
     height: 600
     title: "Microsoft is rolling out Cloud for Healthcare as its first industry-specific cloud offering"
+
+related:
+  - title: "Microsoft's 1st industry-specific cloud product is for healthcare"
+    excerpt: "Tom McGuinness, the company's corporate VP of healthcare, said expanding to payers, pharma and life sciences is part of the tech giant's plan."
+    publishedDateTime: 2020-05-20T15:37:00Z
+    webUrl: "https://www.healthcaredive.com/news/microsofts-1st-industry-specific-cloud-product-is-for-healthcare/578295/"
+    type: article
+    provider:
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 22
+    images:
+      - url: "https://www.healthcaredive.com/user_media/cache/9b/db/9bdbcf9f6a563d032837efbed204fd23.jpg"
+        width: 770
+        height: 364
 
 secured: "Gj428wBLSP1gAeLiW6f8bYQhHe1qV0P9bL5+rMgUcU1UjLLl2Of+QVg92sFaB4qitfedd70Yaw67Hr9MAIdxK2nPih5TqHDC+mZWeAyndMaCIe38+ovzF37ONva8DjL7/EDNiy22Akg8I+7oTWzaxS/KCE8VZBJlPNcSKkYnzHMeq+PNTQd5rCESPDbWkfFYyZLj40Ki9Ht19sdcwywJQNYNoNpm7xIxN4y7xKtg2n2laJsIrArPK8mm9XqFTtGof1dHEpq4xoiA9NbP8jMR8n2x4kKyKP/IIVbIpBnuo+MRr428V4+l+/+zgCDhhuFkqNUTVRMcUiy1juEFAsmmKhsQlXVez8/kEEknx66K8PhFUAcXpKtaAFhfO0XdnbN71d4hkZ6/5a30DkedtIR0faGz6FFkaI7r/1OxsZ1C3JtZNgWwZ2ijBrkTMIILNNlHjGJIAJb1JKR4O8jt6qTL1twGPseMjilPxvrykaPM97k=;BG/kzp+Q2s1TJNZ37Qd3bg=="
 ---
