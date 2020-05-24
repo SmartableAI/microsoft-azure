@@ -28,6 +28,6 @@ images:
     height: 428
     title: "Microsoft Weekly: Build 2020, related updates, and Minecraft at 200 million"
 
-secured: "UqsZCmqaERmbsyIB4wXR7761P7hPCh1garZLNpYbuXfq908r1++CVxAvW/07t0K6XZ8rCjjGyv5zhMBmuBdG2plAbxD2/EcQpo53bMF90561PNPRWAuzwJRCjOWVvN1DvXkQgeZRFcfMG30d33QPqFLLhn/NK8nSC8DuvlFqmgM2hKgjdLt1IV1I4wJjqtnxSa4Ax32WhAc3T9L/19M31fBUO+Lv2Cs60OIHfIttQCBoiJGsozOBq/fB+mS4n4SCmOgricUYp0OL2rtaTwtDzK3Gds5kk2uPKcE441Iq//IYdXhaJwjzgbHhv4glFWaW;zUchHpbeEHbcDG2DEY4A5g=="
+secured: "K2Bg6r8v9fhCkR7Sj7LiQ5t+wV0Vs3FYQBCVYB0sEEQUZHmoKhVCVd+H6SKodj5rCw3PISCHwyCTv1wW5RoxUNvbBjyNi5nyQv4jiiK0oi/Qo8FxE+j7h+gmyWUR7TWxwY2QmFOXcsPP8BxZf0cP6VzMv3Jds/ysajvS8ueQXMmxVqUzSaN78EVJiWW2k6jGoIp1rfYiMhBoDh2Jb+Nhe3SelbbrgxVkSpkC2w5aUPM+pfVhha4h6MKy55wEmIn8OPKTNluKDjVNNQmHH/YFS3th8FyqtH9byR+dPJLJetGp7Hw5GQuDI5/6tP9xM+0ONnpLlKM+zoL2xlwjNdIvB+h69z8Ru/HS43ozSnOFh1gm2IrGpKD4z7q3ePC7Ppuc+DMrY4L6jdrBKIYYHmIQZ8WTtPrmMi5as0ULG6d+uRPTRuYZzLfj6GW3UF0DVGbxKT2i/FMWb+nJNmb//jSnzjN/tGJxoVgj+cVOOuTY42w=;PYPhR9IN9jbp6W0IYXixGQ=="
 ---
 
