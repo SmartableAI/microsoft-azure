@@ -24,18 +24,18 @@ images:
 
 related:
   - title: "Healthper USA, Inc. Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Healthper to take advantage of the scalability, reliability, and agility of Azure to drive well-being."
-    publishedDateTime: 2020-05-20T16:53:00Z
-    webUrl: "https://www.pr.com/press-release/813120"
+    excerpt: "Hamden, CT, May 20, 2020 --( )-- Healthper, your well-being architect, today announced the availability of Healthper programs & challenges in the Microsoft Azure Marketplace, an o"
+    publishedDateTime: 2020-05-20T16:41:00Z
+    webUrl: "https://apnews.com/PR.com/c15f7544d93ec18a587ffc50711ba213"
     type: article
     provider:
-      name: PR
-      domain: pr.com
+      name: Associated Press
+      domain: apnews.com
     quality: 37
     images:
-      - url: "https://img.pr.com/release/2005/470793/pressrelease_original_470793_1589990219.png"
-        width: 1280
-        height: 720
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
   - title: "DataVisor Now Available in the Microsoft Azure Marketplace"
     excerpt: "DataVisor, the leading fraud detection company with solutions powered by transformational AI technology, today announced the availability of dVector a"
     publishedDateTime: 2020-05-19T12:37:00Z

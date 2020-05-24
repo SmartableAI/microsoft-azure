@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/10-microsoft-teams-a
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/10-microsoft-teams-apps-for-working-remotely/"
 type: article
 quality: 82
-heat: 82
+heat: 83
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 675
     title: "10+ Microsoft Teams apps for working remotely"
 
-secured: "yAlsdUJpvc2cO/q5R01Jy+mcHwzcuIwx5rTYtmIWW2p7mVS3jrh1xylpz6QgrhicAaY1f9pqGraaMRCYBoTz48ragzKnASOO4W8vWi7WJ3T7p36ukojhITyU9EKBdvH/SaZL2AxmE/vxXL4MdnkF4wyIGfIFCzOxHcEQwCr/vdJ9atCQ+3wBtDFrkM9r2z6UBV/nQYdtIHZ+AP3jpgENC9ueQNlsccBIle9wsDcAABnFFr152oy1YNdBRdh932z/j2q1Pl2e7eItRqkgeNDYnm2cq9Xaw+3XODKRT2gyCy88wYne14zt1NGRPywBMH+oedNjBwMe9qX2esU8QDqPNwHmOUySJT8U+7QasZyqsPIdn1VnVQkfFSXK8Gt3Hrs2O2ftRLs/228xX2Iei7gUjugxJxDGnUc9rVsKiTKOJhrg7/K7JPP3O7B3fa5hnlJFiGYJa/mpi3z8osGHNAPus20VUAFtdz+3wgU/vm6mLTk=;lofn5b0JZV/+i7NrpOlfvQ=="
+secured: "acTWAlL9Mol7G+FB9N8vgamT5UvGN5IgHvv2vnlTe0H/b1uvY9jPurW/7HS+EDLoomeCEs9GsZfpfw7Fw+V3wmWWG3d9DNnRSAtw7na6e1CIkH9I9UGjoGfPzRus03Q+Ty8/Oy626ZfKqlxNt9fgAz4Amn5vBOAS3qtNlY/ZbDltIH2gpLzeb0SBmuBY11zXR5PCgLgPlP3dA7PfW67g+lYgfLZV98qxxwjWcfeEZIclA6Gp8UF17p8SsT0lUNPfx3tVAukyyFeFOkByDgivGJQxX8/VNHgUrDYelwcbTtWttISbL0EgUXZedQxuVU7mPU0SkFCX1hBw13icd9N8x3HE0uGOGwsJnRRcw1FW4pr23FEGCNUtFLH4WlpNwOwCiaqbvUOP2qJryBGK5VlfIhEnUK9wELHWUtnCVVTU+hkL9zN9NaPP4alzfeaeN7MFRzAg73TNs6IIIVq3DsY+lOh+lAOy4xVn9iIdujbZwFU=;V32PzHF02clFnixT7RVL/g=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/05/23/the-pentagons-joint-ai-center-wan
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/23/the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley/amp/"
 type: article
 quality: 82
-heat: 82
+heat: 83
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 600
     title: "The Pentagon’s Joint AI Center wants to be like Silicon Valley"
 
-secured: "OdGkGk9KAk7su8CDfLI24NyNEyndhC5r5oGbfNS+nIZ1FmumAHv9+CasJle7i043X+W12/rJJmRWf4I9eSl97XCgTkbBYKBGtC0//jP4gALsawo1UW9CEzlvZDh1MhqSTBexaocKq/uwRNQ+79ne45SpRRdnKoVtO5rUQgA/N8CF0hrgWKZoPj5nRqvk6I6XMSi/XJUKRQ2lb+9RsviA07WCQtFMORxN4fc9fb22EiGWoOBANc9LajWlqHXqcIswLRMX2wJVnVKlgQtE2rbZ+aT/BiLgrXeipudKj8/vSyKD64Zpr5bblegRq796YBGCGnqM+9/mhL0dRwQ5yYvnbfq1jWe697qeRWCjwhVT/ondZGDvgvUJI09GHZBkvK3MmqXqvaVvuvZDK6gAY8qqT6JQjBr/CBo3iL30iEa2ML3u14xuOnfRaOyRM1ELSOh1MXkkgQlM3ZoT3qwjrU6N59nD5FLz5OELZ/ixaNcNO4c=;4WHsZvF/0MiNMMyXU/+8EA=="
+secured: "fZtUVVKyNMNwVOuqaLkOffpeBfDsOYAPGs5LNoZvQ/ppRcuJkQUQcgouAl5CJzr7HBj0XSnTtnK4gj/43Mm77RbSiZaMYNaOP2UhZaWwlLkKOW6bA9sRvqj4AeG4p5Irdnu3rcx+hxfE/p6T0HO90RRGWwIPvz11f6HS2dDt4x4fuSN0667ZYfRWWJ3TAx37GyKK+Ghcf9GEjx9LxnFZrsZQdJ/yPXQyPL6Qqm6AO7wQYZKUJQQ2D9IbSkGy1J7YvK4bvNHHknADyWrMgf4I1p217yRpsIHONoay8G86x1DX/aBUO7+8W3Qigy1ve+3dGE1fzikCNrXi2jfPzGhHXw2K8URCIFb/KfbZkHJfZaGrFnBXMCAXOtxSpSIVz9WKoRqrW0XAqob0d9Pqez+ygUXPlIDKfaL+ObovQKnJ4qptxTk65/UQ9Lpmnmd5S6G//bo6DCrEDbxYv4w2NCRfdLJfe5r6fRqrS2AKH8cJB78=;DsZZWp7V7Q4As+uweK0Hdg=="
 ---
 
