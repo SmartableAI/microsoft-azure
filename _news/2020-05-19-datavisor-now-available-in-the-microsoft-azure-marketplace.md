@@ -31,18 +31,18 @@ related:
         width: 600
         height: 315
   - title: "Healthper USA, Inc. Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Hamden, CT, May 20, 2020 --( )-- Healthper, your well-being architect, today announced the availability of Healthper programs & challenges in the Microsoft Azure Marketplace, an o"
-    publishedDateTime: 2020-05-20T16:41:00Z
-    webUrl: "https://apnews.com/PR.com/c15f7544d93ec18a587ffc50711ba213"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Healthper to take advantage of the scalability, reliability, and agility of Azure to drive well-being."
+    publishedDateTime: 2020-05-20T16:53:00Z
+    webUrl: "https://www.pr.com/press-release/813120"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: PR
+      domain: pr.com
     quality: 37
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://img.pr.com/release/2005/470793/pressrelease_original_470793_1589990219.png"
+        width: 1280
+        height: 720
 
 secured: "8RK76LJIqRe9jigniHebHGHFKKMXOu8KB/njFYyNLSGT82VqZOTo77/Bd5AAxrosoEjpEG6QFIdsDLSZmOb6S/5WPbL0v6v5DtgLwC8RgjmlwO+qQIH7BOzJING+3wfQevaBOz4nilP7a3IklK8Qo6FJH5X9iAXf8fuLYg8tNwIVTAIt9PJphxYWMzfnfZySdfWl7H7poB59cqb2CrUnAs/WKebM+n9yvy0HHye9bTxRQmNCo4SJBRQpXOcnwknnztNLDbDX6NG+Zg3NccFLnSkDi+hTastprzQ+XoDQtpCXHXRJQCl27XEpS49IZCTu;sEQMLXg2hPA8Tu8WJSfxsg=="
 ---
