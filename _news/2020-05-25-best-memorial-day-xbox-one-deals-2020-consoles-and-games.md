@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Best Memorial Day Xbox One Deals 2020: Consoles and games"
-excerpt: "Ditch the disk drive with the Microsoft Xbox One S All-Digital. This console comes with download codes for ... This bundle includes an Xbox One S; a full-game download of Star Wars Jedi: Fallen Order Deluxe Edition; 1-Month of Xbox Live Gold; 1-Month of Xbox Game Pass, and 1-Month of EA Access. This bundle includes an Xbox One X; a full-game ..."
+excerpt: "How do you choose between the various Xbox consoles? We’ve taken some time below to describe each option in a little more detail. Microsoft currently sells three different Xbox consoles — the Xbox One S,"
 publishedDateTime: 2020-05-25T16:57:00Z
-webUrl: "https://www.digitaltrends.com/dtdeals/best-memorial-day-xbox-one-deals-2020/?itm_source=2&itm_content=4x6&itm_term=2496699"
+webUrl: "https://www.digitaltrends.com/dtdeals/best-memorial-day-xbox-one-deals-2020/"
 ampWebUrl: "https://www.digitaltrends.com/dtdeals/best-memorial-day-xbox-one-deals-2020/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/dtdeals/best-memorial-day-xbox-one-deals-2020/?amp"
 type: article
@@ -28,6 +28,6 @@ images:
     height: 628
     title: "Best Memorial Day Xbox One Deals 2020: Consoles and games"
 
-secured: "XDI7GSSTnX8vimQFGBzC1Rb/2ogbdXtpCzajm1lWtAb+XRNTlH9U464HWCi6UHoObYvgtU0xeRiNNKnX5g6uk27cYaBXrd4NypsKWLZNEHMCD/X57aPUd2oervaCwCBwNZnrPdp3K8d36qddEhiuyBFrIR/AMRlZrN6W3Gfaz1RXJ/dVzsdmG/DcbnbliqL6o6b6lSeLhFx+rJ7zPz9V0A9AnTC4YrxQoZteq1uZAwqWXD+3IebzbUyhvc9zGqRsk0IHpSEatfANAQVk2u1aYzIZXTP08nVXH6cIx5gDVhnCDi2WNyB4T08vfhS4ZFI2;qCZk8zUO3hdu0FgkgJbPdg=="
+secured: "WdyDsAdM5UCXLFWvsrVMvGPMmyG3M+1uIJ3e1L5cEOrgme7lvpioSCG3lXlU90TTQUCUH1EUn1hxHFyppw4CM2sRBZOhDXaLCfrp3gXhc1uObo8hgTOuNI2cjVzQiSFlTEhODhFuxsvc8A1iqsNes0hEA4mF452/b+eAcQd4xgzL+GGjt5BZNF5VCZlfa1JPNgkwgRLNOrI/YveWS9YhdVEIERPrOa84qUnOcu+z/wR1uEy+v4bvqBbJJTuuaKTT6pjOHj9bJ+MyJcV4zalHd2jcoZPbqRRpkEnL38AOsogkceEHYZvaLRvTgwM5P/P+;7g0xOB2QshJM5q5O832DNQ=="
 ---
 
