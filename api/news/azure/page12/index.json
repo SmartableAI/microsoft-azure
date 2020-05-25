@@ -2,6 +2,51 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-02-18-azure-offline-backup-with-azure-data-box-now-in-preview.md",
+      "title": "Azure Offline Backup with Azure Data Box now in preview",
+      "excerpt": "An ever-increasing number of enterprises, even as they adopt a hybrid IT strategy, continue to retain mission-critical data on-premises and look towards the public cloud as an effective offsite for their backups. Azure Backup—Azure’s built-in data-protection solution, provides a simple, secure, and cost-effective",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/azure-offline-backup-with-azure-data-box-now-in-preview/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-18T01:00:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/3480941d-7a91-4521-b196-d0bbab7c616b.png",
+          "width": 1054,
+          "height": 581,
+          "title": "Azure Offline Backup with Azure Data Box now in preview",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
       "path": "_news/2020-02-13-sql-server-runs-best-on-azure-heres-why.md",
       "title": "SQL Server runs best on Azure. Here’s why.",
       "excerpt": "SQL Server customers migrating their databases to the cloud have multiple choices for their cloud destination. To thoroughly assess which cloud is best for SQL Server workloads, two key factors to consider are:\r\n\r\n\r\n\t\r\n\tInnovations that the cloud provider can uniquely provide.\r\n\t\r\n\t\r\n\tIndependent benchmark",
@@ -1240,51 +1285,6 @@
       "topics": [
         "Azure",
         "Networking"
-      ]
-    },
-    {
-      "path": "_news/2019-11-04-simply-unmatched-truly-limitless-announcing-azure-synapse-analytics.md",
-      "title": "Simply unmatched, truly limitless: Announcing Azure Synapse Analytics",
-      "excerpt": "Today, businesses are forced to maintain two types of analytical systems, data warehouses and data lakes. Data warehouses provide critical insights on business health. Data lakes can uncover important signals on customers, products, employees, and processes. Both are critical, yet operate independently",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/simply-unmatched-truly-limitless-announcing-azure-synapse-analytics/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-03T22:00:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/ee753f4b-675a-405f-98b2-01d4a85034ca.png",
-          "width": 1024,
-          "height": 576,
-          "title": "Simply unmatched, truly limitless: Announcing Azure Synapse Analytics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Analytics"
       ]
     }
   ],

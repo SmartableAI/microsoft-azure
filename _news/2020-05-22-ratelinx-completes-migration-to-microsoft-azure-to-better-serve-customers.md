@@ -1,25 +1,27 @@
 ---
 category: news
 title: "RateLinx completes migration to Microsoft Azure to better serve customers"
-excerpt: "RateLinx announced today the completion of the migration to the Microsoft Azure cloud computing platform. The migration will enable more capabilities within the RateLinx suite of cloud-based logistics solutions,"
-publishedDateTime: 2020-05-22T00:21:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/ratelinx-completes-migration-to-microsoft-azure-to-better-serve-customers-1029225453"
+excerpt: "MADISON, Wisc., May 21, 2020 (GLOBE NEWSWIRE) -- RateLinx announced today the completion of the migration to the Microsoft Azure cloud computing platform. The migration will enable more capabilities within the RateLinx suite of cloud-based logistics solutions, in addition to ensuring better security, scalability, and uptime for their customer ..."
+publishedDateTime: 2020-05-22T00:00:00Z
+webUrl: "https://apnews.com/3eac544c12c981daa695e772c611cb8b"
 type: article
-quality: 56
-heat: 56
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
-secured: "XU0w7V3pa67OCIweX/H79YEClCc1cEeCb1b4y40x3u85PtPkwQCYQmQpbIZzodW+0NqguSEMsGhhpgvc0bk5A+90fT/z98zSpiJLH/N76laU/+Sn1VfzP8i1wxeOhDxg5dCd1CLQGDI7BI3/mVmgXhXBsrpxHJM2k2mZzAJ3gT3FSqEKfp7qayQNuFlWGBMsP55AGj71uAU5QNZtmxigygTmgHJcq26XRMWZqG9jt6ihEtSwVEfrwC3Snu8/yNAISzXQ+V6o8LqVQOINiGy7dUEVWP7kieTrXbZUA3yVqLXaLCULf2yy+1y4YUlbyiX7;a4jkOVm5uhbSnWQKCGIEEA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    title: "RateLinx completes migration to Microsoft Azure to better serve customers"
+
+secured: "fQD7uqVUGA8vNLNvyOOgAMFllTTGYaTajyvNJOseRvWRWtp4TWOGdJnkJuVgtDsKyu2UmApsqs+REWklUwTVCqeCb/fBFNNp2NuVUkvYyCHiwRRilCyvmWB38gHuAmlygs3DPWpG3q3FXeyEHyUyMvIRt6N3UXBFUIPPi+eMhZy1hw9pH2wRyM+rIthErvJHaBV8mCAjGphsHt1tUpPpHJ8s4Y3Bj64M7S9Awtk1TmJvy1MGVtkfs8vEaSBxTWTI2zqrieHkY93pROpmRHsxcDBrd+9D9IUmah9JYh1yTHTY/4ou0RjE4g6ZI0UaWLnA;Vj8rOJVS6nLabKU5ANaIcg=="
 ---
 

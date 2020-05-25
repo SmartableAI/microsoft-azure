@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Healthper USA, Inc. Now Available in the Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers worldwide now gain access to Healthper to take advantage of the scalability, reliability, and agility of Azure to drive well-being."
-publishedDateTime: 2020-05-20T16:53:00Z
-webUrl: "https://www.pr.com/press-release/813120"
+excerpt: "Hamden, CT, May 20, 2020 --( )-- Healthper, your well-being architect, today announced the availability of Healthper programs & challenges in the Microsoft Azure Marketplace, an o"
+publishedDateTime: 2020-05-20T16:41:00Z
+webUrl: "https://apnews.com/PR.com/c15f7544d93ec18a587ffc50711ba213"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: PR
-  domain: pr.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://img.pr.com/release/2005/470793/pressrelease_original_470793_1589990219.png"
-    width: 1280
-    height: 720
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     title: "Healthper USA, Inc. Now Available in the Microsoft Azure Marketplace"
 
 related:
@@ -46,6 +46,6 @@ related:
       domain: businesswire.com
     quality: 17
 
-secured: "I3nFYRzb3fLFr7hxKVDtepC5bgJFisnfCFPENz/RNAC5d6OALfiIis/hf/zyGgbvSV2vR4ZbCjfQnOy9CGJTo/ypi0aVlCOBkuJsPCFU3sXYcLVYbIK3Bz9i1ptZUkoAvw9Kit6B1WC8lS+h8o3wuZdNAVf8lxNmsC+4lb/mEtvaDCsqrUh/M3QQKATgiT/xnwdxTcP8uYlzryFOcsspqffbhu4h6SXi8MqqpQwycKDhM3cW+HnwWeEgtUrncYyGuFUrAYFVUXmH1TpXbVLaV5687xhZNh4EYzowMBDv+FCcLm4EU0vRSySahHKhydfV;jszK3mkYje8oLbPfxZX3Cw=="
+secured: "IsC2/KpE6HSCbwxX/n94aEPy9863blaNKAazcWORQrCPnNM7cP7HoiB6tgokKhd9dV0GUr5yGzgofPINFpJjEPHEJ3+5AKOQ0fjGgVo7kac0RUvxtO97BsXj8kpkAWOGForHEnxLeqskwtDXfwJYvpXwKu94XzNFgyPM/OxiqxxsaroGqGpl1mWGuabC8EtkPyKtMLEylgZ7tQNTPznPzApNymmzHN7QUYVlBNEq2TgsTtU3BcDQNklBWQeTY4awB1yunZ2C507TaWlTaRl+i0Uh6av0myq/t6bgzpjhAwlUQYJwOhWEmQbfwjSo+Am7;aA/kwQZYLTkM3GyY0yqs/w=="
 ---
 
