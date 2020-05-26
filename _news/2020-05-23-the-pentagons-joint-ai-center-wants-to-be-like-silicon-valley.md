@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/05/23/the-pentagons-joint-ai-center-wan
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/23/the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley/amp/"
 type: article
 quality: 82
-heat: 83
+heat: 82
 published: true
 
 provider:
