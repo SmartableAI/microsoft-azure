@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-25T11:28:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-storage-market-evolving-technology-and-growth-outlook-2020-to-2025-2020-05-25"
 type: article
 quality: 61
-heat: 81
+heat: 101
 published: true
 
 provider:
@@ -31,6 +31,19 @@ related:
     excerpt: "Global Finance Cloud Market - Growth, Trends, And Forecast (2020 - 2025) The report presents an in-depth assessment of the Global Finance Cloud including enabling technologies, key trends, market drivers,"
     publishedDateTime: 2020-05-25T12:42:00Z
     webUrl: "https://www.marketwatch.com/press-release/finance-cloud-market-evolving-technology-and-growth-outlook-2020-to-2025-2020-05-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Cloud Robotics Market Evolving Technology and Growth Outlook 2020 to 2024"
+    excerpt: "Global Cloud Robotics Market - Growth, Trends, And Forecast (2020 - 2024) The report presents an in-depth assessment of the Global Cloud Robotics including enabling technologies, key trends, market drivers,"
+    publishedDateTime: 2020-05-26T13:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-robotics-market-evolving-technology-and-growth-outlook-2020-to-2024-2020-05-26"
     type: article
     provider:
       name: MarketWatch

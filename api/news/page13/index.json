@@ -2,6 +2,43 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-04-01-general-availability-of-new-azure-disk-sizes-and-bursting.md",
+      "title": "General availability of new Azure disk sizes and bursting",
+      "excerpt": "Today marks the general availability of new Azure disk sizes, including 4, 8, and 16 GiB on both Premium and Standard SSDs, as well as bursting support on Azure Premium SSD Disks.\r\n\r\nTo provide the best performance and cost balance for your production workloads, we are making significant improvements",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/general-availability-of-new-azure-disk-sizes-and-bursting/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-01T02:00:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-microsoft-partners-with-the-industry-to-unlock-new-5g-scenarios-with-azure-edge-zones.md",
       "title": "Microsoft partners with the industry to unlock new 5G scenarios with Azure Edge Zones",
       "excerpt": "Cloud, edge computing, and IoT are making strides to transform whole industries and create opportunities that weren't possible just a few years ago. With the rise of 5G mobile connectivity, there are even more possibilities to deliver immersive, real-time experiences that have demanding, ultra-low latency,",
@@ -1040,51 +1077,6 @@
       "topics": [
         "Azure",
         "Compute"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-fileless-attack-detection-for-linux-in-preview.md",
-      "title": "Fileless attack detection for Linux in preview",
-      "excerpt": "This blog post was co-authored by Aditya Joshi, Senior Software Engineer, Enterprise Protection and Detection.\r\n\r\nAttackers are increasingly employing stealthier methods to avoid detection. Fileless attacks exploit software vulnerabilities, inject malicious payloads into benign system processes, and",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/fileless-attack-detection-for-linux-in-preview/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-24T04:00:16-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8d1edfff-1676-46f2-8bad-1c5c319e622f.png",
-          "width": 1231,
-          "height": 1431,
-          "title": "Fileless attack detection for Linux in preview",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Security"
       ]
     }
   ],

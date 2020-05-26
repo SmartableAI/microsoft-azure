@@ -40,6 +40,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Cloud Robotics Market Evolving Technology and Growth Outlook 2020 to 2024"
+    excerpt: "Global Cloud Robotics Market - Growth, Trends, And Forecast (2020 - 2024) The report presents an in-depth assessment of the Global Cloud Robotics including enabling technologies, key trends, market drivers,"
+    publishedDateTime: 2020-05-26T13:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-robotics-market-evolving-technology-and-growth-outlook-2020-to-2024-2020-05-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "9MjUDg5t1lQJ3iguyXp7ZktVwncvjwG7dQ01MOQ88XZvRsMRvDWXnI0DJsgewS7uxTvgCms50DBI7e+oEy0cwipmEIp+dJu3fDsleu6/BNHfTukaG5xE57UEEa4/bTveqmBcBuXJqs2eSqCNeje8uQFWdHPyJH0Auip+jC3QwkCum7u54Cu3kJDly+SgC4Zvy0hGqVui/YS1i6JnJ9ElFVpjx1+F/yYfW2LaW8rtJbxcVVZcqc49dnBszmXYyT+jEhbTYrJBdVfiMRIKnij7SkIBPpwqgR7jfC1nZhW/LjVid/qDMjaBZsSnZjXKH6KE;MgQ5DwFm8APwDboIJzqJyw=="
 ---
