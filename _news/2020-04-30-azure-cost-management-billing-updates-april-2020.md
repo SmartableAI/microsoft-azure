@@ -5,8 +5,8 @@ excerpt: "Whether you're a new student, thriving startup, or the largest enterpr
 publishedDateTime: 2020-04-30T11:00:08Z
 webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-april-2020/"
 type: article
-quality: 99
-heat: 119
+quality: 101
+heat: 121
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - Azure
   - Databases
+  - Compute
 
 images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/099b92eb-591a-4ea0-b7b4-78f34f6e8f57.png"

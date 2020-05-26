@@ -5,8 +5,8 @@ excerpt: "Enterprises, partners, and IT professionals store business-critical da
 publishedDateTime: 2020-05-11T13:00:00Z
 webUrl: "https://azure.microsoft.com/blog/azure-blob-storage-enhancing-data-protection-and-recovery-capabilities/"
 type: article
-quality: 77
-heat: 77
+quality: 94
+heat: 94
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - Azure
+  - Storage
 
 secured: "aC2Vq8wCrMd7GTQv/NpN4FgwZvxao95d8HkZ9PtZYaYze4tgMNHb5O7yboWh7iwj9hK2FymsVdfRttoArt4TbjKXVUHUaNAvCcRjHouNIgUPkt6zx43OdS4pp6pPBK/hf2lAKXdGdrvPFaUuhJLkGwmv1kH+U5dqe9zRIz1KuzArlU8EISa4O20XXYYrLeEXQrZE6DdinakjNS83TL5iMzy3ZDVzwYynHMKCuQWh0iUFmeZSBGWFcG0M8NurkR8RmsdbkBPKhsBXgAeSAsFrynUKOE4GweQyfuUlN8uYKpm1K25727yrEv9gg5zJSSAnxAiEj/YgNUgD3Ga6x4ZXRg==;5KOj3yfAxeyKJvmOo2rqHA=="
 ---

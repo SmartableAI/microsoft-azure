@@ -5,7 +5,7 @@ excerpt: "Today’s application environments are often heterogeneous, composed o
 publishedDateTime: 2020-04-28T09:00:40Z
 webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-windows-server-containers-and-private-clusters-for-azure-kubernetes-service/"
 type: article
-quality: 55
+quality: 57
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - Azure
+  - Security
 
 related:
   - title: "Azure + Red Hat: Expanding hybrid management and data services for easier innovation anywhere"

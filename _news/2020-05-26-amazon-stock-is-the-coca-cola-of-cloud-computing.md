@@ -9,8 +9,8 @@ cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/inve
 type: article
 quality: 82
 heat: 82
-removed: true
 published: false
+removed: true
 
 provider:
   name: The Motley Fool

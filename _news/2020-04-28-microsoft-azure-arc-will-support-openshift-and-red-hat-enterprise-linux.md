@@ -46,7 +46,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 55
+    quality: 57
   - title: "Microsoft beefs up Azure’s Kubernetes features and Red Hat integrations"
     excerpt: "Microsoft Corp. today introduced two updates for Azure, one focused on its managed Kubernetes service and another on Red Hat workloads, that should allow the cloud platform to better accommodate enterprises running a variety of different application types."
     publishedDateTime: 2020-04-28T20:09:00Z

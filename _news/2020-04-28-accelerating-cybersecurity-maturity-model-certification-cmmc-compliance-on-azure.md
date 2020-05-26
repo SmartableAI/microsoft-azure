@@ -5,8 +5,8 @@ excerpt: "As we deliver on our ongoing commitment to serving as the most secure 
 publishedDateTime: 2020-04-28T10:00:41Z
 webUrl: "https://azure.microsoft.com/blog/accelerating-cybersecurity-maturity-model-certification-cmmc-compliance-on-azure/"
 type: article
-quality: 71
-heat: 91
+quality: 88
+heat: 108
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - Azure
+  - Security
 
 related:
   - title: "Rapid7 buys cloud security firm"

@@ -5,8 +5,8 @@ excerpt: "The Azure Security Benchmark v1 was released in January 2020 and is b
 publishedDateTime: 2020-05-12T14:00:22Z
 webUrl: "https://azure.microsoft.com/blog/monitor-your-azure-workload-compliance-with-azure-security-benchmark/"
 type: article
-quality: 97
-heat: 97
+quality: 114
+heat: 114
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - Azure
+  - Security
 
 images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/30bc3551-6fce-45c3-b483-544e13e28921.png"

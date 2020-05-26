@@ -5,8 +5,8 @@ excerpt: "Starting today, customers of Azure Front Door (AFD) can take advantage
 publishedDateTime: 2020-05-12T09:00:19Z
 webUrl: "https://azure.microsoft.com/blog/announcing-azure-front-door-rules-engine-in-preview/"
 type: article
-quality: 97
-heat: 117
+quality: 101
+heat: 121
 published: true
 
 provider:
@@ -19,6 +19,8 @@ provider:
 
 topics:
   - Azure
+  - Security
+  - Networking
 
 images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c80925a6-c768-4ec7-8750-50ce4fdbe044.png"

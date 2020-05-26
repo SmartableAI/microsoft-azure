@@ -5,8 +5,8 @@ excerpt: "In the weeks and months we have all been grappling with the global pan
 publishedDateTime: 2020-05-05T09:00:09Z
 webUrl: "https://azure.microsoft.com/blog/how-azure-vpn-helps-organizations-scale-remote-work/"
 type: article
-quality: 97
-heat: 97
+quality: 99
+heat: 99
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - Azure
+  - Networking
 
 images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/32e8ecde-a0d0-4330-81c3-3c93e90774c7.png"

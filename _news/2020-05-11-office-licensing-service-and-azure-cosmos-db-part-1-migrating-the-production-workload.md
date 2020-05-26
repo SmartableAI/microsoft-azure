@@ -5,7 +5,7 @@ excerpt: "This post is part 1 of a two-part series about how organizations use A
 publishedDateTime: 2020-05-11T14:00:00Z
 webUrl: "https://azure.microsoft.com/blog/office-licensing-service-and-azure-cosmos-db-part-1-migrating-the-production-workload/"
 type: article
-quality: 88
+quality: 90
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ topics:
   - Azure
   - Blockchain
   - Databases
+  - Analytics
 
 related:
   - title: "Office Licensing Service and Azure Cosmos DB part 2: Improved performance and availability"
@@ -31,7 +32,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 106
+    quality: 108
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2e4a9658-d476-4845-aae6-ac59a0d7b2d8.jpg"
         width: 640

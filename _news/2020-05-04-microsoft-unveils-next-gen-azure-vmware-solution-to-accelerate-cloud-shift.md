@@ -46,7 +46,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 79
   - title: "Microsoft announces next generation of Azure VMware Solution"
     excerpt: "Microsoft today announced the preview of the next generation of Azure VMware Solution which allows you to seamlessly move VMware-based workloads from your datacenter to Azure. This is the official solution supported by Microsoft and endorsed by VMware."
     publishedDateTime: 2020-05-04T18:41:00Z

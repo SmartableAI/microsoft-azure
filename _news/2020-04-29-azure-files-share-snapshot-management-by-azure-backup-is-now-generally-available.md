@@ -5,8 +5,8 @@ excerpt: "Microsoft Azure Files offers fully managed file shares in the cloud th
 publishedDateTime: 2020-04-29T09:00:53Z
 webUrl: "https://azure.microsoft.com/blog/azure-files-share-snapshot-management-by-azure-backup-is-now-generally-available/"
 type: article
-quality: 92
-heat: 112
+quality: 94
+heat: 114
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - Azure
+  - Storage
 
 images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/202fa2d1-fc33-41eb-94be-957327f62b0d.jpg"

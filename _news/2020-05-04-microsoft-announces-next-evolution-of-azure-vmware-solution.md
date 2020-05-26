@@ -5,7 +5,7 @@ excerpt: "Today, I’m excited to announce the preview of the next generation of
 publishedDateTime: 2020-05-04T10:30:00Z
 webUrl: "https://azure.microsoft.com/blog/microsoft-announces-next-evolution-of-azure-vmware-solution/"
 type: article
-quality: 77
+quality: 79
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - Azure
+  - Compute
 
 related:
   - title: "Microsoft announces next-gen Azure VMware Solution"

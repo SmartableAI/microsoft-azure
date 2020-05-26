@@ -48,7 +48,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 79
   - title: "Microsoft debuts Azure VMware Solution in preview"
     excerpt: "Microsoft Corp. has announced the launch of its long-awaited Azure VMware Solution, which makes it cheaper and easier for customers to migrate on-premises VMware applications to the company’s public cloud infrastructure platform."
     publishedDateTime: 2020-05-04T23:52:00Z

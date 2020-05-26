@@ -2,6 +2,225 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-12-announcing-the-general-availability-of-azure-spot-virtual-machines.md",
+      "title": "Announcing the general availability of Azure Spot Virtual Machines",
+      "excerpt": "Today we’re announcing the general availability of Azure Spot Virtual Machines (VMs). Azure Spot VMs provide access to unused Azure compute capacity at deep discounts. Spot pricing is available on single VMs in addition to VM scale sets (VMSS). This enables you to deploy a broader variety of workloads",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-spot-virtual-machines/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-12T01:00:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/333076bc-4f9e-4461-9ba7-810752e19173.jpg",
+          "width": 800,
+          "height": 468,
+          "title": "Announcing the general availability of Azure Spot Virtual Machines",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-azure-virtual-machine-scale-sets-now-provide-simpler-management-during-scale-in.md",
+      "title": "Azure Virtual Machine Scale Sets now provide simpler management during scale-in",
+      "excerpt": "We recently announced the general availability of three features for Azure Virtual Machine Scale Sets. Instance protection, custom scale-in policy, and terminate notification provide new capabilities to simplify management of virtual machine instances during scale-in.\r\n\r\nAzure Virtual Machine Scale Sets",
+      "heat": 110,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/azure-virtual-machine-scale-sets-now-provide-simpler-management-during-scalein/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-11T05:00:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/985df91e-de4d-4c27-a28b-f3ec9be164e3.jpg",
+          "width": 1024,
+          "height": 696,
+          "title": "Azure Virtual Machine Scale Sets now provide simpler management during scale-in",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-azure-cost-management-billing-updates-april-2020.md",
+      "title": "Azure Cost Management + Billing updates – April 2020",
+      "excerpt": "Whether you're a new student, thriving startup, or the largest enterprise, you have financial constraints and you need to know what you're spending, where, and how to plan for the future. Nobody wants a surprise when it comes to the bill, and this is where Azure Cost Management + Billing comes in.\r\n\r\nWe're",
+      "heat": 121,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-april-2020/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-30T04:00:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/099b92eb-591a-4ea0-b7b4-78f34f6e8f57.png",
+          "width": 1506,
+          "height": 872,
+          "title": "Azure Cost Management + Billing updates – April 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Databases",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-cross-region-restore-crr-for-azure-virtual-machines-using-azure-backup.md",
+      "title": "Cross Region Restore (CRR) for Azure Virtual Machines using Azure Backup",
+      "excerpt": "Today we're indroducing the preview of Cross Region Restore (CRR) for Microsoft Azure Virtual Machines (VMs) support using Microsoft Azure Backup.\r\n\r\nAzure Backup uses Recovery Services vault to hold customers' backup data which offers both local and geographic redundancy. To ensure high availability",
+      "heat": 135,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/cross-region-restore-crr-for-azure-virtual-machines-using-azure-backup/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-30T02:00:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/b8495529-cdab-454f-ac29-78f63339532e.jpg",
+          "width": 755,
+          "height": 385,
+          "title": "Cross Region Restore (CRR) for Azure Virtual Machines using Azure Backup",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Storage",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-dcsv2-series-vm-now-generally-available-from-azure-confidential-computing.md",
+      "title": "DCsv2-series VM now generally available from Azure confidential computing",
+      "excerpt": "Security and privacy are critically important when storing and processing sensitive information in the cloud, from payment transactions, to financial records, personal health data, and more. With the general availability of DCsv2-series VMs, we are ushering in the start of a new level of data protection",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/dcsv2series-vm-now-generally-available-from-azure-confidential-computing/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-27T05:00:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
       "path": "_news/2020-04-22-azure-gpus-with-riskfuels-technology-offer-20-million-times-faster-valuation-of-derivatives.md",
       "title": "Azure GPUs with Riskfuel’s technology offer 20 million times faster valuation of derivatives",
       "excerpt": "Exchange-traded financial products—like stocks, treasuries, and currencies—have had the benefit of a tremendous wave of technological innovation in the past 20 years, resulting in more efficient markets, lower transaction costs, and greater transparency to investors.\r\n\r\nHowever, large parts of the capital",
@@ -171,51 +390,6 @@
       "topics": [
         "Azure",
         "AI",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-announcing-the-general-availability-of-azure-monitor-for-virtual-machines.md",
-      "title": "Announcing the general availability of Azure Monitor for virtual machines",
-      "excerpt": "Today we're announcing the general availability of Azure Monitor for virtual machines (VMs), which provides an in-depth view of VM performance trends and dependencies. You can access Azure Monitor for VMs from the Azure VM resource blade to view details about a single VM, from the Azure Virtual Machine",
-      "heat": 133,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-monitor-for-virtual-machines/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T03:00:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8aaf8f84-054c-4681-82e8-58dd8d160940.png",
-          "width": 1430,
-          "height": 953,
-          "title": "Announcing the general availability of Azure Monitor for virtual machines",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
         "Compute"
       ]
     },
