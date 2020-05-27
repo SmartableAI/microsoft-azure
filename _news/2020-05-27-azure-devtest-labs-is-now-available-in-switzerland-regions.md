@@ -1,0 +1,36 @@
+---
+category: news
+title: "Azure DevTest Labs is now available in Switzerland regions"
+excerpt: ""
+publishedDateTime: 2020-05-27T16:00:01Z
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-devtest-labs-is-now-available-in-switzerland-regions/"
+type: article
+quality: 77
+heat: -1
+published: false
+
+provider:
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Azure
+
+related:
+  - title: "Azure Media Services is now available in Switzerland and Germany"
+    excerpt: ""
+    publishedDateTime: 2020-05-20T16:00:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-media-services-is-now-available-in-switzerland-and-germany/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+
+secured: "ydycasDIXGLlscohAIjWJ3GEF+TXFKxPfEP/2pt8x9vNwokTEa5N9CB+U0XoZmy05XtoPkzAj+531dURt3MoYlj+/DIFLSl1JpwHnhZW1szXjBKN6IiI4Ct12LAYz7iLf2ItFcdcxk+kpuBbpFp0IHXYxRgFji2Ho6gHBgsDsqKvftSR7eLiBAusymLu4CPl0LYZOMiD4Bo7s6kaJo+kn/RxLLklPd/gHEAWivu9KYVK+gDcxw+MfLdG8L+nKyO8G6G5iVKZb5gHTml3aFcIoDW/Z+P8DgNh1La7lD+YlWoYK1RqQ5Lwt0H68rqhj6jvQ58eqg+QDMU3FTdE4CkyPg==;tLFiTC7uvG5gI7OJ3VEV+A=="
+---
+

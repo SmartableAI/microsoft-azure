@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-27T13:20:00Z
 webUrl: "https://rcpmag.com/articles/2020/05/27/microsoft-universal-print-solution.aspx"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,36 @@ images:
     width: 647
     height: 450
     title: "Microsoft Projects Q4 Release for Universal Print Solution"
+
+related:
+  - title: "Microsoft Aims Universal Print for a Q4 2020 Release"
+    excerpt: "Universal Printer is a cloud-based printer platform that is currently in preview. Microsoft wants a full launch later this year."
+    publishedDateTime: 2020-05-27T16:07:00Z
+    webUrl: "https://winbuzzer.com/2020/05/27/microsoft-aims-universal-print-for-a-q4-2020-release-xcxwbn/"
+    ampWebUrl: "https://winbuzzer.com/2020/05/27/microsoft-aims-universal-print-for-a-q4-2020-release-xcxwbn/?amp"
+    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/05/27/microsoft-aims-universal-print-for-a-q4-2020-release-xcxwbn/?amp"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 42
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2020/03/universal-print-microsoft.png"
+        width: 999
+        height: 613
+  - title: "Microsoft Outlines Universal Print Plans"
+    excerpt: "Microsoft earlier this month provided a few more details about Universal Print, its emerging cloud-based solution that promises to ease woes associated with managing print servers."
+    publishedDateTime: 2020-05-27T03:11:00Z
+    webUrl: "https://redmondmag.com/articles/2020/05/26/universal-print-plans-for-windows.aspx?admgarea=BDNA"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 22
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/MapRusticBig.jpg"
+        width: 1665
+        height: 1158
 
 secured: "Q2F+qFJa5ZpHm0jNlnLUELng3rMv+AfwY1+ofmQbAIfn6pWiZuCpjyiAsyeT2eBOTU/4a8ySpH969PyYUqiveTZxP/MxooJ0jr4LuaTPfa6KvNBpDQUJvlWvGSZMg5udJYJ9/oJoeW45STQdQ7csWBRDylFKrkMhXUC0n28FAnAzkMCSs/Lsi+IBN5aL0rlGgQBhQouakUa4MSPDzvUR2OdOgBZw64rT5Dz9JTBpIzUGTXUJmMTQaGHUn2GGvoNt4r+WJKPIqebA5BzR3YwSmVXTtuepSDnWsTljVwHcBk8WlM5YMwoR1IIgEdJFULeq;YIkl4hRu2LBHHDZ+9M0abA=="
 ---
