@@ -22,6 +22,6 @@ images:
     height: 305
     title: "Best practices for migrating databases to the cloud"
 
-secured: "gekOzUxQqqnu8LMvwcNDUfYBe4Jw05mNx+gKoBVKLx38lyPKMEgCBmNw7Xm12xDYMqP7hpky9IxErlsX4FhnpISlJwxw/+uCUFpzNX+FP+u/UJQaEkAqDcf92xoSRpaVjj28xOqs6Z8T0YxlTwj1cSVAHVEXt/K8k0zo5lHqLMEUCDMs7o5Dyxf79TMNyVlt+dLClivXef1IFyCxgDyo+eLk/93q3XPiRDUaIkI1Y3BhTBC6dysTfR+/Vs/OlK+KFLYKWFNUKdWRmXRyu/ywDWifZN1x0Gzm42DJVwVIXX49TWt1Ym8GEY5JnlphIes5;hnjYZZoW8svWkQqyBJ9/2Q=="
+secured: "WEwlzclR2nz2ZVOk3kqTuICUms3aSEPZfBZLGmA8Q+hpJlbUKQHSMvkedymsONs3m+Nil37MPJCgWLcLjT3mVu3bsSs1hfe1ttCZdcX1L8+Pk0ZSbNnWW8T/RoHWhrgCDV8IavoZL/ihWTrOaIE/t9sq1G9pEN6/B+YzjaTq1gYEHhCVBhy7MckEKuy34TIrNR0RIUQb1mryt75K2rJU9EfB0zMnp7zIzCn/Hj1v1ChMHcr25jCTjsf/CmKTtprVynbvySZ6qtLQxGoHNTWApd7tIjN+M6ZrfgsGL3qSXg/OPQtqBjgrb2G+B87fMRbDku4/5YuRCEaYbhRAh1TLUUZqY4W1MerXuhLoTjZ+ZdXdW/L4R/Kkn7cbFb3ZcGzblWLm5Le4MtEngCAD3Yd0zPwDLG69odwqVacWZ+5duVWVKdDlt0WWU6gkCIxoPmMD4ruwSZ6LWIYxGoqaiScHxTD148V3C+zdOwFy6i15XaE=;iyJkCJmFM3j0NgfatrFsxA=="
 ---
 
