@@ -8,7 +8,7 @@ ampWebUrl: "https://mspoweruser.com/docker-azure-container-instances-vs-code/amp
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/docker-azure-container-instances-vs-code/amp/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     title: "Docker announces tighter integration with Azure Container Instances and Visual Studio Code"
 
 related:
-  - title: "Docker Extends Collaboration with Microsoft Azure to Boost Developer Productivity"
-    excerpt: "Docker today announced that it has extended its strategic collaboration with Microsoft to simplify code to cloud application development for developers and development teams by more closely integrating with Azure Container Instances (ACI)."
-    publishedDateTime: 2020-05-27T16:00:00Z
-    webUrl: "https://apnews.com/2fe98091652be001e8637122249be3f6"
+  - title: "Microsoft and Docker collaborate on new ways to deploy containers on Azure"
+    excerpt: "Now more than ever, developers need agility to meet rapidly increasing demands from customers. Containerization is one key way to increase agility. Containerized applications are built in a more consistent and repeatable way, by way of defining desired infrastructure, dependencies, and configuration"
+    publishedDateTime: 2020-05-27T14:00:04Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-and-docker-collaborate-on-new-ways-to-deploy-containers-on-azure/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 32
+      name: Microsoft
+      domain: microsoft.com
+    quality: 95
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c2dfbf4e-3ca4-42c1-acec-cd89fd674efb.gif"
+        width: 1920
+        height: 1080
 
 secured: "0RVHuc/+wPsptOR+ujM+EZlfHfR++MhA51bMNBPRm1XFgsEWx9/iEm7taLpOuIWcT+uaerFFWT2LOMwY+Mt1HmuBOUGH8Sy9lsJMOIXgW8q9KCCwi9X7JiUQE0w1CUxNGGqkSgxsgfs37zPTpFyZguQEc5vulER0SYxBlie6HszqF6kemE14UHfWPlG5n6Py1qICi42JUc0xOnwyvyXeYqrM3mYUGD1wE0NvSspoKgEP03R1ULa6ojn5WLyfw/raUnaGxxRQezYRrdiao+jfm3HEUDjsnk10ESmytbe2jn30PemmZAzezN4DDFznTnlaX4pYF/jKXqmm920TFtFRChOGuFSMsSPd9a/9E0aIMht+qVyUNdu4wMRlwZrOo8SEz+/XDT+L6G9+J7C6Vm0qcJn6+ogbNd8pBcSkoGDPmzOtm4OHmGYvdedRKSI+kwJUUY0tBLbJpBLvSYN9ujtYuLFHo6gVftroIgY/y9i20wI=;wA/kAu9OL6SZu8vjcam6Yw=="
 ---
