@@ -22,6 +22,6 @@ images:
     height: 543
     title: "Parexel, Microsoft Azure launch COVID-19 real-world data platform"
 
-secured: "YgSa8uezsBN1QKkNvJPZUDK++rHci82c+BYX6t++EnXh+PzjESur/7waNBvk/Lb/QJ55ScWmh/nxh0Et3FSHpL9K9tq1r/6i/EHattE1CjChzt+YmR/77zr8BbJu4pizlEhGpXo53DvuSScCu8sSHh8tVMNgyjMr0Xn/W2nAJI40HwbOf7ebLADRvj3z+dEkCrjp4qHBJZP8S4+y9VKQAnmDINfHMEHKjX8N/iygyRNPi/dmVmxiga3K1tO4Z+xesW2r3H1d6cBPe5SQ9T+Pzy1f/oSQyO2Kr9As+HEDJKdFVt+XIyDopGqIR1/A1EVX;Ew9FigQvLQNbX+QvOPbHDQ=="
+secured: "JYM4xV0TyBAe3vS/QdzArTu+irQHmJ7yIci8mtwxWH0MpMkaky/jv+6zwGLIUj1fkOPbBgydBGMpcmq2mt6QIKJ129jB9Y0m21I+PCN0GMKtXDgy1hB6UmBWiNGmkowgoe5Tuxaf81lOOezb4nZFywS72x3NRpqacbXCZx1U63MRFxmm9rwVFiXEj+HEmaPrC51/L+YHlel9rIMaiBIGBrQLXomW++mEDSyb7+AVcLlh1f7M2dSCuf4gtkOZ8rxTW596LRE7+WAkvtnK8If6DuOxMAOWy/Ycs7aXZ1PGjH/AyYHobzZQaEjTCzVaOn8wh8+9J3Sy7Wm/hbXYPQGafDIjrYeiyYK1qlOAFxvyfsOySLMJXyg2/0E6kE72s5CA3/zDAyXV49qWHbHZHgj444c63qXKkwgpLq1x9KlqDfUE9BHyJV1fHNxme4XPZrRCfaCuQvs7KqI5W1T6f+4VRwDI20PD+pE7yTf+Z6O1/IY=;dFKpmtjrSwjCeaglZ/NGUQ=="
 ---
 

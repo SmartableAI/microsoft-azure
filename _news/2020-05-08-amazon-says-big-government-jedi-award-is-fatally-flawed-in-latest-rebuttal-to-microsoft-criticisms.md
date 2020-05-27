@@ -8,8 +8,8 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/05/08/amazon-says-jedi-award-fatally-f
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/08/amazon-says-jedi-award-fatally-flawed-in-rebuttal-to-microsoft.html"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 87
+published: true
 
 provider:
   name: CNBC
@@ -27,6 +27,21 @@ images:
     width: 5253
     height: 3502
     title: "Amazon says big government JEDI award is 'fatally flawed' in latest rebuttal to Microsoft criticisms"
+
+related:
+  - title: "Amazon files new protest over ‘fatally flawed’ JEDI cloud computing contract award"
+    excerpt: "In an increasingly sharp war of words and legal maneuvers, Amazon Web Services Inc. is stepping up its protest of the Joint Enterprise Defense Infrastructure cloud contract award, asking the U.S. Department of Defense for more clarity around corrective action it has proposed taking."
+    publishedDateTime: 2020-05-08T12:17:00Z
+    webUrl: "https://siliconangle.com/2020/05/08/amazon-files-new-protest-fatally-flawed-jedi-cloud-computing-contract-award/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 16
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/pentagon-720022_1280-AutoGirl-Pixabay.jpg"
+        width: 1280
+        height: 1280
 
 secured: "N7trhmARRa+Uk8voG40B8utsfa7HbmxIt6lqVTUVh924MjfSWAzPyfNJGfUOaUBoZiIyOqX79AOxxAfqhpAtYAQ2EwNuY5nKo/yRij3EanB5A004WKxiXWAY4ObYPMs8QcKjYXb4KUxBLUiAH05zRjW4bOKFcRbL+jCy+ofjW64GAT7hDgji+Ve5rhCObsVKHQ8IZRvsy1QeLJhznLZ3707OXtc4PMvfvnQJQe94/Qck0Oy0qpwRu6ESEkmaTP/acfm/hrsrehk2WBuidIHKA61ryyhEJX5XFqMldNRH56Cb5kZ3HZI3kQiAt6eRq4A9vfY0lafDSZPEPzsR3LxZOEXH0lpHRA8XcVs6Ezs7ZeOjE+EkoT5hYQ4lHZrEGzBfvvd9tkJnGmT3FbnvIAK3JsAijP5CJdluibwdibLmclu4bPwq/BWINTiEIwciVZm+rcm07dYb+vnepJcDgfmgRMl2vIZjWzXTCWu+NlZAWGc=;8oUeGV/tAoPx8qUU1kSoEA=="
 ---

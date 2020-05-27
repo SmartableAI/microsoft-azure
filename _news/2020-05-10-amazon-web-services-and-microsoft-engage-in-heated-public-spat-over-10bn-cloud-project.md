@@ -40,6 +40,21 @@ related:
       - url: "https://www.thenewsminute.com/sites/default/files/microsoft_750_7.jpg"
         width: 750
         height: 500
+  - title: "Microsoft claims AWS has used new JEDI mind trick with secret contract objection filing"
+    excerpt: "Amazon.com has filed a second, secret, appeal at the decision to award Microsoft the $10bn Pentagon Joint Enterprise Defense Infrastructure (JEDI) contract. So says Microsoft corp"
+    publishedDateTime: 2020-05-08T09:07:00Z
+    webUrl: "https://www.theregister.co.uk/2020/05/08/new_jedi_contract_objection/"
+    ampWebUrl: "https://www.theregister.co.uk/AMP/2020/05/08/new_jedi_contract_objection/"
+    cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/08/new_jedi_contract_objection/"
+    type: article
+    provider:
+      name: The Register
+      domain: theregister.co.uk
+    quality: 34
+    images:
+      - url: "https://regmedia.co.uk/2017/12/19/lightsaber.jpg"
+        width: 648
+        height: 432
   - title: "Amazon, Microsoft engage in heated public spat over USD 10 billion-worth Pentagon Cloud project"
     excerpt: "While Amazon said that Microsoft has published multiple self-righteous and 'misleading' blog posts, the Satya Nadella-run firm said that 'such roadblock is disappointing but not surprising'."
     publishedDateTime: 2020-05-09T05:42:00Z
