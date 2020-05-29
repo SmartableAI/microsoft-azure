@@ -22,6 +22,6 @@ images:
     height: 720
     title: "Microsoft Enables Windows Spellcheck API for All Chromium Browsers"
 
-secured: "AWS/qtYnYLlU9ZdglyU+r3ah1LAlb5clqX+EyVgS7fxHBP3OR8ICXu5xxd71aQYi7ehFnc3FXDM6SjcautQL5DRoPcFvk7QJw3DnLzV4Gs/hCcAne8S3qjdh3wB9xZWsZy8HtCHrHNpJ+0PvPcL9/azACk/dIxd7ZrqRhOHb/MOp/RdfzAXiJ9li4P2vTTqkP92RZ+MGv7A9/OpqG4DtNFcsa8FKeQJxZvWD95DrREOErOAklDd/uK/FWBRCZtSb4K/P+38U2nTv7VhTPR0UkR4GxMkNP/ee0qQiF6IhjJAreKYuQxee/23ebPs0gVNQ;GG6RVwiOrEV9LGlpJGWMng=="
+secured: "Wnzce7Rnh//83FllUhDDneTU9cWwxE+NUae7hzztb4s6U1G290ZMwYxlVrYKydzdoPkMrYeVy87xRzx8g6S1iZj9jxT+rlWUZ+qz+YlCUvjmkoKrHLjay07XgjFuvHm1GewGc38bPOirxegMYU9k3LDxKIFcdMUYmOLNPMedloolymB99lMnaWl1czNO3AUf2wRzIdHaadXT/q+neASNPmdI5eTKdcFidrOwxbelqJB32f+PISkLTfNctQXNWX65fISwU+GiM1PGHQ4oM6RUdxacmBl1YJb6O0MP3qLfbyaJM3DiMJFY9E880SIXTOFtEwQFv8j/XqeBaaLvSGF9vttXs4IN21yYCpq3fYsl+nAkx3BuPOCSgLBwHkKDIyRlpetTMgMcLUKDrgdAwOO3qsO+K2eQoGYTegSZ40L/MBNzy369IkroATOPTRTnzQpU0GhH2CoJqCivePKxVfg+/YDWo1Et8PsS0VG/N3BrqeE=;PB298kI8obWnPN6u++WOIQ=="
 ---
 
