@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/workday-microsoft-forge-par
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/workday-microsoft-forge-partnership-revolving-around-adaptive-planning-teams-azure-integration/"
 type: article
 quality: 84
-heat: 84
+heat: 104
 published: true
 
 provider:
@@ -28,6 +28,23 @@ images:
     height: 675
     title: "Workday, Microsoft forge partnership revolving around Adaptive Planning, Teams, Azure integration"
 
-secured: "Rj9+lH11BtoL3S4aRJgFkaCT0w/sc8vYyAdfYtX7jmRV95za/2soYL1ehbuBDOy0FUcj95jeyA4QZC5+918BbrNvp6EtO3tv46G4j1x3+ehtjNHB7m3skcyt0ko/Mw8JUGt/v8reIDtS6Uk1xK+LCuwmrHGYYQ3keFdWsiUL3i6VO6x51AKgs0K0jl+r/VDwSwQcb50Iui010cpnx/33kOhMrZNtV5bGZoVjezkm7bcOelK4vdRowGKwbaMqx+swg5cH6jcnwlYmePBnLx4V+kfPK+UcPv+l++d1kDTS1+Njp5rFAzItjBhDXJ5LqcH1;dzL4DB9xJ74Mbp0Ad4gO2g=="
+related:
+  - title: "Microsoft and Workday announce new partnership involving Azure and Teams"
+    excerpt: "Microsoft and Workday today announced a new partnership that will enable enterprise customers to simplify everyday tasks, improve collaboration and productivity. This new partnership includes the following three things."
+    publishedDateTime: 2020-05-28T04:36:00Z
+    webUrl: "https://mspoweruser.com/microsoft-workday-partnership-azure-teams/"
+    ampWebUrl: "https://mspoweruser.com/microsoft-workday-partnership-azure-teams/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-workday-partnership-azure-teams/amp/"
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 56
+    images:
+      - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Microsoft-Workday.jpg"
+        width: 801
+        height: 404
+
+secured: "CVj/XD2WkWjD/pIWr0QowmbLnzLL0pUftrodssoftccV7opdJ8QfxyMdL02my6cFi9gZSwBeqEJmrehoECVCoS2t6DGexegq1IvA88lvPK16WG1YBmnfWUuY6ETYwG1ZNXmWh2HSeq7nPyHgRqDGqJd2b2V8gREev4w4TurUqnk0+ZcYANvnz7gpzvQzz5zxRSYvwgRKn7geDYfwV9plG3jgdTaKKQVUnkW2A2fs0Df9JYOOkXwIqQLMTATn0LfEyjS8dbYlhi/1xTSYpC7Avr9GYxLo8sazSwq2TjZYvzZy+kT3hodfho0jlfxq1ChgkKdOu5G6MhjsSBKVljYA+YpMJ59qdmlQBMx53e1djM0OBRuAJPkqOTGeUjZYP0Q8JUbeLnvIsYQ6jw2rnCMkmlNQEaFVCoxxKKKWwyvawYiPIg2sqdZvAfUMwB0kx4+UQZkuc9cDNz5JO7Phmd9P+0iu7Be0hWEoVivyT9mLaAQ=;6hg7qDZ651yMojP+HJJaAQ=="
 ---
 

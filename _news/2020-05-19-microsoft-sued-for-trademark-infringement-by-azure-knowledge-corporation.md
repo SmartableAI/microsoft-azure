@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Microsoft Sued for Trademark Infringement by Azure Knowledge Corporation"
-excerpt: "Azure Knowledge Corporation \"Azure,\" a leading IT company of India, has sued Microsoft for trademark infringement and for passing off for"
+excerpt: "Azure,\" a leading IT company of India, has sued Microsoft for trademark infringement and for passing off for the trademark"
 publishedDateTime: 2020-05-19T15:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/microsoft-sued-for-trademark-infringement-by-azure-knowledge-corporation-301061360.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/microsoft-sued-for-trademark-infringement-by-azure-knowledge-corporation/article_23d5bf19-d2a7-57e3-be3e-3efd5bf65576.html"
 type: article
 quality: 36
 heat: 36
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     title: "Microsoft Sued for Trademark Infringement by Azure Knowledge Corporation"
 
-secured: "aQq31qfQIfYM6VZ1/kVOHit6hnBDsGqBOxhYxXq68IGmOLgqiHAVt6oe8CNjPk+6V4iLzChtvmVn2J4qUiVyQSlAs2ij0oQNu/sLMnW4zd+VlAu5RXB+ew8Cu2fJ/7VjrV2166WbiX3hIOtHEa99u17jqj+fRPegAMyYlJfGPDQ3UVbGz8V0XMIxo6UaZTYIBZ/HvjFgyPFm4yhWZOXMdU8IvRR13GuRUzaMrLNEEtTlDl5pEB3E7JtMI8IzFPt09dHvSjHhJ3qR94p59W0HhfOth7j4ZlI7eB8LtIlN1PW3uDVgaECuVK2MgwBMKBR6;aLm+Y7ZRydMsqGRUY7MU6g=="
+secured: "7BcJThPBn5vRyN7Ud+WLNRwDojWj0ez9bhIAHBQS8SVnff3DyNk3TgJKTJ7KVCDJ0qpjdqz3GRg/QUe89XcqhQOF98ocVhuF3czBc5LQUlSyiHnEBAtobYc/1DB32fllxNa+kbLQ3RYn01Q1itkUuOmffPeDr0YQ9Ii66A16i8/LalW/hhLipVP6t5G5WsmfIm4apt7zOJ6bd9voBFbE+UX3exkK7/GAAC+rbCRJgPRNoDZBF3hY+hGyr1fPQch3APVYSy2PRfNuTllurEyYt+H+VUSlgrPKP51b7L0jb8wdvadYZP7gwO9tU31yYUbw;xoqyqAMNKTWG3NamDNvMHw=="
 ---
 
