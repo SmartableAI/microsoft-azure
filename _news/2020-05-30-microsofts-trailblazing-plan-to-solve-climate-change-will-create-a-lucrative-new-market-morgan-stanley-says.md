@@ -26,6 +26,6 @@ images:
     height: 600
     title: "Microsoft's 'trailblazing' plan to solve climate change will create a lucrative new market, Morgan Stanley says"
 
-secured: "qcICouP+qHE6YDMx/dWNErf0WTUpIGyksjh25g0+ykM6riEKk7egsRVHlXvKLnKnVLhkIsmX2oUCSDLBWCjygtBIOvbE8wq88Q/S17sIy9x8PrbGJwRZrOZge3/EUQ/0LJOqmMPT5iQJVStLtcrcSsWCg6blUGZmqsXK0B7figJ7s6JAgjqVpondoyNkgk3P4CPKNRAGQBDYH8GvmuZ9H1FJ/XhGU8o5KCqgmUD16tYo4QSwVPDL+LVDNMqbCS4H6nXcIvAMkQbMQ36ufIS0dIM1XxUM15BNBo6NsxLIEzau8H7YHvkj6l2AHkbMMttH;FIq9OJDOJ9FWYTKExLhNIw=="
+secured: "Y+OfyFK+u9Hlky2R1r6kwUD7mxt2geF0EOoWLeT0C88SUcg5L5tca3wkktcmqJi3UGwbuX0J5BQIWANQTLZGRx3zXsHXmSa3MCToq73K7pIuA1ZgrL4EBiO7W0ag8oOi89rgtuPfb3ssuOwovldLKBrRZl0B/9KUiIswPQyt6xtfp310dDigwUbQ+/cdgZRlaM7o2ck0uoPQdFEqqYWTlwmJwkd6bZSZW/rJ8auG91UztDqUtvhVYo+OzKeD3m7cfVrbicJCLvub6TIRbRRnLbDcPlh+MfuUMa50PmexpZaPwX0WO9GiZiReXB8+Qh8sQJTgTr/DMoSbaOYSoJIW5PAlSuTYfJlIAoNqL6wiXXzl2SsGw62l/SD27+/zkR9FT4DpFsy+ebV2WfS/uYHWmibcrJkwfGO+XKN4YGh8I17DEuJX7gLjfixl+P8Rk8+qiP6P1k4Sb5O4S6uGMyU+cnkuF2Glhy0jPaSE68Hr3es=;4dLb27WIhXb/q8TiflyfjQ=="
 ---
 
