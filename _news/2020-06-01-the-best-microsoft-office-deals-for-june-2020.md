@@ -3,11 +3,11 @@ category: news
 title: "The best Microsoft Office deals for June 2020"
 excerpt: "Microsoft Office is paid software, so a discount is always welcome. Here are the best Microsoft Office deals you can find right now from various retailers."
 publishedDateTime: 2020-06-01T07:23:00Z
-webUrl: "https://www.digitaltrends.com/dtdeals/best-microsoft-office-deals/?itm_source=69&itm_content=2x2&itm_term=2356592"
+webUrl: "https://www.digitaltrends.com/dtdeals/best-microsoft-office-deals/?itm_source=4&itm_content=1x6&itm_term=1143132"
 ampWebUrl: "https://www.digitaltrends.com/dtdeals/best-microsoft-office-deals/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/dtdeals/best-microsoft-office-deals/?amp"
 type: article
-quality: 62
+quality: 82
 heat: -1
 published: false
 
@@ -21,6 +21,12 @@ provider:
 
 topics:
   - Azure
+
+images:
+  - url: "https://icdn2.digitaltrends.com/image/digitaltrends/office-365-free-eduction-0001-1200x630-c-ar1.91.jpg"
+    width: 990
+    height: 630
+    title: "The best Microsoft Office deals for June 2020"
 
 related:
   - title: "The best Microsoft Office deals for May 2020"
@@ -39,6 +45,6 @@ related:
         width: 990
         height: 630
 
-secured: "j5qwsoJi4328ywTFjxKoNndXIclgeX6x+IoZDk1qn5N6AcSaHLeFhvvvbxcNP4QTMerksPcXrDbC1NApigz+RFHMPaeqMgKUXxczDtEaGCGv3ZxwYDA/gf6+84cCuZ5NmKqVEdZzQXfOObO0/Vycr3YOGwVwSiDSPdSy0iGXSfNBGk/E5hagX/QEUXcPlkd9Kaw6B/ySCQWwLhB5mJPtLO1WdhPeYlPiaVpooERyqVRJTACYs3K3CYQ9lGkDdvyEn8Hn5Np90BAKm7J5ZFmS30UbDvnnBhaqpTMRdf7yMYz56GfErftnXtK8PBIfx4aGuwXbWyVR0H5maPAlGy/GYzAtSHh9UBUEjErEngh46AMaIl+NblJjsFN9L+XqT4+SpkSim32an/5HfAgGjjVoZDeQYiAqklox1/ZU8jFHsINIRAVEefToRbICxcgKFohDnicpZ+r3LKA5I2RhXQlbauJXSXPwaQaM+ukodP80JzY=;nJ/Kz/VdL5XiqUmmDw5ZSA=="
+secured: "tSUS9uWSqXxh7LZPk2YTI3pEbZ123EDXdt78Wkj+L23YwuLwEq8CuxihiPysc4FDV6J4D+4YG1wA9l2nsPDL+NiQbQjiyKcUdhm0UYJUpsMokKKcnvCKVvHHGJGeDhzGkgUGHThg+flvpxUhEuT0ex9efvjqZOtCKlfvSasCZB1K0RVZ1zfBHMReXqT/CsmZ3X2KtPheJh+GZLUy6tjVaat2rb4NTwN45cZtfMNJyXSNYVcPA7y2ovOlumbjUm2S2E7LCdYoAL5ubhBRUWD2ai6VS5hUWGrzvkVQUhsFlmHk+3/fgLFQbCytsKPdbvVq;PqTqavHqKZzI67xYY1zZHA=="
 ---
 
