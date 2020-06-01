@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-01T11:01:00Z
 webUrl: "https://www.marketwatch.com/press-release/wandisco-releases-livedata-platform-for-petabyte-scale-cloud-migration-to-microsoft-azure-2020-06-01"
 type: article
 quality: 68
-heat: 68
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,34 @@ images:
     width: 1200
     height: 630
     title: "WANdisco Releases LiveData Platform for Petabyte Scale Cloud Migration to Microsoft Azure"
+
+related:
+  - title: "ScientiaMobile's WURFL Microservice Now Available in the Microsoft Azure Marketplace"
+    excerpt: "RESTON, Va., June 01, 2020 (GLOBE NEWSWIRE) -- ScientiaMobile, today announced the availability of WURFL Microservice in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2020-06-01T12:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/scientiamobiles-wurfl-microservice-now-available-in-the-microsoft-azure-marketplace-2020-06-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "SepioPrime Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Sepio Systems, the leader in Rogue Device Mitigation (RDM), today announced the availability of SepioPrime in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2020-05-29T13:00:00Z
+    webUrl: "https://apnews.com/PR Newswire/f5b85ffe40d0191068bb0e60ed78df05"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
 
 secured: "HOmtFTnJV87i0EUhMR3MlaEIsYkP09xcRw/OK/kCeE0MaD6ny7vSXxOzl2eL2kQKRYeRPygSk4dF2o/y1vfL1cwe+cfal0HItgAW4XfTcGmzzwrhrbiocxsHaQNM4FsgeKJBDVNyhbENtHRczwDIiFFOv3fHdvNd6nkSx01ArsCxd4wutcRq11Q65dsIVJ6t+XQX+Dgaal/RuIXWkGvcc0tZ5w4QNhZSVbXSX4x2yhLE7ytlZ+JBnETCfuptBLGHhFkO0kghaDzLt0WaXDtF+vYsATWcJCmzgqH/7U7iE9HH9EfjbTuu/coM30Tgl7Tu;sSO6YWTtvg962R5BxO0cSw=="
 ---
