@@ -22,6 +22,6 @@ images:
     height: 1047
     title: "Informatica Showcases Industry's First Cloud Native Data Management Solution for Cloud Data Warehouses, Data Lakes, and Lakehouses"
 
-secured: "LHXbx4XQxAQCid8L+0KCCKBQa8+OSyPjqrFmPiuCi/7S7yur41LARkpgZ77pK8UCKxN46ciID6/DMfxetjQxQNpgcbxV+O7DOmlSqNNI5aeaIoUo1a/XGN0HRFDdOEHryvwYc2jj3TLlLc5r18GB1w2RzleqWiCIRd7r6zdH+04wANLqY0QAH4QC0tjzPtZYZTJJTDqlsIY2ROvwlozYGekvtN1O3NXSTVJHduj+E8Iabc6VHclF1X9prVP38F8WTUfFmMV7i26wtOfaPiU+dTf8MfeZhW3e4o1KRSmCQquY5LND/3IbCqvhTRq+OcIL;IpMdB9RMeSyrY6Msb+bpxQ=="
+secured: "cCdFux+gM9/PwNz6sqywuPl+mzKesUEknORABv9r9iDLGWtOVYNRkf46rPCPgv//x98FAPbm/SMt3UezInX9frqmWpoG7LF/KLyC+2kXE2+PJFJTg0cL/6RjllSyJjfSvOVkvpoghcn3X+Sx2VCWdAmGzDMoa1NWUL4CmmvK67SD73t1PoHaXx4bf/MwIqWhLtHrbQxqr97MQphxPlMThhGlwjXl9aX2XjJs28pcezGfxxCn44Sok5s8hURwPZty3t2+B47yhuks040BsutLveYQMrMF1zXabF/Ubb1gjHiGrB4iKX2pEYGl6R9CHCVmJ8TRTOa33sji0Ytb0Rj09JImd/9zCZnwY3Qfd+hYSMXkyV7Ka14iN6igYTCwTmjcLQwWQ7TJXtdajwkKdzHyW0dBRddzToESzUlSLUeuN+yjIEfZx7Utjj0/YEwcy5vhf8UUKrEAnEDo3l5QxpSLjSLhQ4HmMuP4FvSehrbFmyA=;TRnAAj9nzXwKl/YHItGS0A=="
 ---
 
