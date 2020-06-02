@@ -2,6 +2,95 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-05-12-announcing-the-general-availability-of-azure-spot-virtual-machines.md",
+      "title": "Announcing the general availability of Azure Spot Virtual Machines",
+      "excerpt": "Today we’re announcing the general availability of Azure Spot Virtual Machines (VMs). Azure Spot VMs provide access to unused Azure compute capacity at deep discounts. Spot pricing is available on single VMs in addition to VM scale sets (VMSS). This enables you to deploy a broader variety of workloads",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-spot-virtual-machines/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-12T01:00:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/333076bc-4f9e-4461-9ba7-810752e19173.jpg",
+          "width": 800,
+          "height": 468,
+          "title": "Announcing the general availability of Azure Spot Virtual Machines",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-microsoft-reportedly-teamed-up-with-oracle-to-fend-off-amazon-for-the-pentagons-jedi-contract.md",
+      "title": "Microsoft reportedly teamed up with Oracle to fend off Amazon for the Pentagon’s JEDI contract",
+      "excerpt": "The Information revealed Monday how Microsoft had a “secret alley” — Oracle — to help land the coveted Joint Enterprise Defense Infrastructure contract, a $10 billion Pentagon project that",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/microsoft-reportedly-teamed-oracle-fend-off-amazon-pentagons-jedi-contract/",
+      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-reportedly-teamed-oracle-fend-off-amazon-pentagons-jedi-contract/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-reportedly-teamed-oracle-fend-off-amazon-pentagons-jedi-contract/amp/",
+      "publishedDateTime": "2020-05-11T14:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2016/04/20160404_Envision_07-1240x828.jpg",
+          "width": 1240,
+          "height": 828,
+          "title": "Microsoft reportedly teamed up with Oracle to fend off Amazon for the Pentagon’s JEDI contract",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2020-05-11-azure-file-sync-is-removing-support-for-tls-10-and-11-in-august-2020.md",
       "title": "Azure File Sync is removing support for TLS 1.0 and 1.1 in August 2020 ",
       "excerpt": "",
@@ -1158,94 +1247,6 @@
           "width": 698,
           "height": 634,
           "title": "Select multiple resources in Azure Monitor Logs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-azure-monitor-logsadditional-improvements-made-to-tables-side-pane.md",
-      "title": "Azure Monitor Logs—–Additional improvements made to tables side pane",
-      "excerpt": "",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-monitor-log-analytics-tables-side-pane-additional-improvements/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-06T18:00:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/2633b8e9-4a3b-4ece-8f75-ff1f1619fc4a.png",
-          "width": 613,
-          "height": 273,
-          "title": "Azure Monitor Logs—–Additional improvements made to tables side pane",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-microsoft-offers-hackers-100k-to-break-azure-sphere.md",
-      "title": "Microsoft offers hackers $100K to break Azure Sphere",
-      "excerpt": "Microsoft recently launched the Azure Sphere Research Challenge, offering approved security researchers up to a $100,000 reward for identifying dangerous exploits that could potentially impact the security of Azure Sphere,",
-      "heat": 157,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/cloud/microsoft-azure/355567/microsoft-offers-hackers-100k-to-break-azure-sphere",
-      "ampWebUrl": "https://www.itpro.co.uk/cloud/microsoft-azure/355567/microsoft-offers-hackers-100k-to-break-azure-sphere?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/355567/microsoft-offers-hackers-100k-to-break-azure-sphere?amp",
-      "publishedDateTime": "2020-05-06T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1588785400/itpro/AS.png",
-          "width": 902,
-          "height": 602,
-          "title": "Microsoft offers hackers $100K to break Azure Sphere",
           "attribution": null
         }
       ],
