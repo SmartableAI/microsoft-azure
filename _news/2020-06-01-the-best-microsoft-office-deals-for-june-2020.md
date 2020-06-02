@@ -3,7 +3,7 @@ category: news
 title: "The best Microsoft Office deals for June 2020"
 excerpt: "Microsoft Office is paid software, so a discount is always welcome. Here are the best Microsoft Office deals you can find right now from various retailers."
 publishedDateTime: 2020-06-01T07:23:00Z
-webUrl: "https://www.digitaltrends.com/dtdeals/best-microsoft-office-deals/?itm_source=4&itm_content=1x6&itm_term=1143132"
+webUrl: "https://www.digitaltrends.com/dtdeals/best-microsoft-office-deals/?itm_source=10&itm_content=2x4&itm_term=2356592"
 ampWebUrl: "https://www.digitaltrends.com/dtdeals/best-microsoft-office-deals/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/dtdeals/best-microsoft-office-deals/?amp"
 type: article
@@ -45,6 +45,6 @@ related:
         width: 990
         height: 630
 
-secured: "lND/ZQR7F6t9vQxZ/UrYoV1MpjHBvIRfW5K9zpK70hKD6wdlr1WFLBLhOC7JhgFA5szOAQVRUyJ18wyG8z/z0W4Jv07nFRgP8EMiskjErZSFMUoctngy8rMrY/TQgORtLvXHRUYV80bwe5HAq/rMn+YnuqX0Caydy2opjWPsakWqbA67nnkpZZc30Le+20M+lCiYTZTm1LSWrGuzihKrGh0OvT12FNZj0QgvLb5/jr0+O9nJ3WXC2S7fPSrjCJ6YzAtVsvFEDH9LYLTP81ubmYv2OpCGGCUdRjKqAUdD+CAeMbPQ9ucPYlYEY6Rer4xagCpCxAv0blqeLr+eiYjYrn1FJoUNqFZWSUtWuJi9TqSB9bWCxNQfi/aH4dhOc1JxayV1Ou7JRoQU/ZAsDP+nhMMqJpByS7z31n3h7PmwwIpDJYiEN8u1r6HIBYYQYq+/IZ8vC6HiD9xjuB4hY2zl4wTIMmQC0rmeh9z+k/7smrA=;P3CXFb4MB3vXN1Df+Iudlw=="
+secured: "owByuFdRQvU7XX7UpfU0k9oeboaJKU6UWZDI6abFb715hR0TCR1u2b6Hrr+jzeqpEjyNfPBPdlX9hEtathi0PrjwbhJviZn8ujOECYtJNHT42FEsjqM6wdn0wwzu+vtu5pjFEAIxOSEW54W8wCVcCDk/Q5JLXy/+5bJ54a2XVxFyoRYF9y61NjI5nlEsF8mEvItTZvlLDTVA5I0iC+Y1yM2gKKZ2td3JqBMTsJn7YEK8LuPvC2AOwVkDx4KTi2GQP1tDPpfWinq4lR7eJCcyiNp84F+WUY1u/3GqVkOn2zw4JZcNkVcdxSXhQdda1a1T;DNXIsQ417y+QGyXLLdHZDg=="
 ---
 
