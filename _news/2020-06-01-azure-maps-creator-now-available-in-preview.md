@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-01T08:00:09Z
 webUrl: "https://azure.microsoft.com/blog/azure-maps-creator-now-available-in-preview/"
 type: article
 quality: 97
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 780
     height: 768
     title: "Azure Maps Creator now available in preview"
+
+related:
+  - title: "Azure Shared Image Gallery—New features are now available in preview"
+    excerpt: ""
+    publishedDateTime: 2020-06-02T01:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/shared-image-gallery-new-features/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
 
 secured: "AT3s80Uubnc0SKTCjYSpdQfTWmyALfwNEXLKP18neEHYU0uFZI6nL5DyC1nWmt6w4CHjYnxDWK3fkRkfSEOdt1cpdyGwiSicIWCn2BsTxh34BR9ifRFHvhyE5wUCLTvVjTwqgAps9LzwCJIoZhEir5MPZzoA16oQEhhOeHoC+1KjOSXLauHB94yxk66UBTjvLnXjwMYRAaRlX69H73GGJYebFno/Wr+aPOlxFPd/Sq5tKYBBKcApjpsIJhfW8+3MGAmiufFa5mZCt9LbToONIszL8c3b5RAZoF7TadtRaj4qqK7/EIoxlIKSwi+gpMZWgYHB6dO9Ru+YIszFSTXrqQ==;q+dUZUz1E2LLX/9A19r9Rg=="
 ---

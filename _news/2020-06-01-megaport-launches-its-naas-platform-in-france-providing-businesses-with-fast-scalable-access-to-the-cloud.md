@@ -2,8 +2,8 @@
 category: news
 title: "Megaport Launches its NaaS Platform in France, Providing Businesses with Fast, Scalable Access to the Cloud"
 excerpt: "Megaport, a leading global Network as a Service (NaaS) provider, today announced the deployment of its NaaS solution in France. The"
-publishedDateTime: 2020-06-01T23:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/megaport-launches-its-naas-platform-in-france-providing-businesses-with-fast-scalable-access-to-the-cloud-301068847.html"
+publishedDateTime: 2020-06-01T23:19:00Z
+webUrl: "https://www.prnewswire.com/in/news-releases/megaport-launches-its-naas-platform-in-france-providing-businesses-with-fast-scalable-access-to-the-cloud-828573806.html"
 type: article
 quality: 4
 heat: 4
@@ -22,6 +22,6 @@ images:
     height: 393
     title: "Megaport Launches its NaaS Platform in France, Providing Businesses with Fast, Scalable Access to the Cloud"
 
-secured: "Ry6FM3ZjldnlyCKsNZ+5EcPnOisuJ4O3XFX9Ak7DypuGAy08n1aCKeDh6XoY569jVF3DCfcCTKNI/bV8jijSgM0pCzNPVupic/mcg34FqAaLeW2juP3SToexn2QT5wBN39Sa0sfe4yO/R882d+D/zvdC/Hg52Clkkxr/nwWOlzTmNJdyZJaztUJbKHX8jQ4Uf6ByjfqjWGuaqVmzICm14ouqCVHh5xX2n5YkmsI01dpylYLQ8ue6fJX6KKErFMYiXmM3xeKIgwCkP+bdsl5IOgZOGFU+wpfZ1tBPLm5Y3Rk0LGG8E2C0q+d2K8nlKioZ;yVi03BDe/F6K77eRYz11fw=="
+secured: "s75QmzmxyR5tWkFKPhW1xeL1uSOJIaXdgXZzhFCxKfMB28sA3T+KsCKivsUe26fVPbp6QbnLApbw6SHNJyogGPwNGSia6pIetm86eLNGGMo8+unMz8hJ3RFVTji85cdvfX1BYDB5wCROSFk6KAZ8ugFia3DxxxKDpOorxz8yOPOeFUrESMBh4KsgAsgs0MclcKdSqbvCOsnSn3iW7wI5q2HYNXl32P+xW4YSRJBOa8R5zKmzQJXytdIMbwL7mp18TPsHodUFXedlGaG9UIyOX7lhmOynq1I4hnadg8M8dhggBLa/gkIe9ndM5P7MKDeY;RAl+9yGJyIOHxmjx+TLkGA=="
 ---
 

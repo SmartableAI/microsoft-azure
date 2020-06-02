@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/samsung-access-phone-subscription-17225
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/samsung-access-phone-subscription-172251731.html"
 type: article
 quality: 82
-heat: 102
+heat: 122
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     title: "Samsung's new subscription bundles a Galaxy S20 with Microsoft 365"
 
 related:
+  - title: "Samsung Launches Subscription That Pairs Galaxy Phones, Microsoft 365"
+    excerpt: "Samsung's Galaxy S20 model, sitting at around a $1,000 starting price, will now be bundled with Microsoft 365 and other features at a bargain to offset the cost."
+    publishedDateTime: 2020-06-01T23:59:00Z
+    webUrl: "https://www.pymnts.com/subscriptions/2020/samsung-launches-subscription-pairs-galaxy-phones-microsoft-365/"
+    ampWebUrl: "https://www.pymnts.com/subscriptions/2020/samsung-launches-subscription-pairs-galaxy-phones-microsoft-365/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/subscriptions/2020/samsung-launches-subscription-pairs-galaxy-phones-microsoft-365/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 22
   - title: "Samsung Access upgrade plan offers Premium Care, Microsoft 365 and 1TB cloud storage"
     excerpt: "Samsung Access will let you own a Galaxy S20 series phone by paying a monthly fee, and then upgrade to a new flagship after a period of nine months."
     publishedDateTime: 2020-06-01T17:14:00Z

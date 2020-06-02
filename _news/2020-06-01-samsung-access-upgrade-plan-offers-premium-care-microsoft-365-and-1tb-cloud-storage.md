@@ -38,7 +38,18 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F5022a290-a41f-11ea-beff-36adae252f00&client=amp-blogside-v2&signature=7596c0cfc4b14cdcff2e1bb2fee8cb957179aceb"
         width: 600
         height: 350
+  - title: "Samsung Launches Subscription That Pairs Galaxy Phones, Microsoft 365"
+    excerpt: "Samsung's Galaxy S20 model, sitting at around a $1,000 starting price, will now be bundled with Microsoft 365 and other features at a bargain to offset the cost."
+    publishedDateTime: 2020-06-01T23:59:00Z
+    webUrl: "https://www.pymnts.com/subscriptions/2020/samsung-launches-subscription-pairs-galaxy-phones-microsoft-365/"
+    ampWebUrl: "https://www.pymnts.com/subscriptions/2020/samsung-launches-subscription-pairs-galaxy-phones-microsoft-365/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/subscriptions/2020/samsung-launches-subscription-pairs-galaxy-phones-microsoft-365/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 22
 
-secured: "RkxFpLZewR0H4CHrxsIs5/YRJvXZY2ayTuE+EScfzij4aWjqWsl3reaVrERP5TiAbBrXmLsonAmye0mFLSHlzqU8uV4/Fe+YIZf3hrzdU4gFNJMWnZuoG3OkRyEHNaMWRRA05pr2rBILNwTvea8hPTmueZavePCDvVvfDkdT5DowWBhSo7Pwmc8gE+sdiM5wtUF11c7jiXlKSitGPhHL/9hcuHvC8rdMjYIQqCbedp5rFoWgZdJ3rGJQo/djkTVcLCl2KUU0AxEFG1G0g3RT9jB/QZedtst5t6iPybEuHaK7vl6nntnd7fX7Ay6HkWIi;QYnpGvOEoZ5AasqjAKWa8Q=="
+secured: "hdYoT22+3LVt2l6kZI1DLtMdrWm53JBlz4RV+pt22iiHdsH3hMNS07Bvyu8JvKN50HlJ04VDg9f17dZ6lQS+YqFle+pbQ5JEhL19oNv2HYdDlFLk2h/Ht5oIemLBUkETaLFyZwmcZkAPRNthuoDnpKKGzN0Tn9P1dTFWiHEpsGi4Wcqgmnn0Hr6R+2cJqcgJJ+kiAt1fiQUa9FypCNvPCAdVKyBjJZWFLvmCOPVvTUFxo7ypjTYLEz9fK1un8Ke0KOq43oYXo5kn5khy18xD+lOCeTacdYeG3bApcQ8CuDwTX5WaJjtZYv3+e+VJFlPNAc6qMm9TP3rau2I20dw8hryzI6uVWGBVBNnDCvAHS4YhDHTixOUx7XXFUnuWVCQmHxicRxSjO4iqxYh+wqf6YZtk8RguZ7PNa+DmyD9icGVqcBhMSszKzbJ8PkTXsdhDD+8pkbVrr+UYWl6jEfVXzW2ATLeVYUVoJniuAKp87rk=;uGA2dT1jBo88lqLfbgZzSA=="
 ---
 
