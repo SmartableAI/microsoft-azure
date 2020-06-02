@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Informatica Showcases Industry's First Cloud Native Data Management Solution for Cloud Data Warehouses, Data Lakes, and Lakehouses"
-excerpt: "In addition to the live keynote, today's event will also feature on-demand technical demos and sessions with customers including Paycor and Kroger, and partners including Databricks, Amazon Web Services, Google Cloud, Microsoft Azure, and Snowflake, that attendees can watch at their own pace. Upcoming events will address intelligent and ..."
-publishedDateTime: 2020-06-02T14:06:00Z
-webUrl: "https://www.prnewswire.com/news-releases/informatica-showcases-industrys-first-cloud-native-data-management-solution-for-cloud-data-warehouses-data-lakes-and-lakehouses-301068972.html"
+excerpt: "Informatica®, the enterprise cloud data management leader, today introduced new intelligence and automation capabilities to the industry's first Cloud Native Data Management"
+publishedDateTime: 2020-06-02T17:30:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/informatica-showcases-industrys-first-cloud-native-data-management-solution-for-cloud-data-warehouses-data-lakes/article_bb7f15b7-9cf1-57ec-9ee0-f3677ff031e7.html"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
 
-images:
-  - url: "https://mma.prnewswire.com/media/692190/Informatica_Corp_Logo.jpg?p=facebook"
-    width: 2000
-    height: 1047
-    title: "Informatica Showcases Industry's First Cloud Native Data Management Solution for Cloud Data Warehouses, Data Lakes, and Lakehouses"
-
-secured: "cCdFux+gM9/PwNz6sqywuPl+mzKesUEknORABv9r9iDLGWtOVYNRkf46rPCPgv//x98FAPbm/SMt3UezInX9frqmWpoG7LF/KLyC+2kXE2+PJFJTg0cL/6RjllSyJjfSvOVkvpoghcn3X+Sx2VCWdAmGzDMoa1NWUL4CmmvK67SD73t1PoHaXx4bf/MwIqWhLtHrbQxqr97MQphxPlMThhGlwjXl9aX2XjJs28pcezGfxxCn44Sok5s8hURwPZty3t2+B47yhuks040BsutLveYQMrMF1zXabF/Ubb1gjHiGrB4iKX2pEYGl6R9CHCVmJ8TRTOa33sji0Ytb0Rj09JImd/9zCZnwY3Qfd+hYSMXkyV7Ka14iN6igYTCwTmjcLQwWQ7TJXtdajwkKdzHyW0dBRddzToESzUlSLUeuN+yjIEfZx7Utjj0/YEwcy5vhf8UUKrEAnEDo3l5QxpSLjSLhQ4HmMuP4FvSehrbFmyA=;TRnAAj9nzXwKl/YHItGS0A=="
+secured: "8PwlxounQMAyORsSD+NUK8zNw8xoeOkjgAFQX/cwpNYQSRVQ39iu3j5w3ZyHCmmakiOO9ne+Hr2ovlqjdDRNVuBX7H9m2jHbg/dOqglVW/Sof+Duf2Uw7R25uBWA5uwskoeufD1GlvriTtpf0Gw40kadIICaFCCBhcOReR4SFZLmSD1hXNqqyxEVxeBRW1WKEs36wcRK5++honwfwfgaYRaPF5zFFbfZSrN6lwf1RqFJxLdV11vJ/KsQfoabZMHAyJ+BmmEFAMn4BsNNcxQYYGMKdH1I/qf9nmH9zcyVF7c1I0zmjOTRg5iEWN/tXZftW4h3ZvGCk+HI2/q22OA+k8VR93EE4x+GT7mVeAK464qGuQ9OZm97C2cYRrAtIPQ//yO8OuHEvVByKcWal1VmZHBNlHCMcBTaGVVr2Cn/bUyg1pNfZqACsS/xPm12awq+95d67czmoj3WyPH81DHU5lIG2iAmaUiShblD3iGCwJ0=;MODdsrWR7GiESrGFwKFuDg=="
 ---
 

@@ -1,16 +1,15 @@
 ---
 category: news
 title: "Best Memorial Day Xbox One Deals 2020: Consoles and games"
-excerpt: "How do you choose between the various Xbox consoles? We’ve taken some time below to describe each option in a little more detail. Microsoft currently sells three different Xbox consoles — the Xbox One S,"
+excerpt: "Summer is nearly here, and so are some great Memorial Day sales. Among your standard gardening tool and outdoor furniture deals that seem to appear just about every holiday, we’ve also spotted some great sales on gaming gear,"
 publishedDateTime: 2020-05-25T16:57:00Z
-webUrl: "https://www.digitaltrends.com/dtdeals/best-memorial-day-xbox-one-deals-2020/"
+webUrl: "https://www.digitaltrends.com/dtdeals/best-memorial-day-xbox-one-deals-2020/?itm_source=35&itm_content=2x4&itm_term=2496699"
 ampWebUrl: "https://www.digitaltrends.com/dtdeals/best-memorial-day-xbox-one-deals-2020/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/dtdeals/best-memorial-day-xbox-one-deals-2020/?amp"
 type: article
 quality: 82
 heat: 82
-published: false
-removed: true
+published: true
 
 provider:
   name: Digital Trends
@@ -29,6 +28,6 @@ images:
     height: 628
     title: "Best Memorial Day Xbox One Deals 2020: Consoles and games"
 
-secured: "awK8KRpJed8EDmbUAlBk2qYruIhDdflfZRHelnrxJiqVhCsBgqVC3GmQnQ4PuEho4cnolHNXqz1is5CPCu9UWu7oFM67xNTa9eb0YVM35T2A7zJIgU0gsA5UyNua6t3aTaJmhBCHZ/4t3+uu5QH5SB4138dEiPavMNHYm1OlSt5wjZGEvw2GGy2utwusXLLD9P1mvbghrOWGsPXq8t60DM5Ix9v6Q8Vu02NeMIxqQvJUsbVgDztOO/bQIvvgV2DNG7xpaNwixCMtJz3myuZRRpY83MDPf7BxoIz7hqdYVcbnO6m5OWYViC63an84/or+LjNhWj9JKeixPmnzVOuOcGeZpPHjlVzpnUTL0Iw010ISqXIoEXObtQosmyvLP7gWjkGRnyvG971nr+7DmiUgQ8/casClJSndjkax5YYMIvWtPPTQvB8Rf083W0udODcte7E+mKFlwlHjPTPsE5uHtEa3WEomxNCa6ZglPAFddMQ=;w4qBW+Ceagrb5xDuapnKcg=="
+secured: "/yZO4Pccox2vqaWROhBrqVafz/wFCIrBXQMTO7Eqgv4u7RTWg5ChjtnGBKVj3AvAuyR6lrJRpxF5MYcB0C5bqcGB0qA3dPmlPwJhCd0oVJpkWaPBMRXB4jL4fFxNwAfl38qD4h5uW0ywB3MsVWV4rx9U8srNjUTveEbvqt4g2bzBq7MqvBwEw5YxqOP8ebFsgOpxLFzUZpDacguluWFZrkIuX1SLn4eVLGIrB2qiUnUF2fyvvWpqwP0+CDUTcK2JWZo26NrA8qUbdakMbPcgZdWsoHcnXSjK9TmBIIbqcuY9lrFmIcUPJ1mRDpmHeujm;U9EmO4QUWgFyzYTtoI1PRA=="
 ---
 
