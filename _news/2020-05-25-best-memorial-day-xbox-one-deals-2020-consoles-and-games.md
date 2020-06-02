@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Best Memorial Day Xbox One Deals 2020: Consoles and games"
-excerpt: "Summer is nearly here, and so are some great Memorial Day sales. Among your standard gardening tool and outdoor furniture deals that seem to appear just about every holiday, we’ve also spotted some great sales on gaming gear,"
+excerpt: "How do you choose between the various Xbox consoles? We’ve taken some time below to describe each option in a little more detail. Microsoft currently sells three different Xbox consoles — the Xbox One S,"
 publishedDateTime: 2020-05-25T16:57:00Z
-webUrl: "https://www.digitaltrends.com/dtdeals/best-memorial-day-xbox-one-deals-2020/?itm_source=35&itm_content=2x4&itm_term=2496699"
+webUrl: "https://www.digitaltrends.com/dtdeals/best-memorial-day-xbox-one-deals-2020/"
 ampWebUrl: "https://www.digitaltrends.com/dtdeals/best-memorial-day-xbox-one-deals-2020/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/dtdeals/best-memorial-day-xbox-one-deals-2020/?amp"
 type: article
@@ -28,6 +28,6 @@ images:
     height: 628
     title: "Best Memorial Day Xbox One Deals 2020: Consoles and games"
 
-secured: "/yZO4Pccox2vqaWROhBrqVafz/wFCIrBXQMTO7Eqgv4u7RTWg5ChjtnGBKVj3AvAuyR6lrJRpxF5MYcB0C5bqcGB0qA3dPmlPwJhCd0oVJpkWaPBMRXB4jL4fFxNwAfl38qD4h5uW0ywB3MsVWV4rx9U8srNjUTveEbvqt4g2bzBq7MqvBwEw5YxqOP8ebFsgOpxLFzUZpDacguluWFZrkIuX1SLn4eVLGIrB2qiUnUF2fyvvWpqwP0+CDUTcK2JWZo26NrA8qUbdakMbPcgZdWsoHcnXSjK9TmBIIbqcuY9lrFmIcUPJ1mRDpmHeujm;U9EmO4QUWgFyzYTtoI1PRA=="
+secured: "nXIancgZCuRMgWSztKfoE4FkJMyTDqgSYWXVaxG5c79avxxGRkse6p0u1D1Gm8+SohYW28/6busoDrqdq0Ya+Mo6Pa5sIadU37hqWKumOJ7NQTRxwofS+IQbglIC6Ml1Uy006YXPBMhdaA03gH8Utdf+0ut03nJjPPV53T3a5nal7/UW6JcHT5DY1bhXrVHxURtMSSrTZqNabqJRWzeXFetYReLq6FvdZV1Xye9Qnn5YQ7TLJ4yJWJrWrrkVoeQ7hxKCfg+bJlkLRu0DYkvUvLs0DVn4qfi4m+lDHnF2/QTK7ny0LGEF3jAnQsuoaoD+;MwZRkBuNQy/DSFYa0C29GA=="
 ---
 
