@@ -2,6 +2,130 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-27-streamlining-your-image-building-process-with-azure-image-builder.md",
+      "title": "Streamlining your image building process with Azure Image Builder",
+      "excerpt": "Customizing virtual machine (VM) images to meet security and compliance requirements and achieve faster deployment is a strong need for many enterprises, but most don't enjoy the process and energy needed for determining the right tooling, building the right pipeline, and maintaining it continuously.\r\n\r\nWe",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/streamlining-your-image-building-process-with-azure-image-builder/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-27T02:00:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/982ca0ac-4dbc-4750-a754-57cec2524c79.gif",
+          "width": 1280,
+          "height": 720,
+          "title": "Streamlining your image building process with Azure Image Builder",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-deploy-to-azure-using-github-actions-from-your-favorite-tools.md",
+      "title": "Deploy to Azure using GitHub Actions from your favorite tools",
+      "excerpt": "Enterprises and teams are adopting DevOps technologies combined with people and processes to deliver high-quality code, with faster release cycles and continuous delivery of value, to achieve higher levels of satisfaction for their own customers.\r\n\r\nHowever, it can often get difficult to craft CI/CD",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/deploy-to-azure-using-github-actions-from-your-favorite-tools/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-27T01:00:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e53fc3e7-de08-4b07-96d7-2228a4b23005.png",
+          "width": 1024,
+          "height": 449,
+          "title": "Deploy to Azure using GitHub Actions from your favorite tools",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-azure-firewall-may-2020-updates.md",
+      "title": "Azure Firewall May 2020 updates ",
+      "excerpt": "",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-firewall-may-2020-updates/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-26T22:55:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2020-05-26-log-analytics-new-query-experience-example-queries.md",
       "title": "Log Analytics New Query Experience - Example Queries",
       "excerpt": "",
@@ -1102,122 +1226,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-20T21:00:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-azure-stream-analytics-now-supports-error-codes-in-activity-and-resource-logs.md",
-      "title": "Azure Stream Analytics now supports error codes in activity and resource logs",
-      "excerpt": "",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-stream-analytics-now-supports-error-codes-in-activity-and-resource-logs/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-20T13:00:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-pentagon-unit-taps-google-clouds-anthos-for-multi-cloud-management.md",
-      "title": "Pentagon unit taps Google Cloud's Anthos for multi-cloud management",
-      "excerpt": "While long out of the running for the Defense Department's major JEDI contract, Google will help the agency's Defense Innovation Unit build a secure cloud management solution to detect global cyber threats.",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/pentagon-taps-google-clouds-anthos-for-multi-cloud-management/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/pentagon-taps-google-clouds-anthos-for-multi-cloud-management/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pentagon-taps-google-clouds-anthos-for-multi-cloud-management/",
-      "publishedDateTime": "2020-05-20T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/15/85d6fa95-3fc9-4009-8c70-c842435cd4fb/thumbnail/1200x675/e0aa90238cb2c7fd3050cbd975975541/google-announces-new-integrated-firstpar-5ebdf6d5a07d36782c1deff5-1-may-15-2020-2-25-42-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Pentagon unit taps Google Cloud's Anthos for multi-cloud management",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-serverless-pricing-model-for-azure-cosmos-db.md",
-      "title": "Serverless pricing model for Azure Cosmos DB",
-      "excerpt": "",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://azure.microsoft.com/en-us/updates/serverless-pricing-model-for-azure-cosmos-db/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-20T09:10:28-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
