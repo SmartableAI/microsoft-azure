@@ -27,15 +27,15 @@ images:
     title: "Global Cloud Computing In Pharmaceutical Market Segmentation and Analysis by Recent Trends, Development Trends and Growth Rate by Regions to 2026"
 
 related:
-  - title: "Cloud Natural Language Processing (NLP) Market 2018 Strong Development, Outlook offers Future Business Growth 2027"
-    excerpt: "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and"
-    publishedDateTime: 2020-06-02T14:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2018-strong-development-outlook-offers-future-business-growth-2027-2020-06-02"
+  - title: "IoT Cloud Platform Market Expected to Grow $11.5 billion by 2025 at a CAGR of 12.6%"
+    excerpt: "MarketsandMarkets forecasts the global Internet of Things (IoT) Cloud Platform Market size to grow from USD 6.4 billion in 2020 to USD 11.5 billion by 2025, at a Compound Annual Growth Rate (CAGR) of 12."
+    publishedDateTime: 2020-06-02T22:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/iot-cloud-platform-market-expected-to-grow-115-billion-by-2025-at-a-cagr-of-126-2020-06-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 40
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
