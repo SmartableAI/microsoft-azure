@@ -30,6 +30,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 42
+  - title: "Avanan Introduces First-of-its-Kind Cloud-Based Security for Microsoft Teams"
+    excerpt: "Avanan, the leading security solution for cloud-based email and collaboration suites, announced today their new security product to protect Microsoft Teams. Avanan is the first and only email security solution to extend the same anti-phishing,"
+    publishedDateTime: 2020-06-03T13:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/avanan-introduces-first-of-its-kind-cloud-based-security-for-microsoft-teams-1029276817"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
 
 secured: "40hCRgf+WSN+Sg6hEFsi8fC3+lZAbJnAYDn4qsuxGnmUOQuP8XBd0/T8LUNTeQMhfAOC2pBuN0l+GEpGq2bod6aNruMeUMVOSLJw+CNRM4LjKhd9s32Qlk8bu6kYrPp4SqHevqiAC3xU9CqujMmNW04kJRzhHKWiXXtNHKJzf89tmRXRL/aBl8JvSNpAYakWpeqK3jLSF2r7ZGO1t+3CTiZpaxKt+qzIwGgA1x6gndkhp6M384/JDuGYdkgCgPzyFa6pl55bdchXzDj9+1kNYGhDsHg0G6Fq5RUGQb4J6FtOvjHl/rOhVAnlIMvS2cK/;w3qGeHNU1jOk36XJhYNSYg=="
 ---
