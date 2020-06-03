@@ -28,6 +28,6 @@ images:
     height: 2003
     title: "UK agrees cloud deal with Google for public sector discounts"
 
-secured: "OvNQdyPfLPstMUziCiTqcqxNIEXKdKDT1gftVg0qhAPgwgg25JLB8zwwB+fpc9HB8ZIROIQGrUho1eYbmSf2mTryVIzNN8FXvRJ5PzWPiEifU3tlPWp/63ckeWuliMbzhOa8BV97mvemfMQ2/+wJVSg+/BE4xVs4x9feG+DqQzcl0mFwLWQijyHI5wJn5opwovrJ1geMn31FZuYBr/kmO+xSms9TjXFiMEAc5Yj1uXQFB0vdUcF+870ZnzfpPilqdgjXD5pV0YaCMbSHAVwh8LT813LB4vhkz8pe+mgy6APllmh8zJ1qlf+QlYr1sjgf;67/Zyspin2BgdBp7pUbMdw=="
+secured: "D/cAMCK+GZei8l3dVFfP3BqQSRdX6njcCHe5UOq7/5J5sz0ovqX7+S5jlydhnPR141W3waeXRa4ClJzAl7vABfTMLoQQb3rUm+Np/raR3+lk68HDzFu/sS8jE60Wv5Gxeg/ImNCLlbusDH8po5OvmJobuPtjybpuf7eiCyzBFtFUVM82bj6SGXOTFHcdBlliPdlnpndaABY/cUfjZwhW/8z/IO69YvVIKglzH36dfA0d2zIcVSrbpP3MQk9RsmdGFX9qTybUjPkwpdeofnZRYKI4mjLt4QKQtSzj2UvzBUg8H25BeRglBes0MdYUKOKYR+kO9mqOh1Kpz/rNOxfq6PYExwopr8wk+9pihUTawdgAlUZKOaIcBp8sohxWkbaH0D00FRRPI/s7oFxECFSFCaRVUBpdiFWS0owdRJZrUy5vWigV2BSDTPdzt/S19nXQwBdXMc1riE45ZrtA+0MyghjIjj2+w1uHXecvThCwDhA=;etWKcqscRTexx/WIzWXWig=="
 ---
 
