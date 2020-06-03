@@ -32,7 +32,7 @@ related:
   - title: "The best Microsoft Office deals for June 2020"
     excerpt: "Microsoft Office is paid software, so a discount is always welcome. Here are the best Microsoft Office deals you can find right now from various retailers."
     publishedDateTime: 2020-06-01T07:23:00Z
-    webUrl: "https://www.digitaltrends.com/dtdeals/best-microsoft-office-deals/?itm_source=10&itm_content=2x4&itm_term=2356592"
+    webUrl: "https://www.digitaltrends.com/dtdeals/best-microsoft-office-deals/?itm_source=65&itm_content=2x2&itm_term=2356592"
     ampWebUrl: "https://www.digitaltrends.com/dtdeals/best-microsoft-office-deals/?amp"
     cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/dtdeals/best-microsoft-office-deals/?amp"
     type: article
