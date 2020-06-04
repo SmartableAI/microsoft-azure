@@ -5,8 +5,8 @@ excerpt: "Customizing virtual machine (VM) images to meet security and complianc
 publishedDateTime: 2020-05-27T09:00:01Z
 webUrl: "https://azure.microsoft.com/blog/streamlining-your-image-building-process-with-azure-image-builder/"
 type: article
-quality: 97
-heat: 97
+quality: 99
+heat: 99
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - Azure
+  - Compute
 
 images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/982ca0ac-4dbc-4750-a754-57cec2524c79.gif"

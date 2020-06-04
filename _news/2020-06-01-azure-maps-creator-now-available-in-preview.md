@@ -5,8 +5,8 @@ excerpt: "As enterprises continue to evolve in their digital transformation jour
 publishedDateTime: 2020-06-01T08:00:09Z
 webUrl: "https://azure.microsoft.com/blog/azure-maps-creator-now-available-in-preview/"
 type: article
-quality: 97
-heat: 117
+quality: 99
+heat: 119
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - Azure
+  - IoT
 
 images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a6153b4c-6ec4-4b09-b1e7-dd8f2be265dd.png"
