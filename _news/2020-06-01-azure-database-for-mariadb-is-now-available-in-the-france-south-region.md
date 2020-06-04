@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-01T16:00:11Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-is-now-available-in-the-france-south-region/"
 type: article
 quality: 77
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -30,6 +30,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Minimal TLS version setting is now available for Azure Database for MariaDB"
+    excerpt: ""
+    publishedDateTime: 2020-06-04T17:00:49Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-minimal-tls-version/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 75
   - title: "Azure Database for PostgreSQL—Single Server now available in the France South region"
     excerpt: ""
     publishedDateTime: 2020-05-27T16:00:09Z

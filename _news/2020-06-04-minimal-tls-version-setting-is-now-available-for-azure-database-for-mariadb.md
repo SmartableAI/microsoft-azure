@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Azure Database for MySQL is now available in France South"
+title: "Minimal TLS version setting is now available for Azure Database for MariaDB"
 excerpt: ""
-publishedDateTime: 2020-06-01T16:00:11Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-is-now-available-in-france-south/"
+publishedDateTime: 2020-06-04T17:00:49Z
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-minimal-tls-version/"
 type: article
-quality: 77
+quality: 75
 heat: -1
 published: false
 
@@ -30,15 +30,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Minimal TLS version setting is now available for Azure Database for MariaDB"
+  - title: "Azure Database for MySQL is now available in France South"
     excerpt: ""
-    publishedDateTime: 2020-06-04T17:00:49Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-minimal-tls-version/"
+    publishedDateTime: 2020-06-01T16:00:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-is-now-available-in-france-south/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 75
+    quality: 77
   - title: "Azure Database for PostgreSQL—Single Server now available in the France South region"
     excerpt: ""
     publishedDateTime: 2020-05-27T16:00:09Z
@@ -49,6 +49,6 @@ related:
       domain: microsoft.com
     quality: 70
 
-secured: "CpDS+/FQAll3lV/rXI0HIM5BgU/Xyp1KRIGGK1aROP1VH8jIiirAArjVXg+4MbIDB1umlzxz2DAP+AsBc0to1yrFeQRkoYymwiY7vwK6Tn2RPTOIN3ibsGRd8ckLscJlpQqFJeOr8IChb7NQ8JQnfc69enpxb0U6ZAf/YUkUyWcUDGnLjCUlsorBgjGPUiA6Jky24H8rYkCL6suDz77Ea0cyNce2rMoPulKe/nLpIn560SYfDf6tnM/VZ0jzphMUNJasrJnCcezuS4C03fyfBnq2H8/vJozFGHujxssb9f/vuPhjbHHJOXOjBw2dQyd+O9QjIUoKqOaHTLskrJOQ8Q==;xLwgmnlA6/2M56dQJa0cag=="
+secured: "dW6yhMKQxKLaIcmbMXg7cRbb2a1hJlIcVZ8xn4YDG2uQRu314wQoNOPV+tQTl4vkMx8pTRY4GCmEtt1gTZzm4X1TBy4dqUMM3pndrU8cGcHLgghMfBTQyEFxSvI8k0pxY1x4THD85SSvKY8q28NcPmqFA/ywxNlwZ22363ZNBgW0IBooP4g2QB3uzBHpvFMZcLgjukZrpCXfW6yyTdi5goPJAJYSjebOb8c14d+w2XjFoUUA8nsBOVcaqwaoYbWcbF2RV/Sh/RiZy7QmaPUuiyEurbPWr0qwknWAPTu5G1yqOeBSlRsNpV5s2yKeYdyH4UNok52K0/ZZKjNYJVgXtA==;FWVTuxmth8Ci8QoUVCGj5w=="
 ---
 

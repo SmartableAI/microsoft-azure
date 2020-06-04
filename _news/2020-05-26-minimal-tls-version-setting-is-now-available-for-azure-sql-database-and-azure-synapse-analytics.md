@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-26T12:00:01Z
 webUrl: "https://azure.microsoft.com/en-us/updates/sqldb-minimal-tls-version/"
 type: article
 quality: 64
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,26 @@ provider:
 
 topics:
   - Azure
+
+related:
+  - title: "Minimal TLS version setting is now available for Azure Database for MySQL"
+    excerpt: ""
+    publishedDateTime: 2020-06-04T17:00:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-minimal-tls-version/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 76
+  - title: "Minimal TLS version setting is now available for Azure Database for PostgreSQL"
+    excerpt: ""
+    publishedDateTime: 2020-06-04T17:00:39Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-minimal-tls-version/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 73
 
 secured: "f27kDskx+j32nSSaqkvi0oThciOEuiyFwtPmt7C5A87k9jeejO6K2oMDg67T6ah3gn1pkgGiepxFR76Ud7l3NnH/nnNXjPztOR8+/6wJ9SdLHSjmG0XrwxaX7CDNKuyhrs/LDLEYAV3f/BfVM5YBunfy98O/JBeK5VtdZRPRTlgN+p1k9MJkZl/qMsRCGu3lOe1x0+sbbzUt4SsZ2coC3A9tgH6gwTltx9lgO8zmNutrkmcWBkvFczXJtYTpwR+iuEvM2zQfdxdgmCaX7jFHp/3J1zwKth+jp8dpWZj1j/vFhdzEwaTFfd8hOoy0PggX17ajbbIUDMB9H8LvjU/Ayw==;QklMSOgOMUBO+8QebMs2oQ=="
 ---

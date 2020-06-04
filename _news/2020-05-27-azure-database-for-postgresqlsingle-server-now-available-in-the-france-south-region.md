@@ -39,6 +39,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Minimal TLS version setting is now available for Azure Database for MariaDB"
+    excerpt: ""
+    publishedDateTime: 2020-06-04T17:00:49Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-minimal-tls-version/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 75
 
 secured: "6aomwCtXjn+jYZlRWgia9qE2gNUkx7pNMUxACTnP6yALzdT8i6cJhc1W/WrKRYz2Jbfwa+JG04tIp/QKUZQKL3hKq7DEiawCT/Z4S8rr/8UPTJVLooi3uxylm0EBy/Mt55g3Blzx3nThzFUhf6fkgBOBqsQwt1gTzCPEFPImueTVnVpqyQzZc+S0NjWP9cJHHwetduiecC2BV6IiZCaQLyiATApgN2o0aPUxmkaypLWVPTSt7rJVlFijn3A6oAarv/TOeSJnLQq51gFOfMvE1gflub28W9z54NhWzIOiZy1GsMkuKdE+089Y3O0t3qNkWgxopSYyPfcBBOMXZfNtaA==;4dTXn9MDe14rDWeRts2qog=="
 ---
