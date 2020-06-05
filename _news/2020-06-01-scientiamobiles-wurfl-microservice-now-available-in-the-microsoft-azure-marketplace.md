@@ -1,30 +1,24 @@
 ---
 category: news
-title: "ScientiaMobile's WURFL Microservice Now Available in the Microsoft Azure Marketplace"
-excerpt: "RESTON, Va., June 01, 2020 (GLOBE NEWSWIRE) -- ScientiaMobile, today announced the availability of WURFL Microservice in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-publishedDateTime: 2020-06-01T12:00:00Z
-webUrl: "https://www.marketwatch.com/press-release/scientiamobiles-wurfl-microservice-now-available-in-the-microsoft-azure-marketplace-2020-06-01"
+title: "ScientiaMobile’s WURFL Microservice Now Available in the Microsoft Azure Marketplace"
+excerpt: "ScientiaMobile, today announced the availability of WURFL Microservice in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. Developers can now take advantage of the productive and trusted Azure cloud platform,"
+publishedDateTime: 2020-06-01T12:18:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/scientiamobile-s-wurfl-microservice-now-available-in-the-microsoft-azure-marketplace-1029268289"
 type: article
-quality: 70
-heat: 110
-published: true
+quality: 50
+heat: -1
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    title: "ScientiaMobile's WURFL Microservice Now Available in the Microsoft Azure Marketplace"
 
 related:
   - title: "WANdisco Releases LiveData Platform for Petabyte Scale Cloud Migration to Microsoft Azure"
@@ -40,20 +34,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "SepioPrime Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Sepio Systems, the leader in Rogue Device Mitigation (RDM), today announced the availability of SepioPrime in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2020-05-29T13:00:00Z
-    webUrl: "https://apnews.com/PR Newswire/f5b85ffe40d0191068bb0e60ed78df05"
+  - title: "Microsoft previews Azure Maps Creator to enable indoor location apps and AR"
+    excerpt: "Microsoft Corp. today announced the preview of Azure Maps Creator, a new tool in its public cloud platform that will enable companies to create custom indoor maps for use cases su"
+    publishedDateTime: 2020-06-01T18:50:00Z
+    webUrl: "https://siliconangle.com/2020/06/01/microsoft-previews-azure-maps-creator-enable-indoor-location-apps-ar/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 35
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/hololens2-768x512.jpg"
+        width: 768
+        height: 512
 
-secured: "k/zEyADSQbhW2Nni8XV1ecG4hBEm7LUMfpu2lDAZ2jOijbzQKm4ClXMNHcHXatcVFmSdVJKNneKuVdPqKwSc0hlllRCIbpRZdY1XO1Df9AT5S6pXz0y4n0yFCm2rUhQDBkIp6DNC9/sKx6F7OwjK7/diAsHBqDLEfI/aolPYW+VVYVdwG7K0arjS9EMQqxQWtjjrNwf1mSfLKHRUjugINxBh4+CZg0Qz3juB4sPph9g+LIPmaZk2Ez/xXHUcEhvF90ImH01RfIIDZR8jjP5BWJVKEKJhtRGF7nL9T/1tXs+KcVREzyu6jWl3EVG2ATYW;r/kyKtLtAOfQK7saT5f1ig=="
+secured: "/aSEDGvNa59oIv2ZoYXwVJjRGnKmsnT2xrIS09JM3KkuaNkCHYck+H+xNwmxgA+Z8M3B/wByysc90Aw8zVgjQy9Y7i3I4C1M9/M7JblFYJ4aGMUmazejd6FIgeJSKmpWZqBGo6W8IVwdsYPFgRrXTjWRC4LpsWHC3niFECLC0c+bIkGqI7K+imMAmHnOsTXnDd+rxgxyWvVbQ1CpFg1iJPLf4lnONv0nK43wClPWRfn1YSFdWkOGiTiTNrh0E6hAODCHZf8eeHVFer3SXS/hK8Mnu3wle7o7CTc98iS155X0UJhyCqWSRQqQW7tA3SjP;cypKA8R5Pixy9ExR7eltAA=="
 ---
 

@@ -2,11 +2,11 @@
 category: news
 title: "Microsoft Announces a New Pricing Model Option for Azure Cosmos DB and More Capabilities"
 excerpt: "During this year's digital Build event, Microsoft announced a new consumption-based pricing model for Azure Cosmos DB called 'serverless' that is ideal for spiky workloads and complements the existing provisioned throughput pricing model."
-publishedDateTime: 2020-06-03T11:09:00Z
-webUrl: "https://www.infoq.com/news/2020/06/azure-cosmosdb-new-updates/?useSponsorshipSuggestions=true&itm_source=presentations_about_architecture-design&itm_medium=link&itm_campaign=architecture-design"
+publishedDateTime: 2020-06-05T05:12:00Z
+webUrl: "https://www.infoq.com/news/2020/06/azure-cosmosdb-new-updates/"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -25,8 +25,8 @@ images:
 related:
   - title: "Microsoft Announces a New Pricing Model Option for Azure Cosmos DB and More Capabilities"
     excerpt: "During this year's digital Build event, Microsoft announced a new consumption-based pricing model for Azure Cosmos DB called 'serverless' that is ideal for spiky workloads and complements the existing provisioned throughput pricing model."
-    publishedDateTime: 2020-06-05T05:12:00Z
-    webUrl: "https://www.infoq.com/news/2020/06/azure-cosmosdb-new-updates/"
+    publishedDateTime: 2020-06-03T11:09:00Z
+    webUrl: "https://www.infoq.com/news/2020/06/azure-cosmosdb-new-updates/?useSponsorshipSuggestions=true&itm_source=presentations_about_architecture-design&itm_medium=link&itm_campaign=architecture-design"
     type: article
     provider:
       name: InfoQ
@@ -37,6 +37,6 @@ related:
         width: 1200
         height: 630
 
-secured: "Vm6s6WT8pJBmgWDGI0ziSZik/XrIkXFbQDTCRV7K69vvLtR5szefsE3QAtn5R0l2SmPPQUN6NJtU6u87T//1z/XL3SFWJTT7Vnz4xnKrw5Lc/gLqJQ2XQbKw2KpYLYpfc27lVtWaApsdw0OVjbFwzpX1oJmuMzzEhVCPFaT7602VViLG4gLkqfTL+knPbOfYM5VYxMuXE7fPyKkuutLdUfmG/+677JkeJG84S9Gbyzasui2ScjDSZ8jGCNzplk6+qcU2Nh83aEz3K7DhkqzR7FqpIa4k1qcznTrPM+Ux693FxoA61c2WaRrJ+Kqt4BnE;9kKwZ/qk4ilKx0GWKJKFwA=="
+secured: "HQu5jg6ZB6AKsEo41DItwkol9TmZ671rYDe4GlRSgJzm/uYvUmuXdkcUtLU4HO57+75p5zwfyzUbnADlmlOehIHxjD53VIo+3HsWTLShQwQQLkJnqZOhOTe+/A5BkV5JQfIvz9tWjEc3CMxctGSn3bjnL16Y0iuZiyLEkd2Z3XRV3mCLnhyWbvB6Z7+SimlTszdwJX0zw8SzVpZrkwW1th7HUC7zf5yNBlxDMnbAWbWIwhrHgIwzMwu4lssxQsA8WmXIEKwC/0uShdDb7UEJGo7bWKesXXVxYX3wEBNBo2ZSQn/Lf7eyTm0LNVG+WViW;sxGMKVG3qnsbCtRcnRUG+A=="
 ---
 
