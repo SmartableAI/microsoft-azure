@@ -5,8 +5,8 @@ excerpt: "Microsoft so far has thrived during the Covid-19 pandemic because of i
 publishedDateTime: 2020-04-30T14:15:00Z
 webUrl: "https://www.benefitnews.com/articles/microsoft-sales-rise-as-remote-working-buoys-cloud-services"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

@@ -5,8 +5,8 @@ excerpt: "Open Systems, a SASE provider, is acquiring Born in the Cloud, a Micro
 publishedDateTime: 2020-05-20T23:34:00Z
 webUrl: "https://www.channelpartnersonline.com/2020/05/20/open-systems-acquires-microsoft-partner-born-in-the-cloud/"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

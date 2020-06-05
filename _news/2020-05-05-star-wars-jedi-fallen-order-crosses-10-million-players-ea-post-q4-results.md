@@ -7,8 +7,8 @@ webUrl: "https://www.windowscentral.com/star-wars-jedi-fallen-order-crosses-10-m
 ampWebUrl: "https://www.windowscentral.com/star-wars-jedi-fallen-order-crosses-10-million-players?amp"
 cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/star-wars-jedi-fallen-order-crosses-10-million-players?amp"
 type: article
-quality: 40
-heat: 40
+quality: 60
+heat: 60
 published: false
 
 provider:

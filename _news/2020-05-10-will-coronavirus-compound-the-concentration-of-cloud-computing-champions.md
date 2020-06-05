@@ -5,8 +5,8 @@ excerpt: "As enterprise organisations are forced through digital transformation 
 publishedDateTime: 2020-05-10T09:52:00Z
 webUrl: "https://telecoms.com/504201/will-coronavirus-compound-the-concentration-of-cloud-computing-champions/"
 type: article
-quality: 21
-heat: 21
+quality: 31
+heat: 31
 published: false
 
 provider:

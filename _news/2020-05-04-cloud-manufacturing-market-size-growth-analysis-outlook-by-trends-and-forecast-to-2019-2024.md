@@ -5,7 +5,7 @@ excerpt: "Global Cloud Manufacturing Market Research Report: by Component (Hardw
 publishedDateTime: 2020-05-04T02:13:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-manufacturing-market-size-growth-analysis-outlook-by---trends-and-forecast-to-2019-2024-2020-05-03"
 type: article
-quality: 50
+quality: 60
 heat: -1
 published: false
 
@@ -35,7 +35,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 66
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -48,7 +48,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

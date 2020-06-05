@@ -5,8 +5,8 @@ excerpt: "A few months into his tenure as CEO, Bailkoski spoke with CRN about ho
 publishedDateTime: 2020-06-05T18:48:00Z
 webUrl: "https://www.crn.com/news/cloud/logicalis-ceo-bob-bailkoski-on-going-deeper-with-microsoft-around-azure"
 type: article
-quality: 36
-heat: 36
+quality: 46
+heat: 46
 published: false
 
 provider:
@@ -22,6 +22,6 @@ images:
     height: 457
     title: "Logicalis CEO Bob Bailkoski On Going 'Deeper' With Microsoft Around Azure"
 
-secured: "CfEFbn9lFeE4OWUAR+D/HFDhghqYuUuCd9iTsTfkCiiOi7sHRGsC2oIobYHcQHF9Nqsbb0WY1o8SkHMrr2ShA4kwmsHVot+FJfp+5Nep8dOtZQy08c6PzAQD3Cy6wBjGF+FiCQTPymqiOcMpF3GrzkRWUPidyuazA8w1yGosamNBBaRPgMHJebzWL0zJMgTt7+WwMZwtzh+6DKzaEc1K3Fp23sW88RCbvbJZ5KJ6F9CRiVQS5GXTuxZ8xYlNyNv1jUlpe7KDiXtFtIrWfj0RSdhrqkwPAAG0tYK2lI5HdYEto6jno2ijFiOU4/uZpkd6;UdBJECW7sNFQ0NnAG95VlQ=="
+secured: "2CjPUIc6k0FqK3jqZGBx/pvp9zeR9at0xV6L/wFhmcaklbBmA7H0HYpN8E4m+zVW56Oya2LQ1v/E1O3qIDjgZh727aptDIGwX7Ag/oXOmDqFtFwsD1SKHNNRf/em4pFjffe/CRiwbrHK9IhBVz30TlOTbP6VZPm39Zxu84DZG8l2avoCn7eufvWXXQY3BaqA84/snfUzHzchl38iQ711C/zjIWHb2/7T/fKttJ0rYgG9kmAEp8AYZov90zB6+ZCi71uc5F6dnSW4NIG9yF0qK5jV5xay74k0QebG5ha0n3Pya0+iT0KJ7ahZPIVq7egjgYs5dnapaPVWVATrqBE69wjBO7AB1x0bwHneVR+S9wmuIbPTgIkBNyfMG6OUBhbq2ryO95GQYyg89CTlU4igRPwshlV3Rmsb3WVGRngJSbljlJmCUS+1/t7CrkGELsZpAttkLGZnszizzp9SK0AtBz9XbQ5OBdWU79A+wEHEhyA=;ZYwRyrmiLInzvQfDnhPdWA=="
 ---
 

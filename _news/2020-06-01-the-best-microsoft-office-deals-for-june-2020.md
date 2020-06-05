@@ -7,7 +7,7 @@ webUrl: "https://www.digitaltrends.com/dtdeals/best-microsoft-office-deals/?itm_
 ampWebUrl: "https://www.digitaltrends.com/dtdeals/best-microsoft-office-deals/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/dtdeals/best-microsoft-office-deals/?amp"
 type: article
-quality: 82
+quality: 102
 heat: -1
 published: false
 
@@ -39,7 +39,7 @@ related:
     provider:
       name: Digital Trends
       domain: digitaltrends.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://icdn2.digitaltrends.com/image/digitaltrends/office-365-free-eduction-0001-1200x630-c-ar1.91.jpg"
         width: 990

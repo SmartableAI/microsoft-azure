@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/microsoft-and-sony-partnership-to-create-
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-and-sony-partnership-to-create-smart-camera-solutions-with-ai-enable-image-sensor/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-sony-partnership-to-create-smart-camera-solutions-with-ai-enable-image-sensor/"
 type: article
-quality: 78
-heat: 98
+quality: 98
+heat: 118
 published: true
 
 provider:

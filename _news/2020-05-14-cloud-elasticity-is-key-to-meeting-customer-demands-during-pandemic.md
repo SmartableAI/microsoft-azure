@@ -5,8 +5,8 @@ excerpt: "The coronavirus pandemic has had a huge impact on businesses — while
 publishedDateTime: 2020-05-14T00:27:00Z
 webUrl: "https://siliconangle.com/2020/05/13/cloud-elasticity-key-meeting-customer-demands-pandemic-awssummit/"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

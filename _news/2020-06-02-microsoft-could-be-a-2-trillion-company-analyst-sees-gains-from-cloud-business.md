@@ -7,8 +7,8 @@ webUrl: "https://www.barrons.com/articles/microsoft-could-be-a-2-trillion-compan
 ampWebUrl: "https://www.barrons.com/amp/articles/microsoft-could-be-a-2-trillion-company-analyst-sees-gains-from-cloud-business-51591115603"
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/microsoft-could-be-a-2-trillion-company-analyst-sees-gains-from-cloud-business-51591115603"
 type: article
-quality: 37
-heat: 37
+quality: 57
+heat: 57
 published: false
 
 provider:

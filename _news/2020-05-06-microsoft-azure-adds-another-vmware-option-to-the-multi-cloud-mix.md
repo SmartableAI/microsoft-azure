@@ -5,8 +5,8 @@ excerpt: "It’s called multi-cloud deployment, and it gives operators options e
 publishedDateTime: 2020-05-06T18:44:00Z
 webUrl: "https://www.datacenterknowledge.com/microsoft/microsoft-azure-adds-another-vmware-option-multi-cloud-mix"
 type: article
-quality: 37
-heat: 37
+quality: 47
+heat: 47
 published: false
 
 provider:

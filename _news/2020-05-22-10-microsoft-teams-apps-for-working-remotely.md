@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/10-microsoft-teams-apps-for-workin
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/10-microsoft-teams-apps-for-working-remotely/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/10-microsoft-teams-apps-for-working-remotely/"
 type: article
-quality: 82
-heat: 82
+quality: 102
+heat: 102
 published: true
 
 provider:

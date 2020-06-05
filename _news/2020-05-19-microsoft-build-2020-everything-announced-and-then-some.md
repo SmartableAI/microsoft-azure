@@ -7,9 +7,9 @@ webUrl: "https://www.zdnet.com/article/microsoft-build-2020-everything-announced
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-build-2020-everything-announced-and-then-some/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-build-2020-everything-announced-and-then-some/"
 type: article
-quality: 62
-heat: 62
-published: false
+quality: 72
+heat: 72
+published: true
 
 provider:
   name: ZDNet

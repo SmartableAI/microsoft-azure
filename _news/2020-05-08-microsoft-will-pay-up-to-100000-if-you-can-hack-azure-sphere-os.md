@@ -7,7 +7,7 @@ webUrl: "https://mspoweruser.com/microsoft-pay-100000-you-hack-azure-sphere-os/"
 ampWebUrl: "https://mspoweruser.com/microsoft-pay-100000-you-hack-azure-sphere-os/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-pay-100000-you-hack-azure-sphere-os/amp/"
 type: article
-quality: 57
+quality: 77
 heat: -1
 published: false
 
@@ -35,7 +35,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 92
+    quality: 112
     images:
       - url: "https://tr1.cbsistatic.com/hub/i/r/2020/02/18/d1467839-4251-47cb-9fa9-aed070561526/thumbnail/1200x675/f3685147226f27819a3454fc3d626812/rainforest-connection.jpg"
         width: 1200

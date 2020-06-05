@@ -7,9 +7,9 @@ webUrl: "https://mspoweruser.com/amazon-fires-back-at-microsoft-jedi-contract/"
 ampWebUrl: "https://mspoweruser.com/amazon-fires-back-at-microsoft-jedi-contract/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/amazon-fires-back-at-microsoft-jedi-contract/amp/"
 type: article
-quality: 42
-heat: 42
-published: false
+quality: 62
+heat: 82
+published: true
 
 provider:
   name: MSPoweruser
@@ -33,7 +33,7 @@ related:
     provider:
       name: On MSFT
       domain: onmsft.com
-    quality: 18
+    quality: 28
     images:
       - url: "https://www.onmsft.com/wp-content/uploads/2020/05/DH-Amazon.jpg"
         width: 1130

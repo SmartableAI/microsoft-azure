@@ -7,8 +7,8 @@ webUrl: "https://mspoweruser.com/microsoft-wins-no-bid-mod-contract-for-17-75-mi
 ampWebUrl: "https://mspoweruser.com/microsoft-wins-no-bid-mod-contract-for-17-75-million-for-cloud-support-services/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-wins-no-bid-mod-contract-for-17-75-million-for-cloud-support-services/amp/"
 type: article
-quality: 37
-heat: 37
+quality: 57
+heat: 57
 published: false
 
 provider:

@@ -5,8 +5,8 @@ excerpt: "Microsoft is integrating the built-in Windows Spellcheck API into Micr
 publishedDateTime: 2020-05-28T16:52:00Z
 webUrl: "https://www.thurrott.com/cloud/web-browsers/235809/microsoft-enables-windows-spellcheck-api-for-all-chromium-browsers"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

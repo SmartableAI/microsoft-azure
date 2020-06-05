@@ -5,8 +5,8 @@ excerpt: "Microsoft 365 Business subscribers had access to: Microsoft called out
 publishedDateTime: 2020-04-15T15:00:00Z
 webUrl: "https://www.petri.com/azure-active-directory-premium-p1-to-be-part-of-microsoft-365-business"
 type: article
-quality: 37
-heat: 37
+quality: 47
+heat: 47
 published: false
 
 provider:

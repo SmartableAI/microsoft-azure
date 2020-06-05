@@ -5,8 +5,8 @@ excerpt: "Data warehousing is moving from its traditional home in the data cente
 publishedDateTime: 2020-04-28T13:23:00Z
 webUrl: "https://www.cio.com/article/3540416/data-warehousing-in-the-cloud.html"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

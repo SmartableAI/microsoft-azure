@@ -7,8 +7,8 @@ webUrl: "https://markets.businessinsider.com/news/stocks/calltower-rolls-out-mic
 ampWebUrl: "https://markets.businessinsider.com/amp/news/calltower-rolls-out-microsoft-teams-direct-routing-for-gcc-high-certified-organizations-1029136428"
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/calltower-rolls-out-microsoft-teams-direct-routing-for-gcc-high-certified-organizations-1029136428"
 type: article
-quality: 54
-heat: 54
+quality: 64
+heat: 64
 published: false
 
 provider:

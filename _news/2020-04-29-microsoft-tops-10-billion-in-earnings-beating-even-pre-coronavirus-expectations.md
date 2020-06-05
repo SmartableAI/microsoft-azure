@@ -7,7 +7,7 @@ webUrl: "https://www.marketwatch.com/story/microsoft-tops-10-billion-in-earnings
 ampWebUrl: "https://www.marketwatch.com/amp/story/guid/7444C824-8A48-11EA-805E-BE7772630DE1"
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/7444C824-8A48-11EA-805E-BE7772630DE1"
 type: article
-quality: 77
+quality: 97
 heat: -1
 published: false
 
@@ -39,7 +39,7 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200429&t=2&i=1516924789&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG3S223"
         width: 817
@@ -54,7 +54,7 @@ related:
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 81
+    quality: 101
     images:
       - url: "https://images.wsj.net/im-181683/social"
         width: 1280
@@ -69,7 +69,7 @@ related:
     provider:
       name: Bloomberg
       domain: bloomberg.com
-    quality: 62
+    quality: 72
   - title: "Microsoft blames coronavirus-related supply chain constraints for its cloud capacity issues"
     excerpt: "Microsoft has struggled at times to keep up with the huge demand for its cloud services, as people work from home more."
     publishedDateTime: 2020-04-29T21:37:00Z
@@ -78,7 +78,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 52
+    quality: 62
     images:
       - url: "https://i.insider.com/5dfbb9b6855cc26de1630123?width=1200&format=jpeg"
         width: 1200
@@ -93,7 +93,7 @@ related:
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 33
+    quality: 53
     images:
       - url: "https://www.washingtonpost.com/resizer/iAwDp1yG46qwbRqde_rAAu43rKI=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RBIUICTQDUI6TEZRGC6FQNXURY.jpg"
         width: 1440
@@ -106,7 +106,7 @@ related:
     provider:
       name: Houston Chronicle
       domain: chron.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://s.hdnux.com/photos/01/11/65/34/19355416/3/rawImage.jpg"
         width: 2048
@@ -119,7 +119,7 @@ related:
     provider:
       name: SFGate
       domain: sfgate.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://s.hdnux.com/photos/01/11/65/34/19355416/3/rawImage.jpg"
         width: 2048

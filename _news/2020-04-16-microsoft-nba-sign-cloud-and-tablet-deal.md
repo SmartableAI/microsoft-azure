@@ -27,7 +27,7 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://content.jwplatform.com/thumbs/xCBbfNZH-720.jpg"
         width: 720

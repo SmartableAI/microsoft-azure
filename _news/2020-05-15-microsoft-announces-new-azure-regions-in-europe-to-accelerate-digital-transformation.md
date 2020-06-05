@@ -5,8 +5,8 @@ excerpt: "And at the same provide a high level of security, data residency, and 
 publishedDateTime: 2020-05-15T13:13:00Z
 webUrl: "https://www.petri.com/microsoft-announces-new-azure-regions-in-europe-to-accelerate-digital-transformation"
 type: article
-quality: 30
-heat: 30
+quality: 40
+heat: 40
 published: false
 
 provider:

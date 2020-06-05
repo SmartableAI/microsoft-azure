@@ -7,8 +7,8 @@ webUrl: "https://www.computerworld.com/article/3542777/why-aussie-telcos-are-con
 ampWebUrl: "https://www.computerworld.com/article/3542777/why-aussie-telcos-are-connecting-voice-services-to-microsoft-teams.amp.html"
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3542777/why-aussie-telcos-are-connecting-voice-services-to-microsoft-teams.amp.html"
 type: article
-quality: 42
-heat: 42
+quality: 62
+heat: 62
 published: false
 
 provider:

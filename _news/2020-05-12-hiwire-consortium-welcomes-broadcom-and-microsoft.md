@@ -5,8 +5,8 @@ excerpt: "Today the HiWire Consortium, a non-profit corporation supporting the a
 publishedDateTime: 2020-05-12T11:54:00Z
 webUrl: "https://apnews.com/054ca064034448aba2c4cf789705a500"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

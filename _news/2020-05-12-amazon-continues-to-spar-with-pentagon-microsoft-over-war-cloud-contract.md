@@ -7,9 +7,9 @@ webUrl: "https://mynorthwest.com/1869977/amazon-microsoft-war-cloud-contract/"
 ampWebUrl: "https://mynorthwest.com/1869977/amazon-microsoft-war-cloud-contract/amp/"
 cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/1869977/amazon-microsoft-war-cloud-contract/amp/"
 type: article
-quality: 40
-heat: 40
-published: false
+quality: 60
+heat: 80
+published: true
 
 provider:
   name: MyNorthwest.com
@@ -33,7 +33,7 @@ related:
     provider:
       name: GCN
       domain: gcn.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Cloud/DODcloud_1.png"
         width: 760

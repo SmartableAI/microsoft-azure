@@ -7,8 +7,8 @@ webUrl: "https://www.engadget.com/nba-microsoft-ai-game-streaming-193552938.html
 ampWebUrl: "https://www.engadget.com/amp/nba-microsoft-ai-game-streaming-193552938.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/nba-microsoft-ai-game-streaming-193552938.html"
 type: article
-quality: 82
-heat: 82
+quality: 102
+heat: 102
 published: true
 
 provider:

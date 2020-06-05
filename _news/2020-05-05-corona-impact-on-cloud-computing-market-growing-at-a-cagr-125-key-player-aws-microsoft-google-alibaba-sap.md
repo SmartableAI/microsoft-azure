@@ -5,7 +5,7 @@ excerpt: "May 05, 2020 (AB Digital via COMTEX) -- The impact of COVID-19 on theÂ
 publishedDateTime: 2020-05-05T21:07:00Z
 webUrl: "https://www.marketwatch.com/press-release/corona-impact-on-cloud-computing-market-growing-at-a-cagr-125-key-player-aws-microsoft-google-alibaba-sap-2020-05-05"
 type: article
-quality: 41
+quality: 51
 heat: -1
 published: false
 
@@ -35,7 +35,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 43
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -7,9 +7,9 @@ webUrl: "https://www.forbes.com/sites/greatspeculations/2020/05/19/buying-micros
 ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2020/05/19/buying-microsoft-stock-stop-try-msft-supplier-arista-networks-instead/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2020/05/19/buying-microsoft-stock-stop-try-msft-supplier-arista-networks-instead/amp/"
 type: article
-quality: 62
-heat: 62
-published: false
+quality: 72
+heat: 72
+published: true
 
 provider:
   name: Forbes

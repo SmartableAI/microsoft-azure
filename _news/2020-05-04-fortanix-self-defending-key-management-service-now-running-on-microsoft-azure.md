@@ -5,8 +5,8 @@ excerpt: "Defending Key Management Service is now running on Microsoft Azure to 
 publishedDateTime: 2020-05-04T00:32:00Z
 webUrl: "https://www.helpnetsecurity.com/2020/05/04/fortanix-microsoft-azure/"
 type: article
-quality: 34
-heat: 34
+quality: 44
+heat: 44
 published: false
 
 provider:

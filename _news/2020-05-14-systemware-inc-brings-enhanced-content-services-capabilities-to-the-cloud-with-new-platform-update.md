@@ -5,8 +5,8 @@ excerpt: "Systemware, Inc., an industry pioneer in enterprise content management
 publishedDateTime: 2020-05-14T14:00:00Z
 webUrl: "https://apnews.com/f0768e79411ca7f1811b238dd2b3f75a"
 type: article
-quality: 7
-heat: 7
+quality: 17
+heat: 17
 published: false
 
 provider:

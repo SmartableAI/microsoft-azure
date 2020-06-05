@@ -5,8 +5,8 @@ excerpt: "Cryptography solutions pioneer, Cryptomathic, has today enabled its cl
 publishedDateTime: 2020-06-02T09:32:00Z
 webUrl: "https://www.finextra.com/pressarticle/82734/cryptomathic-ports-key-control-to-microsoft-azure"
 type: article
-quality: 37
-heat: 37
+quality: 47
+heat: 47
 published: false
 
 provider:

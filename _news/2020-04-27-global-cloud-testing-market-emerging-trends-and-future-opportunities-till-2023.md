@@ -5,8 +5,8 @@ excerpt: "Global Cloud Testing Market Research Report, by Component (Services & 
 publishedDateTime: 2020-04-27T10:20:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-cloud-testing-market-emerging-trends-and-future-opportunities-till-2023-2020-04-27"
 type: article
-quality: 58
-heat: 58
+quality: 68
+heat: 68
 published: false
 
 provider:

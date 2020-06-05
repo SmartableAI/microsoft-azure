@@ -7,7 +7,7 @@ webUrl: "https://www.telecomtv.com/content/oss-bss/netcracker-offers-ai-driven-d
 ampWebUrl: "https://www.telecomtv.com/content/oss-bss/netcracker-offers-ai-driven-digital-bss-oss-to-microsoft-azure-38630/amp/"
 cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/oss-bss/netcracker-offers-ai-driven-digital-bss-oss-to-microsoft-azure-38630/amp/"
 type: article
-quality: 57
+quality: 77
 heat: -1
 published: false
 
@@ -33,7 +33,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 77
+    quality: 87
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -7,8 +7,8 @@ webUrl: "https://www.cnbc.com/2020/04/30/microsoft-build-2020-will-focus-even-mo
 ampWebUrl: "https://www.cnbc.com/amp/2020/04/30/microsoft-build-2020-will-focus-even-more-on-developers.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/30/microsoft-build-2020-will-focus-even-more-on-developers.html"
 type: article
-quality: 70
-heat: 70
+quality: 90
+heat: 90
 published: true
 
 provider:

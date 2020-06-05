@@ -7,9 +7,9 @@ webUrl: "https://www.nasdaq.com/articles/coca-cola-company-partners-with-microso
 ampWebUrl: "https://www.nasdaq.com/articles/coca-cola-company-partners-with-microsoft-to-standardize-business-operations-2020-04-27?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/coca-cola-company-partners-with-microsoft-to-standardize-business-operations-2020-04-27?amp"
 type: article
-quality: 59
-heat: 79
-published: true
+quality: 69
+heat: -1
+published: false
 
 provider:
   name: Nasdaq
@@ -29,11 +29,26 @@ related:
     provider:
       name: Windows Central
       domain: windowscentral.com
-    quality: 55
+    quality: 75
     images:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2017/09/microsoft-logo-2017-ignite2.jpg?itok=c3ocGDNm"
         width: 800
         height: 600
+  - title: "Coca-Cola selects Microsoft cloud to modernize its business"
+    excerpt: "The Coca-Cola Company today announced a five-year agreement with Microsoft to standardize its business operations on Microsoft’s cloud. As part of this partnership, Coca-Cola will be using Microsoft Azure,"
+    publishedDateTime: 2020-04-27T14:29:00Z
+    webUrl: "https://mspoweruser.com/coca-cola-microsoft-cloud-business/"
+    ampWebUrl: "https://mspoweruser.com/coca-cola-microsoft-cloud-business/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/coca-cola-microsoft-cloud-business/amp/"
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 62
+    images:
+      - url: "https://mspoweruser.com/wp-content/uploads/2020/04/Coca-cola-Microsoft.jpg"
+        width: 1189
+        height: 616
 
 secured: "3USkdK51Nbs/SIDJXVMbQOuQwpsjHv5P/PY7wj73uLosPtVyTs2ZZL9gQgQPKKGwM/ouOAlug8cH8hPoPlUJKeFSx6ccgYFoEFTlxRCiTuUQM1u7+UDB0F/XFA6MESjAdoPRA8pxN+M86610iaIruc28fl+NwLLej/follWT5Vg6vmYNZr3nTTHBJnafydTGZSeZ3+uR50jzxd3U3p8JYKU1AL1Qh5H1SbhCNEIyhyxFGHQiaVIDWMQCpmsCuXRPTj7mPUiA6YjdQ9IIG8R1HahuhBsBFqcSJwW+5sL/arR7hVu0g76fbDaShW2aeHXpBo1VCzeIuw3GeQRfJ4BI9yBZWuKX4PwRE6P9cmlv2yXqkIdTG5su1F+/XaONjgcLqhzIiEi9zpO7IOrQ7lVD1uir7ZMTwFJNcB6kmVAbTuyI8gzVVvFVOpOCJdSqxq+ZWJZg0YymVbDZu4uaF7TFdU/zGdWhA4C7TpKGK0oN1wo=;WPt80pmQApyCTGHAQ4pBaA=="
 ---

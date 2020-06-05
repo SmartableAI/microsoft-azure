@@ -5,8 +5,8 @@ excerpt: "Hylaine, a Charlotte-based technology consulting firm, is partnering w
 publishedDateTime: 2020-05-27T20:19:00Z
 webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=141022"
 type: article
-quality: 18
-heat: 18
+quality: 28
+heat: 28
 published: false
 
 provider:

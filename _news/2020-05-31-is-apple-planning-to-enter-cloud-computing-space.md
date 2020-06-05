@@ -7,9 +7,9 @@ webUrl: "https://www.forbes.com/sites/taarinikaurdang/2020/05/31/is-apple-planni
 ampWebUrl: "https://www.forbes.com/sites/taarinikaurdang/2020/05/31/is-apple-planning-to-enter-cloud-computing-space/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/taarinikaurdang/2020/05/31/is-apple-planning-to-enter-cloud-computing-space/amp/"
 type: article
-quality: 62
-heat: 62
-published: false
+quality: 72
+heat: 72
+published: true
 
 provider:
   name: Forbes

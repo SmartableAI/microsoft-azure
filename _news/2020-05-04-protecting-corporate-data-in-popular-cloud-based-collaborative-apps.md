@@ -5,8 +5,8 @@ excerpt: "Protecting data in the cloud is essential for any modern business. You
 publishedDateTime: 2020-05-04T05:32:00Z
 webUrl: "https://www.helpnetsecurity.com/2020/05/04/protecting-data-cloud/"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

@@ -5,8 +5,8 @@ excerpt: "Now more than ever, developers need agility to meet rapidly increasing
 publishedDateTime: 2020-05-27T14:00:04Z
 webUrl: "https://azure.microsoft.com/blog/microsoft-and-docker-collaborate-on-new-ways-to-deploy-containers-on-azure/"
 type: article
-quality: 95
-heat: 115
+quality: 105
+heat: 125
 published: true
 
 provider:
@@ -37,7 +37,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 47
+    quality: 67
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Microsoft-Docker.jpg"
         width: 1813

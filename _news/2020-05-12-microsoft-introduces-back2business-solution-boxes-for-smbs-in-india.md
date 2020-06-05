@@ -7,9 +7,9 @@ webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-introduces-bac
 ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-introduces-back2business-solution-boxes-for-smbs-in-india/article31563949.ece/amp/"
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-introduces-back2business-solution-boxes-for-smbs-in-india/article31563949.ece/amp/"
 type: article
-quality: 42
-heat: 42
-published: false
+quality: 62
+heat: 102
+published: true
 
 provider:
   name: Business Line
@@ -33,7 +33,7 @@ related:
     provider:
       name: Sify.com
       domain: sify.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://www.sify.com/uploads/microsoft_logo_ap_ufnfR2daebada.jpg"
         width: 950

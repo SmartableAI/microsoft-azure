@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/microsoft-to-add-new-cloud-regions-in-ita
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-to-add-new-cloud-regions-in-italy-new-zealand-and-poland/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-add-new-cloud-regions-in-italy-new-zealand-and-poland/"
 type: article
-quality: 82
-heat: 102
+quality: 102
+heat: 122
 published: true
 
 provider:
@@ -37,7 +37,7 @@ related:
     provider:
       name: CRN
       domain: crn.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://www.crn.com/resources/025d-0f58ae9942c9-a62ab8ded06d-1000/cloud-mobility-touch400.jpg"
         width: 397

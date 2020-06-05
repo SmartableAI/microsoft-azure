@@ -5,8 +5,8 @@ excerpt: "What we really need is to easily store and organize information from a
 publishedDateTime: 2020-05-04T20:03:00Z
 webUrl: "https://www.thurrott.com/cloud/web-browsers/microsoft-edge/235728/master-365-getting-started-with-microsoft-edge-collections"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

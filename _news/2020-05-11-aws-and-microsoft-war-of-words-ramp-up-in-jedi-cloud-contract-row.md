@@ -5,7 +5,7 @@ excerpt: "Amazon Web Services (AWS) has said it ‘won’t back down’ in its a
 publishedDateTime: 2020-05-11T14:43:00Z
 webUrl: "https://cloudcomputing-news.net/news/2020/may/11/aws-and-microsoft-war-of-words-ramp-up-in-jedi-cloud-contract-row/"
 type: article
-quality: 22
+quality: 32
 heat: -1
 published: false
 
@@ -33,7 +33,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 70
+    quality: 90
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2016/04/20160404_Envision_07-1240x828.jpg"
         width: 1240

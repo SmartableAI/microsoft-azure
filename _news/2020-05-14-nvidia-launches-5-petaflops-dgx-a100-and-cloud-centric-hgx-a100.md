@@ -5,8 +5,8 @@ excerpt: "GPU Technology Conference, Nvidia unveiled its latest DGX system, the 
 publishedDateTime: 2020-05-14T13:53:00Z
 webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-launches-5-petaflops-dgx-a100-and-cloud-centric-hgx-a100/"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

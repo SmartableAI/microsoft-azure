@@ -5,8 +5,8 @@ excerpt: "Redis Labs announced a new strategic agreement with Microsoft to deliv
 publishedDateTime: 2020-05-13T23:48:00Z
 webUrl: "https://www.helpnetsecurity.com/2020/05/14/redis-labs-microsoft/"
 type: article
-quality: 26
-heat: 26
+quality: 36
+heat: 36
 published: false
 
 provider:

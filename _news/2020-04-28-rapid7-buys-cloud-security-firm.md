@@ -7,7 +7,7 @@ webUrl: "https://www.bostonglobe.com/2020/04/28/business/rapid7-buys-cloud-secur
 ampWebUrl: "https://www.bostonglobe.com/2020/04/28/business/rapid7-buys-cloud-security-firm/?outputType=amp"
 cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/04/28/business/rapid7-buys-cloud-security-firm/?outputType=amp"
 type: article
-quality: 22
+quality: 32
 heat: -1
 published: false
 

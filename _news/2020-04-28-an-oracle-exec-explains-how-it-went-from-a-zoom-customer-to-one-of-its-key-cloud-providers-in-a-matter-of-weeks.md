@@ -5,8 +5,8 @@ excerpt: "Oracle executive Clay Magouyrk said Zoom's need for more capacity led 
 publishedDateTime: 2020-04-28T22:15:00Z
 webUrl: "https://www.businessinsider.com/oracle-zoom-cloud-partnership-capacity-2020-4"
 type: article
-quality: 42
-heat: 42
+quality: 52
+heat: 52
 published: false
 
 provider:

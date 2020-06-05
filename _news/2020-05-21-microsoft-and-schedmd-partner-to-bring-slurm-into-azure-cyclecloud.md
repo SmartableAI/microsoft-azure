@@ -5,8 +5,8 @@ excerpt: "Microsoft Azure announced a partnership with the company that develope
 publishedDateTime: 2020-05-21T19:12:00Z
 webUrl: "https://www.hpcwire.com/off-the-wire/microsoft-and-schedmd-partner-to-bring-slurm-into-azure-cyclecloud/"
 type: article
-quality: 37
-heat: 37
+quality: 47
+heat: 47
 published: false
 
 provider:

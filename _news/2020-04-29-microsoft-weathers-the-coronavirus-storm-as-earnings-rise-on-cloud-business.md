@@ -7,8 +7,8 @@ webUrl: "https://www.seattletimes.com/business/microsoft/microsoft-weathers-the-
 ampWebUrl: "https://www.seattletimes.com/business/microsoft/microsoft-weathers-the-coronavirus-storm-posting-earnings-boost-from-its-cloud-business/?amp=1"
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/microsoft/microsoft-weathers-the-coronavirus-storm-posting-earnings-boost-from-its-cloud-business/?amp=1"
 type: article
-quality: 40
-heat: 40
+quality: 60
+heat: 60
 published: false
 
 provider:

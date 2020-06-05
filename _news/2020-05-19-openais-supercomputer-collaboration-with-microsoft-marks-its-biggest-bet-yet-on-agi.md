@@ -5,7 +5,7 @@ excerpt: "OpenAI and Microsoft collaborated to build a supercomputer on Azure th
 publishedDateTime: 2020-05-19T15:05:00Z
 webUrl: "https://venturebeat.com/2020/05/19/openai-microsoft-azure-supercomputer-ai-model-training/"
 type: article
-quality: 55
+quality: 65
 heat: -1
 published: false
 
@@ -35,7 +35,7 @@ related:
     provider:
       name: The Next Web
       domain: thenextweb.com
-    quality: 55
+    quality: 65
     images:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Microsoft-supercomputer-796x418.jpg"
         width: 796

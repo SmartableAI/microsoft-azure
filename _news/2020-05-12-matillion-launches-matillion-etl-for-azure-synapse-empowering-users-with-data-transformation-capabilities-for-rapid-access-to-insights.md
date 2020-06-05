@@ -27,7 +27,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 48
+    quality: 68
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Redis-Enterprise-for-Azure-Cache.jpg"
         width: 1663
@@ -40,7 +40,7 @@ related:
     provider:
       name: SD Times
       domain: sdtimes.com
-    quality: 41
+    quality: 51
     images:
       - url: "https://sdtimes.com/wp-content/uploads/2020/05/1_jFyfsakE2WBv5sFjBQUsuw.png"
         width: 1200

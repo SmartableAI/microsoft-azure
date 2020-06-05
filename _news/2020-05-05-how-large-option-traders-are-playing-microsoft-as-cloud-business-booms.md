@@ -7,8 +7,8 @@ webUrl: "https://www.benzinga.com/markets/options/20/05/15957945/how-large-optio
 ampWebUrl: "https://amp.benzinga.com/amp/content/15957945"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15957945"
 type: article
-quality: 42
-heat: 42
+quality: 62
+heat: 62
 published: false
 
 provider:

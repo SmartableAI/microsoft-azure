@@ -5,7 +5,7 @@ excerpt: "Microsoft and UnitedHealth Group partnered to launch a new return-to-w
 publishedDateTime: 2020-05-18T15:25:00Z
 webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/microsoft-unitedhealth-group-launch-covid-19-app-for-returning-remote-workers.html"
 type: article
-quality: 18
+quality: 28
 heat: -1
 published: false
 
@@ -33,7 +33,7 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://cnet1.cbsistatic.com/img/QJAZnYeTJ3nqwNYz4E5RCD7tTUA=/756x567/2020/04/13/4a78d253-d1a5-40d1-8336-2b30769fd064/now-what-live-with-telemedicine-00-26-07-17-still001.jpg"
         width: 756

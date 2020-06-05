@@ -5,7 +5,7 @@ excerpt: ""
 publishedDateTime: 2020-05-26T18:00:22Z
 webUrl: "https://azure.microsoft.com/en-us/updates/new-experience-for-agents-in-log-analytics/"
 type: article
-quality: 97
+quality: 107
 heat: -1
 published: false
 
@@ -35,7 +35,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 97
+    quality: 107
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/bc9fd2f5-bd17-4f4e-b1b5-c02c035f249b.gif"
         width: 1730

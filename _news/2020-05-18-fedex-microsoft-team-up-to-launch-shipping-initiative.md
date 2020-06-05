@@ -7,7 +7,7 @@ webUrl: "https://www.pymnts.com/news/delivery/2020/fedex-microsoft-team-up-for-s
 ampWebUrl: "https://www.pymnts.com/news/delivery/2020/fedex-microsoft-team-up-for-shipping-initiative/amp/"
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/delivery/2020/fedex-microsoft-team-up-for-shipping-initiative/amp/"
 type: article
-quality: 22
+quality: 32
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: TechSpot
       domain: techspot.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-18-image-34.jpg"
         width: 2560
@@ -44,7 +44,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F574884%2Fgettyimages-1162624331.jpg&w=1200&op=resize"
         width: 1200
@@ -59,7 +59,7 @@ related:
     provider:
       name: ConsumerAffairs
       domain: consumeraffairs.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://media.consumeraffairs.com/files/cache/news/FedEx_building_JHVEPhoto_Getty_Images_large.jpg"
         width: 700
@@ -74,7 +74,7 @@ related:
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://www.gannett-cdn.com/-mm-/3821841996d20be492a000e5b8789ec34da3e9bd/c=0-57-2539-1492/local/-/media/2017/08/29/TennGroup/Memphis/636396002819185337-060915-a.JPG?auto=webp&format=pjpg&width=1200"
         width: 1200
@@ -89,7 +89,7 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://media.bizj.us/view/img/10858802/fedex-boxes*600xx1197-798-2-0.jpg"
         width: 600
@@ -104,7 +104,7 @@ related:
     provider:
       name: Fox Business
       domain: foxbusiness.com
-    quality: 42
+    quality: 62
     images:
       - url: "http://media.foxbusiness.com/BrightCove/854081161001/202003/2301/854081161001_6145324627001_6145320707001-vs.jpg"
         width: 1280
@@ -119,7 +119,7 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://content.jwplatform.com/thumbs/9eFnHW1Q-720.jpg"
         width: 720
@@ -134,7 +134,7 @@ related:
     provider:
       name: Windows Central
       domain: windowscentral.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2017/09/microsoft-logo-2017-ignite2.jpg?itok=c3ocGDNm"
         width: 800
@@ -156,7 +156,7 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
@@ -169,7 +169,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 16
+    quality: 26
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/microsoft-2.png"
         width: 718

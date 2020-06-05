@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/moorinsights/2020/06/02/quantum-computing-
 ampWebUrl: "https://www.forbes.com/sites/moorinsights/2020/06/02/quantum-computing-trifecta-previewed-on-microsoft-azure-quantum-at-build-202/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/06/02/quantum-computing-trifecta-previewed-on-microsoft-azure-quantum-at-build-202/amp/"
 type: article
-quality: 74
-heat: 74
+quality: 84
+heat: 84
 published: true
 
 provider:

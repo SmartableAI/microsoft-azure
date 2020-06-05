@@ -7,8 +7,8 @@ webUrl: "https://www.cnbc.com/2019/04/30/a-big-shift-in-cloud-war-between-amazon
 ampWebUrl: "https://www.cnbc.com/amp/2019/04/30/a-big-shift-in-cloud-war-between-amazon-google-microsoft-is-coming.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/04/30/a-big-shift-in-cloud-war-between-amazon-google-microsoft-is-coming.html"
 type: article
-quality: 54
-heat: 54
+quality: 64
+heat: 64
 published: false
 
 provider:

@@ -5,7 +5,7 @@ excerpt: "Amazon Web Services filed a bid protest directly to the Department of 
 publishedDateTime: 2020-05-07T22:19:00Z
 webUrl: "https://www.federaltimes.com/it-networks/cloud/2020/05/07/amazon-challenges-the-pentagons-revised-jedi-solicitation-directly-to-the-department/"
 type: article
-quality: 15
+quality: 25
 heat: -1
 published: false
 
@@ -33,7 +33,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 48
+    quality: 68
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2019/11/microsoft-630x473.jpg"
         width: 630
@@ -48,7 +48,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 38
+    quality: 58
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2019/10/109411443_gettyimages-853699560.jpg"
         width: 660
@@ -63,7 +63,7 @@ related:
     provider:
       name: Law360
       domain: law360.com
-    quality: 22
+    quality: 32
   - title: "Amazon files another JEDI protest — this time against Pentagon’s corrective action"
     excerpt: "Amazon has doubled down in its protest of the Joint Enterprise Defense Infrastructure (JEDI) cloud contract. The company filed a second, concurrent bid protest this week directly with the Department of Defense asking for more clarity around the corrective action it has proposed taking on the JEDI contract."
     publishedDateTime: 2020-05-07T23:04:00Z
@@ -72,7 +72,7 @@ related:
     provider:
       name: FedScoop
       domain: fedscoop.com
-    quality: 16
+    quality: 26
     images:
       - url: "https://www.fedscoop.com/wp-content/uploads/2020/01/AWS_-_Amazon_Web_Services_Office_in_Houston_Texas_46600198075.jpg"
         width: 2100

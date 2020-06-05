@@ -7,7 +7,7 @@ webUrl: "https://www.barrons.com/articles/microsoft-stock-rises-after-company-sa
 ampWebUrl: "https://www.barrons.com/amp/articles/microsoft-stock-rises-after-company-says-covid-19-had-minimal-impact-on-fiscal-third-quarter-earnings-51588193445"
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/microsoft-stock-rises-after-company-says-covid-19-had-minimal-impact-on-fiscal-third-quarter-earnings-51588193445"
 type: article
-quality: 29
+quality: 49
 heat: -1
 published: false
 
@@ -35,7 +35,7 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://content.jwplatform.com/thumbs/6UhcmMhw-720.jpg"
         width: 720

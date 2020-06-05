@@ -5,8 +5,8 @@ excerpt: "Media and entertainment technology provider Avid has renewed its cloud
 publishedDateTime: 2020-05-05T17:54:00Z
 webUrl: "https://tvnewscheck.com/article/more-news/248549/avid-microsoft-azure-set-five-year-agreement/"
 type: article
-quality: 37
-heat: 37
+quality: 47
+heat: 47
 published: false
 
 provider:

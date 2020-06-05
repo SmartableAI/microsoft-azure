@@ -7,7 +7,7 @@ webUrl: "https://www.techspot.com/news/85160-amazon-microsoft-accusing-each-othe
 ampWebUrl: "https://www.techspot.com/amp/news/85160-amazon-microsoft-accusing-each-other-playing-dirty-get.html"
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85160-amazon-microsoft-accusing-each-other-playing-dirty-get.html"
 type: article
-quality: 76
+quality: 96
 heat: -1
 published: false
 
@@ -39,7 +39,7 @@ related:
     provider:
       name: Engadget
       domain: engadget.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-10%2F073b94a0-f1c4-11e9-8f5b-2c0832cca481&client=amp-blogside-v2&signature=0440a7701a50126da12ef6ffbcc2f78eb97c80fd"
         width: 600
@@ -54,7 +54,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg"
         width: 580
@@ -69,7 +69,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 73
+    quality: 93
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1073698070.jpg?w=1024"
         width: 1024
@@ -84,7 +84,7 @@ related:
     provider:
       name: winbuzzer.com
       domain: winbuzzer.com
-    quality: 57
+    quality: 77
     images:
       - url: "https://winbuzzer.com/wp-content/uploads/2016/04/Microsoft-Clouds-Pixels-Reuse.jpg"
         width: 1280
@@ -97,7 +97,7 @@ related:
     provider:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://media.datacenterdynamics.com/media/images/JEDI_Thats_No_Moon.2e16d0ba.fill-1200x630.png"
         width: 1200

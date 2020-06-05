@@ -5,8 +5,8 @@ excerpt: "Recently, aridamo hospital announced the establishment of XG laborator
 publishedDateTime: 2020-04-21T20:49:00Z
 webUrl: "https://www.marketwatch.com/press-release/alibaba-microsoft-cloud-computing-layout-5g-ai-vs-wimi-hologram-cloud-ai-vision-algorithm-2020-04-21"
 type: article
-quality: 50
-heat: 50
+quality: 60
+heat: 60
 published: false
 
 provider:

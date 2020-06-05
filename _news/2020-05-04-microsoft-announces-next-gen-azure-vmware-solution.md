@@ -7,8 +7,8 @@ webUrl: "https://www.neowin.net/news/microsoft-announces-next-gen-azure-vmware-s
 ampWebUrl: "https://www.neowin.net/amp/microsoft-announces-next-gen-azure-vmware-solution/"
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-next-gen-azure-vmware-solution/"
 type: article
-quality: 97
-heat: 197
+quality: 117
+heat: 217
 published: true
 
 provider:
@@ -48,7 +48,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 57
+    quality: 77
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2018/10/Swift-Azure.jpg"
         width: 932
@@ -61,7 +61,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 37
+    quality: 47
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/16077984773_ea37e226c1_k.jpg"
         width: 2048
@@ -74,7 +74,7 @@ related:
     provider:
       name: Virtualization Review
       domain: virtualizationreview.com
-    quality: 37
+    quality: 47
     images:
       - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/IntroImages2019/BlackWhiteDotsWavePatarn.jpg"
         width: 647
@@ -87,7 +87,7 @@ related:
     provider:
       name: CRN
       domain: crn.com
-    quality: 35
+    quality: 45
     images:
       - url: "https://www.crn.com/resources/025d-0f549f4162f9-5e108ebff150-1000/microsoft_hq-1.jpg"
         width: 395

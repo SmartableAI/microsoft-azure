@@ -7,8 +7,8 @@ webUrl: "https://www.digitaltrends.com/computing/microsoft-build-2020-what-to-ex
 ampWebUrl: "https://www.digitaltrends.com/computing/microsoft-build-2020-what-to-expect/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-build-2020-what-to-expect/?amp"
 type: article
-quality: 59
-heat: 59
+quality: 69
+heat: 69
 published: false
 
 provider:

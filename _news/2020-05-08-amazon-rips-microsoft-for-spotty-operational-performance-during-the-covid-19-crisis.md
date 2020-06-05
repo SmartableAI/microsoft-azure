@@ -7,8 +7,8 @@ webUrl: "https://www.geekwire.com/2020/amazon-rips-microsoft-spotty-operational-
 ampWebUrl: "https://www.geekwire.com/2020/amazon-rips-microsoft-spotty-operational-performance-covid-19-crisis/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazon-rips-microsoft-spotty-operational-performance-covid-19-crisis/amp/"
 type: article
-quality: 75
-heat: 75
+quality: 95
+heat: 95
 published: true
 
 provider:

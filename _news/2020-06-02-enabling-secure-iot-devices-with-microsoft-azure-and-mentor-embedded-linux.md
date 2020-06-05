@@ -5,8 +5,8 @@ excerpt: "This white paper provides OEM developers a fast, proven, secure method
 publishedDateTime: 2020-06-02T18:06:00Z
 webUrl: "https://www.embedded-computing.com/premium-white-papers-2/enabling-secure-iot-devices-with-microsoft-azure-and-mentor-embedded-linux"
 type: article
-quality: 34
-heat: 34
+quality: 44
+heat: 44
 published: false
 
 provider:

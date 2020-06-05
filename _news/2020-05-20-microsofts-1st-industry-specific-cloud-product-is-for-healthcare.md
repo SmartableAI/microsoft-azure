@@ -5,7 +5,7 @@ excerpt: "Tom McGuinness, the company's corporate VP of healthcare, said expandi
 publishedDateTime: 2020-05-20T15:37:00Z
 webUrl: "https://www.healthcaredive.com/news/microsofts-1st-industry-specific-cloud-product-is-for-healthcare/578295/"
 type: article
-quality: 22
+quality: 32
 heat: -1
 published: false
 
@@ -31,7 +31,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 52
+    quality: 62
     images:
       - url: "https://i.insider.com/5de54af4fd9db2443f7a1617?width=1200&format=jpeg"
         width: 1200

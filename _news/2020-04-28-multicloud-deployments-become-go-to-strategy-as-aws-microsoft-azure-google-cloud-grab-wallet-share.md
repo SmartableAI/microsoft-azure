@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/multicloud-deployments-become-go-to-strat
 ampWebUrl: "https://www.zdnet.com/google-amp/article/multicloud-deployments-become-go-to-strategy-as-aws-microsoft-azure-google-cloud-grab-wallet-share/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/multicloud-deployments-become-go-to-strategy-as-aws-microsoft-azure-google-cloud-grab-wallet-share/"
 type: article
-quality: 82
-heat: 82
+quality: 102
+heat: 102
 published: true
 
 provider:

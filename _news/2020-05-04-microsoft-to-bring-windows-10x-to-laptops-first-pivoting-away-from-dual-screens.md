@@ -7,8 +7,8 @@ webUrl: "https://www.digitaltrends.com/computing/microsoft-confirms-windows-10-x
 ampWebUrl: "https://www.digitaltrends.com/computing/microsoft-confirms-windows-10-x-single-screen-devices/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-confirms-windows-10-x-single-screen-devices/?amp"
 type: article
-quality: 77
-heat: 77
+quality: 97
+heat: 97
 published: true
 
 provider:

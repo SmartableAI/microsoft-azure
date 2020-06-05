@@ -5,8 +5,8 @@ excerpt: "SAN RAMON, Calif., June 01, 2020 (GLOBE NEWSWIRE) -- WANdisco (LSE: WA
 publishedDateTime: 2020-06-01T11:01:00Z
 webUrl: "https://www.marketwatch.com/press-release/wandisco-releases-livedata-platform-for-petabyte-scale-cloud-migration-to-microsoft-azure-2020-06-01"
 type: article
-quality: 68
-heat: 108
+quality: 78
+heat: 118
 published: true
 
 provider:
@@ -44,7 +44,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 35
+    quality: 45
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/hololens2-768x512.jpg"
         width: 768

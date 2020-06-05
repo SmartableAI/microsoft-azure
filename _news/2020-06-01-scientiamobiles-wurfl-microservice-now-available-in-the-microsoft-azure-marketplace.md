@@ -29,7 +29,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 68
+    quality: 78
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -42,7 +42,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 35
+    quality: 45
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/hololens2-768x512.jpg"
         width: 768

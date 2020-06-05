@@ -7,8 +7,8 @@ webUrl: "https://www.techradar.com/news/vodafone-offers-free-broadband-and-micro
 ampWebUrl: "https://www.techradar.com/amp/news/vodafone-offers-free-broadband-and-microsoft-365-to-smbs"
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/vodafone-offers-free-broadband-and-microsoft-365-to-smbs"
 type: article
-quality: 82
-heat: 82
+quality: 102
+heat: 102
 published: true
 
 provider:

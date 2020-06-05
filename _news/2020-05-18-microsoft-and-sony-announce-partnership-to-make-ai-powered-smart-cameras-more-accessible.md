@@ -7,7 +7,7 @@ webUrl: "https://mspoweruser.com/microsoft-and-sony-ai-powered-smart-cameras/"
 ampWebUrl: "https://mspoweruser.com/microsoft-and-sony-ai-powered-smart-cameras/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-and-sony-ai-powered-smart-cameras/amp/"
 type: article
-quality: 33
+quality: 53
 heat: -1
 published: false
 
@@ -35,7 +35,7 @@ related:
     provider:
       name: Windows Central
       domain: windowscentral.com
-    quality: 57
+    quality: 77
     images:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg?itok=T29z3T0D"
         width: 800

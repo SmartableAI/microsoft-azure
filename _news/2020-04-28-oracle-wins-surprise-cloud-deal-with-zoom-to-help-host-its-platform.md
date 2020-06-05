@@ -5,8 +5,8 @@ excerpt: "The collaboration is the result of a surprise cloud deal unveiled toda
 publishedDateTime: 2020-04-28T18:47:00Z
 webUrl: "https://siliconangle.com/2020/04/28/oracle-wins-surprise-cloud-deal-zoom-help-host-platform/"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

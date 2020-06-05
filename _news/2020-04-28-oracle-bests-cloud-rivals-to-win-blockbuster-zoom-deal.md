@@ -5,8 +5,8 @@ excerpt: "Zoom selects Oracle Cloud Infrastructure as its cloud provider to help
 publishedDateTime: 2020-04-28T15:21:00Z
 webUrl: "https://www.crn.com/news/cloud/oracles-bests-cloud-rivals-to-win-blockbuster-zoom-deal"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

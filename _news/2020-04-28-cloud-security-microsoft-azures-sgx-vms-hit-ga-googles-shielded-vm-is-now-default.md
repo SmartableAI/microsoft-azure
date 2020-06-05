@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/cloud-security-microsoft-azures-sgx-vms-h
 ampWebUrl: "https://www.zdnet.com/google-amp/article/cloud-security-microsoft-azures-sgx-vms-hit-ga-googles-shielded-vm-is-now-default/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cloud-security-microsoft-azures-sgx-vms-hit-ga-googles-shielded-vm-is-now-default/"
 type: article
-quality: 70
-heat: 70
+quality: 80
+heat: 80
 published: true
 
 provider:

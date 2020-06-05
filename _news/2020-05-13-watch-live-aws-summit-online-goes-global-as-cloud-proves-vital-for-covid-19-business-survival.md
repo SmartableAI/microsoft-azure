@@ -5,7 +5,7 @@ excerpt: "The AWS Summit in San Francisco has gone virtual as a result of the CO
 publishedDateTime: 2020-05-13T16:11:00Z
 webUrl: "https://siliconangle.com/2020/05/13/watch-live-aws-summit-online-goes-global-cloud-proves-vital-covid-19-business-survival-awssummit/"
 type: article
-quality: 10
+quality: 20
 heat: -1
 published: false
 
@@ -31,7 +31,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 17
+    quality: 27
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/AWS-Summit-Online-2020.jpg"
         width: 1920

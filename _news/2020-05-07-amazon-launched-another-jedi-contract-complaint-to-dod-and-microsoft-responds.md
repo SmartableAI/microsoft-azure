@@ -7,7 +7,7 @@ webUrl: "https://mspoweruser.com/amazon-launched-another-jedi-contract-complaint
 ampWebUrl: "https://mspoweruser.com/amazon-launched-another-jedi-contract-complaint-to-dod-and-microsoft-responds/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/amazon-launched-another-jedi-contract-complaint-to-dod-and-microsoft-responds/amp/"
 type: article
-quality: 38
+quality: 58
 heat: -1
 published: false
 
@@ -35,7 +35,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 48
+    quality: 68
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2019/11/microsoft-630x473.jpg"
         width: 630
@@ -50,7 +50,7 @@ related:
     provider:
       name: Law360
       domain: law360.com
-    quality: 22
+    quality: 32
   - title: "Amazon files another JEDI protest — this time against Pentagon’s corrective action"
     excerpt: "Amazon has doubled down in its protest of the Joint Enterprise Defense Infrastructure (JEDI) cloud contract. The company filed a second, concurrent bid protest this week directly with the Department of Defense asking for more clarity around the corrective action it has proposed taking on the JEDI contract."
     publishedDateTime: 2020-05-07T23:04:00Z
@@ -59,7 +59,7 @@ related:
     provider:
       name: FedScoop
       domain: fedscoop.com
-    quality: 16
+    quality: 26
     images:
       - url: "https://www.fedscoop.com/wp-content/uploads/2020/01/AWS_-_Amazon_Web_Services_Office_in_Houston_Texas_46600198075.jpg"
         width: 2100
@@ -72,7 +72,7 @@ related:
     provider:
       name: Federal Times
       domain: federaltimes.com
-    quality: 15
+    quality: 25
     images:
       - url: "https://www.armytimes.com/resizer/zPIx2t3S-cW9L6O4V1nUbDT6wsw=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/SPQTUFFMHRFI7FZBGH36NHJ5MA.jpg"
         width: 1200

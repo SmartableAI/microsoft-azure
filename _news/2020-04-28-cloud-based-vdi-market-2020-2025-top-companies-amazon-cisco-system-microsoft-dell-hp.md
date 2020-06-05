@@ -5,8 +5,8 @@ excerpt: "According to the latest report by IMARC Group, titled \"Cloud Based VD
 publishedDateTime: 2020-04-28T10:35:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-based-vdi-market-2020-2025-top-companies-amazon-cisco-system-microsoft-dell-hp-2020-04-28"
 type: article
-quality: 53
-heat: 53
+quality: 63
+heat: 63
 published: false
 
 provider:

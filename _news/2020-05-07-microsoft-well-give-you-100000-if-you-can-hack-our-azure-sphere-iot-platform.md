@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/microsoft-well-give-you-100000-if-
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-well-give-you-100000-if-you-can-hack-our-azure-sphere-iot-platform/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-well-give-you-100000-if-you-can-hack-our-azure-sphere-iot-platform/"
 type: article
-quality: 92
-heat: 112
+quality: 112
+heat: 132
 published: true
 
 provider:
@@ -39,7 +39,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 57
+    quality: 77
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2019/10/Azure-Sphere.jpg"
         width: 926

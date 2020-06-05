@@ -5,8 +5,8 @@ excerpt: "Section A: Microsoft is offering you a license to use the following co
 publishedDateTime: 2020-04-21T05:22:00Z
 webUrl: "https://docs.microsoft.com/en-us/azure/media-services/azure-media-player/azure-media-player-license"
 type: article
-quality: 37
-heat: 37
+quality: 47
+heat: 47
 published: false
 
 provider:
@@ -35,7 +35,7 @@ related:
     provider:
       name: CRN
       domain: crn.com
-    quality: 37
+    quality: 47
     images:
       - url: "https://www.crn.com/resources/025b-0eff6361f68a-29cd08758548-1000/1azurestackportfolio.jpg"
         width: 515

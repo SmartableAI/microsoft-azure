@@ -5,8 +5,8 @@ excerpt: "Microsoft confirmed today that Amazon has filed a new complaint relate
 publishedDateTime: 2020-05-07T22:00:00Z
 webUrl: "https://www.onmsft.com/news/update-amazon-files-new-complaint-to-try-and-stop-microsoft-jedi-cloud-computing-win"
 type: article
-quality: 15
-heat: 15
+quality: 25
+heat: 25
 published: false
 
 provider:

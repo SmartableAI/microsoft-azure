@@ -7,8 +7,8 @@ webUrl: "https://www.financialexpress.com/industry/telecom-it-associations-oppos
 ampWebUrl: "https://www.financialexpress.com/industry/telecom-it-associations-oppose-move-to-regulate-cloud-service-providers/1959362/lite/"
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/telecom-it-associations-oppose-move-to-regulate-cloud-service-providers/1959362/lite/"
 type: article
-quality: 21
-heat: 21
+quality: 31
+heat: 31
 published: false
 
 provider:

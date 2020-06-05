@@ -5,8 +5,8 @@ excerpt: "As AI reaches critical momentum across industries and applications, it
 publishedDateTime: 2020-05-19T08:00:15Z
 webUrl: "https://azure.microsoft.com/blog/build-ai-you-can-trust-with-responsible-ml/"
 type: article
-quality: 82
-heat: 82
+quality: 92
+heat: 92
 published: true
 
 provider:

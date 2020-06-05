@@ -7,8 +7,8 @@ webUrl: "https://federalnewsnetwork.com/defense-main/2020/05/aws-files-yet-anoth
 ampWebUrl: "https://federalnewsnetwork.com/defense-main/2020/05/aws-files-yet-another-jedi-protest-challenging-dods-process-for-reconsidering-the-contract/amp/"
 cdnAmpWebUrl: "https://federalnewsnetwork-com.cdn.ampproject.org/c/s/federalnewsnetwork.com/defense-main/2020/05/aws-files-yet-another-jedi-protest-challenging-dods-process-for-reconsidering-the-contract/amp/"
 type: article
-quality: 32
-heat: 32
+quality: 52
+heat: 52
 published: false
 
 provider:

@@ -5,7 +5,7 @@ excerpt: "Microsoft on Tuesday announced it would invest one billion dollars in 
 publishedDateTime: 2020-05-05T18:47:00Z
 webUrl: "https://www.ibtimes.com/microsoft-invest-1-bln-poland-cloud-2970673"
 type: article
-quality: 22
+quality: 32
 heat: -1
 published: false
 
@@ -33,7 +33,7 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200505&t=2&i=1517499643&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG440IH"
         width: 817
@@ -48,7 +48,7 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200508&t=2&i=1517951945&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG471BI"
         width: 817
@@ -63,7 +63,7 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 62
+    quality: 72
   - title: "Microsoft to invest $1 bln in Polish cloud project"
     excerpt: "Microsoft will invest $1 billion in Poland as part of a plan that will involve opening a data centre in the country to provide cloud services to businesses and government institutions, the company said in a statement on Tuesday."
     publishedDateTime: 2020-05-05T09:42:00Z
@@ -74,7 +74,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 62
+    quality: 72
   - title: "Microsoft announces $1 billion investment plan in Poland"
     excerpt: "Microsoft today announced a $1 billion investment plan in Poland. As part of this investment, Microsoft will open a new datacenter region in Poland to support startups, enterprises and government with enterprise-grade cloud services."
     publishedDateTime: 2020-05-05T15:45:00Z
@@ -85,7 +85,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Microsoft-Poland-1200x788.jpg"
         width: 1200
@@ -100,7 +100,7 @@ related:
     provider:
       name: Windows Central
       domain: windowscentral.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/03/microsoft-logo-ignite-2017.jpg?itok=LlgVw_jV"
         width: 800
@@ -115,24 +115,11 @@ related:
     provider:
       name: The Jakarta Post
       domain: thejakartapost.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://img.jakpost.net/c/2019/03/23/2019_03_23_68363_1553355661._medium.jpg"
         width: 747
         height: 515
-  - title: "New Zealand to get its own Microsoft Azure region"
-    excerpt: "Microsoft has applied for permission from the New Zealand government's Overseas Investment Office to acquire sites to build its first Azure region in the country, the company announced. Storing customer data at rest in New Zealand along with meeting users' security and compliance needs are cited by Microsoft as the drivers for establishing the new region."
-    publishedDateTime: 2020-05-06T01:40:00Z
-    webUrl: "https://www.itnews.com.au/news/new-zealand-to-get-its-own-microsoft-azure-region-547817"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 37
-    images:
-      - url: "https://i.nextmedia.com.au/News/MS_Azure_regions.png"
-        width: 882
-        height: 432
   - title: "Microsoft to invest $1.5 billion in Italy, new datacenter region coming in Milan"
     excerpt: "Microsoft today announced a $1.5 billion 5-year investment plan in Italy. Microsoft also announced the first data center region coming to the country in Milan."
     publishedDateTime: 2020-05-08T13:02:00Z
@@ -143,11 +130,24 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 37
+    quality: 57
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Microsoft-Italy.jpg"
         width: 890
         height: 578
+  - title: "New Zealand to get its own Microsoft Azure region"
+    excerpt: "Microsoft has applied for permission from the New Zealand government's Overseas Investment Office to acquire sites to build its first Azure region in the country, the company announced. Storing customer data at rest in New Zealand along with meeting users' security and compliance needs are cited by Microsoft as the drivers for establishing the new region."
+    publishedDateTime: 2020-05-06T01:40:00Z
+    webUrl: "https://www.itnews.com.au/news/new-zealand-to-get-its-own-microsoft-azure-region-547817"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 47
+    images:
+      - url: "https://i.nextmedia.com.au/News/MS_Azure_regions.png"
+        width: 882
+        height: 432
   - title: "Microsoft lands public cloud in New Zealand with new datacenter region"
     excerpt: "Microsoft plans to establish its first datacenter region in New Zealand, in what it described as \"a major milestone toward delivering enterprise-grade cloud services in the country\"."
     publishedDateTime: 2020-05-05T23:37:00Z
@@ -156,7 +156,7 @@ related:
     provider:
       name: Reseller News
       domain: reseller.co.nz
-    quality: 22
+    quality: 32
     images:
       - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/img_20190327_063139.jpg"
         width: 800

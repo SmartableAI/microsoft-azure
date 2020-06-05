@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/tomtaulli/2020/05/22/microsoft--softomotiv
 ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2020/05/22/microsoft--softomotive-what-does-this-deal-mean-for-rpa-robotic-process-automation/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/05/22/microsoft--softomotive-what-does-this-deal-mean-for-rpa-robotic-process-automation/amp/"
 type: article
-quality: 54
-heat: 54
+quality: 64
+heat: 64
 published: false
 
 provider:

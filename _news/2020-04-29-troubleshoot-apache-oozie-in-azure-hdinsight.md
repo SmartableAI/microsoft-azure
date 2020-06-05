@@ -5,8 +5,8 @@ excerpt: "With the Apache Oozie UI, you can view Oozie logs. The Oozie UI also c
 publishedDateTime: 2020-04-29T05:20:00Z
 webUrl: "https://docs.microsoft.com/en-us/azure/hdinsight/troubleshoot-oozie"
 type: article
-quality: 37
-heat: 37
+quality: 47
+heat: 47
 published: false
 
 provider:

@@ -7,8 +7,8 @@ webUrl: "https://www.theverge.com/2020/5/20/21264363/microsoft-build-2020-top-ne
 ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/20/21264363/microsoft-build-2020-top-news-annoucements-fluid-office-windows-reunion-edge"
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/20/21264363/microsoft-build-2020-top-news-annoucements-fluid-office-windows-reunion-edge"
 type: article
-quality: 82
-heat: 122
+quality: 102
+heat: 142
 published: true
 
 provider:
@@ -39,7 +39,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 67
+    quality: 87
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106340571-1579197768152gettyimages-860270484.jpeg?v=1590091539"
         width: 4000
@@ -54,7 +54,7 @@ related:
     provider:
       name: Windows Central
       domain: windowscentral.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/03/microsoft-logo-ignite-2017.jpg?itok=LlgVw_jV"
         width: 800

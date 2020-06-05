@@ -5,7 +5,7 @@ excerpt: "Public cloud Infrastructure-as-a-Service (IaaS), such as Microsoft Azu
 publishedDateTime: 2020-04-28T11:27:00Z
 webUrl: "https://www.businesswire.com/news/home/20200428005491/en/Veeam-Announces-General-Availability-NEW-Veeam-Backup"
 type: article
-quality: 34
+quality: 44
 heat: -1
 published: false
 
@@ -33,11 +33,20 @@ related:
     provider:
       name: Zawya
       domain: zawya.com
-    quality: 54
+    quality: 74
     images:
       - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
         width: 1200
         height: 878
+  - title: "Microsoft Announces the General Availability of Windows Server Containers, and More for AKS"
+    excerpt: "Microsoft launched a preview of Windows Server Containers in Azure Kubernetes Service (AKS). Now the company announced the general availability of Windows Server containers in AKS, including the support of private clusters and managed identities."
+    publishedDateTime: 2020-05-05T11:23:00Z
+    webUrl: "https://www.infoq.com/news/2020/05/windows-server-containers-aks-ga/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 0
 
 secured: "vUuOrjFt6p37NdHPIR4BWgLqdyzYGfOADaXO1gQe70VnEeFvEJ/rkwkRsRuuxVf6LZ7OVYfN6OMAXNkdmrUE8PIyfYHYnJ/terjYVVZPb5A2uNrkNwSVbKypT5akXN0dORm02VqZoVQkIA5c0G6xWN4wWMG5JixSqpafmTgZTbzpdlN1kjiBO7SU3NGm4hpBN0ZTaWQxn1oNqMnwZlnT+FhYWWVvRUSLINjBCqg3BmLiUCpKQbipDWOjU3vlKtmjQXTP50MfGTMN9w6h4LMuRrSniaqUFIo1OJrqP93pLTEHgcHcn+XNecemQXwMzFzRvs6OP3HDaS2TDK/FRBQlZ2uR8n4sHjEw2EfJaqWz0ViMJ50uBsQuwvEf1XilJ4N5C3jrikyeo9Qg60714uCgFObbfVt+VDjmop1r6drDwOJejVIo51cBL0RuJUCRC9jDeadCdtPZKcC54d7zJOLteZv879umOemLm0qxDJF9bZ0=;tgDDAKng436EGPnMkEnkKA=="
 ---

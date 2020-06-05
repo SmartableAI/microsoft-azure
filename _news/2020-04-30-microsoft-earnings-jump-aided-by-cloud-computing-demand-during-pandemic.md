@@ -7,7 +7,7 @@ webUrl: "https://www.wsj.com/articles/microsoft-earnings-jump-aided-by-cloud-com
 ampWebUrl: "https://www.wsj.com/amp/articles/microsoft-earnings-jump-aided-by-cloud-computing-demand-during-pandemic-11588192187"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/microsoft-earnings-jump-aided-by-cloud-computing-demand-during-pandemic-11588192187"
 type: article
-quality: 81
+quality: 101
 heat: -1
 published: false
 
@@ -39,7 +39,7 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200429&t=2&i=1516924789&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG3S223"
         width: 817
@@ -54,7 +54,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 77
+    quality: 97
     images:
       - url: "https://s.marketwatch.com/public/resources/images/MW-HY843_Micros_ZH_20200122191821.jpg"
         width: 890
@@ -69,7 +69,7 @@ related:
     provider:
       name: Bloomberg
       domain: bloomberg.com
-    quality: 62
+    quality: 72
   - title: "Microsoft blames coronavirus-related supply chain constraints for its cloud capacity issues"
     excerpt: "Microsoft has struggled at times to keep up with the huge demand for its cloud services, as people work from home more."
     publishedDateTime: 2020-04-29T21:37:00Z
@@ -78,7 +78,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 52
+    quality: 62
     images:
       - url: "https://i.insider.com/5dfbb9b6855cc26de1630123?width=1200&format=jpeg"
         width: 1200
@@ -93,7 +93,7 @@ related:
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 33
+    quality: 53
     images:
       - url: "https://www.washingtonpost.com/resizer/iAwDp1yG46qwbRqde_rAAu43rKI=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RBIUICTQDUI6TEZRGC6FQNXURY.jpg"
         width: 1440
@@ -106,7 +106,7 @@ related:
     provider:
       name: Houston Chronicle
       domain: chron.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://s.hdnux.com/photos/01/11/65/34/19355416/3/rawImage.jpg"
         width: 2048
@@ -119,7 +119,7 @@ related:
     provider:
       name: SFGate
       domain: sfgate.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://s.hdnux.com/photos/01/11/65/34/19355416/3/rawImage.jpg"
         width: 2048

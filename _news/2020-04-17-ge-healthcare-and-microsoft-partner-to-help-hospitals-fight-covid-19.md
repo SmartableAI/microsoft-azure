@@ -7,9 +7,9 @@ webUrl: "https://www.zdnet.com/article/ge-healthcare-and-microsoft-partner-to-he
 ampWebUrl: "https://www.zdnet.com/google-amp/article/ge-healthcare-and-microsoft-partner-to-help-hospitals-fight-covid-19/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ge-healthcare-and-microsoft-partner-to-help-hospitals-fight-covid-19/"
 type: article
-quality: 62
-heat: 62
-published: false
+quality: 72
+heat: 72
+published: true
 
 provider:
   name: ZDNet

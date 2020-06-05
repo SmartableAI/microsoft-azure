@@ -27,7 +27,7 @@ related:
     provider:
       name: TechSpot
       domain: techspot.com
-    quality: 81
+    quality: 101
     images:
       - url: "https://static.techspot.com/images2/news/bigimage/2020/04/2020-04-28-image-30.jpg"
         width: 2461

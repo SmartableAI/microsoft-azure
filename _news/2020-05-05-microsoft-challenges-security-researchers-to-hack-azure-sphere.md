@@ -5,8 +5,8 @@ excerpt: "Participants can earn up to $100,000 for finding severe flaws in Micro
 publishedDateTime: 2020-05-05T21:54:00Z
 webUrl: "https://www.darkreading.com/threat-intelligence/microsoft-challenges-security-researchers-to-hack-azure-sphere/d/d-id/1337739"
 type: article
-quality: 37
-heat: 37
+quality: 47
+heat: 47
 published: false
 
 provider:

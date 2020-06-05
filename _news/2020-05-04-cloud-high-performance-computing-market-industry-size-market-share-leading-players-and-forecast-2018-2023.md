@@ -5,8 +5,8 @@ excerpt: "Global Cloud High Performance Computing Market: Component (Hardware, S
 publishedDateTime: 2020-05-04T01:22:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-high-performance-computing-market-industry-size-market-share-leading-players-and-forecast-2018-2023-2020-05-03"
 type: article
-quality: 44
-heat: 44
+quality: 54
+heat: 54
 published: false
 
 provider:

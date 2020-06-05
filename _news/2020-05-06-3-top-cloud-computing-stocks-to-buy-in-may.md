@@ -7,8 +7,8 @@ webUrl: "https://www.fool.com/investing/2020/05/06/3-top-cloud-computing-stocks-
 ampWebUrl: "https://www.fool.com/amp/investing/2020/05/06/3-top-cloud-computing-stocks-to-buy-in-may.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/3-top-cloud-computing-stocks-to-buy-in-may.aspx"
 type: article
-quality: 82
-heat: 82
+quality: 102
+heat: 102
 published: true
 
 provider:

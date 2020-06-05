@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/microsoft-q3-strong-as-remote-work-propel
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-q3-strong-as-remote-work-propels-teams-office-365-azure/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-q3-strong-as-remote-work-propels-teams-office-365-azure/"
 type: article
-quality: 97
-heat: 97
+quality: 117
+heat: 117
 published: true
 
 provider:

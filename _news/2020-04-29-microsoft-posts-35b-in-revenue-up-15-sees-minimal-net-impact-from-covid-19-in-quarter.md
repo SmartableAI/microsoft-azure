@@ -7,8 +7,8 @@ webUrl: "https://www.geekwire.com/2020/microsoft-posts-35b-revenue-15-sees-minim
 ampWebUrl: "https://www.geekwire.com/2020/microsoft-posts-35b-revenue-15-sees-minimal-net-impact-covid-19-quarter/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-posts-35b-revenue-15-sees-minimal-net-impact-covid-19-quarter/amp/"
 type: article
-quality: 72
-heat: 72
+quality: 92
+heat: 92
 published: true
 
 provider:

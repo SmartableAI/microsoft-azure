@@ -5,8 +5,8 @@ excerpt: "Oracle continues to forge the expansion of our cloud interoperability 
 publishedDateTime: 2020-05-08T12:03:00Z
 webUrl: "https://www.oracle.com/corporate/blog/oracle-microsoft-cloud-interoperability-tokyo-050820.html"
 type: article
-quality: 25
-heat: 25
+quality: 35
+heat: 35
 published: false
 
 provider:

@@ -7,8 +7,8 @@ webUrl: "https://www.geekwire.com/2020/dispute-microsoft-amazon-jedi-cloud-contr
 ampWebUrl: "https://www.geekwire.com/2020/dispute-microsoft-amazon-jedi-cloud-contract-delayed/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/dispute-microsoft-amazon-jedi-cloud-contract-delayed/amp/"
 type: article
-quality: 81
-heat: 81
+quality: 101
+heat: 101
 published: true
 
 provider:

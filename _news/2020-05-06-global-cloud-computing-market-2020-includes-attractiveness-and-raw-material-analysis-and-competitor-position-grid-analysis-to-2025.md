@@ -5,8 +5,8 @@ excerpt: "Fior Markets has published a new research study titled Cloud Computing
 publishedDateTime: 2020-05-06T14:11:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-cloud-computing-market-2020-includes-attractiveness-and-raw-material-analysis-and-competitor-position-grid-analysis-to-2025-2020-05-06"
 type: article
-quality: 32
-heat: 32
+quality: 42
+heat: 42
 published: false
 
 provider:

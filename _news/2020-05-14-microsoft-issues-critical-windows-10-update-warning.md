@@ -7,9 +7,9 @@ webUrl: "https://www.forbes.com/sites/gordonkelly/2020/05/13/microsoft-critical-
 ampWebUrl: "https://www.forbes.com/sites/gordonkelly/2020/05/13/microsoft-critical-windows-10-update-warning-free-windows-10-upgrade/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gordonkelly/2020/05/13/microsoft-critical-windows-10-update-warning-free-windows-10-upgrade/amp/"
 type: article
-quality: 62
-heat: 62
-published: false
+quality: 72
+heat: 72
+published: true
 
 provider:
   name: Forbes

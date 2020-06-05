@@ -7,8 +7,8 @@ webUrl: "https://www.business2community.com/cloud-computing/is-azure-surging-azu
 ampWebUrl: "https://www.business2community.com/cloud-computing/is-azure-surging-azure-growth-in-2020-02313558/amp"
 cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/cloud-computing/is-azure-surging-azure-growth-in-2020-02313558/amp"
 type: article
-quality: 37
-heat: 37
+quality: 47
+heat: 47
 published: false
 
 provider:

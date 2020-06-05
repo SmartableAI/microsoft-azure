@@ -5,8 +5,8 @@ excerpt: "MarketResearchNest Announced that it's published an Exclusive Report o
 publishedDateTime: 2020-06-02T07:24:00Z
 webUrl: "https://www.marketwatch.com/press-release/the-impact-of-covid-19-on-cloud-gaming-market-latest-research-report-2020-to-2025-2020-06-02"
 type: article
-quality: 57
-heat: 57
+quality: 67
+heat: 67
 published: false
 
 provider:

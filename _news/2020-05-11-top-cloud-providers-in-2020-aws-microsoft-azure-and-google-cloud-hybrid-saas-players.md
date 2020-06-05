@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/the-top-cloud-providers-of-2020-aws-micro
 ampWebUrl: "https://www.zdnet.com/google-amp/article/the-top-cloud-providers-of-2020-aws-microsoft-azure-google-cloud-hybrid-saas/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-top-cloud-providers-of-2020-aws-microsoft-azure-google-cloud-hybrid-saas/"
 type: article
-quality: 88
-heat: 88
+quality: 108
+heat: 108
 published: true
 
 provider:

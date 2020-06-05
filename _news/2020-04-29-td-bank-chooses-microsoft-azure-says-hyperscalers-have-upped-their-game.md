@@ -7,9 +7,9 @@ webUrl: "https://www.itbusiness.ca/news/td-bank-chooses-microsoft-azure-says-hyp
 ampWebUrl: "https://www.itbusiness.ca/news/td-bank-chooses-microsoft-azure-says-hyperscalers-have-upped-their-game/110189?amp=1"
 cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/td-bank-chooses-microsoft-azure-says-hyperscalers-have-upped-their-game/110189?amp=1"
 type: article
-quality: 55
-heat: 55
-published: false
+quality: 75
+heat: 75
+published: true
 
 provider:
   name: IT Business

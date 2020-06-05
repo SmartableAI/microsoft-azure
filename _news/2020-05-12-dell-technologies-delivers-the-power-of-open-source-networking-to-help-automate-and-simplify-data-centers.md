@@ -5,8 +5,8 @@ excerpt: "News summary Building on its long history of contributions to the open
 publishedDateTime: 2020-05-12T13:00:00Z
 webUrl: "https://www.prnewswire.com/news-releases/dell-technologies-delivers-the-power-of-open-source-networking-to-help-automate-and-simplify-data-centers-301057506.html"
 type: article
-quality: 5
-heat: 5
+quality: 15
+heat: 15
 published: false
 
 provider:

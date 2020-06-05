@@ -5,9 +5,9 @@ excerpt: "Recent report published by research nester titled “Cloud Assurance M
 publishedDateTime: 2020-05-13T17:54:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-assurance-market-growth-rate-of-1712-over-the-period-2015-2023-reached-usd-355-billion-in-2013-2020-05-13"
 type: article
-quality: 45
-heat: 45
-published: false
+quality: 55
+heat: 75
+published: true
 
 provider:
   name: MarketWatch

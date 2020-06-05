@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/maribellopez/2020/05/14/from-hand-sanitize
 ampWebUrl: "https://www.forbes.com/sites/maribellopez/2020/05/14/from-hand-sanitizers-to-tacos-microsoft-shows-us-how-companies-are-using-technology-to-thrive-during-a-pandemic/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2020/05/14/from-hand-sanitizers-to-tacos-microsoft-shows-us-how-companies-are-using-technology-to-thrive-during-a-pandemic/amp/"
 type: article
-quality: 41
-heat: 41
+quality: 51
+heat: 51
 published: false
 
 provider:

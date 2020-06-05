@@ -7,9 +7,9 @@ webUrl: "https://www.zdnet.com/article/microsoft-bosque-is-a-new-programming-lan
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-bosque-is-a-new-programming-language-built-for-ai-in-the-cloud/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-bosque-is-a-new-programming-language-built-for-ai-in-the-cloud/"
 type: article
-quality: 61
-heat: 61
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: ZDNet

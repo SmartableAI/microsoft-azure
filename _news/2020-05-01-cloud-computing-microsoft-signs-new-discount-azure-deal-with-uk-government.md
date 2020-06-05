@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/cloud-computing-microsoft-signs-ne
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/cloud-computing-microsoft-signs-new-discount-azure-deal-with-uk-government/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cloud-computing-microsoft-signs-new-discount-azure-deal-with-uk-government/"
 type: article
-quality: 95
-heat: 95
+quality: 115
+heat: 115
 published: true
 
 provider:

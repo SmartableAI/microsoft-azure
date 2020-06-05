@@ -5,8 +5,8 @@ excerpt: "Trojan Battery’s director of IT has been a believer in software as a
 publishedDateTime: 2020-05-05T10:05:00Z
 webUrl: "https://www.cio.com/article/3541071/cloud-powers-trojan-battery-through-covid-19-lockdown.html"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

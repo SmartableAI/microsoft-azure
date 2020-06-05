@@ -5,8 +5,8 @@ excerpt: "The Defense Department’s watchdog found no evidence that the Pentago
 publishedDateTime: 2020-04-17T08:31:00Z
 webUrl: "https://www.fudzilla.com/news/50669-microsoft-s-jedi-win-was-not-down-to-white-house-dark-force"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

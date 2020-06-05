@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/04/29/microsoft-earnings-q3-2020/"
 ampWebUrl: "https://venturebeat.com/2020/04/29/microsoft-earnings-q3-2020/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/microsoft-earnings-q3-2020/amp/"
 type: article
-quality: 82
-heat: 122
+quality: 102
+heat: 142
 published: true
 
 provider:
@@ -39,7 +39,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 57
+    quality: 77
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2016/05/Microsoft-Azure.jpg"
         width: 791
@@ -54,7 +54,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 50
+    quality: 70
     images:
       - url: "https://i.insider.com/5ea9cc5f5f726e057f0f9244?width=1200&format=jpeg"
         width: 1200

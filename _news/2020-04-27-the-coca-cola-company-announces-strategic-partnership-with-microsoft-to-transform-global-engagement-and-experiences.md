@@ -5,8 +5,8 @@ excerpt: "The Coca-Cola Company (NYSE: “KO”) on Monday announced a five-year
 publishedDateTime: 2020-04-27T15:31:00Z
 webUrl: "https://apnews.com/PR Newswire/cd5af10340231d2145bc2ee6bc0ff70d"
 type: article
-quality: 0
-heat: -1
+quality: 10
+heat: 10
 published: false
 
 provider:
@@ -23,21 +23,6 @@ images:
     title: "The Coca-Cola Company announces strategic partnership with Microsoft to transform global engagement and experiences"
 
 related:
-  - title: "Coca-Cola selects Microsoft cloud to modernize its business"
-    excerpt: "The Coca-Cola Company today announced a five-year agreement with Microsoft to standardize its business operations on Microsoft’s cloud. As part of this partnership, Coca-Cola will be using Microsoft Azure,"
-    publishedDateTime: 2020-04-27T14:29:00Z
-    webUrl: "https://mspoweruser.com/coca-cola-microsoft-cloud-business/"
-    ampWebUrl: "https://mspoweruser.com/coca-cola-microsoft-cloud-business/amp/"
-    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/coca-cola-microsoft-cloud-business/amp/"
-    type: article
-    provider:
-      name: MSPoweruser
-      domain: mspoweruser.com
-    quality: 42
-    images:
-      - url: "https://mspoweruser.com/wp-content/uploads/2020/04/Coca-cola-Microsoft.jpg"
-        width: 1189
-        height: 616
   - title: "Coca-Cola partners Microsoft to transform global engagement, experiences"
     excerpt: "With this agreement, the companies will use the functionalities of Microsoft Azure, Dynamics 365 and Microsoft 365. These products will help The Coca-Cola Company gain new insights from data across the enterprise, enabling a 360-degree view of the business ..."
     publishedDateTime: 2020-04-27T14:04:00Z

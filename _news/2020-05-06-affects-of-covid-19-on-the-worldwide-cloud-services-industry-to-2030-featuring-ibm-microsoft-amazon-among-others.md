@@ -7,7 +7,7 @@ webUrl: "https://www.benzinga.com/pressreleases/20/05/g15965315/affects-of-covid
 ampWebUrl: "https://amp.benzinga.com/amp/content/15965315"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15965315"
 type: article
-quality: 0
+quality: 9
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 6
+    quality: 16
 
 secured: "OGjJXcD1fo5N0s/KfNW4RtxrhtCsFAmGqVg6uKlYAW9Uft1T9piIsw1ugdOaQvFuT+14bxgiOE81d/rnBUUDFF0wEcKCxdJ5n+1UDwLLS4TrIg8Cdr3c3YNJILKgJwN3qrxznRx31ymskCV6PVOZB1mZ5tWGYovDcPyi0aBxm0DxWv+6AvN5WCIQIWLPI1nixq/opaKJA7YDxGIpujfL+w0LstSxSSWPZYENmwIxAAaztaDHIzaJnU1HZnnivJFPeedWEXI/E9N8rEwNnXic11KyMEmahLhDh1M17Z9Y1h++NKO7xDa/f8yg+mTvCBhg;DbuGKMSbGCGgMDelL5nTfQ=="
 ---

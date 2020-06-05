@@ -5,8 +5,8 @@ excerpt: "McAfee, a device-to-cloud cybersecurity company, today announced that 
 publishedDateTime: 2020-04-23T04:15:00Z
 webUrl: "https://www.businesswire.com/news/home/20200422005877/en/McAfee-MVISION-Cloud-Secure-Compliant-Manage-Data"
 type: article
-quality: 4
-heat: 4
+quality: 14
+heat: 14
 published: false
 
 provider:

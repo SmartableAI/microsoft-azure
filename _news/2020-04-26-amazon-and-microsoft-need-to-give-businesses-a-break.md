@@ -7,8 +7,8 @@ webUrl: "https://www.seattletimes.com/business/amazon-and-microsoft-need-to-give
 ampWebUrl: "https://www.seattletimes.com/business/amazon-and-microsoft-need-to-give-businesses-a-break/?amp=1"
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/amazon-and-microsoft-need-to-give-businesses-a-break/?amp=1"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

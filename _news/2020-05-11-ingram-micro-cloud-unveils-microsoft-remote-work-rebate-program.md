@@ -5,8 +5,8 @@ excerpt: "Ingram Micro Cloud today announced its new Microsoft Remote Work Rebat
 publishedDateTime: 2020-05-11T23:37:00Z
 webUrl: "https://www.businesswire.com/news/home/20200511005966/en/Ingram-Micro-Cloud-Unveils-Microsoft-Remote-Work"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

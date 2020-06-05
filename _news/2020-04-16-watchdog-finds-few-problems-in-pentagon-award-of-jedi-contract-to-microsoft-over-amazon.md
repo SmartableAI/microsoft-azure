@@ -7,8 +7,8 @@ webUrl: "https://www.wsj.com/articles/defense-department-watchdog-finds-few-prob
 ampWebUrl: "https://www.wsj.com/amp/articles/defense-department-watchdog-finds-few-problems-in-awarding-jedi-contract-to-microsoft-over-amazon-11586960694"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/defense-department-watchdog-finds-few-problems-in-awarding-jedi-contract-to-microsoft-over-amazon-11586960694"
 type: article
-quality: 74
-heat: 94
+quality: 94
+heat: 114
 published: true
 
 provider:
@@ -37,7 +37,7 @@ related:
     provider:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
-    quality: 2
+    quality: 12
     images:
       - url: "https://media.datacenterdynamics.com/media/images/MicrosoftAzureClippySoldier.2e16d0ba.fill-1200x630.jpg"
         width: 1200

@@ -7,8 +7,8 @@ webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/355567/microsoft-offers-h
 ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/355567/microsoft-offers-hackers-100k-to-break-azure-sphere?amp"
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/355567/microsoft-offers-hackers-100k-to-break-azure-sphere?amp"
 type: article
-quality: 97
-heat: 157
+quality: 117
+heat: 177
 published: true
 
 provider:
@@ -39,7 +39,7 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 81
+    quality: 101
     images:
       - url: "https://cnet4.cbsistatic.com/img/iF1uhBUrlwnFFy_E2G17d1LEm-c=/756x567/2017/10/02/5e7fdcb8-e585-47dd-b13c-93d21b4e4d9e/security-privacy-hackers-locks-key-6749.jpg"
         width: 756
@@ -54,7 +54,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 73
+    quality: 83
   - title: "Microsoft Azure Sphere Security Research Challenge offers $100K bounty"
     excerpt: "Microsoft has announced a $100,000 bounty for bug hunters who are able to discover specific vulnerabilities in two new areas of the company’s Azure Sphere."
     publishedDateTime: 2020-05-06T16:01:00Z
@@ -63,7 +63,7 @@ related:
     provider:
       name: SC Media
       domain: scmagazine.com
-    quality: 37
+    quality: 47
     images:
       - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2018/08/microsoft41_1239455.jpg"
         width: 700

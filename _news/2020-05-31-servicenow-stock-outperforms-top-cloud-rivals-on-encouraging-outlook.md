@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/robertdefrancesco/2020/05/31/servicenow-st
 ampWebUrl: "https://www.forbes.com/sites/robertdefrancesco/2020/05/31/servicenow-stock-outperforms-top-cloud-rivals-on-encouraging-outlook/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertdefrancesco/2020/05/31/servicenow-stock-outperforms-top-cloud-rivals-on-encouraging-outlook/amp/"
 type: article
-quality: 82
-heat: 82
+quality: 102
+heat: 102
 published: true
 
 provider:

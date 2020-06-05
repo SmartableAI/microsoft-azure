@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/soorajshah/2020/05/28/how-hackers-are-impe
 ampWebUrl: "https://www.forbes.com/sites/soorajshah/2020/05/28/how-hackers-are-impersonating-google-and-microsoft-to-catch-out-remote-workers/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/soorajshah/2020/05/28/how-hackers-are-impersonating-google-and-microsoft-to-catch-out-remote-workers/amp/"
 type: article
-quality: 58
-heat: 58
+quality: 68
+heat: 68
 published: false
 
 provider:

@@ -7,7 +7,7 @@ webUrl: "https://www.forbes.com/sites/alexkonrad/2020/05/19/microsoft-ceo-satya-
 ampWebUrl: "https://www.forbes.com/sites/alexkonrad/2020/05/19/microsoft-ceo-satya-nadella-talks-software-in-covid-19-response/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexkonrad/2020/05/19/microsoft-ceo-satya-nadella-talks-software-in-covid-19-response/amp/"
 type: article
-quality: 46
+quality: 56
 heat: -1
 published: false
 
@@ -33,7 +33,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 85
+    quality: 105
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2020/05/IMG_20191104_091357.jpg?w=1024"
         width: 1024
@@ -48,7 +48,7 @@ related:
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://cdn.vox-cdn.com/thumbor/A0qSlkmYYXZrzHTj7PIDFJAR7J8=/0x0:3000x1984/1400x933/filters:focal(1260x752:1740x1232):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66814907/518216764.jpg.0.jpg"
         width: 1400
@@ -63,7 +63,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 81
+    quality: 101
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2016/09/gettyimages-452481532.jpg?w=1024"
         width: 1024
@@ -78,7 +78,7 @@ related:
     provider:
       name: Engadget
       domain: engadget.com
-    quality: 80
+    quality: 100
     images:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-05%2Fa0edfd10-9956-11ea-bf56-d8317e33c37c&client=amp-blogside-v2&signature=ba67488c1e6727b316ffc4eea32d47020ae36a8c"
         width: 600
@@ -93,7 +93,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 67
+    quality: 87
     images:
       - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/05/13/bf550a82-e9e8-4511-bee9-983426e8fc52/thumbnail/1200x675/aaf99352c82c362f4feba84192e7819c/2555435eba4cad133864-58121622-nvidia-accelerates-apache-spark.jpg"
         width: 1200
@@ -108,7 +108,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 34
+    quality: 54
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2019/01/Azure-Cloud.jpg"
         width: 918
@@ -123,7 +123,7 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
-    quality: 22
+    quality: 32
 
 secured: "ZVnOuiaR07azwUMX2+u0gx7ykQSdr+5hfrnvG4wJQv61TZouwvUbdvQbgfH+jbLlwFFH3zQPnklHsk7O6TeIGWV+oE2MMtMFFhaOGliUtkLT7slVFYq+gtBqSUSsHWxLhMDkbFYYrNzXZOD63ji75Pr6OE8ekcZu6W9/aGC7uspX5R5S16eNYk9Q5k56yZv33un6He39KIApkzIE48BSnF8E9rG95ar+vX/wknMpjB8bHQauStKRzOoZew4EIAf/2Pbu7MOl8vU/xbqHsWSANUMawMptBLMWdVLrMSh7pWw8SGBM9TsMI3zPD7H2ZhuZ/ziZgLbv0oNkG9PeYiyJMUFuCcStPUNSC7FlpVh+3xNc30Gqc2lWTWi+gil24HulIVRqGtynQ+iPniG0/3YnMXTEZpto/Pyy6IQqSdiXvfptBwnhI338n5lh1rQDFudgYQJq8d8Hz6M2eolv0bE4Zndpw16FRKHQcJL15Nj0J9c=;Y3Q2z732Etf65fRpZKw7Yg=="
 ---

@@ -7,8 +7,8 @@ webUrl: "https://markets.businessinsider.com/news/stocks/omnipresence-launches-c
 ampWebUrl: "https://markets.businessinsider.com/amp/news/omnipresence-launches-cxmnow-io-for-life-sciences-in-the-microsoft-azure-marketplace-1029123493"
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/omnipresence-launches-cxmnow-io-for-life-sciences-in-the-microsoft-azure-marketplace-1029123493"
 type: article
-quality: 70
-heat: 90
+quality: 80
+heat: 100
 published: true
 
 provider:
@@ -31,7 +31,7 @@ related:
     provider:
       name: Destination CRM
       domain: destinationcrm.com
-    quality: 35
+    quality: 45
     images:
       - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/129446-0420_Omnichannel_480x610-ORG.png"
         width: 480

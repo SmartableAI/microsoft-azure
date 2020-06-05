@@ -5,7 +5,7 @@ excerpt: "CloudMonix, a Chicago-based cloud infrastructure monitoring company sp
 publishedDateTime: 2020-06-02T15:42:00Z
 webUrl: "https://apnews.com/48df5e254e8e84907d3dbce77a3b226f"
 type: article
-quality: 24
+quality: 34
 heat: -1
 published: false
 
@@ -33,7 +33,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 30
+    quality: 40
   - title: "Netreo Acquires CloudMonix; MSPs Gain Microsoft Azure Cloud Monitoring"
     excerpt: "Netreo acquires CloudMonix, which offers Microsoft cloud monitoring services designed for MSPs (managed IT services providers), CSPs & DevOps teams."
     publishedDateTime: 2020-06-03T12:25:00Z

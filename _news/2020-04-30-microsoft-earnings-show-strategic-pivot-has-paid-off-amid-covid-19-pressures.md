@@ -7,8 +7,8 @@ webUrl: "https://www.marketwatch.com/story/microsoft-earnings-show-strategic-piv
 ampWebUrl: "https://www.marketwatch.com/amp/story/guid/34881BF4-8AF8-11EA-B500-29C0C34A0E28"
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/34881BF4-8AF8-11EA-B500-29C0C34A0E28"
 type: article
-quality: 79
-heat: 79
+quality: 99
+heat: 99
 published: true
 
 provider:

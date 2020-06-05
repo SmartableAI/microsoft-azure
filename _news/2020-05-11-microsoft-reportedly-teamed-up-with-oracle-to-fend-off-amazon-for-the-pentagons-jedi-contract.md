@@ -7,8 +7,8 @@ webUrl: "https://www.geekwire.com/2020/microsoft-reportedly-teamed-oracle-fend-o
 ampWebUrl: "https://www.geekwire.com/2020/microsoft-reportedly-teamed-oracle-fend-off-amazon-pentagons-jedi-contract/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-reportedly-teamed-oracle-fend-off-amazon-pentagons-jedi-contract/amp/"
 type: article
-quality: 70
-heat: 90
+quality: 90
+heat: 110
 published: true
 
 provider:
@@ -37,7 +37,7 @@ related:
     provider:
       name: Cloud Computing
       domain: cloudcomputing-news.net
-    quality: 22
+    quality: 32
     images:
       - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2020/05/476027925_189bab2d5d_k.jpg"
         width: 2048

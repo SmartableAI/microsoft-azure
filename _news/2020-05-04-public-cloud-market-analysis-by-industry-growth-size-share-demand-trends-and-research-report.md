@@ -5,8 +5,8 @@ excerpt: "The report covers the forecast and analysis of the Public Cloud Market
 publishedDateTime: 2020-05-04T15:14:00Z
 webUrl: "https://www.marketwatch.com/press-release/public-cloud-market-analysis-by-industry-growth-size-share-demand-trends-and-research-report-2020-05-04"
 type: article
-quality: 49
-heat: 49
+quality: 59
+heat: 59
 published: false
 
 provider:

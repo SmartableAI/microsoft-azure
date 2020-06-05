@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/microsofts-windows-virtual-desktop-spring
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next/"
 type: article
-quality: 82
-heat: 82
+quality: 102
+heat: 102
 published: true
 
 provider:

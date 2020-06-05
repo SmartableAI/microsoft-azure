@@ -7,9 +7,9 @@ webUrl: "https://www.zdnet.com/article/microsoft-makes-new-github-collaboration-
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-makes-new-github-collaboration-tools-available-to-testers/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-makes-new-github-collaboration-tools-available-to-testers/"
 type: article
-quality: 62
-heat: 62
-published: false
+quality: 72
+heat: 72
+published: true
 
 provider:
   name: ZDNet

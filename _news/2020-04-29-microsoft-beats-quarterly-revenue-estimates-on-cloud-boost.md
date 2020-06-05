@@ -7,8 +7,8 @@ webUrl: "https://www.reuters.com/article/us-microsoft-results-idUSKBN22B34B"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN22B34B"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22B34B"
 type: article
-quality: 82
-heat: 222
+quality: 102
+heat: 242
 published: true
 
 provider:
@@ -39,7 +39,7 @@ related:
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 81
+    quality: 101
     images:
       - url: "https://images.wsj.net/im-181683/social"
         width: 1280
@@ -54,7 +54,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 77
+    quality: 97
     images:
       - url: "https://s.marketwatch.com/public/resources/images/MW-HY843_Micros_ZH_20200122191821.jpg"
         width: 890
@@ -69,7 +69,7 @@ related:
     provider:
       name: Bloomberg
       domain: bloomberg.com
-    quality: 62
+    quality: 72
   - title: "Microsoft blames coronavirus-related supply chain constraints for its cloud capacity issues"
     excerpt: "Microsoft has struggled at times to keep up with the huge demand for its cloud services, as people work from home more."
     publishedDateTime: 2020-04-29T21:37:00Z
@@ -78,7 +78,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 52
+    quality: 62
     images:
       - url: "https://i.insider.com/5dfbb9b6855cc26de1630123?width=1200&format=jpeg"
         width: 1200
@@ -93,7 +93,7 @@ related:
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 33
+    quality: 53
     images:
       - url: "https://www.washingtonpost.com/resizer/iAwDp1yG46qwbRqde_rAAu43rKI=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RBIUICTQDUI6TEZRGC6FQNXURY.jpg"
         width: 1440
@@ -106,7 +106,7 @@ related:
     provider:
       name: Houston Chronicle
       domain: chron.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://s.hdnux.com/photos/01/11/65/34/19355416/3/rawImage.jpg"
         width: 2048
@@ -119,7 +119,7 @@ related:
     provider:
       name: SFGate
       domain: sfgate.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://s.hdnux.com/photos/01/11/65/34/19355416/3/rawImage.jpg"
         width: 2048

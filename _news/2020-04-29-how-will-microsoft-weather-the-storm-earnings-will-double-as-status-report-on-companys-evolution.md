@@ -7,8 +7,8 @@ webUrl: "https://www.geekwire.com/2020/will-microsoft-weather-storm-earnings-wil
 ampWebUrl: "https://www.geekwire.com/2020/will-microsoft-weather-storm-earnings-will-double-status-report-companys-evolution/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/will-microsoft-weather-storm-earnings-will-double-status-report-companys-evolution/amp/"
 type: article
-quality: 68
-heat: 88
+quality: 88
+heat: 108
 published: true
 
 provider:
@@ -39,7 +39,7 @@ related:
     provider:
       name: Trusted Reviews
       domain: trustedreviews.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://ksassets.timeincuk.net/wp/uploads/sites/54/2020/04/LYvQnsyMojMLkmuwm7MSbP-1024x576.jpg"
         width: 1024

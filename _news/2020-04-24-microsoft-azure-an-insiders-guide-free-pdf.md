@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/resource-library/whitepapers/microsoft-azu
 ampWebUrl: "https://www.techrepublic.com/google-amp/resource-library/whitepapers/microsoft-azure-an-insider-s-guide-free-pdf/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/microsoft-azure-an-insider-s-guide-free-pdf/"
 type: article
-quality: 77
-heat: 77
+quality: 87
+heat: 87
 published: true
 
 provider:

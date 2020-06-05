@@ -5,7 +5,7 @@ excerpt: "Cloud Computing can revolutionize healthcare. Cloud computing is a gen
 publishedDateTime: 2020-05-08T12:51:00Z
 webUrl: "https://www.marketwatch.com/press-release/healthcare-cloud-computing-market-2020-effect-of-covid-19-industry---key-players-size-trends-opportunities-growth-analysis-and-forecast-to-2026-2020-05-08?mod=mw_quote_news"
 type: article
-quality: 24
+quality: 34
 heat: -1
 published: false
 
@@ -35,7 +35,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 41
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

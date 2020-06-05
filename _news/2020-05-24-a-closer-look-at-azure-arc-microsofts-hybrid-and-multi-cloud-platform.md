@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/janakirammsv/2020/05/24/a-closer-look-at-a
 ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/05/24/a-closer-look-at-azure-arc--microsofts-hybrid-and-multi-cloud-platform/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/05/24/a-closer-look-at-azure-arc--microsofts-hybrid-and-multi-cloud-platform/amp/"
 type: article
-quality: 76
-heat: 76
+quality: 86
+heat: 86
 published: true
 
 provider:

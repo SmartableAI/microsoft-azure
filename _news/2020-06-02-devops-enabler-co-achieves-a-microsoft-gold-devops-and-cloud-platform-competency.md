@@ -25,7 +25,7 @@ related:
     provider:
       name: Sify.com
       domain: sify.com
-    quality: 16
+    quality: 26
     images:
       - url: "https://www.sify.com/uploads/DevOpsEnabler_ugbqn5hgfaeea.jpg"
         width: 600

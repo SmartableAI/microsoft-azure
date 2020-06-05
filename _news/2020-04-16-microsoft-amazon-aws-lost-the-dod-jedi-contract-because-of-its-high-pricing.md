@@ -7,8 +7,8 @@ webUrl: "https://mspoweruser.com/amazon-aws-lost-the-dod-jedi/"
 ampWebUrl: "https://mspoweruser.com/amazon-aws-lost-the-dod-jedi/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/amazon-aws-lost-the-dod-jedi/amp/"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 59
 published: false
 
 provider:

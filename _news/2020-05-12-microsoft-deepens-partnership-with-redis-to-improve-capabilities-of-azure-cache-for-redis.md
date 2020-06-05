@@ -7,9 +7,9 @@ webUrl: "https://mspoweruser.com/microsoft-azure-cache-for-redis/"
 ampWebUrl: "https://mspoweruser.com/microsoft-azure-cache-for-redis/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-azure-cache-for-redis/amp/"
 type: article
-quality: 48
-heat: 48
-published: false
+quality: 68
+heat: 108
+published: true
 
 provider:
   name: MSPoweruser
@@ -33,7 +33,7 @@ related:
     provider:
       name: SD Times
       domain: sdtimes.com
-    quality: 41
+    quality: 51
     images:
       - url: "https://sdtimes.com/wp-content/uploads/2020/05/1_jFyfsakE2WBv5sFjBQUsuw.png"
         width: 1200

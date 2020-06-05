@@ -5,7 +5,7 @@ excerpt: "Clumio Inc., fresh off one of the biggest Series C funding rounds for 
 publishedDateTime: 2020-04-29T18:48:00Z
 webUrl: "https://siliconangle.com/2020/04/29/clumio-extends-platform-microsoft/"
 type: article
-quality: 20
+quality: 30
 heat: -1
 published: false
 
@@ -31,7 +31,7 @@ related:
     provider:
       name: CRN
       domain: crn.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://www.crn.com/resources/025c-0f49fcb180e7-a046dca29b25-1000/cybersecurity-data-lock-1.jpg"
         width: 609

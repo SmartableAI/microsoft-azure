@@ -5,8 +5,8 @@ excerpt: "With the Veeam Backup for Microsoft Azure, Veeam strengthens its data 
 publishedDateTime: 2020-05-22T20:17:00Z
 webUrl: "https://www.storagereview.com/review/veeam-backup-for-microsoft-azure-overview"
 type: article
-quality: 37
-heat: 37
+quality: 47
+heat: 47
 published: false
 
 provider:

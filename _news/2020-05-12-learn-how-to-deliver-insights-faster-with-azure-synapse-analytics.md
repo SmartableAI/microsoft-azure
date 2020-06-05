@@ -5,8 +5,8 @@ excerpt: "Today, it’s even more critical to have a data-driven culture. Analyt
 publishedDateTime: 2020-05-12T11:00:20Z
 webUrl: "https://azure.microsoft.com/blog/learn-how-to-deliver-insights-faster-with-azure-synapse-analytics/"
 type: article
-quality: 97
-heat: 97
+quality: 107
+heat: 107
 published: true
 
 provider:

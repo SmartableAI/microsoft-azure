@@ -7,8 +7,8 @@ webUrl: "https://www.pcmag.com/news/microsoft-updates-windows-azure-tools-with-a
 ampWebUrl: "https://www.pcmag.com/news/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=true"
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=true"
 type: article
-quality: 97
-heat: 97
+quality: 117
+heat: 117
 published: true
 
 provider:

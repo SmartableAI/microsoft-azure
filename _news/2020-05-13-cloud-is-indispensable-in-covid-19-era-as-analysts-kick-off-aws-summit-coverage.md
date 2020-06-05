@@ -5,8 +5,8 @@ excerpt: "But even the cloud giant admits to “figuring it out” as one of its
 publishedDateTime: 2020-05-13T21:23:00Z
 webUrl: "https://siliconangle.com/2020/05/13/cloud-is-indispensable-in-covid-19-era-as-analysts-kick-off-aws-summit-2020-coverage-awssummit/"
 type: article
-quality: 17
-heat: 17
+quality: 27
+heat: 27
 published: false
 
 provider:
@@ -31,7 +31,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 10
+    quality: 20
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/AWS-Summit-Online-May-2020-Werner-Vogels.jpeg"
         width: 1200

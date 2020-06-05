@@ -7,8 +7,8 @@ webUrl: "https://www.digitaltrends.com/home-theater/microsoft-surface-earbuds-re
 ampWebUrl: "https://www.digitaltrends.com/home-theater/microsoft-surface-earbuds-release-date/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home-theater/microsoft-surface-earbuds-release-date/?amp"
 type: article
-quality: 82
-heat: 82
+quality: 102
+heat: 102
 published: true
 
 provider:

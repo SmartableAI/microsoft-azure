@@ -7,8 +7,8 @@ webUrl: "https://markets.businessinsider.com/news/stocks/data-intensity-launches
 ampWebUrl: "https://markets.businessinsider.com/amp/news/data-intensity-launches-oracle-to-azure-safe-switch-1029158976"
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/data-intensity-launches-oracle-to-azure-safe-switch-1029158976"
 type: article
-quality: 77
-heat: 77
+quality: 87
+heat: 87
 published: true
 
 provider:

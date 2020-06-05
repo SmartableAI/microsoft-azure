@@ -7,8 +7,8 @@ webUrl: "https://www.techspot.com/news/85021-zoom-partners-oracle-buttress-cloud
 ampWebUrl: "https://www.techspot.com/amp/news/85021-zoom-partners-oracle-buttress-cloud-infrastructure-user-base.html"
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85021-zoom-partners-oracle-buttress-cloud-infrastructure-user-base.html"
 type: article
-quality: 70
-heat: 70
+quality: 90
+heat: 90
 published: true
 
 provider:

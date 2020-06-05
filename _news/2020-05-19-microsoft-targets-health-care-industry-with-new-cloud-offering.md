@@ -7,8 +7,8 @@ webUrl: "https://www.cnbc.com/2020/05/19/microsoft-cloud-for-health-care-bundle-
 ampWebUrl: "https://www.cnbc.com/amp/2020/05/19/microsoft-cloud-for-health-care-bundle-targets-health-care-industry.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/19/microsoft-cloud-for-health-care-bundle-targets-health-care-industry.html"
 type: article
-quality: 82
-heat: 82
+quality: 102
+heat: 102
 published: true
 
 provider:

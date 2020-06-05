@@ -5,8 +5,8 @@ excerpt: "Cloud, edge computing, and IoT are making strides to transform whole i
 publishedDateTime: 2020-03-31T08:00:10Z
 webUrl: "https://azure.microsoft.com/blog/microsoft-partners-with-the-industry-to-unlock-new-5g-scenarios-with-azure-edge-zones/"
 type: article
-quality: 92
-heat: 92
+quality: 102
+heat: 102
 published: true
 
 provider:

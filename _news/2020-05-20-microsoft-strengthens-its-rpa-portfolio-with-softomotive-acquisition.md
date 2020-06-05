@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/microsoft-strengthens-its-rpa-portfolio-w
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-strengthens-its-rpa-portfolio-with-softomotive-acquisition/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-strengthens-its-rpa-portfolio-with-softomotive-acquisition/"
 type: article
-quality: 82
-heat: 82
+quality: 102
+heat: 102
 published: true
 
 provider:

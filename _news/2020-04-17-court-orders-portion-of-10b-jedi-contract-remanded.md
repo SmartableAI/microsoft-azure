@@ -7,8 +7,8 @@ webUrl: "https://www.bizjournals.com/washington/news/2020/04/17/court-orders-por
 ampWebUrl: "https://www.bizjournals.com/washington/news/2020/04/17/court-orders-portion-of-jedi-contract-remanded.amp.html"
 cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/washington/news/2020/04/17/court-orders-portion-of-jedi-contract-remanded.amp.html"
 type: article
-quality: 42
-heat: 42
+quality: 62
+heat: 62
 published: false
 
 provider:

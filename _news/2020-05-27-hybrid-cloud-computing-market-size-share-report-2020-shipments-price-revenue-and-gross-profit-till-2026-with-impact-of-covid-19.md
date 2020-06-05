@@ -5,7 +5,7 @@ excerpt: "Final Report will add the analysis of the impact of COVID-19 on this i
 publishedDateTime: 2020-05-27T05:34:00Z
 webUrl: "https://www.marketwatch.com/press-release/hybrid-cloud-computing-market-size-share-report-2020-shipments-price-revenue-and-gross-profit-till-2026-with-impact-of-covid-19-2020-05-27"
 type: article
-quality: 31
+quality: 41
 heat: -1
 published: false
 
@@ -35,7 +35,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 35
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

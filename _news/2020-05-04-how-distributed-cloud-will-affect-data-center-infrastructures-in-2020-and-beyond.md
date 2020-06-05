@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/how-distributed-cloud-will-affect-
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-distributed-cloud-will-affect-data-center-infrastructures-in-2020-and-beyond/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-distributed-cloud-will-affect-data-center-infrastructures-in-2020-and-beyond/"
 type: article
-quality: 77
-heat: 77
+quality: 97
+heat: 97
 published: true
 
 provider:

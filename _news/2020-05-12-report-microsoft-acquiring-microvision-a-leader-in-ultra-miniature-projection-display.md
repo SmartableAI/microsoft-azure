@@ -7,8 +7,8 @@ webUrl: "https://mspoweruser.com/microsoft-acquiring-microvision/"
 ampWebUrl: "https://mspoweruser.com/microsoft-acquiring-microvision/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-acquiring-microvision/amp/"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:

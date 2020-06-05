@@ -7,8 +7,8 @@ webUrl: "https://www.thestreet.com/investing/amazon-microsoft-and-google-report-
 ampWebUrl: "https://www.thestreet.com/.amp/investing/amazon-microsoft-and-google-report-cloud-gains-and-reveal-how-theyre-competing"
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/amazon-microsoft-and-google-report-cloud-gains-and-reveal-how-theyre-competing"
 type: article
-quality: 36
-heat: 36
+quality: 56
+heat: 56
 published: false
 
 provider:

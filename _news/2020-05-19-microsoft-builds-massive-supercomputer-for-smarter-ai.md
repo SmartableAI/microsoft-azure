@@ -7,8 +7,8 @@ webUrl: "https://www.cnet.com/news/microsoft-builds-massive-supercomputer-for-sm
 ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-builds-massive-supercomputer-for-smarter-ai/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-builds-massive-supercomputer-for-smarter-ai/"
 type: article
-quality: 82
-heat: 122
+quality: 102
+heat: 142
 published: true
 
 provider:
@@ -39,7 +39,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 62
+    quality: 72
   - title: "Microsoft Says It’s Built a Top-Five Supercomputer in the Cloud for AI"
     excerpt: "Future machine learning models will be enormous. The OpenAI system shows that hyperscale cloud platforms can take them on."
     publishedDateTime: 2020-05-21T16:50:00Z
@@ -48,7 +48,7 @@ related:
     provider:
       name: Data Center Knowledge
       domain: datacenterknowledge.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/sam%20altman%20openai%20techcrunch%20disrupt%202019%20getty.jpg"
         width: 1024

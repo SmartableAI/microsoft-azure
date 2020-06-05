@@ -5,8 +5,8 @@ excerpt: "Four months after Microsoft took its new browser out of preview, Edge 
 publishedDateTime: 2020-05-22T12:17:00Z
 webUrl: "https://www.thurrott.com/cloud/web-browsers/microsoft-edge/236458/extension-sync-is-finally-coming-to-microsoft-edge"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

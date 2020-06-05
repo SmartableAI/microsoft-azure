@@ -7,8 +7,8 @@ webUrl: "https://www.barrons.com/articles/fedex-teams-up-with-microsoft-to-fight
 ampWebUrl: "https://www.barrons.com/amp/articles/fedex-teams-up-with-microsoft-to-fight-amazon-thats-good-for-fedex-stock-51589815820"
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/fedex-teams-up-with-microsoft-to-fight-amazon-thats-good-for-fedex-stock-51589815820"
 type: article
-quality: 40
-heat: 40
+quality: 60
+heat: 60
 published: false
 
 provider:

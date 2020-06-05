@@ -5,8 +5,8 @@ excerpt: "The economic impact of Covid-19 has so far failed to slow the cloud pr
 publishedDateTime: 2020-05-04T11:02:00Z
 webUrl: "https://www.arnnet.com.au/article/678964/q1-belongs-aws-microsoft-cloud-provides-safe-haven-during-covid-19/?fp=2&fpid=1"
 type: article
-quality: 18
-heat: 18
+quality: 28
+heat: 28
 published: false
 
 provider:

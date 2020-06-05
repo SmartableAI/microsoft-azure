@@ -5,8 +5,8 @@ excerpt: "Microsoft's modern command-line application for Windows 10, the new Wi
 publishedDateTime: 2020-05-19T15:12:00Z
 webUrl: "https://www.thurrott.com/dev/236298/microsoft-releases-windows-terminal-1-0"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

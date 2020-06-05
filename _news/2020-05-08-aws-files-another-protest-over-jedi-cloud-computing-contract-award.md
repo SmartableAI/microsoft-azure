@@ -5,7 +5,7 @@ excerpt: "The company filed a second, concurrent bid protest directly with the D
 publishedDateTime: 2020-05-08T00:20:00Z
 webUrl: "https://siliconangle.com/2020/05/07/aws-files-another-protest-jedi-cloud-computing-contract-award/"
 type: article
-quality: 22
+quality: 32
 heat: -1
 published: false
 
@@ -31,7 +31,7 @@ related:
     provider:
       name: Nextgov
       domain: nextgov.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://cdn.nextgov.com/media/img/upload/2020/05/07/NGcloud20200507/open-graph.jpg"
         width: 400

@@ -7,8 +7,8 @@ webUrl: "https://www.thestreet.com/investing/microsoft-msft-cloud-computing-heal
 ampWebUrl: "https://www.thestreet.com/.amp/investing/microsoft-msft-cloud-computing-health-care"
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/microsoft-msft-cloud-computing-health-care"
 type: article
-quality: 42
-heat: 42
+quality: 62
+heat: 62
 published: false
 
 provider:

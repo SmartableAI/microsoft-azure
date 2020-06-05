@@ -7,8 +7,8 @@ webUrl: "https://mspoweruser.com/coca-cola-microsoft-cloud-business/"
 ampWebUrl: "https://mspoweruser.com/coca-cola-microsoft-cloud-business/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/coca-cola-microsoft-cloud-business/amp/"
 type: article
-quality: 42
-heat: 42
+quality: 62
+heat: -1
 published: false
 
 provider:
@@ -25,28 +25,32 @@ images:
     title: "Coca-Cola selects Microsoft cloud to modernize its business"
 
 related:
-  - title: "Coca-Cola partners Microsoft to transform global engagement, experiences"
-    excerpt: "With this agreement, the companies will use the functionalities of Microsoft Azure, Dynamics 365 and Microsoft 365. These products will help The Coca-Cola Company gain new insights from data across the enterprise, enabling a 360-degree view of the business ..."
-    publishedDateTime: 2020-04-27T14:04:00Z
-    webUrl: "https://www.telecompaper.com/news/coca-cola-partners-microsoft-to-transform-global-engagement-experiences--1336182"
+  - title: "Microsoft strikes 5-year cloud deal with Coca-Cola for Azure, Microsoft 365"
+    excerpt: "Cola company have reached a deal that will see the latter use Microsoft 365, Azure, and more to power its digital operations for five years."
+    publishedDateTime: 2020-04-27T21:11:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365?amp"
     type: article
     provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 1
-  - title: "The Coca-Cola Company announces strategic partnership with Microsoft to transform global engagement and experiences"
-    excerpt: "The Coca-Cola Company (NYSE: “KO”) on Monday announced a five-year agreement with Microsoft Corp. (Nasdaq: “MSFT)"
-    publishedDateTime: 2020-04-27T15:31:00Z
-    webUrl: "https://apnews.com/PR Newswire/cd5af10340231d2145bc2ee6bc0ff70d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 75
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2017/09/microsoft-logo-2017-ignite2.jpg?itok=c3ocGDNm"
+        width: 800
+        height: 600
+  - title: "Coca-Cola Company Partners With Microsoft To Standardize Business Operations"
+    excerpt: "(RTTNews) - The Coca-Cola Company (KO) announced a five-year agreement with Microsoft Corp. (MSFT) to standardize its business operations on Microsoft's cloud. The partnership will utilize the capabilities of Microsoft Azure,"
+    publishedDateTime: 2020-04-27T13:38:00Z
+    webUrl: "https://www.nasdaq.com/articles/coca-cola-company-partners-with-microsoft-to-standardize-business-operations-2020-04-27"
+    ampWebUrl: "https://www.nasdaq.com/articles/coca-cola-company-partners-with-microsoft-to-standardize-business-operations-2020-04-27?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/coca-cola-company-partners-with-microsoft-to-standardize-business-operations-2020-04-27?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
 
 secured: "U3aZLPTSUIeIVXco4WWMzlUtaAwzMBvIYzhaF/hrhDP9wgMYCRmi7DTBGRb6sneofnvwBuIRdCgclK6uXWeVXhfRomj229NPRmtOmaI/7ZKtwOZr7tDcW/vD0ERR8LH1NMVwHGq0hSEN/zu15ELFPEWIFvNtvj5DvxmQePalNtdtCq+2dkEqaTBdXPqrIeOGwq4XRrIFSrS6IV8S3wtPhxe3CKFEFh9B2q+0Gc2d9bsfsb9ab509vroPG6RX0SWxnaBp5SeLsvmZ6hpVPJKeJH15/p0wuloqriIYfFzKZTZtab2qsPpjzQutQNPrDXCxS6Z7c80u8EhjyWuCTAeHVWT5YfovLqFlhoqhSRS56ySHeWNyRePKNKsBHp6VDx1cvZY93hrLpfXrRbY7Ubydh614IZDGxfkvWSIP7/up7yVzPtwjfsHhhENkswzXLYuBIqUueiBfVp3G/KF5M+tYYeY1vkz2jvhD0cRg96EAFus=;G5lgUxISq/QO4naSqo4rIA=="
 ---

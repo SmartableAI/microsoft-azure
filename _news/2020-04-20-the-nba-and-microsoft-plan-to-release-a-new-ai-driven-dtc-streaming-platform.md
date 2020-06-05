@@ -5,8 +5,8 @@ excerpt: "The NBA and Microsoft announced a new multiyear partnership aimed at t
 publishedDateTime: 2020-04-20T14:25:00Z
 webUrl: "https://www.businessinsider.com/nba-microsoft-team-up-for-ai-driven-personalized-streaming-platform-2020-4"
 type: article
-quality: 59
-heat: 59
+quality: 69
+heat: 69
 published: false
 
 provider:

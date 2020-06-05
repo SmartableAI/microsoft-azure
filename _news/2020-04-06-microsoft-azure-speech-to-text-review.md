@@ -5,8 +5,8 @@ excerpt: "Microsoft’s voice-to-text technology has come a long way, and you ca
 publishedDateTime: 2020-04-06T13:47:00Z
 webUrl: "https://www.techradar.com/au/reviews/microsoft-azure-speech-to-text-review"
 type: article
-quality: 77
-heat: 77
+quality: 87
+heat: 87
 published: true
 
 provider:

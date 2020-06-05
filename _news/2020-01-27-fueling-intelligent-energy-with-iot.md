@@ -5,8 +5,8 @@ excerpt: "At Microsoft, building a future that we can all thrive in is at the ce
 publishedDateTime: 2020-01-27T08:00:19Z
 webUrl: "https://azure.microsoft.com/blog/fueling-intelligent-energy-with-iot/"
 type: article
-quality: 84
-heat: 84
+quality: 94
+heat: 94
 published: true
 
 provider:

@@ -5,8 +5,8 @@ excerpt: "Microsoft announced on Wednesday that its Backup Explorer tool for Azu
 publishedDateTime: 2020-05-02T00:00:00Z
 webUrl: "https://redmondmag.com/articles/2020/02/05/backup-explorer-preview-for-azure.aspx"
 type: article
-quality: 37
-heat: 37
+quality: 47
+heat: 47
 published: false
 
 provider:

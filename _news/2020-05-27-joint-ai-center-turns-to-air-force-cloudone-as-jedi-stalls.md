@@ -7,8 +7,8 @@ webUrl: "https://breakingdefense.com/2020/05/joint-ai-center-turns-to-air-force-
 ampWebUrl: "https://breakingdefense.com/2020/05/joint-ai-center-turns-to-air-force-cloudone-as-jedi-stalls/amp/"
 cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2020/05/joint-ai-center-turns-to-air-force-cloudone-as-jedi-stalls/amp/"
 type: article
-quality: 42
-heat: 42
+quality: 62
+heat: 62
 published: false
 
 provider:

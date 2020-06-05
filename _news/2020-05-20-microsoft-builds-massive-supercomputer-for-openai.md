@@ -7,7 +7,7 @@ webUrl: "https://www.forbes.com/sites/moorinsights/2020/05/20/microsoft-builds-m
 ampWebUrl: "https://www.forbes.com/sites/moorinsights/2020/05/20/microsoft-builds-massive-supercomputer-for-openai/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/05/20/microsoft-builds-massive-supercomputer-for-openai/amp/"
 type: article
-quality: 62
+quality: 72
 heat: -1
 published: false
 
@@ -33,7 +33,7 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://cnet1.cbsistatic.com/img/TEkbzdFayDjsegaDhc8T7JF9qVI=/756x567/2018/11/10/97f08e96-4be4-41b1-acdc-43595379dfe1/llnl-sierra-supercomputer-randy-wong.jpg"
         width: 756
@@ -46,7 +46,7 @@ related:
     provider:
       name: Data Center Knowledge
       domain: datacenterknowledge.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/sam%20altman%20openai%20techcrunch%20disrupt%202019%20getty.jpg"
         width: 1024

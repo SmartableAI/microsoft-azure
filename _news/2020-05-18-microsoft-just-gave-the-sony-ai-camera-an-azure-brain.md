@@ -7,8 +7,8 @@ webUrl: "https://www.slashgear.com/microsoft-just-gave-the-sony-ai-camera-an-azu
 ampWebUrl: "https://www.slashgear.com/microsoft-just-gave-the-sony-ai-camera-an-azure-brain-18621080/amp/"
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/microsoft-just-gave-the-sony-ai-camera-an-azure-brain-18621080/amp/"
 type: article
-quality: 97
-heat: 97
+quality: 117
+heat: 117
 published: true
 
 provider:

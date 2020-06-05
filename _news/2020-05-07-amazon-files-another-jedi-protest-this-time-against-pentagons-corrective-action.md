@@ -5,7 +5,7 @@ excerpt: "Amazon has doubled down in its protest of the Joint Enterprise Defens
 publishedDateTime: 2020-05-07T23:04:00Z
 webUrl: "https://www.fedscoop.com/amazon-files-another-jedi-protest-time-pentagons-corrective-action/"
 type: article
-quality: 16
+quality: 26
 heat: -1
 published: false
 
@@ -33,7 +33,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 48
+    quality: 68
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2019/11/microsoft-630x473.jpg"
         width: 630
@@ -48,7 +48,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 38
+    quality: 58
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2019/10/109411443_gettyimages-853699560.jpg"
         width: 660
@@ -63,7 +63,7 @@ related:
     provider:
       name: Law360
       domain: law360.com
-    quality: 22
+    quality: 32
   - title: "Amazon challenges the Pentagon’s revised JEDI solicitation directly to the department"
     excerpt: "Amazon Web Services filed a bid protest directly to the Department of Defense challenging “ambiguous aspects” of the Pentagon’s revised solicitation for its embattled enterprise cloud contract. AWS’ challenge is in response to a revised solicitation from DoD regarding a specific technical requirement of the Joint Enterprise Defense Infrastructure cloud contract that AWS had challenged."
     publishedDateTime: 2020-05-07T22:19:00Z
@@ -72,7 +72,7 @@ related:
     provider:
       name: Federal Times
       domain: federaltimes.com
-    quality: 15
+    quality: 25
     images:
       - url: "https://www.armytimes.com/resizer/zPIx2t3S-cW9L6O4V1nUbDT6wsw=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/SPQTUFFMHRFI7FZBGH36NHJ5MA.jpg"
         width: 1200

@@ -5,8 +5,8 @@ excerpt: "The coronavirus-related rise of remote work has led to dramatically in
 publishedDateTime: 2020-04-25T12:51:00Z
 webUrl: "https://www.businessinsider.com/microsoft-teams-slack-zoom-usage-charts-increased-remote-work-pandemic-2020-4"
 type: article
-quality: 41
-heat: 41
+quality: 51
+heat: 51
 published: false
 
 provider:

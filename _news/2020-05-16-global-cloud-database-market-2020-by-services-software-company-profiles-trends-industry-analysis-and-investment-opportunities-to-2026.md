@@ -5,8 +5,8 @@ excerpt: "Global Cloud database Market is accounted for $ 6.12 billion in 2017 a
 publishedDateTime: 2020-05-16T09:39:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-cloud-database-market-2020-by-services-software-company-profiles-trends-industry-analysis-and-investment-opportunities-to-2026-2020-05-16"
 type: article
-quality: 28
-heat: 28
+quality: 38
+heat: 38
 published: false
 
 provider:

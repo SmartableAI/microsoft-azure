@@ -5,7 +5,7 @@ excerpt: "The Department of Defense Inspector General cleared the military's dec
 publishedDateTime: 2020-04-16T14:32:00Z
 webUrl: "https://www.datacenterdynamics.com/en/news/dod-watchdog-clears-microsoft-jedi-win-admits-it-was-blocked-investigating-trump-interference-claims/"
 type: article
-quality: 2
+quality: 12
 heat: -1
 published: false
 
@@ -33,7 +33,7 @@ related:
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 74
+    quality: 94
     images:
       - url: "https://images.wsj.net/im-168451/social"
         width: 1280

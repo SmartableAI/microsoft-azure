@@ -7,7 +7,7 @@ webUrl: "https://www.geekwire.com/2020/dod-watchdog-sanctions-jedi-award-microso
 ampWebUrl: "https://www.geekwire.com/2020/dod-watchdog-sanctions-jedi-award-microsoft-amazon-calls-bias-claims-unfounded/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/dod-watchdog-sanctions-jedi-award-microsoft-amazon-calls-bias-claims-unfounded/amp/"
 type: article
-quality: 74
+quality: 94
 heat: -1
 published: false
 
@@ -39,7 +39,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 81
+    quality: 101
     images:
       - url: "https://zdnet3.cbsistatic.com/hub/i/2020/04/15/2c3ba05e-21fa-47cd-8dab-d91266415adc/jediinspectorgeneralreport.jpg"
         width: 877
@@ -54,7 +54,7 @@ related:
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 80
+    quality: 100
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d9fd65a-cbde-44cd-8be7-69ca1b916d0b/6161526e-62a1-46df-9a5e-9c833fb50275/1280x720/match/image.jpg"
         width: 1280
@@ -69,7 +69,7 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
-    quality: 37
+    quality: 57
     images:
       - url: "https://static.seattletimes.com/wp-content/uploads/2020/04/04152020_msoft_095020-300x208.jpg"
         width: 299
@@ -84,7 +84,7 @@ related:
     provider:
       name: Windows Central
       domain: windowscentral.com
-    quality: 36
+    quality: 56
     images:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2015/09/microsoft-logo-3.jpg?itok=HZnHZqpR"
         width: 800
@@ -97,7 +97,7 @@ related:
     provider:
       name: Thurrott
       domain: thurrott.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2019/10/us-pentagon.jpg"
         width: 1280
@@ -110,7 +110,7 @@ related:
     provider:
       name: Stars and Stripes
       domain: stripes.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://www.stripes.com/polopoly_fs/1.626151.1586966540!/image/image.jpg_gen/derivatives/landscape_490/image.jpg"
         width: 490
@@ -125,7 +125,7 @@ related:
     provider:
       name: Washington Examiner
       domain: washingtonexaminer.com
-    quality: 7
+    quality: 17
 
 secured: "2NXDbTioU7xsahC2ar1ephnZIRCe3ek1nd+sTzqKDLIYdGaBfdxgJcJYNWOKc10zwqPBqcfuzyVtUg7+6sv2DW8XSmCQw+Uo7uSmENxY8XuyU1KekXJNeTF7D1enuXGkl9PJitCfU9pifauUAGBWez4NEO/Jl47DqD712+EE5sodaGfzlmYPGl71qfDlWp29KrogysO6bj5uEN19EOMqWbf183dKoLJle5Q+ZKhH4yO48cLqjjcMaOXiH3fkPjU235tk4kJMBqeVI5vXbHLX0mUTJN7+wdGyd7rpeYBeX+QL0ew/rLkXbVla7l+qw7zHbzUM5A5IfhNzXp8eUXkmlpMfZt0P9dcn2NLesBTYKZc41y9SU9pMlhXmk4iMz7uISsBDla4sG8rs/YlJwq6psr98EVStghy7v5EpMdNo76t8Dj9x+LjsbIHUvsvCcURBI8O++aYvAYsa8WymH+AhEFVxc3II7k2+hET3/+ISLi0=;4SWmrTvuBWuIzwhusn/tvQ=="
 ---

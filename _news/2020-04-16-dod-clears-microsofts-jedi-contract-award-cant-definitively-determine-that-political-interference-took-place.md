@@ -7,7 +7,7 @@ webUrl: "https://www.techspot.com/news/84853-dod-clears-microsoft-jedi-contract-
 ampWebUrl: "https://www.techspot.com/amp/news/84853-dod-clears-microsoft-jedi-contract-award-cant-definitively.html"
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84853-dod-clears-microsoft-jedi-contract-award-cant-definitively.html"
 type: article
-quality: 61
+quality: 81
 heat: -1
 published: false
 
@@ -39,7 +39,7 @@ related:
     provider:
       name: The Next Web
       domain: thenextweb.com
-    quality: 78
+    quality: 98
     images:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/11/Amazon-cloud-796x404.jpg"
         width: 796
@@ -52,7 +52,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 31
+    quality: 41
     images:
       - url: "https://i.insider.com/5dee6b1dfd9db2496759bda1?width=600&format=jpeg&auto=webp"
         width: 600

@@ -5,8 +5,8 @@ excerpt: "Global Cloud Backup Market was valued at USD 1.7 Billion in the year 2
 publishedDateTime: 2020-04-28T11:11:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-backup-market-analysis-evolving-opportunities-studied-for-the-period-until-2025-cagr-of-238-2020-04-28"
 type: article
-quality: 47
-heat: 47
+quality: 57
+heat: 57
 published: false
 
 provider:

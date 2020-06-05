@@ -5,8 +5,8 @@ excerpt: "An extensive elaboration of the Global Cloud IAM market strategy of th
 publishedDateTime: 2020-05-22T16:04:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-iam-market-is-thriving-worldwide-broadcom-ibm-emc-intel-microsoft-dell-2020-05-22"
 type: article
-quality: 56
-heat: 76
+quality: 66
+heat: 86
 published: true
 
 provider:
@@ -35,7 +35,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

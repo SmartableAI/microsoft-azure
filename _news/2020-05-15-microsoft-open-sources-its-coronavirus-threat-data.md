@@ -5,7 +5,7 @@ excerpt: "Microsoft's COVID-19 intelligence will be made publicly available to h
 publishedDateTime: 2020-05-15T19:06:00Z
 webUrl: "https://www.darkreading.com/threat-intelligence/microsoft-open-sources-its-coronavirus-threat-data/d/d-id/1337836"
 type: article
-quality: 22
+quality: 32
 heat: -1
 published: false
 
@@ -31,7 +31,7 @@ related:
     provider:
       name: The Next Web
       domain: thenextweb.com
-    quality: 60
+    quality: 70
     images:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/11/microsoft-hed-796x417.jpg"
         width: 796

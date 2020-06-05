@@ -5,7 +5,7 @@ excerpt: "Microsoft Corp. today announced the preview of Azure Maps Creator, a n
 publishedDateTime: 2020-06-01T18:50:00Z
 webUrl: "https://siliconangle.com/2020/06/01/microsoft-previews-azure-maps-creator-enable-indoor-location-apps-ar/"
 type: article
-quality: 35
+quality: 45
 heat: -1
 published: false
 
@@ -31,7 +31,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 68
+    quality: 78
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -7,9 +7,9 @@ webUrl: "https://www.windowscentral.com/microsoft-edge-linux-shown-briefly-build
 ampWebUrl: "https://www.windowscentral.com/microsoft-edge-linux-shown-briefly-build-2020?amp"
 cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-edge-linux-shown-briefly-build-2020?amp"
 type: article
-quality: 42
-heat: 42
-published: false
+quality: 62
+heat: 82
+published: true
 
 provider:
   name: Windows Central
@@ -35,7 +35,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2019/11/Microsoft-Edge-logos.jpg"
         width: 811

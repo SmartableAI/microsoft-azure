@@ -5,8 +5,8 @@ excerpt: "Join us as we explore the reality of secure cloud adoption – and lea
 publishedDateTime: 2020-04-09T23:52:00Z
 webUrl: "https://www.infoworld.com/resources/201270/unisys-cloudforte-for-microsoft-azure-accelerate-your-secure-cloud-adoption"
 type: article
-quality: 74
-heat: 74
+quality: 84
+heat: 84
 published: true
 
 provider:

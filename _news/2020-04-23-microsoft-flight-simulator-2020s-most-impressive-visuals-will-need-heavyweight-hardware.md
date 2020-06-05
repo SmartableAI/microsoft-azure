@@ -7,8 +7,8 @@ webUrl: "https://www.cnet.com/news/microsoft-flight-simulator-2020s-wildly-impre
 ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-flight-simulator-2020s-wildly-impressive-visuals-will-require-some-serious-specs/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-flight-simulator-2020s-wildly-impressive-visuals-will-require-some-serious-specs/"
 type: article
-quality: 73
-heat: 73
+quality: 93
+heat: 93
 published: true
 
 provider:

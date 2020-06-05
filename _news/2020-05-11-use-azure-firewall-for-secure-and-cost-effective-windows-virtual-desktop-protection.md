@@ -5,8 +5,8 @@ excerpt: "This post was co-authored by Pavithra Thiruvengadam, Program Manager, 
 publishedDateTime: 2020-05-11T11:00:02Z
 webUrl: "https://azure.microsoft.com/blog/use-azure-firewall-for-secure-and-cost-effective-windows-virtual-desktop-protection/"
 type: article
-quality: 95
-heat: 95
+quality: 105
+heat: 105
 published: true
 
 provider:

@@ -5,8 +5,8 @@ excerpt: "We’re expanding the Microsoft Azure Stack Edge with NVIDIA T4 Tensor
 publishedDateTime: 2020-03-24T14:00:25Z
 webUrl: "https://azure.microsoft.com/blog/microsoft-is-expanding-the-azure-stack-edge-with-nvidia-t4-gpu-preview/"
 type: article
-quality: 101
-heat: 101
+quality: 111
+heat: 111
 published: true
 
 provider:

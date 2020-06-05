@@ -27,7 +27,7 @@ related:
     provider:
       name: Business Line
       domain: thehindubusinessline.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://www.thehindubusinessline.com/static/theme/default/base/img/og-image.jpg"
         width: 300
@@ -40,7 +40,7 @@ related:
     provider:
       name: Sify.com
       domain: sify.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://www.sify.com/uploads/microsoft_logo_ap_ufnfR2daebada.jpg"
         width: 950
