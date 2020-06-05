@@ -32,6 +32,15 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+  - title: "Netreo Acquires CloudMonix; MSPs Gain Microsoft Azure Cloud Monitoring"
+    excerpt: "Netreo acquires CloudMonix, which offers Microsoft cloud monitoring services designed for MSPs (managed IT services providers), CSPs & DevOps teams."
+    publishedDateTime: 2020-06-03T12:25:00Z
+    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/netreo-acquires-cloudmonix/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 17
 
 secured: "F0+9tLpOrdj9wJr2SMsUa+wiQeOibmmXA6EuJimJ6nW8UfL2n8vQBJ3yY04aPbYS5PJqZ0JDwcbrOmq3FH8OhE/EBThkAapRyQ5YpZFlnLTVp7eI9xpa/M4lWzksAfKVl5xvu/Ox1R73wjxFh6xcnhmuTtvmcSWy49U3va4r2OzwhChNH64WmS+GjZIkyVurim305SVVodc2SwBpI3l5LmeRoZQPpLAAb20s5ueP096+lAI2CrBg8hw3vjfOzGPONdR4BcVY7gQDRzCQFwSID1P7pfaeqoTJXEmFt5ygZignv0R8ASqrn2VPGblW0SQN;Ly/NW9M9HCt7gN1nSPX/qA=="
 ---

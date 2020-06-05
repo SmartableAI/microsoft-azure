@@ -34,6 +34,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 30
+  - title: "Netreo Acquires CloudMonix; MSPs Gain Microsoft Azure Cloud Monitoring"
+    excerpt: "Netreo acquires CloudMonix, which offers Microsoft cloud monitoring services designed for MSPs (managed IT services providers), CSPs & DevOps teams."
+    publishedDateTime: 2020-06-03T12:25:00Z
+    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/netreo-acquires-cloudmonix/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 17
 
 secured: "27JhUt5eyNqcFxGWK72ZtgA8PCZWX7+SWInXswfG/qTgEJcq87wJqZ1nahr91c7HA9g+W49mIoLgcqjdP/p1buNu7HvLoMsESi1lqsPSAw14l45+KTHsA9bCZzIc6/cjmS9zJ0XsCPWeZ2qSmmOJx4qNn1Wa5ybbmgnXKd/TiFiCpJO19l7GYOpNTjw1Cq7GJIWqApPD9xwJ/qyAOgZwqlDfkoYuOOHCjA0jkvrS5kCC4WZ4bxrrdUssREzOZ9qD0AURIqehrYRxEkq472T5UOC4Ebv2g8t8YqQ2+rL6fDDpZvk/MLXH6gJscyh321IZ;SVr5hE4T/VUQDLXb/ypnFw=="
 ---
