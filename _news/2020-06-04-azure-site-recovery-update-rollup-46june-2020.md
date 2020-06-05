@@ -1,6 +1,6 @@
 ---
 category: news
-title: " Azure Site Recovery update rollup 46—June 2020"
+title: "Azure Site Recovery update rollup 46—June 2020"
 excerpt: ""
 publishedDateTime: 2020-06-04T21:00:29Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-site-recovery-update-rollup-46-june-2020/"
