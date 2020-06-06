@@ -43,6 +43,19 @@ related:
       - url: "https://img.pr.com/release/2005/470793/pressrelease_original_470793_1589990219.png"
         width: 1280
         height: 720
+  - title: "SepioPrime Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Sepio Systems, the leader in Rogue Device Mitigation (RDM), today announced the availability of SepioPrime in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2020-05-29T13:00:00Z
+    webUrl: "https://apnews.com/PR Newswire/f5b85ffe40d0191068bb0e60ed78df05"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 47
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
 
 secured: "8RK76LJIqRe9jigniHebHGHFKKMXOu8KB/njFYyNLSGT82VqZOTo77/Bd5AAxrosoEjpEG6QFIdsDLSZmOb6S/5WPbL0v6v5DtgLwC8RgjmlwO+qQIH7BOzJING+3wfQevaBOz4nilP7a3IklK8Qo6FJH5X9iAXf8fuLYg8tNwIVTAIt9PJphxYWMzfnfZySdfWl7H7poB59cqb2CrUnAs/WKebM+n9yvy0HHye9bTxRQmNCo4SJBRQpXOcnwknnztNLDbDX6NG+Zg3NccFLnSkDi+hTastprzQ+XoDQtpCXHXRJQCl27XEpS49IZCTu;sEQMLXg2hPA8Tu8WJSfxsg=="
 ---
