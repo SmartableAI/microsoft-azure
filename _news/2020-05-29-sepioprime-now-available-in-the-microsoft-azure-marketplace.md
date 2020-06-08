@@ -1,25 +1,25 @@
 ---
 category: news
 title: "SepioPrime Now Available in the Microsoft Azure Marketplace"
-excerpt: "Sepio Systems, the leader in Rogue Device Mitigation (RDM), today announced the availability of SepioPrime in the Microsoft Azure Marketplace, an online store"
-publishedDateTime: 2020-05-29T13:40:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sepioprime-now-available-in-the-microsoft-azure-marketplace/article_5cdbbf5a-616a-5cdb-bcef-534a7be9d3a2.html"
+excerpt: "Sepio Systems, the leader in Rogue Device Mitigation (RDM), today announced the availability of SepioPrime in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+publishedDateTime: 2020-05-29T13:00:00Z
+webUrl: "https://apnews.com/PR Newswire/f5b85ffe40d0191068bb0e60ed78df05"
 type: article
 quality: 47
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     title: "SepioPrime Now Available in the Microsoft Azure Marketplace"
 
 related:
@@ -50,6 +50,6 @@ related:
         width: 1200
         height: 630
 
-secured: "6bYWcD+1epPwwjf9DlcOUZ3w6J2bQg8n4g/xCRhjp5s/iKqqgH667RSogHslUQApLFHKoE4LhN2yJktJ3ZnneptEAdGDP0pKw5/I2PduGZvujJYPnUdh1lZSphbEwLE1098r8fwAjjTxlVSDfAW4WdkXlledi2jpGFzXF+WUICSn9284nNjZ0SRJeCBZqAXP4cj0CG0sFvNx9qzegF82HIvNh86iwE/RgIbX/k0Jxu/0Cfyrfx3sA5QpW9bqQuoPOyEVQsxSYiJ7dweVG1rpyZsTkcZn0E2+y9bseUVXxFbd6HqL3Cf2tK4Dj5xpiXsf;1oNNSZLeka5RXXp5/AWr8w=="
+secured: "2iuOQfn0HHSAADaekrzzfFlchR2JIm2BCQY9kgCYo3geesJVGQZSwZ21qb+6mGVT/MiBHXlIqVh4piHIvgzeW1T1K04FXtHIHvK7oDyaQ4PywQDTzS5vn5QvyuOiRV21C/JOn28HjtI5pX3lVOP+BPgxLro06dbxlnKhgGknX4KcAV72PWEf8rnMSdAzMpARUTcIe6enoj/Ud7rSZ74DbS4nBdw5nF96W/4ILqQsv+tgZzqxd3YMc+Cmui72/X+lXkByF4D0b04oH+LC1I2IKZGU3VyXMEWg8dOdqGDdLmDij2fd5mJyV+937sI4Qxb4;nW9itWDHYo4ujbuAEdKpvA=="
 ---
 
