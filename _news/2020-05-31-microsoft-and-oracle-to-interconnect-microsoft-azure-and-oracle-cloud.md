@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Backup to Microsoft Azure with Veeam Direct Restore"
+    excerpt: "Of the cloud solutions available on the market, Microsoft Azure stands out as an excellent choice. Created by one of the giants of global tech, Azure is an all-encompassing cloud platform that is ..."
+    publishedDateTime: 2020-05-27T08:16:00Z
+    webUrl: "https://mybroadband.co.za/news/industrynews/353659-backup-to-microsoft-azure-with-veeam-direct-restore.html"
+    ampWebUrl: "https://mybroadband.co.za/news/industrynews/353659-backup-to-microsoft-azure-with-veeam-direct-restore.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/353659-backup-to-microsoft-azure-with-veeam-direct-restore.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 77
+    images:
+      - url: "https://mybroadband.co.za/news/wp-content/uploads/2020/03/Picture1-2-640x359.png"
+        width: 640
+        height: 359
+        isCached: true
   - title: "NXP expands partnership with Microsoft Azure RTOS"
     excerpt: "NXP Semiconductors has expanded its partnership with Microsoft to bring Microsoft Azure real-time operating system (RTOS) to a broader range of processing solutions from its EdgeVerse portfolio."
     publishedDateTime: 2020-05-27T15:40:00Z

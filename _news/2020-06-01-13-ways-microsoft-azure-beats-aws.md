@@ -8,7 +8,7 @@ ampWebUrl: "https://www.infoworld.com/article/3319777/13-ways-microsoft-azure-be
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.amp.html"
 type: article
 quality: 117
-heat: 317
+heat: 337
 published: true
 
 provider:
@@ -71,6 +71,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Backup to Microsoft Azure with Veeam Direct Restore"
+    excerpt: "Of the cloud solutions available on the market, Microsoft Azure stands out as an excellent choice. Created by one of the giants of global tech, Azure is an all-encompassing cloud platform that is ..."
+    publishedDateTime: 2020-05-27T08:16:00Z
+    webUrl: "https://mybroadband.co.za/news/industrynews/353659-backup-to-microsoft-azure-with-veeam-direct-restore.html"
+    ampWebUrl: "https://mybroadband.co.za/news/industrynews/353659-backup-to-microsoft-azure-with-veeam-direct-restore.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/353659-backup-to-microsoft-azure-with-veeam-direct-restore.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 77
+    images:
+      - url: "https://mybroadband.co.za/news/wp-content/uploads/2020/03/Picture1-2-640x359.png"
+        width: 640
+        height: 359
         isCached: true
   - title: "Microsoft and Oracle to interconnect Microsoft Azure and Oracle Cloud"
     excerpt: "Before it's here, it's on the Bloomberg Terminal."

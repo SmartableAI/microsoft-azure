@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Microsoft and Docker collaborate on new ways to deploy containers on Azure"
-excerpt: "Now more than ever, developers need agility to meet rapidly increasing demands from customers. Containerization is one key way to increase agility. Containerized applications are built in a more consistent and repeatable way, by way of defining desired infrastructure, dependencies, and configuration"
-publishedDateTime: 2020-05-27T14:00:04Z
-webUrl: "https://azure.microsoft.com/blog/microsoft-and-docker-collaborate-on-new-ways-to-deploy-containers-on-azure/"
+title: "Backup to Microsoft Azure with Veeam Direct Restore"
+excerpt: "Of the cloud solutions available on the market, Microsoft Azure stands out as an excellent choice. Created by one of the giants of global tech, Azure is an all-encompassing cloud platform that is ..."
+publishedDateTime: 2020-05-27T08:16:00Z
+webUrl: "https://mybroadband.co.za/news/industrynews/353659-backup-to-microsoft-azure-with-veeam-direct-restore.html"
+ampWebUrl: "https://mybroadband.co.za/news/industrynews/353659-backup-to-microsoft-azure-with-veeam-direct-restore.html/amp"
+cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/353659-backup-to-microsoft-azure-with-veeam-direct-restore.html/amp"
 type: article
-quality: 105
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: MyBroadband
+  domain: mybroadband.co.za
 
 topics:
   - Azure
 
 images:
-  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c2dfbf4e-3ca4-42c1-acec-cd89fd674efb.gif"
-    width: 1920
-    height: 1080
+  - url: "https://mybroadband.co.za/news/wp-content/uploads/2020/03/Picture1-2-640x359.png"
+    width: 640
+    height: 359
     isCached: true
-    title: "Microsoft and Docker collaborate on new ways to deploy containers on Azure"
+    title: "Backup to Microsoft Azure with Veeam Direct Restore"
 
 related:
   - title: "13 ways Microsoft Azure beats AWS"
@@ -43,6 +41,20 @@ related:
       - url: "https://images.idgesg.net/images/article/2019/02/cloud_comput_connect_blue-100787048-large.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft and Docker collaborate on new ways to deploy containers on Azure"
+    excerpt: "Now more than ever, developers need agility to meet rapidly increasing demands from customers. Containerization is one key way to increase agility. Containerized applications are built in a more consistent and repeatable way, by way of defining desired infrastructure, dependencies, and configuration"
+    publishedDateTime: 2020-05-27T14:00:04Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-and-docker-collaborate-on-new-ways-to-deploy-containers-on-azure/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 105
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c2dfbf4e-3ca4-42c1-acec-cd89fd674efb.gif"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Migrating to Microsoft Azure"
     excerpt: "One of the first things cloud architect Bill Zack did after moving from Connecticut to Nashville in 2013 was to form a Microsoft Azure User Group. Launched with just four initial members ..."
@@ -71,22 +83,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Backup to Microsoft Azure with Veeam Direct Restore"
-    excerpt: "Of the cloud solutions available on the market, Microsoft Azure stands out as an excellent choice. Created by one of the giants of global tech, Azure is an all-encompassing cloud platform that is ..."
-    publishedDateTime: 2020-05-27T08:16:00Z
-    webUrl: "https://mybroadband.co.za/news/industrynews/353659-backup-to-microsoft-azure-with-veeam-direct-restore.html"
-    ampWebUrl: "https://mybroadband.co.za/news/industrynews/353659-backup-to-microsoft-azure-with-veeam-direct-restore.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/353659-backup-to-microsoft-azure-with-veeam-direct-restore.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 77
-    images:
-      - url: "https://mybroadband.co.za/news/wp-content/uploads/2020/03/Picture1-2-640x359.png"
-        width: 640
-        height: 359
         isCached: true
   - title: "Microsoft and Oracle to interconnect Microsoft Azure and Oracle Cloud"
     excerpt: "Before it's here, it's on the Bloomberg Terminal."
@@ -182,6 +178,6 @@ related:
         height: 720
         isCached: true
 
-secured: "OWPAWNE8bZSzACT0g90zPGhYGXY6BTRxXCyM+IOEdnC/eR8+N9EWkgzKBXyTbsfB7Eu5d0rm3OOyNe4f3t8qlXbfAY9eScE2uTECA9unznRgxDzYvfNgEfLHtNnvs5xPXup5WNNG2NijhYW1BkHBD3PNs9Yt8PQFuLm1ahTMli72zfRHN2177knuppAZPaVN2U6rxjEzP4+uVEBtRv+gn5YDgaMEC8t738rqcL9ocxJA0cXB7xk8oLJGIAjN/FtjVxW3Ivrl3a6R+rCwTRRkr94D5sJRQN/eFis/QYY86Q4vOtaVJxu/IskIORjOjgVPAre+KQHkW6omwZo9nn+xaA==;YFj247CU3ggE7XKlPpDonQ=="
+secured: "1XcMziOTmrC5fXwCNXQQwHrR53PGRfh6FGPxVzve4WIPdUmMqA4CzOXgF2WMsyCuKjQJMRUBlIZl3zc9dTAXD/KnFFVyL/8IdcL6AUlocSGJ+yu3q0XvV3NU9hixCAwfN0hreo4fkWWwkEwpTL8B0sSJdBFVb5c8KfpM9+bDaSFNsOb4UhhOoQOc0ntl8+dQhKBFNaorH4W/rznA7sR0w/IJC21BmQFTctNn3G0pSYnhdEiyWqjPTzy0sJkzj+BRH5fNk1JPN1UcfsZdC5YE+q7WBWbalZOmb0WY454nccgSacgHIyM88AMg7Lv4Lkf2;6jBSp/XCJI1r7J5khZfYCw=="
 ---
 
