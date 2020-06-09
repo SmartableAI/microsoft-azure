@@ -7,8 +7,8 @@ webUrl: "https://www.techradar.com/au/news/aws-appflow-takes-on-microsoft-azures
 ampWebUrl: "https://www.techradar.com/au/amp/news/aws-appflow-takes-on-microsoft-azures-power-automate"
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/aws-appflow-takes-on-microsoft-azures-power-automate"
 type: article
-quality: 97
-heat: 137
+quality: 117
+heat: 157
 published: true
 
 provider:
@@ -40,7 +40,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 53
+    quality: 73
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2018/10/Swift-Azure.jpg"
         width: 932
@@ -54,7 +54,7 @@ related:
     provider:
       name: CRN
       domain: crn.com
-    quality: 37
+    quality: 47
     images:
       - url: "https://www.crn.com/resources/025b-0eff6361f68a-29cd08758548-1000/1azurestackportfolio.jpg"
         width: 515

@@ -7,8 +7,8 @@ webUrl: "https://www.fool.com/investing/2020/04/21/next-big-opportunity-tech-mic
 ampWebUrl: "https://www.fool.com/amp/investing/2020/04/21/next-big-opportunity-tech-microsoft-lead.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/21/next-big-opportunity-tech-microsoft-lead.aspx"
 type: article
-quality: 80
-heat: 100
+quality: 100
+heat: 120
 published: true
 
 provider:
@@ -40,7 +40,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 79
+    quality: 99
     images:
       - url: "https://zdnet3.cbsistatic.com/hub/i/2020/04/26/96b82079-3e46-42be-8a39-962c05fe2bd0/screenshot-2020-04-26-at-14-39-06.png"
         width: 1190

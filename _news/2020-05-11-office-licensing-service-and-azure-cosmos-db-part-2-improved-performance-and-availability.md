@@ -5,7 +5,7 @@ excerpt: "This post is part 2 of a two-part series about how organizations use A
 publishedDateTime: 2020-05-11T14:00:02Z
 webUrl: "https://azure.microsoft.com/blog/office-licensing-service-and-azure-cosmos-db-part-2-improved-performance-and-availability/"
 type: article
-quality: 108
+quality: 118
 heat: -1
 published: false
 
@@ -39,7 +39,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 108
+    quality: 118
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/dfd8c989-e0f7-4554-8e02-d4fbc1046c4f.png"
         width: 634

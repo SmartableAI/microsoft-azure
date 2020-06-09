@@ -5,7 +5,7 @@ excerpt: ""
 publishedDateTime: 2020-04-29T16:00:05Z
 webUrl: "https://azure.microsoft.com/en-us/updates/crossregion-restore-for-azure-virtual-machines-using-azure-backup/"
 type: article
-quality: 97
+quality: 107
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 115
+    quality: 125
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/b8495529-cdab-454f-ac29-78f63339532e.jpg"
         width: 755

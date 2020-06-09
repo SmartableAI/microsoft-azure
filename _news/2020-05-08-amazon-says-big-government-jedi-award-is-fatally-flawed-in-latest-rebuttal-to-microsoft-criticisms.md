@@ -7,7 +7,7 @@ webUrl: "https://www.cnbc.com/2020/05/08/amazon-says-jedi-award-fatally-flawed-i
 ampWebUrl: "https://www.cnbc.com/amp/2020/05/08/amazon-says-jedi-award-fatally-flawed-in-rebuttal-to-microsoft.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/08/amazon-says-jedi-award-fatally-flawed-in-rebuttal-to-microsoft.html"
 type: article
-quality: 67
+quality: 87
 heat: -1
 published: false
 
@@ -40,7 +40,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 70
+    quality: 90
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2016/04/20160404_Envision_07-1240x828.jpg"
         width: 1240
@@ -56,7 +56,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 48
+    quality: 68
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2019/11/microsoft-630x473.jpg"
         width: 630
@@ -72,7 +72,7 @@ related:
     provider:
       name: Barron's
       domain: barrons.com
-    quality: 40
+    quality: 60
     images:
       - url: "https://images.barrons.com/im-188060/social"
         width: 1280
@@ -88,7 +88,7 @@ related:
     provider:
       name: The Register
       domain: theregister.co.uk
-    quality: 34
+    quality: 54
     images:
       - url: "https://regmedia.co.uk/2017/12/19/lightsaber.jpg"
         width: 648
@@ -102,7 +102,7 @@ related:
     provider:
       name: Federal Times
       domain: federaltimes.com
-    quality: 15
+    quality: 25
     images:
       - url: "https://www.armytimes.com/resizer/zPIx2t3S-cW9L6O4V1nUbDT6wsw=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/SPQTUFFMHRFI7FZBGH36NHJ5MA.jpg"
         width: 1200

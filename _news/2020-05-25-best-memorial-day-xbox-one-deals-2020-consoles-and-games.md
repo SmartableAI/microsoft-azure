@@ -7,8 +7,8 @@ webUrl: "https://www.digitaltrends.com/dtdeals/best-memorial-day-xbox-one-deals-
 ampWebUrl: "https://www.digitaltrends.com/dtdeals/best-memorial-day-xbox-one-deals-2020/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/dtdeals/best-memorial-day-xbox-one-deals-2020/?amp"
 type: article
-quality: 82
-heat: 82
+quality: 102
+heat: 102
 published: true
 
 provider:

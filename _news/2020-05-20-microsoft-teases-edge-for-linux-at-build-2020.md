@@ -7,7 +7,7 @@ webUrl: "https://mspoweruser.com/microsoft-teases-edge-for-linux-at-build-2020/"
 ampWebUrl: "https://mspoweruser.com/microsoft-teases-edge-for-linux-at-build-2020/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-teases-edge-for-linux-at-build-2020/amp/"
 type: article
-quality: 42
+quality: 62
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://cdn.vox-cdn.com/thumbor/DLpMOz4jmOEGQJb21UUFtRfAEro=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66819966/twarren_180507_2536_0001.5.jpg"
         width: 1400
@@ -52,7 +52,7 @@ related:
     provider:
       name: Neowin
       domain: neowin.net
-    quality: 80
+    quality: 100
     images:
       - url: "https://cdn.neow.in/news/images/uploaded/2020/05/1590330181_msw-20200524_story.jpg"
         width: 760
@@ -68,7 +68,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 67
+    quality: 87
     images:
       - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/05/13/bf550a82-e9e8-4511-bee9-983426e8fc52/thumbnail/1200x675/aaf99352c82c362f4feba84192e7819c/2555435eba4cad133864-58121622-nvidia-accelerates-apache-spark.jpg"
         width: 1200
@@ -84,7 +84,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 62
+    quality: 72
 
 secured: "Arc0dpEHRzponE7rzgVONmJBzHiqUH881vRjoYBcj8S0QJKJqcKMZfhxfg3bpDly42QGPPT+jAUnqmLM3THvryxemIqvb3bXAq+WPKfAtmSimyAgQL7tbzExv0yTORT4c+PmqEf3604QMrMxlmsSMQ6Beo5Dkbt/JZIqkwI2+1R0XSvrSG5u6z9zivMZa1vmA4RHORYCcf2ZxB1SgWdVHV0ls1FPxnLaM/X5uy4JOqyQBLuEle7MQcEmksxNq4lV163niiqW4u+zWF0+0SDoV8FGjWdlydQqetJ6WDx2J/6OmOrW6l19eZhlKjIh9rs2Pd9C+xjJYWOwDYCuR3btlgc4ysvHrAGEDiJcjI+f9QkTbd9YtsvU27Rhy1uY9LqjCgk9O9iiG0qC1m9jgKhrA4IoVow88czMlmHeuk6hRv0o7kE4T6WzF7rw9YMbRUoHWgAcNzhWQ1Q5umv4oDGFRrrS/z1O62qe93TC74iJ0fM=;rpGr6Bn746PtgIy1p99M+Q=="
 ---

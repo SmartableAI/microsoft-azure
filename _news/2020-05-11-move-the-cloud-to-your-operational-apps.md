@@ -7,9 +7,9 @@ webUrl: "https://www.forbes.com/sites/peterburris/2020/05/11/move-the-cloud-to-y
 ampWebUrl: "https://www.forbes.com/sites/peterburris/2020/05/11/move-the-cloud-to-your-operational-apps/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterburris/2020/05/11/move-the-cloud-to-your-operational-apps/amp/"
 type: article
-quality: 62
-heat: 62
-published: false
+quality: 72
+heat: 72
+published: true
 
 provider:
   name: Forbes

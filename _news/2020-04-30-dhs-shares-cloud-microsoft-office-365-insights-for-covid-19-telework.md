@@ -7,7 +7,7 @@ webUrl: "https://healthitsecurity.com/news/dhs-shares-cloud-microsoft-office-365
 ampWebUrl: "https://healthitsecurity.com/news/amp/dhs-shares-cloud-microsoft-office-365-insights-for-covid-19-telework"
 cdnAmpWebUrl: "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/news/amp/dhs-shares-cloud-microsoft-office-365-insights-for-covid-19-telework"
 type: article
-quality: 22
+quality: 32
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 97
+    quality: 117
     images:
       - url: "https://zdnet3.cbsistatic.com/hub/i/2020/04/29/f325a6df-81d8-47c5-bc6d-961b37642592/msft-q3-2020-commercial-cloud-revenue.png"
         width: 1337
@@ -45,7 +45,7 @@ related:
     provider:
       name: Bloomberg
       domain: bloomberg.com
-    quality: 62
+    quality: 72
   - title: "Microsoft sales rise as remote working buoys cloud services"
     excerpt: "Microsoft so far has thrived during the Covid-19 pandemic because of its focus on cloud offerings, like Office productivity tools, Azure services and subscription programs that are less vulnerable to spending slumps."
     publishedDateTime: 2020-04-30T14:15:00Z
@@ -54,7 +54,7 @@ related:
     provider:
       name: Employee Benefit News
       domain: benefitnews.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://arizent.brightspotcdn.com/dims4/default/f81971f/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2F19%2F0d%2Fd64fb71f4b8da9c9945463d4b153%2Fmicrosoft.Bloomberg.jpg"
         width: 1200

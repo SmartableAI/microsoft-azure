@@ -7,8 +7,8 @@ webUrl: "https://www.computerweekly.com/news/252483650/MoD-cuts-through-competit
 ampWebUrl: "https://www.computerweekly.com/news/252483650/MoD-cuts-through-competition-barriers-to-sign-direct-private-cloud-deal-with-Microsoft?amp=1"
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252483650/MoD-cuts-through-competition-barriers-to-sign-direct-private-cloud-deal-with-Microsoft?amp=1"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:

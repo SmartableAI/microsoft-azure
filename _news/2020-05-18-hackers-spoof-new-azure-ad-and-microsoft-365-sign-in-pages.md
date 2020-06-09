@@ -7,8 +7,8 @@ webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/355686/hackers-spoof-new-
 ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/355686/hackers-spoof-new-azure-ad-and-microsoft-365-sign-in-pages?amp"
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/355686/hackers-spoof-new-azure-ad-and-microsoft-365-sign-in-pages?amp"
 type: article
-quality: 97
-heat: 137
+quality: 117
+heat: 157
 published: true
 
 provider:
@@ -40,7 +40,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F574884%2Fgettyimages-1162624331.jpg&w=1200&op=resize"
         width: 1200
@@ -54,7 +54,7 @@ related:
     provider:
       name: Hack
       domain: securityintelligence.com
-    quality: 35
+    quality: 45
     images:
       - url: "https://securityintelligence.com/wp-content/uploads/2020/05/news_new-microsoft-azure-ad-sign-in-page-spoofed-in-numerous-phishing-campaigns.jpg"
         width: 1200

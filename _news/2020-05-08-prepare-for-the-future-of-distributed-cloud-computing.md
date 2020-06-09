@@ -7,8 +7,8 @@ webUrl: "https://www.infoworld.com/article/3542672/prepare-for-the-future-of-dis
 ampWebUrl: "https://www.infoworld.com/article/3542672/prepare-for-the-future-of-distributed-cloud-computing.amp.html"
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3542672/prepare-for-the-future-of-distributed-cloud-computing.amp.html"
 type: article
-quality: 82
-heat: 122
+quality: 102
+heat: 142
 published: true
 
 provider:
@@ -40,7 +40,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 77
+    quality: 97
     images:
       - url: "https://tr4.cbsistatic.com/hub/i/r/2020/04/30/61a5fc1e-5f9f-4a11-b0e7-62340e7bbd64/thumbnail/1200x675/bf9d1ca7025b33658e94dd76217e5b43/20200427-lance2-karen.jpg"
         width: 1200
@@ -54,7 +54,7 @@ related:
     provider:
       name: Telecoms
       domain: telecoms.com
-    quality: 21
+    quality: 31
     images:
       - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2017/02/Cloud-Money-300x203.jpg"
         width: 300

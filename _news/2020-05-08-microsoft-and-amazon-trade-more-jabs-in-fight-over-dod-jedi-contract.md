@@ -7,7 +7,7 @@ webUrl: "https://www.windowscentral.com/microsoft-and-amazon-trade-more-jabs-fig
 ampWebUrl: "https://www.windowscentral.com/microsoft-and-amazon-trade-more-jabs-fight-over-dod-jedi-contract?amp"
 cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-and-amazon-trade-more-jabs-fight-over-dod-jedi-contract?amp"
 type: article
-quality: 42
+quality: 62
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: Engadget
       domain: engadget.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-10%2F073b94a0-f1c4-11e9-8f5b-2c0832cca481&client=amp-blogside-v2&signature=0440a7701a50126da12ef6ffbcc2f78eb97c80fd"
         width: 600
@@ -52,7 +52,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg"
         width: 580
@@ -71,7 +71,7 @@ related:
     provider:
       name: The Next Web
       domain: thenextweb.com
-    quality: 79
+    quality: 99
     images:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/2-people-doing-karate-during-sunset-62376-796x448.jpg"
         width: 796
@@ -87,7 +87,7 @@ related:
     provider:
       name: TechSpot
       domain: techspot.com
-    quality: 76
+    quality: 96
     images:
       - url: "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-08-image-13.jpg"
         width: 1600
@@ -103,7 +103,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 73
+    quality: 93
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1073698070.jpg?w=1024"
         width: 1024
@@ -119,7 +119,7 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://content.jwplatform.com/thumbs/L51qx6tR-720.jpg"
         width: 720
@@ -135,7 +135,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2019/04/AWS.jpg"
         width: 820
@@ -151,7 +151,7 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://media.bizj.us/view/img/10988802/rtrlnine110024*600xx4350-2900-100-0.jpg"
         width: 600
@@ -167,7 +167,7 @@ related:
     provider:
       name: MyNorthwest.com
       domain: mynorthwest.com
-    quality: 40
+    quality: 60
     images:
       - url: "https://mynorthwest.com/wp-content/uploads/2017/07/Trump-and-Bezos-620.jpg"
         width: 620
@@ -183,7 +183,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 38
+    quality: 58
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2019/10/109411443_gettyimages-853699560.jpg"
         width: 660
@@ -197,7 +197,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 35
+    quality: 45
     images:
       - url: "https://i.insider.com/5eb32c9042278d19492e26ec?width=1200&format=jpeg"
         width: 1200
@@ -211,7 +211,7 @@ related:
     provider:
       name: Nextgov
       domain: nextgov.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://cdn.nextgov.com/media/img/upload/2020/05/07/NGcloud20200507/open-graph.jpg"
         width: 400
@@ -225,7 +225,7 @@ related:
     provider:
       name: Cloud Computing
       domain: cloudcomputing-news.net
-    quality: 22
+    quality: 32
     images:
       - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2020/05/476027925_189bab2d5d_k.jpg"
         width: 2048
@@ -239,7 +239,7 @@ related:
     provider:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://media.datacenterdynamics.com/media/images/JEDI_Thats_No_Moon.2e16d0ba.fill-1200x630.png"
         width: 1200

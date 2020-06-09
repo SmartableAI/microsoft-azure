@@ -7,7 +7,7 @@ webUrl: "https://mspoweruser.com/microsoft-build-online-is-going-back-to-its-roo
 ampWebUrl: "https://mspoweruser.com/microsoft-build-online-is-going-back-to-its-roots-with-greater-developer-focus/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-build-online-is-going-back-to-its-roots-with-greater-developer-focus/amp/"
 type: article
-quality: 38
+quality: 58
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: Digital Trends
       domain: digitaltrends.com
-    quality: 79
+    quality: 99
     images:
       - url: "https://icdn6.digitaltrends.com/image/digitaltrends/satya-nadella-keynote-2-1200x630-c-ar1.91.jpg"
         width: 1000
@@ -52,7 +52,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 70
+    quality: 90
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/105894801-1557155225622gettyimages-1132529435.jpeg?v=1588265187"
         width: 5967

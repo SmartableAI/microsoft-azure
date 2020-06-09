@@ -5,7 +5,7 @@ excerpt: "Hot cloud-native data protection startup Clumio Wednesday expanded int
 publishedDateTime: 2020-04-29T15:45:00Z
 webUrl: "https://www.crn.com/clumio-adds-microsoft-365-saas-data-protection"
 type: article
-quality: 22
+quality: 32
 heat: -1
 published: false
 
@@ -32,7 +32,7 @@ related:
     provider:
       name: Computerworld
       domain: computerworld.com
-    quality: 37
+    quality: 47
     images:
       - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
         width: 300

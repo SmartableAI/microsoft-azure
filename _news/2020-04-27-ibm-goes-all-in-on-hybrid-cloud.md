@@ -5,8 +5,8 @@ excerpt: "With the 2019 acquisition of open-source powerhouse Red Hat under its 
 publishedDateTime: 2020-04-27T09:58:00Z
 webUrl: "https://www.techcentral.ie/ibm-goes-all-in-on-hybrid-cloud/"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

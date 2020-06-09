@@ -7,9 +7,9 @@ webUrl: "https://www.thestreet.com/investing/oracle-gets-cloud-infrastructure-de
 ampWebUrl: "https://www.thestreet.com/.amp/investing/oracle-gets-cloud-infrastructure-deal-with-zoom-video"
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/oracle-gets-cloud-infrastructure-deal-with-zoom-video"
 type: article
-quality: 42
-heat: 42
-published: false
+quality: 62
+heat: 102
+published: true
 
 provider:
   name: TheStreet.com
@@ -34,7 +34,7 @@ related:
     provider:
       name: CRN
       domain: crn.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://www.crn.com/resources/025c-0f47f2913a57-ac4f75105e9d-1000/oracle-hq-front.jpg"
         width: 610
@@ -48,7 +48,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/oracle.png"
         width: 718

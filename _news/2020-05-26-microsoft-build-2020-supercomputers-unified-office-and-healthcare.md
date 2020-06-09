@@ -5,7 +5,7 @@ excerpt: "Microsoft's build conference kicked off this year as a fully remote ev
 publishedDateTime: 2020-05-26T21:41:00Z
 webUrl: "https://www.engadget.com/video/5ec71d36b8187a4322e7a6f6/"
 type: article
-quality: 62
+quality: 72
 heat: -1
 published: false
 
@@ -38,7 +38,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 94
+    quality: 114
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed684ac10716f0007411961%2F0x0.jpg"
         width: 732
@@ -52,7 +52,7 @@ related:
     provider:
       name: InfoQ
       domain: infoq.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://cdn.infoq.com/statics_s2_20200525085632/styles/static/images/logo/logo-big.jpg"
         width: 1200

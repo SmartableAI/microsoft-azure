@@ -7,7 +7,7 @@ webUrl: "https://www.itproportal.com/news/aws-files-another-complaint-againt-mic
 ampWebUrl: "https://www.itproportal.com/amp/news/aws-files-another-complaint-againt-microsofts-jedi-win/"
 cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/aws-files-another-complaint-againt-microsofts-jedi-win/"
 type: article
-quality: 42
+quality: 62
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: TechRadar
       domain: techradar.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/utLgVZfGNmPcqfsQrX5XMh-1200-80.jpg"
         width: 970
@@ -52,7 +52,7 @@ related:
     provider:
       name: federalnewsnetwork.com
       domain: federalnewsnetwork.com
-    quality: 32
+    quality: 52
     images:
       - url: "https://federalnewsnetwork.com/wp-content/uploads/2019/11/amazon-jedi-protest-1024x683.jpg"
         width: 1024
@@ -66,7 +66,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/pentagon-80394_1920-tpsdave-pixabay-800x521.jpg"
         width: 800
@@ -80,7 +80,7 @@ related:
     provider:
       name: GCN
       domain: gcn.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Cloud/DODcloud_1.png"
         width: 760
@@ -94,7 +94,7 @@ related:
     provider:
       name: Defense Systems
       domain: defensesystems.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://defensesystems.com/-/media/GIG/EDIT_SHARED/Cloud/DODcloud_1.png"
         width: 760
@@ -108,7 +108,7 @@ related:
     provider:
       name: FedScoop
       domain: fedscoop.com
-    quality: 16
+    quality: 26
     images:
       - url: "https://www.fedscoop.com/wp-content/uploads/2020/01/AWS_-_Amazon_Web_Services_Office_in_Houston_Texas_46600198075.jpg"
         width: 2100

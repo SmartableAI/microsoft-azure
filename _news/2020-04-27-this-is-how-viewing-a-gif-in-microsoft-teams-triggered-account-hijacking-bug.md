@@ -7,7 +7,7 @@ webUrl: "https://www.zdnet.com/article/this-is-how-viewing-a-gif-in-microsoft-te
 ampWebUrl: "https://www.zdnet.com/google-amp/article/this-is-how-viewing-a-gif-in-microsoft-teams-triggers-account-hijacking-bug/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-is-how-viewing-a-gif-in-microsoft-teams-triggers-account-hijacking-bug/"
 type: article
-quality: 79
+quality: 99
 heat: -1
 published: false
 
@@ -40,7 +40,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 80
+    quality: 100
     images:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568539%2Fopportunity.jpg&w=1200&op=resize"
         width: 1200

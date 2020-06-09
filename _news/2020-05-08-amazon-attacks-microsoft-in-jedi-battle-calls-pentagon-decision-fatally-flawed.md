@@ -7,8 +7,8 @@ webUrl: "https://www.foxbusiness.com/technology/amazon-microsoft-jedi-pentagon-f
 ampWebUrl: "https://www.foxbusiness.com/technology/amazon-microsoft-jedi-pentagon-flawed.amp"
 cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/amazon-microsoft-jedi-pentagon-flawed.amp"
 type: article
-quality: 37
-heat: 37
+quality: 57
+heat: 57
 published: false
 
 provider:

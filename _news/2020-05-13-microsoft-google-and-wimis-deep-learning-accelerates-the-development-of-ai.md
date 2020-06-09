@@ -5,8 +5,8 @@ excerpt: "Over the past decade, machine learning, particularly deep learning met
 publishedDateTime: 2020-05-13T20:59:00Z
 webUrl: "https://www.marketwatch.com/press-release/microsoft-google-and-wimis-deep-learning-accelerates-the-development-of-ai-2020-05-13"
 type: article
-quality: 59
-heat: 59
+quality: 69
+heat: 69
 published: false
 
 provider:

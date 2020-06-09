@@ -5,9 +5,9 @@ excerpt: "Wells Fargo believes Microsofts market capitalization can top $2 trill
 publishedDateTime: 2020-06-02T12:20:00Z
 webUrl: "https://www.cnbc.com/2020/06/02/pandemic-is-zeitgeist-moment-for-cloud-microsoft-to-top-2-trillion-in-2-years-wells-fargo-says.html"
 type: article
-quality: 48
-heat: 48
-published: false
+quality: 58
+heat: 78
+published: true
 
 provider:
   name: CNBC

@@ -5,8 +5,8 @@ excerpt: "Login VSI, dedicated to maximizing the end-user experience, announced 
 publishedDateTime: 2020-05-20T23:56:00Z
 webUrl: "https://www.helpnetsecurity.com/2020/05/21/login-vsi-microsoft-azure/"
 type: article
-quality: 37
-heat: 37
+quality: 47
+heat: 47
 published: false
 
 provider:
@@ -32,7 +32,7 @@ related:
     provider:
       name: StorageReview
       domain: storagereview.com
-    quality: 37
+    quality: 47
     images:
       - url: "https://www.storagereview.com/wp-content/uploads/2020/05/StorageReview-Veeam-Azure-Intro.jpg"
         width: 700

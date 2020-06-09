@@ -7,8 +7,8 @@ webUrl: "https://9to5toys.com/2020/05/01/xbox-wireless-adapter-google-express/"
 ampWebUrl: "https://9to5toys.com/2020/05/01/xbox-wireless-adapter-google-express/amp/"
 cdnAmpWebUrl: "https://9to5toys-com.cdn.ampproject.org/c/s/9to5toys.com/2020/05/01/xbox-wireless-adapter-google-express/amp/"
 type: article
-quality: 38
-heat: 38
+quality: 58
+heat: 58
 published: false
 
 provider:

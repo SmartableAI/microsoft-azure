@@ -5,8 +5,8 @@ excerpt: "Smith of the U.S. Court of Federal Claims moved to grant DoD’s reque
 publishedDateTime: 2020-04-20T09:04:00Z
 webUrl: "https://www.govconwire.com/2020/04/judge-grants-dods-request-for-120-day-remand-to-review-jedi-contract-award-decision/"
 type: article
-quality: 15
-heat: 15
+quality: 25
+heat: 25
 published: false
 
 provider:

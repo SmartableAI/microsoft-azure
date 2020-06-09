@@ -7,7 +7,7 @@ webUrl: "https://www.thestreet.com/latest-news/microsoft-deal-with-nba-cloud-and
 ampWebUrl: "https://www.thestreet.com/.amp/latest-news/microsoft-deal-with-nba-cloud-and-surface-tablets"
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/latest-news/microsoft-deal-with-nba-cloud-and-surface-tablets"
 type: article
-quality: 42
+quality: 62
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 97
+    quality: 117
     images:
       - url: "https://cdn.vox-cdn.com/thumbor/mwjfKqcPIwq9DgAixwF1mBWKGvk=/0x0:1777x1168/1400x933/filters:focal(747x442:1031x726):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66663808/microsoftnba.0.jpg"
         width: 1400
@@ -52,7 +52,7 @@ related:
     provider:
       name: TechSpot
       domain: techspot.com
-    quality: 94
+    quality: 114
     images:
       - url: "https://www.techspot.com/images2/news/ts3_thumbs/2020/04/2020-04-16-ts3_thumbs-cdc.jpg"
         width: 800
@@ -72,25 +72,11 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 86
+    quality: 106
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106492061-1587056933761nadella_silver.jpg?v=1587057169"
         width: 1000
         height: 714
-        isCached: true
-  - title: "Prepare for an In-Demand Cloud Career With This Microsoft Azure Training Bundle"
-    excerpt: "Prepare for an In-Demand Cloud Career With This Microsoft Azure Training Bundle Whether you're looking for work or just want to keep your resume sharp, you can prepare for a career in this field with the Complete 2020 Microsoft Azure Certification Prep ..."
-    publishedDateTime: 2020-04-21T14:47:00Z
-    webUrl: "https://www.pcmag.com/deals/prepare-for-an-in-demand-cloud-career-with-this-microsoft-azure-training"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 73
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/045CdzWhI5UsL6d7JUERSJy-1.fit_lim.size_1200x630.v_1587455928.jpg"
-        width: 1120
-        height: 630
         isCached: true
   - title: "Microsoft partners with NBA to create direct-to-consumer platform for live and on-demand games"
     excerpt: "Microsoft on Thursday announced a multi-year partnership with the National Basketball Association and will help create a new direct-to-consumer platform that runs on the company’s cloud computing technology. The new service will stream live and on-demand game broadcasts via a personalized fan experience “that tailors the content to the ..."
@@ -102,25 +88,25 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 70
+    quality: 90
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2020/04/NBA_Microsoft_Co_Brand_-630x287.jpg"
         width: 630
         height: 287
         isCached: true
-  - title: "NBA taps Microsoft’s Azure cloud to enhance fans’ online experiences"
-    excerpt: "Microsoft Corp. has scored another big win today after the National Basketball Association said it will adopt its Azure cloud to enhance online experiences for its fans. In addition, NBA teams will use Microsoft Surface tablets in unspecified ways from the beginning of the league’s 2020-21 season, it was announced today. Microsoft has become ..."
-    publishedDateTime: 2020-04-17T02:55:00Z
-    webUrl: "https://siliconangle.com/2020/04/16/nba-taps-microsofts-azure-cloud-enhance-fans-online-experiences/"
+  - title: "Prepare for an In-Demand Cloud Career With This Microsoft Azure Training Bundle"
+    excerpt: "Prepare for an In-Demand Cloud Career With This Microsoft Azure Training Bundle Whether you're looking for work or just want to keep your resume sharp, you can prepare for a career in this field with the Complete 2020 Microsoft Azure Certification Prep ..."
+    publishedDateTime: 2020-04-21T14:47:00Z
+    webUrl: "https://www.pcmag.com/deals/prepare-for-an-in-demand-cloud-career-with-this-microsoft-azure-training"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 83
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/1.jpg"
-        width: 949
-        height: 433
+      - url: "https://i.pcmag.com/imagery/articles/045CdzWhI5UsL6d7JUERSJy-1.fit_lim.size_1200x630.v_1587455928.jpg"
+        width: 1120
+        height: 630
         isCached: true
   - title: "Microsoft and NBA announce multiyear partnership to deliver personalized game broadcasts"
     excerpt: "Microsoft and NBA will also collaborate on delivering live and on-demand game broadcasts. Microsoft along with NBA Digital will create a new direct-to-consumer platform on Azure cloud platform that will use machine learning and AI to deliver personalized game broadcasts and other content offerings. The NBA’s vast array of data sources and ..."
@@ -132,11 +118,25 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 33
+    quality: 53
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/04/Microsoft-NBA.jpg"
         width: 1160
         height: 578
+        isCached: true
+  - title: "NBA taps Microsoft’s Azure cloud to enhance fans’ online experiences"
+    excerpt: "Microsoft Corp. has scored another big win today after the National Basketball Association said it will adopt its Azure cloud to enhance online experiences for its fans. In addition, NBA teams will use Microsoft Surface tablets in unspecified ways from the beginning of the league’s 2020-21 season, it was announced today. Microsoft has become ..."
+    publishedDateTime: 2020-04-17T02:55:00Z
+    webUrl: "https://siliconangle.com/2020/04/16/nba-taps-microsofts-azure-cloud-enhance-fans-online-experiences/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 47
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/1.jpg"
+        width: 949
+        height: 433
         isCached: true
   - title: "NBA announces new multiyear partnership with Microsoft to redefine and personalize the fan experience"
     excerpt: "Microsoft becomes an Official Technology Partner for the NBA; together the companies will create a direct-to-consumer platform that delivers new fan engagement experiences and enhanced streaming capabilities powered by Microsoft Azure and its AI capabilities."
@@ -146,7 +146,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 7
+    quality: 17
     images:
       - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/prod/prod/2020/04/Option_3--1024x467.jpg"
         width: 1024

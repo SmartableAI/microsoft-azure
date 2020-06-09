@@ -7,7 +7,7 @@ webUrl: "https://www.foxbusiness.com/technology/judge-puts-amazon-challenge-to-p
 ampWebUrl: "https://www.foxbusiness.com/technology/judge-puts-amazon-challenge-to-pentagon-jedi-contract-on-hold.amp"
 cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/judge-puts-amazon-challenge-to-pentagon-jedi-contract-on-hold.amp"
 type: article
-quality: 22
+quality: 32
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200417&t=2&i=1515553285&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG3G2CA"
         width: 911
@@ -45,7 +45,7 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200417&t=2&i=1515553285&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG3G2CA"
         width: 911
@@ -61,7 +61,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F569046%2Fgettyimages-529769841.jpg&w=1200&op=resize"
         width: 1200
@@ -77,7 +77,7 @@ related:
     provider:
       name: The Next Web
       domain: thenextweb.com
-    quality: 78
+    quality: 98
     images:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/11/Amazon-cloud-796x404.jpg"
         width: 796
@@ -93,7 +93,7 @@ related:
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 74
+    quality: 94
     images:
       - url: "https://images.wsj.net/im-168451/social"
         width: 1280
@@ -109,7 +109,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 57
+    quality: 77
     images:
       - url: "https://i.insider.com/5e9dd03cc02320631f07df16?width=1200&format=jpeg"
         width: 1200
@@ -123,7 +123,7 @@ related:
     provider:
       name: Thurrott
       domain: thurrott.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2019/10/us-pentagon.jpg"
         width: 1280
@@ -137,7 +137,7 @@ related:
     provider:
       name: Stars and Stripes
       domain: stripes.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://www.stripes.com/polopoly_fs/1.626151.1586966540!/image/image.jpg_gen/derivatives/landscape_490/image.jpg"
         width: 490
@@ -151,7 +151,7 @@ related:
     provider:
       name: Defense News
       domain: defensenews.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://www.armytimes.com/resizer/4oY6QYiwbrQ_P1x7G8W5rhRChq4=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/YF6HUO4ZSVD2HL4ULQM3SV46UM.jpg"
         width: 1200
@@ -165,7 +165,7 @@ related:
     provider:
       name: ARN
       domain: arnnet.com.au
-    quality: 22
+    quality: 32
     images:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/pentagon.jpg"
         width: 800
@@ -179,7 +179,7 @@ related:
     provider:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://media.datacenterdynamics.com/media/images/ArmyCloud.2e16d0ba.fill-1200x630.jpg"
         width: 1200
@@ -193,7 +193,7 @@ related:
     provider:
       name: On MSFT
       domain: onmsft.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://i2.wp.com/www.onmsft.com/wp-content/uploads/2020/04/aws.png?fit=1200%2C892&ssl=1"
         width: 1200
@@ -211,7 +211,7 @@ related:
     provider:
       name: Federal Times
       domain: federaltimes.com
-    quality: 20
+    quality: 30
     images:
       - url: "https://www.armytimes.com/resizer/4oY6QYiwbrQ_P1x7G8W5rhRChq4=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/YF6HUO4ZSVD2HL4ULQM3SV46UM.jpg"
         width: 1200
@@ -225,7 +225,7 @@ related:
     provider:
       name: Federal Times
       domain: federaltimes.com
-    quality: 17
+    quality: 27
     images:
       - url: "https://www.armytimes.com/resizer/PAsw1-1BhUO77r_zGK1_xhhGs3o=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/WXVIJLL7IBHTZAHBV5NQLHTO4Y.jpg"
         width: 1200
@@ -241,7 +241,7 @@ related:
     provider:
       name: Washington Examiner
       domain: washingtonexaminer.com
-    quality: 7
+    quality: 17
 
 secured: "aKFiMZ46YFPEeT3unlyTuay4h6P2KGWP66KkLXaGTCKWq+VDtMAvQxeVaI7AbSSdULwH38pk/0V0UeYyGb+33InGC9Y8iV2KNHnpLd+2fzD1hEaR6Zx8DTwRos6L2WlGN7ZXf1pRXtx345IDVs7lZKsGjDxSgZ92haN29i/3qGgzq5/gkr5pQh4faOkyRB7pwlJjY4A+VptYysF+4yJaNgU7qTvbfpo/qSgeFmaMbhp+ehasxm4gGpkDolHFz7SybTUaYo2+5vToVECS7nZZ5RB7DQa/NN9d6DeTcjNPFOHhCynWCau9BOh6CEJc3zbCMl2HLteLEhTHaS/kAEFVXzdGfng0ApUP3ntCMMmaNMpPBnhKW6av3LKNX/Fuqh0fp5mkkMUhjff9od9W6Nw5IxrCSyaAmQO58hqMu9+gAlRF3TpdrCDGuO1JLpXViwKYATJS5quElB0DoTFue3m7qo1K0b8QBWsbe6r0x9yWunk=;ISTOQPtia53LggtyPJbc0g=="
 ---

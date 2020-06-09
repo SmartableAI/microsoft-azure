@@ -7,7 +7,7 @@ webUrl: "https://www.trustedreviews.com/hub/project-xcloud-release-date-specs-pr
 ampWebUrl: "https://www.trustedreviews.com/news/project-xcloud-release-date-specs-price-beta-3941204/amp"
 cdnAmpWebUrl: "https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/project-xcloud-release-date-specs-price-beta-3941204/amp"
 type: article
-quality: 42
+quality: 62
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 90
+    quality: 110
     images:
       - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/01/31/498597ad-dcee-4e11-a4d5-b7f4198633ee/thumbnail/1200x675/984b3432206a2880769db8d8ba69811c/developer-these-are-the-jobs-and-languag-5e32bce1aa40260001a3a3d6-1-jan-31-2020-10-36-41-poster.jpg"
         width: 1200
@@ -50,7 +50,7 @@ related:
     provider:
       name: Redmond Magazine
       domain: redmondmag.com
-    quality: 32
+    quality: 42
     images:
       - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2016/0916VRM_Take5.jpg"
         width: 647

@@ -5,7 +5,7 @@ excerpt: "With this certification, Discovery Hub is now a trusted application th
 publishedDateTime: 2020-04-30T00:00:00Z
 webUrl: "https://sdtimes.com/msft/timextender-discovery-hub-is-now-microsoft-azure-certified/"
 type: article
-quality: 77
+quality: 87
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 82
+    quality: 92
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/087e96ea-eb9f-4dcb-9d8b-22fa817b94bc.png"
         width: 1024
@@ -50,7 +50,7 @@ related:
     provider:
       name: CIO Dive
       domain: ciodive.com
-    quality: 17
+    quality: 27
     images:
       - url: "https://www.ciodive.com/user_media/cache/12/e2/12e2858c5eb8a7668a4ac74e3c216843.jpg"
         width: 770

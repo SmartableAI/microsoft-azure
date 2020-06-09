@@ -5,7 +5,7 @@ excerpt: "Amazon said the White House blocked a Pentagon watchdog's effort to pr
 publishedDateTime: 2020-04-16T17:06:00Z
 webUrl: "https://www.businessinsider.com/amazon-microsoft-trump-role-jedi-contract-2020-4"
 type: article
-quality: 31
+quality: 41
 heat: -1
 published: false
 
@@ -38,7 +38,7 @@ related:
     provider:
       name: UPI.com
       domain: upi.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/2041586970851/2020/1/05336528eb81c90191c1c01e6fd6d80b/v1.5/Pentagon-IG-No-proof-White-House-interfered-in-10B-Microsoft-contract.jpg"
         width: 800

@@ -5,8 +5,8 @@ excerpt: "Starting June 1, 2020, people detection will no longer occur and by Ju
 publishedDateTime: 2020-05-04T15:24:00Z
 webUrl: "https://www.petri.com/microsoft-to-retire-stream-people-timeline"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

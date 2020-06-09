@@ -7,7 +7,7 @@ webUrl: "https://www.fool.com/investing/2020/05/18/fedex-and-microsoft-create-an
 ampWebUrl: "https://www.fool.com/amp/investing/2020/05/18/fedex-and-microsoft-create-an-exciting-new-partner.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/18/fedex-and-microsoft-create-an-exciting-new-partner.aspx"
 type: article
-quality: 82
+quality: 102
 heat: -1
 published: false
 
@@ -40,7 +40,7 @@ related:
     provider:
       name: IT Pro
       domain: itpro.co.uk
-    quality: 97
+    quality: 117
     images:
       - url: "https://media.itpro.co.uk//image/upload/v1589818624/itpro/shutterstock_357803588.jpg"
         width: 2957
@@ -54,7 +54,7 @@ related:
     provider:
       name: Hack
       domain: securityintelligence.com
-    quality: 35
+    quality: 45
     images:
       - url: "https://securityintelligence.com/wp-content/uploads/2020/05/news_new-microsoft-azure-ad-sign-in-page-spoofed-in-numerous-phishing-campaigns.jpg"
         width: 1200

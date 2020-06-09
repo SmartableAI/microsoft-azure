@@ -7,8 +7,8 @@ webUrl: "https://www.pcmag.com/news/microsoft-updates-windows-azure-tools-with-a
 ampWebUrl: "https://www.pcmag.com/news/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=true"
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=true"
 type: article
-quality: 97
-heat: 157
+quality: 117
+heat: 177
 published: true
 
 provider:
@@ -38,7 +38,7 @@ related:
     provider:
       name: Redmond Channel Partner
       domain: rcpmag.com
-    quality: 37
+    quality: 47
     images:
       - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BrightTunnelSmall.jpg"
         width: 647
@@ -52,7 +52,7 @@ related:
     provider:
       name: Thurrott
       domain: thurrott.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/05/windows-terminal.jpg"
         width: 1280

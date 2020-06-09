@@ -5,8 +5,8 @@ excerpt: "Use features like client-side logging and other third-party tools to i
 publishedDateTime: 2020-05-08T05:18:00Z
 webUrl: "https://docs.microsoft.com/en-us/azure/cosmos-db/troubleshoot-java-sdk-v4-sql"
 type: article
-quality: 23
-heat: 23
+quality: 33
+heat: 33
 published: false
 
 provider:

@@ -5,8 +5,8 @@ excerpt: "Exchange-traded financial products—like stocks, treasuries, and curr
 publishedDateTime: 2020-04-22T09:00:31Z
 webUrl: "https://azure.microsoft.com/blog/azure-gpus-with-riskfuels-technology-offer-20-million-times-faster-valuation-of-derivatives/"
 type: article
-quality: 88
-heat: 88
+quality: 98
+heat: 98
 published: true
 
 provider:

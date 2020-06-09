@@ -7,9 +7,9 @@ webUrl: "https://www.forbes.com/sites/alexkonrad/2020/05/19/microsoft-ceo-satya-
 ampWebUrl: "https://www.forbes.com/sites/alexkonrad/2020/05/19/microsoft-ceo-satya-nadella-talks-software-in-covid-19-response/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexkonrad/2020/05/19/microsoft-ceo-satya-nadella-talks-software-in-covid-19-response/amp/"
 type: article
-quality: 66
-heat: 66
-published: false
+quality: 86
+heat: 86
+published: true
 
 provider:
   name: Forbes

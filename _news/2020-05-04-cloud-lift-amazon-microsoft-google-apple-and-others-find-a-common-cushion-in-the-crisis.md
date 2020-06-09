@@ -7,7 +7,7 @@ webUrl: "https://www.geekwire.com/2020/cloud-lift-amazon-microsoft-google-apple-
 ampWebUrl: "https://www.geekwire.com/2020/cloud-lift-amazon-microsoft-google-apple-others-finding-common-cushion-crisis/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/cloud-lift-amazon-microsoft-google-apple-others-finding-common-cushion-crisis/amp/"
 type: article
-quality: 72
+quality: 92
 heat: -1
 published: false
 
@@ -40,7 +40,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 88
+    quality: 108
     images:
       - url: "https://zdnet4.cbsistatic.com/hub/i/2020/01/21/9d349185-abe0-4f78-aed7-f1aa4a2010ee/istock-925557862.jpg"
         width: 1600
@@ -56,7 +56,7 @@ related:
     provider:
       name: winbuzzer.com
       domain: winbuzzer.com
-    quality: 57
+    quality: 77
     images:
       - url: "https://winbuzzer.com/wp-content/uploads/2016/04/Microsoft-Clouds-Pixels-Reuse.jpg"
         width: 1280
@@ -70,7 +70,7 @@ related:
     provider:
       name: ARN
       domain: arnnet.com.au
-    quality: 18
+    quality: 28
     images:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/aws_microsoft.jpg"
         width: 800
@@ -84,7 +84,7 @@ related:
     provider:
       name: WFMZ-TV
       domain: wfmz.com
-    quality: 18
+    quality: 28
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
         width: 1280

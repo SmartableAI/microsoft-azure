@@ -5,8 +5,8 @@ excerpt: "The Cloud Foundry Foundation, home to open source projects simplifying
 publishedDateTime: 2020-05-13T13:00:00Z
 webUrl: "https://www.prnewswire.com/news-releases/cloud-foundry-na-summits-initial-schedule-highlights-developer-experience-on-kubernetes-open-source-contributors-301058379.html"
 type: article
-quality: 0
-heat: 0
+quality: 10
+heat: 10
 published: false
 
 provider:

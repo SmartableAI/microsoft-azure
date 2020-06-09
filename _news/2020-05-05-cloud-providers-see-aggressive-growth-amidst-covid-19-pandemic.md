@@ -5,7 +5,7 @@ excerpt: "Q1 spend on cloud infrastructure services reached $29bn, up 37 percent
 publishedDateTime: 2020-05-05T08:59:00Z
 webUrl: "https://www.datacenterdynamics.com/en/news/cloud-providers-see-aggressive-growth-amidst-covid-19-outbreak/"
 type: article
-quality: 22
+quality: 32
 heat: -1
 published: false
 
@@ -32,7 +32,7 @@ related:
     provider:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://media.datacenterdynamics.com/media/images/Cloud.2e16d0ba.fill-1200x630_c0sdUHU.jpg"
         width: 1200

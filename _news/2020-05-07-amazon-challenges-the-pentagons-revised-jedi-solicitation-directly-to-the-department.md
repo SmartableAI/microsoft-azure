@@ -5,7 +5,7 @@ excerpt: "Amazon Web Services filed a bid protest directly to the Department of 
 publishedDateTime: 2020-05-07T22:19:00Z
 webUrl: "https://www.federaltimes.com/it-networks/cloud/2020/05/07/amazon-challenges-the-pentagons-revised-jedi-solicitation-directly-to-the-department/"
 type: article
-quality: 15
+quality: 25
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 70
+    quality: 90
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2016/04/20160404_Envision_07-1240x828.jpg"
         width: 1240
@@ -50,7 +50,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 67
+    quality: 87
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106474164-1585941999885gettyimages-939960022.jpeg?v=1585942142"
         width: 5253
@@ -66,7 +66,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 48
+    quality: 68
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2019/11/microsoft-630x473.jpg"
         width: 630
@@ -82,7 +82,7 @@ related:
     provider:
       name: Barron's
       domain: barrons.com
-    quality: 40
+    quality: 60
     images:
       - url: "https://images.barrons.com/im-188060/social"
         width: 1280
@@ -98,7 +98,7 @@ related:
     provider:
       name: The Register
       domain: theregister.co.uk
-    quality: 34
+    quality: 54
     images:
       - url: "https://regmedia.co.uk/2017/12/19/lightsaber.jpg"
         width: 648

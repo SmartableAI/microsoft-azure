@@ -5,8 +5,8 @@ excerpt: "A new business intelligence report released by Advance Market Analytic
 publishedDateTime: 2020-05-20T07:04:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-native-software-market-rising-trends-and-new-technologies-with-ibm-nokia-onica-microsoft-azure-2020-05-20"
 type: article
-quality: 61
-heat: 121
+quality: 71
+heat: 131
 published: true
 
 provider:
@@ -36,7 +36,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
+    quality: 70
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -50,7 +50,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -64,7 +64,7 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 37
+    quality: 47
     images:
       - url: "https://mms.businesswire.com/media/20200520005045/en/792654/23/LoginVSI_logo_RGB_primary_110419.jpg"
         width: 1200

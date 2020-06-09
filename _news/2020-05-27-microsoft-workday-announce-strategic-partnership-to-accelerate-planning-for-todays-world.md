@@ -5,7 +5,7 @@ excerpt: "Microsoft (NASDAQ: MSFT) and Workday Inc. (NASDAQ: WDAY) today announc
 publishedDateTime: 2020-05-27T20:05:00Z
 webUrl: "https://www.marketwatch.com/press-release/microsoft-workday-announce-strategic-partnership-to-accelerate-planning-for-todays-world-2020-05-27"
 type: article
-quality: 52
+quality: 62
 heat: -1
 published: false
 
@@ -38,7 +38,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 84
+    quality: 104
     images:
       - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/01/27/b045ccbf-d935-4681-8c2f-109b2e2394e8/thumbnail/1200x675/5f20b958b20a2b546b9a0a796b3fc2bd/workday-building-sign.jpg"
         width: 1200
@@ -54,7 +54,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://tr1.cbsistatic.com/hub/i/r/2020/05/21/4890c091-c9c9-42bc-8e04-7d8f006e2ab6/thumbnail/1200x675/e6a33716e2fd7c19f5d4d89d110a3b0c/20200520-owen-karen.jpg"
         width: 1200
@@ -70,7 +70,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 56
+    quality: 76
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Microsoft-Workday.jpg"
         width: 801
@@ -86,7 +86,7 @@ related:
     provider:
       name: winbuzzer.com
       domain: winbuzzer.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://winbuzzer.com/wp-content/uploads/2019/12/Microsoft-Cologne-Office-Pixabay.jpg"
         width: 957
@@ -100,7 +100,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 37
+    quality: 47
     images:
       - url: "https://docs.microsoft.com/en-us/learn/certifications/posts/images/understanding-azure-poster.png"
         width: 1024

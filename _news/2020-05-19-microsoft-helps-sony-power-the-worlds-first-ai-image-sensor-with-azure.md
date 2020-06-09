@@ -5,7 +5,7 @@ excerpt: "Sony is the top image sensor supplier to the smartphone industry and h
 publishedDateTime: 2020-05-19T16:59:00Z
 webUrl: "https://siliconangle.com/2020/05/19/microsoft-helps-sony-power-worlds-first-ai-image-sensor-azure/"
 type: article
-quality: 37
+quality: 47
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: SlashGear
       domain: slashgear.com
-    quality: 97
+    quality: 117
     images:
       - url: "https://cdn.slashgear.com/wp-content/uploads/2020/05/sony-intelligent-vision-sensor-1.jpg"
         width: 2307
@@ -50,7 +50,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 97
+    quality: 117
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2020/05/sony-to-use-microsoft-azure-arti-1260x709.jpg"
         width: 1260
@@ -66,7 +66,7 @@ related:
     provider:
       name: Engadget
       domain: engadget.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F9229e060-999b-11ea-939f-54acbb91a315&client=amp-blogside-v2&signature=f4675774e49d1699bc2ea8c11f3f382adaf9a6e7"
         width: 600
@@ -82,7 +82,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 78
+    quality: 98
     images:
       - url: "https://zdnet2.cbsistatic.com/hub/i/2020/05/15/d4d0aec9-a68d-4c05-93a1-1983d4569593/sony-sensor.jpg"
         width: 360
@@ -98,7 +98,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 76
+    quality: 96
     images:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F575066%2Findustrial-monitor-camera.jpg&w=1200&op=resize"
         width: 1200
@@ -114,7 +114,7 @@ related:
     provider:
       name: Windows Central
       domain: windowscentral.com
-    quality: 57
+    quality: 77
     images:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg?itok=T29z3T0D"
         width: 800
@@ -128,7 +128,7 @@ related:
     provider:
       name: SiliconRepublic
       domain: siliconrepublic.com
-    quality: 37
+    quality: 47
     images:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/05/microsoft-1.png"
         width: 1200

@@ -7,7 +7,7 @@ webUrl: "https://www.forbes.com/sites/moorinsights/2020/05/20/microsoft-builds-m
 ampWebUrl: "https://www.forbes.com/sites/moorinsights/2020/05/20/microsoft-builds-massive-supercomputer-for-openai/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/05/20/microsoft-builds-massive-supercomputer-for-openai/amp/"
 type: article
-quality: 62
+quality: 72
 heat: -1
 published: false
 
@@ -33,7 +33,7 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://cnet1.cbsistatic.com/img/TEkbzdFayDjsegaDhc8T7JF9qVI=/756x567/2018/11/10/97f08e96-4be4-41b1-acdc-43595379dfe1/llnl-sierra-supercomputer-randy-wong.jpg"
         width: 756
@@ -49,7 +49,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2020/05/MSFT-Nadella-OpenAI-Altman.jpg"
         width: 630
@@ -63,7 +63,7 @@ related:
     provider:
       name: The Next Web
       domain: thenextweb.com
-    quality: 55
+    quality: 65
     images:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Microsoft-supercomputer-796x418.jpg"
         width: 796
@@ -77,7 +77,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 55
+    quality: 65
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/05/Supercomputer-e1589742859682.jpg?w=1200&#038;strip=all"
         width: 1200
@@ -91,7 +91,7 @@ related:
     provider:
       name: Data Center Knowledge
       domain: datacenterknowledge.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/sam%20altman%20openai%20techcrunch%20disrupt%202019%20getty.jpg"
         width: 1024

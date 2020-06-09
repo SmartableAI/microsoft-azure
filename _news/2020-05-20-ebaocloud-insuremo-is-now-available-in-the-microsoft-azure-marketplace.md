@@ -5,7 +5,7 @@ excerpt: "SHANGHAI, May 20, 2020 /PRNewswire/ -- eBaoTech Corporation today anno
 publishedDateTime: 2020-05-20T15:30:00Z
 webUrl: "https://www.prnewswire.com/in/news-releases/ebaocloud-insuremo-is-now-available-in-the-microsoft-azure-marketplace-800602677.html"
 type: article
-quality: 37
+quality: 47
 heat: -1
 published: false
 
@@ -32,7 +32,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -48,7 +48,7 @@ related:
     provider:
       name: GMA Network
       domain: gmanetwork.com
-    quality: 20
+    quality: 30
 
 secured: "9hrQ+fTFHx9xGqgk3+RzLf50LNWM6+UDR1wMP8igR/mHrYOkgN6Mh0AIVc4KWvXB4+eBJuzQBPqFqKGGra38Ov/6oMEjFFYgf3FMataz0XJH3uvJLuUQ3P3NsNAPlr0DLWizNPpztftHJr9w+YIQ/NtUFYwUGOh8gIqpM9XTMtzGF/++qXneqxRgHSjC+4czEVDevcJi4CvbXgUu29ZGY6KO0FybB8OYi5fMmf09XsZ+ApQSa6GgkrH/SuS2LtjdQuPinxo0S9NdEzWXV96jw7LwgrE+uxR2T9OMmT7tldc5FFeN2UvpE1IOuOTJk0oC;69SYvbSv+3SwSE4zFEB8Aw=="
 ---

@@ -5,8 +5,8 @@ excerpt: "We are excited to announce the general availability of multi-protocol 
 publishedDateTime: 2019-11-26T13:00:34Z
 webUrl: "https://azure.microsoft.com/blog/multi-protocol-access-on-data-lake-storage-now-generally-available/"
 type: article
-quality: 84
-heat: 124
+quality: 94
+heat: 134
 published: true
 
 provider:

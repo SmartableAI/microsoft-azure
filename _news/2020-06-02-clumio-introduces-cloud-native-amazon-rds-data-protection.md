@@ -5,8 +5,8 @@ excerpt: "Clumio Backup-as-a-Service for RDS gives data air-gap protection so it
 publishedDateTime: 2020-06-02T13:35:00Z
 webUrl: "https://www.crn.com/news/storage/clumio-introduces-cloud-native-amazon-rds-data-protection"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/database-week-microsoft-oems-redis-enterp
 ampWebUrl: "https://www.zdnet.com/google-amp/article/database-week-microsoft-oems-redis-enterprise-for-azure/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/database-week-microsoft-oems-redis-enterprise-for-azure/"
 type: article
-quality: 97
-heat: 177
+quality: 117
+heat: 197
 published: true
 
 provider:
@@ -40,7 +40,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 97
+    quality: 117
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1207074418.jpg?w=1024"
         width: 1024
@@ -63,7 +63,7 @@ related:
     provider:
       name: eWeek
       domain: eweek.com
-    quality: 62
+    quality: 72
     images:
       - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2020/05/Microsoft365logo.jpg?alias=social_image"
         width: 560
@@ -77,7 +77,7 @@ related:
     provider:
       name: Help Net Security
       domain: helpnetsecurity.com
-    quality: 26
+    quality: 36
     images:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
         width: 304

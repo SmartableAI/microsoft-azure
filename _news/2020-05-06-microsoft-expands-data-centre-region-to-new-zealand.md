@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/microsoft-expands-data-centre-region-to-n
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-expands-data-centre-region-to-new-zealand/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-expands-data-centre-region-to-new-zealand/"
 type: article
-quality: 82
-heat: 122
+quality: 102
+heat: 142
 published: true
 
 provider:
@@ -40,7 +40,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-109864162.jpg?w=1024"
         width: 1024
@@ -54,7 +54,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/5123115445_6103d93ab6_h.jpg"
         width: 1316

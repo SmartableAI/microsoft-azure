@@ -5,7 +5,7 @@ excerpt: "Power supply maker and energy management solution provider Delta Elect
 publishedDateTime: 2020-05-20T07:43:00Z
 webUrl: "https://www.digitimes.com/news/a20200520PD201.html"
 type: article
-quality: 37
+quality: 47
 heat: -1
 published: false
 
@@ -32,7 +32,7 @@ related:
     provider:
       name: SmartData Collective
       domain: smartdatacollective.com
-    quality: 37
+    quality: 47
     images:
       - url: "https://www.smartdatacollective.com/wp-content/uploads/2017/09/Ecommerce-data.jpg"
         width: 1000
@@ -46,7 +46,7 @@ related:
     provider:
       name: Help Net Security
       domain: helpnetsecurity.com
-    quality: 32
+    quality: 42
     images:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
         width: 304
@@ -60,7 +60,7 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 21
+    quality: 31
     images:
       - url: "https://mms.businesswire.com/media/20200512005049/en/770646/23/capgemini_logo.jpg"
         width: 1200

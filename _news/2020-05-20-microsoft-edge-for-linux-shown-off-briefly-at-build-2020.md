@@ -7,8 +7,8 @@ webUrl: "https://www.windowscentral.com/microsoft-edge-linux-shown-briefly-build
 ampWebUrl: "https://www.windowscentral.com/microsoft-edge-linux-shown-briefly-build-2020?amp"
 cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-edge-linux-shown-briefly-build-2020?amp"
 type: article
-quality: 42
-heat: 42
+quality: 62
+heat: 62
 published: false
 
 provider:

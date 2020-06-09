@@ -5,8 +5,8 @@ excerpt: "With agreement to purchase Metaswitch, Microsoft is laying the groundw
 publishedDateTime: 2020-05-14T22:40:00Z
 webUrl: "https://www.crn.com/news/cloud/microsoft-buying-metaswitch-setting-the-table-for-major-5g-play"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

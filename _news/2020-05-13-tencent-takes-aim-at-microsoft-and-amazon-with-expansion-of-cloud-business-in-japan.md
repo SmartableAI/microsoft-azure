@@ -5,7 +5,7 @@ excerpt: "A division of Chinese internet services giant Tencent Holdings Ltd. wi
 publishedDateTime: 2020-05-13T04:03:00Z
 webUrl: "https://www.japantimes.co.jp/news/2020/05/13/business/corporate-business/tencent-cloud-computing/"
 type: article
-quality: 16
+quality: 26
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://www.benzinga.com/files/images/story/2012/building-1011876_1920_1_4.jpg"
         width: 1920
@@ -50,7 +50,7 @@ related:
     provider:
       name: WRIC
       domain: wric.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://www.wric.com/wp-content/uploads/sites/74/2020/04/2a643fc1b1fb4a6ca0c2ce8d387c3860.jpg?w=1280&h=720&crop=1"
         width: 1280
@@ -66,7 +66,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 34
+    quality: 54
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Microsoft-Microvision.jpg"
         width: 962

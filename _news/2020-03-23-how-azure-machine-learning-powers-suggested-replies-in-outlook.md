@@ -5,8 +5,8 @@ excerpt: "Microsoft 365 applications are so commonplace that it’s easy to over
 publishedDateTime: 2020-03-23T09:00:07Z
 webUrl: "https://azure.microsoft.com/blog/how-azure-machine-learning-service-powers-suggested-replies-in-outlook/"
 type: article
-quality: 114
-heat: 114
+quality: 124
+heat: 124
 published: true
 
 provider:

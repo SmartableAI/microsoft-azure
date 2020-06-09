@@ -5,8 +5,8 @@ excerpt: "A look at IGV’s primary holdings and composition. High demand for CS
 publishedDateTime: 2020-05-04T06:13:00Z
 webUrl: "https://seekingalpha.com/article/4342569-ishares-expanded-tech-software-sector-etf-set-to-soar-cloud-based-software-advances"
 type: article
-quality: 14
-heat: 14
+quality: 24
+heat: 24
 published: false
 
 provider:

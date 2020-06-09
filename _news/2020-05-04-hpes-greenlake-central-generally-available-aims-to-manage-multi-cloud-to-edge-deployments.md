@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/hpes-greenlake-central-generally-availabl
 ampWebUrl: "https://www.zdnet.com/google-amp/article/hpes-greenlake-central-generally-available-aims-to-manage-multi-cloud-to-edge-deployments/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hpes-greenlake-central-generally-available-aims-to-manage-multi-cloud-to-edge-deployments/"
 type: article
-quality: 72
-heat: 92
+quality: 92
+heat: 112
 published: true
 
 provider:
@@ -38,7 +38,7 @@ related:
     provider:
       name: Help Net Security
       domain: helpnetsecurity.com
-    quality: 13
+    quality: 23
     images:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
         width: 304

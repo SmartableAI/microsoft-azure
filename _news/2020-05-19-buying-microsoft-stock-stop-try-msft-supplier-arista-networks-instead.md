@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/greatspeculations/2020/05/19/buying-micros
 ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2020/05/19/buying-microsoft-stock-stop-try-msft-supplier-arista-networks-instead/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2020/05/19/buying-microsoft-stock-stop-try-msft-supplier-arista-networks-instead/amp/"
 type: article
-quality: 62
-heat: 102
+quality: 72
+heat: 112
 published: true
 
 provider:
@@ -33,7 +33,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 62
+    quality: 72
   - title: "Is It Time to Tap the Brakes on Microsoft Stock?"
     excerpt: "Microsoft stock is up 10% post earnings. But the consensus analysts' opinion suggests the stock may have reached its short-term price target."
     publishedDateTime: 2020-05-13T15:15:00Z
@@ -44,7 +44,7 @@ related:
     provider:
       name: InvestorPlace
       domain: investorplace.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://investorplace.com/wp-content/uploads/2019/10/msft1600f.jpg"
         width: 1600

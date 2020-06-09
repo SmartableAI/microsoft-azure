@@ -5,8 +5,8 @@ excerpt: "A new market study on Global Hybrid and Community Cloud as a Service M
 publishedDateTime: 2020-05-22T06:43:00Z
 webUrl: "https://www.marketwatch.com/press-release/hybrid-and-community-cloud-as-a-service-market-major-technology-giants-in-buzz-again-blackirondata-cumulogic-emc-microsoft-2020-05-22"
 type: article
-quality: 34
-heat: 34
+quality: 44
+heat: 44
 published: false
 
 provider:

@@ -7,7 +7,7 @@ webUrl: "https://yourstory.com/2020/05/coronavirus-microsoft-india-ai-cybersecur
 ampWebUrl: "https://yourstory.com/2020/05/coronavirus-microsoft-india-ai-cybersecurity/amp"
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/05/coronavirus-microsoft-india-ai-cybersecurity/amp"
 type: article
-quality: 32
+quality: 52
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: Mint
       domain: livemint.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://images.livemint.com/img/2020/05/18/600x338/18f773e811c64588bb749e45635cb30c-18f773e811c64588bb749e45635cb30c-1_1589775788668_1589775795557.jpg"
         width: 600
@@ -50,7 +50,7 @@ related:
     provider:
       name: WSB-TV
       domain: wsbtv.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://www.wsbtv.com/resizer/29D4JELtDtqFTk_HhonuArc5REk=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/AYFWWSJOZVCPTCVUF547WKLGTQ.jpg"
         width: 1200
@@ -64,7 +64,7 @@ related:
     provider:
       name: WSB-TV
       domain: wsbtv.com
-    quality: 19
+    quality: 29
     images:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/COEABQVPO6FT5YXM563W5YSTQY.jpg"
         width: 1200

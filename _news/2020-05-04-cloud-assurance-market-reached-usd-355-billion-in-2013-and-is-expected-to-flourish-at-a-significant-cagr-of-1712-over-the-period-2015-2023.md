@@ -5,8 +5,8 @@ excerpt: "The report titled \"Cloud Assurance Market: Global Demand Analysis & 
 publishedDateTime: 2020-05-04T10:50:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-assurance-market-reached-usd-355-billion-in-2013-and-is-expected-to-flourish-at-a-significant-cagr-of-1712-over-the-period-2015-2023-2020-05-04"
 type: article
-quality: 27
-heat: 27
+quality: 37
+heat: 37
 published: false
 
 provider:

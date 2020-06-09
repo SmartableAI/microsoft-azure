@@ -5,8 +5,8 @@ excerpt: "From its chat-based interface, integrations with other Microsoft apps,
 publishedDateTime: 2020-06-01T16:06:00Z
 webUrl: "https://www.onmsft.com/how-to/top-three-ways-to-get-the-most-out-of-microsoft-teams-for-your-small-business"
 type: article
-quality: 19
-heat: 19
+quality: 29
+heat: 29
 published: false
 
 provider:

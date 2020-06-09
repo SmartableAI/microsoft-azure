@@ -7,8 +7,8 @@ webUrl: "https://www.pymnts.com/subscriptions/2020/samsung-launches-subscription
 ampWebUrl: "https://www.pymnts.com/subscriptions/2020/samsung-launches-subscription-pairs-galaxy-phones-microsoft-365/amp/"
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/subscriptions/2020/samsung-launches-subscription-pairs-galaxy-phones-microsoft-365/amp/"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

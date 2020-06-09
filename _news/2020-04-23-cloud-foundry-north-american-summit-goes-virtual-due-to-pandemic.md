@@ -5,8 +5,8 @@ excerpt: "Cloud Foundry Foundation, home to open source projects simplifying the
 publishedDateTime: 2020-04-23T16:00:00Z
 webUrl: "https://www.prnewswire.com/news-releases/cloud-foundry-north-american-summit-goes-virtual-due-to-pandemic-301046072.html"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/a-closer-look-at-microsoft-azure-synapse-
 ampWebUrl: "https://www.zdnet.com/google-amp/article/a-closer-look-at-microsoft-azure-synapse-analytics/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-closer-look-at-microsoft-azure-synapse-analytics/"
 type: article
-quality: 97
-heat: 177
+quality: 117
+heat: 197
 published: true
 
 provider:
@@ -38,7 +38,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 77
+    quality: 87
     images:
       - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
         width: 300
@@ -52,7 +52,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 77
+    quality: 87
     images:
       - url: "https://images.techhive.com/images/article/2016/12/thumbs-up-multicultural-100701134-large.jpg"
         width: 700
@@ -66,7 +66,7 @@ related:
     provider:
       name: SD Times
       domain: sdtimes.com
-    quality: 77
+    quality: 87
     images:
       - url: "https://sdtimes.com/wp-content/uploads/2015/04/0420.sdt-azure-service-fabric.png"
         width: 1024
@@ -80,7 +80,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 37
+    quality: 47
     images:
       - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
         width: 400

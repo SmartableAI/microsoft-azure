@@ -5,8 +5,8 @@ excerpt: "PORTLAND, Ore., April 28, 2020 (GLOBE NEWSWIRE) -- Rigado announced to
 publishedDateTime: 2020-04-28T15:00:00Z
 webUrl: "https://www.marketwatch.com/press-release/rigado-introduces-presto-kit-for-real-time-monitoring-with-microsoft-azure-iot-2020-04-28"
 type: article
-quality: 73
-heat: 93
+quality: 83
+heat: 103
 published: true
 
 provider:
@@ -38,7 +38,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 70
+    quality: 80
 
 secured: "z22XUGI2Yl6xiVyKknvjox9Fw9mAE/QH7/6n5VGtACaQRjJW3lksjoYItg8Mju0mbSF4nUuJwY+7l8Ff+mGEYkhoGCsdqMhrN5z6bBKLd9Xy+6LPnFNT4X283m/CH3NtbdsGG+R0/QNe3Qo05jqCCuEOVnRoQQp7JeoW53yGuWLnnjvsbSzVV5BixgznQTMnh0AZtpQamkeib39Vjf2uMW2F5EgZS59V8hTUxrllj2k4FkyZ3cZoRTs6lHJoIrrGog0MpcXFOtdEMHcWTTp5w7NbFkudWokmM245znaYzpOOZeOKqpvEnF6Pi7PAdFxz;1LoNruI+htBkDB0MIKZKkg=="
 ---

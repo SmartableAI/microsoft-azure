@@ -5,7 +5,7 @@ excerpt: "We've compiled the ultimate GCP vs. Azure guide that takes a deep dive
 publishedDateTime: 2020-04-16T18:20:00Z
 webUrl: "https://www.infoworld.com/resources/201378/google-cloud-platform-vs-microsoft-azure"
 type: article
-quality: 77
+quality: 87
 heat: -1
 published: false
 
@@ -38,7 +38,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 97
+    quality: 117
     images:
       - url: "https://zdnet4.cbsistatic.com/hub/i/2020/04/14/ae52840f-bd1d-4e9d-8ec2-114e56664784/synapse.jpg"
         width: 750
@@ -52,7 +52,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 77
+    quality: 87
     images:
       - url: "https://images.techhive.com/images/article/2016/12/thumbs-up-multicultural-100701134-large.jpg"
         width: 700
@@ -66,7 +66,7 @@ related:
     provider:
       name: SD Times
       domain: sdtimes.com
-    quality: 77
+    quality: 87
     images:
       - url: "https://sdtimes.com/wp-content/uploads/2015/04/0420.sdt-azure-service-fabric.png"
         width: 1024
@@ -80,7 +80,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 37
+    quality: 47
     images:
       - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
         width: 400

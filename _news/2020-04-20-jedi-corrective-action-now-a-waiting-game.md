@@ -5,7 +5,7 @@ excerpt: "DOD's corrective action means Amazon Web Services at least gets a seco
 publishedDateTime: 2020-04-20T18:14:00Z
 webUrl: "https://washingtontechnology.com/articles/2020/04/20/jedi-remand-waiting.aspx"
 type: article
-quality: 22
+quality: 32
 heat: -1
 published: false
 
@@ -32,7 +32,7 @@ related:
     provider:
       name: FedScoop
       domain: fedscoop.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://www.fedscoop.com/wp-content/uploads/2019/05/GettyImages-913078628.jpg"
         width: 2121

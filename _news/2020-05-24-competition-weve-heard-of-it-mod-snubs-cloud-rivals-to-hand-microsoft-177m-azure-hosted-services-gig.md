@@ -7,9 +7,9 @@ webUrl: "https://go.theregister.co.uk/feed/www.theregister.co.uk/2020/05/22/micr
 ampWebUrl: "https://www.theregister.co.uk/AMP/2020/05/22/microsoft_bags_18_million_mod/"
 cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/22/microsoft_bags_18_million_mod/"
 type: article
-quality: 40
-heat: 40
-published: false
+quality: 60
+heat: 80
+published: true
 
 provider:
   name: The Register
@@ -36,7 +36,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 37
+    quality: 57
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Microsoft-UK.jpg"
         width: 1000

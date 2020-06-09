@@ -5,7 +5,7 @@ excerpt: "Latest Research Study on Global Hybrid Cloud Management Platform Marke
 publishedDateTime: 2020-05-25T05:17:00Z
 webUrl: "https://www.marketwatch.com/press-release/hybrid-cloud-management-platform-market-is-thriving-worldwide-by-2025-microsoft-ibm-dell-2020-05-25"
 type: article
-quality: 51
+quality: 61
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 61
+    quality: 71
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -50,7 +50,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
+    quality: 70
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -64,7 +64,7 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 37
+    quality: 47
     images:
       - url: "https://mms.businesswire.com/media/20200520005045/en/792654/23/LoginVSI_logo_RGB_primary_110419.jpg"
         width: 1200

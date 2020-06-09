@@ -5,7 +5,7 @@ excerpt: "GitHub collaborated with the team from Microsoft Visual Studio Code, a
 publishedDateTime: 2020-05-06T16:34:00Z
 webUrl: "https://www.businessinsider.com/microsoft-github-launches-discussions-codespaces-security-features-2020-5"
 type: article
-quality: 27
+quality: 37
 heat: -1
 published: false
 
@@ -38,7 +38,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/03/660bb6e9-3d0d-4d1d-aaf1-2ed92febe618/thumbnail/1200x675/bb2ba3d4b429e7461f5a07f045166d0e/wvdmsixappattach.jpg"
         width: 1200

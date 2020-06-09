@@ -7,8 +7,8 @@ webUrl: "https://www.marketwatch.com/story/microsofts-push-to-the-cloud-may-save
 ampWebUrl: "https://www.marketwatch.com/amp/story/guid/B0912E66-8017-11EA-ACD4-37694A66548C"
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/B0912E66-8017-11EA-ACD4-37694A66548C"
 type: article
-quality: 82
-heat: 82
+quality: 102
+heat: 102
 published: true
 
 provider:

@@ -5,8 +5,8 @@ excerpt: "New findings from Synergy Research Group has revealed that cloud spend
 publishedDateTime: 2020-05-04T13:02:00Z
 webUrl: "https://www.datacenterdynamics.com/en/news/cloud-providers-see-aggressive-growth-amidst-covid-19-outbreak/"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:
@@ -32,7 +32,7 @@ related:
     provider:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://media.datacenterdynamics.com/media/images/Cloud.2e16d0ba.fill-1200x630_c0sdUHU.jpg"
         width: 1200

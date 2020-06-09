@@ -5,7 +5,7 @@ excerpt: ""
 publishedDateTime: 2020-05-06T16:00:10Z
 webUrl: "https://azure.microsoft.com/en-us/updates/view-and-navigate-through-changes-across-multiple-resources/"
 type: article
-quality: 82
+quality: 92
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 97
+    quality: 107
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/3fbf642e-2fbe-4517-a4d6-032c7847f314.png"
         width: 698

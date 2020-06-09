@@ -7,8 +7,8 @@ webUrl: "https://www.geekwire.com/2020/amazon-rips-microsoft-spotty-operational-
 ampWebUrl: "https://www.geekwire.com/2020/amazon-rips-microsoft-spotty-operational-performance-covid-19-crisis/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazon-rips-microsoft-spotty-operational-performance-covid-19-crisis/amp/"
 type: article
-quality: 75
-heat: 95
+quality: 95
+heat: 115
 published: true
 
 provider:
@@ -40,7 +40,7 @@ related:
     provider:
       name: Computer Business Review
       domain: cbronline.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://www.cbronline.com/wp-content/uploads/2020/05/lopez-robin-1JS6n1uT-uI-unsplash-1024x656.jpg"
         width: 1024

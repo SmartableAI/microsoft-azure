@@ -5,7 +5,7 @@ excerpt: "Looking to earn an Azure certification? Our portfolio spans from funda
 publishedDateTime: 2020-05-23T05:22:00Z
 webUrl: "https://docs.microsoft.com/en-us/learn/certifications/posts/finding-the-right-microsoft-azure-certification-for-you"
 type: article
-quality: 37
+quality: 47
 heat: -1
 published: false
 
@@ -38,7 +38,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://tr2.cbsistatic.com/hub/i/r/2020/01/27/d505bbe9-3a79-428e-b3fc-2df23032fe7a/thumbnail/1200x675/4d963c918ba08a8a098d2d502246c0f5/20200124-macy-karen.jpg"
         width: 1200
@@ -54,7 +54,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed3e134dc72730006b73a6e%2F0x0.jpg"
         width: 1000

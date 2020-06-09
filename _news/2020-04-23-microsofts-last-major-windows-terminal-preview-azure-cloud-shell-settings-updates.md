@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/microsofts-last-major-windows-terminal-pr
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-last-major-windows-terminal-preview-azure-cloud-shell-settings-updates/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-last-major-windows-terminal-preview-azure-cloud-shell-settings-updates/"
 type: article
-quality: 90
-heat: 130
+quality: 110
+heat: 150
 published: true
 
 provider:
@@ -40,7 +40,7 @@ related:
     provider:
       name: Trusted Reviews
       domain: trustedreviews.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://ksassets.timeincuk.net/wp/uploads/sites/54/2020/04/LYvQnsyMojMLkmuwm7MSbP-1024x576.jpg"
         width: 1024
@@ -54,7 +54,7 @@ related:
     provider:
       name: Redmond Magazine
       domain: redmondmag.com
-    quality: 32
+    quality: 42
     images:
       - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2016/0916VRM_Take5.jpg"
         width: 647

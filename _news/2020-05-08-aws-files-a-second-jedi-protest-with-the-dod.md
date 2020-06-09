@@ -7,9 +7,9 @@ webUrl: "https://www.bizjournals.com/washington/news/2020/05/07/aws-files-a-seco
 ampWebUrl: "https://www.bizjournals.com/washington/news/2020/05/07/aws-files-a-second-jedi-protest-with-the-dod.amp.html"
 cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/washington/news/2020/05/07/aws-files-a-second-jedi-protest-with-the-dod.amp.html"
 type: article
-quality: 42
-heat: 42
-published: false
+quality: 62
+heat: 122
+published: true
 
 provider:
   name: The Business Journals
@@ -34,7 +34,7 @@ related:
     provider:
       name: Federal Computer Week
       domain: fcw.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Cloud/pentagoncloud2.png"
         width: 760
@@ -50,7 +50,7 @@ related:
     provider:
       name: Law360
       domain: law360.com
-    quality: 22
+    quality: 32
   - title: "Amazon files new protest over ‘fatally flawed’ JEDI cloud computing contract award"
     excerpt: "In an increasingly sharp war of words and legal maneuvers, Amazon Web Services Inc. is stepping up its protest of the Joint Enterprise Defense Infrastructure cloud contract award, asking the U.S. Department of Defense for more clarity around corrective action it has proposed taking."
     publishedDateTime: 2020-05-08T12:17:00Z
@@ -59,7 +59,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 16
+    quality: 26
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/pentagon-720022_1280-AutoGirl-Pixabay.jpg"
         width: 1280

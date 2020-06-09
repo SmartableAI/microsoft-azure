@@ -5,8 +5,8 @@ excerpt: "VPNs are commonly used to give users working from home access to corpo
 publishedDateTime: 2020-05-27T19:25:00Z
 webUrl: "https://petri.com/split-tunnel-vpns-improve-performance-of-cloud-apps-for-remote-workers"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

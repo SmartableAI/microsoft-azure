@@ -7,8 +7,8 @@ webUrl: "https://www.cio.com/article/3541069/four-advantages-of-offloading-your-
 ampWebUrl: "https://www.cio.com/article/3541069/four-advantages-of-offloading-your-hybrid-cloud-management.amp.html"
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3541069/four-advantages-of-offloading-your-hybrid-cloud-management.amp.html"
 type: article
-quality: 42
-heat: 42
+quality: 62
+heat: 62
 published: false
 
 provider:

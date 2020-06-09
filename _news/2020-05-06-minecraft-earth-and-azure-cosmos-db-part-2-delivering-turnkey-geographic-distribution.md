@@ -30,7 +30,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 108
+    quality: 118
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/dfd8c989-e0f7-4554-8e02-d4fbc1046c4f.png"
         width: 634
@@ -44,7 +44,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 108
+    quality: 118
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2e4a9658-d476-4845-aae6-ac59a0d7b2d8.jpg"
         width: 640

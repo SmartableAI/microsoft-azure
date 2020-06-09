@@ -7,7 +7,7 @@ webUrl: "https://www.wric.com/news/microsofts-cloud-business-helps-offset-pandem
 ampWebUrl: "https://www.wric.com/news/microsofts-cloud-business-helps-offset-pandemic-woes/amp/"
 cdnAmpWebUrl: "https://www-wric-com.cdn.ampproject.org/c/s/www.wric.com/news/microsofts-cloud-business-helps-offset-pandemic-woes/amp/"
 type: article
-quality: 42
+quality: 62
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://www.benzinga.com/files/images/story/2012/building-1011876_1920_1_4.jpg"
         width: 1920
@@ -52,7 +52,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 34
+    quality: 54
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Microsoft-Microvision.jpg"
         width: 962
@@ -66,7 +66,7 @@ related:
     provider:
       name: The Japan Times
       domain: japantimes.co.jp
-    quality: 16
+    quality: 26
     images:
       - url: "https://cdn.japantimes.2xx.jp/wp-content/uploads/2020/05/np_file_11661.jpeg"
         width: 594

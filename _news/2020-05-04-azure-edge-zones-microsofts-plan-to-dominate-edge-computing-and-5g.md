@@ -5,7 +5,7 @@ excerpt: "Yousef Khalidi, corporate VP for Azure Networking, says the strategy i
 publishedDateTime: 2020-05-04T13:09:00Z
 webUrl: "https://www.datacenterknowledge.com/microsoft/azure-edge-zones-microsoft-s-plan-dominate-edge-computing-and-5g"
 type: article
-quality: 37
+quality: 47
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 80
+    quality: 100
     images:
       - url: "https://cnet4.cbsistatic.com/img/EPYaz_DlJY7PMJKlvlnwMTSlej0=/756x567/2020/04/28/63f9ebde-a7ac-489b-b5c7-7587c6ab3279/ibm-system-one-quantum-ces-2020.jpg"
         width: 756
@@ -50,7 +50,7 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 80
+    quality: 100
     images:
       - url: "https://cnet4.cbsistatic.com/img/EPYaz_DlJY7PMJKlvlnwMTSlej0=/756x567/2020/04/28/63f9ebde-a7ac-489b-b5c7-7587c6ab3279/ibm-system-one-quantum-ces-2020.jpg"
         width: 756
@@ -69,7 +69,7 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
-    quality: 22
+    quality: 32
 
 secured: "cDyhmDkPP0qEibnLnRSdQ3r0vvgi8aS0aLkSfrm4nTVISUC9i9JAoerzFuqPrzT4GktdM7m1YlDCZb/zr4GqfIqeMTIVk5AmH1MGWeQkW1a7igdqnJGbPtj/ZNLTaJ8qZ40x1JUP3aoiTRS+ZREgTSiTooRawPOf/fBZmhDh0teaLn0uagTGm++iWm0OJXMy+Fek3U9ERFORmnEpEtcvf6Z8YrnVXnVUOpxcFREQDBoquWLFFXRRDHGPrdOoXr7qGSKimTq7HzdVX2KoyhrqUtk44X+tGlGUh18vGWRhVibcRb4FA+B7++AgPWxel1edupiQrrJoX89VwddG+7wffl++qLLbAqavXaZZF6+c7SXpOZbs9GrjNwpv/eS0psxdl2husr05dIU/gDGmErwclwJ6o92s5h0jBgBUI0r5KJUtnyrc2URb3CFE28stWjx5N5fwqfrcIL+c0xKbe0qPwQWkhqIN71b+pyvHPRhtxvE=;QJOvMjiD+LfSyayVxxWteA=="
 ---

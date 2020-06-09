@@ -5,7 +5,7 @@ excerpt: "ClearSale, an international fraud protection organization, announced i
 publishedDateTime: 2020-05-11T00:03:00Z
 webUrl: "https://www.helpnetsecurity.com/2020/05/11/clearsale-microsoft-azure/"
 type: article
-quality: 32
+quality: 42
 heat: -1
 published: false
 
@@ -32,7 +32,7 @@ related:
     provider:
       name: SmartData Collective
       domain: smartdatacollective.com
-    quality: 37
+    quality: 47
     images:
       - url: "https://www.smartdatacollective.com/wp-content/uploads/2017/09/Ecommerce-data.jpg"
         width: 1000
@@ -46,7 +46,7 @@ related:
     provider:
       name: Digi Times
       domain: digitimes.com
-    quality: 37
+    quality: 47
     images:
       - url: "https://www.digitimes.com/newsshow/20200520PD201_files/2_b.jpg"
         width: 640
@@ -60,7 +60,7 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 21
+    quality: 31
     images:
       - url: "https://mms.businesswire.com/media/20200512005049/en/770646/23/capgemini_logo.jpg"
         width: 1200

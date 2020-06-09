@@ -5,8 +5,8 @@ excerpt: "Shares of Zscaler Inc. set a new 52-week high price after the company 
 publishedDateTime: 2020-06-01T13:15:00Z
 webUrl: "https://www.investorideas.com/news/2020/defense/06011USDIU-SecureCloud.asp"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

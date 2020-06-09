@@ -5,8 +5,8 @@ excerpt: "The JEDI cloud saga only gets more intricate, sweeping and contentious
 publishedDateTime: 2020-04-29T18:06:00Z
 webUrl: "https://www.crn.com.au/news/heres-where-the-us-govts-jedi-cloud-program-stands-546952"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

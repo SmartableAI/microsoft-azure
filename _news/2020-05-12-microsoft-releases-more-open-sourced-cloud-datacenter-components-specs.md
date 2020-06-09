@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/microsoft-releases-more-open-sourced-clou
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-releases-more-open-sourced-cloud-datacenter-components-specs/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-releases-more-open-sourced-cloud-datacenter-components-specs/"
 type: article
-quality: 82
-heat: 122
+quality: 102
+heat: 142
 published: true
 
 provider:
@@ -38,7 +38,7 @@ related:
     provider:
       name: Dark Reading
       domain: darkreading.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
         width: 600

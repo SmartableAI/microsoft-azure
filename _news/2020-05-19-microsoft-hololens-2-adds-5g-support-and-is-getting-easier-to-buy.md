@@ -7,8 +7,8 @@ webUrl: "https://www.cnet.com/news/microsoft-hololens-2-adds-5g-support-and-is-g
 ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-hololens-2-adds-5g-support-and-is-getting-easier-to-buy/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-hololens-2-adds-5g-support-and-is-getting-easier-to-buy/"
 type: article
-quality: 82
-heat: 102
+quality: 102
+heat: 122
 published: true
 
 provider:

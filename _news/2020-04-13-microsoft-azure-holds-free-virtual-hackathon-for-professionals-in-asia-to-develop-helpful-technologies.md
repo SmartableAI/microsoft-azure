@@ -7,7 +7,7 @@ webUrl: "https://www.gmanetwork.com/news/scitech/technology/733783/microsoft-azu
 ampWebUrl: "https://www.gmanetwork.com/news/scitech/technology/733783/microsoft-azure-holds-free-virtual-hackathon-for-professionals-in-asia-to-develop-helpful-technologies/story/?amp"
 cdnAmpWebUrl: "https://www-gmanetwork-com.cdn.ampproject.org/c/s/www.gmanetwork.com/news/scitech/technology/733783/microsoft-azure-holds-free-virtual-hackathon-for-professionals-in-asia-to-develop-helpful-technologies/story/?amp"
 type: article
-quality: 20
+quality: 30
 heat: -1
 published: false
 
@@ -27,7 +27,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -41,7 +41,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 37
+    quality: 47
     images:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600

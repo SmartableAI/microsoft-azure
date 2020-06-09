@@ -5,8 +5,8 @@ excerpt: "This sample shows how to set up an write a .NET Function app which wri
 publishedDateTime: 2020-04-27T21:39:00Z
 webUrl: "https://docs.microsoft.com/en-us/samples/azure/azure-functions-kafka-extension-sample-confluent/azure-functions-kafka-extension-sample-using-confluent-cloud/"
 type: article
-quality: 37
-heat: 37
+quality: 47
+heat: 47
 published: false
 
 provider:

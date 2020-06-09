@@ -7,9 +7,9 @@ webUrl: "https://www.windowscentral.com/microsoft-flight-simulator-clouds-are-th
 ampWebUrl: "https://www.windowscentral.com/microsoft-flight-simulator-clouds-are-thing-true-beauty?amp"
 cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-flight-simulator-clouds-are-thing-true-beauty?amp"
 type: article
-quality: 42
-heat: 42
-published: false
+quality: 62
+heat: 82
+published: true
 
 provider:
   name: Windows Central
@@ -36,7 +36,7 @@ related:
     provider:
       name: TweakTown
       domain: tweaktown.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://images.tweaktown.com/news/7/2/72211_02_microsoft-flight-simulator-latest-screenshots-upgrade-your-pc-now.jpg"
         width: 620

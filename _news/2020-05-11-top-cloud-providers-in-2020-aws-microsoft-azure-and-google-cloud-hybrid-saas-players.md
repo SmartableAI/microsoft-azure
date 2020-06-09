@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/the-top-cloud-providers-of-2020-aws-micro
 ampWebUrl: "https://www.zdnet.com/google-amp/article/the-top-cloud-providers-of-2020-aws-microsoft-azure-google-cloud-hybrid-saas/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-top-cloud-providers-of-2020-aws-microsoft-azure-google-cloud-hybrid-saas/"
 type: article
-quality: 88
-heat: 168
+quality: 108
+heat: 188
 published: true
 
 provider:
@@ -40,7 +40,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 72
+    quality: 92
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2019/12/reInvent-2018_Wednesday_AndyJassyKeynote_140-630x442.jpg"
         width: 630
@@ -56,7 +56,7 @@ related:
     provider:
       name: winbuzzer.com
       domain: winbuzzer.com
-    quality: 57
+    quality: 77
     images:
       - url: "https://winbuzzer.com/wp-content/uploads/2016/04/Microsoft-Clouds-Pixels-Reuse.jpg"
         width: 1280
@@ -70,7 +70,7 @@ related:
     provider:
       name: ARN
       domain: arnnet.com.au
-    quality: 18
+    quality: 28
     images:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/aws_microsoft.jpg"
         width: 800
@@ -84,7 +84,7 @@ related:
     provider:
       name: WFMZ-TV
       domain: wfmz.com
-    quality: 18
+    quality: 28
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
         width: 1280

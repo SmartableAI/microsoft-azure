@@ -5,7 +5,7 @@ excerpt: "Recently, the Pentagon IG released a report on the JEDI contract and f
 publishedDateTime: 2020-04-20T10:10:00Z
 webUrl: "https://www.govexec.com/technology/2020/04/govexec-daily-oversight-and-jedi-contract/164732/"
 type: article
-quality: 22
+quality: 32
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 81
+    quality: 101
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2019/11/microsoft-630x473.jpg"
         width: 630
@@ -50,7 +50,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 39
+    quality: 59
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/04/Microsoft-JEDI-DoD.jpg"
         width: 1265
@@ -64,7 +64,7 @@ related:
     provider:
       name: Politico
       domain: politico.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
@@ -78,7 +78,7 @@ related:
     provider:
       name: The Taipei Times
       domain: taipeitimes.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px.jpg"
         width: 1200

@@ -5,7 +5,7 @@ excerpt: "NVIDIA launched a new software development kit and announced a series 
 publishedDateTime: 2020-04-24T22:20:00Z
 webUrl: "https://www.marketwatch.com/press-release/nvidia-microsoft-and-wimi-hologram-cloud-nasdaqwimi-focus-on-5g-holographic-communication-market-2020-04-24"
 type: article
-quality: 47
+quality: 57
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

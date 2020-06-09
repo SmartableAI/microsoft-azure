@@ -7,7 +7,7 @@ webUrl: "https://mspoweruser.com/microsoft-azure-arc-support-openshift-red-hat-e
 ampWebUrl: "https://mspoweruser.com/microsoft-azure-arc-support-openshift-red-hat-enterprise-linux/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-azure-arc-support-openshift-red-hat-enterprise-linux/amp/"
 type: article
-quality: 57
+quality: 77
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 86
+    quality: 96
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/312759ad-1010-4449-98f4-308ec63ec078.jpg"
         width: 1099
@@ -57,7 +57,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 37
+    quality: 47
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/microsoft2-1-1.png"
         width: 718

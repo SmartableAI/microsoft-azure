@@ -5,8 +5,8 @@ excerpt: "Long known just as a purveyor of cloud backup, the company is taking o
 publishedDateTime: 2020-05-11T04:01:00Z
 webUrl: "https://www.networkworld.com/article/3542696/backblaze-challenges-dominance-of-cloud-storage-vendors.html"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

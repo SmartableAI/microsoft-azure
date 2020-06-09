@@ -5,7 +5,7 @@ excerpt: "Microsoft on Thursday announced that its Windows Virtual Desktop (WVD)
 publishedDateTime: 2020-05-01T00:00:00Z
 webUrl: "https://redmondmag.com/articles/2020/04/30/windows-virtual-desktop-integrated-with-azure.aspx"
 type: article
-quality: 32
+quality: 42
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 90
+    quality: 110
     images:
       - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/01/31/498597ad-dcee-4e11-a4d5-b7f4198633ee/thumbnail/1200x675/984b3432206a2880769db8d8ba69811c/developer-these-are-the-jobs-and-languag-5e32bce1aa40260001a3a3d6-1-jan-31-2020-10-36-41-poster.jpg"
         width: 1200
@@ -50,7 +50,7 @@ related:
     provider:
       name: Trusted Reviews
       domain: trustedreviews.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://ksassets.timeincuk.net/wp/uploads/sites/54/2020/04/LYvQnsyMojMLkmuwm7MSbP-1024x576.jpg"
         width: 1024

@@ -5,7 +5,7 @@ excerpt: "In November we announced Azure Synapse Analytics—a limitless analyti
 publishedDateTime: 2020-05-21T08:30:41Z
 webUrl: "https://azure.microsoft.com/blog/azure-synapse-analytics-insights-for-all/"
 type: article
-quality: 97
+quality: 107
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 97
+    quality: 107
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/0adb1254-ac39-4dcf-8405-8a453b2ff566.png"
         width: 1024
@@ -52,7 +52,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2019/11/Microsoft-Azure-Synapse-Analytics.jpg"
         width: 1134

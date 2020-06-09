@@ -7,8 +7,8 @@ webUrl: "https://www.benzinga.com/pressreleases/20/05/g15965315/affects-of-covid
 ampWebUrl: "https://amp.benzinga.com/amp/content/15965315"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15965315"
 type: article
-quality: 0
-heat: 0
+quality: 9
+heat: 9
 published: false
 
 provider:

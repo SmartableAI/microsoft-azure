@@ -7,7 +7,7 @@ webUrl: "https://www.windowscentral.com/star-wars-jedi-fallen-order-crosses-10-m
 ampWebUrl: "https://www.windowscentral.com/star-wars-jedi-fallen-order-crosses-10-million-players?amp"
 cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/star-wars-jedi-fallen-order-crosses-10-million-players?amp"
 type: article
-quality: 40
+quality: 60
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 72
+    quality: 92
     images:
       - url: "https://cdn.vox-cdn.com/thumbor/F49y-AS6gRZc9YxX_KMwtPzcfnw=/0x0:3840x2160/1400x933/filters:focal(1090x782:1704x1396):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66726840/JFO_LaunchScreens_Cal_CU_v09.0.png"
         width: 1400
@@ -52,7 +52,7 @@ related:
     provider:
       name: Days
       domain: thumbsticks.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://i1.wp.com/www.thumbsticks.com/wp-content/uploads/2020/05/star-was-jedi-fallen-order-new-game-plus.jpg?fit=1280%2C720&#038;ssl=1"
         width: 1280
@@ -66,7 +66,7 @@ related:
     provider:
       name: On MSFT
       domain: onmsft.com
-    quality: 12
+    quality: 22
     images:
       - url: "https://www.onmsft.com/wp-content/uploads/2020/05/jedifallenorderupdate.jpg"
         width: 1024

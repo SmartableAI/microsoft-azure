@@ -7,7 +7,7 @@ webUrl: "https://mspoweruser.com/microsoft-shares-covid-19-cyber-attack-threat-d
 ampWebUrl: "https://mspoweruser.com/microsoft-shares-covid-19-cyber-attack-threat-data/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-shares-covid-19-cyber-attack-threat-data/amp/"
 type: article
-quality: 42
+quality: 62
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: The Next Web
       domain: thenextweb.com
-    quality: 60
+    quality: 70
     images:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/11/microsoft-hed-796x417.jpg"
         width: 796

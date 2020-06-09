@@ -7,7 +7,7 @@ webUrl: "https://mspoweruser.com/microsoft-azure-synapse-link-database-analytics
 ampWebUrl: "https://mspoweruser.com/microsoft-azure-synapse-link-database-analytics/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-azure-synapse-link-database-analytics/amp/"
 type: article
-quality: 42
+quality: 62
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 97
+    quality: 107
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/0adb1254-ac39-4dcf-8405-8a453b2ff566.png"
         width: 1024
@@ -48,7 +48,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 97
+    quality: 107
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/19cd7b32-501a-4032-8fa8-ed2bd9a28d03.gif"
         width: 1600

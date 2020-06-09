@@ -27,7 +27,7 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://cnet1.cbsistatic.com/img/LXu-8fpS1ZGM_hV9mzNKGEu8Vqo=/756x567/2019/02/18/62ea128f-6309-41fe-bc76-dcbfc69b5aca/microsoft-msft-hololens-2-1436-2.jpg"
         width: 756

@@ -7,8 +7,8 @@ webUrl: "https://www.fool.com/investing/2020/04/28/zoom-hires-oracle-not-amazon-
 ampWebUrl: "https://www.fool.com/amp/investing/2020/04/28/zoom-hires-oracle-not-amazon-or-microsoft-for-clou.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/28/zoom-hires-oracle-not-amazon-or-microsoft-for-clou.aspx"
 type: article
-quality: 82
-heat: 162
+quality: 102
+heat: 182
 published: true
 
 provider:
@@ -40,7 +40,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106411476-1582742955089gettyimages-1173631560.jpeg?v=1585759755"
         width: 4000
@@ -56,7 +56,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 69
+    quality: 89
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106424586-1583343879965sg-ericyuan020320-03.jpg?v=1583343910"
         width: 1620
@@ -70,7 +70,7 @@ related:
     provider:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://media.datacenterdynamics.com/media/images/zoom_business_meeting.2e16d0ba.fill-1200x630.jpg"
         width: 1024

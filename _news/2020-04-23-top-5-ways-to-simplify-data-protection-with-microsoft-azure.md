@@ -5,8 +5,8 @@ excerpt: "However, with this mixing and matching of environments, businesses mus
 publishedDateTime: 2020-04-23T16:19:00Z
 webUrl: "https://www.computerworld.com/resources/201856/top-5-ways-to-simplify-data-protection-with-microsoft-azure"
 type: article
-quality: 37
-heat: 37
+quality: 47
+heat: 47
 published: false
 
 provider:
@@ -32,7 +32,7 @@ related:
     provider:
       name: CRN
       domain: crn.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://www.crn.com/resources/025c-0f49fcb180e7-a046dca29b25-1000/cybersecurity-data-lock-1.jpg"
         width: 609

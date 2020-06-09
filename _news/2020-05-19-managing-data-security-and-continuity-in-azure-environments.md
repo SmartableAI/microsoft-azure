@@ -5,8 +5,8 @@ excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and vi
 publishedDateTime: 2020-05-19T04:47:00Z
 webUrl: "https://www.cio.com/article/3543994/managing-data-security-and-continuity-in-azure-environments.html"
 type: article
-quality: 37
-heat: 37
+quality: 47
+heat: 47
 published: false
 
 provider:

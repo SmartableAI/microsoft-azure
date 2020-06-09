@@ -7,8 +7,8 @@ webUrl: "https://www.geekwire.com/2020/amazons-new-appflow-links-cloud-based-app
 ampWebUrl: "https://www.geekwire.com/2020/amazons-new-appflow-links-cloud-based-apps-aws-services-automating-data-flows/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazons-new-appflow-links-cloud-based-apps-aws-services-automating-data-flows/amp/"
 type: article
-quality: 75
-heat: 75
+quality: 95
+heat: 95
 published: true
 
 provider:

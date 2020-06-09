@@ -7,7 +7,7 @@ webUrl: "https://www.geekwire.com/2020/microsoft-builds-openais-dream-system-azu
 ampWebUrl: "https://www.geekwire.com/2020/microsoft-builds-openais-dream-system-azure-supercomputer-rank-among-top-5-world/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-builds-openais-dream-system-azure-supercomputer-rank-among-top-5-world/amp/"
 type: article
-quality: 82
+quality: 102
 heat: -1
 published: false
 
@@ -40,7 +40,7 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://cnet1.cbsistatic.com/img/TEkbzdFayDjsegaDhc8T7JF9qVI=/756x567/2018/11/10/97f08e96-4be4-41b1-acdc-43595379dfe1/llnl-sierra-supercomputer-randy-wong.jpg"
         width: 756
@@ -56,7 +56,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 62
+    quality: 72
   - title: "Microsoft just built ‘one of the top five most powerful’ supercomputers on the planet"
     excerpt: "Microsoft has announced a new supercomputer built by the company in partnership with and for OpenAI to train large-scale AI models. The Seattle-based company said at its Build conference for developers that this is one of the top five publically disclosed supercomputers."
     publishedDateTime: 2020-05-19T15:09:00Z
@@ -65,7 +65,7 @@ related:
     provider:
       name: The Next Web
       domain: thenextweb.com
-    quality: 55
+    quality: 65
     images:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Microsoft-supercomputer-796x418.jpg"
         width: 796
@@ -79,7 +79,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 55
+    quality: 65
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/05/Supercomputer-e1589742859682.jpg?w=1200&#038;strip=all"
         width: 1200
@@ -93,7 +93,7 @@ related:
     provider:
       name: Data Center Knowledge
       domain: datacenterknowledge.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/sam%20altman%20openai%20techcrunch%20disrupt%202019%20getty.jpg"
         width: 1024

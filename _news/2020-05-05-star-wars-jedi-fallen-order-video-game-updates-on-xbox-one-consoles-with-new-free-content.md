@@ -5,7 +5,7 @@ excerpt: "Fallen Order video game was announced yesterday on May the 4th (aka St
 publishedDateTime: 2020-05-05T08:11:00Z
 webUrl: "https://www.onmsft.com/news/star-wars-jedi-fallen-order-video-game-updates-on-xbox-one-consoles-with-new-free-content"
 type: article
-quality: 12
+quality: 22
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 72
+    quality: 92
     images:
       - url: "https://cdn.vox-cdn.com/thumbor/F49y-AS6gRZc9YxX_KMwtPzcfnw=/0x0:3840x2160/1400x933/filters:focal(1090x782:1704x1396):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66726840/JFO_LaunchScreens_Cal_CU_v09.0.png"
         width: 1400
@@ -50,7 +50,7 @@ related:
     provider:
       name: Days
       domain: thumbsticks.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://i1.wp.com/www.thumbsticks.com/wp-content/uploads/2020/05/star-was-jedi-fallen-order-new-game-plus.jpg?fit=1280%2C720&#038;ssl=1"
         width: 1280
@@ -66,7 +66,7 @@ related:
     provider:
       name: Windows Central
       domain: windowscentral.com
-    quality: 40
+    quality: 60
     images:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/05/star-wars-jedi-fallen-order-inquisitor-vs-cal.jpg?itok=u4LsUBkh"
         width: 800

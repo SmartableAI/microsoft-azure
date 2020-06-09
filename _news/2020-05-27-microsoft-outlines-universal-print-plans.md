@@ -5,7 +5,7 @@ excerpt: "Microsoft earlier this month provided a few more details about Univers
 publishedDateTime: 2020-05-27T03:11:00Z
 webUrl: "https://redmondmag.com/articles/2020/05/26/universal-print-plans-for-windows.aspx?admgarea=BDNA"
 type: article
-quality: 22
+quality: 32
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: winbuzzer.com
       domain: winbuzzer.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://winbuzzer.com/wp-content/uploads/2020/03/universal-print-microsoft.png"
         width: 999
@@ -48,7 +48,7 @@ related:
     provider:
       name: petri.com
       domain: petri.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://www.petri.com/wp-content/uploads/sites/3/2015/11/cloud-1280x720.jpg"
         width: 1280
@@ -62,7 +62,7 @@ related:
     provider:
       name: Redmond Channel Partner
       domain: rcpmag.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/introimages2014/0515red_RedView.jpg"
         width: 647

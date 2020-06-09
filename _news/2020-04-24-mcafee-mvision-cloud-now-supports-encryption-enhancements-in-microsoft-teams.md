@@ -5,8 +5,8 @@ excerpt: "McAfee, a device-to-cloud cybersecurity company, announced that McAfee
 publishedDateTime: 2020-04-24T00:32:00Z
 webUrl: "https://www.helpnetsecurity.com/2020/04/24/mcafee-mvision-cloud-microsoft/"
 type: article
-quality: 19
-heat: 19
+quality: 29
+heat: 29
 published: false
 
 provider:
@@ -32,7 +32,7 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 4
+    quality: 14
     images:
       - url: "https://mms.businesswire.com/media/20200422005877/en/698457/23/McA_Logo.jpg"
         width: 1200

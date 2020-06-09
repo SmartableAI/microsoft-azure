@@ -7,7 +7,7 @@ webUrl: "https://www.seattletimes.com/business/pentagon-watchdog-clears-microsof
 ampWebUrl: "https://www.seattletimes.com/business/pentagon-watchdog-clears-microsofts-10-billion-cloud-computing-win-over-amazon/?amp=1"
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/pentagon-watchdog-clears-microsofts-10-billion-cloud-computing-win-over-amazon/?amp=1"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 81
+    quality: 101
     images:
       - url: "https://zdnet3.cbsistatic.com/hub/i/2020/04/15/2c3ba05e-21fa-47cd-8dab-d91266415adc/jediinspectorgeneralreport.jpg"
         width: 877
@@ -52,7 +52,7 @@ related:
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 80
+    quality: 100
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d9fd65a-cbde-44cd-8be7-69ca1b916d0b/6161526e-62a1-46df-9a5e-9c833fb50275/1280x720/match/image.jpg"
         width: 1280
@@ -68,7 +68,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 79
+    quality: 99
     images:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568272%2Fapple_new-iphone-se-black-camera-and-touch-id_04152020.jpg&w=1200&op=resize"
         width: 1200
@@ -84,7 +84,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 74
+    quality: 94
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2018/04/2196640900_c072470031_z-630x451.jpg"
         width: 630
@@ -100,7 +100,7 @@ related:
     provider:
       name: TechSpot
       domain: techspot.com
-    quality: 61
+    quality: 81
     images:
       - url: "https://www.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-13-ts3_thumbs-023.jpg"
         width: 800
@@ -120,7 +120,7 @@ related:
     provider:
       name: Windows Central
       domain: windowscentral.com
-    quality: 36
+    quality: 56
     images:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2015/09/microsoft-logo-3.jpg?itok=HZnHZqpR"
         width: 800
@@ -136,7 +136,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 32
+    quality: 52
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/04/Microsoft-JEDI-DoD.jpg"
         width: 1265
@@ -150,7 +150,7 @@ related:
     provider:
       name: Fudzilla
       domain: fudzilla.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://www.fudzilla.com/media/k2/items/cache/aa91bb4a181a55aa28a611297d048668_L.jpg"
         width: 620
@@ -164,7 +164,7 @@ related:
     provider:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
-    quality: 2
+    quality: 12
     images:
       - url: "https://media.datacenterdynamics.com/media/images/MicrosoftAzureClippySoldier.2e16d0ba.fill-1200x630.jpg"
         width: 1200

@@ -5,7 +5,7 @@ excerpt: "Matillion, a leading provider of data transformation software for clou
 publishedDateTime: 2020-05-12T15:21:00Z
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/matillion-launches-matillion-etl-for-azure-synapse-empowering-users-with-data-transformation-capabilities-for-rapid/article_7b962a36-a426-5aed-ac9e-04ed7242d321.html"
 type: article
-quality: 5
+quality: 15
 heat: -1
 published: false
 
@@ -32,7 +32,7 @@ related:
     provider:
       name: SD Times
       domain: sdtimes.com
-    quality: 45
+    quality: 55
     images:
       - url: "https://sdtimes.com/images/sd-premium.png"
         width: 628
@@ -46,7 +46,7 @@ related:
     provider:
       name: petri.com
       domain: petri.com
-    quality: 30
+    quality: 40
     images:
       - url: "https://www.petri.com/wp-content/uploads/sites/3/2016/08/Microsoft-Azure-cloud-hero.png"
         width: 1280
@@ -60,7 +60,7 @@ related:
     provider:
       name: Light Reading
       domain: lightreading.com
-    quality: 16
+    quality: 26
     images:
       - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
         width: 600

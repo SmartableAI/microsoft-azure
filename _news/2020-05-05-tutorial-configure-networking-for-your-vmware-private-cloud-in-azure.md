@@ -5,8 +5,8 @@ excerpt: "Configure networking for your VMWare private cloud in Azure. 05/04/202
 publishedDateTime: 2020-05-05T05:22:00Z
 webUrl: "https://docs.microsoft.com/en-us/azure/azure-vmware/tutorial-configure-networking"
 type: article
-quality: 37
-heat: 37
+quality: 47
+heat: 47
 published: false
 
 provider:

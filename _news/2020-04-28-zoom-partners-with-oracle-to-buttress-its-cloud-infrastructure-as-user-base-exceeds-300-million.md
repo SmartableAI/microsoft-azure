@@ -7,7 +7,7 @@ webUrl: "https://www.techspot.com/news/85021-zoom-partners-oracle-buttress-cloud
 ampWebUrl: "https://www.techspot.com/amp/news/85021-zoom-partners-oracle-buttress-cloud-infrastructure-user-base.html"
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85021-zoom-partners-oracle-buttress-cloud-infrastructure-user-base.html"
 type: article
-quality: 70
+quality: 90
 heat: -1
 published: false
 
@@ -40,7 +40,7 @@ related:
     provider:
       name: Neowin
       domain: neowin.net
-    quality: 82
+    quality: 102
     images:
       - url: "https://cdn.neow.in/news/images/uploaded/2020/04/1588004153_cocacola_microsoft_story.jpg"
         width: 760
@@ -56,7 +56,7 @@ related:
     provider:
       name: TechSpot
       domain: techspot.com
-    quality: 81
+    quality: 101
     images:
       - url: "https://static.techspot.com/images2/news/bigimage/2020/04/2020-04-28-image-30.jpg"
         width: 2461
@@ -72,7 +72,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 59
+    quality: 69
   - title: "Coca-Cola selects Microsoft cloud to modernize its business"
     excerpt: "The Coca-Cola Company today announced a five-year agreement with Microsoft to standardize its business operations on Microsoft’s cloud. As part of this partnership, Coca-Cola will be using Microsoft Azure,"
     publishedDateTime: 2020-04-27T14:29:00Z
@@ -83,7 +83,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/04/Coca-cola-Microsoft.jpg"
         width: 1189
@@ -97,11 +97,25 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://docs.microsoft.com/en-us/mem/intune/protect/media/conditional-access-jamf-cloud-connector/copy-application-id.png"
         width: 517
         height: 269
+        isCached: true
+  - title: "The Coca-Cola Company announces strategic partnership with Microsoft to transform global engagement and experiences"
+    excerpt: "The Coca-Cola Company (NYSE: “KO”) on Monday announced a five-year agreement with Microsoft Corp. (Nasdaq: “MSFT)"
+    publishedDateTime: 2020-04-27T15:31:00Z
+    webUrl: "https://apnews.com/PR Newswire/cd5af10340231d2145bc2ee6bc0ff70d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 10
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Coca-Cola partners Microsoft to transform global engagement, experiences"
     excerpt: "With this agreement, the companies will use the functionalities of Microsoft Azure, Dynamics 365 and Microsoft 365. These products will help The Coca-Cola Company gain new insights from data across the enterprise, enabling a 360-degree view of the business ..."
@@ -112,20 +126,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 1
-  - title: "The Coca-Cola Company announces strategic partnership with Microsoft to transform global engagement and experiences"
-    excerpt: "The Coca-Cola Company (NYSE: “KO”) on Monday announced a five-year agreement with Microsoft Corp. (Nasdaq: “MSFT)"
-    publishedDateTime: 2020-04-27T15:31:00Z
-    webUrl: "https://apnews.com/PR Newswire/cd5af10340231d2145bc2ee6bc0ff70d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "92f072ScAUX/c6HkXBU0fVHNQvnHX2gdxZGlynHoLmt80dHFcyP4VD/gY+22i9fZZU/futyp8AZGgodSBCThwfmEwaQuZ+B53pHaqsjtu4Hw+1uHVogbndF2ftEpYnYiUOx7dng8GAjUAiizfTyOqwnXqFI6GEMhe0kchCpWi6j3fd1f9e7/icisHfA9swXvS+fCQbBN+nufj493Ta79KAoFRLh1uo8p505W0QL+JRnqUaRBjoP12S6i2Fo3wMLZF7xme23dsB6a1uRCTGNKiHxS0sDXevAo4QvHEqrj6QHR1RKrOdeFBJyCEc+vRXBN;wcKqYLcxA4tR1I7J9dhz0g=="
 ---

@@ -5,7 +5,7 @@ excerpt: "The moves to secure Azure cloud services range from providing greater 
 publishedDateTime: 2020-05-26T19:21:00Z
 webUrl: "https://www.datacenterknowledge.com/microsoft/microsoft-security-moves-target-azure-cloud-services"
 type: article
-quality: 37
+quality: 47
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://tr4.cbsistatic.com/hub/i/r/2020/05/08/0154c4d4-36ae-4270-9291-968ddfd7c65c/thumbnail/1200x675/95cdef2021d3479a00e6861ffbb23d22/20200507-moyer3-dan.jpg"
         width: 1200
@@ -50,7 +50,7 @@ related:
     provider:
       name: IT Security
       domain: healthitsecurity.com
-    quality: 22
+    quality: 32
 
 secured: "0plH9YJt1g06rwSJMEIGIV7JPEiqzrD54961Lb8gov8AiFMataQ4A0mPr4wYCDkLr7UnHG366QEUXGITLfRKSxc/uqRJRKEycBtH+hDamOoxy+Swi9IUkebi3E+kyNrrdgpd+dsQZFjrFAQ3M2NOBt9mtjiu5hqa+S40Yrvgjpka8LYGQc0X6a4LTp1ioHzN3jnvttGTQ/cuGoTMLCy7rD6Q69YM9MfmOUX79OUBcAwwtOry5wrvsr7XXFZoygySlkUZcmV6eK4SXWofz500uCk4ylIEOtRNlxRzPwUJ2b1x2HUaJY21qPZDptUxrA2UwdoR1Iom+yAsPnIKDQN9YCnmpsapNmMNF+NfKJ/nNu0T1qtRNQQPGGU1Im1g/Rn1cEZJYiA3J8eeGMhQUvsE9Pa9Q71H8kB83NcFbLV0QjDDtrsepvuHTBJk2CrLNiKsj9x0lIiqnqtrMZvwNXAux6xeulGuI8Zw+JR7UmnTKx4=;LCikhwPRVRD8LSE2wiQXLg=="
 ---

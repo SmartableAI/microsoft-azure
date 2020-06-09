@@ -5,8 +5,8 @@ excerpt: "Quantum Corp. announced new advancements for its StorNext file system 
 publishedDateTime: 2020-05-13T14:39:00Z
 webUrl: "https://insidehpc.com/2020/05/quantum-stornext-makes-cloud-content-more-accessible-speeds-data-retrieval/"
 type: article
-quality: 20
-heat: 20
+quality: 30
+heat: 30
 published: false
 
 provider:

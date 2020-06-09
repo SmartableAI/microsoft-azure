@@ -5,7 +5,7 @@ excerpt: "Contract research organization Parexel has launched what it dubs #Keep
 publishedDateTime: 2020-05-27T12:00:00Z
 webUrl: "https://www.fiercebiotech.com/cro/parexel-microsoft-azure-launch-new-covid-19-real-world-data-platform"
 type: article
-quality: 37
+quality: 47
 heat: -1
 published: false
 
@@ -32,7 +32,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 68
+    quality: 78
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -46,7 +46,7 @@ related:
     provider:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://media.datacenterdynamics.com/media/images/Kevin_Kline.2e16d0ba.fill-1200x630.png"
         width: 580

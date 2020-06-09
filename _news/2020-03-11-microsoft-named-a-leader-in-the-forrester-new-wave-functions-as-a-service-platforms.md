@@ -5,8 +5,8 @@ excerpt: "We’re excited to share that Forrester has named Microsoft as a leade
 publishedDateTime: 2020-03-11T09:00:16Z
 webUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-forrester-new-wave-functions-as-a-service-platforms/"
 type: article
-quality: 77
-heat: 77
+quality: 87
+heat: 87
 published: true
 
 provider:

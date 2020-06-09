@@ -7,8 +7,8 @@ webUrl: "https://www.cio.com/article/3541709/heres-how-amazons-south-africa-data
 ampWebUrl: "https://www.cio.com/article/3541709/heres-how-amazons-south-africa-data-centres-will-impact-enterprises.amp.html"
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3541709/heres-how-amazons-south-africa-data-centres-will-impact-enterprises.amp.html"
 type: article
-quality: 42
-heat: 42
+quality: 62
+heat: 62
 published: false
 
 provider:

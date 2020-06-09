@@ -7,7 +7,7 @@ webUrl: "https://www.thestreet.com/video/amazon-microsoft-earnings-date"
 ampWebUrl: "https://www.thestreet.com/.amp/video/amazon-microsoft-earnings-date"
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/video/amazon-microsoft-earnings-date"
 type: article
-quality: 42
+quality: 62
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 62
+    quality: 72
   - title: "Microsoft Vs. Apple: One Is A Better Investment"
     excerpt: "Microsoft has performed better than Apple in the past five years. A closer look of the two companies shows that Microsoft has a better business model than Apple"
     publishedDateTime: 2020-05-04T18:32:00Z

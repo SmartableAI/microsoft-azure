@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/moorinsights/2020/06/02/quantum-computing-
 ampWebUrl: "https://www.forbes.com/sites/moorinsights/2020/06/02/quantum-computing-trifecta-previewed-on-microsoft-azure-quantum-at-build-202/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/06/02/quantum-computing-trifecta-previewed-on-microsoft-azure-quantum-at-build-202/amp/"
 type: article
-quality: 94
-heat: 134
+quality: 114
+heat: 154
 published: true
 
 provider:
@@ -38,7 +38,7 @@ related:
     provider:
       name: Engadget
       domain: engadget.com
-    quality: 62
+    quality: 72
     images:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=95&image_uri=https%3A%2F%2Fimg.vidible.tv%2Fprod%2F2020-05%2F22%2F5ec71d36b8187a4322e7a6f6%2F5ec71f116cc8f4239d91772d_o_U_v1.png&client=amp-blogside-v2&signature=114b7f5e938ca204345bbd81a0b26fb72ddb3d37"
         width: 1200
@@ -52,7 +52,7 @@ related:
     provider:
       name: InfoQ
       domain: infoq.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://cdn.infoq.com/statics_s2_20200525085632/styles/static/images/logo/logo-big.jpg"
         width: 1200

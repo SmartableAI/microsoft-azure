@@ -5,7 +5,7 @@ excerpt: "Final Report will add the analysis of the impact of COVID-19 on this i
 publishedDateTime: 2020-05-27T05:34:00Z
 webUrl: "https://www.marketwatch.com/press-release/hybrid-cloud-computing-market-size-share-report-2020-shipments-price-revenue-and-gross-profit-till-2026-with-impact-of-covid-19-2020-05-27"
 type: article
-quality: 31
+quality: 41
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 72
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -52,7 +52,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 58
+    quality: 68
   - title: "U.S. Healthcare Cloud Computing Market: Industry Insights, Major Key Players and Current Trends Analysis 2027"
     excerpt: "The report covers a forecast and an analysis of the U.S. healthcare cloud computing market. The study provides"
     publishedDateTime: 2020-05-21T09:12:00Z
@@ -61,7 +61,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 43
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -75,7 +75,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 41
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -89,7 +89,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 25
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -103,7 +103,7 @@ related:
     provider:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/1.jpg"
         width: 400
@@ -117,7 +117,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 16
+    quality: 26
     images:
       - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
         width: 666

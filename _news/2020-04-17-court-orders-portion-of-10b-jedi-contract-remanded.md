@@ -7,9 +7,9 @@ webUrl: "https://www.bizjournals.com/washington/news/2020/04/17/court-orders-por
 ampWebUrl: "https://www.bizjournals.com/washington/news/2020/04/17/court-orders-portion-of-jedi-contract-remanded.amp.html"
 cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/washington/news/2020/04/17/court-orders-portion-of-jedi-contract-remanded.amp.html"
 type: article
-quality: 42
-heat: 42
-published: false
+quality: 62
+heat: 102
+published: true
 
 provider:
   name: The Business Journals
@@ -36,7 +36,7 @@ related:
     provider:
       name: Law360
       domain: law360.com
-    quality: 22
+    quality: 32
   - title: "JEDI gets partial re-evaluation, court says"
     excerpt: "A federal judge is giving the Defense Department until Aug. 17 to accept proposal revisions addressing storage pricing, effectively extending a nearly three-year-long drama over the potential $10 billion enterprise cloud contract."
     publishedDateTime: 2020-04-22T23:52:00Z
@@ -45,7 +45,7 @@ related:
     provider:
       name: Defense Systems
       domain: defensesystems.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://defensesystems.com/-/media/GIG/EDIT_SHARED/Cloud/pentagoncloud_0.jpg"
         width: 760

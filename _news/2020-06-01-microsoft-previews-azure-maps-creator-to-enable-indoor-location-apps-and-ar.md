@@ -5,7 +5,7 @@ excerpt: "Microsoft Corp. today announced the preview of Azure Maps Creator, a n
 publishedDateTime: 2020-06-01T18:50:00Z
 webUrl: "https://siliconangle.com/2020/06/01/microsoft-previews-azure-maps-creator-enable-indoor-location-apps-ar/"
 type: article
-quality: 35
+quality: 45
 heat: -1
 published: false
 
@@ -32,7 +32,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 99
+    quality: 109
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a6153b4c-6ec4-4b09-b1e7-dd8f2be265dd.png"
         width: 780
@@ -46,7 +46,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 97
+    quality: 107
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/bc9fd2f5-bd17-4f4e-b1b5-c02c035f249b.gif"
         width: 1730
@@ -60,7 +60,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 97
+    quality: 107
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/480ae3b3-08b3-4078-b20f-83bb10f1d10c.gif"
         width: 2554
@@ -74,7 +74,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 97
+    quality: 107
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/ccedbcf5-8321-460c-a9a3-b0730caa96fe.jpg"
         width: 347
@@ -88,7 +88,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 97
+    quality: 107
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/55f9101b-07a0-4e94-b8aa-802abda1d4df.png"
         width: 640
@@ -220,20 +220,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 70
-  - title: "ScientiaMobile's WURFL Microservice Now Available in the Microsoft Azure Marketplace"
-    excerpt: "RESTON, Va., June 01, 2020 (GLOBE NEWSWIRE) -- ScientiaMobile, today announced the availability of WURFL Microservice in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2020-06-01T12:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/scientiamobiles-wurfl-microservice-now-available-in-the-microsoft-azure-marketplace-2020-06-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "HBv2-Series VMs now available in West US 2"
     excerpt: ""
     publishedDateTime: 2020-06-03T17:00:13Z
@@ -252,20 +238,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
-  - title: "SepioPrime Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Sepio Systems, the leader in Rogue Device Mitigation (RDM), today announced the availability of SepioPrime in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2020-05-29T13:00:00Z
-    webUrl: "https://apnews.com/PR Newswire/f5b85ffe40d0191068bb0e60ed78df05"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "ZsECpjBXZNt92Wi+REO8hKPNhyKYs06QaN25JhIZYN3g9fsAII33uaZXwaeZlievC0REy9dHoOq19Hkl8mHpkHX64jMPKiGMQdNW+GSeogkS3nCjq5XoyPfVTybYxRH/FFpjU1rfpjE+6SuZTZfa8SGQ6rbMKO6N2x2qlIA0AGCJvMhGB92JUjeqwcrwzmf17be7sxhQzVyF2s2pd7yuobZPgGeOqdSGd4qwUUXHLBNfuk0KpoCMVP4ds/C+3OnwUEDfGhv0LC4nkXIHkZyd7KOwjG961sxcmTEqreZvpqH8WCdE+fMsSM9JQ1fODQSdxnIX843cqh1DCHF9LyLzuFVSVe9erhI5Ah+4OTsb/CfopekOANPWMx4YecAioTV1+zD1IeBnoJiRVtWmQiBqZXey1O8pz6baUF2I/oVHdGn4yfDttHmy8VRBf2QGEl+oxhF7EWVTa5cROL8ApXt7wiEk0qKjhTbfhSMh8h7bF78=;725brw88l1EMbI6Iq1RpTQ=="
 ---

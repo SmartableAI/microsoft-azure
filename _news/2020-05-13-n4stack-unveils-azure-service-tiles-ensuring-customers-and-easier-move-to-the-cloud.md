@@ -5,8 +5,8 @@ excerpt: "N4Stack launches Azure Service Tiles to help customers overcome the ch
 publishedDateTime: 2020-05-13T01:32:00Z
 webUrl: "https://www.helpnetsecurity.com/2020/05/13/n4stack-azure-service-tiles/"
 type: article
-quality: 31
-heat: 31
+quality: 41
+heat: 41
 published: false
 
 provider:

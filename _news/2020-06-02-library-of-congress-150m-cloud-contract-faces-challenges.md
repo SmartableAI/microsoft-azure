@@ -5,8 +5,8 @@ excerpt: "Two potential bidders for a $!50 million Library of Congress cloud ser
 publishedDateTime: 2020-06-02T19:31:00Z
 webUrl: "https://washingtontechnology.com/blogs/editors-notebook/2020/06/library-of-congress-solicitation-challenge.aspx"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

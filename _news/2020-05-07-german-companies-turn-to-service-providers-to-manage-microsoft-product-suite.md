@@ -5,8 +5,8 @@ excerpt: "(GLOBE NEWSWIRE via COMTEX) -- ISG Provider Lens(TM) report also finds
 publishedDateTime: 2020-05-07T08:00:00Z
 webUrl: "https://www.marketwatch.com/press-release/german-companies-turn-to-service-providers-to-manage-microsoft-product-suite-2020-05-07"
 type: article
-quality: 59
-heat: 79
+quality: 69
+heat: 89
 published: true
 
 provider:
@@ -38,7 +38,7 @@ related:
     provider:
       name: The Financial Express
       domain: financialexpress.com
-    quality: 41
+    quality: 61
     images:
       - url: "https://images.financialexpress.com/2020/05/telecom.jpg"
         width: 660

@@ -30,7 +30,7 @@ related:
     provider:
       name: CSOonline
       domain: csoonline.com
-    quality: 37
+    quality: 47
     images:
       - url: "https://images.idgesg.net/images/article/2020/05/istock-1156386758-100842178-large.jpg"
         width: 1200

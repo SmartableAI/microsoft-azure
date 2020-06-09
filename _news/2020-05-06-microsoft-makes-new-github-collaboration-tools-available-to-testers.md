@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/microsoft-makes-new-github-collaboration-
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-makes-new-github-collaboration-tools-available-to-testers/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-makes-new-github-collaboration-tools-available-to-testers/"
 type: article
-quality: 82
-heat: 142
+quality: 102
+heat: 162
 published: true
 
 provider:
@@ -47,7 +47,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 27
+    quality: 37
     images:
       - url: "https://i.insider.com/5ce5de645234d2176d06f876?width=1200&format=jpeg"
         width: 1200

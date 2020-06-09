@@ -5,8 +5,8 @@ excerpt: "based storage company can leverage the cloud for more business opportu
 publishedDateTime: 2020-05-12T22:09:00Z
 webUrl: "https://www.crn.com/news/storage/netapp-hires-former-microsoft-exec-cesar-cernuda-as-new-president"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

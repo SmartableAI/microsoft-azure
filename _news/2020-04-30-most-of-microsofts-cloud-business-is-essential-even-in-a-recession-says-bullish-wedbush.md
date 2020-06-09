@@ -7,7 +7,7 @@ webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/20/04/15916930/m
 ampWebUrl: "https://amp.benzinga.com/amp/content/15916930"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15916930"
 type: article
-quality: 31
+quality: 51
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 70
+    quality: 90
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/104325216-GettyImages-520716332.jpg?v=1554386958"
         width: 1024

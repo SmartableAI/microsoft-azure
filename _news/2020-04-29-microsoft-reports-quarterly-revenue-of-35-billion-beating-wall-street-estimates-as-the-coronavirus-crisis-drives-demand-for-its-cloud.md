@@ -7,7 +7,7 @@ webUrl: "https://www.businessinsider.com/microsoft-reports-q3-fy20-earnings-2020
 ampWebUrl: "https://www.businessinsider.com/microsoft-reports-q3-fy20-earnings-2020-4?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/microsoft-reports-q3-fy20-earnings-2020-4?amp"
 type: article
-quality: 50
+quality: 70
 heat: -1
 published: false
 
@@ -40,7 +40,7 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200429&t=2&i=1516924789&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG3S223"
         width: 817
@@ -56,7 +56,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 77
+    quality: 97
     images:
       - url: "https://s.marketwatch.com/public/resources/images/MW-HY843_Micros_ZH_20200122191821.jpg"
         width: 890
@@ -72,11 +72,27 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 72
+    quality: 92
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2019/05/20190506_Microsoft_Build_55-630x420.jpg"
         width: 630
         height: 420
+        isCached: true
+  - title: "Microsoft Q3 FY20 Earnings: Azure cloud services revenue grew 59%"
+    excerpt: "Microsoft today announced FY20 Q3 earnings results. Microsoft’s revenue in the last quarter was $35 billion and the operating income was $13 billion. Revenue in Intelligent Cloud business segment was $12."
+    publishedDateTime: 2020-04-29T20:08:00Z
+    webUrl: "https://mspoweruser.com/microsoft-q3-fy20-earnings-azure-revenue-grew-59/"
+    ampWebUrl: "https://mspoweruser.com/microsoft-q3-fy20-earnings-azure-revenue-grew-59/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-q3-fy20-earnings-azure-revenue-grew-59/amp/"
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 77
+    images:
+      - url: "https://mspoweruser.com/wp-content/uploads/2016/05/Microsoft-Azure.jpg"
+        width: 791
+        height: 448
         isCached: true
   - title: "Microsoft (MSFT) Q3 Earnings & Revenues Beat Estimates, Up Y/Y"
     excerpt: "GAAP earnings of $1.40 per share, which beat the Zacks Consensus Estimate by 10.2%. The figure also surged 23% on a year-over-year basis (up 27% at constant currency or cc). Revenues of $35.02 billion improved 15% from the year-ago quarter (up 16% at cc)."
@@ -88,37 +104,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 62
-  - title: "Microsoft Q3 FY20 Earnings: Azure cloud services revenue grew 59%"
-    excerpt: "Microsoft today announced FY20 Q3 earnings results. Microsoft’s revenue in the last quarter was $35 billion and the operating income was $13 billion. Revenue in Intelligent Cloud business segment was $12."
-    publishedDateTime: 2020-04-29T20:08:00Z
-    webUrl: "https://mspoweruser.com/microsoft-q3-fy20-earnings-azure-revenue-grew-59/"
-    ampWebUrl: "https://mspoweruser.com/microsoft-q3-fy20-earnings-azure-revenue-grew-59/amp/"
-    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-q3-fy20-earnings-azure-revenue-grew-59/amp/"
-    type: article
-    provider:
-      name: MSPoweruser
-      domain: mspoweruser.com
-    quality: 57
-    images:
-      - url: "https://mspoweruser.com/wp-content/uploads/2016/05/Microsoft-Azure.jpg"
-        width: 791
-        height: 448
-        isCached: true
-  - title: "Microsoft blames coronavirus-related supply chain constraints for its cloud capacity issues"
-    excerpt: "Microsoft has struggled at times to keep up with the huge demand for its cloud services, as people work from home more."
-    publishedDateTime: 2020-04-29T21:37:00Z
-    webUrl: "https://www.businessinsider.com/microsoft-coronavirus-supply-chain-constraints-2020-4"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
-    images:
-      - url: "https://i.insider.com/5dfbb9b6855cc26de1630123?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
+    quality: 72
   - title: "Microsoft quarterly earnings report: Bracing for a surprise?"
     excerpt: "Microsoft acknowledged in February that its near-term business is likely to miss estimates as its More Personal Computing (which makes up a third of Microsoft’s total revenue) suffered the most due to the virus outbreak."
     publishedDateTime: 2020-04-28T13:01:00Z
@@ -129,11 +115,25 @@ related:
     provider:
       name: FXStreet
       domain: fxstreet.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://editorial.fxstreet.com/images/Macroeconomics/Events/Coronavirus/coronavirus3_Small.jpg"
         width: 320
         height: 204
+        isCached: true
+  - title: "Microsoft blames coronavirus-related supply chain constraints for its cloud capacity issues"
+    excerpt: "Microsoft has struggled at times to keep up with the huge demand for its cloud services, as people work from home more."
+    publishedDateTime: 2020-04-29T21:37:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-coronavirus-supply-chain-constraints-2020-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+    images:
+      - url: "https://i.insider.com/5dfbb9b6855cc26de1630123?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Microsoft growth accelerates as virus boosts cloud business"
     excerpt: "Microsoft shrugged off the effects of the coronavirus crisis with surprisingly strong results in the latest quarter, as a jump in cloud-related business more than offset a hit to some of its traditional software sales."
@@ -145,7 +145,7 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb452bcee-2686-4274-bdc2-063dfa3c5e93.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
@@ -161,7 +161,7 @@ related:
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 33
+    quality: 53
     images:
       - url: "https://www.washingtonpost.com/resizer/iAwDp1yG46qwbRqde_rAAu43rKI=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RBIUICTQDUI6TEZRGC6FQNXURY.jpg"
         width: 1440
@@ -177,7 +177,7 @@ related:
     provider:
       name: Barron's
       domain: barrons.com
-    quality: 29
+    quality: 49
     images:
       - url: "https://images.barrons.com/im-181595/social"
         width: 1280

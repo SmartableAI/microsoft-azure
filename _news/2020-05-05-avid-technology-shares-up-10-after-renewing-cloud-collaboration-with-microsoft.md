@@ -27,7 +27,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/03/660bb6e9-3d0d-4d1d-aaf1-2ed92febe618/thumbnail/1200x675/bb2ba3d4b429e7461f5a07f045166d0e/wvdmsixappattach.jpg"
         width: 1200
@@ -50,7 +50,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 27
+    quality: 37
     images:
       - url: "https://i.insider.com/5ce5de645234d2176d06f876?width=1200&format=jpeg"
         width: 1200

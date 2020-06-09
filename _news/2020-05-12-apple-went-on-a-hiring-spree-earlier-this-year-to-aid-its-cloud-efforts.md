@@ -7,8 +7,8 @@ webUrl: "https://www.techspot.com/news/85199-apple-went-hiring-spree-earlier-yea
 ampWebUrl: "https://www.techspot.com/amp/news/85199-apple-went-hiring-spree-earlier-year-aid-cloud.html"
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85199-apple-went-hiring-spree-earlier-year-aid-cloud.html"
 type: article
-quality: 82
-heat: 82
+quality: 102
+heat: 102
 published: true
 
 provider:

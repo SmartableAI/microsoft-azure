@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/microsoft-azure-5g-and-hybrid-clou
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-5g-and-hybrid-cloud-what-you-need-to-know/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-5g-and-hybrid-cloud-what-you-need-to-know/"
 type: article
-quality: 97
-heat: 117
+quality: 117
+heat: 137
 published: true
 
 provider:
@@ -40,7 +40,7 @@ related:
     provider:
       name: IT Pro Portal
       domain: itproportal.com
-    quality: 57
+    quality: 77
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/NUfXhUjRRSPW2qrdEjXt2V-1200-80.jpg"
         width: 800

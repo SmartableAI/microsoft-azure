@@ -5,8 +5,8 @@ excerpt: "In November 2019, we announced the preview of Azure Arc, a set of tech
 publishedDateTime: 2020-05-20T08:30:28Z
 webUrl: "https://azure.microsoft.com/blog/azure-arc-enabled-kubernetes-preview-and-new-ecosystem-partners/"
 type: article
-quality: 97
-heat: 97
+quality: 107
+heat: 107
 published: true
 
 provider:

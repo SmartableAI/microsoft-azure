@@ -5,8 +5,8 @@ excerpt: "AWS argued against the remand, stating that \"its proposed corrective 
 publishedDateTime: 2020-04-20T09:30:00Z
 webUrl: "https://fcw.com/articles/2020/04/17/hasc-chair-react-jedi-probe.aspx"
 type: article
-quality: 18
-heat: 18
+quality: 28
+heat: 28
 published: false
 
 provider:

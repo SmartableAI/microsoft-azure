@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/outlook-for-windows-client-to-store-email
 ampWebUrl: "https://www.zdnet.com/google-amp/article/outlook-for-windows-client-to-store-email-signature-in-the-cloud/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/outlook-for-windows-client-to-store-email-signature-in-the-cloud/"
 type: article
-quality: 82
-heat: 82
+quality: 102
+heat: 102
 published: true
 
 provider:

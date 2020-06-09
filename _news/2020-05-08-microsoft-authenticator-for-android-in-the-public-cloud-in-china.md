@@ -5,8 +5,8 @@ excerpt: "Microsoft Authenticator for Android in the public cloud in China. 05/0
 publishedDateTime: 2020-05-08T05:19:00Z
 webUrl: "https://docs.microsoft.com/en-us/azure/active-directory/user-help/auth-app-android-china"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

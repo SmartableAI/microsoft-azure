@@ -5,7 +5,7 @@ excerpt: "This white paper provides OEM developers a fast, proven, secure method
 publishedDateTime: 2020-06-02T18:06:00Z
 webUrl: "https://www.embedded-computing.com/premium-white-papers-2/enabling-secure-iot-devices-with-microsoft-azure-and-mentor-embedded-linux"
 type: article
-quality: 34
+quality: 44
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 95
+    quality: 115
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed31bf63c7e9c000678f8ad%2F0x0.jpg"
         width: 1000

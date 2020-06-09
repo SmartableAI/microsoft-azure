@@ -5,8 +5,8 @@ excerpt: "Microsoft's outlook is supported by growing demand for its productivit
 publishedDateTime: 2020-05-25T02:27:00Z
 webUrl: "https://seekingalpha.com/article/4349825-microsoft-remains-interesting-dividend-growth-play"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

@@ -7,9 +7,9 @@ webUrl: "https://www.windowscentral.com/pluralsight-has-free-courses-help-you-le
 ampWebUrl: "https://www.windowscentral.com/pluralsight-has-free-courses-help-you-learn-microsoft-azure-quickly?amp"
 cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/pluralsight-has-free-courses-help-you-learn-microsoft-azure-quickly?amp"
 type: article
-quality: 57
-heat: 57
-published: false
+quality: 77
+heat: 77
+published: true
 
 provider:
   name: Windows Central

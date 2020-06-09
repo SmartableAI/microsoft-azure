@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/05/23/the-pentagons-joint-ai-center-wants-
 ampWebUrl: "https://venturebeat.com/2020/05/23/the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/23/the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley/amp/"
 type: article
-quality: 82
-heat: 102
+quality: 102
+heat: 122
 published: true
 
 provider:
@@ -40,7 +40,7 @@ related:
     provider:
       name: Breaking Defense
       domain: breakingdefense.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://sites.breakingmedia.com/uploads/sites/3/2019/11/5099088-1-e1573655588617-1024x722.jpg"
         width: 1024

@@ -5,7 +5,7 @@ excerpt: "Cloud Manufacturing MarketOverview: Cloud manufacturing is the process
 publishedDateTime: 2020-05-27T07:56:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-manufacturing-market-2020-company-profiles-covid---19-analysis-industry-segments-landscape-global-trends-and-demand-by-forecast-to-2023-2020-05-27"
 type: article
-quality: 24
+quality: 34
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
+    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -50,7 +50,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 35
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -64,7 +64,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 26
+    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

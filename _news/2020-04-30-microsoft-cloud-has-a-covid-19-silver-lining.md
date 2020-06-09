@@ -5,7 +5,7 @@ excerpt: "Engines of top-line growth were server products and cloud services, wh
 publishedDateTime: 2020-04-30T13:38:00Z
 webUrl: "https://www.lightreading.com/cloud-native-nfv/microsoft-cloud-has-a-covid-19-silver-lining/d/d-id/759308"
 type: article
-quality: 22
+quality: 32
 heat: -1
 published: false
 
@@ -32,7 +32,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 60
+    quality: 70
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106512839-cb200429timothyhoran.jpg?v=1588192896"
         width: 1920

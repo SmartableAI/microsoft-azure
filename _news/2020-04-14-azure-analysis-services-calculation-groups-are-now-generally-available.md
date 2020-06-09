@@ -5,8 +5,8 @@ excerpt: ""
 publishedDateTime: 2020-04-14T22:00:21Z
 webUrl: "https://azure.microsoft.com/en-us/updates/announcing-general-availability-ga-of-calculation-groups-in-azure-analysis-services/"
 type: article
-quality: 97
-heat: 217
+quality: 107
+heat: 227
 published: true
 
 provider:
@@ -36,7 +36,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 94
+    quality: 104
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/2eee66bc-197a-4a22-97b3-a23d469d3f97.png"
         width: 604
@@ -50,7 +50,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 92
+    quality: 102
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/938e404c-6b8c-4d87-8795-119109f5f43e.png"
         width: 553

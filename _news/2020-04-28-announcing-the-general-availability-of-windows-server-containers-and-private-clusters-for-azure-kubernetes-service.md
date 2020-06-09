@@ -30,7 +30,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 86
+    quality: 96
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/312759ad-1010-4449-98f4-308ec63ec078.jpg"
         width: 1099
@@ -46,7 +46,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 57
+    quality: 77
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2019/11/Azure-Arc.jpg"
         width: 1156
@@ -60,7 +60,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 37
+    quality: 47
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/microsoft2-1-1.png"
         width: 718

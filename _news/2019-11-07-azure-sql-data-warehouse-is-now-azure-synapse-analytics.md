@@ -5,7 +5,7 @@ excerpt: "On November fourth, we announced Azure Synapse Analytics, the next evo
 publishedDateTime: 2019-11-07T10:00:11Z
 webUrl: "https://azure.microsoft.com/blog/azure-sql-data-warehouse-is-now-azure-synapse-analytics/"
 type: article
-quality: 114
+quality: 124
 heat: -1
 published: false
 
@@ -37,7 +37,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 114
+    quality: 124
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/ee753f4b-675a-405f-98b2-01d4a85034ca.png"
         width: 1024

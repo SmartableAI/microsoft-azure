@@ -5,8 +5,8 @@ excerpt: "Nvidia acquired Cumulus as it looks to sell an entire suite of product
 publishedDateTime: 2020-05-06T15:42:00Z
 webUrl: "https://www.businessinsider.com/nvidia-acquired-cumulus-expand-enterprise-cloud-growth-2020-5"
 type: article
-quality: 42
-heat: 42
+quality: 52
+heat: 52
 published: false
 
 provider:

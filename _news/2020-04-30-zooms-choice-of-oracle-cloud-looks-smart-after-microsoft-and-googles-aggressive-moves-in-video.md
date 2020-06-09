@@ -7,7 +7,7 @@ webUrl: "https://www.cnbc.com/2020/04/30/zoom-choice-of-oracle-cloud-logical-aft
 ampWebUrl: "https://www.cnbc.com/amp/2020/04/30/zoom-choice-of-oracle-cloud-logical-after-news-from-microsoft-google.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/30/zoom-choice-of-oracle-cloud-logical-after-news-from-microsoft-google.html"
 type: article
-quality: 69
+quality: 89
 heat: -1
 published: false
 
@@ -40,7 +40,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F570037%2Fzoom-oracle-cloud-mf.jpg&w=1200&op=resize"
         width: 1200
@@ -56,7 +56,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106411476-1582742955089gettyimages-1173631560.jpeg?v=1585759755"
         width: 4000
@@ -70,7 +70,7 @@ related:
     provider:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://media.datacenterdynamics.com/media/images/zoom_business_meeting.2e16d0ba.fill-1200x630.jpg"
         width: 1024

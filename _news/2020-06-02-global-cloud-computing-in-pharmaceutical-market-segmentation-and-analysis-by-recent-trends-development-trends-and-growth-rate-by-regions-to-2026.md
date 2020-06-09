@@ -5,7 +5,7 @@ excerpt: "This report aims to estimate the Global “Cloud Computing In Pharmace
 publishedDateTime: 2020-06-02T09:57:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-cloud-computing-in-pharmaceutical-market-segmentation-and-analysis-by-recent-trends-development-trends-and-growth-rate-by-regions-to-2026-2020-06-02?mod=mw_quote_news"
 type: article
-quality: 25
+quality: 35
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 66
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

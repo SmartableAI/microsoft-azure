@@ -7,8 +7,8 @@ webUrl: "https://www.neowin.net/news/microsoft-weekly-higher-revenue-new-insider
 ampWebUrl: "https://www.neowin.net/amp/microsoft-weekly-higher-revenue-new-insider-builds-and-future-games/"
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-weekly-higher-revenue-new-insider-builds-and-future-games/"
 type: article
-quality: 82
-heat: 82
+quality: 102
+heat: 102
 published: true
 
 provider:

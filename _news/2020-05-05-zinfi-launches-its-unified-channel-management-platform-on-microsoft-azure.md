@@ -29,7 +29,7 @@ related:
     provider:
       name: Help Net Security
       domain: helpnetsecurity.com
-    quality: 34
+    quality: 44
     images:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
         width: 304
@@ -43,7 +43,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 20
+    quality: 30
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/Poojan-Kumar-Clumio.png"
         width: 1094
@@ -57,7 +57,7 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 13
+    quality: 23
     images:
       - url: "https://mms.businesswire.com/media/20200430005281/en/788603/23/Useprimary-landscape_logo.jpg"
         width: 1200

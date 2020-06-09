@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/red-hat-takes-on-the-hybrid-cloud-with-it
 ampWebUrl: "https://www.zdnet.com/google-amp/article/red-hat-takes-on-the-hybrid-cloud-with-its-latest-openshift-kubernetes-distro/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/red-hat-takes-on-the-hybrid-cloud-with-its-latest-openshift-kubernetes-distro/"
 type: article
-quality: 79
-heat: 99
+quality: 99
+heat: 119
 published: true
 
 provider:
@@ -40,7 +40,7 @@ related:
     provider:
       name: The Next Platform
       domain: nextplatform.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/skyscraper-cloud-looking-up-vertical-1024x1024.jpg"
         width: 1024

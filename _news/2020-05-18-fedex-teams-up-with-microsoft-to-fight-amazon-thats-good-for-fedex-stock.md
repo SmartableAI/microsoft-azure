@@ -7,7 +7,7 @@ webUrl: "https://www.barrons.com/articles/fedex-teams-up-with-microsoft-to-fight
 ampWebUrl: "https://www.barrons.com/amp/articles/fedex-teams-up-with-microsoft-to-fight-amazon-thats-good-for-fedex-stock-51589815820"
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/fedex-teams-up-with-microsoft-to-fight-amazon-thats-good-for-fedex-stock-51589815820"
 type: article
-quality: 40
+quality: 60
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 70
+    quality: 90
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2016/04/20160404_Envision_07-1240x828.jpg"
         width: 1240
@@ -52,7 +52,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 67
+    quality: 87
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106474164-1585941999885gettyimages-939960022.jpeg?v=1585942142"
         width: 5253
@@ -68,7 +68,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 48
+    quality: 68
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2019/11/microsoft-630x473.jpg"
         width: 630
@@ -84,7 +84,7 @@ related:
     provider:
       name: The Register
       domain: theregister.co.uk
-    quality: 34
+    quality: 54
     images:
       - url: "https://regmedia.co.uk/2017/12/19/lightsaber.jpg"
         width: 648
@@ -98,7 +98,7 @@ related:
     provider:
       name: Federal Times
       domain: federaltimes.com
-    quality: 15
+    quality: 25
     images:
       - url: "https://www.armytimes.com/resizer/zPIx2t3S-cW9L6O4V1nUbDT6wsw=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/SPQTUFFMHRFI7FZBGH36NHJ5MA.jpg"
         width: 1200

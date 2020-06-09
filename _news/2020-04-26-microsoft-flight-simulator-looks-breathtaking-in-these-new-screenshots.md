@@ -7,7 +7,7 @@ webUrl: "https://www.tweaktown.com/news/72060/microsoft-flight-simulator-looks-b
 ampWebUrl: "https://www.tweaktown.com/news/72060/microsoft-flight-simulator-looks-breathtaking-in-these-new-screenshots/amp.html"
 cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/72060/microsoft-flight-simulator-looks-breathtaking-in-these-new-screenshots/amp.html"
 type: article
-quality: 42
+quality: 62
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 73
+    quality: 93
     images:
       - url: "https://cnet1.cbsistatic.com/img/j2IE5L7cuPxVIjwwueet2C8CGhM=/756x567/2020/04/22/2f03de55-f317-41dc-90a8-76ad905f59bc/microsoft-flight-sim-2020-hardware-specs.jpg"
         width: 756

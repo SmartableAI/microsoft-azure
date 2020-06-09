@@ -7,8 +7,8 @@ webUrl: "https://www.wsj.com/articles/companies-hit-pause-on-digital-transformat
 ampWebUrl: "https://www.wsj.com/amp/articles/companies-hit-pause-on-digital-transformation-despite-spending-more-on-cloud-11588757402"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/companies-hit-pause-on-digital-transformation-despite-spending-more-on-cloud-11588757402"
 type: article
-quality: 79
-heat: 79
+quality: 99
+heat: 99
 published: true
 
 provider:

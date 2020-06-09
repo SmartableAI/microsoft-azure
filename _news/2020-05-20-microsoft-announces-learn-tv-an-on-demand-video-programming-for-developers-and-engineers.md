@@ -7,7 +7,7 @@ webUrl: "https://mspoweruser.com/microsoft-announces-learn-tv/"
 ampWebUrl: "https://mspoweruser.com/microsoft-announces-learn-tv/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-announces-learn-tv/amp/"
 type: article
-quality: 33
+quality: 53
 heat: -1
 published: false
 

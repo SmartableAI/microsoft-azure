@@ -5,9 +5,9 @@ excerpt: "Empowering enterprises to achieve faster time to insights by loading, 
 publishedDateTime: 2020-05-14T12:08:00Z
 webUrl: "https://sdtimes.com/matillion-launches-matillion-etl-for-azure-synapse-empowering-users-with-data-transformation-capabilities-for-rapid-access-to-insights/"
 type: article
-quality: 45
-heat: 45
-published: false
+quality: 55
+heat: 115
+published: true
 
 provider:
   name: SD Times
@@ -36,7 +36,7 @@ related:
     provider:
       name: petri.com
       domain: petri.com
-    quality: 30
+    quality: 40
     images:
       - url: "https://www.petri.com/wp-content/uploads/sites/3/2016/08/Microsoft-Azure-cloud-hero.png"
         width: 1280
@@ -50,7 +50,7 @@ related:
     provider:
       name: Light Reading
       domain: lightreading.com
-    quality: 16
+    quality: 26
     images:
       - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
         width: 600
@@ -64,7 +64,7 @@ related:
     provider:
       name: WFMZ-TV
       domain: wfmz.com
-    quality: 5
+    quality: 15
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
         width: 1280

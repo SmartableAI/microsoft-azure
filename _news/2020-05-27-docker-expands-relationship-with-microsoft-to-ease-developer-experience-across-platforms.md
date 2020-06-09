@@ -7,8 +7,8 @@ webUrl: "https://techcrunch.com/2020/05/27/docker-expands-relationship-with-micr
 ampWebUrl: "https://techcrunch.com/2020/05/27/docker-expands-relationship-with-microsoft-to-ease-developer-experience-across-platforms/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/27/docker-expands-relationship-with-microsoft-to-ease-developer-experience-across-platforms/amp/"
 type: article
-quality: 73
-heat: 173
+quality: 93
+heat: 193
 published: true
 
 provider:
@@ -40,7 +40,7 @@ related:
     provider:
       name: ITworld
       domain: itworld.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://images.idgesg.net/images/article/2019/02/power-of-one_rebel_fight_strong_rise-up_arm_fist_power-100788748-large.jpg"
         width: 1200
@@ -54,7 +54,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 36
+    quality: 46
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/Johnston-768x512.jpg"
         width: 768
@@ -68,7 +68,7 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 32
+    quality: 42
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
@@ -82,7 +82,7 @@ related:
     provider:
       name: Sify.com
       domain: sify.com
-    quality: 16
+    quality: 26
     images:
       - url: "https://www.sify.com/uploads/DevOpsEnabler_ugbqn5hgfaeea.jpg"
         width: 600

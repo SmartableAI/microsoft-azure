@@ -5,8 +5,8 @@ excerpt: "They are figuring out how to conduct business and keep staff engaged w
 publishedDateTime: 2020-04-29T07:06:00Z
 webUrl: "https://www.directionsmag.com/article/9752"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

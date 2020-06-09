@@ -7,7 +7,7 @@ webUrl: "https://www.zdnet.com/article/become-a-cloud-pro-microsoft-azure-certif
 ampWebUrl: "https://www.zdnet.com/google-amp/article/become-a-cloud-pro-microsoft-azure-certification-prep-bundle-is-95-off/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/become-a-cloud-pro-microsoft-azure-certification-prep-bundle-is-95-off/"
 type: article
-quality: 96
+quality: 116
 heat: -1
 published: false
 
@@ -40,7 +40,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 96
+    quality: 116
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eca9237702e3700087145bd%2F0x0.jpg"
         width: 1000
@@ -56,7 +56,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 85
+    quality: 105
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2020/05/IMG_20191104_091357.jpg?w=1024"
         width: 1024

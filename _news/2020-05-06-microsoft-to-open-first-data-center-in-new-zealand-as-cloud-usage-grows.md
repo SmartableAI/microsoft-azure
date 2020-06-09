@@ -7,7 +7,7 @@ webUrl: "https://techcrunch.com/2020/05/06/microsoft-to-open-first-data-center-i
 ampWebUrl: "https://techcrunch.com/2020/05/06/microsoft-to-open-first-data-center-in-new-zealand-as-cloud-usage-grows/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/06/microsoft-to-open-first-data-center-in-new-zealand-as-cloud-usage-grows/amp/"
 type: article
-quality: 82
+quality: 102
 heat: -1
 published: false
 
@@ -40,7 +40,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/03/30/c2660a3e-8f41-4c66-9c19-b4905506f59e/thumbnail/1200x675/5a908ef8af6d1bb2302b432a2d6767e0/do-not-push-the-button-tfnsw.jpg"
         width: 1200
@@ -54,7 +54,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/5123115445_6103d93ab6_h.jpg"
         width: 1316

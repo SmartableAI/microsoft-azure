@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 97
+    quality: 107
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f5bfc52e-3a1c-4356-968c-9858e49b7711.jpg"
         width: 1024
@@ -45,7 +45,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 57
+    quality: 77
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2017/05/azure-cosmos-db-2.jpg"
         width: 1200

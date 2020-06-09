@@ -5,8 +5,8 @@ excerpt: "Nerdio, the definitive Azure deployment, management, and optimization 
 publishedDateTime: 2020-06-02T12:47:00Z
 webUrl: "https://www.businesswire.com/news/home/20200602005235/en/Nerdio-Accelerates-International-Expansion-Strategic-Product-Partnership"
 type: article
-quality: 0
-heat: 0
+quality: 10
+heat: 10
 published: false
 
 provider:

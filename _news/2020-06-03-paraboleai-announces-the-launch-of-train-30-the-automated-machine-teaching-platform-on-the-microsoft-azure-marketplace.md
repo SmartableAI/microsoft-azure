@@ -5,8 +5,8 @@ excerpt: "Parabole.ai today announced that TRAIN™ 3.0, its MACHINE TEACHING PL
 publishedDateTime: 2020-06-03T13:12:00Z
 webUrl: "https://www.prnewswire.com/news-releases/paraboleai-announces-the-launch-of-train-3-0--the-automated-machine-teaching-platform-on-the-microsoft-azure-marketplace-301069421.html"
 type: article
-quality: 11
-heat: 11
+quality: 21
+heat: 21
 published: false
 
 provider:

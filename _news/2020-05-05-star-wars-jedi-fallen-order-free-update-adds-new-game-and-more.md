@@ -7,7 +7,7 @@ webUrl: "https://www.thumbsticks.com/star-wars-jedi-fallen-order-free-update-050
 ampWebUrl: "https://www.thumbsticks.com/star-wars-jedi-fallen-order-free-update-05052020/amp/"
 cdnAmpWebUrl: "https://www-thumbsticks-com.cdn.ampproject.org/c/s/www.thumbsticks.com/star-wars-jedi-fallen-order-free-update-05052020/amp/"
 type: article
-quality: 42
+quality: 62
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 72
+    quality: 92
     images:
       - url: "https://cdn.vox-cdn.com/thumbor/F49y-AS6gRZc9YxX_KMwtPzcfnw=/0x0:3840x2160/1400x933/filters:focal(1090x782:1704x1396):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66726840/JFO_LaunchScreens_Cal_CU_v09.0.png"
         width: 1400
@@ -52,7 +52,7 @@ related:
     provider:
       name: Windows Central
       domain: windowscentral.com
-    quality: 40
+    quality: 60
     images:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/05/star-wars-jedi-fallen-order-inquisitor-vs-cal.jpg?itok=u4LsUBkh"
         width: 800
@@ -66,7 +66,7 @@ related:
     provider:
       name: On MSFT
       domain: onmsft.com
-    quality: 12
+    quality: 22
     images:
       - url: "https://www.onmsft.com/wp-content/uploads/2020/05/jedifallenorderupdate.jpg"
         width: 1024

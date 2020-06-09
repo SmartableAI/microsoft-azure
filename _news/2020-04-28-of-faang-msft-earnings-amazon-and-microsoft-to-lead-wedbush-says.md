@@ -27,7 +27,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F570470%2Fgettyimages-1172877307.jpg&w=1200&op=resize"
         width: 1200
@@ -43,11 +43,27 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 79
+    quality: 99
     images:
       - url: "https://s.marketwatch.com/public/resources/images/MW-GI919_micros_ZH_20180510083121.jpg"
         width: 890
         height: 501
+        isCached: true
+  - title: "How will Microsoft weather the storm? Earnings will double as status report on company’s evolution"
+    excerpt: "Will problems in the Windows PC and server supply chain drag Microsoft down? Or will the boom in productivity, cloud and collaboration lift the company up? Microsoft’s earnings report"
+    publishedDateTime: 2020-04-29T16:59:00Z
+    webUrl: "https://www.geekwire.com/2020/will-microsoft-weather-storm-earnings-will-double-status-report-companys-evolution/"
+    ampWebUrl: "https://www.geekwire.com/2020/will-microsoft-weather-storm-earnings-will-double-status-report-companys-evolution/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/will-microsoft-weather-storm-earnings-will-double-status-report-companys-evolution/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 88
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2019/12/nadella-630x418.jpg"
+        width: 630
+        height: 418
         isCached: true
   - title: "Will Azure & Teams Adoption Aid Microsoft (MSFT) Q3 Earnings?"
     excerpt: "Microsoft MSFT is scheduled to report third-quarter fiscal 2020 results on Apr 29. The tech giant has been striving to enhance capabilities of its cloud computing service — Azure, which is likely to have bolstered adoption."
@@ -59,23 +75,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 77
-  - title: "How will Microsoft weather the storm? Earnings will double as status report on company’s evolution"
-    excerpt: "Will problems in the Windows PC and server supply chain drag Microsoft down? Or will the boom in productivity, cloud and collaboration lift the company up? Microsoft’s earnings report"
-    publishedDateTime: 2020-04-29T16:59:00Z
-    webUrl: "https://www.geekwire.com/2020/will-microsoft-weather-storm-earnings-will-double-status-report-companys-evolution/"
-    ampWebUrl: "https://www.geekwire.com/2020/will-microsoft-weather-storm-earnings-will-double-status-report-companys-evolution/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/will-microsoft-weather-storm-earnings-will-double-status-report-companys-evolution/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 68
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2019/12/nadella-630x418.jpg"
-        width: 630
-        height: 418
-        isCached: true
+    quality: 87
   - title: "Microsoft Is A Bargain After Earnings"
     excerpt: "Microsoft (NASDAQ:MSFT) stock rose 5% after reporting exceptional earnings for the third quarter, which proved the"
     publishedDateTime: 2020-05-05T11:50:00Z
@@ -86,7 +86,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 62
+    quality: 72
   - title: "Microsoft Earnings on Deck: What to Watch In Its March Quarter Earnings"
     excerpt: "Microsoft warned investors weeks ago that coronavirus disrupted its device shipments, but expects its results in other segments to be unaffected by the pandemic."
     publishedDateTime: 2020-04-27T11:01:00Z
@@ -97,7 +97,7 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://content.jwplatform.com/thumbs/bwKn9eIN-720.jpg"
         width: 720
@@ -113,7 +113,7 @@ related:
     provider:
       name: Barron's
       domain: barrons.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://images.barrons.com/im-144883/social"
         width: 1280
@@ -129,7 +129,7 @@ related:
     provider:
       name: InvestorPlace
       domain: investorplace.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://investorplace.com/wp-content/uploads/2019/10/msft1600b.jpg"
         width: 1600
@@ -145,7 +145,7 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://content.jwplatform.com/thumbs/6UhcmMhw-720.jpg"
         width: 720
@@ -161,7 +161,7 @@ related:
     provider:
       name: Barron's
       domain: barrons.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://images.barrons.com/im-182026/social"
         width: 1280
@@ -177,7 +177,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 41
+    quality: 61
     images:
       - url: "https://www.benzinga.com/files/images/story/2012/untitled-1-recovered_3.png"
         width: 1120
@@ -193,7 +193,7 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
-    quality: 40
+    quality: 60
     images:
       - url: "https://static.seattletimes.com/wp-content/uploads/2020/04/140922-300x215.jpg"
         width: 300

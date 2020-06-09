@@ -5,7 +5,7 @@ excerpt: "The enterprise software vendor is a surprising choice for Zoom, with O
 publishedDateTime: 2020-04-29T11:59:00Z
 webUrl: "https://www.datacenterdynamics.com/en/news/zoom-picks-oracle-its-cloud-infrastructure/"
 type: article
-quality: 22
+quality: 32
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F570037%2Fzoom-oracle-cloud-mf.jpg&w=1200&op=resize"
         width: 1200
@@ -50,7 +50,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106411476-1582742955089gettyimages-1173631560.jpeg?v=1585759755"
         width: 4000
@@ -66,7 +66,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 69
+    quality: 89
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106424586-1583343879965sg-ericyuan020320-03.jpg?v=1583343910"
         width: 1620

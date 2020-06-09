@@ -7,9 +7,9 @@ webUrl: "https://investorplace.com/2020/05/is-microsoft-stock-about-to-go-into-a
 ampWebUrl: "https://investorplace.com/2020/05/is-microsoft-stock-about-to-go-into-a-lengthy-stall/amp/"
 cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/05/is-microsoft-stock-about-to-go-into-a-lengthy-stall/amp/"
 type: article
-quality: 42
-heat: 42
-published: false
+quality: 62
+heat: 82
+published: true
 
 provider:
   name: InvestorPlace
@@ -34,7 +34,7 @@ related:
     provider:
       name: Investopedia
       domain: investopedia.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://www.investopedia.com/thmb/Q1A1btEXveIZ9LtcaLDDQP-LJ08=/680x440/filters:fill(auto,1)/microsoft_windows_istock_000025623287-80aa1528091f4cdb908f66e2440a2589.jpg"
         width: 680

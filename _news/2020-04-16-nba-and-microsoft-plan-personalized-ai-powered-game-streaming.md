@@ -7,8 +7,8 @@ webUrl: "https://www.engadget.com/nba-microsoft-ai-game-streaming-193552938.html
 ampWebUrl: "https://www.engadget.com/amp/nba-microsoft-ai-game-streaming-193552938.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/nba-microsoft-ai-game-streaming-193552938.html"
 type: article
-quality: 82
-heat: 122
+quality: 102
+heat: 142
 published: true
 
 provider:
@@ -45,7 +45,7 @@ related:
     provider:
       name: Digital Trends
       domain: digitaltrends.com
-    quality: 78
+    quality: 98
     images:
       - url: "https://icdn2.digitaltrends.com/image/digitaltrends/oklahoma-city-thunder-v-golden-state-warriors-game-seven-1200x630-c-ar1.91.jpg"
         width: 1200
@@ -63,7 +63,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 59
+    quality: 69
     images:
       - url: "https://i.insider.com/5e6bd9bd84159f6e8f786846?width=1200&format=jpeg"
         width: 1200

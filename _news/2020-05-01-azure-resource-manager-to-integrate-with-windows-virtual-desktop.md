@@ -5,7 +5,7 @@ excerpt: "A so-called \"spring update\" of Windows Virtual Desktop (WVD) that ef
 publishedDateTime: 2020-05-01T00:09:00Z
 webUrl: "https://mcpmag.com/articles/2020/04/30/azure-resource-manager-windows-virtual-desktop.aspx"
 type: article
-quality: 37
+quality: 47
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-1175327930.jpg?w=1024"
         width: 1024
@@ -50,7 +50,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://zdnet1.cbsistatic.com/hub/i/2020/04/30/b77a0f01-6b33-4f90-b06e-94b4e3c3b85f/newwvdfeatures.jpg"
         width: 875
@@ -73,7 +73,7 @@ related:
     provider:
       name: Thurrott
       domain: thurrott.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/04/windows-virtual-desktop.jpg"
         width: 1066
@@ -87,7 +87,7 @@ related:
     provider:
       name: Thurrott
       domain: thurrott.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/05/collections-hero.jpg"
         width: 1066

@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/kateoflahertyuk/2020/05/15/microsoft-just-
 ampWebUrl: "https://www.forbes.com/sites/kateoflahertyuk/2020/05/15/microsoft-just-made-a-major-covid-19-security-move-that-will-impact-everyone/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kateoflahertyuk/2020/05/15/microsoft-just-made-a-major-covid-19-security-move-that-will-impact-everyone/amp/"
 type: article
-quality: 79
-heat: 79
+quality: 99
+heat: 99
 published: true
 
 provider:

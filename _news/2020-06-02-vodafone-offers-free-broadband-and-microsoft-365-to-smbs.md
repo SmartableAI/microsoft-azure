@@ -7,8 +7,8 @@ webUrl: "https://www.techradar.com/news/vodafone-offers-free-broadband-and-micro
 ampWebUrl: "https://www.techradar.com/amp/news/vodafone-offers-free-broadband-and-microsoft-365-to-smbs"
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/vodafone-offers-free-broadband-and-microsoft-365-to-smbs"
 type: article
-quality: 82
-heat: 102
+quality: 102
+heat: 122
 published: true
 
 provider:
@@ -38,7 +38,7 @@ related:
     provider:
       name: pocketnow.com
       domain: pocketnow.com
-    quality: 15
+    quality: 25
     images:
       - url: "https://pocketnow.com/wp/../files/2020/06/samsung_access.jpg"
         width: 1197

@@ -5,7 +5,7 @@ excerpt: "The NBA and Microsoft announced a new multiyear partnership aimed at t
 publishedDateTime: 2020-04-20T14:25:00Z
 webUrl: "https://www.businessinsider.com/nba-microsoft-team-up-for-ai-driven-personalized-streaming-platform-2020-4"
 type: article
-quality: 59
+quality: 69
 heat: -1
 published: false
 
@@ -38,7 +38,7 @@ related:
     provider:
       name: Engadget
       domain: engadget.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2Fe672f1f0-8016-11ea-bf7d-a13ca0c61986&client=amp-blogside-v2&signature=d0bc9b0731e9556c551afdfd5caddca0b0c3a3c3"
         width: 600
@@ -58,7 +58,7 @@ related:
     provider:
       name: Digital Trends
       domain: digitaltrends.com
-    quality: 78
+    quality: 98
     images:
       - url: "https://icdn2.digitaltrends.com/image/digitaltrends/oklahoma-city-thunder-v-golden-state-warriors-game-seven-1200x630-c-ar1.91.jpg"
         width: 1200

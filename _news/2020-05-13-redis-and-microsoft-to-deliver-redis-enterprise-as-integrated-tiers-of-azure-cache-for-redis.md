@@ -5,7 +5,7 @@ excerpt: "Redis Labs announced a new strategic agreement with Microsoft to deliv
 publishedDateTime: 2020-05-13T23:48:00Z
 webUrl: "https://www.helpnetsecurity.com/2020/05/14/redis-labs-microsoft/"
 type: article
-quality: 26
+quality: 36
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 97
+    quality: 117
     images:
       - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/05/11/f9afed5d-33cd-438f-ba73-31b31abba8e1/thumbnail/1200x675/551e70a2173905fa78f8877e82c1669a/redis-logo-2.png"
         width: 1200
@@ -50,7 +50,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 97
+    quality: 117
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1207074418.jpg?w=1024"
         width: 1024
@@ -73,7 +73,7 @@ related:
     provider:
       name: eWeek
       domain: eweek.com
-    quality: 62
+    quality: 72
     images:
       - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2020/05/Microsoft365logo.jpg?alias=social_image"
         width: 560

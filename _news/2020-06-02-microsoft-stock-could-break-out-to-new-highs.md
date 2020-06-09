@@ -5,7 +5,7 @@ excerpt: "Microsoft stock is trading just below the February all-time high and c
 publishedDateTime: 2020-06-02T13:50:00Z
 webUrl: "https://www.investopedia.com/microsoft-stock-could-break-out-to-new-highs-4846614"
 type: article
-quality: 22
+quality: 32
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: InvestorPlace
       domain: investorplace.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://investorplace.com/wp-content/uploads/2019/10/msft1600f.jpg"
         width: 1600

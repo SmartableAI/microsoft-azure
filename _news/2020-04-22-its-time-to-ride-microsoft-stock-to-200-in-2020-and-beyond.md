@@ -7,8 +7,8 @@ webUrl: "https://investorplace.com/2020/04/its-time-to-ride-microsoft-stock-to-2
 ampWebUrl: "https://investorplace.com/2020/04/its-time-to-ride-microsoft-stock-to-200-in-2020-and-beyond/amp/"
 cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/04/its-time-to-ride-microsoft-stock-to-200-in-2020-and-beyond/amp/"
 type: article
-quality: 42
-heat: 42
+quality: 62
+heat: 62
 published: false
 
 provider:

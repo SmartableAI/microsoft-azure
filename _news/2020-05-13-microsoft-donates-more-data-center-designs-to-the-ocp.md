@@ -5,7 +5,7 @@ excerpt: "The OCP is an organization that works to share designs of data center 
 publishedDateTime: 2020-05-13T00:37:00Z
 webUrl: "https://siliconangle.com/2020/05/12/microsoft-donates-data-center-designs-ocp/"
 type: article
-quality: 22
+quality: 32
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/03/30/c2660a3e-8f41-4c66-9c19-b4905506f59e/thumbnail/1200x675/5a908ef8af6d1bb2302b432a2d6767e0/do-not-push-the-button-tfnsw.jpg"
         width: 1200
@@ -50,7 +50,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-109864162.jpg?w=1024"
         width: 1024

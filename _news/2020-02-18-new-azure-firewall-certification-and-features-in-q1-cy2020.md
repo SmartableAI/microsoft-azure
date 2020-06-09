@@ -5,7 +5,7 @@ excerpt: "This post was co-authored by Suren Jamiyanaa, Program Manager, Azure N
 publishedDateTime: 2020-02-18T11:00:15Z
 webUrl: "https://azure.microsoft.com/blog/new-azure-firewall-certification-and-features-in-q1-cy2020/"
 type: article
-quality: 99
+quality: 109
 heat: -1
 published: false
 
@@ -37,7 +37,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 99
+    quality: 109
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/35eac5bb-b137-49ca-b783-a4321ac7ffbf.jpg"
         width: 1024

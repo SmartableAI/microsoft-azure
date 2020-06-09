@@ -5,8 +5,8 @@ excerpt: " \r\n\r\nBlob Index—a managed secondary index, allowing you to stor
 publishedDateTime: 2020-05-04T10:00:03Z
 webUrl: "https://azure.microsoft.com/blog/manage-and-find-data-with-blob-index-for-azure-storage-now-in-preview/"
 type: article
-quality: 114
-heat: 214
+quality: 124
+heat: 224
 published: true
 
 provider:

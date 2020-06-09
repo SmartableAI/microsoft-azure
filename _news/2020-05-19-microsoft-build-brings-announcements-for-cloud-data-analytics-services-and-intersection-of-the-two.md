@@ -7,7 +7,7 @@ webUrl: "https://www.zdnet.com/article/microsoft-build-brings-announcements-for-
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-build-brings-announcements-for-cloud-data-analytics-services-and-intersection-of-the-two/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-build-brings-announcements-for-cloud-data-analytics-services-and-intersection-of-the-two/"
 type: article
-quality: 67
+quality: 87
 heat: -1
 published: false
 
@@ -40,7 +40,7 @@ related:
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://cdn.vox-cdn.com/thumbor/DLpMOz4jmOEGQJb21UUFtRfAEro=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66819966/twarren_180507_2536_0001.5.jpg"
         width: 1400
@@ -56,7 +56,7 @@ related:
     provider:
       name: Neowin
       domain: neowin.net
-    quality: 80
+    quality: 100
     images:
       - url: "https://cdn.neow.in/news/images/uploaded/2020/05/1590330181_msw-20200524_story.jpg"
         width: 760
@@ -72,7 +72,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 62
+    quality: 72
   - title: "Microsoft teases Edge for Linux at Build 2020"
     excerpt: "Edge is already available on iOS, Android, Mac, Windows 10 and Windows 7, and we have known since December 2019 that Microsoft is working on Edge for Linux also, after Microsoft confirmed the development at Ignite 2019."
     publishedDateTime: 2020-05-20T00:19:00Z
@@ -83,7 +83,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2019/11/Microsoft-Edge-logos.jpg"
         width: 811

@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/04/29/microsoft-earnings-q3-2020/"
 ampWebUrl: "https://venturebeat.com/2020/04/29/microsoft-earnings-q3-2020/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/microsoft-earnings-q3-2020/amp/"
 type: article
-quality: 82
-heat: 102
+quality: 102
+heat: 122
 published: true
 
 provider:
@@ -38,7 +38,7 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
-    quality: 37
+    quality: 47
     images:
       - url: "https://images.saymedia-content.com/.image/MTcyMTczNTA3NzMwMzUxNjQx/microsoft.jpg"
         width: 1920

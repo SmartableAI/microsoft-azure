@@ -5,8 +5,8 @@ excerpt: "Azure Stream Analytics is a fully managed Platform as a Service (PaaS)
 publishedDateTime: 2019-10-29T11:00:15Z
 webUrl: "https://azure.microsoft.com/blog/new-in-stream-analytics-machine-learning-online-scaling-custom-code-and-more/"
 type: article
-quality: 81
-heat: 81
+quality: 91
+heat: 91
 published: true
 
 provider:

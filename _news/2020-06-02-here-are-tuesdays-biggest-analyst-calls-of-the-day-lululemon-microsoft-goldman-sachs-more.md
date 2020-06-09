@@ -5,8 +5,8 @@ excerpt: "Our checks suggest WORK has seen a material uplift in new customer gen
 publishedDateTime: 2020-06-02T12:33:00Z
 webUrl: "https://www.cnbc.com/2020/06/02/tuesdays-calls-of-the-day-lululemon-microsoft-goldman-sachs-more.html"
 type: article
-quality: 50
-heat: 50
+quality: 60
+heat: 60
 published: false
 
 provider:

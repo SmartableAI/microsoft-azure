@@ -27,7 +27,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106261600-1574453260135gettyimages-1127797637.jpeg?v=1589900843"
         width: 4358
@@ -43,7 +43,7 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://cnet3.cbsistatic.com/img/Dok6c43xRR9WyO7Gg_0AlGrbr6Q=/756x567/2020/04/14/de44da9c-e4e1-4477-b318-7b6e6923b653/gettyimages-1200013326.jpg"
         width: 756
@@ -59,7 +59,7 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519179146&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4I1BJ"
         width: 817
@@ -75,7 +75,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/01/06/729a12cf-e9ce-41fc-a5f7-ff3d2b08dd86/thumbnail/1200x675/463f9e181651c8c4749d69e9511e9cd8/budget.jpg"
         width: 1200
@@ -91,7 +91,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 54
+    quality: 64
 
 secured: "/x802IAMSrooNmBPUhu+9IIeNNYy9Efsg1qgnQQr+yo2u5ofQC9gQliPNu7HY1EyqYnEBcWtNM6b8gGikuS6kiTfFncqFmqwk+pLflN82Ju21OFZs8AD0emUNm1i1XddpMXYgcc5tWThdQhiXwCzd2jeufXskHLLw0jmaCK3ojKCoK+LRw+MrpAJM6uJeeuDQrOGnkLc7/5qT9k3OQFW80qdfNnAvLLaE6dcpmOc9ZMEG8WUbABl56ta/RsXrjm7whOK2hrnqafGIJKWjfBdad0bqfuZz0k89dPpCqHhvT+eQpSk78CtOy0LenwXy3g2;jxAJ4A+LqCwNTyFm9GEddw=="
 ---

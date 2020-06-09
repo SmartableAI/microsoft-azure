@@ -7,7 +7,7 @@ webUrl: "https://www.forbes.com/sites/taarinikaurdang/2020/05/31/is-apple-planni
 ampWebUrl: "https://www.forbes.com/sites/taarinikaurdang/2020/05/31/is-apple-planning-to-enter-cloud-computing-space/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/taarinikaurdang/2020/05/31/is-apple-planning-to-enter-cloud-computing-space/amp/"
 type: article
-quality: 82
+quality: 102
 heat: -1
 published: false
 
@@ -40,7 +40,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://tr2.cbsistatic.com/hub/i/r/2020/01/27/d505bbe9-3a79-428e-b3fc-2df23032fe7a/thumbnail/1200x675/4d963c918ba08a8a098d2d502246c0f5/20200124-macy-karen.jpg"
         width: 1200
@@ -54,7 +54,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 37
+    quality: 47
     images:
       - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
         width: 400

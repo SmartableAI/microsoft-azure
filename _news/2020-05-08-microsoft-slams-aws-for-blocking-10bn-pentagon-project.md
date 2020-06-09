@@ -7,7 +7,7 @@ webUrl: "https://www.hindustantimes.com/tech/microsoft-slams-aws-for-blocking-10
 ampWebUrl: "https://m.hindustantimes.com/tech/microsoft-slams-aws-for-blocking-10bn-pentagon-project/story-qHHGKSjsW6ZS2BcP2EiX0M_amp.html"
 cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/microsoft-slams-aws-for-blocking-10bn-pentagon-project/story-qHHGKSjsW6ZS2BcP2EiX0M_amp.html"
 type: article
-quality: 22
+quality: 32
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: The News Minute
       domain: thenewsminute.com
-    quality: 41
+    quality: 61
     images:
       - url: "https://www.thenewsminute.com/sites/default/files/microsoft_750_7.jpg"
         width: 750
@@ -45,7 +45,7 @@ related:
     provider:
       name: Zee Business
       domain: zeebiz.com
-    quality: 34
+    quality: 54
     images:
       - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2020/05/09/118543-singhvi-chouhan.jpg?itok=4uLSp1Pb"
         width: 700
@@ -61,7 +61,7 @@ related:
     provider:
       name: The New Indian Express
       domain: newindianexpress.com
-    quality: 30
+    quality: 50
     images:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/5/9/w600X390/Microsoft-Amazon.jpg"
         width: 600

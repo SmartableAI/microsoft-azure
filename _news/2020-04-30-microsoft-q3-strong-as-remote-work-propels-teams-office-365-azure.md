@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/microsoft-q3-strong-as-remote-work-propel
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-q3-strong-as-remote-work-propels-teams-office-365-azure/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-q3-strong-as-remote-work-propels-teams-office-365-azure/"
 type: article
-quality: 97
-heat: 157
+quality: 117
+heat: 177
 published: true
 
 provider:
@@ -40,7 +40,7 @@ related:
     provider:
       name: Bloomberg
       domain: bloomberg.com
-    quality: 62
+    quality: 72
   - title: "DHS Shares Cloud, Microsoft Office 365 Insights for COVID-19 Telework"
     excerpt: "The latest COVID-19 telework cybersecurity guidance comes from DHS CISA, urging organizations to ensure their Microsoft O365 and other cloud services are secured and using multi-factor authentication."
     publishedDateTime: 2020-04-30T16:09:00Z
@@ -51,7 +51,7 @@ related:
     provider:
       name: IT Security
       domain: healthitsecurity.com
-    quality: 22
+    quality: 32
   - title: "Microsoft sales rise as remote working buoys cloud services"
     excerpt: "Microsoft so far has thrived during the Covid-19 pandemic because of its focus on cloud offerings, like Office productivity tools, Azure services and subscription programs that are less vulnerable to spending slumps."
     publishedDateTime: 2020-04-30T14:15:00Z
@@ -60,7 +60,7 @@ related:
     provider:
       name: Employee Benefit News
       domain: benefitnews.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://arizent.brightspotcdn.com/dims4/default/f81971f/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2F19%2F0d%2Fd64fb71f4b8da9c9945463d4b153%2Fmicrosoft.Bloomberg.jpg"
         width: 1200

@@ -5,7 +5,7 @@ excerpt: "Microsoft is investing $75 million that will create 1,500 new jobs. â€
 publishedDateTime: 2020-05-17T18:59:00Z
 webUrl: "https://www.wsbtv.com/news/local/microsoft-opening-up-another-office-metro-atlanta-creating-1500-new-jobs/N7HHTTDBMFBEFEU7NVKFKXPT3U/"
 type: article
-quality: 19
+quality: 29
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: Mint
       domain: livemint.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://images.livemint.com/img/2020/05/18/600x338/18f773e811c64588bb749e45635cb30c-18f773e811c64588bb749e45635cb30c-1_1589775788668_1589775795557.jpg"
         width: 600
@@ -50,7 +50,7 @@ related:
     provider:
       name: Your Story
       domain: yourstory.com
-    quality: 32
+    quality: 52
     images:
       - url: "https://images.yourstory.com/cs/1/d7f5b370208e11eabf3a639b6d05ad44/MicrosoftBringsDefenderAntivirusforLinux-1582436421058.png?fm=png&auto=format"
         width: 1000
@@ -64,7 +64,7 @@ related:
     provider:
       name: WSB-TV
       domain: wsbtv.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://www.wsbtv.com/resizer/29D4JELtDtqFTk_HhonuArc5REk=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/AYFWWSJOZVCPTCVUF547WKLGTQ.jpg"
         width: 1200

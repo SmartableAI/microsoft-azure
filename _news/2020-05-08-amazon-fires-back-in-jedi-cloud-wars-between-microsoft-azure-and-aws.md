@@ -7,7 +7,7 @@ webUrl: "https://winbuzzer.com/2020/05/08/amazon-fires-back-in-jedi-cloud-wars-b
 ampWebUrl: "https://winbuzzer.com/2020/05/08/amazon-fires-back-in-jedi-cloud-wars-between-microsoft-azure-and-aws-xcxwbn/?amp"
 cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/05/08/amazon-fires-back-in-jedi-cloud-wars-between-microsoft-azure-and-aws-xcxwbn/?amp"
 type: article
-quality: 57
+quality: 77
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 88
+    quality: 108
     images:
       - url: "https://zdnet4.cbsistatic.com/hub/i/2020/01/21/9d349185-abe0-4f78-aed7-f1aa4a2010ee/istock-925557862.jpg"
         width: 1600
@@ -52,7 +52,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 72
+    quality: 92
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2019/12/reInvent-2018_Wednesday_AndyJassyKeynote_140-630x442.jpg"
         width: 630
@@ -66,7 +66,7 @@ related:
     provider:
       name: ARN
       domain: arnnet.com.au
-    quality: 18
+    quality: 28
     images:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/aws_microsoft.jpg"
         width: 800
@@ -80,7 +80,7 @@ related:
     provider:
       name: WFMZ-TV
       domain: wfmz.com
-    quality: 18
+    quality: 28
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
         width: 1280

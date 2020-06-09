@@ -7,8 +7,8 @@ webUrl: "https://www.theverge.com/good-deals/2020/4/29/21241163/may-4th-star-war
 ampWebUrl: "https://www.theverge.com/platform/amp/good-deals/2020/4/29/21241163/may-4th-star-wars-deals-jedi-fallen-order-the-skywalker-saga-films-4k-sales"
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/good-deals/2020/4/29/21241163/may-4th-star-wars-deals-jedi-fallen-order-the-skywalker-saga-films-4k-sales"
 type: article
-quality: 72
-heat: 132
+quality: 92
+heat: 152
 published: true
 
 provider:
@@ -40,7 +40,7 @@ related:
     provider:
       name: Days
       domain: thumbsticks.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://i1.wp.com/www.thumbsticks.com/wp-content/uploads/2020/05/star-was-jedi-fallen-order-new-game-plus.jpg?fit=1280%2C720&#038;ssl=1"
         width: 1280
@@ -56,7 +56,7 @@ related:
     provider:
       name: Windows Central
       domain: windowscentral.com
-    quality: 40
+    quality: 60
     images:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/05/star-wars-jedi-fallen-order-inquisitor-vs-cal.jpg?itok=u4LsUBkh"
         width: 800
@@ -70,7 +70,7 @@ related:
     provider:
       name: On MSFT
       domain: onmsft.com
-    quality: 12
+    quality: 22
     images:
       - url: "https://www.onmsft.com/wp-content/uploads/2020/05/jedifallenorderupdate.jpg"
         width: 1024

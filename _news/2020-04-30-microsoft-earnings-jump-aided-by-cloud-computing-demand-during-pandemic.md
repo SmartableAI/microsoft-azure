@@ -7,7 +7,7 @@ webUrl: "https://www.wsj.com/articles/microsoft-earnings-jump-aided-by-cloud-com
 ampWebUrl: "https://www.wsj.com/amp/articles/microsoft-earnings-jump-aided-by-cloud-computing-demand-during-pandemic-11588192187"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/microsoft-earnings-jump-aided-by-cloud-computing-demand-during-pandemic-11588192187"
 type: article
-quality: 81
+quality: 101
 heat: -1
 published: false
 
@@ -40,7 +40,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/03/30/1bee94a9-8bac-46fe-8ffe-5880854d1040/thumbnail/1200x675/0515dcdb3553b8b42f6fd98c04417369/20200330-daphne-karen-crashing.png"
         width: 1200
@@ -58,7 +58,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 62
+    quality: 72
     images:
       - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/27/357591cc-30e1-4a7b-a061-402d91546b99/thumbnail/770x578/372d2152febad4993f210ec409c97378/microsoft-heres-how-were-trying-to-manag-5ea3181b1c719e452658f536-1-apr-27-2020-14-51-24-poster.jpg"
         width: 770
@@ -72,7 +72,7 @@ related:
     provider:
       name: CIO Dive
       domain: ciodive.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://www.ciodive.com/user_media/cache/b7/4f/b74f97d2a980cbeea55d91705cc30d62.jpg"
         width: 770

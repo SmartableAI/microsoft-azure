@@ -5,8 +5,8 @@ excerpt: "Cloud Computing and SaaS companies have gone up after the COVID-19 dis
 publishedDateTime: 2020-05-11T07:47:00Z
 webUrl: "https://seekingalpha.com/article/4345909-cloud-computing-and-saas-companies-post-covidminus-19-prospects"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

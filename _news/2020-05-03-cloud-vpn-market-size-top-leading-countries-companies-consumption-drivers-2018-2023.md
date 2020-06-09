@@ -5,8 +5,8 @@ excerpt: "Global Cloud VPN Market Research Report: By Component (Software, Servi
 publishedDateTime: 2020-05-03T15:24:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-vpn-market-size-top-leading-countries-companies-consumption-drivers-2018-2023-2020-05-03"
 type: article
-quality: 54
-heat: 74
+quality: 64
+heat: 84
 published: true
 
 provider:
@@ -36,7 +36,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 63
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -27,7 +27,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://zdnet3.cbsistatic.com/hub/i/2020/05/12/184993f6-d771-44c7-97eb-4e437bbb83f5/microsoftocp2020.jpg"
         width: 811
@@ -41,7 +41,7 @@ related:
     provider:
       name: Dark Reading
       domain: darkreading.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
         width: 600

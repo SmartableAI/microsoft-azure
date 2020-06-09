@@ -5,8 +5,8 @@ excerpt: "In latest Edge Canary, the company has finally added support fora Read
 publishedDateTime: 2020-05-17T19:47:00Z
 webUrl: "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-canary-now-lets-you-read-aloud-your-pdf-files/"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

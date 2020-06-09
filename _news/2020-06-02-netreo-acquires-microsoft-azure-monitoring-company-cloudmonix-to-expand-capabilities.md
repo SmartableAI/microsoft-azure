@@ -7,8 +7,8 @@ webUrl: "https://www.benzinga.com/pressreleases/20/06/g16160732/netreo-acquires-
 ampWebUrl: "https://amp.benzinga.com/amp/content/16160732"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16160732"
 type: article
-quality: 30
-heat: 30
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -27,7 +27,7 @@ related:
     provider:
       name: InfoQ
       domain: infoq.com
-    quality: 28
+    quality: 38
     images:
       - url: "https://cdn.infoq.com/statics_s1_20200602-0333/styles/static/images/logo/logo-big.jpg"
         width: 1200
@@ -41,7 +41,7 @@ related:
     provider:
       name: InfoQ
       domain: infoq.com
-    quality: 28
+    quality: 38
     images:
       - url: "https://cdn.infoq.com/statics_s1_20200602-0333/styles/static/images/logo/logo-big.jpg"
         width: 1200
@@ -55,7 +55,7 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 24
+    quality: 34
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

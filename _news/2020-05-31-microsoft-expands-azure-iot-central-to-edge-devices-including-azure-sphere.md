@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/janakirammsv/2020/05/30/microsoft-expands-
 ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/05/30/microsoft-expands-azure-iot-central-to-edge-devices-including-azure-sphere/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/05/30/microsoft-expands-azure-iot-central-to-edge-devices-including-azure-sphere/amp/"
 type: article
-quality: 95
-heat: 115
+quality: 115
+heat: 135
 published: true
 
 provider:
@@ -38,7 +38,7 @@ related:
     provider:
       name: Embedded Computing Design
       domain: embedded-computing.com
-    quality: 34
+    quality: 44
     images:
       - url: "https://content.cdntwrk.com/files/aHViPTYzODY3JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVlZDY5NDJmODIzZDguanBnJnZlcnNpb249MDAwMCZzaWc9N2E2OTU3Y2JlZTMxM2IwOTlmMmI2ZmE4NzUwZGRhODk%253D"
         width: 500

@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/microsoft-why-we-used-programming-languag
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-why-we-used-programming-language-rust-over-go-for-webassembly-on-kubernetes-app/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-why-we-used-programming-language-rust-over-go-for-webassembly-on-kubernetes-app/"
 type: article
-quality: 72
-heat: 72
+quality: 92
+heat: 92
 published: true
 
 provider:

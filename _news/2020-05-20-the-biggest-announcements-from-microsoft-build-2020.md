@@ -7,8 +7,8 @@ webUrl: "https://www.theverge.com/2020/5/20/21264363/microsoft-build-2020-top-ne
 ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/20/21264363/microsoft-build-2020-top-news-annoucements-fluid-office-windows-reunion-edge"
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/20/21264363/microsoft-build-2020-top-news-annoucements-fluid-office-windows-reunion-edge"
 type: article
-quality: 82
-heat: 162
+quality: 102
+heat: 182
 published: true
 
 provider:
@@ -40,7 +40,7 @@ related:
     provider:
       name: Neowin
       domain: neowin.net
-    quality: 80
+    quality: 100
     images:
       - url: "https://cdn.neow.in/news/images/uploaded/2020/05/1590330181_msw-20200524_story.jpg"
         width: 760
@@ -56,7 +56,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 67
+    quality: 87
     images:
       - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/05/13/bf550a82-e9e8-4511-bee9-983426e8fc52/thumbnail/1200x675/aaf99352c82c362f4feba84192e7819c/2555435eba4cad133864-58121622-nvidia-accelerates-apache-spark.jpg"
         width: 1200
@@ -72,7 +72,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 62
+    quality: 72
   - title: "Microsoft teases Edge for Linux at Build 2020"
     excerpt: "Edge is already available on iOS, Android, Mac, Windows 10 and Windows 7, and we have known since December 2019 that Microsoft is working on Edge for Linux also, after Microsoft confirmed the development at Ignite 2019."
     publishedDateTime: 2020-05-20T00:19:00Z
@@ -83,7 +83,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2019/11/Microsoft-Edge-logos.jpg"
         width: 811

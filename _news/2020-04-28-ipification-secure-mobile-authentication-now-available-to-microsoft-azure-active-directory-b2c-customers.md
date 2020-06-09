@@ -5,7 +5,7 @@ excerpt: "Benefit Vantage Limited, developer of the IPification seamless authent
 publishedDateTime: 2020-04-28T14:00:00Z
 webUrl: "https://www.marketwatch.com/press-release/ipification-secure-mobile-authentication-now-available-to-microsoft-azure-active-directory-b2c-customers-2020-04-28"
 type: article
-quality: 60
+quality: 70
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 99
+    quality: 109
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a69c6248-11fa-477b-81e0-17d56596895a.jpg"
         width: 1024
@@ -141,6 +141,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Cyber Infrastructure's 7-Week Azure Data Integration & Migration Soln. Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Cyber Infrastructure's implementation service SAN JOSE, CA,"
+    publishedDateTime: 2020-04-30T07:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cyber-infrastructures-7-week-azure-data-integration-migration-soln-now-available-in-the-microsoft-azure-marketplace-2020-04-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Managed identity support in AKS is now available"
     excerpt: ""
     publishedDateTime: 2020-04-28T16:30:50Z
@@ -150,20 +164,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 62
-  - title: "Cyber Infrastructure's 7-Week Azure Data Integration & Migration Soln. Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Cyber Infrastructure's implementation service SAN JOSE, CA,"
-    publishedDateTime: 2020-04-30T07:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cyber-infrastructures-7-week-azure-data-integration-migration-soln-now-available-in-the-microsoft-azure-marketplace-2020-04-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Kyvos BI Acceleration Platform is Now Available on Azure Marketplace"
     excerpt: "Kyvos Insights, a cloud and big data analytics company, today announced the availability of their cloud-native BI acceleration platform,"
     publishedDateTime: 2020-04-28T13:00:00Z
@@ -172,7 +172,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 37
+    quality: 47
     images:
       - url: "https://mma.prnewswire.com/media/1026738/Kyvos_Logo.jpg?p=facebook"
         width: 993
@@ -186,7 +186,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 36
+    quality: 46
     images:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
@@ -200,7 +200,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 32
+    quality: 42
     images:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600

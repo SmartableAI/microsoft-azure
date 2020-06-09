@@ -5,8 +5,8 @@ excerpt: "More than 56,200 newly-registered domain names were hosted by AWS, Goo
 publishedDateTime: 2020-05-04T13:57:00Z
 webUrl: "https://www.ciodive.com/news/malicious-domains-coronavirus-cloud/577220/"
 type: article
-quality: 18
-heat: 18
+quality: 28
+heat: 28
 published: false
 
 provider:

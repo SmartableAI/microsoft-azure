@@ -7,7 +7,7 @@ webUrl: "https://www.thestreet.com/investing/microsoft-shares-jump-as-xbox-cloud
 ampWebUrl: "https://www.thestreet.com/.amp/investing/microsoft-shares-jump-as-xbox-cloud-sales-boost-q2-profits"
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/microsoft-shares-jump-as-xbox-cloud-sales-boost-q2-profits"
 type: article
-quality: 28
+quality: 48
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 61
+    quality: 81
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106508494-1588191101593msft.jpg?v=1588191126"
         width: 3000
@@ -50,7 +50,7 @@ related:
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 57
+    quality: 67
     images:
       - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
         width: 1200

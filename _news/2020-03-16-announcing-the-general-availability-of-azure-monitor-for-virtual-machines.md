@@ -5,7 +5,7 @@ excerpt: "Today we're announcing the general availability of Azure Monitor for v
 publishedDateTime: 2020-03-16T10:00:32Z
 webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-monitor-for-virtual-machines/"
 type: article
-quality: 113
+quality: 123
 heat: -1
 published: false
 
@@ -37,7 +37,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 114
+    quality: 124
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/333076bc-4f9e-4461-9ba7-810752e19173.jpg"
         width: 800
@@ -51,7 +51,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 110
+    quality: 120
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/985df91e-de4d-4c27-a28b-f3ec9be164e3.jpg"
         width: 1024
@@ -83,7 +83,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 31
+    quality: 41
     images:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
@@ -97,7 +97,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 17
+    quality: 27
     images:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
@@ -111,7 +111,7 @@ related:
     provider:
       name: InfoQ
       domain: infoq.com
-    quality: 12
+    quality: 22
     images:
       - url: "https://cdn.infoq.com/statics_s2_20200602-0333/styles/static/images/logo/logo-big.jpg"
         width: 1200

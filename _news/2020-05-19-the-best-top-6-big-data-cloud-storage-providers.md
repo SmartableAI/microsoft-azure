@@ -5,7 +5,7 @@ excerpt: "Unless you have the resources for building and maintaining large amoun
 publishedDateTime: 2020-05-19T06:00:00Z
 webUrl: "https://www.linkedin.com/pulse/best-top-6-big-data-cloud-storage-providers-bernard-marr"
 type: article
-quality: 22
+quality: 32
 heat: -1
 published: false
 

@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/microsoft-bosque-is-a-new-programming-lan
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-bosque-is-a-new-programming-language-built-for-ai-in-the-cloud/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-bosque-is-a-new-programming-language-built-for-ai-in-the-cloud/"
 type: article
-quality: 81
-heat: 121
+quality: 101
+heat: 141
 published: true
 
 provider:
@@ -38,7 +38,7 @@ related:
     provider:
       name: SD Times
       domain: sdtimes.com
-    quality: 62
+    quality: 72
     images:
       - url: "https://sdtimes.com/wp-content/uploads/2020/05/bosque_code_sample.png"
         width: 1022
@@ -52,7 +52,7 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://mms.businesswire.com/media/20200511005966/en/790978/23/IMC_landscape_tagline.jpg"
         width: 1200

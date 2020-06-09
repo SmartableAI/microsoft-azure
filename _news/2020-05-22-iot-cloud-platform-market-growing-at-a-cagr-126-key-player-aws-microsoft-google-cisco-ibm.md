@@ -5,9 +5,9 @@ excerpt: "MarketsandMarkets forecasts the global Internet of Things (IoT) Cloud 
 publishedDateTime: 2020-05-22T21:07:00Z
 webUrl: "https://www.marketwatch.com/press-release/iot-cloud-platform-market-growing-at-a-cagr-126-key-player-aws-microsoft-google-cisco-ibm-2020-05-22"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 59
+heat: 119
+published: true
 
 provider:
   name: MarketWatch
@@ -36,7 +36,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 43
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -50,7 +50,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 41
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -66,7 +66,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 14
+    quality: 24
 
 secured: "gNU0/d06Nj8sJILJu6LN0DaVRwEqJQRz2YN/n9U0zFPAJsag0Pv8/imsiMoeTq/uHbGovC6tVWVPsr1SFeG8WC3YwSv3OFJ4Insd0xK4mDKKJA4fYwAT3wHt89Nddsn192ONKxY2vvae+MIeJFjJ+CPaNzeVGo4mX8UROOZoUpmgnipjeQRcco3AS/aHxD4EvcLZYkLrLY6CXgxW56yDg6aoL01UoxHiat8f/STdhlYllEktKZ53V5pepTqW3TIqpsxeDfFTiBOZhYy8tSfk6LQT9W8WWB7Oxo+8WE4Ot3PV83jt3bRnC1nm7VtS2L3M;gRx0/UERtgXrs9OIopza+A=="
 ---

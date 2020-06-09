@@ -7,8 +7,8 @@ webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-introduces-bac
 ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-introduces-back2business-solution-boxes-for-smbs-in-india/article31563949.ece/amp/"
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-introduces-back2business-solution-boxes-for-smbs-in-india/article31563949.ece/amp/"
 type: article
-quality: 42
-heat: 42
+quality: 62
+heat: 62
 published: false
 
 provider:

@@ -5,8 +5,8 @@ excerpt: "Benefit Vantage will enable service providers to enhance user authenti
 publishedDateTime: 2020-04-30T00:17:00Z
 webUrl: "https://www.helpnetsecurity.com/2020/04/30/benefit-vantage-microsoft-azure/"
 type: article
-quality: 26
-heat: 26
+quality: 36
+heat: 36
 published: false
 
 provider:

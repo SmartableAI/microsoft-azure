@@ -27,7 +27,7 @@ related:
     provider:
       name: The News Minute
       domain: thenewsminute.com
-    quality: 41
+    quality: 61
     images:
       - url: "https://www.thenewsminute.com/sites/default/files/microsoft_750_7.jpg"
         width: 750
@@ -43,7 +43,7 @@ related:
     provider:
       name: Zee Business
       domain: zeebiz.com
-    quality: 34
+    quality: 54
     images:
       - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2020/05/09/118543-singhvi-chouhan.jpg?itok=4uLSp1Pb"
         width: 700
@@ -59,7 +59,7 @@ related:
     provider:
       name: The New Indian Express
       domain: newindianexpress.com
-    quality: 30
+    quality: 50
     images:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/5/9/w600X390/Microsoft-Amazon.jpg"
         width: 600
@@ -75,7 +75,7 @@ related:
     provider:
       name: Hindustan Times
       domain: hindustantimes.com
-    quality: 22
+    quality: 32
   - title: "Microsoft slams Amazon's Cloud arm for blocking $10bn Pentagon project"
     excerpt: "Microsoft has come out in the open against ecommerce giant Amazon's Cloud arm, slamming Amazon Web Services (AWS) for once again challenging the US government's decision to award $10 billion Pentagon Cloud project to Satya Nadella-run enterprise - this time out of view from the public and directly with the US Department of Defense (DoD)."
     publishedDateTime: 2020-05-08T10:26:00Z

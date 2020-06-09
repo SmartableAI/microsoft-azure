@@ -5,8 +5,8 @@ excerpt: "I have long been a fan of Microsoft . I have long been a fan of Micros
 publishedDateTime: 2020-06-02T14:50:00Z
 webUrl: "https://realmoney.thestreet.com/investing/here-s-when-i-d-adjust-my-position-size-in-microsoft-15338218"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

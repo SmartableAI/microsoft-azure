@@ -7,8 +7,8 @@ webUrl: "https://www.engadget.com/microsoft-windows-10x-single-screen-175859033.
 ampWebUrl: "https://www.engadget.com/amp/microsoft-windows-10x-single-screen-175859033.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-windows-10x-single-screen-175859033.html"
 type: article
-quality: 82
-heat: 182
+quality: 102
+heat: 202
 published: true
 
 provider:
@@ -40,7 +40,7 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://cnet4.cbsistatic.com/img/PFC-zJ2VC7-KbBX7F0hLIXgw_5A=/756x567/2019/10/02/5fe390f5-c2d3-4b3a-889a-6696648dc461/windows-10x.jpg"
         width: 756
@@ -56,7 +56,7 @@ related:
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://cdn.vox-cdn.com/thumbor/I6Y9yFT7Qj_HvkVrVrJUcLNOn5E=/0x0:2640x1760/1400x933/filters:focal(1109x669:1531x1091):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66752704/windows10xlaptop.5.jpg"
         width: 1400
@@ -72,7 +72,7 @@ related:
     provider:
       name: Digital Trends
       domain: digitaltrends.com
-    quality: 77
+    quality: 97
     images:
       - url: "https://icdn4.digitaltrends.com/image/digitaltrends/b5398ddb6eed22d586aaa3eaf71ff362-1200x630-c-ar1.91.jpg"
         width: 1152
@@ -88,7 +88,7 @@ related:
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 76
+    quality: 96
     images:
       - url: "https://cdn.vox-cdn.com/thumbor/_Uzc2GIYDlWGRYoWD1n3eWkVU3A=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66748551/akrales_190930_3649_0115.0.jpg"
         width: 1400
@@ -104,7 +104,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 76
+    quality: 96
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2020/04/no-neo-in-2020-microsoft-pauses-630x354.jpg"
         width: 630

@@ -5,7 +5,7 @@ excerpt: "Tech leaders need a thorough understanding of the threats, opportuniti
 publishedDateTime: 2020-05-04T13:57:00Z
 webUrl: "https://www.ciodive.com/news/gartner-cloud-csp/577125/"
 type: article
-quality: 17
+quality: 27
 heat: -1
 published: false
 
@@ -32,7 +32,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 82
+    quality: 92
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/087e96ea-eb9f-4dcb-9d8b-22fa817b94bc.png"
         width: 1024
@@ -46,7 +46,7 @@ related:
     provider:
       name: SD Times
       domain: sdtimes.com
-    quality: 77
+    quality: 87
     images:
       - url: "https://sdtimes.com/images/sd-premium.png"
         width: 628

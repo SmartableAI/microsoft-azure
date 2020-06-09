@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/cloud-computing-microsoft-signs-ne
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/cloud-computing-microsoft-signs-new-discount-azure-deal-with-uk-government/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cloud-computing-microsoft-signs-new-discount-azure-deal-with-uk-government/"
 type: article
-quality: 95
-heat: 235
+quality: 115
+heat: 255
 published: true
 
 provider:
@@ -40,11 +40,27 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 81
+    quality: 101
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2020/04/5922669089_ea901d5f3a_c-630x418.jpg"
         width: 630
         height: 418
+        isCached: true
+  - title: "Microsoft strikes 5-year cloud deal with Coca-Cola for Azure, Microsoft 365"
+    excerpt: "Cola company have reached a deal that will see the latter use Microsoft 365, Azure, and more to power its digital operations for five years."
+    publishedDateTime: 2020-04-27T21:11:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 75
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2017/09/microsoft-logo-2017-ignite2.jpg?itok=c3ocGDNm"
+        width: 800
+        height: 600
         isCached: true
   - title: "Oracle Wins Cloud Computing Deal With Zoom as Video Calls Surge"
     excerpt: "Zoom Video Communications Inc said on Tuesday it has started using Oracle Corp's cloud computing service to help handle the surge in online video call volumes brought on by the novel coronavirus pandemic."
@@ -56,23 +72,7 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 62
-  - title: "Microsoft strikes 5-year cloud deal with Coca-Cola for Azure, Microsoft 365"
-    excerpt: "Cola company have reached a deal that will see the latter use Microsoft 365, Azure, and more to power its digital operations for five years."
-    publishedDateTime: 2020-04-27T21:11:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 55
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2017/09/microsoft-logo-2017-ignite2.jpg?itok=c3ocGDNm"
-        width: 800
-        height: 600
-        isCached: true
+    quality: 72
   - title: "Avid, Microsoft Ink Deal to Extend Cloud Collaboration Agreement"
     excerpt: "BURLINGTON, Mass.—Avid has announced a five-year renewal of its cloud collaboration agreement with Microsoft. During the term of the new agreement, Avid will continue to develop and deploy its cloud-based solutions on Microsoft Azure."
     publishedDateTime: 2020-05-06T11:30:00Z
@@ -83,7 +83,7 @@ related:
     provider:
       name: TV Technology
       domain: tvtechnology.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/boJbUfrk78USVo49YfjzsH-1200-80.jpg"
         width: 640
@@ -97,11 +97,25 @@ related:
     provider:
       name: TV NewsCheck
       domain: tvnewscheck.com
-    quality: 37
+    quality: 47
     images:
       - url: "https://tvnewscheck.com/wp-content/themes/TvNewsCheck/assets/img/tvn-logo.png"
         width: 581
         height: 201
+        isCached: true
+  - title: "Update: Amazon files new complaint to try and stop Microsoft JEDI Cloud Computing win"
+    excerpt: "Microsoft confirmed today that Amazon has filed a new complaint related to Microsoft’s JEDI Cloud Computing contract win."
+    publishedDateTime: 2020-05-07T22:00:00Z
+    webUrl: "https://www.onmsft.com/news/update-amazon-files-new-complaint-to-try-and-stop-microsoft-jedi-cloud-computing-win"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 25
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2020/04/microsoft-aws.jpg"
+        width: 1024
+        height: 569
         isCached: true
   - title: "These Microsoft Azure Courses Can Kickstart Your New Cloud Computing Career"
     excerpt: "Wouldn't it be great if you could transform that love for tech into a lucrative new career? According to Payscale, jobs that involve Microsoft Azure (the cloud services platform that powers 95% of Fortune 500 companies) pay handsomely,"
@@ -112,20 +126,6 @@ related:
       name: IGN
       domain: ign.com
     quality: 15
-  - title: "Update: Amazon files new complaint to try and stop Microsoft JEDI Cloud Computing win"
-    excerpt: "Microsoft confirmed today that Amazon has filed a new complaint related to Microsoft’s JEDI Cloud Computing contract win."
-    publishedDateTime: 2020-05-07T22:00:00Z
-    webUrl: "https://www.onmsft.com/news/update-amazon-files-new-complaint-to-try-and-stop-microsoft-jedi-cloud-computing-win"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 15
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2020/04/microsoft-aws.jpg"
-        width: 1024
-        height: 569
-        isCached: true
 
 secured: "54LEJB/YqDWsas2ExtSyRO0pEatKOaCmYe4nipTxdo/5oXGMRSo182ZC51Bx4kZcnBQkjnR2eDV31Q4iqDu6RoHYtBM5lMi6RRd3U8eclKNgwf7hqL17ObhWMgc3FtQNp66quSCOYdRAKy/lsWHQ3CU4VtVefkd2i3QaU2B69cjY28mHCWHmXCjBU4FK50QGZ6cfLI0kJ1J7H3P5EC9Dp9Ec93exzLfPGCSt816QZJeqBNYc3CiAD5Y1e1ihnq2+xx1Ix5d4mFRTjpLMm+/r4BiFpx+llC6LC5CjPOpEdhmek26HjYBtswW3ZIx5VgnByb+ioFk9lYJwWIDHDrk5PLHwgQt7GPiO1XntN49qSrr1gjVp5HluKYFXrJ0zH/W115QW6vYJ5bE+epataiBNZMHegtSt2BU68SWQwG7Aji+JkEFfsGuxDvpxrA4WP0DEfhZD6JsjFJGSpZBEX//P+GayqiWipBg2SVzUwuU3PL4=;J1i14J38JyKAaje1sOKfYQ=="
 ---

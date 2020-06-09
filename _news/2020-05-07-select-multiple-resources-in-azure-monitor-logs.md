@@ -5,8 +5,8 @@ excerpt: ""
 publishedDateTime: 2020-05-07T01:00:16Z
 webUrl: "https://azure.microsoft.com/en-us/updates/select-multiple-resources-in-azure-monitor-log-analytics/"
 type: article
-quality: 97
-heat: 157
+quality: 107
+heat: 167
 published: true
 
 provider:
@@ -36,7 +36,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 82
+    quality: 92
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/d01f41c4-e3d3-46fa-9000-2a22ea740c5a.gif"
         width: 1912

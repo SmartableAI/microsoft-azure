@@ -7,7 +7,7 @@ webUrl: "https://www.itproportal.com/news/microsoft-boosts-uk-cloud-computing-wi
 ampWebUrl: "https://www.itproportal.com/amp/news/microsoft-boosts-uk-cloud-computing-with-azure-launches/"
 cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/microsoft-boosts-uk-cloud-computing-with-azure-launches/"
 type: article
-quality: 57
+quality: 77
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 97
+    quality: 117
     images:
       - url: "https://tr3.cbsistatic.com/hub/i/r/2020/06/01/12a49242-cb6f-466e-ac30-2f1d48e27d5a/resize/1200x/f2fbe90de778e11920caa51ecc173d36/tr-azure-edge-zones-2.jpg"
         width: 1200

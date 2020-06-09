@@ -5,7 +5,7 @@ excerpt: "ThroughPut Inc. today announced the availability of ELITE in the Micro
 publishedDateTime: 2020-04-28T20:30:00Z
 webUrl: "https://www.prnewswire.com/in/news-releases/throughput-inc-s-elite-now-available-in-the-microsoft-azure-marketplace-838367579.html"
 type: article
-quality: 36
+quality: 46
 heat: -1
 published: false
 
@@ -32,7 +32,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 99
+    quality: 109
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a69c6248-11fa-477b-81e0-17d56596895a.jpg"
         width: 1024
@@ -137,15 +137,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Managed identity support in AKS is now available"
-    excerpt: ""
-    publishedDateTime: 2020-04-28T16:30:50Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/managed-identity-support-in-aks-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 62
   - title: "IPification Secure Mobile Authentication Now Available to Microsoft Azure Active Directory B2C Customers"
     excerpt: "Benefit Vantage Limited, developer of the IPification seamless authentication solution, is proud to announce that we will enable global service providers"
     publishedDateTime: 2020-04-28T14:00:00Z
@@ -154,7 +145,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
+    quality: 70
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -168,12 +159,21 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 63
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Managed identity support in AKS is now available"
+    excerpt: ""
+    publishedDateTime: 2020-04-28T16:30:50Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/managed-identity-support-in-aks-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 62
   - title: "Kyvos BI Acceleration Platform is Now Available on Azure Marketplace"
     excerpt: "Kyvos Insights, a cloud and big data analytics company, today announced the availability of their cloud-native BI acceleration platform,"
     publishedDateTime: 2020-04-28T13:00:00Z
@@ -182,7 +182,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 37
+    quality: 47
     images:
       - url: "https://mma.prnewswire.com/media/1026738/Kyvos_Logo.jpg?p=facebook"
         width: 993
@@ -196,7 +196,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 32
+    quality: 42
     images:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600

@@ -5,8 +5,8 @@ excerpt: "Microsoft’s Frank Shaw today alleged that Amazon continues to fight 
 publishedDateTime: 2020-05-08T13:00:00Z
 webUrl: "https://www.thurrott.com/microsoft/235361/amazon-is-quietly-still-fighting-the-jedi-decision"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

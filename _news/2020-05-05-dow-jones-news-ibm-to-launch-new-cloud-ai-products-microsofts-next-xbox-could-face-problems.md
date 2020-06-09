@@ -7,7 +7,7 @@ webUrl: "https://www.fool.com/investing/2020/05/05/dow-jones-news-ibm-to-launch-
 ampWebUrl: "https://www.fool.com/amp/investing/2020/05/05/dow-jones-news-ibm-to-launch-new-cloud-ai-products.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/05/dow-jones-news-ibm-to-launch-new-cloud-ai-products.aspx"
 type: article
-quality: 70
+quality: 90
 heat: -1
 published: false
 
@@ -40,7 +40,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 76
+    quality: 96
     images:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F570316%2Fplane.jpg&w=1200&op=resize"
         width: 1200

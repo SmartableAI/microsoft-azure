@@ -7,7 +7,7 @@ webUrl: "https://mspoweruser.com/microsoft-wins-no-bid-mod-contract-for-17-75-mi
 ampWebUrl: "https://mspoweruser.com/microsoft-wins-no-bid-mod-contract-for-17-75-million-for-cloud-support-services/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-wins-no-bid-mod-contract-for-17-75-million-for-cloud-support-services/amp/"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: The Register
       domain: theregister.co.uk
-    quality: 40
+    quality: 60
     images:
       - url: "https://regmedia.co.uk/2015/05/20/raf_chinook.jpg"
         width: 648
