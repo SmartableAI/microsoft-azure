@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Azure Red Hat OpenShift on OpenShift 4 now available"
+title: "Azure Databricks is now available in the Azure Government cloud (in preview)"
 excerpt: ""
-publishedDateTime: 2020-04-28T14:00:37Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-on-openshift-4-now-available/"
+publishedDateTime: 2020-06-09T18:15:11Z
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-is-now-available-in-the-azure-government-cloud-in-preview/"
 type: article
-quality: 77
+quality: 74
 heat: -1
 published: false
 
@@ -80,6 +80,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Azure Red Hat OpenShift on OpenShift 4 now available"
+    excerpt: ""
+    publishedDateTime: 2020-04-28T14:00:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-on-openshift-4-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Azure Service Health security advisories are now available"
     excerpt: ""
     publishedDateTime: 2020-04-29T16:00:04Z
@@ -125,15 +134,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Azure Databricks is now available in the Azure Government cloud (in preview)"
-    excerpt: ""
-    publishedDateTime: 2020-06-09T18:15:11Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-is-now-available-in-the-azure-government-cloud-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 74
   - title: "IPification Secure Mobile Authentication Now Available to Microsoft Azure Active Directory B2C Customers"
     excerpt: "Benefit Vantage Limited, developer of the IPification seamless authentication solution, is proud to announce that we will enable global service providers"
     publishedDateTime: 2020-04-28T14:00:00Z
@@ -214,6 +214,6 @@ related:
         height: 315
         isCached: true
 
-secured: "Prk3RAx8B8kGWpP5eQJhIvDVeOIY8hKxMikDYRpVIJbK6lnFc1abM2MmnIBfw1pc3Jg1alPd6Et1RHvUrJqCHwduNvfxDx+LnV/mKGqsrF+dXSikZ0X6s7GogpNPGi24tAGvSonh7WNZwPv7dTQyZRcf4aT+sldbUnRw5oYjtToTinBif7Fu2t0BcLt5zWNTY1gPsOfrT6sYf5t/nFiUTtihw5G3wm2vBtOGFb/ckZep4mD4aysPPEnEAxFfwGR1UXLln0GocfxDymbeNqIM96/7ZORlpwaT9rhMUvjB2I4KIUYBAZ81R4zQ8Uchuv0OR41tPo+CXNJjynBT4u8lsw==;dv1Zllux3Ng7RHzpmbYZFA=="
+secured: "OYUg/d0U9uPPVxULv8mxqq6uKgEO0BAiQq1NVT1Hw6j0NxreLHwlv4ORb9QHu47VKmHgRlOtJxjUrg4xERn4W7+iQ74jimPFhTamlilN5vC2Nsudm6LNbDhUvxNq1fNFeLQuPf+J7/1qo1uY3P22VkSOL8IBSqU3Uc5SAkoG7bQt9xcHAyDI9i/PHT+QYA7rW0lFtkhWxag6v9jVmPEZx/pLCjxtmQj0khyzUygVfjZtj356hWT+Is0ei8qmx3Cb2Y/lwuYWgSXOdgZYQgRbOgH6CKQRzS94i9CUm513t9+tqoI09tmZtBn9k5n0n8Ptw+6gg/HI6ZPbaROP1aOKhg==;djptvvbYAEaRvIvvT0wSDw=="
 ---
 

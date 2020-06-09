@@ -141,6 +141,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Azure Databricks is now available in the Azure Government cloud (in preview)"
+    excerpt: ""
+    publishedDateTime: 2020-06-09T18:15:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-is-now-available-in-the-azure-government-cloud-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 74
   - title: "Cyber Infrastructure's 7-Week Azure Data Integration & Migration Soln. Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Cyber Infrastructure's implementation service SAN JOSE, CA,"
     publishedDateTime: 2020-04-30T07:38:00Z

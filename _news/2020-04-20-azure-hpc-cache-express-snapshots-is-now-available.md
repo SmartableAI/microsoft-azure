@@ -125,6 +125,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Azure Databricks is now available in the Azure Government cloud (in preview)"
+    excerpt: ""
+    publishedDateTime: 2020-06-09T18:15:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-is-now-available-in-the-azure-government-cloud-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 74
   - title: "IPification Secure Mobile Authentication Now Available to Microsoft Azure Active Directory B2C Customers"
     excerpt: "Benefit Vantage Limited, developer of the IPification seamless authentication solution, is proud to announce that we will enable global service providers"
     publishedDateTime: 2020-04-28T14:00:00Z
