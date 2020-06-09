@@ -25,60 +25,79 @@ images:
     title: "Microsoft claims AWS has used new JEDI mind trick with secret contract objection filing"
 
 related:
-  - title: "Microsoft, AWS in public spat over awarding of $10 billion cloud project"
-    excerpt: "After Microsoft slammed Amazon's Cloud arm for challenging the US government's decision to award $10 billion Pentagon Cloud project to the Satya Nadella-run enterprise, Amazon Web Services (AWS) has hit back,"
-    publishedDateTime: 2020-05-09T06:15:00Z
-    webUrl: "https://www.thenewsminute.com/article/microsoft-aws-public-spat-over-awarding-10-billion-cloud-project-124232"
-    ampWebUrl: "https://www.thenewsminute.com/article/microsoft-aws-public-spat-over-awarding-10-billion-cloud-project-124232?amp"
-    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/microsoft-aws-public-spat-over-awarding-10-billion-cloud-project-124232?amp"
+  - title: "Microsoft reportedly teamed up with Oracle to fend off Amazon for the Pentagon’s JEDI contract"
+    excerpt: "The Information revealed Monday how Microsoft had a “secret alley” — Oracle — to help land the coveted Joint Enterprise Defense Infrastructure contract, a $10 billion Pentagon project that"
+    publishedDateTime: 2020-05-11T21:55:00Z
+    webUrl: "https://www.geekwire.com/2020/microsoft-reportedly-teamed-oracle-fend-off-amazon-pentagons-jedi-contract/"
+    ampWebUrl: "https://www.geekwire.com/2020/microsoft-reportedly-teamed-oracle-fend-off-amazon-pentagons-jedi-contract/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-reportedly-teamed-oracle-fend-off-amazon-pentagons-jedi-contract/amp/"
     type: article
     provider:
-      name: The News Minute
-      domain: thenewsminute.com
-    quality: 61
+      name: GeekWire
+      domain: geekwire.com
+    quality: 90
     images:
-      - url: "https://www.thenewsminute.com/sites/default/files/microsoft_750_7.jpg"
-        width: 750
-        height: 500
-  - title: "Amazon Web Services and Microsoft engage in heated public spat over $10bn cloud project"
-    excerpt: "After Microsoft slammed Amazon's Cloud arm for challenging the US government's decision to award $10 billion Pentagon Cloud project to Satya Nadella-run enterprise, Amazon Web Services (AWS) has hit back,"
-    publishedDateTime: 2020-05-10T04:30:00Z
-    webUrl: "https://www.zeebiz.com/companies/news-amazon-web-services-and-microsoft-engage-in-heated-public-spat-over-10bn-cloud-project-126391"
-    ampWebUrl: "https://www.zeebiz.com/companies/news-amazon-web-services-and-microsoft-engage-in-heated-public-spat-over-10bn-cloud-project-126391/amp"
-    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/companies/news-amazon-web-services-and-microsoft-engage-in-heated-public-spat-over-10bn-cloud-project-126391/amp"
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2016/04/20160404_Envision_07-1240x828.jpg"
+        width: 1240
+        height: 828
+  - title: "Amazon says big government JEDI award is 'fatally flawed' in latest rebuttal to Microsoft criticisms"
+    excerpt: "The JEDI, or Joint Enterprise Defense Infrastructure, deal worth up to $10 billion has become one of the most tangled contracts for the Department of Defense."
+    publishedDateTime: 2020-05-08T14:55:00Z
+    webUrl: "https://www.cnbc.com/2020/05/08/amazon-says-jedi-award-fatally-flawed-in-rebuttal-to-microsoft.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/05/08/amazon-says-jedi-award-fatally-flawed-in-rebuttal-to-microsoft.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/08/amazon-says-jedi-award-fatally-flawed-in-rebuttal-to-microsoft.html"
     type: article
     provider:
-      name: Zee Business
-      domain: zeebiz.com
-    quality: 54
+      name: CNBC
+      domain: cnbc.com
+    quality: 87
     images:
-      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2020/05/09/118543-singhvi-chouhan.jpg?itok=4uLSp1Pb"
-        width: 700
-        height: 393
-  - title: "Amazon, Microsoft engage in heated public spat over USD 10 billion-worth Pentagon Cloud project"
-    excerpt: "While Amazon said that Microsoft has published multiple self-righteous and 'misleading' blog posts, the Satya Nadella-run firm said that 'such roadblock is disappointing but not surprising'."
-    publishedDateTime: 2020-05-09T05:42:00Z
-    webUrl: "https://www.newindianexpress.com/business/2020/may/09/amazon-microsoft-engage-in-heated-public-spat-over-usd-10-billion-worth-pentagon-cloud-project-2141152.html"
-    ampWebUrl: "https://www.newindianexpress.com/business/2020/may/09/amazon-microsoft-engage-in-heated-public-spat-over-usd-10-billion-worth-pentagon-cloud-project-2141152.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2020/may/09/amazon-microsoft-engage-in-heated-public-spat-over-usd-10-billion-worth-pentagon-cloud-project-2141152.amp"
+      - url: "https://image.cnbcfm.com/api/v1/image/106474164-1585941999885gettyimages-939960022.jpeg?v=1585942142"
+        width: 5253
+        height: 3502
+  - title: "Microsoft slams Amazon’s latest protest over Pentagon cloud contract as ‘a way to avoid the consequences of its own bad business decisions’"
+    excerpt: "Amazon is once again challenging the Department of Defense’s decision to award a $10 billion cloud contract to Microsoft. Amazon filed a protest of the award directly with the DoD after a"
+    publishedDateTime: 2020-05-07T23:47:00Z
+    webUrl: "https://www.geekwire.com/2020/microsoft-slams-amazons-latest-protest-pentagon-cloud-contract-way-avoid-consequences-bad-business-decisions/"
+    ampWebUrl: "https://www.geekwire.com/2020/microsoft-slams-amazons-latest-protest-pentagon-cloud-contract-way-avoid-consequences-bad-business-decisions/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-slams-amazons-latest-protest-pentagon-cloud-contract-way-avoid-consequences-bad-business-decisions/amp/"
     type: article
     provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 50
+      name: GeekWire
+      domain: geekwire.com
+    quality: 68
     images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/5/9/w600X390/Microsoft-Amazon.jpg"
-        width: 600
-        height: 390
-  - title: "AWS and Microsoft engage in heated public spat over $10bn cloud project"
-    excerpt: "After Microsoft slammed Amazon's Cloud arm for challenging the US government's decision to award $10 billion Pentagon Cloud project to Satya Nadella-run enterprise, Amazon Web Services (AWS) has hit back,"
-    publishedDateTime: 2020-05-09T10:58:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20200509/3555183.html"
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2019/11/microsoft-630x473.jpg"
+        width: 630
+        height: 473
+  - title: "FedEx Teams Up With Microsoft to Fight Amazon. That’s Good for FedEx Stock."
+    excerpt: "Microsoft and FedEx announced an agreement to “transform e-commerce.” FedEx hopes to get a leg up in the delivery battle with Amazon."
+    publishedDateTime: 2020-05-18T14:30:00Z
+    webUrl: "https://www.barrons.com/articles/fedex-teams-up-with-microsoft-to-fight-amazon-thats-good-for-fedex-stock-51589815820"
+    ampWebUrl: "https://www.barrons.com/amp/articles/fedex-teams-up-with-microsoft-to-fight-amazon-thats-good-for-fedex-stock-51589815820"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/fedex-teams-up-with-microsoft-to-fight-amazon-thats-good-for-fedex-stock-51589815820"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 2
+      name: Barron's
+      domain: barrons.com
+    quality: 60
+    images:
+      - url: "https://images.barrons.com/im-188060/social"
+        width: 1280
+        height: 640
+  - title: "Amazon challenges the Pentagon’s revised JEDI solicitation directly to the department"
+    excerpt: "Amazon Web Services filed a bid protest directly to the Department of Defense challenging “ambiguous aspects” of the Pentagon’s revised solicitation for its embattled enterprise cloud contract. AWS’ challenge is in response to a revised solicitation from DoD regarding a specific technical requirement of the Joint Enterprise Defense Infrastructure cloud contract that AWS had challenged."
+    publishedDateTime: 2020-05-07T22:19:00Z
+    webUrl: "https://www.federaltimes.com/it-networks/cloud/2020/05/07/amazon-challenges-the-pentagons-revised-jedi-solicitation-directly-to-the-department/"
+    type: article
+    provider:
+      name: Federal Times
+      domain: federaltimes.com
+    quality: 25
+    images:
+      - url: "https://www.armytimes.com/resizer/zPIx2t3S-cW9L6O4V1nUbDT6wsw=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/SPQTUFFMHRFI7FZBGH36NHJ5MA.jpg"
+        width: 1200
+        height: 630
 
 secured: "mXXhFhl58aAoEmaUieKkGvzUU/NdUtnFCMb53f0uOS3hg433uZMukC50Dk3Iia6L+1CF2dO1RtBwBrQIm2OuSUtQT0dlprxWZgWt0sruXdOkCDkgnFnpHoljVoGO7XEQgKTKOytUbrjmDpQv4QrmjMuuFOLNXWnGf+LnMF46tjuvSUP6LH4CCoZswAazTrrbWku8SfG77MneJ0a1cabj5lAMI3lQNWe1wKFs+fNrLd2QAFYy3D8I0xavoL5+iNTe/lBc+d6RieI9A6kYDNiQfJ4jROefSFDi+/1tf9AXdRmXmfw/+m5Tpnb7wwT6fPYuEBuLfw0qR98zXIpK7yemySFLFWs48WxkKVYYBIp1yYpE8dA0QPD6FkOQuxpUpiuGvKKRpSoFD/p83fcElLXijLjtVXQpVma8iWb5EQrph5EeCRCGy1u8saCral3sVpIznLrQ3b0OTmbMNLXmryYxaL8Faifuo7ijCvY775BORJ8=;tJNezxlipxxwg/I6Em2Xrg=="
 ---

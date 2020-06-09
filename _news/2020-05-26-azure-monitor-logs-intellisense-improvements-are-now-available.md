@@ -6,8 +6,8 @@ publishedDateTime: 2020-05-26T16:00:03Z
 webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-intellisense-improvements/"
 type: article
 quality: 107
-heat: 147
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -27,6 +27,19 @@ images:
     title: "Azure Monitor Logs IntelliSense improvements are now available"
 
 related:
+  - title: "Azure Maps Creator now available in preview"
+    excerpt: "As enterprises continue to evolve in their digital transformation journey, there is a need for augmenting Azure Maps content with project-specific and private business knowledge of places. Today we're launching Azure Maps Creator in preview to extend location intelligence to indoor spaces.\r\n\r\nEnterprises"
+    publishedDateTime: 2020-06-01T08:00:09Z
+    webUrl: "https://azure.microsoft.com/blog/azure-maps-creator-now-available-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 109
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a6153b4c-6ec4-4b09-b1e7-dd8f2be265dd.png"
+        width: 780
+        height: 768
   - title: "Azure Monitor Logs—New experience for agents is now available"
     excerpt: ""
     publishedDateTime: 2020-05-26T18:00:22Z
@@ -40,6 +53,104 @@ related:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/480ae3b3-08b3-4078-b20f-83bb10f1d10c.gif"
         width: 2554
         height: 1323
+  - title: "Service Bus Explorer on the Azure portal is now available in preview"
+    excerpt: ""
+    publishedDateTime: 2020-05-26T18:00:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/sesrvice-bus-explorer/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 107
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/ccedbcf5-8321-460c-a9a3-b0730caa96fe.jpg"
+        width: 347
+        height: 549
+  - title: "A new consolidated API version in Azure Monitor Logs is now available"
+    excerpt: ""
+    publishedDateTime: 2020-06-08T16:00:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-consolidated-api-version-in-for-log-analytics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 107
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/55f9101b-07a0-4e94-b8aa-802abda1d4df.png"
+        width: 640
+        height: 386
+  - title: "Azure Monitor for VMs is now in preview in US Gov Virginia"
+    excerpt: ""
+    publishedDateTime: 2020-05-26T18:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-for-vms-is-now-available-in-us-gov-virginia/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure DevTest Labs is now available in Switzerland regions"
+    excerpt: ""
+    publishedDateTime: 2020-05-27T16:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-devtest-labs-is-now-available-in-switzerland-regions/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure Service Health—Emerging issues now available "
+    excerpt: ""
+    publishedDateTime: 2020-05-27T16:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-service-health-emerging-issues-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure Ultra Disk Storage is now available in more regions"
+    excerpt: ""
+    publishedDateTime: 2020-05-27T16:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-ultra-disk-storage-is-now-available-in-more-regions/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure Text Analytics—Opinion mining is now available in preview"
+    excerpt: ""
+    publishedDateTime: 2020-05-30T16:00:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/opinion-mining-is-now-available-in-text-analytics-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure Database for MariaDB  is now available in the France South region"
+    excerpt: ""
+    publishedDateTime: 2020-06-01T16:00:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-is-now-available-in-the-france-south-region/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure Database for MySQL is now available in France South"
+    excerpt: ""
+    publishedDateTime: 2020-06-01T16:00:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-is-now-available-in-france-south/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "The Azure Sphere OS 20.05 quality release is now available"
+    excerpt: ""
+    publishedDateTime: 2020-06-01T17:00:10Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/the-azure-sphere-os-20-05-quality-release-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Azure Shared Image Gallery feature improvements are now available"
     excerpt: ""
     publishedDateTime: 2020-06-02T01:00:15Z
@@ -49,6 +160,82 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Azure Shared Image Gallery—New features are now available in preview"
+    excerpt: ""
+    publishedDateTime: 2020-06-02T01:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/shared-image-gallery-new-features/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Machine Learning on Azure SQL Managed Instance limited preview available"
+    excerpt: ""
+    publishedDateTime: 2020-05-27T16:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/machine-learning-on-azure-sql-managed-instance-limited-preview-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 76
+  - title: "Minimal TLS version setting is now available for Azure Database for MySQL"
+    excerpt: ""
+    publishedDateTime: 2020-06-04T17:00:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-minimal-tls-version/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 76
+  - title: "Minimal TLS version setting is now available for Azure Database for MariaDB"
+    excerpt: ""
+    publishedDateTime: 2020-06-04T17:00:49Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-minimal-tls-version/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 75
+  - title: "Azure Database for PostgreSQL—Single Server now available in the France South region"
+    excerpt: ""
+    publishedDateTime: 2020-05-27T16:00:09Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-single-server-now-available-in-the-france-south-region/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 70
+  - title: "HBv2-Series VMs now available in West US 2"
+    excerpt: ""
+    publishedDateTime: 2020-06-03T17:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/hbv2series-vms-now-available-in-west-us-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 62
+  - title: "Windows Virtual Desktop media optimization for Microsoft Teams is now available in preview"
+    excerpt: ""
+    publishedDateTime: 2020-05-29T21:00:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/windows-virtual-desktop-media-optimization-for-microsoft-teams-is-now-available-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "Microsoft previews Azure Maps Creator to enable indoor location apps and AR"
+    excerpt: "Microsoft Corp. today announced the preview of Azure Maps Creator, a new tool in its public cloud platform that will enable companies to create custom indoor maps for use cases su"
+    publishedDateTime: 2020-06-01T18:50:00Z
+    webUrl: "https://siliconangle.com/2020/06/01/microsoft-previews-azure-maps-creator-enable-indoor-location-apps-ar/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 45
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/hololens2-768x512.jpg"
+        width: 768
+        height: 512
 
 secured: "XWyV9IJkHPsfNJ8n1GdPh6U9Bkj92scOGAPoqv9AIfKUqaIWoic/TSSL7cE6UZmpg+HGHE9bqj0IbdCRBkIy+mY0VSpg60vjL+NPo/uUgUQbtNvW/eLU4+cxPv0t9IBjnJPSnbg537wTIjh/V23+cH2+zekVDyoyc9/S5N6rWRKzs4NR6MfyinImxVoCNDO16Ldd0IqibkyvU5rEp10Lt4T3f1DRzT4pSvn5AE1uLdVEKZqZF6PCe53qL6x1IQsT1YS2r6ebNed3WsGmkw4lDvf0N9LOxy6fWfp/qDDF6MYuKGC9kQGwwHlUh8BieE+pc+Kpd2o7x0fterhCDjFwOg==;ZH1KWkzYTZmPyNQk9YcqDg=="
 ---

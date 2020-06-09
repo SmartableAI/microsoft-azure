@@ -30,6 +30,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Azure IoT Central—April 2020 new features"
+    excerpt: ""
+    publishedDateTime: 2020-05-14T21:00:40Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-april-2020-new-features/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
 
 secured: "su2P4mx3YRARPMZxegjGSYAShkKzsENazI2pqba/A7kAhEFg4lfpxhX4c5cg7Oo3BLrT8B5ywrd1YCiocKK9ooaBvEvnRu7I+AUdf67z9Lh5brThFw7tVkxj401fPHoWRGOZRxhYyO5Gc3p1DMXfHOrk9Bpv+pH9IlY6nqnifCgUPf7SXA9h+AsD6bQxZQEVPcv9eA+opb+gXqnI3gZAM0/rR4HlXS0eymIV+l3+MWOMBeLUPnHBkvEMQMRBIeNiXzy8s2JNaiHE4o0H2Gh7vyywvCeuIzww47o+f9i9U+X/m1la4R208ph7qYDngBW28jhrW6/gTBhi21E3EJQyUg==;3SQ2ColgtRmbfYEb80O3Xg=="
 ---

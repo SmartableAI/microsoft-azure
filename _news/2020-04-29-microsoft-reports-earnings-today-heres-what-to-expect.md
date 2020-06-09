@@ -25,19 +25,21 @@ images:
     title: "Microsoft Reports Earnings Today. Here’s What to Expect."
 
 related:
-  - title: "U.S. Enterprises Expecting More from Microsoft Providers"
-    excerpt: "U.S. enterprises are expecting more from their Microsoft ecosystem partners, as Microsoft moves to an as-a-service model and the Microsoft Azure cloud hosts more enterprise business systems and software,"
-    publishedDateTime: 2020-04-29T13:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/us-enterprises-expecting-more-from-microsoft-providers-2020-04-29-919717"
+  - title: "Microsoft Surface Earbuds will launch May 6, according to reports"
+    excerpt: "Microsoft hasn’t confirmed this release date ... Dual, directional microphones in the earbuds can record your voice and upload it into the cloud, with the ability to translate the audio into 60 different languages. If it works as proposed, a presentation in a foreign country could be narrated so foreign speakers could understand it."
+    publishedDateTime: 2020-04-23T17:53:00Z
+    webUrl: "https://www.digitaltrends.com/home-theater/microsoft-surface-earbuds-release-date/"
+    ampWebUrl: "https://www.digitaltrends.com/home-theater/microsoft-surface-earbuds-release-date/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home-theater/microsoft-surface-earbuds-release-date/?amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 72
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 102
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://icdn2.digitaltrends.com/image/digitaltrends/microsoft-surface-earbuds-1200x630-c-ar1.91.jpg"
         width: 1200
-        height: 630
+        height: 628
 
 secured: "x+a2VMzsZtDB0JfgU+c47HNs4VCfea8H24t9vLWfd+tih6duK1RxQM+0nhILkG8z9VQklixXA1p4ex1aPupEEJwk8DJ2eYj3xn+ikZnbx5Si2pmB09QIwFTIw/z0D0YfeAkZ7X6K6CUeSmLNK3cFwTyxUUoPXEtk2Q9ibWhA6NxPBAv8QyV7eoVgyddL0O4ZwSlqjN38Fgpk+A4NEYWhr1mW7SdfsdjCclBULFAHtnsY4MyFzkOPJnb17vhfkop3DPpAm2PVWBTOdvip2GFHFBe/Wbk4Vj3jMkMV7dS7mcjJE0pzyFO377zNpWNJBBHNSzwa9yLISoGlmOF8OJXH7rmmD2w2/ECYkxIq4QmSu7kojVdquO9Q3wrp436PActFzTqaRfZUKaUx3P9jA2OP0iW0ZRc5Wu3gigVGbuF2XHx4PTWJ5mgC0OFPVp0GmMN/TSUYnj9nTv1vSMIT1ck1WGNFrvN0rgqhV56QD5ITS00=;RVP12fATvIbqVA7ZWeet5g=="
 ---

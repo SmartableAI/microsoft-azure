@@ -23,21 +23,21 @@ images:
     title: "Watch Azure When Microsoft Reports, Jim Cramer Says"
 
 related:
-  - title: "Microsoft Reports Earnings on Wednesday. Here’s What to Expect."
-    excerpt: "Outside of the company’s PC exposure, the question is whether Microsoft will get a boost from more cloud activity, or whether a recession will slow spending and hit the company’s enterprise-software business throughout 2020 and perhaps beyond."
-    publishedDateTime: 2020-04-28T10:15:00Z
-    webUrl: "https://www.barrons.com/articles/microsoft-earnings-wednesday-personal-computing-cloud-azure-51588019515"
-    ampWebUrl: "https://www.barrons.com/amp/articles/microsoft-earnings-wednesday-personal-computing-cloud-azure-51588019515"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/microsoft-earnings-wednesday-personal-computing-cloud-azure-51588019515"
+  - title: "Microsoft reports $35.0 billion in Q3 2020 revenue: Azure up 59%, Surface up 1%, and LinkedIn up 21%"
+    excerpt: "Microsoft today reported fiscal Q3 2020 earnings, including revenue of $35.0 billion, net income of $10.8 billion, and earnings per share of $1.40."
+    publishedDateTime: 2020-04-29T21:06:00Z
+    webUrl: "https://venturebeat.com/2020/04/29/microsoft-earnings-q3-2020/"
+    ampWebUrl: "https://venturebeat.com/2020/04/29/microsoft-earnings-q3-2020/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/microsoft-earnings-q3-2020/amp/"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 62
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 102
     images:
-      - url: "https://images.barrons.com/im-144883/social"
-        width: 1280
-        height: 640
+      - url: "https://venturebeat.com/wp-content/uploads/2016/11/Microsoft.jpg?fit=2048%2C1025&strip=all"
+        width: 2048
+        height: 1025
 
 secured: "xptpCg9MpIanA22OvFJQZfjbUabKPZqxuAzvVAIFpciGOpgQ7fKMEDJ+Ot8NJSf/UIjpDOJg+9V3eLMN/P4FzQV6LFh381vmUbc/Ffmqd746hLM+2d7iVtVfHnbTs+8oPo4Cl+vLiE8+O11G2rxSNLbjWuuKQnmIeiAu92M4bALcdBaLBxflLZ2GfhPgGkYDqKypUzYs+AdELxCIq4sqs6wQ3RJjtO86el8SFN9CJoN/srN9DAKTz4uoAIhEoSCJtzd2xqOn4n6BSJ0PApf8rHsZe6P03KMvU9v+rqowMTtog+6Ov95YTzzdN31AWvrY;P2IADVBz6epfdlPW8NVoww=="
 ---

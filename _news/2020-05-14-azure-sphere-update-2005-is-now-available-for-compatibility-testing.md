@@ -21,24 +21,51 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Sphere 20.04 Update 1 is now available for compatibility testing"
+  - title: "Optional Uptime SLA now available for Azure Kubernetes Services (AKS)"
     excerpt: ""
-    publishedDateTime: 2020-04-20T22:29:30Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-2004-update-1-is-now-available-for-compatibility-testing/"
+    publishedDateTime: 2020-05-13T16:00:42Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/optional-uptime-sla-now-available-for-azure-kubernetes-services-aks/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Azure Sphere 20.04 update 2 is now available for compatibility testing"
+  - title: "Azure Private Link is now available for multiple new Azure services"
     excerpt: ""
-    publishedDateTime: 2020-04-29T20:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-2004-update-2-is-now-available-for-compatibility-testing/"
+    publishedDateTime: 2020-05-14T22:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-is-now-available-for-multiple-new-azure-services/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Azure Storage—Routing preferences now available for preview"
+    excerpt: ""
+    publishedDateTime: 2020-05-19T17:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/routing-preferences-azure-storage-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "New Azure IoT Central features are now available"
+    excerpt: ""
+    publishedDateTime: 2020-05-19T16:05:41Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-iot-central-features-are-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure Kubernetes Service (AKS) resource provider on Azure Stack preview "
+    excerpt: ""
+    publishedDateTime: 2020-05-19T16:05:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-aks-resource-provider-on-azure-stack-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 76
 
 secured: "84jfu4cKpszNaevO7VfAnmEtE4J9CnLBfMmH9LQSfgUqACoWITlVHlzK9d0BSIS61EJ/rX+Fjv/49C77mTHgosju2yCK+iSu9lFyL1DvvweccPKdu8qbNehVTFTUfFj7/U4/dpE2LschuB0r52VLcMLZTmgmTvpORKHLNwD3zm8X2RS8ik+akLoFga9Ljp64tzmwCQBXv44dLCgnGyLA170IXGwDR74QcspeGXa59aHfvD/d6nrOg8pt41xlpFnZnNrYjFis16icgsC+IRb/m5hVZpypJuNiCQuJUQ/phi58Qc9o0U+rMfMIy19n+PWJUQeeDjQxCXUJfkTBcqDUMQ==;RnsXq3htqpCD9vKiOxjqyA=="
 ---

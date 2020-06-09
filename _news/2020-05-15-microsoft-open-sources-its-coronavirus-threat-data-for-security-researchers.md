@@ -27,19 +27,21 @@ images:
     title: "Microsoft open-sources its coronavirus threat data for security researchers"
 
 related:
-  - title: "Microsoft Open Sources Its Coronavirus Threat Data"
-    excerpt: "Microsoft's COVID-19 intelligence will be made publicly available to help businesses fight virus-related security threats."
-    publishedDateTime: 2020-05-15T19:06:00Z
-    webUrl: "https://www.darkreading.com/threat-intelligence/microsoft-open-sources-its-coronavirus-threat-data/d/d-id/1337836"
+  - title: "Microsoft shares COVID-19 cyber-attack threat signature data"
+    excerpt: "Unfortunately, the COVID-19 crisis has been used by unscrupulous actors to take advantage of business and individuals, with Microsoft frequently acting as a firewall to protect their customers from attackers."
+    publishedDateTime: 2020-05-15T21:08:00Z
+    webUrl: "https://mspoweruser.com/microsoft-shares-covid-19-cyber-attack-threat-data/"
+    ampWebUrl: "https://mspoweruser.com/microsoft-shares-covid-19-cyber-attack-threat-data/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-shares-covid-19-cyber-attack-threat-data/amp/"
     type: article
     provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 32
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 62
     images:
-      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
-        width: 600
-        height: 600
+      - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Open-sourcing-new-COVID-19-threat-intelligence-5.png"
+        width: 766
+        height: 563
 
 secured: "R36BfsXIGhYHr2kbPkqXuZ4DBEvp01mX8KyKMEUzZmo1oClhysaun0BHPcnTHC7qkpMPtJqAtDbUlttyClKLMWE3+TkCZOkPc03EL/tZkbXziFT5Ntx7kLG9+ucCi71zmP2vOupFp/fTInJU8r+icnd7hnN8oj3dY4IrJ4yl6s165gWFeOTz9iWTUI2swM2mCPVfoOrpRsnPlYmu6ki/I+Yd57RMRyQsNzgLsxYRVsHKHpk/kIpc8xNjHaQFxanwphCqP3K6w2/GYnkHeCiPCJVXewVcBITaa2Vg6h5WmlBaGqPnWGoO5byqmxrGjh9dQr17z7wjjGx74l3CvvE1sZucOri+7zZsKWeicEfW/mQ0qPCeFP9gT8c+AP/PpajtsemcRAlfhhcOngMe4cnQhtezj+yLkFHQTpGWpjYo1mMXcB6BpgIs1jWab99QvyN8juZx2w4kyMuPqDR2eDwalNteQEWw2rh4A/6+RA70Zwc=;jaxbXPkF7GscLLwW64Io3Q=="
 ---

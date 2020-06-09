@@ -8,8 +8,8 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/10-microsoft-teams-a
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/10-microsoft-teams-apps-for-working-remotely/"
 type: article
 quality: 102
-heat: 102
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechRepublic
@@ -27,6 +27,79 @@ images:
     width: 1200
     height: 675
     title: "10+ Microsoft Teams apps for working remotely"
+
+related:
+  - title: "Workday, Microsoft forge partnership revolving around Adaptive Planning, Teams, Azure integration"
+    excerpt: "Microsoft will adopt Workday Adaptive Planning, which will run on Azure. Workday HCM and Financial Management will integrate with Microsoft Teams and Azure Active Directory."
+    publishedDateTime: 2020-05-27T20:10:00Z
+    webUrl: "https://www.zdnet.com/article/workday-microsoft-forge-partnership-revolving-around-adaptive-planning-teams-azure-integration/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/workday-microsoft-forge-partnership-revolving-around-adaptive-planning-teams-azure-integration/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/workday-microsoft-forge-partnership-revolving-around-adaptive-planning-teams-azure-integration/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/01/27/b045ccbf-d935-4681-8c2f-109b2e2394e8/thumbnail/1200x675/5f20b958b20a2b546b9a0a796b3fc2bd/workday-building-sign.jpg"
+        width: 1200
+        height: 675
+  - title: "Microsoft and Workday announce new partnership involving Azure and Teams"
+    excerpt: "Microsoft and Workday today announced a new partnership that will enable enterprise customers to simplify everyday tasks, improve collaboration and productivity. This new partnership includes the following three things."
+    publishedDateTime: 2020-05-28T04:36:00Z
+    webUrl: "https://mspoweruser.com/microsoft-workday-partnership-azure-teams/"
+    ampWebUrl: "https://mspoweruser.com/microsoft-workday-partnership-azure-teams/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-workday-partnership-azure-teams/amp/"
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 76
+    images:
+      - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Microsoft-Workday.jpg"
+        width: 801
+        height: 404
+  - title: "Microsoft, Workday Announce Strategic Partnership to Accelerate Planning for Today's World"
+    excerpt: "Microsoft (NASDAQ: MSFT) and Workday Inc. (NASDAQ: WDAY) today announced a strategic partnership prioritizing enterprise planning in the cloud and expanding the business solutions"
+    publishedDateTime: 2020-05-27T20:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/microsoft-workday-announce-strategic-partnership-to-accelerate-planning-for-todays-world-2020-05-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Microsoft and Workday Announce Cloud Partnership"
+    excerpt: "Microsoft and Workday are partnering to bring Microsoft Azure to Workday Adaptive Planning alongside integration with Microsoft Teams."
+    publishedDateTime: 2020-05-28T19:07:00Z
+    webUrl: "https://winbuzzer.com/2020/05/28/microsoft-and-workday-announce-cloud-partnership-xcxwbn/"
+    ampWebUrl: "https://winbuzzer.com/2020/05/28/microsoft-and-workday-announce-cloud-partnership-xcxwbn/?amp"
+    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/05/28/microsoft-and-workday-announce-cloud-partnership-xcxwbn/?amp"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 62
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2019/12/Microsoft-Cologne-Office-Pixabay.jpg"
+        width: 957
+        height: 720
+  - title: "Understanding Microsoft Azure certifications"
+    excerpt: "Take advantage of Azure certifications to help advance your career, earn recognition, and validate your technical knowledge and abilities in current and future industry job roles. Looking to level up your career or jump-start a new one?"
+    publishedDateTime: 2020-05-23T05:23:00Z
+    webUrl: "https://docs.microsoft.com/en-us/learn/certifications/posts/understanding-microsoft-azure-certifications"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 47
+    images:
+      - url: "https://docs.microsoft.com/en-us/learn/certifications/posts/images/understanding-azure-poster.png"
+        width: 1024
+        height: 512
 
 secured: "+t+DNCuEVXRIzd7/NnENwDyVcTRnI3D3fYL4Dmmpyo8Tl7AUN2alto//gkc8UZoJsuXpSdWHgSDyE4Z2rhuS3NHobS1b4+sv0LuKp61x4WNoADQynmybg9R2figFPkQpES3Jc1vZuKBxtAKqpx2U8WrNDdocSshhmQIy/G1S1jRCOT0keeRiZKjJI79T7H3dt5MHuJHFPm3qzOSeoj5we66UR+1EdVH3Rry02JoeRMmxWYhVSwplS2otqO82xlJKfHzwyGYDfUaA/eNopVhwqiGr+QCiSVTplXv0E8Nl4vW3luev7bahk8hUbbaTetVLwrlU9A9ChkOV5H8yJ2tjpR9JYc5B3aQvAl64uM1gLN69JqexwvaHZA/Gee+3wc9FSoyMIyLClZdzFLKrxc4TCrUTe8PzoTFOwVGdfBZtyW1AjF7J0c+mppM50uwfaVkn2QkCuSpvxougGPZAwkz8NBk5D6mBHAd/oMcHH7EI1I4=;MV7HAQgUpzzEp/8IEm7V5g=="
 ---

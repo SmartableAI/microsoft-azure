@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/04/29/dow-jones-news-boeing-
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/29/dow-jones-news-boeing-cuts-production-and-staff-mi.aspx"
 type: article
 quality: 96
-heat: 96
+heat: 116
 published: true
 
 provider:
@@ -27,6 +27,23 @@ images:
     width: 1200
     height: 800
     title: "Dow Jones News: Boeing Cuts Production and Staff; Microsoft Reports This Afternoon"
+
+related:
+  - title: "Dow Jones News: IBM to Launch New Cloud, AI Products; Microsoft's Next Xbox Could Face Problems"
+    excerpt: "IBM is using its Think conference to roll out new products, and Microsoft will need to contend with game delays and a sluggish economy when it launches a new game console later this year."
+    publishedDateTime: 2020-05-05T18:01:00Z
+    webUrl: "https://www.fool.com/investing/2020/05/05/dow-jones-news-ibm-to-launch-new-cloud-ai-products.aspx"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/05/05/dow-jones-news-ibm-to-launch-new-cloud-ai-products.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/05/dow-jones-news-ibm-to-launch-new-cloud-ai-products.aspx"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 90
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg"
+        width: 580
+        height: 378
 
 secured: "bHYDxaTMG/T3vpmg2IpjkMv6KrG8YifyM2iSei9pF1PzBEWMHyRfWsSVJf5EJGbq2GU92AIjEZGrkQwhq8sCA8+iWlK23LcoA5kNW15ayC4sUUJzXbVNo0Nfz3Sw7q+d8xSfygo9E+83Mth19baidaUKLl1qvrduwffbnoz7lTO9FbsHcawWlTMFEu8atQUxSI1ozByPC8+msRS2Ke0nixMCx1FGENFPx37Oh/QkxnHxSYuzoWF3VfJFPn6meAIMpTRhJLtTbTs8VU+tuVWiTggTVuV1QYKCnRHj/hItP+4a8rrJFk8IhPBjrVPXxDmNDuhoTxdGDUmrlJWNPQoQaHDsXRm8A19BunYeylnpl/bklhdnOOEKV1Lh/8t6TrTEIMkZs1rNMLKjqvc0awKW0gOE1uGF1Ue+RQPEwNrZ/3cS7mDmf+TQqIgx+IANb4GPzgwzKkbQm5aO1B+yTaBj3rNRVzgwzBFQ7cUYYwLNowo=;IIclkQB2cNDGe+mdh8GVUQ=="
 ---

@@ -30,6 +30,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Minimal TLS version setting is now available for Azure Database for PostgreSQL"
+    excerpt: ""
+    publishedDateTime: 2020-06-04T17:00:39Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-minimal-tls-version/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 73
 
 secured: "mposjju3ERkLctd117i/DNGk6WOUrq4ZytoKieQB6Fi/QD/rFGxaC5pE6gsR7fcUE4njLWOpDVq1QQfQPGzuFeJRGa6iDjvgBb4DimhQiiak23lxlAmzfKNq7woQfhCha4Sa78QYuYk6S6/AxKcvt7LqjGvK3kmVKcD4Qx/fRrLTPODBISCESbL47WX3AvJmM+oXJNgOKvxfY+eZ6SoBidumGuyspB1r0ZbUpJPLbS4kZQTby/YtfOwYPRyBXCj8X8LyDGqckvDwjzn0ZoN9bkY7IbmYyVjJaa0pfbpKcf8VAGvA2Rl2XFhmsBbsKpmCPcJcWhtglCQ53R0Fb8rCfQ==;qTSyfun0USBTidBIa5Ppog=="
 ---

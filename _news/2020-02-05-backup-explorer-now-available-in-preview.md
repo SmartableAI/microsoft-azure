@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-05T08:00:05Z
 webUrl: "https://azure.microsoft.com/blog/backup-explorer-now-available-in-preview/"
 type: article
 quality: 94
-heat: 94
+heat: 114
 published: true
 
 provider:
@@ -26,6 +26,21 @@ images:
     width: 1024
     height: 693
     title: "Backup Explorer now available in preview"
+
+related:
+  - title: "Backup Explorer Preview for Microsoft Azure Now Available"
+    excerpt: "Microsoft announced on Wednesday that its Backup Explorer tool for Azure services is available as a preview. Right now, Backup Explorer is just available for use with Azure virtual machine backups ..."
+    publishedDateTime: 2020-05-02T00:00:00Z
+    webUrl: "https://redmondmag.com/articles/2020/02/05/backup-explorer-preview-for-azure.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 47
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/Cloud3.jpg"
+        width: 647
+        height: 450
 
 secured: "0W1nmO3c0sp6Fv6ZoqZHhFcoalJTJol0premLXXW+GN0iYhtaF9LZL76A+o1NKjefdhTrtARSk5gzIunU6Qh4ObTDJ5OpAr6fVNJGTfo4hDmKbR+KQU16rpg1uDhNoQFyslyt2RhGthbkHKAuhvmCUXfcE7RCHVECHKhOoElGfUuVarAi8r8IgbbZzU6638TqukyxI9Qx1NMVpzSUC60N5CwwRBohLlsIV0R+RkwJBDUEUd/mVqGtckBQQMWkLjl/e/ivVquQq2P49BgV0ud0MkN6cn5bmtECKZINPmoksn8txfBhwekuqs+M5tYwbeWIFVnmi+xGKozNGC9hs3y0g==;PEEdWah81x11/6+PLM/8zw=="
 ---

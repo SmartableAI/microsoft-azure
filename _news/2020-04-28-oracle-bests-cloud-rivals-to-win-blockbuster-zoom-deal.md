@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-28T15:21:00Z
 webUrl: "https://www.crn.com/news/cloud/oracles-bests-cloud-rivals-to-win-blockbuster-zoom-deal"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,36 @@ images:
     width: 610
     height: 458
     title: "Oracle Bests Cloud Rivals To Win Blockbuster Zoom Deal"
+
+related:
+  - title: "Oracle Views Clear Benefits From Cloud Deal With Zoom"
+    excerpt: "Oracle gained some bragging rights in the competitive cloud infrastructure sector after landing a deal with Zoom Video."
+    publishedDateTime: 2020-04-28T15:23:00Z
+    webUrl: "https://www.thestreet.com/investing/oracle-gets-cloud-infrastructure-deal-with-zoom-video"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/oracle-gets-cloud-infrastructure-deal-with-zoom-video"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/oracle-gets-cloud-infrastructure-deal-with-zoom-video"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 62
+    images:
+      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTY4NjQ3NDk5MDMzNjE4MDU1/oracles-cloud-guru-on-how-cloud-services-will-transform-companies-and-oracle-itself.jpg"
+        width: 620
+        height: 349
+  - title: "Oracle wins surprise cloud deal with Zoom to help host its platform"
+    excerpt: "The collaboration is the result of a surprise cloud deal unveiled today under which Zoom has shifted some of its videoconferencing infrastructure to Oracle Cloud. The value of the contract is not being disclosed,"
+    publishedDateTime: 2020-04-28T18:47:00Z
+    webUrl: "https://siliconangle.com/2020/04/28/oracle-wins-surprise-cloud-deal-zoom-help-host-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 32
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/oracle.png"
+        width: 718
+        height: 400
 
 secured: "EC/Yyu5MK4p39YvtlgjmXQVpSu3avS5fSL3yrh2e+aJf6RcW1nrR4o3yOPPHYwULzBRXIkJg1r4/POoU7wv1v8qpul2+BVpbnCbIeVAy8DodG/HEXnipP0w3bw96ij55RfIageVp1LgMDNOjCUB9Vad4BL3KI4cwnlCGeZWAcPkj/UX6DY1YRUBR1upVRGtBtRDu/W5kByEHvnWm52DCI9NuoA9sGiMyxCbbY+HlGRd3oOpWIRlGJYhqZn2elVytwg9s4tZX8WwzfNrC0KYKp9c3GHpU3j7RL/01GgGByxuFdpxaK91aFrH6qpGYhI3K;dwXSQd1XSSVijzjSTCTcJA=="
 ---

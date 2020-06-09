@@ -44,6 +44,21 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/2020/04/15/2c3ba05e-21fa-47cd-8dab-d91266415adc/jediinspectorgeneralreport.jpg"
         width: 877
         height: 593
+  - title: "Dow Jones News: Apple Announces iPhone SE; Microsoft's JEDI Win Safe for Now"
+    excerpt: "Apple announced its first budget iPhone in four years, and a report from the Department of Defense's watchdog found no evidence that Microsoft's Joint Enterprise Defense Infrastructure (JEDI) cloud win was suspect. It's been four years since Apple announced the original iPhone SE, a budget model with a small form factor. Since the original SE ..."
+    publishedDateTime: 2020-04-16T20:40:00Z
+    webUrl: "https://www.fool.com/investing/2020/04/16/dow-jones-news-apple-announces-iphone-se-microsoft.aspx"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/04/16/dow-jones-news-apple-announces-iphone-se-microsoft.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/16/dow-jones-news-apple-announces-iphone-se-microsoft.aspx"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 99
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568272%2Fapple_new-iphone-se-black-camera-and-touch-id_04152020.jpg&w=1200&op=resize"
+        width: 1200
+        height: 733
   - title: "DoD watchdog sanctions JEDI award to Microsoft over Amazon, calls bias claims unfounded"
     excerpt: "The findings represent a victory for the Defense Department and Microsoft. The two are eager to start work on the Joint Enterprise Defense Infrastructure (JEDI) project pending the outcome of a legal challenge. It’s a blow to Amazon, which claims that Trump’s personal animus toward the company and its founder, Jeff Bezos, improperly ..."
     publishedDateTime: 2020-04-15T16:38:00Z
@@ -59,6 +74,21 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2018/04/2196640900_c072470031_z-630x451.jpg"
         width: 630
         height: 451
+  - title: "DoD clears Microsoft's JEDI contract award, can't \"definitively determine\" that political interference took place"
+    excerpt: "The DoD's Inspector General has cleared Microsoft's $10 billion JEDI contract after no evidence of wrongdoing was found. It also noted that awarding the project to a single company as opposed to dividing it among competitors was in line with \"applicable acquisition standards.\" This comes after Amazon disputed the decision alleging that ..."
+    publishedDateTime: 2020-04-16T18:53:00Z
+    webUrl: "https://www.techspot.com/news/84853-dod-clears-microsoft-jedi-contract-award-cant-definitively.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/84853-dod-clears-microsoft-jedi-contract-award-cant-definitively.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84853-dod-clears-microsoft-jedi-contract-award-cant-definitively.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 81
+    images:
+      - url: "https://www.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-13-ts3_thumbs-023.jpg"
+        width: 800
+        height: 560
   - title: "Pentagon watchdog clears Microsoft’s $10 billion cloud-computing win over Amazon"
     excerpt: "The Defense Department’s watchdog found no evidence that the Pentagon’s controversial decision to award a $10 billion cloud-computing contract to Microsoft was the result of interference from President Donald Trump, though it said its probe was limited by the White House. The 317-page report issued Wednesday by the inspector general also ..."
     publishedDateTime: 2020-04-15T15:52:00Z
@@ -89,43 +119,47 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2015/09/microsoft-logo-3.jpg?itok=HZnHZqpR"
         width: 800
         height: 600
-  - title: "DOD Clears Microsoft’s JEDI Contract Award"
-    excerpt: "In a sharp blow to Amazon, the U.S. Department of Defense found that Microsoft’s $10 billion Joint Enterprise Defense Infrastructure (JEDI) contract award was correct after an extensive review. “We believe the evidence we received showed that the DOD personnel who evaluated the contract proposals and awarded Microsoft the JEDI Cloud ..."
-    publishedDateTime: 2020-04-15T15:27:00Z
-    webUrl: "https://www.thurrott.com/cloud/234826/dod-clears-microsofts-jedi-contract-award"
+  - title: "US Department of Defense Inspector General finds no issues in Microsoft JEDI cloud contract"
+    excerpt: "The US Department of Defense’ Inspector General today published the full report on Microsoft’s JEDI cloud contract. Inspector General found that DoD’s decision to award the contract to Microsoft was consistent with applicable law and acquistion standards. OIG also clearly mentioned that they have evidence that the DoD personnel who ..."
+    publishedDateTime: 2020-04-15T15:25:00Z
+    webUrl: "https://mspoweruser.com/us-department-of-defense-inspector-general-finds-no-issues-in-microsoft-jedi-cloud-contract/"
+    ampWebUrl: "https://mspoweruser.com/us-department-of-defense-inspector-general-finds-no-issues-in-microsoft-jedi-cloud-contract/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/us-department-of-defense-inspector-general-finds-no-issues-in-microsoft-jedi-cloud-contract/amp/"
     type: article
     provider:
-      name: Thurrott
-      domain: thurrott.com
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 52
+    images:
+      - url: "https://mspoweruser.com/wp-content/uploads/2020/04/Microsoft-JEDI-DoD.jpg"
+        width: 1265
+        height: 745
+  - title: "Microsoft's JEDI win was not down to White House dark force"
+    excerpt: "The Defense Department’s watchdog found no evidence that the Pentagon’s controversial decision to award a $10 billion cloud-computing contract to Microsoft was the result of interference from President Donald Trump. The 317-page report issued Wednesday by the inspector general’s office also found that giving the JEDI contract to a single ..."
+    publishedDateTime: 2020-04-17T08:31:00Z
+    webUrl: "https://www.fudzilla.com/news/50669-microsoft-s-jedi-win-was-not-down-to-white-house-dark-force"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
     quality: 32
     images:
-      - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2019/10/us-pentagon.jpg"
-        width: 1280
-        height: 720
-  - title: "Pentagon watchdog clears Microsoft’s $10 billion JEDI win over Amazon"
-    excerpt: "The Defense Department’s watchdog found no evidence that the Pentagon’s controversial decision to award a $10 billion cloud-computing contract to Microsoft was the result of interference from President Donald Trump,"
-    publishedDateTime: 2020-04-15T16:10:00Z
-    webUrl: "https://www.stripes.com/news/us/pentagon-watchdog-clears-microsoft-s-10-billion-jedi-win-over-amazon-1.626150"
+      - url: "https://www.fudzilla.com/media/k2/items/cache/aa91bb4a181a55aa28a611297d048668_L.jpg"
+        width: 620
+        height: 463
+  - title: "DoD watchdog clears Microsoft JEDI win, but admits it was blocked from investigating Trump interference claims"
+    excerpt: "The Department of Defense Inspector General cleared the military's decision to award a contentious major cloud contract to Microsoft. Competitor Amazon claimed that the JEDI contract, worth as much as $10bn over a decade, was unfairly awarded to Microsoft, due to interference by the President of the United States. The company alleges that Trump ..."
+    publishedDateTime: 2020-04-16T14:32:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/dod-watchdog-clears-microsoft-jedi-win-admits-it-was-blocked-investigating-trump-interference-claims/"
     type: article
     provider:
-      name: Stars and Stripes
-      domain: stripes.com
-    quality: 32
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 12
     images:
-      - url: "https://www.stripes.com/polopoly_fs/1.626151.1586966540!/image/image.jpg_gen/derivatives/landscape_490/image.jpg"
-        width: 490
-        height: 341
-  - title: "Pentagon watchdog uncovers no Trump influence in $10B JEDI contract awarded to Microsoft over Amazon"
-    excerpt: "The Pentagon's inspector general uncovered few problems with the hotly contested $10 billion JEDI cloud-computing contract given to Microsoft but was not able to assess assertions of ethical misconduct due to limited cooperation by the White House."
-    publishedDateTime: 2020-04-15T21:09:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/pentagon-watchdog-uncovers-no-trump-influence-in-10b-jedi-contract-awarded-to-microsoft-over-amazon"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/pentagon-watchdog-uncovers-no-trump-influence-in-10b-jedi-contract-awarded-to-microsoft-over-amazon?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/pentagon-watchdog-uncovers-no-trump-influence-in-10b-jedi-contract-awarded-to-microsoft-over-amazon?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 17
+      - url: "https://media.datacenterdynamics.com/media/images/MicrosoftAzureClippySoldier.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
 
 secured: "XT8swqpigXRznMUrrLfk91al0TAr41KkWuYldCiZ1SmX+6oK+7Gw9HfZamulh+yVtc6tRJwZ90kSWoFfElhYXir17cdKBOIJto2rABeAsVqCdV0sDoWmd/viea0/X3fFKMT+bYkcKMfLPg8cUgxvl1LowKWO5MXBB9DQDhToZ/niGGDboFIKknkWha+u25Dqs/DLbVV/f2/1gQ11nzlvH6O3dkd3WvHcsDhCIyRpa3nmh2bEk3Y2htUucGwYeSLc4xgSr+/8sqdPMD1WUgEjupfNpM27B9/liS1MBXK6irV8Xnhrt97MUEKoFMJVz7I+xT5ola6jkSIdNnZmvzbgK7yM3IN86XwB/xc96e8lJ+64nKGCUB59qBHoDOzDHdHpdy8BJvz38sUAAlb8ceWMIQnCkQG7bn6oYzt2qSMZL6B5UGm0KuZFB+50UdPVCcu/T/3lIlQjoVcIIDQuEaTt/j22LcqQKipME7LPSB6mCog=;tX9OzGgJTBZTRLxSqpAvvw=="
 ---

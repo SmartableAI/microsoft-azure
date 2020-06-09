@@ -19,62 +19,47 @@ topics:
   - Azure
 
 related:
-  - title: "Microsoft slams Amazon’s latest protest over Pentagon cloud contract as ‘a way to avoid the consequences of its own bad business decisions’"
-    excerpt: "Amazon is once again challenging the Department of Defense’s decision to award a $10 billion cloud contract to Microsoft. Amazon filed a protest of the award directly with the DoD after a"
-    publishedDateTime: 2020-05-07T23:47:00Z
-    webUrl: "https://www.geekwire.com/2020/microsoft-slams-amazons-latest-protest-pentagon-cloud-contract-way-avoid-consequences-bad-business-decisions/"
-    ampWebUrl: "https://www.geekwire.com/2020/microsoft-slams-amazons-latest-protest-pentagon-cloud-contract-way-avoid-consequences-bad-business-decisions/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-slams-amazons-latest-protest-pentagon-cloud-contract-way-avoid-consequences-bad-business-decisions/amp/"
+  - title: "AWS files a second JEDI protest with the DOD"
+    excerpt: "AWS has claimed the latest salvo in a near interminable legal war over JEDI, filing a second protest to seek more info over the Pentagon's corrective action of the contract."
+    publishedDateTime: 2020-05-08T00:27:00Z
+    webUrl: "https://www.bizjournals.com/washington/news/2020/05/07/aws-files-a-second-jedi-protest-with-the-dod.html"
+    ampWebUrl: "https://www.bizjournals.com/washington/news/2020/05/07/aws-files-a-second-jedi-protest-with-the-dod.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/washington/news/2020/05/07/aws-files-a-second-jedi-protest-with-the-dod.amp.html"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 68
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 62
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2019/11/microsoft-630x473.jpg"
-        width: 630
-        height: 473
-  - title: "Amazon launched another JEDI contract complaint to DOD, and Microsoft responds"
-    excerpt: "In a blog post, Frank X. Shaw, Microsoft Corporate Vice President, Communications, revealed that Amazon has launched another bid to prevent Microsoft from fulfilling the Pentagon’s JEDI contract, which would update the Department of Defences’s IT services to a modern cloud-based back-end."
-    publishedDateTime: 2020-05-07T22:24:00Z
-    webUrl: "https://mspoweruser.com/amazon-launched-another-jedi-contract-complaint-to-dod-and-microsoft-responds/"
-    ampWebUrl: "https://mspoweruser.com/amazon-launched-another-jedi-contract-complaint-to-dod-and-microsoft-responds/amp/"
-    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/amazon-launched-another-jedi-contract-complaint-to-dod-and-microsoft-responds/amp/"
+      - url: "https://media.bizj.us/view/img/10654474/3124262891-11*600xx4000-2667-0-0.jpg"
+        width: 600
+        height: 400
+  - title: "New AWS protest spawns JEDI blog wars"
+    excerpt: "Microsoft won the JEDI contract in October, but a lawsuit from rival AWS and early legal ruling from a federal judge induced the Pentagon to amend the solicitation and invite new bids on storage requirements for the portion of the request for bids called \"price scenario 6\" – a cloud storage component that,"
+    publishedDateTime: 2020-05-07T23:40:00Z
+    webUrl: "https://fcw.com/articles/2020/05/07/aws-dod-agency-protest-blog-wars.aspx"
     type: article
     provider:
-      name: MSPoweruser
-      domain: mspoweruser.com
-    quality: 58
+      name: Federal Computer Week
+      domain: fcw.com
+    quality: 32
     images:
-      - url: "https://mspoweruser.com/wp-content/uploads/2019/10/109411443_gettyimages-853699560.jpg"
-        width: 660
-        height: 371
-  - title: "Amazon files another JEDI protest — this time against Pentagon’s corrective action"
-    excerpt: "Amazon has doubled down in its protest of the Joint Enterprise Defense Infrastructure (JEDI) cloud contract. The company filed a second, concurrent bid protest this week directly with the Department of Defense asking for more clarity around the corrective action it has proposed taking on the JEDI contract."
-    publishedDateTime: 2020-05-07T23:04:00Z
-    webUrl: "https://www.fedscoop.com/amazon-files-another-jedi-protest-time-pentagons-corrective-action/"
+      - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Cloud/pentagoncloud2.png"
+        width: 760
+        height: 368
+  - title: "Amazon files new protest over ‘fatally flawed’ JEDI cloud computing contract award"
+    excerpt: "In an increasingly sharp war of words and legal maneuvers, Amazon Web Services Inc. is stepping up its protest of the Joint Enterprise Defense Infrastructure cloud contract award, asking the U.S. Department of Defense for more clarity around corrective action it has proposed taking."
+    publishedDateTime: 2020-05-08T12:17:00Z
+    webUrl: "https://siliconangle.com/2020/05/08/amazon-files-new-protest-fatally-flawed-jedi-cloud-computing-contract-award/"
     type: article
     provider:
-      name: FedScoop
-      domain: fedscoop.com
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 26
     images:
-      - url: "https://www.fedscoop.com/wp-content/uploads/2020/01/AWS_-_Amazon_Web_Services_Office_in_Houston_Texas_46600198075.jpg"
-        width: 2100
-        height: 1401
-  - title: "Amazon challenges the Pentagon’s revised JEDI solicitation directly to the department"
-    excerpt: "Amazon Web Services filed a bid protest directly to the Department of Defense challenging “ambiguous aspects” of the Pentagon’s revised solicitation for its embattled enterprise cloud contract. AWS’ challenge is in response to a revised solicitation from DoD regarding a specific technical requirement of the Joint Enterprise Defense Infrastructure cloud contract that AWS had challenged."
-    publishedDateTime: 2020-05-07T22:19:00Z
-    webUrl: "https://www.federaltimes.com/it-networks/cloud/2020/05/07/amazon-challenges-the-pentagons-revised-jedi-solicitation-directly-to-the-department/"
-    type: article
-    provider:
-      name: Federal Times
-      domain: federaltimes.com
-    quality: 25
-    images:
-      - url: "https://www.armytimes.com/resizer/zPIx2t3S-cW9L6O4V1nUbDT6wsw=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/SPQTUFFMHRFI7FZBGH36NHJ5MA.jpg"
-        width: 1200
-        height: 630
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/pentagon-720022_1280-AutoGirl-Pixabay.jpg"
+        width: 1280
+        height: 1280
 
 secured: "rs4tZuuFDp+yp95xHA1NBImLD62TAino4eiSoXRr6r+i9IRdf9P3ysFxkF+BM9hRaJse8t2OfEdcUFaPtvxJwyM1j0fX9d6/KQFFeMQzHlacIvRDo/gB8KL82GqFsf0Io68zKTmt2Bqww9sQdx8mc+JO0GSCVVD/Gwk/iq/2SCeJExaTk68mpb6sTr74ZQeCQ2oyrvwBgCnqf1mjkt8QPu8qImG8Jel/1NStJc3Qf6hOXK5xcOp2qbmtsyh2yROrNpeuHk5S2h2a4m2zBlBeAcyHqwHfA9vDnAH1UOv9g8DSGfUI2JpTTQJlhXk8JUQ8;PGwuPMnxw6GjJ709Ep9M/A=="
 ---

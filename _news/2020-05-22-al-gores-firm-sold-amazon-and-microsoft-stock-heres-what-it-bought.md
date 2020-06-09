@@ -8,7 +8,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/al-gore-firm-sold-amazon-stock-
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/al-gore-firm-sold-amazon-stock-microsoft-palo-alto-networks-51590162874"
 type: article
 quality: 62
-heat: 82
+heat: 102
 published: true
 
 provider:
@@ -25,6 +25,21 @@ images:
     title: "Al Gore’s Firm Sold Amazon and Microsoft Stock. Here’s What It Bought."
 
 related:
+  - title: "A Giant Pension Sold Apple, Microsoft, and Intel Stock. Here’s What It Bought."
+    excerpt: "The manager of Wisconsin’s pension also nearly doubled its investment in Uber stock in the first quarter. The pension is one of the largest in the U.S.—and, by some measures, one of the best."
+    publishedDateTime: 2020-05-09T10:00:00Z
+    webUrl: "https://www.barrons.com/articles/a-giant-pension-sold-apple-stock-microsoft-intel-bought-uber-51588871495"
+    ampWebUrl: "https://www.barrons.com/amp/articles/a-giant-pension-sold-apple-stock-microsoft-intel-bought-uber-51588871495"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/a-giant-pension-sold-apple-stock-microsoft-intel-bought-uber-51588871495"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 58
+    images:
+      - url: "https://images.barrons.com/im-184765/social"
+        width: 1280
+        height: 640
   - title: "A Huge Pension Bought Up Microsoft, Alibaba and 3M Stock. Here’s What It Sold."
     excerpt: "Ontario Teachers’ Pension Plan bought Microsoft, Alibaba and 3M stock in the first quarter. It sold nearly all its Amazon stock."
     publishedDateTime: 2020-05-23T10:00:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/data-intensity-launches
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/data-intensity-launches-oracle-to-azure-safe-switch-1029158976"
 type: article
 quality: 87
-heat: 87
+heat: 107
 published: true
 
 provider:
@@ -21,6 +21,17 @@ provider:
 
 topics:
   - Azure
+
+related:
+  - title: "Oracle launches Microsoft Azure cloud interconnect location in Tokyo"
+    excerpt: "Oracle has expanded its cloud interoperability collaboration with Microsoft Azure into Asia with a new cloud interconnect location in Tokyo. This new Tokyo interconnection is expected to enable businesses to share data across applications running in Microsoft Azure and Oracle Cloud."
+    publishedDateTime: 2020-05-11T12:17:00Z
+    webUrl: "https://www.telecompaper.com/news/oracle-launches-microsoft-azure-cloud-interconnect-location-in-tokyo--1338011"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
 
 secured: "UpLIicTz6OSaGQAuhf43VKV93mzzwjcme4dH3986Mr95Wp7UdfnMftY6GzuVSuD5Qp4nFb1zuUxiDXb2g6Y6lwylINHvgAzLTrMB/Im4Y1rYx51MhR3kcJGQkOKWIRXN4QhwdQjOEwJqxM0hLxQX0H+yf/zHg30/HsvHEITyzcPLILk+XxKMtLNOAam51YWJWEO2zOrsk6tQDTcpgSlOeGIX3AcOteMGXf+u4X+4J3SQY3/KTXYCBSImfoTCCKQaQrdoTjJbHfY9pduoXCTlWJVh3YwLyi5drWkT4SFItlyOCs4+t1La6eWA/L11owXq3boafogXd1mbKNF/XMu3yQZ5uW4dIWhrLEX1VtDBa2ZV7Qpb+LHWhAfPjoiolXlbAUkumChK0Z1xlUcucoMGNpOoiZS4o0EYaLRv2tXmuVcepaUrgk2DNR9wUlLV93Ci7H07ONO8DBhOfx4mnOHiTbLEEYMSObcDgb96dtIvJzk=;jW7/d8mbfhO25iKShrzyZQ=="
 ---

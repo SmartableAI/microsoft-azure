@@ -85,6 +85,34 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2020/04/NBA_Microsoft_Co_Brand_-630x287.jpg"
         width: 630
         height: 287
+  - title: "Prepare for an In-Demand Cloud Career With This Microsoft Azure Training Bundle"
+    excerpt: "Prepare for an In-Demand Cloud Career With This Microsoft Azure Training Bundle Whether you're looking for work or just want to keep your resume sharp, you can prepare for a career in this field with the Complete 2020 Microsoft Azure Certification Prep ..."
+    publishedDateTime: 2020-04-21T14:47:00Z
+    webUrl: "https://www.pcmag.com/deals/prepare-for-an-in-demand-cloud-career-with-this-microsoft-azure-training"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 83
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/045CdzWhI5UsL6d7JUERSJy-1.fit_lim.size_1200x630.v_1587455928.jpg"
+        width: 1120
+        height: 630
+  - title: "Microsoft Inks Deal With NBA to Use Cloud and Surface Tablets"
+    excerpt: "Microsoft (MSFT) - Get Report has signed a deal with the NBA to provide the basketball league with Azure cloud services and Surface tablets. The deal is effective for the league's 2020-21 season. Along with other professional sports leagues, the NBA suspended its current season in March to mitigate the spread of the coronavirus."
+    publishedDateTime: 2020-04-16T19:43:00Z
+    webUrl: "https://www.thestreet.com/latest-news/microsoft-deal-with-nba-cloud-and-surface-tablets"
+    ampWebUrl: "https://www.thestreet.com/.amp/latest-news/microsoft-deal-with-nba-cloud-and-surface-tablets"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/latest-news/microsoft-deal-with-nba-cloud-and-surface-tablets"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 62
+    images:
+      - url: "https://content.jwplatform.com/thumbs/xCBbfNZH-720.jpg"
+        width: 720
+        height: 480
   - title: "NBA taps Microsoft’s Azure cloud to enhance fans’ online experiences"
     excerpt: "Microsoft Corp. has scored another big win today after the National Basketball Association said it will adopt its Azure cloud to enhance online experiences for its fans. In addition, NBA teams will use Microsoft Surface tablets in unspecified ways from the beginning of the league’s 2020-21 season, it was announced today. Microsoft has become ..."
     publishedDateTime: 2020-04-17T02:55:00Z
@@ -98,6 +126,28 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/1.jpg"
         width: 949
         height: 433
+  - title: "NBA announces new multiyear partnership with Microsoft to redefine and personalize the fan experience"
+    excerpt: "Microsoft becomes an Official Technology Partner for the NBA; together the companies will create a direct-to-consumer platform that delivers new fan engagement experiences and enhanced streaming capabilities powered by Microsoft Azure and its AI capabilities."
+    publishedDateTime: 2020-04-16T18:10:00Z
+    webUrl: "https://news.microsoft.com/2020/04/16/nba-announces-new-multiyear-partnership-with-microsoft-to-redefine-and-personalize-the-fan-experience/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/prod/prod/2020/04/Option_3--1024x467.jpg"
+        width: 1024
+        height: 467
+  - title: "Microsoft, NBA sign cloud and tablet deal"
+    excerpt: "The National Basketball Association will use Microsoft's (MSFT +2.3%) Azure cloud and Surface tablets, starting with the 2020-21 season. Terms of the deal weren't disclosed.Last month, the NBA put the"
+    publishedDateTime: 2020-04-16T23:36:00Z
+    webUrl: "https://seekingalpha.com/news/3561437-microsoft-nba-sign-cloud-and-tablet-deal"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 2
 
 secured: "gEyIiKa3Zil9FD8lSqHGX1dmOJatQaOGTqOYESNKNZcomsh5aShDKgi5FUNb0Hp4unaWF9rrXNgiB6a562fEv5QDnVUbn3b7N5q6li6UEx4zMjkwkdIm0/qthY2xteAhOjFSt37Dij3CgsPilKoHPBIQy0sjv1PnpSCohaoMOBBh1Th4Gg6AjmeGwjsXHQG9uf/K4rF2LIoNmgKGKKj0UIBhTiLkFTFe7+RgxBnrWq9wLrt/eIfaVmA68/w3RmPKnPoLztOjv/uHcVB2HxZCK1oPzJ7aveRM8ALT4NlrJqsIDMhVaW25YuE2f9QhPlgnUCXRomNsf0bmSizKGerxv3oiFumji5tPL74wOnaOnVPoGD490w2w0OIxf4K6p4BvAf9PZvsurW5YCLAvu3LCdSbNjqEriGyzazKU634xIho7I+WmdvYq2zxeGig7TWjzxtJPLkI6tC1vOQExWFPEv8sOTwCoRAIyYrD9Eyhivxc=;3jSZBKD5CWz72qjvDC6kcw=="
 ---

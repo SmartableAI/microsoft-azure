@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-18T13:19:00Z
 webUrl: "https://seekingalpha.com/news/3575525-fedex-microsoft-to-collaborate-on-commerce"
 type: article
 quality: 2
-heat: 2
+heat: -1
 published: false
 
 provider:
@@ -15,6 +15,39 @@ provider:
 
 topics:
   - Azure
+
+related:
+  - title: "RateLinx completes migration to Microsoft Azure to better serve customers"
+    excerpt: "RateLinx announced today the completion of the migration to the Microsoft Azure cloud computing platform. The migration will enable more capabilities within the RateLinx suite of cloud-based logistics solutions,"
+    publishedDateTime: 2020-05-22T00:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ratelinx-completes-migration-to-microsoft-azure-to-better-serve-customers-1029225453"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
+  - title: "RateLinx completes migration to Microsoft Azure to better serve customers"
+    excerpt: "MADISON, WI (May 21, 2020) – RateLinx announced today the completion of the migration to the Microsoft Azure cloud computing platform. The migration will enable more capabilities within the RateLinx suite of cloud-based logistics solutions, in addition ..."
+    publishedDateTime: 2020-05-21T23:34:00Z
+    webUrl: "https://www.dcvelocity.com/articles/46116-ratelinx-completes-migration-to-microsoft-azure-to-better-serve-customers"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 46
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/0bef1a3f-3524-4a47-91e5-78466728c9a3.png?height=635&t=1590129628&width=1200"
+        width: 600
+        height: 201
+  - title: "Netcracker Offers AI-Driven Digital BSS/OSS to Microsoft Azure"
+    excerpt: "Netcracker Technology announced today it is working with Microsoft to offer its Digital BSS/OSS and Orchestration applications on Microsoft Azure. Netcracker is collaborating with Microsoft to integrate Azure Machine Learning (ML) and AI services with Netcracker’s Advanced Analytics to add intelligent contextual decisioning and recommendations to enable more personalized customer"
+    publishedDateTime: 2020-05-14T09:16:00Z
+    webUrl: "https://www.totaltele.com/505911/Netcracker-Offers-AI-Driven-Digital-BSSOSS-to-Microsoft-Azure"
+    type: article
+    provider:
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 17
 
 secured: "6aPXSgdkVD7e1J1SdNDQWFrGSL8YxIKCLXupe9V+spcMBgIOqXUvV/JMCNDOFU6a5XmwZ3c02m8l/bP22l9AIz/o/RnVz4SDNEsvsuNyns7N+fyFbk72rGLM+VSA8RoFDXMIrHVlCR9aBfNol17V6lQ6pD8eZYieeAdVFJrk8rttIlMTWRPNYyF/UVc5sznLpuB3zn6rqUPeux4xJabT3RYBM29UnM5XMHAQwQYLZQKcHyuHLihT9rksNsRfCHN3HFsMiBBcUUce0UgHnA+W4pWxODQ0dGiAoNMV47iqAPSlSRC9lnCOqXK6OGKvSOgx;xP5luMjuId4iZVDweWLiIQ=="
 ---

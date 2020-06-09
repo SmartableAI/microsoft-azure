@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-27T12:00:29Z
 webUrl: "https://azure.microsoft.com/blog/dcsv2series-vm-now-generally-available-from-azure-confidential-computing/"
 type: article
 quality: 78
-heat: 78
+heat: 118
 published: true
 
 provider:
@@ -20,6 +20,26 @@ provider:
 topics:
   - Azure
   - Compute
+
+related:
+  - title: "New DCsv2-series virtual machines are now available"
+    excerpt: ""
+    publishedDateTime: 2020-04-27T19:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-dcsv2series-virtual-machines-are-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 62
+  - title: "Maintenance control for platform updates now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-28T17:15:39Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/maintenance-control-for-platform-updates-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 62
 
 secured: "sVUUtcnjsO2B/mUGZkCFwV06QSPLRmvIadWHymXIZKZ3+xIpPtATESAyao9y3FeYZYoiEZIKGQsLwXyP2XrKwxN12du5baDD9blNxG56YDtorjF7Ir7rG9tckcU2jr8TmSaAMHOEJ1psAaGv0uJTZ4RN0VnscDQQIlbKMQojpKKQlaG9pD5hQJJhBxESf44PwNYEncgQbpKXaXMXk81tAWDH3Vr/gv5qsloAfPJryUmpyhHtBCc6eNMFjUtQ5/ug2i0UGCZ+u6R53UALJi+3C+iT2ECwNrQkU9SKG6uH9oVcw5mB82ZK4jieAYn6XpPYTvv4y2T7Y2oJbJSQUUXWaQ==;jPYzWssRW1BayR8/l8Rkdw=="
 ---

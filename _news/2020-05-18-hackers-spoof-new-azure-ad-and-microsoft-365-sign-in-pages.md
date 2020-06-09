@@ -8,7 +8,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/355686/hackers-spoof-n
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/355686/hackers-spoof-new-azure-ad-and-microsoft-365-sign-in-pages?amp"
 type: article
 quality: 117
-heat: 137
+heat: 157
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     title: "Hackers spoof new Azure AD and Microsoft 365 sign-in pages"
 
 related:
+  - title: "FedEx and Microsoft Form A New Partnership"
+    excerpt: "The partnership has already produced a solution aimed at helping companies improve their supply chain efficiency."
+    publishedDateTime: 2020-05-18T15:42:00Z
+    webUrl: "https://www.fool.com/investing/2020/05/18/fedex-and-microsoft-create-an-exciting-new-partner.aspx"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/05/18/fedex-and-microsoft-create-an-exciting-new-partner.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/18/fedex-and-microsoft-create-an-exciting-new-partner.aspx"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 102
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F574884%2Fgettyimages-1162624331.jpg&w=1200&op=resize"
+        width: 1200
+        height: 800
   - title: "New Microsoft Azure AD Sign-In Page Spoofed in Numerous Phishing Campaigns"
     excerpt: "Microsoft discovered numerous phishing campaigns in which malicious actors attempted to spoof its new Azure AD sign-in page."
     publishedDateTime: 2020-05-20T13:36:00Z

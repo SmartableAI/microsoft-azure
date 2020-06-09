@@ -21,10 +21,10 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Private Link is now available for multiple new Azure services"
+  - title: "App Service is now an events publisher on Azure Event Grid (in preview)"
     excerpt: ""
-    publishedDateTime: 2020-05-14T22:00:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-is-now-available-for-multiple-new-azure-services/"
+    publishedDateTime: 2020-05-13T16:00:59Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/app-service-is-now-an-events-publisher-on-azure-event-grid-in-preview/"
     type: article
     provider:
       name: Microsoft

@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-20T14:25:00Z
 webUrl: "https://www.businessinsider.com/nba-microsoft-team-up-for-ai-driven-personalized-streaming-platform-2020-4"
 type: article
 quality: 69
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,38 @@ images:
     width: 1200
     height: 600
     title: "The NBA and Microsoft plan to release a new AI-driven DTC streaming platform"
+
+related:
+  - title: "NBA and Microsoft plan personalized, AI-powered game streaming"
+    excerpt: "To start, they’ll broadcast live and on-demand games via Microsoft Azure and add personalized real-time stats overlays. They’ll also explore new ways to share clips from historical video archives, reward viewers for participation and catch fans up on their favorite teams without having them search through all scores, headlines and highlights."
+    publishedDateTime: 2020-04-16T19:38:00Z
+    webUrl: "https://www.engadget.com/nba-microsoft-ai-game-streaming-193552938.html"
+    ampWebUrl: "https://www.engadget.com/amp/nba-microsoft-ai-game-streaming-193552938.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/nba-microsoft-ai-game-streaming-193552938.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 102
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2Fe672f1f0-8016-11ea-bf7d-a13ca0c61986&client=amp-blogside-v2&signature=d0bc9b0731e9556c551afdfd5caddca0b0c3a3c3"
+        width: 600
+        height: 350
+  - title: "NBA, Microsoft use A.I. to create a personalized, fan-focused streaming service"
+    excerpt: "According to a press release, the multiyear collaboration will create a “new, innovative, direct-to-consumer platform” on Microsoft Azure, the company’s framework of cloud services. The streaming service will use machine learning and artificial intelligence to provide personalized game broadcasts and other content. For now, the NBA and ..."
+    publishedDateTime: 2020-04-16T22:38:00Z
+    webUrl: "https://www.digitaltrends.com/home-theater/nba-microsoft-new-streaming-service/"
+    ampWebUrl: "https://www.digitaltrends.com/home-theater/nba-microsoft-new-streaming-service/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home-theater/nba-microsoft-new-streaming-service/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 98
+    images:
+      - url: "https://icdn2.digitaltrends.com/image/digitaltrends/oklahoma-city-thunder-v-golden-state-warriors-game-seven-1200x630-c-ar1.91.jpg"
+        width: 1200
+        height: 628
 
 secured: "XRMyanMW/75JrCQxl9fNCB/oJJnewXcCtHJSsaBsiStyT4yZRP4lTOz4hyBdSTDORICdIMzPvte5XXf1WZhcmTq5Enlh4aTvVhYavCsSlD4lmRMEad2d0vJH/QYpdi81n6MWeTU7hI3M5YWLYtHtA4TxR0pvNvVMVVNu9MPc/ZzM4OY4u/Om6xflrvFdl3Y9aNW1U45rCQ/I0w/4UjHi4BqiISFodn5fVz/I5fM27Te78BquUFLGYdauEwqOhqzqDa10jpzh1dAcqnSs3SU8IvejAzowkz2CbQ0IDfcixXzEILo4k60mOzCSxoJzMTyH;ewv6Hx6NtsHFXJYeASwy1A=="
 ---

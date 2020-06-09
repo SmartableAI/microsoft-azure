@@ -40,21 +40,81 @@ related:
       - url: "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-18-image-34.jpg"
         width: 2560
         height: 1440
-  - title: "FedEx and Microsoft Form A New Partnership"
-    excerpt: "The partnership has already produced a solution aimed at helping companies improve their supply chain efficiency."
-    publishedDateTime: 2020-05-18T15:42:00Z
-    webUrl: "https://www.fool.com/investing/2020/05/18/fedex-and-microsoft-create-an-exciting-new-partner.aspx"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/05/18/fedex-and-microsoft-create-an-exciting-new-partner.aspx"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/18/fedex-and-microsoft-create-an-exciting-new-partner.aspx"
+  - title: "FedEx, Microsoft are teaming up to deliver packages, widening gap with Amazon"
+    excerpt: "The two companies also announced their first service, called FedEx Surround, which FedEx said will \"enhance visibility\" into supply chains."
+    publishedDateTime: 2020-05-18T14:55:00Z
+    webUrl: "https://www.cnbc.com/2020/05/18/fedex-microsoft-are-teaming-up-to-deliver-packages-widening-gap-with-amazon.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/05/18/fedex-microsoft-are-teaming-up-to-deliver-packages-widening-gap-with-amazon.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/18/fedex-microsoft-are-teaming-up-to-deliver-packages-widening-gap-with-amazon.html"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 102
+      name: CNBC
+      domain: cnbc.com
+    quality: 99
     images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F574884%2Fgettyimages-1162624331.jpg&w=1200&op=resize"
+      - url: "https://image.cnbcfm.com/api/v1/image/106512449-1588182933107fedex.jpg?v=1588183002"
+        width: 3000
+        height: 2000
+  - title: "FedEx partners with Microsoft to improve supply chains and shipping logistics"
+    excerpt: "The companies said their first offering, called FedEx Surround, will provide real-time analytics into commerce supply chains and shipment tracking."
+    publishedDateTime: 2020-05-18T17:00:00Z
+    webUrl: "https://www.zdnet.com/article/fedex-partners-with-microsoft-to-improve-supply-chains-and-shipping-logistics/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/fedex-partners-with-microsoft-to-improve-supply-chains-and-shipping-logistics/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fedex-partners-with-microsoft-to-improve-supply-chains-and-shipping-logistics/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 99
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/18/2151fc49-7ad9-4a65-9002-0414a1081af1/thumbnail/1200x675/8639db4c7592580202910c59cd9b807c/screen-shot-2020-05-18-at-3-59-56-pm.png"
         width: 1200
-        height: 800
+        height: 675
+  - title: "Microsoft and FedEx team up against Amazon with new technology and logistics partnership"
+    excerpt: "Microsoft and FedEx will work together to develop new products and services under a multiyear technology and logistics partnership announced Monday morning. The deal aligns the two corporate"
+    publishedDateTime: 2020-05-18T16:01:00Z
+    webUrl: "https://www.geekwire.com/2020/microsoft-fedex-team-amazon-new-technology-logistics-partnership/"
+    ampWebUrl: "https://www.geekwire.com/2020/microsoft-fedex-team-amazon-new-technology-logistics-partnership/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-fedex-team-amazon-new-technology-logistics-partnership/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 93
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2018/06/DSC05118-630x432.jpg"
+        width: 630
+        height: 432
+  - title: "Sony’s Microsoft Azure partnership is “very strong” despite congestion concerns"
+    excerpt: "Sony's recent Microsoft Azure partnership has been described as a \"very strong\" collaboration despite some concerns regarding the cloud service's nighttime use."
+    publishedDateTime: 2020-05-19T12:27:00Z
+    webUrl: "https://mspoweruser.com/sonys-microsoft-azure-partnershipstrong-congestion/"
+    ampWebUrl: "https://mspoweruser.com/sonys-microsoft-azure-partnershipstrong-congestion/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/sonys-microsoft-azure-partnershipstrong-congestion/amp/"
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 73
+    images:
+      - url: "https://mspoweruser.com/wp-content/uploads/2019/05/sony2-microsoft-team-up-nadella-yoshida.jpg"
+        width: 1280
+        height: 853
+  - title: "Microsoft deepens partnership with Redis to improve capabilities of Azure Cache for Redis"
+    excerpt: "Microsoft and Redis Labs today announced a major partnership to bring native integration between Redis Labs technology and Azure cloud. As part of this partnership, Redis Enterprise is now available as two new tiers of Azure Cache for Redis."
+    publishedDateTime: 2020-05-12T15:29:00Z
+    webUrl: "https://mspoweruser.com/microsoft-azure-cache-for-redis/"
+    ampWebUrl: "https://mspoweruser.com/microsoft-azure-cache-for-redis/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-azure-cache-for-redis/amp/"
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 68
+    images:
+      - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Redis-Enterprise-for-Azure-Cache.jpg"
+        width: 1663
+        height: 945
   - title: "FedEx and Microsoft join up to enter the package delivery game"
     excerpt: "It’s a rather bold statement, but FedEx and Microsoft announced Monday afternoon that the two companies are partnering up to “transform commerce” in a new"
     publishedDateTime: 2020-05-18T20:34:00Z
@@ -70,6 +130,21 @@ related:
       - url: "https://media.consumeraffairs.com/files/cache/news/FedEx_building_JHVEPhoto_Getty_Images_large.jpg"
         width: 700
         height: 467
+  - title: "FedEx Is Using Microsoft’s A.I. Tools to Speed Up Package Delivery"
+    excerpt: "The launch of FedEx Surround, a package-tracking and logistics-intelligence service, is a real-world demonstration of the power of big data, among other things."
+    publishedDateTime: 2020-05-18T19:50:00Z
+    webUrl: "https://www.barrons.com/articles/fedex-surround-microsoft-package-delivery-tracking-51589831147"
+    ampWebUrl: "https://www.barrons.com/amp/articles/fedex-surround-microsoft-package-delivery-tracking-51589831147"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/fedex-surround-microsoft-package-delivery-tracking-51589831147"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 62
+    images:
+      - url: "https://images.barrons.com/im-188267/social"
+        width: 1280
+        height: 640
   - title: "FedEx, Microsoft announce multi-year partnership"
     excerpt: "Talk about team-ups. George Lucas and Steven Spielberg made \"Raiders of the Lost Ark.\" Lebron James and Anthony Davis rejuvenated the Lakers. Now, FedEx and Microsoft join forces as they attempt to transform commerce."
     publishedDateTime: 2020-05-18T16:47:00Z
@@ -130,6 +205,47 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2017/09/microsoft-logo-2017-ignite2.jpg?itok=c3ocGDNm"
         width: 800
         height: 600
+  - title: "Microsoft and Sony announce partnership to make AI-powered smart cameras more accessible"
+    excerpt: "Sony yesterday announced two new models of intelligent vision sensors (IMX500 and IMX501), the first image sensors in the world with AI processing functionality. Today, Microsoft and Sony announced a new partnership to make these AI-powered smart cameras more accessible to businesses around the world."
+    publishedDateTime: 2020-05-18T17:25:00Z
+    webUrl: "https://mspoweruser.com/microsoft-and-sony-ai-powered-smart-cameras/"
+    ampWebUrl: "https://mspoweruser.com/microsoft-and-sony-ai-powered-smart-cameras/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-and-sony-ai-powered-smart-cameras/amp/"
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 53
+    images:
+      - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Sony-intelligent-vision-sensor-IMX500.jpg"
+        width: 1774
+        height: 1235
+  - title: "SD Times news digest: ESLint 7.0, DataStax Astra now available, and Redis Labs and Microsoft announce partnership"
+    excerpt: "DataStax Astra now available DataStax Astra brings Apache Cassandra performance, reliability, and scale to the cloud with a new database-as-a-service (DBaaS). The DBaaS reduces deployment time from weeks to minutes,"
+    publishedDateTime: 2020-05-12T15:29:00Z
+    webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-eslint-7-0-datastax-astra-now-available-and-redis-labs-and-microsoft-announce-partnership/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 51
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2020/05/1_jFyfsakE2WBv5sFjBQUsuw.png"
+        width: 1200
+        height: 400
+  - title: "Microsoft and SchedMD Partner to Bring Slurm into Azure CycleCloud"
+    excerpt: "Microsoft Azure announced a partnership with the company that developed the open source Slurm workload manager, SchedMD. In a blog posted"
+    publishedDateTime: 2020-05-21T19:12:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/microsoft-and-schedmd-partner-to-bring-slurm-into-azure-cyclecloud/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 47
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/Nvidia_graphic_700x-405x228.jpg"
+        width: 405
+        height: 228
   - title: "FedEx, Microsoft Enter Multiyear Collaboration; To Roll Out FedEx Surround"
     excerpt: "(RTTNews) - FedEx Corp. (FDX) and Microsoft Corp. (MSFT) announced a new multiyear collaboration to transform commerce using Microsoft's intelligent cloud. By combining the FedEx network and the Microsoft cloud,"
     publishedDateTime: 2020-05-18T13:37:00Z

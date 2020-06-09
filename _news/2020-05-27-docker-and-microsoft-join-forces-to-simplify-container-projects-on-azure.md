@@ -38,19 +38,56 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/05/IMG_0961-2.jpg?w=1024"
         width: 1024
         height: 768
-  - title: "Microsoft, Workday Announce Strategic Partnership to Accelerate Planning for Today's World"
-    excerpt: "Microsoft (NASDAQ: MSFT) and Workday Inc. (NASDAQ: WDAY) today announced a strategic partnership prioritizing enterprise planning in the cloud and expanding the business solutions"
-    publishedDateTime: 2020-05-27T20:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/microsoft-workday-announce-strategic-partnership-to-accelerate-planning-for-todays-world-2020-05-27"
+  - title: "Microsoft: Power Platform is for real developers, too"
+    excerpt: "Microsoft is bringing improvements to the ‘low code’ Power Platform that professional developers could use, such as T-SQL support and GitHub integration"
+    publishedDateTime: 2020-05-25T10:04:00Z
+    webUrl: "https://www.itworld.com/article/3545369/microsoft-power-platform-is-for-real-developers-too.html"
+    ampWebUrl: "https://www.itworld.com/article/3545369/microsoft-power-platform-is-for-real-developers-too.amp.html"
+    cdnAmpWebUrl: "https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3545369/microsoft-power-platform-is-for-real-developers-too.amp.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: ITworld
+      domain: itworld.com
     quality: 62
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://images.idgesg.net/images/article/2019/02/power-of-one_rebel_fight_strong_rise-up_arm_fist_power-100788748-large.jpg"
         width: 1200
-        height: 630
+        height: 800
+  - title: "Docker Extends Collaboration with Microsoft Azure to Boost Developer Productivity"
+    excerpt: "Docker today announced that it has extended its strategic collaboration with Microsoft to simplify code to cloud application development for developers and development teams by more closely integrating with Azure Container Instances (ACI)."
+    publishedDateTime: 2020-05-27T16:00:00Z
+    webUrl: "https://apnews.com/2fe98091652be001e8637122249be3f6"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 42
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+  - title: "DevOps Enabler & Co. achieves a Microsoft Gold DevOps and Cloud Platform Competency"
+    excerpt: "DevOps Enabler & Co., the company behind an exclusive startup bundle for organizations that want to scale their operations, today announced it has attained a gold Microsoft DevOps and Cloud Platform competency,"
+    publishedDateTime: 2020-06-01T07:21:00Z
+    webUrl: "https://www.sify.com/finance/devops-enabler--co-achieves-a-microsoft-gold-devops-and-cloud-platform-competency-news-topnews-ugbqn5hgeidac.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 26
+    images:
+      - url: "https://www.sify.com/uploads/DevOpsEnabler_ugbqn5hgfaeea.jpg"
+        width: 600
+        height: 450
+  - title: "DevOps Enabler & Co. Achieves a Microsoft Gold DevOps and Cloud Platform Competency"
+    excerpt: "Bengaluru, Karnataka, India: DevOps Enabler & Co., the company behind an exclusive startup bundle for organizations that want to scale their operations, today announced it has attained a gold Microsoft DevOps And Cloud Platform competency, demonstrating a “best-in-class” ability and commitment to meet Microsoft Corp. customers’ evolving ..."
+    publishedDateTime: 2020-06-02T08:18:00Z
+    webUrl: "https://www.businesswireindia.com/devops-enabler-and-co-achieves-a-microsoft-gold-devops-and-cloud-platform-competency-68193.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 0
 
 secured: "xFCf6gqxGsxQM7eBW4jHVW4g7yPc0UTETxLWgMcBwl9gi/sVCC3rNGTRjIN4MvSpUFhCohr477Mr69twmvcKKV/2PMMMNEONmqZOk3pETDBtIvKS48AVpGQxi9ZnlaGbHZ9zEYMFxE73UdvgqM2UQD987oQqA27+zbvitADO6MJsZiREKnLcl+H/sYgrnLo0+3WQpDSs0YZ/iTv6mYHP9gtg8vSvewWINhiPRxYUeuGLhnv+xOXGa/5aAiF9O1prayfozFao7diRbidnpovhv7e8aUXUiZvsheBxOhzUYJAVa3unPqM3wsf762S/ESHa8W6XMuyYBRiIhtoZqBaR38DKjD3MWFcFLaXCadF+X8uI7R0RszmhwD0JEoEgCn+vTp4DPpeMq4fuEQpr/EByHymlrQN2J+aTh8hLy5hgx8Infpf8NMtDPeow7hOF7lBX0aFdunWe9w6Rvlrn6VUJfjmb4EUyyJVJhADxwNoIUWI=;xjLMWLui3zCBoLfS+IVp0Q=="
 ---

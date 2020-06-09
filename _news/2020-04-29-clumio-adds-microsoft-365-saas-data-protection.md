@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-29T15:45:00Z
 webUrl: "https://www.crn.com/clumio-adds-microsoft-365-saas-data-protection"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -23,19 +23,19 @@ images:
     title: "Clumio Adds Microsoft 365 SaaS Data Protection"
 
 related:
-  - title: "Pitching unified cloud backup, Clumio extends its platform to Microsoft 365"
-    excerpt: "Clumio Inc., fresh off one of the biggest Series C funding rounds for an early-stage enterprise software startup, today added Microsoft 365 support to its backup platform. Santa Clara, California-based Clumio exited stealth last August with a cloud-based backup platform that allows companies to create contingency copies of their data."
-    publishedDateTime: 2020-04-29T18:48:00Z
-    webUrl: "https://siliconangle.com/2020/04/29/clumio-extends-platform-microsoft/"
+  - title: "Top 5 Ways to Simplify Data Protection with Microsoft Azure"
+    excerpt: "However, with this mixing and matching of environments, businesses must ensure that their applications and data are always available, even in the event of a disaster. This white paper examines five ways that businesses can simplify their cloud data protection with Microsoft Azure."
+    publishedDateTime: 2020-04-23T16:19:00Z
+    webUrl: "https://www.computerworld.com/resources/201856/top-5-ways-to-simplify-data-protection-with-microsoft-azure"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 30
+      name: Computerworld
+      domain: computerworld.com
+    quality: 47
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/Poojan-Kumar-Clumio.png"
-        width: 1094
-        height: 616
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+        width: 300
+        height: 300
 
 secured: "YVWJAeqE6eKLAO4KrLF55mUZUIy4EthFwmXLFP9gJ5uy0/VGBODMrQEWkQY6hAOlu18mQMO8i5+evdOZo5hMRQazoh/DkiOxqY0fyPhMdpetkUR0J1q+xM9AEMoFhSU54exjhXT1qz3UtqjBs3w8l6lPTTXd7mNY3AnHlvkGAfTIsl7GmkcBbJ5EaG38UVexnvI2XNjXASA4jgJTlbY+a6mmebsHNUVkRaCUdFVTjSweseSzqfovTNd1FcftH78kcnZSJUYVxWo0YmYb/PpmYwg8A8eAjsoVbAXL0/LnYc3zTXzEnokKzZbNc/Qj1Msm;3IdHBEH91C1U161ymNkk3g=="
 ---

@@ -42,6 +42,52 @@ related:
       - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/03/30/1bee94a9-8bac-46fe-8ffe-5880854d1040/thumbnail/1200x675/0515dcdb3553b8b42f6fd98c04417369/20200330-daphne-karen-crashing.png"
         width: 1200
         height: 675
+  - title: "Microsoft Earnings Jump, Aided by Cloud-Computing Demand During Pandemic"
+    excerpt: "Microsoft reported strong growth in quarterly sales and profit and said the shift of more activities online amid the coronavirus pandemic is helping propel growth in areas from cloud-computing to videogames."
+    publishedDateTime: 2020-04-30T04:31:00Z
+    webUrl: "https://www.wsj.com/articles/microsoft-earnings-jump-aided-by-cloud-computing-demand-during-pandemic-11588192187"
+    ampWebUrl: "https://www.wsj.com/amp/articles/microsoft-earnings-jump-aided-by-cloud-computing-demand-during-pandemic-11588192187"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/microsoft-earnings-jump-aided-by-cloud-computing-demand-during-pandemic-11588192187"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 101
+    images:
+      - url: "https://images.wsj.net/im-181683/social"
+        width: 1280
+        height: 640
+  - title: "How Microsoft is handling cloud capacity constraints"
+    excerpt: "Driven by a surge in remote work from the coronavirus pandemic, Microsoft's service demand skyrocketed and availability waffled."
+    publishedDateTime: 2020-04-27T14:35:00Z
+    webUrl: "https://www.ciodive.com/news/microsoft-cloud-capacity-coronavirus/576792/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 32
+    images:
+      - url: "https://www.ciodive.com/user_media/cache/b7/4f/b74f97d2a980cbeea55d91705cc30d62.jpg"
+        width: 770
+        height: 364
+  - title: "Microsoft's cloud business helps offset pandemic woes"
+    excerpt: "Ongoing demand for Microsoft's cloud computing services help softened the blow of the coronavirus pandemic on the software giant's other products during the first three months of the year. The company on Wednesday reported fiscal third-quarter profit of $10."
+    publishedDateTime: 2020-04-29T21:23:00Z
+    webUrl: "https://www.chron.com/business/article/Microsoft-s-cloud-business-helps-offset-pandemic-15235193.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 2
+  - title: "Microsoft's cloud business helps offset pandemic woes"
+    excerpt: "Ongoing demand for Microsoft's cloud computing services help softened the blow of the coronavirus pandemic on the software giant's other products during the first three months of the year. The company on Wednesday reported fiscal third-quarter profit of $10."
+    publishedDateTime: 2020-04-30T05:30:00Z
+    webUrl: "https://www.sfgate.com/business/article/Microsoft-s-cloud-business-helps-offset-pandemic-15235193.php"
+    type: article
+    provider:
+      name: SFGate
+      domain: sfgate.com
+    quality: 2
 
 secured: "c/b8bEw7zWKyfnVvBnDIGkbp9/EAUvJsImIgo+6EwDYvujHQtdJj0PhDY/MM5KBOGBxEr16HK3TPn+gtBvvrFY1qG+ZcVvmeaeFdLX9LR/7BESBh17Ftu7P/TGHf+rk6NOgKPNbt2XpmaWpuBY2kKj920FxJ5xn1I/WaOYcCjMohJEc0XtidYLEGa63alHI1fbdou992JBUvikFt1wsqAzXwnkjRmWOrblgYnyNg0cNCyrI0JaK/SzDwUz8A7g0bfr5smawuCtDsNmVJrb8Xet9sKnfneD4Iw74Ht4cjadzZXPseZhvylYfcB88Yo2jR;VCtM3TNXYWUTjkPzvDU0Xg=="
 ---

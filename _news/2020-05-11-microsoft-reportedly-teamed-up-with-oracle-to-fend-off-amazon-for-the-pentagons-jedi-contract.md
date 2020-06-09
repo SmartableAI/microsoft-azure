@@ -8,7 +8,7 @@ ampWebUrl: "https://www.geekwire.com/2020/microsoft-reportedly-teamed-oracle-fen
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-reportedly-teamed-oracle-fend-off-amazon-pentagons-jedi-contract/amp/"
 type: article
 quality: 90
-heat: 110
+heat: 190
 published: true
 
 provider:
@@ -29,19 +29,79 @@ images:
     title: "Microsoft reportedly teamed up with Oracle to fend off Amazon for the Pentagon’s JEDI contract"
 
 related:
-  - title: "AWS and Microsoft war of words ramp up in JEDI cloud contract row"
-    excerpt: "Amazon Web Services (AWS) has said it ‘won’t back down’ in its appeal process for the $10 billion JEDI government cloud computing contract – as the war of words between AWS and Microsoft escalates. The contract for the Department of Defense has long courted rumour and conjecture around alleged potential intervention by President Trump,"
-    publishedDateTime: 2020-05-11T14:43:00Z
-    webUrl: "https://cloudcomputing-news.net/news/2020/may/11/aws-and-microsoft-war-of-words-ramp-up-in-jedi-cloud-contract-row/"
+  - title: "Amazon says big government JEDI award is 'fatally flawed' in latest rebuttal to Microsoft criticisms"
+    excerpt: "The JEDI, or Joint Enterprise Defense Infrastructure, deal worth up to $10 billion has become one of the most tangled contracts for the Department of Defense."
+    publishedDateTime: 2020-05-08T14:55:00Z
+    webUrl: "https://www.cnbc.com/2020/05/08/amazon-says-jedi-award-fatally-flawed-in-rebuttal-to-microsoft.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/05/08/amazon-says-jedi-award-fatally-flawed-in-rebuttal-to-microsoft.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/08/amazon-says-jedi-award-fatally-flawed-in-rebuttal-to-microsoft.html"
     type: article
     provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 32
+      name: CNBC
+      domain: cnbc.com
+    quality: 87
     images:
-      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2020/05/476027925_189bab2d5d_k.jpg"
-        width: 2048
-        height: 1551
+      - url: "https://image.cnbcfm.com/api/v1/image/106474164-1585941999885gettyimages-939960022.jpeg?v=1585942142"
+        width: 5253
+        height: 3502
+  - title: "Microsoft slams Amazon’s latest protest over Pentagon cloud contract as ‘a way to avoid the consequences of its own bad business decisions’"
+    excerpt: "Amazon is once again challenging the Department of Defense’s decision to award a $10 billion cloud contract to Microsoft. Amazon filed a protest of the award directly with the DoD after a"
+    publishedDateTime: 2020-05-07T23:47:00Z
+    webUrl: "https://www.geekwire.com/2020/microsoft-slams-amazons-latest-protest-pentagon-cloud-contract-way-avoid-consequences-bad-business-decisions/"
+    ampWebUrl: "https://www.geekwire.com/2020/microsoft-slams-amazons-latest-protest-pentagon-cloud-contract-way-avoid-consequences-bad-business-decisions/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-slams-amazons-latest-protest-pentagon-cloud-contract-way-avoid-consequences-bad-business-decisions/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 68
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2019/11/microsoft-630x473.jpg"
+        width: 630
+        height: 473
+  - title: "FedEx Teams Up With Microsoft to Fight Amazon. That’s Good for FedEx Stock."
+    excerpt: "Microsoft and FedEx announced an agreement to “transform e-commerce.” FedEx hopes to get a leg up in the delivery battle with Amazon."
+    publishedDateTime: 2020-05-18T14:30:00Z
+    webUrl: "https://www.barrons.com/articles/fedex-teams-up-with-microsoft-to-fight-amazon-thats-good-for-fedex-stock-51589815820"
+    ampWebUrl: "https://www.barrons.com/amp/articles/fedex-teams-up-with-microsoft-to-fight-amazon-thats-good-for-fedex-stock-51589815820"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/fedex-teams-up-with-microsoft-to-fight-amazon-thats-good-for-fedex-stock-51589815820"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 60
+    images:
+      - url: "https://images.barrons.com/im-188060/social"
+        width: 1280
+        height: 640
+  - title: "Microsoft claims AWS has used new JEDI mind trick with secret contract objection filing"
+    excerpt: "Amazon.com has filed a second, secret, appeal at the decision to award Microsoft the $10bn Pentagon Joint Enterprise Defense Infrastructure (JEDI) contract. So says Microsoft corp"
+    publishedDateTime: 2020-05-08T09:07:00Z
+    webUrl: "https://www.theregister.co.uk/2020/05/08/new_jedi_contract_objection/"
+    ampWebUrl: "https://www.theregister.co.uk/AMP/2020/05/08/new_jedi_contract_objection/"
+    cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/08/new_jedi_contract_objection/"
+    type: article
+    provider:
+      name: The Register
+      domain: theregister.co.uk
+    quality: 54
+    images:
+      - url: "https://regmedia.co.uk/2017/12/19/lightsaber.jpg"
+        width: 648
+        height: 432
+  - title: "Amazon challenges the Pentagon’s revised JEDI solicitation directly to the department"
+    excerpt: "Amazon Web Services filed a bid protest directly to the Department of Defense challenging “ambiguous aspects” of the Pentagon’s revised solicitation for its embattled enterprise cloud contract. AWS’ challenge is in response to a revised solicitation from DoD regarding a specific technical requirement of the Joint Enterprise Defense Infrastructure cloud contract that AWS had challenged."
+    publishedDateTime: 2020-05-07T22:19:00Z
+    webUrl: "https://www.federaltimes.com/it-networks/cloud/2020/05/07/amazon-challenges-the-pentagons-revised-jedi-solicitation-directly-to-the-department/"
+    type: article
+    provider:
+      name: Federal Times
+      domain: federaltimes.com
+    quality: 25
+    images:
+      - url: "https://www.armytimes.com/resizer/zPIx2t3S-cW9L6O4V1nUbDT6wsw=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/SPQTUFFMHRFI7FZBGH36NHJ5MA.jpg"
+        width: 1200
+        height: 630
 
 secured: "HQQX260fMH5yA3qKDs15hdhRc5LXuzsw/+KtnI1wIaGgsh0CETqzBIRz+V5P3IV/s+wfHSTOtS7+mOydDqC79zud0zc3DUIlwYH5cYCglVKnrUgrl1ptZxBnYR5CNvBPsAPX4ykQDvYAPMNlEeShC9nutSL4uUG9wZ8blKUdvYpOPkBg3beOhJsoBzjFFjNxY0h521iuoVLvNTeHHu53mo9rLVXiIZb5fC+WhuEekpmPE3+KMiPIrYyBOlyiJetfie9ca+mTendaP3q1m1/a3xNo8IgFKUl4cQc6mRcGV8BF+bXJ+I8f91/pZBXLem/3vRFMgKosmj46JJUuq+EId2h53DejtvyDgoj7QIrDCc2lTXk6nyxRdA9zZE+VJJPyzbxX0w2lamfPL2eYJkUXXimOka9y/0B662nnHXrNHftEGXjJhk6cMPCkWh+sop0NQfTbZj3Z7LaNm+jxbdZqXCz44ENMdIuMNLUaj9bNM3Y=;RknLk0wJA+aHgX8ddlsD0A=="
 ---

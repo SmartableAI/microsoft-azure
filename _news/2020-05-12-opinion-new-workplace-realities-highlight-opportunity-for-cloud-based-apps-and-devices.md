@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/85197-opinion-new-workplace-realit
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85197-opinion-new-workplace-realities-highlight-opportunity-cloud-based.html"
 type: article
 quality: 94
-heat: 114
+heat: 134
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     title: "Opinion: New workplace realities highlight opportunity for cloud-based apps and devices"
 
 related:
+  - title: "Global Cloud Migration Services Market Research Growth Opportunities by Types, Regions, Applications, Trend Forecast to 2023"
+    excerpt: "Global Cloud Migration Services Market Industry research report offers a detailed overview of the factors, the"
+    publishedDateTime: 2020-05-18T10:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-cloud-migration-services-market-research-growth-opportunities-by-types-regions-applications-trend-forecast-to-2023-2020-05-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "New Workplace Realities Highlight Opportunity For Cloud-Based Apps And Devices"
     excerpt: "One of the numerous interesting outcomes of our new work realities is that many tech-related ideas introduced over the past few years are getting a fresh look."
     publishedDateTime: 2020-05-14T12:46:00Z

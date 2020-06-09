@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/05/24/a-closer-look-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/05/24/a-closer-look-at-azure-arc--microsofts-hybrid-and-multi-cloud-platform/amp/"
 type: article
 quality: 116
-heat: 116
+heat: 156
 published: true
 
 provider:
@@ -27,6 +27,38 @@ images:
     width: 1000
     height: 529
     title: "A Closer Look At Azure Arc – Microsoft’s Hybrid And Multi-Cloud Platform"
+
+related:
+  - title: "Become a cloud pro: Microsoft Azure certification prep bundle is 95% off"
+    excerpt: "The cloud computing race in 2020 will have a definite multi-cloud spin. Here's a look at how the cloud leaders stack up, the hybrid market, and the SaaS players that run your company as well as their latest strategic moves."
+    publishedDateTime: 2020-05-27T12:00:00Z
+    webUrl: "https://www.zdnet.com/article/become-a-cloud-pro-microsoft-azure-certification-prep-bundle-is-95-off/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/become-a-cloud-pro-microsoft-azure-certification-prep-bundle-is-95-off/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/become-a-cloud-pro-microsoft-azure-certification-prep-bundle-is-95-off/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 116
+    images:
+      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/05/27/30b4c6f7-2493-46a3-a96e-036d37d7b5dc/2020-05-27-at-2-12-29-am.jpg"
+        width: 1432
+        height: 1070
+  - title: "Azure Arc, Microsoft’s service for managing cloud resources anywhere, is now in public preview"
+    excerpt: "At its Build developer conference, Microsoft today announced that Azure Arc, its service for managing cloud resources anywhere, including competing clouds like AWS and GCP and platforms like Red Hat’s Open Shift,"
+    publishedDateTime: 2020-05-19T15:07:00Z
+    webUrl: "https://techcrunch.com/2020/05/19/azure-arc-microsofts-service-for-managing-cloud-resources-anywhere-is-now-in-public-preview/"
+    ampWebUrl: "https://techcrunch.com/2020/05/19/azure-arc-microsofts-service-for-managing-cloud-resources-anywhere-is-now-in-public-preview/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/azure-arc-microsofts-service-for-managing-cloud-resources-anywhere-is-now-in-public-preview/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 105
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/05/IMG_20191104_091357.jpg?w=1024"
+        width: 1024
+        height: 686
 
 secured: "df075iP/QQ8hWMJnw2CApeLYwJULcfWAYy0Ahy4ESXAbAci9XrRuPf1kXBECg4TrkdYuwko92v9EozAg2vRApyXZVN/7SwhkgaiBvjjOo+NXBixGUxcVo/586YdrAbgaXzdP78Q45y8ZtKEyUmQyHH4rvuFblSC8ZGvRuXKbPTlhvQlEI0e4vpq8zPQzCE1wienEn6mcbRk2F+c6px7uJlRm9o9OBAjM81rhp+BpJhsJVw1Xh6RLml/bUNKReQqOo04bNFVrtR9TpNgk2o7EVyZEdJk9qfDXhh5+lt3bjhPfenxCcOECTFH4cifzfp3r;AGi1SdgLM3iYA17L9NibNA=="
 ---

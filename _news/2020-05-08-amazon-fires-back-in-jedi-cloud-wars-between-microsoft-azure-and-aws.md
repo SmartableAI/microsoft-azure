@@ -25,82 +25,62 @@ images:
     title: "Amazon Fires Back in JEDI Cloud Wars Between Microsoft Azure and AWS"
 
 related:
-  - title: "Amazon and Microsoft are trash talking each other over a DoD contract"
-    excerpt: "Amazon claims that Microsoft was only awarded the $10 billion JEDI contract by the DoD due to political pressure. Microsoft is fighting back, though."
-    publishedDateTime: 2020-05-08T15:48:00Z
-    webUrl: "https://www.engadget.com/amazon-microsoft-jedi-fight-154208730.html"
-    ampWebUrl: "https://www.engadget.com/amp/amazon-microsoft-jedi-fight-154208730.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/amazon-microsoft-jedi-fight-154208730.html"
+  - title: "Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players"
+    excerpt: "Whether it's Amazon Web Services, Microsoft Azure, and Google Cloud platform in infrastructure as a service, or IBM, Dell Technologies, Hewlett-Packard Enterprise, and VMware in multi-cloud hybrid ..."
+    publishedDateTime: 2020-05-11T19:59:00Z
+    webUrl: "https://www.zdnet.com/article/the-top-cloud-providers-of-2020-aws-microsoft-azure-google-cloud-hybrid-saas/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-top-cloud-providers-of-2020-aws-microsoft-azure-google-cloud-hybrid-saas/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-top-cloud-providers-of-2020-aws-microsoft-azure-google-cloud-hybrid-saas/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 102
+      name: ZDNet
+      domain: zdnet.com
+    quality: 108
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-10%2F073b94a0-f1c4-11e9-8f5b-2c0832cca481&client=amp-blogside-v2&signature=0440a7701a50126da12ef6ffbcc2f78eb97c80fd"
-        width: 600
-        height: 350
-  - title: "Amazon, Microsoft Trade Fresh Barbs in Ongoing JEDI Dispute"
-    excerpt: "Microsoft (NASDAQ:MSFT) and Amazon.com (NASDAQ:AMZN) traded a new round of shots in their ongoing fight over a $10 billion defense cloud computing contract award on Friday, with Microsoft urging Amazon to stand down but Amazon vowing to press on."
-    publishedDateTime: 2020-05-08T22:44:00Z
-    webUrl: "https://www.fool.com/investing/2020/05/08/amazon-microsoft-trade-fresh-barbs-in-ongoing-jedi.aspx"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/05/08/amazon-microsoft-trade-fresh-barbs-in-ongoing-jedi.aspx"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/08/amazon-microsoft-trade-fresh-barbs-in-ongoing-jedi.aspx"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 102
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg"
-        width: 580
-        height: 378
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F573031%2Fcloud-computing-tech-security-getty.jpg&w=1200&op=resize"
-        width: 1200
-        height: 675
-  - title: "Amazon and Microsoft are accusing each other of playing dirty to get JEDI contract"
-    excerpt: "Last month, the DoD cleared Microsoft's JEDI contract award, after it couldn't find any wrongdoing in the whole process. This was the first result of legal action where Amazon, the company that came closest to winning the bid,"
-    publishedDateTime: 2020-05-08T23:38:00Z
-    webUrl: "https://www.techspot.com/news/85160-amazon-microsoft-accusing-each-other-playing-dirty-get.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/85160-amazon-microsoft-accusing-each-other-playing-dirty-get.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85160-amazon-microsoft-accusing-each-other-playing-dirty-get.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 96
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-08-image-13.jpg"
+      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/01/21/9d349185-abe0-4f78-aed7-f1aa4a2010ee/istock-925557862.jpg"
         width: 1600
-        height: 1001
-  - title: "Microsoft and AWS exchange poisoned pen blog posts in latest Pentagon JEDI contract spat"
-    excerpt: "Microsoft and Amazon are at it again as the fight for the Defense Department JEDI contract continues. In a recent series of increasingly acerbic pronouncements, the two companies continue their ongoing spat over the $10 billion,"
-    publishedDateTime: 2020-05-08T13:20:00Z
-    webUrl: "https://techcrunch.com/2020/05/08/microsoft-and-aws-exchange-poisoned-pen-blog-posts-in-latest-pentagon-jedi-contract-spat/"
-    ampWebUrl: "https://techcrunch.com/2020/05/08/microsoft-and-aws-exchange-poisoned-pen-blog-posts-in-latest-pentagon-jedi-contract-spat/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/08/microsoft-and-aws-exchange-poisoned-pen-blog-posts-in-latest-pentagon-jedi-contract-spat/amp/"
+        height: 1068
+  - title: "Cloud lift: Amazon, Microsoft, Google, Apple and others find a common cushion in the crisis"
+    excerpt: "Amazon CEO Jeff Bezos is advising the company’s shareholders to “take a seat” to prepare for the tech giant’s ambitious spending on COVID-19 initiatives, but if not for Amazon Web Services, they"
+    publishedDateTime: 2020-05-04T15:29:00Z
+    webUrl: "https://www.geekwire.com/2020/cloud-lift-amazon-microsoft-google-apple-others-finding-common-cushion-crisis/"
+    ampWebUrl: "https://www.geekwire.com/2020/cloud-lift-amazon-microsoft-google-apple-others-finding-common-cushion-crisis/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/cloud-lift-amazon-microsoft-google-apple-others-finding-common-cushion-crisis/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 93
+      name: GeekWire
+      domain: geekwire.com
+    quality: 92
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1073698070.jpg?w=1024"
-        width: 1024
-        height: 682
-  - title: "Amazon and Microsoft row over JEDI contract"
-    excerpt: "It was awarded to Microsoft in October 2019, after more than a year of acrimonious argument, and the war of words has continued since then. Throughout 2019,, it had looked as though AWS would be clear winner,"
-    publishedDateTime: 2020-05-14T15:30:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/amazon-and-microsoft-row-over-jedi-contract/"
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2019/12/reInvent-2018_Wednesday_AndyJassyKeynote_140-630x442.jpg"
+        width: 630
+        height: 442
+  - title: "Q1 belongs to AWS and Microsoft as cloud provides ‘safe haven’ during Covid-19"
+    excerpt: "The economic impact of Covid-19 has so far failed to slow the cloud progress of AWS and Microsoft within the enterprise market."
+    publishedDateTime: 2020-05-04T11:02:00Z
+    webUrl: "https://www.arnnet.com.au/article/678964/q1-belongs-aws-microsoft-cloud-provides-safe-haven-during-covid-19/?fp=2&fpid=1"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 32
+      name: ARN
+      domain: arnnet.com.au
+    quality: 28
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/JEDI_Thats_No_Moon.2e16d0ba.fill-1200x630.png"
-        width: 1200
-        height: 630
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/aws_microsoft.jpg"
+        width: 800
+        height: 500
+  - title: "ASCEND TECHNOLOGIES LLC Becomes Microsoft Cloud Solutions Provider And Reseller"
+    excerpt: "ASCEND TECHNOLOGIES LLC, a leading Midwest managed services provider founded on a commitment to using innovation and technology to enable business growth, today added"
+    publishedDateTime: 2020-05-06T14:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ascend-technologies-llc-becomes-microsoft-cloud-solutions-provider-and-reseller/article_94620489-1740-5491-82a8-b3fac8482e4c.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 28
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
 
 secured: "qgOLq15jc6tMvepLSJd+RXT5M1Pxuedso6IGTtd5ZF8Fu0Bklb68qOfUg5h0C2XFLNsR8jSfNqUQcXpIw+5Hwv/nCNYpFEkcqsap2utOwpCh7SURSfeMRMfhxzK6FvnBOHLWE3zkHeHq53Wkn5ziIvF6hAMnvXK1+ePo8TZWPTY33cNvQMh1l6TTPwgI5LJUeMSvl2qy5J5IIkSSJYI5npHOg44WICBQ8MB9cvhC7eQmuYb8dt8YeakCdZqskt9u6AoSX6i8GMSdgDz8sKTt4fLEBEMwvkm4Q+KvnDNuKvDH65IDidJo9jgSpuXFDWUXtodTgBHyTlj+YGoFXoPTuTbpfaooAhTgkfsYTclvzWaX6BvntMWlBbYkTnlODaMQ0iGcVAlXdiOpiSb4KZfYSUOcwqJMFuyZVKkL3dxbmfPGqndN1PDAQnFn9bDUWsMpo/s/eZelZQsaloc5DX490dr2aYp53FkH6I9hwHVde9s=;SbghCEEkNmAsrLfDZKDEeA=="
 ---

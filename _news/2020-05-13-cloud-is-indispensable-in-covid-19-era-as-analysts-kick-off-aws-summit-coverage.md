@@ -23,6 +23,19 @@ images:
     title: "Cloud is indispensable in COVID-19 era, as analysts kick off AWS Summit coverage"
 
 related:
+  - title: "As AWS Summit Online wraps, analysts discuss public-cloud strategies for surviving COVID-19"
+    excerpt: "From the crash of 2008 to COVID-19 in 2020, cloud adoption has been boosted by economic disasters as companies look to flexibility to help them weather the downturn. Vogel’s keynote focused on Amazon’s cloud services as the foundation for companies to build on,"
+    publishedDateTime: 2020-05-14T01:18:00Z
+    webUrl: "https://siliconangle.com/2020/05/13/aws-summit-online-wraps-analysts-discuss-public-cloud-market-business-strategies-surviving-covid-19-awssummit/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 22
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/AWS-Summit-Online-Wrap.png"
+        width: 1200
+        height: 630
   - title: "Watch live: AWS Summit Online goes global as cloud proves vital for COVID-19 business survival"
     excerpt: "The AWS Summit in San Francisco has gone virtual as a result of the COVID-19 pandemic. To adjust to current stay-at-home and social-distancing recommendations, Amazon Web Services Inc. has evolved its annual event,"
     publishedDateTime: 2020-05-13T16:11:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ge-healthcare-and-microsoft
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ge-healthcare-and-microsoft-partner-to-help-hospitals-fight-covid-19/"
 type: article
 quality: 102
-heat: 102
+heat: 122
 published: true
 
 provider:
@@ -27,6 +27,23 @@ images:
     width: 1200
     height: 675
     title: "GE Healthcare and Microsoft partner to help hospitals fight COVID-19"
+
+related:
+  - title: "GE Healthcare and Microsoft are bringing a COVID-19 patient monitoring tool to health systems"
+    excerpt: "GE Healthcare is extending its longtime collaboration with Microsoft to launch a cloud-based COVID-19 patient monitoring software for health systems. GE Healthcare and Microsoft are waiving everything but the installation costs for the software until January 2021, the companies said. The software is designed to provide a central hub from which ..."
+    publishedDateTime: 2020-04-15T13:18:00Z
+    webUrl: "https://techcrunch.com/2020/04/15/ge-healthcare-and-microsoft-are-bringing-a-covid-19-patient-monitoring-tool-to-health-systems/"
+    ampWebUrl: "https://techcrunch.com/2020/04/15/ge-healthcare-and-microsoft-are-bringing-a-covid-19-patient-monitoring-tool-to-health-systems/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/15/ge-healthcare-and-microsoft-are-bringing-a-covid-19-patient-monitoring-tool-to-health-systems/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 91
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-74065395.jpeg?w=1024"
+        width: 1024
+        height: 682
 
 secured: "IwUDoSzFGk8vbJVVESwA6Arq1XKodDXpekNfo+7LDjGCuhwcUgyyL5K+AXgunsAiRgOI5hCDLrR7wn/OKFOLKEsO38+uZP0zfXT4v831nqqXnVCS749Cx3cNPKrp0Uoz8rlauTXRHKoOCqPEZYzNt5Cl7kM0+I/8Or7APEitt6hXGCM3lcfnGt5IwUx9l4wQW1lfXsymfQRNE7hY6F+kGCFFZEfSWwxqHcvLghtVtY1sugOqL6yJiJaDuu7FovhmRTzD+GRXuBL7QchfJ6gjTQjwnQD4zpP+MK4W/hdjkuq+TrFP9Wi3xOJRVfHRZTKD;f3OxGpTESHTdWOqkbyzI5A=="
 ---

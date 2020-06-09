@@ -21,10 +21,10 @@ topics:
   - Azure
 
 related:
-  - title: "Query Acceleration for Azure Data Lake Storage now in preview"
+  - title: "Azure Functions—Java 8 support on Linux is now in preview"
     excerpt: ""
-    publishedDateTime: 2020-04-29T16:00:06Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/query-acceleration-for-azure-data-lake-storage-now-in-preview-2/"
+    publishedDateTime: 2020-04-27T15:00:24Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-java-feature-support-azure-functions/"
     type: article
     provider:
       name: Microsoft

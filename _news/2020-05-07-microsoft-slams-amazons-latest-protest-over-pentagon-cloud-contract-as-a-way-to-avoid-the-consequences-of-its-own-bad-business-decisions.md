@@ -8,8 +8,8 @@ ampWebUrl: "https://www.geekwire.com/2020/microsoft-slams-amazons-latest-protest
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-slams-amazons-latest-protest-pentagon-cloud-contract-way-avoid-consequences-bad-business-decisions/amp/"
 type: article
 quality: 68
-heat: 148
-published: true
+heat: -1
+published: false
 
 provider:
   name: GeekWire
@@ -29,45 +29,66 @@ images:
     title: "Microsoft slams Amazon’s latest protest over Pentagon cloud contract as ‘a way to avoid the consequences of its own bad business decisions’"
 
 related:
-  - title: "Amazon launched another JEDI contract complaint to DOD, and Microsoft responds"
-    excerpt: "In a blog post, Frank X. Shaw, Microsoft Corporate Vice President, Communications, revealed that Amazon has launched another bid to prevent Microsoft from fulfilling the Pentagon’s JEDI contract, which would update the Department of Defences’s IT services to a modern cloud-based back-end."
-    publishedDateTime: 2020-05-07T22:24:00Z
-    webUrl: "https://mspoweruser.com/amazon-launched-another-jedi-contract-complaint-to-dod-and-microsoft-responds/"
-    ampWebUrl: "https://mspoweruser.com/amazon-launched-another-jedi-contract-complaint-to-dod-and-microsoft-responds/amp/"
-    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/amazon-launched-another-jedi-contract-complaint-to-dod-and-microsoft-responds/amp/"
+  - title: "Microsoft reportedly teamed up with Oracle to fend off Amazon for the Pentagon’s JEDI contract"
+    excerpt: "The Information revealed Monday how Microsoft had a “secret alley” — Oracle — to help land the coveted Joint Enterprise Defense Infrastructure contract, a $10 billion Pentagon project that"
+    publishedDateTime: 2020-05-11T21:55:00Z
+    webUrl: "https://www.geekwire.com/2020/microsoft-reportedly-teamed-oracle-fend-off-amazon-pentagons-jedi-contract/"
+    ampWebUrl: "https://www.geekwire.com/2020/microsoft-reportedly-teamed-oracle-fend-off-amazon-pentagons-jedi-contract/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-reportedly-teamed-oracle-fend-off-amazon-pentagons-jedi-contract/amp/"
     type: article
     provider:
-      name: MSPoweruser
-      domain: mspoweruser.com
-    quality: 58
+      name: GeekWire
+      domain: geekwire.com
+    quality: 90
     images:
-      - url: "https://mspoweruser.com/wp-content/uploads/2019/10/109411443_gettyimages-853699560.jpg"
-        width: 660
-        height: 371
-  - title: "Amazon Files New Protest Over Pentagon's $10B JEDI Deal"
-    excerpt: "Amazon has filed a protest with the U.S. Department of Defense over the contentious $10 billion JEDI cloud computing deal, saying Thursday that the DOD had refused to answer questions about ambiguities in the solicitation."
-    publishedDateTime: 2020-05-08T01:09:00Z
-    webUrl: "https://www.law360.com/articles/1271571/amazon-files-new-protest-over-pentagon-s-10b-jedi-deal"
-    ampWebUrl: "https://www.law360.com/amp/articles/1271571"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1271571"
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2016/04/20160404_Envision_07-1240x828.jpg"
+        width: 1240
+        height: 828
+  - title: "Amazon says big government JEDI award is 'fatally flawed' in latest rebuttal to Microsoft criticisms"
+    excerpt: "The JEDI, or Joint Enterprise Defense Infrastructure, deal worth up to $10 billion has become one of the most tangled contracts for the Department of Defense."
+    publishedDateTime: 2020-05-08T14:55:00Z
+    webUrl: "https://www.cnbc.com/2020/05/08/amazon-says-jedi-award-fatally-flawed-in-rebuttal-to-microsoft.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/05/08/amazon-says-jedi-award-fatally-flawed-in-rebuttal-to-microsoft.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/08/amazon-says-jedi-award-fatally-flawed-in-rebuttal-to-microsoft.html"
     type: article
     provider:
-      name: Law360
-      domain: law360.com
-    quality: 32
-  - title: "Amazon files another JEDI protest — this time against Pentagon’s corrective action"
-    excerpt: "Amazon has doubled down in its protest of the Joint Enterprise Defense Infrastructure (JEDI) cloud contract. The company filed a second, concurrent bid protest this week directly with the Department of Defense asking for more clarity around the corrective action it has proposed taking on the JEDI contract."
-    publishedDateTime: 2020-05-07T23:04:00Z
-    webUrl: "https://www.fedscoop.com/amazon-files-another-jedi-protest-time-pentagons-corrective-action/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 26
+      name: CNBC
+      domain: cnbc.com
+    quality: 87
     images:
-      - url: "https://www.fedscoop.com/wp-content/uploads/2020/01/AWS_-_Amazon_Web_Services_Office_in_Houston_Texas_46600198075.jpg"
-        width: 2100
-        height: 1401
+      - url: "https://image.cnbcfm.com/api/v1/image/106474164-1585941999885gettyimages-939960022.jpeg?v=1585942142"
+        width: 5253
+        height: 3502
+  - title: "FedEx Teams Up With Microsoft to Fight Amazon. That’s Good for FedEx Stock."
+    excerpt: "Microsoft and FedEx announced an agreement to “transform e-commerce.” FedEx hopes to get a leg up in the delivery battle with Amazon."
+    publishedDateTime: 2020-05-18T14:30:00Z
+    webUrl: "https://www.barrons.com/articles/fedex-teams-up-with-microsoft-to-fight-amazon-thats-good-for-fedex-stock-51589815820"
+    ampWebUrl: "https://www.barrons.com/amp/articles/fedex-teams-up-with-microsoft-to-fight-amazon-thats-good-for-fedex-stock-51589815820"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/fedex-teams-up-with-microsoft-to-fight-amazon-thats-good-for-fedex-stock-51589815820"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 60
+    images:
+      - url: "https://images.barrons.com/im-188060/social"
+        width: 1280
+        height: 640
+  - title: "Microsoft claims AWS has used new JEDI mind trick with secret contract objection filing"
+    excerpt: "Amazon.com has filed a second, secret, appeal at the decision to award Microsoft the $10bn Pentagon Joint Enterprise Defense Infrastructure (JEDI) contract. So says Microsoft corp"
+    publishedDateTime: 2020-05-08T09:07:00Z
+    webUrl: "https://www.theregister.co.uk/2020/05/08/new_jedi_contract_objection/"
+    ampWebUrl: "https://www.theregister.co.uk/AMP/2020/05/08/new_jedi_contract_objection/"
+    cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/08/new_jedi_contract_objection/"
+    type: article
+    provider:
+      name: The Register
+      domain: theregister.co.uk
+    quality: 54
+    images:
+      - url: "https://regmedia.co.uk/2017/12/19/lightsaber.jpg"
+        width: 648
+        height: 432
   - title: "Amazon challenges the Pentagon’s revised JEDI solicitation directly to the department"
     excerpt: "Amazon Web Services filed a bid protest directly to the Department of Defense challenging “ambiguous aspects” of the Pentagon’s revised solicitation for its embattled enterprise cloud contract. AWS’ challenge is in response to a revised solicitation from DoD regarding a specific technical requirement of the Joint Enterprise Defense Infrastructure cloud contract that AWS had challenged."
     publishedDateTime: 2020-05-07T22:19:00Z

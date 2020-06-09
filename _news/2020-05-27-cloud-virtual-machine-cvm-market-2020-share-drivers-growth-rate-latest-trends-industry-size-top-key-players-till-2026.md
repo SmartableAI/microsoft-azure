@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-27T04:42:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-virtual-machine-cvm-market-2020-share-drivers-growth-rate-latest-trends-industry-size-top-key-players-till-2026-2020-05-27"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -27,15 +27,41 @@ images:
     title: "Cloud Virtual Machine (CVM) Market 2020 Share, Drivers, Growth Rate, Latest trends, Industry Size, Top Key Players till 2026"
 
 related:
-  - title: "Hybrid Cloud Computing Market Size, Share Report 2020: Shipments, Price, Revenue and Gross profit till 2026 | With Impact of COVID-19"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Hybrid Cloud Computing Market”2020"
-    publishedDateTime: 2020-05-27T05:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/hybrid-cloud-computing-market-size-share-report-2020-shipments-price-revenue-and-gross-profit-till-2026-with-impact-of-covid-19-2020-05-27"
+  - title: "The Impact of COVID-19 on Cloud Gaming Market Latest Research Report 2020 to 2025"
+    excerpt: "MarketResearchNest Announced that it's published an Exclusive Report on \"Global Cloud Gaming Market\" in its research database with report summary, table of content, research methodologies and data sources."
+    publishedDateTime: 2020-06-02T07:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-impact-of-covid-19-on-cloud-gaming-market-latest-research-report-2020-to-2025-2020-06-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 41
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Impact Analysis of COVID-19 on Cloud Storage Market Analysis 2020-2028 by Emerging Trends, Technology, Future Growth, Revenue, Demand Forecast"
+    excerpt: "The growing online activities such as e-mail, enterprise resource planning, digital images, Salesforce automation,"
+    publishedDateTime: 2020-06-02T20:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/impact-analysis-of-covid-19-on-cloud-storage-market-analysis-2020-2028-by-emerging-trends-technology-future-growth-revenue-demand-forecast-2020-06-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Cloud Manufacturing Market 2020: Company Profiles, COVID - 19 Analysis, Industry Segments, Landscape, Global Trends and Demand by Forecast to 2023"
+    excerpt: "Cloud Manufacturing MarketOverview: Cloud manufacturing is the process of utilizing cloud to source relevant data"
+    publishedDateTime: 2020-05-27T07:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-manufacturing-market-2020-company-profiles-covid---19-analysis-industry-segments-landscape-global-trends-and-demand-by-forecast-to-2023-2020-05-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

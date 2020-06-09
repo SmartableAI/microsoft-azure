@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/05/30/microsoft-expan
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/05/30/microsoft-expands-azure-iot-central-to-edge-devices-including-azure-sphere/amp/"
 type: article
 quality: 115
-heat: 115
+heat: 135
 published: true
 
 provider:
@@ -27,6 +27,21 @@ images:
     width: 1000
     height: 666
     title: "Microsoft Expands Azure IoT Central To Edge Devices Including Azure Sphere"
+
+related:
+  - title: "Enabling secure IoT devices with Microsoft® Azure and Mentor Embedded Linux®"
+    excerpt: "This white paper provides OEM developers a fast, proven, secure methodology for delivering embedded IoT products that achieve increased ROI while speeding time-to-market."
+    publishedDateTime: 2020-06-02T18:06:00Z
+    webUrl: "https://www.embedded-computing.com/premium-white-papers-2/enabling-secure-iot-devices-with-microsoft-azure-and-mentor-embedded-linux"
+    type: article
+    provider:
+      name: Embedded Computing Design
+      domain: embedded-computing.com
+    quality: 44
+    images:
+      - url: "https://content.cdntwrk.com/files/aHViPTYzODY3JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVlZDY5NDJmODIzZDguanBnJnZlcnNpb249MDAwMCZzaWc9N2E2OTU3Y2JlZTMxM2IwOTlmMmI2ZmE4NzUwZGRhODk%253D"
+        width: 500
+        height: 272
 
 secured: "Qfbbs9fwM7Tz0IV/eZwDQGyltyZPINBnMhegBnzmkNbgSghkmxjhXOSq0iPS+WrSN2Boku2mL7AeVweHpOxLVbd57BX8CGZOjztqmlFnX149836nFR/NTK5LyhTYjGKpvjE1aP0EUVEUeGLEKH/XP0OtBpnIZ05n473lLG43KtIQ5P8DjLE+EsLru/BCTw7lSYILl73rck3XNVlsJF1FcrQX7mWUekwsfB6tO19vhDdRSWLmKo5pUrUYhsLB24VujHP1z0frNPVWIu55eZ5t0gaPwtXAHXgfdJxiMwVuAv6YDDIoA3GKs0yI+fU7kuiel7XRlAw55G/2wxzMbYoaXgt/1++55mUbW1gZx/cm/mqdIE3HZm2HQ7EAlt3EP7zPSbvA1QnOlztZVKWqprxtOz5LFfpodtIk5+CY5cwffU//T4uWfreL9xTp2DFkdqBiC3z3Ds/6F65eTSlVsWABnh8bMljGbkUBcHo3vVoyRJY=;6Yb5Lxe5bdDdMhnylU7jbw=="
 ---

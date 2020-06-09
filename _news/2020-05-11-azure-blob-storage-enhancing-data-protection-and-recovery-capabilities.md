@@ -6,8 +6,8 @@ publishedDateTime: 2020-05-11T13:00:00Z
 webUrl: "https://azure.microsoft.com/blog/azure-blob-storage-enhancing-data-protection-and-recovery-capabilities/"
 type: article
 quality: 94
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -20,6 +20,57 @@ provider:
 topics:
   - Azure
   - Storage
+
+related:
+  - title: "Manage and find data with Blob Index for Azure Storage—now in preview"
+    excerpt: " \r\n\r\nBlob Index—a managed secondary index, allowing you to store multi-dimensional object attributes to describe your data objects for Azure Blob storage—is now available in preview. Built on top of blob storage, Blob Index offers consistent reliability, availability, and performance for all your workloads."
+    publishedDateTime: 2020-05-04T10:00:03Z
+    webUrl: "https://azure.microsoft.com/blog/manage-and-find-data-with-blob-index-for-azure-storage-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 124
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/92cec444-9b04-4e3c-9250-2af9a918d97d.png"
+        width: 1024
+        height: 644
+  - title: "Query Acceleration for Azure Data Lake Storage now in preview"
+    excerpt: ""
+    publishedDateTime: 2020-04-29T16:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/query-acceleration-for-azure-data-lake-storage-now-in-preview-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "New Azure VMware Solution is now in preview"
+    excerpt: ""
+    publishedDateTime: 2020-05-04T18:00:35Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-vmware-solution-is-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure Blob storage—Blob Index now available in preview"
+    excerpt: ""
+    publishedDateTime: 2020-05-07T01:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/blob-index-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Premium tier for Azure Data Lake Storage now in public preview"
+    excerpt: ""
+    publishedDateTime: 2020-05-11T18:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/premium-tier-for-azure-data-lake-storage-now-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
 
 secured: "aC2Vq8wCrMd7GTQv/NpN4FgwZvxao95d8HkZ9PtZYaYze4tgMNHb5O7yboWh7iwj9hK2FymsVdfRttoArt4TbjKXVUHUaNAvCcRjHouNIgUPkt6zx43OdS4pp6pPBK/hf2lAKXdGdrvPFaUuhJLkGwmv1kH+U5dqe9zRIz1KuzArlU8EISa4O20XXYYrLeEXQrZE6DdinakjNS83TL5iMzy3ZDVzwYynHMKCuQWh0iUFmeZSBGWFcG0M8NurkR8RmsdbkBPKhsBXgAeSAsFrynUKOE4GweQyfuUlN8uYKpm1K25727yrEv9gg5zJSSAnxAiEj/YgNUgD3Ga6x4ZXRg==;5KOj3yfAxeyKJvmOo2rqHA=="
 ---

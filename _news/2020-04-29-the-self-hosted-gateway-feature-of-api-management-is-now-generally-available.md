@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-29T16:00:02Z
 webUrl: "https://azure.microsoft.com/en-us/updates/selfhosted-gateway-feature-in-api-management-is-now-generally-available/"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,84 @@ provider:
 
 topics:
   - Azure
+
+related:
+  - title: "Azure Files share snapshot management by Azure Backup is now generally available"
+    excerpt: "Microsoft Azure Files offers fully managed file shares in the cloud that are accessible via the industry standard Server Message Block (SMB) protocol. For users of Azure Files, share snapshots have offered a read-only version of file shares from a previous point in time. Share snapshots are also incremental"
+    publishedDateTime: 2020-04-29T09:00:53Z
+    webUrl: "https://azure.microsoft.com/blog/azure-files-share-snapshot-management-by-azure-backup-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 104
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/202fa2d1-fc33-41eb-94be-957327f62b0d.jpg"
+        width: 1024
+        height: 608
+  - title: "SAP HANA backup using Azure Backup is now generally available"
+    excerpt: "We are sharing that Microsoft Azure Backup’s solution for SAP HANA databases is generally available in all Azure Public and Gov Regions (with the exception of Germany Northeast and Germany central, France South & US Gov IOWA).\r\n\r\nAzure Backup is Azure's native backup solution, which is BackInt certified"
+    publishedDateTime: 2019-12-02T13:00:29Z
+    webUrl: "https://azure.microsoft.com/blog/sap-hana-backup-using-azure-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 79
+  - title: "Azure Archive expanded capabilities now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-23T16:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-archive-expanded-capabilities-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure Sphere update 20.04 is now available"
+    excerpt: ""
+    publishedDateTime: 2020-05-05T17:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-update-2004-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure Security Center—Dynamic compliance packages now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-28T23:00:42Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/dynamic-compliance-packages-ga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 76
+  - title: "Azure custom role creation in the Azure portal is now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-05-01T16:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-custom-roles-portal/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 76
+  - title: "Azure File shares snapshot management by Azure Backup is now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-29T16:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-file-shares-snapshot-management-by-azure-backup-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 72
+  - title: "Windows Server containers in AKS now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-28T16:30:38Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/windows-server-containers-in-aks-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 62
 
 secured: "pO0sSpK5etumdqdMNYrC6HZTKRx+Oo0JuXkfl3AukwxTgk2xcHuM5cvEXUQXxc8ZRxMZEY7tAuslXWc3UnZz6nEEnn17RzjZuWaWwx0XnwthqTr9/shWdKdagyANbLeOu+qDKGw+GT00RmnYy3nINke5MrtypcnRGkjXN7IocfhDnod3M5RlZ4SnhdoCDig5kSIUB2IV/SeYPlCyhhNPbdQ9Cuqy/2nM1c/AIr65wF0rsMFyrk+h7OIGA9FB9VgjZ5vnhoGNSDPKRzOvzQA16iokZ5ieggslGk3FQrRa6mx730R255gJ0xfMnJZ1lIr+l8xEWO4g5b7uChoHxYGWug==;Q5BIM5T0zOOCOe9j99JO/A=="
 ---

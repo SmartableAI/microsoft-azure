@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-11T11:00:02Z
 webUrl: "https://azure.microsoft.com/blog/use-azure-firewall-for-secure-and-cost-effective-windows-virtual-desktop-protection/"
 type: article
 quality: 105
-heat: 105
+heat: 125
 published: true
 
 provider:
@@ -27,6 +27,23 @@ images:
     width: 1024
     height: 366
     title: "Use Azure Firewall for secure and cost-effective Windows Virtual Desktop protection"
+
+related:
+  - title: "Windows virtual desktops: How you can manage, monitor and virtualise devices remotely"
+    excerpt: "With laptops and VPN bandwidth in short supply, Windows Virtual Desktop and Microsoft Endpoint Manager come into their own as ways to keep staff not just working, but also productive and secure."
+    publishedDateTime: 2020-05-11T09:51:00Z
+    webUrl: "https://www.techrepublic.com/article/windows-virtual-desktops-how-you-can-manage-monitor-and-virtualise-devices-remotely/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/windows-virtual-desktops-how-you-can-manage-monitor-and-virtualise-devices-remotely/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/windows-virtual-desktops-how-you-can-manage-monitor-and-virtualise-devices-remotely/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 95
+    images:
+      - url: "https://tr2.cbsistatic.com/hub/i/r/2020/05/11/8c3c63a2-918c-4371-b054-bf9e2fd7bd33/resize/1200x/155f519778ebaa82b0eeecd1b348bec6/tr-new-wvd-interface-in-azure-portal.jpg"
+        width: 1200
+        height: 820
 
 secured: "k6jWIS4PYU51pl8Tdx2nbmZqpsPp5JZnWGoj/JWKJuyYyuq43K8I5Ccu8+/zvl+0Sg0a5sevm5fO/nmFWMn7y+4s+g9N2nhtuGKs6UuE0p2/M16eQEGupn1TZRAh4uX5CbzOTD3N8R9jayQ3a/xMR83E0VhydDJMxjbUTjFFD73NBrWKVnuJWImX+CDOP+fC79b5leKkNGn3D9b8dyr0DKk/TlJi3uQzg7xZ43bGXjhq4X+NakvAAEGyp7q+7Zr3lwBVQRtMfgL+ACwxs0mKeNCt7qpozc4DWuomi4ougtrSemvr5U6cqPQH5ssCwq+anTGVdYw/hr8csFYYPEhojA==;pVWSYhMnt+dSKmKYmffhiQ=="
 ---

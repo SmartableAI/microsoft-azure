@@ -8,7 +8,7 @@ ampWebUrl: "https://www.law360.com/amp/articles/1265358"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1265358"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -19,19 +19,34 @@ topics:
   - Azure
 
 related:
-  - title: "Judge Grants DoD’s Request for 120-Day Remand to Review JEDI Contract Award Decision"
-    excerpt: "Smith of the U.S. Court of Federal Claims moved to grant DoD’s request to stop further action on the case to pave the way for the Pentagon to reassess certain aspects of its JEDI contract award decision."
-    publishedDateTime: 2020-04-20T09:04:00Z
-    webUrl: "https://www.govconwire.com/2020/04/judge-grants-dods-request-for-120-day-remand-to-review-jedi-contract-award-decision/"
+  - title: "Court orders portion of $10B JEDI contract remanded"
+    excerpt: "The Court of Federal Claims ordered a halt to the JEDI contract protest case until August to allow the Defense Department to \"reconsider\" portions of the highly contested $10 billion procurement."
+    publishedDateTime: 2020-04-17T22:04:00Z
+    webUrl: "https://www.bizjournals.com/washington/news/2020/04/17/court-orders-portion-of-jedi-contract-remanded.html"
+    ampWebUrl: "https://www.bizjournals.com/washington/news/2020/04/17/court-orders-portion-of-jedi-contract-remanded.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/washington/news/2020/04/17/court-orders-portion-of-jedi-contract-remanded.amp.html"
     type: article
     provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 25
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 62
     images:
-      - url: "https://govconwire-media.s3.amazonaws.com/2020/05/01/25/5d/e6/af/58/94/96/b4/a0If300000MFBfoEAH-NASA_human_landing_system_20190724png.png"
-        width: 272
-        height: 270
+      - url: "https://media.bizj.us/view/img/10988802/rtrlnine110024*600xx4350-2900-100-0.jpg"
+        width: 600
+        height: 400
+  - title: "JEDI gets partial re-evaluation, court says"
+    excerpt: "A federal judge is giving the Defense Department until Aug. 17 to accept proposal revisions addressing storage pricing, effectively extending a nearly three-year-long drama over the potential $10 billion enterprise cloud contract."
+    publishedDateTime: 2020-04-22T23:52:00Z
+    webUrl: "https://defensesystems.com/articles/2020/04/22/jedi-saga-continues.aspx"
+    type: article
+    provider:
+      name: Defense Systems
+      domain: defensesystems.com
+    quality: 32
+    images:
+      - url: "https://defensesystems.com/-/media/GIG/EDIT_SHARED/Cloud/pentagoncloud_0.jpg"
+        width: 760
+        height: 368
 
 secured: "3qByZ2MpgqFo3t3ZijN3H8kHVNBFP8nz3rEKhgrnkOt/E06bY0QlMmYA8boHD+Gm29ev8qjFGUqKJw0pkClusvLhC22HdzoWDloOwOyXdScqQ8iA4KwGq+U///luAaazwAAj01DrcRQN1W90ujuWX5SOLRPQpjBfB/rjcTv1f2I4Ud0OfXzxoDjz1h3ZcigNoCYxqeYbbtanEVRoO4ThzFb/TJg6EpnkobztqhVlgSLQjw6kZjkS3SyISQvywQWSHNm28s3tNShH6b56HAASbrxAplZvGahOhk1CM/1FA2tsmHqIIBmYejP/ZsJ90uUO;QFq6JgU5QOn5XkoK2syAvQ=="
 ---

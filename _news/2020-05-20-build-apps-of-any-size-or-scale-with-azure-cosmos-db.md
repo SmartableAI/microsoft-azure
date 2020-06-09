@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-20T08:00:27Z
 webUrl: "https://azure.microsoft.com/blog/build-apps-of-any-size-or-scale-with-azure-cosmos-db/"
 type: article
 quality: 107
-heat: 107
+heat: 147
 published: true
 
 provider:
@@ -25,6 +25,32 @@ images:
     width: 1024
     height: 529
     title: "Build apps of any size or scale with Azure Cosmos DB"
+
+related:
+  - title: "Change feed with full database operations for Azure Cosmos DB "
+    excerpt: ""
+    publishedDateTime: 2020-05-21T04:00:35Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/change-feed-with-full-database-operations-for-azure-cosmos-db/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Microsoft introduces a more cost-effective way to use Azure Cosmos DB"
+    excerpt: "Due to its pricing model, developers building web apps for small numbers of users were not using Cosmos DB. To fix this issue, Microsoft has announced Azure Cosmos DB serverless, a more cost-effective way to use Azure Cosmos DB."
+    publishedDateTime: 2020-05-25T05:57:00Z
+    webUrl: "https://mspoweruser.com/microsoft-azure-cosmos-db-serverless-cheap/"
+    ampWebUrl: "https://mspoweruser.com/microsoft-azure-cosmos-db-serverless-cheap/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-azure-cosmos-db-serverless-cheap/amp/"
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 77
+    images:
+      - url: "https://mspoweruser.com/wp-content/uploads/2017/05/azure-cosmos-db-2.jpg"
+        width: 1200
+        height: 800
 
 secured: "z/MusEuh2LmtEpskC2e0pNUr0u1b3PZmjJmPIdgOiqQaWNwF0kIiwtLbwGrizfK+7GF+n3tORMWCBhRQdsFU1Vl7sJB4wBcoB9YY5adbqAuMxGLkXXEuieDh33Khl8NKQA2qopfWyHyNaJAbzNeHwKZvOeedHColz+w0vUg4NlxjhiqAsHDomHOkovBweHWU+lyafRI+d+EHdwJVU8z2G7Nz9Q75KGO3f3DyhAehcwMi/wGKCH51skKb3e8LdG8cqtduSGQiZh2KTXhFQZLnf8CP6Ej7PmjlFz/GHI0/0au9/+P48cPaPHwr9gbUz0uiiJnRkR+KWOjNTJUcoIm5Zg==;7HERtYE8vqfuOxHj/qXrEg=="
 ---

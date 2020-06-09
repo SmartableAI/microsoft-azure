@@ -17,21 +17,21 @@ topics:
   - Azure
 
 related:
-  - title: "Google extending cloud reach with Cisco, Amazon and Microsoft connections"
-    excerpt: "Google made several announcements, including a partnership with Cisco that will better connect Cisco’s software-defined wide area network (SD-WAN) tools with Google Cloud. Google also announced the production release of Anthos for Amazon’s AWS and a preview"
-    publishedDateTime: 2020-04-28T20:54:00Z
-    webUrl: "https://www.techspot.com/news/85012-google-extending-cloud-reach-cisco-amazon-microsoft-connections.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/85012-google-extending-cloud-reach-cisco-amazon-microsoft-connections.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85012-google-extending-cloud-reach-cisco-amazon-microsoft-connections.html"
+  - title: "A big shift in cloud war between Amazon, Google, Microsoft is coming: P&G top tech exec"
+    excerpt: "Procter & Gamble chief information officer Javier Polit said the booming cloud computing market will contract over the next five years. Amazon has been an early leader and P&G has been a client ..."
+    publishedDateTime: 2020-05-02T00:00:00Z
+    webUrl: "https://www.cnbc.com/2019/04/30/a-big-shift-in-cloud-war-between-amazon-google-microsoft-is-coming.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2019/04/30/a-big-shift-in-cloud-war-between-amazon-google-microsoft-is-coming.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/04/30/a-big-shift-in-cloud-war-between-amazon-google-microsoft-is-coming.html"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 101
+      name: CNBC
+      domain: cnbc.com
+    quality: 94
     images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2020/04/2020-04-28-image-30.jpg"
-        width: 2461
-        height: 1200
+      - url: "https://image.cnbcfm.com/api/v1/image/103476330-451216438.jpg?v=1463497965"
+        width: 594
+        height: 396
 
 secured: "gqGRkpZZ1YVLa+yhRN16UKZQ69SDPgvG3hivf4+ZjtWA2i36BMEDb6gLY24+Ld9PvlIRgHbNmxL6u54oyTODWGIwNa+5d2J1XMOjqMR9vDCKM/LDJlAg/9Jc2iRUGYvuTvE48kTgaqBlcDBFz2HHQNSqL6SLMfUiAioogW+M3cA/oiKwRqpSWTCSRgIAQN2epxWAahV6QBK3Av/uIydCNZulXRXlIoDIV2IkNLyybwVUolF9Yze4IZxZJusz9o0m+Ua6q0Ad9cB5RDASC0TlBAR6o3w3lWKW7HbYiU7g70ncUuH5IE3KlWqurxUjynMn;W2J6Relo9sjP9R4nGW8iCA=="
 ---

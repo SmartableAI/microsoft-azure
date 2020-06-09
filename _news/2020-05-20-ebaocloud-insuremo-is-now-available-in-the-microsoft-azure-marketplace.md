@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-20T15:30:00Z
 webUrl: "https://www.prnewswire.com/in/news-releases/ebaocloud-insuremo-is-now-available-in-the-microsoft-azure-marketplace-800602677.html"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -23,28 +23,30 @@ images:
     title: "eBaoCloud InsureMO is Now Available in the Microsoft Azure Marketplace"
 
 related:
-  - title: "Healthper USA, Inc. Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Healthper to take advantage of the scalability, reliability, and agility of Azure to drive well-being."
-    publishedDateTime: 2020-05-20T16:53:00Z
-    webUrl: "https://www.pr.com/press-release/813120"
+  - title: "Qore Technologies' Free 3Months Usage Plan for Qorus Integration Engine Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to free use of Qorus Integration Engine to mitigate the business implications of COVID-19 PRAGUE, CZECH REPUBLIC, April 15, 2020 /EINPresswire.com/ -- Qore Technologies today announced the availability of a free three-month usage and consultation plan for Qorus Integration Engine in the Microsoft Azure Marketplace,"
+    publishedDateTime: 2020-04-15T11:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/qore-technologies-free-3months-usage-plan-for-qorus-integration-engine-now-available-in-the-microsoft-azure-marketplace-2020-04-15"
     type: article
     provider:
-      name: PR
-      domain: pr.com
-    quality: 47
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
     images:
-      - url: "https://img.pr.com/release/2005/470793/pressrelease_original_470793_1589990219.png"
-        width: 1280
-        height: 720
-  - title: "DataVisor Now Available in the Microsoft Azure Marketplace"
-    excerpt: "DataVisor, the leading fraud detection company with solutions powered by transformational AI technology, today announced the availability of dVector a"
-    publishedDateTime: 2020-05-19T12:37:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200519005042/en/DataVisor-Microsoft-Azure-Marketplace"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Microsoft Azure holds free 'virtual hackathon' for professionals in Asia to develop helpful technologies"
+    excerpt: "Microsoft, Grab and the United Nations Development Programme ... Through this activity, teams can collaborate online and use Azure technologies \"like computer vision and natural language processing to create innovative and transformative solutions.\""
+    publishedDateTime: 2020-04-13T18:08:00Z
+    webUrl: "https://www.gmanetwork.com/news/scitech/technology/733783/microsoft-azure-holds-free-virtual-hackathon-for-professionals-in-asia-to-develop-helpful-technologies/story/"
+    ampWebUrl: "https://www.gmanetwork.com/news/scitech/technology/733783/microsoft-azure-holds-free-virtual-hackathon-for-professionals-in-asia-to-develop-helpful-technologies/story/?amp"
+    cdnAmpWebUrl: "https://www-gmanetwork-com.cdn.ampproject.org/c/s/www.gmanetwork.com/news/scitech/technology/733783/microsoft-azure-holds-free-virtual-hackathon-for-professionals-in-asia-to-develop-helpful-technologies/story/?amp"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 17
+      name: GMA Network
+      domain: gmanetwork.com
+    quality: 30
 
 secured: "9hrQ+fTFHx9xGqgk3+RzLf50LNWM6+UDR1wMP8igR/mHrYOkgN6Mh0AIVc4KWvXB4+eBJuzQBPqFqKGGra38Ov/6oMEjFFYgf3FMataz0XJH3uvJLuUQ3P3NsNAPlr0DLWizNPpztftHJr9w+YIQ/NtUFYwUGOh8gIqpM9XTMtzGF/++qXneqxRgHSjC+4czEVDevcJi4CvbXgUu29ZGY6KO0FybB8OYi5fMmf09XsZ+ApQSa6GgkrH/SuS2LtjdQuPinxo0S9NdEzWXV96jw7LwgrE+uxR2T9OMmT7tldc5FFeN2UvpE1IOuOTJk0oC;69SYvbSv+3SwSE4zFEB8Aw=="
 ---

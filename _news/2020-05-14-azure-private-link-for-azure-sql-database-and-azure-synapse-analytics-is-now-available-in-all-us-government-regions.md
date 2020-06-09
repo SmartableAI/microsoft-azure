@@ -21,24 +21,15 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Private Link is now generally available in US Government regions"
+  - title: "SCOM management pack for Azure SQL Managed Instance is now available"
     excerpt: ""
-    publishedDateTime: 2020-05-14T16:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/privatelinkgagovcloud/"
+    publishedDateTime: 2020-05-08T16:00:09Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-of-scom-management-pack-for-sql-managed-instance-is-now-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Virtual Network NAT now generally available in Azure Government and Azure China"
-    excerpt: ""
-    publishedDateTime: 2020-05-07T21:00:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/virtualnetworknatgovchinaga/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 73
   - title: "Private endpoints for Azure Storage are now generally available in the Azure Government region"
     excerpt: ""
     publishedDateTime: 2020-05-14T16:00:17Z

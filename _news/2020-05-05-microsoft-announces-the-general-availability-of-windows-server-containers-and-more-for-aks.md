@@ -23,34 +23,89 @@ images:
     title: "Microsoft Announces the General Availability of Windows Server Containers, and More for AKS"
 
 related:
-  - title: "Veeam announces general availability of New Veeam backup for Microsoft Azure"
-    excerpt: "New backup and recovery solution integrates with Azure functionality to help organizations move more applications and data to Azure; eliminates cloud data loss while maintaining control over costs and"
-    publishedDateTime: 2020-04-29T09:26:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Veeam_announces_general_availability_of_New_Veeam_backup_for_Microsoft_Azure-ZAWYA20200429090836/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200429090836/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200429090836/"
+  - title: "Announcing the general availability of Azure Spot Virtual Machines"
+    excerpt: "Today we’re announcing the general availability of Azure Spot Virtual Machines (VMs). Azure Spot VMs provide access to unused Azure compute capacity at deep discounts. Spot pricing is available on single VMs in addition to VM scale sets (VMSS). This enables you to deploy a broader variety of workloads"
+    publishedDateTime: 2020-05-12T08:00:18Z
+    webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-spot-virtual-machines/"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 74
+      name: Microsoft
+      domain: microsoft.com
+    quality: 124
     images:
-      - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
-        width: 1200
-        height: 878
-  - title: "Veeam Announces General Availability of NEW Veeam Backup for Microsoft Azure"
-    excerpt: "Public cloud Infrastructure-as-a-Service (IaaS), such as Microsoft Azure, continues to rapidly grow in adoption for production IT workloads. Even with public cloud IaaS, while the uptime of the ..."
-    publishedDateTime: 2020-04-28T11:27:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200428005491/en/Veeam-Announces-General-Availability-NEW-Veeam-Backup"
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/333076bc-4f9e-4461-9ba7-810752e19173.jpg"
+        width: 800
+        height: 468
+  - title: "Announcing the general availability of Azure Monitor for virtual machines"
+    excerpt: "Today we're announcing the general availability of Azure Monitor for virtual machines (VMs), which provides an in-depth view of VM performance trends and dependencies. You can access Azure Monitor for VMs from the Azure VM resource blade to view details about a single VM, from the Azure Virtual Machine"
+    publishedDateTime: 2020-03-16T10:00:32Z
+    webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-monitor-for-virtual-machines/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 44
+      name: Microsoft
+      domain: microsoft.com
+    quality: 123
     images:
-      - url: "https://mms.businesswire.com/media/20200428005491/en/774069/23/logo_NEW.jpg"
-        width: 1200
-        height: 627
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8aaf8f84-054c-4681-82e8-58dd8d160940.png"
+        width: 1430
+        height: 953
+  - title: "Azure Virtual Machine Scale Sets now provide simpler management during scale-in"
+    excerpt: "We recently announced the general availability of three features for Azure Virtual Machine Scale Sets. Instance protection, custom scale-in policy, and terminate notification provide new capabilities to simplify management of virtual machine instances during scale-in.\r\n\r\nAzure Virtual Machine Scale Sets"
+    publishedDateTime: 2020-05-11T12:00:03Z
+    webUrl: "https://azure.microsoft.com/blog/azure-virtual-machine-scale-sets-now-provide-simpler-management-during-scalein/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 120
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/985df91e-de4d-4c27-a28b-f3ec9be164e3.jpg"
+        width: 1024
+        height: 696
+  - title: "Virtual Network NAT now generally available in Azure Government and Azure China"
+    excerpt: ""
+    publishedDateTime: 2020-05-07T21:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/virtualnetworknatgovchinaga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 73
+  - title: "Azure SQL Auditing to storage account behind Virtual Network and firewall now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-05-13T16:01:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-auditing-to-storage-account-behind-virtual-network-and-firewall-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 64
+  - title: "Finxact Announces General Availability of its Core-as-a-Service on Microsoft Azure"
+    excerpt: "Finxact is responding to growing market demand from its regional and super regional clients and prospects to support Azure. Finxact chose Microsoft based on its unique strength in accelerating ..."
+    publishedDateTime: 2020-05-13T12:33:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/finxact-announces-general-availability-of-its-core-as-a-service-on-microsoft-azure-301058085.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 41
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+  - title: "Qualys Delivers Vulnerability Management to Microsoft Azure Security Center for Virtual Machines and Containers"
+    excerpt: "Now, Microsoft Azure developers and customers have real-time visibility to secure and remediate cloud workloads at a click of a button with built-in orchestration as well.\" \"Security is in the DNA ..."
+    publishedDateTime: 2020-05-07T13:06:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/qualys-delivers-vulnerability-management-to-microsoft-azure-security-center-for-virtual-machines-and-containers-301054791.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 27
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
 
 secured: "AZrPsE7gPpHCQGMLAKhaCGAW2eRtQTzQIVErJ9b83zdgDLTUQLLAvHa/XdPjdwjUUzB64lVPoRkdiRvWlEkEx9AzbaIalUNaweYfga2tMAsSR9OZEFc2QgMJgUbfB5oLzljki2AcTwK36sxxfm5skNqApbFXPWvMRnNB/OPF+jeyMoTaHQ9sqAyUXOpQ40WMuwNJrZo0lc1QkfBWSF5c4DXgyNGJQjlkoIYNFsn+inJuaT+3u7ISnq0PVyLSa019F1Eg42oyo9lLlkPCLnN+pBiir97/u323SJxrKXM3aOiR7OuOzsoidO8xwouz2v2z;JUwNkNiOUBEeYsZHtzV3pA=="
 ---

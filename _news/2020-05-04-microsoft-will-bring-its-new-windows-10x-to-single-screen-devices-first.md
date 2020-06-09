@@ -44,6 +44,36 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-05%2Ffe4dc1d0-8e2e-11ea-bfdf-96f360b43ccd&client=amp-blogside-v2&signature=08fae138036032b01bc5ed56fe270592902b738a"
         width: 600
         height: 350
+  - title: "Microsoft shifts Windows 10X towards more of a Chrome OS competitor"
+    excerpt: "Microsoft confirmed yesterday that it’s reprioritizing its Windows 10X development to focus on regular single-screen devices. The Windows variant was originally intended to run on new dual-screen hardware,"
+    publishedDateTime: 2020-05-05T11:33:00Z
+    webUrl: "https://www.theverge.com/2020/5/5/21247701/microsoft-windows-10x-laptops-single-screen-chrome-os-competition"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/5/21247701/microsoft-windows-10x-laptops-single-screen-chrome-os-competition"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/5/21247701/microsoft-windows-10x-laptops-single-screen-chrome-os-competition"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 102
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/I6Y9yFT7Qj_HvkVrVrJUcLNOn5E=/0x0:2640x1760/1400x933/filters:focal(1109x669:1531x1091):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66752704/windows10xlaptop.5.jpg"
+        width: 1400
+        height: 933
+  - title: "Microsoft to bring Windows 10X to laptops first, pivoting away from dual-screens"
+    excerpt: "Microsoft has officially confirmed that the Windows 10X operating system once intended for only dual-screen devices, will be coming to laptops and tablets, too."
+    publishedDateTime: 2020-05-04T17:03:00Z
+    webUrl: "https://www.digitaltrends.com/computing/microsoft-confirms-windows-10-x-single-screen-devices/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/microsoft-confirms-windows-10-x-single-screen-devices/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-confirms-windows-10-x-single-screen-devices/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 97
+    images:
+      - url: "https://icdn4.digitaltrends.com/image/digitaltrends/b5398ddb6eed22d586aaa3eaf71ff362-1200x630-c-ar1.91.jpg"
+        width: 1152
+        height: 603
   - title: "Microsoft confirms Windows 10X is coming to laptops amid big jump in Windows usage"
     excerpt: "Microsoft isn’t saying exactly when single screen devices like laptops will support Windows 10X, nor when dual-screen devices will launch with the OS. “We will continue to look for the right moment, in conjunction with our OEM partners,"
     publishedDateTime: 2020-05-04T16:08:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-flight-simulator-2020
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-flight-simulator-2020s-wildly-impressive-visuals-will-require-some-serious-specs/"
 type: article
 quality: 93
-heat: 93
+heat: 113
 published: true
 
 provider:
@@ -27,6 +27,23 @@ images:
     width: 756
     height: 567
     title: "Microsoft Flight Simulator 2020's most impressive visuals will need heavyweight hardware"
+
+related:
+  - title: "Microsoft Flight Simulator looks breathtaking in these new screenshots"
+    excerpt: "Microsoft is really showing the world what Flight Simulator can do when it can flex its graphical muscles, with some beautiful bokeh depth of field effects, gorgeous volumetric clouds and huge (real) worlds on display and running in real-time."
+    publishedDateTime: 2020-04-26T11:30:00Z
+    webUrl: "https://www.tweaktown.com/news/72060/microsoft-flight-simulator-looks-breathtaking-in-these-new-screenshots/index.html"
+    ampWebUrl: "https://www.tweaktown.com/news/72060/microsoft-flight-simulator-looks-breathtaking-in-these-new-screenshots/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/72060/microsoft-flight-simulator-looks-breathtaking-in-these-new-screenshots/amp.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 62
+    images:
+      - url: "https://images.tweaktown.com/news/7/2/72060_11_microsoft-flight-simulator-looks-breathtaking-in-these-new-screenshots.jpg"
+        width: 620
+        height: 307
 
 secured: "UXXqxqfCH8jfp8ZIFIOS2yFRioW9GhxGtRJ6/vaFsb0DU9X7LluLRTNYGhNeKdBlv6IrNK7sw+7gmPj8yvYCcRX2Ca7dM+85x+JZHm0F5CMqHMUdzr/f+csSI0UATbdfKMXjpQkFEmBpj4hgjJofa1bsLMW1ucFKiEu67gr+ML5FaJoZ2lhDtSwlNWLpDxTiN31fiZ/QOBmDCBBAcKsOvsJw3S2cFM/3Dr2x9lMHkt2gAD+JmBCE2U7JEnNaFfU+CUz024Y+lYGprzHn7NdqY6IK93QBjCzOw1G9rU1NpOUJOIjxJAtBriw8Qk2cHv/4;enXV58uxncv+WA83uZACmg=="
 ---

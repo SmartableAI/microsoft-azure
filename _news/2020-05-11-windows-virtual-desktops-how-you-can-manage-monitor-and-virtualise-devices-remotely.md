@@ -8,8 +8,8 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/windows-virtual-desk
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/windows-virtual-desktops-how-you-can-manage-monitor-and-virtualise-devices-remotely/"
 type: article
 quality: 95
-heat: 95
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechRepublic
@@ -27,6 +27,21 @@ images:
     width: 1200
     height: 820
     title: "Windows virtual desktops: How you can manage, monitor and virtualise devices remotely"
+
+related:
+  - title: "Use Azure Firewall for secure and cost-effective Windows Virtual Desktop protection"
+    excerpt: "This post was co-authored by Pavithra Thiruvengadam, Program Manager, Windows Virtual Desktop\n\nWork from home policies require many IT organizations to address fundamental changes in capacity, network, security, and governance. Many employees aren't protected by the layered security policies associated"
+    publishedDateTime: 2020-05-11T11:00:02Z
+    webUrl: "https://azure.microsoft.com/blog/use-azure-firewall-for-secure-and-cost-effective-windows-virtual-desktop-protection/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 105
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8a177079-5ce9-44bd-97bb-ebcc6c30eaa0.png"
+        width: 1024
+        height: 366
 
 secured: "aUjBVzxBLcSg1RrzXG0S8+5yjklmHounxBBUe0nj57sG6d3+kiFP+iHiDlcLIGjRM/jkMorlYxsfGNrA8mMpb8PdWdhDJbOp1D1vf6iq9zX0vo93F/Noc5fD/FKwxN2Wp1RrjNrtJhweB15GDui12VtznWj4F3SpUJC5Jo8iMKgKlm6i8sBSl+Z8MZLyFdcRDl54u4TJhliIMcYB87PywGifhMyyT704lwz2GsxoRGvAdaWYvBBKl4GT8m7sp5OMgUo0dFVh3xwtCg8znHMZQX221aUaLd8u7ZhY9qFp0wEnVJpNfvRlt+x4c7Dhcbwp;FKkU0Z7ssl0bKxCOZC2rgQ=="
 ---

@@ -21,20 +21,18 @@ topics:
   - Azure
 
 related:
-  - title: "Microsoft and Sony to create smart camera solutions for AI-enabled image sensor"
-    excerpt: "Sony and Microsoft have joined together to create artificial intelligence-powered (AI) smart camera solutions to make it easier for enterprise customers to perform video analytics, the companies announced."
-    publishedDateTime: 2020-05-19T00:44:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-and-sony-partnership-to-create-smart-camera-solutions-with-ai-enable-image-sensor/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-and-sony-partnership-to-create-smart-camera-solutions-with-ai-enable-image-sensor/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-sony-partnership-to-create-smart-camera-solutions-with-ai-enable-image-sensor/"
+  - title: "How to Re-evaluate Microsoft 365 Licenses for Your Enterprise"
+    excerpt: "We offer five steps to take for evaluating an organization's M365 license strategy, how to realize hard dollar cost-savings and gain a better return on investment."
+    publishedDateTime: 2020-05-21T01:37:00Z
+    webUrl: "https://www.eweek.com/enterprise-apps/how-to-reevaluate-microsoft-365-licenses-for-your-enterprise"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 98
+      name: eWeek
+      domain: eweek.com
+    quality: 72
     images:
-      - url: "https://zdnet2.cbsistatic.com/hub/i/2020/05/15/d4d0aec9-a68d-4c05-93a1-1983d4569593/sony-sensor.jpg"
-        width: 360
+      - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2020/05/Microsoft365logo.jpg?alias=social_image"
+        width: 560
         height: 300
 
 secured: "eJ2yzf+o8WvJSinWJRwiwoQYRvXJn9+4+St7dZ7L/PY+hdDT6HQ5b15rD5w4PofkkaCnvpVtSDXbSLncUIxIwP9kxGEitF58kJgYhJHxGE4LO3/tgjbSWkQkmvaFoZRQOsfB2QcNYYyyauWHxIoYWZE7ZQxf232xTt005mCl2e2pxlrbAr6fxm3P/EqzJ+/8ixGBIkZ4n6i3bfDENmn9hLafaXF4atOdKIx2bjjEjWVQ1+7jumqeUy5jr1lvZ10gFYYx20ruhqy40guywcQNC/Bh031bQziWBD3Huf+cL/Z25tTnjKATp+OutgzNh/CZ;PEftiYIaOHzAbDygfT2WTQ=="

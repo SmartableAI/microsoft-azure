@@ -8,8 +8,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/will-microsoft-be-a-%242-trillion-st
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-microsoft-be-a-%242-trillion-stock-2020-06-02?amp"
 type: article
 quality: 72
-heat: 72
-published: true
+heat: -1
+published: false
 
 provider:
   name: Nasdaq
@@ -17,6 +17,34 @@ provider:
 
 topics:
   - Azure
+
+related:
+  - title: "Microsoft Stock Will Gain from Strong, Positive Catalysts"
+    excerpt: "Although Microsoft (NASDAQ:MSFT) has rallied nearly 50% over the last couple of months, Microsoft stock is likely to climb further in both the short term and long term. Source: NYCStock / Shutterstock."
+    publishedDateTime: 2020-05-28T20:26:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-stock-will-gain-from-strong-positive-catalysts-2020-05-28"
+    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-stock-will-gain-from-strong-positive-catalysts-2020-05-28?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-stock-will-gain-from-strong-positive-catalysts-2020-05-28?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 72
+  - title: "3 Big Reasons to Stick With the Rally in Microsoft Stock"
+    excerpt: "Microsoft stock is a winner. Never has that been more clear than today, with it powering to new highs despite the coronavirus pandemic."
+    publishedDateTime: 2020-05-22T18:58:00Z
+    webUrl: "https://investorplace.com/2020/05/3-big-reasons-to-stick-with-the-rally-in-microsoft-stock/"
+    ampWebUrl: "https://investorplace.com/2020/05/3-big-reasons-to-stick-with-the-rally-in-microsoft-stock/amp/"
+    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/05/3-big-reasons-to-stick-with-the-rally-in-microsoft-stock/amp/"
+    type: article
+    provider:
+      name: InvestorPlace
+      domain: investorplace.com
+    quality: 62
+    images:
+      - url: "https://investorplace.com/wp-content/uploads/2019/10/msft1600e.jpg"
+        width: 1600
+        height: 900
 
 secured: "II7Cycaek9JPgY5Wz8APn0mb3/HZMKVJKHdaPAgXacPxo0rSHZ2h2EzZHjD5l3BLjvcqoyCZsx1q2yK8j/O/+vVJgZGyUmRx++S6rzCNqpBKfGVwwx3/9o7Ck3+nVE73UbKOlm8FI5WAKYthWsR0H5mov4FgWoQKWjX1dlSC5mvCIRhSv3Z/l5764+IPKq6LfpdXw5itY5wmx3mIbz/bbJZqwCDwHi6Vsm4ODg5/fLNzzf6DR6i8QTKAqQIRBLkG0Ly5AA5z6/2OnGFPsxQjfk1GdPhNz2bndSAaEUJa4QBPrUIj8VsrfISOKjznIsp5CrAZTRNn05/CgldFFjLEFte7MyXkJM4LjIFJngqQ9bRV2SQz2uycx1rzjo0jC1rSC+GMO6yceb4v2rkWBBStReetPzZD0DIYCciaa9d7X60NguA0O5/IOAFW/juAqBGsM/fVAp68WbDW2Ooml6gWFws3rSw86Pli5fujyoSTLo8=;W+EDNz6RgZF8bxO6Q4KflA=="
 ---

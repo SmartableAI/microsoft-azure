@@ -23,19 +23,28 @@ images:
     title: "Healthper USA, Inc. Now Available in the Microsoft Azure Marketplace"
 
 related:
-  - title: "eBaoCloud InsureMO is Now Available in the Microsoft Azure Marketplace"
-    excerpt: "SHANGHAI, May 20, 2020 /PRNewswire/ -- eBaoTech Corporation today announced the availability of eBaoCloud ® InsureMO ® in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. eBaoTech's customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined ..."
-    publishedDateTime: 2020-05-20T15:30:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/ebaocloud-insuremo-is-now-available-in-the-microsoft-azure-marketplace-800602677.html"
+  - title: "HoloLens 2 expands markets; Azure mixed reality services now broadly available"
+    excerpt: "\r\n“When the intelligent cloud and intelligent edge are imbued with mixed reality and artificial intelligence, we have a framework for achieving amazing things and empowering even more people.” - Satya Nadella, Microsoft CEO speaking at the HoloLens 2 launch\r\n\r\n\r\nAt Microsoft Build 2020, we shared some"
+    publishedDateTime: 2020-05-20T09:00:28Z
+    webUrl: "https://azure.microsoft.com/blog/hololens-2-expands-markets-azure-mixed-reality-services-now-broadly-available/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 47
+      name: Microsoft
+      domain: microsoft.com
+    quality: 103
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8a5121d3-a63b-43d7-9fd0-2296e66f85f9.jpg"
+        width: 585
+        height: 383
+  - title: "Azure Media Services is now available in Switzerland and Germany"
+    excerpt: ""
+    publishedDateTime: 2020-05-20T16:00:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-media-services-is-now-available-in-switzerland-and-germany/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "DataVisor Now Available in the Microsoft Azure Marketplace"
     excerpt: "DataVisor, the leading fraud detection company with solutions powered by transformational AI technology, today announced the availability of dVector a"
     publishedDateTime: 2020-05-19T12:37:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-04T10:00:03Z
 webUrl: "https://azure.microsoft.com/blog/manage-and-find-data-with-blob-index-for-azure-storage-now-in-preview/"
 type: article
 quality: 124
-heat: 144
+heat: 224
 published: true
 
 provider:
@@ -28,10 +28,46 @@ images:
     title: "Manage and find data with Blob Index for Azure Storage—now in preview"
 
 related:
+  - title: "Azure Blob Storage enhancing data protection and recovery capabilities"
+    excerpt: "Enterprises, partners, and IT professionals store business-critical data in Azure Blob Storage. We are committed to providing the best-in-class data protection and recovery capabilities to keep your applications running. Today, we are announcing the general availability of Geo-Zone-Redundant Storage"
+    publishedDateTime: 2020-05-11T13:00:00Z
+    webUrl: "https://azure.microsoft.com/blog/azure-blob-storage-enhancing-data-protection-and-recovery-capabilities/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 94
+  - title: "Query Acceleration for Azure Data Lake Storage now in preview"
+    excerpt: ""
+    publishedDateTime: 2020-04-29T16:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/query-acceleration-for-azure-data-lake-storage-now-in-preview-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "New Azure VMware Solution is now in preview"
+    excerpt: ""
+    publishedDateTime: 2020-05-04T18:00:35Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-vmware-solution-is-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Azure Blob storage—Blob Index now available in preview"
     excerpt: ""
     publishedDateTime: 2020-05-07T01:00:17Z
     webUrl: "https://azure.microsoft.com/en-us/updates/blob-index-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Premium tier for Azure Data Lake Storage now in public preview"
+    excerpt: ""
+    publishedDateTime: 2020-05-11T18:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/premium-tier-for-azure-data-lake-storage-now-in-public-preview/"
     type: article
     provider:
       name: Microsoft

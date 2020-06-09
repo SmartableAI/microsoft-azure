@@ -38,6 +38,19 @@ related:
       - url: "https://winbuzzer.com/wp-content/uploads/2020/03/universal-print-microsoft.png"
         width: 999
         height: 613
+  - title: "How Does Microsoft 365 Universal Print Work?"
+    excerpt: "Microsoft is hoping to make it easier for organizations to give Azure Active Directory (AAD) joined and MDM-managed devices access to printers."
+    publishedDateTime: 2020-05-27T19:29:00Z
+    webUrl: "https://petri.com/how-does-microsoft-365-universal-print-work"
+    type: article
+    provider:
+      name: petri.com
+      domain: petri.com
+    quality: 32
+    images:
+      - url: "https://www.petri.com/wp-content/uploads/sites/3/2015/11/cloud-1280x720.jpg"
+        width: 1280
+        height: 720
   - title: "Microsoft Outlines Universal Print Plans"
     excerpt: "Microsoft earlier this month provided a few more details about Universal Print, its emerging cloud-based solution that promises to ease woes associated with managing print servers."
     publishedDateTime: 2020-05-27T03:11:00Z

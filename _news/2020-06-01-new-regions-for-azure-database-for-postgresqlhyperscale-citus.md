@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-01T16:00:14Z
 webUrl: "https://azure.microsoft.com/en-us/updates/new-regions-for-azure-database-for-postgresql-hyperscale-citus/"
 type: article
 quality: 77
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -21,6 +21,15 @@ topics:
   - Azure
 
 related:
+  - title: "Minimal TLS version setting is now available for Azure Database for PostgreSQL"
+    excerpt: ""
+    publishedDateTime: 2020-06-04T17:00:39Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-minimal-tls-version/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 73
   - title: "One-year and three-year reserved capacity for Azure Database for PostgreSQL—Hyperscale (Citus)"
     excerpt: ""
     publishedDateTime: 2020-06-01T16:00:13Z

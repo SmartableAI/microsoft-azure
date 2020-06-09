@@ -23,97 +23,45 @@ topics:
   - Azure
 
 related:
-  - title: "Microsoft beats quarterly revenue estimates on cloud boost"
-    excerpt: "Microsoft Corp reported quarterly revenue above Wall Street estimates on Wednesday, powered by another strong performance from its cloud service Azure as the coronavirus outbreak and home sheltering lead to more people working from home."
-    publishedDateTime: 2020-04-29T20:22:00Z
-    webUrl: "https://www.reuters.com/article/us-microsoft-results-idUSKBN22B34B"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN22B34B"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22B34B"
+  - title: "Microsoft Q3 strong as remote work propels Teams, Office 365, Azure"
+    excerpt: "Most every organization has been thrust into the future of work faster than prognosticators dared imagine. What will determine failure or success in this brave new world of work? Read More Microsoft crushed expectations for its third quarter as the company saw strong demand among its cloud services."
+    publishedDateTime: 2020-04-30T00:28:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-q3-strong-as-remote-work-propels-teams-office-365-azure/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-q3-strong-as-remote-work-propels-teams-office-365-azure/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-q3-strong-as-remote-work-propels-teams-office-365-azure/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 102
+      name: ZDNet
+      domain: zdnet.com
+    quality: 117
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200429&t=2&i=1516924789&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG3S223"
-        width: 817
-        height: 545
-  - title: "Microsoft Earnings Jump, Aided by Cloud-Computing Demand During Pandemic"
-    excerpt: "Microsoft reported strong growth in quarterly sales and profit and said the shift of more activities online amid the coronavirus pandemic is helping propel growth in areas from cloud-computing to videogames."
-    publishedDateTime: 2020-04-30T04:31:00Z
-    webUrl: "https://www.wsj.com/articles/microsoft-earnings-jump-aided-by-cloud-computing-demand-during-pandemic-11588192187"
-    ampWebUrl: "https://www.wsj.com/amp/articles/microsoft-earnings-jump-aided-by-cloud-computing-demand-during-pandemic-11588192187"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/microsoft-earnings-jump-aided-by-cloud-computing-demand-during-pandemic-11588192187"
+      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/04/29/f325a6df-81d8-47c5-bc6d-961b37642592/msft-q3-2020-commercial-cloud-revenue.png"
+        width: 1337
+        height: 779
+  - title: "DHS Shares Cloud, Microsoft Office 365 Insights for COVID-19 Telework"
+    excerpt: "The latest COVID-19 telework cybersecurity guidance comes from DHS CISA, urging organizations to ensure their Microsoft O365 and other cloud services are secured and using multi-factor authentication."
+    publishedDateTime: 2020-04-30T16:09:00Z
+    webUrl: "https://healthitsecurity.com/news/dhs-shares-cloud-microsoft-office-365-insights-for-covid-19-telework"
+    ampWebUrl: "https://healthitsecurity.com/news/amp/dhs-shares-cloud-microsoft-office-365-insights-for-covid-19-telework"
+    cdnAmpWebUrl: "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/news/amp/dhs-shares-cloud-microsoft-office-365-insights-for-covid-19-telework"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 101
-    images:
-      - url: "https://images.wsj.net/im-181683/social"
-        width: 1280
-        height: 640
-  - title: "Microsoft tops $10 billion in earnings, beating even pre-coronavirus expectations"
-    excerpt: "Microsoft Corp. outperformed the financial expectations that it faced even before the coronavirus in an earnings report Wednesday, sending shares"
-    publishedDateTime: 2020-04-29T19:17:00Z
-    webUrl: "https://www.marketwatch.com/story/microsoft-tops-10-billion-in-earnings-beating-even-pre-coronavirus-expectations-2020-04-29"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/guid/7444C824-8A48-11EA-805E-BE7772630DE1"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/7444C824-8A48-11EA-805E-BE7772630DE1"
+      name: IT Security
+      domain: healthitsecurity.com
+    quality: 32
+  - title: "Microsoft sales rise as remote working buoys cloud services"
+    excerpt: "Microsoft so far has thrived during the Covid-19 pandemic because of its focus on cloud offerings, like Office productivity tools, Azure services and subscription programs that are less vulnerable to spending slumps."
+    publishedDateTime: 2020-04-30T14:15:00Z
+    webUrl: "https://www.benefitnews.com/articles/microsoft-sales-rise-as-remote-working-buoys-cloud-services"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 97
+      name: Employee Benefit News
+      domain: benefitnews.com
+    quality: 32
     images:
-      - url: "https://s.marketwatch.com/public/resources/images/MW-HY843_Micros_ZH_20200122191821.jpg"
-        width: 890
-        height: 501
-  - title: "Microsoft blames coronavirus-related supply chain constraints for its cloud capacity issues"
-    excerpt: "Microsoft has struggled at times to keep up with the huge demand for its cloud services, as people work from home more."
-    publishedDateTime: 2020-04-29T21:37:00Z
-    webUrl: "https://www.businessinsider.com/microsoft-coronavirus-supply-chain-constraints-2020-4"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
-    images:
-      - url: "https://i.insider.com/5dfbb9b6855cc26de1630123?width=1200&format=jpeg"
+      - url: "https://arizent.brightspotcdn.com/dims4/default/f81971f/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2F19%2F0d%2Fd64fb71f4b8da9c9945463d4b153%2Fmicrosoft.Bloomberg.jpg"
         width: 1200
-        height: 600
-  - title: "Microsoft weathers the coronavirus storm, posting earnings boost from its cloud business"
-    excerpt: "Even as much of the global economy has shutdown amid the coronavirus pandemic, Microsoft recorded huge revenue gains in its fiscal third quarter as homebound workers turned to its cloud-computing services to get their jobs done."
-    publishedDateTime: 2020-04-29T20:33:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2020/04/29/microsoft-earnings-coronavirus/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2020/04/29/microsoft-earnings-coronavirus/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/04/29/microsoft-earnings-coronavirus/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 53
-    images:
-      - url: "https://www.washingtonpost.com/resizer/iAwDp1yG46qwbRqde_rAAu43rKI=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RBIUICTQDUI6TEZRGC6FQNXURY.jpg"
-        width: 1440
-        height: 917
-  - title: "Microsoft's cloud business helps offset pandemic woes"
-    excerpt: "Ongoing demand for Microsoft's cloud computing services help softened the blow of the coronavirus pandemic on the software giant's other products during the first three months of the year. The company on Wednesday reported fiscal third-quarter profit of $10."
-    publishedDateTime: 2020-04-29T21:23:00Z
-    webUrl: "https://www.chron.com/business/article/Microsoft-s-cloud-business-helps-offset-pandemic-15235193.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 2
-  - title: "Microsoft's cloud business helps offset pandemic woes"
-    excerpt: "Ongoing demand for Microsoft's cloud computing services help softened the blow of the coronavirus pandemic on the software giant's other products during the first three months of the year. The company on Wednesday reported fiscal third-quarter profit of $10."
-    publishedDateTime: 2020-04-30T05:30:00Z
-    webUrl: "https://www.sfgate.com/business/article/Microsoft-s-cloud-business-helps-offset-pandemic-15235193.php"
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 2
+        height: 630
 
 secured: "8+xOj5xlOGLpZcAdQriAdDDn9stbc/GcJxA2dPn1xd0fcq++bxp3xIu8yezsraqz+cdFlA5fArP1pSgevHeut5KvGTqFTTDPXHYGN3zgR4tU5JWvIDgmSEOda9yXQUJCe+mPc77b1RYw89IJ+muyjISSBDbuLhgg+FbH8WTLe+11QFZnhoH6cNuCjjYRd2IeZqilUUQgAFOK9iynrBe9nwN0E4Ylkt6p+3bEk+QddFW1gyQYh8HHCjbP+kpHBAI6RJWRAEzswyAJf4eKfbuLZTqLPugPp04FPyUMCq9+Jd+mN8ALOWNkGHnGrFdC63ri5iZxr8sYjPwOmIhFnEHEtM32L0W6OStHTQwULbeMKmWCLaZi89FPw3ycoqKlguGhNw5aNjbNYAsy2gX/Ss0NztgYQEh6bbJT5VC3hdZLgGzg5E1odgeD4K7uybhE55zYLIv/Fnpq9poFOQmBEvL2pxqFfdkoOa9DGRl1Y19kojo=;0e8K7sxc4vzIhL7xVvu3sg=="
 ---

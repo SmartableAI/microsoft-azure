@@ -38,6 +38,21 @@ related:
       - url: "https://media.itpro.co.uk//image/upload/v1589818624/itpro/shutterstock_357803588.jpg"
         width: 2957
         height: 1958
+  - title: "FedEx and Microsoft Form A New Partnership"
+    excerpt: "The partnership has already produced a solution aimed at helping companies improve their supply chain efficiency."
+    publishedDateTime: 2020-05-18T15:42:00Z
+    webUrl: "https://www.fool.com/investing/2020/05/18/fedex-and-microsoft-create-an-exciting-new-partner.aspx"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/05/18/fedex-and-microsoft-create-an-exciting-new-partner.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/18/fedex-and-microsoft-create-an-exciting-new-partner.aspx"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 102
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F574884%2Fgettyimages-1162624331.jpg&w=1200&op=resize"
+        width: 1200
+        height: 800
 
 secured: "ly7F5AKV1BXxFllALu0zfiCY6QMsMt6dF9UkOqzhiZO9DiHZph0yN3aKtXatF9fAVaQxiqr+EdDxvvEtz+9s1fmE5NgzzG5gdSie+/BPAjjSo9Hn1UPKHyHEJoXmfRItDAx1cAi97pVIcq5QcR+6H4DzH1NxOU+ijdx/mRfvv/1aETQnHAlhe0gWOJL+9eiG7kFY0MtAj9sMw4Qn+fRTiB7XtgfHwR90SyQ808DNIwV47mD6K9KNtjUmzHoXx0v6HICzLgqg4WOYu5wEZ8DQ95zYVxFCR4R0513KxyOMlrPjqTNM86JwmGc/RipHfmIw+rQk0Oq6lMSd/24KOus7P56O2qHLsDPa9YZntQZqusgM8G9iSZdPYB1NRFw1QWPyWtLBc7rYSk0KGAUm7Cwun/B4a+ussCrFZRZhSJaglW/NnlDygTUyCmTsQOFsPbSzOUC03RMKCFoXejqSZfWGcNtQI5dXqQ4MdBPwVNJ7Beo=;z7exzvlTfUvMq6Z7FZa6jw=="
 ---

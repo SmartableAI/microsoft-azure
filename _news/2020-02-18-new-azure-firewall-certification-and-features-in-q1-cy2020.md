@@ -41,6 +41,15 @@ related:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/35eac5bb-b137-49ca-b783-a4321ac7ffbf.jpg"
         width: 1024
         height: 471
+  - title: "Azure Virtual Network now supports reverse DNS lookup"
+    excerpt: ""
+    publishedDateTime: 2020-04-14T00:00:09Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-reverse-dns-support-in-azure-virtual-networks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
 
 secured: "04iGgyGSnr19w9tZ0Dg+3vtFYe8pxQLYPwg+/r01qmwr4e4LBMfouecvQCcZECKlapHwjdgi8/kxiEnFs3HMbvsdZ6h7E4Ga0snqB6a09cWCa0eRtziDFz8l0d5MwRtdSRneg3RAF4fL2nB3f/ljoDKzPOOidOIN1XFfhJFtLa03PhV/dXYwRvCXbPG7z+7o8ukIWCr/nH9gDKE8UZ4Geai3wqb2UOji0zw8pq105eevIHRg2w2zx25EyoWXrnTmlZA0zpTNnbruhCq+I5dtriMXuX4bIKqQHvrmAbQx7jK4Fz7OmzrsiiimuwxJ6/M19GQy1m6r0IwX6VF8Sf/Nng==;TuHO/mOz1HD5AtGolAO8cg=="
 ---

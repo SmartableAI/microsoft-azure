@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-bosque-is-a-new-p
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-bosque-is-a-new-programming-language-built-for-ai-in-the-cloud/"
 type: article
 quality: 101
-heat: 101
+heat: 141
 published: true
 
 provider:
@@ -27,6 +27,34 @@ images:
     width: 1200
     height: 675
     title: "Microsoft: Bosque is a new programming language built for AI in the cloud"
+
+related:
+  - title: "Microsoft provides insight into its programming language Bosque"
+    excerpt: "Microsoft Research announced new capabilities that it is building for its new Bosque programming language project created to support automated reasoning tools."
+    publishedDateTime: 2020-05-15T15:28:00Z
+    webUrl: "https://sdtimes.com/cloud/microsoft-provides-insight-into-its-programming-language-bosque/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 72
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2020/05/bosque_code_sample.png"
+        width: 1022
+        height: 716
+  - title: "Ingram Micro Cloud Unveils Microsoft Remote Work Rebate Program"
+    excerpt: "Ingram Micro Cloud today announced its new Microsoft Remote Work Rebate Program for its resellers and their customers. As an extension of Microsoft’s"
+    publishedDateTime: 2020-05-11T23:37:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200511005966/en/Ingram-Micro-Cloud-Unveils-Microsoft-Remote-Work"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 32
+    images:
+      - url: "https://mms.businesswire.com/media/20200511005966/en/790978/23/IMC_landscape_tagline.jpg"
+        width: 1200
+        height: 627
 
 secured: "zUMa6nHk7fazgpoNS+aKMfujR8cf7aFB/nOncFGqjdoZBkLUlu5AGXmVmx+BoLZTycc9ZWhYF4Nr4lVoXGOxU6npOsgWfWf4XqvjAiOlkotucXvL3qIbEubk20OsMK+7nTw0zWuXoPlLxq0VE4eye8Gx3RDwAH5ZR7bV1nTC9wvILmyRWO4Q9FRK6dJUB27BvU7HcCKdXG3426JJ2wdqRIjTNvvcxl95mC/eJMfeb36uj8WFfbsB43f/QJ36X8E1WNjvea9ymCC0AZo6VMP8OkiMJ3N9L/LsecEd/MwiWwwx9tYDT2COqpahRRffiPDG;P0AtGGLyNT2gVKs4p2zIzQ=="
 ---

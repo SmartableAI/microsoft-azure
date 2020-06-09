@@ -40,21 +40,6 @@ related:
       - url: "https://www.thenewsminute.com/sites/default/files/microsoft_750_7.jpg"
         width: 750
         height: 500
-  - title: "Microsoft claims AWS has used new JEDI mind trick with secret contract objection filing"
-    excerpt: "Amazon.com has filed a second, secret, appeal at the decision to award Microsoft the $10bn Pentagon Joint Enterprise Defense Infrastructure (JEDI) contract. So says Microsoft corp"
-    publishedDateTime: 2020-05-08T09:07:00Z
-    webUrl: "https://www.theregister.co.uk/2020/05/08/new_jedi_contract_objection/"
-    ampWebUrl: "https://www.theregister.co.uk/AMP/2020/05/08/new_jedi_contract_objection/"
-    cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/08/new_jedi_contract_objection/"
-    type: article
-    provider:
-      name: The Register
-      domain: theregister.co.uk
-    quality: 54
-    images:
-      - url: "https://regmedia.co.uk/2017/12/19/lightsaber.jpg"
-        width: 648
-        height: 432
   - title: "Amazon Web Services and Microsoft engage in heated public spat over $10bn cloud project"
     excerpt: "After Microsoft slammed Amazon's Cloud arm for challenging the US government's decision to award $10 billion Pentagon Cloud project to Satya Nadella-run enterprise, Amazon Web Services (AWS) has hit back,"
     publishedDateTime: 2020-05-10T04:30:00Z
@@ -70,6 +55,26 @@ related:
       - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2020/05/09/118543-singhvi-chouhan.jpg?itok=4uLSp1Pb"
         width: 700
         height: 393
+  - title: "Microsoft slams AWS for blocking $10bn Pentagon project"
+    excerpt: "In a statement, Frank X Shaw who is Corporate Vice President, Communications at Microsoft said that this latest roadblock is disappointing but not surprising."
+    publishedDateTime: 2020-05-08T08:47:00Z
+    webUrl: "https://www.hindustantimes.com/tech/microsoft-slams-aws-for-blocking-10bn-pentagon-project/story-qHHGKSjsW6ZS2BcP2EiX0M.html"
+    ampWebUrl: "https://m.hindustantimes.com/tech/microsoft-slams-aws-for-blocking-10bn-pentagon-project/story-qHHGKSjsW6ZS2BcP2EiX0M_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/microsoft-slams-aws-for-blocking-10bn-pentagon-project/story-qHHGKSjsW6ZS2BcP2EiX0M_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 32
+  - title: "Microsoft slams Amazon's Cloud arm for blocking $10bn Pentagon project"
+    excerpt: "Microsoft has come out in the open against ecommerce giant Amazon's Cloud arm, slamming Amazon Web Services (AWS) for once again challenging the US government's decision to award $10 billion Pentagon Cloud project to Satya Nadella-run enterprise - this time out of view from the public and directly with the US Department of Defense (DoD)."
+    publishedDateTime: 2020-05-08T10:26:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20200508/3554531.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 2
   - title: "AWS and Microsoft engage in heated public spat over $10bn cloud project"
     excerpt: "After Microsoft slammed Amazon's Cloud arm for challenging the US government's decision to award $10 billion Pentagon Cloud project to Satya Nadella-run enterprise, Amazon Web Services (AWS) has hit back,"
     publishedDateTime: 2020-05-09T10:58:00Z

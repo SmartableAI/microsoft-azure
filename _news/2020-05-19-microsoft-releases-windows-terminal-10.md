@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-19T15:12:00Z
 webUrl: "https://www.thurrott.com/dev/236298/microsoft-releases-windows-terminal-1-0"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,45 @@ images:
     width: 1280
     height: 720
     title: "Microsoft Releases Windows Terminal 1.0"
+
+related:
+  - title: "Microsoft Updates Windows, Azure Tools with an Eye on The Future"
+    excerpt: "Build conference, Microsoft addressed some past missteps on development, while expanding its GitHub, Visual Studio, Azure, and Office platforms."
+    publishedDateTime: 2020-05-22T13:38:00Z
+    webUrl: "https://www.pcmag.com/news/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future"
+    ampWebUrl: "https://www.pcmag.com/news/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=true"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 117
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/00TYN1x1sWt95nJKOcFrn8y-1.fit_lim.size_1200x630.v_1590154031.jpg"
+        width: 1120
+        height: 630
+  - title: "Microsoft Gives Azure Lighthouse MSP Tool Some Attention"
+    excerpt: "Microsoft Azure Chief Technology Officer Mark Russinovich provided an update on Azure Lighthouse progress in a blog post in the wake of Build, Microsoft's biggest annual conference for developers."
+    publishedDateTime: 2020-05-27T19:51:00Z
+    webUrl: "https://rcpmag.com/Blogs/Scott-Bekker/2020/05/Azure-Lighthouse-MSP.aspx"
+    type: article
+    provider:
+      name: Redmond Channel Partner
+      domain: rcpmag.com
+    quality: 47
+    images:
+      - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BrightTunnelSmall.jpg"
+        width: 647
+        height: 450
+  - title: "Microsoft Azure: The Winning Formula"
+    excerpt: "Microsoft's Azure platform registered a 59% revenue growth in the last quarter, fueling concerns of a slowdown and suggesting its losing ground to Amazon's AWS."
+    publishedDateTime: 2020-05-28T12:36:00Z
+    webUrl: "https://seekingalpha.com/article/4350303-microsoft-azure-winning-formula"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 17
 
 secured: "rooyMdokwZQ00Bn4zS70U3d3g9ilRryhzuJP+2h34otedFw5DS+v787/sAB6JKjibtil03wXxyxL0imF6vJ5gwBPqRaiz2j3yBJV3YhIsorHTITpfZKoP/7zG+keEvewJO5CD7n5FJgbaSzIAtmT90pq0HjMGcXrZSBRkmHfFXFjr5mQiV2gW9u2Rcd8rr+W/hwCHQb6UByiyA40CDB5jvON3WDlsB6q+1jTry9kbA6FhMQp3d5HAIX0f7CKyrRWIUTeyssA8E5gvDEL7+1e/Ylf4nGUS7wyvetJmgKq31Ouky0rCnzWRokKIIuOsiyS3Fvq/WX+OP4kn6iDQyBz9/fUTJP0mSVBd2I7L+rt27dBdVOp1Oz//1tjJoTvwKuwiHSVF4eVGdaMIy07p2g5XzuIIhzKOCgPunpbNqqf9pTYKXjf2UiwweCzgcDZOY1HlSIqqIj2XDNdw8FsxZ8REBxEr2NAhYzFtc8ldIJLUh8=;TdVi0DFEvrhcsEYW8HNqZw=="
 ---

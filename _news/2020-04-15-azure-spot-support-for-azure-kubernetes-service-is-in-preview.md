@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-15T16:00:02Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-spot-support-for-azure-kubernetes-service-is-in-preview/"
 type: article
 quality: 77
-heat: 77
+heat: 97
 published: true
 
 provider:
@@ -19,6 +19,17 @@ provider:
 
 topics:
   - Azure
+
+related:
+  - title: "Azure App Service support for GitHub Actions is in preview"
+    excerpt: ""
+    publishedDateTime: 2020-04-29T16:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-app-service-support-for-github-actions-is-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
 
 secured: "L+hM4JI5Yh9IGKdLWHS6y0MlEk0e6+8btrvf7JN5jqmPyVJfMaFfmrXoXslF7cc91ievVVVmY9O404o2cRkbbK0AOL2vP47TSer4C+kVIETjfI7YkCAsqijDPJDb40h9sPkCly+jX68onUVXH5C51VTHpSEIPCsSho8xXY6Frp69PPy7XziGldMZvGGa17MxhbytAZ/AZNNZ1s9bYwVwpBYO7cD5GLAP7PCU1fIcV328ZbEORIBZ52VPHwlgT2BHYDerk8rqEnllzL7CK05xwTzEYHH3zQ1TqwuuN4Cd5yms/H8HmVD3vVoF6Lkbq9UK6XPAmbFT42zn3FKYDNk9WQ==;3XJl5Hyb8FUwnjFgK3XW5Q=="
 ---

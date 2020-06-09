@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-17T21:15:00Z
 webUrl: "https://www.wsbtv.com/news/trending/microsoft-open-atlanta-office-create-1500-new-jobs/RUQ327JBBVAWNAZUZZXH62I26Y/"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,36 @@ images:
     title: "Microsoft to open Atlanta office, create 1,500 new jobs"
 
 related:
+  - title: "Microsoft to invest $75 million in creating 1,500 jobs in AI, Cloud"
+    excerpt: "Microsoft's new facility will be a client-facing workplace that will focus on AI and cloud services, including retail space for engaging directly with customers.Midtown Atlanta has become a top innova"
+    publishedDateTime: 2020-05-18T04:27:00Z
+    webUrl: "https://www.livemint.com/companies/news/microsoft-to-invest-75-million-in-creating-1-500-jobs-in-ai-cloud-11589775553701.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/microsoft-to-invest-75-million-in-creating-1-500-jobs-in-ai-cloud/amp-11589775553701.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/microsoft-to-invest-75-million-in-creating-1-500-jobs-in-ai-cloud/amp-11589775553701.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 62
+    images:
+      - url: "https://images.livemint.com/img/2020/05/18/600x338/18f773e811c64588bb749e45635cb30c-18f773e811c64588bb749e45635cb30c-1_1589775788668_1589775795557.jpg"
+        width: 600
+        height: 338
+  - title: "COVID-19 accelerating investments in cloud, AI and cybersecurity: Microsoft India President"
+    excerpt: "Microsoft India President Anant Maheshwari noted that the coronavirus pandemic has changed businesses, communities, industries and the world, forever."
+    publishedDateTime: 2020-05-16T09:43:00Z
+    webUrl: "https://yourstory.com/2020/05/coronavirus-microsoft-india-ai-cybersecurity"
+    ampWebUrl: "https://yourstory.com/2020/05/coronavirus-microsoft-india-ai-cybersecurity/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/05/coronavirus-microsoft-india-ai-cybersecurity/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 52
+    images:
+      - url: "https://images.yourstory.com/cs/1/d7f5b370208e11eabf3a639b6d05ad44/MicrosoftBringsDefenderAntivirusforLinux-1582436421058.png?fm=png&auto=format"
+        width: 1000
+        height: 502
   - title: "Microsoft opening up another office in metro Atlanta, creating 1,500 new jobs"
     excerpt: "Microsoft is investing $75 million that will create 1,500 new jobs. “We are excited that a global leader like Microsoft Corp. is expanding its investment in Georgia with tech jobs that will be truly beneficial to the company and our state,"
     publishedDateTime: 2020-05-17T18:59:00Z
@@ -36,6 +66,15 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/COEABQVPO6FT5YXM563W5YSTQY.jpg"
         width: 1200
         height: 675
+  - title: "Microsoft to invest $75mn in creating 1,500 jobs in AI, Cloud"
+    excerpt: "Tech giant Microsoft has announced to invest $75 million to build a new office at Atlanta, Georgia, by next year that will create 1,500 new jobs in the Artificial Intelligence (AI) and Cloud space. The Satya Nadella-run enterprise will expand operations in the city's midtown area in a 523,"
+    publishedDateTime: 2020-05-18T10:04:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20200518/3560343.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 2
 
 secured: "zEevExy7OLyN4GABudLRHqm+FTcN65wuIa17vLZKiiYqWWQOxHp4I74sPtR7IZTsXzmDNyd8j0zZR8a87iP6+VLQDwf0g1dxTRUyJwGNJ2yaZyZr/nshitRm2apge7VHhFMS56XCwQ8PtMQU5/wqDXJcnoUVc39KfUKVQn8r3Y53vgV3lo20fLMhYZq4DKDbrfxr5KoGYnP+nOwKwCnjtUMzGYYJgwFx4DtFDeaWxrYRpuHQmRv+hc3Mljh/gqIfSIed7BvWjzuWTsbetw3QUNNjAo1VUjkF0SUBA/Orh8unbZi/3f2mBjcFGN9uQWQqmk6HtPLKhWOmgXwRxF4IXVQFz19sqFkDsQc/AC9uYw3BDT/MvqTbMejGRqPvgWG+qtbIjjQjBojRT3tw0v+XrHJnPB3nQ3uKyX/h7D7+O+izMm23YO+Y+RiJh5M2bYFyiqU/MyjHYeonYbIIaDBRb4guPPfwq/TbabZh7VURlfE=;9gfLZn770RaGd3r3QxbdKQ=="
 ---

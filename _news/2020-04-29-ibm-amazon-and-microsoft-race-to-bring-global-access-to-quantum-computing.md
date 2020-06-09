@@ -48,6 +48,30 @@ related:
       - url: "https://cnet4.cbsistatic.com/img/EPYaz_DlJY7PMJKlvlnwMTSlej0=/756x567/2020/04/28/63f9ebde-a7ac-489b-b5c7-7587c6ab3279/ibm-system-one-quantum-ces-2020.jpg"
         width: 756
         height: 567
+  - title: "Azure Edge Zones: Microsoft’s Plan to Dominate Edge Computing and 5G"
+    excerpt: "Yousef Khalidi, corporate VP for Azure Networking, says the strategy is to build a “global computing infrastructure substrate.”"
+    publishedDateTime: 2020-05-04T13:09:00Z
+    webUrl: "https://www.datacenterknowledge.com/microsoft/azure-edge-zones-microsoft-s-plan-dominate-edge-computing-and-5g"
+    type: article
+    provider:
+      name: Data Center Knowledge
+      domain: datacenterknowledge.com
+    quality: 47
+    images:
+      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/satya%20nadella%20microsoft%20mwc%202019%20barcelona%20getty.jpg"
+        width: 1024
+        height: 683
+  - title: "Amazon and Microsoft need to give businesses a break"
+    excerpt: "A large part of managing the economic disruption from the coronavirus crisis has been keeping businesses and individuals afloat amid the shutdown of large parts of the economy. Banks, landlords, the federal government,"
+    publishedDateTime: 2020-04-26T20:31:00Z
+    webUrl: "https://www.seattletimes.com/business/amazon-and-microsoft-need-to-give-businesses-a-break/"
+    ampWebUrl: "https://www.seattletimes.com/business/amazon-and-microsoft-need-to-give-businesses-a-break/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/amazon-and-microsoft-need-to-give-businesses-a-break/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 32
 
 secured: "X+vxOssFXFSYAQvCOgU7IWA5/Ju8S1bXZxyyDRPUoQkbp8JnwzqCRa3DlMYa5PPVaYuczCYnHgEaZY820NhSpdrP+gV0khmSrZLeEp9S2GoiXdY0u+gY7WWGx4q8LbWpwv6xbpbs1jm3UhPkSsqR4yydPOQkbgAIemqH4vxmaDp1qtuiyaNTqPLGMOKHk5LCv7jVpf4rSNHzJ8qBJUOeQu08BjTbcAu3MkpTE1kekqRgghK+hAyzGQzeZYFr6B8mRUKcm/MRnt73f280FdrDkGdNbK/EtOvwz1kppCdl9BlNoNHxDDhVpTr3Xm2NJE0S;ALXKs/gTtLeh8MvAex3ubA=="
 ---

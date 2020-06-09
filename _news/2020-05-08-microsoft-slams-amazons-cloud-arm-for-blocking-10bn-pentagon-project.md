@@ -17,6 +17,51 @@ topics:
   - Azure
 
 related:
+  - title: "Microsoft, AWS in public spat over awarding of $10 billion cloud project"
+    excerpt: "After Microsoft slammed Amazon's Cloud arm for challenging the US government's decision to award $10 billion Pentagon Cloud project to the Satya Nadella-run enterprise, Amazon Web Services (AWS) has hit back,"
+    publishedDateTime: 2020-05-09T06:15:00Z
+    webUrl: "https://www.thenewsminute.com/article/microsoft-aws-public-spat-over-awarding-10-billion-cloud-project-124232"
+    ampWebUrl: "https://www.thenewsminute.com/article/microsoft-aws-public-spat-over-awarding-10-billion-cloud-project-124232?amp"
+    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/microsoft-aws-public-spat-over-awarding-10-billion-cloud-project-124232?amp"
+    type: article
+    provider:
+      name: The News Minute
+      domain: thenewsminute.com
+    quality: 61
+    images:
+      - url: "https://www.thenewsminute.com/sites/default/files/microsoft_750_7.jpg"
+        width: 750
+        height: 500
+  - title: "Amazon Web Services and Microsoft engage in heated public spat over $10bn cloud project"
+    excerpt: "After Microsoft slammed Amazon's Cloud arm for challenging the US government's decision to award $10 billion Pentagon Cloud project to Satya Nadella-run enterprise, Amazon Web Services (AWS) has hit back,"
+    publishedDateTime: 2020-05-10T04:30:00Z
+    webUrl: "https://www.zeebiz.com/companies/news-amazon-web-services-and-microsoft-engage-in-heated-public-spat-over-10bn-cloud-project-126391"
+    ampWebUrl: "https://www.zeebiz.com/companies/news-amazon-web-services-and-microsoft-engage-in-heated-public-spat-over-10bn-cloud-project-126391/amp"
+    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/companies/news-amazon-web-services-and-microsoft-engage-in-heated-public-spat-over-10bn-cloud-project-126391/amp"
+    type: article
+    provider:
+      name: Zee Business
+      domain: zeebiz.com
+    quality: 54
+    images:
+      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2020/05/09/118543-singhvi-chouhan.jpg?itok=4uLSp1Pb"
+        width: 700
+        height: 393
+  - title: "Amazon, Microsoft engage in heated public spat over USD 10 billion-worth Pentagon Cloud project"
+    excerpt: "While Amazon said that Microsoft has published multiple self-righteous and 'misleading' blog posts, the Satya Nadella-run firm said that 'such roadblock is disappointing but not surprising'."
+    publishedDateTime: 2020-05-09T05:42:00Z
+    webUrl: "https://www.newindianexpress.com/business/2020/may/09/amazon-microsoft-engage-in-heated-public-spat-over-usd-10-billion-worth-pentagon-cloud-project-2141152.html"
+    ampWebUrl: "https://www.newindianexpress.com/business/2020/may/09/amazon-microsoft-engage-in-heated-public-spat-over-usd-10-billion-worth-pentagon-cloud-project-2141152.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2020/may/09/amazon-microsoft-engage-in-heated-public-spat-over-usd-10-billion-worth-pentagon-cloud-project-2141152.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 50
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/5/9/w600X390/Microsoft-Amazon.jpg"
+        width: 600
+        height: 390
   - title: "Microsoft slams AWS for blocking $10bn Pentagon project"
     excerpt: "In a statement, Frank X Shaw who is Corporate Vice President, Communications at Microsoft said that this latest roadblock is disappointing but not surprising."
     publishedDateTime: 2020-05-08T08:47:00Z
@@ -28,6 +73,15 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 32
+  - title: "AWS and Microsoft engage in heated public spat over $10bn cloud project"
+    excerpt: "After Microsoft slammed Amazon's Cloud arm for challenging the US government's decision to award $10 billion Pentagon Cloud project to Satya Nadella-run enterprise, Amazon Web Services (AWS) has hit back,"
+    publishedDateTime: 2020-05-09T10:58:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20200509/3555183.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 2
 
 secured: "PSsbOIgJEBDjdPXkWQr304iOFYvfuXRXdeMCOd4TqJFYWaui22JhcvkOK7hj0UL9TSJxj2bPI5sevRIAdCmbfUcLRy6ZN0tVSiM/q6SO0Dd4hGQj8JIjINTv0P8slUqdl/arj0qNfTHZ69Sk9hGrvMPxRI8BHA0UUl+YQlgbPXsLRW9xBWnUHGFaImgTh9iOk2zn2ew5nbI9wpkoO+25b2qWIaMIhRcSW4CNml8P07UcdmvV6TutpohJ4ClGOAmYHTLbnvImX5eXSlXXadPiD1OPIgYa5VqsSKoGcN08dzUECWZYj22f7jpN+DvAe7Fo;A3reKt42RNCmUXEGlPzKLw=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2020-05-19T16:05:40Z
 webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-extensions-for-visual-studio-code/"
 type: article
 quality: 77
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -21,10 +21,10 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Databases extension for Visual Studio Code"
+  - title: "New Azure API Management Visual Studio Code extension now available"
     excerpt: ""
-    publishedDateTime: 2020-05-28T16:00:15Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-databases-extension-for-visual-studio-code/"
+    publishedDateTime: 2020-04-13T16:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-vs-code-extension-update-april-2020/"
     type: article
     provider:
       name: Microsoft

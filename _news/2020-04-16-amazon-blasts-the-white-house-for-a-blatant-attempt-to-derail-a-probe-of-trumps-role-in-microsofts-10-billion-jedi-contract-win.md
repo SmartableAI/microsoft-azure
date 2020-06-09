@@ -27,36 +27,21 @@ images:
     title: "Amazon blasts the White House for a 'blatant attempt' to derail a probe of Trump's role in Microsoft's $10 billion JEDI contract win"
 
 related:
-  - title: "DoD: Pentagon okay in giving $10B ‘war cloud’ contract to Microsoft over Amazon"
-    excerpt: "The Pentagon’s watchdog has no real beef with the awarding of a $10 billion ‘war cloud’ contract to Microsoft over Amazon, despite admitting it can’t completely prove that Trump‘s White House didn’t interfere. In a massive 313-page report released Wednesday, the Defense Department‘s (DoD) inspector general deemed the contract’s ..."
-    publishedDateTime: 2020-04-16T16:58:00Z
-    webUrl: "https://thenextweb.com/hardfork/2020/04/16/dod-pentagon-okay-in-giving-10b-war-cloud-contract-to-microsoft-over-amazon/"
-    ampWebUrl: "https://thenextweb.com/hardfork/2020/04/16/dod-pentagon-okay-in-giving-10b-war-cloud-contract-to-microsoft-over-amazon/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/hardfork/2020/04/16/dod-pentagon-okay-in-giving-10b-war-cloud-contract-to-microsoft-over-amazon/amp/"
+  - title: "Pentagon IG: No proof White House interfered in $10B Microsoft contract"
+    excerpt: "A $10 billion JEDI cloud contract the Department of Defense awarded to Microsoft doesn't appear to have been improperly influenced by the White House, a Pentagon watchdog said Wednesday."
+    publishedDateTime: 2020-04-16T00:24:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/04/15/Pentagon-IG-No-proof-White-House-interfered-in-10B-Microsoft-contract/2041586970851/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/04/15/Pentagon-IG-No-proof-White-House-interfered-in-10B-Microsoft-contract/2041586970851/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/04/15/Pentagon-IG-No-proof-White-House-interfered-in-10B-Microsoft-contract/2041586970851/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 98
+      name: UPI.com
+      domain: upi.com
+    quality: 62
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/11/Amazon-cloud-796x404.jpg"
-        width: 796
-        height: 404
-  - title: "DoD clears Microsoft's JEDI contract award, can't \"definitively determine\" that political interference took place"
-    excerpt: "The DoD's Inspector General has cleared Microsoft's $10 billion JEDI contract after no evidence of wrongdoing was found. It also noted that awarding the project to a single company as opposed to dividing it among competitors was in line with \"applicable acquisition standards.\" This comes after Amazon disputed the decision alleging that ..."
-    publishedDateTime: 2020-04-16T18:53:00Z
-    webUrl: "https://www.techspot.com/news/84853-dod-clears-microsoft-jedi-contract-award-cant-definitively.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/84853-dod-clears-microsoft-jedi-contract-award-cant-definitively.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84853-dod-clears-microsoft-jedi-contract-award-cant-definitively.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 81
-    images:
-      - url: "https://www.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-13-ts3_thumbs-023.jpg"
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/2041586970851/2020/1/05336528eb81c90191c1c01e6fd6d80b/v1.5/Pentagon-IG-No-proof-White-House-interfered-in-10B-Microsoft-contract.jpg"
         width: 800
-        height: 560
+        height: 533
 
 secured: "TlnwCIIQ2FzaDANKRKXi97emzPXD2Sha/dCalwnXDjq+KiSoX8JF6Icw60GqVVXPWHtPXazkyozh60eG2vBx3Au7YSOcHXB9PSru8YyeY/0e2+k+8pq1vf36HLtjXxkEF0avBCKKKrrguxyDEFU8JgQRAIursdCXSxdfWEZyz0QcX+B9IczxAA5kyP9rlY2WggvTbAVwJRn4WDN+wr2xwuW1TyiUQ6q3FMpoakUKPy7OtwZkFqOWKioe6C8fO09fSuzsGuPUMV62f3ToAersOuQTLnSz4+JDpTJPhfFrkAKil39IzwjIJ4bwcn1FB/i0RFtffCiT3Dln32R+ajZVwQQXrjwTe8fO2ZCXNFz36l6UOX+OMFp1/AM60SgwiHMDtgzBHPe9NcNWsy7ewucUL2IQLDLSVzOhcy6vQklzOMTvs+fUcbpaoQT1ASMgbLLbNbuRaZuMdGhWV4k0XS6cm7TsO/seggc6LqwD+PUmY7M=;I6EqWfU6VC8VZgDy7wAxyw=="
 ---

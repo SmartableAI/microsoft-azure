@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/15965315"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15965315"
 type: article
 quality: 9
-heat: -1
+heat: 9
 published: false
 
 provider:
@@ -17,19 +17,6 @@ provider:
 
 topics:
   - Azure
-
-related:
-  - title: "Insights on the Worldwide Cloud Gaming Industry to 2025 - Featuring Nvidia, Intel & Google Among Others"
-    excerpt: "The Global Cloud Gaming Market is expected to grow at a robust rate during the forecast period. The Global Cloud Gaming Market is driven by the increasing smartphone proliferation and internet penetration."
-    publishedDateTime: 2020-05-12T09:43:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/05/g16008015/insights-on-the-worldwide-cloud-gaming-industry-to-2025-featuring-nvidia-intel-google-among-others"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16008015"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16008015"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 16
 
 secured: "OGjJXcD1fo5N0s/KfNW4RtxrhtCsFAmGqVg6uKlYAW9Uft1T9piIsw1ugdOaQvFuT+14bxgiOE81d/rnBUUDFF0wEcKCxdJ5n+1UDwLLS4TrIg8Cdr3c3YNJILKgJwN3qrxznRx31ymskCV6PVOZB1mZ5tWGYovDcPyi0aBxm0DxWv+6AvN5WCIQIWLPI1nixq/opaKJA7YDxGIpujfL+w0LstSxSSWPZYENmwIxAAaztaDHIzaJnU1HZnnivJFPeedWEXI/E9N8rEwNnXic11KyMEmahLhDh1M17Z9Y1h++NKO7xDa/f8yg+mTvCBhg;DbuGKMSbGCGgMDelL5nTfQ=="
 ---

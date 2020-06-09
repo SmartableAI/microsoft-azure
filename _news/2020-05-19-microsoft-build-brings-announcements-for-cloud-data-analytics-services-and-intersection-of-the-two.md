@@ -29,107 +29,62 @@ images:
     title: "Microsoft Build brings announcements for cloud data, analytics services, and intersection of the two"
 
 related:
-  - title: "Azure Arc, Microsoft’s service for managing cloud resources anywhere, is now in public preview"
-    excerpt: "At its Build developer conference, Microsoft today announced that Azure Arc, its service for managing cloud resources anywhere, including competing clouds like AWS and GCP and platforms like Red Hat’s Open Shift,"
-    publishedDateTime: 2020-05-19T15:07:00Z
-    webUrl: "https://techcrunch.com/2020/05/19/azure-arc-microsofts-service-for-managing-cloud-resources-anywhere-is-now-in-public-preview/"
-    ampWebUrl: "https://techcrunch.com/2020/05/19/azure-arc-microsofts-service-for-managing-cloud-resources-anywhere-is-now-in-public-preview/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/azure-arc-microsofts-service-for-managing-cloud-resources-anywhere-is-now-in-public-preview/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 105
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/05/IMG_20191104_091357.jpg?w=1024"
-        width: 1024
-        height: 686
-  - title: "How to watch Microsoft’s Build conference"
-    excerpt: "Microsoft will host 48 hours of non-stop Build content in different time zones starting at 8AM PT / 11AM ET today. You’ll be able to tune into the main keynotes, replay them later, and register for multiple sessions that are also replayed at different hours of the day."
-    publishedDateTime: 2020-05-19T11:03:00Z
-    webUrl: "https://www.theverge.com/2020/5/19/21263383/microsoft-build-live-stream-watch-how-to-event-announcements"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/19/21263383/microsoft-build-live-stream-watch-how-to-event-announcements"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/19/21263383/microsoft-build-live-stream-watch-how-to-event-announcements"
+  - title: "The biggest announcements from Microsoft Build 2020"
+    excerpt: "Faced with the same circumstances, Microsoft chose to do something remarkable with its developer conference: it put on a developer keynote. By subscribing, you are agreeing to receive a daily newsletter from The Verge that highlights top stories of the day,"
+    publishedDateTime: 2020-05-20T12:00:00Z
+    webUrl: "https://www.theverge.com/2020/5/20/21264363/microsoft-build-2020-top-news-annoucements-fluid-office-windows-reunion-edge"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/20/21264363/microsoft-build-2020-top-news-annoucements-fluid-office-windows-reunion-edge"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/20/21264363/microsoft-build-2020-top-news-annoucements-fluid-office-windows-reunion-edge"
     type: article
     provider:
       name: The Verge
       domain: theverge.com
     quality: 102
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/A0qSlkmYYXZrzHTj7PIDFJAR7J8=/0x0:3000x1984/1400x933/filters:focal(1260x752:1740x1232):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66814907/518216764.jpg.0.jpg"
+      - url: "https://cdn.vox-cdn.com/thumbor/DLpMOz4jmOEGQJb21UUFtRfAEro=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66819966/twarren_180507_2536_0001.5.jpg"
         width: 1400
         height: 933
-  - title: "Microsoft launches new tools for building fairer machine learning models"
-    excerpt: "At its Build developer conference, Microsoft today put a strong emphasis on machine learning but in addition to plenty of new tools and features, the company also highlighted its work on building more responsible and fairer AI systems — both in the Azure cloud and Microsoft’s"
-    publishedDateTime: 2020-05-19T15:14:00Z
-    webUrl: "https://techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/"
-    ampWebUrl: "https://techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/amp/"
+  - title: "Microsoft Weekly: Build 2020, related updates, and Minecraft at 200 million"
+    excerpt: "Unsurprisingly, Microsoft's Build 2020 virtual event took place this week, where the firm announced new things coming to Azure, Edge, plus much more. Be sure to catch up via our overview."
+    publishedDateTime: 2020-05-24T14:32:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-weekly-build-2020-related-updates-and-minecraft-at-200-million"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-weekly-build-2020-related-updates-and-minecraft-at-200-million/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-weekly-build-2020-related-updates-and-minecraft-at-200-million/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 101
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2016/09/gettyimages-452481532.jpg?w=1024"
-        width: 1024
-        height: 683
-  - title: "Microsoft's Cloud for Healthcare is an elaborate suite of telehealth tools"
-    excerpt: "Microsoft Cloud for Healthcare is now available in a public preview and as a free six-month trial. Microsoft’s service is also designed to make it easier for care teams to work across the many parts of America’s dizzying healthcare infrastructure."
-    publishedDateTime: 2020-05-19T15:05:00Z
-    webUrl: "https://www.engadget.com/microsoft-cloud-for-healthcare-150051142.html"
-    ampWebUrl: "https://www.engadget.com/amp/microsoft-cloud-for-healthcare-150051142.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-cloud-for-healthcare-150051142.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
+      name: Neowin
+      domain: neowin.net
     quality: 100
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-05%2Fa0edfd10-9956-11ea-bf56-d8317e33c37c&client=amp-blogside-v2&signature=ba67488c1e6727b316ffc4eea32d47020ae36a8c"
-        width: 600
-        height: 350
-  - title: "‘This Is The Time’: Microsoft CEO Satya Nadella Talks Software’s Role In COVID-19 Response And Recovery"
-    excerpt: "CEO Satya Nadella talks the role of software and developers in COVID-19 response and what Microsoft has learned from working from home in an exclusive video interview ahead of the company's Build developer conference."
-    publishedDateTime: 2020-05-19T15:02:00Z
-    webUrl: "https://www.forbes.com/sites/alexkonrad/2020/05/19/microsoft-ceo-satya-nadella-talks-software-in-covid-19-response/"
-    ampWebUrl: "https://www.forbes.com/sites/alexkonrad/2020/05/19/microsoft-ceo-satya-nadella-talks-software-in-covid-19-response/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexkonrad/2020/05/19/microsoft-ceo-satya-nadella-talks-software-in-covid-19-response/amp/"
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/05/1590330181_msw-20200524_story.jpg"
+        width: 760
+        height: 428
+  - title: "Microsoft Build 2020: Everything announced and then some"
+    excerpt: "Microsoft Build 2020 kicked off Tuesday with a digital event that featured multiple sessions as well as a host of announcements aimed at developers. Simply put, Microsoft Build ha"
+    publishedDateTime: 2020-05-19T17:44:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-build-2020-everything-announced-and-then-some/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-build-2020-everything-announced-and-then-some/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-build-2020-everything-announced-and-then-some/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ec3edbee25ff100063bf727%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1918%26cropY1%3D0%26cropY2%3D1079"
-        width: 1200
-        height: 675
-  - title: "Meet Microsoft Cloud for Healthcare, Microsoft’s first industry-specific cloud solution"
-    excerpt: "Microsoft made great progress in the health care related business. Today, Microsoft is announcing Microsoft Cloud for Healthcare, its first industry-specific cloud solution."
-    publishedDateTime: 2020-05-19T15:02:00Z
-    webUrl: "https://mspoweruser.com/meet-microsoft-cloud-for-healthcare-solution/"
-    ampWebUrl: "https://mspoweruser.com/meet-microsoft-cloud-for-healthcare-solution/amp/"
-    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/meet-microsoft-cloud-for-healthcare-solution/amp/"
+      name: ZDNet
+      domain: zdnet.com
+    quality: 72
+  - title: "Microsoft teases Edge for Linux at Build 2020"
+    excerpt: "Edge is already available on iOS, Android, Mac, Windows 10 and Windows 7, and we have known since December 2019 that Microsoft is working on Edge for Linux also, after Microsoft confirmed the development at Ignite 2019."
+    publishedDateTime: 2020-05-20T00:19:00Z
+    webUrl: "https://mspoweruser.com/microsoft-teases-edge-for-linux-at-build-2020/"
+    ampWebUrl: "https://mspoweruser.com/microsoft-teases-edge-for-linux-at-build-2020/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-teases-edge-for-linux-at-build-2020/amp/"
     type: article
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 54
+    quality: 62
     images:
-      - url: "https://mspoweruser.com/wp-content/uploads/2019/01/Azure-Cloud.jpg"
-        width: 918
-        height: 516
-  - title: "Microsoft unveils cloud tools tailored for health care systems"
-    excerpt: "Microsoft Cloud for Healthcare includes tools that allow for digital triage, telemedicine and coordination of care using internet-based services, chat and conferencing apps. The product was unveiled in a virtual version of the annual Build conference for developers,"
-    publishedDateTime: 2020-05-20T06:01:00Z
-    webUrl: "https://www.seattletimes.com/business/microsoft/microsoft-unveils-cloud-tools-tailored-for-health-care-systems/"
-    ampWebUrl: "https://www.seattletimes.com/business/microsoft/microsoft-unveils-cloud-tools-tailored-for-health-care-systems/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/microsoft/microsoft-unveils-cloud-tools-tailored-for-health-care-systems/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 32
+      - url: "https://mspoweruser.com/wp-content/uploads/2019/11/Microsoft-Edge-logos.jpg"
+        width: 811
+        height: 401
 
 secured: "KmZm1TPmkpxzlpCARBJb5HmiLABalcMTnFDYJTMuh6YJ+xr8YWwUntl2jb3UDfDWAsRNq70Ql7AdBVCRMt95XwVQNJwKSDKXmB8yiCSEKaqFNRZDFGx1MlBDh2j56hDh6yPjblgKZqKIxpyjBYCb3UtIuTMGmqlAt4jeyfEzpJIFqUQhGv9PxEDDozv/wFqktCWaIJmghR3btl+74u7VXVTLpAC4VWoCFq0TBjOpMTV892Ok6YOUf35TrAWyX8VLW/leD4a/dXToFt545odVSYwXUwRoYphXSdusBITfkYOU4ErLfF0MFqVwRAmnBDN0u+1zHouTWjuAYAdxG63bwrXb2o+I+YQDmc0Xww+PqYwsVZ9qJTVkn7vFKaaAYjKjRXwGRxKM4Rq3Y1GE20hTpS1BSwsrUsZhjRcftF09BnLSN5DGlJsufzJfvWgaiwScDlmJ5S9syKe88TZj1l8UyaNkTjPy0RC+ana2DhuXTOI=;CkZfIKBHtMly/jSXMEwwTg=="
 ---

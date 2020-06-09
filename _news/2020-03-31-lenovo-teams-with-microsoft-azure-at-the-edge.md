@@ -8,8 +8,8 @@ ampWebUrl: "https://www.nextplatform.com/2020/03/31/lenovo-teams-with-microsoft-
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/03/31/lenovo-teams-with-microsoft-azure-at-the-edge/amp/"
 type: article
 quality: 77
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Next Platform
@@ -23,6 +23,34 @@ images:
     width: 1024
     height: 1024
     title: "Lenovo Teams With Microsoft Azure At The Edge"
+
+related:
+  - title: "Microsoft is expanding the Azure Stack Edge with NVIDIA GPU preview"
+    excerpt: "We’re expanding the Microsoft Azure Stack Edge with NVIDIA T4 Tensor Core GPU preview during the GPU Technology Conference (GTC Digital). Azure Stack Edge is a cloud-managed appliance that brings Azure’s compute, storage, and machine learning capabilities to the edge for fast local analysis and insights."
+    publishedDateTime: 2020-03-24T14:00:25Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-is-expanding-the-azure-stack-edge-with-nvidia-t4-gpu-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 111
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/1f6343e9-ac74-4c7b-8f27-8784133e6897.png"
+        width: 377
+        height: 212
+  - title: "Extending the power of Azure AI to Microsoft 365 users"
+    excerpt: "Today, Yusuf Mehdi, Corporate Vice President of Modern Life and Devices, announced the availability of new Microsoft 365 Personal and Family subscriptions. In his blog, he shared a few examples of how Microsoft 365 is innovating to deliver experiences powered by artificial intelligence (AI) to billions"
+    publishedDateTime: 2020-03-30T08:30:32Z
+    webUrl: "https://azure.microsoft.com/blog/extending-the-power-of-azure-ai-to-microsoft-365-users/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 109
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/9657b8e1-a355-40b6-ae91-6285753322d9.png"
+        width: 1187
+        height: 821
 
 secured: "hSQEz82WxOzJZRC0lN2WPnbiFsgNQoxYsXPQxoODME5ntHg9Y0A3+m7Y/DReCqu1AnrEewCmu9lqQmKk8sI8uwzAvcc5QX4McCs9eBDtUhsP0t7JHrBQ6g2v9NT5GZ1cg685eWDzBzayfqLvOwxWjg8QBbC+6/ux9W2JYPKzQtg376sT0UQB6jkN/LmbZ2xRKS65VI7jdg8CEY2dzoXOTeYxrgpVlo1MTvDFcDZePO8Rx2hdxK4cFnLjDBeIi2Apfecazd1CCZCozcMcK9ds5XCU1+Qlzoisrt30WbtvzL2pBy0CcR7N94jmKV0NQSFK;z+ho5GodI0aeAKnd6w4zHA=="
 ---

@@ -29,21 +29,36 @@ images:
     title: "The most important announcements from Microsoft Build, its annual conference for software developers"
 
 related:
-  - title: "The biggest announcements from Microsoft Build 2020"
-    excerpt: "Faced with the same circumstances, Microsoft chose to do something remarkable with its developer conference: it put on a developer keynote. By subscribing, you are agreeing to receive a daily newsletter from The Verge that highlights top stories of the day,"
-    publishedDateTime: 2020-05-20T12:00:00Z
-    webUrl: "https://www.theverge.com/2020/5/20/21264363/microsoft-build-2020-top-news-annoucements-fluid-office-windows-reunion-edge"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/20/21264363/microsoft-build-2020-top-news-annoucements-fluid-office-windows-reunion-edge"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/20/21264363/microsoft-build-2020-top-news-annoucements-fluid-office-windows-reunion-edge"
+  - title: "How to watch Microsoft’s Build conference"
+    excerpt: "Microsoft will host 48 hours of non-stop Build content in different time zones starting at 8AM PT / 11AM ET today. You’ll be able to tune into the main keynotes, replay them later, and register for multiple sessions that are also replayed at different hours of the day."
+    publishedDateTime: 2020-05-19T11:03:00Z
+    webUrl: "https://www.theverge.com/2020/5/19/21263383/microsoft-build-live-stream-watch-how-to-event-announcements"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/19/21263383/microsoft-build-live-stream-watch-how-to-event-announcements"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/19/21263383/microsoft-build-live-stream-watch-how-to-event-announcements"
     type: article
     provider:
       name: The Verge
       domain: theverge.com
     quality: 102
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/DLpMOz4jmOEGQJb21UUFtRfAEro=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66819966/twarren_180507_2536_0001.5.jpg"
+      - url: "https://cdn.vox-cdn.com/thumbor/A0qSlkmYYXZrzHTj7PIDFJAR7J8=/0x0:3000x1984/1400x933/filters:focal(1260x752:1740x1232):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66814907/518216764.jpg.0.jpg"
         width: 1400
         height: 933
+  - title: "Microsoft launches new tools for building fairer machine learning models"
+    excerpt: "At its Build developer conference, Microsoft today put a strong emphasis on machine learning but in addition to plenty of new tools and features, the company also highlighted its work on building more responsible and fairer AI systems — both in the Azure cloud and Microsoft’s"
+    publishedDateTime: 2020-05-19T15:14:00Z
+    webUrl: "https://techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/"
+    ampWebUrl: "https://techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 101
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2016/09/gettyimages-452481532.jpg?w=1024"
+        width: 1024
+        height: 683
   - title: "Microsoft Build 2020: The biggest announcements and sessions to watch"
     excerpt: "Microsoft Build 2020 is over, and everything that was announced is now out there to be learned about. The biggest news coming out of Build this included Microsoft's \"Project Reunion\" effort that aims to bring together Win32 and UWP app development,"
     publishedDateTime: 2020-05-22T17:22:00Z

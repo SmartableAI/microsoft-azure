@@ -8,7 +8,7 @@ ampWebUrl: "https://www.gmanetwork.com/news/scitech/technology/733783/microsoft-
 cdnAmpWebUrl: "https://www-gmanetwork-com.cdn.ampproject.org/c/s/www.gmanetwork.com/news/scitech/technology/733783/microsoft-azure-holds-free-virtual-hackathon-for-professionals-in-asia-to-develop-helpful-technologies/story/?amp"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,34 @@ provider:
 
 topics:
   - Azure
+
+related:
+  - title: "Qore Technologies' Free 3Months Usage Plan for Qorus Integration Engine Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to free use of Qorus Integration Engine to mitigate the business implications of COVID-19 PRAGUE, CZECH REPUBLIC, April 15, 2020 /EINPresswire.com/ -- Qore Technologies today announced the availability of a free three-month usage and consultation plan for Qorus Integration Engine in the Microsoft Azure Marketplace,"
+    publishedDateTime: 2020-04-15T11:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/qore-technologies-free-3months-usage-plan-for-qorus-integration-engine-now-available-in-the-microsoft-azure-marketplace-2020-04-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "eBaoCloud InsureMO is Now Available in the Microsoft Azure Marketplace"
+    excerpt: "SHANGHAI, May 20, 2020 /PRNewswire/ -- eBaoTech Corporation today announced the availability of eBaoCloud ® InsureMO ® in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. eBaoTech's customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined ..."
+    publishedDateTime: 2020-05-20T15:30:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/ebaocloud-insuremo-is-now-available-in-the-microsoft-azure-marketplace-800602677.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 47
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
 
 secured: "GcJ5r7NwgARz01hSx3Z8vNt5A740SEFAnT+dsy/Xiy06eeuClC33nkGeOTxDkVBtXuNhWbpnPhIOuUkV3HgTQQGLMZ3jNLDJdIgSc+Xzz09112UycSXP6boyh8MHGltSGMw7idWK9YeTNoUTDh2PunlsQaEfKEbWFjtxXZ7pNOLF/d5HYujbhjsXKOCyaxVNf57Miyf3G+36s4oWasAPvDEIlA9FBwTIOKUi74kIjzUb6Jm3G7BiT3pnVjWQabKLBIX0hZS2XZg5wQvTovSreD1cJB+rOTfDKt9+RZCI/YoNl64YT4OAEkdm+eaYzOmg;kiXLNPS8WFAifM99MqvCYg=="
 ---

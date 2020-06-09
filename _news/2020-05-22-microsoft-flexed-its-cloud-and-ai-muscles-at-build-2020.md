@@ -6,8 +6,8 @@ publishedDateTime: 2020-05-22T17:07:00Z
 webUrl: "https://www.engadget.com/microsoft-build-2020-flex-ai-cloud-muscle-fluid-framework-healthcare-170004851.html"
 type: article
 quality: 72
-heat: 72
-published: true
+heat: -1
+published: false
 
 provider:
   name: Engadget
@@ -25,6 +25,23 @@ images:
     width: 1119
     height: 630
     title: "Microsoft flexed its cloud and AI muscles at Build 2020"
+
+related:
+  - title: "Five questions for Microsoft EVP of Cloud and AI Scott Guthrie"
+    excerpt: "What's Microsoft's head of Cloud and AI been up to lately? What is he most excited about at Build 2020 and beyond? I asked and ScottGu (sort of) answered."
+    publishedDateTime: 2020-05-20T12:45:00Z
+    webUrl: "https://www.zdnet.com/article/five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 102
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/05/20/9e85075f-4425-4576-995a-976a4acc1b40/guthriewhereareyou.jpg"
+        width: 1071
+        height: 728
 
 secured: "Uok4TOAPBS0AoLhmoCpfjf5WJTgnfCYGR4kqDt5nRE6PNz5meIeu7PEB9ZqgRo4FPsO3J5bTBOz6BTwAmGxgtxwtl7tLEO3CPnyE3m1rwJpGzHidZmpGO+XqSjRu+kwkvyvvPo35KP7cQGM/VqXSJxSmxsHP/BFZXfS2faREUyzPe3Dil09EY1Xbr8DUZ61uj9aARs2gdsxcezbw47mNmLg8YGSrQwdm87JWcd9JBuqbBs4r7IQlbPdlUqZqSazsXa8IKzWLpQ6Jpg9QRblKOkuPdsZp55wzTcC/F7aHZrHWLGGuRXV80vooCl8T0sdmUTA3UGvkbZg1aUtCB6UOVpNBi2k7Cdv3azrvgzNnuTrRxtDg4e8Hh8SUVo9uQiA2oj2YHLwZUnLVt3jz107AZp9lY1py+SeUoQlBHkl38LMXM+wKw00bAtfoH1B6Kc5w+fdqjf3E3E0MmtnJQ5N/AGnr/btF+hakRlFhGjzfalE=;OxZQaHlbn/7EXKnrEsZpEg=="
 ---

@@ -40,6 +40,82 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/utLgVZfGNmPcqfsQrX5XMh-1200-80.jpg"
         width: 970
         height: 545
+  - title: "AWS files yet another JEDI protest, challenges DoD’s process for reconsidering the contract"
+    excerpt: "Amazon’s latest complaint claims DoD has refused to respond to questions about how to price the revised cloud proposals it’s requesting from AWS and Microsoft."
+    publishedDateTime: 2020-05-08T00:33:00Z
+    webUrl: "https://federalnewsnetwork.com/defense-main/2020/05/aws-files-yet-another-jedi-protest-challenging-dods-process-for-reconsidering-the-contract/"
+    ampWebUrl: "https://federalnewsnetwork.com/defense-main/2020/05/aws-files-yet-another-jedi-protest-challenging-dods-process-for-reconsidering-the-contract/amp/"
+    cdnAmpWebUrl: "https://federalnewsnetwork-com.cdn.ampproject.org/c/s/federalnewsnetwork.com/defense-main/2020/05/aws-files-yet-another-jedi-protest-challenging-dods-process-for-reconsidering-the-contract/amp/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 52
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2019/11/amazon-jedi-protest-1024x683.jpg"
+        width: 1024
+        height: 683
+  - title: "AWS files another protest over JEDI cloud computing contract award"
+    excerpt: "The company filed a second, concurrent bid protest directly with the DOD this week. The protest comes after a federal court judge’s decision to grant the DOD a 120-day remand to “reconsider the aspects of the procurement challenged in Amazon’s protest of the JEDI contract."
+    publishedDateTime: 2020-05-08T00:20:00Z
+    webUrl: "https://siliconangle.com/2020/05/07/aws-files-another-protest-jedi-cloud-computing-contract-award/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 32
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/pentagon-80394_1920-tpsdave-pixabay-800x521.jpg"
+        width: 800
+        height: 521
+  - title: "AWS trying to bog down JEDI with complaints, Microsoft says"
+    excerpt: "When Amazon Web Services filed an agency protest with the Defense Department seeking clarity about technical aspects of the $10 billion Joint Enterprise Defense Infrastructure cloud contract, Microsoft called it an attempt “to force a do-over to rescue its failed bid."
+    publishedDateTime: 2020-05-12T22:58:00Z
+    webUrl: "https://gcn.com/articles/2020/05/12/aws-jedi-microsoft-blog-spat.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 32
+    images:
+      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Cloud/DODcloud_1.png"
+        width: 760
+        height: 368
+  - title: "Microsoft: Amazon is drowning JEDI with complaints"
+    excerpt: "When Amazon Web Services filed an agency protest with the Defense Department seeking clarity about technical aspects of the $10 billion Joint Enterprise Defense Infrastructure cloud contract, Microsoft called it an attempt “to force a do-over to rescue its failed bid."
+    publishedDateTime: 2020-05-13T18:00:00Z
+    webUrl: "https://defensesystems.com/articles/2020/05/13/aws-jedi-microsoft-blog-spat.aspx"
+    type: article
+    provider:
+      name: Defense Systems
+      domain: defensesystems.com
+    quality: 32
+    images:
+      - url: "https://defensesystems.com/-/media/GIG/EDIT_SHARED/Cloud/DODcloud_1.png"
+        width: 760
+        height: 368
+  - title: "Amazon files another JEDI protest — this time against Pentagon’s corrective action"
+    excerpt: "Amazon has doubled down in its protest of the Joint Enterprise Defense Infrastructure (JEDI) cloud contract. The company filed a second, concurrent bid protest this week directly with the Department of Defense asking for more clarity around the corrective action it has proposed taking on the JEDI contract."
+    publishedDateTime: 2020-05-07T23:04:00Z
+    webUrl: "https://www.fedscoop.com/amazon-files-another-jedi-protest-time-pentagons-corrective-action/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 26
+    images:
+      - url: "https://www.fedscoop.com/wp-content/uploads/2020/01/AWS_-_Amazon_Web_Services_Office_in_Houston_Texas_46600198075.jpg"
+        width: 2100
+        height: 1401
+  - title: "Amazon files another JEDI cloud contract challenge"
+    excerpt: "The second, concurrent protest was filed with the Defense Department and has Amazon (NASDAQ:AMZN) asking for more clarity around the DOD's proposed review of the $10B JEDI cloud contract.Last month, a"
+    publishedDateTime: 2020-05-08T11:39:00Z
+    webUrl: "https://seekingalpha.com/news/3572106-amazon-files-another-jedi-cloud-contract-challenge"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 2
 
 secured: "G+cNB4lxBvKkd0o1LX53PUQPosc9J1969bqnr2Hnv76xAVBdGXq0Uv10yXvYBP6ityFIYwZivFPSbUwdCD+u24ZMwLoOrrYDnKWZE3HMjEJMRDgveZDt+RZg0r+mPTefwFDGt+8GgJVP+fTmwsKVVHpK0uMyUOl/OGDVOXY1KgYa8G+CcIwA4HuuTBHxns9JaTTRwhzm8n/MFue6TXp2dG9o/ct9gKwZfVqplKFb0y9W+FRxOgaq9aG2+vM0PMAbizxXC2akO1X8yPxyOSqjAz/O/9KFVDQy5NOznMPfsarCJZwSKupHmWx6VQANTwlmAYnJxRB6NTr8YVHCBC9Ovif34X/L92RRIY7KJq1u1U8HR/rzLgpSswV4/uHz7vR+Zilp6BP5pl+Dzkbu6lbIlzsixs6meyICvyg0OIhBpLwI69hNORqDXiqxdOrwLfqVTGMk+Oy37HN7Zltf90ah3tyPt4Afe5Qblz5fMEF6DF4=;dPBp2GXw2C6Jx5Y3yAqFPw=="
 ---

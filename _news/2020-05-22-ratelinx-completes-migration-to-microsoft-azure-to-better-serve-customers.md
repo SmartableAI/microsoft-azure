@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-22T00:21:00Z
 webUrl: "https://markets.businessinsider.com/news/stocks/ratelinx-completes-migration-to-microsoft-azure-to-better-serve-customers-1029225453"
 type: article
 quality: 56
-heat: 76
+heat: 116
 published: true
 
 provider:
@@ -34,6 +34,24 @@ related:
       - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/0bef1a3f-3524-4a47-91e5-78466728c9a3.png?height=635&t=1590129628&width=1200"
         width: 600
         height: 201
+  - title: "Netcracker Offers AI-Driven Digital BSS/OSS to Microsoft Azure"
+    excerpt: "Netcracker Technology announced today it is working with Microsoft to offer its Digital BSS/OSS and Orchestration applications on Microsoft Azure. Netcracker is collaborating with Microsoft to integrate Azure Machine Learning (ML) and AI services with Netcracker’s Advanced Analytics to add intelligent contextual decisioning and recommendations to enable more personalized customer"
+    publishedDateTime: 2020-05-14T09:16:00Z
+    webUrl: "https://www.totaltele.com/505911/Netcracker-Offers-AI-Driven-Digital-BSSOSS-to-Microsoft-Azure"
+    type: article
+    provider:
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 17
+  - title: "FedEx, Microsoft to collaborate on commerce"
+    excerpt: "Fedex (NYSE:FDX) and Microsoft (NASDAQ:MSFT) sign new multiyear collaboration, bringing MSFT's intelligent cloud to the logistics network.Shares of FDX are up 4% premarket, MSFT is up 1.5%.FedEx Surro"
+    publishedDateTime: 2020-05-18T13:19:00Z
+    webUrl: "https://seekingalpha.com/news/3575525-fedex-microsoft-to-collaborate-on-commerce"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 2
 
 secured: "AaiDLWvPx3gJsL4uIQ5q4yiX9ktVmAJGxGEqlS+zu0KZpbZwHlT/WKZRcmuTb+6vfLtw2B/ZfGwabOCqTJM/tzeeT6bCkzB9Lp9JRfh2L5Is6xj/fUijQOOi5rWlxGqZemEry6MzMUYWZGivNjyDNmkRJTWoQxPzK49Mm88SmNBfZzGKO8Uw7EWBCq+ZvvZKOstxLvQLBtvzQplunutp4ct3qJ6Np1zF1Y0zA8I16jg6pzWbgSaCQq6KcbXe0ri6MqezEB+X3L7V5sMhDBuRh/hoBvqOZ5nUGFEqgc2+f6rhTuAARyXI3NODX3XNj9gr;DSslrPWsB7i7FSdwMylNOQ=="
 ---

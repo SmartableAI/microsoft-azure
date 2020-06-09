@@ -6,8 +6,8 @@ publishedDateTime: 2020-05-06T05:37:00Z
 webUrl: "https://www.marketwatch.com/press-release/finance-cloud-market-outlook-and-opportunities-in-grooming-regions-edition-2020-2020-05-06"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 87
+published: true
 
 provider:
   name: MarketWatch
@@ -25,6 +25,21 @@ images:
     width: 1200
     height: 630
     title: "Finance Cloud Market Outlook and Opportunities in Grooming Regions : Edition 2020"
+
+related:
+  - title: "Worsening economic conditions could mean Google Cloud has more acquisition opportunities"
+    excerpt: "The coronavirus allows Google Cloud to double down on its acquisition strategy as late-stage startups are vulnerable to worsening economic conditions."
+    publishedDateTime: 2020-04-28T19:01:00Z
+    webUrl: "https://www.businessinsider.com/google-cloud-faces-acquisition-opportunities-amid-pandemic-2020-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
+    images:
+      - url: "https://i.insider.com/5d3b1f4a100a2449c6157995?width=1200&format=jpeg"
+        width: 1200
+        height: 600
 
 secured: "2J/IKxUeh9gwcQ1dVJlnuLaJSqiKx2V/NRmHsLaoUFDudBBqvGTXdyscj3N4Y6FXO9yv6Hp2YQ+Fy3gNaM4+BTKLi+668kHlmXcodR6lIpuNdD//0R+pdR4GCAye12XEExA177C+63ObETAW/PV550xPJAbjbFjgEkXsh/Gdfa9jHZleEc4I3DhLjDcC+9kImfhsAO5iT8CLfiElclkxQMqR0rPzPXdJRBJEbgBo3m+gCJys5/2cv2SzYwmDKsPQ4w1uNU9AmATVB2gJZDZ6VKn5B5XfY/+iGrsr7IX/vBJByYTB1sJSFXbBj3UK2olu;07hUx73XCkznDo49S5oCxQ=="
 ---

@@ -23,34 +23,45 @@ images:
     title: "Matillion Launches Matillion ETL for Azure Synapse Empowering Users with Data Transformation Capabilities for Rapid Access to Insights"
 
 related:
-  - title: "Microsoft deepens partnership with Redis to improve capabilities of Azure Cache for Redis"
-    excerpt: "Microsoft and Redis Labs today announced a major partnership to bring native integration between Redis Labs technology and Azure cloud. As part of this partnership, Redis Enterprise is now available as two new tiers of Azure Cache for Redis."
-    publishedDateTime: 2020-05-12T15:29:00Z
-    webUrl: "https://mspoweruser.com/microsoft-azure-cache-for-redis/"
-    ampWebUrl: "https://mspoweruser.com/microsoft-azure-cache-for-redis/amp/"
-    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-azure-cache-for-redis/amp/"
-    type: article
-    provider:
-      name: MSPoweruser
-      domain: mspoweruser.com
-    quality: 68
-    images:
-      - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Redis-Enterprise-for-Azure-Cache.jpg"
-        width: 1663
-        height: 945
-  - title: "SD Times news digest: ESLint 7.0, DataStax Astra now available, and Redis Labs and Microsoft announce partnership"
-    excerpt: "DataStax Astra now available DataStax Astra brings Apache Cassandra performance, reliability, and scale to the cloud with a new database-as-a-service (DBaaS). The DBaaS reduces deployment time from weeks to minutes,"
-    publishedDateTime: 2020-05-12T15:29:00Z
-    webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-eslint-7-0-datastax-astra-now-available-and-redis-labs-and-microsoft-announce-partnership/"
+  - title: "Matillion launches Matillion ETL for Azure Synapse empowering users with data transformation capabilities for rapid access to insights"
+    excerpt: "Empowering enterprises to achieve faster time to insights by loading, transforming, and joining together data, the release extends Matillion’s product portfolio to further serve Microsoft Azure customers. Enterprises that use Azure Synapse to merge insights from data warehouses and data lakes need a data transformation solution that can pull ..."
+    publishedDateTime: 2020-05-14T12:08:00Z
+    webUrl: "https://sdtimes.com/matillion-launches-matillion-etl-for-azure-synapse-empowering-users-with-data-transformation-capabilities-for-rapid-access-to-insights/"
     type: article
     provider:
       name: SD Times
       domain: sdtimes.com
-    quality: 51
+    quality: 55
     images:
-      - url: "https://sdtimes.com/wp-content/uploads/2020/05/1_jFyfsakE2WBv5sFjBQUsuw.png"
-        width: 1200
-        height: 400
+      - url: "https://sdtimes.com/images/sd-premium.png"
+        width: 628
+        height: 246
+  - title: "Microsoft Announces New Azure Regions in Europe to Accelerate Digital Transformation"
+    excerpt: "And at the same provide a high level of security, data residency, and compliance. The new region will provide Polish businesses and organizations with Microsoft Azure, Microsoft 365, Dynamics 365, and Power Platform. A few days later on May 8 th, Microsoft announced a $1.5 billion five-year investment in Italy. The plan is dubbed Ambizione ..."
+    publishedDateTime: 2020-05-15T13:13:00Z
+    webUrl: "https://www.petri.com/microsoft-announces-new-azure-regions-in-europe-to-accelerate-digital-transformation"
+    type: article
+    provider:
+      name: petri.com
+      domain: petri.com
+    quality: 40
+    images:
+      - url: "https://www.petri.com/wp-content/uploads/sites/3/2016/08/Microsoft-Azure-cloud-hero.png"
+        width: 1280
+        height: 720
+  - title: "Open Systems augments its cybersecurity capabilities with acquisition of leading Microsoft Azure Sentinel expert"
+    excerpt: "Its \"SWAT team\" of architects, engineers and developers enables enterprise customers to securely achieve their cloud automation, strategy and migration goals with the Microsoft Azure cloud platform."
+    publishedDateTime: 2020-05-20T22:11:00Z
+    webUrl: "https://www.lightreading.com/security/open-systems-augments-its-cybersecurity-capabilities-with-acquisition-of-leading-microsoft-azure-sentinel-expert/d/d-id/759821"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 26
+    images:
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
+        height: 600
 
 secured: "K84gxXZ/62viovRxsRkH8JZdVBeZOZ5URKM9Q0HXL28mOi5Rcl+icilIXzmPhfLMKtUrC81Eh0+t+iVFCclB5QWpCshqim6qxHDwOUNkNuDN50Ce2f7HLsHp41iW28RUBIntU0rNlhSzy86pcOgQnWRpWYDaHakH3sNRESWIh18/7Mhs/SUaOOgoHkBDxAdZ8GzPfj/fUTLw84GbcgyjsQsEJrSQgki89YBBouX6hn132C4sXdpG01i7q0T4mkGVN2ViRoTG/E8v5feBLS9+fC3V7Hpp6nKKOg6r4+7cb4l7U4ExycYQyD1aAVy8vsdp;1sGBw+w+sFVL2nLY16cSoQ=="
 ---

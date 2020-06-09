@@ -19,21 +19,51 @@ topics:
   - Azure
 
 related:
-  - title: "Microsoft strikes 5-year cloud deal with Coca-Cola for Azure, Microsoft 365"
-    excerpt: "Cola company have reached a deal that will see the latter use Microsoft 365, Azure, and more to power its digital operations for five years."
-    publishedDateTime: 2020-04-27T21:11:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365?amp"
+  - title: "Coca-Cola partners with Microsoft to use its cloud and AI services"
+    excerpt: "Cola Company and Microsoft have announced a partnership that will see the beverage company leverage Microsoft's AI and cloud-based services, including Dynamics 365 and Microsoft 365."
+    publishedDateTime: 2020-04-27T17:00:00Z
+    webUrl: "https://www.neowin.net/news/coca-cola-partners-with-microsoft-to-use-its-cloud-and-ai-services"
+    ampWebUrl: "https://www.neowin.net/amp/coca-cola-partners-with-microsoft-to-use-its-cloud-and-ai-services/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/coca-cola-partners-with-microsoft-to-use-its-cloud-and-ai-services/"
     type: article
     provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 75
+      name: Neowin
+      domain: neowin.net
+    quality: 102
     images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2017/09/microsoft-logo-2017-ignite2.jpg?itok=c3ocGDNm"
-        width: 800
-        height: 600
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/04/1588004153_cocacola_microsoft_story.jpg"
+        width: 760
+        height: 428
+  - title: "Google extending cloud reach with Cisco, Amazon and Microsoft connections"
+    excerpt: "Google made several announcements, including a partnership with Cisco that will better connect Cisco’s software-defined wide area network (SD-WAN) tools with Google Cloud. Google also announced the production release of Anthos for Amazon’s AWS and a preview"
+    publishedDateTime: 2020-04-28T20:54:00Z
+    webUrl: "https://www.techspot.com/news/85012-google-extending-cloud-reach-cisco-amazon-microsoft-connections.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/85012-google-extending-cloud-reach-cisco-amazon-microsoft-connections.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85012-google-extending-cloud-reach-cisco-amazon-microsoft-connections.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 101
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/04/2020-04-28-image-30.jpg"
+        width: 2461
+        height: 1200
+  - title: "Zoom partners with Oracle to buttress its cloud infrastructure as user base exceeds 300 million"
+    excerpt: "Zoom experienced a surge of scale for which it was not prepared, as evidenced by security issues that came with the enormous customer base. This growth also put tremendous pressure on its cloud infrastructure."
+    publishedDateTime: 2020-04-28T22:15:00Z
+    webUrl: "https://www.techspot.com/news/85021-zoom-partners-oracle-buttress-cloud-infrastructure-user-base.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/85021-zoom-partners-oracle-buttress-cloud-infrastructure-user-base.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85021-zoom-partners-oracle-buttress-cloud-infrastructure-user-base.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 90
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/04/2020-04-28-image-32.jpg"
+        width: 2560
+        height: 1708
   - title: "Coca-Cola selects Microsoft cloud to modernize its business"
     excerpt: "The Coca-Cola Company today announced a five-year agreement with Microsoft to standardize its business operations on Microsoft’s cloud. As part of this partnership, Coca-Cola will be using Microsoft Azure,"
     publishedDateTime: 2020-04-27T14:29:00Z
@@ -49,6 +79,41 @@ related:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/04/Coca-cola-Microsoft.jpg"
         width: 1189
         height: 616
+  - title: "Use the Jamf Cloud Connector with Microsoft Intune"
+    excerpt: "Use the Jamf Cloud Connector with Microsoft Intune compliance policies with Azure Active Directory Conditional Access to help integrate and secure Jamf-managed devices."
+    publishedDateTime: 2020-04-27T21:26:00Z
+    webUrl: "https://docs.microsoft.com/en-us/mem/intune/protect/conditional-access-jamf-cloud-connector"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 32
+    images:
+      - url: "https://docs.microsoft.com/en-us/mem/intune/protect/media/conditional-access-jamf-cloud-connector/copy-application-id.png"
+        width: 517
+        height: 269
+  - title: "The Coca-Cola Company announces strategic partnership with Microsoft to transform global engagement and experiences"
+    excerpt: "The Coca-Cola Company (NYSE: “KO”) on Monday announced a five-year agreement with Microsoft Corp. (Nasdaq: “MSFT)"
+    publishedDateTime: 2020-04-27T15:31:00Z
+    webUrl: "https://apnews.com/PR Newswire/cd5af10340231d2145bc2ee6bc0ff70d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 10
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+  - title: "Coca-Cola partners Microsoft to transform global engagement, experiences"
+    excerpt: "With this agreement, the companies will use the functionalities of Microsoft Azure, Dynamics 365 and Microsoft 365. These products will help The Coca-Cola Company gain new insights from data across the enterprise, enabling a 360-degree view of the business ..."
+    publishedDateTime: 2020-04-27T14:04:00Z
+    webUrl: "https://www.telecompaper.com/news/coca-cola-partners-microsoft-to-transform-global-engagement-experiences--1336182"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 1
 
 secured: "3USkdK51Nbs/SIDJXVMbQOuQwpsjHv5P/PY7wj73uLosPtVyTs2ZZL9gQgQPKKGwM/ouOAlug8cH8hPoPlUJKeFSx6ccgYFoEFTlxRCiTuUQM1u7+UDB0F/XFA6MESjAdoPRA8pxN+M86610iaIruc28fl+NwLLej/follWT5Vg6vmYNZr3nTTHBJnafydTGZSeZ3+uR50jzxd3U3p8JYKU1AL1Qh5H1SbhCNEIyhyxFGHQiaVIDWMQCpmsCuXRPTj7mPUiA6YjdQ9IIG8R1HahuhBsBFqcSJwW+5sL/arR7hVu0g76fbDaShW2aeHXpBo1VCzeIuw3GeQRfJ4BI9yBZWuKX4PwRE6P9cmlv2yXqkIdTG5su1F+/XaONjgcLqhzIiEi9zpO7IOrQ7lVD1uir7ZMTwFJNcB6kmVAbTuyI8gzVVvFVOpOCJdSqxq+ZWJZg0YymVbDZu4uaF7TFdU/zGdWhA4C7TpKGK0oN1wo=;WPt80pmQApyCTGHAQ4pBaA=="
 ---

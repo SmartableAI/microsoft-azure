@@ -23,80 +23,95 @@ images:
     title: "Pentagon watchdog clears Microsoft’s $10 billion JEDI win over Amazon"
 
 related:
-  - title: "Pentagon's inspector general says Microsoft's JEDI cloud win should stand"
-    excerpt: "Therefore, we could not definitively determine the full extent or nature of interactions that administration officials had, or may have had, with senior DoD officials regarding the JEDI Cloud procurement. \" I reached out to Microsoft and AWS for comment on today's report. No word back from either so far. After Microsoft was awarded the $10 ..."
-    publishedDateTime: 2020-04-15T15:38:00Z
-    webUrl: "https://www.zdnet.com/article/pentagons-inspector-general-says-microsofts-jedi-cloud-win-should-stand/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/pentagons-inspector-general-says-microsofts-jedi-cloud-win-should-stand/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pentagons-inspector-general-says-microsofts-jedi-cloud-win-should-stand/"
+  - title: "U.S. judge puts Amazon challenge to Pentagon JEDI contract on hold"
+    excerpt: "Known as Joint Enterprise Defense Infrastructure, or JEDI, the cloud computing contract is intended ... namely “the merits of its argument that the DOD improperly evaluated” Microsoft’s data storage in one price scenario. She said Amazon is likely ..."
+    publishedDateTime: 2020-04-17T23:55:00Z
+    webUrl: "https://www.reuters.com/article/us-amazon-com-pentagon-microsoft/u-s-judge-puts-amazon-challenge-to-pentagon-jedi-contract-on-hold-idUSKBN21Z3GW?feedType=RSS&feedName=businessNews"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN21Z3GW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21Z3GW"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 101
+      name: Reuters
+      domain: reuters.com
+    quality: 102
     images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/04/15/2c3ba05e-21fa-47cd-8dab-d91266415adc/jediinspectorgeneralreport.jpg"
-        width: 877
-        height: 593
-  - title: "Watchdog review finds Pentagon's $10B cloud contract to Microsoft was legal"
-    excerpt: "The Pentagon’s move to award a cloud computing contract to Microsoft estimated to be around $10 billion was in line with legal and government purchasing standards, according to a review by a government watchdog released on Wednesday."
-    publishedDateTime: 2020-04-15T20:38:00Z
-    webUrl: "https://www.foxnews.com/politics/watchdog-review-pentagon-microsoft-cloud-contract-legal"
-    ampWebUrl: "https://www.foxnews.com/politics/watchdog-review-pentagon-microsoft-cloud-contract-legal.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/watchdog-review-pentagon-microsoft-cloud-contract-legal.amp"
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200417&t=2&i=1515553285&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG3G2CA"
+        width: 911
+        height: 545
+  - title: "U.S. judge puts Amazon challenge to Pentagon JEDI contract on hold"
+    excerpt: "A U.S. judge on Friday put on hold a suit by Amazon.com Inc (AMZN.O) challenging the Pentagon’s decision to award a $10 billion contract to Microsoft Corp (MSFT.O). Judge Patricia E. Campbell-Smith granted the Pentagon’s request to halt further action on the lawsuit to allow the military to reconsider aspects of the decision being challenged by Amazon,"
+    publishedDateTime: 2020-04-18T04:52:00Z
+    webUrl: "https://www.reuters.com/article/us-amazon-com-pentagon-microsoft-idUSKBN21Z3GW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN21Z3GW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21Z3GW"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 100
+      name: Reuters
+      domain: reuters.com
+    quality: 102
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d9fd65a-cbde-44cd-8be7-69ca1b916d0b/6161526e-62a1-46df-9a5e-9c833fb50275/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-  - title: "DoD watchdog sanctions JEDI award to Microsoft over Amazon, calls bias claims unfounded"
-    excerpt: "The findings represent a victory for the Defense Department and Microsoft. The two are eager to start work on the Joint Enterprise Defense Infrastructure (JEDI) project pending the outcome of a legal challenge. It’s a blow to Amazon, which claims that Trump’s personal animus toward the company and its founder, Jeff Bezos, improperly ..."
-    publishedDateTime: 2020-04-15T16:38:00Z
-    webUrl: "https://www.geekwire.com/2020/dod-watchdog-sanctions-jedi-award-microsoft-amazon-calls-bias-claims-unfounded/"
-    ampWebUrl: "https://www.geekwire.com/2020/dod-watchdog-sanctions-jedi-award-microsoft-amazon-calls-bias-claims-unfounded/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/dod-watchdog-sanctions-jedi-award-microsoft-amazon-calls-bias-claims-unfounded/amp/"
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200417&t=2&i=1515553285&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG3G2CA"
+        width: 911
+        height: 545
+  - title: "Amazon Is Running Out of Ways to Stop Microsoft’s JEDI Deal"
+    excerpt: "Last October, the U.S. Department of Defense awarded Microsoft (NASDAQ:MSFT) its coveted Joint Enterprise Defense Infrastructure (JEDI) cloud contract. The deal, which will be worth up to $10 billion over the next 10 years, allows Microsoft to provide cloud infrastructure services for the Pentagon's business and mission operations. The JEDI ..."
+    publishedDateTime: 2020-04-22T17:55:00Z
+    webUrl: "https://www.fool.com/investing/2020/04/22/amazon-running-out-ways-stop-microsoft-jedi-deal.aspx"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/04/22/amazon-running-out-ways-stop-microsoft-jedi-deal.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/22/amazon-running-out-ways-stop-microsoft-jedi-deal.aspx"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
+      name: The Motley Fool
+      domain: fool.com
+    quality: 102
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F569046%2Fgettyimages-529769841.jpg&w=1200&op=resize"
+        width: 1200
+        height: 636
+  - title: "DoD: Pentagon okay in giving $10B ‘war cloud’ contract to Microsoft over Amazon"
+    excerpt: "The Pentagon’s watchdog has no real beef with the awarding of a $10 billion ‘war cloud’ contract to Microsoft over Amazon, despite admitting it can’t completely prove that Trump‘s White House didn’t interfere. In a massive 313-page report released Wednesday, the Defense Department‘s (DoD) inspector general deemed the contract’s ..."
+    publishedDateTime: 2020-04-16T16:58:00Z
+    webUrl: "https://thenextweb.com/hardfork/2020/04/16/dod-pentagon-okay-in-giving-10b-war-cloud-contract-to-microsoft-over-amazon/"
+    ampWebUrl: "https://thenextweb.com/hardfork/2020/04/16/dod-pentagon-okay-in-giving-10b-war-cloud-contract-to-microsoft-over-amazon/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/hardfork/2020/04/16/dod-pentagon-okay-in-giving-10b-war-cloud-contract-to-microsoft-over-amazon/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 98
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/11/Amazon-cloud-796x404.jpg"
+        width: 796
+        height: 404
+  - title: "Watchdog Finds Few Problems in Pentagon Award of JEDI Contract to Microsoft Over Amazon"
+    excerpt: "The Pentagon watchdog’s report concluded few actual problems occurred in awarding the hotly disputed JEDI cloud-computing contract, in a victory for Microsoft."
+    publishedDateTime: 2020-04-16T12:03:00Z
+    webUrl: "https://www.wsj.com/articles/defense-department-watchdog-finds-few-problems-in-awarding-jedi-contract-to-microsoft-over-amazon-11586960694"
+    ampWebUrl: "https://www.wsj.com/amp/articles/defense-department-watchdog-finds-few-problems-in-awarding-jedi-contract-to-microsoft-over-amazon-11586960694"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/defense-department-watchdog-finds-few-problems-in-awarding-jedi-contract-to-microsoft-over-amazon-11586960694"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 94
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2018/04/2196640900_c072470031_z-630x451.jpg"
-        width: 630
-        height: 451
-  - title: "Pentagon watchdog clears Microsoft’s $10 billion cloud-computing win over Amazon"
-    excerpt: "The Defense Department’s watchdog found no evidence that the Pentagon’s controversial decision to award a $10 billion cloud-computing contract to Microsoft was the result of interference from President Donald Trump, though it said its probe was limited by the White House. The 317-page report issued Wednesday by the inspector general also ..."
-    publishedDateTime: 2020-04-15T15:52:00Z
-    webUrl: "https://www.seattletimes.com/business/pentagon-watchdog-clears-microsofts-10-billion-cloud-computing-win-over-amazon/"
-    ampWebUrl: "https://www.seattletimes.com/business/pentagon-watchdog-clears-microsofts-10-billion-cloud-computing-win-over-amazon/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/pentagon-watchdog-clears-microsofts-10-billion-cloud-computing-win-over-amazon/?amp=1"
+      - url: "https://images.wsj.net/im-168451/social"
+        width: 1280
+        height: 640
+  - title: "Judge puts Amazon's lawsuit challenging the Pentagon's $10 billion cloud contract award to Microsoft on hold until August"
+    excerpt: "A federal judge paused Amazon's lawsuit challenging the Pentagon's decision to award a $10 billion Pentagon cloud computing contract to Microsoft."
+    publishedDateTime: 2020-04-20T16:52:00Z
+    webUrl: "https://www.businessinsider.com/amazon-jedi-lawsuit-remand-microsoft-2020-4"
+    ampWebUrl: "https://www.businessinsider.com/amazon-jedi-lawsuit-remand-microsoft-2020-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-jedi-lawsuit-remand-microsoft-2020-4?amp"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 57
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
     images:
-      - url: "https://static.seattletimes.com/wp-content/uploads/2020/04/04152020_msoft_095020-300x208.jpg"
-        width: 299
-        height: 208
-  - title: "Pentagon IG says Microsoft JEDI contract awarded fairly, but review not definitive"
-    excerpt: "The report concludes that based on the evidence discovered that the Department of Defense (DoD) personnel who awarded the JEDI cloud contract to Microsoft \"were not pressured about their decision on the award of the contract by any DoD leaders more senior to them, who may have communicated with the White House.\" The report from today is the ..."
-    publishedDateTime: 2020-04-15T18:21:00Z
-    webUrl: "https://www.windowscentral.com/pentagon-ig-says-microsoft-jedi-contract-awarded-fairly-review-not-definitive"
-    ampWebUrl: "https://www.windowscentral.com/pentagon-ig-says-microsoft-jedi-contract-awarded-fairly-review-not-definitive?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/pentagon-ig-says-microsoft-jedi-contract-awarded-fairly-review-not-definitive?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 56
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2015/09/microsoft-logo-3.jpg?itok=HZnHZqpR"
-        width: 800
+      - url: "https://i.insider.com/5e9dd03cc02320631f07df16?width=1200&format=jpeg"
+        width: 1200
         height: 600
   - title: "DOD Clears Microsoft’s JEDI Contract Award"
     excerpt: "In a sharp blow to Amazon, the U.S. Department of Defense found that Microsoft’s $10 billion Joint Enterprise Defense Infrastructure (JEDI) contract award was correct after an extensive review. “We believe the evidence we received showed that the DOD personnel who evaluated the contract proposals and awarded Microsoft the JEDI Cloud ..."
@@ -111,6 +126,95 @@ related:
       - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2019/10/us-pentagon.jpg"
         width: 1280
         height: 720
+  - title: "Court decides Pentagon can reevaluate parts of JEDI procurement"
+    excerpt: "Amazon opposed the motion on March 24, arguing that the corrective action proposed by the department would “preserve\" Microsoft’s award. Microsoft won the controversial contract over Amazon in October 2019. In a statement, Defense Department spokesperson Lt. Col. Robert Carver said the department was “pleased” and will initiate correcti ..."
+    publishedDateTime: 2020-04-18T00:02:00Z
+    webUrl: "https://www.defensenews.com/federal-oversight/congress/2020/04/17/court-decides-pentagon-can-reevaluate-specific-aspects-of-jedi-procurement/"
+    type: article
+    provider:
+      name: Defense News
+      domain: defensenews.com
+    quality: 32
+    images:
+      - url: "https://www.armytimes.com/resizer/4oY6QYiwbrQ_P1x7G8W5rhRChq4=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/YF6HUO4ZSVD2HL4ULQM3SV46UM.jpg"
+        width: 1200
+        height: 630
+  - title: "Judge puts Amazon challenge to Pentagon JEDI contract on hold"
+    excerpt: "Known as Joint Enterprise Defense Infrastructure, or JEDI, the cloud computing contract is intended to give the military better access to data and technology from remote locations."
+    publishedDateTime: 2020-04-18T00:51:00Z
+    webUrl: "https://www.foxbusiness.com/technology/judge-puts-amazon-challenge-to-pentagon-jedi-contract-on-hold"
+    ampWebUrl: "https://www.foxbusiness.com/technology/judge-puts-amazon-challenge-to-pentagon-jedi-contract-on-hold.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/judge-puts-amazon-challenge-to-pentagon-jedi-contract-on-hold.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 32
+  - title: "Amazon's JEDI war with Microsoft put on hold"
+    excerpt: "Known as Joint Enterprise Defense Infrastructure, or JEDI, the cloud computing contract is intended to give the military ... namely \"the merits of its argument that the DOD [Department of Defense] improperly evaluated\" Microsoft's data storage in one price scenario. She said Amazon is likely to show that Microsoft's scenario was not ..."
+    publishedDateTime: 2020-04-19T10:14:00Z
+    webUrl: "https://www.arnnet.com.au/article/678551/amazon-jedi-war-microsoft-put-hold/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 32
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/pentagon.jpg"
+        width: 800
+        height: 514
+  - title: "Judge allows DoD to review JEDI contract award"
+    excerpt: "A federal judge on Friday put Amazon's JEDI lawsuit on hold to allow the Department of Defense to review the major military cloud contract. The Joint Enterprise Defense Infrastructure contract was awarded to Microsoft in October, but Amazon claims the decision was full of \"egregious errors\" due to \"improper pressure from President Donald Trump ..."
+    publishedDateTime: 2020-04-20T10:26:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/judge-allows-dod-review-jedi-contract-award/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 32
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/ArmyCloud.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+  - title: "Judge delays Amazon’s challenge to JEDI contract award until August"
+    excerpt: "Amazon Web Service lawsuit in JEDI cloud computing contract dispute put on hold pending further review by the Pentagon"
+    publishedDateTime: 2020-04-20T16:16:00Z
+    webUrl: "https://www.onmsft.com/news/judge-delays-amazons-challenge-to-jedi-contract-award-until-august"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 32
+    images:
+      - url: "https://i2.wp.com/www.onmsft.com/wp-content/uploads/2020/04/aws.png?fit=1200%2C892&ssl=1"
+        width: 1200
+        height: 892
+  - title: "Court decides Pentagon can reevaluate specific aspects of JEDI procurement"
+    excerpt: "A federal judge ruled that DoD may reconsider specific aspects of the JEDI cloud. (moodboard) A federal judge will allow the DoD to reconsider ... Amazon opposed the motion on March 24, arguing that the corrective action proposed by the department would “preserve\" Microsoft’s award. Microsoft won the controversial contract over Amazon ..."
+    publishedDateTime: 2020-04-17T20:46:00Z
+    webUrl: "https://www.federaltimes.com/federal-oversight/congress/2020/04/17/court-decides-pentagon-can-reevaluate-specific-aspects-of-jedi-procurement/"
+    type: article
+    provider:
+      name: Federal Times
+      domain: federaltimes.com
+    quality: 30
+    images:
+      - url: "https://www.armytimes.com/resizer/4oY6QYiwbrQ_P1x7G8W5rhRChq4=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/YF6HUO4ZSVD2HL4ULQM3SV46UM.jpg"
+        width: 1200
+        height: 630
+  - title: "Pentagon IG finds JEDI contract didn’t violate law, but ethical questions remain"
+    excerpt: "The long-anticipated report on the Joint Enterprise Defense Infrastructure (JEDI) cloud contract, which was awarded to Microsoft over Amazon Web Services in October, found that while the Pentagon ..."
+    publishedDateTime: 2020-04-15T19:21:00Z
+    webUrl: "https://www.federaltimes.com/civilian/dhs/2020/04/15/pentagon-ig-finds-jedi-contract-didnt-violate-law-but-ethical-questions-remain/"
+    type: article
+    provider:
+      name: Federal Times
+      domain: federaltimes.com
+    quality: 27
+    images:
+      - url: "https://www.armytimes.com/resizer/PAsw1-1BhUO77r_zGK1_xhhGs3o=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/WXVIJLL7IBHTZAHBV5NQLHTO4Y.jpg"
+        width: 1200
+        height: 630
   - title: "Pentagon watchdog uncovers no Trump influence in $10B JEDI contract awarded to Microsoft over Amazon"
     excerpt: "The Pentagon's inspector general uncovered few problems with the hotly contested $10 billion JEDI cloud-computing contract given to Microsoft but was not able to assess assertions of ethical misconduct due to limited cooperation by the White House."
     publishedDateTime: 2020-04-15T21:09:00Z

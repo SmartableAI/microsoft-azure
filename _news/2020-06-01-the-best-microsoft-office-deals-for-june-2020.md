@@ -44,6 +44,21 @@ related:
       - url: "https://icdn2.digitaltrends.com/image/digitaltrends/office-365-free-eduction-0001-1200x630-c-ar1.91.jpg"
         width: 990
         height: 630
+  - title: "Meet Microsoft Cloud for Healthcare, Microsoft’s first industry-specific cloud solution"
+    excerpt: "Microsoft made great progress in the health care related business. Today, Microsoft is announcing Microsoft Cloud for Healthcare, its first industry-specific cloud solution."
+    publishedDateTime: 2020-05-19T15:02:00Z
+    webUrl: "https://mspoweruser.com/meet-microsoft-cloud-for-healthcare-solution/"
+    ampWebUrl: "https://mspoweruser.com/meet-microsoft-cloud-for-healthcare-solution/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/meet-microsoft-cloud-for-healthcare-solution/amp/"
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 54
+    images:
+      - url: "https://mspoweruser.com/wp-content/uploads/2019/01/Azure-Cloud.jpg"
+        width: 918
+        height: 516
 
 secured: "s+rcEarrBD4QO4EHV/bqTWpR/dL6cPT5NuEBpzWhNqNPdLup+QOZRNqxXavYruLjQ5Bmpj/bGqgGtEQ4Cw4RXEdqXHh+8Q0mNKOjWjvI84omX5SW7IUQVnKVKk04eIuEWiyA23G7VeSKkcNd5XnjYPF3WhMxtbuv51juewroWfRKd+BE/mlcK4IGWOi144JZrV7M0VmlAuwhMtPxjln5jmh+18830Gi0Q76njlFfVmsE7wTLZVqPQbwpuC4lgxw95v39ayh8sbQ6wmVHrChFqidDLnjGmpAXB2TvvwuSWlx+wMDBaz/pd3EU6moQtADbqt7Dv1r3YFYXOYd7hpEcwE6EDH8t9x8UAsp3U9AQBLdJDGLvFTqf7Ff+3S4XO16W+Ey9oN17OBXvVO8Yp/rcpASSPaEsIotScZLgVoL0HL/W7MJ5qOsQmrhfaRbj4N/zZ/c8m7wflBO+ljqtRtBasmn5uao8HJyhXTB7lcDtDYc=;9ksGylh7jMsGs0rnzvqKdA=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/vodafone-offers-free-broadband-an
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/vodafone-offers-free-broadband-and-microsoft-365-to-smbs"
 type: article
 quality: 102
-heat: 102
+heat: 122
 published: true
 
 provider:
@@ -27,6 +27,21 @@ images:
     width: 768
     height: 512
     title: "Vodafone offers free broadband and Microsoft 365 to SMBs"
+
+related:
+  - title: "Samsung Access upgrade plan offers Premium Care, Microsoft 365 and 1TB cloud storage"
+    excerpt: "Samsung Access will let you own a Galaxy S20 series phone by paying a monthly fee, and then upgrade to a new flagship after a period of nine months."
+    publishedDateTime: 2020-06-01T17:14:00Z
+    webUrl: "https://pocketnow.com/samsung-access-upgrade-plan-offers-premium-care-microsoft-365-and-1tb-cloud-storage"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 25
+    images:
+      - url: "https://pocketnow.com/wp/../files/2020/06/samsung_access.jpg"
+        width: 1197
+        height: 759
 
 secured: "x8TU8nzaJYnDHlnuxhwdp6Koh6IOJiMtGLqo2mT1VZ2vZuswsyokagenKqPwmsAqmqXKvJ9k+yOmBZ2eBKAZ0VEB08OvrbjMIKomvnNRRltUb5ICSoP1xFYhXYRHJSWrUsvMGhx2cyKVX5ZXW3D+7wczyCiVWLJMKQ5vEA/7O8H0OwvdgAhHmJGOG3MpYb1Zw+FrhK61/vCWN/0Ro2/xCZSVRsgBJxpBxRxDOnG/FfSfaj/3t5A79cI0rljmxXpSlCUtvWCeZRqf+9AhIue7u1+GzMoECLvo55h3ewVDUhr14j7kHtwe5zjFJUp7mfBz;T+K/nT9T5tLwfMKsQKr60g=="
 ---

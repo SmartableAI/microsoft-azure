@@ -74,6 +74,34 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106492061-1587056933761nadella_silver.jpg?v=1587057169"
         width: 1000
         height: 714
+  - title: "Prepare for an In-Demand Cloud Career With This Microsoft Azure Training Bundle"
+    excerpt: "Prepare for an In-Demand Cloud Career With This Microsoft Azure Training Bundle Whether you're looking for work or just want to keep your resume sharp, you can prepare for a career in this field with the Complete 2020 Microsoft Azure Certification Prep ..."
+    publishedDateTime: 2020-04-21T14:47:00Z
+    webUrl: "https://www.pcmag.com/deals/prepare-for-an-in-demand-cloud-career-with-this-microsoft-azure-training"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 83
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/045CdzWhI5UsL6d7JUERSJy-1.fit_lim.size_1200x630.v_1587455928.jpg"
+        width: 1120
+        height: 630
+  - title: "Microsoft Inks Deal With NBA to Use Cloud and Surface Tablets"
+    excerpt: "Microsoft (MSFT) - Get Report has signed a deal with the NBA to provide the basketball league with Azure cloud services and Surface tablets. The deal is effective for the league's 2020-21 season. Along with other professional sports leagues, the NBA suspended its current season in March to mitigate the spread of the coronavirus."
+    publishedDateTime: 2020-04-16T19:43:00Z
+    webUrl: "https://www.thestreet.com/latest-news/microsoft-deal-with-nba-cloud-and-surface-tablets"
+    ampWebUrl: "https://www.thestreet.com/.amp/latest-news/microsoft-deal-with-nba-cloud-and-surface-tablets"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/latest-news/microsoft-deal-with-nba-cloud-and-surface-tablets"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 62
+    images:
+      - url: "https://content.jwplatform.com/thumbs/xCBbfNZH-720.jpg"
+        width: 720
+        height: 480
   - title: "Microsoft and NBA announce multiyear partnership to deliver personalized game broadcasts"
     excerpt: "Microsoft and NBA will also collaborate on delivering live and on-demand game broadcasts. Microsoft along with NBA Digital will create a new direct-to-consumer platform on Azure cloud platform that will use machine learning and AI to deliver personalized game broadcasts and other content offerings. The NBA’s vast array of data sources and ..."
     publishedDateTime: 2020-04-16T18:50:00Z
@@ -102,6 +130,28 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/1.jpg"
         width: 949
         height: 433
+  - title: "NBA announces new multiyear partnership with Microsoft to redefine and personalize the fan experience"
+    excerpt: "Microsoft becomes an Official Technology Partner for the NBA; together the companies will create a direct-to-consumer platform that delivers new fan engagement experiences and enhanced streaming capabilities powered by Microsoft Azure and its AI capabilities."
+    publishedDateTime: 2020-04-16T18:10:00Z
+    webUrl: "https://news.microsoft.com/2020/04/16/nba-announces-new-multiyear-partnership-with-microsoft-to-redefine-and-personalize-the-fan-experience/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/prod/prod/2020/04/Option_3--1024x467.jpg"
+        width: 1024
+        height: 467
+  - title: "Microsoft, NBA sign cloud and tablet deal"
+    excerpt: "The National Basketball Association will use Microsoft's (MSFT +2.3%) Azure cloud and Surface tablets, starting with the 2020-21 season. Terms of the deal weren't disclosed.Last month, the NBA put the"
+    publishedDateTime: 2020-04-16T23:36:00Z
+    webUrl: "https://seekingalpha.com/news/3561437-microsoft-nba-sign-cloud-and-tablet-deal"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 2
 
 secured: "YhjxG2xWBjpflm8opoHEVePU4CZyioCFFGyobf1/iiuydqSHaesgWc8yClf40+/HlJ4EizBHSWYK3FhFjse3hnpY9amBvSOkmPpf/9PrGt7x1tdyWJuDUYybj+OxRNQyydpI6CvxMbBt8j2jbS4XXjcm6PsqELKuFqBCW6Wqex6mrJgT3pcD322cna65VpvvohnO2KTyP4iojdETqGKG3ZEuFYcJ5d7tSkdF/o35zLXqIhteanzKBfdOJeRuoywhiZc9HE6RgAQRpFL4n8TmudWdQ8lj85teZk45Tagk4HdJ9ZiRPoLxeRMrDiV9zx/JmN4Pn74IIubGKL42CMThdVUf5nAJWdXQkq4d0hypABYS1D3miPlpCvFJrk6A1FP2e0vLQsPjMEQCGslBqTX5GVA5x33XuARktVA0+4ybSoRMre9vm2/6RoDXCsSz5XE6EvjUVaDR8/eWjfIM0tTicidmgVw3swS6nSYm4UggroU=;r+6jtbcaykPXND1OKo53mQ=="
 ---

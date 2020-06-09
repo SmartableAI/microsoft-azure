@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-ibm-and-microsoft-race-t
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-ibm-and-microsoft-race-to-bring-global-access-to-quantum-computing/"
 type: article
 quality: 100
-heat: 120
+heat: 160
 published: true
 
 provider:
@@ -47,6 +47,30 @@ related:
       - url: "https://cnet2.cbsistatic.com/img/WunrgBOXXPZb0gsP9EJBgF_hlr4=/756x567/2020/04/29/03ad6c96-bd20-45b4-8d4b-f7282eb4a570/martin-ibm-50-qubit-quantum-computer-7486.jpg"
         width: 756
         height: 567
+  - title: "Azure Edge Zones: Microsoft’s Plan to Dominate Edge Computing and 5G"
+    excerpt: "Yousef Khalidi, corporate VP for Azure Networking, says the strategy is to build a “global computing infrastructure substrate.”"
+    publishedDateTime: 2020-05-04T13:09:00Z
+    webUrl: "https://www.datacenterknowledge.com/microsoft/azure-edge-zones-microsoft-s-plan-dominate-edge-computing-and-5g"
+    type: article
+    provider:
+      name: Data Center Knowledge
+      domain: datacenterknowledge.com
+    quality: 47
+    images:
+      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/satya%20nadella%20microsoft%20mwc%202019%20barcelona%20getty.jpg"
+        width: 1024
+        height: 683
+  - title: "Amazon and Microsoft need to give businesses a break"
+    excerpt: "A large part of managing the economic disruption from the coronavirus crisis has been keeping businesses and individuals afloat amid the shutdown of large parts of the economy. Banks, landlords, the federal government,"
+    publishedDateTime: 2020-04-26T20:31:00Z
+    webUrl: "https://www.seattletimes.com/business/amazon-and-microsoft-need-to-give-businesses-a-break/"
+    ampWebUrl: "https://www.seattletimes.com/business/amazon-and-microsoft-need-to-give-businesses-a-break/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/amazon-and-microsoft-need-to-give-businesses-a-break/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 32
 
 secured: "xl1w04lS/jacuAcRsZe8DeoVeLIH2Xs/bN2dVupfa5Id8aB6TiLMGIrLKyQ5ahqBAgoV1NiRoy5QU8P5B5lN6SokFA3qCggwtJAlg+gshrgW8Ts1M66I4FdWEhJlnNY2tCPtZuKSFwUmhaY6LClvH4WWWRIuPDePn1di0TxokgEfPNAX5tdmJOAfi9XHY9A/VWqIHG0sXFIg0Vno+9i5HFFqN+QPZNF1sl0RGgrgCCclARJjJvSgYrU9k5mYpaNlnpJIEub/vz8951fX4JMRWIcXMUyyXgjPM+zYCpM7qpVgRrqw+q+aU/6irJ5EhIdPNRJHfVFq139Bzg1H6wvhPQt4MSge9nBTKqgzh4Va1mNkakKgQZoaNXveRenIpRzSfmGVmEMo0nMFDtxOcUcNLrOIXxVK1NjWDQzDjBh7AQgFH6xjABsMnlsDNUnRfH+apY5GK5BRNX+FoCmUAxCPpY/wKPf8iqnf6NZoFco3LSk=;yaw2nFaeiv1HOhlfgicZxw=="
 ---

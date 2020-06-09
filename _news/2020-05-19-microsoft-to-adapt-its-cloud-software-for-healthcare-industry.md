@@ -29,107 +29,71 @@ images:
     title: "Microsoft to adapt its cloud software for healthcare industry"
 
 related:
-  - title: "Microsoft Launches Cloud for Healthcare"
-    excerpt: "Microsoft's new cloud offering aims to improve patient engagement and enhance collaboration in the post-COVID-19 era."
-    publishedDateTime: 2020-05-19T17:40:00Z
-    webUrl: "https://www.fool.com/investing/2020/05/19/microsoft-launches-cloud-for-healthcare-first-of-i.aspx"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/05/19/microsoft-launches-cloud-for-healthcare-first-of-i.aspx"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/19/microsoft-launches-cloud-for-healthcare-first-of-i.aspx"
+  - title: "Microsoft buys software-automation company Softomotive"
+    excerpt: "Softomotive will integrate with Power Automate, Microsoft's tool for automating workflows that would normally be tedious."
+    publishedDateTime: 2020-05-19T16:00:00Z
+    webUrl: "https://www.cnbc.com/2020/05/19/microsoft-buys-software-automation-company-softomotive.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/05/19/microsoft-buys-software-automation-company-softomotive.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/19/microsoft-buys-software-automation-company-softomotive.html"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
+      name: CNBC
+      domain: cnbc.com
     quality: 102
     images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F575083%2Fmicrosoft-healthcare-cloud-mf.jpg&w=1200&op=resize"
-        width: 1200
-        height: 800
-  - title: "Microsoft launches industry-specific cloud solutions, starting with healthcare"
-    excerpt: "Microsoft today announced the launch of the Microsoft Cloud for Healthcare, an industry-specific cloud solution for healthcare providers. This is the first in what is likely going to be a set of cloud offerings that target specific verticals and extends a trend we’ve seen among large cloud"
-    publishedDateTime: 2020-05-19T15:13:00Z
-    webUrl: "https://techcrunch.com/2020/05/19/microsoft-launches-industry-specific-cloud-solutions-starting-with-healthcare/"
-    ampWebUrl: "https://techcrunch.com/2020/05/19/microsoft-launches-industry-specific-cloud-solutions-starting-with-healthcare/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/microsoft-launches-industry-specific-cloud-solutions-starting-with-healthcare/amp/"
+      - url: "https://image.cnbcfm.com/api/v1/image/106261600-1574453260135gettyimages-1127797637.jpeg?v=1589900843"
+        width: 4358
+        height: 3190
+  - title: "Microsoft is building software for health care workers and hospitals"
+    excerpt: "The tech giant says the software, which will be available later this year, is designed to help doctors schedule virtual appointments and improve security."
+    publishedDateTime: 2020-05-19T15:02:00Z
+    webUrl: "https://www.cnet.com/health/microsoft-is-building-software-for-health-care-workers-and-hospitals/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-is-building-software-for-health-care-workers-and-hospitals/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-is-building-software-for-health-care-workers-and-hospitals/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 98
+      name: CNET
+      domain: cnet.com
+    quality: 102
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2018/06/GettyImages-952061110.jpg?w=1024"
-        width: 1024
-        height: 696
-  - title: "Microsoft announces first vertical cloud offering: Microsoft Cloud for Healthcare"
-    excerpt: "Microsoft is taking the wraps off the first of its planned industry-specific clouds, the Microsoft Cloud for Healthcare, which is due to start rolling out in Q4 this year."
-    publishedDateTime: 2020-05-19T15:00:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-announces-first-vertical-cloud-offering-microsoft-cloud-for-healthcare/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-announces-first-vertical-cloud-offering-microsoft-cloud-for-healthcare/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-announces-first-vertical-cloud-offering-microsoft-cloud-for-healthcare/"
+      - url: "https://cnet3.cbsistatic.com/img/Dok6c43xRR9WyO7Gg_0AlGrbr6Q=/756x567/2020/04/14/de44da9c-e4e1-4477-b318-7b6e6923b653/gettyimages-1200013326.jpg"
+        width: 756
+        height: 567
+  - title: "Microsoft strengthens its RPA portfolio with Softomotive acquisition"
+    excerpt: "Microsoft announced their planned acquisition of Softomotive, a UK-headquartered RPA software company with roots in Greece. With the intended purchase, Microsoft has muscled into the RPA game in a big way and,"
+    publishedDateTime: 2020-05-20T14:57:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-strengthens-its-rpa-portfolio-with-softomotive-acquisition/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-strengthens-its-rpa-portfolio-with-softomotive-acquisition/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-strengthens-its-rpa-portfolio-with-softomotive-acquisition/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 97
+    quality: 102
     images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/14/533e6954-77da-4a3b-a494-d048db111d54/thumbnail/1200x675/0f777a75c789f86629369bf9956b8307/microsoftmetaswitch.jpg"
+      - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/01/06/729a12cf-e9ce-41fc-a5f7-ff3d2b08dd86/thumbnail/1200x675/463f9e181651c8c4749d69e9511e9cd8/budget.jpg"
         width: 1200
         height: 675
-  - title: "Microsoft Creates Specific Cloud Service for Health Care"
-    excerpt: "Microsoft created a specific cloud service for health care, possibly presaging a trend toward customized cloud offerings for individual industries."
-    publishedDateTime: 2020-05-19T17:19:00Z
-    webUrl: "https://www.thestreet.com/investing/microsoft-creates-cloud-platform-specifically-for-health-care"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/microsoft-msft-cloud-computing-health-care"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/microsoft-msft-cloud-computing-health-care"
+  - title: "Microsoft + Softomotive: What Does This Deal Mean For RPA (Robotic Process Automation)?"
+    excerpt: "At Microsoft’s Build conference this week, CEO Satya Nadella announced the acquisition of Softomotive, which is a top RPA (Robotic Process Automation) vendor. This technology allows for the automation of repetitive and tedious processes,"
+    publishedDateTime: 2020-05-22T15:54:00Z
+    webUrl: "https://www.forbes.com/sites/tomtaulli/2020/05/22/microsoft--softomotive-what-does-this-deal-mean-for-rpa-robotic-process-automation/"
+    ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2020/05/22/microsoft--softomotive-what-does-this-deal-mean-for-rpa-robotic-process-automation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/05/22/microsoft--softomotive-what-does-this-deal-mean-for-rpa-robotic-process-automation/amp/"
     type: article
     provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 62
-    images:
-      - url: "https://content.jwplatform.com/thumbs/6UhcmMhw-720.jpg"
-        width: 720
-        height: 406
-  - title: "Microsoft VP Explains How Its Cloud for Healthcare Will Reshape Industry"
-    excerpt: "Microsoft Cloud for Healthcare is the first of many custom, industry-specific cloud offerings Microsoft has planned."
-    publishedDateTime: 2020-05-20T21:10:00Z
-    webUrl: "https://www.thestreet.com/investing/microsoft-explains-cloud-for-healthcare-will-reshape-industry"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/microsoft-explains-cloud-for-healthcare-will-reshape-industry"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/microsoft-explains-cloud-for-healthcare-will-reshape-industry"
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+  - title: "Keyhole Software Earns Microsoft Gold Competency Status"
+    excerpt: "Keyhole Software announces its achievement of the Microsoft Gold Competency status. This accomplishment will increase its capacity to continue to serve their clients by offering quality Microsoft-based solutions."
+    publishedDateTime: 2020-05-14T07:08:00Z
+    webUrl: "https://www.pr.com/press-release/812467"
     type: article
     provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 61
-    images:
-      - url: "https://content.jwplatform.com/thumbs/9eFnHW1Q-720.jpg"
-        width: 720
-        height: 406
-  - title: "The top Azure announcements from Microsoft Build 2020"
-    excerpt: "Microsoft has built a new artificial intelligence supercomputer on its Azure cloud in collaboration with Open AI, and is rolling out a new Microsoft Cloud for Healthcare, the first of its planned ..."
-    publishedDateTime: 2020-05-20T06:28:00Z
-    webUrl: "https://www.crn.com.au/news/the-top-azure-announcements-from-microsoft-build-2020-548323"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 47
-    images:
-      - url: "https://i.nextmedia.com.au/News/20200520062800_0_0_0_0_70__News_20181029105528_crn_14_new_Microsoft_stock.jpg"
-        width: 1400
-        height: 900
-  - title: "Microsoft launches Cloud for Healthcare, its first industry vertical"
-    excerpt: "Microsoft has launched 'Cloud for Healthcare,' a bundle of cloud services and tools for healthcare providers. The first in what is expected to be a slew of industry verticals, the cloud package is available in public preview and as a six month free trial."
-    publishedDateTime: 2020-05-20T10:03:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-launches-cloud-healthcare-its-first-industry-vertical/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 32
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
+      name: PR
+      domain: pr.com
+    quality: 2
 
 secured: "OijzV5Yl8no65PBlGSOMBo2acGnZo0ipFrj5xgrgSqizMWELgfIsg1ERHqpRjsLokEH2SSO6qoiJRUI4ZQFlM/cZfCEqnCkyEEyJ4WQIIaWh1OvJEk64gwYH/1ASEEyR9ZcVgEaPTgvpiVvkIW6erpf/S3SHAcPl4d6aL9187FvosgpOcNSJKZNvNagI8HiNNayFqEiolLy1gF7OxQWZQeZ52ZQOzSqZ18M6ahzFDLM7nY3l1C/Lt6D46bhU5p0P9ZL53f87PN8K6YacPa7l5iM0YLAkwqCGbdJg0bAdGPBdKwbuewMq31p1Q6N8Zsb80jJ2xiiB0gZvzGs4HVHlvBWECoAvlcUN55zCwMQpRVPcKrpu6p44ZG/qeIpUR2uzkcVHs9vTPMG0dnrDdbhb4L0PiPN3pW2jdfBuh38aD53iOKUQ52sh4OT/GlTdhOVhU3rFZKEJg0zkkCud7sk3IYAxa1VRDSYGQP1o4VhAMaE=;cfHTAHvzQ/Swo0wzRJ0gLw=="
 ---

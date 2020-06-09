@@ -6,8 +6,8 @@ publishedDateTime: 2020-05-14T22:00:17Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-is-now-available-for-multiple-new-azure-services/"
 type: article
 quality: 77
-heat: 117
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -21,24 +21,51 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Relay—Azure Private Link support for sender clients is now available in preview"
+  - title: "Optional Uptime SLA now available for Azure Kubernetes Services (AKS)"
     excerpt: ""
-    publishedDateTime: 2020-05-18T21:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-relay-private-link-support-preview/"
+    publishedDateTime: 2020-05-13T16:00:42Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/optional-uptime-sla-now-available-for-azure-kubernetes-services-aks/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 70
-  - title: "Private Link is now available on Event Grid"
+    quality: 77
+  - title: "Azure Sphere update 20.05 is now available for compatibility testing"
     excerpt: ""
-    publishedDateTime: 2020-05-13T16:00:54Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/private-link-is-now-available-on-event-grid/"
+    publishedDateTime: 2020-05-14T21:00:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-update-2005-is-now-available-for-compatibility-testing/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 62
+    quality: 77
+  - title: "Azure Storage—Routing preferences now available for preview"
+    excerpt: ""
+    publishedDateTime: 2020-05-19T17:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/routing-preferences-azure-storage-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "New Azure IoT Central features are now available"
+    excerpt: ""
+    publishedDateTime: 2020-05-19T16:05:41Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-iot-central-features-are-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure Kubernetes Service (AKS) resource provider on Azure Stack preview "
+    excerpt: ""
+    publishedDateTime: 2020-05-19T16:05:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-aks-resource-provider-on-azure-stack-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 76
 
 secured: "wsHBGmow0cPyT+B95gVkE4RiHjf7OkH0jJObJooXEvv+Kzgw53NsHJkQvC4lm975o3QyMc5e/sEg5hrLb3GTRq8HbnbVaCCT0cnb4rhrMJxDBHYUvF5lhSB/jqLF0+T1fDNUkZI5CY32S0LuuNRcgeqHJ8mvt4quUzAdH1e1PXXWqgEThlC4XgErj9EBsvghJPdTe+KApDiA3Upo7wMR5iDDF3z4wRT6RbTibo9KjBjGox+hiiF1lBpuEpzGOhCopaG6GLwNOatTLEVAJohOXWS7fWxh1ErC/7T1KwCtXwZ25Zadfxe4GHmhw8cpfJtzwQ8pjLyqiAdUnDbZ1ppo2g==;SGlVPr+KTrkukd7aRzg2/w=="
 ---

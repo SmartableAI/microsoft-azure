@@ -8,7 +8,7 @@ ampWebUrl: "https://investorplace.com/2020/04/its-time-to-ride-microsoft-stock-t
 cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/04/its-time-to-ride-microsoft-stock-to-200-in-2020-and-beyond/amp/"
 type: article
 quality: 62
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -23,23 +23,6 @@ images:
     width: 1600
     height: 900
     title: "It’s Time to Ride Microsoft Stock to $200 in 2020 and Beyond"
-
-related:
-  - title: "Amazon Is Running Out of Ways to Stop Microsoft’s JEDI Deal"
-    excerpt: "Last October, the U.S. Department of Defense awarded Microsoft (NASDAQ:MSFT) its coveted Joint Enterprise Defense Infrastructure (JEDI) cloud contract. The deal, which will be worth up to $10 billion over the next 10 years, allows Microsoft to provide cloud infrastructure services for the Pentagon's business and mission operations. The JEDI ..."
-    publishedDateTime: 2020-04-22T17:55:00Z
-    webUrl: "https://www.fool.com/investing/2020/04/22/amazon-running-out-ways-stop-microsoft-jedi-deal.aspx"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/04/22/amazon-running-out-ways-stop-microsoft-jedi-deal.aspx"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/22/amazon-running-out-ways-stop-microsoft-jedi-deal.aspx"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 102
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F569046%2Fgettyimages-529769841.jpg&w=1200&op=resize"
-        width: 1200
-        height: 636
 
 secured: "xcdc5JxRA9M9aZMJ06wbgS9sH8jkHcHyuAlKGAZrU4cGA6HYSOw0BOxzI0ZdQ9dyuZglXTI+zPcxBDKwpdOVe+BWxl+FcRH2naYLLF/tUEdjXpAJrf5ITvS4kO8sgFWayt4VxvCnVnfh5oqsM+4rdFEdfZ4EdZ6uwiYR1ddKhlBZqfjtip1IPK8lPC1qs9JJDn6vEzZ4iGPYQsrg/630zLTSQ73GqPwWGC49/or7y/EryPFSch6jPptE8bALJ3ukESqkFqmtun61Ckyb0YB9h2PBzFJciruYLnGN2RNUX/aXwERFd8jddPCORK4drI7b/PalIIxC2g8vqMpNkUqh/L6cOE9HklLE5o700QXTS0hfE94w4AbIQsKGB2aZ3gfrbWGRi6aAsColbanMboNmsOJyiDxLzomXqA2g06dP1qEniX39/rxYlzTaIH1vpuoy2v12yLMVO/Ae9tb/ykUgsIg214syjvcrWqt64Yfn/ug=;FnskbXbjMa0//ujelDUuFQ=="
 ---

@@ -23,19 +23,41 @@ images:
     title: "Pitching unified cloud backup, Clumio extends its platform to Microsoft 365"
 
 related:
-  - title: "Clumio Adds Microsoft 365 SaaS Data Protection"
-    excerpt: "Hot cloud-native data protection startup Clumio Wednesday expanded into Software-as-a-Service data protection with the unveiling of secure backup capabilities for Microsoft 365 da"
-    publishedDateTime: 2020-04-29T15:45:00Z
-    webUrl: "https://www.crn.com/clumio-adds-microsoft-365-saas-data-protection"
+  - title: "ZINFI Launches Its Unified Channel Management Platform on Microsoft Azure"
+    excerpt: "Leading Unified Channel Management Platform Will Now Also Be Available on Microsoft Azure, Further Enhancing Platform Security,"
+    publishedDateTime: 2020-05-05T11:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/zinfi-launches-its-unified-channel-management-platform-on-microsoft-azure-1029164843"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 32
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
+  - title: "Fortanix Self-Defending Key Management Service now running on Microsoft Azure"
+    excerpt: "Defending Key Management Service is now running on Microsoft Azure to help customers protect private data in the public cloud."
+    publishedDateTime: 2020-05-04T00:32:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/05/04/fortanix-microsoft-azure/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 44
     images:
-      - url: "https://www.crn.com/resources/025c-0f49fcb180e7-a046dca29b25-1000/cybersecurity-data-lock-1.jpg"
-        width: 609
-        height: 456
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
+        width: 304
+        height: 430
+  - title: "Fortanix Data Security Platform Now Available on Microsoft Azure to Enhance Private Data Protection in the Public Cloud"
+    excerpt: "Fortanix® Inc., a Runtime Encryption® company, today announced the availability of the Fortanix Self-Defending Key Management Service™ running on Micr"
+    publishedDateTime: 2020-04-30T12:17:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200430005281/en/Fortanix-Data-Security-Platform-Microsoft-Azure-Enhance"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 23
+    images:
+      - url: "https://mms.businesswire.com/media/20200430005281/en/788603/23/Useprimary-landscape_logo.jpg"
+        width: 1200
+        height: 627
 
 secured: "gG9zG9t6NbK4ncSYHkZVwXyozTVkKcfSsOwITQgkc3487dOI6xy+BNNqB1a5c5985X8wBgcXrloiGjCq/PmZuJz2wkTY0kbdim707Obba6wX+7J2v+CM2/1HRsaTuMGQPZAS0klhMiaZ3s1hbWlGX5jTUxYZqzd4ysqNQllqK16Fcq+mvS+zbBgiJ6NVHD3oM4R1GR0nd7VniiwXyYkCLpv1l8MlZ0kYdQyZLFThCzipSyCdj++/6cOwa/XLequRfxOVHWmziib1s1ogAghWxaO2sNCKQKxvRxa7Gqvmwfs4ZgMcqInhVWb3k5wLuaGV;kSiriEH1X7VwjqCCZQVVSg=="
 ---

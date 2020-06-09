@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-29T09:00:53Z
 webUrl: "https://azure.microsoft.com/blog/azure-files-share-snapshot-management-by-azure-backup-is-now-generally-available/"
 type: article
 quality: 104
-heat: 124
+heat: 264
 published: true
 
 provider:
@@ -28,6 +28,51 @@ images:
     title: "Azure Files share snapshot management by Azure Backup is now generally available"
 
 related:
+  - title: "SAP HANA backup using Azure Backup is now generally available"
+    excerpt: "We are sharing that Microsoft Azure Backup’s solution for SAP HANA databases is generally available in all Azure Public and Gov Regions (with the exception of Germany Northeast and Germany central, France South & US Gov IOWA).\r\n\r\nAzure Backup is Azure's native backup solution, which is BackInt certified"
+    publishedDateTime: 2019-12-02T13:00:29Z
+    webUrl: "https://azure.microsoft.com/blog/sap-hana-backup-using-azure-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 79
+  - title: "Azure Archive expanded capabilities now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-23T16:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-archive-expanded-capabilities-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure Sphere update 20.04 is now available"
+    excerpt: ""
+    publishedDateTime: 2020-05-05T17:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-update-2004-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure Security Center—Dynamic compliance packages now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-28T23:00:42Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/dynamic-compliance-packages-ga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 76
+  - title: "Azure custom role creation in the Azure portal is now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-05-01T16:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-custom-roles-portal/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 76
   - title: "Azure File shares snapshot management by Azure Backup is now generally available"
     excerpt: ""
     publishedDateTime: 2020-04-29T16:00:05Z
@@ -37,6 +82,24 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 72
+  - title: "Windows Server containers in AKS now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-28T16:30:38Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/windows-server-containers-in-aks-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 62
+  - title: "The self-hosted gateway feature of API Management is now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-29T16:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/selfhosted-gateway-feature-in-api-management-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 59
 
 secured: "TCWEy5kSsBsBX26fzG08BboxmhUAHu1qM3miUoZniFd0qqanO5T84tCaMDEaeMtKfXIpIpCOed+Agw9TSHQ+P9ICAqN0Q3cdZCkizifMhvBBbes3uap5n1WVlrA1LhR3R2f3hfcpOLYfCE4ZMArhkE26gotu3+K+fblrDcf/MXZqNMYfAhv5RH+0HurF2nFGBl/qyf5Z1XMfyaJGAeJuyaQL80gCrrDRkNRZGmrJXMLSjtLFEWevhZuHBL/xxqc2nLhRGuab+sK65UfqDaC0T/J4mDHk2/0d9Xefjtzo5oGXfMSBrni1mdI5xSb/+bgLWKJXbW3tdbQqJNCwwl4rXQ==;kSNq5Y0dE8plNPTDIBGO/w=="
 ---

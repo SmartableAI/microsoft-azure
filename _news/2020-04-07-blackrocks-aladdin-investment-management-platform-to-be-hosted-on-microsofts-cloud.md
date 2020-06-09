@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN21P35X"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21P35X"
 type: article
 quality: 95
-heat: 95
+heat: 115
 published: true
 
 provider:
@@ -27,6 +27,21 @@ images:
     width: 851
     height: 545
     title: "BlackRock's Aladdin investment management platform to be hosted on Microsoft's cloud"
+
+related:
+  - title: "BlackRock partners with Microsoft to bolster Aladdin platform"
+    excerpt: "As part of a new partnership arrangement, asset manager BlackRock will host its Aladdin investment management and operations system on the Microsoft Azure cloud platform. BlackRock said that using ..."
+    publishedDateTime: 2020-04-08T15:33:00Z
+    webUrl: "https://www.investmentnews.com/blackrock-partners-with-microsoft-azure-191204"
+    type: article
+    provider:
+      name: InvestmentNews
+      domain: investmentnews.com
+    quality: 32
+    images:
+      - url: "https://s32566.pcdn.co/wp-content/uploads/2020/03/blackrock-2.jpg"
+        width: 900
+        height: 600
 
 secured: "B3ZIZ/cucH1/T1gJqyQaolY+BhIqZASmiHGHdnyc0fbQUH3tlgyKIlmM93qW9yf+qlnpajMOmKUxMu3NDoDsM1lzqNlLfWxA+3bMwTmx9VHshKsL9YAdClvwoVdIHjAKdgD5FdV85EwsD+sI0N5C8teDdwre/DC2OfWLbHr/AnTjvIikns6+3YsBbScKRF9erx3dVJvGIjfOKBhJ49Lvvvdgj8tFOlg2fRXrGHjo/PrdNb06Db9TdCvmq9IDO36xZxUjfjOz0TqaAlhZ2Thlq1UFjZon9vpQQxkK93Ugqe+6nLxohKR54CCJY/irt1wG;tDEiDPqjsVCELlym0LW0/w=="
 ---
