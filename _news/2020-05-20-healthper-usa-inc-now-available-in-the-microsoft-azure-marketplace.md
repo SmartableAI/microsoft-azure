@@ -5,7 +5,7 @@ excerpt: "Microsoft Azure customers worldwide now gain access to Healthper to ta
 publishedDateTime: 2020-05-20T16:53:00Z
 webUrl: "https://www.pr.com/press-release/813120"
 type: article
-quality: 47
+quality: 37
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ images:
   - url: "https://img.pr.com/release/2005/470793/pressrelease_original_470793_1589990219.png"
     width: 1280
     height: 720
+    isCached: true
     title: "Healthper USA, Inc. Now Available in the Microsoft Azure Marketplace"
 
 related:
@@ -31,11 +32,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 103
+    quality: 93
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8a5121d3-a63b-43d7-9fd0-2296e66f85f9.jpg"
         width: 585
         height: 383
+        isCached: true
   - title: "Azure Media Services is now available in Switzerland and Germany"
     excerpt: ""
     publishedDateTime: 2020-05-20T16:00:28Z

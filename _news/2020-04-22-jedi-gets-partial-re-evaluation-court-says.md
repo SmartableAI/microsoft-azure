@@ -5,7 +5,7 @@ excerpt: "A federal judge is giving the Defense Department until Aug. 17 to acce
 publishedDateTime: 2020-04-22T23:52:00Z
 webUrl: "https://defensesystems.com/articles/2020/04/22/jedi-saga-continues.aspx"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ images:
   - url: "https://defensesystems.com/-/media/GIG/EDIT_SHARED/Cloud/pentagoncloud_0.jpg"
     width: 760
     height: 368
+    isCached: true
     title: "JEDI gets partial re-evaluation, court says"
 
 related:
@@ -33,11 +34,12 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://media.bizj.us/view/img/10988802/rtrlnine110024*600xx4350-2900-100-0.jpg"
         width: 600
         height: 400
+        isCached: true
   - title: "Defense Dept. Can Revisit Bids On $10B JEDI Cloud Deal"
     excerpt: "The Court of Federal Claims is allowing the U.S. Department of Defense to narrowly reevaluate proposals for its $10 billion JEDI cloud computing contract amid a protest from Amazon, though it rejected the company’s view that any review should be broader."
     publishedDateTime: 2020-04-20T20:28:00Z
@@ -48,7 +50,7 @@ related:
     provider:
       name: Law360
       domain: law360.com
-    quality: 32
+    quality: 22
 
 secured: "jrJK0tdXIqXcSjnie6twtd5GhtfA/hzMNazDUtvCaVsuFW2ecVmTPXy0cPIpdChxuSfL6mB5IC3jQUlLBDlITBGyVTrryRRDWs5BcNkHbQZZ9G35nZgwE6e2LgZCA4ShOXugsxF1W5HO1MATkN6zkKColmpR1bH8+pcn5shY4T/LjYGi6nqMVWoPb6usM5vyx+W5tOy4dMYxml/w0WuT7NS0gMoRuySCilVkVq+FZ8Xr74L7jy+UUaDEJv/2xqIvGe74J4c6HJAemssnT48qqO6jM6ZhfN/3MF0/ynxKzBQRvQt1NFGxWvaIbw/MuLk2;Kvo+xdXcIaCIsO/0J5ffOg=="
 ---

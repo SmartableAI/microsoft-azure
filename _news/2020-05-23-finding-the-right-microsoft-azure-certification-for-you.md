@@ -5,7 +5,7 @@ excerpt: "Looking to earn an Azure certification? Our portfolio spans from funda
 publishedDateTime: 2020-05-23T05:22:00Z
 webUrl: "https://docs.microsoft.com/en-us/learn/certifications/posts/finding-the-right-microsoft-azure-certification-for-you"
 type: article
-quality: 47
+quality: 37
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ images:
   - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
     width: 400
     height: 400
+    isCached: true
     title: "Finding the right Microsoft Azure certification for you"
 
 related:
@@ -37,11 +38,12 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://tr2.cbsistatic.com/hub/i/r/2020/01/27/d505bbe9-3a79-428e-b3fc-2df23032fe7a/thumbnail/1200x675/4d963c918ba08a8a098d2d502246c0f5/20200124-macy-karen.jpg"
         width: 1200
         height: 675
+        isCached: true
   - title: "Is Apple Planning To Enter Cloud Computing Space?"
     excerpt: "The cloud computing sector has been heating up with Microsoft Azure and Google Cloud giving fierce competition to Amazon Web Services. Apple’s recent moves point towards gearing up its cloud infrastructure for its services."
     publishedDateTime: 2020-05-31T17:55:00Z
@@ -52,11 +54,12 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed3e134dc72730006b73a6e%2F0x0.jpg"
         width: 1000
         height: 685
+        isCached: true
 
 secured: "cbTxvybHHh2qeFvfxFs4laNyhJ8MoYo/HTd6VLQIv03VqiuVNXNiilWKMx+BsXZCVC2gqrlQRvx+LCBTRbU0t/l9+me2rcs2YJ6cRrOklQ8Q8X/SvI4Jqq1/YZwxMbDV2z0Lt7UDreFtRhB6IQmyWdPPxb7Ms62SFzKxOTVFXJVtzmDuw9kKjrHnc0AtWrCnbuQHIPmBrqtqB9g5NeDNpvBQwggEnYqLh3Vh0fgnfIdLsnYETpq7yb1cJuQ11c5if4act5J9Td0JbF+Sux2g98q17UOhX3JKUhC3wsOmFpwIexY2RMCC9nu6jpcd4XOy;1kXhA0H8ixwZRg30d1AwGg=="
 ---

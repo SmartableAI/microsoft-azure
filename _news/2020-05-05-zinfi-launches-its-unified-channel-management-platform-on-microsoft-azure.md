@@ -29,11 +29,12 @@ related:
     provider:
       name: Help Net Security
       domain: helpnetsecurity.com
-    quality: 44
+    quality: 34
     images:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
         width: 304
         height: 430
+        isCached: true
   - title: "Pitching unified cloud backup, Clumio extends its platform to Microsoft 365"
     excerpt: "Clumio Inc., fresh off one of the biggest Series C funding rounds for an early-stage enterprise software startup, today added Microsoft 365 support to its backup platform. Santa Clara, California-based Clumio exited stealth last August with a cloud-based backup platform that allows companies to create contingency copies of their data."
     publishedDateTime: 2020-04-29T18:48:00Z
@@ -42,11 +43,12 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 30
+    quality: 20
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/Poojan-Kumar-Clumio.png"
         width: 1094
         height: 616
+        isCached: true
   - title: "Fortanix Data Security Platform Now Available on Microsoft Azure to Enhance Private Data Protection in the Public Cloud"
     excerpt: "Fortanix® Inc., a Runtime Encryption® company, today announced the availability of the Fortanix Self-Defending Key Management Service™ running on Micr"
     publishedDateTime: 2020-04-30T12:17:00Z
@@ -55,11 +57,12 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 23
+    quality: 13
     images:
       - url: "https://mms.businesswire.com/media/20200430005281/en/788603/23/Useprimary-landscape_logo.jpg"
         width: 1200
         height: 627
+        isCached: true
 
 secured: "xl8n6duBMTG+gj/Y3Xd4+6alHioCAPdCWjKlRFzII3mht1Qt1CW+K2hsQw7xryBBu+P1jR+Xbj1B9drCKS5jDREqLftPjb4SGGCFrDZvJuOVbLGon52i+YWua3U/MlFdyjDCJ7bjhLytUxZKwv47A3IS1s+p/tmjRfVw//tKnGgeJ9rauyiwlRFKey3U4/u9OSO2XqspQFYDkU3VcNjk9ztPUm6AAMifQ7KyaOedRv0UGkWiWDpP9Ah9OqPvtzvVPEgYxgI3JY+JxJUXejTIRK/Esgwt4hgWJ7Ay1LccGxWr6gpxKRGY16GzGIt1taiK;FKcgSfu+Ulixd6gcHPM5RA=="
 ---

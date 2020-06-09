@@ -5,7 +5,7 @@ excerpt: "Microsoft's modern command-line application for Windows 10, the new Wi
 publishedDateTime: 2020-05-19T15:12:00Z
 webUrl: "https://www.thurrott.com/dev/236298/microsoft-releases-windows-terminal-1-0"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ images:
   - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/05/windows-terminal.jpg"
     width: 1280
     height: 720
+    isCached: true
     title: "Microsoft Releases Windows Terminal 1.0"
 
 related:
@@ -33,11 +34,12 @@ related:
     provider:
       name: PC Magazine
       domain: pcmag.com
-    quality: 117
+    quality: 97
     images:
       - url: "https://i.pcmag.com/imagery/articles/00TYN1x1sWt95nJKOcFrn8y-1.fit_lim.size_1200x630.v_1590154031.jpg"
         width: 1120
         height: 630
+        isCached: true
   - title: "Microsoft Gives Azure Lighthouse MSP Tool Some Attention"
     excerpt: "Microsoft Azure Chief Technology Officer Mark Russinovich provided an update on Azure Lighthouse progress in a blog post in the wake of Build, Microsoft's biggest annual conference for developers."
     publishedDateTime: 2020-05-27T19:51:00Z
@@ -46,11 +48,12 @@ related:
     provider:
       name: Redmond Channel Partner
       domain: rcpmag.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BrightTunnelSmall.jpg"
         width: 647
         height: 450
+        isCached: true
   - title: "Microsoft Azure: The Winning Formula"
     excerpt: "Microsoft's Azure platform registered a 59% revenue growth in the last quarter, fueling concerns of a slowdown and suggesting its losing ground to Amazon's AWS."
     publishedDateTime: 2020-05-28T12:36:00Z

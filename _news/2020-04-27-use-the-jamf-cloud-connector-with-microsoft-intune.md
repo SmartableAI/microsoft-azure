@@ -5,7 +5,7 @@ excerpt: "Use the Jamf Cloud Connector with Microsoft Intune compliance policies
 publishedDateTime: 2020-04-27T21:26:00Z
 webUrl: "https://docs.microsoft.com/en-us/mem/intune/protect/conditional-access-jamf-cloud-connector"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ images:
   - url: "https://docs.microsoft.com/en-us/mem/intune/protect/media/conditional-access-jamf-cloud-connector/copy-application-id.png"
     width: 517
     height: 269
+    isCached: true
     title: "Use the Jamf Cloud Connector with Microsoft Intune"
 
 related:
@@ -37,11 +38,12 @@ related:
     provider:
       name: Neowin
       domain: neowin.net
-    quality: 102
+    quality: 82
     images:
       - url: "https://cdn.neow.in/news/images/uploaded/2020/04/1588004153_cocacola_microsoft_story.jpg"
         width: 760
         height: 428
+        isCached: true
   - title: "Google extending cloud reach with Cisco, Amazon and Microsoft connections"
     excerpt: "Google made several announcements, including a partnership with Cisco that will better connect Cisco’s software-defined wide area network (SD-WAN) tools with Google Cloud. Google also announced the production release of Anthos for Amazon’s AWS and a preview"
     publishedDateTime: 2020-04-28T20:54:00Z
@@ -52,11 +54,12 @@ related:
     provider:
       name: TechSpot
       domain: techspot.com
-    quality: 101
+    quality: 81
     images:
       - url: "https://static.techspot.com/images2/news/bigimage/2020/04/2020-04-28-image-30.jpg"
         width: 2461
         height: 1200
+        isCached: true
   - title: "Zoom partners with Oracle to buttress its cloud infrastructure as user base exceeds 300 million"
     excerpt: "Zoom experienced a surge of scale for which it was not prepared, as evidenced by security issues that came with the enormous customer base. This growth also put tremendous pressure on its cloud infrastructure."
     publishedDateTime: 2020-04-28T22:15:00Z
@@ -67,11 +70,12 @@ related:
     provider:
       name: TechSpot
       domain: techspot.com
-    quality: 90
+    quality: 70
     images:
       - url: "https://static.techspot.com/images2/news/bigimage/2020/04/2020-04-28-image-32.jpg"
         width: 2560
         height: 1708
+        isCached: true
   - title: "Coca-Cola Company Partners With Microsoft To Standardize Business Operations"
     excerpt: "(RTTNews) - The Coca-Cola Company (KO) announced a five-year agreement with Microsoft Corp. (MSFT) to standardize its business operations on Microsoft's cloud. The partnership will utilize the capabilities of Microsoft Azure,"
     publishedDateTime: 2020-04-27T13:38:00Z
@@ -82,7 +86,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 69
+    quality: 59
   - title: "Coca-Cola selects Microsoft cloud to modernize its business"
     excerpt: "The Coca-Cola Company today announced a five-year agreement with Microsoft to standardize its business operations on Microsoft’s cloud. As part of this partnership, Coca-Cola will be using Microsoft Azure,"
     publishedDateTime: 2020-04-27T14:29:00Z
@@ -93,24 +97,12 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/04/Coca-cola-Microsoft.jpg"
         width: 1189
         height: 616
-  - title: "The Coca-Cola Company announces strategic partnership with Microsoft to transform global engagement and experiences"
-    excerpt: "The Coca-Cola Company (NYSE: “KO”) on Monday announced a five-year agreement with Microsoft Corp. (Nasdaq: “MSFT)"
-    publishedDateTime: 2020-04-27T15:31:00Z
-    webUrl: "https://apnews.com/PR Newswire/cd5af10340231d2145bc2ee6bc0ff70d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 10
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+        isCached: true
   - title: "Coca-Cola partners Microsoft to transform global engagement, experiences"
     excerpt: "With this agreement, the companies will use the functionalities of Microsoft Azure, Dynamics 365 and Microsoft 365. These products will help The Coca-Cola Company gain new insights from data across the enterprise, enabling a 360-degree view of the business ..."
     publishedDateTime: 2020-04-27T14:04:00Z
@@ -120,6 +112,20 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 1
+  - title: "The Coca-Cola Company announces strategic partnership with Microsoft to transform global engagement and experiences"
+    excerpt: "The Coca-Cola Company (NYSE: “KO”) on Monday announced a five-year agreement with Microsoft Corp. (Nasdaq: “MSFT)"
+    publishedDateTime: 2020-04-27T15:31:00Z
+    webUrl: "https://apnews.com/PR Newswire/cd5af10340231d2145bc2ee6bc0ff70d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "9GjosM6PfzVLbUrUdrefC3lHfSs0sLdh5rHIZTwTeWxIX4BlK8CJbuS8NqFtUNiPkSTm2E4H/0dpV1bOmsHg735gqPxTsA7/2vsGDc/DvEyfJw0ReoYZH5hfaHdf4Bt55yghjc2yIvUhShwsoOazU8sAQu+SJWNo/lk5pX+G2sVjEN7UQMk09TK2kT+MYvB0gN50V+nUOxxZq1p/t9u4fB1ltIn2zgBn62oJvGZ9K3gFrHchcij8XhbDzA4czYbka5BsA6+P5Ofs/PJUDYPIVJ7Ml6ExnwABS0onVuwmKLDDVs+Pyl+UGbV/9WiNCmeFMp26tABGNfOecen1Lqd7FfHYjyGU88AxQjyhZNUB59PayW7ZvBwYCsUIO1JyuJmthnIUMOi2wNBmAU4ekfi9Gf/U7JcIbt4splwB03xpMcaDS9DrsiW93AKtZVqskFl+ma7Hwm6f49fs/WDVZ4vorueJxZ3R6gWxf27zE1XBzHc=;w2P38MIiE3JzyFxGQuMU1g=="
 ---

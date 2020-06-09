@@ -7,8 +7,8 @@ webUrl: "https://www.engadget.com/nba-microsoft-ai-game-streaming-193552938.html
 ampWebUrl: "https://www.engadget.com/amp/nba-microsoft-ai-game-streaming-193552938.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/nba-microsoft-ai-game-streaming-193552938.html"
 type: article
-quality: 102
-heat: 142
+quality: 82
+heat: 122
 published: true
 
 provider:
@@ -26,6 +26,12 @@ images:
   - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2Fe672f1f0-8016-11ea-bf7d-a13ca0c61986&client=amp-blogside-v2&signature=d0bc9b0731e9556c551afdfd5caddca0b0c3a3c3"
     width: 600
     height: 350
+    isCached: true
+    title: "NBA and Microsoft plan personalized, AI-powered game streaming"
+  - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2Fe672f1f0-8016-11ea-bf7d-a13ca0c61986&client=amp-blogside-v2&signature=367ee89763943fe5bf2550b7ae4f7fa87ca6b3bb"
+    width: 600
+    height: 350
+    isCached: true
     title: "NBA and Microsoft plan personalized, AI-powered game streaming"
 
 related:
@@ -39,11 +45,16 @@ related:
     provider:
       name: Digital Trends
       domain: digitaltrends.com
-    quality: 98
+    quality: 78
     images:
       - url: "https://icdn2.digitaltrends.com/image/digitaltrends/oklahoma-city-thunder-v-golden-state-warriors-game-seven-1200x630-c-ar1.91.jpg"
         width: 1200
         height: 628
+        isCached: true
+      - url: "https://icdn2.digitaltrends.com/image/digitaltrends/oklahoma-city-thunder-v-golden-state-warriors-game-seven-1200x630-c-ar1.91-n.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "The NBA and Microsoft plan to release a new AI-driven DTC streaming platform"
     excerpt: "The NBA and Microsoft announced a new multiyear partnership aimed at transforming the digital fan experience through a direct-to-consumer platform."
     publishedDateTime: 2020-04-20T14:25:00Z
@@ -52,12 +63,13 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 69
+    quality: 59
     images:
       - url: "https://i.insider.com/5e6bd9bd84159f6e8f786846?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
 
-secured: "aCRKyPlQz0JYwYonUEaIQFZdEy8ORpJ9dpacZp1ZbDpOmWFF9HgeY0TPRGccuickTMzyqGB+abc7sEwZbbvMPoFOj4coKb18kFx6qsD8LaVcrphMriohAFWdMYwyHl+PTvSwClQG+GisW3hhLNdi8exIUyDECzI2yzZt3DXBZRfFKh8sXLtc+c1Dk1UFuTgEZWhH2Uz+kGfwQZjM9E2lih5f1k5WJh7RU/24LEvjShNkVR9gyJcQAK/xeG+AsBruTSX8Tt2FSiJ5ye5sNOBJOlc4ZtrvMZ/9EU//2mC8OBkOHjEKFaoxbdyWY3pQi7/2oKMnhVxvdV3IJ5z8NnTr0T3CZ9lYAmAs21zZ4NTbY0ptsdkLSRqYJCCSxfjKeBM9LNkYNibTF09s6WAdf2zKgts4gkC6b0cL1hcA5l0H1tCqjmzWSb4x0TpDBfK/IJHk7ANPUlNfjfgFrYozq4hxNH79EnDHKfdrghiOWGdMgc8=;/yQz1fMvFA8uV4ghi3wBmA=="
+secured: "UXe/ANVGet2fpUU4fu/S6qSN+8dEYMxiHBSs0wAz87vFF2SdUjxCRuJNHF6I2v8VY/1Gpz1vX+1MumTeGbwcmDSgDvir9sR3vfdfCbUsU0kmr6LyIbEEQJ40N4Yc26eb5wq/lPYor54yoPHGSWsukr3ZowCZnfbni8HZs41o6ILK3ZriiU8F/9dU6Nnj28CXJ73PfwqQtcbKCYQh+nqMlg7K0Kk8yYKgOWDFM5R0Q1/HGp2sRnsOP07+IiW7CtrbHShhEVUwS5gjqQgvAocu66sJ/kUYnWLSrVsfo0eldbonnPXn4fzvZHkuRKAEvJqo;+NnzkCnDkwfC1wNM2D+tkQ=="
 ---
 

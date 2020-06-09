@@ -7,8 +7,8 @@ webUrl: "https://www.fool.com/investing/2020/04/17/forget-microsoft-arista-netwo
 ampWebUrl: "https://www.fool.com/amp/investing/2020/04/17/forget-microsoft-arista-networks-is-a-better-cloud.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/17/forget-microsoft-arista-networks-is-a-better-cloud.aspx"
 type: article
-quality: 102
-heat: 162
+quality: 82
+heat: 142
 published: true
 
 provider:
@@ -26,6 +26,7 @@ images:
   - url: "https://media.ycharts.com/charts/24981e8743742bcb2fd3f34c85905335.png"
     width: 720
     height: 386
+    isCached: true
     title: "Forget Microsoft, Arista Networks Is a Better Cloud Stock"
 
 related:
@@ -39,11 +40,12 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568510%2Fmicrosoft-better-cloud-mf.jpg&w=1200&op=resize"
         width: 1200
         height: 480
+        isCached: true
   - title: "Microsoft Stock Keeps Winning Because It Has Been Essential for Years"
     excerpt: "Microsoft (NASDAQ:MSFT) is also the star of my personal portfolio. I bought Microsoft stock a few years after Satya Nadella became CEO, committing the company’s future to the cloud, and its capital costs. My shares have more than tripled in value. There’s a good reason. In running your business there are many expenses you can forego during ..."
     publishedDateTime: 2020-04-17T11:44:00Z
@@ -54,11 +56,12 @@ related:
     provider:
       name: InvestorPlace
       domain: investorplace.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://investorplace.com/wp-content/uploads/2020/03/shutterstock_698745022-compressor.jpg"
         width: 1600
         height: 900
+        isCached: true
   - title: "Charles River IMS readies for Microsoft Azure"
     excerpt: "Charles River Development, a State Street Company, today announced that its strategic cloud solution, Charles River Investment Management Solution (Charles River IMS), has achieved platform and operational readiness on Microsoft Azure. The offering utilizes Microsoft’s scale and security capabilities to provide investment firms with a ..."
     publishedDateTime: 2020-04-17T08:49:00Z
@@ -67,11 +70,12 @@ related:
     provider:
       name: Finextra
       domain: finextra.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
         width: 480
         height: 270
+        isCached: true
 
 secured: "SA7TrfhKZK75lG4jK8FLPUNXzZ+exQqb81Xp/ym1R2KSEtEhvPBQDjNXZOdopILgLElhXPFWHdQXbppEKBuz2JX4KtEk5UeQF8RcTPU8eNpyCHD9HvhGM9sc3DTPIyVw2Q3u90Phgki+S3V4/ygbLz258sDbwLVO1N/GmGrnMiZH92sFsstqxhXY/n/dsrNY7Ee77pKBl8x0UKkrdqX0lVMpID+m/b4ras3HSzOQqpWt4GDtaWywVa/wwCHgvurtkSHr/ny6lDefTCkkkP8wvzQ51+cKHrdlfJeXF2LEA4lx9ub1ia2qJhK08uMK5DHpYMsA6gJ8YJv8m1Dyurd4gtfqDFda38uTfAJBMc60CnpRf9E8rUcvYFz07msa8sYrX1da/jUpLrRWR04QS1hR7IWOhH1weJo4sK3kOengRXNNShdjYxI3XtI7ZVJW6e+x9YaDCqkzlRuK5Q6TD5/7GXWIL1wiUFRaNGI5eYcQ7RM=;R69bLNodsklWep3YmwV0PA=="
 ---

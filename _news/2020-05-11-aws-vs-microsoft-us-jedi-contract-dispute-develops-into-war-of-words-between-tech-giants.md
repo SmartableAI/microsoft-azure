@@ -7,7 +7,7 @@ webUrl: "https://www.computerweekly.com/news/252482909/AWS-vs-Microsoft-US-JEDI-
 ampWebUrl: "https://www.computerweekly.com/news/252482909/AWS-vs-Microsoft-US-JEDI-contract-dispute-develops-into-war-of-words-between-tech-giants?amp=1"
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252482909/AWS-vs-Microsoft-US-JEDI-contract-dispute-develops-into-war-of-words-between-tech-giants?amp=1"
 type: article
-quality: 23
+quality: 13
 heat: -1
 published: false
 
@@ -29,11 +29,12 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://media.bizj.us/view/img/4173721/181492672*600xx2005-1341-0-94.jpg"
         width: 600
         height: 401
+        isCached: true
   - title: "AWS Fires Back At Microsoft As JEDI Cloud Battle Rages: ‘We Won’t Back Down’"
     excerpt: "The war of words is heating up between Microsoft and AWS as the Pentagon is rejigging the JEDI cloud RFP behind closed doors. After a Microsoft executive urged Amazon Web Services to “stand down” on its JEDI protests,"
     publishedDateTime: 2020-05-08T21:24:00Z
@@ -42,11 +43,12 @@ related:
     provider:
       name: CRN
       domain: crn.com
-    quality: 29
+    quality: 19
     images:
       - url: "https://www.crn.com/resources/025d-0f5c8e54763b-7560272feb30-1000/pentagon-front.jpg"
         width: 610
         height: 457
+        isCached: true
 
 secured: "PbBiazMtxurAWTWqypdkUOZvMWjieLKsPkyTAs+sSItV4rVTFj6CGdqz3yJe6ca63B23pzvT9LLEfX2Efntk20+oahCye5rOQ3/ZvxKJFAApfQpEbjpuX66TcBRo+MvM2WDnKvNwr9J1jPDPUZR9Oty+H+FnPJgv60vDlAjFCTEa9EPKjapa9KnA6Uqr75Vl3G3TDC8mbka55XuJQ6M7SoruAWVfqXrehPvokhQ+0mgxzKI/Fe1CRx+/SrGba+TEx6cIIC6mTpqpuxFtloOAOwX/dWeHkzfROmtSbz+ILs5Jf8iGDBA3CO1wyhFrUGjiLHUvpEIZsGwjS04vhTxNe2BkpCHUzfFLX5Q2g/jH9teOZ5rU0jNF5PRE/o+7ofzXSWS1WriJlNPrjTeLfuFnaJKh/4XAe7TfTvViU40ReG9t7cSEcyVndBST+g2A8bzqlW+tgnoZiC7fTCq8mTMLKXIeAqTV+dPKVkZimk7oKbc=;WOLeOMPn00QVmXgRl5cVsg=="
 ---

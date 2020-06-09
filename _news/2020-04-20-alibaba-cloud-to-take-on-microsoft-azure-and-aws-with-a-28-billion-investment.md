@@ -7,7 +7,7 @@ webUrl: "https://mspoweruser.com/alibaba-cloud-to-take-on-microsoft-azure-and-aw
 ampWebUrl: "https://mspoweruser.com/alibaba-cloud-to-take-on-microsoft-azure-and-aws-with-a-28-billion-investment/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/alibaba-cloud-to-take-on-microsoft-azure-and-aws-with-a-28-billion-investment/amp/"
 type: article
-quality: 73
+quality: 53
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ images:
   - url: "https://mspoweruser.com/wp-content/uploads/2018/10/Swift-Azure.jpg"
     width: 932
     height: 537
+    isCached: true
     title: "Alibaba Cloud to take on Microsoft Azure and AWS with a $28 billion investment"
 
 related:
@@ -35,11 +36,12 @@ related:
     provider:
       name: TechRadar
       domain: techradar.com
-    quality: 117
+    quality: 97
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/5egycZyR8KutGdsgWQA3M7-1200-80.jpg"
         width: 1023
         height: 576
+        isCached: true
   - title: "Microsoft Azure Stack HCI"
     excerpt: "Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here. Azure Stack HCI delivers unmatched performance, with a path to hybrid ..."
     publishedDateTime: 2020-04-25T23:05:00Z
@@ -48,11 +50,12 @@ related:
     provider:
       name: CRN
       domain: crn.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://www.crn.com/resources/025b-0eff6361f68a-29cd08758548-1000/1azurestackportfolio.jpg"
         width: 515
         height: 305
+        isCached: true
 
 secured: "zF+xc225kxk3e9k08aSMdi421fGArZ33SCHLNOksx0UAECZHiu5qyvT0ThCDGJOWIpxl0DP6ylGaPGDmQu5k5+vRmpoHxPUwY2QfQmfR/KfQHj+wO3lKQIqG+QHCpmGJxy7yEliYrR9Tpl3H9gOhujvoIyDeFg95KjqdU6hJJD0Wp+fnUz/W5+QkISCtrcQjIi5GmPmxejq9/qZVXA/bYbTTKk0suVuj9jCpTf3Vw9O+5PUcZYA4lojYOHrZRfFl+NTFPY4YplMB3NV8wI6wtnybQzK0G9LLxNlupfTOencnM2jgXBG+I9Jz623L79adyx+rG+N3N6LUAHNDX1m4mSQw9bQr78r1QrbLcknnjOKCokIDxvOaU+Xv/ddF9adzmYQc7iJli+NQzgvQZuny8ybHV7rsL2Di/XFvEpQ+oEI9cQbhppsz+iWZ6phhf4xb/4OMvf0gTWT8ye7Sv3jv6hHvOdU0IKySP0wfq4MOOg4=;HZZWncniLVrG0yI0Xwsr6g=="
 ---

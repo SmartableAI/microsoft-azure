@@ -5,7 +5,7 @@ excerpt: ""
 publishedDateTime: 2020-05-07T20:00:12Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-update-may-2020/"
 type: article
-quality: 107
+quality: 97
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/be59ad04-9d29-4851-89f0-285e7d1aea26.png"
     width: 1367
     height: 678
+    isCached: true
     title: "Azure API Management update—May 2020"
 
 related:
@@ -35,11 +36,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 111
+    quality: 101
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/099b92eb-591a-4ea0-b7b4-78f34f6e8f57.png"
         width: 1506
         height: 872
+        isCached: true
 
 secured: "XFVoSrHl5PCo6vxMeInyICCkvq834pTn2AT5TLLlW89xp+8cSi0cAEcCI2qo4CggCQItQhwB6zsANMsjsLAozF2haiVak61oo/IKBdjB5Nrg84lLf32yAu5n/0IXdx4MmvluIhhVr1TbjvEC65PQyerynInIgS7cIuijKLXtnlhjBFztwVX9qoJ59TuMN3tX+GQW8jSLK9U+9SJz5evgxX7hFcJw5WbDoOfkqTIXqyoXGWPguJYYjTmsYomTsW5kJCYp8lQd5aRhL4oRKog+W7k+rp+Px2SXaNEFn2Aavz22OpsGChfXmhWIpYCkqd5u/N0Mg0/UeDRruroPphVytg==;SLXdsYz5h0Dy8pAvpqtdbw=="
 ---

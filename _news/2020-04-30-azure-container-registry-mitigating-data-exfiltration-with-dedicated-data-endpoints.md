@@ -5,8 +5,8 @@ excerpt: "Azure Container Registry announces dedicated data endpoints, enabling 
 publishedDateTime: 2020-04-30T10:00:07Z
 webUrl: "https://azure.microsoft.com/blog/azure-container-registry-mitigating-data-exfiltration-with-dedicated-data-endpoints/"
 type: article
-quality: 100
-heat: 120
+quality: 90
+heat: 110
 published: true
 
 provider:
@@ -24,6 +24,7 @@ images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/65527b4a-84d5-4864-92e5-78da3ecba512.png"
     width: 640
     height: 214
+    isCached: true
     title: "Azure Container Registry: Mitigating data exfiltration with dedicated data endpoints"
 
 related:

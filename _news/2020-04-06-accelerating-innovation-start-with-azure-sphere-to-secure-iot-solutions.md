@@ -5,8 +5,8 @@ excerpt: "From agriculture to healthcare, IoT unlocks opportunity across every i
 publishedDateTime: 2020-04-06T09:00:29Z
 webUrl: "https://azure.microsoft.com/blog/accelerating-innovation-start-with-azure-sphere-to-secure-iot-solutions/"
 type: article
-quality: 123
-heat: 163
+quality: 113
+heat: 153
 published: true
 
 provider:
@@ -25,6 +25,7 @@ images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/73aa9c0c-7e7e-4101-85bb-d9ca8bd9d769.jpg"
     width: 1024
     height: 536
+    isCached: true
     title: "Accelerating innovation: Start with Azure Sphere to secure IoT solutions"
 
 related:
@@ -45,11 +46,12 @@ related:
     provider:
       name: StorageReview
       domain: storagereview.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://www.storagereview.com/wp-content/uploads/2020/04/StorageReview-Microsoft-Azure-Sphere.png"
         width: 979
         height: 456
+        isCached: true
 
 secured: "h58WrqUGfszyBzTOuXaNAMRt/GSoDqy0aNx18nNXK4bmwk+HDwYHQ+3ZgCgbLrfI0i0h/ErdbxtNqg1daCVm+wA0BreulFn0GZE7kjXJC+j7pGIlT7tf7pFPe610SZfZ4L/YfaXTgM8qgGYpW0+CkKgebcUbhcKsGpj++xJNBkDRXxSC+5+nFQgbgYWgA6zhJx5rt8qYr8lsHU7Ouyzskq6p0mUrtwIWdHNidwiiNTODq4fHVsHBNd0h4yh6urOLQzEUNO42E6wGjawsGilFk+szphgBRJba+jZwsrMdm1J2duyySRBzVavkWoVtrmenk5YvN5Kc2ghKDh0ulZYNnA==;iRRDZknayPfLvl0psSRT+A=="
 ---

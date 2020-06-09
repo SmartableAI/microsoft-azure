@@ -5,7 +5,7 @@ excerpt: "Clumio Inc., fresh off one of the biggest Series C funding rounds for 
 publishedDateTime: 2020-04-29T18:48:00Z
 webUrl: "https://siliconangle.com/2020/04/29/clumio-extends-platform-microsoft/"
 type: article
-quality: 30
+quality: 20
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/Poojan-Kumar-Clumio.png"
     width: 1094
     height: 616
+    isCached: true
     title: "Pitching unified cloud backup, Clumio extends its platform to Microsoft 365"
 
 related:
@@ -40,11 +41,12 @@ related:
     provider:
       name: Help Net Security
       domain: helpnetsecurity.com
-    quality: 44
+    quality: 34
     images:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
         width: 304
         height: 430
+        isCached: true
   - title: "Fortanix Data Security Platform Now Available on Microsoft Azure to Enhance Private Data Protection in the Public Cloud"
     excerpt: "Fortanix® Inc., a Runtime Encryption® company, today announced the availability of the Fortanix Self-Defending Key Management Service™ running on Micr"
     publishedDateTime: 2020-04-30T12:17:00Z
@@ -53,11 +55,12 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 23
+    quality: 13
     images:
       - url: "https://mms.businesswire.com/media/20200430005281/en/788603/23/Useprimary-landscape_logo.jpg"
         width: 1200
         height: 627
+        isCached: true
 
 secured: "gG9zG9t6NbK4ncSYHkZVwXyozTVkKcfSsOwITQgkc3487dOI6xy+BNNqB1a5c5985X8wBgcXrloiGjCq/PmZuJz2wkTY0kbdim707Obba6wX+7J2v+CM2/1HRsaTuMGQPZAS0klhMiaZ3s1hbWlGX5jTUxYZqzd4ysqNQllqK16Fcq+mvS+zbBgiJ6NVHD3oM4R1GR0nd7VniiwXyYkCLpv1l8MlZ0kYdQyZLFThCzipSyCdj++/6cOwa/XLequRfxOVHWmziib1s1ogAghWxaO2sNCKQKxvRxa7Gqvmwfs4ZgMcqInhVWb3k5wLuaGV;kSiriEH1X7VwjqCCZQVVSg=="
 ---

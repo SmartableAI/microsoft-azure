@@ -7,7 +7,7 @@ webUrl: "https://mspoweruser.com/microsoft-azure-cosmos-db-serverless-cheap/"
 ampWebUrl: "https://mspoweruser.com/microsoft-azure-cosmos-db-serverless-cheap/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-azure-cosmos-db-serverless-cheap/amp/"
 type: article
-quality: 77
+quality: 57
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ images:
   - url: "https://mspoweruser.com/wp-content/uploads/2017/05/azure-cosmos-db-2.jpg"
     width: 1200
     height: 800
+    isCached: true
     title: "Microsoft introduces a more cost-effective way to use Azure Cosmos DB"
 
 related:
@@ -33,11 +34,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 107
+    quality: 97
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f5bfc52e-3a1c-4356-968c-9858e49b7711.jpg"
         width: 1024
         height: 529
+        isCached: true
   - title: "Change feed with full database operations for Azure Cosmos DB "
     excerpt: ""
     publishedDateTime: 2020-05-21T04:00:35Z

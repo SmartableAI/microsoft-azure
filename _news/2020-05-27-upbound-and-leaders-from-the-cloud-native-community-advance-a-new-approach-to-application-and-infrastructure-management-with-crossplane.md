@@ -25,11 +25,12 @@ related:
     provider:
       name: Help Net Security
       domain: helpnetsecurity.com
-    quality: 22
+    quality: 12
     images:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
         width: 304
         height: 430
+        isCached: true
 
 secured: "jFuVsr0C5grrX5QIzHzpJ9C4MRCl+pfM17TbWP/waHYjhC6UyypJoob86t8hcNKIi7yeZLxfzoKU9UJldVTi3Qj/EtbbymwwubaI1UVE8+C2s48z+ZJKT0AQLVxcIJ16D0tM63K7/I2fLQMDjMdANqtCvxSgEwZbiiWzO9ES3wymAwD4ddyOtQb1h4YjHPMVSQOtwZcYVgtE94xd202CnB2AQ52RSzUC30ceu5jjXcqYRDEoUSt33eZk3DM3qVwusUcYjK+5Sco9DH3PFsez5Ggt+VDteKqLj4BLfdpUNh5bsKaVgk95+vP0QPhyGmJR;ONZXK2iraNvKm3HAnbsyWw=="
 ---

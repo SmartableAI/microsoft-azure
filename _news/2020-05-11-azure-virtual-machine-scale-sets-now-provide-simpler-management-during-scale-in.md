@@ -5,7 +5,7 @@ excerpt: "We recently announced the general availability of three features for A
 publishedDateTime: 2020-05-11T12:00:03Z
 webUrl: "https://azure.microsoft.com/blog/azure-virtual-machine-scale-sets-now-provide-simpler-management-during-scalein/"
 type: article
-quality: 120
+quality: 110
 heat: -1
 published: false
 
@@ -25,6 +25,7 @@ images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/985df91e-de4d-4c27-a28b-f3ec9be164e3.jpg"
     width: 1024
     height: 696
+    isCached: true
     title: "Azure Virtual Machine Scale Sets now provide simpler management during scale-in"
 
 related:
@@ -36,11 +37,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 124
+    quality: 114
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/333076bc-4f9e-4461-9ba7-810752e19173.jpg"
         width: 800
         height: 468
+        isCached: true
   - title: "Announcing the general availability of Azure Monitor for virtual machines"
     excerpt: "Today we're announcing the general availability of Azure Monitor for virtual machines (VMs), which provides an in-depth view of VM performance trends and dependencies. You can access Azure Monitor for VMs from the Azure VM resource blade to view details about a single VM, from the Azure Virtual Machine"
     publishedDateTime: 2020-03-16T10:00:32Z
@@ -49,11 +51,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 123
+    quality: 113
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8aaf8f84-054c-4681-82e8-58dd8d160940.png"
         width: 1430
         height: 953
+        isCached: true
   - title: "Virtual Network NAT now generally available in Azure Government and Azure China"
     excerpt: ""
     publishedDateTime: 2020-05-07T21:00:13Z
@@ -80,11 +83,12 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 41
+    quality: 31
     images:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+        isCached: true
   - title: "Qualys Delivers Vulnerability Management to Microsoft Azure Security Center for Virtual Machines and Containers"
     excerpt: "Now, Microsoft Azure developers and customers have real-time visibility to secure and remediate cloud workloads at a click of a button with built-in orchestration as well.\" \"Security is in the DNA ..."
     publishedDateTime: 2020-05-07T13:06:00Z
@@ -93,11 +97,12 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 27
+    quality: 17
     images:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+        isCached: true
   - title: "Microsoft Announces the General Availability of Windows Server Containers, and More for AKS"
     excerpt: "Microsoft launched a preview of Windows Server Containers in Azure Kubernetes Service (AKS). Now the company announced the general availability of Windows Server containers in AKS, including the support of private clusters and managed identities."
     publishedDateTime: 2020-05-05T11:23:00Z
@@ -106,11 +111,12 @@ related:
     provider:
       name: InfoQ
       domain: infoq.com
-    quality: 22
+    quality: 12
     images:
       - url: "https://cdn.infoq.com/statics_s2_20200602-0333/styles/static/images/logo/logo-big.jpg"
         width: 1200
         height: 630
+        isCached: true
 
 secured: "iFqh4kTYvOb/wwpfYavPakPiZ0roIo2bGLjXaJ/Nk6oLcZ/i41EcJ1ch3CCSWGNZ81Zf++RqMJy2frSisowerYIxdqjo1b2DmUsM5UPX0CiT21Op1qqofnTVy23UyO3xVjFJjB3IxITwCKAeLy0dBkEiHs3J5XSiT6MJ5o5Z0dHWFeZ0Jw/S6G9nNF9c6AyXgZJEPvaIiMVrb+WKay6+DZ6DknLWiWGq/UyaEaKW9nt1Hol0315wz889bEpYrK2X49p8vD31lTqssUUwGzz4sT5/U0sKQX0ldUWEC0K6MJXysqcYV1QHb+vKBELXCVEIb7Ylq51Pe1YYRcuMY/CjUw==;XYIP+Pp1bbg1TYmLbOgwYg=="
 ---

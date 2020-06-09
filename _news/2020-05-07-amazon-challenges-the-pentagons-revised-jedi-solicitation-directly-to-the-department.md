@@ -5,7 +5,7 @@ excerpt: "Amazon Web Services filed a bid protest directly to the Department of 
 publishedDateTime: 2020-05-07T22:19:00Z
 webUrl: "https://www.federaltimes.com/it-networks/cloud/2020/05/07/amazon-challenges-the-pentagons-revised-jedi-solicitation-directly-to-the-department/"
 type: article
-quality: 25
+quality: 15
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ images:
   - url: "https://www.armytimes.com/resizer/zPIx2t3S-cW9L6O4V1nUbDT6wsw=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/SPQTUFFMHRFI7FZBGH36NHJ5MA.jpg"
     width: 1200
     height: 630
+    isCached: true
     title: "Amazon challenges the Pentagon’s revised JEDI solicitation directly to the department"
 
 related:
@@ -33,11 +34,12 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 90
+    quality: 70
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2016/04/20160404_Envision_07-1240x828.jpg"
         width: 1240
         height: 828
+        isCached: true
   - title: "Amazon says big government JEDI award is 'fatally flawed' in latest rebuttal to Microsoft criticisms"
     excerpt: "The JEDI, or Joint Enterprise Defense Infrastructure, deal worth up to $10 billion has become one of the most tangled contracts for the Department of Defense."
     publishedDateTime: 2020-05-08T14:55:00Z
@@ -48,11 +50,12 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 87
+    quality: 67
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106474164-1585941999885gettyimages-939960022.jpeg?v=1585942142"
         width: 5253
         height: 3502
+        isCached: true
   - title: "Microsoft slams Amazon’s latest protest over Pentagon cloud contract as ‘a way to avoid the consequences of its own bad business decisions’"
     excerpt: "Amazon is once again challenging the Department of Defense’s decision to award a $10 billion cloud contract to Microsoft. Amazon filed a protest of the award directly with the DoD after a"
     publishedDateTime: 2020-05-07T23:47:00Z
@@ -63,11 +66,12 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 68
+    quality: 48
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2019/11/microsoft-630x473.jpg"
         width: 630
         height: 473
+        isCached: true
   - title: "FedEx Teams Up With Microsoft to Fight Amazon. That’s Good for FedEx Stock."
     excerpt: "Microsoft and FedEx announced an agreement to “transform e-commerce.” FedEx hopes to get a leg up in the delivery battle with Amazon."
     publishedDateTime: 2020-05-18T14:30:00Z
@@ -78,11 +82,12 @@ related:
     provider:
       name: Barron's
       domain: barrons.com
-    quality: 60
+    quality: 40
     images:
       - url: "https://images.barrons.com/im-188060/social"
         width: 1280
         height: 640
+        isCached: true
   - title: "Microsoft claims AWS has used new JEDI mind trick with secret contract objection filing"
     excerpt: "Amazon.com has filed a second, secret, appeal at the decision to award Microsoft the $10bn Pentagon Joint Enterprise Defense Infrastructure (JEDI) contract. So says Microsoft corp"
     publishedDateTime: 2020-05-08T09:07:00Z
@@ -93,11 +98,12 @@ related:
     provider:
       name: The Register
       domain: theregister.co.uk
-    quality: 54
+    quality: 34
     images:
       - url: "https://regmedia.co.uk/2017/12/19/lightsaber.jpg"
         width: 648
         height: 432
+        isCached: true
 
 secured: "Oj8JuBKidK4/IiOI6T1hcOk2Vv6tkp9/l3u2SbGhPJXt6zwFrg+GE/7sj9ByduVPtPv9EC1b+WC3qfM1HFIG+h/Hpg5QxFkvTMqP+e2DzKTpKUJxhWjL0CmVwKBAKv7qOf0Akdj1oIOvOQqBmyFU2I3Vj5qmNv/5VSxX8px6W3Qf1Dcq6oUTktFtQ6XapAr/cmcqLOsK/OODVwmuApmLhw8hc3G4DEOfvDMIUAjSPdh+DPDXDFgUK3WXC9r781KHa5yh+ord14KsFAVhNfqcIjcRlmVo53nar6rR7qNPyFErfN2r7DwGVR45G9QcnnTZvGlBIppGbICxmTy6EAgya2FsvOwmQbe/flIrB/np3x4tI/I64l8EBunUJiWjF76lvEhdgXgIDYW5Nw5b5Ix4pFWJVVSf1FPwMpVsXlmob80zRWijgfGlMpRJW1D/p3mVzOqk3XqYnjdTAo0wVn1rMSBBtZSbamxiVFqqdNjFF3I=;ub1mDsu/tIUK7SF0HfLo6g=="
 ---

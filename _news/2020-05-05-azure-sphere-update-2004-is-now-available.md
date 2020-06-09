@@ -29,11 +29,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 104
+    quality: 94
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/202fa2d1-fc33-41eb-94be-957327f62b0d.jpg"
         width: 1024
         height: 608
+        isCached: true
   - title: "SAP HANA backup using Azure Backup is now generally available"
     excerpt: "We are sharing that Microsoft Azure Backup’s solution for SAP HANA databases is generally available in all Azure Public and Gov Regions (with the exception of Germany Northeast and Germany central, France South & US Gov IOWA).\r\n\r\nAzure Backup is Azure's native backup solution, which is BackInt certified"
     publishedDateTime: 2019-12-02T13:00:29Z

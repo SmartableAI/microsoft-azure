@@ -5,9 +5,9 @@ excerpt: "MarketsandMarkets forecasts the global Internet of Things (IoT) Cloud 
 publishedDateTime: 2020-05-22T21:07:00Z
 webUrl: "https://www.marketwatch.com/press-release/iot-cloud-platform-market-growing-at-a-cagr-126-key-player-aws-microsoft-google-cisco-ibm-2020-05-22"
 type: article
-quality: 59
-heat: 119
-published: true
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: MarketWatch
@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "IoT Cloud Platform Market Growing at a CAGR 12.6% | Key Player AWS, Microsoft, Google, Cisco, IBM"
 
 related:
@@ -35,11 +36,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "CORONA Impact on Cloud Computing Market Growing at a CAGR 12.5% | Key Player AWS, Microsoft, Google, Alibaba, SAP"
     excerpt: "May 05, 2020 (AB Digital via COMTEX) -- The impact of COVID-19 on the \"COVID-19 Impact on Cloud Computing Market by Service Type (Infrastructure"
     publishedDateTime: 2020-05-05T21:07:00Z
@@ -48,11 +50,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Blockchain Market Growing at a CAGR 67.3% | Key Player IBM, AWS, Microsoft, SAP, Intel"
     excerpt: "Based on type, the hybrid blockchain type segment to grow at the highest CAGR from 2020 to 2025. A permissioned blockchain is a type of hybrid blockchain that shares many features"
     publishedDateTime: 2020-06-03T00:40:00Z
@@ -63,7 +66,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 24
+    quality: 14
 
 secured: "gNU0/d06Nj8sJILJu6LN0DaVRwEqJQRz2YN/n9U0zFPAJsag0Pv8/imsiMoeTq/uHbGovC6tVWVPsr1SFeG8WC3YwSv3OFJ4Insd0xK4mDKKJA4fYwAT3wHt89Nddsn192ONKxY2vvae+MIeJFjJ+CPaNzeVGo4mX8UROOZoUpmgnipjeQRcco3AS/aHxD4EvcLZYkLrLY6CXgxW56yDg6aoL01UoxHiat8f/STdhlYllEktKZ53V5pepTqW3TIqpsxeDfFTiBOZhYy8tSfk6LQT9W8WWB7Oxo+8WE4Ot3PV83jt3bRnC1nm7VtS2L3M;gRx0/UERtgXrs9OIopza+A=="
 ---

@@ -7,7 +7,7 @@ webUrl: "https://www.fool.com/investing/2020/05/05/dow-jones-news-ibm-to-launch-
 ampWebUrl: "https://www.fool.com/amp/investing/2020/05/05/dow-jones-news-ibm-to-launch-new-cloud-ai-products.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/05/dow-jones-news-ibm-to-launch-new-cloud-ai-products.aspx"
 type: article
-quality: 90
+quality: 70
 heat: -1
 published: false
 
@@ -26,6 +26,7 @@ images:
   - url: "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg"
     width: 580
     height: 378
+    isCached: true
     title: "Dow Jones News: IBM to Launch New Cloud, AI Products; Microsoft's Next Xbox Could Face Problems"
 
 related:
@@ -39,11 +40,12 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 96
+    quality: 76
     images:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F570316%2Fplane.jpg&w=1200&op=resize"
         width: 1200
         height: 800
+        isCached: true
 
 secured: "8J7jDK5+diTXM5/gCbog5QHEmgJakZ2ec+ZlpfCcS7rNi28YsrV0PhTGKaVu4L2vsYzv2o0iRYS5Fa/KIOE+CJ9qQeyFoCmKpIKlJKeYO2607hFRr++xp9N+UZOiBphp2JdaQUt4WSg5YM3J5E1E1vzJSca8ZvY3onSOFyFt0gS2M9Wn+eSGpftGVVgyzIbG4cRgJD6SDs2ZtJGxyBKHtHrQiXFOgsliP/jIlZ0gbHHonNuwHG41DTo7voZ8zJjkmyafIYv8YWd13YKlm9pmgf9Ivd7TjgBWwyGDQoRjGVpB8cBWW4TWKP65dvE+xGw5;0Xf4BQ/kAw0ukMsjpJmbRQ=="
 ---

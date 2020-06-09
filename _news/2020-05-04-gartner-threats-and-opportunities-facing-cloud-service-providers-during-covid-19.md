@@ -5,7 +5,7 @@ excerpt: "Tech leaders need a thorough understanding of the threats, opportuniti
 publishedDateTime: 2020-05-04T13:57:00Z
 webUrl: "https://www.ciodive.com/news/gartner-cloud-csp/577125/"
 type: article
-quality: 27
+quality: 17
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ images:
   - url: "https://www.ciodive.com/user_media/cache/12/e2/12e2858c5eb8a7668a4ac74e3c216843.jpg"
     width: 770
     height: 364
+    isCached: true
     title: "Gartner: Threats and opportunities facing cloud service providers during COVID-19"
 
 related:
@@ -31,11 +32,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 92
+    quality: 82
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/087e96ea-eb9f-4dcb-9d8b-22fa817b94bc.png"
         width: 1024
         height: 586
+        isCached: true
   - title: "TimeXtender Discovery Hub is now Microsoft Azure certified"
     excerpt: "With this certification, Discovery Hub is now a trusted application that is available in the Microsoft Azure Marketplace. The Azure Marketplace is an extensive catalog of products from independent ..."
     publishedDateTime: 2020-04-30T00:00:00Z
@@ -44,11 +46,12 @@ related:
     provider:
       name: SD Times
       domain: sdtimes.com
-    quality: 87
+    quality: 77
     images:
       - url: "https://sdtimes.com/images/sd-premium.png"
         width: 628
         height: 246
+        isCached: true
 
 secured: "n6O/nqu+QVhG/E2vxZ/Eke7LcEJKVvZ94n7qZhe9KgvjHkhRzOaUzBAMTKkDIMQqLA1q1dh9w4rF57NTGZyPL9PL8WuMJW2QBHu5uuJFW72Gf4oXE3O2k/M6KXZf4aWf9HlxVr22/cnw+Wio3ePmTGa65eTvbNEA2jzXE+PbJDemR8mC4IBZmQTerxzjGg8hi6xOaRHZmly7cI/PQfCKCwUgRRIqh6yNSF+92Rm+X9gv1P5+qPBWfmlE5oI4PAY69sFqAuA3e0SiuXOCtHP2cODQ3RIkcxzprvA6OlsBmZFdC88qN6felsFawck/KSTM;FklrgKuhqZ0BADCV+Rb6Kw=="
 ---

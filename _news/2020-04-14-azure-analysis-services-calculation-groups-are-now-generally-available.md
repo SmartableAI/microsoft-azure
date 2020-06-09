@@ -5,8 +5,8 @@ excerpt: ""
 publishedDateTime: 2020-04-14T22:00:21Z
 webUrl: "https://azure.microsoft.com/en-us/updates/announcing-general-availability-ga-of-calculation-groups-in-azure-analysis-services/"
 type: article
-quality: 107
-heat: 227
+quality: 97
+heat: 217
 published: true
 
 provider:
@@ -24,6 +24,7 @@ images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/0f9f89b3-100e-4d95-b715-e3b3f4e20492.gif"
     width: 1290
     height: 757
+    isCached: true
     title: "Azure Analysis Services calculation groups are now generally available"
 
 related:
@@ -35,11 +36,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 104
+    quality: 94
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/2eee66bc-197a-4a22-97b3-a23d469d3f97.png"
         width: 604
         height: 492
+        isCached: true
   - title: "Many-to-many relationships in Azure Analysis Services are now generally available"
     excerpt: ""
     publishedDateTime: 2020-04-14T22:00:22Z
@@ -48,11 +50,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 102
+    quality: 92
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/938e404c-6b8c-4d87-8795-119109f5f43e.png"
         width: 553
         height: 259
+        isCached: true
   - title: "Enhanced features in Azure Archive Storage now generally available"
     excerpt: "Since launching Azure Archive Storage, we've seen unprecedented interest and innovative usage from a variety of industries. Archive Storage is built as a scalable service for cost-effectively storing rarely accessed data for long periods of time. Cold data, including application backups, healthcare records,"
     publishedDateTime: 2020-04-21T09:00:40Z

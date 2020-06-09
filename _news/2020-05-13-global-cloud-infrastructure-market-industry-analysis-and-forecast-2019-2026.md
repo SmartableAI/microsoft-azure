@@ -5,8 +5,8 @@ excerpt: "Some of the vendors for cloud infrastructure market are Cisco, Red Hat
 publishedDateTime: 2020-05-13T07:33:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-cloud-infrastructure-market-industry-analysis-and-forecast-2019-2026-2020-05-13"
 type: article
-quality: 69
-heat: 189
+quality: 59
+heat: 179
 published: true
 
 provider:
@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Global Cloud Infrastructure Market Industry Analysis and Forecast (2019-2026)"
 
 related:
@@ -35,11 +36,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 66
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Cloud Network Infrastructure Market Analysis, Size, Share, Growth, Trends, and Forecast 2018-2023"
     excerpt: "Cloud Network Infrastructure Market: By Component (Hardware, Services), Deployment (Public, Private and Hybrid),"
     publishedDateTime: 2020-05-03T15:13:00Z
@@ -48,11 +50,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Global Cloud Security Software Market Estimates (Pre and Post) COVID-19 Impact and Recovery Analysis by 2020-2029"
     excerpt: "The Cloud Security Software report encompasses a careful analysis of a small and economic science issue that is influencing the expansion of the market. The Cloud Security Software market has cardinal frameworks that embody market outlook,"
     publishedDateTime: 2020-05-14T07:06:00Z
@@ -61,11 +64,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Global Cloud Infrastructure Service Market Estimates (Pre and Post) COVID-19 Impact and Recovery Analysis by 2020-2029"
     excerpt: "Learn details of the Cloud Infrastructure Service Market: Statistics, Facts And Figures, Growth Overview, Size, Major Players, Industry Outlook And Regional Analysis, Swot Analysis And Forecast To 2029."
     publishedDateTime: 2020-05-14T07:06:00Z
@@ -74,11 +78,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 48
+    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Global Cloud Computing Market 2020 includes Attractiveness and Raw Material Analysis and Competitor Position Grid Analysis to 2025"
     excerpt: "Fior Markets has published a new research study titled Cloud Computing Market by Service (IaaS, PaaS, SaaS), Deployment, Organization Size, Vertical (BFSI, IT and Telecommunications, Government, Others),"
     publishedDateTime: 2020-05-06T14:11:00Z
@@ -87,11 +92,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 42
+    quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Healthcare Cloud Computing Market 2020 Effect of COVID-19 Industry - Key Players, Size, Trends, Opportunities, Growth Analysis and Forecast to 2026"
     excerpt: "Cloud Computing can revolutionize healthcare. Cloud computing is a general term for anything that involves delivering hosted services over the Internet. But in the healthcare sector cloud computing is a cost-effective method that facilitates real-time data collection,"
     publishedDateTime: 2020-05-08T12:51:00Z
@@ -100,11 +106,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 34
+    quality: 24
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
 
 secured: "GCYYHWOgVS3rNYtozxa08Gf5MeZiNLMtAHYgYgCdEgnmKLWtXQRXmkFOOnzidLFtyr+ponDpTnQ6YlQWmibEZbUR22ROuByLoJQaSjQHu4JysEBqK/gvFClElhvOb1uKSO7eqJVxjauARE5qLonjNKvqp3J//AHHpHdTA10lE5aCYwSLrADKCsqEfcwlyMbqK6OgEWBc/9oFGmlfsTa1fxRhen7PG8hCZVAtWXJJqozVlwJrHuPDsNT19Be6TLSDG09c3iDmxv640Qo1nLkGqY/xbNoVbHvgTt49GmVaibEdNscaHFhgcC0yjapEt99f;F21YU+nnhaGyhftkzrrSlw=="
 ---

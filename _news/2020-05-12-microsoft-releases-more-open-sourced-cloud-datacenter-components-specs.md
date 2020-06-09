@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/microsoft-releases-more-open-sourced-clou
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-releases-more-open-sourced-cloud-datacenter-components-specs/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-releases-more-open-sourced-cloud-datacenter-components-specs/"
 type: article
-quality: 102
-heat: 142
+quality: 82
+heat: 122
 published: true
 
 provider:
@@ -26,6 +26,7 @@ images:
   - url: "https://zdnet3.cbsistatic.com/hub/i/2020/05/12/184993f6-d771-44c7-97eb-4e437bbb83f5/microsoftocp2020.jpg"
     width: 811
     height: 503
+    isCached: true
     title: "Microsoft releases more open-sourced cloud datacenter components, specs"
 
 related:
@@ -37,11 +38,12 @@ related:
     provider:
       name: Dark Reading
       domain: darkreading.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
         width: 600
         height: 600
+        isCached: true
   - title: "CallCabinet Releases Compliance Cloud Call Recording for Microsoft Teams"
     excerpt: "CallCabinet, a leading global provider of cloud-native call recording, quality assurance, and AI solutions, is pleased to announce the general availability of"
     publishedDateTime: 2020-05-19T19:32:00Z

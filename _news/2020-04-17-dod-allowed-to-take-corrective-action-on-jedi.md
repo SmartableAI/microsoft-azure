@@ -5,8 +5,8 @@ excerpt: "Amazon Web Services took objection back in March to DOD’s proposal, 
 publishedDateTime: 2020-04-17T21:09:00Z
 webUrl: "https://www.fedscoop.com/judge-allows-dod-take-corrective-action-jedi/"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:
@@ -20,6 +20,7 @@ images:
   - url: "https://www.fedscoop.com/wp-content/uploads/2019/05/GettyImages-913078628.jpg"
     width: 2121
     height: 1414
+    isCached: true
     title: "DOD allowed to take corrective action on JEDI"
 
 related:
@@ -31,11 +32,12 @@ related:
     provider:
       name: Washington Technology
       domain: washingtontechnology.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://washingtontechnology.com/~/media/GIG/Washington%20Technology/WTlogo.jpg"
         width: 1200
         height: 630
+        isCached: true
 
 secured: "IiWbkleNaYcrFYGNNla8ZsI1v8PWGKe9Qk/dSsmYCUQQt35RLeH008qTHBL7pq5FlWqNvPNyGJsr+DKntELO8j+VJE6KY45MweLrDu25yRBtt0snzAf+z87zaI7RD2K/bM5OGYZKXxxvo2zbHVNOVRPOClsHbJzlPILgcGov3WZEM6/cmLJLrjhKwYKWo8ahEch8oky7RuB7xGWq2LakPXTcMczuy9r3XIQnJBFnv3SK0NbKfrjFsnOcftN9iOgeypqJfk53Btq/qQ+S+7wcLoEzl/cL/wOI8Xot2s6pbEKHJ2rK+NzKTzxwIoxmm4/g783aVEcnusVWFpDe6ITK0GbUYQMjx7a56YXLfKjUFse1+wlpZurrtzfrDdK+3yWFY6tcWqdjRsmlpKUp1GteieH4SHUB4wa2IyuWs183wJIcGHYGmEdpPh+yH97tIHVFtgCdswN/z8HxBI4C3zqISqirtzs9SrI11ispALKqHQk=;Z8aiOYaAKFpAc1ludXG+aQ=="
 ---

@@ -30,11 +30,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 94
+    quality: 84
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/b83238b4-dba1-4651-8eac-217459a4b753.png"
         width: 1024
         height: 471
+        isCached: true
   - title: "Azure Data Lake Storage Gen2 PowerShell and CLI are now generally available"
     excerpt: ""
     publishedDateTime: 2020-05-15T16:00:19Z

@@ -20,6 +20,7 @@ images:
   - url: "https://mms.businesswire.com/media/20200513005546/en/371054/23/ResearchAndMarkets_800px.jpg"
     width: 1200
     height: 627
+    isCached: true
     title: "Global Cloud Applications Market Analysis (2020 to 2026) - Key Players Include Google, Oracle & Adobe Among Others - ResearchAndMarkets.com"
 
 related:
@@ -31,11 +32,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 72
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Public Cloud Market Report Analysis 2026, Share, Revenue, Growth Rate With Forecast and Impact of Covid-19"
     excerpt: "Kenneth Research has published a detailed report on Public Cloud Market which has been categorized by market size,"
     publishedDateTime: 2020-05-08T11:51:00Z
@@ -44,11 +46,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Cloud-based VDI Market By Key Players, Deployment Type, Applications, Vertical, and Region - Forecast 2025"
     excerpt: "May 12, 2020 (AmericaNewsHour) -- Global Cloud-based VDI Market valued approximately USD XXX billion in 2016 is forecasted to grow with a healthy growth"
     publishedDateTime: 2020-05-12T10:48:00Z
@@ -57,11 +60,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Global Public Cloud Application Infrastructure Services Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2026"
     excerpt: "Global “ Public Cloud Application Infrastructure Services Market ” forecast 2020-2026 report presents a pin-point breakdown of industry based on type, applications, and research regions. Growth strategies adopted by these companies are studied in detail in the report."
     publishedDateTime: 2020-05-19T11:40:00Z
@@ -70,11 +74,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 41
+    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Global Cloud Database Market 2020, by Services, Software, Company Profiles, Trends, Industry Analysis and Investment Opportunities to 2026"
     excerpt: "Global Cloud database Market is accounted for $ 6.12 billion in 2017 and is expected to reach $ 495.26 billion by 2026 growing at a CAGR of 62.9% during the forecast period. Some of the key factors responsible for the market growth include easily deployable,"
     publishedDateTime: 2020-05-16T09:39:00Z
@@ -83,11 +88,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 38
+    quality: 28
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Cloud Data Integration Market Analysis by Emerging Growth Factors and Revenue Forecast to 2025| Snaplogic, Microsoft, Talend, Software, SAP, Oracle"
     excerpt: "Cloud data integration solutions allow enterprises to unify data from disparate cloud sources in various formats. Cloud data integration solutions provide standard connectors to other cloud software systems,"
     publishedDateTime: 2020-05-06T08:06:00Z
@@ -96,11 +102,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 34
+    quality: 24
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
 
 secured: "6GAHZ4iPKk+OryHE07r6bU2n0wxFfYtfbs9XhuDSMwsDNIkoHjYZfgI2oXlQo6/8BQq1iV+0AG+rtZ/5OVg031gsE4KqHn3JUv6JQ6UnROQmOlENNGvX3Oax1dszBb8FhjE2tPquw9RWOddzbsGej17crPglhXUyi8DZUrLh8639VIXKJ9tDkFxgAcL0WCjvhMw+zeWxvG2SkLrs9OR9FnsoUBcW+ubBeeQSrH0UpRm66NcqtcDlj3FjoNaRERj+DH5BsH3N+rfMsuC/4nLSGgDvrt3Q5yunaR+lxtNBrz9pu+jxQJ0qkcVI4rH45ku/vBBmiZF+EXbNp3EjMUSguwNjETVV+6IQBKKrGyXXkF0KumpMnxF/5rkh9V2T+Mhdexqd1kPKQSKf+tq2Ev7oks0ZyJWpv2Xgbuggz1J8egXvONgfXUhIhdZKgArFyI0KNSzbWCOduzp28leMdUyUOan6hddZY3huXXBeRpo8lsY=;KJ+i6s4v9FRMp526ROWiJQ=="
 ---

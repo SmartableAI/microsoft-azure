@@ -7,8 +7,8 @@ webUrl: "https://www.techradar.com/news/vodafone-offers-free-broadband-and-micro
 ampWebUrl: "https://www.techradar.com/amp/news/vodafone-offers-free-broadband-and-microsoft-365-to-smbs"
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/vodafone-offers-free-broadband-and-microsoft-365-to-smbs"
 type: article
-quality: 102
-heat: 122
+quality: 82
+heat: 102
 published: true
 
 provider:
@@ -26,6 +26,7 @@ images:
   - url: "https://cdn.mos.cms.futurecdn.net/ot82kqZhdJYVeZpTnPbSHh-1200-80.jpg"
     width: 768
     height: 512
+    isCached: true
     title: "Vodafone offers free broadband and Microsoft 365 to SMBs"
 
 related:
@@ -37,11 +38,12 @@ related:
     provider:
       name: pocketnow.com
       domain: pocketnow.com
-    quality: 25
+    quality: 15
     images:
       - url: "https://pocketnow.com/wp/../files/2020/06/samsung_access.jpg"
         width: 1197
         height: 759
+        isCached: true
 
 secured: "x8TU8nzaJYnDHlnuxhwdp6Koh6IOJiMtGLqo2mT1VZ2vZuswsyokagenKqPwmsAqmqXKvJ9k+yOmBZ2eBKAZ0VEB08OvrbjMIKomvnNRRltUb5ICSoP1xFYhXYRHJSWrUsvMGhx2cyKVX5ZXW3D+7wczyCiVWLJMKQ5vEA/7O8H0OwvdgAhHmJGOG3MpYb1Zw+FrhK61/vCWN/0Ro2/xCZSVRsgBJxpBxRxDOnG/FfSfaj/3t5A79cI0rljmxXpSlCUtvWCeZRqf+9AhIue7u1+GzMoECLvo55h3ewVDUhr14j7kHtwe5zjFJUp7mfBz;T+K/nT9T5tLwfMKsQKr60g=="
 ---

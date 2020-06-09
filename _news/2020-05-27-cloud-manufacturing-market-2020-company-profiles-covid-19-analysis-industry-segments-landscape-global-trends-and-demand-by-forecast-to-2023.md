@@ -5,7 +5,7 @@ excerpt: "Cloud Manufacturing MarketOverview: Cloud manufacturing is the process
 publishedDateTime: 2020-05-27T07:56:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-manufacturing-market-2020-company-profiles-covid---19-analysis-industry-segments-landscape-global-trends-and-demand-by-forecast-to-2023-2020-05-27"
 type: article
-quality: 34
+quality: 24
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Cloud Manufacturing Market 2020: Company Profiles, COVID - 19 Analysis, Industry Segments, Landscape, Global Trends and Demand by Forecast to 2023"
 
 related:
@@ -35,11 +36,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 67
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Cloud Virtual Machine (CVM) Market 2020 Share, Drivers, Growth Rate, Latest trends, Industry Size, Top Key Players till 2026"
     excerpt: "Market ”report represents an evaluation of theoverall market sizefrom 2020-2026. The research report analyses the Cloud Virtual Machine (CVM) market in a detailed manner by explaining the key point of the market that are expected to have a quantifiable influence on its developmental prospects overthe forecast period."
     publishedDateTime: 2020-05-27T04:42:00Z
@@ -48,11 +50,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Impact Analysis of COVID-19 on Cloud Storage Market Analysis 2020-2028 by Emerging Trends, Technology, Future Growth, Revenue, Demand Forecast"
     excerpt: "The growing online activities such as e-mail, enterprise resource planning, digital images, Salesforce automation,"
     publishedDateTime: 2020-06-02T20:26:00Z
@@ -61,11 +64,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
+    quality: 26
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
 
 secured: "PYR+frgeRLO/ESsoC9JZkdM5I8wSz3iu8LYyVVfb8fmmnyvcs0vS10rQoPLA9Onav4+W4gbcG/cBQBoOBGZ23EBKNownhUyI+sPTfATH24RjvmC61ED45ihksfXWJ1hdoa035As57mfia9g6DXcCwhO6cTYIGVXbMhlhmaoubt6URmdReJ6VaIpSl33w7rFrBH1ZSxp5p2EB6A8QN8vweFUvwCSNE9HK0GvAfuYANFax+oFbewHUJfY+qZ5IZOysp6DTc80VUxodrCqmqFuouFfa4eE8kOXfcYnFTaS0qU6MSbHQF5+ZVtxCJTFsREVg;mfr1xXZto2waxblRhyP4rw=="
 ---

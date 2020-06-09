@@ -7,9 +7,9 @@ webUrl: "https://go.theregister.co.uk/feed/www.theregister.co.uk/2020/05/22/micr
 ampWebUrl: "https://www.theregister.co.uk/AMP/2020/05/22/microsoft_bags_18_million_mod/"
 cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/22/microsoft_bags_18_million_mod/"
 type: article
-quality: 60
-heat: 80
-published: true
+quality: 40
+heat: 40
+published: false
 
 provider:
   name: The Register
@@ -22,6 +22,7 @@ images:
   - url: "https://regmedia.co.uk/2015/05/20/raf_chinook.jpg"
     width: 648
     height: 429
+    isCached: true
     title: "Competition? We've heard of it. MoD snubs cloud rivals to hand Microsoft £17.7m Azure hosted services gig"
 
 related:
@@ -35,11 +36,12 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 57
+    quality: 37
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Microsoft-UK.jpg"
         width: 1000
         height: 750
+        isCached: true
 
 secured: "zO132zfZ1AZMB8M8cz7xNtAiJD3YXIyJEju1Kx6gEV3LPojRkBHqdW0goB9GXZZFHd+uroRE8KYCJpoupy5FHt3ipV6awdU0LzbLD9I0JrP8S7/tKMEU+3igANuOjUBpEjGjRTRV9DtG6OvJiTNSmgjMkdoEE7JLe5wKXhZGVvRrXdc8iJnAxzzHrKg/eAK3vpVvOKjHHwycz2EMOh4/jGtsyRkGdjLHy+ncW90fLEy1oYWOD9I1ARXYYOLjub1HEbp8K9/1GyXsWBbwlWImOX2+mmO/wNtcK2anMf2QyD4XYfz/C7TjC9kjE/vGtJqL;BjvqWSHhJYIJpLk7mwxfeQ=="
 ---

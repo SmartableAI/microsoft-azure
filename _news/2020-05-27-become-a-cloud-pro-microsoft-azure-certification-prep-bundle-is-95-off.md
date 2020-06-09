@@ -7,7 +7,7 @@ webUrl: "https://www.zdnet.com/article/become-a-cloud-pro-microsoft-azure-certif
 ampWebUrl: "https://www.zdnet.com/google-amp/article/become-a-cloud-pro-microsoft-azure-certification-prep-bundle-is-95-off/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/become-a-cloud-pro-microsoft-azure-certification-prep-bundle-is-95-off/"
 type: article
-quality: 116
+quality: 96
 heat: -1
 published: false
 
@@ -26,6 +26,7 @@ images:
   - url: "https://zdnet4.cbsistatic.com/hub/i/2020/05/27/30b4c6f7-2493-46a3-a96e-036d37d7b5dc/2020-05-27-at-2-12-29-am.jpg"
     width: 1432
     height: 1070
+    isCached: true
     title: "Become a cloud pro: Microsoft Azure certification prep bundle is 95% off"
 
 related:
@@ -39,11 +40,12 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 116
+    quality: 96
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eca9237702e3700087145bd%2F0x0.jpg"
         width: 1000
         height: 529
+        isCached: true
   - title: "Azure Arc, Microsoft’s service for managing cloud resources anywhere, is now in public preview"
     excerpt: "At its Build developer conference, Microsoft today announced that Azure Arc, its service for managing cloud resources anywhere, including competing clouds like AWS and GCP and platforms like Red Hat’s Open Shift,"
     publishedDateTime: 2020-05-19T15:07:00Z
@@ -54,11 +56,12 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 105
+    quality: 85
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2020/05/IMG_20191104_091357.jpg?w=1024"
         width: 1024
         height: 686
+        isCached: true
 
 secured: "OmSEWXbi7R11Vt3hYA8Ly/ArWAgPhxftx+7jt30ULS2ssKGMtU+/CbGbjaPiHga5hk23qnKLeBQ5FaWhua7ggDs65+wWEkCw35c1LUpKn7mof7LmveE353dRhdLf/Wiy0HVNVqF4Ah9vsJTf+raSOC4RTH01z7ATU2z9w8p7shbV4+goBMfarp9bDGsHu/zEE7KpPtXzx/ShGYl2Cq1oGCX4M0KwXa0QRUmNUru+LT3uV2g6qT60qdGUp5mtJeTJZdLbkLdN9LT+vxvLoruj9LSYs9neweNSwziz0OkTzDdK9s1YHfMsq4Hqd9CC+sbENXSKOUymQ27agvb1mgIR+/ihQQv88FGIj7j3dZ2K9NzRGuSkXp8MtAAPxKYG2GnSeDbnljRK0yyPho6hXQR5ezu9CIvjDpkhHiyxihXi/muhKPVNGdc1Y/SOPJtizifqxdvA32Ojy0IbeYo/pncyBPb3dnsQjiHa/0NB4ONW4rc=;4pBr/Lj3T10nSPhfuAEaOw=="
 ---

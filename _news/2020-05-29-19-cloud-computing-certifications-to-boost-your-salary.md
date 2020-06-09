@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/19-cloud-computing-certifications-
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/19-cloud-computing-certifications-to-boost-your-salary/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/19-cloud-computing-certifications-to-boost-your-salary/"
 type: article
-quality: 102
-heat: 142
+quality: 82
+heat: 122
 published: true
 
 provider:
@@ -26,6 +26,7 @@ images:
   - url: "https://tr2.cbsistatic.com/hub/i/r/2020/01/27/d505bbe9-3a79-428e-b3fc-2df23032fe7a/thumbnail/1200x675/4d963c918ba08a8a098d2d502246c0f5/20200124-macy-karen.jpg"
     width: 1200
     height: 675
+    isCached: true
     title: "19 cloud computing certifications to boost your salary"
 
 related:
@@ -39,11 +40,12 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed3e134dc72730006b73a6e%2F0x0.jpg"
         width: 1000
         height: 685
+        isCached: true
   - title: "Finding the right Microsoft Azure certification for you"
     excerpt: "Looking to earn an Azure certification? Our portfolio spans from fundamentals to role-based and specialty certifications to help prove and advance your skills in modern cloud environments. For details,"
     publishedDateTime: 2020-05-23T05:22:00Z
@@ -52,11 +54,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
         width: 400
         height: 400
+        isCached: true
 
 secured: "6MwIZdi/bQaefbaAKOVq1HK05GiqB3sbgz2SYOFl/rHhMCTPO7DCSCg5Rsbsp1k0c1KgkJTFGp3cQKi/47oEhGq8itnLltq/8p6Dk+PYJXUVIXlRWzbDeOk8LdI6mwjM9FZXVAkRCt5RPOn+WVcgcwWURyZRtg83GFqB7sUGzeKmzTtXyoN4DCxcAftrbv807isY95rplrbHFxDHgQxaAOAsOrTt7QoB2wXjO6MDeUd8ePUdZ7kb2RHcDlEWt7jZaVSJm0P+KSQ1nUef7LESCHQv7j2MLxuovJkvCfzegmDqOBZ8dLChjPoiadQblcaQ;SSRD6hkXUC9t6IMey40b+w=="
 ---

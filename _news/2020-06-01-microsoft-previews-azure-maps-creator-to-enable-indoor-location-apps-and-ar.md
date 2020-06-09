@@ -5,7 +5,7 @@ excerpt: "Microsoft Corp. today announced the preview of Azure Maps Creator, a n
 publishedDateTime: 2020-06-01T18:50:00Z
 webUrl: "https://siliconangle.com/2020/06/01/microsoft-previews-azure-maps-creator-enable-indoor-location-apps-ar/"
 type: article
-quality: 45
+quality: 35
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/hololens2-768x512.jpg"
     width: 768
     height: 512
+    isCached: true
     title: "Microsoft previews Azure Maps Creator to enable indoor location apps and AR"
 
 related:
@@ -31,11 +32,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 109
+    quality: 99
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a6153b4c-6ec4-4b09-b1e7-dd8f2be265dd.png"
         width: 780
         height: 768
+        isCached: true
   - title: "Azure Monitor Logs IntelliSense improvements are now available"
     excerpt: ""
     publishedDateTime: 2020-05-26T16:00:03Z
@@ -44,11 +46,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 107
+    quality: 97
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/bc9fd2f5-bd17-4f4e-b1b5-c02c035f249b.gif"
         width: 1730
         height: 668
+        isCached: true
   - title: "Azure Monitor Logs—New experience for agents is now available"
     excerpt: ""
     publishedDateTime: 2020-05-26T18:00:22Z
@@ -57,11 +60,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 107
+    quality: 97
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/480ae3b3-08b3-4078-b20f-83bb10f1d10c.gif"
         width: 2554
         height: 1323
+        isCached: true
   - title: "Service Bus Explorer on the Azure portal is now available in preview"
     excerpt: ""
     publishedDateTime: 2020-05-26T18:00:30Z
@@ -70,11 +74,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 107
+    quality: 97
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/ccedbcf5-8321-460c-a9a3-b0730caa96fe.jpg"
         width: 347
         height: 549
+        isCached: true
   - title: "A new consolidated API version in Azure Monitor Logs is now available"
     excerpt: ""
     publishedDateTime: 2020-06-08T16:00:33Z
@@ -83,11 +88,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 107
+    quality: 97
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/55f9101b-07a0-4e94-b8aa-802abda1d4df.png"
         width: 640
         height: 386
+        isCached: true
   - title: "Azure Monitor for VMs is now in preview in US Gov Virginia"
     excerpt: ""
     publishedDateTime: 2020-05-26T18:00:13Z
@@ -214,6 +220,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 70
+  - title: "ScientiaMobile's WURFL Microservice Now Available in the Microsoft Azure Marketplace"
+    excerpt: "RESTON, Va., June 01, 2020 (GLOBE NEWSWIRE) -- ScientiaMobile, today announced the availability of WURFL Microservice in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2020-06-01T12:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/scientiamobiles-wurfl-microservice-now-available-in-the-microsoft-azure-marketplace-2020-06-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "HBv2-Series VMs now available in West US 2"
     excerpt: ""
     publishedDateTime: 2020-06-03T17:00:13Z
@@ -232,6 +252,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "SepioPrime Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Sepio Systems, the leader in Rogue Device Mitigation (RDM), today announced the availability of SepioPrime in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2020-05-29T13:00:00Z
+    webUrl: "https://apnews.com/PR Newswire/f5b85ffe40d0191068bb0e60ed78df05"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "ZsECpjBXZNt92Wi+REO8hKPNhyKYs06QaN25JhIZYN3g9fsAII33uaZXwaeZlievC0REy9dHoOq19Hkl8mHpkHX64jMPKiGMQdNW+GSeogkS3nCjq5XoyPfVTybYxRH/FFpjU1rfpjE+6SuZTZfa8SGQ6rbMKO6N2x2qlIA0AGCJvMhGB92JUjeqwcrwzmf17be7sxhQzVyF2s2pd7yuobZPgGeOqdSGd4qwUUXHLBNfuk0KpoCMVP4ds/C+3OnwUEDfGhv0LC4nkXIHkZyd7KOwjG961sxcmTEqreZvpqH8WCdE+fMsSM9JQ1fODQSdxnIX843cqh1DCHF9LyLzuFVSVe9erhI5Ah+4OTsb/CfopekOANPWMx4YecAioTV1+zD1IeBnoJiRVtWmQiBqZXey1O8pz6baUF2I/oVHdGn4yfDttHmy8VRBf2QGEl+oxhF7EWVTa5cROL8ApXt7wiEk0qKjhTbfhSMh8h7bF78=;725brw88l1EMbI6Iq1RpTQ=="
 ---

@@ -27,11 +27,12 @@ related:
     provider:
       name: TechSpot
       domain: techspot.com
-    quality: 94
+    quality: 74
     images:
       - url: "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-12-image-17.jpg"
         width: 2700
         height: 2051
+        isCached: true
   - title: "Global Cloud Migration Services Market Research Growth Opportunities by Types, Regions, Applications, Trend Forecast to 2023"
     excerpt: "Global Cloud Migration Services Market Industry research report offers a detailed overview of the factors, the"
     publishedDateTime: 2020-05-18T10:38:00Z
@@ -40,11 +41,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
 
 secured: "xUsD6X/cDmpi7ZDxTOZDQsgxSO41Fvxsimzg4PTGszGmvZFlPGDXUcFeXL0hx0jwB2BppIejEdyrU9iydO0OvOXf2gop9d+afAUoNzB/y0nrVfhnktBJ7AySD/8HpBA9WIPgFd/sWeRUJ1UM+AvgOXTJjhTZ7MLiYaZ/OTmWYYGYZ9qdCik/mcZeowTVwJA5/cOy1JJepKktoiO2GCG5hce6G9sfgT6OGIgjZxossmO7X3GpKDATC5YTlLdkxaaVKcqmV+ahgS/VERpbLZjCjruOtgfCNxwG/CNy0ayIoIQqPAHBQcsGbpQEzcKV0D3o;UF2PDVLkyr59oY/zisQe1w=="
 ---

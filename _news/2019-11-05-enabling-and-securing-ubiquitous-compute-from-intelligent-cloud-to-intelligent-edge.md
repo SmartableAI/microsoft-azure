@@ -5,8 +5,8 @@ excerpt: "Enterprises are embracing the cloud to run their mission-critical work
 publishedDateTime: 2019-11-05T14:00:09Z
 webUrl: "https://azure.microsoft.com/blog/enabling-and-securing-ubiquitous-compute-from-intelligent-cloud-to-intelligent-edge/"
 type: article
-quality: 88
-heat: 88
+quality: 78
+heat: 78
 published: true
 
 provider:
@@ -25,6 +25,7 @@ images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e1b20a6e-6ee7-49ad-a51b-4052efa37e38.png"
     width: 1000
     height: 613
+    isCached: true
     title: "Enabling and securing ubiquitous compute from intelligent cloud to intelligent edge"
 
 secured: "Rv2dh0z7RNZDTx8c8Vl5kjlMOzm1W2edjXES0Uo/883xM5sEIQffSvDg3oNznLQQ25qwY4+WWzQ7A3kwVyfpi6tWt+SPWgkRuonUOAMgcXpwh49orxMiNXtB8D03PSJZBp6x4kCyxggdQ377wMkytL+xkUKH8hIey3SPNsTF1hRJxfutVNCfAkDRXkpqMtEwE28FRFTJmdeodqRs/yNnB14qioqOwlx6IsB2IWVJkb0XHpWCnAEAaOfoddvTPTL/aN3GiKuqkZCmdrv0YQSaJhG1Fun9k0L65mf8YipyR/cjcZccq6GntFqi8ltu7nhi6jec5NCqdXE0Tm/hnfFyLA==;ggs0R/WL7XyPk7GK/zLRhA=="

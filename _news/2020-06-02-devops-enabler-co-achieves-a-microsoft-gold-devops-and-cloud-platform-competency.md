@@ -27,11 +27,12 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 93
+    quality: 73
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2020/05/IMG_0961-2.jpg?w=1024"
         width: 1024
         height: 768
+        isCached: true
   - title: "Microsoft: Power Platform is for real developers, too"
     excerpt: "Microsoft is bringing improvements to the ‘low code’ Power Platform that professional developers could use, such as T-SQL support and GitHub integration"
     publishedDateTime: 2020-05-25T10:04:00Z
@@ -42,11 +43,12 @@ related:
     provider:
       name: ITworld
       domain: itworld.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://images.idgesg.net/images/article/2019/02/power-of-one_rebel_fight_strong_rise-up_arm_fist_power-100788748-large.jpg"
         width: 1200
         height: 800
+        isCached: true
   - title: "Docker and Microsoft join forces to simplify container projects on Azure"
     excerpt: "Its partnership with Docker dates back to the earliest days of the effort. The collaboration the companies announced today focuses on easing the logistics involved in developing microservices-based applications for cloud environments."
     publishedDateTime: 2020-05-27T20:23:00Z
@@ -55,11 +57,12 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 46
+    quality: 36
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/Johnston-768x512.jpg"
         width: 768
         height: 512
+        isCached: true
   - title: "Docker Extends Collaboration with Microsoft Azure to Boost Developer Productivity"
     excerpt: "Docker today announced that it has extended its strategic collaboration with Microsoft to simplify code to cloud application development for developers and development teams by more closely integrating with Azure Container Instances (ACI)."
     publishedDateTime: 2020-05-27T16:00:00Z
@@ -68,11 +71,12 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 42
+    quality: 32
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
   - title: "DevOps Enabler & Co. achieves a Microsoft Gold DevOps and Cloud Platform Competency"
     excerpt: "DevOps Enabler & Co., the company behind an exclusive startup bundle for organizations that want to scale their operations, today announced it has attained a gold Microsoft DevOps and Cloud Platform competency,"
     publishedDateTime: 2020-06-01T07:21:00Z
@@ -81,11 +85,12 @@ related:
     provider:
       name: Sify.com
       domain: sify.com
-    quality: 26
+    quality: 16
     images:
       - url: "https://www.sify.com/uploads/DevOpsEnabler_ugbqn5hgfaeea.jpg"
         width: 600
         height: 450
+        isCached: true
 
 secured: "ouJ9Yq4Z1Y3eb5wLUyaThce4drN2gPF93asmTLeFyEMQ8PiHF8ZrSVkZTI04O6W+SUQAq3ArG8qPMxkJVv7qxT24WW8IMNBU3TSnRLzVlStaovPMo4yKs7gyc1Zyjb+8QDSuUWGFaDjfNoe2DdJlrn9b69Pz3/IMeVDVjCTXl6EAIr9ORp5eWfdTYp64QTg61oa10vmfiZDyp1I0axo8jmcSkmSjfZqO8HhpjO4KQNMqFJNFy3agsGpjOoKkEvUYvldP1ePwVvb+4HE5f8uwtDYENMm5CZE2jvKVqyZYRo9kWYL8fqiWm8A7oNhgTG4P;XVO3l1Q9VkW2vohYATFRpA=="
 ---

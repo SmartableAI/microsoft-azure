@@ -7,7 +7,7 @@ webUrl: "https://www.zdnet.com/article/microsoft-build-brings-announcements-for-
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-build-brings-announcements-for-cloud-data-analytics-services-and-intersection-of-the-two/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-build-brings-announcements-for-cloud-data-analytics-services-and-intersection-of-the-two/"
 type: article
-quality: 87
+quality: 67
 heat: -1
 published: false
 
@@ -26,6 +26,7 @@ images:
   - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/05/13/bf550a82-e9e8-4511-bee9-983426e8fc52/thumbnail/1200x675/aaf99352c82c362f4feba84192e7819c/2555435eba4cad133864-58121622-nvidia-accelerates-apache-spark.jpg"
     width: 1200
     height: 675
+    isCached: true
     title: "Microsoft Build brings announcements for cloud data, analytics services, and intersection of the two"
 
 related:
@@ -39,11 +40,12 @@ related:
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://cdn.vox-cdn.com/thumbor/DLpMOz4jmOEGQJb21UUFtRfAEro=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66819966/twarren_180507_2536_0001.5.jpg"
         width: 1400
         height: 933
+        isCached: true
   - title: "Microsoft Weekly: Build 2020, related updates, and Minecraft at 200 million"
     excerpt: "Unsurprisingly, Microsoft's Build 2020 virtual event took place this week, where the firm announced new things coming to Azure, Edge, plus much more. Be sure to catch up via our overview."
     publishedDateTime: 2020-05-24T14:32:00Z
@@ -54,11 +56,12 @@ related:
     provider:
       name: Neowin
       domain: neowin.net
-    quality: 100
+    quality: 80
     images:
       - url: "https://cdn.neow.in/news/images/uploaded/2020/05/1590330181_msw-20200524_story.jpg"
         width: 760
         height: 428
+        isCached: true
   - title: "Microsoft Build 2020: Everything announced and then some"
     excerpt: "Microsoft Build 2020 kicked off Tuesday with a digital event that featured multiple sessions as well as a host of announcements aimed at developers. Simply put, Microsoft Build ha"
     publishedDateTime: 2020-05-19T17:44:00Z
@@ -69,7 +72,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 72
+    quality: 62
   - title: "Microsoft teases Edge for Linux at Build 2020"
     excerpt: "Edge is already available on iOS, Android, Mac, Windows 10 and Windows 7, and we have known since December 2019 that Microsoft is working on Edge for Linux also, after Microsoft confirmed the development at Ignite 2019."
     publishedDateTime: 2020-05-20T00:19:00Z
@@ -80,11 +83,12 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2019/11/Microsoft-Edge-logos.jpg"
         width: 811
         height: 401
+        isCached: true
 
 secured: "KmZm1TPmkpxzlpCARBJb5HmiLABalcMTnFDYJTMuh6YJ+xr8YWwUntl2jb3UDfDWAsRNq70Ql7AdBVCRMt95XwVQNJwKSDKXmB8yiCSEKaqFNRZDFGx1MlBDh2j56hDh6yPjblgKZqKIxpyjBYCb3UtIuTMGmqlAt4jeyfEzpJIFqUQhGv9PxEDDozv/wFqktCWaIJmghR3btl+74u7VXVTLpAC4VWoCFq0TBjOpMTV892Ok6YOUf35TrAWyX8VLW/leD4a/dXToFt545odVSYwXUwRoYphXSdusBITfkYOU4ErLfF0MFqVwRAmnBDN0u+1zHouTWjuAYAdxG63bwrXb2o+I+YQDmc0Xww+PqYwsVZ9qJTVkn7vFKaaAYjKjRXwGRxKM4Rq3Y1GE20hTpS1BSwsrUsZhjRcftF09BnLSN5DGlJsufzJfvWgaiwScDlmJ5S9syKe88TZj1l8UyaNkTjPy0RC+ana2DhuXTOI=;CkZfIKBHtMly/jSXMEwwTg=="
 ---

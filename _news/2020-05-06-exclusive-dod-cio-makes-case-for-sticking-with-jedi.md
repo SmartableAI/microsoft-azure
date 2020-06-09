@@ -7,7 +7,7 @@ webUrl: "https://breakingdefense.com/2020/05/exclusive-dods-cio-makes-case-for-s
 ampWebUrl: "https://breakingdefense.com/2020/05/exclusive-dods-cio-makes-case-for-sticking-with-jedi/amp/"
 cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2020/05/exclusive-dods-cio-makes-case-for-sticking-with-jedi/amp/"
 type: article
-quality: 62
+quality: 42
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ images:
   - url: "https://sites.breakingmedia.com/uploads/sites/3/2019/02/Screen-Shot-2019-02-05-at-12.58.21-PM-300x201.png"
     width: 300
     height: 201
+    isCached: true
     title: "EXCLUSIVE: DoD CIO Makes Case For Sticking With JEDI"
 
 related:
@@ -35,11 +36,12 @@ related:
     provider:
       name: Breaking Defense
       domain: breakingdefense.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://sites.breakingmedia.com/uploads/sites/3/2019/02/Screen-Shot-2019-02-05-at-12.58.21-PM-300x201.png"
         width: 300
         height: 201
+        isCached: true
 
 secured: "X/FkWH83kyf1WXBFoWBd6nee2EeNFXbLZ0R62AEgzx9evt1VkVZoXdACu+f7/W5Y/5jEFVIt7qXwRDRnj+Z97Db/7/X14Xlbl52DV37ftmWSp87E1Fpu7Ay/cCLLrhFwnBl+xzHb4Qeh3Pv/G5m/D1grjCQCm2GmWAvyyBufcxdGxx0QjS5FtfnTlBIFmGPoEelTLoeoq+iGLKyGgBsVwhKo8VIf9hBJPJQ4hV0MBELY3UUX8ZFWEs/Fb6VgvkgzSdG/oLpcpshMOA5sd4WQSKJUNnIlUdtmmIHkVVKNJRyTypKMIBVKpq+ME64rFxJvWAOKtHqFZG6UwmA0h9qfyspKUZRWYCevK101gVveyoF+vPUWilUHg1fpNXVOIVoJ7d6Uq/tl+vEwQ+ytaSJiV8IHoyVAXOnfuE+22TZXrXA0MgpgBaTpr3W8qTXueRSJtul3vUZiHz7pMJiwbBu+9cU7anwphDNS/t6nOmGt5P4=;jhCl63WGMqanpHWaeOvldQ=="
 ---

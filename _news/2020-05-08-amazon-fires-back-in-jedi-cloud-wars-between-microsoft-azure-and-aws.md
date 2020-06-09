@@ -7,7 +7,7 @@ webUrl: "https://winbuzzer.com/2020/05/08/amazon-fires-back-in-jedi-cloud-wars-b
 ampWebUrl: "https://winbuzzer.com/2020/05/08/amazon-fires-back-in-jedi-cloud-wars-between-microsoft-azure-and-aws-xcxwbn/?amp"
 cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/05/08/amazon-fires-back-in-jedi-cloud-wars-between-microsoft-azure-and-aws-xcxwbn/?amp"
 type: article
-quality: 77
+quality: 57
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ images:
   - url: "https://winbuzzer.com/wp-content/uploads/2016/04/Microsoft-Clouds-Pixels-Reuse.jpg"
     width: 1280
     height: 853
+    isCached: true
     title: "Amazon Fires Back in JEDI Cloud Wars Between Microsoft Azure and AWS"
 
 related:
@@ -35,11 +36,12 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 108
+    quality: 88
     images:
       - url: "https://zdnet4.cbsistatic.com/hub/i/2020/01/21/9d349185-abe0-4f78-aed7-f1aa4a2010ee/istock-925557862.jpg"
         width: 1600
         height: 1068
+        isCached: true
   - title: "Cloud lift: Amazon, Microsoft, Google, Apple and others find a common cushion in the crisis"
     excerpt: "Amazon CEO Jeff Bezos is advising the company’s shareholders to “take a seat” to prepare for the tech giant’s ambitious spending on COVID-19 initiatives, but if not for Amazon Web Services, they"
     publishedDateTime: 2020-05-04T15:29:00Z
@@ -50,11 +52,12 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 92
+    quality: 72
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2019/12/reInvent-2018_Wednesday_AndyJassyKeynote_140-630x442.jpg"
         width: 630
         height: 442
+        isCached: true
   - title: "Q1 belongs to AWS and Microsoft as cloud provides ‘safe haven’ during Covid-19"
     excerpt: "The economic impact of Covid-19 has so far failed to slow the cloud progress of AWS and Microsoft within the enterprise market."
     publishedDateTime: 2020-05-04T11:02:00Z
@@ -63,11 +66,12 @@ related:
     provider:
       name: ARN
       domain: arnnet.com.au
-    quality: 28
+    quality: 18
     images:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/aws_microsoft.jpg"
         width: 800
         height: 500
+        isCached: true
   - title: "ASCEND TECHNOLOGIES LLC Becomes Microsoft Cloud Solutions Provider And Reseller"
     excerpt: "ASCEND TECHNOLOGIES LLC, a leading Midwest managed services provider founded on a commitment to using innovation and technology to enable business growth, today added"
     publishedDateTime: 2020-05-06T14:30:00Z
@@ -76,11 +80,12 @@ related:
     provider:
       name: WFMZ-TV
       domain: wfmz.com
-    quality: 28
+    quality: 18
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
         width: 1280
         height: 720
+        isCached: true
 
 secured: "qgOLq15jc6tMvepLSJd+RXT5M1Pxuedso6IGTtd5ZF8Fu0Bklb68qOfUg5h0C2XFLNsR8jSfNqUQcXpIw+5Hwv/nCNYpFEkcqsap2utOwpCh7SURSfeMRMfhxzK6FvnBOHLWE3zkHeHq53Wkn5ziIvF6hAMnvXK1+ePo8TZWPTY33cNvQMh1l6TTPwgI5LJUeMSvl2qy5J5IIkSSJYI5npHOg44WICBQ8MB9cvhC7eQmuYb8dt8YeakCdZqskt9u6AoSX6i8GMSdgDz8sKTt4fLEBEMwvkm4Q+KvnDNuKvDH65IDidJo9jgSpuXFDWUXtodTgBHyTlj+YGoFXoPTuTbpfaooAhTgkfsYTclvzWaX6BvntMWlBbYkTnlODaMQ0iGcVAlXdiOpiSb4KZfYSUOcwqJMFuyZVKkL3dxbmfPGqndN1PDAQnFn9bDUWsMpo/s/eZelZQsaloc5DX490dr2aYp53FkH6I9hwHVde9s=;SbghCEEkNmAsrLfDZKDEeA=="
 ---

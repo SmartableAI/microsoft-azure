@@ -7,7 +7,7 @@ webUrl: "https://techcrunch.com/2020/05/12/microsoft-partners-with-redis-labs-to
 ampWebUrl: "https://techcrunch.com/2020/05/12/microsoft-partners-with-redis-labs-to-improve-its-azure-cache-for-redis/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/12/microsoft-partners-with-redis-labs-to-improve-its-azure-cache-for-redis/amp/"
 type: article
-quality: 117
+quality: 97
 heat: -1
 published: false
 
@@ -26,6 +26,7 @@ images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1207074418.jpg?w=1024"
     width: 1024
     height: 682
+    isCached: true
     title: "Microsoft partners with Redis Labs to improve its Azure Cache for Redis"
 
 related:
@@ -39,11 +40,12 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 117
+    quality: 97
     images:
       - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/05/11/f9afed5d-33cd-438f-ba73-31b31abba8e1/thumbnail/1200x675/551e70a2173905fa78f8877e82c1669a/redis-logo-2.png"
         width: 1200
         height: 675
+        isCached: true
   - title: "Azure Cache for Redis—Enterprise features coming soon"
     excerpt: ""
     publishedDateTime: 2020-05-12T13:00:09Z
@@ -61,11 +63,12 @@ related:
     provider:
       name: eWeek
       domain: eweek.com
-    quality: 72
+    quality: 62
     images:
       - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2020/05/Microsoft365logo.jpg?alias=social_image"
         width: 560
         height: 300
+        isCached: true
   - title: "Redis and Microsoft to deliver Redis Enterprise as integrated tiers of Azure Cache for Redis"
     excerpt: "Redis Labs announced a new strategic agreement with Microsoft to deliver Redis Enterprise as new, fully integrated tiers of Azure Cache for Redis."
     publishedDateTime: 2020-05-13T23:48:00Z
@@ -74,11 +77,12 @@ related:
     provider:
       name: Help Net Security
       domain: helpnetsecurity.com
-    quality: 36
+    quality: 26
     images:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
         width: 304
         height: 430
+        isCached: true
 
 secured: "g+X5BxU+lN4NcKmjbqrGvpeTMWZD56VSJ1Z7bXenpF0S4WQ6cc40EzMchXMhwUJRX3HGp631LlJa+FabyU5vl+nF/KMromRGxMJIi4XkFIfZUIPoI/RivXXFSNhcLrhHpz8SZuxEstAWEdcAWxK/7sZCx8LHyFNBggZ57RFsTxicQ+7GvFcxPZ/bb7u3mRzBiOsv7AtIqgqoNwqtaTjwdzQ3oCogzZc5cp0tJzwaoIngof7CXvatJJC6qwKcSar4BTXHJVMoyNGOyHDGDIPZyNEtMULuoEzZU68tMtiZl441nNf2cNWp5abofwPCuP1U6OkBQ/oqaC93iswnSCoMFGZ+rP4O5oSNrPdDpCnSlx/vhvzeXIB2FWIRybfJWLj7Ttesjd3XlzyeMbrmX44N7t9hOi1bbF0T00dBihqnO8tAW+5NvjsKtbb67fNOeWHdOks9KNwU+4JA7wY8Li+wZxNel4rPMfNTd1LEkQOOEOE=;K/87wflOvM5dWzjYGI3V+A=="
 ---

@@ -30,11 +30,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 109
+    quality: 99
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/77b8d4b9-ee3e-47f1-aed3-55a42d4385af.jpg"
         width: 1430
         height: 557
+        isCached: true
 
 secured: "9bKU5vatOOSlM9huEPVkhdvWRC9VLDiiAF+HZRJBmvpKAEikbC3cMt174yexoUuOZD8Uy8mMDF+Qlfh4d6GdH8kr59OHfssFyqgmJPpkpOW5Xy8bEBQ5tJoo0/U7bSsKjO9poCEwYePire8jG6llJl0GOB9yQPTCqzo3PJO02uDvfEAz/0uAXd0mA6UeE2P7GSZNXS+5g99RYf8oxsIbJF8TX4VokyWv2Wfi6SQkmKAWh+39V0jKlAuMddBCamuGaFhC4BQIWHwB5pr6V/N8DA3yVsqPxJStuHRl0DPua5uhD+GmHucRSAydAP68icS6qcQQ9RGskCeLTW7Zh/qf1A==;POOt/5MrqdVj84Q0pXENBw=="
 ---

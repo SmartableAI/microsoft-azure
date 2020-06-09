@@ -7,8 +7,8 @@ webUrl: "https://www.techradar.com/au/news/aws-appflow-takes-on-microsoft-azures
 ampWebUrl: "https://www.techradar.com/au/amp/news/aws-appflow-takes-on-microsoft-azures-power-automate"
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/aws-appflow-takes-on-microsoft-azures-power-automate"
 type: article
-quality: 117
-heat: 157
+quality: 97
+heat: 137
 published: true
 
 provider:
@@ -26,6 +26,7 @@ images:
   - url: "https://cdn.mos.cms.futurecdn.net/5egycZyR8KutGdsgWQA3M7-1200-80.jpg"
     width: 1023
     height: 576
+    isCached: true
     title: "AWS AppFlow takes on Microsoft Azure’s Power Automate"
 
 related:
@@ -39,11 +40,12 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 73
+    quality: 53
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2018/10/Swift-Azure.jpg"
         width: 932
         height: 537
+        isCached: true
   - title: "Microsoft Azure Stack HCI"
     excerpt: "Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here. Azure Stack HCI delivers unmatched performance, with a path to hybrid ..."
     publishedDateTime: 2020-04-25T23:05:00Z
@@ -52,11 +54,12 @@ related:
     provider:
       name: CRN
       domain: crn.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://www.crn.com/resources/025b-0eff6361f68a-29cd08758548-1000/1azurestackportfolio.jpg"
         width: 515
         height: 305
+        isCached: true
 
 secured: "7GB4v0PdX2Uwq5qAn4bEJkbK+gRIhjEpFFP5hykSUuzHahq2mq5D0wiGf3Jx7wfGon+cn8UDeXZzxqvGZmkj3wHhb/V8ZQIEwonkb5T2bK6E5jJj4od2RveLblXCNUi7wMaQ2OUXZc2TF3IyFjZM6kCuFgaTbIFMZmz7WBrJUuCNond9jccw+GKkQk+tRIz7N3WiaNGzzpGDaBkvxa5l4BTbpnqdkdXzu8ubund+UaoaY9zf32OdomE8HH219uLwocrCBt7M1KTH1YcOIdGxoj0Vc2Bf8kYHpEPNWAxKE1jG3cwlIVl9d4UyInoTH+31;tXYZFaVDw7FXIe7GHNxkAg=="
 ---

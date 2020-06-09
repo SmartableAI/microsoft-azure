@@ -7,7 +7,7 @@ webUrl: "https://mspoweruser.com/microsoft-acquiring-microvision/"
 ampWebUrl: "https://mspoweruser.com/microsoft-acquiring-microvision/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-acquiring-microvision/amp/"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ images:
   - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Microsoft-Microvision.jpg"
     width: 962
     height: 538
+    isCached: true
     title: "Report: Microsoft acquiring Microvision, a leader in ultra-miniature projection display"
 
 related:
@@ -35,11 +36,12 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://www.benzinga.com/files/images/story/2012/building-1011876_1920_1_4.jpg"
         width: 1920
         height: 1440
+        isCached: true
   - title: "Microsoft’s cloud business helps offset pandemic woes"
     excerpt: "Ongoing demand for Microsoft’s cloud computing services help softened the blow of the coronavirus pandemic on the software giant’s other products during the first three months of the"
     publishedDateTime: 2020-05-11T17:53:00Z
@@ -50,11 +52,12 @@ related:
     provider:
       name: WRIC
       domain: wric.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://www.wric.com/wp-content/uploads/sites/74/2020/04/2a643fc1b1fb4a6ca0c2ce8d387c3860.jpg?w=1280&h=720&crop=1"
         width: 1280
         height: 720
+        isCached: true
   - title: "Tencent takes aim at Microsoft and Amazon with expansion of cloud business in Japan"
     excerpt: "A division of Chinese internet services giant Tencent Holdings Ltd. will expand the scope of its cloud business in Japan by the end of this year, a senior executive said Tuesday. By utilizing its state-of-the-art technology in the automobile and electronics fields,"
     publishedDateTime: 2020-05-13T04:03:00Z
@@ -63,11 +66,12 @@ related:
     provider:
       name: The Japan Times
       domain: japantimes.co.jp
-    quality: 26
+    quality: 16
     images:
       - url: "https://cdn.japantimes.2xx.jp/wp-content/uploads/2020/05/np_file_11661.jpeg"
         width: 594
         height: 396
+        isCached: true
 
 secured: "v5eWWh55fM9qrbIWe3OtQSNzZyp6t17+LKnDTisk9kQ+QdyVW1McdYSncqvPjhwBktt+w4/zk81GG9O/anaC+BFxLDs7HFQHnvJulgpBdao8FvKDZG+puE28tc/nceXn9foS9ZrX/erZ74XLIRX5zmKmqf6D5kOcruvKNkIpqxgKo2YQjR/HOaUUM8DV6Dzkf5zv5Nv4e0JxVjPZeYNwfZAiwjJVPcc4r1ejLQIVz9+O8WjyzGOAwId3yIahpDSUcCwrSR8GHzPlUTlIvt8qnGWK4P2GqmwhSVprdvy7sAL/OhalfXF2bO6pcJ68KfJWOJ6FLaSrnGNqOpHAADIA552i02b0eT6J3ZTsbLWjL8oxZhaZL7lxKSsoCcn281MDCjA+07tIZEfqvLzoosL/FE0ufKJkJHKXsKg0sTz28wdu0HouacG/WWL+CTTLs+ByOqMrT0ohTF7oahvl/ChTVwv1ABNnYkJlkc6xNktW2Lg=;FWjJ1wGdC5DQE1dAZo/M6g=="
 ---

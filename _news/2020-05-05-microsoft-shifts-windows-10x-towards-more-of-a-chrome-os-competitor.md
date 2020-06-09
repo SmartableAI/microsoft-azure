@@ -7,7 +7,7 @@ webUrl: "https://www.theverge.com/2020/5/5/21247701/microsoft-windows-10x-laptop
 ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/5/21247701/microsoft-windows-10x-laptops-single-screen-chrome-os-competition"
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/5/21247701/microsoft-windows-10x-laptops-single-screen-chrome-os-competition"
 type: article
-quality: 102
+quality: 82
 heat: -1
 published: false
 
@@ -26,6 +26,7 @@ images:
   - url: "https://cdn.vox-cdn.com/thumbor/I6Y9yFT7Qj_HvkVrVrJUcLNOn5E=/0x0:2640x1760/1400x933/filters:focal(1109x669:1531x1091):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66752704/windows10xlaptop.5.jpg"
     width: 1400
     height: 933
+    isCached: true
     title: "Microsoft shifts Windows 10X towards more of a Chrome OS competitor"
 
 related:
@@ -39,11 +40,12 @@ related:
     provider:
       name: Engadget
       domain: engadget.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-05%2Ffe4dc1d0-8e2e-11ea-bfdf-96f360b43ccd&client=amp-blogside-v2&signature=08fae138036032b01bc5ed56fe270592902b738a"
         width: 600
         height: 350
+        isCached: true
   - title: "Microsoft will bring its new Windows 10X to single-screen devices first"
     excerpt: "The future of Windows is starting with traditional designs. Windows 10X, the future of Microsoft's popular operating system, is still on the way, but those hoping to try it out on new dual-screen hardware will need to wait a bit longer."
     publishedDateTime: 2020-05-04T17:30:00Z
@@ -54,11 +56,12 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://cnet4.cbsistatic.com/img/PFC-zJ2VC7-KbBX7F0hLIXgw_5A=/756x567/2019/10/02/5fe390f5-c2d3-4b3a-889a-6696648dc461/windows-10x.jpg"
         width: 756
         height: 567
+        isCached: true
   - title: "Microsoft to bring Windows 10X to laptops first, pivoting away from dual-screens"
     excerpt: "Microsoft has officially confirmed that the Windows 10X operating system once intended for only dual-screen devices, will be coming to laptops and tablets, too."
     publishedDateTime: 2020-05-04T17:03:00Z
@@ -69,11 +72,12 @@ related:
     provider:
       name: Digital Trends
       domain: digitaltrends.com
-    quality: 97
+    quality: 77
     images:
       - url: "https://icdn4.digitaltrends.com/image/digitaltrends/b5398ddb6eed22d586aaa3eaf71ff362-1200x630-c-ar1.91.jpg"
         width: 1152
         height: 603
+        isCached: true
   - title: "Microsoft confirms Windows 10X is coming to laptops amid big jump in Windows usage"
     excerpt: "Microsoft isn’t saying exactly when single screen devices like laptops will support Windows 10X, nor when dual-screen devices will launch with the OS. “We will continue to look for the right moment, in conjunction with our OEM partners,"
     publishedDateTime: 2020-05-04T16:08:00Z
@@ -84,11 +88,12 @@ related:
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 96
+    quality: 76
     images:
       - url: "https://cdn.vox-cdn.com/thumbor/_Uzc2GIYDlWGRYoWD1n3eWkVU3A=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66748551/akrales_190930_3649_0115.0.jpg"
         width: 1400
         height: 933
+        isCached: true
   - title: "Windows 10X will debut initially on single-screen devices, Microsoft exec confirms"
     excerpt: "Microsoft confirmed this week that it will pause development of its Windows 10X operating system for dual-screen devices and instead focus first on developing Windows 10X first for"
     publishedDateTime: 2020-05-05T16:29:00Z
@@ -99,11 +104,12 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 96
+    quality: 76
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2020/04/no-neo-in-2020-microsoft-pauses-630x354.jpg"
         width: 630
         height: 354
+        isCached: true
 
 secured: "vex3z6+KVUlxMuhOcW6Dxdep1FbUXlFxQTv+GHp56nBnu3VqM/g8Nn4ceBfqNV+1S4yGi5nIF4bmsstshYtMetBPbXBPeJd0Dxf2q25h98ownPBtc63XiJM9XHt5GkADsqHE7/m3Kk2u/iFohpQ10QZj/78crshZxzflFMW8cr/uQgmGoWLY8YhuDYzxYRVcQvjxFkWFHbFLOCUurgDBh+/weQmn3f70+Wz3/BDtP5Se3NBu2ge15P3sonPxgBxpOZV07uRvMRRjKERC82yZxFb4bOOWMiEmGQdJNTTH43nXDNGYuXdCSxFPlcqrCMhzItMnBlXJsdd+CBjGEvznewX20E/Bdf83crBzlXeD8FRKpPZOlNPSKs945pBdjdLPdLHNzYdTLaTrpSRuiXS9MuuOHwBKFea1S6NTmwdUtFMM74nKpuXzZQlV9VnwFi08ffiM97yGcj+HX/QM63IUdAlqtHQWKB+rD7AhOhNkX+0=;AF+/uWpW7G6ioLSthFN0xA=="
 ---

@@ -5,7 +5,7 @@ excerpt: "The economic impact of Covid-19 has so far failed to slow the cloud pr
 publishedDateTime: 2020-05-04T11:02:00Z
 webUrl: "https://www.arnnet.com.au/article/678964/q1-belongs-aws-microsoft-cloud-provides-safe-haven-during-covid-19/?fp=2&fpid=1"
 type: article
-quality: 28
+quality: 18
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ images:
   - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/aws_microsoft.jpg"
     width: 800
     height: 500
+    isCached: true
     title: "Q1 belongs to AWS and Microsoft as cloud provides ‘safe haven’ during Covid-19"
 
 related:
@@ -33,11 +34,12 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 108
+    quality: 88
     images:
       - url: "https://zdnet4.cbsistatic.com/hub/i/2020/01/21/9d349185-abe0-4f78-aed7-f1aa4a2010ee/istock-925557862.jpg"
         width: 1600
         height: 1068
+        isCached: true
   - title: "Cloud lift: Amazon, Microsoft, Google, Apple and others find a common cushion in the crisis"
     excerpt: "Amazon CEO Jeff Bezos is advising the company’s shareholders to “take a seat” to prepare for the tech giant’s ambitious spending on COVID-19 initiatives, but if not for Amazon Web Services, they"
     publishedDateTime: 2020-05-04T15:29:00Z
@@ -48,11 +50,12 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 92
+    quality: 72
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2019/12/reInvent-2018_Wednesday_AndyJassyKeynote_140-630x442.jpg"
         width: 630
         height: 442
+        isCached: true
   - title: "Amazon Fires Back in JEDI Cloud Wars Between Microsoft Azure and AWS"
     excerpt: "Amazon says it will continue to fight Microsoft over Azure winning the $10 billion JEDI cloud contract from the Pentagon."
     publishedDateTime: 2020-05-08T16:53:00Z
@@ -63,11 +66,12 @@ related:
     provider:
       name: winbuzzer.com
       domain: winbuzzer.com
-    quality: 77
+    quality: 57
     images:
       - url: "https://winbuzzer.com/wp-content/uploads/2016/04/Microsoft-Clouds-Pixels-Reuse.jpg"
         width: 1280
         height: 853
+        isCached: true
   - title: "ASCEND TECHNOLOGIES LLC Becomes Microsoft Cloud Solutions Provider And Reseller"
     excerpt: "ASCEND TECHNOLOGIES LLC, a leading Midwest managed services provider founded on a commitment to using innovation and technology to enable business growth, today added"
     publishedDateTime: 2020-05-06T14:30:00Z
@@ -76,11 +80,12 @@ related:
     provider:
       name: WFMZ-TV
       domain: wfmz.com
-    quality: 28
+    quality: 18
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
         width: 1280
         height: 720
+        isCached: true
 
 secured: "1mqrxinWgTkg7J0BZ/AOTvaAIlvXEZ28ZBlu7AfxRjCN78t+EAcqgmict9FVq+YEFPf27iPfFYTgyMSKIK/tox79gN9404IAXCe7uKs9AjtNjKyr8Ot8DsofbmW8ordXIgfckqfmWNdtZPDBFQ9Nb+EktcGNh0+jUAAkiNqruEalb4kS0PwJuCgqdNC4i6/VaXA6VQJNEQPWi7Sg5kOFgdEYmCd/LbeLjC9490x8rFgxVrbbTEPAmSboXUbOtx0Sg1w9XbV124iZUo3PXQ9jrrSllinzk4OmekFy5gs+Rc031chHVsskkCTgWAA4Bk2byN+VooWmKurqqUhwDFEDk+tktOoc+Ip729//KzmuWSDwFfxAfj+PIXwqu1UVuuvd47pC6thSuddk4L3HFTotzfl2GfACxjQ8iGVvEAgDeiSZRYaEdds9gcu8ZoEGnizFalkfuvXSFuyI1xFaZJQafsSvSOaBIb6sdga2VagGdIg=;tLpm+keWiSsQycwJ/3zQnw=="
 ---

@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/a-closer-look-at-microsoft-azure-synapse-
 ampWebUrl: "https://www.zdnet.com/google-amp/article/a-closer-look-at-microsoft-azure-synapse-analytics/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-closer-look-at-microsoft-azure-synapse-analytics/"
 type: article
-quality: 117
-heat: 197
+quality: 97
+heat: 177
 published: true
 
 provider:
@@ -26,6 +26,7 @@ images:
   - url: "https://zdnet4.cbsistatic.com/hub/i/2020/04/14/ae52840f-bd1d-4e9d-8ec2-114e56664784/synapse.jpg"
     width: 750
     height: 500
+    isCached: true
     title: "A closer look at Microsoft Azure Synapse Analytics"
 
 related:
@@ -37,11 +38,12 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 87
+    quality: 77
     images:
       - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
         width: 300
         height: 300
+        isCached: true
   - title: "14 ways AWS beats Microsoft Azure and Google Cloud"
     excerpt: "For all of its dominance, though, Amazon has strong competitors. Companies like Microsoft, Google, IBM, Oracle, SAP, Rackspace, Linnode, and Digital Ocean know that they must establish a real presence in the cloud and they are finding clever ways to compete and excel in what is less and less a commodity business. These rivals offer great ..."
     publishedDateTime: 2020-04-20T10:02:00Z
@@ -50,11 +52,12 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 87
+    quality: 77
     images:
       - url: "https://images.techhive.com/images/article/2016/12/thumbs-up-multicultural-100701134-large.jpg"
         width: 700
         height: 394
+        isCached: true
   - title: "Microsoft announces Azure Service Fabric"
     excerpt: "Microsoft has announced Azure Service Fabric, a new cloud platform for developers and ISVs to build scalable cloud services. According to a blog post from Microsoft Azure CTO Mark Russinovich ..."
     publishedDateTime: 2020-04-20T00:00:00Z
@@ -63,11 +66,12 @@ related:
     provider:
       name: SD Times
       domain: sdtimes.com
-    quality: 87
+    quality: 77
     images:
       - url: "https://sdtimes.com/wp-content/uploads/2015/04/0420.sdt-azure-service-fabric.png"
         width: 1024
         height: 576
+        isCached: true
   - title: "MICROSOFT AZURE MEDIA PLAYER"
     excerpt: "Section A: Microsoft is offering you a license to use the following components with Microsoft Azure Media Player (the \"Microsoft Program\"). The notices below are provided for informational purposes only and are not the license terms under which Microsoft distributes these files. The Microsoft Program may include the following third-party ..."
     publishedDateTime: 2020-04-21T05:22:00Z
@@ -76,11 +80,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
         width: 400
         height: 400
+        isCached: true
 
 secured: "PVnyHQJcV/DnAMaHy7sJrLA67M3hFZIoeCMtBZxwzO+h26LMZ58cT/nJJi8JnCjA7lWj+7RlswbG3O2wqvHrHg4IYNtCSNhOMwvHd5L5vHc3P2tna+NRulmpi0e+MCW/mm70ZQxjUlkavyI5mQTIBUB+HEYqDy826xvD9DrvaMetLt2gklOOKEvwBgqBl6kZgyCvBElubR1FBIptH+usDk6y01wCJV3uCwHQ0UGWm2YTeEyL5BYhzT6JTAILMq1D81GPGXqwG5Wc5mwg1pEmiEm8/NA9PW1HN63l83V5ksTzZeZU9ZreblxJ4Yp7DRhN3Go3eAHctsDrMaifPmbx+aNGl5EYgqQ+KWfDkJKIV9MWwvDq31GFDjb22FPc9aiNdo6SfA4VfuIQzS98QZWzoSeaAimUnW6+PUuP6FjED8GwFGC3QECauJuzu3eDMxEH+wzGDgwlKzjDYFuSJ0PCXmNT8KKUJmhl1CzBKI+H1ZM=;il87sNqIqvY7oK5RlPyAhA=="
 ---

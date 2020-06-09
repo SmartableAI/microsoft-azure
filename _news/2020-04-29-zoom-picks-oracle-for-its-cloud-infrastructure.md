@@ -5,7 +5,7 @@ excerpt: "The enterprise software vendor is a surprising choice for Zoom, with O
 publishedDateTime: 2020-04-29T11:59:00Z
 webUrl: "https://www.datacenterdynamics.com/en/news/zoom-picks-oracle-its-cloud-infrastructure/"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ images:
   - url: "https://media.datacenterdynamics.com/media/images/zoom_business_meeting.2e16d0ba.fill-1200x630.jpg"
     width: 1024
     height: 539
+    isCached: true
     title: "Zoom picks Oracle for its cloud infrastructure"
 
 related:
@@ -33,11 +34,12 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F570037%2Fzoom-oracle-cloud-mf.jpg&w=1200&op=resize"
         width: 1200
         height: 800
+        isCached: true
   - title: "Zoom taps Oracle for cloud deal, passing over Amazon, Microsoft"
     excerpt: "The Covid-19 pandemic has pushed many companies and schools to remote work, which allowed Zoom to emerge as a key player. The videoconferencing software company last week surpassed 300 million daily users,"
     publishedDateTime: 2020-04-28T13:52:00Z
@@ -48,11 +50,12 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106411476-1582742955089gettyimages-1173631560.jpeg?v=1585759755"
         width: 4000
         height: 2670
+        isCached: true
   - title: "Zoom's choice of Oracle cloud looks smart after Microsoft and Google's aggressive moves in video"
     excerpt: "Zoom's decision to go with Oracle's cloud was a surprise, until Google announced that it was giving away a competitive product and Microsoft showed huge growth in Teams"
     publishedDateTime: 2020-04-30T11:43:00Z
@@ -63,11 +66,12 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 89
+    quality: 69
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106424586-1583343879965sg-ericyuan020320-03.jpg?v=1583343910"
         width: 1620
         height: 1080
+        isCached: true
   - title: "Zoom taps Oracle as cloud partner"
     excerpt: "Zoom Video (NASDAQ:ZM) is turning to Oracle's (NYSE:ORCL) cloud to help manage its coronavirus-related demand surge.The videoconferencing company says that \"millions\" of meeting participants a"
     publishedDateTime: 2020-04-28T12:39:00Z

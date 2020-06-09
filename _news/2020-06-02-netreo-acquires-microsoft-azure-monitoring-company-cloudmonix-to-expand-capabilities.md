@@ -7,8 +7,8 @@ webUrl: "https://www.benzinga.com/pressreleases/20/06/g16160732/netreo-acquires-
 ampWebUrl: "https://amp.benzinga.com/amp/content/16160732"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16160732"
 type: article
-quality: 40
-heat: 40
+quality: 30
+heat: 30
 published: false
 
 provider:
@@ -27,11 +27,12 @@ related:
     provider:
       name: InfoQ
       domain: infoq.com
-    quality: 38
+    quality: 28
     images:
       - url: "https://cdn.infoq.com/statics_s1_20200602-0333/styles/static/images/logo/logo-big.jpg"
         width: 1200
         height: 630
+        isCached: true
   - title: "Microsoft Announces a New Pricing Model Option for Azure Cosmos DB and More Capabilities"
     excerpt: "During this year's digital Build event, Microsoft announced a new consumption-based pricing model for Azure Cosmos DB called 'serverless' that is ideal for spiky workloads and complements the existing provisioned throughput pricing model."
     publishedDateTime: 2020-06-05T05:12:00Z
@@ -40,11 +41,12 @@ related:
     provider:
       name: InfoQ
       domain: infoq.com
-    quality: 38
+    quality: 28
     images:
       - url: "https://cdn.infoq.com/statics_s1_20200602-0333/styles/static/images/logo/logo-big.jpg"
         width: 1200
         height: 630
+        isCached: true
   - title: "Correction: Netreo Acquires Microsoft Azure Monitoring Company CloudMonix To Expand Capabilities"
     excerpt: "CloudMonix, a Chicago-based cloud infrastructure monitoring company specializing in advanced insight into system performance, auto-scaling of resources, automation of issue resolution and self-healing to ensure uninterrupted service."
     publishedDateTime: 2020-06-02T15:42:00Z
@@ -53,11 +55,12 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 34
+    quality: 24
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
   - title: "Netreo Acquires CloudMonix; MSPs Gain Microsoft Azure Cloud Monitoring"
     excerpt: "Netreo acquires CloudMonix, which offers Microsoft cloud monitoring services designed for MSPs (managed IT services providers), CSPs & DevOps teams."
     publishedDateTime: 2020-06-03T12:25:00Z

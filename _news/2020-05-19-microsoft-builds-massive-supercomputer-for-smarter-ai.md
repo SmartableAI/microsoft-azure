@@ -7,8 +7,8 @@ webUrl: "https://www.cnet.com/news/microsoft-builds-massive-supercomputer-for-sm
 ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-builds-massive-supercomputer-for-smarter-ai/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-builds-massive-supercomputer-for-smarter-ai/"
 type: article
-quality: 102
-heat: 202
+quality: 82
+heat: 182
 published: true
 
 provider:
@@ -26,6 +26,7 @@ images:
   - url: "https://cnet1.cbsistatic.com/img/TEkbzdFayDjsegaDhc8T7JF9qVI=/756x567/2018/11/10/97f08e96-4be4-41b1-acdc-43595379dfe1/llnl-sierra-supercomputer-randy-wong.jpg"
     width: 756
     height: 567
+    isCached: true
     title: "Microsoft builds massive supercomputer for smarter AI"
 
 related:
@@ -39,11 +40,12 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2020/05/MSFT-Nadella-OpenAI-Altman.jpg"
         width: 630
         height: 423
+        isCached: true
   - title: "Microsoft Builds Massive Supercomputer For OpenAI"
     excerpt: "Microsoft has announced that it has built the fifth fastest supercomputer specifically to support OpenAI, the industry consortium formed by Elon Musk"
     publishedDateTime: 2020-05-20T13:59:00Z
@@ -54,7 +56,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 72
+    quality: 62
   - title: "Microsoft just built ‘one of the top five most powerful’ supercomputers on the planet"
     excerpt: "Microsoft has announced a new supercomputer built by the company in partnership with and for OpenAI to train large-scale AI models. The Seattle-based company said at its Build conference for developers that this is one of the top five publically disclosed supercomputers."
     publishedDateTime: 2020-05-19T15:09:00Z
@@ -63,11 +65,12 @@ related:
     provider:
       name: The Next Web
       domain: thenextweb.com
-    quality: 65
+    quality: 55
     images:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Microsoft-supercomputer-796x418.jpg"
         width: 796
         height: 418
+        isCached: true
   - title: "OpenAI’s supercomputer collaboration with Microsoft marks its biggest bet yet on AGI"
     excerpt: "OpenAI and Microsoft collaborated to build a supercomputer on Azure that's specifically designed to train large AI models."
     publishedDateTime: 2020-05-19T15:05:00Z
@@ -76,11 +79,12 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 65
+    quality: 55
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/05/Supercomputer-e1589742859682.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 600
+        isCached: true
   - title: "Microsoft Says It’s Built a Top-Five Supercomputer in the Cloud for AI"
     excerpt: "Future machine learning models will be enormous. The OpenAI system shows that hyperscale cloud platforms can take them on."
     publishedDateTime: 2020-05-21T16:50:00Z
@@ -89,11 +93,12 @@ related:
     provider:
       name: Data Center Knowledge
       domain: datacenterknowledge.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/sam%20altman%20openai%20techcrunch%20disrupt%202019%20getty.jpg"
         width: 1024
         height: 683
+        isCached: true
 
 secured: "E//wb/bkFp+uOXXHTTfEAdT/VwUdQNr31+k09h598tUbRRIr5D8vNscAQEcL5WzIc4bR9n5h5Z28c2iiQiD2ReftBjnFq6+Icif+6YjAQWcTqvoS7bbx53c2I+VLea65ppYm4OrTpJXZm52VMZkXDDopAIS+GXLUZQQ+0aKdMT1b7gpmsFomunH/7wJd3/eKTVbjlYf7wLVDm5kCHTmdNbA8u2QlN8w/ihTbyR8KsfeMYl1FXds+xR4r27+vWBFHZi8FBkkJXFM1mJJ3H+b9/j19pAF5j//rwJQLbzCqDuumsCbZO5sZuHLSbRIQzV3s6pmXN0/ugiMW9MX/TX3b81X2URk61LaUzWF+TZ1nHZPpMiQb+cmFp70jZa8tLa8vXRREXm9/W8vjtTAA0Ogn/mihXu2wLUsHOsbFYTlwryxXu2amzuwjuB9k8IaiuvDVAbETmFu6oSxlglPZLmEGYh+xuGIw0x3fnI+nf2ET3GY=;Ii00oIX6KcBqho7R70NMtQ=="
 ---

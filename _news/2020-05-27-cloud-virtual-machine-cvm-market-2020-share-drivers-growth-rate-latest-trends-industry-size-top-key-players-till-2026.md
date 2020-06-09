@@ -5,7 +5,7 @@ excerpt: "Market ”report represents an evaluation of theoverall market sizefro
 publishedDateTime: 2020-05-27T04:42:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-virtual-machine-cvm-market-2020-share-drivers-growth-rate-latest-trends-industry-size-top-key-players-till-2026-2020-05-27"
 type: article
-quality: 45
+quality: 35
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Cloud Virtual Machine (CVM) Market 2020 Share, Drivers, Growth Rate, Latest trends, Industry Size, Top Key Players till 2026"
 
 related:
@@ -35,11 +36,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 67
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Impact Analysis of COVID-19 on Cloud Storage Market Analysis 2020-2028 by Emerging Trends, Technology, Future Growth, Revenue, Demand Forecast"
     excerpt: "The growing online activities such as e-mail, enterprise resource planning, digital images, Salesforce automation,"
     publishedDateTime: 2020-06-02T20:26:00Z
@@ -48,11 +50,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
+    quality: 26
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Cloud Manufacturing Market 2020: Company Profiles, COVID - 19 Analysis, Industry Segments, Landscape, Global Trends and Demand by Forecast to 2023"
     excerpt: "Cloud Manufacturing MarketOverview: Cloud manufacturing is the process of utilizing cloud to source relevant data"
     publishedDateTime: 2020-05-27T07:56:00Z
@@ -61,11 +64,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 34
+    quality: 24
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
 
 secured: "8HNRY/tfdWu2T8jCB4YQu0CNDQXlNwcc+GwYTkNWh37hDZVvTV7QY26B/LRy5X1fH9ySBOOk0Azz3tdF9KvMZyVoXC6+qKZzy9657S4wqkcrd/YeU4sRd5uGcDVKLzDd3O1n8VlkQi2OiwYPyrarmiraIFxW4iVheA58k5020IUULLYjrwvYgZLHfei2w3WAXQ1pHcxWMc9w4/e6DylypABfQQyib+hfB8uTQAm2uL22GOuN5e9hInRguEZYAP8fbFk6U0YuzP+LdgyzRNGVzTCa5YHyYRKu0bB0uyXTt6yKneb78uNmgN2loTw/QnRb;3tD9yzGlTGnQNllwlOFluA=="
 ---

@@ -7,7 +7,7 @@ webUrl: "https://www.nextplatform.com/2020/03/31/lenovo-teams-with-microsoft-azu
 ampWebUrl: "https://www.nextplatform.com/2020/03/31/lenovo-teams-with-microsoft-azure-at-the-edge/amp/"
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/03/31/lenovo-teams-with-microsoft-azure-at-the-edge/amp/"
 type: article
-quality: 77
+quality: 57
 heat: -1
 published: false
 
@@ -22,6 +22,12 @@ images:
   - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/ab_cloud-edge-1024x1024.jpg"
     width: 1024
     height: 1024
+    isCached: true
+    title: "Lenovo Teams With Microsoft Azure At The Edge"
+  - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/ab_cloud-edge-scaled.jpg"
+    width: 2560
+    height: 1708
+    isCached: true
     title: "Lenovo Teams With Microsoft Azure At The Edge"
 
 related:
@@ -33,11 +39,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 111
+    quality: 101
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/1f6343e9-ac74-4c7b-8f27-8784133e6897.png"
         width: 377
         height: 212
+        isCached: true
   - title: "Extending the power of Azure AI to Microsoft 365 users"
     excerpt: "Today, Yusuf Mehdi, Corporate Vice President of Modern Life and Devices, announced the availability of new Microsoft 365 Personal and Family subscriptions. In his blog, he shared a few examples of how Microsoft 365 is innovating to deliver experiences powered by artificial intelligence (AI) to billions"
     publishedDateTime: 2020-03-30T08:30:32Z
@@ -46,11 +53,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 109
+    quality: 99
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/9657b8e1-a355-40b6-ae91-6285753322d9.png"
         width: 1187
         height: 821
+        isCached: true
 
 secured: "hSQEz82WxOzJZRC0lN2WPnbiFsgNQoxYsXPQxoODME5ntHg9Y0A3+m7Y/DReCqu1AnrEewCmu9lqQmKk8sI8uwzAvcc5QX4McCs9eBDtUhsP0t7JHrBQ6g2v9NT5GZ1cg685eWDzBzayfqLvOwxWjg8QBbC+6/ux9W2JYPKzQtg376sT0UQB6jkN/LmbZ2xRKS65VI7jdg8CEY2dzoXOTeYxrgpVlo1MTvDFcDZePO8Rx2hdxK4cFnLjDBeIi2Apfecazd1CCZCozcMcK9ds5XCU1+Qlzoisrt30WbtvzL2pBy0CcR7N94jmKV0NQSFK;z+ho5GodI0aeAKnd6w4zHA=="
 ---

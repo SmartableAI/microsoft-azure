@@ -5,8 +5,8 @@ excerpt: "Azure Security Center's threat protection enables you to detect and pr
 publishedDateTime: 2020-04-08T09:00:03Z
 webUrl: "https://azure.microsoft.com/blog/detect-largescale-cryptocurrency-mining-attack-against-kubernetes-clusters/"
 type: article
-quality: 92
-heat: 92
+quality: 82
+heat: 82
 published: true
 
 provider:
@@ -25,6 +25,7 @@ images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/d8b54b28-e0d9-4ceb-9b70-d62a3667d974.png"
     width: 435
     height: 768
+    isCached: true
     title: "Detect large-scale cryptocurrency mining attack against Kubernetes clusters"
 
 secured: "e3thTY0KhbIb4kq3u6GC7sAG59CGsqTJMtXT0QwoPFnTWI8cF9YHno77+H7bFVGjB0o6wqAXTx20+FxzOeMkp+mwhGrilFXgVsoNdF1coBAnyoMKYiXrYlisRiSAll5KRYe+DNsp5pTv1rsH68BZw+2uQC2Hh0qRwvpP7r4TvFbvH1m4zlpWo4H3FEdhJhOurAKMSD8ZogTNxa5hguHgxc8ltClsmrHvWbyA9A1DHcf0+/WQF6S3EbIY2rfwY6VFNKgatiJZj+O2cpFv818VnrfqXCV1eRVtBaKoB3ZTQZWEWNoAEw2QGAtKP+rU/atupwpH04F/3flHDKd74dk5JA==;ZxmseECzam71L37TOEycpg=="

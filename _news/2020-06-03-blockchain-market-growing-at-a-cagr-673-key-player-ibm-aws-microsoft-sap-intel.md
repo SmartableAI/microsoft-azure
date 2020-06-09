@@ -7,7 +7,7 @@ webUrl: "https://www.benzinga.com/pressreleases/20/06/ab16166093/blockchain-mark
 ampWebUrl: "https://amp.benzinga.com/amp/content/16166093"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16166093"
 type: article
-quality: 24
+quality: 14
 heat: -1
 published: false
 
@@ -27,11 +27,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Middle East Cloud Applications Market Growing at a CAGR 17.5% | Key Player SAP, Microsoft, Oracle, Sage, IBM"
     excerpt: "MarketsandMarkets expects the Middle East Cloud Applications Market to grow from USD 2.0 billion in 2019 to USD"
     publishedDateTime: 2020-04-30T15:35:00Z
@@ -40,11 +41,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "CORONA Impact on Cloud Computing Market Growing at a CAGR 12.5% | Key Player AWS, Microsoft, Google, Alibaba, SAP"
     excerpt: "May 05, 2020 (AB Digital via COMTEX) -- The impact of COVID-19 on the \"COVID-19 Impact on Cloud Computing Market by Service Type (Infrastructure"
     publishedDateTime: 2020-05-05T21:07:00Z
@@ -53,11 +55,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
 
 secured: "Ne8sVrJA39uSOpp4BFIpp+2f73xC5OP5qIEYpLqHXYvPIucYHYlfvTGzt576Cg3U0S4L+jGqcqLHeD93RJGmheHWxecBZo3CM4yD8i6TBf7CHcJCW31XwoBGhwgRch+eqcWtVGpZptuiPhmmV3zJiDjjdo0CfcDzJ4FBUeYsOIL+sz4KjDlRVj68ZoK2H4AdtC+KVTjkyZt0lSVgMtogNpP0HJNzIdRh0jBXlhmieb3ZjyryMCLj+jGlqM2MzRxVWcAj9L24hNCkvRqt/m2T08GH5b1jK6EuWWHUijAx3eLwgEFsMHvHBefts6R80jru+bEigDHTdOKkS7r/MAA09tGwgZTP1pzu6n6daJh1xLz5fImBFGf5bOPJdLUc9j6s7DPCsqPPHY+3A2hY4i1UG35BdV1QNztKmIz6zgiuOuarrvh8E05HVwASd7OT+evuJIiO3EteETOqChADgDUyvACyMe9s4SWzpPhpu7Q4mYk=;rUodVfXVkUA9oIGbSD/+OA=="
 ---

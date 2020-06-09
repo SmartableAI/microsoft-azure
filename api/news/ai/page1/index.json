@@ -22,7 +22,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -42,7 +43,7 @@
       "path": "_news/2020-04-09-accelerating-digital-transformation-in-manufacturing.md",
       "title": "Accelerating digital transformation in manufacturing",
       "excerpt": "Digital transformation in manufacturing has the potential to increase annual global economic value by $4.5 trillion according to the IDC MarketScape.i With so much upside, manufacturers are looking at how technologies like IoT, machine learning, and artificial intelligence (AI) can be used to optimize",
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "type": "article",
       "webUrl": "https://azure.microsoft.com/blog/accelerating-digital-transformation-in-manufacturing/",
@@ -59,7 +60,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -71,7 +73,8 @@
           "width": 1024,
           "height": 683,
           "title": "Accelerating digital transformation in manufacturing",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -88,7 +91,7 @@
       "path": "_news/2020-04-07-introducing-incremental-enrichment-in-azure-cognitive-search.md",
       "title": "Introducing incremental enrichment in Azure Cognitive Search",
       "excerpt": "Incremental enrichment is a new feature of Azure Cognitive Search that brings a declarative approach to indexing your data. When incremental enrichment is turned on, document enrichment is performed at the least cost, even as your skills continue to evolve. Indexers in Azure Cognitive Search add documents",
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "type": "article",
       "webUrl": "https://azure.microsoft.com/blog/introducing-incremental-enrichment-in-azure-cognitive-search/",
@@ -105,7 +108,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -117,7 +121,8 @@
           "width": 883,
           "height": 462,
           "title": "Introducing incremental enrichment in Azure Cognitive Search",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -133,7 +138,7 @@
       "path": "_news/2020-03-24-microsoft-is-expanding-the-azure-stack-edge-with-nvidia-gpu-preview.md",
       "title": "Microsoft is expanding the Azure Stack Edge with NVIDIA GPU preview",
       "excerpt": "We’re expanding the Microsoft Azure Stack Edge with NVIDIA T4 Tensor Core GPU preview during the GPU Technology Conference (GTC Digital). Azure Stack Edge is a cloud-managed appliance that brings Azure’s compute, storage, and machine learning capabilities to the edge for fast local analysis and insights.",
-      "heat": 151,
+      "heat": 141,
       "tags": null,
       "type": "article",
       "webUrl": "https://azure.microsoft.com/blog/microsoft-is-expanding-the-azure-stack-edge-with-nvidia-t4-gpu-preview/",
@@ -150,7 +155,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -162,7 +168,8 @@
           "width": 377,
           "height": 212,
           "title": "Microsoft is expanding the Azure Stack Edge with NVIDIA GPU preview",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -179,7 +186,7 @@
       "path": "_news/2020-03-23-how-azure-machine-learning-powers-suggested-replies-in-outlook.md",
       "title": "How Azure Machine Learning powers suggested replies in Outlook ",
       "excerpt": "Microsoft 365 applications are so commonplace that it’s easy to overlook some of the amazing capabilities that are enabled with breakthrough technologies, including artificial intelligence (AI). Microsoft Outlook is an email client that helps you work efficiently with email, calendar, contacts, tasks,",
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "type": "article",
       "webUrl": "https://azure.microsoft.com/blog/how-azure-machine-learning-service-powers-suggested-replies-in-outlook/",
@@ -196,7 +203,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -208,7 +216,8 @@
           "width": 999,
           "height": 619,
           "title": "How Azure Machine Learning powers suggested replies in Outlook ",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -224,7 +233,7 @@
       "path": "_news/2020-03-17-new-features-for-form-recognizer-now-available.md",
       "title": "New features for Form Recognizer now available",
       "excerpt": "Extracting text and structure information from documents is a core enabling technology for robotic process automation and workflow automation. Since its preview release in May 2019, Azure Form Recognizer has attracted thousands of customers to extract text, key and value pairs, and tables from documents",
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "type": "article",
       "webUrl": "https://azure.microsoft.com/blog/new-features-for-form-recognizer-now-available/",
@@ -241,7 +250,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -253,7 +263,8 @@
           "width": 3240,
           "height": 1818,
           "title": "New features for Form Recognizer now available",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -269,7 +280,7 @@
       "path": "_news/2020-01-27-six-things-to-consider-when-using-video-indexer-at-scale.md",
       "title": "Six things to consider when using Video Indexer at scale",
       "excerpt": "Your large archive of videos to index is ever-expanding, thus you have been evaluating Microsoft Video Indexer and decided that you want to take your relationship with it to the next level by scaling up.\r\n\r\nIn general, scaling shouldn’t be difficult, but when you first face such process you might not",
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "type": "article",
       "webUrl": "https://azure.microsoft.com/blog/six-things-to-consider-when-using-video-indexer-at-scale/",
@@ -286,7 +297,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -298,7 +310,8 @@
           "width": 1024,
           "height": 547,
           "title": "Six things to consider when using Video Indexer at scale",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -314,7 +327,7 @@
       "path": "_news/2020-01-27-fueling-intelligent-energy-with-iot.md",
       "title": "Fueling intelligent energy with IoT",
       "excerpt": "At Microsoft, building a future that we can all thrive in is at the center of everything we do. On January 16, as part of the announcement that Microsoft will be carbon negative by 2030, we discussed how advances in human prosperity, as measured by GDP growth, are inextricably tied to the use of energy.",
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "type": "article",
       "webUrl": "https://azure.microsoft.com/blog/fueling-intelligent-energy-with-iot/",
@@ -331,7 +344,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -343,7 +357,8 @@
           "width": 837,
           "height": 593,
           "title": "Fueling intelligent energy with IoT",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -376,7 +391,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -396,7 +412,7 @@
       "path": "_news/2019-12-11-combine-the-power-of-video-indexer-and-computer-vision.md",
       "title": "Combine the Power of Video Indexer and Computer Vision",
       "excerpt": "We are pleased to introduce the ability to export high-resolution keyframes from Azure Media Service’s Video Indexer. Whereas keyframes were previously exported in reduced resolution compared to the source video, high resolution keyframes extraction gives you original quality images and allows you to",
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "type": "article",
       "webUrl": "https://azure.microsoft.com/blog/combine-the-power-of-video-indexer-and-computer-vision/",
@@ -413,7 +429,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -425,7 +442,8 @@
           "width": 1271,
           "height": 645,
           "title": "Combine the Power of Video Indexer and Computer Vision",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -441,7 +459,7 @@
       "path": "_news/2019-12-03-enabling-collaborative-bot-development-across-your-organization-for-any-user.md",
       "title": "Enabling collaborative bot development across your organization for any user",
       "excerpt": "This post was co-authored by Omar Aftab, Partner Director of Program Management, Power Virtual Agents.\r\n\r\nConversational artificial intelligence (AI) is enabling organizations to improve their business in areas like customer service and employee engagement by automating some of the most commonly requested",
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "type": "article",
       "webUrl": "https://azure.microsoft.com/blog/enabling-collaborative-bot-development-across-your-organization-for-any-user/",
@@ -458,7 +476,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -470,7 +489,8 @@
           "width": 1280,
           "height": 720,
           "title": "Enabling collaborative bot development across your organization for any user",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -486,7 +506,7 @@
       "path": "_news/2019-11-25-multi-language-identification-and-transcription-in-video-indexer.md",
       "title": "Multi-language identification and transcription in Video Indexer",
       "excerpt": "Multi-language speech transcription was recently introduced into Microsoft Video Indexer at the International Broadcasters Conference (IBC). It is available as a preview capability and customers can already start experiencing it in our portal. More details on all our IBC2019 enhancements can be found",
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "type": "article",
       "webUrl": "https://azure.microsoft.com/blog/multi-language-identification-and-transcription-in-video-indexer/",
@@ -503,7 +523,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,
@@ -515,7 +536,8 @@
           "width": 669,
           "height": 750,
           "title": "Multi-language identification and transcription in Video Indexer",
-          "attribution": null
+          "attribution": null,
+          "isCached": true
         }
       ],
       "locale": "en-us",
@@ -548,7 +570,8 @@
             "width": 50,
             "height": 50,
             "title": null,
-            "attribution": null
+            "attribution": null,
+            "isCached": false
           }
         ],
         "publishers": null,

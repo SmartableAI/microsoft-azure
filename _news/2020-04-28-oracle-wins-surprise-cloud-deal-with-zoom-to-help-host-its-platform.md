@@ -5,7 +5,7 @@ excerpt: "The collaboration is the result of a surprise cloud deal unveiled toda
 publishedDateTime: 2020-04-28T18:47:00Z
 webUrl: "https://siliconangle.com/2020/04/28/oracle-wins-surprise-cloud-deal-zoom-help-host-platform/"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/oracle.png"
     width: 718
     height: 400
+    isCached: true
     title: "Oracle wins surprise cloud deal with Zoom to help host its platform"
 
 related:
@@ -33,11 +34,12 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTY4NjQ3NDk5MDMzNjE4MDU1/oracles-cloud-guru-on-how-cloud-services-will-transform-companies-and-oracle-itself.jpg"
         width: 620
         height: 349
+        isCached: true
   - title: "Oracle Bests Cloud Rivals To Win Blockbuster Zoom Deal"
     excerpt: "Zoom selects Oracle Cloud Infrastructure as its cloud provider to help them scale video communications during the coronavirus pandemic."
     publishedDateTime: 2020-04-28T15:21:00Z
@@ -46,11 +48,12 @@ related:
     provider:
       name: CRN
       domain: crn.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.crn.com/resources/025c-0f47f2913a57-ac4f75105e9d-1000/oracle-hq-front.jpg"
         width: 610
         height: 458
+        isCached: true
 
 secured: "8o4BIoK6xblGNGsIXnfJCcKRY9fMVyvVwGu+1MvyEW7uiL2FRYUwYcCZPxkivfUeYxCQi18qkqReLXQKZlEfVq/IUxqWKsE+hXWaDgGqsaiREcxOyiLG54+cxrZ2yPdeXtGz2nucS9t7vVu/LWCeVZXnb4/k1b7XoBJgFKTKOhFdQE+KStLU/VQtAmip32yj0wLIOkM67B3x6th1OHr/zgotJV9+AInnD6s1nb70GK54cM0Qmx1FcGuN9skot3sYHatfd0GVsMbEOZpv4zXzli6PJRribHRybSPOrgJ6xavNqj6SpnhpoaKGCoSkEboU;9VdQpuRSlEjWuFBGMtiuQg=="
 ---

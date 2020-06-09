@@ -5,8 +5,8 @@ excerpt: "N4Stack launches Azure Service Tiles to help customers overcome the ch
 publishedDateTime: 2020-05-13T01:32:00Z
 webUrl: "https://www.helpnetsecurity.com/2020/05/13/n4stack-azure-service-tiles/"
 type: article
-quality: 41
-heat: 41
+quality: 31
+heat: 31
 published: false
 
 provider:
@@ -20,6 +20,7 @@ images:
   - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
     width: 304
     height: 430
+    isCached: true
     title: "N4Stack unveils Azure Service Tiles ensuring customers and easier move to the cloud"
 
 related:

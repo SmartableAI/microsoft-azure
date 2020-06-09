@@ -5,7 +5,7 @@ excerpt: "Azure Stack HCI delivers unmatched performance, with a path to hybrid 
 publishedDateTime: 2020-04-25T23:05:00Z
 webUrl: "https://www.crn.com/2020/04/24/microsoft-azure-stack-hci/4rB6NDMQd1Vug6GrJ7ZOU/index.html"
 type: article
-quality: 47
+quality: 37
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ images:
   - url: "https://www.crn.com/resources/025b-0eff6361f68a-29cd08758548-1000/1azurestackportfolio.jpg"
     width: 515
     height: 305
+    isCached: true
     title: "Microsoft Azure Stack HCI"
 
 related:
@@ -33,11 +34,12 @@ related:
     provider:
       name: TechRadar
       domain: techradar.com
-    quality: 117
+    quality: 97
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/5egycZyR8KutGdsgWQA3M7-1200-80.jpg"
         width: 1023
         height: 576
+        isCached: true
   - title: "Alibaba Cloud to take on Microsoft Azure and AWS with a $28 billion investment"
     excerpt: "Alibaba Cloud is the leading cloud computing provider in China with 46.4% marketshare. Tencent Cloud and Baidu Cloud are its main rivals. In other countries around the world, AWS and Microsoft Azure dominate the cloud market. Today, Alibaba Cloud announced that it will invest $28 billion in cloud technologies over the next years. Alibaba will ..."
     publishedDateTime: 2020-04-20T10:29:00Z
@@ -48,11 +50,12 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 73
+    quality: 53
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2018/10/Swift-Azure.jpg"
         width: 932
         height: 537
+        isCached: true
 
 secured: "smaG3k1n7H7xfVZFGfqCNGMeVVs5ZSXaJyzsSC4yxERMKe8QscUY+7/IinCNjz4LsvtXnZLnoH6GY5Lc5cfKb/d51YXvfYZrH2po2rqSCUyIU4/8a7TirwAvUqP1misapHKKlgNIbQxwLlP4a8IeoaeL2iRMxOz6nk/h7vjqm1mj5FXRFyUkmKKERQLkK9AXMMLxPYmWOgZotLnRlxjmN0pzlpENibd8odL/tTqK/4CsYBXKkL5ceWSonLqe9oJobt+5G5iYfQ7j6XO8CsFfiI4HqxlcdV78jcUKF3hxg3cqS2ckuvFNFm+bSXDpT3Bu;vi5ZFD5o2A8kvbOUIGTBiQ=="
 ---

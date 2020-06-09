@@ -5,8 +5,8 @@ excerpt: ""
 publishedDateTime: 2020-04-13T16:00:05Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-machine-learning-new-log-streaming-feature/"
 type: article
-quality: 107
-heat: 147
+quality: 97
+heat: 137
 published: true
 
 provider:
@@ -24,6 +24,7 @@ images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/d0ede978-fc61-4ae5-bcd7-dac3ef5c3f9a.jpg"
     width: 752
     height: 379
+    isCached: true
     title: "Azure Machine Learning—New log streaming feature is now available"
 
 related:

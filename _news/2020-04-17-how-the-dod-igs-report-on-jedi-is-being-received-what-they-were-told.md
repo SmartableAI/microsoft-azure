@@ -5,8 +5,8 @@ excerpt: "One of Microsoft's top legal minds has weighed in on what the DOD Insp
 publishedDateTime: 2020-04-17T21:02:00Z
 webUrl: "https://washingtontechnology.com/articles/2020/04/16/jedi-ig-reax-testimony.aspx"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:
@@ -20,6 +20,7 @@ images:
   - url: "https://washingtontechnology.com/~/media/GIG/Washington%20Technology/WTlogo.jpg"
     width: 1200
     height: 630
+    isCached: true
     title: "How the DOD IG's report on JEDI is being received & what they were told"
 
 related:
@@ -31,11 +32,12 @@ related:
     provider:
       name: Washington Technology
       domain: washingtontechnology.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://washingtontechnology.com/~/media/GIG/Washington%20Technology/WTlogo.jpg"
         width: 1200
         height: 630
+        isCached: true
 
 secured: "Ei82xfEZs9d2A9EKdRS4EcpOr7OrTSfDTsQMpMtUIGlcWmP8La3VjeX5Pxclgc+oTeEMv6yhU14dAzqPR7DRZtnsSBtjqJqmaWFWPvbgRff4C4cSW1nZv4kfZgltEclFqvOwVCNcIG1YCNMVmm22JGpqaKmYVYYEVoRr2MZ9p8kVBZHnCWX+Kgavs8etvAnQjj0kD5WSyyWQKLM75LZGnQgEzGEYZNBJi6gEzPB+4ZEfsjSQG28IOPxkfWyqnNrj1FMqUlgUHCGNyQnj+ZJVqIF4GddZTh5kibvflPVsam7CvBLjhsYWVHpjhk4SKJ1Y;YtieaHZXbeOftpmyzq4JCA=="
 ---

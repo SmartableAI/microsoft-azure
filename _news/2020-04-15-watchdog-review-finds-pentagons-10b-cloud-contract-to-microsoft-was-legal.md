@@ -7,7 +7,7 @@ webUrl: "https://www.foxnews.com/politics/watchdog-review-pentagon-microsoft-clo
 ampWebUrl: "https://www.foxnews.com/politics/watchdog-review-pentagon-microsoft-cloud-contract-legal.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/watchdog-review-pentagon-microsoft-cloud-contract-legal.amp"
 type: article
-quality: 100
+quality: 80
 heat: -1
 published: false
 
@@ -26,6 +26,7 @@ images:
   - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d9fd65a-cbde-44cd-8be7-69ca1b916d0b/6161526e-62a1-46df-9a5e-9c833fb50275/1280x720/match/image.jpg"
     width: 1280
     height: 720
+    isCached: true
     title: "Watchdog review finds Pentagon's $10B cloud contract to Microsoft was legal"
 
 related:
@@ -39,11 +40,12 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 101
+    quality: 81
     images:
       - url: "https://zdnet3.cbsistatic.com/hub/i/2020/04/15/2c3ba05e-21fa-47cd-8dab-d91266415adc/jediinspectorgeneralreport.jpg"
         width: 877
         height: 593
+        isCached: true
   - title: "Dow Jones News: Apple Announces iPhone SE; Microsoft's JEDI Win Safe for Now"
     excerpt: "Apple announced its first budget iPhone in four years, and a report from the Department of Defense's watchdog found no evidence that Microsoft's Joint Enterprise Defense Infrastructure (JEDI) cloud win was suspect. It's been four years since Apple announced the original iPhone SE, a budget model with a small form factor. Since the original SE ..."
     publishedDateTime: 2020-04-16T20:40:00Z
@@ -54,11 +56,12 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 99
+    quality: 79
     images:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568272%2Fapple_new-iphone-se-black-camera-and-touch-id_04152020.jpg&w=1200&op=resize"
         width: 1200
         height: 733
+        isCached: true
   - title: "DoD watchdog sanctions JEDI award to Microsoft over Amazon, calls bias claims unfounded"
     excerpt: "The findings represent a victory for the Defense Department and Microsoft. The two are eager to start work on the Joint Enterprise Defense Infrastructure (JEDI) project pending the outcome of a legal challenge. It’s a blow to Amazon, which claims that Trump’s personal animus toward the company and its founder, Jeff Bezos, improperly ..."
     publishedDateTime: 2020-04-15T16:38:00Z
@@ -69,11 +72,12 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 94
+    quality: 74
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2018/04/2196640900_c072470031_z-630x451.jpg"
         width: 630
         height: 451
+        isCached: true
   - title: "DoD clears Microsoft's JEDI contract award, can't \"definitively determine\" that political interference took place"
     excerpt: "The DoD's Inspector General has cleared Microsoft's $10 billion JEDI contract after no evidence of wrongdoing was found. It also noted that awarding the project to a single company as opposed to dividing it among competitors was in line with \"applicable acquisition standards.\" This comes after Amazon disputed the decision alleging that ..."
     publishedDateTime: 2020-04-16T18:53:00Z
@@ -84,11 +88,16 @@ related:
     provider:
       name: TechSpot
       domain: techspot.com
-    quality: 81
+    quality: 61
     images:
       - url: "https://www.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-13-ts3_thumbs-023.jpg"
         width: 800
         height: 560
+        isCached: true
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/04/2020-04-16-image-15.jpg"
+        width: 1680
+        height: 1121
+        isCached: true
   - title: "Pentagon watchdog clears Microsoft’s $10 billion cloud-computing win over Amazon"
     excerpt: "The Defense Department’s watchdog found no evidence that the Pentagon’s controversial decision to award a $10 billion cloud-computing contract to Microsoft was the result of interference from President Donald Trump, though it said its probe was limited by the White House. The 317-page report issued Wednesday by the inspector general also ..."
     publishedDateTime: 2020-04-15T15:52:00Z
@@ -99,11 +108,12 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
-    quality: 57
+    quality: 37
     images:
       - url: "https://static.seattletimes.com/wp-content/uploads/2020/04/04152020_msoft_095020-300x208.jpg"
         width: 299
         height: 208
+        isCached: true
   - title: "Pentagon IG says Microsoft JEDI contract awarded fairly, but review not definitive"
     excerpt: "The report concludes that based on the evidence discovered that the Department of Defense (DoD) personnel who awarded the JEDI cloud contract to Microsoft \"were not pressured about their decision on the award of the contract by any DoD leaders more senior to them, who may have communicated with the White House.\" The report from today is the ..."
     publishedDateTime: 2020-04-15T18:21:00Z
@@ -114,11 +124,12 @@ related:
     provider:
       name: Windows Central
       domain: windowscentral.com
-    quality: 56
+    quality: 36
     images:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2015/09/microsoft-logo-3.jpg?itok=HZnHZqpR"
         width: 800
         height: 600
+        isCached: true
   - title: "US Department of Defense Inspector General finds no issues in Microsoft JEDI cloud contract"
     excerpt: "The US Department of Defense’ Inspector General today published the full report on Microsoft’s JEDI cloud contract. Inspector General found that DoD’s decision to award the contract to Microsoft was consistent with applicable law and acquistion standards. OIG also clearly mentioned that they have evidence that the DoD personnel who ..."
     publishedDateTime: 2020-04-15T15:25:00Z
@@ -129,11 +140,12 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 52
+    quality: 32
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/04/Microsoft-JEDI-DoD.jpg"
         width: 1265
         height: 745
+        isCached: true
   - title: "Microsoft's JEDI win was not down to White House dark force"
     excerpt: "The Defense Department’s watchdog found no evidence that the Pentagon’s controversial decision to award a $10 billion cloud-computing contract to Microsoft was the result of interference from President Donald Trump. The 317-page report issued Wednesday by the inspector general’s office also found that giving the JEDI contract to a single ..."
     publishedDateTime: 2020-04-17T08:31:00Z
@@ -142,11 +154,12 @@ related:
     provider:
       name: Fudzilla
       domain: fudzilla.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.fudzilla.com/media/k2/items/cache/aa91bb4a181a55aa28a611297d048668_L.jpg"
         width: 620
         height: 463
+        isCached: true
   - title: "DoD watchdog clears Microsoft JEDI win, but admits it was blocked from investigating Trump interference claims"
     excerpt: "The Department of Defense Inspector General cleared the military's decision to award a contentious major cloud contract to Microsoft. Competitor Amazon claimed that the JEDI contract, worth as much as $10bn over a decade, was unfairly awarded to Microsoft, due to interference by the President of the United States. The company alleges that Trump ..."
     publishedDateTime: 2020-04-16T14:32:00Z
@@ -155,11 +168,12 @@ related:
     provider:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
-    quality: 12
+    quality: 2
     images:
       - url: "https://media.datacenterdynamics.com/media/images/MicrosoftAzureClippySoldier.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
+        isCached: true
 
 secured: "XT8swqpigXRznMUrrLfk91al0TAr41KkWuYldCiZ1SmX+6oK+7Gw9HfZamulh+yVtc6tRJwZ90kSWoFfElhYXir17cdKBOIJto2rABeAsVqCdV0sDoWmd/viea0/X3fFKMT+bYkcKMfLPg8cUgxvl1LowKWO5MXBB9DQDhToZ/niGGDboFIKknkWha+u25Dqs/DLbVV/f2/1gQ11nzlvH6O3dkd3WvHcsDhCIyRpa3nmh2bEk3Y2htUucGwYeSLc4xgSr+/8sqdPMD1WUgEjupfNpM27B9/liS1MBXK6irV8Xnhrt97MUEKoFMJVz7I+xT5ola6jkSIdNnZmvzbgK7yM3IN86XwB/xc96e8lJ+64nKGCUB59qBHoDOzDHdHpdy8BJvz38sUAAlb8ceWMIQnCkQG7bn6oYzt2qSMZL6B5UGm0KuZFB+50UdPVCcu/T/3lIlQjoVcIIDQuEaTt/j22LcqQKipME7LPSB6mCog=;tX9OzGgJTBZTRLxSqpAvvw=="
 ---

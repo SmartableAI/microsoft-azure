@@ -7,8 +7,8 @@ webUrl: "https://www.nasdaq.com/articles/microsoft-stock-will-gain-from-strong-p
 ampWebUrl: "https://www.nasdaq.com/articles/microsoft-stock-will-gain-from-strong-positive-catalysts-2020-05-28?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-stock-will-gain-from-strong-positive-catalysts-2020-05-28?amp"
 type: article
-quality: 72
-heat: 112
+quality: 62
+heat: 102
 published: true
 
 provider:
@@ -29,7 +29,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 72
+    quality: 62
   - title: "3 Big Reasons to Stick With the Rally in Microsoft Stock"
     excerpt: "Microsoft stock is a winner. Never has that been more clear than today, with it powering to new highs despite the coronavirus pandemic."
     publishedDateTime: 2020-05-22T18:58:00Z
@@ -40,11 +40,12 @@ related:
     provider:
       name: InvestorPlace
       domain: investorplace.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://investorplace.com/wp-content/uploads/2019/10/msft1600e.jpg"
         width: 1600
         height: 900
+        isCached: true
 
 secured: "8okeW3/0E0daCFrmJU/4yNJyCHeBOMeK9V9SNIDp8lbtZSU2hTWI87/e7pqH6q2NFZ48hgI7xuZ9Qcc3k8O8/aj2y7Av4ne+L5S8Cg1HRgVz+xUbDQskHcFQQcSzPIHbGAe+mim3qGsIsrVmSJ8veqD8ZxdF94pBbBoZxMTqR3wjBtMrMu1yB2hD4j52Rug+YCqF8TqymjfFOEqucfVIH5mYrdUfrr2DHHw/4EPZxIVeoIT5OINozD08b56hNtjihI65Jh5Pgxv9lp6wySdPUmlRPDTBdqa5H9yssiY3Es3gcRga6bg4TnRM5RnyKR04Kx+3koCJoUCsltF4YlULqt9SMdgDJiIAhogCjnWO4ttoN/1mYehvsjVV5Mgc7jE1ErleJPqmNrOclmAZ+34kT8PGjvR41Cp0ByaAujsRC3ZcoTLB8dojNeK6IV5Jo7bYT7K3gPnuPVrr3yGdZe8uNLvvwRvZDV2vFlWJkmklV4Y=;yzMuz4/zvjN3KpNQy3SWmg=="
 ---

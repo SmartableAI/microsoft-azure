@@ -5,7 +5,7 @@ excerpt: "As organizations adapt to remote work, the pressure of rapid cloud tra
 publishedDateTime: 2020-05-15T18:34:00Z
 webUrl: "https://www.csoonline.com/article/3543752/securing-the-cloud-forcepoint-integration-with-azure-sentinel.html"
 type: article
-quality: 47
+quality: 37
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ images:
   - url: "https://images.idgesg.net/images/article/2020/05/istock-1156386758-100842178-large.jpg"
     width: 1200
     height: 801
+    isCached: true
     title: "Securing the Cloud: Forcepoint Integration with Azure Sentinel"
 
 related:

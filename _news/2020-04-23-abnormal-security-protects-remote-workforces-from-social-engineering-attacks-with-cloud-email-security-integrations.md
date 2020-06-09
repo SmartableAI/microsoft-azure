@@ -5,8 +5,8 @@ excerpt: "Seamlessly delivered through Abnormal Security’s API-based integrati
 publishedDateTime: 2020-04-23T14:48:00Z
 webUrl: "https://www.darkreading.com/endpoint/abnormal-security-protects-remote-workforces-from-social-engineering-attacks-with-cloud-email-security-integrations/d/d-id/1337630"
 type: article
-quality: 10
-heat: 10
+quality: 0
+heat: 0
 published: false
 
 provider:
@@ -20,6 +20,7 @@ images:
   - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
     width: 600
     height: 600
+    isCached: true
     title: "Abnormal Security Protects Remote Workforces from Social Engineering Attacks with Cloud Email Security Integrations"
 
 secured: "uqdibtO4kKgXDK6eoIqlGpFqt5Fgy/lVMsrsW4LTqCgFz5p/lFIR6ZnXyz1Yq4pj1tJyKUbjK5R8axMSBZNWbLokIf6IGVRouUMfSbWztmCGkVotChvRJyek50kZZDSidEF8BclzU4io/D4YKxZHmw//tyinVg3BIKzkzTXQ5kyzmMLrnVzDBFg4SRg6L9i9c7VLDF+IZox6PDk6/NlekDQ1uUMbc4BqlSVyU4CbBuGjMJtu/v6sYyogxS0YOmStrTE5KOvhQDv5yVz9YsoydxobLHqmtkWEiHVOxEyXVkbZUgFrOqBwVTyQks5pzqPe;JqU6sKcFY6x7XEMnu5lMHA=="

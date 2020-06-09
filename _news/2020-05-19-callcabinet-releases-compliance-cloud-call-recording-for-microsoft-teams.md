@@ -27,11 +27,12 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://zdnet3.cbsistatic.com/hub/i/2020/05/12/184993f6-d771-44c7-97eb-4e437bbb83f5/microsoftocp2020.jpg"
         width: 811
         height: 503
+        isCached: true
   - title: "Microsoft Open Sources Its Coronavirus Threat Data"
     excerpt: "Microsoft's COVID-19 intelligence will be made publicly available to help businesses fight virus-related security threats."
     publishedDateTime: 2020-05-15T19:06:00Z
@@ -40,11 +41,12 @@ related:
     provider:
       name: Dark Reading
       domain: darkreading.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
         width: 600
         height: 600
+        isCached: true
 
 secured: "VsW43hcSMciwrN6qiXfLeueZvMlqKobWV/3E1zEq/jN919pjbonlPO7M/TFTBczzNQbSnrUk84NDGcYecAI0bHdPWCGUCDcwqPZc1sdYIfh9Ni4jlHfz4YyOp3yqhvg9gGCu+NeB1fEAzsI6gQ8t8IbjV8Ov5fMAFqyw7QToZemcetWvLHCBHjI3Bvd9A1lRF/0r9tLWN+le4s8PN+4BC68iuOuH0Vn82xvDYlT/Y0IEctkrGCiAJXR6TWS5Hb7rCtLTSUDCoSpVudcVjus9J34XvkE5Z+yp01Sl5vIZ7Yt3x0e+1iPkb7QEhke5nAZYWiY+U3rqXTLIYd7N5owuYk5wEakm3M/WBXzzX5N12En/tUhkr3KvqbrzSxsgGEQq3Refe7k1+HsA4JlnowG51QXGJGcqDBtSZNTK6s11bJnuzKehRpf80OoJqmSVhz/wl4b+9CdaSG/HmdkGw8S27CID81SYUFokHdOn6LIIdZU=;JWrWC07mw4VMr/5yDap9jw=="
 ---

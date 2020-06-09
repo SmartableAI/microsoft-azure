@@ -5,7 +5,7 @@ excerpt: "Yousef Khalidi, corporate VP for Azure Networking, says the strategy i
 publishedDateTime: 2020-05-04T13:09:00Z
 webUrl: "https://www.datacenterknowledge.com/microsoft/azure-edge-zones-microsoft-s-plan-dominate-edge-computing-and-5g"
 type: article
-quality: 47
+quality: 37
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ images:
   - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/satya%20nadella%20microsoft%20mwc%202019%20barcelona%20getty.jpg"
     width: 1024
     height: 683
+    isCached: true
     title: "Azure Edge Zones: Microsoft’s Plan to Dominate Edge Computing and 5G"
 
 related:
@@ -33,11 +34,12 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 100
+    quality: 80
     images:
       - url: "https://cnet4.cbsistatic.com/img/EPYaz_DlJY7PMJKlvlnwMTSlej0=/756x567/2020/04/28/63f9ebde-a7ac-489b-b5c7-7587c6ab3279/ibm-system-one-quantum-ces-2020.jpg"
         width: 756
         height: 567
+        isCached: true
   - title: "IBM, Amazon and Microsoft race to bring global access to quantum computing"
     excerpt: "Quantum computing services could help companies without billion-dollar computing budgets design superbatteries, create complex chemicals and understand the universe."
     publishedDateTime: 2020-04-29T09:03:00Z
@@ -48,11 +50,12 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 100
+    quality: 80
     images:
       - url: "https://cnet4.cbsistatic.com/img/EPYaz_DlJY7PMJKlvlnwMTSlej0=/756x567/2020/04/28/63f9ebde-a7ac-489b-b5c7-7587c6ab3279/ibm-system-one-quantum-ces-2020.jpg"
         width: 756
         height: 567
+        isCached: true
       - url: "https://cnet2.cbsistatic.com/img/WunrgBOXXPZb0gsP9EJBgF_hlr4=/756x567/2020/04/29/03ad6c96-bd20-45b4-8d4b-f7282eb4a570/martin-ibm-50-qubit-quantum-computer-7486.jpg"
         width: 756
         height: 567
@@ -66,7 +69,7 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
-    quality: 32
+    quality: 22
 
 secured: "cDyhmDkPP0qEibnLnRSdQ3r0vvgi8aS0aLkSfrm4nTVISUC9i9JAoerzFuqPrzT4GktdM7m1YlDCZb/zr4GqfIqeMTIVk5AmH1MGWeQkW1a7igdqnJGbPtj/ZNLTaJ8qZ40x1JUP3aoiTRS+ZREgTSiTooRawPOf/fBZmhDh0teaLn0uagTGm++iWm0OJXMy+Fek3U9ERFORmnEpEtcvf6Z8YrnVXnVUOpxcFREQDBoquWLFFXRRDHGPrdOoXr7qGSKimTq7HzdVX2KoyhrqUtk44X+tGlGUh18vGWRhVibcRb4FA+B7++AgPWxel1edupiQrrJoX89VwddG+7wffl++qLLbAqavXaZZF6+c7SXpOZbs9GrjNwpv/eS0psxdl2husr05dIU/gDGmErwclwJ6o92s5h0jBgBUI0r5KJUtnyrc2URb3CFE28stWjx5N5fwqfrcIL+c0xKbe0qPwQWkhqIN71b+pyvHPRhtxvE=;QJOvMjiD+LfSyayVxxWteA=="
 ---

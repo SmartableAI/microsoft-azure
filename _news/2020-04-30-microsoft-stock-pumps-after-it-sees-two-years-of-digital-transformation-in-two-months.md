@@ -7,7 +7,7 @@ webUrl: "https://thenextweb.com/hardfork/2020/04/30/microsoft-stock-pumps-after-
 ampWebUrl: "https://thenextweb.com/hardfork/2020/04/30/microsoft-stock-pumps-after-it-sees-two-years-of-digital-transformation-in-two-months/amp/"
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/hardfork/2020/04/30/microsoft-stock-pumps-after-it-sees-two-years-of-digital-transformation-in-two-months/amp/"
 type: article
-quality: 95
+quality: 75
 heat: -1
 published: false
 
@@ -26,6 +26,7 @@ images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/12/Microsoft2-796x530.jpg"
     width: 796
     height: 530
+    isCached: true
     title: "Microsoft stock pumps after it sees two years of digital transformation in two months"
 
 related:
@@ -39,11 +40,12 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F569510%2Fmicrosoft-at-westfield-sydney-on-pitt-street-mall.jpg&w=1200&op=resize"
         width: 1200
         height: 857
+        isCached: true
 
 secured: "EAZjvsksS5UJuX06OigfJPgXxRtYZB0DsdwwtcrwOklU/IfcuCuh1ddcbCEjDR+5wutND7olTL1aN+tUrgS/WoDgb8ZaV/PPh+IBxovXjYW4zOKdlqZZVS27ZYB9V2DZUR5XuthePpelH3T9jT8ce03NX6HYlofIN1OUtWQlvkPIi2QxKp552PyDG+/CxkZsiOm2Q2jQvWuHNRmS2Xe/62bYm/OgnydHptgo/ug0CWPs55qzD3n5VDZ1Z0l6sLdn9EGn8CYjlELxMsUGqaAh0nGdJEl9hw1DU23tuVDp8tzK3KKBSrk6MXzu+GAhqbH6LIjn0dPKEcdTbtSl9O58uP5ivML0doCGADOhrDdQYMMgmwKaMRKY23cmlUKCVA24Q0KZX/PXp3iUTiBcx8Nw3FBrXbDKUrPBmUVqAnGOusDsOI8ExJ6MkCHzr5cUaGqMMDYuqp3YStBro0ie03kfBMOKmPOAU3m+OjaW5664lvE=;96sHYCg+IWH4qNjgXn0euA=="
 ---

@@ -7,8 +7,8 @@ webUrl: "https://www.cnet.com/news/microsoft-hololens-2-adds-5g-support-and-is-g
 ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-hololens-2-adds-5g-support-and-is-getting-easier-to-buy/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-hololens-2-adds-5g-support-and-is-getting-easier-to-buy/"
 type: article
-quality: 102
-heat: 122
+quality: 82
+heat: 102
 published: true
 
 provider:
@@ -26,6 +26,7 @@ images:
   - url: "https://cnet1.cbsistatic.com/img/LXu-8fpS1ZGM_hV9mzNKGEu8Vqo=/756x567/2019/02/18/62ea128f-6309-41fe-bc76-dcbfc69b5aca/microsoft-msft-hololens-2-1436-2.jpg"
     width: 756
     height: 567
+    isCached: true
     title: "Microsoft HoloLens 2 adds 5G support and is getting easier to buy"
 
 related:

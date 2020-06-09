@@ -5,7 +5,7 @@ excerpt: "Global Cloud Migration Services Market Industry research report offers
 publishedDateTime: 2020-05-18T10:38:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-cloud-migration-services-market-research-growth-opportunities-by-types-regions-applications-trend-forecast-to-2023-2020-05-18"
 type: article
-quality: 45
+quality: 35
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Global Cloud Migration Services Market Research Growth Opportunities by Types, Regions, Applications, Trend Forecast to 2023"
 
 related:
@@ -37,11 +38,12 @@ related:
     provider:
       name: TechSpot
       domain: techspot.com
-    quality: 94
+    quality: 74
     images:
       - url: "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-12-image-17.jpg"
         width: 2700
         height: 2051
+        isCached: true
   - title: "New Workplace Realities Highlight Opportunity For Cloud-Based Apps And Devices"
     excerpt: "One of the numerous interesting outcomes of our new work realities is that many tech-related ideas introduced over the past few years are getting a fresh look."
     publishedDateTime: 2020-05-14T12:46:00Z

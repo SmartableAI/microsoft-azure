@@ -7,9 +7,9 @@ webUrl: "https://www.thestreet.com/investing/oracle-gets-cloud-infrastructure-de
 ampWebUrl: "https://www.thestreet.com/.amp/investing/oracle-gets-cloud-infrastructure-deal-with-zoom-video"
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/oracle-gets-cloud-infrastructure-deal-with-zoom-video"
 type: article
-quality: 62
-heat: 102
-published: true
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: TheStreet.com
@@ -22,6 +22,7 @@ images:
   - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTY4NjQ3NDk5MDMzNjE4MDU1/oracles-cloud-guru-on-how-cloud-services-will-transform-companies-and-oracle-itself.jpg"
     width: 620
     height: 349
+    isCached: true
     title: "Oracle Views Clear Benefits From Cloud Deal With Zoom"
 
 related:
@@ -33,11 +34,12 @@ related:
     provider:
       name: CRN
       domain: crn.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.crn.com/resources/025c-0f47f2913a57-ac4f75105e9d-1000/oracle-hq-front.jpg"
         width: 610
         height: 458
+        isCached: true
   - title: "Oracle wins surprise cloud deal with Zoom to help host its platform"
     excerpt: "The collaboration is the result of a surprise cloud deal unveiled today under which Zoom has shifted some of its videoconferencing infrastructure to Oracle Cloud. The value of the contract is not being disclosed,"
     publishedDateTime: 2020-04-28T18:47:00Z
@@ -46,11 +48,12 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/oracle.png"
         width: 718
         height: 400
+        isCached: true
 
 secured: "AmeUFIS0VfHJ0ap7oC+N1HTFRBVnFhgD1uL2AC05J/WiF5O+C9bfNq008Nh9xdHGmXFjES427+16sRz7de+c6p6Mh6GFN6iyVT4JKKLlR7253Aoyv3HUENFR0gEqMBLUk6Cp+Rq+78/lYRoWv97V3IlRBx77eyOpWS8aVAGRutAoyj0XlbAu1rJ8KGzvmyXl3C0xevKcoexxEtdKagippuwnBsDFM22cBMqSw6OPH8X99/Nqv2np8Fmv2zmIwM2e/2Juued37mNS3+EPf+1LLypv/aM2eyVFTPHdPU72R2HqoSnKb/2PYJbn28SAmZJU;2fuYnZQMWpKrKEq4XLF+sQ=="
 ---

@@ -5,8 +5,8 @@ excerpt: "Whether you're a new student, thriving startup, or the largest enterpr
 publishedDateTime: 2020-04-30T11:00:08Z
 webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-april-2020/"
 type: article
-quality: 111
-heat: 131
+quality: 101
+heat: 121
 published: true
 
 provider:
@@ -26,6 +26,7 @@ images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/099b92eb-591a-4ea0-b7b4-78f34f6e8f57.png"
     width: 1506
     height: 872
+    isCached: true
     title: "Azure Cost Management + Billing updates – April 2020"
 
 related:
@@ -37,11 +38,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 107
+    quality: 97
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/be59ad04-9d29-4851-89f0-285e7d1aea26.png"
         width: 1367
         height: 678
+        isCached: true
 
 secured: "y3VI/GdsOAJ9C0gxG1dIuEitr3K+ShpAZMkTcU58lqF1j15CXThrjpt+9OEEGKmlg8QCoXAzwNBLoDngGDu9wTP04R9Pu5DhzpOpJ9NUILXENahX5rlp9VYZB/i3RBO5yflXCgIBCXsPnyomMR6o5IeSG69a4kcKhtYDQS9HCu8rgN4g5WSludZ3Rk+YKsnXbTuHA/oH47qfh3PF+FpmfKtvznxCEVvOzB3380I5V199AiuBApi4w5/8a4ae+Aub0zIxuLQgK9BSP6En4RKLRNjhBlWkyVAyMvv1eslbZSLzHxePtGnZvVI6RbMhBLs/NksDAAczh3pBFC7zEBpOtQ==;4ulNXuia43Mtcl0tVOh7Bg=="
 ---

@@ -5,8 +5,8 @@ excerpt: "MarketResearchNest Announced that it's published an Exclusive Report o
 publishedDateTime: 2020-06-02T07:24:00Z
 webUrl: "https://www.marketwatch.com/press-release/the-impact-of-covid-19-on-cloud-gaming-market-latest-research-report-2020-to-2025-2020-06-02"
 type: article
-quality: 67
-heat: 127
+quality: 57
+heat: 117
 published: true
 
 provider:
@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "The Impact of COVID-19 on Cloud Gaming Market Latest Research Report 2020 to 2025"
 
 related:
@@ -35,11 +36,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Impact Analysis of COVID-19 on Cloud Storage Market Analysis 2020-2028 by Emerging Trends, Technology, Future Growth, Revenue, Demand Forecast"
     excerpt: "The growing online activities such as e-mail, enterprise resource planning, digital images, Salesforce automation,"
     publishedDateTime: 2020-06-02T20:26:00Z
@@ -48,11 +50,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
+    quality: 26
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Cloud Manufacturing Market 2020: Company Profiles, COVID - 19 Analysis, Industry Segments, Landscape, Global Trends and Demand by Forecast to 2023"
     excerpt: "Cloud Manufacturing MarketOverview: Cloud manufacturing is the process of utilizing cloud to source relevant data"
     publishedDateTime: 2020-05-27T07:56:00Z
@@ -61,11 +64,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 34
+    quality: 24
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
 
 secured: "JxIjViVGNuy12wMC71JbYw65nb+/UNgeV5JJgrDklVa546yRgrqXo+jJzRjv0TAhUjQdF+HtTLlB5lg9GdyzfWfgD0yp/DVh8Hbkb46I4zRejpp06QqJfNshoAw6brrOnLyxJ/hExBSIw+nk1yLC8NAgE0xFDOHb4YLmvo+ypqAngec9vL/iZVALc4o92IfcNNJ3/I7LSdBkOWQdm3cW0RmqOVUwuDy/AE+1iAAtcaGkUvecC5U0RE+dBtw9kX3uyxt4KmaqpxE26aT8BET7a/xV8XLzvLXFiS0EbcnIEie5qZAGI5o3bJbGrKM3Q4iu;8ND8QoKRJCIkeGKXDr5IhA=="
 ---

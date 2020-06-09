@@ -5,7 +5,7 @@ excerpt: "GitHub collaborated with the team from Microsoft Visual Studio Code, a
 publishedDateTime: 2020-05-06T16:34:00Z
 webUrl: "https://www.businessinsider.com/microsoft-github-launches-discussions-codespaces-security-features-2020-5"
 type: article
-quality: 37
+quality: 27
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ images:
   - url: "https://i.insider.com/5ce5de645234d2176d06f876?width=1200&format=jpeg"
     width: 1200
     height: 600
+    isCached: true
     title: "Microsoft-owned GitHub just launched new features to help its over 50 million developers collaborate on, secure, and write code in the cloud"
 
 related:
@@ -37,11 +38,12 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/03/660bb6e9-3d0d-4d1d-aaf1-2ed92febe618/thumbnail/1200x675/bb2ba3d4b429e7461f5a07f045166d0e/wvdmsixappattach.jpg"
         width: 1200
         height: 675
+        isCached: true
   - title: "Microsoft and Redis Labs collaborate to give developers new Azure Cache for Redis capabilities"
     excerpt: "Now more than ever, enterprises must deliver their applications with speed and robustness that matches the high expectations of their customers. The ability to provide sub-millisecond response times, reliably support the demands of enterprises from small to large, and scale seamlessly to handle millions"
     publishedDateTime: 2020-05-12T06:00:09Z

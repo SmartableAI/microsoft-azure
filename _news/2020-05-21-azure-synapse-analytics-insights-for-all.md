@@ -5,7 +5,7 @@ excerpt: "In November we announced Azure Synapse Analytics—a limitless analyti
 publishedDateTime: 2020-05-21T08:30:41Z
 webUrl: "https://azure.microsoft.com/blog/azure-synapse-analytics-insights-for-all/"
 type: article
-quality: 107
+quality: 97
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/19cd7b32-501a-4032-8fa8-ed2bd9a28d03.gif"
     width: 1600
     height: 900
+    isCached: true
     title: "Azure Synapse Analytics: Insights for all"
 
 related:
@@ -35,11 +36,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 107
+    quality: 97
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/0adb1254-ac39-4dcf-8405-8a453b2ff566.png"
         width: 1024
         height: 576
+        isCached: true
   - title: "Microsoft Azure Synapse Link brings operational database services and analytics together in real-time"
     excerpt: "To solve this issue, Microsoft is today announcing Azure Synapse Link which brings operational database services and analytics together in real-time with a single click. Using this, customers can get insights from their real-time transactional data stored in their operational databases with a single click,"
     publishedDateTime: 2020-05-19T15:01:00Z
@@ -50,11 +52,12 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2019/11/Microsoft-Azure-Synapse-Analytics.jpg"
         width: 1134
         height: 737
+        isCached: true
 
 secured: "Iv79OxkFejEkEBckj7wXNfneFMW5eL7mO9w0jzfnpE2BAqWD2qoNlYSecN3wV3jV2Fi+im1w1sff7rjh4d4NQbsdQC4LnTqLgH5ru03RZfLVmBBSJRHOGTaQmeO+VRvvveut0WtXWPXJXCMbqex4YeNZo1iwbHc+4JCzp5AmY2+7AGfRuTVtxi/hspf3aAwI15KO/UzWgf7t3nQDevE/WvHTdJlfSdwW8JzJ5xODuSkVJodupfkeg8xSJzyH0SjTYWKZmbUWIxwG9lTfb6SfUbX1v8P5BRXfopnLIE3PRnxUHkkyEn5C9NS326BsLdpTANic7b/CJ2O3DIkwbzviyw==;hLg3Ovqzt3etDbPn0P9XCg=="
 ---

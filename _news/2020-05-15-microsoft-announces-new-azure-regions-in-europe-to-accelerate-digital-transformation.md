@@ -5,7 +5,7 @@ excerpt: "And at the same provide a high level of security, data residency, and 
 publishedDateTime: 2020-05-15T13:13:00Z
 webUrl: "https://www.petri.com/microsoft-announces-new-azure-regions-in-europe-to-accelerate-digital-transformation"
 type: article
-quality: 40
+quality: 30
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ images:
   - url: "https://www.petri.com/wp-content/uploads/sites/3/2016/08/Microsoft-Azure-cloud-hero.png"
     width: 1280
     height: 720
+    isCached: true
     title: "Microsoft Announces New Azure Regions in Europe to Accelerate Digital Transformation"
 
 related:
@@ -31,11 +32,12 @@ related:
     provider:
       name: SD Times
       domain: sdtimes.com
-    quality: 55
+    quality: 45
     images:
       - url: "https://sdtimes.com/images/sd-premium.png"
         width: 628
         height: 246
+        isCached: true
   - title: "Open Systems augments its cybersecurity capabilities with acquisition of leading Microsoft Azure Sentinel expert"
     excerpt: "Its \"SWAT team\" of architects, engineers and developers enables enterprise customers to securely achieve their cloud automation, strategy and migration goals with the Microsoft Azure cloud platform."
     publishedDateTime: 2020-05-20T22:11:00Z
@@ -44,11 +46,12 @@ related:
     provider:
       name: Light Reading
       domain: lightreading.com
-    quality: 26
+    quality: 16
     images:
       - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
         width: 600
         height: 600
+        isCached: true
   - title: "Matillion Launches Matillion ETL for Azure Synapse Empowering Users with Data Transformation Capabilities for Rapid Access to Insights"
     excerpt: "Matillion, a leading provider of data transformation software for cloud data warehouses (CDWs), today announced the availability of Matillion ETL for"
     publishedDateTime: 2020-05-12T15:21:00Z
@@ -57,11 +60,12 @@ related:
     provider:
       name: WFMZ-TV
       domain: wfmz.com
-    quality: 15
+    quality: 5
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
         width: 1280
         height: 720
+        isCached: true
 
 secured: "5tebYumG+ftOvNqbCLaFq2wLxVbN8e+82H5syqPfCS+NsHBGgGrP4fnAKQhgEc/zwxxB9unUPYBain3VOYrPDvo/94Hv2QzNbR9DfxvxV+N6TSEcEmP7OCrFrhHd352xMQiVOaOLyCIBdUj0ZMAH6+0HbRj+SAVeNJ3QGSTfoE1Vc5RzcQRo9lEiwMw0t7Xoe5CL4k9PUEqQ7Ho3gn/4zhzzflI5syhY49PF3ZCEZAJQg+9LXr7ZpaDyxlKsF5eds2xEAwfbrQCiMP+TeP7oMGyG7P3mf3O20o9JgTVxErA+lxbNj6zotJ7gH4zuRGwGOj9+1cnjKxZfCsIr0WRVWTkXnbnXCnH/tdZejH0ys3z+jNsppJY233n7x+T0jK5NVdeC1BLvm041YUg5G4bsWy4yp7QMjp7gOK85wdL7OShotx7Bn4OrzFA9RHcksk5tI4S87rbZaioCPK1+2cLhy1giJr/gsHEQzrytMajtrZY=;/VQ5YKfH9wKLMeEu475RPA=="
 ---

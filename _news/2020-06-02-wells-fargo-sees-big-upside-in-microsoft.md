@@ -25,11 +25,12 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 58
+    quality: 48
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106238217-1573507738879gettyimages-1173107668.jpeg?v=1576761575"
         width: 3000
         height: 2000
+        isCached: true
 
 secured: "KyaHjk9ZKhPvcYA7ZEtdIj3FLUZtXYAptca+97OxahjMGV0Yx+vaALdhuChBrCyTDtAjjv+lJst2tO0AcwxNxil4W2vzy4vIFEJI9reeVN3kLaD2JnpeSjeF9jFW2Tojof/DiNF6N+aFWOBI96/sf8JVOEd/A6rcDIE3fsZOSp35iXtLC2DrjDFEAvyYMY+9Na7+DqBCd7PVNISLFFwV+DwB7v2CyFiE8QxkoWK/rQY9vz6QTZtMWRMU4qcJ28v3n6mqbo9Ew9C+oWXqnWl40J6Ji3JOdiXWqlYuBMkSasNz+TuRznfouj9i08BCpSE5;TxXK49gmgpDLPELcz0muSA=="
 ---

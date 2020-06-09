@@ -5,7 +5,7 @@ excerpt: "ClearSale, an international fraud protection organization, announced i
 publishedDateTime: 2020-05-11T00:03:00Z
 webUrl: "https://www.helpnetsecurity.com/2020/05/11/clearsale-microsoft-azure/"
 type: article
-quality: 42
+quality: 32
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ images:
   - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
     width: 304
     height: 430
+    isCached: true
     title: "ClearSale chooses Microsoft Azure to support and protect e-commerce transactions"
 
 related:
@@ -31,11 +32,12 @@ related:
     provider:
       name: SmartData Collective
       domain: smartdatacollective.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://www.smartdatacollective.com/wp-content/uploads/2017/09/Ecommerce-data.jpg"
         width: 1000
         height: 682
+        isCached: true
   - title: "Delta Electronics offers smart building solutions using Microsoft Azure"
     excerpt: "Power supply maker and energy management solution provider Delta Electronics has used its IoT technology in combination with Microsoft Azure hybrid cloud computing services to develop two smart building solutions,"
     publishedDateTime: 2020-05-20T07:43:00Z
@@ -44,11 +46,12 @@ related:
     provider:
       name: Digi Times
       domain: digitimes.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://www.digitimes.com/newsshow/20200520PD201_files/2_b.jpg"
         width: 640
         height: 427
+        isCached: true
   - title: "Capgemini’s SAP S/4HANA-Based Solutions for the Oil and Gas Industry Now Optimized for Microsoft Azure"
     excerpt: "Capgemini announced today that its EnergyPath and READYUpstream solutions for the oil and gas industry are now optimized for Microsoft Azure. The clou"
     publishedDateTime: 2020-05-12T16:28:00Z
@@ -57,11 +60,12 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 31
+    quality: 21
     images:
       - url: "https://mms.businesswire.com/media/20200512005049/en/770646/23/capgemini_logo.jpg"
         width: 1200
         height: 627
+        isCached: true
 
 secured: "EPhkh9KI96mtdaH7c1KzwA/gcZW3aFh7/RGbulRbd1UeLSSlv7x8OpDdMLR5Uon3k2VPoIjLXifSpJb2goOlBA9nOLHXkr2hG+S9b3R5OqoIG2o6P9EAShQX8ZCVUhoFpPc+Qk4u3XeGE2m8in72ZD5UQQc5x+jONMBKCI115M6UnLu1E00s1FY+SPmkNuwh0gnDpmOaukf+yo4bhSeWXNzrVHVLMczTQ8BwbhV0Ek7RN7p0JsC8FsgsYpnWfo1F4iVXlRokKh9enO0JcdK/VHdrmtvSjO9jRC54fLkU9EAUm6f4Ven1CLULbxRhmcA0;AZ7kB4Qx5pUHQM3g+ICWMQ=="
 ---

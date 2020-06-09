@@ -5,8 +5,8 @@ excerpt: "Cloud computing has opened new paradigms for enterprises to reach high
 publishedDateTime: 2019-11-06T06:30:18Z
 webUrl: "https://azure.microsoft.com/blog/serverless-for-the-enterprise-with-microsoft-azure/"
 type: article
-quality: 109
-heat: 129
+quality: 99
+heat: 119
 published: true
 
 provider:
@@ -25,6 +25,7 @@ images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/77b8d4b9-ee3e-47f1-aed3-55a42d4385af.jpg"
     width: 1430
     height: 557
+    isCached: true
     title: "Serverless for the enterprise with Microsoft Azure"
 
 related:

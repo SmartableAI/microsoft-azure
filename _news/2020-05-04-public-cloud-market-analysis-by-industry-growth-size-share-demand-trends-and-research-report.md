@@ -5,7 +5,7 @@ excerpt: "The report covers the forecast and analysis of the Public Cloud Market
 publishedDateTime: 2020-05-04T15:14:00Z
 webUrl: "https://www.marketwatch.com/press-release/public-cloud-market-analysis-by-industry-growth-size-share-demand-trends-and-research-report-2020-05-04"
 type: article
-quality: 59
+quality: 49
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Public Cloud Market Analysis By Industry Growth, Size, Share, Demand, Trends and Research Report"
 
 related:
@@ -35,11 +36,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 66
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Cloud High-Performance Computing Market industry Size, Market Share, Leading Players and Forecast 2018-2023"
     excerpt: "Global Cloud High Performance Computing Market: Component (Hardware, Software), Service (Professional, Managed),"
     publishedDateTime: 2020-05-04T01:22:00Z
@@ -48,11 +50,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Cloud Migration Services Market is estimated to reach USD 8 billion by forecast period of 2023, Influence of COVID-19"
     excerpt: "The cloud migration services is basically a movement of infrastructure, data, business processes, and applications to the cloud. The increasing demand for cloud services among IT"
     publishedDateTime: 2020-05-04T00:42:00Z
@@ -61,11 +64,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Cloud Telephony Service Market Overview, Industry Top Manufactures, Market Size, Industry Growth Analysis & Forecast: 2024"
     excerpt: "The research report of “Cloud Telephony Service Market” study report covers all main geographical regions and sub-regions in the world and focusses on product sales, cost, and Cloud Telephony Service market size and growth opportunities in these regions."
     publishedDateTime: 2020-05-04T07:48:00Z
@@ -74,11 +78,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Public Cloud Market Growth Analysis By Revenue, Size, Share, Scenario on Latest Trends & Types, Applications to 2025 Forecast"
     excerpt: "Kenneth Research has published a detailed report on Public Cloud Market which has been categorized by market size,"
     publishedDateTime: 2020-05-25T12:52:00Z
@@ -87,11 +92,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
 
 secured: "v4BQdkJabqogq/IbMK0LbbQ6piLtTNLDz051ciMhMf+gfyai7wo65I0F3BB8v81qMKKE9KLlS/vzxKyLOj1/j2IJZUWT8SQ9TmmXz+RwVAkJ1JbAieD9Iyx/Cyxn3qz4+yUBFjSN1lTqI12QhIklnKWP5yX6BLzSxNJtg8x7k4iae78sViIww6rRlgU/LAMbRwGxlIy3oPXzJ4a1BGzvOLfP6eD+mFQibY3SUiFvyBhVeR3Pqr6DUNs1FqopCB7rExMH0i8jKLO/lSGpihrapGigu8hKpjVZ8gb/FL+BpstlDXG70i0on3Q9db/XKlek;vbIBzAObqi01CEk9806UoA=="
 ---

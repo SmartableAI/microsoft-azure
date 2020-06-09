@@ -5,7 +5,7 @@ excerpt: "Zoom selects Oracle Cloud Infrastructure as its cloud provider to help
 publishedDateTime: 2020-04-28T15:21:00Z
 webUrl: "https://www.crn.com/news/cloud/oracles-bests-cloud-rivals-to-win-blockbuster-zoom-deal"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ images:
   - url: "https://www.crn.com/resources/025c-0f47f2913a57-ac4f75105e9d-1000/oracle-hq-front.jpg"
     width: 610
     height: 458
+    isCached: true
     title: "Oracle Bests Cloud Rivals To Win Blockbuster Zoom Deal"
 
 related:
@@ -33,11 +34,12 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTY4NjQ3NDk5MDMzNjE4MDU1/oracles-cloud-guru-on-how-cloud-services-will-transform-companies-and-oracle-itself.jpg"
         width: 620
         height: 349
+        isCached: true
   - title: "Oracle wins surprise cloud deal with Zoom to help host its platform"
     excerpt: "The collaboration is the result of a surprise cloud deal unveiled today under which Zoom has shifted some of its videoconferencing infrastructure to Oracle Cloud. The value of the contract is not being disclosed,"
     publishedDateTime: 2020-04-28T18:47:00Z
@@ -46,11 +48,12 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/oracle.png"
         width: 718
         height: 400
+        isCached: true
 
 secured: "EC/Yyu5MK4p39YvtlgjmXQVpSu3avS5fSL3yrh2e+aJf6RcW1nrR4o3yOPPHYwULzBRXIkJg1r4/POoU7wv1v8qpul2+BVpbnCbIeVAy8DodG/HEXnipP0w3bw96ij55RfIageVp1LgMDNOjCUB9Vad4BL3KI4cwnlCGeZWAcPkj/UX6DY1YRUBR1upVRGtBtRDu/W5kByEHvnWm52DCI9NuoA9sGiMyxCbbY+HlGRd3oOpWIRlGJYhqZn2elVytwg9s4tZX8WwzfNrC0KYKp9c3GHpU3j7RL/01GgGByxuFdpxaK91aFrH6qpGYhI3K;dwXSQd1XSSVijzjSTCTcJA=="
 ---

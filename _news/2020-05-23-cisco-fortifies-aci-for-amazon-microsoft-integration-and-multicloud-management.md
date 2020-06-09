@@ -7,7 +7,7 @@ webUrl: "https://www.networkworld.com/article/3545396/cisco-fortifies-aci-for-am
 ampWebUrl: "https://www.networkworld.com/article/3545396/cisco-fortifies-aci-for-amazon-microsoft-integration-and-multicloud-management.amp.html"
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3545396/cisco-fortifies-aci-for-amazon-microsoft-integration-and-multicloud-management.amp.html"
 type: article
-quality: 58
+quality: 38
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ images:
   - url: "https://images.techhive.com/images/article/2014/12/abstract_rack_of_servers-100538194-large.jpg"
     width: 1200
     height: 797
+    isCached: true
     title: "Cisco fortifies ACI for Amazon, Microsoft integration and multicloud management"
 
 related:

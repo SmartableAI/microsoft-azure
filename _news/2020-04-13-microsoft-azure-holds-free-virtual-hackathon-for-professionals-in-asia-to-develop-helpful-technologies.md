@@ -7,7 +7,7 @@ webUrl: "https://www.gmanetwork.com/news/scitech/technology/733783/microsoft-azu
 ampWebUrl: "https://www.gmanetwork.com/news/scitech/technology/733783/microsoft-azure-holds-free-virtual-hackathon-for-professionals-in-asia-to-develop-helpful-technologies/story/?amp"
 cdnAmpWebUrl: "https://www-gmanetwork-com.cdn.ampproject.org/c/s/www.gmanetwork.com/news/scitech/technology/733783/microsoft-azure-holds-free-virtual-hackathon-for-professionals-in-asia-to-develop-helpful-technologies/story/?amp"
 type: article
-quality: 30
+quality: 20
 heat: -1
 published: false
 
@@ -27,11 +27,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "eBaoCloud InsureMO is Now Available in the Microsoft Azure Marketplace"
     excerpt: "SHANGHAI, May 20, 2020 /PRNewswire/ -- eBaoTech Corporation today announced the availability of eBaoCloud ® InsureMO ® in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. eBaoTech's customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined ..."
     publishedDateTime: 2020-05-20T15:30:00Z
@@ -40,11 +41,12 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+        isCached: true
 
 secured: "GcJ5r7NwgARz01hSx3Z8vNt5A740SEFAnT+dsy/Xiy06eeuClC33nkGeOTxDkVBtXuNhWbpnPhIOuUkV3HgTQQGLMZ3jNLDJdIgSc+Xzz09112UycSXP6boyh8MHGltSGMw7idWK9YeTNoUTDh2PunlsQaEfKEbWFjtxXZ7pNOLF/d5HYujbhjsXKOCyaxVNf57Miyf3G+36s4oWasAPvDEIlA9FBwTIOKUi74kIjzUb6Jm3G7BiT3pnVjWQabKLBIX0hZS2XZg5wQvTovSreD1cJB+rOTfDKt9+RZCI/YoNl64YT4OAEkdm+eaYzOmg;kiXLNPS8WFAifM99MqvCYg=="
 ---

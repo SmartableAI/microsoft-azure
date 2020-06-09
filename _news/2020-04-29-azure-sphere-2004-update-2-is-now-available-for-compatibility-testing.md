@@ -29,11 +29,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 109
+    quality: 99
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a69c6248-11fa-477b-81e0-17d56596895a.jpg"
         width: 1024
         height: 489
+        isCached: true
   - title: "Azure Migrate is now available in Azure Government"
     excerpt: ""
     publishedDateTime: 2020-04-18T00:00:02Z
@@ -124,32 +125,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "IPification Secure Mobile Authentication Now Available to Microsoft Azure Active Directory B2C Customers"
-    excerpt: "Benefit Vantage Limited, developer of the IPification seamless authentication solution, is proud to announce that we will enable global service providers"
-    publishedDateTime: 2020-04-28T14:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ipification-secure-mobile-authentication-now-available-to-microsoft-azure-active-directory-b2c-customers-2020-04-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Cyber Infrastructure's 7-Week Azure Data Integration & Migration Soln. Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Cyber Infrastructure's implementation service SAN JOSE, CA,"
-    publishedDateTime: 2020-04-30T07:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cyber-infrastructures-7-week-azure-data-integration-migration-soln-now-available-in-the-microsoft-azure-marketplace-2020-04-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Managed identity support in AKS is now available"
     excerpt: ""
     publishedDateTime: 2020-04-28T16:30:50Z
@@ -159,6 +134,34 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 62
+  - title: "IPification Secure Mobile Authentication Now Available to Microsoft Azure Active Directory B2C Customers"
+    excerpt: "Benefit Vantage Limited, developer of the IPification seamless authentication solution, is proud to announce that we will enable global service providers"
+    publishedDateTime: 2020-04-28T14:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ipification-secure-mobile-authentication-now-available-to-microsoft-azure-active-directory-b2c-customers-2020-04-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cyber Infrastructure's 7-Week Azure Data Integration & Migration Soln. Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Cyber Infrastructure's implementation service SAN JOSE, CA,"
+    publishedDateTime: 2020-04-30T07:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cyber-infrastructures-7-week-azure-data-integration-migration-soln-now-available-in-the-microsoft-azure-marketplace-2020-04-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kyvos BI Acceleration Platform is Now Available on Azure Marketplace"
     excerpt: "Kyvos Insights, a cloud and big data analytics company, today announced the availability of their cloud-native BI acceleration platform,"
     publishedDateTime: 2020-04-28T13:00:00Z
@@ -167,11 +170,12 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://mma.prnewswire.com/media/1026738/Kyvos_Logo.jpg?p=facebook"
         width: 993
         height: 522
+        isCached: true
   - title: "ThroughPut Inc.'s ELITE Now Available in the Microsoft Azure Marketplace"
     excerpt: "ThroughPut Inc. today announced the availability of ELITE in the Microsoft Azure Marketplace, an online store providing applications"
     publishedDateTime: 2020-04-28T20:30:00Z
@@ -180,11 +184,12 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 46
+    quality: 36
     images:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+        isCached: true
   - title: "CognitiveScale's Cortex Certifai Now Available in the Microsoft Azure Marketplace"
     excerpt: "AUSTIN, Texas, April 27, 2020 /PRNewswire/ -- CognitiveScale, the Trusted AI Company, today announced the availability of Cortex Certifai (Certifai) in the Microsoft Azure Marketplace, an online ..."
     publishedDateTime: 2020-04-27T12:01:00Z
@@ -193,11 +198,12 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 42
+    quality: 32
     images:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+        isCached: true
 
 secured: "DSS3gjudFzdyAU8vTYyhEk68iau8maXYFuqt3+/m511023yQ1+UxUs/2iepbmvPK7UXHHZEhZlRvgj63FwfuO3Df4BL//PWv4RZ6qH97BmgPd22yl0z9nQ1SA5SLx7yiDMyjeY+3lRnSDdAK9/67UHZfpgjSib/GAJBE3lNw2jvi11rHlxfoVg/kCjKopGBpuQ/dmqKe0RlBIimKT8v9Ozrskm7q6Mw4ST9c78v3HV9ZgyYljhQo+NWOrSslqPpLWotxxJhMdT6aFExm7qLPHzRPVxujBGqKAK3lMYwvmdFcmZHPoh9MUkaT1r9ATtkveEUKAQ2+l8xzm48z7HJJ9A==;57ovbwAFg+XA5kWxGANGXQ=="
 ---

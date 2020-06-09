@@ -7,7 +7,7 @@ webUrl: "https://mspoweruser.com/microsoft-wins-no-bid-mod-contract-for-17-75-mi
 ampWebUrl: "https://mspoweruser.com/microsoft-wins-no-bid-mod-contract-for-17-75-million-for-cloud-support-services/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-wins-no-bid-mod-contract-for-17-75-million-for-cloud-support-services/amp/"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ images:
   - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Microsoft-UK.jpg"
     width: 1000
     height: 750
+    isCached: true
     title: "Microsoft wins no-bid MOD contract for £17.75 million for cloud support services"
 
 related:
@@ -35,11 +36,12 @@ related:
     provider:
       name: The Register
       domain: theregister.co.uk
-    quality: 60
+    quality: 40
     images:
       - url: "https://regmedia.co.uk/2015/05/20/raf_chinook.jpg"
         width: 648
         height: 429
+        isCached: true
 
 secured: "YvPrPlBSBSyUjg1LVHt9NnrEnHghq+QGDnhTR+f3z6iqJNJTUQOXSk/FWZ7ztDeUvWOfcWjXr9bzUOODV3cqP30yOKMEnWwUVbTvhce6y9sIFJySqqMgXdkn6CAfUWreXnRkHp61FvWk8HwHjpMn/m4WkaJxhBOSqa1IPPIQX4P7R8KCBIfZygE95Ri3gV0oIMaYTRdGGjoBPR4JT4LryYKsMblPLJnFJcDC2qwG7pt0RhqnDBkyq2UCWT1y/s/igH6jHH8xfXAfnYZIzeDnsp3QfAEogdS+eBEPoH9PrSCUbIcQSn/AMhcHHoKPgxOGu4cMhcN7ULOGeKN0NwI0jhoglLLFcaApIJkJeGcVHcij8jauYhVkScFwJaF5w4MVFDbxP1hYYsvr0FXae98izkALOJ4xVj1mfSPUYY3zVGP51dKzdtgqBzLeQDGLWhTgKIO+0fdsTJiKhVuGqJAdkzz5XQRG6nCn/9rP6b4mGsY=;hDZhieeN+xXdj8KwqLcfxQ=="
 ---

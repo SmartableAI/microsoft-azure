@@ -5,8 +5,8 @@ excerpt: "Upbound, the company behind open source projects Rook and Crossplane, 
 publishedDateTime: 2020-05-29T00:12:00Z
 webUrl: "https://www.helpnetsecurity.com/2020/05/29/upbound-alibaba-cloud-microsoft-crossplane/"
 type: article
-quality: 22
-heat: 22
+quality: 12
+heat: 12
 published: false
 
 provider:
@@ -20,6 +20,7 @@ images:
   - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
     width: 304
     height: 430
+    isCached: true
     title: "Microsoft and Alibaba Cloud join Crossplane project implementing the Open Application Model"
 
 related:

@@ -5,8 +5,8 @@ excerpt: "(GLOBE NEWSWIRE via COMTEX) -- ISG Provider Lens(TM) report also finds
 publishedDateTime: 2020-05-07T08:00:00Z
 webUrl: "https://www.marketwatch.com/press-release/german-companies-turn-to-service-providers-to-manage-microsoft-product-suite-2020-05-07"
 type: article
-quality: 69
-heat: 89
+quality: 59
+heat: 79
 published: true
 
 provider:
@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "German Companies Turn to Service Providers to Manage Microsoft Product Suite"
 
 related:
@@ -37,11 +38,12 @@ related:
     provider:
       name: The Financial Express
       domain: financialexpress.com
-    quality: 61
+    quality: 41
     images:
       - url: "https://images.financialexpress.com/2020/05/telecom.jpg"
         width: 660
         height: 440
+        isCached: true
 
 secured: "S2rPl7agwoWVt7DTIPrDHo8N0HLINtmG95VnfIMw44lUJy73k8tcjpWpgLDqntphPzWohopxusR9MH1gm3HRLRR0Fj+OdRs/yDan3ddySm6Z1i0D76PA0nBJ8RXwI/sx0cRtevcc76tbBm4GbMrFqsxemc0q0yT3iAGpOM4RQ1eVkRkFNuZYbyZgBsjYb/xiF8Q+Eh9YEp9Nnhn3BxRR/fmKYt76ckXZSwLKwcvL2xANV2pz6TEbBFb3RPfvkUn/DTEW/BEmHChlWTVqJu/vHiwTQmIEK2wD/WaHmvKIdQaCV7mjVtCjW9ACBkIA+M8Q;wJ6oCX57LkACJy7hxrDJXQ=="
 ---

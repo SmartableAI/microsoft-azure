@@ -5,8 +5,8 @@ excerpt: ""
 publishedDateTime: 2020-05-07T01:00:16Z
 webUrl: "https://azure.microsoft.com/en-us/updates/select-multiple-resources-in-azure-monitor-log-analytics/"
 type: article
-quality: 107
-heat: 167
+quality: 97
+heat: 157
 published: true
 
 provider:
@@ -24,6 +24,7 @@ images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/3fbf642e-2fbe-4517-a4d6-032c7847f314.png"
     width: 698
     height: 634
+    isCached: true
     title: "Select multiple resources in Azure Monitor Logs"
 
 related:
@@ -35,11 +36,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 92
+    quality: 82
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/d01f41c4-e3d3-46fa-9000-2a22ea740c5a.gif"
         width: 1912
         height: 1080
+        isCached: true
   - title: "Azure Monitor Logs Agent for Linux May 2020 release now available"
     excerpt: ""
     publishedDateTime: 2020-05-12T21:00:24Z

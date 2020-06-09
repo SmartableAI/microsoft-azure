@@ -5,7 +5,7 @@ excerpt: "MADISON, WI (May 21, 2020) – RateLinx announced today the completion
 publishedDateTime: 2020-05-21T23:34:00Z
 webUrl: "https://www.dcvelocity.com/articles/46116-ratelinx-completes-migration-to-microsoft-azure-to-better-serve-customers"
 type: article
-quality: 46
+quality: 36
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ images:
   - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/0bef1a3f-3524-4a47-91e5-78466728c9a3.png?height=635&t=1590129628&width=1200"
     width: 600
     height: 201
+    isCached: true
     title: "RateLinx completes migration to Microsoft Azure to better serve customers"
 
 related:

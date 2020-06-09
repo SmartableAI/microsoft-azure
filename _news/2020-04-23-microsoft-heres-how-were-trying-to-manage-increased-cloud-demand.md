@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/microsoft-heres-how-were-trying-to-manage
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-heres-how-were-trying-to-manage-increased-cloud-demand/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-heres-how-were-trying-to-manage-increased-cloud-demand/"
 type: article
-quality: 102
-heat: 202
+quality: 82
+heat: 182
 published: true
 
 provider:
@@ -26,6 +26,12 @@ images:
   - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/03/30/1bee94a9-8bac-46fe-8ffe-5880854d1040/thumbnail/1200x675/0515dcdb3553b8b42f6fd98c04417369/20200330-daphne-karen-crashing.png"
     width: 1200
     height: 675
+    isCached: true
+    title: "Microsoft: Here's how we're trying to manage increased cloud demand"
+  - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/04/27/357591cc-30e1-4a7b-a061-402d91546b99/thumbnail/1200x675/7f25cdc9b4995f98b0353f18ff24c66e/microsoft-heres-how-were-trying-to-manag-5ea3181b1c719e452658f536-1-apr-27-2020-14-51-24-poster.jpg"
+    width: 1200
+    height: 675
+    isCached: true
     title: "Microsoft: Here's how we're trying to manage increased cloud demand"
 
 related:
@@ -39,11 +45,12 @@ related:
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 101
+    quality: 81
     images:
       - url: "https://images.wsj.net/im-181683/social"
         width: 1280
         height: 640
+        isCached: true
   - title: "How to manage the increase in cloud demand? This is Microsoft's plan"
     excerpt: "Microsoft officials say they've been taking some behind-the-scenes steps to try to head off current and future cloud capacity issues."
     publishedDateTime: 2020-04-28T11:19:00Z
@@ -52,11 +59,12 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 72
+    quality: 62
     images:
       - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/27/357591cc-30e1-4a7b-a061-402d91546b99/thumbnail/770x578/372d2152febad4993f210ec409c97378/microsoft-heres-how-were-trying-to-manag-5ea3181b1c719e452658f536-1-apr-27-2020-14-51-24-poster.jpg"
         width: 770
         height: 578
+        isCached: true
   - title: "How Microsoft is handling cloud capacity constraints"
     excerpt: "Driven by a surge in remote work from the coronavirus pandemic, Microsoft's service demand skyrocketed and availability waffled."
     publishedDateTime: 2020-04-27T14:35:00Z
@@ -65,11 +73,12 @@ related:
     provider:
       name: CIO Dive
       domain: ciodive.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.ciodive.com/user_media/cache/b7/4f/b74f97d2a980cbeea55d91705cc30d62.jpg"
         width: 770
         height: 364
+        isCached: true
   - title: "Microsoft's cloud business helps offset pandemic woes"
     excerpt: "Ongoing demand for Microsoft's cloud computing services help softened the blow of the coronavirus pandemic on the software giant's other products during the first three months of the year. The company on Wednesday reported fiscal third-quarter profit of $10."
     publishedDateTime: 2020-04-29T21:23:00Z
@@ -89,6 +98,6 @@ related:
       domain: sfgate.com
     quality: 2
 
-secured: "n1cuA2YPKWXkNRVHeKiVRjfbN/ZruK4zBtcP1FgmUC100PGEO72IwH5XuyLeI9poOwSclW2X0V5iewzhbP8Lc8lxgBGu50BCPBOgtunnkYDPx8kMMRQNJG/rGP4yths+SM3Fsn03ar649RGvps+j3HrdrDgmhUAP0eoaXpj5Wv5cOYvgmS1wtEaRbmNhQdjqqyrhwXPIv0VI/D8aPfyOtXNQJILkGTMc1ueUJpePSUo2/RjFE//bAZ1QjnqtEnMjjO+y1egy2ky4YO0XWUmEx96VVSSopwvDOCoFmmqnIC1IamEan49LkeSl8+acXs/DHzH6dY1ubyazSt2gClEUgfHciTkfwVLsD82CER1f0Oa1M7hD1YfUuN75W8wC7hryJLlzEf2oy4Ld157q9xLSYjc6mFUm99Xw+MmxwabsV3CU0CeLjwOrMN/TXIvKskARLKJG6F4LVdeHcBjc71UnJMreydBrGzwp/3Ii/fynrEY=;6O82aP+8hI94B/a3biMrPA=="
+secured: "rVANuyz1EQvYRcAG7G8D70Iv7Mmvzls0w+GbNeTIgRUJtcIcOg2/VejYQl+a21eONmO9SwbPErENIRHNgNHN4JzZVbBx16dJh3SRL3MWtCxG+V0jt0Ff+b6GZrWJ1q8d5UeWKGVnSgPyMOJ1fMFBy57WMO+yJ137I6zQcwfDqqKvLjG1gkTDUBTO3UYj+qvVM2Vqy/ls6SHUVAIZ0FfhPLbcz6LOSao0wpqQbCM2Bm4sRPRwEHlp5PsCsqA6o03iOEjXlXzkyQWz9GLSslIlj6fLH1cUuzTkiDsPUVJt9Za3IDfZBHTZm7NVo2K/JbY9;mnloklHE28jCSisdHZQGPg=="
 ---
 

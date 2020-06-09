@@ -5,8 +5,8 @@ excerpt: "Over a million on-premises SQL Server databases have moved to Azure, r
 publishedDateTime: 2019-12-02T14:00:00Z
 webUrl: "https://azure.microsoft.com/blog/faster-and-cheaper-sql-on-azure-continues-to-outshine-aws/"
 type: article
-quality: 109
-heat: 109
+quality: 99
+heat: 99
 published: true
 
 provider:
@@ -25,6 +25,7 @@ images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a35dce0f-b730-4313-b0ce-57698def7c55.png"
     width: 1024
     height: 367
+    isCached: true
     title: "Faster and cheaper: SQL on Azure continues to outshine AWS"
 
 secured: "VToXtu+DEJUMWAvpbPVeKy++ZAou/5z17yqTgxpVB42MU+JsOkXwSNE3oqru+7zT9dQAJbktneZbMsLKzkOYPfcfx/FRB08AMnSXH5iAdBS1LlfL1e+IrxYEeGH0t4lJW42q2db1Yi47bUT2tccWq2lAyrohCKmHNuP61PBXAD2mQo8raWfO0F62XP1IVnBmfJGOidfYU3PlvJgNnZFMSGCb69YMBmqrYi5x4nVxP3d0NoqGuYdbfPLT9XrTObFw1rx832PEus5WQkNUDOL/3QudTIDR2/AMITybxSx7yAj3jfj+R2pqUTHBshDk9JhiMrzpO7lfEXBgPTFAFkb8XQ==;SunTmbrL16BCFYUgqj8phA=="

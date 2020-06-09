@@ -7,8 +7,8 @@ webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-introduces-bac
 ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-introduces-back2business-solution-boxes-for-smbs-in-india/article31563949.ece/amp/"
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-introduces-back2business-solution-boxes-for-smbs-in-india/article31563949.ece/amp/"
 type: article
-quality: 62
-heat: 62
+quality: 42
+heat: 42
 published: false
 
 provider:
@@ -22,6 +22,7 @@ images:
   - url: "https://www.thehindubusinessline.com/static/theme/default/base/img/og-image.jpg"
     width: 300
     height: 300
+    isCached: true
     title: "Microsoft introduces Back2Business solution boxes for SMBs in India"
 
 secured: "XhF3NTxorAJ1LwLnVbo96cngSkVKXd/6A9Gnk7KXtfj29kXGPDLyUs5bKzr2qmp9yhzO7KCmVtY5yaK9DlvjlH0DLJLM6qlXchJ86MHTS1V9cAyHePAVEmzozMttriOFNN3IHGF1Q6QJBDQF3mvFdhRgzWRHH09ZPlwh5oY4+tdECwb9F1lyfTCdN4nRhD8CYeeeBq9jnV2YjshQnzR6yEp2vsL1DvLhdqhksISCNaABwpk55UaGhYnshSi/nYjbAn6Q4E2AlApeOhTC165z1qmt1ggCYNDgQtx86r5QHR2mitD6ubG823nkxBiwhKz7;FVYFF7ZZdztya/pGi3Lahg=="

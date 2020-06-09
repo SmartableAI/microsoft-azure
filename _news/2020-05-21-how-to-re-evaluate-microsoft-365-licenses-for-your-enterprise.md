@@ -5,8 +5,8 @@ excerpt: "We offer five steps to take for evaluating an organization's M365 lice
 publishedDateTime: 2020-05-21T01:37:00Z
 webUrl: "https://www.eweek.com/enterprise-apps/how-to-reevaluate-microsoft-365-licenses-for-your-enterprise"
 type: article
-quality: 72
-heat: 92
+quality: 62
+heat: 82
 published: true
 
 provider:
@@ -24,6 +24,7 @@ images:
   - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2020/05/Microsoft365logo.jpg?alias=social_image"
     width: 560
     height: 300
+    isCached: true
     title: "How to Re-evaluate Microsoft 365 Licenses for Your Enterprise"
 
 related:

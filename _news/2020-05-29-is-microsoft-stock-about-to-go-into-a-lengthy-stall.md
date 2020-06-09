@@ -7,9 +7,9 @@ webUrl: "https://investorplace.com/2020/05/is-microsoft-stock-about-to-go-into-a
 ampWebUrl: "https://investorplace.com/2020/05/is-microsoft-stock-about-to-go-into-a-lengthy-stall/amp/"
 cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/05/is-microsoft-stock-about-to-go-into-a-lengthy-stall/amp/"
 type: article
-quality: 62
-heat: 82
-published: true
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: InvestorPlace
@@ -22,6 +22,7 @@ images:
   - url: "https://investorplace.com/wp-content/uploads/2019/10/msft1600f.jpg"
     width: 1600
     height: 900
+    isCached: true
     title: "Is Microsoft Stock About to Go Into a Lengthy Stall?"
 
 related:
@@ -33,11 +34,12 @@ related:
     provider:
       name: Investopedia
       domain: investopedia.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.investopedia.com/thmb/Q1A1btEXveIZ9LtcaLDDQP-LJ08=/680x440/filters:fill(auto,1)/microsoft_windows_istock_000025623287-80aa1528091f4cdb908f66e2440a2589.jpg"
         width: 680
         height: 440
+        isCached: true
 
 secured: "EFbaLzBKBSAwVQiqb0jhfNAUmXl2CLcuM7OYLOi88uE4pFXdYGS+xhxfTCGEHsD9Q0AAphhU1s9TpeE8mylVXCr01cNZ/91V/VYw4qUOeTZZkN0l0gXPThInbNhnql/ox1mLj/0srB9XsMV0cZ618/Xlw/0WhU9u4IyfCmfGdCn5u9R+Cl4Wv+rwLLeh5IiOtEK39ye93wwwp/T9vxO//ZkDxcHSyGkel9rJNDxZHnnobU1Tsnu8JbsgWzBR8TUHqhfFN6Tc4BMYwu4X3yjOC2Hg5XfaDTDMS9bvBVuygLpsugjqReL8u2lKUOTaLRRkxKDZM1GVBSbBiqs24XgK1QcMHgMeu4LApvBcEQBizrLSN2b1V/5TABBGRQDnk92pQdAoUgKN6JFN+2eyjqvF1F+4XHD8JJXX7AhvrRvjwVt7oskvM7vbY4nwHq619ZPuY9X+sVS1uY1lapcr8jpBkJV9ixomH31GmHs2HuKX+Ss=;yQs7RVYMW88g8ck0qcA9Bw=="
 ---

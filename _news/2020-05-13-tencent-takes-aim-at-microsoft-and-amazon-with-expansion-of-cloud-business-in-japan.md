@@ -5,7 +5,7 @@ excerpt: "A division of Chinese internet services giant Tencent Holdings Ltd. wi
 publishedDateTime: 2020-05-13T04:03:00Z
 webUrl: "https://www.japantimes.co.jp/news/2020/05/13/business/corporate-business/tencent-cloud-computing/"
 type: article
-quality: 26
+quality: 16
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ images:
   - url: "https://cdn.japantimes.2xx.jp/wp-content/uploads/2020/05/np_file_11661.jpeg"
     width: 594
     height: 396
+    isCached: true
     title: "Tencent takes aim at Microsoft and Amazon with expansion of cloud business in Japan"
 
 related:
@@ -33,11 +34,12 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://www.benzinga.com/files/images/story/2012/building-1011876_1920_1_4.jpg"
         width: 1920
         height: 1440
+        isCached: true
   - title: "Microsoft’s cloud business helps offset pandemic woes"
     excerpt: "Ongoing demand for Microsoft’s cloud computing services help softened the blow of the coronavirus pandemic on the software giant’s other products during the first three months of the"
     publishedDateTime: 2020-05-11T17:53:00Z
@@ -48,11 +50,12 @@ related:
     provider:
       name: WRIC
       domain: wric.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://www.wric.com/wp-content/uploads/sites/74/2020/04/2a643fc1b1fb4a6ca0c2ce8d387c3860.jpg?w=1280&h=720&crop=1"
         width: 1280
         height: 720
+        isCached: true
   - title: "Report: Microsoft acquiring Microvision, a leader in ultra-miniature projection display"
     excerpt: "MicroVision is a leader in ultra-miniature sensing and projection solution based on the laser beam scanning methodology. MicroVision has a substantial portfolio of patents relating to laser beam scanning projection and sensing."
     publishedDateTime: 2020-05-12T03:58:00Z
@@ -63,11 +66,12 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 54
+    quality: 34
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Microsoft-Microvision.jpg"
         width: 962
         height: 538
+        isCached: true
 
 secured: "lVjrT/33+ekYLZP2663734yCE0wwtSGtf6IFH8cYOB+DnashyuESKNXJwNCPLk11JpZJMzjDnbvHzQs/tQItJUNrVUGyz+9NgixsYUPzjCbSE3KpalCKfduZ2GpejFCev3dMRTI1dRUEtKTP3O+u5gEfUqvSi/5HlhcbeVZy55q51+NAQpBJ0mh8IECpeJbeD36YW7X3HgiMAtwcg86WXrcCj6F7a0eIwzBj8Z44gQf/ZUgjMZV76+7J0Pyx0moIQugBjZRH+eKC3exJKXss4k97uzniY4wBQlVYNDRHJdPf+3wW8qgXEJCHEkyC+ELIsDi2lSWcMGC9ScpH97Gid18oXRk1Ne3EWXPgXQpnh9MMc2QcpdSEhnfTmG2RXMiNyCfdcSi1OR5DMyuAloBqNkh9aUheaVxxonmVl42vdI89MD1kwpyyDgYzKUjcUeGOMpjlezxR+g0TohXlMfmhpRAZYYERhqVrt1jDo1y19IA=;eNcSLZc/gJrXdDu5/hJhQg=="
 ---

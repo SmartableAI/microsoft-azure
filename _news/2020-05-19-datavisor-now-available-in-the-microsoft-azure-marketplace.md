@@ -25,11 +25,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 103
+    quality: 93
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8a5121d3-a63b-43d7-9fd0-2296e66f85f9.jpg"
         width: 585
         height: 383
+        isCached: true
   - title: "Azure Media Services is now available in Switzerland and Germany"
     excerpt: ""
     publishedDateTime: 2020-05-20T16:00:28Z
@@ -47,11 +48,12 @@ related:
     provider:
       name: PR
       domain: pr.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://img.pr.com/release/2005/470793/pressrelease_original_470793_1589990219.png"
         width: 1280
         height: 720
+        isCached: true
 
 secured: "8RK76LJIqRe9jigniHebHGHFKKMXOu8KB/njFYyNLSGT82VqZOTo77/Bd5AAxrosoEjpEG6QFIdsDLSZmOb6S/5WPbL0v6v5DtgLwC8RgjmlwO+qQIH7BOzJING+3wfQevaBOz4nilP7a3IklK8Qo6FJH5X9iAXf8fuLYg8tNwIVTAIt9PJphxYWMzfnfZySdfWl7H7poB59cqb2CrUnAs/WKebM+n9yvy0HHye9bTxRQmNCo4SJBRQpXOcnwknnztNLDbDX6NG+Zg3NccFLnSkDi+hTastprzQ+XoDQtpCXHXRJQCl27XEpS49IZCTu;sEQMLXg2hPA8Tu8WJSfxsg=="
 ---

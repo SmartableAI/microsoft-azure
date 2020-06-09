@@ -34,11 +34,12 @@ related:
     provider:
       name: DC Velocity
       domain: dcvelocity.com
-    quality: 46
+    quality: 36
     images:
       - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/0bef1a3f-3524-4a47-91e5-78466728c9a3.png?height=635&t=1590129628&width=1200"
         width: 600
         height: 201
+        isCached: true
   - title: "FedEx, Microsoft to collaborate on commerce"
     excerpt: "Fedex (NYSE:FDX) and Microsoft (NASDAQ:MSFT) sign new multiyear collaboration, bringing MSFT's intelligent cloud to the logistics network.Shares of FDX are up 4% premarket, MSFT is up 1.5%.FedEx Surro"
     publishedDateTime: 2020-05-18T13:19:00Z

@@ -31,11 +31,12 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 67
+    quality: 47
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Microsoft-Docker.jpg"
         width: 1813
         height: 1195
+        isCached: true
 
 secured: "7t2zREhshmSx0XSXdSW8IBAOeMexyTkXYgRAk19jzMqAlzVNEBfw1FvlnTIEdd/5PE4kKQ9GXh5kiZR8AvOhc4Qy/iIrUhKoHxMbpD+XkNYEsOXDR86+wnsC0O6nZtlJ+qrR41shm3/XiT6gGE9OcNuWD2Ypo5WxX1u7b6ioe0gBWChgdqxIuR3U4Kq1Ekdz3N906mA9RVSeNpk7KE3zMdQKS2TfKZT4b+ybmyezXnn5GX7ZfPKUZ9m6JzP2q6r8JgxAqfKnydd5AZzYPkVv+bLFlvUAyUJ+1EOO9nD1OlICwNkryKKeajQbaNKibKkj5cyimUqnlAxykUaoLwDjHw==;BksSFNxY4Soaq2Wbd1Iv5w=="
 ---

@@ -29,11 +29,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 94
+    quality: 84
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/b83238b4-dba1-4651-8eac-217459a4b753.png"
         width: 1024
         height: 471
+        isCached: true
   - title: "Filesystem SDKs for Azure Data Lake Storage Gen2 now generally available"
     excerpt: "Since the general availability of Azure Data Lake Storage (ADLS) Gen2 in Feb 2019, customers have been getting insights for their big data analytics workloads at cloud scale. Integration to analytics engines is critical for their analytics workloads, and equally important is the ability to programmatically"
     publishedDateTime: 2020-03-19T09:00:12Z

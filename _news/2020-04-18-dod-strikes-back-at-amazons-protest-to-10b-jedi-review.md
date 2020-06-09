@@ -7,8 +7,8 @@ webUrl: "https://www.law360.com/articles/1264878/dod-strikes-back-at-amazon-s-pr
 ampWebUrl: "https://www.law360.com/amp/articles/1264878"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1264878"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:

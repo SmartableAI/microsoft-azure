@@ -5,7 +5,7 @@ excerpt: "Fortanix® Inc., a Runtime Encryption® company, today announced the a
 publishedDateTime: 2020-04-30T12:17:00Z
 webUrl: "https://www.businesswire.com/news/home/20200430005281/en/Fortanix-Data-Security-Platform-Microsoft-Azure-Enhance"
 type: article
-quality: 23
+quality: 13
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ images:
   - url: "https://mms.businesswire.com/media/20200430005281/en/788603/23/Useprimary-landscape_logo.jpg"
     width: 1200
     height: 627
+    isCached: true
     title: "Fortanix Data Security Platform Now Available on Microsoft Azure to Enhance Private Data Protection in the Public Cloud"
 
 related:
@@ -40,11 +41,12 @@ related:
     provider:
       name: Help Net Security
       domain: helpnetsecurity.com
-    quality: 44
+    quality: 34
     images:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
         width: 304
         height: 430
+        isCached: true
   - title: "Pitching unified cloud backup, Clumio extends its platform to Microsoft 365"
     excerpt: "Clumio Inc., fresh off one of the biggest Series C funding rounds for an early-stage enterprise software startup, today added Microsoft 365 support to its backup platform. Santa Clara, California-based Clumio exited stealth last August with a cloud-based backup platform that allows companies to create contingency copies of their data."
     publishedDateTime: 2020-04-29T18:48:00Z
@@ -53,11 +55,12 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 30
+    quality: 20
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/Poojan-Kumar-Clumio.png"
         width: 1094
         height: 616
+        isCached: true
 
 secured: "JpPRwneBZxa1V356wlQKliGQB+AQg15k3R01fNFYBrK1mL8okBcLfa8/yjlt9QVAWqj+2GojujX0+nvzNg8wizvRB8KRC4dxFFBGuX7FjlhzDCiQgTSvyQ+acWgxlpAc09rvjLbE+scKVsMZeCx/fXApRm1NKoEOY2hSHMzQLm+XIP8jWzrrooumyWdYnyc9P/iwT+5yk23sE4SdPx1/EtficgfuFfYc2NggZ86ty0Vrk8rFXFUF1MRmtKjTajUXRmivB+SMOnEZPv0Kk2rdQSt287B2sVV3LgrpYLWTGncmiqACt5WMPjUbEluJ7CiEWDD71eOJwt5Euxr5ArxS7txs86fk7JCuYE1F2sHVQiATX9gI9v6lHgJoiul4JdL4GAQuIPnZMd0SZIoX/OIQLmmhctHNTfK+XVkSaibvQ2KlVs2FygJcFAe+5JthnXn6D7/fgUZ693mexHKzrng9LvFChvNY//VWtSlP7uPqj+w=;GOOIxbcSdtiylun5SMaPzQ=="
 ---

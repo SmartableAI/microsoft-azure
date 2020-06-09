@@ -7,8 +7,8 @@ webUrl: "https://www.theverge.com/2020/5/20/21264363/microsoft-build-2020-top-ne
 ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/20/21264363/microsoft-build-2020-top-news-annoucements-fluid-office-windows-reunion-edge"
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/20/21264363/microsoft-build-2020-top-news-annoucements-fluid-office-windows-reunion-edge"
 type: article
-quality: 102
-heat: 182
+quality: 82
+heat: 162
 published: true
 
 provider:
@@ -26,6 +26,7 @@ images:
   - url: "https://cdn.vox-cdn.com/thumbor/DLpMOz4jmOEGQJb21UUFtRfAEro=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66819966/twarren_180507_2536_0001.5.jpg"
     width: 1400
     height: 933
+    isCached: true
     title: "The biggest announcements from Microsoft Build 2020"
 
 related:
@@ -39,11 +40,12 @@ related:
     provider:
       name: Neowin
       domain: neowin.net
-    quality: 100
+    quality: 80
     images:
       - url: "https://cdn.neow.in/news/images/uploaded/2020/05/1590330181_msw-20200524_story.jpg"
         width: 760
         height: 428
+        isCached: true
   - title: "Microsoft Build brings announcements for cloud data, analytics services, and intersection of the two"
     excerpt: "A series of announcements around Synapse Analytics, Cosmos DB, Azure Database and SQL Edge make this year's Microsoft Build conference a virtual event revealing actual advances and concrete integrations."
     publishedDateTime: 2020-05-19T15:00:00Z
@@ -54,11 +56,12 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 87
+    quality: 67
     images:
       - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/05/13/bf550a82-e9e8-4511-bee9-983426e8fc52/thumbnail/1200x675/aaf99352c82c362f4feba84192e7819c/2555435eba4cad133864-58121622-nvidia-accelerates-apache-spark.jpg"
         width: 1200
         height: 675
+        isCached: true
   - title: "Microsoft Build 2020: Everything announced and then some"
     excerpt: "Microsoft Build 2020 kicked off Tuesday with a digital event that featured multiple sessions as well as a host of announcements aimed at developers. Simply put, Microsoft Build ha"
     publishedDateTime: 2020-05-19T17:44:00Z
@@ -69,7 +72,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 72
+    quality: 62
   - title: "Microsoft teases Edge for Linux at Build 2020"
     excerpt: "Edge is already available on iOS, Android, Mac, Windows 10 and Windows 7, and we have known since December 2019 that Microsoft is working on Edge for Linux also, after Microsoft confirmed the development at Ignite 2019."
     publishedDateTime: 2020-05-20T00:19:00Z
@@ -80,11 +83,12 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2019/11/Microsoft-Edge-logos.jpg"
         width: 811
         height: 401
+        isCached: true
 
 secured: "aApjqfY84klgPlX1XBZJYHkesfOXoCaLh4+UlKNT5OoYOJSoabiyaZPiEw4Jrat3JEvOnqOrVGUjRwD/WQm9fRKoVnE6JvBNEoKi14vUUllIH/FD3ViVYUO88ZHlrqCVodOFkrS42wab0Qs7g8yOccFA1OAqlF0wPza7XO6aCKlL6irwhfyhSkfLV9pbUxxAYdVPkr6eezGpP5oIPBTdjjFi1gr/hTuSkbFaP7paIisXVR0de8+GqH5yqbw+xs0ZNbuqgk0mej2sjRiogmQEJw9HndhJuriQubttsQnFifb9x2JyMHkwrVWjCN4T+7xv;FLAD+Z6/DB0Lf1bXya3jpw=="
 ---

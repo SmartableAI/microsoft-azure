@@ -5,8 +5,8 @@ excerpt: "Learn about how to use the migration tool to programmatically create A
 publishedDateTime: 2020-04-27T21:28:00Z
 webUrl: "https://docs.microsoft.com/en-us/mem/configmgr/core/support/azure-migration-tool"
 type: article
-quality: 47
-heat: 47
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -24,6 +24,7 @@ images:
   - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
     width: 400
     height: 400
+    isCached: true
     title: "Extend and migrate on-premises site to Microsoft Azure"
 
 secured: "2KK12qYZJtMV1eWUZps1IN9i/r0uOGupqlJqtQx/7EEI7iD9GZyi4wbZHxnhNPvOLqbyEuOPGXzRWNqo5TcIfJEYR0+7RbQxN1QLSl13L9yyEnl5sxl3o1tMMSROOmexYdtghsxdAXZc7aE2pcsKwCGO15JfKOCQqWFfHCQ4xXCgcCmxWk6fXIUE2pe/nbgVhj+QNYqAFYNIWr3PyZyuWmsKuYG20xkk88jIOsKi/2cJXQUNKXAHM8dVQ38xUO2bgS+/J1Izfmlfeyv+YoK5V/4HkGsQReHp+UocuOWMDZaVJAMQODb5/ZMz05AovZHE;KuMNLvJTywkFOUM+19QJ5g=="

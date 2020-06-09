@@ -7,9 +7,9 @@ webUrl: "https://www.bizjournals.com/washington/news/2020/04/17/court-orders-por
 ampWebUrl: "https://www.bizjournals.com/washington/news/2020/04/17/court-orders-portion-of-jedi-contract-remanded.amp.html"
 cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/washington/news/2020/04/17/court-orders-portion-of-jedi-contract-remanded.amp.html"
 type: article
-quality: 62
-heat: 102
-published: true
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: The Business Journals
@@ -22,6 +22,7 @@ images:
   - url: "https://media.bizj.us/view/img/10988802/rtrlnine110024*600xx4350-2900-100-0.jpg"
     width: 600
     height: 400
+    isCached: true
     title: "Court orders portion of $10B JEDI contract remanded"
 
 related:
@@ -35,7 +36,7 @@ related:
     provider:
       name: Law360
       domain: law360.com
-    quality: 32
+    quality: 22
   - title: "JEDI gets partial re-evaluation, court says"
     excerpt: "A federal judge is giving the Defense Department until Aug. 17 to accept proposal revisions addressing storage pricing, effectively extending a nearly three-year-long drama over the potential $10 billion enterprise cloud contract."
     publishedDateTime: 2020-04-22T23:52:00Z
@@ -44,11 +45,12 @@ related:
     provider:
       name: Defense Systems
       domain: defensesystems.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://defensesystems.com/-/media/GIG/EDIT_SHARED/Cloud/pentagoncloud_0.jpg"
         width: 760
         height: 368
+        isCached: true
 
 secured: "/zmVR066xEJkSpn0Av6zr7GwkZMXkvlhZNiJKjUPRijq9C9nFLdgA92TMUwpc2WMjWgkZdAS5hag5qiFPapDGTTWpLdGpeuIwhhyWQ5BTjcNTKb/gHYTh4Vykj1ipnP7OlKVllgcCjpeiUoTCfJ6mMYO/0CAacI6Dsv/3l9O9qQRpp+lBts2QgUGK+UURwBDQ3K6AQp3lbSN5lHjkPR+Q8h5rfvxZ7tyMPoAuHGLnFiBn3Hc2RUSNmAfDn5NpHqcQnEzL7fx8h9Pa4Y4BZJ4DVhYghwqslBYQ4aFyvPf8v2DkvWujr5I9MZXUagH6cyDDeC/aAG+49lnRnkPn4M4oev3CBFiKFB5FyyaPbi31HltHz2FUU+RSUu7rzr8ytoLWHRK1PySbt156wlON2JpC/mwEaVl4hTYcFB/4p1cgbBe//eoC2n67TymRP/nayiwwRwxPuWhIYTrMHmHKth6NjrQTHjRYDxvqwlEvWnKz4Q=;wIL/YdNk9Y8Eeu5UVwdTmw=="
 ---

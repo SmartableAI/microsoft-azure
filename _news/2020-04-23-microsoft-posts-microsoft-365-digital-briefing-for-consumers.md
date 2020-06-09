@@ -5,8 +5,8 @@ excerpt: "Before Microsoft announced that it was rebranding Office 365 for consu
 publishedDateTime: 2020-04-23T13:38:00Z
 webUrl: "https://www.thurrott.com/cloud/microsoft-365/235189/microsoft-posts-microsoft-365-digital-briefing-for-consumers"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:
@@ -20,8 +20,14 @@ images:
   - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/04/yusuf.jpg"
     width: 1066
     height: 600
+    isCached: true
+    title: "Microsoft Posts Microsoft 365 Digital Briefing for Consumers"
+  - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/03/teams.jpg"
+    width: 1280
+    height: 720
+    isCached: true
     title: "Microsoft Posts Microsoft 365 Digital Briefing for Consumers"
 
-secured: "kMUYm1xOzqwyGRaROHiMaSY/HQfOyrFUmn0fHzMuCGk1kX2PIbXKzP1Y43mXaOfpEu98Gaah9jSXGmQAQcJcVB+JtKxdZR9vPl888kBXWmQQdMf7ui82+2oQvFOYHzxWqdSMkFHu7fzcswNhcNmzdycPW9Tpjk38wr++bQDAo154Fnonf8PzphOZPLlzX36NehxGHnWNM+9nGu3VkN9MyA2GMPcTkFQJngVF8kDsclVmr5Iyp+2smT3LpENG30++htpIur5VYDbs+lDVvyfzG/Z2/3S8/qdcjV+S+uwlZF9xJXGc47E5WaF7+rOOP9HnIrizPvM8b0+Axh4gVPICcLE7WBrQPz0p0MPRdK5NLfKA9t5s3LR9TZxY8C7o5V3Rra8/UbwHhEOPvJWT/mxmrLlDMWhrpq0dwl/gZduHlL1TE3lo0qI985ObS52w2uJDFnv5SHaIORl9CEk3M/QnGSs2p5wQO4B8XxeYiLgwNj8=;YUXChOb5PBzzak5vS1gwCA=="
+secured: "KLFbRVsoXMGVFknlw5qH9mDf6sXD2oeTc+KUR939rQa3KQsSpwMw/r2E2F4DyU3PV+zxS4Teg7AbHG6DMexcEFeD0nS5ndpRWp6NbQ5u0bKf8P8HD+as8tof60X3PvUF+4iVV8qfGVPT953jU/fDQTgf8ORcAlgk/G+i7hT6R3LlnslI+hRWrnpOs/bLLZt2IfiqupIEV3ar6t+tHf49uQ6FXSC0YdYt79DmswxmE3sB/jG65vcrY5WbKojQVXEOhHBRJSa5EFRq0ZOhFXoWYHpriaD8vmju8Bfhs0Erw7iWKEk8w70D9sMiBZK3K3ku;Jw8g4sNj0N7FGUN2IBb+uw=="
 ---
 

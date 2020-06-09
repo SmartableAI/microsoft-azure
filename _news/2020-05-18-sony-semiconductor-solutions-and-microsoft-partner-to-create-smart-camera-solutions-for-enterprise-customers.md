@@ -29,11 +29,12 @@ related:
     provider:
       name: eWeek
       domain: eweek.com
-    quality: 72
+    quality: 62
     images:
       - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2020/05/Microsoft365logo.jpg?alias=social_image"
         width: 560
         height: 300
+        isCached: true
 
 secured: "eJ2yzf+o8WvJSinWJRwiwoQYRvXJn9+4+St7dZ7L/PY+hdDT6HQ5b15rD5w4PofkkaCnvpVtSDXbSLncUIxIwP9kxGEitF58kJgYhJHxGE4LO3/tgjbSWkQkmvaFoZRQOsfB2QcNYYyyauWHxIoYWZE7ZQxf232xTt005mCl2e2pxlrbAr6fxm3P/EqzJ+/8ixGBIkZ4n6i3bfDENmn9hLafaXF4atOdKIx2bjjEjWVQ1+7jumqeUy5jr1lvZ10gFYYx20ruhqy40guywcQNC/Bh031bQziWBD3Huf+cL/Z25tTnjKATp+OutgzNh/CZ;PEftiYIaOHzAbDygfT2WTQ=="
 ---

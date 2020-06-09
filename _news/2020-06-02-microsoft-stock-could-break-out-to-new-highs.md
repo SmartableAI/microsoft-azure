@@ -5,7 +5,7 @@ excerpt: "Microsoft stock is trading just below the February all-time high and c
 publishedDateTime: 2020-06-02T13:50:00Z
 webUrl: "https://www.investopedia.com/microsoft-stock-could-break-out-to-new-highs-4846614"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ images:
   - url: "https://www.investopedia.com/thmb/Q1A1btEXveIZ9LtcaLDDQP-LJ08=/680x440/filters:fill(auto,1)/microsoft_windows_istock_000025623287-80aa1528091f4cdb908f66e2440a2589.jpg"
     width: 680
     height: 440
+    isCached: true
     title: "Microsoft Stock Could Break Out to New Highs"
 
 related:
@@ -33,11 +34,12 @@ related:
     provider:
       name: InvestorPlace
       domain: investorplace.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://investorplace.com/wp-content/uploads/2019/10/msft1600f.jpg"
         width: 1600
         height: 900
+        isCached: true
 
 secured: "cZJ7G3niLzupcAiFofnzdZ4i83ENgCeJGIVg/rbFU6V112QjH9nnmU9unKjI5saiIvQzUIsgs0d9MRYGGroQqE/6vnjasDXiPSlzuatfu63GH3ZKNPbPOezopK6tSkI0qnGc4/GkO7d7ZDhZZbdVXvPFmxjxk/OCeHIFzn/Hh/AcBizh48tEEy2fueCQtCNWxkcKJVbSycx/7ycgJK2cU9W/bpGv4JOUUYqRgrmg7mMdaf/rqD54dQj7mluzDVuxFLcQLjRIWVhaVWxnvo9auzgfXQng89lY3OAsvEuRMBsk7bpMWg+ACRZHPIHDKC30bTDJlQRxFlMf5dYWlGSi77SNDhL+gyqMFLVWFa64QpaLfaozU2QUgGvzFOCvdNjtrYEw2kHmk4wU4bou8TdM6Bkp2DTBGvLtlU61F9pcFbBzFj10MfypRrsywhQjbXv2NDdGhxOKPpg5IdZkZr5Xzgs1PkIysy2yv9eDsadi9pA=;cwZhXVspj3HjWFPmLSwdWg=="
 ---

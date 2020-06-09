@@ -5,8 +5,8 @@ excerpt: "Research Nester has released a report titled “Public Cloud Market �
 publishedDateTime: 2020-05-13T18:04:00Z
 webUrl: "https://www.marketwatch.com/press-release/public-cloud-market--global-demand-analysis-opportunity-outlook-2023-cagr-of-around-23-2020-05-13"
 type: article
-quality: 62
-heat: 102
+quality: 52
+heat: 92
 published: true
 
 provider:
@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Public Cloud Market- Global Demand Analysis & Opportunity Outlook 2023 / CAGR of Around 23%"
 
 related:
@@ -35,11 +36,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Public Cloud Market – Top Companies, Business Growth & Investment Opportunities, Share and Forecasts 2026"
     excerpt: "Kenneth Research has published a detailed report on Public Cloud Market which has been categorized by market size,"
     publishedDateTime: 2020-05-15T11:30:00Z
@@ -48,11 +50,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
 
 secured: "YZfmFlkzWYnZeoFFUd+SrDwXImr2lbFftCI6Pz4jl8Q0U6chmlzSGKQuRFISyXtO77xs4V7tABNDM18DHyFj/B+Cl2Y0zObfqo0aeQRlDJsXyo5JPm0OtykoUktam/UZ+dKBTlQIKJgyZUQcJOwb3pewZuVL/lZg2/UYGWdCB67I/6T3NLXn7djWfud9dBR6wgGElYfNs51hvznDC+0H8Bralulgy/5bIJSovK0hOWCy+YTQZIoluuAQuJZtndCGpa/uVSU6coUcmQm45HpowVKUqEXOkUGhSB1OzFuX42GPZ/stgT/2o2DKVBJkpY9p;6at/BCfxQWy107helKCESg=="
 ---

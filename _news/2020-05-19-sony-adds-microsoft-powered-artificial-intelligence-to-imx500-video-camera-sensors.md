@@ -7,7 +7,7 @@ webUrl: "https://www.fool.com/investing/2020/05/19/sony-adds-microsoft-powered-a
 ampWebUrl: "https://www.fool.com/amp/investing/2020/05/19/sony-adds-microsoft-powered-artificial-intelligenc.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/19/sony-adds-microsoft-powered-artificial-intelligenc.aspx"
 type: article
-quality: 96
+quality: 76
 heat: -1
 published: false
 
@@ -26,6 +26,7 @@ images:
   - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F575066%2Findustrial-monitor-camera.jpg&w=1200&op=resize"
     width: 1200
     height: 925
+    isCached: true
     title: "Sony Adds Microsoft-Powered Artificial Intelligence to IMX500 Video Camera Sensors"
 
 related:
@@ -39,11 +40,12 @@ related:
     provider:
       name: SlashGear
       domain: slashgear.com
-    quality: 117
+    quality: 97
     images:
       - url: "https://cdn.slashgear.com/wp-content/uploads/2020/05/sony-intelligent-vision-sensor-1.jpg"
         width: 2307
         height: 1334
+        isCached: true
   - title: "Sony to use Microsoft’s Azure AI technology in new smart camera sensors"
     excerpt: "Sony Semiconductor Solutions says it will embed Microsoft’s Azure AI technology into its new intelligent vision sensor for smart cameras under a partnership between the companies. Sony will also"
     publishedDateTime: 2020-05-18T21:05:00Z
@@ -54,11 +56,12 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 117
+    quality: 97
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2020/05/sony-to-use-microsoft-azure-arti-1260x709.jpg"
         width: 1260
         height: 709
+        isCached: true
   - title: "Sony and Microsoft team up on AI-powered cameras"
     excerpt: "Sony and Microsoft are working on AI-powered cameras together. The two tech giants have announced that they’re embedding Microsoft Azure’s AI capabilities into Sony’s new image sensor, the IMX500, which comes with an onboard AI chip that processes information in real time."
     publishedDateTime: 2020-05-19T09:17:00Z
@@ -69,11 +72,12 @@ related:
     provider:
       name: Engadget
       domain: engadget.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F9229e060-999b-11ea-939f-54acbb91a315&client=amp-blogside-v2&signature=f4675774e49d1699bc2ea8c11f3f382adaf9a6e7"
         width: 600
         height: 350
+        isCached: true
   - title: "Microsoft and Sony to create smart camera solutions for AI-enabled image sensor"
     excerpt: "Sony and Microsoft have joined together to create artificial intelligence-powered (AI) smart camera solutions to make it easier for enterprise customers to perform video analytics, the companies announced."
     publishedDateTime: 2020-05-19T00:44:00Z
@@ -84,11 +88,12 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 98
+    quality: 78
     images:
       - url: "https://zdnet2.cbsistatic.com/hub/i/2020/05/15/d4d0aec9-a68d-4c05-93a1-1983d4569593/sony-sensor.jpg"
         width: 360
         height: 300
+        isCached: true
   - title: "Microsoft and Sony partner to make smart cameras smarter with Azure AI"
     excerpt: "Microsoft and Sony announced a partnership today that will bring Azure AI smarts to Sony's intelligent vision sensor IMX500. The combination is intended to result in faster analysis for enterprise scenarios."
     publishedDateTime: 2020-05-18T20:16:00Z
@@ -99,11 +104,12 @@ related:
     provider:
       name: Windows Central
       domain: windowscentral.com
-    quality: 77
+    quality: 57
     images:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg?itok=T29z3T0D"
         width: 800
         height: 600
+        isCached: true
   - title: "Microsoft helps Sony power the world’s first AI image sensor with Azure"
     excerpt: "Sony is the top image sensor supplier to the smartphone industry and has a presence in other segments as well. The IMX500 is designed to power enterprise systems such as industrial cameras for monitoring product lines."
     publishedDateTime: 2020-05-19T16:59:00Z
@@ -112,11 +118,12 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/microsoft-3.png"
         width: 718
         height: 400
+        isCached: true
   - title: "Microsoft is integrating Azure AI into Sony’s smart camera sensors"
     excerpt: "The two companies plan to embed Microsoft Azure AI capabilities onto Sony's new intelligent vision sensors, which were recently unveiled."
     publishedDateTime: 2020-05-19T10:34:00Z
@@ -125,11 +132,12 @@ related:
     provider:
       name: SiliconRepublic
       domain: siliconrepublic.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/05/microsoft-1.png"
         width: 1200
         height: 900
+        isCached: true
 
 secured: "UacoEDoMCdaXvQeVb/3Q2iEYs5FWwYo7jmkHWF/0cvCDe0DeXQWnArEgjIhgu44aNivihRL1NV11/1HSf5DkHlqJkc4G843bE+YHi/oMneukCC4eZfSN3rHTD+4a/yMmAqpYfpK5kXPHwjCOPCQXUxpDz1kz+cD3ezR0a/Rot7WkDDPYT6ZJBK9FYh0ZIPoVgq5fL6oTFJaauu7vAt7dziFyu5TsmpqI/jF51NfjzCuhpzmrpzUWhjudW0v30HomasZS4iCvOjut5ZiiiU7l4KbXc9JupNE7cpam0YR+mTh+Khmc9se9gQn73yZD0t7sLQIQT0eCB3WnHbYHAps2clmMUTr7UYCiP5ShHOoAsJsS/3LmRiNg535fHbIwSpZa4SG79Gr8QMiRM3p3XF9i2DPokDoWkDbeY9nHz86xzATLIzaG27+CbZdmGwJL8MrwiiMLM4XA+wU6MuNRlPP9UDvly/SOzsAMqsAerBBN8fM=;JGAEzRrIbAfeoFIJazRggw=="
 ---

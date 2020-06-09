@@ -7,8 +7,8 @@ webUrl: "https://www.fool.com/investing/2020/04/29/dow-jones-news-boeing-cuts-pr
 ampWebUrl: "https://www.fool.com/amp/investing/2020/04/29/dow-jones-news-boeing-cuts-production-and-staff-mi.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/29/dow-jones-news-boeing-cuts-production-and-staff-mi.aspx"
 type: article
-quality: 96
-heat: 116
+quality: 76
+heat: 96
 published: true
 
 provider:
@@ -26,6 +26,7 @@ images:
   - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F570316%2Fplane.jpg&w=1200&op=resize"
     width: 1200
     height: 800
+    isCached: true
     title: "Dow Jones News: Boeing Cuts Production and Staff; Microsoft Reports This Afternoon"
 
 related:
@@ -39,11 +40,12 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 90
+    quality: 70
     images:
       - url: "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg"
         width: 580
         height: 378
+        isCached: true
 
 secured: "bHYDxaTMG/T3vpmg2IpjkMv6KrG8YifyM2iSei9pF1PzBEWMHyRfWsSVJf5EJGbq2GU92AIjEZGrkQwhq8sCA8+iWlK23LcoA5kNW15ayC4sUUJzXbVNo0Nfz3Sw7q+d8xSfygo9E+83Mth19baidaUKLl1qvrduwffbnoz7lTO9FbsHcawWlTMFEu8atQUxSI1ozByPC8+msRS2Ke0nixMCx1FGENFPx37Oh/QkxnHxSYuzoWF3VfJFPn6meAIMpTRhJLtTbTs8VU+tuVWiTggTVuV1QYKCnRHj/hItP+4a8rrJFk8IhPBjrVPXxDmNDuhoTxdGDUmrlJWNPQoQaHDsXRm8A19BunYeylnpl/bklhdnOOEKV1Lh/8t6TrTEIMkZs1rNMLKjqvc0awKW0gOE1uGF1Ue+RQPEwNrZ/3cS7mDmf+TQqIgx+IANb4GPzgwzKkbQm5aO1B+yTaBj3rNRVzgwzBFQ7cUYYwLNowo=;IIclkQB2cNDGe+mdh8GVUQ=="
 ---

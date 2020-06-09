@@ -30,11 +30,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 104
+    quality: 94
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/202fa2d1-fc33-41eb-94be-957327f62b0d.jpg"
         width: 1024
         height: 608
+        isCached: true
   - title: "Azure Archive expanded capabilities now generally available"
     excerpt: ""
     publishedDateTime: 2020-04-23T16:00:13Z

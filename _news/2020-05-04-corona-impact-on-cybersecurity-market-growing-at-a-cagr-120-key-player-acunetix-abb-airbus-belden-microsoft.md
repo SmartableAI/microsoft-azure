@@ -5,8 +5,8 @@ excerpt: "Microsoft donated USD one million to Puget Sound’s COVID ... The too
 publishedDateTime: 2020-05-04T14:08:00Z
 webUrl: "https://www.marketwatch.com/press-release/corona-impact-on-cybersecurity-market-growing-at-a-cagr-120-key-player-acunetix-abb-airbus-belden-microsoft-2020-05-04?mod=mw_quote_news"
 type: article
-quality: 50
-heat: 50
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "CORONA Impact On Cybersecurity Market Growing at a CAGR 12.0% | Key Player Acunetix, ABB, Airbus, Belden, Microsoft"
 
 secured: "6Oelb+wOYZniT81IX57oc01ffFSWCG24FsLUFgLVjIyttgbTSIAOACvLpr+G6nHZt6Z88OEzyNyqzPczAFTMD+ag0OEXL28fh3cdcibA9HdiIudsPl7wYQ9ycB4OHgsCedcD/anC11FGuxbSjMjU4RbYUz8Dnnfbhbgc3z7+McvjXgw2R8G8xqYGgnTq6fjSWbFEcM+x2znxETAhX+Mks3rfBfAMoBO3l+NBJQDE4ywUONEUYIdUej+r+z3hOQVA9adALTeYvJi1wGAy21WB8iaj5Zz2jyLOxJ1lkZ8n01WzNxxcKwrciR9nDciW8ngy;JZ4mO/wi/9YB1zRI/SvtOw=="

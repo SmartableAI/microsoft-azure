@@ -7,7 +7,7 @@ webUrl: "https://mspoweruser.com/microsoft-azure-arc-support-openshift-red-hat-e
 ampWebUrl: "https://mspoweruser.com/microsoft-azure-arc-support-openshift-red-hat-enterprise-linux/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-azure-arc-support-openshift-red-hat-enterprise-linux/amp/"
 type: article
-quality: 77
+quality: 57
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ images:
   - url: "https://mspoweruser.com/wp-content/uploads/2019/11/Azure-Arc.jpg"
     width: 1156
     height: 649
+    isCached: true
     title: "Microsoft Azure Arc will support OpenShift and Red Hat Enterprise Linux"
 
 related:
@@ -33,11 +34,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 96
+    quality: 86
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/312759ad-1010-4449-98f4-308ec63ec078.jpg"
         width: 1099
         height: 618
+        isCached: true
   - title: "Announcing the general availability of Windows Server containers and private clusters for Azure Kubernetes Service"
     excerpt: "Today’s application environments are often heterogeneous, composed of both Windows and Linux applications. Using Kubernetes to host containers on both Windows Server and Linux not only saves costs but also reduces operational complexity. Many Azure customers have demonstrated this with their usage of"
     publishedDateTime: 2020-04-28T09:00:40Z
@@ -55,11 +57,12 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/microsoft2-1-1.png"
         width: 718
         height: 400
+        isCached: true
 
 secured: "RCzcqDptGcsFiAEq6+oNV7DzdFIvo7yhmM63k6eryFRtorlNie5yrtPZ/IErfkj2TpUUTs5iyc2lNbkgvD+vIJzE78BpPf5/ObY3szNFPzYlSa4foO5rUA9JrxRhFdYRHhfxq5sW1haq9kCfqaqeLWBAQ/BuPwn17Bj0hAda5OwOaZ3bTXigxwhRf7PZFPXT1AF7C1qTOC8dqqtD9k+/62Pn8OZ+7pazkKIvxWquUoQym0bxAA17ZSHgnJ2IHEKlMZZeRkULyT51Sd9PXS3k1BqrO2vkpJC+6qr9foPiaTUc1p80knxPwoFSXEyNlcgVnLeIJkdo+Tn7uo+m5KXbw9+sDrVXyWcOAGtK3iDeDfKyKfskcNQtelQPVfwP3DD6nrU3sOZkrraf7hGvY7nC+ZpqvAGGFa0/ua31X0uZSetGTlZhLbiJnqMvcQTXceJt9wl0b4QhWrd49htkygdotW6MYn0VQQd6xKUU9iYClwI=;Ld21Y5/+iDdx6zhUsjF9HA=="
 ---

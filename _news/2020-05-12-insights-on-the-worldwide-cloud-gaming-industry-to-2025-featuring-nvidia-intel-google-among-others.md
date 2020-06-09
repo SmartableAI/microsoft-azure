@@ -7,7 +7,7 @@ webUrl: "https://www.benzinga.com/pressreleases/20/05/g16008015/insights-on-the-
 ampWebUrl: "https://amp.benzinga.com/amp/content/16008015"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16008015"
 type: article
-quality: 16
+quality: 6
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 61
+    quality: 51
 
 secured: "1E6EFxlMO+gjSJh19HnfRZDXEvePYsCFo97mRsK+tff5t9FOMx2deQNFj2Ltg9//exbEo5UZOSl3vg3YQbZb9vRXOwERjyuaCe/ncYYUHS+cXaYTSHk7+K5cFA26UfuZoihQ7C4zyUSyA/SuHIaA8agYtpJScnv8rR8qQ+G9vO1+6bSc4uFDD0Y21Ohkaao/7LqQPRv3r01nJR4dZO/GuADYwApvh6DNZiSlYAhiZsjgGuuhiTiFZw5+Ry8jxTnRs+KVQ0VjI1YXDhg5LADw8t88Dk6ctO7ZRjm4shAiPZ1BMQkkr6rpEx7CmEFvPQAs;CB+nD12P676ETa9JPzSQmQ=="
 ---

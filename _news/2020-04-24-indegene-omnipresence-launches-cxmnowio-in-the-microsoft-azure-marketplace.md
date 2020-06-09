@@ -5,8 +5,8 @@ excerpt: "said Sanjay Virmani, CEO of Indegene Omnipresence, in a statement. The
 publishedDateTime: 2020-04-24T15:47:00Z
 webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=140460"
 type: article
-quality: 45
-heat: 45
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -20,6 +20,12 @@ images:
   - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/129446-0420_Omnichannel_480x610-ORG.png"
     width: 480
     height: 610
+    isCached: true
+    title: "Indegene Omnipresence Launches CXMnow.io in the Microsoft Azure Marketplace"
+  - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/131140-0620_ConversationalAI_480x610-ORG.png"
+    width: 480
+    height: 610
+    isCached: true
     title: "Indegene Omnipresence Launches CXMnow.io in the Microsoft Azure Marketplace"
 
 secured: "piK91DtW6VCFNFg1S+Bt1nE6FiLOWVDYAY4nyMThaFZx8IEn8ydAwF9qASDuq0f61KEJfg0iNzU/QBFwMroPmTskqn8IViBfHn0UmwnQztnOvV+b4ib3CuJO7Ku6xKFxFctXNJnXiXZVLvpnnDPeu2wrGkgjpx5VV15Sh3f/B6NzLZicPH0LWOJfXTYw2UL6gxVxMrxCOVrdAVAfQt6jzNXxbhFpUbBr3aBsBbH9p2vW3buZSRuOKuBhhIWUZA8StvcLESgPBZ0s3yOG7ib+FOleinGsp2jtdGerX3QFmjUKsefOnwP/vTTTDwLCr0ne;8ksgsWJJw7Hr5kA/T5tiGw=="

@@ -5,8 +5,8 @@ excerpt: "The global Cloud Database and DBaaS Market are projected to grow with 
 publishedDateTime: 2020-05-13T11:28:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-database-and-dbaas-market-by-type-application---forecast-to-2026-2020-05-13"
 type: article
-quality: 72
-heat: 192
+quality: 62
+heat: 182
 published: true
 
 provider:
@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Cloud Database and DBaaS Market by Type, Application - Forecast to 2026"
 
 related:
@@ -35,11 +36,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Cloud-based VDI Market By Key Players, Deployment Type, Applications, Vertical, and Region - Forecast 2025"
     excerpt: "May 12, 2020 (AmericaNewsHour) -- Global Cloud-based VDI Market valued approximately USD XXX billion in 2016 is forecasted to grow with a healthy growth"
     publishedDateTime: 2020-05-12T10:48:00Z
@@ -48,11 +50,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Global Public Cloud Application Infrastructure Services Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2026"
     excerpt: "Global “ Public Cloud Application Infrastructure Services Market ” forecast 2020-2026 report presents a pin-point breakdown of industry based on type, applications, and research regions. Growth strategies adopted by these companies are studied in detail in the report."
     publishedDateTime: 2020-05-19T11:40:00Z
@@ -61,11 +64,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 41
+    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Global Cloud Database Market 2020, by Services, Software, Company Profiles, Trends, Industry Analysis and Investment Opportunities to 2026"
     excerpt: "Global Cloud database Market is accounted for $ 6.12 billion in 2017 and is expected to reach $ 495.26 billion by 2026 growing at a CAGR of 62.9% during the forecast period. Some of the key factors responsible for the market growth include easily deployable,"
     publishedDateTime: 2020-05-16T09:39:00Z
@@ -74,11 +78,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 38
+    quality: 28
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Cloud Data Integration Market Analysis by Emerging Growth Factors and Revenue Forecast to 2025| Snaplogic, Microsoft, Talend, Software, SAP, Oracle"
     excerpt: "Cloud data integration solutions allow enterprises to unify data from disparate cloud sources in various formats. Cloud data integration solutions provide standard connectors to other cloud software systems,"
     publishedDateTime: 2020-05-06T08:06:00Z
@@ -87,11 +92,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 34
+    quality: 24
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Global Cloud Applications Market Analysis (2020 to 2026) - Key Players Include Google, Oracle & Adobe Among Others - ResearchAndMarkets.com"
     excerpt: "The \"Global Cloud Applications Market Analysis 2020\" report has been added to ResearchAndMarkets.com's offering. The Global Cloud Applications market is expected to reach $472.92 billion by 2026 growing at a CAGR of 17."
     publishedDateTime: 2020-05-13T15:30:00Z
@@ -105,6 +111,7 @@ related:
       - url: "https://mms.businesswire.com/media/20200513005546/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200
         height: 627
+        isCached: true
 
 secured: "z+4uVcVInHeAy+RgF73uP6LdK/P8q3fHm3RmeiA7S6Vd8v1VB6J4lr/jVdbr7FVpbOj60iGL/MVaqYtr3xDiURk6sbpXGH+J+Lz5KZLmzOt2OAY5mQQvket0LvJxZJ61GcRKu6KXQ569HDmGRs3cCA5fvO7QddmWFxuUo4xuIy+8DvL8Znfs+1ydb+QpRI40/dUPk1RHe+CWDltSf5U0qx5/fkvN6qpwDz8zrlMURL4tGDSVzWKXvyJo2Tdz71oqaUA8rMoOj/qEqhPgGPsm4BzrKMolJWhHDQOXv7T437DNL5TZBl9TjF9elsd55v33;t/X48IAR4TJa1fuakNB9yQ=="
 ---

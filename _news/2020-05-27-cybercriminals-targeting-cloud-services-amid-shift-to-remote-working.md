@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/cybercriminals-targeting-cloud-ser
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/cybercriminals-targeting-cloud-services-amid-shift-to-remote-working/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cybercriminals-targeting-cloud-services-amid-shift-to-remote-working/"
 type: article
-quality: 102
-heat: 142
+quality: 82
+heat: 122
 published: true
 
 provider:
@@ -26,6 +26,7 @@ images:
   - url: "https://tr4.cbsistatic.com/hub/i/r/2020/05/08/0154c4d4-36ae-4270-9291-968ddfd7c65c/thumbnail/1200x675/95cdef2021d3479a00e6861ffbb23d22/20200507-moyer3-dan.jpg"
     width: 1200
     height: 675
+    isCached: true
     title: "Cybercriminals targeting cloud services amid shift to remote working"
 
 related:
@@ -37,11 +38,12 @@ related:
     provider:
       name: Data Center Knowledge
       domain: datacenterknowledge.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/cloud-secured-with-chains.jpg"
         width: 1540
         height: 800
+        isCached: true
   - title: "Remote Attacks on Cloud Service Targets Rose 630% Amid COVID-19"
     excerpt: "Amid COVID-19, remote attacks on cloud service targets rose 630 percent with the greatest increase found on collaboration services, McAfee finds. Healthcare was the second-most targeted sector."
     publishedDateTime: 2020-06-01T15:18:00Z
@@ -52,7 +54,7 @@ related:
     provider:
       name: IT Security
       domain: healthitsecurity.com
-    quality: 32
+    quality: 22
 
 secured: "t7IGCvHgk2RJGvYYsPLJ5fGt/rm+3CI15wdUrqQeAYHFO2rrtJmgwRSUMNnPAOXMHXhMo2XrK/LdZSTsz4XmeCNqT2ZT0HP5x0SBftiTBXkAQMEstGypgXaGDNUOhEKk7rAC6hNC46zcVxTDSrYvl36eq/GN1MVNbZ0OYJVXdbUuQKaxd3qLxkjOmOIIIRlRh+uc2LRDMlDJBE5jaW139c0tEwdizV0Sm9nYnNbsRmVInIspyN2IQWxd5CH4bMCKSv6e8dwNwr07iXYj97lcjFJYg1iJO28I+59AUF2EzQJkSnXZeLv6u1gv9FE32seO;IqX76fSZEWyeFaNeC7/3ww=="
 ---

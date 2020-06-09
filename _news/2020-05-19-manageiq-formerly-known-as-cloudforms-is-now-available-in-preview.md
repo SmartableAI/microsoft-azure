@@ -40,11 +40,12 @@ related:
     provider:
       name: Network World
       domain: networkworld.com
-    quality: 58
+    quality: 38
     images:
       - url: "https://images.techhive.com/images/article/2014/12/abstract_rack_of_servers-100538194-large.jpg"
         width: 1200
         height: 797
+        isCached: true
 
 secured: "2iS0WDsYNTBGv4q6M6Wz5M7GqORLcLF2eUWBJIwHxhv0PDATLzAbcpRX02J/AhNdCPI9Lv5Yow9fF/98O8iFkR4/CPux8Ezl4k8+JCtR526Vuba+KSWY3a4vaXtzxQllBuylvbHAYE660GNTeBtFlPlgcKaR1j0eebKa/57wDpscgr6Zl23m/Xqpuri2vryF6kylR8enLfLDXXCGbQkerTILzsfqrx65xJ4zbZNr2puRHg9lofPCMs4N0ihpnrEIBATOaKZVO7ZUcqDPLzOEF3okcKumiYixp8FQoTuUvuGEbYe+swbJesaGQVY4Y0ut66neEeFOE2GZuz1xagyOaA==;Oc+7of4AVTu2gnAMX4fTNw=="
 ---

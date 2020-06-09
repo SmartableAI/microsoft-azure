@@ -29,11 +29,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 109
+    quality: 99
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a69c6248-11fa-477b-81e0-17d56596895a.jpg"
         width: 1024
         height: 489
+        isCached: true
   - title: "Azure Migrate is now available in Azure Government"
     excerpt: ""
     publishedDateTime: 2020-04-18T00:00:02Z
@@ -141,11 +142,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 70
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Cyber Infrastructure's 7-Week Azure Data Integration & Migration Soln. Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Cyber Infrastructure's implementation service SAN JOSE, CA,"
     publishedDateTime: 2020-04-30T07:38:00Z
@@ -154,11 +156,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 63
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Kyvos BI Acceleration Platform is Now Available on Azure Marketplace"
     excerpt: "Kyvos Insights, a cloud and big data analytics company, today announced the availability of their cloud-native BI acceleration platform,"
     publishedDateTime: 2020-04-28T13:00:00Z
@@ -167,11 +170,12 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://mma.prnewswire.com/media/1026738/Kyvos_Logo.jpg?p=facebook"
         width: 993
         height: 522
+        isCached: true
   - title: "ThroughPut Inc.'s ELITE Now Available in the Microsoft Azure Marketplace"
     excerpt: "ThroughPut Inc. today announced the availability of ELITE in the Microsoft Azure Marketplace, an online store providing applications"
     publishedDateTime: 2020-04-28T20:30:00Z
@@ -180,11 +184,12 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 46
+    quality: 36
     images:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+        isCached: true
   - title: "CognitiveScale's Cortex Certifai Now Available in the Microsoft Azure Marketplace"
     excerpt: "AUSTIN, Texas, April 27, 2020 /PRNewswire/ -- CognitiveScale, the Trusted AI Company, today announced the availability of Cortex Certifai (Certifai) in the Microsoft Azure Marketplace, an online ..."
     publishedDateTime: 2020-04-27T12:01:00Z
@@ -193,11 +198,12 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 42
+    quality: 32
     images:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+        isCached: true
 
 secured: "XpYXqOZO3VNenqb8v6h1RiupNvtWtSQvTYWlUqsfHzjYRa1N5jf6YMr8UzvDdg7Wd6ieLc9Ao/S01r8BlSKYyOIFuXcQlh+xb0okGOQLnGjqJXDnHszaN9hxs73fMJrFX+VbW7Wxl3o/lHDp8PIIz0d1vHpiiljRcgOReqTic+FQ5wuoQGLzbrjryjjPNitykIaxR1Pm/4i0vg/5CvjB+TmreszgRYvolp1tzVsn58xAgSjLEzzb2dWtFYi/4Z/Zss5tKMNHEVN1lERCYhfStye1cBiV5cufUTYzMkNy9EMe7xZkaUvHtqjRDaTOFmyWpYFVGzwI5yU0o0m9mCg+og==;mSHeAh5rNDljqtu9Lb9A8w=="
 ---

@@ -5,7 +5,7 @@ excerpt: "Microsoft announced on Wednesday that its Backup Explorer tool for Azu
 publishedDateTime: 2020-05-02T00:00:00Z
 webUrl: "https://redmondmag.com/articles/2020/02/05/backup-explorer-preview-for-azure.aspx"
 type: article
-quality: 47
+quality: 37
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ images:
   - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/Cloud3.jpg"
     width: 647
     height: 450
+    isCached: true
     title: "Backup Explorer Preview for Microsoft Azure Now Available"
 
 related:
@@ -31,11 +32,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 94
+    quality: 84
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f68dd946-126d-46ef-a94a-c336a605aa9b.jpg"
         width: 1024
         height: 693
+        isCached: true
 
 secured: "zllCxogyI17VKKAOIvE9IyEVXiLI063HhmeYTrcsCvlgRuadoIsFn/NiOCnEOWjb3rr+zfzus5Ax+moLpvYMnKXH6LH95rPPhov3v29rzBKYB7f3YVm+0qRm1IW4wThbXFIaLkYmsQ5/xLcFmjW76RIpwRMBKYpVwkWUd5WuF9qDS/vIc8KkHeFjmhPaCWc1BWerexEJSUk1XLK34QxtQbnbfyvFMz7KNsU8h+X6tAuDYfhfoUj8gPPKwchjeFkp1OsgWibHMNR2oIT27lNteCtXcZnCylIWUgTxhFiXnO4b09MfpSwXQMuJrifr0c1W;43Grn4jOIzqa770UW0h6sg=="
 ---

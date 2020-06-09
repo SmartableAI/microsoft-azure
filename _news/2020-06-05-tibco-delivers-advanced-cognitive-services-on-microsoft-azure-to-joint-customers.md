@@ -5,7 +5,7 @@ excerpt: "Leveraging AI at the Edge and in Containers Fuels Timely and Responsiv
 publishedDateTime: 2020-06-05T05:43:00Z
 webUrl: "https://www.cmo.com.au/mediareleases/130462/tibco-delivers-advanced-cognitive-services-on/"
 type: article
-quality: 42
+quality: 32
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ images:
   - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
     width: 600
     height: 246
+    isCached: true
     title: "TIBCO Delivers Advanced Cognitive Services on Microsoft Azure to Joint Customers"
 
 related:

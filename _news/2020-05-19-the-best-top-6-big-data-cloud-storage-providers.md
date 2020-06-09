@@ -5,7 +5,7 @@ excerpt: "Unless you have the resources for building and maintaining large amoun
 publishedDateTime: 2020-05-19T06:00:00Z
 webUrl: "https://www.linkedin.com/pulse/best-top-6-big-data-cloud-storage-providers-bernard-marr"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ images:
   - url: "https://media-exp1.licdn.com/dms/image/C5612AQGf3SQHapIFxQ/article-cover_image-shrink_600_2000/0?e=1595462400&v=beta&t=BU-M_Lq8bMFHlGCfPiiRF5N2KPybEWi2bePzgtvvTrY"
     width: 1348
     height: 600
+    isCached: true
     title: "The Best Top 6 Big Data Cloud Storage Providers"
 
 related:

@@ -5,8 +5,8 @@ excerpt: "This post was co-authored by Yair Tor, Principal Program Manager, Azur
 publishedDateTime: 2020-02-18T10:05:39Z
 webUrl: "https://azure.microsoft.com/blog/azure-firewall-manager-now-supports-virtual-networks/"
 type: article
-quality: 109
-heat: 149
+quality: 99
+heat: 139
 published: true
 
 provider:
@@ -25,6 +25,7 @@ images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/35eac5bb-b137-49ca-b783-a4321ac7ffbf.jpg"
     width: 1024
     height: 471
+    isCached: true
     title: "Azure Firewall Manager now supports virtual networks"
 
 related:
@@ -36,11 +37,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 109
+    quality: 99
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/df728987-e4aa-4082-9467-cc35731bd2be.png"
         width: 575
         height: 746
+        isCached: true
   - title: "Azure Virtual Network now supports reverse DNS lookup"
     excerpt: ""
     publishedDateTime: 2020-04-14T00:00:09Z

@@ -7,7 +7,7 @@ webUrl: "https://www.tweaktown.com/news/72060/microsoft-flight-simulator-looks-b
 ampWebUrl: "https://www.tweaktown.com/news/72060/microsoft-flight-simulator-looks-breathtaking-in-these-new-screenshots/amp.html"
 cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/72060/microsoft-flight-simulator-looks-breathtaking-in-these-new-screenshots/amp.html"
 type: article
-quality: 62
+quality: 42
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ images:
   - url: "https://images.tweaktown.com/news/7/2/72060_11_microsoft-flight-simulator-looks-breathtaking-in-these-new-screenshots.jpg"
     width: 620
     height: 307
+    isCached: true
     title: "Microsoft Flight Simulator looks breathtaking in these new screenshots"
 
 related:
@@ -35,11 +36,12 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 93
+    quality: 73
     images:
       - url: "https://cnet1.cbsistatic.com/img/j2IE5L7cuPxVIjwwueet2C8CGhM=/756x567/2020/04/22/2f03de55-f317-41dc-90a8-76ad905f59bc/microsoft-flight-sim-2020-hardware-specs.jpg"
         width: 756
         height: 567
+        isCached: true
 
 secured: "zfW0b4AMMl9w4w8aB1vT1Uxc4RP0W5g24oXnvXWtg2HOt2pcA3nSjpw9LNfAcLGTrq9QaSgTpnhr4xjN17pPDaQ9yj6bX0CYfUvyXSkcsOUrwaF3MwBli0a65fzlELddsr0q1slYjsGLT1iE6vRcYmTsVAup52kBzkZKAI12ETgaLmHUQvoCTInQvIMfixXXGtrw7xoskQXRKCf5Db2ajDPZr7eODeQDufF4VtFzwUGFK2dtMr/FyY9ZIuyS5YuP1/adZjJ9ZQB3K5Co++ik1dghcMa7C+AaIjMy+GqstF5RzKoNtbw8mpBXeH1zjLzMmK7fqzU4Ol8jPnneapV3tXixX84CRt58o6w7d+ktlfFpdqAKYTdaWgkxZ+hDKPzhLoUCON2zPxedMpq+xqUJtKeJjw5Of0zlAKqEfU7ffCBdItMci1fh6i1ardaULBBpHtfzK1mj8jvXts+oZjRVJpBDT9a5g97Bq/vP0ziW6Mc=;J9HwwcsSxZKQi7paSxIa0Q=="
 ---

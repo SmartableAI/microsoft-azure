@@ -5,7 +5,7 @@ excerpt: "This post was co-authored by Suren Jamiyanaa, Program Manager, Azure N
 publishedDateTime: 2020-02-18T11:00:15Z
 webUrl: "https://azure.microsoft.com/blog/new-azure-firewall-certification-and-features-in-q1-cy2020/"
 type: article
-quality: 109
+quality: 99
 heat: -1
 published: false
 
@@ -25,6 +25,7 @@ images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/df728987-e4aa-4082-9467-cc35731bd2be.png"
     width: 575
     height: 746
+    isCached: true
     title: "New Azure Firewall certification and features in Q1 CY2020"
 
 related:
@@ -36,11 +37,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 109
+    quality: 99
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/35eac5bb-b137-49ca-b783-a4321ac7ffbf.jpg"
         width: 1024
         height: 471
+        isCached: true
   - title: "Azure Virtual Network now supports reverse DNS lookup"
     excerpt: ""
     publishedDateTime: 2020-04-14T00:00:09Z

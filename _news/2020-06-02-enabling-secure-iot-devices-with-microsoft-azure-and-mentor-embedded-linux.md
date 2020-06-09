@@ -5,7 +5,7 @@ excerpt: "This white paper provides OEM developers a fast, proven, secure method
 publishedDateTime: 2020-06-02T18:06:00Z
 webUrl: "https://www.embedded-computing.com/premium-white-papers-2/enabling-secure-iot-devices-with-microsoft-azure-and-mentor-embedded-linux"
 type: article
-quality: 44
+quality: 34
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ images:
   - url: "https://content.cdntwrk.com/files/aHViPTYzODY3JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVlZDY5NDJmODIzZDguanBnJnZlcnNpb249MDAwMCZzaWc9N2E2OTU3Y2JlZTMxM2IwOTlmMmI2ZmE4NzUwZGRhODk%253D"
     width: 500
     height: 272
+    isCached: true
     title: "Enabling secure IoT devices with Microsoft® Azure and Mentor Embedded Linux®"
 
 related:
@@ -33,11 +34,12 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 115
+    quality: 95
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed31bf63c7e9c000678f8ad%2F0x0.jpg"
         width: 1000
         height: 666
+        isCached: true
 
 secured: "g3jXt18cjeooVRHLFKlQJdx/PBkTZMK0UAHQL+sCmMcNzQoOey/QVBTWtD/tItK1BUr/MUPv806Q6YHt7EOLPMrriyVJwUpYFrEIcj0KUGJsZp9wNS85BNMbry2wFqVi6Z+SnHUkS5GvHt+ZkA2HXF9yp8urpvdl9IkKURkW7vqTIA0drU6JsQb4grNXd50eN0x9pb8UdrxOHzFzp7rhe4fNwVGBrjzqgnNDu8wDlUI+o+iRE1BI3IuM5YLmm12JMeKLldMbCmfvFB1cwH8akUJbo3UsCWWoschQsmJbvxikAbFlRMzW0mmHRNqEXE/Z;betMAckgqxI7TPzM+fUCMQ=="
 ---

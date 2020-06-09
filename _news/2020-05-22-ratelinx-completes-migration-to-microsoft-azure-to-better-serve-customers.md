@@ -29,11 +29,12 @@ related:
     provider:
       name: DC Velocity
       domain: dcvelocity.com
-    quality: 46
+    quality: 36
     images:
       - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/0bef1a3f-3524-4a47-91e5-78466728c9a3.png?height=635&t=1590129628&width=1200"
         width: 600
         height: 201
+        isCached: true
   - title: "Netcracker Offers AI-Driven Digital BSS/OSS to Microsoft Azure"
     excerpt: "Netcracker Technology announced today it is working with Microsoft to offer its Digital BSS/OSS and Orchestration applications on Microsoft Azure. Netcracker is collaborating with Microsoft to integrate Azure Machine Learning (ML) and AI services with Netcracker’s Advanced Analytics to add intelligent contextual decisioning and recommendations to enable more personalized customer"
     publishedDateTime: 2020-05-14T09:16:00Z

@@ -5,7 +5,7 @@ excerpt: "Microsoft, using its decades of experience in hardware, software, and 
 publishedDateTime: 2020-04-01T18:33:00Z
 webUrl: "https://www.storagereview.com/review/microsoft-azure-sphere-security-overview"
 type: article
-quality: 47
+quality: 37
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ images:
   - url: "https://www.storagereview.com/wp-content/uploads/2020/04/StorageReview-Microsoft-Azure-Sphere.png"
     width: 979
     height: 456
+    isCached: true
     title: "Microsoft Azure Sphere Security Overview"
 
 related:
@@ -31,11 +32,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 123
+    quality: 113
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/73aa9c0c-7e7e-4101-85bb-d9ca8bd9d769.jpg"
         width: 1024
         height: 536
+        isCached: true
   - title: "New Azure RTOS collaborations with leaders in the semiconductor industry"
     excerpt: "IoT is reaching mainstream adoption across businesses in all market segments. Our vision is to enable Azure to be the world’s computer, giving businesses real-time visibility into every aspect of their operations, assets, and products. Businesses are harnessing signals from IoT devices of all shapes"
     publishedDateTime: 2020-04-02T09:00:23Z

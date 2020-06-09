@@ -7,7 +7,7 @@ webUrl: "https://mspoweruser.com/docker-azure-container-instances-vs-code/"
 ampWebUrl: "https://mspoweruser.com/docker-azure-container-instances-vs-code/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/docker-azure-container-instances-vs-code/amp/"
 type: article
-quality: 67
+quality: 47
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ images:
   - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Microsoft-Docker.jpg"
     width: 1813
     height: 1195
+    isCached: true
     title: "Docker announces tighter integration with Azure Container Instances and Visual Studio Code"
 
 related:

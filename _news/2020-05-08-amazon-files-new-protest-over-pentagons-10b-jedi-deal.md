@@ -7,7 +7,7 @@ webUrl: "https://www.law360.com/articles/1271571/amazon-files-new-protest-over-p
 ampWebUrl: "https://www.law360.com/amp/articles/1271571"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1271571"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
@@ -29,11 +29,12 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://media.bizj.us/view/img/10654474/3124262891-11*600xx4000-2667-0-0.jpg"
         width: 600
         height: 400
+        isCached: true
   - title: "New AWS protest spawns JEDI blog wars"
     excerpt: "Microsoft won the JEDI contract in October, but a lawsuit from rival AWS and early legal ruling from a federal judge induced the Pentagon to amend the solicitation and invite new bids on storage requirements for the portion of the request for bids called \"price scenario 6\" – a cloud storage component that,"
     publishedDateTime: 2020-05-07T23:40:00Z
@@ -42,11 +43,12 @@ related:
     provider:
       name: Federal Computer Week
       domain: fcw.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Cloud/pentagoncloud2.png"
         width: 760
         height: 368
+        isCached: true
   - title: "Amazon files new protest over ‘fatally flawed’ JEDI cloud computing contract award"
     excerpt: "In an increasingly sharp war of words and legal maneuvers, Amazon Web Services Inc. is stepping up its protest of the Joint Enterprise Defense Infrastructure cloud contract award, asking the U.S. Department of Defense for more clarity around corrective action it has proposed taking."
     publishedDateTime: 2020-05-08T12:17:00Z
@@ -55,11 +57,12 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 26
+    quality: 16
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/pentagon-720022_1280-AutoGirl-Pixabay.jpg"
         width: 1280
         height: 1280
+        isCached: true
 
 secured: "rs4tZuuFDp+yp95xHA1NBImLD62TAino4eiSoXRr6r+i9IRdf9P3ysFxkF+BM9hRaJse8t2OfEdcUFaPtvxJwyM1j0fX9d6/KQFFeMQzHlacIvRDo/gB8KL82GqFsf0Io68zKTmt2Bqww9sQdx8mc+JO0GSCVVD/Gwk/iq/2SCeJExaTk68mpb6sTr74ZQeCQ2oyrvwBgCnqf1mjkt8QPu8qImG8Jel/1NStJc3Qf6hOXK5xcOp2qbmtsyh2yROrNpeuHk5S2h2a4m2zBlBeAcyHqwHfA9vDnAH1UOv9g8DSGfUI2JpTTQJlhXk8JUQ8;PGwuPMnxw6GjJ709Ep9M/A=="
 ---

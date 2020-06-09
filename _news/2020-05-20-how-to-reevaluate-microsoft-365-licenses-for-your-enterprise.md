@@ -5,7 +5,7 @@ excerpt: "We offer five steps to take for evaluating an organization's M365 lice
 publishedDateTime: 2020-05-20T00:33:00Z
 webUrl: "https://www.eweek.com/enterprise-apps/how-to-reevaluate-microsoft-365-licenses-for-your-enterprise"
 type: article
-quality: 72
+quality: 62
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ images:
   - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2020/05/Microsoft365logo.jpg?alias=social_image"
     width: 560
     height: 300
+    isCached: true
     title: "How to Reevaluate Microsoft 365 Licenses for Your Enterprise"
 
 related:
@@ -37,11 +38,12 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 117
+    quality: 97
     images:
       - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/05/11/f9afed5d-33cd-438f-ba73-31b31abba8e1/thumbnail/1200x675/551e70a2173905fa78f8877e82c1669a/redis-logo-2.png"
         width: 1200
         height: 675
+        isCached: true
   - title: "Microsoft partners with Redis Labs to improve its Azure Cache for Redis"
     excerpt: "For a few years now, Microsoft has offered Azure Cache for Redis, a fully managed caching solution built on top of the open-source Redis project. Today, it is expanding this service by adding Redis Enterprise,"
     publishedDateTime: 2020-05-12T13:04:00Z
@@ -52,11 +54,12 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 117
+    quality: 97
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1207074418.jpg?w=1024"
         width: 1024
         height: 682
+        isCached: true
   - title: "Azure Cache for Redis—Enterprise features coming soon"
     excerpt: ""
     publishedDateTime: 2020-05-12T13:00:09Z
@@ -74,11 +77,12 @@ related:
     provider:
       name: Help Net Security
       domain: helpnetsecurity.com
-    quality: 36
+    quality: 26
     images:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
         width: 304
         height: 430
+        isCached: true
 
 secured: "mQ4SeS8wL5NEYWmzbA+B1drduO+027cYH6CATUsFcOICR9MBmJRt2c88Xsqkr+oSROVDbR7yIwt0nJxhgNkALGBG7/2r5GNsmh8uHwr77I/99fGmZfsztQBUZWGsEDUyDsGkqSqNPLifPmUe03HfI791gcmtlDRHnXSwswXvgIhmMIQu73kvtHrmMyvxGtT37u3hxuHbWmuNkGTcYRmBTCb+crJHbkitU11ssFX/8i4ZO4myEH6UUnK4KwCkmszbue4N0/WAn5doUasIydvmIB7uBJOAGwfzmHzF2Bnty8YdAw7yOjprzDJATSzukdOXI3PjCCsv5PzBr5lX2KVLQ6y9Hd149JZzMqXKoCEnJ9kn0/D5qwq32iyyh8EtsJKz5ZFF3q4rvswRS+Nu/T2WnqQuFt3tqnye0E79sW8eSdIULiw9OcaScN6SnrTDx28WQkMKmILIVx3F6/DzL3oaJX9gtLE5fFfpUYDC/Kq88Nc=;SXgptcXU6WJSVruGVf30Aw=="
 ---

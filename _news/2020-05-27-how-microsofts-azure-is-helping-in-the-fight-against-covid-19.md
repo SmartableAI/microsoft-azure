@@ -25,11 +25,12 @@ related:
     provider:
       name: Law
       domain: law.com
-    quality: 31
+    quality: 21
     images:
       - url: "https://www.law.com/assets/master-template/images/close-btn.png"
         width: 256
         height: 256
+        isCached: true
 
 secured: "3dc1LMKV0LDCn30j74a4Wmmj2p3FTshoLqiHHPAbLSu7goHJZ+h609h8O9FWxPUrtmWkIzK1K0kAbJPBL2mASKcZTrwOFO4qd3Jl6G7Ph8uK6+EVTQVqrRr6N3BGo9ZvKo6M4qE2BnKNy+SlfmkZGMbURwsX229TJ2unwbodcEgfvOvFTYGlN4D+vLXGE1uMmNJ9cbTA3Bwy0Pg1ZI10VsODgKNRrAktjWdKaqd9idDmjhoKAELvahpOlzmKo5pbpTGHrXBRbF9+QxCH/fWE7OFSnDjqULIlfe2j/+YUxFntZTymf8UD3SvVk0mY5Bo/NH6sU8tcEado6Hh8spOp9CXHczQT6XNLLX461rSwT5nicVDmTO5vfonauFl9Cp1R4zndsuAMpwPbjH0v51/wqPSZB4ZGeQZusxiYmnN8wromRO9uc4MbeDayG3gx4YRJkuVOYqu1YpvIqK/M+8z8nyOOaClL6fHDsncIGdcGyUM=;SjuKOZZ9XJ5WGt0g8s87Jw=="
 ---

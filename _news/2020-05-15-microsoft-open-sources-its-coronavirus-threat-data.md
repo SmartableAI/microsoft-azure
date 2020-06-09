@@ -5,7 +5,7 @@ excerpt: "Microsoft's COVID-19 intelligence will be made publicly available to h
 publishedDateTime: 2020-05-15T19:06:00Z
 webUrl: "https://www.darkreading.com/threat-intelligence/microsoft-open-sources-its-coronavirus-threat-data/d/d-id/1337836"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ images:
   - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
     width: 600
     height: 600
+    isCached: true
     title: "Microsoft Open Sources Its Coronavirus Threat Data"
 
 related:
@@ -33,11 +34,12 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://zdnet3.cbsistatic.com/hub/i/2020/05/12/184993f6-d771-44c7-97eb-4e437bbb83f5/microsoftocp2020.jpg"
         width: 811
         height: 503
+        isCached: true
   - title: "CallCabinet Releases Compliance Cloud Call Recording for Microsoft Teams"
     excerpt: "CallCabinet, a leading global provider of cloud-native call recording, quality assurance, and AI solutions, is pleased to announce the general availability of"
     publishedDateTime: 2020-05-19T19:32:00Z

@@ -31,11 +31,12 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 117
+    quality: 97
     images:
       - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/05/11/f9afed5d-33cd-438f-ba73-31b31abba8e1/thumbnail/1200x675/551e70a2173905fa78f8877e82c1669a/redis-logo-2.png"
         width: 1200
         height: 675
+        isCached: true
   - title: "Microsoft partners with Redis Labs to improve its Azure Cache for Redis"
     excerpt: "For a few years now, Microsoft has offered Azure Cache for Redis, a fully managed caching solution built on top of the open-source Redis project. Today, it is expanding this service by adding Redis Enterprise,"
     publishedDateTime: 2020-05-12T13:04:00Z
@@ -46,11 +47,12 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 117
+    quality: 97
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1207074418.jpg?w=1024"
         width: 1024
         height: 682
+        isCached: true
   - title: "How to Reevaluate Microsoft 365 Licenses for Your Enterprise"
     excerpt: "We offer five steps to take for evaluating an organization's M365 license strategy, how to realize hard dollar cost-savings and gain a better return on investment."
     publishedDateTime: 2020-05-20T00:33:00Z
@@ -59,11 +61,12 @@ related:
     provider:
       name: eWeek
       domain: eweek.com
-    quality: 72
+    quality: 62
     images:
       - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2020/05/Microsoft365logo.jpg?alias=social_image"
         width: 560
         height: 300
+        isCached: true
   - title: "Redis and Microsoft to deliver Redis Enterprise as integrated tiers of Azure Cache for Redis"
     excerpt: "Redis Labs announced a new strategic agreement with Microsoft to deliver Redis Enterprise as new, fully integrated tiers of Azure Cache for Redis."
     publishedDateTime: 2020-05-13T23:48:00Z
@@ -72,11 +75,12 @@ related:
     provider:
       name: Help Net Security
       domain: helpnetsecurity.com
-    quality: 36
+    quality: 26
     images:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
         width: 304
         height: 430
+        isCached: true
 
 secured: "dmdQGUK1Ofgacid5Lkgk0YffCzItok0t4RVffA/m+ZqpFUZ2/IfXJz2XrtZSJljMjhhlRSmecgS2qj1uhSxAqRmJKh708aP2iwJizeRXtnFC69zTjdjOa7/L8mAeoGbR/vFpf2Km/AwH4vAEGyB4f6FGluSCAMyH+DIRUWWVfhyl2EnlKTZpP0nu7LsgINYMe2rgdif42ia5GeVH4HspESffJDDE/wS0n98zd0HSSMDQslLPanmpE5qIMRzyvdl64DLHBzrMEiJ/FkpqbpXBZsTeUaHMaavYktfRfVd+gIZPtClvg79474WoarVL2DrdolleeLfpnAWInSSCGupW9Q==;UEd5x42FQk0Xwqo9HRt+hQ=="
 ---

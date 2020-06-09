@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/workday-microsoft-forge-partnership-revol
 ampWebUrl: "https://www.zdnet.com/google-amp/article/workday-microsoft-forge-partnership-revolving-around-adaptive-planning-teams-azure-integration/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/workday-microsoft-forge-partnership-revolving-around-adaptive-planning-teams-azure-integration/"
 type: article
-quality: 104
-heat: 204
+quality: 84
+heat: 184
 published: true
 
 provider:
@@ -26,6 +26,7 @@ images:
   - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/01/27/b045ccbf-d935-4681-8c2f-109b2e2394e8/thumbnail/1200x675/5f20b958b20a2b546b9a0a796b3fc2bd/workday-building-sign.jpg"
     width: 1200
     height: 675
+    isCached: true
     title: "Workday, Microsoft forge partnership revolving around Adaptive Planning, Teams, Azure integration"
 
 related:
@@ -39,11 +40,12 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://tr1.cbsistatic.com/hub/i/r/2020/05/21/4890c091-c9c9-42bc-8e04-7d8f006e2ab6/thumbnail/1200x675/e6a33716e2fd7c19f5d4d89d110a3b0c/20200520-owen-karen.jpg"
         width: 1200
         height: 675
+        isCached: true
   - title: "Microsoft and Workday announce new partnership involving Azure and Teams"
     excerpt: "Microsoft and Workday today announced a new partnership that will enable enterprise customers to simplify everyday tasks, improve collaboration and productivity. This new partnership includes the following three things."
     publishedDateTime: 2020-05-28T04:36:00Z
@@ -54,11 +56,12 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 76
+    quality: 56
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Microsoft-Workday.jpg"
         width: 801
         height: 404
+        isCached: true
   - title: "Microsoft, Workday Announce Strategic Partnership to Accelerate Planning for Today's World"
     excerpt: "Microsoft (NASDAQ: MSFT) and Workday Inc. (NASDAQ: WDAY) today announced a strategic partnership prioritizing enterprise planning in the cloud and expanding the business solutions"
     publishedDateTime: 2020-05-27T20:05:00Z
@@ -67,11 +70,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Microsoft and Workday Announce Cloud Partnership"
     excerpt: "Microsoft and Workday are partnering to bring Microsoft Azure to Workday Adaptive Planning alongside integration with Microsoft Teams."
     publishedDateTime: 2020-05-28T19:07:00Z
@@ -82,11 +86,12 @@ related:
     provider:
       name: winbuzzer.com
       domain: winbuzzer.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://winbuzzer.com/wp-content/uploads/2019/12/Microsoft-Cologne-Office-Pixabay.jpg"
         width: 957
         height: 720
+        isCached: true
   - title: "Understanding Microsoft Azure certifications"
     excerpt: "Take advantage of Azure certifications to help advance your career, earn recognition, and validate your technical knowledge and abilities in current and future industry job roles. Looking to level up your career or jump-start a new one?"
     publishedDateTime: 2020-05-23T05:23:00Z
@@ -95,11 +100,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://docs.microsoft.com/en-us/learn/certifications/posts/images/understanding-azure-poster.png"
         width: 1024
         height: 512
+        isCached: true
 
 secured: "CVj/XD2WkWjD/pIWr0QowmbLnzLL0pUftrodssoftccV7opdJ8QfxyMdL02my6cFi9gZSwBeqEJmrehoECVCoS2t6DGexegq1IvA88lvPK16WG1YBmnfWUuY6ETYwG1ZNXmWh2HSeq7nPyHgRqDGqJd2b2V8gREev4w4TurUqnk0+ZcYANvnz7gpzvQzz5zxRSYvwgRKn7geDYfwV9plG3jgdTaKKQVUnkW2A2fs0Df9JYOOkXwIqQLMTATn0LfEyjS8dbYlhi/1xTSYpC7Avr9GYxLo8sazSwq2TjZYvzZy+kT3hodfho0jlfxq1ChgkKdOu5G6MhjsSBKVljYA+YpMJ59qdmlQBMx53e1djM0OBRuAJPkqOTGeUjZYP0Q8JUbeLnvIsYQ6jw2rnCMkmlNQEaFVCoxxKKKWwyvawYiPIg2sqdZvAfUMwB0kx4+UQZkuc9cDNz5JO7Phmd9P+0iu7Be0hWEoVivyT9mLaAQ=;6hg7qDZ651yMojP+HJJaAQ=="
 ---

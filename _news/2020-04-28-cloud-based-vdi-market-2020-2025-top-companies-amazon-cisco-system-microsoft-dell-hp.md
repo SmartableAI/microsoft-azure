@@ -5,7 +5,7 @@ excerpt: "According to the latest report by IMARC Group, titled \"Cloud Based VD
 publishedDateTime: 2020-04-28T10:35:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-based-vdi-market-2020-2025-top-companies-amazon-cisco-system-microsoft-dell-hp-2020-04-28"
 type: article
-quality: 63
+quality: 53
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Cloud Based VDI Market 2020-2025: Top Companies Amazon, Cisco System, Microsoft, Dell, HP"
 
 related:
@@ -35,11 +36,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 64
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
 
 secured: "B9m+KudNyzOVz04lRpbEdHg/eMBjdrpYSjghs63bLb8Z5mvpqKKV7mcMuy50LC8t3A4twiDR/L7+SmaYVVHRGaHTIaky//9GnVrhUvFivo5xM39A9VGK3QD7kganMzuR48WmQJzNnZGXzOi7JAYmo9DSy/RdBthMF8/hlj3m/D0izQD+lKpor1MiB/LEvtWpPaAkgfjzpwT2ejBn7OAp4Vi7FBe7up3/O3pE4kRuiNXM6Cd6ptYaSShqPU3ZhlvWapWhW/UIm7GZp6oMeIjQxhQUIk/T1kiQ6m1WRnCFkaXtdu2pAlosmXlKmrcHdWQ2;OoJ0DFE4E1mCqLgNV/LLQw=="
 ---

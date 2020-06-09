@@ -31,11 +31,12 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/03/660bb6e9-3d0d-4d1d-aaf1-2ed92febe618/thumbnail/1200x675/bb2ba3d4b429e7461f5a07f045166d0e/wvdmsixappattach.jpg"
         width: 1200
         height: 675
+        isCached: true
   - title: "Microsoft-owned GitHub just launched new features to help its over 50 million developers collaborate on, secure, and write code in the cloud"
     excerpt: "GitHub collaborated with the team from Microsoft Visual Studio Code, a popular open source code editor, to build one of its new features Codespaces."
     publishedDateTime: 2020-05-06T16:34:00Z
@@ -44,11 +45,12 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 37
+    quality: 27
     images:
       - url: "https://i.insider.com/5ce5de645234d2176d06f876?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
   - title: "Avid Technology Shares Up 10% After Renewing Cloud Collaboration With Microsoft"
     excerpt: "Global News Select Avid Technology Shares Up 10% After Renewing Cloud Collaboration With Microsoft . . May 5, 2020 11:12 AM UTC"
     publishedDateTime: 2020-05-05T11:12:00Z

@@ -5,8 +5,8 @@ excerpt: "One of the most important features of a disaster recovery tool is fail
 publishedDateTime: 2019-10-28T13:00:04Z
 webUrl: "https://azure.microsoft.com/blog/customize-networking-for-dr-drills-azure-site-recovery/"
 type: article
-quality: 109
-heat: 109
+quality: 99
+heat: 99
 published: true
 
 provider:
@@ -25,6 +25,7 @@ images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8c343096-f652-47ef-a1a7-1451d4832dbd.png"
     width: 1423
     height: 556
+    isCached: true
     title: "Customize networking for DR drills: Azure Site Recovery"
 
 secured: "pXijt4CX6ekKKR0INWa4xfOB46QaK5l7pzafRK2izmJ5XQqm0FVzRkUQr20zRvqKp05sbOkaVHcJkozXp93llxhC44zRDXiz4BoPBAan31zj/cFVJqc6420HMAWxLAwPqds58zm1guIL3ja9qtdeJrJYhArDOSmf68gfgyB1DcN3XFJnlB0w7bh+7nOi3RsR4/V1vc292ydGLqCBxyg+ACdg1C5HoLoluuHpZIxFYbBURTSmqEelILN2GxjCB/T5pgc4Skiy0vMYhs4BY0QpqCvmdEUNZovNh7gC1gjpD2fRryaeGLBf+p1pPeyTIcnI93d7KdEgkDhifd9fReOZvA==;ug+DbT6qrwDJGa/6uzYkjg=="

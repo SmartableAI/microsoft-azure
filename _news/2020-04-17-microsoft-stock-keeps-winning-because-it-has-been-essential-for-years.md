@@ -7,7 +7,7 @@ webUrl: "https://investorplace.com/2020/04/microsoft-stock-essential-years/"
 ampWebUrl: "https://investorplace.com/2020/04/microsoft-stock-essential-years/amp/"
 cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/04/microsoft-stock-essential-years/amp/"
 type: article
-quality: 62
+quality: 42
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ images:
   - url: "https://investorplace.com/wp-content/uploads/2020/03/shutterstock_698745022-compressor.jpg"
     width: 1600
     height: 900
+    isCached: true
     title: "Microsoft Stock Keeps Winning Because It Has Been Essential for Years"
 
 related:
@@ -35,11 +36,12 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://media.ycharts.com/charts/24981e8743742bcb2fd3f34c85905335.png"
         width: 720
         height: 386
+        isCached: true
   - title: "Forget Amazon, Microsoft Is a Better Cloud Computing Stock"
     excerpt: "That's driving increased demand for cloud services, boding well for the likes of Amazon (NASDAQ:AMZN), through its Amazon Web Services, and Microsoft (NASDAQ:MSFT), through its Azure services. Amazon is the overall leader in this sector, but Microsoft is a scrappy second-place player. It's been chipping away at AWS' lead, and with demand ..."
     publishedDateTime: 2020-04-20T20:54:00Z
@@ -50,11 +52,12 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568510%2Fmicrosoft-better-cloud-mf.jpg&w=1200&op=resize"
         width: 1200
         height: 480
+        isCached: true
   - title: "Charles River IMS readies for Microsoft Azure"
     excerpt: "Charles River Development, a State Street Company, today announced that its strategic cloud solution, Charles River Investment Management Solution (Charles River IMS), has achieved platform and operational readiness on Microsoft Azure. The offering utilizes Microsoft’s scale and security capabilities to provide investment firms with a ..."
     publishedDateTime: 2020-04-17T08:49:00Z
@@ -63,11 +66,12 @@ related:
     provider:
       name: Finextra
       domain: finextra.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
         width: 480
         height: 270
+        isCached: true
 
 secured: "0PBqxB4krGpzC+ZxemJN802bCQxl8jUgpIUB9Gr1bX5Zstjgw2ImYB3UvhkTPPcA75NDq7PnNfO0BY/8QqUbM4ltjrtabtpHS5a1ejyuViKfQONkShchSYZ2NQfYnezGE8j0fyJnP9rhj09gHiXMHMXvzFL6WkM0dEt3p5utVHBaiZJkhCbz9cInj3g83briPceDE/srhJyVz+/TmHZq+CEwo867Ha8PpUhDkeSx8eF7sAhcbyoq4adWPzTRaI9sVQTGGmtRGaEKfSUb77KYoGlFJL5RJ/Pgcex+hEoDlfpfTkSX9CiQzO6X0thzOvo4hB6yMpDz72yVbMxRRspTWLoRLgYqis8gGqtjGxuuvSAg4SqTr8lLiV1aKIcVvlifansOK1WttbHme3yv4blUh8Gqev26LHt9xjB7tR+W18dwCp0yKc3txFexDXLyytc8496F6LY1DsKJ903XsaBR0PWVg+Ue/sBeB6vQ1Eb4udc=;NPqed2n3SQwWKAuEE8Vk+w=="
 ---

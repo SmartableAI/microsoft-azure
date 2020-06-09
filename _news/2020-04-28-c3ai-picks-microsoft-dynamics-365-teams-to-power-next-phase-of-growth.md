@@ -25,11 +25,12 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 27
+    quality: 17
     images:
       - url: "https://mma.prnewswire.com/media/24227/microsoft_corp_logo226_9217jpg.jpg?p=facebook"
         width: 2695
         height: 1414
+        isCached: true
 
 secured: "ox5nNmpeRMq5eLhS4/5buZ5gE+z016V8+tdjJTKyma+xtcsp9jJefWILFfn1AAmKGaNJs4kV35qYNDhpV+cx1AMlxUtA3Kv/5x64pQ1Ks9O4g+iHhS+6UJMlZ3E7KMkFLriGH6B0UgPBgkkxpp0QxKHWEG1ArU6ZT3oTWYTCf+1tVmRXhjeNMooiXazKulxXZS5P0OPHW41ii8NWy9GeAu9Pum6YSQoUxXGpkMlX9P2lozFUDF2+gUIctqT6E7CoK4ObSOO94ZZ2Nr7clvTmIYHWagpgl8bP4U+TZTh02fp6jj4HZwE8dfEbMFSDJfOE;Ojf/+bJNaNU34fGoYxALUw=="
 ---

@@ -7,8 +7,8 @@ webUrl: "https://9to5toys.com/2020/05/08/xbox-one-x-1tb-star-wars-jedi-bundle/"
 ampWebUrl: "https://9to5toys.com/2020/05/08/xbox-one-x-1tb-star-wars-jedi-bundle/amp/"
 cdnAmpWebUrl: "https://9to5toys-com.cdn.ampproject.org/c/s/9to5toys.com/2020/05/08/xbox-one-x-1tb-star-wars-jedi-bundle/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -22,6 +22,7 @@ images:
   - url: "https://9to5toys.com/wp-content/uploads/sites/5/2020/05/Xbox-One-X-Star-Wars-Jedi-Fallen-Order-Bundle-03.jpg?quality=82&strip=all&w=1000"
     width: 1000
     height: 500
+    isCached: true
     title: "Xbox One X 1TB Star Wars Jedi Bundle now up to $115 off with deals from $285"
 
 secured: "6mBF1TmmeyiU7m7R1+84VSwxiGaYZqRYnaBmmiSEksVsUUCenVCqM/9HV6hVPUqFpvTKkr28tUd9osDrFVwO4tleqh8Ab+SUzB52ysvWctjNZYGCb2r/zx3LyXmLOixCJrRGd32nTpEL0cFRd5Ac94vn+phb3BSgMFbUFwFbhHPZjXi95aEvR+io5jxoKaC2SsIsKUtHPrYjZSOuIon4yE0YD62sY2xWr1k6ZnX5NitN35E3frKjKmIPez5BodC7Kwpb3LN22XjsoW4rod3BPrXTJfvJHRqKnYoN7QP36LajacbCMmpVRh8mf0u7lj4X;hKaa0SNFRp/ZC77tY+sUYQ=="

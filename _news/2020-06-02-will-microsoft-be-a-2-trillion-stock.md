@@ -7,7 +7,7 @@ webUrl: "https://www.nasdaq.com/articles/will-microsoft-be-a-%242-trillion-stock
 ampWebUrl: "https://www.nasdaq.com/articles/will-microsoft-be-a-%242-trillion-stock-2020-06-02?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-microsoft-be-a-%242-trillion-stock-2020-06-02?amp"
 type: article
-quality: 72
+quality: 62
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 72
+    quality: 62
   - title: "3 Big Reasons to Stick With the Rally in Microsoft Stock"
     excerpt: "Microsoft stock is a winner. Never has that been more clear than today, with it powering to new highs despite the coronavirus pandemic."
     publishedDateTime: 2020-05-22T18:58:00Z
@@ -40,11 +40,12 @@ related:
     provider:
       name: InvestorPlace
       domain: investorplace.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://investorplace.com/wp-content/uploads/2019/10/msft1600e.jpg"
         width: 1600
         height: 900
+        isCached: true
 
 secured: "II7Cycaek9JPgY5Wz8APn0mb3/HZMKVJKHdaPAgXacPxo0rSHZ2h2EzZHjD5l3BLjvcqoyCZsx1q2yK8j/O/+vVJgZGyUmRx++S6rzCNqpBKfGVwwx3/9o7Ck3+nVE73UbKOlm8FI5WAKYthWsR0H5mov4FgWoQKWjX1dlSC5mvCIRhSv3Z/l5764+IPKq6LfpdXw5itY5wmx3mIbz/bbJZqwCDwHi6Vsm4ODg5/fLNzzf6DR6i8QTKAqQIRBLkG0Ly5AA5z6/2OnGFPsxQjfk1GdPhNz2bndSAaEUJa4QBPrUIj8VsrfISOKjznIsp5CrAZTRNn05/CgldFFjLEFte7MyXkJM4LjIFJngqQ9bRV2SQz2uycx1rzjo0jC1rSC+GMO6yceb4v2rkWBBStReetPzZD0DIYCciaa9d7X60NguA0O5/IOAFW/juAqBGsM/fVAp68WbDW2Ooml6gWFws3rSw86Pli5fujyoSTLo8=;W+EDNz6RgZF8bxO6Q4KflA=="
 ---

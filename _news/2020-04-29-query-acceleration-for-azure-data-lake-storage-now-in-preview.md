@@ -29,11 +29,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 124
+    quality: 114
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/92cec444-9b04-4e3c-9250-2af9a918d97d.png"
         width: 1024
         height: 644
+        isCached: true
   - title: "Azure Blob Storage enhancing data protection and recovery capabilities"
     excerpt: "Enterprises, partners, and IT professionals store business-critical data in Azure Blob Storage. We are committed to providing the best-in-class data protection and recovery capabilities to keep your applications running. Today, we are announcing the general availability of Geo-Zone-Redundant Storage"
     publishedDateTime: 2020-05-11T13:00:00Z

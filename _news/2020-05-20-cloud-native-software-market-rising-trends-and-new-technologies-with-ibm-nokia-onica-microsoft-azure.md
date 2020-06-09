@@ -5,8 +5,8 @@ excerpt: "A new business intelligence report released by Advance Market Analytic
 publishedDateTime: 2020-05-20T07:04:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-native-software-market-rising-trends-and-new-technologies-with-ibm-nokia-onica-microsoft-azure-2020-05-20"
 type: article
-quality: 71
-heat: 131
+quality: 61
+heat: 121
 published: true
 
 provider:
@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Cloud-native Software Market Rising Trends and New Technologies with IBM, Nokia, Onica, Microsoft Azure"
 
 related:
@@ -35,11 +36,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 70
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Hybrid Cloud Management Platform Market Is Thriving Worldwide by 2025 | Microsoft, IBM, Dell"
     excerpt: "Latest Research Study on Global Hybrid Cloud Management Platform Market published by AMA, offers a detailed overview of the factors influencing the global business scope.Global Hybrid Cloud Management Platform Market research report shows the latest market insights with upcoming trends and breakdown of the products and services."
     publishedDateTime: 2020-05-25T05:17:00Z
@@ -48,11 +50,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 61
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Login VSI Announces Native Support for Microsoft Azure"
     excerpt: "Login VSI, the company dedicated to maximizing the end-user experience, today announced the general availability of Login Enterprise with native suppo"
     publishedDateTime: 2020-05-20T12:49:00Z
@@ -61,11 +64,12 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://mms.businesswire.com/media/20200520005045/en/792654/23/LoginVSI_logo_RGB_primary_110419.jpg"
         width: 1200
         height: 627
+        isCached: true
 
 secured: "oTo9sTL78eULJdvOP77AjNXzMChoF6tbQnm4tY7xj36D0uBFC7Diy4yJ87swdlQukF9u2zf31Pp1SUzFlmoX4LiqGh8Iy7ElnVQXTRN9mTZUaPUSJcnOIpUX0uBQTzdG9K7MomnThdpIFzVe8iICTh94vGgeh2bR4vlszPMdgNASJc7CbEwa61Vz9wMTs3Dw4aUe1HzvTnx9TenfuadtPoUMiDOcwydJ7NMCJEJCIcWW3B7M2mww78zWIWbvPa0Q95aKdDntefP1wbQ5NXhmsmhCebjpf+SIzqkEphXxT4bIwSygzwVBb5B4pHBsHJwS;aHZaB/tbkuVt74qmyFyk2g=="
 ---

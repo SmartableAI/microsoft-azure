@@ -30,11 +30,12 @@ related:
     provider:
       name: CSOonline
       domain: csoonline.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://images.idgesg.net/images/article/2020/05/istock-1156386758-100842178-large.jpg"
         width: 1200
         height: 801
+        isCached: true
 
 secured: "hefd+ztxsnO4BgvNcO9J6lxVw+lIGc2EP1CAr/8mhaQGOxgv+lj5EXoxmZ+yDrnGzpgPplNLQiUAP88MnrE25FwIbggmCA1SwR5+vZrXNLvbl245bPNw63Ai4eXhBji1wMu/GpgWF/ljiA/qvElPbV8cu1RCq7EgNBJ7MlM6jE0LX6Orunbg4zIUM3N0SNX5zbMFBECKDKJ0G1dekMQHEvHPzbIeEVg2fVUUSLbWMqts30I8LSAYA2m7Z7WeGY+2M8cNyVI5ziz2xDZaiiGrv0cRfZWP/VdcfLqWncNK5w3QQ+dp2geFzzCa0SXzLN0FD4P/smdbJr2OGJ3luQmVvQ==;3+yjF7ArLVEXyCJFM/+uEA=="
 ---

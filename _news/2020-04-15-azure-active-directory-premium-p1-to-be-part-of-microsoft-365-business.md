@@ -5,8 +5,8 @@ excerpt: "Microsoft 365 Business subscribers had access to: Microsoft called out
 publishedDateTime: 2020-04-15T15:00:00Z
 webUrl: "https://www.petri.com/azure-active-directory-premium-p1-to-be-part-of-microsoft-365-business"
 type: article
-quality: 47
-heat: 47
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -20,8 +20,14 @@ images:
   - url: "https://www.petri.com/wp-content/uploads/sites/3/2016/08/Microsoft-Azure-cloud-hero.png"
     width: 1280
     height: 720
+    isCached: true
+    title: "Azure Active Directory Premium P1 to be Part of Microsoft 365 Business"
+  - url: "https://petri.com/wp-content/uploads/sites/3/2016/08/Microsoft-Azure-cloud-hero.png"
+    width: 1280
+    height: 720
+    isCached: true
     title: "Azure Active Directory Premium P1 to be Part of Microsoft 365 Business"
 
-secured: "isYHPCGyzD44L22QBVSUg4jvcgYDRchLKemdNGOeScjKWxy7vj3VwI++HD/TGoDkYqm78p/+a8NGt8G9eWo1sS/9l4a4+4LO+vebpxohgmmyljrfdBSG8JuR4Fb9S53HPopg8XyrnoD9XnUwaaAsnKGwbmidaPd3y9EZ/eDroNWtPbeOE0MiVNWdY3679yHVtrZ/wUR9YiQ8bqfS7w2O5v9yq1s3HQ78fI88oemCRYMf4bgq9dDSRNmBuJYjEdriz7k5SIAI6ixbYLv4rGoe3uePbRMEooQTLIDyxQex9b8W+rOzl2YE+ywDLeiBm/lsoc2OUJdYe0ubCqhTL+MPZObYwOrppetSL0pczPzw+d1KMP6CrSvIlXdNxb6E740P7YJqKdCLQzevVjNYc9fWf2XcG+a04YV7zIKiyyOhq4cqXLhNHWnRx6IEYGHI/9KA4gLRoWPRWW8EioDoYcA6zmtSiDxnHkZXqEZOcG+xcZs=;4Z4pDkY8tbI9WUPIzBFGRQ=="
+secured: "2DTuL4jFk1Km/+NoBFRkxAlkMye2UUNA6VPzJJIR7Id2e7K6UTCLkVTBgMmml9lWbZYFZK/nWKsAQIFJqu4cJ5f+2Xa5IL+qTNqOTSS5ItOEAdv5sN4ouosTg33rslx69GoDrZGc01MqiXzrMsRW90ttDTbuvT0RR6CZ5HL04MSY/d7NIAzJyOfctVdBszd0BYQ2VFX6Ks5V9dDgx0HYxFotp4JlxcOzC4jpbPOOYjTR8CFuUSWA9d4qlymUCA2dhB+k5zgGj3X9tgVoFNhMPQ/O37/bfx+i+mqy0UREaml9AeCdFJbtngsiYVfhB8Iw;FdIqNsvkl6q1lJYqsUas4A=="
 ---
 

@@ -5,7 +5,7 @@ excerpt: "Recently, the Pentagon IG released a report on the JEDI contract and f
 publishedDateTime: 2020-04-20T10:10:00Z
 webUrl: "https://www.govexec.com/technology/2020/04/govexec-daily-oversight-and-jedi-contract/164732/"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ images:
   - url: "https://cdn.govexec.com/media/img/upload/2020/04/19/shutterstock_746396986/open-graph.jpg"
     width: 400
     height: 400
+    isCached: true
     title: "GovExec Daily: Oversight and the JEDI Contract"
 
 related:
@@ -33,11 +34,12 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 101
+    quality: 81
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2019/11/microsoft-630x473.jpg"
         width: 630
         height: 473
+        isCached: true
   - title: "Microsoft: Amazon AWS lost the DoD JEDI contract because of its high pricing"
     excerpt: "Yesterday the Inspector General for the Department of Defense released a report about the JEDI contract. Inspector General found that DoD’s decision to award the contract to Microsoft was consistent with applicable law and acquisition standards. You can read more details on the report here. Microsoft yesterday published a blog post to share ..."
     publishedDateTime: 2020-04-16T06:03:00Z
@@ -48,11 +50,12 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 59
+    quality: 39
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/04/Microsoft-JEDI-DoD.jpg"
         width: 1265
         height: 745
+        isCached: true
   - title: "JEDI war continues for Amazon, Microsoft"
     excerpt: "Act on the news with POLITICO Pro. — JEDI latest: The Pentagon’s inspector general is out with a polarizing report about the JEDI cloud computing contract awarded to Microsoft over Amazon last fall — but the fight between the two software giants is far from over. — On the antitrust front: A potential bid from Liberty Media — which ..."
     publishedDateTime: 2020-04-16T15:00:00Z
@@ -61,11 +64,12 @@ related:
     provider:
       name: Politico
       domain: politico.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
+        isCached: true
   - title: "Amazon, Microsoft offer little relief to cloud clients"
     excerpt: "Then he contacted Amazon.com Inc, asking to “explore creative financing opportunities” for his monthly cloud-computing bill. The response was succinct: “Nope, that’s the way it is.” The ability to rent computing power online has revolutionized the Internet economy and turned a trio of companies — Amazon, Microsoft Corp and Alphabet ..."
     publishedDateTime: 2020-04-18T16:08:00Z
@@ -74,11 +78,16 @@ related:
     provider:
       name: The Taipei Times
       domain: taipeitimes.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px.jpg"
         width: 1200
         height: 1200
+        isCached: true
+      - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
 
 secured: "Fc/U1gRmt5heiFzXpTRkU0C7QB6kiz6jlM5xdKRUGuPVVHfa6ETuMmmt0CMAg16r0Doi7Qq1qSkhRMCj3MdEA441w8zpunF+Ee/nuQkAOyivOEgcwplAUaXkLOZbl5VVsv77EOMLW0CIhWUJoolRn8RTm9Q2s7C4LGYBlEQ9b5bWUjqx0mziMCsuSjHVjsie1gFXXdNAhZIVY8IDbqd1/5vtcERLHItZtbLIMTk1OMepFdrVK2V5SJjXKKSYsx7fgvDmbgi97q1kXf8j6RWsV0s8ub4ysAmI/srBZMMe3xfQbOggR0J1yLUn3NhImlDS;0OnRT15WZj6XDN1knpCgug=="
 ---

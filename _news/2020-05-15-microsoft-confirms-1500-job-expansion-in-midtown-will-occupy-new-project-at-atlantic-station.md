@@ -5,7 +5,7 @@ excerpt: "Microsoft’s expansion has been discussed in economic development and
 publishedDateTime: 2020-05-15T19:20:00Z
 webUrl: "https://www.bizjournals.com/atlanta/news/2020/05/15/microsoft-confirms-1-500-job-expansion-in-midtown.html"
 type: article
-quality: 20
+quality: 10
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ images:
   - url: "https://media.bizj.us/view/img/11663643/microsoft-2020-05-15-at-24326-pm*1200xx1227-690-0-66.png"
     width: 1200
     height: 674
+    isCached: true
     title: "Microsoft confirms 1,500 job expansion in Midtown, will occupy new project at Atlantic Station"
 
 related:
@@ -31,11 +32,12 @@ related:
     provider:
       name: Bisnow
       domain: bisnow.com
-    quality: 31
+    quality: 21
     images:
       - url: "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2020%2F05%2F5ebed9d0342a5-building92microsoft.jpeg&width=1200&sign=cK4ZcVn6e_apfNCGe0YqeqAq34AMrGFnuIU0rk3ZbRA"
         width: 750
         height: 525
+        isCached: true
 
 secured: "C11CtOt74qrbQVh9+nV61cRodc4Tq7WUIdbSzsDYSppTpShzU1UomxxaP5Ox9CfdDaZ5FNYTxAnBk6CkfzM1Xx0rIktkHwhGgFFybJv0Ap7nsDKknqOmi+d0L6TGcLoJQt45YeRhoZc2XaEAkvHU58GeQZdjCsWXa97683TvRC4w4QQ2AEr0tNfIslHqATevFJOE7tnD9ugV8cVgAR8q5mZGTjpvos6ofW6fJGZMvpXmugGKKl0L4mDIo3Apv4/RhpjwwRIY2SIxovQ4WFnYXH87NuwVaXb03D6v/USJGIWQIvCAL6GlJ5ShXPJ/JQM0q3tvbfkyUdEKXD6Co8Uc9Y/wx6GkrSnxCIZv62BESNqcM8NrNKYDIhKt+iWFG9BwGm80bHFIVRgdlzoB4CH6wwIWe7Jebb1Pc4Vnj8d8UDHdlAW4FGeYiYOrcVOE49cE2p8m53Nek3jVcw+sNqGyDaUFIYQ7nzU5hHMMB4InTQk=;D7yY/rDsI0WsRgjm7EWKKQ=="
 ---

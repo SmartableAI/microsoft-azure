@@ -7,7 +7,7 @@ webUrl: "https://www.law360.com/articles/1265358/defense-dept-can-revisit-bids-o
 ampWebUrl: "https://www.law360.com/amp/articles/1265358"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1265358"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
@@ -29,11 +29,12 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://media.bizj.us/view/img/10988802/rtrlnine110024*600xx4350-2900-100-0.jpg"
         width: 600
         height: 400
+        isCached: true
   - title: "JEDI gets partial re-evaluation, court says"
     excerpt: "A federal judge is giving the Defense Department until Aug. 17 to accept proposal revisions addressing storage pricing, effectively extending a nearly three-year-long drama over the potential $10 billion enterprise cloud contract."
     publishedDateTime: 2020-04-22T23:52:00Z
@@ -42,11 +43,12 @@ related:
     provider:
       name: Defense Systems
       domain: defensesystems.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://defensesystems.com/-/media/GIG/EDIT_SHARED/Cloud/pentagoncloud_0.jpg"
         width: 760
         height: 368
+        isCached: true
 
 secured: "3qByZ2MpgqFo3t3ZijN3H8kHVNBFP8nz3rEKhgrnkOt/E06bY0QlMmYA8boHD+Gm29ev8qjFGUqKJw0pkClusvLhC22HdzoWDloOwOyXdScqQ8iA4KwGq+U///luAaazwAAj01DrcRQN1W90ujuWX5SOLRPQpjBfB/rjcTv1f2I4Ud0OfXzxoDjz1h3ZcigNoCYxqeYbbtanEVRoO4ThzFb/TJg6EpnkobztqhVlgSLQjw6kZjkS3SyISQvywQWSHNm28s3tNShH6b56HAASbrxAplZvGahOhk1CM/1FA2tsmHqIIBmYejP/ZsJ90uUO;QFq6JgU5QOn5XkoK2syAvQ=="
 ---

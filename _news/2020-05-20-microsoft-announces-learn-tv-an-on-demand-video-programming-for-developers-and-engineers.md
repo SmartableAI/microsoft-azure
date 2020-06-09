@@ -7,7 +7,7 @@ webUrl: "https://mspoweruser.com/microsoft-announces-learn-tv/"
 ampWebUrl: "https://mspoweruser.com/microsoft-announces-learn-tv/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-announces-learn-tv/amp/"
 type: article
-quality: 53
+quality: 33
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ images:
   - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Microsoft-Learn-TV.jpg"
     width: 1931
     height: 1229
+    isCached: true
     title: "Microsoft announces Learn TV, an on-demand video programming for developers and engineers"
 
 related:

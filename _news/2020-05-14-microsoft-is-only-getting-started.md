@@ -27,11 +27,12 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://cnet1.cbsistatic.com/img/LXu-8fpS1ZGM_hV9mzNKGEu8Vqo=/756x567/2019/02/18/62ea128f-6309-41fe-bc76-dcbfc69b5aca/microsoft-msft-hololens-2-1436-2.jpg"
         width: 756
         height: 567
+        isCached: true
 
 secured: "RJq00cSylVwjLilppijNosGfPgggWWNJwuowC0aTxxMVHOnePG4q0sCxr2dEhntNFywtzcbb3iSco2AKPuwfwjfTVh5pcUvIaMmVpRubOw1hVy1pQ7dtRabcPu4jEmkPUqdw70RcCRh2K2bux/6ptusv+C6/mH54QCKe+cZ9oVIxLgyCitiyuaIYixgmyEOJu1GnG3a0sP95yKGfSLEZaBsFKHOdgh6Q7iirMNrUbAt8SJVjdgPn8NV3KYzrWywv7+4XVqAKl4wA8E0uL3vqfGl7eIGcPLko0MlRp1tF2FWs2SZK9qf9A5tR7P+axADfji9VoknbGTjIY3WG1HeTyLrM9NlU8vdMNK8BxdP9bJe2g7w4jk3XeeMOoe49ACJfPVefOZ5Bx1OroUrm3AkGDaxMIsnHAaGuclaDeTz4DfCzKf/OBimrOBdRFpC4ongJUDf3KVNOj1lJ6iWfKYlcMMzLBGJu6Wc4k1aXyJ4C5kM=;N4DwDuDXNuCRK9GCL3+nBA=="
 ---

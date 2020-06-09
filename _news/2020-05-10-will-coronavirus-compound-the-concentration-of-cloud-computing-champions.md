@@ -5,7 +5,7 @@ excerpt: "As enterprise organisations are forced through digital transformation 
 publishedDateTime: 2020-05-10T09:52:00Z
 webUrl: "https://telecoms.com/504201/will-coronavirus-compound-the-concentration-of-cloud-computing-champions/"
 type: article
-quality: 31
+quality: 21
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ images:
   - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2017/02/Cloud-Money-300x203.jpg"
     width: 300
     height: 203
+    isCached: true
     title: "Will coronavirus compound the concentration of cloud computing champions?"
 
 related:
@@ -33,11 +34,12 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://images.idgesg.net/images/article/2018/10/typewriter_are-you-ready_prepare_contingency_disaster-recovery-100777507-large.jpg"
         width: 1200
         height: 800
+        isCached: true
   - title: "How distributed cloud will affect data center infrastructures in 2020 and beyond"
     excerpt: "Distributed cloud services are proving their mettle in facilitating advanced business operations. Learn more about the outlook for this concept for the future."
     publishedDateTime: 2020-05-04T13:53:00Z
@@ -48,11 +50,12 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 97
+    quality: 77
     images:
       - url: "https://tr4.cbsistatic.com/hub/i/r/2020/04/30/61a5fc1e-5f9f-4a11-b0e7-62340e7bbd64/thumbnail/1200x675/bf9d1ca7025b33658e94dd76217e5b43/20200427-lance2-karen.jpg"
         width: 1200
         height: 675
+        isCached: true
 
 secured: "wwOCqLOKxP61Ldu47Gm22622LI17F/dtwgarOjSxAKNGO/QtjJbN6MDq/VhyB4Mz70BHgG84QhdjWeUMec9/UB0KIcZkBj85KJ0ffj+4tfhMMDOyEWGB/PK2dBHmSLb4I2jOhUeztPO+xUQgn/ylreqzAlrC0mV3KDHus2459BQnX+Eropmblvf2hudASeH+crw5JLGHJkifZZMNhhK452zXlSGcVxKsyz3cAWiPQkoCOIpXW81A2udss5Mtx8po58g6Uqn07AiC+ZqkPIft1VqFzLMWTp1IQPRQzqDu7x222gmuUtbWya0rO9qbuowAaU+HgtCBUZ83zZWfetOse67YqLiVFMm1rxwxVX6j7VYSdF+887duxc0fFtAusuA9zIOtxHrbCNuXis/g2BzY8+LuK8RAdSuUTcc/8PTuQiZHk0aqE5p/sbJfQMcgHJyWCRB9HAH4/Hu3e4NYaqit9YbW3IV61EGS6qCJCtkCXPs=;H5HQaVgCoSzhb/7sN4+w5Q=="
 ---

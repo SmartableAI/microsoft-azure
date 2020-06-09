@@ -5,8 +5,8 @@ excerpt: "Microsoft Azure customers worldwide now gain access to free use of Qor
 publishedDateTime: 2020-04-15T11:11:00Z
 webUrl: "https://www.marketwatch.com/press-release/qore-technologies-free-3months-usage-plan-for-qorus-integration-engine-now-available-in-the-microsoft-azure-marketplace-2020-04-15"
 type: article
-quality: 62
-heat: 102
+quality: 52
+heat: 92
 published: true
 
 provider:
@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Qore Technologies' Free 3Months Usage Plan for Qorus Integration Engine Now Available in the Microsoft Azure Marketplace"
 
 related:
@@ -35,11 +36,12 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+        isCached: true
   - title: "Microsoft Azure holds free 'virtual hackathon' for professionals in Asia to develop helpful technologies"
     excerpt: "Microsoft, Grab and the United Nations Development Programme ... Through this activity, teams can collaborate online and use Azure technologies \"like computer vision and natural language processing to create innovative and transformative solutions.\""
     publishedDateTime: 2020-04-13T18:08:00Z
@@ -50,7 +52,7 @@ related:
     provider:
       name: GMA Network
       domain: gmanetwork.com
-    quality: 30
+    quality: 20
 
 secured: "66Z/75mLqBCAsa9RIwaQmxTv8rUpIF9V69GEEEPhpvhX8xW7HBVb4XRAU/81FIyinZYQsG73vllePg6d9H+vpD3Y5DI1FUXFkLB8P2gL1AkaZgJ7SF0ZmsUN5dSacXDuYvEUv8Jql25T0OVbZKdMVO+XsqMugiAWpwO3roLsZkwOOG1IKC9b0WgYIMYwnmmFkRXaLjqnn4VU8w/WO7K/+E+3qkN4a2KvWoHSSuZxeef26bHIsYvblgS+1pKw/GgUSt76Zz2gUOPkOHf3S+1J88ZYCSbopLK0/U05gMBKCPIORojOzh1uqOYg69Xcp1uh;jT10CtPNckkJRNluDOLfCQ=="
 ---

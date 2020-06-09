@@ -7,7 +7,7 @@ webUrl: "https://www.barrons.com/articles/a-giant-pension-sold-apple-stock-micro
 ampWebUrl: "https://www.barrons.com/amp/articles/a-giant-pension-sold-apple-stock-microsoft-intel-bought-uber-51588871495"
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/a-giant-pension-sold-apple-stock-microsoft-intel-bought-uber-51588871495"
 type: article
-quality: 58
+quality: 38
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ images:
   - url: "https://images.barrons.com/im-184765/social"
     width: 1280
     height: 640
+    isCached: true
     title: "A Giant Pension Sold Apple, Microsoft, and Intel Stock. Here’s What It Bought."
 
 related:
@@ -35,11 +36,12 @@ related:
     provider:
       name: Barron's
       domain: barrons.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://images.barrons.com/im-189920/social"
         width: 1280
         height: 640
+        isCached: true
   - title: "A Huge Pension Bought Up Microsoft, Alibaba and 3M Stock. Here’s What It Sold."
     excerpt: "Ontario Teachers’ Pension Plan bought Microsoft, Alibaba and 3M stock in the first quarter. It sold nearly all its Amazon stock."
     publishedDateTime: 2020-05-23T10:00:00Z
@@ -50,11 +52,12 @@ related:
     provider:
       name: Barron's
       domain: barrons.com
-    quality: 58
+    quality: 38
     images:
       - url: "https://images.barrons.com/im-189008/social"
         width: 1280
         height: 640
+        isCached: true
 
 secured: "4Z2BDWB8rvh9ZJNm7BGDfhhTVVAB2GijSMrn+7JOxweqTy/hHtWKo4eU/GiAfx2xXCUY6g+mdQFbtdSq9ipJyU+b8uUFwYevoYIoXS+Yzs66b3+RttWX9xxJRL34y74yaplGy1g2DIkW2Cx3p9K4QvTgIpZfzwiGmmCxV95PAllKEZ3voOrY6FSMm/AxaGLza0HXQ/IgSpZRIu3Tcsr0zpFaQxYdnfyziWoo1uIA6eqdJPjEh86qHHKV5PFEs9y0MT7QH7k2Ih0DfqUgNrXNYmRPSuR7ZBUyDmqyqapMv/Y6LH6MWpqFPWTv7tuZgE3S;29X+5J7efWSZbSPMnfjw8w=="
 ---

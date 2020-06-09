@@ -7,8 +7,8 @@ webUrl: "https://www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-ba
 ampWebUrl: "https://www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-bandwidth-logitech-blackline-microsoft-and-mercury?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-bandwidth-logitech-blackline-microsoft-and-mercury?amp"
 type: article
-quality: 59
-heat: 59
+quality: 49
+heat: 49
 published: false
 
 provider:

@@ -5,8 +5,8 @@ excerpt: "As organizations continue to expand their use of IT and the cloud, pro
 publishedDateTime: 2020-02-05T08:00:05Z
 webUrl: "https://azure.microsoft.com/blog/backup-explorer-now-available-in-preview/"
 type: article
-quality: 94
-heat: 114
+quality: 84
+heat: 104
 published: true
 
 provider:
@@ -25,6 +25,7 @@ images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f68dd946-126d-46ef-a94a-c336a605aa9b.jpg"
     width: 1024
     height: 693
+    isCached: true
     title: "Backup Explorer now available in preview"
 
 related:
@@ -36,11 +37,12 @@ related:
     provider:
       name: Redmond Magazine
       domain: redmondmag.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/Cloud3.jpg"
         width: 647
         height: 450
+        isCached: true
 
 secured: "0W1nmO3c0sp6Fv6ZoqZHhFcoalJTJol0premLXXW+GN0iYhtaF9LZL76A+o1NKjefdhTrtARSk5gzIunU6Qh4ObTDJ5OpAr6fVNJGTfo4hDmKbR+KQU16rpg1uDhNoQFyslyt2RhGthbkHKAuhvmCUXfcE7RCHVECHKhOoElGfUuVarAi8r8IgbbZzU6638TqukyxI9Qx1NMVpzSUC60N5CwwRBohLlsIV0R+RkwJBDUEUd/mVqGtckBQQMWkLjl/e/ivVquQq2P49BgV0ud0MkN6cn5bmtECKZINPmoksn8txfBhwekuqs+M5tYwbeWIFVnmi+xGKozNGC9hs3y0g==;PEEdWah81x11/6+PLM/8zw=="
 ---

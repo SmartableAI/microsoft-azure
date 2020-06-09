@@ -7,7 +7,7 @@ webUrl: "https://www.nextplatform.com/2020/04/28/openshift-kubernetes-and-the-hy
 ampWebUrl: "https://www.nextplatform.com/2020/04/28/openshift-kubernetes-and-the-hybrid-cloud/amp/"
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/04/28/openshift-kubernetes-and-the-hybrid-cloud/amp/"
 type: article
-quality: 62
+quality: 42
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ images:
   - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/skyscraper-cloud-looking-up-vertical-1024x1024.jpg"
     width: 1024
     height: 1024
+    isCached: true
     title: "OpenShift, Kubernetes, And The Hybrid Cloud"
 
 related:
@@ -35,11 +36,12 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 99
+    quality: 79
     images:
       - url: "https://zdnet1.cbsistatic.com/hub/i/r/2019/10/17/80f9289a-950c-41d9-9434-64906e178775/thumbnail/1200x675/1503a8d0f23cb307b71eda70d8ddcada/openshift-container-logo.jpg"
         width: 1200
         height: 675
+        isCached: true
 
 secured: "E/6YU+hC1w2kq5wkDYHG+XGz4v50WvAxgoRgPAB+Xr49bGhcFjuqKNf+v/BkoGGqvltfj779ul8VaPoD0PUrB1ti7zHnTyj6+0UptCdY8yKOoa4wAyKPBuCQuGGD4ueZqKh2vWw7OPKsWM5aIj5MVRIdWD8L4P+NDbZKVrlg2vVTVTapiZkJpq/EcjZljbVuQ9vEbneW40TWCJaOXxx+B577MFYvCAjvmftdFU/n/pHeXqmVEC//YbKZ4eQSkfL5rp7xjhzDFNiGQQl2SvUsOAkyLeAuc12ICSInezKNs21ZudBZ9sJuzm9mK/9VzFFW;haMWVZjzHv+fysznLTSDSg=="
 ---

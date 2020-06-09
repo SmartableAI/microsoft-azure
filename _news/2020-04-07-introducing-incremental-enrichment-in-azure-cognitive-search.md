@@ -5,8 +5,8 @@ excerpt: "Incremental enrichment is a new feature of Azure Cognitive Search that
 publishedDateTime: 2020-04-07T09:00:45Z
 webUrl: "https://azure.microsoft.com/blog/introducing-incremental-enrichment-in-azure-cognitive-search/"
 type: article
-quality: 109
-heat: 109
+quality: 99
+heat: 99
 published: true
 
 provider:
@@ -25,6 +25,7 @@ images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/11209cb0-9fc2-4d87-8210-62744f0df29a.png"
     width: 883
     height: 462
+    isCached: true
     title: "Introducing incremental enrichment in Azure Cognitive Search"
 
 secured: "iF5z+EDin5fVWVbtDCiErZR4WKHz10YQ3Rh0JxgxTpoDAI2lkoGEV6Zl0pM3ZHKTu6n3RhA6MuIQv4NODD8y6Er5D66AvoB9/wyumME1X06xtNnO9mnDDy94GTH6kudtam7Hp0+QMB/6gjrFII/DFOqlMDjasZ+hTRnAn47BwURqbmyyNGQNauR+VACwmOEDPwQWmClXtwiUahWVBw7jLoVbera7QO11wj/1sBJP5eErHLC1XbXvirNHU9X3E/iq/Cbyto0VtbkNZiN5rWvnSoeVFh2VsYrMmEHadg2GBq4JeDWp2ketgdnqrCG9quDnCDgpcZBkJl4Fr0MKZcJqcw==;UvAWu493YFNUXXOM2iIrbQ=="

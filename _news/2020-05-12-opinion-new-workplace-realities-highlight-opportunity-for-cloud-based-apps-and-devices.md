@@ -7,8 +7,8 @@ webUrl: "https://www.techspot.com/news/85197-opinion-new-workplace-realities-hig
 ampWebUrl: "https://www.techspot.com/amp/news/85197-opinion-new-workplace-realities-highlight-opportunity-cloud-based.html"
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85197-opinion-new-workplace-realities-highlight-opportunity-cloud-based.html"
 type: article
-quality: 94
-heat: 134
+quality: 74
+heat: 114
 published: true
 
 provider:
@@ -26,6 +26,7 @@ images:
   - url: "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-12-image-17.jpg"
     width: 2700
     height: 2051
+    isCached: true
     title: "Opinion: New workplace realities highlight opportunity for cloud-based apps and devices"
 
 related:
@@ -37,11 +38,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "New Workplace Realities Highlight Opportunity For Cloud-Based Apps And Devices"
     excerpt: "One of the numerous interesting outcomes of our new work realities is that many tech-related ideas introduced over the past few years are getting a fresh look."
     publishedDateTime: 2020-05-14T12:46:00Z

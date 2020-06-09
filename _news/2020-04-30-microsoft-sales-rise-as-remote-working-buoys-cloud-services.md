@@ -5,7 +5,7 @@ excerpt: "Microsoft so far has thrived during the Covid-19 pandemic because of i
 publishedDateTime: 2020-04-30T14:15:00Z
 webUrl: "https://www.benefitnews.com/articles/microsoft-sales-rise-as-remote-working-buoys-cloud-services"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ images:
   - url: "https://arizent.brightspotcdn.com/dims4/default/f81971f/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2F19%2F0d%2Fd64fb71f4b8da9c9945463d4b153%2Fmicrosoft.Bloomberg.jpg"
     width: 1200
     height: 630
+    isCached: true
     title: "Microsoft sales rise as remote working buoys cloud services"
 
 related:
@@ -33,11 +34,12 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 117
+    quality: 97
     images:
       - url: "https://zdnet3.cbsistatic.com/hub/i/2020/04/29/f325a6df-81d8-47c5-bc6d-961b37642592/msft-q3-2020-commercial-cloud-revenue.png"
         width: 1337
         height: 779
+        isCached: true
   - title: "Microsoft Sales Rise as Remote Working Buoys Cloud Services"
     excerpt: "Microsoft Corp. said quarterly sales and profit rose, buoyed by demand for internet-based software and cloud services needed to accommodate a shift to remote working during the coronavirus crisis."
     publishedDateTime: 2020-04-29T20:16:00Z
@@ -48,7 +50,7 @@ related:
     provider:
       name: Bloomberg
       domain: bloomberg.com
-    quality: 72
+    quality: 62
   - title: "DHS Shares Cloud, Microsoft Office 365 Insights for COVID-19 Telework"
     excerpt: "The latest COVID-19 telework cybersecurity guidance comes from DHS CISA, urging organizations to ensure their Microsoft O365 and other cloud services are secured and using multi-factor authentication."
     publishedDateTime: 2020-04-30T16:09:00Z
@@ -59,7 +61,7 @@ related:
     provider:
       name: IT Security
       domain: healthitsecurity.com
-    quality: 32
+    quality: 22
 
 secured: "kYnRyQw7WYCNDG2cL2UqE6C9jJqzs7r3P0SSKIYdLlqtbQH7e1y/ACyVBRxdBJP7FfFcl76qfZZ/O4YXssIFolD9fnV5cJxZBZNedce5H28J3TFRaSg0x3ydjhTVQdpemkqyQJMaTnrp7Bx5ifY5hkBjxzEeYjnIJCFnXHt1ouN2zh8wN8cGSlZ3jFmEaqQ9UDiNu1wuh6PQ/kiaSN7ZolNw+67VGTMVpLZf8kMx5olULlkhptG3Cz3CaZDpFmP16fGZbELsxkpi8/48YqYXOaPYd9VaIwi5FbU9BU/pTCNTAlbQCmnrfPbRBsZrx90TPjNO4POhdYa7LFr2Y8O4zCUTH2GptKXZUVu3BFRjV9WWbcL2HrTVnemJMKT3GOggxK9w+AzMQ/jdkr44+r7jlsxwinIZtttva34HiKkuWFhgpeAiOP+UyRkpyeoZXX+/M7Jn36kyOT6ielBmUUnbKbesVkOWKJOvQjFBw75LFqQ=;vkrh/c4zyHAxQMAGltioZw=="
 ---

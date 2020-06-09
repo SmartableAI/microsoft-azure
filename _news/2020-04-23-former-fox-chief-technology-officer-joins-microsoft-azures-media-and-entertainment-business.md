@@ -7,7 +7,7 @@ webUrl: "https://www.hollywoodreporter.com/behind-screen/fox-cto-joins-microsoft
 ampWebUrl: "https://www.hollywoodreporter.com/amp/behind-screen/fox-cto-joins-microsoft-azures-media-entertainment-business-1291527"
 cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/amp/behind-screen/fox-cto-joins-microsoft-azures-media-entertainment-business-1291527"
 type: article
-quality: 66
+quality: 46
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ images:
   - url: "https://cdn1.thr.com/sites/default/files/imagecache/768x433/2019/06/hanno_basse-getty-h_2019_.jpg"
     width: 768
     height: 433
+    isCached: true
     title: "Former Fox Chief Technology Officer Joins Microsoft Azure's Media and Entertainment Business"
 
 related:
@@ -35,11 +36,12 @@ related:
     provider:
       name: Variety
       domain: variety.com
-    quality: 75
+    quality: 55
     images:
       - url: "https://pmcvariety.files.wordpress.com/2020/04/hanno-basse-microsoft-azure.png?w=1024"
         width: 1024
         height: 576
+        isCached: true
 
 secured: "ZSLfGgEU6csIITGmbz396zS6z9714MMt2v4gpc53xBTOF95q9k2S02PuR3ml/BwJYzVoZXYAkwH7jP4mjUEqqszdfQkj1JTcNgDEWySKXLwZuMpHjYeSv5pUEi8nJ1gUvhxVEm9d3fqrvCB9KmwFlDEQ6BujXUaDpu5LrfZ47BALeXSX6vvFdk5UbvTUjp16dZmGL/X9QXS3zu+fejHHsWWvEQmH1LRQfq1AgymUn8nhwKk0GgMaXjjMlcIX0+YBar1s/Mao4X/6EvZVsXbMvdUAjIc9KmQTOhCJHQdRpSD7p61GepSl6QhFkSSX9VdK3JCI49ldUZfxWFcAKk1WOo+x9y++IdfEHF68d1CUTuybNDZcurD3WEUKkwoj9kwlkLZsd5nZoCpsiuapA5X56RUVSpECfYrJ0hNQ05V/flyKHZRu2frDAMukh9W8o0/j2kMJZ+wukBh0mYYAcxE1r6/f18Z6TQuINaq65k6exvI=;JN7je8oqbnUsJGnRmCdy3A=="
 ---

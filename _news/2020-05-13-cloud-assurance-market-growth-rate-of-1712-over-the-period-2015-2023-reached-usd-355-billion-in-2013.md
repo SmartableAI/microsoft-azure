@@ -5,7 +5,7 @@ excerpt: "Recent report published by research nester titled “Cloud Assurance M
 publishedDateTime: 2020-05-13T17:54:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-assurance-market-growth-rate-of-1712-over-the-period-2015-2023-reached-usd-355-billion-in-2013-2020-05-13"
 type: article
-quality: 55
+quality: 45
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
+    isCached: true
     title: "Cloud Assurance Market growth rate of 17.12% over the period 2015-2023 / reached USD 3.55 Billion in 2013"
 
 related:
@@ -35,11 +36,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
   - title: "Public Cloud Market – Top Companies, Business Growth & Investment Opportunities, Share and Forecasts 2026"
     excerpt: "Kenneth Research has published a detailed report on Public Cloud Market which has been categorized by market size,"
     publishedDateTime: 2020-05-15T11:30:00Z
@@ -48,11 +50,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
 
 secured: "jckxI19/xqxLLqmpZS8HydE+ZJ1LZPZ3/xnypNejJjepFxlJzWDnk8RfIlPK5Gjd3J2gL/KmB3JP3X6cHsDz6c2OnEUg7zobwPJmepzkP7+0LCxfQ3yKuPEY1SEPoJ/F0rIWFfKRN3na6p7sPm4YVCHQF0t5V4qF1h/YiJ3CFzD39NWpu+4OpbeF+s1wm3nah1FGe8rObanZXnI0aS6qjkvTi8iFhJCzUkkX9SiCJF8y0HiLwaQhFh9SdQxfxqCLba5Nt5dS8U1z7v29vyS543fzizB443p2Elu6StHIipBi7UiaGA0JCth5AJ/4MKrv;EnTeCW3EYoXem/aCVKyj2A=="
 ---

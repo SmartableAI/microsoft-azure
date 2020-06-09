@@ -7,8 +7,8 @@ webUrl: "https://www.theverge.com/2020/5/19/21263383/microsoft-build-live-stream
 ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/19/21263383/microsoft-build-live-stream-watch-how-to-event-announcements"
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/19/21263383/microsoft-build-live-stream-watch-how-to-event-announcements"
 type: article
-quality: 102
-heat: 162
+quality: 82
+heat: 142
 published: true
 
 provider:
@@ -26,6 +26,7 @@ images:
   - url: "https://cdn.vox-cdn.com/thumbor/A0qSlkmYYXZrzHTj7PIDFJAR7J8=/0x0:3000x1984/1400x933/filters:focal(1260x752:1740x1232):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66814907/518216764.jpg.0.jpg"
     width: 1400
     height: 933
+    isCached: true
     title: "How to watch Microsoft’s Build conference"
 
 related:
@@ -39,11 +40,12 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 101
+    quality: 81
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2016/09/gettyimages-452481532.jpg?w=1024"
         width: 1024
         height: 683
+        isCached: true
   - title: "The most important announcements from Microsoft Build, its annual conference for software developers"
     excerpt: "At its Build 2020 conference for software developers, Microsoft announced plans to bolster the Azure public cloud and make it easier for developers to build tools for the growing Teams communication app."
     publishedDateTime: 2020-05-22T13:16:00Z
@@ -54,11 +56,12 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 87
+    quality: 67
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106340571-1579197768152gettyimages-860270484.jpeg?v=1590091539"
         width: 4000
         height: 2917
+        isCached: true
   - title: "Microsoft Build 2020: The biggest announcements and sessions to watch"
     excerpt: "Microsoft Build 2020 is over, and everything that was announced is now out there to be learned about. The biggest news coming out of Build this included Microsoft's \"Project Reunion\" effort that aims to bring together Win32 and UWP app development,"
     publishedDateTime: 2020-05-22T17:22:00Z
@@ -69,11 +72,12 @@ related:
     provider:
       name: Windows Central
       domain: windowscentral.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/03/microsoft-logo-ignite-2017.jpg?itok=LlgVw_jV"
         width: 800
         height: 600
+        isCached: true
 
 secured: "N/4B785Qp1vGwRKSrKcj3GJ7NtStGJBMAw6mC4po8B5vKzs9V3TX5KYdkKMZPTfww4IxjHOGmSNLxoUlNgtYc9TJEhc7olu8vC0fgXe1nwIrbR6FPxdn3xwizWKvKa5DPkveLLLL8+gVfhiVxtgLcPDDJG63IsHaE/c5Hdp2DVqBgisvoTIvGEpt4otaUfj52Xk1C204MTQV9KMWRdsNw/H8V7dLbpgjEyEqIjObMAdODfWjYlxIz1ugjUEFngXyxkr5dQfRGY8t8ECTx9fi3dNM2LAJrSbJAXdedVc6PITgvGvcWfquAFa8rJ/W61eC;XHhafFqupGtYSWGS0WBPFQ=="
 ---

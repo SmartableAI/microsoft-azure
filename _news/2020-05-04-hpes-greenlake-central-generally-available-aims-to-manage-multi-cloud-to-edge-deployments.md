@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/hpes-greenlake-central-generally-availabl
 ampWebUrl: "https://www.zdnet.com/google-amp/article/hpes-greenlake-central-generally-available-aims-to-manage-multi-cloud-to-edge-deployments/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hpes-greenlake-central-generally-available-aims-to-manage-multi-cloud-to-edge-deployments/"
 type: article
-quality: 92
-heat: 112
+quality: 72
+heat: 92
 published: true
 
 provider:
@@ -26,6 +26,7 @@ images:
   - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/04/30/f66edada-ce05-4950-8f6c-92359717a853/thumbnail/1200x675/08eac1fa9c322dffceac2936c79fe33e/wdc-q3-2020.png"
     width: 1200
     height: 675
+    isCached: true
     title: "HPE's GreenLake Central generally available, aims to manage multi-cloud to edge deployments"
 
 related:
@@ -37,11 +38,12 @@ related:
     provider:
       name: Help Net Security
       domain: helpnetsecurity.com
-    quality: 23
+    quality: 13
     images:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
         width: 304
         height: 430
+        isCached: true
 
 secured: "vyIIw11LwTa4oy+wZPLH/lmLmVSLjrd+AOgnNu0gVSzhpKvY4ppI7vTzF0csp7rRhOvD7sm8r1uFrXttyxR3Ldj2xh6UG+Uxa3Dsj3FDkwaeV199TgJlaVlcLbdA9rN4JUlklIGoOKgWkc0f9ec7wsz5YNjVhBJyDZaupiPs+Bxo2NyEnSc0l+APgcb2xJddkNFoEziobZ/a9yIWSxhwO3ZL7Fb8pHtELgmOdnpC68Tjb94nu7Q52pNy9MfdvgjSUlLwvlq0e+yRN3AgPhMnOVDPD96yXVDMSc+9F0CinA9uXNj4V7ee0pHgGleFh/tUHJfoEU2Tu5bMwZr0YNrk7b01wwOD8y7Lz+fCwxqiO+uJ1MCc4OTrp1O1/zVnpMi1WgnbWTorOiQPqG88ZM2llWOZExZIWftlZSinwAiI+oH/2ruOpw7kT0D1HJje5DEyJZuNarLvghO7P+bkF8vXne1+WnEigcG5psE8jBluAYo=;PfbtMW63xXOeqGd2Q2dfyw=="
 ---

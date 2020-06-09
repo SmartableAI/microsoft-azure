@@ -7,7 +7,7 @@ webUrl: "https://www.geekwire.com/2020/microsoft-slams-amazons-latest-protest-pe
 ampWebUrl: "https://www.geekwire.com/2020/microsoft-slams-amazons-latest-protest-pentagon-cloud-contract-way-avoid-consequences-bad-business-decisions/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-slams-amazons-latest-protest-pentagon-cloud-contract-way-avoid-consequences-bad-business-decisions/amp/"
 type: article
-quality: 68
+quality: 48
 heat: -1
 published: false
 
@@ -26,6 +26,7 @@ images:
   - url: "https://cdn.geekwire.com/wp-content/uploads/2019/11/microsoft-630x473.jpg"
     width: 630
     height: 473
+    isCached: true
     title: "Microsoft slams Amazon’s latest protest over Pentagon cloud contract as ‘a way to avoid the consequences of its own bad business decisions’"
 
 related:
@@ -39,11 +40,12 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 90
+    quality: 70
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2016/04/20160404_Envision_07-1240x828.jpg"
         width: 1240
         height: 828
+        isCached: true
   - title: "Amazon says big government JEDI award is 'fatally flawed' in latest rebuttal to Microsoft criticisms"
     excerpt: "The JEDI, or Joint Enterprise Defense Infrastructure, deal worth up to $10 billion has become one of the most tangled contracts for the Department of Defense."
     publishedDateTime: 2020-05-08T14:55:00Z
@@ -54,11 +56,12 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 87
+    quality: 67
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106474164-1585941999885gettyimages-939960022.jpeg?v=1585942142"
         width: 5253
         height: 3502
+        isCached: true
   - title: "FedEx Teams Up With Microsoft to Fight Amazon. That’s Good for FedEx Stock."
     excerpt: "Microsoft and FedEx announced an agreement to “transform e-commerce.” FedEx hopes to get a leg up in the delivery battle with Amazon."
     publishedDateTime: 2020-05-18T14:30:00Z
@@ -69,11 +72,12 @@ related:
     provider:
       name: Barron's
       domain: barrons.com
-    quality: 60
+    quality: 40
     images:
       - url: "https://images.barrons.com/im-188060/social"
         width: 1280
         height: 640
+        isCached: true
   - title: "Microsoft claims AWS has used new JEDI mind trick with secret contract objection filing"
     excerpt: "Amazon.com has filed a second, secret, appeal at the decision to award Microsoft the $10bn Pentagon Joint Enterprise Defense Infrastructure (JEDI) contract. So says Microsoft corp"
     publishedDateTime: 2020-05-08T09:07:00Z
@@ -84,11 +88,12 @@ related:
     provider:
       name: The Register
       domain: theregister.co.uk
-    quality: 54
+    quality: 34
     images:
       - url: "https://regmedia.co.uk/2017/12/19/lightsaber.jpg"
         width: 648
         height: 432
+        isCached: true
   - title: "Amazon challenges the Pentagon’s revised JEDI solicitation directly to the department"
     excerpt: "Amazon Web Services filed a bid protest directly to the Department of Defense challenging “ambiguous aspects” of the Pentagon’s revised solicitation for its embattled enterprise cloud contract. AWS’ challenge is in response to a revised solicitation from DoD regarding a specific technical requirement of the Joint Enterprise Defense Infrastructure cloud contract that AWS had challenged."
     publishedDateTime: 2020-05-07T22:19:00Z
@@ -97,11 +102,12 @@ related:
     provider:
       name: Federal Times
       domain: federaltimes.com
-    quality: 25
+    quality: 15
     images:
       - url: "https://www.armytimes.com/resizer/zPIx2t3S-cW9L6O4V1nUbDT6wsw=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/SPQTUFFMHRFI7FZBGH36NHJ5MA.jpg"
         width: 1200
         height: 630
+        isCached: true
 
 secured: "LtJFTmetIxd9/BYpAhZR5jfVpKj4UHTUwp4a3QMVc0ezF1HpPtQ8ruMk0E3tWTcVYQPsmn8BSW/tO0QoSQGtDPC3YvCR08UxZ/VE9KAp930iGNe+DttsinKfbgbJ4FsSHD9WNM5o/bIWFmOWCZoPhaG7ei9uEOb6ZKi1kUInAHsd32ApNH5BPYD2SD/JfndpJ3eTF/nDAf8Nw/41PfQZFw6pjNnqmy4clNZfILfJ4fvUl1hB0XVVFrFy+p3vV5H1coXy+zqXPUAAOvjL3vBnCPyPmAojtSTukw/wIAMTx1elMSMxRWsUdMHX+Ht62MtQJrYJHabHVoCP1SfAUSx2kgZr0MkJ5LosXSJoDeWwCp0FPc2VHyo9PfnomjGGjHNpyB5GYN3GZMnkTBV1AsyPLaM6UltbA+0VK2677pyVmX7J+wiu4J/FT4cKi4t6MN27fb1uzhUrO3DS3nuWoxOMkNqFcosOy87jx/4rpX6qivw=;8Cj2vQiSZJrKeWLbdWCCsQ=="
 ---

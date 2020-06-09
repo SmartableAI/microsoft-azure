@@ -7,7 +7,7 @@ webUrl: "https://www.techrepublic.com/article/windows-virtual-desktops-how-you-c
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/windows-virtual-desktops-how-you-can-manage-monitor-and-virtualise-devices-remotely/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/windows-virtual-desktops-how-you-can-manage-monitor-and-virtualise-devices-remotely/"
 type: article
-quality: 95
+quality: 75
 heat: -1
 published: false
 
@@ -26,6 +26,7 @@ images:
   - url: "https://tr2.cbsistatic.com/hub/i/r/2020/05/11/8c3c63a2-918c-4371-b054-bf9e2fd7bd33/resize/1200x/155f519778ebaa82b0eeecd1b348bec6/tr-new-wvd-interface-in-azure-portal.jpg"
     width: 1200
     height: 820
+    isCached: true
     title: "Windows virtual desktops: How you can manage, monitor and virtualise devices remotely"
 
 related:
@@ -37,11 +38,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 105
+    quality: 95
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8a177079-5ce9-44bd-97bb-ebcc6c30eaa0.png"
         width: 1024
         height: 366
+        isCached: true
 
 secured: "aUjBVzxBLcSg1RrzXG0S8+5yjklmHounxBBUe0nj57sG6d3+kiFP+iHiDlcLIGjRM/jkMorlYxsfGNrA8mMpb8PdWdhDJbOp1D1vf6iq9zX0vo93F/Noc5fD/FKwxN2Wp1RrjNrtJhweB15GDui12VtznWj4F3SpUJC5Jo8iMKgKlm6i8sBSl+Z8MZLyFdcRDl54u4TJhliIMcYB87PywGifhMyyT704lwz2GsxoRGvAdaWYvBBKl4GT8m7sp5OMgUo0dFVh3xwtCg8znHMZQX221aUaLd8u7ZhY9qFp0wEnVJpNfvRlt+x4c7Dhcbwp;FKkU0Z7ssl0bKxCOZC2rgQ=="
 ---

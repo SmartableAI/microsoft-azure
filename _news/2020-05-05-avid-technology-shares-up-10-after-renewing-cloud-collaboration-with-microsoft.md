@@ -27,11 +27,12 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/03/660bb6e9-3d0d-4d1d-aaf1-2ed92febe618/thumbnail/1200x675/bb2ba3d4b429e7461f5a07f045166d0e/wvdmsixappattach.jpg"
         width: 1200
         height: 675
+        isCached: true
   - title: "Microsoft and Redis Labs collaborate to give developers new Azure Cache for Redis capabilities"
     excerpt: "Now more than ever, enterprises must deliver their applications with speed and robustness that matches the high expectations of their customers. The ability to provide sub-millisecond response times, reliably support the demands of enterprises from small to large, and scale seamlessly to handle millions"
     publishedDateTime: 2020-05-12T06:00:09Z
@@ -49,11 +50,12 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 37
+    quality: 27
     images:
       - url: "https://i.insider.com/5ce5de645234d2176d06f876?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
 
 secured: "s3kEfTZw8veh8t6gCIZ8/LZAMub0ona3vgydtHHoQRH1Z3DYZgeE+dHUmo3TrcNKxCwqCQ3ae5obaZpPUoaUZhfstbA3TwoJilviajV1Mnu2Em1X+UESzQTMYbZ2PzLvooAjoqpMFJf62Q1KHMvm3F9fLJPejC1l64dgtWoo0AoaESg+6K3lKHx8LCEHETADdvZkpJLPDc7g7cRpSkdU+R7RbG7jlxCDSY/FRfznM2fGfkBbtoGCGLuGqiVu4sE3uQrVA75cL4LgtSsIwCTOz2d371EI/hJXjl+nkiiRHrDG+qG9rwRRaYPfu+hCSQlQ;91Vdz3XRTv8y0H7HviRXXg=="
 ---

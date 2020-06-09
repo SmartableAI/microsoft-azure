@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/microsoft-365-a-cheat-sheet/"
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-365-a-cheat-sheet/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-365-a-cheat-sheet/"
 type: article
-quality: 102
-heat: 122
+quality: 82
+heat: 102
 published: true
 
 provider:
@@ -26,6 +26,12 @@ images:
   - url: "https://tr4.cbsistatic.com/hub/i/r/2020/04/21/11808789-c9c7-406b-8f59-a9d365e5dff2/resize/1200x/57748433addeb346b5fb4d54d1c8eac2/microsoft-365-business-version-prices.jpg"
     width: 1200
     height: 858
+    isCached: true
+    title: "Microsoft 365: A cheat sheet"
+  - url: "https://tr2.cbsistatic.com/hub/i/r/2020/04/28/94ed1119-e8cd-483c-8fd5-9e0e7a3ce8e7/resize/1200x/6efe13dc43b36944bb610bf63785d13f/a-microsoft-365-breakdown.jpg"
+    width: 1200
+    height: 900
+    isCached: true
     title: "Microsoft 365: A cheat sheet"
 
 related:
@@ -37,12 +43,13 @@ related:
     provider:
       name: Thurrott
       domain: thurrott.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/04/microsoft-365.jpg"
         width: 1280
         height: 720
+        isCached: true
 
-secured: "PLrK3QLX+/px9Cr6g2roFV0rJKEzveqZ5NEXXe7qpByEoSDsDdUFjWh0P9IJ1THL8T6cDLooIHvHqh5PmxGCPE4qN6H0KejZAbpuch1Gb0VqUG0UFtcsTZjhu7XhYgb+OWfUfdmuKOIcr4nhy4C1pe5oamYpEc3L2BkbJtlQoFgYsCvIr3PjYsiuy2UVF4k4/p8It1KYR1IRq9WgUwbLLkHmZurmsvpgiGA7eYIONuKmfzHpupGEG9laT8sFOvxLbKkC8gdsc3MH/6oWQ8NC5KPaKnkn6pOrpk2aXzGSpmgdPtwYYcsYfMHQytbYlBca3C5dByBt10g1VYGxgYtovnfTV/onp6ejPDtFBE2Cb9i5UadyuIPmGpsRKMYSI+h1ZAZ2KXVfsPV9ryItIzaxwJiqkRQZ0YeSbSMhF6rG1qI62zF/q2mQSIf/EoC8/AYdVvbUWsOIkRC1mWlJCXB9ya9ePF4yA/ioCtzMmy8J1dE=;Vm8U4YZKbSPYMHi0rfq9Cw=="
+secured: "wqS674diNITbmY2MnAoGZxmGLIDRbJZ0m+dIRJqsJnaErwJEUHhHsdorCHHR4PWYfcDtOez8G/LOSQAd744Vu2Be3q2+8Ar1o33pSORC0AFLTrzSM6iISRwMFWeK4yjVqcZyjODJ1Xi0pDMSqcg7dMSCOa4ricPEIadTPMM43QlrymzL50BKufPYHmHeKfOACymqI7ILrqtkQk0ulQAAS2KPBhHIwZlXDA6FCjj1v6tLpHsXwLINLqXWC8TpCedTe2MSHupu4pbMoa5O+AcQMnNemk5ug7M7bBB2eHQ398JyOKpjM6JCW9MToiKGs6Mh;JjNBc4hUWBShEreZeUjY9Q=="
 ---
 

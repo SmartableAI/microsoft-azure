@@ -7,7 +7,7 @@ webUrl: "https://www.fool.com/investing/2020/05/18/fedex-and-microsoft-create-an
 ampWebUrl: "https://www.fool.com/amp/investing/2020/05/18/fedex-and-microsoft-create-an-exciting-new-partner.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/18/fedex-and-microsoft-create-an-exciting-new-partner.aspx"
 type: article
-quality: 102
+quality: 82
 heat: -1
 published: false
 
@@ -26,6 +26,7 @@ images:
   - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F574884%2Fgettyimages-1162624331.jpg&w=1200&op=resize"
     width: 1200
     height: 800
+    isCached: true
     title: "FedEx and Microsoft Form A New Partnership"
 
 related:
@@ -39,11 +40,12 @@ related:
     provider:
       name: IT Pro
       domain: itpro.co.uk
-    quality: 117
+    quality: 97
     images:
       - url: "https://media.itpro.co.uk//image/upload/v1589818624/itpro/shutterstock_357803588.jpg"
         width: 2957
         height: 1958
+        isCached: true
   - title: "New Microsoft Azure AD Sign-In Page Spoofed in Numerous Phishing Campaigns"
     excerpt: "Microsoft discovered numerous phishing campaigns in which malicious actors attempted to spoof its new Azure AD sign-in page."
     publishedDateTime: 2020-05-20T13:36:00Z
@@ -52,11 +54,12 @@ related:
     provider:
       name: Hack
       domain: securityintelligence.com
-    quality: 45
+    quality: 35
     images:
       - url: "https://securityintelligence.com/wp-content/uploads/2020/05/news_new-microsoft-azure-ad-sign-in-page-spoofed-in-numerous-phishing-campaigns.jpg"
         width: 1200
         height: 630
+        isCached: true
 
 secured: "omAZYCrpmy55nxb4KogT3gQYl/Mk5jGwr4NIrFjq0Bm71UiNE1BoYNGgdt8b+g2T5XFci7INzE/Svy2DCRchKR5Jdn8ZjCuamD64ufv4Ck/n3V9Wyb1IXDziZ/6V0vVxL5si/Ea7P0E3RM3gurUJNqilQMZsnFUFSpQOd+qYpJ1QbnEXOgQmw3l/4BI+gUPS79cbequVLBg300nfLuac+/FVcLyLbyPOdFnc8Whd/1BYXLJeffjdOiomFdtuHIiCrpDvNGdBUbHQIdEAVGvAv1nJoYu0pfHUf7krayXhhYUTXZCE2e3hlWD0expP6/4W;C9iU+LXe+lCqfKe2eeIPxg=="
 ---

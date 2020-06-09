@@ -7,8 +7,8 @@ webUrl: "https://www.cnbc.com/2019/04/30/a-big-shift-in-cloud-war-between-amazon
 ampWebUrl: "https://www.cnbc.com/amp/2019/04/30/a-big-shift-in-cloud-war-between-amazon-google-microsoft-is-coming.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/04/30/a-big-shift-in-cloud-war-between-amazon-google-microsoft-is-coming.html"
 type: article
-quality: 94
-heat: 114
+quality: 74
+heat: 94
 published: true
 
 provider:
@@ -26,6 +26,7 @@ images:
   - url: "https://image.cnbcfm.com/api/v1/image/103476330-451216438.jpg?v=1463497965"
     width: 594
     height: 396
+    isCached: true
     title: "A big shift in cloud war between Amazon, Google, Microsoft is coming: P&G top tech exec"
 
 related:

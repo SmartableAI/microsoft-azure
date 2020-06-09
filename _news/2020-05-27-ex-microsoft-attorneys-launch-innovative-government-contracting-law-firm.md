@@ -5,8 +5,8 @@ excerpt: "Two former Microsoft attorneys announced today the official launch of 
 publishedDateTime: 2020-05-27T16:38:00Z
 webUrl: "https://www.law.com/legalnewswire/news.php?id=2571947"
 type: article
-quality: 31
-heat: 31
+quality: 21
+heat: 21
 published: false
 
 provider:
@@ -20,6 +20,7 @@ images:
   - url: "https://www.law.com/assets/master-template/images/close-btn.png"
     width: 256
     height: 256
+    isCached: true
     title: "Ex-Microsoft Attorneys Launch Innovative Government Contracting Law Firm"
 
 related:

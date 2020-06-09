@@ -27,11 +27,12 @@ related:
     provider:
       name: PC Magazine
       domain: pcmag.com
-    quality: 117
+    quality: 97
     images:
       - url: "https://i.pcmag.com/imagery/articles/00TYN1x1sWt95nJKOcFrn8y-1.fit_lim.size_1200x630.v_1590154031.jpg"
         width: 1120
         height: 630
+        isCached: true
   - title: "Microsoft Gives Azure Lighthouse MSP Tool Some Attention"
     excerpt: "Microsoft Azure Chief Technology Officer Mark Russinovich provided an update on Azure Lighthouse progress in a blog post in the wake of Build, Microsoft's biggest annual conference for developers."
     publishedDateTime: 2020-05-27T19:51:00Z
@@ -40,11 +41,12 @@ related:
     provider:
       name: Redmond Channel Partner
       domain: rcpmag.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BrightTunnelSmall.jpg"
         width: 647
         height: 450
+        isCached: true
   - title: "Microsoft Releases Windows Terminal 1.0"
     excerpt: "Microsoft's modern command-line application for Windows 10, the new Windows Terminal, is now available for enterprise use with the release of version 1.0."
     publishedDateTime: 2020-05-19T15:12:00Z
@@ -53,11 +55,12 @@ related:
     provider:
       name: Thurrott
       domain: thurrott.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/05/windows-terminal.jpg"
         width: 1280
         height: 720
+        isCached: true
 
 secured: "ju0224r1H9JrROaqHNEsxTsLadH9PomDP/pHikhkUrlCAyus3hAdojx4S50ToPJTAwKSCL5xoaAOZDmw/l5KszWCPWljPt2Ce521nPmCnBUhZ5uddEnV2BsxSRt+LKYcC++jSrtBr8MxbE0gmohMlA7IespYbwrtcWXp7msbH/fdpcsvB4B3oCh973TjyQciFDCfwCSjj05x2OGkQ1iBIyb6tjkuVbgPtrPQre+6RXsqA89E4YBMUYFNL74y/xL028hKo6E7xeyAWH0Wys/u2cGM0c5B4ar4qKUhNnMMU5iT1BaGOcF8DXeXF3CIBCBgRppSgIZuSv9muXplHAX0UpQCal9uJvsN8hjx3kiEsjeuwQlb+hk0/WuAkHHCaqIY27McjI6lMxaXaN6zxsGIksJnZA2+GN6L62ah6kKGcIZaTALWwvAsUoXhh3r8I78PpfsA2zx4nePob/dKGpnccF7bLE7Iq0KHDY5FsbLZUrU=;nuSdZAZi2MOc1F0duaYK+A=="
 ---
