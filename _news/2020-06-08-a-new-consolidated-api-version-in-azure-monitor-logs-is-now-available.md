@@ -5,8 +5,8 @@ excerpt: ""
 publishedDateTime: 2020-06-08T16:00:33Z
 webUrl: "https://azure.microsoft.com/en-us/updates/new-consolidated-api-version-in-for-log-analytics/"
 type: article
-quality: 107
-heat: 107
+quality: 97
+heat: 97
 published: true
 
 provider:

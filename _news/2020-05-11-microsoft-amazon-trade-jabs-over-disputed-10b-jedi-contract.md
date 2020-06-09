@@ -7,7 +7,7 @@ webUrl: "https://www.bizjournals.com/seattle/news/2020/05/10/microsoft-amazon-tr
 ampWebUrl: "https://www.bizjournals.com/seattle/news/2020/05/10/microsoft-amazon-trade-jabs-over-jedi-contract.amp.html"
 cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/seattle/news/2020/05/10/microsoft-amazon-trade-jabs-over-jedi-contract.amp.html"
 type: article
-quality: 62
+quality: 42
 heat: -1
 published: false
 
@@ -35,7 +35,7 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://content.jwplatform.com/thumbs/L51qx6tR-720.jpg"
         width: 720
@@ -50,7 +50,7 @@ related:
     provider:
       name: Windows Central
       domain: windowscentral.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2017/09/microsoft-logo-2017-ignite2.jpg?itok=c3ocGDNm"
         width: 800

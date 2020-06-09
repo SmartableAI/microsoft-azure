@@ -5,7 +5,7 @@ excerpt: "Global “ Public Cloud Application Infrastructure Services Market ”
 publishedDateTime: 2020-05-19T11:40:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-public-cloud-application-infrastructure-services-market-2020-by-manufacturers-regions-type-and-application-forecast-to-2026-2020-05-19"
 type: article
-quality: 11
+quality: 31
 heat: -1
 published: false
 
@@ -20,6 +20,12 @@ provider:
 topics:
   - Azure
 
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    title: "Global Public Cloud Application Infrastructure Services Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2026"
+
 related:
   - title: "Global Cloud Migration Services Market Research Growth Opportunities by Types, Regions, Applications, Trend Forecast to 2023"
     excerpt: "Global Cloud Migration Services Market Industry research report offers a detailed overview of the factors, the"
@@ -29,7 +35,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

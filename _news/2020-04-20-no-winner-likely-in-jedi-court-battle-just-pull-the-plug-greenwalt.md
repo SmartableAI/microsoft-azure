@@ -7,8 +7,8 @@ webUrl: "https://breakingdefense.com/2020/04/no-winner-likely-in-jedi-court-batt
 ampWebUrl: "https://breakingdefense.com/2020/04/no-winner-likely-in-jedi-court-battle-just-pull-the-plug-greenwalt/amp/"
 cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2020/04/no-winner-likely-in-jedi-court-battle-just-pull-the-plug-greenwalt/amp/"
 type: article
-quality: 62
-heat: 62
+quality: 42
+heat: 42
 published: false
 
 provider:

@@ -5,8 +5,8 @@ excerpt: "The Homeland Security Department is getting closer to the release of a
 publishedDateTime: 2020-05-22T19:35:00Z
 webUrl: "https://washingtontechnology.com/blogs/editors-notebook/2020/05/dhs-cloud-strategy.aspx"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:

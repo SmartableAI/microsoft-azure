@@ -5,8 +5,8 @@ excerpt: "The global cloud analytics market size is projected to reach USD 72.40
 publishedDateTime: 2020-05-30T14:08:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-analytics-market-to-benefit-from-the-increasing-demand-for-cloud-platforms-in-numerous-software-based-applications-2020-05-30"
 type: article
-quality: 47
-heat: 47
+quality: 37
+heat: 37
 published: false
 
 provider:

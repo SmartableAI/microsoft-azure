@@ -5,8 +5,8 @@ excerpt: "This blog post was co-authored by Aditya Joshi, Senior Software Engine
 publishedDateTime: 2020-02-24T12:00:16Z
 webUrl: "https://azure.microsoft.com/blog/fileless-attack-detection-for-linux-in-preview/"
 type: article
-quality: 94
-heat: 94
+quality: 84
+heat: 84
 published: true
 
 provider:

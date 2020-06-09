@@ -7,7 +7,7 @@ webUrl: "https://www.bloomberg.com/news/articles/2020-04-29/microsoft-sales-rise
 ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-04-29/microsoft-sales-rise-as-remote-working-buoys-cloud-services"
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-04-29/microsoft-sales-rise-as-remote-working-buoys-cloud-services"
 type: article
-quality: 72
+quality: 62
 heat: -1
 published: false
 
@@ -33,7 +33,7 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200429&t=2&i=1516924789&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG3S223"
         width: 817
@@ -48,7 +48,7 @@ related:
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 101
+    quality: 81
     images:
       - url: "https://images.wsj.net/im-181683/social"
         width: 1280
@@ -63,7 +63,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 97
+    quality: 77
     images:
       - url: "https://s.marketwatch.com/public/resources/images/MW-HY843_Micros_ZH_20200122191821.jpg"
         width: 890
@@ -76,7 +76,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 62
+    quality: 52
     images:
       - url: "https://i.insider.com/5dfbb9b6855cc26de1630123?width=1200&format=jpeg"
         width: 1200
@@ -91,7 +91,7 @@ related:
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 53
+    quality: 33
     images:
       - url: "https://www.washingtonpost.com/resizer/iAwDp1yG46qwbRqde_rAAu43rKI=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RBIUICTQDUI6TEZRGC6FQNXURY.jpg"
         width: 1440
@@ -104,11 +104,7 @@ related:
     provider:
       name: Houston Chronicle
       domain: chron.com
-    quality: 32
-    images:
-      - url: "https://s.hdnux.com/photos/01/11/65/34/19355416/3/rawImage.jpg"
-        width: 2048
-        height: 1422
+    quality: 2
   - title: "Microsoft's cloud business helps offset pandemic woes"
     excerpt: "Ongoing demand for Microsoft's cloud computing services help softened the blow of the coronavirus pandemic on the software giant's other products during the first three months of the year. The company on Wednesday reported fiscal third-quarter profit of $10."
     publishedDateTime: 2020-04-30T05:30:00Z
@@ -117,11 +113,7 @@ related:
     provider:
       name: SFGate
       domain: sfgate.com
-    quality: 32
-    images:
-      - url: "https://s.hdnux.com/photos/01/11/65/34/19355416/3/rawImage.jpg"
-        width: 2048
-        height: 1422
+    quality: 2
 
 secured: "8+xOj5xlOGLpZcAdQriAdDDn9stbc/GcJxA2dPn1xd0fcq++bxp3xIu8yezsraqz+cdFlA5fArP1pSgevHeut5KvGTqFTTDPXHYGN3zgR4tU5JWvIDgmSEOda9yXQUJCe+mPc77b1RYw89IJ+muyjISSBDbuLhgg+FbH8WTLe+11QFZnhoH6cNuCjjYRd2IeZqilUUQgAFOK9iynrBe9nwN0E4Ylkt6p+3bEk+QddFW1gyQYh8HHCjbP+kpHBAI6RJWRAEzswyAJf4eKfbuLZTqLPugPp04FPyUMCq9+Jd+mN8ALOWNkGHnGrFdC63ri5iZxr8sYjPwOmIhFnEHEtM32L0W6OStHTQwULbeMKmWCLaZi89FPw3ycoqKlguGhNw5aNjbNYAsy2gX/Ss0NztgYQEh6bbJT5VC3hdZLgGzg5E1odgeD4K7uybhE55zYLIv/Fnpq9poFOQmBEvL2pxqFfdkoOa9DGRl1Y19kojo=;0e8K7sxc4vzIhL7xVvu3sg=="
 ---

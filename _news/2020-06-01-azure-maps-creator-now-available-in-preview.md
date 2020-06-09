@@ -5,8 +5,8 @@ excerpt: "As enterprises continue to evolve in their digital transformation jour
 publishedDateTime: 2020-06-01T08:00:09Z
 webUrl: "https://azure.microsoft.com/blog/azure-maps-creator-now-available-in-preview/"
 type: article
-quality: 109
-heat: 129
+quality: 99
+heat: 119
 published: true
 
 provider:

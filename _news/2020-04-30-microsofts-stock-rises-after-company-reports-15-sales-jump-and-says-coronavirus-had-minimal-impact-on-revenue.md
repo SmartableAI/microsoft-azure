@@ -7,9 +7,9 @@ webUrl: "https://www.cnbc.com/2020/04/29/microsoft-msft-earnings-q3-2020.html"
 ampWebUrl: "https://www.cnbc.com/amp/2020/04/29/microsoft-msft-earnings-q3-2020.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/29/microsoft-msft-earnings-q3-2020.html"
 type: article
-quality: 81
-heat: 81
-published: true
+quality: 61
+heat: 61
+published: false
 
 provider:
   name: CNBC

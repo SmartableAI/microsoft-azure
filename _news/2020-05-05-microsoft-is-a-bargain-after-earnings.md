@@ -7,9 +7,9 @@ webUrl: "https://www.nasdaq.com/articles/microsoft-is-a-bargain-after-earnings-2
 ampWebUrl: "https://www.nasdaq.com/articles/microsoft-is-a-bargain-after-earnings-2020-05-05?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-is-a-bargain-after-earnings-2020-05-05?amp"
 type: article
-quality: 72
-heat: 72
-published: true
+quality: 62
+heat: 62
+published: false
 
 provider:
   name: Nasdaq

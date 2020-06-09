@@ -5,8 +5,8 @@ excerpt: "This blog post was co-authored by Chad Raynor, Principal Program Manag
 publishedDateTime: 2020-04-20T09:00:23Z
 webUrl: "https://azure.microsoft.com/blog/azure-maps-updates-offer-new-features-and-expanded-availability/"
 type: article
-quality: 107
-heat: 107
+quality: 97
+heat: 97
 published: true
 
 provider:

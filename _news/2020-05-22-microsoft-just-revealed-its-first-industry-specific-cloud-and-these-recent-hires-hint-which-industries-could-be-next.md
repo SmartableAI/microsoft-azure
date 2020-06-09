@@ -5,8 +5,8 @@ excerpt: "Microsoft hired the face of its healthcare cloud a few months before i
 publishedDateTime: 2020-05-22T18:58:00Z
 webUrl: "https://www.businessinsider.com/microsoft-cloud-healthcare-indsutry-specific-hires-2020-5"
 type: article
-quality: 49
-heat: 49
+quality: 39
+heat: 39
 published: false
 
 provider:

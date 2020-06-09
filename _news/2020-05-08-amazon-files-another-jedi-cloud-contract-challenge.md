@@ -25,7 +25,7 @@ related:
     provider:
       name: Nextgov
       domain: nextgov.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://cdn.nextgov.com/media/img/upload/2020/05/07/NGcloud20200507/open-graph.jpg"
         width: 400
@@ -38,7 +38,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/pentagon-80394_1920-tpsdave-pixabay-800x521.jpg"
         width: 800

@@ -7,8 +7,8 @@ webUrl: "https://www.barrons.com/articles/a-giant-pension-sold-apple-stock-micro
 ampWebUrl: "https://www.barrons.com/amp/articles/a-giant-pension-sold-apple-stock-microsoft-intel-bought-uber-51588871495"
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/a-giant-pension-sold-apple-stock-microsoft-intel-bought-uber-51588871495"
 type: article
-quality: 58
-heat: 58
+quality: 38
+heat: 38
 published: false
 
 provider:

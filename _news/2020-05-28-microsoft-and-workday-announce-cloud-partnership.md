@@ -7,8 +7,8 @@ webUrl: "https://winbuzzer.com/2020/05/28/microsoft-and-workday-announce-cloud-p
 ampWebUrl: "https://winbuzzer.com/2020/05/28/microsoft-and-workday-announce-cloud-partnership-xcxwbn/?amp"
 cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/05/28/microsoft-and-workday-announce-cloud-partnership-xcxwbn/?amp"
 type: article
-quality: 62
-heat: 62
+quality: 42
+heat: 42
 published: false
 
 provider:

@@ -7,8 +7,8 @@ webUrl: "https://www.tweaktown.com/news/72060/microsoft-flight-simulator-looks-b
 ampWebUrl: "https://www.tweaktown.com/news/72060/microsoft-flight-simulator-looks-breathtaking-in-these-new-screenshots/amp.html"
 cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/72060/microsoft-flight-simulator-looks-breathtaking-in-these-new-screenshots/amp.html"
 type: article
-quality: 62
-heat: 62
+quality: 42
+heat: 42
 published: false
 
 provider:

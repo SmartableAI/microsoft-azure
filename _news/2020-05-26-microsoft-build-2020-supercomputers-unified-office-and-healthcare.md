@@ -5,9 +5,9 @@ excerpt: "Microsoft's build conference kicked off this year as a fully remote ev
 publishedDateTime: 2020-05-26T21:41:00Z
 webUrl: "https://www.engadget.com/video/5ec71d36b8187a4322e7a6f6/"
 type: article
-quality: 72
-heat: 72
-published: true
+quality: 62
+heat: 62
+published: false
 
 provider:
   name: Engadget

@@ -5,7 +5,7 @@ excerpt: "When Amazon Web Services filed an agency protest with the Defense Depa
 publishedDateTime: 2020-05-12T22:58:00Z
 webUrl: "https://gcn.com/articles/2020/05/12/aws-jedi-microsoft-blog-spat.aspx"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
@@ -33,7 +33,7 @@ related:
     provider:
       name: MyNorthwest.com
       domain: mynorthwest.com
-    quality: 60
+    quality: 40
     images:
       - url: "https://mynorthwest.com/wp-content/uploads/2017/07/Trump-and-Bezos-620.jpg"
         width: 620

@@ -7,8 +7,8 @@ webUrl: "https://www.neowin.net/news/coca-cola-partners-with-microsoft-to-use-it
 ampWebUrl: "https://www.neowin.net/amp/coca-cola-partners-with-microsoft-to-use-its-cloud-and-ai-services/"
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/coca-cola-partners-with-microsoft-to-use-its-cloud-and-ai-services/"
 type: article
-quality: 102
-heat: 102
+quality: 82
+heat: 82
 published: true
 
 provider:

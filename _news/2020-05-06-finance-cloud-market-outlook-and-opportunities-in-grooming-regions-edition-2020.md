@@ -5,8 +5,8 @@ excerpt: "Global Finance Cloud Market Size, Status And Forecast 2023 May 06, 202
 publishedDateTime: 2020-05-06T05:37:00Z
 webUrl: "https://www.marketwatch.com/press-release/finance-cloud-market-outlook-and-opportunities-in-grooming-regions-edition-2020-2020-05-06"
 type: article
-quality: 67
-heat: 67
+quality: 57
+heat: 57
 published: false
 
 provider:

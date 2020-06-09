@@ -7,8 +7,8 @@ webUrl: "https://www.engadget.com/amazon-microsoft-jedi-fight-154208730.html"
 ampWebUrl: "https://www.engadget.com/amp/amazon-microsoft-jedi-fight-154208730.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/amazon-microsoft-jedi-fight-154208730.html"
 type: article
-quality: 102
-heat: 202
+quality: 82
+heat: 182
 published: true
 
 provider:
@@ -39,11 +39,14 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg"
         width: 580
         height: 378
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F573031%2Fcloud-computing-tech-security-getty.jpg&w=1200&op=resize"
+        width: 1200
+        height: 675
   - title: "Amazon and Microsoft are accusing each other of playing dirty to get JEDI contract"
     excerpt: "Last month, the DoD cleared Microsoft's JEDI contract award, after it couldn't find any wrongdoing in the whole process. This was the first result of legal action where Amazon, the company that came closest to winning the bid,"
     publishedDateTime: 2020-05-08T23:38:00Z
@@ -54,7 +57,7 @@ related:
     provider:
       name: TechSpot
       domain: techspot.com
-    quality: 96
+    quality: 76
     images:
       - url: "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-08-image-13.jpg"
         width: 1600
@@ -69,7 +72,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 93
+    quality: 73
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1073698070.jpg?w=1024"
         width: 1024
@@ -84,7 +87,7 @@ related:
     provider:
       name: winbuzzer.com
       domain: winbuzzer.com
-    quality: 77
+    quality: 57
     images:
       - url: "https://winbuzzer.com/wp-content/uploads/2016/04/Microsoft-Clouds-Pixels-Reuse.jpg"
         width: 1280
@@ -97,7 +100,7 @@ related:
     provider:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://media.datacenterdynamics.com/media/images/JEDI_Thats_No_Moon.2e16d0ba.fill-1200x630.png"
         width: 1200

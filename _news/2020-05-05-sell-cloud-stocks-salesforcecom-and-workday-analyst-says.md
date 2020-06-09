@@ -7,8 +7,8 @@ webUrl: "https://www.barrons.com/articles/sell-cloud-stocks-salesforce-com-and-w
 ampWebUrl: "https://www.barrons.com/amp/articles/sell-cloud-stocks-salesforce-com-and-workday-analyst-says-51588688149"
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/sell-cloud-stocks-salesforce-com-and-workday-analyst-says-51588688149"
 type: article
-quality: 62
-heat: 62
+quality: 42
+heat: 42
 published: false
 
 provider:

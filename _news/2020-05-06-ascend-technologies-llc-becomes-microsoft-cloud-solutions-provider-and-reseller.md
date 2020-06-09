@@ -5,8 +5,8 @@ excerpt: "ASCEND TECHNOLOGIES LLC, a leading Midwest managed services provider f
 publishedDateTime: 2020-05-06T14:30:00Z
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ascend-technologies-llc-becomes-microsoft-cloud-solutions-provider-and-reseller/article_94620489-1740-5491-82a8-b3fac8482e4c.html"
 type: article
-quality: 28
-heat: 28
+quality: 18
+heat: 18
 published: false
 
 provider:

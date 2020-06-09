@@ -5,8 +5,8 @@ excerpt: "Today we are excited to offer a new solution to bind Azure Kubernetes 
 publishedDateTime: 2019-12-02T10:00:27Z
 webUrl: "https://azure.microsoft.com/blog/application-gateway-ingress-controller-for-azure-kubernetes-service/"
 type: article
-quality: 109
-heat: 109
+quality: 99
+heat: 99
 published: true
 
 provider:

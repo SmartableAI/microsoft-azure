@@ -5,8 +5,8 @@ excerpt: "NXP Semiconductors has expanded its partnership with Microsoft to brin
 publishedDateTime: 2020-05-27T15:40:00Z
 webUrl: "https://roboticsandautomationnews.com/2020/05/27/nxp-expands-partnership-with-microsoft-azure-rtos/32528/"
 type: article
-quality: 17
-heat: 17
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -16,6 +16,12 @@ provider:
 topics:
   - Azure
 
-secured: "kt2T2WMsrl10fHzYBkbZu01Ccal8/tRVUpk7IOGFqnqwY0mWlXyX0anrF0TnsUMWc4ujHahjKk5//GBGNJ8Ex8HqeQQtL1djxQfwCC6YZ4cH6Xb+M2H5lmI0BJfjh9mxE3GaJJIr/c49WP2pJ8lReaBchrBoWM6faDfqg7yulHSDGsxB3JFVIeYDq8gUXiuhPbr/5C2pIvVUHrZvUbKukUFDUx8DTMsxkwE6H0G77MgKA5UUrEWXgcxNmjl0cogny/NSgXtlIE8XFq86lIi4MaCt4biAHHi60WX2iRtMdUJ3NszPdMEdZT/H8smbQAc563a59llF/nE2nyW4saN3+udY98yB3jFOGOGm1RuXEAkkWd62iEqN2TkgzP+L4Uq7PjELCGTIaGXni5ygCS2DQ/bWiuncpkaKaUD9zKzlFjuXG/VnKDJr/1nELIAPSthYDVSF+3XdQI+v4G/7HeST8ACgVX1CMY2rTpXvFL/B7R4=;hIjFIVRLTBjyM0Bjb3+KJA=="
+images:
+  - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/05/microsoft-rtos-netx-duo.png"
+    width: 954
+    height: 541
+    title: "NXP expands partnership with Microsoft Azure RTOS"
+
+secured: "/h6rZ+y3qidZjMvvA8p0UBZL1k5lpU6NHO0UoORwftkQNRnbd7IAMW2be2ceMVllP7QPip5jAke0UyqAaPYvTAcGa3vnNmzfYby+vU+FlFt/mjie84ICgkaV0MA8rNFIeWYIX61uoKmIjpKo6zHlZn8Lzd3hAtvET26DN3+Lv0l9Htb99svvWT291L9fM7Ftdd3FAX0s+6Cb0JIdak/CEpj/KtIH9bJvF2tK+P6Usx/62KiVtRBmsbbRknndDIwT6cZrgzUllGKQ/cgvydBXI+vnjFRSYRKd5QWY+R2iYOmZ5AgyqfxMxFoNZqWDmOuC;wFrHkrZDsXktGpJLACBX4Q=="
 ---
 

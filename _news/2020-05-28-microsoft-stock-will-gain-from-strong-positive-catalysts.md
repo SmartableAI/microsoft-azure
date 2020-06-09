@@ -7,9 +7,9 @@ webUrl: "https://www.nasdaq.com/articles/microsoft-stock-will-gain-from-strong-p
 ampWebUrl: "https://www.nasdaq.com/articles/microsoft-stock-will-gain-from-strong-positive-catalysts-2020-05-28?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-stock-will-gain-from-strong-positive-catalysts-2020-05-28?amp"
 type: article
-quality: 72
-heat: 72
-published: true
+quality: 62
+heat: 62
+published: false
 
 provider:
   name: Nasdaq

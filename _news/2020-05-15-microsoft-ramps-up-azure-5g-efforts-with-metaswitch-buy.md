@@ -5,8 +5,8 @@ excerpt: "Microsoft has signed a deal to acquire Metaswitch Networks, a move aim
 publishedDateTime: 2020-05-15T01:41:00Z
 webUrl: "https://www.arnnet.com.au/article/679745/microsoft-ramps-up-azure-5g-efforts-metaswitch-buy/"
 type: article
-quality: 47
-heat: 47
+quality: 37
+heat: 37
 published: false
 
 provider:

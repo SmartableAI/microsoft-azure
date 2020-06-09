@@ -7,8 +7,8 @@ webUrl: "https://www.techradar.com/au/news/aws-appflow-takes-on-microsoft-azures
 ampWebUrl: "https://www.techradar.com/au/amp/news/aws-appflow-takes-on-microsoft-azures-power-automate"
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/aws-appflow-takes-on-microsoft-azures-power-automate"
 type: article
-quality: 117
-heat: 117
+quality: 97
+heat: 97
 published: true
 
 provider:

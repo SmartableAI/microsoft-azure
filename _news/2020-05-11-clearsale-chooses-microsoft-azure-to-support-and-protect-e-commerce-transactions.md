@@ -5,8 +5,8 @@ excerpt: "ClearSale, an international fraud protection organization, announced i
 publishedDateTime: 2020-05-11T00:03:00Z
 webUrl: "https://www.helpnetsecurity.com/2020/05/11/clearsale-microsoft-azure/"
 type: article
-quality: 12
-heat: 12
+quality: 32
+heat: 32
 published: false
 
 provider:
@@ -16,6 +16,12 @@ provider:
 topics:
   - Azure
 
-secured: "FHCk8vHrTVRA98TGLMYz62PSbbFW3nDzEq5aKpDGnpdi51JxCJpxHw3whONF6jZNhniRa35rlArDadCdJvxuNsVdjFuUJCxq/ZsQmNyiS2dq+sEA8zXXd7kfhYRgYmw3TFziQ6Bzhw+h4tw79Ow2pGPRaQDfyNC5C68H1WVFgf2JR8tn2rA8VMXfaLm7SxTbneBH2b4Sfj+kQkTxgag929KYAopXWCSWfuZBDM8yTSD+eQyONc994mSKUeZoOJVjxqPb55QCRy479lv2SoZhQChMmFS7SYhMU1DOUmGvwELVpFgKRIHBqQkgDuzs/OmYgOskjRtlGfrAlZmxd4XnWUMJoc8K50FnLykWIenhvJR+NN48Lxk6AnmApghnApzkOExrdKZywISFVZCnEk2xIwcMvfWw+bg9wcuhcv/0Jn0Q78i82bbrFpb8RiFTsG8YPMCkoXvtJXfjK0E2RqBlngaHlPBzQ1ys0SsdD9mkWY8=;Q2E5ma5LHS282wJCrOodCQ=="
+images:
+  - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
+    width: 304
+    height: 430
+    title: "ClearSale chooses Microsoft Azure to support and protect e-commerce transactions"
+
+secured: "EPhkh9KI96mtdaH7c1KzwA/gcZW3aFh7/RGbulRbd1UeLSSlv7x8OpDdMLR5Uon3k2VPoIjLXifSpJb2goOlBA9nOLHXkr2hG+S9b3R5OqoIG2o6P9EAShQX8ZCVUhoFpPc+Qk4u3XeGE2m8in72ZD5UQQc5x+jONMBKCI115M6UnLu1E00s1FY+SPmkNuwh0gnDpmOaukf+yo4bhSeWXNzrVHVLMczTQ8BwbhV0Ek7RN7p0JsC8FsgsYpnWfo1F4iVXlRokKh9enO0JcdK/VHdrmtvSjO9jRC54fLkU9EAUm6f4Ven1CLULbxRhmcA0;AZ7kB4Qx5pUHQM3g+ICWMQ=="
 ---
 

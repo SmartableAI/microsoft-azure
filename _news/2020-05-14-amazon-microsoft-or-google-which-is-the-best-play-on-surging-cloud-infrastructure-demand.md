@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/greatspeculations/2020/05/14/amazon-micros
 ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2020/05/14/amazon-microsoft-or-google-which-is-the-best-play-on-surging-cloud-infrastructure-demand/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2020/05/14/amazon-microsoft-or-google-which-is-the-best-play-on-surging-cloud-infrastructure-demand/amp/"
 type: article
-quality: 62
-heat: 62
+quality: 52
+heat: 52
 published: false
 
 provider:

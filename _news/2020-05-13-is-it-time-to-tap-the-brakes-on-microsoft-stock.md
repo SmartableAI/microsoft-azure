@@ -7,8 +7,8 @@ webUrl: "https://investorplace.com/2020/05/should-you-tap-brakes-on-microsoft-st
 ampWebUrl: "https://investorplace.com/2020/05/should-you-tap-brakes-on-microsoft-stock/amp/"
 cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/05/should-you-tap-brakes-on-microsoft-stock/amp/"
 type: article
-quality: 62
-heat: 62
+quality: 42
+heat: 42
 published: false
 
 provider:

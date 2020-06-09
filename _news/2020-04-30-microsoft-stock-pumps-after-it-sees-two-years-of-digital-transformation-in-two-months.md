@@ -7,8 +7,8 @@ webUrl: "https://thenextweb.com/hardfork/2020/04/30/microsoft-stock-pumps-after-
 ampWebUrl: "https://thenextweb.com/hardfork/2020/04/30/microsoft-stock-pumps-after-it-sees-two-years-of-digital-transformation-in-two-months/amp/"
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/hardfork/2020/04/30/microsoft-stock-pumps-after-it-sees-two-years-of-digital-transformation-in-two-months/amp/"
 type: article
-quality: 95
-heat: 95
+quality: 75
+heat: 75
 published: true
 
 provider:

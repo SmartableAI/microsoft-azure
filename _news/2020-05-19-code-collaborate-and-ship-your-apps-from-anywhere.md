@@ -5,8 +5,8 @@ excerpt: "Welcome to Microsoft Build 2020! This all-new 48-hour digital experien
 publishedDateTime: 2020-05-19T08:00:17Z
 webUrl: "https://azure.microsoft.com/blog/code-collaborate-and-ship-your-apps-from-anywhere/"
 type: article
-quality: 92
-heat: 92
+quality: 82
+heat: 82
 published: true
 
 provider:

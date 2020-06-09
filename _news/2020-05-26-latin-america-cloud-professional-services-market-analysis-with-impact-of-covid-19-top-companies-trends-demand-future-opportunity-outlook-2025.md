@@ -5,8 +5,8 @@ excerpt: "At Verified Market Intelligence, we provide a market study that encomp
 publishedDateTime: 2020-05-26T08:02:00Z
 webUrl: "https://www.marketwatch.com/press-release/latin-america-cloud-professional-services-market-analysis-with-impact-of-covid-19-top-companies-trends-demand-future-opportunity-outlook-2025-2020-05-26"
 type: article
-quality: 35
-heat: 35
+quality: 25
+heat: 25
 published: false
 
 provider:

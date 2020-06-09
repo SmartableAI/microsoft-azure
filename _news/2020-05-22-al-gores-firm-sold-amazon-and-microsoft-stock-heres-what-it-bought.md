@@ -7,9 +7,9 @@ webUrl: "https://www.barrons.com/articles/al-gore-firm-sold-amazon-stock-microso
 ampWebUrl: "https://www.barrons.com/amp/articles/al-gore-firm-sold-amazon-stock-microsoft-palo-alto-networks-51590162874"
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/al-gore-firm-sold-amazon-stock-microsoft-palo-alto-networks-51590162874"
 type: article
-quality: 62
-heat: 82
-published: true
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: Barron's
@@ -35,7 +35,7 @@ related:
     provider:
       name: Barron's
       domain: barrons.com
-    quality: 58
+    quality: 38
     images:
       - url: "https://images.barrons.com/im-189008/social"
         width: 1280

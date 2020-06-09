@@ -5,8 +5,8 @@ excerpt: "When Microsoft Corp reports earnings on Wednesday, analysts expect som
 publishedDateTime: 2020-04-28T11:30:00Z
 webUrl: "https://www.nytimes.com/reuters/2020/04/28/business/28reuters-microsoft-tech.html"
 type: article
-quality: 67
-heat: 67
+quality: 57
+heat: 57
 published: false
 
 provider:

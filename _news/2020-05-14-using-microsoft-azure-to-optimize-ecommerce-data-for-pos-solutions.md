@@ -5,8 +5,8 @@ excerpt: "While a number of Hadoop platforms have the functionality they need to
 publishedDateTime: 2020-05-14T00:00:00Z
 webUrl: "https://www.smartdatacollective.com/microsoft-azure-optimize-ecommerce-data-pos-solutions/"
 type: article
-quality: 47
-heat: 47
+quality: 37
+heat: 37
 published: false
 
 provider:

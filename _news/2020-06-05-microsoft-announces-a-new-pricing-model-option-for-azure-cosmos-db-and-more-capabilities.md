@@ -5,7 +5,7 @@ excerpt: "During this year's digital Build event, Microsoft announced a new cons
 publishedDateTime: 2020-06-05T05:12:00Z
 webUrl: "https://www.infoq.com/news/2020/06/azure-cosmosdb-new-updates/"
 type: article
-quality: 38
+quality: 28
 heat: -1
 published: false
 
@@ -31,7 +31,7 @@ related:
     provider:
       name: InfoQ
       domain: infoq.com
-    quality: 38
+    quality: 28
     images:
       - url: "https://cdn.infoq.com/statics_s1_20200602-0333/styles/static/images/logo/logo-big.jpg"
         width: 1200

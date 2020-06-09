@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/04/30/microsoft-visual-studio-online-codes
 ampWebUrl: "https://venturebeat.com/2020/04/30/microsoft-visual-studio-online-codespaces-pricing/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/30/microsoft-visual-studio-online-codespaces-pricing/amp/"
 type: article
-quality: 91
-heat: 91
+quality: 71
+heat: 71
 published: true
 
 provider:

@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/janakirammsv/2020/05/24/a-closer-look-at-a
 ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/05/24/a-closer-look-at-azure-arc--microsofts-hybrid-and-multi-cloud-platform/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/05/24/a-closer-look-at-azure-arc--microsofts-hybrid-and-multi-cloud-platform/amp/"
 type: article
-quality: 86
-heat: 86
+quality: 96
+heat: 96
 published: true
 
 provider:
@@ -22,6 +22,12 @@ provider:
 topics:
   - Azure
 
-secured: "M9FCQr3IPTeBJSCkFHVaarBUwM1ySQkrV3wZ+5Ty67kvcnaGGW5rMjrXviVZ+pQz+ZRUhVN8baAD9E+DrF/LYgkW4qMP9xtm3LWsy8qo3t2FynA3D1iPATc8c1m9dM2rOKSSpF+rknpFEBbtekQbeGI+uD5h3VQ55oflGzwLx1RNeTQmtre8idiGnkJCBpyki4+LPFi2w0KBmD9To4jz3BG5kDzIvBbPP/3vQyJhfE2NCyH60hd70LXm/3ICC1XurEXZfY/t/TnaETxqkA24uXKLIUhUJRaXFSWQ80BufZX97wLm7dL8YOLCbKAUFeOJxzz1WA1lieYe+3b0OLLok6YfFVcs9uJZG/giW1upkQ4/SlZq7L85SQgpP7464EpS2Tejf/G29dWylJRSUTxOZfy7sJxXjHy2Wpxfhs4NDY3EcYUknCBvjgexfiBc4pNusedLbUXFVQUGvUvjDmmyKan2JFZ9UURrjUoe8QZkX8I=;BEJnfyY6hXEDDbgDcfmIZA=="
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eca9237702e3700087145bd%2F0x0.jpg"
+    width: 1000
+    height: 529
+    title: "A Closer Look At Azure Arc – Microsoft’s Hybrid And Multi-Cloud Platform"
+
+secured: "df075iP/QQ8hWMJnw2CApeLYwJULcfWAYy0Ahy4ESXAbAci9XrRuPf1kXBECg4TrkdYuwko92v9EozAg2vRApyXZVN/7SwhkgaiBvjjOo+NXBixGUxcVo/586YdrAbgaXzdP78Q45y8ZtKEyUmQyHH4rvuFblSC8ZGvRuXKbPTlhvQlEI0e4vpq8zPQzCE1wienEn6mcbRk2F+c6px7uJlRm9o9OBAjM81rhp+BpJhsJVw1Xh6RLml/bUNKReQqOo04bNFVrtR9TpNgk2o7EVyZEdJk9qfDXhh5+lt3bjhPfenxCcOECTFH4cifzfp3r;AGi1SdgLM3iYA17L9NibNA=="
 ---
 

@@ -5,8 +5,8 @@ excerpt: "Yousef Khalidi, corporate VP for Azure Networking, says the strategy i
 publishedDateTime: 2020-05-04T13:09:00Z
 webUrl: "https://www.datacenterknowledge.com/microsoft/azure-edge-zones-microsoft-s-plan-dominate-edge-computing-and-5g"
 type: article
-quality: 47
-heat: 47
+quality: 37
+heat: 37
 published: false
 
 provider:

@@ -5,8 +5,8 @@ excerpt: "From agriculture to healthcare, IoT unlocks opportunity across every i
 publishedDateTime: 2020-04-06T09:00:29Z
 webUrl: "https://azure.microsoft.com/blog/accelerating-innovation-start-with-azure-sphere-to-secure-iot-solutions/"
 type: article
-quality: 123
-heat: 123
+quality: 113
+heat: 113
 published: true
 
 provider:

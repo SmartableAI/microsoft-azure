@@ -5,8 +5,8 @@ excerpt: "Its \"SWAT team\" of architects, engineers and developers enables ente
 publishedDateTime: 2020-05-20T22:11:00Z
 webUrl: "https://www.lightreading.com/security/open-systems-augments-its-cybersecurity-capabilities-with-acquisition-of-leading-microsoft-azure-sentinel-expert/d/d-id/759821"
 type: article
-quality: 26
-heat: 26
+quality: 16
+heat: 16
 published: false
 
 provider:

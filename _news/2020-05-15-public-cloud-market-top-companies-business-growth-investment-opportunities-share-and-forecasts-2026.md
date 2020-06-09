@@ -5,8 +5,8 @@ excerpt: "Kenneth Research has published a detailed report on Public Cloud Marke
 publishedDateTime: 2020-05-15T11:30:00Z
 webUrl: "https://www.marketwatch.com/press-release/public-cloud-market-top-companies-business-growth-investment-opportunities-share-and-forecasts-2026-2020-05-15"
 type: article
-quality: 55
-heat: 55
+quality: 45
+heat: 45
 published: false
 
 provider:

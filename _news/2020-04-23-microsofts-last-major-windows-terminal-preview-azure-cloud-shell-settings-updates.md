@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/microsofts-last-major-windows-terminal-pr
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-last-major-windows-terminal-preview-azure-cloud-shell-settings-updates/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-last-major-windows-terminal-preview-azure-cloud-shell-settings-updates/"
 type: article
-quality: 80
-heat: 80
+quality: 90
+heat: 90
 published: true
 
 provider:
@@ -22,6 +22,12 @@ provider:
 topics:
   - Azure
 
-secured: "3mXTXZCKnEdV9sqvgbhau3HnyaZnCRhneypt8SFmVcbzxNJbuKMk89KYeuVPozx5UG2HNiJY47EhfciNBaqt9ihrX23G/un5ZI59o4Dq+7SmPHz0wOy9i9BosZSSe259z0AFY7FaUiKPn4R32KiRm8TW8Y30HPkGH/iMHJv5Vf+69EIBHRzdtlmlg3WNWYKPooDC1Tzlgl8YfkVM+cN4hKBExHvp3rc/stKLLVjwlOMy84sydohDmk1WvJoTSjbQnX9gzuASq4E0iycLaImSMFtmoPa+7KE8RqJIkAzaHCz16H8yVBAtvKkk5lT/Cio2PkoI+esWcrrDcssLBcQ5Nl1Aj4PF/9UXYMwRx/UicWG+i2OHu8C0BKHXUGVSmcfnFZbnjZB+Igpy+L0BWlotjjZRs6ABbGlaA7sEb/WQ31Jx0FjZuVYapl2n8nz83J3kMvkUldyu8fyhKSfnPZwwDRE62B7rXyqMQ5TabaO/K5o=;8tvUkiBXYzwq5TCwIuZzrA=="
+images:
+  - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/01/31/498597ad-dcee-4e11-a4d5-b7f4198633ee/thumbnail/1200x675/984b3432206a2880769db8d8ba69811c/developer-these-are-the-jobs-and-languag-5e32bce1aa40260001a3a3d6-1-jan-31-2020-10-36-41-poster.jpg"
+    width: 1200
+    height: 675
+    title: "Microsoft's last major Windows Terminal preview: Azure Cloud Shell, Settings updates"
+
+secured: "ukqnPqWiOzX+fl41bjV9rXunwc49siSV0CxgNzWD0u9wZGSKL1f2/MkIqtqHrb0FPKJuJn4BgoVhKGtkeOMW+55DJh8DIbE0m8bCxPtbd85jT0oD6xzotn+jndx3MtWV/pDxFPeGBDXr7yVUcjO1VH8Y4QeRRR7NfPFwGY+itcqY6naqOybdKJi6xV+YCEpjk+dsIXpNzxkTprityHwdhBA3FTUzgR7CG3JDDSzOEk21IOEn3iioCa36mt2zlqe6OdqEb6DmlNChPUq9aRbZriMfnxsAxBBXMG4ysk0y3iFOnp80Lnp0JzHNsHotYmBV;zB3Q3VH6HC++weoucQgRTw=="
 ---
 

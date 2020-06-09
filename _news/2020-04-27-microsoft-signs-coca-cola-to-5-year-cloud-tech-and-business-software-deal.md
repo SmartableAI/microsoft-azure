@@ -7,8 +7,8 @@ webUrl: "https://www.geekwire.com/2020/microsoft-signs-coca-cola-co-5-year-deal-
 ampWebUrl: "https://www.geekwire.com/2020/microsoft-signs-coca-cola-co-5-year-deal-cloud-tech-business-software-deal/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-signs-coca-cola-co-5-year-deal-cloud-tech-business-software-deal/amp/"
 type: article
-quality: 101
-heat: 101
+quality: 81
+heat: 81
 published: true
 
 provider:

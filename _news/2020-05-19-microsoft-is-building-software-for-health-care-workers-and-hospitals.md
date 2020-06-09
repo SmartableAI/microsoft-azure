@@ -7,8 +7,8 @@ webUrl: "https://www.cnet.com/health/microsoft-is-building-software-for-health-c
 ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-is-building-software-for-health-care-workers-and-hospitals/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-is-building-software-for-health-care-workers-and-hospitals/"
 type: article
-quality: 102
-heat: 122
+quality: 82
+heat: 102
 published: true
 
 provider:
@@ -37,7 +37,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 72
+    quality: 62
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/05/healthcare-cloud-2.jpg?w=1200&#038;strip=all"
         width: 1200

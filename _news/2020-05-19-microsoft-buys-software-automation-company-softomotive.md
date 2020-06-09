@@ -7,8 +7,8 @@ webUrl: "https://www.cnbc.com/2020/05/19/microsoft-buys-software-automation-comp
 ampWebUrl: "https://www.cnbc.com/amp/2020/05/19/microsoft-buys-software-automation-company-softomotive.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/19/microsoft-buys-software-automation-company-softomotive.html"
 type: article
-quality: 102
-heat: 102
+quality: 82
+heat: 82
 published: true
 
 provider:

@@ -5,8 +5,8 @@ excerpt: "The growing online activities such as e-mail, enterprise resource plan
 publishedDateTime: 2020-06-02T20:26:00Z
 webUrl: "https://www.marketwatch.com/press-release/impact-analysis-of-covid-19-on-cloud-storage-market-analysis-2020-2028-by-emerging-trends-technology-future-growth-revenue-demand-forecast-2020-06-02"
 type: article
-quality: 36
-heat: 36
+quality: 26
+heat: 26
 published: false
 
 provider:

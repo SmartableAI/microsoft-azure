@@ -7,9 +7,9 @@ webUrl: "https://www.geekwire.com/2020/uw-team-among-microsofts-imagine-cup-fina
 ampWebUrl: "https://www.geekwire.com/2020/uw-team-among-microsofts-imagine-cup-finalists-tech-make-parkinsons-test-accessible/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/uw-team-among-microsofts-imagine-cup-finalists-tech-make-parkinsons-test-accessible/amp/"
 type: article
-quality: 87
-heat: 87
-published: true
+quality: 67
+heat: 67
+published: false
 
 provider:
   name: GeekWire

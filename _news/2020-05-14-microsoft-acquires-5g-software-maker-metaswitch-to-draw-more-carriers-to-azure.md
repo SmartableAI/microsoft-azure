@@ -5,8 +5,8 @@ excerpt: "Microsoft cloud executive Yousef Khalidi disclosed the deal in a blog 
 publishedDateTime: 2020-05-14T20:20:00Z
 webUrl: "https://siliconangle.com/2020/05/14/microsoft-acquires-5g-software-maker-metaswitch-draw-carriers-azure/"
 type: article
-quality: 43
-heat: 43
+quality: 33
+heat: 33
 published: false
 
 provider:
@@ -31,7 +31,7 @@ related:
     provider:
       name: Light Reading
       domain: lightreading.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
         width: 600

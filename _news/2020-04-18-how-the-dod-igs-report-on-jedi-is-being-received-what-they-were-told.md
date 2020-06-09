@@ -5,7 +5,7 @@ excerpt: "One of Microsoft's top legal minds has weighed in on what the DOD Insp
 publishedDateTime: 2020-04-18T12:20:00Z
 webUrl: "https://washingtontechnology.com/articles/2020/04/16/jedi-ig-reax-testimony.aspx?admgarea=TC_COMPANIES"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
@@ -31,7 +31,7 @@ related:
     provider:
       name: Washington Technology
       domain: washingtontechnology.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://washingtontechnology.com/~/media/GIG/Washington%20Technology/WTlogo.jpg"
         width: 1200

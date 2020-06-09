@@ -5,8 +5,8 @@ excerpt: "Contract research organization Parexel has launched what it dubs #Keep
 publishedDateTime: 2020-05-27T12:00:00Z
 webUrl: "https://www.fiercebiotech.com/cro/parexel-microsoft-azure-launch-new-covid-19-real-world-data-platform"
 type: article
-quality: 47
-heat: 47
+quality: 37
+heat: 37
 published: false
 
 provider:

@@ -5,8 +5,8 @@ excerpt: "C3.ai, a leading innovator in enterprise AI software for accelerating 
 publishedDateTime: 2020-04-27T16:00:00Z
 webUrl: "https://www.prnewswire.com/news-releases/c3ai-selects-microsoft-dynamics-365-and-teams-to-power-the-next-phase-of-growth-301047370.html"
 type: article
-quality: 27
-heat: 27
+quality: 17
+heat: 17
 published: false
 
 provider:

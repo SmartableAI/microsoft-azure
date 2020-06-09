@@ -7,8 +7,8 @@ webUrl: "https://www.geekwire.com/2020/tech-moves-ge-healthcare-exec-joins-micro
 ampWebUrl: "https://www.geekwire.com/2020/tech-moves-ge-healthcare-exec-joins-microsoft-puppet-names-new-cto-adaptive-biotech-expands-leadership/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/tech-moves-ge-healthcare-exec-joins-microsoft-puppet-names-new-cto-adaptive-biotech-expands-leadership/amp/"
 type: article
-quality: 90
-heat: 90
+quality: 70
+heat: 70
 published: true
 
 provider:

@@ -7,8 +7,8 @@ webUrl: "https://www.barrons.com/articles/microsoft-stock-cloud-business-pandemi
 ampWebUrl: "https://www.barrons.com/amp/articles/microsoft-stock-cloud-business-pandemic-covid-19-earnings-analysts-price-target-51588263881"
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/microsoft-stock-cloud-business-pandemic-covid-19-earnings-analysts-price-target-51588263881"
 type: article
-quality: 62
-heat: 62
+quality: 42
+heat: 42
 published: false
 
 provider:

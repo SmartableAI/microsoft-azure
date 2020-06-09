@@ -5,8 +5,8 @@ excerpt: "Kaspersky Security Cloud Free replaces the old Kaspersky Free Antiviru
 publishedDateTime: 2020-05-04T18:24:00Z
 webUrl: "https://www.tomsguide.com/uk/reviews/kaspersky-security-cloud-free"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:

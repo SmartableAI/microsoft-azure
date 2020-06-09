@@ -27,7 +27,7 @@ related:
     provider:
       name: Telecoms
       domain: telecoms.com
-    quality: 31
+    quality: 21
     images:
       - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2017/02/Cloud-Money-300x203.jpg"
         width: 300

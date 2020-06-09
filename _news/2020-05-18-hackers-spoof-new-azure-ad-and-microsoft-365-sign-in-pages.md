@@ -7,8 +7,8 @@ webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/355686/hackers-spoof-new-
 ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/355686/hackers-spoof-new-azure-ad-and-microsoft-365-sign-in-pages?amp"
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/355686/hackers-spoof-new-azure-ad-and-microsoft-365-sign-in-pages?amp"
 type: article
-quality: 117
-heat: 137
+quality: 97
+heat: 117
 published: true
 
 provider:
@@ -37,7 +37,7 @@ related:
     provider:
       name: Hack
       domain: securityintelligence.com
-    quality: 45
+    quality: 35
     images:
       - url: "https://securityintelligence.com/wp-content/uploads/2020/05/news_new-microsoft-azure-ad-sign-in-page-spoofed-in-numerous-phishing-campaigns.jpg"
         width: 1200

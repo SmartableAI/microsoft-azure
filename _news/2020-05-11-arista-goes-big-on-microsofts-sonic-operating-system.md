@@ -5,9 +5,9 @@ excerpt: "Arista announced it was extending its support for the open-source SONi
 publishedDateTime: 2020-05-11T12:03:00Z
 webUrl: "https://www.eweek.com/networking/arista-goes-big-on-microsoft-s-sonic-operating-system"
 type: article
-quality: 72
-heat: 72
-published: true
+quality: 62
+heat: 62
+published: false
 
 provider:
   name: eWeek

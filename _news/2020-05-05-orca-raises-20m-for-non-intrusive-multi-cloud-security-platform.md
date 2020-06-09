@@ -5,8 +5,8 @@ excerpt: "Orca says the technology can map a customer’s entire estate on cloud
 publishedDateTime: 2020-05-05T14:12:00Z
 webUrl: "https://siliconangle.com/2020/05/05/orca-raises-20m-non-intrusive-multi-cloud-security-platform/"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:

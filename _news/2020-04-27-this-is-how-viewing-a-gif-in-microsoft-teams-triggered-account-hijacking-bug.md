@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/this-is-how-viewing-a-gif-in-microsoft-te
 ampWebUrl: "https://www.zdnet.com/google-amp/article/this-is-how-viewing-a-gif-in-microsoft-teams-triggers-account-hijacking-bug/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-is-how-viewing-a-gif-in-microsoft-teams-triggers-account-hijacking-bug/"
 type: article
-quality: 99
-heat: 99
+quality: 79
+heat: 79
 published: true
 
 provider:

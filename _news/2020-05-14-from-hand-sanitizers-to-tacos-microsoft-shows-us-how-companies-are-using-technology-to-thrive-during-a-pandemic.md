@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/maribellopez/2020/05/14/from-hand-sanitize
 ampWebUrl: "https://www.forbes.com/sites/maribellopez/2020/05/14/from-hand-sanitizers-to-tacos-microsoft-shows-us-how-companies-are-using-technology-to-thrive-during-a-pandemic/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2020/05/14/from-hand-sanitizers-to-tacos-microsoft-shows-us-how-companies-are-using-technology-to-thrive-during-a-pandemic/amp/"
 type: article
-quality: 51
-heat: 51
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -22,6 +22,12 @@ provider:
 topics:
   - Azure
 
-secured: "XxbKvw/m43nzoYzAVn9zyQxqW1L7ZGmeFlaSO3KbrKQVfkUn9gcroMYObG3n8BD/a9w8V/zk3VEEzy1F4nScD/nJgmKJ24i4nbbGsyzGnDeavJ+9UXtvJFeYwEG9pZ7OzVfI5t7cgEHhE/MeBsvTbGUhpNvxIskEJiwzV8WT03ox+PJ6oXtBf67oDlPtp8lIVTZYZ5SqlLd37th/UBpRI2dmtHdJ3kJOMUyA0klFxzgw11wElFOBeGv7cF7WuBW20iAD3Db/DDLFctFUC7GIxOCt6OyUoqrLeAA4uZMqebdkhBHfY3P7k4ITE12z7WMf7zBd4auSXvuILbJiOnpIAmWL6fURdWXFFBn25IiUBBa31TOltt9XgbVSYelJOraJjlcf6DtNeqgDSPFA+YX3NXLQXDMn7mG8llSR5uX0UIn+8+XxS0H9rDFlDluUk9IuIfDH+8mS4tGWQ8OodbTjKjYVWSYH0Axt+HHyf4mVccc=;A3RLA4iYPSf/usz5Bx7X9Q=="
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebd63e1a69715000675b9de%2F0x0.jpg"
+    width: 1200
+    height: 616
+    title: "From Hand Sanitizers To Tacos: Microsoft Shows Us How Companies Are Using Technology To Thrive During A Pandemic"
+
+secured: "S+A9f15cZdCQlUzSM4/NZ2T+GrpntutdLYO5Zwy6b06VQcv2nKqfe86Gxjynv8WNKvSs253SQcR7hAhTgLDPuj7/YTaEyekmBxyWQq2OB+gb+uCNuIPQFQnDa4i0d0BQsOnGlQaPJcLF8ds6e7Zhp4kvHbQOZfLEAVd7/G+xnD0YKUmo2ApoJNb3VErFlKYZPlVqm89DH7TrYMnGFt7EvVW+SlQCYQxp1b4aYsDaZww4D8MMympG2x4gdENZ6+kNA2e014JT0uz4Z2QH8sjhrXjPTswIOTSeBQcOu7jrGE9n4sOyH5g6zXMS17P4Kao4;0dqPmpreGq0Q3lrvXyzsWQ=="
 ---
 

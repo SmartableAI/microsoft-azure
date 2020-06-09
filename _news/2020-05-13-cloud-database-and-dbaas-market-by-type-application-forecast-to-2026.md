@@ -5,8 +5,8 @@ excerpt: "The global Cloud Database and DBaaS Market are projected to grow with 
 publishedDateTime: 2020-05-13T11:28:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-database-and-dbaas-market-by-type-application---forecast-to-2026-2020-05-13"
 type: article
-quality: 72
-heat: 92
+quality: 62
+heat: 82
 published: true
 
 provider:
@@ -35,7 +35,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

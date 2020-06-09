@@ -5,7 +5,7 @@ excerpt: "Microsoft has announced a $100,000 bounty for bug hunters who are able
 publishedDateTime: 2020-05-06T16:01:00Z
 webUrl: "https://www.scmagazine.com/home/security-news/vulnerabilities/microsoft-azure-sphere-security-research-challenge-offers-100k-bounty/"
 type: article
-quality: 47
+quality: 37
 heat: -1
 published: false
 
@@ -33,26 +33,11 @@ related:
     provider:
       name: IT Pro
       domain: itpro.co.uk
-    quality: 117
+    quality: 97
     images:
       - url: "https://media.itpro.co.uk//image/upload/v1588785400/itpro/AS.png"
         width: 902
         height: 602
-  - title: "Microsoft offers bug hunters $100K to hack its Linux smart home software"
-    excerpt: "Researchers have three months to find problems in the software for net-connected devices like baby monitors and refrigerators."
-    publishedDateTime: 2020-05-07T16:04:00Z
-    webUrl: "https://www.cnet.com/news/microsoft-offers-bug-hunters-100k-to-hack-its-linux-smart-home-software/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-offers-bug-hunters-100k-to-hack-its-linux-smart-home-software/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-offers-bug-hunters-100k-to-hack-its-linux-smart-home-software/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 101
-    images:
-      - url: "https://cnet4.cbsistatic.com/img/iF1uhBUrlwnFFy_E2G17d1LEm-c=/756x567/2017/10/02/5e7fdcb8-e585-47dd-b13c-93d21b4e4d9e/security-privacy-hackers-locks-key-6749.jpg"
-        width: 756
-        height: 567
   - title: "Microsoft to hackers: Break our Azure Sphere Linux IoT OS and earn up to $100k"
     excerpt: "Microsoft has launched the Azure Sphere Research Challenge, offering approved security researchers individual rewards of up to $100,000 for dangerous exploits that break the security of Azure Sphere,"
     publishedDateTime: 2020-05-05T16:00:00Z
@@ -63,7 +48,26 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 83
+    quality: 93
+    images:
+      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/05/05/284bc14a-654f-40dd-8c48-3654fd7f17d2/cortexasoftwareplatform.png"
+        width: 315
+        height: 590
+  - title: "Microsoft offers bug hunters $100K to hack its Linux smart home software"
+    excerpt: "Researchers have three months to find problems in the software for net-connected devices like baby monitors and refrigerators."
+    publishedDateTime: 2020-05-07T16:04:00Z
+    webUrl: "https://www.cnet.com/news/microsoft-offers-bug-hunters-100k-to-hack-its-linux-smart-home-software/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-offers-bug-hunters-100k-to-hack-its-linux-smart-home-software/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-offers-bug-hunters-100k-to-hack-its-linux-smart-home-software/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 81
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/iF1uhBUrlwnFFy_E2G17d1LEm-c=/756x567/2017/10/02/5e7fdcb8-e585-47dd-b13c-93d21b4e4d9e/security-privacy-hackers-locks-key-6749.jpg"
+        width: 756
+        height: 567
 
 secured: "Qzu1IU2t1KEZZTjguSP5RxEHSep/iTKdbm4eguCCC8OC0CJ5vIsUK3PuiK+SynIGH2zmqVMCu3qI2/cf3xqgOMcP0ukTjclqNOnlxNOD9drlRKiJOFUgO+Kid1V+1rSkIxG7jfN0GPeKlYiNK3jNqgP8o4GbR03KwhIbfK+luQ6rmWiPIipDkEbBnO6JVjn/gGLrvFOjNYGaiesrZ2XQFZp+mMYqYQt8YfSe7ILXfaoem9iqB+hm/XyUFxEapL9mCt3wrDtxL1NrgTTxo+2sruFu9z1QdtyLG4GzjrMV/bLnZ9tQGOrH0y9J1W6+3wv/ZkOT6pai/JmaUj3nk/UYi32+88tHpHw4Gj4dCWYieXhgF1CfIy+0spQKWCSoXpyW9Vs5Q+di2IC1YKNLXOB2UDN4Q1A++nMWLthXIc2RGos8Z7FSNJU0m5Ym3LYo11jHwd24Z5sAk+dl8e5a4p3lg/s1zrJiNRqwqkDqULCwOrE=;/D2qa8rqzpQmKHj/7DfW0g=="
 ---

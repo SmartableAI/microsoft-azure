@@ -5,8 +5,8 @@ excerpt: "Microsoft has been on the forefront of supporting healthcare delivery 
 publishedDateTime: 2020-05-29T15:31:00Z
 webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/where-microsoft-is-headed-in-healthcare.html"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:

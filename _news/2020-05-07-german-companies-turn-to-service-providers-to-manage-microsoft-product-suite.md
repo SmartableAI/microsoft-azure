@@ -5,8 +5,8 @@ excerpt: "(GLOBE NEWSWIRE via COMTEX) -- ISG Provider Lens(TM) report also finds
 publishedDateTime: 2020-05-07T08:00:00Z
 webUrl: "https://www.marketwatch.com/press-release/german-companies-turn-to-service-providers-to-manage-microsoft-product-suite-2020-05-07"
 type: article
-quality: 69
-heat: 69
+quality: 59
+heat: 59
 published: false
 
 provider:

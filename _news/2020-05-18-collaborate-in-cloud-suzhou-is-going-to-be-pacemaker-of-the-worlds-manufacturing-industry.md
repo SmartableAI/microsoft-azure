@@ -7,8 +7,8 @@ webUrl: "https://markets.businessinsider.com/news/stocks/collaborate-in-cloud-su
 ampWebUrl: "https://markets.businessinsider.com/amp/news/collaborate-in-cloud-suzhou-is-going-to-be-pacemaker-of-the-world-s-manufacturing-industry-1029209869"
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/collaborate-in-cloud-suzhou-is-going-to-be-pacemaker-of-the-world-s-manufacturing-industry-1029209869"
 type: article
-quality: 61
-heat: 61
+quality: 51
+heat: 51
 published: false
 
 provider:

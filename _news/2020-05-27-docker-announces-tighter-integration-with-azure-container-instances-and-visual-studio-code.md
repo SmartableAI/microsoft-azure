@@ -7,7 +7,7 @@ webUrl: "https://mspoweruser.com/docker-azure-container-instances-vs-code/"
 ampWebUrl: "https://mspoweruser.com/docker-azure-container-instances-vs-code/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/docker-azure-container-instances-vs-code/amp/"
 type: article
-quality: 67
+quality: 47
 heat: -1
 published: false
 
@@ -33,7 +33,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 105
+    quality: 95
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c2dfbf4e-3ca4-42c1-acec-cd89fd674efb.gif"
         width: 1920

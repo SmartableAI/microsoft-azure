@@ -5,8 +5,8 @@ excerpt: "Microsoft held the 10th edition of Build, its annual conference aimed 
 publishedDateTime: 2020-05-27T10:07:00Z
 webUrl: "https://www.infoq.com/news/2020/05/microsoft-build-2020-highlights/"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:

@@ -7,8 +7,8 @@ webUrl: "https://diginomica.com/learnings-21-years-saas-cloud"
 ampWebUrl: "https://diginomica.com/learnings-21-years-saas-cloud?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/learnings-21-years-saas-cloud?amp"
 type: article
-quality: 62
-heat: 62
+quality: 42
+heat: 42
 published: false
 
 provider:

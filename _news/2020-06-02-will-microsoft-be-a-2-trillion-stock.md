@@ -7,9 +7,9 @@ webUrl: "https://www.nasdaq.com/articles/will-microsoft-be-a-%242-trillion-stock
 ampWebUrl: "https://www.nasdaq.com/articles/will-microsoft-be-a-%242-trillion-stock-2020-06-02?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-microsoft-be-a-%242-trillion-stock-2020-06-02?amp"
 type: article
-quality: 72
-heat: 72
-published: true
+quality: 62
+heat: 62
+published: false
 
 provider:
   name: Nasdaq

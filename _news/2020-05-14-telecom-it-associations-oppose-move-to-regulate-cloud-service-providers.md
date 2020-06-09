@@ -7,8 +7,8 @@ webUrl: "https://www.financialexpress.com/industry/telecom-it-associations-oppos
 ampWebUrl: "https://www.financialexpress.com/industry/telecom-it-associations-oppose-move-to-regulate-cloud-service-providers/1959362/lite/"
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/telecom-it-associations-oppose-move-to-regulate-cloud-service-providers/1959362/lite/"
 type: article
-quality: 31
-heat: 31
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -18,6 +18,12 @@ provider:
 topics:
   - Azure
 
-secured: "AI18VJ13PtnnTR7yhny20uXes8r2HeOD8BQq2VXZhWeiE+xk07yJFlfLPpfneujLq8zk3zzZQH2JkQw0Y5oLz7bLUfgUdFtjH/2ZrZp3Cm+youBfZQ6YYK4ywmM699HdJANAsTwP4Z4BUT/KR19BzNzF58/ZzbrQfMAHeC7uQ1ae458O1ro62H3+IMBjgnqPC2BAUgyhqPAFScnVed7tiYHamAhhldHsB44nVaNpVs7/SK0fbWIOVHZK6z75zKYpzFgeB7O/kRrfkoKOSc7QomByxbA9H6/qWi0Pk1a/cP86NFSjegZl0nu45BnYACMgFegUJUmgNrSy6nCOD4gxDkzdcYBWPqnsBzszd8aGuwpnSx9gZMOemS1fuo9SwOq1Uf7CB7GU8f8cIo/d36zmLYL+SkWrIP19Abm1zTiLVP3SjzfVcslySzc159U9tB5HcCOlQ32BpCqkRKdgGLlfMlCBpSbUF8JH+hfIq8n8IKY=;VugKzxbxXVH0D+hZk0P7rA=="
+images:
+  - url: "https://images.financialexpress.com/2020/05/telecom.jpg"
+    width: 660
+    height: 440
+    title: "Telecom, IT associations oppose move to regulate cloud service providers"
+
+secured: "Xo2ZEvS1BA668llR+EySQvb+WZVMoY8RMd3yWB1UYPyoWy6vh6XsYTp9r364uM+8MIN0njTlRVL47i9gK7dtkefqlIEyvrPYQQcA889MfokXGJaIWWks+ph1Ra1DH7SbRo2tl4U3dx5fwWpdip3FvEbEfaaob6nn+fX3n9ibbdEtU9+P6JOVKad+vVE9XHqbgesAi2XugbCWRv/gzC/1lOZjQjV4v5arvcicHf6v/2OVObqrm4n4178vaYLSYpW7SScgHVPb4o/mlcfDEqPIAaG8nx/BXvIcuTwp8+7GJj0otpKicQquV/V1luJROzKC;CYrtd00yjRHw7ktyP0s8nQ=="
 ---
 

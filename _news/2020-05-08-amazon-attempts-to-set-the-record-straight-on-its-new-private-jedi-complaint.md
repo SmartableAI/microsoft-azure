@@ -5,7 +5,7 @@ excerpt: "In response to Microsoft’s corporate vice president of communication
 publishedDateTime: 2020-05-08T16:24:00Z
 webUrl: "https://www.onmsft.com/news/amazon-attempts-to-set-the-record-straight-on-its-new-private-jedi-complaint"
 type: article
-quality: 28
+quality: 18
 heat: -1
 published: false
 
@@ -33,7 +33,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2019/04/AWS.jpg"
         width: 820

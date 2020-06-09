@@ -5,8 +5,8 @@ excerpt: "A so-called \"spring update\" of Windows Virtual Desktop (WVD) that ef
 publishedDateTime: 2020-05-01T00:09:00Z
 webUrl: "https://mcpmag.com/articles/2020/04/30/azure-resource-manager-windows-virtual-desktop.aspx"
 type: article
-quality: 47
-heat: 47
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -31,7 +31,7 @@ related:
     provider:
       name: Redmond Magazine
       domain: redmondmag.com
-    quality: 42
+    quality: 32
     images:
       - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2016/0916VRM_Take5.jpg"
         width: 647

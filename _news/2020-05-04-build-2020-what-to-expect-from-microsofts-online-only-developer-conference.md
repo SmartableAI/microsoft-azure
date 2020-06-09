@@ -7,9 +7,9 @@ webUrl: "https://www.digitaltrends.com/computing/microsoft-build-2020-what-to-ex
 ampWebUrl: "https://www.digitaltrends.com/computing/microsoft-build-2020-what-to-expect/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-build-2020-what-to-expect/?amp"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 79
+heat: 79
+published: true
 
 provider:
   name: Digital Trends
@@ -22,6 +22,12 @@ provider:
 topics:
   - Azure
 
-secured: "BYFFF93qr5dBssdoYbeUx8VJB8CjIvKEnQNkPGdGfDRI+OgIysDaZkl6CPVzSjY6mmA6RQnPO2pkEwH3jrydQ2UoXjc5YmjreGQoEx13QJ8gd4F7e8oJy4vPETug048MhyqO2hu73NhNIFRxljoZ2TNhtUkecxbXLSrgAPrSL8RpXv+/3HuYyff28N8/aBUrmpk5z4mtzmjlfkaRPr8owCzutf02tXtBK/ObS9X7Z/QVE1Xjou4ElBFrxseHB3fBJbem6UYeuwKdgQ11jvheIcfg2XO6jeMkbxWhJ2RgD78gI0KR/cbXk1nQIjM+f8OXfWlr5zo5fLnmNUGWHSbfk3cuFqnMyX3utBEfSMAdLcT76yeenRKyPaufNxRMUCKaq6riNtOSeqFTXGhNBx2HOw56Dt/LtWOIDx7gAxCN/wXL/Dy5f3Ly9P6FcIiE7u8WhS2eHA+TtZfBR8RW5h5XI1aQIlC0CvC9o7/ZjqB1HPg=;LObUO2dQW71ODDshbTQgVQ=="
+images:
+  - url: "https://icdn6.digitaltrends.com/image/digitaltrends/satya-nadella-keynote-2-1200x630-c-ar1.91.jpg"
+    width: 1000
+    height: 523
+    title: "Build 2020: What to expect from Microsoft’s online-only developer conference"
+
+secured: "H5yft9COmXQt47A3ZJ8228a92lrPEY6KRpvYg3NB6wdQ0gQz7OlqFFkBOc483xWdfVSLLYa5S6iLRYtGRW7i3LjW5dEoMgucgzLvmyl4TRDrWJHW/HFIRaunBieZIkpg5+JWW72nE6tJAqDukdor5jZfu4vaUKVbJgTc2JPiW184ds1RDLaR9drDPRYw2/ubPrIRhbmRVyG4mjokqSd4sBNAY7IYCNH82JmQWzIDQ3q+XpiYgJBLNy0Wb0SMZUo/Ywk8ZUk358HvBtb/oFEdCt2JpGdi8/1V+SqIcePgDkcIPOldOlVF5hKGCTG2ZwdH;Z0FheAzQyHdEENuds/V8bA=="
 ---
 

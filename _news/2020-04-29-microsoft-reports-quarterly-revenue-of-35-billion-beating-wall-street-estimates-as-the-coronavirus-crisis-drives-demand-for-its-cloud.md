@@ -7,7 +7,7 @@ webUrl: "https://www.businessinsider.com/microsoft-reports-q3-fy20-earnings-2020
 ampWebUrl: "https://www.businessinsider.com/microsoft-reports-q3-fy20-earnings-2020-4?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/microsoft-reports-q3-fy20-earnings-2020-4?amp"
 type: article
-quality: 70
+quality: 50
 heat: -1
 published: false
 
@@ -39,7 +39,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2016/11/Microsoft.jpg?fit=2048%2C1025&strip=all"
         width: 2048
@@ -54,7 +54,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 77
+    quality: 57
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2016/05/Microsoft-Azure.jpg"
         width: 791

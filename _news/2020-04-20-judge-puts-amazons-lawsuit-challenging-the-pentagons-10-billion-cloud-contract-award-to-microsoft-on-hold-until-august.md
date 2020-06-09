@@ -7,7 +7,7 @@ webUrl: "https://www.businessinsider.com/amazon-jedi-lawsuit-remand-microsoft-20
 ampWebUrl: "https://www.businessinsider.com/amazon-jedi-lawsuit-remand-microsoft-2020-4?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-jedi-lawsuit-remand-microsoft-2020-4?amp"
 type: article
-quality: 77
+quality: 57
 heat: -1
 published: false
 
@@ -39,7 +39,7 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200417&t=2&i=1515553285&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG3G2CA"
         width: 911
@@ -54,7 +54,7 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200417&t=2&i=1515553285&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG3G2CA"
         width: 911
@@ -67,7 +67,7 @@ related:
     provider:
       name: Defense News
       domain: defensenews.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.armytimes.com/resizer/4oY6QYiwbrQ_P1x7G8W5rhRChq4=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/YF6HUO4ZSVD2HL4ULQM3SV46UM.jpg"
         width: 1200
@@ -82,7 +82,7 @@ related:
     provider:
       name: Fox Business
       domain: foxbusiness.com
-    quality: 32
+    quality: 22
   - title: "Court decides Pentagon can reevaluate specific aspects of JEDI procurement"
     excerpt: "A federal judge ruled that DoD may reconsider specific aspects of the JEDI cloud. (moodboard) A federal judge will allow the DoD to reconsider ... Amazon opposed the motion on March 24, arguing that the corrective action proposed by the department would “preserve\" Microsoft’s award. Microsoft won the controversial contract over Amazon ..."
     publishedDateTime: 2020-04-17T20:46:00Z
@@ -91,7 +91,7 @@ related:
     provider:
       name: Federal Times
       domain: federaltimes.com
-    quality: 30
+    quality: 20
     images:
       - url: "https://www.armytimes.com/resizer/4oY6QYiwbrQ_P1x7G8W5rhRChq4=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/YF6HUO4ZSVD2HL4ULQM3SV46UM.jpg"
         width: 1200

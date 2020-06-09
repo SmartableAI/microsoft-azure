@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/davidjeans/2020/04/28/cloud-security-compa
 ampWebUrl: "https://www.forbes.com/sites/davidjeans/2020/04/28/cloud-security-company-cloudflare-makes-maverick-big-bet-on-china/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidjeans/2020/04/28/cloud-security-company-cloudflare-makes-maverick-big-bet-on-china/amp/"
 type: article
-quality: 102
-heat: 102
+quality: 82
+heat: 82
 published: true
 
 provider:

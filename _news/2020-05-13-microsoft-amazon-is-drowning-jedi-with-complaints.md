@@ -5,8 +5,8 @@ excerpt: "When Amazon Web Services filed an agency protest with the Defense Depa
 publishedDateTime: 2020-05-13T18:00:00Z
 webUrl: "https://defensesystems.com/articles/2020/05/13/aws-jedi-microsoft-blog-spat.aspx"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:

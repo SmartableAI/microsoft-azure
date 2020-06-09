@@ -5,8 +5,8 @@ excerpt: "ThroughPut Inc. today announced the availability of ELITE in the Micro
 publishedDateTime: 2020-04-28T20:30:00Z
 webUrl: "https://www.prnewswire.com/in/news-releases/throughput-inc-s-elite-now-available-in-the-microsoft-azure-marketplace-838367579.html"
 type: article
-quality: 46
-heat: 46
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -31,7 +31,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 42
+    quality: 32
     images:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600

@@ -5,7 +5,7 @@ excerpt: "Nearly every aspect of Microsoft’s business benefited from the sudde
 publishedDateTime: 2020-04-30T00:07:00Z
 webUrl: "https://siliconangle.com/2020/04/29/no-malaise-microsoft-office-giant-toasts-earnings-forecast-thanks-cloud/"
 type: article
-quality: 30
+quality: 20
 heat: -1
 published: false
 
@@ -31,7 +31,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/10/Nadella.png"
         width: 947

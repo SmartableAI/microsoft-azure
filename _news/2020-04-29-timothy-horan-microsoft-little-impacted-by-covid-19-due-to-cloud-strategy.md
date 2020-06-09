@@ -5,9 +5,9 @@ excerpt: "Timothy Horan, Oppenheimer Analyst, joins \"Closing Bell\" to discuss 
 publishedDateTime: 2020-04-29T21:07:00Z
 webUrl: "https://www.cnbc.com/video/2020/04/29/timothy-horan-microsoft-little-impacted-by-covid-19-due-to-cloud-strategy.html"
 type: article
-quality: 70
-heat: 70
-published: true
+quality: 60
+heat: 60
+published: false
 
 provider:
   name: CNBC

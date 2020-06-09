@@ -7,9 +7,9 @@ webUrl: "https://www.forbes.com/sites/soorajshah/2020/05/28/how-hackers-are-impe
 ampWebUrl: "https://www.forbes.com/sites/soorajshah/2020/05/28/how-hackers-are-impersonating-google-and-microsoft-to-catch-out-remote-workers/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/soorajshah/2020/05/28/how-hackers-are-impersonating-google-and-microsoft-to-catch-out-remote-workers/amp/"
 type: article
-quality: 68
-heat: 68
-published: false
+quality: 78
+heat: 78
+published: true
 
 provider:
   name: Forbes
@@ -22,6 +22,12 @@ provider:
 topics:
   - Azure
 
-secured: "cxtT2ElGd086SbQjDDHlIwkkhviimNL/Lj4K8il1tmRrDpjWNTG4IgdKFlpqQSD2yrP76Du8KzTEnVSK9jEoqOunCX99T0n09AhQ/A0ClcjdD7kxQn53w2onp4Wmv8IRXJF64rxovxGkpubh62tneAOK6MEIhG8ikeRlTa0EGynFzEh3aKrGQJa/pGU/L0xG3Cb4fRor9/nBAXS9mgHOtDxpNeo5AXcE+dXiERJoGTmy41A7qgupkgz9Xpbuv0uDCp+xtIY87jOavXoQiA6DWKyWYQRwKT82bSbN09XfpR39pn3tjLavo11VJMIQCw46+7ioENmFmUiW9z5EoTaH5VfEAdB10Ajx06YbHNG9zqGikJ+LwOvhEyC1hhQ29sYf7MAWTmMvdN4rhu5VvRvArZ+p05ZoACbDXJh61IUs3ukehFNzCuQyOTJ3xLDH3aOTMlyH38bATveyPP3fyX03EMjzkGdnMTs7GWgr2b0GaEQ=;Rv6j6YbttXaiQvUaJP2XZw=="
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1008250488%2F0x0.jpg"
+    width: 1200
+    height: 800
+    title: "How Hackers Are Impersonating Google And Microsoft To Catch Out Remote Workers"
+
+secured: "sizwQBBbeihD18tJ27pO7dXHaf9WN1nJA9sU2aOxcqegHAYTPLthrohfaoty3zTAV10X+bctT385iNGDc7YgetTp74+i4IHRSVPSD2vmVH+WrKaK4GW/HuLqIuKGCqeD/HG6j3HJpqovl4+oIhtgG7PfjPREfq14PMG4kzFFllHkKswKET3dWHz7ghd4BQqfRKc+Dt+apKDik1b9L0+VfwsGLRCstNhgwUH+NBErzDcXspVyr34MTem4jYr7fu9Tnz5lYPZJfFtNAAtQjAUUB/0roPLcN9tlsuXJke/VtcL0H/2ix5gUB7zS8mdlp+vf;W0lfXC7SFqNlrLhX1d+YfA=="
 ---
 

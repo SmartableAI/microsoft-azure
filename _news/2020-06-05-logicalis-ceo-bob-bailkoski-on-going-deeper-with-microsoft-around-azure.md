@@ -5,8 +5,8 @@ excerpt: "A few months into his tenure as CEO, Bailkoski spoke with CRN about ho
 publishedDateTime: 2020-06-05T18:48:00Z
 webUrl: "https://www.crn.com/news/cloud/logicalis-ceo-bob-bailkoski-on-going-deeper-with-microsoft-around-azure"
 type: article
-quality: 46
-heat: 46
+quality: 36
+heat: 36
 published: false
 
 provider:

@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/microsoft-expands-data-centre-region-to-n
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-expands-data-centre-region-to-new-zealand/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-expands-data-centre-region-to-new-zealand/"
 type: article
-quality: 102
-heat: 102
+quality: 82
+heat: 82
 published: true
 
 provider:

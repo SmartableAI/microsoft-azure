@@ -5,8 +5,8 @@ excerpt: "Don’t say you weren’t warned, telecoms industry. The tech big guns
 publishedDateTime: 2020-05-15T10:06:00Z
 webUrl: "https://telecoms.com/504328/microsoft-doubles-down-on-the-telco-cloud-with-metaswitch-acquisition/"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:

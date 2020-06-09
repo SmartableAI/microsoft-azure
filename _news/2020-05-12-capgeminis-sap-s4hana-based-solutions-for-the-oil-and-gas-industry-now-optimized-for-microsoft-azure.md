@@ -5,8 +5,8 @@ excerpt: "Capgemini announced today that its EnergyPath and READYUpstream soluti
 publishedDateTime: 2020-05-12T16:28:00Z
 webUrl: "https://www.businesswire.com/news/home/20200512005049/en/Capgemini’s-SAP-S4HANA-Based-Solutions-Oil-Gas-Industry"
 type: article
-quality: 31
-heat: 31
+quality: 21
+heat: 21
 published: false
 
 provider:

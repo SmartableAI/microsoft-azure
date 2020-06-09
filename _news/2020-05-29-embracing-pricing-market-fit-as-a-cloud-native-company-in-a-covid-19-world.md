@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/dharmeshthakker/2020/05/29/embracing-prici
 ampWebUrl: "https://www.forbes.com/sites/dharmeshthakker/2020/05/29/embracing-pricing-market-fit-as-a-cloud-native-company-in-a-covid-19-world/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dharmeshthakker/2020/05/29/embracing-pricing-market-fit-as-a-cloud-native-company-in-a-covid-19-world/amp/"
 type: article
-quality: 68
-heat: 68
+quality: 58
+heat: 58
 published: false
 
 provider:

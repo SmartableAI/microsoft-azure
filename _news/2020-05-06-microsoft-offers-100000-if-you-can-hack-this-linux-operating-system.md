@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/daveywinder/2020/05/06/microsoft-offers-10
 ampWebUrl: "https://www.forbes.com/sites/daveywinder/2020/05/06/microsoft-offers-100000-if-you-can-hack-this-linux-operating-system/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/daveywinder/2020/05/06/microsoft-offers-100000-if-you-can-hack-this-linux-operating-system/amp/"
 type: article
-quality: 102
-heat: 122
+quality: 82
+heat: 102
 published: true
 
 provider:
@@ -39,7 +39,7 @@ related:
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://cdn.vox-cdn.com/thumbor/vNm1XdPglfuooRvb1fCCZdkYFVY=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66758018/acastro_180507_1777_microsoft_0002.0.jpg"
         width: 1400

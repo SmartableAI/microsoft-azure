@@ -5,8 +5,8 @@ excerpt: "Microsoft has announced Azure Service Fabric, a new cloud platform for
 publishedDateTime: 2020-04-20T00:00:00Z
 webUrl: "https://sdtimes.com/azure/microsoft-announces-azure-service-fabric/"
 type: article
-quality: 87
-heat: 87
+quality: 77
+heat: 77
 published: true
 
 provider:

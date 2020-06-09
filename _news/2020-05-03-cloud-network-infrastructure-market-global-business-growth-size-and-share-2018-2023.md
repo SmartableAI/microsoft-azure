@@ -5,8 +5,8 @@ excerpt: "Cloud Network Infrastructure Market: By Component (Hardware, Services)
 publishedDateTime: 2020-05-03T15:13:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-network-infrastructure-market-global-business-growth-size-and-share-2018-2023-2020-05-03"
 type: article
-quality: 64
-heat: 64
+quality: 54
+heat: 54
 published: false
 
 provider:

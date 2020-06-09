@@ -7,8 +7,8 @@ webUrl: "https://www.fool.com/investing/2020/05/05/microsoft-taps-coca-cola-chal
 ampWebUrl: "https://www.fool.com/amp/investing/2020/05/05/microsoft-taps-coca-cola-challenge-amazon-slack.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/05/microsoft-taps-coca-cola-challenge-amazon-slack.aspx"
 type: article
-quality: 102
-heat: 102
+quality: 82
+heat: 82
 published: true
 
 provider:
@@ -27,7 +27,11 @@ images:
     width: 580
     height: 378
     title: "Microsoft Taps Coca-Cola to Challenge Amazon, Salesforce, and Slack"
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F571626%2Fcoca-cola-store-orlando-plate.jpg&w=1200&op=resize"
+    width: 1200
+    height: 800
+    title: "Microsoft Taps Coca-Cola to Challenge Amazon, Salesforce, and Slack"
 
-secured: "TOKrWWsihFAGGrkFjjN3j6FH/i9glS9f6kKJnJN9cHCQBxigJkOu7rP2nxgBEo3syjMx/My9qppcRaX2vu8UxVCokHkTzTJmjCceOwWqEV7smq7jZjlTW+3gyIleQfoa+8nK/kqrw8IoVFiOAQVdwim2P7qU15K5lEslZKj7yMhD0cdszHgDKG2Pfq1woamMbSlcBGCIQJ4V6f/E3915+e49qZ/eZR8gGV5QsMWEhpUu5+T3Qbs+N63IyPubVeQXrKKk4+74wQUC4TPHyQ8DyAYgLsqYbLkbkaAf1GzP8lK93kYu3Vh8fNSWYnFXoX9A47vIPkB8E6Qv5vezuKjzZk9ptLKB61As634l0kl969fDtl88/4zCljtp/Tw6hY+ux4SqxR6ktk5X6vs0QRIopysI1sbrLs+cMwT5mj1o3fqlghqWjbjnUEyWaSiD3mMU08scBmam+7atnzj9t4xZwS/Di/5pgGwzAmGOjy3WNt0=;/04TkRX+3fbzHsy1pWUuGg=="
+secured: "SiEKWBivEkJOQ9t8A1rol8s97Xqrdo8M4Z2XxatdF/5i485nWx646fSt7TtR7PINtBvN5kDlIB5oLvH63HyBsezdDl6VZuOvz1kBDKM1Vf4+xuLNc2PYWtmJlag0OWWx4r3tAEioJNSn6QKZwAFcGA3x6OwTWgg0bMpvJPnYA+vU1yLGruZnri+QMg/iQxKQsmZIEjhYLHvh1aVLgZvg7Ao/8BBVzVlpWGkl+wWAPUoQTuajZzio/FTLWk1JuHtdyT9X/UPQHNTdRFy30BuXaLRJ0dxXT/D5DCtptznfyJNNH2xqenSSaQIQjWU9c7BD;fLro0dFYpJmaReUIY3vdgw=="
 ---
 

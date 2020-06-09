@@ -7,8 +7,8 @@ webUrl: "https://www.cnbc.com/2020/05/08/amazon-says-jedi-award-fatally-flawed-i
 ampWebUrl: "https://www.cnbc.com/amp/2020/05/08/amazon-says-jedi-award-fatally-flawed-in-rebuttal-to-microsoft.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/08/amazon-says-jedi-award-fatally-flawed-in-rebuttal-to-microsoft.html"
 type: article
-quality: 87
-heat: 107
+quality: 67
+heat: 87
 published: true
 
 provider:
@@ -37,7 +37,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 26
+    quality: 16
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/pentagon-720022_1280-AutoGirl-Pixabay.jpg"
         width: 1280

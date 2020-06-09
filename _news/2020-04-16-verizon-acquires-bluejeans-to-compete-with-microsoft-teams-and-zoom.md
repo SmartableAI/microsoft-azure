@@ -7,8 +7,8 @@ webUrl: "https://mspoweruser.com/verizon-acquires-bluejeans-microsoft-teams-zoom
 ampWebUrl: "https://mspoweruser.com/verizon-acquires-bluejeans-microsoft-teams-zoom/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/verizon-acquires-bluejeans-microsoft-teams-zoom/amp/"
 type: article
-quality: 62
-heat: 62
+quality: 42
+heat: 42
 published: false
 
 provider:

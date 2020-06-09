@@ -5,8 +5,8 @@ excerpt: "“We are pleased to see Fortanix building their Enclave Manager offer
 publishedDateTime: 2020-05-18T12:21:00Z
 webUrl: "https://www.businesswire.com/news/home/20200518005097/en/Fortanix-Enclave-Manager-Enables-Apps-Run-Secure"
 type: article
-quality: 22
-heat: 22
+quality: 12
+heat: 12
 published: false
 
 provider:

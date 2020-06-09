@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/taarinikaurdang/2020/05/31/is-apple-planni
 ampWebUrl: "https://www.forbes.com/sites/taarinikaurdang/2020/05/31/is-apple-planning-to-enter-cloud-computing-space/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/taarinikaurdang/2020/05/31/is-apple-planning-to-enter-cloud-computing-space/amp/"
 type: article
-quality: 72
-heat: 72
+quality: 82
+heat: 82
 published: true
 
 provider:
@@ -22,6 +22,12 @@ provider:
 topics:
   - Azure
 
-secured: "DZQQgeCAIKZkQmAs2L8Tj4HXqXKHfLKJnKRDn2C7r0nS1eq0pR+9VRI8dyR0emoaKlrOHqJ1s4jrLlckdrhyrTFLrTWWM1WvurnIBYUUTMoqEz3qNd+5lKd1YY/DdbwTU95DUKkqb+o7qZMWFQMlaRmhnwa8wq3OVUdF1Z1E8Jfe5+ON0h7jvcvgIOVz1SzRxjlZ3FfULcU2uItljn/Q71jb6Gc9nitkPYRP9oqdfUbuFJO0KADonx4HGWxtSi4ECccCgl/Z3ADX88fHWOH6n4m8zQPklfXfAjDFdkkLRNd5ky7q/N9J1LVBD6xDprXbHqtjK0Q0yOzwD+35DNZwLbvkoINnxNGjVNYlcAwPLf5B4mR3LPZdQrBUdzyvLHsVmIJNtXntL6tcjToVDLRfATu69XbpLbofPC4SWsENw5YucCldh3YO19DzRH8ba6rZZiVsPV2EYSXkheZqGFwZDzB8+7HRjJBsCfamhx8ygic=;PnlHdAQVAe5Sbsmv3BiZ4A=="
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed3e134dc72730006b73a6e%2F0x0.jpg"
+    width: 1000
+    height: 685
+    title: "Is Apple Planning To Enter Cloud Computing Space?"
+
+secured: "jLrAbHXHUcvLEmoCxU+hP5r+zxznZpagdavvDQoFirzEbPujCiNlzupTizTmZ/GMmscMoLr+Vo9yg2TPlQy8ByurzKWMHdSGMKHTZqXHVtfvcpHioq7V/VbTy/WE5MX61pvCfrNA1WMB//v3ihsA5CiMoScqVEFswvmhFYU4kOunPEIViz3qzXB6Lb+6Aa0KRmBs/+AdRHqmfj9NnvRiYzknQCP8U3OQgQZGUO99pMqKe9wO+QptuoprosiNaZnaoFkMe9imsiavnSUXHxMcd+Pyay24gw1lO/AheyeawHaqVO7Ly7PJr2iuldJmsn16;andbRDKeUF64SuGC93WpdA=="
 ---
 

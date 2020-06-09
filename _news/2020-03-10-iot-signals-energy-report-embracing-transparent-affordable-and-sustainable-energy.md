@@ -5,8 +5,8 @@ excerpt: "The increased use of renewables, resiliency challenges, and sustainabi
 publishedDateTime: 2020-03-10T09:00:09Z
 webUrl: "https://azure.microsoft.com/blog/iot-signals-energy-report-embracing-transparent-affordable-and-sustainable-energy/"
 type: article
-quality: 102
-heat: 102
+quality: 92
+heat: 92
 published: true
 
 provider:

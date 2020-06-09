@@ -5,8 +5,8 @@ excerpt: "Concept art isn’t gospel. Just because a piece of concept art exists
 publishedDateTime: 2020-05-07T22:45:00Z
 webUrl: "https://www.gizmodo.com.au/2020/05/see-rey-flex-her-jedi-muscle-in-this-rise-of-skywalker-concept-art/"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:

@@ -7,8 +7,8 @@ webUrl: "https://www.geekwire.com/2020/amazon-bid-high-lost-jedi-microsoft-says-
 ampWebUrl: "https://www.geekwire.com/2020/amazon-bid-high-lost-jedi-microsoft-says-release-dod-watchdog-report/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazon-bid-high-lost-jedi-microsoft-says-release-dod-watchdog-report/amp/"
 type: article
-quality: 94
-heat: 94
+quality: 74
+heat: 74
 published: true
 
 provider:

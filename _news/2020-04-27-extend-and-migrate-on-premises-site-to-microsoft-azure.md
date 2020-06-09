@@ -5,8 +5,8 @@ excerpt: "Learn about how to use the migration tool to programmatically create A
 publishedDateTime: 2020-04-27T21:28:00Z
 webUrl: "https://docs.microsoft.com/en-us/mem/configmgr/core/support/azure-migration-tool"
 type: article
-quality: 47
-heat: 47
+quality: 37
+heat: 37
 published: false
 
 provider:

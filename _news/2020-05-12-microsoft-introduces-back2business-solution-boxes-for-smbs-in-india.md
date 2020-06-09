@@ -7,9 +7,9 @@ webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-introduces-bac
 ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-introduces-back2business-solution-boxes-for-smbs-in-india/article31563949.ece/amp/"
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-introduces-back2business-solution-boxes-for-smbs-in-india/article31563949.ece/amp/"
 type: article
-quality: 62
-heat: 102
-published: true
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: Business Line
@@ -33,7 +33,7 @@ related:
     provider:
       name: Sify.com
       domain: sify.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.sify.com/uploads/microsoft_logo_ap_ufnfR2daebada.jpg"
         width: 950
@@ -46,7 +46,11 @@ related:
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 2
+    quality: 22
+    images:
+      - url: "https://menafn.com/updates/pr/2020-05/13/KI_30d78cc1-0image_story.jpg"
+        width: 500
+        height: 344
 
 secured: "XhF3NTxorAJ1LwLnVbo96cngSkVKXd/6A9Gnk7KXtfj29kXGPDLyUs5bKzr2qmp9yhzO7KCmVtY5yaK9DlvjlH0DLJLM6qlXchJ86MHTS1V9cAyHePAVEmzozMttriOFNN3IHGF1Q6QJBDQF3mvFdhRgzWRHH09ZPlwh5oY4+tdECwb9F1lyfTCdN4nRhD8CYeeeBq9jnV2YjshQnzR6yEp2vsL1DvLhdqhksISCNaABwpk55UaGhYnshSi/nYjbAn6Q4E2AlApeOhTC165z1qmt1ggCYNDgQtx86r5QHR2mitD6ubG823nkxBiwhKz7;FVYFF7ZZdztya/pGi3Lahg=="
 ---

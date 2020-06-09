@@ -5,8 +5,8 @@ excerpt: "Kyvos Insights, a cloud and big data analytics company, today announce
 publishedDateTime: 2020-04-28T13:00:00Z
 webUrl: "https://www.prnewswire.com/news-releases/kyvos-bi-acceleration-platform-is-now-available-on-azure-marketplace-301046746.html"
 type: article
-quality: 47
-heat: 47
+quality: 37
+heat: 37
 published: false
 
 provider:

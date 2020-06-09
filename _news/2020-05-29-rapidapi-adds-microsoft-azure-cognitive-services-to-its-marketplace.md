@@ -5,8 +5,8 @@ excerpt: "RapidAPI has added a dozen Microsoft Azure Cognitive Services to its M
 publishedDateTime: 2020-05-29T00:36:00Z
 webUrl: "https://www.helpnetsecurity.com/2020/05/29/rapidapi-microsoft-azure-cognitive-services/"
 type: article
-quality: 47
-heat: 47
+quality: 37
+heat: 37
 published: false
 
 provider:

@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/19-cloud-computing-certifications-
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/19-cloud-computing-certifications-to-boost-your-salary/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/19-cloud-computing-certifications-to-boost-your-salary/"
 type: article
-quality: 102
-heat: 102
+quality: 82
+heat: 82
 published: true
 
 provider:

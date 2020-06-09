@@ -7,8 +7,8 @@ webUrl: "https://www.fool.com/investing/2020/05/18/dow-jones-news-microsoft-part
 ampWebUrl: "https://www.fool.com/amp/investing/2020/05/18/dow-jones-news-microsoft-partners-with-fedex-apple.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/18/dow-jones-news-microsoft-partners-with-fedex-apple.aspx"
 type: article
-quality: 93
-heat: 93
+quality: 73
+heat: 73
 published: true
 
 provider:
@@ -27,7 +27,11 @@ images:
     width: 580
     height: 378
     title: "Dow Jones News: Microsoft Partners With FedEx; Apple Stock Rises as Stores Slowly Reopen"
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F574916%2Ffedex-boxes.jpg&w=1200&op=resize"
+    width: 1200
+    height: 798
+    title: "Dow Jones News: Microsoft Partners With FedEx; Apple Stock Rises as Stores Slowly Reopen"
 
-secured: "AG06mW4xiQ4agWrx6aSfvYR3JtzD13mNEqmu6Kdtoc0J35mmI9/iRWcGj2tV4FAmIZwXZZDaxuIZLSSTwiEIJlSo/yDxKkiZ7zmajO7rozNkapDQfvreAnm+nJH42Y3X3OiCTszcASPPLSGJ90cM4v4xA5LrPPz0mFHoKWDJrOYAXCatpTz/Co1gCT08Qkaq7V56DzVwqA6f/cz72kybW89Qi59NrwSEwPDJDaUl2/UzGiiFZCpUaY0leAJfVMwp/w7JyOCfK+V4xFRj7cjT1A+CWDWmiZnz8P18EPzM6uibw3yYhfvQnE6m6Odr3jM/NmPMT4Uo0sHdOFeC8AQyexHdRB0QWt9prq+cBhfCqlAiiuVGZzdPmSDGBB+tHOBLTxNBOiQ+bynIQdN07nWDE77ZPWERgn5/90V6CcyjUNlGMsnW+/ulUB6XgaRg54SVvRtfJW8FitbhLeqQ6eUIrGiQQXjAhlNPGb0o0muTUjk=;RgVbOkNj84WMLHzxaA8Wrw=="
+secured: "fiYTcbMKdwTyzMtZq/uQPrRkD1tgKMevMAeHglKxbQysmuopMM1HX/OTK22vjktYT8vomsRP507zNqTzJ/EYAL2L4aof42ED3b+bWTFRzS01dqRk6UUo9kiZzwa/RKG5itQI1MYuLGqYmlSU5Xj/NzIEVFzvrgAKlI9uqLXOD3HemZMZF02IZFbk019PW+b6QoaCqbIgntk1qM0Abt7M2riGJk3lVbl91bGQOuDe5gFbQolydXG3KRmIHhbxbjbAKv5hO97v/PCylJUzJghmr0NnD9A9TDp3nVl/6X1qr+tia98jBvMUHOFOqF4uuFkd;q4Ub7QBIEoC3LTPvojmYoA=="
 ---
 

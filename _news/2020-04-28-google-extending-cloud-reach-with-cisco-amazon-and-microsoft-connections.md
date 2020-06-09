@@ -7,8 +7,8 @@ webUrl: "https://www.techspot.com/news/85012-google-extending-cloud-reach-cisco-
 ampWebUrl: "https://www.techspot.com/amp/news/85012-google-extending-cloud-reach-cisco-amazon-microsoft-connections.html"
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85012-google-extending-cloud-reach-cisco-amazon-microsoft-connections.html"
 type: article
-quality: 101
-heat: 121
+quality: 81
+heat: 101
 published: true
 
 provider:

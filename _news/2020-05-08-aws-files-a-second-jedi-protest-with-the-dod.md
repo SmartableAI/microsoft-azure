@@ -7,9 +7,9 @@ webUrl: "https://www.bizjournals.com/washington/news/2020/05/07/aws-files-a-seco
 ampWebUrl: "https://www.bizjournals.com/washington/news/2020/05/07/aws-files-a-second-jedi-protest-with-the-dod.amp.html"
 cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/washington/news/2020/05/07/aws-files-a-second-jedi-protest-with-the-dod.amp.html"
 type: article
-quality: 62
-heat: 82
-published: true
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: The Business Journals
@@ -33,7 +33,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 45
+    quality: 35
     images:
       - url: "https://i.insider.com/5eb32c9042278d19492e26ec?width=1200&format=jpeg"
         width: 1200

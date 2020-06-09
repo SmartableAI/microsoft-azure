@@ -7,7 +7,7 @@ webUrl: "https://www.itproportal.com/news/aws-files-another-complaint-againt-mic
 ampWebUrl: "https://www.itproportal.com/amp/news/aws-files-another-complaint-againt-microsofts-jedi-win/"
 cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/aws-files-another-complaint-againt-microsofts-jedi-win/"
 type: article
-quality: 62
+quality: 42
 heat: -1
 published: false
 
@@ -35,7 +35,7 @@ related:
     provider:
       name: TechRadar
       domain: techradar.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/utLgVZfGNmPcqfsQrX5XMh-1200-80.jpg"
         width: 970

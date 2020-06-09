@@ -5,7 +5,7 @@ excerpt: "Microsoft has launched 'Cloud for Healthcare,' a bundle of cloud servi
 publishedDateTime: 2020-05-20T10:03:00Z
 webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-launches-cloud-healthcare-its-first-industry-vertical/"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
@@ -33,7 +33,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F575083%2Fmicrosoft-healthcare-cloud-mf.jpg&w=1200&op=resize"
         width: 1200
@@ -48,7 +48,7 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519179146&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4I1BJ"
         width: 817
@@ -63,7 +63,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 98
+    quality: 78
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2018/06/GettyImages-952061110.jpg?w=1024"
         width: 1024
@@ -78,7 +78,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 97
+    quality: 77
     images:
       - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/14/533e6954-77da-4a3b-a494-d048db111d54/thumbnail/1200x675/0f777a75c789f86629369bf9956b8307/microsoftmetaswitch.jpg"
         width: 1200
@@ -93,7 +93,7 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://content.jwplatform.com/thumbs/6UhcmMhw-720.jpg"
         width: 720
@@ -108,7 +108,7 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
-    quality: 61
+    quality: 41
     images:
       - url: "https://content.jwplatform.com/thumbs/9eFnHW1Q-720.jpg"
         width: 720
@@ -121,7 +121,7 @@ related:
     provider:
       name: CRN Australia
       domain: crn.com.au
-    quality: 47
+    quality: 37
     images:
       - url: "https://i.nextmedia.com.au/News/20200520062800_0_0_0_0_70__News_20181029105528_crn_14_new_Microsoft_stock.jpg"
         width: 1400

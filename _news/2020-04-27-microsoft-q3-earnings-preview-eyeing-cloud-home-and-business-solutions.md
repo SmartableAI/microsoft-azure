@@ -7,8 +7,8 @@ webUrl: "https://www.benzinga.com/news/earnings/20/04/15889755/microsoft-q3-earn
 ampWebUrl: "https://amp.benzinga.com/amp/content/15889755"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15889755"
 type: article
-quality: 61
-heat: 61
+quality: 41
+heat: 41
 published: false
 
 provider:

@@ -5,7 +5,7 @@ excerpt: "Future machine learning models will be enormous. The OpenAI system sho
 publishedDateTime: 2020-05-21T16:50:00Z
 webUrl: "https://www.datacenterknowledge.com/microsoft/microsoft-says-it-s-built-top-five-supercomputer-cloud-ai"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
@@ -33,7 +33,7 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://cnet1.cbsistatic.com/img/TEkbzdFayDjsegaDhc8T7JF9qVI=/756x567/2018/11/10/97f08e96-4be4-41b1-acdc-43595379dfe1/llnl-sierra-supercomputer-randy-wong.jpg"
         width: 756
@@ -48,7 +48,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 72
+    quality: 62
 
 secured: "F1WczTGqJIawaLd5R7XaqlDc1fZ/EeANG9hY4GVTX3nhQ7tRHUv3tXWOk5Hgjg12dNCuy14nLjUfyDFCFWBNRtibHhDG8Fy0/LdHrv8eg44RC7wch6LTtupXkvIIbpWmASyjuyAp25uUr/MV62Rk1bnvpfdkGBHiH/nJBDtSf5YCDBnyHPWIARGP4pKClD03eulEZMVVi5BXDNhfpegqw1EBIDXXMH7qkgOa7A5SdhbvzM63Fr6X/VGuvjuiQ1/i5pELd3GIeei+E23IANm4+dSJC1CNq37SWrquvSj59wofXDCzOphc4ca4BoiDHT9EiOLzYhTHZeOxEYYC6tudotU8hrdpvfspgxlJyC8R+6hrFpe4xM4LnK7Zl2Vw0SRgJoqgUNMYnFRepHtADHw41gBY6J7SH4HxikciCWJTy5dtlEm4U97lYEPOnWOjwKc5Sef5jZS+voCz9lEebG9KanN32YtGNavvvk8CZgKlnBU=;PdtYrG34EbW1al4crRUfYQ=="
 ---

@@ -7,8 +7,8 @@ webUrl: "https://investorplace.com/2020/05/cloud-computing-stocks-recession-proo
 ampWebUrl: "https://investorplace.com/2020/05/cloud-computing-stocks-recession-proof-stocks-hiding-in-plain-sight/amp/"
 cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/05/cloud-computing-stocks-recession-proof-stocks-hiding-in-plain-sight/amp/"
 type: article
-quality: 62
-heat: 62
+quality: 42
+heat: 42
 published: false
 
 provider:

@@ -7,8 +7,8 @@ webUrl: "https://www.fool.com/investing/2020/05/05/dow-jones-news-ibm-to-launch-
 ampWebUrl: "https://www.fool.com/amp/investing/2020/05/05/dow-jones-news-ibm-to-launch-new-cloud-ai-products.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/05/dow-jones-news-ibm-to-launch-new-cloud-ai-products.aspx"
 type: article
-quality: 90
-heat: 90
+quality: 70
+heat: 70
 published: true
 
 provider:

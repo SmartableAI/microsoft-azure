@@ -5,8 +5,8 @@ excerpt: "Connectivity has gone through a fundamental shift as more workloads an
 publishedDateTime: 2020-02-27T10:00:01Z
 webUrl: "https://azure.microsoft.com/blog/expressroute-global-reach-building-your-own-cloud-based-global-backbone/"
 type: article
-quality: 93
-heat: 93
+quality: 83
+heat: 83
 published: true
 
 provider:

@@ -5,8 +5,8 @@ excerpt: "The research report of “Cloud Telephony Service Market” study repo
 publishedDateTime: 2020-05-04T07:48:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-telephony-service-market-overview-industry-top-manufactures-market-size-industry-growth-analysis-forecast-2024-2020-05-04"
 type: article
-quality: 46
-heat: 46
+quality: 36
+heat: 36
 published: false
 
 provider:

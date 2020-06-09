@@ -7,8 +7,8 @@ webUrl: "https://www.fool.com/investing/2020/04/22/amazon-running-out-ways-stop-
 ampWebUrl: "https://www.fool.com/amp/investing/2020/04/22/amazon-running-out-ways-stop-microsoft-jedi-deal.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/22/amazon-running-out-ways-stop-microsoft-jedi-deal.aspx"
 type: article
-quality: 102
-heat: 122
+quality: 82
+heat: 102
 published: true
 
 provider:
@@ -39,7 +39,7 @@ related:
     provider:
       name: InvestorPlace
       domain: investorplace.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://investorplace.com/wp-content/uploads/2019/10/msft1600f.jpg"
         width: 1600

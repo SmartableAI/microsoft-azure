@@ -5,8 +5,8 @@ excerpt: "If you are using the original Windows Azure Storage Blob (WASB) driver
 publishedDateTime: 2020-04-07T11:46:00Z
 webUrl: "https://medium.com/microsoftazure/securing-access-to-azure-data-lake-gen2-from-azure-databricks-8580ddcbdc6"
 type: article
-quality: 87
-heat: 87
+quality: 77
+heat: 77
 published: true
 
 provider:

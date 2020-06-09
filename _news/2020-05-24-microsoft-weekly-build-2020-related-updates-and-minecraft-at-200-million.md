@@ -7,8 +7,8 @@ webUrl: "https://www.neowin.net/news/microsoft-weekly-build-2020-related-updates
 ampWebUrl: "https://www.neowin.net/amp/microsoft-weekly-build-2020-related-updates-and-minecraft-at-200-million/"
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-weekly-build-2020-related-updates-and-minecraft-at-200-million/"
 type: article
-quality: 100
-heat: 100
+quality: 80
+heat: 80
 published: true
 
 provider:

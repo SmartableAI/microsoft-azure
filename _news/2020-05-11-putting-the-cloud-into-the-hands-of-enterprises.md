@@ -7,8 +7,8 @@ webUrl: "https://www.nextplatform.com/2020/05/11/putting-the-cloud-into-the-hand
 ampWebUrl: "https://www.nextplatform.com/2020/05/11/putting-the-cloud-into-the-hands-of-enterprises/amp/"
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/05/11/putting-the-cloud-into-the-hands-of-enterprises/amp/"
 type: article
-quality: 62
-heat: 62
+quality: 42
+heat: 42
 published: false
 
 provider:

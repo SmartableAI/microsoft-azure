@@ -5,7 +5,7 @@ excerpt: "The buy represents Microsoft's second purchase this year of a company 
 publishedDateTime: 2020-05-14T20:41:00Z
 webUrl: "https://redmondmag.com/articles/2020/05/14/microsoft-buying-metaswitch-networks.aspx"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
@@ -33,7 +33,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 110
+    quality: 90
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2016/04/20160404_Envision_07-1240x828.jpg"
         width: 1240
@@ -48,7 +48,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 101
+    quality: 81
     images:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F574460%2Fcloud-on-blur-computer-data-center-background.jpg&w=1200&op=resize"
         width: 1200
@@ -63,7 +63,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 65
+    quality: 55
   - title: "Microsoft acquires Metaswitch Networks to improve 5G communications"
     excerpt: "Microsoft announced yet another acquisition related to 5G development. Its acquisition of Metaswitch Networks follows on the heels of a recent purchase of Affirmed Networks."
     publishedDateTime: 2020-05-14T16:19:00Z
@@ -74,7 +74,7 @@ related:
     provider:
       name: Windows Central
       domain: windowscentral.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2017/09/microsoft-logo-2017-ignite2.jpg?itok=c3ocGDNm"
         width: 800
@@ -89,7 +89,7 @@ related:
     provider:
       name: UPI.com
       domain: upi.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/2971589479123/2020/1/033a3a5736c93029032c750c2036488e/v1.5/Microsoft-announces-agreement-to-acquire-Metaswitch-Networks.jpg"
         width: 800
@@ -104,7 +104,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 53
+    quality: 33
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2017/06/452292672.jpg"
         width: 800
@@ -117,7 +117,7 @@ related:
     provider:
       name: Computing
       domain: computing.co.uk
-    quality: 25
+    quality: 15
     images:
       - url: "https://www.computing.co.uk/api/v1/wps/e846d36/23645122-022c-434a-8da2-3cd281a1f8c6/4/Metaswitch-370x229.jpg"
         width: 370

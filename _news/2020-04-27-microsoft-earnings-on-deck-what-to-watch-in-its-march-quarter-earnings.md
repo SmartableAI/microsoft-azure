@@ -7,8 +7,8 @@ webUrl: "https://www.thestreet.com/investing/microsoft-earnings-on-deck-what-to-
 ampWebUrl: "https://www.thestreet.com/.amp/investing/microsoft-earnings-on-deck-what-to-watch-in-its-march-quarter-earnings"
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/microsoft-earnings-on-deck-what-to-watch-in-its-march-quarter-earnings"
 type: article
-quality: 62
-heat: 62
+quality: 42
+heat: 42
 published: false
 
 provider:

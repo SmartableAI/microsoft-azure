@@ -5,7 +5,7 @@ excerpt: "AUSTIN, Texas, April 27, 2020 /PRNewswire/ -- CognitiveScale, the Trus
 publishedDateTime: 2020-04-27T12:01:00Z
 webUrl: "https://www.prnewswire.com/news-releases/cognitivescales-cortex-certifai-now-available-in-the-microsoft-azure-marketplace-301047031.html"
 type: article
-quality: 42
+quality: 32
 heat: -1
 published: false
 
@@ -31,7 +31,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 46
+    quality: 36
     images:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600

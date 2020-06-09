@@ -7,7 +7,7 @@ webUrl: "https://www.dailyherald.com/business/20200523/microsoft-unveils-cloud-t
 ampWebUrl: "https://www.dailyherald.com/amp-article/20200523/business/200529786/"
 cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20200523/business/200529786/"
 type: article
-quality: 62
+quality: 42
 heat: -1
 published: false
 
@@ -35,7 +35,7 @@ related:
     provider:
       name: Bloomberg
       domain: bloomberg.com
-    quality: 72
+    quality: 62
   - title: "Microsoft unveils healthcare-specific cloud tools"
     excerpt: "Cloud for Healthcare bundles existing services like Microsoft 365, Azure IoT, and TeamsThe underlying data model makes it easier for hospitals and healthcare providers to analy"
     publishedDateTime: 2020-05-19T15:39:00Z

@@ -7,9 +7,9 @@ webUrl: "https://www.geekwire.com/2020/microsoft-slams-amazons-latest-protest-pe
 ampWebUrl: "https://www.geekwire.com/2020/microsoft-slams-amazons-latest-protest-pentagon-cloud-contract-way-avoid-consequences-bad-business-decisions/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-slams-amazons-latest-protest-pentagon-cloud-contract-way-avoid-consequences-bad-business-decisions/amp/"
 type: article
-quality: 68
-heat: 148
-published: true
+quality: 48
+heat: 48
+published: false
 
 provider:
   name: GeekWire
@@ -39,7 +39,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 58
+    quality: 38
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2019/10/109411443_gettyimages-853699560.jpg"
         width: 660
@@ -54,7 +54,7 @@ related:
     provider:
       name: Law360
       domain: law360.com
-    quality: 32
+    quality: 22
   - title: "Amazon files another JEDI protest — this time against Pentagon’s corrective action"
     excerpt: "Amazon has doubled down in its protest of the Joint Enterprise Defense Infrastructure (JEDI) cloud contract. The company filed a second, concurrent bid protest this week directly with the Department of Defense asking for more clarity around the corrective action it has proposed taking on the JEDI contract."
     publishedDateTime: 2020-05-07T23:04:00Z
@@ -63,7 +63,7 @@ related:
     provider:
       name: FedScoop
       domain: fedscoop.com
-    quality: 26
+    quality: 16
     images:
       - url: "https://www.fedscoop.com/wp-content/uploads/2020/01/AWS_-_Amazon_Web_Services_Office_in_Houston_Texas_46600198075.jpg"
         width: 2100
@@ -76,7 +76,7 @@ related:
     provider:
       name: Federal Times
       domain: federaltimes.com
-    quality: 25
+    quality: 15
     images:
       - url: "https://www.armytimes.com/resizer/zPIx2t3S-cW9L6O4V1nUbDT6wsw=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/SPQTUFFMHRFI7FZBGH36NHJ5MA.jpg"
         width: 1200

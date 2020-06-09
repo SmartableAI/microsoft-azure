@@ -5,8 +5,8 @@ excerpt: "A market study title Global Public Cloud Application Services Market G
 publishedDateTime: 2020-04-26T21:16:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-public-cloud-application-services-market-2020-emerging-trend-top-companies-industry-demand-business-review-and-regional-analysis-by-2025-2020-04-26"
 type: article
-quality: 34
-heat: 34
+quality: 24
+heat: 24
 published: false
 
 provider:

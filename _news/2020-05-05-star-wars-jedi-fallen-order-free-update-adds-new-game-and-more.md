@@ -7,9 +7,9 @@ webUrl: "https://www.thumbsticks.com/star-wars-jedi-fallen-order-free-update-050
 ampWebUrl: "https://www.thumbsticks.com/star-wars-jedi-fallen-order-free-update-05052020/amp/"
 cdnAmpWebUrl: "https://www-thumbsticks-com.cdn.ampproject.org/c/s/www.thumbsticks.com/star-wars-jedi-fallen-order-free-update-05052020/amp/"
 type: article
-quality: 62
-heat: 82
-published: true
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: Days
@@ -33,7 +33,7 @@ related:
     provider:
       name: On MSFT
       domain: onmsft.com
-    quality: 22
+    quality: 12
     images:
       - url: "https://www.onmsft.com/wp-content/uploads/2020/05/jedifallenorderupdate.jpg"
         width: 1024

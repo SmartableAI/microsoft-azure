@@ -25,7 +25,7 @@ related:
     provider:
       name: TV NewsCheck
       domain: tvnewscheck.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://tvnewscheck.com/wp-content/themes/TvNewsCheck/assets/img/tvn-logo.png"
         width: 581

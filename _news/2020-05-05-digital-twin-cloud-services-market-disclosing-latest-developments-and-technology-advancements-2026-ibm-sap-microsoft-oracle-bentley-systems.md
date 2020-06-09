@@ -5,8 +5,8 @@ excerpt: "The report titled \"Digital Twin Cloud Services Market\" report will b
 publishedDateTime: 2020-05-05T04:38:00Z
 webUrl: "https://www.marketwatch.com/press-release/digital-twin-cloud-services-market-disclosing-latest-developments-and-technology-advancements---2026-ibm-sap-microsoft-oracle-bentley-systems-2020-05-05"
 type: article
-quality: 34
-heat: 34
+quality: 24
+heat: 24
 published: false
 
 provider:

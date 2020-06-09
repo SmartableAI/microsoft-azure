@@ -5,7 +5,7 @@ excerpt: "Microsoft officials say they've been taking some behind-the-scenes ste
 publishedDateTime: 2020-04-28T11:19:00Z
 webUrl: "https://www.zdnet.com/video/microsoft-heres-how-were-trying-to-manage-increased-cloud-demand/"
 type: article
-quality: 72
+quality: 62
 heat: -1
 published: false
 
@@ -37,7 +37,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/03/30/1bee94a9-8bac-46fe-8ffe-5880854d1040/thumbnail/1200x675/0515dcdb3553b8b42f6fd98c04417369/20200330-daphne-karen-crashing.png"
         width: 1200

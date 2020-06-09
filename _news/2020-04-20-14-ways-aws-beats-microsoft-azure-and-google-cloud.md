@@ -5,7 +5,7 @@ excerpt: "For all of its dominance, though, Amazon has strong competitors. Compa
 publishedDateTime: 2020-04-20T10:02:00Z
 webUrl: "https://www.infoworld.com/article/3321176/14-ways-aws-beats-microsoft-azure-and-google-cloud.html"
 type: article
-quality: 87
+quality: 77
 heat: -1
 published: false
 
@@ -35,7 +35,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 87
+    quality: 77
     images:
       - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
         width: 300

@@ -5,7 +5,7 @@ excerpt: "DevOps Enabler & Co., the company behind an exclusive startup bundle f
 publishedDateTime: 2020-06-01T07:21:00Z
 webUrl: "https://www.sify.com/finance/devops-enabler--co-achieves-a-microsoft-gold-devops-and-cloud-platform-competency-news-topnews-ugbqn5hgeidac.html"
 type: article
-quality: 26
+quality: 16
 heat: -1
 published: false
 
@@ -31,7 +31,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 45
+    quality: 35
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/hololens2-768x512.jpg"
         width: 768

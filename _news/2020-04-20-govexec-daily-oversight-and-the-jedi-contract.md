@@ -5,8 +5,8 @@ excerpt: "Recently, the Pentagon IG released a report on the JEDI contract and f
 publishedDateTime: 2020-04-20T10:10:00Z
 webUrl: "https://www.govexec.com/technology/2020/04/govexec-daily-oversight-and-jedi-contract/164732/"
 type: article
-quality: 2
-heat: 2
+quality: 22
+heat: 22
 published: false
 
 provider:
@@ -16,6 +16,12 @@ provider:
 topics:
   - Azure
 
-secured: "Q5oboU4PgqeOSunBZ/nF5FHxEOpQ9HVK6OEAcsfCEuEiEEXiY0LcAjCnrqeakOvejZgbH848xl6Q/XkfluDJjU5Seazqn/R3Vt14nm6QcXPl55Mg6x7nTq737AgDfhQMuCXzysAv6OEpwlNPKfzo6wQsMgCBM5aRZMRy1DmXBujGxtENxddn4wu23CRp7AABN6dUeN8f9jw+v7QwDBSnbBSP5KapV0GBAQJIWu6kneVNR7Td4GGKVsP3SQOW8M2YUPQMPIokU1D5MmJJWYxbn5ltyRNYWW1aBDvERItjz0cM0jVlwydQFTEcKZGyziWUjHKPiX3dlh8JqILjuUkOe6UOaQNPPbyJm3zDhF+hTDWl6RRuglIwjtsHHdOz+4TH9AeQOn92A6tUVlMonPPmbU19J3KvwqLn1+0aVtF2Be98Xwuw0dkTNqX5lUM3kf5Xo4Rytw/AjlHD3ljHy6HQ1RejW0n7Gb60ziXwI10QR/E=;Uq8wAVKOZI9h5B7wy6yw9A=="
+images:
+  - url: "https://cdn.govexec.com/media/img/upload/2020/04/19/shutterstock_746396986/open-graph.jpg"
+    width: 400
+    height: 400
+    title: "GovExec Daily: Oversight and the JEDI Contract"
+
+secured: "Fc/U1gRmt5heiFzXpTRkU0C7QB6kiz6jlM5xdKRUGuPVVHfa6ETuMmmt0CMAg16r0Doi7Qq1qSkhRMCj3MdEA441w8zpunF+Ee/nuQkAOyivOEgcwplAUaXkLOZbl5VVsv77EOMLW0CIhWUJoolRn8RTm9Q2s7C4LGYBlEQ9b5bWUjqx0mziMCsuSjHVjsie1gFXXdNAhZIVY8IDbqd1/5vtcERLHItZtbLIMTk1OMepFdrVK2V5SJjXKKSYsx7fgvDmbgi97q1kXf8j6RWsV0s8ub4ysAmI/srBZMMe3xfQbOggR0J1yLUn3NhImlDS;0OnRT15WZj6XDN1knpCgug=="
 ---
 

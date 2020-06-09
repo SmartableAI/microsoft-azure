@@ -7,8 +7,8 @@ webUrl: "https://www.theverge.com/good-deals/2020/4/29/21241163/may-4th-star-war
 ampWebUrl: "https://www.theverge.com/platform/amp/good-deals/2020/4/29/21241163/may-4th-star-wars-deals-jedi-fallen-order-the-skywalker-saga-films-4k-sales"
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/good-deals/2020/4/29/21241163/may-4th-star-wars-deals-jedi-fallen-order-the-skywalker-saga-films-4k-sales"
 type: article
-quality: 92
-heat: 92
+quality: 72
+heat: 72
 published: true
 
 provider:

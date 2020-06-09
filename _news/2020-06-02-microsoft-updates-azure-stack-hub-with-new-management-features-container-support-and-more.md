@@ -5,8 +5,8 @@ excerpt: "During this year's digital Build conference, Microsoft announced sever
 publishedDateTime: 2020-06-02T11:16:00Z
 webUrl: "https://www.infoq.com/news/2020/06/azure-stack-hub-updates/"
 type: article
-quality: 37
-heat: 37
+quality: 27
+heat: 27
 published: false
 
 provider:

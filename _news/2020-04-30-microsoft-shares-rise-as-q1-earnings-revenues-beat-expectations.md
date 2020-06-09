@@ -7,9 +7,9 @@ webUrl: "https://www.thestreet.com/investing/microsoft-beats-q1-earnings-revenue
 ampWebUrl: "https://www.thestreet.com/.amp/investing/microsoft-beats-q1-earnings-revenues-estimates"
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/microsoft-beats-q1-earnings-revenues-estimates"
 type: article
-quality: 62
-heat: 82
-published: true
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: TheStreet.com
@@ -35,7 +35,7 @@ related:
     provider:
       name: Barron's
       domain: barrons.com
-    quality: 49
+    quality: 29
     images:
       - url: "https://images.barrons.com/im-181595/social"
         width: 1280

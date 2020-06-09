@@ -7,8 +7,8 @@ webUrl: "https://www.geekwire.com/2020/cloud-lift-amazon-microsoft-google-apple-
 ampWebUrl: "https://www.geekwire.com/2020/cloud-lift-amazon-microsoft-google-apple-others-finding-common-cushion-crisis/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/cloud-lift-amazon-microsoft-google-apple-others-finding-common-cushion-crisis/amp/"
 type: article
-quality: 92
-heat: 92
+quality: 72
+heat: 72
 published: true
 
 provider:

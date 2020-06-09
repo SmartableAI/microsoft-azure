@@ -5,8 +5,8 @@ excerpt: "Driven by a surge in remote work from the coronavirus pandemic, Micros
 publishedDateTime: 2020-04-27T14:35:00Z
 webUrl: "https://www.ciodive.com/news/microsoft-cloud-capacity-coronavirus/576792/"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:

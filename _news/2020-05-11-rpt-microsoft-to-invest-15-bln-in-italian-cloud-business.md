@@ -7,8 +7,8 @@ webUrl: "https://www.reuters.com/article/microsoft-italy-idUSL8N2CT3B2"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2CT3B2"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2CT3B2"
 type: article
-quality: 102
-heat: 162
+quality: 82
+heat: 142
 published: true
 
 provider:
@@ -39,7 +39,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 72
+    quality: 62
   - title: "Microsoft invests $1.5bn in Italian cloud region"
     excerpt: "Microsoft is investing $1.5bn to establish an Italian cloud region in Milan, according to Reuters. In February, Microsoft promised declared it was to invest in Europe with a $1bn injection into its Polish business coinciding with the opening of a new data center."
     publishedDateTime: 2020-05-11T10:30:00Z
@@ -48,7 +48,7 @@ related:
     provider:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
         width: 1200
@@ -61,7 +61,7 @@ related:
     provider:
       name: CRN
       domain: crn.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.crn.com/resources/025d-0f62b427e83a-33808bdb1efc-1000/cloud-hybrid-it-hand.jpg"
         width: 610

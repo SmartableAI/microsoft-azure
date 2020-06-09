@@ -7,8 +7,8 @@ webUrl: "https://www.cnbc.com/2020/05/18/fedex-microsoft-are-teaming-up-to-deliv
 ampWebUrl: "https://www.cnbc.com/amp/2020/05/18/fedex-microsoft-are-teaming-up-to-deliver-packages-widening-gap-with-amazon.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/18/fedex-microsoft-are-teaming-up-to-deliver-packages-widening-gap-with-amazon.html"
 type: article
-quality: 99
-heat: 119
+quality: 79
+heat: 99
 published: true
 
 provider:
@@ -39,7 +39,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 99
+    quality: 79
     images:
       - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/18/2151fc49-7ad9-4a65-9002-0414a1081af1/thumbnail/1200x675/8639db4c7592580202910c59cd9b807c/screen-shot-2020-05-18-at-3-59-56-pm.png"
         width: 1200

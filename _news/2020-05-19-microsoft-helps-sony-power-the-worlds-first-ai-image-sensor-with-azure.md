@@ -5,7 +5,7 @@ excerpt: "Sony is the top image sensor supplier to the smartphone industry and h
 publishedDateTime: 2020-05-19T16:59:00Z
 webUrl: "https://siliconangle.com/2020/05/19/microsoft-helps-sony-power-worlds-first-ai-image-sensor-azure/"
 type: article
-quality: 47
+quality: 37
 heat: -1
 published: false
 
@@ -33,7 +33,7 @@ related:
     provider:
       name: Engadget
       domain: engadget.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F9229e060-999b-11ea-939f-54acbb91a315&client=amp-blogside-v2&signature=f4675774e49d1699bc2ea8c11f3f382adaf9a6e7"
         width: 600

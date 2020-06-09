@@ -7,8 +7,8 @@ webUrl: "https://mspoweruser.com/microsoft-build-online-is-going-back-to-its-roo
 ampWebUrl: "https://mspoweruser.com/microsoft-build-online-is-going-back-to-its-roots-with-greater-developer-focus/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-build-online-is-going-back-to-its-roots-with-greater-developer-focus/amp/"
 type: article
-quality: 58
-heat: 58
+quality: 38
+heat: 38
 published: false
 
 provider:

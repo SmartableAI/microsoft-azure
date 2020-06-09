@@ -7,8 +7,8 @@ webUrl: "https://www.fool.com/investing/2020/04/29/dow-jones-news-boeing-cuts-pr
 ampWebUrl: "https://www.fool.com/amp/investing/2020/04/29/dow-jones-news-boeing-cuts-production-and-staff-mi.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/29/dow-jones-news-boeing-cuts-production-and-staff-mi.aspx"
 type: article
-quality: 96
-heat: 96
+quality: 76
+heat: 76
 published: true
 
 provider:

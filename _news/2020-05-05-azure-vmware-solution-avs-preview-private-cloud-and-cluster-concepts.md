@@ -5,8 +5,8 @@ excerpt: "Learn about the key capabilities of Azure VMware software-defined data
 publishedDateTime: 2020-05-05T05:23:00Z
 webUrl: "https://docs.microsoft.com/en-us/azure/azure-vmware/concepts-private-clouds-clusters"
 type: article
-quality: 47
-heat: 47
+quality: 37
+heat: 37
 published: false
 
 provider:

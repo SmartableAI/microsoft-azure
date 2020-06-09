@@ -7,8 +7,8 @@ webUrl: "https://www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats
 ampWebUrl: "https://www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.amp.html"
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.amp.html"
 type: article
-quality: 117
-heat: 117
+quality: 97
+heat: 97
 published: true
 
 provider:

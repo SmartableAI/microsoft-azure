@@ -7,9 +7,9 @@ webUrl: "https://mspoweruser.com/microsoft-azure-cache-for-redis/"
 ampWebUrl: "https://mspoweruser.com/microsoft-azure-cache-for-redis/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-azure-cache-for-redis/amp/"
 type: article
-quality: 68
-heat: 108
-published: true
+quality: 48
+heat: 48
+published: false
 
 provider:
   name: MSPoweruser
@@ -33,7 +33,7 @@ related:
     provider:
       name: SD Times
       domain: sdtimes.com
-    quality: 51
+    quality: 41
     images:
       - url: "https://sdtimes.com/wp-content/uploads/2020/05/1_jFyfsakE2WBv5sFjBQUsuw.png"
         width: 1200
@@ -46,7 +46,11 @@ related:
     provider:
       name: WFMZ-TV
       domain: wfmz.com
-    quality: 0
+    quality: 5
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
 
 secured: "uRlAE6UGLZmb5bBV1dBB1x2fIIWCUB2lzm+7rMd9eccqFoG8s/D/tzPzdWWfEgKZPrvEcFae2zLxUlNxCfj0S5uDtC0Vg7fXmpAaEn06Meah0o68ewn4ptS39/ZcW+8hL86vxsdfGB2a1T8A9RpWOC+uiLroOW6sA3ldXQeXXfbZ6FYiSPQY0r1Hzqq7KDbQx3W7L3gcowVlrgiM3qGYdw2xsFlwf4UjhYa1FT5K5gMdaTN/HQJ4KGaufMinurzBBhS92fUzhDyErItPncWJeEJPpvKnxA8YJAbC8FMrz5H69PezaRxtPNx/KQdOQxTeW4Y9OMYVy81od8yyjTVHYADe7l2V+qfkgALsgU5TlEtNLI6nRjXHfeZo5I5nsMLcDz312tFX3qNuebF7tkxjqc+vEGnuueUoEt7vlLzvG8lGk7j0f/PHTUzxLsCENt37KyZjn6lXV4lBhnsT43iBitOq+PhzjskObmikgoelO7A=;LQJ2AKvr+o5ecFvhqL+J0g=="
 ---

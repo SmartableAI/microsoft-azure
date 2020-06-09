@@ -7,8 +7,8 @@ webUrl: "https://www.barrons.com/articles/fedex-surround-microsoft-package-deliv
 ampWebUrl: "https://www.barrons.com/amp/articles/fedex-surround-microsoft-package-delivery-tracking-51589831147"
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/fedex-surround-microsoft-package-delivery-tracking-51589831147"
 type: article
-quality: 62
-heat: 62
+quality: 42
+heat: 42
 published: false
 
 provider:

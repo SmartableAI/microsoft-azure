@@ -7,9 +7,9 @@ webUrl: "https://www.forbes.com/sites/jjkinahan/2020/04/27/microsofts-three-pron
 ampWebUrl: "https://www.forbes.com/sites/jjkinahan/2020/04/27/microsofts-three-pronged-pincer-business-cloud-and-home/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jjkinahan/2020/04/27/microsofts-three-pronged-pincer-business-cloud-and-home/amp/"
 type: article
-quality: 72
-heat: 72
-published: true
+quality: 62
+heat: 62
+published: false
 
 provider:
   name: Forbes

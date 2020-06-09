@@ -5,7 +5,7 @@ excerpt: "Microsoft announced the next version of the Azure VMware Solution will
 publishedDateTime: 2020-05-04T22:45:00Z
 webUrl: "https://www.crn.com/news/cloud/microsoft-unveils-next-gen-azure-vmware-solution-to-accelerate-cloud-shift"
 type: article
-quality: 45
+quality: 35
 heat: -1
 published: false
 
@@ -33,7 +33,7 @@ related:
     provider:
       name: Neowin
       domain: neowin.net
-    quality: 117
+    quality: 97
     images:
       - url: "https://cdn.neow.in/news/images/uploaded/2019/09/1567329604_azure-1_story.jpg"
         width: 760
@@ -57,7 +57,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 77
+    quality: 57
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2018/10/Swift-Azure.jpg"
         width: 932
@@ -70,7 +70,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/16077984773_ea37e226c1_k.jpg"
         width: 2048
@@ -83,7 +83,7 @@ related:
     provider:
       name: Virtualization Review
       domain: virtualizationreview.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/IntroImages2019/BlackWhiteDotsWavePatarn.jpg"
         width: 647

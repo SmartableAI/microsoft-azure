@@ -7,8 +7,8 @@ webUrl: "https://www.fool.com/investing/2020/05/06/3-top-cloud-computing-stocks-
 ampWebUrl: "https://www.fool.com/amp/investing/2020/05/06/3-top-cloud-computing-stocks-to-buy-in-may.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/3-top-cloud-computing-stocks-to-buy-in-may.aspx"
 type: article
-quality: 102
-heat: 102
+quality: 82
+heat: 82
 published: true
 
 provider:
@@ -26,6 +26,10 @@ images:
   - url: "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg"
     width: 580
     height: 378
+    title: "3 Top Cloud Computing Stocks to Buy in May"
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F571500%2Fgettyimages-1145589623.jpg&w=1200&op=resize"
+    width: 1200
+    height: 750
     title: "3 Top Cloud Computing Stocks to Buy in May"
 
 secured: "+CN4F09Uj1uFM42beV/kEfvblqzI4i4zBTOc8spxipYcxXDqMQO3eyVDTT9NtHvuszkQdilj0bnaZYvpXMtIOoQqi4VlLby/h1+h/bOJ3zbKstIy06ZZE+7wSb+WG/3gaquVxp/6QfhppMkqhlFd1sSyLK0p1JjOkgxVcK2GPYBRSd1BUmDAPKxdcMj+wMPaPIPt7KelYEmJY/rtA+7C/+vD4PyUI+B+ZgP31wKjzwIVSwDlZzK3DO3pU4wxVlqxf+eGKtu8BNQF61hFMyobjdQvtpDfBpzxBAaoKuivFRMQJ7M/Xjye9W4nASukaAKn;DvaInMWx4bDiSsSTU2js8A=="

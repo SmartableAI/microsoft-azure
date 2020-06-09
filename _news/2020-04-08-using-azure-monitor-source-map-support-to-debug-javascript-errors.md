@@ -5,8 +5,8 @@ excerpt: "Azure Monitor’s new source map support expands a growing list of too
 publishedDateTime: 2020-04-08T10:00:00Z
 webUrl: "https://azure.microsoft.com/blog/using-azure-monitor-source-map-support-to-debug-javascript-errors/"
 type: article
-quality: 107
-heat: 107
+quality: 97
+heat: 97
 published: true
 
 provider:

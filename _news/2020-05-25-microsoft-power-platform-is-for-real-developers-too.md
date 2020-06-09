@@ -7,8 +7,8 @@ webUrl: "https://www.itworld.com/article/3545369/microsoft-power-platform-is-for
 ampWebUrl: "https://www.itworld.com/article/3545369/microsoft-power-platform-is-for-real-developers-too.amp.html"
 cdnAmpWebUrl: "https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3545369/microsoft-power-platform-is-for-real-developers-too.amp.html"
 type: article
-quality: 62
-heat: 62
+quality: 42
+heat: 42
 published: false
 
 provider:

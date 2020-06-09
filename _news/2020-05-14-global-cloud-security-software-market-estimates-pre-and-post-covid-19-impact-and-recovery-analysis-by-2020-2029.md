@@ -5,8 +5,8 @@ excerpt: "The Cloud Security Software report encompasses a careful analysis of a
 publishedDateTime: 2020-05-14T07:06:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-cloud-security-software-market-estimates-pre-and-post-covid-19-impact-and-recovery-analysis-by-2020-2029-2020-05-14"
 type: article
-quality: 51
-heat: 51
+quality: 41
+heat: 41
 published: false
 
 provider:

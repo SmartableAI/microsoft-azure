@@ -5,7 +5,7 @@ excerpt: "Microsoft becomes an Official Technology Partner for the NBA; together
 publishedDateTime: 2020-04-16T18:10:00Z
 webUrl: "https://news.microsoft.com/2020/04/16/nba-announces-new-multiyear-partnership-with-microsoft-to-redefine-and-personalize-the-fan-experience/"
 type: article
-quality: 17
+quality: 7
 heat: -1
 published: false
 
@@ -37,7 +37,7 @@ related:
     provider:
       name: Digital Trends
       domain: digitaltrends.com
-    quality: 98
+    quality: 78
     images:
       - url: "https://icdn2.digitaltrends.com/image/digitaltrends/oklahoma-city-thunder-v-golden-state-warriors-game-seven-1200x630-c-ar1.91.jpg"
         width: 1200

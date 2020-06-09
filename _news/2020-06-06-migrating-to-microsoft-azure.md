@@ -5,8 +5,8 @@ excerpt: "One of the first things cloud architect Bill Zack did after moving fro
 publishedDateTime: 2020-06-06T00:00:00Z
 webUrl: "https://sdtimes.com/msft/migrating-to-microsoft-azure/"
 type: article
-quality: 87
-heat: 87
+quality: 77
+heat: 77
 published: true
 
 provider:

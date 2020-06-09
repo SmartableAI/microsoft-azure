@@ -5,8 +5,8 @@ excerpt: "A new deal is available for more than 94% off The Ultimate Microsoft A
 publishedDateTime: 2020-04-14T15:57:00Z
 webUrl: "https://www.bleepingcomputer.com/offer/deals/get-94-percent-off-the-microsoft-azure-administrator-cert-prep-courses-bundle-deal/"
 type: article
-quality: 45
-heat: 45
+quality: 35
+heat: 35
 published: false
 
 provider:

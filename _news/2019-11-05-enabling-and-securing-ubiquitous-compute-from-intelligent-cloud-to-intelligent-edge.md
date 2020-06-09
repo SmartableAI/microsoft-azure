@@ -5,8 +5,8 @@ excerpt: "Enterprises are embracing the cloud to run their mission-critical work
 publishedDateTime: 2019-11-05T14:00:09Z
 webUrl: "https://azure.microsoft.com/blog/enabling-and-securing-ubiquitous-compute-from-intelligent-cloud-to-intelligent-edge/"
 type: article
-quality: 88
-heat: 88
+quality: 78
+heat: 78
 published: true
 
 provider:

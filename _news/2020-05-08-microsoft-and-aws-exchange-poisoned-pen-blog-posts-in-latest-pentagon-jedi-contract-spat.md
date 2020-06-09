@@ -7,7 +7,7 @@ webUrl: "https://techcrunch.com/2020/05/08/microsoft-and-aws-exchange-poisoned-p
 ampWebUrl: "https://techcrunch.com/2020/05/08/microsoft-and-aws-exchange-poisoned-pen-blog-posts-in-latest-pentagon-jedi-contract-spat/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/08/microsoft-and-aws-exchange-poisoned-pen-blog-posts-in-latest-pentagon-jedi-contract-spat/amp/"
 type: article
-quality: 93
+quality: 73
 heat: -1
 published: false
 
@@ -39,7 +39,7 @@ related:
     provider:
       name: Engadget
       domain: engadget.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-10%2F073b94a0-f1c4-11e9-8f5b-2c0832cca481&client=amp-blogside-v2&signature=0440a7701a50126da12ef6ffbcc2f78eb97c80fd"
         width: 600
@@ -54,11 +54,14 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg"
         width: 580
         height: 378
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F573031%2Fcloud-computing-tech-security-getty.jpg&w=1200&op=resize"
+        width: 1200
+        height: 675
   - title: "Amazon and Microsoft are accusing each other of playing dirty to get JEDI contract"
     excerpt: "Last month, the DoD cleared Microsoft's JEDI contract award, after it couldn't find any wrongdoing in the whole process. This was the first result of legal action where Amazon, the company that came closest to winning the bid,"
     publishedDateTime: 2020-05-08T23:38:00Z
@@ -69,7 +72,7 @@ related:
     provider:
       name: TechSpot
       domain: techspot.com
-    quality: 96
+    quality: 76
     images:
       - url: "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-08-image-13.jpg"
         width: 1600
@@ -84,7 +87,7 @@ related:
     provider:
       name: winbuzzer.com
       domain: winbuzzer.com
-    quality: 77
+    quality: 57
     images:
       - url: "https://winbuzzer.com/wp-content/uploads/2016/04/Microsoft-Clouds-Pixels-Reuse.jpg"
         width: 1280
@@ -97,7 +100,7 @@ related:
     provider:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://media.datacenterdynamics.com/media/images/JEDI_Thats_No_Moon.2e16d0ba.fill-1200x630.png"
         width: 1200

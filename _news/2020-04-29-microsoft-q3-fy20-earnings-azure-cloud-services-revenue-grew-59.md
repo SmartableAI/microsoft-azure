@@ -7,7 +7,7 @@ webUrl: "https://mspoweruser.com/microsoft-q3-fy20-earnings-azure-revenue-grew-5
 ampWebUrl: "https://mspoweruser.com/microsoft-q3-fy20-earnings-azure-revenue-grew-59/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-q3-fy20-earnings-azure-revenue-grew-59/amp/"
 type: article
-quality: 77
+quality: 57
 heat: -1
 published: false
 
@@ -35,7 +35,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2016/11/Microsoft.jpg?fit=2048%2C1025&strip=all"
         width: 2048
@@ -50,7 +50,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 70
+    quality: 50
     images:
       - url: "https://i.insider.com/5ea9cc5f5f726e057f0f9244?width=1200&format=jpeg"
         width: 1200

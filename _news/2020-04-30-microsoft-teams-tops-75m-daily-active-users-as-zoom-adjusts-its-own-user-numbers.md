@@ -7,8 +7,8 @@ webUrl: "https://www.geekwire.com/2020/microsoft-teams-reaches-75m-daily-active-
 ampWebUrl: "https://www.geekwire.com/2020/microsoft-teams-reaches-75m-daily-active-users-zoom-adjusts-user-numbers/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-teams-reaches-75m-daily-active-users-zoom-adjusts-user-numbers/amp/"
 type: article
-quality: 97
-heat: 97
+quality: 77
+heat: 77
 published: true
 
 provider:

@@ -5,8 +5,8 @@ excerpt: "Open Systems Integrates Microsoft Azure Sentinel Into its Managed Dete
 publishedDateTime: 2020-05-05T14:41:00Z
 webUrl: "https://www.businesswire.com/news/home/20200505005255/en/Open-Systems-Integrates-Microsoft-Azure-Sentinel-Managed"
 type: article
-quality: 27
-heat: 27
+quality: 17
+heat: 17
 published: false
 
 provider:

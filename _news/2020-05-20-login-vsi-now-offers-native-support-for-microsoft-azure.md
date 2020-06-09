@@ -5,7 +5,7 @@ excerpt: "Login VSI, dedicated to maximizing the end-user experience, announced 
 publishedDateTime: 2020-05-20T23:56:00Z
 webUrl: "https://www.helpnetsecurity.com/2020/05/21/login-vsi-microsoft-azure/"
 type: article
-quality: 47
+quality: 37
 heat: -1
 published: false
 
@@ -31,7 +31,7 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://mms.businesswire.com/media/20200520005045/en/792654/23/LoginVSI_logo_RGB_primary_110419.jpg"
         width: 1200

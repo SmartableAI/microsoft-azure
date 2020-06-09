@@ -5,8 +5,8 @@ excerpt: "Microsoft on Tuesday announced the availability of its collaboration d
 publishedDateTime: 2020-05-19T06:01:00Z
 webUrl: "https://www.sify.com/finance/microsoft-launches-surface-hub-2s-in-india-news-topnews-uftlu8jjeghce.html"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:

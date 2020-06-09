@@ -5,8 +5,8 @@ excerpt: "The coronavirus allows Google Cloud to double down on its acquisition 
 publishedDateTime: 2020-04-28T19:01:00Z
 webUrl: "https://www.businessinsider.com/google-cloud-faces-acquisition-opportunities-amid-pandemic-2020-4"
 type: article
-quality: 63
-heat: 63
+quality: 53
+heat: 53
 published: false
 
 provider:

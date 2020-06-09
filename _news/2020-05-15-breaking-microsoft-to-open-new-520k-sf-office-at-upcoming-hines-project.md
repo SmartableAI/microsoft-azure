@@ -5,8 +5,8 @@ excerpt: "Microsoft has inked a deal to occupy Hines ' Atlantic Yards developmen
 publishedDateTime: 2020-05-15T18:53:00Z
 webUrl: "https://www.bisnow.com/atlanta/news/office/breaking-microsoft-opening-major-client-facing-office-with-1500-new-jobs-in-midtown-104432"
 type: article
-quality: 31
-heat: 31
+quality: 21
+heat: 21
 published: false
 
 provider:
@@ -31,7 +31,7 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 20
+    quality: 10
     images:
       - url: "https://media.bizj.us/view/img/11663643/microsoft-2020-05-15-at-24326-pm*1200xx1227-690-0-66.png"
         width: 1200

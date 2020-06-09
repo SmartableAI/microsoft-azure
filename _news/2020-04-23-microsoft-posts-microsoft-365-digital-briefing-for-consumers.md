@@ -5,8 +5,8 @@ excerpt: "Before Microsoft announced that it was rebranding Office 365 for consu
 publishedDateTime: 2020-04-23T13:38:00Z
 webUrl: "https://www.thurrott.com/cloud/microsoft-365/235189/microsoft-posts-microsoft-365-digital-briefing-for-consumers"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:

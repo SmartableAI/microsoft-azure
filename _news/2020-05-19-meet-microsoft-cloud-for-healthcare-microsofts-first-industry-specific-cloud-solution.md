@@ -7,7 +7,7 @@ webUrl: "https://mspoweruser.com/meet-microsoft-cloud-for-healthcare-solution/"
 ampWebUrl: "https://mspoweruser.com/meet-microsoft-cloud-for-healthcare-solution/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/meet-microsoft-cloud-for-healthcare-solution/amp/"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -35,7 +35,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 105
+    quality: 85
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2020/05/IMG_20191104_091357.jpg?w=1024"
         width: 1024
@@ -50,7 +50,7 @@ related:
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://cdn.vox-cdn.com/thumbor/A0qSlkmYYXZrzHTj7PIDFJAR7J8=/0x0:3000x1984/1400x933/filters:focal(1260x752:1740x1232):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66814907/518216764.jpg.0.jpg"
         width: 1400
@@ -65,7 +65,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 101
+    quality: 81
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2016/09/gettyimages-452481532.jpg?w=1024"
         width: 1024
@@ -80,7 +80,7 @@ related:
     provider:
       name: Engadget
       domain: engadget.com
-    quality: 100
+    quality: 80
     images:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-05%2Fa0edfd10-9956-11ea-bf56-d8317e33c37c&client=amp-blogside-v2&signature=ba67488c1e6727b316ffc4eea32d47020ae36a8c"
         width: 600
@@ -95,7 +95,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 87
+    quality: 67
     images:
       - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/05/13/bf550a82-e9e8-4511-bee9-983426e8fc52/thumbnail/1200x675/aaf99352c82c362f4feba84192e7819c/2555435eba4cad133864-58121622-nvidia-accelerates-apache-spark.jpg"
         width: 1200
@@ -110,7 +110,11 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 56
+    quality: 66
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ec3edbee25ff100063bf727%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1918%26cropY1%3D0%26cropY2%3D1079"
+        width: 1200
+        height: 675
   - title: "Microsoft unveils cloud tools tailored for health care systems"
     excerpt: "Microsoft Cloud for Healthcare includes tools that allow for digital triage, telemedicine and coordination of care using internet-based services, chat and conferencing apps. The product was unveiled in a virtual version of the annual Build conference for developers,"
     publishedDateTime: 2020-05-20T06:01:00Z
@@ -121,7 +125,7 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
-    quality: 32
+    quality: 22
 
 secured: "eNO4FoRofTlVmp8QzF8mvD4ATp+B9WvENd5i7Pq8t8CLX5V5AR2J16Caf2S8dPkQWfq+/qzWNXtrYuhTUNx30v6TqjOjwbJST2OqFLyhW12o6cVW0JvQhIzkaV8eK1vNmt+/n2BetuQZKPfk2oPLLgiL4QPOeS1/b07gMFqTYOb3jW3xLacLMk+7+/d4Wca1U7C2V4ifZ8hYQ5wpb1IIlJdf6MMWemG12SjQUp85fWO5wuvtO/QPLc6SKIKi5/mV6rkr2YiLLxxR215O1YOXR82HCc33wcUXaMgUh8mHJdiobemBrTjDYIXxQpcj3VuEJd/kuRXo8cyBw0W2juI6qlQFhabObetYhY663Pdpqrdl3hfen/2ty++Y2t96LVd2QAmpZLjnXzWEjKIfP5lzq0NnXAC7+cqMZh3eD2sy9fuKGBXH18u+LWXsGH7hrx3GpGVtiFzgdTTGYSPepmLTJn/YfiPskwPlWU2MOJCKVAI=;vWyx3lkztHBIHI9441W9wQ=="
 ---

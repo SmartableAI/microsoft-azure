@@ -5,8 +5,8 @@ excerpt: "The pandemic hit you, my clients and me like a tidal wave. For my comp
 publishedDateTime: 2020-05-13T12:00:00Z
 webUrl: "https://www.bizjournals.com/memphis/news/2020/05/13/5-reasons-businesses-are-moving-to-the-cloud-for.html"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:

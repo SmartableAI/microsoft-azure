@@ -7,8 +7,8 @@ webUrl: "https://www.ft.com/content/ac054397-eb9a-4198-a050-18961f39feb9"
 ampWebUrl: "https://amp.ft.com/content/ac054397-eb9a-4198-a050-18961f39feb9"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ac054397-eb9a-4198-a050-18961f39feb9"
 type: article
-quality: 62
-heat: 62
+quality: 42
+heat: 42
 published: false
 
 provider:

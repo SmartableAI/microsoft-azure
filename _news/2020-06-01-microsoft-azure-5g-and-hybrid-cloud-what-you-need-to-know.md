@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/microsoft-azure-5g-and-hybrid-clou
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-5g-and-hybrid-cloud-what-you-need-to-know/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-5g-and-hybrid-cloud-what-you-need-to-know/"
 type: article
-quality: 117
-heat: 117
+quality: 97
+heat: 97
 published: true
 
 provider:

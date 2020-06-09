@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/microsoft-makes-new-github-collaboration-
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-makes-new-github-collaboration-tools-available-to-testers/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-makes-new-github-collaboration-tools-available-to-testers/"
 type: article
-quality: 72
-heat: 72
+quality: 82
+heat: 82
 published: true
 
 provider:
@@ -22,6 +22,12 @@ provider:
 topics:
   - Azure
 
-secured: "CyL0E0SxXsF5wc69u1HEtj5E43DJ6djHDw8iVTHctYNkeV5iPMl1rXXZgW1n/UxGE/QMJPvm9LUoBtxQqXRHjXA0bbqX2qBfqi2zX4Jc21ONNe6bHZ2vH1J3MeazeffQz2h5t3VYQfiWAA6iysUFDn3/3IYyfq2Pi07xnAuz66vycsLUPHdNAOqhklmNLHTIBtR3XkLp60FQCQxcsdoynMUhslJFTgNxCIAVHtaxMYhex9ix/181pMkY2tFuhcVfrH7UjLs3T8I5OrI2hSV4rYDBEX8D77yMQoFbLFA2dgxZr3/xzq+sP1eVUDd80MbumLqu/tZ4+q9gwwXrysXH32Ktpw2ccHaBq1EfexmACnf4i/2L2IYd3qzuPraxEBVO1lN7HXYH1KilEnKn5g3DdJMljxwhn3LQIuHKy/WocjF/QHDXlxlcjM4+ovZLxIIP8xtpvZprmSPJZ6BmPo+fsmkqKY18+EU4ppjtxyzNKks=;Q0BebT2CoRUKfoYek0/KCw=="
+images:
+  - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/03/660bb6e9-3d0d-4d1d-aaf1-2ed92febe618/thumbnail/1200x675/bb2ba3d4b429e7461f5a07f045166d0e/wvdmsixappattach.jpg"
+    width: 1200
+    height: 675
+    title: "Microsoft makes new GitHub collaboration tools available to testers"
+
+secured: "VEHMhg/aDb5AKv/RLe0rdQfnEg0pDbCokP7Q+FlQWB21Qom1wtu7V/THjeo46It/CbVYnvQysYwJnKvDOOHowGi16QrhAqn/U9rhZi1gNiqnzhqGY4iX5hp7QLPGPfZtDgwEc4KbLXFO1BuTLbXHj0tmlk5awm6PmxsChc9nJulFBLHbh5bVA1p5dPxrHKJHqq7J0LrGhKD4kXRiRwPqMYFyCSFQBAtrpgTz7py4vPe/zQjEVFvwg9x0tmCpqyeunVp068i9EttKWXunLcHGuzzB8GPY+tzhOZBj0zTHrPJp0rUvSfAiKxrtHEd/Pkgn;qbwSNIUAS53k+7CZTYi8vQ=="
 ---
 

@@ -5,8 +5,8 @@ excerpt: "Docker today announced that it has extended its strategic collaboratio
 publishedDateTime: 2020-05-27T16:00:00Z
 webUrl: "https://apnews.com/2fe98091652be001e8637122249be3f6"
 type: article
-quality: 42
-heat: 42
+quality: 32
+heat: 32
 published: false
 
 provider:

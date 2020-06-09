@@ -7,9 +7,9 @@ webUrl: "https://mspoweruser.com/sonys-microsoft-azure-partnershipstrong-congest
 ampWebUrl: "https://mspoweruser.com/sonys-microsoft-azure-partnershipstrong-congestion/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/sonys-microsoft-azure-partnershipstrong-congestion/amp/"
 type: article
-quality: 73
-heat: 73
-published: true
+quality: 53
+heat: 53
+published: false
 
 provider:
   name: MSPoweruser

@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/microsoft-azure-boosting-machine-l
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-boosting-machine-learning-and-virtual-desktops-with-gpus/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-boosting-machine-learning-and-virtual-desktops-with-gpus/"
 type: article
-quality: 116
-heat: 116
+quality: 96
+heat: 96
 published: true
 
 provider:

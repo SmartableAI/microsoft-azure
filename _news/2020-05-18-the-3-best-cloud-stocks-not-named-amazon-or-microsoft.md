@@ -7,8 +7,8 @@ webUrl: "https://www.fool.com/investing/2020/05/18/3-best-cloud-stocks-not-named
 ampWebUrl: "https://www.fool.com/amp/investing/2020/05/18/3-best-cloud-stocks-not-named-amazon-microsoft.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/18/3-best-cloud-stocks-not-named-amazon-microsoft.aspx"
 type: article
-quality: 102
-heat: 102
+quality: 82
+heat: 82
 published: true
 
 provider:
@@ -27,7 +27,11 @@ images:
     width: 580
     height: 378
     title: "The 3 Best Cloud Stocks Not Named Amazon or Microsoft"
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F574598%2Fgettyimages-1153461651.jpg&w=1200&op=resize"
+    width: 1200
+    height: 600
+    title: "The 3 Best Cloud Stocks Not Named Amazon or Microsoft"
 
-secured: "DgmnEK1Jy4u9/jsoXVzXSvPNyKjvvdjCAWRRzv7EhYnSJVqbcsROl+HgeK9ec+Ff/Ssgjb+NOTJFrKbgi3QWgaietK3ENbDLMSxY7WlPdQZ9X00QuSTefsFSn82p3C2oAmN+Z/79QpPCsyJPy95ZEqBotIF3fZRaNncTAvs5lfJNM30zEJLa9QhUVcGVu0BU8e7pbEd6uYC7fBm0wtJM1oRsiXsXP+wHGHpFE+KdbpEOOHaMmgb2tfY2SRqGm8fpFbeV5GWs65aR05N2s4RpSZf76c7C92irYrxTZFJyBQFa0g3MooQeQRxyBqMepwpHJghmN8FF5mOpj5aDLgnHMNZI+bMwZDMhBbw2RH0yXyJNnSwBHvjKRETHN2cBt/9xsu4w2FcFU3bAkFeDV9k+qDnRyja/ZA9HL+HkEqFO4Tviqmf1+b9NkoO3i+LH4jmHdd2AsSegZkZOob+LrUD4ahKwq049816wvqzEjZsMPxA=;XYp4NayzL4EUTzDHUt2+6Q=="
+secured: "D0VF4JBJKwvbY7lsv1L71lEdwfdTMivmLFAaIu2EfQ1qSsfLfGxZs3t5BBWlSP8D68zO9B66aAtrnYjAYcpJs1Sul7tOgZFJhsWeT1EN8oxWlgOn81WyQmWZrTCyaGTjRU0IOm+XzIRmKn7VqoTeRbWfG9ON6Oiw7E9MGbCoUXrZ0AwUCdUPtarKwPwXE3TyHQ/pva3GGMmZ9t95u+d4TRT7UJYHJYjJNIBI0lKaiAU716E8KHygF7GcyJ6b5j1LAJ0xYh6YprlU4veK7qn6ZOGn19aRiXULl1/WqvTYxnivQiG6x5dA7G7TJwHhKn+l;lFHx2IVy2hQ/K14FGjbLvA=="
 ---
 

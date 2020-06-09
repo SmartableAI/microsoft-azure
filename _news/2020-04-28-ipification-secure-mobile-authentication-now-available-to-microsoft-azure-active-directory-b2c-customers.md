@@ -5,9 +5,9 @@ excerpt: "Benefit Vantage Limited, developer of the IPification seamless authent
 publishedDateTime: 2020-04-28T14:00:00Z
 webUrl: "https://www.marketwatch.com/press-release/ipification-secure-mobile-authentication-now-available-to-microsoft-azure-active-directory-b2c-customers-2020-04-28"
 type: article
-quality: 70
-heat: 70
-published: true
+quality: 60
+heat: 60
+published: false
 
 provider:
   name: MarketWatch

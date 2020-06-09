@@ -20,6 +20,6 @@ provider:
 topics:
   - Azure
 
-secured: "w4iBNOt3O6bcar+ko25PKmz+MUUo8h89S+3DVzx7rTWRYPw3IvzmuUddLkDF5hXk9V7ht6ntUeozcfbAG9em/NMnL4nHcYZUmYVVtkHYW14/qndWXQvG8KgYmYdP3+woM2I8WLWeaG7RlTb8oCnAkkY1t0Yf39dNXWFNRaituY9Uexr2x1R0vAq3u26cZya3mBRKfdVF182p5gM8lmYDsBmm4dNCTqPQOj3+sguDSJ0py93iLlnnBkzEIvDNm7i4B9ZwxLUrygbM/FbUdSRvqJiZlcmcmFEs9Mc91WWovWwn6M0bFUPG97+IYSGpFWFwsjju/asi6S9uDP2HfUuxvg==;Czi3u1G0vX69ujCnvY56xw=="
+secured: "leV1tVz8vzQ+f6EnLma6Wws3Cxo380RpayOaJBxgUdylm+QadM4iPEW4BI0CkG4+RtganXa2sLK//sF/HOM3Ed08qI0IebEi6m6CW3FhAzDo08O5jQE399e8oBzM9XDzwO1vvL+nJX9IdyS38kMmihm1P5YF7/mUJ+p5RDa1Jmo8o0gptb/N7/JyXbhL+4ebiC7Xv5zzXyNdtVR+hxznnXULPnyqdKkB1Q1GhZZ6bz94wFhg/3H1cqEInPgffcqGthLJFJJXTpnSCxC8Ya7++YGoi+KR65rwQjvp7DNbJqMptfuWvK1bQbZwfmyqm3MYcdbYkfwruYzctdkf428XHA==;2GrgeGbVdaD+l/P7+4zESA=="
 ---
 

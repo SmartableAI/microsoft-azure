@@ -7,8 +7,8 @@ webUrl: "https://www.fool.com/investing/2020/05/26/amazon-stock-is-the-coca-cola
 ampWebUrl: "https://www.fool.com/amp/investing/2020/05/26/amazon-stock-is-the-coca-cola-of-cloud-computing.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/26/amazon-stock-is-the-coca-cola-of-cloud-computing.aspx"
 type: article
-quality: 102
-heat: 102
+quality: 82
+heat: 82
 published: false
 removed: true
 

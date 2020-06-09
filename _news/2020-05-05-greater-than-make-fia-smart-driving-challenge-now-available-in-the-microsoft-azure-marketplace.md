@@ -25,7 +25,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 46
+    quality: 36
     images:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
@@ -38,7 +38,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 42
+    quality: 32
     images:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600

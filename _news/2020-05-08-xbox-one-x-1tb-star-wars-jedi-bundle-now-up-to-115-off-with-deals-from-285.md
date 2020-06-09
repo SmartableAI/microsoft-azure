@@ -7,8 +7,8 @@ webUrl: "https://9to5toys.com/2020/05/08/xbox-one-x-1tb-star-wars-jedi-bundle/"
 ampWebUrl: "https://9to5toys.com/2020/05/08/xbox-one-x-1tb-star-wars-jedi-bundle/amp/"
 cdnAmpWebUrl: "https://9to5toys-com.cdn.ampproject.org/c/s/9to5toys.com/2020/05/08/xbox-one-x-1tb-star-wars-jedi-bundle/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 39
+heat: 39
 published: false
 
 provider:

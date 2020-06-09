@@ -5,8 +5,8 @@ excerpt: ""
 publishedDateTime: 2020-05-26T18:00:30Z
 webUrl: "https://azure.microsoft.com/en-us/updates/sesrvice-bus-explorer/"
 type: article
-quality: 107
-heat: 107
+quality: 97
+heat: 97
 published: true
 
 provider:

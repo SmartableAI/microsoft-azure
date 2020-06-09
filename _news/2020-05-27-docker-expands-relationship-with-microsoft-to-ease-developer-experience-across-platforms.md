@@ -7,8 +7,8 @@ webUrl: "https://techcrunch.com/2020/05/27/docker-expands-relationship-with-micr
 ampWebUrl: "https://techcrunch.com/2020/05/27/docker-expands-relationship-with-microsoft-to-ease-developer-experience-across-platforms/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/27/docker-expands-relationship-with-microsoft-to-ease-developer-experience-across-platforms/amp/"
 type: article
-quality: 93
-heat: 133
+quality: 73
+heat: 113
 published: true
 
 provider:
@@ -37,7 +37,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -50,7 +50,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 46
+    quality: 36
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/Johnston-768x512.jpg"
         width: 768

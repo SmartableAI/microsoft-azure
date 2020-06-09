@@ -5,8 +5,8 @@ excerpt: "As organizations continue to expand their use of IT and the cloud, pro
 publishedDateTime: 2020-02-05T08:00:05Z
 webUrl: "https://azure.microsoft.com/blog/backup-explorer-now-available-in-preview/"
 type: article
-quality: 94
-heat: 94
+quality: 84
+heat: 84
 published: true
 
 provider:

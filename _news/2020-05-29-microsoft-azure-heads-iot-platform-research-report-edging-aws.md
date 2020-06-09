@@ -5,8 +5,8 @@ excerpt: "Microsoft Azure outpaced perennial cloud computing champion Amazon Web
 publishedDateTime: 2020-05-29T22:11:00Z
 webUrl: "https://virtualizationreview.com/articles/2020/05/29/cloud-iot-report.aspx"
 type: article
-quality: 47
-heat: 47
+quality: 37
+heat: 37
 published: false
 
 provider:

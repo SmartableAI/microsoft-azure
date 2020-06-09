@@ -5,7 +5,7 @@ excerpt: "Microsoft is building cloud solutions to address the unique needs of v
 publishedDateTime: 2020-05-19T15:05:00Z
 webUrl: "https://venturebeat.com/2020/05/19/microsoft-is-building-industry-clouds-for-health-care-and-other-fields/"
 type: article
-quality: 72
+quality: 62
 heat: -1
 published: false
 
@@ -37,7 +37,7 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://cnet3.cbsistatic.com/img/Dok6c43xRR9WyO7Gg_0AlGrbr6Q=/756x567/2020/04/14/de44da9c-e4e1-4477-b318-7b6e6923b653/gettyimages-1200013326.jpg"
         width: 756

@@ -5,8 +5,8 @@ excerpt: ""
 publishedDateTime: 2020-05-26T16:00:03Z
 webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-intellisense-improvements/"
 type: article
-quality: 107
-heat: 147
+quality: 97
+heat: 137
 published: true
 
 provider:
@@ -35,7 +35,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 107
+    quality: 97
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/480ae3b3-08b3-4078-b20f-83bb10f1d10c.gif"
         width: 2554

@@ -5,8 +5,8 @@ excerpt: "Microsoft acknowledged capacity issues with its Azure cloud business a
 publishedDateTime: 2020-04-24T17:23:00Z
 webUrl: "https://www.businessinsider.com/microsoft-azure-cloud-capacity-issues-coronavirus-crisis-2020-4"
 type: article
-quality: 42
-heat: 42
+quality: 32
+heat: 32
 published: false
 
 provider:

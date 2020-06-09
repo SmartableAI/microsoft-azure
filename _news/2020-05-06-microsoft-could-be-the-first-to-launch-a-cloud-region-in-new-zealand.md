@@ -5,8 +5,8 @@ excerpt: "Proposed data centre is not a guarantee that an Azure region will oper
 publishedDateTime: 2020-05-06T18:06:00Z
 webUrl: "https://www.computerworld.com/article/3541763/microsoft-could-be-the-first-to-launch-a-cloud-region-in-new-zealand.html"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:

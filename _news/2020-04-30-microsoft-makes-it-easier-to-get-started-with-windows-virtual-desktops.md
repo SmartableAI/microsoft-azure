@@ -7,8 +7,8 @@ webUrl: "https://techcrunch.com/2020/04/30/microsoft-makes-it-easier-to-get-star
 ampWebUrl: "https://techcrunch.com/2020/04/30/microsoft-makes-it-easier-to-get-started-with-windows-virtual-desktops/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/30/microsoft-makes-it-easier-to-get-started-with-windows-virtual-desktops/amp/"
 type: article
-quality: 102
-heat: 102
+quality: 82
+heat: 82
 published: true
 
 provider:

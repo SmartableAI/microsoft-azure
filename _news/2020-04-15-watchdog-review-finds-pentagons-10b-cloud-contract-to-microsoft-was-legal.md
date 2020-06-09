@@ -7,7 +7,7 @@ webUrl: "https://www.foxnews.com/politics/watchdog-review-pentagon-microsoft-clo
 ampWebUrl: "https://www.foxnews.com/politics/watchdog-review-pentagon-microsoft-cloud-contract-legal.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/watchdog-review-pentagon-microsoft-cloud-contract-legal.amp"
 type: article
-quality: 100
+quality: 80
 heat: -1
 published: false
 
@@ -39,7 +39,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 101
+    quality: 81
     images:
       - url: "https://zdnet3.cbsistatic.com/hub/i/2020/04/15/2c3ba05e-21fa-47cd-8dab-d91266415adc/jediinspectorgeneralreport.jpg"
         width: 877
@@ -54,7 +54,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 94
+    quality: 74
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2018/04/2196640900_c072470031_z-630x451.jpg"
         width: 630
@@ -69,7 +69,7 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
-    quality: 57
+    quality: 37
     images:
       - url: "https://static.seattletimes.com/wp-content/uploads/2020/04/04152020_msoft_095020-300x208.jpg"
         width: 299
@@ -84,7 +84,7 @@ related:
     provider:
       name: Windows Central
       domain: windowscentral.com
-    quality: 56
+    quality: 36
     images:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2015/09/microsoft-logo-3.jpg?itok=HZnHZqpR"
         width: 800
@@ -97,7 +97,7 @@ related:
     provider:
       name: Thurrott
       domain: thurrott.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2019/10/us-pentagon.jpg"
         width: 1280
@@ -110,7 +110,7 @@ related:
     provider:
       name: Stars and Stripes
       domain: stripes.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.stripes.com/polopoly_fs/1.626151.1586966540!/image/image.jpg_gen/derivatives/landscape_490/image.jpg"
         width: 490
@@ -125,7 +125,7 @@ related:
     provider:
       name: Washington Examiner
       domain: washingtonexaminer.com
-    quality: 17
+    quality: 7
 
 secured: "XT8swqpigXRznMUrrLfk91al0TAr41KkWuYldCiZ1SmX+6oK+7Gw9HfZamulh+yVtc6tRJwZ90kSWoFfElhYXir17cdKBOIJto2rABeAsVqCdV0sDoWmd/viea0/X3fFKMT+bYkcKMfLPg8cUgxvl1LowKWO5MXBB9DQDhToZ/niGGDboFIKknkWha+u25Dqs/DLbVV/f2/1gQ11nzlvH6O3dkd3WvHcsDhCIyRpa3nmh2bEk3Y2htUucGwYeSLc4xgSr+/8sqdPMD1WUgEjupfNpM27B9/liS1MBXK6irV8Xnhrt97MUEKoFMJVz7I+xT5ola6jkSIdNnZmvzbgK7yM3IN86XwB/xc96e8lJ+64nKGCUB59qBHoDOzDHdHpdy8BJvz38sUAAlb8ceWMIQnCkQG7bn6oYzt2qSMZL6B5UGm0KuZFB+50UdPVCcu/T/3lIlQjoVcIIDQuEaTt/j22LcqQKipME7LPSB6mCog=;tX9OzGgJTBZTRLxSqpAvvw=="
 ---

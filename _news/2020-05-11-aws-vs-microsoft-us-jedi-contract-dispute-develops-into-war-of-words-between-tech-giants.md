@@ -7,7 +7,7 @@ webUrl: "https://www.computerweekly.com/news/252482909/AWS-vs-Microsoft-US-JEDI-
 ampWebUrl: "https://www.computerweekly.com/news/252482909/AWS-vs-Microsoft-US-JEDI-contract-dispute-develops-into-war-of-words-between-tech-giants?amp=1"
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252482909/AWS-vs-Microsoft-US-JEDI-contract-dispute-develops-into-war-of-words-between-tech-giants?amp=1"
 type: article
-quality: 23
+quality: 13
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Computer Business Review
       domain: cbronline.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://www.cbronline.com/wp-content/uploads/2020/05/lopez-robin-1JS6n1uT-uI-unsplash-1024x656.jpg"
         width: 1024

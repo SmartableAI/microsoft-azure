@@ -7,7 +7,7 @@ webUrl: "https://www.hollywoodreporter.com/behind-screen/fox-cto-joins-microsoft
 ampWebUrl: "https://www.hollywoodreporter.com/amp/behind-screen/fox-cto-joins-microsoft-azures-media-entertainment-business-1291527"
 cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/amp/behind-screen/fox-cto-joins-microsoft-azures-media-entertainment-business-1291527"
 type: article
-quality: 66
+quality: 46
 heat: -1
 published: false
 
@@ -35,7 +35,7 @@ related:
     provider:
       name: Variety
       domain: variety.com
-    quality: 75
+    quality: 55
     images:
       - url: "https://pmcvariety.files.wordpress.com/2020/04/hanno-basse-microsoft-azure.png?w=1024"
         width: 1024

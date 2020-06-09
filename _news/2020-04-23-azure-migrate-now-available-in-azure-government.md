@@ -5,8 +5,8 @@ excerpt: "Microsoft’s service for datacenter migration, Azure Migrate, is now 
 publishedDateTime: 2020-04-23T11:00:11Z
 webUrl: "https://azure.microsoft.com/blog/azure-migrate-now-available-in-azure-government/"
 type: article
-quality: 109
-heat: 129
+quality: 99
+heat: 119
 published: true
 
 provider:

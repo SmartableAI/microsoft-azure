@@ -7,9 +7,9 @@ webUrl: "https://mspoweruser.com/alibaba-cloud-to-take-on-microsoft-azure-and-aw
 ampWebUrl: "https://mspoweruser.com/alibaba-cloud-to-take-on-microsoft-azure-and-aws-with-a-28-billion-investment/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/alibaba-cloud-to-take-on-microsoft-azure-and-aws-with-a-28-billion-investment/amp/"
 type: article
-quality: 73
-heat: 73
-published: true
+quality: 53
+heat: 53
+published: false
 
 provider:
   name: MSPoweruser

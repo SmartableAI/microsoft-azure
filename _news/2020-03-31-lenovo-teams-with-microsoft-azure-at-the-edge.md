@@ -7,9 +7,9 @@ webUrl: "https://www.nextplatform.com/2020/03/31/lenovo-teams-with-microsoft-azu
 ampWebUrl: "https://www.nextplatform.com/2020/03/31/lenovo-teams-with-microsoft-azure-at-the-edge/amp/"
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/03/31/lenovo-teams-with-microsoft-azure-at-the-edge/amp/"
 type: article
-quality: 77
-heat: 77
-published: true
+quality: 57
+heat: 57
+published: false
 
 provider:
   name: The Next Platform

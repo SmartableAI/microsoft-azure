@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/ge-healthcare-and-microsoft-partner-to-he
 ampWebUrl: "https://www.zdnet.com/google-amp/article/ge-healthcare-and-microsoft-partner-to-help-hospitals-fight-covid-19/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ge-healthcare-and-microsoft-partner-to-help-hospitals-fight-covid-19/"
 type: article
-quality: 72
-heat: 72
+quality: 82
+heat: 82
 published: true
 
 provider:
@@ -22,6 +22,12 @@ provider:
 topics:
   - Azure
 
-secured: "e+TBE5ew2JnRdk59c70h2dANVPclFt4fzxTLyDzIlLx9xkQbN/xb/pLnlUlOFUi5ayz8s5aWn9V2Gfo9SfmfIMveIKM+yW5NEMcknWJ3wPgZH1EuqUcyknAmoPdrR7W+8ti2q8dbI8M3ybUSPSHJyVfWWvG3NkZCC8JvPodIAZaZ7nuxLPsi+Hd5mLSpAvbTYNYjeyHS2xJvZ5VZtmFDouRaz+6oEb+ZMLGdbFZZmRcvGIp1AKGT+c/BGZg1pqX12BXrHpKu9yUdVzTbtZzufuHzQSdk1mh1ICVL+oMkhm5G7RL8hyV3hcXxiE5OKS++wxMfwguH0g7+D/K/cAvessB4tKAJqbX2jeZQgBNfzjF7jX6odj4PkAsqtbksGPnwMCwc5JQPIn3ASToheya8IkUvZSO0kFWNzQl/eQDY5TsY63j2kRWZdhOHNAMqTto5zdYism1+tTjouZK/pgf2kT3KG9qhhph07/tMi9yS1V0=;Y+IDqeSwf2iL9ezM7Ip/Fg=="
+images:
+  - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/20/e8483294-694b-40a4-b20a-91d9232f2978/thumbnail/1200x675/316229541483ce6fe30d91e41c6eaae7/ge-healthcare-and-microsoft-partner-to-h-5e9ce90f6280d240eb63a825-1-apr-20-2020-3-33-31-poster.jpg"
+    width: 1200
+    height: 675
+    title: "GE Healthcare and Microsoft partner to help hospitals fight COVID-19"
+
+secured: "IwUDoSzFGk8vbJVVESwA6Arq1XKodDXpekNfo+7LDjGCuhwcUgyyL5K+AXgunsAiRgOI5hCDLrR7wn/OKFOLKEsO38+uZP0zfXT4v831nqqXnVCS749Cx3cNPKrp0Uoz8rlauTXRHKoOCqPEZYzNt5Cl7kM0+I/8Or7APEitt6hXGCM3lcfnGt5IwUx9l4wQW1lfXsymfQRNE7hY6F+kGCFFZEfSWwxqHcvLghtVtY1sugOqL6yJiJaDuu7FovhmRTzD+GRXuBL7QchfJ6gjTQjwnQD4zpP+MK4W/hdjkuq+TrFP9Wi3xOJRVfHRZTKD;f3OxGpTESHTdWOqkbyzI5A=="
 ---
 

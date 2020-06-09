@@ -7,8 +7,8 @@ webUrl: "https://www.windowscentral.com/microsofts-learn-tv-helps-developers-imp
 ampWebUrl: "https://www.windowscentral.com/microsofts-learn-tv-helps-developers-improve-their-skills-home?amp"
 cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsofts-learn-tv-helps-developers-improve-their-skills-home?amp"
 type: article
-quality: 62
-heat: 62
+quality: 42
+heat: 42
 published: false
 
 provider:

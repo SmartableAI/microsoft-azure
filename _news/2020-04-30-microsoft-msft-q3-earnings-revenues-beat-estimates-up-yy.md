@@ -7,9 +7,9 @@ webUrl: "https://www.nasdaq.com/articles/microsoft-msft-q3-earnings-revenues-bea
 ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-q3-earnings-revenues-beat-estimates-up-y-y-2020-04-30?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-q3-earnings-revenues-beat-estimates-up-y-y-2020-04-30?amp"
 type: article
-quality: 72
-heat: 72
-published: true
+quality: 62
+heat: 62
+published: false
 
 provider:
   name: Nasdaq

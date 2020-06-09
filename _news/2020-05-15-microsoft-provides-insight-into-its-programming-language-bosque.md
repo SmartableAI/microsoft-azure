@@ -5,9 +5,9 @@ excerpt: "Microsoft Research announced new capabilities that it is building for 
 publishedDateTime: 2020-05-15T15:28:00Z
 webUrl: "https://sdtimes.com/cloud/microsoft-provides-insight-into-its-programming-language-bosque/"
 type: article
-quality: 72
-heat: 72
-published: true
+quality: 62
+heat: 62
+published: false
 
 provider:
   name: SD Times

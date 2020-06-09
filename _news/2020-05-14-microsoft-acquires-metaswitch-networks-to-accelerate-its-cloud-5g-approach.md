@@ -7,7 +7,7 @@ webUrl: "https://www.neowin.net/news/microsoft-acquires-metaswitch-networks-to-a
 ampWebUrl: "https://www.neowin.net/amp/microsoft-acquires-metaswitch-networks-to-accelerate-its-cloud-5g-approach/"
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-acquires-metaswitch-networks-to-accelerate-its-cloud-5g-approach/"
 type: article
-quality: 100
+quality: 80
 heat: -1
 published: false
 
@@ -39,7 +39,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 115
+    quality: 95
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2019/11/IMG_20191106_093354.jpg?w=1024"
         width: 1024

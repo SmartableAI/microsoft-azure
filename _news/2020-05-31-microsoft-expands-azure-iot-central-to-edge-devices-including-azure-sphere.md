@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/janakirammsv/2020/05/30/microsoft-expands-
 ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/05/30/microsoft-expands-azure-iot-central-to-edge-devices-including-azure-sphere/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/05/30/microsoft-expands-azure-iot-central-to-edge-devices-including-azure-sphere/amp/"
 type: article
-quality: 115
-heat: 115
+quality: 95
+heat: 95
 published: true
 
 provider:

@@ -5,8 +5,8 @@ excerpt: "Microsoft is seeing higher demand for Azure services that provide clou
 publishedDateTime: 2020-05-27T10:37:00Z
 webUrl: "https://realmoney.thestreet.com/investing/technology/4-noteworthy-things-shared-by-microsoft-anaplan-and-other-software-firms-15332585"
 type: article
-quality: 31
-heat: 31
+quality: 21
+heat: 21
 published: false
 
 provider:

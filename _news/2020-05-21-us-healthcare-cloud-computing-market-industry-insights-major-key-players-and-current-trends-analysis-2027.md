@@ -5,7 +5,7 @@ excerpt: "The report covers a forecast and an analysis of the U.S. healthcare cl
 publishedDateTime: 2020-05-21T09:12:00Z
 webUrl: "https://www.marketwatch.com/press-release/us-healthcare-cloud-computing-market-industry-insights-major-key-players-and-current-trends-analysis-2027-2020-05-21"
 type: article
-quality: 53
+quality: 43
 heat: -1
 published: false
 
@@ -35,7 +35,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

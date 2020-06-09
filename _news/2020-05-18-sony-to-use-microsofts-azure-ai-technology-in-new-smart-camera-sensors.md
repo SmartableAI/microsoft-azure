@@ -7,8 +7,8 @@ webUrl: "https://www.geekwire.com/2020/sony-use-microsofts-azure-ai-technology-n
 ampWebUrl: "https://www.geekwire.com/2020/sony-use-microsofts-azure-ai-technology-new-smart-camera-sensors/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/sony-use-microsofts-azure-ai-technology-new-smart-camera-sensors/amp/"
 type: article
-quality: 117
-heat: 137
+quality: 97
+heat: 117
 published: true
 
 provider:
@@ -37,7 +37,7 @@ related:
     provider:
       name: SiliconRepublic
       domain: siliconrepublic.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/05/microsoft-1.png"
         width: 1200

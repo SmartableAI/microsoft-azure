@@ -7,8 +7,8 @@ webUrl: "https://www.techradar.com/news/aws-files-another-jedi-complaint-against
 ampWebUrl: "https://www.techradar.com/amp/news/aws-files-another-jedi-complaint-against-microsoft"
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/aws-files-another-jedi-complaint-against-microsoft"
 type: article
-quality: 102
-heat: 122
+quality: 82
+heat: 102
 published: true
 
 provider:
@@ -39,7 +39,7 @@ related:
     provider:
       name: IT Pro Portal
       domain: itproportal.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/88UejibhsWKbhFSpfr62oA-1200-80.jpg"
         width: 1000

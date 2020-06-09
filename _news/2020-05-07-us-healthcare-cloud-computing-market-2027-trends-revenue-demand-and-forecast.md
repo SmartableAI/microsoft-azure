@@ -5,8 +5,8 @@ excerpt: "The report covers a forecast and an analysis of the U.S. healthcare cl
 publishedDateTime: 2020-05-07T11:11:00Z
 webUrl: "https://www.marketwatch.com/press-release/us-healthcare-cloud-computing-market-2027-trends-revenue-demand-and-forecast-2020-05-07"
 type: article
-quality: 66
-heat: 66
+quality: 56
+heat: 56
 published: false
 
 provider:

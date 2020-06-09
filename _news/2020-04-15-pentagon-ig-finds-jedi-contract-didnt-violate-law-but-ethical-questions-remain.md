@@ -5,7 +5,7 @@ excerpt: "The long-anticipated report on the Joint Enterprise Defense Infrastruc
 publishedDateTime: 2020-04-15T19:21:00Z
 webUrl: "https://www.federaltimes.com/civilian/dhs/2020/04/15/pentagon-ig-finds-jedi-contract-didnt-violate-law-but-ethical-questions-remain/"
 type: article
-quality: 27
+quality: 17
 heat: -1
 published: false
 
@@ -33,7 +33,7 @@ related:
     provider:
       name: UPI.com
       domain: upi.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/2041586970851/2020/1/05336528eb81c90191c1c01e6fd6d80b/v1.5/Pentagon-IG-No-proof-White-House-interfered-in-10B-Microsoft-contract.jpg"
         width: 800
@@ -48,7 +48,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 52
+    quality: 32
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/04/Microsoft-JEDI-DoD.jpg"
         width: 1265

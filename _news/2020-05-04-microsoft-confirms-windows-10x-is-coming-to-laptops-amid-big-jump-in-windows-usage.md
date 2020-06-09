@@ -7,7 +7,7 @@ webUrl: "https://www.theverge.com/2020/5/4/21246561/microsoft-windows-10x-single
 ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/4/21246561/microsoft-windows-10x-single-screens-windows-usage-demand-coronavirus-pandemic"
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/4/21246561/microsoft-windows-10x-single-screens-windows-usage-demand-coronavirus-pandemic"
 type: article
-quality: 96
+quality: 76
 heat: -1
 published: false
 
@@ -39,7 +39,7 @@ related:
     provider:
       name: Engadget
       domain: engadget.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-05%2Ffe4dc1d0-8e2e-11ea-bfdf-96f360b43ccd&client=amp-blogside-v2&signature=08fae138036032b01bc5ed56fe270592902b738a"
         width: 600
@@ -54,7 +54,7 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://cnet4.cbsistatic.com/img/PFC-zJ2VC7-KbBX7F0hLIXgw_5A=/756x567/2019/10/02/5fe390f5-c2d3-4b3a-889a-6696648dc461/windows-10x.jpg"
         width: 756
@@ -69,7 +69,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 96
+    quality: 76
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2020/04/no-neo-in-2020-microsoft-pauses-630x354.jpg"
         width: 630

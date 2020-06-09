@@ -7,8 +7,8 @@ webUrl: "https://www.reuters.com/article/us-blackrock-aladdin-microsoft-idUSKBN2
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN21P35X"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21P35X"
 type: article
-quality: 95
-heat: 95
+quality: 75
+heat: 75
 published: true
 
 provider:

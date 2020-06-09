@@ -5,8 +5,8 @@ excerpt: "With COVID-19 triggering a massive uptick in Windows Virtual Desktop u
 publishedDateTime: 2020-04-30T13:06:00Z
 webUrl: "https://www.thurrott.com/windows/windows-10/235512/windows-virtual-desktop-improves-to-address-new-needs"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:

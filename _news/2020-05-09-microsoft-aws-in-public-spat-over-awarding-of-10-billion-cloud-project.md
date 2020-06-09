@@ -7,9 +7,9 @@ webUrl: "https://www.thenewsminute.com/article/microsoft-aws-public-spat-over-aw
 ampWebUrl: "https://www.thenewsminute.com/article/microsoft-aws-public-spat-over-awarding-10-billion-cloud-project-124232?amp"
 cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/microsoft-aws-public-spat-over-awarding-10-billion-cloud-project-124232?amp"
 type: article
-quality: 61
-heat: 141
-published: true
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: The News Minute
@@ -35,7 +35,7 @@ related:
     provider:
       name: The Register
       domain: theregister.co.uk
-    quality: 54
+    quality: 34
     images:
       - url: "https://regmedia.co.uk/2017/12/19/lightsaber.jpg"
         width: 648
@@ -50,7 +50,7 @@ related:
     provider:
       name: Zee Business
       domain: zeebiz.com
-    quality: 54
+    quality: 34
     images:
       - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2020/05/09/118543-singhvi-chouhan.jpg?itok=4uLSp1Pb"
         width: 700
@@ -65,7 +65,7 @@ related:
     provider:
       name: The New Indian Express
       domain: newindianexpress.com
-    quality: 50
+    quality: 30
     images:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/5/9/w600X390/Microsoft-Amazon.jpg"
         width: 600

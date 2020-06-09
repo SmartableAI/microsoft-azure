@@ -5,9 +5,9 @@ excerpt: "Cloud computing will increase actual-time information collection and i
 publishedDateTime: 2020-05-15T11:28:00Z
 webUrl: "https://www.marketwatch.com/press-release/healthcare-cloud-computing-market-an-overview-analysis-growth-opportunities-with-top-key-players-2020-to-2025-2020-05-15"
 type: article
-quality: 51
-heat: 71
-published: true
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: MarketWatch
@@ -35,7 +35,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 34
+    quality: 24
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

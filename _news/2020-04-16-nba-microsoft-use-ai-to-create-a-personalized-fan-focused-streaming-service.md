@@ -7,8 +7,8 @@ webUrl: "https://www.digitaltrends.com/home-theater/nba-microsoft-new-streaming-
 ampWebUrl: "https://www.digitaltrends.com/home-theater/nba-microsoft-new-streaming-service/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home-theater/nba-microsoft-new-streaming-service/?amp"
 type: article
-quality: 98
-heat: 118
+quality: 78
+heat: 98
 published: true
 
 provider:
@@ -37,7 +37,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 17
+    quality: 7
     images:
       - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/prod/prod/2020/04/Option_3--1024x467.jpg"
         width: 1024

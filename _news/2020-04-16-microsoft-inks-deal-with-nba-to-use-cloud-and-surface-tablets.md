@@ -7,9 +7,9 @@ webUrl: "https://www.thestreet.com/latest-news/microsoft-deal-with-nba-cloud-and
 ampWebUrl: "https://www.thestreet.com/.amp/latest-news/microsoft-deal-with-nba-cloud-and-surface-tablets"
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/latest-news/microsoft-deal-with-nba-cloud-and-surface-tablets"
 type: article
-quality: 62
-heat: 82
-published: true
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: TheStreet.com

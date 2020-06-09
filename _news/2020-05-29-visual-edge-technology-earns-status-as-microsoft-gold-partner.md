@@ -5,8 +5,8 @@ excerpt: "Today, Visual Edge Technology, announced Microsoft Gold Partner status
 publishedDateTime: 2020-05-29T17:28:00Z
 webUrl: "https://apnews.com/5bba43f2f59511f215184dbf41c57af7"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:

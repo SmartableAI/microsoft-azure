@@ -5,7 +5,7 @@ excerpt: "Microsoft on Tuesday announced the launch of new solutions designed to
 publishedDateTime: 2020-05-13T05:55:00Z
 webUrl: "https://www.sify.com/finance/microsoft-launches-back2business-solutions-for-smbs-in-india-news-topnews-ufnfR2dadighh.html"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
@@ -33,7 +33,7 @@ related:
     provider:
       name: Business Line
       domain: thehindubusinessline.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://www.thehindubusinessline.com/static/theme/default/base/img/og-image.jpg"
         width: 300
@@ -46,7 +46,11 @@ related:
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 2
+    quality: 22
+    images:
+      - url: "https://menafn.com/updates/pr/2020-05/13/KI_30d78cc1-0image_story.jpg"
+        width: 500
+        height: 344
 
 secured: "3zfVZiIzWAVad+E7gHICLF0VSuZof3mF3D3McTky1arN0ax8kwbGQerA9h1Vnd99WqvxIQKHH/Gjad1/fq/uV0c1mMZJJhJvwNeRuTWGX8DPO3dNzYBUEx0m+AfStfzs235flQKnCwtexg7B12NjlG6Zm8JMBhPGSo3bKN4Rhvwn0vR9sZF65wgWvwoe+FAJ7TkX6beRjCO56FmpyCBlwsTlNZiaaWI7aADuDHbWpXjb+cOa7JSH48eqxY5bw8H7BAI+mM5BMsAKilykG66qjVN1Dhxz0pXlW5uh3M7tunSIHXIJvOPYRek3XY0G9v8h;WjYNn0vE9qfHvqeB9aBV9Q=="
 ---

@@ -5,8 +5,8 @@ excerpt: "Engines of top-line growth were server products and cloud services, wh
 publishedDateTime: 2020-04-30T13:38:00Z
 webUrl: "https://www.lightreading.com/cloud-native-nfv/microsoft-cloud-has-a-covid-19-silver-lining/d/d-id/759308"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:

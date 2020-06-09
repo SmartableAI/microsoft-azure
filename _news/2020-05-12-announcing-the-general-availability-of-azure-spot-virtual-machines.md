@@ -5,8 +5,8 @@ excerpt: "Today we’re announcing the general availability of Azure Spot Virtua
 publishedDateTime: 2020-05-12T08:00:18Z
 webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-spot-virtual-machines/"
 type: article
-quality: 124
-heat: 144
+quality: 114
+heat: 134
 published: true
 
 provider:
@@ -36,7 +36,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 123
+    quality: 113
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8aaf8f84-054c-4681-82e8-58dd8d160940.png"
         width: 1430

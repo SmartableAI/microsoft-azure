@@ -25,7 +25,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 87
+    quality: 77
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -40,7 +40,7 @@ related:
     provider:
       name: TelecomTV
       domain: telecomtv.com
-    quality: 77
+    quality: 57
     images:
       - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
         width: 1200

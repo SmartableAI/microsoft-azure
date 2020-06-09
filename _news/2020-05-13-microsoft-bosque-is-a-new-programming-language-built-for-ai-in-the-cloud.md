@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/microsoft-bosque-is-a-new-programming-lan
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-bosque-is-a-new-programming-language-built-for-ai-in-the-cloud/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-bosque-is-a-new-programming-language-built-for-ai-in-the-cloud/"
 type: article
-quality: 71
-heat: 71
+quality: 81
+heat: 81
 published: true
 
 provider:
@@ -22,6 +22,12 @@ provider:
 topics:
   - Azure
 
-secured: "Bk5pUUBaHqWNYZBCMkDSBTfi6SAMOuSen0M9VIAUCarOzeOBDK/60CmbvESuanGg5+Yme+d8n4JnP/KAAJqq/uB7v6NRYLyvZgucQR/vEOgfrRPfqJ0eQFo3icFrOuJMla7/GPnMwQmfwkTp7d61RLrDDNsEukXHWaR07TeTu2cwoZQZNyAJo5qvKz+TZSw/70rUaOlzkMEPgob+jMP98sFEQybXGmAGGnY6faqGMcQGJWQco77ALY68jabLm/IHEnSx4CmuAnCvj53YJusvWRMuzSM5MYIQl7v2xJqsZDpU7ApjlJZUOHBnXVHz0BYnj92THM6Ys19nsyzvAPPpoMEDp2HMqKQGK5jU/rBwa2Yzxia/xuNSc2gjGVeV/Lb2d8q98wQV48Zo/XGDxltsFXhYM64epE4HZkwJptilH9hGKu1kL9jS3s6DZ/vCVrHl+WlO1r1JL9qbKfdvH0dohAgJ1JrJEqc6x2cS2AbW8J4=;CQG4Sm8csJA+bGY63fV+bQ=="
+images:
+  - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/05/20/c0a3728a-9463-417d-93bf-d74610a70832/thumbnail/1200x675/98371f48b0fedbacaa1c37916d28d557/programming-languages-why-javascript-dev-5cdd547cbd785600c4d4e0c0-1-may-20-2019-22-25-49-poster.jpg"
+    width: 1200
+    height: 675
+    title: "Microsoft: Bosque is a new programming language built for AI in the cloud"
+
+secured: "zUMa6nHk7fazgpoNS+aKMfujR8cf7aFB/nOncFGqjdoZBkLUlu5AGXmVmx+BoLZTycc9ZWhYF4Nr4lVoXGOxU6npOsgWfWf4XqvjAiOlkotucXvL3qIbEubk20OsMK+7nTw0zWuXoPlLxq0VE4eye8Gx3RDwAH5ZR7bV1nTC9wvILmyRWO4Q9FRK6dJUB27BvU7HcCKdXG3426JJ2wdqRIjTNvvcxl95mC/eJMfeb36uj8WFfbsB43f/QJ36X8E1WNjvea9ymCC0AZo6VMP8OkiMJ3N9L/LsecEd/MwiWwwx9tYDT2COqpahRRffiPDG;P0AtGGLyNT2gVKs4p2zIzQ=="
 ---
 

@@ -5,8 +5,8 @@ excerpt: "At Microsoft Ignite, we announced new Microsoft Azure Migrate assessme
 publishedDateTime: 2020-03-10T10:00:09Z
 webUrl: "https://azure.microsoft.com/blog/plan-migration-of-physical-servers-using-azure-migrate/"
 type: article
-quality: 126
-heat: 126
+quality: 116
+heat: 116
 published: true
 
 provider:

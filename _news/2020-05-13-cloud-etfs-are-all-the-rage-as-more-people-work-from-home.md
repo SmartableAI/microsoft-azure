@@ -7,8 +7,8 @@ webUrl: "https://www.cnn.com/2020/05/13/investing/cloud-etfs-stocks/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2020/05/13/investing/cloud-etfs-stocks/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/05/13/investing/cloud-etfs-stocks/index.html"
 type: article
-quality: 102
-heat: 102
+quality: 82
+heat: 82
 published: true
 
 provider:

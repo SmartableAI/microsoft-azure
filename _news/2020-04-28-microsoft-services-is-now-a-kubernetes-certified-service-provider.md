@@ -5,8 +5,8 @@ excerpt: "Modern applications are increasingly built using containers, which are
 publishedDateTime: 2020-04-28T11:00:41Z
 webUrl: "https://azure.microsoft.com/blog/microsoft-services-is-now-a-kubernetes-certified-service-provider/"
 type: article
-quality: 92
-heat: 92
+quality: 82
+heat: 82
 published: true
 
 provider:

@@ -5,8 +5,8 @@ excerpt: "JEDI delay slows DOD’s AI push. By Lauren C. Williams; May 26, 2020;
 publishedDateTime: 2020-05-26T20:29:00Z
 webUrl: "https://gcn.com/articles/2020/05/26/jedi-delay-slows-ai.aspx"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:

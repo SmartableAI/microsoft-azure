@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/microsoft-365-a-cheat-sheet/"
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-365-a-cheat-sheet/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-365-a-cheat-sheet/"
 type: article
-quality: 102
-heat: 102
+quality: 82
+heat: 82
 published: true
 
 provider:

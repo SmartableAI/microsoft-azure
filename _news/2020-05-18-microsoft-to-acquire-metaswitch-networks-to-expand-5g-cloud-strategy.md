@@ -27,7 +27,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 115
+    quality: 95
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2019/11/IMG_20191106_093354.jpg?w=1024"
         width: 1024
@@ -42,7 +42,7 @@ related:
     provider:
       name: Neowin
       domain: neowin.net
-    quality: 100
+    quality: 80
     images:
       - url: "https://cdn.neow.in/news/images/uploaded/2020/04/1585909473_microsoft_6_story.jpg"
         width: 760

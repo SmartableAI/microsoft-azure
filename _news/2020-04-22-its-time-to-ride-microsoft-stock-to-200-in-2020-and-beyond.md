@@ -7,7 +7,7 @@ webUrl: "https://investorplace.com/2020/04/its-time-to-ride-microsoft-stock-to-2
 ampWebUrl: "https://investorplace.com/2020/04/its-time-to-ride-microsoft-stock-to-200-in-2020-and-beyond/amp/"
 cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/04/its-time-to-ride-microsoft-stock-to-200-in-2020-and-beyond/amp/"
 type: article
-quality: 62
+quality: 42
 heat: -1
 published: false
 
@@ -35,7 +35,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F569046%2Fgettyimages-529769841.jpg&w=1200&op=resize"
         width: 1200

@@ -7,7 +7,7 @@ webUrl: "https://mspoweruser.com/us-department-of-defense-inspector-general-find
 ampWebUrl: "https://mspoweruser.com/us-department-of-defense-inspector-general-finds-no-issues-in-microsoft-jedi-cloud-contract/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/us-department-of-defense-inspector-general-finds-no-issues-in-microsoft-jedi-cloud-contract/amp/"
 type: article
-quality: 52
+quality: 32
 heat: -1
 published: false
 
@@ -35,7 +35,7 @@ related:
     provider:
       name: UPI.com
       domain: upi.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/2041586970851/2020/1/05336528eb81c90191c1c01e6fd6d80b/v1.5/Pentagon-IG-No-proof-White-House-interfered-in-10B-Microsoft-contract.jpg"
         width: 800
@@ -48,7 +48,7 @@ related:
     provider:
       name: Federal Times
       domain: federaltimes.com
-    quality: 27
+    quality: 17
     images:
       - url: "https://www.armytimes.com/resizer/PAsw1-1BhUO77r_zGK1_xhhGs3o=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/WXVIJLL7IBHTZAHBV5NQLHTO4Y.jpg"
         width: 1200

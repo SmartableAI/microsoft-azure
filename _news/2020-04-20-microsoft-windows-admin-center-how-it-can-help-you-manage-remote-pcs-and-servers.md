@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/microsoft-windows-admin-center-how
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-windows-admin-center-how-it-can-help-you-manage-remote-pcs-and-servers/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-windows-admin-center-how-it-can-help-you-manage-remote-pcs-and-servers/"
 type: article
-quality: 97
-heat: 97
+quality: 77
+heat: 77
 published: true
 
 provider:

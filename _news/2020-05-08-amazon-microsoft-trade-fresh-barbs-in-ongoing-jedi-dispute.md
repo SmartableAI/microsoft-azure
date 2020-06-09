@@ -7,7 +7,7 @@ webUrl: "https://www.fool.com/investing/2020/05/08/amazon-microsoft-trade-fresh-
 ampWebUrl: "https://www.fool.com/amp/investing/2020/05/08/amazon-microsoft-trade-fresh-barbs-in-ongoing-jedi.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/08/amazon-microsoft-trade-fresh-barbs-in-ongoing-jedi.aspx"
 type: article
-quality: 102
+quality: 82
 heat: -1
 published: false
 
@@ -27,6 +27,10 @@ images:
     width: 580
     height: 378
     title: "Amazon, Microsoft Trade Fresh Barbs in Ongoing JEDI Dispute"
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F573031%2Fcloud-computing-tech-security-getty.jpg&w=1200&op=resize"
+    width: 1200
+    height: 675
+    title: "Amazon, Microsoft Trade Fresh Barbs in Ongoing JEDI Dispute"
 
 related:
   - title: "Amazon and Microsoft are trash talking each other over a DoD contract"
@@ -39,7 +43,7 @@ related:
     provider:
       name: Engadget
       domain: engadget.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-10%2F073b94a0-f1c4-11e9-8f5b-2c0832cca481&client=amp-blogside-v2&signature=0440a7701a50126da12ef6ffbcc2f78eb97c80fd"
         width: 600
@@ -54,7 +58,7 @@ related:
     provider:
       name: TechSpot
       domain: techspot.com
-    quality: 96
+    quality: 76
     images:
       - url: "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-08-image-13.jpg"
         width: 1600
@@ -69,7 +73,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 93
+    quality: 73
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1073698070.jpg?w=1024"
         width: 1024
@@ -84,7 +88,7 @@ related:
     provider:
       name: winbuzzer.com
       domain: winbuzzer.com
-    quality: 77
+    quality: 57
     images:
       - url: "https://winbuzzer.com/wp-content/uploads/2016/04/Microsoft-Clouds-Pixels-Reuse.jpg"
         width: 1280
@@ -97,12 +101,12 @@ related:
     provider:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://media.datacenterdynamics.com/media/images/JEDI_Thats_No_Moon.2e16d0ba.fill-1200x630.png"
         width: 1200
         height: 630
 
-secured: "P++OUDAVa6afMfHTJO0y+jR0jZYCe2/rUbZ6QmhZep+19yNkX63eBugh6WAfnw3m11TvEmSpqpK6+Ws/w8/Xsjx7dK9+tlKJwWOhmzGMeFoHGcGmYo0aYAX6+BxnQdhK4untjr62SnGKv/u6PIvjRiUrDhD7DnjQharUhNPixDk8wAD5FYtcnU2JkxT6JHCHOcPW4XT5jfYBghFcZFOx71nKzDpwGfGyYPNcsuKYyNK5OSG7YWKOmlKqUJunfSb6D3QeHQlzKsXHETe8aUieH83FcFir0SmRL9OmUDn5ECfNmtS5POJH3rqXizeCAFZe3iThAhxlgdtTI9EPvyq0Sx5ESa9LY2BCobg7h5E1Ugr8lhPsNrwMER8N9BXySchFgWjbwT2lV61WNRVx4ACI6/wHh1p0aMW1/CMDWl4TTBXTij2ZgoP/4MlkcVsuYA1+iPH0S1bgswU4RVpCwnMmeiMMEYBV/diBqD7s9FppPns=;U/2bEqejBjAOvycpXsHFOA=="
+secured: "aAFv0+zKQsL+6z1nOaG/hIeXnvhUpctFWhJMeK/DPmCpAxZEnRvXEdBRp7VivhM+3j0+vyp+jwmAYRXrYSBlZ6R65o1V86h+darGXLmoVp7Peix1KOFX2eLStLEZL7D2w/CCJcEHNfS6osz9JSa0C9Ya+7ILUw59hkIzPoBujrL4AvF0MswEqZQ9UJI+I0GioBEMFJKGvOpEqk5tU0mMURVDAVsDotZRtDvevRZb37PZVksfnlYL6Xp8y1R2Fi1UBDj9QbqcLYsnpbx5jLATquSgBmKQB3m28MKeD1wRDO9U+38uAz+3TgjMh49RYeIT;UaWH6hI4dbWQq4/Uo9vLJg=="
 ---
 

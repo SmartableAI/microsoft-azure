@@ -5,8 +5,8 @@ excerpt: "Today, businesses are forced to maintain two types of analytical syste
 publishedDateTime: 2019-11-04T06:00:41Z
 webUrl: "https://azure.microsoft.com/blog/simply-unmatched-truly-limitless-announcing-azure-synapse-analytics/"
 type: article
-quality: 124
-heat: 124
+quality: 114
+heat: 114
 published: true
 
 provider:

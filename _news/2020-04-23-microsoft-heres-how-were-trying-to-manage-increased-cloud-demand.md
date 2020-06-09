@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/microsoft-heres-how-were-trying-to-manage
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-heres-how-were-trying-to-manage-increased-cloud-demand/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-heres-how-were-trying-to-manage-increased-cloud-demand/"
 type: article
-quality: 102
-heat: 122
+quality: 82
+heat: 102
 published: true
 
 provider:
@@ -37,7 +37,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 72
+    quality: 62
     images:
       - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/27/357591cc-30e1-4a7b-a061-402d91546b99/thumbnail/770x578/372d2152febad4993f210ec409c97378/microsoft-heres-how-were-trying-to-manag-5ea3181b1c719e452658f536-1-apr-27-2020-14-51-24-poster.jpg"
         width: 770

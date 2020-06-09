@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/a-closer-look-at-microsoft-azure-synapse-
 ampWebUrl: "https://www.zdnet.com/google-amp/article/a-closer-look-at-microsoft-azure-synapse-analytics/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-closer-look-at-microsoft-azure-synapse-analytics/"
 type: article
-quality: 117
-heat: 117
+quality: 97
+heat: 97
 published: true
 
 provider:

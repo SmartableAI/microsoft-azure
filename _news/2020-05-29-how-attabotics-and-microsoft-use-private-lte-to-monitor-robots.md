@@ -5,8 +5,8 @@ excerpt: "A Canadian startup that thinks it can someday do supply chain logistic
 publishedDateTime: 2020-05-29T17:02:00Z
 webUrl: "https://www.lightreading.com/private-networks/how-attabotics-and-microsoft-use-private-lte-to-monitor-robots/d/d-id/761359"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:

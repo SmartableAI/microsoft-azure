@@ -7,8 +7,8 @@ webUrl: "https://www.law360.com/articles/1265358/defense-dept-can-revisit-bids-o
 ampWebUrl: "https://www.law360.com/amp/articles/1265358"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1265358"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:
@@ -27,7 +27,7 @@ related:
     provider:
       name: GovCon Wire
       domain: govconwire.com
-    quality: 25
+    quality: 15
     images:
       - url: "https://govconwire-media.s3.amazonaws.com/2020/05/01/25/5d/e6/af/58/94/96/b4/a0If300000MFBfoEAH-NASA_human_landing_system_20190724png.png"
         width: 272

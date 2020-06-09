@@ -5,8 +5,8 @@ excerpt: "PRNewswire/ -- Research Solutions, Inc. (NASDAQ: RSSS), a pioneer in p
 publishedDateTime: 2020-04-28T12:30:00Z
 webUrl: "https://www.prnewswire.com/news-releases/research-solutions-announces-addition-of-article-galaxy-platform-to-microsoft-azure-marketplace-301047963.html"
 type: article
-quality: 35
-heat: 35
+quality: 25
+heat: 25
 published: false
 
 provider:

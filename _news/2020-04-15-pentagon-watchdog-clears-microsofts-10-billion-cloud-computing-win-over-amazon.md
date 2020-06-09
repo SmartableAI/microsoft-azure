@@ -7,7 +7,7 @@ webUrl: "https://www.seattletimes.com/business/pentagon-watchdog-clears-microsof
 ampWebUrl: "https://www.seattletimes.com/business/pentagon-watchdog-clears-microsofts-10-billion-cloud-computing-win-over-amazon/?amp=1"
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/pentagon-watchdog-clears-microsofts-10-billion-cloud-computing-win-over-amazon/?amp=1"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
@@ -35,7 +35,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 101
+    quality: 81
     images:
       - url: "https://zdnet3.cbsistatic.com/hub/i/2020/04/15/2c3ba05e-21fa-47cd-8dab-d91266415adc/jediinspectorgeneralreport.jpg"
         width: 877
@@ -50,7 +50,7 @@ related:
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 100
+    quality: 80
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d9fd65a-cbde-44cd-8be7-69ca1b916d0b/6161526e-62a1-46df-9a5e-9c833fb50275/1280x720/match/image.jpg"
         width: 1280
@@ -65,7 +65,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 94
+    quality: 74
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2018/04/2196640900_c072470031_z-630x451.jpg"
         width: 630
@@ -80,7 +80,7 @@ related:
     provider:
       name: Windows Central
       domain: windowscentral.com
-    quality: 56
+    quality: 36
     images:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2015/09/microsoft-logo-3.jpg?itok=HZnHZqpR"
         width: 800
@@ -93,7 +93,7 @@ related:
     provider:
       name: Thurrott
       domain: thurrott.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2019/10/us-pentagon.jpg"
         width: 1280
@@ -106,7 +106,7 @@ related:
     provider:
       name: Stars and Stripes
       domain: stripes.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.stripes.com/polopoly_fs/1.626151.1586966540!/image/image.jpg_gen/derivatives/landscape_490/image.jpg"
         width: 490
@@ -121,7 +121,7 @@ related:
     provider:
       name: Washington Examiner
       domain: washingtonexaminer.com
-    quality: 17
+    quality: 7
 
 secured: "5psuFZT+aY9ZJLgcc1vhxVHRq9pViW4lSkyjZVWuNn0egb2r/zjPfW5fjxq966S1D2K3IHUS/5+87MVpowSb5JwMf1o7xCVvvqZKWW38AzrAzaaRuOg5WYZeO0PKW7HocDiClUSbl2YFNljIyY8ywlNC5js1pcaKXbUh4P3gQHuxeWYLmr9bRpM0oL7xDUSY2qsYZOtX3tMUP3UyHeymfFvDog+R3Tt3y4yVK9gPoso4sjl2wCFtmy9maVp5j3ERgT6bniFHURcaCfjW1tQRkTxO8n6T3mMwJaJlNNoY3MEU0UsF7kBSQP94VkXi1AupVk0GKJ0s3EK98RS5Pg0vPHJwXNN6gspiTk4Vtn4ILJgIXAAtBwg+DLTEUb5ielW3ZXM746E8eD2Y9EXWb0SuSNf0CdXbMDDIhIlJKiiqQJ3k1kTy/pEi0Pxw+glWhx5K6xVDxxJL1MX5zfr5lRn8ut73s5x4jQTHVa1FKOqQ7nI=;4k7uLEeni3qJK3WoQDqxYg=="
 ---

@@ -7,7 +7,7 @@ webUrl: "https://mspoweruser.com/microsoft-workday-partnership-azure-teams/"
 ampWebUrl: "https://mspoweruser.com/microsoft-workday-partnership-azure-teams/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-workday-partnership-azure-teams/amp/"
 type: article
-quality: 76
+quality: 56
 heat: -1
 published: false
 
@@ -35,7 +35,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 104
+    quality: 84
     images:
       - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/01/27/b045ccbf-d935-4681-8c2f-109b2e2394e8/thumbnail/1200x675/5f20b958b20a2b546b9a0a796b3fc2bd/workday-building-sign.jpg"
         width: 1200

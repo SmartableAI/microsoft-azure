@@ -7,8 +7,8 @@ webUrl: "https://breakingdefense.com/2020/05/jedi-inside-amazons-nesting-doll-pr
 ampWebUrl: "https://breakingdefense.com/2020/05/jedi-inside-amazons-nesting-doll-protest/amp/"
 cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2020/05/jedi-inside-amazons-nesting-doll-protest/amp/"
 type: article
-quality: 62
-heat: 62
+quality: 42
+heat: 42
 published: false
 
 provider:

@@ -7,7 +7,7 @@ webUrl: "https://www.nasdaq.com/articles/microsoft-to-invest-%241.5-bln-in-itali
 ampWebUrl: "https://www.nasdaq.com/articles/microsoft-to-invest-%241.5-bln-in-italian-cloud-business-2020-05-11?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-to-invest-%241.5-bln-in-italian-cloud-business-2020-05-11?amp"
 type: article
-quality: 72
+quality: 62
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
         width: 1200
@@ -42,7 +42,7 @@ related:
     provider:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
         width: 1200
@@ -55,7 +55,7 @@ related:
     provider:
       name: CRN
       domain: crn.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.crn.com/resources/025d-0f62b427e83a-33808bdb1efc-1000/cloud-hybrid-it-hand.jpg"
         width: 610

@@ -7,8 +7,8 @@ webUrl: "https://breakingdefense.com/2020/05/experts-debate-should-jedi-cloud-be
 ampWebUrl: "https://breakingdefense.com/2020/05/experts-debate-should-jedi-cloud-be-saved/amp/"
 cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2020/05/experts-debate-should-jedi-cloud-be-saved/amp/"
 type: article
-quality: 62
-heat: 62
+quality: 42
+heat: 42
 published: false
 
 provider:

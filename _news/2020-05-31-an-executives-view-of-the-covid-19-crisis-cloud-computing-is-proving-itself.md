@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/joemckendrick/2020/05/31/an-executives-vie
 ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2020/05/31/an-executives-view-of-the-covid-19-crisis-cloud-computing-is-proving-itself/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/05/31/an-executives-view-of-the-covid-19-crisis-cloud-computing-is-proving-itself/amp/"
 type: article
-quality: 69
-heat: 69
+quality: 59
+heat: 59
 published: false
 
 provider:

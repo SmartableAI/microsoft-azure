@@ -5,9 +5,9 @@ excerpt: "Zoom saw a surge in demand and is now turning to Oracle cloud to manag
 publishedDateTime: 2020-04-28T16:00:00Z
 webUrl: "https://www.businessinsider.com/zoom-oracle-cloud-partnership-sudden-spike-video-calls-2020-4"
 type: article
-quality: 58
-heat: 78
-published: true
+quality: 48
+heat: 48
+published: false
 
 provider:
   name: Business Insider

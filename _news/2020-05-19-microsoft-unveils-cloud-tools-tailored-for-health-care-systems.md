@@ -7,8 +7,8 @@ webUrl: "https://www.bloomberg.com/news/articles/2020-05-19/microsoft-unveils-cl
 ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-05-19/microsoft-unveils-cloud-tools-tailored-for-health-care-systems"
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-05-19/microsoft-unveils-cloud-tools-tailored-for-health-care-systems"
 type: article
-quality: 72
-heat: 112
+quality: 62
+heat: 102
 published: true
 
 provider:
@@ -33,7 +33,7 @@ related:
     provider:
       name: Daily Herald
       domain: dailyherald.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://www.dailyherald.com/storyimage/DA/20200523/business/200529786/AR/0/AR-200529786.jpg&updated=202005211541&MaxW=800&MaxH=800&noborder"
         width: 800

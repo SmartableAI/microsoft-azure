@@ -7,8 +7,8 @@ webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/20/04/15916930/m
 ampWebUrl: "https://amp.benzinga.com/amp/content/15916930"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15916930"
 type: article
-quality: 51
-heat: 51
+quality: 31
+heat: 31
 published: false
 
 provider:

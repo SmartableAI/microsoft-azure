@@ -7,7 +7,7 @@ webUrl: "https://www.theverge.com/2020/5/6/21249038/microsoft-azure-sphere-bug-b
 ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/6/21249038/microsoft-azure-sphere-bug-bounty-security-hacking"
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/6/21249038/microsoft-azure-sphere-bug-bounty-security-hacking"
 type: article
-quality: 102
+quality: 82
 heat: -1
 published: false
 
@@ -39,7 +39,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F158670431%2F0x0.jpg"
         width: 1200

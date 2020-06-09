@@ -7,8 +7,8 @@ webUrl: "https://www.benzinga.com/pressreleases/20/05/n16028623/accelerate-digit
 ampWebUrl: "https://amp.benzinga.com/amp/content/16028623"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16028623"
 type: article
-quality: 26
-heat: 26
+quality: 16
+heat: 16
 published: false
 
 provider:

@@ -7,8 +7,8 @@ webUrl: "https://www.tweaktown.com/news/72211/microsoft-flight-simulator-latest-
 ampWebUrl: "https://www.tweaktown.com/news/72211/microsoft-flight-simulator-latest-screenshots-upgrade-your-pc-now/amp.html"
 cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/72211/microsoft-flight-simulator-latest-screenshots-upgrade-your-pc-now/amp.html"
 type: article
-quality: 62
-heat: 62
+quality: 42
+heat: 42
 published: false
 
 provider:

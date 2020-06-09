@@ -7,7 +7,7 @@ webUrl: "https://www.charlotteobserver.com/news/article242383956.html"
 ampWebUrl: "https://amp.charlotteobserver.com/news/article242383956.html"
 cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/article242383956.html"
 type: article
-quality: 30
+quality: 20
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: WRIC
       domain: wric.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://www.wric.com/wp-content/uploads/sites/74/2020/04/2a643fc1b1fb4a6ca0c2ce8d387c3860.jpg?w=1280&h=720&crop=1"
         width: 1280

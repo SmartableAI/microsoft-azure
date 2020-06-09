@@ -5,7 +5,7 @@ excerpt: "Sepio Systems, the leader in Rogue Device Mitigation (RDM), today anno
 publishedDateTime: 2020-05-29T13:00:00Z
 webUrl: "https://apnews.com/PR Newswire/f5b85ffe40d0191068bb0e60ed78df05"
 type: article
-quality: 47
+quality: 37
 heat: -1
 published: false
 
@@ -31,7 +31,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 80
+    quality: 70
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -44,7 +44,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 78
+    quality: 68
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

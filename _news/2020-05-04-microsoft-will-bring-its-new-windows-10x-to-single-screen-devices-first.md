@@ -7,7 +7,7 @@ webUrl: "https://www.cnet.com/news/microsoft-will-bring-its-new-windows-10x-to-s
 ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-will-bring-its-new-windows-10x-to-single-screen-devices-first/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-will-bring-its-new-windows-10x-to-single-screen-devices-first/"
 type: article
-quality: 102
+quality: 82
 heat: -1
 published: false
 
@@ -39,7 +39,7 @@ related:
     provider:
       name: Engadget
       domain: engadget.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-05%2Ffe4dc1d0-8e2e-11ea-bfdf-96f360b43ccd&client=amp-blogside-v2&signature=08fae138036032b01bc5ed56fe270592902b738a"
         width: 600
@@ -54,7 +54,7 @@ related:
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 96
+    quality: 76
     images:
       - url: "https://cdn.vox-cdn.com/thumbor/_Uzc2GIYDlWGRYoWD1n3eWkVU3A=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66748551/akrales_190930_3649_0115.0.jpg"
         width: 1400
@@ -69,7 +69,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 96
+    quality: 76
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2020/04/no-neo-in-2020-microsoft-pauses-630x354.jpg"
         width: 630

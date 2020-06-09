@@ -7,8 +7,8 @@ webUrl: "https://www.benzinga.com/pressreleases/20/06/ab16166093/blockchain-mark
 ampWebUrl: "https://amp.benzinga.com/amp/content/16166093"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16166093"
 type: article
-quality: 24
-heat: 24
+quality: 14
+heat: 14
 published: false
 
 provider:

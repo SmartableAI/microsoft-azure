@@ -5,8 +5,8 @@ excerpt: "The war of words is heating up between Microsoft and AWS as the Pentag
 publishedDateTime: 2020-05-08T21:24:00Z
 webUrl: "https://www.crn.com/news/cloud/aws-fires-back-at-microsoft-as-jedi-cloud-battle-rages-we-won-t-back-down-"
 type: article
-quality: 29
-heat: 29
+quality: 19
+heat: 19
 published: false
 
 provider:

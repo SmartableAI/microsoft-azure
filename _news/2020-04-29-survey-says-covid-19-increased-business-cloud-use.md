@@ -5,8 +5,8 @@ excerpt: "Confirming other data, a new State of the Cloud report from Flexera in
 publishedDateTime: 2020-04-29T17:56:00Z
 webUrl: "https://virtualizationreview.com/articles/2020/04/29/state-of-cloud.aspx"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:

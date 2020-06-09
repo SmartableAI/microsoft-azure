@@ -5,9 +5,9 @@ excerpt: "The scope of the report includes a detailed study of global and region
 publishedDateTime: 2020-05-22T13:52:00Z
 webUrl: "https://www.marketwatch.com/press-release/covid-19-impact-on-healthcare-cloud-computing-market-2020-05-22"
 type: article
-quality: 72
-heat: 72
-published: true
+quality: 62
+heat: 62
+published: false
 
 provider:
   name: MarketWatch

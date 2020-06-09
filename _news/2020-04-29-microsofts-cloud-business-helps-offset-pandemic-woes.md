@@ -5,7 +5,7 @@ excerpt: "Ongoing demand for Microsoft's cloud computing services help softened 
 publishedDateTime: 2020-04-29T21:23:00Z
 webUrl: "https://www.chron.com/business/article/Microsoft-s-cloud-business-helps-offset-pandemic-15235193.php"
 type: article
-quality: 32
+quality: 2
 heat: -1
 published: false
 
@@ -15,12 +15,6 @@ provider:
 
 topics:
   - Azure
-
-images:
-  - url: "https://s.hdnux.com/photos/01/11/65/34/19355416/3/rawImage.jpg"
-    width: 2048
-    height: 1422
-    title: "Microsoft's cloud business helps offset pandemic woes"
 
 related:
   - title: "Microsoft beats quarterly revenue estimates on cloud boost"
@@ -33,7 +27,7 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200429&t=2&i=1516924789&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG3S223"
         width: 817
@@ -48,7 +42,7 @@ related:
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 101
+    quality: 81
     images:
       - url: "https://images.wsj.net/im-181683/social"
         width: 1280
@@ -63,7 +57,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 97
+    quality: 77
     images:
       - url: "https://s.marketwatch.com/public/resources/images/MW-HY843_Micros_ZH_20200122191821.jpg"
         width: 890
@@ -78,7 +72,7 @@ related:
     provider:
       name: Bloomberg
       domain: bloomberg.com
-    quality: 72
+    quality: 62
   - title: "Microsoft blames coronavirus-related supply chain constraints for its cloud capacity issues"
     excerpt: "Microsoft has struggled at times to keep up with the huge demand for its cloud services, as people work from home more."
     publishedDateTime: 2020-04-29T21:37:00Z
@@ -87,7 +81,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 62
+    quality: 52
     images:
       - url: "https://i.insider.com/5dfbb9b6855cc26de1630123?width=1200&format=jpeg"
         width: 1200
@@ -102,7 +96,7 @@ related:
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 53
+    quality: 33
     images:
       - url: "https://www.washingtonpost.com/resizer/iAwDp1yG46qwbRqde_rAAu43rKI=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RBIUICTQDUI6TEZRGC6FQNXURY.jpg"
         width: 1440
@@ -115,11 +109,7 @@ related:
     provider:
       name: SFGate
       domain: sfgate.com
-    quality: 32
-    images:
-      - url: "https://s.hdnux.com/photos/01/11/65/34/19355416/3/rawImage.jpg"
-        width: 2048
-        height: 1422
+    quality: 2
 
 secured: "hQh8WfT0ZVgfHGERSWFYLARVyvrho0bZzPCREfuf5LKWGIqIkd6Mic2sugogQZE/FYqwLwm6B7ZoWQz8gfl8e46cXswi+FP12bFNX2KmMIFJvQJlwMdsYtE75SDu7mijP7rRJ/aPHCE/976V9UygK4kIs5ECJJX8T3NhJYxpxcgZ/tUQHe6sOPsgtunYtsM8c1yiYmaoZsWRIDd7b0/s3lOb5Cs7vEIHS/dUOmIwyaN8pJ2oEj5ECtOrWtMF5xnoWJMQ8U6sQjn9No5GY2D8vTVF3aWGoRMvv7R4z+YzX0BhehLrlcF2wZDH0aQbHvDOLSa5PgTpaZC775I4smRCicKeL9oBZwI4LSWVrcaSjfrjckyEWEYltEiCbntM0GBLPVyVGDCftxzT3o30UoDzhb/2yGOoBIilOn5t/dv69OLH9fG+42du6/FOGuTsX36kIv5tmp9TdHrfxEqOh18uWsM0pW4y/Jpm/lCxaNqkqXE=;htFZziuZsMNUrkHrPIdQJA=="
 ---

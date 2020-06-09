@@ -7,7 +7,7 @@ webUrl: "https://www.marketwatch.com/story/microsoft-tops-10-billion-in-earnings
 ampWebUrl: "https://www.marketwatch.com/amp/story/guid/7444C824-8A48-11EA-805E-BE7772630DE1"
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/7444C824-8A48-11EA-805E-BE7772630DE1"
 type: article
-quality: 97
+quality: 77
 heat: -1
 published: false
 
@@ -39,7 +39,7 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200429&t=2&i=1516924789&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG3S223"
         width: 817
@@ -54,7 +54,7 @@ related:
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 101
+    quality: 81
     images:
       - url: "https://images.wsj.net/im-181683/social"
         width: 1280
@@ -69,7 +69,7 @@ related:
     provider:
       name: Bloomberg
       domain: bloomberg.com
-    quality: 72
+    quality: 62
   - title: "Microsoft blames coronavirus-related supply chain constraints for its cloud capacity issues"
     excerpt: "Microsoft has struggled at times to keep up with the huge demand for its cloud services, as people work from home more."
     publishedDateTime: 2020-04-29T21:37:00Z
@@ -78,7 +78,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 62
+    quality: 52
     images:
       - url: "https://i.insider.com/5dfbb9b6855cc26de1630123?width=1200&format=jpeg"
         width: 1200
@@ -93,7 +93,7 @@ related:
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 53
+    quality: 33
     images:
       - url: "https://www.washingtonpost.com/resizer/iAwDp1yG46qwbRqde_rAAu43rKI=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RBIUICTQDUI6TEZRGC6FQNXURY.jpg"
         width: 1440
@@ -106,11 +106,7 @@ related:
     provider:
       name: Houston Chronicle
       domain: chron.com
-    quality: 32
-    images:
-      - url: "https://s.hdnux.com/photos/01/11/65/34/19355416/3/rawImage.jpg"
-        width: 2048
-        height: 1422
+    quality: 2
   - title: "Microsoft's cloud business helps offset pandemic woes"
     excerpt: "Ongoing demand for Microsoft's cloud computing services help softened the blow of the coronavirus pandemic on the software giant's other products during the first three months of the year. The company on Wednesday reported fiscal third-quarter profit of $10."
     publishedDateTime: 2020-04-30T05:30:00Z
@@ -119,11 +115,7 @@ related:
     provider:
       name: SFGate
       domain: sfgate.com
-    quality: 32
-    images:
-      - url: "https://s.hdnux.com/photos/01/11/65/34/19355416/3/rawImage.jpg"
-        width: 2048
-        height: 1422
+    quality: 2
 
 secured: "NwEetZYasktyUHZGhpYW0+nmHVreacuIkph3eTQjWSJOOFE2stMUMJLFd7oI3jHnH/QOvjDg8pEehN2W6JZ5mY545sCiTsOt5KjuVtECVx8m10sNj23LBSUQYs+u1QIO1zEdKOsJ1HiI3Do/TUfz/OlRJYVk3oAgOQE+H3tIicUoyT8I0tPwqNVSEVpv5NqClktH6EYqcG4PME//6XcW3LA+WagXei8pRn8Wz2xofVNeifZIydsE0PaZfQdS3zGFFdnvdwivXFfsNUVGCN+H7rBOmjlnrVf3bjUtqRaxwkUnIFbo1UvmV1LhrHiOBmHOjiChKsdHj8nc7LjvSrjzNrnb2kOKgcy7Q2GsKhUg02bU6uGRbBt8Y9RJ+rvkFxXPpPitBDjOACfuJlPUl8ckbGwNx2RpVy0Bspne/lPZOWNVpCfDM4lkGNO0TnsafVu4+2VK8K7/o+d2+2adh/QNxCHdzxHwdJq4HNaGWLv0Bzw=;UiTYpE8nttzLsU8f3MVJvg=="
 ---

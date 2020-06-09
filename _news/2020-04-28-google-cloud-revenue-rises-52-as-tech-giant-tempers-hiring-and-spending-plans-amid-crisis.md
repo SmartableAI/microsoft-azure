@@ -7,8 +7,8 @@ webUrl: "https://www.geekwire.com/2020/google-cloud-revenue-rises-50-tech-giant-
 ampWebUrl: "https://www.geekwire.com/2020/google-cloud-revenue-rises-50-tech-giant-tempers-hiring-spending-plans-amid-crisis/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/google-cloud-revenue-rises-50-tech-giant-tempers-hiring-spending-plans-amid-crisis/amp/"
 type: article
-quality: 92
-heat: 92
+quality: 72
+heat: 72
 published: true
 
 provider:

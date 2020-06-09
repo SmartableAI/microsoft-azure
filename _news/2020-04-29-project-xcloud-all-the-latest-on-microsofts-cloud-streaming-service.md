@@ -7,7 +7,7 @@ webUrl: "https://www.trustedreviews.com/hub/project-xcloud-release-date-specs-pr
 ampWebUrl: "https://www.trustedreviews.com/news/project-xcloud-release-date-specs-price-beta-3941204/amp"
 cdnAmpWebUrl: "https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/project-xcloud-release-date-specs-price-beta-3941204/amp"
 type: article
-quality: 62
+quality: 42
 heat: -1
 published: false
 
@@ -35,7 +35,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 88
+    quality: 68
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2019/12/nadella-630x418.jpg"
         width: 630

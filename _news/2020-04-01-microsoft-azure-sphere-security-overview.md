@@ -5,8 +5,8 @@ excerpt: "Microsoft, using its decades of experience in hardware, software, and 
 publishedDateTime: 2020-04-01T18:33:00Z
 webUrl: "https://www.storagereview.com/review/microsoft-azure-sphere-security-overview"
 type: article
-quality: 47
-heat: 47
+quality: 37
+heat: 37
 published: false
 
 provider:

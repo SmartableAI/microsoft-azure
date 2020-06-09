@@ -5,8 +5,8 @@ excerpt: "NetApp Inc. today said that it has acquired CloudJumper Corp., a Citri
 publishedDateTime: 2020-04-29T17:20:00Z
 webUrl: "https://siliconangle.com/2020/04/29/netapp-acquires-cloud-based-virtual-desktop-provider-cloudjumper/"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:

@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/windows-virtual-desktops-how-you-c
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/windows-virtual-desktops-how-you-can-manage-monitor-and-virtualise-devices-remotely/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/windows-virtual-desktops-how-you-can-manage-monitor-and-virtualise-devices-remotely/"
 type: article
-quality: 95
-heat: 95
+quality: 75
+heat: 75
 published: true
 
 provider:

@@ -5,8 +5,8 @@ excerpt: "Microsoft plans to invest $1bn in cloud computing in Poland. The compa
 publishedDateTime: 2020-05-06T08:49:00Z
 webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-plans-1bn-cloud-investment-in-poland/"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:

@@ -25,7 +25,7 @@ related:
     provider:
       name: Law
       domain: law.com
-    quality: 31
+    quality: 21
     images:
       - url: "https://www.law.com/assets/master-template/images/close-btn.png"
         width: 256

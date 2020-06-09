@@ -5,8 +5,8 @@ excerpt: "Today, more than ever before, it is essential that our colleagues, cus
 publishedDateTime: 2020-05-21T08:00:41Z
 webUrl: "https://azure.microsoft.com/blog/azure-stack-updates-and-how-it-enables-intelligence-at-the-edge/"
 type: article
-quality: 107
-heat: 107
+quality: 97
+heat: 97
 published: true
 
 provider:

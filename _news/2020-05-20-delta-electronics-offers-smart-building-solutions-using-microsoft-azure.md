@@ -5,8 +5,8 @@ excerpt: "Power supply maker and energy management solution provider Delta Elect
 publishedDateTime: 2020-05-20T07:43:00Z
 webUrl: "https://www.digitimes.com/news/a20200520PD201.html"
 type: article
-quality: 47
-heat: 47
+quality: 37
+heat: 37
 published: false
 
 provider:

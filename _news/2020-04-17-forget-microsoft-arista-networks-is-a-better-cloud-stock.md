@@ -7,8 +7,8 @@ webUrl: "https://www.fool.com/investing/2020/04/17/forget-microsoft-arista-netwo
 ampWebUrl: "https://www.fool.com/amp/investing/2020/04/17/forget-microsoft-arista-networks-is-a-better-cloud.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/17/forget-microsoft-arista-networks-is-a-better-cloud.aspx"
 type: article
-quality: 102
-heat: 162
+quality: 82
+heat: 142
 published: true
 
 provider:
@@ -39,7 +39,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568510%2Fmicrosoft-better-cloud-mf.jpg&w=1200&op=resize"
         width: 1200
@@ -54,7 +54,7 @@ related:
     provider:
       name: InvestorPlace
       domain: investorplace.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://investorplace.com/wp-content/uploads/2020/03/shutterstock_698745022-compressor.jpg"
         width: 1600
@@ -67,7 +67,7 @@ related:
     provider:
       name: Finextra
       domain: finextra.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
         width: 480

@@ -7,9 +7,9 @@ webUrl: "https://www.zdnet.com/article/best-cloud-storage-services/"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/best-cloud-storage-services/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/best-cloud-storage-services/"
 type: article
-quality: 68
-heat: 68
-published: false
+quality: 78
+heat: 78
+published: true
 
 provider:
   name: ZDNet
@@ -22,6 +22,12 @@ provider:
 topics:
   - Azure
 
-secured: "ks2wrxPu5RszTasZMZ6ioD8Xofa48+UoyX9X3q75kivoq2+ZE114jLb4q4GRp7pVnACYCsoNN4KiwkaUTDCZeUnj2rZY4xIFUHXxl3VwgOj3bFJ+JR+EEIM07OWE2FRjzn1N4UUvl7ERsH4MLbzohs6CR/yOmVoKC3j87Tk3SRK9pKtUr9dYMAlFKSsD0moWArqo0BCg9G3p1bT6ATYV3w4Q3Sfn1QiaQWWDl2JSjBTOPOR7Tuf5GJufpcMnpzVSITB94STIMLrb2KUwn4J32rnxMtz0ECDo3w3Km3jcS/pXdO0g6MbaNCi/ChKIJsahNTbgmm3lP71QLTFxSzL1qw6f3oiKVrP3j3hpqL0U7/DN6hyEoKaRDU6OrFwNkYC32CoTb47LQroDnMOE9rKzOUAVETeQCgcingB87EjpnvD3qWtYCh6VjfTCLGp2ZDTHHDhxpiGXqCBFYkqhuW9o93/Do0GTfgM7gyBngsS1i5I=;okO+Av50yztaDUzZ5ga1zg=="
+images:
+  - url: "https://zdnet3.cbsistatic.com/hub/i/2020/05/04/0fa03f3e-9df9-4088-96cc-75409ca79e69/amazon-drive.jpg"
+    width: 1600
+    height: 1068
+    title: "Best cloud storage services in 2020: Google Drive, OneDrive, Dropbox, and more"
+
+secured: "49TmEuFPAujzBCkyKEsWmpn/OzQNEmo8iTy+OY7ex4wkRUv0fS6kHvmfF6g9wy+hGgB4fIR00v23EJy2NqojR8mLMgL+63EcBpGvpBeo/mbOPf/4e09ygBfyWyE6RaauD8+6i0DxK07ZJgOxJIXz18zfgaLaukCqpZ5GtMK2SPAmZU3EuG8UjYujRSFEtC/hshV6VM4Tq8B844BgJ7wzAk+BeDa6URD4+s4YIA4LyBGvmW+FdX9J+x51Q3DftQM7d361I158nJ5xtxEVFPb221A4+gVxG7SVQmS0CdEh6yWvqxrZuOY8Wmi/XEdNA5Ow;B9QoLoR3EtrGC3GzSWsPrA=="
 ---
 

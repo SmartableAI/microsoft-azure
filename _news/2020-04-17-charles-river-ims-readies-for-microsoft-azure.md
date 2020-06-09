@@ -5,7 +5,7 @@ excerpt: "Charles River Development, a State Street Company, today announced tha
 publishedDateTime: 2020-04-17T08:49:00Z
 webUrl: "https://www.finextra.com/pressarticle/82195/charles-river-ims-readies-for-microsoft-azure"
 type: article
-quality: 47
+quality: 37
 heat: -1
 published: false
 
@@ -33,7 +33,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://media.ycharts.com/charts/24981e8743742bcb2fd3f34c85905335.png"
         width: 720
@@ -48,7 +48,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568510%2Fmicrosoft-better-cloud-mf.jpg&w=1200&op=resize"
         width: 1200
@@ -63,7 +63,7 @@ related:
     provider:
       name: InvestorPlace
       domain: investorplace.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://investorplace.com/wp-content/uploads/2020/03/shutterstock_698745022-compressor.jpg"
         width: 1600

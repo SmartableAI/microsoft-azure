@@ -7,8 +7,8 @@ webUrl: "https://www.thestreet.com/video/amazon-microsoft-earnings-date"
 ampWebUrl: "https://www.thestreet.com/.amp/video/amazon-microsoft-earnings-date"
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/video/amazon-microsoft-earnings-date"
 type: article
-quality: 62
-heat: 62
+quality: 42
+heat: 42
 published: false
 
 provider:

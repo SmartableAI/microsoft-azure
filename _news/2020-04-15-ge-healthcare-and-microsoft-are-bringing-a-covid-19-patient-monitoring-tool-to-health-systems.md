@@ -7,8 +7,8 @@ webUrl: "https://techcrunch.com/2020/04/15/ge-healthcare-and-microsoft-are-bring
 ampWebUrl: "https://techcrunch.com/2020/04/15/ge-healthcare-and-microsoft-are-bringing-a-covid-19-patient-monitoring-tool-to-health-systems/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/15/ge-healthcare-and-microsoft-are-bringing-a-covid-19-patient-monitoring-tool-to-health-systems/amp/"
 type: article
-quality: 91
-heat: 91
+quality: 71
+heat: 71
 published: true
 
 provider:

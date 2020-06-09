@@ -5,8 +5,8 @@ excerpt: "Login VSI, the company dedicated to maximizing the end-user experience
 publishedDateTime: 2020-05-20T12:49:00Z
 webUrl: "https://www.businesswire.com/news/home/20200520005045/en/"
 type: article
-quality: 47
-heat: 47
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -31,7 +31,7 @@ related:
     provider:
       name: Help Net Security
       domain: helpnetsecurity.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
         width: 304

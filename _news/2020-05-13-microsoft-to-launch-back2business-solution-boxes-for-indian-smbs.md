@@ -5,7 +5,7 @@ excerpt: "Microsoft to launch Back2Business Solution Boxes for Indian SMBs New D
 publishedDateTime: 2020-05-13T13:59:00Z
 webUrl: "https://menafn.com/1100156764/Microsoft-to-launch-Back2Business-Solution-Boxes-for-Indian-SMBs"
 type: article
-quality: 2
+quality: 22
 heat: -1
 published: false
 
@@ -15,6 +15,12 @@ provider:
 
 topics:
   - Azure
+
+images:
+  - url: "https://menafn.com/updates/pr/2020-05/13/KI_30d78cc1-0image_story.jpg"
+    width: 500
+    height: 344
+    title: "Microsoft to launch Back2Business Solution Boxes for Indian SMBs"
 
 related:
   - title: "Microsoft introduces Back2Business solution boxes for SMBs in India"
@@ -27,7 +33,7 @@ related:
     provider:
       name: Business Line
       domain: thehindubusinessline.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://www.thehindubusinessline.com/static/theme/default/base/img/og-image.jpg"
         width: 300
@@ -40,12 +46,12 @@ related:
     provider:
       name: Sify.com
       domain: sify.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.sify.com/uploads/microsoft_logo_ap_ufnfR2daebada.jpg"
         width: 950
         height: 633
 
-secured: "LGvGg27YtqBeUzpVcasneouAI9fW+JjnXiU8qDKMhDNh0p70nO/pNWolAEhmBS9do4znHJNLGXuPVDHk1t2+RpRSEaHh0Q1IoN8dr6D1Q8AzFHov1ghqIprfePgIACQB2fSvUbktn4eaxHvpqW0hQTBRbIv1IpZTcx9X+NVq5StvupsyXTAIGxdALjnuO2LSUuXH+iGLK8WrbFkwcVM8+d9Fq6Ba/3tjV9vQpSnxCuFnfdxSe08/0O+KMYUBaOSMMlntVXyObkxm59HrGXODOPpyBdN/SXYft5ur8J9XQRirVC0dpP1Prmlbg1zr+Yzs+sqhFHOmmipZEMlY7/WyYAu5a/kIzK8qLuS+Hecau82GThV39E9FvMpFMU7msZpBoR+AS0Q/G/aGlSTF+8ViOO34neDRdiDuCBj2h1uCNuS5Bzr0qlXD1VksmsTN53sTdfXpL0GAMA3g8EsJGFnVUYDAD0KIctpmdcznXl1Crc0=;2zBuLi6X23HuuTsc0XazBA=="
+secured: "U3Q23L14vuQKlpbUBxlXBEyuct0sSlymeFMQV/IgP6XRe3PL9y0wkEu8hAT1mGXKrb2SYyccKaazoTeuulM1Yi76ER+SvWAtyScqUdvbt0ULZMCaB1MJvk58BW2fIDib2lYNtgVMDa1thcPciMrQ1Te3V6gig0QurY3lp81eKI0Z9vTCNw8GMhwpAZfhHdRmjLa1qESUJj4mt4ZVWOLDepQsZJB+z8xB7qBTlqVBc6z09TqcerwnAIpJlpULYT0xfr7RyAp7zNW1pPuabcC/Wdu+CZFudZ2qnTmVuVvWJCOI1KC1/yCvA/PojlENE4j6;Yg9hJiwbtj1ajXyGOrc24A=="
 ---
 

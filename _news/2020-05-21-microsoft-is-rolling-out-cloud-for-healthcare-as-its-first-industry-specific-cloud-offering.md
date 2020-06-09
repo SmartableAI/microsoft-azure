@@ -5,8 +5,8 @@ excerpt: "Microsoft announced the rollout of a spate of industry-specific cloud 
 publishedDateTime: 2020-05-21T12:47:00Z
 webUrl: "https://www.businessinsider.com/microsoft-launches-cloud-for-healthcare-2020-5"
 type: article
-quality: 62
-heat: 82
+quality: 52
+heat: 72
 published: true
 
 provider:
@@ -35,7 +35,7 @@ related:
     provider:
       name: Healthcare Dive
       domain: healthcaredive.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.healthcaredive.com/user_media/cache/9b/db/9bdbcf9f6a563d032837efbed204fd23.jpg"
         width: 770

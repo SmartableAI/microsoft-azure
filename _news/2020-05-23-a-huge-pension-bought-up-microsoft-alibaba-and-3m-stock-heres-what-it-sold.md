@@ -7,7 +7,7 @@ webUrl: "https://www.barrons.com/articles/huge-pension-bought-microsoft-stock-al
 ampWebUrl: "https://www.barrons.com/amp/articles/huge-pension-bought-microsoft-stock-alibaba-3m-amazon-51589994778"
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/huge-pension-bought-microsoft-stock-alibaba-3m-amazon-51589994778"
 type: article
-quality: 58
+quality: 38
 heat: -1
 published: false
 
@@ -35,7 +35,7 @@ related:
     provider:
       name: Barron's
       domain: barrons.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://images.barrons.com/im-189920/social"
         width: 1280

@@ -7,9 +7,9 @@ webUrl: "https://www.cbronline.com/news/jedi-row-amazon-microsoft"
 ampWebUrl: "https://www.cbronline.com/news/jedi-row-amazon-microsoft/amp/"
 cdnAmpWebUrl: "https://www-cbronline-com.cdn.ampproject.org/c/s/www.cbronline.com/news/jedi-row-amazon-microsoft/amp/"
 type: article
-quality: 62
-heat: 82
-published: true
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: Computer Business Review
@@ -35,7 +35,7 @@ related:
     provider:
       name: Computer Weekly
       domain: computerweekly.com
-    quality: 23
+    quality: 13
 
 secured: "X9QaBes++vZDYUOT9ehA6XzARrNuekscirdJoRJybm3EJg0MVnkBe/QE0sY6G0gWnf1Tmfvy9kWstV4/cZrjvYdtenLP2q4XZVqfPY7puNNtqEyi/B6JJP18FwFALtvL4zf5EitLoK3Sudyw81I4+Q8rwxYnPB5WS38eAoKBFEXpYRzLPO/NowuVhy7XxLFd4LtBsLx0WWfwL29eVsGdD9Rer3ezNxgPvLXZ8G5A4cmxw6aUDcRJiEqiDUiWXAanqDve/axR9z8tk+cJO+3gg4M2Dyld++LZjmBHrpr3WJ1F5mo5bpp0d+GjBBk8kz1ixD6loUnXT5OCa+G6G0GYutXWVzwJpHOm42ebR2a+3+MkfjvqJ4Ee/OtXu+puwI5X6bgY71985WmTihSUYGwDgiFfzKNo7TpwK8GG59u28I07ZICAatErdToz+hQ4K8FGy5wqAB5ewjeGpxKnFZnNiiHf4FrVa3rox+AHPZfPwb4=;t0WYw78pfKu4+X8MtKZ9hA=="
 ---

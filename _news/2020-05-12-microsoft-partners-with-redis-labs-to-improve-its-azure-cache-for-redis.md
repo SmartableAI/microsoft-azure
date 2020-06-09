@@ -7,7 +7,7 @@ webUrl: "https://techcrunch.com/2020/05/12/microsoft-partners-with-redis-labs-to
 ampWebUrl: "https://techcrunch.com/2020/05/12/microsoft-partners-with-redis-labs-to-improve-its-azure-cache-for-redis/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/12/microsoft-partners-with-redis-labs-to-improve-its-azure-cache-for-redis/amp/"
 type: article
-quality: 117
+quality: 97
 heat: -1
 published: false
 
@@ -39,7 +39,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 117
+    quality: 97
     images:
       - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/05/11/f9afed5d-33cd-438f-ba73-31b31abba8e1/thumbnail/1200x675/551e70a2173905fa78f8877e82c1669a/redis-logo-2.png"
         width: 1200

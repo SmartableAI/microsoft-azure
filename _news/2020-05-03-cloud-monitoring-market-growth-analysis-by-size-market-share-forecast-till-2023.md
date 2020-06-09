@@ -5,8 +5,8 @@ excerpt: "Cloud monitoring is the process of reviewing, monitoring and managing 
 publishedDateTime: 2020-05-03T06:56:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-monitoring-market-growth-analysis-by-size-market-share-forecast-till-2023-2020-05-03"
 type: article
-quality: 66
-heat: 106
+quality: 56
+heat: 96
 published: true
 
 provider:
@@ -35,7 +35,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -48,7 +48,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

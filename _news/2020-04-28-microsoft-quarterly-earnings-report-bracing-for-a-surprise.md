@@ -7,8 +7,8 @@ webUrl: "https://www.fxstreet.com/analysis/microsoft-quarterly-earnings-report-b
 ampWebUrl: "https://www.fxstreet.com/amp/analysis/microsoft-quarterly-earnings-report-bracing-for-a-surprise-202004281301"
 cdnAmpWebUrl: "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/analysis/microsoft-quarterly-earnings-report-bracing-for-a-surprise-202004281301"
 type: article
-quality: 62
-heat: 62
+quality: 42
+heat: 42
 published: false
 
 provider:

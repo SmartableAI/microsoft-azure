@@ -7,7 +7,7 @@ webUrl: "https://www.engadget.com/microsoft-cloud-for-healthcare-150051142.html"
 ampWebUrl: "https://www.engadget.com/amp/microsoft-cloud-for-healthcare-150051142.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-cloud-for-healthcare-150051142.html"
 type: article
-quality: 100
+quality: 80
 heat: -1
 published: false
 
@@ -39,7 +39,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 105
+    quality: 85
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2020/05/IMG_20191104_091357.jpg?w=1024"
         width: 1024
@@ -54,7 +54,7 @@ related:
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://cdn.vox-cdn.com/thumbor/A0qSlkmYYXZrzHTj7PIDFJAR7J8=/0x0:3000x1984/1400x933/filters:focal(1260x752:1740x1232):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66814907/518216764.jpg.0.jpg"
         width: 1400
@@ -69,7 +69,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 101
+    quality: 81
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2016/09/gettyimages-452481532.jpg?w=1024"
         width: 1024
@@ -84,7 +84,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 87
+    quality: 67
     images:
       - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/05/13/bf550a82-e9e8-4511-bee9-983426e8fc52/thumbnail/1200x675/aaf99352c82c362f4feba84192e7819c/2555435eba4cad133864-58121622-nvidia-accelerates-apache-spark.jpg"
         width: 1200
@@ -99,7 +99,11 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 56
+    quality: 66
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ec3edbee25ff100063bf727%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1918%26cropY1%3D0%26cropY2%3D1079"
+        width: 1200
+        height: 675
   - title: "Meet Microsoft Cloud for Healthcare, Microsoft’s first industry-specific cloud solution"
     excerpt: "Microsoft made great progress in the health care related business. Today, Microsoft is announcing Microsoft Cloud for Healthcare, its first industry-specific cloud solution."
     publishedDateTime: 2020-05-19T15:02:00Z
@@ -110,7 +114,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 54
+    quality: 34
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2019/01/Azure-Cloud.jpg"
         width: 918
@@ -125,7 +129,7 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
-    quality: 32
+    quality: 22
 
 secured: "duRE991XY1syFU/VPh5jg3cClDtTVHymlHBGVuuZM+J5N/DzGgRLGorCZy7dfUd65tJX9oDdmLr91n37ajGy2mwxK5UyS1/Qz2BoT02SN38/zLyR30IvC/8uKYdw9nckyjNgTADf9F4+1O2YwLatZTAWb8Dj/E3xGKcTAgRc1UZX4L68E1YikHVmJAoc7i0nhQ7kfkFmcPDzOdSaB63VMhGCOxVEsSGM1N4SXlH+vyNyQe1BiJG+xdUgDolKRinDjhgFJM/tLTPfxKGGOmNZEBb0xiLOlc/hc6qiJSKkzydNfEKeq0pnaXd1wGuXIXL/6N1fbhqpEzfUTG54/hsQaxdGlKsrUF3d5dRErkjSkSgZz83QMe73YLztK3kK0CjDd/ow2/fIcC5eKhUaqTxsI0NDX5IDWusuFBMfnICudq09qWbQM8uhAZUQK0A99sb/lfzaAFpkEgidjDkRcrP/B701qXXdAM/azOZS4a1sMCo=;ZvhsFnTJ+xWBIWlCFKe4tg=="
 ---

@@ -7,8 +7,8 @@ webUrl: "https://investorplace.com/2020/05/is-microsoft-stock-about-to-go-into-a
 ampWebUrl: "https://investorplace.com/2020/05/is-microsoft-stock-about-to-go-into-a-lengthy-stall/amp/"
 cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/05/is-microsoft-stock-about-to-go-into-a-lengthy-stall/amp/"
 type: article
-quality: 62
-heat: 62
+quality: 42
+heat: 42
 published: false
 
 provider:

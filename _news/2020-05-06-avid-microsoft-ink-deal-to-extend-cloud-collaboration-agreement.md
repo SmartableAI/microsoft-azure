@@ -7,8 +7,8 @@ webUrl: "https://www.tvtechnology.com/news/avid-microsoft-ink-deal-to-extend-clo
 ampWebUrl: "https://www.tvtechnology.com/amp/news/avid-microsoft-ink-deal-to-extend-cloud-collaboration-agreement"
 cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/avid-microsoft-ink-deal-to-extend-cloud-collaboration-agreement"
 type: article
-quality: 62
-heat: 62
+quality: 42
+heat: 42
 published: false
 
 provider:

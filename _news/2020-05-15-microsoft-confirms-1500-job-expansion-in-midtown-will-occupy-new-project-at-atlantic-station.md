@@ -5,7 +5,7 @@ excerpt: "Microsoft’s expansion has been discussed in economic development and
 publishedDateTime: 2020-05-15T19:20:00Z
 webUrl: "https://www.bizjournals.com/atlanta/news/2020/05/15/microsoft-confirms-1-500-job-expansion-in-midtown.html"
 type: article
-quality: 20
+quality: 10
 heat: -1
 published: false
 
@@ -31,7 +31,7 @@ related:
     provider:
       name: Bisnow
       domain: bisnow.com
-    quality: 31
+    quality: 21
     images:
       - url: "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2020%2F05%2F5ebed9d0342a5-building92microsoft.jpeg&width=1200&sign=cK4ZcVn6e_apfNCGe0YqeqAq34AMrGFnuIU0rk3ZbRA"
         width: 750

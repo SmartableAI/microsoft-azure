@@ -7,7 +7,7 @@ webUrl: "https://www.zdnet.com/article/microsoft-to-hackers-break-our-azure-sphe
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-to-hackers-break-our-azure-sphere-linux-iot-os-and-earn-up-to-100k/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-hackers-break-our-azure-sphere-linux-iot-os-and-earn-up-to-100k/"
 type: article
-quality: 83
+quality: 93
 heat: -1
 published: false
 
@@ -22,6 +22,12 @@ provider:
 topics:
   - Azure
 
+images:
+  - url: "https://zdnet4.cbsistatic.com/hub/i/2020/05/05/284bc14a-654f-40dd-8c48-3654fd7f17d2/cortexasoftwareplatform.png"
+    width: 315
+    height: 590
+    title: "Microsoft to hackers: Break our Azure Sphere Linux IoT OS and earn up to $100k"
+
 related:
   - title: "Microsoft offers hackers $100K to break Azure Sphere"
     excerpt: "Microsoft recently launched the Azure Sphere Research Challenge, offering approved security researchers up to a $100,000 reward for identifying dangerous exploits that could potentially impact the security of Azure Sphere,"
@@ -33,7 +39,7 @@ related:
     provider:
       name: IT Pro
       domain: itpro.co.uk
-    quality: 117
+    quality: 97
     images:
       - url: "https://media.itpro.co.uk//image/upload/v1588785400/itpro/AS.png"
         width: 902
@@ -48,7 +54,7 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 101
+    quality: 81
     images:
       - url: "https://cnet4.cbsistatic.com/img/iF1uhBUrlwnFFy_E2G17d1LEm-c=/756x567/2017/10/02/5e7fdcb8-e585-47dd-b13c-93d21b4e4d9e/security-privacy-hackers-locks-key-6749.jpg"
         width: 756
@@ -61,12 +67,12 @@ related:
     provider:
       name: SC Media
       domain: scmagazine.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2018/08/microsoft41_1239455.jpg"
         width: 700
         height: 379
 
-secured: "ZGVGK88ichpVQGVTqdLOwA/ICmcJFrQkSmDgCVyWr5NJ55Zn4EgBUXFwCrb1sHoxNYwG/3SQoG7qxfbnD7UV70AGfP64X44LR68breUH/pyIHhEziFZCQP80RuvoJWoqkMDidtcX9f+6HsYheLSr1yVplm3YhTU4aBxdOnC44KUWGVVHvhdgIbYvH86HO0CxyuFT8JffCgEGFFcV9N2kd0kv33URG24d4koQ52zg5pctapD1zJtEB/WQPp2qilIpqIo0pH+sWIboO6SL+5i5rQ/SPmdFF8stAuOA5q3UIHNliaHuM2gTdlyG7ANSDqTRy9h6PYg3lUMXQLsCiQnexYHlZLTOn8udgescx2ozDK9YSShw1S9kMBa+Eyy32bMZLdG6rNAE+LG3kSZX3B8JTYxhcU4J7IVHVENSuOQQlg3CG+VXh8sAlH+Q88q5jRvPLel8bILoyhQw8i/v48pJT+lIo577xY3d+504QWjCkiY=;Cyygs4To1p1zBK+/5v7ZbQ=="
+secured: "frxYOiyEpZXmOMdWjpKV4Zv6oarrLxRQGFoNQ9XqWbV6ORERMsAzARaELDw+0ts4NeuSAJEcl/1XbLf0ujme00GrFw8WlvK70g67FjbWlGxa5J4JT4L0exC4Z5puG5M4eJwG/PfT75h1jiCXNyn0ui0eldD3lnR9dd6pCzWD3DA3KbF6ja5QPVLrsiqreorq222lYytG2uzKlHBRApVTD74Pnac4eJluyZ25dQERXfgcBLpcXPLCEgkhu/TfQiRY2MMOtTv+n07tU/EAOg4uJfcdC0cGPXgE7B9wCUK9Np5smbj3GslJXnFxAJB+kzoc;tBQnTuqzTTxHDsDeF+BhlA=="
 ---
 

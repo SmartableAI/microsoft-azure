@@ -5,8 +5,8 @@ excerpt: "Microsoft won the JEDI contract in October, but a lawsuit from rival A
 publishedDateTime: 2020-05-07T23:40:00Z
 webUrl: "https://fcw.com/articles/2020/05/07/aws-dod-agency-protest-blog-wars.aspx"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:

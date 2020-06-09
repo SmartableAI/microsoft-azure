@@ -7,8 +7,8 @@ webUrl: "https://www.nextplatform.com/2020/05/12/is-microsofts-sonic-winning-the
 ampWebUrl: "https://www.nextplatform.com/2020/05/12/is-microsofts-sonic-winning-the-war-of-the-noses/amp/"
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/05/12/is-microsofts-sonic-winning-the-war-of-the-noses/amp/"
 type: article
-quality: 62
-heat: 62
+quality: 42
+heat: 42
 published: false
 
 provider:

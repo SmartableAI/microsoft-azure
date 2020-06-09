@@ -5,8 +5,8 @@ excerpt: "Use the Jamf Cloud Connector with Microsoft Intune compliance policies
 publishedDateTime: 2020-04-27T21:26:00Z
 webUrl: "https://docs.microsoft.com/en-us/mem/intune/protect/conditional-access-jamf-cloud-connector"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:

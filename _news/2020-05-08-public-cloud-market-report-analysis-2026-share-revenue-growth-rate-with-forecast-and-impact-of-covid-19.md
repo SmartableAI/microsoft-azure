@@ -5,8 +5,8 @@ excerpt: "Kenneth Research has published a detailed report on Public Cloud Marke
 publishedDateTime: 2020-05-08T11:51:00Z
 webUrl: "https://www.marketwatch.com/press-release/public-cloud-market-report-analysis-2026-share-revenue-growth-rate-with-forecast-and-impact-of-covid-19-2020-05-08"
 type: article
-quality: 54
-heat: 54
+quality: 44
+heat: 44
 published: false
 
 provider:

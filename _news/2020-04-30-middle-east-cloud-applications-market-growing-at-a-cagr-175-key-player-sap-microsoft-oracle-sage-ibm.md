@@ -5,9 +5,9 @@ excerpt: "MarketsandMarkets expects the Middle East Cloud Applications Market to
 publishedDateTime: 2020-04-30T15:35:00Z
 webUrl: "https://www.marketwatch.com/press-release/middle-east-cloud-applications-market-growing-at-a-cagr-175-key-player-sap-microsoft-oracle-sage-ibm-2020-04-30"
 type: article
-quality: 53
-heat: 73
-published: true
+quality: 43
+heat: 43
+published: false
 
 provider:
   name: MarketWatch
@@ -35,7 +35,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

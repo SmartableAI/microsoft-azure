@@ -5,8 +5,8 @@ excerpt: "Then he contacted Amazon.com Inc, asking to “explore creative financ
 publishedDateTime: 2020-04-18T16:08:00Z
 webUrl: "https://www.taipeitimes.com/News/biz/archives/2020/04/19/2003734868"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:

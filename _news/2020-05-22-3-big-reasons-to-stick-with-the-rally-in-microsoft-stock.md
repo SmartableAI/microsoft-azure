@@ -7,9 +7,9 @@ webUrl: "https://investorplace.com/2020/05/3-big-reasons-to-stick-with-the-rally
 ampWebUrl: "https://investorplace.com/2020/05/3-big-reasons-to-stick-with-the-rally-in-microsoft-stock/amp/"
 cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/05/3-big-reasons-to-stick-with-the-rally-in-microsoft-stock/amp/"
 type: article
-quality: 62
-heat: 82
-published: true
+quality: 42
+heat: -1
+published: false
 
 provider:
   name: InvestorPlace

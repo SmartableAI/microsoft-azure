@@ -7,9 +7,9 @@ webUrl: "https://www.cnbc.com/2020/04/30/zoom-choice-of-oracle-cloud-logical-aft
 ampWebUrl: "https://www.cnbc.com/amp/2020/04/30/zoom-choice-of-oracle-cloud-logical-after-news-from-microsoft-google.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/30/zoom-choice-of-oracle-cloud-logical-after-news-from-microsoft-google.html"
 type: article
-quality: 89
-heat: 89
-published: true
+quality: 69
+heat: 69
+published: false
 
 provider:
   name: CNBC

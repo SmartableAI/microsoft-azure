@@ -5,8 +5,8 @@ excerpt: "Global Cloud Gaming Market (Revenue and Volume), Type, Application, En
 publishedDateTime: 2020-04-29T09:38:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-cloud-gaming-market-2020-edition2020-outstanding-growth---nvidia-corporation-amazon-web-services-inc-and-microsoft-corporation-2020-04-29"
 type: article
-quality: 39
-heat: 39
+quality: 29
+heat: 29
 published: false
 
 provider:

@@ -7,8 +7,8 @@ webUrl: "https://thenextweb.com/hardfork/2020/04/16/dod-pentagon-okay-in-giving-
 ampWebUrl: "https://thenextweb.com/hardfork/2020/04/16/dod-pentagon-okay-in-giving-10b-war-cloud-contract-to-microsoft-over-amazon/amp/"
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/hardfork/2020/04/16/dod-pentagon-okay-in-giving-10b-war-cloud-contract-to-microsoft-over-amazon/amp/"
 type: article
-quality: 98
-heat: 138
+quality: 78
+heat: 118
 published: true
 
 provider:
@@ -39,7 +39,7 @@ related:
     provider:
       name: TechSpot
       domain: techspot.com
-    quality: 81
+    quality: 61
     images:
       - url: "https://www.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-13-ts3_thumbs-023.jpg"
         width: 800
@@ -52,7 +52,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 41
+    quality: 31
     images:
       - url: "https://i.insider.com/5dee6b1dfd9db2496759bda1?width=600&format=jpeg&auto=webp"
         width: 600

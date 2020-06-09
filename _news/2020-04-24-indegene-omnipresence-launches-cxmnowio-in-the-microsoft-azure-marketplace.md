@@ -5,7 +5,7 @@ excerpt: "said Sanjay Virmani, CEO of Indegene Omnipresence, in a statement. The
 publishedDateTime: 2020-04-24T15:47:00Z
 webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=140460"
 type: article
-quality: 45
+quality: 35
 heat: -1
 published: false
 
@@ -33,7 +33,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 80
+    quality: 70
 
 secured: "piK91DtW6VCFNFg1S+Bt1nE6FiLOWVDYAY4nyMThaFZx8IEn8ydAwF9qASDuq0f61KEJfg0iNzU/QBFwMroPmTskqn8IViBfHn0UmwnQztnOvV+b4ib3CuJO7Ku6xKFxFctXNJnXiXZVLvpnnDPeu2wrGkgjpx5VV15Sh3f/B6NzLZicPH0LWOJfXTYw2UL6gxVxMrxCOVrdAVAfQt6jzNXxbhFpUbBr3aBsBbH9p2vW3buZSRuOKuBhhIWUZA8StvcLESgPBZ0s3yOG7ib+FOleinGsp2jtdGerX3QFmjUKsefOnwP/vTTTDwLCr0ne;8ksgsWJJw7Hr5kA/T5tiGw=="
 ---

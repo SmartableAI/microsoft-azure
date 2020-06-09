@@ -7,7 +7,7 @@ webUrl: "https://www.thestreet.com/technology/microsoft-to-buy-metaswitch-its-se
 ampWebUrl: "https://www.thestreet.com/.amp/technology/microsoft-to-buy-metaswitch-its-second-telecom-acquisition-this-year"
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/technology/microsoft-to-buy-metaswitch-its-second-telecom-acquisition-this-year"
 type: article
-quality: 62
+quality: 42
 heat: -1
 published: false
 
@@ -35,7 +35,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106341012-1579211430551pic1.jpg?v=1579211475"
         width: 1500

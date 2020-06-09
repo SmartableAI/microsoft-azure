@@ -5,8 +5,8 @@ excerpt: "We recently announced a new solution, Backup Explorer, to enable you a
 publishedDateTime: 2020-03-04T09:00:00Z
 webUrl: "https://azure.microsoft.com/blog/announcing-preview-of-backup-reports/"
 type: article
-quality: 94
-heat: 94
+quality: 84
+heat: 84
 published: true
 
 provider:

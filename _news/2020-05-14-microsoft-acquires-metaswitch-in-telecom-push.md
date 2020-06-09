@@ -7,8 +7,8 @@ webUrl: "https://www.cnbc.com/2020/05/14/microsoft-acquires-metaswitch-in-teleco
 ampWebUrl: "https://www.cnbc.com/amp/2020/05/14/microsoft-acquires-metaswitch-in-telecom-push.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/14/microsoft-acquires-metaswitch-in-telecom-push.html"
 type: article
-quality: 102
-heat: 122
+quality: 82
+heat: 102
 published: true
 
 provider:
@@ -39,7 +39,7 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://content.jwplatform.com/thumbs/71w8v4bG-720.jpg"
         width: 720

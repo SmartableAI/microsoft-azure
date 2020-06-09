@@ -5,7 +5,7 @@ excerpt: "But the report also potentially throws new wrinkles into the ongoing b
 publishedDateTime: 2020-04-21T15:59:00Z
 webUrl: "https://www.hstoday.us/subject-matter-areas/cybersecurity/oig-report-finds-no-evidence-of-political-bias-in-jedi-contract-award/"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
@@ -31,7 +31,7 @@ related:
     provider:
       name: Washington Technology
       domain: washingtontechnology.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://washingtontechnology.com/~/media/GIG/Washington%20Technology/WTlogo.jpg"
         width: 1200

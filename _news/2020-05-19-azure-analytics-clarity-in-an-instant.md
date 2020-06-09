@@ -5,8 +5,8 @@ excerpt: "What 2020 is teaching us is that the world can change in an instant. I
 publishedDateTime: 2020-05-19T08:00:13Z
 webUrl: "https://azure.microsoft.com/blog/azure-analytics-clarity-in-an-instant/"
 type: article
-quality: 107
-heat: 107
+quality: 97
+heat: 97
 published: true
 
 provider:

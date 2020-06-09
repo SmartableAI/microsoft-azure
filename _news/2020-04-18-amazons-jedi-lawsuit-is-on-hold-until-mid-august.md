@@ -7,8 +7,8 @@ webUrl: "https://www.engadget.com/amazons-jedi-lawsuit-is-on-hold-until-mid-augu
 ampWebUrl: "https://www.engadget.com/amp/amazons-jedi-lawsuit-is-on-hold-until-mid-august-181403851.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/amazons-jedi-lawsuit-is-on-hold-until-mid-august-181403851.html"
 type: article
-quality: 102
-heat: 102
+quality: 82
+heat: 82
 published: true
 
 provider:

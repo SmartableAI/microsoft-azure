@@ -7,7 +7,7 @@ webUrl: "https://mspoweruser.com/microsoft-nba-announce-multiyear-partnership/"
 ampWebUrl: "https://mspoweruser.com/microsoft-nba-announce-multiyear-partnership/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-nba-announce-multiyear-partnership/amp/"
 type: article
-quality: 53
+quality: 33
 heat: -1
 published: false
 
@@ -35,7 +35,7 @@ related:
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 117
+    quality: 97
     images:
       - url: "https://cdn.vox-cdn.com/thumbor/mwjfKqcPIwq9DgAixwF1mBWKGvk=/0x0:1777x1168/1400x933/filters:focal(747x442:1031x726):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66663808/microsoftnba.0.jpg"
         width: 1400
@@ -50,7 +50,7 @@ related:
     provider:
       name: TechSpot
       domain: techspot.com
-    quality: 114
+    quality: 94
     images:
       - url: "https://www.techspot.com/images2/news/ts3_thumbs/2020/04/2020-04-16-ts3_thumbs-cdc.jpg"
         width: 800
@@ -65,7 +65,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 106
+    quality: 86
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106492061-1587056933761nadella_silver.jpg?v=1587057169"
         width: 1000
@@ -80,7 +80,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 90
+    quality: 70
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2020/04/NBA_Microsoft_Co_Brand_-630x287.jpg"
         width: 630
@@ -93,7 +93,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/1.jpg"
         width: 949

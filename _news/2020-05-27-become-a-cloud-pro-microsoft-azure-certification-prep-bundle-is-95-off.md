@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/become-a-cloud-pro-microsoft-azure-certif
 ampWebUrl: "https://www.zdnet.com/google-amp/article/become-a-cloud-pro-microsoft-azure-certification-prep-bundle-is-95-off/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/become-a-cloud-pro-microsoft-azure-certification-prep-bundle-is-95-off/"
 type: article
-quality: 86
-heat: 86
+quality: 96
+heat: 96
 published: true
 
 provider:
@@ -22,6 +22,12 @@ provider:
 topics:
   - Azure
 
-secured: "W7QeBZI/bhIeOez8u4muIAY7i3+Qo97EX9p70WCRLgT3QRDCdgH/ZXLQD4EQ6P3seYRnUJuolPb+IMDIrWrfnRza6vqSs6xrfXxv2cfqfp4e8POtLUNWFDESJEjocUXw9x79O3IA6OiLNkE2c93Hea5R2Iyh9WpqWnTGbyJfCsxSRHC1jZvknGSYI3XaWrMnzwj8gSpVyZL08KQHks9xZ1f/3ff8ppp2NnvlXmotH8OmmAmR3j+4kSctmifzlSOl/bKI8Mt7kjK9HbPCRnnTotkBEevs6U5jZ8nKg7hMm4zOWUB/rotu8oVWkBioQIF5Tja31tUBot1DlVYcvfK100VkdZYfy1JtOpGHLzU/d4S4iVxil0YAFFzM6OFxsNdcC6gsGIiCvJ13Ik47ERTtMAnsvWm3YJheqcYjQlnvnuDPBi5khjrVkTxI5i6yBqQWw++YMnHTX1m+47CuH/zS3g49g/XEz54N6fvpz5PpNYM=;ehEiEfcfeIYaO+iFReuBVQ=="
+images:
+  - url: "https://zdnet4.cbsistatic.com/hub/i/2020/05/27/30b4c6f7-2493-46a3-a96e-036d37d7b5dc/2020-05-27-at-2-12-29-am.jpg"
+    width: 1432
+    height: 1070
+    title: "Become a cloud pro: Microsoft Azure certification prep bundle is 95% off"
+
+secured: "OmSEWXbi7R11Vt3hYA8Ly/ArWAgPhxftx+7jt30ULS2ssKGMtU+/CbGbjaPiHga5hk23qnKLeBQ5FaWhua7ggDs65+wWEkCw35c1LUpKn7mof7LmveE353dRhdLf/Wiy0HVNVqF4Ah9vsJTf+raSOC4RTH01z7ATU2z9w8p7shbV4+goBMfarp9bDGsHu/zEE7KpPtXzx/ShGYl2Cq1oGCX4M0KwXa0QRUmNUru+LT3uV2g6qT60qdGUp5mtJeTJZdLbkLdN9LT+vxvLoruj9LSYs9neweNSwziz0OkTzDdK9s1YHfMsq4Hqd9CC+sbENXSKOUymQ27agvb1mgIR+/ihQQv88FGIj7j3dZ2K9NzRGuSkXp8MtAAPxKYG2GnSeDbnljRK0yyPho6hXQR5ezu9CIvjDpkhHiyxihXi/muhKPVNGdc1Y/SOPJtizifqxdvA32Ojy0IbeYo/pncyBPb3dnsQjiHa/0NB4ONW4rc=;4pBr/Lj3T10nSPhfuAEaOw=="
 ---
 

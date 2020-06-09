@@ -7,8 +7,8 @@ webUrl: "https://www.cnet.com/health/microsoft-and-unitedhealth-group-launch-wor
 ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-and-unitedhealth-group-launch-workplace-health-app/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-and-unitedhealth-group-launch-workplace-health-app/"
 type: article
-quality: 102
-heat: 122
+quality: 82
+heat: 102
 published: true
 
 provider:
@@ -37,7 +37,7 @@ related:
     provider:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
-    quality: 28
+    quality: 18
     images:
       - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/3.jpg"
         width: 400

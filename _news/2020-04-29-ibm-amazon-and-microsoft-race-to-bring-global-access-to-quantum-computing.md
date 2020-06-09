@@ -7,7 +7,7 @@ webUrl: "https://www.cnet.com/news/ibm-amazon-and-microsoft-race-to-bring-global
 ampWebUrl: "https://www.cnet.com/google-amp/news/ibm-amazon-and-microsoft-race-to-bring-global-access-to-quantum-computing/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ibm-amazon-and-microsoft-race-to-bring-global-access-to-quantum-computing/"
 type: article
-quality: 100
+quality: 80
 heat: -1
 published: false
 
@@ -27,6 +27,10 @@ images:
     width: 756
     height: 567
     title: "IBM, Amazon and Microsoft race to bring global access to quantum computing"
+  - url: "https://cnet2.cbsistatic.com/img/WunrgBOXXPZb0gsP9EJBgF_hlr4=/756x567/2020/04/29/03ad6c96-bd20-45b4-8d4b-f7282eb4a570/martin-ibm-50-qubit-quantum-computer-7486.jpg"
+    width: 756
+    height: 567
+    title: "IBM, Amazon and Microsoft race to bring global access to quantum computing"
 
 related:
   - title: "Amazon, IBM and Microsoft race to bring global access to quantum computing"
@@ -39,12 +43,12 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 100
+    quality: 80
     images:
       - url: "https://cnet4.cbsistatic.com/img/EPYaz_DlJY7PMJKlvlnwMTSlej0=/756x567/2020/04/28/63f9ebde-a7ac-489b-b5c7-7587c6ab3279/ibm-system-one-quantum-ces-2020.jpg"
         width: 756
         height: 567
 
-secured: "9cyeYKdacIkgsOw2CSd+Aewyl8pZdK9siQF5cG3eZdamaitSVrz8xFCWsqsaP/zoC9p6FPYGnGhkxSoBiIzWitEUP3i1k92mDz5XGgk0BpuQe4xBvGHP4gNKl0XvDoL2RbTa37bfBpRwIGjBxtwJCQk1NtB7ZtjL4HFHHcNBlpKU3ufib8WLM6ypJCbe1hzNscHHGNb4p05vMMYPjOO0x+hGxlA9+lIXdz2ytED3QpNt8leXPze7LMqW7EpeNfQQ8jTzDRAXQ0tXyy3IEFlvRNWnEGUGa/akV0fkFSeLsFWrl65KI180ls6tg8REGCsUm68XwqAwVTfyJsq4uIGKFai+2L1JiyFk6WEUl7c7neFk9AZ4FdatIJ+9Wg/A8ll63N+hN5PaxULJlchXwCu/5biwAWEjZT8EOWu+8iHh28j3OpFENoecE28mpOtma1Jdb41dXyh+v8gg1hEhok2NwbstcPOj63QZmh7ygtMD26w=;EHzJHW7C8O61ELDdc/ChJw=="
+secured: "X+vxOssFXFSYAQvCOgU7IWA5/Ju8S1bXZxyyDRPUoQkbp8JnwzqCRa3DlMYa5PPVaYuczCYnHgEaZY820NhSpdrP+gV0khmSrZLeEp9S2GoiXdY0u+gY7WWGx4q8LbWpwv6xbpbs1jm3UhPkSsqR4yydPOQkbgAIemqH4vxmaDp1qtuiyaNTqPLGMOKHk5LCv7jVpf4rSNHzJ8qBJUOeQu08BjTbcAu3MkpTE1kekqRgghK+hAyzGQzeZYFr6B8mRUKcm/MRnt73f280FdrDkGdNbK/EtOvwz1kppCdl9BlNoNHxDDhVpTr3Xm2NJE0S;ALXKs/gTtLeh8MvAex3ubA=="
 ---
 

@@ -5,8 +5,8 @@ excerpt: "On this live edition of First Ring Daily, Microsoft and Amazon are fig
 publishedDateTime: 2020-05-08T16:41:00Z
 webUrl: "https://www.thurrott.com/podcasts/235977/first-ring-daily-live-return-of-the-jedi"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:

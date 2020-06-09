@@ -5,8 +5,8 @@ excerpt: "Reflection on 2020 will highlight how companies treated cloud portfoli
 publishedDateTime: 2020-05-26T15:00:00Z
 webUrl: "https://www.ciodive.com/news/cloud-IaaS-public-spending-coronavirus/578583/"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:

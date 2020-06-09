@@ -7,8 +7,8 @@ webUrl: "https://www.nasdaq.com/articles/will-azure-teams-adoption-aid-microsoft
 ampWebUrl: "https://www.nasdaq.com/articles/will-azure-teams-adoption-aid-microsoft-msft-q3-earnings-2020-04-27?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-azure-teams-adoption-aid-microsoft-msft-q3-earnings-2020-04-27?amp"
 type: article
-quality: 87
-heat: 87
+quality: 77
+heat: 77
 published: true
 
 provider:

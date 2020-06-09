@@ -7,9 +7,9 @@ webUrl: "https://www.barrons.com/articles/microsoft-earnings-wednesday-personal-
 ampWebUrl: "https://www.barrons.com/amp/articles/microsoft-earnings-wednesday-personal-computing-cloud-azure-51588019515"
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/microsoft-earnings-wednesday-personal-computing-cloud-azure-51588019515"
 type: article
-quality: 62
-heat: 82
-published: true
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: Barron's
@@ -33,7 +33,7 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://images.saymedia-content.com/.image/MTcyMTczNTA3NzMwMzUxNjQx/microsoft.jpg"
         width: 1920

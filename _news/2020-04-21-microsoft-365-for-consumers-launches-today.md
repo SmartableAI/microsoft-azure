@@ -5,8 +5,8 @@ excerpt: "Microsoft is officially launching Microsoft 365 for consumers today. T
 publishedDateTime: 2020-04-21T14:32:00Z
 webUrl: "https://www.thurrott.com/cloud/microsoft-365/235074/microsoft-365-for-consumers-launches-today"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:

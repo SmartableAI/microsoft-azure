@@ -7,8 +7,8 @@ webUrl: "https://www.engadget.com/microsoft-365-available-worldwide-164731336.ht
 ampWebUrl: "https://www.engadget.com/amp/microsoft-365-available-worldwide-164731336.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-365-available-worldwide-164731336.html"
 type: article
-quality: 102
-heat: 102
+quality: 82
+heat: 82
 published: true
 
 provider:

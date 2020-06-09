@@ -7,8 +7,8 @@ webUrl: "https://www.thestreet.com/investing/oracle-gets-cloud-infrastructure-de
 ampWebUrl: "https://www.thestreet.com/.amp/investing/oracle-gets-cloud-infrastructure-deal-with-zoom-video"
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/oracle-gets-cloud-infrastructure-deal-with-zoom-video"
 type: article
-quality: 62
-heat: 62
+quality: 42
+heat: 42
 published: false
 
 provider:

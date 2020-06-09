@@ -7,9 +7,9 @@ webUrl: "https://www.wric.com/news/microsofts-cloud-business-helps-offset-pandem
 ampWebUrl: "https://www.wric.com/news/microsofts-cloud-business-helps-offset-pandemic-woes/amp/"
 cdnAmpWebUrl: "https://www-wric-com.cdn.ampproject.org/c/s/www.wric.com/news/microsofts-cloud-business-helps-offset-pandemic-woes/amp/"
 type: article
-quality: 62
-heat: 82
-published: true
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: WRIC
@@ -35,7 +35,7 @@ related:
     provider:
       name: Charlotte Observer
       domain: charlotteobserver.com
-    quality: 30
+    quality: 20
 
 secured: "RtXuCeuRmErkdt7Luwgm9zG1bawKexphi0cDWXJmC9dhkFbW/v+813MOeyqLn69wxfwqSPnBugK7Z1eTp1aBhkhJEdfvi4b4UGiZsAxFCz/4ndtIOrzfzw2s8q+g5rNRk3CSdbOqMGylcl+3nEol2JXXYF5MlhFJj6EejfSjo2gtIFuanpCX2rT6/h8Qsu/TNaY2pPyGO3Judfs59idwc1syCPn/fyQSL7Z8eNwvweVa6Nc5Pg++FdeYilTFiiUKMkUzGQWFz5WSgs8b99BNZ1XvMD1Ea2p1fOfmmZy3cnttPb+eXVir3nrAqiCdU+LYHw1+q5HW5G2a1FCNqYS6xa/A4TYGqx3RwnBdXwZ14PitibkEfhecAk1J303rcCn5ygjbXTrPl9HJc5mdVRLgS4HUjWpNhlDdKaHIMHGr1w5u5cRymz3htuIBgRqkI+vTe0SVVeuH+gh+F4b5KRMu+h3cZoDHFdR3YGn6DK/jxJ0=;v2/oNtU2tpeZxw93lUSSDA=="
 ---

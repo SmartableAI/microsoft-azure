@@ -7,7 +7,7 @@ webUrl: "https://www.zeebiz.com/companies/news-amazon-web-services-and-microsoft
 ampWebUrl: "https://www.zeebiz.com/companies/news-amazon-web-services-and-microsoft-engage-in-heated-public-spat-over-10bn-cloud-project-126391/amp"
 cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/companies/news-amazon-web-services-and-microsoft-engage-in-heated-public-spat-over-10bn-cloud-project-126391/amp"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -35,7 +35,7 @@ related:
     provider:
       name: The News Minute
       domain: thenewsminute.com
-    quality: 61
+    quality: 41
     images:
       - url: "https://www.thenewsminute.com/sites/default/files/microsoft_750_7.jpg"
         width: 750
@@ -50,7 +50,7 @@ related:
     provider:
       name: The Register
       domain: theregister.co.uk
-    quality: 54
+    quality: 34
     images:
       - url: "https://regmedia.co.uk/2017/12/19/lightsaber.jpg"
         width: 648
@@ -65,7 +65,7 @@ related:
     provider:
       name: The New Indian Express
       domain: newindianexpress.com
-    quality: 50
+    quality: 30
     images:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/5/9/w600X390/Microsoft-Amazon.jpg"
         width: 600

@@ -7,8 +7,8 @@ webUrl: "https://yourstory.com/2020/05/coronavirus-microsoft-india-ai-cybersecur
 ampWebUrl: "https://yourstory.com/2020/05/coronavirus-microsoft-india-ai-cybersecurity/amp"
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/05/coronavirus-microsoft-india-ai-cybersecurity/amp"
 type: article
-quality: 52
-heat: 52
+quality: 32
+heat: 32
 published: false
 
 provider:

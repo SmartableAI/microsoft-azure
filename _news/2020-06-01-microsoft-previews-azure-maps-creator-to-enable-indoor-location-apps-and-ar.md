@@ -5,8 +5,8 @@ excerpt: "Microsoft Corp. today announced the preview of Azure Maps Creator, a n
 publishedDateTime: 2020-06-01T18:50:00Z
 webUrl: "https://siliconangle.com/2020/06/01/microsoft-previews-azure-maps-creator-enable-indoor-location-apps-ar/"
 type: article
-quality: 45
-heat: 45
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -31,7 +31,7 @@ related:
     provider:
       name: Sify.com
       domain: sify.com
-    quality: 26
+    quality: 16
     images:
       - url: "https://www.sify.com/uploads/DevOpsEnabler_ugbqn5hgfaeea.jpg"
         width: 600

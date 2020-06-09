@@ -5,8 +5,8 @@ excerpt: "Azure VMware Solution (AVS) preview. 05/04/2020; 6 minutes to read; In
 publishedDateTime: 2020-05-05T05:22:00Z
 webUrl: "https://docs.microsoft.com/en-us/azure/azure-vmware/faq"
 type: article
-quality: 47
-heat: 47
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -35,7 +35,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
         width: 400

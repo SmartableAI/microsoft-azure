@@ -7,8 +7,8 @@ webUrl: "https://www.geekwire.com/2020/microsoft-fedex-team-amazon-new-technolog
 ampWebUrl: "https://www.geekwire.com/2020/microsoft-fedex-team-amazon-new-technology-logistics-partnership/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-fedex-team-amazon-new-technology-logistics-partnership/amp/"
 type: article
-quality: 93
-heat: 93
+quality: 73
+heat: 73
 published: true
 
 provider:

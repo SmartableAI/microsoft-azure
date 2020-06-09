@@ -5,8 +5,8 @@ excerpt: "Act on the news with POLITICO Pro. — JEDI latest: The Pentagon’s i
 publishedDateTime: 2020-04-16T15:00:00Z
 webUrl: "https://www.politico.com/newsletters/morning-tech/2020/04/16/jedi-war-continues-for-amazon-microsoft-786910"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:
