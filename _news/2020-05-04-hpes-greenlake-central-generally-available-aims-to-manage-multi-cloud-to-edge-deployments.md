@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/hpes-greenlake-central-generally-availabl
 ampWebUrl: "https://www.zdnet.com/google-amp/article/hpes-greenlake-central-generally-available-aims-to-manage-multi-cloud-to-edge-deployments/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hpes-greenlake-central-generally-available-aims-to-manage-multi-cloud-to-edge-deployments/"
 type: article
-quality: 72
-heat: 72
+quality: 92
+heat: 92
 published: true
 
 provider:

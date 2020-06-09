@@ -5,8 +5,8 @@ excerpt: "Veeam Software, the leader in backup solutions that deliver Cloud Data
 publishedDateTime: 2020-04-29T02:00:00Z
 webUrl: "https://www.helpnetsecurity.com/2020/04/29/new-veeam-backup-for-microsoft-azure/"
 type: article
-quality: 31
-heat: 31
+quality: 41
+heat: 41
 published: false
 
 provider:

@@ -5,7 +5,7 @@ excerpt: "The two companies plan to embed Microsoft Azure AI capabilities onto S
 publishedDateTime: 2020-05-19T10:34:00Z
 webUrl: "https://www.siliconrepublic.com/machines/microsoft-azure-sony-smart-camera-sensors-ai"
 type: article
-quality: 37
+quality: 47
 heat: -1
 published: false
 
@@ -33,7 +33,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 97
+    quality: 117
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2020/05/sony-to-use-microsoft-azure-arti-1260x709.jpg"
         width: 1260

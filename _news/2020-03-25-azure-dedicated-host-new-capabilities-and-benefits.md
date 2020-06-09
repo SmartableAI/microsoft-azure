@@ -5,8 +5,8 @@ excerpt: "Late last year, we’ve announced the general availability of Azure De
 publishedDateTime: 2020-03-25T12:00:13Z
 webUrl: "https://azure.microsoft.com/blog/azure-dedicated-host-new-capabilities-and-benefits/"
 type: article
-quality: 99
-heat: 99
+quality: 109
+heat: 109
 published: true
 
 provider:

@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/workday-microsoft-forge-partnership-revol
 ampWebUrl: "https://www.zdnet.com/google-amp/article/workday-microsoft-forge-partnership-revolving-around-adaptive-planning-teams-azure-integration/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/workday-microsoft-forge-partnership-revolving-around-adaptive-planning-teams-azure-integration/"
 type: article
-quality: 84
-heat: 104
+quality: 104
+heat: 124
 published: true
 
 provider:
@@ -39,7 +39,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 56
+    quality: 76
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Microsoft-Workday.jpg"
         width: 801

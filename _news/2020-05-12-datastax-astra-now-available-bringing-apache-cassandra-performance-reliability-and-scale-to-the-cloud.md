@@ -5,8 +5,8 @@ excerpt: "DataStax today announced the general availability of DataStax Astra, a
 publishedDateTime: 2020-05-12T12:37:00Z
 webUrl: "https://www.businesswire.com/news/home/20200512005295/en/DataStax-Astra-Bringing-Apache-Cassandra-Performance-Reliability"
 type: article
-quality: 5
-heat: 5
+quality: 15
+heat: 15
 published: false
 
 provider:

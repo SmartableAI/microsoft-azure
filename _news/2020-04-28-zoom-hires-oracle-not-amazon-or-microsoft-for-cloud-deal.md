@@ -7,8 +7,8 @@ webUrl: "https://www.fool.com/investing/2020/04/28/zoom-hires-oracle-not-amazon-
 ampWebUrl: "https://www.fool.com/amp/investing/2020/04/28/zoom-hires-oracle-not-amazon-or-microsoft-for-clou.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/28/zoom-hires-oracle-not-amazon-or-microsoft-for-clou.aspx"
 type: article
-quality: 82
-heat: 102
+quality: 102
+heat: 122
 published: true
 
 provider:
@@ -39,7 +39,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106411476-1582742955089gettyimages-1173631560.jpeg?v=1585759755"
         width: 4000

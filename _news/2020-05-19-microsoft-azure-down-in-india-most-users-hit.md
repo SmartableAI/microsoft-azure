@@ -5,7 +5,7 @@ excerpt: "Several users of Microsoft Azure in India reported problems with acces
 publishedDateTime: 2020-05-19T04:55:00Z
 webUrl: "https://www.dailypioneer.com/2020/technology/microsoft-azure-down-in-india--most-users-hit.html"
 type: article
-quality: 37
+quality: 47
 heat: -1
 published: false
 
@@ -31,7 +31,7 @@ related:
     provider:
       name: Sify.com
       domain: sify.com
-    quality: 37
+    quality: 47
     images:
       - url: "http://iansphoto.in/web/photoimages_new/400/2018/03/07/2492f3e275f2262e1d7ceadf5c16e03d.jpg"
         width: 400

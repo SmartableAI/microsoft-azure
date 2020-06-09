@@ -5,8 +5,8 @@ excerpt: "Global Cloud Migration Services Market Industry research report offers
 publishedDateTime: 2020-05-18T10:38:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-cloud-migration-services-market-research-growth-opportunities-by-types-regions-applications-trend-forecast-to-2023-2020-05-18"
 type: article
-quality: 35
-heat: 35
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -35,7 +35,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 31
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -5,8 +5,8 @@ excerpt: "Microsoft Azure customers worldwide now gain access to Cyber Infrastru
 publishedDateTime: 2020-04-30T07:38:00Z
 webUrl: "https://www.marketwatch.com/press-release/cyber-infrastructures-7-week-azure-data-integration-migration-soln-now-available-in-the-microsoft-azure-marketplace-2020-04-30"
 type: article
-quality: 53
-heat: 53
+quality: 63
+heat: 63
 published: false
 
 provider:

@@ -5,7 +5,7 @@ excerpt: "Microsoft to launch Back2Business Solution Boxes for Indian SMBs New D
 publishedDateTime: 2020-05-13T13:59:00Z
 webUrl: "https://menafn.com/1100156764/Microsoft-to-launch-Back2Business-Solution-Boxes-for-Indian-SMBs"
 type: article
-quality: 22
+quality: 32
 heat: -1
 published: false
 
@@ -33,7 +33,7 @@ related:
     provider:
       name: Business Line
       domain: thehindubusinessline.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://www.thehindubusinessline.com/static/theme/default/base/img/og-image.jpg"
         width: 300
@@ -46,7 +46,7 @@ related:
     provider:
       name: Sify.com
       domain: sify.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://www.sify.com/uploads/microsoft_logo_ap_ufnfR2daebada.jpg"
         width: 950

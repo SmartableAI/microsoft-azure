@@ -5,8 +5,8 @@ excerpt: "ClearSale, an international fraud protection organization, announced i
 publishedDateTime: 2020-05-11T00:03:00Z
 webUrl: "https://www.helpnetsecurity.com/2020/05/11/clearsale-microsoft-azure/"
 type: article
-quality: 32
-heat: 32
+quality: 42
+heat: 42
 published: false
 
 provider:

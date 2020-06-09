@@ -5,8 +5,8 @@ excerpt: "At Microsoft Ignite 2019, we announced the preview of more than 15 new
 publishedDateTime: 2020-04-20T08:00:23Z
 webUrl: "https://azure.microsoft.com/blog/azure-security-center-enhancements/"
 type: article
-quality: 114
-heat: 114
+quality: 124
+heat: 124
 published: true
 
 provider:

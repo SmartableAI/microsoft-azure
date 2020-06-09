@@ -27,7 +27,7 @@ related:
     provider:
       name: Hindustan Times
       domain: hindustantimes.com
-    quality: 22
+    quality: 32
 
 secured: "PSsbOIgJEBDjdPXkWQr304iOFYvfuXRXdeMCOd4TqJFYWaui22JhcvkOK7hj0UL9TSJxj2bPI5sevRIAdCmbfUcLRy6ZN0tVSiM/q6SO0Dd4hGQj8JIjINTv0P8slUqdl/arj0qNfTHZ69Sk9hGrvMPxRI8BHA0UUl+YQlgbPXsLRW9xBWnUHGFaImgTh9iOk2zn2ew5nbI9wpkoO+25b2qWIaMIhRcSW4CNml8P07UcdmvV6TutpohJ4ClGOAmYHTLbnvImX5eXSlXXadPiD1OPIgYa5VqsSKoGcN08dzUECWZYj22f7jpN+DvAe7Fo;A3reKt42RNCmUXEGlPzKLw=="
 ---

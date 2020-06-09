@@ -7,9 +7,9 @@ webUrl: "https://www.forbes.com/sites/greatspeculations/2020/05/26/why-investor-
 ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2020/05/26/why-investor-preference-for-microsoft-over-amazon-looks-misguided/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2020/05/26/why-investor-preference-for-microsoft-over-amazon-looks-misguided/amp/"
 type: article
-quality: 62
-heat: 62
-published: false
+quality: 72
+heat: 72
+published: true
 
 provider:
   name: Forbes

@@ -7,8 +7,8 @@ webUrl: "https://variety.com/2020/digital/news/hanno-basse-microsoft-azure-cto-1
 ampWebUrl: "https://variety.com/2020/digital/news/hanno-basse-microsoft-azure-cto-1234588564/amp/"
 cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/digital/news/hanno-basse-microsoft-azure-cto-1234588564/amp/"
 type: article
-quality: 55
-heat: 75
+quality: 75
+heat: 95
 published: true
 
 provider:
@@ -35,7 +35,7 @@ related:
     provider:
       name: The Hollywood Reporter
       domain: hollywoodreporter.com
-    quality: 46
+    quality: 66
     images:
       - url: "https://cdn1.thr.com/sites/default/files/imagecache/768x433/2019/06/hanno_basse-getty-h_2019_.jpg"
         width: 768

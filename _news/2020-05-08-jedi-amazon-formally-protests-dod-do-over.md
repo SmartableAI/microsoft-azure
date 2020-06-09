@@ -7,8 +7,8 @@ webUrl: "https://breakingdefense.com/2020/05/jedi-amazon-formally-protests-dod-d
 ampWebUrl: "https://breakingdefense.com/2020/05/jedi-amazon-formally-protests-dod-do-over/amp/"
 cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2020/05/jedi-amazon-formally-protests-dod-do-over/amp/"
 type: article
-quality: 42
-heat: 42
+quality: 62
+heat: 62
 published: false
 
 provider:

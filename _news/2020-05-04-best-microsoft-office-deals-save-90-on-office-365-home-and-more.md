@@ -7,8 +7,8 @@ webUrl: "https://www.androidauthority.com/best-microsoft-office-deals-1114096/"
 ampWebUrl: "https://www.androidauthority.com/best-microsoft-office-deals-1114096/amp/"
 cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/best-microsoft-office-deals-1114096/amp/"
 type: article
-quality: 82
-heat: 82
+quality: 102
+heat: 102
 published: true
 
 provider:

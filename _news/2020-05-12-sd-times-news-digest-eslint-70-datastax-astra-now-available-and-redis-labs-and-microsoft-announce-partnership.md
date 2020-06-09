@@ -5,7 +5,7 @@ excerpt: "DataStax Astra now available DataStax Astra brings Apache Cassandra pe
 publishedDateTime: 2020-05-12T15:29:00Z
 webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-eslint-7-0-datastax-astra-now-available-and-redis-labs-and-microsoft-announce-partnership/"
 type: article
-quality: 41
+quality: 51
 heat: -1
 published: false
 
@@ -37,7 +37,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 48
+    quality: 68
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Redis-Enterprise-for-Azure-Cache.jpg"
         width: 1663
@@ -50,7 +50,7 @@ related:
     provider:
       name: WFMZ-TV
       domain: wfmz.com
-    quality: 5
+    quality: 15
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
         width: 1280

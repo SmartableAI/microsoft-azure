@@ -5,8 +5,8 @@ excerpt: "Microsoft has announced a new supercomputer built by the company in pa
 publishedDateTime: 2020-05-19T15:09:00Z
 webUrl: "https://thenextweb.com/artificial-intelligence/2020/05/19/microsoft-just-built-one-of-the-top-five-most-powerful-supercomputers-on-the-planet/"
 type: article
-quality: 55
-heat: 75
+quality: 65
+heat: 85
 published: true
 
 provider:
@@ -35,7 +35,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 55
+    quality: 65
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/05/Supercomputer-e1589742859682.jpg?w=1200&#038;strip=all"
         width: 1200

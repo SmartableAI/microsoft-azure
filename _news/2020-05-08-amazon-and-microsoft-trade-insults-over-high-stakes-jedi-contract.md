@@ -7,9 +7,9 @@ webUrl: "https://www.thestreet.com/investing/amazon-microsoft-trade-insults-jedi
 ampWebUrl: "https://www.thestreet.com/.amp/investing/amazon-microsoft-trade-insults-jedi-contract"
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/amazon-microsoft-trade-insults-jedi-contract"
 type: article
-quality: 42
-heat: 42
-published: false
+quality: 62
+heat: 102
+published: true
 
 provider:
   name: TheStreet.com
@@ -35,7 +35,7 @@ related:
     provider:
       name: Windows Central
       domain: windowscentral.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2017/09/microsoft-logo-2017-ignite2.jpg?itok=c3ocGDNm"
         width: 800
@@ -50,7 +50,7 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://media.bizj.us/view/img/10988802/rtrlnine110024*600xx4350-2900-100-0.jpg"
         width: 600

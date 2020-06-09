@@ -7,8 +7,8 @@ webUrl: "https://www.techspot.com/news/85197-opinion-new-workplace-realities-hig
 ampWebUrl: "https://www.techspot.com/amp/news/85197-opinion-new-workplace-realities-highlight-opportunity-cloud-based.html"
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85197-opinion-new-workplace-realities-highlight-opportunity-cloud-based.html"
 type: article
-quality: 74
-heat: 94
+quality: 94
+heat: 114
 published: true
 
 provider:

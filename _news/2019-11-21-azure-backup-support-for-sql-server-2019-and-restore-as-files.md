@@ -5,8 +5,8 @@ excerpt: "As SQL Server 2019 continues to push the boundaries of availability, p
 publishedDateTime: 2019-11-21T13:00:16Z
 webUrl: "https://azure.microsoft.com/blog/azure-backup-support-for-sql-server-2019-and-restore-as-files/"
 type: article
-quality: 99
-heat: 99
+quality: 109
+heat: 109
 published: true
 
 provider:

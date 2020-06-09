@@ -7,7 +7,7 @@ webUrl: "https://www.fool.com/investing/2020/05/08/amazon-microsoft-trade-fresh-
 ampWebUrl: "https://www.fool.com/amp/investing/2020/05/08/amazon-microsoft-trade-fresh-barbs-in-ongoing-jedi.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/08/amazon-microsoft-trade-fresh-barbs-in-ongoing-jedi.aspx"
 type: article
-quality: 82
+quality: 102
 heat: -1
 published: false
 
@@ -43,7 +43,7 @@ related:
     provider:
       name: Engadget
       domain: engadget.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-10%2F073b94a0-f1c4-11e9-8f5b-2c0832cca481&client=amp-blogside-v2&signature=0440a7701a50126da12ef6ffbcc2f78eb97c80fd"
         width: 600
@@ -58,7 +58,7 @@ related:
     provider:
       name: TechSpot
       domain: techspot.com
-    quality: 76
+    quality: 96
     images:
       - url: "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-08-image-13.jpg"
         width: 1600
@@ -73,7 +73,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 73
+    quality: 93
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1073698070.jpg?w=1024"
         width: 1024
@@ -88,7 +88,7 @@ related:
     provider:
       name: winbuzzer.com
       domain: winbuzzer.com
-    quality: 57
+    quality: 77
     images:
       - url: "https://winbuzzer.com/wp-content/uploads/2016/04/Microsoft-Clouds-Pixels-Reuse.jpg"
         width: 1280
@@ -101,7 +101,7 @@ related:
     provider:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://media.datacenterdynamics.com/media/images/JEDI_Thats_No_Moon.2e16d0ba.fill-1200x630.png"
         width: 1200

@@ -7,8 +7,8 @@ webUrl: "https://www.cnbc.com/2017/04/27/microsoft-azure-growing-faster-than-aws
 ampWebUrl: "https://www.cnbc.com/amp/2017/04/27/microsoft-azure-growing-faster-than-aws-google-cloud-behind.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/04/27/microsoft-azure-growing-faster-than-aws-google-cloud-behind.html"
 type: article
-quality: 70
-heat: 70
+quality: 90
+heat: 90
 published: true
 
 provider:

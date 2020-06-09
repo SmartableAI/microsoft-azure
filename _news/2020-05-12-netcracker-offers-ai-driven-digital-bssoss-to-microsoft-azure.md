@@ -5,8 +5,8 @@ excerpt: "Netcracker Technology announced today it is working with Microsoft to 
 publishedDateTime: 2020-05-12T13:00:00Z
 webUrl: "https://www.marketwatch.com/press-release/netcracker-offers-ai-driven-digital-bssoss-to-microsoft-azure-2020-05-12"
 type: article
-quality: 77
-heat: 117
+quality: 87
+heat: 127
 published: true
 
 provider:
@@ -37,7 +37,7 @@ related:
     provider:
       name: TelecomTV
       domain: telecomtv.com
-    quality: 57
+    quality: 77
     images:
       - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
         width: 1200

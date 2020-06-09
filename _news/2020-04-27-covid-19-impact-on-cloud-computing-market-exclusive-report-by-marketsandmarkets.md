@@ -5,8 +5,8 @@ excerpt: "Impact on Cloud Computing Market by Service Type (Infrastructure as a 
 publishedDateTime: 2020-04-27T15:30:00Z
 webUrl: "https://www.prnewswire.com/news-releases/covid-19-impact-on-cloud-computing-market--exclusive-report-by-marketsandmarkets-301047436.html"
 type: article
-quality: 16
-heat: 16
+quality: 26
+heat: 26
 published: false
 
 provider:

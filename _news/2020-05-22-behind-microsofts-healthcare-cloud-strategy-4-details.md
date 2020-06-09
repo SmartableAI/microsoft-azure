@@ -5,8 +5,8 @@ excerpt: "Microsoft rolled out its cloud for healthcare offering this week and s
 publishedDateTime: 2020-05-22T15:22:00Z
 webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/behind-microsoft-s-healthcare-cloud-strategy-4-details.html"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

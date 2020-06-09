@@ -7,7 +7,7 @@ webUrl: "https://www.cnbc.com/2020/04/28/zoom-taps-oracle-for-cloud-deal-passing
 ampWebUrl: "https://www.cnbc.com/amp/2020/04/28/zoom-taps-oracle-for-cloud-deal-passing-over-amazon-microsoft.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/28/zoom-taps-oracle-for-cloud-deal-passing-over-amazon-microsoft.html"
 type: article
-quality: 82
+quality: 102
 heat: -1
 published: false
 
@@ -39,7 +39,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F570037%2Fzoom-oracle-cloud-mf.jpg&w=1200&op=resize"
         width: 1200

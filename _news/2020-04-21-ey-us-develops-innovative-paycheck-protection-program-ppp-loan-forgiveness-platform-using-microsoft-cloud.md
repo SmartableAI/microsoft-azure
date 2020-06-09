@@ -5,8 +5,8 @@ excerpt: "Industry leader Ernst & Young LLP (EY US) has developed a Paycheck Pro
 publishedDateTime: 2020-04-21T13:30:00Z
 webUrl: "https://www.prnewswire.com/news-releases/ey-us-develops-innovative-paycheck-protection-program-ppp-loan-forgiveness-platform-using-microsoft-cloud-301044394.html"
 type: article
-quality: 4
-heat: 4
+quality: 14
+heat: 14
 published: false
 
 provider:

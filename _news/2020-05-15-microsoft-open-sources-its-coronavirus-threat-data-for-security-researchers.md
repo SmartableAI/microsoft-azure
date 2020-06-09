@@ -5,8 +5,8 @@ excerpt: "For the last couple of months, cybercriminals have taken advantage of 
 publishedDateTime: 2020-05-15T06:44:00Z
 webUrl: "https://thenextweb.com/microsoft/2020/05/15/microsoft-open-sources-its-coronavirus-related-threat-data/"
 type: article
-quality: 60
-heat: 80
+quality: 70
+heat: 90
 published: true
 
 provider:
@@ -35,7 +35,7 @@ related:
     provider:
       name: Dark Reading
       domain: darkreading.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
         width: 600

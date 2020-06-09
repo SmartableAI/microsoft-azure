@@ -27,7 +27,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 30
+    quality: 40
   - title: "Correction: Netreo Acquires Microsoft Azure Monitoring Company CloudMonix To Expand Capabilities"
     excerpt: "CloudMonix, a Chicago-based cloud infrastructure monitoring company specializing in advanced insight into system performance, auto-scaling of resources, automation of issue resolution and self-healing to ensure uninterrupted service."
     publishedDateTime: 2020-06-02T15:42:00Z
@@ -36,7 +36,7 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 24
+    quality: 34
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

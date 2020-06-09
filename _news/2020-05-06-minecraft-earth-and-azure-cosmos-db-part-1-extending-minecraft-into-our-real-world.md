@@ -5,8 +5,8 @@ excerpt: "This post is part 1 of a two-part series about how organizations use A
 publishedDateTime: 2020-05-06T10:00:12Z
 webUrl: "https://azure.microsoft.com/blog/minecraft-earth-and-azure-cosmos-db-part-1-extending-minecraft-into-our-real-world/"
 type: article
-quality: 108
-heat: 108
+quality: 118
+heat: 118
 published: true
 
 provider:

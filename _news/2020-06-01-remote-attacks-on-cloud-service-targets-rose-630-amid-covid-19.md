@@ -7,8 +7,8 @@ webUrl: "https://healthitsecurity.com/news/remote-attacks-on-cloud-service-targe
 ampWebUrl: "https://healthitsecurity.com/news/amp/remote-attacks-on-cloud-service-targets-rose-630-amid-covid-19"
 cdnAmpWebUrl: "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/news/amp/remote-attacks-on-cloud-service-targets-rose-630-amid-covid-19"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

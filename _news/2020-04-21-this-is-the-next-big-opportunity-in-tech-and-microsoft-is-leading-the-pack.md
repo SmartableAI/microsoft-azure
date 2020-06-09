@@ -7,8 +7,8 @@ webUrl: "https://www.fool.com/investing/2020/04/21/next-big-opportunity-tech-mic
 ampWebUrl: "https://www.fool.com/amp/investing/2020/04/21/next-big-opportunity-tech-microsoft-lead.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/21/next-big-opportunity-tech-microsoft-lead.aspx"
 type: article
-quality: 80
-heat: 80
+quality: 100
+heat: 100
 published: true
 
 provider:

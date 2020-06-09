@@ -5,8 +5,8 @@ excerpt: "At the end of March, a Microsoft Azure disruption hit 6,136 companies 
 publishedDateTime: 2020-04-09T16:05:00Z
 webUrl: "https://www.ciodive.com/news/microsoft-azure-outage-delay-manager-asleep/575811/"
 type: article
-quality: 32
-heat: 32
+quality: 42
+heat: 42
 published: false
 
 provider:

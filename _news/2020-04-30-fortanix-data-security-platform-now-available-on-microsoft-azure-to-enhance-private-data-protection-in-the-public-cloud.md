@@ -5,8 +5,8 @@ excerpt: "Fortanix® Inc., a Runtime Encryption® company, today announced the a
 publishedDateTime: 2020-04-30T12:17:00Z
 webUrl: "https://www.businesswire.com/news/home/20200430005281/en/Fortanix-Data-Security-Platform-Microsoft-Azure-Enhance"
 type: article
-quality: 13
-heat: 13
+quality: 23
+heat: 23
 published: false
 
 provider:

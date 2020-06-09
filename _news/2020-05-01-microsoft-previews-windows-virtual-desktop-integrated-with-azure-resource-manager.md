@@ -5,7 +5,7 @@ excerpt: "Microsoft on Thursday announced that its Windows Virtual Desktop (WVD)
 publishedDateTime: 2020-05-01T00:00:00Z
 webUrl: "https://redmondmag.com/articles/2020/04/30/windows-virtual-desktop-integrated-with-azure.aspx"
 type: article
-quality: 32
+quality: 42
 heat: -1
 published: false
 
@@ -31,7 +31,7 @@ related:
     provider:
       name: MCPmag
       domain: mcpmag.com
-    quality: 37
+    quality: 47
     images:
       - url: "https://mcpmag.com/-/media/ECG/redmondmag/Images/introimages2014/140319REDMackieVDI.jpg"
         width: 647

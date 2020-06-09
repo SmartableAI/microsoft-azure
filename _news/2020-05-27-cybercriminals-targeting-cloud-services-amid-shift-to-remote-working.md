@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/cybercriminals-targeting-cloud-ser
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/cybercriminals-targeting-cloud-services-amid-shift-to-remote-working/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cybercriminals-targeting-cloud-services-amid-shift-to-remote-working/"
 type: article
-quality: 82
-heat: 82
+quality: 102
+heat: 102
 published: true
 
 provider:

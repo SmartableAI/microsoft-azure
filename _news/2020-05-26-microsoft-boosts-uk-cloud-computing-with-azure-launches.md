@@ -7,9 +7,9 @@ webUrl: "https://www.itproportal.com/news/microsoft-boosts-uk-cloud-computing-wi
 ampWebUrl: "https://www.itproportal.com/amp/news/microsoft-boosts-uk-cloud-computing-with-azure-launches/"
 cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/microsoft-boosts-uk-cloud-computing-with-azure-launches/"
 type: article
-quality: 57
-heat: 57
-published: false
+quality: 77
+heat: 77
+published: true
 
 provider:
   name: IT Pro Portal

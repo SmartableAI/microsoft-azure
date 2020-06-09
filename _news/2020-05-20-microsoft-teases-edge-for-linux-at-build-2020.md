@@ -7,7 +7,7 @@ webUrl: "https://mspoweruser.com/microsoft-teases-edge-for-linux-at-build-2020/"
 ampWebUrl: "https://mspoweruser.com/microsoft-teases-edge-for-linux-at-build-2020/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-teases-edge-for-linux-at-build-2020/amp/"
 type: article
-quality: 42
+quality: 62
 heat: -1
 published: false
 
@@ -35,7 +35,7 @@ related:
     provider:
       name: Windows Central
       domain: windowscentral.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/01/microsoft-edge-logo-2.jpg?itok=V09gwLjE"
         width: 800

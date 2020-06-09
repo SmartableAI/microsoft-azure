@@ -5,8 +5,8 @@ excerpt: ""
 publishedDateTime: 2020-04-16T23:00:31Z
 webUrl: "https://azure.microsoft.com/en-us/updates/announcing-general-availability-ga-of-improved-query-replica-synchronization-in-azure-analysis-services/"
 type: article
-quality: 94
-heat: 94
+quality: 104
+heat: 104
 published: true
 
 provider:

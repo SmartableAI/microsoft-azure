@@ -5,8 +5,8 @@ excerpt: "A federal judge is giving the Defense Department until Aug. 17 to acce
 publishedDateTime: 2020-04-22T23:52:00Z
 webUrl: "https://defensesystems.com/articles/2020/04/22/jedi-saga-continues.aspx"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

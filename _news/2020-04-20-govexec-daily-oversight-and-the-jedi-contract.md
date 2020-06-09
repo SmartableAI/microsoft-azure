@@ -5,8 +5,8 @@ excerpt: "Recently, the Pentagon IG released a report on the JEDI contract and f
 publishedDateTime: 2020-04-20T10:10:00Z
 webUrl: "https://www.govexec.com/technology/2020/04/govexec-daily-oversight-and-jedi-contract/164732/"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

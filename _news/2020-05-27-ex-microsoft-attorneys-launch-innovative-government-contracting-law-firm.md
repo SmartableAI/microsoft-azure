@@ -5,8 +5,8 @@ excerpt: "Two former Microsoft attorneys announced today the official launch of 
 publishedDateTime: 2020-05-27T16:38:00Z
 webUrl: "https://www.law.com/legalnewswire/news.php?id=2571947"
 type: article
-quality: 21
-heat: 21
+quality: 31
+heat: 31
 published: false
 
 provider:

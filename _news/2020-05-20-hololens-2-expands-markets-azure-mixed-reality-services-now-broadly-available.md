@@ -5,8 +5,8 @@ excerpt: "\r\n“When the intelligent cloud and intelligent edge are imbued with
 publishedDateTime: 2020-05-20T09:00:28Z
 webUrl: "https://azure.microsoft.com/blog/hololens-2-expands-markets-azure-mixed-reality-services-now-broadly-available/"
 type: article
-quality: 93
-heat: 93
+quality: 103
+heat: 103
 published: true
 
 provider:

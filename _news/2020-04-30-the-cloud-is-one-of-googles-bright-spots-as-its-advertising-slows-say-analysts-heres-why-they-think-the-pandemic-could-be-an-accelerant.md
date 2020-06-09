@@ -5,8 +5,8 @@ excerpt: "Google CEO Sundar Pichai says that in some cases, Google Cloud custome
 publishedDateTime: 2020-04-30T16:13:00Z
 webUrl: "https://www.businessinsider.com/google-earnings-google-cloud-growth-strong-despite-coronavirus-crisis-2020-4"
 type: article
-quality: 26
-heat: 26
+quality: 36
+heat: 36
 published: false
 
 provider:

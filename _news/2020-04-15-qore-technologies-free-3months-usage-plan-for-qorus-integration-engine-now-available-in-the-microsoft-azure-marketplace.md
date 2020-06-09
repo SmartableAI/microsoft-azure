@@ -5,8 +5,8 @@ excerpt: "Microsoft Azure customers worldwide now gain access to free use of Qor
 publishedDateTime: 2020-04-15T11:11:00Z
 webUrl: "https://www.marketwatch.com/press-release/qore-technologies-free-3months-usage-plan-for-qorus-integration-engine-now-available-in-the-microsoft-azure-marketplace-2020-04-15"
 type: article
-quality: 52
-heat: 52
+quality: 62
+heat: 62
 published: false
 
 provider:

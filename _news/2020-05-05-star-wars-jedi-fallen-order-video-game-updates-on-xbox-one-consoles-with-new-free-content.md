@@ -5,7 +5,7 @@ excerpt: "Fallen Order video game was announced yesterday on May the 4th (aka St
 publishedDateTime: 2020-05-05T08:11:00Z
 webUrl: "https://www.onmsft.com/news/star-wars-jedi-fallen-order-video-game-updates-on-xbox-one-consoles-with-new-free-content"
 type: article
-quality: 12
+quality: 22
 heat: -1
 published: false
 
@@ -33,7 +33,7 @@ related:
     provider:
       name: Days
       domain: thumbsticks.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://i1.wp.com/www.thumbsticks.com/wp-content/uploads/2020/05/star-was-jedi-fallen-order-new-game-plus.jpg?fit=1280%2C720&#038;ssl=1"
         width: 1280

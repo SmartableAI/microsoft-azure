@@ -7,7 +7,7 @@ webUrl: "https://www.cnbc.com/2020/05/22/microsoft-build-2020-recap-windows-azur
 ampWebUrl: "https://www.cnbc.com/amp/2020/05/22/microsoft-build-2020-recap-windows-azure-and-teams-tools.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/22/microsoft-build-2020-recap-windows-azure-and-teams-tools.html"
 type: article
-quality: 67
+quality: 87
 heat: -1
 published: false
 
@@ -39,7 +39,7 @@ related:
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://cdn.vox-cdn.com/thumbor/DLpMOz4jmOEGQJb21UUFtRfAEro=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66819966/twarren_180507_2536_0001.5.jpg"
         width: 1400
@@ -54,7 +54,7 @@ related:
     provider:
       name: Windows Central
       domain: windowscentral.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/03/microsoft-logo-ignite-2017.jpg?itok=LlgVw_jV"
         width: 800

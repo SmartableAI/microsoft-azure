@@ -5,8 +5,8 @@ excerpt: "Today, we are announcing the limited preview of Azure Shared Disks, th
 publishedDateTime: 2020-02-13T09:00:07Z
 webUrl: "https://azure.microsoft.com/blog/announcing-the-preview-of-azure-shared-disks-for-clustered-applications/"
 type: article
-quality: 99
-heat: 99
+quality: 109
+heat: 109
 published: true
 
 provider:

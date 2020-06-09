@@ -7,8 +7,8 @@ webUrl: "https://investorplace.com/2020/04/should-you-buy-microsoft-stock-ahead-
 ampWebUrl: "https://investorplace.com/2020/04/should-you-buy-microsoft-stock-ahead-of-earnings-this-week/amp/"
 cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/04/should-you-buy-microsoft-stock-ahead-of-earnings-this-week/amp/"
 type: article
-quality: 42
-heat: 42
+quality: 62
+heat: 62
 published: false
 
 provider:

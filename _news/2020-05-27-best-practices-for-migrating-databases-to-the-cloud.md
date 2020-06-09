@@ -5,8 +5,8 @@ excerpt: "Unused data, the amount of which is largely negligible in on-premises 
 publishedDateTime: 2020-05-27T10:05:00Z
 webUrl: "https://www.datacenterdynamics.com/en/opinions/best-practices-migrating-databases-cloud/"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

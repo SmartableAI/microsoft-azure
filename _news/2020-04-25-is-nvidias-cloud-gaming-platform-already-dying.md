@@ -7,8 +7,8 @@ webUrl: "https://www.fool.com/investing/2020/04/25/is-nvidias-cloud-gaming-platf
 ampWebUrl: "https://www.fool.com/amp/investing/2020/04/25/is-nvidias-cloud-gaming-platform-already-dying.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/25/is-nvidias-cloud-gaming-platform-already-dying.aspx"
 type: article
-quality: 82
-heat: 82
+quality: 102
+heat: 102
 published: true
 
 provider:

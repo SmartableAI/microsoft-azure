@@ -5,7 +5,7 @@ excerpt: "Take advantage of Azure certifications to help advance your career, ea
 publishedDateTime: 2020-05-23T05:23:00Z
 webUrl: "https://docs.microsoft.com/en-us/learn/certifications/posts/understanding-microsoft-azure-certifications"
 type: article
-quality: 37
+quality: 47
 heat: -1
 published: false
 
@@ -35,7 +35,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 37
+    quality: 47
     images:
       - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
         width: 400

@@ -7,7 +7,7 @@ webUrl: "https://www.windowscentral.com/microsoft-and-amazon-trade-more-jabs-fig
 ampWebUrl: "https://www.windowscentral.com/microsoft-and-amazon-trade-more-jabs-fight-over-dod-jedi-contract?amp"
 cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-and-amazon-trade-more-jabs-fight-over-dod-jedi-contract?amp"
 type: article
-quality: 42
+quality: 62
 heat: -1
 published: false
 
@@ -35,7 +35,7 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://content.jwplatform.com/thumbs/L51qx6tR-720.jpg"
         width: 720
@@ -50,7 +50,7 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://media.bizj.us/view/img/10988802/rtrlnine110024*600xx4350-2900-100-0.jpg"
         width: 600

@@ -5,8 +5,8 @@ excerpt: "A new report wants African regulators to follow their peers in the Eur
 publishedDateTime: 2020-04-28T09:58:00Z
 webUrl: "https://www.itweb.co.za/content/RgeVDMPYNjoqKJN3"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

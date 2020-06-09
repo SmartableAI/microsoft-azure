@@ -5,8 +5,8 @@ excerpt: "Cloud data integration solutions allow enterprises to unify data from 
 publishedDateTime: 2020-05-06T08:06:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-data-integration-market-analysis-by-emerging-growth-factors-and-revenue-forecast-to-2025-snaplogic-microsoft-talend-software-sap-oracle-2020-05-06"
 type: article
-quality: 24
-heat: 24
+quality: 34
+heat: 34
 published: false
 
 provider:

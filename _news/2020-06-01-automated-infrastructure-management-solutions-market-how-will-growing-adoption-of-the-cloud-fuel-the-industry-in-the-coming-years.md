@@ -5,8 +5,8 @@ excerpt: "According to the latest report by Global Market Insights, Inc., the au
 publishedDateTime: 2020-06-01T10:43:00Z
 webUrl: "https://www.marketwatch.com/press-release/automated-infrastructure-management-solutions-market-how-will-growing-adoption-of-the-cloud-fuel-the-industry-in-the-coming-years-2020-06-01"
 type: article
-quality: 31
-heat: 31
+quality: 41
+heat: 41
 published: false
 
 provider:

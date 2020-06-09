@@ -5,8 +5,8 @@ excerpt: "A division of Chinese internet services giant Tencent Holdings Ltd. wi
 publishedDateTime: 2020-05-13T04:03:00Z
 webUrl: "https://www.japantimes.co.jp/news/2020/05/13/business/corporate-business/tencent-cloud-computing/"
 type: article
-quality: 16
-heat: 16
+quality: 26
+heat: 26
 published: false
 
 provider:

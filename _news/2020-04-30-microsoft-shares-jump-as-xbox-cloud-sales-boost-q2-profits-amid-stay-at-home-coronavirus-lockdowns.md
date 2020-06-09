@@ -7,8 +7,8 @@ webUrl: "https://www.thestreet.com/investing/microsoft-shares-jump-as-xbox-cloud
 ampWebUrl: "https://www.thestreet.com/.amp/investing/microsoft-shares-jump-as-xbox-cloud-sales-boost-q2-profits"
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/microsoft-shares-jump-as-xbox-cloud-sales-boost-q2-profits"
 type: article
-quality: 28
-heat: 28
+quality: 48
+heat: 48
 published: false
 
 provider:

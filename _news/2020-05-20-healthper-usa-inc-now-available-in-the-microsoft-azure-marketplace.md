@@ -5,7 +5,7 @@ excerpt: "Microsoft Azure customers worldwide now gain access to Healthper to ta
 publishedDateTime: 2020-05-20T16:53:00Z
 webUrl: "https://www.pr.com/press-release/813120"
 type: article
-quality: 37
+quality: 47
 heat: -1
 published: false
 
@@ -31,7 +31,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 37
+    quality: 47
     images:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600

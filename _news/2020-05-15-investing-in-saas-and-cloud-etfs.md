@@ -5,8 +5,8 @@ excerpt: "SaaS/Cloud computing is expected to grow rapidly over the next 5 years
 publishedDateTime: 2020-05-15T13:42:00Z
 webUrl: "https://seekingalpha.com/article/4347922-investing-in-saas-and-cloud-etfs"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

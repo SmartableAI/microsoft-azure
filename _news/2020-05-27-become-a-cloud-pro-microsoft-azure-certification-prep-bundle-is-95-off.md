@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/become-a-cloud-pro-microsoft-azure-certif
 ampWebUrl: "https://www.zdnet.com/google-amp/article/become-a-cloud-pro-microsoft-azure-certification-prep-bundle-is-95-off/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/become-a-cloud-pro-microsoft-azure-certification-prep-bundle-is-95-off/"
 type: article
-quality: 96
-heat: 96
+quality: 116
+heat: 116
 published: true
 
 provider:

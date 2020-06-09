@@ -7,8 +7,8 @@ webUrl: "https://www.reuters.com/article/us-nokia-microsoft-datacentres-idUSKBN2
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN22O1R6"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22O1R6"
 type: article
-quality: 82
-heat: 82
+quality: 102
+heat: 102
 published: true
 
 provider:

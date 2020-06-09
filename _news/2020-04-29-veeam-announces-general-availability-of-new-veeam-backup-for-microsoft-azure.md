@@ -7,8 +7,8 @@ webUrl: "https://www.zawya.com/mena/en/press-releases/story/Veeam_announces_gene
 ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200429090836/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200429090836/"
 type: article
-quality: 54
-heat: 74
+quality: 74
+heat: 114
 published: true
 
 provider:
@@ -33,11 +33,24 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 34
+    quality: 44
     images:
       - url: "https://mms.businesswire.com/media/20200428005491/en/774069/23/logo_NEW.jpg"
         width: 1200
         height: 627
+  - title: "Microsoft Announces the General Availability of Windows Server Containers, and More for AKS"
+    excerpt: "Microsoft launched a preview of Windows Server Containers in Azure Kubernetes Service (AKS). Now the company announced the general availability of Windows Server containers in AKS, including the support of private clusters and managed identities."
+    publishedDateTime: 2020-05-05T11:23:00Z
+    webUrl: "https://www.infoq.com/news/2020/05/windows-server-containers-aks-ga/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 22
+    images:
+      - url: "https://cdn.infoq.com/statics_s2_20200602-0333/styles/static/images/logo/logo-big.jpg"
+        width: 1200
+        height: 630
 
 secured: "KEIrkHbkbtf9DP1kfvju/uFLb2lQZabdjSRg2hn/Y3pSggyMLnwLwhPWNXQe/tgT4771giQ+P7pCLUsFdGIlnmITpOjPL7f0/7WdpGhQBuy71MReaYMHLcVlULpr+0rsmcJjPdYIOJOhQzw3QZ548NoD9tBXff1sl7DZrsP6Z7QTtBoHYhNuWUQyz7jBuWNIvFNGgx3YQkHxMOp48EJ0USyxdqqX23TaszP1ZgRt8scad+DqXSJOXqpVEXJ1bVCNy3UwW3ttzpHh74q3/Zy3sqhTvJF4hv8GofxD9iuuGjhT9VrxaKTa9tmqSVoxrASN;O0cZltElWANrNDLX4F3BrQ=="
 ---

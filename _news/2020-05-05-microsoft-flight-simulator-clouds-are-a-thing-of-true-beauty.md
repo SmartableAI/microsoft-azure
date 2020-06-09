@@ -7,8 +7,8 @@ webUrl: "https://www.windowscentral.com/microsoft-flight-simulator-clouds-are-th
 ampWebUrl: "https://www.windowscentral.com/microsoft-flight-simulator-clouds-are-thing-true-beauty?amp"
 cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-flight-simulator-clouds-are-thing-true-beauty?amp"
 type: article
-quality: 42
-heat: 42
+quality: 62
+heat: 62
 published: false
 
 provider:

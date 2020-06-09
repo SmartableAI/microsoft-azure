@@ -5,8 +5,8 @@ excerpt: "SHANGHAI, May 20, 2020 /PRNewswire/ -- eBaoTech Corporation today anno
 publishedDateTime: 2020-05-20T15:30:00Z
 webUrl: "https://www.prnewswire.com/in/news-releases/ebaocloud-insuremo-is-now-available-in-the-microsoft-azure-marketplace-800602677.html"
 type: article
-quality: 37
-heat: 37
+quality: 47
+heat: 47
 published: false
 
 provider:
@@ -31,7 +31,7 @@ related:
     provider:
       name: PR
       domain: pr.com
-    quality: 37
+    quality: 47
     images:
       - url: "https://img.pr.com/release/2005/470793/pressrelease_original_470793_1589990219.png"
         width: 1280

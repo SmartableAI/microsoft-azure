@@ -5,7 +5,7 @@ excerpt: "In an increasingly sharp war of words and legal maneuvers, Amazon Web 
 publishedDateTime: 2020-05-08T12:17:00Z
 webUrl: "https://siliconangle.com/2020/05/08/amazon-files-new-protest-fatally-flawed-jedi-cloud-computing-contract-award/"
 type: article
-quality: 16
+quality: 26
 heat: -1
 published: false
 
@@ -33,7 +33,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 67
+    quality: 87
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106474164-1585941999885gettyimages-939960022.jpeg?v=1585942142"
         width: 5253

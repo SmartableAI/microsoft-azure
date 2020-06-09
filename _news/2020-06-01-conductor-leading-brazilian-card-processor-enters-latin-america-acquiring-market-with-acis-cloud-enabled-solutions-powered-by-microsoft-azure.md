@@ -5,8 +5,8 @@ excerpt: "Conductor, Leading Brazilian Card Processor, Enters Latin America Acqu
 publishedDateTime: 2020-06-01T12:50:00Z
 webUrl: "https://www.businesswire.com/news/home/20200601005064/en/Conductor-Leading-Brazilian-Card-Processor-Enters-Latin"
 type: article
-quality: 0
-heat: 0
+quality: 10
+heat: 10
 published: false
 
 provider:

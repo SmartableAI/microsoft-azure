@@ -5,8 +5,8 @@ excerpt: "The \"Global Virtual Workspaces Market By Component (Solutions, Servic
 publishedDateTime: 2020-06-02T17:30:00Z
 webUrl: "https://www.prnewswire.com/news-releases/global-virtual-workspaces-market-continuous-improvements-in-cloud-technology-expected-to-bolster-growth-until-2025-301069493.html"
 type: article
-quality: 0
-heat: 0
+quality: 10
+heat: 10
 published: false
 
 provider:

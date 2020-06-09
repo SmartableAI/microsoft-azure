@@ -5,7 +5,7 @@ excerpt: "A Pentagon investigation recently cleared Microsoft's victory, despite
 publishedDateTime: 2020-05-07T20:46:00Z
 webUrl: "https://www.businessinsider.com/amazon-microsoft-jedi-pentagon-cloud-computing-protest-2020-5"
 type: article
-quality: 35
+quality: 45
 heat: -1
 published: false
 
@@ -37,7 +37,7 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://media.bizj.us/view/img/10654474/3124262891-11*600xx4000-2667-0-0.jpg"
         width: 600

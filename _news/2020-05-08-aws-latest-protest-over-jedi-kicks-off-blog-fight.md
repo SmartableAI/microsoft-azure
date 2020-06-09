@@ -5,8 +5,8 @@ excerpt: "Amazon Web Services' latest JEDI protest went directly to the Defense 
 publishedDateTime: 2020-05-08T15:42:00Z
 webUrl: "https://washingtontechnology.com/articles/2020/05/08/jedi-protest-blog-fight.aspx"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

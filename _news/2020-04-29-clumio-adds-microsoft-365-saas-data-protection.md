@@ -5,8 +5,8 @@ excerpt: "Hot cloud-native data protection startup Clumio Wednesday expanded int
 publishedDateTime: 2020-04-29T15:45:00Z
 webUrl: "https://www.crn.com/clumio-adds-microsoft-365-saas-data-protection"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:
@@ -31,7 +31,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 20
+    quality: 30
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/Poojan-Kumar-Clumio.png"
         width: 1094

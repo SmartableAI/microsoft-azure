@@ -5,7 +5,7 @@ excerpt: "Amazon said the White House blocked a Pentagon watchdog's effort to pr
 publishedDateTime: 2020-04-16T17:06:00Z
 webUrl: "https://www.businessinsider.com/amazon-microsoft-trump-role-jedi-contract-2020-4"
 type: article
-quality: 31
+quality: 41
 heat: -1
 published: false
 
@@ -37,7 +37,7 @@ related:
     provider:
       name: The Next Web
       domain: thenextweb.com
-    quality: 78
+    quality: 98
     images:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/11/Amazon-cloud-796x404.jpg"
         width: 796
@@ -52,7 +52,7 @@ related:
     provider:
       name: TechSpot
       domain: techspot.com
-    quality: 61
+    quality: 81
     images:
       - url: "https://www.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-13-ts3_thumbs-023.jpg"
         width: 800

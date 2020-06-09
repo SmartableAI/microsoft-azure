@@ -7,8 +7,8 @@ webUrl: "https://www.infoworld.com/article/3542672/prepare-for-the-future-of-dis
 ampWebUrl: "https://www.infoworld.com/article/3542672/prepare-for-the-future-of-distributed-cloud-computing.amp.html"
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3542672/prepare-for-the-future-of-distributed-cloud-computing.amp.html"
 type: article
-quality: 82
-heat: 82
+quality: 102
+heat: 102
 published: true
 
 provider:

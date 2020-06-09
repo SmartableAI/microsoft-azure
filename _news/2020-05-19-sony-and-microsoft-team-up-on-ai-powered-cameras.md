@@ -7,8 +7,8 @@ webUrl: "https://www.engadget.com/sony-microsoft-team-up-ai-powered-cameras-0914
 ampWebUrl: "https://www.engadget.com/amp/sony-microsoft-team-up-ai-powered-cameras-091449976.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/sony-microsoft-team-up-ai-powered-cameras-091449976.html"
 type: article
-quality: 82
-heat: 102
+quality: 102
+heat: 122
 published: true
 
 provider:
@@ -37,7 +37,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 37
+    quality: 47
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/microsoft-3.png"
         width: 718

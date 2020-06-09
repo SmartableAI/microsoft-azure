@@ -5,8 +5,8 @@ excerpt: "Amazon Web Service lawsuit in JEDI cloud computing contract dispute pu
 publishedDateTime: 2020-04-20T16:16:00Z
 webUrl: "https://www.onmsft.com/news/judge-delays-amazons-challenge-to-jedi-contract-award-until-august"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

@@ -5,7 +5,7 @@ excerpt: "Matillion, a leading provider of data transformation software for clou
 publishedDateTime: 2020-05-12T15:21:00Z
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/matillion-launches-matillion-etl-for-azure-synapse-empowering-users-with-data-transformation-capabilities-for-rapid/article_7b962a36-a426-5aed-ac9e-04ed7242d321.html"
 type: article
-quality: 5
+quality: 15
 heat: -1
 published: false
 
@@ -33,7 +33,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 48
+    quality: 68
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Redis-Enterprise-for-Azure-Cache.jpg"
         width: 1663
@@ -46,7 +46,7 @@ related:
     provider:
       name: SD Times
       domain: sdtimes.com
-    quality: 41
+    quality: 51
     images:
       - url: "https://sdtimes.com/wp-content/uploads/2020/05/1_jFyfsakE2WBv5sFjBQUsuw.png"
         width: 1200

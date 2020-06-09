@@ -7,8 +7,8 @@ webUrl: "https://www.windowscentral.com/microsoft-and-sony-partner-make-smart-ca
 ampWebUrl: "https://www.windowscentral.com/microsoft-and-sony-partner-make-smart-cameras-smarter-azure-ai?amp"
 cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-and-sony-partner-make-smart-cameras-smarter-azure-ai?amp"
 type: article
-quality: 57
-heat: 77
+quality: 77
+heat: 97
 published: true
 
 provider:
@@ -35,7 +35,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 33
+    quality: 53
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Sony-intelligent-vision-sensor-IMX500.jpg"
         width: 1774

@@ -7,7 +7,7 @@ webUrl: "https://www.foxbusiness.com/technology/judge-puts-amazon-challenge-to-p
 ampWebUrl: "https://www.foxbusiness.com/technology/judge-puts-amazon-challenge-to-pentagon-jedi-contract-on-hold.amp"
 cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/judge-puts-amazon-challenge-to-pentagon-jedi-contract-on-hold.amp"
 type: article
-quality: 22
+quality: 32
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200417&t=2&i=1515553285&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG3G2CA"
         width: 911
@@ -44,7 +44,7 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200417&t=2&i=1515553285&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG3G2CA"
         width: 911
@@ -59,7 +59,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 57
+    quality: 77
     images:
       - url: "https://i.insider.com/5e9dd03cc02320631f07df16?width=1200&format=jpeg"
         width: 1200
@@ -72,7 +72,7 @@ related:
     provider:
       name: Defense News
       domain: defensenews.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://www.armytimes.com/resizer/4oY6QYiwbrQ_P1x7G8W5rhRChq4=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/YF6HUO4ZSVD2HL4ULQM3SV46UM.jpg"
         width: 1200
@@ -85,7 +85,7 @@ related:
     provider:
       name: Federal Times
       domain: federaltimes.com
-    quality: 20
+    quality: 30
     images:
       - url: "https://www.armytimes.com/resizer/4oY6QYiwbrQ_P1x7G8W5rhRChq4=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/YF6HUO4ZSVD2HL4ULQM3SV46UM.jpg"
         width: 1200

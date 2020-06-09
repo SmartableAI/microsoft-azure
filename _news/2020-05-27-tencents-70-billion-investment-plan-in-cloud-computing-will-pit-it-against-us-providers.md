@@ -5,8 +5,8 @@ excerpt: "Tencent's $70 billion plan to grow its cloud-computing business pits i
 publishedDateTime: 2020-05-27T14:39:00Z
 webUrl: "https://www.businessinsider.com/tencent-to-compete-against-us-big-cloud-with-investment-plan-2020-5"
 type: article
-quality: 53
-heat: 53
+quality: 63
+heat: 63
 published: false
 
 provider:

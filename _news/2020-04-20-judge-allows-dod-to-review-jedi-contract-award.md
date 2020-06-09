@@ -5,8 +5,8 @@ excerpt: "A federal judge on Friday put Amazon's JEDI lawsuit on hold to allow t
 publishedDateTime: 2020-04-20T10:26:00Z
 webUrl: "https://www.datacenterdynamics.com/en/news/judge-allows-dod-review-jedi-contract-award/"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:
@@ -31,7 +31,7 @@ related:
     provider:
       name: Fudzilla
       domain: fudzilla.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://www.fudzilla.com/media/k2/items/cache/17ce92444fc91e5296ede4e94f12b8c8_L.jpg"
         width: 620

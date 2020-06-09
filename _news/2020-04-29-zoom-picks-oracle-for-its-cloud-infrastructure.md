@@ -5,8 +5,8 @@ excerpt: "The enterprise software vendor is a surprising choice for Zoom, with O
 publishedDateTime: 2020-04-29T11:59:00Z
 webUrl: "https://www.datacenterdynamics.com/en/news/zoom-picks-oracle-its-cloud-infrastructure/"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

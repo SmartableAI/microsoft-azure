@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/microsoft-is-dedicating-significant-tech-
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-is-dedicating-significant-tech-resources-to-covid-19-first-responder-organizations/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-dedicating-significant-tech-resources-to-covid-19-first-responder-organizations/"
 type: article
-quality: 71
-heat: 71
+quality: 91
+heat: 91
 published: true
 
 provider:

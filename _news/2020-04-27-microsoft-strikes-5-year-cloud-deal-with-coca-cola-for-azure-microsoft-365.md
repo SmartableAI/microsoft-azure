@@ -7,9 +7,9 @@ webUrl: "https://www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca
 ampWebUrl: "https://www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365?amp"
 cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365?amp"
 type: article
-quality: 55
-heat: -1
-published: false
+quality: 75
+heat: 115
+published: true
 
 provider:
   name: Windows Central
@@ -35,7 +35,22 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 59
+    quality: 69
+  - title: "Coca-Cola selects Microsoft cloud to modernize its business"
+    excerpt: "The Coca-Cola Company today announced a five-year agreement with Microsoft to standardize its business operations on Microsoft’s cloud. As part of this partnership, Coca-Cola will be using Microsoft Azure,"
+    publishedDateTime: 2020-04-27T14:29:00Z
+    webUrl: "https://mspoweruser.com/coca-cola-microsoft-cloud-business/"
+    ampWebUrl: "https://mspoweruser.com/coca-cola-microsoft-cloud-business/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/coca-cola-microsoft-cloud-business/amp/"
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 62
+    images:
+      - url: "https://mspoweruser.com/wp-content/uploads/2020/04/Coca-cola-Microsoft.jpg"
+        width: 1189
+        height: 616
 
 secured: "fqs8WTRv4hhun7Twi4PevLtmJLmleAqeTgcI+6OIaZwS9PSVkGwNW82jb56nzF5vvclBx8Hecix467zs8ZP2SN1GrpK6nJjsLeXH+d6eGjvuEXXblDjRNouzPJp8uiOOAf+l6gu3Hb1qQVCSxIpeQN49OLvMuNb9z7CttCsYNryOwi3l2JPgqPxddAQXoh0Vs/6DXAmnatogT0unbGhW11wI8QO8HMU4h5A7xWEfht4Mlq2zqNvJR7z+mz5DSLfXtcXzOGcoPs8tYrOSCioR5pmZHmtZikyZ94O4WBRPqlMZibJusS50fol8AWJqcJbX+bjJu2vNbZVTfKGvg+Ujcj+zg6d9elTBLFJx1P0OfAynthq3vXbz0Cp48JUBYBs5AKREGetNSlRPVHNKCcOT3EMjX/hSheS43HIbsJS6hJCSSUT4k1PQHBMSZN0YYCD9sQWV6kWeiqNCryP/CIohyv55+TO5xt5X3Ald9eWj0IU=;s7hplgqo0uN0O6T7Wnfnqw=="
 ---

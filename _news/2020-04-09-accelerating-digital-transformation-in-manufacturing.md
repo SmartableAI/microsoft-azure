@@ -5,8 +5,8 @@ excerpt: "Digital transformation in manufacturing has the potential to increase 
 publishedDateTime: 2020-04-09T09:00:12Z
 webUrl: "https://azure.microsoft.com/blog/accelerating-digital-transformation-in-manufacturing/"
 type: article
-quality: 86
-heat: 86
+quality: 96
+heat: 96
 published: true
 
 provider:

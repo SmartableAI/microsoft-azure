@@ -5,8 +5,8 @@ excerpt: "This post was co-authored by Omar Aftab, Partner Director of Program M
 publishedDateTime: 2019-12-03T09:00:11Z
 webUrl: "https://azure.microsoft.com/blog/enabling-collaborative-bot-development-across-your-organization-for-any-user/"
 type: article
-quality: 81
-heat: 81
+quality: 91
+heat: 91
 published: true
 
 provider:

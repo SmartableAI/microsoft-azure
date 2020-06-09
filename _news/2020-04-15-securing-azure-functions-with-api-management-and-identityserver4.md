@@ -5,8 +5,8 @@ excerpt: "There are several Azure App Service platform authentication features l
 publishedDateTime: 2020-04-15T17:02:00Z
 webUrl: "https://medium.com/microsoftazure/secure-functions-apim-identityserver4-4b6f62d773b0"
 type: article
-quality: 77
-heat: 77
+quality: 87
+heat: 87
 published: true
 
 provider:

@@ -7,9 +7,9 @@ webUrl: "https://mspoweruser.com/microsoft-azure-cache-for-redis/"
 ampWebUrl: "https://mspoweruser.com/microsoft-azure-cache-for-redis/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-azure-cache-for-redis/amp/"
 type: article
-quality: 48
-heat: 48
-published: false
+quality: 68
+heat: 108
+published: true
 
 provider:
   name: MSPoweruser
@@ -33,7 +33,7 @@ related:
     provider:
       name: SD Times
       domain: sdtimes.com
-    quality: 41
+    quality: 51
     images:
       - url: "https://sdtimes.com/wp-content/uploads/2020/05/1_jFyfsakE2WBv5sFjBQUsuw.png"
         width: 1200
@@ -46,7 +46,7 @@ related:
     provider:
       name: WFMZ-TV
       domain: wfmz.com
-    quality: 5
+    quality: 15
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
         width: 1280

@@ -5,8 +5,8 @@ excerpt: "The cloud migration services is basically a movement of infrastructure
 publishedDateTime: 2020-05-04T00:42:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-migration-services-market-global-trends-market-share-growth-opportunity-2017-2023-2020-05-03"
 type: article
-quality: 52
-heat: 52
+quality: 62
+heat: 62
 published: false
 
 provider:

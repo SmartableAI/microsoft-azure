@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-14T12:00:00Z
 webUrl: "https://www.nasdaq.com/articles/3-big-reasons-to-stick-with-the-rally-in-microsoft-stock-2020-05-14"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -27,7 +27,7 @@ related:
     provider:
       name: InvestorPlace
       domain: investorplace.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://investorplace.com/wp-content/uploads/2019/10/msft1600e.jpg"
         width: 1600

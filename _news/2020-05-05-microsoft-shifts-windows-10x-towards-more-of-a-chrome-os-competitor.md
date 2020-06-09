@@ -7,8 +7,8 @@ webUrl: "https://www.theverge.com/2020/5/5/21247701/microsoft-windows-10x-laptop
 ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/5/21247701/microsoft-windows-10x-laptops-single-screen-chrome-os-competition"
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/5/21247701/microsoft-windows-10x-laptops-single-screen-chrome-os-competition"
 type: article
-quality: 82
-heat: 82
+quality: 102
+heat: 102
 published: true
 
 provider:

@@ -5,8 +5,8 @@ excerpt: "Extracting text and structure information from documents is a core ena
 publishedDateTime: 2020-03-17T08:00:45Z
 webUrl: "https://azure.microsoft.com/blog/new-features-for-form-recognizer-now-available/"
 type: article
-quality: 84
-heat: 84
+quality: 94
+heat: 94
 published: true
 
 provider:

@@ -5,8 +5,8 @@ excerpt: "Microsoft Azure Chief Technology Officer Mark Russinovich provided an 
 publishedDateTime: 2020-05-27T19:51:00Z
 webUrl: "https://rcpmag.com/Blogs/Scott-Bekker/2020/05/Azure-Lighthouse-MSP.aspx"
 type: article
-quality: 37
-heat: 37
+quality: 47
+heat: 47
 published: false
 
 provider:

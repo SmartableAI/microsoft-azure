@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/database-week-microsoft-oems-redis-enterp
 ampWebUrl: "https://www.zdnet.com/google-amp/article/database-week-microsoft-oems-redis-enterprise-for-azure/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/database-week-microsoft-oems-redis-enterprise-for-azure/"
 type: article
-quality: 97
-heat: 117
+quality: 117
+heat: 137
 published: true
 
 provider:
@@ -39,7 +39,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 97
+    quality: 117
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1207074418.jpg?w=1024"
         width: 1024

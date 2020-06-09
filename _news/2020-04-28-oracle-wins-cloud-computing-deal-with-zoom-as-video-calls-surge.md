@@ -7,9 +7,9 @@ webUrl: "https://www.usnews.com/news/technology/articles/2020-04-28/oracle-wins-
 ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-04-28/oracle-wins-cloud-computing-deal-with-zoom-as-video-calls-surge?context=amp"
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-04-28/oracle-wins-cloud-computing-deal-with-zoom-as-video-calls-surge?context=amp"
 type: article
-quality: 62
-heat: 62
-published: false
+quality: 72
+heat: 72
+published: true
 
 provider:
   name: U.S. News & World Report

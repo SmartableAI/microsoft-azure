@@ -5,8 +5,8 @@ excerpt: "NXP Semiconductors has expanded its partnership with Microsoft to brin
 publishedDateTime: 2020-05-27T15:40:00Z
 webUrl: "https://roboticsandautomationnews.com/2020/05/27/nxp-expands-partnership-with-microsoft-azure-rtos/32528/"
 type: article
-quality: 37
-heat: 37
+quality: 47
+heat: 47
 published: false
 
 provider:

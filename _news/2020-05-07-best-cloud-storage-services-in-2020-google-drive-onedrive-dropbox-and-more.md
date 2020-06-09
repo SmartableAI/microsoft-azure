@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/best-cloud-storage-services/"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/best-cloud-storage-services/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/best-cloud-storage-services/"
 type: article
-quality: 78
-heat: 78
+quality: 98
+heat: 98
 published: true
 
 provider:

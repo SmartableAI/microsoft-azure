@@ -7,8 +7,8 @@ webUrl: "https://www.cmswire.com/digital-workplace/microsoft-updates-teams-video
 ampWebUrl: "https://www.cmswire.com/digital-workplace/microsoft-updates-teams-video-conferencing-verizon-buys-bluejeans-more-news/amp/"
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-workplace/microsoft-updates-teams-video-conferencing-verizon-buys-bluejeans-more-news/amp/"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 59
 published: false
 
 provider:

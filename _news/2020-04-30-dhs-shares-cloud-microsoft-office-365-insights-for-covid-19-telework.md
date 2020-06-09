@@ -7,8 +7,8 @@ webUrl: "https://healthitsecurity.com/news/dhs-shares-cloud-microsoft-office-365
 ampWebUrl: "https://healthitsecurity.com/news/amp/dhs-shares-cloud-microsoft-office-365-insights-for-covid-19-telework"
 cdnAmpWebUrl: "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/news/amp/dhs-shares-cloud-microsoft-office-365-insights-for-covid-19-telework"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

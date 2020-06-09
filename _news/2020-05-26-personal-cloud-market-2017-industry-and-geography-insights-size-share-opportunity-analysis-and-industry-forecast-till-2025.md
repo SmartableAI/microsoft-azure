@@ -5,8 +5,8 @@ excerpt: "Europe (Germany, UK, France, Rest of Europe) 5.3 Asia Pacific (China, 
 publishedDateTime: 2020-05-26T07:42:00Z
 webUrl: "https://www.marketwatch.com/press-release/personal-cloud-market-2017-industry-and-geography-insights-size-share-opportunity-analysis-and-industry-forecast-till-2025-2020-05-26"
 type: article
-quality: 34
-heat: 34
+quality: 44
+heat: 44
 published: false
 
 provider:

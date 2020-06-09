@@ -5,8 +5,8 @@ excerpt: "There is no shortage of online forums to help troubleshoot Azure AD. V
 publishedDateTime: 2020-06-02T08:35:00Z
 webUrl: "https://www.scmagazine.com/review/microsoft-azure-active-directory-azure-ad/"
 type: article
-quality: 37
-heat: 37
+quality: 47
+heat: 47
 published: false
 
 provider:

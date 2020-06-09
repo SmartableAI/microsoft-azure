@@ -5,8 +5,8 @@ excerpt: "Microsoft urges Amazon to \"stand down\" on JEDI protests. AWS says it
 publishedDateTime: 2020-05-07T23:34:00Z
 webUrl: "https://www.crn.com/news/cloud/microsoft-vp-asks-aws-to-stand-down-on-jedi-cloud-protests"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

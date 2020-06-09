@@ -7,8 +7,8 @@ webUrl: "https://mspoweruser.com/microsoft-explains-what-they-are-doing-to-keep-
 ampWebUrl: "https://mspoweruser.com/microsoft-explains-what-they-are-doing-to-keep-azure-up-and-running-during-the-covid-19-crisis/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-explains-what-they-are-doing-to-keep-azure-up-and-running-during-the-covid-19-crisis/amp/"
 type: article
-quality: 45
-heat: 45
+quality: 65
+heat: 65
 published: false
 
 provider:

@@ -5,8 +5,8 @@ excerpt: "RESTON, Va., June 01, 2020 (GLOBE NEWSWIRE) -- ScientiaMobile, today a
 publishedDateTime: 2020-06-01T12:00:00Z
 webUrl: "https://www.marketwatch.com/press-release/scientiamobiles-wurfl-microservice-now-available-in-the-microsoft-azure-marketplace-2020-06-01"
 type: article
-quality: 70
-heat: 110
+quality: 80
+heat: 120
 published: true
 
 provider:
@@ -35,7 +35,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 68
+    quality: 78
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -48,7 +48,7 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 37
+    quality: 47
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

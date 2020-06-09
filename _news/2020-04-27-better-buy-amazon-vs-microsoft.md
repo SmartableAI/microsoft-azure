@@ -7,9 +7,9 @@ webUrl: "https://www.nasdaq.com/articles/better-buy%3A-amazon-vs.-microsoft-2020
 ampWebUrl: "https://www.nasdaq.com/articles/better-buy%3A-amazon-vs.-microsoft-2020-04-27?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/better-buy%3A-amazon-vs.-microsoft-2020-04-27?amp"
 type: article
-quality: 62
-heat: 62
-published: false
+quality: 72
+heat: 72
+published: true
 
 provider:
   name: Nasdaq

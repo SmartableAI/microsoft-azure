@@ -7,8 +7,8 @@ webUrl: "https://www.macrumors.com/2020/05/11/apple-cloud-hiring-spree/"
 ampWebUrl: "https://www.macrumors.com/2020/05/11/apple-cloud-hiring-spree/amp/"
 cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/05/11/apple-cloud-hiring-spree/amp/"
 type: article
-quality: 42
-heat: 42
+quality: 62
+heat: 62
 published: false
 
 provider:

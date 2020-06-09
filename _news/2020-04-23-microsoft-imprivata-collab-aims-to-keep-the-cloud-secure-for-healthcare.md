@@ -5,8 +5,8 @@ excerpt: "Microsoft and Imprivata are collaborating on new digital identity proj
 publishedDateTime: 2020-04-23T13:22:00Z
 webUrl: "https://www.beckershospitalreview.com/cybersecurity/microsoft-imprivata-collab-aims-to-keep-the-cloud-secure-for-healthcare.html"
 type: article
-quality: 21
-heat: 21
+quality: 31
+heat: 31
 published: false
 
 provider:

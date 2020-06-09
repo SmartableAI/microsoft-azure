@@ -7,8 +7,8 @@ webUrl: "https://www.benzinga.com/pressreleases/20/05/p16007940/2020-interworks-
 ampWebUrl: "https://amp.benzinga.com/amp/content/16007940"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16007940"
 type: article
-quality: 7
-heat: 7
+quality: 17
+heat: 17
 published: false
 
 provider:

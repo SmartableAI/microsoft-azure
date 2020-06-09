@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/how-to-save-and-delete-messages-in
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-to-save-and-delete-messages-in-microsoft-teams/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-save-and-delete-messages-in-microsoft-teams/"
 type: article
-quality: 82
-heat: 82
+quality: 102
+heat: 102
 published: true
 
 provider:

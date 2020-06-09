@@ -5,8 +5,8 @@ excerpt: "From the crash of 2008 to COVID-19 in 2020, cloud adoption has been bo
 publishedDateTime: 2020-05-14T01:18:00Z
 webUrl: "https://siliconangle.com/2020/05/13/aws-summit-online-wraps-analysts-discuss-public-cloud-market-business-strategies-surviving-covid-19-awssummit/"
 type: article
-quality: 12
-heat: 12
+quality: 22
+heat: 22
 published: false
 
 provider:

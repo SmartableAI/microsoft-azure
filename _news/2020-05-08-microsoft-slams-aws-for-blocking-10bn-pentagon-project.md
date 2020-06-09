@@ -7,8 +7,8 @@ webUrl: "https://www.hindustantimes.com/tech/microsoft-slams-aws-for-blocking-10
 ampWebUrl: "https://m.hindustantimes.com/tech/microsoft-slams-aws-for-blocking-10bn-pentagon-project/story-qHHGKSjsW6ZS2BcP2EiX0M_amp.html"
 cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/microsoft-slams-aws-for-blocking-10bn-pentagon-project/story-qHHGKSjsW6ZS2BcP2EiX0M_amp.html"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

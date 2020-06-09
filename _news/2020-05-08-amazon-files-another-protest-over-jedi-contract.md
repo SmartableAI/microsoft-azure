@@ -5,8 +5,8 @@ excerpt: "Microsoft responds by blasting Amazon Web Services for trying to force
 publishedDateTime: 2020-05-08T03:25:00Z
 webUrl: "https://www.nextgov.com/it-modernization/2020/05/amazon-files-another-protest-over-jedi-contract/165243/"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:
@@ -31,7 +31,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/pentagon-80394_1920-tpsdave-pixabay-800x521.jpg"
         width: 800

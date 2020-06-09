@@ -5,8 +5,8 @@ excerpt: "Microsoft has a fleshed-out plan to stop contributing to the earth's c
 publishedDateTime: 2020-05-30T13:38:00Z
 webUrl: "https://www.businessinsider.com/microsoft-carbon-initiative-big-business-morgan-stanley-2020-5"
 type: article
-quality: 42
-heat: 42
+quality: 52
+heat: 52
 published: false
 
 provider:

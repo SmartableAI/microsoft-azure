@@ -5,9 +5,9 @@ excerpt: "Microsoft Xbox boss Phil Specter today confirmed the rumors that Game 
 publishedDateTime: 2020-04-30T18:17:00Z
 webUrl: "https://thenextweb.com/distract/2020/04/30/microsoft-announces-xcloud-support-for-game-pass-games-coming-in-2020/"
 type: article
-quality: 62
-heat: 62
-published: false
+quality: 72
+heat: 72
+published: true
 
 provider:
   name: The Next Web

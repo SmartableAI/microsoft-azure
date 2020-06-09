@@ -5,7 +5,7 @@ excerpt: "Learn details of the Cloud Infrastructure Service Market: Statistics, 
 publishedDateTime: 2020-05-14T07:06:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-cloud-infrastructure-service-market-estimates-pre-and-post-covid-19-impact-and-recovery-analysis-by-2020-2029-2020-05-14"
 type: article
-quality: 38
+quality: 48
 heat: -1
 published: false
 
@@ -35,7 +35,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

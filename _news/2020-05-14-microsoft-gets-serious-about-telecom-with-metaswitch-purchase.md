@@ -5,7 +5,7 @@ excerpt: "Although Metaswitch reported revenues of just $180 million in 2019, th
 publishedDateTime: 2020-05-14T18:28:00Z
 webUrl: "https://www.lightreading.com/cloud-native-nfv/microsoft-gets-serious-about-telecom-with-metaswitch-purchase/d/d-id/759668"
 type: article
-quality: 22
+quality: 32
 heat: -1
 published: false
 
@@ -31,7 +31,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 33
+    quality: 43
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/microsoft-1.png"
         width: 718

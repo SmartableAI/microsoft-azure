@@ -5,7 +5,7 @@ excerpt: "SAN RAMON, Calif., June 01, 2020 (GLOBE NEWSWIRE) -- WANdisco (LSE: WA
 publishedDateTime: 2020-06-01T11:01:00Z
 webUrl: "https://www.marketwatch.com/press-release/wandisco-releases-livedata-platform-for-petabyte-scale-cloud-migration-to-microsoft-azure-2020-06-01"
 type: article
-quality: 68
+quality: 78
 heat: -1
 published: false
 
@@ -35,7 +35,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 70
+    quality: 80
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -48,7 +48,7 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 37
+    quality: 47
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

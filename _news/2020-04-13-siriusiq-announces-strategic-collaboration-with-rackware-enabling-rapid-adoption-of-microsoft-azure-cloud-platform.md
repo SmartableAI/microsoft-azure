@@ -5,8 +5,8 @@ excerpt: "SiriusIQ, the leading Master Orchestration and Automation Platform for
 publishedDateTime: 2020-04-13T11:00:00Z
 webUrl: "https://www.prnewswire.com/news-releases/siriusiq-announces-strategic-collaboration-with-rackware-enabling-rapid-adoption-of-microsoft-azure-cloud-platform-301039072.html"
 type: article
-quality: 15
-heat: 15
+quality: 25
+heat: 25
 published: false
 
 provider:

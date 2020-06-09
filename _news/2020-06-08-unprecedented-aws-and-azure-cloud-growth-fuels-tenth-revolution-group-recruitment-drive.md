@@ -5,8 +5,8 @@ excerpt: "Leading cloud talent solutions firm Tenth Revolution Group is launchin
 publishedDateTime: 2020-06-08T14:23:00Z
 webUrl: "https://www.businesswire.com/news/home/20200608005389/en/Unprecedented-AWS-Azure-cloud-growth-fuels-Tenth"
 type: article
-quality: 29
-heat: 29
+quality: 39
+heat: 39
 published: false
 
 provider:

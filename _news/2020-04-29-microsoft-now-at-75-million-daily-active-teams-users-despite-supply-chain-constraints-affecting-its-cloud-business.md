@@ -7,9 +7,9 @@ webUrl: "https://www.zdnet.com/article/microsoft-now-at-75-million-daily-active-
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-now-at-75-million-daily-active-teams-users-despite-supply-chain-constraints-affecting-its-cloud-business/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-now-at-75-million-daily-active-teams-users-despite-supply-chain-constraints-affecting-its-cloud-business/"
 type: article
-quality: 60
-heat: 60
-published: false
+quality: 80
+heat: 80
+published: true
 
 provider:
   name: ZDNet

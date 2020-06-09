@@ -7,7 +7,7 @@ webUrl: "https://www.fool.com/investing/2020/04/20/forget-amazon-microsoft-bette
 ampWebUrl: "https://www.fool.com/amp/investing/2020/04/20/forget-amazon-microsoft-better-cloud-computing.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/20/forget-amazon-microsoft-better-cloud-computing.aspx"
 type: article
-quality: 82
+quality: 102
 heat: -1
 published: false
 
@@ -39,7 +39,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://media.ycharts.com/charts/24981e8743742bcb2fd3f34c85905335.png"
         width: 720
@@ -54,7 +54,7 @@ related:
     provider:
       name: InvestorPlace
       domain: investorplace.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://investorplace.com/wp-content/uploads/2020/03/shutterstock_698745022-compressor.jpg"
         width: 1600
@@ -67,7 +67,7 @@ related:
     provider:
       name: Finextra
       domain: finextra.com
-    quality: 37
+    quality: 47
     images:
       - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
         width: 480

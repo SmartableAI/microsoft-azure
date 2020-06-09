@@ -7,8 +7,8 @@ webUrl: "https://thenextweb.com/hardfork/2020/05/08/pentagon-jedi-amazon-protest
 ampWebUrl: "https://thenextweb.com/hardfork/2020/05/08/pentagon-jedi-amazon-protest-microsoft-dod-10-billion-contract-deal-war-cloud/amp/"
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/hardfork/2020/05/08/pentagon-jedi-amazon-protest-microsoft-dod-10-billion-contract-deal-war-cloud/amp/"
 type: article
-quality: 79
-heat: 79
+quality: 99
+heat: 99
 published: true
 
 provider:

@@ -7,7 +7,7 @@ webUrl: "https://www.zdnet.com/article/fedex-partners-with-microsoft-to-improve-
 ampWebUrl: "https://www.zdnet.com/google-amp/article/fedex-partners-with-microsoft-to-improve-supply-chains-and-shipping-logistics/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fedex-partners-with-microsoft-to-improve-supply-chains-and-shipping-logistics/"
 type: article
-quality: 79
+quality: 99
 heat: -1
 published: false
 
@@ -39,7 +39,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 79
+    quality: 99
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106512449-1588182933107fedex.jpg?v=1588183002"
         width: 3000

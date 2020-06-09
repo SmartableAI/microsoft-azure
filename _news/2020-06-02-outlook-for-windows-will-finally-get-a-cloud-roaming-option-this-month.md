@@ -5,8 +5,8 @@ excerpt: "Roaming profiles in Outlook for Windows isn’t exactly new and the fu
 publishedDateTime: 2020-06-02T15:59:00Z
 webUrl: "https://petri.com/outlook-for-windows-will-finally-get-a-cloud-roaming-option-this-month"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

@@ -5,8 +5,8 @@ excerpt: "Understanding the importance of its fraud prevention services to clien
 publishedDateTime: 2020-05-07T17:54:00Z
 webUrl: "https://apnews.com/Business Wire/f12e6fa95a464ab0b5f0fb9b4b6db46c"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

@@ -5,8 +5,8 @@ excerpt: "We've compiled the ultimate GCP vs. Azure guide that takes a deep dive
 publishedDateTime: 2020-04-16T18:20:00Z
 webUrl: "https://www.infoworld.com/resources/201378/google-cloud-platform-vs-microsoft-azure"
 type: article
-quality: 77
-heat: 97
+quality: 87
+heat: 107
 published: true
 
 provider:
@@ -35,7 +35,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 77
+    quality: 87
     images:
       - url: "https://images.techhive.com/images/article/2016/12/thumbs-up-multicultural-100701134-large.jpg"
         width: 700

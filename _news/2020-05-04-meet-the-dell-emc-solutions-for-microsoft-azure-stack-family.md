@@ -5,8 +5,8 @@ excerpt: "When CRN editors tracked the five hottest hyperconverged trends to wat
 publishedDateTime: 2020-05-04T00:07:00Z
 webUrl: "https://www.crn.com/channelcast/meet-the-dell-emc-solutions-for-microsoft-azure-stack-family"
 type: article
-quality: 37
-heat: 37
+quality: 47
+heat: 47
 published: false
 
 provider:

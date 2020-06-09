@@ -5,8 +5,8 @@ excerpt: "The facility, which will include a retail area, is slated to open in t
 publishedDateTime: 2020-05-17T21:15:00Z
 webUrl: "https://www.wsbtv.com/news/trending/microsoft-open-atlanta-office-create-1500-new-jobs/RUQ327JBBVAWNAZUZZXH62I26Y/"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:
@@ -31,7 +31,7 @@ related:
     provider:
       name: WSB-TV
       domain: wsbtv.com
-    quality: 19
+    quality: 29
     images:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/COEABQVPO6FT5YXM563W5YSTQY.jpg"
         width: 1200

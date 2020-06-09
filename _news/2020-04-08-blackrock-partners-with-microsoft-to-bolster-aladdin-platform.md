@@ -5,8 +5,8 @@ excerpt: "As part of a new partnership arrangement, asset manager BlackRock will
 publishedDateTime: 2020-04-08T15:33:00Z
 webUrl: "https://www.investmentnews.com/blackrock-partners-with-microsoft-azure-191204"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

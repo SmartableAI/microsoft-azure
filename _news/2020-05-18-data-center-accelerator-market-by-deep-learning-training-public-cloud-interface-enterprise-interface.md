@@ -5,8 +5,8 @@ excerpt: "Pages Report]The data center accelerator market was valued at USD 1.60
 publishedDateTime: 2020-05-18T21:49:00Z
 webUrl: "https://www.marketwatch.com/press-release/data-center-accelerator-market-by-deep-learning-training-public-cloud-interface-enterprise-interface-2020-05-18"
 type: article
-quality: 46
-heat: 46
+quality: 56
+heat: 56
 published: false
 
 provider:

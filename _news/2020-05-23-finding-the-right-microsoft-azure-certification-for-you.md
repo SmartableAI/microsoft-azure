@@ -5,8 +5,8 @@ excerpt: "Looking to earn an Azure certification? Our portfolio spans from funda
 publishedDateTime: 2020-05-23T05:22:00Z
 webUrl: "https://docs.microsoft.com/en-us/learn/certifications/posts/finding-the-right-microsoft-azure-certification-for-you"
 type: article
-quality: 37
-heat: 37
+quality: 47
+heat: 47
 published: false
 
 provider:
@@ -35,7 +35,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 37
+    quality: 47
     images:
       - url: "https://docs.microsoft.com/en-us/learn/certifications/posts/images/understanding-azure-poster.png"
         width: 1024

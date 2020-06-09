@@ -7,8 +7,8 @@ webUrl: "https://www.engadget.com/amazon-microsoft-jedi-fight-154208730.html"
 ampWebUrl: "https://www.engadget.com/amp/amazon-microsoft-jedi-fight-154208730.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/amazon-microsoft-jedi-fight-154208730.html"
 type: article
-quality: 82
-heat: 182
+quality: 102
+heat: 202
 published: true
 
 provider:
@@ -39,7 +39,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg"
         width: 580
@@ -57,7 +57,7 @@ related:
     provider:
       name: TechSpot
       domain: techspot.com
-    quality: 76
+    quality: 96
     images:
       - url: "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-08-image-13.jpg"
         width: 1600
@@ -72,7 +72,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 73
+    quality: 93
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1073698070.jpg?w=1024"
         width: 1024
@@ -87,7 +87,7 @@ related:
     provider:
       name: winbuzzer.com
       domain: winbuzzer.com
-    quality: 57
+    quality: 77
     images:
       - url: "https://winbuzzer.com/wp-content/uploads/2016/04/Microsoft-Clouds-Pixels-Reuse.jpg"
         width: 1280
@@ -100,7 +100,7 @@ related:
     provider:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://media.datacenterdynamics.com/media/images/JEDI_Thats_No_Moon.2e16d0ba.fill-1200x630.png"
         width: 1200

@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/microsofts-new-cloud-for-healthcar
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsofts-new-cloud-for-healthcare-lets-doctors-schedule-telemedicine-visits-in-teams/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsofts-new-cloud-for-healthcare-lets-doctors-schedule-telemedicine-visits-in-teams/"
 type: article
-quality: 74
-heat: 74
+quality: 94
+heat: 94
 published: true
 
 provider:

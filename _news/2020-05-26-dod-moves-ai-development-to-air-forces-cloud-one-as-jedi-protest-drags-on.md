@@ -7,8 +7,8 @@ webUrl: "https://federalnewsnetwork.com/dod-reporters-notebook-jared-serbu/2020/
 ampWebUrl: "https://federalnewsnetwork.com/dod-reporters-notebook-jared-serbu/2020/05/dod-moves-ai-development-to-air-forces-cloud-one-as-jedi-protest-drags-on/amp/"
 cdnAmpWebUrl: "https://federalnewsnetwork-com.cdn.ampproject.org/c/s/federalnewsnetwork.com/dod-reporters-notebook-jared-serbu/2020/05/dod-moves-ai-development-to-air-forces-cloud-one-as-jedi-protest-drags-on/amp/"
 type: article
-quality: 40
-heat: 40
+quality: 60
+heat: 60
 published: false
 
 provider:

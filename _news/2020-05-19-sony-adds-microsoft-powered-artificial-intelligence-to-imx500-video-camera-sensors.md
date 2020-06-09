@@ -7,8 +7,8 @@ webUrl: "https://www.fool.com/investing/2020/05/19/sony-adds-microsoft-powered-a
 ampWebUrl: "https://www.fool.com/amp/investing/2020/05/19/sony-adds-microsoft-powered-artificial-intelligenc.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/19/sony-adds-microsoft-powered-artificial-intelligenc.aspx"
 type: article
-quality: 76
-heat: 76
+quality: 96
+heat: 96
 published: true
 
 provider:

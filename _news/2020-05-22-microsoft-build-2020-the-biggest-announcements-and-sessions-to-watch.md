@@ -7,7 +7,7 @@ webUrl: "https://www.windowscentral.com/microsoft-build-2020-sessions"
 ampWebUrl: "https://www.windowscentral.com/microsoft-build-2020-sessions?amp"
 cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-build-2020-sessions?amp"
 type: article
-quality: 42
+quality: 62
 heat: -1
 published: false
 
@@ -35,7 +35,7 @@ related:
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://cdn.vox-cdn.com/thumbor/DLpMOz4jmOEGQJb21UUFtRfAEro=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66819966/twarren_180507_2536_0001.5.jpg"
         width: 1400
@@ -50,7 +50,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 67
+    quality: 87
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106340571-1579197768152gettyimages-860270484.jpeg?v=1590091539"
         width: 4000

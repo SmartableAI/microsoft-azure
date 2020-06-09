@@ -7,8 +7,8 @@ webUrl: "https://www.fool.com/investing/2020/05/19/microsoft-launches-cloud-for-
 ampWebUrl: "https://www.fool.com/amp/investing/2020/05/19/microsoft-launches-cloud-for-healthcare-first-of-i.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/19/microsoft-launches-cloud-for-healthcare-first-of-i.aspx"
 type: article
-quality: 82
-heat: 222
+quality: 102
+heat: 242
 published: true
 
 provider:
@@ -39,7 +39,7 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519179146&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4I1BJ"
         width: 817
@@ -54,7 +54,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 78
+    quality: 98
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2018/06/GettyImages-952061110.jpg?w=1024"
         width: 1024
@@ -69,7 +69,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 77
+    quality: 97
     images:
       - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/14/533e6954-77da-4a3b-a494-d048db111d54/thumbnail/1200x675/0f777a75c789f86629369bf9956b8307/microsoftmetaswitch.jpg"
         width: 1200
@@ -84,7 +84,7 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://content.jwplatform.com/thumbs/6UhcmMhw-720.jpg"
         width: 720
@@ -99,7 +99,7 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
-    quality: 41
+    quality: 61
     images:
       - url: "https://content.jwplatform.com/thumbs/9eFnHW1Q-720.jpg"
         width: 720
@@ -112,7 +112,7 @@ related:
     provider:
       name: CRN Australia
       domain: crn.com.au
-    quality: 37
+    quality: 47
     images:
       - url: "https://i.nextmedia.com.au/News/20200520062800_0_0_0_0_70__News_20181029105528_crn_14_new_Microsoft_stock.jpg"
         width: 1400
@@ -125,7 +125,7 @@ related:
     provider:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
-    quality: 22
+    quality: 32
     images:
       - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
         width: 1200

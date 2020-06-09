@@ -5,8 +5,8 @@ excerpt: "Market ”report represents an evaluation of theoverall market sizefro
 publishedDateTime: 2020-05-27T04:42:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-virtual-machine-cvm-market-2020-share-drivers-growth-rate-latest-trends-industry-size-top-key-players-till-2026-2020-05-27"
 type: article
-quality: 35
-heat: 35
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -35,7 +35,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 31
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

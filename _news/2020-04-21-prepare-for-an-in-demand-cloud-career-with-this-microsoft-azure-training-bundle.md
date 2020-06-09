@@ -5,8 +5,8 @@ excerpt: "Prepare for an In-Demand Cloud Career With This Microsoft Azure Traini
 publishedDateTime: 2020-04-21T14:47:00Z
 webUrl: "https://www.pcmag.com/deals/prepare-for-an-in-demand-cloud-career-with-this-microsoft-azure-training"
 type: article
-quality: 73
-heat: 73
+quality: 83
+heat: 83
 published: true
 
 provider:

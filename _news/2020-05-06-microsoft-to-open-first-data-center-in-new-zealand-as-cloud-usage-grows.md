@@ -7,8 +7,8 @@ webUrl: "https://techcrunch.com/2020/05/06/microsoft-to-open-first-data-center-i
 ampWebUrl: "https://techcrunch.com/2020/05/06/microsoft-to-open-first-data-center-in-new-zealand-as-cloud-usage-grows/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/06/microsoft-to-open-first-data-center-in-new-zealand-as-cloud-usage-grows/amp/"
 type: article
-quality: 82
-heat: 82
+quality: 102
+heat: 102
 published: true
 
 provider:

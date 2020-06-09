@@ -7,7 +7,7 @@ webUrl: "https://breakingdefense.com/2020/05/exclusive-dods-cio-makes-case-for-s
 ampWebUrl: "https://breakingdefense.com/2020/05/exclusive-dods-cio-makes-case-for-sticking-with-jedi/amp/"
 cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2020/05/exclusive-dods-cio-makes-case-for-sticking-with-jedi/amp/"
 type: article
-quality: 42
+quality: 62
 heat: -1
 published: false
 
@@ -35,7 +35,7 @@ related:
     provider:
       name: Breaking Defense
       domain: breakingdefense.com
-    quality: 42
+    quality: 62
     images:
       - url: "https://sites.breakingmedia.com/uploads/sites/3/2019/02/Screen-Shot-2019-02-05-at-12.58.21-PM-300x201.png"
         width: 300

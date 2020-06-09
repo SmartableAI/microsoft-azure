@@ -5,8 +5,8 @@ excerpt: "Known as Joint Enterprise Defense Infrastructure, or JEDI, the cloud c
 publishedDateTime: 2020-04-19T10:14:00Z
 webUrl: "https://www.arnnet.com.au/article/678551/amazon-jedi-war-microsoft-put-hold/"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:

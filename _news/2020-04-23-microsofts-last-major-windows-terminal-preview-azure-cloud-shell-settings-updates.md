@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/microsofts-last-major-windows-terminal-pr
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-last-major-windows-terminal-preview-azure-cloud-shell-settings-updates/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-last-major-windows-terminal-preview-azure-cloud-shell-settings-updates/"
 type: article
-quality: 90
-heat: 90
+quality: 110
+heat: 110
 published: true
 
 provider:

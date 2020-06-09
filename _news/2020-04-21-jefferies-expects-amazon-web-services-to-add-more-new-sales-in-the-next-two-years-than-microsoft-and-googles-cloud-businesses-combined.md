@@ -5,8 +5,8 @@ excerpt: "The estimates put into perspective the sheer size difference of AWS an
 publishedDateTime: 2020-04-21T18:09:00Z
 webUrl: "https://www.businessinsider.com/aws-expected-add-more-sales-than-microsoft-and-google-combined-2020-4"
 type: article
-quality: 30
-heat: 30
+quality: 40
+heat: 40
 published: false
 
 provider:

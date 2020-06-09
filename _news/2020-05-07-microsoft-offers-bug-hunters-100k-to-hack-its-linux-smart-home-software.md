@@ -7,7 +7,7 @@ webUrl: "https://www.cnet.com/news/microsoft-offers-bug-hunters-100k-to-hack-its
 ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-offers-bug-hunters-100k-to-hack-its-linux-smart-home-software/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-offers-bug-hunters-100k-to-hack-its-linux-smart-home-software/"
 type: article
-quality: 81
+quality: 101
 heat: -1
 published: false
 
@@ -39,7 +39,7 @@ related:
     provider:
       name: IT Pro
       domain: itpro.co.uk
-    quality: 97
+    quality: 117
     images:
       - url: "https://media.itpro.co.uk//image/upload/v1588785400/itpro/AS.png"
         width: 902
@@ -54,7 +54,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 93
+    quality: 113
     images:
       - url: "https://zdnet4.cbsistatic.com/hub/i/2020/05/05/284bc14a-654f-40dd-8c48-3654fd7f17d2/cortexasoftwareplatform.png"
         width: 315
@@ -67,7 +67,7 @@ related:
     provider:
       name: SC Media
       domain: scmagazine.com
-    quality: 37
+    quality: 47
     images:
       - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2018/08/microsoft41_1239455.jpg"
         width: 700

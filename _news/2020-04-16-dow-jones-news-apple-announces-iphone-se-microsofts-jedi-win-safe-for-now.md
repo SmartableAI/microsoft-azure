@@ -7,8 +7,8 @@ webUrl: "https://www.fool.com/investing/2020/04/16/dow-jones-news-apple-announce
 ampWebUrl: "https://www.fool.com/amp/investing/2020/04/16/dow-jones-news-apple-announces-iphone-se-microsoft.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/16/dow-jones-news-apple-announces-iphone-se-microsoft.aspx"
 type: article
-quality: 79
-heat: 79
+quality: 99
+heat: 99
 published: true
 
 provider:

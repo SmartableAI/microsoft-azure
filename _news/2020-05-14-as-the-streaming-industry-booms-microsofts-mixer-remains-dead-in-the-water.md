@@ -7,8 +7,8 @@ webUrl: "https://www.windowscentral.com/streaming-industry-booms-microsofts-mixe
 ampWebUrl: "https://www.windowscentral.com/streaming-industry-booms-microsofts-mixer-remains-dead-water?amp"
 cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/streaming-industry-booms-microsofts-mixer-remains-dead-water?amp"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 59
 published: false
 
 provider:

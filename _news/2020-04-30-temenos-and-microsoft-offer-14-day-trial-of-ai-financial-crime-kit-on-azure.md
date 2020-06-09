@@ -5,8 +5,8 @@ excerpt: "Temenos (SIX: TEMN), the banking software company, announced today a j
 publishedDateTime: 2020-04-30T07:51:00Z
 webUrl: "https://www.finextra.com/pressarticle/82341/temenos-and-microsoft-offer-14-day-trial-of-ai-financial-crime-kit-on-azure"
 type: article
-quality: 35
-heat: 35
+quality: 45
+heat: 45
 published: false
 
 provider:

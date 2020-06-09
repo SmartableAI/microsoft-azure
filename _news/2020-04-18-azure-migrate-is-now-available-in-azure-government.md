@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 99
+    quality: 109
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a69c6248-11fa-477b-81e0-17d56596895a.jpg"
         width: 1024

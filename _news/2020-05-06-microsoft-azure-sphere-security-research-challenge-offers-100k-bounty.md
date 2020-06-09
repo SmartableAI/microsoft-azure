@@ -5,7 +5,7 @@ excerpt: "Microsoft has announced a $100,000 bounty for bug hunters who are able
 publishedDateTime: 2020-05-06T16:01:00Z
 webUrl: "https://www.scmagazine.com/home/security-news/vulnerabilities/microsoft-azure-sphere-security-research-challenge-offers-100k-bounty/"
 type: article
-quality: 37
+quality: 47
 heat: -1
 published: false
 
@@ -33,7 +33,7 @@ related:
     provider:
       name: IT Pro
       domain: itpro.co.uk
-    quality: 97
+    quality: 117
     images:
       - url: "https://media.itpro.co.uk//image/upload/v1588785400/itpro/AS.png"
         width: 902
@@ -48,7 +48,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 93
+    quality: 113
     images:
       - url: "https://zdnet4.cbsistatic.com/hub/i/2020/05/05/284bc14a-654f-40dd-8c48-3654fd7f17d2/cortexasoftwareplatform.png"
         width: 315
@@ -63,7 +63,7 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 81
+    quality: 101
     images:
       - url: "https://cnet4.cbsistatic.com/img/iF1uhBUrlwnFFy_E2G17d1LEm-c=/756x567/2017/10/02/5e7fdcb8-e585-47dd-b13c-93d21b4e4d9e/security-privacy-hackers-locks-key-6749.jpg"
         width: 756

@@ -7,7 +7,7 @@ webUrl: "https://www.zdnet.com/article/microsoft-to-hackers-break-our-azure-sphe
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-to-hackers-break-our-azure-sphere-linux-iot-os-and-earn-up-to-100k/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-hackers-break-our-azure-sphere-linux-iot-os-and-earn-up-to-100k/"
 type: article
-quality: 93
+quality: 113
 heat: -1
 published: false
 
@@ -39,7 +39,7 @@ related:
     provider:
       name: IT Pro
       domain: itpro.co.uk
-    quality: 97
+    quality: 117
     images:
       - url: "https://media.itpro.co.uk//image/upload/v1588785400/itpro/AS.png"
         width: 902
@@ -54,7 +54,7 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 81
+    quality: 101
     images:
       - url: "https://cnet4.cbsistatic.com/img/iF1uhBUrlwnFFy_E2G17d1LEm-c=/756x567/2017/10/02/5e7fdcb8-e585-47dd-b13c-93d21b4e4d9e/security-privacy-hackers-locks-key-6749.jpg"
         width: 756
@@ -67,7 +67,7 @@ related:
     provider:
       name: SC Media
       domain: scmagazine.com
-    quality: 37
+    quality: 47
     images:
       - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2018/08/microsoft41_1239455.jpg"
         width: 700

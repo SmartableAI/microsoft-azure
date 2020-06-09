@@ -5,7 +5,7 @@ excerpt: "Microsoft (NASDAQ: MSFT) and Workday Inc. (NASDAQ: WDAY) today announc
 publishedDateTime: 2020-05-27T20:05:00Z
 webUrl: "https://www.marketwatch.com/press-release/microsoft-workday-announce-strategic-partnership-to-accelerate-planning-for-todays-world-2020-05-27"
 type: article
-quality: 52
+quality: 62
 heat: -1
 published: false
 
@@ -37,7 +37,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 73
+    quality: 93
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2020/05/IMG_0961-2.jpg?w=1024"
         width: 1024
@@ -50,7 +50,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 36
+    quality: 46
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/Johnston-768x512.jpg"
         width: 768

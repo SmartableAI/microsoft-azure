@@ -7,8 +7,8 @@ webUrl: "https://techcrunch.com/2020/05/14/microsoft-is-acquiring-metaswitch-net
 ampWebUrl: "https://techcrunch.com/2020/05/14/microsoft-is-acquiring-metaswitch-networks-to-expand-its-azure-5g-strategy/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/14/microsoft-is-acquiring-metaswitch-networks-to-expand-its-azure-5g-strategy/amp/"
 type: article
-quality: 95
-heat: 155
+quality: 115
+heat: 175
 published: true
 
 provider:
@@ -39,7 +39,7 @@ related:
     provider:
       name: Neowin
       domain: neowin.net
-    quality: 80
+    quality: 100
     images:
       - url: "https://cdn.neow.in/news/images/uploaded/2020/04/1585909473_microsoft_6_story.jpg"
         width: 760

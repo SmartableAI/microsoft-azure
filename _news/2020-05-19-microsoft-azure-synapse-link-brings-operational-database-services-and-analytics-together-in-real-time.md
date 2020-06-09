@@ -7,8 +7,8 @@ webUrl: "https://mspoweruser.com/microsoft-azure-synapse-link-database-analytics
 ampWebUrl: "https://mspoweruser.com/microsoft-azure-synapse-link-database-analytics/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-azure-synapse-link-database-analytics/amp/"
 type: article
-quality: 42
-heat: 42
+quality: 62
+heat: 62
 published: false
 
 provider:

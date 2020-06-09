@@ -5,8 +5,8 @@ excerpt: "Verizon closed on its deal to acquire videoconferencing specialist Blu
 publishedDateTime: 2020-05-18T15:27:00Z
 webUrl: "https://www.crn.com/news/networking/verizon-closes-bluejeans-deal-in-a-move-to-boost-enterprise-cloud-video-chops"
 type: article
-quality: 19
-heat: 19
+quality: 29
+heat: 29
 published: false
 
 provider:

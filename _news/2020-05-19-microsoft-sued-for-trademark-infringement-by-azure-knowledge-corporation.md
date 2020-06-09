@@ -5,8 +5,8 @@ excerpt: "Azure,\" a leading IT company of India, has sued Microsoft for tradema
 publishedDateTime: 2020-05-19T15:00:00Z
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/microsoft-sued-for-trademark-infringement-by-azure-knowledge-corporation/article_23d5bf19-d2a7-57e3-be3e-3efd5bf65576.html"
 type: article
-quality: 36
-heat: 36
+quality: 46
+heat: 46
 published: false
 
 provider:

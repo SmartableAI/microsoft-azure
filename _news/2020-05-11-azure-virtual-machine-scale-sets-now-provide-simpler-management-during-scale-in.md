@@ -5,8 +5,8 @@ excerpt: "We recently announced the general availability of three features for A
 publishedDateTime: 2020-05-11T12:00:03Z
 webUrl: "https://azure.microsoft.com/blog/azure-virtual-machine-scale-sets-now-provide-simpler-management-during-scalein/"
 type: article
-quality: 110
-heat: 110
+quality: 120
+heat: 120
 published: true
 
 provider:

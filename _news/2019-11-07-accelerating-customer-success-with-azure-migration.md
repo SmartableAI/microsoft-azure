@@ -5,8 +5,8 @@ excerpt: "This blog post was co-authored by Jeremy Winter, Partner Director and 
 publishedDateTime: 2019-11-07T07:00:09Z
 webUrl: "https://azure.microsoft.com/blog/accelerating-customer-success-with-azure-migration/"
 type: article
-quality: 114
-heat: 114
+quality: 124
+heat: 124
 published: true
 
 provider:

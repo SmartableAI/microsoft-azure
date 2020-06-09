@@ -5,7 +5,7 @@ excerpt: "The new additions would bring Microsoft to 60 announced cloud regions 
 publishedDateTime: 2020-05-06T23:01:00Z
 webUrl: "https://www.crn.com/news/cloud/microsoft-cloud-regions-planned-for-new-zealand-poland"
 type: article
-quality: 22
+quality: 32
 heat: -1
 published: false
 
@@ -33,7 +33,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 82
+    quality: 102
     images:
       - url: "https://zdnet3.cbsistatic.com/hub/i/2020/05/08/9ed511c7-e2bb-4bba-b5d3-4dd6a65c9c4b/newcloudregionsmicrosoft.jpg"
         width: 899

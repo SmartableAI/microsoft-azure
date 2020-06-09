@@ -7,9 +7,9 @@ webUrl: "https://www.upi.com/Top_News/US/2020/04/15/Pentagon-IG-No-proof-White-H
 ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/04/15/Pentagon-IG-No-proof-White-House-interfered-in-10B-Microsoft-contract/2041586970851/"
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/04/15/Pentagon-IG-No-proof-White-House-interfered-in-10B-Microsoft-contract/2041586970851/"
 type: article
-quality: 42
-heat: 42
-published: false
+quality: 62
+heat: 102
+published: true
 
 provider:
   name: UPI.com
@@ -35,7 +35,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 32
+    quality: 52
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/04/Microsoft-JEDI-DoD.jpg"
         width: 1265
@@ -48,7 +48,7 @@ related:
     provider:
       name: Federal Times
       domain: federaltimes.com
-    quality: 17
+    quality: 27
     images:
       - url: "https://www.armytimes.com/resizer/PAsw1-1BhUO77r_zGK1_xhhGs3o=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/WXVIJLL7IBHTZAHBV5NQLHTO4Y.jpg"
         width: 1200

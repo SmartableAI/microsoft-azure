@@ -5,8 +5,8 @@ excerpt: "We're announcing the general availability of incremental snapshots of 
 publishedDateTime: 2020-03-26T10:00:04Z
 webUrl: "https://azure.microsoft.com/blog/announcing-general-availability-of-incremental-snapshots-of-managed-disks/"
 type: article
-quality: 81
-heat: 81
+quality: 91
+heat: 91
 published: true
 
 provider:
