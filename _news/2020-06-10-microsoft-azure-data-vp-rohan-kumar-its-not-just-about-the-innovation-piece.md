@@ -23,6 +23,6 @@ images:
     isCached: true
     title: "Microsoft Azure Data VP Rohan Kumar: ‘It's Not Just About The Innovation Piece’"
 
-secured: "PJ0lS6fuZfyKVvHKsXn9riDc7ac2GVTbSl2lsu5OAANcZvUhjjCmo9lLOaZcIRaVaT195djm03BJuxkzSPDwkWCxHuHnzoFU8tWBDV6TV0rV0zbevvyxfZCRRB2Etr5RH/m/Aj/dIGOcvQ5IRvoOIfwXxZ2gN5tpnDOW6dKxCyGgw0cvxIrnYB4FHQaDFcvsA3BtRT/vxzikdKpIkf76Qr1Hz9sejx9+nE/y6S9bhSmPZXMJD1Pgi24S6RWQZtXdr6LIxw2QDNoH8a+R2myGQtxiQYwS9VFYrE56sdKjXwScCLT/BAkOVSkbqMJc/fbP;PCeto0YIe5W+gcz+9m205Q=="
+secured: "MS6hfeviofoI/EfUJg5cLDjByNdLNq+OOGNifjEN2mDrGBSawTqeXPS4orBX+7dt6OD63tstAiBvwOenaum3U216Inr5ZccA5vjJlJFvgXOrVs6aaOyHEvh06JdzCqaHUG6bTpEwd+oAWA1h2fMqsGyl7lJENS6AtkE5/DHgcozDfaYAf1+rcZrsNrpj9uOv6AOp1pVObZj97A0B8xCeZWqLDcBD4lXmmsM58965WuMl6B8GotMB5sW2OFjWADgO/8xXq/6fEO1RrcRmWnnHIk2krnOZ+U23ksIAEGjXcCLt+coKG+tlqQgiONhszdeOnzkmvpNG3UTfmnbEugq9CBRUp9fNCa7VePxqqoAnUURpuYSxJUzpp+kWDpV5LgcecOSnYirkStUom/cCCTVExcrRuOzJC45vjIke6GZab/J+SQ+JD46lppKPazndFKhFH5/K54z2UJ6mj9Ie3pXmGiXDIGTB5GnXjQSySFC7ewjy6NJRHryG4idFwCC/Yw4b;/+R3AtDh29mAzsBLkDfR2Q=="
 ---
 
