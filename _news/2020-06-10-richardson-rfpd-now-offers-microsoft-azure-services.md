@@ -3,7 +3,7 @@ category: news
 title: "Richardson RFPD Now Offers Microsoft Azure Services"
 excerpt: "Richardson RFPD, Inc., an Arrow Electronics company, announced today that it has joined the Microsoft Cloud Solution Provider program and is now offer"
 publishedDateTime: 2020-06-10T13:00:00Z
-webUrl: "https://www.businesswire.com/news/home/20200610005093/en/"
+webUrl: "https://www.businesswire.com/news/home/20200610005093/en/Richardson-RFPD-Offers-Microsoft-Azure-Services"
 type: article
 quality: 17
 heat: -1
@@ -32,6 +32,6 @@ related:
         height: 450
         isCached: true
 
-secured: "R7JRgBO/jxyUnEpPB9o2s/hvlN6Ctj6d+F/AyqLUH5MEDk84HB5oRJ505BPB5YcLPUvFyzt2YlCG5+Gv7BH/EoS6HR3qbKfqiWEfFwRNUIVg2+Nq/Kh4jBYdoYCeFlbhQ5GGEzAFG1wReK+DtSymOnR89bd4uydwOazhX7G8HOiWgkwxP75oFvTQoPLVrErx8kinDBjY6nXhEiqZf9Lk6adEeS7udmLfF1YK6rXyudNJuaFSivF7BhjIFEt0WRcJOldaFGc0fuhZqQfp5TL9arAVtkyFC51iBeY1owI5E7loowsZEYZZVURLhQwpjZyr;5394T/9T9T7DTiSGkDRBgA=="
+secured: "UWnQ2gLLDbPsZi497/74SN0Mw0RBan17g7jlvfXRrniLvV8bhHyWk9DpCR/A4Pr9nEkoZcPp9YOKhBv+f0g49JWX/GDVE7dOkpYWIJQWlLNVvEp2/Ln6Sl6CK6wlQ/rORWWYO/kiQa2Pwd6pFvueO9yBmFH346D0mtHaBXsXJT9JdCg+M+muVTHcgLrD0+u3j7dA8OG1Y3eA5dERd46ZGuXiUEQDHJr1xHM0+8UvNcV3FybibPCfHtW31P54aZuxKQyXQMQShbqYmfuSznJg4shroD+K7z1rE99vBbm5S4u2IgDbKMt6exK4ABXA/SCb;El1kGhHQR1pzkkUEPp+63w=="
 ---
 
