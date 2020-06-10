@@ -68,20 +68,6 @@ related:
         width: 660
         height: 371
         isCached: true
-  - title: "ScientiaMobile's WURFL Microservice Now Available in the Microsoft Azure Marketplace"
-    excerpt: "RESTON, Va., June 01, 2020 (GLOBE NEWSWIRE) -- ScientiaMobile, today announced the availability of WURFL Microservice in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2020-06-01T12:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/scientiamobiles-wurfl-microservice-now-available-in-the-microsoft-azure-marketplace-2020-06-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 80
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Backup to Microsoft Azure with Veeam Direct Restore"
     excerpt: "Of the cloud solutions available on the market, Microsoft Azure stands out as an excellent choice. Created by one of the giants of global tech, Azure is an all-encompassing cloud platform that is ..."
     publishedDateTime: 2020-05-27T08:16:00Z
@@ -107,6 +93,15 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 57
+  - title: "ScientiaMobile’s WURFL Microservice Now Available in the Microsoft Azure Marketplace"
+    excerpt: "ScientiaMobile, today announced the availability of WURFL Microservice in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. Developers can now take advantage of the productive and trusted Azure cloud platform,"
+    publishedDateTime: 2020-06-01T12:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/scientiamobile-s-wurfl-microservice-now-available-in-the-microsoft-azure-marketplace-1029268289"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
   - title: "Microsoft Azure Heads IoT Platform Research Report, Edging AWS"
     excerpt: "Microsoft Azure outpaced perennial cloud computing champion Amazon Web Services (AWS) as the top Internet of Things (IoT) platform in a new research report."
     publishedDateTime: 2020-05-29T22:11:00Z

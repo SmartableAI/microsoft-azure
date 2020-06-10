@@ -1,31 +1,24 @@
 ---
 category: news
-title: "ScientiaMobile's WURFL Microservice Now Available in the Microsoft Azure Marketplace"
-excerpt: "RESTON, Va., June 01, 2020 (GLOBE NEWSWIRE) -- ScientiaMobile, today announced the availability of WURFL Microservice in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-publishedDateTime: 2020-06-01T12:00:00Z
-webUrl: "https://www.marketwatch.com/press-release/scientiamobiles-wurfl-microservice-now-available-in-the-microsoft-azure-marketplace-2020-06-01"
+title: "ScientiaMobile’s WURFL Microservice Now Available in the Microsoft Azure Marketplace"
+excerpt: "ScientiaMobile, today announced the availability of WURFL Microservice in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. Developers can now take advantage of the productive and trusted Azure cloud platform,"
+publishedDateTime: 2020-06-01T12:18:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/scientiamobile-s-wurfl-microservice-now-available-in-the-microsoft-azure-marketplace-1029268289"
 type: article
-quality: 80
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-    title: "ScientiaMobile's WURFL Microservice Now Available in the Microsoft Azure Marketplace"
 
 related:
   - title: "13 ways Microsoft Azure beats AWS"
@@ -182,6 +175,6 @@ related:
         height: 720
         isCached: true
 
-secured: "jNEaQED9KMA/IZXNjGVus1Y2uMZJ57dVPTaBHiwBfRblJv7Lm3WrNpzQ1GPnYYvla5fD9wd69CYCIB9gvcfiv5tTGH+8WFAWajv+ttV0M9e2CDItNKm63RkSyI98bCUU8ie4EYxEaNp98gHVi3NNzeYrCjK1F1h3gmYGGtXXHh06pXnCs17pu3B4LcHS2umNnmK6ZhmdkiClEMR5u2W7H5Wz1s2eYS9PNKce4w25bsZ0VxbD3kJx4eYe+GOt/aG3WaihT3Wd6P8y9Bl2TKXr4vbfe3aMb82ndY0sYwCIzCmdCBwPUBFxMzj2nv8XrYmD;XG/rI3/uBGGT8nFmUrp7Pw=="
+secured: "OVrdWryJYaShu24VxDcc6CUPl6gmSvb36Nofwc/OUvUsKCyf3J8XRKdV45PiRSRt/gAAhbQ0kS8FQpaBzLhOsyfDEoqfjfAj16pfdRZKlIAp66HP7BaVTZIUsg1zYZla6YyzftTqV2nOY6zmy2UyKDEO4si8N+V4S4E0P79Yj6Yj2Q4mEMeynI1EYOMLbX/3AIXpTSmJAj5D6Wcaq8+Qf9fkg26pM8ckfQCli2xSd9Ht+8XvOAmuBXdVfV0UBDlJzSGOd2gf4x8Mfeds7wyVQN7IPBOtDSRGw5JDcdpfvTrC5n6LjM+nRn9JdhWVh/v8;ye6JAAfFHEaagV8+sJHL1Q=="
 ---
 
