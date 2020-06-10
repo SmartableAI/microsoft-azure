@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-02T10:00:27Z
 webUrl: "https://azure.microsoft.com/blog/application-gateway-ingress-controller-for-azure-kubernetes-service/"
 type: article
 quality: 109
-heat: 109
+heat: 129
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     height: 768
     isCached: true
     title: "Application Gateway Ingress Controller for Azure Kubernetes Service"
+
+related:
+  - title: "Azure Kubernetes Service—Integrated application gateway feature now available"
+    excerpt: ""
+    publishedDateTime: 2020-06-10T16:00:23Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-integrated-application-gateway-feature-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 74
 
 secured: "UCoJ58oNuSMZoct+nAixc3qBvzs0Z3ZRFtIT7kEwYs4S0OXIYl3eH2U8vcpog9KE/Z+M195MzEBET+g1R5tp4zf6SsyYgOb50htCMMySJPxw9m4nOG3kUsn+5pcMhHQoi1IGC1KHtCOQxR/IfiAm5AmIurjkDxcVIF7fuy5Ubgrm77uHRFFUbaeAq2fT6tlGpFz0A2Cjl//xHImR2iedFb+ZK1RQuj3NcNspUymw6/rbMyceXJkyJDhZiFcOWsEsxSS3sQsNtXbHz8PaPNxumgR/y0mDMxY7f4puAHoDDaXv+BkQjCCQIsggDYWkZfQCcRxidYo5xYSBj5uNmX7rdg==;lK7P2YQatcn6NHvYB6LJxg=="
 ---

@@ -30,6 +30,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Azure Kubernetes Service upgrade improvements are now in preview"
+    excerpt: ""
+    publishedDateTime: 2020-06-10T16:00:24Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-upgrade-improvements-are-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
 
 secured: "2xSbkN6QYR++v06/MvcPqKsGnifPfoPvnyS8WnLJBM/KS10W5PH8rcaz9fIWF3e1jU++Db0ORdq0V4zhbfMZOJQlqMdLGFy8XWcozES1pIH9oPwVKeWq2IkNBmzV2ye00Y1n4z6zlpp6eUXKDfxTnGn4faYaOYQKaovfFxP/57VtkWuprwGYlc0fkVeBjucHIMSLtCXlXUNtxB/32Eo/8FBa1NsgQmX24NYskw4igKOkOuhNv1R/aSfZlrX82QWLO8Gb6wb/tSxcj3fayzK7d2sJcF1xZIHmgpEQGRJdHifxB0hYru0mCG30I+Pe5oomxcjDBEzTUfa1mu3VB5Kk4A==;dCqhHrSPdiNlPW9/gxPjzw=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-15T16:00:02Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-spot-support-for-azure-kubernetes-service-is-in-preview/"
 type: article
 quality: 77
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -25,6 +25,15 @@ related:
     excerpt: ""
     publishedDateTime: 2020-04-29T16:00:01Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-app-service-support-for-github-actions-is-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure Kubernetes Service upgrade improvements are now in preview"
+    excerpt: ""
+    publishedDateTime: 2020-06-10T16:00:24Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-upgrade-improvements-are-now-in-preview/"
     type: article
     provider:
       name: Microsoft

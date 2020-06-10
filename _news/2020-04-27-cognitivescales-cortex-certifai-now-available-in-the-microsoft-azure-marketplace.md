@@ -137,6 +137,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Windows Server containers in AKS is now available in Azure Government"
+    excerpt: ""
+    publishedDateTime: 2020-06-10T16:00:25Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/windows-server-containers-in-aks-is-now-available-in-azure-government/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Azure Databricks is now available in the Azure Government cloud (in preview)"
     excerpt: ""
     publishedDateTime: 2020-06-09T18:15:11Z

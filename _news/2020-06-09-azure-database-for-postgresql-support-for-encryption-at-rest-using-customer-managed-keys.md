@@ -6,8 +6,8 @@ publishedDateTime: 2020-06-09T19:00:01Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-encryption-at-rest-byok-preview/"
 type: article
 quality: 68
-heat: 88
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -21,6 +21,51 @@ topics:
   - Azure
 
 related:
+  - title: "Data encryption with customer-managed keys for Azure Database for MySQL"
+    excerpt: ""
+    publishedDateTime: 2020-06-10T16:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/data-encryption-with-customermanaged-keys-for-azure-database-for-mysql-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Large storage for Azure Database for MariaDB"
+    excerpt: ""
+    publishedDateTime: 2020-06-10T16:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/large-storage-for-azure-database-for-mariadb/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Transparent data encryption with customer-managed keys for Azure SQL Database Hyperscale"
+    excerpt: ""
+    publishedDateTime: 2020-06-10T16:00:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/transparent-data-encryption-with-customermanaged-keys-for-azure-sql-database-hyperscale/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 68
+  - title: "Azure server-side encryption with customer-managed keys now available for Azure Ultra Disks"
+    excerpt: ""
+    publishedDateTime: 2020-05-27T16:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-serverside-encryption-with-customermanaged-keys-now-available-for-azure-ultra-disks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure SQL Database Hyperscale—Transparent data encryption with customer-managed keys now in preview"
+    excerpt: ""
+    publishedDateTime: 2020-06-01T20:00:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/sqlhyperscale-tde-byok/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 63
   - title: "Azure Database for MySQL support for encryption at rest using customer-managed keys now in preview"
     excerpt: ""
     publishedDateTime: 2020-06-08T16:00:20Z
