@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-15T11:11:00Z
 webUrl: "https://www.marketwatch.com/press-release/qore-technologies-free-3months-usage-plan-for-qorus-integration-engine-now-available-in-the-microsoft-azure-marketplace-2020-04-15"
 type: article
 quality: 62
-heat: 102
+heat: 122
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "KlariVis Now Available in the Microsoft Azure Marketplace"
+    excerpt: "KlariVis customers can now take advantage of the productive and trusted Microsoft Azure cloud platform with streamlined deployment and management."
+    publishedDateTime: 2020-06-09T12:09:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200609005152/en/KlariVis-Microsoft-Azure-Marketplace"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 47
+    images:
+      - url: "https://mms.businesswire.com/media/20200609005152/en/796737/23/klarivislogo-black-registered.jpg"
+        width: 1200
+        height: 627
         isCached: true
   - title: "Microsoft Azure holds free 'virtual hackathon' for professionals in Asia to develop helpful technologies"
     excerpt: "Microsoft, Grab and the United Nations Development Programme ... Through this activity, teams can collaborate online and use Azure technologies \"like computer vision and natural language processing to create innovative and transformative solutions.\""

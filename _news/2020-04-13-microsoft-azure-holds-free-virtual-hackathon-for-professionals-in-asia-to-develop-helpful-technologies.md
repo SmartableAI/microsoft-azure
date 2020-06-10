@@ -47,6 +47,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "KlariVis Now Available in the Microsoft Azure Marketplace"
+    excerpt: "KlariVis customers can now take advantage of the productive and trusted Microsoft Azure cloud platform with streamlined deployment and management."
+    publishedDateTime: 2020-06-09T12:09:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200609005152/en/KlariVis-Microsoft-Azure-Marketplace"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 47
+    images:
+      - url: "https://mms.businesswire.com/media/20200609005152/en/796737/23/klarivislogo-black-registered.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "GcJ5r7NwgARz01hSx3Z8vNt5A740SEFAnT+dsy/Xiy06eeuClC33nkGeOTxDkVBtXuNhWbpnPhIOuUkV3HgTQQGLMZ3jNLDJdIgSc+Xzz09112UycSXP6boyh8MHGltSGMw7idWK9YeTNoUTDh2PunlsQaEfKEbWFjtxXZ7pNOLF/d5HYujbhjsXKOCyaxVNf57Miyf3G+36s4oWasAPvDEIlA9FBwTIOKUi74kIjzUb6Jm3G7BiT3pnVjWQabKLBIX0hZS2XZg5wQvTovSreD1cJB+rOTfDKt9+RZCI/YoNl64YT4OAEkdm+eaYzOmg;kiXLNPS8WFAifM99MqvCYg=="
 ---

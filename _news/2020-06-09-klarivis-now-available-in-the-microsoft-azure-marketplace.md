@@ -1,27 +1,27 @@
 ---
 category: news
-title: "eBaoCloud InsureMO is Now Available in the Microsoft Azure Marketplace"
-excerpt: "SHANGHAI, May 20, 2020 /PRNewswire/ -- eBaoTech Corporation today announced the availability of eBaoCloud ® InsureMO ® in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. eBaoTech's customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined ..."
-publishedDateTime: 2020-05-20T15:30:00Z
-webUrl: "https://www.prnewswire.com/in/news-releases/ebaocloud-insuremo-is-now-available-in-the-microsoft-azure-marketplace-800602677.html"
+title: "KlariVis Now Available in the Microsoft Azure Marketplace"
+excerpt: "KlariVis customers can now take advantage of the productive and trusted Microsoft Azure cloud platform with streamlined deployment and management."
+publishedDateTime: 2020-06-09T12:09:00Z
+webUrl: "https://www.businesswire.com/news/home/20200609005152/en/KlariVis-Microsoft-Azure-Marketplace"
 type: article
 quality: 47
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://mms.businesswire.com/media/20200609005152/en/796737/23/klarivislogo-black-registered.jpg"
+    width: 1200
+    height: 627
     isCached: true
-    title: "eBaoCloud InsureMO is Now Available in the Microsoft Azure Marketplace"
+    title: "KlariVis Now Available in the Microsoft Azure Marketplace"
 
 related:
   - title: "Qore Technologies' Free 3Months Usage Plan for Qorus Integration Engine Now Available in the Microsoft Azure Marketplace"
@@ -38,19 +38,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "KlariVis Now Available in the Microsoft Azure Marketplace"
-    excerpt: "KlariVis customers can now take advantage of the productive and trusted Microsoft Azure cloud platform with streamlined deployment and management."
-    publishedDateTime: 2020-06-09T12:09:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200609005152/en/KlariVis-Microsoft-Azure-Marketplace"
+  - title: "eBaoCloud InsureMO is Now Available in the Microsoft Azure Marketplace"
+    excerpt: "SHANGHAI, May 20, 2020 /PRNewswire/ -- eBaoTech Corporation today announced the availability of eBaoCloud ® InsureMO ® in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. eBaoTech's customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined ..."
+    publishedDateTime: 2020-05-20T15:30:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/ebaocloud-insuremo-is-now-available-in-the-microsoft-azure-marketplace-800602677.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 47
     images:
-      - url: "https://mms.businesswire.com/media/20200609005152/en/796737/23/klarivislogo-black-registered.jpg"
-        width: 1200
-        height: 627
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Microsoft Azure holds free 'virtual hackathon' for professionals in Asia to develop helpful technologies"
     excerpt: "Microsoft, Grab and the United Nations Development Programme ... Through this activity, teams can collaborate online and use Azure technologies \"like computer vision and natural language processing to create innovative and transformative solutions.\""
@@ -64,6 +64,6 @@ related:
       domain: gmanetwork.com
     quality: 30
 
-secured: "9hrQ+fTFHx9xGqgk3+RzLf50LNWM6+UDR1wMP8igR/mHrYOkgN6Mh0AIVc4KWvXB4+eBJuzQBPqFqKGGra38Ov/6oMEjFFYgf3FMataz0XJH3uvJLuUQ3P3NsNAPlr0DLWizNPpztftHJr9w+YIQ/NtUFYwUGOh8gIqpM9XTMtzGF/++qXneqxRgHSjC+4czEVDevcJi4CvbXgUu29ZGY6KO0FybB8OYi5fMmf09XsZ+ApQSa6GgkrH/SuS2LtjdQuPinxo0S9NdEzWXV96jw7LwgrE+uxR2T9OMmT7tldc5FFeN2UvpE1IOuOTJk0oC;69SYvbSv+3SwSE4zFEB8Aw=="
+secured: "llMkAO248ShXhiAsuBhYYiS2Py9lSjmiBBQ2f+9BbxBnGmmJ7lDIiA/MNtTPhdB7/H6TUO7wdKINFJXI66VCucj9W/uMayhapktD0wSdVbiVMgP/9+zaJZGC4f+fDapZGhw5w0PF3p2ziWi8R/5kN+Wcp0ePRAhoY65pSpd2zn60skWZUWx0o1BW+1gKofpz6fuIMfoNJfOvQiqgC2hcrmv382buCssdhxiOlML/Jc0u9fuJ0zYgdyDDr3kjV2VLcWUTsdNpkIIloVD7xAOLENRfrnPUnIkP3Tus6IBraBu9u2XArrjDo8FfkVgzj/sX;Jdmxg78M2J1oLfucc1EWEA=="
 ---
 
