@@ -2,6 +2,52 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-04-14-azure-analysis-services-calculation-groups-are-now-generally-available.md",
+      "title": "Azure Analysis Services calculation groups are now generally available",
+      "excerpt": "",
+      "heat": 227,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/en-us/updates/announcing-general-availability-ga-of-calculation-groups-in-azure-analysis-services/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-14T15:00:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/0f9f89b3-100e-4d95-b715-e3b3f4e20492.gif",
+          "width": 1290,
+          "height": 757,
+          "title": "Azure Analysis Services calculation groups are now generally available",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2020-04-14-virtual-machine-scale-setsautomatic-image-upgrades-for-custom-images.md",
       "title": "Virtual machine scale sets—Automatic image upgrades for custom images",
       "excerpt": "",
@@ -1100,53 +1146,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-power-your-azure-gpu-workstations-with-flexible-gpu-partitioning.md",
-      "title": "Power your Azure GPU workstations with flexible GPU partitioning",
-      "excerpt": "Today we're sharing the general availability of NVv4 virtual machines in South Central US, East US, and West Europe regions, with additional regions planned in the coming months. With NVv4, Azure is the first public cloud to offer GPU partitioning built on industry-standard SR-IOV technology.\r\n\r\nNVv4",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/power-your-azure-gpu-workstations-with-flexible-gpu-partitioning/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T01:00:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e4b7bfb9-8fb1-41f0-a4c5-038715a0dd20.png",
-          "width": 997,
-          "height": 807,
-          "title": "Power your Azure GPU workstations with flexible GPU partitioning",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Compute"
       ]
     }
   ],
