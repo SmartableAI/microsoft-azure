@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-28T23:00:43Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-march-2020-updates/"
 type: article
 quality: 77
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -34,6 +34,15 @@ related:
     excerpt: ""
     publishedDateTime: 2020-05-14T21:00:32Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-april-2020-updates/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure IoT Central—May 2020 dashboard updates"
+    excerpt: ""
+    publishedDateTime: 2020-06-10T01:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-may-2020-dashboard-updates/"
     type: article
     provider:
       name: Microsoft
