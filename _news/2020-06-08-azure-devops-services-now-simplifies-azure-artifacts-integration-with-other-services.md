@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-08T19:00:21Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-devops-now-simplifies-azure-artifacts-integration-with-other-service/"
 type: article
 quality: 70
-heat: 71
+heat: 70
 published: true
 
 provider:
