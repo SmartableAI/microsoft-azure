@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-24T08:00:14Z
 webUrl: "https://azure.microsoft.com/blog/preview-of-active-directory-for-authentication-on-azure-file/"
 type: article
 quality: 79
-heat: 79
+heat: 99
 published: true
 
 provider:
@@ -20,6 +20,17 @@ provider:
 topics:
   - Azure
   - Serverless
+
+related:
+  - title: "General availability of Azure Files on-premises Active Directory Domain Services authentication"
+    excerpt: "Today we're announcing the general availability of Azure Files support for authentication with on-premises Active Directory Domain Services (AD DS).\r\n\r\nSince preview in February 2020, we’ve received great feedback and growing interest from our customers, especially because of increased work from home"
+    publishedDateTime: 2020-06-11T10:00:03Z
+    webUrl: "https://azure.microsoft.com/blog/general-availability-of-azure-files-onpremises-active-directory-domain-services-authentication/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 65
 
 secured: "wbCNhjpEybmG/xWrx38uS+DKXx1YfnUzOggEB7eJa7fmVxFwlwJxu34c17rLPzn+/g8oH/C11biOnB/PYZvNQC5EL1I9R3tWSobBR2zFzNwBKemsKeoMouL5vIBS/gtyn0Vig/OqV47O9Enoyz0xXIRN30UdGU4YycGdnrePt26/YKahiyX3xByD9OeLTgafXd8M4bMur3QX4AXbU7xBW6tEiytyWCgPX/mEmVYHC/HvYAuR2mwQzgfwNwUw8AGm7P+ac8Tf9VLNpkdy0YGfrijujSbuNHMnA1u7LUGCY4MirN1YIBJ5A/DkQoNkOQi78vIYv8q2oVeLnlYmfTE6ZQ==;1x4BljnD2j/S6kg8bl6Wtg=="
 ---

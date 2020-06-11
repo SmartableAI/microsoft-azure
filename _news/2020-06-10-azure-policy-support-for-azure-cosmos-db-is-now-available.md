@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-10T16:00:15Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-policy-support-for-azure-cosmos-db-is-now-available/"
 type: article
 quality: 77
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -21,6 +21,15 @@ topics:
   - Azure
 
 related:
+  - title: "Azure App Service hybrid connections for Linux apps is now available"
+    excerpt: ""
+    publishedDateTime: 2020-06-11T16:00:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-app-service-hybrid-connections-for-linux-apps-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Azure Cosmos DB Java SDK 4.0 for Core (SQL) API release now in general availability"
     excerpt: ""
     publishedDateTime: 2020-06-10T16:00:14Z

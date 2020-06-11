@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Azure Cosmos DB Java SDK 4.0 for Core (SQL) API release now in general availability"
+title: "Azure App Service hybrid connections for Linux apps is now available"
 excerpt: ""
-publishedDateTime: 2020-06-10T16:00:14Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-java-sdk-40-for-core-sql-api-release-now-in-general-availability/"
+publishedDateTime: 2020-06-11T16:00:15Z
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-app-service-hybrid-connections-for-linux-apps-is-now-available/"
 type: article
-quality: 71
+quality: 77
 heat: -1
 published: false
 
@@ -30,15 +30,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Azure App Service hybrid connections for Linux apps is now available"
+  - title: "Azure Cosmos DB Java SDK 4.0 for Core (SQL) API release now in general availability"
     excerpt: ""
-    publishedDateTime: 2020-06-11T16:00:15Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-app-service-hybrid-connections-for-linux-apps-is-now-available/"
+    publishedDateTime: 2020-06-10T16:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-java-sdk-40-for-core-sql-api-release-now-in-general-availability/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 71
   - title: "Azure Monitor for containers now supports log collection on AKS Windows node pools (in preview)"
     excerpt: ""
     publishedDateTime: 2020-06-04T18:00:27Z
@@ -49,6 +49,6 @@ related:
       domain: microsoft.com
     quality: 65
 
-secured: "0KyyVAthT+UI/EBguv/mp5a30R1iJ9yvf8lJJWfKWHtD7N64x3rpbtSIn2769TOeg8XLcMp3qbbB6Me0jwRHm8Y0uWBr29yQM1gacjxT/ykSqrFzX5HhiClr0Aa1hGE2eO1UrjtzlM+pIZ3YWa0cZ4k3WFHPbInlpUcb5rxmAhjBKYO0tCwI+be4KZli+XN692/FxaA45Ra785vJMTfURFzeGrxqj3sDeNEkzLHABcw0VPQ2KBC3v651/wPrGkqgB0hPsxeAPFjJpOSCp1BLbw1Y42Gn4ieAfmfhkFK5tfqSZAj2hn+6f/DNEee0cuut7N0fDHwg2v6e/0XQ0eKAxw==;eGcCKMSFuf40ZP7Oaz9XMQ=="
+secured: "C8D+0Ocp/mY6wXG4KyfeLoOKwziNXAKxhT5Zwz/xzLwIvaIBjGE2Br8shZuqtkQEN5v6aARGS65eZUKqtzg60oEiB/dGy3wdelmrgqyIq9dRPAih5rQroJ5r9tL1VIE8fRLsc7eBMmBhL5K1np/jdQ2V3Vp1PWlopxNbh9RSYV+1fmD7zFQ8UwoWzOgyZmrwy3s9zfj866qJkuSWoCN75XQGaZLRhsOddPUerpXYFV25ySh2P+zEXVfEx6NqPg1x5OJBSvfoXLQ/F6wf2UMr4l0OmlXpPV5rjwrkLSf5IhqvpiyQOB63SrJ32Iryl3ovZTREQXgKjy1GjkAWCvHVwA==;slziN3GFd0lC9Bo18HZ0AQ=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-30T11:00:08Z
 webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-april-2020/"
 type: article
 quality: 111
-heat: 131
+heat: 151
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1367
         height: 678
         isCached: true
+  - title: "Azure API Management updates—June 2020"
+    excerpt: ""
+    publishedDateTime: 2020-06-11T17:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-update-june-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
 
 secured: "y3VI/GdsOAJ9C0gxG1dIuEitr3K+ShpAZMkTcU58lqF1j15CXThrjpt+9OEEGKmlg8QCoXAzwNBLoDngGDu9wTP04R9Pu5DhzpOpJ9NUILXENahX5rlp9VYZB/i3RBO5yflXCgIBCXsPnyomMR6o5IeSG69a4kcKhtYDQS9HCu8rgN4g5WSludZ3Rk+YKsnXbTuHA/oH47qfh3PF+FpmfKtvznxCEVvOzB3380I5V199AiuBApi4w5/8a4ae+Aub0zIxuLQgK9BSP6En4RKLRNjhBlWkyVAyMvv1eslbZSLzHxePtGnZvVI6RbMhBLs/NksDAAczh3pBFC7zEBpOtQ==;4ulNXuia43Mtcl0tVOh7Bg=="
 ---

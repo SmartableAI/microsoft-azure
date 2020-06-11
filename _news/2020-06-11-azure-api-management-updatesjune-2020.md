@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Azure API Management update—May 2020"
+title: "Azure API Management updates—June 2020"
 excerpt: ""
-publishedDateTime: 2020-05-07T20:00:12Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-update-may-2020/"
+publishedDateTime: 2020-06-11T17:00:01Z
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-update-june-2020/"
 type: article
-quality: 107
+quality: 77
 heat: -1
 published: false
 
@@ -19,13 +19,6 @@ provider:
 
 topics:
   - Azure
-
-images:
-  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/be59ad04-9d29-4851-89f0-285e7d1aea26.png"
-    width: 1367
-    height: 678
-    isCached: true
-    title: "Azure API Management update—May 2020"
 
 related:
   - title: "Azure Cost Management + Billing updates – April 2020"
@@ -42,16 +35,21 @@ related:
         width: 1506
         height: 872
         isCached: true
-  - title: "Azure API Management updates—June 2020"
+  - title: "Azure API Management update—May 2020"
     excerpt: ""
-    publishedDateTime: 2020-06-11T17:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-update-june-2020/"
+    publishedDateTime: 2020-05-07T20:00:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-update-may-2020/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 107
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/be59ad04-9d29-4851-89f0-285e7d1aea26.png"
+        width: 1367
+        height: 678
+        isCached: true
 
-secured: "XFVoSrHl5PCo6vxMeInyICCkvq834pTn2AT5TLLlW89xp+8cSi0cAEcCI2qo4CggCQItQhwB6zsANMsjsLAozF2haiVak61oo/IKBdjB5Nrg84lLf32yAu5n/0IXdx4MmvluIhhVr1TbjvEC65PQyerynInIgS7cIuijKLXtnlhjBFztwVX9qoJ59TuMN3tX+GQW8jSLK9U+9SJz5evgxX7hFcJw5WbDoOfkqTIXqyoXGWPguJYYjTmsYomTsW5kJCYp8lQd5aRhL4oRKog+W7k+rp+Px2SXaNEFn2Aavz22OpsGChfXmhWIpYCkqd5u/N0Mg0/UeDRruroPphVytg==;SLXdsYz5h0Dy8pAvpqtdbw=="
+secured: "y7K55ECQfUqlmtIYmfemkKYOO9z0aRl21RZ6W/MBCsw0ulFx+FNf4WouLwNkBtVRv12mKUU8q7ZF3o+UVQqylSvZHfRNjhmx22bleHoZpYlf744OPYRHVJ0UtVlhAjGuZ2K+iKWPYA5f/9XAYdVhyFEfY22xsq3rB/XDHbxvBfUgFnPO9GTyhBfNyPvs5Gwk4KlnF5rpd0LlCHwIwN3kx42Pg6jk2EkgqVXwbE+0qmhrtmwb4/YkMZ7BLwddI6sVbitcfzoDlwozbednvTwuNjYE7c9m49IpiK44k1sys4lj8JXk615sIJUhKe+5Tx7Hz8d+hh5Psf6pVJJ9COI17g==;GXHQNyCf50Uacl4aJAjX2A=="
 ---
 
