@@ -24,6 +24,17 @@ images:
     title: "eBaoCloud InsureMO is Now Available in the Microsoft Azure Marketplace"
 
 related:
+  - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Stock quotes by finanzen.net BRISBANE, Australia, June 10, 2020 /PRNewswire/ -- Codafication, a software start-up that empowers enterprises to digitally transform at scale, today announced the availability of its flagship product Virtual Assist in the Microsoft Azure Marketplace."
+    publishedDateTime: 2020-06-10T23:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 83
   - title: "Qore Technologies' Free 3Months Usage Plan for Qorus Integration Engine Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to free use of Qorus Integration Engine to mitigate the business implications of COVID-19 PRAGUE, CZECH REPUBLIC, April 15, 2020 /EINPresswire.com/ -- Qore Technologies today announced the availability of a free three-month usage and consultation plan for Qorus Integration Engine in the Microsoft Azure Marketplace,"
     publishedDateTime: 2020-04-15T11:11:00Z
@@ -52,17 +63,43 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Microsoft Azure holds free 'virtual hackathon' for professionals in Asia to develop helpful technologies"
-    excerpt: "Microsoft, Grab and the United Nations Development Programme ... Through this activity, teams can collaborate online and use Azure technologies \"like computer vision and natural language processing to create innovative and transformative solutions.\""
-    publishedDateTime: 2020-04-13T18:08:00Z
-    webUrl: "https://www.gmanetwork.com/news/scitech/technology/733783/microsoft-azure-holds-free-virtual-hackathon-for-professionals-in-asia-to-develop-helpful-technologies/story/"
-    ampWebUrl: "https://www.gmanetwork.com/news/scitech/technology/733783/microsoft-azure-holds-free-virtual-hackathon-for-professionals-in-asia-to-develop-helpful-technologies/story/?amp"
-    cdnAmpWebUrl: "https://www-gmanetwork-com.cdn.ampproject.org/c/s/www.gmanetwork.com/news/scitech/technology/733783/microsoft-azure-holds-free-virtual-hackathon-for-professionals-in-asia-to-develop-helpful-technologies/story/?amp"
+  - title: "Greater Than Make Enerfy Loyalty Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Greater Than, today announced the availability of the cloud-based loyalty program Enerfy Loyalty in the Microsoft Azure Marketplace,"
+    publishedDateTime: 2020-06-11T10:01:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/greater-than-make-enerfy-loyalty-now-available-in-the-microsoft-azure-marketplace-888514598.html"
     type: article
     provider:
-      name: GMA Network
-      domain: gmanetwork.com
-    quality: 30
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 42
+    images:
+      - url: "https://www.prnewswire.co.uk/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Parabole.ai announces the launch of TRAIN™ 3.0, the Automated Machine Teaching Platform on the Microsoft Azure Marketplace"
+    excerpt: "Parabole.ai today announced that TRAIN™ 3.0, its MACHINE TEACHING PLATFORM is now available on the Azure Marketplace. Parabole's unique"
+    publishedDateTime: 2020-06-03T13:12:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/paraboleai-announces-the-launch-of-train-3-0--the-automated-machine-teaching-platform-on-the-microsoft-azure-marketplace-301069421.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 21
+    images:
+      - url: "https://mma.prnewswire.com/media/963377/Parabole_ai_Logo.jpg?p=facebook"
+        width: 2697
+        height: 1414
+        isCached: true
+  - title: "Greater Than Make FIA Smart Driving Challenge Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to FIA Smart Driving Challenge provided by Greater Than, to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies."
+    publishedDateTime: 2020-05-05T13:06:00Z
+    webUrl: "https://www.autoblog.com/press-releases/greater-than-make-fia-smart-driving-challenge-now-available-in-the-microsoft-azure-marketplace_23004/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 5
 
 secured: "9hrQ+fTFHx9xGqgk3+RzLf50LNWM6+UDR1wMP8igR/mHrYOkgN6Mh0AIVc4KWvXB4+eBJuzQBPqFqKGGra38Ov/6oMEjFFYgf3FMataz0XJH3uvJLuUQ3P3NsNAPlr0DLWizNPpztftHJr9w+YIQ/NtUFYwUGOh8gIqpM9XTMtzGF/++qXneqxRgHSjC+4czEVDevcJi4CvbXgUu29ZGY6KO0FybB8OYi5fMmf09XsZ+ApQSa6GgkrH/SuS2LtjdQuPinxo0S9NdEzWXV96jw7LwgrE+uxR2T9OMmT7tldc5FFeN2UvpE1IOuOTJk0oC;69SYvbSv+3SwSE4zFEB8Aw=="
 ---

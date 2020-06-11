@@ -1,40 +1,28 @@
 ---
 category: news
-title: "KlariVis Now Available in the Microsoft Azure Marketplace"
-excerpt: "KlariVis customers can now take advantage of the productive and trusted Microsoft Azure cloud platform with streamlined deployment and management."
-publishedDateTime: 2020-06-09T12:09:00Z
-webUrl: "https://www.businesswire.com/news/home/20200609005152/en/KlariVis-Microsoft-Azure-Marketplace"
+title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
+excerpt: "Stock quotes by finanzen.net BRISBANE, Australia, June 10, 2020 /PRNewswire/ -- Codafication, a software start-up that empowers enterprises to digitally transform at scale, today announced the availability of its flagship product Virtual Assist in the Microsoft Azure Marketplace."
+publishedDateTime: 2020-06-10T23:35:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
 type: article
-quality: 47
-heat: -1
-published: false
+quality: 83
+heat: 203
+published: true
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
-images:
-  - url: "https://mms.businesswire.com/media/20200609005152/en/796737/23/klarivislogo-black-registered.jpg"
-    width: 1200
-    height: 627
-    isCached: true
-    title: "KlariVis Now Available in the Microsoft Azure Marketplace"
-
 related:
-  - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Stock quotes by finanzen.net BRISBANE, Australia, June 10, 2020 /PRNewswire/ -- Codafication, a software start-up that empowers enterprises to digitally transform at scale, today announced the availability of its flagship product Virtual Assist in the Microsoft Azure Marketplace."
-    publishedDateTime: 2020-06-10T23:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 83
   - title: "Qore Technologies' Free 3Months Usage Plan for Qorus Integration Engine Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to free use of Qorus Integration Engine to mitigate the business implications of COVID-19 PRAGUE, CZECH REPUBLIC, April 15, 2020 /EINPresswire.com/ -- Qore Technologies today announced the availability of a free three-month usage and consultation plan for Qorus Integration Engine in the Microsoft Azure Marketplace,"
     publishedDateTime: 2020-04-15T11:11:00Z
@@ -62,6 +50,20 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "KlariVis Now Available in the Microsoft Azure Marketplace"
+    excerpt: "KlariVis customers can now take advantage of the productive and trusted Microsoft Azure cloud platform with streamlined deployment and management."
+    publishedDateTime: 2020-06-09T12:09:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200609005152/en/KlariVis-Microsoft-Azure-Marketplace"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 47
+    images:
+      - url: "https://mms.businesswire.com/media/20200609005152/en/796737/23/klarivislogo-black-registered.jpg"
+        width: 1200
+        height: 627
         isCached: true
   - title: "Greater Than Make Enerfy Loyalty Now Available in the Microsoft Azure Marketplace"
     excerpt: "Greater Than, today announced the availability of the cloud-based loyalty program Enerfy Loyalty in the Microsoft Azure Marketplace,"
@@ -101,6 +103,6 @@ related:
       domain: autoblog.com
     quality: 5
 
-secured: "ZSKnnJXpQDrLLxh2hJSZp1lL1Zh9eSwo5A1hwC/gnSYb+UtEi/NEoidJwoYSuPzG7bRKu8kHAxLTmzdePAvFaQD2PvAdpR3450xvlPL/F8ETRJsoGrHyhy/u/s+2zYwhCLmvmSsvHqL+Ps1r2zPr4XWHEgHY/RxYjlaPZy9WVD7ATPvEA0pYxF4nl/7RNoHzPTOnDTu7gh3UJwnlbJ5r1xxSpJVLRDdtDpLx+X5ML9sWffTqGfn+/ctZbSAdejareaLSLLRqjbHkiXwFQoUsvYXldnhlflypPsJ/gHSSnBMTOKxJP60gCokMB+pNjZrkmjLDf20sNWfA2zOL60LC2JVxa+whRDjjMHBrzosyfkH8M2TnplNJ6VS76yf79TMROd7qPJLHCZkN/0GonD44s8znNS2JI3yj+wKL5SZwt6gBzfvyrpTvyZThz2YG60EfGZ3cklK0x5QTR35d2bPAoVp+dehz5fkU6Z5ftOPVk67FllX0AHcILmr+2zOqbnyU;lbKqTDD10cN/2A+sGKNFMQ=="
+secured: "/hISVyc3CYTNjS0FPVDpgMbn8UdeKxD0flBrwKbVNN5sQ/TAk7Gb7s5gusabeYBFdUXZdxUNAw5+VlMl65oLBD1LLSEixEe1JHN1kEep0pdll+p/c5LC7OKEN4lsOzqlrdRfIJSBTvcskBmzMSh7Z8Tq45UT0J15TEnxV0XvsoieA3NolYycR1WBbmNBImkcx5bgoWLDLYBMUVOOu8kT/P/KYa1HOR1EpsKmPe8MpJiS38JfOVgrYbqzhHDQIg0Qf+WVU+/Gpz4IN32YDsMbIyrm04LsGDH6QSBZtLp8iiwkLcB6vhwhnVm1GTYTsEQI;Hksodcc4AXtkQX1pqflbRw=="
 ---
 
