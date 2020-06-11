@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-08T19:00:21Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-devops-now-simplifies-azure-artifacts-integration-with-other-service/"
 type: article
 quality: 70
-heat: 70
+heat: 90
 published: true
 
 provider:
@@ -19,6 +19,17 @@ provider:
 
 topics:
   - Azure
+
+related:
+  - title: "Azure App Service regional virtual network integration for Linux apps is now available"
+    excerpt: ""
+    publishedDateTime: 2020-06-11T16:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-app-service-regional-virtual-network-integration-for-linux-apps-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
 
 secured: "Qj76CXmrAOtuVgKhBVViUKIWlM6Nxtta0yH80WPDw5sVmABMtGR9OVUueSGVsM8cmaC/GucQrnYwrCVGyDfNd606Eh5xUEJpjHavZcryWiTrptKEdDWvQkGY2UmpNatxH7usF/zoWALPz9HNOKeo7sSKoeDMI3uFQO+kodyvB7ewYaWKBqBwrGVd+Z8jmnqzoRlRuFZ9DXXrvgPC+HGm1Ko3T/istOojtUq9yLMSkD7Hwekv8iA6NMHu1FsLVLsWEsBgpsONof6cMMIIL99/aYmXVv3aSdgAFeyU+jZ7emfjRm62O6uVXQa+MewKwTXfZzHZ2brT2q9AhHZpJa3odg==;sBKPGI4XWslaD+hVzlIktA=="
 ---
