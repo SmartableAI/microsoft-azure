@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Azure Media Services now supports Live Transcription preview in additional regions"
+title: "Live Video Analytics now in public preview"
 excerpt: ""
-publishedDateTime: 2020-06-10T16:00:21Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-media-services-now-supports-live-transcription-preview-in-additional-regions/"
+publishedDateTime: 2020-06-11T20:00:11Z
+webUrl: "https://azure.microsoft.com/en-us/updates/live-video-analytics-now-in-public-preview/"
 type: article
-quality: 71
+quality: 62
 heat: -1
 published: false
 
@@ -35,16 +35,16 @@ related:
         width: 642
         height: 309
         isCached: true
-  - title: "Live Video Analytics now in public preview"
+  - title: "Azure Media Services now supports Live Transcription preview in additional regions"
     excerpt: ""
-    publishedDateTime: 2020-06-11T20:00:11Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/live-video-analytics-now-in-public-preview/"
+    publishedDateTime: 2020-06-10T16:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-media-services-now-supports-live-transcription-preview-in-additional-regions/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 62
+    quality: 71
 
-secured: "bUX9Pw+inR/pe/uuDkEYQbYpZMonKyaQuJkGyvlRnz3iQ3/O3xIN1lt509ED4xghhmXsRewEhi1JgwPq8zLB1GxIKEcauTIwD+lTNLSRUoXL7ao1TYH61nMZyDA+gAWUvyfHizOXE6w+D5f8g6Sygm2w0m8rJWr0iAcjIWII6Z5kWi1wswlR+Gmy3CMmZVCTPNjvO0/3Bt33nJG1hYDATndPl8nBBMktkdnwAZnNKcYxltewiYwpHSk27wjcWOC9elvTkg3m1yyMdapFj2Az0n5Z9AkDvSFwXMgahO/2f2tm5lSBJuiaWjxAjEVRJMQY7thGqe+4sch+/8zYWAlPDA==;7j0BW3CIqdGg8o2GDXp8YQ=="
+secured: "HsYs0eW0bfFcOucYG/8ubOg6AHFiczH9zx2AVygQ0kYR0dhkuDRteCQ9ZNGPI0SQZ3+q9Z9PstO9aCWC3aKy3++5iwYjUJ9bgkdQ30B98P51Hv0E2LHBq1cbN8B7yI8WjkSbaIHjC/22RIcCUsL8dvNI4Suay2m9HjJHaCfEcjjMXbSEqgi/0kucnpTXCFC2JhB6qTLkiGElq21LrSDOQTnCzQnfY2FLsefBL+gayQ5UPFxpfIaX3ASxAFbIp+4xAe+9xryN/gNuDc7BVU+iJLGKLvFkZMmt/oHVTBcp1lTGp+LiY/qIsn3U9ZO7ayDwre5DxmWh4zA0/h+ZDcp+lg==;5PDnYG9aWWcEqfYZjj0nNg=="
 ---
 

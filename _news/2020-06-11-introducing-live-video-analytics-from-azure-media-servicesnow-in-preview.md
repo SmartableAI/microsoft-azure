@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-11T11:30:23Z
 webUrl: "https://azure.microsoft.com/blog/introducing-live-video-analytics-on-iot-edge-now-in-preview/"
 type: article
 quality: 106
-heat: 126
+heat: 146
 published: true
 
 provider:
@@ -37,6 +37,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 71
+  - title: "Live Video Analytics now in public preview"
+    excerpt: ""
+    publishedDateTime: 2020-06-11T20:00:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/live-video-analytics-now-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 62
 
 secured: "WXVkz7W6tQt6enYK2YJBR/YTzWJhTdNfKbNNB+YqlcBvW8vQ8ivTaA2yD11UpP54ZAHCo8x/hlTAlTEfJ7M+TOkTsPtMeQICH0ldFRvClHkDai/oy2yRXNfS97LsPKPsVsQZAdS7X5Q4QGHi6HHIhSPhF+GiQ1xrWA/BTPQr4YrJiJvc8nCnFl55mPacnWYanvy9LNyhlKTZGOAJqFWjmQiaT0Y2hpP/MYAxLFEBD7xmudTrBulLczvf14RyWkpt4aGT+2/8wKFbtBI6H/NOsU9cA+wuubdJQ683mBCHd5n9KoFigjZEMsqJIVaVEZJLYorksbY/NMZWFhuh+kRqaw==;RdoMKNP0RLFfxv7MvVSHxA=="
 ---
