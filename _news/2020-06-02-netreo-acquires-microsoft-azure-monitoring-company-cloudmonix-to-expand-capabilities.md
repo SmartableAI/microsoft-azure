@@ -1,19 +1,17 @@
 ---
 category: news
 title: "Netreo Acquires Microsoft Azure Monitoring Company CloudMonix To Expand Capabilities"
-excerpt: "CloudMonix, a Chicago-based cloud infrastructure monitoring company specializing in advanced insight into system performance, auto-scaling of resources, automation of issue resolution and self-healing to ensure uninterrupted service."
+excerpt: "Dashboard detailing key Microsoft Azure metrics captured by the CloudMonix platform. Huntington Beach, Calif., June 02, 2020 (GLOBE NEWSWIRE) -- Netreo, the award-winning platform for IT ..."
 publishedDateTime: 2020-06-02T15:01:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/06/g16160732/netreo-acquires-microsoft-azure-monitoring-company-cloudmonix-to-expand-capabilities"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16160732"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16160732"
+webUrl: "https://www.globenewswire.com/news-release/2020/06/02/2042399/0/en/Netreo-Acquires-Microsoft-Azure-Monitoring-Company-CloudMonix-To-Expand-Capabilities.html"
 type: article
-quality: 40
-heat: 40
+quality: 10
+heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: GlobeNewswire
+  domain: globenewswire.com
 
 topics:
   - Azure
@@ -43,6 +41,6 @@ related:
       domain: channele2e.com
     quality: 17
 
-secured: "ncfhEg86EstMZYA1LH90TgWr6XDpz8nuO6LGXm305wXEPw/cDztE2NMJZsOaTDsxzGDaqoX3P+RwhVLz3DV3r/mnaWkc5lMkYU59Ob1aOG2XaouLn1xpGSTwN+w9h4tWeDun5ksqVZ6+i7h8zJeLQL+uDYbw/BzfLQMqU5aOnp8U0FvlcCkqaTLSjiThOkowun1iqocyVynyCh10iOLgKqmWirYaoNzZYIm+uYCKcoE5ocdbRytnarN+v+6vH1Uwy5Bj+NtgzQoEfVuv1eSzGJKZ+I4l9WbQTbwILZlbPeB49OeUZJJ344Qi0UFEF8BO;o1DZF2idg+JUQmCebJVyXA=="
+secured: "O+nThQTkYo1UYokBA6hn0/X6r0iCjIC9FETSKg/VCs3/kjoPj1HYEsaHk+qhD2h+FfJQRjwvmGNWChis38JbBOWJrAvoPNdB4C3AsOU4mUrngAONflwYsDsQNsXlayrpK5Xz5ZmCoUyIstbiX6eqH/IIhoyUakZ9tPoMBAY5z4C2X37T8uyNaNphQmpDu8qaL13MwXdHvf8Ojt61EDJOURCV1epxje0E8MQj3Ti/LgM8VQtGdp2Me0Gcv8/7R1AngWmSXw9J4cOxfk4fleMlb5ffuhPA6jfk1CNGYEQAkWe3E4Ihst1Wt1YZDQU8MBm9;1Kc+VHbcuhnLFI13PNQAzQ=="
 ---
 
