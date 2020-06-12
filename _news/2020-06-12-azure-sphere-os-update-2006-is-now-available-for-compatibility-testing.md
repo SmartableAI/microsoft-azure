@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Azure Cosmos DB Java SDK 4.0 for Core (SQL) API release now in general availability"
+title: "Azure Sphere OS update 20.06 is now available for compatibility testing"
 excerpt: ""
-publishedDateTime: 2020-06-10T16:00:14Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-java-sdk-40-for-core-sql-api-release-now-in-general-availability/"
+publishedDateTime: 2020-06-12T20:00:24Z
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-update-2006-is-now-available-for-compatibility-testing/"
 type: article
-quality: 71
+quality: 77
 heat: -1
 published: false
 
@@ -39,15 +39,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Azure Sphere OS update 20.06 is now available for compatibility testing"
+  - title: "Azure Cosmos DB Java SDK 4.0 for Core (SQL) API release now in general availability"
     excerpt: ""
-    publishedDateTime: 2020-06-12T20:00:24Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-update-2006-is-now-available-for-compatibility-testing/"
+    publishedDateTime: 2020-06-10T16:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-java-sdk-40-for-core-sql-api-release-now-in-general-availability/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 71
   - title: "Azure Monitor for containers now supports log collection on AKS Windows node pools (in preview)"
     excerpt: ""
     publishedDateTime: 2020-06-04T18:00:27Z
@@ -58,6 +58,6 @@ related:
       domain: microsoft.com
     quality: 65
 
-secured: "0KyyVAthT+UI/EBguv/mp5a30R1iJ9yvf8lJJWfKWHtD7N64x3rpbtSIn2769TOeg8XLcMp3qbbB6Me0jwRHm8Y0uWBr29yQM1gacjxT/ykSqrFzX5HhiClr0Aa1hGE2eO1UrjtzlM+pIZ3YWa0cZ4k3WFHPbInlpUcb5rxmAhjBKYO0tCwI+be4KZli+XN692/FxaA45Ra785vJMTfURFzeGrxqj3sDeNEkzLHABcw0VPQ2KBC3v651/wPrGkqgB0hPsxeAPFjJpOSCp1BLbw1Y42Gn4ieAfmfhkFK5tfqSZAj2hn+6f/DNEee0cuut7N0fDHwg2v6e/0XQ0eKAxw==;eGcCKMSFuf40ZP7Oaz9XMQ=="
+secured: "GbxwPlVWJoiGKZf0NIKd3p3q+KZrtMgUZOOEFkodJ+TgO7tU6vFFaPj/wcxmdpI5oWtDBddT7Q+idlPjB57RkHQVLqJ+N1qiJWDo735vci0Dv+/7O8oIEY7Kae83jeN95TphWA85NLq7AtctaO+GfU8BWYqqQXGCJCwPUjj5adcjIr6wuJ7LLhdSDYPkDzdeEUXDyKq2Lqpqnz77ewlXZT98acF4LGdBGRNNlH+qOBsqY9Y/n/sDHFw1oQVmK3ukNhkQKMg5VE3NqIzBAMTCD4PBKc1+ggWrLAS1nxfjAWz+ktY6yKE71Hgu6y6VAfyNpTSgfqIwvnYUlHG7yB9GBQ==;QT3GRPm6HGks4Zg3+NDqpg=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-10T12:00:14Z
 webUrl: "https://azure.microsoft.com/blog/azure-machine-learning-what-s-new-from-build-2020/"
 type: article
 quality: 124
-heat: 124
+heat: 125
 published: true
 
 provider:

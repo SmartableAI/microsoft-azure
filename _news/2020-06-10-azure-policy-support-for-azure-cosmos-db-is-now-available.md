@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-10T16:00:15Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-policy-support-for-azure-cosmos-db-is-now-available/"
 type: article
 quality: 77
-heat: 137
+heat: 157
 published: true
 
 provider:
@@ -25,6 +25,15 @@ related:
     excerpt: ""
     publishedDateTime: 2020-06-11T16:00:15Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-app-service-hybrid-connections-for-linux-apps-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure Sphere OS update 20.06 is now available for compatibility testing"
+    excerpt: ""
+    publishedDateTime: 2020-06-12T20:00:24Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-update-2006-is-now-available-for-compatibility-testing/"
     type: article
     provider:
       name: Microsoft

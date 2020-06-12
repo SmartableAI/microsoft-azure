@@ -5,10 +5,20 @@
       "path": "_news/2020-05-04-manage-and-find-data-with-blob-index-for-azure-storagenow-in-preview.md",
       "title": "Manage and find data with Blob Index for Azure Storage—now in preview",
       "excerpt": " \r\n\r\nBlob Index—a managed secondary index, allowing you to store multi-dimensional object attributes to describe your data objects for Azure Blob storage—is now available in preview. Built on top of blob storage, Blob Index offers consistent reliability, availability, and performance for all your workloads.",
+      "webUrl": "https://azure.microsoft.com/blog/manage-and-find-data-with-blob-index-for-azure-storage-now-in-preview/",
       "heat": 224,
       "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/92cec444-9b04-4e3c-9250-2af9a918d97d.png",
+          "width": 1024,
+          "height": 644,
+          "title": "Manage and find data with Blob Index for Azure Storage—now in preview",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/manage-and-find-data-with-blob-index-for-azure-storage-now-in-preview/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-04T03:00:03-07:00",
@@ -29,16 +39,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/92cec444-9b04-4e3c-9250-2af9a918d97d.png",
-          "width": 1024,
-          "height": 644,
-          "title": "Manage and find data with Blob Index for Azure Storage—now in preview",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -52,10 +52,20 @@
       "path": "_news/2020-04-30-cross-region-restore-crr-for-azure-virtual-machines-using-azure-backup.md",
       "title": "Cross Region Restore (CRR) for Azure Virtual Machines using Azure Backup",
       "excerpt": "Today we're indroducing the preview of Cross Region Restore (CRR) for Microsoft Azure Virtual Machines (VMs) support using Microsoft Azure Backup.\r\n\r\nAzure Backup uses Recovery Services vault to hold customers' backup data which offers both local and geographic redundancy. To ensure high availability",
+      "webUrl": "https://azure.microsoft.com/blog/cross-region-restore-crr-for-azure-virtual-machines-using-azure-backup/",
       "heat": 145,
       "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/b8495529-cdab-454f-ac29-78f63339532e.jpg",
+          "width": 755,
+          "height": 385,
+          "title": "Cross Region Restore (CRR) for Azure Virtual Machines using Azure Backup",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/cross-region-restore-crr-for-azure-virtual-machines-using-azure-backup/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-04-30T02:00:07-07:00",
@@ -76,16 +86,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/b8495529-cdab-454f-ac29-78f63339532e.jpg",
-          "width": 755,
-          "height": 385,
-          "title": "Cross Region Restore (CRR) for Azure Virtual Machines using Azure Backup",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -100,10 +100,20 @@
       "path": "_news/2020-04-29-azure-files-share-snapshot-management-by-azure-backup-is-now-generally-available.md",
       "title": "Azure Files share snapshot management by Azure Backup is now generally available",
       "excerpt": "Microsoft Azure Files offers fully managed file shares in the cloud that are accessible via the industry standard Server Message Block (SMB) protocol. For users of Azure Files, share snapshots have offered a read-only version of file shares from a previous point in time. Share snapshots are also incremental",
+      "webUrl": "https://azure.microsoft.com/blog/azure-files-share-snapshot-management-by-azure-backup-is-now-generally-available/",
       "heat": 264,
       "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/202fa2d1-fc33-41eb-94be-957327f62b0d.jpg",
+          "width": 1024,
+          "height": 608,
+          "title": "Azure Files share snapshot management by Azure Backup is now generally available",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/azure-files-share-snapshot-management-by-azure-backup-is-now-generally-available/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-04-29T02:00:53-07:00",
@@ -124,16 +134,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/202fa2d1-fc33-41eb-94be-957327f62b0d.jpg",
-          "width": 1024,
-          "height": 608,
-          "title": "Azure Files share snapshot management by Azure Backup is now generally available",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -147,10 +147,20 @@
       "path": "_news/2020-03-04-announcing-preview-of-backup-reports.md",
       "title": "Announcing preview of Backup Reports",
       "excerpt": "We recently announced a new solution, Backup Explorer, to enable you as a backup administrator to perform real-time monitoring of your backups, helping you achieve increased efficiency in your day-to-day operations.\r\n\r\nBut what if you could also be proactive in the way you manage your backup estate?",
+      "webUrl": "https://azure.microsoft.com/blog/announcing-preview-of-backup-reports/",
       "heat": 94,
       "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/600faadc-ac5d-43de-9372-8732aab7abbc.png",
+          "width": 733,
+          "height": 793,
+          "title": "Announcing preview of Backup Reports",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/announcing-preview-of-backup-reports/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-03-04T01:00:00-08:00",
@@ -171,16 +181,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/600faadc-ac5d-43de-9372-8732aab7abbc.png",
-          "width": 733,
-          "height": 793,
-          "title": "Announcing preview of Backup Reports",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -194,10 +194,20 @@
       "path": "_news/2020-02-18-azure-offline-backup-with-azure-data-box-now-in-preview.md",
       "title": "Azure Offline Backup with Azure Data Box now in preview",
       "excerpt": "An ever-increasing number of enterprises, even as they adopt a hybrid IT strategy, continue to retain mission-critical data on-premises and look towards the public cloud as an effective offsite for their backups. Azure Backup—Azure’s built-in data-protection solution, provides a simple, secure, and cost-effective",
+      "webUrl": "https://azure.microsoft.com/blog/azure-offline-backup-with-azure-data-box-now-in-preview/",
       "heat": 109,
       "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/3480941d-7a91-4521-b196-d0bbab7c616b.png",
+          "width": 1054,
+          "height": 581,
+          "title": "Azure Offline Backup with Azure Data Box now in preview",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/azure-offline-backup-with-azure-data-box-now-in-preview/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-02-18T01:00:13-08:00",
@@ -218,16 +228,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/3480941d-7a91-4521-b196-d0bbab7c616b.png",
-          "width": 1054,
-          "height": 581,
-          "title": "Azure Offline Backup with Azure Data Box now in preview",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -241,10 +241,20 @@
       "path": "_news/2020-02-05-backup-explorer-now-available-in-preview.md",
       "title": "Backup Explorer now available in preview",
       "excerpt": "As organizations continue to expand their use of IT and the cloud, protecting critical enterprise data becomes extremely important. And if you are a backup admin on Microsoft Azure, being able to efficiently monitor backups on a daily basis is a key requirement to ensuring that your organization has",
+      "webUrl": "https://azure.microsoft.com/blog/backup-explorer-now-available-in-preview/",
       "heat": 114,
       "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f68dd946-126d-46ef-a94a-c336a605aa9b.jpg",
+          "width": 1024,
+          "height": 693,
+          "title": "Backup Explorer now available in preview",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/backup-explorer-now-available-in-preview/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-02-05T00:00:05-08:00",
@@ -265,16 +275,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f68dd946-126d-46ef-a94a-c336a605aa9b.jpg",
-          "width": 1024,
-          "height": 693,
-          "title": "Backup Explorer now available in preview",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -288,10 +288,11 @@
       "path": "_news/2019-12-16-better-performance-with-bursting-enhancement-on-azure-disks.md",
       "title": "Better performance with bursting enhancement on Azure Disks",
       "excerpt": "We introduced the preview of bursting support on Azure Premium SSD Disks, and new disk sizes 4/8/16 GiB on both Premium & Standard SSDs at Microsoft Ignite in November. We would like to share more details about it. With bursting, eligible Premium SSD disks can now achieve up to 30x of the provisioned",
+      "webUrl": "https://azure.microsoft.com/blog/better-performance-with-bursting-enhancement-on-azure-disks/",
       "heat": 79,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/better-performance-with-bursting-enhancement-on-azure-disks/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2019-12-16T00:00:01-08:00",
@@ -312,7 +313,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -326,10 +326,11 @@
       "path": "_news/2019-12-03-extended-filesystem-programming-capabilities-in-azure-data-lake-storage.md",
       "title": "Extended filesystem programming capabilities in Azure Data Lake Storage",
       "excerpt": "Since the general availability of Azure Data Lake Storage Gen2 in February 2019, customers have been getting insights at cloud scale faster than ever before. Integration to analytics engines is critical for their analytics workloads and equally important is the ability to programmatically ingest, manage,",
+      "webUrl": "https://azure.microsoft.com/blog/extended-filesystem-programming-capabilities-in-azure-data-lake-storage/",
       "heat": 79,
       "tags": null,
+      "images": null,
       "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/extended-filesystem-programming-capabilities-in-azure-data-lake-storage/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2019-12-03T03:00:12-08:00",
@@ -350,7 +351,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -364,10 +364,20 @@
       "path": "_news/2019-11-26-multi-protocol-access-on-data-lake-storage-now-generally-available.md",
       "title": "Multi-protocol access on Data Lake Storage now generally available",
       "excerpt": "We are excited to announce the general availability of multi-protocol access for Azure Data Lake Storage. Azure Data Lake Storage is a unique cloud storage solution for analytics that offers multi-protocol access to the same data. This is a no-compromise solution that allows both the Azure Blob Storage",
+      "webUrl": "https://azure.microsoft.com/blog/multi-protocol-access-on-data-lake-storage-now-generally-available/",
       "heat": 134,
       "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/b83238b4-dba1-4651-8eac-217459a4b753.png",
+          "width": 1024,
+          "height": 471,
+          "title": "Multi-protocol access on Data Lake Storage now generally available",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/multi-protocol-access-on-data-lake-storage-now-generally-available/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2019-11-26T05:00:34-08:00",
@@ -388,16 +398,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/b83238b4-dba1-4651-8eac-217459a4b753.png",
-          "width": 1024,
-          "height": 471,
-          "title": "Multi-protocol access on Data Lake Storage now generally available",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -411,10 +411,20 @@
       "path": "_news/2019-11-21-azure-backup-support-for-sql-server-2019-and-restore-as-files.md",
       "title": "Azure Backup support for SQL Server 2019 and restore as files",
       "excerpt": "As SQL Server 2019 continues to push the boundaries of availability, performance, and data intelligence, a centrally managed, enterprise-scale backup solution is imperative to ensure the protection of all that data. This is especially true if you are running the SQL Server in the cloud to leverage the",
+      "webUrl": "https://azure.microsoft.com/blog/azure-backup-support-for-sql-server-2019-and-restore-as-files/",
       "heat": 109,
       "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/eda6a05e-75d3-47ed-88c2-0ae27e75ec3e.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Azure Backup support for SQL Server 2019 and restore as files",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/azure-backup-support-for-sql-server-2019-and-restore-as-files/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2019-11-21T05:00:16-08:00",
@@ -435,16 +445,6 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/eda6a05e-75d3-47ed-88c2-0ae27e75ec3e.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Azure Backup support for SQL Server 2019 and restore as files",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

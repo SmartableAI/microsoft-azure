@@ -30,6 +30,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Azure Sphere OS update 20.06 is now available for compatibility testing"
+    excerpt: ""
+    publishedDateTime: 2020-06-12T20:00:24Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-update-2006-is-now-available-for-compatibility-testing/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Azure Cosmos DB Java SDK 4.0 for Core (SQL) API release now in general availability"
     excerpt: ""
     publishedDateTime: 2020-06-10T16:00:14Z

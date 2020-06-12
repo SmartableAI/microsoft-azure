@@ -17,19 +17,21 @@ topics:
   - Azure
 
 related:
-  - title: "Vectra AI Offers a Security Assist to Microsoft Defender ATP and Azure Sentinel"
-    excerpt: "The eight-year-old, San Jose, Calif.-based Vectra attracted $100 million in a Series E funding round last June in part due to growing interest in its approach to network threat detection and response (NDR)."
-    publishedDateTime: 2020-06-09T19:23:00Z
-    webUrl: "https://rcpmag.com/blogs/scott-bekker/2020/06/ai-security-for-azure.aspx"
+  - title: "Hackers Target Microsoft Azure Servers to Illegally Mine Crypto"
+    excerpt: "The machine learning cluster of Microsoft Azure cloud computing services has become the recent target of hackers for mining digital currencies."
+    publishedDateTime: 2020-06-12T19:36:00Z
+    webUrl: "https://www.financemagnates.com/cryptocurrency/news/hackers-target-microsoft-azur-servers-to-illegally-mine-crypto/"
+    ampWebUrl: "https://www.financemagnates.com/cryptocurrency/news/hackers-target-microsoft-azur-servers-to-illegally-mine-crypto/amp/"
+    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/cryptocurrency/news/hackers-target-microsoft-azur-servers-to-illegally-mine-crypto/amp/"
     type: article
     provider:
-      name: Redmond Channel Partner
-      domain: rcpmag.com
-    quality: 43
+      name: Finance Magnates
+      domain: financemagnates.com
+    quality: 77
     images:
-      - url: "https://rcpmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2019/BlueGreenCircuts.jpg"
-        width: 647
-        height: 450
+      - url: "https://www.financemagnates.com/wp-content/uploads/2015/12/microsoft.jpg"
+        width: 880
+        height: 400
         isCached: true
 
 secured: "UWnQ2gLLDbPsZi497/74SN0Mw0RBan17g7jlvfXRrniLvV8bhHyWk9DpCR/A4Pr9nEkoZcPp9YOKhBv+f0g49JWX/GDVE7dOkpYWIJQWlLNVvEp2/Ln6Sl6CK6wlQ/rORWWYO/kiQa2Pwd6pFvueO9yBmFH346D0mtHaBXsXJT9JdCg+M+muVTHcgLrD0+u3j7dA8OG1Y3eA5dERd46ZGuXiUEQDHJr1xHM0+8UvNcV3FybibPCfHtW31P54aZuxKQyXQMQShbqYmfuSznJg4shroD+K7z1rE99vBbm5S4u2IgDbKMt6exK4ABXA/SCb;El1kGhHQR1pzkkUEPp+63w=="

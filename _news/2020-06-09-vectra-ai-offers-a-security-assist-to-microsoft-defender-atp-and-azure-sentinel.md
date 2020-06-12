@@ -23,17 +23,6 @@ images:
     isCached: true
     title: "Vectra AI Offers a Security Assist to Microsoft Defender ATP and Azure Sentinel"
 
-related:
-  - title: "Richardson RFPD Now Offers Microsoft Azure Services"
-    excerpt: "Richardson RFPD, Inc., an Arrow Electronics company, announced today that it has joined the Microsoft Cloud Solution Provider program and is now offer"
-    publishedDateTime: 2020-06-10T13:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200610005093/en/Richardson-RFPD-Offers-Microsoft-Azure-Services"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 17
-
 secured: "XoxXfDQEwvuXEij9aPsiraacEPvDp6+bSRxKUa/hz3TgeeA4JQODtOfQiuDcay0nYUmiwRwxj4baIzKTrrRW1mnX10+Po1JU4iwoo25SWSgCo7gVuny4//Dx6Yw47q9+WpgEMsFbBWJkrv2G+Y+Hz/aS8+ljWJcb7z0CNjQAdLIBjOkEP6FlfkBqzGmdCW/QUbdrDjASz+U/I2WnWCdT1b7J0AxAkLFffagoPvN1FpdQH5jufd7yXoydyBWTUEgfb0dXvfCdPg7dVEH5/9fu5SeyXwdvmbHg4TzMHbcycn/9voCqwwsEoH6Zr+7YcIqdcssXZiT/EhqbsfLht2XsuTZpe3wRVKMq80mmxSHppeLqR2DoxXZdaLoWuswaJJOO8w/l9wL7ZMnQWjFItHygOgt1FZ/B1LVvRv0rBOmUxW+BppOC1t7O3tEx4Q8vs5iO4fRBN9NG7hvY8SMQ5zoRj0ZaPv3E8gHXKeoR2fu+llwVGkisqaQwGRJRfdHSdHkS;8YGSD3mV1JtXbpwyttT9Dg=="
 ---
 
