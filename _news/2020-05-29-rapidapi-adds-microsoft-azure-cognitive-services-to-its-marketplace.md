@@ -149,6 +149,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Europe’s Gaia-X Counters Amazon AWS, Microsoft Azure, Google Cloud"
+    excerpt: "X, backed by European governments & local technology companies, seeks to offer open standards alternatives to Amazon AWS, Microsoft Azure, Google Cloud Platform & Alibaba Cloud."
+    publishedDateTime: 2020-06-05T15:28:00Z
+    webUrl: "https://www.channele2e.com/channel-partners/csps/europes-gaia-x-counters-aws-azure-google-cloud/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 17
 
 secured: "gxrd6WS/D8uZwiA/1pOLlWoXzuJ8sfXJIdnpd1pe+c8HPrEhb3EiErrA/njScTo3+DwYU+oPqXdfMm4U1Og7uhoWQr1AaRhsLD/v1+kwS+Y3xgqvack9xk1P9zqrS3OcvKiEyosfb/wgA2OvGRAX/vxKpElQHEbrUbBmrk3Y4v0CDxTB9M0r4c0nxVkYLDyWCcr2FwrVukbRQpLa9tpbRWyRX0nUijPXmgy/q1ogVgkuH1XjAJcR+RMigW9n09/l5qhVGyoNu7KOPczhf7vMPoPWw11lhgv3LY7h+SYdUyA2HCsxWRHWj4tCar/OSP3JhrE5j4pcQW5bkCdFmdrSfSVTiMnKkZ+uqpSIU6UADDcpz0V5FXtYExukt6myqzXUi/51hEyf6w/Hb6wIcYPc8ddsnhuwo+krs3Ou5/XsGTqaVuiquLuHXzGAvD3gfzvCAD79U4RbnhkAGJ4rO5AZuRQU4gom1VwkdexmdfDxkf4=;NBWbHHpJmG+3MKBsV7ypdw=="
 ---

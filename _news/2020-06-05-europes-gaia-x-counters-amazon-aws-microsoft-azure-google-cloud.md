@@ -1,21 +1,17 @@
 ---
 category: news
-title: "Microsoft and Oracle to interconnect Microsoft Azure and Oracle Cloud"
-excerpt: "Before it's here, it's on the Bloomberg Terminal."
-publishedDateTime: 2020-05-31T18:14:00Z
-webUrl: "https://www.bloomberg.com/press-releases/2019-06-05/microsoft-and-oracle-to-interconnect-microsoft-azure-and-oracle-cloud"
+title: "Europe’s Gaia-X Counters Amazon AWS, Microsoft Azure, Google Cloud"
+excerpt: "X, backed by European governments & local technology companies, seeks to offer open standards alternatives to Amazon AWS, Microsoft Azure, Google Cloud Platform & Alibaba Cloud."
+publishedDateTime: 2020-06-05T15:28:00Z
+webUrl: "https://www.channele2e.com/channel-partners/csps/europes-gaia-x-counters-aws-azure-google-cloud/"
 type: article
-quality: 57
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: ChannelE2E
+  domain: channele2e.com
 
 topics:
   - Azure
@@ -81,6 +77,15 @@ related:
         width: 640
         height: 359
         isCached: true
+  - title: "Microsoft and Oracle to interconnect Microsoft Azure and Oracle Cloud"
+    excerpt: "Before it's here, it's on the Bloomberg Terminal."
+    publishedDateTime: 2020-05-31T18:14:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2019-06-05/microsoft-and-oracle-to-interconnect-microsoft-azure-and-oracle-cloud"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 57
   - title: "NXP expands partnership with Microsoft Azure RTOS"
     excerpt: "NXP Semiconductors has expanded its partnership with Microsoft to bring Microsoft Azure real-time operating system (RTOS) to a broader range of processing solutions from its EdgeVerse portfolio."
     publishedDateTime: 2020-05-27T15:40:00Z
@@ -151,16 +156,7 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Europe’s Gaia-X Counters Amazon AWS, Microsoft Azure, Google Cloud"
-    excerpt: "X, backed by European governments & local technology companies, seeks to offer open standards alternatives to Amazon AWS, Microsoft Azure, Google Cloud Platform & Alibaba Cloud."
-    publishedDateTime: 2020-06-05T15:28:00Z
-    webUrl: "https://www.channele2e.com/channel-partners/csps/europes-gaia-x-counters-aws-azure-google-cloud/"
-    type: article
-    provider:
-      name: ChannelE2E
-      domain: channele2e.com
-    quality: 17
 
-secured: "rgH0IfMqUzgsNuCjvf2L3aFfpVQvazncij4+cqNy0FUVci42wCyxTfqrRnSDSfFUkc7kOznS9hZMsSYXJuQm8NJGskro1fHQ76Gld5PSod7Qn8f8IB+CApMbx6zd80seSuMNJd4+en/scxbw3AxhF2Xzsirz4tU2lHPMTkZpzbu7kC2p/3UlnRjBm+IjUAoXatXqaS8uOw3SeBjJzMx7t/3e2sWohpc6f29D2JKQPjHcWjQlNqX7ME8fE1gZWZGRRKub1iiFfxEzGnuCoP/kqhGHCOAJUU0SpptWSJnl1iSO+w+VpfwRoIsmWKkNdyk1;c7LFAi4/8zz6+ya8vteGzA=="
+secured: "2/xL5isU7An+AU2BuWt9jNJkZdg8tPh03yZTQfuduP6DIqvvAnnwK6ENvWqDamdeUA8nXpEv8EjPtpPYP+8GHCDYUpPSCE6xmwM0vaeHlxNz+lkEF+FufZ2x2k0lfXRwm9wSDXuim+4/OISgoIH3g6IOs33ZSlZN+bKA9UOe1CYbvp+8ibdiOXAAOV/nw2Xakqhpv7kE9fjzEL+8Y/SGs8+qVVAglSfcaFZdKmTYQZuI/qgYTdyFlnVsnPbtW1mzB6qLwSGQLJMiw/LkpaNSfXbgrTJfkMumIjCve1Yn6ARbRccVCTH3erRr1f4rBRzSJ7OaInWdLSEEC5u1W5A3O0hqRup1DclhpAG/xn0cVRjTWTy4jCGzwuCthewzUJxK1i+R+15/pgrvYg65NTRuERJdPYac9qjq0FakP9Sk9xv9gyM9PDyf6WbfeCBqxyAOt2QQTvdCTmf9kWWYkoldXahJ9Z3FMQZVfYcPXXNH9Ctcsa1xgQEMBxRUIleLhqhEl4GEjgxovbwaHl3SCZwpwA==;bfDb/llsUnw36jXGS1RoTQ=="
 ---
 

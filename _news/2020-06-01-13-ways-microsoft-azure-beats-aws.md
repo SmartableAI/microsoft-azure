@@ -8,7 +8,7 @@ ampWebUrl: "https://www.infoworld.com/article/3319777/13-ways-microsoft-azure-be
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.amp.html"
 type: article
 quality: 97
-heat: 277
+heat: 297
 published: true
 
 provider:
@@ -153,6 +153,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Europe’s Gaia-X Counters Amazon AWS, Microsoft Azure, Google Cloud"
+    excerpt: "X, backed by European governments & local technology companies, seeks to offer open standards alternatives to Amazon AWS, Microsoft Azure, Google Cloud Platform & Alibaba Cloud."
+    publishedDateTime: 2020-06-05T15:28:00Z
+    webUrl: "https://www.channele2e.com/channel-partners/csps/europes-gaia-x-counters-aws-azure-google-cloud/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 17
 
 secured: "2tN1emLr7OBJbUQpHSUhm0uQhDTkzNjz6obialR73mxhN9yBrBjI1fgKOZK/id9X0utw7gb02SScBX5/uzhBscC3Zm0bDETiO7mkT4n/dZCTarnh8FkcOW70aRPjeYR9VvxlrxwxbWe2iYntj50y3bBcb52+mIB90KeDaHhYPcLuDxXat7MjYqREyobXwausuXZxpLtWL2OMoOoP2JAUP/FaXaB0sdFuhvFHJbFRqRZc5+0t3befu9tpEgDmN8mlPoFZz00BAW4qBA0Ws5V9mix6BwuD+58Zg1cB5Sl6Dx5vk4NIHTDUcRelVgJTrg/7HAp9eRF5+k6x8ZHNru0Z2mHDw1oCvGYiDrDUEh2QcbeAONNCjXH0BR948WgfwymEjyJfISTuvuBZOeSVKdzxAyKsS3ifvQEQwzNjVPXQv2jtQs7rzBKjNtP1nErXfFIqoe6uzxUxsiIFzA1+d4KskCC1j7lV21lDXn/yftSq+Bg=;G8S2d4hP3GilIoHqKDCasQ=="
 ---
