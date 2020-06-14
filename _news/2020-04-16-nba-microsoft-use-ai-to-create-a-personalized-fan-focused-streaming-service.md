@@ -7,7 +7,7 @@ webUrl: "https://www.digitaltrends.com/home-theater/nba-microsoft-new-streaming-
 ampWebUrl: "https://www.digitaltrends.com/home-theater/nba-microsoft-new-streaming-service/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home-theater/nba-microsoft-new-streaming-service/?amp"
 type: article
-quality: 98
+quality: 78
 heat: -1
 published: false
 
@@ -45,7 +45,7 @@ related:
     provider:
       name: Engadget
       domain: engadget.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2Fe672f1f0-8016-11ea-bf7d-a13ca0c61986&client=amp-blogside-v2&signature=d0bc9b0731e9556c551afdfd5caddca0b0c3a3c3"
         width: 600
@@ -63,7 +63,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 69
+    quality: 59
     images:
       - url: "https://i.insider.com/5e6bd9bd84159f6e8f786846?width=1200&format=jpeg"
         width: 1200

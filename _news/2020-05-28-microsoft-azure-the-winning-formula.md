@@ -27,7 +27,7 @@ related:
     provider:
       name: PC Magazine
       domain: pcmag.com
-    quality: 117
+    quality: 97
     images:
       - url: "https://i.pcmag.com/imagery/articles/00TYN1x1sWt95nJKOcFrn8y-1.fit_lim.size_1200x630.v_1590154031.jpg"
         width: 1120
@@ -41,7 +41,7 @@ related:
     provider:
       name: Redmond Channel Partner
       domain: rcpmag.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BrightTunnelSmall.jpg"
         width: 647
@@ -55,7 +55,7 @@ related:
     provider:
       name: Thurrott
       domain: thurrott.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/05/windows-terminal.jpg"
         width: 1280

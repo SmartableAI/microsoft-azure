@@ -7,8 +7,8 @@ webUrl: "https://mspoweruser.com/report-microsoft-leads-the-iot-platform/"
 ampWebUrl: "https://mspoweruser.com/report-microsoft-leads-the-iot-platform/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/report-microsoft-leads-the-iot-platform/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 39
+heat: 39
 published: false
 
 provider:

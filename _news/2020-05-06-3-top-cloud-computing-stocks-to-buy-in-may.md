@@ -7,8 +7,8 @@ webUrl: "https://www.fool.com/investing/2020/05/06/3-top-cloud-computing-stocks-
 ampWebUrl: "https://www.fool.com/amp/investing/2020/05/06/3-top-cloud-computing-stocks-to-buy-in-may.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/3-top-cloud-computing-stocks-to-buy-in-may.aspx"
 type: article
-quality: 102
-heat: 142
+quality: 82
+heat: 122
 published: true
 
 provider:
@@ -44,7 +44,7 @@ related:
     provider:
       name: MacRumors
       domain: macrumors.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://images.macrumors.com/article-new/2020/05/icloudfiles.jpg"
         width: 1480
@@ -60,7 +60,7 @@ related:
     provider:
       name: InvestorPlace
       domain: investorplace.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://investorplace.com/wp-content/uploads/2020/03/bear-market.jpg"
         width: 1600

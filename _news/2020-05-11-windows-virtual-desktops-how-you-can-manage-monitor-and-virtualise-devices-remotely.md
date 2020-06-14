@@ -7,7 +7,7 @@ webUrl: "https://www.techrepublic.com/article/windows-virtual-desktops-how-you-c
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/windows-virtual-desktops-how-you-can-manage-monitor-and-virtualise-devices-remotely/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/windows-virtual-desktops-how-you-can-manage-monitor-and-virtualise-devices-remotely/"
 type: article
-quality: 95
+quality: 75
 heat: -1
 published: false
 
@@ -38,7 +38,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 105
+    quality: 95
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8a177079-5ce9-44bd-97bb-ebcc6c30eaa0.png"
         width: 1024

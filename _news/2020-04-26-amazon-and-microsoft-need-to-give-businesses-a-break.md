@@ -7,7 +7,7 @@ webUrl: "https://www.seattletimes.com/business/amazon-and-microsoft-need-to-give
 ampWebUrl: "https://www.seattletimes.com/business/amazon-and-microsoft-need-to-give-businesses-a-break/?amp=1"
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/amazon-and-microsoft-need-to-give-businesses-a-break/?amp=1"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 100
+    quality: 80
     images:
       - url: "https://cnet4.cbsistatic.com/img/EPYaz_DlJY7PMJKlvlnwMTSlej0=/756x567/2020/04/28/63f9ebde-a7ac-489b-b5c7-7587c6ab3279/ibm-system-one-quantum-ces-2020.jpg"
         width: 756
@@ -45,7 +45,7 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 100
+    quality: 80
     images:
       - url: "https://cnet4.cbsistatic.com/img/EPYaz_DlJY7PMJKlvlnwMTSlej0=/756x567/2020/04/28/63f9ebde-a7ac-489b-b5c7-7587c6ab3279/ibm-system-one-quantum-ces-2020.jpg"
         width: 756
@@ -62,7 +62,7 @@ related:
     provider:
       name: Data Center Knowledge
       domain: datacenterknowledge.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/satya%20nadella%20microsoft%20mwc%202019%20barcelona%20getty.jpg"
         width: 1024

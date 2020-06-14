@@ -5,7 +5,7 @@ excerpt: "Broadens Availability of its UCaaS Solutions to 75 Million Active Dail
 publishedDateTime: 2020-05-27T13:00:00Z
 webUrl: "https://www.marketwatch.com/press-release/digerati-technologies-launches-its-microsoft-teamsr-offering-with-success-2020-05-27"
 type: article
-quality: 70
+quality: 60
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 71
+    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -50,7 +50,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 61
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -64,7 +64,7 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://mms.businesswire.com/media/20200520005045/en/792654/23/LoginVSI_logo_RGB_primary_110419.jpg"
         width: 1200

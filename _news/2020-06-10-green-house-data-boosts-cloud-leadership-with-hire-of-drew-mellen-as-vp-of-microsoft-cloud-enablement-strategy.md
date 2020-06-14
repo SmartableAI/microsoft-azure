@@ -5,8 +5,8 @@ excerpt: "Green House Data, a strategic partner for organizations pursuing digit
 publishedDateTime: 2020-06-10T15:27:00Z
 webUrl: "https://www.businesswire.com/news/home/20200610005212/en/Green-House-Data-Boosts-Cloud-Leadership-Hire"
 type: article
-quality: 12
-heat: 12
+quality: 2
+heat: 2
 published: false
 
 provider:

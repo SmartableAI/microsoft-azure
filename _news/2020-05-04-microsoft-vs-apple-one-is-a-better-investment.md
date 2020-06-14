@@ -27,7 +27,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 72
+    quality: 62
   - title: "Amazon and Microsoft Have Outperformed. Earnings Will Be Key -- ICYMI"
     excerpt: "Against that, the fast-growing business cloud segments are likely seeing a tailwind, at least according to Wedbush Securities analyst Dan Ives. Businesses may accelerate their shift to Microsoft’s services as the work-from-home change is well underway, aided by lockdowns. But More Personal Computing isn’t growing, while the business cloud ..."
     publishedDateTime: 2020-04-22T20:25:00Z
@@ -38,7 +38,7 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://content.jwplatform.com/thumbs/bwKn9eIN-720.jpg"
         width: 720

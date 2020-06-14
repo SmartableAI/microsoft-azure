@@ -5,7 +5,7 @@ excerpt: "Kenneth Research has published a detailed report on Public Cloud Marke
 publishedDateTime: 2020-05-25T12:52:00Z
 webUrl: "https://www.marketwatch.com/press-release/public-cloud-market-growth-analysis-by-revenue-size-share-scenario-on-latest-trends-types-applications-to-2025-forecast-2020-05-25"
 type: article
-quality: 45
+quality: 35
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 66
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -50,7 +50,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -64,7 +64,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -78,7 +78,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -92,7 +92,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

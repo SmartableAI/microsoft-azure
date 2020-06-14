@@ -29,7 +29,7 @@ related:
     provider:
       name: eWeek
       domain: eweek.com
-    quality: 72
+    quality: 62
     images:
       - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2020/05/Microsoft365logo.jpg?alias=social_image"
         width: 560

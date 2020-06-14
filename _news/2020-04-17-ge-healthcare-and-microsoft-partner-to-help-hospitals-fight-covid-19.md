@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/ge-healthcare-and-microsoft-partner-to-he
 ampWebUrl: "https://www.zdnet.com/google-amp/article/ge-healthcare-and-microsoft-partner-to-help-hospitals-fight-covid-19/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ge-healthcare-and-microsoft-partner-to-help-hospitals-fight-covid-19/"
 type: article
-quality: 102
-heat: 122
+quality: 82
+heat: 102
 published: true
 
 provider:
@@ -40,7 +40,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 91
+    quality: 71
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-74065395.jpeg?w=1024"
         width: 1024

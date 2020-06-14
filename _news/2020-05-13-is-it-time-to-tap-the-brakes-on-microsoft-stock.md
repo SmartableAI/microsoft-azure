@@ -7,7 +7,7 @@ webUrl: "https://investorplace.com/2020/05/should-you-tap-brakes-on-microsoft-st
 ampWebUrl: "https://investorplace.com/2020/05/should-you-tap-brakes-on-microsoft-stock/amp/"
 cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/05/should-you-tap-brakes-on-microsoft-stock/amp/"
 type: article
-quality: 62
+quality: 42
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 72
+    quality: 62
   - title: "Why Investor Preference For Microsoft Over Amazon Looks Misguided"
     excerpt: "Microsoft’s stock has doubled since the beginning of 2018.Great news for Microsoft investors. Things haven’t been too shabby for Amazon investors either, as the company’s stock also gained almost 60% during the same period."
     publishedDateTime: 2020-05-26T10:05:00Z
@@ -47,7 +47,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 72
+    quality: 62
 
 secured: "SKpLHcj08mrEtkMTGvSKejlskRr04isNXV7qrgvKTrIvkwYEs72uJVHJt1mhWlMsbHRd/5VTxn3bL+144v8OFVCiQ/ujkjRi9X5Su6YXr635H7kQo1GM/41/9iIuuh6qAvxVr3Kd4kCAyxWEtILpcTOm86HtwnvoYFqiqa3t2pSHwaoP6dm4NEiGxyZvzzwutaYW+mRk6mX3Eh4TX645UTRUAnO5NfuFikwGZaDCMpGtze3LCl5SEIKguDjqkvG3TPFLcaqglBrxxx1S/xMywyB2ODX172VscR+OJQ4vpkY8C3uNq30vnzZS7CnxbtqDlM1Z44+8zF6fihFySnignkGYnXUnwSKk/zkHnvqJ6ZkCupVfTHGz3Ko4K/798gS8jEYf5HfbCVftxJyelv3NqibjBhPwQyO4wCoYh58w1rX66koBjgp/a2s1soSGq3QfhmXudQjjMVfHcXMux6AeY7IJBdAjo1o4OnSXM06lxa8=;6U2fBsz/R3BGjRLI68BHnQ=="
 ---

@@ -5,8 +5,8 @@ excerpt: "The federal judge overseeing the JEDI lawsuit says the Defense Departm
 publishedDateTime: 2020-04-17T22:55:00Z
 webUrl: "https://washingtontechnology.com/articles/2020/04/17/dod-jedi-remand-ok.aspx"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:

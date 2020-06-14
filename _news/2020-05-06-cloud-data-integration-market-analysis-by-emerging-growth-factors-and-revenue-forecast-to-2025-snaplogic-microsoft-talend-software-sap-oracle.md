@@ -5,7 +5,7 @@ excerpt: "Cloud data integration solutions allow enterprises to unify data from 
 publishedDateTime: 2020-05-06T08:06:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-data-integration-market-analysis-by-emerging-growth-factors-and-revenue-forecast-to-2025-snaplogic-microsoft-talend-software-sap-oracle-2020-05-06"
 type: article
-quality: 34
+quality: 24
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 72
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -50,7 +50,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -64,7 +64,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -78,7 +78,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 41
+    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -92,7 +92,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 38
+    quality: 28
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

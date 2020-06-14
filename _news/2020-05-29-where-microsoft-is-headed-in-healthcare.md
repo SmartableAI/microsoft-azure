@@ -5,7 +5,7 @@ excerpt: "Microsoft has been on the forefront of supporting healthcare delivery 
 publishedDateTime: 2020-05-29T15:31:00Z
 webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/where-microsoft-is-headed-in-healthcare.html"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
@@ -32,7 +32,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 72
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -48,7 +48,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 68
+    quality: 58
   - title: "U.S. Healthcare Cloud Computing Market: Industry Insights, Major Key Players and Current Trends Analysis 2027"
     excerpt: "The report covers a forecast and an analysis of the U.S. healthcare cloud computing market. The study provides"
     publishedDateTime: 2020-05-21T09:12:00Z
@@ -57,7 +57,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -71,7 +71,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -85,7 +85,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 41
+    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -99,7 +99,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 35
+    quality: 25
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -113,7 +113,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 26
+    quality: 16
     images:
       - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
         width: 666

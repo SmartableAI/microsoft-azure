@@ -5,8 +5,8 @@ excerpt: "Microsoft has donated a broad set of technology to the Open Compute Pr
 publishedDateTime: 2020-05-14T12:37:00Z
 webUrl: "https://www.datacenterdynamics.com/en/news/ocp-summit-microsoft-contributes-security-liquid-cooling/"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:

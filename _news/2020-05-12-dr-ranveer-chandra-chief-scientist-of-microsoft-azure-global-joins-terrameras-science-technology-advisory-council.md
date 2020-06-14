@@ -5,8 +5,8 @@ excerpt: "Dr. Chandra serves as Chief Scientist of Microsoft Azure Global, where
 publishedDateTime: 2020-05-12T14:15:00Z
 webUrl: "https://www.businesswire.com/news/home/20200512005274/en/Dr.-Ranveer-Chandra-Chief-Scientist-Microsoft-Azure"
 type: article
-quality: 23
-heat: 23
+quality: 13
+heat: 13
 published: false
 
 provider:

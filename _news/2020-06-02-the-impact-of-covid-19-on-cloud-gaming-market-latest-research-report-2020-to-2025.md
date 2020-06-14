@@ -5,8 +5,8 @@ excerpt: "MarketResearchNest Announced that it's published an Exclusive Report o
 publishedDateTime: 2020-06-02T07:24:00Z
 webUrl: "https://www.marketwatch.com/press-release/the-impact-of-covid-19-on-cloud-gaming-market-latest-research-report-2020-to-2025-2020-06-02"
 type: article
-quality: 67
-heat: 127
+quality: 57
+heat: 117
 published: true
 
 provider:
@@ -36,7 +36,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -50,7 +50,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
+    quality: 26
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -64,7 +64,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 34
+    quality: 24
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

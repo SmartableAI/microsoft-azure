@@ -5,8 +5,8 @@ excerpt: "With a huge assist from the global shift with coronavirus to working f
 publishedDateTime: 2020-05-29T22:39:00Z
 webUrl: "https://rcpmag.com/blogs/scott-bekker/2020/05/microsoft-teams-maturity.aspx"
 type: article
-quality: 27
-heat: 27
+quality: 17
+heat: 17
 published: false
 
 provider:

@@ -7,8 +7,8 @@ webUrl: "https://www.digitaltrends.com/home-theater/microsoft-surface-earbuds-re
 ampWebUrl: "https://www.digitaltrends.com/home-theater/microsoft-surface-earbuds-release-date/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home-theater/microsoft-surface-earbuds-release-date/?amp"
 type: article
-quality: 102
-heat: 122
+quality: 82
+heat: 102
 published: true
 
 provider:
@@ -40,7 +40,7 @@ related:
     provider:
       name: Barron's
       domain: barrons.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://images.barrons.com/im-144883/social"
         width: 1280

@@ -7,7 +7,7 @@ webUrl: "https://www.forbes.com/sites/tomtaulli/2020/05/22/microsoft--softomotiv
 ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2020/05/22/microsoft--softomotive-what-does-this-deal-mean-for-rpa-robotic-process-automation/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/05/22/microsoft--softomotive-what-does-this-deal-mean-for-rpa-robotic-process-automation/amp/"
 type: article
-quality: 64
+quality: 54
 heat: -1
 published: false
 
@@ -33,7 +33,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106261600-1574453260135gettyimages-1127797637.jpeg?v=1589900843"
         width: 4358
@@ -49,7 +49,7 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://cnet3.cbsistatic.com/img/Dok6c43xRR9WyO7Gg_0AlGrbr6Q=/756x567/2020/04/14/de44da9c-e4e1-4477-b318-7b6e6923b653/gettyimages-1200013326.jpg"
         width: 756
@@ -65,7 +65,7 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519179146&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4I1BJ"
         width: 817
@@ -81,7 +81,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/01/06/729a12cf-e9ce-41fc-a5f7-ff3d2b08dd86/thumbnail/1200x675/463f9e181651c8c4749d69e9511e9cd8/budget.jpg"
         width: 1200

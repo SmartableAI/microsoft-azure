@@ -5,8 +5,8 @@ excerpt: "Today, January 14, 2020, marks the end of support for Windows Server 2
 publishedDateTime: 2020-01-14T09:00:19Z
 webUrl: "https://azure.microsoft.com/blog/turn-to-a-new-chapter-of-windows-server-innovation/"
 type: article
-quality: 94
-heat: 94
+quality: 84
+heat: 84
 published: true
 
 provider:

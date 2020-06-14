@@ -7,8 +7,8 @@ webUrl: "https://www.nasdaq.com/articles/curo-group-foot-locker-microsoft-amazon
 ampWebUrl: "https://www.nasdaq.com/articles/curo-group-foot-locker-microsoft-amazon-and-slack-highlighted-as-zacks-bull-and-bear-of?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/curo-group-foot-locker-microsoft-amazon-and-slack-highlighted-as-zacks-bull-and-bear-of?amp"
 type: article
-quality: 58
-heat: 58
+quality: 48
+heat: 48
 published: false
 
 provider:

@@ -5,8 +5,8 @@ excerpt: "Stellar Cyber Debuts Cloud Detection & Response App, Delivers Full Vis
 publishedDateTime: 2020-05-18T13:00:00Z
 webUrl: "https://www.businesswire.com/news/home/20200518005209/en/Stellar-Cyber-Debuts-Cloud-Detection-Response-App"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:

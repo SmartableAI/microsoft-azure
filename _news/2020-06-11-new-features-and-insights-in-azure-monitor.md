@@ -5,8 +5,8 @@ excerpt: "Customers need full stack observability for their apps and infrastruct
 publishedDateTime: 2020-06-11T09:00:02Z
 webUrl: "https://azure.microsoft.com/blog/new-features-and-insights-in-azure-monitor/"
 type: article
-quality: 107
-heat: 127
+quality: 97
+heat: 97
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     height: 768
     isCached: true
     title: "New features and insights in Azure Monitor"
-
-related:
-  - title: "Microsoft boosts Azure with new edge video analytics and authentication features"
-    excerpt: "Microsoft Corp. today introduced a new edge video analytics product for its Azure cloud platform, as well as improved authentication features to help organizations better address the shift to remote work. There’s a growing trend of analytics workloads moving from data centers to the so-called edge of the network. A manufacturer, for instance ..."
-    publishedDateTime: 2020-06-11T20:01:00Z
-    webUrl: "https://siliconangle.com/2020/06/11/microsoft-boosts-azure-new-edge-video-analytics-authentication-features/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 42
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/microsoft.png"
-        width: 761
-        height: 400
-        isCached: true
 
 secured: "C6aReoJ/CwlZm/8FOFIaK9C0Bzq093GFv/IJvgvKeFjMLThX+JznnTPkBbH/pD0pokP3GYu4BM8KKtB8khtCBBw/VdwYMjUohL8eDsAw9M5BvEW1K8oPTW+LRobfKb2x3ugM7oh7IfFk7lD34eUoEK1clm4zhLD18mcukydWYN+XIfxYu6xbxatIijddNd6uxOZrNJGCtV3wihie0i4pkMdEwxSgt3ZGS35aJWfHDyeagzHZN4vBFZQsMw6DtA63OxAjOmMn6UoGo4GyVEiegESkbi43OqfQYG2bBiW4mLncQDmuafNNnj4cg6NI3aWt93fPxettD64nE1478snrCg==;HmdVv11Z7Y9IARUbOVw5zA=="
 ---

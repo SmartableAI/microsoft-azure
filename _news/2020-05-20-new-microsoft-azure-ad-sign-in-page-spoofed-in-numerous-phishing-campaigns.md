@@ -5,7 +5,7 @@ excerpt: "Microsoft discovered numerous phishing campaigns in which malicious ac
 publishedDateTime: 2020-05-20T13:36:00Z
 webUrl: "https://securityintelligence.com/news/new-microsoft-azure-ad-sign-in-page-spoofed-in-numerous-phishing-campaigns/"
 type: article
-quality: 45
+quality: 35
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: IT Pro
       domain: itpro.co.uk
-    quality: 117
+    quality: 97
     images:
       - url: "https://media.itpro.co.uk//image/upload/v1589818624/itpro/shutterstock_357803588.jpg"
         width: 2957
@@ -50,7 +50,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F574884%2Fgettyimages-1162624331.jpg&w=1200&op=resize"
         width: 1200

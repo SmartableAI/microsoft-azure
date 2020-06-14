@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 103
+    quality: 93
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8a5121d3-a63b-43d7-9fd0-2296e66f85f9.jpg"
         width: 585
@@ -43,7 +43,7 @@ related:
     provider:
       name: PR
       domain: pr.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://img.pr.com/release/2005/470793/pressrelease_original_470793_1589990219.png"
         width: 1280

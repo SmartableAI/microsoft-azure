@@ -5,7 +5,7 @@ excerpt: "Today, Yusuf Mehdi, Corporate Vice President of Modern Life and Device
 publishedDateTime: 2020-03-30T08:30:32Z
 webUrl: "https://azure.microsoft.com/blog/extending-the-power-of-azure-ai-to-microsoft-365-users/"
 type: article
-quality: 109
+quality: 99
 heat: -1
 published: false
 
@@ -37,7 +37,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 111
+    quality: 101
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/1f6343e9-ac74-4c7b-8f27-8784133e6897.png"
         width: 377
@@ -53,7 +53,7 @@ related:
     provider:
       name: The Next Platform
       domain: nextplatform.com
-    quality: 77
+    quality: 57
     images:
       - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/ab_cloud-edge-1024x1024.jpg"
         width: 1024

@@ -27,7 +27,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 83
+    quality: 73
   - title: "Qore Technologies' Free 3Months Usage Plan for Qorus Integration Engine Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to free use of Qorus Integration Engine to mitigate the business implications of COVID-19 PRAGUE, CZECH REPUBLIC, April 15, 2020 /EINPresswire.com/ -- Qore Technologies today announced the availability of a free three-month usage and consultation plan for Qorus Integration Engine in the Microsoft Azure Marketplace,"
     publishedDateTime: 2020-04-15T11:11:00Z
@@ -36,7 +36,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -50,7 +50,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
@@ -64,7 +64,7 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://mms.businesswire.com/media/20200609005152/en/796737/23/klarivislogo-black-registered.jpg"
         width: 1200
@@ -78,7 +78,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.co.uk
-    quality: 42
+    quality: 32
     images:
       - url: "https://www.prnewswire.co.uk/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
@@ -92,7 +92,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 21
+    quality: 11
     images:
       - url: "https://mma.prnewswire.com/media/963377/Parabole_ai_Logo.jpg?p=facebook"
         width: 2697

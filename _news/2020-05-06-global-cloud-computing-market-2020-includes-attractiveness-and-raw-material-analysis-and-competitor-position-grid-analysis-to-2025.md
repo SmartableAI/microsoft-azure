@@ -5,7 +5,7 @@ excerpt: "Fior Markets has published a new research study titled Cloud Computing
 publishedDateTime: 2020-05-06T14:11:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-cloud-computing-market-2020-includes-attractiveness-and-raw-material-analysis-and-competitor-position-grid-analysis-to-2025-2020-05-06"
 type: article
-quality: 42
+quality: 32
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -50,7 +50,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 66
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -64,7 +64,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -78,7 +78,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -92,7 +92,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 48
+    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -106,7 +106,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 34
+    quality: 24
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

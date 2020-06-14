@@ -5,7 +5,7 @@ excerpt: "Samsung Access will let you own a Galaxy S20 series phone by paying a 
 publishedDateTime: 2020-06-01T17:14:00Z
 webUrl: "https://pocketnow.com/samsung-access-upgrade-plan-offers-premium-care-microsoft-365-and-1tb-cloud-storage"
 type: article
-quality: 25
+quality: 15
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: TechRadar
       domain: techradar.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/ot82kqZhdJYVeZpTnPbSHh-1200-80.jpg"
         width: 768

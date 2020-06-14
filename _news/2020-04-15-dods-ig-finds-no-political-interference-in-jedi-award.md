@@ -5,8 +5,8 @@ excerpt: "The Defense Department's inspector general said he could not find any 
 publishedDateTime: 2020-04-15T19:26:00Z
 webUrl: "https://washingtontechnology.com/articles/2020/04/15/jedi-inspector-general-report.aspx?admgarea=TC_Contracts"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:
@@ -32,7 +32,7 @@ related:
     provider:
       name: Homeland Security Today
       domain: hstoday.us
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.hstoday.us/wp-content/uploads/2019/12/microsoft-4608125_1280.jpg"
         width: 1280

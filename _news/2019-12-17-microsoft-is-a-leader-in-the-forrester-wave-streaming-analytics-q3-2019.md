@@ -5,8 +5,8 @@ excerpt: "Processing Big data in real-time is an operational necessity for many 
 publishedDateTime: 2019-12-17T09:00:15Z
 webUrl: "https://azure.microsoft.com/blog/microsoft-is-a-leader-in-the-forrester-wave-streaming-analytics-q3-2019/"
 type: article
-quality: 92
-heat: 92
+quality: 82
+heat: 82
 published: true
 
 provider:

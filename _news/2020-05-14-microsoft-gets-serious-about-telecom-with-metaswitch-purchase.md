@@ -5,8 +5,8 @@ excerpt: "Although Metaswitch reported revenues of just $180 million in 2019, th
 publishedDateTime: 2020-05-14T18:28:00Z
 webUrl: "https://www.lightreading.com/cloud-native-nfv/microsoft-gets-serious-about-telecom-with-metaswitch-purchase/d/d-id/759668"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:
@@ -32,7 +32,7 @@ related:
     provider:
       name: Telecoms
       domain: telecoms.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2016/10/Cloud-House-300x210.jpg"
         width: 300

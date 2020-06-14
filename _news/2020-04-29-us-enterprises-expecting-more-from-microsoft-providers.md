@@ -5,8 +5,8 @@ excerpt: "U.S. enterprises are expecting more from their Microsoft ecosystem par
 publishedDateTime: 2020-04-29T13:01:00Z
 webUrl: "https://www.marketwatch.com/press-release/us-enterprises-expecting-more-from-microsoft-providers-2020-04-29-919717"
 type: article
-quality: 72
-heat: 92
+quality: 62
+heat: 82
 published: true
 
 provider:

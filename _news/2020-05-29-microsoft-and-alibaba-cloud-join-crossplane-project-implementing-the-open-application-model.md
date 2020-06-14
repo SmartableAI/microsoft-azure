@@ -5,8 +5,8 @@ excerpt: "Upbound, the company behind open source projects Rook and Crossplane, 
 publishedDateTime: 2020-05-29T00:12:00Z
 webUrl: "https://www.helpnetsecurity.com/2020/05/29/upbound-alibaba-cloud-microsoft-crossplane/"
 type: article
-quality: 22
-heat: 22
+quality: 12
+heat: 12
 published: false
 
 provider:

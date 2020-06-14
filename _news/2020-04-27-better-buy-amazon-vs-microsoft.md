@@ -7,8 +7,8 @@ webUrl: "https://www.nasdaq.com/articles/better-buy%3A-amazon-vs.-microsoft-2020
 ampWebUrl: "https://www.nasdaq.com/articles/better-buy%3A-amazon-vs.-microsoft-2020-04-27?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/better-buy%3A-amazon-vs.-microsoft-2020-04-27?amp"
 type: article
-quality: 72
-heat: 112
+quality: 62
+heat: 102
 published: true
 
 provider:
@@ -29,7 +29,7 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://content.jwplatform.com/thumbs/bwKn9eIN-720.jpg"
         width: 720

@@ -5,8 +5,8 @@ excerpt: "Megaport, a leading global Network as a Service (NaaS) provider, today
 publishedDateTime: 2020-06-01T23:19:00Z
 webUrl: "https://www.prnewswire.com/in/news-releases/megaport-launches-its-naas-platform-in-france-providing-businesses-with-fast-scalable-access-to-the-cloud-828573806.html"
 type: article
-quality: 14
-heat: 14
+quality: 4
+heat: 4
 published: false
 
 provider:

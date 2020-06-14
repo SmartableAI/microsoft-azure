@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 109
+    quality: 99
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a6153b4c-6ec4-4b09-b1e7-dd8f2be265dd.png"
         width: 780
@@ -43,7 +43,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 107
+    quality: 97
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/bc9fd2f5-bd17-4f4e-b1b5-c02c035f249b.gif"
         width: 1730
@@ -57,7 +57,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 107
+    quality: 97
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/480ae3b3-08b3-4078-b20f-83bb10f1d10c.gif"
         width: 2554
@@ -71,7 +71,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 107
+    quality: 97
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/ccedbcf5-8321-460c-a9a3-b0730caa96fe.jpg"
         width: 347
@@ -85,7 +85,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 107
+    quality: 97
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/55f9101b-07a0-4e94-b8aa-802abda1d4df.png"
         width: 640
@@ -226,6 +226,29 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 62
+  - title: "ScientiaMobile’s WURFL Microservice Now Available in the Microsoft Azure Marketplace"
+    excerpt: "ScientiaMobile, today announced the availability of WURFL Microservice in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. Developers can now take advantage of the productive and trusted Azure cloud platform,"
+    publishedDateTime: 2020-06-01T12:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/scientiamobile-s-wurfl-microservice-now-available-in-the-microsoft-azure-marketplace-1029268289"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
+  - title: "SepioPrime Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Sepio Systems, the leader in Rogue Device Mitigation (RDM), today announced the availability of SepioPrime in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2020-05-29T13:00:00Z
+    webUrl: "https://apnews.com/PR Newswire/f5b85ffe40d0191068bb0e60ed78df05"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Microsoft previews Azure Maps Creator to enable indoor location apps and AR"
     excerpt: "Microsoft Corp. today announced the preview of Azure Maps Creator, a new tool in its public cloud platform that will enable companies to create custom indoor maps for use cases su"
     publishedDateTime: 2020-06-01T18:50:00Z
@@ -234,7 +257,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 45
+    quality: 35
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/hololens2-768x512.jpg"
         width: 768

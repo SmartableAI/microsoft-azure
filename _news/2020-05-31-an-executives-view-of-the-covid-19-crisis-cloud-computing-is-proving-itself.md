@@ -7,7 +7,7 @@ webUrl: "https://www.forbes.com/sites/joemckendrick/2020/05/31/an-executives-vie
 ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2020/05/31/an-executives-view-of-the-covid-19-crisis-cloud-computing-is-proving-itself/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/05/31/an-executives-view-of-the-covid-19-crisis-cloud-computing-is-proving-itself/amp/"
 type: article
-quality: 69
+quality: 59
 heat: -1
 published: false
 
@@ -33,7 +33,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://media.ycharts.com/charts/1598eb546330392ceba7eb872cf31307.png"
         width: 720

@@ -5,7 +5,7 @@ excerpt: "ASCEND TECHNOLOGIES LLC, a leading Midwest managed services provider f
 publishedDateTime: 2020-05-06T14:30:00Z
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ascend-technologies-llc-becomes-microsoft-cloud-solutions-provider-and-reseller/article_94620489-1740-5491-82a8-b3fac8482e4c.html"
 type: article
-quality: 28
+quality: 18
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 108
+    quality: 88
     images:
       - url: "https://zdnet4.cbsistatic.com/hub/i/2020/01/21/9d349185-abe0-4f78-aed7-f1aa4a2010ee/istock-925557862.jpg"
         width: 1600
@@ -50,7 +50,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 92
+    quality: 72
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2019/12/reInvent-2018_Wednesday_AndyJassyKeynote_140-630x442.jpg"
         width: 630
@@ -66,7 +66,7 @@ related:
     provider:
       name: winbuzzer.com
       domain: winbuzzer.com
-    quality: 77
+    quality: 57
     images:
       - url: "https://winbuzzer.com/wp-content/uploads/2016/04/Microsoft-Clouds-Pixels-Reuse.jpg"
         width: 1280
@@ -80,7 +80,7 @@ related:
     provider:
       name: ARN
       domain: arnnet.com.au
-    quality: 28
+    quality: 18
     images:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/aws_microsoft.jpg"
         width: 800

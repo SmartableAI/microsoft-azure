@@ -5,8 +5,8 @@ excerpt: "Arista announced it was extending its support for the open-source SONi
 publishedDateTime: 2020-05-11T12:03:00Z
 webUrl: "https://www.eweek.com/networking/arista-goes-big-on-microsoft-s-sonic-operating-system"
 type: article
-quality: 72
-heat: 92
+quality: 62
+heat: 82
 published: true
 
 provider:
@@ -38,7 +38,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2017/01/data-centers.jpg"
         width: 1000

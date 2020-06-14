@@ -5,7 +5,7 @@ excerpt: "At the end of March, a Microsoft Azure disruption hit 6,136 companies 
 publishedDateTime: 2020-04-09T16:05:00Z
 webUrl: "https://www.ciodive.com/news/microsoft-azure-outage-delay-manager-asleep/575811/"
 type: article
-quality: 42
+quality: 32
 heat: -1
 published: false
 
@@ -32,7 +32,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 84
+    quality: 74
     images:
       - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
         width: 300
@@ -46,7 +46,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 25
+    quality: 15
     images:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600

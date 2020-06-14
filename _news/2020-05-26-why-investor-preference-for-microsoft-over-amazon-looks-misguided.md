@@ -7,7 +7,7 @@ webUrl: "https://www.forbes.com/sites/greatspeculations/2020/05/26/why-investor-
 ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2020/05/26/why-investor-preference-for-microsoft-over-amazon-looks-misguided/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2020/05/26/why-investor-preference-for-microsoft-over-amazon-looks-misguided/amp/"
 type: article
-quality: 72
+quality: 62
 heat: -1
 published: false
 
@@ -33,7 +33,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 72
+    quality: 62
   - title: "Is It Time to Tap the Brakes on Microsoft Stock?"
     excerpt: "Microsoft stock is up 10% post earnings. But the consensus analysts' opinion suggests the stock may have reached its short-term price target."
     publishedDateTime: 2020-05-13T15:15:00Z
@@ -44,7 +44,7 @@ related:
     provider:
       name: InvestorPlace
       domain: investorplace.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://investorplace.com/wp-content/uploads/2019/10/msft1600f.jpg"
         width: 1600

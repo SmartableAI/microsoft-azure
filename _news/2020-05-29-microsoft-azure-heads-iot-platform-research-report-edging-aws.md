@@ -5,7 +5,7 @@ excerpt: "Microsoft Azure outpaced perennial cloud computing champion Amazon Web
 publishedDateTime: 2020-05-29T22:11:00Z
 webUrl: "https://virtualizationreview.com/articles/2020/05/29/cloud-iot-report.aspx"
 type: article
-quality: 47
+quality: 37
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 117
+    quality: 97
     images:
       - url: "https://images.idgesg.net/images/article/2019/02/cloud_comput_connect_blue-100787048-large.jpg"
         width: 1200
@@ -48,7 +48,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 105
+    quality: 95
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c2dfbf4e-3ca4-42c1-acec-cd89fd674efb.gif"
         width: 1920
@@ -62,7 +62,7 @@ related:
     provider:
       name: SD Times
       domain: sdtimes.com
-    quality: 87
+    quality: 77
     images:
       - url: "https://sdtimes.com/wp-content/uploads/2018/06/migration.jpg"
         width: 660
@@ -78,7 +78,7 @@ related:
     provider:
       name: MyBroadband
       domain: mybroadband.co.za
-    quality: 77
+    quality: 57
     images:
       - url: "https://mybroadband.co.za/news/wp-content/uploads/2020/03/Picture1-2-640x359.png"
         width: 640
@@ -93,15 +93,6 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 57
-  - title: "ScientiaMobile’s WURFL Microservice Now Available in the Microsoft Azure Marketplace"
-    excerpt: "ScientiaMobile, today announced the availability of WURFL Microservice in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. Developers can now take advantage of the productive and trusted Azure cloud platform,"
-    publishedDateTime: 2020-06-01T12:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/scientiamobile-s-wurfl-microservice-now-available-in-the-microsoft-azure-marketplace-1029268289"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
   - title: "NXP expands partnership with Microsoft Azure RTOS"
     excerpt: "NXP Semiconductors has expanded its partnership with Microsoft to bring Microsoft Azure real-time operating system (RTOS) to a broader range of processing solutions from its EdgeVerse portfolio."
     publishedDateTime: 2020-05-27T15:40:00Z
@@ -110,7 +101,7 @@ related:
     provider:
       name: Robotics & Automation News
       domain: roboticsandautomationnews.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/05/microsoft-rtos-netx-duo.png"
         width: 954
@@ -124,25 +115,11 @@ related:
     provider:
       name: Help Net Security
       domain: helpnetsecurity.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
         width: 304
         height: 430
-        isCached: true
-  - title: "SepioPrime Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Sepio Systems, the leader in Rogue Device Mitigation (RDM), today announced the availability of SepioPrime in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2020-05-29T13:00:00Z
-    webUrl: "https://apnews.com/PR Newswire/f5b85ffe40d0191068bb0e60ed78df05"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 47
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Cryptomathic ports key control to Microsoft Azure"
     excerpt: "Cryptography solutions pioneer, Cryptomathic, has today enabled its client banks and other security-sensitive businesses to leverage Microsoft Azure’s platform while retaining lifecycle control of critical keys,"
@@ -152,7 +129,7 @@ related:
     provider:
       name: Finextra
       domain: finextra.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
         width: 480
@@ -166,7 +143,7 @@ related:
     provider:
       name: SC Media
       domain: scmagazine.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/06/Microsoft-Identity-Mgt-Image_June2020.jpg"
         width: 1280

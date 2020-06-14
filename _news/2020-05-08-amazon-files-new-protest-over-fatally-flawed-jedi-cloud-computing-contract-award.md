@@ -5,7 +5,7 @@ excerpt: "In an increasingly sharp war of words and legal maneuvers, Amazon Web 
 publishedDateTime: 2020-05-08T12:17:00Z
 webUrl: "https://siliconangle.com/2020/05/08/amazon-files-new-protest-fatally-flawed-jedi-cloud-computing-contract-award/"
 type: article
-quality: 26
+quality: 16
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://media.bizj.us/view/img/10654474/3124262891-11*600xx4000-2667-0-0.jpg"
         width: 600
@@ -48,7 +48,7 @@ related:
     provider:
       name: Federal Computer Week
       domain: fcw.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Cloud/pentagoncloud2.png"
         width: 760
@@ -64,7 +64,7 @@ related:
     provider:
       name: Law360
       domain: law360.com
-    quality: 32
+    quality: 22
 
 secured: "Q2+XC/IeliCyuWvO4s9PpswhMjl/TxcDwUVqmiX6PZeNM9+FOtn4L/iDmlZakRNc2B11YVqpKLrwCtd/kvMIPWFAmOKcPK2WaGxMT3jTOC1DkWXGXG8YvRtvp7zgN7McOx50JLAUpvpzVIZ9ytEyUSor1FsQbh07Oq78tcZpidThuvFs6/4pdsjLCDVKZZH1lXPzysuAlf2o6T4jsSz6Wwmil3Wy+dEmpwEcrL5T32TacWj9YfJ8ABih9ADNbhzGuA+DOXm6LStsX8DMBgFbIuHbhePMtk91Guxus8R1Ejm6lBxl7jOuT71AONe3g6yU9T1TkDD3YMf+/MAKw/Jr8DzpQuSeZCf/TzG2mGNqHFmb4wtgS8jcQmDO1uhexKqqjOfWVM1gGG0aK0Fz5fMW+D4jPUSqAlGsWZgu5s4y5oYKV8XLe5ZGruMZoTlvEGUo1RAi2ET6wFUGaY+vgx0ZnYk9V2iYCwKow5iDCn0yuJU=;tdAM09g/NjMHRtXuG313Uw=="
 ---

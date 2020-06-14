@@ -5,7 +5,7 @@ excerpt: "The coronavirus allows Google Cloud to double down on its acquisition 
 publishedDateTime: 2020-04-28T19:01:00Z
 webUrl: "https://www.businessinsider.com/google-cloud-faces-acquisition-opportunities-amid-pandemic-2020-4"
 type: article
-quality: 63
+quality: 53
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 67
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

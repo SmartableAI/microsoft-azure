@@ -5,8 +5,8 @@ excerpt: "New InterWork Alliance that includes IBM and Microsoft aims to standar
 publishedDateTime: 2020-06-03T03:11:00Z
 webUrl: "https://siliconangle.com/2020/06/02/new-interwork-alliance-includes-ibm-microsoft-aims-standardize-distributed-applications/"
 type: article
-quality: 18
-heat: 18
+quality: 8
+heat: 8
 published: false
 
 provider:

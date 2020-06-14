@@ -5,7 +5,7 @@ excerpt: "Suspends Amazon’s case against Microsoft A US judge held a case by A
 publishedDateTime: 2020-04-20T14:04:00Z
 webUrl: "https://www.fudzilla.com/news/memory-and-storage/50686-us-judge-uses-jedi-mind-hold"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: Engadget
       domain: engadget.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2Fcb78f460-812b-11ea-a2d9-ca4d3c404259&client=amp-blogside-v2&signature=c2ce6a954f1c5afbdf66132afb9e9366e810e7ca"
         width: 600

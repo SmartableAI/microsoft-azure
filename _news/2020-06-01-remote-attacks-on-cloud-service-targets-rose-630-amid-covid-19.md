@@ -7,7 +7,7 @@ webUrl: "https://healthitsecurity.com/news/remote-attacks-on-cloud-service-targe
 ampWebUrl: "https://healthitsecurity.com/news/amp/remote-attacks-on-cloud-service-targets-rose-630-amid-covid-19"
 cdnAmpWebUrl: "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/news/amp/remote-attacks-on-cloud-service-targets-rose-630-amid-covid-19"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://tr4.cbsistatic.com/hub/i/r/2020/05/08/0154c4d4-36ae-4270-9291-968ddfd7c65c/thumbnail/1200x675/95cdef2021d3479a00e6861ffbb23d22/20200507-moyer3-dan.jpg"
         width: 1200
@@ -43,7 +43,7 @@ related:
     provider:
       name: Data Center Knowledge
       domain: datacenterknowledge.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/cloud-secured-with-chains.jpg"
         width: 1540

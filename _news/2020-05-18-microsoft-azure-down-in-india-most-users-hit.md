@@ -5,8 +5,8 @@ excerpt: "New Delhi, May 18 (IANS) Several users of Microsoft Azure in India rep
 publishedDateTime: 2020-05-18T16:11:00Z
 webUrl: "https://www.sify.com/finance/microsoft-azure-down-in-india-most-users-hit-news-topnews-ufsvE8jjfihdb.html"
 type: article
-quality: 47
-heat: 47
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -32,7 +32,7 @@ related:
     provider:
       name: The Pioneer
       domain: dailypioneer.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/microsoft-azure-down-in-india--most-users-hit-2020-05-19.jpg"
         width: 1000

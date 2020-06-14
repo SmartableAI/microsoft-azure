@@ -5,8 +5,8 @@ excerpt: "Microsoft revealed this week that it will stop supporting its new Edge
 publishedDateTime: 2020-04-16T15:26:00Z
 webUrl: "https://www.thurrott.com/cloud/web-browsers/microsoft-edge/234883/microsoft-to-stop-supporting-edge-on-windows-7-in-mid-2021"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:

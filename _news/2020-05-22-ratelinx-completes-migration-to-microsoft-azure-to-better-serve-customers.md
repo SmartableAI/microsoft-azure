@@ -29,7 +29,7 @@ related:
     provider:
       name: DC Velocity
       domain: dcvelocity.com
-    quality: 46
+    quality: 36
     images:
       - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/0bef1a3f-3524-4a47-91e5-78466728c9a3.png?height=635&t=1590129628&width=1200"
         width: 600

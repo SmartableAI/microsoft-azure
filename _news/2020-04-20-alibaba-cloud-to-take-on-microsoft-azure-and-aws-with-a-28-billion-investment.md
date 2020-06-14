@@ -7,7 +7,7 @@ webUrl: "https://mspoweruser.com/alibaba-cloud-to-take-on-microsoft-azure-and-aw
 ampWebUrl: "https://mspoweruser.com/alibaba-cloud-to-take-on-microsoft-azure-and-aws-with-a-28-billion-investment/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/alibaba-cloud-to-take-on-microsoft-azure-and-aws-with-a-28-billion-investment/amp/"
 type: article
-quality: 73
+quality: 53
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: TechRadar
       domain: techradar.com
-    quality: 117
+    quality: 97
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/5egycZyR8KutGdsgWQA3M7-1200-80.jpg"
         width: 1023
@@ -50,7 +50,7 @@ related:
     provider:
       name: CRN
       domain: crn.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://www.crn.com/resources/025b-0eff6361f68a-29cd08758548-1000/1azurestackportfolio.jpg"
         width: 515

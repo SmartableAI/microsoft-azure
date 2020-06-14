@@ -5,8 +5,8 @@ excerpt: "The tech giant's purchase of LinkedIn began a winning streak of 16 con
 publishedDateTime: 2020-05-13T21:50:00Z
 webUrl: "https://www.investopedia.com/microsoft-stock-pops-above-its-monthly-risky-level-4844946"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:

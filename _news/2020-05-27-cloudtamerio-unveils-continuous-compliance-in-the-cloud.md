@@ -5,8 +5,8 @@ excerpt: "cloudtamer.io's new functionality enables continuous detection, report
 publishedDateTime: 2020-05-27T13:56:00Z
 webUrl: "https://www.businesswire.com/news/home/20200527005286/en/cloudtamer.io-Unveils-Continuous-Compliance-Cloud"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:

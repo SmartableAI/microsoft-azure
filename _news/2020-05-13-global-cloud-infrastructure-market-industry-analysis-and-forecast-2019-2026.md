@@ -5,8 +5,8 @@ excerpt: "Some of the vendors for cloud infrastructure market are Cisco, Red Hat
 publishedDateTime: 2020-05-13T07:33:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-cloud-infrastructure-market-industry-analysis-and-forecast-2019-2026-2020-05-13"
 type: article
-quality: 69
-heat: 189
+quality: 59
+heat: 179
 published: true
 
 provider:
@@ -36,7 +36,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 66
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -50,7 +50,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -64,7 +64,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -78,7 +78,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 48
+    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -92,7 +92,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 42
+    quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -106,7 +106,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 34
+    quality: 24
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

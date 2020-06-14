@@ -7,8 +7,8 @@ webUrl: "https://www.geekwire.com/2020/dispute-microsoft-amazon-jedi-cloud-contr
 ampWebUrl: "https://www.geekwire.com/2020/dispute-microsoft-amazon-jedi-cloud-contract-delayed/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/dispute-microsoft-amazon-jedi-cloud-contract-delayed/amp/"
 type: article
-quality: 101
-heat: 181
+quality: 81
+heat: 161
 published: true
 
 provider:
@@ -40,7 +40,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 59
+    quality: 39
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/04/Microsoft-JEDI-DoD.jpg"
         width: 1265
@@ -54,7 +54,7 @@ related:
     provider:
       name: Politico
       domain: politico.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
@@ -68,7 +68,7 @@ related:
     provider:
       name: The Taipei Times
       domain: taipeitimes.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px.jpg"
         width: 1200
@@ -86,7 +86,7 @@ related:
     provider:
       name: Government Executive
       domain: govexec.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://cdn.govexec.com/media/img/upload/2020/04/19/shutterstock_746396986/open-graph.jpg"
         width: 400

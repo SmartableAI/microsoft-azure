@@ -7,7 +7,7 @@ webUrl: "https://www.cmswire.com/digital-workplace/microsoft-updates-teams-video
 ampWebUrl: "https://www.cmswire.com/digital-workplace/microsoft-updates-teams-video-conferencing-verizon-buys-bluejeans-more-news/amp/"
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-workplace/microsoft-updates-teams-video-conferencing-verizon-buys-bluejeans-more-news/amp/"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/04/Verizon-BlueJeans.jpg"
         width: 959

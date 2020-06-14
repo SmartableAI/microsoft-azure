@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 106
+    quality: 98
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7ca46f3e-646d-4280-8e23-ff4336ba416d.png"
         width: 642
@@ -44,6 +44,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 62
+  - title: "Microsoft boosts Azure with new edge video analytics and authentication features"
+    excerpt: "Microsoft Corp. today introduced a new edge video analytics product for its Azure cloud platform, as well as improved authentication features to help organizations better address the shift to remote work. There’s a growing trend of analytics workloads moving from data centers to the so-called edge of the network. A manufacturer, for instance ..."
+    publishedDateTime: 2020-06-11T20:01:00Z
+    webUrl: "https://siliconangle.com/2020/06/11/microsoft-boosts-azure-new-edge-video-analytics-authentication-features/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 32
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/microsoft.png"
+        width: 761
+        height: 400
+        isCached: true
 
 secured: "bUX9Pw+inR/pe/uuDkEYQbYpZMonKyaQuJkGyvlRnz3iQ3/O3xIN1lt509ED4xghhmXsRewEhi1JgwPq8zLB1GxIKEcauTIwD+lTNLSRUoXL7ao1TYH61nMZyDA+gAWUvyfHizOXE6w+D5f8g6Sygm2w0m8rJWr0iAcjIWII6Z5kWi1wswlR+Gmy3CMmZVCTPNjvO0/3Bt33nJG1hYDATndPl8nBBMktkdnwAZnNKcYxltewiYwpHSk27wjcWOC9elvTkg3m1yyMdapFj2Az0n5Z9AkDvSFwXMgahO/2f2tm5lSBJuiaWjxAjEVRJMQY7thGqe+4sch+/8zYWAlPDA==;7j0BW3CIqdGg8o2GDXp8YQ=="
 ---

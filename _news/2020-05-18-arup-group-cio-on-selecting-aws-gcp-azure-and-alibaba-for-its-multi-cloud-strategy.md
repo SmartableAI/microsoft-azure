@@ -7,9 +7,9 @@ webUrl: "https://diginomica.com/arup-group-cio-selecting-aws-gcp-azure-and-aliba
 ampWebUrl: "https://diginomica.com/arup-group-cio-selecting-aws-gcp-azure-and-alibaba-its-multi-cloud-strategy?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/arup-group-cio-selecting-aws-gcp-azure-and-alibaba-its-multi-cloud-strategy?amp"
 type: article
-quality: 70
-heat: 70
-published: true
+quality: 50
+heat: 50
+published: false
 
 provider:
   name: Diginomica

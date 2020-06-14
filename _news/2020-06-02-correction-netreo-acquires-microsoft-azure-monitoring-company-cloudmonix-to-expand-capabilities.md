@@ -5,8 +5,8 @@ excerpt: "CloudMonix, a Chicago-based cloud infrastructure monitoring company sp
 publishedDateTime: 2020-06-02T15:42:00Z
 webUrl: "https://apnews.com/48df5e254e8e84907d3dbce77a3b226f"
 type: article
-quality: 34
-heat: 34
+quality: 24
+heat: 24
 published: false
 
 provider:

@@ -30,7 +30,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 123
+    quality: 113
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/73aa9c0c-7e7e-4101-85bb-d9ca8bd9d769.jpg"
         width: 1024
@@ -44,7 +44,7 @@ related:
     provider:
       name: StorageReview
       domain: storagereview.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://www.storagereview.com/wp-content/uploads/2020/04/StorageReview-Microsoft-Azure-Sphere.png"
         width: 979

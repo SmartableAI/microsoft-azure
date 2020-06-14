@@ -7,8 +7,8 @@ webUrl: "https://www.cnbc.com/2020/05/19/microsoft-buys-software-automation-comp
 ampWebUrl: "https://www.cnbc.com/amp/2020/05/19/microsoft-buys-software-automation-company-softomotive.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/19/microsoft-buys-software-automation-company-softomotive.html"
 type: article
-quality: 102
-heat: 202
+quality: 82
+heat: 182
 published: true
 
 provider:
@@ -40,7 +40,7 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://cnet3.cbsistatic.com/img/Dok6c43xRR9WyO7Gg_0AlGrbr6Q=/756x567/2020/04/14/de44da9c-e4e1-4477-b318-7b6e6923b653/gettyimages-1200013326.jpg"
         width: 756
@@ -56,7 +56,7 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519179146&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4I1BJ"
         width: 817
@@ -72,7 +72,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/01/06/729a12cf-e9ce-41fc-a5f7-ff3d2b08dd86/thumbnail/1200x675/463f9e181651c8c4749d69e9511e9cd8/budget.jpg"
         width: 1200
@@ -88,7 +88,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 64
+    quality: 54
   - title: "Keyhole Software Earns Microsoft Gold Competency Status"
     excerpt: "Keyhole Software announces its achievement of the Microsoft Gold Competency status. This accomplishment will increase its capacity to continue to serve their clients by offering quality Microsoft-based solutions."
     publishedDateTime: 2020-05-14T07:08:00Z

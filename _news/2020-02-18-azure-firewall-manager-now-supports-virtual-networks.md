@@ -5,8 +5,8 @@ excerpt: "This post was co-authored by Yair Tor, Principal Program Manager, Azur
 publishedDateTime: 2020-02-18T10:05:39Z
 webUrl: "https://azure.microsoft.com/blog/azure-firewall-manager-now-supports-virtual-networks/"
 type: article
-quality: 109
-heat: 149
+quality: 99
+heat: 139
 published: true
 
 provider:
@@ -37,7 +37,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 109
+    quality: 99
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/df728987-e4aa-4082-9467-cc35731bd2be.png"
         width: 575

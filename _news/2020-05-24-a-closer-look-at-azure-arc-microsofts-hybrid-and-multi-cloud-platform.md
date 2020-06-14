@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/janakirammsv/2020/05/24/a-closer-look-at-a
 ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/05/24/a-closer-look-at-azure-arc--microsofts-hybrid-and-multi-cloud-platform/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/05/24/a-closer-look-at-azure-arc--microsofts-hybrid-and-multi-cloud-platform/amp/"
 type: article
-quality: 116
-heat: 156
+quality: 96
+heat: 136
 published: true
 
 provider:
@@ -40,7 +40,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 116
+    quality: 96
     images:
       - url: "https://zdnet4.cbsistatic.com/hub/i/2020/05/27/30b4c6f7-2493-46a3-a96e-036d37d7b5dc/2020-05-27-at-2-12-29-am.jpg"
         width: 1432
@@ -56,7 +56,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 105
+    quality: 85
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2020/05/IMG_20191104_091357.jpg?w=1024"
         width: 1024

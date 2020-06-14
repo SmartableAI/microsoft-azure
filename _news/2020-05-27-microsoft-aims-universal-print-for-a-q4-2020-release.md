@@ -7,9 +7,9 @@ webUrl: "https://winbuzzer.com/2020/05/27/microsoft-aims-universal-print-for-a-q
 ampWebUrl: "https://winbuzzer.com/2020/05/27/microsoft-aims-universal-print-for-a-q4-2020-release-xcxwbn/?amp"
 cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/05/27/microsoft-aims-universal-print-for-a-q4-2020-release-xcxwbn/?amp"
 type: article
-quality: 62
-heat: 122
-published: true
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: winbuzzer.com
@@ -34,7 +34,7 @@ related:
     provider:
       name: petri.com
       domain: petri.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.petri.com/wp-content/uploads/sites/3/2015/11/cloud-1280x720.jpg"
         width: 1280
@@ -48,7 +48,7 @@ related:
     provider:
       name: Redmond Magazine
       domain: redmondmag.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/MapRusticBig.jpg"
         width: 1665
@@ -62,7 +62,7 @@ related:
     provider:
       name: Redmond Channel Partner
       domain: rcpmag.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/introimages2014/0515red_RedView.jpg"
         width: 647

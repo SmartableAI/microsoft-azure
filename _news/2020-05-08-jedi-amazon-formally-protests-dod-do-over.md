@@ -7,9 +7,9 @@ webUrl: "https://breakingdefense.com/2020/05/jedi-amazon-formally-protests-dod-d
 ampWebUrl: "https://breakingdefense.com/2020/05/jedi-amazon-formally-protests-dod-do-over/amp/"
 cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2020/05/jedi-amazon-formally-protests-dod-do-over/amp/"
 type: article
-quality: 62
-heat: 82
-published: true
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: Breaking Defense
@@ -36,7 +36,7 @@ related:
     provider:
       name: Breaking Defense
       domain: breakingdefense.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://sites.breakingmedia.com/uploads/sites/3/2020/05/Matryoshka_transparent-1024x659.png"
         width: 1024

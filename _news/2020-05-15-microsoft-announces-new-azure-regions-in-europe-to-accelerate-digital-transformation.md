@@ -5,7 +5,7 @@ excerpt: "And at the same provide a high level of security, data residency, and 
 publishedDateTime: 2020-05-15T13:13:00Z
 webUrl: "https://www.petri.com/microsoft-announces-new-azure-regions-in-europe-to-accelerate-digital-transformation"
 type: article
-quality: 40
+quality: 30
 heat: -1
 published: false
 
@@ -32,7 +32,7 @@ related:
     provider:
       name: SD Times
       domain: sdtimes.com
-    quality: 55
+    quality: 45
     images:
       - url: "https://sdtimes.com/images/sd-premium.png"
         width: 628
@@ -46,7 +46,7 @@ related:
     provider:
       name: Light Reading
       domain: lightreading.com
-    quality: 26
+    quality: 16
     images:
       - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
         width: 600
@@ -60,7 +60,7 @@ related:
     provider:
       name: WFMZ-TV
       domain: wfmz.com
-    quality: 15
+    quality: 5
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
         width: 1280

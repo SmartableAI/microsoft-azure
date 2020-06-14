@@ -31,7 +31,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 67
+    quality: 47
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Microsoft-Docker.jpg"
         width: 1813

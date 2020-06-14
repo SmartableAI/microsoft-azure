@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 109
+    quality: 99
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a69c6248-11fa-477b-81e0-17d56596895a.jpg"
         width: 1024
@@ -160,7 +160,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 70
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -174,7 +174,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 63
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -188,7 +188,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://mma.prnewswire.com/media/1026738/Kyvos_Logo.jpg?p=facebook"
         width: 993
@@ -202,7 +202,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 46
+    quality: 36
     images:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
@@ -216,7 +216,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 42
+    quality: 32
     images:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600

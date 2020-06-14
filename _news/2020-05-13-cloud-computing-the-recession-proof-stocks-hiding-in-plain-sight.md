@@ -7,7 +7,7 @@ webUrl: "https://investorplace.com/2020/05/cloud-computing-stocks-recession-proo
 ampWebUrl: "https://investorplace.com/2020/05/cloud-computing-stocks-recession-proof-stocks-hiding-in-plain-sight/amp/"
 cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/05/cloud-computing-stocks-recession-proof-stocks-hiding-in-plain-sight/amp/"
 type: article
-quality: 62
+quality: 42
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg"
         width: 580
@@ -55,7 +55,7 @@ related:
     provider:
       name: MacRumors
       domain: macrumors.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://images.macrumors.com/article-new/2020/05/icloudfiles.jpg"
         width: 1480

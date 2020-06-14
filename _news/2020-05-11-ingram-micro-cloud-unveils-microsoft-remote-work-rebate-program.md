@@ -5,7 +5,7 @@ excerpt: "Ingram Micro Cloud today announced its new Microsoft Remote Work Rebat
 publishedDateTime: 2020-05-11T23:37:00Z
 webUrl: "https://www.businesswire.com/news/home/20200511005966/en/Ingram-Micro-Cloud-Unveils-Microsoft-Remote-Work"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 101
+    quality: 81
     images:
       - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/05/20/c0a3728a-9463-417d-93bf-d74610a70832/thumbnail/1200x675/98371f48b0fedbacaa1c37916d28d557/programming-languages-why-javascript-dev-5cdd547cbd785600c4d4e0c0-1-may-20-2019-22-25-49-poster.jpg"
         width: 1200
@@ -48,7 +48,7 @@ related:
     provider:
       name: SD Times
       domain: sdtimes.com
-    quality: 72
+    quality: 62
     images:
       - url: "https://sdtimes.com/wp-content/uploads/2020/05/bosque_code_sample.png"
         width: 1022

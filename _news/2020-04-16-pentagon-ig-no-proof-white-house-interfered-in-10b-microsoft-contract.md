@@ -7,9 +7,9 @@ webUrl: "https://www.upi.com/Top_News/US/2020/04/15/Pentagon-IG-No-proof-White-H
 ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/04/15/Pentagon-IG-No-proof-White-House-interfered-in-10B-Microsoft-contract/2041586970851/"
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/04/15/Pentagon-IG-No-proof-White-House-interfered-in-10B-Microsoft-contract/2041586970851/"
 type: article
-quality: 62
-heat: 82
-published: true
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: UPI.com
@@ -34,7 +34,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 41
+    quality: 31
     images:
       - url: "https://i.insider.com/5dee6b1dfd9db2496759bda1?width=600&format=jpeg&auto=webp"
         width: 600

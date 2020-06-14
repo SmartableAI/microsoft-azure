@@ -5,8 +5,8 @@ excerpt: "Amid the coronavirus pandemic, discussions about the cloud and digital
 publishedDateTime: 2020-06-10T16:02:00Z
 webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-azure-data-vp-rohan-kumar-it-s-not-just-about-the-innovation-piece-"
 type: article
-quality: 43
-heat: 43
+quality: 33
+heat: 33
 published: false
 
 provider:

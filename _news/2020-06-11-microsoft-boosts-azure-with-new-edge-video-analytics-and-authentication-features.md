@@ -5,7 +5,7 @@ excerpt: "Microsoft Corp. today introduced a new edge video analytics product fo
 publishedDateTime: 2020-06-11T20:01:00Z
 webUrl: "https://siliconangle.com/2020/06/11/microsoft-boosts-azure-new-edge-video-analytics-authentication-features/"
 type: article
-quality: 42
+quality: 32
 heat: -1
 published: false
 
@@ -24,20 +24,38 @@ images:
     title: "Microsoft boosts Azure with new edge video analytics and authentication features"
 
 related:
-  - title: "New features and insights in Azure Monitor"
-    excerpt: "Customers need full stack observability for their apps and infrastructure across Azure and hybrid environments to ensure their workloads are always up and running, for which they rely on Azure Monitor. Over the past few months, we have released many new capabilities targeting to improve native integration"
-    publishedDateTime: 2020-06-11T09:00:02Z
-    webUrl: "https://azure.microsoft.com/blog/new-features-and-insights-in-azure-monitor/"
+  - title: "Introducing live video analytics from Azure Media Services—now in preview"
+    excerpt: "Azure Media Services is pleased to announce the preview of a new platform capability called Live Video Analytics, or in short, LVA. LVA provides a platform for you to build hybrid applications with video analytics capabilities. The platform offers the capability of capturing, recording, and analyzing"
+    publishedDateTime: 2020-06-11T11:30:23Z
+    webUrl: "https://azure.microsoft.com/blog/introducing-live-video-analytics-on-iot-edge-now-in-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 107
+    quality: 98
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2eaaeb65-3d31-4f10-acfd-c879f6a49a79.png"
-        width: 651
-        height: 768
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7ca46f3e-646d-4280-8e23-ff4336ba416d.png"
+        width: 642
+        height: 309
         isCached: true
+  - title: "Azure Media Services now supports Live Transcription preview in additional regions"
+    excerpt: ""
+    publishedDateTime: 2020-06-10T16:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-media-services-now-supports-live-transcription-preview-in-additional-regions/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 71
+  - title: "Live Video Analytics now in public preview"
+    excerpt: ""
+    publishedDateTime: 2020-06-11T20:00:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/live-video-analytics-now-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 62
 
 secured: "rEKL+QvokTx2v5kbmT5rSR+R3IWW3ae3RBk4S6C4VSBF6wdhH8huUE/pDFfdT44TfdtiEIlrT8mmcNRIRyUuD+ka1hGaKStwYjF27PSc5nNmGLR+hErLdbkdiIZ56Y7QlE32++lmNjw89nynY29P6iLcv2tDpxkFg0gMA6xg8j0nBx6aRepOwdjWny7u21eaXG7pG+Pa8/hrNCrUBDXgB2YxAM7jzTCLkbcuYDoLuy9aVoKrshnHQrCv7oexQXuGwAvSq0BR+Vq9FRp/o1apV0gq2MyMZTeJQQnZGGnr8JYQhMs4Z96We2gwMGXpsDw5TQ6RLAD1qu6W9GQYzERd6mERoES4XpcMomK/tBKFGmq7mhTtqUvMCwukxLdRScPtBqJOG4ap5nLJagMKiFqjAugI7H7LJyHT40/N1EGM/Lf/dPjRK9oHrGN8DrIdxJ0yVZZIladaYzANEbGEC/3BbcRaJWqDeHqHZwu5nOGyaLg3mRtpgbyK9zz6UxXA2LXH;Y647tkQGCZWYpvq2TgqAIA=="
 ---

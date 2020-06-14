@@ -5,8 +5,8 @@ excerpt: "Microsoft is hoping to make it easier for organizations to give Azure 
 publishedDateTime: 2020-05-04T12:01:00Z
 webUrl: "https://www.petri.com/how-does-microsoft-365-universal-print-work"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:

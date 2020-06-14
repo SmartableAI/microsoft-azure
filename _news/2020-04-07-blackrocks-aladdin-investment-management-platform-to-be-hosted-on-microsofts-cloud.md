@@ -7,8 +7,8 @@ webUrl: "https://www.reuters.com/article/us-blackrock-aladdin-microsoft-idUSKBN2
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN21P35X"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21P35X"
 type: article
-quality: 95
-heat: 115
+quality: 75
+heat: 95
 published: true
 
 provider:
@@ -38,7 +38,7 @@ related:
     provider:
       name: InvestmentNews
       domain: investmentnews.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://s32566.pcdn.co/wp-content/uploads/2020/03/blackrock-2.jpg"
         width: 900

@@ -5,7 +5,7 @@ excerpt: "Microsoft has announced a new supercomputer built by the company in pa
 publishedDateTime: 2020-05-19T15:09:00Z
 webUrl: "https://thenextweb.com/artificial-intelligence/2020/05/19/microsoft-just-built-one-of-the-top-five-most-powerful-supercomputers-on-the-planet/"
 type: article
-quality: 65
+quality: 55
 heat: -1
 published: false
 
@@ -38,7 +38,7 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://cnet1.cbsistatic.com/img/TEkbzdFayDjsegaDhc8T7JF9qVI=/756x567/2018/11/10/97f08e96-4be4-41b1-acdc-43595379dfe1/llnl-sierra-supercomputer-randy-wong.jpg"
         width: 756
@@ -54,7 +54,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2020/05/MSFT-Nadella-OpenAI-Altman.jpg"
         width: 630
@@ -70,7 +70,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 72
+    quality: 62
   - title: "OpenAI’s supercomputer collaboration with Microsoft marks its biggest bet yet on AGI"
     excerpt: "OpenAI and Microsoft collaborated to build a supercomputer on Azure that's specifically designed to train large AI models."
     publishedDateTime: 2020-05-19T15:05:00Z
@@ -79,7 +79,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 65
+    quality: 55
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/05/Supercomputer-e1589742859682.jpg?w=1200&#038;strip=all"
         width: 1200
@@ -93,7 +93,7 @@ related:
     provider:
       name: Data Center Knowledge
       domain: datacenterknowledge.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/sam%20altman%20openai%20techcrunch%20disrupt%202019%20getty.jpg"
         width: 1024

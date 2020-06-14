@@ -7,7 +7,7 @@ webUrl: "https://mspoweruser.com/amazon-aws-lost-the-dod-jedi/"
 ampWebUrl: "https://mspoweruser.com/amazon-aws-lost-the-dod-jedi/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/amazon-aws-lost-the-dod-jedi/amp/"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 101
+    quality: 81
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2019/11/microsoft-630x473.jpg"
         width: 630
@@ -50,7 +50,7 @@ related:
     provider:
       name: Politico
       domain: politico.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
@@ -64,7 +64,7 @@ related:
     provider:
       name: The Taipei Times
       domain: taipeitimes.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px.jpg"
         width: 1200
@@ -82,7 +82,7 @@ related:
     provider:
       name: Government Executive
       domain: govexec.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://cdn.govexec.com/media/img/upload/2020/04/19/shutterstock_746396986/open-graph.jpg"
         width: 400

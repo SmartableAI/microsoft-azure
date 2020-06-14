@@ -7,7 +7,7 @@ webUrl: "https://www.barrons.com/articles/microsoft-earnings-wednesday-personal-
 ampWebUrl: "https://www.barrons.com/amp/articles/microsoft-earnings-wednesday-personal-computing-cloud-azure-51588019515"
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/microsoft-earnings-wednesday-personal-computing-cloud-azure-51588019515"
 type: article
-quality: 62
+quality: 42
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: Digital Trends
       domain: digitaltrends.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://icdn2.digitaltrends.com/image/digitaltrends/microsoft-surface-earbuds-1200x630-c-ar1.91.jpg"
         width: 1200

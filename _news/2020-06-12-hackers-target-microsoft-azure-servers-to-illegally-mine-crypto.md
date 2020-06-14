@@ -7,8 +7,8 @@ webUrl: "https://www.financemagnates.com/cryptocurrency/news/hackers-target-micr
 ampWebUrl: "https://www.financemagnates.com/cryptocurrency/news/hackers-target-microsoft-azur-servers-to-illegally-mine-crypto/amp/"
 cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/cryptocurrency/news/hackers-target-microsoft-azur-servers-to-illegally-mine-crypto/amp/"
 type: article
-quality: 77
-heat: 97
+quality: 57
+heat: 77
 published: true
 
 provider:

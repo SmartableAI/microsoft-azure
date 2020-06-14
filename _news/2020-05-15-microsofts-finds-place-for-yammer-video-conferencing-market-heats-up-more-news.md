@@ -7,8 +7,8 @@ webUrl: "https://www.cmswire.com/digital-workplace/microsofts-finds-place-for-ya
 ampWebUrl: "https://www.cmswire.com/digital-workplace/microsofts-finds-place-for-yammer-video-conferencing-market-heats-up-more-news/amp/"
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-workplace/microsofts-finds-place-for-yammer-video-conferencing-market-heats-up-more-news/amp/"
 type: article
-quality: 56
-heat: 56
+quality: 36
+heat: 36
 published: false
 
 provider:

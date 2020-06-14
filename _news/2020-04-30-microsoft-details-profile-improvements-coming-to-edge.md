@@ -5,8 +5,8 @@ excerpt: "The new Microsoft Edge already supports multiple profiles so you can s
 publishedDateTime: 2020-04-30T18:46:00Z
 webUrl: "https://www.thurrott.com/cloud/web-browsers/microsoft-edge/235544/microsoft-details-profile-improvements-coming-to-edge"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:

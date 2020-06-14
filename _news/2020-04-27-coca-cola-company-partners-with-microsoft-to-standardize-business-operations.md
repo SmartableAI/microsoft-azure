@@ -7,7 +7,7 @@ webUrl: "https://www.nasdaq.com/articles/coca-cola-company-partners-with-microso
 ampWebUrl: "https://www.nasdaq.com/articles/coca-cola-company-partners-with-microsoft-to-standardize-business-operations-2020-04-27?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/coca-cola-company-partners-with-microsoft-to-standardize-business-operations-2020-04-27?amp"
 type: article
-quality: 69
+quality: 59
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Neowin
       domain: neowin.net
-    quality: 102
+    quality: 82
     images:
       - url: "https://cdn.neow.in/news/images/uploaded/2020/04/1588004153_cocacola_microsoft_story.jpg"
         width: 760
@@ -45,7 +45,7 @@ related:
     provider:
       name: TechSpot
       domain: techspot.com
-    quality: 101
+    quality: 81
     images:
       - url: "https://static.techspot.com/images2/news/bigimage/2020/04/2020-04-28-image-30.jpg"
         width: 2461
@@ -61,7 +61,7 @@ related:
     provider:
       name: TechSpot
       domain: techspot.com
-    quality: 90
+    quality: 70
     images:
       - url: "https://static.techspot.com/images2/news/bigimage/2020/04/2020-04-28-image-32.jpg"
         width: 2560
@@ -77,7 +77,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/04/Coca-cola-Microsoft.jpg"
         width: 1189
@@ -91,25 +91,11 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://docs.microsoft.com/en-us/mem/intune/protect/media/conditional-access-jamf-cloud-connector/copy-application-id.png"
         width: 517
         height: 269
-        isCached: true
-  - title: "The Coca-Cola Company announces strategic partnership with Microsoft to transform global engagement and experiences"
-    excerpt: "The Coca-Cola Company (NYSE: “KO”) on Monday announced a five-year agreement with Microsoft Corp. (Nasdaq: “MSFT)"
-    publishedDateTime: 2020-04-27T15:31:00Z
-    webUrl: "https://apnews.com/PR Newswire/cd5af10340231d2145bc2ee6bc0ff70d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 10
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Coca-Cola partners Microsoft to transform global engagement, experiences"
     excerpt: "With this agreement, the companies will use the functionalities of Microsoft Azure, Dynamics 365 and Microsoft 365. These products will help The Coca-Cola Company gain new insights from data across the enterprise, enabling a 360-degree view of the business ..."
@@ -120,6 +106,20 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 1
+  - title: "The Coca-Cola Company announces strategic partnership with Microsoft to transform global engagement and experiences"
+    excerpt: "The Coca-Cola Company (NYSE: “KO”) on Monday announced a five-year agreement with Microsoft Corp. (Nasdaq: “MSFT)"
+    publishedDateTime: 2020-04-27T15:31:00Z
+    webUrl: "https://apnews.com/PR Newswire/cd5af10340231d2145bc2ee6bc0ff70d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "3USkdK51Nbs/SIDJXVMbQOuQwpsjHv5P/PY7wj73uLosPtVyTs2ZZL9gQgQPKKGwM/ouOAlug8cH8hPoPlUJKeFSx6ccgYFoEFTlxRCiTuUQM1u7+UDB0F/XFA6MESjAdoPRA8pxN+M86610iaIruc28fl+NwLLej/follWT5Vg6vmYNZr3nTTHBJnafydTGZSeZ3+uR50jzxd3U3p8JYKU1AL1Qh5H1SbhCNEIyhyxFGHQiaVIDWMQCpmsCuXRPTj7mPUiA6YjdQ9IIG8R1HahuhBsBFqcSJwW+5sL/arR7hVu0g76fbDaShW2aeHXpBo1VCzeIuw3GeQRfJ4BI9yBZWuKX4PwRE6P9cmlv2yXqkIdTG5su1F+/XaONjgcLqhzIiEi9zpO7IOrQ7lVD1uir7ZMTwFJNcB6kmVAbTuyI8gzVVvFVOpOCJdSqxq+ZWJZg0YymVbDZu4uaF7TFdU/zGdWhA4C7TpKGK0oN1wo=;WPt80pmQApyCTGHAQ4pBaA=="
 ---

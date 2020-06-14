@@ -5,8 +5,8 @@ excerpt: "Today we're sharing the general availability of NVv4 virtual machines 
 publishedDateTime: 2020-03-16T08:00:31Z
 webUrl: "https://azure.microsoft.com/blog/power-your-azure-gpu-workstations-with-flexible-gpu-partitioning/"
 type: article
-quality: 109
-heat: 109
+quality: 99
+heat: 99
 published: true
 
 provider:

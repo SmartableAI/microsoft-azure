@@ -5,7 +5,7 @@ excerpt: "With COVID-19 triggering a massive uptick in Windows Virtual Desktop u
 publishedDateTime: 2020-04-30T13:06:00Z
 webUrl: "https://www.thurrott.com/windows/windows-10/235512/windows-virtual-desktop-improves-to-address-new-needs"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-1175327930.jpg?w=1024"
         width: 1024
@@ -50,7 +50,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://zdnet1.cbsistatic.com/hub/i/2020/04/30/b77a0f01-6b33-4f90-b06e-94b4e3c3b85f/newwvdfeatures.jpg"
         width: 875
@@ -73,7 +73,7 @@ related:
     provider:
       name: MCPmag
       domain: mcpmag.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://mcpmag.com/-/media/ECG/redmondmag/Images/introimages2014/140319REDMackieVDI.jpg"
         width: 647
@@ -87,7 +87,7 @@ related:
     provider:
       name: Thurrott
       domain: thurrott.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/05/collections-hero.jpg"
         width: 1066

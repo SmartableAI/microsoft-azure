@@ -5,7 +5,7 @@ excerpt: "Its \"SWAT team\" of architects, engineers and developers enables ente
 publishedDateTime: 2020-05-20T22:11:00Z
 webUrl: "https://www.lightreading.com/security/open-systems-augments-its-cybersecurity-capabilities-with-acquisition-of-leading-microsoft-azure-sentinel-expert/d/d-id/759821"
 type: article
-quality: 26
+quality: 16
 heat: -1
 published: false
 
@@ -32,7 +32,7 @@ related:
     provider:
       name: SD Times
       domain: sdtimes.com
-    quality: 55
+    quality: 45
     images:
       - url: "https://sdtimes.com/images/sd-premium.png"
         width: 628
@@ -46,7 +46,7 @@ related:
     provider:
       name: petri.com
       domain: petri.com
-    quality: 40
+    quality: 30
     images:
       - url: "https://www.petri.com/wp-content/uploads/sites/3/2016/08/Microsoft-Azure-cloud-hero.png"
         width: 1280
@@ -60,7 +60,7 @@ related:
     provider:
       name: WFMZ-TV
       domain: wfmz.com
-    quality: 15
+    quality: 5
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
         width: 1280

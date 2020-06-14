@@ -31,7 +31,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 53
+    quality: 33
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Microsoft-Learn-TV.jpg"
         width: 1931

@@ -5,7 +5,7 @@ excerpt: "Clumio Inc., fresh off one of the biggest Series C funding rounds for 
 publishedDateTime: 2020-04-29T18:48:00Z
 webUrl: "https://siliconangle.com/2020/04/29/clumio-extends-platform-microsoft/"
 type: article
-quality: 30
+quality: 20
 heat: -1
 published: false
 
@@ -41,7 +41,7 @@ related:
     provider:
       name: Help Net Security
       domain: helpnetsecurity.com
-    quality: 44
+    quality: 34
     images:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
         width: 304
@@ -55,7 +55,7 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 23
+    quality: 13
     images:
       - url: "https://mms.businesswire.com/media/20200430005281/en/788603/23/Useprimary-landscape_logo.jpg"
         width: 1200

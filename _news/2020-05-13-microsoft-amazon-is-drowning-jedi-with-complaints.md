@@ -5,7 +5,7 @@ excerpt: "When Amazon Web Services filed an agency protest with the Defense Depa
 publishedDateTime: 2020-05-13T18:00:00Z
 webUrl: "https://defensesystems.com/articles/2020/05/13/aws-jedi-microsoft-blog-spat.aspx"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: TechRadar
       domain: techradar.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/utLgVZfGNmPcqfsQrX5XMh-1200-80.jpg"
         width: 970
@@ -50,7 +50,7 @@ related:
     provider:
       name: IT Pro Portal
       domain: itproportal.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/88UejibhsWKbhFSpfr62oA-1200-80.jpg"
         width: 1000
@@ -66,7 +66,7 @@ related:
     provider:
       name: federalnewsnetwork.com
       domain: federalnewsnetwork.com
-    quality: 52
+    quality: 32
     images:
       - url: "https://federalnewsnetwork.com/wp-content/uploads/2019/11/amazon-jedi-protest-1024x683.jpg"
         width: 1024
@@ -80,7 +80,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/pentagon-80394_1920-tpsdave-pixabay-800x521.jpg"
         width: 800
@@ -94,7 +94,7 @@ related:
     provider:
       name: GCN
       domain: gcn.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Cloud/DODcloud_1.png"
         width: 760
@@ -108,7 +108,7 @@ related:
     provider:
       name: FedScoop
       domain: fedscoop.com
-    quality: 26
+    quality: 16
     images:
       - url: "https://www.fedscoop.com/wp-content/uploads/2020/01/AWS_-_Amazon_Web_Services_Office_in_Houston_Texas_46600198075.jpg"
         width: 2100

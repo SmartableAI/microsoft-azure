@@ -7,8 +7,8 @@ webUrl: "https://markets.businessinsider.com/news/stocks/codafication-s-virtual-
 ampWebUrl: "https://markets.businessinsider.com/amp/news/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
 type: article
-quality: 83
-heat: 203
+quality: 73
+heat: 193
 published: true
 
 provider:
@@ -31,7 +31,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -45,7 +45,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
@@ -59,7 +59,7 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://mms.businesswire.com/media/20200609005152/en/796737/23/klarivislogo-black-registered.jpg"
         width: 1200
@@ -73,7 +73,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.co.uk
-    quality: 42
+    quality: 32
     images:
       - url: "https://www.prnewswire.co.uk/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
@@ -87,7 +87,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 21
+    quality: 11
     images:
       - url: "https://mma.prnewswire.com/media/963377/Parabole_ai_Logo.jpg?p=facebook"
         width: 2697

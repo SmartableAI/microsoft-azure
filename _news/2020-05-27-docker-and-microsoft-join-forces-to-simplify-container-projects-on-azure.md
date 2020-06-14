@@ -5,7 +5,7 @@ excerpt: "Its partnership with Docker dates back to the earliest days of the eff
 publishedDateTime: 2020-05-27T20:23:00Z
 webUrl: "https://siliconangle.com/2020/05/27/docker-microsoft-join-forces-simplify-container-projects-azure/"
 type: article
-quality: 46
+quality: 36
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 93
+    quality: 73
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2020/05/IMG_0961-2.jpg?w=1024"
         width: 1024
@@ -50,7 +50,7 @@ related:
     provider:
       name: ITworld
       domain: itworld.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://images.idgesg.net/images/article/2019/02/power-of-one_rebel_fight_strong_rise-up_arm_fist_power-100788748-large.jpg"
         width: 1200
@@ -64,7 +64,7 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 42
+    quality: 32
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
@@ -78,7 +78,7 @@ related:
     provider:
       name: Sify.com
       domain: sify.com
-    quality: 26
+    quality: 16
     images:
       - url: "https://www.sify.com/uploads/DevOpsEnabler_ugbqn5hgfaeea.jpg"
         width: 600

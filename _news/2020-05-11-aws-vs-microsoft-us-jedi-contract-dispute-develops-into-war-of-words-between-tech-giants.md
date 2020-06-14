@@ -7,7 +7,7 @@ webUrl: "https://www.computerweekly.com/news/252482909/AWS-vs-Microsoft-US-JEDI-
 ampWebUrl: "https://www.computerweekly.com/news/252482909/AWS-vs-Microsoft-US-JEDI-contract-dispute-develops-into-war-of-words-between-tech-giants?amp=1"
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252482909/AWS-vs-Microsoft-US-JEDI-contract-dispute-develops-into-war-of-words-between-tech-giants?amp=1"
 type: article
-quality: 23
+quality: 13
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://media.bizj.us/view/img/4173721/181492672*600xx2005-1341-0-94.jpg"
         width: 600
@@ -43,7 +43,7 @@ related:
     provider:
       name: CRN
       domain: crn.com
-    quality: 29
+    quality: 19
     images:
       - url: "https://www.crn.com/resources/025d-0f5c8e54763b-7560272feb30-1000/pentagon-front.jpg"
         width: 610

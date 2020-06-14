@@ -7,7 +7,7 @@ webUrl: "https://www.zdnet.com/article/microsoft-strengthens-its-rpa-portfolio-w
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-strengthens-its-rpa-portfolio-with-softomotive-acquisition/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-strengthens-its-rpa-portfolio-with-softomotive-acquisition/"
 type: article
-quality: 102
+quality: 82
 heat: -1
 published: false
 
@@ -40,7 +40,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106261600-1574453260135gettyimages-1127797637.jpeg?v=1589900843"
         width: 4358
@@ -56,7 +56,7 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://cnet3.cbsistatic.com/img/Dok6c43xRR9WyO7Gg_0AlGrbr6Q=/756x567/2020/04/14/de44da9c-e4e1-4477-b318-7b6e6923b653/gettyimages-1200013326.jpg"
         width: 756
@@ -72,7 +72,7 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519179146&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4I1BJ"
         width: 817
@@ -88,7 +88,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 64
+    quality: 54
   - title: "Keyhole Software Earns Microsoft Gold Competency Status"
     excerpt: "Keyhole Software announces its achievement of the Microsoft Gold Competency status. This accomplishment will increase its capacity to continue to serve their clients by offering quality Microsoft-based solutions."
     publishedDateTime: 2020-05-14T07:08:00Z

@@ -5,8 +5,8 @@ excerpt: "Last week at the Microsoft Build conference, we announced that Azure P
 publishedDateTime: 2020-05-28T14:00:18Z
 webUrl: "https://azure.microsoft.com/blog/optimize-for-internet-traffic-with-peering-service-and-the-routing-preference-option/"
 type: article
-quality: 85
-heat: 85
+quality: 75
+heat: 75
 published: true
 
 provider:

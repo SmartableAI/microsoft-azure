@@ -7,7 +7,7 @@ webUrl: "https://www.law360.com/articles/1271571/amazon-files-new-protest-over-p
 ampWebUrl: "https://www.law360.com/amp/articles/1271571"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1271571"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://media.bizj.us/view/img/10654474/3124262891-11*600xx4000-2667-0-0.jpg"
         width: 600
@@ -43,7 +43,7 @@ related:
     provider:
       name: Federal Computer Week
       domain: fcw.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Cloud/pentagoncloud2.png"
         width: 760
@@ -57,7 +57,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 26
+    quality: 16
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/01/pentagon-720022_1280-AutoGirl-Pixabay.jpg"
         width: 1280

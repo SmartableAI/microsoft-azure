@@ -7,7 +7,7 @@ webUrl: "https://www.cnet.com/health/microsoft-is-building-software-for-health-c
 ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-is-building-software-for-health-care-workers-and-hospitals/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-is-building-software-for-health-care-workers-and-hospitals/"
 type: article
-quality: 102
+quality: 82
 heat: -1
 published: false
 
@@ -40,7 +40,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106261600-1574453260135gettyimages-1127797637.jpeg?v=1589900843"
         width: 4358
@@ -56,7 +56,7 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519179146&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4I1BJ"
         width: 817
@@ -72,7 +72,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/01/06/729a12cf-e9ce-41fc-a5f7-ff3d2b08dd86/thumbnail/1200x675/463f9e181651c8c4749d69e9511e9cd8/budget.jpg"
         width: 1200
@@ -88,7 +88,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 64
+    quality: 54
   - title: "Keyhole Software Earns Microsoft Gold Competency Status"
     excerpt: "Keyhole Software announces its achievement of the Microsoft Gold Competency status. This accomplishment will increase its capacity to continue to serve their clients by offering quality Microsoft-based solutions."
     publishedDateTime: 2020-05-14T07:08:00Z

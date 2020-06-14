@@ -5,7 +5,7 @@ excerpt: "The war of words is heating up between Microsoft and AWS as the Pentag
 publishedDateTime: 2020-05-08T21:24:00Z
 webUrl: "https://www.crn.com/news/cloud/aws-fires-back-at-microsoft-as-jedi-cloud-battle-rages-we-won-t-back-down-"
 type: article
-quality: 29
+quality: 19
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://media.bizj.us/view/img/4173721/181492672*600xx2005-1341-0-94.jpg"
         width: 600
@@ -50,7 +50,7 @@ related:
     provider:
       name: Computer Weekly
       domain: computerweekly.com
-    quality: 23
+    quality: 13
 
 secured: "iqnJO7WWtTn91DcGWq3juTngx8jXfhizJyuDpA1ZLkjBIc5rbTUYZAdgXNO0shXgjp5DeI5EfAV/me3iKwBRepry5QRT1Ix1zbuFB7JfdaK8YQ3pJ1cAftwmkW2F+i5tM6tevmhjkPA0OKuffn3o6BAAIYrlFuUj7dEdrOngVy5taorStwkymZB2rc2eNqzNmPiMbGCbCEYV9E5rLb6ehqpyeWPdI8ApYg8WOJ6PBHFg9bdSDS7VpXJFV5SZxY3PqrWY/GMsrjubUiVaTflHjHbubOU0ixV+ZVVeVawgJ3bhsE2nhi2h4Kc0mkdm6z919RegW27S/tmbpiqHMBeqhdZTihBL1UyYr0bNY2kR+/UlPGldyXmWFKdrv7X6F//txPqeRuhB6NvrdDEmeH58b3x5cUm5qB/+cXY5G3ONynuQQIfydn3TyBlPLpO2BeST9pMBrbbnLRobTVCvoQG6nUdyaI5ySF4EomKJVkkqYPg=;x0uQW2cbhl8WqCh417IAvw=="
 ---

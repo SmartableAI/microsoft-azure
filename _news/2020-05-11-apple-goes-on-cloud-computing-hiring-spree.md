@@ -7,7 +7,7 @@ webUrl: "https://www.macrumors.com/2020/05/11/apple-cloud-hiring-spree/"
 ampWebUrl: "https://www.macrumors.com/2020/05/11/apple-cloud-hiring-spree/amp/"
 cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/05/11/apple-cloud-hiring-spree/amp/"
 type: article
-quality: 62
+quality: 42
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg"
         width: 580
@@ -55,7 +55,7 @@ related:
     provider:
       name: InvestorPlace
       domain: investorplace.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://investorplace.com/wp-content/uploads/2020/03/bear-market.jpg"
         width: 1600

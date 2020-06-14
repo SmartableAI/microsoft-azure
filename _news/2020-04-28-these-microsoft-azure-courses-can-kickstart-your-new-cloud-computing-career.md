@@ -27,7 +27,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 115
+    quality: 95
     images:
       - url: "https://tr1.cbsistatic.com/hub/i/r/2020/03/02/89020fc6-fe78-4bee-abb0-0ce4d0175c91/thumbnail/1200x675/66a68d9e60796e80b78d5bedaa0bde98/20200227-rsa-yehoshua-veronica.jpg"
         width: 1200
@@ -43,27 +43,11 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 101
+    quality: 81
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2020/04/5922669089_ea901d5f3a_c-630x418.jpg"
         width: 630
         height: 418
-        isCached: true
-  - title: "Microsoft strikes 5-year cloud deal with Coca-Cola for Azure, Microsoft 365"
-    excerpt: "Cola company have reached a deal that will see the latter use Microsoft 365, Azure, and more to power its digital operations for five years."
-    publishedDateTime: 2020-04-27T21:11:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 75
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2017/09/microsoft-logo-2017-ignite2.jpg?itok=c3ocGDNm"
-        width: 800
-        height: 600
         isCached: true
   - title: "Oracle Wins Cloud Computing Deal With Zoom as Video Calls Surge"
     excerpt: "Zoom Video Communications Inc said on Tuesday it has started using Oracle Corp's cloud computing service to help handle the surge in online video call volumes brought on by the novel coronavirus pandemic."
@@ -75,7 +59,23 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 72
+    quality: 62
+  - title: "Microsoft strikes 5-year cloud deal with Coca-Cola for Azure, Microsoft 365"
+    excerpt: "Cola company have reached a deal that will see the latter use Microsoft 365, Azure, and more to power its digital operations for five years."
+    publishedDateTime: 2020-04-27T21:11:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 55
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2017/09/microsoft-logo-2017-ignite2.jpg?itok=c3ocGDNm"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Avid, Microsoft Ink Deal to Extend Cloud Collaboration Agreement"
     excerpt: "BURLINGTON, Mass.—Avid has announced a five-year renewal of its cloud collaboration agreement with Microsoft. During the term of the new agreement, Avid will continue to develop and deploy its cloud-based solutions on Microsoft Azure."
     publishedDateTime: 2020-05-06T11:30:00Z
@@ -86,7 +86,7 @@ related:
     provider:
       name: TV Technology
       domain: tvtechnology.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/boJbUfrk78USVo49YfjzsH-1200-80.jpg"
         width: 640
@@ -100,7 +100,7 @@ related:
     provider:
       name: TV NewsCheck
       domain: tvnewscheck.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://tvnewscheck.com/wp-content/themes/TvNewsCheck/assets/img/tvn-logo.png"
         width: 581
@@ -114,7 +114,7 @@ related:
     provider:
       name: On MSFT
       domain: onmsft.com
-    quality: 25
+    quality: 15
     images:
       - url: "https://www.onmsft.com/wp-content/uploads/2020/04/microsoft-aws.jpg"
         width: 1024

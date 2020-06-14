@@ -5,7 +5,7 @@ excerpt: "As enterprise organisations are forced through digital transformation 
 publishedDateTime: 2020-05-10T09:52:00Z
 webUrl: "https://telecoms.com/504201/will-coronavirus-compound-the-concentration-of-cloud-computing-champions/"
 type: article
-quality: 31
+quality: 21
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://images.idgesg.net/images/article/2018/10/typewriter_are-you-ready_prepare_contingency_disaster-recovery-100777507-large.jpg"
         width: 1200
@@ -50,7 +50,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 97
+    quality: 77
     images:
       - url: "https://tr4.cbsistatic.com/hub/i/r/2020/04/30/61a5fc1e-5f9f-4a11-b0e7-62340e7bbd64/thumbnail/1200x675/bf9d1ca7025b33658e94dd76217e5b43/20200427-lance2-karen.jpg"
         width: 1200

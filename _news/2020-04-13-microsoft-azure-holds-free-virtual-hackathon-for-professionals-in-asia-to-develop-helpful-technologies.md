@@ -7,8 +7,8 @@ webUrl: "https://www.gmanetwork.com/news/scitech/technology/733783/microsoft-azu
 ampWebUrl: "https://www.gmanetwork.com/news/scitech/technology/733783/microsoft-azure-holds-free-virtual-hackathon-for-professionals-in-asia-to-develop-helpful-technologies/story/?amp"
 cdnAmpWebUrl: "https://www-gmanetwork-com.cdn.ampproject.org/c/s/www.gmanetwork.com/news/scitech/technology/733783/microsoft-azure-holds-free-virtual-hackathon-for-professionals-in-asia-to-develop-helpful-technologies/story/?amp"
 type: article
-quality: 30
-heat: 30
+quality: 20
+heat: 20
 published: false
 
 provider:

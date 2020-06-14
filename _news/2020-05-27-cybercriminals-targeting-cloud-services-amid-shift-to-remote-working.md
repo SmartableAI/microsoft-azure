@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/cybercriminals-targeting-cloud-ser
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/cybercriminals-targeting-cloud-services-amid-shift-to-remote-working/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cybercriminals-targeting-cloud-services-amid-shift-to-remote-working/"
 type: article
-quality: 102
-heat: 142
+quality: 82
+heat: 122
 published: true
 
 provider:
@@ -38,7 +38,7 @@ related:
     provider:
       name: Data Center Knowledge
       domain: datacenterknowledge.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/cloud-secured-with-chains.jpg"
         width: 1540
@@ -54,7 +54,7 @@ related:
     provider:
       name: IT Security
       domain: healthitsecurity.com
-    quality: 32
+    quality: 22
 
 secured: "t7IGCvHgk2RJGvYYsPLJ5fGt/rm+3CI15wdUrqQeAYHFO2rrtJmgwRSUMNnPAOXMHXhMo2XrK/LdZSTsz4XmeCNqT2ZT0HP5x0SBftiTBXkAQMEstGypgXaGDNUOhEKk7rAC6hNC46zcVxTDSrYvl36eq/GN1MVNbZ0OYJVXdbUuQKaxd3qLxkjOmOIIIRlRh+uc2LRDMlDJBE5jaW139c0tEwdizV0Sm9nYnNbsRmVInIspyN2IQWxd5CH4bMCKSv6e8dwNwr07iXYj97lcjFJYg1iJO28I+59AUF2EzQJkSnXZeLv6u1gv9FE32seO;IqX76fSZEWyeFaNeC7/3ww=="
 ---

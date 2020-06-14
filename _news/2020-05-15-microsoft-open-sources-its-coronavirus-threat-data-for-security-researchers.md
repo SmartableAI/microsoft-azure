@@ -5,8 +5,8 @@ excerpt: "For the last couple of months, cybercriminals have taken advantage of 
 publishedDateTime: 2020-05-15T06:44:00Z
 webUrl: "https://thenextweb.com/microsoft/2020/05/15/microsoft-open-sources-its-coronavirus-related-threat-data/"
 type: article
-quality: 70
-heat: 90
+quality: 60
+heat: 80
 published: true
 
 provider:
@@ -38,7 +38,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Open-sourcing-new-COVID-19-threat-intelligence-5.png"
         width: 766

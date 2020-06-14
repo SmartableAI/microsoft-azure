@@ -7,7 +7,7 @@ webUrl: "https://mspoweruser.com/meet-microsoft-cloud-for-healthcare-solution/"
 ampWebUrl: "https://mspoweruser.com/meet-microsoft-cloud-for-healthcare-solution/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/meet-microsoft-cloud-for-healthcare-solution/amp/"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: Digital Trends
       domain: digitaltrends.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://icdn2.digitaltrends.com/image/digitaltrends/office-365-free-eduction-0001-1200x630-c-ar1.91.jpg"
         width: 990
@@ -52,7 +52,7 @@ related:
     provider:
       name: Digital Trends
       domain: digitaltrends.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://icdn2.digitaltrends.com/image/digitaltrends/office-365-free-eduction-0001-1200x630-c-ar1.91.jpg"
         width: 990

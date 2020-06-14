@@ -5,7 +5,7 @@ excerpt: "Microsoft has announced Azure Service Fabric, a new cloud platform for
 publishedDateTime: 2020-04-20T00:00:00Z
 webUrl: "https://sdtimes.com/azure/microsoft-announces-azure-service-fabric/"
 type: article
-quality: 87
+quality: 77
 heat: -1
 published: false
 
@@ -38,7 +38,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 117
+    quality: 97
     images:
       - url: "https://zdnet4.cbsistatic.com/hub/i/2020/04/14/ae52840f-bd1d-4e9d-8ec2-114e56664784/synapse.jpg"
         width: 750
@@ -52,7 +52,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 87
+    quality: 77
     images:
       - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
         width: 300
@@ -66,7 +66,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 87
+    quality: 77
     images:
       - url: "https://images.techhive.com/images/article/2016/12/thumbs-up-multicultural-100701134-large.jpg"
         width: 700
@@ -80,7 +80,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
         width: 400

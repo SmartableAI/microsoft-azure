@@ -5,7 +5,7 @@ excerpt: "Microsoft is one of the big tech names that will be reporting earnings
 publishedDateTime: 2020-04-28T17:17:00Z
 webUrl: "https://www.thestreet.com/streetlightning/stock-picks/watch-azure-when-microsoft-reports-jim-cramer-says-fjtgd3vNyEuF3IPI-bmeDg"
 type: article
-quality: 47
+quality: 37
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2016/11/Microsoft.jpg?fit=2048%2C1025&strip=all"
         width: 2048

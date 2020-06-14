@@ -5,8 +5,8 @@ excerpt: "The eight-year-old, San Jose, Calif.-based Vectra attracted $100 milli
 publishedDateTime: 2020-06-09T19:23:00Z
 webUrl: "https://rcpmag.com/blogs/scott-bekker/2020/06/ai-security-for-azure.aspx"
 type: article
-quality: 43
-heat: 43
+quality: 33
+heat: 33
 published: false
 
 provider:

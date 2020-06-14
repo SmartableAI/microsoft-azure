@@ -5,7 +5,7 @@ excerpt: "Microsoft Research announced new capabilities that it is building for 
 publishedDateTime: 2020-05-15T15:28:00Z
 webUrl: "https://sdtimes.com/cloud/microsoft-provides-insight-into-its-programming-language-bosque/"
 type: article
-quality: 72
+quality: 62
 heat: -1
 published: false
 
@@ -38,7 +38,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 101
+    quality: 81
     images:
       - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/05/20/c0a3728a-9463-417d-93bf-d74610a70832/thumbnail/1200x675/98371f48b0fedbacaa1c37916d28d557/programming-languages-why-javascript-dev-5cdd547cbd785600c4d4e0c0-1-may-20-2019-22-25-49-poster.jpg"
         width: 1200
@@ -52,7 +52,7 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://mms.businesswire.com/media/20200511005966/en/790978/23/IMC_landscape_tagline.jpg"
         width: 1200

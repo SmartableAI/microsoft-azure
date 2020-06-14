@@ -5,8 +5,8 @@ excerpt: "Two new key features in Azure Firewall—forced tunneling and SQL FQDN
 publishedDateTime: 2020-06-10T11:00:13Z
 webUrl: "https://azure.microsoft.com/blog/azure-firewall-forced-tunneling-and-sql-fqdn-filtering-now-generally-available/"
 type: article
-quality: 103
-heat: 103
+quality: 93
+heat: 93
 published: true
 
 provider:

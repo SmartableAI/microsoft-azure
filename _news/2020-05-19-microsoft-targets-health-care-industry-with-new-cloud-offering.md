@@ -7,7 +7,7 @@ webUrl: "https://www.cnbc.com/2020/05/19/microsoft-cloud-for-health-care-bundle-
 ampWebUrl: "https://www.cnbc.com/amp/2020/05/19/microsoft-cloud-for-health-care-bundle-targets-health-care-industry.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/19/microsoft-cloud-for-health-care-bundle-targets-health-care-industry.html"
 type: article
-quality: 102
+quality: 82
 heat: -1
 published: false
 
@@ -40,7 +40,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F575083%2Fmicrosoft-healthcare-cloud-mf.jpg&w=1200&op=resize"
         width: 1200
@@ -56,7 +56,7 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://cnet1.cbsistatic.com/img/QJAZnYeTJ3nqwNYz4E5RCD7tTUA=/756x567/2020/04/13/4a78d253-d1a5-40d1-8336-2b30769fd064/now-what-live-with-telemedicine-00-26-07-17-still001.jpg"
         width: 756
@@ -72,7 +72,7 @@ related:
     provider:
       name: Engadget
       domain: engadget.com
-    quality: 100
+    quality: 80
     images:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-05%2Fa0edfd10-9956-11ea-bf56-d8317e33c37c&client=amp-blogside-v2&signature=ba67488c1e6727b316ffc4eea32d47020ae36a8c"
         width: 600
@@ -88,7 +88,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 98
+    quality: 78
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2018/06/GettyImages-952061110.jpg?w=1024"
         width: 1024
@@ -104,7 +104,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 97
+    quality: 77
     images:
       - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/14/533e6954-77da-4a3b-a494-d048db111d54/thumbnail/1200x675/0f777a75c789f86629369bf9956b8307/microsoftmetaswitch.jpg"
         width: 1200
@@ -120,7 +120,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 94
+    quality: 74
     images:
       - url: "https://tr4.cbsistatic.com/hub/i/r/2020/05/18/5180a84a-a933-43ea-baef-86d59629357a/thumbnail/1200x675/0fa1b634480c0db3b89ee1d86d1aaddf/20200515-mj-larry-build.jpg"
         width: 1200
@@ -134,7 +134,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 72
+    quality: 62
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/05/healthcare-cloud-2.jpg?w=1200&#038;strip=all"
         width: 1200
@@ -150,7 +150,21 @@ related:
     provider:
       name: Bloomberg
       domain: bloomberg.com
-    quality: 72
+    quality: 62
+  - title: "Microsoft is rolling out Cloud for Healthcare as its first industry-specific cloud offering"
+    excerpt: "Microsoft announced the rollout of a spate of industry-specific cloud offerings, with Cloud for Healthcare as the first to launch."
+    publishedDateTime: 2020-05-21T12:47:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-launches-cloud-for-healthcare-2020-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
+    images:
+      - url: "https://i.insider.com/5de54af4fd9db2443f7a1617?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Microsoft Creates Specific Cloud Service for Health Care"
     excerpt: "Microsoft created a specific cloud service for health care, possibly presaging a trend toward customized cloud offerings for individual industries."
     publishedDateTime: 2020-05-19T17:19:00Z
@@ -161,7 +175,7 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://content.jwplatform.com/thumbs/6UhcmMhw-720.jpg"
         width: 720
@@ -177,25 +191,11 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://content.jwplatform.com/thumbs/6UhcmMhw-720.jpg"
         width: 720
         height: 406
-        isCached: true
-  - title: "Microsoft is rolling out Cloud for Healthcare as its first industry-specific cloud offering"
-    excerpt: "Microsoft announced the rollout of a spate of industry-specific cloud offerings, with Cloud for Healthcare as the first to launch."
-    publishedDateTime: 2020-05-21T12:47:00Z
-    webUrl: "https://www.businessinsider.com/microsoft-launches-cloud-for-healthcare-2020-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
-    images:
-      - url: "https://i.insider.com/5de54af4fd9db2443f7a1617?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Microsoft unveils cloud tools tailored for health-care systems"
     excerpt: "Microsoft unveiled a package of cloud software designed for health-care systems, starting with a free trial to help the industry weather a viral pandemic that is both increasing the need for technology solutions and putting hospitals in financial peril."
@@ -207,7 +207,7 @@ related:
     provider:
       name: Daily Herald
       domain: dailyherald.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://www.dailyherald.com/storyimage/DA/20200523/business/200529786/AR/0/AR-200529786.jpg&updated=202005211541&MaxW=800&MaxH=800&noborder"
         width: 800
@@ -223,7 +223,7 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
-    quality: 61
+    quality: 41
     images:
       - url: "https://content.jwplatform.com/thumbs/9eFnHW1Q-720.jpg"
         width: 720
@@ -237,7 +237,7 @@ related:
     provider:
       name: CRN Australia
       domain: crn.com.au
-    quality: 47
+    quality: 37
     images:
       - url: "https://i.nextmedia.com.au/News/20200520062800_0_0_0_0_70__News_20181029105528_crn_14_new_Microsoft_stock.jpg"
         width: 1400
@@ -251,7 +251,7 @@ related:
     provider:
       name: Sify.com
       domain: sify.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.sify.com/uploads/microsoft_logo_ap_ufnfR2daebada.jpg"
         width: 950
@@ -265,7 +265,7 @@ related:
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://menafn.com/updates/pr/2020-05/13/KI_30d78cc1-0image_story.jpg"
         width: 500
@@ -279,7 +279,7 @@ related:
     provider:
       name: Sify.com
       domain: sify.com
-    quality: 32
+    quality: 22
     images:
       - url: "http://iansphoto.in/web/photoimages_new/400/2019/06/01/930096c3b2d40cf654dbb586ba9d5962.jpg"
         width: 400
@@ -293,7 +293,7 @@ related:
     provider:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
         width: 1200
@@ -309,7 +309,7 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
-    quality: 32
+    quality: 22
   - title: "Microsoft's 1st industry-specific cloud product is for healthcare"
     excerpt: "Tom McGuinness, the company's corporate VP of healthcare, said expanding to payers, pharma and life sciences is part of the tech giant's plan."
     publishedDateTime: 2020-05-20T15:37:00Z
@@ -318,7 +318,7 @@ related:
     provider:
       name: Healthcare Dive
       domain: healthcaredive.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.healthcaredive.com/user_media/cache/9b/db/9bdbcf9f6a563d032837efbed204fd23.jpg"
         width: 770
@@ -332,7 +332,7 @@ related:
     provider:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/4.jpg"
         width: 400
@@ -346,7 +346,7 @@ related:
     provider:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
-    quality: 28
+    quality: 18
     images:
       - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/3.jpg"
         width: 400

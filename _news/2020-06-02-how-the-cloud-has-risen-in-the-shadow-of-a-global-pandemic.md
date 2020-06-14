@@ -5,8 +5,8 @@ excerpt: "In this experiment, the cloud has risen to its claim of being scalable
 publishedDateTime: 2020-06-02T14:53:00Z
 webUrl: "https://www.cio.com/article/3546305/how-the-cloud-has-risen-in-the-shadow-of-a-global-pandemicin-a-disrupted-world-cloud-computing-rol.html"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:

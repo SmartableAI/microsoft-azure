@@ -7,8 +7,8 @@ webUrl: "https://mspoweruser.com/microsoft-sending-out-build-2020-swag-to-early-
 ampWebUrl: "https://mspoweruser.com/microsoft-sending-out-build-2020-swag-to-early-registrants/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-sending-out-build-2020-swag-to-early-registrants/amp/"
 type: article
-quality: 62
-heat: 62
+quality: 42
+heat: 42
 published: false
 
 provider:

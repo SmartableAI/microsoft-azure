@@ -5,8 +5,8 @@ excerpt: "NEW YORK, NY / ACCESSWIRE / May 12, 2020 / With the success of product
 publishedDateTime: 2020-05-12T08:58:00Z
 webUrl: "https://apnews.com/7d58c1095b0d0c5eef859880870914a6"
 type: article
-quality: 7
-heat: 7
+quality: 0
+heat: 0
 published: false
 
 provider:

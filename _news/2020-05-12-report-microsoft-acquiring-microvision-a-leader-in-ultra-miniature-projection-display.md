@@ -7,7 +7,7 @@ webUrl: "https://mspoweruser.com/microsoft-acquiring-microvision/"
 ampWebUrl: "https://mspoweruser.com/microsoft-acquiring-microvision/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-acquiring-microvision/amp/"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://www.benzinga.com/files/images/story/2012/building-1011876_1920_1_4.jpg"
         width: 1920
@@ -52,7 +52,7 @@ related:
     provider:
       name: WRIC
       domain: wric.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://www.wric.com/wp-content/uploads/sites/74/2020/04/2a643fc1b1fb4a6ca0c2ce8d387c3860.jpg?w=1280&h=720&crop=1"
         width: 1280
@@ -66,7 +66,7 @@ related:
     provider:
       name: The Japan Times
       domain: japantimes.co.jp
-    quality: 26
+    quality: 16
     images:
       - url: "https://cdn.japantimes.2xx.jp/wp-content/uploads/2020/05/np_file_11661.jpeg"
         width: 594

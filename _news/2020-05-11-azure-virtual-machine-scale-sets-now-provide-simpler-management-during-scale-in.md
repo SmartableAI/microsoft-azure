@@ -5,7 +5,7 @@ excerpt: "We recently announced the general availability of three features for A
 publishedDateTime: 2020-05-11T12:00:03Z
 webUrl: "https://azure.microsoft.com/blog/azure-virtual-machine-scale-sets-now-provide-simpler-management-during-scalein/"
 type: article
-quality: 120
+quality: 110
 heat: -1
 published: false
 
@@ -37,7 +37,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 124
+    quality: 114
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/333076bc-4f9e-4461-9ba7-810752e19173.jpg"
         width: 800
@@ -51,7 +51,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 123
+    quality: 113
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8aaf8f84-054c-4681-82e8-58dd8d160940.png"
         width: 1430
@@ -83,7 +83,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 41
+    quality: 31
     images:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
@@ -97,7 +97,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 27
+    quality: 17
     images:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
@@ -111,7 +111,7 @@ related:
     provider:
       name: InfoQ
       domain: infoq.com
-    quality: 22
+    quality: 12
     images:
       - url: "https://cdn.infoq.com/statics_s2_20200602-0333/styles/static/images/logo/logo-big.jpg"
         width: 1200

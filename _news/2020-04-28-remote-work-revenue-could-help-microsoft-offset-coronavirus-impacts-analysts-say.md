@@ -5,7 +5,7 @@ excerpt: "When Microsoft Corp reports earnings on Wednesday, analysts expect som
 publishedDateTime: 2020-04-28T11:30:00Z
 webUrl: "https://www.nytimes.com/reuters/2020/04/28/business/28reuters-microsoft-tech.html"
 type: article
-quality: 67
+quality: 57
 heat: -1
 published: false
 
@@ -38,7 +38,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 81
+    quality: 61
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106508494-1588191101593msft.jpg?v=1588191126"
         width: 3000
@@ -54,7 +54,7 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
-    quality: 48
+    quality: 28
     images:
       - url: "https://content.jwplatform.com/thumbs/FcegUGWf-720.jpg"
         width: 720

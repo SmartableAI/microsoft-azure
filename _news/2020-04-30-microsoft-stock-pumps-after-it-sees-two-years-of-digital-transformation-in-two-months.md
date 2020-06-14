@@ -7,7 +7,7 @@ webUrl: "https://thenextweb.com/hardfork/2020/04/30/microsoft-stock-pumps-after-
 ampWebUrl: "https://thenextweb.com/hardfork/2020/04/30/microsoft-stock-pumps-after-it-sees-two-years-of-digital-transformation-in-two-months/amp/"
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/hardfork/2020/04/30/microsoft-stock-pumps-after-it-sees-two-years-of-digital-transformation-in-two-months/amp/"
 type: article
-quality: 95
+quality: 75
 heat: -1
 published: false
 
@@ -40,7 +40,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F569510%2Fmicrosoft-at-westfield-sydney-on-pitt-street-mall.jpg&w=1200&op=resize"
         width: 1200

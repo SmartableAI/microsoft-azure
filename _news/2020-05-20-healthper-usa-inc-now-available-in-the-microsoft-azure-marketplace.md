@@ -5,7 +5,7 @@ excerpt: "Microsoft Azure customers worldwide now gain access to Healthper to ta
 publishedDateTime: 2020-05-20T16:53:00Z
 webUrl: "https://www.pr.com/press-release/813120"
 type: article
-quality: 47
+quality: 37
 heat: -1
 published: false
 
@@ -32,7 +32,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 103
+    quality: 93
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8a5121d3-a63b-43d7-9fd0-2296e66f85f9.jpg"
         width: 585

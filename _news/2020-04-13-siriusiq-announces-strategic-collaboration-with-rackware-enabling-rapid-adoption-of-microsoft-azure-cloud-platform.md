@@ -5,7 +5,7 @@ excerpt: "SiriusIQ, the leading Master Orchestration and Automation Platform for
 publishedDateTime: 2020-04-13T11:00:00Z
 webUrl: "https://www.prnewswire.com/news-releases/siriusiq-announces-strategic-collaboration-with-rackware-enabling-rapid-adoption-of-microsoft-azure-cloud-platform-301039072.html"
 type: article
-quality: 25
+quality: 15
 heat: -1
 published: false
 
@@ -32,7 +32,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 84
+    quality: 74
     images:
       - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
         width: 300
@@ -46,7 +46,7 @@ related:
     provider:
       name: CIO Dive
       domain: ciodive.com
-    quality: 42
+    quality: 32
     images:
       - url: "https://www.ciodive.com/user_media/cache/ad/a3/ada36e672fd3d4dfa464f1e0879cba03.jpg"
         width: 770

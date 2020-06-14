@@ -5,8 +5,8 @@ excerpt: "The pandemic has put more pressure, in different ways, than usual on s
 publishedDateTime: 2020-05-01T15:50:00Z
 webUrl: "https://www.petri.com/everything-you-need-to-know-about-azure-infrastructure-april-2020-edition"
 type: article
-quality: 45
-heat: 45
+quality: 35
+heat: 35
 published: false
 
 provider:

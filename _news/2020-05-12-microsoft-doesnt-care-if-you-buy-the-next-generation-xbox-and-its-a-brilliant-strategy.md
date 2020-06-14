@@ -7,8 +7,8 @@ webUrl: "https://www.businessinsider.com/xbox-vs-playstation-microsoft-strategy-
 ampWebUrl: "https://www.businessinsider.com/xbox-vs-playstation-microsoft-strategy-2020-5?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/xbox-vs-playstation-microsoft-strategy-2020-5?amp"
 type: article
-quality: 92
-heat: 92
+quality: 72
+heat: 72
 published: true
 
 provider:

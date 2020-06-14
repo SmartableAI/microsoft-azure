@@ -5,8 +5,8 @@ excerpt: "Thousands of partners and enterprises use Azure Lighthouse to manage s
 publishedDateTime: 2020-05-26T08:00:01Z
 webUrl: "https://azure.microsoft.com/blog/azure-lighthouse-managing-cloud-hybrid-and-edge-environments-atscale-through-a-single-control-plane/"
 type: article
-quality: 91
-heat: 91
+quality: 81
+heat: 81
 published: true
 
 provider:

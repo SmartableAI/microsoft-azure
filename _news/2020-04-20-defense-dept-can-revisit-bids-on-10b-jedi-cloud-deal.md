@@ -7,7 +7,7 @@ webUrl: "https://www.law360.com/articles/1265358/defense-dept-can-revisit-bids-o
 ampWebUrl: "https://www.law360.com/amp/articles/1265358"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1265358"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://media.bizj.us/view/img/10988802/rtrlnine110024*600xx4350-2900-100-0.jpg"
         width: 600
@@ -43,7 +43,7 @@ related:
     provider:
       name: Defense Systems
       domain: defensesystems.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://defensesystems.com/-/media/GIG/EDIT_SHARED/Cloud/pentagoncloud_0.jpg"
         width: 760

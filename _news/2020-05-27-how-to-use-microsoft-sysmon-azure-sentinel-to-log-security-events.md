@@ -5,8 +5,8 @@ excerpt: "Microsoft's Sysmon and Azure Sentinel are easy and inexpensive ways to
 publishedDateTime: 2020-05-27T10:06:00Z
 webUrl: "https://www.csoonline.com/article/3543835/how-to-use-microsoft-sysmon-azure-sentinel-to-log-security-events.html"
 type: article
-quality: 47
-heat: 47
+quality: 37
+heat: 37
 published: false
 
 provider:

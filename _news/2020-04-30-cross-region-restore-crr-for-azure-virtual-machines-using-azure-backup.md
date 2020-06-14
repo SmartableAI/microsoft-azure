@@ -5,8 +5,8 @@ excerpt: "Today we're indroducing the preview of Cross Region Restore (CRR) for 
 publishedDateTime: 2020-04-30T09:00:07Z
 webUrl: "https://azure.microsoft.com/blog/cross-region-restore-crr-for-azure-virtual-machines-using-azure-backup/"
 type: article
-quality: 125
-heat: 145
+quality: 115
+heat: 135
 published: true
 
 provider:
@@ -38,7 +38,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 107
+    quality: 97
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/1b3abcfb-ebfb-45da-a6d4-eede0f750abf.jpg"
         width: 636

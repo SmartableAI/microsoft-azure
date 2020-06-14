@@ -5,8 +5,8 @@ excerpt: "cloud-first cybersecurity portfolio that supports digital transformati
 publishedDateTime: 2020-06-03T15:40:00Z
 webUrl: "https://www.prnewswire.com/news-releases/kudelski-security-launches-additional-services-for-the-microsoft-modern-workplace-301069384.html"
 type: article
-quality: 27
-heat: 27
+quality: 17
+heat: 17
 published: false
 
 provider:

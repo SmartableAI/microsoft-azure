@@ -29,7 +29,7 @@ related:
     provider:
       name: cmo.com.au
       domain: cmo.com.au
-    quality: 42
+    quality: 32
     images:
       - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
         width: 600

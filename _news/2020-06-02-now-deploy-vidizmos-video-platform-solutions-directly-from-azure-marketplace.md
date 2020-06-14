@@ -5,8 +5,8 @@ excerpt: "VIDIZMO LLC, a Microsoft IP co-sell ready gold partner recognized in t
 publishedDateTime: 2020-06-02T15:30:00Z
 webUrl: "https://www.prnewswire.com/news-releases/now-deploy-vidizmos-video-platform-solutions-directly-from-azure-marketplace-301069394.html"
 type: article
-quality: 44
-heat: 44
+quality: 34
+heat: 34
 published: false
 
 provider:

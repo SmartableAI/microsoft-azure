@@ -7,8 +7,8 @@ webUrl: "https://www.cnet.com/news/microsoft-builds-massive-supercomputer-for-sm
 ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-builds-massive-supercomputer-for-smarter-ai/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-builds-massive-supercomputer-for-smarter-ai/"
 type: article
-quality: 102
-heat: 202
+quality: 82
+heat: 182
 published: true
 
 provider:
@@ -40,7 +40,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2020/05/MSFT-Nadella-OpenAI-Altman.jpg"
         width: 630
@@ -56,7 +56,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 72
+    quality: 62
   - title: "Microsoft just built ‘one of the top five most powerful’ supercomputers on the planet"
     excerpt: "Microsoft has announced a new supercomputer built by the company in partnership with and for OpenAI to train large-scale AI models. The Seattle-based company said at its Build conference for developers that this is one of the top five publically disclosed supercomputers."
     publishedDateTime: 2020-05-19T15:09:00Z
@@ -65,7 +65,7 @@ related:
     provider:
       name: The Next Web
       domain: thenextweb.com
-    quality: 65
+    quality: 55
     images:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Microsoft-supercomputer-796x418.jpg"
         width: 796
@@ -79,7 +79,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 65
+    quality: 55
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/05/Supercomputer-e1589742859682.jpg?w=1200&#038;strip=all"
         width: 1200
@@ -93,7 +93,7 @@ related:
     provider:
       name: Data Center Knowledge
       domain: datacenterknowledge.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/sam%20altman%20openai%20techcrunch%20disrupt%202019%20getty.jpg"
         width: 1024

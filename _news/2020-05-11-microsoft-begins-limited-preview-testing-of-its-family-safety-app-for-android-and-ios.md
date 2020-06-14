@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/microsoft-begins-limited-preview-testing-
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-begins-limited-preview-testing-of-its-family-safety-app-for-android-and-ios/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-begins-limited-preview-testing-of-its-family-safety-app-for-android-and-ios/"
 type: article
-quality: 95
-heat: 95
+quality: 75
+heat: 75
 published: true
 
 provider:

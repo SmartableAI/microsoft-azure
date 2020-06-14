@@ -5,7 +5,7 @@ excerpt: "The collaboration is the result of a surprise cloud deal unveiled toda
 publishedDateTime: 2020-04-28T18:47:00Z
 webUrl: "https://siliconangle.com/2020/04/28/oracle-wins-surprise-cloud-deal-zoom-help-host-platform/"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTY4NjQ3NDk5MDMzNjE4MDU1/oracles-cloud-guru-on-how-cloud-services-will-transform-companies-and-oracle-itself.jpg"
         width: 620
@@ -48,7 +48,7 @@ related:
     provider:
       name: CRN
       domain: crn.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.crn.com/resources/025c-0f47f2913a57-ac4f75105e9d-1000/oracle-hq-front.jpg"
         width: 610

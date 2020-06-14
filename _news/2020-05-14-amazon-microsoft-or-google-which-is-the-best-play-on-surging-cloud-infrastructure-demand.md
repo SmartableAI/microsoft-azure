@@ -7,7 +7,7 @@ webUrl: "https://www.forbes.com/sites/greatspeculations/2020/05/14/amazon-micros
 ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2020/05/14/amazon-microsoft-or-google-which-is-the-best-play-on-surging-cloud-infrastructure-demand/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2020/05/14/amazon-microsoft-or-google-which-is-the-best-play-on-surging-cloud-infrastructure-demand/amp/"
 type: article
-quality: 62
+quality: 52
 heat: -1
 published: false
 
@@ -33,7 +33,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg"
         width: 580
@@ -52,7 +52,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 72
+    quality: 62
 
 secured: "w1aQDp0xXtIq0vvz+Sb5P/nYvwb69CRo52wtrqtMxrX1pkcp7A4KBYJy2zMVvZbm2O6/18yswYnrEgoXEHNHx9+4o63XqQ3/ReVbakN5xVjs86y046xuCCc+2pLE1V5o9cvcOm3Dwr54TiPG//Hs6gz7zHIgsPzMWsgORGpuB799deD7Lt47gTFXGINcMCATarRZNc2YiLcqhuT+cdrarYpkWIsQeRcFFIA72qykHt6jvxp/5jxzs8n8Ax/l/gmy/ItHu1UijyfNBqRahN+xZnSywF1UAf5dw3qTP6JbBILJ70iW++RgV7/uKfnofrUl44kzQkR8lJthvXgP2QSgagDYj/SofK98M8C/zq7RUyzTYWcwomm4FRdBP/WsmBoa023ZVhbjAjcxLsU/MbFDYJ8qOgan7pgxXNq2pqBhhTtAtlwoi9miAF4bIofd2KIbSj89wmUovnj2PYeVUZb/xZ9PWgvqbzk/NiA6u9eMkwk=;aSMj7DjkHIY22933BJBwTA=="
 ---

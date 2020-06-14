@@ -5,8 +5,8 @@ excerpt: "Majesco (NASDAQ: MJCO), a global leader of cloud insurance software, t
 publishedDateTime: 2020-05-27T21:25:00Z
 webUrl: "https://www.businesswire.com/news/home/20200527005792/en/Heritage-Insurance-Upgrades-Version-11-Majesco-Claims"
 type: article
-quality: 19
-heat: 19
+quality: 9
+heat: 9
 published: false
 
 provider:

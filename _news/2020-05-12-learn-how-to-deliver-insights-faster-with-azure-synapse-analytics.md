@@ -5,8 +5,8 @@ excerpt: "Today, it’s even more critical to have a data-driven culture. Analyt
 publishedDateTime: 2020-05-12T11:00:20Z
 webUrl: "https://azure.microsoft.com/blog/learn-how-to-deliver-insights-faster-with-azure-synapse-analytics/"
 type: article
-quality: 107
-heat: 147
+quality: 97
+heat: 137
 published: true
 
 provider:
@@ -36,7 +36,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 107
+    quality: 97
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/19cd7b32-501a-4032-8fa8-ed2bd9a28d03.gif"
         width: 1600
@@ -52,7 +52,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2019/11/Microsoft-Azure-Synapse-Analytics.jpg"
         width: 1134

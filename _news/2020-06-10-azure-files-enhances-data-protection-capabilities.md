@@ -5,8 +5,8 @@ excerpt: "Protecting your production data is critical for any business. That’s
 publishedDateTime: 2020-06-10T11:30:14Z
 webUrl: "https://azure.microsoft.com/blog/azure-files-enhances-data-protection-capabilities/"
 type: article
-quality: 107
-heat: 147
+quality: 99
+heat: 139
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - Azure
+  - Storage
 
 images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/58c78eec-5ed2-4255-824c-4bfce9809ba8.png"
@@ -36,7 +37,7 @@ related:
     provider:
       name: InfoQ
       domain: infoq.com
-    quality: 38
+    quality: 28
     images:
       - url: "https://cdn.infoq.com/statics_s1_20200602-0333/styles/static/images/logo/logo-big.jpg"
         width: 1200
@@ -50,7 +51,7 @@ related:
     provider:
       name: InfoQ
       domain: infoq.com
-    quality: 38
+    quality: 28
     images:
       - url: "https://cdn.infoq.com/statics_s1_20200602-0333/styles/static/images/logo/logo-big.jpg"
         width: 1200

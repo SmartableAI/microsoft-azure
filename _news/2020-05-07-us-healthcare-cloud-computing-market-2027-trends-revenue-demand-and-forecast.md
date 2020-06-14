@@ -5,7 +5,7 @@ excerpt: "The report covers a forecast and an analysis of the U.S. healthcare cl
 publishedDateTime: 2020-05-07T11:11:00Z
 webUrl: "https://www.marketwatch.com/press-release/us-healthcare-cloud-computing-market-2027-trends-revenue-demand-and-forecast-2020-05-07"
 type: article
-quality: 66
+quality: 56
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -50,7 +50,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -64,7 +64,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -78,7 +78,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 48
+    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -92,7 +92,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 42
+    quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -106,7 +106,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 34
+    quality: 24
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

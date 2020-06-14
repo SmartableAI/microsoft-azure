@@ -7,7 +7,7 @@ webUrl: "https://www.techrepublic.com/article/how-distributed-cloud-will-affect-
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-distributed-cloud-will-affect-data-center-infrastructures-in-2020-and-beyond/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-distributed-cloud-will-affect-data-center-infrastructures-in-2020-and-beyond/"
 type: article
-quality: 97
+quality: 77
 heat: -1
 published: false
 
@@ -40,7 +40,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://images.idgesg.net/images/article/2018/10/typewriter_are-you-ready_prepare_contingency_disaster-recovery-100777507-large.jpg"
         width: 1200
@@ -54,7 +54,7 @@ related:
     provider:
       name: Telecoms
       domain: telecoms.com
-    quality: 31
+    quality: 21
     images:
       - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2017/02/Cloud-Money-300x203.jpg"
         width: 300

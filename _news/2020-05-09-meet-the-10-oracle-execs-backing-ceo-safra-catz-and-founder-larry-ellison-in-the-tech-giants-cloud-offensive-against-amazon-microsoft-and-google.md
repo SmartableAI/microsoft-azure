@@ -5,7 +5,7 @@ excerpt: "These 10 Oracle executives are playing key roles in the aggressive clo
 publishedDateTime: 2020-05-09T13:42:00Z
 webUrl: "https://www.businessinsider.com/top-10-oracle-execs-big-cloud-offensive-2020-5"
 type: article
-quality: 34
+quality: 24
 heat: -1
 published: false
 
@@ -38,7 +38,7 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
-    quality: 56
+    quality: 36
     images:
       - url: "https://content.jwplatform.com/thumbs/gXtTefbE-720.jpg"
         width: 720
@@ -52,7 +52,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 44
+    quality: 34
     images:
       - url: "https://i.insider.com/5e2b06b7b6d52d07f655c43a?width=1200&format=jpeg"
         width: 1200

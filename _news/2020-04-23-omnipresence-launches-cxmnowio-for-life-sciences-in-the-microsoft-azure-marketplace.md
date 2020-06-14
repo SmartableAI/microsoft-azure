@@ -7,7 +7,7 @@ webUrl: "https://markets.businessinsider.com/news/stocks/omnipresence-launches-c
 ampWebUrl: "https://markets.businessinsider.com/amp/news/omnipresence-launches-cxmnow-io-for-life-sciences-in-the-microsoft-azure-marketplace-1029123493"
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/omnipresence-launches-cxmnow-io-for-life-sciences-in-the-microsoft-azure-marketplace-1029123493"
 type: article
-quality: 80
+quality: 70
 heat: -1
 published: false
 
@@ -31,7 +31,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 83
+    quality: 73
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

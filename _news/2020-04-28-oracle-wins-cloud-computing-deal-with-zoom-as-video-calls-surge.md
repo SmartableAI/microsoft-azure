@@ -7,7 +7,7 @@ webUrl: "https://www.usnews.com/news/technology/articles/2020-04-28/oracle-wins-
 ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-04-28/oracle-wins-cloud-computing-deal-with-zoom-as-video-calls-surge?context=amp"
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-04-28/oracle-wins-cloud-computing-deal-with-zoom-as-video-calls-surge?context=amp"
 type: article
-quality: 72
+quality: 62
 heat: -1
 published: false
 
@@ -33,7 +33,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 115
+    quality: 95
     images:
       - url: "https://tr1.cbsistatic.com/hub/i/r/2020/03/02/89020fc6-fe78-4bee-abb0-0ce4d0175c91/thumbnail/1200x675/66a68d9e60796e80b78d5bedaa0bde98/20200227-rsa-yehoshua-veronica.jpg"
         width: 1200
@@ -49,7 +49,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 101
+    quality: 81
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2020/04/5922669089_ea901d5f3a_c-630x418.jpg"
         width: 630
@@ -65,7 +65,7 @@ related:
     provider:
       name: Windows Central
       domain: windowscentral.com
-    quality: 75
+    quality: 55
     images:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2017/09/microsoft-logo-2017-ignite2.jpg?itok=c3ocGDNm"
         width: 800
@@ -81,7 +81,7 @@ related:
     provider:
       name: TV Technology
       domain: tvtechnology.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/boJbUfrk78USVo49YfjzsH-1200-80.jpg"
         width: 640
@@ -95,25 +95,11 @@ related:
     provider:
       name: TV NewsCheck
       domain: tvnewscheck.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://tvnewscheck.com/wp-content/themes/TvNewsCheck/assets/img/tvn-logo.png"
         width: 581
         height: 201
-        isCached: true
-  - title: "Update: Amazon files new complaint to try and stop Microsoft JEDI Cloud Computing win"
-    excerpt: "Microsoft confirmed today that Amazon has filed a new complaint related to Microsoft’s JEDI Cloud Computing contract win."
-    publishedDateTime: 2020-05-07T22:00:00Z
-    webUrl: "https://www.onmsft.com/news/update-amazon-files-new-complaint-to-try-and-stop-microsoft-jedi-cloud-computing-win"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 25
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2020/04/microsoft-aws.jpg"
-        width: 1024
-        height: 569
         isCached: true
   - title: "These Microsoft Azure Courses Can Kickstart Your New Cloud Computing Career"
     excerpt: "Wouldn't it be great if you could transform that love for tech into a lucrative new career? According to Payscale, jobs that involve Microsoft Azure (the cloud services platform that powers 95% of Fortune 500 companies) pay handsomely,"
@@ -124,6 +110,20 @@ related:
       name: IGN
       domain: ign.com
     quality: 15
+  - title: "Update: Amazon files new complaint to try and stop Microsoft JEDI Cloud Computing win"
+    excerpt: "Microsoft confirmed today that Amazon has filed a new complaint related to Microsoft’s JEDI Cloud Computing contract win."
+    publishedDateTime: 2020-05-07T22:00:00Z
+    webUrl: "https://www.onmsft.com/news/update-amazon-files-new-complaint-to-try-and-stop-microsoft-jedi-cloud-computing-win"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 15
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2020/04/microsoft-aws.jpg"
+        width: 1024
+        height: 569
+        isCached: true
 
 secured: "PWyoQkAfSKXZbgcy5VDoEFpLeM9F9hUfS31BGC3mu9adJfXxEU1MgZGdaE/VHfB0X0ri0Ve5OHL7zutl56U7wgynY5354cRv/fAxSfCErzy7idA6r5t32cE0G0tKowhuVTovvivZ1yqT1m8GJuT6s3MOj5cgRL+XSI2Xk0ezxCEFGNXVkXEIGZs3vWsp7Qv7yTBcctMWYGpnFKr8MeqHwzSR7bWHzFiXw996nWFuv2A5lJt8Pgt0GXBnLki4LGgp5GwAgCgrGXGTkvu++UW1iMPU64YcumGmAo1ja3O7boIzDuFmQw9VeWSWtry6aEyj4Yw4HhsgMBpFwnZWpjR3zbeQYgsVzF0uoBsLJOs9i4szOO0qgygQJtGL9asNFQiOM3jUmuVoCIw+6AVmhbI/4eaknXkLfvxnvT6Dz/jECW2OL5Zfvmainm/fcfXubFfcFd655KmEoprnF47nfKoYLWIRwzKzElopFElNB6rVwN4=;9SBgd5EdAB+GUPSepiRk5w=="
 ---

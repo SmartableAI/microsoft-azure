@@ -25,7 +25,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 27
+    quality: 17
     images:
       - url: "https://mma.prnewswire.com/media/24227/microsoft_corp_logo226_9217jpg.jpg?p=facebook"
         width: 2695

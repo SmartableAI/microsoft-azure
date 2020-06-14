@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/microsoft-is-suddenly-recommending-google
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-is-suddenly-recommending-google-products-and-im-worried/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-suddenly-recommending-google-products-and-im-worried/"
 type: article
-quality: 102
-heat: 102
+quality: 82
+heat: 82
 published: true
 
 provider:

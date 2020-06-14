@@ -7,8 +7,8 @@ webUrl: "https://www.fool.com/investing/2020/04/26/up-300-how-much-higher-can-mi
 ampWebUrl: "https://www.fool.com/amp/investing/2020/04/26/up-300-how-much-higher-can-microsoft-stock-soar.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/26/up-300-how-much-higher-can-microsoft-stock-soar.aspx"
 type: article
-quality: 102
-heat: 122
+quality: 82
+heat: 102
 published: true
 
 provider:
@@ -40,7 +40,7 @@ related:
     provider:
       name: The Next Web
       domain: thenextweb.com
-    quality: 95
+    quality: 75
     images:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/12/Microsoft2-796x530.jpg"
         width: 796

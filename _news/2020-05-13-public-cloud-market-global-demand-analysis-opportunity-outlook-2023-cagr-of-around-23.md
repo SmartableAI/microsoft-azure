@@ -5,8 +5,8 @@ excerpt: "Research Nester has released a report titled “Public Cloud Market �
 publishedDateTime: 2020-05-13T18:04:00Z
 webUrl: "https://www.marketwatch.com/press-release/public-cloud-market--global-demand-analysis-opportunity-outlook-2023-cagr-of-around-23-2020-05-13"
 type: article
-quality: 62
-heat: 102
+quality: 52
+heat: 92
 published: true
 
 provider:
@@ -36,7 +36,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -50,7 +50,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

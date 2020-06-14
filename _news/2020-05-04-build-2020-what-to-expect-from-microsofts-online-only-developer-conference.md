@@ -7,8 +7,8 @@ webUrl: "https://www.digitaltrends.com/computing/microsoft-build-2020-what-to-ex
 ampWebUrl: "https://www.digitaltrends.com/computing/microsoft-build-2020-what-to-expect/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-build-2020-what-to-expect/?amp"
 type: article
-quality: 99
-heat: 139
+quality: 79
+heat: 119
 published: true
 
 provider:
@@ -40,7 +40,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 90
+    quality: 70
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/105894801-1557155225622gettyimages-1132529435.jpeg?v=1588265187"
         width: 5967
@@ -56,7 +56,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 58
+    quality: 38
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/04/build-online.jpg"
         width: 600

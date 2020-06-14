@@ -7,7 +7,7 @@ webUrl: "https://www.benzinga.com/pressreleases/20/06/ab16166093/blockchain-mark
 ampWebUrl: "https://amp.benzinga.com/amp/content/16166093"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16166093"
 type: article
-quality: 24
+quality: 14
 heat: -1
 published: false
 
@@ -27,7 +27,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -41,7 +41,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -55,7 +55,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

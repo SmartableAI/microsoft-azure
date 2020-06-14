@@ -7,7 +7,7 @@ webUrl: "https://www.cnbc.com/2020/04/30/microsoft-build-2020-will-focus-even-mo
 ampWebUrl: "https://www.cnbc.com/amp/2020/04/30/microsoft-build-2020-will-focus-even-more-on-developers.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/30/microsoft-build-2020-will-focus-even-more-on-developers.html"
 type: article
-quality: 90
+quality: 70
 heat: -1
 published: false
 
@@ -40,7 +40,7 @@ related:
     provider:
       name: Digital Trends
       domain: digitaltrends.com
-    quality: 99
+    quality: 79
     images:
       - url: "https://icdn6.digitaltrends.com/image/digitaltrends/satya-nadella-keynote-2-1200x630-c-ar1.91.jpg"
         width: 1000
@@ -56,7 +56,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 58
+    quality: 38
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/04/build-online.jpg"
         width: 600

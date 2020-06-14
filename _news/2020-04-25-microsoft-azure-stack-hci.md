@@ -5,7 +5,7 @@ excerpt: "Azure Stack HCI delivers unmatched performance, with a path to hybrid 
 publishedDateTime: 2020-04-25T23:05:00Z
 webUrl: "https://www.crn.com/2020/04/24/microsoft-azure-stack-hci/4rB6NDMQd1Vug6GrJ7ZOU/index.html"
 type: article
-quality: 47
+quality: 37
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: TechRadar
       domain: techradar.com
-    quality: 117
+    quality: 97
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/5egycZyR8KutGdsgWQA3M7-1200-80.jpg"
         width: 1023
@@ -50,7 +50,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 73
+    quality: 53
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2018/10/Swift-Azure.jpg"
         width: 932

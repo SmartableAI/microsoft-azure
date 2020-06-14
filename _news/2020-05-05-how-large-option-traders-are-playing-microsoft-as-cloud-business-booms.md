@@ -7,9 +7,9 @@ webUrl: "https://www.benzinga.com/markets/options/20/05/15957945/how-large-optio
 ampWebUrl: "https://amp.benzinga.com/amp/content/15957945"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15957945"
 type: article
-quality: 62
-heat: 122
-published: true
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: Benzinga.com
@@ -36,7 +36,7 @@ related:
     provider:
       name: WRIC
       domain: wric.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://www.wric.com/wp-content/uploads/sites/74/2020/04/2a643fc1b1fb4a6ca0c2ce8d387c3860.jpg?w=1280&h=720&crop=1"
         width: 1280
@@ -52,7 +52,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 54
+    quality: 34
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Microsoft-Microvision.jpg"
         width: 962
@@ -66,7 +66,7 @@ related:
     provider:
       name: The Japan Times
       domain: japantimes.co.jp
-    quality: 26
+    quality: 16
     images:
       - url: "https://cdn.japantimes.2xx.jp/wp-content/uploads/2020/05/np_file_11661.jpeg"
         width: 594

@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/microsoft-365-a-cheat-sheet/"
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-365-a-cheat-sheet/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-365-a-cheat-sheet/"
 type: article
-quality: 102
-heat: 122
+quality: 82
+heat: 102
 published: true
 
 provider:
@@ -43,7 +43,7 @@ related:
     provider:
       name: Thurrott
       domain: thurrott.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/04/microsoft-365.jpg"
         width: 1280

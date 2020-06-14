@@ -7,7 +7,7 @@ webUrl: "https://mspoweruser.com/docker-azure-container-instances-vs-code/"
 ampWebUrl: "https://mspoweruser.com/docker-azure-container-instances-vs-code/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/docker-azure-container-instances-vs-code/amp/"
 type: article
-quality: 67
+quality: 47
 heat: -1
 published: false
 

@@ -7,7 +7,7 @@ webUrl: "https://www.cbronline.com/news/jedi-row-amazon-microsoft"
 ampWebUrl: "https://www.cbronline.com/news/jedi-row-amazon-microsoft/amp/"
 cdnAmpWebUrl: "https://www-cbronline-com.cdn.ampproject.org/c/s/www.cbronline.com/news/jedi-row-amazon-microsoft/amp/"
 type: article
-quality: 62
+quality: 42
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 95
+    quality: 75
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2017/10/bigstock-Microsoft-Azure-113129231-630x417.jpg"
         width: 630

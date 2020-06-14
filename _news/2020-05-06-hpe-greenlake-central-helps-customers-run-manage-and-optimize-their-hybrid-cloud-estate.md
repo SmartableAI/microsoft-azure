@@ -5,7 +5,7 @@ excerpt: "Hewlett Packard Enterprise (HPE) announced that HPE GreenLake Central,
 publishedDateTime: 2020-05-06T02:02:00Z
 webUrl: "https://www.helpnetsecurity.com/2020/05/06/hpe-greenlake-central/"
 type: article
-quality: 23
+quality: 13
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 92
+    quality: 72
     images:
       - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/04/30/f66edada-ce05-4950-8f6c-92359717a853/thumbnail/1200x675/08eac1fa9c322dffceac2936c79fe33e/wdc-q3-2020.png"
         width: 1200

@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/pentagons-inspector-general-says-microsof
 ampWebUrl: "https://www.zdnet.com/google-amp/article/pentagons-inspector-general-says-microsofts-jedi-cloud-win-should-stand/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pentagons-inspector-general-says-microsofts-jedi-cloud-win-should-stand/"
 type: article
-quality: 101
-heat: 281
+quality: 81
+heat: 261
 published: true
 
 provider:
@@ -40,7 +40,7 @@ related:
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 100
+    quality: 80
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d9fd65a-cbde-44cd-8be7-69ca1b916d0b/6161526e-62a1-46df-9a5e-9c833fb50275/1280x720/match/image.jpg"
         width: 1280
@@ -56,7 +56,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 99
+    quality: 79
     images:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568272%2Fapple_new-iphone-se-black-camera-and-touch-id_04152020.jpg&w=1200&op=resize"
         width: 1200
@@ -72,7 +72,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 94
+    quality: 74
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2018/04/2196640900_c072470031_z-630x451.jpg"
         width: 630
@@ -88,7 +88,7 @@ related:
     provider:
       name: TechSpot
       domain: techspot.com
-    quality: 81
+    quality: 61
     images:
       - url: "https://www.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-13-ts3_thumbs-023.jpg"
         width: 800
@@ -108,7 +108,7 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
-    quality: 57
+    quality: 37
     images:
       - url: "https://static.seattletimes.com/wp-content/uploads/2020/04/04152020_msoft_095020-300x208.jpg"
         width: 299
@@ -124,7 +124,7 @@ related:
     provider:
       name: Windows Central
       domain: windowscentral.com
-    quality: 56
+    quality: 36
     images:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2015/09/microsoft-logo-3.jpg?itok=HZnHZqpR"
         width: 800
@@ -140,7 +140,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 52
+    quality: 32
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/04/Microsoft-JEDI-DoD.jpg"
         width: 1265
@@ -154,7 +154,7 @@ related:
     provider:
       name: Fudzilla
       domain: fudzilla.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.fudzilla.com/media/k2/items/cache/aa91bb4a181a55aa28a611297d048668_L.jpg"
         width: 620
@@ -168,7 +168,7 @@ related:
     provider:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
-    quality: 12
+    quality: 2
     images:
       - url: "https://media.datacenterdynamics.com/media/images/MicrosoftAzureClippySoldier.2e16d0ba.fill-1200x630.jpg"
         width: 1200

@@ -5,8 +5,8 @@ excerpt: "Images from a public repository contained cryptominers that Microsoft 
 publishedDateTime: 2020-06-12T20:36:00Z
 webUrl: "https://www.darkreading.com/attacks-breaches/cryptominers-found-in-azure-kubernetes-containers/d/d-id/1338083"
 type: article
-quality: 47
-heat: 47
+quality: 37
+heat: 37
 published: false
 
 provider:

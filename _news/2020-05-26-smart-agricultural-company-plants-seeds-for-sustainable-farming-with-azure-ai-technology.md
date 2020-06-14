@@ -5,8 +5,8 @@ excerpt: "That company, now TalentCloud, forged ahead with Microsoft Azure Machi
 publishedDateTime: 2020-05-26T00:00:00Z
 webUrl: "https://news.microsoft.com/apac/2020/05/26/smart-agricultural-company-plants-seeds-for-sustainable-farming-with-azure-ai-technology/"
 type: article
-quality: 38
-heat: 38
+quality: 28
+heat: 28
 published: false
 
 provider:

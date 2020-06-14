@@ -5,8 +5,8 @@ excerpt: "Starting today, customers of Azure Front Door (AFD) can take advantage
 publishedDateTime: 2020-05-12T09:00:19Z
 webUrl: "https://azure.microsoft.com/blog/announcing-azure-front-door-rules-engine-in-preview/"
 type: article
-quality: 111
-heat: 131
+quality: 101
+heat: 141
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Microsoft Announces Azure VMware Solution Preview"
+    excerpt: "The long and winding road to run VMware virtualization tech on the Microsoft Azure cloud has taken a new turn with a preview of an updated Azure VMware Solution announced this week."
+    publishedDateTime: 2020-05-05T17:21:00Z
+    webUrl: "https://virtualizationreview.com/articles/2020/05/05/azure-vmware.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 37
+    images:
+      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/IntroImages2019/BlackWhiteDotsWavePatarn.jpg"
+        width: 647
+        height: 450
+        isCached: true
 
 secured: "rnYRJ0GfJLdkYogXgC0Q3DKjLi/kXAJuGdxGZHlBLGUTnpLSv/4CupVKibsV25vqTGG2z3rdfuRn5OsHx2RZTxocuoMoiHshdOELFFVdItKznYqmaBiB72eXkGeU+b0JC9hVnxARSLgzOInAFUvXJxpSCfeTfLfPyRNozh4YklLr+JR10y3z14pDOsZyiRnuOZamSmYo3YlaNaTGjFCi60XRomBNC8PjhDrv1dU39+SpeKalFfwxYrAFHU6UjgX5qStsXs3kEPOUzopT0njLXDaGYtKxB6Zk44d4BRysRf1jXcnndnq3XXbAZ1JKDbrvXAMf0WbbB4hV4LwhtW3MyQ==;KSh8wT3XxS5BzQvVwd5uoA=="
 ---

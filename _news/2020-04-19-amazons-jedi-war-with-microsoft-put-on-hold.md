@@ -5,7 +5,7 @@ excerpt: "Known as Joint Enterprise Defense Infrastructure, or JEDI, the cloud c
 publishedDateTime: 2020-04-19T10:14:00Z
 webUrl: "https://www.arnnet.com.au/article/678551/amazon-jedi-war-microsoft-put-hold/"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200417&t=2&i=1515553285&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG3G2CA"
         width: 911
@@ -50,7 +50,7 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200417&t=2&i=1515553285&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG3G2CA"
         width: 911
@@ -66,7 +66,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F569046%2Fgettyimages-529769841.jpg&w=1200&op=resize"
         width: 1200
@@ -82,7 +82,7 @@ related:
     provider:
       name: The Next Web
       domain: thenextweb.com
-    quality: 98
+    quality: 78
     images:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/11/Amazon-cloud-796x404.jpg"
         width: 796
@@ -98,7 +98,7 @@ related:
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 94
+    quality: 74
     images:
       - url: "https://images.wsj.net/im-168451/social"
         width: 1280
@@ -114,7 +114,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 77
+    quality: 57
     images:
       - url: "https://i.insider.com/5e9dd03cc02320631f07df16?width=1200&format=jpeg"
         width: 1200
@@ -128,7 +128,7 @@ related:
     provider:
       name: Thurrott
       domain: thurrott.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2019/10/us-pentagon.jpg"
         width: 1280
@@ -142,7 +142,7 @@ related:
     provider:
       name: Stars and Stripes
       domain: stripes.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.stripes.com/polopoly_fs/1.626151.1586966540!/image/image.jpg_gen/derivatives/landscape_490/image.jpg"
         width: 490
@@ -156,7 +156,7 @@ related:
     provider:
       name: Defense News
       domain: defensenews.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.armytimes.com/resizer/4oY6QYiwbrQ_P1x7G8W5rhRChq4=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/YF6HUO4ZSVD2HL4ULQM3SV46UM.jpg"
         width: 1200
@@ -172,7 +172,7 @@ related:
     provider:
       name: Fox Business
       domain: foxbusiness.com
-    quality: 32
+    quality: 22
   - title: "Judge allows DoD to review JEDI contract award"
     excerpt: "A federal judge on Friday put Amazon's JEDI lawsuit on hold to allow the Department of Defense to review the major military cloud contract. The Joint Enterprise Defense Infrastructure contract was awarded to Microsoft in October, but Amazon claims the decision was full of \"egregious errors\" due to \"improper pressure from President Donald Trump ..."
     publishedDateTime: 2020-04-20T10:26:00Z
@@ -181,7 +181,7 @@ related:
     provider:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://media.datacenterdynamics.com/media/images/ArmyCloud.2e16d0ba.fill-1200x630.jpg"
         width: 1200
@@ -195,7 +195,7 @@ related:
     provider:
       name: On MSFT
       domain: onmsft.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://i2.wp.com/www.onmsft.com/wp-content/uploads/2020/04/aws.png?fit=1200%2C892&ssl=1"
         width: 1200
@@ -213,7 +213,7 @@ related:
     provider:
       name: Federal Times
       domain: federaltimes.com
-    quality: 30
+    quality: 20
     images:
       - url: "https://www.armytimes.com/resizer/4oY6QYiwbrQ_P1x7G8W5rhRChq4=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/YF6HUO4ZSVD2HL4ULQM3SV46UM.jpg"
         width: 1200
@@ -227,7 +227,7 @@ related:
     provider:
       name: Federal Times
       domain: federaltimes.com
-    quality: 27
+    quality: 17
     images:
       - url: "https://www.armytimes.com/resizer/PAsw1-1BhUO77r_zGK1_xhhGs3o=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/WXVIJLL7IBHTZAHBV5NQLHTO4Y.jpg"
         width: 1200
@@ -243,7 +243,7 @@ related:
     provider:
       name: Washington Examiner
       domain: washingtonexaminer.com
-    quality: 17
+    quality: 7
 
 secured: "+5ztKHQ9C5qBNHqS6ZRCLGlGa959T9/gmy/Zxm15IvyGohInjX+mP+nIFNSueYVitTGHnoMITEUy6VJUUxCArz/hOd+N68nYATMUR+5Xa43ZZQ8eI10I0JsLGNh++Qg+VyLXhyjv9w3UQPWHWDk5ODa0bslt8BlQ77PQNnOJLogKMW+/RJV+xALBhh2BFjeziEuB8A18HRVUHQmoyBMvAnK1NlwnEro95dQdaBT3dAtp2AQix+nvzkfvIvOI8Cwce7DMWpaJ8kgamfUsTb7RueZxLIQf/sZgsdzR8g94Hrb8Duv25yxFEbNISpCb50frqvmkUwLnY4KccI92I0UeFqjxr0FkLwpE8SwO4ib+7yrvhRLLJbNRSxLu3TMArXJabcNggh1HI2HnL25EhmunfHh2puGROrmZt84f9oV9l4LwWIG3A1B13jcmwB4XhyosvkiUHNEsztfXGenspRbyUF6STJt6JVBQHuwxM/XIZZo=;HJBdo0OXBQVCio1eBUtMoA=="
 ---

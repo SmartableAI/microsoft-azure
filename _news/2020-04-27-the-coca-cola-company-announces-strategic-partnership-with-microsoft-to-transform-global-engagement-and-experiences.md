@@ -5,7 +5,7 @@ excerpt: "The Coca-Cola Company (NYSE: “KO”) on Monday announced a five-year
 publishedDateTime: 2020-04-27T15:31:00Z
 webUrl: "https://apnews.com/PR Newswire/cd5af10340231d2145bc2ee6bc0ff70d"
 type: article
-quality: 10
+quality: 0
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: Neowin
       domain: neowin.net
-    quality: 102
+    quality: 82
     images:
       - url: "https://cdn.neow.in/news/images/uploaded/2020/04/1588004153_cocacola_microsoft_story.jpg"
         width: 760
@@ -50,7 +50,7 @@ related:
     provider:
       name: TechSpot
       domain: techspot.com
-    quality: 101
+    quality: 81
     images:
       - url: "https://static.techspot.com/images2/news/bigimage/2020/04/2020-04-28-image-30.jpg"
         width: 2461
@@ -66,7 +66,7 @@ related:
     provider:
       name: TechSpot
       domain: techspot.com
-    quality: 90
+    quality: 70
     images:
       - url: "https://static.techspot.com/images2/news/bigimage/2020/04/2020-04-28-image-32.jpg"
         width: 2560
@@ -82,7 +82,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 69
+    quality: 59
   - title: "Coca-Cola selects Microsoft cloud to modernize its business"
     excerpt: "The Coca-Cola Company today announced a five-year agreement with Microsoft to standardize its business operations on Microsoft’s cloud. As part of this partnership, Coca-Cola will be using Microsoft Azure,"
     publishedDateTime: 2020-04-27T14:29:00Z
@@ -93,7 +93,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/04/Coca-cola-Microsoft.jpg"
         width: 1189
@@ -107,7 +107,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://docs.microsoft.com/en-us/mem/intune/protect/media/conditional-access-jamf-cloud-connector/copy-application-id.png"
         width: 517

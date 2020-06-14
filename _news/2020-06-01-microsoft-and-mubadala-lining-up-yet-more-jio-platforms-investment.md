@@ -5,8 +5,8 @@ excerpt: "Jio Plaforms’ hot streak of investment continues, with Microsoft rep
 publishedDateTime: 2020-06-01T14:54:00Z
 webUrl: "https://www.developingtelecoms.com/telecom-business/telecom-investment-mergers/9602-microsoft-and-mubadala-lining-up-yet-more-jio-platforms-investment.html"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:

@@ -7,7 +7,7 @@ webUrl: "https://www.forbes.com/sites/dharmeshthakker/2020/05/29/embracing-prici
 ampWebUrl: "https://www.forbes.com/sites/dharmeshthakker/2020/05/29/embracing-pricing-market-fit-as-a-cloud-native-company-in-a-covid-19-world/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dharmeshthakker/2020/05/29/embracing-pricing-market-fit-as-a-cloud-native-company-in-a-covid-19-world/amp/"
 type: article
-quality: 68
+quality: 58
 heat: -1
 published: false
 
@@ -31,7 +31,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 72
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -45,7 +45,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -59,7 +59,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -73,7 +73,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 41
+    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -87,7 +87,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 35
+    quality: 25
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -101,7 +101,7 @@ related:
     provider:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/1.jpg"
         width: 400
@@ -115,7 +115,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 26
+    quality: 16
     images:
       - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
         width: 666

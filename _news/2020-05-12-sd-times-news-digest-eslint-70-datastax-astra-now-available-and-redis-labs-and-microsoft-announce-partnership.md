@@ -5,7 +5,7 @@ excerpt: "DataStax Astra now available DataStax Astra brings Apache Cassandra pe
 publishedDateTime: 2020-05-12T15:29:00Z
 webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-eslint-7-0-datastax-astra-now-available-and-redis-labs-and-microsoft-announce-partnership/"
 type: article
-quality: 51
+quality: 41
 heat: -1
 published: false
 
@@ -38,7 +38,7 @@ related:
     provider:
       name: TechSpot
       domain: techspot.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-18-image-34.jpg"
         width: 2560
@@ -54,7 +54,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 99
+    quality: 79
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106512449-1588182933107fedex.jpg?v=1588183002"
         width: 3000
@@ -70,7 +70,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 99
+    quality: 79
     images:
       - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/18/2151fc49-7ad9-4a65-9002-0414a1081af1/thumbnail/1200x675/8639db4c7592580202910c59cd9b807c/screen-shot-2020-05-18-at-3-59-56-pm.png"
         width: 1200
@@ -86,7 +86,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 93
+    quality: 73
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2018/06/DSC05118-630x432.jpg"
         width: 630
@@ -102,7 +102,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 73
+    quality: 53
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2019/05/sony2-microsoft-team-up-nadella-yoshida.jpg"
         width: 1280
@@ -118,7 +118,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 68
+    quality: 48
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Redis-Enterprise-for-Azure-Cache.jpg"
         width: 1663
@@ -134,7 +134,7 @@ related:
     provider:
       name: ConsumerAffairs
       domain: consumeraffairs.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://media.consumeraffairs.com/files/cache/news/FedEx_building_JHVEPhoto_Getty_Images_large.jpg"
         width: 700
@@ -150,7 +150,7 @@ related:
     provider:
       name: Barron's
       domain: barrons.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://images.barrons.com/im-188267/social"
         width: 1280
@@ -166,7 +166,7 @@ related:
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://www.gannett-cdn.com/-mm-/3821841996d20be492a000e5b8789ec34da3e9bd/c=0-57-2539-1492/local/-/media/2017/08/29/TennGroup/Memphis/636396002819185337-060915-a.JPG?auto=webp&format=pjpg&width=1200"
         width: 1200
@@ -182,7 +182,7 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://media.bizj.us/view/img/10858802/fedex-boxes*600xx1197-798-2-0.jpg"
         width: 600
@@ -198,7 +198,7 @@ related:
     provider:
       name: Fox Business
       domain: foxbusiness.com
-    quality: 62
+    quality: 42
     images:
       - url: "http://media.foxbusiness.com/BrightCove/854081161001/202003/2301/854081161001_6145324627001_6145320707001-vs.jpg"
         width: 1280
@@ -214,7 +214,7 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://content.jwplatform.com/thumbs/9eFnHW1Q-720.jpg"
         width: 720
@@ -230,11 +230,34 @@ related:
     provider:
       name: Windows Central
       domain: windowscentral.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2017/09/microsoft-logo-2017-ignite2.jpg?itok=c3ocGDNm"
         width: 800
         height: 600
+        isCached: true
+  - title: "FedEx, Microsoft Enter Multiyear Collaboration; To Roll Out FedEx Surround"
+    excerpt: "(RTTNews) - FedEx Corp. (FDX) and Microsoft Corp. (MSFT) announced a new multiyear collaboration to transform commerce using Microsoft's intelligent cloud. By combining the FedEx network and the Microsoft cloud,"
+    publishedDateTime: 2020-05-18T13:37:00Z
+    webUrl: "https://www.nasdaq.com/articles/fedex-microsoft-enter-multiyear-collaboration-to-roll-out-fedex-surround-2020-05-18"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 40
+  - title: "Microsoft and SchedMD Partner to Bring Slurm into Azure CycleCloud"
+    excerpt: "Microsoft Azure announced a partnership with the company that developed the open source Slurm workload manager, SchedMD. In a blog posted"
+    publishedDateTime: 2020-05-21T19:12:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/microsoft-and-schedmd-partner-to-bring-slurm-into-azure-cyclecloud/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 37
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/Nvidia_graphic_700x-405x228.jpg"
+        width: 405
+        height: 228
         isCached: true
   - title: "Microsoft and Sony announce partnership to make AI-powered smart cameras more accessible"
     excerpt: "Sony yesterday announced two new models of intelligent vision sensors (IMX500 and IMX501), the first image sensors in the world with AI processing functionality. Today, Microsoft and Sony announced a new partnership to make these AI-powered smart cameras more accessible to businesses around the world."
@@ -246,35 +269,12 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 53
+    quality: 33
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Sony-intelligent-vision-sensor-IMX500.jpg"
         width: 1774
         height: 1235
         isCached: true
-  - title: "Microsoft and SchedMD Partner to Bring Slurm into Azure CycleCloud"
-    excerpt: "Microsoft Azure announced a partnership with the company that developed the open source Slurm workload manager, SchedMD. In a blog posted"
-    publishedDateTime: 2020-05-21T19:12:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/microsoft-and-schedmd-partner-to-bring-slurm-into-azure-cyclecloud/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 47
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/Nvidia_graphic_700x-405x228.jpg"
-        width: 405
-        height: 228
-        isCached: true
-  - title: "FedEx, Microsoft Enter Multiyear Collaboration; To Roll Out FedEx Surround"
-    excerpt: "(RTTNews) - FedEx Corp. (FDX) and Microsoft Corp. (MSFT) announced a new multiyear collaboration to transform commerce using Microsoft's intelligent cloud. By combining the FedEx network and the Microsoft cloud,"
-    publishedDateTime: 2020-05-18T13:37:00Z
-    webUrl: "https://www.nasdaq.com/articles/fedex-microsoft-enter-multiyear-collaboration-to-roll-out-fedex-surround-2020-05-18"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 40
   - title: "FedEx and Microsoft join forces to transform commerce"
     excerpt: "MEMPHIS, Tenn., and REDMOND, Wash., May 18, 2020 /PRNewswire/ -- FedEx Corp. (NYSE: FDX) and Microsoft Corp. (Nasdaq: MSFT) on Monday announced a new multiyear collaboration to help transform commerce by combining the global digital and logistics network of FedEx with the power of Microsoft’s intelligent cloud."
     publishedDateTime: 2020-05-18T16:04:00Z
@@ -283,7 +283,7 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
@@ -299,7 +299,7 @@ related:
     provider:
       name: pymnts.com
       domain: pymnts.com
-    quality: 32
+    quality: 22
   - title: "Microsoft wins multiyear cloud and AI deal with FedEx to improve package deliveries"
     excerpt: "Microsoft Corp. and FedEx Corp. today unveiled a multiyear partnership that will see the logistics giant use Azure to build a machine learning-powered platform for predicting package delivery delays."
     publishedDateTime: 2020-05-18T17:12:00Z
@@ -308,7 +308,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 26
+    quality: 16
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/microsoft-2.png"
         width: 718

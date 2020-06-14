@@ -7,7 +7,7 @@ webUrl: "https://www.tweaktown.com/news/72211/microsoft-flight-simulator-latest-
 ampWebUrl: "https://www.tweaktown.com/news/72211/microsoft-flight-simulator-latest-screenshots-upgrade-your-pc-now/amp.html"
 cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/72211/microsoft-flight-simulator-latest-screenshots-upgrade-your-pc-now/amp.html"
 type: article
-quality: 62
+quality: 42
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: Windows Central
       domain: windowscentral.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/09/microsoft-flight-simulator-daher-socata-tbm-930-h.jpg?itok=JLU43Mg7"
         width: 800

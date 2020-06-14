@@ -5,8 +5,8 @@ excerpt: "MarketsandMarkets forecasts the global Internet of Things (IoT) Cloud 
 publishedDateTime: 2020-06-02T22:56:00Z
 webUrl: "https://www.marketwatch.com/press-release/iot-cloud-platform-market-expected-to-grow-115-billion-by-2025-at-a-cagr-of-126-2020-06-02"
 type: article
-quality: 66
-heat: 86
+quality: 56
+heat: 76
 published: true
 
 provider:
@@ -36,7 +36,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 35
+    quality: 25
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

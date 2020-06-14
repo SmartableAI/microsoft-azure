@@ -32,7 +32,7 @@ related:
     provider:
       name: Neowin
       domain: neowin.net
-    quality: 117
+    quality: 97
     images:
       - url: "https://cdn.neow.in/news/images/uploaded/2019/09/1567329604_azure-1_story.jpg"
         width: 760
@@ -48,7 +48,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 77
+    quality: 57
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2018/10/Swift-Azure.jpg"
         width: 932
@@ -64,7 +64,7 @@ related:
     provider:
       name: Zawya
       domain: zawya.com
-    quality: 74
+    quality: 54
     images:
       - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
         width: 1200
@@ -78,7 +78,7 @@ related:
     provider:
       name: CRN
       domain: crn.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://www.crn.com/resources/025d-0f4e54f78502-07d0b59c5849-1000/dell-emc-solutions-for-microsoft-azure-stack-family-cc.jpg"
         width: 932
@@ -92,7 +92,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/16077984773_ea37e226c1_k.jpg"
         width: 2048
@@ -106,7 +106,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
         width: 400
@@ -120,25 +120,11 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
         width: 400
         height: 400
-        isCached: true
-  - title: "Microsoft Announces Azure VMware Solution Preview"
-    excerpt: "The long and winding road to run VMware virtualization tech on the Microsoft Azure cloud has taken a new turn with a preview of an updated Azure VMware Solution announced this week."
-    publishedDateTime: 2020-05-05T17:21:00Z
-    webUrl: "https://virtualizationreview.com/articles/2020/05/05/azure-vmware.aspx"
-    type: article
-    provider:
-      name: Virtualization Review
-      domain: virtualizationreview.com
-    quality: 47
-    images:
-      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/IntroImages2019/BlackWhiteDotsWavePatarn.jpg"
-        width: 647
-        height: 450
         isCached: true
   - title: "Microsoft Azure Adds Another VMware Option to the Multi-Cloud Mix"
     excerpt: "It’s called multi-cloud deployment, and it gives operators options even if they don’t always need them. Up until this week, these operators actually had one option from Microsoft for extending their VMware virtual machine environments onto Azure infrastructure,"
@@ -148,7 +134,7 @@ related:
     provider:
       name: Data Center Knowledge
       domain: datacenterknowledge.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/microsoft%20logo%20on%20building_0.jpg"
         width: 1024
@@ -162,7 +148,7 @@ related:
     provider:
       name: CRN
       domain: crn.com
-    quality: 45
+    quality: 35
     images:
       - url: "https://www.crn.com/resources/025d-0f549f4162f9-5e108ebff150-1000/microsoft_hq-1.jpg"
         width: 395
@@ -176,7 +162,7 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 44
+    quality: 34
     images:
       - url: "https://mms.businesswire.com/media/20200428005491/en/774069/23/logo_NEW.jpg"
         width: 1200
@@ -190,7 +176,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 35
+    quality: 25
     images:
       - url: "https://mma.prnewswire.com/media/1154590/Research_Solutions_Reprints_Desk_Logo.jpg?p=facebook"
         width: 2542

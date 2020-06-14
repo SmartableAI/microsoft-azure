@@ -5,7 +5,7 @@ excerpt: "McAfee sees evil cloud There is a  correlation between the increased 
 publishedDateTime: 2020-05-27T08:15:00Z
 webUrl: "https://www.fudzilla.com/news/50896-increased-cloud-use-means-more-cloudy-cyber-attacks"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: ITworld
       domain: itworld.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://images.idgesg.net/images/article/2019/10/cso_nw_cloud_security_threats_lightning_strikes_a_digital_landscape_via_binary_clouds_by_robertiez_gettyimages-948430634-100813542-large.jpg"
         width: 1200

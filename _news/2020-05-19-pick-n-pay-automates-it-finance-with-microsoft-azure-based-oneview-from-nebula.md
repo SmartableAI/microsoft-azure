@@ -7,9 +7,9 @@ webUrl: "https://www.itweb.co.za/content/kLgB17e8XlKv59N4"
 ampWebUrl: "https://amp.itweb.co.za/content/kLgB17e8XlKv59N4"
 cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/kLgB17e8XlKv59N4"
 type: article
-quality: 73
-heat: 73
-published: true
+quality: 53
+heat: 53
+published: false
 
 provider:
   name: ITWeb

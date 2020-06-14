@@ -5,7 +5,7 @@ excerpt: "Unused data, the amount of which is largely negligible in on-premises 
 publishedDateTime: 2020-05-27T10:05:00Z
 webUrl: "https://www.datacenterdynamics.com/en/opinions/best-practices-migrating-databases-cloud/"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
@@ -32,7 +32,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 78
+    quality: 68
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -46,7 +46,7 @@ related:
     provider:
       name: FierceBiotech
       domain: fiercebiotech.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://qtxasset.com/fiercebiotech/1590574309/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png?LKiYHuwr0t16v63exxg_SW273z3YOy38"
         width: 884

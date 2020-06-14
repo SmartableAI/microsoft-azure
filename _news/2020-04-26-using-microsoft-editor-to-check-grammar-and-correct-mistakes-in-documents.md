@@ -7,8 +7,8 @@ webUrl: "https://www.thewindowsclub.com/using-microsoft-editor"
 ampWebUrl: "https://www.thewindowsclub.com/using-microsoft-editor/amp"
 cdnAmpWebUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/using-microsoft-editor/amp"
 type: article
-quality: 61
-heat: 61
+quality: 41
+heat: 41
 published: false
 
 provider:

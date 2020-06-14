@@ -5,8 +5,8 @@ excerpt: "To help movie theaters add new capabilities as they reopen around the 
 publishedDateTime: 2020-06-09T14:04:00Z
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/metamedia-and-visaic-launch-global-content-delivery-network-built-on-microsoft-azure-to-revitalize-cinemas/article_f95efd0b-9ac7-58f1-9d70-562b69826950.html"
 type: article
-quality: 29
-heat: 29
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -32,7 +32,7 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 18
+    quality: 8
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

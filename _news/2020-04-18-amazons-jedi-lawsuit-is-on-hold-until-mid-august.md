@@ -7,8 +7,8 @@ webUrl: "https://www.engadget.com/amazons-jedi-lawsuit-is-on-hold-until-mid-augu
 ampWebUrl: "https://www.engadget.com/amp/amazons-jedi-lawsuit-is-on-hold-until-mid-august-181403851.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/amazons-jedi-lawsuit-is-on-hold-until-mid-august-181403851.html"
 type: article
-quality: 102
-heat: 122
+quality: 82
+heat: 102
 published: true
 
 provider:
@@ -43,7 +43,7 @@ related:
     provider:
       name: Fudzilla
       domain: fudzilla.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.fudzilla.com/media/k2/items/cache/17ce92444fc91e5296ede4e94f12b8c8_L.jpg"
         width: 620

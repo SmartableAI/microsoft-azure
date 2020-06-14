@@ -7,7 +7,7 @@ webUrl: "https://mspoweruser.com/microsoft-azure-cosmos-db-serverless-cheap/"
 ampWebUrl: "https://mspoweruser.com/microsoft-azure-cosmos-db-serverless-cheap/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-azure-cosmos-db-serverless-cheap/amp/"
 type: article
-quality: 77
+quality: 57
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 107
+    quality: 97
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f5bfc52e-3a1c-4356-968c-9858e49b7711.jpg"
         width: 1024

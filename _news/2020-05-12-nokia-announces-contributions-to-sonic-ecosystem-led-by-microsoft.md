@@ -7,7 +7,7 @@ webUrl: "https://mspoweruser.com/nokia-contributions-to-sonic-microsoft/"
 ampWebUrl: "https://mspoweruser.com/nokia-contributions-to-sonic-microsoft/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/nokia-contributions-to-sonic-microsoft/amp/"
 type: article
-quality: 62
+quality: 42
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: eWeek
       domain: eweek.com
-    quality: 72
+    quality: 62
     images:
       - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2019/03/Arista.logo.JPG?alias=social_image"
         width: 560

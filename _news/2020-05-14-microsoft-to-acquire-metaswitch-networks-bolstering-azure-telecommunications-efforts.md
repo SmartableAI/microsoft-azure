@@ -7,7 +7,7 @@ webUrl: "https://www.geekwire.com/2020/microsoft-acquire-metaswitch-networks-bol
 ampWebUrl: "https://www.geekwire.com/2020/microsoft-acquire-metaswitch-networks-bolstering-azure-telecommunications-efforts/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-acquire-metaswitch-networks-bolstering-azure-telecommunications-efforts/amp/"
 type: article
-quality: 110
+quality: 90
 heat: -1
 published: false
 
@@ -40,7 +40,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 115
+    quality: 95
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2019/11/IMG_20191106_093354.jpg?w=1024"
         width: 1024
@@ -56,7 +56,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106341012-1579211430551pic1.jpg?v=1579211475"
         width: 1500
@@ -72,7 +72,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 101
+    quality: 81
     images:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F574460%2Fcloud-on-blur-computer-data-center-background.jpg&w=1200&op=resize"
         width: 1200
@@ -88,7 +88,7 @@ related:
     provider:
       name: Neowin
       domain: neowin.net
-    quality: 100
+    quality: 80
     images:
       - url: "https://cdn.neow.in/news/images/uploaded/2020/04/1585909473_microsoft_6_story.jpg"
         width: 760
@@ -104,7 +104,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 65
+    quality: 55
   - title: "Microsoft acquires Metaswitch Networks to improve 5G communications"
     excerpt: "Microsoft announced yet another acquisition related to 5G development. Its acquisition of Metaswitch Networks follows on the heels of a recent purchase of Affirmed Networks."
     publishedDateTime: 2020-05-14T16:19:00Z
@@ -115,7 +115,7 @@ related:
     provider:
       name: Windows Central
       domain: windowscentral.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2017/09/microsoft-logo-2017-ignite2.jpg?itok=c3ocGDNm"
         width: 800
@@ -131,7 +131,7 @@ related:
     provider:
       name: UPI.com
       domain: upi.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/2971589479123/2020/1/033a3a5736c93029032c750c2036488e/v1.5/Microsoft-announces-agreement-to-acquire-Metaswitch-Networks.jpg"
         width: 800
@@ -147,27 +147,11 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://content.jwplatform.com/thumbs/71w8v4bG-720.jpg"
         width: 720
         height: 406
-        isCached: true
-  - title: "Microsoft to acquire Metaswitch Networks, a leading telecommunications software provider"
-    excerpt: "Metaswitch is a developer of critical networking software, delivering products and solutions worldwide to more than 1,000 communications service providers and network equipment providers. Today, Microsoft announced that it has signed a definitive agreement to acquire Metaswitch Networks."
-    publishedDateTime: 2020-05-14T16:04:00Z
-    webUrl: "https://mspoweruser.com/microsoft-to-acquire-metaswitch-networks/"
-    ampWebUrl: "https://mspoweruser.com/microsoft-to-acquire-metaswitch-networks/amp/"
-    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-to-acquire-metaswitch-networks/amp/"
-    type: article
-    provider:
-      name: MSPoweruser
-      domain: mspoweruser.com
-    quality: 53
-    images:
-      - url: "https://mspoweruser.com/wp-content/uploads/2017/06/452292672.jpg"
-        width: 800
-        height: 587
         isCached: true
   - title: "Microsoft ramps up Azure 5G efforts with Metaswitch buy"
     excerpt: "Microsoft has signed a deal to acquire Metaswitch Networks, a move aimed at taking the tech giant a step closer to realising its Azure 5G ambitions."
@@ -177,7 +161,7 @@ related:
     provider:
       name: ARN
       domain: arnnet.com.au
-    quality: 47
+    quality: 37
     images:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/dreamstime_s_76295649-3.jpg"
         width: 800
@@ -191,11 +175,27 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 43
+    quality: 33
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/microsoft-1.png"
         width: 718
         height: 400
+        isCached: true
+  - title: "Microsoft to acquire Metaswitch Networks, a leading telecommunications software provider"
+    excerpt: "Metaswitch is a developer of critical networking software, delivering products and solutions worldwide to more than 1,000 communications service providers and network equipment providers. Today, Microsoft announced that it has signed a definitive agreement to acquire Metaswitch Networks."
+    publishedDateTime: 2020-05-14T16:04:00Z
+    webUrl: "https://mspoweruser.com/microsoft-to-acquire-metaswitch-networks/"
+    ampWebUrl: "https://mspoweruser.com/microsoft-to-acquire-metaswitch-networks/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-to-acquire-metaswitch-networks/amp/"
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 33
+    images:
+      - url: "https://mspoweruser.com/wp-content/uploads/2017/06/452292672.jpg"
+        width: 800
+        height: 587
         isCached: true
   - title: "Microsoft Buying Metaswitch Networks to Bolster 5G Wireless Operations"
     excerpt: "The buy represents Microsoft's second purchase this year of a company involved with supporting 5G communication service providers and equipment providers with software-defined solutions. In March, Microsoft announced the acquisition of Affirmed Networks,"
@@ -205,7 +205,7 @@ related:
     provider:
       name: Redmond Magazine
       domain: redmondmag.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/1117red_F2CF.jpg"
         width: 647
@@ -219,7 +219,7 @@ related:
     provider:
       name: Computing
       domain: computing.co.uk
-    quality: 25
+    quality: 15
     images:
       - url: "https://www.computing.co.uk/api/v1/wps/e846d36/23645122-022c-434a-8da2-3cd281a1f8c6/4/Metaswitch-370x229.jpg"
         width: 370

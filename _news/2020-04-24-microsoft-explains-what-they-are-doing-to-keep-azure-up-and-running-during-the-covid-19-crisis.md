@@ -7,9 +7,9 @@ webUrl: "https://mspoweruser.com/microsoft-explains-what-they-are-doing-to-keep-
 ampWebUrl: "https://mspoweruser.com/microsoft-explains-what-they-are-doing-to-keep-azure-up-and-running-during-the-covid-19-crisis/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-explains-what-they-are-doing-to-keep-azure-up-and-running-during-the-covid-19-crisis/amp/"
 type: article
-quality: 65
-heat: 85
-published: true
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: MSPoweruser
@@ -34,7 +34,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 42
+    quality: 32
     images:
       - url: "https://i.insider.com/5ea256085bd7a52bf774b642?width=1200&format=jpeg"
         width: 1200

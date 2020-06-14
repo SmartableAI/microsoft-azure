@@ -5,7 +5,7 @@ excerpt: ""
 publishedDateTime: 2020-05-07T20:00:12Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-update-may-2020/"
 type: article
-quality: 107
+quality: 97
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 111
+    quality: 101
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/099b92eb-591a-4ea0-b7b4-78f34f6e8f57.png"
         width: 1506

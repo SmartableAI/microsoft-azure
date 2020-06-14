@@ -5,7 +5,7 @@ excerpt: "Cradlepoint, the global leader in cloud-delivered LTE and 5G wireless 
 publishedDateTime: 2020-06-11T15:00:00Z
 webUrl: "https://apnews.com/55957a9682507046cbe183b1debd65ca"
 type: article
-quality: 18
+quality: 8
 heat: -1
 published: false
 
@@ -32,7 +32,7 @@ related:
     provider:
       name: WFMZ-TV
       domain: wfmz.com
-    quality: 29
+    quality: 19
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/6/5b/65bfc44f-d902-5075-b536-c8652262f358/5edf8f3247bd2.image.jpg?resize=400%2C269"
         width: 400

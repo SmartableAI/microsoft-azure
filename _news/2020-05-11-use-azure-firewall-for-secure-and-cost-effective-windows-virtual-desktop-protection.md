@@ -5,8 +5,8 @@ excerpt: "This post was co-authored by Pavithra Thiruvengadam, Program Manager, 
 publishedDateTime: 2020-05-11T11:00:02Z
 webUrl: "https://azure.microsoft.com/blog/use-azure-firewall-for-secure-and-cost-effective-windows-virtual-desktop-protection/"
 type: article
-quality: 105
-heat: 125
+quality: 95
+heat: 115
 published: true
 
 provider:
@@ -40,7 +40,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 95
+    quality: 75
     images:
       - url: "https://tr2.cbsistatic.com/hub/i/r/2020/05/11/8c3c63a2-918c-4371-b054-bf9e2fd7bd33/resize/1200x/155f519778ebaa82b0eeecd1b348bec6/tr-new-wvd-interface-in-azure-portal.jpg"
         width: 1200

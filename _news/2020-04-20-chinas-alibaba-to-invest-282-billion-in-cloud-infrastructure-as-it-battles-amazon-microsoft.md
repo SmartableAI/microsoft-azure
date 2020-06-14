@@ -7,8 +7,8 @@ webUrl: "https://www.cnbc.com/2020/04/20/alibaba-to-invest-28-billion-in-cloud-a
 ampWebUrl: "https://www.cnbc.com/amp/2020/04/20/alibaba-to-invest-28-billion-in-cloud-as-it-battles-amazon-microsoft.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/20/alibaba-to-invest-28-billion-in-cloud-as-it-battles-amazon-microsoft.html"
 type: article
-quality: 90
-heat: 90
+quality: 70
+heat: 70
 published: true
 
 provider:

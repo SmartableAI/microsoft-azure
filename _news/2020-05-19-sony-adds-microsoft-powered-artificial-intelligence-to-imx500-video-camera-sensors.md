@@ -7,7 +7,7 @@ webUrl: "https://www.fool.com/investing/2020/05/19/sony-adds-microsoft-powered-a
 ampWebUrl: "https://www.fool.com/amp/investing/2020/05/19/sony-adds-microsoft-powered-artificial-intelligenc.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/19/sony-adds-microsoft-powered-artificial-intelligenc.aspx"
 type: article
-quality: 96
+quality: 76
 heat: -1
 published: false
 
@@ -40,7 +40,7 @@ related:
     provider:
       name: SlashGear
       domain: slashgear.com
-    quality: 117
+    quality: 97
     images:
       - url: "https://cdn.slashgear.com/wp-content/uploads/2020/05/sony-intelligent-vision-sensor-1.jpg"
         width: 2307
@@ -56,7 +56,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 117
+    quality: 97
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2020/05/sony-to-use-microsoft-azure-arti-1260x709.jpg"
         width: 1260
@@ -72,7 +72,7 @@ related:
     provider:
       name: Engadget
       domain: engadget.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F9229e060-999b-11ea-939f-54acbb91a315&client=amp-blogside-v2&signature=f4675774e49d1699bc2ea8c11f3f382adaf9a6e7"
         width: 600
@@ -88,7 +88,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 98
+    quality: 78
     images:
       - url: "https://zdnet2.cbsistatic.com/hub/i/2020/05/15/d4d0aec9-a68d-4c05-93a1-1983d4569593/sony-sensor.jpg"
         width: 360
@@ -104,7 +104,7 @@ related:
     provider:
       name: Windows Central
       domain: windowscentral.com
-    quality: 77
+    quality: 57
     images:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg?itok=T29z3T0D"
         width: 800
@@ -118,7 +118,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/microsoft-3.png"
         width: 718
@@ -132,7 +132,7 @@ related:
     provider:
       name: SiliconRepublic
       domain: siliconrepublic.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/05/microsoft-1.png"
         width: 1200

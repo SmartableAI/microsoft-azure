@@ -40,7 +40,7 @@ related:
     provider:
       name: Network World
       domain: networkworld.com
-    quality: 58
+    quality: 38
     images:
       - url: "https://images.techhive.com/images/article/2014/12/abstract_rack_of_servers-100538194-large.jpg"
         width: 1200

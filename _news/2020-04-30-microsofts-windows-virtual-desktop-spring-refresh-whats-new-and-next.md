@@ -7,7 +7,7 @@ webUrl: "https://www.zdnet.com/article/microsofts-windows-virtual-desktop-spring
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next/"
 type: article
-quality: 102
+quality: 82
 heat: -1
 published: false
 
@@ -40,7 +40,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-1175327930.jpg?w=1024"
         width: 1024
@@ -63,7 +63,7 @@ related:
     provider:
       name: MCPmag
       domain: mcpmag.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://mcpmag.com/-/media/ECG/redmondmag/Images/introimages2014/140319REDMackieVDI.jpg"
         width: 647
@@ -77,7 +77,7 @@ related:
     provider:
       name: Thurrott
       domain: thurrott.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/04/windows-virtual-desktop.jpg"
         width: 1066
@@ -91,7 +91,7 @@ related:
     provider:
       name: Thurrott
       domain: thurrott.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/05/collections-hero.jpg"
         width: 1066

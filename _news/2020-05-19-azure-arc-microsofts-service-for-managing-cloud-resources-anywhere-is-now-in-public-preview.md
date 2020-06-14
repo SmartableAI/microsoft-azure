@@ -7,7 +7,7 @@ webUrl: "https://techcrunch.com/2020/05/19/azure-arc-microsofts-service-for-mana
 ampWebUrl: "https://techcrunch.com/2020/05/19/azure-arc-microsofts-service-for-managing-cloud-resources-anywhere-is-now-in-public-preview/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/azure-arc-microsofts-service-for-managing-cloud-resources-anywhere-is-now-in-public-preview/amp/"
 type: article
-quality: 105
+quality: 85
 heat: -1
 published: false
 
@@ -40,7 +40,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 116
+    quality: 96
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eca9237702e3700087145bd%2F0x0.jpg"
         width: 1000
@@ -56,7 +56,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 116
+    quality: 96
     images:
       - url: "https://zdnet4.cbsistatic.com/hub/i/2020/05/27/30b4c6f7-2493-46a3-a96e-036d37d7b5dc/2020-05-27-at-2-12-29-am.jpg"
         width: 1432

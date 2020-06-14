@@ -7,8 +7,8 @@ webUrl: "https://markets.businessinsider.com/news/stocks/collaborate-in-cloud-su
 ampWebUrl: "https://markets.businessinsider.com/amp/news/collaborate-in-cloud-suzhou-is-going-to-be-pacemaker-of-the-world-s-manufacturing-industry-1029209869"
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/collaborate-in-cloud-suzhou-is-going-to-be-pacemaker-of-the-world-s-manufacturing-industry-1029209869"
 type: article
-quality: 61
-heat: 81
+quality: 51
+heat: 71
 published: true
 
 provider:
@@ -33,7 +33,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 16
+    quality: 6
 
 secured: "KJN7rX4hbsK79MNf0AC4Gb9pG6NWupVPZxc26QquGALvqf1zKBah3pu0Y5orwAUJJQvV/uoi+MoxB/Nu0l1vA+YfgPRRtYQHikHls9rLaxTJ2gTKYzabgjCwk1Bkgm4JWEXZhIT69X1V7h5gvCYpD9D5QsZAh4mRSgYDTj4RHlk6uuZiyhYNsrLoFurmgRofE9oaBGn23CB3VfQQHU/kfGk5AE/CXPk8Dz2rhIjHY1Pmh9abXZFowF1tmB2EW07m0ezR13oRD8+rvxk7xHVN/RLh45z2bke+HVx6j7iBC3OVPdkqo62jVxPeNni39EWy;tWQfmbVsMgtJbwidDgOUoQ=="
 ---

@@ -7,9 +7,9 @@ webUrl: "https://www.thenewsminute.com/article/microsoft-aws-public-spat-over-aw
 ampWebUrl: "https://www.thenewsminute.com/article/microsoft-aws-public-spat-over-awarding-10-billion-cloud-project-124232?amp"
 cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/microsoft-aws-public-spat-over-awarding-10-billion-cloud-project-124232?amp"
 type: article
-quality: 61
-heat: 161
-published: true
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: The News Minute
@@ -36,7 +36,7 @@ related:
     provider:
       name: Zee Business
       domain: zeebiz.com
-    quality: 54
+    quality: 34
     images:
       - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2020/05/09/118543-singhvi-chouhan.jpg?itok=4uLSp1Pb"
         width: 700
@@ -52,7 +52,7 @@ related:
     provider:
       name: The New Indian Express
       domain: newindianexpress.com
-    quality: 50
+    quality: 30
     images:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/5/9/w600X390/Microsoft-Amazon.jpg"
         width: 600
@@ -68,7 +68,7 @@ related:
     provider:
       name: Hindustan Times
       domain: hindustantimes.com
-    quality: 32
+    quality: 22
   - title: "Microsoft slams Amazon's Cloud arm for blocking $10bn Pentagon project"
     excerpt: "Microsoft has come out in the open against ecommerce giant Amazon's Cloud arm, slamming Amazon Web Services (AWS) for once again challenging the US government's decision to award $10 billion Pentagon Cloud project to Satya Nadella-run enterprise - this time out of view from the public and directly with the US Department of Defense (DoD)."
     publishedDateTime: 2020-05-08T10:26:00Z

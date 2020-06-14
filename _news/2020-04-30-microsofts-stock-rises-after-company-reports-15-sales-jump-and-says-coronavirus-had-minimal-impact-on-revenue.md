@@ -7,8 +7,8 @@ webUrl: "https://www.cnbc.com/2020/04/29/microsoft-msft-earnings-q3-2020.html"
 ampWebUrl: "https://www.cnbc.com/amp/2020/04/29/microsoft-msft-earnings-q3-2020.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/29/microsoft-msft-earnings-q3-2020.html"
 type: article
-quality: 81
-heat: 121
+quality: 61
+heat: 101
 published: true
 
 provider:
@@ -38,7 +38,7 @@ related:
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 67
+    quality: 57
     images:
       - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
         width: 1200
@@ -54,7 +54,7 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
-    quality: 48
+    quality: 28
     images:
       - url: "https://content.jwplatform.com/thumbs/FcegUGWf-720.jpg"
         width: 720

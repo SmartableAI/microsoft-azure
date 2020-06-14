@@ -5,8 +5,8 @@ excerpt: "During these uncertain times, building apps with agility and cost-effe
 publishedDateTime: 2020-05-20T08:00:27Z
 webUrl: "https://azure.microsoft.com/blog/build-apps-of-any-size-or-scale-with-azure-cosmos-db/"
 type: article
-quality: 107
-heat: 147
+quality: 97
+heat: 137
 published: true
 
 provider:
@@ -47,7 +47,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 77
+    quality: 57
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2017/05/azure-cosmos-db-2.jpg"
         width: 1200

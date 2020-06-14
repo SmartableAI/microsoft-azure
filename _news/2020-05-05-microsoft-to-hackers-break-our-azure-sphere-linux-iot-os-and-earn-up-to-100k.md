@@ -7,7 +7,7 @@ webUrl: "https://www.zdnet.com/article/microsoft-to-hackers-break-our-azure-sphe
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-to-hackers-break-our-azure-sphere-linux-iot-os-and-earn-up-to-100k/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-hackers-break-our-azure-sphere-linux-iot-os-and-earn-up-to-100k/"
 type: article
-quality: 113
+quality: 93
 heat: -1
 published: false
 
@@ -40,7 +40,7 @@ related:
     provider:
       name: IT Pro
       domain: itpro.co.uk
-    quality: 117
+    quality: 97
     images:
       - url: "https://media.itpro.co.uk//image/upload/v1588785400/itpro/AS.png"
         width: 902
@@ -56,7 +56,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 112
+    quality: 92
     images:
       - url: "https://tr1.cbsistatic.com/hub/i/r/2020/02/18/d1467839-4251-47cb-9fa9-aed070561526/thumbnail/1200x675/f3685147226f27819a3454fc3d626812/rainforest-connection.jpg"
         width: 1200
@@ -72,7 +72,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F158670431%2F0x0.jpg"
         width: 1200
@@ -88,7 +88,7 @@ related:
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://cdn.vox-cdn.com/thumbor/vNm1XdPglfuooRvb1fCCZdkYFVY=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66758018/acastro_180507_1777_microsoft_0002.0.jpg"
         width: 1400
@@ -104,7 +104,7 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 101
+    quality: 81
     images:
       - url: "https://cnet4.cbsistatic.com/img/iF1uhBUrlwnFFy_E2G17d1LEm-c=/756x567/2017/10/02/5e7fdcb8-e585-47dd-b13c-93d21b4e4d9e/security-privacy-hackers-locks-key-6749.jpg"
         width: 756
@@ -118,7 +118,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 87
+    quality: 77
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -134,7 +134,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 77
+    quality: 57
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2019/10/Azure-Sphere.jpg"
         width: 926
@@ -150,7 +150,7 @@ related:
     provider:
       name: TelecomTV
       domain: telecomtv.com
-    quality: 77
+    quality: 57
     images:
       - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
         width: 1200
@@ -164,7 +164,7 @@ related:
     provider:
       name: Dark Reading
       domain: darkreading.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
         width: 600
@@ -178,7 +178,7 @@ related:
     provider:
       name: SC Media
       domain: scmagazine.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2018/08/microsoft41_1239455.jpg"
         width: 700

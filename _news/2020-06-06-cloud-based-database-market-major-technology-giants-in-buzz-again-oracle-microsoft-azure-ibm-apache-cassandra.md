@@ -7,8 +7,8 @@ webUrl: "https://www.openpr.com/news/2068878/cloud-based-database-market-major-t
 ampWebUrl: "https://www.openpr.com/amp/2068878/cloud-based-database-market-major-technology-giants-in-buzz"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2068878/cloud-based-database-market-major-technology-giants-in-buzz"
 type: article
-quality: 24
-heat: 24
+quality: 14
+heat: 14
 published: false
 
 provider:

@@ -7,8 +7,8 @@ webUrl: "https://techcrunch.com/2020/04/30/microsoft-makes-it-easier-to-get-star
 ampWebUrl: "https://techcrunch.com/2020/04/30/microsoft-makes-it-easier-to-get-started-with-windows-virtual-desktops/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/30/microsoft-makes-it-easier-to-get-started-with-windows-virtual-desktops/amp/"
 type: article
-quality: 102
-heat: 202
+quality: 82
+heat: 182
 published: true
 
 provider:
@@ -40,7 +40,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://zdnet1.cbsistatic.com/hub/i/2020/04/30/b77a0f01-6b33-4f90-b06e-94b4e3c3b85f/newwvdfeatures.jpg"
         width: 875
@@ -63,7 +63,7 @@ related:
     provider:
       name: MCPmag
       domain: mcpmag.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://mcpmag.com/-/media/ECG/redmondmag/Images/introimages2014/140319REDMackieVDI.jpg"
         width: 647
@@ -77,7 +77,7 @@ related:
     provider:
       name: Thurrott
       domain: thurrott.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/04/windows-virtual-desktop.jpg"
         width: 1066
@@ -91,7 +91,7 @@ related:
     provider:
       name: Thurrott
       domain: thurrott.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/05/collections-hero.jpg"
         width: 1066

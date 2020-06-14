@@ -7,7 +7,7 @@ webUrl: "https://www.zdnet.com/article/microsoft-now-at-75-million-daily-active-
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-now-at-75-million-daily-active-teams-users-despite-supply-chain-constraints-affecting-its-cloud-business/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-now-at-75-million-daily-active-teams-users-despite-supply-chain-constraints-affecting-its-cloud-business/"
 type: article
-quality: 80
+quality: 60
 heat: -1
 published: false
 
@@ -40,7 +40,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 97
+    quality: 77
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2020/04/Pop-out-chat-in-Teams-630x354.jpg"
         width: 630

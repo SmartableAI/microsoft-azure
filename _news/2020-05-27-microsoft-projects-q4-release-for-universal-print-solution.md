@@ -5,7 +5,7 @@ excerpt: "Universal Print, which debuted in March, is a cloud-based solution tha
 publishedDateTime: 2020-05-27T13:20:00Z
 webUrl: "https://rcpmag.com/articles/2020/05/27/microsoft-universal-print-solution.aspx"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: winbuzzer.com
       domain: winbuzzer.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://winbuzzer.com/wp-content/uploads/2020/03/universal-print-microsoft.png"
         width: 999
@@ -48,7 +48,7 @@ related:
     provider:
       name: petri.com
       domain: petri.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.petri.com/wp-content/uploads/sites/3/2015/11/cloud-1280x720.jpg"
         width: 1280
@@ -62,7 +62,7 @@ related:
     provider:
       name: Redmond Magazine
       domain: redmondmag.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/MapRusticBig.jpg"
         width: 1665

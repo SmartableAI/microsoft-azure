@@ -5,8 +5,8 @@ excerpt: "Your large archive of videos to index is ever-expanding, thus you have
 publishedDateTime: 2020-01-27T09:00:20Z
 webUrl: "https://azure.microsoft.com/blog/six-things-to-consider-when-using-video-indexer-at-scale/"
 type: article
-quality: 94
-heat: 94
+quality: 84
+heat: 84
 published: true
 
 provider:

@@ -5,7 +5,7 @@ excerpt: ""
 publishedDateTime: 2020-04-14T22:00:22Z
 webUrl: "https://azure.microsoft.com/en-us/updates/announcing-general-availability-ga-of-manytomany-relationships-in-azure-analysis-services/"
 type: article
-quality: 102
+quality: 92
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 107
+    quality: 97
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/0f9f89b3-100e-4d95-b715-e3b3f4e20492.gif"
         width: 1290
@@ -50,7 +50,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 104
+    quality: 94
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/2eee66bc-197a-4a22-97b3-a23d469d3f97.png"
         width: 604

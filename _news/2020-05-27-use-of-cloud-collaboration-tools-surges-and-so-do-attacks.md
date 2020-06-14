@@ -7,9 +7,9 @@ webUrl: "https://www.itworld.com/article/3545775/use-of-cloud-collaboration-tool
 ampWebUrl: "https://www.itworld.com/article/3545775/use-of-cloud-collaboration-tools-surges-and-so-do-the-attacks-report-shows.amp.html"
 cdnAmpWebUrl: "https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3545775/use-of-cloud-collaboration-tools-surges-and-so-do-the-attacks-report-shows.amp.html"
 type: article
-quality: 62
-heat: 82
-published: true
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: ITworld
@@ -34,7 +34,7 @@ related:
     provider:
       name: Fudzilla
       domain: fudzilla.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.fudzilla.com/media/k2/items/cache/bc84d0829d13fdf0f363e77c954819eb_L.jpg"
         width: 620

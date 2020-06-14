@@ -7,7 +7,7 @@ webUrl: "https://www.reuters.com/article/us-microsoft-tech-idUSKBN22V27Z"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN22V27Z"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22V27Z"
 type: article
-quality: 102
+quality: 82
 heat: -1
 published: false
 
@@ -40,7 +40,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106261600-1574453260135gettyimages-1127797637.jpeg?v=1589900843"
         width: 4358
@@ -56,7 +56,7 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://cnet3.cbsistatic.com/img/Dok6c43xRR9WyO7Gg_0AlGrbr6Q=/756x567/2020/04/14/de44da9c-e4e1-4477-b318-7b6e6923b653/gettyimages-1200013326.jpg"
         width: 756
@@ -72,7 +72,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/01/06/729a12cf-e9ce-41fc-a5f7-ff3d2b08dd86/thumbnail/1200x675/463f9e181651c8c4749d69e9511e9cd8/budget.jpg"
         width: 1200
@@ -88,7 +88,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 64
+    quality: 54
   - title: "Keyhole Software Earns Microsoft Gold Competency Status"
     excerpt: "Keyhole Software announces its achievement of the Microsoft Gold Competency status. This accomplishment will increase its capacity to continue to serve their clients by offering quality Microsoft-based solutions."
     publishedDateTime: 2020-05-14T07:08:00Z

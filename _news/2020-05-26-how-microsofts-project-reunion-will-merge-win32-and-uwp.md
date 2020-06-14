@@ -5,9 +5,9 @@ excerpt: "It builds on the approach pioneered with WinUI 3 to merge the old fami
 publishedDateTime: 2020-05-26T10:01:00Z
 webUrl: "https://www.infoworld.com/article/3545407/how-microsofts-project-reunion-will-merge-win32-and-uwp.html"
 type: article
-quality: 72
-heat: 72
-published: true
+quality: 62
+heat: 62
+published: false
 
 provider:
   name: InfoWorld

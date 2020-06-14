@@ -7,7 +7,7 @@ webUrl: "https://www.financialexpress.com/industry/telecom-it-associations-oppos
 ampWebUrl: "https://www.financialexpress.com/industry/telecom-it-associations-oppose-move-to-regulate-cloud-service-providers/1959362/lite/"
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/telecom-it-associations-oppose-move-to-regulate-cloud-service-providers/1959362/lite/"
 type: article
-quality: 61
+quality: 41
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

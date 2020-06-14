@@ -7,7 +7,7 @@ webUrl: "https://investorplace.com/2020/04/microsoft-stock-essential-years/"
 ampWebUrl: "https://investorplace.com/2020/04/microsoft-stock-essential-years/amp/"
 cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/04/microsoft-stock-essential-years/amp/"
 type: article
-quality: 62
+quality: 42
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://media.ycharts.com/charts/24981e8743742bcb2fd3f34c85905335.png"
         width: 720
@@ -52,7 +52,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568510%2Fmicrosoft-better-cloud-mf.jpg&w=1200&op=resize"
         width: 1200
@@ -66,7 +66,7 @@ related:
     provider:
       name: Finextra
       domain: finextra.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
         width: 480

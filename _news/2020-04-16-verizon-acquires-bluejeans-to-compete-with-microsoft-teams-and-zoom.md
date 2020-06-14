@@ -7,9 +7,9 @@ webUrl: "https://mspoweruser.com/verizon-acquires-bluejeans-microsoft-teams-zoom
 ampWebUrl: "https://mspoweruser.com/verizon-acquires-bluejeans-microsoft-teams-zoom/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/verizon-acquires-bluejeans-microsoft-teams-zoom/amp/"
 type: article
-quality: 62
-heat: 82
-published: true
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: MSPoweruser
@@ -36,7 +36,7 @@ related:
     provider:
       name: CMS Wire
       domain: cmswire.com
-    quality: 59
+    quality: 39
     images:
       - url: "https://www.cmswire.com/-/media/71391a7d802948e5bec66136be09be45.ashx?mw=1024"
         width: 640

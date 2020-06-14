@@ -5,7 +5,7 @@ excerpt: "Act on the news with POLITICO Pro. — JEDI latest: The Pentagon’s i
 publishedDateTime: 2020-04-16T15:00:00Z
 webUrl: "https://www.politico.com/newsletters/morning-tech/2020/04/16/jedi-war-continues-for-amazon-microsoft-786910"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 101
+    quality: 81
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2019/11/microsoft-630x473.jpg"
         width: 630
@@ -50,7 +50,7 @@ related:
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 59
+    quality: 39
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/04/Microsoft-JEDI-DoD.jpg"
         width: 1265
@@ -64,7 +64,7 @@ related:
     provider:
       name: The Taipei Times
       domain: taipeitimes.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px.jpg"
         width: 1200
@@ -82,7 +82,7 @@ related:
     provider:
       name: Government Executive
       domain: govexec.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://cdn.govexec.com/media/img/upload/2020/04/19/shutterstock_746396986/open-graph.jpg"
         width: 400

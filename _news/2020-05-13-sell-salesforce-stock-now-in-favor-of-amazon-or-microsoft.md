@@ -7,7 +7,7 @@ webUrl: "https://markets.businessinsider.com/news/stocks/sell-salesforce-crm-sto
 ampWebUrl: "https://markets.businessinsider.com/amp/news/sell-salesforce-crm-stock-coronavirus-growth-1029199270"
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/sell-salesforce-crm-stock-coronavirus-growth-1029199270"
 type: article
-quality: 72
+quality: 62
 heat: -1
 published: false
 
@@ -33,7 +33,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg"
         width: 580
@@ -52,7 +52,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 62
+    quality: 52
 
 secured: "MivQgtt3FUyyPs6u/kGNKfMITsB44iumMntgmROVIuYgoy9n0QI9tHcc9c/hYY1iakiz/R1OUXKzddG3hdeoYQhkAyldg/HCZpQafp5gAmZvPBMMTmjvDb/IFX1DlxaGVED26NzWMrJMilI59BZFW8eHNjQ/5m6+T3BGxbnT02DB06pRJB+LQ5q6r+zPlS5FrtMzHkqPM5T2r2kOwYEj5SiCv7aqgSoTvqqeySfDgDZNuIiQI3GeeKcuoRrCllUmp17aqTBEw+ZXi9Y/yyL44951/oTsD17GNSwc0TiLLv/vIwZzjU6rmjT1a7T7F+ee7/HnTjsoWHSgunZSf9ot56TUWFBUzBJCSGPLDIXkD6a1xwp8im37XVeImRaz0DMkxE9lUJaKSpsK1PP92+b9PEW7/0SJ2H+mXYYFkwxn9JgEKLAmZg0lFvBIp4rZVx8lFA45vVzUeXjNuhuLH9quuaXHQaUoXWDt+6nnmAWTMKw=;MTYmvWDmVBwO5wpNU6zuOg=="
 ---

@@ -7,8 +7,8 @@ webUrl: "https://investorplace.com/2020/04/near-term-choppiness-wont-sink-msft-s
 ampWebUrl: "https://investorplace.com/2020/04/near-term-choppiness-wont-sink-msft-stock-long-term-gains/amp/"
 cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/04/near-term-choppiness-wont-sink-msft-stock-long-term-gains/amp/"
 type: article
-quality: 62
-heat: 62
+quality: 42
+heat: 42
 published: false
 
 provider:

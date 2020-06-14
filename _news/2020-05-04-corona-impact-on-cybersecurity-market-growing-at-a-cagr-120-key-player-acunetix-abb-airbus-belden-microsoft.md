@@ -5,8 +5,8 @@ excerpt: "Microsoft donated USD one million to Puget Sound’s COVID ... The too
 publishedDateTime: 2020-05-04T14:08:00Z
 webUrl: "https://www.marketwatch.com/press-release/corona-impact-on-cybersecurity-market-growing-at-a-cagr-120-key-player-acunetix-abb-airbus-belden-microsoft-2020-05-04?mod=mw_quote_news"
 type: article
-quality: 50
-heat: 50
+quality: 40
+heat: 40
 published: false
 
 provider:

@@ -5,7 +5,7 @@ excerpt: "VMware COO Sanjay Poonen says the alliances it forged with Amazon, Mic
 publishedDateTime: 2020-05-04T17:28:00Z
 webUrl: "https://www.businessinsider.com/vmwares-coo-the-indispensable-bridge-in-the-cloud-2020-5"
 type: article
-quality: 44
+quality: 34
 heat: -1
 published: false
 
@@ -38,7 +38,7 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
-    quality: 56
+    quality: 36
     images:
       - url: "https://content.jwplatform.com/thumbs/gXtTefbE-720.jpg"
         width: 720
@@ -52,7 +52,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 34
+    quality: 24
     images:
       - url: "https://i.insider.com/5eb1d4dd5f726e1a965b8df3?width=1200&format=jpeg"
         width: 1200

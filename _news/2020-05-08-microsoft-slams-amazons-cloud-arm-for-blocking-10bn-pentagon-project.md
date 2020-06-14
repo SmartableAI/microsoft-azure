@@ -27,7 +27,7 @@ related:
     provider:
       name: The News Minute
       domain: thenewsminute.com
-    quality: 61
+    quality: 41
     images:
       - url: "https://www.thenewsminute.com/sites/default/files/microsoft_750_7.jpg"
         width: 750
@@ -43,7 +43,7 @@ related:
     provider:
       name: Zee Business
       domain: zeebiz.com
-    quality: 54
+    quality: 34
     images:
       - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2020/05/09/118543-singhvi-chouhan.jpg?itok=4uLSp1Pb"
         width: 700
@@ -59,7 +59,7 @@ related:
     provider:
       name: The New Indian Express
       domain: newindianexpress.com
-    quality: 50
+    quality: 30
     images:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/5/9/w600X390/Microsoft-Amazon.jpg"
         width: 600
@@ -75,7 +75,7 @@ related:
     provider:
       name: Hindustan Times
       domain: hindustantimes.com
-    quality: 32
+    quality: 22
   - title: "AWS and Microsoft engage in heated public spat over $10bn cloud project"
     excerpt: "After Microsoft slammed Amazon's Cloud arm for challenging the US government's decision to award $10 billion Pentagon Cloud project to Satya Nadella-run enterprise, Amazon Web Services (AWS) has hit back,"
     publishedDateTime: 2020-05-09T10:58:00Z

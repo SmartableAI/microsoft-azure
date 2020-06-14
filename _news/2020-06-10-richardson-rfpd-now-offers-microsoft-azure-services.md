@@ -27,7 +27,7 @@ related:
     provider:
       name: Finance Magnates
       domain: financemagnates.com
-    quality: 77
+    quality: 57
     images:
       - url: "https://www.financemagnates.com/wp-content/uploads/2015/12/microsoft.jpg"
         width: 880

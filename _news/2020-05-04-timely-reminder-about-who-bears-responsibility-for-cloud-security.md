@@ -5,8 +5,8 @@ excerpt: "Recent breaches and a pandemic-driven strain on cloud computing seemed
 publishedDateTime: 2020-05-04T21:00:00Z
 webUrl: "https://www.americanbanker.com/news/timely-reminder-about-who-bears-responsibility-for-cloud-security"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:

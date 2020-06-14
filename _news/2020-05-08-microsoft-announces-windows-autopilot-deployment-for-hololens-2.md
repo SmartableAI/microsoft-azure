@@ -7,8 +7,8 @@ webUrl: "https://mspoweruser.com/microsoft-windows-autopilot-hololens-2/"
 ampWebUrl: "https://mspoweruser.com/microsoft-windows-autopilot-hololens-2/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-windows-autopilot-hololens-2/amp/"
 type: article
-quality: 62
-heat: 62
+quality: 42
+heat: 42
 published: false
 
 provider:

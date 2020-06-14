@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 109
+    quality: 99
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a69c6248-11fa-477b-81e0-17d56596895a.jpg"
         width: 1024
@@ -143,6 +143,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Managed identity support in AKS is now available"
+    excerpt: ""
+    publishedDateTime: 2020-04-28T16:30:50Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/managed-identity-support-in-aks-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 62
   - title: "IPification Secure Mobile Authentication Now Available to Microsoft Azure Active Directory B2C Customers"
     excerpt: "Benefit Vantage Limited, developer of the IPification seamless authentication solution, is proud to announce that we will enable global service providers"
     publishedDateTime: 2020-04-28T14:00:00Z
@@ -151,7 +160,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 70
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -165,21 +174,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 63
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Managed identity support in AKS is now available"
-    excerpt: ""
-    publishedDateTime: 2020-04-28T16:30:50Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/managed-identity-support-in-aks-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 62
   - title: "Kyvos BI Acceleration Platform is Now Available on Azure Marketplace"
     excerpt: "Kyvos Insights, a cloud and big data analytics company, today announced the availability of their cloud-native BI acceleration platform,"
     publishedDateTime: 2020-04-28T13:00:00Z
@@ -188,7 +188,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://mma.prnewswire.com/media/1026738/Kyvos_Logo.jpg?p=facebook"
         width: 993
@@ -202,7 +202,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 46
+    quality: 36
     images:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
@@ -216,7 +216,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 42
+    quality: 32
     images:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600

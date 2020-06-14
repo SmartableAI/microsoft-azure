@@ -7,8 +7,8 @@ webUrl: "https://www.techspot.com/news/85197-opinion-new-workplace-realities-hig
 ampWebUrl: "https://www.techspot.com/amp/news/85197-opinion-new-workplace-realities-highlight-opportunity-cloud-based.html"
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85197-opinion-new-workplace-realities-highlight-opportunity-cloud-based.html"
 type: article
-quality: 94
-heat: 134
+quality: 74
+heat: 114
 published: true
 
 provider:
@@ -38,7 +38,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

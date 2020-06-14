@@ -5,7 +5,7 @@ excerpt: "With the Veeam Backup for Microsoft Azure, Veeam strengthens its data 
 publishedDateTime: 2020-05-22T20:17:00Z
 webUrl: "https://www.storagereview.com/review/veeam-backup-for-microsoft-azure-overview"
 type: article
-quality: 47
+quality: 37
 heat: -1
 published: false
 
@@ -32,7 +32,7 @@ related:
     provider:
       name: Help Net Security
       domain: helpnetsecurity.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
         width: 304

@@ -5,7 +5,7 @@ excerpt: "Global Cloud Robotics Market - Growth, Trends, And Forecast (2020 - 20
 publishedDateTime: 2020-05-26T13:18:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-robotics-market-evolving-technology-and-growth-outlook-2020-to-2024-2020-05-26"
 type: article
-quality: 71
+quality: 61
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 71
+    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -50,7 +50,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 71
+    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -5,7 +5,7 @@ excerpt: "Fortanix® Inc., a Runtime Encryption® company, today announced the a
 publishedDateTime: 2020-04-30T12:17:00Z
 webUrl: "https://www.businesswire.com/news/home/20200430005281/en/Fortanix-Data-Security-Platform-Microsoft-Azure-Enhance"
 type: article
-quality: 23
+quality: 13
 heat: -1
 published: false
 
@@ -41,7 +41,7 @@ related:
     provider:
       name: Help Net Security
       domain: helpnetsecurity.com
-    quality: 44
+    quality: 34
     images:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
         width: 304
@@ -55,7 +55,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 30
+    quality: 20
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/Poojan-Kumar-Clumio.png"
         width: 1094

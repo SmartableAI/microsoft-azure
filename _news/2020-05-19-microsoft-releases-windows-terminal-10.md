@@ -5,7 +5,7 @@ excerpt: "Microsoft's modern command-line application for Windows 10, the new Wi
 publishedDateTime: 2020-05-19T15:12:00Z
 webUrl: "https://www.thurrott.com/dev/236298/microsoft-releases-windows-terminal-1-0"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
@@ -34,7 +34,7 @@ related:
     provider:
       name: PC Magazine
       domain: pcmag.com
-    quality: 117
+    quality: 97
     images:
       - url: "https://i.pcmag.com/imagery/articles/00TYN1x1sWt95nJKOcFrn8y-1.fit_lim.size_1200x630.v_1590154031.jpg"
         width: 1120
@@ -48,7 +48,7 @@ related:
     provider:
       name: Redmond Channel Partner
       domain: rcpmag.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BrightTunnelSmall.jpg"
         width: 647

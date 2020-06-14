@@ -5,8 +5,8 @@ excerpt: "Modern applications are increasingly built using containers, which are
 publishedDateTime: 2020-04-28T11:00:41Z
 webUrl: "https://azure.microsoft.com/blog/microsoft-services-is-now-a-kubernetes-certified-service-provider/"
 type: article
-quality: 92
-heat: 132
+quality: 82
+heat: 122
 published: true
 
 provider:
@@ -36,7 +36,7 @@ related:
     provider:
       name: SD Times
       domain: sdtimes.com
-    quality: 87
+    quality: 77
     images:
       - url: "https://sdtimes.com/images/sd-premium.png"
         width: 628
@@ -50,7 +50,7 @@ related:
     provider:
       name: CIO Dive
       domain: ciodive.com
-    quality: 27
+    quality: 17
     images:
       - url: "https://www.ciodive.com/user_media/cache/12/e2/12e2858c5eb8a7668a4ac74e3c216843.jpg"
         width: 770

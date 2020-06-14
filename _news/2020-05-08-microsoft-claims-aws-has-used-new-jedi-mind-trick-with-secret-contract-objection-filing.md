@@ -7,7 +7,7 @@ webUrl: "https://www.theregister.co.uk/2020/05/08/new_jedi_contract_objection/"
 ampWebUrl: "https://www.theregister.co.uk/AMP/2020/05/08/new_jedi_contract_objection/"
 cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/08/new_jedi_contract_objection/"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 90
+    quality: 70
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2016/04/20160404_Envision_07-1240x828.jpg"
         width: 1240
@@ -52,7 +52,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 87
+    quality: 67
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106474164-1585941999885gettyimages-939960022.jpeg?v=1585942142"
         width: 5253
@@ -68,7 +68,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 68
+    quality: 48
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2019/11/microsoft-630x473.jpg"
         width: 630
@@ -84,7 +84,7 @@ related:
     provider:
       name: Barron's
       domain: barrons.com
-    quality: 60
+    quality: 40
     images:
       - url: "https://images.barrons.com/im-188060/social"
         width: 1280
@@ -98,7 +98,7 @@ related:
     provider:
       name: Federal Times
       domain: federaltimes.com
-    quality: 25
+    quality: 15
     images:
       - url: "https://www.armytimes.com/resizer/zPIx2t3S-cW9L6O4V1nUbDT6wsw=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/SPQTUFFMHRFI7FZBGH36NHJ5MA.jpg"
         width: 1200

@@ -5,7 +5,7 @@ excerpt: "Don’t say you weren’t warned, telecoms industry. The tech big guns
 publishedDateTime: 2020-05-15T10:06:00Z
 webUrl: "https://telecoms.com/504328/microsoft-doubles-down-on-the-telco-cloud-with-metaswitch-acquisition/"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
@@ -32,7 +32,7 @@ related:
     provider:
       name: Light Reading
       domain: lightreading.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
         width: 600

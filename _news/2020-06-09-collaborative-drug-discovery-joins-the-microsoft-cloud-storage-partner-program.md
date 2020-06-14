@@ -5,8 +5,8 @@ excerpt: "PRNewswire/ -- Collaborative Drug Discovery (CDD), provider of the CDD
 publishedDateTime: 2020-06-09T12:00:00Z
 webUrl: "https://www.prnewswire.com/news-releases/collaborative-drug-discovery-joins-the-microsoft-cloud-storage-partner-program-301072297.html"
 type: article
-quality: 28
-heat: 28
+quality: 18
+heat: 18
 published: false
 
 provider:

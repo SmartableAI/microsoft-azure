@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/microsoft-and-udacity-partner-in-n
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-and-udacity-partner-in-new-4-million-machine-learning-scholarship-program-for-microsoft-azure/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-and-udacity-partner-in-new-4-million-machine-learning-scholarship-program-for-microsoft-azure/"
 type: article
-quality: 100
-heat: 120
+quality: 80
+heat: 100
 published: true
 
 provider:
@@ -40,7 +40,7 @@ related:
     provider:
       name: CoinTelegraph
       domain: cointelegraph.com
-    quality: 77
+    quality: 57
     images:
       - url: "https://images.cointelegraph.com/images/370_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kYTk5ZTE1ZjFmYTEwNGZmYjc0ZDg2ZDkzNmE5MGE4ZC5qcGc=.jpg"
         width: 370

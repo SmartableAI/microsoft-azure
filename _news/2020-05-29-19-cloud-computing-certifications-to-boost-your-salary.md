@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/19-cloud-computing-certifications-
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/19-cloud-computing-certifications-to-boost-your-salary/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/19-cloud-computing-certifications-to-boost-your-salary/"
 type: article
-quality: 102
-heat: 142
+quality: 82
+heat: 122
 published: true
 
 provider:
@@ -40,7 +40,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed3e134dc72730006b73a6e%2F0x0.jpg"
         width: 1000
@@ -54,7 +54,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
         width: 400

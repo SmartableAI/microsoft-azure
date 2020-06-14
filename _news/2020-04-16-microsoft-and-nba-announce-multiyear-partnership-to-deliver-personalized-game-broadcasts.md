@@ -7,7 +7,7 @@ webUrl: "https://mspoweruser.com/microsoft-nba-announce-multiyear-partnership/"
 ampWebUrl: "https://mspoweruser.com/microsoft-nba-announce-multiyear-partnership/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-nba-announce-multiyear-partnership/amp/"
 type: article
-quality: 53
+quality: 33
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 117
+    quality: 97
     images:
       - url: "https://cdn.vox-cdn.com/thumbor/mwjfKqcPIwq9DgAixwF1mBWKGvk=/0x0:1777x1168/1400x933/filters:focal(747x442:1031x726):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66663808/microsoftnba.0.jpg"
         width: 1400
@@ -52,7 +52,7 @@ related:
     provider:
       name: TechSpot
       domain: techspot.com
-    quality: 114
+    quality: 94
     images:
       - url: "https://www.techspot.com/images2/news/ts3_thumbs/2020/04/2020-04-16-ts3_thumbs-cdc.jpg"
         width: 800
@@ -72,11 +72,25 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 106
+    quality: 86
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106492061-1587056933761nadella_silver.jpg?v=1587057169"
         width: 1000
         height: 714
+        isCached: true
+  - title: "Prepare for an In-Demand Cloud Career With This Microsoft Azure Training Bundle"
+    excerpt: "Prepare for an In-Demand Cloud Career With This Microsoft Azure Training Bundle Whether you're looking for work or just want to keep your resume sharp, you can prepare for a career in this field with the Complete 2020 Microsoft Azure Certification Prep ..."
+    publishedDateTime: 2020-04-21T14:47:00Z
+    webUrl: "https://www.pcmag.com/deals/prepare-for-an-in-demand-cloud-career-with-this-microsoft-azure-training"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 73
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/045CdzWhI5UsL6d7JUERSJy-1.fit_lim.size_1200x630.v_1587455928.jpg"
+        width: 1120
+        height: 630
         isCached: true
   - title: "Microsoft partners with NBA to create direct-to-consumer platform for live and on-demand games"
     excerpt: "Microsoft on Thursday announced a multi-year partnership with the National Basketball Association and will help create a new direct-to-consumer platform that runs on the company’s cloud computing technology. The new service will stream live and on-demand game broadcasts via a personalized fan experience “that tailors the content to the ..."
@@ -88,25 +102,11 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 90
+    quality: 70
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2020/04/NBA_Microsoft_Co_Brand_-630x287.jpg"
         width: 630
         height: 287
-        isCached: true
-  - title: "Prepare for an In-Demand Cloud Career With This Microsoft Azure Training Bundle"
-    excerpt: "Prepare for an In-Demand Cloud Career With This Microsoft Azure Training Bundle Whether you're looking for work or just want to keep your resume sharp, you can prepare for a career in this field with the Complete 2020 Microsoft Azure Certification Prep ..."
-    publishedDateTime: 2020-04-21T14:47:00Z
-    webUrl: "https://www.pcmag.com/deals/prepare-for-an-in-demand-cloud-career-with-this-microsoft-azure-training"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 83
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/045CdzWhI5UsL6d7JUERSJy-1.fit_lim.size_1200x630.v_1587455928.jpg"
-        width: 1120
-        height: 630
         isCached: true
   - title: "Microsoft Inks Deal With NBA to Use Cloud and Surface Tablets"
     excerpt: "Microsoft (MSFT) - Get Report has signed a deal with the NBA to provide the basketball league with Azure cloud services and Surface tablets. The deal is effective for the league's 2020-21 season. Along with other professional sports leagues, the NBA suspended its current season in March to mitigate the spread of the coronavirus."
@@ -118,7 +118,7 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://content.jwplatform.com/thumbs/xCBbfNZH-720.jpg"
         width: 720
@@ -132,7 +132,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/1.jpg"
         width: 949
@@ -146,7 +146,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 17
+    quality: 7
     images:
       - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/prod/prod/2020/04/Option_3--1024x467.jpg"
         width: 1024

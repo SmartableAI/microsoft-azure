@@ -7,8 +7,8 @@ webUrl: "https://www.exchangewire.com/blog/2020/04/27/microsoft-to-invest-in-pay
 ampWebUrl: "https://www.exchangewire.com/blog/2020/04/27/microsoft-to-invest-in-paytm-uk-visits-to-pirate-movie-websites-rise/?amp"
 cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2020/04/27/microsoft-to-invest-in-paytm-uk-visits-to-pirate-movie-websites-rise/?amp"
 type: article
-quality: 62
-heat: 62
+quality: 42
+heat: 42
 published: false
 
 provider:

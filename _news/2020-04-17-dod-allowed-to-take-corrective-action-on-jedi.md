@@ -5,8 +5,8 @@ excerpt: "Amazon Web Services took objection back in March to DOD’s proposal, 
 publishedDateTime: 2020-04-17T21:09:00Z
 webUrl: "https://www.fedscoop.com/judge-allows-dod-take-corrective-action-jedi/"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:
@@ -32,7 +32,7 @@ related:
     provider:
       name: Washington Technology
       domain: washingtontechnology.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://washingtontechnology.com/~/media/GIG/Washington%20Technology/WTlogo.jpg"
         width: 1200

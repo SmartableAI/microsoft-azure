@@ -7,8 +7,8 @@ webUrl: "https://www.fool.com/investing/2020/05/18/dow-jones-news-microsoft-part
 ampWebUrl: "https://www.fool.com/amp/investing/2020/05/18/dow-jones-news-microsoft-partners-with-fedex-apple.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/18/dow-jones-news-microsoft-partners-with-fedex-apple.aspx"
 type: article
-quality: 93
-heat: 93
+quality: 73
+heat: 73
 published: true
 
 provider:

@@ -5,8 +5,8 @@ excerpt: "The global public cloud market size is expected to reach USD 596.0 bil
 publishedDateTime: 2020-05-05T09:05:00Z
 webUrl: "https://www.prnewswire.com/news-releases/public-cloud-market-size-worth-596-0-billion-by-2027--cagr-14-6-grand-view-research-inc-301052701.html"
 type: article
-quality: 20
-heat: 20
+quality: 10
+heat: 10
 published: false
 
 provider:

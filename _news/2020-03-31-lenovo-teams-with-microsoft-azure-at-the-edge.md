@@ -7,7 +7,7 @@ webUrl: "https://www.nextplatform.com/2020/03/31/lenovo-teams-with-microsoft-azu
 ampWebUrl: "https://www.nextplatform.com/2020/03/31/lenovo-teams-with-microsoft-azure-at-the-edge/amp/"
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/03/31/lenovo-teams-with-microsoft-azure-at-the-edge/amp/"
 type: article
-quality: 77
+quality: 57
 heat: -1
 published: false
 
@@ -39,7 +39,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 111
+    quality: 101
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/1f6343e9-ac74-4c7b-8f27-8784133e6897.png"
         width: 377
@@ -53,7 +53,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 109
+    quality: 99
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/9657b8e1-a355-40b6-ae91-6285753322d9.png"
         width: 1187

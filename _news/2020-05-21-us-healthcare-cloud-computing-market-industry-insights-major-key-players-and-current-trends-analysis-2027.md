@@ -5,7 +5,7 @@ excerpt: "The report covers a forecast and an analysis of the U.S. healthcare cl
 publishedDateTime: 2020-05-21T09:12:00Z
 webUrl: "https://www.marketwatch.com/press-release/us-healthcare-cloud-computing-market-industry-insights-major-key-players-and-current-trends-analysis-2027-2020-05-21"
 type: article
-quality: 53
+quality: 43
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 72
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -52,7 +52,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 68
+    quality: 58
   - title: "Healthcare Cloud Computing Market An Overview, Analysis, Growth, Opportunities with Top Key Players 2020 to 2025"
     excerpt: "Cloud computing will increase actual-time information collection and improves accessibility to the facts. it has outpaced the conventional paper healthcare device by way of imparting extra pace and efficiency in statistics handling."
     publishedDateTime: 2020-05-15T11:28:00Z
@@ -61,7 +61,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -75,7 +75,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 41
+    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -89,7 +89,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 35
+    quality: 25
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -103,7 +103,7 @@ related:
     provider:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/1.jpg"
         width: 400
@@ -117,7 +117,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 26
+    quality: 16
     images:
       - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
         width: 666

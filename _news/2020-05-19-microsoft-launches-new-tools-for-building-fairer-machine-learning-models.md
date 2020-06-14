@@ -7,7 +7,7 @@ webUrl: "https://techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-buil
 ampWebUrl: "https://techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/amp/"
 type: article
-quality: 101
+quality: 81
 heat: -1
 published: false
 
@@ -40,7 +40,7 @@ related:
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 102
+    quality: 82
     images:
       - url: "https://cdn.vox-cdn.com/thumbor/A0qSlkmYYXZrzHTj7PIDFJAR7J8=/0x0:3000x1984/1400x933/filters:focal(1260x752:1740x1232):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66814907/518216764.jpg.0.jpg"
         width: 1400
@@ -56,7 +56,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 87
+    quality: 67
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106340571-1579197768152gettyimages-860270484.jpeg?v=1590091539"
         width: 4000
@@ -72,7 +72,7 @@ related:
     provider:
       name: Windows Central
       domain: windowscentral.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/03/microsoft-logo-ignite-2017.jpg?itok=LlgVw_jV"
         width: 800

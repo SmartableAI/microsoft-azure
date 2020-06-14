@@ -7,8 +7,8 @@ webUrl: "https://www.theverge.com/2020/5/19/21263383/microsoft-build-live-stream
 ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/19/21263383/microsoft-build-live-stream-watch-how-to-event-announcements"
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/19/21263383/microsoft-build-live-stream-watch-how-to-event-announcements"
 type: article
-quality: 102
-heat: 162
+quality: 82
+heat: 142
 published: true
 
 provider:
@@ -40,7 +40,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 101
+    quality: 81
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2016/09/gettyimages-452481532.jpg?w=1024"
         width: 1024
@@ -56,7 +56,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 87
+    quality: 67
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106340571-1579197768152gettyimages-860270484.jpeg?v=1590091539"
         width: 4000
@@ -72,7 +72,7 @@ related:
     provider:
       name: Windows Central
       domain: windowscentral.com
-    quality: 62
+    quality: 42
     images:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/03/microsoft-logo-ignite-2017.jpg?itok=LlgVw_jV"
         width: 800

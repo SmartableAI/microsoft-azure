@@ -5,7 +5,7 @@ excerpt: "Defending Key Management Service is now running on Microsoft Azure to 
 publishedDateTime: 2020-05-04T00:32:00Z
 webUrl: "https://www.helpnetsecurity.com/2020/05/04/fortanix-microsoft-azure/"
 type: article
-quality: 44
+quality: 34
 heat: -1
 published: false
 
@@ -41,7 +41,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 30
+    quality: 20
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/Poojan-Kumar-Clumio.png"
         width: 1094
@@ -55,7 +55,7 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 23
+    quality: 13
     images:
       - url: "https://mms.businesswire.com/media/20200430005281/en/788603/23/Useprimary-landscape_logo.jpg"
         width: 1200

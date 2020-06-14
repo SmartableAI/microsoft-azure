@@ -7,8 +7,8 @@ webUrl: "https://www.geekwire.com/2020/microsoft-reportedly-teamed-oracle-fend-o
 ampWebUrl: "https://www.geekwire.com/2020/microsoft-reportedly-teamed-oracle-fend-off-amazon-pentagons-jedi-contract/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-reportedly-teamed-oracle-fend-off-amazon-pentagons-jedi-contract/amp/"
 type: article
-quality: 90
-heat: 190
+quality: 70
+heat: 170
 published: true
 
 provider:
@@ -40,7 +40,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 87
+    quality: 67
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106474164-1585941999885gettyimages-939960022.jpeg?v=1585942142"
         width: 5253
@@ -56,7 +56,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 68
+    quality: 48
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2019/11/microsoft-630x473.jpg"
         width: 630
@@ -72,7 +72,7 @@ related:
     provider:
       name: Barron's
       domain: barrons.com
-    quality: 60
+    quality: 40
     images:
       - url: "https://images.barrons.com/im-188060/social"
         width: 1280
@@ -88,7 +88,7 @@ related:
     provider:
       name: The Register
       domain: theregister.co.uk
-    quality: 54
+    quality: 34
     images:
       - url: "https://regmedia.co.uk/2017/12/19/lightsaber.jpg"
         width: 648
@@ -102,7 +102,7 @@ related:
     provider:
       name: Federal Times
       domain: federaltimes.com
-    quality: 25
+    quality: 15
     images:
       - url: "https://www.armytimes.com/resizer/zPIx2t3S-cW9L6O4V1nUbDT6wsw=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/SPQTUFFMHRFI7FZBGH36NHJ5MA.jpg"
         width: 1200

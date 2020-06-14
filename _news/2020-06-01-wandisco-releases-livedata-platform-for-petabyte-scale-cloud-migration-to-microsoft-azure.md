@@ -5,8 +5,8 @@ excerpt: "SAN RAMON, Calif., June 01, 2020 (GLOBE NEWSWIRE) -- WANdisco (LSE: WA
 publishedDateTime: 2020-06-01T11:01:00Z
 webUrl: "https://www.marketwatch.com/press-release/wandisco-releases-livedata-platform-for-petabyte-scale-cloud-migration-to-microsoft-azure-2020-06-01"
 type: article
-quality: 78
-heat: 138
+quality: 68
+heat: 128
 published: true
 
 provider:
@@ -36,7 +36,7 @@ related:
     provider:
       name: FierceBiotech
       domain: fiercebiotech.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://qtxasset.com/fiercebiotech/1590574309/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png?LKiYHuwr0t16v63exxg_SW273z3YOy38"
         width: 884
@@ -50,7 +50,7 @@ related:
     provider:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
-    quality: 32
+    quality: 22
     images:
       - url: "https://media.datacenterdynamics.com/media/images/Kevin_Kline.2e16d0ba.fill-1200x630.png"
         width: 580

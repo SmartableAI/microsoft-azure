@@ -5,8 +5,8 @@ excerpt: "In the last post, we have discussed the DTU purchase model. Azure also
 publishedDateTime: 2020-05-26T00:00:00Z
 webUrl: "https://www.sqlservercentral.com/blogs/stairway-to-microsoft-azure-sql-database-part-3-purchase-models-dtu-vs-vcore-continue"
 type: article
-quality: 39
-heat: 39
+quality: 29
+heat: 29
 published: false
 
 provider:

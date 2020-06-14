@@ -5,7 +5,7 @@ excerpt: "Leveraging AI at the Edge and in Containers Fuels Timely and Responsiv
 publishedDateTime: 2020-06-05T05:43:00Z
 webUrl: "https://www.cmo.com.au/mediareleases/130462/tibco-delivers-advanced-cognitive-services-on/"
 type: article
-quality: 42
+quality: 32
 heat: -1
 published: false
 

@@ -5,8 +5,8 @@ excerpt: "Azure Network Watcher’s new and improved Connection Monitor now prov
 publishedDateTime: 2020-03-18T09:00:05Z
 webUrl: "https://azure.microsoft.com/blog/unified-network-monitoring-with-connection-monitor-now-in-preview/"
 type: article
-quality: 94
-heat: 94
+quality: 84
+heat: 84
 published: true
 
 provider:
