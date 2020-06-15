@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-and-udacit
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-and-udacity-partner-in-new-4-million-machine-learning-scholarship-program-for-microsoft-azure/"
 type: article
 quality: 80
-heat: 100
+heat: 120
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://images.cointelegraph.com/images/370_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kYTk5ZTE1ZjFmYTEwNGZmYjc0ZDg2ZDkzNmE5MGE4ZC5qcGc=.jpg"
         width: 370
         height: 246
+        isCached: true
+  - title: "Udacity, Microsoft to skill people in machine learning for Azure Cloud"
+    excerpt: "New Delhi, June 12 (IANS) US-based learning platform Udacity on Friday announced a partnership with Microsoft to confer scholarships for a new Machine Learning Nanodegree programme in Microsoft Azure."
+    publishedDateTime: 2020-06-12T08:13:00Z
+    webUrl: "https://www.sify.com/finance/udacity-microsoft-to-skill-people-in-machine-learning-for-azure-cloud-news-topnews-ugmikAfhgfghc.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 37
+    images:
+      - url: "https://www.sify.com/uploads/Paneer-Tikka-Momos_uf4rH1cjdjgif.jpg"
+        width: 600
+        height: 400
         isCached: true
 
 secured: "RpFzuw/yW0H+SsSj4FZTQuh3GCjl3cY1jxwAybs5GuXQNx1ciGvr9/jfKYVpQ0vjhN4PkT7PlqiGKI2KpeCuXD6dZtEbX6VeIgZ4Gk5A3HCkkPNYIZbcmTP0yfHNKtQznGmDPWyd0u/++guU5hsAZNdLd12YcG7MopLgyNXSho/J/uBD35evNkLdnXhJtSaQsRR66PoHS4e6xGULjGSE7Uoa1HJsuTTRuV9hAhuVQVJjcLOkIqc9TMu5ucyd/QL+X9jE4UMhWZriVnl4STwlSUzcUTIAk/AMk3vyHa/YrQtO9nwjIEsBvJ4ggIdDWvdwYwInb/3ISde0Z0A5wNyMmzNHzxPRLSXYS21w3HxHok1Ca2IU+tarL42ErxIylZ5q2m3IqP98CqAmPyMbekk4OUGT+bhpiDKLg90IR7crPeAtaaDIm4xU/+Rr0IZ6V6tDBc7GNcrlJ6KFo+y0tANrUkw4gYR1rFMuJ0l3GvF3DxFgMBadgZa0yyaYOBqJda7T;pYOT3vzar//sChbomAk/fw=="
