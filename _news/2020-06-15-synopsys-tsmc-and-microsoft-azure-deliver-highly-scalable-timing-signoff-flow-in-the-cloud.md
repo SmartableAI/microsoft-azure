@@ -1,0 +1,27 @@
+---
+category: news
+title: "Synopsys, TSMC and Microsoft Azure Deliver Highly Scalable Timing Signoff Flow in the Cloud"
+excerpt: "Considerable cost savings by optimal utilization of cloud computing resources for multi-scenario analysis Detailed whitepaper authored jointly now available on TSMC portal to jump start customers on running cloud-enabled signoff flow Synopsys,"
+publishedDateTime: 2020-06-15T15:37:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/synopsys-tsmc-and-microsoft-azure-deliver-highly-scalable-timing-signoff-flow-in-the-cloud-1029309118"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/synopsys-tsmc-and-microsoft-azure-deliver-highly-scalable-timing-signoff-flow-in-the-cloud-1029309118"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/synopsys-tsmc-and-microsoft-azure-deliver-highly-scalable-timing-signoff-flow-in-the-cloud-1029309118"
+type: article
+quality: 67
+heat: 67
+published: false
+
+provider:
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Azure
+
+secured: "y8U+CM8RjehKKR70RE0NAsGwLszDffXSfRvYuN6epctZwkG3spUvkMFetOAMVVv3n806jozVEshUlwzMHT0fYCUuyW4jLd30G4Fdyq45WoaQtJ73dDk925cTB9DsyIfIF4x8noBIR8mIJJFuzlTZ+n08ycX4uUylbvlZ4zDMhvg4FOrieTN7izkgzFnSYfHg9gSG1Sm6zlErki05LoF+AG5r0/g/uKlcxLlnj600A9KcGCnawuELZ3qgAJapdsfkZRPcw//J1z4FVb59K41uTW2FCrWTe1ZctjISMe/d2xAxj64DbsT7C8Dp18pIBQDjjK5HJ/amLbj8ball8Tz3hA==;vIZh2MucQPrayuHAglD37A=="
+---
+
