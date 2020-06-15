@@ -1,0 +1,41 @@
+---
+category: news
+title: "Azure Migrate—Assessment of imported servers is now generally available"
+excerpt: ""
+publishedDateTime: 2020-06-15T17:00:02Z
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-migrate-assessment-of-imported-servers-is-now-ga/"
+type: article
+quality: 77
+heat: -1
+published: false
+
+provider:
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Azure
+
+related:
+  - title: "Azure Firewall forced tunneling and SQL FQDN filtering now generally available"
+    excerpt: "Two new key features in Azure Firewall—forced tunneling and SQL FQDN  filtering—are now generally available. Additionally, we increased the limit for multiple public IP addresses from 100 to 250 for both Destination Network Address Translation (DNAT) and Source Network Address Translation (SNAT).\r\n\r\nAzure"
+    publishedDateTime: 2020-06-10T11:00:13Z
+    webUrl: "https://azure.microsoft.com/blog/azure-firewall-forced-tunneling-and-sql-fqdn-filtering-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 93
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/1db2f887-021c-400e-be73-9fffb77282fd.jpg"
+        width: 1024
+        height: 369
+        isCached: true
+
+secured: "wNRC5VS5ClgJ8+J0aE6PbXSkXCgvfS4g9NjCaCFKSrY349GHj1b3K0dQxRWMpjv9hti1Wyf48zL+bDWicfh7ldT7XmKYiPelVhPShCz14fOAEeS/CY1A0SgcIx63d8sLKiGIbDRxHdO26/69vZbJYxRFbq9a3agCdNVFAt/qdTamHnwoTfRnA752rVNw/muJRd3l5O+gZ3xOiVhifpLeEKbre355t6PtGGnGtir9wgBWildLHP9ouTiBhnlxHIHCIg7mQ+oDnUoV0ZY/8EXJH32ZyAHaqbx4CzBosm8Iulv300nNGEGFsx1Q4B/b1ZahLkH9xVLSqd5tdFDpeSaClw==;UEjdvrUoCoHkQgMbGq2ysQ=="
+---
+
