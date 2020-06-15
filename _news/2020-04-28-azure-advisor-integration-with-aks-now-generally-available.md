@@ -134,6 +134,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Private AKS clusters are now generally available in Azure Government "
+    excerpt: ""
+    publishedDateTime: 2020-06-15T19:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/private-aks-clusters-are-now-generally-available-in-azure-government/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Azure Databricks is now available in the Azure Government cloud (in preview)"
     excerpt: ""
     publishedDateTime: 2020-06-09T18:15:11Z

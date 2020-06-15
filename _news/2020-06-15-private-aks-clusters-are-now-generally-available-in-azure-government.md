@@ -1,9 +1,9 @@
 ---
 category: news
-title: "Azure DevTest Labs environments are now available in Azure Government"
+title: "Private AKS clusters are now generally available in Azure Government "
 excerpt: ""
-publishedDateTime: 2020-05-27T16:00:03Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-devtest-labs-environments-are-now-available-in-azure-government/"
+publishedDateTime: 2020-06-15T19:00:03Z
+webUrl: "https://azure.microsoft.com/en-us/updates/private-aks-clusters-are-now-generally-available-in-azure-government/"
 type: article
 quality: 77
 heat: -1
@@ -125,19 +125,19 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Windows Server containers in AKS is now available in Azure Government"
+  - title: "Azure DevTest Labs environments are now available in Azure Government"
     excerpt: ""
-    publishedDateTime: 2020-06-10T16:00:25Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/windows-server-containers-in-aks-is-now-available-in-azure-government/"
+    publishedDateTime: 2020-05-27T16:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-devtest-labs-environments-are-now-available-in-azure-government/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Private AKS clusters are now generally available in Azure Government "
+  - title: "Windows Server containers in AKS is now available in Azure Government"
     excerpt: ""
-    publishedDateTime: 2020-06-15T19:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/private-aks-clusters-are-now-generally-available-in-azure-government/"
+    publishedDateTime: 2020-06-10T16:00:25Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/windows-server-containers-in-aks-is-now-available-in-azure-government/"
     type: article
     provider:
       name: Microsoft
@@ -232,6 +232,6 @@ related:
         height: 315
         isCached: true
 
-secured: "gzQ2omn57mhRZkZ92GYLYaqUXG2FJjEfHcdOvCOfpF9pj3qRYyrHOYWxombDwIamGvj0ffscuR8S/akAUFzPQkrt2IvPSWHKmt3JrJlQLaNZ79FFHWG4kWrTD22NEjlDrOP+iXIyPw+2ZXhpy9FbZhcDwQbfEd38eu6B3vxIntmIFIXkIEWRWwYHD55e1Ld6ywIP1Radaz3YD3Mhe3xz8Zx3t8u6otSq7VgMxAsu54ABAq85jWOY8LypuWeST4r+ksqFrnhd824v+voZFVPDfUL/yF261jRU6O8XLFEf3zKtvTUvSY10SXS1Y4+AasQp2fz7oXdARxF3JzWWo6TD0A==;Zws9MQxIzrFozI4r9unuMA=="
+secured: "udCXGqH0F4XAijZUpVBPy6vgRwpOLSvs7zL1KxjYSHJ5Bzf/4XHdF9GX+PvZaFLpOj4EmJFWHMjqLtQjjjFRTI5s5l7kRrQ7AVu6skhA6an/u31se1qACEZ9VrebiSYuLSUMSSd9hYZLDtb6lLoenG9JLVOea6XDrSaHIELZqFZwfcWR9/ksy5+k2iOepCQalG20ebzC9eaGydK2ZeK0quOVs6AL7Foow5sMX3EICzz4RVoE5QuSkFYhzyTzwKV53geLbQBkUJB/76PN2qjbiXcOTqa747jl2rfRm2SpOMMPpm7fLK1HK7ifQpaOFL2G9wgbIZr7fwXF71E2UYKi+Q==;q5yjM3QS36NReIDvKvOdYg=="
 ---
 

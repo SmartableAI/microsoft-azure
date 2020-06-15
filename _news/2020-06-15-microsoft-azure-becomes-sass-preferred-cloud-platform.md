@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-azure-becomes-sas
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-becomes-sass-preferred-cloud-platform/"
 type: article
 quality: 97
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     isCached: true
     title: "Microsoft Azure becomes SAS’s preferred cloud platform"
 
-secured: "aB0/cAHp03TmB+YEyVL8G1Nb+0kgz5mg+BR6+fcVioFNJXXret2R9ipz44lgdHKxFV/mLqQ03jLuVs+r3syMANwQB6yF3qZJcitIVyzEcSN6f4Apocl5RqBwai+JhJbVNYGyjw/pv++7kSwnZw5JzY4Ny0qsza1rv5J/0LCeXX4ahhGFeOXcqJ+BhRfvV1ka8TlHqZE0jUBF5rN6+5wKuaY7IKUjnLrSoYA81YXtOhp4DrC3ejfNUP7JLzzKv11WZjocs+8BlO1r5G2/NabMShCzH8UHDhoE7ItRk8yP/bVJw2NBl1h0vkVqpv488iiF2vIJnRPnhfUV94DyM75PlHOiTJMAvTP++vBKEJCqmLkUnSaxRige1GljP12QMxn3CM+ku4ZtJR3XJzMD16p3BLJZKKoYGacI+C3dJ4sG7aAk9MGHr0bBPLhIs7Sw1+ZsjRXTVj0cJ6vqqmOI/2/Bp13KRnzs75Vflg8AUU5qJfssKQ6kP9+rkWWTwUZ7dxuz7AbCsKFTeQxNSdMg3Z87CQ==;bDJnIosab2GNA3bLbx/ZGA=="
+related:
+  - title: "Microsoft and SAS form new partnership to combine Azure services with data analysis tools"
+    excerpt: "The companies are planning to develop industry-specific products to integrate SAS services with Microsoft 365, Dynamics 365 and Power BI."
+    publishedDateTime: 2020-06-15T20:18:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-and-sas-form-new-partnership-to-combine-azure-services-with-data-analysis-tools/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-and-sas-form-new-partnership-to-combine-azure-services-with-data-analysis-tools/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-and-sas-form-new-partnership-to-combine-azure-services-with-data-analysis-tools/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 88
+    images:
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2020/05/07/ccf1b9f3-820b-4272-9325-c9444e0bea00/resize/1200x/f7b6b827f21a8935e6222fc85c64244c/istock-1203832818.jpg"
+        width: 1200
+        height: 801
+        isCached: true
+
+secured: "PIXNyXYJM0frFiB4Z/8fbL2iqxHmzdl54uTbDChCbYYs2s3y5pVjKXn/NrFpkoy1KmWek7cQifT9IhvixzUbg9vmAMrvNB7G9W6ubVzq+1U38FIwJ3XorZdVWvZeHnbvr1ONegXf+A8NkR42mD6kWq0w/Wb9yXvqzO7swne4yRvOjotsCfkCQym2fNvI/wXuiNwHowZuu+ypV3aiIykNsKJXGREfjFJ+en19KRrcqs7CH+CpXWlQJhejyF0yf0YubGdJ9/XrWCmMe4XXDOMu9drTAJ34irCJazQjXMpJI8XxzRclm0B7GIUL7emj4BxRVgXJdTOd7bvowawZlz/dUCJXEF1OutG5iVacWWgtxYbeh227x8mZvGtBAxHkjBOVB9GLmwPQnpHBInWyZZgtJlM2DiW0QVwek36+YIMnZ9foQAcU2zRYXvO1iGyjF40m4D4SavE4No25in/czqY1v+MIlEfnQhi3Kkz2yQbst+F5VgDSRK5ad/9mXISsLPMY;MO+auT3fhp2pUz+0gpeoYw=="
 ---
 

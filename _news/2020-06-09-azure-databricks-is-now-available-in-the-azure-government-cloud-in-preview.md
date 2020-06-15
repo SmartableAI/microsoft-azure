@@ -143,6 +143,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Private AKS clusters are now generally available in Azure Government "
+    excerpt: ""
+    publishedDateTime: 2020-06-15T19:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/private-aks-clusters-are-now-generally-available-in-azure-government/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Managed identity support in AKS is now available"
     excerpt: ""
     publishedDateTime: 2020-04-28T16:30:50Z
