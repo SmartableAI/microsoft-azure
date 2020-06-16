@@ -5,8 +5,8 @@ excerpt: "Organizations and teams that adopt DevOps methodologies are consistent
 publishedDateTime: 2020-03-18T10:00:05Z
 webUrl: "https://azure.microsoft.com/blog/new-deploy-to-azure-extension-for-visual-studio-code/"
 type: article
-quality: 81
-heat: 141
+quality: 101
+heat: 161
 published: true
 
 provider:
@@ -21,6 +21,13 @@ topics:
   - Azure
   - Developer tools
   - DevOps
+
+images:
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8fd83624-c140-4bcc-9bbb-b48b7cfd44cf.gif"
+    width: 600
+    height: 338
+    isCached: true
+    title: "New Deploy to Azure extension for Visual Studio Code"
 
 related:
   - title: "New Azure API Management Visual Studio Code extension now available"

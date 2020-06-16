@@ -29,7 +29,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 81
+    quality: 101
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8fd83624-c140-4bcc-9bbb-b48b7cfd44cf.gif"
+        width: 600
+        height: 338
+        isCached: true
   - title: "New Azure API Management Visual Studio Code extension now available"
     excerpt: ""
     publishedDateTime: 2020-04-13T16:00:06Z

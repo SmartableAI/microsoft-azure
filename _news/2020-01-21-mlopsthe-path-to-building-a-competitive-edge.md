@@ -5,9 +5,9 @@ excerpt: "Microsoft Azure Machine Learning (ML) is addressing complex business c
 publishedDateTime: 2020-01-21T09:00:07Z
 webUrl: "https://azure.microsoft.com/blog/mlops-the-path-to-building-a-competitive-edge/"
 type: article
-quality: 64
-heat: 64
-published: false
+quality: 84
+heat: 84
+published: true
 
 provider:
   name: Microsoft
@@ -20,6 +20,13 @@ provider:
 topics:
   - Azure
   - AI
+
+images:
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2ed8c75c-fe58-4ad9-80c7-94df446a75f7.png"
+    width: 546
+    height: 480
+    isCached: true
+    title: "MLOps—the path to building a competitive edge"
 
 secured: "sqx5bJWcHNgA7Rx9WSvWQO3ovR6XiMB/O/wkJE45NnX3rvwboUYdQCl8Qr23OxN6qFGG4zAPvkugN3xvMTPFnlkRzqbcSUuUyd3pC8c20NnAzdF7jNqu7GO7Rrt+XCieu8pN9OUCK7Cqeyi6IV4N77HmiObH1YSg93n1iPcVX2HrGgZ5ATvuDDccBquTyv1Wcf3YaMl4G60zCoryUvmBEGb5r++5ymd3ZBLPkZFwUyHUdVkA/kf+ngsX0F4StRQ5gh2reClEsv8OPOaMlOOqswJqpiQtXaLMd6Q5htxBwLz50Zvaj2NPx8za4fvXCirvHXowXZYcHP692EcGh4abuA==;ohDzfEATxv9+8/riFUJ1fQ=="
 ---

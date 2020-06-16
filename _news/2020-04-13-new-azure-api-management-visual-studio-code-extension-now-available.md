@@ -29,7 +29,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 81
+    quality: 101
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8fd83624-c140-4bcc-9bbb-b48b7cfd44cf.gif"
+        width: 600
+        height: 338
+        isCached: true
   - title: "New Azure extensions for Visual Studio Code"
     excerpt: ""
     publishedDateTime: 2020-05-19T16:05:40Z

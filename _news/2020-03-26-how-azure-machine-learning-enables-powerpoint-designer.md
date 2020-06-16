@@ -5,7 +5,7 @@ excerpt: "PowerPoint Designer is one of the everyday AI capabilities in Office 3
 publishedDateTime: 2020-03-26T12:00:05Z
 webUrl: "https://azure.microsoft.com/blog/how-azure-machine-learning-enables-powerpoint-designer/"
 type: article
-quality: 94
+quality: 114
 heat: -1
 published: false
 
@@ -20,6 +20,13 @@ provider:
 topics:
   - Azure
   - AI
+
+images:
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7c8dd258-92ed-4919-8642-bec180798130.png"
+    width: 1463
+    height: 746
+    isCached: true
+    title: "How Azure Machine Learning enables PowerPoint Designer"
 
 related:
   - title: "How Azure Machine Learning powers suggested replies in Outlook "

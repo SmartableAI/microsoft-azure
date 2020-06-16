@@ -50,7 +50,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 79
+    quality: 99
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8a62399a-7122-4c8e-a669-46c5f20b3034.png"
+        width: 1383
+        height: 604
+        isCached: true
   - title: "Azure Cost Management + Billing updates – February 2020"
     excerpt: "The theme this month is transparency. From rich Azure Hybrid Benefit and reservation reporting in a new Power BI app to a detailed breakdown of resource costs and clarity behind what \"not applicable\" means in the Azure portal, you won't want to miss this one!"
     publishedDateTime: 2020-02-26T14:00:50Z
@@ -59,7 +64,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 79
+    quality: 99
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/d0e2a218-4fc3-4dd2-a7f0-49caf05f17ae.png"
+        width: 1583
+        height: 858
+        isCached: true
   - title: "Azure Cost Management + Billing updates – March 2020"
     excerpt: "We're covering the spectrum this month from improvements to help you stay on top of all your pay-as-you-go (PAYG) invoices to 4 new ways to save money and a wealth of new, quick videos to help you learn how to manage and optimize your costs."
     publishedDateTime: 2020-03-25T11:00:12Z
