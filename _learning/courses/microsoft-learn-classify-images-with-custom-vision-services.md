@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/classify-images-with-cust
 type: course
 price: Free
 length: 40 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -21,6 +21,7 @@ levels:
 topics:
   - Azure
   - AI
+  - Management Tools
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/classify-images-with-custom-vision-service-social.png

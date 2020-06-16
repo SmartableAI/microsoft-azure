@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/move-data-with-azure-data
 type: course
 price: Free
 length: 25 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -21,6 +21,7 @@ levels:
 topics:
   - Azure
   - Storage
+  - Migration
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/move-data-with-azure-data-box-social.png

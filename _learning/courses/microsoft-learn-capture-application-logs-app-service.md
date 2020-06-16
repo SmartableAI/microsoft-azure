@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-
 type: course
 price: Free
 length: 55 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn

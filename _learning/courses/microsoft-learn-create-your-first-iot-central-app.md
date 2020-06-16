@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/create-your-first-iot-cen
 type: course
 price: Free
 length: 87 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -20,6 +20,9 @@ levels:
 
 topics:
   - IoT
+  - Azure
+  - Mobile
+  - Web
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/iot/iot-central-refrigerated-truck-module-social.png

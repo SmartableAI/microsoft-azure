@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa
 type: course
 price: Free
 length: 38 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -20,6 +20,8 @@ levels:
 
 topics:
   - Azure
+  - Management Tools
+  - Identity
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/secure-aad-users-with-mfa-social.png

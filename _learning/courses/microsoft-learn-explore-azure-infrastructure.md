@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastruct
 type: course
 price: Free
 length: 45 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn

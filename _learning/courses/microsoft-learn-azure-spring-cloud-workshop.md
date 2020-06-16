@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/azure-spring-cloud-worksh
 type: course
 price: Free
 length: 84 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -20,6 +20,8 @@ levels:
 
 topics:
   - Azure
+  - Compute
+  - Web
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/azure-spring-cloud-workshop-social.png

@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/cmu-cloud-computing/cmu-distribut
 type: course
 price: Free
 length: 117 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn

@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/create-web-app-with-refre
 type: course
 price: Free
 length: 82 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -21,6 +21,10 @@ levels:
 topics:
   - Azure
   - AI
+  - Web
+  - Compute
+  - Containers
+  - Mobile
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/advocates/create-web-app-with-refreshable-models-social.png

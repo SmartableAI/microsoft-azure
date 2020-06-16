@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/set-up-rules-take-actions
 type: course
 price: Free
 length: 46 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -20,6 +20,9 @@ levels:
 
 topics:
   - IoT
+  - Azure
+  - Mobile
+  - Web
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/iot/set-up-rules-take-actions-telemetry-data-azure-iot-central-social.png

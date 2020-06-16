@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/translate-text-with-trans
 type: course
 price: Free
 length: 29 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -20,6 +20,7 @@ levels:
 
 topics:
   - AI
+  - Azure
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/translate-text-with-translation-service-social.png

@@ -4,8 +4,8 @@ excerpt: "Discover virtualization and how it enables many technologies in the cl
 webUrl: https://docs.microsoft.com/en-us/learn/modules/cmu-virtualization/
 type: course
 price: Free
-length: 50 mins
-heat: 
+length: PT50M
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cmu-virtualization-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Virtualize resources in the cloud"
 
 ---

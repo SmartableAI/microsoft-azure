@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-i
 type: course
 price: Free
 length: 44 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn

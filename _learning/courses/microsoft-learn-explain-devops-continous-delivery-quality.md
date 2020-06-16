@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/explain-devops-continous-
 type: course
 price: Free
 length: 18 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn

@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/app-and-infra-migration-a
 type: course
 price: Free
 length: 43 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn

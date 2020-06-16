@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-
 type: course
 price: Free
 length: 46 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -21,6 +21,8 @@ levels:
 topics:
   - Azure
   - Compute
+  - Web
+  - Containers
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/deploy-run-container-app-service-social.png

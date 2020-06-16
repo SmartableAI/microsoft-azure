@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/secure-aspnet-core-identi
 type: course
 price: Free
 length: 68 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn

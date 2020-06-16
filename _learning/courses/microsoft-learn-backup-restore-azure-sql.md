@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/backup-restore-azure-sql/
 type: course
 price: Free
 length: 41 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn

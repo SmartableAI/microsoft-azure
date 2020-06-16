@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/create-language-model-wit
 type: course
 price: Free
 length: 39 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -21,6 +21,7 @@ levels:
 topics:
   - Azure
   - AI
+  - Developer Tools
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/create-publish-luis-model-social.png

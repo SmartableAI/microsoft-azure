@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/cmu-cloud-computing/cmu-message-q
 type: course
 price: Free
 length: 62 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn

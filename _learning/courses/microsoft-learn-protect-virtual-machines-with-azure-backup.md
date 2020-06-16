@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-
 type: course
 price: Free
 length: 35 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -21,6 +21,8 @@ levels:
 topics:
   - Azure
   - Compute
+  - Management Tools
+  - Storage
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/protect-virtual-machines-with-azure-backup-social.png

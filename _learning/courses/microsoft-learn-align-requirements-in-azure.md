@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/align-requirements-in-azu
 type: course
 price: Free
 length: 35 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn

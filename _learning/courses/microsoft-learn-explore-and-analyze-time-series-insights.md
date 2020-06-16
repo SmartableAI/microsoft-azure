@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/explore-analyze-time-seri
 type: course
 price: Free
 length: 37 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -20,6 +20,7 @@ levels:
 
 topics:
   - IoT
+  - Azure
 
 ---
 

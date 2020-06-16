@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-
 type: course
 price: Free
 length: 45 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -20,6 +20,9 @@ levels:
 
 topics:
   - Azure
+  - Integration
+  - IoT
+  - Analytics
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/choose-a-messaging-model-in-azure-to-connect-your-services-social.png

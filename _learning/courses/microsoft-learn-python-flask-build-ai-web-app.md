@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/python-flask-build-ai-web
 type: course
 price: Free
 length: 75 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn

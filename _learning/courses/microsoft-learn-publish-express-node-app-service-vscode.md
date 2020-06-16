@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/create-publish-webapp-app
 type: course
 price: Free
 length: 26 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -21,6 +21,7 @@ levels:
 topics:
   - Azure
   - Compute
+  - Web
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/publish-express-node-app-service-vscode-social.png

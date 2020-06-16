@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/utilize-azure-sap-workloa
 type: course
 price: Free
 length: 64 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn

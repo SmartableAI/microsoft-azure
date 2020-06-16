@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/access-data-with-cosmos-d
 type: course
 price: Free
 length: 58 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -21,6 +21,7 @@ levels:
 topics:
   - Azure
   - Databases
+  - Management Tools
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/access-data-with-cosmos-db-and-sql-api-social.png

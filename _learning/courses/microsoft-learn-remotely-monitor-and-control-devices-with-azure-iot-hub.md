@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/remotely-monitor-devices-
 type: course
 price: Free
 length: 56 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -20,6 +20,7 @@ levels:
 
 topics:
   - IoT
+  - Azure
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/iot/remotely-monitor-and-control-devices-with-azure-iot-hub-social.png

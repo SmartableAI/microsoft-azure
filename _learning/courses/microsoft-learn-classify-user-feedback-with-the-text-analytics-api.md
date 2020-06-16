@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-wi
 type: course
 price: Free
 length: 48 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,7 @@ topics:
   - Serverless
   - Storage
   - AI
+  - Management Tools
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/classify-user-feedback-with-the-text-analytics-api-social.png

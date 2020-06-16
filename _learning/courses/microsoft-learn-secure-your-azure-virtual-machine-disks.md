@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual
 type: course
 price: Free
 length: 61 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -22,6 +22,7 @@ topics:
   - Azure
   - Compute
   - Storage
+  - Management Tools
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/secure-your-azure-virtual-machine-disks-social.png

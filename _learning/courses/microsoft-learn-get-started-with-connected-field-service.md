@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/get-started-with-connecte
 type: course
 price: Free
 length: 66 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -20,6 +20,7 @@ levels:
 
 topics:
   - Azure
+  - IoT
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/get-started-with-connected-field-service-social.png

@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/publish-web-app-with-mave
 type: course
 price: Free
 length: 54 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -21,6 +21,7 @@ levels:
 topics:
   - Azure
   - Compute
+  - Web
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/publish-app-with-maven-plugin-for-azure-web-apps-social.png

@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/microservices-architectur
 type: course
 price: Free
 length: 52 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -22,6 +22,7 @@ topics:
   - Azure
   - Compute
   - Serverless
+  - Web
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/microservices-architecture-social.png

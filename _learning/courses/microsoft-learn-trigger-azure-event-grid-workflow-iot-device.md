@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/trigger-azure-event-grid-
 type: course
 price: Free
 length: 42 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -20,6 +20,9 @@ levels:
 
 topics:
   - IoT
+  - Azure
+  - Integration
+  - Blockchain
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/iot/trigger-azure-event-grid-workflow-iot-device-social.png

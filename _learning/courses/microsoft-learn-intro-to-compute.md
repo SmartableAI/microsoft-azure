@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/
 type: course
 price: Free
 length: 38 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -23,6 +23,10 @@ topics:
   - Compute
   - Containers
   - Serverless
+  - Web
+  - IoT
+  - Blockchain
+  - Integration
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/intro-to-azure-compute-social.png

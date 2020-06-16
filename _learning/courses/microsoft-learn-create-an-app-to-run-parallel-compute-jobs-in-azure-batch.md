@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/create-an-app-to-run-para
 type: course
 price: Free
 length: 73 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn

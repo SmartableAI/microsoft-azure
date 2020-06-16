@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/troubleshoot-azure-networ
 type: course
 price: Free
 length: 37 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn

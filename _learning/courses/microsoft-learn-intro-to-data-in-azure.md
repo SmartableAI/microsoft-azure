@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-data-in-azure/
 type: course
 price: Free
 length: 25 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn

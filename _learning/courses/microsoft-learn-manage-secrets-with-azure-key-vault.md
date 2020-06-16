@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure
 type: course
 price: Free
 length: 46 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -22,6 +22,7 @@ topics:
   - Azure
   - Security
   - Compute
+  - Web
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/manage-secrets-with-azure-key-vault-social.png

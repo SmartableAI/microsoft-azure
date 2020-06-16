@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/expose-hybrid-services-wi
 type: course
 price: Free
 length: 44 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -20,6 +20,7 @@ levels:
 
 topics:
   - Azure
+  - Integration
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/expose-hybrid-services-with-azure-relay-social.png

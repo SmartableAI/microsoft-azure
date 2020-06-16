@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-acco
 type: course
 price: Free
 length: 30 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -21,6 +21,7 @@ levels:
 topics:
   - Azure
   - Storage
+  - Management Tools
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/create-azure-storage-account-social.png

@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/create-cdn-static-resourc
 type: course
 price: Free
 length: 63 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -20,6 +20,8 @@ levels:
 
 topics:
   - Azure
+  - Networking
+  - Web
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/create-cdn-static-resources-blob-storage-social.png

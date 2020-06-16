@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/data-anomaly-detection-us
 type: course
 price: Free
 length: 66 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -22,6 +22,7 @@ topics:
   - IoT
   - Analytics
   - Storage
+  - Azure
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/iot/iot-hub-conveyor-belt-vibration-detection-social.png

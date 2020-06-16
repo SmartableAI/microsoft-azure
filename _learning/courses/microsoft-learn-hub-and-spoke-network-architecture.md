@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/hub-and-spoke-network-arc
 type: course
 price: Free
 length: 36 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn

@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/load-balance-web-traffic-
 type: course
 price: Free
 length: 92 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn

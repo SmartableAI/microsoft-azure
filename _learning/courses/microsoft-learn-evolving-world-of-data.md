@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/
 type: course
 price: Free
 length: 28 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn

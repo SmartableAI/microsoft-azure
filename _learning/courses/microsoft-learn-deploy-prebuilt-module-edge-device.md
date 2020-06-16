@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-ed
 type: course
 price: Free
 length: 56 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -20,6 +20,7 @@ levels:
 
 topics:
   - IoT
+  - Azure
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/student-evangelism/deploy-pre-built-module-iot-edge-social.png

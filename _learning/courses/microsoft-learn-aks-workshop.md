@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/aks-workshop/
 type: course
 price: Free
 length: 145 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn

@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-con
 type: course
 price: Free
 length: 48 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn

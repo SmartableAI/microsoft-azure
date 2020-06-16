@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure
 type: course
 price: Free
 length: 65 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -21,6 +21,8 @@ levels:
 topics:
   - Azure
   - Compute
+  - Web
+  - Management Tools
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/host-a-web-app-with-azure-app-service-social.png

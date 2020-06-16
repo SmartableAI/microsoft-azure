@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/provision-and-use-azure-d
 type: course
 price: Free
 length: 53 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn

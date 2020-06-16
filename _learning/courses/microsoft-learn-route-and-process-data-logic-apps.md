@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/route-and-process-data-lo
 type: course
 price: Free
 length: 56 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -20,6 +20,10 @@ levels:
 
 topics:
   - Azure
+  - Management Tools
+  - IoT
+  - Blockchain
+  - Integration
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/route-and-process-data-logic-apps-social.png

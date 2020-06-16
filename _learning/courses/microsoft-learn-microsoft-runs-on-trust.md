@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/microsoft-runs-on-trust/
 type: course
 price: Free
 length: 30 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn

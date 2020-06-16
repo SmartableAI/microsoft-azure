@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/create-cosmos-db-for-scal
 type: course
 price: Free
 length: 35 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -21,6 +21,7 @@ levels:
 topics:
   - Azure
   - Databases
+  - Management Tools
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/create-cosmos-db-for-scale-social.png

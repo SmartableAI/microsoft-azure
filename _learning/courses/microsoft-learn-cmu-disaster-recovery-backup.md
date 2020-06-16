@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/cmu-disaster-recovery-bac
 type: course
 price: Free
 length: 61 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn

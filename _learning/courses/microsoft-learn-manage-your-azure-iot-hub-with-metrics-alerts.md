@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/manage-azure-iot-hub-with
 type: course
 price: Free
 length: 53 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -20,6 +20,7 @@ levels:
 
 topics:
   - IoT
+  - Azure
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/iot/manage-your-azure-iot-hub-with-metrics-alerts-social.png

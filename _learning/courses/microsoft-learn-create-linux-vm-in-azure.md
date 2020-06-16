@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-mach
 type: course
 price: Free
 length: 86 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -21,6 +21,7 @@ levels:
 topics:
   - Azure
   - Compute
+  - Management Tools
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/create-linux-virtual-machine-in-azure-social.png

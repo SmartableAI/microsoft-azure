@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-sql-dat
 type: course
 price: Free
 length: 67 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -21,6 +21,7 @@ levels:
 topics:
   - Azure
   - Databases
+  - Management Tools
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/secure-your-azure-sql-database-social.png

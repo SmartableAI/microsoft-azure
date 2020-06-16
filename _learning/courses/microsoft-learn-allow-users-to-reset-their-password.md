@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/allow-users-reset-their-p
 type: course
 price: Free
 length: 31 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -20,6 +20,7 @@ levels:
 
 topics:
   - Azure
+  - Identity
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/allow-users-reset-their-password-social.png

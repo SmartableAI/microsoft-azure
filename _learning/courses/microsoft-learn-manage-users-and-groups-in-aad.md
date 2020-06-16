@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-i
 type: course
 price: Free
 length: 50 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -20,6 +20,7 @@ levels:
 
 topics:
   - Azure
+  - Identity
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/manage-users-and-groups-in-aad-social.png

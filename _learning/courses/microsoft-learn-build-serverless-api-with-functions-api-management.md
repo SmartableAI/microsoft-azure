@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with
 type: course
 price: Free
 length: 41 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -22,6 +22,8 @@ topics:
   - Azure
   - Compute
   - Serverless
+  - Integration
+  - Web
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/build-serverless-api-with-functions-api-management-social.png

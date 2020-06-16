@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/troubleshoot-inbound-conn
 type: course
 price: Free
 length: 98 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -21,6 +21,8 @@ levels:
 topics:
   - Azure
   - Networking
+  - DevOps
+  - Management Tools
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/troubleshoot-inbound-connectivity-azure-load-balancer-social.png

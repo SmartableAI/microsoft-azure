@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-dat
 type: course
 price: Free
 length: 70 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn

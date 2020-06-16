@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/logic-apps-and-custom-con
 type: course
 price: Free
 length: 40 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -20,6 +20,9 @@ levels:
 
 topics:
   - Azure
+  - IoT
+  - Blockchain
+  - Integration
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/logic-apps-and-custom-connectors-social.png

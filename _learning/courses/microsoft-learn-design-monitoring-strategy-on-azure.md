@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strateg
 type: course
 price: Free
 length: 57 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -21,6 +21,8 @@ levels:
 topics:
   - Azure
   - Security
+  - DevOps
+  - Management Tools
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/design-monitoring-strategy-on-azure-social.png

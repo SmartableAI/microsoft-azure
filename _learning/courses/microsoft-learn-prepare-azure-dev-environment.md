@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/prepare-your-dev-environm
 type: course
 price: Free
 length: 28 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -20,6 +20,7 @@ levels:
 
 topics:
   - Azure
+  - Developer Tools
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/prepare-your-dev-environment-for-azure-development-social.png

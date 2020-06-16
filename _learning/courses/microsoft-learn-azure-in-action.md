@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/azure-in-action/
 type: course
 price: Free
 length: 30 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -22,6 +22,7 @@ topics:
   - Azure
   - Databases
   - Compute
+  - Management Tools
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/azure-in-action-social.png

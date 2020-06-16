@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/monitor-report-aad-securi
 type: course
 price: Free
 length: 35 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -20,6 +20,9 @@ levels:
 
 topics:
   - Azure
+  - Identity
+  - DevOps
+  - Management Tools
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/monitor-report-aad-security-events-social.png

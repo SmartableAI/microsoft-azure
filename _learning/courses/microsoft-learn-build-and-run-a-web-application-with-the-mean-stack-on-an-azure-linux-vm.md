@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/build-a-web-app-with-mean
 type: course
 price: Free
 length: 42 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -21,6 +21,7 @@ levels:
 topics:
   - Azure
   - Compute
+  - Management Tools
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/build-a-web-app-with-mean-on-a-linux-vm-social.png

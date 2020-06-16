@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/build-azure-vm-templates/
 type: course
 price: Free
 length: 37 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -21,6 +21,7 @@ levels:
 topics:
   - Azure
   - Compute
+  - Management Tools
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/build-azure-vm-templates-social.png

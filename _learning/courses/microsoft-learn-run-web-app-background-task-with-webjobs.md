@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/run-web-app-background-ta
 type: course
 price: Free
 length: 39 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn

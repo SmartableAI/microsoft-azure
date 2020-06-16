@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/run-non-functional-tests-
 type: course
 price: Free
 length: 49 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -20,6 +20,7 @@ levels:
 
 topics:
   - Azure
+  - DevOps
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/azure-devops/run-non-functional-tests-azure-pipelines-social.png

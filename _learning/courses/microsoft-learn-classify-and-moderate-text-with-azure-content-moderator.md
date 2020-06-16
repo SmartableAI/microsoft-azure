@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/classify-and-moderate-tex
 type: course
 price: Free
 length: 31 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -21,6 +21,7 @@ levels:
 topics:
   - Azure
   - AI
+  - Developer Tools
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/data-ai/classify-and-moderate-text-with-azure-content-moderator-social.png

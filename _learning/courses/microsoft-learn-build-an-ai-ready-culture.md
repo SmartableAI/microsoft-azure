@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture
 type: course
 price: Free
 length: 49 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn

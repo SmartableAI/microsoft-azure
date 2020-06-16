@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/tm-approach-your-data-flo
 type: course
 price: Free
 length: 8 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -20,6 +20,8 @@ levels:
 
 topics:
   - Security
+  - Azure
+  - IoT
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png

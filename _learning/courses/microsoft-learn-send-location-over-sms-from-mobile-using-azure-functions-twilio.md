@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/send-location-over-sms-us
 type: course
 price: Free
 length: 69 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -22,6 +22,7 @@ topics:
   - Azure
   - Compute
   - Serverless
+  - Management Tools
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/send-location-over-sms-from-mobile-using-azure-functions-twilio-social.png

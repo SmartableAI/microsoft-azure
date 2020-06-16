@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/configure-and-manage-azur
 type: course
 price: Free
 length: 29 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn

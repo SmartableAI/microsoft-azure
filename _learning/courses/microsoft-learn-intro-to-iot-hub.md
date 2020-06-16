@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/
 type: course
 price: Free
 length: 28 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -20,6 +20,7 @@ levels:
 
 topics:
   - IoT
+  - Azure
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-iot-hub-social.png

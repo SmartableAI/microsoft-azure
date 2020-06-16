@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/work-with-data-in-aml/
 type: course
 price: Free
 length: 47 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn

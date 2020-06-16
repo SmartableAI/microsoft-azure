@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/keep-your-virtual-machine
 type: course
 price: Free
 length: 35 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -21,6 +21,7 @@ levels:
 topics:
   - Azure
   - Compute
+  - Management Tools
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/keep-your-virtual-machines-updated-social.png

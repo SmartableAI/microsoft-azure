@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging
 type: course
 price: Free
 length: 56 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -20,6 +20,7 @@ levels:
 
 topics:
   - Azure
+  - Analytics
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/enable-reliable-messaging-for-big-data-apps-using-azure-event-hubs-social.png

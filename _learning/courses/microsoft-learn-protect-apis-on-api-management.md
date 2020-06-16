@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/protect-apis-on-api-manag
 type: course
 price: Free
 length: 43 mins
-heat: 
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -20,6 +20,8 @@ levels:
 
 topics:
   - Azure
+  - Integration
+  - Web
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/protect-apis-on-api-management-social.png
