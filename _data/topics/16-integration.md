@@ -1,0 +1,12 @@
+taxonomy: topic
+_id: integration
+name: Integration
+shortname: Integration
+parent: Azure
+keywords:
+  - integration
+images:
+  - https://smartableai.github.io/microsoft-azure/assets/images/topics/integration.jpg
+services:
+  news: https://smartableai.github.io/microsoft-azure/api/news/integration/
+  learning: https://smartableai.github.io/microsoft-azure/api/learning/integration/

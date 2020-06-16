@@ -1,0 +1,12 @@
+taxonomy: topic
+_id: developer-tools
+name: Developer tools
+shortname: Developer tools
+parent: Azure
+keywords:
+  - developer-tools
+images:
+  - https://smartableai.github.io/microsoft-azure/assets/images/topics/developer-tools.jpg
+services:
+  news: https://smartableai.github.io/microsoft-azure/api/news/developer-tools/
+  learning: https://smartableai.github.io/microsoft-azure/api/learning/developer-tools/

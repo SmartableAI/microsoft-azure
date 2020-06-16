@@ -1,0 +1,12 @@
+taxonomy: topic
+_id: web
+name: Web
+shortname: Web
+parent: Azure
+keywords:
+  - web
+images:
+  - https://smartableai.github.io/microsoft-azure/assets/images/topics/web.jpg
+services:
+  news: https://smartableai.github.io/microsoft-azure/api/news/web/
+  learning: https://smartableai.github.io/microsoft-azure/api/learning/web/

@@ -1,0 +1,12 @@
+taxonomy: topic
+_id: mobile
+name: Mobile
+shortname: Mobile
+parent: Azure
+keywords:
+  - mobile
+images:
+  - https://smartableai.github.io/microsoft-azure/assets/images/topics/mobile.jpg
+services:
+  news: https://smartableai.github.io/microsoft-azure/api/news/mobile/
+  learning: https://smartableai.github.io/microsoft-azure/api/learning/mobile/

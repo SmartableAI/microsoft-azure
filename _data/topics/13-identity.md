@@ -1,0 +1,12 @@
+taxonomy: topic
+_id: identity
+name: Identity
+shortname: Identity
+parent: Azure
+keywords:
+  - identity
+images:
+  - https://smartableai.github.io/microsoft-azure/assets/images/topics/identity.jpg
+services:
+  news: https://smartableai.github.io/microsoft-azure/api/news/identity/
+  learning: https://smartableai.github.io/microsoft-azure/api/learning/identity/
