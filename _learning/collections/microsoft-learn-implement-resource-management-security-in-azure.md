@@ -34,6 +34,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/intro-to-security-in-azure-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Implement resource management security in Azure"
 
 secured: "3DS1WX3lXpNxK6u5gVBEzDg2lgDFUfaGUR00KXdLEJXJGK143vRvX+e0ygi+x1NrvBkcRU9uFfJPJ8Uaf48IBwPHa/3SfJX7mLFFyYHCzFi59Izp44sgJpCcWN1OsWE7YtDp8bMU5M6aHpV9dQkIPcEl0dNOhPUztk9Dvs5sSPdX3m0ZE6uR1u7VyMqfba1Ug6EBUlbpy2waUQDPYtSlDkG+85dz1aG+Y/aGKfZ4mkmdWbs2DXa1YRV7rk/07WtwEd2bofZBPIuewmCycV2HG9lqbJmwupK92QqADBDqWmnlFP2YPdAF5Vy+0lBzIB/uDKAnS2n3JA1Xc3nneVN4MA==;yXdoQF0deQw6SXM3PSQemg=="

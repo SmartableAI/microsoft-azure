@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/create-linux-virtual-machine-in-azure-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Create a Linux virtual machine in Azure"
 
 ---

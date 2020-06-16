@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/prepare-your-dev-environment-for-azure-development-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Prepare your development environment for Azure development"
 
 ---

@@ -41,6 +41,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/intro-to-governance-social.png
     width: 100
     height: 100
+    isCached: true
     title: "Prerequisites for Azure administrators"
 
 secured: "xrXUgC5J78b34CQERHxx70fQzHsDa0Iy1Ye4rCQx6gEmCQQaI7lSEwZMRhvv/u4Uc+rDGzzzmmoG5SXGLtR43wy+B8ucQ+NO/35Fq9SNosAGhMHSDxdW+KhDjPrEPpwaL1y0/VgpRPEnOVz1+pIl7Bi+z4qYV8aVaeWtNM1OD/QXea8idBEjSgLCQV5YYCL4zxmIxRqo53n7XeHtivRAkt0+7/7/+HVjj8aBz+9jFID7c0wYElbzRzcd8g5xD5YYknNBNGM2O/Wxm4Py6xDp8WP5hJ01ChyBzpQSV/wwva4Ts1udpcVpfrbHKRszyQQbMGMsVZO0Ut1K5lsuoSLKmg==;eDF4sdYuaErEg+BaHTfK+g=="

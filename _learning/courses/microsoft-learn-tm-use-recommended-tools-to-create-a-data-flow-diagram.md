@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Use Recommended Tools to Create a Data-Flow Diagram"
 
 ---

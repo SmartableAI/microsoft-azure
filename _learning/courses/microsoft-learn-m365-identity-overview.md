@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/introduction-to-identity-and-access-management-in-microsoft-365-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Overview of identity and access management in Microsoft 365"
 
 ---

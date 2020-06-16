@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/choose-azure-service-to-integrate-and-automate-business-processes-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Choose the best Azure service to automate your business processes"
 
 ---

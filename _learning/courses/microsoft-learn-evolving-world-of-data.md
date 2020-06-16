@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/data-ai/evolving-world-of-data-badge-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Understand the evolving world of data"
 
 ---

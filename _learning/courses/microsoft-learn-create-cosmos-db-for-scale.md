@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/create-cosmos-db-for-scale-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Create an Azure Cosmos DB database built to scale"
 
 ---

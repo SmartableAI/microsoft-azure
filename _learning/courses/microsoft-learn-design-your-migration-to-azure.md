@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/design-your-migration-to-azure-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Design your migration to Azure"
 
 ---

@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/intro-to-containers-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Build a containerized web application with Docker"
 
 ---

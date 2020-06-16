@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/manage-your-iot-devices-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Learn how to manage IoT devices as an IT admin"
 
 ---

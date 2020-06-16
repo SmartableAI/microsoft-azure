@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/configure-network-for-azure-virtual-machines-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Configure the network for your virtual machines"
 
 ---

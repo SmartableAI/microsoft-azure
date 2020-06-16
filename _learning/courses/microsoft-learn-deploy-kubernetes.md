@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Automate multi-container Kubernetes deployments with Azure Pipelines"
 
 ---

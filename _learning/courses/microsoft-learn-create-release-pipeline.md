@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/azure-devops/create-a-release-pipeline-with-azure-pipelines-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Create a release pipeline in Azure Pipelines"
 
 ---

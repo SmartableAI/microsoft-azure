@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/migrate-sql-workloads-to-azure-virtual-machines-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Migrate SQL workloads to Azure virtual machines"
 
 ---

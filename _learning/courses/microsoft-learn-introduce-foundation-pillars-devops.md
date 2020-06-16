@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/introduce-foundation-pillars-devops-culture-learn-product-social.png
     width: 320
     height: 160
+    isCached: true
     title: "Introduce the foundation pillars of DevOps: Culture and Lean Product"
 
 ---

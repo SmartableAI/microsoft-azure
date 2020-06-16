@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/data-ai/design-azure-sql-data-warehouse-badge-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Design a data warehouse with Azure Synapse Analytics"
 
 ---

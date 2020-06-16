@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Use a Framework to Identify Threats and Find Ways to Reduce or Eliminate Risk"
 
 ---

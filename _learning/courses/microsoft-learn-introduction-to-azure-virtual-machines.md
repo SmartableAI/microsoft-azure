@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/intro-to-azure-virtual-machines-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Introduction to Azure virtual machines"
 
 ---

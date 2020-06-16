@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/data-ai/classify-and-moderate-text-with-azure-content-moderator-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Classify and moderate text with Azure Content Moderator"
 
 ---

@@ -28,6 +28,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/intro-to-logic-apps-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Introduction to Azure Logic Apps"
 
 ---

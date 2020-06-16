@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/control-and-organize-with-resource-manager-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Control and organize Azure resources with Azure Resource Manager"
 
 ---

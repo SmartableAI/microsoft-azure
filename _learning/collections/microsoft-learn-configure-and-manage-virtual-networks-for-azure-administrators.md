@@ -43,6 +43,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/configure-network-for-azure-virtual-machines-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Configure and manage virtual networks for Azure administrators"
 
 secured: "qLWKJOV7EdLE7RvAa7NIxQSc+lNcO8R2ID+2K/1b+jfYx66mRysqw8qYNuFqsnN7RjxbYMF6wnZwXk6TypUi2WZSwV/UEmF/toVH5CQ26l+Vd6dY3ogWkvDv5op00lc9rLEKlhOh316bCkKAZxHQon5PvmB43lffPseuztI3EFh3W0heVb7AXPNhOv8CqR+AO9hy9YhylLJcMtJ922yrvFa36EhmRR6p6wsuJRH1iZg0N3MSxd9H9QydzhaN6O2IoaHHgXeHTxVciKWCw4/c4dzJJ4zyoGqVB6lNflJa7WxGoiGhwTxnFCVKRPIcSFP9C2pm/JKv0svNR+uAfI4cYw==;mJJqbgi7EyF6ca6J1fJZGw=="

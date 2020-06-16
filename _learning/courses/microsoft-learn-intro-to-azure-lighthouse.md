@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Use Azure Lighthouse with your managed service business"
 
 ---

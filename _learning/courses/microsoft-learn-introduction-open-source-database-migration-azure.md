@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/learn-pr/achievements/introduction-to-open-source-database-migration-on-azure-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Introduction to open-source database migration on Azure"
 
 ---

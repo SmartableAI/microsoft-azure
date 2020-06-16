@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/azure-devops/configure-infrastructure-azure-pipelines-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Configure infrastructure in Azure Pipelines"
 
 ---

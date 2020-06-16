@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/get-started-with-connected-field-service-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Get started with Connected Field Service for Dynamics 365 and Azure IoT"
 
 ---

@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/foundations-of-cloud-computing-for-developers-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Foundations of cloud computing for developers"
 
 ---

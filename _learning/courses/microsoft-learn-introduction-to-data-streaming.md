@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/data-ai/introduction-to-data-streaming-badge-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Work with data streams by using Azure Stream Analytics"
 
 ---

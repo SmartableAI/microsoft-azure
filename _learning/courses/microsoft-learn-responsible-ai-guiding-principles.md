@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/responsible-ai-principles-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Identify guiding principles for responsible AI"
 
 ---

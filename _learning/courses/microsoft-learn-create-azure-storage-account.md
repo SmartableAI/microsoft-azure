@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/create-azure-storage-account-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Create an Azure Storage account"
 
 ---

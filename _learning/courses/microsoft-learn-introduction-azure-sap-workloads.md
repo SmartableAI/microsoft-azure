@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/introduction-azure-sap-workloads-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Introduction to Azure for SAP workloads"
 
 ---

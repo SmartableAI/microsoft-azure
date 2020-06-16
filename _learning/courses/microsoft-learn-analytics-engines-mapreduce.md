@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/distributed-programming-mapreduce-social.png
     width: 320
     height: 160
+    isCached: true
     title: "Distributed computing on the cloud: MapReduce"
 
 ---

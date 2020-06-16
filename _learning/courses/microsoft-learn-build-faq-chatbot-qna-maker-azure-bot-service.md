@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/build-faq-chatbot-qna-maker-azure-bot-service-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Build a bot with QnA Maker and Azure Bot Service"
 
 ---

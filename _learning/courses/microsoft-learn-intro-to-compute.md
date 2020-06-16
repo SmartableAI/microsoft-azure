@@ -32,6 +32,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/intro-to-azure-compute-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Core Cloud Services - Azure compute options"
 
 ---

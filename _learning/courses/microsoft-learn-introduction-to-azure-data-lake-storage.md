@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/data-ai/introduction-to-azure-data-lake-storage-badge-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Introduction to Azure Data Lake storage"
 
 ---

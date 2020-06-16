@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/choose-storage-approach-in-azure-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Choose a data storage approach in Azure"
 
 ---

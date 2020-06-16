@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/provision-azure-sql-db-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Provision an Azure SQL database to store application data"
 
 ---

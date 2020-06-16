@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/publish-manage-apis-with-azure-api-management-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Publish and manage your APIs with Azure API Management"
 
 ---

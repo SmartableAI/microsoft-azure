@@ -28,6 +28,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/design-monitoring-strategy-on-azure-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Design a holistic monitoring strategy on Azure"
 
 ---

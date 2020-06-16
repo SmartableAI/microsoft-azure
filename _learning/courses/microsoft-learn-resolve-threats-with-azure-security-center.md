@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/resolve-threats-with-azure-security-center-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Resolve security threats with Azure Security Center"
 
 ---

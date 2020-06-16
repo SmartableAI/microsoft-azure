@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/analyze-images-computer-vision-social.png
     width: 640
     height: 320
+    isCached: true
     title: "Analyze images with the Computer Vision service"
 
 ---

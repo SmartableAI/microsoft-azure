@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/data-ai/identify-faces-with-computer-vision-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Identify faces and expressions by using the Computer Vision API in Azure Cognitive Services"
 
 ---

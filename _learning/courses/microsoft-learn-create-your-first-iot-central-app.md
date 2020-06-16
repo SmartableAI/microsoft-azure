@@ -28,6 +28,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/iot/iot-central-refrigerated-truck-module-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Create your first Azure IoT Central app"
 
 ---

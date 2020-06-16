@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/intro-to-security-in-azure-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Security, responsibility, and trust in Azure"
 
 ---

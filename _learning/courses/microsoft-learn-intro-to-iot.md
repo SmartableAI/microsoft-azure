@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-iot-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Introduction to Azure IoT"
 
 ---

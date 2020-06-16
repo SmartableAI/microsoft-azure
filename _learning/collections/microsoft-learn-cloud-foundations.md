@@ -20,6 +20,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/principles-cloud-computing-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Azure fundamentals"
 
 ---

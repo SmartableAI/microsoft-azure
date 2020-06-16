@@ -28,6 +28,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/create-serverless-logic-with-azure-functions-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Create serverless logic with Azure Functions"
 
 ---

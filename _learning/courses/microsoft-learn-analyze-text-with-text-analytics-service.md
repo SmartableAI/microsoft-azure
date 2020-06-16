@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/analyze-text-with-text-analytics-service-social.png
     width: 320
     height: 160
+    isCached: true
     title: "Analyze text with the Text Analytics service"
 
 ---

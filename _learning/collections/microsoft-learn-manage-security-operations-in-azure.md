@@ -40,6 +40,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/intro-to-security-in-azure-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Manage security operations in Azure"
 
 secured: "natTWHEWkgTlN/2yfT9/d1iqwOZWkxWkvbtm/bf/YfBsksIz6k/qNmQAnK8+ahSMbZeOtZb9Io7/DRvEvZ9pWarOOYmfLRg30KzQA4pkcj+ZGx124gUWB6awJoxzMGU2xr7UfIvf+MZu1sECZIap2DeGTCl3qVYXDGy0zpxg9Zn1Vsk4L0CNJQy1zOLzP395RAIrQTFHHnw4oCwOmDAf4NvS0PcFq1THOhoD9ja0KN1ngGUihAbiF/+VitBN0L9+ofdIdEgWv48nJ3YFzsnb0qZts4rH4c/Bc4nZPRUSY9bDVUDa31e0Ob80AUiqjymiMspi9HMg+Dnfbk0fQufcxQ==;poyKKCgRyqh8NBR7dvRK9g=="

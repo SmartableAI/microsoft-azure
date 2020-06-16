@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/data-ai/intro-to-azure-machine-learning-service-badge-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Introduction to Azure Machine Learning"
 
 ---

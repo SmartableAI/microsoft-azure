@@ -28,6 +28,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/choose-a-messaging-model-in-azure-to-connect-your-services-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Choose a messaging model in Azure to loosely connect your services"
 
 ---

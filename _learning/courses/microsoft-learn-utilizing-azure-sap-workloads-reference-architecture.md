@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/utilizing-azure-sap-workloads-reference-architecture-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Utilize Azure for SAP workloads reference architecture"
 
 ---

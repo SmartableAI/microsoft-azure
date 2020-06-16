@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/intro-to-governance-social.png
     width: 100
     height: 100
+    isCached: true
     title: "Apply and monitor infrastructure standards with Azure Policy"
 
 ---

@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/build-an-ai-ready-culture-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Understand the importance of building an AI-ready culture"
 
 ---

@@ -39,6 +39,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png
     width: 800
     height: 400
+    isCached: true
     title: "AI business school for financial services"
 
 secured: "23kpH6+hU8r1SdcbHatFIIKOP7yHllQUwS/5HI9iZoOJw+ZNs8VVzUJS9SJUfMdnw7JVZFp8odfDppnIJzBAjI+QAQxkFcNEfBeEzMO9sNf45r1Q1WGf/+erHSzCOuLy+M5t2jak0AzJSM/u1AMJRfwq/Zvzr5fMGBoxImhCTYTZ9Y525e9dIa79w4r/r+5lXV/M6bM8K4JWYd8g0moHMtGiM918K/ufxfsNsrVdQ28B/Ce5wVhNRRYfIuG9wK6q+ooGc2KbLkYEvR3zItokas5PFoU4NRw2Dv4Kzji1YQi0cPuptuMCMf3usMeniLczFf1N9eYsah7+TqSlPCuGZg==;OdmClT5SGxs+tf3rmcs3yA=="

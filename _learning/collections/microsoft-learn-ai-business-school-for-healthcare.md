@@ -39,6 +39,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png
     width: 800
     height: 400
+    isCached: true
     title: "AI business school for healthcare"
 
 secured: "AcUA++9zU/dmz9GLLN/SgQIlCOjM9bORF4R5N6mtZeSjyrwaplwikRJGTQSK2e6twotRoC4YWn+ivKZvCx7GW8LCOIhDVBW19IigC06T9PMSVOWe48u6kEZWerrCchZGFvaNo2ugf1uGzMHuR0RJe3L0CYohDGaqX/tlTalM4jwbTcpoZBoWxEpWaod9x7ngIIx3BNdk1U5d0D80QUl16XczBx3WdTNQ5LO6ecEWJeMXEvnLsei8NjElQoTKKWKeC4BtWtr5qgv97csPWAxtdSL3kSh24BwR3sgK8WG1XAVDNMu1rAUDXzeJ6pUopuMRWp4gz9NYGmgMq9rkNT289g==;0kpI0gk3B2JCd8c/A2wQbA=="

@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Create Azure users and groups in Azure Active Directory"
 
 ---

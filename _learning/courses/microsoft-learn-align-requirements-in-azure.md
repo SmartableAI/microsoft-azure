@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/align-requirements-in-azure-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Align requirements with cloud types and service models in Azure"
 
 ---
