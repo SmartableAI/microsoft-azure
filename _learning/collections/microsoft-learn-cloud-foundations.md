@@ -2,7 +2,7 @@
 title: "Azure fundamentals"
 excerpt: "Interested in the cloud, but aren't sure what it can do for you? This path is the place to start."
 type: collection
-heat: 0
+heat: 100
 
 items:
   - courses/microsoft-learn-principles-cloud-computing

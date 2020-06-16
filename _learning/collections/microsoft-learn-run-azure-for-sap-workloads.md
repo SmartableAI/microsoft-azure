@@ -4,7 +4,7 @@ excerpt: "This learning path augments existing knowledge around the deployment m
 type: collection
 price: Free
 length: PT2H33M
-heat: 0
+heat: 100
 
 provider:
   name: Microsoft Learn

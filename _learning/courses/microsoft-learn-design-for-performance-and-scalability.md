@@ -32,6 +32,11 @@ images:
     height: 200
     isCached: true
     title: "Design for performance and scalability in Azure"
+  - url: https://docs.microsoft.com/learn/achievements/azure-well-architected-framework-social.png
+    width: 640
+    height: 320
+    isCached: true
+    title: "Design for performance and scalability in Azure"
 
 ---
 

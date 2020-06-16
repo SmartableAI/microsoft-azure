@@ -28,6 +28,11 @@ images:
     height: 400
     isCached: true
     title: "Transcribe speech in real time with Azure Cognitive Services"
+  - url: https://docs.microsoft.com/learn/achievements/transcribe-speech-input-text-social.png
+    width: 640
+    height: 320
+    isCached: true
+    title: "Transcribe speech in real time with Azure Cognitive Services"
 
 ---
 

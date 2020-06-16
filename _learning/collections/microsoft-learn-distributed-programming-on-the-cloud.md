@@ -4,7 +4,7 @@ excerpt: "Learn about how complex computer programs must be architected for the 
 type: collection
 price: Free
 length: PT6H54M
-heat: 0
+heat: 100
 
 provider:
   name: Microsoft Learn
