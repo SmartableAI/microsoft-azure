@@ -46,20 +46,29 @@ related:
         width: 1125
         height: 1125
         isCached: true
-  - title: "Microsoft Azure becomes preferred Cloud platform for SAS analytics"
-    excerpt: "Tech giant Microsoft and business analytics software and services firm SAS have announced a strategic partnership, making Azure the preferred Cloud platform for SAS's analytics portfolio."
-    publishedDateTime: 2020-06-16T04:51:00Z
-    webUrl: "https://www.sify.com/finance/microsoft-azure-becomes-preferred-cloud-platform-for-sas-analytics-news-topnews-ugqeOBacdhbdf.html"
+  - title: "PrimeKey Releases SignServer Cloud in the Microsoft Azure Marketplace"
+    excerpt: "PrimeKey, one of the world's leading providers of public key infrastructure (PKI) and digital signature solutions, today announced the"
+    publishedDateTime: 2020-06-16T11:44:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/primekey-releases-signserver-cloud-in-the-microsoft-azure-marketplace-301077438.html"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 37
     images:
-      - url: "https://www.sify.com/uploads/Paneer-Tikka-Momos_uf4rH1cjdjgif.jpg"
-        width: 600
-        height: 400
+      - url: "https://mma.prnewswire.com/media/1190637/Alex_Gregory.jpg?p=facebook"
+        width: 1000
+        height: 523
         isCached: true
+  - title: "Microsoft Azure becomes preferred Cloud platform for SAS analytics"
+    excerpt: "Tech giant Microsoft and business analytics software and services firm SAS have announced a strategic partnership, making Azure the preferred Cloud platform for SAS's analytics portfolio. The two companies will enable customers to easily run their SAS workloads in the cloud,"
+    publishedDateTime: 2020-06-16T10:57:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20200616/3576929.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 17
 
 secured: "AC0bwxPj89eDCrU+ixpqU/hkojVVhAjuzxrbbxgOsdfsLWI3pPy10tUSwTkzB6EdfA7H7orxdOQUFjC5lm0rL0mmB+U/tTwmQu7b8+dyPl0ZE9IhYJHCUylAxkDqoDgQV6ro5Kvz2zNx1i38zB2tG+d4YVkkguB54o2Q9/fgrcd9zE/zxwsl03Iv1dfVN5YLpUKBiR2eK+vjYYJlGn8Mp7QreDZK4G2Kov2a4iT6l6cayk7AE1hcHrOflm8ygsSbEHR5sNRLYTTi2JKlBiUnNWuGkMTVIZAvITN0ZOg+ZrAKn7nrSlKcqR4jvV3hchDe5aXUHHqm2vmDGuHEi1mvcKjEl8TKipRyz5uvXTOy8079p2yLZTmuFhFANSnnVedMQJDtPSjSSwGM0gXnSANPAnpmc2Ail9dUKt0krgPcRITDFSDvYx79y3m8fuIDa+zKFQPldrcw+yLw2VQMLECEomF1Wdr7pV0c1vNYpT0UjPegyfFpKJJVx7Uz0Sqa6oRXacJJPLveMyqCCQ14Myb80Q==;UMGRiM+W5lZSwSQh+kyONw=="
 ---
