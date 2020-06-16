@@ -3,7 +3,7 @@ category: news
 title: "Ukrtelecom picks Metinvest Digital for Microsoft Azure services"
 excerpt: "Ukrainian fixed operator Ukrtelecom has signed an agreement with the company Metinvest Digital on engineering, implementation and support of cloud services over Microsoft Azure and hybrid infrastructure on Microsoft 365 for the"
 publishedDateTime: 2020-06-15T22:00:00Z
-webUrl: "https://www.telecompaper.com/news/ukrtelecom-to-partner-with-metinvest-digital-on-services-from-microsoft--1342522"
+webUrl: "https://www.telecompaper.com/news/ukrtelecom-picks-metinvest-digital-for-microsoft-azure-services--1342522"
 type: article
 quality: 17
 heat: 17
@@ -16,6 +16,6 @@ provider:
 topics:
   - Azure
 
-secured: "X2Vhem5/lE3cDfqa74bF3nSJbcONgget6OFjnvuKpG1EzzCpzRGIRjosjuS4qw0p3YL4l61Dj+0U3HQN12Mcb2FK5WCqZ6PJ11m+5ofOFslVh7Ivz6M9bSCqNe8qqLn698zhoLIAiBVCnztTds2fNdXHpB0dPrWTr70V0RNL4KXER75ZEWIX9YJf7bGIobyxrms7j/x5L1kUqv/CmpfGArVajQD1TDjauIl1gOI9w34QZZ2g2UBo7M5GDBxlPlZdoYt1yS4svm9AShO1ocDvSG0jP5pCQ4Pv4ow3PwMU+TIPIA5X7gfeP2t0xrjsghlmdj5USnND6cEMkpPaSCsNwA==;Fgb/ZQ8NVY16nrlAkf39PQ=="
+secured: "K6EuMhHQSb67FIgnHMYx9+jxu2YxdV+Hbr0bB3jAerQqCGolV4E2KGdpv33UcmzpimObbKECrnEMyDfbCrhtKwf8MNjgJAtgJ+9ptKbZzt0S+yz13nD+lRcqrHrH+DaXhmlRywba9l7vrhR8N+qwMZnZndhsWhFgyqR9oxyEGLoqZfSK94tfyx/XlldlG+Yrdm1UYkZB0IWnY4hQpKEjLf5EK5QrBMNb3E5Thf7O/in3/pGPtL9FMf/q3oSLEx2JhU7P4RoVPLeBA81CQjG1I0yGfjdbsyi146TNMdgCVbHB8n3Ca8w9xZMoxl4YEZldUalB/dc7XyZ2aRLZB83zxQ==;zLXK9tEBY6H1BZgQPd6uOg=="
 ---
 
