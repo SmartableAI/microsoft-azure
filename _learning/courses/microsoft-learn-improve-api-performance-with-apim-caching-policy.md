@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/improve-api-performance-w
 type: course
 price: Free
 length: 47 mins
-heat: 50
+ratings:
+  count: 462
+  average: 4.6796536
+heat: 68
 
 provider:
   name: Microsoft Learn
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Improve the performance of an API by adding a caching policy in Azure API Management"
 
+secured: "a/O4uVLlkxAsDhw9hnC+Z4h29rqc+OkyuWZpJUpjX5YUlQEkitZg8D3PeNy+JnPg2MpoWk37jB0apwgs3D/GN2UqO65KPJp303x626No1TX6/QrY3f4htXMQ5Z7Gx7KhjcuLOl227n5T6Y6LWNia09DH6R5HDmVFtuk0KzjB58V+wn3Jxk4R5smNK+D76pVp4EkhXD7vwuse3bJkRf58JlQbAlwHdXKEdQ1uQ4/DJcPR9n/SdrLuFa/jNxelAVEhKAbj3ruH9tkn/HmNnZDEFk16LZYRN9j9HwvRGP0m5U1Kgi8y7gTMbHImSG4dt/gw7dJI1KiI1WUWVgbDZoiz0/Mjmgxx1BaWNWqZmolS5GQlPo86B86FwzX0ocw+gtvr;b2DYClmcY9iwI0XiJLqHTQ=="
 ---
 

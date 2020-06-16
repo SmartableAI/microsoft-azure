@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/analyze-text-with-text-an
 type: course
 price: Free
 length: 29 mins
-heat: 50
+ratings:
+  count: 49
+  average: 4.734694
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Analyze text with the Text Analytics service"
 
+secured: "qVh3jChP1OrPcIn/acNhia5X+NH9ATV8fZZt5n1aIbVoVDVO+mtuu/vOwmkATj6YxvEXetW6D7YLI/6+n7rOLZwCScWBmg+e2CH0gg/lafKuNAfQE4PcbbPYOBsDztjGuQtd2tWk4BQXttwU8/0hvndePysASzt7YuZHhzySD3TqZTOQw9dldEpDeBgYoIzps9VuxgU/NppWB8y3rFRrkHIhvIqh74TRiPxBSU6FC1qAlCdTOCMrrYgl4hv9OXiUFZiY6YVRblyeLQs3VTfmV2ElwFLc8FwyTloze/8/xGrXG5dBNaz+PPhh8O5Cn0O2nm2uBigt7OZpyg9Zg6pswdt0bKWJur3dO5IR5PvM3I0=;QdwQSkDNf3u2ZAlUJ6V+Rg=="
 ---
 

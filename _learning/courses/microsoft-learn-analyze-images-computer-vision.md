@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/analyze-images-computer-v
 type: course
 price: Free
 length: 28 mins
-heat: 50
+ratings:
+  count: 70
+  average: 4.742857
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Analyze images with the Computer Vision service"
 
+secured: "YheaUoEXhvKF3ToCsMh23S5pmy7IDUI7WpS1HSZXTqGuH5Svs17U4V5d3FPihT6LJnpC8zc5aHHpmKn4YwhoiA01bCv4Spt/vlvDJWM9sAOMiaa2xYVTaSgV821UfDlxGb4U/8aUaYrZiI7vMmjUy20Y0llOEUG3nIiL6lifOzO1VtkT2ya59yuopnly+aC1aTjj2jlGtK5GGgwQiINQ36BpLwZ1h7Ru4gj3xxZm+bqoUZOTGlf9PeuJ/rAk484K/Dw8Oqd5jxcnPdVwigGm8rC3ep5cBlws77rTJ0VZToxjWCaEWQhwnlMQJ9nYJdphl/iWqP3k6wLotENUlRmywatpzQqJD8tUbVSzIc8+nNI=;AMpYs5Lfuh0AEVni29yGVw=="
 ---
 

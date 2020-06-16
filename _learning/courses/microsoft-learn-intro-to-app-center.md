@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-app-center/
 type: course
 price: Free
 length: 49 mins
-heat: 50
+ratings:
+  count: 100
+  average: 4.54
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Introduction to App Center"
 
+secured: "77isKjv961YhQcDeirKnou0gCGSpMue7Le3DqbTTwlqCvKqci1vZozevXrpnmQ5Z/hs0sgDvtQaJSgutXV8EkeIFC4RCLU1sUyyfvl3HbZaBUK4UVZXzi/vgFL5WDEmYY7VyoZlyFrkm1x3as0A6dXBA1gJeE7yXDGblIZKKlDmokuG3EtRPA6AP8UTYCeLA7YrrgCwIiV65/DlXJ0YO+r0eOU7D9vaCocVmsfAYALVy1/PZcdbXeNeBkUi6KPHC/s5q4I2wJ4fcCKbOjKCGSliP1Eer6JL7egbqBD+BWnTaIn7ELQtZbRO17xH9v6cvNBFMGDmTpmfon9+sHGUF0MlkyqP/8GkhdWbQMNOBDCM=;6bffxDWvyknWGsItUwVixw=="
 ---
 

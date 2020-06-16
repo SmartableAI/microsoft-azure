@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/tm-create-a-threat-model-
 type: course
 price: Free
 length: 42 mins
-heat: 50
+ratings:
+  count: 122
+  average: 4.6885247
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -35,5 +38,6 @@ images:
     isCached: true
     title: "Create a threat model using data-flow diagram elements"
 
+secured: "97NQ1e0p+QzIIgdgoA86tiRmixPcA6Pz+cWLrhsfVS+AIkqM1vZLU/u5t/GqaDUcVG6/TI0Hu6hagEBIZit3onVOTsNpkd3HS2Jh5DW24d2/6YW9Xx77uNErJpYAONOVFinVVo0En5ST+oLgL4GycM/fAyonQhj2wJ61zdywYVwzwORvndLumii9wCUUu6DS+jjy9DWX72VE+gUy9rzcfcKHY5RyDfVrHmNoHoYmcTlDFwdKlIcblYGkgaeAE9sFyiwB5N3kkPnLIrDIMVjpMDA+V148EXtIpVOlujsLQzIfa1uSlz9pIqipSvwWbNtf5HCF9GhFHYweWexTrNmPemQJBut0ZAgv0xnKewx0OyOifX0DadmeHBwJkARACz0V;+vzDM+OeoxFd6ufhQLHoiQ=="
 ---
 

@@ -5,6 +5,9 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/extend-share-capacity-wit
 type: course
 price: Free
 length: PT1H16M
+ratings:
+  count: 0
+  average: 0
 heat: 50
 
 provider:
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Extend your on-premises file share capacity using Azure File Sync"
 
+secured: "FbfjUvtO8jGMQ18Qfdx9JEH7jr3LVoa4ZuDMYr/ji1t8IhrtWZvB4dCUqe+4rUZD2vqYTrW/Tz+D1genpwnwXvMG5J367Gi8SySBxghqc+amTxyI5yKHQN/AwNUkPZGfcAvWGFLeQtWSmV4n+mHNuSFNRkycnouev1ZnebiFE/JhantTDNfXTmU/Sqby2IhqHRJm3r/wSMW2ZhtwmzeIPprQYnislFaUkc6TmkYlIYVvMkg46shYqoLPAnsdlu6miWShnVR5nRlfDw+e/lFNWcLjNFZ/kYiOsLXOCuudSYt3mH75M7+x54GSyCvCndq9A9q7WOjMPMHXJTuU5Qc08PTDfc5TVmUlZuyd+gRRpKM=;otAhT8QgbKocAYW1EJSf6g=="
 ---
 

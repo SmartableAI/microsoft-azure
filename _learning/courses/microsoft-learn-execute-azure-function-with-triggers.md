@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-wi
 type: course
 price: Free
 length: 83 mins
-heat: 50
+ratings:
+  count: 2633
+  average: 4.7030005
+heat: 119
 
 provider:
   name: Microsoft Learn
@@ -31,5 +34,6 @@ images:
     isCached: true
     title: "Execute an Azure Function with triggers"
 
+secured: "gO0db4k0Urwhvm7b+gbWQ90L8kpjwMaANUfP8rUSeFm2vUUR4pEt40VBKJVN4/DJxqxjn+7QJfFknst9hSSnLY36iWLtERwpnP3MD4biESgyVbjohqAYo9DcKImlmicS332h+zCTwDC0JWnp3BidqGh+raYy5KYjUiouBhQY23S2+92l/041eO+eiLTKqGyQO1kooRRCkR1I6OqAbxwzaJQ9PeW7r+lB2IgEPOUdX1R+Sl4GrU4LcoDgGBP5V/ASKwyRgZ1ewu3ZjibIjpIpC0Eh+1W55Qaz10mQygp5Kixe7I0XzRDdJ0bxuZzs7hNHi11iJwNyGV+uaO3/qtJ7A8WLXuoDFtF+xLpfilFR5UiwPy4uLdtW0yTITNYmDJzO;rGOySTIOTGcmynXi/xR0eQ=="
 ---
 

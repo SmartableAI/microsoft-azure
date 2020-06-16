@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-to-ai-techno
 type: course
 price: Free
 length: 37 mins
-heat: 50
+ratings:
+  count: 1217
+  average: 4.692687
+heat: 90
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Introduction to AI technology"
 
+secured: "tluO/c8MkyoLgyoADGGWrK/2qrWP72c4qBuyNvtcMumRMFP+1Jo4H0YaAnnk6IoyJELI21p72TMugSSN7N9dD7/dP/ReFvymBZjjY08puWneyqpBkeOOwDc192WW4qiZxpZatxDnARkI/Ya50OQ+zaxQFBC0YDO4CztRuIKGoR02mjb8ZrA6ta/Ele9u+kV5qeAGobhsvDP25ml/e++/KD8oJwTkflH3QUNTh8RPbXekpUvKpeO7jql58xalLDbj9uRwUWtNs3eQaKsgANUrJigd6+udg6iHGS79jpH0yrMseTIJgmjd6lyNsRR64IxFqcGaEnPWsBvVnrRHu9qwvFm18rssJO11O7xd8asZFCCxzy2dvElBl6lixdRTFMOH;E8i1Sb1uoRhr8QY2BbMJRw=="
 ---
 

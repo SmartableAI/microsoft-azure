@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/assess-your-development-p
 type: course
 price: Free
 length: PT19M
-heat: 50
+ratings:
+  count: 5792
+  average: 4.70442
+heat: 160
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Assess your existing software development process"
 
+secured: "Qld52hb8CPZn4ftv7Ah+ngrwMHMOqaqyKDixhxknGIu0t7pyTuk4cFI451o7m0fAw1H32AR08QR2CHkyRUzXQwKoQP1dTflENnva0XUIdp8Ak3m6ofYbQKUbNJh9RwVveO76393RkQMgDhlteWbOTfHNnl6eCnR5N4nHr8+csdWct1tsvbNJVyW7cWZj3uRWOlibUiwSAbtZI1NwWOqjxBeohP3stqwM2w7OmPcmFSy9UxV/fJL6HUZkiN9cNvntvWcifL6IozxFne7ZMhnnRJR8W0TuJepdkScl5XezsqVXMSy6uXaJT0rIphGnXyH+b2vndFlc9KI2tJP6QLgs1BExSePxVzgy2v3Rb/61eTv95rnHYDjQKyIfY33CQHdK;ppqL+K6lssRNjNSTJ9ek8A=="
 ---
 

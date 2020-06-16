@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/capture-page-load-times-a
 type: course
 price: Free
 length: 45 mins
-heat: 50
+ratings:
+  count: 152
+  average: 4.486842
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Capture and view page load times in your Azure web app with Application Insights"
 
+secured: "/SS5nbIDzPqFEgCwoLi+yV09TpzKsd/5Jxg7xiYQarpasGoIQM7UiHDyN5fjK6SLUffdGZaX+1SYBFdd/TpwoiUPix9Mtj+MUhIlAAB37qcAsuzTEuN41iPFVV0ECBPZuNHb8O905s5xyVsUWp8FoXkIy9ART3k9ZHlmTMj/t5NbN5AGp4toQYyKKXtxazhaN5TWgoC08W/buaw1Gi8+IQgNqjHYjAWqJVRWeYeKaro+44ryMJQJ2cB/WSLrQ3oC8NWLFwusdjNMmE7muosEnAL5j14T+KOpu6M3GWBf5pcZCRWnardlduVvtKQmL8zI7HtrGeaE8QV7J9FI2lHNoueiWat6J5V2rhsV4RodLkAg1+epIml1RZiZOGG0Fph6;uQJd1ATSlXUWszBOYsuJiQ=="
 ---
 

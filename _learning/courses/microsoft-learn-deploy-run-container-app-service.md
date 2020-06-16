@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-
 type: course
 price: Free
 length: 46 mins
-heat: 50
+ratings:
+  count: 3018
+  average: 4.6398277
+heat: 125
 
 provider:
   name: Microsoft Learn
@@ -31,5 +34,6 @@ images:
     isCached: true
     title: "Deploy and run a containerized web app with Azure App Service"
 
+secured: "xsSx4QJ5qZDHbYpqPt1OBu3QpLYma4l3y88QB5X8HfBHUo5HvzcAEz362UUEnWIHzRXmeVd/zDU7DT6MVMrPPU7cSjCTXAipzetGv74FJBaegmI4j1cWHIQ/P/FVJOXq/1F2geiCaMRNBaEYzkiYzajzEVltAdy+jbNN2L6/QzfoD2q3px1lB+k9IaKwFwgiRqnIXr3FfSTj3ITqUud+LWyT1dyaXyhqtkYpszyWfYwJ71d23QQTo33QLXMs+tyKE7sdVIYcU/p8LaUHvmg6p1dwQ22M3VW40e5sjH2pGQO5NTOnQVDfHhZW7SeYzJcTRhpwPMa5/8aYhPzQLc3T0QIzOVo4fnO9pw8Gi98D/ENOoiSLD6eF3bM0xxQ6KHsj;pm9At3SzO3so/I0NkJ4AdQ=="
 ---
 

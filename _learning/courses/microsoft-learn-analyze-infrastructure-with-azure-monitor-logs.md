@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/analyze-infrastructure-wi
 type: course
 price: Free
 length: 34 mins
-heat: 50
+ratings:
+  count: 1322
+  average: 4.6187596
+heat: 92
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Analyze your Azure infrastructure by using Azure Monitor logs"
 
+secured: "N1LbQ1vuc5AgR+ovU9h36tcU6c7oLXSz5yQXyWL8S9lATaqHO7IDWix0/21iAWeHfXeVYV6oOJa7TL/+zU+lq9r436A/+k5XnFRr8XTFVyb6GnJ7Bl82b/yQF4rgh/mj3SYYvawg/27MLJkdTQJv/mJmqFuz9gjAdgWBwQP1tWcnQv88TsP5+BsrNRHwCfH6QRUQsOEBcWhGUiesGql/QUE0U/Q2HmcKlbP3ZTyzojh9zJk5Gi9B4CMKor1FdA74uRAljOF5nX19i/LkQCdIe+lJhM1SvXH3oQcf+uxQ33VKPTOpY2MoyFEDLsC2hLwWWUkwF1SDhxzRFhOhXORxyxNPtXA1RVdm3jXfwaj303PhjaEri8goT3Mei7Ib2uhj;m7cM2YKrpLXoMbO17wxDow=="
 ---
 

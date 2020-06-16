@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/store-and-share-with-azur
 type: course
 price: Free
 length: 51 mins
-heat: 50
+ratings:
+  count: 539
+  average: 4.580705
+heat: 70
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Store and share files in your application with Azure Files"
 
+secured: "fK3NTHLfazGhOLTkYYV18x9pIHkJKoZj62j1iyMc5asWMbttvHa2tXuvD9EiMXDhy3J49em5nsNAVuLcDuSgwy3Vu+FHlKSY+9/1JH1M9PgSLHE63ovLsJ8bdVwmg6BBwig3P5Gwa2/EoOGmAE8a63M21Q0KSnHNAaKnKdJqGsG9BTvB/9OtAvRBD9dCYiFFUfL3L+kdnGsVvdE8VbxYYtGRZC/d/UYKtTpUT3NXl5DkPTrhUbitU/FkPkrQubVRRvvMXHKxvwRnHSWuJ2YOuU4+cAomcxdGTZf+212TcdpMHE2+Nmx8OKeWGsJbnO3sOTCg7jdHLYCMnwLcMQ4zfjEEHN+OwFj0s3wBjLSdJJFAmuUQqmURc5sp9Kb3Cfo7;vfgnAm5aXKZ9RuW5p58blg=="
 ---
 

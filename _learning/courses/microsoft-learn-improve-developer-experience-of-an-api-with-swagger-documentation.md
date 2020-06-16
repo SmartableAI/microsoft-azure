@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/improve-api-developer-exp
 type: course
 price: Free
 length: 33 mins
-heat: 50
+ratings:
+  count: 479
+  average: 4.607516
+heat: 68
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Improve the developer experience of an API with Swagger documentation"
 
+secured: "ZNjYlAxGT5oXTmawMpCJ7Lxy0ZP7WbsOyrIbOsLmScLBh8oR/mK1OuaRzpHxXIlO9PcoHmF3A9N6mlDqlZFMv2THh1iDHZqoAlIev6BLR6ZLQEZOvgT/9fIbkIohteXOUaXwNV6YafGIBxWt5zlYIjHqbHWy3oUkl2DhLx1C1zCw8q6ZUpXI1JWWxlorM6Ff02MvIen8nCg+sJr1xFHB5n1zAhg6+3rXTYk0v8fAhHVTgULRBv1ICh+zYDFelwV43Nf3KuuHZZzQqpw3sDhgsk1MOxRQLfENEy8V3A0XnoIF8Y+vxkNpLH0DvITjdjQw0ex01L9voSzIEW8Al/VJ8yEvWGF7kQD48gYfOrXEv9QhdG/4qPVlRLaQ3vyY8V67;aOlAg0d5ddYTsQ/zXvS7Zw=="
 ---
 

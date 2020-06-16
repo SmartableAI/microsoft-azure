@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-logic-apps/
 type: course
 price: Free
 length: 28 mins
-heat: 50
+ratings:
+  count: 1428
+  average: 4.7016807
+heat: 95
 
 provider:
   name: Microsoft Learn
@@ -31,5 +34,6 @@ images:
     isCached: true
     title: "Introduction to Azure Logic Apps"
 
+secured: "5IRcCrOdRoH07TfXSd2alHR4pk2raqtrWRdlQqtdrz5w6Uk4PZ1/id2QseancT4BAFzydmnJ18MyBoppUxmyyBp8U79Pro03eGbOB+/SBm+6ecd+2BXnpBd0e7LNtsdC2wrWreG5N6pa7DAix8XouPwSWAQXeINfp/fOR8+fRnZaxMTT/FyGd1neu7iLMOqeCLKOC8K7u3yEnmfouulWnEqWCMrgqnbisGFxVx5iTgEMfQdENOcc/9uTlzZjQ4CsXNxUTGOZjIShPiH/L3f4xtDJDWxPH6i0VVcBNU9vaYT1uDB5UbNPviON6ZyKmWtfDA9pIt9Y87yxIb0ttyzM1QAuwlvsdbs76azXa/Pjs7cLaRnHUUZtEbNp1iRMZUIw;k0V9cDtH8C9SJEgwFdDHeQ=="
 ---
 

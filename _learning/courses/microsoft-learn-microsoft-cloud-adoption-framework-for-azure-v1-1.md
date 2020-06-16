@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-adoption-
 type: course
 price: Free
 length: 50 mins
-heat: 50
+ratings:
+  count: 1906
+  average: 4.746065
+heat: 106
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Microsoft Cloud Adoption Framework for Azure"
 
+secured: "143mRAV3ICUwSQTh/73KQ5avpaRMEkayAOXR71iK0Kk0KzRIAsxxzGy13gs9vLY6KA8aRag3YK3X8++lTh4chvfWFJAkKJmEmEYg9yr5dJRIeQS/APMfi4aTjjKQGT8YU4WrrlqCSlZ3bHSIluP+4Dy1oUsfdcN80xjSWzX0j7cl3endmZvbUa4/mnPJGF3mSfXOA6KwLAEmIz06lENsY7XopPOc9gZp+G/uNLgZbGoYvKdk1ftaBt1LrgMC1J5c/PlIQ9HYT15zjbz+fcaL99Z9NEsAo1fRZUw/OJZVnH4yS7st7tOQBwh0nf7vbw/kxJQqSb4S5ue/kW9EbzNkdyvVqjpapElr7Xkiu78KnDvmranm6DAmKxZX8FCzXdQ3;0U0pQ0gOaKwfU848uM+6mA=="
 ---
 

@@ -5,6 +5,9 @@ webUrl: https://docs.microsoft.com/en-us/learn/cmu-cloud-computing/cmu-analytics
 type: course
 price: Free
 length: 63 mins
+ratings:
+  count: 16
+  average: 4.875
 heat: 50
 
 provider:
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Distributed computing on the cloud: GraphLab"
 
+secured: "UvxCkoozYs8cHZf3f1DuyrKhrCmuQVSd4Hm/zxHvLkB7I93hupmStDFM19wrAs1SAllKM/jtxezeqHhw3QSbSL2Gf4vnSOLWMX3Dpafgogp2Pl3tAo07f3msSibDe2HjP/g1tFaYJ1KRXQdIXniQluDWmauQC+vWOlp1Ve9BVcH5rv+uaGUgm9tPiIQaj/Dt+nG50g6ayivBPpsPMEtp3tJiduRcfK5a0XgCQQg4kjeMrMjadHmMcFX8oFyyDgBCVMAqyODVdltqg2vPEz6mKs/CielCEPcwn3MmGmMCBvnlTgUKK5YbdHMG+fvAgnPLtQYYT2jtd69jSmiMEb7awnRJ7iGHWaPSqKQQ9ehul8o=;HPV+7NotcRsRGha1o4NEvA=="
 ---
 

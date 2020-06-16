@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/m365-azure-migrate-discov
 type: course
 price: Free
 length: PT29M
-heat: 50
+ratings:
+  count: 27
+  average: 4.7777777
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,5 +34,6 @@ images:
     isCached: true
     title: "Discover and Assess your on-premises servers with Azure Migrate"
 
+secured: "hXuOjQA7/hyLaZ89C/HOyN66kYpJthY5pYqkXeGxvHrFXpKEyzO2KdOpK84++Y2A24R6XKdEXpivyZbbYlZ09BFry+j/eX08ZgAjRZZ6VfwcoMpo6+/22/0tYy5SGmVdnHkHxGqvw9AVbu5ezV4cH83ma6pDeQMnQ+YMTJssiqkfCEgPGesubizKUvXtw53SKlQCUyigrxR+y/qOUO/l75u93FNndG2p4uTbrhjAvWflifu1l67YsWRT2Xy7lDvK+wQmv7fURye+hfQe7wPe8P1NLPrlx3ZZaq9x2/xzUCdU27r3DjeP7Ct+2jGWX+QbUi8sB8xF06YAYnoRbmBZQ2v9kytSHl/Co3etZo3vfeg=;LYdp9BYlB4hUCMG08SjmFQ=="
 ---
 

@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/identify-faces-with-compu
 type: course
 price: Free
 length: 47 mins
-heat: 50
+ratings:
+  count: 1177
+  average: 4.64401
+heat: 89
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Identify faces and expressions by using the Computer Vision API in Azure Cognitive Services"
 
+secured: "ltqj0gFzJ10TdaqaLsoh/1aEpvGVpOYFFty6Xfc4m8ri4u51/YWdYPxZWg1RYXX5ibQQ60q0eaOhtqURYrL98DVTVzBDqNrKNaDaiRsI4nuLZ7p+rljF/J4N4fJ7UFtH6gOzLqjUFuPLIOLe8/S5K0Wrz31XGnVNDuYvCXg9pdO684O/VE1oX87Qn6+1S4ufVEut3TNHWSEpzBPnIXZeJ/05kGchqTB/3EacoRhutnnKT+Xe9QYINv4IZbNKlLd5q3rT1/YRBh670/MZbAzEaetuKM/QupKukCXjiEUph7j/bCjg5qGoHOCSpG8wTdS9GfHHRjSfyP/iRyMmFxJPZqzDXERPaQHblFwg8rXACoamgTOq6i3q9zpKS2yphGz5;VpKZo08DbzPg9aE84GLYIA=="
 ---
 

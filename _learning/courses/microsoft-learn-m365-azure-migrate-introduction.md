@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/m365-azure-migrate-introd
 type: course
 price: Free
 length: PT19M
-heat: 50
+ratings:
+  count: 32
+  average: 4.5625
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,5 +34,6 @@ images:
     isCached: true
     title: "Introduction to Azure Migrate for server migration"
 
+secured: "2Jeh1jiRO2eyCQQp1C4PZ8aWppAOuaWJ8hsC0quFgAu3Dd2tlPQ+dmJQxMKllKG7RgFLILg27/+UIdE1jrQEURqyHSvaE4dOqW4gBvyL8vQCudlJtTYZt4XAfbiUVxNrEHVXz4ZkA2fAtox3rfsdZN6W1V1N/37/M4imkISF04wKZVpQFexmVPLggfHdz9lYsV3bb2SWJTBL8Mow516O989LA9Evb6JMmi3QHZx6AeMxv/18O4oSBQnhnMsCkUxegslY1PnSfCF6+tCgpBw301xCh+hJagK+xXHN1Bj6PHqXWf9O28JCzKexkiysBqzfDP6aysQUWG4dMslXeggDKhbOSyyx3i1CUUgyLwcboqA=;POsz7Yzowg0ltwfy0j8BAg=="
 ---
 

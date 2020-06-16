@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/synthesize-text-input-spe
 type: course
 price: Free
 length: PT18M
-heat: 50
+ratings:
+  count: 58
+  average: 4.706897
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Synthesize Text Input to Speech"
 
+secured: "CnkMWxveOisgcaXmIpCNBr2C1HkF6zedmD93gNVnSe8PycBPwwXg9Sc6vRR3eoSELsBDhOQ5kwPc4Ul2n/EA+g33bpCzXy/m4qfwyHtbMSTRme27/AShyvVbGl3D4Xx2nsoW2xdpHyYORMxRGj6rizz6F2UFzCkirTONNQ4SBPgO/yuN3fDp510N6gHbQZ3/lq8+h40a8SD3bA75Dhi2GqS9/E8YqwIsPsSkzp4jTyRINroTgQXQXcpI9rCxFuaTa32WDYjP0D9v9dudKTzHRWjrh2P6n6JJtMFKCdzeHSDJiD8M5LpD8psMUTm7Nu1slroh+4puZv8UXRR3pCFMfTnB6bcQxcQ1gmEPzXcrGbU=;dHKgbDXKPb+CUR0Bl69VAQ=="
 ---
 

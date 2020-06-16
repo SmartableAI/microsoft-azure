@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging
 type: course
 price: Free
 length: 56 mins
-heat: 50
+ratings:
+  count: 1272
+  average: 4.4583335
+heat: 90
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Enable reliable messaging for Big Data applications using Azure Event Hubs"
 
+secured: "XeG3jeORIdvZs3VLT5+5LjDAMv2UC6095bSa/BBTQ4+JU8Z7+RM1w5avCxw5YO3/rlsTtIq+2SXy/wEctQcHnF96jznZyX5gFqZmHRV9KNPVoCbtAYJaxAL3bsKlKCWaXFpk/TNsLPTYemVADOZI1PvfLDmhwcBepNIWwZnlKYy4O5yXLKzwnff5roVTpqRbAnyrnKN5KAWZsSJRZrdDKpQd6hvDMEL2h5JT7HHO/UyWAaHI1utJPkbgTF/OWi3sDU7qSfPu+rXtmI4T0/A/MvE4WU8kGZkKC5siX9oZNg61+La1zGezb9mcwpPgbuLVM3kOLaf4oPKX7iVv50hadln+4gHi75eYDg1S+EfaZ89E/ytrodK/mC7+N7NJkgXF;BiY54YUZoU7rc0GbXqVZPg=="
 ---
 

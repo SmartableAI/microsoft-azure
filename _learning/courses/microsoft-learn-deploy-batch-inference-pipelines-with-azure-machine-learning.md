@@ -5,6 +5,9 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/deploy-batch-inference-pi
 type: course
 price: Free
 length: PT44M
+ratings:
+  count: 16
+  average: 4.625
 heat: 50
 
 provider:
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Deploy batch inference pipelines with Azure Machine Learning"
 
+secured: "p/ujCqSmA5J0d1z7QcmTYseYY/A1ZYriTP5kWy/hWB9vmc2x1mvSUWBCdxqL8GziZxQJXCKPfngXZPgtF/BhyXUSEturNxESwAEhzltJ4nyVAoEeuOlGpSob13mGo0eEPzgcEEYaYYTZxFtj/mN3Vm4g8byWQATMpu4e/WfxKi/8Tfr7UW5am+vyqiL4Fkm/FTLtSmqTeV/kE7Q805+UNAj4i7eFwJswytPrsgEpTIyBbvNw9QkfiVrLC+Xldoaso3UKsaG7zXNRr+oM9kpX++COyqclP0W3yc0kXYZS0HJySHddj3Jo4DckfQpUU6drKDj726+WKrydDXoSvEgHYxezo/CEFBpQQbZ5W6VatnU=;sR1kpfecJln6jclNWi06Sw=="
 ---
 

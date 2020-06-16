@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/getting-started-identity/
 type: course
 price: Free
 length: PT1H10M
-heat: 50
+ratings:
+  count: 138
+  average: 4.652174
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -22,5 +25,6 @@ topics:
   - Azure
   - Identity
 
+secured: "EKpo/Dg48iBn3C3LP5as9zgh19F7cQc8iPZYcVPvQnaq1AYUCR0gyv2dGLD22OEs/Gwn2Mp41tHx/vH1JRosikqFE7ji7q3D/Tz9yLmfDNyjshLdJ9WQIJ5KmTPhq3jx/QFJZDZRaIJgb1DNS17fkvWkEee7IlQ9e+r6giEMatjn2KyHXlWQo+c07/Sox7GC7qL3uFaZlunpCXCstJdjiu7dgyi6iu+OEH7FdcqvEErFr+unVBOu4Nl9oy3irgp1Qzj8VoqSyrYwLXg4aGePfZl7POS/8SgE4HEbkNC0qN0g132GFsKhxJmjsR3RTXwQ5AtqRTY+QgXEbU2Ur6AIUFT2HD6inkHSR5y0khBw4Ewm74s5+RbECXjBBHwzS3U2;yOzQLlIyVK1VZCBBKBYdPw=="
 ---
 

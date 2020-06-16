@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/detect-analyze-faces/
 type: course
 price: Free
 length: 24 mins
-heat: 50
+ratings:
+  count: 51
+  average: 4.6862745
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Detect and analyze faces with the Face service"
 
+secured: "r6eBd2AjS42gtQQPyM67JD157c/XSRBelcNS+b57wThBH3luEdyDzBHkyM+ma7b28djl+3cOkfqUS5FN49Ys5sYDtkVLdcmorEBQrVF61mN1l3/hqW/NfSixF/llTDlUrh2xqTW+KB/4shluM5Ws5Z/QqvyRBOsD3/HhfdF6SfsAOCr6Nriqo3w9nlKbLSEKDKyZqt7RKW0umbThu3wHIfPKqMzQTL0tIniy805blbjPh9VSbkzdsBAVchtLH9WY1ipm8LhP4Vnv8qU31lK3I5uKDT6lfKeyz2kJ7OVanYNoihD1NisEPgiJzcKYY8/XqrMJVv1LjWaO2PoRUW960m+emfneJbfkYJjuVv7TNLM=;Pfk+i0t2dB5Q2BOzBxv+1g=="
 ---
 

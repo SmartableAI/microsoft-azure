@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-w
 type: course
 price: Free
 length: 51 mins
-heat: 50
+ratings:
+  count: 4649
+  average: 4.6956334
+heat: 147
 
 provider:
   name: Microsoft Learn
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Manage virtual machines with the Azure CLI"
 
+secured: "O4calXXdSxTkWoYX//r21XaL0nATrnyrUixvxswVkMDLTzzgkF7Rkm0hzUvjQVDf2GxKY7SHQS37u2fUVK8PR6PLwz4emUW+fwl1G+kPDjiOeJff0d2sBYc7B1gMKquVbWCmDYFbs1xnTwTgxG9m5miPl21haJeu/22ROvoan67NBCBB52/tNlkBY1XzKEC1qa2/T3UyKQHGsWzEPQAMkT8AFb5q2tuUhdEo6GjClTgvXA+JZhRHMd1ub3H+uKyw4q6JHHTAg7wpiAbz+qnUufZkCzZDsDT8/iV46Q6n0T+mt6maCKLIK9Yl9FpeXHbT+o85Z86AZHHjj7dK9T6EdgbkpAeA4sGGeYbF6j7P/p7GARz61F7xgbbVxomwCWJL;12rj6Fns+RvbbQJJ5yqfJg=="
 ---
 

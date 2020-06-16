@@ -4,7 +4,7 @@ excerpt: "Learn about the basics of the cloud, including the history, building b
 type: collection
 price: Free
 length: PT6H53M
-heat: 100
+heat: 102
 
 provider:
   name: Microsoft Learn

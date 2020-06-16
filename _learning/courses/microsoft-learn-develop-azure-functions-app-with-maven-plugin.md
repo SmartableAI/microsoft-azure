@@ -5,6 +5,9 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/develop-azure-functions-a
 type: course
 price: Free
 length: 44 mins
+ratings:
+  count: 3
+  average: 4
 heat: 50
 
 provider:
@@ -23,5 +26,6 @@ topics:
   - Serverless
   - Azure
 
+secured: "Mimsptcsf2hm5CZcPJH0JZ2a6eIkbfmb+6etEozwawe9+rYcO+swOIuGtywjhC2hj77xegmDaQXMZjP8zQ7+PO54X1oSsaBc7tmZpLhYV9jMfjjhfFEanZgMYCSzGNFkKS7LoyWE/+bDsbyUP5tnqhR2itWrgzvNUfuzItfVNHnJUGhKnzfSWzrsgYNcoAK7BSkSQNOe3eTc/HUh2Vl22icNisVgt1kVHgiHSJrBNN5VtDpMAngcoJuD/IiID70tWB18LBsB2Ux8bFOmEfnUO2WRkSmpLuxk/q8/KMAxOJLXHvUeD4Gg7aObXTdufpQrvjWrKfi0WGB2E9507s73ll4wGnCWSNMMaQP9ravrbZI=;GQ/y40BH7f5ibiweWjRihg=="
 ---
 

@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/cmu-secure-cloud-resource
 type: course
 price: Free
 length: 40 mins
-heat: 50
+ratings:
+  count: 121
+  average: 4.603306
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Secure your cloud resources with access control"
 
+secured: "4wfa0vsDOS5nMoF+hqaadJiLNc0rmKMgbOVHJhLtbWXG2rwUJnk0NnjsUkfzZCD24UzjxkHJlH8Wfk+kJbtUShi5lwGesOhLP2bbXO7A5bsuMmJuCrfKb6JHap7bGH6Zg68HOSKiLVQs/PA2cBW/ZeH7IDKjBPQWZ2icwiNCosK6JW3v0Mm0HOWPiHYi+vTct2xtBq/cJHOpcqDaAZQn+cm3XSPGHVv7GnDj/nGiwCPON8l79VkCYPX8bD39QbzuyfeqCNRryGor/yQT0clZBefGQIfKXE3rfA5kWNP7nKJJg/JEC1g1SVHeRpV0PwM1bbblMf2oE5x0XCAjT4FRHjMYclbnWM3bMGJv2taLdaqxJnC41t+nTvl/R2RLJL77;rF3zbaOHVyJYznR0H7LUfQ=="
 ---
 

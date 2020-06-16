@@ -5,6 +5,9 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/improve-reliability-incid
 type: course
 price: Free
 length: PT33M
+ratings:
+  count: 3
+  average: 4.6666665
 heat: 50
 
 provider:
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Improve your reliability with modern operations practices: Incident response"
 
+secured: "MuEqWGuX8m7RgKj8KCYAjBvwmIXm4Vm1aOrYQl+lB1mYXGpL/cYV9VmR+34dsb0y+foC1J2WTuzP6p21vOdgb0fiSW1bSkag2iuvtPFTRHh+rrAO19oNlvQmJTv+V+MVRSqaLacbX0k7Twybtlw/y4VTJ0/ibrw4i6Jh3E4xzD2+/hOvpxL82Vco1Fva2vhwoAW8rhzR1bUUnxbTEChpRG604GgHCSI4kzeRc+Mrl411a984cGGs85MVL21UMFkmH6hcJbSMfJAhY/6d8dG54HA7otqXcZYkV90crMYyu4/dqwyxyEUxKkn6jOFmRwLzyb9fKxIJOV+wax8wHf6wAaXSCohb5ZzZ500GvvfDGHs=;+02U97rLYJdP5R9z9hrSug=="
 ---
 

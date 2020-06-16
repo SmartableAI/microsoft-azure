@@ -5,6 +5,9 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/start-ml-lifecycle-mlops/
 type: course
 price: Free
 length: PT30M
+ratings:
+  count: 5
+  average: 4.8
 heat: 50
 
 provider:
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Start the machine learning lifecycle with MLOps"
 
+secured: "uFYqA/Wmo2P2qa87nnVvmDHOBr4yn2cp2TuS/Ww7ropr2WKEeU+kiRHqFZKwmXTNEYk2nhoTy6L3IJY2jUJjxmBow9HxGQTbHgJp9V4TQppL5l9I5bPCNMdpKjOFpN0F42dYdMW+BbojhJGUAEtlXaRaMe6yoUgSUfJ9AcF6CjLpr9z56VgwiGF/LwMgdkgfXUtnbNKZR/kKq4R5EcUrfjauxB1eiekDT6CkXTG2KEDAEpaRUQ7usLoHDdMyqRn9zOOpuh5sE+6gODADIQkdRT8io2kB45oGizgqMaUTnq4R3PZzz+kI88HFiqBzwDz8tncUl0WuMwqfRzxOcC5mWh5ULYVrkHk65/YPmD1qXWs=;gwsTMjS1EtJoa4/UCh8SHw=="
 ---
 

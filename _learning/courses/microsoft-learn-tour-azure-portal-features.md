@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/
 type: course
 price: Free
 length: 73 mins
-heat: 50
+ratings:
+  count: 41941
+  average: 4.702153
+heat: 287
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Core Cloud Services - Manage services with the Azure portal"
 
+secured: "wiMqJUTHsG2qBMXnPwPbRR+mdMi4njMeZDxpG4xSyiuagczXU8WGuByl4UurTDiLxCcnTZHyViT6OJD5N4lI5gZrcU2jGPQ6eWKGHemOulIGieoJCBCyecMNP6yE6OPwTNkfOoGFJXoD9zAdFdXVEHY+mpiR6qsoK9FzpJ8fkWfUpTAAGHnV96K9nWyfy0Sd2mZ2rEV2e77htdlbxK4y1ZAQT1i7oOwKwezXXYSmxt/GJS48oGsKRaDXiWFYsIROe65oaejD3OoVeUiPayskFiDA9NBUy6g83jmbGA56PUxpTDZjVEniKKEvN8O5pELI6+DG+nbowQxVL1k2DA5ZssBpg3rlejTQaJkuGw0hUZyoo0wGZ+y435bxjgoyTYCr;54bN717lveKOoumDe5aAyA=="
 ---
 

@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/
 type: course
 price: Free
 length: PT25M
-heat: 50
+ratings:
+  count: 6005
+  average: 4.7150707
+heat: 162
 
 provider:
   name: Microsoft Learn
@@ -21,5 +24,6 @@ levels:
 topics:
   - DevOps
 
+secured: "wNmmcQ7Rs/PDuDG6tFV1+YFkSlrH/3S9yF091e/gM5yfPFFANX6W61a5p6aT+wv3v92fBBHs/MNmkUXj2jmoyfseEOWwQXDSK85f+3WqATPG1Xq1+yPGqom5ZES4Wq5AQ9zMgzT8lQBAqxpNfxBGOeLRavkhVxqnat4KNs6nG45JVnNw4sJwEmF6WLjoowMphu8Gwrh/eiH0ywNjhbNmg84LdR8jYLqY+cXsDkhV/lCM11MNZv6oWAFBIyv3+0KFutXy3/z7UJrz64iUYaHwM9AucRE0jsG6K/de6zVBcT1nXxl9IX5irK89SYPJ2GWQYurWdXh39MEZDvSBRTVBmXAIVyf0oBAdOym1IsF3rGJ2mL0NrRN3AN/r+CpbO+yt;LjXEltKM37kU8kI84gE/Pg=="
 ---
 

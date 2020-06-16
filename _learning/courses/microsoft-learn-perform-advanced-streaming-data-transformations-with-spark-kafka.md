@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/perform-advanced-streamin
 type: course
 price: Free
 length: PT46M
-heat: 50
+ratings:
+  count: 35
+  average: 4.3428574
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Perform advanced streaming data transformations with Apache Spark and Kafka in Azure HDInsight"
 
+secured: "ZoFIbYDaAGewKs9bE/p3uLGQnxGp4oLGIkAvgowZEb6TB8iT8swkx99IkjHXEl++9nu04obsciZ7f6vp5t98qpMQCWpz4xFQ3+WgkCPoF9u2lvTn8v9vyneGVL6+quZtOXEjK4oh3e44iK5mMKJpexaVGaJEJ4isuAyEzJploRI/6d8cZQL2oGxW4uitBXdkAbVhYyHYqKBlPEC6GM16sOcnF5Rx8VOlTg4QnMlWRA6sw9EMg8QAyP16hJZsO5uWgeGQD6szf1T3Poc9TY9mbSKrpQ7V7+ljVONsNA9uYbXzsfdmglLg1zUujTcoSuwTOyrjYV0C/sSMW9uSM69fNt6ATupww4Bd98+YNPLvi1g=;x8WnCACXoByRLWXB+ja/hQ=="
 ---
 

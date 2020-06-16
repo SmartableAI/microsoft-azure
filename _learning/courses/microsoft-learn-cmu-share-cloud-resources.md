@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/cmu-cloud-computing/cmu-share-clo
 type: course
 price: Free
 length: 54 mins
-heat: 50
+ratings:
+  count: 48
+  average: 4.7291665
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Share cloud resources"
 
+secured: "ZxhWK0krTLs4/MPKgkJ4y3PfuU91nJbwk7V+3Y21wdIkZHNV8UMCojzcmL+qj3IuAlsKXwV1ZK64Ks6NsyMLqmjQsdxERrlnoJ17CsF5CFyzOXxxn6sMUvA6iMqU9eauSu/F2AuFef7bUfoLearA6bTZbRVWykzBcRZ9UG0Y3w1M/julB6LBJ8ZP3MBM7I9CSTxhdYylSNhJJvkF/WL5zlfr+7OKOWzPNR87CpQANJMqJsHf57ra+w2QJG5QHOsSxl+2C7oO4sc4KOoTOaZ8vDQ+3r/Pe3qPTTO8DpXpoy3H5lsyV6+szoxrkkfZKgij6s5rXHMi4+QemiX4OtnRUWXPOlsJP6OHpbKhyA+G4R8=;EQbaGMcmHm2VJhZ/Te9j8Q=="
 ---
 

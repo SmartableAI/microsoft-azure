@@ -5,6 +5,9 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/implement-ci-cd-azure-dev
 type: course
 price: Free
 length: PT28M
+ratings:
+  count: 17
+  average: 4.5882354
 heat: 50
 
 provider:
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Implement CI/CD with Azure DevOps"
 
+secured: "cjCPknFBzdqcsteEBWnwIARrfZZL39bGciBqJrcK2v65PN4aFi+mxgl0q/V8eVkyPU074rqw9orLA0h3g6MAguiSkV94lve0iDRUGgHnhQjSYslGR91r9llqZK5+f5FI9kf6UstIlc9tyerlB5CKXrWvb2xJ3v78uhcXwm9TO0yJZY0PHHNABm09Z4VtoFMWVt6hBPu8FDjIK3zMJHkz0focoSgpeK2sQp5eL6sEsA2ewLhjnM9oY8jGGWyDKZPLF0Au0+kUpErSaBc5+etHjiNIELV3hUY9xCQtOfYUEkCvYZMlFlpXabv9IuFDBsoRvQ0kfiidfMXC8LSppCE718SEEmur+XaOR5GgFVObksM=;W1oehn6NI4qYBXWRXOL93w=="
 ---
 

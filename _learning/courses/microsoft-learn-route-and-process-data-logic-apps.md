@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/route-and-process-data-lo
 type: course
 price: Free
 length: 56 mins
-heat: 50
+ratings:
+  count: 1139
+  average: 4.5399475
+heat: 87
 
 provider:
   name: Microsoft Learn
@@ -32,5 +35,6 @@ images:
     isCached: true
     title: "Route and process data automatically using Logic Apps"
 
+secured: "Oxb3BrfoD/FAKqOJbJHwM9oqvAKTEn79FYmxtAagrrRfaPtjgIfz4dOAsePv8k54MIhUQlyoqjCRmDqL99p5Dufw/Rsdq6K7Uics1FXTMQnnqLMcDqdF6WbyDhkDUrDgsh36rX1TKuLHj3FMgyOBU3xyXB/gKM9uTkR7hnE8YRa9/gPUHt5RlgAk5Nqdghg4bVBW5wFLWAu/rSsfAUUeu81lsN1D54MIT0wfRprUNJvcumrulaA2lldrLrQKl4/nGPzVTgVvWotuAL7uA4ONZacgH1Qiwcoue7CaKAzYX/tKpHl+xkvRRehVUQJGJlXjCIdN3+eczvaY+Md4jr0Ek/bPngQ4rSmhdBqMLKRpr+t4rFJg/je+US6sIW+gpmJq;TCERN35BfBAuDwUvcQmzRg=="
 ---
 

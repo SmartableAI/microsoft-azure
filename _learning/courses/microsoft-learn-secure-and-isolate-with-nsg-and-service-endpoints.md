@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-n
 type: course
 price: Free
 length: 43 mins
-heat: 50
+ratings:
+  count: 2389
+  average: 4.558811
+heat: 114
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Secure and isolate access to Azure resources by using network security groups and service endpoints"
 
+secured: "xMHJ++cDx+owm6tAduigmJntFMNRhJsxdjikf+hXJ5CTfc6VIMk3oPBHChmZNLNGgHqVUl1yzkrZRWVBGMX2oYRW+8hkqz3ZaHFWYvljkMTl6gyYg0I6RX7a5hWJjkSvcBiJ3/Xh2SOahz1Uxk98rALBQqTRqDBhZfTe8/ZiVnpBK2Hw+2BREqdyUcL5OTr8q0dpa/rLFuXaUsWRolbOgVIHt/wJ9ZOOA+LKXu/ytiKGKxsi2KrRvjMu8mxu4QOu2yU/c1q65gE4wl6ZPVGXo0KTCGlr5IEzHf3HoHiRxW+1byUfltnMzLSk8suyhvDRmcsQ2jUf+aGdjrY+9XcK8rwEOQQfImPnKERW69SUS8WpHTOLmkem9sB50hwvSw2i;JzuoKQlKFnWdRHnnGWQEYQ=="
 ---
 

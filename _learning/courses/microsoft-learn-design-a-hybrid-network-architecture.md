@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/design-a-hybrid-network-a
 type: course
 price: Free
 length: 47 mins
-heat: 50
+ratings:
+  count: 700
+  average: 4.5857143
+heat: 75
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Design a hybrid network architecture on Azure"
 
+secured: "8wPUPhRuGPWJJ9LBxG08AI7cVLV48uaD1nV9Q3qVbgA3wkFwCeJH4fAR0RTfte79/vMZfMeZ94SDsUlzbAKrk4gluF38WC3HpcuJ3C4n63LAhMV6q87DrADnczZ3aGACKoYooX02gjZUddtyDDeNGrYzs463jRNfrPA2aITpHuO3bO7euInY6aZpmoh9CxFDm4HNe1gl+SPQ/kZcW5L4xw/e/khzMQHcg4KD5yfOe3O34KX0LVSBIXqSNIygpnR53+YCbGrBS777MdqyqwBHIWCN7x/dODSkKhllD6dRom4V9nj+Ii+vdBmqRJqvhNsKhsv8IrmvwgWJx1LTnDAyGXNOop3YmuU7Pl3t3uu9alTNGY14Ad5lwH2NFbF85c9z;5y0/6AEnTn635AJg+R6s3g=="
 ---
 

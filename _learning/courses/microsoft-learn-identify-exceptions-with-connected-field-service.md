@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/identify-exceptions-with-
 type: course
 price: Free
 length: 93 mins
-heat: 50
+ratings:
+  count: 53
+  average: 4.6226416
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -22,5 +25,6 @@ topics:
   - Azure
   - IoT
 
+secured: "2RrUwpuqZh8eyz+QLJwWs70SpRt3YnBFQ3/gYUkwRpZUZSjymqAHYXvIENhY51bekKbj9UTHL3vxNzrIxIZdeCrgck0aEbOPL1djRgU/wceDnpeL8Ukst383Sz+rmhwhSgN4qCDTvKv558mjp4qznzHF9/M6R4ASEsiRUAanHVyc+d9/r/IJgRCxYeF5gmKFCo4Sb1bAbV80TTMjcfxArnmQtZd9p3As+cvUbtkKaAjDayH54wMqF1DJZeuRP0Tzm+lZ4wt/RRHCENgfKcOdD/LbyNhNSI5J6N22eprRap78tj3M6MF3peQouTTJDubtgdyFQ8nEZpFtx5m/qN7dT04htQ8wyvkL+z9FR34eWII=;3cZPAHhQsuL0/wZoiR+qYg=="
 ---
 

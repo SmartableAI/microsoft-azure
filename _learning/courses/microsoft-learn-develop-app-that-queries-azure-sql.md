@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/develop-app-that-queries-
 type: course
 price: Free
 length: 50 mins
-heat: 50
+ratings:
+  count: 1953
+  average: 4.530466
+heat: 105
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Develop and configure an ASP.NET application that queries an Azure SQL database"
 
+secured: "1C9ZzpzwJbS51ZghnZh73vV6dDMlXCHDJuJbe0ymzDd/whco1O38PWGwIaOh3I9CslzZ17i7tkI1VWwG8ZhyDCjj7socnQypRLcYX1EU6mV62dDBSIKe6Uh0YKQiTPTg5zFJVirXlrHv2OUvMs5qgMf83fDYZ0suODMGHeOCQTwdBw92HXRDHBNSjdDLqcaEzK/lUjaX+rIjq1JDWT9dhJTzdKPFQReZ+1HJ78PuzOo0TSygl5u5q+J5RVBojKdHH10CXnzs5yMR7nqOTRYK4nTHcXGKh7MoEksw6ry/LSwcBDOFb6oeLBs37njgJ4ugvYOSad9EttGBbFPiaqdl0z3B/ySSS5LFxW34TkuaCcK4Ga7m+9AqMYdDfMz+k8gl;MTwbim/J72r4Mv8W5BeZ0g=="
 ---
 

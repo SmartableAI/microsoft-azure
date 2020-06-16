@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/introduce-foundation-pill
 type: course
 price: Free
 length: 25 mins
-heat: 50
+ratings:
+  count: 283
+  average: 4.713781
+heat: 61
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Introduce the foundation pillars of DevOps: Culture and Lean Product"
 
+secured: "tnE1HkpDTtuZTGqKrGJoVEGZo6Swud7psWvep9Ct+HJrziu5Mv8fCaYPPRWHATKsb9+/Q+MyQ5VwJSA6kcWIZ4/2rgvVnmlj8G2a8JAjFUD0B2Oa+GT7LUxKXYZxzG74RcaX99eQuH4rFACXFGkRdEBkeTS+fsli+2v5uvzly3uKM2/7nz39XWfIuDuVRZK7bzUWwbbCSleGxGiU46Usg7Y7Vkx4qkJkAIpwdYhyKnKgVRqji9Kdpp38Qa/mkrtZAXaGq8Oj1nIG3z+aqNyQRY7tmrTEUOmypiCRJ7SMJ/JPPyQdaFMnZj/g0L77EP66mHxuu6nry3GwDGMg2yI1MH3b+D4rFrKmTzENArUgdqP1mO4Ys1wAC7Z8ealWACB0;YXgA4iRGXHkdUmsEbNgnFQ=="
 ---
 

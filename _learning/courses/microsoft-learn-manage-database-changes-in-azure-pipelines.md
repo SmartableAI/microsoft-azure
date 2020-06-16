@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/manage-database-changes-i
 type: course
 price: Free
 length: 74 mins
-heat: 50
+ratings:
+  count: 481
+  average: 4.677755
+heat: 68
 
 provider:
   name: Microsoft Learn
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Manage database changes in Azure Pipelines"
 
+secured: "dysxHAyMiR6/8QEQ2vJH4DP9Zjr72bQB0nTbV1pPpcrVxmAXQmSTSH6Oop4eyE8UBJYPqg21yKKm7uFksI7BCu5Sx0eJzHzBCORwBSTUE9PLCUxYT1pa4EC++mHPyNfxG1PIAkaC6hXAM/4mYxuE8HzYqWnoRnk4iNx7OLwuYMM03It6LAlwOUJNbKKLGatKVe+FILR4+b5ZGX32Gdsgimu1J4YsagN6OqDBGS0bnJivsn6ByK1+cK6w/0YIYwZJuDor9ooo0gd3ObZvigidEpfrg0uMiOD3OP2exvqMnFV67PFB/G5wP1Lk98TdLNLNsjQiVEuuBrRMWbayvjmirwitx6oC2HLHN9NNKmbMdOHyLglc3GpkGTDyQgVuGbiJ;qDxoRho+lPop5fr/MZpzlQ=="
 ---
 

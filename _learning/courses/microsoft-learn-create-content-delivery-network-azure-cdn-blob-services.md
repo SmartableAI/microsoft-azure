@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/create-cdn-static-resourc
 type: course
 price: Free
 length: 63 mins
-heat: 50
+ratings:
+  count: 382
+  average: 4.7408376
+heat: 65
 
 provider:
   name: Microsoft Learn
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Create a Content Delivery Network for your Website with Azure CDN and Blob Services"
 
+secured: "EI7FvyaWZk3z1/PlppLNXkH5ETVHmK0SREvnKjHdGL+JjTJEvm629vxFcqOvG7IX47R36xThcqgrNrmIfr6yWiizffYNs8i8/Z6s6Jr598XJyjsVHtw+T//Ei4Eye+ueoTIDEIJV4Y+VjU9kfbkhsnAXyH2WXgmYCk9RywNowFrKKaeIqdhMM/+Vr0mXVkblC2yQgEHjNPC6UrlgbExmzEXDj9kCKIc3mqFSaHECEq/mc9p5RwWtA7PDi1T45vADgznZSYQ4eaM3DVxvpt/XiXGP6MtwULErb/mLCMkDcgvG4Lf9J421VhqZSxziNmsIEIlAiOFQSISIG4kaFpwBYsPo7P6XVLZyr8gP21jhHME4yDE1YN+lSY2gVg+n/ldS;DDXpAtGxmwv2jr0SWxe3QA=="
 ---
 

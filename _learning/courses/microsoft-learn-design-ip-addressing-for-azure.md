@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-
 type: course
 price: Free
 length: 37 mins
-heat: 50
+ratings:
+  count: 647
+  average: 4.7202473
+heat: 74
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Design an IP addressing schema for your Azure deployment"
 
+secured: "bowWklCQOJ1vugcZDzaY/eTRr6t/FyMMhsFPg2YdccSel7GmS+vl4hliXVWXftCC/V9sAG+3H4RjjNZMy8/LslAaeJ5WUkYLQOioXSLLf26chkpS9YnplfxLpwHWvW2DyrFcPMJBwiHuI9eqmbRlkaTPiHXza2Jx/qQOnED0GCICyoMwbswl/C1EHaPsO83nMULbhJiVS/V5xODbrXa72y0bYwHW1BNWzO+uMV7Ao6K88BAgXKMki0RvIOmVJrd9+/mWwsGXPpQWs05Z8t0bnAeaIc3qSSlKt0oXvzkW2rmuoseBE7cwp5qoER+YANU7rx3vFb6YjAxKtxB3TBXqHOeR4n1p1zkdqaWDMiya3UOUVgdY6V+YBmBHNN3IyS5f;VnAp2XBXIOG7dD3QH0+dtg=="
 ---
 

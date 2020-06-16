@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-dat
 type: course
 price: Free
 length: 30 mins
-heat: 50
+ratings:
+  count: 1350
+  average: 4.697037
+heat: 93
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Introduction to Azure Data Lake storage"
 
+secured: "xxcHBzDpVa3z5Civ9j1pulflWGclrFrU/KLfHiawqNHae0AVuL2BCqRtjPM/Jw/99w8Jog2KTWUgdTzfNhN3IRTVIIDrmbvWP6a5OS+pcteTkTjk9fJSjj8RVVMFzgSfmcX3mB1YO/ZEnrfYeiATo/ahCTMSUkTVAnwY+1Djxx/2WOOtshBP2UuDTjdO1Dp2JgQCzlIEydqxxKSQo2efJlCk6XtBW8vyl7WLDClHM1hqtSzR9cAPP5IstB9WxObT2gLQZlVwW3/Pm7/d09VcZxUbeSk5Kt3s5EmXzw1E5mQRh+kqgRsFwZqOIaSA876KaxyNzYG8oSAzpx0d1KGd9mrtmtUc6bFLRBP3uRxiQBn3wYqHmBOCMu/CsIp0nhJA;39wVeqeu2Sho/zQ21Pfs0Q=="
 ---
 

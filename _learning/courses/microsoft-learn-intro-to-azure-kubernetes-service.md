@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes
 type: course
 price: Free
 length: 25 mins
-heat: 50
+ratings:
+  count: 2664
+  average: 4.594219
+heat: 119
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Introduction to Azure Kubernetes Service"
 
+secured: "+KmME6hVf6JPpfX5rRF86aDiNu3anj0VkvI319CnyLA+1WzIqGR5/wumrslL890npRTkTuovduwCyJKSXMPurWk0qIAtZDrSg6tfDoWYpPz/sP7ihpDx59Qn96LEFlyX+tNyNK5MWEXS/ST5cuUnsjTTLJWSNIGvn5nP0tAKrbolUyllSL+/Hj4RJufeet8PfcPKlk2qxaIQXz0uA5dYknjSALZsZpCCh1Hm8mbxB2rizes8lvc6kXq5jCF0MFgaCbyt8xvGVTGaWJLrOt9xfIOOwJ603yOj3lj367iu+fmOCpa1x1JdrZoYYEv/hkm4Gsvs/fA0vEdwiqkPVeJp1GrWdW540AAxTFayuhK+5KvQOGOpPWPw4uWAPtdl5Qeb;LudJqOeyNRC2AHv78DAg4A=="
 ---
 

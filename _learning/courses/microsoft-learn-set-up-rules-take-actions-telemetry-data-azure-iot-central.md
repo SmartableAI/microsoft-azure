@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/set-up-rules-take-actions
 type: course
 price: Free
 length: 46 mins
-heat: 50
+ratings:
+  count: 76
+  average: 4.7236843
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,5 +34,6 @@ images:
     isCached: true
     title: "Set up rules and take action on telemetry data in Azure IoT Central"
 
+secured: "SCUQUaUzzHvR7KLocY8SJaycHXRZsJf2uOlLaCHXfserv+AF+fW7ANkpLFLZtQvaAKYcxgyM4qcYk16kOGw7f6mYaXGln3vVu3QAmRQJnZiMrzWOijnnxXHLvsQsxA/QKldkbIIw2W69TNDAtj0urQqRs6oYphhoCxIY36F+vpFKRYf6olnJlm+ME4MuVmYFmnsWr2D0f/xg1s8YNbignWksGq0TNKxHvDxGxIfoEo2nnJm/8MxNsR/e6dQI3Kwl4b2dqHaY124wOY6GRbVWm4hJ2TIxtxQmQ+N7Hl2CGqtEQJAk/Hyd7VOxewzoeARp0Sxv+ClV9dZVnJidDMjySbRrRaujhL4h8p/f5uhIu1c=;uCpPbQJsJ3nFCMl/X6TujA=="
 ---
 

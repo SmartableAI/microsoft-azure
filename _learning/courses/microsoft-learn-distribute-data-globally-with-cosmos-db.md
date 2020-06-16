@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/distribute-data-globally-
 type: course
 price: Free
 length: 31 mins
-heat: 50
+ratings:
+  count: 1208
+  average: 4.6142383
+heat: 89
 
 provider:
   name: Microsoft Learn
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Distribute your data globally with Azure Cosmos DB"
 
+secured: "tW6YLvlBQyyZDHNzt0Ex0RsaVkl/KRwAIyzC5r1P/B8O4IzoMtnig4fN6YcMK5EAR57v2weUI5e3Q4LafgAtrGFxfV5INK69XNFnt9XfaGbKWxctnUKnMXyarl4RsKbBBvhbnv0iM5NJHvnBnafdOi07LSgk2/d2oZV5anqHm9uSxh+r2iVvnYPHnlRK/kB7nD8hhFZknG8xn9JOc7XguBh5ioG/8D8rwhW2dkf3UThvmlxGSrqPBgel0mzLcDuTvluaxEItTPJpbmY0Pum/I+YGE2X80X7dXR/UIoCm5vnKV2cMkrUyAEboR1x7hRcJU/YwEogmCNdq2oEiJ7Bk0IV5rqDjowq3UqRZbyUj79vnhxXeoiL8Gry9xw+5k9ra;2KgtCzxrHpL/1x5XH5FaDg=="
 ---
 

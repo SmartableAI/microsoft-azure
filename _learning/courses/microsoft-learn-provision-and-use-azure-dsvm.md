@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/provision-and-use-azure-d
 type: course
 price: Free
 length: 53 mins
-heat: 50
+ratings:
+  count: 758
+  average: 4.621372
+heat: 77
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Provision and use an Azure Data Science Virtual Machine"
 
+secured: "wzhoBHo3o0QjssJmuQYjHzP0/w2VDCUgb92wvSfAoEd6B77eTANMmcPBkJ5hLtYf/37oe/xqWqvjSFtvnEfueJmfVc6OaupfaknHh01O2EnQNw8zRMgkXkf2zYIst6YuaNbHEtlW9dJ8YU7aCm8ONk2Oqnk4ZY9ZkoMfdI6i5sodF0jP6Gj7nCncsMJCZFbA2iFVQaojKXh8x70j9QR9XoELqGpKHAMleCp3m/AZUU87s7ZNGSy0L8NTnjEkCQ6+kEJjWcVlXqlMejvKRBTRTJQEcdYSHFGD4hQvW1J9OjBoDVA2XrWKZami+PpARaoj6IizqNmPoZxqImY51EjYe7fzsRTk5XZBzaVxP8RnoFs=;uTZlpjl8TUiyKXSh3UO1PQ=="
 ---
 

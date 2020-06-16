@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-i
 type: course
 price: Free
 length: 44 mins
-heat: 50
+ratings:
+  count: 7191
+  average: 4.5615354
+heat: 170
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Choose the best Azure service to automate your business processes"
 
+secured: "Hwh3qdpGkxY4tNzYvGny43Rh6tVpk0wHaydTjiOtYa4y58YV72u2T1GlNrU9vAr+ItJMAOcjWQsoVOVeEJQIbw2RYgPgpaCPvYaE5vN+2LUwHXXO7HIdV2Dx2ncTARabTC2iFtK6k9VvW1kxJ/XXOiLk4wIRCugLARqBPJIay/a2cx/OkcDiqFcJNoeJHOkKGTT31aOTMF2TDYnMucSKMh9ol3UD+5VYyNfEXzoPWQVX/cG2i/w0T6fJ493qdbK6TVnVQPkPGSL8mCwvGcNbTFJtukmdxnVu8rKL2E08Kctll7QDCmA+8Z/sFfonekZiDkJIQHOJASgMahd3ZJWmjU5hv05/G+Cqgs1OLsED75T1mRgse7CNIE/o4uwnyiXr;nL93TkijzUT+iXOV7YJnHA=="
 ---
 

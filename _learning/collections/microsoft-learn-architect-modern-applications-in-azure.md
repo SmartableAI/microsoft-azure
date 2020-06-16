@@ -4,7 +4,7 @@ excerpt: "Learn how to build modern applications using PaaS services for applica
 type: collection
 price: Free
 length: PT6H27M
-heat: 100
+heat: 226
 
 provider:
   name: Microsoft Learn

@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/move-azure-resources-anot
 type: course
 price: Free
 length: 42 mins
-heat: 50
+ratings:
+  count: 836
+  average: 4.5729666
+heat: 79
 
 provider:
   name: Microsoft Learn
@@ -22,5 +25,6 @@ topics:
   - Azure
   - Management Tools
 
+secured: "ublA6kAYQY0RP4/3OF7pa8YJnZ3L5M+xFU0pZCWly3gvqTm1MsIKZ4QA2r8L/wVQStjqEM+gQvcOvvz6QIMyoweqhr/de7ImXg8ddSxBI+M7eqAKk4Vy+pap1Oh2ydT3bA9hiflC1imYpylks+xrRJrnkzWU2kTZW8DL+JiqFFnYl6p5vXQ88JauAD61mzbvjxrZXgMO7fnOy/RiomeRNGO34D8HaUraFGqiaqRQa4yfh2XkjAdNpfVGduTUTtT8GYBY3ePiNUOD6IlepM8cSdiVTfrL+UeSOnsrkgNwXQetDvQCcAIYD0W/2n/p/zDwXxEePQYNDeHfIHj8iSxZ/vcOBKTw/F23rGubeM1YFaF1RfpWgRamX++adh48vR6+;IHqPnom9zRxEPkvmhi3HJw=="
 ---
 

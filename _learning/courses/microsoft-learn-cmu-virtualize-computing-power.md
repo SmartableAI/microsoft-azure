@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/cmu-cloud-computing/cmu-virtualiz
 type: course
 price: Free
 length: 33 mins
-heat: 50
+ratings:
+  count: 26
+  average: 4.5
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Virtualize computing power"
 
+secured: "KKw2epjZ1J9xFgZXdGVpNHKK8DqXm8phJcv6aS5Xrb7jnDW769AjiRCt6o1z8lPSx5SH7Q0Wmu7oDZvvJtlznaWqUiJGwVeZc7pp3S6L+gKKbN/Um9mqq/eHVwXOdcmfbIM7cO4aiKB6bncFs0IffvFlkpXLz6MnXNqvv3B3aE54ai1KOKlEhHhn32JOyjoZkK80173QNrwE1P82n/Bawg609kgO1j3cGn5pXXUQBj6KwthMKuFa8xwLbrooFYWHoAqHcWVjGz+fwG3x2nRbaJ+lq7U6wHOujPZU0Cf6FeW0bTH5+V0Fv3SIMdegCGk+TJv6fr5N1GWzY7aFWNOp6zpbM07WdAvengjyGtnzK5w=;0Gf43KwDaF35b7uCmh9nxg=="
 ---
 

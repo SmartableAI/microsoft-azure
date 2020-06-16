@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/distribute-load-with-traf
 type: course
 price: Free
 length: 29 mins
-heat: 50
+ratings:
+  count: 1315
+  average: 4.4311786
+heat: 91
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Enhance your service availability and data locality by using Azure Traffic Manager"
 
+secured: "P+owBxPdcY/UGPbpevfbIX28/8Cj7Zlh6fzx9U1BfEtHG8L+IDd0ea9oWB6gnzcFC13ZfJZXWaNxc3b0pqH0L+UhySBSqThqQio+3t1E7lB4XefyncM1N4wjIsl38JWar+HDT51FrG+EDFdKZelHYs3IpW9iA2j6Lm9oE32Zn2BMtgdyc9C7t022msdQ0whwxI2VwRCTsVIEpJrX8/nMFTha4RDhz1ONDJztWGiGCKFS4KjnSbkS91zdPrAXRM4Biak4FA9zMZfzuUVEpEsn6l1DoMbHwOTYxaKfxlkBZWmf096FRI3ligOsJx5696XBTkTH4StWbM5Xa444liaVEjFCKnBP5N5lRR+WvK82W4gbcQavpnPGCRo/Uk/u4sQQ;F6uvurabvgb3X2EWX/lSng=="
 ---
 

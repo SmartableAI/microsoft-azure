@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/design-your-site-recovery
 type: course
 price: Free
 length: 44 mins
-heat: 50
+ratings:
+  count: 56
+  average: 4.678571
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,5 +34,6 @@ images:
     isCached: true
     title: "Design your site recovery solution in Azure"
 
+secured: "6+ic/FOF76GhnsKVP9tSAmfJo6D0nFItYS2cchW3JDtW9Hmofn4CHhkH6RpQyjfDTv0l6jTNC4Z+JIXafmRIIdDHRfMMJ6fjpl/q/ap/oyP+K4yLsaXljApUFdIIxE/grHpW9FvoGafTh6EujS4BXy0Swr7FMZ4fNeB5FuOV0S2u9+YSsECETckPHr2LfFbAeBuU7iiHsUlaQU9iCrO4FoGSkTlC8pAZpMajOSHgVxAiW0UNJ4tbJAO9ybAdan2mWoPPuKHY2amse3i8FSIwEG1WMrkxWpWTJZUgUDYH8yHc9k+5LRNDIvt3IQ6mYaC0vo3xJCqVPw9UHd0/D0o+E7/wyo5lC7bxjIa9e9ob6G8=;yS6mtcJOki5aQGF674mi7A=="
 ---
 

@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-s
 type: course
 price: Free
 length: 75 mins
-heat: 50
+ratings:
+  count: 3572
+  average: 4.62598
+heat: 133
 
 provider:
   name: Microsoft Learn
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Connect an app to Azure Storage"
 
+secured: "MJymKnQhD9zvusoYWG+ClzHZmdHUBVDcJRnZ0xWxb3NpzzqQQxcp8sAa95UXC8ipMCct/EQU+vby7nHBH03lZ/b9qjuYmvWMXeLlhJjxe2ZPEbDRnZ10g9FPl4Nh0hWMi5I9iV8rMrtrsR7MzTVJp65UNzvWb9J5f4OsaP8tziev2Yfj3q12sFF6AfPoPehNhVOdt3BfSbRfTS7CgryeEq+izuAgwvwi9Ch+bQWrSgq1ZelQ+ne52YDZGk7vhN7T2d93OjFb7Lw3FVN9WZwWVq9XA0fmGH8oeJnYj5a4cfhk4WVtEbnHsGa9SWAniH88cJyVHcyMtItqRc7A3qd8b+nobV4Ww3tjbev8PfilSsi5qVcu81haSaYVmLKGvm2U;T5Eb4m8k0kWXy96EyqCoDg=="
 ---
 

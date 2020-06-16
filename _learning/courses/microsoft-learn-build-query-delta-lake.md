@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/build-query-delta-lake/
 type: course
 price: Free
 length: PT43M
-heat: 50
+ratings:
+  count: 29
+  average: 4.724138
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Build and query a Delta Lake"
 
+secured: "SDXe8Lk8NxaugI24VsqgAkoFodMxfdkqmO6g0I0Pn7kgpx4sYasNBxBK7IYUQOF3YvrlxM3KRA3kTu35ujM+kcwAbOj4s72I/uuB5VZETXoUAadPgtvI21eB6P5YdxsShq0owmuZGMp9DOXc1Qj3NsHAZN4ptBVhyvlf26vQmyfSrzCMua5ME1rJyCNnHUlg6awEPw9Xt4Ntd1vBtHUyjoAa+VdsksoXMIVm9kmBsWNMD8CZm+WI3LBrABm3/MsyChw2ak5kIuATXRgX2/Su4Cvjiq57HneXvo2iM/D6kbu2cngJZswN6H/cD3uStqUh5oqzJ3ec/5u1s9zYwAEzDDmjRuK0VPPQJF3d0/l45ZI=;YVZUmk0cqw6M+xuZjAZWBQ=="
 ---
 

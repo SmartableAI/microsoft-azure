@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-lambda-archi
 type: course
 price: Free
 length: 28 mins
-heat: 50
+ratings:
+  count: 228
+  average: 4.5964913
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -24,5 +27,6 @@ topics:
   - Storage
   - Databases
 
+secured: "LnUqwiuOei1e9klyj2yQck/uxHiUQfhqJbiG7r3Cy6wAtCAHkolB/HsdUBFyWhujSI0M3rzQoqAz8ZVnnTMhePkOxeG/KadY3fFH28E4xAwUed30zDtDTe83rIaxwMVD79uVSMCTYVnR35uWGo3CsvBleLl4RYmgutbIuE2N6dKf5H3rz/1MIF3DReS4NWKPE8pxboxv1nu60aPiScYm7orNVWxlpbEQTDvYQcJp5n9cRGrVjzP4Tx2y7SEgYbGW2l4g9b0xweq9RvYXpc0ZBjS5yp19ygQEA+WilHe2Df55r0cDwABJ0B5Hi+Zna+90BWj4ZrfePlQ4sd/hrDbo2nuKJ4Qs9MsJJOx/6/12INkhbxry501KqLVNWyL0Rcw3;2yirKh0OWGGk6Z4pLKaIeA=="
 ---
 

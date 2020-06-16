@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/instrument-web-app-code-w
 type: course
 price: Free
 length: 34 mins
-heat: 50
+ratings:
+  count: 144
+  average: 4.625
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Instrument server-side web application code with Application Insights"
 
+secured: "UyM+3Oj7s+vCZ4df0j11J3YXsGAAonV5PIhmPIhHrrhLceMb6JIwtRBPc5WQp52TGgMjT4LGH2KuOEKTPaljhor9l4k/uaWg+p19z/gDp/RWorGTo0/pQnr9iUweLfkDxC3eGusp9OTB6KwkjIa1A9CmKpQ2D+dIjTlAjLW8Ee63J3SwL3liYgH/ncq9ZTHdAufZakW2XDr0l1vZFuLFZQt4DSl7lqGKrBabN/fq4h2vz6Vd1ViKBkAE3uVKFQvu6wMjmLqc2xShH6E2D+N4glVd65lWPZ+OK2s1AerrIYcBCLa9UZ0X9RB0tX+zWs8XHq8je6XhbK870OX+Bnl6R04SAuh9IpqzBZjTdgVBmLF4BfS67OSztDGO7fEZojod;z8nyROnkxO8vqqiUpzEvxQ=="
 ---
 

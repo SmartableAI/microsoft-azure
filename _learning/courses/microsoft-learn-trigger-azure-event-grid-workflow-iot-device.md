@@ -5,6 +5,9 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/trigger-azure-event-grid-
 type: course
 price: Free
 length: 42 mins
+ratings:
+  count: 10
+  average: 4.8
 heat: 50
 
 provider:
@@ -31,5 +34,6 @@ images:
     isCached: true
     title: "Trigger an Azure Event Grid Workflow from an IoT device"
 
+secured: "VfmWCj1AXp2MBeaNT0xYzs2q6bezqwwIynkUtYEhP0H7IuYAvjKmtsvrCKBMWRhLgbY/QNvgH2rkqAJEvWX4qI0pkZehhfHfoj6YPRDMHKq84bmSrtjG6QioobxWRqXYrM/8DXSvE/+yTdwDON9aOnntIyi6JM9Jx8xjgroi6H/+iwObjYj1a8P/EFzG7+WCKAp26ar5mC91h0AZhB1MujHA4R0SQ8Y/NtF+qAbMbovPVCE5gFAQwH2xbktoDM1cTNngvMGjnxpBb3QFwF7ZKV47zPx/0vqLOWkVjlwVtxZo1YRc17syjKeztfRY1rU3RjCYEwRv+kkbl4LP+sbnGtat87UkyH4GG8r6/sDao0E=;+WE11qfyZZGjmhUxxY0+9w=="
 ---
 

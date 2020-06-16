@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-government
 type: course
 price: Free
 length: 80 mins
-heat: 50
+ratings:
+  count: 283
+  average: 4.7667847
+heat: 61
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Introduction to Azure Government"
 
+secured: "tVmeVilE0Ipa1U3gSBEds7wxeEilcJ/oVzQ4cYVSkUISn0Ahxj6srO+kW8hZ1Bi0odywQ96aOrDJnfyKGi/qVpmB/b7FyfHQROGmTXi0lfI7olTJP3motgeFSk1MC8pFdZP2zNPH3WgZs/5jORNSrT5Mljo6+VTCUwDqzRi7cV8LZSZFX6HE8TudqPX6jRZ4nivTRbxAYwRCiPJu9vbZ+IiASul6aardLShx6ejFhQ5GQ2bl00mPNjhMHV9WrfRxK2CtIbeHWk6jgXRTXp089CnR8xwqUFdyZT++37Mt0GKtvDtiPJR7kfjEkq/E69lgLqUiF6Uy80x0w70GZ3vWkkiQuCq6CmaMzN3UQlFdOU8uOMvz7MpCYDNY01qqH53/;gG9H1oBZfPJkpv9MSMLYOw=="
 ---
 

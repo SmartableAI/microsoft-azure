@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/cmu-cloud-computing/cmu-virtualiz
 type: course
 price: Free
 length: 21 mins
-heat: 50
+ratings:
+  count: 26
+  average: 4.6923075
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Virtualize I/O"
 
+secured: "I//hxxZwNy/oPMGTvEy1svBT3GtyHHUxAS/vssb80M331B2xvldIU0zLsqHviKk3ZSfMVx/bnjPTgBj4e3pGdkhdqYQLl2FMyuvMU1X1dxyHUexka7HWPhIRqEsYTsPqHHVZpS6/8bBrSWLAyQhD3HJefFqFSlHTuIRF6Yfv4M/GP71D8ILY0P7++Vlgu8QF0hyaiM2lFauS54/MPJyvXPl1gE60PhR21OC0fNpFTwRVI7lbjgmRGUVyGPpbYH/7AEPVHkYdXJj2HcitvK6BMYfWM69fpoKgg1FabXnNOIGQgk0CcL2J210+YII8BicVNrN7V0ZPFu3AGvMZkiy43x+zly8YOdrqh9ZWjArGnQY=;s5GrXF9VavkYGXDnRRb7NA=="
 ---
 

@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/m365-identity-overview/
 type: course
 price: Free
 length: 8 mins
-heat: 50
+ratings:
+  count: 1234
+  average: 4.7090764
+heat: 91
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Overview of identity and access management in Microsoft 365"
 
+secured: "aD1rZ3OsfjFEgTsrL2PSzvA3Ods8oW56AJ4Wxg5cGs1QHz7TNs4RHAjFS+E/uTgZKJmlV6O0+bO2jBEn1eVnAUL8RH5dMHww26Fu60tBQ8TafkHOHyxD/VTTkWr/bq/USfmhWUvRyA5BnnAy+RWqDDGMzVji8lWCjPC2/SAe0Dir9ZNpMT4JjaimCpZBN6EJWLTWuXzDTgiE0wifI6/ZK3fASTEUlOucTWv7eDqP+zxtRD6bHP8hR8ndvdSPJAqiSiwocdWQLsadUSRncqTBWR1McJDHc/jJVdx4AA7YrDOgA4RhTIuLbNO0hbCP2W/6fBkSIegGASg5pSLezTCS1/ATM0ZTwKyScUpPf8q3TgwiYwh1ke+dnw1ZN1MF6vxs;LXRQlhaWo327sRGAcw+kPw=="
 ---
 

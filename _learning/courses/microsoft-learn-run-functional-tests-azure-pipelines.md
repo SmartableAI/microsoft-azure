@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/run-functional-tests-azur
 type: course
 price: Free
 length: 63 mins
-heat: 50
+ratings:
+  count: 471
+  average: 4.658174
+heat: 68
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Run functional tests in Azure Pipelines"
 
+secured: "lUPaKyf2EFcNzHE0c81Qr+xDOSaUweDlcmv/2f8+Vn2p0l/pN5J5Hn36onrWffKxDUfEWK2nQf+UQBVElO5vly8fn+mxvlZo5nQAfTHMsfGg+MTO0zuOX/5XI+Xb48fonqqLLnAYZwd3NcGLLx6/NUbz3fhEW7XAes858VxQhlu3vb9U6L1MStRtGPZrbLRabSCfNpfN5yGZFJtTd0/oy5auWMl1HZ8+4FCwS3nPKudGq4NMV6NZFuZDfwlffF81braZ+PwpP7+C9Z5LaMOrkFH+Xmq+2nyYEqWeHoOg/r5whqb02Pb8yroenW9NtIBcZsiDJcKEgCJbKKGFO0geTzu5BH4tuSFTToxtlLFzEh8niq4BT9G/e84WhNpXTOhI;hPajOsAnfCXIRaIbUx+MFQ=="
 ---
 

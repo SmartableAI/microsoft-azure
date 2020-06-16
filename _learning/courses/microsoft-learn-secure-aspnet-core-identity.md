@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/secure-aspnet-core-identi
 type: course
 price: Free
 length: 68 mins
-heat: 50
+ratings:
+  count: 534
+  average: 4.4925094
+heat: 69
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Secure an ASP.NET Core web app with the Identity framework"
 
+secured: "UDyh73zl+Hbkhc2VXGlPFo7CxciEYV4/bjITS6rTAEiDFdqi+PRIdKbd2n4kALCHWVAvok1+doRXcKozOicwPQD3yG+16YZF468tDQQvPtPiMwC/99PN60XSBMBoRfVGGKOTPJM+xVutB/e6zefiLu6sDUvGxlQJXC2j2a67mYhAKrJBq/gBaNk7K2wjaK8hAqoiHSWihwB8XCE7KIEuuS02dI40XD0o9BKuKQb7FUK2eB7c0531mnsrx7kMFqFNtvSUO+3LxfhF7FS06GKxoiog9lFqSTShPNNtUwI5kXIyXprE4pyVP9erRYoq4mvH5rOA8gVTPAQxes+nsy2r31t29z71FN4z8Ackp0eJYq4v7Ce8hZj7kBCVUdvG/5bg;m3T/anAuJoghVj0LVFRfBA=="
 ---
 

@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/train-package-module-iot-
 type: course
 price: Free
 length: 86 mins
-heat: 50
+ratings:
+  count: 104
+  average: 4.451923
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Train and package an Azure machine learning module for deployment to IoT Edge device"
 
+secured: "PeFdjXqLAMTcJZX8nHsHfVQiPFMMiODqI+taEvQa9sV+V0UwldTq1lPt6ZzbEcNrs2qAt8yd9LeH3KdkmW+F8c1fQ2qztT7t4pDQeiG4iSGB5zrRz3u+YeJd4CMr76RzgObig/41pQJkVnpJz4Z3JWnU4voFXGNrsjLmLh/Xin+oqNYOqu6O3/mdPxo1zGROMQpHyRhbp86llfYgxlS8uTwxwFv+jGEjCXOhvJW52PeFlOcaI2CPof4jd5ovPsQ/p4AYtrev8paL9me8hx5BvYoH3uMrVCvDLXYzgMvswJDVtCYXrz65tvtg0O+AY7idh5VHW3B0XkJM22CX5kNErKDhK2d5nu9an8cg6HRO4Po=;Odj5kL8v/j3YxQ5iiYzOMA=="
 ---
 

@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/create-regression-model-a
 type: course
 price: Free
 length: PT50M
-heat: 50
+ratings:
+  count: 68
+  average: 4.7941175
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -22,5 +25,6 @@ topics:
   - Azure
   - AI
 
+secured: "IfroX3ILQtoPI/Q2dkRKcKSCAVOA0aSps9sANMYIep46xEXzDTYUqjs6Ow9MmBJRvBXBJNSL5INT1t23/IIHyteC4mZw2d652pb8AL2w66uSn/KPuGG9x9UIhPxBHD9LdM10a/zfq3puIQwfjg24/gjCBLuFwR1zJmtz9yZE1vifYZ7t/OLJ7to2RuRjMsHAEt9/fNHUbEHC+3oeTvFhhcUdF4Hq51rr+wehi7rPLCBiYni7N3sH6pnIFdA77vAneTOHrl7TMwxehRlA4zTdweJadcqvI5d3Jm4mrXU47jkiKeD0sQsY79qFsKJhMMK/M8Gzd6HwqCYDd/LFKyw9dh40LKHFyfYEvVd28IKDIfU=;TgHqiP1BfEwPcI3Q+rxuFQ=="
 ---
 

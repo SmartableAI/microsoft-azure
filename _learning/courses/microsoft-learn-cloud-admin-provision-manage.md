@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/cmu-provision-cloud-servi
 type: course
 price: Free
 length: 41 mins
-heat: 50
+ratings:
+  count: 117
+  average: 4.6837606
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Provision and manage cloud services"
 
+secured: "xCfazp4Yb5r3CZMWT4POqPJO1aaVRBWec5xHDdbzP/sbk+X1ibrbx3hBFlDb0POhnugym1lPFLlEr+rVk6lF2UWW73zCHhtFaYJiZhL3UzD295OTV4lwVZXTkRZd6AMpHwfAh53CunJ8hxOSjqgaXD8ZfIjWw+pOl4ZdxbFDouuLh0sDd5Y7QuiCC0dCw6ju2r99viI3zyE39w0FWzWRgsUb8UsJKP9L31X2+W8digap1Diwc+/II8qoEhcnfTfrNWInB0FyxOYEY+ZWOgQd4fI2oIqLdFtoKpMcbZX/hkxtD2HKUGNGe0+d8Iuk66PpRh/5kvTksiWxqa3zY1Oh075uEWdpv7KoAJAoG2CNfNBgnVuyHfpR2fMmC9Gh64p9;v1Hr/Si5j9Ze4xnr8nGXnA=="
 ---
 

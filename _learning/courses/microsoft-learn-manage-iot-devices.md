@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/
 type: course
 price: Free
 length: 44 mins
-heat: 50
+ratings:
+  count: 550
+  average: 4.6563635
+heat: 71
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Learn how to manage IoT devices as an IT admin"
 
+secured: "cEhvVw7MruIG9FOLqXNqYr9hNJOFnoJIGP75Ncgcl8xfdxBiLqNyjqJrSXBIR9tDcGcG5pAItfwqc0ilY80P8zD4wQ1Kvze9MCwVhHTmMp38Yr5lhRqEps2z5qrciSGjN6k38HAEFORezxw+h7XQxsmFRbgbi4eLnqEeBA4bYtpxLgiqsssw1bBcXQEkA9+NWsktOkX7e/HSTDVW65kKXIIaSRp8NPlXRLe9WTW9QPpv8QB7dQvyqyStJAn0d+30nDEcAAdHOxnuLgjM44BsQk/WRHxlZ+NyCZrS+ijcaiw5bKDkOFkFyM7EaRogwXE1Pno2iSg2pLYmzFZK8LHNeAfYc1X1NbYuo25483xVayAZrJ7B2x+ghXdi/x02NKP4;+nc8SpRxizJ9oaGLf7f20Q=="
 ---
 

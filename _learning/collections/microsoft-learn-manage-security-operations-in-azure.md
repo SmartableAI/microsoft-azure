@@ -4,7 +4,7 @@ excerpt: "Learn how to configure security policies and manage security alerts wi
 type: collection
 price: Free
 length: PT6H49M
-heat: 100
+heat: 174
 
 provider:
   name: Microsoft Learn

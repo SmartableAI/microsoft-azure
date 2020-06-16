@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/manage-iot-central-apps-w
 type: course
 price: Free
 length: 45 mins
-heat: 50
+ratings:
+  count: 74
+  average: 4.635135
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Manage IoT Central applications with the REST API"
 
+secured: "sOmiUxcn6AZq0aNHeYBuJu6OXG1eQqecQjdbwYQsJq+CiKGHY1i4J+7zB82ufzwtWKqCSvqqEYELsJ5rutHFj0Nf++3E6ntWT6ZxrZRzdl3JqboewYh3rhtnLifi2SqKKqN14EZ8f/6gN9XKaMl1I8jTCu274/4+WrYyH2s8GNAZ/gBXRBQR/G7p/Wl1gp7a16VUcMA4T2te9X4xs06L1eKykbQr371aYVziPNFc9JW6dDyNjoBJLLEwb0E20QCAfTE6dFZhDuOcFR1gXftSfh11eJpk76cR7q3xXIipZXaezrQHu/y9ZSl5oS8zhpfhCKuCYm2iZ+OsKhqDsznb3Px5GbKbbJXXq1QjwEGavx8=;C/3Z3JN05Ntk0hlR/rhkYQ=="
 ---
 

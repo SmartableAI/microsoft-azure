@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/store-access-data-cosmos-
 type: course
 price: Free
 length: 29 mins
-heat: 50
+ratings:
+  count: 1052
+  average: 4.6045628
+heat: 85
 
 provider:
   name: Microsoft Learn
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Store and Access NoSQL Data with Azure Cosmos DB and the Table API"
 
+secured: "RrkCONiIMNxuoGoSKgUJ16BlhSVO0T4MU3LvCWtxcuO9VYseZELmmGsFMAetWOrrr5myNbhekDu2in5Q7aliAoVkCyFfowBP/Zr0dxf+H+WPavEFb2Vwu0RdLkZJb6g/Zmvffn9wDDM/hjQWlc9UhPJEJcdTEg0Xmmool2LDO+1G79lhVtrAOpgPNZqvwEuK7Ad/qVoo3HJbTYpNu4NFO0H9o8iznu5HzYIdboMC5TMyUG5gyIUorfhc/J1rz9Pq5PjTNpUJZPRAs7dcJZuxWm7of3x+h02sL/HR+xMIYEv5dYy9a6k89jE1BhYwS09y3N4ZJknR0owR7/Jb4x3UO7bimv8W8timgAwbUaQV+L9tEzxm/2nzsc30e09G90Ic;YOqm8RZ1dn9rOMcSL3C+lQ=="
 ---
 

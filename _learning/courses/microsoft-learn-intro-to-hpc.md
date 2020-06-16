@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-hpc/
 type: course
 price: Free
 length: 50 mins
-heat: 50
+ratings:
+  count: 628
+  average: 4.5636945
+heat: 73
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Introduction to high-performance computing (HPC) on Azure"
 
+secured: "dtHYO7/53DWXvLO5aH3/iQzAGjcMzYJTipzstQvm53dxmB6+7FQObmtz1+c8/kxNjWahQZLgmlfdCjApWKeJK0K5iJbVjcGZjFZnK5ode0x+CmeXa+NkFI23L2VFpCKVDZw1j19IrRFf/RM8d3jfR2y3EG48AUnjBtOY5x9FkbBN7Nic7unvLVvIVlTpxrNteM7+zKuswRNb1DwMam9uKd6yk1Q3Qwy01AX/17IboIq0fAraAUMXR9R527AnU/x86+N9jAnglsbxlrsLuzbw96sl/oPjXo00vG/zhNn6egTNz/oOsX7Tvi9niVhM/5R0hhsp1YBy80sZWDhril2ZLlDzEMnopksoI6etGgyQCDobbJM75MX3OetTSypTslmI;oep8bmx8j6F0O3K3KAyW6Q=="
 ---
 

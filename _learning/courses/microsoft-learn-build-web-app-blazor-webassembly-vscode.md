@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/build-blazor-webassembly-
 type: course
 price: Free
 length: PT45M
-heat: 50
+ratings:
+  count: 939
+  average: 4.6890306
+heat: 83
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Build a web app with Blazor WebAssembly and Visual Studio Code"
 
+secured: "Ff0Mzhk+BpS6dfNTpBllJLl5V2fsVv0SLc9UvOCDOpt0VbnI25QDYcOQp+Vnq4NG191EzEc3XaceicJU2tvcy28BzM5UTRr6JW58l0xbELXCNui6XQNWDdEmYn+0bLErqIyvB4SG1UlFIkqobW+eo2joeU6PLwtDsJ7ZuLmlEGhvC/cRveZkglVHSyvE4TM/bnK91rYBvR04GR1F+DDL0eXf2etPAZkFmCUQiJLWPhGKEmQ0FJdWi1v9k+et4ZvP+qsSA/Nx2zykegfbO9qnh3vNDYH0BphZR4pVug/L3JdX9KkwjETPEeNVrVqtOYew55qIgC7Zq5PRY7TdixJcW7/N4DP0oaLEc0xTkXgHpM0GrfMd/aXrwsGhn8A1Xljw;HnfCLbWF4lJR4s9pJKo6FQ=="
 ---
 

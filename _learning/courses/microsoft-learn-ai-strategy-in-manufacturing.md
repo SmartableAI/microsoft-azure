@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-manufactur
 type: course
 price: Free
 length: 41 mins
-heat: 50
+ratings:
+  count: 619
+  average: 4.7576737
+heat: 73
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Define an AI strategy to create business value in manufacturing"
 
+secured: "smmZurvTcQG11XcMj0UBfSEYKU2+0KaChdyAruH+UdTRDBa0QHj+rOV7gAaF6rfLpNafmdwzrTyMADd0AyYMJ+3wutIB9FCbDinCpnRdTVrB1Dw6DyEIXDlWAsQlcXL3Y0dAJLIxl7LsrCELLghBm/nGcnAGUrkov5jX7BqnelLSl4WmkcpF2Z5mUeEu66iGnjoFqJejPGhHPRo3j2TCVYxz5q3iwgDTJ8WwfjoV9YlgWz34MHoDlylU2KwgIIn3pULvf9y7qi4XAi06q8R8qv2wjyGc2NNMwKOBaiIZFtGfuKiczfE1CDLaszB2AnMya0Jx+V5z/V5Li7c0RqXm8j8KDy8BlZt8rRuWuvuQaDNA8D3cpG3XpG5ONeI4JQIB;SUdwfRTr+PAkmS2lMDsPCA=="
 ---
 

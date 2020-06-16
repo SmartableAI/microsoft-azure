@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/replace-faces-with-emojis
 type: course
 price: Free
 length: 91 mins
-heat: 50
+ratings:
+  count: 44
+  average: 4.568182
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "The Mojifier - Create a Slack bot that replaces people's faces with emojis matching their emotion"
 
+secured: "LpVGOa3VRBsD/o7U8eTkaVA2w73dhcYVc+XlMh6uwcBT5d6nejUlEmDhfo8OKj87Ht1CyW1JaUXRuqpirq7tNuR7Jlq6XTth3bIIMWtiUaishoGhZ8eF8W9+07i55CYXBnzfhG2rekpnz6anVW3SJltmRgmzX14EDIdddXpPBK6JU4ywtz61vn5zcDucbf4CV1NgwMM8JWbgNxMiDLRChzEknFkeVv61DMOeeZ+1tasYKEWKyqOEGaIJ5BPIcofamp2L3CpmuonuXnYMRJgli50FDHLjnHYhKwjGxp+0dZIaJzmoPYoKLcXWZ8WVcB/t/NKGsO8tX5Al3Uxz/dvfFdUYIDQYiQz5DjwSYOhZ9qo=;hmmp7lwgJyDsLvTsvSOyZg=="
 ---
 

@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-postg
 type: course
 price: Free
 length: 50 mins
-heat: 50
+ratings:
+  count: 34
+  average: 4.7647057
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Migrate on-premises PostgreSQL databases to Azure Database for PostgreSQL"
 
+secured: "hapkAlObgsFLHP1YkJ5Na9C6wrZsRckVf2vm2pqDOBgHyZRv9qJa7iOJKSkOPc/CVGDctIoY0s7iSmNMGFpBd5QO09nJVfUFk8PKk0rhiupy7sqFLvsTQpkDuC0yinEKtvN+Pqq9UPqYm6e1DEG3XBvTB+1nDV6LFkOT6EuIDzDjKKFMPMisWsaeE2llTdhC6cQD1Lp9twqDKXcplIfzFD4u5/zqbayj7FG2TnFD9UQAiq2DRTvSWf1W1BQpAf1yzdWyzRMu6sf2kYrxW9I3Wx73LxGLyFywci7wHoI1MgDQS/ljLYB41WzzRylUi1HhCSAiYy0NEfgZDAc3+1IUdDay4KxVFwZLyT8PN5bkLXE=;VhPelUqKSVfIeutfr+Vwuw=="
 ---
 

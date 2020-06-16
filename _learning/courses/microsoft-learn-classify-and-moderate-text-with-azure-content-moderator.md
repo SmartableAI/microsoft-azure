@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/classify-and-moderate-tex
 type: course
 price: Free
 length: 31 mins
-heat: 50
+ratings:
+  count: 1237
+  average: 4.6200485
+heat: 90
 
 provider:
   name: Microsoft Learn
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Classify and moderate text with Azure Content Moderator"
 
+secured: "LNojSrTnRFS+fx2Rgpi3ezBqU+M4KHvlbLv9CA1SjdzJ+DYjjFzOkf391Z8JamVKFpoFggDRDTlbKh18fPSXIKeIdQjqIYageeyDS4UwYEDki9qKtXsBu82igYQAL/aUp1YYLlHyCpgpyUcmDMn8DcwyT31Jx3rr+jndU9IxKuMtJUrWGbb1T7w5GtSEKYKSVgQG+qrmg/n06XjMwn6xS/iwP6jddJqlHsvK3lvvm6qlaOZfMOEER6iHt9zrYKioVQRyo6mF+07nphRONvQD0xosjEz+3Tm3lMGLtf3xihXjFNU3ZqTQmRkKmxEYX/AgEFZAgbKMR/ddv5c4oRqib+BEg+Oj+vbll4ZiCAup9Mr6pj/JnO4UOEamsxOVsbuJ;ZhLQ8hGuCX+IJxFL16vn0Q=="
 ---
 

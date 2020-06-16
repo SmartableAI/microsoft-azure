@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/app-and-infra-migration-a
 type: course
 price: Free
 length: 43 mins
-heat: 50
+ratings:
+  count: 4978
+  average: 4.7426677
+heat: 152
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Applications and infrastructure migration and modernization"
 
+secured: "3rMNGv1Pj7d8U9BmWOIoCLnYVebfdsbQGyvBHqfG21SnaYbwa/s6MIbrDRgbNjfKwTAADVw5kRPxJdPgFkvFyLiJ18q302zoef33JkEiTryp1q6dw3vxrwlbQai3Pgni2JF6xgTAix8MUi9nkItIxej8JcPtLwRwt8aqYl6z/Sm7qao5WuDOUSpcEd2oh2c7t9fh2BgIfNZJM/jzV7St3bOgnfRPIN9opCcYuDK/87rQQcjKJZ1wMXAYumnuSnHCw8EnA5bJLdejPGXB4wjadY5k2rSNWwvYihgXFkL1NkSoAxh5rb1txLbDOUaa57/XfKG/Jto5/xXpf6RYbtzsrZ+QNBjgdiX7Y6uRdkzroQ6PHQJnWwTXuAHb5CRBXyuT;b9RRGe6IuB2XJBqcjsOOzg=="
 ---
 

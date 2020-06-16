@@ -5,6 +5,9 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/create-manipulate-tables-
 type: course
 price: Free
 length: PT1H32M
+ratings:
+  count: 16
+  average: 4.8125
 heat: 50
 
 provider:
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Create and manipulate tables using the datascience library"
 
+secured: "RynaG87E3jX2KbQB+aQ1a+mURIZbTws43M2jRNKajiWMNBmh2QWREvybIkxUwpnP6fZeSu/+xN+lu6v2a/7xM2J8Ml8eKUbPaszdzOT6ZvL4a8GH9RJuoI+3GjqI4CIet+CCRtWgqr8d60aCI1yHdYZt/8vO7bVZQArnBXfrFy7nHWBfP9wxNEDis3xvWE1/Xk3kiAZyz0OOk+yQ0pI913iXVXjZmrIuGwQiZpG6ScbcE6QtuRdJsYkJI5M8RRF6VY/74bRSSbB1Ufvj0uQNdLKRu3CDi2IgZC4iBsDBsqhslZML3EXgBPoz3MOsAKnLL401BmhRUOsXKqW2rCwedbzR4/cjqzktUCMDHiXwA18=;zXmz7tYe1smUF32S6Kc9YQ=="
 ---
 

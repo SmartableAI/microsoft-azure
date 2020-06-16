@@ -5,6 +5,9 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/cv-classify-bird-species/
 type: course
 price: Free
 length: PT32M
+ratings:
+  count: 8
+  average: 3.375
 heat: 50
 
 provider:
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Classify endangered bird species with Custom Vision"
 
+secured: "M0TsfYMrQWEX88fgzlkHPcK9zbIKo3JeR3MIs//rxGvJ2AntlwHRoqyTN4G27QRrIKKFsrinO9wbDT+B1miQKssy4YIWl+/WbP0dFUy/EpOxxRr+Jn6ohenemRwW3uhyRqFz1QkIK7RXSHDQGuZQ4nwGpoFjzj7xDwJeERqCapG7FrL/51Nz1EX7PWcAx0ELzERCiNAUPxYg4l1teZvad2ffVWTqVP0j4HIrBIiacOY+jvRHVU6o4uvHEe+s8LhK+nABHwqEQeQqsaE42aYWDOrC5LAHvH7nxYPPs6C23xKHPhdUTtlW1oH0LM5quropO+ys44O7bH4h7uSmaCl3kNbCAfF93AilJGEvQkZP1s8=;f3RIhK8jG7mcbtJ51y3brQ=="
 ---
 

@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-re
 type: course
 price: Free
 length: PT59M
-heat: 50
+ratings:
+  count: 89
+  average: 4.674157
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -35,5 +38,6 @@ images:
     isCached: true
     title: "Microsoft Azure Well-Architected Framework - Reliability"
 
+secured: "MiRar6Heqzkc8kzUg7zIjvRu8XqvnI8oDvJfhri7Xpw562aVAGq4Fuys0NWvQebppdLpG3bYkGzzR65liVbV0noDKKtw97wxyl4HpUeoMvaBckZxeEvrB6IXT6WOhFEw76XW0Frl1TUVSrUuPqBu4yplSJWp9wT6gvTzrcrY4LKGx+8wOSCw26XsXSvNg8SyxHOjMBB4A/viePAx/Zg/Ll+xoAJDpNnLLncouEaudYT9W+BzHjlDdgZk+GKjZvFYjTCrFcBD/fxcF+1YBSuaRqtqNLKiBVVwQwlhMuKiumESOjt/uvk1v8XEFlDNpk4J6sfOMu2hMWLfL2ctsVA692A2q0olD6cY7nYAXOB4XRc=;K7y5UnGNEmf+cuZOUgOySA=="
 ---
 

@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/deploy-docker/
 type: course
 price: Free
 length: 46 mins
-heat: 50
+ratings:
+  count: 156
+  average: 4.730769
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -34,5 +37,6 @@ images:
     isCached: true
     title: "Automate Docker container deployments with Azure Pipelines"
 
+secured: "rL5lxYkNazwUC2cyssplWZyEXiKM9RRBKDMyg+4o6BB3JPzX8K6VDx5rYlXAqcQf80tpk85DcbVZtrHUOkFYlayDvSOIOizLajeG7xQUvxgH3fEpkVr2sO7Uf8mfkLdzun0LyX0sUMeTCgxXj/SqCQ20XPxSFBuyHb3jjAnNuFurLK8BKWR5dCjHBdOdPZber8zemt53kdCXzVDQRF0T7UAG5Pir1WbbIfmPgZI5KAgCt6JT0ve01IPuJTqyXxoPyU04vhkk8Ve5MEwM9zOQaHiukY3I3XnqnkNFb4hFH+7C8DF3kow6Nbmmg4sz7XMCyj3ktbb5CQtVOwcy9Du/RvyipUkgEKhdXrtKx1dEYWipKL5Z5VLkjiX18ppXfGGW;/7kjH7xzrRvedtuP/jPSwA=="
 ---
 

@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/microsoft-responsible-ai-
 type: course
 price: Free
 length: 77 mins
-heat: 50
+ratings:
+  count: 280
+  average: 4.8071427
+heat: 61
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Discuss practices for responsible AI at Microsoft"
 
+secured: "dijICm5ogMmwbUBopjocUzaTRw75UPya3nvaNke9M+x5n1bVmjC08npePt61tQOq0AIQMDpGS/dSooVqHO+W9MW5X4mquttSTf1rWrBFIOvxLQdWEhaGiiaZnPypZGfiqO7EOD+x1O7vC7GVdbwArIW0Abqq/tImmQselWxgx1q5pom9dxf5tSAIsYBQVP4Sj1YJMmY2F/VKiPzRo9MbLTt7xMTymgNYktZg1Dx8arpSzKIPV0b7P5tde4Q+KNzywJAEka9Tm3nTSvkYiEk94JmRg0nBiy6JKfeFMs/pz5ieGE9ZrCNxo0N+yvT0dkM886nVN+/5k2A/19RB6EA6h3SWV/t7wdg7COz7KuG3TuCADF31d0wSDiw+LBTshrg+;7DyExpDKt9hpHE5vz/8+gg=="
 ---
 

@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-w
 type: course
 price: Free
 length: 36 mins
-heat: 50
+ratings:
+  count: 4988
+  average: 4.677025
+heat: 151
 
 provider:
   name: Microsoft Learn
@@ -31,5 +34,6 @@ images:
     isCached: true
     title: "Create serverless logic with Azure Functions"
 
+secured: "Fo8eGHnkuQHCKjYugWOJoFNoasyS21wP/1Me80eIC+D3a1a0Xee/jEOQd8lm0xPpjOxrXtEZZ5h/el6Jgf6HyQoX/zdzI810+e3LM5Ad/SVFU6l1qNjEAG3yKQh2bv69XAfZYAkdu6T2n3ZYn3VpWzKrb+UhSExZpMOhvD5YzTt6iFPRAtO8z8S2ld6xmUHlHdM3qVfB5eCinBMxvHJaGKEhWZ5RDBCR2cuA10EEDsae89I5VZ9Ajvcn62ZPN2WXh5zfjfrPuJVxJ/srXGp99DJPEhLruHXSKfU+VMeHSw8RR0au0SDw1PdUe//eY7JbihzGZIdZJ70lMYkink16Y1MC+uLkcNHNcMr2NL4zNh7IIPotGrf8/mEGaHrkom7J;4Dy9VDtG4DaY05fYuDg1uQ=="
 ---
 

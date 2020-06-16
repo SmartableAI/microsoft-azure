@@ -5,6 +5,9 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/work-with-mlflow-azure-da
 type: course
 price: Free
 length: PT33M
+ratings:
+  count: 7
+  average: 4.857143
 heat: 50
 
 provider:
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Work with MLflow in Azure Databricks"
 
+secured: "s/K9lP/cvFYwO5d39XTd9fhjHNun49OZINY0oMZXr/V/u0/rl25MA2WFFD9RPr4Vo1ilB2P7NHef261UeIVoiyE8eKnTK5yCF5VXJ8RJMkEUR6zjyGtErgzrjJcyEqoGpKQ8XOJLlfIgwZskQ9vUT08p0Ar7yyT3Wh+OGsf7fXRgjoTdSyoO9Iz429IrmxKy23fSaREaE8+Bmok7LUAnF1Xa9pPEF01OW72GfIjMd/GBDrEtRoIGCrQegGCVjFrNTzjr1aeWQfolN4GmOpC0vRj4SigjWPGv0ZyYA+rXXDwztJma8+pixbsrGFgCjn9L3RFIkwC68EFJLs1MqaEJP1i/bQVuqs5G5/X3h8jdALQ=;1li7fE9LqZxrUlNOCwrbBQ=="
 ---
 

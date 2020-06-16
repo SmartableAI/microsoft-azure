@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/monitor-github-events-wit
 type: course
 price: Free
 length: 53 mins
-heat: 50
+ratings:
+  count: 1174
+  average: 4.65247
+heat: 89
 
 provider:
   name: Microsoft Learn
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Monitor GitHub events by using a webhook with Azure Functions"
 
+secured: "/L+q1+rpIKG0HMfAaUkmxMIp4q/9sAYFAF+cZ+UEQEILBLLgExqXWw1VOBStTrTCuJx5FSawqnqwgToDgRjJOEhN43DJ0kor0C6c2XMDwuvNZ1HdaENwmdFUa8vOfQZk/VrlwZlw/sxtkaLOCy4zUPjghUqX9Lgcmwst3gJLvO0TvvLjpGG2ZaLg/UWfj2JSKZ93JZD7BJ5rT414C7BpYYuc97BiIPHGgYWN8L9UjDlvxXCxKuzZlklWdr5ZtLvw4LlHC05AvoWHi8Yts+6AeNSL0RWo/j87uXpPO3LQKhRxwLJsxTXU02zsi/YabHw1PVqiak+1qBEf1uUqsYJilmdAsUvZsl93wF056D7s2hywLIpA6MFAPZYhu/X2TUSv;a4LLiEEsXBgBrXGMm+MSzA=="
 ---
 

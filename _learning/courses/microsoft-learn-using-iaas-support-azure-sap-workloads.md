@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/using-iaas-support-azure-
 type: course
 price: Free
 length: 44 mins
-heat: 50
+ratings:
+  count: 142
+  average: 4.7112675
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Using IAAS support with Azure for SAP workloads"
 
+secured: "NRPAo3kiPEbGeeqb5dv9HJ/c/yNNPvSVgOeoQaPqjgXamDt3c7gt5rqhtiBjHkE2+g30mkYpyeylwUSWkJgg3gvBQLr6L5Y42a62CnDgz3EFAELl1oT+VFUpFGnz+Qy9Fa1dFVGT9xMzgl0SDSTREkO1AhgG0KezPM1O+dKBbnQCiSpkjJ6x9F0hYwO7XytHwrpeV0sV/NjAo7BGIfF3VtLIzuzfC7ybwrm0RD8fGM9qQcIHvJYQOBUy76Md+0sL2ldgD7lDIq6Ra1Uh+zZgr8Myo4o9KItK+9niUYpOTXlFo9nPJtRRG0aVQo9ZZTau5GX0xqd0zxrrqBqQvoSilPUkE3KplLfORtAJR5O1UDni9KssdAG9zus+43ODN2lX;TfXV/HA/rJh13mDQTobgoA=="
 ---
 

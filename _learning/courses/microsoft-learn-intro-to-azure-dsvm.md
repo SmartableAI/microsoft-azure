@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-dsvm/
 type: course
 price: Free
 length: 25 mins
-heat: 50
+ratings:
+  count: 939
+  average: 4.5889244
+heat: 82
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Introduction to the Azure Data Science Virtual Machine"
 
+secured: "msGoOVIROz9O9VNZkk5CpSUjdrnARq/mDMZuTc+WnRNbZrSgfR70zBsnfde2aBy8mYNdDWlM+SpZdGsSwVmc0Wjb4ysPz78wHcckGeZHXgHIrsrwfdKSUVO8So0LC624djQ3fC9EUmvAINkwxKFir2U4JZC4YvLCekhShIcD1Vley8m1DqdfM+lBK8xp5/6xMY/50Gnakm2yGWtQRHPBx+S8exiQed1U/bam50AEMXaicPCYJ0gvlB4MgsoKMbNbdIAsl+lyp6kFD86/gfd7NzgUdSgGwZ6psjUloJ4VWhHlgBWS9d+ckkpzYS0Oq6JEClgJWNY0hu4II+hqgnj5Rmh5euzWZgCa3XkAmVScPh9Tu75EEA18kn2OpjxyWtjO;yaMdMV5VhQH94+NUG5CLyA=="
 ---
 

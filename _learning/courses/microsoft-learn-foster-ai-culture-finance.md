@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-f
 type: course
 price: Free
 length: 39 mins
-heat: 50
+ratings:
+  count: 542
+  average: 4.809963
+heat: 71
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Discover how to foster an AI-ready culture in finance"
 
+secured: "pXMuu45P+FjUu/kEKFFEQR0R+5wpQW92AsqoLlBxtfOyvJ17eoHPBs7yE1eGPxyWMNB4DSnZaMwQ9LadOYjRbOZcOM/ADKgCwMMeElmsm1LG3vxT1fIHtC26nRklt4YQWkTlWAbMm+PfnhQ5ZjDgSabd/ASBrSvBaPh4IMeMX253nu4oWkC0LEB6zoy/gq0bptJ+pnyeh2tseLafwRCl5HP3lb0ia0z6rTHFJNBUiC1USVfIXtaFuWwUdueIdmADTtRfaEhhd3brZ0e/YO62nVsVP4YfvLvxX7/Vu9zCu3QjjTWFnKBG6cX7qGbFfQNe5Bkwm2VEfVwi5/aSRds9YQ03fMT2IAMIcoW3nANfmVp7pkdLpJ60yIAjF/8i2Q8Y;HSOU+aN/Zf9kXrBztaeOjw=="
 ---
 

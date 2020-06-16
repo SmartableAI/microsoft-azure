@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/create-deploy-logic-apps-
 type: course
 price: Free
 length: 45 mins
-heat: 50
+ratings:
+  count: 418
+  average: 4.660287
+heat: 66
 
 provider:
   name: Microsoft Learn
@@ -32,5 +35,6 @@ images:
     isCached: true
     title: "Create and deploy Logic Apps using Azure Resource Manager templates"
 
+secured: "8kyWi6mUPU1viKkutKEuUXzvfA5ewbi+dJ3x57LL7suUNCXyppgvbGCR26vxb/uA2/tiyRi/5yi+npJJexE/dWBuYOxW4/RxIb03QmVsowx1S51Vuo4ujBjMJTJx7U2LPylqYFIZP3Z2mH5u1hNrYhuQ1/ZyjqepgLTbOZUEJL45xmWhy3ENWbFS/Z3W6rKkAQRDm7HUeiGUS7TL8QuX2CdgDWdfe4NzI5dADDPUU4V43g4Ldo1O7hssz8gEav65vRstyQQJWroIaGlbUU5f+k/tkLXr6/kV6VygeJHQ1Y5ptE2xlLBxDFOS5bFAD+KbLi23okdBVKhP88hJe74MICinnqvheD/j28y1HZs2krc=;DMm9cngqB4vxtxSRT+X5IA=="
 ---
 

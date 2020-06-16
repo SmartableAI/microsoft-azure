@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-python/
 type: course
 price: Free
 length: 67 mins
-heat: 50
+ratings:
+  count: 3884
+  average: 4.715242
+heat: 138
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Introduction to Python"
 
+secured: "u764NIslUsNLEeEyRenuZaOuNa3/WyVOaAYwp+YG++iYLtPcYSfCutW5qFrJLvTYG8vbSoubRR5ATGduKJmY1b/2c70VWED4xyagzfwc4STpyoK+c1+bBuwdzJ6bH5qwdNiS30DNSJ2oZbbV3pRrbJZQIV40oCVdosX8VuGzwcPGFpEOWbKUVUDdQ7af5OvG/eWz63gH41moJVH5tJLUUxVVgl3NKBScTgOqUzXBbhafHDe4gXISKgy7ho6aSaczBrNLDu1HxVfMU9tEaMyBZSEKIdO6g4/wSe/T7zDtrNfll+U7dzUfOkRoGPgLEHxrupjlCgOehI4/T2IX10c8Ia5nokYGq3Vh6QxUBxI2v8/rxtpAveNMB5MEX0XkSPZf;c5ph//zE2c85FmDKb2FNNQ=="
 ---
 

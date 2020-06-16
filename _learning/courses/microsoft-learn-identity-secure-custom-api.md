@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/identity-secure-custom-ap
 type: course
 price: Free
 length: PT1H23M
-heat: 50
+ratings:
+  count: 29
+  average: 4.586207
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -22,5 +25,6 @@ topics:
   - Azure
   - Identity
 
+secured: "rHNp5Q4ajIIls354LN/BlxCvEbJZvD1VtPqSKw5R3vGzH7wlWdZ4QAOiWeP2BL4NPJsDlVCDw+mz9JuKNsd7uhxFvQEgUsut3tGiPjbhXt64PrBKVWHffw5I5tGb3/C9dRHJHkksFhDcMCbVLzp/+qaNdYzbXIdvjqyBrOHjsG7P9B9evTjyQTEbhw2cGd8S36BBq4t5PE1QYSq9FqRLzc7oGGnQiZ7FWhAbkmuYtIygwfGtXV8Hez30xN3qPmakYRJ9FM+tSewOc3ycD9DOD8u/RWDbeVedoJ24OPnJ9J8QPO9aPfJHEyVwbyN/n7Cg0BaGkOXeqaZ/WMC6GNbhMTm5bOvlwgHwvMtsu9uVLEQ=;i7wmgfar1RPAZfYPHFIDIQ=="
 ---
 

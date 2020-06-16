@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/data-engineering-processe
 type: course
 price: Free
 length: 25 mins
-heat: 50
+ratings:
+  count: 3156
+  average: 4.692649
+heat: 128
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Identify the tasks of a data engineer in a cloud-hosted architecture"
 
+secured: "jXPbUpNj6QsHWbV0YK5lKyWFmyhntQnyZuL7Ikn9yz/0/3JjvubybEn3fvjmz4Uxf1wHInJ8OVBL0ifBSNXY68J2s5sKz989s5BG89H2MV8ck2TWqwxgUa5qCeyRcGQ3weuG+B7VdQOLdx8nRVZjFmUTsojkvDV/jJMNeoxfOCllVP3uUve6QkT/poLuplD/Y5kOms9Zjj2xhjwW4bUH/np/NFGblT1dieMsjk4cRV4pMCvzDguqhDzKNuw36eOas2dVbELZMP/y85fC4fc99aFFw37G93q7v3E9CGmI33qJF+9Qbab7WFPPAqhHttipLy8sz210zz020fB+ENLmhP7wn0kGOIvT8TAiGm/u/P0VxOj+QeyZGtaM3aer95rK;+hZ5CHQWYyei+Tq/1j7kcg=="
 ---
 

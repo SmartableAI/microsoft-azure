@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-search/
 type: course
 price: Free
 length: 53 mins
-heat: 50
+ratings:
+  count: 152
+  average: 4.644737
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Introduction to Azure Cognitive Search"
 
+secured: "gs5GD7bdEgajFLrSPQbhP2kjKC5eKwzjIzTYmy+VVbsVqYduNj0CLp4xfK+fyXPjSUhKNMqRs2EA1xB+0dDxr5Hnu4s/ulhwD4P/pGjwR31aD5HaDip8vXCZmeIMjAXYdUXam5Aw6nzqPnXheB25UCyHb7G7WAs27Crt3/V6nEGgwNAlw3s3dEEMJwD+4Ajl5c/xknEUZbrltE8Y6PcXod7ZY6H5mauUDjiCAWkatGlsjgSqNfOkv8Sj+3nSBKeD5Cy3IPqM7tzlS5dA2NEW9xwdTqu0TFyEOVQeM7XWL3Blo7D1zXymQVvCgrgdsad5Ove/wwBD4b6F4AoERY5kybRTo8C2YEHm4IoXeha546WWwVzCwvOFEX1u/cy5b5TJ;7gUvWmk+uCiSERB66NFj4A=="
 ---
 

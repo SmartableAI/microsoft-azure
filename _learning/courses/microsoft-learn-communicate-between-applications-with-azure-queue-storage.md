@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-
 type: course
 price: Free
 length: 56 mins
-heat: 50
+ratings:
+  count: 1178
+  average: 4.5933785
+heat: 88
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Communicate between applications with Azure Queue storage"
 
+secured: "2gbFno/q+Y3P9E3cnwnu4c0lkINuTy5HQQpOAT4OaQ6J2VH3dCxD1wtyAZuPUtXBswwtjxMf1ybAmC7ciD8ab2T/j3qw8xRgF0pflqLFt0+B5rgZHTAK/Z+b0fFotajwLJBL4QMF9MeM/PbYRdTfXcr/7bOxpHVngg06+PJeU10sIZJEZZylzUB97QpwGSnGbHHoDX5G/3wpoVNQGYSVg0wAAcTCqIsd/XKRhqLTUvbtCH6TC4T1On9Zgm1iG8tJtHx8XCACLwiowWCZcXJlhOMxVztvnCqPyvdzyactliZD30Y0fZGgArVLZndED9tPyA8LPKVIvrjq0WtsRhVMrR/re06zSYsQ+Uw1oGysBt8=;X//MaWuvy2vfLWVp4XgFNA=="
 ---
 

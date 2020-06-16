@@ -4,7 +4,7 @@ excerpt: "Learn how to manage users, subscriptions, role-based access control (R
 type: collection
 price: Free
 length: PT8H47M
-heat: 100
+heat: 158
 
 provider:
   name: Microsoft Learn

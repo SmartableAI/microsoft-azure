@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-netwo
 type: course
 price: Free
 length: 40 mins
-heat: 50
+ratings:
+  count: 1883
+  average: 4.6473713
+heat: 105
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Connect your on-premises network to the Microsoft global network by using ExpressRoute"
 
+secured: "/I8SjbfWkk2hjTLUPGZurunF4viUvilmZ/DebbkBxXSq/i+EmayAwItvUnE4CWvrqiXKGkzCzvw5oF8jaU9TABtg2BsQ8dBrwQr3bD2cxWGrVVr3i1NcdzMWrwr6kae5RGBRQDoJKDtgYyfNMUyKl1Olxvt8HQ/W6H5iQuRELX7hjQtvktZJCYxpJ/0j7hr0p5dh1xgyxEKnZREAGA2SQtnzcC/++PsjDLZsyf4juf6JwxofFKE3DVnUH41I+Nkct6T3KSbqN2ijbdcYMq3UZ00/StLwgznH+hfUy6jLHeKjmfv1YBuo57+HGxyWniMqyLjacg3x/qoSQIYQE2BYPrkxdXoICZkd0iylDAwu27kiGXfnKxSkh+JgdecoFr0U;fAv8FTztJ0Gk7NwFpDKnnw=="
 ---
 

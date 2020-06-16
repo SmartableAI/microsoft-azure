@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/create-cosmos-db-for-scal
 type: course
 price: Free
 length: 35 mins
-heat: 50
+ratings:
+  count: 3150
+  average: 4.646984
+heat: 127
 
 provider:
   name: Microsoft Learn
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Create an Azure Cosmos DB database built to scale"
 
+secured: "vwGpbvOl7x04a1fT8O0xxoOTBvd5T1S6ZeQ53RoDiPJgFJf9m/LXYWGZOYkf9K3SwiRUOFM1N63u0xT6YdCFUN3C6n46FpWJi3NNhv/CySpoKy29htS8tHI0P9C47T9u4A1GrCWMG1LDHGfecZnbPl4MkekwEQU4UrgFqRXOmZwUlOZ5r1QL+yJTH+HY8KiGECaZxOpUdHiX/O5PDMWj9CcVgJOy2nOdYvdVv1jtOJS7l6cP84s85cQQidG1JS5uNmapBe/A3Y08wcj2ROaYqYjs2NkzPtOVmdOkT1A3aCVPmd4q/vKdrhewJwAZVOBNPCgQfvEeDaBxVisw9dfMcUk0/vo4fIRdjKVKnWR/iYfGUy3+6k1CzNqHJ5z2d31x;cQSHRjIZLPp4rb6QwJqQ+w=="
 ---
 

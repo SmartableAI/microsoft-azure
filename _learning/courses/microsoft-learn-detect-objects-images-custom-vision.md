@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-cus
 type: course
 price: Free
 length: 39 mins
-heat: 50
+ratings:
+  count: 42
+  average: 4.785714
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Detect objects in images with the Custom Vision service"
 
+secured: "skeJY1UzLXBaxMDnakDZ4qBoSeM4gTEAcb9PKfcNVlHS97EMBDidxKG7o5diZ9zEUPN340XDyCLdQ/p2h82iOsiI/SOjoQg1SlPxa+QH+vNNoFWFbFssGTFV8/Xr1KH65g3b83bZlx3b+dUofIoGdiEZ8JQra6ncKMcW8P1LXqHd3F7dBShfkN8y2i3DvL23jRj0Ppubk0h9/znuEMgAsWHp7/nap3Ax0Qr6vru+++Wzt6XOJfCxvDOfzBlxcKcc/IH4XmPCEKfSt3YCRRJWbLAV57Yi+OSkEIiUob8VlyD+dJVMrO6aYSZrtZMYYVSHSXTAkq5Jo6x+ZduXPNN3VbyTuYuemBuxXNux2ZdEL+4=;oCNMP22fcVYZjk5xohLy7g=="
 ---
 

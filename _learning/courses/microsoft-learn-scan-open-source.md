@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/scan-open-source/
 type: course
 price: Free
 length: PT38M
-heat: 50
+ratings:
+  count: 1592
+  average: 4.7204776
+heat: 99
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Scan open source components for vulnerabilities and license ratings in Azure Pipelines"
 
+secured: "UbgKqxmqYXfBDyszne6Uz1+DFaRBy93XlDzvOt2YxQixwe5vfWxUCDUj5IXyGy5/kwgzs2UoDVwy1SRn+ed/hVDc1C8GKcv7LWeJZcJ0zZi0VWIqBzwrWPPRmAqp2eidRnZIdss+yUoL5xebx3knQrDScSoM06QWqxSMjHuhTXEAQPoQnQhge5qyN7EzFoOeydLVLNDaetsTylVjU0b+M9lo0RkhRudFj69YBs8cJWhS0qzCB/3xXjWaUiorXxzGj5TifV2eFfBpZt314+VqZAXrRBDxM/1fM/SJOkxkJ1WMpgH0KVZkyJ9HoDa8wZPi9HIhuA9t+14wpFRS5tkc02Sauc0WwUXDS2crr/NP1Gh45VkC32q3rz6vVyVDWq+/;VnhjTPoU4p+NkGvIve+wFg=="
 ---
 

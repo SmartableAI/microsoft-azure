@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/manage-device-identity-ad
 type: course
 price: Free
 length: PT25M
-heat: 50
+ratings:
+  count: 326
+  average: 4.5153375
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Manage device identity with Azure AD join and Enterprise State Roaming"
 
+secured: "Vpe6YTzzwjJaSnDPcPwMiSAMiXAEDqrDP9LNb62kdAeWs/oiEnmp8fk4mPB2voZCyUQh+qlsNBvkSEAeOyJBNq+Sw3kDjHmA1MSSnS0cpapwONCCNJZLf0X+EQbYtJOZ6zkbE9hi7KF7riJi73HuR2H+HcOFfCZ8CwWL/fVQvxKM0tQYC44JE3XuN87YmGN1IH0tvoNAGPMZ4HgZLCwg1M+L+4R00B9C7/JUFOS8OSTV24e+v03C+f25tK2Jm6xzTY+o06RRwyfzG4tqB8PYEmdtUP/PVnq5Vc9Gp+qkEWrSoCKJLKx8UWAzo7VUUb5O/mJ04JJFoLMFRM4PU+97HhSGUSi2n+57X5cWCKucxIey2cZsf0LilPcJVfRuz3SN;QB8/OlcJ8JCRVj/ZtrC/ng=="
 ---
 

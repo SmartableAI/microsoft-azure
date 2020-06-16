@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-to-regressio
 type: course
 price: Free
 length: 56 mins
-heat: 50
+ratings:
+  count: 541
+  average: 4.6173754
+heat: 70
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Predict numeric values with regression"
 
+secured: "vW8V4BVvro69ixOWB1e2OUh+k0vyL7n2+9rAB6zYxsePLOzzoZxiLbyz5MGfKC8eRkC2bmO9Xn+1dCRT/E0p94hioEWEIXjR1+GHGwDvG/sa3ffnGiJnR/Lpc2SnT9xoA9dKlLu6i4E1gC3WQwsj0RS7UJefupkHcWdRXhdQQmDKhPiFup/nEWDetqnA6fWqEUFauXB96mQOEgJW0Ug3aE/7KYYYYYnX+aEFiHqbKR1gbpO8acAedaCsSA7spcVRpjH2Es6b5kQqT1DKHgH2T5L5zL6+r67Y1ChqBCiVTE5ZwHJN+1sbIvlMX/rJz068rGTHh+D5+uCtPhfHLleiu52Aagm2BY1Wp0qeBTPBKDntsUDuYI9BNOAbPcYAltU6;2Hx+obWnbbJHNNxhm+3xqw=="
 ---
 

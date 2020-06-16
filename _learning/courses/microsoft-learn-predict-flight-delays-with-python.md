@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/predict-flight-delays-wit
 type: course
 price: Free
 length: 51 mins
-heat: 50
+ratings:
+  count: 1677
+  average: 4.7149673
+heat: 101
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Predict flight delays by creating a machine learning model in Python"
 
+secured: "SLBYsA4lv18+cuuIi2SZV3IpSuN05oN1VJHaykpy7+LBMFPeXoJT+WM5QuTgMmwdFxRC7MR17w9Vxf8OTNGQOGZcPOG1pCKOqR/+AtWf7LbH2XUs1NMPG+6lymBjvpSGZ7B0oZfGW1nQHFDsCdId8bGTZAsRqu0yd45sB3KH/H9BthfsyNMwPhl9qQFF1/s8T+BeAdEK+0AHW4D8T4QR61CAlZKmsRt784kq4QbTFTeUulySqT4kXP/yXd6zSIemeTLc4r4zotSHQ5ga+Ev8jqeTg5WA2UZ7GUgmJAHyDgqmghedWlf5UOcFbOaDtu0iLSeTrRRH9FphZ1IEQsyXotVFJl2VHC4rRqGZOtP5b+WBGAY73AqBsOA+GxaQyTel;oWMgQqzKkyA4DSKHrreBWw=="
 ---
 

@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/prepare-onpremises-worklo
 type: course
 price: Free
 length: 35 mins
-heat: 50
+ratings:
+  count: 61
+  average: 4.6885247
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Prepare on-premises workloads for migration to Azure"
 
+secured: "ujUB27tRtTaCIHq755HGyd0dbFT9ZRpgHtcULlxnif0v9kSBOKlfJ3YVqSR3IzNy52SIMJ0gAtrWtNPwJviN/TlhqCNYelMe/RStKCQXqZA+JRuQ8CJdn0jAJ9DQSCuJEnU5X1O+2ztNwRGKosCPEogZnochKYX0NaMOtjCa24LQ+WA2A8h3UpFTx63W/y3TI21WMUN2XL3FOVV6cWG52eNXfOBtjx6GI5yBgc3AmXG9bM+LKHdV4Qhx7+oNptqDbiQB09Pcns52eqK5+f317pqJcG0Gsgz3VHIcM2ZFXlHgBhxlHocwLl2z+V+q0BOw05AjthiheGiqXW1PHGH1gS7Fj48tVcPU/AXeuzMMpuc=;7Fbg0gHpkJ7bHW/7LVWz+Q=="
 ---
 

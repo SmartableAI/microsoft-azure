@@ -5,6 +5,9 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/secure-responsible-conver
 type: course
 price: Free
 length: 36 mins
+ratings:
+  count: 6
+  average: 4.6666665
 heat: 50
 
 provider:
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Discover Microsoft safety guidelines for responsible conversational AI development"
 
+secured: "gXJqX2cf6eyzhClWrsPczxu0j2+W8NchTUDhrBCa8tqaZsJHkTOzxzOFaG5EDcoRA9sh0SU8Eom2mQ4Zgb/PMT80bAr/LwqJKIpQIwT9uZvsVDXE15zBoFbYXZij1kByXa4jhzuyJAQrOLKPbjFaaj8RZvOWOnnmzUfxJIIlr05Ut4BrXDMgCWF2NRJnxy1DKjVuCZGGSCezGiqMOCovAuN959qyPbPLXk6Lq6qplNWGRxsz3/yTxi747QPLN3nwZoOJTft+astvx+q7dhSM4PRr7223pGeqwEkd6bewUYYxWsJFLKCHMtyF2s5SNBICx3M+6jTOZxbJEtpdgzD0oNdoyiJX1lAyzY02jh5QUaI=;i2UWy2YPx8knzP4UdgrITw=="
 ---
 

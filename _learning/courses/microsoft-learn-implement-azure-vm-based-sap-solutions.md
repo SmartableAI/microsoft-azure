@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/implement-azure-vm-based-
 type: course
 price: Free
 length: 61 mins
-heat: 50
+ratings:
+  count: 49
+  average: 4.7755103
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Implement Azure VM-based SAP solutions"
 
+secured: "vJZo81I9UA7lSN+wPiDygtp059HWrSM6LNLn0jl8/USudIi+3D8++kR+TJuI3XIOjdyqXrlhukGeK2/J3K7eZ6xlcfl8YTZegNl5ATMNVXwGwSzc0hRPYSgfnYRxjqXIxcem0TeejV/W+7yMixObfqzVAmYOh3dDsMvGwMPNe5x29nU+Lo1TwJ1n/A7KaJWkXOrOhs224Mu8r/+t8dIu+JRJN/IL6U3wnodPtMjrYhavJL7qNOh3QFjKMrO5nUJa15dWHST/3NdEchWiR8zyv0v/zrA1a70DpDfNdJk1qwuiNhIbanOgXSkcOrPCb0PXFcmaVP7zPRrO9XSMuZlEEDoi7PgeYdTkaD3+OT8J5rQ=;/+i+B3ai2497VDNpVMVMJw=="
 ---
 

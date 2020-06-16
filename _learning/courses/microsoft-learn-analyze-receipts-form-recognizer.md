@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/analyze-receipts-form-rec
 type: course
 price: Free
 length: 24 mins
-heat: 50
+ratings:
+  count: 53
+  average: 4.6603775
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Analyze receipts with the Form Recognizer service"
 
+secured: "9BFmfTYvuqAsX0Z3u5zTqxgKOn8nYlPQ836nZVIBJr4rkRCOGhvoJP3ptHYJR2ZOraQZLmPF690pXFMnp4wxKZqsQavmu25+4AVr2Acld3Y/Px/Chi5fKjBETWeIJaVEV4y1371dfMqPrxMi9yzfCSwZULFlQ9Um6U/9DtkidVi0+N9dHwj53SJNc3fOEuzT5m6e5AL+rqgHPHraWvmKii/tyv5yjkRFSuoWwmcrvhSUQ8O335UL0mkhMLsdTWwM6gr2Tg5nOehfT9fvj9aGAaHbyGHk2r2gt1A5KlEVIwn00PRe77GVGb3AqOTWfSqu3FQz+CIQfk96ZP+xuD3KIiVwn0bO5UBkH7kw8pKRwCw=;F3fN8sN6X0J/pOiJl/RWrA=="
 ---
 

@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/migrate-sql-workloads-azu
 type: course
 price: Free
 length: 64 mins
-heat: 50
+ratings:
+  count: 38
+  average: 4.605263
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Migrate SQL Workloads to Azure Managed Instances"
 
+secured: "oQgZlbVrv+y8ZEMhd4ud8jXLqCKiwXT+gz8v7oG4ZIDpNIHWdGPC9OhfP+WAE1yZybwFsEFWQdaNtrHhtQjlmgz3hjdpWi0w9kZ6C4wzrbPU8A8PLwu3fZrSZiB5VapeeI8VPtEDj+j4Gi5z7QK2ky0vzl9PiqMZBzKYcPyJtWrN2UGFTxgJJq0ubLznkr9mlHLsN5d/qxMQwNOwYGdaFi6VZqAWcuMtEI0cQerwEDVFaZLTTmUuKtqaXqiEtsHaH5rD38MSZmsjfOAMB9dTZjK4Iw1/6wU9L6Hx4Lw9ArwPBQWbkz8qldAxviRlrb5Lo+0E2+vWXq7sRRIY4rjaGhIgZhUVk1CNdrI9UFs9Mvs=;XbFf1OYwjiy0bGlnOLdz+g=="
 ---
 

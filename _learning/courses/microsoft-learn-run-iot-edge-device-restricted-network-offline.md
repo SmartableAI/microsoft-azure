@@ -5,6 +5,9 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/run-iot-edge-device-restr
 type: course
 price: Free
 length: PT2H5M
+ratings:
+  count: 3
+  average: 4.6666665
 heat: 50
 
 provider:
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Run an IoT Edge device in a restricted network and offline"
 
+secured: "qgJeUpCrMSoFC3RudKedEgwz0iF0hxi/q50Q//qw9DT6Lex7GfU1Ai//I4tXS2Tr8zTXuPBBlnTNUcwkKSDD/SaHprTihygq5UKvtm25Kk/bhBV6TlsqcOLyuFaywr5ekM4UJcYmu1XqGnA4Vk/YnJtRTutXtw/P09UIQXG2Yds+YFZsk+jDo7R8mRai8OGE3yCWHn1q+DbkTLQPQJcnsKGEv1WcmAravbpatU1PzvUTVUYAWxhYgV0k+lvjCp02bRiu9xxytazykEqpXyGz7JIsC0eHKI5SpNBFyZpqgXP52wZfNBRJ0bN5CaNQbdg3hj6SOrrmoJER8G2eVbZ3QvzOvdebromd87Gm8lDfPCQ=;CgKv0UivYDYxIvxq16X2MQ=="
 ---
 

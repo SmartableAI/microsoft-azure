@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-open-source-
 type: course
 price: Free
 length: 40 mins
-heat: 50
+ratings:
+  count: 53
+  average: 4.6226416
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Introduction to open source database migration to Azure Cosmos DB"
 
+secured: "dXX8CVqK/7o5z1PxmAzVuOUeYN80SMoGumCpwML1rlYF3TLQ8LIE8upRMV+xHjzVE/2/INL/NhpPBLrUDmtNSEcBqRTZ3jALLqZcYzFZIlLzp04CRJNfKfyOl4PAJf3Nh/RGqp0Wo6o/OmC4IVGOXS1GLyMRpfWEkaYibjVFQY1echnxZOG+WQi5ZcnBBYB24HTTxA30iaZwQiSwb/Qg1QsnYscx6yQ27LawBmXd3yiuCk3R2mmkBkYZyT8KPHn0kgw1p2hcJM5ZLX2WDnHwO+K8psQAThWlIrEl7krmka2oYkfTtHqqx7XRJ+bzc8YHLBGcNDgQWbI8N3UbKWmxs18OrXayHX1TjnYH/JCcYgE=;yPPIjyy9uGF6/rPGxTK9kQ=="
 ---
 

@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-sql-dat
 type: course
 price: Free
 length: 67 mins
-heat: 50
+ratings:
+  count: 3336
+  average: 4.535072
+heat: 129
 
 provider:
   name: Microsoft Learn
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Secure your Azure SQL Database"
 
+secured: "dWEJzFiji7n/GVoEoGiicq9pSA1nKhGPwQAzNwdnjkHiqce7s9vs/xLgG9xlKGe1WHH0YYfz+O+A0JD860zrhkS3h8IcXqtK0vWjAbeRq7Ox/HwgcwLGshFKTE21U1dtCopqVzufD2xnIXocJDCRei3s1+1gEX/rMksxBGPbKMpE0kz5zd8/N6k4wlk4TNgbgNqSjtfiaEw0gMd9XdwYksBBEXHTpRwQX1JbSnrSLVK7wmoTCLMu2Vt5N0Qlvjf1VZBfPgP7J5HAuRSm+Tt/xnBEx3NKFEFpHYmdKhaHMrflrNdRnP3wh8V+Do9qW6WQBhQXXqgeoRG3+m6g/oWdocL7Nigybn4j21as7+SS1vLMazV/OLeLjCHO4r+AXLWh;3u4gofVd+NoK88Mq+tIsTw=="
 ---
 

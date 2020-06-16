@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/upload-data-to-azure-data
 type: course
 price: Free
 length: 50 mins
-heat: 50
+ratings:
+  count: 1254
+  average: 4.603668
+heat: 90
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Upload data to Azure Data Lake Storage"
 
+secured: "7u8zOjPFUI/Q50w5ryW981+IPDltcEbgff9MjjQTLvc23ocgV/FC0MkpmPn5XqBdOF1PhOY6h4fKzYepBRBcCEm9KLPH7ac47+vev5qJD+OoDbvzCbMspAUJARnnTPamck2i5yAyIGPCMudeBtsKganJMSoWudDsiK9QMeckh2+Os0Jn6qfdKlIyTFUuIsCWMOpKEtTMW275wQJhpIPFQ+zt3wFyVtnCZwG8G27yIHJok3ksgLRAE9czIAqxZT6yT2auo1ABjtkX6Ljp2eqHlovzYIKEaMQM9WZxCKqsJ/AYUYPxwxiPwbyXVhdZfbextrygxqb24QFP7OI7u6sgPJnGP4EuGgAOYYCuEtK+hgZM5Wsl2HWZIb6pB9zeZloX;6s3IhKhMKAdjIiYWwSbI2Q=="
 ---
 

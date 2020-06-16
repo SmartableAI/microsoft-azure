@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/protect-monitor-tuning-mi
 type: course
 price: Free
 length: 46 mins
-heat: 50
+ratings:
+  count: 32
+  average: 4.8125
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Protecting, monitoring and tuning a migrated database"
 
+secured: "1kNJtcZAWBaqmgHoUu3+QWmZodrIS8Ze9DbqDddJv4UlOD06muDznSYtI+qvzsAaCvptwAYQwmQnvbJxyPn+HDAeEtOuDhRVJQQUVd5bWkaUAJ7uvaAfXhszBVy2HFAqlqD/s3GtU1NdZvEHE7pg36u5ChGwtPQnmNy6zJwkQ5H6MavdCMTaQrDNAzGKxAyLj+6fzFskWmPdCxHqHHUy5Kduo8l6uFeyXyYTeIpOV3qMqjB6gyyS3j9kEzldqK5SNwoh6xudjJKsP/zxz3wD8Kz8lneOLoDTOy8Ib027vdK0wQHEXuiQlTYmrrjUp5sOvKY/DpOrGoDbqREwMvXZxk5pQeKO+7jx9Chcmo4ArZA=;IyPDomy7+Kq59w72w+9ytQ=="
 ---
 

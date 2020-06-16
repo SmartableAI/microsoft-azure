@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/expose-hybrid-services-wi
 type: course
 price: Free
 length: 44 mins
-heat: 50
+ratings:
+  count: 120
+  average: 4.641667
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Expose hybrid services securely with Azure Relay"
 
+secured: "nw5AuZHoI6emydVH25iKeKTpyqudza3zE6k2BEZq9cp9dRQLae/yWXjwXWN3pcTlS3UaU29a6Kdlt2eAP9SfPbNLc4ThmxL7iH6znQMf3JQLJmvdUn54FylQAKJi/57fCE0SwAEFiv0LFWNwLPBL8h4PeFz5QcLBF26+36RdyOgXm52OsICKWm4XDzLzYlLQsSNsrKqdWI0zeiT3YdtXECTklxnirU0i/SIxhVuEZdOuE28Ki+j84EZP18xcMivyFc4n99a0QYzlq3lD/1vxSrjKv+UQODAU9uIx1dWvuI2MCpUpwHdnh0eYtfWlB7D4CKCnkD1nnFkmuHoB76pCifOpifmgInqVorXvw2Mjh0lbY89K5bsxghCva2EVV+gw;QXFR8eGLNqjWNVDAcJFcRg=="
 ---
 

@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual
 type: course
 price: Free
 length: 61 mins
-heat: 50
+ratings:
+  count: 1979
+  average: 4.639717
+heat: 107
 
 provider:
   name: Microsoft Learn
@@ -31,5 +34,6 @@ images:
     isCached: true
     title: "Secure your Azure virtual machine disks"
 
+secured: "361NUNLi4KpycNd2z1JkZwo4RhD3khJNShsglKvwKWcZ2o5sp4DshKvOXBsOUSfWtXZlfGKHdvTBwZGhHS2rEz64PATXEkInnfHTsbmRSfGBtDMkD7MXdgmbodRJZp9IjXC43ofR9C5CzKF7/e3SWnjXfZdwi4rE7Ij/MIFjofOTlmN/Fd+sGYHQWxERUXgONWfhPRweQOKwSsYRfSrkADaRCtsp3wMqwDtceFzfNMYVHPfo70XU7sLmxn+lF36ozkiaEvjUjJCHms2RO9XLecCG+iCElod1pHOCq85WCy9zUrIddQpFHwnd/XOp4QZyx19MyBeXEKWJ4si2MPVeOJ9a2c/srlPrRRXBm1yy/0sElq/KojONi0/HWRAtTVRQ;B2AFphamNf54QlIAasZmAw=="
 ---
 

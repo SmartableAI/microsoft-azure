@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/build-azure-vm-templates/
 type: course
 price: Free
 length: 37 mins
-heat: 50
+ratings:
+  count: 2767
+  average: 4.522949
+heat: 120
 
 provider:
   name: Microsoft Learn
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Build Azure Resource Manager templates"
 
+secured: "O7uLsF0QSwRoIZ8SKxP+Xi78Zc5LntJY2r1ITqIf0jer+ukXQ/sWFVop+bnXOjKrvOCPCZdXYXiCyF1ks3HktA9ADtpvhA4G1CgEs/uktpKOGnfm1WHcUnc2AbPLLoBH037/0jVWffcRvtHLUkhM7hZpkbEZQNMMp907HHHNmYMXfShp4N5+yf/F45vJ0Y2E/lIow5hhT3t/DMkheVgZJKUFUwSMvfEI2AK245nWkPq7dfor3HnfJbrj8hrnu+KHIlADsdw54VxNGKEMlCLYRBwGH9WvH2q8LgZfqQlIaT7WLQHVDXf2sYZFXEPRnE/bs4Vi8ZvVspgMvOOH9iBxfkGjDF41o334Z7HPdAedbLEUgpL/5VWoMUlMm5sBbuPV;CZXOAXB8W2jXNG/Ec2qroA=="
 ---
 

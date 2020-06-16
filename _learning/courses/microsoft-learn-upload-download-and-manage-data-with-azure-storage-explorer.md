@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/upload-download-and-manag
 type: course
 price: Free
 length: 37 mins
-heat: 50
+ratings:
+  count: 710
+  average: 4.649296
+heat: 76
 
 provider:
   name: Microsoft Learn
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Upload, download, and manage data with Azure Storage Explorer"
 
+secured: "NAtt7FYTKh3tSoxgp5oz/Al/6H4lFYZ1dTFK5mNWa+r+J0AHchAHpJWDyltW5DPAjlA+xvxirUxBrk8+kawRp9TH6Y2xDVCf3mAattESplJOVjj29DjHzA86xoPRzNopRkiujZx1MNQyRoQ9dwmzOvB4ciA+9KYc4tMuMFHhGMCDFbUHWMbbsVWOEkbYpbLsfo9bCpUT0bKwC5+t2+q6WZzzzI1iOhk45FFAvOaFZb8oLD9L/tY9GySUblwkEdhlXjmg0kM3cIva07XXCtARwbJ+2V+MV/Km6vq2fVBhE7NCiDxn6HpC97Gx9oCqmcb5BHSij+aGuRygxZKGF7VCQcl0jkuYx3un9UyaZeLWraV5Uo01yAvgPtHvtXpFIL/3;Dh0dr+YP9CXNEfeT5a22Lg=="
 ---
 

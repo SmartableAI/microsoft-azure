@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/tm-provide-context-with-t
 type: course
 price: Free
 length: 26 mins
-heat: 50
+ratings:
+  count: 88
+  average: 4.7272725
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Provide Context with the Right Depth Layer"
 
+secured: "Vvsv1GVvvCbSSMiLVGgP4MsZgmLQ6I6g+zx05RGkHkJspZoTuqc3gS9ugLJcU/TJPvpMq4nPIElUM/AysLipqpQLOq0lHk6MzuJQhUT5neaKhWPD1axv/VBDUDwEKFTh65cUdZIfvF6N8OMJTcBzdtb7ILmOwHMWhj3Ui1fxU0hLKG3XQTbeY97GZu6eDihOfTz8IoLrxDkbOQi16vekeJWuxrn6Ek52lIr+YrShrgELW09QWJolKfXBEI2PO9IHMnYa8EqO1TRuR5kOsBdIrEpddmPoLGwY+8ymYl4FlxKEeP76r4VrjK23qAie7pxhr3tMELP8bj12YPgaYDRoY6gqwvpvGgyVL1MRk39KC5I=;5UoEYzBYSRc1g02TeHWjQQ=="
 ---
 

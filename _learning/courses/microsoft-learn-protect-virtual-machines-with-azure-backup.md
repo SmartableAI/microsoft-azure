@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-
 type: course
 price: Free
 length: 35 mins
-heat: 50
+ratings:
+  count: 631
+  average: 4.586371
+heat: 73
 
 provider:
   name: Microsoft Learn
@@ -31,5 +34,6 @@ images:
     isCached: true
     title: "Protect your virtual machines by using Azure Backup"
 
+secured: "Znrx+QcPDdmggqjbRHUtD+5RvslfZVVmR1o2TT/UCo8CKtaBtv2pgyrFY2wEd3+xIoKOUU9tP+jmjhsD2LZbNKqF4eV6O8K5h/gUtlmnnmvbq2xzCDZk0WYrg1oqKxwZO8ze07tFkUvcn1eFP246pqzowJfKIZmRQ3ToeX2D8YqQAd/iDlyGswvBSVjkkaHUgUP8uMeRe4I9ie/xZyq3ZP0vYaV2YkC0WJRinPRMkSIkPbTuNodMpSQ+P7sZI4qxcdvlnDxLmdCbrI8PVgCIW2gG7Ql2qmEObKYOwY0L3uBSROsncOUnG+GrcDu7D3jL+jRu7maKL1EtT4B88woZcTAx8wmzCssFv0/ifwWdXzEyXE4s/N3hF+33zwVAzEQd;BtfINS63lPBVf6dLhUCO1A=="
 ---
 

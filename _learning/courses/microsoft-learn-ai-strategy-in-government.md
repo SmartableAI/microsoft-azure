@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-government
 type: course
 price: Free
 length: 47 mins
-heat: 50
+ratings:
+  count: 525
+  average: 4.744762
+heat: 70
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Define an AI strategy to create value in government"
 
+secured: "6G/1FCPecpWGqAnmpwaxop1NMyeL+ljlBVxsE32lDU9DwwcTx5YmoFXDDwcin9fUxz0TBCdrunSRTXqevyzFX8L+JosZjMgLakKbtp5+HB+J8sbauiRuZ0KqzAGkUxaF9JIFGUe+HoIUX7hWf35nBMixGADbTBiFYSeYqdtcjcnTWj9D2i9//m5+Gbad3B7adZe6PDz69+1BEqFRhSWcTZQeyzcWvbCDZ7GqpX0y7+Qk/ulo1X8D0E/QFpY/L6AgO9YSTMLICoUr4U0MPF4o7FnHJqyrOvJDD/BF2HYKoQlSit40DT9sxf44wKuqQpbTjZXzb2lpwXiF1q4eajPJZojZ0SQOox6AtmTwP05jZyY=;OgT13Wb9m4WdfIgRcKv1Rg=="
 ---
 

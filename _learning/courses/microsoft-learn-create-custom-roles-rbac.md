@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/create-custom-azure-roles
 type: course
 price: Free
 length: 30 mins
-heat: 50
+ratings:
+  count: 562
+  average: 4.6672597
+heat: 71
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Create custom roles for Azure resources with role-based access control (RBAC)"
 
+secured: "IuMhkDskTE3NguqoCtEVfUQ9uqN2OPaeERbcxoY2rsw9113m6uMvARZzirp2N+x63twTCV4yAyqcpsKxar8xwC60oNYqhUEa7AGqhbqv3OUZ2Iojvi5MERRLgPO1APoBsyTbmtj+BWTWygT6YGtYOxZC77/kzi2H0cjtRTM3m1qpJmyW349wJsXuMoNtDw7HL2LNO2twrrAlGOoSneoTusi3ThLzoNyCKhxwlXkmaPFaMxt+uJnCBF6CeZoNM5kTHq8Q7dboQQT+z83KF6S1dgOyMeSWvaADzKxEEv7BevQnRozYqglpPtjQOHOElrFXsUedIoLzwnCrdhOMRqahAFq+TsRSBPc+D1uwd4SKDo558qSFHpxOY4tIy0oMUmc6;WgVlPssJ++5VOMu5ZDW/5w=="
 ---
 

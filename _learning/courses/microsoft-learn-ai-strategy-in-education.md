@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-education/
 type: course
 price: Free
 length: 51 mins
-heat: 50
+ratings:
+  count: 420
+  average: 4.7761903
+heat: 66
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Define an AI strategy to create value in education"
 
+secured: "EG22atQAPskF2FHhQgWspct+/Xl4U7TFh5/bhI+NPifeHu5oH9ccy4d+hCJcmnKD0s8DyW0wiJvzsz7U5BcKTv0w9/ERWLGasJS4b8rDGrAPsBe9PNYUxiRe4g4Bh8GMVtnrqnTw7f0eEMHBm+lF3w/kXecflX8Fk2kTOvjF3XAaDa697D9TsYteheN1vW0fyTRbMnJZgs1uqbQu5JPkorAu5f0rVLtSLMt7EGG0OTBhklZDZ6bf9y4JeIonGeBGNqvtjMG8VhEmWldAvFzmnVXZL09xkjvAdk3H9ZsR20RDErvSEWA/Ksy3eDAtZOpMVO4SwfjXums9VuHchVA3CeK7McqTNCfbnr+LdKMlmdpgTYo7krLSelPm7pcIh0Ql;/uCsXL/dLW02S34FisYH9g=="
 ---
 

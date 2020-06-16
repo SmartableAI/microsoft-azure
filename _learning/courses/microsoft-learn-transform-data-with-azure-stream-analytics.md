@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/transform-data-with-azure
 type: course
 price: Free
 length: 49 mins
-heat: 50
+ratings:
+  count: 972
+  average: 4.5781894
+heat: 83
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Transform data by using Azure Stream Analytics"
 
+secured: "w9OFId3TZTsISI1TFNBBXmiweortS/1lIWzyZ8KTngWTC/YxCr3oc4JvdN8QGD580a2m5I+ttEHUedEKfAV0GeWVBl9e2iojOmkUsqHJLTiLPRN3OcJmL4rlhcPANi3UFv0ZBoyYCNYrNj+ehgZ2kPucreryJeeMaZd8LBeHgN3uZX6OaKYE0ETY9PJ2EDThhFZTAlQFFlSWYf+AE4ik898Yx5gFRSUCB7V2grx2WvsKNv5Efc4ptF0am7ixks3iJHbnKuqk4rfpx1TvxRZG8k4AFMtFm7Ym1QXc3QM/29Z/TeFpLGKtH06Cdi9dLfvNW3xi6jJzxKlYnxPSd6fQfrQ4pNhdgH062TJEGMtcRfL2Vma+7UUHTLcpdnpJxdmO;xQtFr2JOxCH3xBSWupAoyw=="
 ---
 

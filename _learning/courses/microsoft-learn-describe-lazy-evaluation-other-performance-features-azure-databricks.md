@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/describe-lazy-evaluation-
 type: course
 price: Free
 length: PT38M
-heat: 50
+ratings:
+  count: 22
+  average: 4.818182
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Describe lazy evaluation and other performance features in Azure Databricks"
 
+secured: "ixIlSsmwbmU253igLkGMm2cXxrV7oTufEGIHuZVcB6MWYSn6Wks5jrlEm9yNtxXMJRUqdJdpXMnxo1waZ4HEWL3VEGmRcrzxtmKq0pRQP3DimCHIp8XC6UU8ceeagTyyZIOzPi1uAmjTuIanYJaIk4x6aQ0GSFnU5ZdRY9IvCQprmrYhktugmh6XHnMfW0UT09w0n8TzNYRWQgVbZr1hL0uRFmblc4Lonn/LQwiDwTJUF8cWEOJTurd07z3Tq6Rp9XqcSr6pW2N2anANhlpLI7VsK4NA1HSRJdhXtbm6xaoKV3RxO9TUHp5XVIPJ7Zn8guFdCvF2sZxjqHiG8r4QHDYUoPcaUgjOp44BQpuiPLo=;Y38fnSRjUiEvuRsfKf8vtA=="
 ---
 

@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/identity-permissions-cons
 type: course
 price: Free
 length: PT1H6M
-heat: 50
+ratings:
+  count: 40
+  average: 4.65
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Permissions and Consent Framework"
 
+secured: "ku9pUWCwYYpIEa0jRIu/kBkIrKZ25Age+WFZFlG7SOio+xGVOcpXteBT9sDm+5TH/w5DVzWPtwWRfcYv2JIiduUnpAwFytOwkL2CfzCwDgG1nv6yE14J4/TDQhBCy6SsB/Co/JKsjkSyU1NBpJDPqGod5OnWvnva90LAEkhdwzQlQbCpIt2EwEXDSJxNOPsxeykRp6NPYOyXU99WOawfqylXQpS/XkB2z1fWFvlIExTL7UUsAEw8/sedvvNiOkjj2kc2qI/bp8wNhqFGhH985c8/nYDLT6uz/mJMtgXOd1M9DId/5CDpn/d/TF5RLQsByZC1/yIiWQ7cML6xpB9VQjRFpd4G9YIu6hXFXJYvUgs=;VgAKbB/hn1W6efeMF7UbSA=="
 ---
 

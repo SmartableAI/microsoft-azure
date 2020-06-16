@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/set-up-cors-website-stora
 type: course
 price: Free
 length: 60 mins
-heat: 50
+ratings:
+  count: 92
+  average: 4.728261
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Core Cloud Services - Set up CORS for your website and storage assets"
 
+secured: "bdxLlcprMYTe3QGN0PigLaRxzfOqJahnPTg+s+MDWOPG5oKjCBXfdvnhdwUrqSAFiwITGueG8YlNBWi0obNPvx3dYjjwLgSGqYvz3b04OB5e05fD5y851C4LGYZmLLKevGYUDXZUQYfd8llVHWLaFOaAG4rXGMsu4R12WJPr4BqJIw0fSLyp4gMb32JpIpVjXhTM1LgLrYDs4sA7YpdEtbIe6AYZKqwE/3M1Npkc1NM4Iv9RR3HmecLt0TuNPkGD9/q5at/Bz1PWmlZOU5mJr8ZuTsoJAWrrsGsgz+Mgt40ZnjOThWNI8KzJ5HgftAZrxsl1MJA809yBmfdYHKjV/SS+9y3pe1xy/XhIO1bAxTM=;6GExshyrzaRIVCHO4ISWrg=="
 ---
 

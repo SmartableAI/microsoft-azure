@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundam
 type: course
 price: Free
 length: PT33M
-heat: 50
+ratings:
+  count: 82
+  average: 4.5609756
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Spark architecture fundamentals"
 
+secured: "pEJ5KTbmvMIaRuSL/9H8nAltJFnC+GHcnO8P+S5CiMZtEWPA6g/fdXH/wL+ZJE77etQv+3io7VtiT3iYQGFyVNLgBAQSnkTYmbKtwjrfuaf6HdoAWreIUX6fIrm2M/m/CiTjsjzTBh87t/dAEoCxbGZR/+wXDTCSG5FnteY+12wwJqCpRbzSpgrB/UX4OqkkJfjsJSvL+IvIReWJqCb3Eg1De257temCj5O4Nf8g+c5yNF/wvGxlrxD+WdAa1HwxZqYOI7y+eSgt7jrpCEs6tfZF1b/2WzRRbnjQx+MTNOllL3ry7FO1jruZxv1XX1ppXJNAZlsiivYYUIxXj9zqp4Uag8tHPIXEVfvfABD9VpM=;ls7yGk2YtthSeY+qbBcYVQ=="
 ---
 

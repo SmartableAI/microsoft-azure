@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/identify-threats-with-azu
 type: course
 price: Free
 length: 43 mins
-heat: 50
+ratings:
+  count: 545
+  average: 4.6477065
+heat: 70
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Identify security threats with Azure Security Center"
 
+secured: "rszTlq3kA6NcwnoPhDFqOuaD+Q+lERKrRx3BpRUzSzuh256rYTo/xxUefzvZmJ9JAuFdJYbpfqi+cE6rozpSmGbiUH7+YO9Y37BI4+gQgTHZPZf6ImHoNrCOUhrzDucr8m7m+AONsp+WUd47Gd4hg0akXeJtmI4PshVauZ4ZEXv0u0MyACDbxvOWg/LMO8/RWVe94lQ5GcPBsn4polhYTmDu+UWgdyXhmZ1/4bikLYyraWdRmE81gxICz213+znb17Mqf+u6cZDRk+l1POkOcwz2ngYlANtlsONreFg3jUhaedqlWTH9infFbgwoY03EshPRrfIQmm0NEKr0qQNtBEsSOMbaOzDyfgrpwiHqParXunrU21i+tvw9AxO3OoUn;hm1BHiB+tn3tAnygJ2avdw=="
 ---
 

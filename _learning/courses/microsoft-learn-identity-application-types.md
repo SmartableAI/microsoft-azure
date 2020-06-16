@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/identity-application-type
 type: course
 price: Free
 length: PT50M
-heat: 50
+ratings:
+  count: 56
+  average: 4.642857
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Application types in Microsoft identity"
 
+secured: "D+HyIspC6LaFbh6V5gBcJzV/hzUdpig0kMKdpf1sBI2y+nSxQ8ORIeR/vTHFaIpeKeO6yiy5IiAubK3i/3H3aR/y+wF3m6YFxd6dqyJnkbnPmQp4ijOmW0OdeNKTZqxAD7x028Oo/keh+T/DKihR5JBy0KTDclATZ0m1odhY6+x5MIFNolAZk7tOBy/z6y7qzgZGoktDt/QGA1RCzJW1+t5nbojPAfenfwCnXgbtJr2u9USAhIIQTzCCLDeIQAycFNggbry8eDcdRnUt3Zsl+XsHBVl8Td7uUNjrgUWpW/Xdxe3IwKv3Wbs7ArIkpGper/9nPEfac4AcXwBz2w+T600PPyZ2y9gK0z8fSEFDhJA=;ilVCamHHgQXv/zYPzLoWzw=="
 ---
 

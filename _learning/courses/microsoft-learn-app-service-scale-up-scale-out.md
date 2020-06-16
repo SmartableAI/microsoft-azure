@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/app-service-scale-up-scal
 type: course
 price: Free
 length: 46 mins
-heat: 50
+ratings:
+  count: 1487
+  average: 4.558843
+heat: 96
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Scale an App Service web app to efficiently meet demand with App Service scale up and scale out"
 
+secured: "7JWfUHvVJGDAWtKUeLDqKwBUxM2alxcI4qiYu4aPLoGzN5qhAeVCBv5uhhwWA5K0O+fVUIWGgR6nADkzSOgjtbbGjZ2SLTQMxY2nCs3QMnNUW+UkV+aU3eACoTU4pDn8B9UEQd1Qt9/Mg06GHxZvJ7Cik0k3iB7ktq5AOm3BFVHPRoOKXdQBYZlAeDxRhlrU6xI8qoVmHsItxYgBsLlYq5VSkg2bMDGSZbXXBK2L2uwQqF29+v2pZ11v8XI/N49ReC3hJ8wKecx6zSiNoW8sqRM9dgNPnx0C1IRjZr1SHPf4+ja1jOYcRzlRgTnDAijB8fyja9fzgmWofJ/EalHaQfaP2hCEa4bIlLfeRhaTUgn2MzGTS4p+hOMh0RselbS5;QSwZk6oW4VycsZZx2dZ55w=="
 ---
 

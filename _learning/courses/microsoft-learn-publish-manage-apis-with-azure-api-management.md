@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/publish-manage-apis-with-
 type: course
 price: Free
 length: 38 mins
-heat: 50
+ratings:
+  count: 833
+  average: 4.660264
+heat: 79
 
 provider:
   name: Microsoft Learn
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Publish and manage your APIs with Azure API Management"
 
+secured: "Lif58Kifzt9zK0X7I/fGddia1QEYLu9zDDYsIG4XbpfTRdx1Aq016jTKknWaMQPvpKnS0xsUmj9B7qfG7ktbDv1PIyHP3JaI9Z42KopPRXh9QBnNwryZg4jijTutehGYRujupmoh5H/Qqqzffwp8h2FdZiT/NsYqByemEk8Vl59AEZtV7abEV75aUyShbpxyM45NpTdKd1HwKjQNbvA1/nFJemGs3eAvPrE5tnRczKslf+ZCZUrreRV1frMI3/vq8QlmfzUssqdU2jIYAkPrymBnT8tWQo7mk99ShKEkXw35G6hWZd9EgqiRjWHk9JdTGoG2fMVNCQSvx5Wd/lzydo4Z5A4nvUWCWwvLXfWuUZv81Yf6vdVx7gNQLIfylu4u;rjzVQp7BWXJTOZS+GrXHwg=="
 ---
 

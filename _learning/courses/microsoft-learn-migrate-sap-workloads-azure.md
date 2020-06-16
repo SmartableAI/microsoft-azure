@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/migrate-sap-workloads-azu
 type: course
 price: Free
 length: 44 mins
-heat: 50
+ratings:
+  count: 49
+  average: 4.4897957
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Migrate SAP workloads to Azure"
 
+secured: "O8PS8sZwvawyztEfe/A8y9mjBzdsqQnnY0lw1tZ8dBGtyrjHicSMdaMdXn6gtcMEVpbuZlIU2JvIYx0Mp5doK4/uSAXuqAMxWofFyTpkKwAUFkO2L8Cur6+Gw1+RVAdk9KfCwuCwvp6zoChNmspAvv9/TyGFCmWtH+6DaQwLiB1kG0nLKCtslb1bYUBEypB+lGHKFHiULp/L/rwMdt9iYoalwLrT/C384zyLd3F0P6QZgQWnDWKkLGVD4y6gSe9oYbhO42Pa4wFKT+J27J7YTF5O31UzRM11QajJIAOkvV+nXMUgB2w/ousBS7hmCRbTLt9XWZafYFLQSpZwWqkXkJufyxm2g+XBcUvA0+AvipQ=;15q1F4fLkgp+EI6nTNxM4g=="
 ---
 

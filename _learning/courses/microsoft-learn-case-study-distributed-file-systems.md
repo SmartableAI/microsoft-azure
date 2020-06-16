@@ -5,6 +5,9 @@ webUrl: https://docs.microsoft.com/en-us/learn/cmu-cloud-computing/cmu-case-stud
 type: course
 price: Free
 length: 67 mins
+ratings:
+  count: 17
+  average: 4.7058825
 heat: 50
 
 provider:
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Case studies: Distributed file systems"
 
+secured: "hkv0arGXKVj4QNYddQEktvwMPc2seJ6sZUV0Fko8R3Jkf3kMMvApjNWnjdN0bo19ex/bbBMBS3YOfmlz9RBzeg3jrYmYfWcE5IFaHYwb+Nbc1krQqc8GVjTBxVWz9x48GqW7kHRvpUUdEt1SJEmjPpdQOi4DJNeGOOXpa+kbvb5GNWPgRuBPZTPl5dBXVwu6A9EeMFZZTrFbaqOoKzUl6EDNMNYyRdd/e9/FE98AHHwf4hID82rhv+mdhI/g6FvDpp2NbvoFADpNYFSWwzFDEMOwVB2c3SRtC1yLnl0dg+Uu68Wad+eBlMqRd6VjU2sM+nHwLqnE7zRSxQMqapYC5x8QW+8oyrxf8XGLDNhSakg=;DyGmZKqfjQKVLYB9aFOf1g=="
 ---
 

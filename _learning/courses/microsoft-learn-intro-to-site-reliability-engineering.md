@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-site-reliability
 type: course
 price: Free
 length: 55 mins
-heat: 50
+ratings:
+  count: 344
+  average: 4.735465
+heat: 64
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Introduction to Site Reliability Engineering (SRE)"
 
+secured: "kN0YbQqmOYKxGZBRI9jMhGu/tZzmqJ6vWZ46gBv9DtXS9ZnzynNMQLhZJtRjJ67qTP1Jo8ARUTtBcgPfIhcH1F/YA51yeOQp5K0k1QWFDEFbgQYoqOE/VFkZwCZ5TrdS6SPsROWetJ5bqeRy2hQOaAVGNvOe/4hqqFg0O8TZJtnDfzCkNKVHG39ipdYvY5AoSWX+vrdRDhweEQxvfaFAy/pDCcyqzTNEGVX1CM6aZPIymRQsV0byHPIY+iBb+mSmKUFzlCTVusa3DQUqpQBN4D8Bx4m19kRtLQj3dm2EOSH5I0AwDk6mmmCa1do4ROW0AuZZBjz1NDuLunhls84WRDaB85EapThiO6sV2LA2LY1ypsZXdP1MpBuKwh3Hum6+;akFZAQOJc0c3o4rCLxwARw=="
 ---
 

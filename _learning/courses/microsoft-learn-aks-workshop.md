@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/aks-workshop/
 type: course
 price: Free
 length: 145 mins
-heat: 50
+ratings:
+  count: 129
+  average: 4.7829456
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Azure Kubernetes Service Workshop"
 
+secured: "c9pugSL24Dt1fAja5hLhbZNiw5HLc7pRYy9/u4ofBcKZkxcbnPEF+mJx60oL9MVjYpdKXbHQku3d8oxpVLTsb5D6i/fbsWAbpq6eSsczAbgnr7Z64ZbFU193d4UoG7+DFlDDYBptUTFOACKGFc2HiDPQLTwW7lFVGGB/RmsefG2pSel41k2lRNc4od6NXA5aiRUYhd/nOa0xFLTo6hmEz+uxMFjhGYtwh+p6wgWNUs4LSzqmw9yatrSVdDrf+tpMn99+QDxtELrUKuWgtiANTr+UmgEpjfvKVHwPQ1vY/D6qBrW6bUjJtTK3c5diwPUF5YXWIN9hziy6OuubMPt7TPCHu+nJSG1LeN99IEUbjeIbhKqNNNDiipMt1CM3SUS3;tBdS/KpkByT5lzg3qO21fQ=="
 ---
 

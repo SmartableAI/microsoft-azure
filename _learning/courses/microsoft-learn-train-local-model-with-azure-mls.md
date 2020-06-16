@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/train-local-model-with-az
 type: course
 price: Free
 length: 42 mins
-heat: 50
+ratings:
+  count: 1121
+  average: 4.576271
+heat: 87
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Train a machine learning model with Azure Machine Learning"
 
+secured: "lX3e0bh5jx3EMrFoCcQQCbS6MLGrZhNFN0o24pSyQq7cmLrReUT7mIGCiNkFl5pt64jJNk0lDKbIZI4YsZ8HbqIYqrhKhMHFa7kb9RHe85JO21m4ojVbZ27wgS2wZpDI7S1CoYXMQJu/rdsVUfkeIEYtGWBGkrbmUIJJaOTPKh0YNGpFCagdnLfxnyKAWWoVKolQZtvb72rpbEqXZPS3SYAcQoZfOkEKqzjTYR0geV5QOqxSLPYpCJH6ML616FJl61KEFu9li9XBJdAbAoYyNcCWohaYKEVZaJKXW2k9UHmxjzxkfW3eDJHzotExCshB6bA0rf3mN1vwU6VXuADhW6mSSmbXQHQtxVKQLEvcxS7kpKW1RsxbECZ6tgXrYktO;COdUAgyrItBQMMS/OO+mfA=="
 ---
 

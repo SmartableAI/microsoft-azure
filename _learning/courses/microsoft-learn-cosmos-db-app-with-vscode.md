@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/build-cosmos-db-app-with-
 type: course
 price: Free
 length: 54 mins
-heat: 50
+ratings:
+  count: 1206
+  average: 4.4759536
+heat: 88
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Build a .NET Core app for Azure Cosmos DB in Visual Studio Code"
 
+secured: "eIb13sV0YS5Qo+2SCOVpTq/1JcJEIZ9pRQ6aZxafY4AbEIabO5/geHDXtBqJg5/f8aTrFtVBMCphoW12mfipxkbh3zXMzU85yDmabGEndFFa76RqazEuCm5VYqZiSlw8W3q1zbpFF51l7Ed2+JXX0yPZSy0BW/1zFUvqxe4E7llsUCVh7kX82fJ/SqYh6QMvsmcJy73ZamyLCN0SwXP/Z3RsQSR0ZvPLJLBVGXf/mNIfnGM3kbi6nlahgjpI4wb2IsLc4dbuDQVpE9uM38+//YL+FGhO6fqaWgUsIi1FOLxXLoYxXdOlPPnv1cINFLFeohiIEYheXD3wB3U1vaiUxTvkuOR1OfRYITFmbDcAmWuSgFxM5F6jJWQ/3vhiCufK;KA6u7dg0PROPA/RZlsRHLA=="
 ---
 

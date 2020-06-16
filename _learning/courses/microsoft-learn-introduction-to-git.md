@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-git/
 type: course
 price: Free
 length: 75 mins
-heat: 50
+ratings:
+  count: 335
+  average: 4.7253733
+heat: 63
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Introduction to Git"
 
+secured: "B1FiDVo0FaGE/W55YY9Amf7B6kGtp6WumjIXWVfQGj1ZnKtpp37qK+HDTwBHZXKo2NgXuIUxN+lyqcuE/LyAL7M+O/sCsFtoHicz5ws/+hp9D59fUzwSdkWB+agNUIa3UzkRsXhWFrz9HIax6wUak3t1Jd3iHsKm05qmFs0DdGAtwJUsBggFjVlU6MmXHjPSWPtU+6vym+N5Nea3JVxOTH5kKud0XA8akrdSdf75e2Lvn0eB1QMfMtwSomoMoiWwof3gsvP4G0HPz59EoYIzEEAefp/yQqcbryZH2wX8dJEsYwHDT7vtHNX4HK9Cw4IqPlpc7OK9qkIB24SfQAWFo04oY2rxblFSKYyv8Cah8OQ=;Qq/PrTZQefmZWkZOKOC05A=="
 ---
 

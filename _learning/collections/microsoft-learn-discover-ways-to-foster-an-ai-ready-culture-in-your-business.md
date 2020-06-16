@@ -4,7 +4,7 @@ excerpt: "In this learning path, you will hear from top Microsoft executives abo
 type: collection
 price: Free
 length: PT3H22M
-heat: 100
+heat: 140
 
 provider:
   name: Microsoft Learn

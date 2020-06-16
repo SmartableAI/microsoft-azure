@@ -4,7 +4,7 @@ excerpt: "Learn how to combine automation techniques such as infrastructure as c
 type: collection
 price: Free
 length: PT4H6M
-heat: 100
+heat: 116
 
 provider:
   name: Microsoft Learn

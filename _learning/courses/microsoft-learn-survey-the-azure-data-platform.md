@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/survey-the-azure-data-pla
 type: course
 price: Free
 length: 58 mins
-heat: 50
+ratings:
+  count: 3309
+  average: 4.6702933
+heat: 130
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Survey the services on the Azure Data platform"
 
+secured: "xOYSl8xyoh2Puomc3Fx+8Zpe/AjqWrB2+Ll0fzYyV1Rt2ocEmuHqp8sZ3hNFHoumD4pCRBAomfREKBzM9xwlKm7Tz8mLFEVJ6hnsZX5XOB+S4/tOB56WshsJmS0OMtTz4IEkmbMbeo9R6jxYcpGYxbHMnLvLMLbtlRQSjq8fBrDv6ue2Q9sTDydStSmYCc6iX0pKath3wLPJXeyM+rvv3CFiNzRaJmfhthZgghONtwiCN+UJhnrKnlMsJX87eRA9ezxUWSXnZVAS8YSY80ItCtPuvbmNBeJlqSdyddH0Tt8Jas+wNC8+FtRbcG1WdL4l4P6TJWIxwUppXT5HS9oWZyqs2P4kKqSiuAAnVttOF7O91a3/MCXoSYoTL9pzMF5E;9o0mXSSpD/xSeo/xCtY6Sg=="
 ---
 

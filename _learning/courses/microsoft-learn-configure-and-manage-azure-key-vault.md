@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/configure-and-manage-azur
 type: course
 price: Free
 length: 29 mins
-heat: 50
+ratings:
+  count: 1383
+  average: 4.60376
+heat: 94
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Configure and manage secrets in Azure Key Vault"
 
+secured: "xa61dSZy9yDOXJ1zQd2tl/V4Rq3oneIHu+2lv0VvrAmYFop+4ApNebsIB+5eWqH7mxSldGqpzntHhrZsSTlKFlzuOvRtgQNZLNg9qV20RmupUG/WZzGS4owK4PbGZCaac4GoI8okiXcNHWbIEJMeQ85B3G96IBdnPhPcLw0Rz/X7gi1Yb+9Qm3ZdQCqlX/wHcKL3AhwZwHKIBnn0YVmS3zV3UD5OkgfCUVAIquhrckv8oFvK5n9VkFiVB4b0DRY22wh0mAvTzGiGX7XMEs10vdsx2CgK/I0XRhXZXpy5/yqWYPpZDtNIODcsPlNmdQ4Cu2Qv8KbVUlBhfNYGXPvSyD2KrBnnb08hR0x06z52mSVmb7hRIYvWZT4R59CVjuA5;GWW1TbUmi37rJFElmRk4fQ=="
 ---
 

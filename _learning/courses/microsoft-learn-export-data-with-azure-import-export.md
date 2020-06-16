@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/export-data-with-azure-im
 type: course
 price: Free
 length: 24 mins
-heat: 50
+ratings:
+  count: 185
+  average: 4.7405405
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Export large amounts of data from Azure by using Azure Import/Export"
 
+secured: "k52Xc22Pfj3uLMiIiYgWDexhnRgYPwkjEKCqU7JiMg98XYIzQKVPg7BKjdLs5NXZTDlb5TzjnzGwlpR727WUHLNOLNBMMd8Sc38P5u1y5HnzfB7NCmsFGP2vPWCpqsV1D1xs1AaSO7+h04vdlgtq5ThMVuDBCsXJdN/7CEojcG5GqcAW91NE5yB6cZs5XfepPU8JYofoUtTLdyZ3Igh+Zba3Vrn39hzv0rkCfbDpygSZAfLpu9OJMQwbma+oeUxYs2as5joX1rEkr2K8EYnyFUJclEIDHEfwg9xXdA3FJwJrDX7m+Stg8+WSyP+UzvuxJdBs8H2PT6bsPY07zx946ijtZbgU7Nu4fATHb43PKnZ4aeihc74nHCzPUhhxP1lA;YGlZQuFDNX+nrwV/GTvhZg=="
 ---
 

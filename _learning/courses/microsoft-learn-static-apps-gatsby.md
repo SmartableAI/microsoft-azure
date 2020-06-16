@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/create-deploy-static-weba
 type: course
 price: Free
 length: PT41M
-heat: 50
+ratings:
+  count: 33
+  average: 4.909091
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Create and publish a static web app with Gatsby and Azure Static Web Apps"
 
+secured: "uowz/1nT9eOyp6F1ysVvwHt80pMCeNZ/JK7SI5OvvVV80jx+Lz34pzJ7pwJyvlcb+uPn4NM4Ayo+MKuLOZBy4GHBmJTGt2GtnMtB0RNcmirNNkNWM/k26RKTbA4id6QiIFbWL1irDHgYmQE5hW/CaEXWBs+IUw5ni36Cu92UtVHGWM0pfCEKwcT2sFCqGR791P1q3vFd4tFnkt/7+r9b0NspUMRDEHgEy0kdVB8WzL9k6bjQ0rehVpJdPq7vy4PaOaO53xMV64dEB0etp7AlFERXT86irnBPOZZUa1arM+ZazQYkwFO7udiAB+HckvgAetDW03tperDBCKRb18bkVfr4WHr4iuYeYWIKspMa6r8=;+XRHIRHH7gJOV+UJplhLXg=="
 ---
 

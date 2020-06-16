@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azur
 type: course
 price: Free
 length: 76 mins
-heat: 50
+ratings:
+  count: 36278
+  average: 4.701086
+heat: 277
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Security, responsibility, and trust in Azure"
 
+secured: "/GCAF+8BBcoNrroyTa/3wnObZwbDS/2Zyfx1oVBc4XgYDX/9v+9EU6s0YtFCtQbnWJZ4LkyZ+iayNS7yXTgDKPFLCjAMdKNT6U+N7dmGoB7pU0VAXPfYOdrM9PsTuo97Wh1shr0RJg+9ubclyaKBaqYvyImQ9AvmTJuz9ICIH2HfXa9yFsP9LK30K5jxRSU4v8mdaQdcW9TLMfwzQVwS8u15LQsljZvx/mz1Zd2qrIjlwvbN9q7bUPABNdfEm1seTgrQyVbEiFZn9PtwuHYMkbeEiZ1PDTzgGwKRtRQzzB9WdZMvBjmsaLDOF6nxubWqkR2V97CSnLIBtisBFF8BCACbpbo5TvCkYgYctKGu3D5OzzIyyRhl/JHkxpmQ7ZNk;bPwuEzcSkneCfHPgotdFiA=="
 ---
 

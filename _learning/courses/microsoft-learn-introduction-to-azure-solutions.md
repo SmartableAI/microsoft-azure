@@ -5,6 +5,9 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-sol
 type: course
 price: Free
 length: 26 mins
+ratings:
+  count: 0
+  average: 0
 heat: 50
 
 provider:
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Introduction to Azure solutions"
 
+secured: "Jlr28Ml6FIDGp/4ac6e47HGwtz9HUh+cnraHqG+JQZTd1qbKE0GpX6LiyRTm/FaaYZpaIwtBCWzDzLQTuOIDBMAHzOyZ7m/CZgE0FV1QBnAN+EC+QCT+4Q/DhWBoBnCu45VxMoYrB23IK7aNtKB1eBxHdbdlBoLcx3wx6+RbQzNJM/xeixInT4SEi4zYS1K0eIDnupdNRNuH9YMKL1gheeDawo8/FswSN5mzL0irzMc+8nqty1Vx/xmu8lRjE6FCHdxbny0rnb63qchQsq7V2N+oZ3g+QFJzCIxZkqQV/SElGiEUXXMLd7XV87a4cRnDGrf3OdCpRNTvGS3k7WJvmiKlPpmG4uLSr9wRRhxXwsQ=;xYCm+dX9Iz85Weob62bnyA=="
 ---
 

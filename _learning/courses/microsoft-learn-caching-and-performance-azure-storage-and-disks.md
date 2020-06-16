@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/caching-and-performance-a
 type: course
 price: Free
 length: 44 mins
-heat: 50
+ratings:
+  count: 1484
+  average: 4.675876
+heat: 96
 
 provider:
   name: Microsoft Learn
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Caching and performance in Azure storage disks"
 
+secured: "86fhbtCJSufMn0W6spqgsA7koIhf3kRmh9RXI2OQm20oi2GyTkHOfSlQWrmYfgLDV9zAypfZMY/7nI+dkQj6EuMNo90MOXsaP85R1EHGEfyPDhJ+J7EI3Ag2XuH3Um3DSK3ue12mV4HqkQmeoMkT5IR59HPm5gLKHnPRVdpPjhHUprcz/GvyqqYxQnzj0cdFvFI9TIGJxAUdNm1ETSQBTP5/kIuBvSCTF3zcu6lVt9z/UZdT7davMFUu/6sizYcNksB8747c95UksRHyTAEU0XRFrIAv17K9ceBK9YXIcncxmL5GDnaIH7SpxmYbqiXDILb8odW+WLLzqFwZEziivZ+7baCqIVd7hunGTPJinMtWhxUpaqlY2sCnrT8szfXU;Lb/JpkNuiDPBABQFFqAhJA=="
 ---
 

@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure
 type: course
 price: Free
 length: 46 mins
-heat: 50
+ratings:
+  count: 1155
+  average: 4.5800867
+heat: 88
 
 provider:
   name: Microsoft Learn
@@ -31,5 +34,6 @@ images:
     isCached: true
     title: "Manage secrets in your server apps with Azure Key Vault"
 
+secured: "Fa9HYEv9uEj2IpXpKkw2zf0trT3XqJUdyPISyxZvdy5nmg6xpIib6ZsBbb3XxpPEqiPs8WOYjKNzNb4Wp6CUpPVTEE/FLaRYg2YCSlDBXmaPS/3ivA/IsGZ6lyrpz2v6UoIErmCjMXFm/2SlpolqSYtC6j3P4wJMcBWROvnU98FZc0i68SZzfqTWTs6DY+/Fo7V8zZhDUXI+C7fWRLIzcDBvAqJhi+3/q+9KcwRT9nwfAKdUJS+69JdUZu8z+zZN0ZVGZBIl5PvvXDUQAuvN4Xbdb+3NU+3Dqk9dkgS30iFsK23DDshiJfmSbz61TqzNA9IdXypoECSdwQuW0wylNDapj7aUiHTF3ppDSHPRImqfp3U+NkplCtaZhB5L6HEp;fXbPZQ83FAsrpWvXzRrmjw=="
 ---
 

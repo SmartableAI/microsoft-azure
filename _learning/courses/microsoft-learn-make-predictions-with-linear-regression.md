@@ -5,6 +5,9 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/make-predictions-with-lin
 type: course
 price: Free
 length: PT1H27M
+ratings:
+  count: 8
+  average: 4.75
 heat: 50
 
 provider:
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Make predictions with linear regression"
 
+secured: "n8nBBnnxk/cylskHgrpm/Mwh68jbI0Qp+C75RP0/uHDCheUBAySvHEKBxdNevRK5+qqZn0zD7iGEc2Ii7Wq4byxnkHOxjl78AUhCwUE+XwWCKMg0dueOYA7Hy6lIGTbcbL75SZUpNriYPkchruEqUCU78VciLz7N2S5N7D5Tcl/dANmkNqXcZzOAwamsiYeA9D44KItzCtvNDcBpEmwu0RLJRNiRNXxN1ZGwbqXuYpQFz7OH8zKTh3RuAG7mM8405dzzILkTLM9oJwl28BovciTnjaPq3Ku5l/8QKXaTKpL7BL5XbJmzasJCPeYoyC4f07JIcfxg1uLarxYwDkSTAk+D5mId69t7ZwK+2sQDnC0=;7bjZjkj/Guao8VGWFjajIQ=="
 ---
 

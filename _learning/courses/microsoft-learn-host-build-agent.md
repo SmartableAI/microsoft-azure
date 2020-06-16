@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/host-build-agent/
 type: course
 price: Free
 length: 59 mins
-heat: 50
+ratings:
+  count: 1413
+  average: 4.7013445
+heat: 95
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Host your own build agent in Azure Pipelines"
 
+secured: "AiTjlL5bntO+h0/vEGik1IAkhSuQXzO/w8LSZWQSyeGBTXXzBrBNXGml8VP2jMgocYsHJenTgRdyLayyGIhj+UJZT3iD7PxP5JLw3cmxBkzswy6B0cqZKf9q3j4cd90c/wYH8QQCznSRl7f0TmZHX09JaRzUhke9mg5NR9MWpRqdcPWOulYETLfBbkojuO4SZNK5ZnWmRaVPNfqQ5Ib7bkhZQYNb0jXFIquAGsDNP3ZMw3bq0NVCK09gM/ugkxf/rL7WAM3/KF6RSiFo3bQSKssAY6qBfc+rB7PNfuKny4a/6Ha5gCPZjPSMvG8bIMrRUHz7w1B4SIkrx1nxZJR9UIjjdLwC1u3Xut7ogZPSxSo/2Qm0nZaunCfGFhPaWl3+;f+EA99xanocXs7QuuVVrjA=="
 ---
 

@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/tm-introduction-to-threat
 type: course
 price: Free
 length: 27 mins
-heat: 50
+ratings:
+  count: 176
+  average: 4.721591
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -35,5 +38,6 @@ images:
     isCached: true
     title: "Introduction to threat modeling"
 
+secured: "HNK+nf1043j7rCWiQNK/Pm3UKHpF+xA8oJBmj+YcmNhwSuutYfjW+sbjQ1EaB0jPSPhqGg/tpsvxwhnK0LiXSHdZ8C5UBfvyIRawZ9r3d9bZrB+qVaUIuSBMHaMh0f251mCfDnfu2wMSU1AIUJpoWs2+vpgu/Ab3KBjf+TO4EalvRjAEl6bU3RLuHRsmxbtc/Yi56+0e3t9/1JE8WQgwAoWcGqTSV9RWNKDaHvZeaPwIzDAPVEvcencVf/saAAKcGQypny/8kwArVdWesSm/znAkgXkMYJ+f1I9zL8jFw5zm1O1ixht7js+mBUVXnarNE/YLt9unPhxgyWnUndPyQ4Zdsi/cs90X5g9cfCw1F5/sbTw9RiHUoGOvl/3rB/yR;tVUeYiTSaVjppmI1xo0lDQ=="
 ---
 

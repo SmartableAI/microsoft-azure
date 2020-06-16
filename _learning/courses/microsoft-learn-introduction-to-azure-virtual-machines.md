@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-ma
 type: course
 price: Free
 length: 67 mins
-heat: 50
+ratings:
+  count: 10805
+  average: 4.678112
+heat: 197
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Introduction to Azure virtual machines"
 
+secured: "w8a4yzX7fX6N3Fthe+Zt2HfWtd3HDyd+7vLmSZdwnQi3UQxVmeAL3Ii+Q+kk2JHw60xG2B6ixhkFcACXfvZSKxOoZwEOCwKtm7kacwJ31IaZneupayQovh+c8UALe133VC4re7rCq/TyrQ8v/vvR/MujiVbJGWmBL66emgKcwF+aS+/9bEbqwRMY9l+ojlDwrifGOhmPYYdU8dqfL/WxAopxMvXCAQV0/ieKhjEKb3HLw+BgqVu4Uhqeeb+PSzVHHwCYXf5Z0QYkItD7G66hzsfPR/Zu0UfB2KimXlZ5XWvaQg1pYdxPCImWlu92qASzhFd8Q9UPV8wrR0woXXquGwf8VVynFUAOJdPtU9e7Cq+bmqyp0Yg/2S4txpvyL05g;W1uCUMgtQaRi/b4RhzgyAA=="
 ---
 

@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-azure-sphere/
 type: course
 price: Free
 length: PT30M
-heat: 50
+ratings:
+  count: 23
+  average: 4.652174
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Introduction to Azure Sphere"
 
+secured: "c9wfYGKQWqm4vzPRWEr0KTJmCnPbwH9v4wADc80nKhnvo92dkhaBVX5PxtdhhRbcqf+gM+TwVESwMHLGuq9jn6tdklls3wS79fangWUBsCFqSXKLMRwuvHGu8VNq4RDwcmh14PqWGDYJkZAioTV157eK84oNTz7P3Q5kn9Y0Ob/E0jH+ugpzD/njvZeRPJ0YZQKGISEIY8sqprfNX15frUwTcBn7A+Lou0Ny8+W/VC3/i9bldOtXJZGasPB4f3kwS+OKisGoPojO4iCu9hWSSimuQLXi75NeeyF36rgwyLzuG1TKqbwJEG6TMANMRchDSNgIwV0QRtMBOy++fyUqKhmPwYfMFtkp+JJZcyuS+z4=;2nFtHQ2XmpJLZu5gtijNXg=="
 ---
 

@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-ed
 type: course
 price: Free
 length: 56 mins
-heat: 50
+ratings:
+  count: 223
+  average: 4.4932737
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Deploy a prebuilt module to the Edge device"
 
+secured: "OFI68Ua8GXEy0yDuuKS0QQ35X+cUk0+ixsETD4tF2oIMlPqztfHlIz04u2qfn6NYuFDBQUE1LelnLvYB38Xm+5rU7TMil8t7w/DRocV1bMCTc+Og4+d7wbq4vicTm36LDFqTbIiSMX/bWD//qxHaAmoMK/Q+MbOMaek7WMa3j11suGGT4wGSXTBV/GRLSSERB986C75ltLj01JDvhLoJcECemFNAQrpI7LemyopGAG21fBBNyQbGwRwxBpAE6BrRb1OmcFKdj1PU9oHYfz9X6gDzzjNj6zQflV4alH3+0P/CjxMeSIt+Z/P433fCVTErki36UTVZWXK7I5Vpb0Fmq5R+GoxCSYVyd4JzQ1oQaI3TZlW9pZwltjD58qU/RQb9;5nIE8x+65sNOP7LgfNuIpw=="
 ---
 

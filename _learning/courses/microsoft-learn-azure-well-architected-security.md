@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-se
 type: course
 price: Free
 length: PT1H2M
-heat: 50
+ratings:
+  count: 570
+  average: 4.6877193
+heat: 71
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Microsoft Azure Well-Architected Framework - Security"
 
+secured: "iGXIBYHymCYxp5xmcAYb0JLuUyReKoHs5K9Zd5igB1qRHQ0/OZ0VCqSyqcdInxQ6OXQWKywOrnh5ZXgFosefj4TGxzTdnz4exvco1GhiqsyVTnQBcH/fZ4Y77x0KG7gyvpuzxe++YOPcwW8IMSbJdBo42IinbfQwzlw/VYjvyqonRiBUBR60skYd3ps4Ve71xOz3JdpS5eiEYd7/7e1gdQkELOcj1+F7+7kOmpBYELeBrwOrOvfMJ3fsKf81+TVkvT/2w+jEYL0+pXpBQTVg5KRjX60E3macllUX+AFcN9bPpyNpvmD6AnFJDLq6cOSZU01c6WWhgXQ1MW4WqliwQGeKkcNWZt/0bLQVqbSH5u53zL3WoDLHPQdVVOUoT/W2;6sxw3tlLDlG6Spl7U49Zdg=="
 ---
 

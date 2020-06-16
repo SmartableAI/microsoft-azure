@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/store-access-data-cosmos-
 type: course
 price: Free
 length: 42 mins
-heat: 50
+ratings:
+  count: 1189
+  average: 4.650967
+heat: 89
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Store and access graph data in Azure Cosmos DB with the Graph API"
 
+secured: "Eb9LyVLYDQSppYFrgzVAjlydxvVW9UIvOHPkBY3PcmVPtI5Deb+2OkozCBz9pUsqCwZXXco0alARqlGdCSzZjLj45EgNg0tTM/yWVmw7bS+oEimPjwsJ/Im5lZRdxSIthfFDyrekWhSMupSxek74xXCiaKiEFlWP0OOXm1MXdTstizFeNQCWRKShs7iYcLhcP1SjxUdX/mym1jpDbxQY+cghATQ/1daH4LUlmUc5tu1hFKHCyFNQXq5lxNui8G4nwNtiwzQhDbQTqWa4Y/jtyqGv+/U5w5/Png4wTT2cpX1yKz6vImmRxYDpiiMoOz4pVgAJw9TDpOE7YW2/czyhMDP3qvBYCb0zZ9HWw0vgia3jBZYLbOMU7kEPpBFKmKPb;dmuqBzhaDaL8VOnbQkQpjA=="
 ---
 

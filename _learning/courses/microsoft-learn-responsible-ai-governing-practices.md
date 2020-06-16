@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/responsible-ai-governing-
 type: course
 price: Free
 length: 35 mins
-heat: 50
+ratings:
+  count: 279
+  average: 4.8100357
+heat: 61
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Identify governing practices for responsible AI"
 
+secured: "cXyU1OdwfLOXztwmeaMJi/W21YOIlkRXygXiYp/bgidaD6iP7iynr8AnTKu+19J/HTMCxHyk/A5bJlqO/2XN3BkeC7eeqw4jzaOBWP+RWNAn5bc4nNw80dSbF09Bt2IfGCHGDje8Z3e0tPBEt45M8CXZt2hB1Ull1+enHNIpaL6GCpy5gQau0ix7t7sJRpbvr7KccR58NvyUlqVNAlLhVWnam5ZNHI7/eYFJCBoYeUHyHe3Eu6E4D+tfgR+ubrasrGebttg3E85oAouSjcT9VBecVX/bwGfFvVF60ESI8qfJSn7GGki3MOYt4jar6CNdZBMzzo6JaB0Y1Im3izOqoeBUUaNvuMr6O/NJchC+1XzZ5rn7++7kwerL3g2EY2qr;Xe81KmfveRWNL9TFUM3V5w=="
 ---
 

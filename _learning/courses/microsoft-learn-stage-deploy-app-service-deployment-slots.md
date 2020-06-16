@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/stage-deploy-app-service-
 type: course
 price: Free
 length: 44 mins
-heat: 50
+ratings:
+  count: 1371
+  average: 4.5237055
+heat: 93
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Stage a web app deployment for testing and rollback by using App Service deployment slots"
 
+secured: "hMBY4Ehhi2NfbkVnDvvOmVsIydMFYxiTkNrwiOGB5525kdGTT/IBhWmh97FrnRs/PD9/QsopIzo8kd8uxFGfrelD6dU+E4aeRnqXMkAfiy5qOKlPhAk2gTEICXzrrhYO5zEqtOIV55g30yV9Sb2gI6e++tHAImYQTC2tQbynVae67QOYWCH+W5Aq6kyidD6mzb0xknkbuXbGz/0NECvqAjOwi/4EI/EzI9eDzbJAMh5YUhCPzxxoc3xQWzV4fvk8AuGEQfWpqZ4l23pwZoNYxUz02/euUDVuy6WpBV4bxMxSxQC/do6cUljxQwFBiMq2Vk52vzEZ0yjs5LAfzwIOYVW+l0NaaxTpvYStekkkOftV3vwdgkCwoLeG4hK24XNV;54kANjeCHhj6WMM1/5vJdA=="
 ---
 

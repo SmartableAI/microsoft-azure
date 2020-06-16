@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-wi
 type: course
 price: Free
 length: 48 mins
-heat: 50
+ratings:
+  count: 1001
+  average: 4.6143856
+heat: 84
 
 provider:
   name: Microsoft Learn
@@ -34,5 +37,6 @@ images:
     isCached: true
     title: "Discover sentiment in text with the Text Analytics API"
 
+secured: "WbKt4mtebbgRLJFlT29YIi4+testp/JkK/HpUYpa0CgfGtCtyZ4CYkWQdIcBBWymIxRJ85j4f+Nb/p2VWX1pI4P/DBPXFZp4W/esHh70asYfL3i+tWWZ84Kx/wAkLnBeNHDcxlDLzmRgSH8ZzFyCZYtHse5gAfYvS4Aq50Dme7wavfCHVmBj8rUPYuKCNhHCZVyUGXu5w4caaSy97wNjHVwrhS1/4R6iloLGZSHrul++TXF6xpcFqzMvfDcEj8NcwYc36vk8k6o4PjfQsUSj73YM3Q/01J7ppS8P4xumHbV692v8PM1NjUIojXaqH3SnmziCzxtfvY18HDL39a5YIMYR0NXT5ezGZuFacvrOPK20XXjOp83pxY1xXNnvPkbd;nkgxqn0ZhiZqV6cqMkWSmQ=="
 ---
 

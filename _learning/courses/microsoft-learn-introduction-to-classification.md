@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-to-classific
 type: course
 price: Free
 length: 60 mins
-heat: 50
+ratings:
+  count: 340
+  average: 4.7352943
+heat: 63
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Predict categories with machine learning classification"
 
+secured: "Pf9afLv5BNh8r6+fz1Q/hWEToJrKTOpotX/0zatqAuSxhAZtso1fkmIdWBUegs7vylUJP1QYaXCO0+gcxREuYViJPzIxurgGbwgyjsRYKkaQMeRmhCGsPoNVZAe+c40iT4+Z6qDsdlksmadXxfTbX/cr+GC18lwRo2H422sbHtixhMzM3AgdQ9NU+pUKNnH1BPVu6VEtatopE+fltAnYIr25pefdQNAH6itKUgEuAcWYIXNggCNaT/ghF8SVpSUg6IWVeeXUdOK3Xffhr4DxS8nE7Fikd7z8EMMPM0FJOe2CWXAfyECTmwnOfSjx4+rEmfE87yztoKwnWRpTd9KTvP0eyRioXSwGQriJDDNpxfW8NNarT5ZfkRfzedMduIu1;XGNaYTsUeWfDGlbfMnQoIA=="
 ---
 

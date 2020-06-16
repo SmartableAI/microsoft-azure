@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/create-computer-vision-se
 type: course
 price: Free
 length: 32 mins
-heat: 50
+ratings:
+  count: 1105
+  average: 4.643439
+heat: 87
 
 provider:
   name: Microsoft Learn
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Process images with the Computer Vision service"
 
+secured: "2FqGooLzqPqeSagVlF4nv6cGqusjefuCURL1JAaQIrzzkdxvXr6/dv0UA8CVE5YPGHGRuWDm0z5gkpBgzvfVqvKh/xO9kS1Njd5fMT4m2/jJR+2+MTYHbbZCDpoTcwX9bqDIw3yj7B+Y2mOJUnreelmCK6dYTl80jfw3Rud0flwB2GP/Fvwh3UMDVmAP8f0GNe82iWVvnH7q7x1cDFMdBDqzecadP8LLcg7nSG6RtgjAPdOrO9YAyf8BBFtwJIgtbp0b8CLio3H3WbIuaULq93jYWHtZWHs6lawQQWVoybIh0Nyt6HfsSyVUX1BjGbRiTaFex1vXfHFm5F/ZwtsRF2fyBsIEo9VGiau4otiWiYBfyqxDBN5Pv5ljytjDT7ah;MWWZjRFUQADUDlfVNdYKlw=="
 ---
 

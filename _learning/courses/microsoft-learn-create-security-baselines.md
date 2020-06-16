@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/create-security-baselines
 type: course
 price: Free
 length: 60 mins
-heat: 50
+ratings:
+  count: 1468
+  average: 4.623297
+heat: 96
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Create security baselines"
 
+secured: "P8UtoK1N5eas2h6g2G5+VR0SWdsVDc+K2bf95vRlzT2xhN926Q/0V6mrcV5tM4hAH4zPvr1qwJUBOnrZy3gaMjXqLMxVpZzlk4vK/Kogwu/+at+G5hZATcHd00CHNir4HYYl5weCRErAG8INVuNSeuoIuhQKLbKilGSdvDUReSSKlo4EHPFgIbqe9WQEJsaek8I9w2RafecKQK0f03STYi8IdERMeBGgSWZS7blSdfy85bJkb+ZJ0qtvkoOUQw1yICt5GGXv19w7citJ93e2+wQoDhTv8JZyPPkbsrbKzcSNoHETtytxniP1fTMbga3RGyD5k3zatLU3QG2jYlbfHB7yFQ5eEGTk7x0XRzXYIiOyWI6puEAUM53/ujcKIv4P;QskGj1KvRwdrr7GfqHEt4A=="
 ---
 

@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-iot-edge/
 type: course
 price: Free
 length: 29 mins
-heat: 50
+ratings:
+  count: 477
+  average: 4.631027
+heat: 68
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Introduction to Azure IoT Edge"
 
+secured: "Oe57aWhPzGs/ogG0HGBd63jirER7WpSMvfejqEDMacvzHpU0sSR2l2yVkkoTmxRHpaQzwDvtuVd427yT6/8EuYxTafiYoYJJZ8nn6qLjjbPrpJ8VEfRsqsExFSuv2eLIgq1/gKqjl0c+8S9Lme3lh6ISqHcWOEAjYvv0v0NEjtoirlAmTUmqY0eHbJ9/YR8a9b882EFcVyjYpbBJuN/Ld23KNKPIOfSsilxLWCYfyytiq9uCF/80JX3m7OC365r0CH4b1bIuaNFqQsk3sho2zBiiGK67BguzjLYJpL7VqMTIJ06WHIRGY0tKyAH939k4Fgp7HYehEmqmVgey9QE+3dn3k0pH/l4hAFLYTa2AXTzqpngyDmndc2PGyD0yv5I7;TRXXBIe89ndbbhQ8Zv1XFQ=="
 ---
 

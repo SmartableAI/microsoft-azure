@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet
 type: course
 price: Free
 length: 42 mins
-heat: 50
+ratings:
+  count: 1516
+  average: 4.7064643
+heat: 97
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Distribute your services across Azure virtual networks and integrate them by using virtual network peering"
 
+secured: "YV0dEEp9O3J75x1yCxOUZFT/QBpQBg5o4waI8McFiIlWdcPUTBuBoGIYQXxbsETuzODYH97QIzxWB8pO0tRnFGBbSWq6vW06YOKzdXjU4xckRZ55Shu3+l2vGtLzoWGecdwtCbZeXUgd40C0dI+WGfxcqpZZNpjg3g+tq/02eTRbxLzJpKu4aRd9qFnTH0s8E32Hj2c/+xnUWyi+mv/0ZV+FSIE8xNVGXXwGDcrf4N/kpYHnySgVEnSD8EehaJvtVs9iOVXyzbjRgLJD+GxDeC2EXswwlLfp6TLqY3PQCwW+FG5mpqkp2awxHxwogq/kPhYXb3yYe33YOvk4gWFsTJrg8RfoKNSdAPS4Bj9Mrode6OYAdGnKZlRH21Bti2eO;npapOkxl7m43RfnDyAaoQQ=="
 ---
 

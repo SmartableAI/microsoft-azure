@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-azure-sap-wo
 type: course
 price: Free
 length: 50 mins
-heat: 50
+ratings:
+  count: 219
+  average: 4.780822
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Introduction to Azure for SAP workloads"
 
+secured: "eHnb3Iih7qACf5R+9KHPh/scj5+tWyiR8E+DRMGKakY6EyTtpnKn41yo2WfzL2z5DXJZmExqEyULS2ceSeOH/FNEGYwPn1k1Cny7OONQAMe56rzVufaw3IvLM27DeSFh7Kvk160A6OXO2xnYrSUn7uDjgDBjcQNLzOKVFqAuQINFxeYsbeQGFaXIpqb3QicYO2RsTvROj3EOaUC9QpWmHI0kJeG5SBKoXN9ZML2OTyIkueLx5IyLfGchHLWssEH3Sj6j0KwqXilidT5P2Amsv1bLL+bLlOZBtBAT+qsnoAf5V3v+8jdaVv/suWRFIz3NQHGo8nCP2YkZoCQW+K4Gyp8/KV0DBIiFcx1PUH7Ngg7bVkxvjh9JBdOjgD9LtACS;Qd+YdMVkujWOGQcJnHjCaw=="
 ---
 

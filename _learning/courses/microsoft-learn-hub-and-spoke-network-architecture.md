@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/hub-and-spoke-network-arc
 type: course
 price: Free
 length: 36 mins
-heat: 50
+ratings:
+  count: 770
+  average: 4.653247
+heat: 77
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Centralize your core services by using hub and spoke Azure virtual network architecture"
 
+secured: "s7eUX10ysu9BR+HyjdDYT57OtcHZaqho3naOvh9t0/v2/71+fXTM2dGHWyDHOcPa4OfYVtuMeGrht4QsmvF7/Wb1OaLH5BwuhB+v4uoB+DjhfwO/zKFjt/tJaAU9fz2tHjC7oZK3tBrfgJkjU/khH6ob17eP858OCKznfTkicKliklnwLwKqi5kkEwEU3qCQUlQkmjteRIfMpMr++wbKT6rMjnadIJpKew9jfcm+/qwwAwHf4q1YGE0RzEtNNd5zBrzhzDQi/2Xv3Dz8zhuNg1WdeQgKWkr4g7cxwU0C8TnlbuThkIb4UfCLHd4At8h/+OrrS4eKNorz+k3vt8Czpwvc7XgsAuFhYT/jdf/wevFN5Tl7tdz5ZDukOfI0s/eU;whVfUXK4CQePB2L20WqmgA=="
 ---
 

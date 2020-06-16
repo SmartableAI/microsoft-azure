@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/manage-delivery-plans/
 type: course
 price: Free
 length: PT33M
-heat: 50
+ratings:
+  count: 1419
+  average: 4.706131
+heat: 95
 
 provider:
   name: Microsoft Learn
@@ -21,5 +24,6 @@ levels:
 topics:
   - DevOps
 
+secured: "bcrGxaL/Jkn9T8LkupkhHFoTfYdP4lX1c5uOdp54PoPt2VWHHR4IiO70sxADXF0ukBeV1jvRET/dCCqHX8MNY7n/wJMD0EUa+57XksiXymKNlaxtqMMqA0G3jh2+IJTy5Vz1IgwIsX39epCOmVdw+8W7p3YxfNQsrOreEtj9rzU8lZjloyztakXsviR4AiuHgc3N0xosLK4+S7DKrR3KjQB1qy/JPub4HHbvqyteRXNCXOcuRhgwfLxoUEL5dwBUIcO90v1G34aGQyl0x0bP38jhXT/KrBj+CTnvSXSnPk2kVwfkXxHNQqILla9I1tO4An64JTU8IEZEFT5Kr/u7gSt1kwypHuTWJNxqdjQ+yuoR+ZKBRhIWYiDBG8ciTvo+;JLGl0v7xVIAC0LgdGSJ+bg=="
 ---
 

@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/translate-text-with-trans
 type: course
 price: Free
 length: 29 mins
-heat: 50
+ratings:
+  count: 31
+  average: 4.677419
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Translate text and speech"
 
+secured: "WIxqA9BGA5L5MAFIJDRKniVUzvxtKnY6IIzUaAyux14p2b++8Vbe4hrwWC5Q2SKy3cphh2mko4ZQLMpxRMmrls+P86PA+RRvybwM4YOu6QydMVJDKB4C2UDoFM73lTZ+vwW5EzAP1EDProZM86sdSk1/VpQyyGnRlOceA4MANJdeZiS2APpQNm3q4wrgwIbXpVcAaX8Bwyma+SYenjGNRDFMERd3/V5JyLSAEqM3NLxhmoH+wtgCtbWjGcQ0sz88fyQuz46CQxwyYMFEJyNOE+HVYgK0YTpLdFmgo7W9C/xM6qxFiQXpadUQHNPmLYU7RsZNjQ98QNKXR4MBiDKw8Q1R3r6vQs/JMyw4fhmcrnU=;cG0a2VGMMxnxQSidXIhOqw=="
 ---
 

@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/run-web-app-background-ta
 type: course
 price: Free
 length: 39 mins
-heat: 50
+ratings:
+  count: 475
+  average: 4.4042106
+heat: 67
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Run a background task in an App Service Web App with WebJobs"
 
+secured: "HROCdwSeppPMRFj4GPoRO2PJ/4gTYO7c0/YOYp5HWufxRp9C4jTMu7JVouPcwTFMQjNl+K2BFVWC4ZweYjRz2GWC06Iwmp3OlUufqxMc57X3jyDzxYLhQ8IQAjDTX7pINGeo3E1tOYsMu+rtEDShRgzoqhMO49k6kp3ZLIGaFEtaPNZJnJyVZhOYRBL33QTPvkW7zrtIxTBG0350KkAfoSgarmbGqlQOfzBdDeAPDiVKfPlPVXee5UzXn/eKb2T6nPyiRZstkm7knx+L6QQy5oey8/nihsK00bbzuwIOvHEwMsxiPLChSoh0QbI2ObdYaS/tJvrB90i5vEKHsD/2imOJb45i+EfwLP/GUfqQah7WYWcxY9xhK1Ugn7aZF5on;9H3tevtSoh+p7wmOyZ8D9A=="
 ---
 

@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-wi
 type: course
 price: Free
 length: 37 mins
-heat: 50
+ratings:
+  count: 3617
+  average: 4.6441803
+heat: 134
 
 provider:
   name: Microsoft Learn
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Secure your Azure resources with role-based access control (RBAC)"
 
+secured: "gT9tD5u1gWpcxDE4ewVrdV8qfM0bL1E3vWr1i1DPT7mJzWZIBVYoX80SSsvyuwx7Qv8hEwEi4piv3v7Ult8QhAaa8PDZqLYggFYF9XwjD0LeROYR9bw4AjOdYmczyuvOZh1Po+IKMOEMWMhQUqyC7WO9qOrQGQ2RWXuyDoVm77Dj1gtisUbjA/O+cOX2VMo7wJsbtcmdDP//LeZ5pue3T/CCrkK9/SMH+HmOjVG0bfExaRF6v6fNhV2x7bb0qtGYtGYcSfuLXagBOOPegS9LLLUH48lIAV16Xiag5PE8RDIR01NsSuUWg/lO4pYBAOE+skwnJ5DS7yI10IFR1oI2ukCxYWK9Wu45IklJRQ/Iv7a6Wb5mkfbF+rjcxYaqtOpF;4u9uf9QuG9N/AboXDMGRxw=="
 ---
 

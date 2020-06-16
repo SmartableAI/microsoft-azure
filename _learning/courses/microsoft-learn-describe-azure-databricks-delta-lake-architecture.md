@@ -5,6 +5,9 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks
 type: course
 price: Free
 length: PT33M
+ratings:
+  count: 21
+  average: 4.5238094
 heat: 50
 
 provider:
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Describe Azure Databricks Delta Lake architecture"
 
+secured: "HgUyICuX0pZCuu1yDaAkYKW4WXw/RSMm2mnScYesn5DxsHEYIQ6jKeyRrlWT5Q7skWmVjQxOHrEXkuYLa/VtwP+AQH5mDz+KteNNN/rPCVFvr5s+wgvDl9vZ4GAM3QmfgaYR44y4D1kGJoRFbj1hAVmEdeGKVxiC/CQeO5q7FwFdZZ9JQOaSOft9S9Jx3UDXRl3duH0vPEuLj89U2gZtrrhSHVR+VABUcsr5DtMPwBWTMq6gk9skpV3SNouoszgdeH55si4fn+ozOXYk0cFIcaeJEItSs/cT1pdhaD0oLnw7lw2QPGpLtf0h18bI7eKb26k4JD46Mm1gLIVoa5+3fO3XAZBqBEKK9F9Ajr7oEgI=;jU2d9e9vKrLCz5YGjSQUnQ=="
 ---
 

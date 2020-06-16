@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/deploy-vms-from-vhd-templ
 type: course
 price: Free
 length: 42 mins
-heat: 50
+ratings:
+  count: 1042
+  average: 4.6928983
+heat: 85
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Deploy Azure virtual machines from VHD templates"
 
+secured: "+epyuPUDAR88z9EYaJ+pwIOTsRoyphPnZAxuCtWS1/oVd7DPLB32bOxLWTS/8up3UikpB6JpIt4HvTOaMjoVcDTkS04HHJQ8RXjwnx3NuEZU3fLjVX8wS2fU2sPB2w3UBxF/UJiChjiWwS68BrNungQTfiUbiXCMLbDYSrIM7ZPIMfnI3Tdw7tLgEYziBJF8vmFNWI0Z/zPhpT4uNBDB6dJ1eAEkkUHY5yQyo52QLFibAJPrnMmt3AhL457S1rLL5KZo0ZDv3+NgOyp3LWY0ytOPL3VrtHuCDZAEUCYzOEyRV/GzciFmg81shSo9m52rkJFuYhrO7iSsQjFmnesqexyw49uYr34UM83SG7KCu+JeC7gs2yngfZ0WCjRv0Dqi;kpFObSCgRnfzmyIwgdSEaQ=="
 ---
 

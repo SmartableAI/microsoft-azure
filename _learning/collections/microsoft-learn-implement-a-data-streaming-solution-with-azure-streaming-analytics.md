@@ -4,7 +4,7 @@ excerpt: "Learn the concepts of event processing and streaming data and how this
 type: collection
 price: Free
 length: PT1H14M
-heat: 100
+heat: 168
 
 provider:
   name: Microsoft Learn

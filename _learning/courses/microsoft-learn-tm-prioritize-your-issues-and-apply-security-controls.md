@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/tm-prioritize-your-issues
 type: course
 price: Free
 length: 14 mins
-heat: 50
+ratings:
+  count: 101
+  average: 4.643564
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -35,5 +38,6 @@ images:
     isCached: true
     title: "Prioritize your issues and apply security controls"
 
+secured: "eU6z3rKMm0Wnb+SFBQ8vyN7HQwxzmvnAQWsa7pJQx5qdRta2NjDAz1Yu/P1+csA31KaBP8/0oEoqiGMGrj3QkhI5oWrIpK1+l+PUOn1/J0nSbAxQaagbVWBn9ob3p4B8RhtZYCZSvtfHz/pZu00zbrNwds5EK5uJ3Kpb8wHZaxfEmTzHHRF+j54rNZTJBEuyF0Is1RD7k4azzW9h3SB/s8N3HzcJg2JMmk9m6zSofGYdO+C1I/QUxA9ACcrQPc1yxp+r+0WRpaujM+jfhTC9XhhzJFLDvPl+p+WmKFVjA1CWkPk+OIteu76VHxZVlnd4Gw3Dp0JO1UUiDq04CvCIR8LvoGU9324z390GoafOKvE=;IPUu2ZPJwn0FIY1bcZ385A=="
 ---
 

@@ -5,6 +5,9 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/monitor-data-drift-with-a
 type: course
 price: Free
 length: PT42M
+ratings:
+  count: 10
+  average: 4.9
 heat: 50
 
 provider:
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Monitor data drift with Azure Machine Learning"
 
+secured: "lADYzonB5YxpgEqUDQ0O2fjEzL7kvAU0LwI9mHY4Zr1teqa4wVwJgreswqL86Qaiaga0jddjcKUduONUzf1s6khfDKvw24NIDCBpb7y1Y2tbsvcnHb1UUQkvoznnqQKrFxqR/chGeVkSRQmBCwdXX+C4ED+2qfEhtqZpmRT4JQAHUszXvX7WB7pJ4/GjRYcYidnAhOgf/vEarHCpsO6I3Ayhnad5o19O+zRnvaiNNOTo9HaBpmDWaKx9dh7XVc3SRgm2LO/2lKORpX1fDhnk6ClDGLF3WGNFlBO5x4mLNn2Ys5sqX/76BpuqljZJVNn2iOYn02OpdQC9NR9YtcIRo5CW+90gGA3HAUN51g+HYXw=;srv+QUxCwraDWTz9yV38qw=="
 ---
 

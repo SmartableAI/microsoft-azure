@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/logic-apps-and-custom-con
 type: course
 price: Free
 length: 40 mins
-heat: 50
+ratings:
+  count: 433
+  average: 4.5658197
+heat: 66
 
 provider:
   name: Microsoft Learn
@@ -31,5 +34,6 @@ images:
     isCached: true
     title: "Call an API from a Logic Apps workflow using a custom connector"
 
+secured: "fVcXqNl1ZwBy4NDnDifOrvfo7FkXjnPYWK23ZP3vdXbyz5zlawKcj3XKlUKDsI0hR/HgRgrY20WiEA8rSZgmI4bWkkFBAAAUd/rDdxVHatUkL7Zl+s5UgiMvQ8oKFX8Bj+AOCxsRlC+kaYt2zt+zo2UOdq4CgZEQxG/6UNlpNmSW8Ack1z4oc6uVogBWUjCp9aUvsveYngmRYpgAkDfwSVrK1iM9QyL9GPr/ihovo1TLJ7YgcbCyZP4A9/hSE2jVwD2nf3kVpH3uxJ0tWJwweEKeYZndzO4HJSTAdibexta8YsIb9XEPYyj4ZcmGrVzSjQ7Bd9FUviHcIkVfrbwEdQir+N9AXM/Pyg8ijX3ZfpK3138SlIesRmTqaQFcZbfz;oz5tThrZ5rgK4B/Hflw3Ig=="
 ---
 

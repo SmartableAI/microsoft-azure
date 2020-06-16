@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/monitor-and-scale-cosmos-
 type: course
 price: Free
 length: 76 mins
-heat: 50
+ratings:
+  count: 887
+  average: 4.6020293
+heat: 81
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Optimize the performance of Azure Cosmos DB by using partitioning and indexing strategies"
 
+secured: "4yH0WROY/KkUhyJjbrgZG+O1S0HRMLi0XjcfuUxot0ruxeUWNks6UFc9YMs2Qy3hLcV5Cx2NyHoUcWVhLU6+pkQ01Z/mDlaSTraSzPW+w463fZiM0sl1AHp+dIfDd/CTr0kt1xaEqEzTcgIpa3QpcpxcjJEgJ3cvvIEwpVyEqrleRlOQkelcjrQovxoDW71I56TWUEvcBYvG3s8+SPRg0s5oJwy6VKFuXovcMMxIJUh9zk7dwn1hOTOIST8XpdohiIVnNPj0/rydwD4GogeIea1cxm4jAvzArQl+2xHycSoCMFgjhLTz4apaL1IQWzzIdIs5kt9Fhc4HbgqyteHE2pkcfSMAkMRlc+xFSktFGhfQeK6P66KL7jQDLGpT4IsV;st59igHmRT6wTi1Rw9lWwA=="
 ---
 

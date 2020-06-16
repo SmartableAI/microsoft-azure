@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/cmu-disaster-recovery-bac
 type: course
 price: Free
 length: 61 mins
-heat: 50
+ratings:
+  count: 27
+  average: 4.6666665
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Disaster recovery and backup"
 
+secured: "yYUnfBvWaOunY/SKgXYbTEIeR+ixgRNRdB8tGx3KMutCFERh7dWc+DsoD+fp6Zdj8O8N11Fx//EHJx39Gmfp2xqd2A0QeWUKXRstnRscxU5EziC/k2lZGzEi5g42g2XF2ZKJCdIv8+iLwwgkIcH2IJdWFWsoT9QZeO8YcL/frsxgyJ5+QH2MznlP/zO1qxi5lSGVD2tDnssyhuMSBMonAkCeINtHbpqYmNzIHeepHL2IGtXcIArBqlkCLL6YFCRMX/oQpEt5IXblniIodI5WAOufL0mNHO+MZWR/Bxly6v/P0rHMR8TiIRgF3f6Rs+yLbbYW2IvHGBqlnvzilHqFd9gYNNN2dbRiRwhxoFtj5hc=;SuVa5+i4tAyiYGax/MriFg=="
 ---
 

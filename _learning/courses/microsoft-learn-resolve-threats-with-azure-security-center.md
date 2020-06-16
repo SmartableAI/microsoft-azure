@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/resolve-threats-with-azur
 type: course
 price: Free
 length: 44 mins
-heat: 50
+ratings:
+  count: 731
+  average: 4.5403557
+heat: 76
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Resolve security threats with Azure Security Center"
 
+secured: "5QWYqWjOb3loPYV9yfYrgnMvjyP/rn4ku03DyFd8D7+T8ExqCGpRb2OsKi6OFYKUU8/ycBG0jLO/YpC2RviIxrJ/L1TwGmLdhXLnRIaq0a8o+nFgXA7XLJWlo5SvgH6c2WHFa13VL16gJRSLmQ+Q0Gz+YlzvmdTDdiuvwRJxwuL1Ok5q+mKEhqkox5JnNAvdDJ7dMMmfM/nQO9i6NlUEG3ljebCDc64UP9Q4qHQOjO0R9BU4EvTTHsWmw6vx06mvZAozv5Iis5BnDXWfnQKeib2Mpv4d9ApfYyjf7M7BhcYouZC8LhzzLJ4so/S6Y0iURQObbO1C3U9335bAAdENLbHk5ADSdvvBCJB7orRppV7EbO154shSrotglOBqbjdM;5/na6QOdXB5Pds4vgQm6Lg=="
 ---
 

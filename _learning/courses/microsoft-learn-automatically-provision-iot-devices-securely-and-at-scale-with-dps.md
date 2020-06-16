@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/securely-provision-iot-de
 type: course
 price: Free
 length: 57 mins
-heat: 50
+ratings:
+  count: 113
+  average: 4.619469
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Automatically provision IoT devices securely and at scale with the Device Provisioning Service"
 
+secured: "4ZYj8df5EWadQbbzsULvqWKVV4X7JP8JXvT+YE7iSio2M+5QyAcQxZLiBstO7D8Fcc69y/haVg+jBsn9UIF0dJBB7XL9WMBnH+sQTz2eU4F3AO4X3fj9QefvNTkGJlYpgGvEkAXXrUYgTtbm2NmlwMZdAKR4lAOaPrLEIJkU+cjz/FjE+1pmfCS8EtQbhUjwdU2LORIZBx2V4gK+DJmvmqppj6IJiJbHy4LGSW7yWOLNqlsLc79Xz+d97v9aF7hj0LJ+2cdyPbcpAuUW/mh3UY/HvbPxqJUbqvzmMcpB1/FWoMhtrJJD62YjDoDSzJtiMptKpTdoXJtl8mRMAGj5NUY+2JuyuQjz9mtYxMW+g2KRpglpMt8AmeehG+T2s3iL;8nvQp0RO1wUC9B0YH055rA=="
 ---
 

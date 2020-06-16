@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/perform-zero-etl-analytic
 type: course
 price: Free
 length: PT56M
-heat: 50
+ratings:
+  count: 78
+  average: 4.6153846
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Perform Zero ETL analytics with HDInsight Interactive Query"
 
+secured: "aqa4EdAvNCtxBnfuR0c5/miS06MH6ZXMlh6yPbD8DGNVoDEMQ+GqIKjJnGrpFmo8MQ5sjiSf6n2NccG4WKuCohtLqULlmxKo7tfF64QVBi4wE/etdxJrboJrEMlMf59nexCM8jf4JyP6DDxpGytvoNZbvfiMALxV1QMz+9NPH2tBgfUqVCxKlwNeRz3pTjFxXY8qUMQ6e5hD1wRjP5pX5UopT13j1mkf8fMsUuQ2nUZvZDtizpPJJ6pa86+YvKPbpvu9BZBjLgWbjsuJEzP4HADD1dtEqmtzWHPmw7h4VaR21dOqkc3lZF6Ioiw6N6uHzKnLDMOw/JHEoBYEh512KjJ2QDdrz3Z45WydvQeXfxk=;aM+IrVAc/kEiR30rVP7+Aw=="
 ---
 

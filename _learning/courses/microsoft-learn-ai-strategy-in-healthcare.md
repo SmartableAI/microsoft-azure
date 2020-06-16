@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-healthcare
 type: course
 price: Free
 length: 40 mins
-heat: 50
+ratings:
+  count: 526
+  average: 4.78327
+heat: 70
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Define an AI strategy to create business value in healthcare"
 
+secured: "mfZoPFg6PYXGhkS9eFp0vRfUDj+OBgbo3xeG+FetKfNCZRGR+5U/mJe0L9I5VdjBfQhPeuv/3ciiBrznhmbQxDk+0mTZCOV+YUk9Oc5IQljI4G+/xzQTVMUMuWYE5xB58g5AaePf+CKP2Xs6xt7WiTkhr7epxwW/jDukjuu2zTAd3y8lkblA0W0zstmBwJkpyJjdogTuNoKHwKUEzUvKWqU3/vyHKkeyqt94Amt6sIPenK6PzYd27ibNDAx5gdLqwHJBNyDpfABhdzn9ycjgluI79QnluCjAAgZlfQ0tw3tw0gqlfSLGHiHZtlQ7eStVantkD/y4pgsyX0Hueo0pL3F/u2vpSuP1ci80lUaV+QsB5GEZ5UqfWAHWAErt9OGz;qKM1SmWhxQc+c3UTQcSrcg=="
 ---
 

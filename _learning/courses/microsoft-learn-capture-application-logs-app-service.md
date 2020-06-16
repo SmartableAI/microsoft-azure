@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-
 type: course
 price: Free
 length: 55 mins
-heat: 50
+ratings:
+  count: 442
+  average: 4.59276
+heat: 67
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Capture Web Application Logs with App Service Diagnostics Logging"
 
+secured: "8rOPjcG/fOvbrNNn011b/DlHHxmoTpfj/eQI2ONMvSCPkehrKn4kTHSDJj4NeTeaAjUgnDsOOGGAcX2Iyyw5iwjHqt1dZyShKwFW41TjMR7z+myp9wv3yarhrRUSxWwM8U1mQoZVaFV3u0Ng7LcjLGjQ6WzQc+dW7yQsZW9gCBMl4YgFpFonEZ/oJ7ANYRtiDBU5gYjmP6Q1Pb9G73sjaTEhNUP1S83Z/ai/+l0GRRjvAVxKvfrPJ246WGTp/PSN+2Z+NNp0aeqgfmdyV7KQ5SleBU5Iu6KsNQ3fgXoPKmkxItS4ZmiE2676cT/hLU0ntSES9tLX3kDgd1ZcHemU+UZZPBKHXEbG8gJxf6xEetFHjfxFTeMui7dTogGPSPr7;JF3d9TrguFAPn6LsKQRlOA=="
 ---
 

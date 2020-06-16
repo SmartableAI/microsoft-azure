@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimiz
 type: course
 price: Free
 length: 74 mins
-heat: 50
+ratings:
+  count: 33535
+  average: 4.7122707
+heat: 272
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Predict costs and optimize spending for Azure"
 
+secured: "w3ZQPrhQ7aI7Sv3eVAPiUzsPjvkPCUlB/PbiTjaBdrulNSdcZTULvYy4Bvv8+bftQj2dA7QB8GYHr3o8WXTHqEhJbtgd0Jk6MOIDmsO4Fn7DT17v+wjR7jk2bMcgzfWAkZ8qWQB0h3CZiQHH+dT+SicJ0MdX1n4e9EWlQ1npRrfXG5Jr8Z1bsKNAE+na7yClZEK70TQmaGWmpBloD6lRKB1wq+2evKzJR6feLEHeObSraw4hZwJvsy9n7wo6WGZ4HbGuKyPqsD3fCzhmxS5P6viHISCi9s/GHMp9p+0CNk8QtMLrcVnKgbUyUYYQbDxSiemA3zMIo7P97Or1xYMZG77QP8c3aIsph13/mz2429FkekQ5nBQMBwL3sT+S5vSJ;xHVTmlWtAY0lJgunGyLqPw=="
 ---
 

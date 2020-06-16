@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/m365-identity-provisionin
 type: course
 price: Free
 length: 17 mins
-heat: 50
+ratings:
+  count: 927
+  average: 4.725998
+heat: 82
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Simplify access and identity provisioning with Microsoft 365"
 
+secured: "Ricn04yueOxnY0palEQj0h097gnvmYVOvUiQiVjbxfga4CHOb8RLCv4ymJXNJxZaUQ6JPe6C1SOhs26nqvGzAxXzj+0oo+xCJor5LdNJ34bkFtJwHw9xF7+dDEVo29i/48CW0cIkkLK4Y5HlCD2bGTo1eMQBCMGfP3TZcsoHFy6bb/ddlgXVT2mDuLynI7jhJeyOSLt9qVh9BxX4ZNzRDfZA/11KOhmCLX8k00dnsOpuEx4MfXsfsOwFmgJ65EzfA0FF2YPLL39LysJ1O6iopmkfz3YItZWrhuQVlO8+PYj5ClJno85EUtrbz7dsfiDenb4LgXBRxranl4ZhZbhnMEn8+RrPY1g8JE3Q/oZjdJBl6A0ozob5WcgGaJAttUZ/;f4tBDH16BW6mZ4neOc+WsQ=="
 ---
 

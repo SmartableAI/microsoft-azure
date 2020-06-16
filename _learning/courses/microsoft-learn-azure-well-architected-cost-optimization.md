@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-co
 type: course
 price: Free
 length: PT51M
-heat: 50
+ratings:
+  count: 255
+  average: 4.7137256
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Microsoft Azure Well-Architected Framework - Cost optimization"
 
+secured: "PsqF+Mjpi4iVIZd7bTB9lmapGLH29wP55gwP5IjEO+cM06dwzidOHg6Kk7KEUApICt31MkWLRONaDadmbfHbLIyJ450X84cIUzFaqg+3pEIG1EinpBclYoCQqiaNbreGUoW7a6m1xWt5PE5TNFPIbceQrxkcoDF+0qluV9vPEbsCD5n35SzC888soHCFRXu4ByFZRDGDRdds3nmjZT64qYYBdVl77g1S0aT19yw62hjaVbog43Vt1lsgnTmIve9Ak/8LEpoAi1PaOXgkdV6pgbFAG7fNT2b9eOOQa/zmlA2FtzqVCw1BADDW0EENTMSWcu11CFfQvWVPL4rpbbBy5PRm4Lii72ZXVUFJ8jGTw6FOFH+9Pf21TJA+Ye989Wwj;p7h7ZjIPJQW0TgpYBY4mkQ=="
 ---
 

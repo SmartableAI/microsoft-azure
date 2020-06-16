@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/create-classification-mod
 type: course
 price: Free
 length: PT60M
-heat: 50
+ratings:
+  count: 54
+  average: 4.7222223
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -22,5 +25,6 @@ topics:
   - Azure
   - AI
 
+secured: "jXqC4ZEJP98+tESSpNR+9FSAxYq6qaXFqvZ5JK1avLghrNsdfiBEp2uyNbIykcwdlEdYMLNHxdDa9o4SQSFik1SJU9uo79WQTYZRLuj3bvo3P0GAxnrKI4/CzNtaegM+c1vMkgYWSyUWA/pz4YFKZ3+feJTNT2sc0lchCligTXyCidwekQkF9nd/f0Xtwf8Tja1oYHWdu1GwDiBSD0TUGCVrWvPVDYCC2D2warINjX3bZXKed/pYREYUDyDM6jT7R3ztWsBxb5g4HVChmsjQX9O63Ds/aAzYMsvyPWBGYrvfxCJXW/mVRyDoDuTOVMnEwPWoXVKYz38rn1MCrjZDQwMm1V6+Bj/wGQOwR3Vm9eg=;NfqonbFs2k0xfIpYyzsSvQ=="
 ---
 

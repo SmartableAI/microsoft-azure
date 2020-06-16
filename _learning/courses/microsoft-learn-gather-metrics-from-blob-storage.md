@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/gather-metrics-blob-stora
 type: course
 price: Free
 length: 86 mins
-heat: 50
+ratings:
+  count: 30
+  average: 4.5
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Gather metrics from your Azure Blob Storage containers"
 
+secured: "PmqLbQ32foyyA3rEUM5aEvXFmOxhAwZRKeXrO9dLqHkKCn+AKNBpOUEQ0QIwJqQ9bANSqTI80F/XcoBACB6bymEQ1uRrfTkAmTn12cTnBumfFcq5ArnkhREFNCaPvw64opSzZ2W9lm3biWe7L4O5nTkY34ttSCtAXztAFKVqtHUKs1VCVlVjhzANwdV6POjJcUkRAiy3cILl42iejjkaWshjS+IlaSDa5dpZYLKuuHVxJrQiTlDyXhiA7OI/qgUem5p1lf3Lg2o6hFuYgvkezLTwZmQOKIZcxPM5E/4ocls/sKydKFTDtX7q3Sv11/Gh9mpbWWaD2pKEmqukeyFXyWv5/9MAskcwHeYrCWQiEPw=;neI/pc8Izcfze5Gs3kCaOw=="
 ---
 

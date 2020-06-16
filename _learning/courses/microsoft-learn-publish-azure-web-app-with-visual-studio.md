@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/publish-azure-web-app-wit
 type: course
 price: Free
 length: 47 mins
-heat: 50
+ratings:
+  count: 2445
+  average: 4.6715746
+heat: 116
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Publish a web app to Azure with Visual Studio"
 
+secured: "a8qPTZg3UJ+1HZ3i71KJ3/GC3uZUpDDXSL+sC31qSsJzr/9LWM+tGeYe+/RUC157nD1BrBtADzqGf42eOJ5DXsPJsRTIhNp9UHW0aaIKaQ7VBJj7Uv7g+kyAspYW0IojNdQa8qYNXbnYiX0pJkN+d0Y1wmwutbeJEVrdKlM2qMLI29pAp0WFzkmACYBHodxPdJbvvUNr3KKu4SZ/kfXIuwrQBmsvPyELy0beLf0VGA9QBGYXvgK6f1ygWSsPb7YcHWBHSlPL3rbQbmdcbXOrFVd0anh+4SlMlpmgOjAxD9xlraL/fHv+fV5kiI7Yb3df2rAWU/L/WZ/j7704U6QH3CeDRr6MWy4iy43fDPV2dJ5rNc6lmEs9u+txypWTcMbr;ryl42LOY1ZmLic0KvC4c6g=="
 ---
 

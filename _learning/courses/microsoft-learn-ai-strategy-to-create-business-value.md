@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-bus
 type: course
 price: Free
 length: 70 mins
-heat: 50
+ratings:
+  count: 1805
+  average: 4.6897507
+heat: 104
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Define an AI strategy to create business value"
 
+secured: "fwUjWLBLLGY4Za3mZ6MSwtFqRWQVRiQaVAZjuY2lShbOx8ZBWOxM1/jRBuJPdBFMtNxg+cJh8GpGGWYuld1fQ2+EO22rZGk2k1mX8JIT/8cdbhLOyjt2RjsNRbfMxJDiRHMUoLJF7gYa8Qo3xTb5bn+xAuBXac4xR5fHFsTY10h4dclp9MaFKtAtm7kxxIEyZGoStatAbdOineYstY5CFIbhib+8Gk4nQccoFpN/bCEgpW54yz+W8ch7vQi6vghdOnaBPPICrKUFlP5Qsyj71yDFsW2mHzHO/6E2xCxtCGB4v+KBTdbp8b6rHuxFbJ97/HzigJtXBgwAnMoWoKzbDaGeWkIKGRSrH+94SwxOJlCXhb209AZTgg2hZjnsMDd3;l1e9YV6w7drFXhBkYo178Q=="
 ---
 

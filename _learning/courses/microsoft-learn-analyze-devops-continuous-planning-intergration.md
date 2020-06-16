@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/analyze-devops-continuous
 type: course
 price: Free
 length: 22 mins
-heat: 50
+ratings:
+  count: 171
+  average: 4.754386
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Analyze DevOps Continuous Planning and Continuous Integration"
 
+secured: "cIi+lEnTHbcmDKAn/xFVrehzIrN4FiPi8qiq0C0Ws+QBjGcmwOFPVJDQkND+3sN0/+CR4Xaj9DeUMB7O45mCJZMjwY9UqYNgtXg0IJOxVJ+jcS7TtLacfQ/zY6tmk2pNPtuGtSzpfvWFa+G3Xak3RN33gGZMaHiQshO3hmJ2VfwHksbup+Zh/zMdzQW0A6Vvjcl3Mxi1U3bZaAhYEu1VWY819O71uL4+BMem6Qye/CD9EsjuU3CDPmdkkj1f4PRH3EHHr5L8TtzbzqbtNQJ9RhbVvtxqhXlYre1J3BaQr4UB1kWnobMShetN0+kUxJjE9rij3YPFvTC3sbIDNOuIphXdgjhK3W7vKQFOqydEOU8=;5bqNpsQBmkOfDB+PhGoWSA=="
 ---
 

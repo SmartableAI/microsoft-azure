@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/secure-vms-with-azure-sec
 type: course
 price: Free
 length: 44 mins
-heat: 50
+ratings:
+  count: 628
+  average: 4.6273885
+heat: 73
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Protect your servers and VMs from brute-force and malware attacks with Azure Security Center"
 
+secured: "dpXWcAzS/wyxp+LNur9I2tBZ0bhoISMkwodB1jNFhrlWe2lPSkzFQQ2suhGwBff7OsCJhWOz8vjXDMGn9BEZveo5Fdv4kqPU/nBNO01vTTJc0teBT1asMJ8AKvp0m9drKaiRU6RRhsTlJnOidrS+e4kLG9inbfbCUB5VksLRfnLUhZBprAkQ1+rmPsRhccb7ssE4XFKDnPuMMCx3HwyGR1apj3PrmIv0fJqDsr4sIlwcGoCmkbQPNki90LaADv5TZiQkjxjBxfUpb2ETmH+rnxWaHJoL/+dhSJCpb2gFK2bdAflig3A8HlR+d5uUjj2fZph3fKSXrTSwKIn2yYuf+yM31WV5R42wOofY2ArFXfNyWw5y7rkncUygRpXIDIEw;ZBeHSLnGy1gMX1wnv2uoAQ=="
 ---
 

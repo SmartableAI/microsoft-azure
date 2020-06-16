@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/automate-model-selection-
 type: course
 price: Free
 length: 42 mins
-heat: 50
+ratings:
+  count: 751
+  average: 4.6178427
+heat: 77
 
 provider:
   name: Microsoft Learn
@@ -34,5 +37,6 @@ images:
     isCached: true
     title: "Automate machine learning model selection with Azure Machine Learning"
 
+secured: "d4vvbuehfmPBPWX7Ju/SH4JWmoGHonejNGdn/XocuTHBBqIyL6ikRHBGnowxzKbQr7bppmGHxXRp0wwXTq3/1xJkHbC4qodv0tBSPY46RtxFHwp4TitdEd3cYxJ5SKgVmEIHt6gs0f7ckZs42QCcCk4TmuOaCi/DzFOmmBfaSY6ZufVShEeXlIg1XwyHfW0VFWcR545dkNTyQc/bYw2JTXGqzdAsbPsqvR1nN8NgKFIwWppKhWiv2W+J4g6kmX9fRlej8FRbaosl/blOmwx0JVD7HABrmQSgJ2+XLVJQpiMHA90GqD3IJNm4ZdFXi+ZRkzgQXNe4P97BP+gEJbCwvjJvZlru6M35iGnVKAiQ61M=;3ACCGAHYBJOaAK7nzcRAuQ=="
 ---
 

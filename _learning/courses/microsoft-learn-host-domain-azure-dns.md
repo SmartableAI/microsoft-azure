@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/host-domain-azure-dns/
 type: course
 price: Free
 length: 43 mins
-heat: 50
+ratings:
+  count: 55
+  average: 4.7272725
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Host your domain on Azure DNS"
 
+secured: "JYhGJje4ASzMNvAnjTn4JxR5IW8cBGDy4ZRHcn7357tRyv4Lg/9cuqF6nDOeeafdS4D3T/Eo/cYC0xtNaMMfBhEJoMAfluBIh56y6qgsrZpC/9uvbeXiXHQA694VEs9OPU5uoccnePaPd5DTL1+3siuZx7KeUXkPfK/WI2DQbVbdhbNNGF0HkZK8M8/9OR48oRRpJX/UhZiH/zDzxbHaO7VESR1pv5GCYN+DHEuSKQdN/ASnUSDLc90PfRdWJxiu59RoXVwjnlfeuZXPGubtKKK8gBlH2BpxQZ1yfTGyt8hF44bCLbuMOCnRxDNwCIbIuqdRU2rAte1MqjhmjlParm8oiCwaw7b8NgimPM4jf6M=;50NYSHp9O4OAJSIQyZL3xg=="
 ---
 

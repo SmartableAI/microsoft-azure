@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/secure-data-at-rest/
 type: course
 price: Free
 length: 30 mins
-heat: 50
+ratings:
+  count: 160
+  average: 4.61875
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -31,5 +34,6 @@ images:
     isCached: true
     title: "Introduction to securing data at rest on Azure"
 
+secured: "tCNZLzFo+AIAru6qvoQlbDB+olMXYi1C2uVf9SnnKs1kn/lmKHdV8hAe0X5/aCF0igbkubZlGLBqiaiPoIw6F5BfzpL7/EnrlSDD61LseYCX3eJ3x+aFZRYGvJMDvNtqFollogaJLaNs0GBeDxyR4dy+CVIo9XqEn0WxYFtrJjEE/puJdk+B7CnBlCQaS3pvD2oOhYPOmyUwVDd6Luxe8DSqq1HM0fi2CrV92FMimZm9PoC5mUl1pMygfgwXWFngSmeKklJBGAvAZlbKB06CTVg+BR4Sfwt8gUzesxPK1SbxVmSNlDT3HAfgG1jBVvBSRg6T5OrfkODk7VNHyrmBIAPUzRKfexnkBTYumSSQoSzmhd/qzc7z8NgVrRUYCtQJ;3F6NxcftBBeLAQ1/KAGcrg=="
 ---
 

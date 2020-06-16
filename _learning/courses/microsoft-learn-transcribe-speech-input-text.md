@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/transcribe-speech-input-t
 type: course
 price: Free
 length: PT27M
-heat: 50
+ratings:
+  count: 92
+  average: 4.75
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Transcribe speech input to text"
 
+secured: "6jns6CibIgSQOY4pfKVvNP76h4yx9pQDPstEB1MSk2v4CipnklUNuEMD0JXzkU9x2IeWW2ToEgQVhJ2QcqBb6SPP9yqON1CExriJefe4hP8/dPgkg1dH1OwlHHPqrLFeLFzK93I/h02bHB20ykRTT7DGY+jpp/2aEWaSwE68KIw/6ltvlabMl6B06bpuXtblKgaWuUp8SN/Fi6WE5AlyHAY7sTAcZ56aqLBTPqXfboebcvyanj+sD3B9PoKQvMdgS8NHEGcx4qwOHcmRzxe0C972fk2n6KrSKtgydv1fpLZIsOMG4Qd3N85aUp5Byizqgr4IJhWeXM7ldMQvsabZrmacHY23t1ghSc0Ai9l8uKs=;JwKDRcgUO2gEzoCe8X5lMg=="
 ---
 

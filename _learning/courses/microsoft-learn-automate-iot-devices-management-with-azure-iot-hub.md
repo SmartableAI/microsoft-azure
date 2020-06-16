@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/automate-iot-devices-mana
 type: course
 price: Free
 length: 53 mins
-heat: 50
+ratings:
+  count: 90
+  average: 4.733333
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Automate IoT devices management with Azure IoT Hub"
 
+secured: "ERyZ00vzfmRSDNAiLTgimaas1qx0K4/vsHg8QGXoPL0ennxX0l/Ec4QWa+S7FJijNiIuA+GZoHyytKPLJ/9WztPYnrZGJa6AHMqpf1uaWLhpnJFTyK95z6CZp7pz1XyW5eC9gkKQvwqZX76t6qltNvNOgDrrCnafOczdgf0zfE9noqx+lDllnVE7AxXXywOLt+n2kqrnbvojJnpeRXbvft003DIl5fffted7O7wWReaGFUX+1DU+FNdA8z4gn7w51aGxR7ZaF5L20Gen5mTGYh7A/41q9tmztSfYY2wh/khm0gD7dxO7UbJfreDrw0wA3QoNaig82YCcU0yHMj8zCayDXawFFt86m6pKmcc1aPM=;atoffs7FXDnO/cNNphUgOw=="
 ---
 

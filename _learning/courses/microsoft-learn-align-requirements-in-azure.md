@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/align-requirements-in-azu
 type: course
 price: Free
 length: 35 mins
-heat: 50
+ratings:
+  count: 4856
+  average: 4.7339373
+heat: 150
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Align requirements with cloud types and service models in Azure"
 
+secured: "BdVXm5bDI+htARePfaqzXjZxWX4WNDp9VWCBRxoffwqxX3cyU59z4/cPRdiojaOgReukQIBXZUKeqo8fon6p6odRr+EFzPFDHV1RZ0gc40cfEW0M5xjBF+nwThswlwSkhJToTHZlI0SpMP/ZHDtT3K/6lzzmyr+0+ScA/HUsW/muFfViLj+qfwIYvTo4KuNHyp12EZCa+N8LpWedij2JhuSEYv2wkCyFj1YWbkSVDFmLsu2tk91Zw1SKQCt0L26ncUT1Z6I4BLZxADWz1aWofvk33eiDdFlgU/bhNkf9rKRSBRAkHXaEEagWY/WSR0OzyG60ffGAibAMXpX0QMhpadXaoGkZTEi5O6ILaJEOHve/s+fMV3r4zL3wXZ7aAMrp;jey48CpeEcQJEkDu8RqhCg=="
 ---
 

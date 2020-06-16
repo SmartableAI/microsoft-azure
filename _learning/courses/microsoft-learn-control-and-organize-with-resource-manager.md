@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with
 type: course
 price: Free
 length: 46 mins
-heat: 50
+ratings:
+  count: 31739
+  average: 4.710419
+heat: 268
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Control and organize Azure resources with Azure Resource Manager"
 
+secured: "ycWyifVxSWlm2M3cML/tZEoyUvHhaHzpO2guZ3ZVlC/PdNsGciMFU4M535K9grK1hbvj/rY9+JnCo2t0Z1lTPY/jU6DnWZ6ZKoYeT4qJWrfNWdR4xmXzIgiBJXtevVLCf9dexql0BVW5JdadHNGwBMuK5TCHzkGasG1Azezif8mVSu9aGgLxfI05jkDk26hTAZCQyV4Pw/G7sVQMmsca55ibIf5HJGbXPPCXjcjMsVrnp95v0ITAV7qnttPytOoJr3wUU7bTuD8bdJPwyWu7ZlZyYmZ0AU+ABN9OoUl8vSnO2YQCUwdrgoOCPaj56ZdM6pZhkb0gqkmE2090mXAviL+zaFLo0nasc6vp6V3ybsAjsXqPXhkItQVwPC41jj61;Q31qtsLOs6l4HCPZfYN7mA=="
 ---
 

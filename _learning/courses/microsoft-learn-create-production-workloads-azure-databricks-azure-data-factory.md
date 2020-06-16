@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/create-production-workloa
 type: course
 price: Free
 length: PT33M
-heat: 50
+ratings:
+  count: 30
+  average: 4.4666667
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Create production workloads on Azure Databricks with Azure Data Factory"
 
+secured: "2ZbnWSwUzJ2fk1ev8niEyxWyMy+sCtVSWDyMZ8Cx2u3o9ZIQKWRJ3ZIlqAB45nnPZb4G88gDOcbqIR5U2UyJ5SxRjhUpzNdHaKidPXiP2O+baFjBzUa/zWgrCQKsklAINQL6mnF1lMz7BUOg02IZvJGUFU4DQx3EDn3e6nEEZBDdGdY9Ug+xN3gDHqVyrxJ2FrGrWr7PlkOqATmoyKjnQ2Pery3AT2B2IKRY+hMcV6bYM7A8Oha2c7JKvGknsYVdGAmiUdolKrfnht5J6ekJkDspiMhzXSnYcEvvZjRvimF92YPaDp57nYPNKLCwxrP7t/ugU/xK1nOgN2g2GiI2k7nI9GRFZKZqwtPfHGxNUC0=;5lD/qWbB5vie+Gktv0xANA=="
 ---
 

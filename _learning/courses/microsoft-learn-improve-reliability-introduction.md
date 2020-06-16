@@ -5,6 +5,9 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/improve-reliability-intro
 type: course
 price: Free
 length: PT10M
+ratings:
+  count: 8
+  average: 4.25
 heat: 50
 
 provider:
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Improve your reliability with modern operations practices: An introduction"
 
+secured: "4SYcmbnzcKWzocsy++nScLQnoKsOKjSGEcArL6Z+TEhZ70v3dIpbXon5t4eszcpwrhXCCUTQ2leqhS2M3N7WW+Vsg6CFk7X5QDtq9EprFSbMU5S+lSws6PHPQ+1Epo2GeRWAqsdp4DcM1oA+eBu5nxdF6WnGKr0rgK8sO98N8TCx+RIyeZvV+mhxhdusdco2ptO1VSV9K1Odv12dIDK4SZA75pO9hsRwgXJr/sESYGag/JpkuRvVQ/iMFeTm2jdqlkoOAhw/djeIaTbSsDF5e2t0VvvcOwMElQxqV8kLVmDUQ6fQzFLeNJfEc2Vq6wUCZR/QZRBQZj+AVXUPZNEQNRJkJZ+lAZwfbwtErqundFo=;9iToarBNtC8EFKbMNTescA=="
 ---
 

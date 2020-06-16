@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks
 type: course
 price: Free
 length: PT53M
-heat: 50
+ratings:
+  count: 93
+  average: 4.451613
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Describe Azure Databricks"
 
+secured: "jywOjzbctUXA2dK/HUgwBZ2N1+U0iPA61vtSvd3iW6EBV2LWVf+F43gkpnR5RpOvt8WGfM3M70HwBdJlhuo18uCACelX1BN6R/UgWRslN8h6L0qt15VIDuV7fxw/HdWv4hZGE5rty0mBA5K5I4GRqta8L2M6cFAYR3WYvR9WuQnyLvLgCfkQuQ5aO8VvoT1tkMVLuUZjebHcwShBXy6epcTY6IkF8sj2jikBM+hc+l/g2SMTgMohGUcd9XWSTWNAKDPQ0UxOAl6gjQ0NQ7rw6BuLTb/DoM/6WVzitDJgGOBim/+FmneHVI1z0crrLqT72qO2VJ+SRnxuVpA7QAyiH94N8YBBubemhsqkRIu1x7k=;yjZLOAQtxSr+JSwjisbe4A=="
 ---
 

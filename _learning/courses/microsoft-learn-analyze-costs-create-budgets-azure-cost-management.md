@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/analyze-costs-create-budg
 type: course
 price: Free
 length: PT40M
-heat: 50
+ratings:
+  count: 252
+  average: 4.6507936
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Analyze costs and create budgets with Azure Cost Management"
 
+secured: "XD8FQdnkpOiy9Plh1oi8DbDSRRVd4VVtP9ugNWWjW4bBMtwDS+D6BwLThPDU7vWVxIgKpK3/GfhdI9gSoXLcYklgxTduLrDOTeTAvpTHMnEjUM1SIw3jqsJTqwrTMW0KBXRtGXNDZbg2k1XRmUz0XX1jv4vTdwsWlm+w1X1AXijpnNhRfgUVACKgaTqjQ8tO7DT0JuO2/HhAUgY7nu3dzcQaDdrKiAPIqWnlYlQp8QepVfo9tuuz8ZFr3THvlXypS2bWkpLYM9eXOurl85Vn1N7jmcgHdBdTU+rIhr+Rxu/zMD1oLewlXId0zkpNFnAzHVSdrT29eS8HxFrbdEwWwauTq35kCrqJSX9btuKWEcM=;rDpnpQkDOB32mvkGQ1ilaQ=="
 ---
 

@@ -5,6 +5,9 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/improve-reliability-deplo
 type: course
 price: Free
 length: PT18M
+ratings:
+  count: 2
+  average: 4.5
 heat: 50
 
 provider:
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Improve your reliability with modern operations practices: Deployment"
 
+secured: "SehkrYM1R5Iy7O0Grj2AUwywbqlnaX3/VmqccC442sOpvpKgJZowFBiJma4ohgcUX3DO0UOBWDASMXslaLCbJoYoGwhbgA21ik+vFlm+GWROhDhj2sQQHRD898e4WnRft+FleHjTKie2peROUVVwsup0yAb+e1GE0H1vxzdKf0HjwnwfhB9vkslhYajy3ETEGY3c9TEfpvPhqYcosChFrgtcROqFqyOstsXe/LdXXxy91vgF/sy16RYs8EwcGXeuPoww0c+6+nNZHVLeOnhJdzQ1Ozof9AiZ6xR1MA25maDACdTR/61ABUoN2RZrzF7WtQCrLxIGdysgJFvVDcrH6yiAT1koB4XJs9pGTGt5t4A=;rRodUZDdrPn87pyfiGuiXg=="
 ---
 

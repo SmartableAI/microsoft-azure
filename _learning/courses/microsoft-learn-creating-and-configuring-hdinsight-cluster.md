@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/creating-and-configuring-
 type: course
 price: Free
 length: PT1H6M
-heat: 50
+ratings:
+  count: 98
+  average: 4.571429
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Creating and configuring a HDInsight cluster"
 
+secured: "QQ5hkRSTK9uWxnCe9Cb99+HvN+UIwTTFnD6/GzJjPl3zmewCNs5CeBx2OtHsNfdjt+KNdI0t9+XRKvvlrz/ixTGlzfpdNdKZbKPLU4+AAc5+20cged5Vp7SSq75Np9s2hwbiz8iGxuTzevKzqPN/mXkptfXCZiadWNiU28khA4cN7iG1MgruIdmL6wkHLYEXQPmgWlbjXU5S3m+39XMmvQB0ZYa6IXr14+R8qX/nQZrHBhT/ieL+kS5yDyRHs9QHv5WMP/F8NlCvZ+BstbiUC6KiGNkJOr2p/MZB/F50WMDq4sPor59I0dGxk1AcIHREb3CbfuzYug+2P6G4m5xFwJUbEviBmVrUroAHB8T+iWE=;ihsoLy58cCLbc4W4A+NAMQ=="
 ---
 

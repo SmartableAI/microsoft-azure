@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/characterize-devops-conti
 type: course
 price: Free
 length: 17 mins
-heat: 50
+ratings:
+  count: 135
+  average: 4.725926
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Characterize DevOps Continuous Collaboration and Continuous Improvement"
 
+secured: "WbENvAW+3l9+aFMyTJIt+ZJ8TTQrLCHecupOzHeXednJBbtn/Mm7sshxTup6wtxfy2KtvW/k+2iLfJNFthZH0JLt1kdX7PxFd32uBzB13B5m/ItovWP2Pk6dsv8gIAuk+0XTMDj3wmpUbLPptGIrU9aS3z7ZWCfllTQQrlq94+mjGWTfKIQSTFQOG9NprAc6WsRJS25a05XB8f9jhvHO47g9CxxNo3Ml7X8NfyISZiXz/jwyRRbZVRfan5nvf063wvFqRZVKnVrupHJ4ZlYteX6jQPGNqdo6+Su235meCG7mtI2zPN09GDbyKSXgGDzFjoKkseZOQWE3Zlx8K7P6/ylblC3jS+UTHBAc0bkYPaXjU7nE27MP9b+e5YYq/3Ry;GuPFAwweAnmWrYapBsJyAw=="
 ---
 

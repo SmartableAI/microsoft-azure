@@ -4,7 +4,7 @@ excerpt: "Azure includes a pre-configured virtual machine service for performing
 type: collection
 price: Free
 length: PT1H43M
-heat: 100
+heat: 160
 
 provider:
   name: Microsoft Learn

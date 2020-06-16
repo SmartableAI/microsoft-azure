@@ -5,6 +5,9 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/improve-reliability-failu
 type: course
 price: Free
 length: PT34M
+ratings:
+  count: 4
+  average: 4.25
 heat: 50
 
 provider:
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Improve your reliability with modern operations practices: Learning from failure"
 
+secured: "AmU/OjEQeZZloAIqwQXEFZpGXKwBxIWRcxAoYcBknLj4PRbzFP4SnvbGDtBYGGpQ1Ini9MIJHpdp+CERBfNNuA+PEcxa6hszq3Fuaen4W7Q32fFyqxikYU6rE50G37M1XDsSwdN5fWW/u8b2YeYk6/oXxUMwtgBpcmazrS/O8w9go64SbXKn06cl2eDj2lI0S4YXdh9hZocL2uC2OWm7LgrbKWXEeZcoGQ/u5p96zohkmCejQIft5TifNxCfYS+0/A782TbmYDrLnVuQoBoy5MTNHSCnA7HFZVIK61UQy7Wcrudoo9FqFG1Et+5k+USdECeTNkG+Cc2sY7x+FdADQJE78PWt4Anq6hHoiGg8RKg=;6ILezyR94ZnTC1cdCHpopA=="
 ---
 

@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/classify-images-custom-vi
 type: course
 price: Free
 length: 34 mins
-heat: 50
+ratings:
+  count: 53
+  average: 4.735849
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Classify images with the Custom Vision service"
 
+secured: "XvjiOuFLohVBykXKchf3RM+jQW/Xctvj1KSJn80OAvJXpjYs/ptVPMb5hMxBPRP+qIVMQwSCPfAqAkrO3MGD8k7acN3v4navo5uZdkUNLqEgMRwkGYIweVjXkebAH89G6CENqmx9p1Xgl+8X7x+5eBKVDngJDJg/myzeE1BG/QMDCmYKRXWa2D+QFjHlUiblTjssbwzHHJWvGE5hbvCY484n2aGjSYq2Ywtg29HGhTCEiVJwEZ0WPAw045ViOheZN//yn8uCGAcri4GNASDkZ6PRL2pAwPr79pbe+Z11ec03PuOT55qN6tPOa+lRh6wnfFIi74NGkC0VpEe7hTZm5AiWX22I2F0iwEYAxgfb50w=;Hc3k289NVpI8gVmhs4zPjg=="
 ---
 

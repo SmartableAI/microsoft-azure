@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/deploy-azure-functions/
 type: course
 price: Free
 length: 46 mins
-heat: 50
+ratings:
+  count: 189
+  average: 4.714286
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Automate Azure Functions deployments with Azure Pipelines"
 
+secured: "nFB8H0Hoht0zG+UuS+/xTRYpuou13a21XqOaEfi/PNJlYdJv7BFgJOjwFG/NiFTMdm3XvYKS47iw2x6Fr81DgzwkUXtc6+/ndKi2MPURxjj0DOEUksqLKJ1QETbzQ+N2LV40VgxrkkcTlvCrh/IvhlhRVKFx4g567lJC8CSkhH2oedTCyEFbM0OivNxjaN+GG/Kx+XV2t5WpQIHZ+uaecBaH6N9GlUZOIymeEXpL9eiQiRDmEmzc+6qRponrxj8u9Vj7UBBWu0k4Xa2UqsEZMF0wdU+ex6zbBU28XHPTgTCh5Ek8E3eZP8DOMTXuPFQU/0gyXgR/pwRrxFImMOwJoWUdnc19gB2AG7V/ytB62A8=;IO46ax9mJ+WwNBcZxBWtAg=="
 ---
 

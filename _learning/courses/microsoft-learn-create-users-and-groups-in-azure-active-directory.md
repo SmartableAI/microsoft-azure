@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-i
 type: course
 price: Free
 length: 41 mins
-heat: 50
+ratings:
+  count: 1009
+  average: 4.6580772
+heat: 84
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Create Azure users and groups in Azure Active Directory"
 
+secured: "k73LsE9cMlrBAPf9iBRglUJj7KGrgFhjyIgRk0MKsdj+U5yff6N8FkYlsz895NhTx6IzeZ895nKPWHalw5IwMtpqsC1se2dNUJ2rdFgcLy7kkoLelCPe3J7QaS+lqmldXkaXAmnwm1pjAR2AEm58sCjmcaDZW3TgtRvBKSAaEoqXpsgjzK3Fsjvc5xumlt7b+5qXRBgi+6JjKWxG+VoUrRPPIVkQzqnyXsQCOdGGv49eO1dmEVxgG0UZNcSW9DYwoeBqwn5xMm7v7AHMM4SvdzbMw+MIecQ38qF+dxwvTQ/1ARGPqMxQKnGf7kH3AyXBJAg4wRTVZwx9O+9hozQlqt3W20deVxMwTu/zXMrYVGJL98+YqhossVwaJXnNs9Jq;K4AAY51YLJFetfidU2BPWA=="
 ---
 

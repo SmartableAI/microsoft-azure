@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/copy-blobs-from-command-l
 type: course
 price: Free
 length: 58 mins
-heat: 50
+ratings:
+  count: 114
+  average: 4.5
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Copy and move blobs from one container or storage account to another from the command line and in code"
 
+secured: "jG84TtKnvYKhxjh7nOjkXICLgyPXSXopASwkoFXy4EHY4H8A1jAo6lO5sle1SVr/X825KJOutpL4Vlz+Gz9++07au/4mGJHAbEYxLAsM/kND2cZMv0QQ/EhMPYB7gfHsQE9Lhuyr3zUX7rBadL9UEBbn3LLyx0Zp7VUI39y6DD4l8S1O7CsGb6TeGvGHBFT4uGNemLxpL803PutkwbAgUlu9BGeeIP+VGcHQyURNT9gnpmBFFms2zlkAnnGHyrIAbtEtRW9pnUXeNHkicDkBJ7lDJrNk1Acur+HqjRqm2f4epvefe7cblu/rRexZzfgRKI+cXHfB0A+xDIOLI4CVaCuL0axmPEZ1Lr90zEC+ed7us2rFVOnTvF3+RnlQ8krA;84nY923fepxKxxqB8Xo88A=="
 ---
 

@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with
 type: course
 price: Free
 length: 41 mins
-heat: 50
+ratings:
+  count: 363
+  average: 4.553719
+heat: 64
 
 provider:
   name: Microsoft Learn
@@ -32,5 +35,6 @@ images:
     isCached: true
     title: "Expose multiple Azure Function apps as a consistent API by using Azure API Management"
 
+secured: "MT8/HzKu2qenjPYuavaxXsrW2o66RNhwBgC6QVYaz2xItx8wnDleQDJ9kowEeMNcN56Wl6oVys/49loc0IwNKevdAL8p3Rese17/DWBw4rDZGKfFKja/OHVcG5zSU9hnquMjUdQ1SwB1kfnb4N2t8T5wY/NGG93Fe73Zv+v6JPEIeU2Zui1WhbUDmuzt90vKXaZbln2Hkds7cCY+zuzTmTrIlI3IQKVsWlAqU0H4S8HIlkQMNXzHS7J2UI7menopcLnLs3k01PCAvzm9j1ScWvm4bHd+h/X6LmVWBKnQ+F3kKr6JVh3NSb3fm03Qk47oa+bx9F1l8MwCmzCvd3v5iLqaNaj7c4oSEpdvsg71AncZ5YkO74v6394Ukrh889s7;uj+i7Ypd64ofowOWVxIqxw=="
 ---
 

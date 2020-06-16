@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/identity-users-groups-app
 type: course
 price: Free
 length: PT1H13M
-heat: 50
+ratings:
+  count: 32
+  average: 4.6875
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -22,5 +25,6 @@ topics:
   - Azure
   - Identity
 
+secured: "tTKBt+nkHO1oacLR3g1aO8mvHHUuq2xpYpk8YgpSsm3Rybta9TMpvXPjdu8H9YWjjvPwgWxJA54onVpF4WpWJlzCgbTHW1xxIv1bazaC3WHPZYzjDJZ8+RcDFWKkG/SAB/2YrlO8WdukQc7ewle1zjOA9M8NTo0bN5KH6RqLzLbVjb4jMSCsg/6HoyB/kki7o10zg14e/YqAiyKA4z5id3X9KfyoVGYFgPSjuW7ypCXWGsMuayqHQWU4edZc318wn1ThUSRANb5a+kOUXC1Wm8uI4rxhPksqUL0wnrMLyr9p6OekKNV4peb0U5byOyhhbUfYDYVoePm7S6FDVNGjqJITE6Irx2c4ZAXBPiQjf2I=;B58dZ+lwjyWJ2w1FoMM8Wg=="
 ---
 

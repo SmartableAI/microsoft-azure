@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-acco
 type: course
 price: Free
 length: 45 mins
-heat: 50
+ratings:
+  count: 5981
+  average: 4.630664
+heat: 160
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Secure your Azure Storage account"
 
+secured: "+pCeCfB0F38F1JGv/8vfWYUpzy0vFKAyjghC5UGh5g7NLYqqzwhpLOcZpOboEETEbqz1HyxIHFSR3yIJea07F6NZvX8zxmEqeipgv8pAGFN7bzZpoS1iBHDufGmHP1vIZM8Xrh99oprpJVM8RTEV/qatkzR3HqfErEPLBLwbGKsZt+OowzsAgyjcf8keGSHCUeMAB6wEmN5jaSDd1HpW05SWJxSHSi35VcRuf3/T1fUgmP09Dk15RsR0F/WPV6yiSiW3TfwEqVX/t12h+1voXGKrqp9dHa2ohIUwNbpuZG/yqoC3oKGPUfXm+IHlhTMhTLYmjaktze8+Z4BSeex7SNLaUoEfsj6TJILwOWoDzFjbBSC1f/3sQVo1/JRMC0Vz;kivf5NFrA+cX2PCyVgtSiA=="
 ---
 

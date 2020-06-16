@@ -5,6 +5,9 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/predict-classes-with-knn-
 type: course
 price: Free
 length: PT55M
+ratings:
+  count: 12
+  average: 4.8333335
 heat: 50
 
 provider:
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Predict  classes with a knn classifier"
 
+secured: "YYGI1piumhtyjhZ4ObjwBvbbZHi1LHq3JNdmu2oIiQGi3wB7qCFQbzUEj2u2/kDDpXQ+N9/zNMB7QFAK5oIhNH0NOXvXMEBqEG6tcfJ6/ZYRTmxugvG5s+CWnBogCiCBYHbxmiXh0zmcH62tgB4XNJffHnOS9WVYxSSn20FNOmze6Cfxkof86GSOQF1qrX89FHiWExa0b6Xyzq7WeH7OwvGRnRjSDX4hDIPpi2gbvHXy9LTFiNpRZ9VeMit7WHY8hyl7iQ8D0146hX4yHYc+OsI3Zfpajr5UKltQjFsxga7pmsQBaDdvqHYZc3EGZNha5kMBK8n3F9m2NIkAxeXvbQEGzZErNbxwKgaZ6pQTNAk=;+6GoU5tZJbvJ+Qkrhtr8UQ=="
 ---
 

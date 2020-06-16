@@ -5,6 +5,9 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/azure-spring-cloud-worksh
 type: course
 price: Free
 length: 84 mins
+ratings:
+  count: 18
+  average: 4.7777777
 heat: 50
 
 provider:
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Azure Spring Cloud workshop"
 
+secured: "IG+UBngNUiXWf66jwSKI2gFdpSwwz3bJ/bM1A3D/BhyPKZI7J/XOOEYy9E5n81TPq/kowG6fI/0wAKG1MVafwM25Uu3Vh3Pn7XDf6DN1Q0RhfgxzfESikhRQvETlmLpa6MCXbqt/E9rOHTEZcDG/Yj5R0Vt1hGyBjvGogPm1EMzTmE2MOZJFs1IQdlHer5wiPrPzYY5J+D8KcI8mXBB/talscMcMTOVfTDVv9mWQq2fM/MRqvy+NFf12O7y/YmnWYE0yZLdPRTGVG6ePB7OT1xrnFGYIY1/WkonEDiFusiF+Sk+OuqFJz1Dr3NKXN57OU5UODyq4WYd51vmYh22RnRtgszvKHi4JLbYr4N7zwDU=;yH5ClpQBu8PQXxgmAl9Knw=="
 ---
 

@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/protect-on-premises-infra
 type: course
 price: Free
 length: 33 mins
-heat: 50
+ratings:
+  count: 615
+  average: 4.606504
+heat: 72
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Protect your on-premises infrastructure from disasters with Azure Site Recovery"
 
+secured: "QCOn5EV6r7Z0IaJPS4w1fVPDMIXO4HnCWVEu8jzlcixZAYvGsDxSS4w5h42+KXoya0JOXqKU9Bw91doc7zQrqL9c1rLqGuz4veYJfs0fwCSRaiSp+w7lUT2g6oQr18J/xiwBLNyK6TRwaTn2mPtOpJLdHwolIuQ0/YMC8FpDEpL4uuqC+26dE/HIctvDofmrkSuDrPZBJOsFa7c1HuIsiLH7rcPF4Jm00tmC7KSxGypE8fAtBOrvw6ZWyQYGgNjqEiqdKY7Ntq8ygw/sq0vqu3D/KdslW1jAvfi4yQ6gRdDFJ5BxFIwxB55DgN5ZfMnDVr/UwIL2j9V1f4FFWUR3FA7D8mLCLoA9liuNAXrqp8q31+Dq+r30O2nZObka17Vf;6DcbglKWDYNp+CoYaii/hA=="
 ---
 

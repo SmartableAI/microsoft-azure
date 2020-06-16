@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-con
 type: course
 price: Free
 length: 48 mins
-heat: 50
+ratings:
+  count: 1919
+  average: 4.6242833
+heat: 105
 
 provider:
   name: Microsoft Learn
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Run Docker containers with Azure Container Instances"
 
+secured: "LH99ssJ9zMMrmPNLXa40ExXMGlNPm1gsIYz4Wro2htk7foNtrvNa+Tk0lt+pCmP7VgX7sSgYou0rVcGNsRXaL4T1YMXjjJv0paoZREGvxE68A7jchy54wnfu5q9SSW6yz9sFfjsJLLR303NUik/swLmHXoVcrnaBPkvmBBt8U9ooH0tdkWAA23VXjFHYZu+nmhcPYfJ48vIJTiuVrZ/U6x/i1niUo2Q+9tZCM18DBxLVPBlStbO34gL4CDo42WIdEMf+r199VwTZtzSucUfc8e404mQvPVi0StGKLTVz2QBvOo1Vl9e92ikwD5goWhJurpoYarMLUbvReEoFOIdXHf6dqDvjp5944E+yiySlzgUIiMV7vB/6F3N+udSKCYpt;5mWhDyykvZVk30iauzFVmg=="
 ---
 

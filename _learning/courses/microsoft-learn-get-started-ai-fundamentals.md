@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamenta
 type: course
 price: Free
 length: PT27M
-heat: 50
+ratings:
+  count: 184
+  average: 4.679348
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Get started with AI on Azure"
 
+secured: "5O7EvGfjKWdA7NY5Dcw1x815l9YbbFlVf2vc62dReQCWnYnSPIf0jMHTLTVR/7WwiC3plk9OcHUfIWfl5p9H+YKthVVyNJVFFjoyYqfI7fbi3sPbz4UGr+DpHYRoGvUOJ3FUiBWn9Hoez0IhwTmghL/WaX7kmiw17D6dz/qGmGpLAIIb95OA7asABkNC4mlE5K71fdZfPkKswfDYaRQhB7hg8tKLSaeKRPjasnQC/tLhnaVR+Ni286gzOgLqP06smGTSX9WU1ZSD4emgaAPuNHD2e8meavgr6c2Z8TYSImkOqFpwmf/FCBgjgVAAGOv+FooCRK4tdZyyih6GzN1T/TkuC+eNkQwfZrYw6YxhUE3UDDJ1OEerDytZR7+aU+rU;2ORjkBdW+eEGGwRhdaCtJQ=="
 ---
 

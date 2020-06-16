@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-so
 type: course
 price: Free
 length: 23 mins
-heat: 50
+ratings:
+  count: 4914
+  average: 4.73606
+heat: 151
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Microsoft Azure IoT strategy and solutions"
 
+secured: "ISOJEgqlmOOB27B2wrXRUcPTvOPyhWmrN+geG6WR2GoCMU3InY4LAoGQ0pfjl3PFdFE1gV912DOjOSzOXyqHIh0PdThxnjOOWInP/ei2dVoXf9L4EIFnQ+L/nwQSToZ4agnfVOJzZa0Cz6831h0f0/NyV1Nh+Gccv/orzES9+anu+yS17uWZ/B4/SuHHAHhAFchsabpWpfA+3u7Sw7E+4a7jQP1rf0okuUzcQgYopJbD236Gdbvln2iKchLOKmKBGVzNIxm+hIojP7juUvMByVUbxRjUSxM+w3DMO2DA7SZRd7oRTu5XfD4KjqPnlPwZDVAsPfJ90+WcZ50MEaQnytkKe7iD3GTskyqWoz6tEh2NXsyZ2l7FgkzhCwSMoIUH;yFJ/+p5UeJFP5xm9XH8YZw=="
 ---
 

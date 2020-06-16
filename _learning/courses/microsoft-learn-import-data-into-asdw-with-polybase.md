@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/import-data-into-asdw-wit
 type: course
 price: Free
 length: 66 mins
-heat: 50
+ratings:
+  count: 1523
+  average: 4.540381
+heat: 96
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Import data into Azure Synapse Analytics by using PolyBase"
 
+secured: "rp5S/qLYBM0lcSCNd5sXVGeR6wCOs28O7eoUV2ho7no6N2T1CdjHRUX3Q8I6poW0Xo1Bi/b7ybMzOW9F6/aQi28TAfjHo/oYFacNU8OVqDh/wyg5jrdwijcMNdDDY4dwlYIbD5lAm6zTmyH+X4KW5xu2LadhEjgBaM+vc4Jb0ne2MTmgzWCFipoSk3U7HczVMttZsPLIEzXOxV97IRkDYfX398GTZsxQRDFed0inzQRZecbSXQnu4oORfnqjyJYw2EjdFgE02ndkmHLmsNliKnI8M4pDBnmbkV5BAmZ/e9ZYY9ZGP3fU9gNpUuQxECACvEFXBu7CgxBhS+kiziDAAXr5gv1idV2iqXGozy300PVaDsalhumd+XAITD8CMtxt;BYz12KhJVdkzEtNNx2FeuA=="
 ---
 

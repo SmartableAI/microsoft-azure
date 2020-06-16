@@ -5,6 +5,9 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/provision-database-azure-
 type: course
 price: Free
 length: 62 mins
+ratings:
+  count: 0
+  average: 0
 heat: 50
 
 provider:
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Provision databases in Azure Pipelines"
 
+secured: "QTFdLxEru8d5xCpk13tIMGMDJLoKFCR0uTKkQ4q41E/RMCS38BWZu6rtfi8GxuQFWQ23zkd1I8lKddiI6hQTF1SA5ILmd18vLS11jT77zw1PSOWWEUsDJu1fbJEJlq95+XKXF9X7aHLI+65yCrenflspLh7d62/9tq4lAfAWMQzhgwaON/3ap2sPNzYa6Rg168YTbbM2GLN9Sr2mdrVQZ4l9kLn1hpSMGmXLaMKMOPGvNA+Zh/rfPPQkxxmDu+Avdx7c63zmUhhPwuaRUGLac9agWSkG0hdCYlRcKOJMYgokvdJU9BW2+qJ54NwZyG0t+HPCzvKPYIdwNwRLQ0ukQdc38CkLNf4si3OXvMDDblM=;N+dGmcr1CuMYvT/Ii+mgcw=="
 ---
 

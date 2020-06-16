@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/maintain-azure-sap-worklo
 type: course
 price: Free
 length: 48 mins
-heat: 50
+ratings:
+  count: 46
+  average: 4.5869565
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Maintain Azure for SAP workloads"
 
+secured: "JWE5B+QBEtXpVbr5i3vbnSk2a4fw9PIwAoJqQ9iFAauNF70LtifDDhVrGusb1aBGnjHEXvjZ9WhoglwxvZsfDCo6Q7AQj2PjWwakzBzqk6zRP2g7Up+JaC5u40Gil9Lnd0+u+7wwpB5xvYUsZKiNCtRnmJzA33I5j/wp8sKmlPwESUVMwImJVEV5cRmGDWblKYlzmWxH2tAstWAjO7tFsgzgTsJxldVEaegHoYzwKiUVFUPHUQj+9DUIXqFy+pNlrz8a/XfD1py0ShVbZj04UH+oJ82kyUG5J8yV87xT62IWI5BsYIvKibQ0N01QHdBW9/XCpiqiYBVyWsefL4E7Mjrrg/erbguqVTTtIBA8xU0=;PlegQcw+K7tXuLzoqAPeYw=="
 ---
 

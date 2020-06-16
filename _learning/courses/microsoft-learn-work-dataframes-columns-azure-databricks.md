@@ -5,6 +5,9 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/work-dataframes-columns-a
 type: course
 price: Free
 length: PT43M
+ratings:
+  count: 19
+  average: 4.736842
 heat: 50
 
 provider:
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Work with DataFrames columns in Azure Databricks"
 
+secured: "pWG0eZKZPYxG+ToUmS8NdWsOMdsSAPpqkEiVH3+yFN8jX+jPX8+29HqkdIo+lvOT2Ta9Yc8aFKsjysowDLcdlTOGCNj5onZ/xq7zQZSr9bYWNtfhK0JutwRJDJZQj44FWZ772XytW3dzhzTZDK4W62suSwn9ivOEHWPXQWERO/zI4yI6Ues+sLI1LK32BYEEBiSPm7wf4FfF+Dm0J+MhcJtjdpOUXdQBUp9ZHtBtFjWYdE3TXxd096EahdmoY2w+duQv5L8dpUl7rZcf0oXiid8m4JkBn5Ju/74dNsm2Jx0JZxYq3Rqld6uRJ5XwJOVs98zKnWjOPe4Leazcr1MeqY2XZ3fsRiVBjsQfCaY7esg=;RtmQGDA8rP2d+G2nwle+nA=="
 ---
 

@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-dat
 type: course
 price: Free
 length: 70 mins
-heat: 50
+ratings:
+  count: 2110
+  average: 4.620853
+heat: 109
 
 provider:
   name: Microsoft Learn
@@ -32,5 +35,6 @@ images:
     isCached: true
     title: "Chain Azure Functions together using input and output bindings"
 
+secured: "QqbEdCaBifVsE9lBQaOo1fpmcAF1iGhCpeF/pYLvDJr56VK6N2L8ZJODWiIyi8l2/D6pyD13C9OOn9Z7Gvflqi3uAtVSeRJkAVgRSBefvPL2RYg9G4dBtTeDg0wOJBDjrg0rAQj/ST5pqFmc+kFQPlYwrxpTUpivw+G0kZq6idJmyDxmdEFx134jOATnGC1KNcGAXefDpK8eHvAnDpKq/Qy3NN/N9S1aDSnl6Bx1Sng0C6uBqC4hjaOvMZXdtPn7bZPdukKiQR0XpR3/VozEEiXwcMpRLHk/BD8iHQ+D6zAjBMKvq2JjZ6MjfUtQv+oVS2SP8MXTvgY1d4engkBATeJD+0aeLqievtwx/sm0aGEx4+FqY13Q7FFAeNF7BKxa;RsVfM+bpqzGVmZ37OZefIg=="
 ---
 

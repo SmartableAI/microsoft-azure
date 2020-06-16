@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/azure-in-action/
 type: course
 price: Free
 length: 30 mins
-heat: 50
+ratings:
+  count: 1984
+  average: 4.701613
+heat: 107
 
 provider:
   name: Microsoft Learn
@@ -31,5 +34,6 @@ images:
     isCached: true
     title: "See Azure in action"
 
+secured: "bYzVzKym38LzVYG9dDsaZZXVE3vTMHq28Jkig6Tm3Uur6PhYlo9qFrvJYtGCXYz32Od5DLnXInWxQIcIaggak/HqkOsduKev5QwbJz4xIuAcfXfiX8zdAZSbSpYJWHXXJf7u2c9UHKz1jrukA9dD4uU1QDPfA3egxP1mM33jsf88ilfcBc1+2HSH6nAnHxVlxqJnM/KxKsvcsMogWq3XCvGMWrpbL1V+Igl6Rg09apzHf3Pc/UviYRZIEEyDKzkOd/dVqz8R7PTh1bEOwXc8/WJiZ8igvBcTlLmAu454e7ySFh/Z60buKk7ThTeZKOpDhPdwuSBtwEAFs2ijlA3tVvBsW1F4/jRUZTXbMpXGJMy7oDucmd1ZqzjJACYK0iR6;U5TrkFotLlF0vs6hdMIlpw=="
 ---
 

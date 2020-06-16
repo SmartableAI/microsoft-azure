@@ -5,6 +5,9 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/implement-ai-organization
 type: course
 price: Free
 length: PT41M
+ratings:
+  count: 6
+  average: 5
 heat: 50
 
 provider:
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Implement AI in your organization"
 
+secured: "QWbaP3h1Hj19cHDp5PLLjUW9Ecu//2U6Z/WVxScNvPFRUVqSFqwtG9pFJFzlVOoJaJlXq8MQZZqfqtIELGm/ePS/M29cIIL127dUm+9BImMCU/Oo9iCu2TE8gUB189PiQqCKrf2u/Qumtb0xzdAyOjsSviOmt+wxVZIfHuHv4kdVtChWAN5U5GS7GwWEhHv90VZWSPUJ9jOJhtHqt/Vd5Bg+XQv9cZ2TW75DgPY5MTETqnL7GX1Ii77lXVY8lCrF+6XwFqh3aFaxy4hwn9TnO8xJVe9F9cJKIACdkq7Z4hB0WHXPvCx/oJSE3TcWyMeLWQFx6femTp3MLKg3EOOThvkzO46Upwli+KdriXAJT2c=;W9X5si96CWEhVEHErdBY7A=="
 ---
 

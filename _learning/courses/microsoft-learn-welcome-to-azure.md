@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/
 type: course
 price: Free
 length: 36 mins
-heat: 50
+ratings:
+  count: 57085
+  average: 4.798844
+heat: 310
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Core Cloud Services - Introduction to Azure"
 
+secured: "LPb+wlz0u49wSEcAch2/H+u3pDTiBXwmt2Zgegh3TBaBGid1YwZwshEPsfAmRIaNnZPcxE5YIZWbQ1qjVQWPkE5m5LtCow0JcCWyQMbBpHd+2Lud82tgLhGVUNJf51o7l/hS9onXBy4U6LuiWx/2FXOjmNN13ddEWeweFMq5pT0bxwrnztwnswxIigNkS+2z/L3GGm63rT6zdGancztF2qvcfn0QJU0L03zq3HEI/v9YlXE1TPa/OSqmz4RMoZubyXj2w/n6LCnq1WloZAAhFuZfJ3BST7ziTltgIEFoBijwYIonXQ7BdQdsjVa2qIWm4bL+IXyYhVb8LqWT02PXa6+uuLoIi4cEeW+CFUvl5sJoaE3/GeF1UBUSDqvlbDBY;izHLWtIdgyy1IkKZ3CrV2A=="
 ---
 

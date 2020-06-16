@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-dat
 type: course
 price: Free
 length: PT60M
-heat: 50
+ratings:
+  count: 43
+  average: 4.5348835
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Read and write data in Azure Databricks"
 
+secured: "K2J+r29C+A21p/v2u78kTqDXl79e2ZwBR67toiwS0nUI5dqpD2YMxHD3/2UJkpAgd2BHW2604i9os3pd6cJn6+8mIiKL0Zy0VuYKAfEzRH/V9aAZFH98ahul8q2k3z8Mh9cw8V54GmxD0HIOocrqibH/DBoNgYazSQqM1U8yjf1t4hE2iFrlkRiOWdHKubF2IIvcKlh2ZPrzug2jeRxPYoF4fin8KuwVVW5UetLDFGs7AtEYB6aoI9YI1IUTmgPKZdttJnT0JPCbM/RqJ11G9Y8KsZTPxMG+jwKKNOaUcG3E5MjT0EYy3C64MSLzFTvBzfRP8SyBjZCBMSIevWwanrlX4NGKhUkLQ6Rjf9B1cbM=;n/CfJ8vltVWO0GeVt57+Pg=="
 ---
 

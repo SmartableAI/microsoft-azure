@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-open-source-
 type: course
 price: Free
 length: 50 mins
-heat: 50
+ratings:
+  count: 57
+  average: 4.7192984
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -33,5 +36,6 @@ images:
     isCached: true
     title: "Introduction to open-source database migration on Azure"
 
+secured: "4LX4MlSToT/JnuqJ4CfNXk5ffsQYA/fN0jzBlTlfXkAvnwBZyVnSM9zWAhYvO9TsHlpdkYpPixUIXpYLdbrTMDhU2kRWOnHNKfGOO3iV368ik0lVPOJomdNozey8OP8uTvNmBU+iAbp8FiDBfDssvq2ngGmN50Oa+h9cpsFnHEp/ehL5o+5BbC7TzIOz3RBZY1NtVxHc9Swt6Aln42j8Q35zWG1wmLXLc8DCuDagcRNjT0M/JceAWZooi6bmKxz9r/0Mqn9xTCVqhAJlimveYmpYmCou0vHzx1RTFV7wX0xGQfVA3hdV2sZ2mgtOdGlLxHN61wdA3n8GOK8D4aiVngEwEN7P2i+8soPEWmRSWyw=;5jfrM7ltiYFv5i/pJ55a1Q=="
 ---
 

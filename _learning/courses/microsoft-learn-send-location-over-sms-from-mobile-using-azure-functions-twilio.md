@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/send-location-over-sms-us
 type: course
 price: Free
 length: 69 mins
-heat: 50
+ratings:
+  count: 29
+  average: 4.6896553
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,5 +34,6 @@ images:
     isCached: true
     title: "Share your location as a text message using Azure Functions and Twilio"
 
+secured: "hgFrRSY0HSV23o0zVy61UnLR1NIb9t9Qsj8wZArHcZI0hbmNSPbTSOvaaE57hrszFt2/FuKyG++3tspZ7AlOR/lS4SOIpIWuXr5K7ylYHORCKCYci+VeVEEwFTumJkmHR75ZnlcJaWckED0aus8VoU2owMoaOuMR/29HT2/bwCSNclNjXbM5ZZQlnzz2yuoHI8e5XRNGde3EISaKZ04M0Yy0AFLifuXIkLDD3BT8ANTTuLdS2DcRCdUsuI+shizXuTqZXgsnoBKJr0zwqvkwFsT2KwAeR8x7QaoUnITfL2uvH5m+y7pu7yvlUTrE1LNAJ5kUHJtxMlMiJmwxohpotzZ5OA01B/sg9zn5vFGSkyA=;2YeEfyTKic1k0F6rdq7pSg=="
 ---
 

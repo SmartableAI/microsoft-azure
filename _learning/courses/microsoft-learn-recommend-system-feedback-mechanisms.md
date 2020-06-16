@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/recommend-system-feedback
 type: course
 price: Free
 length: PT49M
-heat: 50
+ratings:
+  count: 171
+  average: 4.637427
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Recommend and design system feedback mechanisms"
 
+secured: "SFEPvNdFWs6XGinr7xy+PelLq3FzSc0SqJNzy3ke8bgYatbFazDfwjzWH1FdH4Rw34IHwAhPBg83MnK173/hk+A+cUZD7PNPNM6RSq47wiX+FOQgJeCjrFtQMC39sH5en5CPJ7EZdikkGpIEL9pmd/Vmr3M7cOVhwpCO/wRu55KZ3OCEEA/S9+j5OGUwN9S36CZ9W/nGqC4A+rD0EoQCq4KpPi8NCAxumK1fTstwM6un4Wf0Wurzw8Z9aPDp8o5b0ihNeZvT3pxviuAWKVruwsiFOoe2SaMmVhyP2sR+jcZKxkpYydkf7IvUBSId8aj+TeC3hgPQ9bo+LqtY8+DB/zWTsRehZacCK+cQjAJCUXaR1UrHQfBTzlqLvzdsNYIq;JW7Q78UzxFXReAOz20jimQ=="
 ---
 

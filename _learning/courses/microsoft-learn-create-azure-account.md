@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/
 type: course
 price: Free
 length: 39 mins
-heat: 50
+ratings:
+  count: 108821
+  average: 4.692137
+heat: 354
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Create an Azure account"
 
+secured: "cEWaMOL656a5U/Y3Bg9Hbs/xVhr6K+1XHb45//15jcDjtaah97AK6l2dNrMjfB0nEURVvklSnUAXWx/YWhuDPodcJwX3/aLMR4KaXnxxCjBuqRm3OUZz7Cm/V1sZOws7Q4ceEKr2VdG8ZHQ4T1z+yzw1U0xTGEXUfp5R6FXHFtDFLtKfONxxBngeRoKI98HO0JG5b2z0eOXSc40FoKuRtSRELzFZMu+ubkGPSJbXk27L4/d5T/fTFlI33FQLecOs5EVHzoXM0PzY0GDClhDqVxKP/Fnnw6lwpUQy4d8qPKchl/W+mADfu+HvEuEp9f5YUHAzkc8r6QY8xr6rF1yFXbiI+kS4ah11dC426r+K0/0oaqpDZHy9Z9eRbj+cE62u;VgK2bOAh+w4QaBYd0F2fQg=="
 ---
 

@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/prepare-your-dev-environm
 type: course
 price: Free
 length: 28 mins
-heat: 50
+ratings:
+  count: 3979
+  average: 4.680573
+heat: 139
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Prepare your development environment for Azure development"
 
+secured: "y0wCgUgqqJRSpqdQQUk751vzlwvvoa6sjwOEDQ9mMXmE9ohV9ovv0rKre9Nru0zhjbEMhIAGVL2nYnX1BdXavS/3eFp6r85omw46OM+VWyVRz61Wc1a2s8uCMK1eRRBbNpsoB4J6WHE/tI2h6x0YdH3Hku2KAK36YwAktvoZ/bQSouodiwR/RolHtmcxmlNTX7JehOpna9tvJRXtlRYYEXDd6lOrHSw4SBAgj+CgYsZLPkWKt00Ak8IKRdx5KAfXwlAKJ1Yz6LatHCuijDCFD/cPcYSUiICSspV5xXjfiN7CEx8oTmS/sJGSeJKiEpvCKDudcNzNZ4isxL6TCbVMtvyRurpMcx67N8kvnjaWPlhNkIv2WwnYGPFw8VhH9T8r;H+Wmnj1xHWOUcFC1xYya8Q=="
 ---
 

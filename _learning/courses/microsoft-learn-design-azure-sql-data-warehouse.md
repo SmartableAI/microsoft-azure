@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/design-azure-sql-data-war
 type: course
 price: Free
 length: 47 mins
-heat: 50
+ratings:
+  count: 2058
+  average: 4.5728865
+heat: 108
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Design a data warehouse with Azure Synapse Analytics"
 
+secured: "BrvcBkHMeESthuhUCKf4rVBoU6iDM4Cvfpe4foliToeyvPMIoUk0uW7+9RWuwzXgkCoopqqqbanFBSyEQvVZySWOgJGbbemqvXGsumPrvgTVpiF0SkPFNAz7gGMXLPjeBPx7ENsbIHfGM0jMhaquZeTbprqjRpZhmrF87kfEeK/ma3RX02V0ondi2bVQ+U2kAYLd/yKSK9gKNbd6nFFZLWyyCv+45hOMM6CVSDKtuNoTTJrVZG4yrfdoBI8LnKqynd4hqyBe2uHMMdHrxU2GcSy5DCPxJTb4YB69vP4Zc8VAjucDiKNXY/xcpaQ/BAIZgaIEhpyeO+Qogih/uB7zf5s++Nru4tRZrHQan2nefgMqjftoxV9BtF8n3ATQlzKR;vtjQbebJHPsmH5pT7OcTEw=="
 ---
 

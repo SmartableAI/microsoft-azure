@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/create-azure-db-for-postg
 type: course
 price: Free
 length: 44 mins
-heat: 50
+ratings:
+  count: 1525
+  average: 4.6196723
+heat: 97
 
 provider:
   name: Microsoft Learn
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Create an Azure Database for PostgreSQL server"
 
+secured: "jgNZ0oYEflC58gIoSw1N6tTqWiwXkdPsIl/hnGu/qHOu8vpc9YPwqDh3cuch7/VZCT/WdQ2ozaK5jrfmlEtyut0ainaLbYiiQTLVjmj1fkPLpJxIR1SKHdrhOiQn2TFmMPYXBi2s9CJwn7aZwW3dx7m1McPJeHHNXUKPl78X9pFQveFrXyw+EVoJDuFCpnqCKeG5IjZwHIWqYR8++Si9Tj+uijP9+ia8YqZOoUEdqZfL8r+GiPAL+PVm9WwHLwZOU38LoQD82kSsTS0sACd02+FdAJaaBzJXRuQZOl7PWYFDe8U8mXvqrLU3Dns8aTzoy0YJ57DrrCkjW25mqQTIg3g1N1E3e+s4We1uUdrFc/Uq/vQbzLko0pMCUoT7FPa+;fwCYchG/U6g+o+1T0KZ9Ig=="
 ---
 

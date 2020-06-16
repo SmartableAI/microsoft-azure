@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-data-in-azure/
 type: course
 price: Free
 length: 25 mins
-heat: 50
+ratings:
+  count: 43705
+  average: 4.72788
+heat: 291
 
 provider:
   name: Microsoft Learn
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Core Cloud Services - Azure data storage options"
 
+secured: "CobTmg7aLTRyqzcZ2TD0+vSARxBb6vE2+B3J47INjsUg/uF9vRnGp3bbYKB9Ujh37ZmRFjvCIQHg4u55KidiHWOKUbMpiXsXn/1KLJcdzzpkMwETifagKRvfgvowY6uHnL2uaoj4+pvT40aEo6ay2QHLGk0CkT2ZcOPhlqt4w+pfpIrrCkpJbRAzYC6eVaSK1qQHr2H1MAC/iV6xnmmnTEotFpay0UMSWKeuj53gtGhdUs/cNaHs8kIqgZySY8nEk8CtJXOIcGNjtaXRrnOfA+g3s7GWqAUVkCbVNHj+e5z4wqplG6rrzwrhzHhbVVjRzlNJUQeKmjkMSnnK1zU6iknosq8pU7lrbYwvGlMfkxKIPli7Li/quv6R6WDKFl6h;nTparV8HIIppZUWGFVZMSA=="
 ---
 

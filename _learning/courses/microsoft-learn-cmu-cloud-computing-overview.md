@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/cmu-cloud-computing/cmu-cloud-com
 type: course
 price: Free
 length: 80 mins
-heat: 50
+ratings:
+  count: 53
+  average: 4.754717
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Foundations of cloud computing for developers"
 
+secured: "m0cezWrPjd8sOeD2H74L7SRCuuuNP+me/QVPk0zGQvuVg+fH695C0464lC+brhI5WkmGMtMJFEbC5lSA2obtNEaNUZnHhzd3XV73dGQQTCALm/+6jg0HlzlhFvi6mwI1CG7LaV1hHlZ0DFgFkUd4X/VV8C4Rx2pXwlZ9yi08gzwwYnfzBfwkqMswrAf3q47WvFaBqXqR1cNQXk/SUsu63Se5WRU+SOKXPUUEF/SywGQtBO0L6R0XvxkxSmCD07hsNNb4Ndvupv1nDiGZC28kbwuX4Srx05m6w09F1KvGQPNV8dXwOJTpaOfkeY9vQfiKSC20tDBNKbzeqyTGmXxHJrmzKzt65Wtul/Wa2LOE/ZU=;+nJz2D+r3eVzLkyV3k3CLw=="
 ---
 

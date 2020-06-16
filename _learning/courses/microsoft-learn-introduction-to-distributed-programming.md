@@ -5,6 +5,9 @@ webUrl: https://docs.microsoft.com/en-us/learn/cmu-cloud-computing/cmu-distribut
 type: course
 price: Free
 length: 117 mins
+ratings:
+  count: 18
+  average: 4.7222223
 heat: 50
 
 provider:
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "What is distributed programming?"
 
+secured: "qDaMeVNqJQJilohLo8JrbQA/LRbQsxAWsYoGMh6dHxIoV5de6Cf4MypeWO2SBIvgxWoOjjqS2k897g8SbrIudOxAfSYuh8HYMXAECqJQxW2q7ezU60D5BnkjXmoKKT50Dc4BYbPM5sQYhY5ND4mmXmtxPOFWQINd8oPNEsa69EeTyJNzSKhnsQ/9XAIMEnfZTGMnYQ7hIr9bpcL6PHZZ4NPQ7HEJwMtFBkxokq0KcpS7THsjr5uYgM5Mw4PeaX34aI9zrEywDLuODjiqIP+5Br4O1FSCBsDEJaBe+PW1J3xdMFvVbV+WtaaVL6rNyaTEX20XN63PebB9rfTqYL9k19HLQuZdGlLqMb5SPCzsDA0=;aVyrr/3S+Bk8tWX+l5NR1A=="
 ---
 

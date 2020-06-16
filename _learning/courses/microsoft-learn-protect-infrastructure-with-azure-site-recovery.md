@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/protect-infrastructure-wi
 type: course
 price: Free
 length: 59 mins
-heat: 50
+ratings:
+  count: 459
+  average: 4.492375
+heat: 67
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Protect your Azure infrastructure with Azure Site Recovery"
 
+secured: "uvApm6vp9QXswOTW+S2nu7iWuFkY6EbVGigA4yGUOwzBoQuOn0UZV6XQ+MeYahaidFAyp64TzCgbudCUrpZUboAPJhhDZ+k/m475F0DlZsZRSjlLD+Q9d8vUTJBdzI1N59FlVnYFzaFIJj0I0bhnbuL9BpGiyfVrMT5764YNOKViGyfpwowXR+osOSc7h8NdOkiEJ5Cvqb71XyTziNy/DHq/na29nheE1ZIOi8WvqeEduPYvo7FBCjqf1NSF4aQKncXuCrMoiFNRqSm1W1pddDbR4laBV9DzGBoRQeZXhVK+1/Fsnxx8gw+V9OM86mJ9aG+D6NJ7Dxuh19yjbNmx8L7qyLYFBu4uLN5zIfnhAX+zMt+JN77mYbH6SdnLL7eY;xZAeV1f8dMgiBn8Y/8Ka9w=="
 ---
 

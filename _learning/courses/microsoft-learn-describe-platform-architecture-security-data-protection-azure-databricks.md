@@ -5,6 +5,9 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/describe-platform-archite
 type: course
 price: Free
 length: PT1H3M
+ratings:
+  count: 16
+  average: 4.8125
 heat: 50
 
 provider:
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Describe platform architecture, security, and data protection in Azure Databricks"
 
+secured: "VCfVCulud0DLJ/cJ40/nqAenhcHkXOcOi+sbZEEL+qiBYblx2iTJet5KgVkVAIS+3f9cW+nXGt2YERDNFJrBYCEZlKNhYlKcHRmd3+9lLgrwVvYfcPGjEz5Ec5QDAAkR2KvVt0Kf+fHjsiyBjZIpaPLW9s6ODzT+EWNEoUn1OSEU2pdrsr/vggAuhBiUnmlJFuSGZnDDaDoCze2B0Fy4VV9CHPVGPNAN/KnQOQx9Jfe79xap8b8mthBwwaovK+m/sXENHTJzljoE4kKvAo9RKvRCDHHlYaT+fhD9YjQqZTToFSZyXeHkS1NPpUmJFsm6ywUMYrDfYo9JYVDvnYPMzXL7H9DXdfyPxD+NiDABEdI=;eomgutQPw2k0V4FW43xxHQ=="
 ---
 

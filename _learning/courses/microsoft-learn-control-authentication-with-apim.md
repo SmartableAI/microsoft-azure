@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/control-authentication-wi
 type: course
 price: Free
 length: 55 mins
-heat: 50
+ratings:
+  count: 980
+  average: 4.6336737
+heat: 83
 
 provider:
   name: Microsoft Learn
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Control authentication for your APIs with Azure API Management"
 
+secured: "pfwJFBuJ3V5q86CGqraWEv2ubADcQpX5QFNjRY0k3RE6XlDuSbsQ++NJPYXRbVZe4I2Wfiy/BGCnQ3LVz51MSs7qOBCWya58+aqPysl+1K7qsn4gw/yYQqJZZ1ENVpfvw/OQDdpsVwbPFWWXeM5ChIEwMHUjVunyDiyHKq8rFF2TrVMbOvdrhrPc7MU1JJXuJOv40+nLHyd8gx/1g/kWP4SD8qbyJwwrdUuw+He8kPgfWYtESA6NgnRdhCELoPCsM61KyR1JeecfFXqRoNDYyPH6E1tMhNxXmRdgHXQURfJMrcMTBMCPXmBH8izWez1TSHA9Gm2a7vi4ZE4GIsn9dQJmZ+DyncUKK2fPqhOOHsd6pLEAX0A4q6iYlaOJk4Qg;utAg+rs8ENONIw2WDZ+eQQ=="
 ---
 

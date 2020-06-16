@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/cmu-cloud-computing/cmu-data-cent
 type: course
 price: Free
 length: 118 mins
-heat: 50
+ratings:
+  count: 28
+  average: 4.571429
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Datacenter components"
 
+secured: "0DCaRqk4LcDax8Ca4dGjkIcUHKEjYqv7qLHUw5U4fAr8NFe5yrRoPbKDWiXP3QYet8BvVhadt3EMzxH758na3MBR5AOHIlnL5odDpDnhahWbnPJ3NgI29kt2mB+Pj49bst04FntvyVqPU0DalydTvq75iDgbsl/vcQiVWCn+ZeYzg+lEco0HaKIQV+PbwSDMz5WNwluQuZWHm+ffe5SsUPZ/jRqnEBrfENkVbJc4zuZwq0bBFyGsQ2JBS6bhtyD7g1Hl+5OHNCwIqgiaH6mWSHyqHPfhbuKsK6H1/HRUWmcwfjyvdWFl/PDkeuY5oM/9hUJTy/4EUNTW7srYPtf530A52RZuvDJLx6eDK+X4JPM=;2zmTtXK2HC+GWWKIwcln+g=="
 ---
 

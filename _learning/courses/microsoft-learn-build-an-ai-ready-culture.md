@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture
 type: course
 price: Free
 length: 49 mins
-heat: 50
+ratings:
+  count: 732
+  average: 4.7349725
+heat: 77
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Understand the importance of building an AI-ready culture"
 
+secured: "ozHO6x5Gd8l3jS1VywQOU8ITkLsCZg5wVnBMni9ClmYAoElcke1oyvENTNDfHYhBXtxz2Ei4FCAgg0xy2DUnc5slAGfAV3XlQGhRlmlaf4yl9qvi5c2Wg4Q1MWfNSw72z86P+pd+XNsQ16lySKJ2UJem1N8kwjfTTr2Ze4JN5b2zx/Ovz56OQoFEQqnxEbt5OelIilvy10oNM/tf/jo8payZzzuDPyQV6FlagYW6vEfkuiCI8CU0SCtzdXix1TSX3mED2pSVCAPU3KGbvRjTBTYhvZ+tE+KYgKS9ea4dHEjRKFmISj8akHtJWmmkw79DsnJ6PxuovUZu5azumFF7OKHG801/QvjB4PViyCqJ0N/2V0gj5LNJm+3MyrwByDf4;9Et+pmWnRmeH4isdxse8TQ=="
 ---
 

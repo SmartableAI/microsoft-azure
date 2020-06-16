@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/ha-application-storage-wi
 type: course
 price: Free
 length: 34 mins
-heat: 50
+ratings:
+  count: 905
+  average: 4.485083
+heat: 80
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Make your application storage highly available with read-access geo-redundant storage"
 
+secured: "9r5vfAgnjlym5PnFUoi7k2fhByBIMWknk7qTN7LM6yHxRl09my49Mh7Y93AHf6Vk5s78xbqyW9K8pS377AvyX8vsr+BG1CzAr5hnyAQw2oX0ZS5o/z2ANpFmFRH7tdcShjBQsVBe3NzOFcKuc3x3g0M+xRhEEmUpwqBSfAKtYa1u++8G8sO3ofx9Pg7akgxVtU86EfmIV+9UyFPWy/TVrVFjA9nc/4H+rQZy0DZa5ZDCuNCRGap93zS06Ku7nzEwPg3h4cXXUDBKtO0SLStRvwq8ovdUU50CpyOkpwu/i+o8MzWQS89zGB5lAYlY1IxDYPeNw/Q5z6pVjzCLFK/9rbGd3AwU5aSbJtNfq2Ig6z6SndzshQtoqn8NC5m7xU1j;W5xaWCsADSNKXBQxrvYIQA=="
 ---
 

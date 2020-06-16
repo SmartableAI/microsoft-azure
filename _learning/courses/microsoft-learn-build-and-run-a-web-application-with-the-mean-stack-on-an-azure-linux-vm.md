@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/build-a-web-app-with-mean
 type: course
 price: Free
 length: 42 mins
-heat: 50
+ratings:
+  count: 1299
+  average: 4.56428
+heat: 91
 
 provider:
   name: Microsoft Learn
@@ -30,5 +33,6 @@ images:
     isCached: true
     title: "Build and run a web application with the MEAN stack on an Azure Linux virtual machine"
 
+secured: "g75Pb8iIkRBMUydfRm7ySP/EmhF74S6z6GSfAVtwSALI1qZ7CPSmkYFA47+y4jVbLfIcBwuzj4e3o5bcDJXBD8zG8mmDAwPENT1ZfIQMrOwmiX7QxKBnxmaPvVf3mbylRj2BaYBTNO9BRbn1N81a3nDoCMgLSEBW9UdhBZaRMUZRzxU4pw5LHZbeMV94vW2GdqNSnsHdyAELCrj/eFVsgCPCVeHeKLd+vz39p9Y8EpgJtDxnUsTUAqpE/bRwsuyio9mUGW1hmT26djVARmc3+WIF0p4YB73Twjtvjb7RbkvLVW6miDqsoVx6TCCDDiqjaXP6Cf8/dQMJ9dhFl6ZJp/iwLoNG9yedXkmTLataSWgC37wKqFg6/AMeCUrtYZ2O;HGQnuHbtIvci4c+eFnnsKw=="
 ---
 

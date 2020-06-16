@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/
 type: course
 price: Free
 length: 38 mins
-heat: 50
+ratings:
+  count: 49602
+  average: 4.704911
+heat: 299
 
 provider:
   name: Microsoft Learn
@@ -35,5 +38,6 @@ images:
     isCached: true
     title: "Core Cloud Services - Azure compute options"
 
+secured: "gR9Awypv3uB7yiaHX3lo5NqO49/vA4Kq/5JOwtsx7uFKBh5MSiuQDidErEtcSCmHJtZiFS34eMyX5xfTlwjH6piiBMpQfiK/P3OGGc35NNVkDm9/AubwfM37aYmohnGAiGJPb/uG3SMVBlX/Epxrv09AgzEFNxMXp+h0dkoQ4gONurTFmrkAKWJxKmly360EkbWip+w8HMiflZJnuYJOvHj8KJ241sHJEiIupEEDIEWa5nMs2CKoiPma2NCbx2yHsbn5Wjw7GwL+fDabeCtDGZDR4pZG2PHyU5QEllXW9LBHg6xlYfDvnqxjq4d7llahBtZ1Dz6CsrlMGyY4Sw8SBrUO30O09JHTId11Rrp9Z1FyGCxgytL60IIQL50K/xLL;yn+I8mu8vVnNwz1TT7i+yw=="
 ---
 

@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/plan-implement-sap-soluti
 type: course
 price: Free
 length: 81 mins
-heat: 50
+ratings:
+  count: 103
+  average: 4.747573
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Planning for implementing SAP solutions on Azure"
 
+secured: "kR557zQRllSXPT4T5dOlIgEmEDNyuzww0CA1IshtDkzdRngPVY/bPjEtYNflp3gj9wAG3vb9WZZ/Vqy2TcFC3RfgWrzLjOrBLVtX78RiLth+UL3pylLU1dHFvI92SV0bAimbp5/LZ6g8c9Lh7z7uDEFeEVD9hl1kCm6qxd0RKIT32MFrvOfDIuGrMzVWZGnGMoChY4m/77LgLxXiCWE7k+KO5AHJsZLxMfKNtF4ns0HiQ955mJrN+qtFBS8plGhM2oudTN5O323M9Q177yj87zMiTTZ/+NbPtRtODGQrdz3SvDx1wvzmJ3cg8RT7iuy3cj7O6D7ib1zkyDSoG4uWsYXr8ndz7w3Sj38wrloc8a4=;1Vlvz5lE7pqYsiiRni+OKQ=="
 ---
 

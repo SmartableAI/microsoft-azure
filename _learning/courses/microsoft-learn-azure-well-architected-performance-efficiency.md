@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-pe
 type: course
 price: Free
 length: PT48M
-heat: 50
+ratings:
+  count: 65
+  average: 4.6615386
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -36,5 +39,6 @@ images:
     isCached: true
     title: "Microsoft Azure Well-Architected Framework - Performance efficiency"
 
+secured: "Eurx2ndOY7LgpeKYeelQD2eSRScLhtTs01fJpUozFoWWQHRsusVuN5SB44L9b/MqhsXANmIfsXKYm56+zEuxSWZc+0NJeAsIsGNkjArLA6Jw8uTWCMUMSxAFHtH+0V6I4SBQ7i+13VqF+EegU3n+0Gwh5GXq+1Wb0FyJyA8Mw8lxI47M+PjO/sWKSZneYHBP59SHOJFr+65TcdBzggZbH8XZD3JbzcAaoqNrMNHuay5zkzJI3aQpIBFOY3k+GFJFd+6SNjA7bKZH1FXUc1HH0YTMD9kcwlaBza+uWkI19NWN9kofNIHfIBTtWRvNme6IyXt/2rbQJnmm6S0GIghOnFf5FCebb8go0uKdL/jy/9w=;M5seG5bRAfL8RCVKSMzjrQ=="
 ---
 

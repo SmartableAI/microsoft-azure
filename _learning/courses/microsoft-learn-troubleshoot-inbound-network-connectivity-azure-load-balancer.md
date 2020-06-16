@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/troubleshoot-inbound-conn
 type: course
 price: Free
 length: 98 mins
-heat: 50
+ratings:
+  count: 35
+  average: 4.6857142
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,5 +34,6 @@ images:
     isCached: true
     title: "Troubleshoot inbound network connectivity for Azure Load Balancer"
 
+secured: "mjxSAP6ulV4x6n1KGlMWyOeD5ObGmToLMUz8Awrvn37cjn3Q00lWf+qzmHHLEJDuuZ3V2euiEXOmjoT39iA2XgY6JnsydSx3s+uY8antHrnVnun0v2EsfrrHrMgxzJzWbRPCrLA0+xbNA4VUeld3DDo6QyPDqO0sXddzmmCzwKIsdHuQGIDhRdNBc7Yt4EZ9qQFyyzpGu/mNN5HPsOBKPCgSHZKf6dzHPITmHKQk4UHDYMQnMzkB2WSCcgexAlBSgEAQeFiMOxySK+A1z9ofiL3rf9r47z1vJNKPV5wG/XsPUH/W/1BVU5xmAeGbeI3dAwdXoiolOvoZbmTdLhgkZKigUdPeiq9yRQ9rS5RJfio=;Vn+pGQfc30kkqo3AXlXoRw=="
 ---
 

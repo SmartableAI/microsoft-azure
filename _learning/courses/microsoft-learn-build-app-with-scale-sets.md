@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/build-app-with-scale-sets
 type: course
 price: Free
 length: 57 mins
-heat: 50
+ratings:
+  count: 1000
+  average: 4.582
+heat: 84
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Build a scalable application with virtual machine scale sets"
 
+secured: "fkUf2hLJxlvLRXZg9noKSSs0+jMeIFhUdc2zsPW1ElwHv4UtsBXhgDzNFkS1Gycyrhl+xkVjUUKfOZC3xfpGqVYYqmSTZgtTWJU30usHP5x/Wvnr55pznroJFI5iAHgXc/GzmtzC8aL+snfCQjKMkYnUuncnNL9vVEQETfFOQTiThqUAsDKoG5/c/G5PwZrHPNwoWCo7GiHk+7k1am7oiyzlDav0cTP4FiiE3SEVbxJYVJ85h5J13inJniB04E2iknnum0B+zH6OoEfB/BxZQzBi5At/wzyy8kUR9nCG+LOthlOlTWgCGyEJ9H1XiYZkACBANIJg9GSNIOzmCE8A3VSnAw2MQmXjqmoGxBEh4px1cV3PC5m3dOx7YKVH4M1J;lkrXr/Vty/DsvQhOymt+/A=="
 ---
 

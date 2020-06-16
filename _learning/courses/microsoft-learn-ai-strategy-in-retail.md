@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-retail/
 type: course
 price: Free
 length: 40 mins
-heat: 50
+ratings:
+  count: 534
+  average: 4.775281
+heat: 70
 
 provider:
   name: Microsoft Learn
@@ -29,5 +32,6 @@ images:
     isCached: true
     title: "Define an AI strategy to create business value in retail"
 
+secured: "ZKjsTHnb0WkM1PLShI3vS9FhYlEgKeJ58GuQzAWooufUi32Hy4Izx/9pqfAhpugP016Gp0TjqQ1Q3fYkg9Op9JuPGLPKwfoaGW71eij3/mckCmXpcn0ErQc/IVSo94fCAlBnVnMYEiqg/OkG4qwED8GEyb8paniQsIpxdu57PScmJPbPPw1iwErlaj3EiXf/FKtIiWXlnbnwQtlPX6Pr3X9UPGawrRdGXax9ZZtUrtBvgSGqzJ9Q9j6PMsalupB91X3AwjXjkL+acB79PXjYaqaFH/QZQuNDNHF+HEwQwh5mW/0tWEOF+bIz6WL55ekSb9kDpQ6xyyggREyJjw7VgYiAd7/VLYHzFMUGD6bDwfA=;3SIo/+h5Nz+aBG7lX0cExg=="
 ---
 

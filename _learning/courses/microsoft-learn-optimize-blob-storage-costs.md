@@ -5,7 +5,10 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/optimize-archive-costs-bl
 type: course
 price: Free
 length: 43 mins
-heat: 50
+ratings:
+  count: 51
+  average: 4.7058825
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Optimize storage performance and costs using Blob storage tiers"
 
+secured: "ZIfpXjANkIEkkcUFPUrPobvuF3Dau/Q34vzEhtOqRJNh9aj22Ac2OlDV9j6SBo6Of5DjewDXjPNu91V7qqCg2zqQACtnpKoYqolAI565AJN/DusJZaUTqdZusP4R+FxHC2wLP0lD8ByjsR5EzfOZv3K9L0iVOeYDqf4He1sTISv4fxKKH6q5ULCIsX/l0VZju3POQFmKFCz9XtYybSxe5hPJbM3+SmXSmXQK4A4yGLrxyir41nRy39Ghi7rXsqhosNaEaSUViYyvP7QD2TF/fr3ILOKLPaWJO31FEPhcTIHPeZ8+rYfBgsGPASf3Cuagmv8c3SjiTx0e6b/xo2z6lebBRB+y7GjNaTpTTV5mgNE=;s39rv3KvdYILUHeMAdn4bw=="
 ---
 

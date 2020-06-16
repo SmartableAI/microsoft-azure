@@ -5,6 +5,9 @@ webUrl: https://docs.microsoft.com/en-us/learn/cmu-cloud-computing/cmu-message-q
 type: course
 price: Free
 length: 62 mins
+ratings:
+  count: 14
+  average: 4.785714
 heat: 50
 
 provider:
@@ -28,5 +31,6 @@ images:
     isCached: true
     title: "Message queues and stream processing"
 
+secured: "EY/zqyekk0cFbUY/+tT2TYdecxnC3FxnNifXbqH1eu8pZeASD3ffFH8WiqqNCUQI6Rfm6o5j0ofb6ryfcPF4Q3y9ysvJQHTtb7DqOZn5NAIIRqW+pD7WemKIuAmrXemcnHGFPDrUJl/84ITdHY59yvV6FVpgkzlOwxX+g7EEYPewsVRbDOz1V4/eJeRXgNW4J1VyptapAbuFEs6qzj2t6qJ9RCPCQpAg7RutOfg2sH6WRzAcWYbzdM2lapbghE1WUKIeVH14iz2QnAsKCm7Edn6tFPHb33Q+Sm99Tu+syq6bxmhiyHsFpg/arNCvf8RdxLSLqHC0+mWe2Br9p7s2eOvjFVqvLJuTCVp5vAO53p0=;hNBXbvmj3pHXZj671LUgrg=="
 ---
 
