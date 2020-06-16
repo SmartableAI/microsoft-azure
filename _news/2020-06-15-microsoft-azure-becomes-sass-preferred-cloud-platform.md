@@ -47,20 +47,18 @@ related:
         height: 801
         isCached: true
   - title: "Microsoft Azure becomes preferred Cloud platform for SAS analytics"
-    excerpt: "Tech giant Microsoft and business analytics software and services firm SAS have announced a strategic partnership, making Azure the preferred Cloud platform for SAS's analytics portfolio. The two companies will enable customers to easily run their SAS workloads in the cloud,"
-    publishedDateTime: 2020-06-16T04:47:00Z
-    webUrl: "https://www.businessinsider.in/tech/news/microsoft-azure-becomes-preferred-cloud-platform-for-sas-analytics/articleshow/76398520.cms"
-    ampWebUrl: "https://www.businessinsider.in/tech/news/microsoft-azure-becomes-preferred-cloud-platform-for-sas-analytics/amp_articleshow/76398520.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/microsoft-azure-becomes-preferred-cloud-platform-for-sas-analytics/amp_articleshow/76398520.cms"
+    excerpt: "Tech giant Microsoft and business analytics software and services firm SAS have announced a strategic partnership, making Azure the preferred Cloud platform for SAS's analytics portfolio."
+    publishedDateTime: 2020-06-16T04:51:00Z
+    webUrl: "https://www.sify.com/finance/microsoft-azure-becomes-preferred-cloud-platform-for-sas-analytics-news-topnews-ugqeOBacdhbdf.html"
     type: article
     provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 57
+      name: Sify.com
+      domain: sify.com
+    quality: 37
     images:
-      - url: "https://www.businessinsider.in/thumb/76398520.cms?height=275&width=412"
-        width: 412
-        height: 275
+      - url: "https://www.sify.com/uploads/Paneer-Tikka-Momos_uf4rH1cjdjgif.jpg"
+        width: 600
+        height: 400
         isCached: true
 
 secured: "PIXNyXYJM0frFiB4Z/8fbL2iqxHmzdl54uTbDChCbYYs2s3y5pVjKXn/NrFpkoy1KmWek7cQifT9IhvixzUbg9vmAMrvNB7G9W6ubVzq+1U38FIwJ3XorZdVWvZeHnbvr1ONegXf+A8NkR42mD6kWq0w/Wb9yXvqzO7swne4yRvOjotsCfkCQym2fNvI/wXuiNwHowZuu+ypV3aiIykNsKJXGREfjFJ+en19KRrcqs7CH+CpXWlQJhejyF0yf0YubGdJ9/XrWCmMe4XXDOMu9drTAJ34irCJazQjXMpJI8XxzRclm0B7GIUL7emj4BxRVgXJdTOd7bvowawZlz/dUCJXEF1OutG5iVacWWgtxYbeh227x8mZvGtBAxHkjBOVB9GLmwPQnpHBInWyZZgtJlM2DiW0QVwek36+YIMnZ9foQAcU2zRYXvO1iGyjF40m4D4SavE4No25in/czqY1v+MIlEfnQhi3Kkz2yQbst+F5VgDSRK5ad/9mXISsLPMY;MO+auT3fhp2pUz+0gpeoYw=="
