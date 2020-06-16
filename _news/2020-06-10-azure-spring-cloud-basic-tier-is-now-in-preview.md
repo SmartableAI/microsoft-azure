@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-10T16:00:21Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-spring-cloud-basic-tier-is-now-in-preview/"
 type: article
 quality: 77
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -25,6 +25,15 @@ related:
     excerpt: ""
     publishedDateTime: 2020-06-10T16:00:22Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-spring-cloud-updates/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure Monitor for Virtual Machines is now in preview in US Gov Arizona"
+    excerpt: ""
+    publishedDateTime: 2020-06-16T16:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-for-vms-is-now-in-preview-in-us-gov-arizona/"
     type: article
     provider:
       name: Microsoft

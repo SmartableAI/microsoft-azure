@@ -50,18 +50,18 @@ related:
         height: 801
         isCached: true
   - title: "PrimeKey Releases SignServer Cloud in the Microsoft Azure Marketplace"
-    excerpt: "PrimeKey, one of the world's leading providers of public key infrastructure (PKI) and digital signature solutions, today announced the"
+    excerpt: "PrimeKey, one of the world’s leading providers of public key infrastructure (PKI) and digital signature solutions, today announced the release of its SignServer Enterprise Cloud Edition product in the Microsoft Azure Marketplace,"
     publishedDateTime: 2020-06-16T11:44:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/primekey-releases-signserver-cloud-in-the-microsoft-azure-marketplace-301077438.html"
+    webUrl: "https://apnews.com/PR Newswire/63a3c8e6a6240832c128204183d6821a"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 37
     images:
-      - url: "https://mma.prnewswire.com/media/1190637/Alex_Gregory.jpg?p=facebook"
-        width: 1000
-        height: 523
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "04vrCf/t6hRoUsx8x7jyufkrCo9eSPl3dIbxm7maVBzotuYOt2N4b0tnNp7JvQ28jAClMgfiBCHQ1dA9QjPw19s63AykTHJwjPjt3rzjbHyZ6DNO+utL2wF5UlQVZTVTn0d9Ae95JYcdG+7/MWmbCR9fRUBrK2U4YqbADamBjY5nqjWVd/LfxK4LxJZE6rEmLbzLkVX0rdxmFCmHEw0OosbiAC4jkdquXLw1kGONNvNMWQ3eQF/9nKJ3jbRokkfqyiACL+emDUq6+7PvmF2TIoVcF2Jcr+TO7R6HvFsFdxpnBgsMP7bu96UqhxxfLwmah0lFh6MpRC2ZhT/8+gToYA==;Db2d17YpTndlcL8XQj+NUw=="

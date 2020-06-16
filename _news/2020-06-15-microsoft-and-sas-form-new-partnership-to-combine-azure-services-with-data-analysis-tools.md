@@ -47,18 +47,18 @@ related:
         height: 1125
         isCached: true
   - title: "PrimeKey Releases SignServer Cloud in the Microsoft Azure Marketplace"
-    excerpt: "PrimeKey, one of the world's leading providers of public key infrastructure (PKI) and digital signature solutions, today announced the"
+    excerpt: "PrimeKey, one of the world’s leading providers of public key infrastructure (PKI) and digital signature solutions, today announced the release of its SignServer Enterprise Cloud Edition product in the Microsoft Azure Marketplace,"
     publishedDateTime: 2020-06-16T11:44:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/primekey-releases-signserver-cloud-in-the-microsoft-azure-marketplace-301077438.html"
+    webUrl: "https://apnews.com/PR Newswire/63a3c8e6a6240832c128204183d6821a"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 37
     images:
-      - url: "https://mma.prnewswire.com/media/1190637/Alex_Gregory.jpg?p=facebook"
-        width: 1000
-        height: 523
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Microsoft Azure becomes preferred Cloud platform for SAS analytics"
     excerpt: "Tech giant Microsoft and business analytics software and services firm SAS have announced a strategic partnership, making Azure the preferred Cloud platform for SAS's analytics portfolio. The two companies will enable customers to easily run their SAS workloads in the cloud,"

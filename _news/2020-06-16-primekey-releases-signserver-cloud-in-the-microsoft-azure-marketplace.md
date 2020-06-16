@@ -1,25 +1,25 @@
 ---
 category: news
 title: "PrimeKey Releases SignServer Cloud in the Microsoft Azure Marketplace"
-excerpt: "PrimeKey, one of the world's leading providers of public key infrastructure (PKI) and digital signature solutions, today announced the"
+excerpt: "PrimeKey, one of the world’s leading providers of public key infrastructure (PKI) and digital signature solutions, today announced the release of its SignServer Enterprise Cloud Edition product in the Microsoft Azure Marketplace,"
 publishedDateTime: 2020-06-16T11:44:00Z
-webUrl: "https://www.prnewswire.com/news-releases/primekey-releases-signserver-cloud-in-the-microsoft-azure-marketplace-301077438.html"
+webUrl: "https://apnews.com/PR Newswire/63a3c8e6a6240832c128204183d6821a"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1190637/Alex_Gregory.jpg?p=facebook"
-    width: 1000
-    height: 523
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
     title: "PrimeKey Releases SignServer Cloud in the Microsoft Azure Marketplace"
 
@@ -66,6 +66,6 @@ related:
       domain: webindia123.com
     quality: 17
 
-secured: "BxyJ/tavuDuLvuAIPIwYYrmdRjHrmTtuiY7rKPmsE0bpv1fO8v8HLiD46Bno6xTjqd7ELXgkDGVic4+9HlDVJSC9oFTYCs4FKNixwAQTXUwt0FISXgbEimNZtOF9WFXuHDlnblnslY5cYq53C6xV+WEJ6E9FsI0I5DZd+daxsJj+kMPzfnKZf3uul1e3waEqowS+FVfJ/8ywtw1rTCidypv1bD39gNQysspHEYjNa3AYSfT4InWeAJV4nEVlVcPKnZerG73JXHORQ8RBOwL81rHNrTbwtW+Jc3C19ZyXxntguIQAN8WD2L8dxlJpLpU+I59lNS8i4y2AevMHQ7KCmg==;CLowaINIS73w5zJQ92uoFg=="
+secured: "HCtCAKOTnKWATehagW/A57DkxqmG6jhECrLSx5Qn0V5IzmTShYvRziA1RVKD/T5Ir6RCzRidY/QGJibPFhHwh01jxwtAzp+47u0cO41I4Uko6m9433k6LpzLsgxugn5a95fDW2CrXs4RWLPy51ZuBtA8OF4JlP9zHPCZJ2THJsP7NEOjXjhc8VK7T04QBiNmAJ2shyW1UvHOAfLtvUuijDcrlZOWXaL7O1tWDqJOLCTqjVMxwETHnbVZNtSFm8PUbRAgSm5APraro3ruCcAp/oidyDuwuptVDrXV99kD6ElitN7teuqK0gSbuU6w0Wo9PIWsG7dDuhZhq95v3Idgaw==;1a5ERXM6VuyNv81pbvHMQw=="
 ---
 

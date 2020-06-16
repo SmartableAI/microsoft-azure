@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Zixi Announces Deployment Of Services On Microsoft Azure"
-excerpt: "Zixi, an industry leader for enabling dependable, live broadcast-quality video over any-IP, and award winning architect of the"
+excerpt: "In addition, Azure customers who use Zixi to deliver streams of high-demand live events can leverage Zixi’s NVIDIA based GPU transcoding to deliver video to any device anywhere"
 publishedDateTime: 2020-06-16T12:14:00Z
-webUrl: "https://www.prnewswire.com/news-releases/zixi-announces-deployment-of-services-on-microsoft-azure-301077543.html"
+webUrl: "https://apnews.com/PR Newswire/ab6d9c039a55f7954e8ee80de8337fba"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/553828/Zixi_Logo.jpg?p=facebook"
-    width: 800
-    height: 419
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
     title: "Zixi Announces Deployment Of Services On Microsoft Azure"
 
@@ -34,6 +34,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "dN2DWmaRWpotzlJVGbpdBLzvbzP5FKij002pfXKpPQsn9qDUTcdVMSYcBqYDUf4vO3tiYx9YK37bB8SCjuuTvHfdnsr5wAF8fP9SE6uOEHkwcvJ2GIaStrb1Sj3dRGp9fh7vc53m89w7YnewzZjRgyO9spbrWsSHRKXUidUDn9Y8nq3u0nQEZuDgzoYB2I8wXFkJJUWjqbv7WzmfrGhReRg7FpFSDp9DB4TwDtAUREQ1k0uNMI8K42JX/GSY/DYkL7SwW4Wa3x8VmLrcXeEGZbmE4hkYDUKU5b/8ZSj92qIc482HhHuZwLtReGzxGdha9RQMJyLPmO6s13fAZISN/w==;H9hTnhzoRRFnvlQ8m6q4gw=="
+secured: "IWJpMwFwu6Du/HlmQytBfYqYymfRDqKznPoLTJzzyZHb8sY/+HOma/e4JxSVnS96YDv5peUA6PzkJWLoT3YDVC6ZgavlCat7Wddx2dc2Jzh6awhkAkzCvtQil6/X1N3FxL6exrTo9qsisvPmK2UxV+p49O4Lp05HG3EC9lzbGEdvf4I0N5YINmMzZGPmBxmY4VoLLDCFu/ZEmrwXJjQA/s0ui7OXGF4P90s2Ihsq1Eo9iFrOj29loWu6GL669I79wYktn7EDZSQkYDTNG/1pHur1cjADL7N3qsmqZYRhEL7r/u2/Nal7ZOmR+lRhW5TEjxUTfRji8nW4mlhKImKnRA==;Ju/2ezxPGUp0TauV1CIfnA=="
 ---
 
