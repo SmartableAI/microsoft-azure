@@ -31,7 +31,7 @@ related:
       domain: microsoft.com
     quality: 77
   - title: "Azure Kubernetes Service upgrade improvements are now in preview"
-    excerpt: ""
+    excerpt: "Two new AKS upgrade capabilities that will improve the granularity and efficiency of regular Kubernetes upgrade operations are now in preview."
     publishedDateTime: 2020-06-10T16:00:24Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-upgrade-improvements-are-now-in-preview/"
     type: article

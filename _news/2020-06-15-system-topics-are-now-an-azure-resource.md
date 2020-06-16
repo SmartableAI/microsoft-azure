@@ -1,7 +1,7 @@
 ---
 category: news
 title: "System topics are now an Azure resource"
-excerpt: ""
+excerpt: "Explicitly create system topics using Azure Event Grid."
 publishedDateTime: 2020-06-15T22:00:00Z
 webUrl: "https://azure.microsoft.com/en-us/updates/system-topics-are-now-an-azure-resource/"
 type: article

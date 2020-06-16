@@ -1,7 +1,7 @@
 ---
 category: news
 title: "New Azure Virtual Machines for general purpose and memory intensive workloads now in preview"
-excerpt: ""
+excerpt: "The new D v4-series and E v4-series Azure Virtual Machines feature the Intel® Xeon® Platinum 8272CL custom processor, which can achieve up to 3.4 Ghz all core turbo frequency. The D v4-series and E v4-series virtual machines (VMs) don’t provide any temporary storage. The D v4-series and Ds v4-series"
 publishedDateTime: 2020-06-15T15:00:01Z
 webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-virtual-machines-for-general-purpose-and-memory-intensive-workloads-now-in-preview/"
 type: article

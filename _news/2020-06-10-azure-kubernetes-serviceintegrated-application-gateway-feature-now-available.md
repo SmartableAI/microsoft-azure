@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Azure Kubernetes Service—Integrated application gateway feature now available"
-excerpt: ""
+excerpt: "Azure Application Gateway ingress controller (AGIC), a managed, scalable, and highly available application delivery controller, is now available to use as the ingress (inbound) traffic load-balancer for Kubernetes pods within an AKS cluster."
 publishedDateTime: 2020-06-10T16:00:23Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-integrated-application-gateway-feature-now-available/"
 type: article

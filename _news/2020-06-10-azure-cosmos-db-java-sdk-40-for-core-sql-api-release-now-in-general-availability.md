@@ -31,7 +31,7 @@ related:
       domain: microsoft.com
     quality: 77
   - title: "Azure App Service hybrid connections for Linux apps is now available"
-    excerpt: ""
+    excerpt: "The hybrid connections feature of Azure App Service, which enables access to resources in disparate networks, is now available in public regions."
     publishedDateTime: 2020-06-11T16:00:15Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-app-service-hybrid-connections-for-linux-apps-is-now-available/"
     type: article
@@ -40,7 +40,7 @@ related:
       domain: microsoft.com
     quality: 77
   - title: "Azure Sphere OS update 20.06 is now available for compatibility testing"
-    excerpt: ""
+    excerpt: "The Azure Sphere OS quality update 20.06 is now available for evaluation via the retail evaluation feed. The release includes an OS update and an updated Linux SDK."
     publishedDateTime: 2020-06-12T20:00:24Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-update-2006-is-now-available-for-compatibility-testing/"
     type: article
@@ -49,7 +49,7 @@ related:
       domain: microsoft.com
     quality: 77
   - title: "Azure Monitor for containers now supports log collection on AKS Windows node pools (in preview)"
-    excerpt: ""
+    excerpt: "Starting with agent version ciprod05262020, Azure Monitor for containers will collect logs (std/stderr) for the containers running on AKS clusters with Windows node pools."
     publishedDateTime: 2020-06-04T18:00:27Z
     webUrl: "https://azure.microsoft.com/en-us/updates/ci-windows-logging/"
     type: article

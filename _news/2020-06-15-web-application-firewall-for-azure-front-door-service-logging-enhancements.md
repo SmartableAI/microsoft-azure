@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Web Application Firewall for Azure Front Door service logging enhancements"
-excerpt: ""
+excerpt: "Azure Web Application Firewall for Azure Front Door now has a match details field in the logs to provide insights on why a request triggered a Web Application Firewall rule. "
 publishedDateTime: 2020-06-15T22:00:01Z
 webUrl: "https://azure.microsoft.com/en-us/updates/web-application-firewall-for-azure-front-door-service-logging-enhancements/"
 type: article

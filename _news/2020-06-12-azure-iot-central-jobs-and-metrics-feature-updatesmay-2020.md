@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Azure IoT Central jobs and metrics feature updates—May 2020"
-excerpt: ""
+excerpt: "May 2020 jobs and metrics feature updates for Azure IoT Central are now available."
 publishedDateTime: 2020-06-12T20:00:10Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-jobs-and-metrics-feature-updates-may-2020/"
 type: article

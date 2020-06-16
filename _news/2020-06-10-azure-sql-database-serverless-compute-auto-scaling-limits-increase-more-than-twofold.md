@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Azure SQL Database serverless compute auto-scaling limits increase more than twofold"
-excerpt: ""
+excerpt: "The maximum vCore limit for Azure SQL Database serverless has increased over twofold to 40 vCores. The higher limits provide greater compute auto-scaling headroom for serverless databases with more demanding workloads. "
 publishedDateTime: 2020-06-10T20:00:15Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-database-serverless-increases-compute-autoscaling-limits-over-2x/"
 type: article

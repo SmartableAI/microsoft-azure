@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Azure Quota REST APIs to manage service limits (quota) are now available in preview"
-excerpt: ""
+excerpt: "Use Azure REST Quota APIs to manage the service limits (quota) of Azure Virtual Machines (cores/vCPU) and Azure Machine Learning (in preview). Take advantage of this capability to query current usage and quotas for the supported resources and update these limits.\n\n\n"
 publishedDateTime: 2020-06-15T15:00:01Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-quota-rest-api-to-manage-service-limits-quota-are-now-available-in-preview/"
 type: article

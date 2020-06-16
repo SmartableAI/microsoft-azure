@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Azure App Service regional virtual network integration for Linux apps is now available"
-excerpt: ""
+excerpt: "The regional virtual network integration feature of Azure App Service, which enables access to resources in your virtual network across service endpoints or ExpressRoute connections, is now available in public regions"
 publishedDateTime: 2020-06-11T16:00:05Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-app-service-regional-virtual-network-integration-for-linux-apps-is-now-available/"
 type: article

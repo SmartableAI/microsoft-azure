@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Azure Monitor for Virtual Machines is now in preview in US Gov Arizona"
-excerpt: ""
+excerpt: "Azure Monitor for Virtual Machines is now available in preview in US Gov Arizona. It's also available in an additional eighteen public regions around the world."
 publishedDateTime: 2020-06-16T16:00:02Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-for-vms-is-now-in-preview-in-us-gov-arizona/"
 type: article

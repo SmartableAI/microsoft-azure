@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Azure API Management updates—June 2020"
-excerpt: ""
+excerpt: "A regular Azure API Management service update was started on June 10, 2020, and included new features, bug fixes, and changes, along with other improvements."
 publishedDateTime: 2020-06-11T17:00:01Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-update-june-2020/"
 type: article

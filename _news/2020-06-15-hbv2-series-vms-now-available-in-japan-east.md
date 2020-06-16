@@ -1,7 +1,7 @@
 ---
 category: news
 title: "HBv2-Series VMs now available in Japan East"
-excerpt: ""
+excerpt: "HBv2-series VMs for HPC now available in the Japan East region."
 publishedDateTime: 2020-06-15T23:00:00Z
 webUrl: "https://azure.microsoft.com/en-us/updates/hbv2series-vms-now-available-in-japan-east/"
 type: article

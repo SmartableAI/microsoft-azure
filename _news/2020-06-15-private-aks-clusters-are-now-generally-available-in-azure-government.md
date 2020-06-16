@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Private AKS clusters are now generally available in Azure Government "
-excerpt: ""
+excerpt: "Azure Government customers can now use private AKS clusters for additional security."
 publishedDateTime: 2020-06-15T19:00:03Z
 webUrl: "https://azure.microsoft.com/en-us/updates/private-aks-clusters-are-now-generally-available-in-azure-government/"
 type: article
@@ -135,7 +135,7 @@ related:
       domain: microsoft.com
     quality: 77
   - title: "Windows Server containers in AKS is now available in Azure Government"
-    excerpt: ""
+    excerpt: "Windows Server containers in AKS is now available in Azure Government. "
     publishedDateTime: 2020-06-10T16:00:25Z
     webUrl: "https://azure.microsoft.com/en-us/updates/windows-server-containers-in-aks-is-now-available-in-azure-government/"
     type: article

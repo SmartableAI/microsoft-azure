@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Azure Migrate—Assessment of imported servers is now generally available"
-excerpt: ""
+excerpt: "Assessment of imported servers in Azure Migrate is now generally available."
 publishedDateTime: 2020-06-15T17:00:02Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-migrate-assessment-of-imported-servers-is-now-ga/"
 type: article

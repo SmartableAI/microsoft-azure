@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Budgets in Cost Management now accounts threshold edits and alert limits above 100%"
-excerpt: ""
+excerpt: "Budget evaluations in Azure Cost Management now re-fire alerts for the same period after you edit a budget. Additionally, now Budgets will also allow you to set a threshold above 100%"
 publishedDateTime: 2020-06-12T16:00:08Z
 webUrl: "https://azure.microsoft.com/en-us/updates/budgets-in-cost-management-now-accounts-threshold-edits-and-alert-limits-above-100/"
 type: article
