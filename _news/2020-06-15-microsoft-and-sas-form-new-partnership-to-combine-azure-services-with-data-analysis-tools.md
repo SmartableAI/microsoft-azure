@@ -46,6 +46,22 @@ related:
         width: 1125
         height: 1125
         isCached: true
+  - title: "Microsoft Azure becomes preferred Cloud platform for SAS analytics"
+    excerpt: "Tech giant Microsoft and business analytics software and services firm SAS have announced a strategic partnership, making Azure the preferred Cloud platform for SAS's analytics portfolio. The two companies will enable customers to easily run their SAS workloads in the cloud,"
+    publishedDateTime: 2020-06-16T04:47:00Z
+    webUrl: "https://www.businessinsider.in/tech/news/microsoft-azure-becomes-preferred-cloud-platform-for-sas-analytics/articleshow/76398520.cms"
+    ampWebUrl: "https://www.businessinsider.in/tech/news/microsoft-azure-becomes-preferred-cloud-platform-for-sas-analytics/amp_articleshow/76398520.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/microsoft-azure-becomes-preferred-cloud-platform-for-sas-analytics/amp_articleshow/76398520.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 57
+    images:
+      - url: "https://www.businessinsider.in/thumb/76398520.cms?height=275&width=412"
+        width: 412
+        height: 275
+        isCached: true
 
 secured: "AC0bwxPj89eDCrU+ixpqU/hkojVVhAjuzxrbbxgOsdfsLWI3pPy10tUSwTkzB6EdfA7H7orxdOQUFjC5lm0rL0mmB+U/tTwmQu7b8+dyPl0ZE9IhYJHCUylAxkDqoDgQV6ro5Kvz2zNx1i38zB2tG+d4YVkkguB54o2Q9/fgrcd9zE/zxwsl03Iv1dfVN5YLpUKBiR2eK+vjYYJlGn8Mp7QreDZK4G2Kov2a4iT6l6cayk7AE1hcHrOflm8ygsSbEHR5sNRLYTTi2JKlBiUnNWuGkMTVIZAvITN0ZOg+ZrAKn7nrSlKcqR4jvV3hchDe5aXUHHqm2vmDGuHEi1mvcKjEl8TKipRyz5uvXTOy8079p2yLZTmuFhFANSnnVedMQJDtPSjSSwGM0gXnSANPAnpmc2Ail9dUKt0krgPcRITDFSDvYx79y3m8fuIDa+zKFQPldrcw+yLw2VQMLECEomF1Wdr7pV0c1vNYpT0UjPegyfFpKJJVx7Uz0Sqa6oRXacJJPLveMyqCCQ14Myb80Q==;UMGRiM+W5lZSwSQh+kyONw=="
 ---

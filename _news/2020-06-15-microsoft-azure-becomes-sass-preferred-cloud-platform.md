@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-azure-becomes-sas
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-becomes-sass-preferred-cloud-platform/"
 type: article
 quality: 97
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://tr1.cbsistatic.com/hub/i/r/2020/05/07/ccf1b9f3-820b-4272-9325-c9444e0bea00/resize/1200x/f7b6b827f21a8935e6222fc85c64244c/istock-1203832818.jpg"
         width: 1200
         height: 801
+        isCached: true
+  - title: "Microsoft Azure becomes preferred Cloud platform for SAS analytics"
+    excerpt: "Tech giant Microsoft and business analytics software and services firm SAS have announced a strategic partnership, making Azure the preferred Cloud platform for SAS's analytics portfolio. The two companies will enable customers to easily run their SAS workloads in the cloud,"
+    publishedDateTime: 2020-06-16T04:47:00Z
+    webUrl: "https://www.businessinsider.in/tech/news/microsoft-azure-becomes-preferred-cloud-platform-for-sas-analytics/articleshow/76398520.cms"
+    ampWebUrl: "https://www.businessinsider.in/tech/news/microsoft-azure-becomes-preferred-cloud-platform-for-sas-analytics/amp_articleshow/76398520.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/microsoft-azure-becomes-preferred-cloud-platform-for-sas-analytics/amp_articleshow/76398520.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 57
+    images:
+      - url: "https://www.businessinsider.in/thumb/76398520.cms?height=275&width=412"
+        width: 412
+        height: 275
         isCached: true
 
 secured: "PIXNyXYJM0frFiB4Z/8fbL2iqxHmzdl54uTbDChCbYYs2s3y5pVjKXn/NrFpkoy1KmWek7cQifT9IhvixzUbg9vmAMrvNB7G9W6ubVzq+1U38FIwJ3XorZdVWvZeHnbvr1ONegXf+A8NkR42mD6kWq0w/Wb9yXvqzO7swne4yRvOjotsCfkCQym2fNvI/wXuiNwHowZuu+ypV3aiIykNsKJXGREfjFJ+en19KRrcqs7CH+CpXWlQJhejyF0yf0YubGdJ9/XrWCmMe4XXDOMu9drTAJ34irCJazQjXMpJI8XxzRclm0B7GIUL7emj4BxRVgXJdTOd7bvowawZlz/dUCJXEF1OutG5iVacWWgtxYbeh227x8mZvGtBAxHkjBOVB9GLmwPQnpHBInWyZZgtJlM2DiW0QVwek36+YIMnZ9foQAcU2zRYXvO1iGyjF40m4D4SavE4No25in/czqY1v+MIlEfnQhi3Kkz2yQbst+F5VgDSRK5ad/9mXISsLPMY;MO+auT3fhp2pUz+0gpeoYw=="
