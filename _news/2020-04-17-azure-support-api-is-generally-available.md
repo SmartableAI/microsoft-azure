@@ -71,7 +71,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 79
+    quality: 81
   - title: "Azure App Service—.NET Core 3.1 is now generally available"
     excerpt: ""
     publishedDateTime: 2020-04-23T16:00:29Z

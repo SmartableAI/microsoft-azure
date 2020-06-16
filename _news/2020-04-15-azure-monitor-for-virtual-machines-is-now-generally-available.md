@@ -21,29 +21,34 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Machine Learning—New log streaming feature is now available"
-    excerpt: ""
-    publishedDateTime: 2020-04-13T16:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-machine-learning-new-log-streaming-feature/"
+  - title: "Announcing the general availability of Azure Monitor for virtual machines"
+    excerpt: "Today we're announcing the general availability of Azure Monitor for virtual machines (VMs), which provides an in-depth view of VM performance trends and dependencies. You can access Azure Monitor for VMs from the Azure VM resource blade to view details about a single VM, from the Azure Virtual Machine"
+    publishedDateTime: 2020-03-16T10:00:32Z
+    webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-monitor-for-virtual-machines/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 97
+    quality: 115
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/d0ede978-fc61-4ae5-bcd7-dac3ef5c3f9a.jpg"
-        width: 752
-        height: 379
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8aaf8f84-054c-4681-82e8-58dd8d160940.png"
+        width: 1430
+        height: 953
         isCached: true
-  - title: "Azure Analysis Services—Query interleaving is now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-04-16T23:00:21Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-general-availability-ga-of-query-interleaving-for-azure-analysis-services/"
+  - title: "Announcing the general availability of Azure Spot Virtual Machines"
+    excerpt: "Today we’re announcing the general availability of Azure Spot Virtual Machines (VMs). Azure Spot VMs provide access to unused Azure compute capacity at deep discounts. Spot pricing is available on single VMs in addition to VM scale sets (VMSS). This enables you to deploy a broader variety of workloads"
+    publishedDateTime: 2020-05-12T08:00:18Z
+    webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-spot-virtual-machines/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 114
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/333076bc-4f9e-4461-9ba7-810752e19173.jpg"
+        width: 800
+        height: 468
+        isCached: true
 
 secured: "ABRicviYTpivJVZoYf6B2vmL2xQJUTQujexmyjUD5w6Gzh1/mU5rCjjs9LHhqVxAZfw1QEAGC9esGVm2Lt47cpe/ux5rL/qDc7xizh1xxmUUYdThLVUsIRCPwnVMSxASJ9wftaF6NLmhQbfwdiYLhX7mLZ1ez7SPxP/NhrORA1tC/5lkzJF9D/VMyrpmLuQ53+zwzhyUQLqIkAuhDJlv4uNjb/gLbdxuThE7YxEb292RuIzh4CDBq8oR6Z4ibKRohbEz5tws9hgi1wWPnjmytZDZb3Ci/lm7B7cA1rVu3X9RMc8I+Ero8HT33kTu1SCAqVbCdkGssiKAiUc3VHaYYA==;PK2ZjjW9KmQIaxYP5lvpKQ=="
 ---

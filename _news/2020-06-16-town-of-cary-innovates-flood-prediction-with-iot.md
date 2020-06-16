@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-16T09:00:10Z
 webUrl: "https://azure.microsoft.com/blog/town-of-cary-innovates-flood-prediction-with-iot/"
 type: article
 quality: 99
-heat: 99
+heat: 100
 published: true
 
 provider:

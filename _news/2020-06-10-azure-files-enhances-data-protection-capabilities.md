@@ -5,8 +5,8 @@ excerpt: "Protecting your production data is critical for any business. That’s
 publishedDateTime: 2020-06-10T11:30:14Z
 webUrl: "https://azure.microsoft.com/blog/azure-files-enhances-data-protection-capabilities/"
 type: article
-quality: 99
-heat: 139
+quality: 101
+heat: 141
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - Azure
   - Storage
+  - Management tools
 
 images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/58c78eec-5ed2-4255-824c-4bfce9809ba8.png"

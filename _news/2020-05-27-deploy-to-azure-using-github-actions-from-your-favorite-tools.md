@@ -5,8 +5,8 @@ excerpt: "Enterprises and teams are adopting DevOps technologies combined with p
 publishedDateTime: 2020-05-27T08:00:01Z
 webUrl: "https://azure.microsoft.com/blog/deploy-to-azure-using-github-actions-from-your-favorite-tools/"
 type: article
-quality: 97
-heat: 97
+quality: 101
+heat: 101
 published: true
 
 provider:
@@ -19,6 +19,8 @@ provider:
 
 topics:
   - Azure
+  - Developer tools
+  - DevOps
 
 images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e53fc3e7-de08-4b07-96d7-2228a4b23005.png"

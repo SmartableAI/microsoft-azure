@@ -99,7 +99,7 @@
       "title": "Azure Container Registry Private Link support preview for virtual networks",
       "excerpt": "Azure Container Registry announces preview support for Azure Private Link, a means to limit network traffic of resources within the Azure network.\r\n\r\nWith Private Link, the registry endpoints are assigned private IP addresses, routing traffic within a customer-defined virtual network. Private network",
       "webUrl": "https://azure.microsoft.com/blog/azure-container-registry-private-link-support-preview-for-virtual-networks/",
-      "heat": 97,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -138,7 +138,8 @@
       ],
       "topics": [
         "Azure",
-        "Networking"
+        "Networking",
+        "AI"
       ]
     },
     {
@@ -288,7 +289,7 @@
       "title": "How Azure Machine Learning powers suggested replies in Outlook ",
       "excerpt": "Microsoft 365 applications are so commonplace that it’s easy to overlook some of the amazing capabilities that are enabled with breakthrough technologies, including artificial intelligence (AI). Microsoft Outlook is an email client that helps you work efficiently with email, calendar, contacts, tasks,",
       "webUrl": "https://azure.microsoft.com/blog/how-azure-machine-learning-service-powers-suggested-replies-in-outlook/",
-      "heat": 114,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -328,6 +329,45 @@
       "topics": [
         "Azure",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-new-deploy-to-azure-extension-for-visual-studio-code.md",
+      "title": "New Deploy to Azure extension for Visual Studio Code",
+      "excerpt": "Organizations and teams that adopt DevOps methodologies are consistently seeing improvements in their ability to deliver high-quality code, with faster release cycles, and ultimately achieve higher levels of satisfaction for their own customers, whether they’re internal or external. ",
+      "webUrl": "https://azure.microsoft.com/blog/new-deploy-to-azure-extension-for-visual-studio-code/",
+      "heat": 141,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T03:00:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Developer tools",
+        "DevOps"
       ]
     },
     {
@@ -422,6 +462,54 @@
       "topics": [
         "Azure",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-announcing-the-general-availability-of-azure-monitor-for-virtual-machines.md",
+      "title": "Announcing the general availability of Azure Monitor for virtual machines",
+      "excerpt": "Today we're announcing the general availability of Azure Monitor for virtual machines (VMs), which provides an in-depth view of VM performance trends and dependencies. You can access Azure Monitor for VMs from the Azure VM resource blade to view details about a single VM, from the Azure Virtual Machine",
+      "webUrl": "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-monitor-for-virtual-machines/",
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8aaf8f84-054c-4681-82e8-58dd8d160940.png",
+          "width": 1430,
+          "height": 953,
+          "title": "Announcing the general availability of Azure Monitor for virtual machines",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T03:00:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Compute",
+        "Management tools"
       ]
     },
     {
@@ -741,7 +829,7 @@
       "title": "Announcing preview of Backup Reports",
       "excerpt": "We recently announced a new solution, Backup Explorer, to enable you as a backup administrator to perform real-time monitoring of your backups, helping you achieve increased efficiency in your day-to-day operations.\r\n\r\nBut what if you could also be proactive in the way you manage your backup estate?",
       "webUrl": "https://azure.microsoft.com/blog/announcing-preview-of-backup-reports/",
-      "heat": 84,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -780,7 +868,8 @@
       ],
       "topics": [
         "Azure",
-        "Storage"
+        "Storage",
+        "Management tools"
       ]
     },
     {
@@ -954,6 +1043,43 @@
       ]
     },
     {
+      "path": "_news/2020-02-27-accelerate-your-cloud-strategy-with-skytap-on-azure.md",
+      "title": "Accelerate your cloud strategy with Skytap on Azure",
+      "excerpt": "Skytap on Azure allows businesses to innovate with the cloud faster, while minimizing impact to traditional applications running on IBM Power.",
+      "webUrl": "https://azure.microsoft.com/blog/accelerate-your-cloud-strategy-with-skytap-on-azure/",
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-27T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2020-02-24-fileless-attack-detection-for-linux-in-preview.md",
       "title": "Fileless attack detection for Linux in preview",
       "excerpt": "This blog post was co-authored by Aditya Joshi, Senior Software Engineer, Enterprise Protection and Detection.\r\n\r\nAttackers are increasingly employing stealthier methods to avoid detection. Fileless attacks exploit software vulnerabilities, inject malicious payloads into benign system processes, and",
@@ -1005,7 +1131,7 @@
       "title": "Burst 4K encoding on Azure Kubernetes Service",
       "excerpt": "Burst encoding in the cloud with Azure and Media Excel HERO platform.\r\n\r\nContent creation has never been as in demand as it is today. Both professional and user-generated content has increased exponentially over the past years. This puts a lot of stress on media encoding and transcoding platforms. Add",
       "webUrl": "https://azure.microsoft.com/blog/burst-4k-encoding-on-azure-kubernetes-service/",
-      "heat": 101,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -1045,7 +1171,8 @@
       "topics": [
         "Azure",
         "Compute",
-        "Networking"
+        "Networking",
+        "DevOps"
       ]
     },
     {
@@ -1091,7 +1218,7 @@
       "title": "Preview of Active Directory authentication support on Azure Files",
       "excerpt": "We are excited to announce the preview of Azure Files Active Directory (AD) authentication. You can now mount your Azure Files using AD credentials with the exact same access control experience as on-premises. You may leverage an Active Directory domain service (AD DS) either hosted on-premises or on",
       "webUrl": "https://azure.microsoft.com/blog/preview-of-active-directory-for-authentication-on-azure-file/",
-      "heat": 99,
+      "heat": 101,
       "tags": null,
       "images": null,
       "type": "article",
@@ -1121,7 +1248,8 @@
       ],
       "topics": [
         "Azure",
-        "Serverless"
+        "Serverless",
+        "Identity"
       ]
     },
     {
@@ -1207,147 +1335,6 @@
       "topics": [
         "Azure",
         "Security"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-azure-offline-backup-with-azure-data-box-now-in-preview.md",
-      "title": "Azure Offline Backup with Azure Data Box now in preview",
-      "excerpt": "An ever-increasing number of enterprises, even as they adopt a hybrid IT strategy, continue to retain mission-critical data on-premises and look towards the public cloud as an effective offsite for their backups. Azure Backup—Azure’s built-in data-protection solution, provides a simple, secure, and cost-effective",
-      "webUrl": "https://azure.microsoft.com/blog/azure-offline-backup-with-azure-data-box-now-in-preview/",
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/3480941d-7a91-4521-b196-d0bbab7c616b.png",
-          "width": 1054,
-          "height": 581,
-          "title": "Azure Offline Backup with Azure Data Box now in preview",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-18T01:00:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Storage"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-sql-server-runs-best-on-azure-heres-why.md",
-      "title": "SQL Server runs best on Azure. Here’s why.",
-      "excerpt": "SQL Server customers migrating their databases to the cloud have multiple choices for their cloud destination. To thoroughly assess which cloud is best for SQL Server workloads, two key factors to consider are:\r\n\r\n\r\n\t\r\n\tInnovations that the cloud provider can uniquely provide.\r\n\t\r\n\t\r\n\tIndependent benchmark",
-      "webUrl": "https://azure.microsoft.com/blog/sql-server-runs-best-on-azure-heres-why/",
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7ceff60b-0bd4-4867-85cd-61883c401c2f.png",
-          "width": 1287,
-          "height": 482,
-          "title": "SQL Server runs best on Azure. Here’s why.",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-13T04:00:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-announcing-the-preview-of-azure-shared-disks-for-clustered-applications.md",
-      "title": "Announcing the preview of Azure Shared Disks for clustered applications",
-      "excerpt": "Today, we are announcing the limited preview of Azure Shared Disks, the industry’s first shared cloud block storage. Azure Shared Disks enables the next wave of block storage workloads migrating to the cloud including the most demanding enterprise applications, currently running on-premises on Storage",
-      "webUrl": "https://azure.microsoft.com/blog/announcing-the-preview-of-azure-shared-disks-for-clustered-applications/",
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/0c75bf54-5409-4ebf-b3c0-83b4f8b7cd14.png",
-          "width": 907,
-          "height": 768,
-          "title": "Announcing the preview of Azure Shared Disks for clustered applications",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-13T01:00:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Compute"
       ]
     }
   ],

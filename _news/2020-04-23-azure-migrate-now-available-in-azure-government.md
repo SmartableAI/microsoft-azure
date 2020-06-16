@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-23T11:00:11Z
 webUrl: "https://azure.microsoft.com/blog/azure-migrate-now-available-in-azure-government/"
 type: article
 quality: 99
-heat: 499
+heat: 479
 published: true
 
 provider:
@@ -114,15 +114,6 @@ related:
     excerpt: ""
     publishedDateTime: 2020-05-14T16:00:05Z
     webUrl: "https://azure.microsoft.com/en-us/updates/privatelinkgagovcloud/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure DevTest Labs environments are now available in Azure Government"
-    excerpt: ""
-    publishedDateTime: 2020-05-27T16:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-devtest-labs-environments-are-now-available-in-azure-government/"
     type: article
     provider:
       name: Microsoft

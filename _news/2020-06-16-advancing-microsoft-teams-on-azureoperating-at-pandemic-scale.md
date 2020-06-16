@@ -5,8 +5,8 @@ excerpt: "“The COVID-19 pandemic has reset what it means to work, study, and s
 publishedDateTime: 2020-06-16T08:00:11Z
 webUrl: "https://azure.microsoft.com/blog/advancing-microsoft-teams-on-azure-operating-at-pandemic-scale/"
 type: article
-quality: 97
-heat: 97
+quality: 99
+heat: 99
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - Azure
+  - Developer tools
 
 images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c229cba7-597c-46dc-8545-7f42706d8c55.png"

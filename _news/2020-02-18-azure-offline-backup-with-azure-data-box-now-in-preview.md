@@ -5,8 +5,8 @@ excerpt: "An ever-increasing number of enterprises, even as they adopt a hybrid 
 publishedDateTime: 2020-02-18T09:00:13Z
 webUrl: "https://azure.microsoft.com/blog/azure-offline-backup-with-azure-data-box-now-in-preview/"
 type: article
-quality: 99
-heat: 99
+quality: 101
+heat: 101
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - Azure
   - Storage
+  - Management tools
 
 images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/3480941d-7a91-4521-b196-d0bbab7c616b.png"

@@ -5,7 +5,7 @@ excerpt: "Enterprises, partners, and IT professionals store business-critical da
 publishedDateTime: 2020-05-11T13:00:00Z
 webUrl: "https://azure.microsoft.com/blog/azure-blob-storage-enhancing-data-protection-and-recovery-capabilities/"
 type: article
-quality: 94
+quality: 96
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 topics:
   - Azure
   - Storage
+  - Management tools
 
 related:
   - title: "Manage and find data with Blob Index for Azure Storage—now in preview"
@@ -30,7 +31,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 114
+    quality: 116
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/92cec444-9b04-4e3c-9250-2af9a918d97d.png"
         width: 1024

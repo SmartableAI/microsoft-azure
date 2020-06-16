@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-13T16:00:05Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-machine-learning-new-log-streaming-feature/"
 type: article
 quality: 97
-heat: 137
+heat: 117
 published: true
 
 provider:
@@ -28,15 +28,6 @@ images:
     title: "Azure Machine Learning—New log streaming feature is now available"
 
 related:
-  - title: "Azure Monitor for virtual machines is now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-04-15T16:00:16Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-for-virtual-machines-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
   - title: "Azure Analysis Services—Query interleaving is now generally available"
     excerpt: ""
     publishedDateTime: 2020-04-16T23:00:21Z

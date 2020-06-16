@@ -64,7 +64,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 79
+    quality: 81
   - title: "Azure Support API is generally available"
     excerpt: ""
     publishedDateTime: 2020-04-17T17:00:00Z

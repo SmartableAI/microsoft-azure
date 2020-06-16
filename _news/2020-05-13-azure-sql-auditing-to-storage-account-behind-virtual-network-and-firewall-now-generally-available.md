@@ -21,48 +21,6 @@ topics:
   - Azure
 
 related:
-  - title: "Announcing the general availability of Azure Spot Virtual Machines"
-    excerpt: "Today we’re announcing the general availability of Azure Spot Virtual Machines (VMs). Azure Spot VMs provide access to unused Azure compute capacity at deep discounts. Spot pricing is available on single VMs in addition to VM scale sets (VMSS). This enables you to deploy a broader variety of workloads"
-    publishedDateTime: 2020-05-12T08:00:18Z
-    webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-spot-virtual-machines/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 114
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/333076bc-4f9e-4461-9ba7-810752e19173.jpg"
-        width: 800
-        height: 468
-        isCached: true
-  - title: "Announcing the general availability of Azure Monitor for virtual machines"
-    excerpt: "Today we're announcing the general availability of Azure Monitor for virtual machines (VMs), which provides an in-depth view of VM performance trends and dependencies. You can access Azure Monitor for VMs from the Azure VM resource blade to view details about a single VM, from the Azure Virtual Machine"
-    publishedDateTime: 2020-03-16T10:00:32Z
-    webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-monitor-for-virtual-machines/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 113
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8aaf8f84-054c-4681-82e8-58dd8d160940.png"
-        width: 1430
-        height: 953
-        isCached: true
-  - title: "Azure Virtual Machine Scale Sets now provide simpler management during scale-in"
-    excerpt: "We recently announced the general availability of three features for Azure Virtual Machine Scale Sets. Instance protection, custom scale-in policy, and terminate notification provide new capabilities to simplify management of virtual machine instances during scale-in.\r\n\r\nAzure Virtual Machine Scale Sets"
-    publishedDateTime: 2020-05-11T12:00:03Z
-    webUrl: "https://azure.microsoft.com/blog/azure-virtual-machine-scale-sets-now-provide-simpler-management-during-scalein/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 110
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/985df91e-de4d-4c27-a28b-f3ec9be164e3.jpg"
-        width: 1024
-        height: 696
-        isCached: true
   - title: "Virtual Network NAT now generally available in Azure Government and Azure China"
     excerpt: ""
     publishedDateTime: 2020-05-07T21:00:13Z
@@ -72,48 +30,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 73
-  - title: "Finxact Announces General Availability of its Core-as-a-Service on Microsoft Azure"
-    excerpt: "Finxact is responding to growing market demand from its regional and super regional clients and prospects to support Azure. Finxact chose Microsoft based on its unique strength in accelerating ..."
-    publishedDateTime: 2020-05-13T12:33:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/finxact-announces-general-availability-of-its-core-as-a-service-on-microsoft-azure-301058085.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Qualys Delivers Vulnerability Management to Microsoft Azure Security Center for Virtual Machines and Containers"
-    excerpt: "Now, Microsoft Azure developers and customers have real-time visibility to secure and remediate cloud workloads at a click of a button with built-in orchestration as well.\" \"Security is in the DNA ..."
-    publishedDateTime: 2020-05-07T13:06:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/qualys-delivers-vulnerability-management-to-microsoft-azure-security-center-for-virtual-machines-and-containers-301054791.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 17
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Microsoft Announces the General Availability of Windows Server Containers, and More for AKS"
-    excerpt: "Microsoft launched a preview of Windows Server Containers in Azure Kubernetes Service (AKS). Now the company announced the general availability of Windows Server containers in AKS, including the support of private clusters and managed identities."
-    publishedDateTime: 2020-05-05T11:23:00Z
-    webUrl: "https://www.infoq.com/news/2020/05/windows-server-containers-aks-ga/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 12
-    images:
-      - url: "https://cdn.infoq.com/statics_s2_20200602-0333/styles/static/images/logo/logo-big.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Z5BvZDnuYfhkyhodZeUUOxAB0iWESTztP/vhLZ5e/oXnlpf8dETaPos8Rt+kjjBz7QW8XRK4cqonz0jrGX7wwjcYrcBt9tow9F/zXlp12bQWWxyQJeY3vmgKfbN46S2ym8ttJ2b+Tv6tF5rpgreycbKOguForD0fdnMWlP7Mq0FpOCLRcmABWqpq5wWx8jlKzsZwS12W/JvsBXSQ5CmwmfmAhwhaqIqrTRuT5JyKSy2Ok9osO68fVN7bESdtFcSrcsU0CRE16uluJU+rvl3f9ELFzitpmhYm7Rmd7QOTEohD+YTP0xd8U/Gh4riNPOnUaqJy+LGcwUSc8jjW6vdYCA==;TYwJ2J0XG/mc/P8wt/OmVw=="
 ---

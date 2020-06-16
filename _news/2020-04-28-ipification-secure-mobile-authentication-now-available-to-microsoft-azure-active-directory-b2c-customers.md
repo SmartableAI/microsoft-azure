@@ -132,15 +132,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Azure DevTest Labs environments are now available in Azure Government"
-    excerpt: ""
-    publishedDateTime: 2020-05-27T16:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-devtest-labs-environments-are-now-available-in-azure-government/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
   - title: "Windows Server containers in AKS is now available in Azure Government"
     excerpt: "Windows Server containers in AKS is now available in Azure Government. "
     publishedDateTime: 2020-06-10T16:00:25Z

@@ -2,6 +2,52 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-05-03-cloud-monitoring-market-growth-analysis-by-size-market-share-forecast-till-2023.md",
+      "title": "Cloud Monitoring Market, Growth Analysis by Size, Market Share ,Forecast till 2023",
+      "excerpt": "Cloud monitoring is the process of reviewing, monitoring and managing the operational workflow and processes within a cloud-based IT asset or infrastructure. It is the use of manu",
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-monitoring-market-growth-analysis-by-size-market-share-forecast-till-2023-2020-05-03",
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Cloud Monitoring Market, Growth Analysis by Size, Market Share ,Forecast till 2023",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-02T23:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2020-05-02-a-big-shift-in-cloud-war-between-amazon-google-microsoft-is-coming-pg-top-tech-exec.md",
       "title": "A big shift in cloud war between Amazon, Google, Microsoft is coming: P&G top tech exec",
       "excerpt": "Procter & Gamble chief information officer Javier Polit said the booming cloud computing market will contract over the next five years. Amazon has been an early leader and P&G has been a client ...",
@@ -457,7 +503,7 @@
       "title": "Azure Cost Management + Billing updates – April 2020",
       "excerpt": "Whether you're a new student, thriving startup, or the largest enterprise, you have financial constraints and you need to know what you're spending, where, and how to plan for the future. Nobody wants a surprise when it comes to the bill, and this is where Azure Cost Management + Billing comes in.\r\n\r\nWe're",
       "webUrl": "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-april-2020/",
-      "heat": 141,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -497,7 +543,9 @@
       "topics": [
         "Azure",
         "Databases",
-        "Compute"
+        "Compute",
+        "DevOps",
+        "Management tools"
       ]
     },
     {
@@ -505,7 +553,7 @@
       "title": "Azure Container Registry: Mitigating data exfiltration with dedicated data endpoints",
       "excerpt": "Azure Container Registry announces dedicated data endpoints, enabling tightly scoped client firewall rules to specific registries, minimizing data exfiltration concerns.\r\n\r\nPulling content from a registry involves two endpoints:\r\n\r\n\r\n\tRegistry endpoint, often referred to as the login URL, used for authentication",
       "webUrl": "https://azure.microsoft.com/blog/azure-container-registry-mitigating-data-exfiltration-with-dedicated-data-endpoints/",
-      "heat": 110,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -543,7 +591,8 @@
         "news"
       ],
       "topics": [
-        "Azure"
+        "Azure",
+        "Developer tools"
       ]
     },
     {
@@ -551,7 +600,7 @@
       "title": "Cross Region Restore (CRR) for Azure Virtual Machines using Azure Backup",
       "excerpt": "Today we're indroducing the preview of Cross Region Restore (CRR) for Microsoft Azure Virtual Machines (VMs) support using Microsoft Azure Backup.\r\n\r\nAzure Backup uses Recovery Services vault to hold customers' backup data which offers both local and geographic redundancy. To ensure high availability",
       "webUrl": "https://azure.microsoft.com/blog/cross-region-restore-crr-for-azure-virtual-machines-using-azure-backup/",
-      "heat": 135,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -591,7 +640,8 @@
       "topics": [
         "Azure",
         "Storage",
-        "Compute"
+        "Compute",
+        "Management tools"
       ]
     },
     {
@@ -1013,7 +1063,7 @@
       "title": "Azure Files share snapshot management by Azure Backup is now generally available",
       "excerpt": "Microsoft Azure Files offers fully managed file shares in the cloud that are accessible via the industry standard Server Message Block (SMB) protocol. For users of Azure Files, share snapshots have offered a read-only version of file shares from a previous point in time. Share snapshots are also incremental",
       "webUrl": "https://azure.microsoft.com/blog/azure-files-share-snapshot-management-by-azure-backup-is-now-generally-available/",
-      "heat": 254,
+      "heat": 256,
       "tags": null,
       "images": [
         {
@@ -1052,7 +1102,8 @@
       ],
       "topics": [
         "Azure",
-        "Storage"
+        "Storage",
+        "Management tools"
       ]
     },
     {
@@ -1067,43 +1118,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-04-28T16:00:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-azure-iot-centralmarch-2020-updates.md",
-      "title": "Azure IoT Central—March 2020 updates",
-      "excerpt": "",
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-iot-central-march-2020-updates/",
-      "heat": 157,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-28T16:00:43-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

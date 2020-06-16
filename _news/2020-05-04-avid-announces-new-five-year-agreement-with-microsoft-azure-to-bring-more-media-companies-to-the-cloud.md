@@ -186,6 +186,20 @@ related:
         width: 2542
         height: 1331
         isCached: true
+  - title: "Microsoft Announces the General Availability of Windows Server Containers, and More for AKS"
+    excerpt: "Microsoft launched a preview of Windows Server Containers in Azure Kubernetes Service (AKS). Now the company announced the general availability of Windows Server containers in AKS, including the support of private clusters and managed identities."
+    publishedDateTime: 2020-05-05T11:23:00Z
+    webUrl: "https://www.infoq.com/news/2020/05/windows-server-containers-aks-ga/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 12
+    images:
+      - url: "https://cdn.infoq.com/statics_s2_20200602-0333/styles/static/images/logo/logo-big.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "6w2xOFMtbxHHsqY1KVODGKHcFEXRBo3jxUPfocjpWFkWvVVaJnr/833jtGdycanO6T0o20a/IlVOdIj9z3Nz+3yh6CHYsE1nxWvO+DmBQD7EDPGWo5eXWluvldy5pUwLiKCwFidByIgmizSPwnwzl7oYnS+xu7QpIO6NEjG7MxTJw5+tb3aGl4ToPz7gJST9KIznH4TSpJnXo/MB/yu0H+S2ZJGOa92FblbjRX7tFAbOMTxMS4/CgmTs4bu2W5gbaJXz6jU1gSWkPXkQU8W/XYBeDn7cSGvJleCyhtLAsOseSBucUiM7l06y53woChej;50zyP4BQoyCsHO678m9K3g=="
 ---

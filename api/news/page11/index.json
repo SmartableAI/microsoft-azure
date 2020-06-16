@@ -2,6 +2,52 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-04-16-amazon-bid-high-and-lost-on-jedi-microsoft-says-after-release-of-dod-watchdog-report.md",
+      "title": "Amazon ‘bid high and lost’ on JEDI, Microsoft says after release of DoD watchdog report",
+      "excerpt": "Microsoft took aim at Amazon in a blog post Wednesday, accusing its rival of seeking an unfair advantage as the two companies lock horns over the Pentagon’s JEDI contract. The Department of Defense awarded the Joint Enterprise Defense Infrastructure project to Microsoft last year despite Amazon’s apparent advantage during the bidding process.",
+      "webUrl": "https://www.geekwire.com/2020/amazon-bid-high-lost-jedi-microsoft-says-release-dod-watchdog-report/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/11/microsoft-630x473.jpg",
+          "width": 630,
+          "height": 473,
+          "title": "Amazon ‘bid high and lost’ on JEDI, Microsoft says after release of DoD watchdog report",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/amazon-bid-high-lost-jedi-microsoft-says-release-dod-watchdog-report/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazon-bid-high-lost-jedi-microsoft-says-release-dod-watchdog-report/amp/",
+      "publishedDateTime": "2020-04-15T23:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2020-04-15-securing-azure-functions-with-api-management-and-identityserver4.md",
       "title": "Securing Azure Functions with API Management and IdentityServer4.",
       "excerpt": "There are several Azure App Service platform authentication features like Active Directory, Microsoft ID, Facebook, Google, Twitter. And a Function level authentication provides Anonymous ...",
@@ -297,48 +343,11 @@
       ]
     },
     {
-      "path": "_news/2020-04-13-new-azure-api-management-visual-studio-code-extension-now-available.md",
-      "title": "New Azure API Management Visual Studio Code extension now available",
-      "excerpt": "",
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-api-management-vs-code-extension-update-april-2020/",
-      "heat": 97,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-13T09:00:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_news/2020-04-13-azure-machine-learningnew-log-streaming-feature-is-now-available.md",
       "title": "Azure Machine Learning—New log streaming feature is now available",
       "excerpt": "",
       "webUrl": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-new-log-streaming-feature/",
-      "heat": 137,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -384,7 +393,7 @@
       "title": "Updates to Azure Maps Web SDK includes powerful new features",
       "excerpt": "Today, we are announcing updates to the Azure Maps Web SDK, which adds support for common spatial file formats, introduces a new data driven template framework for popups, includes several OGC services, and much more.\r\n\r\nSpatial IO module\r\n\r\n \r\n\r\nWith as little as three lines of code this module makes",
       "webUrl": "https://azure.microsoft.com/blog/updates-to-azure-maps-web-sdk-includes-powerful-new-features/",
-      "heat": 117,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -422,7 +431,10 @@
         "news"
       ],
       "topics": [
-        "Azure"
+        "Azure",
+        "IoT",
+        "Mobile",
+        "Web"
       ]
     },
     {
@@ -476,7 +488,7 @@
       "title": "Next Generation SAP HANA Large Instances with Intel® Optane™ drive lower TCO",
       "excerpt": "At Microsoft Ignite 2019, we announced general availability of the new SAP HANA Large Instances powered by the 2nd Generation Intel Xeon Scalable processors, formally Cascade Lake, supporting Intel® Optane™ persistent memory (PMem).\r\n\r\nMicrosoft’s largest SAP customers are continuing to consolidate their",
       "webUrl": "https://azure.microsoft.com/blog/next-generation-sap-hana-large-instances-with-intel-optane-drive-lower-tco/",
-      "heat": 81,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -515,7 +527,8 @@
       ],
       "topics": [
         "Azure",
-        "Databases"
+        "Databases",
+        "DevOps"
       ]
     },
     {
@@ -571,7 +584,7 @@
       "title": "Using Azure Monitor source map support to debug JavaScript errors",
       "excerpt": "Azure Monitor’s new source map support expands a growing list of tools that empower developers to observe, diagnose, and debug their JavaScript applications.\r\n\r\nDifficult to debug\r\n\r\nAs organizations rapidly adopt modern JavaScript frontend frameworks such as React, Angular, and Vue, they are left with",
       "webUrl": "https://azure.microsoft.com/blog/using-azure-monitor-source-map-support-to-debug-javascript-errors/",
-      "heat": 97,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -609,7 +622,8 @@
         "news"
       ],
       "topics": [
-        "Azure"
+        "Azure",
+        "Management tools"
       ]
     },
     {
@@ -756,7 +770,7 @@
       "title": "Introducing incremental enrichment in Azure Cognitive Search",
       "excerpt": "Incremental enrichment is a new feature of Azure Cognitive Search that brings a declarative approach to indexing your data. When incremental enrichment is turned on, document enrichment is performed at the least cost, even as your skills continue to evolve. Indexers in Azure Cognitive Search add documents",
       "webUrl": "https://azure.microsoft.com/blog/introducing-incremental-enrichment-in-azure-cognitive-search/",
-      "heat": 99,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -795,7 +809,8 @@
       ],
       "topics": [
         "Azure",
-        "AI"
+        "AI",
+        "Developer tools"
       ]
     },
     {
@@ -989,7 +1004,7 @@
       "title": "Azure Container Registry Private Link support preview for virtual networks",
       "excerpt": "Azure Container Registry announces preview support for Azure Private Link, a means to limit network traffic of resources within the Azure network.\r\n\r\nWith Private Link, the registry endpoints are assigned private IP addresses, routing traffic within a customer-defined virtual network. Private network",
       "webUrl": "https://azure.microsoft.com/blog/azure-container-registry-private-link-support-preview-for-virtual-networks/",
-      "heat": 97,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1028,7 +1043,8 @@
       ],
       "topics": [
         "Azure",
-        "Networking"
+        "Networking",
+        "AI"
       ]
     },
     {

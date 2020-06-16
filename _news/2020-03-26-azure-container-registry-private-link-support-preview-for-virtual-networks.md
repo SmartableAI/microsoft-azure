@@ -5,8 +5,8 @@ excerpt: "Azure Container Registry announces preview support for Azure Private L
 publishedDateTime: 2020-03-26T09:00:04Z
 webUrl: "https://azure.microsoft.com/blog/azure-container-registry-private-link-support-preview-for-virtual-networks/"
 type: article
-quality: 97
-heat: 97
+quality: 99
+heat: 99
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - Azure
   - Networking
+  - AI
 
 images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/0947861b-59ab-4b70-9986-14565a9521cf.png"

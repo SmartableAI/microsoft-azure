@@ -125,15 +125,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Azure DevTest Labs environments are now available in Azure Government"
-    excerpt: ""
-    publishedDateTime: 2020-05-27T16:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-devtest-labs-environments-are-now-available-in-azure-government/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
   - title: "Private AKS clusters are now generally available in Azure Government "
     excerpt: "Azure Government customers can now use private AKS clusters for additional security."
     publishedDateTime: 2020-06-15T19:00:03Z

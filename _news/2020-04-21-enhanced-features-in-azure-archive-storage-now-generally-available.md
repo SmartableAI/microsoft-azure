@@ -5,7 +5,7 @@ excerpt: "Since launching Azure Archive Storage, we've seen unprecedented intere
 publishedDateTime: 2020-04-21T09:00:40Z
 webUrl: "https://azure.microsoft.com/blog/enhanced-features-in-azure-archive-storage-now-generally-available/"
 type: article
-quality: 79
+quality: 81
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 topics:
   - Azure
   - Storage
+  - Management tools
 
 related:
   - title: "Azure Analysis Services calculation groups are now generally available"

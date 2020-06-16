@@ -5,8 +5,8 @@ excerpt: "At Microsoft Ignite 2019, we announced general availability of the new
 publishedDateTime: 2020-04-09T10:00:12Z
 webUrl: "https://azure.microsoft.com/blog/next-generation-sap-hana-large-instances-with-intel-optane-drive-lower-tco/"
 type: article
-quality: 81
-heat: 81
+quality: 83
+heat: 83
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - Azure
   - Databases
+  - DevOps
 
 images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/eb9f526f-db33-4099-a8df-366e27ff78fb.png"

@@ -37,7 +37,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 78
+    quality: 80
   - title: "Azure Data Lake Storage Gen2 PowerShell and CLI are now generally available"
     excerpt: ""
     publishedDateTime: 2020-05-15T16:00:19Z

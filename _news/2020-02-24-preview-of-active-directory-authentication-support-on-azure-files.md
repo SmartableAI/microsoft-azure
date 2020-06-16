@@ -5,8 +5,8 @@ excerpt: "We are excited to announce the preview of Azure Files Active Directory
 publishedDateTime: 2020-02-24T08:00:14Z
 webUrl: "https://azure.microsoft.com/blog/preview-of-active-directory-for-authentication-on-azure-file/"
 type: article
-quality: 79
-heat: 99
+quality: 81
+heat: 101
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - Azure
   - Serverless
+  - Identity
 
 related:
   - title: "General availability of Azure Files on-premises Active Directory Domain Services authentication"

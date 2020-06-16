@@ -6,7 +6,7 @@ publishedDateTime: 2020-03-23T09:00:07Z
 webUrl: "https://azure.microsoft.com/blog/how-azure-machine-learning-service-powers-suggested-replies-in-outlook/"
 type: article
 quality: 114
-heat: 114
+heat: 134
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     height: 619
     isCached: true
     title: "How Azure Machine Learning powers suggested replies in Outlook "
+
+related:
+  - title: "How Azure Machine Learning enables PowerPoint Designer"
+    excerpt: "PowerPoint Designer is one of the everyday AI capabilities in Office 365, enabling users to be more productive and unlock greater value from PowerPoint. It applies AI technologies and machine learning (ML) based techniques to suggest high-quality professional slide designs. Content on slides such as"
+    publishedDateTime: 2020-03-26T12:00:05Z
+    webUrl: "https://azure.microsoft.com/blog/how-azure-machine-learning-enables-powerpoint-designer/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 94
 
 secured: "sCKY4d4T1dKgzRb56hZBERPuUixNcaZlyVVTBFtuc3oP8/bwR+Eqb3h06ZRAktfm/DnRP8QzqAHl0HdLm9pwat5JFbnck78NqxuiSI89s0c9LrKx53ARlnMTx+lkdKptWcFkcyvYfb4IMrw8HZlj6oxBcsFemkoJUbLnrDBzljWPuSwGRlU3OxubWPk/TSQvY8BB0UGGRt0vO3JsfwQYTAeIym/h6Dato3KCTyDEyjrtwebDC1Qtp8vwpk/UvWOEkDQMUpXgWatNGtzgNDCL0HkR20CcWPMFgSNYULLmWA0azcEWRLz0ejkGgsgQqlggRXMM0pyNg2sV9HlkwAhCGw==;9Um6qwI9ByaTZoNCJWF4ww=="
 ---

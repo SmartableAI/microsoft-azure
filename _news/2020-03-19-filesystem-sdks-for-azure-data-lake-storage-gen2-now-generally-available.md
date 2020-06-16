@@ -5,7 +5,7 @@ excerpt: "Since the general availability of Azure Data Lake Storage (ADLS) Gen2 
 publishedDateTime: 2020-03-19T09:00:12Z
 webUrl: "https://azure.microsoft.com/blog/filesystem-sdks-for-azure-data-lake-storage-gen2-now-generally-available/"
 type: article
-quality: 78
+quality: 80
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 topics:
   - Azure
   - Storage
+  - Management tools
 
 related:
   - title: "Multi-protocol access on Data Lake Storage now generally available"

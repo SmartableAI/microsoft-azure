@@ -5,7 +5,7 @@ excerpt: "Today, we're announcing the general availability for server-side encry
 publishedDateTime: 2020-04-02T08:00:22Z
 webUrl: "https://azure.microsoft.com/blog/announcing-serverside-encryption-with-customermanaged-keys-for-azure-managed-disks/"
 type: article
-quality: 72
+quality: 74
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 topics:
   - Azure
   - Storage
+  - Management tools
 
 related:
   - title: "Announcing general availability of incremental snapshots of Managed Disks"

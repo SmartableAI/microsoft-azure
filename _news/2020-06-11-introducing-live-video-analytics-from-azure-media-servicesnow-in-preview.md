@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-11T11:30:23Z
 webUrl: "https://azure.microsoft.com/blog/introducing-live-video-analytics-on-iot-edge-now-in-preview/"
 type: article
 quality: 98
-heat: 158
+heat: 138
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 62
-  - title: "Microsoft boosts Azure with new edge video analytics and authentication features"
-    excerpt: "Microsoft Corp. today introduced a new edge video analytics product for its Azure cloud platform, as well as improved authentication features to help organizations better address the shift to remote work. There’s a growing trend of analytics workloads moving from data centers to the so-called edge of the network. A manufacturer, for instance ..."
-    publishedDateTime: 2020-06-11T20:01:00Z
-    webUrl: "https://siliconangle.com/2020/06/11/microsoft-boosts-azure-new-edge-video-analytics-authentication-features/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 32
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/microsoft.png"
-        width: 761
-        height: 400
-        isCached: true
 
 secured: "WXVkz7W6tQt6enYK2YJBR/YTzWJhTdNfKbNNB+YqlcBvW8vQ8ivTaA2yD11UpP54ZAHCo8x/hlTAlTEfJ7M+TOkTsPtMeQICH0ldFRvClHkDai/oy2yRXNfS97LsPKPsVsQZAdS7X5Q4QGHi6HHIhSPhF+GiQ1xrWA/BTPQr4YrJiJvc8nCnFl55mPacnWYanvy9LNyhlKTZGOAJqFWjmQiaT0Y2hpP/MYAxLFEBD7xmudTrBulLczvf14RyWkpt4aGT+2/8wKFbtBI6H/NOsU9cA+wuubdJQ683mBCHd5n9KoFigjZEMsqJIVaVEZJLYorksbY/NMZWFhuh+kRqaw==;RdoMKNP0RLFfxv7MvVSHxA=="
 ---

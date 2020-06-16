@@ -5,8 +5,8 @@ excerpt: "Burst encoding in the cloud with Azure and Media Excel HERO platform.\
 publishedDateTime: 2020-02-24T11:00:15Z
 webUrl: "https://azure.microsoft.com/blog/burst-4k-encoding-on-azure-kubernetes-service/"
 type: article
-quality: 101
-heat: 101
+quality: 103
+heat: 103
 published: true
 
 provider:
@@ -21,6 +21,7 @@ topics:
   - Azure
   - Compute
   - Networking
+  - DevOps
 
 images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/269c55c6-561a-4a8d-b139-94c77409e400.png"

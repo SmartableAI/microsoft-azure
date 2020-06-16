@@ -21,215 +21,256 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Migrate now available in Azure Government"
-    excerpt: "Microsoft’s service for datacenter migration, Azure Migrate, is now available in Azure Government—unlocking the whole range of functionality for government customers. Previously, Azure Migrate V1 was available to US Azure Government customers, which performed limited scale assessment for VMware workloads."
-    publishedDateTime: 2020-04-23T11:00:11Z
-    webUrl: "https://azure.microsoft.com/blog/azure-migrate-now-available-in-azure-government/"
+  - title: "Azure Maps Creator now available in preview"
+    excerpt: "As enterprises continue to evolve in their digital transformation journey, there is a need for augmenting Azure Maps content with project-specific and private business knowledge of places. Today we're launching Azure Maps Creator in preview to extend location intelligence to indoor spaces.\r\n\r\nEnterprises"
+    publishedDateTime: 2020-06-01T08:00:09Z
+    webUrl: "https://azure.microsoft.com/blog/azure-maps-creator-now-available-in-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 99
+    quality: 103
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a69c6248-11fa-477b-81e0-17d56596895a.jpg"
-        width: 1024
-        height: 489
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a6153b4c-6ec4-4b09-b1e7-dd8f2be265dd.png"
+        width: 780
+        height: 768
         isCached: true
-  - title: "Azure Migrate is now available in Azure Government"
+  - title: "Azure Monitor Logs IntelliSense improvements are now available"
     excerpt: ""
-    publishedDateTime: 2020-04-18T00:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-migrate-now-available-in-azure-government/"
+    publishedDateTime: 2020-05-26T16:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-intellisense-improvements/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 97
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/bc9fd2f5-bd17-4f4e-b1b5-c02c035f249b.gif"
+        width: 1730
+        height: 668
+        isCached: true
+  - title: "Azure Monitor Logs—New experience for agents is now available"
+    excerpt: ""
+    publishedDateTime: 2020-05-26T18:00:22Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-experience-for-agents-in-log-analytics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 97
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/480ae3b3-08b3-4078-b20f-83bb10f1d10c.gif"
+        width: 2554
+        height: 1323
+        isCached: true
+  - title: "Service Bus Explorer on the Azure portal is now available in preview"
+    excerpt: ""
+    publishedDateTime: 2020-05-26T18:00:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/sesrvice-bus-explorer/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 97
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/ccedbcf5-8321-460c-a9a3-b0730caa96fe.jpg"
+        width: 347
+        height: 549
+        isCached: true
+  - title: "A new consolidated API version in Azure Monitor Logs is now available"
+    excerpt: ""
+    publishedDateTime: 2020-06-08T16:00:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-consolidated-api-version-in-for-log-analytics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 97
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/55f9101b-07a0-4e94-b8aa-802abda1d4df.png"
+        width: 640
+        height: 386
+        isCached: true
+  - title: "Azure Monitor for VMs is now in preview in US Gov Virginia"
+    excerpt: ""
+    publishedDateTime: 2020-05-26T18:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-for-vms-is-now-available-in-us-gov-virginia/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Azure HPC Cache –  Express Snapshots is now available"
+  - title: "Azure DevTest Labs is now available in Switzerland regions"
     excerpt: ""
-    publishedDateTime: 2020-04-20T16:00:23Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-hpc-cache-express-snapshots-is-now-available/"
+    publishedDateTime: 2020-05-27T16:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-devtest-labs-is-now-available-in-switzerland-regions/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Azure Sphere 20.04 Update 1 is now available for compatibility testing"
+  - title: "Azure Service Health—Emerging issues now available "
     excerpt: ""
-    publishedDateTime: 2020-04-20T22:29:30Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-2004-update-1-is-now-available-for-compatibility-testing/"
+    publishedDateTime: 2020-05-27T16:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-service-health-emerging-issues-now-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Azure Advisor integration with AKS now generally available"
+  - title: "Azure Ultra Disk Storage is now available in more regions"
     excerpt: ""
-    publishedDateTime: 2020-04-28T16:30:50Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-advisor-integration-with-aks-now-generally-available/"
+    publishedDateTime: 2020-05-27T16:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-ultra-disk-storage-is-now-available-in-more-regions/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Azure Private Link for AKS is now generally available"
+  - title: "Azure Text Analytics—Opinion mining is now available in preview"
     excerpt: ""
-    publishedDateTime: 2020-04-28T16:30:49Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-for-aks-is-now-generally-available/"
+    publishedDateTime: 2020-05-30T16:00:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/opinion-mining-is-now-available-in-text-analytics-in-public-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Azure Red Hat OpenShift on OpenShift 4 now available"
+  - title: "Azure Database for MariaDB  is now available in the France South region"
     excerpt: ""
-    publishedDateTime: 2020-04-28T14:00:37Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-on-openshift-4-now-available/"
+    publishedDateTime: 2020-06-01T16:00:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-is-now-available-in-the-france-south-region/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Azure Service Health security advisories are now available"
+  - title: "Azure Database for MySQL is now available in France South"
     excerpt: ""
-    publishedDateTime: 2020-04-29T16:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-service-health-security-advisories-are-now-available/"
+    publishedDateTime: 2020-06-01T16:00:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-is-now-available-in-france-south/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Azure Sphere 20.04 update 2 is now available for compatibility testing"
+  - title: "The Azure Sphere OS 20.05 quality release is now available"
     excerpt: ""
-    publishedDateTime: 2020-04-29T20:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-2004-update-2-is-now-available-for-compatibility-testing/"
+    publishedDateTime: 2020-06-01T17:00:10Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/the-azure-sphere-os-20-05-quality-release-is-now-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Spatial geometry in Azure Cosmos DB now generally available"
+  - title: "Azure Shared Image Gallery feature improvements are now available"
     excerpt: ""
-    publishedDateTime: 2020-04-29T16:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/spatial-geometry-in-azure-cosmos-db-now-generally-available/"
+    publishedDateTime: 2020-06-02T01:00:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/shared-image-gallery-improvements/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Azure Private Link is now generally available in US Government regions"
+  - title: "Azure Shared Image Gallery—New features are now available in preview"
     excerpt: ""
-    publishedDateTime: 2020-05-14T16:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/privatelinkgagovcloud/"
+    publishedDateTime: 2020-06-02T01:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/shared-image-gallery-new-features/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Windows Server containers in AKS is now available in Azure Government"
-    excerpt: "Windows Server containers in AKS is now available in Azure Government. "
-    publishedDateTime: 2020-06-10T16:00:25Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/windows-server-containers-in-aks-is-now-available-in-azure-government/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Private AKS clusters are now generally available in Azure Government "
-    excerpt: "Azure Government customers can now use private AKS clusters for additional security."
-    publishedDateTime: 2020-06-15T19:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/private-aks-clusters-are-now-generally-available-in-azure-government/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure Databricks is now available in the Azure Government cloud (in preview)"
+  - title: "Machine Learning on Azure SQL Managed Instance limited preview available"
     excerpt: ""
-    publishedDateTime: 2020-06-09T18:15:11Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-is-now-available-in-the-azure-government-cloud-in-preview/"
+    publishedDateTime: 2020-05-27T16:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/machine-learning-on-azure-sql-managed-instance-limited-preview-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 74
-  - title: "Managed identity support in AKS is now available"
+    quality: 76
+  - title: "Minimal TLS version setting is now available for Azure Database for MySQL"
     excerpt: ""
-    publishedDateTime: 2020-04-28T16:30:50Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/managed-identity-support-in-aks-is-now-available/"
+    publishedDateTime: 2020-06-04T17:00:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-minimal-tls-version/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 76
+  - title: "Minimal TLS version setting is now available for Azure Database for MariaDB"
+    excerpt: ""
+    publishedDateTime: 2020-06-04T17:00:49Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-minimal-tls-version/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 75
+  - title: "Azure Database for PostgreSQL—Single Server now available in the France South region"
+    excerpt: ""
+    publishedDateTime: 2020-05-27T16:00:09Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-single-server-now-available-in-the-france-south-region/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 70
+  - title: "HBv2-Series VMs now available in West US 2"
+    excerpt: ""
+    publishedDateTime: 2020-06-03T17:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/hbv2series-vms-now-available-in-west-us-2/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 62
-  - title: "IPification Secure Mobile Authentication Now Available to Microsoft Azure Active Directory B2C Customers"
-    excerpt: "Benefit Vantage Limited, developer of the IPification seamless authentication solution, is proud to announce that we will enable global service providers"
-    publishedDateTime: 2020-04-28T14:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ipification-secure-mobile-authentication-now-available-to-microsoft-azure-active-directory-b2c-customers-2020-04-28"
+  - title: "Windows Virtual Desktop media optimization for Microsoft Teams is now available in preview"
+    excerpt: ""
+    publishedDateTime: 2020-05-29T21:00:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/windows-virtual-desktop-media-optimization-for-microsoft-teams-is-now-available-in-public-preview/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cyber Infrastructure's 7-Week Azure Data Integration & Migration Soln. Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Cyber Infrastructure's implementation service SAN JOSE, CA,"
-    publishedDateTime: 2020-04-30T07:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cyber-infrastructures-7-week-azure-data-integration-migration-soln-now-available-in-the-microsoft-azure-marketplace-2020-04-30"
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "ScientiaMobile’s WURFL Microservice Now Available in the Microsoft Azure Marketplace"
+    excerpt: "ScientiaMobile, today announced the availability of WURFL Microservice in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. Developers can now take advantage of the productive and trusted Azure cloud platform,"
+    publishedDateTime: 2020-06-01T12:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/scientiamobile-s-wurfl-microservice-now-available-in-the-microsoft-azure-marketplace-1029268289"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Kyvos BI Acceleration Platform is Now Available on Azure Marketplace"
-    excerpt: "Kyvos Insights, a cloud and big data analytics company, today announced the availability of their cloud-native BI acceleration platform,"
-    publishedDateTime: 2020-04-28T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/kyvos-bi-acceleration-platform-is-now-available-on-azure-marketplace-301046746.html"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
+  - title: "SepioPrime Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Sepio Systems, the leader in Rogue Device Mitigation (RDM), today announced the availability of SepioPrime in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2020-05-29T13:00:00Z
+    webUrl: "https://apnews.com/PR Newswire/f5b85ffe40d0191068bb0e60ed78df05"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 37
     images:
-      - url: "https://mma.prnewswire.com/media/1026738/Kyvos_Logo.jpg?p=facebook"
-        width: 993
-        height: 522
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "ThroughPut Inc.'s ELITE Now Available in the Microsoft Azure Marketplace"
-    excerpt: "ThroughPut Inc. today announced the availability of ELITE in the Microsoft Azure Marketplace, an online store providing applications"
-    publishedDateTime: 2020-04-28T20:30:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/throughput-inc-s-elite-now-available-in-the-microsoft-azure-marketplace-838367579.html"
+  - title: "Microsoft previews Azure Maps Creator to enable indoor location apps and AR"
+    excerpt: "Microsoft Corp. today announced the preview of Azure Maps Creator, a new tool in its public cloud platform that will enable companies to create custom indoor maps for use cases su"
+    publishedDateTime: 2020-06-01T18:50:00Z
+    webUrl: "https://siliconangle.com/2020/06/01/microsoft-previews-azure-maps-creator-enable-indoor-location-apps-ar/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 36
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 35
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "CognitiveScale's Cortex Certifai Now Available in the Microsoft Azure Marketplace"
-    excerpt: "AUSTIN, Texas, April 27, 2020 /PRNewswire/ -- CognitiveScale, the Trusted AI Company, today announced the availability of Cortex Certifai (Certifai) in the Microsoft Azure Marketplace, an online ..."
-    publishedDateTime: 2020-04-27T12:01:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/cognitivescales-cortex-certifai-now-available-in-the-microsoft-azure-marketplace-301047031.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 32
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/hololens2-768x512.jpg"
+        width: 768
+        height: 512
         isCached: true
 
 secured: "gzQ2omn57mhRZkZ92GYLYaqUXG2FJjEfHcdOvCOfpF9pj3qRYyrHOYWxombDwIamGvj0ffscuR8S/akAUFzPQkrt2IvPSWHKmt3JrJlQLaNZ79FFHWG4kWrTD22NEjlDrOP+iXIyPw+2ZXhpy9FbZhcDwQbfEd38eu6B3vxIntmIFIXkIEWRWwYHD55e1Ld6ywIP1Radaz3YD3Mhe3xz8Zx3t8u6otSq7VgMxAsu54ABAq85jWOY8LypuWeST4r+ksqFrnhd824v+voZFVPDfUL/yF261jRU6O8XLFEf3zKtvTUvSY10SXS1Y4+AasQp2fz7oXdARxF3JzWWo6TD0A==;Zws9MQxIzrFozI4r9unuMA=="

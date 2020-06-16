@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 99
+    quality: 103
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a6153b4c-6ec4-4b09-b1e7-dd8f2be265dd.png"
         width: 780
@@ -91,6 +91,15 @@ related:
         width: 640
         height: 386
         isCached: true
+  - title: "Azure DevTest Labs environments are now available in Azure Government"
+    excerpt: ""
+    publishedDateTime: 2020-05-27T16:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-devtest-labs-environments-are-now-available-in-azure-government/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Azure DevTest Labs is now available in Switzerland regions"
     excerpt: ""
     publishedDateTime: 2020-05-27T16:00:01Z

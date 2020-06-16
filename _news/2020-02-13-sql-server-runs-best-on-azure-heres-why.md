@@ -5,8 +5,8 @@ excerpt: "SQL Server customers migrating their databases to the cloud have multi
 publishedDateTime: 2020-02-13T12:00:09Z
 webUrl: "https://azure.microsoft.com/blog/sql-server-runs-best-on-azure-heres-why/"
 type: article
-quality: 99
-heat: 99
+quality: 101
+heat: 101
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - Azure
   - Databases
+  - Developer tools
 
 images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7ceff60b-0bd4-4867-85cd-61883c401c2f.png"

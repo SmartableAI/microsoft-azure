@@ -5,8 +5,8 @@ excerpt: "Today, we are announcing updates to the Azure Maps Web SDK, which adds
 publishedDateTime: 2020-04-13T10:10:05Z
 webUrl: "https://azure.microsoft.com/blog/updates-to-azure-maps-web-sdk-includes-powerful-new-features/"
 type: article
-quality: 97
-heat: 117
+quality: 118
+heat: 138
 published: true
 
 provider:
@@ -19,6 +19,9 @@ provider:
 
 topics:
   - Azure
+  - IoT
+  - Mobile
+  - Web
 
 images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/ea5e5a7d-10fe-4475-b6dc-c4499235fdcf.png"
@@ -36,7 +39,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 97
+    quality: 103
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2497143f-4350-4d51-af0a-ee3b68c17cb7.png"
         width: 1200

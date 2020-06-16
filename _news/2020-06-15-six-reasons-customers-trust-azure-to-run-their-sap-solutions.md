@@ -5,8 +5,8 @@ excerpt: "As global organizations across every industry adjust to the new normal
 publishedDateTime: 2020-06-15T08:00:01Z
 webUrl: "https://azure.microsoft.com/blog/six-reasons-customers-trust-azure-to-run-their-sap-solutions/"
 type: article
-quality: 79
-heat: 79
+quality: 83
+heat: 83
 published: true
 
 provider:
@@ -20,6 +20,8 @@ provider:
 topics:
   - Azure
   - Compute
+  - Developer tools
+  - Web
 
 secured: "Q8x3wIwO298hANgDtbl7ufFmmPKD7bcLwnldrRWdiN1IcTBqvJpJpnz4avc2jKv3c5fKC/NLaVCWKn+64qX+ktSpyO2ZGRVA8TyENPcPyIhVmUVpEIkwFSZTTj2PD//SDeMMNkBRy56/KdYUUWzvMAT4xwzRw0eXDIHw1Fneuj29lNtUQMZsO7vWINEIRspFkhDnKm+4QCJNj7XP/iit5g/vZQTZLbPIIKMQ14+DduPP0KtgumcgsjdbwqOAZOZVqTQ0fN5Ep76cd1d0bG0nNmecBOF9tFWqAUY6qEjNJTw/4ioA+NSDaAqvCiuSk1CjY/s5R/MFSQXXlgEQMZEAMQ==;UoSSoaezsOUH8DllPbuH0w=="
 ---

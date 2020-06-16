@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 101
+    quality: 105
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/099b92eb-591a-4ea0-b7b4-78f34f6e8f57.png"
         width: 1506
@@ -49,6 +49,33 @@ related:
         width: 1367
         height: 678
         isCached: true
+  - title: "Azure Cost Management updates – January 2020"
+    excerpt: "Welcome to a new year, a new decade, and an exciting roadmap full of cost management updates based on your feedback. With January coming to a close, you can now schedule automated exports of your Microsoft Customer Agreement billing data, use custom RBAC roles for management groups, and more."
+    publishedDateTime: 2020-01-28T11:00:34Z
+    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-updates-january-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 79
+  - title: "Azure Cost Management + Billing updates – February 2020"
+    excerpt: "The theme this month is transparency. From rich Azure Hybrid Benefit and reservation reporting in a new Power BI app to a detailed breakdown of resource costs and clarity behind what \"not applicable\" means in the Azure portal, you won't want to miss this one!"
+    publishedDateTime: 2020-02-26T14:00:50Z
+    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-february-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 79
+  - title: "Azure Cost Management + Billing updates – March 2020"
+    excerpt: "We're covering the spectrum this month from improvements to help you stay on top of all your pay-as-you-go (PAYG) invoices to 4 new ways to save money and a wealth of new, quick videos to help you learn how to manage and optimize your costs."
+    publishedDateTime: 2020-03-25T11:00:12Z
+    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-march-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 79
 
 secured: "y7K55ECQfUqlmtIYmfemkKYOO9z0aRl21RZ6W/MBCsw0ulFx+FNf4WouLwNkBtVRv12mKUU8q7ZF3o+UVQqylSvZHfRNjhmx22bleHoZpYlf744OPYRHVJ0UtVlhAjGuZ2K+iKWPYA5f/9XAYdVhyFEfY22xsq3rB/XDHbxvBfUgFnPO9GTyhBfNyPvs5Gwk4KlnF5rpd0LlCHwIwN3kx42Pg6jk2EkgqVXwbE+0qmhrtmwb4/YkMZ7BLwddI6sVbitcfzoDlwozbednvTwuNjYE7c9m49IpiK44k1sys4lj8JXk615sIJUhKe+5Tx7Hz8d+hh5Psf6pVJJ9COI17g==;GXHQNyCf50Uacl4aJAjX2A=="
 ---
