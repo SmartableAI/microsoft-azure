@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/work-with-mutable-and-partial-data-in-a-redis-cache-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Work with mutable and partial data in Azure Cache for Redis"
 
 ---

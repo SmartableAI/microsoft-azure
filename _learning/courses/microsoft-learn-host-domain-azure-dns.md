@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/host-domain-azure-dns-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Host your domain on Azure DNS"
 
 ---

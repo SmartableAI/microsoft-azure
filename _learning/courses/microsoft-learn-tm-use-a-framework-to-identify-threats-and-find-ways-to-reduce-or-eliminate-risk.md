@@ -29,6 +29,11 @@ images:
     height: 400
     isCached: true
     title: "Use a Framework to Identify Threats and Find Ways to Reduce or Eliminate Risk"
+  - url: https://docs.microsoft.com/learn/achievements/use-a-framework-to-identify-threats-and-find-ways-to-reduce-or-eliminate-risk-social.png
+    width: 640
+    height: 320
+    isCached: true
+    title: "Use a Framework to Identify Threats and Find Ways to Reduce or Eliminate Risk"
 
 ---
 

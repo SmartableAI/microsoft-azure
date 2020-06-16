@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/economics-of-the-cloud-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Economics of cloud computing"
 
 ---

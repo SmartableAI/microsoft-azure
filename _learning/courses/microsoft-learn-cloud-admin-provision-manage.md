@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cloud-admin-provision-manage-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Provision and manage cloud services"
 
 ---

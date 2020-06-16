@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/copy-blobs-from-command-line-and-code-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Copy and move blobs from one container or storage account to another from the command line and in code"
 
 ---

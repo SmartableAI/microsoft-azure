@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cmu-orchestration-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Automate cloud resource management"
 
 ---

@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/monitor-github-events-with-a-function-triggered-by-a-webhook-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Monitor GitHub events by using a webhook with Azure Functions"
 
 ---

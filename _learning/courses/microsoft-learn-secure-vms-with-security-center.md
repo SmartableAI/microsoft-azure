@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/secure-vms-with-azure-security-center-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Protect your servers and VMs from brute-force and malware attacks with Azure Security Center"
 
 ---

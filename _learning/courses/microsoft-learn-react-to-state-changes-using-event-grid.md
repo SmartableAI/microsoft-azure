@@ -28,6 +28,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/react-to-state-changes-using-event-grid-social.png
     width: 800
     height: 400
+    isCached: true
     title: "React to state changes in your Azure services by using Event Grid"
 
 ---

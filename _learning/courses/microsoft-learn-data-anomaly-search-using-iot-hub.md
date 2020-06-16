@@ -28,6 +28,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/iot/iot-hub-conveyor-belt-vibration-detection-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Identify anomalies by routing data via IoT Hub to a built-in ML model in Azure Stream Analytics"
 
 ---

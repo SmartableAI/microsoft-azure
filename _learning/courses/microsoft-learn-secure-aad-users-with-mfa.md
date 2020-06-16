@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/secure-aad-users-with-mfa-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Secure Azure Active Directory users with Multi-Factor Authentication"
 
 ---

@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/design-for-efficiency-and-operations-in-azure-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Design for efficiency and operations in Azure"
 
 ---

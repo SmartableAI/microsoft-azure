@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/store-app-data-with-azure-blob-storage-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Store application data with Azure Blob storage"
 
 ---

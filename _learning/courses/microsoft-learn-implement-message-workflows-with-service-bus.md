@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/implement-message-workflows-with-service-bus-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Implement message-based communication workflows with Azure Service Bus"
 
 ---

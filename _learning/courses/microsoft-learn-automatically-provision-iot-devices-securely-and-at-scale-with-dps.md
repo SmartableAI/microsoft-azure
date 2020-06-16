@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/iot/automatically-provision-iot-devices-securely-at-scale-with-dps-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Automatically provision IoT devices securely and at scale with the Device Provisioning Service"
 
 ---

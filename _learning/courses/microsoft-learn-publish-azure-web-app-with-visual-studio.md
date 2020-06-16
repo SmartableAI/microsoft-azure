@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/publish-azure-web-app-with-visual-studio-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Publish a web app to Azure with Visual Studio"
 
 ---

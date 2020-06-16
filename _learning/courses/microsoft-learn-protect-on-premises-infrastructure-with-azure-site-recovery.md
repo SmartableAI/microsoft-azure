@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/protect-on-premises-infrastructure-with-azure-site-recovery-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Protect your on-premises infrastructure from disasters with Azure Site Recovery"
 
 ---

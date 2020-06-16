@@ -29,6 +29,11 @@ images:
     height: 400
     isCached: true
     title: "Approach your data-flow diagram with the right threat model focus"
+  - url: https://docs.microsoft.com/learn/achievements/approach-your-data-flow-diagram-with-the-right-threat-model-focus-social.png
+    width: 640
+    height: 320
+    isCached: true
+    title: "Approach your data-flow diagram with the right threat model focus"
 
 ---
 

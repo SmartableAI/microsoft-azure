@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/characterize-devops-continuous-collaboration-improvement-social.png
     width: 320
     height: 160
+    isCached: true
     title: "Characterize DevOps Continuous Collaboration and Continuous Improvement"
 
 ---

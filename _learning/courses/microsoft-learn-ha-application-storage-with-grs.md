@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/ha-application-storage-with-grs-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Make your application storage highly available with read-access geo-redundant storage"
 
 ---

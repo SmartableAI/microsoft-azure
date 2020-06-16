@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/maintain-azure-sap-workloads-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Maintain Azure for SAP workloads"
 
 ---

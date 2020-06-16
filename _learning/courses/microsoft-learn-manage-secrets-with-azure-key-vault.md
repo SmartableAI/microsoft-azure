@@ -28,6 +28,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/manage-secrets-with-azure-key-vault-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Manage secrets in your server apps with Azure Key Vault"
 
 ---

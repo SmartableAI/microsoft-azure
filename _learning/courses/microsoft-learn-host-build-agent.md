@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/azure-devops/host-your-own-build-server-in-your-build-pipeline-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Host your own build agent in Azure Pipelines"
 
 ---

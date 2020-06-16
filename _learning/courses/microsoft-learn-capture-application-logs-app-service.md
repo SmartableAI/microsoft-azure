@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Capture Web Application Logs with App Service Diagnostics Logging"
 
 ---

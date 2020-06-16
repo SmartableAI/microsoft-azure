@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/network-fundamentals-2-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Fundamentals of network security"
 
 ---

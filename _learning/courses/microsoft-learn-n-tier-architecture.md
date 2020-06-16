@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/n-tier-architecture-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Tour the N-tier architecture style for your application"
 
 ---

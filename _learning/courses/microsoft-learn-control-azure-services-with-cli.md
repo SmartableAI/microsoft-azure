@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/control-azure-services-with-cli-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Control Azure services with the CLI"
 
 ---

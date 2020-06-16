@@ -29,6 +29,11 @@ images:
     height: 400
     isCached: true
     title: "Build Serverless APIs with Azure Functions"
+  - url: https://docs.microsoft.com/learn/achievements/build-api-azure-functions-social.png
+    width: 800
+    height: 400
+    isCached: true
+    title: "Build Serverless APIs with Azure Functions"
 
 ---
 

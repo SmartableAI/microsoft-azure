@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/choose-compute-provisioning-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Choose a compute provisioning solution for your application"
 
 ---

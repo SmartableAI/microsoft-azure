@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/app-center/introduction-to-app-center-badge-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Introduction to App Center"
 
 ---

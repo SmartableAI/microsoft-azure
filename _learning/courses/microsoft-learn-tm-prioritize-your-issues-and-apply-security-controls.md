@@ -29,6 +29,11 @@ images:
     height: 400
     isCached: true
     title: "Prioritize your issues and apply security controls"
+  - url: https://docs.microsoft.com/learn/achievements/prioritize-your-issues-and-apply-security-controls-social.png
+    width: 640
+    height: 320
+    isCached: true
+    title: "Prioritize your issues and apply security controls"
 
 ---
 

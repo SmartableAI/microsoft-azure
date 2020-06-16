@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/end-to-end-encryption-with-app-gateway-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Encrypt network traffic end to end with Azure Application Gateway"
 
 ---

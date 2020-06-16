@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/data-ai/query-azure-sql-data-warehouse-badge-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Query data in Azure Synapse Analytics"
 
 ---

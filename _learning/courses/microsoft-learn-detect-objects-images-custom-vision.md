@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/detect-objects-images-custom-vision-social.png
     width: 640
     height: 320
+    isCached: true
     title: "Detect objects in images with the Custom Vision service"
 
 ---

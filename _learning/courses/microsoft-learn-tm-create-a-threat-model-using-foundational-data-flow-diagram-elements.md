@@ -29,6 +29,11 @@ images:
     height: 400
     isCached: true
     title: "Create a threat model using data-flow diagram elements"
+  - url: https://docs.microsoft.com/learn/achievements/create-a-threat-model-using-data-flow-diagram-elements-social.png
+    width: 640
+    height: 320
+    isCached: true
+    title: "Create a threat model using data-flow diagram elements"
 
 ---
 

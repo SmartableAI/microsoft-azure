@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/instrument-web-app-code-with-application-insights-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Instrument server-side web application code with Application Insights"
 
 ---

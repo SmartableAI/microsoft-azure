@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/design-for-security-in-azure-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Design for security in Azure"
 
 ---

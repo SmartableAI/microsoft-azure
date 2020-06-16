@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/store-and-share-with-azure-files-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Store and share files in your application with Azure Files"
 
 ---

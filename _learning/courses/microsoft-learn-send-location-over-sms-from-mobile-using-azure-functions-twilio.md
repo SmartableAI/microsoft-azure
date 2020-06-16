@@ -28,6 +28,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/send-location-over-sms-from-mobile-using-azure-functions-twilio-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Share your location as a text message using Azure Functions and Twilio"
 
 ---

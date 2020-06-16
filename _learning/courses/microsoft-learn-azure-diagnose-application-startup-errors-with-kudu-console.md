@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/azure-diagnose-application-startup-errors-with-kudu-console-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Diagnose startup errors in your application using Kudu console"
 
 ---

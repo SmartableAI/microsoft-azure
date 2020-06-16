@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/define-foundation-pillars-devops-architecture-technology-social.png
     width: 320
     height: 160
+    isCached: true
     title: "Define the foundation pillars of DevOps: Architecture and Technology"
 
 ---

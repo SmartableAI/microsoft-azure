@@ -40,6 +40,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/enable-digital-transformation-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Introduction to Azure IoT"
 
 secured: "BIZkBNu/S0LHM4VI8loq09YDOmhaComW8kiXNS/JHSVwF9544JLC4PXnwhggGCRiUZHBxl46R8ab0lE0nz2d4d+7uomXA6uDWipniqMmA4eNZSNbGN6mufpMHxMJrDDffoLoHhNxHhWX7a7bkaTL9ikRa3lQNdrwHUPm2gS3hT+1MfGA6W/VQL4Y2b36eH9FISfYAQd5wynrh/4iQs7IlEQANP+cqAHzo3aBLc89toGSbeiCwYAn/KjbVi91Tv+jKot8f0pzI+/TbRQfd8cMnmUnJuhYmUpMIEL7gTgNCaIY5+WVrI0H/mnK+uIKEz+zxbR//evStSPysLR8h2rdQw==;WM7cQS2W1Ppmge8H2Uh4RA=="

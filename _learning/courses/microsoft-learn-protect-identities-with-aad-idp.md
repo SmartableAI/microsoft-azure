@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/protect-identities-with-aad-idp-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Protect your identities with Azure AD Identity Protection"
 
 ---

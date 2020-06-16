@@ -29,6 +29,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/build-serverless-api-with-functions-api-management-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Expose multiple Azure Function apps as a consistent API by using Azure API Management"
 
 ---

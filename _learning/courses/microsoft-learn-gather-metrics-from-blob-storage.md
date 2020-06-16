@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/gather-metrics-from-blob-storage-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Gather metrics from your Azure Blob Storage containers"
 
 ---

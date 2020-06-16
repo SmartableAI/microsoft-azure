@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/run-web-app-background-task-with-webjobs-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Run a background task in an App Service Web App with WebJobs"
 
 ---

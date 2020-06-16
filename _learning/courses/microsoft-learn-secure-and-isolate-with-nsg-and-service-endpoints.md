@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/secure-and-isolate-with-nsg-and-service-endpoints-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Secure and isolate access to Azure resources by using network security groups and service endpoints"
 
 ---

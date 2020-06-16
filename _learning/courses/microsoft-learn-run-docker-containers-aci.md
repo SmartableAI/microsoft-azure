@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/run-docker-with-azure-container-instances-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Run Docker containers with Azure Container Instances"
 
 ---

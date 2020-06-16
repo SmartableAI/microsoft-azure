@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/azure-spring-cloud-workshop-social.png
     width: 320
     height: 160
+    isCached: true
     title: "Azure Spring Cloud workshop"
 
 ---

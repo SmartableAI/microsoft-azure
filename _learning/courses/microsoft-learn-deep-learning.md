@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/introduction-to-deep-learning-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Use deep learning models to make predictions about specialized data"
 
 ---

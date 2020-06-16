@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/capture-page-load-times-application-insights-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Capture and view page load times in your Azure web app with Application Insights"
 
 ---

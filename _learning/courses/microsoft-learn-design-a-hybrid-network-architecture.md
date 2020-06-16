@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/design-a-hybrid-network-architecture-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Design a hybrid network architecture on Azure"
 
 ---

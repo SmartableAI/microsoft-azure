@@ -33,6 +33,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/analyze-images-computer-vision-social.png
     width: 640
     height: 320
+    isCached: true
     title: "Explore computer vision in Microsoft Azure"
 
 secured: "GqUxxP4G+UwrRGfooZU5R144Ga/o+2tIJz3Svt3c+An79mbQK4T+0cmQHRlk6PoiG61nYnMPearoU6qLqBv+EE94EiyAX6bzSRpv9yHReBbOLzhFyQ/JzoOIeeZWPceYSd3JzJ6k78jvTZXC3QWf9/Qvkr5VFTVBNCZc/pR29GAVXywmNMBClpb4yef+cnY9IPHLlwhMLeli9ULVgo+KYMXtCgvleoMwJdSU1/f3dFPFEx5nk23oA3JaysZn0zD1UDwvGaifkMi/34IB0NGeNsVuXNqDpw0sxprjNFlg0Wt012R3/BejEWj4adKs2npVGDLIHttWMqqr0VJoxUwvJA==;dX32jYhUrr/fCdfRKH5COQ=="

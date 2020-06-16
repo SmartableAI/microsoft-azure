@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/secure-app-with-oidc-and-azure-ad-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Secure your application by using OpenID Connect and Azure AD"
 
 ---

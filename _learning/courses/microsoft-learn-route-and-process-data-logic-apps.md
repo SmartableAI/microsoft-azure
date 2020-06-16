@@ -29,6 +29,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/route-and-process-data-logic-apps-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Route and process data automatically using Logic Apps"
 
 ---

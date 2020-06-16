@@ -39,6 +39,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png
     width: 800
     height: 400
+    isCached: true
     title: "AI business school for education"
 
 secured: "mtP40m72+pg3aFxUxUiN/Cn//4BbPNwkQXaobjoKGJ0RHUUTwj3oEf0a7FqdB4U9e4hI8/PspUoXFHfuNY2LyLdavp8YePruv5YdWEhY6nbSQnwZZBwXkgCYVeFWTXmwdeX5E5tKSCx7rFdl0hx8kXwF0AmPEphN6QMAUUViEDHAo+zUK79HGV6KzhOR3qnSNZV3MexlK/wRLI+ZB0yEWQTBrhqgu09kNStC6VF4zW8WJCzDFmGgtkSh4Uaj4UmuQYdO4ZgNohHu4AGJ09DzMvYcgJPx+VnpZLB5kepDFBZkXo/oU3uaC9owa0wrVRSR9QQRc9YIyN0UK2caDq0G3A==;VjdRj8ztU4iKAROyyx9pVg=="

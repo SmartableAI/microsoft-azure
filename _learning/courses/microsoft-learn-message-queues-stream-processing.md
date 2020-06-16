@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/message-queues-stream-processing-social.png
     width: 320
     height: 160
+    isCached: true
     title: "Message queues and stream processing"
 
 ---

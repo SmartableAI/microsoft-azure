@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/create-windows-virtual-machine-in-azure-social.png
     width: 1000
     height: 500
+    isCached: true
     title: "Create a Windows virtual machine in Azure"
 
 ---

@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/student-evangelism/branch-merge-git-badge-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Edit code through branching and merging in Git"
 
 ---

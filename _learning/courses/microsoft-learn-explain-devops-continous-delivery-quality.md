@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/explain-devops-continuous-delivery-quality-social.png
     width: 320
     height: 160
+    isCached: true
     title: "Explain DevOps Continuous Delivery and Continuous Quality"
 
 ---

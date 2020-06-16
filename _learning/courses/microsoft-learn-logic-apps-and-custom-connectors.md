@@ -28,6 +28,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/logic-apps-and-custom-connectors-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Call an API from a Logic Apps workflow using a custom connector"
 
 ---

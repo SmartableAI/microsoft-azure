@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/app-service-scale-up-scale-out-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Scale an App Service web app to efficiently meet demand with App Service scale up and scale out"
 
 ---

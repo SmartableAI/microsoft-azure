@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/create-cdn-static-resources-blob-storage-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Create a Content Delivery Network for your Website with Azure CDN and Blob Services"
 
 ---

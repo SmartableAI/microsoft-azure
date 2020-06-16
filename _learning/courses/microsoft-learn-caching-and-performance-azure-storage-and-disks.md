@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/caching-and-performance-azure-storage-and-disks-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Caching and performance in Azure storage disks"
 
 ---

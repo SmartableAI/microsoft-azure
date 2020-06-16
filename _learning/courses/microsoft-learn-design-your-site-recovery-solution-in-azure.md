@@ -28,6 +28,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/design-your-site-recovery-solution-on-azure-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Design your site recovery solution in Azure"
 
 ---

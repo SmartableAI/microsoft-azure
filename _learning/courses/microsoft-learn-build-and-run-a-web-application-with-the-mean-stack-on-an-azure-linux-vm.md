@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/build-a-web-app-with-mean-on-a-linux-vm-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Build and run a web application with the MEAN stack on an Azure Linux virtual machine"
 
 ---

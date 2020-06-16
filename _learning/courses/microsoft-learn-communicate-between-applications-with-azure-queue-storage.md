@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/communicate-between-apps-with-azure-queue-storage-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Communicate between applications with Azure Queue storage"
 
 ---

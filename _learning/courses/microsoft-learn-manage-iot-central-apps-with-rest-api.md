@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/manage-iot-central-apps-with-rest-api-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Manage IoT Central applications with the REST API"
 
 ---

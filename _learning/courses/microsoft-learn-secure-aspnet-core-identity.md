@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/aspnetcore/secure-aspnet-core-identity-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Secure an ASP.NET Core web app with the Identity framework"
 
 ---

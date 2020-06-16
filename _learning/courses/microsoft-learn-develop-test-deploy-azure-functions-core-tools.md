@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/develop-test-deploy-azure-functions-core-tools-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Develop, test, and publish Azure Functions by using Azure Functions Core Tools"
 
 ---

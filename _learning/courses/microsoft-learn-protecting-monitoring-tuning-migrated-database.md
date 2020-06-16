@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/learn-pr/achievements/protecting-monitoring-and-tuning-a-migrated-database-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Protecting, monitoring and tuning a migrated database"
 
 ---

@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/add-and-size-disks-in-azure-virtual-machines-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Add and size disks in Azure virtual machines"
 
 ---

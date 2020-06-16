@@ -30,6 +30,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/design-for-performance-and-scalability-in-azure-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Design for performance and scalability in Azure"
 
 ---

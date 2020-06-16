@@ -28,6 +28,11 @@ images:
     height: 400
     isCached: true
     title: "Automate multi-container Kubernetes deployments with Azure Pipelines"
+  - url: https://docs.microsoft.com/learn/achievements/azure-devops/deploy-kubernetes-social.png
+    width: 640
+    height: 320
+    isCached: true
+    title: "Automate multi-container Kubernetes deployments with Azure Pipelines"
 
 ---
 

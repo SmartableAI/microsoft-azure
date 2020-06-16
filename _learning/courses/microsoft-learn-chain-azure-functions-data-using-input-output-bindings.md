@@ -29,6 +29,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/chain-azure-functions-data-using-bindings-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Chain Azure Functions together using input and output bindings"
 
 ---

@@ -29,6 +29,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/design-geographically-distributed-application-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Design a geographically distributed application"
 
 ---

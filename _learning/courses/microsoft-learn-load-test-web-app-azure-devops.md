@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/load-test-web-app-azure-devops-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Load test Azure web apps by using Azure DevOps"
 
 ---

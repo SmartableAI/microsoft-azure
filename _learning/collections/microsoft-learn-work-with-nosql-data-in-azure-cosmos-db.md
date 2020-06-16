@@ -36,6 +36,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/create-cosmos-db-for-scale-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Work with NoSQL data in Azure Cosmos DB"
 
 secured: "+IzzeMY+PqcHFh9Y8gdaJIrGi4r1fEqLGuTRRLUGFzwxVxrMGKecKEB8XbQQaaaEif2eGaknopFYEpYGfdFWue1LAAO0MnG72v31GkuCtTjeXv/mLI7HyzWWqWDFicMkOqDhYA47iK+DnuTO1174zInJbZc1gDYlfCwwb4r/5xv/CvPUoPWWmx7YKMb8ghQm3ZK3v6nS2tbm2QdcHf5iQg8dCEvGLku8O8e6kbhqdNBshE1STbYEvX9XBjIf/wBybtKxVXU17fTBkbaciCmZfdUWRR6rYm55TSyGuhqivChOnxhlLSIoQvGlkGJTCn4uB8ct98wqmbpbSpaLd+Ut7A==;GTNlzxNeBm1r8pMLYKlwJw=="

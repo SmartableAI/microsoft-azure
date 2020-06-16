@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/azure-artificial-intelligence-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Microsoft Azure Artificial Intelligence (AI) strategy and solutions"
 
 ---

@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/protect-vm-settings-with-dsc-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Protect your virtual machine settings with Azure Automation State Configuration"
 
 ---

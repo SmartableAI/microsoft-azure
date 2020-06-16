@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/handle-transient-errors-in-your-app-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Handle transient errors in your app"
 
 ---

@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/sap-hana-azure-compute-network-storage-social.png
     width: 800
     height: 400
+    isCached: true
     title: "SAP HANA on Azure Compute, Network, and Storage"
 
 ---

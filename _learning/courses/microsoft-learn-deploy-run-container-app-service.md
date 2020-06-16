@@ -28,6 +28,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/deploy-run-container-app-service-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Deploy and run a containerized web app with Azure App Service"
 
 ---

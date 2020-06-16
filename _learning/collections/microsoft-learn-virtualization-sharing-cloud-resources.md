@@ -33,6 +33,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/share-cloud-resources-social.png
     width: 1000
     height: 500
+    isCached: true
     title: "Virtualization - Sharing cloud resources"
 
 secured: "iUI/XCRqB3sUCM4yO15E5ugMv2H8RG0iAqp3SjKM0hxIb7qSfsskIjQKWgxIA6mvx7Np4iQPRDY4It++/z2U3VvvmwTYDk0XoIMp668EzvNzkhClYBob0oi41+NycsZi/GG3ZpaCmb4wa4iNLT2SO/86qfw3SXPhaz5g/iMHA9ZiDNnc8wJn7guM3207+BugDLaEii07U5k1nN8xvzk2zefrK2ZrMfiTfPY/2iiVIR2OeAmturrOHtHNhfP6HfYg/jmZ6PMD0/j/8b275jOxLvGjNFl7U7G6ognOTxwSRfl7VfbD5XvRKXecsJDIFKXv6uYb42hzSn8ALkBZTddEDA==;TfLLqjfxLf2k316STqUssw=="

@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/data-ai/survey-the-azure-data-platform-badge-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Survey the services on the Azure Data platform"
 
 ---

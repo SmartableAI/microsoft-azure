@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cmu-disaster-recovery-backup-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Disaster recovery and backup"
 
 ---

@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/planning-implementing-sap-solutions-azure-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Planning for implementing SAP solutions on Azure"
 
 ---

@@ -29,6 +29,11 @@ images:
     height: 400
     isCached: true
     title: "Use Recommended Tools to Create a Data-Flow Diagram"
+  - url: https://docs.microsoft.com/learn/achievements/use-recommended-tools-to-create-a-data-flow-diagram-social.png
+    width: 640
+    height: 320
+    isCached: true
+    title: "Use Recommended Tools to Create a Data-Flow Diagram"
 
 ---
 

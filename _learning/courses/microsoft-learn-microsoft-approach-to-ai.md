@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/microsoft-approach-to-ai-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Examine the Microsoft approach to artificial intelligence"
 
 ---

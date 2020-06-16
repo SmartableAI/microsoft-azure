@@ -28,6 +28,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/azure-in-action-social.png
     width: 800
     height: 400
+    isCached: true
     title: "See Azure in action"
 
 ---

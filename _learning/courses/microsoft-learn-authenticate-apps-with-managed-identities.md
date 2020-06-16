@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/authenticate-apps-with-managed-identities-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Authenticate apps to Azure services by using service principals and managed identities for Azure resources"
 
 ---

@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/responsible-ai-governing-practices-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Identify governing practices for responsible AI"
 
 ---

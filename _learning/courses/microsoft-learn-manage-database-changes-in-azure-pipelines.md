@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/azure-devops/manage-database-changes-in-azure-pipelines-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Manage database changes in Azure Pipelines"
 
 ---

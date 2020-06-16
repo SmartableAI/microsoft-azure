@@ -39,6 +39,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png
     width: 800
     height: 400
+    isCached: true
     title: "AZ-104 Manage identities and governance in Azure"
 
 secured: "FCffwsl8eAA6TOuB01RrMGLBZhJJX0GLfwa+flHbybrWyYjlEb60Xn5l+03URq1rb58ogNqIDFR2paVyG1DPU8HdQwqXYHuBo4/mUANgjeiIQgYPgdj7WvZPeV4I5YhyW540vF075x2hgLokXWMplc4nIA+aeFgqEKeExI9P0GqPQMHrP0upadtmGX1XokJmiA5kpr2WRWSWgGPnWb47rw1hAUNjyQ8ly4rz1vJuZrI0Fbq/o/LENxM5klNSUagoHK/uJCdxt7Ab9Scg37bHMTlGDXNuLxsVzv3fusi8WsScvqcf1Ikte6BAygARTzKaGIHorE3mrZ1x+5bK1pLJ0Q==;g+FYa2L+yuswzW1XfOnl5w=="

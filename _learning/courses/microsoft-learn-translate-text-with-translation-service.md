@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/translate-text-with-translation-service-social.png
     width: 640
     height: 320
+    isCached: true
     title: "Translate text and speech"
 
 ---

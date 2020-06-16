@@ -28,6 +28,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/introduction-to-ai-technology-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Introduction to AI technology for business leaders"
 
 secured: "RzT8AzhKAX4BuZpN5VnGMntDtOfwXeYoGeF2VeeJF+2m50lzyolSwMFaSKmwFvZmLvXpBuO7rICyp2DbZOj+OzP7hlTA5gIwMLd80qEPM4dsyWyraMA7UqM7y8pRfyOC28xQerGIsaPGNYvtv/HZLXc7ncegqBUSTChY6B8/s0iAh3hHp3gzDeJvN1DUlEJ//V726SAwZlsxgGYo/UGBDWjRKyJl7gmKHNLv50sRPKJ57zrREgrWmm0trAS2PWYwH25BQUxZlmA2T2bz7hGd35UZx+e13cpd/8tqRSndMMAFnK4hSuWFOA/ZXmGHgWI3bEYP95Cd8iu3yobg5ht9qQ==;OiRNmYn1gLysWsx/C2VrJg=="

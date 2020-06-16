@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/configure-security-policies-to-manage-data-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Configure security policies to manage data"
 
 ---

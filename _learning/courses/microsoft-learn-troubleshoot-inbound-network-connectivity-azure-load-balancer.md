@@ -28,6 +28,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/troubleshoot-inbound-connectivity-azure-load-balancer-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Troubleshoot inbound network connectivity for Azure Load Balancer"
 
 ---

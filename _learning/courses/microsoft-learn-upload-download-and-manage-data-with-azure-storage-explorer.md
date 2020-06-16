@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/upload-download-and-manage-data-with-azure-storage-explorer-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Upload, download, and manage data with Azure Storage Explorer"
 
 ---

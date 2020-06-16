@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/student-evangelism/bash-introduction-badge-social.png
     width: 320
     height: 160
+    isCached: true
     title: "Introduction to Bash"
 
 ---

@@ -29,6 +29,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/logic-apps-and-arm-templates-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Create and deploy Logic Apps using Azure Resource Manager templates"
 
 ---

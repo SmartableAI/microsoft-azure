@@ -28,6 +28,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/aspnetcore/persist-data-ef-core-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Persist and retrieve relational data with Entity Framework Core"
 
 ---

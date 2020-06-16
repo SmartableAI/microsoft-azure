@@ -28,6 +28,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/secure-data-at-rest-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Introduction to securing data at rest on Azure"
 
 ---

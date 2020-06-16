@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/using-iot-central-with-connected-field-service-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Using IoT Central with Connected Field Service for Dynamics 365"
 
 ---

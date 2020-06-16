@@ -29,6 +29,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/design-for-availability-and-recoverability-in-azure-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Design for availability and recoverability in Azure"
 
 ---

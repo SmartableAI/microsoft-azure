@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/improve-app-scalability-resiliency-with-load-balancer-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Improve application scalability and resiliency by using Azure Load Balancer"
 
 ---

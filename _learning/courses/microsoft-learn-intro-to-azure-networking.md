@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/intro-to-azure-networking-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Core Cloud Services - Azure networking options"
 
 ---

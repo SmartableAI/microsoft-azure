@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/run-parallel-tasks-in-azure-batch-with-the-azure-cli-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Run parallel tasks in Azure Batch with the Azure CLI"
 
 ---

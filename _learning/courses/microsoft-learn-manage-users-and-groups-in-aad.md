@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/manage-users-and-groups-in-aad-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Manage users and groups in Azure Active Directory"
 
 ---

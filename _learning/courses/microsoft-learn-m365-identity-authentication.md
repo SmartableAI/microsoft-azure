@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/strengthen-authentication-with-microsoft-365-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Strengthen authentication with Microsoft 365"
 
 ---

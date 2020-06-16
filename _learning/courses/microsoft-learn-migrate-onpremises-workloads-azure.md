@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/migrate-onpremises-workloads-azure-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Migrate on-premises workloads to Azure"
 
 ---

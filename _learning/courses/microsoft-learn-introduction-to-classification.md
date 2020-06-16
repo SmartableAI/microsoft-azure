@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/introduction-to-classification-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Predict categories with machine learning classification"
 
 ---

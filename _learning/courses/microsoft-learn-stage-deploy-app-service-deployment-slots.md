@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/stage-deploy-app-service-deployment-slots-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Stage a web app deployment for testing and rollback by using App Service deployment slots"
 
 ---

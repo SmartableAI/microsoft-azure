@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/distribute-load-with-traffic-manager-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Enhance your service availability and data locality by using Azure Traffic Manager"
 
 ---

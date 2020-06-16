@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/replace-faces-with-emojis-matching-emotion-social.png
     width: 200
     height: 200
+    isCached: true
     title: "The Mojifier - Create a Slack bot that replaces people's faces with emojis matching their emotion"
 
 ---

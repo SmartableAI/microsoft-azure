@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/classify-images-custom-vision-social.png
     width: 640
     height: 320
+    isCached: true
     title: "Classify images with the Custom Vision service"
 
 ---

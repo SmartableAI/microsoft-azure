@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/publish-a-web-app-to-azure-by-using-azure-toolkit-for-intellij-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Publish a web app to Azure by using Azure Toolkit for IntelliJ"
 
 ---

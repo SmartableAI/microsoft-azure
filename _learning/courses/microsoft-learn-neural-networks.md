@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/introduction-to-neural-networks-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Make predictions from complex data with neural networks"
 
 ---

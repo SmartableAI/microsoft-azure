@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/manage-virtual-machines-with-azure-cli-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Manage virtual machines with the Azure CLI"
 
 ---

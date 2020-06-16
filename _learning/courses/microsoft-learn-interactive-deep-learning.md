@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/interactive-deep-learning-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Interactive deep learning with Jupyter, Docker and PyTorch on the Data Science Virtual Machine"
 
 ---

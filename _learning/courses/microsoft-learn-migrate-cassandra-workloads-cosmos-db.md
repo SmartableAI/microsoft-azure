@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/learn-pr/achievements/migrate-cassandra-workloads-to-cosmos-db-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Migrate Cassandra workloads to Cosmos DB"
 
 ---

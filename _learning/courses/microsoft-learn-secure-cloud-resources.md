@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/secure-cloud-resources-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Secure your cloud resources with access control"
 
 ---

@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/improve-api-performance-with-apim-caching-policy-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Improve the performance of an API by adding a caching policy in Azure API Management"
 
 ---

@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/add-custom-domain-name-azure-active-directory-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Add custom domain name to Azure Active Directory"
 
 ---

@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/remotely-monitor-and-service-customer-equipment-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Remotely monitor and service customer equipment with Connected Field Service for Dynamics 365 and Azure IoT"
 
 ---

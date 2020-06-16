@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/intro-to-azure-government-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Introduction to Azure Government"
 
 ---

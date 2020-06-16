@@ -28,6 +28,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/host-a-web-app-with-azure-app-service-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Host a web application with Azure App service"
 
 ---

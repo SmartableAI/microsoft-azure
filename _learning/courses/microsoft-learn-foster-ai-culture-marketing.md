@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/foster-ai-ready-culture-marketing-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Discover how to foster an AI-ready culture in marketing"
 
 ---

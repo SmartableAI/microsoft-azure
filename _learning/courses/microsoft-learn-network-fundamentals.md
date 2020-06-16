@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/network-fundamentals-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Fundamentals of computer networking"
 
 ---

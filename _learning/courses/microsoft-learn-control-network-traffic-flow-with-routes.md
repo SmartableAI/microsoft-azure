@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/control-network-traffic-flow-with-routes-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Manage and control traffic flow in your Azure deployment with routes"
 
 ---

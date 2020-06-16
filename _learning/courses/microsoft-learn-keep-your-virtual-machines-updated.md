@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/keep-your-virtual-machines-updated-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Keep your virtual machines updated"
 
 ---

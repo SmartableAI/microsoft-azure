@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/develop-test-deploy-azure-functions-with-visual-studio-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Develop, test, and deploy an Azure Function with Visual Studio"
 
 ---

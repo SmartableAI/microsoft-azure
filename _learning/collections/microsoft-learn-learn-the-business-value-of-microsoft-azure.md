@@ -34,6 +34,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/intro-to-azure-areas-and-solutions-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Learn the business value of Microsoft Azure"
 
 secured: "/w+/lDORV4oLKXu8f1mRRsC3ZER5rFqAOpIdpsZVKJTP6lC6Plgpohx9gs5owoENzbR7cHpxizm3Nqh+Ac/Stg44mvBv9GjAG9ebci1bivOOkmIboE+LP877WJL9O38gqBV74imRiM+MI6Jp0CaQ7uFXlWt3F2y39aDFS1Ac++Ypufau3r1xtOrOTB8OIBb49fVu/aNkySLRvcG1t5OMug4YtfOA0OAKm4s68lycwQi4bHaLqMxo9kb4Krtqy0cK+3N35UWqZUTVu5n7N2X/lO/8A9X/ROIqPxkKy4JcKmIaQ5XtvrRo0F2a/gFXWhuUYpbziwJc9bszpOOfW6UkYA==;Qu1ERU+mJkVnrHhjUjZDGw=="

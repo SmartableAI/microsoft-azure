@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/responsible-conversational-ai-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Discover Microsoft guidelines for responsible conversational AI development"
 
 ---

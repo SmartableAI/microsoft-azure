@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/build-azure-vm-templates-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Build Azure Resource Manager templates"
 
 ---

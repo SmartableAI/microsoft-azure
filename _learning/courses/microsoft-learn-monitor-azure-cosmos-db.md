@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/monitor-azure-cosmos-db-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Optimize the performance of Azure Cosmos DB by using partitioning and indexing strategies"
 
 ---

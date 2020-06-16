@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/learn-pr/achievements/migrate-onpremises-postgresql-db-azure-db-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Migrate on-premises PostgreSQL databases to Azure Database for PostgreSQL"
 
 ---

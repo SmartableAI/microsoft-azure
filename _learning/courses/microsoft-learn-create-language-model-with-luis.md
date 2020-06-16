@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/create-publish-luis-model-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Create a language model with LUIS"
 
 ---

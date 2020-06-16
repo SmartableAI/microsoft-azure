@@ -28,6 +28,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/iot/set-up-rules-take-actions-telemetry-data-azure-iot-central-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Set up rules and take action on telemetry data in Azure IoT Central"
 
 ---

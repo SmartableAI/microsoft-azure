@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/design-a-data-center-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Datacenter components"
 
 ---

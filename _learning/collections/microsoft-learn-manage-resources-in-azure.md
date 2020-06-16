@@ -33,6 +33,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/align-requirements-in-azure-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Manage resources in Azure"
 
 secured: "PUvTSnb4y5WFZ9qoLKaiexdS2xuW4wipNZ9P5Xony3Y37Fck64LqVSPXs15pZ3d+3p4ld1yCk/1HGY512iKPelvcNbyO6+fJaQdF2Xew7XNbKgYIGI1WYRID4Sf7JhEbXWbA+ozs2OgvhccgKihkyeuRE6jmWv5dFvKdqloMLbhEtCOV26/1KnZCJZEFyUCB5zs8VLQLXbBfoVp9hxbx3WqsKMV3lla9tljLMIPTbWBsnczPhD1FfxQMjz6tztsFYp7YJLsKeKTLmRiLIDdo/LELS1x3hNrBZJQOpSmeJESXEuqH+817YLkpAMecNMRelAQgHf4kvqghNQF6zt9T1Q==;5qvnU+3XFed9BS8KNi0Khg=="

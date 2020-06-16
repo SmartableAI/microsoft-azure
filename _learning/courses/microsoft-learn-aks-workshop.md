@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/aks-workshop-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Azure Kubernetes Service Workshop"
 
 ---

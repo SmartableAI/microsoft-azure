@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/protect-infrastructure-with-azure-site-recovery-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Protect your Azure infrastructure with Azure Site Recovery"
 
 ---

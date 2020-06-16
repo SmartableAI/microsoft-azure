@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/secure-azure-resources-with-rbac-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Secure your Azure resources with role-based access control (RBAC)"
 
 ---

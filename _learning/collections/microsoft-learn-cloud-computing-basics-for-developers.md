@@ -33,6 +33,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/foundations-of-cloud-computing-for-developers-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Cloud computing basics for developers"
 
 secured: "2l0xWrbLsLL0jgvrYNkoh+S2b41mxH24FqDjnFBO4jC2T2LO9PRrrvrrnheoL7ziVMSEoOafiy8BUPww9qKAYBaNEuvQBSqOGyI15FQy0/ZvepgS9lvG1O0jAzgIswttdMvpNx8ntDE/6iA5HKw+q0mth7EKCkDheGl/t9gp9qZbwuZQmCG8DIxATFtXo5AJvL6WDw1DidGD7ImunsDQ3/LWxnJXz2GofhM0nENwjsksG/i7G/mMGrzIzIMgRs725WPOyrWwNiielUnhpRPfJdUFbPHOpPXRX3DDez4FgeyphTdKycUtNLV/RKRbIZ4zF2uufRpsIDvT0RXRcM1z4w==;QtpVngpc2/vsSwCtNf7ubA=="

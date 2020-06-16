@@ -31,6 +31,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/classify-user-feedback-with-the-text-analytics-api-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Discover sentiment in text with the Text Analytics API"
 
 ---

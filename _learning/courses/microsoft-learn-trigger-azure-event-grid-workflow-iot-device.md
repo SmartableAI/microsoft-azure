@@ -28,6 +28,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/iot/trigger-azure-event-grid-workflow-iot-device-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Trigger an Azure Event Grid Workflow from an IoT device"
 
 ---

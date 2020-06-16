@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/iot/automate-iot-devices-management-with-azure-iot-hub-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Automate IoT devices management with Azure IoT Hub"
 
 ---

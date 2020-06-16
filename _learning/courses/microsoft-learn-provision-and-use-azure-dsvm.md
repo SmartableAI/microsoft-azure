@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/data-ai/provision-and-use-azure-dsvm-badge-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Provision and use an Azure Data Science Virtual Machine"
 
 ---

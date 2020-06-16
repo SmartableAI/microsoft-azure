@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/data-ai/import-data-into-asdw-with-polybase-badge-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Import data into Azure Synapse Analytics by using PolyBase"
 
 ---

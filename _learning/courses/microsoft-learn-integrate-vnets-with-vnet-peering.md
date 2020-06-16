@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/integrate-vnets-with-vnet-peering-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Distribute your services across Azure virtual networks and integrate them by using virtual network peering"
 
 ---

@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/build-scalable-application-with-azure-virtual-machine-scale-sets-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Build a scalable application with virtual machine scale sets"
 
 ---

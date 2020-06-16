@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/azure-iot-strategy-and-solutions-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Microsoft Azure IoT strategy and solutions"
 
 ---

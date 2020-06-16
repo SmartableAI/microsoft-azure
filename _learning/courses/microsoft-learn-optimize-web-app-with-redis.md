@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/optimize-web-apps-with-redis-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Optimize your web applications by caching read-only data with Redis"
 
 ---

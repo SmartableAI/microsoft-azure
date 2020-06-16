@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/migrating-sap-workloads-azure-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Migrate SAP workloads to Azure"
 
 ---

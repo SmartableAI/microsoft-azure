@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/deploy-vms-from-vhd-templates-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Deploy Azure virtual machines from VHD templates"
 
 ---

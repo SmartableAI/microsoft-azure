@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/enable-external-collaboration-with-b2b-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Enable secure external collaboration for your applications with Azure AD B2B"
 
 ---

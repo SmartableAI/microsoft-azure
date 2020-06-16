@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/build-and-store-container-images-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Build and store container images with Azure Container Registry"
 
 ---

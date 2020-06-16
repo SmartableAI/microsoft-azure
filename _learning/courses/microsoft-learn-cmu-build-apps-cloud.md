@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/build-applications-on-the-cloud-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Build applications on the cloud"
 
 ---

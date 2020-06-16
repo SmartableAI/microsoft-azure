@@ -28,6 +28,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/secure-your-azure-virtual-machine-disks-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Secure your Azure virtual machine disks"
 
 ---

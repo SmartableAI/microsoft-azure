@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/data-ai/transform-data-with-azure-stream-analytics-badge-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Transform data by using Azure Stream Analytics"
 
 ---

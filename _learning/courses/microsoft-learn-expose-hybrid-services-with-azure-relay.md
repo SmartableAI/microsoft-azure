@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/expose-hybrid-services-with-azure-relay-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Expose hybrid services securely with Azure Relay"
 
 ---

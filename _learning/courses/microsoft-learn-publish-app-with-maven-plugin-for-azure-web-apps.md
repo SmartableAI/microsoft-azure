@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/publish-app-with-maven-plugin-for-azure-web-apps-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Publish a web app to Azure by using the Maven Plugin for Azure App Service"
 
 ---

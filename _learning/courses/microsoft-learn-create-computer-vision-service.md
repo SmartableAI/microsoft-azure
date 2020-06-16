@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/create-computer-vision-service-to-classify-images-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Process images with the Computer Vision service"
 
 ---

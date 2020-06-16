@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/azure-devops/deploy-azure-functions-social.png
     width: 640
     height: 320
+    isCached: true
     title: "Automate Azure Functions deployments with Azure Pipelines"
 
 ---

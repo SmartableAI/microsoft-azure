@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/build-cosmos-db-app-with-vscode-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Build a .NET Core app for Azure Cosmos DB in Visual Studio Code"
 
 ---

@@ -39,6 +39,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/resolve-threats-with-azure-security-center-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Architect secure infrastructure in Azure"
 
 secured: "OlzKBMyWQuMT6MeLZJWWfYYRVdmXj/XoefY5jKW5DWF3tCa61YW7fejD8+Q3uPkxH5eUQJ1BlOjKVywmAuvAVdzj4YTmkwgNuzlMeTdLsxsL15wPtHiEZQyQ5YSY4imaLsd4VdwdhheN2uj01gN3lPQOgP45SelAMpyx2abiW75eYkjtiB8Y5/xcRSZp3oA8zxhgL8hfrgY+b5GyydN6FZJ0/4e11wHx2StVllDytC6YNdMYoqNQ1RHLCX167wBOfEdzoASXznobSY6FwLt8lUtKrJEW2fXOWetuIW8L85wI6s+B9vA31nUNC3ZHLiBbEgHKJMUKkl59Ttx3ItJwbQ==;T1LM0HhxD9uqeOCRZyIjYw=="

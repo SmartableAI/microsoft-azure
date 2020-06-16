@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/data-ai/recognize-voices-with-speaker-recognition-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Recognize specific voices with the Speaker Recognition APIs in Azure Cognitive Services"
 
 ---

@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/data-ai/upload-data-to-azure-data-lake-storage-badge-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Upload data to Azure Data Lake Storage"
 
 ---

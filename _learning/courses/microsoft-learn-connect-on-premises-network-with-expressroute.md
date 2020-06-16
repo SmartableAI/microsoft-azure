@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/connect-on-premises-network-with-expressroute-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Connect your on-premises network to the Microsoft global network by using ExpressRoute"
 
 ---

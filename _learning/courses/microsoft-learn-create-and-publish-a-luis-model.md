@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/data-ai/create-and-publish-a-luis-model-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Add conversational intelligence to your apps by using Language Understanding Intelligent Service (LUIS)"
 
 ---

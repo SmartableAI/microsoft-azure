@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/principles-cloud-computing-deployment-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Principles of cloud computing and deployment"
 
 ---

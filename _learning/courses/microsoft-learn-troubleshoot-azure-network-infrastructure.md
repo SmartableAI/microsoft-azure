@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/troubleshoot-azure-network-infrastructure-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Monitor and troubleshoot your end-to-end Azure network infrastructure by using network monitoring tools"
 
 ---

@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/simplify-access-and-identity-provisioning-with-microsoft-365-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Simplify access and identity provisioning with Microsoft 365"
 
 ---

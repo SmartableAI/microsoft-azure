@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/create-an-app-to-run-parallel-compute-jobs-in-azure-batch-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Create an app to run parallel compute jobs in Azure Batch"
 
 ---

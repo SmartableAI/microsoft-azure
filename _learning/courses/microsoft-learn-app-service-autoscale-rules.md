@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/app-service-autoscale-rules-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Dynamically meet changing web app performance requirements with autoscale rules"
 
 ---

@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/deploy-sap-certified-offerings-for-azure-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Deploy SAP certified offerings on Azure"
 
 ---

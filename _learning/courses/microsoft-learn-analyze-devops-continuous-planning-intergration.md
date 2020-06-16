@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/analyze-devops-continuous-planning-continuous-integration-social.png
     width: 320
     height: 160
+    isCached: true
     title: "Analyze DevOps Continuous Planning and Continuous Integration"
 
 ---

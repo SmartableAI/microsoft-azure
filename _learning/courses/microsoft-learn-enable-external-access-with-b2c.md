@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/enable-external-access-with-b2c-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Enable secure access to apps for external users with Azure AD B2C"
 
 ---

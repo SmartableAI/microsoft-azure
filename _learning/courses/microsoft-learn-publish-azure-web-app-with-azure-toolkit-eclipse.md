@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/publish-azure-web-app-with-azure-toolkit-eclipse-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Publish a web app to Azure by using Azure Toolkit for Eclipse"
 
 ---

@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/create-azure-db-for-postgresql-server-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Create an Azure Database for PostgreSQL server"
 
 ---

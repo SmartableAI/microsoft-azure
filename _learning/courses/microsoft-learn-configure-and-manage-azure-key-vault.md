@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/configure-and-manage-azure-key-vault-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Configure and manage secrets in Azure Key Vault"
 
 ---

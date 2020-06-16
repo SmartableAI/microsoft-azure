@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/detect-analyze-faces-social.png
     width: 640
     height: 320
+    isCached: true
     title: "Detect and analyze faces with the Face service"
 
 ---

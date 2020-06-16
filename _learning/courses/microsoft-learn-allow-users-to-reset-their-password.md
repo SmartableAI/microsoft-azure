@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/allow-users-reset-their-password-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Allow users to reset their password with Azure Active Directory self-service password reset"
 
 ---

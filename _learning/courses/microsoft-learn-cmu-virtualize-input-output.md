@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/resource-virtualization-input-output-social.png
     width: 1000
     height: 500
+    isCached: true
     title: "Virtualize I/O"
 
 ---

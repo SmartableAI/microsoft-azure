@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/student-evangelism/predict-flight-delays-with-python-badge-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Predict flight delays by creating a machine learning model in Python"
 
 ---

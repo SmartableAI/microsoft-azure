@@ -36,6 +36,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/azure-devops/create-a-release-pipeline-with-azure-pipelines-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Deploy applications with Azure DevOps"
 
 secured: "Q5PMkn6bzYTVJC2f4y6UjhXTzxjjffBavHh9skOusJn9EGnMs5SVdVagUCZrnVkNwIu4P43hDo4pQG/YTqedW8s08Hq+mOteJM4LQtYw/SrxccIN/MsoRbZ/ov07j7oOd/svJrLq7GgZW0G15FlpvLx8MjMvZxj6q3KkfB3lm6+9kl+mx/MSHnZte19rPq6r9PEqgNHYZQmT6EZb87BMyX2/BUDlSw6q1SL+U17Kr/J/p2NXl3vOhhaL+SUCO1WWRxX6Z9h4bkhWT6+AgH5D3abuUkmg7YiOLfRPvIW5ESDIn1IpkKVBkedl9bGuo5btizCHbCUpsCfFe2X1XPBXYw==;7nUWLnlcS9ezFDsM21peiQ=="

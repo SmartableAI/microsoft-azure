@@ -34,6 +34,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/intro-to-docker-containers-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Administer containers in Azure"
 
 secured: "BtLGkszM3RZ1r4ZVYGRUXYXrU/BQsQ61uNvPCaYFyjmJFsvI7Q5Vx9Ypea8jZ1L1zdjS1EkGiDE1J8UHMccWlNtmfw6fAoQtkDeucQ13C4Qcq4nQ/YgmOXASN1STngj5lyky2u9Rjxxov/bbVcTN3IeFv3dl7KXueaQ7fEE34AeIEu9IljEHha4sxE2azpgARITu9xqMzYjwaVrZcJh0PXUbO3g9q7+6en9GEfA/2pk0lJxspRw1Mi4aQg+PUc4icWsoc6zCvZ5Mg9G7qW2CNRWHg7lCOrmAtWmFOp8c4SjWhxWtFqXF6vfp09kewzbQFxxgUHWCFUnsBEX+SllxxQ==;LD0WKUU/pmJpbAIw5IRXwQ=="

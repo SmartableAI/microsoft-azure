@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/access-data-with-cosmos-db-and-sql-api-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Insert and query data in your Azure Cosmos DB database"
 
 ---

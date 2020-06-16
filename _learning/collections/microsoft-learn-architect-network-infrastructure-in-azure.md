@@ -39,6 +39,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/connect-on-premises-network-with-vpn-gateway-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Architect network infrastructure in Azure"
 
 secured: "yitgeu4tU/1/RblRZMq20jchMdIzTVP5X5C2PSHjfyO65rFyE4GrxKHu8+Z5CnXxzxjeuS4ZcZyqIX2B7wd4LoKL72/n5xrQr6EJkBFRDyS5Fvfnva04oZ8/ByZszxYt0VAc4boKUhYOShgcm9bGWI1hOW9/KIQwf4k8ur5QQWQv9oVy8N52/aJdRFI4B74QlwWJ7+sOqAM99CsgfYD7M4GjMehuw7A0f+sE7zkaXQE0Taa4eVb5FVLcfXtyNtD9DvoPlHLkgpm/tymz9JbkN2Rm8OsN6u65QHVQX8hm8pQMRIef0pq+ptdtrqxKc2odd7s0Y7wTfIZQJXs1uIiWUw==;iDRY/uB2SF2YZneDHve4QQ=="

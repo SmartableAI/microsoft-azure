@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/data-ai/register-and-deploy-model-with-amls-badge-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Deploying machine learning models with Azure Machine Learning"
 
 ---

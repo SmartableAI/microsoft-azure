@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/azure-devops/manage-release-cadence-using-deployment-patterns-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Manage release cadence in Azure Pipelines by using deployment patterns"
 
 ---

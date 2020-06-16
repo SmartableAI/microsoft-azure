@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/store-and-access-data-with-cosmos-db-and-the-graph-api-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Store and access graph data in Azure Cosmos DB with the Graph API"
 
 ---

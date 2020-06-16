@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/intro-to-hpc-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Introduction to high-performance computing (HPC) on Azure"
 
 ---

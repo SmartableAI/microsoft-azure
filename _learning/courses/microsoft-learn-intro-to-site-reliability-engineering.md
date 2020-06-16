@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/intro-to-site-reliability-engineering-sre-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Introduction to Site Reliability Engineering (SRE)"
 
 ---

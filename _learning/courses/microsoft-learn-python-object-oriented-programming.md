@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/student-evangelism/python-object-oriented-programming-badge-social.png
     width: 320
     height: 160
+    isCached: true
     title: "Object-oriented programming in Python"
 
 ---

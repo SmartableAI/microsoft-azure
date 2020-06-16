@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/analyze-infrastructure-with-azure-monitor-logs-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Analyze your Azure infrastructure by using Azure Monitor logs"
 
 ---

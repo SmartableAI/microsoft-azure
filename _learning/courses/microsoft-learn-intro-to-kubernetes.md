@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/introduction-to-kubernetes-social.png
     width: 640
     height: 320
+    isCached: true
     title: "Introduction to Kubernetes"
 
 ---

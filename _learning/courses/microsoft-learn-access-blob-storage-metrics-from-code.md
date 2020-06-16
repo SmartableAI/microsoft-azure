@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/access-blob-storage-metrics-from-code-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Access Metrics from your Azure Blob Storage Containers Programmatically"
 
 ---

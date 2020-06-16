@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/data-ai/train-local-model-with-azure-mls-badge-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Train a machine learning model with Azure Machine Learning"
 
 ---

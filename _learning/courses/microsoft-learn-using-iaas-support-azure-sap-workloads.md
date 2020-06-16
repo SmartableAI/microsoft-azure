@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/using-iaas-support-with-azure-for-sap-workloads-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Using IAAS support with Azure for SAP workloads"
 
 ---

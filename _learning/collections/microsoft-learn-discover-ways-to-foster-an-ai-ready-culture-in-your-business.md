@@ -31,6 +31,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/build-an-ai-ready-culture-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Discover ways to foster an AI-ready culture in your business"
 
 secured: "cLuSbHlRjZY9FC0ff8ek81KHj4dd0J5iUEOD6K84g0bzmlAL7Sr6IGLacVjbzCregb/+elydpJzyJRYYlNB85AF5Ru7GEXCGywtC11xsprzhKde2yaEPp4c0NgjxRNHfWXQp6+oIjrjRCJ7D7xIy+I9lvQvpUYuLu8D1iG7CF/g1UITNqt/70ety98F3Tsrf9vzVZnS6lhIhBP5NAbeWQYs11zEEXFYW9koqZJzIHqDoIYEdxhT16gz//NaD8/9LNTkY52R/rQenXnDpTZsLYX3yeBUP4iwTvvfzzvTu/kXL573eSh6Kar/9DRYkNih8rssYfSM75QZA4wl202kT2Q==;DOpYQF7FbZSUrt6RIzVvAw=="

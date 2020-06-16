@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/hub-and-spoke-network-architecture-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Centralize your core services by using hub and spoke Azure virtual network architecture"
 
 ---

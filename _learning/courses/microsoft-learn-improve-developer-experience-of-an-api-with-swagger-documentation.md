@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/improve-developer-experience-of-an-api-with-swagger-documentation-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Improve the developer experience of an API with Swagger documentation"
 
 ---

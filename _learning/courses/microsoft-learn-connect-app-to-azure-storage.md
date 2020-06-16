@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/connect-an-app-to-azure-storage-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Connect an app to Azure Storage"
 
 ---

@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/support-concurrency-blob-storage-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Support concurrency in Blob storage apps with ETags and blob leases"
 
 ---

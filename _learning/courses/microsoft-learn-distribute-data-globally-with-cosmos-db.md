@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/distribute-data-globally-with-cosmos-db-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Distribute your data globally with Azure Cosmos DB"
 
 ---

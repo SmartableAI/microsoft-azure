@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/iot/remotely-monitor-and-control-devices-with-azure-iot-hub-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Remotely monitor and control devices with Azure IoT Hub"
 
 ---

@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/automate-azure-tasks-with-powershell-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Automate Azure tasks using scripts with PowerShell"
 
 ---

@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/data-ai/automate-model-selection-with-azure-automl-badge-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Automate machine learning model selection with Azure Machine Learning"
 
 ---

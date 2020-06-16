@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/design-ip-addressing-for-azure-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Design an IP addressing schema for your Azure deployment"
 
 ---

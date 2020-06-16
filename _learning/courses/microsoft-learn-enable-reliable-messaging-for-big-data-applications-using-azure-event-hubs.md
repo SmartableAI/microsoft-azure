@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/enable-reliable-messaging-for-big-data-apps-using-azure-event-hubs-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Enable reliable messaging for Big Data applications using Azure Event Hubs"
 
 ---

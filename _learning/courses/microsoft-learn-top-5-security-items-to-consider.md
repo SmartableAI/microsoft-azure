@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/top-5-security-items-to-consider-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Top 5 security items to consider before pushing to production"
 
 ---

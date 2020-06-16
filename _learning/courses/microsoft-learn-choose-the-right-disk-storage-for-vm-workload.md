@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/choose-the-right-disk-storage-for-vm-workload-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Choose the right disk storage for your virtual machine workload"
 
 ---

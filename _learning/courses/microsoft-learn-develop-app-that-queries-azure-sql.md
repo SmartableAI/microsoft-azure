@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/develop-app-that-queries-azure-sql-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Develop and configure an ASP.NET application that queries an Azure SQL database"
 
 ---

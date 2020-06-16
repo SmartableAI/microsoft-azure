@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/student-evangelism/deploy-pre-built-module-iot-edge-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Deploy a prebuilt module to the Edge device"
 
 ---

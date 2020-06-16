@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/set-up-iot-edge-gateway-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Set up an IoT Edge Gateway"
 
 ---

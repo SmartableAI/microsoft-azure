@@ -29,6 +29,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cloud-admin-overview-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Cloud administration basics"
 
 secured: "D5xWF8gNECOzCtRZXQ6BhSPJPCEmZepCKupLhNyoY1RryVIcYKV/NFSIDFznACGO0zET2EBxOuz0xxmqwtKp0tjkAlzjCalhQv5zSrs0VgbBUrIHZsVAHSnuRYaWeYOF+LIJfTQ+NV5FvglCrxRSfNoP3oafWz0Rn7UkSlyMEj6Na6OKh5bOxh6dA8t3wdpkwpNUk8/GHs8ITUidmOW4LSodIgeWQXCUcapHk13fSgKCMdGPhfq98A8c2lTHV5DWn0f0GL8Zy1zQrBkq2LsUh8WOzJlZjuHXqmeRTi8HA03zg3JDFASkeOB4FsbLVrAaz7vA3knwPb844jZUj9pq0A==;XrFB/47FB6yskhlW9UOiVw=="

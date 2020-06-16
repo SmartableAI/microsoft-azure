@@ -28,6 +28,11 @@ images:
     height: 400
     isCached: true
     title: "Introduction to Azure Machine Learning"
+  - url: https://docs.microsoft.com/learn/achievements/intro-to-azure-machine-learning-service-badge-social.png
+    width: 800
+    height: 400
+    isCached: true
+    title: "Introduction to Azure Machine Learning"
 
 ---
 

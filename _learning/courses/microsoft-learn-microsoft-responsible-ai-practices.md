@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/microsoft-responsible-ai-practices-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Discuss practices for responsible AI at Microsoft"
 
 ---

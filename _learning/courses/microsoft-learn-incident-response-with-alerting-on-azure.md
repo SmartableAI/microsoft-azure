@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/incident-response-with-alerting-on-azure-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Improve incident response with alerting on Azure"
 
 ---

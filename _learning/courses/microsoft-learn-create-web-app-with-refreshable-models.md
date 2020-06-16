@@ -30,6 +30,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/advocates/create-web-app-with-refreshable-models-social.png
     width: 320
     height: 160
+    isCached: true
     title: "Build a Web App with Refreshable Machine Learning Models"
 
 ---

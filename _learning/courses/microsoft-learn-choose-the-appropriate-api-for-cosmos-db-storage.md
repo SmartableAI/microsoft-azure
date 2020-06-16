@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/choose-the-appropriate-api-for-cosmos-db-storage-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Choose the appropriate API for Azure Cosmos DB storage"
 
 ---

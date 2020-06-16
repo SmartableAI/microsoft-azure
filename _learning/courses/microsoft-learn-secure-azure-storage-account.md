@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/data-ai/secure-azure-storage-account-badge-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Secure your Azure Storage account"
 
 ---

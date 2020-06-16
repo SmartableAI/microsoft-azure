@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/analyze-receipts-form-recognizer-social.png
     width: 640
     height: 320
+    isCached: true
     title: "Analyze receipts with the Form Recognizer service"
 
 ---

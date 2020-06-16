@@ -37,6 +37,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/create-azure-storage-account-social.png
     width: 200
     height: 200
+    isCached: true
     title: "AZ-104 Implement and manage storage in Azure"
 
 secured: "T896wx8RXtWto801HFegnxue1uM6p6CGPptibuUM5mcycAT5n8VhO8UHJ/q+zT8zRlliFibwRQYQqTNfCOvkSbpJXoAcNIawL0qSE4G1NSk8moyDd4wmwX0Y6cbm5mRB+LNn1WJ9be9iNeMJNM4ZFRy+L1fyxObHYQDa8+AmI7TO92I8wtbmReKdOh6x7sBuIlEL6ULhDWfTeaQFYC0jr1Wd8fi+mQMe5gG0+FEq6yFrBOlJtneeY2l5dm8OQXdAiwHSqkfJO6N5LIwNbPenKYaOAPtepR0vwsa0Vq0zGjkG6lM0dDHmWmNSbaaLOyeaHeKOnQqCRDlUIgakhgj+xA==;VpVL1za+fbSSAhWjNEGXqQ=="

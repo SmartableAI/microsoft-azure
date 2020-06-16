@@ -43,6 +43,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/create-linux-virtual-machine-in-azure-social.png
     width: 200
     height: 200
+    isCached: true
     title: "AZ-104 Deploy and manage Azure compute resources"
 
 secured: "NXfXcPTkx93U4EG+6dSfz9+tD22gLTa8AFsdJpuYeQ8nTdqY24DXqNbVTXKEnTqXbIaz2KFcJPym0cmS5nY6zauZYwiy2XI8BNHrgM8+7wXzKwqAuo1N/rY9p9tqPHQbrIuZ9yDTN3u/Xv+7B4NjPRwCzojr+pwM4qlbQ/OOvuGYpCGfDhObbcQVeH2R85ku4Grco2b3wUwglZ87LC0crqJLdajJmO6JV8ebojd+s6riY2nJ82j4gwXkaY2OdV3Gj18b9piZx3Ecyj3hDs0OslWRF6VWub9Pf/Euzj9MLJ/1QIULdZYNcnL5oEegaFsBvKKFdwi1rjIYfCtuEyOwkA==;yKYSbDAxcSgDHAJtTlTb8w=="

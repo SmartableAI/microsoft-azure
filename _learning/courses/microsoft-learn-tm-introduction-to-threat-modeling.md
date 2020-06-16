@@ -29,6 +29,11 @@ images:
     height: 400
     isCached: true
     title: "Introduction to threat modeling"
+  - url: https://docs.microsoft.com/learn/achievements/introduction-to-threat-modeling-social.png
+    width: 640
+    height: 320
+    isCached: true
+    title: "Introduction to threat modeling"
 
 ---
 

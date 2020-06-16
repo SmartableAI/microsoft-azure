@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/optimize-blob-storage-costs-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Optimize storage performance and costs using Blob storage tiers"
 
 ---

@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/learn-pr/achievements/migrate-on-premises-mysql-databases-to-azure-database-for-mysql-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Migrate on-premises MySQL databases to Azure Database for MySQL"
 
 ---

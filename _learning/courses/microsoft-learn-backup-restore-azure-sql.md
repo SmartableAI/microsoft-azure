@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/backup-restore-azure-sql-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Back up and restore your Azure SQL database"
 
 ---

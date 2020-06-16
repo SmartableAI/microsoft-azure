@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/case-studies-nosql-databases-social.png
     width: 320
     height: 160
+    isCached: true
     title: "Case studies: NoSQL databases and cloud object storage"
 
 ---

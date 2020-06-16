@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/move-data-with-azure-data-box-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Move large amounts of data to the cloud by using Azure Data Box family"
 
 ---

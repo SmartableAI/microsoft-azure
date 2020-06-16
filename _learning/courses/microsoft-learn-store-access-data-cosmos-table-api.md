@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/store-and-access-data-cosmos-db-table-api-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Store and Access NoSQL Data with Azure Cosmos DB and the Table API"
 
 ---

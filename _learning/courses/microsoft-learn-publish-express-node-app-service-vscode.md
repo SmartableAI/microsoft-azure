@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/publish-express-node-app-service-vscode-social.png
     width: 320
     height: 160
+    isCached: true
     title: "Create and publish a web application with Azure App Service and Visual Studio Code"
 
 ---

@@ -28,6 +28,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/protect-virtual-machines-with-azure-backup-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Protect your virtual machines by using Azure Backup"
 
 ---

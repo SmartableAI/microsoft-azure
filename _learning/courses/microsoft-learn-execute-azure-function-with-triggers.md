@@ -28,6 +28,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/execute-azure-function-with-triggers-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Execute an Azure Function with triggers"
 
 ---

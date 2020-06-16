@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/explore-devops-continuous-security-operations-social.png
     width: 320
     height: 160
+    isCached: true
     title: "Explore DevOps Continuous Security and Continuous Operations"
 
 ---

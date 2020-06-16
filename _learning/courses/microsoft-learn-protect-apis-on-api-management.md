@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/protect-apis-on-api-management-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Protect your APIs on Azure API Management"
 
 ---

@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/build-node-cosmos-app-vscode-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Build a Node.js app for Azure Cosmos DB in Visual Studio Code"
 
 ---

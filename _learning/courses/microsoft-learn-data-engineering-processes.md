@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/data-ai/data-engineering-processes-badge-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Identify the tasks of a data engineer in a cloud-hosted architecture"
 
 ---

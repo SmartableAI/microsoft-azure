@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/foster-ai-ready-culture-customer-service-social.png
     width: 100
     height: 100
+    isCached: true
     title: "Discover how to foster an AI-ready culture in customer service"
 
 ---

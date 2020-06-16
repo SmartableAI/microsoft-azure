@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/tour-azure-portal-features-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Core Cloud Services - Manage services with the Azure portal"
 
 ---

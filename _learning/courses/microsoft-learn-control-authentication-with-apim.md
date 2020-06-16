@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/control-authentication-with-apim-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Control authentication for your APIs with Azure API Management"
 
 ---

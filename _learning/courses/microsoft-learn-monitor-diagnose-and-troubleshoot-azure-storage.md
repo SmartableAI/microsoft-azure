@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/monitor-diagnose-and-troubleshoot-azure-storage-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Monitor, diagnose, and troubleshoot your Azure storage"
 
 ---

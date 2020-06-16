@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/shift-express-api-azure-functions-social.png
     width: 320
     height: 160
+    isCached: true
     title: "Refactor Node.js and Express APIs to Serverless APIs with Azure Functions"
 
 ---

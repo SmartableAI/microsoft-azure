@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/create-custom-azure-roles-with-rbac-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Create custom roles for Azure resources with role-based access control (RBAC)"
 
 ---

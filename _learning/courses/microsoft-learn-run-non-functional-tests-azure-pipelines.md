@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/azure-devops/run-non-functional-tests-azure-pipelines-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Run nonfunctional tests in Azure Pipelines"
 
 ---

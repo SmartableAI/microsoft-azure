@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cmu-cloud-elasticity-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Scale your cloud resources with elasticity"
 
 ---

@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/learn-pr/achievements/migrate-on-premises-mongodb-databases-to-cosmos-db-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Migrate on-premises MongoDB databases to Cosmos DB"
 
 ---

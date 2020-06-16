@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/predict-costs-and-optimize-spending-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Predict costs and optimize spending for Azure"
 
 ---

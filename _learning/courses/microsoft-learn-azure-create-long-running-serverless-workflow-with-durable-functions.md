@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/azure-create-long-running-serverless-workflow-with-durable-functions-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Create a long-running serverless workflow with Durable Functions"
 
 ---

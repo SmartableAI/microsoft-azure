@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/export-data-with-azure-import-export-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Export large amounts of data from Azure by using Azure Import/Export"
 
 ---

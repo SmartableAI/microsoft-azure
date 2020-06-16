@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/monitor-and-manage-device-with-iot-central-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Monitor and manage your coffee machine with Azure IoT Central"
 
 ---

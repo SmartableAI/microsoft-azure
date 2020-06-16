@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/student-evangelism/python-flask-build-ai-web-app-badge-social.png
     width: 320
     height: 160
+    isCached: true
     title: "Build an AI web app by using Python and Flask"
 
 ---

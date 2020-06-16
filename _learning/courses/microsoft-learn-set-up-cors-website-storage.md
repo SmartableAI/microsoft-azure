@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/setup-cors-for-your-website-and-storage-assets-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Core Cloud Services - Set up CORS for your website and storage assets"
 
 ---

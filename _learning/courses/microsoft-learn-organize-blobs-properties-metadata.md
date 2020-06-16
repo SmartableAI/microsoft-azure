@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/organize-blobs-with-properties-and-metadata-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Organize Azure storage blobs with properties and metadata"
 
 ---

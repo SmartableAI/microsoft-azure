@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/azure-scale-azure-sql-databases-elastic-pools-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Scale multiple Azure SQL Databases with SQL elastic pools"
 
 ---

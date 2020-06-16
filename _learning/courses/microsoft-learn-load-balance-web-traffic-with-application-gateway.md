@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/load-balance-web-traffic-with-application-gateway-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Load balance your web service traffic with Application Gateway"
 
 ---

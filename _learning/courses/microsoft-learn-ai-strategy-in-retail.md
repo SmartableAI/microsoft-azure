@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/ai-strategy-in-retail-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Define an AI strategy to create business value in retail"
 
 ---

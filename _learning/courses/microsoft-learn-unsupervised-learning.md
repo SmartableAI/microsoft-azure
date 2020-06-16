@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/introduction-to-unsupervised-learning-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Use unsupervised learning to analyze unlabeled data"
 
 ---

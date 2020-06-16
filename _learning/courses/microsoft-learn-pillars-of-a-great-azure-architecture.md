@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/pillars-of-a-great-azure-architecture-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Pillars of a great Azure architecture"
 
 ---

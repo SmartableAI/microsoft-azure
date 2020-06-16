@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/student-evangelism/train-and-package-an-azure-machine-learning-module-for-deployment-to-iot-edge-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Train and package an Azure machine learning module for deployment to IoT Edge device"
 
 ---

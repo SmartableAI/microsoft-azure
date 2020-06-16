@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/secure-your-azure-sql-database-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Secure your Azure SQL Database"
 
 ---

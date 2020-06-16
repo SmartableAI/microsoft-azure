@@ -33,6 +33,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/control-and-organize-with-resource-manager-social.png
     width: 200
     height: 200
+    isCached: true
     title: "Architect infrastructure operations in Azure"
 
 secured: "1i75T7nE5XD7e51KfVKYMFrKTBdABZoyujktp16p4rAcBsG5LRHpe/bV3Uh5o75RCf4AkQnDSKFJgs+xUZIsqOpNFrxv/VoPOergmHj+1clG8xKynvSP2irTpI0X19w5KJr9ynCWoHVIDHvaQmOw7Juww3qVs5sT+sf7/DYYg0Q0DR2+fL9qy1sDOaEP5A1RKW1pjBrClVdmbyaGKJlnMJvdf/wpwWglvSHbL0lQQk0GGhBywGz0U3bTr87BCgNQMv1InjqXa43cwFwCeXnCsod0rEMrfxW2CtY6d8iQV6kP57xVAoTEgcWGgUH/f8v7II8C1+0q/f06FCtY6jLdLA==;TWDjsDj7UIOktvyw0jWrvQ=="

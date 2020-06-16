@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/data-ai/explore-azure-dsvm-types-badge-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Explore the types of Azure Data Science Virtual Machines"
 
 ---

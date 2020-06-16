@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/iot/manage-your-azure-iot-hub-with-metrics-alerts-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Manage your Azure IoT Hub with alerts and metrics"
 
 ---

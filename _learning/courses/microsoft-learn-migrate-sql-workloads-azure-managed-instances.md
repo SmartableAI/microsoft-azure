@@ -27,6 +27,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/migrate-sql-workloads-to-azure-managed-instances-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Migrate SQL Workloads to Azure Managed Instances"
 
 ---

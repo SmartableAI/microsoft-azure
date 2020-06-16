@@ -25,6 +25,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/apps-and-infra-migration-modernization-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Applications and infrastructure migration and modernization"
 
 ---

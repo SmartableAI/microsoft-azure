@@ -28,6 +28,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/monitor-report-aad-security-events-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Monitor and report on security events in Azure AD"
 
 ---

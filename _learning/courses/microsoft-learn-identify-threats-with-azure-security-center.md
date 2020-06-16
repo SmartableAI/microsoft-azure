@@ -26,6 +26,7 @@ images:
   - url: https://docs.microsoft.com/learn/achievements/identify-threats-with-azure-security-center-social.png
     width: 800
     height: 400
+    isCached: true
     title: "Identify security threats with Azure Security Center"
 
 ---
