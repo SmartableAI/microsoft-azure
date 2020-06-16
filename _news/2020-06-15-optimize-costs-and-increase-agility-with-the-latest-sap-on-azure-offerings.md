@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-15T08:00:02Z
 webUrl: "https://azure.microsoft.com/blog/optimize-costs-and-increase-agility-with-the-latest-sap-on-azure-offerings/"
 type: article
 quality: 77
-heat: 77
+heat: 78
 published: true
 
 provider:

@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Azure Migrate—Assessment of imported servers is now generally available"
-excerpt: "Assessment of imported servers in Azure Migrate is now generally available."
-publishedDateTime: 2020-06-15T17:00:02Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-migrate-assessment-of-imported-servers-is-now-ga/"
+title: "Azure Private Link for Azure Batch is now generally available in select regions"
+excerpt: "Azure Private Link for Azure Batch is now generally available in the West US 2, East US, South Central US, US Gov Virginia, and US Gov Arizona regions"
+publishedDateTime: 2020-06-16T21:00:05Z
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-for-azure-batch-is-now-generally-available-in-select-regions/"
 type: article
-quality: 77
+quality: 73
 heat: -1
 published: false
 
@@ -35,16 +35,16 @@ related:
         width: 1024
         height: 369
         isCached: true
-  - title: "Azure Private Link for Azure Batch is now generally available in select regions"
-    excerpt: "Azure Private Link for Azure Batch is now generally available in the West US 2, East US, South Central US, US Gov Virginia, and US Gov Arizona regions"
-    publishedDateTime: 2020-06-16T21:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-for-azure-batch-is-now-generally-available-in-select-regions/"
+  - title: "Azure Migrate—Assessment of imported servers is now generally available"
+    excerpt: "Assessment of imported servers in Azure Migrate is now generally available."
+    publishedDateTime: 2020-06-15T17:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-migrate-assessment-of-imported-servers-is-now-ga/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 73
+    quality: 77
 
-secured: "wNRC5VS5ClgJ8+J0aE6PbXSkXCgvfS4g9NjCaCFKSrY349GHj1b3K0dQxRWMpjv9hti1Wyf48zL+bDWicfh7ldT7XmKYiPelVhPShCz14fOAEeS/CY1A0SgcIx63d8sLKiGIbDRxHdO26/69vZbJYxRFbq9a3agCdNVFAt/qdTamHnwoTfRnA752rVNw/muJRd3l5O+gZ3xOiVhifpLeEKbre355t6PtGGnGtir9wgBWildLHP9ouTiBhnlxHIHCIg7mQ+oDnUoV0ZY/8EXJH32ZyAHaqbx4CzBosm8Iulv300nNGEGFsx1Q4B/b1ZahLkH9xVLSqd5tdFDpeSaClw==;UEjdvrUoCoHkQgMbGq2ysQ=="
+secured: "HTA/tvePOTPRsrRSmVC486sf2ItHY2vxjuIr2lF3fBv7vu9tOQIxcDjdjwT6WZ2S8Y+eSjT2nxOnrZNaSwkrgufbP8ZrvOeAY6JwpF1l0HBzOk+k8YqgG6kr7mLnF7611Rn9umCTDpZf6EgAGhT4Kel9VTL6xM3uelVKHswieVKYjYVQxElS+mF8pVVbBZNiHr9QKOnYoW9JYzUYn0hCwN3EPd5j5sXtjumSmM0F6AbZL/3gd3ei1+m3sG/PAYiH3kPIjC9WgYGpMNhspT8PsGERu3lnNyDQ+F0yqhCvCtmKR7DJpNu+rUlZdlfPXOHWEa1ArUZZin8c8mXOCTXeeQ==;Mn5zGf3V/R0sa3LuLS5dlQ=="
 ---
 
