@@ -1,24 +1,27 @@
 ---
 category: news
 title: "Cradlepoint Partners With Rigado to Deliver a Safe Workplace Solution Using NetCloud Edge Containers and Built on Microsoft Azure"
-excerpt: "Microsoft partners are applying their creativity and ingenuity to help organizations manage the COVID-19 pandemic and support return to the workplace scenarios. Rigado and Cradlepoint have built an innovative solution on Azure IoT Central’s secure and scalable foundation to provide the spatial insights and connectivity needed to ensure buildings remain safe,"
-publishedDateTime: 2020-06-11T15:19:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/cradlepoint-partners-with-rigado-to-deliver-a-safe-workplace-solution-using-netcloud-edge-containers-and-built-on-microsoft-azure-1029301304"
+excerpt: "Cradlepoint, the global leader in cloud-delivered LTE and 5G wireless network edge solutions, today announced that Rigado, a leader in low-power edge networks for IoT, joined its Technology Alliance Partner program."
+publishedDateTime: 2020-06-11T15:00:00Z
+webUrl: "https://apnews.com/55957a9682507046cbe183b1debd65ca"
 type: article
-quality: 28
-heat: 28
+quality: 8
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+    title: "Cradlepoint Partners With Rigado to Deliver a Safe Workplace Solution Using NetCloud Edge Containers and Built on Microsoft Azure"
 
 related:
   - title: "MetaMedia And Visaic Launch Global Content Delivery Network Built On Microsoft Azure To Revitalize Cinemas"
@@ -36,6 +39,6 @@ related:
         height: 269
         isCached: true
 
-secured: "M+5LpgD4xOZoSrhrlf40ySF2YsJtFGgrJqHoZPEu29e9lI50z2I54m4WEjQnPXqRgAsxWltbEOa2ARjLv2WSQC8jPtY2G9OwkuOdG8tg6GoM7x24qfPtMnrZATPcz6msyXZwk5tW6u/mQuvS9Arq/AOcWf1wfQWb8jwFXGKzeBx3aJkMgLVC6vxwHg0h0aUihTf0pS8e/6U3wB0QRK50x6fppe93Xlgw/U2K77tLuphomcPKvQgTE0SuBRhGAIt4oGvF1PUhLGM/srHXkln+JoJHCltptVHgYsG65WzzHG5qIxZh5ZcKOdcQg5hJj97QFRbIZPXbWuUP5kniaLpt9Q==;qLeoTpT+kFLNrD50Y279Qg=="
+secured: "UUIbEvueouVzyb3XuLaGhd2YUED2+drYPC7cjRe8Vx0mBL/oK6j+qbC1XoEl2V6txKlgs1hoarY1R2WgSXz8XwNy8zzIMfzPJdpmo3inxtq1z+QdI2GV79ScaiaGTGWp/Ny6kHLNXrGOZ/QBPa3UNIS1FhHPr7tRRyYAZA6CVBe16z0MnNrRIimKqmkw/hJ9fble36EbCJT7fn4+AmrMbWmrJ4wwOhGFyAfNMfrBSqEecgqO3OGdTYYqF9Do+3u4b3wUoiEXqAZEn4r13/RhGbZxrTMFF1UPktFipaGZsRliee3/fKtWaNx0nFmefVOItx/ye+GXTt1qgc+12kEGLQ==;d7OoMvW6m9nUWDJ8UEstJg=="
 ---
 
