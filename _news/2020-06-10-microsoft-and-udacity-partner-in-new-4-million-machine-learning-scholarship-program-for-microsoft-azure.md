@@ -39,6 +39,22 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 94
+  - title: "Microsoft unveils Azure Machine Learning courses and scholarships on Udacity"
+    excerpt: "A newly unveiled introductory course for machine learning on Azure will be available for free on Udacity. A set of chosen top performers will then get scholarships for a more advanced course."
+    publishedDateTime: 2020-06-17T19:16:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-unveils-azure-machine-learning-courses-and-scholarships-on-udacity"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-unveils-azure-machine-learning-courses-and-scholarships-on-udacity/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-unveils-azure-machine-learning-courses-and-scholarships-on-udacity/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 94
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/06/1592419710_microsoft_azure_and_udacity_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
 
 secured: "RpFzuw/yW0H+SsSj4FZTQuh3GCjl3cY1jxwAybs5GuXQNx1ciGvr9/jfKYVpQ0vjhN4PkT7PlqiGKI2KpeCuXD6dZtEbX6VeIgZ4Gk5A3HCkkPNYIZbcmTP0yfHNKtQznGmDPWyd0u/++guU5hsAZNdLd12YcG7MopLgyNXSho/J/uBD35evNkLdnXhJtSaQsRR66PoHS4e6xGULjGSE7Uoa1HJsuTTRuV9hAhuVQVJjcLOkIqc9TMu5ucyd/QL+X9jE4UMhWZriVnl4STwlSUzcUTIAk/AMk3vyHa/YrQtO9nwjIEsBvJ4ggIdDWvdwYwInb/3ISde0Z0A5wNyMmzNHzxPRLSXYS21w3HxHok1Ca2IU+tarL42ErxIylZ5q2m3IqP98CqAmPyMbekk4OUGT+bhpiDKLg90IR7crPeAtaaDIm4xU/+Rr0IZ6V6tDBc7GNcrlJ6KFo+y0tANrUkw4gYR1rFMuJ0l3GvF3DxFgMBadgZa0yyaYOBqJda7T;pYOT3vzar//sChbomAk/fw=="
 ---
