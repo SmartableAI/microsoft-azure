@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-5g-a
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-5g-and-hybrid-cloud-what-you-need-to-know/"
 type: article
 quality: 97
-heat: 118
+heat: 138
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     title: "Microsoft Azure, 5G and hybrid cloud: What you need to know"
 
 related:
+  - title: "Migrating to Microsoft Azure"
+    excerpt: "One of the first things cloud architect Bill Zack did after moving from Connecticut to Nashville in 2013 was to form a Microsoft Azure User Group. Launched with just four initial members ..."
+    publishedDateTime: 2020-06-06T00:00:00Z
+    webUrl: "https://sdtimes.com/msft/migrating-to-microsoft-azure/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 77
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2018/06/migration.jpg"
+        width: 660
+        height: 371
+        isCached: true
   - title: "Microsoft boosts UK cloud computing with Azure launches"
     excerpt: "Microsoft has launched ten new cloud computing services for its UK Azure regions, the company has confirmed in a blog post. Among the services are three new cybersecurity tools which, according to Microsoft,"
     publishedDateTime: 2020-05-26T11:30:00Z

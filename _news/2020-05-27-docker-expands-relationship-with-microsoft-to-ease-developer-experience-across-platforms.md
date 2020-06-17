@@ -7,8 +7,8 @@ webUrl: "https://techcrunch.com/2020/05/27/docker-expands-relationship-with-micr
 ampWebUrl: "https://techcrunch.com/2020/05/27/docker-expands-relationship-with-microsoft-to-ease-developer-experience-across-platforms/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/27/docker-expands-relationship-with-microsoft-to-ease-developer-experience-across-platforms/amp/"
 type: article
-quality: 73
-heat: 173
+quality: 75
+heat: 135
 published: true
 
 provider:
@@ -46,34 +46,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2019/02/power-of-one_rebel_fight_strong_rise-up_arm_fist_power-100788748-large.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Docker and Microsoft join forces to simplify container projects on Azure"
-    excerpt: "Its partnership with Docker dates back to the earliest days of the effort. The collaboration the companies announced today focuses on easing the logistics involved in developing microservices-based applications for cloud environments."
-    publishedDateTime: 2020-05-27T20:23:00Z
-    webUrl: "https://siliconangle.com/2020/05/27/docker-microsoft-join-forces-simplify-container-projects-azure/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/Johnston-768x512.jpg"
-        width: 768
-        height: 512
-        isCached: true
-  - title: "Docker Extends Collaboration with Microsoft Azure to Boost Developer Productivity"
-    excerpt: "Docker today announced that it has extended its strategic collaboration with Microsoft to simplify code to cloud application development for developers and development teams by more closely integrating with Azure Container Instances (ACI)."
-    publishedDateTime: 2020-05-27T16:00:00Z
-    webUrl: "https://apnews.com/2fe98091652be001e8637122249be3f6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 32
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "DevOps Enabler & Co. achieves a Microsoft Gold DevOps and Cloud Platform Competency"
     excerpt: "DevOps Enabler & Co., the company behind an exclusive startup bundle for organizations that want to scale their operations, today announced it has attained a gold Microsoft DevOps and Cloud Platform competency,"

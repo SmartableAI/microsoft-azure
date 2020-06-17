@@ -24,140 +24,50 @@ images:
     title: "Microsoft Azure Active Directory (Azure AD)"
 
 related:
-  - title: "13 ways Microsoft Azure beats AWS"
-    excerpt: "From Visual Studio integration to powerful machine learning APIs, you have more than a dozen reasons to choose Azure over AWS"
-    publishedDateTime: 2020-06-01T10:13:00Z
-    webUrl: "https://www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.html"
-    ampWebUrl: "https://www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.amp.html"
+  - title: "Quantum Computing Trifecta Previewed On Microsoft Azure Quantum At Build 202"
+    excerpt: "Goodson gives his take on this year's Microsoft Build 2020. Along with other announcements, Microsoft highlighted Azure Quantum."
+    publishedDateTime: 2020-06-02T17:04:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2020/06/02/quantum-computing-trifecta-previewed-on-microsoft-azure-quantum-at-build-202/"
+    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2020/06/02/quantum-computing-trifecta-previewed-on-microsoft-azure-quantum-at-build-202/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/06/02/quantum-computing-trifecta-previewed-on-microsoft-azure-quantum-at-build-202/amp/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 97
+      name: Forbes
+      domain: forbes.com
+    quality: 94
     images:
-      - url: "https://images.idgesg.net/images/article/2019/02/cloud_comput_connect_blue-100787048-large.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed684ac10716f0007411961%2F0x0.jpg"
+        width: 732
+        height: 435
+        isCached: true
+  - title: "Microsoft Build 2020: Supercomputers, Unified Office, and Healthcare"
+    excerpt: "Microsoft's build conference kicked off this year as a fully remote event, with keynotes, panels, and even breakout tutorials all online. During the conference, we saw updates to Microsoft's \"Fluid Framework\" which aims to unify all Office 365 apps into a single program,"
+    publishedDateTime: 2020-05-26T21:41:00Z
+    webUrl: "https://www.engadget.com/video/5ec71d36b8187a4322e7a6f6/"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 62
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=95&image_uri=https%3A%2F%2Fimg.vidible.tv%2Fprod%2F2020-05%2F22%2F5ec71d36b8187a4322e7a6f6%2F5ec71f116cc8f4239d91772d_o_U_v1.png&client=amp-blogside-v2&signature=114b7f5e938ca204345bbd81a0b26fb72ddb3d37"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Microsoft and Docker collaborate on new ways to deploy containers on Azure"
-    excerpt: "Now more than ever, developers need agility to meet rapidly increasing demands from customers. Containerization is one key way to increase agility. Containerized applications are built in a more consistent and repeatable way, by way of defining desired infrastructure, dependencies, and configuration"
-    publishedDateTime: 2020-05-27T14:00:04Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-and-docker-collaborate-on-new-ways-to-deploy-containers-on-azure/"
+  - title: "Microsoft Build 2020: Highlights"
+    excerpt: "Microsoft held the 10th edition of Build, its annual conference aimed at developers using Microsoft technologies. The online event included multiple important announcements and releases, such as the general availability of Blazor WebAssembly,"
+    publishedDateTime: 2020-05-27T10:07:00Z
+    webUrl: "https://www.infoq.com/news/2020/05/microsoft-build-2020-highlights/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 95
+      name: InfoQ
+      domain: infoq.com
+    quality: 22
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c2dfbf4e-3ca4-42c1-acec-cd89fd674efb.gif"
-        width: 1920
-        height: 1080
+      - url: "https://cdn.infoq.com/statics_s2_20200525085632/styles/static/images/logo/logo-big.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Migrating to Microsoft Azure"
-    excerpt: "One of the first things cloud architect Bill Zack did after moving from Connecticut to Nashville in 2013 was to form a Microsoft Azure User Group. Launched with just four initial members ..."
-    publishedDateTime: 2020-06-06T00:00:00Z
-    webUrl: "https://sdtimes.com/msft/migrating-to-microsoft-azure/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 77
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2018/06/migration.jpg"
-        width: 660
-        height: 371
-        isCached: true
-  - title: "Backup to Microsoft Azure with Veeam Direct Restore"
-    excerpt: "Of the cloud solutions available on the market, Microsoft Azure stands out as an excellent choice. Created by one of the giants of global tech, Azure is an all-encompassing cloud platform that is ..."
-    publishedDateTime: 2020-05-27T08:16:00Z
-    webUrl: "https://mybroadband.co.za/news/industrynews/353659-backup-to-microsoft-azure-with-veeam-direct-restore.html"
-    ampWebUrl: "https://mybroadband.co.za/news/industrynews/353659-backup-to-microsoft-azure-with-veeam-direct-restore.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/353659-backup-to-microsoft-azure-with-veeam-direct-restore.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 57
-    images:
-      - url: "https://mybroadband.co.za/news/wp-content/uploads/2020/03/Picture1-2-640x359.png"
-        width: 640
-        height: 359
-        isCached: true
-  - title: "Microsoft and Oracle to interconnect Microsoft Azure and Oracle Cloud"
-    excerpt: "Before it's here, it's on the Bloomberg Terminal."
-    publishedDateTime: 2020-05-31T18:14:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2019-06-05/microsoft-and-oracle-to-interconnect-microsoft-azure-and-oracle-cloud"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 57
-  - title: "NXP expands partnership with Microsoft Azure RTOS"
-    excerpt: "NXP Semiconductors has expanded its partnership with Microsoft to bring Microsoft Azure real-time operating system (RTOS) to a broader range of processing solutions from its EdgeVerse portfolio."
-    publishedDateTime: 2020-05-27T15:40:00Z
-    webUrl: "https://roboticsandautomationnews.com/2020/05/27/nxp-expands-partnership-with-microsoft-azure-rtos/32528/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 37
-    images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/05/microsoft-rtos-netx-duo.png"
-        width: 954
-        height: 541
-        isCached: true
-  - title: "Microsoft Azure Heads IoT Platform Research Report, Edging AWS"
-    excerpt: "Microsoft Azure outpaced perennial cloud computing champion Amazon Web Services (AWS) as the top Internet of Things (IoT) platform in a new research report."
-    publishedDateTime: 2020-05-29T22:11:00Z
-    webUrl: "https://virtualizationreview.com/articles/2020/05/29/cloud-iot-report.aspx"
-    type: article
-    provider:
-      name: Virtualization Review
-      domain: virtualizationreview.com
-    quality: 37
-    images:
-      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN1BlueSquaresWhiteSpotsAbstract.jpg"
-        width: 647
-        height: 450
-        isCached: true
-  - title: "RapidAPI adds Microsoft Azure Cognitive Services to its Marketplace"
-    excerpt: "RapidAPI has added a dozen Microsoft Azure Cognitive Services to its Marketplace including APIs for Vision, Language, Web Search, and Decision."
-    publishedDateTime: 2020-05-29T00:36:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/05/29/rapidapi-microsoft-azure-cognitive-services/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 37
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
-        width: 304
-        height: 430
-        isCached: true
-  - title: "Cryptomathic ports key control to Microsoft Azure"
-    excerpt: "Cryptography solutions pioneer, Cryptomathic, has today enabled its client banks and other security-sensitive businesses to leverage Microsoft Azure’s platform while retaining lifecycle control of critical keys,"
-    publishedDateTime: 2020-06-02T09:32:00Z
-    webUrl: "https://www.finextra.com/pressarticle/82734/cryptomathic-ports-key-control-to-microsoft-azure"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 37
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "Europe’s Gaia-X Counters Amazon AWS, Microsoft Azure, Google Cloud"
-    excerpt: "X, backed by European governments & local technology companies, seeks to offer open standards alternatives to Amazon AWS, Microsoft Azure, Google Cloud Platform & Alibaba Cloud."
-    publishedDateTime: 2020-06-05T15:28:00Z
-    webUrl: "https://www.channele2e.com/channel-partners/csps/europes-gaia-x-counters-aws-azure-google-cloud/"
-    type: article
-    provider:
-      name: ChannelE2E
-      domain: channele2e.com
-    quality: 17
 
 secured: "LOevIi67ZLVccaEbsvP+lj1+aTEkM+UbnMw3Xq4xvx3tkualT7NpZlPaNBfmXcylhumvhzHy9zoSxe3Jv8/NJzIa8XCDXfjy8KUwU7hNgklwRZs5YN4Voxm2WmhHoTNn2h2xjt8qn0Cd9vPx/qm35Lr4RCz52cew/L943GRVtPgGG7ZgCReVp9T7viBXwCStUGtGkoRJGtqnm4k4HwpftMTTP3fjfZ66S0kYfMO8erx8yAbqBk+RlPSB+v9CU+OElW800g8YegFlR4kJwg34FgUIUjBdHTQz55YLNowz+Etqs3/gxC7npS/5tZuBQMC8NlzQBQvhvD5D2qMhXXoM3adt7jS3liemySse1VEx+Bc7WiW2Sl0z5HVrYnIFOKz18F8Z9IbcuMEb+vg90rcAUqXUvFPBHbDFifmQgYKdWtjYnjQc0/U/H7Mng5LMn7h/EIW7ElgJXC5LagULiXiRTTbZaBFhZyjXZ4mrkb43F5g=;7afOeTRVkX4qfmdSK7XcOQ=="
 ---

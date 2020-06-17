@@ -24,50 +24,6 @@ images:
     title: "Cryptomathic ports key control to Microsoft Azure"
 
 related:
-  - title: "13 ways Microsoft Azure beats AWS"
-    excerpt: "From Visual Studio integration to powerful machine learning APIs, you have more than a dozen reasons to choose Azure over AWS"
-    publishedDateTime: 2020-06-01T10:13:00Z
-    webUrl: "https://www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.html"
-    ampWebUrl: "https://www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 97
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/02/cloud_comput_connect_blue-100787048-large.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Microsoft and Docker collaborate on new ways to deploy containers on Azure"
-    excerpt: "Now more than ever, developers need agility to meet rapidly increasing demands from customers. Containerization is one key way to increase agility. Containerized applications are built in a more consistent and repeatable way, by way of defining desired infrastructure, dependencies, and configuration"
-    publishedDateTime: 2020-05-27T14:00:04Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-and-docker-collaborate-on-new-ways-to-deploy-containers-on-azure/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 95
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c2dfbf4e-3ca4-42c1-acec-cd89fd674efb.gif"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Migrating to Microsoft Azure"
-    excerpt: "One of the first things cloud architect Bill Zack did after moving from Connecticut to Nashville in 2013 was to form a Microsoft Azure User Group. Launched with just four initial members ..."
-    publishedDateTime: 2020-06-06T00:00:00Z
-    webUrl: "https://sdtimes.com/msft/migrating-to-microsoft-azure/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 77
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2018/06/migration.jpg"
-        width: 660
-        height: 371
-        isCached: true
   - title: "Backup to Microsoft Azure with Veeam Direct Restore"
     excerpt: "Of the cloud solutions available on the market, Microsoft Azure stands out as an excellent choice. Created by one of the giants of global tech, Azure is an all-encompassing cloud platform that is ..."
     publishedDateTime: 2020-05-27T08:16:00Z
@@ -84,80 +40,43 @@ related:
         width: 640
         height: 359
         isCached: true
-  - title: "Microsoft and Oracle to interconnect Microsoft Azure and Oracle Cloud"
-    excerpt: "Before it's here, it's on the Bloomberg Terminal."
-    publishedDateTime: 2020-05-31T18:14:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2019-06-05/microsoft-and-oracle-to-interconnect-microsoft-azure-and-oracle-cloud"
+  - title: "RateLinx completes migration to Microsoft Azure to better serve customers"
+    excerpt: "RateLinx announced today the completion of the migration to the Microsoft Azure cloud computing platform. The migration will enable more capabilities within the RateLinx suite of cloud-based logistics solutions,"
+    publishedDateTime: 2020-05-22T00:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ratelinx-completes-migration-to-microsoft-azure-to-better-serve-customers-1029225453"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 57
-  - title: "NXP expands partnership with Microsoft Azure RTOS"
-    excerpt: "NXP Semiconductors has expanded its partnership with Microsoft to bring Microsoft Azure real-time operating system (RTOS) to a broader range of processing solutions from its EdgeVerse portfolio."
-    publishedDateTime: 2020-05-27T15:40:00Z
-    webUrl: "https://roboticsandautomationnews.com/2020/05/27/nxp-expands-partnership-with-microsoft-azure-rtos/32528/"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
+  - title: "Veeam Backup For Microsoft Azure Overview"
+    excerpt: "With the Veeam Backup for Microsoft Azure, Veeam strengthens its data protection offering and supports enterprises to move applications & data to Azure."
+    publishedDateTime: 2020-05-22T20:17:00Z
+    webUrl: "https://www.storagereview.com/review/veeam-backup-for-microsoft-azure-overview"
     type: article
     provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
+      name: StorageReview
+      domain: storagereview.com
     quality: 37
     images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/05/microsoft-rtos-netx-duo.png"
-        width: 954
-        height: 541
+      - url: "https://www.storagereview.com/wp-content/uploads/2020/05/StorageReview-Veeam-Azure-Intro.jpg"
+        width: 700
+        height: 439
         isCached: true
-  - title: "Microsoft Azure Heads IoT Platform Research Report, Edging AWS"
-    excerpt: "Microsoft Azure outpaced perennial cloud computing champion Amazon Web Services (AWS) as the top Internet of Things (IoT) platform in a new research report."
-    publishedDateTime: 2020-05-29T22:11:00Z
-    webUrl: "https://virtualizationreview.com/articles/2020/05/29/cloud-iot-report.aspx"
+  - title: "RateLinx completes migration to Microsoft Azure to better serve customers"
+    excerpt: "MADISON, WI (May 21, 2020) – RateLinx announced today the completion of the migration to the Microsoft Azure cloud computing platform. The migration will enable more capabilities within the RateLinx suite of cloud-based logistics solutions, in addition ..."
+    publishedDateTime: 2020-05-21T23:34:00Z
+    webUrl: "https://www.dcvelocity.com/articles/46116-ratelinx-completes-migration-to-microsoft-azure-to-better-serve-customers"
     type: article
     provider:
-      name: Virtualization Review
-      domain: virtualizationreview.com
-    quality: 37
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 36
     images:
-      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN1BlueSquaresWhiteSpotsAbstract.jpg"
-        width: 647
-        height: 450
+      - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/0bef1a3f-3524-4a47-91e5-78466728c9a3.png?height=635&t=1590129628&width=1200"
+        width: 600
+        height: 201
         isCached: true
-  - title: "RapidAPI adds Microsoft Azure Cognitive Services to its Marketplace"
-    excerpt: "RapidAPI has added a dozen Microsoft Azure Cognitive Services to its Marketplace including APIs for Vision, Language, Web Search, and Decision."
-    publishedDateTime: 2020-05-29T00:36:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/05/29/rapidapi-microsoft-azure-cognitive-services/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 37
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
-        width: 304
-        height: 430
-        isCached: true
-  - title: "Microsoft Azure Active Directory (Azure AD)"
-    excerpt: "There is no shortage of online forums to help troubleshoot Azure AD. Virtually limitless integrations. Azure Active Directory is a cloud-based identity and access management service that covers a broad range of authentication scenarios, user types, and developer authentication abilities. Its single sign-on makes for a seamless end-user ..."
-    publishedDateTime: 2020-06-02T08:35:00Z
-    webUrl: "https://www.scmagazine.com/review/microsoft-azure-active-directory-azure-ad/"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 37
-    images:
-      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/06/Microsoft-Identity-Mgt-Image_June2020.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Europe’s Gaia-X Counters Amazon AWS, Microsoft Azure, Google Cloud"
-    excerpt: "X, backed by European governments & local technology companies, seeks to offer open standards alternatives to Amazon AWS, Microsoft Azure, Google Cloud Platform & Alibaba Cloud."
-    publishedDateTime: 2020-06-05T15:28:00Z
-    webUrl: "https://www.channele2e.com/channel-partners/csps/europes-gaia-x-counters-aws-azure-google-cloud/"
-    type: article
-    provider:
-      name: ChannelE2E
-      domain: channele2e.com
-    quality: 17
 
 secured: "KAymOanr46vomLbVaEtjqPDheeHpypy8HhYcnunv3+cxpkKK01HefTcCIQvyYd4dYJW6Kmbq+/TqTYflsXnZHsL0J+bULZtmYqH663JI5HFs9wJ0YVRuMbyjmhMO7P9hQ4Uixhk0p8BEq8OvyEsyI1s0bnF8eP5hBCjlHtQInR5Ns6KYmTtWm4Dm05Nyky8h00qn33ZVMegR71/JIZSFKRLoo2lk5RotZO96Xzxb34zevH+fX4bQOv/A2v7/xF9sKOSVO8gA7rIAKvnV2yYxKSCPXkKgsw9nEuFIug6O/hC6beM0GmGyO4kOSwgXsulW;ntJrLnfRJSMWlXTkQFI5zA=="
 ---

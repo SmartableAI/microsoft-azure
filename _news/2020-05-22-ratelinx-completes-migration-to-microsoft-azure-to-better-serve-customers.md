@@ -6,8 +6,8 @@ publishedDateTime: 2020-05-22T00:21:00Z
 webUrl: "https://markets.businessinsider.com/news/stocks/ratelinx-completes-migration-to-microsoft-azure-to-better-serve-customers-1029225453"
 type: article
 quality: 56
-heat: 116
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -21,6 +21,50 @@ topics:
   - Azure
 
 related:
+  - title: "Backup to Microsoft Azure with Veeam Direct Restore"
+    excerpt: "Of the cloud solutions available on the market, Microsoft Azure stands out as an excellent choice. Created by one of the giants of global tech, Azure is an all-encompassing cloud platform that is ..."
+    publishedDateTime: 2020-05-27T08:16:00Z
+    webUrl: "https://mybroadband.co.za/news/industrynews/353659-backup-to-microsoft-azure-with-veeam-direct-restore.html"
+    ampWebUrl: "https://mybroadband.co.za/news/industrynews/353659-backup-to-microsoft-azure-with-veeam-direct-restore.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/353659-backup-to-microsoft-azure-with-veeam-direct-restore.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 57
+    images:
+      - url: "https://mybroadband.co.za/news/wp-content/uploads/2020/03/Picture1-2-640x359.png"
+        width: 640
+        height: 359
+        isCached: true
+  - title: "Veeam Backup For Microsoft Azure Overview"
+    excerpt: "With the Veeam Backup for Microsoft Azure, Veeam strengthens its data protection offering and supports enterprises to move applications & data to Azure."
+    publishedDateTime: 2020-05-22T20:17:00Z
+    webUrl: "https://www.storagereview.com/review/veeam-backup-for-microsoft-azure-overview"
+    type: article
+    provider:
+      name: StorageReview
+      domain: storagereview.com
+    quality: 37
+    images:
+      - url: "https://www.storagereview.com/wp-content/uploads/2020/05/StorageReview-Veeam-Azure-Intro.jpg"
+        width: 700
+        height: 439
+        isCached: true
+  - title: "Cryptomathic ports key control to Microsoft Azure"
+    excerpt: "Cryptography solutions pioneer, Cryptomathic, has today enabled its client banks and other security-sensitive businesses to leverage Microsoft Azure’s platform while retaining lifecycle control of critical keys,"
+    publishedDateTime: 2020-06-02T09:32:00Z
+    webUrl: "https://www.finextra.com/pressarticle/82734/cryptomathic-ports-key-control-to-microsoft-azure"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 37
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "RateLinx completes migration to Microsoft Azure to better serve customers"
     excerpt: "MADISON, WI (May 21, 2020) – RateLinx announced today the completion of the migration to the Microsoft Azure cloud computing platform. The migration will enable more capabilities within the RateLinx suite of cloud-based logistics solutions, in addition ..."
     publishedDateTime: 2020-05-21T23:34:00Z
@@ -35,24 +79,6 @@ related:
         width: 600
         height: 201
         isCached: true
-  - title: "Netcracker Offers AI-Driven Digital BSS/OSS to Microsoft Azure"
-    excerpt: "Netcracker Technology announced today it is working with Microsoft to offer its Digital BSS/OSS and Orchestration applications on Microsoft Azure. Netcracker is collaborating with Microsoft to integrate Azure Machine Learning (ML) and AI services with Netcracker’s Advanced Analytics to add intelligent contextual decisioning and recommendations to enable more personalized customer"
-    publishedDateTime: 2020-05-14T09:16:00Z
-    webUrl: "https://www.totaltele.com/505911/Netcracker-Offers-AI-Driven-Digital-BSSOSS-to-Microsoft-Azure"
-    type: article
-    provider:
-      name: Total Telecom
-      domain: totaltele.com
-    quality: 17
-  - title: "FedEx, Microsoft to collaborate on commerce"
-    excerpt: "Fedex (NYSE:FDX) and Microsoft (NASDAQ:MSFT) sign new multiyear collaboration, bringing MSFT's intelligent cloud to the logistics network.Shares of FDX are up 4% premarket, MSFT is up 1.5%.FedEx Surro"
-    publishedDateTime: 2020-05-18T13:19:00Z
-    webUrl: "https://seekingalpha.com/news/3575525-fedex-microsoft-to-collaborate-on-commerce"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 2
 
 secured: "AaiDLWvPx3gJsL4uIQ5q4yiX9ktVmAJGxGEqlS+zu0KZpbZwHlT/WKZRcmuTb+6vfLtw2B/ZfGwabOCqTJM/tzeeT6bCkzB9Lp9JRfh2L5Is6xj/fUijQOOi5rWlxGqZemEry6MzMUYWZGivNjyDNmkRJTWoQxPzK49Mm88SmNBfZzGKO8Uw7EWBCq+ZvvZKOstxLvQLBtvzQplunutp4ct3qJ6Np1zF1Y0zA8I16jg6pzWbgSaCQq6KcbXe0ri6MqezEB+X3L7V5sMhDBuRh/hoBvqOZ5nUGFEqgc2+f6rhTuAARyXI3NODX3XNj9gr;DSslrPWsB7i7FSdwMylNOQ=="
 ---

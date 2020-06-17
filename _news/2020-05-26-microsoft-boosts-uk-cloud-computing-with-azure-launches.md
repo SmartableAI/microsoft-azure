@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 815
         isCached: true
+  - title: "Migrating to Microsoft Azure"
+    excerpt: "One of the first things cloud architect Bill Zack did after moving from Connecticut to Nashville in 2013 was to form a Microsoft Azure User Group. Launched with just four initial members ..."
+    publishedDateTime: 2020-06-06T00:00:00Z
+    webUrl: "https://sdtimes.com/msft/migrating-to-microsoft-azure/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 77
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2018/06/migration.jpg"
+        width: 660
+        height: 371
+        isCached: true
 
 secured: "ytio/KPcuezPqnyS1hP+hc7x2Jqd/SwyoAc6NH8fGfiuHnXnEMuiLDsFf7ssbhfBjhzR50PQx61NAafK8Yeg7E520RlgmufVC2RW5GIMTwpBLm1yBXpBBXTquu+MGdWq85nQMAnrw4oldRKW5ak2PGZpoJJurOU/tdeD3S0qcGomj/JBAhUmzRndf+g3Q87/Zc81OlJrJ5DYBq+fTk5FuhplqWORe2WP8P2Bq95TBUBTDgPhV9F6YN0aOdbDo00cc9gSvBv+tOOl5APlF4HeCzsbmhRi2ArL00BLuu3qbNK140iPSJtgcSvJpSPjybB3QoZTM10JLoB4YK2Bxa4OOcXq8A+LO6/rYG6RRHhMuRFbOyNfzmci68VNlomcD1nj3biD89eGOOVJyRkbSu0a6JnxozAKIGSmzHg5cSDp4EzaOHRGWxBTgxbTi+0bIIEco46QsPpQ0mEk4VqSsFCW2hqu7AsKESCcj1eZ2rIy9s8=;QfZfn7XgoJ+3ibPiGzunFw=="
 ---

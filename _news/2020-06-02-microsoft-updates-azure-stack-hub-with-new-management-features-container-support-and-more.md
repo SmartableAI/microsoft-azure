@@ -24,6 +24,54 @@ images:
     title: "Microsoft Updates Azure Stack Hub with New Management Features, Container Support and More"
 
 related:
+  - title: "Microsoft and Docker collaborate on new ways to deploy containers on Azure"
+    excerpt: "Now more than ever, developers need agility to meet rapidly increasing demands from customers. Containerization is one key way to increase agility. Containerized applications are built in a more consistent and repeatable way, by way of defining desired infrastructure, dependencies, and configuration"
+    publishedDateTime: 2020-05-27T14:00:04Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-and-docker-collaborate-on-new-ways-to-deploy-containers-on-azure/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 112
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c2dfbf4e-3ca4-42c1-acec-cd89fd674efb.gif"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "13 ways Microsoft Azure beats AWS"
+    excerpt: "From Visual Studio integration to powerful machine learning APIs, you have more than a dozen reasons to choose Azure over AWS"
+    publishedDateTime: 2020-06-01T10:13:00Z
+    webUrl: "https://www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.html"
+    ampWebUrl: "https://www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 97
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/02/cloud_comput_connect_blue-100787048-large.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft and Oracle to interconnect Microsoft Azure and Oracle Cloud"
+    excerpt: "Before it's here, it's on the Bloomberg Terminal."
+    publishedDateTime: 2020-05-31T18:14:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2019-06-05/microsoft-and-oracle-to-interconnect-microsoft-azure-and-oracle-cloud"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 57
+  - title: "TIBCO Delivers Advanced Cognitive Services on Microsoft Azure to Joint Customers"
+    excerpt: "Leveraging AI at the Edge and in Containers Fuels Timely and Responsive Analytics Business Wire PA"
+    publishedDateTime: 2020-06-02T12:19:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-06-02/tibco-delivers-advanced-cognitive-services-on-microsoft-azure-to-joint-customers"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 52
   - title: "Docker announces tighter integration with Azure Container Instances and Visual Studio Code"
     excerpt: "Microsoft and Docker today announced extended collaboration to simplify cloud development for developers. As part of this extended collaboration, Docker today announced closer integration with Azure Container Instances and Visual Studio Code."
     publishedDateTime: 2020-05-27T16:40:00Z
@@ -40,19 +88,33 @@ related:
         width: 1813
         height: 1195
         isCached: true
-  - title: "Heritage Insurance Upgrades to Version 11 of Majesco Claims for P&C and Transitions to Majesco CloudInsurer® on Microsoft Azure"
-    excerpt: "Majesco (NASDAQ: MJCO), a global leader of cloud insurance software, today announced that Heritage completed its upgrade to version 11 on April 25, 20"
-    publishedDateTime: 2020-05-27T21:25:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200527005792/en/Heritage-Insurance-Upgrades-Version-11-Majesco-Claims"
+  - title: "Docker and Microsoft join forces to simplify container projects on Azure"
+    excerpt: "Its partnership with Docker dates back to the earliest days of the effort. The collaboration the companies announced today focuses on easing the logistics involved in developing microservices-based applications for cloud environments."
+    publishedDateTime: 2020-05-27T20:23:00Z
+    webUrl: "https://siliconangle.com/2020/05/27/docker-microsoft-join-forces-simplify-container-projects-azure/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 9
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
     images:
-      - url: "https://mms.businesswire.com/media/20200527005792/en/709834/23/Majesco_Logo_Transparent_Purple.jpg"
-        width: 1200
-        height: 627
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/Johnston-768x512.jpg"
+        width: 768
+        height: 512
+        isCached: true
+  - title: "Docker Extends Collaboration with Microsoft Azure to Boost Developer Productivity"
+    excerpt: "Docker today announced that it has extended its strategic collaboration with Microsoft to simplify code to cloud application development for developers and development teams by more closely integrating with Azure Container Instances (ACI)."
+    publishedDateTime: 2020-05-27T16:00:00Z
+    webUrl: "https://apnews.com/2fe98091652be001e8637122249be3f6"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "BYtlr1gi+uGGqUMvXuYpJI9UKF76oevwSID/KAmwaYeKw1ttq/Pr7U8sFYTKE2UGkTOKnbzeXlCNMT7HLGCQJHvriFSTK0Hmq9d9p8lmKiRKxAD5ykq95IiCQU6bnHjXRCMubozWuVJ7IWtdSnnxGhqvA5D7O2S4v3y7q8w+4ah+Nzur9RD/L4NItwI+bh6AhD/vbrVGxJTFzX6PCWtDfZlmwFBwphGfoyzvkevfo5p4BlAty2vldpyB+oMPtXZpqDf2JEsvvZVoPKMMLhgIPyWM3Nrn7VlZbqzW7vURhJWx4gYR4uGchMszeTy5MPYwDc/ut96YB/K/3wSOZQm5nJDfqyVyOHrMoapuKe/Vr2ioyxzlrMOcWJJxJThUGYsaP/m5LpZwpnM+jbduUD6ZgB0g8yZ1/cSlfAG4QJnRLl6+X4rsku6BkwhO//1Ya9FmgTNj+qlEVOsQq4+O6Q9aj+0QsbVX0gHZ+Mg98Lq1YyQ=;JmOkwYfvtB/4BDIrEN9JDg=="

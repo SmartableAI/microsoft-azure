@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2020/06/02/quantum-computi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/06/02/quantum-computing-trifecta-previewed-on-microsoft-azure-quantum-at-build-202/amp/"
 type: article
 quality: 94
-heat: 134
+heat: 154
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=95&image_uri=https%3A%2F%2Fimg.vidible.tv%2Fprod%2F2020-05%2F22%2F5ec71d36b8187a4322e7a6f6%2F5ec71f116cc8f4239d91772d_o_U_v1.png&client=amp-blogside-v2&signature=114b7f5e938ca204345bbd81a0b26fb72ddb3d37"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Microsoft Azure Active Directory (Azure AD)"
+    excerpt: "There is no shortage of online forums to help troubleshoot Azure AD. Virtually limitless integrations. Azure Active Directory is a cloud-based identity and access management service that covers a broad range of authentication scenarios, user types, and developer authentication abilities. Its single sign-on makes for a seamless end-user ..."
+    publishedDateTime: 2020-06-02T08:35:00Z
+    webUrl: "https://www.scmagazine.com/review/microsoft-azure-active-directory-azure-ad/"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 37
+    images:
+      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/06/Microsoft-Identity-Mgt-Image_June2020.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Microsoft Build 2020: Highlights"
     excerpt: "Microsoft held the 10th edition of Build, its annual conference aimed at developers using Microsoft technologies. The online event included multiple important announcements and releases, such as the general availability of Blazor WebAssembly,"

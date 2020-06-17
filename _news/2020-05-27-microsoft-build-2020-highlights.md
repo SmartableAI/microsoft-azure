@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft Azure Active Directory (Azure AD)"
+    excerpt: "There is no shortage of online forums to help troubleshoot Azure AD. Virtually limitless integrations. Azure Active Directory is a cloud-based identity and access management service that covers a broad range of authentication scenarios, user types, and developer authentication abilities. Its single sign-on makes for a seamless end-user ..."
+    publishedDateTime: 2020-06-02T08:35:00Z
+    webUrl: "https://www.scmagazine.com/review/microsoft-azure-active-directory-azure-ad/"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 37
+    images:
+      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/06/Microsoft-Identity-Mgt-Image_June2020.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "dHa2TZG8lUzolWVzuwFmODViGYwCbM9XgNXhYJxvu34SUEsRAxwxIXamOGwX0q++U2S0Ksb5C+6a9yY9bweCDNpGSvNN7dB0xIHWCH9EeAzhe+WHbjGOq17ctuQQNROeNJ8HocGRuYHwVVAOWXMSubu+Z6iRE9Bd49vuFHhiFToyMSdlzx3cxiwNLbK6rjOX8rySw0bCKXZ5nOfvYOMwd9gvjUYW6G8dXuMb2fsnQNz/mAOaeF2NnF6BBwPNmZQwvcWx2+SQ/cSO/f2/L3Ln3Fl8mb4ANCFGoE6ERFsSXx40/UfbXw57kOvCa7W1vGTYfPd8DzMPQwA6Q0Pj6Eycv1JE+kXB+EgEOntOBVs4B/w8sjCMYEn4rKu2seQFETsZYjWdVkdpX3ap0RR5SS0FQOvaw3WRZN3botNJ+0R4dfpeapRj8IJSUMYbhfdZOpfMOycWQEUV/mJ5eps0xGEbpSgzQ+O8D1tBnBShJQX3i2c=;BAs8OpS+Xb3NvoAKJ6hxoQ=="
 ---
