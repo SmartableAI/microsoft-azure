@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-goes-public-with-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-goes-public-with-more-of-its-azure-capacity-improvement-plans/"
 type: article
 quality: 77
-heat: 77
+heat: 97
 published: true
 
 provider:
@@ -21,6 +21,22 @@ provider:
 
 topics:
   - Azure
+
+related:
+  - title: "Microsoft Azure CTO Mark Russinovich Gets Technical About Pandemic Capacity Fixes"
+    excerpt: "By Donna Goodison June 16, 2020, 07:25 PM EDT Microsoft Azure added 12 new edge sites around the world and increased its peering capacity by 25 percent to expand its wide area network after customers’ cloud usage surged following stay-at-home orders ..."
+    publishedDateTime: 2020-06-16T23:33:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-azure-cto-mark-russinovich-gets-technical-about-pandemic-capacity-fixes"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 32
+    images:
+      - url: "https://www.crn.com/resources/025e-0fab3210f09d-63433e018efd-1000/cloud-mobility-touch400.jpg"
+        width: 397
+        height: 397
+        isCached: true
 
 secured: "C0+HKKYZ+u+ZSn2Y16bcrwzBUkpULKWzSNR3R9cgu70MkbIgbxLr6mY2S1pUNyGgzSDwFlVLiEZJHsWLc6PdX4xMyMrWCAg/eX03BFcQoByVl8zTv3+tuxEhraX9pfHconnxs4wnr/kIGdGjPiiicKSMqT3T/x6nrAX9jkpezx5RS2ZJQBnQY0M640Wrdxt2XplUDeYGluCl5WqMa1NvUiF6XI46PfO1eQvYWS802HXf2PtMsOTzVBRLnH6xlJkBOdi45ElSRlNDqJCvRdqx4v9lBzHS5vJeOjiaKGM5P/f85gFmuGws29FnxQU//1S3qC7EVa/Z1Iq2QpvsxO9Ah5GUgaR/IEZpF9pRbYcZUYyF2nYUmhcpIl6dAotdfq+gynWMdnNF62+3kKNzFP7z6SYU68EVkzcOcR36t4ue1XVVd/kOKKplrjKrO2+a3MiwRYWCY/npcrGwpX4OpvtF5PuuT9y4SZlkGRy8hxAubY786TTNMxcgDtDDd9f8XU/ikScS13Yf4vygmKx78bUZ+w==;bttFspRv2gE5YaLc39HSLA=="
 ---
