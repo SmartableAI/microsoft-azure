@@ -8,7 +8,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/codafication-s-virtual-
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
 type: article
 quality: 73
-heat: 193
+heat: 213
 published: true
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - Azure
 
 related:
+  - title: "Zixi Now Available Through Microsoft Azure"
+    excerpt: "Zixi Broadcasters will be deployed on Azure using ZEN Master, a control plane that enables users to manage large-scale configurations to orchestrate, analyze, monitor, alert and report on live video streams and devices across the Zixi Enabled Network."
+    publishedDateTime: 2020-06-17T14:56:00Z
+    webUrl: "https://www.tvtechnology.com/equipment/zixi-now-available-through-microsoft-azure"
+    ampWebUrl: "https://www.tvtechnology.com/amp/equipment/zixi-now-available-through-microsoft-azure"
+    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/equipment/zixi-now-available-through-microsoft-azure"
+    type: article
+    provider:
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 57
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/b4pDwTCQEtLC6nRcpfpfYB-1200-80.png"
+        width: 752
+        height: 423
+        isCached: true
   - title: "Qore Technologies' Free 3Months Usage Plan for Qorus Integration Engine Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to free use of Qorus Integration Engine to mitigate the business implications of COVID-19 PRAGUE, CZECH REPUBLIC, April 15, 2020 /EINPresswire.com/ -- Qore Technologies today announced the availability of a free three-month usage and consultation plan for Qorus Integration Engine in the Microsoft Azure Marketplace,"
     publishedDateTime: 2020-04-15T11:11:00Z

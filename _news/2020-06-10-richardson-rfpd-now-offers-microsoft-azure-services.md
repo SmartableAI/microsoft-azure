@@ -33,6 +33,22 @@ related:
         width: 880
         height: 400
         isCached: true
+  - title: "Microsoft Azure Machine Learning Clusters Cryptojacked to Mine Monero"
+    excerpt: "Hackers have attacked badly configured machine learning clusters on Microsoft’s Azure cloud computing network, and hijacked them to mine Monero"
+    publishedDateTime: 2020-06-12T09:23:00Z
+    webUrl: "https://cointelegraph.com/news/microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero"
+    ampWebUrl: "https://cointelegraph.com/news/microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero/amp"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 57
+    images:
+      - url: "https://images.cointelegraph.com/images/370_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kYTk5ZTE1ZjFmYTEwNGZmYjc0ZDg2ZDkzNmE5MGE4ZC5qcGc=.jpg"
+        width: 370
+        height: 246
+        isCached: true
 
 secured: "JRchregbR7zqpJ8Dfpg0Nn+b1YJ37OebT6HatAgjTWhNmK51JO0vJ6eo487QfqmDnIsI1iECbxRTF32T1VB+QISNXCpHIgG2Iu0DeX+STaWpZMFprf++OJ6J6SXRITdxiXrPmSuf1xGmi47xU34SLOlQK4ilwXGX1h+QfPjr4g8ApZTkd51Gdz05X5iA/dIsH0boVQ7u0nNsJEFQZE8Kg/KCDWSUW6Bb/fDx2w5bShnXS48xHnOK9tAuIeCcveXpAptyTVPOzAnsaV+BebDDrpVNtH9wKJ1fTcb50RtGQLYtFC/cochjkHCqu6gMgcijZI4dVxsiPCBa57Dq3nZ4Fg==;PGRzGPA/FjA5zoLZyomOeg=="
 ---

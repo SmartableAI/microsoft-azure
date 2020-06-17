@@ -1,20 +1,29 @@
 ---
 category: news
-title: "Greater Than Make FIA Smart Driving Challenge Now Available in the Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers worldwide now gain access to FIA Smart Driving Challenge provided by Greater Than, to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies."
-publishedDateTime: 2020-05-05T13:06:00Z
-webUrl: "https://www.autoblog.com/press-releases/greater-than-make-fia-smart-driving-challenge-now-available-in-the-microsoft-azure-marketplace_23004/"
+title: "Zixi Now Available Through Microsoft Azure"
+excerpt: "Zixi Broadcasters will be deployed on Azure using ZEN Master, a control plane that enables users to manage large-scale configurations to orchestrate, analyze, monitor, alert and report on live video streams and devices across the Zixi Enabled Network."
+publishedDateTime: 2020-06-17T14:56:00Z
+webUrl: "https://www.tvtechnology.com/equipment/zixi-now-available-through-microsoft-azure"
+ampWebUrl: "https://www.tvtechnology.com/amp/equipment/zixi-now-available-through-microsoft-azure"
+cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/equipment/zixi-now-available-through-microsoft-azure"
 type: article
-quality: 5
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Autoblog
-  domain: autoblog.com
+  name: TV Technology
+  domain: tvtechnology.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/b4pDwTCQEtLC6nRcpfpfYB-1200-80.png"
+    width: 752
+    height: 423
+    isCached: true
+    title: "Zixi Now Available Through Microsoft Azure"
 
 related:
   - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
@@ -28,22 +37,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 73
-  - title: "Zixi Now Available Through Microsoft Azure"
-    excerpt: "Zixi Broadcasters will be deployed on Azure using ZEN Master, a control plane that enables users to manage large-scale configurations to orchestrate, analyze, monitor, alert and report on live video streams and devices across the Zixi Enabled Network."
-    publishedDateTime: 2020-06-17T14:56:00Z
-    webUrl: "https://www.tvtechnology.com/equipment/zixi-now-available-through-microsoft-azure"
-    ampWebUrl: "https://www.tvtechnology.com/amp/equipment/zixi-now-available-through-microsoft-azure"
-    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/equipment/zixi-now-available-through-microsoft-azure"
-    type: article
-    provider:
-      name: TV Technology
-      domain: tvtechnology.com
-    quality: 57
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/b4pDwTCQEtLC6nRcpfpfYB-1200-80.png"
-        width: 752
-        height: 423
-        isCached: true
   - title: "Qore Technologies' Free 3Months Usage Plan for Qorus Integration Engine Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to free use of Qorus Integration Engine to mitigate the business implications of COVID-19 PRAGUE, CZECH REPUBLIC, April 15, 2020 /EINPresswire.com/ -- Qore Technologies today announced the availability of a free three-month usage and consultation plan for Qorus Integration Engine in the Microsoft Azure Marketplace,"
     publishedDateTime: 2020-04-15T11:11:00Z
@@ -114,7 +107,16 @@ related:
         width: 2697
         height: 1414
         isCached: true
+  - title: "Greater Than Make FIA Smart Driving Challenge Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to FIA Smart Driving Challenge provided by Greater Than, to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies."
+    publishedDateTime: 2020-05-05T13:06:00Z
+    webUrl: "https://www.autoblog.com/press-releases/greater-than-make-fia-smart-driving-challenge-now-available-in-the-microsoft-azure-marketplace_23004/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 5
 
-secured: "oOc4PgaML9gx53k238UYbQiacg13sJlYxFGgOSoouuRAITNdsFs+0qvb8gYCkrMPYOUTta75LrFa73JNAw59JF2K1zo+rtHj5jeUKuBeoK86XCet30g3Jh8hzSGVGRZEKet8fRrPZ/3IG0QG8usoR94tWJNbLKx6LpoJO1VWDXsg2OGBpyMeyAsE4i2gbOnLXQcENdAJMF2FeZx2ja9okIePNC+0zlZ7erBf7Kwbpe/uX2ESa1L/+iOdSLhzbjJbANOvYNnDAdxXRc9hvIfyrJOMTi94y2680b53/HmQvMEklvbVk+wQCPjrMalgLV0U;Kd5R0ut3ZajebMMjzkqmDA=="
+secured: "xQGUe8U5FyctDaf9C+5qN6ZbpRcHsvBcq+fr8NOpxArrN6vfwmxTk503qtqwZAEO6hi0wYFKX/EkS9ERfWdb3lb871AAKPjxSh7xVNf4L4EZ619jVdVnFx/Y/wTSnrhgzxm2FbAAvlIDlLnJZKr7vOsHZaSXGB+4X7Z3sJ5DEsUjCep/7O8w8K1uyxAavINYSY0NRhmUyhh496mOyU0u36QUxJfDW78oEs1acp0ne/BmbZ7BP6tP0fglw5fyCdbEKyodgX2yESRgGdcC6lylHHVIX9EshGSjs204U7AijTLwa0AXWIgFWYq7A8bcj9ZtXgwT3bY8h3AjI4yhRtDuSA==;LVyrtm3g3duKU+gD/Ow07Q=="
 ---
 
