@@ -4,7 +4,7 @@ excerpt: "Explore how the world of data has evolved and how the advent of cloud 
 type: collection
 price: Free
 length: PT1H51M
-heat: 260
+heat: 262
 
 provider:
   name: Microsoft Learn

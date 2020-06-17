@@ -4,7 +4,7 @@ excerpt: "Interested in building end to end IoT solutions or about Azure IoT, bu
 type: collection
 price: Free
 length: PT3H5M
-heat: 116
+heat: 118
 
 provider:
   name: Microsoft Learn
