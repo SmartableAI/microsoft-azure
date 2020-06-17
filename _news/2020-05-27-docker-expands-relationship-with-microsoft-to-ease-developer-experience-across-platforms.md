@@ -21,6 +21,7 @@ provider:
 
 topics:
   - Azure
+  - Containers
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/05/IMG_0961-2.jpg?w=1024"

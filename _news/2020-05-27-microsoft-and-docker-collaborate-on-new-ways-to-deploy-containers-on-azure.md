@@ -19,6 +19,7 @@ provider:
 
 topics:
   - Azure
+  - Containers
 
 images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c2dfbf4e-3ca4-42c1-acec-cd89fd674efb.gif"
