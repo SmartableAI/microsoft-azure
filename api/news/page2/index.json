@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-10-azure-files-enhances-data-protection-capabilities.md",
+      "title": "Azure Files enhances data protection capabilities",
+      "excerpt": "Protecting your production data is critical for any business. That’s why Azure Files has a multi-layered approach to ensuring your data is highly available, backed up, and recoverable. Whether it’s a ransomware attack, a datacenter outage, or a file share that was accidentally deleted, we want to make",
+      "webUrl": "https://azure.microsoft.com/blog/azure-files-enhances-data-protection-capabilities/",
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/58c78eec-5ed2-4255-824c-4bfce9809ba8.png",
+          "width": 1024,
+          "height": 360,
+          "title": "Azure Files enhances data protection capabilities",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-10T04:30:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Storage",
+        "Management tools"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-azure-firewall-forced-tunneling-and-sql-fqdn-filtering-now-generally-available.md",
+      "title": "Azure Firewall forced tunneling and SQL FQDN filtering now generally available",
+      "excerpt": "Two new key features in Azure Firewall—forced tunneling and SQL FQDN  filtering—are now generally available. Additionally, we increased the limit for multiple public IP addresses from 100 to 250 for both Destination Network Address Translation (DNAT) and Source Network Address Translation (SNAT).\r\n\r\nAzure",
+      "webUrl": "https://azure.microsoft.com/blog/azure-firewall-forced-tunneling-and-sql-fqdn-filtering-now-generally-available/",
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/1db2f887-021c-400e-be73-9fffb77282fd.jpg",
+          "width": 1024,
+          "height": 369,
+          "title": "Azure Firewall forced tunneling and SQL FQDN filtering now generally available",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-10T04:00:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-azure-service-fabric-71-first-refresh-release.md",
       "title": "Azure Service Fabric 7.1 First Refresh Release",
       "excerpt": "",
@@ -948,80 +1042,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-27T09:00:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-azure-advisor-recommendation-digests-now-availab.md",
-      "title": "Azure Advisor recommendation digests now availab",
-      "excerpt": "",
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-advisor-recommendation-digests-now-availab/",
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-27T09:00:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-azure-backup-now-provides-protection-against-accidental-deletion-of-azure-file-shares.md",
-      "title": "Azure Backup now provides protection against accidental deletion of Azure file shares",
-      "excerpt": "",
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-backup-now-provides-protection-against-accidental-deletion-of-azure-file-shares/",
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-27T09:00:03-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

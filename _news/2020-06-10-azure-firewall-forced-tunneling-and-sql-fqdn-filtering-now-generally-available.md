@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-10T11:00:13Z
 webUrl: "https://azure.microsoft.com/blog/azure-firewall-forced-tunneling-and-sql-fqdn-filtering-now-generally-available/"
 type: article
 quality: 93
-heat: 133
+heat: 153
 published: true
 
 provider:
@@ -32,6 +32,15 @@ related:
     excerpt: "Assessment of imported servers in Azure Migrate is now generally available."
     publishedDateTime: 2020-06-15T17:00:02Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-migrate-assessment-of-imported-servers-is-now-ga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure Storage account failover is now generally available "
+    excerpt: "Customer-initiated Storage account failover is now generally available, allowing you to determine when to initiate a failover instead of waiting for Microsoft to do so."
+    publishedDateTime: 2020-06-17T17:00:26Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-account-failover-ga/"
     type: article
     provider:
       name: Microsoft

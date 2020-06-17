@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-goes-public-with-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-goes-public-with-more-of-its-azure-capacity-improvement-plans/"
 type: article
 quality: 77
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - Azure
 
 related:
+  - title: "Microsoft Discusses Azure Cloud Capacity Changes It Made to Handle the COVID-19 Crisis"
+    excerpt: "Microsoft has published a post detailing its various tweaks to Azure, Microsoft Teams, and other cloud services amid the COVID-19 pandemic."
+    publishedDateTime: 2020-06-17T15:47:00Z
+    webUrl: "https://winbuzzer.com/2020/06/17/microsoft-discusses-azure-cloud-capacity-changes-it-made-to-handle-the-covid-19-crisis-xcxwbn/"
+    ampWebUrl: "https://winbuzzer.com/2020/06/17/microsoft-discusses-azure-cloud-capacity-changes-it-made-to-handle-the-covid-19-crisis-xcxwbn/?amp"
+    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/06/17/microsoft-discusses-azure-cloud-capacity-changes-it-made-to-handle-the-covid-19-crisis-xcxwbn/?amp"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 49
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2018/12/Azure-Availability-Zone-Microsoft.jpg"
+        width: 1540
+        height: 842
+        isCached: true
   - title: "Microsoft Azure CTO Mark Russinovich Gets Technical About Pandemic Capacity Fixes"
     excerpt: "By Donna Goodison June 16, 2020, 07:25 PM EDT Microsoft Azure added 12 new edge sites around the world and increased its peering capacity by 25 percent to expand its wide area network after customers’ cloud usage surged following stay-at-home orders ..."
     publishedDateTime: 2020-06-16T23:33:00Z

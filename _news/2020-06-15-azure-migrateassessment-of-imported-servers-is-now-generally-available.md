@@ -35,6 +35,15 @@ related:
         width: 1024
         height: 369
         isCached: true
+  - title: "Azure Storage account failover is now generally available "
+    excerpt: "Customer-initiated Storage account failover is now generally available, allowing you to determine when to initiate a failover instead of waiting for Microsoft to do so."
+    publishedDateTime: 2020-06-17T17:00:26Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-account-failover-ga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Azure Private Link for Azure Batch is now generally available in select regions"
     excerpt: "Azure Private Link for Azure Batch is now generally available in the West US 2, East US, South Central US, US Gov Virginia, and US Gov Arizona regions"
     publishedDateTime: 2020-06-16T21:00:05Z

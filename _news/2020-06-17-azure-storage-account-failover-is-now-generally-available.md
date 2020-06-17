@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Azure Private Link for Azure Batch is now generally available in select regions"
-excerpt: "Azure Private Link for Azure Batch is now generally available in the West US 2, East US, South Central US, US Gov Virginia, and US Gov Arizona regions"
-publishedDateTime: 2020-06-16T21:00:05Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-for-azure-batch-is-now-generally-available-in-select-regions/"
+title: "Azure Storage account failover is now generally available "
+excerpt: "Customer-initiated Storage account failover is now generally available, allowing you to determine when to initiate a failover instead of waiting for Microsoft to do so."
+publishedDateTime: 2020-06-17T17:00:26Z
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-account-failover-ga/"
 type: article
-quality: 73
+quality: 77
 heat: -1
 published: false
 
@@ -44,16 +44,16 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Azure Storage account failover is now generally available "
-    excerpt: "Customer-initiated Storage account failover is now generally available, allowing you to determine when to initiate a failover instead of waiting for Microsoft to do so."
-    publishedDateTime: 2020-06-17T17:00:26Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-account-failover-ga/"
+  - title: "Azure Private Link for Azure Batch is now generally available in select regions"
+    excerpt: "Azure Private Link for Azure Batch is now generally available in the West US 2, East US, South Central US, US Gov Virginia, and US Gov Arizona regions"
+    publishedDateTime: 2020-06-16T21:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-for-azure-batch-is-now-generally-available-in-select-regions/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 73
 
-secured: "HTA/tvePOTPRsrRSmVC486sf2ItHY2vxjuIr2lF3fBv7vu9tOQIxcDjdjwT6WZ2S8Y+eSjT2nxOnrZNaSwkrgufbP8ZrvOeAY6JwpF1l0HBzOk+k8YqgG6kr7mLnF7611Rn9umCTDpZf6EgAGhT4Kel9VTL6xM3uelVKHswieVKYjYVQxElS+mF8pVVbBZNiHr9QKOnYoW9JYzUYn0hCwN3EPd5j5sXtjumSmM0F6AbZL/3gd3ei1+m3sG/PAYiH3kPIjC9WgYGpMNhspT8PsGERu3lnNyDQ+F0yqhCvCtmKR7DJpNu+rUlZdlfPXOHWEa1ArUZZin8c8mXOCTXeeQ==;Mn5zGf3V/R0sa3LuLS5dlQ=="
+secured: "AyncvyAZswaE1stVZBDt0SquvaEbyIdVHnpNMOEMjPLKdeEPNh1eECGJHHtxmZxw9gk47FIp0eZQI0DVVv0t49sy02kVaziI6dxtKQJqXGCixkUGNiqgXcclWMy+69W2DBZwXTLPxD0M5OV4Vi6yow+80RWtBOorRCacSwePRSblsRWW3A/nnXFMgcA1MkzgR7Gmd4MhHYYWQuxIk+/TXYRgDH3yslWI219tcx3dmL4QgLZya8mHTbjwoUe3IDH9DRUuwzB5IKGdYVMRsRdfLVsMIqF0nO/riFr2LdccASjc468fyrBAf6yuKqQGUI87viMcCXoWmacQ/Yt3ABwY0g==;9xOWvEnh2mb5hAZbWjWfGQ=="
 ---
 
