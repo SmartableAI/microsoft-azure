@@ -1,27 +1,33 @@
 ---
 category: news
-title: "PrimeKey Releases SignServer Cloud in the Microsoft Azure Marketplace"
-excerpt: "PrimeKey, one of the world’s leading providers of public key infrastructure (PKI) and digital signature solutions, today announced the release of its SignServer Enterprise Cloud Edition product in the Microsoft Azure Marketplace,"
-publishedDateTime: 2020-06-16T11:44:00Z
-webUrl: "https://apnews.com/PR Newswire/63a3c8e6a6240832c128204183d6821a"
+title: "Microsoft Azure reveals host of cloud improvements"
+excerpt: "Microsoft has revealed it was forced to take swift action in response to phenomenal demand for its Azure cloud services during the early stages of the pandemic. According to a new blog post published by the firm,"
+publishedDateTime: 2020-06-17T10:22:00Z
+webUrl: "https://www.techradar.com/au/news/microsoft-azure-reveals-host-of-cloud-improvements"
+ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-azure-reveals-host-of-cloud-improvements"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-reveals-host-of-cloud-improvements"
 type: article
-quality: 37
+quality: 97
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TechRadar
+  domain: techradar.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techradar.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://cdn.mos.cms.futurecdn.net/Fr8VgpPF6hUsxwEAKQhdpk-1200-80.jpg"
+    width: 970
+    height: 545
     isCached: true
-    title: "PrimeKey Releases SignServer Cloud in the Microsoft Azure Marketplace"
+    title: "Microsoft Azure reveals host of cloud improvements"
 
 related:
   - title: "Microsoft Azure becomes SAS’s preferred cloud platform"
@@ -40,22 +46,6 @@ related:
         width: 1125
         height: 1125
         isCached: true
-  - title: "Microsoft Azure reveals host of cloud improvements"
-    excerpt: "Microsoft has revealed it was forced to take swift action in response to phenomenal demand for its Azure cloud services during the early stages of the pandemic. According to a new blog post published by the firm,"
-    publishedDateTime: 2020-06-17T10:22:00Z
-    webUrl: "https://www.techradar.com/au/news/microsoft-azure-reveals-host-of-cloud-improvements"
-    ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-azure-reveals-host-of-cloud-improvements"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-reveals-host-of-cloud-improvements"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 97
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Fr8VgpPF6hUsxwEAKQhdpk-1200-80.jpg"
-        width: 970
-        height: 545
-        isCached: true
   - title: "Microsoft and SAS form new partnership to combine Azure services with data analysis tools"
     excerpt: "The companies are planning to develop industry-specific products to integrate SAS services with Microsoft 365, Dynamics 365 and Power BI."
     publishedDateTime: 2020-06-15T20:18:00Z
@@ -72,6 +62,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "PrimeKey Releases SignServer Cloud in the Microsoft Azure Marketplace"
+    excerpt: "PrimeKey, one of the world’s leading providers of public key infrastructure (PKI) and digital signature solutions, today announced the release of its SignServer Enterprise Cloud Edition product in the Microsoft Azure Marketplace,"
+    publishedDateTime: 2020-06-16T11:44:00Z
+    webUrl: "https://apnews.com/PR Newswire/63a3c8e6a6240832c128204183d6821a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Microsoft Azure becomes preferred Cloud platform for SAS analytics"
     excerpt: "Tech giant Microsoft and business analytics software and services firm SAS have announced a strategic partnership, making Azure the preferred Cloud platform for SAS's analytics portfolio. The two companies will enable customers to easily run their SAS workloads in the cloud,"
     publishedDateTime: 2020-06-16T10:57:00Z
@@ -82,6 +86,6 @@ related:
       domain: webindia123.com
     quality: 17
 
-secured: "HCtCAKOTnKWATehagW/A57DkxqmG6jhECrLSx5Qn0V5IzmTShYvRziA1RVKD/T5Ir6RCzRidY/QGJibPFhHwh01jxwtAzp+47u0cO41I4Uko6m9433k6LpzLsgxugn5a95fDW2CrXs4RWLPy51ZuBtA8OF4JlP9zHPCZJ2THJsP7NEOjXjhc8VK7T04QBiNmAJ2shyW1UvHOAfLtvUuijDcrlZOWXaL7O1tWDqJOLCTqjVMxwETHnbVZNtSFm8PUbRAgSm5APraro3ruCcAp/oidyDuwuptVDrXV99kD6ElitN7teuqK0gSbuU6w0Wo9PIWsG7dDuhZhq95v3Idgaw==;1a5ERXM6VuyNv81pbvHMQw=="
+secured: "ASn04nqZ1W9C0IX4C1cRZ6LlclWvDZz+NCW2DZhQGM1rQ/4iNHxKLhmEB5/Ap+2C3CZQAIuluGENlJuAOpvGaKkyyyiwthNDNuGMigw2J+9utaEetz0g3trcBd88G2URkrVwzdzgf6tQrlVFw9OIfFxE+n+CJVuvkEk/mLvZlphVMgW5t2Fg/N0/n9dSuCQaIkdviATk4LhX9udOiOOgLlkilKJDtnIqJo55SSUiXCKLosXRjiry78G8XQP2l2EwxD4U3S+R9lHqdHo8zrDcEvUcd0XSKtVNYVkQux7Mq03i3lA7IqODtxLf7Uzz7/34MPYZQsIEDz6k6tl8wLMNjA==;hMCaiiPHH87A8s6EsvxTWQ=="
 ---
 
