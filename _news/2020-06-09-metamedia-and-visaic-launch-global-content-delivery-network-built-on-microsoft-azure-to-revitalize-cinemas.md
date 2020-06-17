@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-09T14:04:00Z
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/metamedia-and-visaic-launch-global-content-delivery-network-built-on-microsoft-azure-to-revitalize-cinemas/article_f95efd0b-9ac7-58f1-9d70-562b69826950.html"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,14 @@ images:
 
 related:
   - title: "Cradlepoint Partners With Rigado to Deliver a Safe Workplace Solution Using NetCloud Edge Containers and Built on Microsoft Azure"
-    excerpt: "Cradlepoint, the global leader in cloud-delivered LTE and 5G wireless network edge solutions, today announced that Rigado, a leader in low-power edge networks for IoT, joined its Technology Alliance Partner program."
-    publishedDateTime: 2020-06-11T15:00:00Z
-    webUrl: "https://apnews.com/55957a9682507046cbe183b1debd65ca"
+    excerpt: "Microsoft partners are applying their creativity and ingenuity to help organizations manage the COVID-19 pandemic and support return to the workplace scenarios. Rigado and Cradlepoint have built an innovative solution on Azure IoT Central’s secure and scalable foundation to provide the spatial insights and connectivity needed to ensure buildings remain safe,"
+    publishedDateTime: 2020-06-11T15:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cradlepoint-partners-with-rigado-to-deliver-a-safe-workplace-solution-using-netcloud-edge-containers-and-built-on-microsoft-azure-1029301304"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 8
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 28
 
 secured: "/DjkY65WzkSd5ZZjCOLoNO49Mc/B1VT5jQ6Le+mtqKRYlQJrZcRpSjJ2fE4bYHAng9Z33iLJffhCB3XaPJMtu8v5neBRwhboe7/rqIew18fucMbN/xPmegvqrg0BYWl3TNJxCR5/+U6V5SmEve7E3YLn5tqQgTtLOKh7T9tYhrH1tkS3vnbmecMg1+z2Dkg0RDi1z0iLtQZH97ga68l401QSgDC+Px5LGH0rmVNEIrnXnXapz2yqky7lcQFm/QhNpc1rBGohtB4K+Lpiz45xbcku1RDEhEwoOdKM0CV/vv72LexW49BShH2LOqBNULLh;PCd+MvKikyaX1PnA4ZbS1g=="
 ---
