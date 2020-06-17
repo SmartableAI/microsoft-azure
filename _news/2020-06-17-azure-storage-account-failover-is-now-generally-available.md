@@ -44,6 +44,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Azure geo-zone-redundant storage is now generally available"
+    excerpt: "Geo-zone-redundant storage (GZRS) and read-access geo-zone-redundant storage (RA-GZRS) are now generally available, offering intra-regional and inter-regional high availability and disaster protection for your applications."
+    publishedDateTime: 2020-06-17T20:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/storage-gzrs-ga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Azure Private Link for Azure Batch is now generally available in select regions"
     excerpt: "Azure Private Link for Azure Batch is now generally available in the West US 2, East US, South Central US, US Gov Virginia, and US Gov Arizona regions"
     publishedDateTime: 2020-06-16T21:00:05Z

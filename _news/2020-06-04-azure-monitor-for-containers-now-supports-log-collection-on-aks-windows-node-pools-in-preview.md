@@ -48,6 +48,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Azure Monitor for Containers support for Azure Arc is in preview"
+    excerpt: "Azure Monitor for Containers is now extending monitoring support for Kubernetes clusters hosted on Azure Arc. This support is currently in preview."
+    publishedDateTime: 2020-06-17T21:30:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azcoinarc/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Azure Cosmos DB Java SDK 4.0 for Core (SQL) API release now in general availability"
     excerpt: ""
     publishedDateTime: 2020-06-10T16:00:14Z

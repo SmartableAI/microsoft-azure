@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-10T16:00:15Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-policy-support-for-azure-cosmos-db-is-now-available/"
 type: article
 quality: 77
-heat: 157
+heat: 177
 published: true
 
 provider:
@@ -34,6 +34,15 @@ related:
     excerpt: "The Azure Sphere OS quality update 20.06 is now available for evaluation via the retail evaluation feed. The release includes an OS update and an updated Linux SDK."
     publishedDateTime: 2020-06-12T20:00:24Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-update-2006-is-now-available-for-compatibility-testing/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure Monitor for Containers support for Azure Arc is in preview"
+    excerpt: "Azure Monitor for Containers is now extending monitoring support for Kubernetes clusters hosted on Azure Arc. This support is currently in preview."
+    publishedDateTime: 2020-06-17T21:30:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azcoinarc/"
     type: article
     provider:
       name: Microsoft

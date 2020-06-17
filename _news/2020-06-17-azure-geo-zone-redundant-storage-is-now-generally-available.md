@@ -1,9 +1,9 @@
 ---
 category: news
-title: "Azure Migrate—Assessment of imported servers is now generally available"
-excerpt: "Assessment of imported servers in Azure Migrate is now generally available."
-publishedDateTime: 2020-06-15T17:00:02Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-migrate-assessment-of-imported-servers-is-now-ga/"
+title: "Azure geo-zone-redundant storage is now generally available"
+excerpt: "Geo-zone-redundant storage (GZRS) and read-access geo-zone-redundant storage (RA-GZRS) are now generally available, offering intra-regional and inter-regional high availability and disaster protection for your applications."
+publishedDateTime: 2020-06-17T20:00:18Z
+webUrl: "https://azure.microsoft.com/en-us/updates/storage-gzrs-ga/"
 type: article
 quality: 77
 heat: -1
@@ -35,10 +35,10 @@ related:
         width: 1024
         height: 369
         isCached: true
-  - title: "Azure geo-zone-redundant storage is now generally available"
-    excerpt: "Geo-zone-redundant storage (GZRS) and read-access geo-zone-redundant storage (RA-GZRS) are now generally available, offering intra-regional and inter-regional high availability and disaster protection for your applications."
-    publishedDateTime: 2020-06-17T20:00:18Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/storage-gzrs-ga/"
+  - title: "Azure Migrate—Assessment of imported servers is now generally available"
+    excerpt: "Assessment of imported servers in Azure Migrate is now generally available."
+    publishedDateTime: 2020-06-15T17:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-migrate-assessment-of-imported-servers-is-now-ga/"
     type: article
     provider:
       name: Microsoft
@@ -63,6 +63,6 @@ related:
       domain: microsoft.com
     quality: 73
 
-secured: "wNRC5VS5ClgJ8+J0aE6PbXSkXCgvfS4g9NjCaCFKSrY349GHj1b3K0dQxRWMpjv9hti1Wyf48zL+bDWicfh7ldT7XmKYiPelVhPShCz14fOAEeS/CY1A0SgcIx63d8sLKiGIbDRxHdO26/69vZbJYxRFbq9a3agCdNVFAt/qdTamHnwoTfRnA752rVNw/muJRd3l5O+gZ3xOiVhifpLeEKbre355t6PtGGnGtir9wgBWildLHP9ouTiBhnlxHIHCIg7mQ+oDnUoV0ZY/8EXJH32ZyAHaqbx4CzBosm8Iulv300nNGEGFsx1Q4B/b1ZahLkH9xVLSqd5tdFDpeSaClw==;UEjdvrUoCoHkQgMbGq2ysQ=="
+secured: "nxcXzCieZ7LFSpv2KP3ouQUlStdMreXMKeLYsAPT2m8Rnb0DtP9GOFYz5+AD8jP6SGTwm1ZtKtMSosmvcPGvUFSp6L+Qhh1zK/28GhSz6Dzlc8jZ1sPcZYxJZzw+trwfS0xZikXZEsD3PzP1lA7E7j6p80QpMxXV+mtYGstDyWTRDAmTbTc967uzxYPdI8FdT94SM+4I+ZAJQko46xy3Qw5xFjWBC/Beqf4eD/v9j9o//L2SHX4Fcb74ZImnpM3yCHfnmK7lbd5Ti3CnuERQI3tQBRZWxMJsJst1Ul7w6ORZ7lyCgB2n2eeCv/kOXIhfojPxYQIvYXQIgrwpBB+8eA==;HAGPLxzbADCQTqID0NRXNw=="
 ---
 

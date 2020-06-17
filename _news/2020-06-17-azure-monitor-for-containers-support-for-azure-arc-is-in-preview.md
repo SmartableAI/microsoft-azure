@@ -1,9 +1,9 @@
 ---
 category: news
-title: "Azure Sphere OS update 20.06 is now available for compatibility testing"
-excerpt: "The Azure Sphere OS quality update 20.06 is now available for evaluation via the retail evaluation feed. The release includes an OS update and an updated Linux SDK."
-publishedDateTime: 2020-06-12T20:00:24Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-update-2006-is-now-available-for-compatibility-testing/"
+title: "Azure Monitor for Containers support for Azure Arc is in preview"
+excerpt: "Azure Monitor for Containers is now extending monitoring support for Kubernetes clusters hosted on Azure Arc. This support is currently in preview."
+publishedDateTime: 2020-06-17T21:30:19Z
+webUrl: "https://azure.microsoft.com/en-us/updates/azcoinarc/"
 type: article
 quality: 77
 heat: -1
@@ -39,10 +39,10 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Azure Monitor for Containers support for Azure Arc is in preview"
-    excerpt: "Azure Monitor for Containers is now extending monitoring support for Kubernetes clusters hosted on Azure Arc. This support is currently in preview."
-    publishedDateTime: 2020-06-17T21:30:19Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azcoinarc/"
+  - title: "Azure Sphere OS update 20.06 is now available for compatibility testing"
+    excerpt: "The Azure Sphere OS quality update 20.06 is now available for evaluation via the retail evaluation feed. The release includes an OS update and an updated Linux SDK."
+    publishedDateTime: 2020-06-12T20:00:24Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-update-2006-is-now-available-for-compatibility-testing/"
     type: article
     provider:
       name: Microsoft
@@ -67,6 +67,6 @@ related:
       domain: microsoft.com
     quality: 65
 
-secured: "GbxwPlVWJoiGKZf0NIKd3p3q+KZrtMgUZOOEFkodJ+TgO7tU6vFFaPj/wcxmdpI5oWtDBddT7Q+idlPjB57RkHQVLqJ+N1qiJWDo735vci0Dv+/7O8oIEY7Kae83jeN95TphWA85NLq7AtctaO+GfU8BWYqqQXGCJCwPUjj5adcjIr6wuJ7LLhdSDYPkDzdeEUXDyKq2Lqpqnz77ewlXZT98acF4LGdBGRNNlH+qOBsqY9Y/n/sDHFw1oQVmK3ukNhkQKMg5VE3NqIzBAMTCD4PBKc1+ggWrLAS1nxfjAWz+ktY6yKE71Hgu6y6VAfyNpTSgfqIwvnYUlHG7yB9GBQ==;QT3GRPm6HGks4Zg3+NDqpg=="
+secured: "gvC7tt1vwnA7hwoJ/jpoi2s5Q7b4jZPupQzpxykCzFjvJvbCW3UGb5xPgHv5fxuBmqyAHChgmDNo72ANEd8GVO4evGXocae1Ea5xpnD+MVDLfbb0b2C+9E0+tY7ximXa8TSAdxep9ZOQT5OZv6kW64/6yg3ayaPxTxhydV3eZb+EbcMc9JABD35GenxNh5aSAHIsz92rPv2EyQiXYAn5g7AX6Ku4fgSRz1lAsOQ+iN9R948GR55WJ2dz+U712To890jm5mwjueOk4jwLGl9KZ57F8uFiatO8tcbmkTxDQrPIK3uwMRvj/lWllllhNKn67PxSIFjHH7e7aNHXCrPR+A==;UlW516ee01mWOKiVje97AQ=="
 ---
 

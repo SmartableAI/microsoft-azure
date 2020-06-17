@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-10T11:00:13Z
 webUrl: "https://azure.microsoft.com/blog/azure-firewall-forced-tunneling-and-sql-fqdn-filtering-now-generally-available/"
 type: article
 quality: 93
-heat: 153
+heat: 173
 published: true
 
 provider:
@@ -32,6 +32,15 @@ related:
     excerpt: "Assessment of imported servers in Azure Migrate is now generally available."
     publishedDateTime: 2020-06-15T17:00:02Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-migrate-assessment-of-imported-servers-is-now-ga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure geo-zone-redundant storage is now generally available"
+    excerpt: "Geo-zone-redundant storage (GZRS) and read-access geo-zone-redundant storage (RA-GZRS) are now generally available, offering intra-regional and inter-regional high availability and disaster protection for your applications."
+    publishedDateTime: 2020-06-17T20:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/storage-gzrs-ga/"
     type: article
     provider:
       name: Microsoft
