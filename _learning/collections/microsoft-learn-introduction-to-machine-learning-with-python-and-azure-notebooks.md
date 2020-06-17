@@ -4,7 +4,7 @@ excerpt: "Python has become a dominant language for doing data analysis with mac
 type: collection
 price: Free
 length: PT2H11M
-heat: 204
+heat: 206
 
 provider:
   name: Microsoft Learn

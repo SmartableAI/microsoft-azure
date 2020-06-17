@@ -4,7 +4,7 @@ excerpt: "Learn how to manage storage accounts, data in Azure Storage, and Azure
 type: collection
 price: Free
 length: PT5H56M
-heat: 152
+heat: 154
 
 provider:
   name: Microsoft Learn
