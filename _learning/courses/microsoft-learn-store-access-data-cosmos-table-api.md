@@ -8,7 +8,7 @@ length: 29 mins
 ratings:
   count: 1057
   average: 4.6045413
-heat: 87
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Store and Access NoSQL Data with Azure Cosmos DB and the Table API"
 
-secured: "RrkCONiIMNxuoGoSKgUJ16BlhSVO0T4MU3LvCWtxcuO9VYseZELmmGsFMAetWOrrr5myNbhekDu2in5Q7aliAoVkCyFfowBP/Zr0dxf+H+WPavEFb2Vwu0RdLkZJb6g/Zmvffn9wDDM/hjQWlc9UhPJEJcdTEg0Xmmool2LDO+1G79lhVtrAOpgPNZqvwEuK7Ad/qVoo3HJbTYpNu4NFO0H9o8iznu5HzYIdboMC5TMyUG5gyIUorfhc/J1rz9Pq5PjTNpUJZPRAs7dcJZuxWm7of3x+h02sL/HR+xMIYEv5dYy9a6k89jE1BhYwS09y3N4ZJknR0owR7/Jb4x3UO7bimv8W8timgAwbUaQV+L9tEzxm/2nzsc30e09G90Ic;YOqm8RZ1dn9rOMcSL3C+lQ=="
+secured: "+/k2HExEfttjGsiM9U8dEUEGqBkz9EXzxrVCmZdMmYw8IdUAIH1IaKzO6viucXs9i4vMGDVt2toFSRa37yMmiybTXt5unIcD3swX8Gnrsj35Nxl4TP4mpjsUHIzRyd3Jjdl+dRAOf9hi6M3yV6ohZGtdpA6V04btzeUDwXtp6i9CwZvuSh/uF/wkTZjrLqO9WPObwQTae3/W95R04I/4b6T6xVXQfK6PIolmB6XP57yCr5SP3GyXSh0vIEJxB0g3cKTcdBKPXqvBQmA28WjTLemMPX8VPnDoEPnh3wEN4CSY6+rXaCF3cnNIjkeZ0Myusi5UfNyh2JpaSus3vxB1qKRMwSzEAYCuNznWWZsvWdQmVhu9Zx3GZJGPeDmb6k8slOuqVYK99tP/eKb4rNRo1g==;jjPbdwIsl/HftCAQKd5gTg=="
 ---
 

@@ -8,7 +8,7 @@ length: 28 mins
 ratings:
   count: 76
   average: 4.618421
-heat: 53
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Migrate SQL Workloads to Azure SQL Databases"
 
-secured: "1iKDvdZNzNRk5tGpuPD7UmX+jGDWQ6QMbhpiJcPsus86/osSJI3rONzagNRZmEhoxZ3nzMCLTVC2M4VuHjOYBcfwvtJMWtRF/Lyem09Qi6Ozz64xxPSFPk0m/WdN5icBuTPl8r0pWkmzsdEeBTxzNqUBpQVtR0QUf3N1/M25vlbe+NYIeHYnImGJLvwiQ95+rDUzDxqKkMBST3u1KrDMtzaygWMyyIPMQVMmYk+DysXuS+c4yQ2yslbxzyilMdVqYPLs/9jriZXLvIo0GhFjOLG2f47sRchIDzXRfjRWWBAMvt8PrMha0BvDCjsRWXpAN8eUtUrVTR89vLwt+XFuKFzm/IjtkfnVtCpK5het4hU=;6Z+ffkxkUtCTnZVrEg8okg=="
+secured: "NM/2d2J/Rs8tH+dbMCsxemgo/1RN/vnJRHU+3vWq8mjz29X/PvtrKQazivk/2Lu42UQ/ZDZTMz/wUqhrGtSbtsA9MHL5t9nJjscCNofV2xuqhv1IAKc4Nwej4Wvaw0HCljXYCGQuzZ0W4HltVkP4uW0NP/9m1Isf9ls4cBCsj5yanVhb9y0m9MagsyWR2dzsUIafp8/KnNJNVwXOhbTPbLwB2Zz2aW4/hef4cz15XNBIYaqMozKPZ3+KfRnqk7/y2MftQ6VDKZyCV4zQEtAwV3AB1633nv88VJFyiAuAvc0Q1a6vbyHc4Z9xCQZS1PfGs/hhbhDaviy361qKDUH5FFOF9YEf7TXPNIEc5ztt8MxfDb3fixGzra8DgKpa5t68sndxYN29qRICABiOsebN0g==;vBpRF+rSEyCkmZAQGcZAcA=="
 ---
 

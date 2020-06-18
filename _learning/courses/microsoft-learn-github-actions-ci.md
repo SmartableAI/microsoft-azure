@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Build continuous integration (CI) workflows by using GitHub Actions"
 
-secured: "bWY4WDsOwRf872ObHT07EoMtDT2Wd/UEQ1l6FHzTOEs0KsQ0Xse2/ZWgsgBRt9ME0LD5rWzgkzy5Sxbf/uQ4ZY0zuoMmKJ/GDOZVijNtVeJt4FULmf7OvrHzKh0ROH5NEb8ZsJKcXhn+FqTnkgKgAQj0l38sn6mxLyH4z9Hsd1wRltY9icWmjrxv4NLZdSNlDwownP0lMTvcrHzUbOYAmJr+PxwM62lJkoPhzOpuvRwlW9Jwsql/W6UYI9uS/oiv3z9/f0bWdD/z6tp3CRR3Llbsc9ISpXBug33FS8WoSDaY254DlBr/BLz6ULc6aLnGDipbDfHq2tcMCR1lDC1PeU7DNMJza0j24Wdlt/KPnEI=;6bOJIVUewsXjMpy0gLWQVg=="
+secured: "qzhmmd43QlNq3cA4im6YUvrxFoiC/0CesUT1GAwvqQkvh/JxvzHWR0ep5VkUp/2zjJLskgX3QWQllDdEdayL2A1rqNdDWbOz4CVxxxJwyXWsYTjLSsLjIxE1x7amNif6js5uLk34lpSTdkwIP9HQIlV/7mFRld8BIkO4suZaW2D+h57/Unlw3U6EKxBAJTGKze9+gdQ41joGmG3h+a53qCkT+VLTDS2INrYHF1KIXpDjx+ZFj6rO+50IPJOFxmfVCazQWrLX/VKZuuS0xG1pAAJ2OF6I1FOCXNpsOGSH+cbucF/WFH6Tvhwp9gHkF83kkonc/K1T8yhwIGjQ9ZK32iY8BorBRHlwVjkHjqk8BpBbEhADg16F2F/Tv8bBjwnDFpl+uDdITb8CNuhOP8zOGg==;z4ZFK99xYWQ6fvw0vxjaKQ=="
 ---
 

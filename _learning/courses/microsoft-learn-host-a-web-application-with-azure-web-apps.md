@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 65 mins
 ratings:
-  count: 4211
-  average: 4.5901213
-heat: 144
+  count: 4212
+  average: 4.5902185
+heat: 63
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Host a web application with Azure App service"
 
-secured: "YgWxZDC8NE51VUdlsWgNmupi++fYjwnUfWvH0kdHuqUq62S7ny++VDLsS4jblegzCsdbwhSiJ+zaPlv6x9pq0c6EzPb4IZ5kzNauFCJjuGycDwtEMdG2XZIyQe7mALQsui4kD1Lr39aXKvjUEfzOw/uQLHd0CAtmtHby0j7Xm5C298KjkyT+1Y9/rtgHhTxuIY57RHK4WgxzhhiUApSdzjfL6rP7UgQS7eKzhRwW+FfKyUUGAVsfayOk3PPVCUesCbLz19+AUA1yGNi0jE0/REk0x1GHVsxZAEFXBUmOoYzwSj37Usq+STLK99drWPzEP4Ez/WY+ST4W5HFf9m46RxJqAbZMZVh5SlvqZ8FVpMo242zK9hu8dn0JGSF4kMNO;No8r7gg/WxTCF9oW+dswCg=="
+secured: "f5bAybrVJYuMA2Z4cbG9qDLuKFhDgFks0DfoPAq0MPSEqGmKTdU4DzQhk34K7DN6jjSVINP5r7YINtPSVe1xZkTOxQ9mOd/QtYBgEE4MnA79hs1dVP/JVRoRtzHVqPuLU0JfyZ4ZfUqz0ZicF5OJrzg2m8PXfZqIXx/DAZhcKf4wP3zBscsvInnajKnX65WSLI05nWn7hXQaVr9YJ/TFb3CXYan1Cg38LprI++8PdR9yoLjGE2yn5QHvimF9nQPg1GNQfZ7o93uryZacsu5PiiJ7d+r2nvNuwKIwv8KsUuWCaD31xGtr7LFbdWMFUUX7K2+3y3EoZAs65aDUbAHXJ2HNmh59ICeYqxTKiNeyE2ISREIkM327MJ+D+FtysTN6UZ9lQoKq8QxuS5wP0D+uxA==;LRzqHJu0wVtj61MbgcbbqQ=="
 ---
 

@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 28 mins
 ratings:
-  count: 73
-  average: 4.7260275
-heat: 53
+  count: 74
+  average: 4.7297297
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Analyze images with the Computer Vision service"
 
-secured: "YheaUoEXhvKF3ToCsMh23S5pmy7IDUI7WpS1HSZXTqGuH5Svs17U4V5d3FPihT6LJnpC8zc5aHHpmKn4YwhoiA01bCv4Spt/vlvDJWM9sAOMiaa2xYVTaSgV821UfDlxGb4U/8aUaYrZiI7vMmjUy20Y0llOEUG3nIiL6lifOzO1VtkT2ya59yuopnly+aC1aTjj2jlGtK5GGgwQiINQ36BpLwZ1h7Ru4gj3xxZm+bqoUZOTGlf9PeuJ/rAk484K/Dw8Oqd5jxcnPdVwigGm8rC3ep5cBlws77rTJ0VZToxjWCaEWQhwnlMQJ9nYJdphl/iWqP3k6wLotENUlRmywatpzQqJD8tUbVSzIc8+nNI=;AMpYs5Lfuh0AEVni29yGVw=="
+secured: "0JyAECXA3nitCT8ydRy6BRHhECfhQ0QuxMWv1BeUZI1KGnWc8TIYAMc7p3Is9uACfTYq0FwXz5P0ahYFVEYJChfi+5nlZN5ATGiJwXwpI55AvrPLOg67Uf3AVcslhk/IcUxFmifIs42LHpTqNcvfKb5bubYvUNEbO6DsWkplIt/KHABMS61hAN7hE/6blNQHVX1QStQ/EZHTsdrhXwaRtNW9A1NDOij0zGr6VFeAf+BaD2H/XD+f2qccpdbWMBkRTiZ1KpValnoJiIOiCBPMCLv8874kdVIYdmMy5jq/wpCUPBkNG6HkrSDHFDf0t59T5+Z2l5A1kuiWYGEBvKa8pJlBMFkAKWv8Bv67NJajJ3QpjiHJ71sXekfID2XCBWxKWRKKg7KgcAxoo5hF2v/Bbw==;k1JSTNRBCWs1RSulUs23BQ=="
 ---
 

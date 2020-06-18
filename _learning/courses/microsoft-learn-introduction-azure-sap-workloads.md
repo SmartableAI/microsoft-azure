@@ -8,7 +8,7 @@ length: 50 mins
 ratings:
   count: 222
   average: 4.779279
-heat: 59
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduction to Azure for SAP workloads"
 
-secured: "eHnb3Iih7qACf5R+9KHPh/scj5+tWyiR8E+DRMGKakY6EyTtpnKn41yo2WfzL2z5DXJZmExqEyULS2ceSeOH/FNEGYwPn1k1Cny7OONQAMe56rzVufaw3IvLM27DeSFh7Kvk160A6OXO2xnYrSUn7uDjgDBjcQNLzOKVFqAuQINFxeYsbeQGFaXIpqb3QicYO2RsTvROj3EOaUC9QpWmHI0kJeG5SBKoXN9ZML2OTyIkueLx5IyLfGchHLWssEH3Sj6j0KwqXilidT5P2Amsv1bLL+bLlOZBtBAT+qsnoAf5V3v+8jdaVv/suWRFIz3NQHGo8nCP2YkZoCQW+K4Gyp8/KV0DBIiFcx1PUH7Ngg7bVkxvjh9JBdOjgD9LtACS;Qd+YdMVkujWOGQcJnHjCaw=="
+secured: "/xw074fMuQjlAq7i/0NabPydALiguQr9eLPYGyQwc9tT00TF8i+4Pys4WgF4H5/gZwFmUbyb0dOPiSXt0Gan7QtXtiJsqW+9QqNjBlZfWD2L0HrBvXWCreacSOni1aRlY5WyjZtQ5aRQcdIaRKtt7its27pUUwUxlu4H4fF+4ZgKQgcnIethWzJidhRwvYs7G2GjfIGfeV1TQr5zA5WpoUufooOP02rfBkt6t/kUFIAv0Af5AgptxZUnAu/sZndDsfAi7eEYFeKQ4Uxo+NzKSV9jiQxg+KljjiiDqsVpNnt2VwOVWPrmtHlmx4ix1h6pLLerZ1COwXLkfe1xsKuGhQ9oFJuueaqn4vgTF84XWdMi+wnafmM8y964emDH3kW3haL1Ba9kaAvfGwfHlq90Jw==;dzzfqizo8upQrLJswgxwjQ=="
 ---
 

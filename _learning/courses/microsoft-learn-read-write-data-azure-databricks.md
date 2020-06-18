@@ -8,7 +8,7 @@ length: PT60M
 ratings:
   count: 46
   average: 4.5652175
-heat: 51
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Read and write data in Azure Databricks"
 
-secured: "K2J+r29C+A21p/v2u78kTqDXl79e2ZwBR67toiwS0nUI5dqpD2YMxHD3/2UJkpAgd2BHW2604i9os3pd6cJn6+8mIiKL0Zy0VuYKAfEzRH/V9aAZFH98ahul8q2k3z8Mh9cw8V54GmxD0HIOocrqibH/DBoNgYazSQqM1U8yjf1t4hE2iFrlkRiOWdHKubF2IIvcKlh2ZPrzug2jeRxPYoF4fin8KuwVVW5UetLDFGs7AtEYB6aoI9YI1IUTmgPKZdttJnT0JPCbM/RqJ11G9Y8KsZTPxMG+jwKKNOaUcG3E5MjT0EYy3C64MSLzFTvBzfRP8SyBjZCBMSIevWwanrlX4NGKhUkLQ6Rjf9B1cbM=;n/CfJ8vltVWO0GeVt57+Pg=="
+secured: "oGpcpzy5TmT5hfxIGRR12n2xh2gkIs8v8EZw4ZWqOYNp4vD/vmFudWi97dlKvxYySShUwlll0h8SWNLxJXc9rpQBPrysFajlX+s9HfUexR0k0VJkbBJx7qAIhRWmfYBlq8eWVe3n9tZ+Zjq3ly25cYCsd+Ts9XSgsF4a2RJAA0Qy1GxpBjpEct5H0X9zyvzXeaHmhSIC0dSzdshI9pYnHBhsmS5Ef5DtkDQulAVxFbpovjv91Ds5T3y3gr01gNKpK9GVb/v7oyDUF95groDczFxtCehiEE/KK3NyfVlyvTWKB8+O/bvB58NcQEjbsp+JS4B2n4JC+bHg6QYj8Mr2c/nKw9zeQKQH9vbaBUUJN4Qi1YTbibzBobo8K7qIOn3RQTUBS68//Tm868kk+s1cWA==;f0vm6F592ZdTbsciPlTIhA=="
 ---
 

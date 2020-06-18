@@ -8,7 +8,7 @@ length: 25 mins
 ratings:
   count: 874
   average: 4.6544623
-heat: 82
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Explore the types of Azure Data Science Virtual Machines"
 
-secured: "gpdr7Ea8vg5kV5+2J+Nizwq2K4yDaZPgWVFNQ84Erj6eMDuzOqiAbpTvXV90RlFWc78mHh7KdpyU+IGR8CmBG1JFOTYS6dp7zGTDvbaIsRlDVnwEM0A/11Rqa4kTpZxohqFcqXcbl956HZoCZa2b5jyYTow8fdVhRPftmjK6u4QAbtdZgJ6Nm8NrBxGbhydAbBT3hTQFRIoWsSVR1r6WCP2kTmv6KAYuWLKrBW8Z8+6Xc9ztoRqkADJMfvfDh6N8p6HyL72fW2U25BosV98WhErzOdhUCJ1zp9CGHRVl/zD4tf8MZzRnuhGad4YsGkUaH1oyUAQZf0MMPtrWqRuKl8KULZ7jh0o4a16IVMh20jQey7eTtoyrYUEI6SlAdpHa;Agx4cecGWrNiUlfzrKAbRQ=="
+secured: "NNYSx2c6M3RYh7KDcQrHhrRAFW1FuAFTi359Zw09DKRFKn6m2A42EMuwo62aBFPPKtvXSxzjLFQyYXqXJv7H4nkqx7Q90mqVtVZ8dgZT5lWhW8rcXtfmjvLZ9a5kEGJ6WfLXPXiFy7Qev8Rj7caD1x0MXYSb3yYX+HI3AnNodXy2URCHcZvyu9cDyWWH1iFqbeSIgcgcrd1Chg1FXi/mzHXFV+QCHXb260S/bvouCCyUTplmbBKesy/rRM9E6Am6YfuHD7sg3AsNG7pqRRheatTyNGu5u7k/EsXJO9Wg3tzU3xnLGN10t7Q8ZKX7y3NyR5Kc8WGrkUqtK2rbNC1SsmP0weOU7VzukarW6x9paKwJNOCGiTtb7ULQntnt7AlomzaRIv0/h3qo2mTwKGfFSw==;ZoxUGcLYvHcMH0aEE2Dwow=="
 ---
 

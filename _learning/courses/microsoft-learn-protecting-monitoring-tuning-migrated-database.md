@@ -8,7 +8,7 @@ length: 46 mins
 ratings:
   count: 33
   average: 4.818182
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Protecting, monitoring and tuning a migrated database"
 
-secured: "1kNJtcZAWBaqmgHoUu3+QWmZodrIS8Ze9DbqDddJv4UlOD06muDznSYtI+qvzsAaCvptwAYQwmQnvbJxyPn+HDAeEtOuDhRVJQQUVd5bWkaUAJ7uvaAfXhszBVy2HFAqlqD/s3GtU1NdZvEHE7pg36u5ChGwtPQnmNy6zJwkQ5H6MavdCMTaQrDNAzGKxAyLj+6fzFskWmPdCxHqHHUy5Kduo8l6uFeyXyYTeIpOV3qMqjB6gyyS3j9kEzldqK5SNwoh6xudjJKsP/zxz3wD8Kz8lneOLoDTOy8Ib027vdK0wQHEXuiQlTYmrrjUp5sOvKY/DpOrGoDbqREwMvXZxk5pQeKO+7jx9Chcmo4ArZA=;IyPDomy7+Kq59w72w+9ytQ=="
+secured: "jJPRv+17UAk75gv+hNuYRcwmaHkqWLIufES6+fU6Jo7KVbRsSlxevaO41HO8rQbbMfTpL6aVuQpzfI8TybmDqN20rD15ouC5mULotsi1MT6iZtRA47H0ehVVh2NH80jVkwSd7f/TuVWVXIIh6VRCpGnEL45pVDmRGwpnHxK4d161ti+esVfJRsmIoRlUrIN514XD/mrrpqpqfigmsM6vEuZML5BIrA94a77nCRG0K4m+2auD4bkErPGWfcIOdmERd1fNMD/5RqNA2QkScgWthB+8/u/zGpsDQ1lV9ypyOIax/qlvhWxEdDdqtCO1EBJSyOMv2BWFan5TUmeJBPnqawKiGOxBFnqSI0zsel/l4DjziQWehvmGgxX1BvNpUtkLJTx+rWvAj6QailAYI2uTqQ==;rS/WN9Sk6kHHEWVR/JoT3A=="
 ---
 

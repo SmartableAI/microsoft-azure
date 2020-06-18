@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Describe Azure Databricks Delta Lake architecture"
 
-secured: "HgUyICuX0pZCuu1yDaAkYKW4WXw/RSMm2mnScYesn5DxsHEYIQ6jKeyRrlWT5Q7skWmVjQxOHrEXkuYLa/VtwP+AQH5mDz+KteNNN/rPCVFvr5s+wgvDl9vZ4GAM3QmfgaYR44y4D1kGJoRFbj1hAVmEdeGKVxiC/CQeO5q7FwFdZZ9JQOaSOft9S9Jx3UDXRl3duH0vPEuLj89U2gZtrrhSHVR+VABUcsr5DtMPwBWTMq6gk9skpV3SNouoszgdeH55si4fn+ozOXYk0cFIcaeJEItSs/cT1pdhaD0oLnw7lw2QPGpLtf0h18bI7eKb26k4JD46Mm1gLIVoa5+3fO3XAZBqBEKK9F9Ajr7oEgI=;jU2d9e9vKrLCz5YGjSQUnQ=="
+secured: "LLspc9tY1C6mGvIMgiHn1zt70nJw+Q7+eYNI67BXqTQ/H9C5qQRChFsNnqfRhZdFX2YasP1Z0fTIRhuccQLttxVyTjFTcv5+ejF5ympFdvzPrrlVcLzKPYvuED28uNeB+3+GbiJh+3HZp+wPLwEjknGVy/B3c6/lx9MJSdarm4IuKohCWVQdbktVJgGOnKgimXsl0aPp/B1Va+4vWh10AgMR34otc9Qx1FLjsYV6LGu2i67mJfuAfw/Gba0ApDlfxjNC8++xOkONq55u/20DSI2tqfYECyfiowSjuHXwCjqRSdXns0FKdgeO1GJuwWDw9tYph1N8C2PH1U5VPMfmD9RtPHS/bwhkImsae6uLIeKxKmbTXSZ/GJriSJHmpKfQXNsAn+Z3wUJ9qhlC1d2yUQ==;zla/op4Wk+Xvm3RENAqRTQ=="
 ---
 

@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Case studies: NoSQL databases and cloud object storage"
 
-secured: "xkeXV+WCgMNHkzWlnolqPTBtYnYzeQGv1XBNp3HHCfh4od0CfRfkK7/u5T9PMs0JeHibPWR8FSoZxPhq8iO0lfTVUXO+8Ke2V2YoebnHvMM/nxP8dA+nv7zczBmKIasyjbZya+gWOFdJFyO/ROD9KhSdIHepUdL6Riq9S2b79CBYjCpUGd541osE8fbDWy2ur5Wl2CV27koQzMA5Pp4BO2fVLNnIECXbeXof3BcdidEPqqNThN8QVSQHfUaT4ww3vabeZFh5ky5zdt6YW/ewHoml7dftZ0hz4YEb7Fm9DKGME0PCgt4mS4hlmJO2gllGgx8uRC3f0qmBAryexHNJXfx/jGv+3CI4hF/PJGbuWvc=;JVrcbHM6CRDhmJ4HGZqzbA=="
+secured: "uCsjyl99bxq6mQUwC+zDw/AWv+DqhqYEygcML1kWl/r8nRF5/i4Q1VbSPP1OidfL0DLuglxAczra/YORGHoRe0MzsnsEjW/r8VCQrH9fPMJHDlMtL4AGN9FYGxWazwLXWMgHH1kPgMl7PqZfzf9Of1P4MIebXxkuHqc6bbKornrc7K/E8SBdFTXU4oMMqbmoemrz9x6l+ZyL1tBUbbmIqVJVc029UFS42450c2SguxZVj6ar9Dj3qYqLsM/GDrh6L59/sv9hr1O3uZB7t1OX7+qgjzt+xRFT0AsNDbLBqEnPwU5H3qreIPIdAThN/zJAeYQmPfqoiLvGDfwfYrd0pGYFIrwK7j+PylmhYNR0Y+HEMrzA/0sA6gXyFYERQe3zmZBwgZ3m4sTyle99gJQQZA==;KuiKiUU2l4AKT5d/Gmh+wQ=="
 ---
 

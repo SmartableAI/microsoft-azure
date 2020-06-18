@@ -8,7 +8,7 @@ length: 37 mins
 ratings:
   count: 1224
   average: 4.6911764
-heat: 92
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduction to AI technology"
 
-secured: "tluO/c8MkyoLgyoADGGWrK/2qrWP72c4qBuyNvtcMumRMFP+1Jo4H0YaAnnk6IoyJELI21p72TMugSSN7N9dD7/dP/ReFvymBZjjY08puWneyqpBkeOOwDc192WW4qiZxpZatxDnARkI/Ya50OQ+zaxQFBC0YDO4CztRuIKGoR02mjb8ZrA6ta/Ele9u+kV5qeAGobhsvDP25ml/e++/KD8oJwTkflH3QUNTh8RPbXekpUvKpeO7jql58xalLDbj9uRwUWtNs3eQaKsgANUrJigd6+udg6iHGS79jpH0yrMseTIJgmjd6lyNsRR64IxFqcGaEnPWsBvVnrRHu9qwvFm18rssJO11O7xd8asZFCCxzy2dvElBl6lixdRTFMOH;E8i1Sb1uoRhr8QY2BbMJRw=="
+secured: "EiCB6yi7DOBKzGzHmWx1WVcq1knYlQ6jnUNlQn69JFQ21oH7Ye3K0DXzXyrXcJEiu6D3ekUIRg4Teqe4Nal8HMdkxhfadDnsqD1WDIonpdstDAh8nWUJ7a4DWWX0eeJA5oCkggHOxc9i+IEXBdUQTFEcTYQjhhL3PrrZY7BjqkWF/xHfNQyICaR61b/n0h8FDXL82yTFXxuXrv1uyOlzkxBPdxI9W73KCWuzhE4J3C0y2OgUmpiIXb6+BKMKoAMznhpFzqxS6l01oUc/4kE7B8UebYA9UjbdJ7PmS8oLC76ZnbqH1DAUwOjp6FlrDGcITkW0LD5fFDoUUcxqmLhGx7wyNQm/wLjhkv2GtUB0uUj0g+IZzdd5bR+5DkYIHRmDphaIK2IeIbwTwG78br7T7Q==;IJRQFV5XyC7qksvx/QiOVQ=="
 ---
 

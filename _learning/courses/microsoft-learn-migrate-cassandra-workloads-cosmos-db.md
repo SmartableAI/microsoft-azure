@@ -8,7 +8,7 @@ length: 14 mins
 ratings:
   count: 32
   average: 4.6875
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Migrate Cassandra workloads to Cosmos DB"
 
-secured: "AoFXcIzEBW56GtpLd5jj4Qal7edfiOekGF/ENbEUQ5AjHAxsYXaP7yjPqJmJaX20lHKd9hhSMh3+BPJuxjoG8Zv+TM+T0ZGLO1szblUwv7v1eKfI6vEYA0WaSXKSNUoF1mBXWcdxdNrWKuVDnPPiLzriAsr7rnCm4ZOk298GbPuwhfMrgAQkkwC3l8gU3WyrL5JAPeTwz3RTMS8i191O/r7JfWLnR2LbP+JAPQYIqvlg+6UfbQVnGMIUw6LyvS1jl8qAG6bp9EYp+T/J/CfFWNoe04tWClBxJqk8UlNiU7wUl0IQ84T4hNqC2eIisI5/Ud1Ea33szpAeKutHLEePBqhEenYfb1pueBc403SJI+s=;ltUUuYb/H9GIFeZeU8FobA=="
+secured: "96UueizDgGn5FVG5mvn3iGVabeB+93/N7PtGFnjUT+7YRWSVPA3cPLNDUI1cOJx1CDsmjllirHNzdF2nhObx33nuRkBGzDF/hFO4AF18qc/HY8pYy52IncJTSfDsMsQR13cNNxfV04kBnyNLe11cMCe9zQD9OAxvpgChVywgoTkD4A/o0ZgbmWuQQVYpt7B9JtGQiQy/KRpVLKyOLMCRrslGFEsTNaI6oK2E7UEIVYDoEQzX+lGr214WJCYXN3Wlwo/JGbeRCdMTgd6ru183WbnpJ3DRQI2YVLn/LpmZrOK4iNUsxdIll1k26smJ8mk044/RTOodTdz55BSk6cN88yJMj0nIhdZWRyGbO6ULnZGgb3PBOkhXifxFf+7EknZXdo6W7T97Lz6fCWNm4l69ZQ==;Vhx4t+6tJWYqDVl7e2Dqnw=="
 ---
 

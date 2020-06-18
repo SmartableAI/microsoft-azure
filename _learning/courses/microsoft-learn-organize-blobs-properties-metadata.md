@@ -8,7 +8,7 @@ length: 42 mins
 ratings:
   count: 52
   average: 4.4423075
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Organize Azure storage blobs with properties and metadata"
 
-secured: "+tFZG1Fpd4lDaThCaOY9RIqEwR6ByKB6722Wiktf+AVZPsPl/qaya5mqjeY802B8VrRN3DH43bB3nUbqSW5K2KmNuKh22nioFyIo8hxQ5qJ/hQwBQWplLmOgMYChVLmPw0nTYfWKhReMe1Qruaywu1er8i2qjmQyOLCKepqEo7e8K/D6hDSRRlWz3YqCrK+H7ICwwO2f9rkdp3bpTpX39ct8HHEvCFMspKKbGikyENGfQqaydtZO5g4S5vPvuS2iTF2EEnjZ/rMIuACfTABdlzVzlWUHiu7XhXjIC2B5nINJtWQPkIVYo86hzhiWJmJGZ+81Whg8HAeQHDfLb56nyL1s7uLMtBWahKx+2slbqis=;YiWg88i1r2VfNkQ3fp1rNA=="
+secured: "1mXJQaFpH4zNjOlDV97Mqe5HWvM/nEiUjV+aX5zTkjvTIGW9B9cTpe90jaJo2cV/EdnyMzbT3VagdCmi+UcMl9UYGP1VDAoj8ZZVHrZrfxz5D1BPp3Bv+ojOHZ41wSgMkBDVtoEgSfhnDeVgjyw64rZ3wYuxa9hM87CK7bCb61GYhxDIW67f0Wk3BmqESBmKKIjy5TkdLQfQscHnq+zcRVdSNHiTIPZ3dLbdqh098qEtWIJflCLXfkwYepZbdY+AT/mllPlZ4xiNMogU5TvZsTaAnahT6kiGvv7JgEaG68unxhcDfI5LEgBwjfkyf68mnPSM2oQKWk/URGJjTiIR1EAbrgJGSoFAUnXuPii2ryfOA7T6YnWJmCP2SB1z36ts86pGJcUWyL7Lm7CDw17RtA==;+cSKUqrHJ0XHFoKIab76cg=="
 ---
 

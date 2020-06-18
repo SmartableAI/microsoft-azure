@@ -8,7 +8,7 @@ length: 35 mins
 ratings:
   count: 1419
   average: 4.682875
-heat: 97
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Analyze the sentiment of reviews with Keras"
 
-secured: "kiOxeWzZeZhXlZjt4LA36+N8LOeICfiIcRpjKnPmat4IGSlsMAezR6nD7YgjgVEV93883FBNkSZ/zYTLcEH8uNQmApjswWtYY1C5B5ZHLZyCwzm0y46UZC90QKqSH1eWyRhvtSIevgkP/nCAuRIVxb7d+Uj2WaPbfrfz2UpCGAKn89DJqScDmHn3Zuc/oZ2YibPuNdzamEgIIJWYer4r/3PB+g+6L/OEB1u45hE5FTFNOi2blDYkc+iEZuhcLPrKl4DsI+96JiOqxGPi+FvlCCa1cxtEdsOA60vdN3hXd5lnnmNbiSQGkuj9PcDBc3YjZUye3Bb3N2JvEPONdNbzFi+DbHoZBgGQQZ7hhxPLujS4Deb98Vbsm2Lxrne0lQEI;MkYMGhWRz0aGDcbWbl2hHQ=="
+secured: "gO78Qe+MmoTHgMZfbNWdUCCM4mRKa9HQGr2MzPBHVZxBGYcuWugMqJjunRR8+4kwdI2bzFGHNjU2uSINVqVDZL3NjbD85CbOJoaSjLBTY4OkMOzSit0P8aOYwwM4a5JRNcMevr4DDXvqbS32AKhmoDF5UL81/QFRvaXDVmTPTW3HJcaAbnvDMXZd80XAG59JfPWZYcb8WEuy1XxT99U0zuCLT/LN40Y3y6fZPKJ7ELTVGnAACSQbeaxCdBfRZGuSNVYGf5CHFWTJ9MCWTpasQx+f/oyd0KivkDPdkXaFcAu2ZDd0HhHm2yeJOrQSxV96LsLIUO0XVBNF/d5bkN4kB7dim4V0YYlDfazssfnQV5uUt5l7GzpdADmZ4CU1B5pls3fHko7SntT2dIt8AKWmXw==;pi2hRVOzAwD+tRuTVmtFEg=="
 ---
 

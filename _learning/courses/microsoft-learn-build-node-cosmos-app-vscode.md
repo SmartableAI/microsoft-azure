@@ -8,7 +8,7 @@ length: 59 mins
 ratings:
   count: 303
   average: 4.521452
-heat: 62
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Build a Node.js app for Azure Cosmos DB in Visual Studio Code"
 
-secured: "ApEA1z6JeaMeEvWxi163OQf15fxy8zNY/Os08Dp9ipyOf7q16iIPkOOI9Ol8Wz28XoHUkL9+dOLqyAx8crF4O3kYokZ9a71EhjXzyzI4AXNFCOtUxU8tKWuQ4KCpihDIWCt9OoytftCgetPys0SC+1EdQRPU/Is8VbhgNW20lzB1RzmJ3A9O9r4llVsnI8eQ/KVCdByKriMBxhVn0p8DFjJrc0eV1q15M9EBCmmQ5ZBddl8M1hD5ZJYdAnSR0OELOMneKm5m+KSneDNn9ZNso6oMlFUWihYirXO4oFWBHKLJQHO6VWcpK5Zn3WQZfzR6xVR2M6e/24/1fWqDbU2uuu9MVb5KmneSAoAFgg6JXenCCG/WtLoUYxWYIdlfOQeJ;wXOQ6sbVe/IH9olsF2bS5Q=="
+secured: "JA9QDLz890kvUXIZMMAFYyk2NssrueKSY/smUQcpckbA/lqC44nb/oBC3rUFMj8N1khDOr4tc7fEjzD5NFd992bsXQxiEaUu9wXm3jgQepiZRK4rbuWYMD7UmhhVSM35iSkxPRtjoOkud3Qt2z+8720fWPJ/H+kdA8tmYpkdzqTPW9dXrNKAjPQSnF1MWjuXGUFAwmfuPmkJWyjbYC4Zymwy+sPzMeJJ87sDy+VrVY2eqzmXOaloRWJj/Q31nbiuZXTVQO8iY2VKEoJY6ySZcmaQSICBR30ML/BJ29766LheHhn8+0Ju5TGGMtpMWW1+QH2p2GfXsP+gpgD1OJ5H4Io98YOQG6NiTW8/xoaIrsEbpdCBXrBWDwjgSF6KGv9iYG39qkDuJldiYf/uaRQDNA==;n/RhOiu/BxzEE5FyMOp1hQ=="
 ---
 

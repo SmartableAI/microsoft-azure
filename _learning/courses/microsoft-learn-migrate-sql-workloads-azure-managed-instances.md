@@ -8,7 +8,7 @@ length: 64 mins
 ratings:
   count: 38
   average: 4.605263
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Migrate SQL Workloads to Azure Managed Instances"
 
-secured: "oQgZlbVrv+y8ZEMhd4ud8jXLqCKiwXT+gz8v7oG4ZIDpNIHWdGPC9OhfP+WAE1yZybwFsEFWQdaNtrHhtQjlmgz3hjdpWi0w9kZ6C4wzrbPU8A8PLwu3fZrSZiB5VapeeI8VPtEDj+j4Gi5z7QK2ky0vzl9PiqMZBzKYcPyJtWrN2UGFTxgJJq0ubLznkr9mlHLsN5d/qxMQwNOwYGdaFi6VZqAWcuMtEI0cQerwEDVFaZLTTmUuKtqaXqiEtsHaH5rD38MSZmsjfOAMB9dTZjK4Iw1/6wU9L6Hx4Lw9ArwPBQWbkz8qldAxviRlrb5Lo+0E2+vWXq7sRRIY4rjaGhIgZhUVk1CNdrI9UFs9Mvs=;XbFf1OYwjiy0bGlnOLdz+g=="
+secured: "Vz9EWzxifOuVLq09ZquiJucSQq9swi19L53zG9qpOfg02U2voQCl6aKbDxlxTrwAA4BP+rRG/d5PAEYSStOidN55StP/QZgnlv0mRKIVG8go/YBX3/NxtWD7lKHQK5K12yTsvT+pHsr+P/XbU82lpoP7nnzjXtu5ApX4wJyFGyfMR1CdxdllJ48vq4rLT0bMjEQ38Vr4zeFTW3SRW/WJmCOanEDN9KvwyOKXszd9oQgbcEfZ3YO/NxApOJFRe7sRiv8n5idpkVlgqdQHm5xHWfJGuOKFvYzOPshYXgz46NMjatvrD2RCH0Xydh69b2rNKCJa3Zqcum+ioedHVIEdusLDTYMoTVmLz9E6ilpQCwVMHQ93umIHmhbA5Sb6Y06G3CICV01n/FZBv+eDYhjFCg==;/bAQv/11bb4dDCyf7qxMhg=="
 ---
 

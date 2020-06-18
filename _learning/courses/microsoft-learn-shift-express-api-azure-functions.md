@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 43 mins
 ratings:
-  count: 27
-  average: 4.4074073
-heat: 51
+  count: 28
+  average: 4.428571
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Refactor Node.js and Express APIs to Serverless APIs with Azure Functions"
 
-secured: "DYh6amfyffsKfCwFLkKZbzoGgZgJZKcOReUj3nJeCkCK2qVJkrmjqYgp+zyGRs1btETw+s5GU+mR8HgDb17VFETmPIzjWgygFLI7+fuoS774i/9/M/LlQ3n1xW5bM/QFSl+GzcvM5oj1FFJ0CRVUFRYz7ake6zRlpIhdx031L75/HzMmrpWTtVZnkDIHA/t/4A+NznydDrsGmZSDHMs3bhKq8XW6sdXHJkIkTpcjKjgN4Cfwfhg0o2tNWL6VWfEW1d7jdrApQKIVgSxVosrk2xylHo1OOnj3yrIJIZPrd/x9Zolk8lZWXq+jUT+Haya9a61h18jZA2nfKRZo3xGC4RLkJ1Xug/fK3j1LzA/b8P0=;IQuyLZlrJcFTssBhiBrtQg=="
+secured: "7HwNXWoVyWgASiv0ggEMM2xqqRWATBiJHmk5DotHIieWVsLEqTfKOh7BOyOkCeAlo6E+XiW5/o1M0kalz363t2v445F27teU+kEClotC6sq8bINtftoE5d0YDkWBVdkANZ8Ev8U1tqx/I6jrROwqBqnHrmgoyWMX1XL+pvSYxzZnz9RjFx+Z2gYgsI6uTqSQrlArP82hEJh9+mrJhqbaD/3lkZdVBXRnSCEaFBrOVTl1uThwNMSav620hkW3NkvnFKVgrEEp/u1TmJWR066o9TBRptJ1CaTmpGi4w2xqQPX74QFktEuNtWEhPAIIjSOBeNCU9NNS32US1FjCpwoimLK2nfX7W9OG45xZ7Jsv4y+SN/JuZuvaZwC0quw8n+nxTuQp4ITlu1ckwp4OPbbR7Q==;rcmhuoiaMGurBfyGCkFxUQ=="
 ---
 

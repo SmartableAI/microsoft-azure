@@ -8,7 +8,7 @@ length: 38 mins
 ratings:
   count: 269
   average: 4.386617
-heat: 60
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Make predictions from complex data with neural networks"
 
-secured: "EvmEZnk3Oh3bKDNbV4/UZzyNuXbThFQdYoRU7IOnZ44ULLoK666Scm24Dm1eG/l7p9p8e442eHzuvqZ2lrpUsi19l73AAtGpyh8OowfZYsHmnl7YEX55yuWJvrzVFALhwzjoIMfc5WSfd6gLxmn9+8RkzjrC5DxzJ7pIJt3mzNQ0XiJiI6YqiHnGrGbzhivM1cLwoILD9YjQHv35fvMtaZquKBRuWazNDMHaPnm9lpFg0hsFuNBM9KVxeKnN7Efc+oIQB4/VrUxN2XIxH6eA+MdAZxpOl7YM+WM1WiGb2ZnaQnWz5N1W1t9tfX3KFIHg3xgmZ7HUHNWDvQeSzzrmyBqDGp3WIzOEa2gb5w9Eu7IELyZlZuP8j73aUc7Zo/iF;LwRkEesRgoRBJy5ZCtXkSQ=="
+secured: "3NKMoVyivXakad3GUOIcrks8fHU36wtY9tuZdML3rU8XGTPS4BI69gRXxk5IqY0AlOpFH1ar//VU0Z2jr1alzptYGsQzkT0yc4KhHg3yqNjrh2i7ApziLT6JH8/h4dR9mA0RnPAH3wblMpUwhGa6wEdexvwugAs/H+r/q2FSo4fYVtoNYNssV393xBZGFhp3B6qhxICjV6jQ/2gs9fr0BurnPrp9gJcClxuCZjol8YKaaNIzYdrK/CEyVm8IWc2axjOWMjDBgcHVml759tS1m9Y9A5K5efO0V8dd+I0clA+vEuhEwsqiwXSM0IKlGiJGDQ1tB2/DPvzriNQrcsiAjzoLSdVaAyucnzJCghDSS7ybe4RCrTFD5fjw9NzkOu4Wp5gP1ss3R7++UQUvKHigTw==;PB8Va2XD6Bh2LNMVQZj7AQ=="
 ---
 

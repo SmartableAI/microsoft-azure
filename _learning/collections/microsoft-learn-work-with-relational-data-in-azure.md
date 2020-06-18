@@ -4,7 +4,7 @@ excerpt: "Azure supports several popular SQL-based database solutions including 
 type: collection
 price: Free
 length: PT4H10M
-heat: 246
+heat: 94
 
 provider:
   name: Microsoft Learn

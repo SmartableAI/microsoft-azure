@@ -8,7 +8,7 @@ length: 118 mins
 ratings:
   count: 28
   average: 4.571429
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Datacenter components"
 
-secured: "0DCaRqk4LcDax8Ca4dGjkIcUHKEjYqv7qLHUw5U4fAr8NFe5yrRoPbKDWiXP3QYet8BvVhadt3EMzxH758na3MBR5AOHIlnL5odDpDnhahWbnPJ3NgI29kt2mB+Pj49bst04FntvyVqPU0DalydTvq75iDgbsl/vcQiVWCn+ZeYzg+lEco0HaKIQV+PbwSDMz5WNwluQuZWHm+ffe5SsUPZ/jRqnEBrfENkVbJc4zuZwq0bBFyGsQ2JBS6bhtyD7g1Hl+5OHNCwIqgiaH6mWSHyqHPfhbuKsK6H1/HRUWmcwfjyvdWFl/PDkeuY5oM/9hUJTy/4EUNTW7srYPtf530A52RZuvDJLx6eDK+X4JPM=;2zmTtXK2HC+GWWKIwcln+g=="
+secured: "2HJ/Jx1sBqMoPE45Dyse0IfKryGVknlCusKjh+vX62nwdsoMtV96Xsj6kqia/Gkm5DTUGtGv4DwbyayUafoYxhm+R/M9r/yI2rYxxiOzWMPHHX56ky/qQh2TBJCJIl+0+wZYJUmwWyXv1Rve1xVdt4G1kh3o01k20BkSmcSSmg65ptbh+PJby6QebmYIue838umEIjjSuhzcvqSObgX6CHnIbRkiABsVmmSn1DGfVXa9z3NrzyPtUo31vAm6crTJwDMaqvNJbDVB7NLqMj42uPvtVVs5bDB3oVMJ8gYCnQKA+VWwich/CbjKARlzUeK6+DzKXLEfiw/VMxt1U3SeRyp3NNvZFftyvKAbp38PAaCfv7u13qaswWd9QN0vdpl7cCqC5QvmiDwcnI+m606f2w==;g3Q8Z29zh/91c1fe++SkUQ=="
 ---
 

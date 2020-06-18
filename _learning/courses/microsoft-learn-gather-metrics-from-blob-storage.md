@@ -8,7 +8,7 @@ length: 86 mins
 ratings:
   count: 30
   average: 4.5
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Gather metrics from your Azure Blob Storage containers"
 
-secured: "PmqLbQ32foyyA3rEUM5aEvXFmOxhAwZRKeXrO9dLqHkKCn+AKNBpOUEQ0QIwJqQ9bANSqTI80F/XcoBACB6bymEQ1uRrfTkAmTn12cTnBumfFcq5ArnkhREFNCaPvw64opSzZ2W9lm3biWe7L4O5nTkY34ttSCtAXztAFKVqtHUKs1VCVlVjhzANwdV6POjJcUkRAiy3cILl42iejjkaWshjS+IlaSDa5dpZYLKuuHVxJrQiTlDyXhiA7OI/qgUem5p1lf3Lg2o6hFuYgvkezLTwZmQOKIZcxPM5E/4ocls/sKydKFTDtX7q3Sv11/Gh9mpbWWaD2pKEmqukeyFXyWv5/9MAskcwHeYrCWQiEPw=;neI/pc8Izcfze5Gs3kCaOw=="
+secured: "NQlMMlvajT7LVnJG2jlNxinw+rJKkUvL0EJg2uLipnx7E0JcKFtko9CVMC34UdXjduIygYCwGM7wl2lgD/YGMuIyADdVGNdQI96qPy6NXCck+yX3hXOueXeFXimClTruweSnQFO283JIhefJ+kI5IDKt8omn3YMxK6PqaCk8zGWdPANQKKSmPPGynr4nxmstPDhTCI18lWk1kQfT2MTgSF2cY/O7HCDcVQ2aBKvKkCE5oHdl8vObYehq9uE+4cbBvXt+vPDBs2KjGEfkVwoNRS8kRgRcD7Rx2ir/y6os1oAH5ahvRhJbptq/vcjVdzlgCroI2OxNlEK5GPh1iar5UsKxBj0ldWSiow9xd4c7L1mV64j+YSqjVcbV/nwbyT6t5jBS/SFznetfdhRln1Y76g==;qBf9SoOZHFV67gzOMz3g4Q=="
 ---
 

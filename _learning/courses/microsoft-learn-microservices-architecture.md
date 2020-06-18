@@ -8,7 +8,7 @@ length: 52 mins
 ratings:
   count: 250
   average: 4.624
-heat: 60
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Decompose a monolithic application into a microservices architecture"
 
-secured: "hcCmGy+g+FHmXQ8EHJXyqSQtliW2jIKVS3GPjzEM2aiTpKj7/pDCsHGSMm9L9X2tiaDGghbsTnW7B597E3pZgXSPm55NaXJaWUzK9IdzlIfshh7k/PoZx+irKK7aEfeFJPBSQcbZ0OTl8uKnJDohTONdPOsRP476iJYb5FykMODbNyRljqSPqrE+irfwSlO1l9tMs4dA1QXC1vsBXRJMMN/fHHF70EuBuF+1rDMKBXWqbdSvKCAUUmij08BN1aT5QHADP0vnV84rahkURqpn2VVfKUJY1jPiBAovjCctSaPIsyhW35b+Uuv60E9nwUulZC/wwMRKHaBtYS5RF1Kprt9eRF+nv+BwBxSkFF0cj/WU6u8fEDS2o6x/qdqwgSaI;Ifyjzawz5k1AZJXr2R/sBg=="
+secured: "il9YriQruVps6sw7++kSIbh/BZm9sbJATuZlYCJgJZkHs82uR2GfA8M19GdJTqokXgosognmxTTI54t+BWHpq9P+YkPK7uc4X+5RDSq63b5kvbKI9WHoN/G/TfDqX3W1g8blkzwJlEN9rJTJQYeHuelYyoJtaQeUTGccOW3uDVK1K+1S0ubkrJ8pxoWJ5wPEUmWoEvjoCms6gwUOa1JIL2WxLStwVQsMfBCsmXtXT72kGVookb1lY4adUtzHNoC9n25glscv+MADf46wtAZwBs4iwn0/agbHuZ7ayYVFMPPYYiRASthk0QK6l8FnE5PLee7dMXx2wg4Dio5f/OqgWgHPn6ysF6Tegs9jNeRczi60v2dnDvibtE5k9mNBrTnt02g9uhPKJ7IGM68O7BJk8A==;eqU6Y37nuI/VkS3evQ6ilA=="
 ---
 

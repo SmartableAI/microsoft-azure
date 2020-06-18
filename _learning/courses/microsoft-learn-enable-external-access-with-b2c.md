@@ -8,7 +8,7 @@ length: 16 mins
 ratings:
   count: 30
   average: 4.5666666
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Enable secure access to apps for external users with Azure AD B2C"
 
-secured: "BU4/xL0jPJ2ijrcGvSoIEGix85PiMnedLzLlTs8nkVvyiGgOFXIr37NU8Jq+KxVPmbvf2QJqVXWniw/L8bOHARL08JCk3ICxCW3BX8dJiterGolUNdQriCHYNckllwUffgTBpmpoY5vl8xXdtt1ZPP8/M62gi91gzPY8+gKHY7dUDKRQTOjbgyFP1mXdXnAD0GT14gT2WNctgIxVBDFBDdvvGvnrAyW8XWxUhJv+Cx0NvHmoCZlOTUuVLWh4BqWlRwkf4aKQr/KxzYTywpWc5UvxsKnU9AAYkm3CG/v3iGWQCfvCeVJcwhKQzQb51+Kr2K5rxznxLqT8haiZuKHTDbxoViwxLRt0HRol6cu59Dg=;2IUGO8GTAMd7XaO32SRQDw=="
+secured: "x8ZkMfiaRtGL/1CweBM+k1jtAAhK9LV4B1z2FzwrbsE1JeULebIpg5VwJtgTVPaF2Hxntga8VB9ZmyYaZtwEVve7WJcOyhrI3pNNZtbjVhqoLsz/AHnKuUHIAaCzTTp2vXBNWpzH6xxe1U62R+p0S/2ojCixEhX/tuMdNDkNPV4MFQ/VJZsScrAgdUEw/WWaHvxkGJWz0TTgQ3T9NsVFnuRsVJurE15km7sGuT8gd0W0VyPRzHuZXJ5lSy0qEkfUFglxOm1fggaHlUCY1DQQFoJAcwYLXqQ2N73Wwym65hLr70mwFcym7PGHuo3Y36ZhlSzv3oRtG7Wdp7ZvkkFH4ooMZvAlY0RamjSlD7BK7VvBgbUdnEBUFTV61X3wITf2bBvRCBHzIkycjMjRa5qBgw==;ovNLqmsEpyK0Cj2/HPN51w=="
 ---
 

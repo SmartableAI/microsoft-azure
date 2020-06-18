@@ -8,7 +8,7 @@ length: 42 mins
 ratings:
   count: 32
   average: 4.625
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Access Metrics from your Azure Blob Storage Containers Programmatically"
 
-secured: "s7EJAxsk+VyPDEj4dtZ+9TUKGOcvdsyW7PTWakeeDyCb2ZPT0yde6TLZHPJfMZztA9ViJ7Djg6xPadeG9x/jDG8B4v34Wh1ZNEnI2h3TBPIXUqSmrAMhRVEn4LglDPngArKmpJiRa8dDeRr5nDIITbIE4EpeD4VGG3P499fZL9UGbFWUGD3Nhn3cWwU9Z5xfAmcRttajmqCVF9bQO0kOxLAcYxlpdqOGjRb11bwNvO8uwaA7DEmnqcLIDBwtNEsg6j1u21QnIUM8pO+vnV1aAhU7nRmvW7tGEM/8+4JsRk7OaCaDoGMftJfNkVXxnx0no7cbBjzHZsyoqn8TunWtQ5aqNh5dCg9DanP7BYsvg7w=;kzMXhpZfWd3bUDCTMeIt3A=="
+secured: "yq+JnP6MvquMCNuI26D9zM5sgxeeqpGpN/tM4E1vb4a1WR/wNoU7OgeH3QIGwRvjMUHoN2Ppufaiw6t9pz9NECMEFFyg0EnORQ+qux0o0rZfxG9eA0QZJm+rSYgXON0wr68o8wf7BO/66zrLxhk4Kd1jhzgplNEtmIZBkqhyqGRfQafM77j9yMq8wRmvK2Fq3o/hcmuA4iz/vAWrLVelPBSotbpLuSZzm7yB+EykvqLVYWGQraXuUG32Gkh6ibdGhfBXdJ6wPhZMW3PMv0up1zYQmybpcdAYGSGgej7PhLnqLIzA4uTr+h3xPKyKnBXUDoPqModHfxx+Vp4huuE77JiQqJ9DzEfR2y5vjwvMO4ypQ9os04X/H3zhXxX9XG6FWvsGrJy4flhXQ8I7Rt+SdQ==;RbDIxeXmAeL6jKOinIIJIw=="
 ---
 

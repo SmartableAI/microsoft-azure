@@ -8,7 +8,7 @@ length: 22 mins
 ratings:
   count: 175
   average: 4.754286
-heat: 57
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Analyze DevOps Continuous Planning and Continuous Integration"
 
-secured: "cIi+lEnTHbcmDKAn/xFVrehzIrN4FiPi8qiq0C0Ws+QBjGcmwOFPVJDQkND+3sN0/+CR4Xaj9DeUMB7O45mCJZMjwY9UqYNgtXg0IJOxVJ+jcS7TtLacfQ/zY6tmk2pNPtuGtSzpfvWFa+G3Xak3RN33gGZMaHiQshO3hmJ2VfwHksbup+Zh/zMdzQW0A6Vvjcl3Mxi1U3bZaAhYEu1VWY819O71uL4+BMem6Qye/CD9EsjuU3CDPmdkkj1f4PRH3EHHr5L8TtzbzqbtNQJ9RhbVvtxqhXlYre1J3BaQr4UB1kWnobMShetN0+kUxJjE9rij3YPFvTC3sbIDNOuIphXdgjhK3W7vKQFOqydEOU8=;5bqNpsQBmkOfDB+PhGoWSA=="
+secured: "MEkkxPCMCuyj+zbIza7VdIVCFZSQfq1tx3He1Ilx7Rhe0MCf8wV3npHbxGiKgbvus2uY6er2c6RfcL4EWAtAVnM6zLy1t2r1P8ZPeBzk7/SCu7DAoNim2P17oTI8fOCWq2NuoIdOaJCZIFmOYb99Z+JRTE33TUq/Bs+H6Nt2JV52pP8H8ejw1puH2Nve2yghTosv9oiVd7fqyzhNxW0/xjoyqyCMcXfAlinXcmk9zTIoOUb7uZcqDkvB9lAIbZdKVXHcNF0XwDv1b26E0bZv1u0gGUZMmWWZYzmYcUZd7/n+kpvemRqzc3TTXYUhn1gc+cAUINwcluTSMsPOJTjuPSDr1wWsKotYAw4/qTFgdaSxlgtNc1tWZi2jN6royLJBIcPHnyG/8VPT3UpQBQAHAA==;DxrCj7wf8FXxzClA+j9zxQ=="
 ---
 

@@ -8,7 +8,7 @@ length: 33 mins
 ratings:
   count: 26
   average: 4.5
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Virtualize computing power"
 
-secured: "KKw2epjZ1J9xFgZXdGVpNHKK8DqXm8phJcv6aS5Xrb7jnDW769AjiRCt6o1z8lPSx5SH7Q0Wmu7oDZvvJtlznaWqUiJGwVeZc7pp3S6L+gKKbN/Um9mqq/eHVwXOdcmfbIM7cO4aiKB6bncFs0IffvFlkpXLz6MnXNqvv3B3aE54ai1KOKlEhHhn32JOyjoZkK80173QNrwE1P82n/Bawg609kgO1j3cGn5pXXUQBj6KwthMKuFa8xwLbrooFYWHoAqHcWVjGz+fwG3x2nRbaJ+lq7U6wHOujPZU0Cf6FeW0bTH5+V0Fv3SIMdegCGk+TJv6fr5N1GWzY7aFWNOp6zpbM07WdAvengjyGtnzK5w=;0Gf43KwDaF35b7uCmh9nxg=="
+secured: "AgmhUoMAIngMq32A+kJvzKTtFSTTW+TD7GVeH2NvJED9osG4vykSvIv/aZMHIRKpYIdD3q2TbwiE66S2Kkguwd29QR5kbmxMn/m5KIErJqiWROkurObONkR5YSFQG0DxGrOwHCq8WHAmsuS3Msw1BKh0yM4R+mcdb3zgrVTqw7E1IYilVt9+CpS5yuP0+TlQgZEn7F3rc6Mqyvkp1pcWMxMBtqZnPRw9+eB53vgtgTCxpfEzOyc2s6saaO5WGKeO5IOV1DI5bObccAL5FfJYgv21hur1KZGqs2baFipmMJS4oCpZxKt7SBp1xQxVDVCP4bfUUazPpcP5aHD6eS4CiipM2xb6xsOCT7fn58pWUg0GkMGvvpbGivUUXurUzw1LF+2XElJ0vIXoPvN3AgXY1g==;56xvtKd1IkMXPNnE+cdsig=="
 ---
 

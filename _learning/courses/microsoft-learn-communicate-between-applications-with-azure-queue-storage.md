@@ -8,7 +8,7 @@ length: 56 mins
 ratings:
   count: 1187
   average: 4.593934
-heat: 90
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Communicate between applications with Azure Queue storage"
 
-secured: "2gbFno/q+Y3P9E3cnwnu4c0lkINuTy5HQQpOAT4OaQ6J2VH3dCxD1wtyAZuPUtXBswwtjxMf1ybAmC7ciD8ab2T/j3qw8xRgF0pflqLFt0+B5rgZHTAK/Z+b0fFotajwLJBL4QMF9MeM/PbYRdTfXcr/7bOxpHVngg06+PJeU10sIZJEZZylzUB97QpwGSnGbHHoDX5G/3wpoVNQGYSVg0wAAcTCqIsd/XKRhqLTUvbtCH6TC4T1On9Zgm1iG8tJtHx8XCACLwiowWCZcXJlhOMxVztvnCqPyvdzyactliZD30Y0fZGgArVLZndED9tPyA8LPKVIvrjq0WtsRhVMrR/re06zSYsQ+Uw1oGysBt8=;X//MaWuvy2vfLWVp4XgFNA=="
+secured: "A6aTgC1TbKLAyo4+TIBSEqcrWdutS+jHowUvJM4TZ//5ElisC89Axy49pplbHXv88Ffdq/cPFbTIOc5hUSAuA4FhYWEoR7S8IkOwYdICby7nnrJJN20/CWXioRLFYV8jo2oXUestADDWjjCYQ/Kb7j2MfYXdW360qZKbWTUGME4jls6t6KnSIY1qoybPwFHn5YAomzoPaagC3YLz9o1wVwWeIspvPh9yeMgZ50FFd/p0Ghf3OP/61OZecLR68uqhcIDFMHvuP5A5GdRzzjC4KLYTS0dKHmnRbHRLXixsoIhTr6YwEV+GxFLjNGeENL7I0Qkucb8qPmJVdKple9iYITr5xMoFZ+Ugv78+nQXR28+64EPgvm5041+IZhzuE7V4ne7WQRRvn2XQZscQZeKQMg==;DmyLMsv2LHPEjpXLHy/BTg=="
 ---
 

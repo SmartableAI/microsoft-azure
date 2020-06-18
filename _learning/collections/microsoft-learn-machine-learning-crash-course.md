@@ -4,7 +4,7 @@ excerpt: "A high-level overview of artificial intelligence (AI) and machine lear
 type: collection
 price: Free
 length: PT3H45M
-heat: 120
+heat: 81
 
 provider:
   name: Microsoft Learn

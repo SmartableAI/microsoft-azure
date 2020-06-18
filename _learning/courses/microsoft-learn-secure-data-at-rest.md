@@ -8,7 +8,7 @@ length: 30 mins
 ratings:
   count: 161
   average: 4.621118
-heat: 57
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Introduction to securing data at rest on Azure"
 
-secured: "tCNZLzFo+AIAru6qvoQlbDB+olMXYi1C2uVf9SnnKs1kn/lmKHdV8hAe0X5/aCF0igbkubZlGLBqiaiPoIw6F5BfzpL7/EnrlSDD61LseYCX3eJ3x+aFZRYGvJMDvNtqFollogaJLaNs0GBeDxyR4dy+CVIo9XqEn0WxYFtrJjEE/puJdk+B7CnBlCQaS3pvD2oOhYPOmyUwVDd6Luxe8DSqq1HM0fi2CrV92FMimZm9PoC5mUl1pMygfgwXWFngSmeKklJBGAvAZlbKB06CTVg+BR4Sfwt8gUzesxPK1SbxVmSNlDT3HAfgG1jBVvBSRg6T5OrfkODk7VNHyrmBIAPUzRKfexnkBTYumSSQoSzmhd/qzc7z8NgVrRUYCtQJ;3F6NxcftBBeLAQ1/KAGcrg=="
+secured: "P2jKpfMVsTNx8DOdELjOnjlIxIp0bUEqaTlRgY8/5wAU1OoT8RQOd1mr25TqcXpES/acTZn+PpepUR3lG6/PzLmmkrs0Q3BDQ/E/jpRTBtrtVQ2WHgEgDMEleKmmuKwxu/u0ieDlhrFHz5hr4os3VPELxIsmOdOXQU3D7EFrlLfww+R6xXkbaNUHKmQp5lq2Zmm3NMemY064uw6cCRLxE+n77OccJ9xD08DzPUaBQhONn+RTt7Kpxp1XCWASJz9Atp3ew0B96T3X9Kp43Y9pcD6lM0/0j32tpjQ5Wp957pkmbAHPPfXn0KqQmSMmkBarYUTEeZ6v4MN3JKikHvbOqyEb+UUizvWfS+hWsuON+l+1RB3R50Zj7+OzgJhMHC5ufumdO/x0UtOaD93AHZT2EQ==;ysAnOuisA6x3q1J6MAx52Q=="
 ---
 

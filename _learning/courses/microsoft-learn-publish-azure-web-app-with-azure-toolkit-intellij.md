@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 52 mins
 ratings:
-  count: 6
-  average: 4.8333335
+  count: 7
+  average: 4.857143
 heat: 50
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Publish a web app to Azure by using Azure Toolkit for IntelliJ"
 
-secured: "uwfoAeFAx26cyTcgkZLrhI8AM4poclScZTDAZlci83kn6TYGHXtrjGiEULYvzRKwStUlw1o0iZTLDglnuBtqq5NGcxJ3WXtHIFvCNcGNs3PcBnDKpfZVjY0knrVq6FGT6I69IDm5eezG+5TGnGF+v9orXy2IXDwehTexl/WTBySijB7N6Zj5Lqgsjh8HIR5g15V4MS2K5RLV9bFhV8my80b5DiANLuxBpIexqXc/R/e8DuRuLJvRNaHdwo9JRZlt4d/A0TBRQWy/5li2fmkQA72lYykfXaU4U7s2CMmTBYZut7flnseBeJhI9Hqgke1CuugNaj6Ur60CNEQazBXSz0fiw4+iOQ8XilVn9Mz7Gr0=;5SS3bhry58+QBToDydE6sA=="
+secured: "CcAmD9sLZq8O9cR4u+8IYF6wL3baLAPZ67F2U2zhN6IeeBSB4LFtWYp/4EsQZkY4ILPmfXCwcAIroCqPjhepTbqm8aetB19r4FXaCLc2NKheyTX5Ddax8KE2mUb/iZ/c7D+rwlRaGlmZSD3UJtiZQbSoUuTNfoVTcBTSRk5ytjcd7JWp9PRnQ2+uUFgX7wR1LywM19/OxFXJOp5HfwbuJi1+7P7ENLoVh/pGS16GHepO0lvsEYv5ZZTVlj71sVpmZRE/um6H88jeaRPw9k8TuN1BX+XuzbTvk60M0iT9ro39OpaPPUIwrcITbBJ9xmGdRNj48YNfq4rxPQXLRJqIGea/8bRvoHeChVVHXdqSqoKxNO5q9NTVhNFnnr9vnmGXy2CeQNaw0enmtkbxaGjc8g==;Bq9hdZWnlT1kyOMgYgBRvw=="
 ---
 

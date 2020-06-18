@@ -8,7 +8,7 @@ length: 44 mins
 ratings:
   count: 56
   average: 4.678571
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Design your site recovery solution in Azure"
 
-secured: "6+ic/FOF76GhnsKVP9tSAmfJo6D0nFItYS2cchW3JDtW9Hmofn4CHhkH6RpQyjfDTv0l6jTNC4Z+JIXafmRIIdDHRfMMJ6fjpl/q/ap/oyP+K4yLsaXljApUFdIIxE/grHpW9FvoGafTh6EujS4BXy0Swr7FMZ4fNeB5FuOV0S2u9+YSsECETckPHr2LfFbAeBuU7iiHsUlaQU9iCrO4FoGSkTlC8pAZpMajOSHgVxAiW0UNJ4tbJAO9ybAdan2mWoPPuKHY2amse3i8FSIwEG1WMrkxWpWTJZUgUDYH8yHc9k+5LRNDIvt3IQ6mYaC0vo3xJCqVPw9UHd0/D0o+E7/wyo5lC7bxjIa9e9ob6G8=;yS6mtcJOki5aQGF674mi7A=="
+secured: "L5TCj3Jler72OZZuECI2vMiJgp7Yck/PRTqicBeUJ/wnZu4RJzHDtPMSuhv2dfhY/uxZ74N/NU+B2JzvPQr5DooSdAScDNm/oJu3q0W2Qf8RHxsi26K132IVVBPKWtFZOSN06fc8G4QvKCtLHAEmR/kosOASUvZ9PmOqFHBFSe5I7OccaB6bnGltu75Gp5q+3iNqx4mZ3eWg/+/RZcQfexS6GoxlLb93/unY4WzQIka+mDqAJ/ecbJJpS/n9ZD9J4pc/I4zTJQk6NCUiuMFw3DulkLm7Y4kuWqQrE9zK6xcrIMbDKAUOQAiEM9bhkZ/zx84ookdL2RVmfrEqSQrCvdoZRyyea5utoaz+pbpOzO+EaOUYfBD5B+Du4Tti5uQtXAKQ4PnOG+tmdHgPdh2Yaw==;ph8QU6j1Sv0zqGhrXWKa0g=="
 ---
 

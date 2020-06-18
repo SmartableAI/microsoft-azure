@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 67 mins
 ratings:
-  count: 159
-  average: 4.5660377
-heat: 56
+  count: 160
+  average: 4.56875
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Monitor and manage your coffee machine with Azure IoT Central"
 
-secured: "UAJUz9FeB9g8PD8Ot8xbT9qpGcTcUgO5vpfHfEJTbRk69FBxy3HbsMknaLuoPVXfLBgVUiObWFiGAH2r4yFy3iz5lLsKPslOaUkKV86nEFbLA2GjnEkMKt9p9ovXkj7WdhF9JDjwgrR416jJd7DErNZ4KAfUWlbrtJ/4c2TDfCxVjn2Az09AGq0JRazbLZ+Mpt8P4uoQcUBSryaPz+szN5fQl/uJqDbSgdOg2Vl3JGUJWGuBhGW/oItzzvSrG5fcbSNHL1E3F3VOWmjAs2mo61edL5lSUJku88qXz+WU/4wSA/qw8/s9S5hl3TtjjKghhZUhshcofkGGNO8cRTweWFvhimOIB53aSGwd0O5xlW6nHYmFpIndd92rC+G3+OBh;N2CpRXzb4YtM074w2jUzsQ=="
+secured: "YU0qT2M5/zspYRntCGJmfVs8eBmV9mek6CifugXgtTNnGqE4ZrV5nzHGNLA5BHSSQWIPeCvFCm3Q0d8dcActppk87YOyscdQ3UR1QtZj7lOEYevrl8boWGYFyIsXskgKl9qUzZAOjzLkJla6Wr9Ttfp2f9uEOLGoc3IFoCCpmMMiK5qPIQc1WEOLHjzWEA2e8OA010CZ9Z95dsb+J2QltfIjbeQXotzpFblVYJ/ewn1jvP6pWCcM51LlRoRHXBCTaQtQrFwQE5bNNTGRyX0KH8Uo4p7U3TZ5zmtz/6j02aRZq3LyjPKi73hWlOimRBYfSJayXqXbUXucYCNJojl3+SKHWhHERe9gFc1xBxev2Ygnd7q5WqODH0WrF/oGroP0SLApQseCs94/Gi0653UcCA==;P8kPgpiR1zbiwRUE8JL+5w=="
 ---
 

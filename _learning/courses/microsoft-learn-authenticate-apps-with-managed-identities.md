@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Authenticate apps to Azure services by using service principals and managed identities for Azure resources"
 
-secured: "oeLcKiTi7JKNtoIpclEoXI6oMQlIOKnCdplGCCdyAKaA+BPUR44sfCPVNeqCL8HkBkZ1MymD8bbW1iDzW7RwUU/hI7wqW3FEKo92b8tlREw43WC/RndcRM3LAH+l/Dg2297LDWwze6Wux96ftW+DvFLeevDEU0+r/08jq7fwNThE40aetBHIJ/nbGzqms3fnq1qQeM/DokALXZ3ySnmn3e89Kwe4idhBzWkxYZt5EWzgt8RzVjyTPAnlwqwsq44iNP6xpPhxRa5A23oBhZkzf/YhZYB5egFITKeKNqMMryNZrSr7qg+aFl7m3GcLP73aXhi6ga+D9Vfm/nwSVNu3sowtcHT4CYKsl2H3ZUOfrbY=;izdVWVvelNbzfi56Xkv89g=="
+secured: "YiJI9HIl+MdwBuoVJw9m7ArOOPUCdLCP82rsg9XA7J/bD0iy7lgnZTEhfrWlrxX+BLK8gASI10NEWuQIp66Ylm8zkmVzjtFwuuwiEhzfmbwQ7nMM8zhafnlf4EA9iWiq+FCR3LI+uzzFyxNSiOsC6Vp1a0On7uodThTc/LOVQ+PD/RbY48MEYrrj5epIWQ7XoB6ouwMdjMvhehZtVvAcQOLxjvxoOHbtJ0uwJ8EBdO7R+cnj49I+K3Z7EVTJAwDW5r/2lD1/qPGWxDV1CNA9wfXbJS4GpoLXRQ2SOX47C3V7tlnvkvSfa0Tm5Hp1xlNulJVjsyg7D4sNc+Zatb3x27CTyUpHHJz8EawPZ8LSmWi7a32Wdc3SeJa5v8P77YuNpeU7xGBGAPt3MKj2p+Au5A==;HSLXAVb7SxG0WIiqMGBB0g=="
 ---
 

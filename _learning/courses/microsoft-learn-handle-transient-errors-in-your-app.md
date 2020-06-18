@@ -8,7 +8,7 @@ length: 59 mins
 ratings:
   count: 50
   average: 4.78
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Handle transient errors in your app"
 
-secured: "175E4w7r/dizht7EoiZM3idqt9lh0mJZRd7oxJu29QQgxina2MDv3BK1thG9da8HcfkuaGeB2GJjAvuVo0J9DPDV7/7STQR+kQpXBoqzQMA+S1s08U8KrWTxhqIG7Qv7MOmjazOpBPraeV58sx9R6tTZFAdG42HtKJLZkljKuPlGPWWG4HQcpai6n4ZLSN9v+AJOZGTUIS0aq6xRfXC+YmXHTNAYwtMRgdFfy1gSLMSRN95brGd8OdD+BFGutnUajadi1lhijWhYG+jBzVOI3P9TcdTM9FkWUDly/EhzFRMsBGGZTKywBKOnjN7JIcPH8ovBSmXnONR+TIK6iOWnOfUGylEVNr18LJJnBNT3n8Y=;8GJlnlfTR9+blGQCFmLB6Q=="
+secured: "E1rZIMH8CUXF64/voWNLUriDRD5ZMbH25EGS4cwU+ui+vZwPg8gQ93N9zjbVJxifsRfGHP9Xu83q48JRQJiRsgsadXiZwWeXbZYTX96OdZ1KkhvRfa7CWUMLcJQ+xePz5LNOQUSG8CfYfPSLcA5hyL0VAcVAPY+RgavFKEkQRkt0KKrAoI6raoPoMM4950nste4QzOKYtg1HPkKb7tIwSQ6oGNAfR5UjqhtWfOjA0MV2Vl+BMjelzPn3T+PlKskvQRpugeALESXZvxFvpog1dNGmwcybSG3l07OctuGdVoJgCCz6amUd4/mGXvLIyWm0PsagIPOw2FHBZrZU84uuOfXUCGxj87sBKykLB6abfyxGpHPQr6kIaYdPdYjUeXkLrYqCfKTKb84/PSKFl4CNQA==;kQNZdVDuDhLKKPO/Y4XnYA=="
 ---
 

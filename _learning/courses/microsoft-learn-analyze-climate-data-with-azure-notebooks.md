@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 45 mins
 ratings:
-  count: 1890
-  average: 4.714286
-heat: 108
+  count: 1891
+  average: 4.714437
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Analyze climate data with Azure Notebooks"
 
-secured: "YGpf5vxWTeJM8Kz1uk+Zg5lAyEdtEKdANZspxJe1ptbHuX3fgasDbLjH1wirogbupCL9tvQESN4lw9ZeOXQt5pM4vNDrn1dLMhDWjXMsgXQcflPw2NjYqujTmPXz/h5ZJTvhXgByLDD7c1J1ZT4AGZsTeYWZz1TwRnKcg3p0rIPBR41yjGqKmRzVzaW6cFycIJRLkQjtI5F/9hqg07uUEkQvc4Yn2iGSYBbZegRTLcDVBhf1eLTbY9aoCG8vlI1N4hXdsuW6Xa3kC4FLCl54bIiw1v38eFY3rGcw6qmCJh8tYlyCUYgjHatSJlVU6c8KZgyQzPKXXQm6k+hf2WpC0UBMADuEl9czgaDvt8xyHYI=;hgvmqv3n7FVmRmqfCHfqtg=="
+secured: "foZuXZy3o1XzFnbYGASogRTScWuE60R/0pP0JAffSWH8pM3u/2loqOc+QMxps6lP4Z5AKB21oMPrgDW/wu2ZVrSqLvqxEdsTOezpHvuOC7alKk5B8j5T59gqu8hqsprYnbIFBFDz2GhT6ORLiYCX0MX3qUsc4aEMAbG+NiMNGCZx6Uoc/7b84G2KW0/WUpvMwum+eoT/aT0WX2j97gRmtcLWSJq3+eoJtxhkEGtsMTBEcOtHqOA+lQtCcR8a7U4yCcKTWQwm4Z9MGUyBU+APdSNb9LBPbm2BeX1bcQ8vMYSXB8+pnItd0CKVegB7CC6TfJzVE/mv6KqWGsZcGS2CzYrIsxoLzvIXFfnc1EKygZdUScFfzz2hs69K05g73KOTqQn0oOBkyITjJuVp0JGjnQ==;KJ8bf6SqGDmXtHFMb22shQ=="
 ---
 

@@ -8,7 +8,7 @@ length: 73 mins
 ratings:
   count: 98
   average: 4.591837
-heat: 54
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Create an app to run parallel compute jobs in Azure Batch"
 
-secured: "DFDiSYA6trmO5/VB+D+l0cdQl+/XEVYT+DxV0dpbABu5ivDMd4zQykLYWi7NLmwNWWlKGn+upliJK+RW3nN1eVN1EDzJ3W9yyGl+HCf39rfNlx0CormOsRXGvjJJNiEXkclrr5J+gAyzsr9K6zn8lqxnr7rCws5o3iKmQospf+WdGoloRqrMX+ueNv4WSRIzpvrw9LwRKnqGd7B6GnhNRedCWwom7D1EqQR10nacYhv5Am89Yy6z5GsxyWSalxKdq/O6Y4S12QtVDrO5/ZJlsjBu0QH2lWjDdOT3JrztBTMX0DxeBobW6xTPXDy5XUQ5EkCEu7QDFf/rFF6REr+N3TufmzXqAloH+WEU7sFCaPk=;JPWeAEkhTUprhgwDZbWRWw=="
+secured: "S0LLW+LYS0p/3y5unsejaU3mQJyavWql6UEYBGXk58s3YXdeirRojOObGiYQclrn8W/dyID2y4R1yMZJ8NktkCBqE5L/jFTp2zU/x0QL6j19eA0R6o2w3LeJZkkAD6UkdQLNIfnqIlOqQx37/n9cTXgdl1HOHNNkT44c4cFXjnd4PWH4A+qbiwJ68knl3MHyMm+qnC3ye2TDN0VvsKhje++/qinKUqngwQ/OV6ZmZWikeSpRXplOKZapV4COZQHN2dhf7PVkvV1g+v/dE/i+jY4zOzHhlOVUsiGzppXIyDMGnBVYBSLtWkQBfxaSuXYuKMWin7wjkc55VsE9mGlGsC8ubogHra6EE0bvbg8RLiCj5MytNbWUHZbIRvg3CqZslcva/Tn6RiXdZYLX/w9kgA==;NoTtUFMeV3Ju8j1t/VhOkw=="
 ---
 

@@ -8,7 +8,7 @@ length: 19 mins
 ratings:
   count: 28
   average: 4.607143
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Virtualize memory"
 
-secured: "gFY3mdMqdv3P+oQFzdCQpPnFIfKkVBG0FTvTckLzzqL70BXIOMxrOuj5wTcpjMDWQZc9z4v4lAFGT6KxJsHc1Pba1CSr0T9EnAPkMdJG+D7XQuJZ4e/M1vqdrIZxvr6wBe8lZzcc3a0k7FPaVoh0OMgxF4fkoDKgyqIX8p8VNwlDF8vuo4PNuOJNqMLcEnILrFTpnu++9ixyv9IePAfkBOFlIYK0GzpfBNnT8wmVmXiAbPyTSQavPwmdpHDlZKdG4lyziE4l1sssquRpANIW7Aa+rMfFIHHXyviFn1LX/0MuE3prOL8XMR7ZfH3UYpi1cZFGd1K3hqn7Ugj7sYgD3FlcSufJ3aLyC3raP6DdTVA=;x0D+WzoRxPdzfjSAu2QhOw=="
+secured: "eyjQ3JJw+cE3gRgMMMRRx5/ojyluOdN9dnGdVbAAVqMGGSf0DXfQnfUtRz6JwljNXYyUYBf89wkFWqKhjdyX7pIGBEG9i3997pQk/4wiiFbO4Iy+MyU+YdNufCYDH7UaSnPnQjNhy7KiFNdGKHBiXFSeNV/QCgdDXQo/gNOb2GqPaX07LjykTZ78zrro1kB3tACIwNdq4qCsZWHvYPre+0LIR6vEeixaao2dS970yvYZKMg4AUapFwRuwKb8pVIfFDecN9H3/AOtYqYo2dtsKl2WNQu5GuMYq3ksUgA0xNR6SGczKfoTwXHtsKLjHB9YZHailFYw8Xt7axHMFER8MWVPsr5mGe7pF71/9eIUECPboa1U8EZbI+lDqYBG/znKrTbGrr3AhBs/w0VJkL0NOA==;8WyBEfGw3wOrwpbYMISqBw=="
 ---
 

@@ -8,7 +8,7 @@ length: 66 mins
 ratings:
   count: 74
   average: 4.689189
-heat: 53
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Get started with Connected Field Service for Dynamics 365 and Azure IoT"
 
-secured: "fUCemaAymwYI+Q8Wm/T2Z51CyYeDA199exiw/CcNCuVkU/mgpofwmfJWopJSa/5gS23KR8nMF+QboRF21C4l6h6r8Xb7Zbe6JYRSjmOvhpF/RINm8IfoagyGEoA/jtVoU5oT8Ok83/tb78ZG6jKRi+n4NHJB1TkKKvRdUNXaiY4VvWPFEeF6FakKXRnkaGlF6axXBkOu7IMI4IgaVEMXv6MK5Likqq5tswIoJyN3VW28FIoQFecEOd5m7muJ308ylZXUYUChI56WqW8e2yRlchiqBu5DPKjhIL6hxZFYSohdQDROuex85yOttCLzL6YXJo+7sg6MsLNpUI/6gAtby3yxtKah5qXLtvoJPfuNgoQ=;BsnQ86yjDD9F889NtF/+2g=="
+secured: "NkwIPTDmmDbnh/I6O1KNChVDFF4O38YVs5bc3bUxF1pSS2tYaPXD2EQOfFTvwV24emLqDm+/K9vweA87Yz8p2WmesYqs7tI+Ooiczq/UmWBHycjRNLjeb+LJicjYEoUOLRdmOwkmQBjzg2ImL8wtDN3EQDrI7/YbV66bJKi2L3kvf9/YDrkoKODCBDLuN1sYrkWXg0VeBirym7n2Y6ke0joT4+gEiH+5OeAAkjFrs8UEmLOUbF70NyettLAjUl/tTLvn+/2BmtUB2vxNsN7EHCnwNxmzA1wfqrbwrzRtwIzhgCR+BG7Qd/5GyY8rDRS8ehG5NG7KWvWrcD6eNn/9gFlV3g4E6AJvvcq4yG+/YB4xUesYvXU2R7whjoaDKqjPRsqqHl9+TFT/22tkTEVK4Q==;L7aDlyBqHoarwnmeJl4Jyw=="
 ---
 

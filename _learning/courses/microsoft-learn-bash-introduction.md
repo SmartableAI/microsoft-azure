@@ -8,7 +8,7 @@ length: 57 mins
 ratings:
   count: 22
   average: 4.681818
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduction to Bash"
 
-secured: "JZi5hvgPRZ9w4T1DewJLh9zEs+1ctXm0th/5SLVD72OUkWe5Xe9Ij82HBKlrbo5owVZSJdg65QhTwTgf/uJsAbbJTBR1RwfERZoKv46Btz3Np/FnqyF1EpUXS9bgxsi9LP3uyx75eV733gJzDkRUB5QJY8yn9tAFjR9GtlIk9KuoWX1TGdp8h90sJvrpLwnQLJvm4wcvPm5yCIzzxrO4HDJEWxYxE8IxL+wlTrmoxx53CLKCgaVkHnZbF3zty/ZzJrXIPfnpdHpnJ2yXGW+rO2nnQkfaOE9d55dMEcBcZJGpexjNMX/KNHSdWvbs33tuhqAAyzBzr3odGsy8i3eByMW2JKpb1YgV3cwpjaf+Lc4=;Tf/1tEPhcKMsnM5ODSmQlA=="
+secured: "icf8rqc7lXGpCx/CkydblvmVJ7uSK9BtMwl1hxwEz6lgwAsNZrW2CtAHHoiSHL1PkYmXH3CjPMpa2VAPVdicpLCq9vrYbFd6xmIJ0SPCHcL49oeGYZwJ1v3WM5RLAYJCs+GZsDtiYhTPVpHqLPNrw14AArEPuVbS3TqisvUS4Bd5foOmFWiQ0l7/spTE/Ld1XrtIUXDtCe1pouuID5dS3+S3OeB5TW6HkhEMZo3loyJM2JrTJ/+NGzl9q3BNd/VsDNZTkkXRl63Hn0LscskmTY2/FT4Fa4vImVzv8FWp2dpFvX/Y7S98oji99RhUGIbLSbRUtYah4YF+IBsGVhaaJAyFkDPgWvjmbYU6KwLYxVTPqb5UHJskVb1G7b/sSs6WXKvF77DMnqcBAHBP2wAuYg==;NJ996tKecw6rQKNjwsEtmQ=="
 ---
 

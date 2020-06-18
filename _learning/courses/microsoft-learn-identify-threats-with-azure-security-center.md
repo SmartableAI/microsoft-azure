@@ -8,7 +8,7 @@ length: 43 mins
 ratings:
   count: 553
   average: 4.649186
-heat: 71
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Identify security threats with Azure Security Center"
 
-secured: "rszTlq3kA6NcwnoPhDFqOuaD+Q+lERKrRx3BpRUzSzuh256rYTo/xxUefzvZmJ9JAuFdJYbpfqi+cE6rozpSmGbiUH7+YO9Y37BI4+gQgTHZPZf6ImHoNrCOUhrzDucr8m7m+AONsp+WUd47Gd4hg0akXeJtmI4PshVauZ4ZEXv0u0MyACDbxvOWg/LMO8/RWVe94lQ5GcPBsn4polhYTmDu+UWgdyXhmZ1/4bikLYyraWdRmE81gxICz213+znb17Mqf+u6cZDRk+l1POkOcwz2ngYlANtlsONreFg3jUhaedqlWTH9infFbgwoY03EshPRrfIQmm0NEKr0qQNtBEsSOMbaOzDyfgrpwiHqParXunrU21i+tvw9AxO3OoUn;hm1BHiB+tn3tAnygJ2avdw=="
+secured: "ohB7MnmE0EvNCsi+96v9g8X7U5IMwWyb4S2W5ZTucRBm9ZQNZ+i4GslSJdlOHXmITfTbds4AuJvVRgw0CR/ej6U8nYiHICN9d4hwutk91t6f7nqP1vdIYSDVmY2AQHKAnI6cXDDbeDlhPnfp/CvtMr1/a0/91/EX5x9yt+HlRPOth5IGXnIRIODrsYOrM3MPpwNn11PBd3XiJa8jjZMnmel6672qH0tj4FBT7In+QZ40rn3b59QcGF6zRjQmRsaelIRMFOkT6P2241EGpwkNDk17vSPMBdiXOAp42EUJSVO6fG/QqdZCl5YcsZPIS68NgTinWrqmskIEoI1s2YaoJvEbVm1taLdQpQCC+votjSC5/bWfF2vVwGcVG+p6GCccmd0SQDDG6uN5I4JOHehP/w==;KVFnAF71122uSt7bsmp/3A=="
 ---
 

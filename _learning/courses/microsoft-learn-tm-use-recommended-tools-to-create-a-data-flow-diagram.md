@@ -8,7 +8,7 @@ length: 18 mins
 ratings:
   count: 83
   average: 4.6506023
-heat: 53
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -38,6 +38,6 @@ images:
     isCached: true
     title: "Use Recommended Tools to Create a Data-Flow Diagram"
 
-secured: "ecDOBLuSE0Vz7UVgwTxxaHvOBR1LkjLg/T/dtFxeiBNcUFQN2z8Vj6VXO9sC+g36BtFEPTi+TTLXkgIY5N2/3wqB4a5ViFwNuy8HYOirP5ZskVMTl0p3U2F1Z1/MLkGsDgQnwqxmp1baS8uo8LS995jOBf2lq2hP8OivdQ6UalcfxoycQmgXFLIYVadrNwUVKLUCmLFHaJ6ae0dgW10Mwdsas+owrzK4Jibpidv8wEVJvwj8FSt6MDyDtIMdbpxiOdXHpJuuHWCRo4Orv9Zj6pLJu+5KRqE5m+VsMTXyME4TkTPFLL8oZ9m53gpHvYjTXTDMkMECD103miUft768UrOMdwMVm9fBr1zZqZA1wQk=;DvOOMnw2AhQXfRSz6i4dUg=="
+secured: "xG2/1ZsuQCj0pduBlll2sfUiuRFMjPGm7u70PxgXfKslVHuY7zXJ/3jmXLpuLfMZ5XNAuqsAo8HBGjx7rd3RnOLM+3pfsJda7mxQU11Rjq5NqVHPwkkFSzpYLrbheIu4NcmPhpM3m5TZXbvuvE40qpqR/WgLWBKItiHNQ5W5MrXtFAvJhmPRW9wUqrvXosxeKe+Myy+HSeKI02ClXd+GxhowJEkhCfvtiTmriVYL7djZGTc2HbnZQXKOGu/pSNnduqLS5QV3lkP1/WenrDfYOcTandARDuHh2LoHsyVue7BnOAeWyeGmYTR9Yu912CElI+q+9aZ2j0NPXTADlBOo6R0lTy0SCLPrNEyhdZk0wWitxL9eDXwh2K7zordanKpNUQtyFa82K3t49JYHmauSEg==;mo7iHN5hAeiQPDE10KbDMQ=="
 ---
 

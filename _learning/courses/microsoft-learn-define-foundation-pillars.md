@@ -8,7 +8,7 @@ length: 16 mins
 ratings:
   count: 258
   average: 4.713178
-heat: 61
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Define the foundation pillars of DevOps: Architecture and Technology"
 
-secured: "dbtUgZNbLLAKs5Uu+D7QxIgIzpcspvv6Vp9N3aql4TJ1SvLdWYDd0KgkGb6CzXu1GjomeAjk1JK1Hp/88cNiwDw4/v621ZiNFg+Odbo3coYmCXf3fphk4u5JLygmNd51GPWYnAE3yoOCqA/N2mX/bTD/ER/7lrUrTr/s5Oq60bQJEJ339GwkxroacbUblCKlruoTt8eW8UjCEYpZ/kwOWShZwvy9v/utW2Ux5aCACaXO7IjAtrxEwrh+Dai3QmSiG4FhVgtPQiL5DfnovRC7oOCA5P49A7ut126DTv80uCkxsv5rLRNwMCJVZvSlz7kfJANhwIiA++q/lTYrjPzS1ns9yjwHIopTetJWRXA9TLI2CKts4NuIX7EEtLSmRhwh;H4a0jVV6VRpLVSOe80E9Ag=="
+secured: "0g54zX+D5SoY0Uh+sVq1CC/SYfjiKBRbIDWV9vGgsH7ui3aVlIYWhGu5lpp6ddOETwg6s7ckmnl9F9GVePzzx5KHeYFeS1R7Tk83launDdudDt+AVG+jUauyCz4X1xHpGxoLfumPFv0sguUPK0R5Ws0ZQJRGaKFozXkrDE9Oc4pmOkiVROBgPQfyXIlxMvXz8Y0fpp7GOIAPZZzccOSeOrUuPoPDmwnvJfJRHt6ORc3hLZoT6ety2sL+8rLaF7n8mkdrLlNa9WL9svCB4dazASt8/02OsiEidRRQBEFrAd29pVG+JaTVUmL+2qb2NAFOUAuN3c38VjTo8x7qSfANssnlspmE+d4mqnC2T41NvyLmqO04dIOgtsjnDTYc16rzkXHJ7sog9Yk+8fPpl1e9kQ==;lFMHhYRnYmBhpMm/3shtaw=="
 ---
 

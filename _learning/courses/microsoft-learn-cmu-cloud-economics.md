@@ -8,7 +8,7 @@ length: 54 mins
 ratings:
   count: 40
   average: 4.575
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Economics of cloud computing"
 
-secured: "EaUeoHpKChusF10xL7PSL6X5SahuxfPG+QJb6EYTgCH0MNpFJxaWXHiMM97qmjNCU5Z48JGs5+yPeLMxkK59o5Ga0FK+SYTOWx4CU6nqdzF/0Y6M9DYM1c/EXNQ7/1uk7wJksO/AiJk3wvVndrqxz1BPv0FCncFlHZisFlvFiz8QCYSmQ+yyV9XvBVhhhkdLLguGjf9la4kZGN3UoAWNhhw9JU43bTwj/SZGFAERbUS3iIcVy4GYlI5U1PxDhdopFA8d7Xh3FYYMQ0QBZ5fvjy6gHZeV4s3o2tBuTL7NGpAQnTyjRFSsh0AURR6mF66EQc9AOQ7P8WNh9Ca/AM8gEI2W0m9i5KHu9+//bxD+yIw=;OsT0VqivGi9t7E3eXW5+EQ=="
+secured: "Wy0AjUxYgpdsFaknoQDPScWbcG6yTKWr1bHQ2pnPjYftlHWPmuex/cdpDBHDcy1ur8fMwKaLakKuuyapKFgXeuYw7eT9jurId57hpxRFmL3+WjuY8a/LrlkEsIi5GV/5KH/gMXtgOjRdr6p0R/3c9hVJaGIjWmjMx4FvklUJTYrAKO9X39Vqzq+vpbXBwV+RZK/gB/40iWCRYqwhTqxnaXARHwAPqPZxban0ZqVGZJ/8t5YWbnwMKS09F9RFdjADiHBxTsOLXVLxmel2xM/GsW/pBRmNbXxj44BYkO3+eVbgiz6psh441Z0b8l6mRHhTKRhSagy62gA2+O2dlSpybOhV6U5tuKVTR7rE13Kk6Ro22/WNUOzKJiOvwQU9+tI/XgQDtwaV91nTXB4Hf5z/tg==;GVO3946AROM45j0fiXDL5A=="
 ---
 

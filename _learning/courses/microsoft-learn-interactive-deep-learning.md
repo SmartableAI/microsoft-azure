@@ -8,7 +8,7 @@ length: 74 mins
 ratings:
   count: 64
   average: 4.6875
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Interactive deep learning with Jupyter, Docker and PyTorch on the Data Science Virtual Machine"
 
-secured: "PXGjeBVkyt6jqcfrEOM9muz4BE8pFK5xsqi2UDl4IL9XBH0j3nNcSZx10WqzGLfcvnD486U8W0ja/WwOAmbkMKg9dKPFjEW1CRhdeeag8UkBAqgse1R2438Ud0zmas09BR5wsIW6dz+ZrXsVd8NYIZZSt/NRak7sz7JJ+TsBhIbKwPz2VVQPmRq548bNpPSdPVC425Zj7JUkAYvJR2F3rWmcWReLN5KxWAz0eZutXavQGwEAY35WhJQyBYIqaeozj0ruq4arOke3leLQisOBZ2O0Ocf6NwBmPO477meSObk3dRiNMug+XV/zg3BfTzz5LTtFoYcSmIDDAJWsxprYOuJXOg3sznXcH1/oddGO+6s=;kbN04VQGzXcLuhT7/ATMqA=="
+secured: "Z0kRzOFUQvMLwRtiHduvXHtMoz2/tDJlLDyRNEnaCiXToesP24O0BYbWxrWM8I/DsHUBIAXwDrxBoiV/p/XZtvOKP716L2EL2ucoCSxqZBvxEEnMXRMatz09Nkvp4vEl2eDoBm+XzT88kujjEeOCnkTji/b01Bq8wm7dgjIWEDWdyaP5yELdokQZLo6HvOZYzRAVOaf2VAt13f4IUrPYFKimz6GYDdK8d4+wOkL5bbA6lJjSlXmlzt7x0XhGxrQnpJWALJu9+UxDqWy3ITjU6VxYBPII7BVDssg2XqHk67avDOfZYhp+oTeb01aejThJ1Fo/jdTSAlDyUpxJTVsafhpY06rW9LXz3ikuZq7EPXMdZUiNLBbmnHE/nuuBVkX1MyEalW38zMi6OSVlVWzZRw==;raEbmt9fngrM7HNImlYpOA=="
 ---
 

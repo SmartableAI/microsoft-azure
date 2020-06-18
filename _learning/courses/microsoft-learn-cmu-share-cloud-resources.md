@@ -8,7 +8,7 @@ length: 54 mins
 ratings:
   count: 48
   average: 4.7291665
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Share cloud resources"
 
-secured: "ZxhWK0krTLs4/MPKgkJ4y3PfuU91nJbwk7V+3Y21wdIkZHNV8UMCojzcmL+qj3IuAlsKXwV1ZK64Ks6NsyMLqmjQsdxERrlnoJ17CsF5CFyzOXxxn6sMUvA6iMqU9eauSu/F2AuFef7bUfoLearA6bTZbRVWykzBcRZ9UG0Y3w1M/julB6LBJ8ZP3MBM7I9CSTxhdYylSNhJJvkF/WL5zlfr+7OKOWzPNR87CpQANJMqJsHf57ra+w2QJG5QHOsSxl+2C7oO4sc4KOoTOaZ8vDQ+3r/Pe3qPTTO8DpXpoy3H5lsyV6+szoxrkkfZKgij6s5rXHMi4+QemiX4OtnRUWXPOlsJP6OHpbKhyA+G4R8=;EQbaGMcmHm2VJhZ/Te9j8Q=="
+secured: "+LIP7KeSJ/Z23mFuc2yj09SNx0GbSNfDljnD4HBH4hZe2Aey6MB7U/BBKSWldsdGahST/ugNxvesmiwg8REC0p20CUxoDGJTldcnZvePZ78COaI7ADk+pFxk4Y6W4NQDCTTQjxwRpZjkmhgMSYDc8fuyjiphCtnsgCalpjywu+nddQqciAcigfBOjOqUoY/I0v9UqoJG9hJ9/kQ6weY+9bawEGZO4gW8YHA1HiTMF95F6p+uUWw2tSgAzp4KO5/PPBFPQ9XYMCGFm80gRJkClBPLqA8o723+UgIINwGEqZhq4TRak6rfyyqgPEJgoUdF8Sh/U/FDUjmSN7mnidiQVpaPCVaoMZSJGqaBb7Tq30ubLaNWXNxo5nxd5ky6I4RZxHME+BaCJOF0jZD72L3Evw==;dJbj65sNmvFOJCEWr+07ng=="
 ---
 

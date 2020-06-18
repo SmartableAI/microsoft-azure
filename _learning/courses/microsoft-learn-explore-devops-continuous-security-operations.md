@@ -8,7 +8,7 @@ length: 22 mins
 ratings:
   count: 135
   average: 4.674074
-heat: 55
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Explore DevOps Continuous Security and Continuous Operations"
 
-secured: "qlQ+vO2YYMgZq2t2nic8wdFC167r0qvS837UaQIESBFCMPa5dkZ5b5nGvoQ5CsERp6EPtdpPpNb7oFEl37NFs4PzzE5dvxVOh6G5QdK/o/HRsQtMGWISIuiaoTfBRJeNkgbIZRKLTphG6a4bB4QXUpVIN79+TS/ThzwlC8I7X2K4JOJebK92DnOp8GNsCY3A7de9jz/JwXuv1ZizziqHluhI1jQslvmV+FUF7IcQOmqR68obW5CX0TsIYdZUCPQcdreGoKDWTBpgDpGUD2vOHAqW71JQS9cEsYKn/2URxYlUtoUtGRpoFjYubTTyMr2KfHB5Gk6OPbUSppmzRz49Ons8sMLNYtGpNegS6LBAkimWYu8DzNzoZVm1reWqlhQ1;YIyKCgJlwNN75BZJPD0bVg=="
+secured: "Kepw6MHw07ZBW0OCO4c36LFkmJasxJ9vJMe141wcXZoh7+CAlftgY67JqIm3wr6nKKGSUM0MLQQ+B5oOoDc7eilDg0O20pgMKFTZ5uuMcvoXKxATXkONED8Y0cQmZXJy7dFM5SBKuLbKnqfuODtO4jj3Z02UBjkt/xKwYtg0KrQd2n/0wNNauinBu7Ef56tKmFDj8G6zaWfgn/oIHRnLOr1cik516Ferg9JHlTsY9Ofp8OfXNazkzsvBA7OEw/X4P+xRhbaZxgqhIyE0DesqQb433h5sjHYgtMy0mAJUyCTIMAvyplCg7UXNjQgyNWlCMc1ljb9tqpWGt2EobXDzXcXskVtXalYxPJhWvcDmxkq4rGehyE/7ixXXM3jOZ7Ru/8Key7WYJ+SbRQTdDpvt+w==;OMCTFVdCyw/Wcai+ivr4ig=="
 ---
 

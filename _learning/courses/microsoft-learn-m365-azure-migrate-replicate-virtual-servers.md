@@ -8,7 +8,7 @@ length: PT28M
 ratings:
   count: 28
   average: 4.821429
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Replicate and migrate virtual machine servers with Azure Migrate"
 
-secured: "+QitX0LpDGu3q0WAeDbekGjWSKJAikZ+ZG6Jte0bUAN0YLzidaoCgLZAd2aSuO/SsOcq/U6faBn9HngOODiV2N6m9Bv3ZYEcLQm24hxAQTxfyUgLTsFhLJb43QKKbQQOAwTGWgumOLXLiXTYPhJv/y3bwUxAFRUIeeCIuBu55/s0lTu00NJRtVEEwDXRkA67oeJwcQCQGyD7LLKDQE8XBaNAzhyQ7Ox73NRJXoGxG3Mb3RUyC3WcqiS34qM6d3tht9oWthjpc6n02uTJfKIYFQ2R6zHGgSMxW549EwIH5TLaf1GRA+K+EzRBg/0d2fscUKAeR1c+F1rc2STnJ3+vA4cfRt88KV3KQoUZOot35jI=;r5J1i9okiJBbxH1cf5GBlQ=="
+secured: "UIIKe8wc5w+EqYRS0KTDdUk0+NoWUAz2ABSKxgzEd3tsSl2pwdTO5w8XU7DUYiT2999LuMnsYfaGH8rxQ06PYdq4wJzGAzsXy/nJif64yaFgsDZi1WQSM0xTyCvpRsMdmjL6P6zXrLtr3NxEcLlBCC3qOJ3t3ok3vO3tq9OLt4qhRaqGJQQQ+ULJ+ClKePbnyjEA61sMofWj5othSTh83vyIgJDxqpYECWsK2U7l9Y8kXOknkoixQI/sB/lEAsdf1HGMkmp0PEiHEy3SR4ri1kbArS1GndEfSTTtwffadkOvHerzUSlgutTmsZSNBpwZwGjIjI/gpo1K3oNPnwm5WQpzHmBdTeCeCldapkKjz2E1Hwrd+zxR/Nz4lOtbvldSCvOUuLbJcSgat/g6Gocf7Q==;47FSySkcp4WtcjU85c5D9g=="
 ---
 

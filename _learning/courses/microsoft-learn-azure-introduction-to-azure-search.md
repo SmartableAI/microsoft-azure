@@ -8,7 +8,7 @@ length: 53 mins
 ratings:
   count: 153
   average: 4.647059
-heat: 56
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Introduction to Azure Cognitive Search"
 
-secured: "gs5GD7bdEgajFLrSPQbhP2kjKC5eKwzjIzTYmy+VVbsVqYduNj0CLp4xfK+fyXPjSUhKNMqRs2EA1xB+0dDxr5Hnu4s/ulhwD4P/pGjwR31aD5HaDip8vXCZmeIMjAXYdUXam5Aw6nzqPnXheB25UCyHb7G7WAs27Crt3/V6nEGgwNAlw3s3dEEMJwD+4Ajl5c/xknEUZbrltE8Y6PcXod7ZY6H5mauUDjiCAWkatGlsjgSqNfOkv8Sj+3nSBKeD5Cy3IPqM7tzlS5dA2NEW9xwdTqu0TFyEOVQeM7XWL3Blo7D1zXymQVvCgrgdsad5Ove/wwBD4b6F4AoERY5kybRTo8C2YEHm4IoXeha546WWwVzCwvOFEX1u/cy5b5TJ;7gUvWmk+uCiSERB66NFj4A=="
+secured: "7PDHhpGzdP4IqnwC00YLBz67UGoHoLnR0tLVhydE+RjmYnWGNcPCwuJoWuhznKvkd3PIgmh+cYJI0aAQd9xUB8XpyLPNNKK40vAUumacF7X0D35SS72LbIN+eo6bokxclpVn62u/L2EnY/kI0D3tdXiTl+anodxoYAcpR1FOkBpFJ/5UfhsZo8AbzcEf5poWIRlW0ilFxoT6vf6sLCUJUbYMfzr94yFJic+CmxuLmM1uszhDZtlFmim5VAcpPP92T1vPs7O+S4ODywFWgVKJoi1ieSNQNcGJI9pQ5ZRMKkK9eNYL7fVLWVPGhBVeVygrk9JktdWlUrN5owAyzIVY8I8YQQsdsLTB3zoWzqKbP09iVBbO80lcnTTKGnJwn3yKiyw4zpmgcobWEGIlSTRi9g==;fHZKwuVOzp25rAKp7sw4SA=="
 ---
 

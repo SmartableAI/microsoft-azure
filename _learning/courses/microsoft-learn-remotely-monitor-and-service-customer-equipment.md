@@ -8,7 +8,7 @@ length: 70 mins
 ratings:
   count: 70
   average: 4.7
-heat: 53
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Remotely monitor and service customer equipment with Connected Field Service for Dynamics 365 and Azure IoT"
 
-secured: "zl6O4eGYj/F8xskV1qOTkf7SqWvN/BzleVLllIgIAsDaKbAFz4gClshFOWs1pCoMeQAHkzmCS+Uo3Ts6fO9UkRr63tWuRaYZaTSbQPnwd63qDUHU81rGL/JlLr92TzpW4wxQCwtNgw/uKBXR0VDYKyDupF/ThuS0Quogu9rMPIvcS2Jtvq6OOZ8kIjQYbSXR6wlzDm3hdXzPm1fKrZlZI9K0BpLMcKOzCNUzDApKjWw47N6Zhj+GTEAOWbb45xBl3b9Hi3wzLtxzneouY6VWw1f2R/6abSJEklbhQb8+6Bdev4FRiw09PV7FGLCRQ7EQV9KJykXJQNrLx4PK1oWqKs6QE52jcBGadVZ/kT7k77E=;b6fHBLxyHgr9l2Uvz/vhwA=="
+secured: "/VggjPxyi4bJ7wDUTFqAlME0IJEDU5ufEoFkWzv2d24zrIXvMjetg8X+sIYbcUAypg9BFE8JyXIjOgynpxeKT8fGesnkP7RKvpmUY4ZAotMdKUfgXV6F7tcm2oqg4be7xDO7Nn4OayF66HwamXxWxD7iXEVggPJqs4cYO7q4SG+PoNK3rsUaLy0qf1FV/0DrnHh6HduImlvX3gqHOWgxoCkVXNw74J6xGThaQXPp+zFZGZigs9Zq2NylhG+dRLc6JdWll5mxljr5j4HkScjU8GXy0U8A5djbE7sTsW7lrY3sBdKVKwX1o3vcbzGV4+HT9hNpRkPZZCATBx2ShHgynfaOsp9VLfYvn7IGUcGlgIzga0gFW7afBrhq89+QY0K1CABsymCcWJ/APTjSIPWRtQ==;tZ4rQKAEkACixDDRuSVLVA=="
 ---
 

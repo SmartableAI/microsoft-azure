@@ -8,7 +8,7 @@ length: 80 mins
 ratings:
   count: 284
   average: 4.767606
-heat: 62
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduction to Azure Government"
 
-secured: "tVmeVilE0Ipa1U3gSBEds7wxeEilcJ/oVzQ4cYVSkUISn0Ahxj6srO+kW8hZ1Bi0odywQ96aOrDJnfyKGi/qVpmB/b7FyfHQROGmTXi0lfI7olTJP3motgeFSk1MC8pFdZP2zNPH3WgZs/5jORNSrT5Mljo6+VTCUwDqzRi7cV8LZSZFX6HE8TudqPX6jRZ4nivTRbxAYwRCiPJu9vbZ+IiASul6aardLShx6ejFhQ5GQ2bl00mPNjhMHV9WrfRxK2CtIbeHWk6jgXRTXp089CnR8xwqUFdyZT++37Mt0GKtvDtiPJR7kfjEkq/E69lgLqUiF6Uy80x0w70GZ3vWkkiQuCq6CmaMzN3UQlFdOU8uOMvz7MpCYDNY01qqH53/;gG9H1oBZfPJkpv9MSMLYOw=="
+secured: "DydsYzgZKqzFFgwS51gYoCtLmRBOVjh0/MG+ILh/8E0LORxx85ufnphrlgTb8/IVQ4FVNgVaYjDezz6s32FDLbaNfjOWRdMX9iDNvGwtM+KeaUFd1ig95yGDFOSJLvwrtThUf9pn357HtHhW+LPfi32O7c8L1AxKa+rmSrSKBtpGCs3RfXXHjqFpHueexMMfaqoFQuxGNxtZY6XOjFigjsE8o6wudrluwJqZW7sX0/QWiH7cJTPSedy5orbcC5s38W0ITf4gNuGgBMLQY6qtWhnD7PQIDTqGKE7RfbvsqA/+TFib16GVfPfZ0t4ZGkRAcXTWPTPi1QVn9bnmdyA3DBlQzuaZG9NG3p6c7bXuWdzBqCLR7KvmO+toK5JIa8XsKZORrQHej/UD9ctgJI0JKw==;MUAmIhS7Vol1Ka+5qiC/Rg=="
 ---
 

@@ -8,7 +8,7 @@ length: 50 mins
 ratings:
   count: 48
   average: 4.75
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Support concurrency in Blob storage apps with ETags and blob leases"
 
-secured: "4F8iGgYG1eiJ5AMxICBNGdHUxkKfc9834/4UdojL/+3fh7gVFnoIONvh9GBW4MEMi0pJvDEB2YiF9YnZ2EkY461VoYobRdOrjC7ld06tiU37g9KUiZ7H846ejiL7HIr8nwegZBH2IUnzHIOh9M4+KEYbFhYcdZ0vTFGyCij1u/cuGEsZQeZHWfUHBw+zS4IlCrteZ8gUoXPY3+IQEWN3WxGgkHq/0UEMJt2OEZhEfSWMtih09PEUQMvtqpPvGDjKb1cFdZWy7zz//CW3gylL3dslXVRgMQcMVrOJmuUQ2EvkbKadbI62I1dDJ7AcUhLGkNuLesWcj8kfXbi3bBZdfgM7+L1MBJpY4e//zfozp70=;+1IEnEFCG/08d8+Wh+hraQ=="
+secured: "iJd3NSJ2clRri0VDeEKlc2UbFFfEY3dTZbR/SFf8NCl6smS7K6bpnaUYeBZo4XRoGQKpQW/hWnF91/6xIwt76/s/CCMD4aRiwtXVUoTfUNeO0O9HUX9kScBsw5Nq3wOratVW1vLsHQQ0qvYDC4wICveP/kWMPK9r+eEpIUnY4/MaNtiooSEPsNFTWFVR7H3quXEd4PRhQs31ebL+NJwBikAjZM8GL0Iip1ilHj6ajKW6/tjNRuIX8+EZufyXvPkMgw6bylrO7QarjpGWuVOcr9N+0Z6KEcYWPE20fkLiUaj91cVmfU95u6Ppk3+TYzeeVv3ywg3IWN1piFvtqyeI/KHzXMDQULS9UUiZ0fp+7ff36ixMnNym7TVkm60l+nQ6FNooieQxCHyF/qTTLCXjEg==;ZJ/fol0e0Oj2qSpiV8WGLw=="
 ---
 

@@ -8,7 +8,7 @@ length: 86 mins
 ratings:
   count: 50
   average: 4.68
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Register and manage customer devices with Connected Field Service for Dynamics 365 and Azure IoT"
 
-secured: "g+nhzYXij81+qYb9xp7qF55Hc2k7hBqxc2r/ymp31NhJE6y2amSgzGutfoGz9MHabfSPI9E3yRBtdQRC6w/ZgpOp0XKxCwSp+SXE1YZLkZpZrxYb61m7zDAq3DqURICg0q7ByxY44yXBYD921lH9QGUfoNN5pkdV3KrnZ04f+EAfuWQmsrvPCpUZIM4laiwJAFt8X++bWYNb1ZAiQ+kUAY2FQ1xxGxf4NccYG0+Ujm5HmwW4kvP/GLS+eVQw/73amC0iDDKrAeBSBzYHz3KXvzXTP0mjZXamopsxuR9BQeSfSKc01biP4OZ28IrSAL6v/Im6HShb/Bujaslv+RzAJIaexo8VqKCmKcTw/JiZ5v8=;H8eQKnzhhp9DF39rwFuCzg=="
+secured: "nRsSDKiRg8MqbMYfrXDXZ7JkoAN9NEZz7YkPDZG6y84cLg0tvEMwXbYA6jZfSaIVa3OJ4oaXXz0fApjr0E6SGSKmGv/QK+0TPreTWTCUmvyesXVbegee/rw6C+61jwDfwhaFNN/OgXBpk3oiG3ljrrBZR2sMzOIpsh8NQNVTGe2id/wi1KC9ApFfa6p/Dt1jPRrkdCDAHo4cx+lSOKaAr9HheXEZwnmg+g9iMM1m707fZlg6Tuj5hg6AmrFmG18/MZa5nqOsSuDUqKe2SKbYyZ/b6LQYD1B++S6DvBAODkMGBBuAY5Hdd+dJUDxbMsrN03IT87LuH6y+sxEZhANS0C6cBfDhIe+vIgddRa5QdaiMa0M9e0n035HI4CfTw8QbMBjypg+88dll9zLWJezqow==;3dmciqdfdOw5BPq4ASQbow=="
 ---
 

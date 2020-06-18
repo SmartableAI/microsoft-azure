@@ -8,7 +8,7 @@ length: 43 mins
 ratings:
   count: 52
   average: 4.7115383
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Optimize storage performance and costs using Blob storage tiers"
 
-secured: "ZIfpXjANkIEkkcUFPUrPobvuF3Dau/Q34vzEhtOqRJNh9aj22Ac2OlDV9j6SBo6Of5DjewDXjPNu91V7qqCg2zqQACtnpKoYqolAI565AJN/DusJZaUTqdZusP4R+FxHC2wLP0lD8ByjsR5EzfOZv3K9L0iVOeYDqf4He1sTISv4fxKKH6q5ULCIsX/l0VZju3POQFmKFCz9XtYybSxe5hPJbM3+SmXSmXQK4A4yGLrxyir41nRy39Ghi7rXsqhosNaEaSUViYyvP7QD2TF/fr3ILOKLPaWJO31FEPhcTIHPeZ8+rYfBgsGPASf3Cuagmv8c3SjiTx0e6b/xo2z6lebBRB+y7GjNaTpTTV5mgNE=;s39rv3KvdYILUHeMAdn4bw=="
+secured: "ObOpJTF3ZiTD4rUZU6+po3HBhUHmigABpt1/tCezxHQ2qaOm+gyzxEcEEoQe7NJWsTuS8qBGFmp4qA+uPUdt9nMk8+OBE6MqCF7IU5X+iluSCJGNV9I6gPl7dTKZSVZosdwqW+CUtv8yj3W0w/NY8ggxxE38WH4tSgkrn+b1c4kLfauv36dZnsckQd3yzmjxAJ+aYZ12ltNxZPQvJn6XptEnA7bAehTtwAiNzvo6Ex7qz+W6kOTJ6Etx70cF7jpS/SRIddgIcTaZkE8AF8Za/9NZ+nIKFar0wXQcjLT5oxKonl3sGo2cwKpvyiCQlsn+rxD+sR4s+4D9tokZLSrWn8ntWhT0Amej2CON3xMqD0to2bGBHraO7AcMVO/o8nqTzAaBEVUq+0RldvSueKt1qQ==;APNV39zRwGpLuFUA8dhI2A=="
 ---
 

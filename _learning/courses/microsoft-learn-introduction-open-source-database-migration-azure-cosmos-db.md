@@ -8,7 +8,7 @@ length: 40 mins
 ratings:
   count: 54
   average: 4.6296296
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduction to open source database migration to Azure Cosmos DB"
 
-secured: "dXX8CVqK/7o5z1PxmAzVuOUeYN80SMoGumCpwML1rlYF3TLQ8LIE8upRMV+xHjzVE/2/INL/NhpPBLrUDmtNSEcBqRTZ3jALLqZcYzFZIlLzp04CRJNfKfyOl4PAJf3Nh/RGqp0Wo6o/OmC4IVGOXS1GLyMRpfWEkaYibjVFQY1echnxZOG+WQi5ZcnBBYB24HTTxA30iaZwQiSwb/Qg1QsnYscx6yQ27LawBmXd3yiuCk3R2mmkBkYZyT8KPHn0kgw1p2hcJM5ZLX2WDnHwO+K8psQAThWlIrEl7krmka2oYkfTtHqqx7XRJ+bzc8YHLBGcNDgQWbI8N3UbKWmxs18OrXayHX1TjnYH/JCcYgE=;yPPIjyy9uGF6/rPGxTK9kQ=="
+secured: "9gPVnkAanT+gCAaRaMoPdwtHQ+M8XJlZKd7KiG8s85gQC9Px5mpm9KFLsnJuaxQWBo5FOzkjEUZcT+UnVGbUOv0sN3zwyuiwhy7j4Bp6+zFm44wQgmfxj731bjUop5jSrVGGwpMjUpkrF8shOQjLvcd2tXmlpm9gvSmXkuvaPD54fzXV1LDAeU9lf1y0XfciR62n3ZjMX974c8nzyn/2nGWfnOZr40BrE1cPyBV6uotuPV48EJXbx3hFPU1pPcK2jTkO/ZcmQgXRGtw+KuT3aWh1pcdY0o/84VoHUJAUCJz/Rezu5L07BWBR7M4yD/c+vZmS6jJTqfl4w5G5MkF0JD5OA8xsBtVJdFqZrvwK945om1+qzz25tIMWceTbcULfJ51iS9rT950mX48nK/QYiQ==;LEGG8A/wWCp3MZU/AjyN+w=="
 ---
 
