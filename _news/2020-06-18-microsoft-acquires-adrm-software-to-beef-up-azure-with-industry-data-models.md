@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/18/microsoft-acquires-adrm-software-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models/amp/"
 type: article
 quality: 95
-heat: 115
+heat: 135
 published: true
 
 provider:
@@ -46,7 +46,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Microsoft Acquires ADRM To Create Intelligent Data Lake In Azure"
+    excerpt: "The acquisition will enable data from multiple business lines to 'be harmonized together more quickly,' a Microsoft executive says. Microsoft Thursday said it has acquired ADRM Software to bolster its data modeling capabilities in Azure,"
+    publishedDateTime: 2020-06-18T17:25:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-acquires-adrm-to-create-intelligent-data-lake-in-azure"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/025e-0faeab8690f2-e13c9108d628-1000/azure-synapse.jpg"
+        width: 609
+        height: 456
+        isCached: true
 
-secured: "6I7Novt6nrSZ0lOheG/dBGJH9P37L1DeGh/3oQJN2BQFFEjmjSC88xntQ/bSu+Q+Fe2pVrMqIprVMTpNv03OYu8QetMnbckOWNcMVkDAiiiag3w4ect9KdXji6EkxusQI37otAKfZRswYa4jNc6oQsML40pK12AcuBPjsT3DWG3k696B2d2XHdmmW6cQ2JY0sqWCDsntxPhe50ofFM4/NX3lyx5HsVzvokorNxMoEhI5xI0uOpGecMkwwtfjyBvTF/mmhIFybTavL2/4d263DyFAl1jKXI4FRUXzOsdQ+sPiSzDqSf1AaNS7llgWbkzE1146Dc9Bkds23J1ocIZGGQ==;Dkb7oZGjFKddiitzhHyfog=="
+secured: "goRvIAVWsHxt7M7wbXMd3F8Xl96jnFyLu57Jsth8uEGtOFarxOhilHmFTCMw1W1n0LCULHYs6pBFY5+K/32onAaii/3z96YNUN+2jmwwjrXrDCPVWm1VPGZH0Dfx0Khxs8B/d9g1OH8eLDQrgU8LxbctLOly//jndcGvSscbJ0/TlQ/nCNdtTuCslOJ5d0xeWitdonCU6lB4fKy9tXn/p8xTbIOXTH34jmwxKLHvnDQFu6VQvKoW7QmLt6HD3qrbYTK0qm87QTw7kvMei+HY6snEfUvJobaHHE4tBBkSR9gd0TPlM/9p/JMN4qU+dT1SSTxbv0p3HoV4wPebzKrdN0wEyH395vfNr6OLME9s05ln1Qi4iO2TOZIGE0tJJpafATBnhHC8g9Y+fseOU1yLLCW/JZ4Esd4PDoaQHVJHD1FwCQSy3beUefFaUSWDDBIFkUDGgqxGwSHVTTaBZ5J07gd5ePxAeWr4DPbGYei7fO2iSV4djLt+13XPQ2+VW3+K;H9OVArKMf/IX1cZaOXgJJw=="
 ---
 

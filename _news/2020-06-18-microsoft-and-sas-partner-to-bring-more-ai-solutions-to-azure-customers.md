@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 573
         isCached: true
+  - title: "Microsoft Acquires ADRM To Create Intelligent Data Lake In Azure"
+    excerpt: "The acquisition will enable data from multiple business lines to 'be harmonized together more quickly,' a Microsoft executive says. Microsoft Thursday said it has acquired ADRM Software to bolster its data modeling capabilities in Azure,"
+    publishedDateTime: 2020-06-18T17:25:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-acquires-adrm-to-create-intelligent-data-lake-in-azure"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/025e-0faeab8690f2-e13c9108d628-1000/azure-synapse.jpg"
+        width: 609
+        height: 456
+        isCached: true
 
 secured: "evPPZ5WE388a0YKD5I6fy2YncwIReUs+lM4uVD5b3oNBoEKXyZTukcjM+uFtyk/9BU6aTVWG36niIYwckt2hyblgji8q9nvqvVSIDWYqvhr4mPovIKBUFweV76lC+Iw2TOKpiV1AlrRuhxhMyBNOScqxWCVdsx5NlMtpJ8drdJIqIAuVfsQHf+m0J4p/8DN4Gqn4/zooQdmznO0THtY9gUMV3kuyJHL8gZGJ0CYBmlfcy9+zhJfmFRZ9sbayxxOBkNvjjE48GFS60yBLkszh16zqsZEozI5Dri5/jQjVfPh68TY9wJIS5MBSVzXN2oUO+khXqhfySRKOyTuCJCXyZA==;opA1rx0oWR4sbL516gd/4g=="
 ---
