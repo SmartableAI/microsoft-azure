@@ -1,20 +1,27 @@
 ---
 category: news
-title: "Microsoft Azure becomes preferred Cloud platform for SAS analytics"
-excerpt: "Tech giant Microsoft and business analytics software and services firm SAS have announced a strategic partnership, making Azure the preferred Cloud platform for SAS's analytics portfolio. The two companies will enable customers to easily run their SAS workloads in the cloud,"
-publishedDateTime: 2020-06-16T10:57:00Z
-webUrl: "https://news.webindia123.com/news/articles/Science/20200616/3576929.html"
+title: "Johns Hopkins taps Microsoft cloud platform for precision medicine initiative"
+excerpt: "Johns Hopkins Medicine announced June 18 a new five-year partnership with Microsoft Azure as part of the Baltimore-based health system's precision medicine initiative, InHealth. Microsoft Azure's artificial intelligence and cloud abilities will support Johns Hopkins Medicine's InHealth precision medicine initiative,"
+publishedDateTime: 2020-06-18T15:31:00Z
+webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/johns-hopkins-taps-microsoft-cloud-platform-for-precision-medicine-initiative.html"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Becker's Hospital Review
+  domain: beckershospitalreview.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/6.jpg"
+    width: 400
+    height: 300
+    isCached: true
+    title: "Johns Hopkins taps Microsoft cloud platform for precision medicine initiative"
 
 related:
   - title: "Microsoft Azure becomes SAS’s preferred cloud platform"
@@ -79,21 +86,16 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Johns Hopkins taps Microsoft cloud platform for precision medicine initiative"
-    excerpt: "Johns Hopkins Medicine announced June 18 a new five-year partnership with Microsoft Azure as part of the Baltimore-based health system's precision medicine initiative, InHealth. Microsoft Azure's artificial intelligence and cloud abilities will support Johns Hopkins Medicine's InHealth precision medicine initiative,"
-    publishedDateTime: 2020-06-18T15:31:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/johns-hopkins-taps-microsoft-cloud-platform-for-precision-medicine-initiative.html"
+  - title: "Microsoft Azure becomes preferred Cloud platform for SAS analytics"
+    excerpt: "Tech giant Microsoft and business analytics software and services firm SAS have announced a strategic partnership, making Azure the preferred Cloud platform for SAS's analytics portfolio. The two companies will enable customers to easily run their SAS workloads in the cloud,"
+    publishedDateTime: 2020-06-16T10:57:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20200616/3576929.html"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 19
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/6.jpg"
-        width: 400
-        height: 300
-        isCached: true
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 17
 
-secured: "04vrCf/t6hRoUsx8x7jyufkrCo9eSPl3dIbxm7maVBzotuYOt2N4b0tnNp7JvQ28jAClMgfiBCHQ1dA9QjPw19s63AykTHJwjPjt3rzjbHyZ6DNO+utL2wF5UlQVZTVTn0d9Ae95JYcdG+7/MWmbCR9fRUBrK2U4YqbADamBjY5nqjWVd/LfxK4LxJZE6rEmLbzLkVX0rdxmFCmHEw0OosbiAC4jkdquXLw1kGONNvNMWQ3eQF/9nKJ3jbRokkfqyiACL+emDUq6+7PvmF2TIoVcF2Jcr+TO7R6HvFsFdxpnBgsMP7bu96UqhxxfLwmah0lFh6MpRC2ZhT/8+gToYA==;Db2d17YpTndlcL8XQj+NUw=="
+secured: "joz90HjktuGwpKU0KgrxcL0S8SeJdzXMAiumRsXjuj06YdJZVviRPs2mVKQJV3Ic6Np261miKaHRJ/XR8YbuCHWSpG17jXeVkuvSrzgpHSaeX1o3xkMTMD04AiiqkR7+3pH4iLOr+Po9znfAsMFOhQSqz5mg4bjGSsej62MqntWFnhD1PvCjMw8+7bvtoz25XuqxnkmZQvGLxBUGRZ4tHgrKxcDfQ8p6vWW1hmyD55EmXwKgp6MPGm1w+D6d87zDOp9fv+snN1jzagyJ43rYayV6Xmeh0IHZWgi2cfAQ7yOvC/Fi9kgY4zfYHCEvyyHsUls31VcWTK0d7ZtsggG/IA==;M1mbwTSFIni3nDPDXk/Q4g=="
 ---
 

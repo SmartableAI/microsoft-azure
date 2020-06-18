@@ -76,6 +76,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Johns Hopkins taps Microsoft cloud platform for precision medicine initiative"
+    excerpt: "Johns Hopkins Medicine announced June 18 a new five-year partnership with Microsoft Azure as part of the Baltimore-based health system's precision medicine initiative, InHealth. Microsoft Azure's artificial intelligence and cloud abilities will support Johns Hopkins Medicine's InHealth precision medicine initiative,"
+    publishedDateTime: 2020-06-18T15:31:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/johns-hopkins-taps-microsoft-cloud-platform-for-precision-medicine-initiative.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 19
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/6.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Microsoft Azure becomes preferred Cloud platform for SAS analytics"
     excerpt: "Tech giant Microsoft and business analytics software and services firm SAS have announced a strategic partnership, making Azure the preferred Cloud platform for SAS's analytics portfolio. The two companies will enable customers to easily run their SAS workloads in the cloud,"
     publishedDateTime: 2020-06-16T10:57:00Z
