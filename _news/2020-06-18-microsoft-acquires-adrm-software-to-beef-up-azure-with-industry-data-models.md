@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/18/microsoft-acquires-adrm-software-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models/amp/"
 type: article
 quality: 95
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://www.crn.com/resources/025e-0faeab8690f2-e13c9108d628-1000/azure-synapse.jpg"
         width: 609
         height: 456
+        isCached: true
+  - title: "Microsoft Enhancing Azure Data Lake Capabilities with ADRM Acquisition"
+    excerpt: "The terms of the deal weren't described in the announcement, but the entire ADRM team is joining the Microsoft Azure global engineering team, according to a Thursday announcement by Kevin ..."
+    publishedDateTime: 2020-06-18T19:19:00Z
+    webUrl: "https://redmondmag.com/articles/2020/06/18/microsoft-adrm-acquisition.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 37
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/0513red_RedView.jpg"
+        width: 647
+        height: 450
         isCached: true
 
 secured: "goRvIAVWsHxt7M7wbXMd3F8Xl96jnFyLu57Jsth8uEGtOFarxOhilHmFTCMw1W1n0LCULHYs6pBFY5+K/32onAaii/3z96YNUN+2jmwwjrXrDCPVWm1VPGZH0Dfx0Khxs8B/d9g1OH8eLDQrgU8LxbctLOly//jndcGvSscbJ0/TlQ/nCNdtTuCslOJ5d0xeWitdonCU6lB4fKy9tXn/p8xTbIOXTH34jmwxKLHvnDQFu6VQvKoW7QmLt6HD3qrbYTK0qm87QTw7kvMei+HY6snEfUvJobaHHE4tBBkSR9gd0TPlM/9p/JMN4qU+dT1SSTxbv0p3HoV4wPebzKrdN0wEyH395vfNr6OLME9s05ln1Qi4iO2TOZIGE0tJJpafATBnhHC8g9Y+fseOU1yLLCW/JZ4Esd4PDoaQHVJHD1FwCQSy3beUefFaUSWDDBIFkUDGgqxGwSHVTTaBZ5J07gd5ePxAeWr4DPbGYei7fO2iSV4djLt+13XPQ2+VW3+K;H9OVArKMf/IX1cZaOXgJJw=="

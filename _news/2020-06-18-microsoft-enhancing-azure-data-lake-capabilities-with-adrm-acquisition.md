@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Microsoft Acquires ADRM To Create Intelligent Data Lake In Azure"
-excerpt: "The acquisition will enable data from multiple business lines to 'be harmonized together more quickly,' a Microsoft executive says. Microsoft Thursday said it has acquired ADRM Software to bolster its data modeling capabilities in Azure,"
-publishedDateTime: 2020-06-18T17:25:00Z
-webUrl: "https://www.crn.com/news/cloud/microsoft-acquires-adrm-to-create-intelligent-data-lake-in-azure"
+title: "Microsoft Enhancing Azure Data Lake Capabilities with ADRM Acquisition"
+excerpt: "The terms of the deal weren't described in the announcement, but the entire ADRM team is joining the Microsoft Azure global engineering team, according to a Thursday announcement by Kevin ..."
+publishedDateTime: 2020-06-18T19:19:00Z
+webUrl: "https://redmondmag.com/articles/2020/06/18/microsoft-adrm-acquisition.aspx"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: CRN
-  domain: crn.com
+  name: Redmond Magazine
+  domain: redmondmag.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.crn.com/resources/025e-0faeab8690f2-e13c9108d628-1000/azure-synapse.jpg"
-    width: 609
-    height: 456
+  - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/0513red_RedView.jpg"
+    width: 647
+    height: 450
     isCached: true
-    title: "Microsoft Acquires ADRM To Create Intelligent Data Lake In Azure"
+    title: "Microsoft Enhancing Azure Data Lake Capabilities with ADRM Acquisition"
 
 related:
   - title: "Microsoft acquires ADRM Software to beef up Azure with industry data models"
@@ -56,21 +56,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft Enhancing Azure Data Lake Capabilities with ADRM Acquisition"
-    excerpt: "The terms of the deal weren't described in the announcement, but the entire ADRM team is joining the Microsoft Azure global engineering team, according to a Thursday announcement by Kevin ..."
-    publishedDateTime: 2020-06-18T19:19:00Z
-    webUrl: "https://redmondmag.com/articles/2020/06/18/microsoft-adrm-acquisition.aspx"
+  - title: "Microsoft Acquires ADRM To Create Intelligent Data Lake In Azure"
+    excerpt: "The acquisition will enable data from multiple business lines to 'be harmonized together more quickly,' a Microsoft executive says. Microsoft Thursday said it has acquired ADRM Software to bolster its data modeling capabilities in Azure,"
+    publishedDateTime: 2020-06-18T17:25:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-acquires-adrm-to-create-intelligent-data-lake-in-azure"
     type: article
     provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
+      name: CRN
+      domain: crn.com
     quality: 37
     images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/0513red_RedView.jpg"
-        width: 647
-        height: 450
+      - url: "https://www.crn.com/resources/025e-0faeab8690f2-e13c9108d628-1000/azure-synapse.jpg"
+        width: 609
+        height: 456
         isCached: true
 
-secured: "w5b/WVkxL2owZN6HRDJRdcs8zWI+lCO3gMdUqAFo5YWMDTOuCLpXuXSMJ8PqL/2ZAnlPs4T/nkD3f/aWGo+1aeIGRK+PoDsZ3vITYcA6S6mCEmGXRugjdX1ULCrOGzgjtpz9YvBxD3GJMSAeUIqMkw9sAgRa7z5vcMPhNluIdBznWTlkjwbVTsO3j5zzT4a49D0daF/y7WKQmKe+ut9KK/dyvmjfP5hQPk333Se5PHZNasyjv56+eFF/HKjls/7WTne8aMDi32b81WIMtB05SBKJ7DBo1ss/4HOKnBtF4Ovw+8WIrFmXb3g33xgm1U6LS8lAY5XpYgFulASbA5OzhCS1e9NcfNPEmwFxkLqSTxf9gqv0vj+COqxmMuJtfK6OKnM6jRlO8vc5venj0lY6dKWca8bPNE1yCyVtMrzhWNY5a81yNIkYkf8RlNxccTC/ILVMMgCqAIzcM4xvmEPRY+he8lU2Cr4EpX1UOT8N3fc46WtPPX8rJh9ZgFIs3sfGjkO14h3d5wr/C3a3Ap8bzw==;iA+ZyeNK7Lj0R2vLClgV2w=="
+secured: "oaeyIubeYgt/V7RPgbhJfl8jA8sjgxy/pFpxud7PMVodt4SiulWA/O7k2rvdqt2z1/1ByF3uJyCrqFNitqfkgwCRYtkyjt8SHQQVau8D83BBPQatnpzZvHfnmPOc+ipQgHA5ILzicZiF8lPUZaR0JZpwSo4XwIlCLYLpywbQfToFyT9Zn7fyx49uxDxp7Ph01DIZlvCnHhhd4uyJ0Y4fsqO08Kvp9zRMJ1Ux6iuO1WaMRJipuaF0NBPVw82teY6+EiHkrVnJozwhsBxG0VUnxuKv2H7Pj16jDgypbXO5iatEvY77N2kz7FcSnWZF3Da0oOG8FWGp6grBOcko2Aqvbw==;WfgVq6IqsPYVMG6chaENkg=="
 ---
 
