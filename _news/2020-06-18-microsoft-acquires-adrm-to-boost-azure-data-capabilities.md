@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Microsoft Acquires ADRM To Create Intelligent Data Lake In Azure"
-excerpt: "The acquisition will enable data from multiple business lines to 'be harmonized together more quickly,' a Microsoft executive says. Microsoft Thursday said it has acquired ADRM Software to bolster its data modeling capabilities in Azure,"
-publishedDateTime: 2020-06-18T17:25:00Z
-webUrl: "https://www.crn.com/news/cloud/microsoft-acquires-adrm-to-create-intelligent-data-lake-in-azure"
+title: "Microsoft Acquires ADRM To Boost Azure Data Capabilities"
+excerpt: "... Software Inc. for an undisclosed amount and incorporating the entire team into its Microsoft Azure global engineering business. ADRM is a maker of data models for various industries ..."
+publishedDateTime: 2020-06-18T20:18:00Z
+webUrl: "https://rcpmag.com/articles/2020/06/18/microsoft-acquires-adrm.aspx"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: CRN
-  domain: crn.com
+  name: Redmond Channel Partner
+  domain: rcpmag.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.crn.com/resources/025e-0faeab8690f2-e13c9108d628-1000/azure-synapse.jpg"
-    width: 609
-    height: 456
+  - url: "https://rcpmag.com/-/media/ECG/visualstudiomagazine/Images/introimages2014/1014vsm_Bowytz.jpg"
+    width: 647
+    height: 450
     isCached: true
-    title: "Microsoft Acquires ADRM To Create Intelligent Data Lake In Azure"
+    title: "Microsoft Acquires ADRM To Boost Azure Data Capabilities"
 
 related:
   - title: "Microsoft acquires ADRM Software to beef up Azure with industry data models"
@@ -56,19 +56,19 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft Acquires ADRM To Boost Azure Data Capabilities"
-    excerpt: "... Software Inc. for an undisclosed amount and incorporating the entire team into its Microsoft Azure global engineering business. ADRM is a maker of data models for various industries ..."
-    publishedDateTime: 2020-06-18T20:18:00Z
-    webUrl: "https://rcpmag.com/articles/2020/06/18/microsoft-acquires-adrm.aspx"
+  - title: "Microsoft Acquires ADRM To Create Intelligent Data Lake In Azure"
+    excerpt: "The acquisition will enable data from multiple business lines to 'be harmonized together more quickly,' a Microsoft executive says. Microsoft Thursday said it has acquired ADRM Software to bolster its data modeling capabilities in Azure,"
+    publishedDateTime: 2020-06-18T17:25:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-acquires-adrm-to-create-intelligent-data-lake-in-azure"
     type: article
     provider:
-      name: Redmond Channel Partner
-      domain: rcpmag.com
+      name: CRN
+      domain: crn.com
     quality: 37
     images:
-      - url: "https://rcpmag.com/-/media/ECG/visualstudiomagazine/Images/introimages2014/1014vsm_Bowytz.jpg"
-        width: 647
-        height: 450
+      - url: "https://www.crn.com/resources/025e-0faeab8690f2-e13c9108d628-1000/azure-synapse.jpg"
+        width: 609
+        height: 456
         isCached: true
   - title: "Microsoft Enhancing Azure Data Lake Capabilities with ADRM Acquisition"
     excerpt: "The terms of the deal weren't described in the announcement, but the entire ADRM team is joining the Microsoft Azure global engineering team, according to a Thursday announcement by Kevin ..."
@@ -85,6 +85,6 @@ related:
         height: 450
         isCached: true
 
-secured: "w5b/WVkxL2owZN6HRDJRdcs8zWI+lCO3gMdUqAFo5YWMDTOuCLpXuXSMJ8PqL/2ZAnlPs4T/nkD3f/aWGo+1aeIGRK+PoDsZ3vITYcA6S6mCEmGXRugjdX1ULCrOGzgjtpz9YvBxD3GJMSAeUIqMkw9sAgRa7z5vcMPhNluIdBznWTlkjwbVTsO3j5zzT4a49D0daF/y7WKQmKe+ut9KK/dyvmjfP5hQPk333Se5PHZNasyjv56+eFF/HKjls/7WTne8aMDi32b81WIMtB05SBKJ7DBo1ss/4HOKnBtF4Ovw+8WIrFmXb3g33xgm1U6LS8lAY5XpYgFulASbA5OzhCS1e9NcfNPEmwFxkLqSTxf9gqv0vj+COqxmMuJtfK6OKnM6jRlO8vc5venj0lY6dKWca8bPNE1yCyVtMrzhWNY5a81yNIkYkf8RlNxccTC/ILVMMgCqAIzcM4xvmEPRY+he8lU2Cr4EpX1UOT8N3fc46WtPPX8rJh9ZgFIs3sfGjkO14h3d5wr/C3a3Ap8bzw==;iA+ZyeNK7Lj0R2vLClgV2w=="
+secured: "2BNwUH/3vQJ522Hc+6sreEG/QH6ooUr5E8gT8EIjJN4CvuvGyBAWFMMkDIQVGRi2AiGdm7ILxUuQrMSECrfv989Bg2kHyOkh+Nqo20erM/zh3auVccxR0RYC38iQAfTLBNiylpWXMPDBYFdYM31bx+iKvJxveFJ89MZQg4fTbZbH9rh3PrwXFOvBBNr4E+Bqtw0WN1mnP7F0yn6OjXvzFRGS2W3rDHalWDZo+2W/EBlHTROvFm9Iu8CN9JATBEF2Izt+YizlL84jD6se0g60ebCCVRkBqKyZQ7xBrLgtOa1zpDQCfvZZfDwfhMqXlV5asxMhCp3Dv5m9Gk3ez6YHIQ==;V7E7xNhB5jAgUtNX3YlaJg=="
 ---
 

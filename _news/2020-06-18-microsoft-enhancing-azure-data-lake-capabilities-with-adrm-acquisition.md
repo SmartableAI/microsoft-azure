@@ -56,6 +56,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Microsoft Acquires ADRM To Boost Azure Data Capabilities"
+    excerpt: "... Software Inc. for an undisclosed amount and incorporating the entire team into its Microsoft Azure global engineering business. ADRM is a maker of data models for various industries ..."
+    publishedDateTime: 2020-06-18T20:18:00Z
+    webUrl: "https://rcpmag.com/articles/2020/06/18/microsoft-acquires-adrm.aspx"
+    type: article
+    provider:
+      name: Redmond Channel Partner
+      domain: rcpmag.com
+    quality: 37
+    images:
+      - url: "https://rcpmag.com/-/media/ECG/visualstudiomagazine/Images/introimages2014/1014vsm_Bowytz.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Microsoft Acquires ADRM To Create Intelligent Data Lake In Azure"
     excerpt: "The acquisition will enable data from multiple business lines to 'be harmonized together more quickly,' a Microsoft executive says. Microsoft Thursday said it has acquired ADRM Software to bolster its data modeling capabilities in Azure,"
     publishedDateTime: 2020-06-18T17:25:00Z
@@ -71,6 +85,6 @@ related:
         height: 456
         isCached: true
 
-secured: "oaeyIubeYgt/V7RPgbhJfl8jA8sjgxy/pFpxud7PMVodt4SiulWA/O7k2rvdqt2z1/1ByF3uJyCrqFNitqfkgwCRYtkyjt8SHQQVau8D83BBPQatnpzZvHfnmPOc+ipQgHA5ILzicZiF8lPUZaR0JZpwSo4XwIlCLYLpywbQfToFyT9Zn7fyx49uxDxp7Ph01DIZlvCnHhhd4uyJ0Y4fsqO08Kvp9zRMJ1Ux6iuO1WaMRJipuaF0NBPVw82teY6+EiHkrVnJozwhsBxG0VUnxuKv2H7Pj16jDgypbXO5iatEvY77N2kz7FcSnWZF3Da0oOG8FWGp6grBOcko2Aqvbw==;WfgVq6IqsPYVMG6chaENkg=="
+secured: "nOPtHxaEwSRiV7PBb6wjiOaMGfwLA4ooWjL6gtS/lQKzW9jADztdCH3wJyOamtaC+qM7kqp8cnJSTswteCkHt8fVx3UMShI1TG9ecc28A77Q4rLS1PbXvtkaCzINOOVMnv+fRObMbx1FA51WOurInQYmvGzOyBbBlneS/fSmua2I7jEkRUESE+VfVBqh1TfEDMkQGMKfTFLMBh6MNBn89ThLbQmmdS6Mdzkka8gOdShGRT/Wr/5xQVuW7yDnjLc22HGMDKZBRyZ7hQNRx37CbX/LZJOOub2jBPocFcOpKr7ZIliHBECJyxh0z9WVNR2v3at5RZQo47wb4ltbtdcAg8q4lsJp94C5pt4BMf5Qxi50GKbmuZfOZQjA7GJTXa/0ZQfIgGLpLY1v/sZudytbDtaI3b4CPyn/RKcimAoPwNbnUBCEds6jRuG+gCPDCoR2i4BCGgJaMIIHiWUS7t6ShlrgWrp+MCH6yk1lOFVQTp0OVZJ1eHJZBq3rN8nNkLty2dkfuJ5ieIM+VEQ0Jc1qDw==;lAPhvHnxqG3cpSY4P3nxPQ=="
 ---
 

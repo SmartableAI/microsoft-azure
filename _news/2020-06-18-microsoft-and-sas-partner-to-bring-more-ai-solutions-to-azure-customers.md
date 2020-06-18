@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 573
         isCached: true
+  - title: "Microsoft Acquires ADRM To Boost Azure Data Capabilities"
+    excerpt: "... Software Inc. for an undisclosed amount and incorporating the entire team into its Microsoft Azure global engineering business. ADRM is a maker of data models for various industries ..."
+    publishedDateTime: 2020-06-18T20:18:00Z
+    webUrl: "https://rcpmag.com/articles/2020/06/18/microsoft-acquires-adrm.aspx"
+    type: article
+    provider:
+      name: Redmond Channel Partner
+      domain: rcpmag.com
+    quality: 37
+    images:
+      - url: "https://rcpmag.com/-/media/ECG/visualstudiomagazine/Images/introimages2014/1014vsm_Bowytz.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Microsoft Acquires ADRM To Create Intelligent Data Lake In Azure"
     excerpt: "The acquisition will enable data from multiple business lines to 'be harmonized together more quickly,' a Microsoft executive says. Microsoft Thursday said it has acquired ADRM Software to bolster its data modeling capabilities in Azure,"
     publishedDateTime: 2020-06-18T17:25:00Z
