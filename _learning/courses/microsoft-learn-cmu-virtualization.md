@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Virtualize resources in the cloud"
 
-secured: "JnBzrujqbptubt2d8a9E86mUycFToImtlsa6I/LbuZnEpwJI8LeAJhi8Lq0dvxnNQTVdn3FQL1kurLEkvQ5a5aynLlRMzQMqWEXuCj/wCY4U8zGZra5Hd7g9q9WSielGuOgApWFgh9f4V/OUr267/Pmq3Fm5riLUvpENUxd1aUOdO9LH1U/5VAbPGjPyVmyocco+g5LGT7yZBE/BEH9v/HhtNr0kNzQAcg5q7BhZ2TAd5yzfItUNaVMIdpUqXwmnoqvVjTMe1+YLkx6G0qt2rIqNR/sPJL+v34pZS8NVOpv1zu9SCWjNQIB8d0WRoj/I9ixKoADnVaahvk9Bp1+gLFmtT7RQjFf8F74VZCrJYgI=;IuQSmPA4ruIpL+hh/piTYA=="
+secured: "e3jU52Du8+mjDxuZCPjceoHcs2VCdViQ/W1UObvW4CJm4VavnHNnf14D3RZsYeQ5ybcVG5wue5VnDDWrwPWyOk0YNh7VDE1msI9dJZWb6RFJZl7VDzhplFs1AmgctNWj8dYpa9ByeEKMm7CasZiGowcUpwuD8pRpYqK65Hr/Dkbv5c/0oBC4hlZjDkhf7/tl5kdkVJelgkQ4AbgNdfoD9pFEeqfVzn/snjd+k1GRDmmmpkLiBR4mqc98jjP39uM/U98UJ0SO6AfqZTIVAVthmx41GCeOSQNeM6Ktq9eB5Mc6V8Vgj1VbDip5d03Q8T5UkbjULpj+uZ8QokZDCkVO42fFg0swp+JPBO0w55i/Agw=;zHOgSKUIjMhMVvOri5tJnQ=="
 ---
 
