@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 39 mins
 ratings:
-  count: 481
-  average: 4.3970895
-heat: 50
+  count: 482
+  average: 4.3962655
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Run a background task in an App Service Web App with WebJobs"
 
-secured: "TwnmdU9Z+rjwzy44okHMnZwy9H6rEWAhiKlx3qJeHCQHcHnB+2DoJA+xa/h5CJwzIFG7/NsdL2aQ1IIAfXfUNYGcpV8+QqACGjACy1W1+QRUUEhS7NKsndQxNK5tgb/UDgF8Nz3hT6MRubjRXjC3UiixpTGd0AiLcSO+84rIzr3n/s6zKAYulzj3cJQBY6tqdz0XSRFQ+MPaKtLHkuHW7RdMVO7c1IKiV1Y4LMFd8F11AS8jnKSH1ZZn+YmRCdrFnd8t3R6FN/tTMA8b6V2AU+iQDXY7hNzc7pzsxrVVXMEzIZ7WpdLeUAbib6XusCJfnxnKW9oWkvsOe0xxVG2M0jaS8RWyW+MPxJtZQxCEtaONvsIkS4r4f1A3thiwDL2WufzwTpCqPubXqXtfoh92PQ==;Kz2dfVyquRSVT1uvDV4YwQ=="
+secured: "q22Rm1DkfcAIp70IcUyXTn+JW0WFzBPCGZ6VyOLY63veXm53iL4xlR6F2FFKeIC0ckOapEYpiBvZf7l3RymPkwLPiKZ52FSxHvZrEA9ZqsUuFVBNmr9s8cExvZxjvskTDIB3htb/7AeoJ8XdOgB4/M6TYU8Y/ylsr8k0yuQkp5C/XKxMcFlGBdTU3GJiem9CV3ao4b+SKstocbw8MMUbQtg+TqQWoA7dv8JNHTKSbQcSaBFFvnAqSl1/HKTFQZAv9nFJWjRxS6EZ4J/G8WSg3fnRUd8ErFAYtMSZgdnpbV01ZEknBAEPZmh7YPm7pHXKHQDPMZNHpWlrrFpOuEs5Oa29Wd1q8v2PoxR5F1i+WcvhrLXH6KhWi5Wg22qScSWbtEIXJ60iaSCZcsvsAtLUVQ==;aU9lg+9aPpR0t67SjF896A=="
 ---
 

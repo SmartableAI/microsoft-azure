@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Build an AI web app by using Python and Flask"
 
-secured: "EjuouS5kW7P1ALdai4XnOrEWJfepy6/aG7fDAqce+X3nQ1H6279KL9qfXgU8E0Y1LMevoHPucf4KXfmm0Kq5VogDfuEuSSEATeVLMlGLFzhs4EtiT37FuJifpVMHQfrBxFJymoGMtt2Xv4E8kEtm88UniFIWVDG1N9j0vJZxl6w0LI6gw5puoxykca99kb8d6RvPVx1kgNMTNj1nquk0r1+Xvt1QNo3CEdH642KD6O28Z22TeswHEXu5A09SULSs6R/boAnzcrxI+ApRzvvh3HWGDc2PB3a7DR/ixozMpxk5sIYkpNDe0NsQM/+4w/BcO1TPTKS4FwxjxF7FAspNqbNfD2gB/gf8i3jS7raZSM4pwchDRTnz32uVDDN/SnBV+970l+Lwcue7ZYpO4t7OkQ==;LjnHQZxzEO61KkWgUjQrmg=="
+secured: "tR+eurs+9Sp3Sc+jubjkVbFCnOuGwSkenP+algJhV6sEB0YBFUe16eMQo5rXOuhdy3rDR0zjc1NCoX/PLhDxWb+1C0+yHv6x7StgO1U8zDlpLgYpHM2oBsXM56sPuCjl5d+slARUcWz8yMfKsFcavLplukVSjUhLvE9a2VacS9mhADFvqf+QQk0YGGa+0PHT0/Axqi1wQ3Hs3JYGZY2OQY0VkCZgW06rg+UDv56In4rUWC2b36E0Q1clXGuQAfYw1RLi4bk2TSW0g2Wx/aW08pruje9TQAYm5gvwxhpAIweJRuHxX1PjRuOc7sOC+A+YumNZImy66UuVL67ON9UoRVPGqxj6tSrfotyotACQDZLbDKZCwTbnly5VTkzUXEMeu7QY1aGEWkuoYyTDZfZvAA==;Mcv38Mys3XgqwH7/6bX8ow=="
 ---
 

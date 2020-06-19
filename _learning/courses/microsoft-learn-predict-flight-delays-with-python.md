@@ -8,7 +8,7 @@ length: 51 mins
 ratings:
   count: 1691
   average: 4.713779
-heat: 55
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Predict flight delays by creating a machine learning model in Python"
 
-secured: "knQS/IUSA7prDmYYqCi1e5VqEW3iL4My0ecKOHG4sEQdN/qEs8hSW7+dsGUsJgsn4tF5MyttRcjRfJDmuOub5VBagqxFYOlumfjivgCvuOmQIcL2Rn+fHhlKVWBiReHmHYLfdiN6KPqLqCs/ivtblw3ixVhFRXi5UzX/QbEYorqDesZM0FjFWWbRXBENyCWt/2Uvzovzl4zkVRXgLXGqtWByXgKYDeIyGrAjq+XA13pGRxxwukYs/FVd2/4rYpZ5iRncXrDCpfhrG8+I2K3lopd6Rludhc74A6+nYVqlDOJ3PGrwzNioe+0iT7e48aJw6L8ywlzq/tlja2EHWZcxs10RU1LxQHBMn7QRaiEYXqT5e80oGber78KWjWRSDuASe/wMDw6NMXMmBRUWwbLjCQ==;DymYKviVrkj+nRz8meiORw=="
+secured: "84nb+4a3YTJVMTdUt9q6xItvI5V8A2NKi0O4PSORGhGI8rcpcfKcWPi04vwR3hS+EGV5h/VP9b0F9bLC8q8km71HyT5JRXgIntKbllHCJQ3DcP/Dfk4oAb+7eMkxcXfJigLk6jtbzVLCXzZFrkA+Ka0zNPydvSBciZOybN8Y+rupeHO/9J6uoFXx/tvmdcOrygWzGXNFkbUzEmuVt/9g/4eYFge8wvv1+BXWMwGBBbOPvFaz5xpUu2cMpqbPcn9/61LxjR+RzRA53d3CkHWPaUNJAJ06CtZ5/+j3mvyEJQukOAYBiCFwCh92chA6wMVUG2iJSu2NHo+TguJ55t4Fv2buTEBNHdN+rs+ZyaOGwUBe4uHZy/5PZdRENzK+rWpgApB4W6QVxEYKtyl4i8socw==;AGfWv8rHIY73JAV/O9Xgwg=="
 ---
 

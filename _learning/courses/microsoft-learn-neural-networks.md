@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 38 mins
 ratings:
-  count: 271
-  average: 4.380074
-heat: 54
+  count: 272
+  average: 4.375
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Make predictions from complex data with neural networks"
 
-secured: "3NKMoVyivXakad3GUOIcrks8fHU36wtY9tuZdML3rU8XGTPS4BI69gRXxk5IqY0AlOpFH1ar//VU0Z2jr1alzptYGsQzkT0yc4KhHg3yqNjrh2i7ApziLT6JH8/h4dR9mA0RnPAH3wblMpUwhGa6wEdexvwugAs/H+r/q2FSo4fYVtoNYNssV393xBZGFhp3B6qhxICjV6jQ/2gs9fr0BurnPrp9gJcClxuCZjol8YKaaNIzYdrK/CEyVm8IWc2axjOWMjDBgcHVml759tS1m9Y9A5K5efO0V8dd+I0clA+vEuhEwsqiwXSM0IKlGiJGDQ1tB2/DPvzriNQrcsiAjzoLSdVaAyucnzJCghDSS7ybe4RCrTFD5fjw9NzkOu4Wp5gP1ss3R7++UQUvKHigTw==;PB8Va2XD6Bh2LNMVQZj7AQ=="
+secured: "CeVPz9FQ0tZI6RyexGgvEYtSCUka1qk+2NfRJ1UDmgWL8X4I2Uym8IrgxmLyb3j1BNChkChBOKkHOyFsGhcrVCtj6yLpWL1l0fg0TdpSyGFZeLnLzOWJQH2Cihm8O4KKEBUwUqpgshPGbQmuUldBbLM4euaq7EBqdq0acO6W+qD3SFhzG0/3+Huc1kG1tdv1iFUTlctwkk5sHJ/gdnzI4VUu/5Vs9Ibem9OLzUsMHyMTqvH3/lPSqoJXVzwYY97o9jSMKcIUsQ74I9CEsWlnNBEn2zw3GleGVVrpUd/M4p438UG9ORnK/r4bEWINEDL4gmOkF/huwbwNoLzTPgNU/axYbOtq0w6EiR1kCG+7p4dM/Q0LhIqlenukqBpVPxyi4EH4r9xjb032yd5uQlsFTw==;g/JtycEx2uF7Gep4dOSIqg=="
 ---
 

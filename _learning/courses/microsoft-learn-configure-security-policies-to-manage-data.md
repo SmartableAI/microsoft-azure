@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 39 mins
 ratings:
-  count: 1605
-  average: 4.589408
+  count: 1606
+  average: 4.589664
 heat: 57
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Configure security policies to manage data"
 
-secured: "R+B8E88383SmUql0zRgK9/g3SbBMVJwreYH31sXa+C5I44tCJeLvXAew7OXMtFYGxDeJWfnGa8TVix2pTVnfpXhvW0WMpmGl7eb9jJ6O3XLCEKh47HaZau3iApbZz5BeXAT98yHI3aNenFu9uIxRMWbiZg0YRnrXsgvP1rsiwtmT1cxKor+SA7rR9ivt+0IkebDkyEDpIcVvM5fi/x4Pvj42UQf8gdSfBh9NOadbhVFXamy1EX8px1FkbZa++vgfTF73emXnzuFQj7Z9qdJlp4Nz97AXpIExMN3hfx7IMqgdI6Y8D4hHdMQvfCSoSu5VsnF02NMQ97+6vFfXgHwByqoaiMNahu3lyCl4Nw8mPKFDzFkRLJly0xi09hUNgLiIdOR3tE/1FGBveFRJEC2qEg==;Eulnd+nM48BxiMpJ1Mzg/g=="
+secured: "rUnb8a5OTKhF5zjezAGWbE6ERyyZmrridR6skXtIGx8aHnH5/VRYb+l9GWeARCvw/HA9ZqyYcJJd162/taZjSFS2s4oar0sMz2+ILXlYj74DJiaUAbwk8yhPYJzNXJ1jTuWxplqP0HCE22LOJAKZKoI0Mpy7VGCOrskL/OTnsiKa3F3sVG8czPt0Q5XxvUHVtc3bpXNQxb0+jttD9PNgknrTrz4gqGEDd6p4xedUDI5fvbaaercXaCR8tazCE/IJMV7iDgkWY0h83MQYJrjVDr3ndtIqaNI97W6R+IStSw05ICqr0QU67oGxe0polFGECWaBdVai91FOrvOUUYlpogl6o6AGF4n5RgglXzTL7mnwTPRfhpuK53lrWzyw+fgffSxkYR9UgqHKzAIwtqgAPA==;N/1XXns81fDP5OXQfCxlmw=="
 ---
 

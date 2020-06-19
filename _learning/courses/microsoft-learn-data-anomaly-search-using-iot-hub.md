@@ -8,7 +8,7 @@ length: 66 mins
 ratings:
   count: 126
   average: 4.571429
-heat: 52
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Identify anomalies by routing data via IoT Hub to a built-in ML model in Azure Stream Analytics"
 
-secured: "Gm3f/RQB29z0XVRaY2tB0uv9N7ZEWyGMvtcYJz3UyFWP6B7LGUmiDRx/TerfdqCZPC8vVepTrsTtYrOqjhnWeTxdIsuvFBCkNvPTUR51PCVS/aedWNBAATKfTM4hfF2YmGuf4kroHIECc0qeiJpKb+Ef1qsyfkzzHH9WKJ7SN1rxIz5588Rxd1EIsYSESPgqr1KkaPXDoXFC37rzZzbngZnfV/VuoHFc6SeProyqrZ2vtWT2TUpUMe1P34UATFa2eB0Id33z8+JSI0zykS1n5e09KxIiSJSnvHfLWlb54dG6J4+JKsloJvy3d13SMWrqpthNuegGCqVkJnjR5cDp/lG5QsPa/ceHY87YhhgDYfT4Rwbi8bZ1kfuHV9KXuxnzgkp4uMfoS18//TjEUDODjg==;+9jbzhYNOisU9i8QExWcLw=="
+secured: "z1Si/xjhqHIdoOvF+1NqeY6aNwJ2k5/XOfkgOdTf3IclQ8lS7iYC3jhPNhrr7z90dG3iZxFFZ6ew5Tld49KW6PByn6Wsxpm1kyFd+oWeZaz4nTIxbyb29neZ+MEanRYPLvZlv3TBWK6hFkPPauzjWVbqdKkApKZfjM9zlIJyef4hyxc3vs95zGU5Z7oA+VPLY09r4Zs5s/am7c25766LmzyA2wl0dVEDzDuCDsX9hF407U6hX2DNvTBknxtMxFvFFkrOUwO3ZW/KAc2XoPYSEuN5LbpEwfANdMNhTeDFLqdUo1+K5c+CSiqHdxj6Sl0b+GrAplzG1wuVByDtAMSb61ZDmEHfWWEKO+IFdmfEVtKY1s4WCOAZXuP+8YlOC9Cw70v0MQzfM3qPIsLMc1Ukpw==;Vp2V3TzMRJKWCoJpUy+Img=="
 ---
 

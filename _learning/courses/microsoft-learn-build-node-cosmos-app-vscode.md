@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Build a Node.js app for Azure Cosmos DB in Visual Studio Code"
 
-secured: "JA9QDLz890kvUXIZMMAFYyk2NssrueKSY/smUQcpckbA/lqC44nb/oBC3rUFMj8N1khDOr4tc7fEjzD5NFd992bsXQxiEaUu9wXm3jgQepiZRK4rbuWYMD7UmhhVSM35iSkxPRtjoOkud3Qt2z+8720fWPJ/H+kdA8tmYpkdzqTPW9dXrNKAjPQSnF1MWjuXGUFAwmfuPmkJWyjbYC4Zymwy+sPzMeJJ87sDy+VrVY2eqzmXOaloRWJj/Q31nbiuZXTVQO8iY2VKEoJY6ySZcmaQSICBR30ML/BJ29766LheHhn8+0Ju5TGGMtpMWW1+QH2p2GfXsP+gpgD1OJ5H4Io98YOQG6NiTW8/xoaIrsEbpdCBXrBWDwjgSF6KGv9iYG39qkDuJldiYf/uaRQDNA==;n/RhOiu/BxzEE5FyMOp1hQ=="
+secured: "ABgfuOokjpINDByPHZ6GADpyk4U54o2nkKfrqOka0IYEseI510N/N0OAFYwmaQIXV+iUAY8Htk4v30ts5xmBqAsYJ6gO73uOhTJuMghWwuF4Lo+0WrdWa2ysUxY3Ia/O6nJn1nnLfeWDhymnCHV24GGO7JH4TMzRptbFjFC0TvQcyiS6pvdI1uldw/ybYVRHxhCRZv3Nu7IVjudgehAAKtZFvySHlvJbCEOMvlZje6W9aa0WaAkthd5/LmBjdB1sYk5ukZZ1Nm/lZfUbmvOX8ntT1u88IWcxsw5GpKNf5xpKNIDaOLNPvReSc1+W6cR+qJJCyTTBM/AYgkB7Wd0x6YNU8+B364w8xBseQ2ieq7xMfMD3Z5OBrcvr77ftMtQy1W9XSIPOJop7Gd/9+JCjlw==;9mxD7Tr5lL/UzE/ZO+EpQg=="
 ---
 

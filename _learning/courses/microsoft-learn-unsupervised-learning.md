@@ -8,7 +8,7 @@ length: 27 mins
 ratings:
   count: 236
   average: 4.6694913
-heat: 53
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Use unsupervised learning to analyze unlabeled data"
 
-secured: "GL7b7ZHM+eRRQMikxXL1OHcKoBIXiCD/ijIvcnM41K/B1dShmaEbYxB9yu13Q7Se/b7/Oktuvu3e5JQWKJ1i4QhECW+wluvhIGeYt9uAyhUsDFTmbVkaPftkZCN/VMjwIWj+GJziLivdW8xvRS2DAzAEL+reiC9r810asLne8Rprhpf7LhlnqFel6MZgs2f1mV348uFP+aiLf2Y3X4SuYXOSo9eWT4MEZ/ZNj3nhnIgSxNLwxEIt3LrAdgplZa/9bl5UTBwm8ramhkQEb0Pahxmi6nNrbTIu3ZwXwHESwNphS8L0X8pIB38U3muXVD4/qZ446yYaFlQNK9Mvkz06jn5Ub2VHuufTfdOzesyUpkbyoq8BVtGHYtBC0dWuanv+n7Hm+uTjWpNWyySK0UxGig==;gsvWIcgMeyUEzchPfBW6Ng=="
+secured: "etHtRg+tvxMZik3j07a3cP16RXj74vqul7eEc58fl5jyu5VaEEnAq8gKcV2y2jM2iSekddO5kR3tQ0gaE/sOOHF6vIs4ExQe8WtW6GgDvNpGF5caQpWfF+CHbP+GIKcJSO30GS7yeJYtF64GUb6UL544sS73OC4PJP5laW/yywM8akLBNxWC5deaOA+j8qKJfY8U0MrvpvsE6EoRMCzpW68lThRXSGSuuZrSy1oG6w1XU+eEynnPol2EkbKQDljJDoviePfLEfCa9fxHJQOhO3fcX19py1SIyU8t0/VvrzrVISY46cAiBhTVRlRlUNnCBWQsON2Vb+v6+zhgrWGIEMvLIJZBXb88tU63tjvX5LMARYHXOEbpsdXeWf+7ES8m8VEFr3ZVR8Rwge7gTa72rw==;jBHIy3jvg8uOVjQ3EDzSWQ=="
 ---
 

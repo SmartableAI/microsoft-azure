@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 56 mins
 ratings:
-  count: 553
-  average: 4.618445
-heat: 55
+  count: 554
+  average: 4.6173286
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Predict numeric values with regression"
 
-secured: "EFNLfZRkbqA+WZhF0lQVFkUOOhqcbZJ+2tYTMxsgopxkPp35ozg7uCQ8l8DWhRnm22PumJRohRbYapvo12X1Neb11t4OfR+r24YFP6stEzuxiZj1fQ9BiiVO3jjaiRDaUInPYovt3Jne6VaxeqzrCH0zF9YX3Xtv0M6kdDlNB5ITE2llLX22C0duH1f74ua09g2F3BmN4oA/1POAsx2ZzZbZ1SiqtmJFavtE29wHpodJN4u+kYCy+1sGC3TQJ8rx62vSEkfrq18xn+QPmL9/tnHSQNoFeUpMw4jm20mmFEzQhN147PBI7Rg4twVrHMM+9t6PazhZZYCs2omsuWeBAAUXKbbdM6mLQH7m8kXWQHxOWj0PaXCnvJ73nlPhyLjevV3Dr+bhoOtY6WLE9xzl1w==;p8E1qyeSFAY6xtpf0a7GGQ=="
+secured: "fsfaYAj36pjd+RgKVwOrXBJ+jRZuShfI1Uso2fL3gK6l0Jv0/t2EQvW+Pdets67DJ5xT75DCb4X3D0fQWW7jux+0bxHRLwtLj0wEtlrbpNaUX3dmwIN/QP9rOYZRlYCz1mX8kr7tH0/hAzpi45w3ZNIYlRaFBlvolqJGEBWcG7Avh4WUpo+qcVUoppZTmPAfiXVTd+XOUa8BCeKeSmYUr3dN6NkETY+8YZBEtnJfHAj0EgNoZ5LTGHHCgXdA/Kl8vYK8RMKZWu3CrIJ3/4OW3Q+neWrIdUJssZFuTKKbyzHqgA93jqizA2KnEhmf56grkn5K4X66ZWOjs8ITbhXyC0p423ZAbwWfOsQgsS8oAajuRtU8Fw8d/OFYeX3nrIA0OC7IDKqyCnsXHw170JwE+g==;MDj+vCq1BzFINAuA9Ec5OQ=="
 ---
 

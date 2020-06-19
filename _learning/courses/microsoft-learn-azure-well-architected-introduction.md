@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT1H4M
 ratings:
-  count: 273
-  average: 4.7289376
-heat: 57
+  count: 274
+  average: 4.729927
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduction to the Microsoft Azure Well-Architected Framework"
 
-secured: "4swvjbrJ1vR0peYpqxbz1TbEs2vStmTxGoWxnmzlDaBZWCLdpJ+xCRK0H15GV8M7bWJqJDk38LDtB+HyuGxlKyvaPS47yXYaCtrxcM7Y+HF/vNWI7Whn3ntYoSvTTOz1/3hxT7qe5etYEVNIQMv0NLE8fhty/i4Gyv+c79g7ypsMq0NL7R0CU+/a7wVIbarQxT9xHWwgxIA4/otAUPpDN/vsKnCtqicYNY0WCziq6mEFE2MBDO2L68YKe7WYLSK0EAp5HOUtJGje9h8vd66T46cs0nAryD57yqAANlfTqraWoHttxojCq0kK0MPLMSYzs5MZtsrgyv04O5TultGLSuTexSulmS1dMKAEGZ0RCimOsCPkEjPYt/VlbttC1olbMolXSCOFgtv4au0T61H4KQ==;qpyqqw3zjVsu2q+V4f6gqg=="
+secured: "VJj3nJIecO9Fu8kRnzRETZmhCjWScpFvUAwXjyb7yzQtCpJy6wkmaF4sMYIwnUjzfsbs36pP70g/aj4nY+Ai5Zcx5qitTkI4z8STF6RAIcYj+16Sf3QINqldfo0oTS+2aYt8UudMiawKugm+Eo34yjxFPgmxTGOKXn3XpRM/ODOvODpvFER5++I/bUsMmD1UiDFv8l2++uD0vow/VZ22SoTQ83BV2LlmqlbfsFlb0KjkQA7ZArd/dDikH+gdFg4zPyWftkToUl91lGu5st5DfzBmYOcDnTnqsOyYnKo1MmVg8bW/Kagt9cN8FXGnrjTSCI0wJsU+rXl15/Tfnm+RrIvUxD2dtaxfFsx1gDQ6FDv5yGOz1zq0A8AB/KOWJcDS5yzoqFWjDFCTJ993D+AbbQ==;Agx6o3wDgJZF5z3c59vd6w=="
 ---
 

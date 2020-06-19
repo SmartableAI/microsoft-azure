@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 24 mins
 ratings:
-  count: 48
-  average: 4.7083335
-heat: 51
+  count: 51
+  average: 4.7058825
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Read text with the Computer Vision service"
 
-secured: "oG+xoDA32x5BFkHSLy/vlAHmj1YGqOVwcmP9QNBCxifZUjVNlSE7HLJUwKffn5esCa+oU2MQg6cilYHVcak7iS2brwGKhz1VlqBLn+SnriizRG5TJ765l4343OKxGRkllCWTSMAayeJyHt51XyozjdRDGyieixBgjoqZFHGw2cnkY2RS1hh3MaOGxvNCYXDyNNqAdE3XyThikHU6FUlfJzy1BO7ZVwaeFza5MbBpznuC0348hv+WkAy9VyB3yzQtmSkJvGKao3QC9jiat+sIOIW8+fhpwOThTLhSAw6pxuUoSubxKuiwRUH/N+2yQOLcaeVrRk828hNjtVMTYiVwTKusWu9sLQNpqtHYdy9VkTu2ZGRHJ0X5irdt/KQkO+wA4x/FWmJpxZkC9ntpDZegmA==;invldzD8OhfRU8Z6QEwqxg=="
+secured: "fzx2PjbD3Za1FGm6acgkyoHFFloIIZ2bsvKuQatNK6fjm9OL4FMkcj/ujn5N6d0jGVx1xyDSFaq4ue/RuJ38Ikzl42++iPcVXc8ODfGih/BSEQLxTXmH1HzIdRpO+FIHF2GLltV2lMvmehArQIXT4cNN85ABPfdc+oM92PT09G/EeMWNkHwTVjN3gO5NZe/ThmIXBAYZiOQNlrahf4Rocsb17ncRdWGiKU0vQFklqN5hsGnFSqIv57EPnkLGY1kBGI3F1LZ7z0opcHQFAX9AaqD44dTZR6NdUYN6iUAuhDHd5eM1SIVi970ZxJKlRdv/gp+HJ7GRwnPAkH3bzGWuD0hPnnHmUurAYK0bvPSvbudslaszRglkVa+2x1V4Ez/AZ8dPp3nDtqfPkcWXcDzguQ==;RFetD/oibvDqJXDO5n4GGw=="
 ---
 

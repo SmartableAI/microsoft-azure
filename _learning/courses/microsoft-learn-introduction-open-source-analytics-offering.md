@@ -8,7 +8,7 @@ length: PT31M
 ratings:
   count: 163
   average: 4.5705523
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Introduction to the Open source Analytics Offering"
 
-secured: "GbFSzK8vb6R9gfwHLeMBspz4C/7QIHgg0g7eTC4kPhEJja8bDLQspdUD6aSZQUZIf3gJRHmc1SeiX9QeF1vZ09DP2Ux+1lNpjAd32fyxih8SRroZTx+C+1STXF6qTzhGYZPNomFVYlOPotCStQWCM5yT0pKqfO7H6g+RCy26k4E8GX7OMUBZ6KpoKuwTM+4ev6YP4kVlYyGJ9aAx3mPOEMZX/5l9/OkNjJjyxHufLwYeAukV3gZHrbl1pzOxnI4vii+AbbtOGGF3UtGio8IspYmSYb+3k6GiyjzL8g+QZ03NFRAXZSSsZq38hlaV9Etw0hqVDhZfnldce7m7Ng3wWx0Qt7e+v0kmJvOsglhqrW60gaj1ASMyP89eJcixW/soKc6tKQWy5ovoU0ab1vDeYQ==;EkguZyUA0bhZC5ZxrwMrGA=="
+secured: "gYbSWQnE0NTxclHshUxX5owR42Zb4CrTxDgNF02XSkzr2Yk6aienqWm3MpU7yUwaFNgsZy4qcR5jNx4AAUVTlkDGeOFkoGwyIwwNssbo9mJ+A/7BTbdLzDuqC55fD/BFmMzKeXI/6Dr94OSJo7oXao76o9NKUeJeTqALCQyOwHBA0Bw5EtTNjIedjQY23M2AhZfPP9sGu7DWqEEOy5Rur8nDyNLOcTOwRPBubY3jqPrB1z/8t+ImJydiyjJizJElnoeSxKVekmhOTIKn5LrwTz/ytN+e4lA+XSQ0kroD1MtjdS2aAcFA34nmMWcykjZMSNd8zDWm5jqcjaatDKKbk1I4S+QP72TzxVpryTBvWn13xO0Pmss+p5gWHuuXPKgZ//Lxrji/f4Z5AFG5dsXO3g==;8WZbHjL70ULzQ5OL0afeKA=="
 ---
 

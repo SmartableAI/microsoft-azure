@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 36 mins
 ratings:
-  count: 4156
-  average: 4.717276
-heat: 55
+  count: 4158
+  average: 4.7171717
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Microsoft data estate migration and modernization"
 
-secured: "FPUoepSGlUdYYxNDlI+HOY8OliFkc+lUVSXkL3u/qFbiSwIdNLaULJptBDMLj/uoN/nHJBVkQ5dGcvJ4o5O0ydcR/Hhc1L0Pgl8TUEy+Mg/aX0hRqk+LSx5rv1QjW9bGssx+39tvo5IBSJ6ev5AZOiI65CRhW/EfrMSHH5kZpMHa6nFPJy+nFPvkzEdsDRepuem8Wc3JLksFTu5nRQFR1E4LGIQfloOCuGb53QrFPgLilF2Qm3pBFUvhET3YSi6HgA/et0ajmJMI+biCgIlRUuie+PmnD7O9spqOna/GJUAcCP6ypGEwoh8Iq4gs30uEaObUehidyXzyFLHCOOaa/RJ0XM+J9NON3EwzCUlhYzh4nPLP1EbmCiLKYuf70+sGDLtZhgtT5SD1CVf4QM8HNw==;MfWQsrKe/VJehS0tUXQ59w=="
+secured: "nhgPPPxdg65S3BvmlpkpDGJAA8mvnRvaI0UfUWVY05fhXMzHCj5sjOaWpOQNMIScA4cZI0U8j1ogVvFpIj98qn7yjtlLpQUwUE1v3LiNiRJRRbjolv64VgWAlzy7OXtXPGVQvwjoUGf0ikOkQHffwRF7nyYcE3zjzmVx3QHtXxUc1a99vvPK9hWYsNUinGkEf0w+r4Kd6JbnN72FJh1lLo4p+s3baFSeDPywX+xzeOP2RsCpgwd7cSFM2pNJGBaSaivbR+aNTFOiaQdycf8nFFnuP1RBD3rvm4d0oa29HjeDRgOV0O+tV/vD3Lhh0zLM3Oe+KGuGX96OqnERdY+5guKBL2EVYKXYUpI6PrHo58BG3zTE7gNM/QXPzmuQRGMxoX2WfoqwBnoXTqgigdRgbg==;85GQdcGY5trYIoHiT7517Q=="
 ---
 

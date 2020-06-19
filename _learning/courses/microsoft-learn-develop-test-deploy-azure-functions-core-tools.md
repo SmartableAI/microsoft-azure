@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 20 mins
 ratings:
-  count: 1279
-  average: 4.707584
-heat: 56
+  count: 1280
+  average: 4.7078123
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Develop, test, and publish Azure Functions by using Azure Functions Core Tools"
 
-secured: "LI0l0yrjdnfeAOOqvnLnc4MITM8Tpi+089iznBgUiYNscUO4+HdlnxvhMJPOE22K+MRRIb3EOKCSRw3z/t9hKHEVSko0D7xmD3glZO099T8jgoi/OnNfe0PAy+BZpINPZGA1XEUimc6SvGifYbS4Ur+nvz2pLDyLUhyfZ6FbFTTPTDASMIUJN0rfwk2e7+AIbyx338EGXG2kKJw9c0Xl0ERHkMsQgnegCXfwpa/Xgo3+atwWoFKvqSiEn3IKZv0HsqcM+vbHIxi2wuV50LNMLWXDhGJTNoNKDDCTZFBorXaJW6/QTRvC/f0MpUkeu1mnzAGmeS41vRHXfRKxDIq9Qd/cpWpT80cEATBTwXC/ux0Mp4mvrqtZSy4B3x+o3GJdB/rdQtSAeTlSoqT6/d9kSg==;MeEXuPLeaDWksHKdaOoCkg=="
+secured: "vgUSp+JWNUwKeIS6CZ5aRgfaTXCVZ7ybGs4nyoqmku37jd93YaC2WrmHZ/J/IZDYrkQo5mBqRGlnanReXG52s2ArnmJRshgy+q8A7ONzppvrWhCIEDsIxdo1PsOA4sVCAWAcqzlHVLfX0DMavtrY5zNdpTCNtcufUSQQI13X26JvmknhP9th0KvrEV4eLiOTBZYZ3sMLGRR6ufXyNCgBAHqBO0A+kVzFR7ZPE592Jxu/a7VOCaaXy8QzFal50Gkg+DjLaPkNd51ktB9zR82J7hLNu9n3/1Yl2jKBbV90kfV70Qp6GfyoXcvq6mr1Q+JbRA4D52UmABNHIrpCpYVGYugCJq/+Zxmnr80L6fO5MJXPw9dWl6ED7jhjIpgVwPN9RuCr5O+IW+PWsI3bbe9PFw==;4qeR/srxEvzxp7wj6cRGOg=="
 ---
 

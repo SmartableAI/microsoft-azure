@@ -8,7 +8,7 @@ length: 31 mins
 ratings:
   count: 360
   average: 4.688889
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Introduction to Azure IoT"
 
-secured: "va9LId0g1rtP8K5lbbN7XkSakSKv1SxFlR/IPv3Byh//tY51pIXzi586kX7Poym47K9a//KgsGT+JPDonyTadazWW9G7TXNFtP8lO7zJguK7m05ybDNE3HoJijjXF9YMhrhBvUTimW5Pv4lKolG7dbENVrx8BVH8RggXZGWMXu5fMOuZnWv9V0FWmloMpUhLT4bmaAtsZ4SSven1l4mNgpv6z3I31XCQx5s25bfJ+yjGEbyzkjosSyualpnfNhcBAmai91cN7NyBHEx+OlMAOVHc09YsA4pM6kZYycyOkX/7jr5GP2Ik6w3DB5kVQoe3SDWKWYV+iiF/BX8XDIHAHOUbFsIrKJ3stynO43sDtIaigVltrWh3cA8stCwIWKzt0t/IOTIqfKJyEePhmyJptA==;noT93cSRLExwWulqxZqJyQ=="
+secured: "Wvd1/Vc3zAy7V2vyb9mLFfKuvYEu369bg2WVlCb3OXndgsrOTAat4x4jZajUG8/5NRGy9KxLDB5GFYOIMsw29DSjK4nztWOmWwU/NKD2VZ++7rorxNHDSY3g18Sg/NCQ0UTzXju6dP4gS2TXWWqyfBVbQ1Y0uAptfjZOIRB22wPIo3cF7AXMXO7WFhAu2xAFZrxEF6c1dJ2zDdWz8imP/blwWT2FrZfeMi6LsT6+yhOtmHZFf3Dep7AZfNwZXH++sOTorerdJ2nT5ksJbsRpdZR5wliQ1xS+2n+1vAdD07H3X9jNHJ2T/itFFyyDCeFWrezK1M48vFjYRclqr2Ueq8YBuq5TqPK3pgcu09JDHvVY7IsHwhbcegIi4I5ygcgidOISpyH8hVLQnRDFskjDQA==;LW7QPBv1zHWyTmYoy2vbfw=="
 ---
 

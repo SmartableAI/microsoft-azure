@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 63 mins
 ratings:
-  count: 474
-  average: 4.656118
+  count: 475
+  average: 4.656842
 heat: 51
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Run functional tests in Azure Pipelines"
 
-secured: "1vDxqIOJCq9h5DGFalfxJS3ZIjkg+Rf4bmrjc8fudvrYMdOBAk0XHj6j8nLIMeYF+JpRtzUhZ3MWhuFPBSQLfLmLgx8r62dPLmUZ7OBtWt3Q4G0IjwoSMZ6411JlGDpp5Wl9uxFnonprNDtnckK1WevU8ybkqWPQS7RvNUBfcQjoaaaW0RTb69qRmkb06vLYW7+5OZnkFhvcpz1JzknSwDiCqano6bP3LQXoETMFyN0DD2l82ME3nHEfPERiLDk1ssJ1iPMCxwjCBpR/7RQXz3/0HbHznjCBJ/R3EUadZPiUiDP443/LjnznSj3ftSx0ceqLB+9PEUjZLUHWwM6YczcFwy04TyF/WDdOqKZOiVv++JcqrlhBPKaR0gwNRxt6gNw1wzlNY3dYU9FJ7c/j1Q==;bZz9gEnpatr9rVfgkFjPCQ=="
+secured: "ShVGKaJjPPMRkKgI14qdWFVfpyFlWVxqbjbUlBJbjAUGH7hsO/YvTDHzzVO/WAgwSVsgcvNUaS8S3XhM6UeLXKdxs8Q4XCFvoVZXdfJ+7qQHdanW0eEhjhK+j1STeZLPDMep2Ruj8dwPSV+fY8ppMsYBr//Tf+FS9Xt1RiolcIRjN8fzEvhb1EF+kr4+BGLcJSIr2spG2WkKNVHFWmWsCduSv7eSCpExnJqiVd+J9Im6VK759buOsPI6M1PSFrdWswRiEyt8hF8GB15Rk3oJjWX+6apzJpAdWiTtckDcdcGOtMZmcQQXn6ajqXLt4eJHC3Cf6tZmCSbHWLWPeJl68wO8r/ZhvwGOcasZ0LmUS8DctHtYow8/MW/DDJ927AWXX1jEAheaa1v1qnoV9uVp0Q==;ORkB/C3zsl4ZnXySB4B7Hg=="
 ---
 

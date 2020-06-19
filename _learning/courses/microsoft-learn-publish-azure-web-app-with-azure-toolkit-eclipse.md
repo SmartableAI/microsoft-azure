@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Publish a web app to Azure by using Azure Toolkit for Eclipse"
 
-secured: "nsbjMElYICXsd2GpP54u05JdC1t8KatguaGw40v0DiB+v2MnAlGwKGLl5p6DPFzssSocSMjhWHMdtXyqESN6I83E/aM52V5GlzcFzXGZmi2bYzxXNScM66AI90+eJgLWA+9O/znjdR1Sxx1QjMbcCtSpv18X52L7Wjg5XPli2iDal2eMxstUGDlffMKTjkGWsw+CKvaGv6f/vXuU9ONoguqRk6Ve2HdGZP58EGic2m4SLxO8ahtotCsWcFM5ryeOJiOkRvPDPwl60BpYGhuCtKdNanoRPt3YdLuSSB/8ShZTPfLO7UKLiXysemU29hhBYTbuhFq0g3d7sPREXhJUsajqRiPBJIv78HaxvjzicOrhvNaV95DT2FfogvZMzgN/eF/Waohk2oAaCZGt18PinQ==;+LiZ/TAhFUZmdDmcV6xTPw=="
+secured: "s5irOfPXkYIGiJhE9ZMyZ+FZpzwWaMS+R8k/twHLnYft4FiGyWmb0Dtk0gaCb4c7Hn0sm6JFqB9iZYHDjntUwWbrwBUVI5bvF4+JED0lL+fz6sjAYYq0jyw2gW4qPTEMj+FrYMsUOzMGl7zTBUelC+sKFQ4sv3xu+48ji/XSG4Hbq4pqalUj2U9EqwgfHn0gdUigNqM0vqeZnG4xKeOayipvCZGumN8C321PXmPpc82UBTj/3khyh/gk6r4/JSkzfx7YKRy2AxhN5ldfV/hlyd/dIfpWno9VH6W6TWNI9ashQW2psIIL8LRHE7uxINp8DIA2/tyjB68OrNEFgTrEjhmgAshSKbgUNWZgRJ+nZ/izp5mTzzWPpIvk0pwigPugOWKMgyS20cuTcHpZhPBt5w==;HWos6V8Sxp7QBAkHrSkk/Q=="
 ---
 

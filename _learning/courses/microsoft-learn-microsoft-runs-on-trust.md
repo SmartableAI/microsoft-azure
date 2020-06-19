@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 30 mins
 ratings:
-  count: 5159
-  average: 4.7396784
+  count: 5160
+  average: 4.7397285
 heat: 57
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Microsoft runs on trust"
 
-secured: "mkH23FA001QHN5PkOcdADQZuBCZwwK9iFaImOqIF5IJdkB7dF7erPYOyUv/rokzjOsaX7e+e2AGs5bzSDUTMYSkVv+EdJtcV1GpmFy6d0CsT0npJvNKFgmnrZZat3R0C9ybXgBXvQdmHZzGJlbxCc7inHrtDw5vTRl12f2F92/5aLFiXjj8KUWZ3KuMqRSXvRxcnmqA5rJ07+f/jz5uzvZkw8uM0uVZk1dOvpF4dv1xcQ8oxd7e3/G1xyENl51GFQrgwVwMPCh+3IrLRucJe5TqNsZfctrC4zGFdrKEiPW+c1UDazwMxETvD3DcmqOu5qy6Y+g1YZNu9U8Gvdvdp5CTRAmrFt1xp2Hc+Vr2G9wLmsrwhmi/bwOOBnkdEYTC4DFuQrawoSf6DYpPgq+GnaQ==;mGIt6etIa7JACc1KUjI8cA=="
+secured: "9z79dIveUerVWnH4lNKIXWUmM/FPt16Auu3bmz2Q9GT7nsI9YYe/caztSVo1YCgdnDEPP/HyZlnh/5VMp01XivrKlcO8tC0dgR1WZfA+a0I5v7Y7iuiR+Gje+Z2PzmgalFPotCOl8HixBx8MVHIImmligQ00N58mgK1dP7PheJ0SpVWtpLl9U6yrM9e/Y8BYY+bP020tM3tfkFGx7KLu3DfeSrb7HcTpXXx9efiHnToDmVyleFT60/mA8307SKsJ0foVnbmbu/M52fBnV5GG8Ob884DVagQbkiAP6FgYLtMzbmiQ2Vw0wqEBS26ccbSMEOswznUtbNM54Hzh//8USFE1yjm31Jmi+T8q3f/DZFhAy9/6EojDkwUMnP7u8pvWj9viZJvphKPCcXls8ZHxhQ==;LCLj1gg4kAuVlAz6zUTutg=="
 ---
 

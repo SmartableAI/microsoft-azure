@@ -8,7 +8,7 @@ length: 75 mins
 ratings:
   count: 340
   average: 4.7264705
-heat: 52
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduction to Git"
 
-secured: "aFgOM8hO4sh3XHpti97N1EyL99NRkQ/HwzduNAjMOKRqEGgxyLAOOvHc9VZIGUQxXDOyx9zIHZ+JaxasFKfrNJL86WDVYY6rM+4tz7IqPIghuFtlkOEAGrQCh5M7GxXH2FANJjzF1Av7IAvfu0kjUb/7XTh3glZeX8efnMv5dD0Pfkl7iIdJ7mzEo85mjzzRhz0qnOimrGWHxbCQ2JJQGbdoKQuNx1vUyjgcTQAQl2EM5C/YxLmgqbVTT+nm1ZgMi4877OIxfgFtrbIc4pvb1B6Efsb9yBDo87eKpUbOFvf1rOO1aa20qV99T7ESL+5/CEop1C9wE6pUGPr9ubAue5EHTrec5p5maU7YW2uJynOmglIg9ZFDqZ4ZqsIveUH69saUcn0kbSQ9YLBfoNaTvA==;BOH/KzXmXRs2SO8BdqrUXg=="
+secured: "3bd6Yf6LG0YxXzQNhQrX+pz62UerejS0zuVAwtc3hSzwIbiRee1hbrnPGtZPsiauAmuv28k3Yve8vEYYf4SXGI6VFmsYDAkMNsOmXdbwhAhrbBOKTP1k8BAMIRFu90VGJY8qDswFc0RMmT7Wv1R6gwAxxlxf7yvrEBynECoDGcglkNJmW69m3NfK49W5pW//E5Y6M5OnjizjsVDVOinP94vrLgNlXulUJFd45IqFZuRXhydku00IsC8vieYfQSb1sjSVsXycGTQGEXbO+DHW4APMfPeqtpLti5b4EulW+tiqsd/osclL1DFmBBo8KthpZHRMEBbFvzUgsZyzrUAAdDyXy3ro/gQtGQ2r3VKa9CTu/FtzqUjxGcdhfr6ewG/WYBEkoKgxbYsFvSJAvqNGow==;+hj2kX7Yz3oz2W5mfVCjOg=="
 ---
 

@@ -8,7 +8,7 @@ length: 44 mins
 ratings:
   count: 52
   average: 4.5
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Migrate SAP workloads to Azure"
 
-secured: "EeW8CCULM+47NohKdu/G5XCLzfM29aA5CPS4b/WVOa5g6FUJjXrCJ9VL0AawIAlbLqRFsdi0UyD5hnzYBrSz6zQfY/WGJScheA7RsQXyQTuccKXvE0DQJt0QfWmjMtnK5eKLSDi2HoTjQbOOOg4x8BTK2ZexxziFfHI/5iWk284EEiTCYIDcwZGsKnGn1helXZvNTiq5oAH9wv8eBZadMCvPhnI5HR8YokgML6ZS+ZbBZW5+eBTeC4ph1pe4tTXKXooAzcrSeqb25TbnsfUl9NBWf9HsUn8dp6LaAqvCLseOjvxFqSfJsmv+tlcrYMdwJgAg7Zx1LQPDzCdr4PZ+P0shd+Tp4a1JgZtgW3WII3YVfyqujHrxtzhJJ/+ZZzlxCjtR9y2vdoLPmYjhVax3og==;lV5+unGjXz5aZUtb+58HMw=="
+secured: "lNbLa2fLLUaGX8WlY8K1d1LWU0u77lBZ8zvCJv7pmoXtPOYxPc6yP6sBBvfvHVtJsMuBgTYfwQMOdqsj0TgNL4dBV6egBtEcd4sKwE6Qz7TUXXUNI7cWPeGBkfeyGM7gCb8i1kEBrQ1vlwuSBY8WXRm+yePj1S/DuaL2JJjFtdHW+1z3pcDBFdruupur+NeUpVcskvd+jv5841ET8w6ax+pTdMAMHwJbbCmWTJWtRMWlVDQOlY8jh6wp/ov9vKLmAe2m3bKWU53W/C+/QMMBnHNkwE3SgvmO5PnVM5iAUVZiAbOYo4TloqUebh/ISvi/gIyBJkM+ISSAa+k0Bbr5yIfA+f19Te4ByA0zkudC3OjLSEWPRjlVIYvaL3rJijleJwxyhx2vjZVQYyVSg1aMHw==;hYRpbWFiCYp4tt7RIQFkMw=="
 ---
 

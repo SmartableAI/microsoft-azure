@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 43 mins
 ratings:
-  count: 556
-  average: 4.6492805
-heat: 56
+  count: 558
+  average: 4.6469536
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Identify security threats with Azure Security Center"
 
-secured: "ohB7MnmE0EvNCsi+96v9g8X7U5IMwWyb4S2W5ZTucRBm9ZQNZ+i4GslSJdlOHXmITfTbds4AuJvVRgw0CR/ej6U8nYiHICN9d4hwutk91t6f7nqP1vdIYSDVmY2AQHKAnI6cXDDbeDlhPnfp/CvtMr1/a0/91/EX5x9yt+HlRPOth5IGXnIRIODrsYOrM3MPpwNn11PBd3XiJa8jjZMnmel6672qH0tj4FBT7In+QZ40rn3b59QcGF6zRjQmRsaelIRMFOkT6P2241EGpwkNDk17vSPMBdiXOAp42EUJSVO6fG/QqdZCl5YcsZPIS68NgTinWrqmskIEoI1s2YaoJvEbVm1taLdQpQCC+votjSC5/bWfF2vVwGcVG+p6GCccmd0SQDDG6uN5I4JOHehP/w==;KVFnAF71122uSt7bsmp/3A=="
+secured: "j9e4kABM/2T0VvmYzcqAVpCd0vRMWX1dSMnsveFY1IIgAEj2pnLfInVkJR5nGX4pcjxdSH+/clP/ZzBvzY/Qibj84X63g0Lc8ZfzxwGBHPg5/OyEtA17E+WHti2CxyNFrkhZmvTLlRW3lipoANmmu+Py1R//eek/y4fdqEG7pSHlGz8pZP/clvEBVLZyiZXHzWymcrIzJdaA7Uhtw6gmnI9ioy5fXI4ss3kF3/psumRs6FIHVwKD9JVfkS2ZecdtPIhGkcri+/nCL6ss46WWz9++DtTnVu2EGQfDpRZe7XrNFAuPcNPOnCRdb2oCoXf6brvY0B5GHQ98aoP+0M/3H75B6cAb6Qs0raD4884YVRUqUKjuTwHNiMZeyWEhelmp+/GnyF0OFUGq/WTZNFatSw==;HQFUrV5RNioOTKF7dkz9gA=="
 ---
 

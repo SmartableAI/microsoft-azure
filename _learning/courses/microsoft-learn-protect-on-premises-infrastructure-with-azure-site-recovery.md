@@ -8,7 +8,7 @@ length: 33 mins
 ratings:
   count: 625
   average: 4.6048
-heat: 54
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Protect your on-premises infrastructure from disasters with Azure Site Recovery"
 
-secured: "20a2sOuuSDEJb60R3CjBuabUJRYXN4MXWZKgTTW6Xb51D1Scg37bG2jmWMzf3elWNi/MKxz5QFUkvSmbiOgxBiNy0YuoBEbwBXdJQfHs4lO97Y4G8A0JcNkuseSAQ0JzIjEmlUCX44ByMDkpDr5ZaysaPw2je7YgPLXgZuwMvGc9e2HGGLWAsAZoImSENIgvd6zUe63Sy4JDVjYB9taSbxcOLprWZjqqOkENegCidfIGT/Mo8lnFYcQgKaDDHHz5Wrg92RMSpgtXfnZ69Zmaa3sI7wo2wuIzEtnzf/I5aPDvbMwIFXnx/xYXYHEX5Se78kVuhVP/Ho/YeF4oMSjyyzG8W4Si6SUx6QWXJhmZzS454ODZdhfiM3SMBE2J0pSXg0ajnFkZO6po7rIslvubaQ==;w796o7RXdORveXde7NqSyw=="
+secured: "1DeaAWNow5UU/p927ssKh3M+qvWaZS953HALZmf9iDp/f4R4kYPxo/xoF+U/OCY0kI2fxOdCkAM9p2D2J49Rb+bh8GpT5D5cVz6OpeTFNvalrcSoCiXS+OOyWWc8w7L8WGf7jIvvPbtZ3P0BSiHdxXuy/la3gdjf6tpPT1OqHWQTcB/zQxz21RmXvt+3+9FmgsIyIRHO84g1mTeZ+K1lyh2ul0MpxyW1ZWIvmDS5FzXk6+FmQSIvNwB1m26Bk8S3BxyVT9urniPd2oB26rlFTsM+UorLBcmcEKx+Nw25xPYSKJj34JaPbPdYvCSyRpd6vUlzPdRSPBABavGpRUI8ynBybuX29w0UklKx0LlByL20cbxOk9SOJ8I0rXkdD/J79HPXe6Ds6WNQtYXItjVUkg==;sLhfwzUE55Y56K016NNsDg=="
 ---
 

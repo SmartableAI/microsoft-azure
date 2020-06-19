@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Capture and view page load times in your Azure web app with Application Insights"
 
-secured: "bOBKEJ5+KJS1Nf53GOAXE+mx0yjDAyik7ZZsYshNhes/iFaG9MaIYRwXZ8rUqrCNGTLzLBlagXaWLLN0t2eylUP18DUOCPPZ2zWISonxVZ6qtc/tbiEHtzKY1kOFyj1wUooQ247Qlv2X8uyJMTOGBm5UsqjBvKkkAWLyPmnEDxLwiULP/WN6A6r9UcHpmeAR/lnzxqBo7r4ru4sggYMA/Tfihf53u4frO4eiP8QRAcUR84/ow2unrJgZb2p1tbJEhfh1/P/O7VWOKAd/XgYeamZnHQcb3ucnMS8BFGhG5dH6OZeU2XWPzY9+WMULBPjz111tJJXmuRrUR0aahM0TL05KpL2BU+GL1hNnuhHr/mtduXx+GnhHVkaimy7khnOzNORlBdTCWL0xnmO9jJ+7lw==;NZZC+a89ciqsHSSf9ei8uw=="
+secured: "DUWArQyCDNi9ErWzASSu66HcghQyx22+Hsil1dSNbmSRHjKamSOmvbZzdgTbBwIuh8CCiHJ0xPq/Vg7c637bYXguyVeVjIpuHkfbpiA9b9BSMYiF/ch+gPUQGMEicEs+5iTBVbg8aNmmzS04SWCHaJs7egFM+q1YOJ8iKIKfyK3LC60o6GqrRq9wT+QTVu/jY8pSeZ0zVdopm3t0o3hgZ5ISI4T07gK+Nf9DPqi2z9MgvQYaW3kBsx/wvnjqxIQnWCuqTH+KUJzTI4LLkK/G5qCi0z4QErNTkY+qDM35dMsYNuRZkta9sdPX2SJjhkwz762PKrh7c0M/2fXegAeFud/6yjewb+YpR5/FT69pBiu6cdGomDnlGoUxiFpMx2GyHlcQyfKZT2FRR/UR4P+2bg==;bl4K3PEczPQR1TQY/u9Mrw=="
 ---
 

@@ -8,7 +8,7 @@ length: 76 mins
 ratings:
   count: 897
   average: 4.604236
-heat: 53
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Optimize the performance of Azure Cosmos DB by using partitioning and indexing strategies"
 
-secured: "biy8nhA/5jEEKiuwPE89vVKxdH9gGseWuKVAFqcHBAOmg3zGvRE53vopAvysqIc6j+8YBhx40zNBfwyOYrAwNuJRZ2H93PTBzpV9dXtc0KKBH57RYxpQxEuc+9MKafv3I+kEWVb/Jnc29aKAc01pqjNvREqe0Cj9/mQDkPiOrS/D2KXF78MzcyLLiXCvghfKyBypOGEagB7zWy/7wIeiR14Ns4BmvQQkPaS3QuprtIoOo6XkSZ7ELqxehZsVYMUqYQkdEeERRvUv1kq1EwwbLGVAdRNNBp6Mxddu8chsz8fzZvw33n9AJ9XcLIWmFPKoMQ0T+QqBka8y/2jvthQjVqS/uYT+C4+I5U33ZlwJ5OudZJDqeWTyq7450G6SlfODCP4KpeU0WwPMe3cOdbMHZQ==;8MUtCrQjDksw7F4t+qtiZQ=="
+secured: "isiMSOK9g8MQF7/5919axRjCHxmJjBIvowNPCWzQiy6+QCva1MyOBtcSJfPizKJEYVYqJubY4NTvN4ICUaNTAiHERZVLpYAATZwqTpAByBDn2HMvnxfgNuNgJ5Yf+GuxUOpdrIRJIsCzbOMlijyltPqkcUOfBLCf/cEZ2M/5I7xAkUg9ssGWEBYQ1hkyfF7BklG2lHqKm2BzKQXT/y0gXhTAje7PIYyqPXl0N2Tm7Tq99iyBq9qWjKLeQiebId2FgOZcKSP5K2L8LaYVdaBWry5qxSuQl+7as6z/7j+4M/Bi4WZ8JMZryXjY66F8A+T4ZzFR22987Te7Nlnp9ZdNJLq3MF2htJDTXyk1ZRydXySNBtU/xh8zoYKp5IwVtm04+oWsHLO0skGKSdk79de8ug==;9NO2QhqNnX9X7RT75ix5HA=="
 ---
 

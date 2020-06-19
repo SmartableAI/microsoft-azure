@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 52 mins
 ratings:
-  count: 250
-  average: 4.624
+  count: 251
+  average: 4.621514
 heat: 50
 
 provider:
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Decompose a monolithic application into a microservices architecture"
 
-secured: "il9YriQruVps6sw7++kSIbh/BZm9sbJATuZlYCJgJZkHs82uR2GfA8M19GdJTqokXgosognmxTTI54t+BWHpq9P+YkPK7uc4X+5RDSq63b5kvbKI9WHoN/G/TfDqX3W1g8blkzwJlEN9rJTJQYeHuelYyoJtaQeUTGccOW3uDVK1K+1S0ubkrJ8pxoWJ5wPEUmWoEvjoCms6gwUOa1JIL2WxLStwVQsMfBCsmXtXT72kGVookb1lY4adUtzHNoC9n25glscv+MADf46wtAZwBs4iwn0/agbHuZ7ayYVFMPPYYiRASthk0QK6l8FnE5PLee7dMXx2wg4Dio5f/OqgWgHPn6ysF6Tegs9jNeRczi60v2dnDvibtE5k9mNBrTnt02g9uhPKJ7IGM68O7BJk8A==;eqU6Y37nuI/VkS3evQ6ilA=="
+secured: "UFEIgxIl1sb699RugFtrcz/LY2riBJvErdkq1Q6HD2pxw3DKQoThNpoLpmZxU+nrqEe20qrZAzvfpXcXwXWR5y0SPRlpxCRbmuIzOPUZUzf97kUo+VI6UeYHVdQI4ZW0PEdBx3zV31go8L2zx3Prjwrdknzw8u4xOtWQP77O3GLSYwlGgjZ5qeJtrYZhG94jYWzL7S4nNbiq1kAo/qbYxYb8gsCVqrBBGEwlfLLDhr6gNjiIQBsWovJfSkj6N9tRGe4Ap4WB43RxuR0+zrwCrcj9mqyje+/Eef7obbP5goGm+hDN0GR3Fb5vlBdwMfE7QFc2EGvvy1FWLfIXKyxLjqvlEEynSd0MhJV/veqkUS4PfGjPZjkDpXAmAW9MmlKCbn7gjPIiweabe+Zek3x0Ww==;D5CjNJGmO9agu1/QpwLL6Q=="
 ---
 

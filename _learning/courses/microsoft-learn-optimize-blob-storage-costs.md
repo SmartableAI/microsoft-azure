@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Optimize storage performance and costs using Blob storage tiers"
 
-secured: "ObOpJTF3ZiTD4rUZU6+po3HBhUHmigABpt1/tCezxHQ2qaOm+gyzxEcEEoQe7NJWsTuS8qBGFmp4qA+uPUdt9nMk8+OBE6MqCF7IU5X+iluSCJGNV9I6gPl7dTKZSVZosdwqW+CUtv8yj3W0w/NY8ggxxE38WH4tSgkrn+b1c4kLfauv36dZnsckQd3yzmjxAJ+aYZ12ltNxZPQvJn6XptEnA7bAehTtwAiNzvo6Ex7qz+W6kOTJ6Etx70cF7jpS/SRIddgIcTaZkE8AF8Za/9NZ+nIKFar0wXQcjLT5oxKonl3sGo2cwKpvyiCQlsn+rxD+sR4s+4D9tokZLSrWn8ntWhT0Amej2CON3xMqD0to2bGBHraO7AcMVO/o8nqTzAaBEVUq+0RldvSueKt1qQ==;APNV39zRwGpLuFUA8dhI2A=="
+secured: "hTuWhkGpsjjIm4mDha5FhKbQtuaf3xkRaxpY/9iqv7m1wxrXBeZyiDZm8ImRLy69z995lPVhL6HrI4unHlr4/zoSF5LB0SWOM/Rsr7A/dE1RI2o/J/JoE9QNcxpcqkIJwLKD94+wgEfoibfURhj8+INkUzCzd8QLFcyE9/O78LYQzWHhYWBHKl0Zx99MCuX3vKXWSW3l/n9qRLMmPgvPUhLi3Nz2lEUsPSeb+vvOvyPhj5EdblQhvZbKUDOYseskHR1xCtW2C8+fbIY+Cqe3++KlN1urXLSg5rj80mmNpSU5G3ZF+4dpc6P2ucWxfocIeS5UhirGxBlVF3eReCHwyNWhjRhnikBAvcIo9LPiB4ot0VxfesrzWlO7yqnaNnZkZzuKGBXqtfLUDGv/mjRtYQ==;q5NC7mWR08VnbiZvoHWqMA=="
 ---
 

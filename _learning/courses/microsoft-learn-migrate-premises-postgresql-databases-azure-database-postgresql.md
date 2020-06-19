@@ -8,7 +8,7 @@ length: 50 mins
 ratings:
   count: 37
   average: 4.783784
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Migrate on-premises PostgreSQL databases to Azure Database for PostgreSQL"
 
-secured: "M5hOMZ6jOJWm248iyDDOdk/k+/mkISi7RQ4Cg9SAVeYRizF2H4tQMlW1RHQ/IakM5kNOGNq387dIrW9e2CU6KJ04cD4Rt6CJ/MNx8hYQSvk1wZvirsL1jZRnexMzuSediTEfB4cCFmf7ha23brSp5dLbe8PngN3qne20yaYOLwvlkMUKRYH4rt8MjhkP+sabrg0PakaMhdnyLINUZO7quGYmqsIEEEOt43B7S7JnA17P200OYKaGz4a3rjli+/7pi31yH+ceRjN51L3qVBuJuBPhi2iOQIGo85FYYgRUIa0KhNcYRH1zgdC+s+0dYkvUkTHEkDa0bJvWEP+qXgfDQuZ3VNArLdwiFQa7DaUaixfF4ByC2zKKvlpSrVX0zNoUenXzcaUkgMVCNGainajj8w==;GulJsjSuxQi4SA1NAmB55g=="
+secured: "iCsMf3YdH4WwJY8z/k3MHtJHWVpS6VIPdY1Pgnoa6Ely7sk+MRV5aytbF6TZ3gndCJ1Pan/SwprK+6TeRLnadKcmmxSNfUmlzhPoAK0O6SBOcBQ7LVcuPBiMwHzbBTKMeZews/t1/iqNDeyxomDhVLhoiBs1kOUt/PbcYIZIm+qH/kUGaJp/FOwFQK4IS/WDh9amrIUnOF1AsgdYbN1uTtbMElpxSi5SVsG+uwm/QzhdE9S1ULE9oWIPmRvhaMhannySHHtm4nOAj3/7WkIQqGFsmRq8rEaRqIZIj5wr9VWkwzW5AIh96vagnz+/mTtgM6VzMBr63m/H+mK/wpBAtdUNZrk0y6UUZSLotuBuQwjo3cTpHtObndo9rBbOLv8dA5UfEgWD+3Jh2pnuPGeIFw==;yn1WFxnJ6m32eTEdbsLQqg=="
 ---
 

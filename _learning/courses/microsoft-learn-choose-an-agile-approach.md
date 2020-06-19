@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT40M
 ratings:
-  count: 4660
-  average: 4.7409873
-heat: 68
+  count: 4661
+  average: 4.7410426
+heat: 64
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Choose an Agile approach to software development"
 
-secured: "8/8T+dNbUVLLRZrWBE2onor2voLIL4RKQic+MmiD79AWCyOV1mxd6gxF2YvifRkB33r9vYlpYwBlXuBjOQqh+YWoujog5Q+UTC8pTbxE/jeccJEhFFYxkX+qQo9baoCjVm+0wuDSsH9/C1J0cMHx1bk6ejxP1Aeh8ZNHBVvYYo8vClMKeOaH4/p4jh+qpgCIHz2YfAWI20XURg4ifNEy3KFUlgTk90c/cP4DQ6Z5oxfAQhQBBmObifPU6jvJME5uIJMuTLBbKxpvjh6pYG60/cPMexBNDYDmRWYyk690dCOmjbOvIMjCZ508xhCWeJv4M4sJuFfvy6VugIYQAesW9bvHXrRM99pv0FY8QI21NnWNDgiHTM1lbpC6zdrPZmC+MY9NsoRBo9ZLdTeQvEXHRQ==;OdPzPajH2g6B6JRgIAusMA=="
+secured: "iYi5QgDHhEQ6WpVNRiCcqICBgk2971txI+TNMDstOsVlERQdLt4z0YC57fmytODXvl5Rbd6de/GtyntuMUdwac8LRXL1bsW29WzTgG6veI7LiOYq2U/ZlzwtXg+X3sknli3JroPlu6E+JqZLwCe5l9NTGf0aTHtQA8xWq9TJemqvnsAIMZnxln1asjVCcjO+aR5Kgpd6rILV9Xtv1ozUgflIDdk/oaM+aJvMprRJnFEsq8JL2R9Tv/S6YwiSZB0R1ZjX0jKXmeBlGmbth6bwSuJdYXFaeZNTu3bkoqK/yuQx9MeRZj8Ik6qeoiw6MwJSZpweawaJhvm0QAMoVVwWWIDX92gk9BaokL3sS0lgTZ06HXUArig7/nT4suH4WgFBRN/0auJu7B6+g9yuam9sKg==;HsgVfoivVrJkBS2w7Rks+w=="
 ---
 

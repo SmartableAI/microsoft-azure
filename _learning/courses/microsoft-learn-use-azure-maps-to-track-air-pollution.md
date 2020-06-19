@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Track global air quality with Azure Maps"
 
-secured: "m8fU8wSa+/dhgVzrv9kH+kREmMXs00OARQCsHlUlg8QEId9D4P0S/SPnfAqMVUOVbclsEtf16iqLUvnqY/W86XCENqGOCgJ//VNHQ36g/A5kB/EBI3wCRTs/ItTctl33Vy+D+YGVsh8rIVMpSq82ioybEBPPja/zUg1WY1KFfhIZe+ZhiLa+jut7XbhIVeHPU/tcCw3MDTIzsdU4+WH1bBZW5ayPIGdVUGxX0eZX85Ua2b82Csw1YO91uT9KaOPnwJPVh5bnST+DuD11vPH9bZlFgOKeWE+cyVBIi5BpJLZNgtXnAA0MSD5vjWoZU6Mafdzb6ODnm4lZww0Txe6QzeZVeYE/fx1kQI2VdVGlfSBfDYNuTzfzXTcvo+kep+KdcXdF4eCd9uLpYxy2GvL9DA==;s+01f9DS+YDXYTZ3hH1TFw=="
+secured: "uSELIh+urdY2jLCYqnHlpmbyXCTW9u/w2OsVXVddidt7eCVTOV2AX52/+5cQkoCOlODpDd0eoEn12L30j5z3e/emv2DBd3vMuEzz7bNTRn74QctwDjtnQhXohmG7eyRvp5lJBIh7Op6KHknhLGmKZG2wm2yR+PZLEczxqrUo1CWcWJw/4vaKLFjMgAPSIlhceCu09UnTkp8p1P3H7+I0z+fWJTSDe94CFZ3sA8tpwBHj53ryy3j/DSnsfcqdsYzEvJpe2FnDHrrUVTKYuALyqpsDoAkUbXbl2IHDqpGb98hfpsrVrwu8v/rhakDGhCjkuL4eQsKCx961HDof88GACMbxyGLAB+d1NuxmEu3u8BgzMHXJSpAuM7h0s5AyVrHxk5J1kP7ozjRPhjqQAnWbng==;FxAwIcNUgfL5FFBygyIMZw=="
 ---
 
