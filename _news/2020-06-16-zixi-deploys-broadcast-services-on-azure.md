@@ -8,7 +8,7 @@ ampWebUrl: "https://www.rapidtvnews.com/2020061658654/zixi-deploys-broadcast-ser
 cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2020061658654/zixi-deploys-broadcast-services-on-azure.amp.html"
 type: article
 quality: 57
-heat: 78
+heat: 77
 published: true
 
 provider:
