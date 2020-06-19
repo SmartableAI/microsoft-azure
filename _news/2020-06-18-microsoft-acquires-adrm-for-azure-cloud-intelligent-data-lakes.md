@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Microsoft Azure becomes preferred Cloud platform for SAS analytics"
-excerpt: "Redmond, June 16 (IANS) Tech giant Microsoft and business analytics software and services firm SAS have announced a strategic partnership, making Azure the preferred Cloud platform for SAS's ..."
-publishedDateTime: 2020-06-16T10:15:00Z
-webUrl: "https://www.sify.com/news/microsoft-azure-becomes-preferred-cloud-platform-for-sas-analytics-news-education-ugqePIcgcedib.html"
+title: "Microsoft Acquires ADRM for Azure Cloud, Intelligent Data Lakes"
+excerpt: "Microsoft acquires ADRM Software; sets stage for Azure customers & channel partners to build intelligent cloud data lakes."
+publishedDateTime: 2020-06-18T21:49:00Z
+webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/microsoft-buys-adrm-azure-intelligent-data-lakes/"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: ChannelE2E
+  domain: channele2e.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.sify.com/uploads/microsoft_azure_wiki_ugqg10gibaeei.jpg"
-    width: 900
-    height: 400
+  - url: "https://www.channele2e.com/wp-content/uploads/2020/06/Ravi-Krishnaswamy.jpg"
+    width: 300
+    height: 300
     isCached: true
-    title: "Microsoft Azure becomes preferred Cloud platform for SAS analytics"
+    title: "Microsoft Acquires ADRM for Azure Cloud, Intelligent Data Lakes"
 
 related:
   - title: "Microsoft Azure becomes SAS’s preferred cloud platform"
@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Microsoft Azure becomes preferred Cloud platform for SAS analytics"
+    excerpt: "Redmond, June 16 (IANS) Tech giant Microsoft and business analytics software and services firm SAS have announced a strategic partnership, making Azure the preferred Cloud platform for SAS's ..."
+    publishedDateTime: 2020-06-16T10:15:00Z
+    webUrl: "https://www.sify.com/news/microsoft-azure-becomes-preferred-cloud-platform-for-sas-analytics-news-education-ugqePIcgcedib.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 37
+    images:
+      - url: "https://www.sify.com/uploads/microsoft_azure_wiki_ugqg10gibaeei.jpg"
+        width: 900
+        height: 400
+        isCached: true
   - title: "PrimeKey Releases SignServer Cloud in the Microsoft Azure Marketplace"
     excerpt: "PrimeKey, one of the world’s leading providers of public key infrastructure (PKI) and digital signature solutions, today announced the release of its SignServer Enterprise Cloud Edition product in the Microsoft Azure Marketplace,"
     publishedDateTime: 2020-06-16T11:44:00Z
@@ -85,20 +99,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Microsoft Acquires ADRM for Azure Cloud, Intelligent Data Lakes"
-    excerpt: "Microsoft acquires ADRM Software; sets stage for Azure customers & channel partners to build intelligent cloud data lakes."
-    publishedDateTime: 2020-06-18T21:49:00Z
-    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/microsoft-buys-adrm-azure-intelligent-data-lakes/"
-    type: article
-    provider:
-      name: ChannelE2E
-      domain: channele2e.com
-    quality: 37
-    images:
-      - url: "https://www.channele2e.com/wp-content/uploads/2020/06/Ravi-Krishnaswamy.jpg"
-        width: 300
-        height: 300
         isCached: true
   - title: "Johns Hopkins taps Microsoft cloud platform for precision medicine initiative"
     excerpt: "Johns Hopkins Medicine announced June 18 a new five-year partnership with Microsoft Azure as part of the Baltimore-based health system's precision medicine initiative, InHealth. Microsoft Azure's artificial intelligence and cloud abilities will support Johns Hopkins Medicine's InHealth precision medicine initiative,"
@@ -124,6 +124,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "e48AmuNlC4+5kcIay6EVOa9jMbqdIqZ7GQdkROvAeKXVMnagck3QyaWOKXZooouNI62NyJER7iLbAXa09dtn/M79A/xba5nJUeQDt9+vY2eKEu3QvV+HhSGfxk3YyYpJN4P8TaQrDP9U8PteB1rL/FnADoIjFyjbQx3U/MWx3eaTzJjLCfCYH/LftSzmzSY1jvuWoWKmEPg74sq2w/l8i/AD2ZeoyUSR2hw2D+PLZxAez4BqmW5+aj4gFWVdoZpZYXV/lLGw93jGXIbCEyu35x4sbbd5e0Wox/GN551wsmhwgCSCMI+91aDEQ8UzxHolC6LMV/mQ/zgNgAojozC9DQ==;MgSGgWxZH9NlwfYuQwwgaQ=="
+secured: "EXTeNXI9qeu0ibzhMumQlc/IU6eCkuvq03hcFqXkhEeMc9wA6OqmW32kVXjdVyqW2RIfnh2odX2A1cGJ9sFVVoJthaauTOqLsqoxASiXW+pEKug05JQ1XQikynOskXzatWcg0thXTUSEEIyg1QQh+xQjU/PNJtJQOIwV+FeNWAhApGz1wz1BspRR9wedkOaSBVSsUb33n19xZ2sMidWHscxUIr0h7b5pbIt7q3U2uXMSsg0weUActaxbuTcdn/k9ED1TJJ3O++qe824TAUZ1TXLfF59tFxQUb6ugMa4od81RPjJepDlAj75kPD11FYpFf3fpr34KLS6Vvrpfr4LyMg==;7jDNkMIo4fbe7AYlo4Tniw=="
 ---
 

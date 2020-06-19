@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-azure-becomes-sas
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-becomes-sass-preferred-cloud-platform/"
 type: article
 quality: 97
-heat: 217
+heat: 237
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Microsoft Azure becomes preferred Cloud platform for SAS analytics"
+    excerpt: "Redmond, June 16 (IANS) Tech giant Microsoft and business analytics software and services firm SAS have announced a strategic partnership, making Azure the preferred Cloud platform for SAS's ..."
+    publishedDateTime: 2020-06-16T10:15:00Z
+    webUrl: "https://www.sify.com/news/microsoft-azure-becomes-preferred-cloud-platform-for-sas-analytics-news-education-ugqePIcgcedib.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 37
+    images:
+      - url: "https://www.sify.com/uploads/microsoft_azure_wiki_ugqg10gibaeei.jpg"
+        width: 900
+        height: 400
+        isCached: true
   - title: "PrimeKey Releases SignServer Cloud in the Microsoft Azure Marketplace"
     excerpt: "PrimeKey, one of the world’s leading providers of public key infrastructure (PKI) and digital signature solutions, today announced the release of its SignServer Enterprise Cloud Edition product in the Microsoft Azure Marketplace,"
     publishedDateTime: 2020-06-16T11:44:00Z
@@ -75,6 +89,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Microsoft Acquires ADRM for Azure Cloud, Intelligent Data Lakes"
+    excerpt: "Microsoft acquires ADRM Software; sets stage for Azure customers & channel partners to build intelligent cloud data lakes."
+    publishedDateTime: 2020-06-18T21:49:00Z
+    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/microsoft-buys-adrm-azure-intelligent-data-lakes/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 37
+    images:
+      - url: "https://www.channele2e.com/wp-content/uploads/2020/06/Ravi-Krishnaswamy.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "Johns Hopkins taps Microsoft cloud platform for precision medicine initiative"
     excerpt: "Johns Hopkins Medicine announced June 18 a new five-year partnership with Microsoft Azure as part of the Baltimore-based health system's precision medicine initiative, InHealth. Microsoft Azure's artificial intelligence and cloud abilities will support Johns Hopkins Medicine's InHealth precision medicine initiative,"
@@ -90,15 +118,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Microsoft Azure becomes preferred Cloud platform for SAS analytics"
-    excerpt: "Tech giant Microsoft and business analytics software and services firm SAS have announced a strategic partnership, making Azure the preferred Cloud platform for SAS's analytics portfolio. The two companies will enable customers to easily run their SAS workloads in the cloud,"
-    publishedDateTime: 2020-06-16T10:57:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Science/20200616/3576929.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 17
   - title: "Microsoft Azure to become preferred cloud platform for Johns Hopkins inHealth precision medicine initiative"
     excerpt: "Microsoft and Johns Hopkins Medicine (JHM) entered a five-year relationship centered on Microsoft's Azure and analytical tools that will support new discoveries as part of JHM's inHealth precision medicine initiative."
     publishedDateTime: 2020-06-19T09:38:00Z
