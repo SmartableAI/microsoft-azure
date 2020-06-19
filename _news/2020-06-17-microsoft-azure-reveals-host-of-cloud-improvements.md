@@ -99,6 +99,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 17
+  - title: "Microsoft Azure to become preferred cloud platform for Johns Hopkins inHealth precision medicine initiative"
+    excerpt: "Microsoft and Johns Hopkins Medicine (JHM) entered a five-year relationship centered on Microsoft's Azure and analytical tools that will support new discoveries as part of JHM's inHealth precision medicine initiative."
+    publishedDateTime: 2020-06-19T09:38:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-azure-to-become-preferred-cloud-platform-for-johns-hopkins-inhealth-precision-medicine-initiative--1343190"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 0
 
 secured: "uIFmQLTzHgufQNO2I+FWYU5mKyZr0QyyXa5myAaN9OEGNiPI6/PmEJ8PbJ0T1d5xgl8TC8X2GnVz6sr4L7z3neuYaIOlPFKz9uzRalotgIweRvpLlok2Ar060alWY72NtuDk3tYau85kn741knAml3LmgR5qTFIcohliqwf5n5pwIXEFf9Zm3fZCJ44xk6oRKJJrHeQH/NTLa9scmP98GpwqjnJ75R3puqGaUAH8bxowpB6oNkT/YMWmGKJCPHZlXzh7UjaLCQbCsnsno4yxFGgKYJGHVg3yn9xR7Kkoex78EdUS9hXfHpsuBJfdBd6FqLMsGpNMG56STWbieNP4Rr6sJDtQNgblVM7jlXQ1Y0Tt0iArITDp8ysWNL73BjupAw6XylxU6r9zgc2w6esB+f/54obvk0DBtBAeQ8osM8CYZh8HFMGJ+KN7Bg5o7JezNxuaWallwyyBmSNQhB2IMBmIs2ueYup11BLV9XcxbEWWEbF/+4WF48nSO1lIHpNyc9rR0kxXSJuvNpNM1lMlaA==;p5rrMzprK3OWQGftK8X/nA=="
 ---

@@ -93,6 +93,15 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Microsoft Azure to become preferred cloud platform for Johns Hopkins inHealth precision medicine initiative"
+    excerpt: "Microsoft and Johns Hopkins Medicine (JHM) entered a five-year relationship centered on Microsoft's Azure and analytical tools that will support new discoveries as part of JHM's inHealth precision medicine initiative."
+    publishedDateTime: 2020-06-19T09:38:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-azure-to-become-preferred-cloud-platform-for-johns-hopkins-inhealth-precision-medicine-initiative--1343190"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 0
 
 secured: "04vrCf/t6hRoUsx8x7jyufkrCo9eSPl3dIbxm7maVBzotuYOt2N4b0tnNp7JvQ28jAClMgfiBCHQ1dA9QjPw19s63AykTHJwjPjt3rzjbHyZ6DNO+utL2wF5UlQVZTVTn0d9Ae95JYcdG+7/MWmbCR9fRUBrK2U4YqbADamBjY5nqjWVd/LfxK4LxJZE6rEmLbzLkVX0rdxmFCmHEw0OosbiAC4jkdquXLw1kGONNvNMWQ3eQF/9nKJ3jbRokkfqyiACL+emDUq6+7PvmF2TIoVcF2Jcr+TO7R6HvFsFdxpnBgsMP7bu96UqhxxfLwmah0lFh6MpRC2ZhT/8+gToYA==;Db2d17YpTndlcL8XQj+NUw=="
 ---

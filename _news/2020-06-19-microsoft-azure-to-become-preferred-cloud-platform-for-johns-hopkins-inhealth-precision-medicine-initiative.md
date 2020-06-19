@@ -1,27 +1,20 @@
 ---
 category: news
-title: "PrimeKey Releases SignServer Cloud in the Microsoft Azure Marketplace"
-excerpt: "PrimeKey, one of the world’s leading providers of public key infrastructure (PKI) and digital signature solutions, today announced the release of its SignServer Enterprise Cloud Edition product in the Microsoft Azure Marketplace,"
-publishedDateTime: 2020-06-16T11:44:00Z
-webUrl: "https://apnews.com/PR Newswire/63a3c8e6a6240832c128204183d6821a"
+title: "Microsoft Azure to become preferred cloud platform for Johns Hopkins inHealth precision medicine initiative"
+excerpt: "Microsoft and Johns Hopkins Medicine (JHM) entered a five-year relationship centered on Microsoft's Azure and analytical tools that will support new discoveries as part of JHM's inHealth precision medicine initiative."
+publishedDateTime: 2020-06-19T09:38:00Z
+webUrl: "https://www.telecompaper.com/news/microsoft-azure-to-become-preferred-cloud-platform-for-johns-hopkins-inhealth-precision-medicine-initiative--1343190"
 type: article
-quality: 37
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Telecompaper
+  domain: telecompaper.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-    title: "PrimeKey Releases SignServer Cloud in the Microsoft Azure Marketplace"
 
 related:
   - title: "Microsoft Azure becomes SAS’s preferred cloud platform"
@@ -72,6 +65,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "PrimeKey Releases SignServer Cloud in the Microsoft Azure Marketplace"
+    excerpt: "PrimeKey, one of the world’s leading providers of public key infrastructure (PKI) and digital signature solutions, today announced the release of its SignServer Enterprise Cloud Edition product in the Microsoft Azure Marketplace,"
+    publishedDateTime: 2020-06-16T11:44:00Z
+    webUrl: "https://apnews.com/PR Newswire/63a3c8e6a6240832c128204183d6821a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Johns Hopkins taps Microsoft cloud platform for precision medicine initiative"
     excerpt: "Johns Hopkins Medicine announced June 18 a new five-year partnership with Microsoft Azure as part of the Baltimore-based health system's precision medicine initiative, InHealth. Microsoft Azure's artificial intelligence and cloud abilities will support Johns Hopkins Medicine's InHealth precision medicine initiative,"
     publishedDateTime: 2020-06-18T15:31:00Z
@@ -95,16 +102,7 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 17
-  - title: "Microsoft Azure to become preferred cloud platform for Johns Hopkins inHealth precision medicine initiative"
-    excerpt: "Microsoft and Johns Hopkins Medicine (JHM) entered a five-year relationship centered on Microsoft's Azure and analytical tools that will support new discoveries as part of JHM's inHealth precision medicine initiative."
-    publishedDateTime: 2020-06-19T09:38:00Z
-    webUrl: "https://www.telecompaper.com/news/microsoft-azure-to-become-preferred-cloud-platform-for-johns-hopkins-inhealth-precision-medicine-initiative--1343190"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 0
 
-secured: "HCtCAKOTnKWATehagW/A57DkxqmG6jhECrLSx5Qn0V5IzmTShYvRziA1RVKD/T5Ir6RCzRidY/QGJibPFhHwh01jxwtAzp+47u0cO41I4Uko6m9433k6LpzLsgxugn5a95fDW2CrXs4RWLPy51ZuBtA8OF4JlP9zHPCZJ2THJsP7NEOjXjhc8VK7T04QBiNmAJ2shyW1UvHOAfLtvUuijDcrlZOWXaL7O1tWDqJOLCTqjVMxwETHnbVZNtSFm8PUbRAgSm5APraro3ruCcAp/oidyDuwuptVDrXV99kD6ElitN7teuqK0gSbuU6w0Wo9PIWsG7dDuhZhq95v3Idgaw==;1a5ERXM6VuyNv81pbvHMQw=="
+secured: "sGOheeKIO8Qky+Y99fYn18eIaH/Co8fl8UsKFr8xVV/S4OHUTBCk+FGkEU8GO7RZxdnATj11oy8qOEYTAq6pb1PZVUIuytBFIJ/Z5eZNyqpNRhLEc6Es+oqt76m6e9O6ZIlP5i/4oS9deSlWfqlJyeKPMvt0UOkHp+SNTtCprTspxj+YgYYLEMkBzeYkYn0kUZYXdUlrPJNVS+4QTOsjhS5cF3qfZSOQ4RPf6/rfTSYqZ8A/CCqEe4SzWHWGuBlzMcDTmwTQ6p1HQxtDi+s+MSWLdQkaHuJj3zzu390iWIIfqeDjkpu21LHX9sZpFvss9GE7IiMJG73Q1/UDLKUBDg==;RgtH4Tr1COwWMhcWqjoVoQ=="
 ---
 
