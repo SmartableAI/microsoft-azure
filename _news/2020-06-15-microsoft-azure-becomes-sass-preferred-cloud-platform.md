@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-azure-becomes-sas
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-becomes-sass-preferred-cloud-platform/"
 type: article
 quality: 97
-heat: 237
+heat: 257
 published: true
 
 provider:
@@ -117,6 +117,20 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/6.jpg"
         width: 400
         height: 300
+        isCached: true
+  - title: "Microsoft Azure will become the preferred cloud platform for Johns Hopkins inHealth precision medicine initiative"
+    excerpt: "announced a five-year relationship centered on Microsoft’s Azure and analytical tools that will support new discoveries as part of JHM’s inHealth precision medicine initiative. The work will bring together JHM’s leading global research expertise with ..."
+    publishedDateTime: 2020-06-18T15:07:00Z
+    webUrl: "https://news.microsoft.com/2020/06/18/microsoft-azure-will-become-the-preferred-cloud-platform-for-johns-hopkins-inhealth-precision-medicine-initiative/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 16
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/prod/2020/06/inhealth_hero1920x1080-1024x576.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Microsoft Azure to become preferred cloud platform for Johns Hopkins inHealth precision medicine initiative"
     excerpt: "Microsoft and Johns Hopkins Medicine (JHM) entered a five-year relationship centered on Microsoft's Azure and analytical tools that will support new discoveries as part of JHM's inHealth precision medicine initiative."
