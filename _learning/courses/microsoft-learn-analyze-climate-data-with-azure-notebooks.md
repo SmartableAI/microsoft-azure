@@ -8,7 +8,7 @@ length: 45 mins
 ratings:
   count: 1906
   average: 4.714061
-heat: 59
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Analyze climate data with Azure Notebooks"
 
-secured: "07h3CvptQ244WMWW5pbqNrqolE9LUk69YkuBNX/RsOT06OIFVGEXeUE7JNJl8KxO01iY8ylApIxUpAUFTiMddutns3TXp5rVNm5m3Au5FrOsnLI/5Unsktgol9KgweOmLehzHX3y3VW2FvL01Qs+ZarcWzJnXYpmGJMVAowKceSstbXjRNWwvXASYvIbzY6XMDNsd4Anbaa9w9EBCy5UXZu0yquAMVTNjwga/EzqV5gL3OmkF4jlkLYK7VS3A/FPo9SqXGtPusRyLfOi5V8ZLDFyzY+NNa+ti7bum31qKRBLv11b0xjawf81gsCa9k38chzb5SmVLBov6NLinlML0uZycanCTBWENXlpuxiSnPJSZVqrnnEIVI5e9Kh7A3EAhIePiguens0Jk6s5UY5nYg==;fHFsKLCkUi4jGQKzK70icg=="
+secured: "FFohGOD+6KPvFXfudAp+kKbk/bElBxPTpQYK7JxSeIczxQUfoIMs47betMFVoiBij49x/6DVbYEFqudiuFnTx1gGjkd7TM8KPezbIUrGuH6qcjj34GkmPW7Fkcfmojc/kO0Tfpn1ZGyohiEu5J9J1sPDTXV+nNUHPlhPQ7NBko8p+ATXXKFhMquUFYJsJMPhNvl8IQj/CoMnBjqN3yIdI1oVQy8PeCdqC+S4hoJYW450/aDSRN54q83FTjXWu3xGgXCPHBCOFU55V9DNTPBa+n2QikDrXDe3IqAeDL/4Azj+W8mDmN3yiXH3382rod3TSWLMZ2Tp3wbS6Fe4u/FBQC5YSe2fzmXb+y0VOIFVzkRJcvYFqNz1LjOEOxnT/uahtjbxrxgOpq7OutOgqzPoDA==;0cZ8v4uTCD/s2B2RMdRlEw=="
 ---
 

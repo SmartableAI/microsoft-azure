@@ -8,7 +8,7 @@ length: 27 mins
 ratings:
   count: 348
   average: 4.658046
-heat: 61
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Secure your identities by using Azure Active Directory"
 
-secured: "DsuYOdXbNH10h9E9lBKaE9Lcz+S12CfKzhIodpbycw7s+7ps1kkqdclQMJZOjHKoNsJ0j6E1qEPB9LSCTKxSbdSPncuHPnDaZ978kj3HJKRQcJ56cAoZiJ6aenJomOwFxUdC1MfR9CIc0sjtlmgQr2lNvF74VfD+mciCBc9T4gWcgn5LjCPxVdplOduuI4ALoGA8RNYvUrJRwcpe3X8ohWXgnk2fdOEecp09Cl47yEma2PJV3xPQEbXs6RRNGwHQWYjw6SUKbLgmB7q9Z78UP+x9we/R8SshZZ2uvA1vEunsq1LX6aYlnPGetvlkM1piycqJ9lt1Fij3zgyxwTrlDmes7JOtulpaMh9cZdUNDIv85RT+uNCJqC+9S5zXtNa2jQJB8sAgysy8zNiwwBOiIA==;Iu2IXdMEqvbkaRcQrb67dA=="
+secured: "muyrxPk2Pl/GFjiPHpgMPOC2z8NVF3HM/IBWxOeD75jwZO17ZNOkvfX9tHhUiUeQIVdk3VZgyX+zL5HXVCU9iw/znwsftphI4oA+lMdqqecT6B/0TFYuZZnV/icGxoqDfhePdS4ZbGGS6jEwaSgCKuDwP1CVi7pCfZctCQYsSMjKeVI7OAGLMhGIKGIIzf1NDSzNmH8fx8erxG6vVq0eufUyE9Fy90AihCbiCFErBEqNn0cNPFfsvyU5C7eC2BNZbRN0kNV4959NYXMlZG8w6T13K3HgGD/nSaxorsbpIXXPdjIbTFo8dnYlUqhEtUurIoyiE+PwUqQuvUMOYpc3R8hhuOKVdmfIHnQ4odrlRdxDQkjEvPcKybaIScmiOyJLx/Mf5IqUqFakCAoQQ2JA5A==;c2jyVIXUEFnC5nMH2Bah0g=="
 ---
 

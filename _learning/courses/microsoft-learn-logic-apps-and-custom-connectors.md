@@ -8,7 +8,7 @@ length: 40 mins
 ratings:
   count: 439
   average: 4.569476
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Call an API from a Logic Apps workflow using a custom connector"
 
-secured: "/J6OCZsWKe4POJ9d4jOauCXDFkKYdaveiqDRULoVfgRGKLfRyzqzUI8yb3aDKTq7DsBckoU8voR/QD4r0ssVEH1NVq7lacY3mSnf85Kkjo9yL5q3V6p+t9jLIUrzdRkSPSCVytRL8agIOtOyRbWgNpYpkade3ZqsYchmG756eb/yKBe5YX6MowcmkayuQRSy15Q8CBJM0iX+ZNY0VYHDpgDjts3Blrh87nOGPuyZUr7m22a8WiEcTVfhSoNDRJiNu1BH78itwtecIMTMgfNzEP6uD28iUSFoX+ROt48MwxdPhyulQKGw/ntNgKwYfCURBdfPlfUcXQVDXb1T/w/+Nj0M8NOgpxjvQEiJ0s+vyia0vkdNM8HGbZpNk28cntAsMa+14/ICihPWZhhDEcHPlg==;pxQQks4H6nmJFuDIJmMLfw=="
+secured: "GHxI9ZTM3L34YowaadtwjJ4OdX6gXOhrSwrE2A8GQaF7HSEtv8vw7LkpS4nBtZJn309QJijfTRWyZVnhw4cvxpWQjOvuG04AlkWz7fRfH2F88GCZt9oUfOcIf0PAahnjQZH0Ja3oNkVfq2rwPX1YnK+nTsGMF8/TVmr2s7wVlP0zpaHNL202zkI/0ihc3H7Zgna4z6n1FlbosYeiktuM/09ANkGoh5aD+g54B68DK8j6PD6M4PFT+qosxl0RElZ0PXV7czeL7rhTg1LCkzV8l4aeb9Av+EJJrc9224AED2mfkFtxofGvgASTlP4SyKRomQwgY1rrWcztPmg0/Ym+iYbD5jw3FLLndUyvxx1RXnKHBsppolna0MFysFO2EJ5e83N9jkRV9pX/vgQ3oXXkeA==;C3/VdCJRUzk8JTfkVdm3gg=="
 ---
 

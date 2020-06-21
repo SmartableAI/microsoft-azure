@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 30 mins
 ratings:
-  count: 5167
-  average: 4.739694
-heat: 57
+  count: 5169
+  average: 4.7397947
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Microsoft runs on trust"
 
-secured: "9z79dIveUerVWnH4lNKIXWUmM/FPt16Auu3bmz2Q9GT7nsI9YYe/caztSVo1YCgdnDEPP/HyZlnh/5VMp01XivrKlcO8tC0dgR1WZfA+a0I5v7Y7iuiR+Gje+Z2PzmgalFPotCOl8HixBx8MVHIImmligQ00N58mgK1dP7PheJ0SpVWtpLl9U6yrM9e/Y8BYY+bP020tM3tfkFGx7KLu3DfeSrb7HcTpXXx9efiHnToDmVyleFT60/mA8307SKsJ0foVnbmbu/M52fBnV5GG8Ob884DVagQbkiAP6FgYLtMzbmiQ2Vw0wqEBS26ccbSMEOswznUtbNM54Hzh//8USFE1yjm31Jmi+T8q3f/DZFhAy9/6EojDkwUMnP7u8pvWj9viZJvphKPCcXls8ZHxhQ==;LCLj1gg4kAuVlAz6zUTutg=="
+secured: "D1fwHwGQGvfipwz/3r2iv0LGC5Nrg8sumWD2CoVidr6Y44u9Y5N+BSZhmO+tkThCjONV2cgszHGOXFIGgXEqS3pYOWoYYmAZ3WOLlJOw04tTaMH6/k59JEpoOOvoutxIlEBS/UtYjub42Ae9BgAelnDOQny98cIMpsJlLTs1NzrVlRKbkNaGZJjX9GVNZFFWZhzB+xTPGI3M3qdBzr/Xb/SzyaHwaMBtWBqnPSnjFDX9g4Q4aIHdHro7dR/ZgM7KqsvXfoYNfCXu9xK9VMfFMF5xIxKLoM60JluQ/Z0pPcgrHUvj4MnQPxxeAI7vI6zs2Y/gTVodkKxh8DamV4b27rF1CdRA9PI4Frl2Mfp0UwcUC3kGgf55axyrBNGjoRNiw7Ysfn1oITDRZTw41Y4wUA==;1wAbONXPI7pfjcAeuh+okg=="
 ---
 

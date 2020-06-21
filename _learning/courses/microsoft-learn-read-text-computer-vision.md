@@ -8,7 +8,7 @@ length: 24 mins
 ratings:
   count: 52
   average: 4.7115383
-heat: 54
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Read text with the Computer Vision service"
 
-secured: "fzx2PjbD3Za1FGm6acgkyoHFFloIIZ2bsvKuQatNK6fjm9OL4FMkcj/ujn5N6d0jGVx1xyDSFaq4ue/RuJ38Ikzl42++iPcVXc8ODfGih/BSEQLxTXmH1HzIdRpO+FIHF2GLltV2lMvmehArQIXT4cNN85ABPfdc+oM92PT09G/EeMWNkHwTVjN3gO5NZe/ThmIXBAYZiOQNlrahf4Rocsb17ncRdWGiKU0vQFklqN5hsGnFSqIv57EPnkLGY1kBGI3F1LZ7z0opcHQFAX9AaqD44dTZR6NdUYN6iUAuhDHd5eM1SIVi970ZxJKlRdv/gp+HJ7GRwnPAkH3bzGWuD0hPnnHmUurAYK0bvPSvbudslaszRglkVa+2x1V4Ez/AZ8dPp3nDtqfPkcWXcDzguQ==;RFetD/oibvDqJXDO5n4GGw=="
+secured: "3JYTGFK9rn2T2B+Twz3gFcUyK0dNLHL5rPawbMhCq3QfkMNQi1LByf1Sfc4bY0JfxuKFsM4FATMp734jT827mVPTiePTHarv4d2C7WLA0EWPELT8Wk12Swhbcp256Gy8cgJc00VR59CvvbQZ/N0TksISJPS1B+hjU34x49+RHaVSaEXHqv1MJN0EcqwWHxyDJYqdSxDHxHg8jX3t8aBn6MPzwimLmiqZaWRy2neTN25LWejxx/vTNZbjGPtWCmR3up4nfoephQRt9IzErQ2/zxOX5aVR11B0mcsslLnxHjbfoFWRVmgrEEqYo1XsnXx14YpQ08pWmDgdr39iE6lRbCYoM/TSjkgitSDJSGxz2V+anMsCEviDIW8pc3VsV07QJ/H97EN/a6y6kKS1EYHRjg==;0MSH0IJ8wXlPhG+rrTjmOw=="
 ---
 

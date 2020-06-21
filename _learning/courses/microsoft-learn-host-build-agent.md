@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 59 mins
 ratings:
-  count: 1441
-  average: 4.70576
-heat: 58
+  count: 1444
+  average: 4.704986
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Host your own build agent in Azure Pipelines"
 
-secured: "CCwphJqNA2tgYB3EBhNj1KUUs8hJWusWudk+pOoY/Y0jm0wGn7F5aGqh2tE0VuNHQ3mXvb5RFWbVHRzK5mu1rjph+gGiPA27iak9ZLiw5LVsMkvZ4IlXMo/5+JshFagAFbr5eZsKwiWe6o83kBUMl3UZQY48zGHJT4EwafuirOCp8DIbHENR6nSrEi9wZtggleLmKWvJelJPrAs4gelTo01DkWrNjO7cIPG2imXphQMCF4bxLe7+J+9TTarjLy7SNHiLSNsbAq75jOTSmj/Lfo5q9xjMjEjKv3BV4MIXhsqTDvPpBxHLuL1pFm0JmM1/dss1IKldcTVrvzmTiHFDzXhoPi0tyykwmTExMlDmJBo+Hvt+nyOtu2GnFusHoGmUW0A6Wxc0CZRIQpxGeCvwhw==;WsZRN572BG4UZIR08EAnlQ=="
+secured: "3mlIHpP/tEVSLlS1oZ/CUdtUiXY8MVt/M2W+u5SX4J4nW8m7nchmiy3A6/gDpnDjYjRc16XgwQkH4gzznjD0geQW9PasuzTub/LTQe4h2/AGkW1DCN9oEe6npfeqVh5o5FmAZbN9rc/8zlccN+BsfK8kKTexeA7kMmETqr38Ok12wB7ONbnQuSWEpPvaEwmsY49GSYbCdm6in5/HzzlrUQGw3hP7iYM9+kZFOFGosf4j0wOlbgyQfO9v6X3xuLJrLkl3XCygx22Ed3wM6kt4jqjExFUa4tz8M+504NFPFa9IJQdz9aB9CsPQewyCJayERvUjRkEmSVx3kztUYCV9mFm/5acgyiKVYDMhWsvTq8bWM6rGR6wgPJ/KkjCa2oBa6kNIX8TmKW7SHxH+mEcVTA==;31yw8HTsKdBHqk9oxhaFGQ=="
 ---
 

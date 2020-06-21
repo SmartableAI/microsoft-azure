@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 47 mins
 ratings:
-  count: 614
-  average: 4.697068
-heat: 69
+  count: 615
+  average: 4.697561
+heat: 68
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Fundamentals of computer networking"
 
-secured: "PHTmsTVcQfxuzkpxUu7By10XAOCn7UVvniiBC0erPeZjWUMOQ3yMFDj7Q6SClHvElAo4ub3kJ4Ur/ZdssP7r7+nln7cAYqIWUdEvMVid+GL/buKne7lR3mSYJAz7p+sbhXKMUqj64P8mbDSABUhK+i7wNyihTA2fPaSqcgnF2QaLQNZrN4e8s03fjztwEHzfIjz/6BLzjTSLUe/1EhLVW7GA33hYyk/UbZOp2NN3WA1ogyq45PT2ETBKKKXwLY9+zAFK8JFY8K9W2ph74LdM1LNRl4jjFEnpENlu5kzEok4HoNN0I8w8b6eS9tp8OfWhjN00HrvZT3qI+fw/rNHobANIuPmgzNrVHjGwvCfV3FMVXMhFgKZAlVDHatDvPXDVbYRYlSP2q3dSSjjHgf9txw==;M8N3mtpqkhLsI403iBcW6A=="
+secured: "N5MTj9fQhilTpkGI17rVvqUm56yH6KE7HbMuhuKVkS0iU3JKYhnpu0cwdWPYoQRE0zauy4hB2e+WxQuExXHM1oZ+/VLHg/3QZgPVIYhhAx/ybCYxhvzllkJj4KsP0uSrS9WcJYThNKa6NHCAUCgsujw+9zAPOXmAf/LdnjAPv7wy36FuwL8jvWoV2ZpmZYZ4Z01RfzHdydQYOeTnTurRKQIDTIekaakgaa1uQpddfJdL4GJYaU2QndPbXtsHbM5H2q8BdHbnTpFNOMb1wHOFoyO4Vp/Q4UCFxXhyABDOIoUbBu1TnHGASARtkRhSywBOF+LQnUwKToAOhm69A+u4Wl9rf3VKOeQ345B8Yal43zprctNnZAEZbPPcz6hLNxbIqWd1RRBe2pgWrsiutPSupg==;YcTz2dE7jNS+5xdCKhRc+g=="
 ---
 

@@ -8,7 +8,7 @@ length: 51 mins
 ratings:
   count: 4709
   average: 4.6954765
-heat: 64
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Manage virtual machines with the Azure CLI"
 
-secured: "twA0B/nwgxe4Eao98/rM2+zJ7gHPkWqz5xKuhP0+bTtn7RoXPuHgJF4o9xgc276FdqmXI/fOeHjceGPFD6mbHxpWJwLfJ61pNMx/79fQDUGCEWJLQlJj+gh/AkOZNFF05Gt/abfpvBW8EFrs5gtJt18GQV8+DqgrRQPZxwWhWWDJM7oJf211jZ8NcpUVan3xWf1DNkbVNOSOWd2ymnYjePETHcEoq8e76pDcDUlIHTR5XGa19IOOxwm9VWL3Obwp1Drc8dvjWiuTTowxUE9bI2P1e69bUEWjA1++R0MLGE+YQgN95TcNxfvjxtwO5js3hgRM4Q1/r6jYVCxI31HHlMGreImvI+EP3R1+MbhufKuP7v9p6BWf4fRriBLZcXkhTP/R5l09thTSnTJWyzy9pw==;sl/AIMdjkv8+V9xmqSRzHw=="
+secured: "2E/ybW7YX/2HABD993klKWa9yBvIs4o9569OkyqJSOVP+/Nw20w3RVpeSWIACPryJfA5fqmwJ3Tze6/URgToOxmXwqB6NewWwJmQWeL5YibpOe49vtItqkvnA1uOl67h+de2l4H2B4BhyO58YAMOFc/Uxjok5OQ+LGo73m4JUG+J012KriqdqPUrddhRccsa6dHOuTDiswb6hGUMCRGfDgCSbTSEJ8PLOWlbPddl+F1VkygpoDDqq+6fa+/chf5SzELMwQLJRWaFDGpjIzWToF825E0FVH0Yr/pAmC5oigPAyBi815xglYzwyc5fr7g5azrx4a5kLyvMdeUv3rcc/kARFYWvKCzdfwgjInhH33jcmpgHkFz7ZzZjNQDVZ6BE6s/LreE0wL/3MYc4lUDQEA==;bLGgdhVERE4xd5oZClRO0Q=="
 ---
 

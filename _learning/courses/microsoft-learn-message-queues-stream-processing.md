@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Message queues and stream processing"
 
-secured: "gUfMPqBkZL9Xf4weEKGgZ10kTZeg/ZHofQduH+pEKS6G/LIjjNY00NCAqYMZ7biYMAIqHkwBwi0EubOsHz9N28gdbRnwxM43JhQ9Cna0CyP8FRHNjSzt9cRo67t+fFsJ/ZDwtdqMxuTtXSWzDvSYeGyMraxYGRoMMc2PoTSqgjE/RrCZ4Ak74Mw9QRVGRVFP4lf7IOiDIIcS/mDlON+0Hpp+IncV4zuReePa+p7qarTwS6aUCfzg/QaTCnW/NqwjxN2nPz37M/HnRPvRDB1O3+lSyefjsEMBAehUlkbHIs74g8gGTvr0jjwGEdEbRQB6mkBc8sQTljKK/gePcVnIrZvh3t30iP7DvtdKJK4fMq8kC4pFtQcXNzORp/swjW8BgMlq1OW7YtXs4h9gkaDfdw==;6m1TrgL+pCD0nCrgzO/W5w=="
+secured: "tuYxqMJORmgW8htAtfFXtX3B+I+7U563hhcK39RWVeteaFRDsuboge0SueeWiU3akckBpuC/j6Juh7nImNc/BnO3mzNbP/vWVl28L6k6iSZN1FR3uRpT9kseP1+uRVcj+WGdxjzNkrQXou8/J9mpNoklOsartwM2vCNXVqo1BLPUfX3EABl4g5CNEmHg0JE1j57iC8gi6DYDpgR8Z7cWEJRPK9yd/r7fOEfv8QVXs0z3enSc8VNyfUEZvAh+YfgMXFoxsPboNnq1KapgNPpn5a1CgcKqd+QjSpuBqBRUpAQC6ZYhOC341zS/4/31PQsouTdLzQgc6xpFwl4Rk45ggMGJKEKNiDmSDoE3Z7bfQFrAfqx66dXUhk2l3wRS443tG5Qgp29kwuidJGd9XrrAiw==;crY5m+ULWi0xmw+pbcDG5g=="
 ---
 

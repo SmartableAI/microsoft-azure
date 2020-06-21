@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 51 mins
 ratings:
-  count: 679
-  average: 4.66863
-heat: 52
+  count: 680
+  average: 4.6691175
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Object-oriented programming in Python"
 
-secured: "gEIVrXhK5fKeS3/9MivY8BnVG5LmUYRiMHR5gaAzRZ1MF43iczRrS1wPMEpAMPjmUlLLd66KXfJmWibjLbyqPJd8Tk1jJvDtR99fLmwYzJZhf74+XGbzG8ZuLX9uoVx6zcSQeS82oEgQpAufh9ET+jcpNolD8EKaRA9wI8YiIVYOiyO9EgwjwO9rfF5/mYehU6dVM4H10RKrUcv/vqPmBsimN+zPRO+zWQHzyHAjgfEp7Sn+RtQ/4jgNJwMKiUi2mL0cWGK65WXXsGbDhS/Mg0yyO867BVwRggRiLwqxHXmBOxyevMZPnl2dNrV/33FaKMfLmRcPY92u5VLiQ/dfsgNsBtV9FLNgcmtCN2bjmHADNk9NO/heDrNIv8Cmkf6j+bFiJZ+iJRQXrbBJOIuKWw==;wt50IFjurSMJEnIwdRyULw=="
+secured: "IK0ZaW9oKUEyDbZcw1O5Plw2bf/IOI8qwzrmV0hp8fLFWkeuoeFKjt+y8VKPy9GxRWbobPPZzVJsMJF8GbD0rYCfZwxCxdOUDyts/nExDIa7doaQOtxF0iM2mD5oh/iCFiY4YR1LsTDHoPKbi/hiKcKJcgUypkPkXIEAdvhXQjCjLLR8rhq/jCY1AaZjSolCXb8Jb+f9oh1oNsWcpCNe2j3X1jxQU00mpyY8EwSITMyt4LphXq2TTzIM3B+8xKFEpfcqBderv/NiVH42RuemlJk0dCG716JvBs2TS9MzuclOot+2Ne8D6coda8d8HZCO1lu42slKpEcFEzt6LwfcDNZzwOTW1o/DEhd19VuYJ9ApYxE4LBYx9sqNmCYTjUhJJICfnrnJOYQZGGe1B63Nrg==;RFPgF3WrMZbYyiEqbIsBMQ=="
 ---
 

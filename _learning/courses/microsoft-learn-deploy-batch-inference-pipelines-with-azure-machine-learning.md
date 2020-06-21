@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT44M
 ratings:
-  count: 26
-  average: 4.730769
-heat: 50
+  count: 27
+  average: 4.703704
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Deploy batch inference pipelines with Azure Machine Learning"
 
-secured: "G+l+54kSUj7rJHwaWhkbi5dycHK2oJnMGqKHo4NiFsOY1vxVOvvDmj2srHYx5GV5jBAtyrPbF8qStbcyqxi1eiklwFc/FaBnzfBqFZxvbcYKcjdG9IGuxi1TY7Id32Df8qj2TZGM/dduKy/0C+saLgUviiGnW2iuU5el2AeXqozNKuyCOX3oqPeS5B4Kb0TmXvh82exhCf91CposLhl/1g489I2Vny2+lmC/vN1o5DK5Fe/4SOZyz89FO95dJX5jXgjuj0p6F+lCe8NhzQKwtefgoeBeNbBBevc3su3HA+RIEmTh5It//y9iX6TdGywHRH9lIg0RWc0RMJjDT7uzbUfubLYPjlZFVxI2HYTI2c/qL3DCXlkqSQEy51550Q0jJRgg8PsU6WH37N4zALD6ew==;ODRSAtdzPEUV5xoQyTOoRA=="
+secured: "QJcFc+fMaiclSptjPWfRTD3CkeAL+Q3a13vf+XRvKcZEyl3u1ighPwxn7Oq61DFM5kYsi3DMQV2WVpRlO04NydzHIdStmcMpt22Godq5D/sa6FxvIazqDizm/ZTssBG0cRnoIFL97U+xqedqzubPsp2ldshH+FcGYpjiiAMdCn0UDIVfAT4usK2LeIT9z3TMid9/LbUrb4by9aOW7UdVCeTHqqr21uBGEtmGqVWLYEVLe1qvMXmRMwEejONFdYfoqs+N/B98fpgIo0yvNK0hh2QlFXqGDevmnc8Sw4tQDjkxZNTkd+iIne24YMbxDqON8DC2gh5PfS3FXaFhpOmoQnM64C+liyMW5yE4jIfkyAM3O/1JMxqXZ93ERm3Vdx2alNiDKtWxzB+5ZxiLwc4IAg==;46mh+voauAkG0GtxVRjJ0A=="
 ---
 

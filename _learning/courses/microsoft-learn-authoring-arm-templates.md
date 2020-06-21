@@ -25,6 +25,6 @@ topics:
   - Azure
   - Management Tools
 
-secured: "jvISXDlrJoOzZVg/OD/Bmz58xB+WLnWqSvT0H42navHGAJfcRnRJs3HOGDtVRisyXA0KUxkEKY0/y1lTWeRAR+9T+bmx5cLzf0Kowrrp+43lpILGWcFSXR3Dcza544dHaTzZ4Ox83ibMy/wx3BSCMMeeVmoiDhairxCQ7U6Um/2GZlUjRVZ7MXuv5b4pD7kR+tDYoZ89741WztrBDndhfuw6DBg42Vbco9/NKFF3+0+g8NXgCegk6vj5QPumBC5O1tNw+3t/DOYilRUTz7u+owA28MowjUA+/SbN9E9idHu1YbwDKD6KacLebM4HoqMR8XTlxkXG60LM7gCQ82Xi8zrc03+RM34mnQL9g6+p/zehMd62yaYfEzgfF4QQw8IEpyLsQgAerkp8/TbabTP+pg==;3ahgrPkNYE2R3pRMo/HWPA=="
+secured: "tUNIj+DcJZKACRMDa30XWbqkjsGlcg2tRiiEWYOaq1gzCA/NEyvboEdSk2nNljcV8k+EBSZns84VryL694+thdCtNvrVbqDYMsXFbu/qXC32jBIIso65EcG9TPs2laHhgDhylzoSSO4u5iLuAQoHAYjopU9aFzHmJJEpO6NPpCqk+9HIecvWXbdGzym2/OJ5ToDrKFN6YQgdMdTtFVukhKFf1iE9/GndaymCrshotx7UarimRrWiwfCUk2XqJx/N5bcCgujqje8oZEPmJU+UOPnWTD6kPTj+Jsov5Up/S+bawCIX6ID7NqAxPuyp5zr43Mee8Uhrb0wmZPonJ8JKvL4SBobujbGTpyARnuvnp5xK9ydvxvHLQCKjkwGa/9dQZs/LTqz2Hwz6RXduXrlAtQ==;psxzM85Z5bxhJlh/WCRJPQ=="
 ---
 

@@ -8,7 +8,7 @@ length: PT36M
 ratings:
   count: 25
   average: 4.44
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Introduction to MLOps for IoT Edge"
 
-secured: "eUXGfXbaKEbhqnoaK1Xnn9l9SIXMEVuDiM9lv3Ft8JZ/mH0sYBV5Ge/H5F3L/yhgO41KvqkcyAZYADji5LrzYBcxvkWsNFqjxv52PS5aZLT3P39NotasPQl5Wazg5Ffutguuy+Aom+lZnVmGAmmmYS57fBOZKEH/uEunZKtA6g/OWgDfTouDsFCnr2z/NH5t6LiofaIQwqXGwOQ4hEFqHTY/4Gpwl91NVxSfxYNSQNKYGSgm2Pyk6kw0yLjDXa/cNgWBU2rTAwmzauZ9Ckl+aYC6a6XmSI8YZnFNK8ZGOLkcEwOnXzeFgrt4k2tGOxzrPd0TILUomwcbJkDLgyqmO83BoPDRMr+mSTi+4OOIwx8ONS3joujFgoYEmpulCPlxU255i2UjBJe8NH+uGoBA2A==;iwtMZczaVmMPJdEotx5ciQ=="
+secured: "vQuMw7D+6+h7bSLd4mBIOqZr/KQDrlL8/4/s9bympHK5Ty5Ksyx4rPYqLuvfhg9uIaaxpTX6Uh0/6uNAmW/fTe+6Ocz/0KTHodEW/c0oMvgAzpOkx3zIb0lGKsFliQ0XlAU8rfHzy40oVAgsquhXFrdesUZotKYE/ubMoYdX1jQEwkwzcy/4s9+Cu5cuEmWqiNBtkdWYlNhgRrJTK/AFK/AVpe7yq4I1QWh2g8AQnWWdFfMtI/WLZqITjJQGWfQ6eWL42v7TETD9sEtxX4D6dhWsxcVEbFSxmFK5t/R+hcwM9K8iZ2Fyz8AZXm1p4wQw5Oj7J7dlN6Wokw1M9ErZ8EwdCdiMVefq682PUpm3RrxBFHzkQXvlegXT0zvCWAImhYnuyNVehjYG1BLxorBWKA==;Y+AIHfalTCdlPljYBW+0KQ=="
 ---
 

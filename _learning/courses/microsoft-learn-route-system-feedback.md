@@ -8,7 +8,7 @@ length: PT22M
 ratings:
   count: 160
   average: 4.5875
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Route system feedback to development teams"
 
-secured: "hYCnKv0HfY2uPGvD6Z1MLMY9a8OcAd4A32IJww8ZiM1XvMldMRaRwcsqO+PewVAGivebcRSbUVInTUXdjF5jQVvSP1T8GRAkMOsaq7nUEcIYXDePYWqELLX07IAXD8aEzAKR+oI3/AOvAoj6IVIMamnneV1YMuLV/R0oP5znQkkNd7y9ZnfG/e9o9Md4NSFEumh1EabPK5ogvEhlexLvuhvbyLeHaf843a+GVIiORddTk3f7Zbon1K34WsSj2kZ39BAptnm5ByW1egnesLkERagMjQ4XTP7ldvV7219Slfm3SbB2Fae+6sUtJYPqHU+Rtv522L1vmzIZBOYAnEVSTPefqofcmHVam4NeiEmS7/PdA+JZO7fWM6JGoPaG8QWH5ttG4pmumoZOAqGLVFUHRw==;3AC6ijjdhx+BGkXGRkG/3A=="
+secured: "meuJXgQp1DTejReWTwsZJ5B6mM4UYxtxEAHdQCiMhw/BezypUhQJ24Cp5+M+GSmyNsL8khaIciFwmpF945oyeZHg7m0LrhAWVs1Z+F23YIoj0hbZ3nH0VobKNG0BZ6vRNKFcNEU9/nTyBr1/IWO0ELb5rp48C6rHRYtLleunjgzZoNYAm2heYghu+QujToOuvqcSMeBP6LRWrzOKLAbW5i4Tm1iuTkBnomq4mk26DH0ZREdoUCUE4u8mKelfG67b7XegouT/T0P061WWpiPnd1rR21iEWzfSloiPWChNVZUu3dLOVV9LrRoMitieiyYfnT2lXNgdEgarzq3JsqlSRdif2+1oKkZlBdQrCSi9Q8KXlzT+5G+NR214x8fNv59EIbF9fyFrriUE6Ej0UR9jlg==;xUd4JU04bcJTwrtm65maDA=="
 ---
 

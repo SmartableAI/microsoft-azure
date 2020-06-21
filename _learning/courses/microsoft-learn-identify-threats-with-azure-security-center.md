@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Identify security threats with Azure Security Center"
 
-secured: "j9e4kABM/2T0VvmYzcqAVpCd0vRMWX1dSMnsveFY1IIgAEj2pnLfInVkJR5nGX4pcjxdSH+/clP/ZzBvzY/Qibj84X63g0Lc8ZfzxwGBHPg5/OyEtA17E+WHti2CxyNFrkhZmvTLlRW3lipoANmmu+Py1R//eek/y4fdqEG7pSHlGz8pZP/clvEBVLZyiZXHzWymcrIzJdaA7Uhtw6gmnI9ioy5fXI4ss3kF3/psumRs6FIHVwKD9JVfkS2ZecdtPIhGkcri+/nCL6ss46WWz9++DtTnVu2EGQfDpRZe7XrNFAuPcNPOnCRdb2oCoXf6brvY0B5GHQ98aoP+0M/3H75B6cAb6Qs0raD4884YVRUqUKjuTwHNiMZeyWEhelmp+/GnyF0OFUGq/WTZNFatSw==;HQFUrV5RNioOTKF7dkz9gA=="
+secured: "1qPOeIPPdBubgv4j20HtwREuvwasMGLxYJKKNUunM3ebnq7hUCXzLEoS6wcKhdwOFQZfaQDlNoKW7MQMFoNRj6PJwlQG31nODrYxNkkWH+T1DLOw7ainLfpfwFQjRS2CESEVXb8Y8Lc+cCqTqTroVmNXcedp/UhrW5zFkrFkGvzNN23j/SjvGGIGsZMySNi0EqV5CCgS1k0SZ+T0C4ejsdCdrpJn83Lb/tGpuNfXIqgPMS4QMRkl4UilcNS/ZbBXfJjF3AJT8rrPaOObeZeRIFgxRvk+fwxZY/nsaGo90cmcAOHpVn2/SOlja9Rcyvi2uZiLxuC3LMcPd74cLwTAn2K3Iy5zB5HLbWzl8rprJ3QEggX3ksA3Fzwv8nBc4sp8aLSp54wLEuDBOFzXFse/yg==;3q5jDWR9TStRdRSzgUywVA=="
 ---
 

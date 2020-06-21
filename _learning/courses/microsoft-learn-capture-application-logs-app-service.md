@@ -8,7 +8,7 @@ length: 55 mins
 ratings:
   count: 455
   average: 4.5758243
-heat: 54
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Capture Web Application Logs with App Service Diagnostics Logging"
 
-secured: "zOBbrEMjWrhbZmGwv57Yz7NSfISwxSm05Tzqw7DF/LlWuMlh5YJ/dz7Q0iltK83nfR6Ogd00Jv7EkOFVWSUt9rY37//Wp+YuBsi7dbMF4V/ovxooM1PQthwRos9FhL9nBXgDL8iHJtT9Ldt8/jKFiMa5rNmyHKTAwl1+oqIMs6XKBktVbTkjpgyCvYp27okTBsD+pDNn07yVpz1IT+4tausppwTL2mpUl960qWZuVjyompVz3WXSiXST2aQ9mnGNgg4cxp5Sia98cJ8Sye2fhwb6a26VgOZ1CbZfyuJvDbYP3oDfPZrlxSEq5o3QSbff9tD9/R+vEYhAgnKi8e/068bKiveKLK2oxrbt40AeOxMxVPBz2AYF+m7euCGiqnEqg6e9AnXPBVJ/qOsiLXzwRA==;u8JN2f39s5j6X2Y883YaiA=="
+secured: "QA4zm2n4rW8C4drrWu0mbSV1ApGUrEe/y+NJr5st2H0WL4BwzcrIAq0SlazY+LhZstzFtboPy9cRPR7IHw3/DB4FcTEFd6ciueB4SSntxd6ZKvau6nqFFIX7H2GC14YMvaRotC7lWc2k3Q/YtVKOxDDIHYcZ4/ktIpkMvqHx/ZC+lab+x2fLGZd763znOxBCI5FYNKwm8XqHUFWFoMyRM4Xg+ely3wWKh+yUx7ebDoabZVYImfdSwMHRbWjCWf/DyOXrFLXu8hE8LQx3L9Ij8hoOo+SgS43cDCEUAIeKtJEcjAlMHH7+Jz7pPC++zNvFUd1iYN9WX56847wu/r1poBm90CBJMDBOZ5b5hs7WSpIbCqHjz8vZ4Og4NoKtaUZueLJfry2DLhormgFQxwVo8A==;gPvgxP92jM26fUZqYRBG9Q=="
 ---
 

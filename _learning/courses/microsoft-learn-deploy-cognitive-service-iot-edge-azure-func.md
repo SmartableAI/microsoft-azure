@@ -8,7 +8,7 @@ length: PT1H16M
 ratings:
   count: 19
   average: 4.5263157
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Connecting IoT devices to Cognitive Services using Azure Functions"
 
-secured: "jmAfDQ6vIu/FQAVllMvqTG3mYtQSDT0qQsdSgE3XnzqAdw2rsL2Ewc3Yyym5uoJFLFGWHClgzWU49lZiv0ldlxMdIwrqY1+z399YXbr3B1dbM0grdf1ZspP9jvurrKp8YchMfXu6enSiUjt2nbyaI1101j0HwX8L4ec6pICm2jbRozW3JbopkXyUXV9dDggyF0u78uUFzDdl4pm4nhQVuwX8H9AmfitoRI83srclLMyFE2/KoKYeN1+eaIPHfNt44ubllwrVfsu4z155vPAnInIbjlHU6yOlw/K6Fmi20DiftmxdGkL4svSaVTM4Fw0fsFLe1F/+zFrS9IQBhz7UFsmdiU58zFvTOYCfLLoQPf6IHmr/ji9OWPAWkZD8OJ0Tdg40Vpw0G/DgeUoRIlqLOw==;9deUHe/kU2VSJPw7CHYi2g=="
+secured: "2dG+YQ+2s+FYNuqdpsnXfhA07MTaEAsNetNCshUaAQNeN1mHpocc1E3KuTOWfiBw+6AUtAOqjEBlpfaHvj/Im/0VzwLpwNPYpId+oFGmPuoYerMn4BkNL9nuCXexX6GEXb/EwJWrTzAwcIerRxek8NGwJFRn9xMAmNTIMTfypLGwGyQwFe2kLQJR40Z5oRQwr18QQXZYJ+n8IULG9VZI4yfNhA+2LOQKeco9oCeBDuhdF5B0ZPUIxIHSeXg/Twhv7XLLFoidrzLnjr9UCIP66sVl0k58hXCP8chOhWBYs4ReFDpuJchpMESxAJiE4+US+8+Q/ZGuZMxNd0SXX6OAhhtmCkTW387b3XCivTbln0Dx6DKEDSh3vwWlrRNW5p+PiRkHcGIzm/AnV8rjM/tsjw==;GVj3/zvk/zhvw2P02n+ZpA=="
 ---
 

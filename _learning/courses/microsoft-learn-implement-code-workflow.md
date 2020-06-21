@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT1H27M
 ratings:
-  count: 3102
-  average: 4.7685366
-heat: 59
+  count: 3104
+  average: 4.7686853
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Implement a code workflow in your build pipeline by using Git and GitHub"
 
-secured: "BpG+NtrWmxFabf4mGfcRZunHF2f7HdOWy8QZHP8H2XQayrKk1uc/mQNjeEa9FF3D2fWSeH7E7Dfz3fHwNDGnvQ7elBLSyTD6tUYBVI+Tr1mCDrlj7n/6t33C/+VrrCrSCCYEAI+4CuUurVYoDp1839+QEVpHTPR3h0ho5/vK+lUnHCgAu1u1lUViP+LeXXtBV6+lOHTu1yLK2EyKVvMihbXL0eK10byWlnKLXMwPtCyTJ8/wLmjIomDfRbZp+cn743WV2R1laAKBMK6r9ENmW33NJFC+Y3YKZhej7+R8K3+3YtyXbGgoT+fMxaqCMmwCLds3pWPuRLNNtiL18AzK0qv7ljAwBP5MwoGn+nPqaaauhjpFEUzgf0+zgXuUTCNBOIiMf0cvyjlW6yeCmPo9NQ==;6y6Uhb4hitFbogcooP5V8g=="
+secured: "zc/L0xk+ZJ5w83CPzHlh/KDsx/mA6rS5s3tGQO6fvA9oOcIagzC+jfZiqjAHqEiZ6tq/l6Z5Yj28s+NMrfmr2eY3JZbxwJybsx9LQsoyBES9+YZax9+vVoZ+09Wo0HkFxtcNRFRQK96y+YVQc/C52X+ef9ia3cO5VrIOaOLCiv9iMuRnjkqkiRicBC83OholZspOA2vP/PVu1sxcPiz1byQU9QsBZKGXKb3bIOdOAdO2qwLOFCGIGuu+1yQ+CS9TqjPL2ZlvsV2/rtzEjefiYMWkvrcOOGwzNxEE0J4v19nIZK6KFHOJkP4KDtAuvGFg3g/FnqJzUUwpK/GyXa9ezze/MZiaalmF/GkU+JlpifovCq04k5t1Ky66d2hQHEIdjjk0YP2k9KqaipMzQfy6Uw==;PBBJNhSRcxud8h2ONH25Dg=="
 ---
 

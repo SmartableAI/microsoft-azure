@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT43M
 ratings:
-  count: 31
-  average: 4.7419353
-heat: 50
+  count: 32
+  average: 4.75
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Build and query a Delta Lake"
 
-secured: "VN3hn5d5bmagSsXOcYEUB2Qdlc4b9+I/+sgq9uL7suO4Ksj1e5Rxed6G7U7E9pXFdUyJvvIei3TAfnseSoYMAewrQyBk1tlz+OWMjOPhKQkUdqmdSlds7zJZ0jCjwPfl/2atKO8glhhyh6HYFjqfZ56pESxVixlsloi5YAPArC882+r4De18Y9dBoX2hT8keKwLiwE6cds4sAlJrxY5q/kfvSEkCTdP4lF1af6+PkE8OuELxaQB30ZvXwyqgb4UiFhqQNFTEriVQxR7/m2EPh1l2aCjNTzY5eJgQO4rbJ3UBRoOolNhoC+NcIZo2aQZ4Fo2DNlSiNdXqITVjee46I7X8YKtlXaywhcPRcsAFEJeSY2brtlWFQ41wrD+LtcwpYqMxGbB6B7TyUHaiwf8PMg==;GI2NnhRsa3+7ffF6dBBZrA=="
+secured: "ZFBNSQ2xouyi27hLwZ8kK2QOeXfbXjKVT3Kr1VdHXieVzFS7ewB6pzAeRFYf4VDAYkYzB45snDPlTPRC/k1mm+53OLe61ogdcwj6O/1CGupCiWypZb+MkaKF2lKkz51pElcRUDBL8TvARyP0uJBjXr+klFttyGFdwcPJVntFvkx42eiUMtUK3ZFRCRe8p3bI8TAw5y8bdLdkoWfq6nzu/0utMR+BQ9dAGj2eHmYLjJufz0TVLoaT+1q6s/DAkF4Ca5Y+KwuGTHDyabm1ZYg1tbpXPC/1nZZ4IF0FJ0yZKA8dCsssM6O5k2Rwkkd2X6st9e4o39W2TUmpSCCoHVpeAn4woFAiUJONJeBqEpfE+YnnKrScdbMqvT+vjI+ww3Ksq+1xAGy+kcOT36S7pAbEHQ==;WtbEji6osgQ7ETZ+qL7ubg=="
 ---
 

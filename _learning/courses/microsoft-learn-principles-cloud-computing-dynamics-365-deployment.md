@@ -8,7 +8,7 @@ length: 43 mins
 ratings:
   count: 1283
   average: 4.6804366
-heat: 59
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Principles of cloud computing and deployment"
 
-secured: "n3wCNdV7+2VvaRSK+0j4X1dSvVlQUz2PoRUKtmVJdwCjgN1of1ToFCsyJR1mUhS/mR/wmHRnA1ro/1H5BH8JSo5HfLtXNSYXjPWEyvE1c1wmJ++azA3ddTlvVf+eNej+Xpk4pZURzw2lOQn98PeC4mg9f445eHC9KNeyFnbzeFWOKtdlSzVOb9JMvjz1Sr2CSH3qv3vJL8Co8JJ/XSMa+7XtXFKbmKYmfixxFFHzENYDtCgTc300nU1pPVm4EhJoG0bou950TsnJij6UceJZ3wJgZsYGX8Ogf07ulwO1/FyfTOsjVJ/Wmn8rFJP1oUUmwXXY5LqmpvntcdNeGbSIDqQ5LL8c6Iqh+J10nCTSFMIaVIGfvUvjEeTe+RHvO6cZMakwfYqr5sFjfIahApniqQ==;bpe64zISxPDcOz6PDfRkyg=="
+secured: "ERbr7Rnp0z15IRlm8DNQU47ilFREv4ul57kxOzBUEK+xroP9FHsFgGwzcjH4Dz4zVDZqqATAVx0rPDn/oMBUo2MfMY9tsTrhoH4MaPg5SKEr7v+PJYKjKD+Wj8kwmTcvYtVD98WF1gJkschTxKi9R1PeLwuh0Xkn8dgL/6lqxF5/y2fGVNGCRD7esZfAjhs/Xg86QrirKuKzYL3BqSiP4ia5ZkXBr8LsMjCIczCEfEIW1cSqNVKK2AAlTgUYzwbgw1vHEQXPYdHML54WR1p4GBmim2SEfF7QAB2Ccoj4IouF1n+8DUhxyKsfHq+D9m/DqJRtVKGfceaA/WCeLdOi4RqwiWEeguKUA2I7efY2ys4gYxKZJFK4nF9Wc7kRu7ZfApMqRaShhp1nH9hr1NL1bQ==;Q0odx2+jM15pcRFH6AjoDw=="
 ---
 

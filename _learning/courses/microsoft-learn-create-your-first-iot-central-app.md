@@ -8,7 +8,7 @@ length: 87 mins
 ratings:
   count: 335
   average: 4.58806
-heat: 55
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Create your first Azure IoT Central app"
 
-secured: "Go1WhVSHiTMlP1nhFA8OtsMpGF3YtTsenkFWXkd+rgkoMP63BkpN+x5FJryzFMXw+8LSQc+OTMODFRGt2wHcRaUp8jS6712EfCVUiRaMDS3q0Bj2G+DyutBkI1aYxZsdhNoBbv6NMF0jVFwg08PVIMDkKoZKL2FcWecJufVq/rSiPIEPqbL0GoHS0ClT5mtBgFwot4N9XB14LzVE2Kc8vk/UbezgFKbFBzy5MLjgTMnmclDwQ2H84flpYFU0WBWrNQBw6VZZZwNeQJ+ZRmNsx1jtMAhfKX8NSQgSzKGsJyc5aw8xGZ8Jc4yHU9fVWZ/kiWT/7EOBRO1+L8BSJUSKCglYKsdXhg184y4xJO5U+GqO/K/m7ateCRQIu9CJBFwMF8PQ/wsoejek0eqyzZ8igA==;wa3VkG1UkR+QQo9wS8lh8g=="
+secured: "byFWC+mYz0WZTZmcVUvXuF+HFrfIYqWEYYKfGi22juTnfxvZ/AbCuubThAMhJyZeHuoJnbNh0u3zH0Se7pcGYjJXMYkinJ+MYzNxB23D8W/uzJJyIrDCh5Fj3SwnM8lzz/4Iw0OW5WIDuY3/N9CnjSzQu2V+tzN8I7M8Zrne6CQhDM26b4EE+DBrSNndIZ7BqwbCRzHEyxaKp/gaWB7GQvGNjfp8sFb1MeyhrzWb1Jm9hbONSA8W0KRzcXCSrTxzRzm7mkS2iGddHmvyW/PZaE66jHvhV7LS/a95vCtMlTAjpY8WTz1U675BoMm41yvH2Y00pD2bBkg+aVHIDHLapON9zqPARkutVJwwbpgMOREAl2z2Ypsx+ji7Ej3yfrbn2/26tccVeSutx/AAScNxAA==;/8k67EHOodu598xh8C5i9A=="
 ---
 

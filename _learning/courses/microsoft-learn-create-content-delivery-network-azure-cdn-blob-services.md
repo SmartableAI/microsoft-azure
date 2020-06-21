@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 63 mins
 ratings:
-  count: 387
-  average: 4.741602
-heat: 52
+  count: 389
+  average: 4.7429304
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Create a Content Delivery Network for your Website with Azure CDN and Blob Services"
 
-secured: "+g9J1AqJAWEe46CRF17rU8NR5RfP+8vriNuWBQYkOEmbtgl9KwU8QXyYgEgCbsFlen5zVrKOSTwME4O40Gu/D//NpcpqMMTv8XJJsWxt9RQbFIC1QDMrEp13Eks/uLovxm3DJsC8zp9V/6SXKHuQRpmsnet3F1881vDj1+z6R1XES9ormubW/AHQPg7Xv9wBKaFCSM3aa5UN0vZWqG8Iu20AaXJgkxVKoPQIOsysc0nihdFwKQHWQjsxNqoxKpZXrsyRxSiWuSQsN7sTCxrAMFfMFLU43IUVgH7xvao1AMzI2ZiVplNUmqdxDfUEGL9bdDHX20WzS8Fk1ka+jgRsyTHPTZIMuzvCpE0HPNTmoUgd6kAwzHNjd1QT2ZN1R8o4+mu3EXn448/XSzHTMYxyMA==;5WRoqrtyF+Wlgag42HGM+A=="
+secured: "hvqT3LlZ1eYpvVWMPKlIH88g8qDsa/WSNlYjJz3D8ybC3maNW1UplBwqKnk/Z13Dp+NMkUWkAqO4Hwq0fp5rXXFY2PLjL6AQtucEQoMkF7hkWXVZodmydDoOn12KnJxfxAVzN73IkAYO03w8xeonVyLH0zvFWLOr3wE+FKV/YjwO1P63FDIPALLh24qXbX5pPd8AJbzFb+imKOwgwLWGBgOFIbNhAZsWM6Jnzvhcc8HR0Ru3XNc794O67vHue6+EZg7Yi6Kh5VngvohejVG1hyoTLxnj60jEiKAkrTvPmAoN+ImB/5EtG9OHOmBrmEStlRUCIiMZIclUO4S/pN06q0wx6EOSfRMfRpGHZWof+lBDKilGx38eeIvG1J/nCcKzESJX/JbiQ/M2LM2KgQPyng==;J8bslbe8y+kqCrLD5HJY+A=="
 ---
 

@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 30 mins
 ratings:
-  count: 1998
-  average: 4.7002
-heat: 52
+  count: 1999
+  average: 4.7003503
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "See Azure in action"
 
-secured: "SmR4aIJHjPpP3bYjz9CiDH14Uaz/6elIz0F6ydX9605fjzJx87EQRqC+CJXIHSfawxsmBPoNOKqkt535Na0y0YJNPYWuhumcYhUtoMWyksJqbWNo3g3IuwyRpjdHQbLDQn2tQ+OjhL3rnwIYJNI8vqhwBG4HONFIVn6h4vSlCA5iq2tDHpUW5uxHO6vo6k0h9bl1DwA4SsvXSM8WoeSoCFIfP+xRqxqiYTplQiPjHiX4HmlvhH9Uy8KsLkqpcM+D9hKIZZY67bmriOK4P9AHWYDD0GCJLF67Jm2hw2um2RrOSnLlXDH2uJgsZUYSHKMQT9XJAaeY+Cntx2546NoFO/gWpYQKeRiqStD4jeDAF1kcJ5+PWb+2iUBDrin2q9dOePyZiNSTxeRjKIKn8xW4CA==;rS5MGmmUhlqoi4u1ulKENg=="
+secured: "mcz2rdZxXQz/xktwFoeX9CNz3Umie9exPBz09LHmdvrvkbzRM8GbusILyfjs7xM9fO73oIWUbR0mOoXl1ypXnb4FEwrZQFdT3SPEtVAhb0plKWiPj+ROM0ASvFgxaDPdEhrI0YtsZIesQItPO78qsAF27y8xVMl5rsYNm+NmU34zs7oXZ4VA1+Nu4BVdZ0K1UGjGw68FQ/7uEmcD97ykEMtHbhuoFzihuHUHCNhyWEHhpYxPfw2wbPVuhnVxsuZSdf+tUB0zDSjsSTbDKUegs9ftUqetIFGBFF0CTKL0smw91HS7Mm2IzY32q8Rl2tY92zWw2+MmrHr2vBiPH0w/ZT8S9HJxlYS2ZaGbKnxWvHSPkkq2zb5V4r+TL9Tz/kth2l5odwqa81J6FOK2a+0VZQ==;eswOwqPDybE/8rmEWbBtMQ=="
 ---
 

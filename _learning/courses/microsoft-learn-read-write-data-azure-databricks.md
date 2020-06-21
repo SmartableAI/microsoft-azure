@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Read and write data in Azure Databricks"
 
-secured: "lhfByzN4+HMh75IBQdB8SKviDoR0LMAKxr/qc9l+rt/GJnR9eYsnGkBKx3GHpe4/liWDzxEd/FXaPeh3u1QTmYqjz5aOr4gzdPTqFU2GtjyvKx28rtgKN8Zxw5tLSFKnYZIPzo531QolegMeuYbA112hIzmA9mt4XP8Xg5CrKn2yVwNCgjVxM6+FbeNk7EaC4gBH+9WaaKJNvlRi2k4Gasi0NRZM++tnEJcbqVqHilYYkWBnAq/+VVhck0l2O+7du1L/9uAuWZdwWV+f58ninO+evo6xXwqruz315SqdzEtjAEwxFK/idPITMVJg9mRCenun++8woENq8D5gFsoCaXgTQ2ceQ/bFR8QS7qBnz8Z+PdH8cfWsgaPa6haE+/wU3bMX0yEzyOve0/30zEmzGA==;4JCngXeB2igFZkAV1Fleng=="
+secured: "2ELq0dazlqWRiprjsZ34t9EobJ/djtBVt3epM2f9Bhfy6Rz2gBZUIiBR6rcg51qKRZXxFTODwfpECouY/ez+AogqNFEZw4QOKL92W9iNtsRPuWeenmWrtROOzHMbhG/wHkAqvuWjgg6bDnk3qj9Ewe+DZTMjcHlwXx5JbiZUzlmZRBsnME61eC4FD8tCXsspwXP2R++QGbaheyVTRoCURvwR+X32GuxHruwrc6VOjG3v4gleQ8iO91QKr0yMiivLwu/2JDjcMNjpnf7LD5Kr/LRxeb5ZlO3Qp/hFJ2cRPV+TbUHcm3/BQMJKf1lN4HmgY7oKFQxFU0+NohNJCMrd1341QeW6mxmCNcWOzSoo/+1ZWPbZ/UIsln8fC7pF2VGQQ/PVVMvTw5MXx+DFzTk6+Q==;5BdOrNJS9RBvmhraZWmNLA=="
 ---
 

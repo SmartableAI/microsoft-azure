@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 42 mins
 ratings:
-  count: 1072
-  average: 4.698694
-heat: 58
+  count: 1073
+  average: 4.6989746
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Deploy Azure virtual machines from VHD templates"
 
-secured: "DoHDmgBP+xzglTB1XlA5xsVwgZQmE1B2STq0AytGbBWaFJzSNjFDU3qIlWt/m25qbuC1NQdnBA2MroAh3aff9f5jYI9FH3uKv8n/GZPLkZ0r7f2S8/gJouNpbtP5EP4P5us2B54D3ExR2I6SAKC3PfhIczKwTLkQMN/qyvm9n/J1TvH1n6ZCl6C01I12/13oU4Rk5AcVTjTTpk7fV/mkqk+bfQKrwbw5/yuHt6P3YS1D/KIv63JpdnFrSBz70G97HifxGCZdf4soDKIV+B2YUgA5jk15HNNgqTyIk07gwRnL8iNp0G1oYil4o/1rGzfbtKtnt0fKVXMqLRzgod/i7jXwUm7r5JtZlAzkLODuWfH9IqjDAJgZZNcrG3Xnl8N/NLijBPXpWquVBcQzK5UGsw==;5CBvxNzqOHN1JB4mONF46Q=="
+secured: "neXWx/wLXSK5irs+GM0aqdekslUnJSST9lSqmL3iaFsbJhIFKmpnfGqzGNhxyVos4F06Skuo4nxRA75cxWyK3/eGilshQngFrF3pVNJ+wXtH/Lc2cX1Ab53Viqm1LtiMh7lGvZI8ZOEQHaRbj+NQECjTWiisIcnTJzPNKPf2Mpi0kqIk6kBDixc47G/jDjsZEzJ/7sRWxJLhBpOqLtGstTLFz4XgdwIP3sz0JHcEP93ozYV+hHe7v6C8OXInZj4/ARIaLM38Q2tCWu3ukyNG8sbgK7b0BvS8fHh25LmgQPjkdxADtTJmdJnaqdN9+Zmj2iUQW0J7/h03JjhIuxysEwo1W/siIrtVO4lbNHM4QfdnweC+5LaU/uBD+7Bg+yOYlf/i+HOTvklzjNYy2I9ULA==;yFfHmaHTdDqSsmxC8twITA=="
 ---
 

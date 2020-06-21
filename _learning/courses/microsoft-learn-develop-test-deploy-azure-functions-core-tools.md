@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Develop, test, and publish Azure Functions by using Azure Functions Core Tools"
 
-secured: "vgUSp+JWNUwKeIS6CZ5aRgfaTXCVZ7ybGs4nyoqmku37jd93YaC2WrmHZ/J/IZDYrkQo5mBqRGlnanReXG52s2ArnmJRshgy+q8A7ONzppvrWhCIEDsIxdo1PsOA4sVCAWAcqzlHVLfX0DMavtrY5zNdpTCNtcufUSQQI13X26JvmknhP9th0KvrEV4eLiOTBZYZ3sMLGRR6ufXyNCgBAHqBO0A+kVzFR7ZPE592Jxu/a7VOCaaXy8QzFal50Gkg+DjLaPkNd51ktB9zR82J7hLNu9n3/1Yl2jKBbV90kfV70Qp6GfyoXcvq6mr1Q+JbRA4D52UmABNHIrpCpYVGYugCJq/+Zxmnr80L6fO5MJXPw9dWl6ED7jhjIpgVwPN9RuCr5O+IW+PWsI3bbe9PFw==;4qeR/srxEvzxp7wj6cRGOg=="
+secured: "3eVZYqLhKbrjrSvRgFK8oS79EsfcFgNEnes/Pu/FX6QiC9lQ7g2sUjNhV8YArnWeBfhrizMcvJbdKeqn1PmSICp1/3/znR1Ks1wX776pJXTW8znYe2JKdTsVf06EGxronIKUTyMUGeg4JXk9pdA3nrpn0Qbf+Zt4jy2glLTgiU/FHyGMxExUnfq3ucaAr6nywJnk/wunJhxPGrljVk1r7lN9xizGskvsbeOdcAps+jpSxluv8bu2o/v/yefPgspCtdN3iNG8k55s8uZHubs6ClJS2XYeSW/aiLYx8kusQid3Jox0uaDFTPWRCzh+Ds53H4cTgsWWxSPZeU6xANttEKagkayGD2QxoRpDBVFwEc/y7+6iBRQjolAmt5dD1TLE6emTmnIq6GZD3D+ormlKpQ==;oPq3Yya2yHvhoDGNEOhZhA=="
 ---
 

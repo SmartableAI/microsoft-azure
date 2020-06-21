@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 59 mins
 ratings:
-  count: 4211
-  average: 4.7463784
+  count: 4212
+  average: 4.746439
 heat: 52
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Microsoft Azure Artificial Intelligence (AI) strategy and solutions"
 
-secured: "9WwP+9Hp5QPXGREio1NBTxuopsrkHx1dcwY5kAjeCpxC1t585konoQbtwXYYmNa1FffwYf5pPwYzUnnTkB+fgZ/VUfLWDAY0TL5aZUdHQnuaI1SeoNx0HzcB4lXo1jaai11nHeazntQ4gWz93WvCW5XXLFit74hOfT9dlK7+7eEcltW/r77hY3n8/V/dYxFvcZZwS7SfHCMRLrzvPn6wHgpq/jBJtwWvq51KxpL6IK8F5bpAr2lAD0jxIe0hJfhSdPN3faJaRL3AsLkQqj7l8+sJe59XaSAz1/M35fiuUNjami7STiyf9RGFAH/n8TMMxEpJmjvBwwuRClfoEqczVZ4dwD9TiBQSTlNJWFm/xN7A5Bk3F9g9SDU7wdPGvmHVCcTrM8d8m5Fyvv5KGQZ47w==;NkgVYJLkgw1HfLEyUwnf8Q=="
+secured: "LeRSISF0yVpUF/BjZoI0viblNQlo1WlL9Q4LC4VSIHpwvIXSfOH8c6cZx9ULYl+iKQaS2n1ZjVMUuLGJnexeRGC4W465J6aBZr5ws8FV6rs1MSHQNvrzy7aSTGmvbJNYoJGcu1fdaXucRDDYJMFlYRpl4oHG5nYNDNmhKEmxSpTaCFqcXwehFoVbADUDCMbRFgK+cGKn1RsmFr+N1gBgFjV5HGY8CJfxKYt0x6R96XIwNm7Sj7GdCEdIomArdGetAx8Nmr9NFaV6iH4G6s9nUGr8lvx6lAHeABf2MoGBVqYVH6Q+AQI93J8i65GfSNBPmRjDs4yN6UEzOA6hK6v6A9Agme8fRp+Z6FlTZ4J2PYUeX9HGxDrVlENqBIfgzt8bv9fQsH4YLGIRikR0pK24tA==;NK59uGz4abwNTxB4Ec459A=="
 ---
 

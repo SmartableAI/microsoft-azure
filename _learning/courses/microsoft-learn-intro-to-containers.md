@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 57 mins
 ratings:
-  count: 2341
-  average: 4.607433
-heat: 58
+  count: 2342
+  average: 4.6076
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Build a containerized web application with Docker"
 
-secured: "B83laA301M7mF6LPOED43aB+wJg/mYatroHo7UW/rv0kKGOELh54h03BCwjNw3z4yhoQftyAIwSMOOSxePhPQBwOhLwDTBwdDLuMDgGlEsqkKnbpNWZyErX4iv+wLHjdmPY068NTRO6qurWvujdB+7FDGqP+RIEMt4//K4fZaNPCW3rflJOxEEc9paHy/m92d3xaDE/1DKYbe0wXEndt5vv4NoaiWJlUbhZtjWYdWDR6Jwh7JgEC57C7luTnRs+W1SDkfcRh7cExBqB0TkKnsdplstdYs0FgpgHrnuyZGnu6ifLJufaf6dK+R78WTfbvlT2frg7jKXKxHd5vCDmRv5NpXJHQT2imAOT4oJJu54aDKfN/7ZCpX9IUnU+uCsc9TSorRiXeEnAmCqZxarK1Fw==;RIb2MEee0Ouer4SqQUqq/A=="
+secured: "XqL9k4JxzkmEpb5ppQQD2NTDsQNdM4XGA8Ks/t0BNEF3ryy3nqqgWq5ucY5mSHGhmdxwmOPNEi4gRybVS8xD1RW3AKwT2DbvVoNakOdXpszTfDrj63V7S8ttak46ayYFdfGfnIfQz/Lm7NFLEcDOhpF5/6ibKdg4vNSLhS1tTtC+1Z2+22EJiKnOBbS/KGFHQYoD8ukEo/VuPqUqhWfB6fIK/Fc8Ge6acAsxCFC/IK51UOMth8pHLw4Av9Vq76Jwrp2qnCYijAl/KIm8uj1nzPJtbuCZJ/XIRfjlIxP6xV9kC0Fhp5hEagMAiZ6UJKRnorCbTy3WSc5YpgZw74invZcJksn7ZgPDoVoCtaKfqqXbuuZ3KOZdCwYZm/L7oSo4cIRJRIez5WQ2tswBKU7Nkg==;yjJd2fRCjctDVKKnxxm9Tw=="
 ---
 

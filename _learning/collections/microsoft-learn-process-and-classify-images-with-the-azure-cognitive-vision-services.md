@@ -4,7 +4,7 @@ excerpt: "Microsoft Cognitive Services offers pre-built functionality to enable 
 type: collection
 price: Free
 length: PT2H42M
-heat: 55
+heat: 54
 
 provider:
   name: Microsoft Learn
