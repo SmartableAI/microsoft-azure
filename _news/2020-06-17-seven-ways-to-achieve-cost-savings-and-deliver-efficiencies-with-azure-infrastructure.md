@@ -35,6 +35,15 @@ related:
         width: 624
         height: 480
         isCached: true
+  - title: "Announcing extended term reservation for the Azure HBv2 Virtual Machine"
+    excerpt: "High-performance computing (HPC) organizations typically calculate cost projections five-to-six years for the typical lifespan of an on-premises HPC cluster. "
+    publishedDateTime: 2020-06-22T16:00:22Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-extended-term-reservation-for-the-azure-hbv2-virtual-machine/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
 
 secured: "C3nVgUwF2A7amIrZKedGd6FheIqpDv1I/M1AooWN51BKo5k7+2S/LUR4POMItlqR2VmCFW8KFMdI5tBZcgDMz37v+ZoiH0CkgCW8YlHyDcF5fl8Ao3pMuwe6amVl8FeIZBF5RiUr3GFN4+zPbA+kykBOMLrPrv/Q+56XIKdwqIByyLHyyNnNa3lhvB8I7yQbVH57f6DJ0FXigRQt6QpjvepqfbfaZBwPPDe0jKKgwgy4X6nDEjToleGkwcdkEeVWiqyNeWScjN8uSmaVF0sZWLQ9Bh8o3xK8zBf40hsQFSu/BD/apeBgRBRy83s13htmMOSDoyhTeboYIi7DHgDlSQ==;q1sq2RLrF9Pegyx/+lBLdQ=="
 ---
