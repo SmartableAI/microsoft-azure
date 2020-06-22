@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Microsoft Enhancing Azure Data Lake Capabilities with ADRM Acquisition"
-excerpt: "The terms of the deal weren't described in the announcement, but the entire ADRM team is joining the Microsoft Azure global engineering team, according to a Thursday announcement by Kevin ..."
-publishedDateTime: 2020-06-18T19:19:00Z
-webUrl: "https://redmondmag.com/articles/2020/06/18/microsoft-adrm-acquisition.aspx"
+title: "Microsoft confirms acquisition of CyberX to boost security in its Azure IoT business"
+excerpt: "Another big acquisition out of Israel this week points to how bigger tech companies are using the economic slowdown to focus on their longer-term strategies and shore up assets to support that. Today Microsoft announced that it would be acquiring CyberX,"
+publishedDateTime: 2020-06-22T14:21:00Z
+webUrl: "https://techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/"
+ampWebUrl: "https://techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/amp/"
 type: article
-quality: 37
+quality: 90
 heat: -1
 published: false
 
 provider:
-  name: Redmond Magazine
-  domain: redmondmag.com
+  name: TechCrunch
+  domain: techcrunch.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techcrunch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/0513red_RedView.jpg"
-    width: 647
-    height: 450
+  - url: "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1175327728.jpg?w=1024"
+    width: 1024
+    height: 683
     isCached: true
-    title: "Microsoft Enhancing Azure Data Lake Capabilities with ADRM Acquisition"
+    title: "Microsoft confirms acquisition of CyberX to boost security in its Azure IoT business"
 
 related:
   - title: "Microsoft acquires ADRM Software to beef up Azure with industry data models"
@@ -39,22 +45,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 573
-        isCached: true
-  - title: "Microsoft confirms acquisition of CyberX to boost security in its Azure IoT business"
-    excerpt: "Another big acquisition out of Israel this week points to how bigger tech companies are using the economic slowdown to focus on their longer-term strategies and shore up assets to support that. Today Microsoft announced that it would be acquiring CyberX,"
-    publishedDateTime: 2020-06-22T14:21:00Z
-    webUrl: "https://techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/"
-    ampWebUrl: "https://techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 90
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1175327728.jpg?w=1024"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Microsoft and SAS partner to bring more AI solutions to Azure customers"
     excerpt: "To that end the partnership will make it easier for Azure customer to run SAS-based workloads in the cloud, with it said to also hold value as far as digital transformation goes. “Through this partnership, Microsoft and SAS will help our customers ..."
@@ -100,7 +90,21 @@ related:
         width: 609
         height: 456
         isCached: true
+  - title: "Microsoft Enhancing Azure Data Lake Capabilities with ADRM Acquisition"
+    excerpt: "The terms of the deal weren't described in the announcement, but the entire ADRM team is joining the Microsoft Azure global engineering team, according to a Thursday announcement by Kevin ..."
+    publishedDateTime: 2020-06-18T19:19:00Z
+    webUrl: "https://redmondmag.com/articles/2020/06/18/microsoft-adrm-acquisition.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 37
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/0513red_RedView.jpg"
+        width: 647
+        height: 450
+        isCached: true
 
-secured: "nOPtHxaEwSRiV7PBb6wjiOaMGfwLA4ooWjL6gtS/lQKzW9jADztdCH3wJyOamtaC+qM7kqp8cnJSTswteCkHt8fVx3UMShI1TG9ecc28A77Q4rLS1PbXvtkaCzINOOVMnv+fRObMbx1FA51WOurInQYmvGzOyBbBlneS/fSmua2I7jEkRUESE+VfVBqh1TfEDMkQGMKfTFLMBh6MNBn89ThLbQmmdS6Mdzkka8gOdShGRT/Wr/5xQVuW7yDnjLc22HGMDKZBRyZ7hQNRx37CbX/LZJOOub2jBPocFcOpKr7ZIliHBECJyxh0z9WVNR2v3at5RZQo47wb4ltbtdcAg8q4lsJp94C5pt4BMf5Qxi50GKbmuZfOZQjA7GJTXa/0ZQfIgGLpLY1v/sZudytbDtaI3b4CPyn/RKcimAoPwNbnUBCEds6jRuG+gCPDCoR2i4BCGgJaMIIHiWUS7t6ShlrgWrp+MCH6yk1lOFVQTp0OVZJ1eHJZBq3rN8nNkLty2dkfuJ5ieIM+VEQ0Jc1qDw==;lAPhvHnxqG3cpSY4P3nxPQ=="
+secured: "OIVH59xuPcF3DkLHsiSK1syZ8i7oM1Yc45GRnQjV0mmjmeRuOvU1uKiMus9pj2Nnyk5vKDpurJXG4w0sktqRHYrpKDQuIfFJzh9iKjejS29czgQtbet8tON819aNUkRx54mI30/4jDjH3FrAvKQxFPs7LtExctmh0NvDKJdsZRvWPI8ljsz/xW2xijOWdZdB2v77Twf/18od2pb5ppoyYOANr3E6CWvq4G/fkwX/8buGmnLT3qJ/kF36jU1KNtO2NivjYuoked72UgDvPH/4QF1Cgr8qrvaerTljMMP+MGgyYMbOthtsEtDmn0/xBl8rYbP8TAG7psop1EK/pK+oow==;mc+ouTk9LUZkiKuo+AtyXg=="
 ---
 
