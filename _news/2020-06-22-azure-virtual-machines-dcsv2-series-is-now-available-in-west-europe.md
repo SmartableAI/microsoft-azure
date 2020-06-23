@@ -6,8 +6,8 @@ publishedDateTime: 2020-06-22T16:00:41Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-confidential-computing-available-in-west-europe/"
 type: article
 quality: 77
-heat: -1
-published: false
+heat: 137
+published: true
 
 provider:
   name: Microsoft
@@ -21,24 +21,24 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Automation is now available in the USGov Arizona region"
-    excerpt: "Azure Automation is now available in the USGov Arizona region."
-    publishedDateTime: 2020-06-22T16:00:33Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-generally-available-in-usgov-arizona-region/"
+  - title: "New general purpose and memory-optimized Azure Virtual Machines with Intel now available"
+    excerpt: "Today we're announcing the availability of new general purpose and memory-optimized Azure Virtual Machines based on the 2nd generation Intel Xeon Platinum 8272CL (Cascade Lake). This custom processor runs at a base speed of 2.5GHz and can achieve all-core turbo frequency of 3.4GHz. It features Intel®"
+    publishedDateTime: 2020-06-15T09:00:47Z
+    webUrl: "https://azure.microsoft.com/blog/new-general-purpose-and-memoryoptimized-azure-virtual-machines-with-intel-now-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
-  - title: "Azure Automation updated DNS records"
-    excerpt: "To support new features in Azure Automation, like Azure Private Links, the automation URLs have been updated. Instead of region-specific URLs, there are now account-specific URLs. "
-    publishedDateTime: 2020-06-23T00:00:37Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-updateddns-records/"
+    quality: 68
+  - title: "New Azure Virtual Machines for general purpose and memory intensive workloads now in preview"
+    excerpt: "The new D v4-series and E v4-series Azure Virtual Machines feature the Intel® Xeon® Platinum 8272CL custom processor, which can achieve up to 3.4 Ghz all core turbo frequency. The D v4-series and E v4-series virtual machines (VMs) don’t provide any temporary storage. The D v4-series and Ds v4-series"
+    publishedDateTime: 2020-06-15T15:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-virtual-machines-for-general-purpose-and-memory-intensive-workloads-now-in-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 66
   - title: "HBv2-Series VMs now available in Japan East"
     excerpt: "HBv2-series VMs for HPC now available in the Japan East region."
     publishedDateTime: 2020-06-15T23:00:00Z
