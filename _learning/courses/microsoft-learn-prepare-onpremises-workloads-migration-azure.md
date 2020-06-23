@@ -8,7 +8,7 @@ length: 35 mins
 ratings:
   count: 71
   average: 4.6901407
-heat: 51
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Prepare on-premises workloads for migration to Azure"
 
-secured: "IpVcAkh4ElLvr50NTVwpUe0ZgCyqW406OK1furnMQ2nz71daPuumhSJnzP/X40Lwo3PNyF6khFXDpydR8WCuyQz0SVvMNsn//VPhF+E26SivVRSizVTsvFCL76O2XQbljI15y5usf6vDDfjRyRm1LJoBkL80cSyanxXSIuthmJwhsoVGPuY9AE4yK0FJLnvyvetdHcyVVZ/+9VZ+PKtIlTfGuTCHL/CkjQJXckTLoQdFzXzP0vkw+ySISINzc2tvbgd4al+gXCdsFeQEXyHFF4MnkNil07kC11idrDeggqwyfmO9K0jO5xjrhkwJnVmILwl+ca5VVFynjtsoFcdCgJJ/29fd+XbJq49rYOVXl8OPUR1rCXLJCVwwWlApNXb8o3SCG9H8jkbkjh7NSR3UCw==;4W68X40HszFGbGSysruvRA=="
+secured: "Smq7CM2e5Qpe6GtzBP6AEzGKNrUh3RfnKmuhVz3pkIFf1Zd40nJ6LyHA+fu15UM7FNkMCImvv60wERvSXfMOIB21T28bHjpKLQx3XuymFlVr3giTPBtOMHLHS+B/ogIkKUDHvbCSbL/EOAIsrCmLErJOeeAJSJiLiDnJ+HbV6gns6fqOiMT5GyqQo+0cBuO4qq2NdNKfyGrFnRejnp5Zuu53vNWpC5NZpSpxabqkxIgbdjDqZH3hEIxQi3McXDOnce0cQGk0hMDhVvaWaPo+6A4v9kUNgykJKmh7xljQAmtRh2rZE9REon2kaDkmJrM67RE+awAgAeE/W9sDCopRKmGncmWcU1SVDQF103eH59iPkykfograuPKw6SY7Tna8b3ezJYnX7EIjhbVfOhHsPg==;Ruw5kiBLHwZDPhnpeMHUZg=="
 ---
 

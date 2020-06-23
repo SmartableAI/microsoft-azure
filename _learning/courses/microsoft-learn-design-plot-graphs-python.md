@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT52M
 ratings:
-  count: 15
-  average: 4.5333333
+  count: 16
+  average: 4.5625
 heat: 50
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Design and plot graphs in Python"
 
-secured: "pNp/NNXLdzD/+U9DmU/4lSxvXDc5ycmqpJq+BuQGqwUFYsNFvyFM/joUUset2/YnGuqr6A8uASfsMwpajtzOJKqOLPwL7OvC69VAkjFLovcVAa586YjN4UtTG95XFYLIVeX3n0gnnVCWYRCoHFWItsRcnSEkRsqArcIMbz8v38q3rnDyxdmAyKsxpErDqSFX+l2W7UCJtvi4HAFD1mQ2DeD/OVQUrJM7oejlwx0cfr0fpsehotvMlVhTtrtN6ov3IRN1uaWIP1kNirPfDyw6YhjYzwoGXO74yhGPxDa6OE6ZPZ+P1Go0xQBGKVsD/cufJUI/zlMzbk00pq0XMeTeDpATdpS5WqQ4oB6lFvB1mBmzS3mipQkk4SYYqzAOhluISGKad78ccztbD+jlyaCTsA==;+5SlvWyaHKeKuV/JPYvBiw=="
+secured: "uI/9hRrcqkhtqiVLyUPJQuO+PljHB2n+3V7NViraS9hBFf4bdFvSeFc95c9jChnRngC18Ai+P3mLy+4VXqyQ1Q84n2RkP0DnUIE3qjh10DrZBJRA5uPIlX2UPudFicbhP3Fu/hPZCElU8nhZliSiz9CxK0+lU6Cf95u11QyXIHAWMYBCCyPyIw58euYuiq+KnSUwuGrhBl7rC3pZUYYwJFAUyv/hPra7qWtyqM0RxTbrpFYdMHo36vaEZcwCW1p7Weg0QHm6HSvZqQOx8zfx+Piyw5YtEUJW6IvAV2Oc536/04Ozr5vwjPKQwkPv2+whx6AFvfk7EpM5fxNl1ONC29qYsd/uI1dZ0irn1ZB1BI8hVMVN7Q4PxQvosE//VfHMF+YJQ46LK+WJjO3dDF/kkQ==;gNm+sDLhDDMlNPXjCf1ROw=="
 ---
 

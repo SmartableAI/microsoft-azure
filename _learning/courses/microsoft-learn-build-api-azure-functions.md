@@ -38,6 +38,6 @@ images:
     isCached: true
     title: "Build Serverless APIs with Azure Functions"
 
-secured: "1uV+hIt93ySAf0FO3xaJak8Hl/AX/iXjeJnHHV3tgRofAHUFDJCIeEUB/gIJaN+p98bDXmt1VRvehHS9obpR05XBA1pkk84zhZ/NYBBM6/V5QjjybAIAYTfbemx9n1sUGFRk7NLELN3jTXS1+bGj3zX+I5aGt3guViAwTKuK/1zMZApeEXdaq7C+DbRXfyxwHns7GjutCJ2r1xATsIdFrQZ7PbWDiboqF3q2MdYZ30kTagKjhZlqDVp98K7XsmQOWZOEUmfGxgxOcjyjaSQbF2itPQHRpwwrXdcZbY3YL7SMx/v8SjR3g6UOM8E0618alhC5M5Pia1dq/coFgtRstfaaKyZEaJ6+YkfF46a4WYF4w8pMVFVg+HJVH5geC9b2Q0xYwu1Fi6Tng3K0go1/mg==;pXQdNfwImLdxEEGHb55Zfw=="
+secured: "nJamtsuCBFwA/LORc1Rj+F4LnL4bsk/fl+wQlgrWa43tLzwcO6j6fMNY+soONAfYuiVRaakru/z4AFgH9MfMX4FzJhke+B8QP87LTdU0fHPP9Lb+fpq+054czRiLyLuMJlyGQRsxU6eiZQtRkaTVzsjTu+yX+TQhFObZGM/rKFzDQv2y83zPvPAtFSpE3TjgGLDwDSvt+OMh5RrshgbjaBjG8lWIDzro2+84UVZ1KMxQ1Nd2TOszQ/1dhPlTKc7fyT/V3kC0Fmd8OcrlnMA3bfjklPZbXyOaPmbCw0NaIo38EEeuyGm/1WfG2DGig2fVWhRLftsLBEN8HU+MHS2pw2sDGdLimw5sHDYydCYSZGdyrRGPogmoMO1o45vYAGrM3CVvAtzN+AaIB+BJY8QwPA==;ZdQWDIKdMzP1Qt9PShACJQ=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "In manufacturing, decision-makers must take into account specific indu
 type: collection
 price: Free
 length: PT9H32M
-heat: 76
+heat: 78
 
 provider:
   name: Microsoft Learn

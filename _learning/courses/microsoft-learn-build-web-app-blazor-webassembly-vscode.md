@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT45M
 ratings:
-  count: 969
-  average: 4.6862745
-heat: 53
+  count: 970
+  average: 4.686598
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Build a web app with Blazor WebAssembly and Visual Studio Code"
 
-secured: "DkdzKkES6q5ZZ+Ci1u5O2dVzy+Rrm6BIVivoW3gD4wzocu3DZSyyf7QVX7Jd8bYr9ZdlrBPx3tdceOBBVBMdlAchLCrs1ET89c+djKO4X+GpD2wgAFlQ1PRB6epgISnTDwisa4hEhe+15JjztPn3bYNlCnXK1o5MTSSPsXVIzIw2B8w7FEOPurgWeYu93czYHqq5SQtQtI8+4ZFNNSniCjgeEcn56CCB+FjcZzueT+zYh3vbCpRWl4cwBa5e3s/69DNyYZtiXN+kFPBD0AgffpLRrwD/6XuM+k61pqlU1sGlvdeUhPQvDf07qLiFoKGb89xBg4X9fcWhF7ujp+yAe238+qepDIRtsknL4jtz/qUR3mRl17lBJYTw54bsbb4Cdu5phc2mpH10zy383pDBrg==;QL/1AluTOgxeuaiUyf3gMA=="
+secured: "X4o4zqFhUguL95Dv0jb2KNH+gvFQBlaEnn7xlP2oAplWZDdaMvla9LbzwGDIEDjOxr0YshcqiPxtYJa/HO4I5lC6kAyzyFo9yk/d7a6ks5d7Qfk0Q5AevJsmW9icOsfVH8dQyJJY2jaKYEwWNv+/madwlaPaXHx5jfZZHmHUR9y1kur6SVptC8kUnCR5CyOXzIrS6hIPk9WhEUCfV7dmhv7k1AbHtIbJbi4emXVXe3ZbRmB3Yl+jr9zJchHZYJgQilflCNqRDTQg5xGFrALNoXu4EVsCDiIBv2pJuDaUQmjVkHOmVqGdQ55Woh6EFZfg8LVIIXnkUVK5IE4I0wkmFbgqjls51op3BkF2y67ItreLE8V1qGj33SZNQ9TKbQsKnTFlP+rydCvB3nzHeIcTEQ==;Bjk8wjPyvJBIUXUQNohhOQ=="
 ---
 

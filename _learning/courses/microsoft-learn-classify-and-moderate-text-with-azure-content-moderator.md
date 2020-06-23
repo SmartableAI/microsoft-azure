@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Classify and moderate text with Azure Content Moderator"
 
-secured: "H4Ngi+AyD7X+g2shkojcoY9hXcpLx2ks5vIJ15lNjOPo0Dcihcx/ddeVBtifv5V3XImCd9/kMyutQ57QMUKXcLCQIgzmBDJxuVpn0GkdK+mUC9A8RY/H08HAW3p7nj8GGkF2YDlOZMG5+D6nWCGXr/YgJaQ/shaidhRTbt5StlKrYXHnvF2jsfoG9ODyFVbb+uoMMIILgUFKd6yyuseGFQsqd7isaClgVQtQ5cPMYqMdpj+N2cg+WuzrHzK1IEOQHZ/J3CFwtNhlufbfZ5WsfpAyz45OvY0tgaeEoKb0CcasuCya7c7Qoy/q+/gmL8t4bCo3vEt+Wp+umRDetn2s+mWxG1No7Dhz+r+zEqBu7ZG7E9UBVyQdzzhocggrOygDl4qWF/+TGktlhnmUl3B8AA==;ZXChmFWWT+5MCiywGPIJIQ=="
+secured: "5a5OXkxuSxIe6a9UCl/HaSKoUhqsr7JSF41wUbig3QWvr7MKv8rleFIT7/ob0GjfcoQMn4DYATWs3xVpcskYlLr9/aQ6ppBalhMRlHhxWUusDVa0n6BBKOCIt4s8jebcaYbvsg3JwV1iKFtxC9SYkUcghDvXAREgccdLjv+N1f8mWZDtpFSjTGim5hMwKVnFZwDpqeg4cKs1zI18hneZ7pv90pHUWcuSDkLjbce3ETwaNV6TWX/covz8yfGvIVppgHWmjGZEeI2DyEyUVX+Rw9lIwdeiweiJOpPr4SLs8hfGhs47oCKBBbSk7auBwpwCc5Zr565F0T+jAezaWeqjO7M4B7bSTMVQdyHt1V4wW3U40YOmrdSL98U663+XvJ8oSLRL77ddYcc5KsTMX6bVFw==;2hnK/OdVugjpVKPjqL70xA=="
 ---
 

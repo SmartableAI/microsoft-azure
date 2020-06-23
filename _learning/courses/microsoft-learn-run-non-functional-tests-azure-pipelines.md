@@ -8,7 +8,7 @@ length: 49 mins
 ratings:
   count: 469
   average: 4.6929636
-heat: 52
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Run nonfunctional tests in Azure Pipelines"
 
-secured: "X6kfvOiLxCddwZ287uqGNv2eGsUvijnx92glXShGVghnyeOllV/mm4K4JsTdncEk/4+4q/YbIV5DKckihps2LqbAuKpBi0b4b4sgV4jCsHlgY1U+EOBi6ThUhdldFy72CCrlJSkloAF2RkRjX3rEm46ptIVCD9u8+l9daodKWJDx92P4tX/fmJSD0dNLUyZ5UA/FqOKPhHGB/e8BPPlQrolnKl0JeK4AOGNCGRYJ/Z0OfqSRUSuZcAv5eR5h4Yg65bblpp2guhRj/TAw2WqUaUoZn2ih1AiHALlFY0UnKUHbiYA/0hYjnDL3blaa3Kpk1wQ5LWubiodlHNhTK4F2i5Or2t1QnSn4J8DQFN25R6g0Ns4l7ShB23Nzf/HcWEt52ZMxcZuGiLh1ArqnvVTZ9g==;EjT4co9ZDacmAYT1m6foWQ=="
+secured: "tOzkvD3j9pNlaykhJQzp7bSmYSWX4ERBtLJ8B9rEAE2UweeprZR72qVPscPPtm/dYju5uQoiWta2PpsG9d/ibi4GV6sFWx+H77t8q1/6/Yzdm7tErbTEGl2u2896LZpJ34mSiZPdmUTaigHiT1YsaB0qmAFxKwyC0w/5wso8cmQ/gnFGqNiLLDhFHu9R6PPjlLIMhJru+PajI7m5N9n2K0kpUtJYL38+/EZX6Wk3vsxYqbfLas576RwMhF0nLI17LrH0bYd8PV7ohtqY/irSdOQNL6ze0pv6+cZj77BW645zy0LurRYH6+GUW6SR41clD0XvVfkpHQanVDul1CP4JU4//+dENonT/PsDxfqGKxTlaB9rHUoRzbzZQXdqAa7FP3eIHzflfoVGnBn6wStdpw==;p3BlPt6seeJIul0UBelKag=="
 ---
 

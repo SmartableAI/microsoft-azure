@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Manage enterprise security in HDInsight"
 
-secured: "5sORZ/X6/xxz5vNhxj37624Xv21ZbfWm45CZt/ThiOfwZTtJgtYJ87/aAnYEfmumdZXdF+4pDB3S/tZKt9wDddVJ4h7E2t6RxYUw1crkEoBjGPyPlqYTtjVqVu6ukP0dHTF5GQcPsl3THybAv7j7yccqIq+ZJIbvk4n2gEk7qo6EL3Ru6mWBn25JzwJuD2FAHcIoJdqBNbmKDLRO5n+lRDa3XlMRgGGIL+iRk8SVSmM8KJ+17a9HO9/z2jliQeou3IRH/ArzJrrJ7o2ydiBx0BaFkajSTA6KzjiZgj65eRjkBsQRNe8tUTkxizgoy64kbZc1YBeECGvxIFuiakTMvbqsIbM/DEi8MfxGZPh+SD9ZlSnx/6sxGJChv6HRr+XzGg7ACS2Bq+dmyIMkVJ4jIA==;uQkaboeEycUF3bKvUXW95Q=="
+secured: "y69TyvkO4lZKGPUOPZjA7QYeaB4BRAghfKE4TXOWxHvZecBLhLuW6OUM5JI5f88LyYpsrctQU5AYmdBno/ovqnkhjkEf/uU+TRO+0qzrTzIvKkBTV1AlSmfeIir9RHv6MlkBtuVWafTptFh/GKCSnTwEJe06E6/aVz2xWTCp0tIIMpLGQ/syMj3cEW998UVSPUuAohktpf3UkdXkgscPFfCO/RVQ+sJkZ7Sh8OtV/K2DtIrNvI3wV4j1Ec+spheqYKKhFEGlQdYm57R1lWnrf5fmGjfzMtb1Tj+FbHRiGRJIHeLvnPM9A75JPUBnu329mVHb/dXaIM/YvjciL3ag0XxfK9+NVzhGBZj7VgEsKEEghStipBdZVVN/+YKUj15UytGCqvom5wl6BSnWugMHMw==;UN3diXHI3OC+fthwSt+wvw=="
 ---
 

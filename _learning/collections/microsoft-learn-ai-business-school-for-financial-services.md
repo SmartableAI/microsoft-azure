@@ -4,7 +4,7 @@ excerpt: "Decision-makers in financial services have considerations that are par
 type: collection
 price: Free
 length: PT9H36M
-heat: 76
+heat: 78
 
 provider:
   name: Microsoft Learn

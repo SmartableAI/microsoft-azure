@@ -8,7 +8,7 @@ length: PT38M
 ratings:
   count: 15
   average: 4.866667
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Describe Azure Databricks best practices"
 
-secured: "nrG7Y2htM3CYjDyMS8QvXdftXCK1vaaj80E1C7ur28Xw0Bcej3x4kC0YDqs/UiRcCTLEzksEp1E2qW3UGJUkXdocsS3aX3jHEn91RO4GDadjyBAVJ4tLbB4J+IteMUYwxbBbJTgfxnP8m3MmQKqbaFjRxSYQ0Fprwy/uyygzjtJ/EN4rVg+yPCSY1aHGHL8uXiGrm0LMyw1VoOsu7yTUW4nmFFDzm6K6JQuOoO+wPjwJsw9kEC3AUYFFcaEJWy6u0zfI9ALDsMmahizk3Xwkex1PTsg0z/4rK32EfeTRQzuV6M2uzqjGdXp2x1mteT4YCA2sAwOqO13I/NwzFQvgFaROFRKYVASP+EmyvhHc05ZGZYlUDvArz1ZIMaczufQO9JL5Wxkoug7spfvopD0mqw==;18o62104q/Y0H4I5J4ohTA=="
+secured: "1SsvcCltxGGqA9vVdwVgyB52PR6TH98LWmaWO2+e0yAwpI1pdbNIMJmo/nvOYqeWzXP24FE7fRH0KzRMmJ/xl6TGVI+eLsWumm8vEbMyug5cdOkz5Ock39S/r+NEyEMIOfo0H+OVFYGBcG0vJns5URkFJLTtKKVFJVsw75IufvJjvyvfOSzpVfzej8lMmV5bB41WtTpALOlXkCjNALtP/IkwWkcVb4GHx+oROqEWmR8URAPyLLgp4oSjr2nVvWi311M2FbVhTGq1/Z9DoHzK93MEHcJ/jl5Lm8zRDiFwgKJIPnDtWHu0896oNGLcJLE0oui2A+qMTJWWhrPdRKYZxJJl9k+J0iz7B78p1fGxtCnpLgDOhKFZ3VpS4y3TCxRQgy5w4HaGYpUWkI3ChuChpA==;dKl0GT+XUmz0P5+08vK6GA=="
 ---
 

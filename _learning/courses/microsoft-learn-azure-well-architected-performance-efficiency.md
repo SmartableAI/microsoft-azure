@@ -8,7 +8,7 @@ length: PT48M
 ratings:
   count: 90
   average: 4.6555557
-heat: 55
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -39,6 +39,6 @@ images:
     isCached: true
     title: "Microsoft Azure Well-Architected Framework - Performance efficiency"
 
-secured: "oPziGVxn1zDMKPpz1h47o8mQ3rGOl+bD3cGu8rg5OJFaGwMZeYnJzmkPpbSxisd7k/6evhTQHbddyikvf+BXPnqwkgY/Yyvn3bvAJbMNZo7gt2p0gKPf+CCHlimB/5YL5Zt66VtYmYcUpo8XSCuzgW7p2qkxMkXIvAaK0lT85/LAQbFgQmzX54aG67votPfVMd1E03n3vRmnQELMAMgKVMKzfUzwyz+otjQqD9cH1VWzxS9DMNUfSF8Ek4eW8ABv9imundmk60JuyY+okdrNijtuDYZ52vhTa0CTdwaOr9ptSxpP3N9ZMl8bHBKVmLZQ1xVSa/N/DI3cGOhVIq0G7Sub+CwIn4naaCnR+nl86CdQ4NqAegwAJ7dBaode2IzuY/33I9mN9YG1SOTO1mWGqA==;OmCiaL0HKuBStd4b+800aQ=="
+secured: "jJu5ulMqZs1HH9Nyycbm7s1x2MTKCB8SbcLCE6KWE4SWWv4eW8pzIF8A5cn5r9JUPxbyRnQevGGj3XKAU7ty8/dD4F43Bf25WiBHC0xTIb2aO3PLnuTrRwsPSqL6o/COsDIFSs1JzMQFFrPczZfIdpG6pjD+jUwwCmZxLI8QzOVSPBRuVn7SlI5ztzXUOWJzHjaniaj5f5bmZkq98jQy1fL2Ko5feIFTwEZTeoKKY2wPllPWn5F79Kc6iTedYi0KB/LoelZObb20vNFdaN0TkU5SvRWF9Wp3NZqdwCOYTZXMS4Tj7hhVQeeWPtGZUwcCuyJwbCrv9Y+3VZQ4I8v8ZAsYTU3tyNS3gYe+Emm87exlXgw2TvJvuD/70jSouQd3p47VlMj18Aaa5ld+sGZ2XA==;Tlf+4ijxjSTG+QP1ALPPow=="
 ---
 

@@ -8,7 +8,7 @@ length: 60 mins
 ratings:
   count: 359
   average: 4.735376
-heat: 53
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Predict categories with machine learning classification"
 
-secured: "eiNjSHOCPk3zm1FAPvzEzwy/R6H8nyQL3T+C3LfSbVKCM2V009feN00fq2DrwKDG0lDsWyIHKAzSUvhXr8qQOuhSg2OV8UcJpkTHdA7p3KoXWHJJxGvyT3bk25jh0w5rByqAiIE6YeP1X3YEOJCcPhI63rcew0Bu77NDDzuqt5FuPHOfxCjhDkXY7RG1NjYRKGnXUJmB/Umkh14qFLIT3N/iudzH+TaSqNzfSm1snmLapwSQmbsJ/uqapPF4dSG8aRt547B9vnApE2W+lz5wIR6NGtfpuTqmbRjZyvWf6cb8f5QWF4RfFJTc5IJgn9M+BAP4Q8cYYY/W4gegEr8MCjDNvM96smwRb16bYOH73qv/IQVn/ysZ1lAGUdFlkDTTW4d+Nc/1eej1GHJRXtDYdQ==;Ez/bs5c8dQbKSgtWEtdMSw=="
+secured: "B4ossDrpCYrX/bawhAruzw/97ArKNvNNla1hs/y+j2ikhdNog/q48Yf6QSDwycmvSMvjE5E6UXoFMDzJCLXxAdHt1HFHDxH0xnxisjSdq4WzNQt9KUdZ+Lr1KGWAyorPe3t2rQJYXhQbwAw6urZvSbDDxrP9QErX3UdE4IA4v/9rjKcWwRxJow15FPvAkO3elpRp2aFNo7p6lzNKBLPP2y+oXE9pA157vRulfrLlxyTmDUJ21c2JJLwu+0H77LzI3M20OLY4IgYW5MW3UcRmYYIsFpXajEqMRP7wJh9aejWTn/TiH6yJGyO3iZNswwiyCFccNYhEOP3dBj5zDgY7EQHqz0n03XopEHWhrjD9QRg+m3PM3V8fY0agq14TF8jtbofx1UUljH5EjwseFYDdzg==;cmIKXNU9oqQhYW5E3qfHnQ=="
 ---
 

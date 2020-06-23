@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 60 mins
 ratings:
-  count: 1522
-  average: 4.6228647
+  count: 1523
+  average: 4.623112
 heat: 57
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Create security baselines"
 
-secured: "KNs0ZzE5zSIKjrGezMJeONh5bBp3XfuqCPcCP+dp082vFFuXDpLfkY2EeLN3FrHWUiEhBynrhI6axTdVaux5we4iLIYLVO8aVg7TDw7YqbYBAD4LCVhucm5VuBjGWV0TPATMvh+/Wh+kgansX+/yJFFl8IYfgHbphYF8t/IUfooCK355fu3g21CN5ATRjNCkOcMesoVgVvOqO9ub0l8s2NEIZvACvETOdAV3gLdW4Q18wOQIYJKdc/GWC5U6Pl2Gmle81XYxEA8YxcVaJqE08X8tFOgikqL/WKq0V39qWbfHr0Yl89icwsQmqxR3BTbIWoBij6WmOLVO+Pxi6cucLNfO4NCMtnWkj6O2Me34Rgcs9riWEiTFckY+ojJUL5bxQFbOMKvYTPlSzE7cvh+KbA==;MNjPzBBKOM5cUtaSG2qlow=="
+secured: "ljKgOkZep1gyLjsIOJOtlBmPnoutwsNQ8wDrxaTjnLPVVnxyCbh7whhvE725OvJN2U8/eb1GvqfwrgvkYKsqCiwYY5SWvc8NFT381h4fQ8tDPN6RAouF/O2Z0jt+jprK2Dne3k+BNZ+7vDwlyNOtf+IxO5gEnokXQ+kNjfnVe9pTM7h3ylZIIrGeJ09OKqm7Lwx5lP25MqJt5iNJ7DsMsXIzJFuhqYsVLtSO7UzC/e7c0U4Q3THwbCgMK1IJWlUCgxdBbvkcRx50E1eUZfYPPy91SNWpYWz1Ud85Eu00dNI2hWUrlsXe028X0WLpWnhPqw7bRUS+IYitnvtXW7yjgPqR053xO+MKv08MAtPFo3sDfpfdxQswvRuO+mz+OEuz7k0OpJmXspr6MlLFPLU9Fw==;GVsnm+HFPiLBTbho7THAgA=="
 ---
 

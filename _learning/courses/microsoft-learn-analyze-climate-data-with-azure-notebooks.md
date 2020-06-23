@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Analyze climate data with Azure Notebooks"
 
-secured: "FFohGOD+6KPvFXfudAp+kKbk/bElBxPTpQYK7JxSeIczxQUfoIMs47betMFVoiBij49x/6DVbYEFqudiuFnTx1gGjkd7TM8KPezbIUrGuH6qcjj34GkmPW7Fkcfmojc/kO0Tfpn1ZGyohiEu5J9J1sPDTXV+nNUHPlhPQ7NBko8p+ATXXKFhMquUFYJsJMPhNvl8IQj/CoMnBjqN3yIdI1oVQy8PeCdqC+S4hoJYW450/aDSRN54q83FTjXWu3xGgXCPHBCOFU55V9DNTPBa+n2QikDrXDe3IqAeDL/4Azj+W8mDmN3yiXH3382rod3TSWLMZ2Tp3wbS6Fe4u/FBQC5YSe2fzmXb+y0VOIFVzkRJcvYFqNz1LjOEOxnT/uahtjbxrxgOpq7OutOgqzPoDA==;0cZ8v4uTCD/s2B2RMdRlEw=="
+secured: "kZgewZdn3liZn02uYp5waG8juLH2jK7z3JqkCXvgNki9odIbHc6yLal80XTueJllWiILfMNaF1YRlK3Adk6CNPB3m7mJovo/YKV+1ecK34xzRITdcDlTAXzbGetxiMWauDofDSZA87eimG1T7uvjzTrsz/TAz+lD/kSh9NJTcBzLAntIYq72mBA6iJdTasu8/cjDiGWBaRAsSVtoHFwCn8j4O17gVWMypmy2k141em6C3aFTopBBBK/4p5yp0TzkJTgFOMg8VbzxIgCpNcUzuReIRDNmCDHK52lAMKPMO++isFELJpPF+BmOyghGVaj/0hPf8UBO/ryGJnVY+Ain/20bjOYT//Me8YLKSlPHJsRerja/2vKpd6D+R9QKeUrVl8Z8gaeBoZzau3IDNBKq8g==;IIjkmKXgd3u0YxrUVO+eEw=="
 ---
 

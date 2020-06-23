@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Run a background task in an App Service Web App with WebJobs"
 
-secured: "ZUJWt1W9KHvgK+Lb4QABPKaF+U1dN1msoSYHbhI02W8yNYdVB3ba3HKTxMKV61Gwjhq0cVMlwuc8yCHYGeN6fxziiH/PFxs1jZdP7fcHV2KfSOlT4ma23qzVu41vuQnBZHrx5dGaDGZjjNtr6D5+xICjqp1eKermSibQiQfDgMDjClHKqIDjni52lk4JtCNb4JB1c193KrwbWmwfwjPk7W/yC37t9bZHyeT1fveCjRFEVkBgaG6627THB4ke05J1vwqfq5yNNxUKFeFbkFsDZ0T3kSNtfoXfXGBj8l+n7QnzjRsHhLh+5mlFFbHnOqv/xJS+94a+j2Cdn6ghgGL8FpJU5qhJEEgdjfw1Bf5WD7nl/NWdX1mXchlehWK1UnuhP+thGj1h6075SIztLdMObA==;OBKTtEfAN8ytBkPQJ43mDA=="
+secured: "g7aS/Q3e4ueVLm782YhTzH6NWPdcJZMLChjrR9pYGbMIQssfs1SUGQM/Pu2vz/y/nYnInK9/ohgw1FDrpidXOVJNdsEsODrrE/VFHNhaBwPR3v4C8heINu8bsZfDV1wNl2MEI/s/KAXOsBglCcYsNTnz3VGnE8UQY3W35YxTf5q5NV2jHH7vkJwjVAqb1xL71eeQOnREqyQ49bKqtyRuqk1g57tKyag57Yrapebn+iiitmyl4WBGy0cbzICPeHcvcN5S/N7Dz+O3rowR20+2dWOk6TxPnvlorMUaOVp3oWjs5BrLFJd0/fu5EDM2OlixJl4neSuJ67SwYJOZmGyES5JGLptX8UB+9Nk6BWuYcz+6hUeJYNVpNQWGpZY278Jw22+teLQdPKGOXm/f4Uvpnw==;x9Wm5p8LwbQjQ4tIwrbGQg=="
 ---
 

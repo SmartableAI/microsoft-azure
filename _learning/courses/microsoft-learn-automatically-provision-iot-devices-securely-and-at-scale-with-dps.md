@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 57 mins
 ratings:
-  count: 122
-  average: 4.614754
-heat: 50
+  count: 123
+  average: 4.617886
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Automatically provision IoT devices securely and at scale with the Device Provisioning Service"
 
-secured: "w2RQsX9CIZ2KZcBZNYsVUydMUCgNOPai2SH5TmhhTLxphIXzPUn3vhEJ0h3KFLCywOCZrXETbHMxr7R/RvATvCDfV/fLmQd1E/+FeQRxAjaUjhGzIKJU+dim8pHUirxXHPNJmnI+9ctH96Omjn9QJWib84RGLCzi8qmdcXAVQvFTaXLTVnjLXFzB3WYasHy8zd4XITLWTxlol8WMKNhRPyAmuCD6l9Mw3K7H9nTKAgPPWVZ+qdKoO/j99vIviNyLPDyCkYf6kIBzjoWG2Yf6ZpyZyUTd1D8hRM7V8EWTaVPtKkwd2DXUB7aeDISGbKQYsEsZBY8oueBQ1+v1MZDkUOFCOkUBQ/dWr2lYFX0Pg5rQSsVjKq5cXKd8xw7NHYpcO2rMecoI7JhnoRDtx3uNag==;FLiZEIu2Obrncl3ou9a9dQ=="
+secured: "9FT0SK71EhKACiSIR+cAX4pkQQQOOEjeAHS3M9O/gp1Egc3WhzQD3TpsnAnIO4byd9IKsng+FRF73QI/t1VxgEUnbQFZ/N8pXrc9gauUFgdlY5oAK8+bVElJEOGO6qPRmrKFoGKDcuvI2bE95kU3QLFeAHBCUr+xuUtN2S+RtEPOxWMXkyAZ0GVa0nJLKMi+WPvx20iO4DkrIS9q1jHz2L+rbfhC9UvgDaaPHftUGlcmZAWdeHB95f3VoUDBVCnHv2GlBJMjvaqY+jbsXV1RrFA2TgebjG9ej1JISbTy4ZPwyRGq2Izvw1rDex3kEX+Ub4/xZxVIAXI2LWgmVt01PyS1eG+QO5R/6evUyD+4V0QTn4bxEGANkFdbfmgwC5+SfuSJ6Uaq/1udf34cWHBi0Q==;/rn7YeC5Li4H0OWyZ6JEng=="
 ---
 

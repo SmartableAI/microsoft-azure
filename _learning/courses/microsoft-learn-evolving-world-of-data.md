@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 28 mins
 ratings:
-  count: 3657
-  average: 4.6628385
+  count: 3658
+  average: 4.6629305
 heat: 65
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Understand the evolving world of data"
 
-secured: "fmRqapsvQqjXW6li8FI+z6hEM9iw5E+p5wiiviA5VwpfpzS8VgO1zF8zNcBzB9NKtg64/BXVHerZHM0BgJjIbzhc5epIPMaRUDAA4mu5DWzOlw0aLkxDoaGHebv1i2lBjKrTp3zk68iC5o2XyKYz3oISamZB6NrZ8VxQRVL5EJgLb0NZAukEkUiqayXbpNFdaUvrMVHt7DV/EAhNeQOd48gIWJpuqgfKf4LPGnnreBddJ7X7vtgnnioANdwVTw/pKhIggYABTE7NuiaCm4waFg4xfVPfwTpSMwAWaSItDf1DATVvGrKv4APBm5x1IsCR3fQdADKyax880LMasOWWhPQBLaeKVUBZ1tLk903x4Jg5E04CWBPjCYJLbQG8g8IWLUcoEA/pmYY8U6zmmuzEtQ==;FoAQ/53qFb2Pmi+Qy1hMZQ=="
+secured: "nKvW5aRfJAI30uXR3lQf2VrgMQ1V8biOrS/sa4ACA1auUI/ET+CxbbnpNqlYQ+E6xWK8VCzts+ddq+pdKIvTM4xX8Ld4JSAzD16f26Z8cUaQsrl7utzsZmMz9f8a7IarMEjU6E7izMZmoD+vlmEhWVbIcmmoj8xmDBZ9oV/i5mvazUao7Dd04oFNb4YDu4tCqx8F7zc6ypxnMkOpl8eQPsUypzxumvmE0C7JyTgjxiJ9J/pdQVYaVRGvonHL6BN5yF4MZeMC8qkI99ZG79eNZBlPppCWvxb9qnHht1kWXd/TYx20hPJ9mfv5cQEI1L0QjJ87W1JNjtlO8On+pn7x8wJHQmHqqhI9b+gGObFPT3og7E4stSgtVzwEIRSZC5TZgIz4acW7TOQPuAzqtC5Qyw==;ktA0yaDzgAl08qtmYi4EJQ=="
 ---
 

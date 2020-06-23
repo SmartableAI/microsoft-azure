@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 32 mins
 ratings:
-  count: 1793
-  average: 4.622978
-heat: 63
+  count: 1794
+  average: 4.6231885
+heat: 61
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Introduction to Docker containers"
 
-secured: "JxDHoNcqvzKqot55MJWZURIsENCOOzGQyzsGaRbJRtJXsl0eupnUT2aKMtY7IBP6LkDBW35stHkdgMbpkMfKZnFSJ4JnFD03DPNUqhgIDJQdiCTP3e0RfmnicNfme2BkoRONufNG87hzpw+OZxV1OIFhcXieTseyN40zVzbG2Xy1H4d6fDYlxNprwGq8EmjUgctu0DZttRTP5z1Lat3gLtSaGrROu9ASMfir6VzJP13gIWC8ZRKEgNFkm9lxoiYH1OlyhYRRQlNgbgGhvLpA4G1Ns1fysgIkPlm9fSS4+QiOZZ8jNC7uFpFuusuLy1nkRYshFfgSbjwnJ4Ke2bJJ56cGc54ZcZZ8ERoUIrs73k9djbrCKiwCCy5GT/M5UYfa0WyyM5G9Gnz2E9WPhcnDHQ==;jcceDe2eVO6qnqtpfU/zHg=="
+secured: "X+bP3XDAdmrZxy8U/VDqwAp33c/1/U1TcmVorJVD0zYNLY1NgS/Oj95kbc+4tEm7nDD6NpXRjVV7grYGV2JwIwNC25FYx1GUJlCHpMAQ3ohaDW9POUksvrPGV9QkUVsFsEoa9V1z/uhKB+o1Yyi6Iukd3VUuyP5GL6c5R2ZQ7AZPB6R3q3UAM54kr3JkH25x2S8WI07glU4c6j+gRHVCUzjM6vgcSNBkCn6V8O4WN8xKRkvCAzvmq5fKgqxkE2lTvyXd5PkN61Oex6BOfAWr/39yICh3L6fg4Iugv2SXoWsDC5QHIH7n7zKcbsXtpq4W14IS/ER5J0RQhwqhg8RgRSoIh7leC1tq6GCmv++hpG/94clO/oJsThLUsfdbzBRtjbLIpe7sEg7EuJbMpuIh/A==;zUo77iWVJUSMVKmckwxCDw=="
 ---
 

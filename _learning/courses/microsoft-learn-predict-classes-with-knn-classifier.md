@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Predict  classes with a knn classifier"
 
-secured: "b6I252CPm3AsoDEh8dmOEWfZiv0+NJUwvkU8oXxt9k5V6oz28FbS7hd1IitzoDHZUB+9vRtzRFpbWXMd92yiePfQuNuieuJejIxLBX04N6xPlTt3uqdf92qVJBfL41KUBtf2cIeEXEull9mAbB7NmDbmI15FE2aw4BdkOIAXAYHbQbhvPoklXucmKnuYCtJK4jok/OJk8SAVZXdZin5WE0fteL0IHZC3T7iJcMC08pjzWzy3k6Huo+15Xc4kJ4eSuxmnkIKFBc2XHeeLtvLeCs5tUCQUEOpAvOmb2is13CtJnznogTruU7k515HQeauQ9hUrK+7MrFxDq6nMp4uf/3hct6tyMC8nreZQ/G9XzRElMgQ0/+mN+tYMXAEzz6azWtKUhHMpYfHgQs8Hc/Ld2Q==;+OdNq9DujKXZ3UQFTXGogA=="
+secured: "khzFaMK6TdtH/7MYgItWA2FFIINa/6zexCvyM7bqJvLEwjuTWHmCW3l9031gHv+YP9pXWjnmz1t21ImEnkpFEiZe6FCoTZluql0xdcReY2R/Rua4X+f18GvXRR2vgMOEUWbI6f1xuvZeUkX/F6GDx4zd3/7R+5rMsEQ8p3Xuy615uwFPxB3CezW6icRChPJhbludSdkDfXIJihPLzahP6VPqgpkbhrIeYFtogxFOO/rabhTbIf/EyIHC72j5wS8teictIc5c/DroZbeDpmB++GfKoP+oqDT1jYNSfh7o9bHSjKs1rULmaF4OUj2TsbPmeoenQDc6MHIdbUCuqAmMRqTjL+RmmHD+Pt6+EV+1SE1x8n1mkLeTS8DRtNJDDrPsAo/ZqX48T2jb78OIzYne0A==;SUBG58CdcWFmk+wsvUqfkw=="
 ---
 

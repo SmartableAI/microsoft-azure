@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT46M
 ratings:
-  count: 37
-  average: 4.5945945
-heat: 50
+  count: 38
+  average: 4.605263
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Work with DataFrames in Azure Databricks"
 
-secured: "nsShclObp42TUYLDkPnBT//fmfPrvMe2xsMs8BELyKYYT2FSc7MuMCpo+09gDpYxPqEGbrvEFMBuVbzlL3klAKfHMLrSRkszLd8j96GcpHCeytg9nGTQXWST67tsexesbT4CML+zsArqaWEyPFmHVFSJrGur/96GpYo5S72cre2kR3FJ0EHeNRzhOxTVXyDmxzCNBcme7VllGi3mNInR3ucDdqTwlvRItDWi+zN8yiImfVzKHmD1Eokd8/B+55TAzwb9xaZr6dnB+S5AemH30MWIBDTjnYvjLCwqGTQ4NTGZ6W+ooErT5gPxzFb1OvvYnRnZjhbNrlS1goCQXVcrZsWZ2/UHlLiS50Btk1KTVzTKOogviOsdT17ziT+2DmCtP5Re/Bi9e8sffPMDWn1ApA==;3AhNy1Q69/V0irhUkeZPRA=="
+secured: "hyI0O3MWaJZ+xd8kekI/PWr/l/Dczu30OhtisCv6wy31FpNxc3bGBiqG2Yqrg7nuHcHJX16v8/1L3sE+grOeBWsh3geXh8q+qRAzNHIpuiYXoUpkdaAHK69ol2orMoch4UZ97KsKg6GJLr9pT+fPhC2wj/pkXUkPkXhX8xZzublDTXnukVWkVIgUszbgGBtK4oR6ar9TDbFMOIBAG4/D4/9BHfko4F7bGEWJQS7Nz4xILuFO1E72UDgfplqA1i1V39QAzqaAbWPxlommQQnCJTAgr3XcLaZ0lIiNXFIAMvAXzNOLslpuw0K22H0WiP60vO5ijfVAmrhNrlyHD8pnq7QjDvzI2vle/Pk0Dag6IYUsvxFuryC2XpKPVjZTAHts9EkNT6/1D9ENnKuzzjC5AQ==;GNDNjokyMQ0jioXv+F6Slg=="
 ---
 

@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 37 mins
 ratings:
-  count: 22
-  average: 4.5454545
+  count: 23
+  average: 4.5652175
 heat: 50
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Control access to Azure Storage with shared access signatures"
 
-secured: "7gYYvXXG+zbYYeVUAfQRzFI/SYMlEHuohb/0PLpHyUQKnQcjpcaHO4bD/FzOy4WBqqSi9W7QYgo3PIcCJelH+9qHFqQOHvh9lbA+dhzsb0fCNYa+fN7Py1BIO4ccBKZyawvwiYZVZh9e9zf49zAZZXC7CkMwP52mmK2pXWdsBMcXlQwHzyp/68Nv04xpIsRoJX+jWCMDzipEuw+H7Fue6PGWcPXgRLpBW36faEUnc4kQxo8J/740yfjqhEyHrM2cjHTuai0Jp9JNuINUDUG1MJ7FWb06gEoJRjjkmfp27GM2hQNQTcK6VEDl9Ce5ZuU6qGI9RXomJxFXvbWq5/3tRfzx5dzneo6+1Vb57ig8cx21qLtQ7z++uSjMvndd2y0mwuyNEVqu9wzRW2nSzhYT3Q==;ApJZ4SMqTZFqTS0fBleycQ=="
+secured: "NIFYSBC1cjwdaNOgzfm2VxBDEi0pcOCt5B1YxpITFP9iHr/w2XYAoOyVg19zam1sktQXQhh2BwmratzPJtMvrKzg+np1kx1yIeDnoFp7ZUqgkaSiJ2LKC0tyYaS8gDvZHaCXRkbJdx0pAzmg5HXtsS5y2Q1QJDEZr+aixXRL2gZCEO4i0OuQkxZuYwq1pJ2FMZSqicQfo3DFMs3ezCUkKOh/2KZL/ejoKnSVVpOmeNsSLx+f/QmseLsubnDMfZEld5hd2X864/RdapZnu9girsaE8w5MbaO2r7qYhIQXeuRhUOKN6g6+QtYjmBmQnD0vKuDadDa9EbAlt1oT2uvK8ikV5map/WIqgxvzep2he7cb6iJ8fTx7wM1MoCI3gmqnfn1wVNZo/n3bOkK9ofPw+w==;lcXizXzcPktUX4+HEjiRCA=="
 ---
 

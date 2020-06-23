@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Improve your reliability with modern operations practices: Capacity planning and scaling"
 
-secured: "6X0TdEl3DR5vQbGsLVEhTBC11o4Yqo8o+nG5GF1wm/sePIJvPY1kPU+UQ7Lo8VZYoKgycM9ZoRnq+sSBSc9bn6CGj3Siri+p7D43JrUtG+Sq/LMOWW/B+CP7Z68Vl+pSL20rZcp20D7aVA7jtguaoLPwQifotxXZpmvAxiJU/FaaT/Znya2L2eamgzWT1RGQOvB20NKDcqx3LqgBCLTUKXh4rbYa72Sqd2gNIlzop32UeSh+upZRYPXPlpOJcEnGVJw91qG6lO29hJUnMfJZ/AaOTREi7qbgC605w5ayn9eRl1HEF2RZFNJHWPIlvaEjdjjwqeewYpgjEfb5ffWkYA/iQvuyQBFsrGzLE8fXhJs9Eh7IMZFDkdezW73lwjghLXHSDd/76nxYZCCaI37wqQ==;CWJQ4GxhCaXvern7q3/P/w=="
+secured: "uzUYhQ6hXSwclDIjFhOylk0pYp0ve4A9+eoW7nYz860bEKIhGxcqU218o0qqKtbxx/ebkogj2oMqZMusLI+aC0NUjfWHe1gon4nNIyM0jgAy6xL0gSyC1lrPu0ndZyCZl6hI9saedoaINHddpw/qDd6Mi99zi+vdRAc9HG9DSIVCSX50fSzTdzKUiQwHjKPb/F9itbMZAvCr/48X+bfRFumD8pEc6/ZgBfdj59iQh/0nYLlcLvrB1mNaVv0CmNYjnLJAnY0lLc9jlQUssFg2zCzW4ZaXGPNSmcp8Vteam1JxzKJ9sgPm0BoE4sOQvAnBEk9VJKdV+Jb6tosVpkJiV9PIbn+dlexDVWIrBk9/CxWTJyMlig9SWGQINwafPkkYZ3/8yjLfosxo58s8kZph8Q==;xdMu5r4Y14LBYXKFmLFP6A=="
 ---
 

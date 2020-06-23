@@ -8,7 +8,7 @@ length: PT33M
 ratings:
   count: 96
   average: 4.59375
-heat: 52
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Spark architecture fundamentals"
 
-secured: "f0Gr91yDYFggw3SQ6GkZeiHYxG9fUpJP350kL/ESzL1jJ+wEEo6NTHD0wh8nK6RJ+BjZFdyIRJnH86pCLXoD7ABZ6FWYER3Z8e3QXLzxBBNjDIrnDzvHvLQ811gih1DYPx6EA+kb0QiKS5XpOheBtwgsTdZyzVrb3+lcR6PHKXKg5eiZAK8FwhKVvoYl53+f5l4k0EfEq/+tnfjz850+HacG7fFj2xrBfQW76MWayRbmnJFd96QMyquTnOwTXCnYqrYhC70ubhfXclfQpXfSXE1hfasl5wso20gZFsSb8Amwgf9cexN1Il4/OasOKpqX3OWI0vFAkcOTYq7l9OpUd+XMxry641i3FH9lsUO/QuFWtHa7/Hz6KuJh/YjhUsQsZLcBZsDKXjgJdJOO4GdJ+w==;NYGuGPHvZEfBmYPjdw4hqw=="
+secured: "tSaIATuuuvTBg8bUI1G3W++b4uXldorCQk8vOpQWS14XLrUscfjjzwgAT7wb+zKkbDfk3s/0JCQVXofcPB/+0Tx+x6/PH+oa99m0f2L4WZuEuWpGStrhhn09B82DYtxoTUFEVoKBcHCM+kl+hKBgVHb+zbE/CQBxrwTY4cBcZs5EIcJjVbAjIQ6ImcZ5mU5/68Ui4YTVet92muIvgaldzZAXLL5kxVVdiMxwOnQEKsDaTx0U2Txg2QnobUK6WHaP0xjwy1jcLUESPasqMm8ehdHiJOHLgWw/sJ/NwN4hH+xWQ6vNKK9jOnm0P/YCybFlSNBE2No+vPM8GlHvsTKkj+NeIgx1E5yhcFZ6coAzgEb14Jimr10VY85/tNz9LmVQkqHUeG+cq2Cz0DkAcrxy+w==;zPzkwnbYBbDnmJIMZb5HFw=="
 ---
 

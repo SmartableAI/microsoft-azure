@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Introduction to the Open source Analytics Offering"
 
-secured: "hwHpAe2Nt7MQL2iysXp5ZKz+3g7jkMwam9UaodDqpx2xVSB4txotK8nwYcysM7/+Bx2Cz9r81ZuWESFeDeOtE8M60zV6h3EzgZSqK49Ax7ujtV8hSBIwlEB5LIL8zqRGRsXoylPOUPLOBP5+GJ6LZ14v6mtIO4vmViieQkupwtVzgsECuD3whS3+PHg1r7mJI33323Vet5glAcdZyiJ0+yX+XptOpyoCQv3Y9r2yYELi9LiiKgeIAWR2PhvTlq9D67xoqlVwW2rJmho3Yn2F+w+up5TydQV8LXz7xNQ/M0WYCVeSJGHgJBoS5I0NfnGtkSbzEf/EtbVM/580eLrgotOLgFkTBFjdFG+v9rtBU6lYqMGvimpZ/Md2CxBqhfeJZ9XzjM/F4rct8LNC66iomQ==;ooYBc+VZdRznKs1BMMKjLg=="
+secured: "WFEVzFRajtZBLNwak3F6++FPkH2QBQPu7yPFZ+qhzlZ/b7lqko6fhref1IN6GC0eAZyXENcZMtFgXJaEad5tobzOn7IgBZDuU1YYfMn05HtU1DwcRdZMB4WW1a8/+Qbu3BpvVxEotLJ9/fCvBEjqyQnHYsC059tEOMCbFzDCofROSikDgwJ+v8YqGgruGrd8n+cFw3huXTWBVxYfOwqi/KxWoLNG9vwDUl/8JAi1RldTHTBm5iF5zI4Q4Jd+jlASt+q4BY4Vq2ex7j/8clR6lOVVBoYpTkmd9ho6ED/khC0Cl+ZQLI49JvzKgqma2XBpGmh59PSUc9GKkFPweSJ1I7OTW8MqOQcVtJf2xI0iZqq0rd+ADrislIWmw/zW0Mo/Qf145B1Dck6L+gyEEL21MQ==;9iuCWMBLMZBsnM8UbrAG7Q=="
 ---
 

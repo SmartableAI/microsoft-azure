@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 38 mins
 ratings:
-  count: 533
-  average: 4.789869
+  count: 534
+  average: 4.7883897
 heat: 51
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Discover how to foster an AI-ready culture in marketing"
 
-secured: "YT8m2mP/Fx525qGBY0jIcAGG+VE5IzlbVp4HVugG46KMfjQOKDPxLx1acqtdMXb4WYi8RLNJ5IYBJ2h8hGjU4aVWDdw+dUcLYmaaG1NlZrXBXYsxsmxGis88MnEzUWugqHtX9cq/Z6rK4WzQB2pKIqBE6kXR/dhy0Em4ltHVM0ZCwBiOK7L3j89ZMUtgmO8lQKX2ajXi5RIfNrgc3YspoxPoU15RmSde6IJbUxQUo7HCJsLZ0zV9iCdgM63Rjvc1PnlvkIzTUzXWu7ZWaiow4JiS2cl5KaGFAAsV+hX4JGsgoSkNJBzujZxJlwgunaVzZ1g/UKDtYl/8p8XOfOdCPpAG22PlqjRpAThUQc0pV4L2cdOYWyFMnrQjbQIVxnk9a2XcXX4uK3XCFNLcSYNZSg==;b5hMWz6m1WUVlB5Am2DYmA=="
+secured: "5ufQlbSHGu/LyMJsGC/nzXUUWR3kSQPLZ+XZml1PWLP0p7+3ImGrRV4mdEjogq6Djvl9FHMtVF2PuPFfjelhQ71Dqg4VWq84Ls43lvbJiG2dgg5H81FWyItLaBNdx2wlLIX+n++uqCaovztqeDrCT3kSRl+ETPXHzge5MPA2HqVnk9mIY0B4XxLV9070CpALuCmFjhy9o6lKBvCziZFAci6ajfxXzYGQNURT/A7HxZv99EH/OLsVAXs/Ipjwm8RvRsY5YlUf2VS/MOCrIDI95MnTec84uZdITerjGOHRcISWiyDnrsamS9752W/c+LYnMjdwQVwexTI3t4rmkOylutxZ2DU7l3FTjBrUJkK2qFl37RfkaGoV8t786/Vn90fk1IN+v1qoU73a7oFbCsh+lA==;slv5Byha+PX7TvPIjfWKfQ=="
 ---
 

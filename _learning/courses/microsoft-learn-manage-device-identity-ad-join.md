@@ -8,7 +8,7 @@ length: PT25M
 ratings:
   count: 360
   average: 4.5416665
-heat: 54
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Manage device identity with Azure AD join and Enterprise State Roaming"
 
-secured: "jLy5Xatt8np9QVddk8ZiXWbp3zjtg3ipZvaf2sY1LYLerXLMdXfqkm4toazh5uU3hb5hu8IrZmdkN7hp35Ja83hxKPHUYm8H24jhd/ZZr92PiWCAqzCg7W6KbfNNcrEbJimd3BAkcIxbbOP9o1dDaEaSK4xGm3tSRw8iypmDE9yS3xSzeUB4dN8me3ataBWu8224U5QE1TKgjAv+Bj9NRm1hSs/rUfmHlWy639saO1jWuYMyCiBCP7mk/3Ums0JndxzlC/UMeuNUrntTsDoabn57KzflAwTiq2tfnwWwmc0FJiJOj4vh26ZvAp3gyDR6Z3uWHcvx4Ph8ZglADLrVVXngiQF5n0DsDOkZrmXRm/ksK6jyo3ua1N795Sd/oWbjJaMCv6ACJiGfvqg7RA1eWA==;hgeNi8VNzmdnnygMDQ4ozA=="
+secured: "s5XBz7FcZQOUxZR4VUGQifxiK/RLdVDZ95XwKLYOSSDtYltkbwEuUZCD1oj+MGAL8FlypKo3P+I7Hv+DH9qlY+IugxoeCP/bK4xT4P+JteOEwGUlKrLQrYYjrQrURqWqjzCekQiB2nddZbOMG31/X/i4nzV8d/yA/gKwE9ybRIngAs6yUZ4Sd3Ha07Q94SdVakgk7TbuBsh7SkpcNkEZetfbKGAXSqBu5dDE5+J/a6wUVv5DwBrsv0MbOG6l9EoApOFSNce/Gw2siIukG6B60sFJT74mjHjT98A5rbwqwAIDShm0DC8hAhNA0ZRr75Jo9CtYVmKxCwxCqTQ3J1f/mpZ2jTG9cnJRzXjTqzpZbgKtd5mv1gu5yp3UlmFxFIiyyP4jndrrPspmtjzp8fHG7g==;dISgd50xhufB98xCQFWZ/Q=="
 ---
 

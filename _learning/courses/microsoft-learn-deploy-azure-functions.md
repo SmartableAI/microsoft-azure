@@ -8,7 +8,7 @@ length: 46 mins
 ratings:
   count: 200
   average: 4.71
-heat: 50
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Automate Azure Functions deployments with Azure Pipelines"
 
-secured: "jmOsOgmnHTU5yT8WMGvhUA0GtyJ8RWH8x1xyz9kaAxU8VaFdEehGMnHNkL9TOvZYtndslsVDJ7LJVHG7DskanZAAYevu8/eNszutR2ix+o4IIGqpH3hz2FZpZLSPFEbYkEYkI659gyJFP+UiNDWrvSmuq6SZYO4AWVTiY/NxrG4f/B21vfeQl/gnSmzZrBKvs64cm2hnXRkjPqctSGPP1mPX3EUY0jgVECw08K90rcaAIzJrY0DBxkmSgEFNuL7wLVgyvzmIyB0D7IYr33ZdFwWvQudFKUVsJXQYVwZqxi5hF0QRR4EUFySYob+a94mMSqcFnv9H2qj5FIrEsq/HGxe9keiJL4Ssmvjsvv964Euy9nMKYyYa/5FOJgmoBibTeVtvtH2e7L2w3qV+mqSqzg==;hwrIfNZVz9WKhI0ZJa1r5A=="
+secured: "T98Ns8LbRhrhSuxSQ2+lhKuQk8bafjE5k9v2OUN0oypVhE+EEMed+g0QbnEXPk1GeH172VZr/mAwQ1Wy8ou4tmgEeLDxSEgBcYJLzjc/d7cBqUJF8rx+OUViOmwChv9am82B2dqPSpU6mIsYf6pa99TyrwuGYR7X2rJgCnulJm8Q27GTrxt7R0qbMZE0RCS3nBCmswKqNiCUN+ddxo88Wsv/Fo4cBf2/dOhk3CwFgzM2R61MHiAGz475/jhzjHBHPfjFEwo2nu/HkojgRai7boetP67CsFtnGxZ2cZvbVIo/vnsxPVCS6oz7CGV/49Pk4NCKA3rLhEDUeIXbKMLWdg6igltDLdFbTmLOn6cSn0QX1jC5VY1lvSHdbiel6xe6+YzNOpsPRmBcu2sN3raF0g==;RkJMEbCJS6gAhCCIDIeC4w=="
 ---
 
