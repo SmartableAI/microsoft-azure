@@ -130,6 +130,15 @@ related:
       name: Autoblog
       domain: autoblog.com
     quality: 5
+  - title: "Device Authority’s KeyScaler IoT Security Platform Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers now gain access to Device Authority’s KeyScaler to take advantage of the scalability, reliability, and agility of Azure."
+    publishedDateTime: 2020-06-23T11:50:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200623005500/en/Device-Authority’s-KeyScaler-IoT-Security-Platform-Microsoft"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 3
 
 secured: "Mw4ap3Mn30iI7z7xtiISYC0NLdkZzZ0UiCUm89u9xf3xzc96t/ESH8AFYMoynhZTETbhAtR66Gg1WTDvG4pFmlSMOtsdtb9Uruk0I4mFmvV4TuKmUVBvCDRh9GiklkQkPTbzHJoOCb5v6HD8cs9UE5vBGIUUYgloqNHLoK1plbnodE3q/+jEjkzCdVvJakz+3vXRaDsfGEshTL5bnsqDmc78wm7Nw9LjWmVGtXf7GepdyChdh2JfNzut164GqCUNndXiZVTu/G9+g1qPZr7p7H8KtbxSg4ORgb2TOrGp2fX4U25wUykNwkC2ZY9Ep3+hi8HPTgDTTRLVr2FGRFWy/6DnuKclELzFbgEIN6HqP3rKp9d8lZ2TA42xd3cBsT/+wxlwlb5XOte02H3zMJxHSdkx9CfVmK0l+UujMav97m7umd0O/2ZO4mkz+muazaYIdoBL69+n1l3g89rMPOKCV/uPcR7VreTu7wELlOHmwjxLffqqO+SyLDKvp4FhFSvdzfTyUlhu4ZxaqpU68c2m1A==;sn2wH+y+MtQDZ2Np2IcwIw=="
 ---

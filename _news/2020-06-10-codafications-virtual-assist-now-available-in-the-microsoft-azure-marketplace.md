@@ -8,7 +8,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/codafication-s-virtual-
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
 type: article
 quality: 73
-heat: 233
+heat: 253
 published: true
 
 provider:
@@ -132,6 +132,15 @@ related:
       name: Autoblog
       domain: autoblog.com
     quality: 5
+  - title: "Device Authority’s KeyScaler IoT Security Platform Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers now gain access to Device Authority’s KeyScaler to take advantage of the scalability, reliability, and agility of Azure."
+    publishedDateTime: 2020-06-23T11:50:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200623005500/en/Device-Authority’s-KeyScaler-IoT-Security-Platform-Microsoft"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 3
 
 secured: "/hISVyc3CYTNjS0FPVDpgMbn8UdeKxD0flBrwKbVNN5sQ/TAk7Gb7s5gusabeYBFdUXZdxUNAw5+VlMl65oLBD1LLSEixEe1JHN1kEep0pdll+p/c5LC7OKEN4lsOzqlrdRfIJSBTvcskBmzMSh7Z8Tq45UT0J15TEnxV0XvsoieA3NolYycR1WBbmNBImkcx5bgoWLDLYBMUVOOu8kT/P/KYa1HOR1EpsKmPe8MpJiS38JfOVgrYbqzhHDQIg0Qf+WVU+/Gpz4IN32YDsMbIyrm04LsGDH6QSBZtLp8iiwkLcB6vhwhnVm1GTYTsEQI;Hksodcc4AXtkQX1pqflbRw=="
 ---

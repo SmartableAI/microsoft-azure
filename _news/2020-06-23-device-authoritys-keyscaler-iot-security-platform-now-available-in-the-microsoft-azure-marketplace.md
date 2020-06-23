@@ -1,27 +1,20 @@
 ---
 category: news
-title: "eBaoCloud InsureMO is Now Available in the Microsoft Azure Marketplace"
-excerpt: "SHANGHAI, May 20, 2020 /PRNewswire/ -- eBaoTech Corporation today announced the availability of eBaoCloud ® InsureMO ® in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. eBaoTech's customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined ..."
-publishedDateTime: 2020-05-20T15:30:00Z
-webUrl: "https://www.prnewswire.com/in/news-releases/ebaocloud-insuremo-is-now-available-in-the-microsoft-azure-marketplace-800602677.html"
+title: "Device Authority’s KeyScaler IoT Security Platform Now Available in the Microsoft Azure Marketplace"
+excerpt: "Microsoft Azure customers now gain access to Device Authority’s KeyScaler to take advantage of the scalability, reliability, and agility of Azure."
+publishedDateTime: 2020-06-23T11:50:00Z
+webUrl: "https://www.businesswire.com/news/home/20200623005500/en/Device-Authority’s-KeyScaler-IoT-Security-Platform-Microsoft"
 type: article
-quality: 37
+quality: 3
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-    title: "eBaoCloud InsureMO is Now Available in the Microsoft Azure Marketplace"
 
 related:
   - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
@@ -64,6 +57,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "eBaoCloud InsureMO is Now Available in the Microsoft Azure Marketplace"
+    excerpt: "SHANGHAI, May 20, 2020 /PRNewswire/ -- eBaoTech Corporation today announced the availability of eBaoCloud ® InsureMO ® in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. eBaoTech's customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined ..."
+    publishedDateTime: 2020-05-20T15:30:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/ebaocloud-insuremo-is-now-available-in-the-microsoft-azure-marketplace-800602677.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "KlariVis Now Available in the Microsoft Azure Marketplace"
     excerpt: "KlariVis customers can now take advantage of the productive and trusted Microsoft Azure cloud platform with streamlined deployment and management."
@@ -130,16 +137,7 @@ related:
       name: Autoblog
       domain: autoblog.com
     quality: 5
-  - title: "Device Authority’s KeyScaler IoT Security Platform Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers now gain access to Device Authority’s KeyScaler to take advantage of the scalability, reliability, and agility of Azure."
-    publishedDateTime: 2020-06-23T11:50:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200623005500/en/Device-Authority’s-KeyScaler-IoT-Security-Platform-Microsoft"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 3
 
-secured: "9hrQ+fTFHx9xGqgk3+RzLf50LNWM6+UDR1wMP8igR/mHrYOkgN6Mh0AIVc4KWvXB4+eBJuzQBPqFqKGGra38Ov/6oMEjFFYgf3FMataz0XJH3uvJLuUQ3P3NsNAPlr0DLWizNPpztftHJr9w+YIQ/NtUFYwUGOh8gIqpM9XTMtzGF/++qXneqxRgHSjC+4czEVDevcJi4CvbXgUu29ZGY6KO0FybB8OYi5fMmf09XsZ+ApQSa6GgkrH/SuS2LtjdQuPinxo0S9NdEzWXV96jw7LwgrE+uxR2T9OMmT7tldc5FFeN2UvpE1IOuOTJk0oC;69SYvbSv+3SwSE4zFEB8Aw=="
+secured: "rBOMNxERV4AF88zeDMTUujZ/s8v9DEK5BG1HGSj90PfVULLVocskoVZoYJE8XfwXEMDk3iXPHINDJeGmbIm/YJoDdLdY29+2+ndq1/uUQU4MrksYfDPqqChHDlKFnxzM9AAGUKPzPasOJeie2q1D0d2FRZXFN5asE8oxTZ1y8fp6ArTFqs5zrGWWCsug4f97V1KAUQcK9B9qIZGXey/XD4wwrLSA2Q4lhadk8mrLYJwDUh4Grrym3SEKng452EHDPVv0OOY8HxQqs5rztz8HpINLIq/mTkgt7ah+CADbAenO9ddSFppQeM41Smmuul1WUmAPUf0vBpmh697g//8NuQ==;FYcdHLlLeJjKK65VLb0OEw=="
 ---
 
