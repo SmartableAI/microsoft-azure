@@ -1,25 +1,25 @@
 ---
 category: news
 title: "PrimeKey Releases SignServer Cloud in the Microsoft Azure Marketplace"
-excerpt: "PrimeKey, one of the world’s leading providers of public key infrastructure (PKI) and digital signature solutions, today announced the release of its SignServer Enterprise Cloud Edition product in the Microsoft Azure Marketplace,"
-publishedDateTime: 2020-06-16T11:44:00Z
-webUrl: "https://apnews.com/PR Newswire/63a3c8e6a6240832c128204183d6821a"
+excerpt: "Azure Key Vault is Microsoft's hardware security module (HSM) tool for securely storing and accessing keys, passwords, or certificates. Firmware and software running on an IoT or Industrial IoT ..."
+publishedDateTime: 2020-06-16T11:47:00Z
+webUrl: "https://www.prnewswire.com/news-releases/primekey-releases-signserver-cloud-in-the-microsoft-azure-marketplace-301077438.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1190637/Alex_Gregory.jpg?p=facebook"
+    width: 1000
+    height: 523
     isCached: true
     title: "PrimeKey Releases SignServer Cloud in the Microsoft Azure Marketplace"
 
@@ -138,6 +138,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "HCtCAKOTnKWATehagW/A57DkxqmG6jhECrLSx5Qn0V5IzmTShYvRziA1RVKD/T5Ir6RCzRidY/QGJibPFhHwh01jxwtAzp+47u0cO41I4Uko6m9433k6LpzLsgxugn5a95fDW2CrXs4RWLPy51ZuBtA8OF4JlP9zHPCZJ2THJsP7NEOjXjhc8VK7T04QBiNmAJ2shyW1UvHOAfLtvUuijDcrlZOWXaL7O1tWDqJOLCTqjVMxwETHnbVZNtSFm8PUbRAgSm5APraro3ruCcAp/oidyDuwuptVDrXV99kD6ElitN7teuqK0gSbuU6w0Wo9PIWsG7dDuhZhq95v3Idgaw==;1a5ERXM6VuyNv81pbvHMQw=="
+secured: "ymPRVSwohFIfpx+r/78z+3n4O5plKbnBeIm0ngRX0HmCILidY614/MTyyos5BGF26OPmqhwQi11tLbsp5iExHcqV1C6wLkqT/NHKJvRKOrVkvELhF6+dSwW//V6Pej1L1OmP2J7FVH5nS7bVTY6h4T4DoAJw+9FXuI/eqO0sQTVlAAaQ2IJkeSWK51fdrPmWDMtfy0HHnmxoV9pBhvNS5dYEwvlQI8raftDwvCJqRG+/SnRm50JFh1nckYXhGKou6jX8VBXMwYbrfjU+4xBrN2bOrWscqWlF9IwNRMfvuXRTo3kOmZ/Kozb/Q1Trrt5ZjFZfVBg829Il4ogXdcgupA==;lj1exoIRCLTTKJfdOfc0tQ=="
 ---
 

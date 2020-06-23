@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Zixi Now Available Through Microsoft Azure"
-excerpt: "Zixi Broadcasters will be deployed on Azure using ZEN Master, a control plane that enables users to manage large-scale configurations to orchestrate, analyze, monitor, alert and report on live video streams and devices across the Zixi Enabled Network."
-publishedDateTime: 2020-06-17T14:56:00Z
-webUrl: "https://www.tvtechnology.com/equipment/zixi-now-available-through-microsoft-azure"
-ampWebUrl: "https://www.tvtechnology.com/amp/equipment/zixi-now-available-through-microsoft-azure"
-cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/equipment/zixi-now-available-through-microsoft-azure"
+title: "GAVS Technologies: Zero Incident Framework (ZIF) Now Available in the Microsoft Azure Marketplace"
+excerpt: "Microsoft Azure customers worldwide now gain access to ZIF to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies PRINCET"
+publishedDateTime: 2020-06-23T04:20:00Z
+webUrl: "https://www.finanznachrichten.de/nachrichten-2020-06/49985840-gavs-technologies-zero-incident-framework-zif-now-available-in-the-microsoft-azure-marketplace-200.htm"
 type: article
-quality: 57
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: TV Technology
-  domain: tvtechnology.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - Azure
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/b4pDwTCQEtLC6nRcpfpfYB-1200-80.png"
-    width: 752
-    height: 423
+  - url: "https://www.accesswire.com/users/newswire/images/594875/image-20200623114459-1.jpeg"
+    width: 1223
+    height: 476
     isCached: true
-    title: "Zixi Now Available Through Microsoft Azure"
+    title: "GAVS Technologies: Zero Incident Framework (ZIF) Now Available in the Microsoft Azure Marketplace"
 
 related:
   - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
@@ -37,6 +35,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 73
+  - title: "Zixi Now Available Through Microsoft Azure"
+    excerpt: "Zixi Broadcasters will be deployed on Azure using ZEN Master, a control plane that enables users to manage large-scale configurations to orchestrate, analyze, monitor, alert and report on live video streams and devices across the Zixi Enabled Network."
+    publishedDateTime: 2020-06-17T14:56:00Z
+    webUrl: "https://www.tvtechnology.com/equipment/zixi-now-available-through-microsoft-azure"
+    ampWebUrl: "https://www.tvtechnology.com/amp/equipment/zixi-now-available-through-microsoft-azure"
+    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/equipment/zixi-now-available-through-microsoft-azure"
+    type: article
+    provider:
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 57
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/b4pDwTCQEtLC6nRcpfpfYB-1200-80.png"
+        width: 752
+        height: 423
+        isCached: true
   - title: "Qore Technologies' Free 3Months Usage Plan for Qorus Integration Engine Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to free use of Qorus Integration Engine to mitigate the business implications of COVID-19 PRAGUE, CZECH REPUBLIC, April 15, 2020 /EINPresswire.com/ -- Qore Technologies today announced the availability of a free three-month usage and consultation plan for Qorus Integration Engine in the Microsoft Azure Marketplace,"
     publishedDateTime: 2020-04-15T11:11:00Z
@@ -93,20 +107,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "GAVS Technologies: Zero Incident Framework (ZIF) Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to ZIF to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies PRINCET"
-    publishedDateTime: 2020-06-23T04:20:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-06/49985840-gavs-technologies-zero-incident-framework-zif-now-available-in-the-microsoft-azure-marketplace-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 24
-    images:
-      - url: "https://www.accesswire.com/users/newswire/images/594875/image-20200623114459-1.jpeg"
-        width: 1223
-        height: 476
-        isCached: true
   - title: "Parabole.ai announces the launch of TRAIN™ 3.0, the Automated Machine Teaching Platform on the Microsoft Azure Marketplace"
     excerpt: "Parabole.ai today announced that TRAIN™ 3.0, its MACHINE TEACHING PLATFORM is now available on the Azure Marketplace. Parabole's unique"
     publishedDateTime: 2020-06-03T13:12:00Z
@@ -131,6 +131,6 @@ related:
       domain: autoblog.com
     quality: 5
 
-secured: "L1mKw3SQNkLdLPk1PaLX9ULLcWvqg70fwPQc5U9muEbIH5teFG7EEmB/DkHDABcfviXHYY6mBqm1LSDSS0XI+LelHbUIxSi4xMRPtw+8loKt/+v5Wawu237q+DArFzSdJYYFnfKUvBJIWJvqP7MH3FUGSnJlATAj6RApsUJcBAU9XzB2dhDSlNEH6etVMKkP+efQbLSbO0tw0Os1/lbKXeZsYgTMNErAyHpcQoExYMH1dJibO6LT5IYj42p+klAN9sdDokNH5RhA7EAA794QqIvSYTs/kicU++O+4AKeWAPo7wsYFvbcBfqin689yUINkTe1V4sMbwAS8SAZYawLFs3FEzpWm2BOu9LztQQGmXKgO+KlO5uJZksEdlzOqwj2aeiJs++FPRBdZe4O9+jikWAFIk2vWYwpxgMg2F3qNaq3A5ihpZEnrKtb+iZsrZt13eK+UjA+E5EbsiE/eqnsrRPB4tIo9/iMVWx8EDFDYvUa9rcdYuTN6OtsKZcXROa/TaGdBJ/M8c65YxBc7ZRSmg==;T+8AEWQ4Tss6kM/6BXlO3w=="
+secured: "DjCSdtHR6J4nt/+H31DR/4bZNf32RC0cDrUEl8P/9LdotoxFfW1+PZ4VBMI0yWjmvEasyvd0Cbju9ceqVGKDp/j5BeJEGlZWLhkWGtJ6jeLrtt727BUB+rwSmQK2X96N3UEthMztvuJNG+Y+jQQS5tKo4N+MY6+f8haXmNJJ1YSWrC78WT5mmTj5m5yAzHrX44UcdIhd4LmTSaHTlxUWw6c5R9GVmrTjBAV//Z0aAHeRSFooGQzLYMBDS/rttVgXUQp7TDaWAYgIKNdq0SveSHKolfuMbLQVMbqDcKUi2JDvGqF16H8jvOKak6dAy6hNWmyVIzmuTr+uroWn5EoBbw==;oQy3OOXf5MtjYrWuVfpXkg=="
 ---
 

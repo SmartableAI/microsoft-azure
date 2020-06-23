@@ -80,18 +80,18 @@ related:
         height: 400
         isCached: true
   - title: "PrimeKey Releases SignServer Cloud in the Microsoft Azure Marketplace"
-    excerpt: "PrimeKey, one of the world’s leading providers of public key infrastructure (PKI) and digital signature solutions, today announced the release of its SignServer Enterprise Cloud Edition product in the Microsoft Azure Marketplace,"
-    publishedDateTime: 2020-06-16T11:44:00Z
-    webUrl: "https://apnews.com/PR Newswire/63a3c8e6a6240832c128204183d6821a"
+    excerpt: "Azure Key Vault is Microsoft's hardware security module (HSM) tool for securely storing and accessing keys, passwords, or certificates. Firmware and software running on an IoT or Industrial IoT ..."
+    publishedDateTime: 2020-06-16T11:47:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/primekey-releases-signserver-cloud-in-the-microsoft-azure-marketplace-301077438.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 37
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/1190637/Alex_Gregory.jpg?p=facebook"
+        width: 1000
+        height: 523
         isCached: true
   - title: "Microsoft Acquires ADRM for Azure Cloud, Intelligent Data Lakes"
     excerpt: "Microsoft acquires ADRM Software; sets stage for Azure customers & channel partners to build intelligent cloud data lakes."
