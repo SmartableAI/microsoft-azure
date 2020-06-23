@@ -30,6 +30,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Azure Automation updated DNS records"
+    excerpt: "To support new features in Azure Automation, like Azure Private Links, the automation URLs have been updated. Instead of region-specific URLs, there are now account-specific URLs. "
+    publishedDateTime: 2020-06-23T00:00:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-updateddns-records/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "HBv2-Series VMs now available in Japan East"
     excerpt: "HBv2-series VMs for HPC now available in the Japan East region."
     publishedDateTime: 2020-06-15T23:00:00Z

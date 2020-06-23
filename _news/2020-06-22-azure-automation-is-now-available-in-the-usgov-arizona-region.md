@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-22T16:00:33Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-generally-available-in-usgov-arizona-region/"
 type: article
 quality: 77
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -25,6 +25,15 @@ related:
     excerpt: "Confidential computing DCsv2-series virtual machines (VMs) are now available in East US, Canada Central, UK South, and West Europe."
     publishedDateTime: 2020-06-22T16:00:41Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-confidential-computing-available-in-west-europe/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure Automation updated DNS records"
+    excerpt: "To support new features in Azure Automation, like Azure Private Links, the automation URLs have been updated. Instead of region-specific URLs, there are now account-specific URLs. "
+    publishedDateTime: 2020-06-23T00:00:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-updateddns-records/"
     type: article
     provider:
       name: Microsoft

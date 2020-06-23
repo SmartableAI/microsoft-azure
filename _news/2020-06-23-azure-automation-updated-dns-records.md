@@ -1,11 +1,11 @@
 ---
 category: news
-title: "HBv2-Series VMs now available in Japan East"
-excerpt: "HBv2-series VMs for HPC now available in the Japan East region."
-publishedDateTime: 2020-06-15T23:00:00Z
-webUrl: "https://azure.microsoft.com/en-us/updates/hbv2series-vms-now-available-in-japan-east/"
+title: "Azure Automation updated DNS records"
+excerpt: "To support new features in Azure Automation, like Azure Private Links, the automation URLs have been updated. Instead of region-specific URLs, there are now account-specific URLs. "
+publishedDateTime: 2020-06-23T00:00:37Z
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-updateddns-records/"
 type: article
-quality: 62
+quality: 77
 heat: -1
 published: false
 
@@ -39,16 +39,16 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Azure Automation updated DNS records"
-    excerpt: "To support new features in Azure Automation, like Azure Private Links, the automation URLs have been updated. Instead of region-specific URLs, there are now account-specific URLs. "
-    publishedDateTime: 2020-06-23T00:00:37Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-updateddns-records/"
+  - title: "HBv2-Series VMs now available in Japan East"
+    excerpt: "HBv2-series VMs for HPC now available in the Japan East region."
+    publishedDateTime: 2020-06-15T23:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/hbv2series-vms-now-available-in-japan-east/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 62
 
-secured: "UAOgNpSIc+mkSJJHtGR11yUKW9WToxi+QBIHDfT8FjptF6KRNxedQDl6KMZXJZljexJDDin7+Xi5LqTBpv+fYGIWGIBRvA58skP2vW22xWm0SGAe1Vzvq5b+aTW7LLLiKUTLZqkIp5eSYRXxhN0yCRaiHCV1GNR9Gqd8ybSKQiAgLxIV/qhfoAFrARjY74hwkxvXHAwfTF/INdMhHG5YRUrqF8Do+epQysCQvgROdWvXni6W3YRILA166+vhPl+p8D6ssdgoxEuzRqs4lo72GsZTNMEI9Ewsnc3j+S0SttG8m7mXOB3SbvBzgSfQTr2Oj9C2UE1+ZesfWYyVZqSLqA==;NZ/B5E5gb250St9wnljr5w=="
+secured: "YE9cgmtYp71amY1qk+KPrInfQtbkaQI/8dBw+HLOaLUBfvg5jqq35oxfosBp6skPQwEkZkBHAW8X9RxaOEx4VoEoEW2EaLHBQoBZCpTxbuPCTTOelulaFi3RKx9k9tOgcJmwN9pI12SwNoSoFknRzVkyE//iICef0UD84A0ZP/krUFcC4+2TnKCPY2Eaanib7KG2VEFkn1A++Cl0IPtEOzaEJTNDYrh+pZP1hEn0XvRUhyCP+GmzOcKnwfEr6/Fv8r4Sfv57A8PXxjXMmc7/MwxYc6gn/hS7NJ4bcbEoHaiyxQsF7yaVl09e4+avL6kmE3NyYygpeRU5jq1ob99oqg==;RwQuXhJmMt8Ies8WWKnokA=="
 ---
 
