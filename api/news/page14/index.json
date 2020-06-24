@@ -2,6 +2,83 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-02-24-preview-of-active-directory-authentication-support-on-azure-files.md",
+      "title": "Preview of Active Directory authentication support on Azure Files",
+      "excerpt": "We are excited to announce the preview of Azure Files Active Directory (AD) authentication. You can now mount your Azure Files using AD credentials with the exact same access control experience as on-premises. You may leverage an Active Directory domain service (AD DS) either hosted on-premises or on",
+      "webUrl": "https://azure.microsoft.com/blog/preview-of-active-directory-for-authentication-on-azure-file/",
+      "heat": 101,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-24T00:00:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Serverless",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_news/2020-02-20-azure-security-center-for-iot-rsa-2020-announcements.md",
+      "title": "Azure Security Center for IoT RSA 2020 announcements",
+      "excerpt": "We announced the general availability of Azure Security Center for IoT in July 2019. Since then, we have seen a lot of interest from both our customers and partners. Our team has been working on enhancing the capabilities we offer our customers to secure their IoT solutions. As our team gets ready to",
+      "webUrl": "https://azure.microsoft.com/blog/azure-security-center-for-iot-rsa-2020-announcements/",
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-20T01:00:27-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
       "path": "_news/2020-02-18-azure-firewall-manager-now-supports-virtual-networks.md",
       "title": "Azure Firewall Manager now supports virtual networks",
       "excerpt": "This post was co-authored by Yair Tor, Principal Program Manager, Azure Networking.\r\n\r\nLast November we introduced Microsoft Azure Firewall Manager preview for Azure Firewall policy and route management in secured virtual hubs. This also included integration with key Security as a Service partners, Zscaler,",
@@ -1014,100 +1091,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2019-12-02-faster-and-cheaper-sql-on-azure-continues-to-outshine-aws.md",
-      "title": "Faster and cheaper: SQL on Azure continues to outshine AWS",
-      "excerpt": "Over a million on-premises SQL Server databases have moved to Azure, representing a massive shift in where customers are collecting, storing, and analyzing their data.\r\n\r\nModernizing your databases provides the opportunity to transform your data architecture. SQL Server on Azure Virtual Machines allows",
-      "webUrl": "https://azure.microsoft.com/blog/faster-and-cheaper-sql-on-azure-continues-to-outshine-aws/",
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a35dce0f-b730-4313-b0ce-57698def7c55.png",
-          "width": 1024,
-          "height": 367,
-          "title": "Faster and cheaper: SQL on Azure continues to outshine AWS",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-12-02T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_news/2019-12-02-application-gateway-ingress-controller-for-azure-kubernetes-service.md",
-      "title": "Application Gateway Ingress Controller for Azure Kubernetes Service",
-      "excerpt": "Today we are excited to offer a new solution to bind Azure Kubernetes Service (AKS) and Application Gateway. The new solution provides an open source Application Gateway Ingress Controller (AGIC) for Kubernetes, which makes it possible for AKS customers to leverage Application Gateway to expose their",
-      "webUrl": "https://azure.microsoft.com/blog/application-gateway-ingress-controller-for-azure-kubernetes-service/",
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c1d791d2-98c0-44fa-a2df-44cfabf7f250.png",
-          "width": 748,
-          "height": 768,
-          "title": "Application Gateway Ingress Controller for Azure Kubernetes Service",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-12-02T02:00:27-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Networking"
       ]
     }
   ],

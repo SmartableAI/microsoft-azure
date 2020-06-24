@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Microsoft confirms acquisition of CyberX to boost security in its Azure IoT business"
-excerpt: "Another big acquisition out of Israel this week points to how bigger tech companies are using the economic slowdown to focus on their longer-term strategies and shore up assets to support that. Today Microsoft announced that it would be acquiring CyberX,"
-publishedDateTime: 2020-06-22T14:21:00Z
-webUrl: "https://techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/"
-ampWebUrl: "https://techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/amp/"
-cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/amp/"
+title: "Data Modernization and Intelligent Analytics with Microsoft Azure"
+excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
+publishedDateTime: 2020-06-24T19:56:00Z
+webUrl: "https://www.computerworld.com/resources/205007/data-modernization-and-intelligent-analytics-with-microsoft-azure"
 type: article
-quality: 90
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techcrunch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Computerworld
+  domain: computerworld.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1175327728.jpg?w=1024"
-    width: 1024
-    height: 683
+  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+    width: 300
+    height: 300
     isCached: true
-    title: "Microsoft confirms acquisition of CyberX to boost security in its Azure IoT business"
+    title: "Data Modernization and Intelligent Analytics with Microsoft Azure"
 
 related:
   - title: "Microsoft acquires ADRM Software to beef up Azure with industry data models"
@@ -45,6 +39,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 573
+        isCached: true
+  - title: "Microsoft confirms acquisition of CyberX to boost security in its Azure IoT business"
+    excerpt: "Another big acquisition out of Israel this week points to how bigger tech companies are using the economic slowdown to focus on their longer-term strategies and shore up assets to support that. Today Microsoft announced that it would be acquiring CyberX,"
+    publishedDateTime: 2020-06-22T14:21:00Z
+    webUrl: "https://techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/"
+    ampWebUrl: "https://techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 90
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1175327728.jpg?w=1024"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Microsoft and SAS partner to bring more AI solutions to Azure customers"
     excerpt: "To that end the partnership will make it easier for Azure customer to run SAS-based workloads in the cloud, with it said to also hold value as far as digital transformation goes. “Through this partnership, Microsoft and SAS will help our customers ..."
@@ -104,21 +114,7 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Data Modernization and Intelligent Analytics with Microsoft Azure"
-    excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-    publishedDateTime: 2020-06-24T19:56:00Z
-    webUrl: "https://www.computerworld.com/resources/205007/data-modernization-and-intelligent-analytics-with-microsoft-azure"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 37
-    images:
-      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
-        width: 300
-        height: 300
-        isCached: true
 
-secured: "dGKgvYSXKzxB/Cpwcth+mWYp2LNRjC5+SsPusk1Mxcq1OZkmXAg6VORqGpGsPXR+DltQ+NEJ+U30X3zsTE+FG/9ArONHxzEa4nVTEx6DTWf/usZMAlbolqzS8yBsXAtn50MCNG+ai87rHJLerUXXgI+Hckqo02XiaAzkFSuotDblpLf9p5n5aI7U5vXBoPB4Lc5MJQSBT4d53mPbuyaurtYwARQa2Nskozvsk86myiblcXE4yeG41KUlnru4oFMXd7aWr+CeHViZGVGUtwLYdvQ39fpSBqEQ6kE7qF1OP1l020qObZUwvpdnt60lXXjHd+5LYMCbHEXEiJIgJUMQ1HGNFwX5f+t7dw0VTyUaiWLkMchU9EX7tpAbZG9ejR2ql3kYFhcK/jEBEKXuUcKvZdD7OSXBPDt8dxUB3nezOYiv2AgixNrAGLwEqLxpcLn66jlVhVDb6yXJCqkmsY+wQotqM8xl/8pn0V8vKSkkHQeATft+MG1C5Xttbtn+7Axcs+N3rBQ5P7tBxPc9NMeVbQ==;RQEUYgtfdNTrO8uZBqXajg=="
+secured: "50WpWZHi+V6UNmzC+5+2j+B993G1A+X88014R8ZQ7TuejyzvvEZHhb8BI34X0LJClacdGqoRfvcJhJLuuZOnJK9Z8YvWluB+pD6e3FniXy+3Zrya6KcZTfWfoWP+SCHGhla8LLj2wFyieTaVQkpZn4ieuoCW+JhYvy+KuHSXu+g1OsKPUBdpdNzEyjFwl7bgDVc1rtFe/Mh8i3OUNXOZ/7iQalid2Xq8fF3kfA3LoplqBNXl9BWDWxs9gAe9inhzERq6WoZOMn52FABEU17vxhHUl0L2C85hcQhacruwbhgr0Pyh6xHN5Yzz9jbkNdUIzKCWuirSJIJ+IQBeYy2KvA==;CtYpCLbh7YAIulrlbrfpHQ=="
 ---
 

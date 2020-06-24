@@ -100,6 +100,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Data Modernization and Intelligent Analytics with Microsoft Azure"
+    excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
+    publishedDateTime: 2020-06-24T19:56:00Z
+    webUrl: "https://www.computerworld.com/resources/205007/data-modernization-and-intelligent-analytics-with-microsoft-azure"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 37
+    images:
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "evPPZ5WE388a0YKD5I6fy2YncwIReUs+lM4uVD5b3oNBoEKXyZTukcjM+uFtyk/9BU6aTVWG36niIYwckt2hyblgji8q9nvqvVSIDWYqvhr4mPovIKBUFweV76lC+Iw2TOKpiV1AlrRuhxhMyBNOScqxWCVdsx5NlMtpJ8drdJIqIAuVfsQHf+m0J4p/8DN4Gqn4/zooQdmznO0THtY9gUMV3kuyJHL8gZGJ0CYBmlfcy9+zhJfmFRZ9sbayxxOBkNvjjE48GFS60yBLkszh16zqsZEozI5Dri5/jQjVfPh68TY9wJIS5MBSVzXN2oUO+khXqhfySRKOyTuCJCXyZA==;opA1rx0oWR4sbL516gd/4g=="
 ---
