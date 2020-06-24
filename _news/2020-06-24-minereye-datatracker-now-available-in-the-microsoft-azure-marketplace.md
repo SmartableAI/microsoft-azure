@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Parabole.ai announces the launch of TRAIN™ 3.0, the Automated Machine Teaching Platform on the Microsoft Azure Marketplace"
-excerpt: "Parabole.ai today announced that TRAIN™ 3.0, its MACHINE TEACHING PLATFORM is now available on the Azure Marketplace. Parabole's unique"
-publishedDateTime: 2020-06-03T13:12:00Z
-webUrl: "https://www.prnewswire.com/news-releases/paraboleai-announces-the-launch-of-train-3-0--the-automated-machine-teaching-platform-on-the-microsoft-azure-marketplace-301069421.html"
+title: "MinerEye DataTracker™, Now Available in the Microsoft Azure Marketplace"
+excerpt: "MinerEye, a leading data protector company, today announced the availability of its innovative DataTracker™ via the Microsoft Azure"
+publishedDateTime: 2020-06-24T13:05:00Z
+webUrl: "https://www.prnewswire.com/il/news-releases/minereye-datatracker-now-available-in-the-microsoft-azure-marketplace-301082797.html"
 type: article
-quality: 11
+quality: 37
 heat: -1
 published: false
 
@@ -17,11 +17,11 @@ topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/963377/Parabole_ai_Logo.jpg?p=facebook"
-    width: 2697
-    height: 1414
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
-    title: "Parabole.ai announces the launch of TRAIN™ 3.0, the Automated Machine Teaching Platform on the Microsoft Azure Marketplace"
+    title: "MinerEye DataTracker™, Now Available in the Microsoft Azure Marketplace"
 
 related:
   - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
@@ -93,20 +93,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "MinerEye DataTracker™, Now Available in the Microsoft Azure Marketplace"
-    excerpt: "MinerEye, a leading data protector company, today announced the availability of its innovative DataTracker™ via the Microsoft Azure"
-    publishedDateTime: 2020-06-24T13:05:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/minereye-datatracker-now-available-in-the-microsoft-azure-marketplace-301082797.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Greater Than Make Enerfy Loyalty Now Available in the Microsoft Azure Marketplace"
     excerpt: "Greater Than, today announced the availability of the cloud-based loyalty program Enerfy Loyalty in the Microsoft Azure Marketplace,"
     publishedDateTime: 2020-06-11T10:01:00Z
@@ -135,6 +121,20 @@ related:
         width: 1223
         height: 476
         isCached: true
+  - title: "Parabole.ai announces the launch of TRAIN™ 3.0, the Automated Machine Teaching Platform on the Microsoft Azure Marketplace"
+    excerpt: "Parabole.ai today announced that TRAIN™ 3.0, its MACHINE TEACHING PLATFORM is now available on the Azure Marketplace. Parabole's unique"
+    publishedDateTime: 2020-06-03T13:12:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/paraboleai-announces-the-launch-of-train-3-0--the-automated-machine-teaching-platform-on-the-microsoft-azure-marketplace-301069421.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 11
+    images:
+      - url: "https://mma.prnewswire.com/media/963377/Parabole_ai_Logo.jpg?p=facebook"
+        width: 2697
+        height: 1414
+        isCached: true
   - title: "Greater Than Make FIA Smart Driving Challenge Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to FIA Smart Driving Challenge provided by Greater Than, to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies."
     publishedDateTime: 2020-05-05T13:06:00Z
@@ -154,6 +154,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "1pa75HQXb5i0ItdrSxyGUjWjWjb4Ef7ZsVekpS4WUA2KE3aGvIrl67u4N/ViYlFgxagy3Eq3XrN2+5LLQs/2h+LMlWTBc+USWO8vaodq/Bv+aI8AySOAu+Cw3N97jSb4Y0QtrCR5wNRX5tjEEcvuMCGzac5CT2ZKV+2fal6n/DCfd+nV/EA0DVk7NOOoN8GwCqNLKPow0NU8Bo1aFiLRo46iuD44atfSVjR6dwOq450R+ciK4ySgCuoWIsHNchA/EjgGfmBqvcKDz2W/slTTe0sx5H35lnmWHq1u08GVLTEelMfcjxP35e56IjemWwXfzWe7QEms1S4+Hyze1Gnp58d9lBH6BFAVkf/a4kRtQ1EYLSiKH4ofQRByt+zSMTQrn9/babB80LGgeTCf8B6TxceOc0RDSoOQlmz0J0rDC3eC2tCdSEy4xpOdqnt0J3jOfIQSIrvImmsybKNN0Ayb15CROJyirXHDIXyCNKTH8Pk=;Fje+ZsdYYdBuLYUS+P2ZWQ=="
+secured: "UhqBNg1cNT5MhOcThjotmJMHzRgGnAM5J4pUjbem4gv6Gh0nlIurJv4O2JNuWHgYCMJB3inWQBO3kqb1l0ccNUEXLHdJ9EjbYsOExqSxND+rWWI9GoDd/D8Oki3kg0VxlUa5NBwkKkak0wzgVaogH8/DPS1uPjCYXMgv2hbwtUDRsODVncCv/dL0En+k8VASDuebjdWpzapKbUiqdCi6DrwcuDWcRe/kh5BJa1jDji4rXoOQKtZHu0Dql6+vK9cehNwXNBKjxGLkVhNiNz1/FXZivL31nCRMC05RPN017ou0V+3aYXHx4ePdrVS/gI7UBfxOtVqZ1aJU+z6b+2197w==;cCD3IoGElHuAyiD4edbScQ=="
 ---
 

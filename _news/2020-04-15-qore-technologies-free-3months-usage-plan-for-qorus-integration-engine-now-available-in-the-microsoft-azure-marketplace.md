@@ -83,6 +83,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "MinerEye DataTracker™, Now Available in the Microsoft Azure Marketplace"
+    excerpt: "MinerEye, a leading data protector company, today announced the availability of its innovative DataTracker™ via the Microsoft Azure"
+    publishedDateTime: 2020-06-24T13:05:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/minereye-datatracker-now-available-in-the-microsoft-azure-marketplace-301082797.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Greater Than Make Enerfy Loyalty Now Available in the Microsoft Azure Marketplace"
     excerpt: "Greater Than, today announced the availability of the cloud-based loyalty program Enerfy Loyalty in the Microsoft Azure Marketplace,"
     publishedDateTime: 2020-06-11T10:01:00Z
