@@ -8,7 +8,7 @@ length: 24 mins
 ratings:
   count: 952
   average: 4.6281514
-heat: 61
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Choose the right disk storage for your virtual machine workload"
 
-secured: "ip3551wGLy+FK/4v26ZxC2r7+xud+FTREiwPPIzNDLwGfkDIxerXP+79Yp98PA8Wy9gk89rCrK2VsKSOrSlUQ01S0wAsZI7Ga2JxjR/yrQlAwxtqtelgFKcOIuFDCbIF+wkrAMMCnGWaE/mV8Os+suIXlSnEOOArvpgxrbopeD5NgmNw+03kOsXWsFyvp7ukne7zGtrEwWtsdWPoKaC73bn24UXDXycrVxGq4UimFbnzor2XOaQJHuAoDF68VdV5XHrSYM7pPhhG3Mjpy5EjbsjuAOdQwFletEeiWOi8fVEXDq+nSSYhsr3XiItgso04FBfHnVKCrDNTniomsgd9Aor3br9bvU3tphSPtum4aeYoTp5SRm7ztEVxCLeyfyd8RSEMZjtVglDJNlbBW1KM4A==;8C2NkUIhi3s3laYrXbI+Og=="
+secured: "D2RHHGDuFXg6hHrO5VdlR62d0wfXaE1y+ZgXKliW9rF9zqPN67Zv8PMK/gkegf9E3w3I8UlAsRA+sf3YGOLALUs2kuNr/ZE3BLotnVIg0vzBpvRaPGnWbeY6qiQ/nXquGbdClCg5uUKZwgi3PgdZbhz1zzO07nxYgnKRjd42A3lZXEVbFiUBt+nTgFe+PaZhfGc6xVRQpSNBe96h1BV28wApff0n+828pfUbBRP2a7C12E3UFWItMoU1uDRvO3dgG9BGFRIp6EcHBHfWAg5Xy/z2CNyCMRe8XfvjqgCDqlfPGY9PZwfzvGv5ngIQgjlVgkqKE8DC1ky7B7wg03098ZYNkSjBMhvMF2OXw5ZmJ/L+doFIHHm1QtAXuMdZrHWMRyQR2pqyK/bQaZk10PpqLw==;iRpHJ3NzlTpgaQ90Vu3skQ=="
 ---
 

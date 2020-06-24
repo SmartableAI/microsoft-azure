@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Perform advanced streaming data transformations with Apache Spark and Kafka in Azure HDInsight"
 
-secured: "vsawWMTIdwRH60aaRPJr0BvlgtOHvJNCMPt0If0atcm9cZvBF6xCxVXlxcZdprDJjhdQvztfioRvAPE0NEi9X4luQzRb1svN0PysUh8hYsNX+kEEepUWJlIaMVd+TeB43/mwvLFmG5b5MFH8dXXDmJ4OvfuQcBzHF5HxwtN//FtRBvrXZWRdb4OwpEeSXstEy2svsDVIlV8MtNbhOTbxcahlqUmHkQwq+vNRkPXRUv2/fIdX/tOgN+Na7I65DWz1gSiptvojm7Il1445mfLQGHhDpv1LRXalV/s6HCsivJwcY5cH3lVEsHY3aaa+vIbhD++gEBIXYRbXDIo5NRxfKTNGZtBM/JFkq/PwvaGZhVHRaA+fZg/889PeR3a5+NN5YMi3F9Ucu+66/VrgxT8ZlA==;O2cFxW2YzANThZ00jdTKYw=="
+secured: "srTfGhKSK5Ssnanj/RIDteumQGfMXvTwET/QM1PMR6CQthvkdgpTFl5+1ASNpv4ISF0gCUoumYzpv5O0nGbM/hiBvQsLURlIujBoMclrJNkGX4r1S0cdQZw/qciQGkHEKis14+4uS/3uGoZaAdrEnE7c9Pa/eo6+t2K4jZUNDXG47NcvXLTy8lVNzTNJs0AxVz0faLqQh065wm1Bn0mm/d5ZGWa5oCjVk0jRRaM436Uieyy93WG3s/5BGh3Vm8YJRxT0kDoWp8YK2L4Eu6xGTOCjj8B5/IUetAxkCjXFFw7N4NsC6q9Q9BbLEB/AhNe9HbWNFQDPdvuX6Cm9YeViRVIvf5stL5yKasBPkHqGdGdhOvjR2e58o8Do63lcplTNmvKRzcFfrVCRbY0Mou7eRA==;sOXSSIcs5VVGdqzSE3fyvQ=="
 ---
 

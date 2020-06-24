@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT18M
 ratings:
-  count: 78
-  average: 4.6923075
+  count: 79
+  average: 4.6962028
 heat: 53
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Translate speech with the speech service"
 
-secured: "bweSQuL7eDs2kfE17loZn02JPrfsL+wxi82Vq/b5Yiix4a6cTbit1VnueaydmPzQfuEiS9ZHtEw9HUuxBg10ZGj77uVwsXqP0IFqyf6cJRr9EH9QtyX9kpJ/JylndkIE21lo65MVVN/RiIgrJBaUZSXR3mEZqf5+wIIo/TGtnP4Oeym49tMT7jAtEOpRsE9rh7qsEX15hH1NSivP1PsBDoea/+Bn30icvHGWnnKnLIn2ceuLcBAGPy5dDiEBgRgRY+sS/6brhkLUOjSeT8CQUnhgwP4MZ/6CBX4h/Lqfj5CNuBoXJTRaFNW5Hr4pzSJipUhbk16RoL0gR0IYOAPDhs6e21ZrQKrK08Hb5wwE/5BtN5BYUgOwjSMkxcd3Zr2P8KIXh4kcSl19yw7G48uCLg==;cZmIhptNaq5Rr4cZTcEopQ=="
+secured: "8LKdA3pxYRRSqNauEPkPsJdY04G1TKIxH5fXGiJuCk2/n7HCk9k+zqfzCI48Oh2P7mZnHM4HhmVSTXUz7VKPfUh9mLc5Gvg3q7wOPq9BEtJEAOvK/QFYL68pd4mZ3lNOmyP+9ryaRM3Z8I5xQvJPQMolfTCnpf6GBn070BLvkwhPL3rIBgDlBJr3SD0CBW+KHS3KMhoaA7XXr9iQze3MRjSyT9ELJeIRYxhiBC/c/myNB2mPgrL/8GYhzMW6Nlm2DawymMOhSD7i8smfJ8P9s3ypsOFXoDFU8A1WmyTj0g5IChtlCtnjbgFXRrs3L3vD4Z+oYHp+sVhqQr+NxItrbkgCmeMj8ZmWVpRrqmbh9+yoayyWB1AQlMP5VZUwDeZh3hvLWD8fHXiWO82Et+8MQg==;QivJok7c1IEobtjvhgULmw=="
 ---
 

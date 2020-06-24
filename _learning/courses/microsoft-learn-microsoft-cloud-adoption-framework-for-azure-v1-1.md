@@ -8,7 +8,7 @@ length: 50 mins
 ratings:
   count: 1927
   average: 4.7451997
-heat: 53
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Microsoft Cloud Adoption Framework for Azure"
 
-secured: "id422o7yJWqjy/HOhCdscnoVJOFSG1wjMsbIYqzQAv46/anUbJMtXOKvHlu0LTW3WY+AcK2Fmd7L2iZ8oz1g2quNYAw9uT1iu0EsooFopPmZZm/1FXGjZ2W/2xFesJmXALFkAGQMJs59dwSqpNh7eIRFL+0VngZZ/NrHtxA6yGbhpJ9mOiAU7eg6Fb6qrGug70eU4W9pUc4AVwpcmPSq/JDA0PJcnhJH6JpNY/CGiRHKPpEGc2PeKwxnxlkCAhobJsoWNeEWaVJ8lNum6hJsfPK18VyvyAycUjNThnuikDeESbjXtd6oVIJ6HTyU4A4mI9tXSOgPG95Ar0eOwbG+FTt4de2vncxgwpypFE5MWfJ5m/05jqQdNKW1Jf49pV5MGUhKLsPF9sAcMbux7rU0VQ==;42XKojHF9Iw5fl7o1cbhmg=="
+secured: "h7Le9VuIll/CyOTCUjogeKPLLhKXoB9NH33s64dJQNTsLIOePs6rRgVPdDyWJFamZk01D7eZKcWkMlEG6/JhhJeEgNcJiXagcdNnyOv8q3PGzsTRN2ADlo2NU99XKwYERB0ZneMg5lgkLtJpXeTzeyzcST+iWiBjvxSCcPHzOIBEVnDsBZ6++XzMAz1/g2ES+CCvL2hsmuFtgeii+vCkixHqoQbeUHzF3nNdpMPn4Gs8fQx9BGPbOe/pZ4hQrP47XY8FXNdt7AseX7S5tf4w98JVhOg5o3wh/KTnuDsUkQzps765EiaUn/sEWIeQ2gw+3kjq0k+iANz6nAqFLVno3zV444wBy5LrHHD2TdB53QzN206JoWTB/maX7Jf05ZUJw4gYOgnN73Wh3iV93XV8DQ==;KI8xBKoihZTWV60gVqKMSA=="
 ---
 

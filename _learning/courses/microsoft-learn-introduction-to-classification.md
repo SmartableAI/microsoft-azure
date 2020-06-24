@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 60 mins
 ratings:
-  count: 363
-  average: 4.7327824
-heat: 51
+  count: 364
+  average: 4.7252746
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Predict categories with machine learning classification"
 
-secured: "B4ossDrpCYrX/bawhAruzw/97ArKNvNNla1hs/y+j2ikhdNog/q48Yf6QSDwycmvSMvjE5E6UXoFMDzJCLXxAdHt1HFHDxH0xnxisjSdq4WzNQt9KUdZ+Lr1KGWAyorPe3t2rQJYXhQbwAw6urZvSbDDxrP9QErX3UdE4IA4v/9rjKcWwRxJow15FPvAkO3elpRp2aFNo7p6lzNKBLPP2y+oXE9pA157vRulfrLlxyTmDUJ21c2JJLwu+0H77LzI3M20OLY4IgYW5MW3UcRmYYIsFpXajEqMRP7wJh9aejWTn/TiH6yJGyO3iZNswwiyCFccNYhEOP3dBj5zDgY7EQHqz0n03XopEHWhrjD9QRg+m3PM3V8fY0agq14TF8jtbofx1UUljH5EjwseFYDdzg==;cmIKXNU9oqQhYW5E3qfHnQ=="
+secured: "xKGQl11xWu+7mZsm1f+y5O+up2Yu7pbu5gpskRQPwiej9w3/JkX9UgH5uiUe+WQV5672Iu4Vby7ufXp7cZNKZOzqSY035ElcwhV9qeYmeBrA0BQ8/omo8VJoQmCVCGvJlFNtM3wJGcl7Ys6PnwgkGAVRe/I1sESjU9xrKKH1IGHmr3pZKQK+jlRI0gHbSUewkISBoXGg4bOcaqMp0BnYrEkW/e2swiwkZltMU+JXE2cQ7wPnrC+izZ/5MfvMyEIkShOuBFpOWlO3al+C8XlNA3kH+fAx9kFzzfxsAc0R7oNDbYv4o9zGBXKgEmg9GzpnJxw3RTJptMttWqBU5tTvwjYW7zs6ad4mMBMeLxrwq9H+h66JpCBH1OOOIVZlaf6y81jEBlX0IYx4RmlvEosy8g==;i8aPjrHSIonfOv8K6OzQzg=="
 ---
 

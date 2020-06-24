@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Define an AI strategy to create business value in manufacturing"
 
-secured: "Fz0fILXa3eo/3VCzQCFC+zjlTl0HC7h76xI2yRhjqVdi75YiGp2u0tLINvrTLCoCs7BfLO3oxKx0pFymVDZSZ0YY1UEkyjVj8wJvsbE5O8+vbZtBbnfxaGYHSdlMWjVY+kRfk8uU+qrRfwOt/ZqaLRrRDNRL+ASZcSz/46Y0lKiW1XjCdw7h8+WrtB2LjbXBSoOTu9+vMQiXjFffGBMzHNOxHuXkXiBggsGSiiy6YvfQkmLVZVjl3TLxru5N/3YD8gWslCW+bZX3SLriFHANvVGDc2vDqJfaFfsTQljHYJgW5JY2/N1dD83Pal3AIJ6IBJocUzXhh3JXn7J0YenUKM8xnA7oEtwRCxHVeJIjASByl/lXlkIPVz3APtTUzytrGh1LOn9VFeXZb1h4H049WA==;u3pqF1t89H7eSVAMJUAGmw=="
+secured: "QTS3mrvbjm/cd3Vsh/OXKkHJSWi74KeivAx/GdHpog0fdSbppuF1H6Q2MGZG1KU7h1g26uTngOTGz/6knCiV5FVt+JDBYePVyn74OGyLL/F/Fbrmbg9JGu5TeQk7kpd9Lwd6gS35HeACScQowNUOAl5WD2IQ+Y4992JFQWfrt/MW1tRFx1PBuLYXMw2dZjI+AsCYrX15pM6x3r5wd3nZODCgnkbyRdB4GBhR2eViyWvBRHaS2tDMhfLVx/ZdUPkvbZ7kymc2LcBl5Q5No4s6nHUynOF+kLQmv+E8IZH3+oCljcNuD4EBOk4H+HtmrnULTjLhop4X3LZIeR+Aytyy1WXcNZKPUHafalwyrzGDX/AuMjTspo2HNkS7MwwpdhrxFPrnzPxAASLFcD0bm5KuIw==;pNlH/N+IEtkorTx+yTDY8Q=="
 ---
 

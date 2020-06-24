@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Design a holistic monitoring strategy on Azure"
 
-secured: "tQ2jmCJNXPyn1SzwgZGkhLr0BUNSyQFA5MYV4yR+JFSkrEi+QV0t5/i9Ry1jkyOo/yPLvtvujch3L5lic+T/TH7+e3wbANIvsRZokVpArfDXY0X4mVal3Jy1HzgJPXNVbL3KJqWMyLEgltRkxaVpnEbOZZydHag1zI6uPqHR1GWbjM5kyUMjlj31b9F0OwlK+h15aiijeMd+9iZDPNfti/yLAStsrUebVn7KkrUQA4w7zGB6l/FeJSOnwVENNSFUvT/XPg6jRH4PvYtgX/l1X2+zVz07FK5pJb245q/vHW+D+SQQZo1XB1eACJgIBktFOYC3Zp77E7/HvepnfH+BUwcLQ4zpBaFutSwiKjiLdJXKHSLoFgIP+hO5SnOeqK56tQQHXe9imsCm/CRCXhhcIg==;gd12eBQSPwnk5QyKVYtCEA=="
+secured: "urLnLm9CuYuQKsODWrIto1pqg14FGreWFWEzlRKAwkrboW4QL8JaQIGpplusXpudHpu/YutG+hyFpsR5fn2QhRxVyLS/mfRjY6W4cz11nM1B2YwjacgihGSk7ik4mHIPdHcHeKf872PwDT3v8Pl6vi3op7HU6JECUUzEbNrNOk6TIzY3nIWh+eboD/pP2ajmsX97N1hjCTq4W/Q3BnaKBPTAOCtOMjl97JL/KXPeEqQ+6g6n/dzPalvUK+1i/rzl/6PbChsFyQ0Xr0Wyjih/sR3/+mcvmoQ/ggP2xMYu9K5UargNMudLYC58U4SX31C99sUfrbU9hc+AXGbdNldBmKCvPu40D1+sY9crD92oa2NdVNH4bcafJvdPDHb1ASD6sjK2ruRJPnCLmVvloar5bw==;xRBYcL6YJsBHJNTEMtWlzg=="
 ---
 

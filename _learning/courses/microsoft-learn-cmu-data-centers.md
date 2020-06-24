@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Datacenter trends in cloud computing"
 
-secured: "+oVRqBjCA0YMG5iPk+8q9DEUcAOYDkUix0T1Bruzfes2YdiRQrYkkJA8YKNP2Yb3+1djP1Om+CtuYW0qP1YO5Yc5wgZ2zaXX2U+q3CP1fCzdYVvIdx/SUHfyXoALyKpGOthZwF5b1NwaKn7tc0x6v84B2kGU6CYqulsWhv1w7tAIEy+YqYdAbh26Q/pBFC0RBvbznVOIWQVA6nH/+4IePdxIuIrUhbVMSvS9PFxXcpwK8KRl9d8M/T5TwgGvnN3tNwtL/9IeiVoqKs7rwNFG2GwstemUiEtX6O3PPFCouwzkj43mh8CuOnNX5i/V0CUr3DZL+oV32GIxLDgLZUh86wMQtFaRJQuUUN07tew2zMMd5eFwWaCsl8MWY97WgucSH59u8/FheHpA+IAy15v6aA==;9fNsrXj0olz1/ED4JrappA=="
+secured: "+lTjTAKIUlPwhPUAQN92GG7DlbtiLz42mTnF/SQLEtkHuxWqpujUHkuQsJjn9Fj5C/VOm5Hh442S+Jvk489hF1FgSeq3usN7ZDt/bz6n5E3seGa/OSkjZLL7aLLtUzicqfpXP0V+gkXqLGETk6BOTzI9wthC1ij/Ypfyw/pb1I39aqNGi/rI2UkcmnxxXlQsZrjM5xeqgjIM1ZL5RZSEysZsJwG94JlNwtCDPr6kVBYBbsblqZIXEvVBt2OKTkwvRWgD90K0wnc3Mri+mt5BXwAoZBjV0qdR4iJ2IZXm8+PZ7VRk7KufbXkxP9TM1GJUZrqV+k7G0Fyo7P+n9PzjIYblVdHzz5aYLbrICSV+qefJFrnIc8DbwHyWs1chvJs15spXprfOJHTDa243bXaRNQ==;yF+h/hsoTES6470igcy+gQ=="
 ---
 

@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 73 mins
 ratings:
-  count: 43175
-  average: 4.7030687
-heat: 140
+  count: 43197
+  average: 4.7029886
+heat: 157
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Core Cloud Services - Manage services with the Azure portal"
 
-secured: "bvetD0UTZv6Ei2J2Feb/nGUy40vZDz7DUAayJTfaIsUaVhaRdWQ8F41K/SIyDNglZHiKaWwDtS8ldxFvBsdItIVQD2e11oRBdUXf74RpGPMGVE61eky0kN8DoIPhw/jSwwUZdZ8TsiVW+6cWHgYhuXfRawvcwHsPlzcriPhffO17hejuQGF7OjiAIpfL2zcTOwXlQH5tR1Edtz/M5+h8S2HNC5bNeiCNAqg/KQQTTKSmqrHDZ74umow160R+OAc4kq/F8muAmdb3AOIbJdIUUDaO7QVSu0MzDcr3tons/BOpWqrwOuzcafIhBcmnm2EXu9lyqA8DrmZEGnGsmwJUVqbxpDV9Hb6BjdA2hVtouWil6OZdRC535qlbXEwoDMYcP0H53TA3dYjPjx+i9qS9Qw==;c0N/ThZW6rUIYhmZ2mMmFw=="
+secured: "hKzfO590TzF+pBxbDHr0ii8LV8A2Jz/0K+CQB6s0urkBDvF+m5c+V3NET7YA7vE+RcbzrwpIDzWtGetBvlQ5lNH03hTgDao897uAKpFKwHRSM5JqloxLQcgPQBVTEqgH56Tmt8vzcdozpDtJsPlWjj37Ard+xguptZLnaNRvTRa9ArvXVepbue0ROwMTsYgiBYo6Yvxtwdg2COhhCD4QGLwGRcVHjAiHuD6E8I1McowGFapIH5qYnqGwJQja8MLbfsaxnG7Qxg1jsTRPPwhVApy4zweFg4XeFRgXBlYBg7OohntIU3vYBeIdyAyQW4tjvfISPA0T9s3w+4lPiN6ZsoBss6ZFpEonzfuI0jMWQ250HiKKwuLm3naUCo0oOnA8+AkyqTe5wRs6c6Y2TXyoOw==;wcGRWVV4oe70wkVPoDB5cA=="
 ---
 

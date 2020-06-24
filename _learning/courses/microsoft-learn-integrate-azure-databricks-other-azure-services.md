@@ -8,7 +8,7 @@ length: PT33M
 ratings:
   count: 19
   average: 4.631579
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Integrate Azure Databricks with other Azure services"
 
-secured: "OobNkM5Xe0ONps3O3gk2sUhIwFr9mzy//mB9rkqWfptg8t9I1o/64rOwFuEzmfaerUtgMLnwy2nkPkkixzLnQmrg6Ck+FeyfZQxokDS0OokYDDyO7YjwsOz86XPPKArh7P5+25dVqM+l23iLRkV+JdN7gKHdAWTMTz9eH4dDBAXIgCqeZ2mEdgu2UAaSIZOBrQNjvrQhrX0966nScMRMPDxZBcmPxPAG7m5NVBOQCCxqVBKIdSoQiKsoUsRQspcLGJ7usVElUHnUr0BBfAyvlGPDFVfGaEv4xElzG2VJX+C7hXAAGb5auRzT1KL+aOiAowKcc7WveiaiuB52TR/h+Pz7NLa5tjvBC7ELkqqJKpBF9GWtplZV3h7wzm2Cd9s+l1bGYP3gYw4sHviHzaDrVg==;UZuE84OOF8FRymxmikQnRw=="
+secured: "MZm70QBc1TodVlTnWyt1X43ohw2BwSEX3yQr9I4Qm1L8s7kMq/XUB4Vq7KQmlc9KZjHAXm+NTdHNHoKu3baN/qHB8Pq9/8wb8lFtPiyUGOdQ3f0RcgVMBCmhtlVlEQ7uGuMYS2jXnPRAkMMJcOMBwbSj8RwcjoD0y2N54eoFBJZBf7fRlsTut5Cf5cWT9EWK2sKX/Lkem3KkYpSjg+HApbN2NOXmJ/i/wc/sXcXZ+Uy4wrAC6f1EbQHKnoVK0+2fuNIXu3ASAgmrTVtxp2MpEBFb5MYkgntrxncACh9x2DrUwEWUM8h8BxHesz3tz7uCM5SzP4rVU7/LCzYL36B2BQYrF2zv0GB8takEfRyaYVkrylhxDP06rHa4LpLZj64AcwmcErJzhx3wv9/+slNRqw==;8wqpzZtIGgWnUunOET1rkQ=="
 ---
 

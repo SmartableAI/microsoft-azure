@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 46 mins
 ratings:
-  count: 35
-  average: 4.8285713
+  count: 36
+  average: 4.8333335
 heat: 50
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Protecting, monitoring and tuning a migrated database"
 
-secured: "hmVnBHS5nsxJ/jIxlq82om+JQoZAwGWUjL/NFLV+KnI6pBcN4+OSPf9Mtqw7fK9NR8BRRMuEY/o6bo+LKUfDbwWukmJG1VBchF84B89el8y2rZMu1gdzUnYPAZE9cnsREWsTsbnArOfztK9C+P4zFbO7uHi8ghIfzCZu5+BKS/x5rp+g0gcXPxpftM+AqyYNu2L4cxgRNB/kMGw71oOu5cTwLme2YSQ9zKeIXIDb/07q4gX9nPKKAYMdFQYDYBqkttk7HlUNIYlMXNdU7BgPN/elI0Uv7wXZ9RQiPqDxAPfehFjrOHB1DdIWqNqJDYXeOaSPa66Mo1r5fMUhfE+Hx1Ln5W198ix7h9CNUVQtIE0HoVroDVh1xIu9ehj1oLfPoomsesqJbs2e03ivq6aW2w==;CY/sIH4mWeO94c/4vZGVHg=="
+secured: "YakguBx8GqwtSLnEefgAeSq8fRlYoCLzowFmNYGWSL7X6sSbX2XfTojQqMNw8Q14pGr2SdtbuVIUPPvq/Jx90EITsGNz92F3kHv7HJr13tbiGUKiWNEsDvUgyezWLIUO3KKvqpJ1C3QoS8QDetkB7NxDdlklfWiqPVk82M4FoEqzjWmD6ky5g64G4qL32NZSQF276Ai/vmg5uyjHnSWsDAj8JZefEs6I5WkReRK8Vuj3el5nH3QGAC558WZxqsF2iAjLrNNn5ciqZmScBGi6drZEdqbMN59p/nSRF9u0beYnobmabpPw3qDrttrXMNTkFQLb3kkZgR9Rq8H4S5Tj7NHHE9M38uJ0AaILVBHkE1U5RJTym7RrX3Fj96qes1zk/1kwE/7zKrazYyEIyWfTUA==;WduLhAgeaJj8fDqTnzhs7g=="
 ---
 

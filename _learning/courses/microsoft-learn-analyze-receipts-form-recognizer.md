@@ -8,7 +8,7 @@ length: 24 mins
 ratings:
   count: 64
   average: 4.671875
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Analyze receipts with the Form Recognizer service"
 
-secured: "0cIOMo70mwzkm0g2CHQmQSEyw5vlmuYqW0lMr9ZqFT5p6X9yOz4azWHib871iJceDcTMODNYMzQTbsQiIBqlwlwDrrqhiQ8uyIuFDwwl92/qwiBIKiOZJlItTtoJBiVgZ5WhEv3AC3kgw1da9JECqS/k72g+cG+8qO+S/ox8cDnC9Q/2FE7MQNeINlR9xcrHiaXPqvQYp1BCuUrDBnaKkTI6lBGVNFafdt0MYWUL4vcaPSETaCRVoXejQJEtGMrQueS3wrSKOmxrXW73Z/NpKSXdBJ07TEF5wGxn2fbbrlAPadFlPEFXtRWLseDEgDdZ+bS9tcSEBmcdtd+rrrAjiwI2SCQ9JmlYyg8fngQJ9Lxmmws/3FS+cP2gOIxPoveIqUM2p6r/t60IKR9ThIJM9g==;uTfTfCiDujs++PUfGgbgqw=="
+secured: "HCfT1I5q0RA7ay2TpRYYPePBFmF3d6HJMiQxZ5OKyCqvtzmHoKCUp61X8hLi0oVtGt9t6/DHm4dZK0IwgHRb03gfv8MPgHhPwe3LPzzxYE6cfwAMV3+S05VgScFI9lsLnTi+VcNDDrp1m4iKEETGC4j6nc4LdFp7plnBX6d1POQp3h4RWrRn8IiqTUsGP5kyRPZXZoS49BRTp1Zbpz6ZVP8g7St7k1jriftIRzaw0Kp5iXqtD3dhHL+G8IWHp0sTRsy4XmIOEPnWLzG0MgrlGPYuD6U6AEelkXA9n+XckwGsqIlutjAK/ljoCwDPiA1ZQ17+PfySjgiRKosZpwO2lm6WCY8M8oUy6qyuJzXUdcFF2MsBax7/kU0mrovVjMEH8PLp6wnW0Wz/c7ryMuD+Hw==;+NMjYi01Zn4RQrETm6Y+9Q=="
 ---
 

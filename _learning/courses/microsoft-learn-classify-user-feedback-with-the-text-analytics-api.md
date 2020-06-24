@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 48 mins
 ratings:
-  count: 1052
-  average: 4.6007605
+  count: 1054
+  average: 4.6005692
 heat: 55
 
 provider:
@@ -37,6 +37,6 @@ images:
     isCached: true
     title: "Discover sentiment in text with the Text Analytics API"
 
-secured: "VQhK3TotoXOhP3eAqgD4XmT1JO3jg3eJg0gPAAzn1iOlkEQz7GC/K2i0kOjFaO68GS954ld0691/j6jRrad6HKjDRczeFTrzqkBxqB8fuM/Ie6Pz+TLFthk0VbqVjtNw7d/TK1Rbr6lCf/phWpkGf1+Z0hmVQ/Hr3iNeUX9dILTdAyCOOwi57ZSQBxJTWJLOluEXpU/vWG76Fx+E+hZK6aUnRgLZryTZNOQRD6tlAdlhJVcWaaa3vloKWOq97Gf7YinBB0LuOKSFmPk5Rn7nGYnWUVx7rHF2saQwlB8rULlWPWIanvjXKEIotJkNBDLW0IxKGHnCh64fFo4GYIdyOiz4Ru7s2KNTGmMKULojVYRQW7Xj4tP+Z41LZdtz5MSjNWMVpdLr7NFqThxyqSlOJg==;B0ylXPwN68yIfhiKZa+NrA=="
+secured: "r3Dz4JM8yNswMiromc0Drfx5hQZHZn8osF6YBdfHJ9UMgIb1ret61LCdIapBSja8ftcpGlzLGL5pPO3C/qFaRgxRh3TWyGRAcdFbOd+t/YqeY0lO+Cf2LTc1y+IdShr3vRAueGT26uIwVlZxKS6miaqdYwd0rFmJmUjgvRGo/nJlM2eEnL0WYcqPjKsICt5G37QzAYQXnwBgwn3WbvkJJBBgUAPHe05kibMIXHS7h9mnxHHh5TTa/K/dQTkjNc4cZhwOq6nDfMtFuNt5xpIUQtJamcTe+DeeYa0uk9eNBN3yOQKCU6+5danHXe5ej1tPsHsiov/2XiuZ0cZg8YvfjdPH0myMVN1DxMiBUZ5UKbKJzfI21jKd6W98YfXP6u6P6r9W7l4PZ72bq35RJYyxjA==;ZqGieacDw7s2lp04zoCwYg=="
 ---
 

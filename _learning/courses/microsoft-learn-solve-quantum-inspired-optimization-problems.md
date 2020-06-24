@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Solve optimization problems by using quantum-inspired optimization"
 
-secured: "WhVtJcHSk36nIJemqQ/P6h+gqTWMnY3arSM1/uVq+LUMhGYsqmnm1OFZPmRgVnOgmKi5+Wi8xEar0Clk10rSLcoPShWqPoX8mvC1sVtaNeeXUWZoe+kZ2nTcwGCnSTzMrDWafm2SmG96CVAWMzHPs+uOcyfL2WoJRTUeZQNFG8EVq5XEHWxZT89jf+m4vUd9J9MQvC2pfwDVlji4yxTrY/jzJv/stuNSrgoypGXDHRd2UwuoOL9aCAwLqyVj2/cO3BSO+AWdFvyvaOQET/sYe+btHaERvMtBlWQ9b5RPqmCWIHdLhZbHyRj8UP+IWsK/VHNv4C8N0bBa+gu3rkggB29PIDZYb527x/S2TgRC5z1+i8KVG9LujtMqCnWglCoAuCacvjzb+uEGPhotedLO/g==;wHRJ91KElGVE+fy3SZj/3Q=="
+secured: "sp4TYTxzc7kh4RZwJ44QlwueNq/lJ7HVSP0GwmuoKzlGsNfK1UB+fuj3oMVRgifKjBZTwkz6AzyOXE4EcYvT59AStZWUi/eg2Y08bJaoHo/f1Jr9S9JPb7jallALkLefu/QlR3+SbDeofNsTlBTvFJRae+3A8AeQ9FItHE5aQuM2+8eiJhxC55OY+jd6vvs6GmvHqrLreI/V3Qnmvw16ilLXugSvw6X69WboSSHySKwt29xQiYdXWvDY8dDgwKyfSZCjABotLg/XyrEYVEDL6hjhLvO4R816d0B7vOr/dAf4PVbNVYbxqcBii5ln/4URwxWtrsmN/HpVFsaJoWQjG5ggV+IPJ7mPI58uAkrUAXZA5tbEOFHGzX3kfdf3oFhZvxUOg5aFUzLSdZ4XeFLl4Q==;Y2rVpi6uUiWOPFN3PlezEA=="
 ---
 

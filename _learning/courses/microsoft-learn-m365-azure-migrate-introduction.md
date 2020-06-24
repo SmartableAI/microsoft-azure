@@ -8,7 +8,7 @@ length: PT19M
 ratings:
   count: 38
   average: 4.605263
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Introduction to Azure Migrate for server migration"
 
-secured: "FIGhyzWkkR29bzFi66EGMNCG3OAFXhTgvRwCXyGG4uPljaSMXK/Yq4nB4zzhsYohJ8kULVvrv3/U6b/9B7nUBG8zCCeNhCLcL4qCHjNdIsyQwjtOguOSSEp43tM4VNASv5LfWQ+ThN69U88DQH4EsOdizHbnPNsM9Bv76RrHL5yXoJ3di6ZX+qNvy02xQZuRgW/ewBQxZjNjk/ynigJRdrdT+pj791yDBxZ2ARtV340hoqKu0rv+SveaJFNGpH0442lq+bN+NvxDQQaE9hykAPqESvNEqKKyUgn0t6f4+E9q45GvKxhkRqv3QQt6FiozL33FcaaGt5mZxXCEKWIS6Pbr9OLQzE3GNwrWZK3oiVK/VZIuqPeOHmB3IzuLqypMcUYbBkRce+n+AK+BneoWXw==;WedtyAv4yABbPbrOfbIyjg=="
+secured: "NltppO6ZRk/XCKH4lfe/NAWSjYhCqazhXnREdY2Jvs/u+9znbjRsmaj7CZCQQzdQghba6kFqrBgg6QWBRD2QnuaITARDA64kktHVZ3fPk+TmCC6K6FGKQna4CDmwvBnDybpXUlnxrjTTjrc+U3s+nhWsMy8UX3xCSX0/uQbNiWmVWFsJwoUMHB6b2+jEumNZaUZsHWIJVWbQRhktC9xmSwMcgOCumhXHisGVF/3MzmdhdP/D2wtyeFs/RnWytLWqTrMO+VYS8SJEL6XtBnSHCqA56CiZM7UTOWmSwdXTMq7+lSlkP9TD+mUHcwHe6JhpBL4zutTG0M2dNo71jeh3U46QCGiQkqxyZn9MXmf93mdDpM1fklonZ+uUBHvVuPbvOh0cl/swMch2lxR3fuNNVw==;l2fJZV+OASuCEvSLup3lXQ=="
 ---
 

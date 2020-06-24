@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 38 mins
 ratings:
-  count: 1742
-  average: 4.6681976
-heat: 56
+  count: 1745
+  average: 4.666476
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Choose the appropriate API for Azure Cosmos DB storage"
 
-secured: "iKGojplCkfYwcXG6bQt7e6K00FUZ35usrYNcSjAFxaTeKaGl11WqIm12rrnzo2EEJYdSB5zTbZbV+Y6uLxXtFHsE9E6lMFMISEdYiYz0JoiRvH/Qm1Ig/oiL0f/Ydz6oZgDMQEiUL9UsmQ6tARq4bzHwpQn1FuGHnEN/E+4TnQG1ox1LeV4NnsQuENkoKRrqRsQ4tvLUMZKR/444x/882p5t1uzOwW3CmicwigU6qnoh5boYeemcmFQEW8I/3HFqR1Qg5k4+5knMcr2icWXarQjTGS+etm7pHGGZDdhoybxOLSRTubruO3V3Cr3VpNpAJb0pGJPhYTKUhNWOMNXatUXjj/9FQCE8U2gxbKVi59bfaTL274j1opSh2O+dssJrJRPfYhyiiJCG0NSj1Uy2gw==;uQaafX2TWYRhEQvBT6OCHg=="
+secured: "oHZusNwYzPlt6yYsfU3QZhoUuWSmPdjVuAyHms/I0Kh+X8+wRFRIPudGR+KAsEvAIqapF3vKDQQ+fAMdFG5zKQbZxw8X2toRZpY2YGf4sqzdjqdLqQjyeeWaD1IKJASI+BsARvjedMlIDakJv3I1htYBdeRO6ZPrc3OI5jtq/LodoYVsGibV9fA1jLCMY9wj5TT+k3FW5tXM9pr/QjaateVvO55V/ViTPeitfllo2wgDNnRF7Q6WTKcZwnU/PfIS0oM/xzxUFhFuvNWwCzjaWwiuYgsp9dlZupa4WkWH5WrTuunGAZa9zKxoBaCMFLxv0648hMI7tPJEMQbKjkuAvVw7GM2ptCVZD2U1RbTF7jbH5bpZufQIXcOTDHpYFFwYdQWbO4RSBkrT8WozmU6R3Q==;5TuDybV9caH2HZaIW0Mb8A=="
 ---
 

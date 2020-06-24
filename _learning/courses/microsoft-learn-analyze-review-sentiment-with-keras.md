@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 35 mins
 ratings:
-  count: 1438
-  average: 4.6835885
+  count: 1439
+  average: 4.6838083
 heat: 53
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Analyze the sentiment of reviews with Keras"
 
-secured: "LpQ0Bk1NSO0pS8moCzaRk+kEz1mRTYqnWKTu0PTxhuodUl5J3fxNbfCs+FD/88ZEf8XYydaD3mZ2O+zT6QphNHChRw0h0gl8CKB5BZJKrQ2moh6WT6ehQTZBxcTmiGVdBOaQsLmNSGRv+7n7GyWUQZQHmVE6Yel7cyG8Oiq81KQdk2Sq+QLld3qQEAxkywPCNKKDySdj5xpZgF5TyG0fxt7FlIMzeOJmDYY54op0/VYN7MJbCYdnxTr/VuB0c2710UBVmNgnEYwW3k5rwduVipnZ0qDsuScuRrpD3p3BsgaAoHKfjUbnR57kppf5D7FG+BDQ2IAhfIZEPQ6jjrtvzy/NHYwoVWo163UlBarn08GnV+qkNw6ls6hM9Y5NTfZv0dehdgT8xVGTroBe7joIMA==;ylhA6LYUediEuB3IdNuZ6w=="
+secured: "U2F9dAKztfoVjzUPRKtmDQMpDAy5itblEzUuH1ihdVtJiBIPvLI4cV0Ch8iA+RTwlAy1nw6bogXwZuCxotLZ+8Qugt//dbAH5r0cuBLDN4RXJ0uSx/W8N/yvIAlm4cohFwK+Ch5LRG23KbOjoz6yfhHEHgLOe1WZo7RMgBqsKRyAgd2oudjW4nAk/Cbr2Sxl2iaC/A0hrJbwdgd35DFIsEEZMn8rBo5N2RUk+Dv1PTMStBANDFeaxNror+VNNuPlepSGvHSM+ZQjxn2lGARENZuD8YmHhyBAmqVn+Guv9FYssMejEsPskD6Upd1rArXbYAF7JLPtSHMZTz/O0QbIR9NgqH4tGgZ6zR6RVXiBdwph+N5iKuZtTxfE1DLnPU0QzXquuLw+rhslF/nDEKZdQA==;ZCSrN07fRbAFUGgoAuRb0A=="
 ---
 

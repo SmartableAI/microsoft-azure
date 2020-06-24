@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 34 mins
 ratings:
-  count: 18
-  average: 4.9444447
+  count: 19
+  average: 4.8421054
 heat: 50
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Enable secure external collaboration for your applications with Azure AD B2B"
 
-secured: "C3Zu/r9j+JaOGYjagr1bCF0qxwv5XamzXe4wKSV8R59NwBUDZ6xbMPE29lI3/53ugsE7FL40y4Em0l0tyFP6SLaskqY3iXQf8GGGYwy90k98JvCjV3MwXkSl2Tfwo9E1VKmi+VaInbEksRSeDJeYLCupBmsFe3WrMr2mJ2Szjq4G8f3q1qqvy0ugG2O9nME4CmEKnFVHOZJO2Ey9nbe4scp3ZLHD09oOczJca3FYHO9se5v0wSRojaLnV5idIO+0NYLqEA2UPiyaaDqA2MQa7fGtKrqUcsngRbn2P/fFdLPpjuv/v39SCd7gXVA0zKagWMcOmeqHXT0IzFTx9dloCSgZkdZnBOYIiJbLFXIvsOto1dnkeOQPC7V7ODcWb+6m4XaNIgAfZYX74BuS4hChfQ==;/narbxfqAesKBFWr2IsQwg=="
+secured: "zHmjBK0kpjyMkuDMI0bw0+m9AbyGPfcgWDS2NE8bKeIF3bw9fgrABP60z2zpx+ew1w5tRuXHqyaOr3MwSsaIDKSH0nhEMgrAEQluoggkHSeJRc5VyAFshTJPMgzDM3J9lbUHqciCqqa+SCp1p9BrCqurMxl053dkhJZqUdw+dx5D+UIqlGN6rkgkjKMwt8cJ8RSZ+rpxJnu35no82p8SBw0/55tBYf7d4TCdS16QpJ5fXrW09yx9mK5iUs4Y4Y3VwPeBAdPnQQ3tAAM/dDNQx9adfNoNvLHR3XFQljrksWMS4LWrWMCU93WqtpzI7G5RAATLIcWp6TMINcVF7TD8V+QXrkOtAOkpTfVqXEqUNjl+HpXpWBa8LSnFyjUOWdCFZ5IIXgnxxmYnTPBHqoeBUg==;ruIc+FDG7Fhf8ydQhj4wbw=="
 ---
 

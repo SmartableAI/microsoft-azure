@@ -38,6 +38,6 @@ images:
     isCached: true
     title: "Microsoft Azure Well-Architected Framework - Reliability"
 
-secured: "DA8mUpEPn4F1bsPCpVebS/0PdWKS/Xsrf8UG7LnZ/Lt1GEmUqmN2pklxLVzFRzE45rMzNe7NllmCYS/F0MY/gnTxBpcn8VRok7wm7kRHU7GNX8gZPw6LRA4lsQa4952hkjgbW9wgUBB/k5TLwp6C+ab5v0kphK4VNq0tDw22gjV3l5t7f7JRxrhP3VhZMKUNHis8NLpE2q4ZtePo/R/VE3fHtBI+oFA6Aw1jgdBDpdbqyS6H5i5wkJr+1kU5tyGNQ+fhhkPGZFl20gKVQuKyEdjp9mQ8UkdHar8l+sAe5wJIpmrRBjS2NiBYp6WfGQfN23FtPfVKE1pIwlB/rjFcxXOaNioe3b3vLUt9ppD83Wca+jQZXFNmgkci6iXYIXdRRDqUfr/J5xIstbyz1Pirsg==;xDxKeoVhc27MExKOEEE+YQ=="
+secured: "7QgaNVRdA49MebQdBHd9i6+WY+hUy+tm5w3rHW/AuNvSc7lHO2TgN3j5kqg5GJl1C3YkQdREUXm4mvH/G6pJplx58dh5edBqrZHta/5PsetgZwJvqwMVZ/q9jFxixcDBBUoEUHeAbSEg3XxmbnTB/X39eeeFmcUqPtELPNJs9cWAN9gqHif3PbmzMd2+Fp2BcPJFxtrPBfGrjTfVVvPz67PldkgD1E9xQxey45OdIMpvuqm9gcWr6uMdV7TuuE+cc8j08Uy3IeyfM46wgxFG/gvkDiDxrjdMG8+gXgQflBaEjjG/CPM1n8orrFj2YsCEJA+UY9BwxUObTJ5LX+Xnt28k7ZjMum+W6uuYeKuFMBinsgcOdM3mL52QCCl/reN15oj3HBAufKHqnJBspusM7g==;WfKqle803r97qi88KeZPsA=="
 ---
 

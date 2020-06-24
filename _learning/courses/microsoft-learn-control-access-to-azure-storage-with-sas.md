@@ -8,7 +8,7 @@ length: 37 mins
 ratings:
   count: 25
   average: 4.56
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Control access to Azure Storage with shared access signatures"
 
-secured: "NIFYSBC1cjwdaNOgzfm2VxBDEi0pcOCt5B1YxpITFP9iHr/w2XYAoOyVg19zam1sktQXQhh2BwmratzPJtMvrKzg+np1kx1yIeDnoFp7ZUqgkaSiJ2LKC0tyYaS8gDvZHaCXRkbJdx0pAzmg5HXtsS5y2Q1QJDEZr+aixXRL2gZCEO4i0OuQkxZuYwq1pJ2FMZSqicQfo3DFMs3ezCUkKOh/2KZL/ejoKnSVVpOmeNsSLx+f/QmseLsubnDMfZEld5hd2X864/RdapZnu9girsaE8w5MbaO2r7qYhIQXeuRhUOKN6g6+QtYjmBmQnD0vKuDadDa9EbAlt1oT2uvK8ikV5map/WIqgxvzep2he7cb6iJ8fTx7wM1MoCI3gmqnfn1wVNZo/n3bOkK9ofPw+w==;lcXizXzcPktUX4+HEjiRCA=="
+secured: "WJN8+donN4xt8FcC94rBPAi64fYRdqwTYJoC73ESc6a3jmXpNpiN+fJ2aHS8uxAAIXHLvdd0Jr3wyLOAgYTYtHJ2PzqetVA4f13eelzUT/qGDYa+skkfcmTA1isp0ByozW4QJTSJ6f0EMX8USvf4Ar9uH6oD67VHIc8bpgH7ZpFmMLEKD76KSJepW8udDmheLfFqNogDC1etq5/lmM82ST3cs2JMKT0qBmpejmL5KU+MN5LxDSStMr8TuSeGFaH8eq4/UoCxVhHOdNpux6p/FAIR4c/LDYJWJkONvW/UUIufDMtG1YEw2wvap1QQDCEPn6RMOmfmsdcWee8tNIstPbZRI6RDwzzAbg4q4dBoMpHrd0HGwEvCvtyY/qGC47zwEwT/ln3XHxOrQA4INNYnPg==;9IuPYEymvNlKfvag/Vj3Wg=="
 ---
 

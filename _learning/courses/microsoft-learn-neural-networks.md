@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Make predictions from complex data with neural networks"
 
-secured: "GdMX5Px5int2e6ox1WWJaNkyYBZ3ykPaOIiSTdwE0xeuP5HCU6Y192mYf9B0R0+HXySyO57CSWwo+d2ZuGf2xaw21sN/EEwmf3o/scdzSgnzCMJaoYF4gD9d/G8AfYC2c61S6WVBSAIuxZZ/j/GupptpTA6X/k6CC87mwnjDlJn+u0frltl4W8FebWkDWgBK4Q7ifiLftsFVaXzETSJm/3tGa0qJl/k7LDxmPZjhtUwLFYLwhZuX42CZBUh0lSxsPg4lQ44PRfp9UZGtxLsk14Q5vUzQCVt4GR/LpD3G0CItFRX83z7CoHhZ1kB8PxjpatTZB8+MJV4VKNvyATnTjbPESLU+ZnCiVV+vRCRh3Q2+HaydDNVGM4DG8EOYwbH6FEDQezKHAU2BKduc+eJO7Q==;0C5z64rz8f0P/I+UnG/Lww=="
+secured: "bqSfNtXuiVpUY+akE7B4v6NE2cpQENSl6WYIYZevls8FWM/3490XCj9mCEhiVYIuTLQdKjBU6YJNF70BoixJIPY4c8MowoygLHM/7BaHXULXqeR8WtQxxwlSKWAGdaV6Grunksv5ZG1JHK2p6I4YjuwIibO3FFiGbzbcuwwyAFmabJ+xpzgAa48y0OJQOpYm47nwttAffDuHQY7KnUlL1rDks/Da6qNE1G8Dm7KmplUcPVYR+6AET/Z3u48P2YqntLYNXRBvrLGoEuElKt1qopUxcr4j+emZ7X1tmyodOxUidJJ8sfy/+rPdjJzACACA91NhY+L3kH4DArr/PTJIlzeDyL7alAnz79x6LStvyrgh6gvdgu46BLxnNn/OUPOO+ZXkyPps6w3OEL3fZsggoQ==;XJhdG8aIvXJhiRHQ5q1BpA=="
 ---
 
