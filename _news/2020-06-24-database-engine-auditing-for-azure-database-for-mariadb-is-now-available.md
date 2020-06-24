@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Azure Automation is now available in the USGov Arizona region"
-excerpt: "Azure Automation is now available in the USGov Arizona region."
-publishedDateTime: 2020-06-22T16:00:33Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-generally-available-in-usgov-arizona-region/"
+title: "Database engine auditing for Azure Database for MariaDB is now available"
+excerpt: "Azure Database for MariaDB now provides general availability support for using audit logs to record database activity and events such as connections and queries."
+publishedDateTime: 2020-06-24T16:01:15Z
+webUrl: "https://azure.microsoft.com/en-us/updates/database-engine-auditing-for-azure-database-for-mariadb-is-now-available/"
 type: article
-quality: 77
+quality: 76
 heat: -1
 published: false
 
@@ -30,6 +30,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 92
+  - title: "Azure Automation is now available in the USGov Arizona region"
+    excerpt: "Azure Automation is now available in the USGov Arizona region."
+    publishedDateTime: 2020-06-22T16:00:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-generally-available-in-usgov-arizona-region/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Azure Content Delivery Network standard rules engine is now available "
     excerpt: "Take advantage of new rules to further customize the behavior of standard Azure Content Delivery Network to best meet the needs of your customers. Use the rules engine to modify request and response headers or dynamically override your existing route behavior based on incoming requests. Now generally"
     publishedDateTime: 2020-06-24T16:00:29Z
@@ -48,16 +57,7 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Database engine auditing for Azure Database for MariaDB is now available"
-    excerpt: "Azure Database for MariaDB now provides general availability support for using audit logs to record database activity and events such as connections and queries."
-    publishedDateTime: 2020-06-24T16:01:15Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/database-engine-auditing-for-azure-database-for-mariadb-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 76
 
-secured: "J8leQCVjOt4+WHmJhnxmyOPj/UWXnbk4aQovZVP8YDPjPdK/2iDLiYpjnEm1zi1UrFK0aGICm93xAWNVX96goKvGJ1TLRXomB3xoDMNfWMBdfgFACJjXuS530uLgT0VOdOL/BulISXc1tulBDGq16eThxqLdVBVpPW7K9H2rpl5JLxvjtdAyqasrh8rGPzmUo7lAQP+2toWWCzEIkPej2mgtDealXuVqGvH27bmLDhIVKz/m+xfbHFG1Lz4xRhlQQKL5HR+nqR3jScUJLxq2+HqgCIH0ej77Tdx8purKIGzl8wpkMWYhhaXJ8MJqgNFar92+jsiu1mVPLDv5hAR/+A==;l74f9vjIEuBg6CYVWo+PPQ=="
+secured: "GZNQFT3NXp4mkoQykmHdYrsoplxago5uvi77QAM3VjVKu9SrGN03K1z63RAjtxGGn3v4+77T9sun9XUEzIq+BREN2jDh+yRExRLDxblPv+nHC+QPf0yGJ8GvAwkItAylrexD8aSJ9/15NZ5K9F6+gjl0GxoRdCNHqiQH89kxh14JsgdYcn4Clyotokuz2uigIbkvh3jKMDcvBaEJ9uyOSQ0fL6Flrd+3sofoO3xioNVRUox4wzFmPwOpgzSnBmGHgKTFkFR7Ev3KyinUO/mqhC5BnhMUU698AFZioLbtf3WnIMkIFbwgYfYVCnsWwvBGvXMeQzDi3HeDZf5gv+Jp0Q==;BflJkFUhFhXOxuBgYvlufw=="
 ---
 

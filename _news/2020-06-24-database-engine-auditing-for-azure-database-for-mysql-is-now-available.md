@@ -1,13 +1,13 @@
 ---
 category: news
-title: "Rules Engine for Azure Front Door and Azure CDN is now generally available"
-excerpt: "Today we are announcing the general availability of the Rules Engine feature on both Azure Front Door and Azure Content Delivery Network (CDN). "
-publishedDateTime: 2020-06-23T09:00:03Z
-webUrl: "https://azure.microsoft.com/blog/rules-engine-for-azure-front-door-and-azure-cdn-is-now-generally-available/"
+title: "Database engine auditing for Azure Database for MySQL is now available"
+excerpt: "Azure Database for MySQL now provides general availability support for using audit logs to record database activity and events such as connections and queries."
+publishedDateTime: 2020-06-24T16:01:16Z
+webUrl: "https://azure.microsoft.com/en-us/updates/database-engine-auditing-for-azure-database-for-mysql-is-now-available/"
 type: article
-quality: 92
-heat: 172
-published: true
+quality: 77
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -19,9 +19,17 @@ provider:
 
 topics:
   - Azure
-  - Networking
 
 related:
+  - title: "Rules Engine for Azure Front Door and Azure CDN is now generally available"
+    excerpt: "Today we are announcing the general availability of the Rules Engine feature on both Azure Front Door and Azure Content Delivery Network (CDN). "
+    publishedDateTime: 2020-06-23T09:00:03Z
+    webUrl: "https://azure.microsoft.com/blog/rules-engine-for-azure-front-door-and-azure-cdn-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 92
   - title: "Azure Automation is now available in the USGov Arizona region"
     excerpt: "Azure Automation is now available in the USGov Arizona region."
     publishedDateTime: 2020-06-22T16:00:33Z
@@ -40,15 +48,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Database engine auditing for Azure Database for MySQL is now available"
-    excerpt: "Azure Database for MySQL now provides general availability support for using audit logs to record database activity and events such as connections and queries."
-    publishedDateTime: 2020-06-24T16:01:16Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/database-engine-auditing-for-azure-database-for-mysql-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
   - title: "Database engine auditing for Azure Database for MariaDB is now available"
     excerpt: "Azure Database for MariaDB now provides general availability support for using audit logs to record database activity and events such as connections and queries."
     publishedDateTime: 2020-06-24T16:01:15Z
@@ -59,6 +58,6 @@ related:
       domain: microsoft.com
     quality: 76
 
-secured: "aSnDbyaqzq70z2B/Vuew2DMa29OFusSdhvIfRkwNFaUeJDmPMGVGWSQ/gE6BH1DV4PSjs4zYd6NIkzab95/cz+TiUopTRaVS3YTzDzjWHAg4q3d/N0hIBekYMITspUMLOVMM27yLkmZqmyA672/e9vBTxMo7fN5L3hDIusgCml4vYAeR7e0YQo8aq2WKT1+eyvEAueolT2MeSAG7PphfaSOR46k4kjQqVdLG1vMvjE7m9Vc7yKZY+ueghZeac3R2DO830OKErWTX+ZVgvJDAxY+h0DgEI025cz52SNeo6lhPkCLbCx1NI5SXO5HRAHu+iZbVEzzJbgD44vrOXLzkjw==;MPXndT8gbW/+8OFzHrvlKQ=="
+secured: "ww0Sd29gCjLDkscu8232LTEWxXe1bAmKvmE/ixuLA2+ylhIMNS065J64JfLKrCUsaNiqfLxN99ZjFIrdZ/Qc+vvliXIMPSf6hZScopI+LJnsPAVMkgyh82+fQifkbJIQLJac4EIW9WcwThDMH/xrwCJAE8YkjkbzkiLraYdJE4qi3cMYGdmzXKb/eShY8YHuSkQeT7uZKiRHF7pTLPQVQ+qSXWFMTU7skStXIIMJn4gGcemMFH0N5+zDeLG3UEspKPLPe2SfVgXFWJDWPw4r7QWb3CYeDtFGc13rVMRTGdzHnDamK94OMU7pfJiyCe4rKCn6ZRvqLIXR9coK/JZSMw==;Vj3Lndoy8A2zulBlGte1vA=="
 ---
 

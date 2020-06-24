@@ -39,6 +39,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Azure Kubernetes Service (AKS) support for proximity placement groups is now available"
+    excerpt: "Better support for latency-sensitive workloads in critical business scenarios."
+    publishedDateTime: 2020-06-24T16:00:42Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-aks-support-for-proximity-placement-groups-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
 
 secured: "uRh9NnTP1WL8Rf4ILW/hFDDspURsb83atSEtycEFAp6S/KYr5yInmoqSeflsA30wX+cQFUupPiK/RI6rzq+PIMp/JvEq0MsGclfulLW0S3Bsgtf/qOZE426d3DyEWE+3Kun0W1oKqF01BjlCy7uiusZxfFCsM7GeyrEXFdodTXxLsRzw1+veb8r9jSr9Oktzis1fPRXq0KU+nw7lUDJ1P+rz8iHIrL6s1F2n+uWmwhJeMwpZlG/xpuJoVtf8LueWyWtoGeBr/5qcAZo185ihaVU0q35jj3DHSdnlG7Put8mU2qIvSf4mDDuq3Hd5az8KBtsHpMIvJaycctPzsdPG7w==;5W+/42hP8dCU8CFLLg1mXQ=="
 ---

@@ -47,6 +47,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Azure Front Door rules engine now generally available"
+    excerpt: "Azure Front Door rules engine is now generally available. Take advantage of these new rules to further customize the behavior of your Front Door to best meet the needs of your customers. Rules engine empowers you to modify request and response headers, or dynamically override your existing route behavior"
+    publishedDateTime: 2020-06-24T16:00:22Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-front-door-rules-engine-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
 
 secured: "HgOd5jG2xrm/kPAmR/YXkagpWUmqD5I3u+niA672ggrMyLC0g8WH/+DwBan4Ghn+wKAnjiR0wdTmrFedp5y5MwrK/x5QfZ28rnDKjzTt8BfQ9YOHGWUdx/AehT+b5Ocfu3LwwYfth69Z7ItW+GcaiNHFJScS/eP9K90VDfItDZapCV/oRAbJ5pYciNNFWdB3MKhUhrYDjQ9yKAht97QngWIuv18chGGVg93lejpl06rvXrj2sprHgXg59+otETMmgxuqNaWKppexdVzcU6aEQDlNkAsNxmmOVOzDqOJY+Q/qEMpiz84Ee7uia9j2IYui2pZYgdEdOdp+Q1rlA1YeWQJcqZr7JBKcXZtEqLrUehImF3KbcpM1mc589mkmMXfgaECC3CWZYWLqajzRah8leskdd4ch4RzRom5LkGaGme21RBuKCKtFs3EHVph2Qf6KPxZH7bhQZn6Lb/IrWRjry99IzIgIRnbSa2l+F8CXNDg=;ucwepRAnq95l85+iI4/d9Q=="
 ---

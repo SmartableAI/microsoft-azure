@@ -1,9 +1,9 @@
 ---
 category: news
-title: "Rules Engine for Azure Front Door Service is now in preview"
-excerpt: ""
-publishedDateTime: 2020-05-13T16:00:58Z
-webUrl: "https://azure.microsoft.com/en-us/updates/rules-engine-for-azure-front-door-service-is-now-in-preview/"
+title: "Azure Front Door rules engine now generally available"
+excerpt: "Azure Front Door rules engine is now generally available. Take advantage of these new rules to further customize the behavior of your Front Door to best meet the needs of your customers. Rules engine empowers you to modify request and response headers, or dynamically override your existing route behavior"
+publishedDateTime: 2020-06-24T16:00:22Z
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-front-door-rules-engine-now-generally-available/"
 type: article
 quality: 77
 heat: -1
@@ -35,10 +35,10 @@ related:
         width: 1024
         height: 630
         isCached: true
-  - title: "Azure Front Door rules engine now generally available"
-    excerpt: "Azure Front Door rules engine is now generally available. Take advantage of these new rules to further customize the behavior of your Front Door to best meet the needs of your customers. Rules engine empowers you to modify request and response headers, or dynamically override your existing route behavior"
-    publishedDateTime: 2020-06-24T16:00:22Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-front-door-rules-engine-now-generally-available/"
+  - title: "Rules Engine for Azure Front Door Service is now in preview"
+    excerpt: ""
+    publishedDateTime: 2020-05-13T16:00:58Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/rules-engine-for-azure-front-door-service-is-now-in-preview/"
     type: article
     provider:
       name: Microsoft
@@ -59,6 +59,6 @@ related:
         height: 450
         isCached: true
 
-secured: "dp4pNxJ9CpQhdlpOUVtDzBuYKH3v19NZXzlBK2tsIkMZ3VpW71yQ+yRFv23zXwHJYjCHq4G4y22w1JKkZS2eqoEW+nOIpiBNdcehLZ1HSDqEv9ocMkATXIqkjCR8JfcLTxV3InX5vqUwMJmDrPz0ARw1LEfH+rSBrkqc0f6omgZepfiDPs7YDvq+eOoTF6lAi1s8OZhfEfk1VeC9jazr00adT/AQVU9vpk/4z6JR9n4C056xP9nofZz6x1pRcyjbGaY8KETUskMnz1JaJqdnQNxqCIf/84b4nVV2a5ogQ6gBpbY1wQjJOynWwng5HIBWU80uglDRyjch15UrrvywNg==;bVSCNr7Pco4l81TGgsZfXg=="
+secured: "aBUPJ0JCoDSBMmoEwT6RQy4Ab3r/iwpKmT7xibKj8IKft5XgnToxVhHupXUazaTbI9NY55fRPfSYDBFbNHLd9xCz8C2dQjHzEmnUj89PVeIA10nZW5l7OSPVZKxTCmuOs7CP8ioTaa23HeZ24H1scysZCMmSPKHuQ+RBEDTvLbgMC5LcwhUWSTdmOzEgjRU9SOYpmkOliVDdCbaVMdXtxf0v30pyzJSfPxYt6uZqBbkHzVlYQvjQyCXIqwY7HyMwOv8qqr1heRsHM6LEE5RniEHv5Yl2f1GfxizYZh/rtS8xzFaNKskmwsqTNyJlQVRWDkP/pCSINK3XOLSBmI20iQ==;R2R3BaRGzqRYCvE826fFbA=="
 ---
 

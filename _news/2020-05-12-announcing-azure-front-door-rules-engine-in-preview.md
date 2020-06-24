@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-12T09:00:19Z
 webUrl: "https://azure.microsoft.com/blog/announcing-azure-front-door-rules-engine-in-preview/"
 type: article
 quality: 101
-heat: 141
+heat: 161
 published: true
 
 provider:
@@ -34,6 +34,15 @@ related:
     excerpt: ""
     publishedDateTime: 2020-05-13T16:00:58Z
     webUrl: "https://azure.microsoft.com/en-us/updates/rules-engine-for-azure-front-door-service-is-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure Front Door rules engine now generally available"
+    excerpt: "Azure Front Door rules engine is now generally available. Take advantage of these new rules to further customize the behavior of your Front Door to best meet the needs of your customers. Rules engine empowers you to modify request and response headers, or dynamically override your existing route behavior"
+    publishedDateTime: 2020-06-24T16:00:22Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-front-door-rules-engine-now-generally-available/"
     type: article
     provider:
       name: Microsoft

@@ -1,9 +1,9 @@
 ---
 category: news
-title: "Azure Automation is now available in the USGov Arizona region"
-excerpt: "Azure Automation is now available in the USGov Arizona region."
-publishedDateTime: 2020-06-22T16:00:33Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-generally-available-in-usgov-arizona-region/"
+title: "Azure Content Delivery Network standard rules engine is now available "
+excerpt: "Take advantage of new rules to further customize the behavior of standard Azure Content Delivery Network to best meet the needs of your customers. Use the rules engine to modify request and response headers or dynamically override your existing route behavior based on incoming requests. Now generally"
+publishedDateTime: 2020-06-24T16:00:29Z
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-content-delivery-network-standard-rules-engine-is-now-available/"
 type: article
 quality: 77
 heat: -1
@@ -30,10 +30,10 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 92
-  - title: "Azure Content Delivery Network standard rules engine is now available "
-    excerpt: "Take advantage of new rules to further customize the behavior of standard Azure Content Delivery Network to best meet the needs of your customers. Use the rules engine to modify request and response headers or dynamically override your existing route behavior based on incoming requests. Now generally"
-    publishedDateTime: 2020-06-24T16:00:29Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-content-delivery-network-standard-rules-engine-is-now-available/"
+  - title: "Azure Automation is now available in the USGov Arizona region"
+    excerpt: "Azure Automation is now available in the USGov Arizona region."
+    publishedDateTime: 2020-06-22T16:00:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-generally-available-in-usgov-arizona-region/"
     type: article
     provider:
       name: Microsoft
@@ -58,6 +58,6 @@ related:
       domain: microsoft.com
     quality: 76
 
-secured: "J8leQCVjOt4+WHmJhnxmyOPj/UWXnbk4aQovZVP8YDPjPdK/2iDLiYpjnEm1zi1UrFK0aGICm93xAWNVX96goKvGJ1TLRXomB3xoDMNfWMBdfgFACJjXuS530uLgT0VOdOL/BulISXc1tulBDGq16eThxqLdVBVpPW7K9H2rpl5JLxvjtdAyqasrh8rGPzmUo7lAQP+2toWWCzEIkPej2mgtDealXuVqGvH27bmLDhIVKz/m+xfbHFG1Lz4xRhlQQKL5HR+nqR3jScUJLxq2+HqgCIH0ej77Tdx8purKIGzl8wpkMWYhhaXJ8MJqgNFar92+jsiu1mVPLDv5hAR/+A==;l74f9vjIEuBg6CYVWo+PPQ=="
+secured: "N8eTMULMXtJTxaBs5lmTvjZvuMOm4GMIB+b3MFQ0lhi8RNw0EV2N4mD2nUvfZk1rvGSDvV3B9b8EzLpiJVPhXLBf+AKs6V/PddxIgMET2oBwNwK8e1mvQbhzVoEOH0VUN0Zj93D0pYB/dGTny+KQ1vVFFuL3tO29dqKqmfHQ6PUDcvwkOxUGA/rF4eLZuRdyuOlDtpSTBziGWW13CBqKN+Fk++wtbIgGRLCVIprI5rr9YYurLivtK9Gr0//tbmCO53XLm1G3GVYM5cKfXsDwHmZDfUNot3SElRcQQ4/O0jH16Iwjp2gdpfr65Fkn3LgGEhX0uOf6KmBMkXwGHlQAPA==;9iQmXhskk25VSd1mukZS4w=="
 ---
 
