@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-18T19:00:30Z
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-for-azure-monitor-for-vms-on-arc-enabled-servers/"
 type: article
 quality: 77
-heat: 77
+heat: 97
 published: true
 
 provider:
@@ -19,6 +19,17 @@ provider:
 
 topics:
   - Azure
+
+related:
+  - title: "Azure Monitor for Key Vault is now in preview"
+    excerpt: "Azure Monitor for Key Vault Preview provides comprehensive monitoring of your key vaults by delivering a unified view of your Key Vault requests, performance, failures, and latency."
+    publishedDateTime: 2020-06-24T20:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/kvi/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
 
 secured: "PQx69hhEieVnPXX4aGt7SEEPw7MqJVELZUv3np1HvhLTI0BeRUpQgEkxLteki93+7NaVFb+u+s/aJBzU2KXDGC4FbqBHKwcJtoW4iLpvxudgAkL3YfH9cIuATbzwgFeWmCV6S6/9HfHqTI7iV3fJNDZMd8PiQOhQH3OLia9KS6MzMehMCjurBIUzg2nG+2t46N67TTUTuAGngYGaSThMNCaIRao4Y3CTVomu7z9nKVPjqU9OT0Rsm68iQEmUME0pjLUVbrRlIMExzgk4V93bo+/waVkKh1mEJKTGJEinEYuHxvcFKZBji+H7HRMDBLB/NNFB8f+Ue+JsI8CkonUIdg==;Jze+z4gaNjHXEJTQxoPgeQ=="
 ---
