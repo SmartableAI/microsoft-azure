@@ -38,6 +38,20 @@ related:
         width: 880
         height: 494
         isCached: true
+  - title: "Epsagon expands its applied observability core platform, supports AKS, partners with Azure"
+    excerpt: "Epsagon announced Azure Kubernetes Service (AKS) support, as well as a Microsoft Azure Partnership and solution availability in the Azure Marketplace to serve the fast-growing number of enterprises using Azure Cloud and multi-cloud architectures."
+    publishedDateTime: 2020-06-24T00:31:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/06/24/epsagon-cloud-and-container-offerings/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 27
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
+        width: 304
+        height: 430
+        isCached: true
 
 secured: "MgaxWX2gnolVWuxg2SlS+YSqP+D4KrA22YEXKJ2nL9bwLSwqgLC1075SPaJ8dppfP7T6N1vjEtz2q123DZ4EEvUqDp5VShMS97MdvPYOPg/yiT1MROmhu0SAY5M2MdKEe/flrtpRoDw60Jyr92MVNjSpOXc1qfQZs6l3b0Ly88qVwESAe2GJI2+MIofazhY46wnqNy1HTg6B0Os3/fnX10mlKu4V9wGWxVlmej3g+uJwSpTLdcQzoKhhk/Ql7zOs1xWECry0yaAiAfU5EdMsJUCI+wL3cNYBNjQrsAWn2X7C6VJSRIqS0NQEi280GDjHj7yZrcurSY4tY3+vOc/gHu9kr9ZqUljKR6DfJ0t8iNFzR+OiEazi86QY6zYloEfB66cpIQPLWqX9EDKD8xZsBW6SSE0gb0rldOlplteRaYN/AbytVjVsJPpK+Fjhdj2IVFZSicnEdwKjB11VnE0sexMOiAQUcH9zOhKV7T+WRVvoZhueYErcDi9ETSn9L6pG49TO6FRlmYJPDe0aVwW9VQ==;WuikbNcNbfN/Rky+wsWRIw=="
 ---
