@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-17T09:00:13Z
 webUrl: "https://azure.microsoft.com/blog/optimize-your-azure-costs-to-help-meet-your-financial-objectives/"
 type: article
 quality: 97
-heat: 98
+heat: 99
 published: true
 
 provider:

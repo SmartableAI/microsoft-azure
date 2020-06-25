@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-24T16:00:15Z
 webUrl: "https://azure.microsoft.com/en-us/updates/durable-functions-now-supports-python/"
 type: article
 quality: 82
-heat: 82
+heat: 83
 published: true
 
 provider:
