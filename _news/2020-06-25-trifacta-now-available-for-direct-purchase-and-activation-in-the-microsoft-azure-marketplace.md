@@ -1,24 +1,31 @@
 ---
 category: news
-title: "Azure Automation is now available in the USGov Arizona region"
-excerpt: "Azure Automation is now available in the USGov Arizona region."
-publishedDateTime: 2020-06-22T16:00:33Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-generally-available-in-usgov-arizona-region/"
+title: "Trifacta Now Available for Direct Purchase and Activation in the Microsoft Azure Marketplace"
+excerpt: "SAN FRANCISCO, June 25, 2020 (GLOBE NEWSWIRE) -- Trifacta, a global leader in data preparation, today announced the availability of Trifacta in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+publishedDateTime: 2020-06-25T13:00:00Z
+webUrl: "https://www.marketwatch.com/press-release/trifacta-now-available-for-direct-purchase-and-activation-in-the-microsoft-azure-marketplace-2020-06-25"
 type: article
-quality: 77
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
+  name: MarketWatch
+  domain: marketwatch.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+    title: "Trifacta Now Available for Direct Purchase and Activation in the Microsoft Azure Marketplace"
 
 related:
   - title: "Rules Engine for Azure Front Door and Azure CDN is now generally available"
@@ -30,6 +37,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 92
+  - title: "Azure Automation is now available in the USGov Arizona region"
+    excerpt: "Azure Automation is now available in the USGov Arizona region."
+    publishedDateTime: 2020-06-22T16:00:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-generally-available-in-usgov-arizona-region/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Azure Content Delivery Network standard rules engine is now available "
     excerpt: "Take advantage of new rules to further customize the behavior of standard Azure Content Delivery Network to best meet the needs of your customers. Use the rules engine to modify request and response headers or dynamically override your existing route behavior based on incoming requests. Now generally"
     publishedDateTime: 2020-06-24T16:00:29Z
@@ -57,21 +73,7 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 76
-  - title: "Trifacta Now Available for Direct Purchase and Activation in the Microsoft Azure Marketplace"
-    excerpt: "SAN FRANCISCO, June 25, 2020 (GLOBE NEWSWIRE) -- Trifacta, a global leader in data preparation, today announced the availability of Trifacta in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2020-06-25T13:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/trifacta-now-available-for-direct-purchase-and-activation-in-the-microsoft-azure-marketplace-2020-06-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "J8leQCVjOt4+WHmJhnxmyOPj/UWXnbk4aQovZVP8YDPjPdK/2iDLiYpjnEm1zi1UrFK0aGICm93xAWNVX96goKvGJ1TLRXomB3xoDMNfWMBdfgFACJjXuS530uLgT0VOdOL/BulISXc1tulBDGq16eThxqLdVBVpPW7K9H2rpl5JLxvjtdAyqasrh8rGPzmUo7lAQP+2toWWCzEIkPej2mgtDealXuVqGvH27bmLDhIVKz/m+xfbHFG1Lz4xRhlQQKL5HR+nqR3jScUJLxq2+HqgCIH0ej77Tdx8purKIGzl8wpkMWYhhaXJ8MJqgNFar92+jsiu1mVPLDv5hAR/+A==;l74f9vjIEuBg6CYVWo+PPQ=="
+secured: "84ucZ84rbMoUk1d944Vrz7QeTkrhZFGpZoeXcBQIEzPEYvPeWq0wyZInNK4tw79ZnocwG1YxnnPZUs/1NCFpLiDV6lDSyLDC7wlLlesBuglyFWhZVx9UyU34dtZpMvtbGQdcKQuYZL+Kje23VFji/mu+V9iQ8gINY2PVwkbDy9SphsSt2qSkJvrdPuMvbkZanERylhTzSna+woezQ0czk9gUgJAfI3wjmciSsV24lIpFGMonjRuY+cW2ApSikzPAY9PYImxyvq2H7jkIInz/l4xBGTO+qaKWG1h3ULJYy9jIHmCfEp5U8QhysejsAbysii+fA3m2Sz6QeiWHNrv3ow==;gQMBFuBnr4aoYizoRW3s2Q=="
 ---
 

@@ -57,6 +57,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Trifacta Now Available for Direct Purchase and Activation in the Microsoft Azure Marketplace"
+    excerpt: "SAN FRANCISCO, June 25, 2020 (GLOBE NEWSWIRE) -- Trifacta, a global leader in data preparation, today announced the availability of Trifacta in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2020-06-25T13:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/trifacta-now-available-for-direct-purchase-and-activation-in-the-microsoft-azure-marketplace-2020-06-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "GZNQFT3NXp4mkoQykmHdYrsoplxago5uvi77QAM3VjVKu9SrGN03K1z63RAjtxGGn3v4+77T9sun9XUEzIq+BREN2jDh+yRExRLDxblPv+nHC+QPf0yGJ8GvAwkItAylrexD8aSJ9/15NZ5K9F6+gjl0GxoRdCNHqiQH89kxh14JsgdYcn4Clyotokuz2uigIbkvh3jKMDcvBaEJ9uyOSQ0fL6Flrd+3sofoO3xioNVRUox4wzFmPwOpgzSnBmGHgKTFkFR7Ev3KyinUO/mqhC5BnhMUU698AFZioLbtf3WnIMkIFbwgYfYVCnsWwvBGvXMeQzDi3HeDZf5gv+Jp0Q==;BflJkFUhFhXOxuBgYvlufw=="
 ---

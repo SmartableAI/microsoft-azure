@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-23T09:00:03Z
 webUrl: "https://azure.microsoft.com/blog/rules-engine-for-azure-front-door-and-azure-cdn-is-now-generally-available/"
 type: article
 quality: 92
-heat: 172
+heat: 192
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 76
+  - title: "Trifacta Now Available for Direct Purchase and Activation in the Microsoft Azure Marketplace"
+    excerpt: "SAN FRANCISCO, June 25, 2020 (GLOBE NEWSWIRE) -- Trifacta, a global leader in data preparation, today announced the availability of Trifacta in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2020-06-25T13:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/trifacta-now-available-for-direct-purchase-and-activation-in-the-microsoft-azure-marketplace-2020-06-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "aSnDbyaqzq70z2B/Vuew2DMa29OFusSdhvIfRkwNFaUeJDmPMGVGWSQ/gE6BH1DV4PSjs4zYd6NIkzab95/cz+TiUopTRaVS3YTzDzjWHAg4q3d/N0hIBekYMITspUMLOVMM27yLkmZqmyA672/e9vBTxMo7fN5L3hDIusgCml4vYAeR7e0YQo8aq2WKT1+eyvEAueolT2MeSAG7PphfaSOR46k4kjQqVdLG1vMvjE7m9Vc7yKZY+ueghZeac3R2DO830OKErWTX+ZVgvJDAxY+h0DgEI025cz52SNeo6lhPkCLbCx1NI5SXO5HRAHu+iZbVEzzJbgD44vrOXLzkjw==;MPXndT8gbW/+8OFzHrvlKQ=="
 ---
