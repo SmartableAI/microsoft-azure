@@ -1,11 +1,11 @@
 ---
 category: news
-title: "New general purpose and memory-optimized Azure Virtual Machines with Intel now available"
-excerpt: "Today we're announcing the availability of new general purpose and memory-optimized Azure Virtual Machines based on the 2nd generation Intel Xeon Platinum 8272CL (Cascade Lake). This custom processor runs at a base speed of 2.5GHz and can achieve all-core turbo frequency of 3.4GHz. It features Intel®"
-publishedDateTime: 2020-06-15T09:00:47Z
-webUrl: "https://azure.microsoft.com/blog/new-general-purpose-and-memoryoptimized-azure-virtual-machines-with-intel-now-available/"
+title: "Azure Speech Services REST API v3.0 is now available"
+excerpt: "Azure Azure Speech Services REST API v3.0 is now available, along with several new features. "
+publishedDateTime: 2020-06-25T16:00:28Z
+webUrl: "https://azure.microsoft.com/en-us/updates/public-release-for-azure-speech-services-v30-api/"
 type: article
-quality: 68
+quality: 77
 heat: -1
 published: false
 
@@ -30,15 +30,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Azure Speech Services REST API v3.0 is now available"
-    excerpt: "Azure Azure Speech Services REST API v3.0 is now available, along with several new features. "
-    publishedDateTime: 2020-06-25T16:00:28Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-release-for-azure-speech-services-v30-api/"
+  - title: "New general purpose and memory-optimized Azure Virtual Machines with Intel now available"
+    excerpt: "Today we're announcing the availability of new general purpose and memory-optimized Azure Virtual Machines based on the 2nd generation Intel Xeon Platinum 8272CL (Cascade Lake). This custom processor runs at a base speed of 2.5GHz and can achieve all-core turbo frequency of 3.4GHz. It features Intel®"
+    publishedDateTime: 2020-06-15T09:00:47Z
+    webUrl: "https://azure.microsoft.com/blog/new-general-purpose-and-memoryoptimized-azure-virtual-machines-with-intel-now-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 68
   - title: "New Azure Virtual Machines for general purpose and memory intensive workloads now in preview"
     excerpt: "The new D v4-series and E v4-series Azure Virtual Machines feature the Intel® Xeon® Platinum 8272CL custom processor, which can achieve up to 3.4 Ghz all core turbo frequency. The D v4-series and E v4-series virtual machines (VMs) don’t provide any temporary storage. The D v4-series and Ds v4-series"
     publishedDateTime: 2020-06-15T15:00:01Z
@@ -58,6 +58,6 @@ related:
       domain: microsoft.com
     quality: 62
 
-secured: "OYDttrBIJRHMtL5ERsSOTD8IS96Uk6zW6T/8SV2E/CNJI8jpY1AI2F3mzveijn12RVQEtsKq3Vm+IrWx4x9SmXqVfDCX4YZHKpY9bSVNitvHKf85K52KtDLWqgKRfCKPhkTiFXsiv/u6/eg0rYqH4E9v2lIpjmDrwCWi3NLA7oJZasAODff9kj61dJVa/cjiL1oxzJgXFAHTvyfmndx3IueDrEdrMcfo0b0i1qQGVOqAADe7LGNoUvIDSys99SJjiolwLKSCclbleaiOohaNqa28+7gsnFJrIvmWmm3wBEIpAKXkuaCl2OEo0fwHiuwJ4Vc3n+nRHDMZ3KFWqaiJKw==;GtOWaKaQ4hmNncBoQTPYPQ=="
+secured: "kK6uSEoJXfjMn6XaNmYS0mPVIaA6WL1r0RF/wbaKQIEaRMTpZy5tli6nMXM9RKHHX1DufU7Phu0pMNXfv7EECX5rdMz1HXy2Aua9JKpaYJOKjmtF3d9JCJH7qE0ospeGWkYBz1chh/INOJUrH/pAQ/zPWLtOZieTVaw32gcAn7RXzYxM6ZUMiitgO2bxUgsa2TY2MVZxcZar08AgrIquhy3atGRDyes0CfBfkNDv3ECF2uHxDOnDmGB2ABUjKNCJUKpmlOrpm41uVAnCQXIWcDLrsE8kZHr6GMQyTCpTT43+i/aKuahgLbCOPFjdJJIZDTBYFOUGUc9rk2c4hn4K7A==;7k2vLnjrupl+SqiBL02yIQ=="
 ---
 
