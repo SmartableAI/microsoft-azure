@@ -22,8 +22,10 @@ items:
   - courses/microsoft-learn-train-package-azure-ml-module-iot-edge
   - courses/microsoft-learn-intro-iot-funtions-iot
   - courses/microsoft-learn-deploy-cognitive-service-iot-edge-azure-func
+  - courses/microsoft-learn-run-cognitive-services-iot-edge
   - courses/microsoft-learn-intro-mlops-iot-edge
   - courses/microsoft-learn-intro-azure-sphere
+  - courses/microsoft-learn-image-classification-azure-sphere
 
 levels:
   - Beginner
