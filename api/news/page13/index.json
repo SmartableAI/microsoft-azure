@@ -2,6 +2,52 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-03-26-announcing-general-availability-of-incremental-snapshots-of-managed-disks.md",
+      "title": "Announcing general availability of incremental snapshots of Managed Disks",
+      "excerpt": "We're announcing the general availability of incremental snapshots of Azure Managed Disks. Incremental snapshots are a cost-effective, point-in-time backup of managed disks. Unlike current snapshots, which are billed for the full size, incremental snapshots are billed for the delta changes to disks since",
+      "webUrl": "https://azure.microsoft.com/blog/announcing-general-availability-of-incremental-snapshots-of-managed-disks/",
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/28a170f1-dbb3-48c7-94f9-6a58f943615f.png",
+          "width": 1427,
+          "height": 840,
+          "title": "Announcing general availability of incremental snapshots of Managed Disks",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-26T03:00:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2020-03-26-azure-container-registry-private-link-support-preview-for-virtual-networks.md",
       "title": "Azure Container Registry Private Link support preview for virtual networks",
       "excerpt": "Azure Container Registry announces preview support for Azure Private Link, a means to limit network traffic of resources within the Azure network.\r\n\r\nWith Private Link, the registry endpoints are assigned private IP addresses, routing traffic within a customer-defined virtual network. Private network",
@@ -1098,44 +1144,6 @@
         "Compute",
         "Networking",
         "DevOps"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-a-secure-foundation-for-iot-azure-sphere-now-generally-available.md",
-      "title": "A secure foundation for IoT, Azure Sphere now generally available",
-      "excerpt": "Today Microsoft Azure Sphere is generally available. Our mission is to empower every organization on the planet to connect and create secured and trustworthy IoT devices. General availability is an important milestone for our team and for our customers, demonstrating that we are ready to fulfill our",
-      "webUrl": "https://azure.microsoft.com/blog/a-secure-foundation-for-iot-azure-sphere-now-generally-available/",
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-24T01:00:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Security"
       ]
     }
   ],

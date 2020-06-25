@@ -2,6 +2,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-25-australian-government-to-move-to-azure-based-records-management.md",
+      "title": "Australian government to move to Azure-based records management",
+      "excerpt": "Australian government entities will soon see records held in the cloud, thanks to an initiative led by the Digital Transformation Agency (DTA) to modernise digital records management in the public sector.",
+      "webUrl": "https://www.zdnet.com/article/australian-government-to-move-to-azure-based-records-management/",
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/australian-government-to-move-to-azure-based-records-management/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australian-government-to-move-to-azure-based-records-management/",
+      "publishedDateTime": "2020-06-24T19:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2020-06-24-azure-pipelines-now-supports-linuxarm64.md",
       "title": "Azure Pipelines now supports Linux/ARM64",
       "excerpt": "Azure Pipelines now supports Linux/ARM64, as was highly requested by the community. Other key features to enhance the overall user experience are also now available.",
@@ -975,54 +1012,6 @@
       "topics": [
         "Azure",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-achieve-higher-performance-and-cost-savings-on-azure-with-virtual-machine-bursting.md",
-      "title": "Achieve higher performance and cost savings on Azure with virtual machine bursting",
-      "excerpt": "Virtual machine bursting, which is enabled by default, offers you the ability to achieve higher throughput for a short duration on your virtual machine instance with no additional steps or cost.",
-      "webUrl": "https://azure.microsoft.com/blog/achieve-higher-performance-and-cost-savings-on-azure-with-virtual-machine-bursting/",
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/977114bc-6c0d-44dd-bdb3-413fd3bcbeed.png",
-          "width": 624,
-          "height": 480,
-          "title": "Achieve higher performance and cost savings on Azure with virtual machine bursting",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-18T02:30:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Storage",
-        "Management tools"
       ]
     }
   ],
