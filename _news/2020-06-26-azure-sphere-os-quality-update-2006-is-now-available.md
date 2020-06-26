@@ -1,11 +1,11 @@
 ---
 category: news
-title: "HBv2-Series VMs now available in Japan East"
-excerpt: "HBv2-series VMs for HPC now available in the Japan East region."
-publishedDateTime: 2020-06-15T23:00:00Z
-webUrl: "https://azure.microsoft.com/en-us/updates/hbv2series-vms-now-available-in-japan-east/"
+title: "Azure Sphere OS quality update 20.06 is now available "
+excerpt: "The Azure Sphere OS quality update 20.06 is now available in the retail feed. "
+publishedDateTime: 2020-06-26T19:00:42Z
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-quality-update-2006-is-now-available/"
 type: article
-quality: 62
+quality: 77
 heat: -1
 published: false
 
@@ -39,15 +39,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Azure Sphere OS quality update 20.06 is now available "
-    excerpt: "The Azure Sphere OS quality update 20.06 is now available in the retail feed. "
-    publishedDateTime: 2020-06-26T19:00:42Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-quality-update-2006-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
   - title: "New general purpose and memory-optimized Azure Virtual Machines with Intel now available"
     excerpt: "Today we're announcing the availability of new general purpose and memory-optimized Azure Virtual Machines based on the 2nd generation Intel Xeon Platinum 8272CL (Cascade Lake). This custom processor runs at a base speed of 2.5GHz and can achieve all-core turbo frequency of 3.4GHz. It features Intel®"
     publishedDateTime: 2020-06-15T09:00:47Z
@@ -66,7 +57,16 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 66
+  - title: "HBv2-Series VMs now available in Japan East"
+    excerpt: "HBv2-series VMs for HPC now available in the Japan East region."
+    publishedDateTime: 2020-06-15T23:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/hbv2series-vms-now-available-in-japan-east/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 62
 
-secured: "UAOgNpSIc+mkSJJHtGR11yUKW9WToxi+QBIHDfT8FjptF6KRNxedQDl6KMZXJZljexJDDin7+Xi5LqTBpv+fYGIWGIBRvA58skP2vW22xWm0SGAe1Vzvq5b+aTW7LLLiKUTLZqkIp5eSYRXxhN0yCRaiHCV1GNR9Gqd8ybSKQiAgLxIV/qhfoAFrARjY74hwkxvXHAwfTF/INdMhHG5YRUrqF8Do+epQysCQvgROdWvXni6W3YRILA166+vhPl+p8D6ssdgoxEuzRqs4lo72GsZTNMEI9Ewsnc3j+S0SttG8m7mXOB3SbvBzgSfQTr2Oj9C2UE1+ZesfWYyVZqSLqA==;NZ/B5E5gb250St9wnljr5w=="
+secured: "diCre7V9UiIdvyR2cCLGYuD/xrkeKEA8gTMzeEoFrHqAgYyieoNgILX4vykTq4OQ8D5yi+m9zJ3R/n/BzcNVILxDIyhdtiY4HOptpvzTsMgoFY/8br7KjOT61wXydyjDBfHVIkiBYmgB5GdWlcvn6mlN0OMwbrRPE5b1p/qKoG1znQYFJe2JpZATa/Egsq9AykA7MRAz2prUHuxIO8JsOcPAjuEmcw9bYpRn+sjJKO+S/ji86wNmsA33IxoYVzy/IxCZlCqsBdN70NpgHvWS4fIr8m0g96CoyqYpKA2Gr7Mn1L2JmRQhIH3KY1YztBosxj6dxUgoP4C34nUtmdN8BQ==;tqKpWZk/e2eQsFWadQ/fQg=="
 ---
 

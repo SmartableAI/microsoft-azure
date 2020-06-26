@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-22T16:00:41Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-confidential-computing-available-in-west-europe/"
 type: article
 quality: 77
-heat: 157
+heat: 177
 published: true
 
 provider:
@@ -25,6 +25,15 @@ related:
     excerpt: "Azure Azure Speech Services REST API v3.0 is now available, along with several new features. "
     publishedDateTime: 2020-06-25T16:00:28Z
     webUrl: "https://azure.microsoft.com/en-us/updates/public-release-for-azure-speech-services-v30-api/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure Sphere OS quality update 20.06 is now available "
+    excerpt: "The Azure Sphere OS quality update 20.06 is now available in the retail feed. "
+    publishedDateTime: 2020-06-26T19:00:42Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-quality-update-2006-is-now-available/"
     type: article
     provider:
       name: Microsoft
