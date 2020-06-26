@@ -24,6 +24,20 @@ images:
     title: "LiveAction Extends LiveNX to AWS and Microsoft Azure"
 
 related:
+  - title: "Smarsh Enterprise Archive ports to Microsoft Azure"
+    excerpt: "Smarsh, helping customers get ahead – and stay ahead – of the risk within their electronic communications, announced today that the Enterprise Archive is now available on Microsoft Azure."
+    publishedDateTime: 2020-06-26T08:54:00Z
+    webUrl: "https://www.finextra.com/pressarticle/83070/smarsh-enterprise-archive-ports-to-microsoft-azure"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 37
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Teradata Strengthens Cloud Offerings on Amazon Web Services and Microsoft Azure"
     excerpt: "... announced a myriad of enhancements to its as-a-service offerings for Teradata Vantage on public cloud providers Amazon Web Services (AWS) and Microsoft Azure. The improvements will also apply to Vantage on Google Cloud Platform (GCP), which will begin ..."
     publishedDateTime: 2020-06-23T14:31:00Z

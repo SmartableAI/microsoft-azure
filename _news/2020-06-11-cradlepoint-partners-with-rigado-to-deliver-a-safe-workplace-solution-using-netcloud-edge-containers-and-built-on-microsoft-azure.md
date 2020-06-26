@@ -35,6 +35,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 77
+  - title: "BNY Mellon to build ESG data analytics on Microsoft Azure"
+    excerpt: "The Bank of New York Mellon Corporation (\"BNY Mellon\") today announced the launch of three new Data and Analytics Solutions offerings designed to help investment managers better manage their data, improve the success of U."
+    publishedDateTime: 2020-06-26T08:57:00Z
+    webUrl: "https://www.finextra.com/pressarticle/83073/bny-mellon-to-build-esg-data-analytics-on-microsoft-azure"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 37
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "UUIbEvueouVzyb3XuLaGhd2YUED2+drYPC7cjRe8Vx0mBL/oK6j+qbC1XoEl2V6txKlgs1hoarY1R2WgSXz8XwNy8zzIMfzPJdpmo3inxtq1z+QdI2GV79ScaiaGTGWp/Ny6kHLNXrGOZ/QBPa3UNIS1FhHPr7tRRyYAZA6CVBe16z0MnNrRIimKqmkw/hJ9fble36EbCJT7fn4+AmrMbWmrJ4wwOhGFyAfNMfrBSqEecgqO3OGdTYYqF9Do+3u4b3wUoiEXqAZEn4r13/RhGbZxrTMFF1UPktFipaGZsRliee3/fKtWaNx0nFmefVOItx/ye+GXTt1qgc+12kEGLQ==;d7OoMvW6m9nUWDJ8UEstJg=="
 ---

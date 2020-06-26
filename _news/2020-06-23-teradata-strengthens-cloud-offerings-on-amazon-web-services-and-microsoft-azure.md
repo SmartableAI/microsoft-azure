@@ -31,6 +31,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Smarsh Enterprise Archive ports to Microsoft Azure"
+    excerpt: "Smarsh, helping customers get ahead – and stay ahead – of the risk within their electronic communications, announced today that the Enterprise Archive is now available on Microsoft Azure."
+    publishedDateTime: 2020-06-26T08:54:00Z
+    webUrl: "https://www.finextra.com/pressarticle/83070/smarsh-enterprise-archive-ports-to-microsoft-azure"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 37
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "dQdR0LgYGfp2t55avhOPtxtRdqP1h/uPgfEiZX6eOkostslpVEZZ/AfFsXotimRpqNl3XYWOU1uECVlMAcXBI5qbTy4wwnVYDxWGWVLRz6+FbirKbVzzHBBoLXFYzYlJQmbHixPddM0GojkMLrgJezofe42rU3GrG6QHh1o0ep71iM9LP85Jf+Iai3EW+SBhCSzp8+JtgwQvNdethKHuzw9iOgAUC9AA23GSVw+eHhxRXm98RCYzZHn9Pu4FOBMpyvQybgSBKZ4IsAnZ77So+V+9AuH/VTGfQ71UChQt1qcVJKGMBRjaYZvC1BovaxrERpyezqYqwYvplITFeKoumA==;+f5d2H6dUa60mEBxRwJtJg=="
 ---

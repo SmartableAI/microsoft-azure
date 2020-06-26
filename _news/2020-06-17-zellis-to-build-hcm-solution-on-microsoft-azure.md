@@ -8,7 +8,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/zellis-to-build-hcm-sol
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/zellis-to-build-hcm-solution-on-microsoft-azure-1029316477"
 type: article
 quality: 77
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - Azure
 
 related:
+  - title: "BNY Mellon to build ESG data analytics on Microsoft Azure"
+    excerpt: "The Bank of New York Mellon Corporation (\"BNY Mellon\") today announced the launch of three new Data and Analytics Solutions offerings designed to help investment managers better manage their data, improve the success of U."
+    publishedDateTime: 2020-06-26T08:57:00Z
+    webUrl: "https://www.finextra.com/pressarticle/83073/bny-mellon-to-build-esg-data-analytics-on-microsoft-azure"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 37
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Cradlepoint Partners With Rigado to Deliver a Safe Workplace Solution Using NetCloud Edge Containers and Built on Microsoft Azure"
     excerpt: "Cradlepoint, the global leader in cloud-delivered LTE and 5G wireless network edge solutions, today announced that Rigado, a leader in low-power edge networks for IoT, joined its Technology Alliance Partner program."
     publishedDateTime: 2020-06-11T15:00:00Z
