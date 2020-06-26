@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Announcing extended term reservation for the Azure HBv2 Virtual Machine"
-excerpt: "High-performance computing (HPC) organizations typically calculate cost projections five-to-six years for the typical lifespan of an on-premises HPC cluster. "
-publishedDateTime: 2020-06-22T16:00:22Z
-webUrl: "https://azure.microsoft.com/en-us/updates/announcing-extended-term-reservation-for-the-azure-hbv2-virtual-machine/"
+title: "Ephemeral OS disks for Azure Virtual Machines (VMs) now support additional VM sizes"
+excerpt: "You now have the ability to store ephemeral OS disks on the VM temp or resource disk in addition to the VM cache (in preview). "
+publishedDateTime: 2020-06-25T23:00:32Z
+webUrl: "https://azure.microsoft.com/en-us/updates/ephemeral-os-disks-for-azure-vms-now-supports-additional-vm-sizes/"
 type: article
-quality: 77
+quality: 71
 heat: -1
 published: false
 
@@ -35,15 +35,15 @@ related:
         width: 624
         height: 480
         isCached: true
-  - title: "Ephemeral OS disks for Azure Virtual Machines (VMs) now support additional VM sizes"
-    excerpt: "You now have the ability to store ephemeral OS disks on the VM temp or resource disk in addition to the VM cache (in preview). "
-    publishedDateTime: 2020-06-25T23:00:32Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/ephemeral-os-disks-for-azure-vms-now-supports-additional-vm-sizes/"
+  - title: "Announcing extended term reservation for the Azure HBv2 Virtual Machine"
+    excerpt: "High-performance computing (HPC) organizations typically calculate cost projections five-to-six years for the typical lifespan of an on-premises HPC cluster. "
+    publishedDateTime: 2020-06-22T16:00:22Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-extended-term-reservation-for-the-azure-hbv2-virtual-machine/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 71
+    quality: 77
   - title: "Seven ways to achieve cost savings and deliver efficiencies with Azure infrastructure"
     excerpt: "The global health crisis has transformed the way we work and live. At Microsoft, we are committed to doing what we can to help our customers respond to the crisis and plan ahead for future success."
     publishedDateTime: 2020-06-17T09:30:13Z
@@ -54,6 +54,6 @@ related:
       domain: microsoft.com
     quality: 70
 
-secured: "AI+N7TB14NBIrtdb7yjDBoLrw0VHqmEuipju+Vv/x+xw+lLHY+Q5WswCDVKXTCDvxPSjq01r475zfmInwPoTFdMiyHLgTv/oNNpap9pUNSFOTBBm2uqyUw7ZGVioMCCvNi/5v7Yi4acXX9CPM/GvYnJGQelQ0+KnwpKb1XQvFxtjuxRv+n0b8mjtzTDq8OVdNz90EAhUkM96VQ9sW+kPhBTuSY/Qm7MMT9pPJERiGG8ihhI402QfhOnsZtqBs/tw3q/Ag+74NtcNLefkHPSg+oqaJzgs3Vc9NCJYOJxDpWTXLMYECW3OhuZb/qFoOHrzMKu52TrXEV652ZVJ3Stshw==;J+CaJhQ2QVYeEG9UWtJeqA=="
+secured: "nBaVn5wZr/QagAtGXGxhNVV7qRKfAuDmS5RO2oXna/JrD+sVZL5Jj0dtLdcjEY9dhV2xAFHZpSrTu3k1ZmZetK1YsCfibNRR4LPVYmOtVripsD31KX++7RH/i7sLFvQEMv4a7lao5ysj3Ey+kQ8zuhJ21x/sjBy+7un6FfiS5Z/zfUh5J3RSgzjsmszALE5auQPAc4LFWdaVokb/6LfhxIH2ntnq5Ab+Q+5G871KPKA6e4smAvVmBJliR5ncPts230JVhblnzD9Nb9apJKCptN4IFVtI0Bv0DIUndLE2U2Chf/zcltuZXICVuYvf+AogHi3A0ulV+BbDkZCITT7ihg==;JMji7JMqMl7UE4o+2NWDYg=="
 ---
 

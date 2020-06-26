@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-22T17:36:12Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-sdks-june-2020-release/"
 type: article
 quality: 77
-heat: 98
+heat: 97
 published: true
 
 provider:

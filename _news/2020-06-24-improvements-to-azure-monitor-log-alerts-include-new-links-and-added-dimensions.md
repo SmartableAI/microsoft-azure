@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-24T00:00:20Z
 webUrl: "https://azure.microsoft.com/en-us/updates/improvements-to-azure-monitor-log-alerts-include-new-links-and-added-dimensions/"
 type: article
 quality: 93
-heat: 94
+heat: 93
 published: true
 
 provider:

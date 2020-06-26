@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-23T00:00:37Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-updateddns-records/"
 type: article
 quality: 77
-heat: 78
+heat: 77
 published: true
 
 provider:

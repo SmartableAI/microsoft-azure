@@ -44,6 +44,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Ephemeral OS disks for Azure Virtual Machines (VMs) now support additional VM sizes"
+    excerpt: "You now have the ability to store ephemeral OS disks on the VM temp or resource disk in addition to the VM cache (in preview). "
+    publishedDateTime: 2020-06-25T23:00:32Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/ephemeral-os-disks-for-azure-vms-now-supports-additional-vm-sizes/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 71
 
 secured: "C3nVgUwF2A7amIrZKedGd6FheIqpDv1I/M1AooWN51BKo5k7+2S/LUR4POMItlqR2VmCFW8KFMdI5tBZcgDMz37v+ZoiH0CkgCW8YlHyDcF5fl8Ao3pMuwe6amVl8FeIZBF5RiUr3GFN4+zPbA+kykBOMLrPrv/Q+56XIKdwqIByyLHyyNnNa3lhvB8I7yQbVH57f6DJ0FXigRQt6QpjvepqfbfaZBwPPDe0jKKgwgy4X6nDEjToleGkwcdkEeVWiqyNeWScjN8uSmaVF0sZWLQ9Bh8o3xK8zBf40hsQFSu/BD/apeBgRBRy83s13htmMOSDoyhTeboYIi7DHgDlSQ==;q1sq2RLrF9Pegyx/+lBLdQ=="
 ---
