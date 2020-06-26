@@ -8,7 +8,7 @@ length: 55 mins
 ratings:
   count: 356
   average: 4.735955
-heat: 51
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduction to Site Reliability Engineering (SRE)"
 
-secured: "aS2nXNWHVyWQzUH7E1EDhAvTLS0zggIN+XhTbkmFqEChNKipvAe0xxuw25NzU+ehHkc8TEM1X8YikWprY+SNiWoNYET6v9Xov7cXdT6gmweqvFCMjf2nIvl+28GxRDRUng+elNLvt860IpEjcMfdiVEI37k0keH2k/LwiOA6WUVaRhr1Tf40hiGs3MnC6wiYlVETBlMUL9RQCi2QLzgW34dm2auG7VVsQioDw5gIKdtJNBjYa/Ut33qFsMNVhBH/HRxTGRKFfqCYMFWc0XzW3ygkthostPaE3zVkjlvsr+QgAMsZucs8NQSv/a5cxhObpr2C0AAYFrGa787CMQ1xF/sQn9/SBEBi6Hda4AfRm/GnJfZ+ILzVeJ/BC2NhWds76PYhLnvPXv2Hqi8GkfYNAQ==;JDZoR6PmX/KqGN5PI9qyEQ=="
+secured: "LK9+GiKvPYo4AeoUelEyCV4BSdRtDqbxRzmNCs6Ycg1QsuMXrzEQKNGLYYR6KYGyUdSsYe3NGQzFiib3UpxQcO4ShRNMQBb+yPlMQsO0eLi7kH2V6XdJmGIyBj0ervyUNye/Cfsg6lSE6I2f2b2+SIigPSO8DW6QCsfsJLIKWHIlrLejSUjy75nAbJZGrLpnkZBWnhEDn2a6+LRAaTD1WS1tEs7+k8REM33tHd1pmTXeIc6BAdy9Fs+Oaoog5L6Gs/i9gFctrSZ9zFS2nx5NaCGiZPJpguKXmVRFS0553HEMqmRinVhZlCpyPktMoUV5JMuwj0k0DVK89lEM8PIFo6rNGSfaEGWxxQvmrzLN19qoQezWxTjlu3FyNX88TzzPOXSJHrdvYiiDEz/l9JB/6Q==;1FyliDDRESBVqv0Kdkdr6Q=="
 ---
 

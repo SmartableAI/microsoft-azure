@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT19M
 ratings:
-  count: 5937
-  average: 4.705575
-heat: 65
+  count: 5940
+  average: 4.7055554
+heat: 64
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Assess your existing software development process"
 
-secured: "HOxTidO8YcIIQS9aDFdqI2DObydUjbJgn71QzOYKlgIpOUrPfvjf+hPLMleeSI6foSMmVHVfaFq18Oy/I6g7WiB23qi1rqYx1WudMKxUVCtTCrqAxOGNFfx9SBA19mCcbi9j9I4KID2Dk7mUjgQdIcmhA2LnOAK1Lay3BBJdXNHlRQnzegvEwjMD4ya5mtkiBdXSlwGFAROHioR/RIlWV9tiNeGTM4JNmEiacruj/oGc8YqhDTy4u4gXFm4JomtM1IvSA9GZVHbvH9b9eRg/6lGongnImwGnmZ+q4ZuItgryUQVxqwYQk5SucJ8Bc2jU8CO1PzK5UtBBxbvr5HhSF9sY8po3S6KXzMxsKp4IPfJ2x9G2isXnQkj6xCc0sJhsWSKMUJKVqreURFzz8MHjVw==;TBO2g66w7r7czL1+qJf0OA=="
+secured: "IN7S2xpGgY1rZrbYsg5oxCqg9p5y17JG+Zk3VH0f3MUwPp7SZiDM3SzLbGU/REDNPTfNuK5yikyJbgsM5i0ePVJgxSa1tfVpi4LiwwUhFBUfSob43zWIqOZNVCGt/QR9hGGP7w1JtoJyC0VYBK01B9w/1vPRHVsxYQRYP0kePkGzzGO2gapun7v7zitydJq7g2X9qnV8kCKTr6GYEHj3lU4a27Vhcd0JoNzYqPxLYwu2p0iU6+2Kvr2skQLbG2cALQnNiXB738bHFfR/F2k2bbBniQmMCQQjKFq3SndBV1duZ7h+Cq9sDPMEySAX9EwBZ2BUetvdNJbTzOCYZum0YeBGGI2NWSoGJBKH55WVY2X99ywuvyL4xH8iyvR/XQW30RXTBjthDuy5vrVBP4Zz3A==;LQhtGmfkjsK/bAvCnhovyw=="
 ---
 

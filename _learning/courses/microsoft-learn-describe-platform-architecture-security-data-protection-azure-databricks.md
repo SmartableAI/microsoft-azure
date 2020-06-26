@@ -8,7 +8,7 @@ length: PT1H3M
 ratings:
   count: 21
   average: 4.6666665
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Describe platform architecture, security, and data protection in Azure Databricks"
 
-secured: "AW2ruHEdLc7s0+EtbZpxilxqqgV+54FnsfzOlGKud+T1HpSkDz0vPTT/udyALCnPORrBthl8sxIMisYlOc9Izzz9QnaKOwIxb3lD7gDTRMaL4aUAHoIkK+F3eL4FNiPrH8T0ADwvowJ1x1I11AoRi5MiFQ+utP7PvSnQGs0V2wUB9HZf3gtdnEDv9Ybh11YxGsXcL7Eclw8jESWq43phjV7Otp9oGlQ/M63DPBQ4oIAP3nGrhKkQac+qUZuQlhggTv7TLUy5FrL8g4ZRe0ZWnih2ooTxuMMt2bXKmXuESQeOAPUBVkFI7tXB7IU6HXT94XNTkI4HVZRt6wYTjse7VzUkCU+aJ81kecdb+Ob/ehdaIStBOS/j75WV0dV+PhhaMDCOWoUHVGDH1LzDWWnEeA==;OqHfm83yqS/r0l9Eb+VQUA=="
+secured: "dTshBP3nfNZD6pH7TWo8OL5LL8BOxWrYdfbIu1E0FfbJP2mqqnBIPKSXaUaWE2Dq/q9VjvpT+rjxZaRXZnb+zmNzj5/zjetVfQtsm0CdScYOBNX9JWMj8s7g3LVFQ/Tn6vmw2dB3m/mWqXCm0eohwQ1GTRh21kciNGKCAkN6dKGD+BYwsN1+wap710+WLVQ7CLP3XD/MRX2reETDfEr2td7H3HRMnjeu7X2yhxbkHr38ARt32i5cb3fw+vTJdRFK0EgBNVIkS7wjyiJBO2mTxy90XLX5JLLfTHG1awRJgoAWTPh78ptRr+UlrsKYlqj26mRMySbPjIeY05p3eAgdDtif4v/SQQ1/14ySjqEh/GRAZZQ6rCtkNfhG31ORAtBw9NtfEdZbBiGPIHNMroon6A==;36+aN2lKGlBSdqnW2b0CoQ=="
 ---
 

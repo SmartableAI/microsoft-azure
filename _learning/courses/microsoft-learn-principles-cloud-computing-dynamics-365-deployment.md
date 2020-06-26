@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 43 mins
 ratings:
-  count: 1311
-  average: 4.6842103
+  count: 1312
+  average: 4.684451
 heat: 58
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Principles of cloud computing and deployment"
 
-secured: "WxbO5/Hz7vhwe/yM0e2ovSG2EEdaIhwKvi2M4S0lNmQCxNvr0vthwy/pJzEqHQvsNQaD3cjfF/GczvthTdcvmbcB9icJZMIiOEVXZd52kU/ePitcULomHsugCPfbfqoTUdH4l4KYXJyqhCi9qIvd5vyp0pHYe2I07RmXRv0vvoAGRUzRfTpaggm/VsMtI5qpc9Lj58f+QL9q/62lMDeevrF6jFiEvauytPvtrWxy996RwLLkA494+laWmtFyEgch4aFCajAxKX3B1PElLk6MmGn0u6h1jeg939j4xupyXeCTmfycv5LFiqYYt0ixq+Fr3tFdTlkQd8/VZNhYbgOANVE0ck6l/luSlDBrEkG43BhjQweO9MKXxWzFKCGR1KEg6PrnPWiRvYPz9AAddW56fQ==;dS7HRykxbiOULO6PIyRjWg=="
+secured: "bnhUtblCdvyUA12C2q6Mj7YIuzvPCK4ibeDXzSWY5H7hv8t1rn9loYJwYV89Mf1QLF7TExJ7raQSjuK5epx6iAzYiO5o+S6BhDisMBpdArF4tOmDvFUF2bkdrD727JMxSI1epUcMT7r6rh175/bpILQXz2JeK7ueXnRPbKbWuaiDfAt/co4Hrgu84FlWfjRLg6kTqI2GovABnB1nthL0YrrlJUuuZ8aaHLML0Ze1nEvTFRcbXCGPnzR67ypd68MxriZ5O1Y7lDWwBbm0AmyeQu0EhmfpH9281MOP+cxL2as61K5CgAtPn/K2ipgwewrJPk6yMvpHF/cNYXtt/cT0WOj1DKBw9wuzMz0Ai36qcxhAqeCqXRy2EQ65IVMlpOlT0scBw8+5qPDXblrLf5dttw==;Vkihh9fJSWaJRCxj/DbjiQ=="
 ---
 

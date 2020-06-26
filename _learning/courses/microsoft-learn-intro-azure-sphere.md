@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Introduction to Azure Sphere"
 
-secured: "kepta3HK188n0kEnTZmWVj7tdpflp9Whcwro6/y1E3eaBowNqwH/s4dfN4yyBs9DevnOnHOKjNuIOyhTfZi54flcq0ysdi0xha9OchrbZRGUK9otoYN3cXK26zmNvgU3hUBrit/umgyVGJjQaDr0Z1BNT2trZRJdMCdsDh2mmaNdQj2Fqr39+I5fkOkBuH7g3xXUGRr/KqV/ZrCzxfkxJtHVgbTTzEMmSQXwbnk5ohO/JrOx/01pOB4aYXHm0pGPDtJvEm0+FQU7FRvdv5wuG2r28tb87s3oIX3PM8Qn+y1/D9Q8/jXODs18g7fragiJTYAIA/pxQnimCaJr5/WSac7/UJso3xjXfDuanS3FVPu0u/Rua476++oJoghraJAV0fnDAZkwyFNArtGccZSH1Q==;KxBqsQm48oU9WfV+40Iktg=="
+secured: "N4K9x0JhpmfW5DuQtW1HcEoBUR4cCA+kWqEqbxveNtUEGkXojK3GcbBNnW/v76O5/1RoLZgznZ1i1OGNY+2oQ92aYQq0ucJGjI0ScdQGfYbBkzw7UWlC/rL3xa+Y2EhyWP50IMwhkuXFpDiztntvLMczMmdFmrbL7R1FFDTTbOt+CWaIVGiuheToAkVJXj4C7kJai9uyBYlLK6faONXmt0SzWbSdVUKru4SAekhm3bpJNT+VQM0Uumr9ppcRG/v0h7qSXsBDiFDv+uCDszB50dlQ0ctoxN2+9NFpwuxKDiXM7hrs+7s61lCIbHTHo541U2FESTANcg/Hq5+fmlylsd9JgjEMBVaFpIPYu9Y2jY6IiUBz0SZLnxxjO2dnP3teU2cfjJ8plzaLB5ccMuAU7A==;99iAeFcB8D+OP/ptrjWq3w=="
 ---
 

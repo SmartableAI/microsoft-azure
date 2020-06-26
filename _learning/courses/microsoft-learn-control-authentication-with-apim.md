@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Control authentication for your APIs with Azure API Management"
 
-secured: "uqn16UExqqrXVzV+Caosk362SU2lYKqduK8Z6JAofUrPf1wlYfR/oZtWOk1F+FNyKjbGNJHzQBkt+0jUHLF9KxvLdko3f/oiCZnbKiN1CbwzAfj0kX6ulsoIWhvtUfSuoE5OZ+mWD/xm80og7LkSvcLpua31DoBRtsSqyG2+2Fm2m9HrcFhcv9sfOz1/7xK8nEYP5U+54396/7x7BY6hyeAEVjOak1VHrDXAYZrMpkCFEG+s21+XcPj1Qgq6A/QkQAXqvWlcmYdGz4TtlmfahhjPZISnrJiaOzSwJHbStIl4UAdwcuwHQ3F34c9aQ7VkUgcqURAfIFCQ/5AnZDv1pOi4R7ztKK/kju5mZ+DSpGUAJMbKeU5dyvQ/L7f+Zi0dPxtZhrlXiyFApzYH0PCeMQ==;kOFkaUbvMiG0sqLd3o1CSQ=="
+secured: "gXmgklHyCFwlTLMQoHNNSE0ZyIQxwrha88uZNsA+pL71KoRkAaXxuY5SZm/Zwp1nsglMKqLFcVNfAFKR7Mcz/KvMl1r4D44pIS8ErDW8spJTgKksYRT5jSJg4+ZwaXehAHSXU9/zN/Bs/9mHeyzRqq5QiVODaHROJ5FS4QxAaV8NbgZyTELMczBz2CQka9sQYg7IrPGOwBG/lzmm7YfL7Qub/Fv7G0syvd+OcEyBsQ94bZG0nJsbMdeURmK4AQX3iJTMnordyXvBY3cFhTkoRqjnzgn5/+cV/Oos7ixz99GLs3Q9I9DcT+Xp7zn5IhrfhqsGvfy5yFbSz03Luh2zIa8ANlup4Py5FolUwW2bMHkwdp+yTdlpUk7yV6sAzjEsXFhPAYGQjGwe4gGfh5xMow==;L0VlV5nuVhIqjU8yciMtmg=="
 ---
 

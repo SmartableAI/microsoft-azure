@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Connecting IoT devices to Cognitive Services using Azure Functions"
 
-secured: "/SJ4a7D3mC4GVMwvlaGOd/dMAEFPwdqD6DcbfaPDZr7dS/zXiVp/kxz60yNIBGV/ldl7eWZo+RgBLbEu6e6I04htZ6sbZYBUMdMO0106SFDSobxzVa6xb0ZrHR3nYEC9y3Vyhpwitih1ZoqX9WZgvoP+ZAsq3A23CzMiIlyoHHduGB4Uph5c4hS2bs0KUQyRZXkDdsLqsv/umkXtarjUDsoXDeWiAAr5qRDH/vEkioS9EiQHb6lvkTXQjSAzPuxmDs8pU7Sjpk4msbQI37qWs7w+7BvHOZzB5JMt2ewusqgwDoyUK9PP7X0RNaPkmOQOo1lBt56PLhMXJ7Jyks6RnjnMmUr4KreZ9YhiIGM2BOgr/LCKYdFVewdshN5RWESn92GN8n+PXV9L/nojOpk4PQ==;JPKG+T/E/YcnAIqSZFl+5g=="
+secured: "Wsq0ClqQVrsdmDHZaKWDQHoxKhxGBOv6esRCmu2boJV30MVhU+ZwXmI1A8zk+twtJy4I+uVnvaEIp7GZy7Jdb9MNPlU+lFAeBkqVgZvCZizunIZbqZlhJIq6lehmfyjsb9W7iFZZxTS97EGW48uwXrQ9LdIA8+gx999GW451SKVN9AiPVsk5g6iln/FFE4FbaVr+w9yXNfcKcby0ubh1jx+f2f1w8ZCFEBUD2LHmF8fvOo5WUrtdhutFYLHJcCGgoD6LLlXIdoiwfQEVZ5o4EHPMkXvK6/S31KlmueS2isSZoDOkzVHZuwNWgZZnNBBSmZrZMPA2xD3dAF+vcAbdEauMEQpNEAOjQZWmqbVyDFh2Tz/baO3RKjbFAuGpdW+U6on/dHj0l8k7CMXg5XgELw==;ZHtpBQU+0+d/UY9z/HI8kw=="
 ---
 

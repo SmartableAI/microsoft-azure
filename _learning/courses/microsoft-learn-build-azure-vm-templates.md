@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 37 mins
 ratings:
-  count: 2849
-  average: 4.5240436
+  count: 2850
+  average: 4.5242105
 heat: 60
 
 provider:
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Build Azure Resource Manager templates"
 
-secured: "tPdAruv9p5o2Jgt4TcCenqTESsNjkCLVVQlIOZFxD4AnTntICW/YtKSGtKTxH7eMcgr4EPJhNjHqMQddrxW8c2PndvcQbgD6xjrEC3ZO5yJ5Py6M/qTvvzAdGTDKvOKTr+28H36iUCunDY47MI5LCXXgvd7R8fXCveGjl8rSaIltmsn6kZeSht5OtmMcIHUGBnsKbcmNSM7mq4XPFRnDmbxdytG8oRMK1SCCFfZHnaePwmxMTeQ75nhP4PBzHlpTKvhV/MEXpIEP1AkebjDWiQARBesNggpEnBzkxrTcNPufPftnXaenbTs+tyYqM/+XlxI3awGEaEd636GVhNPoRvB9M4oA6CF2ZKyP+d2ZwO/WePtNq/ZiVPpfzqf05a/VkSuHViLwLifPdDI0N9+qmg==;xkm+dLCwqeWiP4CBjXRdIw=="
+secured: "+Coq4UodxVXlw6FEy3fYpHELAMIBod/YAfv0qcD5MweaoQZFJNfmNY49A6vvykoXdO2uGg5N7TpW5zLTv2GvEDFrriE9NLxNQet5upH+8DTpk2VffiX6Y5vF1SOm1ZeHQ4sj0eKKJZTvr447DfdpRlgCzGg/Q57XEqcMsvyvsr2ZENRXOeLKiiRB0sL2zdZCclVIVe9Jn8QHC+5pSzuVexZuGnVYXrq4Fc6F1MXY2kqeK/JVtlfxdFgt0mqe+SuOgHxImtHK6brhy0EJoGPHqmpC9wHCd8tBYUehyv49bey7fzo9OilML+EOkvIeWFeuDU0z3sgPdPeUykUrm/4UOTkfEde++nyIJK2nHpJrzJOxW4jkg0pbwsgiCGC0DgvULoCBLDpicrVnC98HqzhqbA==;IOR2X5JshVDPyZwafHE52g=="
 ---
 

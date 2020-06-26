@@ -8,7 +8,7 @@ length: PT43M
 ratings:
   count: 11
   average: 4.4545455
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Improve your reliability with modern operations practices: Monitoring"
 
-secured: "ah6c96ISBrFEpfQHx54XRnBndLdfOqc9ZznBauNjvXjdiQt9lUZfzZB//N3/VZW+lUZ/1IuanhG3HlqDWHPBylM49bBaryUHenJ0NJyLAZsTv4fubVyFZUDMZQgd/VhlsfJy7VJ3hD/yr5A6qUSOviHRm5G+7b2/CuWIRbIyjDq0CgzwqCDNihLGQ9+x7x3+BcyVj3dIr+4H5IFKHkxYsPgLg0ysNl9Shjt1KPF7ZisUWHWMnF9M1xs8vb5c1PGSjZWrOfk+3GuEMCiTcC7EZWrobgb48V+2tuqRpv6FrGwm89g/riV7sc/z+apmL1rPLhmhPfRJrIr70LldjvOnCNHax9gQwD4jxhIy8pyh7E4XifVCtrYWiXYx5Pc71Al+jx5teKYgy6Wejub6Oy3wsg==;ulmEnOt+4wh+mNB6tWqA8Q=="
+secured: "6cUWFWf9xPLPAm0CnGfJ+hDeAX6BYdRGUDUDahaxdcW+SpL7Sr4raoXJ3x52icv5Obdn4p7Mu/BFjB8XtHqyK02wql7UfG3x2SuYHDN7n6p5kB3rx+iT8qUagVwH+5n8UOGzalmNjI+Ie/mRm2eA4lzofS7yefkCtQeHDdd8MGiv1UgiPNDjKbHDqoGD5c0O64rbqgpM4f8+jpAqzcD4ANtHktgTbxTd7GNZgQwp4UNbtK4WhKjZZvl+hGSQB0MTfLgIirDAPR6GNdRUe8Aa81IWUH7mnxvs4qmj2l75ggZOYKeg7PrMvmdVgbKyDtsug9YjZ1y9iOPjHjpom/7xyOeV9d8IYJMFVbdezWEw1OYpJR2YJjMiOXsM37E3JoYMr0Aqlm13UGGOq3jtofj7SA==;zX1BrhqJ/2tvKDrd1Ctq0Q=="
 ---
 

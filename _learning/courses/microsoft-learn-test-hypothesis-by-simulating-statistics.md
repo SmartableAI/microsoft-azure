@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT60M
 ratings:
-  count: 11
-  average: 4.818182
+  count: 12
+  average: 4.75
 heat: 50
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Test hypothesis by simulating  statistics"
 
-secured: "3cYNABQ59bUt8IiLmALyjn+e4iAbwHxZHLUN3p9xwyVExhe/uoUlXsh+8AEQUUH0FOH/XDL9OFDFnpauesDa7fTGL2aP3xuGPGm7UrOwHPzOncNdyRVkbK8d6tbnmMQZMQEymeiszxEfMoTPyDhmyTC7nRh/tHbajLsLFy/wpRJ2VW0MNKTYKHXrF9T6d8Qlqwv7D1BzEeswTksCcQyJBp/4Yyrd8IyX124JMT9szsrurFiqrlA7Pz0C0H+Vj2xhFHsSdCAdPEcGcKQKUziOFvcPt+pgtt5T9Vo952uQpocQOGGENvsOxWlAuQAmCz8Ei2KMUwRCCsoOIBWFOrmroZEfWejn/VqASbcUxshFQkiwy+9smFF7txoe+Y/Io/AilDYwLHDvKKzzIFFH+H6BPw==;4OaRH5k+DBidssKo/L6vgw=="
+secured: "7E9+1fxVX88Xjwh2ynq6YUdkzPvrgUTb7dcf0A4+mr7m4AlxgeoPsi62ggqn9psmnSeKdsiFako//zbUoyHtb3jyRjhUjm3RNQeKpPuu80A+VVcv+0Z2YFHQoZ0NRIChy6zUeM0saqgBu3hY09L7o1R1f+XarI2RO9Z7XRUi3ZvrQulo7ACDhUB+bN2AHnA1768OLlgoQtlR4S9Faooo86FXsp17v01H/CptDGTXhiE3UJiCrw0w2uWkqPcyws7xVRWy+OD1bBInT6zlWdQGQ+/MUdP9Xb6aZAor4JTVFgNtPQd7ILri3U1EFoop2NEpsy/dKJ6oEzbh9/OAAg6JxpAeYRPB3zeoVAPRJPtbX3avu22/Rf/lP1OJFe6TDGLrwuD3VNmbq0S1ao8+XjlMZA==;jx/7NEWDbgPVgh3ENjwAPw=="
 ---
 

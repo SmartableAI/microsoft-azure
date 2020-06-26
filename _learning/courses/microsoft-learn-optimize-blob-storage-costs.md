@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 43 mins
 ratings:
-  count: 52
-  average: 4.7115383
+  count: 53
+  average: 4.716981
 heat: 50
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Optimize storage performance and costs using Blob storage tiers"
 
-secured: "CVe/v1K7aLaOD1POSKPzUFbEH6CQXYOlOkTTfW7aJUBrYQN3CmpznLQqBwFL9qMljXQJj5bsLobsOFSdJktQQFiOp/tNpykoQAHKokHNG6ZCNeZu1AVJspzV2MwtDn3YkD8b7WAy+UWQ3sYyQsJDadvs5PPY/oZQEd0S+twUsIEXsxdMuJygCyHkxhwaPBBntwBv57dIF6o4u6lk3YCpFx375ppQp4h6yJCJeDCS3h209qsmC+O7pMn2A+6B7AZalW1vF/FQftvdQWVo73EA9djymRaH1iGr6brx/IjDcXg20drq7Jsh3O7nkjZMuOE6S5Ug3HotnIgWR7scf8zVwsT9XLMYFRtU+8pbqfFYmliINwVGEoEgBmwTR49okurIo19oK7A7xTsPUWGJ7imEpw==;NyubXLX1F/uGm/Myam2Hgw=="
+secured: "JdAN5orCCSw436wEjPCBe6twM7bGJ/DS5egGjC0Mj/TahMjHkm0o1RTS3tZhpahIxDfglE/o0Fj9evaG3X9ld+oiOIIFSXdtI2sB19rFyuEvmu6tXLNGSvmRYMKBJ1kChA0EYJcUU+wm0vgC1EC9NUt/RKeIHc31QHF/FuwY9qYs1tIA/DcZCkfpYUF7ckMY1QuS+0vmqWL0+sf40SWRR+i8isfvxew+cIVjzP+0DbgvBIaoQpj4ZigvvWkvKpHJ91lH/7H9XglCNVNHf/OVAaK8KQHEGrsIUSvYWubgrYdp+loLRMdLb9qsL2dTc90Gzdq/UF2+C8VS5UtkEJ5J6UDsWfYD6AwpIzIJ5My9yMxQikSDFFTDfomuQPODLiKjL+d2+mYWqUlx/92oed8JJA==;09ixzdY6ILOh2ilVdhHPSA=="
 ---
 

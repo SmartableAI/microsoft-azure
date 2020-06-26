@@ -8,7 +8,7 @@ length: 31 mins
 ratings:
   count: 767
   average: 4.7092566
-heat: 62
+heat: 64
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Allow users to reset their password with Azure Active Directory self-service password reset"
 
-secured: "3YohDt2L+BKU6Ob5oKa77OmutgUeoyofQ9C7ib2ZIHV5n4vOqvYTdAdjMdJ/XKJ4ICmHPR4uwCwBFBdm10viix7DTpag5CtoK+ZmL7ZM30dmgPDlviTY35eucAgbrR2hrcGTTjVADSIK2qwKwfPRW4yyzzcAVKbBX7E9UHdv0X4sIbuKkbUwHINra1YxM19pBYBK3CdVN1GSbCAyK7q1CGUgVbiTU34i4SP/2ExFK3Fvm02d6lMud+c4RIRpxwJ4M5YyxbfechmEToydliUGl6BXNjhebuJBYSIMNAWmwJlsCOGKVa+/McK4ZTVaYfWoXcROSC+15wD40c+ZpZ/658EYqPObRqs3NfKlFdhK6Jnsnv1QRtd/xj2G5Ozln3jMMlonqy7QM97hIwLvR8qobw==;pn3qZXRcdivDMrA3Sm29Hg=="
+secured: "4qoAojrTiJFr+8hr0Y9GXIXqLNwk2s9YBEgbUmiq8XnuHgOUHwOutPMR8/JecgqSFWcge7YW96SCffHwr7gOSiajn0kTwkNQhC5fRt4+y7rpsTPBLoXY28Fr6nuqJRp0VlxQIuTOs838p4vIHvMnSdesabTLO4CXY350m7GVKl4uPcLUNKJgAu2Jret2u+fLCOCi2cAAvbQK3obfIkUOEmaL2px7vwAVNku56x44sZyvycJf7vu+s6a+UkVVskWjJMCpDpC7B8RrWoG75eRYX7escHpntUQjCKqmXKQ4z0E2mSIx1SUqTvc7S6YwxwLsOC+b+OXQB/vHRjMiMF251+jsDnskKX8QAigOBequnN3KXdneJY/bqRMkgFbkkf0Bb/5+Mo0/t8wkLwkzFhhmAw==;AnI8d8rWWry5fX9hhENWtQ=="
 ---
 

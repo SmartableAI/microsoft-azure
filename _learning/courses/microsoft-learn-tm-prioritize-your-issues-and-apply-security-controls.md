@@ -8,7 +8,7 @@ length: 14 mins
 ratings:
   count: 114
   average: 4.6666665
-heat: 51
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -38,6 +38,6 @@ images:
     isCached: true
     title: "Prioritize your issues and apply security controls"
 
-secured: "L4fnEbNl1QNPYwzCV+tMNrYvi549p7BV95Sef48mSW5Xct2hXKv4ByIcb6vy3PLIDr72xj+db/nnYaR8Xuh5LKpZa+2USSsPVfVB+BveeEnG31XhwA5OaZGkK0tjmDwGaTs2fHXgZgukIY5jcAYzyvcO9Auuj5+/O2XnYPPE18fU0KL16fVISOLSPUjRxHye/MrSIVNlfZX5UoCz3qOVyxU+HQfNKp1vJeRMMhsZRMiVrP0H2bpBiBXjMI4pZxinG8KHDCd3K8/qMCfugu04wJiz+AcYjAA62T6TtzVzf95aIhC8gjDTFZ4bZI/GGMHTik+3vLAU3LGpkPMK+p78YC38JI6MDXtHukYwN/xKthMBL2n3EzqmJNW6JV+n1HIPSTTKwHBHu3TZHmhXqOHjGw==;9UZY7fghp8GogQfSGY0ZXg=="
+secured: "QS/K5D7hTcfnBEN9PkfkxvaduxN+8TA2iJMgh7m8VF+80MJJNZWEFSJJoSQGir+qADyw1g6yb+4Ib8NAL72wxxMI4jCUvlixKXiZf8+HgMvD7IulAAE/msqpeMtT/8KcmHRG3KJxQZ/aVHahM95GSvLliIJM2X2rMxIqfmJda1Q2C0RoAVrDtryHnXjwm7ZNG7w4fORL8YOUxPc7xXZrB2tuJCvfISNq4oywrp8yEXnv+v0WTEGoOV1DZ7icslqngO4/UUEI4y/krICJmaXE8LA51dC5uIPRkX5dnYPSiSNUlYg8HNzMjJvtRQ/Uwe79pHv5UzSOSbJYH6CLqKYm33UblOOVDaXXzH1q/J8n6wf1yCcb6ouCb/3IR+Jqp9WOJ9Zk58gW3FM4S0Jc8I8/Jg==;k6MeJyVAjhZtsNB7o0inZQ=="
 ---
 

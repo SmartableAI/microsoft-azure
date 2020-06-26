@@ -4,7 +4,7 @@ excerpt: "In government, decision-makers must take into account specific public 
 type: collection
 price: Free
 length: PT9H45M
-heat: 84
+heat: 79
 
 provider:
   name: Microsoft Learn

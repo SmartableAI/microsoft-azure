@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Centralize your core services by using hub and spoke Azure virtual network architecture"
 
-secured: "bTi0R4+q1BeQiK0xvjYFBqZQ4zVuFm8JF9g+7iPbV+EZvtYF02+5Sm2PcGrirxRxWwz80KzLZ6FgIeOeeo2juuMBfWnJQaBGNmYGzfv0bLie21otxIsvuNAhju37sLsScPaCTFZ84Gm07xaP9d73dI5dD5cCpXDkmJe30GpMZdJXuVFDPbKAvNvEAlxRVbLsHVEeGdxxeSS9WHZGBK10pSvsHpD3YaWSkpolANY2yorabrDcHUtt994lGATnd7Dge2yG5KHSrI4uo7cOrWG3WrQCy+h144MHTovFn1SuvJzZls3r7OGtIkZfSXWUGpmMWXU89PCwkH3DO5ZmHnPbM7Uv0js0AvdSGytYhbcrj//ti0vnQlriWVxoarkcqLGe+kQc8wG8w3CG95OaVHLwhA==;Cfmzuo1qr6XG4ImNMDw7+w=="
+secured: "sqcLh6ohZVV2iwpf+IDh0YD7e59YHsFgn0jamSR9y+PHIRXfRtyJeaQgQyPJgkJpgIjLkc+a2BtDhyAytIEmVxMMoX/7lxUvCRscts6IC/XvK9A++8dInSGJu7MbwO+trEo7+pQvfVbZKsZ6Iv9lio/P2NiD672ej/MDNC4kCwFLaovz8weeelne7eonQ4RZ11Q9wMLaPrp1N+ZidpNJ58fTAhYPc0vPsd4rSRlavra2mGC085qcGxuxUNbPjQM/kCB6SdzwE+kucuzB/T1/1c/dY1Jdnvp0fSIJXqprLZJEg5wl4YVuT+uu6jqpr+pjN9ky/niomWfGLK0hARnuNSGw5y0zMrbJo6R2YxYcJnGVlxk3dB3LRcM7PtmkoWDdko3ki0o08l+BbVLBfe/VCA==;ARAK8F3P4nCo1OQEswWw+Q=="
 ---
 

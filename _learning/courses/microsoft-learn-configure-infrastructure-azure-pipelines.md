@@ -8,7 +8,7 @@ length: 62 mins
 ratings:
   count: 229
   average: 4.5676856
-heat: 52
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Configure infrastructure in Azure Pipelines"
 
-secured: "Uv1scbLF2jCmu4lznxSQhKk7z+leLqQJ6Zl6dvYnmGrASW7da35EvlhkoymaMsfJLKIJsw07bfCbmHh2evBJjHYuJnEMi/EqqGUpInMIUP8SDjdz3Oi5Q00/5DTR+2xOsWKbNKBmsr4bO+1J1y3LyH54Q1eK9QtCzuRNjr2ved8xUBZld0J5HejHQBQ0TeAuGojc7Gez/o2N2tL/oXsu6pXEB+A5IRzwAI+jWJiAxzX7Y8GStJDg99Eo2OG9XO6Ny0e/fXgQHSPUF+a+CmswaW82G8lv7sINGbQx15Ki5qp1Q/gamDZwjdt4w+CTN2W8bqeFrpQHLd8h7AjmYBxkZ0+dJnNLIwMA5m2qz/V6IPBFHC1EeH53q48uLNsCm4jO3C7DjyfEt/dUdk3k5YNHIA==;X7SGYpOnVBoTFysk0xcmDA=="
+secured: "IOJG12WZb+mZthMt4WIU673qA9nvegZdaTDo2LyBzYfDKp3dlblWG9ScryMzNHxKlhjA+w59cu+AvE+fwcsYT9RTi8bkj9iaTZ6Lt5lkY2KG+VlYhSSiN8u/ECxA7Uc9yyDjKI8pSeiko0EecST/bjw351I3lth0OHVaTfxF3tTw0i938PWPO3/I5wJ+YZ7XqvuIS8lL1P9XRgMUunUFbmUe+Jv3OtMtU/V4KlcsLBDBKTjXxhow53FWmeTf8ltB0/EpBN5NfYJ8p5Aprcc11E1T1ZGeWTSsMdV1gnatcUqNDedT9aZCq+cOlA8zFTxjC76fFeqf9c6Vq4Q0ZYQ9ESPxdxPwiI1JlhquN97gPs/5Fpc4vYGux2KwOZMYFNxLFIiTzE2+iv9uuj/k71EF8w==;exp60cZz55x/2t77Dm15Bw=="
 ---
 

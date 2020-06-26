@@ -8,7 +8,7 @@ length: PT36M
 ratings:
   count: 44
   average: 4.5
-heat: 51
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Automate development tasks by using GitHub Actions"
 
-secured: "xrLj7yFL3l5NmXOMGDT468NAeDfXsHpt5o5ETOd7PlvI5wGztnEHPAuGGKbFB3xihZygwzSz2xGdeDKqCwqE9+zajJU94lsMTUH0T3H33M7cAHSjdKcSoKZBgKu6msMMviCR4KImmxVw6Syl9d72HMtt9eeSCvObBWFXwnlSdj07UlGz5bX/dtS9rgMY5oraVbbjQtkXIqA4bE5Plb+GfUp/EG+k8lPSIMzI4FV+Cy+8ZoFnILe4ab3d7XNrlv77ppOeXMFaFIWjvCf85tjd9Pm01leurxOOnSKBG9hq8G9hlD2qNp7fpAN02so25W42YPiQ/JHI2J8Ws8Rkz6xDKXaMmxieCtFYES8FfX1xpps+/jgCFizrPDSyTO/y/w/igy2hui/vIAkUOj3wZUvQpw==;ifLbMOKbhLoUqcMjxg0Vig=="
+secured: "pl8EaCPDfWXrio1nRu6WSCdtPnRog3LWduxoHKCegwD1sv/kg52/XBgRndMMwaNaHZurczNfE2dtwPSwVPzHF8t2pn/p+d8D5ktQKeWi+TjRPBOlmU/4KCpOHSC8ZwffQsC6EhnYo17xQeSjyPpJqPERI3mAZnq73xYT7EO3erUao5AJYWdF/1YS7+ypuIMJsn0YQJNZArcOXEy9n77BQ2p+vQK0spm8cNNg0RFp5R4NgkmrXNS10W9d1QRjblg8L6SMcKoTsJjrQibd0Tgu8A1GK5IZvU3VVl9DupJEtKja5lQqTI7XuB/yYCqNkuD/hoIDFGbt2bvDNxVszuyAZJgBQHOfQeLgiDFIUwXmyyEHAuSO9vGpvggqGtkruU8og0LhqZIVVIUYarURQIEn9g==;ZTN+S3JVR015VYXzE96yvw=="
 ---
 

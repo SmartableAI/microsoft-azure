@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT1H28M
 ratings:
-  count: 40
-  average: 4.55
+  count: 41
+  average: 4.5365853
 heat: 50
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduction to Python using the datascience library"
 
-secured: "SF5mc15XsQ6WnJYZhNtRpt4xHPJWzXNgbPVa2QcQYCGi5u9uNztbq2XbaWVFXVaI5yI2ICX2RWjOjWL4i1GmbB265WwrREa7K1Ws54oT3A3I0OafIw4NZ8Xi62xnafBFWDv1Y3R5Vx0ZQOH6CIZPGBFGew2wNM5wllS3Oj+4WkLEIuibCxxf06OB2Q4VwIP5MULuHXUfs4v+9i9ftJQ6Q39K/mrK9L3hE3tMDrxpZ2ojarg/9N+FKt1DG+/hhcgzQuQvsUJ8CQp1wgIld/bBUt622+Ok/eJzyeIzCkIOt6zZVbx6415g+l2bhTSVt3TZT1IkWDZNEos37/GJ/V7Y8R2qP9WgufosFxN63hQrJ59iyWT9V8m6LYjKPgkhqe/xnCg26Vc1fzgdK4dwQqOYSg==;42dTytjaqABvs1xHl2BwdA=="
+secured: "BMeQUupOcr+GqpfsJncTvUzochEjNYtHgp/7jvRvBgG8NXsg67C2L9c8+jcpxncrwGB7wGrW0hNnPBdUEJCfYogo0+79hT62yU1nPe74tCoftX/BaJrDHrzq4n+ozib46kzISZUrxvWo3HIE933+AWC2IJoBdQE32o6JS2zLqvL6N0epjEeMHPWdfI9FkYUscQWU1sttDp55l25I9LwKeptLeomZSRzTtq9B9eVq85O34p7THNc0wGGrDIMf/uTbMQj6FXrX6cPeL77/PyVrAraOPJbke1R+JY83edjiuhMZhzrrc4Behj6k7uRrhIvhjorYSJRMy40lSsP5olMgS72SeHLQ1vHUAsbfe4cKeozEvWRSdwdLL9Al7dPokPhGF7XJKz3S2onYxWinxMAUBQ==;SCH2H2JxxtW5+6yamA1ZiA=="
 ---
 

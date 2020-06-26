@@ -8,7 +8,7 @@ length: PT1H20M
 ratings:
   count: 4156
   average: 4.748797
-heat: 59
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Create a build pipeline with Azure Pipelines"
 
-secured: "j/XPXa9Y7hv2x7nVJd5BmY+rWlPnrYq6zbhaO6bwAGxguROnk8u4EwgjLx2bgRhiKVYcf03w31mumSXiFLj9LhuWFlLBwBLpQFA4pQxDMC6SEiQS1/gxHIDLGHHyUzkXY1w74y6MLjHkBLkBo7JSOb2WAFXGzsdqQBaxgjx8KJESCBbdnYf6b2l+yuGP+CWvtnoq+MAhGE9WeWlRkCCMczYZpisth1Yd10p4RBXuAwYdB31SmdAC5AYnS45JlX7KS65MhUa0bXTOrjlhvLhgvsL0ID/C2XdjQE/8hjKGZiLCEa4hVSYew1pS6tCl8am8n7JnUXZvQ/6ZDIF6AGQUvQ4ajGyZJ8JBNBQAzaZ8LRTtEFRjwtK98KfXO/SlGUvsVM/132C0lLbe/bcNf6Y3CA==;NPcDR16QsfSmOUt7Z5NbLg=="
+secured: "mL279aRpBG03mOM+OxQN/8bWN61hrs6eV9G3R1OAH2NAq/QlwKQw2fkJ0UgWfprGZwRYuPspznActYcxLRLBYD6awsg4BpZA+jkJyGWEwHm2E7eblFqTB0Tl4ozW+O52tTld/UEfhcwmeANJ1oZAo6gQyRxw/YcgAM+wXwsmR/5XP+YAENcyRRUYWPqaom/mn4J4cPboeZV1U/G9xOjX9qYvokJi/Bcecj1wpleYiIwWnUJRYKBeWibEl1dErLlkiePegaVfRvSiK0Pnm3nuN+tIBGr36vzF+n23NJogJ7bvvxunC5XRi5+nG2Oh++1ayx3FPhMOY88lwwNffQbf35+nRHQPmHyyeb50SqmN09mboGaNmtAYwbJzITPBb7meWYBt3qjo4ZpuqE+isIAFBQ==;MciQKEk3lc48UdtykMT8JA=="
 ---
 

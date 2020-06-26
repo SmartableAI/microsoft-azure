@@ -8,7 +8,7 @@ length: 34 mins
 ratings:
   count: 149
   average: 4.6241612
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Instrument server-side web application code with Application Insights"
 
-secured: "gRRxZE0q/pQQ0YeuDC/DktlF8Dxegv7hbaK1x0ZvvAgreicujoKpYHBC1YYATw48uLh1mXvSZkB43gcFR13q6naG6CQVdGx1gvpb4eE0Ta7NwGEIQuB09zXZf5pPAIWbRTR1YRQutUmtfSuksXRCdYasTSJE87qF9hx8oRcBT3vtF4pCCeX1uL2Ir9FRM71ujwhvPMGYX23QAzBW+qz13qZlW2U79N9wJqfq8HVw9jQozPuVzUVXdbWhbqbXgtWaHCZVn1lH0vcW6Dhxi9sVibz5Dm3Hdns0jLNZHOYI85vpfK6nbUsceHrSxPt0k1brlCofrrroh27mx1heIaseYWPFTy2NSUrwMW0Gv/4H6ksBKaKC4UiJf9J6EhToKdupLOxhZek6zK2h4MjUDhYVxA==;VgLs2HIbttoVOIggNNT+1w=="
+secured: "baUDVJfkSxWzEsDE2QbMru8MJzx8H3AD6xnsVJnvC+xyHTfpoyGbQGuoxd8N9MyocV31+IYViN7gUVaNiO/tCuK6iLcAW1xGEmS7aMahSQIa7t2uDHl1KvZARQCcYiby55xzjWvW77FgcOtg0GNlBog9Rc76rErkyJKkuP6TicYCg+UTjVhOHRaaKUiNwpdTNsHKmHdI3kK28+7phtHrv3PKoXhLD90hSm48BBNrKk3ajg47XJTnNwQBC5G6x5ySu3mkMPYNgF571Ex5Om9gaDQ8wxXtl64lgzTwTl8c5KgKDU/YgWWBsN+ru0uV5fXG9BJQ/mEtIlqtd4IqRH7GM2szaMhEp0ToFdntuT47nRSKHQh0KcOEXiogN9DtHquYC9PE0SMac8vyJ7MIY50amg==;UA9qz+DXqObikrCAjFt+7g=="
 ---
 

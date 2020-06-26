@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Register and manage customer devices with Connected Field Service for Dynamics 365 and Azure IoT"
 
-secured: "VQVTaoE/ED15ciJK1FKi1AkL6QVtg/rXMIORsz8X+h5dqFpUCCTEL9yvRDoJA/bOyhYFTibB//v9sO/qnO+XBB7NokgS/x48BXGg29qdhzhwz8e4SwYt93qCxqEo3MvEt7n8hfjYkz+QbdXchIzHFFtH4/DJe017hjy+itkiUrbPxQwebwWPDbElAPzRhcYpP5T94aOQ8jTdh2tECKJITQtgAzs5RGj29yoykz0YOxyPhbgyxxiG7SwPxrifN81Xi9f1dvVI7Sstysfap6s0JUO0m+CaUPOm0YiI+fb/JIbvWk69JDBHM60z7+38K/L5QYAL5Dx0d2XXVjgD1dUeVuf8av4qu0oKs6CU1g9ASLd5E8PKjCi72vu9VAIDOzXgOqZ7KQ201ZmvI7GWeYgjCA==;XiCeuesipKQCmjEKiZ9Fbw=="
+secured: "XLUFaUkRO4CQ5s/8uG8unMQWy2YGJuoCDiyTJtEwVso2/mRWf/S0Fz+1wLBItXn/X71k4j1JXd1gc82X4dzceg0um4hIp18F8T/oNohAOuvbC7HYyV4FDd1YTigGV1ONDc2RRbMsW23jdb5/cfhK7qvK6XajWBFKtEfK/Oz1YJ/whn4dwXQF2oPrFF55XdFtCPHmmusqQ24/ZLT7Gei3/UaT4nNM0DQaz+kD9wIOS2iOzSm/v1VKJdLzxajgQQ+GKI3T9pfE6Bgk8WUR1C24/rUxiCIgQEs4KyjgcChMG6fHWoUdRSohTwXp+HpeZTAhZGPEQ+mP/mjefk6P5tN6Nw95jYGTS2MKKu+hKKsilcePbGf+U+Sy30tW9+wRt6poWK2BxZG0341pe1HkIyPslA==;MRPIvHC1VsHd43tJxpuOnQ=="
 ---
 

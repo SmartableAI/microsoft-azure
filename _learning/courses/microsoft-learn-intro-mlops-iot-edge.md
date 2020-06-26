@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT36M
 ratings:
-  count: 25
-  average: 4.44
+  count: 26
+  average: 4.4615383
 heat: 50
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Introduction to MLOps for IoT Edge"
 
-secured: "lLb+oRQIPsLBjiJxr+4JUy6pnw6yvKp5C8hxK0FRkr9OCrR7MNbWmJvBue3+sMZSZ6t/CDiKhyTSLKKOjbpifYWKZXMzP+NjRLprU49PyogEG5Upl3yShTzfM4hbHYBYdf+RxV3WFjZ4GSjxXALvWP45x2B/oeKOZ6vXa92SgC0lrRaQvms/1mmQHext7GptrOuW3BtPvdg3m+v6h04QxYUCl3TMqhORBUQOFSnbTXZLWsrYpWKavYuoZp3gNCF0dTePqWKqFbvPyBZWUxZljgC8wpROT8qu3Gy9/fznREXug4sjJoPcUocJH023LuGk0IownNJm2M/BIr48sTEHk7v+OOtB25O8QygKd/+0bSC4AHNGq6trxJ/SkJl7qvcezqgXUc88jhq3Q9tb/N8M9Q==;DZlI4EDn1wpoM8NvD9+9ww=="
+secured: "I8PkOopEXlT5uZr4Prctyy0rj1CumnLIo8JG1si/qWpFpI2Z6EdMUkhgaGUNtvhNjESnHcCdkMAM+lD05B9M6HqlmDw7at3SgxeM5E2TJC5eucaFJQmTFej2vCCxNpaT6ALQlZWKf0EFETs4WGMDArXrfz8vakOgFqzhMO6XwdcdkBpuvXp20aqUEv69kQVcAH43HQZdznItUsyM4xJZovVL3kYSeViG+UYEhQgptm5sgWhluUFoqrXhT2Pr42gVkiwj6w7RCKpsaxxDYgW4hsVj6rbbXnzpHZ5W5NXFbtyTD5v2Kcbp02IC2PEKfgvrfjWuU88a/5wjoiaP9ZTqL/CH2q0pc2tQ8Kn1RKQgU3OlbtRwnSgQQWVFY+dv5gfOVAhlg7C9wn7GRmfoTwrtjw==;yT5vbLm744y4fRaKWTdJ/w=="
 ---
 

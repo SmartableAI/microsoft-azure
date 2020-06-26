@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 46 mins
 ratings:
-  count: 2041
-  average: 4.4610486
-heat: 60
+  count: 2042
+  average: 4.4608226
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Create a long-running serverless workflow with Durable Functions"
 
-secured: "hUkYgFZv2OGvdbAbq78StuYCas+/BpvJPhFdI46FozAp86fNhVUWFvrEwjvLYQeV1P/r8f53Et6aaf/500tOp9ODTCY/qfWYc0bSNaUZXe3kzP75qC0bAjPbANGhgx/dHGIQ8ZqHlD1+oD6WsreRw1cTVUDRPAL16o3SYsypc30AY3ssbt+KniBluObQa1xIbQ+hJR7wQ6e5lG1d6ugFsK3LrQ/BgCCkgi1Y3NiyAwnNrdbOj0MXksTKrV51P9XH8wPuHvX0pir/KZ2c+3DRAKv+6qKWithmqSE3womMYYgdWQNVcQ1hFe3YerXrbxQhiGZtvBfvuSOXHuqOqU0rW36wRyiSqQvTdNdEUEQtb252jAbGQkJepi/cJ7+eU6MPs3mCiN4LKMNgkdhQbuQ4gQ==;UvaxjAHGsVwEprTURSczhQ=="
+secured: "+ZJRVZ+YAH4NmgKlI5463n5N65hWhvkK140P2Yt+jWpA1TyOSpcPKq4rA8Xp9DT/0FMnI3RJkXYntpK2VfgDLglT4NUPTM8EPDvDisovbEh1zfAYQ3wpCWaRVLvvdRM4/p1jxuAsrk0T/ivrSYCg076o7+oQPFLSulP4V0J57DKWdhCKuk6qsfKFhCucLa1QsbR6c1KwJeqdC1lWCV6ssqlH/So9YaZF/4NM55FvYECipti1bRnGS0BKOH2wOgk/8B1sFoKgSjcXULKSeRCd/lT/9PNlI33DAT55+aN1DhiNfiBEw01fUTJEl12mbYxiPW6HlchFWGrXwJZkhcViN4h95yJidbEW+oikt9gVIsemRdx9jxsv4+D2thhuDc+qofTr/YvjbeFBhcLNBLVg5g==;v7JnSY2OyzBn6jXz4JmesA=="
 ---
 

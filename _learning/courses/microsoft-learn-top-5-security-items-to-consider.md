@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 45 mins
 ratings:
-  count: 5058
-  average: 4.644919
-heat: 71
+  count: 5059
+  average: 4.644989
+heat: 69
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Top 5 security items to consider before pushing to production"
 
-secured: "cQ5CDmvypOqDT9diO6uVIbYRQu+Qx9RSgw+ZM/Rij/RzqodAf1NN23upu4gnaLOfB2y0sIeAjx6hbBf+AF1Ys8sXye+0jjjwYPJIOyzIjN0gACkCiqABlGEJ4bM6zusaGOMbVmxGfENUcaj6sVKHGhBLYFGBNPSWqVsXjFGOFjryhp9OTCyo7ZdG2DTP463Ze4jQTBiLm50Gl60llAKJ+dx+s9cxvwu2Ikziy3N47w5Rkx4ygfCqhQjZwDGYzGeQNeY6kb7UScQIWrVoFWk+zp6iuqA2Cx3tszUCxv6k054+qRPnqVJ3uGR8DE/pyInY4MvScc6NwnpL46qsah1GfhgdzqUhmY3D/syTwOajnVndl4P7NvQ1dOA9SaSRwVNqITLccoUzVfVE2nKd0OOL9g==;QUwx11owXGDTJNQOzh44GQ=="
+secured: "UIyO0BNAwFfspHgFvFPc2P8S2xtWdlzgbEh6+rziPZjviJA88UiT7LkpnxkbYzIo0OeLhA7NRXtDlJxguWOoHJiGY0NOfu/UmsjRUGn1jwcJv9z7/YPSlz8YTWyP6eWN9oQdap8JexFOkZKVYYgPrjqcvMcWrPXmD4sWAefQos3x7ieG3c1ndLpWZw8k2LsUg4lMk0psxngqnf7PHNyZfhtya1ga/skGj5YxNHjyuIcifXmJ5GjSvVo4boF4+Ph6PB5d2w+J5Yo/nrRdZoKpSt8A5URUb0jpwSd2cLgX2QrOx4YDjiAvI6LwWT6ZGXjvLhdNmlRRUfZvWmnvHQE1Q9nKdFlHlQq+GTzujmjB5kDzfVbRpGffLk9sbK1h3J/LZ7mJuKjBC0ubDv1xehdbow==;8iGkOTtLuTxYb6f2DLJmFw=="
 ---
 

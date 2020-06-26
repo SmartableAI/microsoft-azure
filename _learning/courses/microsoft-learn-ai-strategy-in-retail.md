@@ -8,7 +8,7 @@ length: 40 mins
 ratings:
   count: 562
   average: 4.781139
-heat: 50
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Define an AI strategy to create business value in retail"
 
-secured: "YMaA/gszGQjNPWkgHhq3e8feLZFmWqGZA1Rw27PMsV3vq+pb8IKohAvyyjow76ybmH9P0kYBvmC0zYJAxfzXZ0G9YczGTblXGIYtKWThOw24ttQ0aGdnwuBCvd5WEyW8zde2DP/AuQXiZ/a5gVwCb4rNJuCdaBKoxZq1hhTJz40Fmbq5PmWZc8J4paKFZSf+iYia4atJ1iii+lANsAlcd3+tGE22AYRmizkjQHVCWMKZPOCovEcynqkBjQ1ALxlGGIrOcHnlhoviIMMrmWTtNj9IbRP4rEy1+GIX1zQsCVn47jmKNdRKAk303PwytqwbaZOS/xiJd3PUUf7oY7c8O7P+LlOoBm4IqZObJMG+I11CJ8eCTIYEzm+EobW8bN2LMukfxo1qdIDMQDVB6TISpA==;n0erHmXTt753yFYT1DugmQ=="
+secured: "3bOvftGcYdk3b/EnQO8UFmtS4l6wZDyve27iRzvRsrClmF+M7iWAprxqhwciSmsaaHL8s7vvwfwBkJVVE6/6RgdDt+MTWtTS018m6d9K1oYMs11YqWixILlh3usp2ShDeifE9BrLufIiBd22cRQols5pTwFbpzLjJ9A76Kun462nX91m7i/dzNZOlQPLNjv7Xv13bv1MY6Zx5v6qjqtQ0QwqIwbJ0+VyxpUhrWhYau0E8ZF+rtBH6RU4U3sukvnumB156o1r4elCS4H6f654juw9gRzFLNovjemjff4vgfrhYAruz6sD+aqWRHtx5Z28C/p8OeVja1S+n9fvS+4kdnVoVc1Fb6H1g4lk7STP7kdvP0dye0bjmkPEei2wC/9k5OLdZdFfIMaPc0iTPoCmig==;NpbFhPNIIL8aJt0tVkR31w=="
 ---
 
