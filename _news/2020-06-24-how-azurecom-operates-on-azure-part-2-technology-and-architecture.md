@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-24T09:00:15Z
 webUrl: "https://azure.microsoft.com/blog/how-azurecom-operates-on-azure-part-2-technology-and-architecture/"
 type: article
 quality: 97
-heat: 118
+heat: 117
 published: true
 
 provider:
