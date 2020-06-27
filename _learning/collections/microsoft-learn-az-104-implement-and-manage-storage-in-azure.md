@@ -1,5 +1,5 @@
 ---
-title: "AZ-104 Implement and manage storage in Azure"
+title: "AZ-104: Implement and manage storage in Azure"
 excerpt: "Learn how to manage storage accounts, data in Azure Storage, and Azure File and Blob storage. This learning path helps prepare you for Exam AZ-104: Microsoft Azure Administrator."
 type: collection
 price: Free
@@ -38,8 +38,8 @@ images:
     width: 200
     height: 200
     isCached: true
-    title: "AZ-104 Implement and manage storage in Azure"
+    title: "AZ-104: Implement and manage storage in Azure"
 
-secured: "T896wx8RXtWto801HFegnxue1uM6p6CGPptibuUM5mcycAT5n8VhO8UHJ/q+zT8zRlliFibwRQYQqTNfCOvkSbpJXoAcNIawL0qSE4G1NSk8moyDd4wmwX0Y6cbm5mRB+LNn1WJ9be9iNeMJNM4ZFRy+L1fyxObHYQDa8+AmI7TO92I8wtbmReKdOh6x7sBuIlEL6ULhDWfTeaQFYC0jr1Wd8fi+mQMe5gG0+FEq6yFrBOlJtneeY2l5dm8OQXdAiwHSqkfJO6N5LIwNbPenKYaOAPtepR0vwsa0Vq0zGjkG6lM0dDHmWmNSbaaLOyeaHeKOnQqCRDlUIgakhgj+xA==;VpVL1za+fbSSAhWjNEGXqQ=="
+secured: "VfE1cev5pSNUgoNZg6Vmi7vYimRP/Zbv88ZQB4axH6KcfwaJeADvVgQtA8JEcvUPJ9DsH3G78DHEvH/Dgw1AYxSNmVqxkGZkaEQ/pokZIwvxuhrXhwYuy1O22Bv4v1iEHw+TU5O7KGLc0KU8PR4YWiwT3rhIGP/H1Ktf278TdQRb6ZqhF7BngD8VjFXKhCXytiyFPyc9AeDOvI9Grodzfyn38mizn/nI9kmvMfFOPuY8budkGweIkiSBPrKiI5JYZ2oliO2mRnD60Jlom3yZLOJnOVgYEGW8iNX5EpFOGQCWBA2cc4KTawJXaJpjIOY78R43//zP22YdZaqpUW7MEg==;AjAYZ/ax/b5K9iRhqTnzqA=="
 ---
 

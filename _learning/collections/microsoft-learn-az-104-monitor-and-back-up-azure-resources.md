@@ -1,5 +1,5 @@
 ---
-title: "AZ-104 Monitor and back up Azure resources"
+title: "AZ-104: Monitor and back up Azure resources"
 excerpt: "Learn how to monitor resources by using Azure Monitor and implement backup and recover in Azure. This learning path helps prepare you for Exam AZ-104: Microsoft Azure Administrator."
 type: collection
 price: Free
@@ -40,8 +40,8 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "AZ-104 Monitor and back up Azure resources"
+    title: "AZ-104: Monitor and back up Azure resources"
 
-secured: "n6u2D6d06jRnwtoPsTk11GjUtEyEtwb/xKPMOs4IfM6WNX9VAFjbrXrckn14P5l1CFTQX99Rqh/JLDdvJDK7JdRN0zSUNfDBDmCX7V41LpobY+W+9TuSrHJ9fjB7gcE3BxZE4SaNOgHlTkwR2B3oM+jcFkJHZ6TGPOUVNuqoxbNe6F5gf3r0Jj5h9GxJgpg21XXCnrThkF5WreYHH36DfRnkPDpXwJdJgMpWVXBzc9db0tI5GMXY4oTb9oqMJW8jSx6fEnADUchACCzMWLCJKE4WKDQgKANm5Z6KXfF4lez1cuM7I9emnwmjPfYaSc5TlpVMRmYVteNMQR7EmhOrTg==;vlFnK10z9fZ7p2QRLaHnDw=="
+secured: "1aft3WJW2cRcXH1ywCtwcho495KRUD10U8wrArdLgi/FT3tDYYJm5LTS2DuptgfMsrR86XUNBkQlOM0Y56OSeCTDpQ5WHo0avuxL/tYWt4Xu/9iW8hjfPmYeMekeZdaKix+UdfOobF28CscY/gdyeiBYvy0TJ0Ty64idlvHnxysbaducApGXyZ/6a0zmvA1dFZfRxn1ECRF+Jg6ET/QmBUIZ11ooFnnOJc+VOeonbzNvK1DWQiEph4KVksALUmVM9xHx1AzbHn7OZh98nxlFXZ7PUsWYJ/136hg/8TMRWh+/h9eBL/I8yVmm5MqV5+KF09+QDgirGBLGs5W01TGcWw==;Im9clz3xCcgbKJdcN3Nk4g=="
 ---
 

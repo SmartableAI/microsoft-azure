@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 46 mins
 ratings:
-  count: 31683
-  average: 4.621469
+  count: 31686
+  average: 4.6214733
 heat: 142
 
 provider:
@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Azure
+  - Management Tools
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/intro-to-governance-social.png

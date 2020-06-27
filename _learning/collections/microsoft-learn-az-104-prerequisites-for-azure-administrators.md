@@ -1,5 +1,5 @@
 ---
-title: "AZ-104 Prerequisites for Azure administrators"
+title: "AZ-104: Prerequisites for Azure administrators"
 excerpt: "If you're an IT Administrator that's new to Azure and need to prepare for Exam AZ-104: Microsoft Azure Administrator, this path is the place to start. Learn the basic Azure concepts you'll need to know as an Azure administrator."
 type: collection
 price: Free
@@ -42,8 +42,8 @@ images:
     width: 100
     height: 100
     isCached: true
-    title: "AZ-104 Prerequisites for Azure administrators"
+    title: "AZ-104: Prerequisites for Azure administrators"
 
-secured: "weMDJ92DDBCA+B4qcJcLK3Q8Jl8O4shRM0v9bKSaYdcOxDo0f3xyPqcoJO89dRB/PDnstV1mWXWkw1Iz5XiZKsMfby0JTlP+o7+JMnufmNCm+nRblc3aohOXIYcOy/blW29/6Weq7ohocQhYVgmwSewvHwIRhpaDOawqHdCE8B481uWpX/j/egKuTFMKRzsGUCrAH05yj4nnYGWZyHqjfoPc9Es8dlbUhifXIkLg1GTnYDm2WeYGQU5US7Opw1IB0aGY8LjCmQTrXIitbxhUHFoWxYkDGlw+DMOk1PChflx6fH/apxltnrR0RsNtZwOwhX7bN+UqjyxC9Bf2xjPpEQ==;EWWlo5MHx1jYxbOhL8k7gA=="
+secured: "7uauiVm1M4W2G4ivT7uJbE4RvLUHs40MYTA1A0ZSNYtkCwRct+NNKPgu1L1HfNagh0op+2e5OahICfwZTiMW2nLqtj6dtecYE/weZGtYwUwDnl+W0OP41H514u1eFkVyG4IWCQzIX9bkpgs9KrATfxWQ9bVX3d/LXg8Equhjp9DHCGhRlhaUCjA5TeBpeChnfK7AT2O+gvyG46geUgNZG8h1k7/QUiA/PE6UVQiTZ/J+IWuM0n5+1zo/ua+1tUu4RvTnpRH1syhrBXAXVLgK8HFJNgASW5IG/cdqheBTht/K8v22q89sezppMNPxEEDeOaVALY5M/ehy7QHQvVwzzg==;QbNAlR3NnHJ5EJrqOvvtQQ=="
 ---
 

@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Manage non-relational data stores in Azure"
 
-secured: "mbsU7RHYPCyo1afB2wedTvZ+R9JPLZ3Tz2g6q+X3TLforf72lVvwLpn0YCWL0w5um1D5UDOvEsoItle5IVVpa4bCtnVmlpHJcixhAv0x2aJ/Ke5sP+C93yzxHyPJtOOkhg3peldtW0WOuRfAeTGflw+7JomkS4UMjplfxRedwhKc+/JRavChC6SAxQ6S05IEJTHv36UH+G3I3+WxTamWDbDOpcoMSa7g+dWAf/CvChvSoKUQ1+PO2iVQFNOq9vp+5uKwHakuJMBykzn/Ual+JDSjAPouJNukHy6b4tAoFN+smPQKPRx/4Mh/U8sG/UlnhEUE9hGNrz3/8pZe4CY8NQcFf6VOs8Gk69/nifWrtc4=;rJcPaq6sVydiRTubZ/mUxA=="
+secured: "MK9s1WOeRaZPMqyC7Ega4fS0ZMWIDtlS55V8wZu4W80JZjVoCb3NaUoNgKGixfcKRGkfMMYd8rleFHHfnrS9Pi9wZXktYvLm9YfXK462quuA2TMdbwWlYPBPoRhU/xKXfQXj0ioMk2CxnPMGr09ag71Xjo98IlhTOMk84R/b/f9QZSvS0zYvoCqWyWkZ212QbgyTMnBHSTYI1TKn0sICPKrPdOb57qVD+6zoQq6SoYXpSXgZ38gVHAjTkYuXomj6SoCUbevTZ+5wMmcChHBx66UjxD6+nheFEL9Ug0wRev296klt94+W8nmw26LlGmAqeLL7PyL4f3Op8Av9lP2lbjDIt/fqS3ZE1fpzQIWrwIS00g6UMj+N2i5ADIcDCdtNpLg/DKsNzqsp9Dv9SKKB8A==;wXCC72TUo65COyIu+eg1+g=="
 ---
 
