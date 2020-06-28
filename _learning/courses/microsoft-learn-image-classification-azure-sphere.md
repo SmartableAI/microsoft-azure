@@ -6,7 +6,7 @@ type: course
 price: Free
 length: PT1H8M
 ratings:
-  count: 1
+  count: 2
   average: 5
 heat: 50
 
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Image Classification using Azure Sphere"
 
-secured: "+MyxiouzkEkapu9kpifB710AYR3jhzlb49C4I05kWnxULkdsrHONDC/cR5gkcQMhFAqnzoMBRwxVITuguryndmsTJooE7oQvV6cGu3Ytl2iq5CW/h70OLB91Met8ryg7iyZx17XriR9gU0s7zKq1QQP+TSks6si4CI+Q/sa9Ly9NEYokAiHRnt3+dqnLQHv26SbrdF6Dk9ZDgEoDsfCAkJgoy7VNOe3gfJ/WEpJFLfYyZe2pn0UcGe1vqP4ANzPElS6xkOofLVaTVA63E/s5yYsTn3va1Va+tw7vudYilZcFXGNc5sJLx76L5ON4Gg1fV2uC6FyfEZ/ZJIElgiJWVRVY+zMyMurnvXDKFcjl1L8e3+uNXSuS6svylYyb0foMZLOM3cAnTedRIzA9e3dReQ==;8UTQnnAsX4IR2G8ICbKntw=="
+secured: "mIijYn1rsEZq42v5we4StKPDyS30oxlwLp8OHb9SyLzEIHq+ndcaK1pjy1ZIGmTLCGulPAr5xymTJsQGx1Aiz8i6eqDiRF3YDUPU0Nw2LYITLuCw/21C0UPoy3o+ralKmcSGfQwgIht2RAqo43z21mtPMo1ou5y1inbAnvgDE2E8T5pFbzw3a4zQB9fds6z5WMYaGprvETi9XudS+jpBmelfzDhPc0Iavlf8WaiJOZyKtIvazht0dNulg8cqKrmhvKQf5nDg6aVLRTjmJ23A6sSphiYDKzx5JWzrtPWYcBcgfsgGO4w+jWcf7Nq2hese4Aok4DLTq9zlofQswSrkAn6qEhwVahvg9GJxxX+P1rutrTWSUZNuDJw+re2yDev/MW1pSuMOPm/5S2b98nBFNw==;GCcnsydomHBCyze+pHc0ow=="
 ---
 

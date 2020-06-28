@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT16M
 ratings:
-  count: 19
-  average: 4.631579
-heat: 50
+  count: 20
+  average: 4.65
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduction to Linux on Azure"
 
-secured: "PXRCn9+hcHLGWuAeOzf7HeoUUmRmIDzCyDCqyfnxNw6agQQ0dDlBxeAmVkuvbwUx0pXj1qocQpy7zfTXjTRzXkWZqZGpSwGgUBaNoGmMTlI9HDjAF4dBnPvvYPYl2Hi5jdbvPAMeYjLDpBCCut73bxjL2dd4mi2k6OTZupvQjjS4UNr6Azdt6lPBwV1yxd9Yws33V1shXyZWWcJn48EY4DQIykefzefeUrmP4Nh8nZSVjoyvnXxy43tQRCOVjEdhIELZ4FmTQzKMSeABtlrAyYE/32pULfHAA0wCug7isZJMDqzL0qrEaq+wXN65wYgBFR56CDSv8SGIBKVr4ixYZVrnmWLHMOeZHXtZtemWaIY=;QoodzJNfJea+dzK+wvJx9w=="
+secured: "RJl7brkMNZbqDQzF1cJHrtpRAeNlIWpXtpOyS+4KZdu6edYA+HSw9lKopQxLlKuwgwSG8L3lb5eZBkIS2meIAurFs62efvLPyIUFpa7GU7R8AKDHaqDUs7EfQ0M6VlAlmfMxtrUNMep/0XN1W5cjwIs+Rv+xvbRQot1WZN4P/RFrWEFDHDYzsyHf08jYs4auLPbdZK9BlOud0moK0nkB+4Vx1xz1r5dCkY3YIwjhzK87RERfFoAV6BzTuTlRDaKdMtgbtXxSFQEl7BfsZ6z7M6w48cv+hXi/kCxQsdaCWa2k/VFIncRfkPF7KHRHj4XxaE47SeoqQtncYjBk+0YXCLuFQDNDaaMS6WjqWfeE+WPsrSvn2wm9X4YB37iLX1UeP4VL6gxJULn6Y5nl90WcZA==;rlDwS0mrv5v6Chqn01+5kg=="
 ---
 
