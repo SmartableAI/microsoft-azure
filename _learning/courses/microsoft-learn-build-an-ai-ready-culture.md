@@ -8,7 +8,7 @@ length: 49 mins
 ratings:
   count: 770
   average: 4.733766
-heat: 53
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Understand the importance of building an AI-ready culture"
 
-secured: "9UdEXI8+KxxSuBkoc4HWCbMeEJ1UwTVorTzVE6ajVHF3Okf1BFo4IpD9yLpJzA2wPeZiuHV2uKLNv0p/F9flDfb7ZmTovMSFodAIKpKaYg1vRXAWoIcJa0hJZDES11W5reJJDlUFQf9pUKrw47a7RJQflqjj2IJ0TonM7iBJbVJxPg3lRdMjjzsd4/KK4pCiHAeSwqx/OoQRpjlJpC3ubvCcWLr/7br68D3jDywxirVFeAS5BaSsaD3+XJuqe4kA/ITHW6TSDRzOIR/pwugi2xOLW7SgneKyeVoDBN/rjS9ixmFXh/zkluXMSah8MrnFSP4rgGYZ3boiLNuK0pBOxZiCdRXBBaajrBqVA5R+6XeqrQIKUiMtwx7D5MdNQ+Ga8WEtFXjTr4/PDXJ5CmOu9g==;9JWuRdxbcyweaRQSiTJY4g=="
+secured: "atsGEHYZEseUBySBI2ve6MSJU1rVhNMo5qldHJrAfsNmet3gnhhvYtRNG1/N+iXtdyI7bsu2qvb0yA8hrmHZo1uq435ab+Vd1LcKjpn/z9c1P5LWn0PnTkVKxKQjWeLAldVA8xVCYVZtJgud/7L+WXlfwdJ/SQgN6FNZTaYavyCLNgCsxq/5uvpxA2wA8nLv6hbJPKbuHxS3V8ovjL5XBo8ikaj4SMAxlShADzdjeqv0c/gwuN7sDm3Zbp266RPTzPZvNdn5iFs6sCi9K9EhDtWeA8bpk/vCgac2jg/uD+Ia8r/xBPJf5/zZafjDZCP4O8Do6POg2Pidbv0oo6x8a4cc9CFcH7MXJ9bsnVqqWUoyWqiYNav7tPvlCNuiuKu0kSQiTOCqbkUYaMQNXPZlCA==;mIGVMT+iMpN4YSlb8+nBww=="
 ---
 

@@ -8,7 +8,7 @@ length: 45 mins
 ratings:
   count: 712
   average: 4.5646067
-heat: 54
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Run parallel tasks in Azure Batch with the Azure CLI"
 
-secured: "jEMtwRNS3emTqwvxWdO2o6T0TOBpURa1WzEVa+IqbYX5+sr6xyk6hy+gCCry7kNKP6nvp2CdFrrwYaIBvbtGjLPExsuFpS9WjJCdy54OhUMPCEYTtP8gwEBXJXnSJb7DgjdGVVCbv3ekuY592GFuJRQgUTbvF7Spf/0SLYBZYFPt8kLdE9iTJK5n52gBrSRYyUipm0LxUNKDCXGNPphh61R2ZV5dzOxpY/T2I6n0yjHEDSYZShKFdMha5dsYEQAXqds1TYsjMPNKsgGvTWp5lacyn4sqrlD80x02ciU/DwKXYcb+1oS9XzP1mCkoVCgIbHXeB7INZTDBVUKGsIrkwbg9nBXZvgVmMoJNal81cMgSxdzpOHkV0gs0DsZSXDtXMm9a1nzNcDZaggpkDPORPQ==;uiStHJ0iHVsRH7rZQOrAug=="
+secured: "JRTN1HkJndf9mef+tHn9ZqCSPfPI4OnFs9pjqfsnion7HiAPORsbAqt4taCZdnzrG/2eHeOe4mhAI+byeKa2TzALyvbIeXo+onZJrj00XLMZE7dosUuFjDdPVgQUGKc4/2irQSVO84d9xRPxkUqwvj3oXzqlNnbArQholjfvSuAcsUj/5UV7gqcAB5nlNiDTbvON5Oe3fZmctrxHhO2RN2N3dFgnV0fC3dw1E0+8lrjsE0WpP6I18eOiHySFs4np9rBLL8EBInqVjC80zJ64g3fEoU8blAfCPAsWL7rVjRRq8iMXmawEwWLfsaoXHyPrsY/xolDF8ztGzpn3S6dam4z6/Iw/2Bp7wYff1Odjuw0UWiVUyWgLk+U0QjB7v1WOElkQXStd28EyrwpA90LhjA==;ao66CUrTOkgpof1Q+AfU7A=="
 ---
 

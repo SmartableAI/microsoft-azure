@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 54 mins
 ratings:
-  count: 1244
-  average: 4.477492
-heat: 57
+  count: 1245
+  average: 4.4779115
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Build a .NET Core app for Azure Cosmos DB in Visual Studio Code"
 
-secured: "qWmw+tTgQBK4uwA47nfcFY7p0O+THOEuh895CUegIllZqVa8feWn4qStOsEj69SsfgDxYZI44+HGAbEqsTqAsMnPo+u0g8+1/M7smSANvokqeNDErisbqu8FoFfiR4wmFRifJNPXkSti7NeIi4ssX5lnN3sf9UOM+v9xN7j9GUH2YbQfmLfVp8qKGYGnWG440IVee3qZLh+4haX1nt+odW31gBMR3IwVWb8Ifgj7zI4W8LustbXR/398XfyN+1Y+X5+rZcSzk5r3m0U9BLj9tW3cGSM6lbY5sQJnOTrV51dNbR5ui6UeJ8OctQ8FrmHpkdau6UW+mHCX6Xf84gT+GUlgfrfuGYNwbSteQcFtkpQtT3dP2Yn9JMkHhc1COg6HxDqO/Re8LdUjtf1ZmZDSAQ==;0n5UZ2una8aZCW+7nVv4cg=="
+secured: "Lg5ngEvQtnVh93bl0DV3RmDzOaga9U0m3yiYlyoFMmiLCamWUnPVxKo33rCUwoI/Wny0rNYiYwYD9uxZk8zAMXg1cwVG9+7Nxw2j9QbuRr0nXsD2SOcT9hm3kLkzn8aWh24+zW3D71nv19ouD6+7N0gFvSmPX22ZLOb3ttLtNbbwTI/QT/iUvhe/F2dF5eQxkZ0tVMm5klPcC/F+/2/tjsO0akzdQT1Ip81n4e7X8JtpYsuA2BloZ3OabU3RCoLHlarWxF9MepU9rsinMbouUzPrqlgEoKsYjTX9Oh+KaTFNbl2p/u593tpAXbEeNSuQNsNnh6LX+cBPB+PCDckR411QXfov/3aMqmpHtpaVf3EWeqPbFxPdBcC8rkmT1OudH8SWvZz3HDomhphHvDpNqg==;xeuxOk6snWPzfr3bh5ZccQ=="
 ---
 

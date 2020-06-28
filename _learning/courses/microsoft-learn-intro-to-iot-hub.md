@@ -8,7 +8,7 @@ length: 28 mins
 ratings:
   count: 865
   average: 4.6312137
-heat: 57
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Introduction to Azure IoT Hub"
 
-secured: "IwcsIBNELJQxozltseTR1JXHh3DeQpqooHdVD1J573EFfRxu5vveFxB+dvXaWp9uAiOqDkSshwbwmAp8LdpQLTE15aOh7My6KPrn7NVb4hd58hTtZTmKaVzLO0g6eE81JeFv3KOSZ8g00YOBCuarWaCaiDeBmjVWlPkKFkNYjUC4+t34kXfymfiKP2nNi6pQuJhtyFMMbv3tS8hAwF2dO9KzbXIeKn1qM12s7XMO6RX8pCUs/7fhDU2PsXZGK0j7GANMqBJdM15fsh+H7Wgi0gQ4eMOFAoCUwOMDyZUGY+pqHDZlzk4iq1BcTYYokk0Ugqm2RQ2/5a/3ghrl2Oveneez59AyY8UnI+fKMX75G4tf/TYRe7fVoJZwlMTdb6TcW+nlsc/z1l0oLBbrJ2trXQ==;H9dzzKx0l34466gOC6FR1w=="
+secured: "aymTQ+ej0a7pZtX5fJy6Z7giRLqvS3s6U9D5aIX+uzJt29JQ6mMladi8UjxFda0JaFR2U7DraNjMp8JKVK2ip5oHc0sjBVhotqtYGp1pQ2n7nbyQx317MFI8pU4v9yIMtsCVSTn57LvQiQIjsEZXGIJji/QK5kH2VphlpF5oSirIMsTMhnc9Fz1Tnqlwd+mH1K7IXkIuF81UaGBJ6YVE0BFTIM0EZdcr4CJzzzfV3I57B7tl/FykaHaRzy+mP26m4Vn19j6St6J7zI5XoVn0DCwVPWJRucKDmWav7z1ZVWTCYNQMBuAbqS3HJOUfHJYRyqzsyHeIHAQ4lk+Hpo07mOFyazY2H/pfxtF3d/MPmrNKDtuLhAjGS3JDC3poZPsnotkMzsJu08tO/nKm3waEww==;7Xvp9aRCRK4g7FubaRyRBg=="
 ---
 

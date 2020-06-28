@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Create and deploy a cloud-native ASP.NET Core microservice"
 
-secured: "3TtRM+vGj/ERnQkNWvkLI75zIO5SsKFCAoxtZFP+qFAt/vAXniCr+k0Fbi7SNY2OHi6wYsuBFvkWtrFxHIT55SpX3tY8TjAnygGqxmiFJ1+RriG7wkzXQ9yEy/fDuWIx2rUQKxA584yI0N57Ke/wr6GGYuIksXtlgvqj2/wAG+VH54+oC5XOXRa33I5nhR6UY2H5XEl2UnjeXlKZps0/RPr/Tr4+YQmnUL93AgULzSgTTO2+XwIRaUgPkbNJxAG4LTTyKkaLl2iFBC9szKQrj0nfspBa2OB5EFEu5/HJ5p5Lh/BTw9bZ5Nap/PACucqBnk6CxcfRYD25bQWBeguAFEkkVdYjNRh7YmOOtTeD712eNqpSRklFhdm02JUC+6LEVHFdd66z3RG6qmQ/yZpChw==;GsFL7ciy1xjO05+lUG3Xog=="
+secured: "HeTTDthzLoo5IWIh6MlVy9+57X1IOpwPUGW/mhfs0YD523NLDxN38O6SLUQ/L0CkTSERM1CKs6Ddr45Z13LTxNpcJd448j96kV9QgiHhF8JsFmlXqbQRpXdyI7Qj/X08/AIVQRRjhasrtlClJcQK3Hi8OpX5FptOd748Upiyi4OQnmOU56MCpOzwDO2aAbC5zdmDxHJO098dspEidw/TryltkJWa/vcDMqXE0TZWb/zJo3dYv1+BhAczOHhStDcLCIg4NxtItrIEL5TicbwchCUevPeqBoUqMKNm2DvUwxuFbvQWswaW27cRLWcjKmhCRwoAC5XfSi2alW+S/ZY0FNJCcrcLhQuWJgWxMh0Nw+/+mJ325k1fxHkTs3qD9tWeBZrUH5ZJvyzkOqCZ8dK7+g==;jD0qicd+sYqVepEvzsVQHg=="
 ---
 

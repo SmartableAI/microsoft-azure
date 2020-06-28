@@ -8,7 +8,7 @@ length: PT1H9M
 ratings:
   count: 7
   average: 4.857143
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Set up continuous data export from Azure IoT Central to a Power BI app"
 
-secured: "yEsS2l8Ql5o/O6dzb/N+zX2zFpA37akL8sjbDlix0/NZa0+ttI0ViDI/MuIoHBOYqk22oSaGvOIgmECC4oGRYcGJrBB3EKqt2LJeMNVMc+BELSRNqJfYT2JTM/BG+huPIhO62+K6MMalSuZxoeCDIB5q9ll11FYDQLyr9sHrvjzV3BgksQAks/0HU9OCzNXQ5Ww1LI72p0+5371fYmazTvShF1qCeRmrN/lhocwK5k6N3F4fY0E++ElG+7W+4IrjL/VvJCURCp6GnW4ror/9jgRt9fzYiCpnkjED4FJA1e6ngEHNLezP8Zkc22GwEbnxNrznayQ66a7JVdSUi6VdYbkAVZkP6KADPfjTL+Z9wQBWoiwwa6R5N8Lrcv5jRaoa+OjD6p1fgwQa0WZnkB5YBw==;9LxSgTZcrNs98zj/Y7dkHQ=="
+secured: "Tno5WZKjGsGAXhCbC+ArXLPdoYpLkmvgupkzQFmJaQg4ZGLOs9P3JpBpTAlhMrvIvk7XND2dhEI7TssNIFgCu/Ce92F5YTQxNAXe0BKDfQvmlHEIy//aLlI3QC/Y7pcel5T4/CIPYFiofpJ3jovYE1eM8jpyylWz1/XN6u2GEMiYTsxchXSORoOmiXW/dVZZ2P/PHbhPAP8h+FtqSo0AVtK7C1ZLfpyAlzm2ymLr7r0bWN0mWbPn3Ufjbo4sHSV3L9Av6S7GTStMKdI2Jz9c0YP00WLukkdEIw+2V4HRGILZCXNbRtQm33N1OmrUibliiMHwZnIXdgVze6C1GlFw2HdrURJ2NppVROD/q7CXVHWjjxyK0pZUyi0cPGWEbBDmdZWg7ceXAJwkutwaQZw3+A==;Ls2xYTSrHYAjBdgFHOwgLQ=="
 ---
 

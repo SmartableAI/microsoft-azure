@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT1H22M
 ratings:
-  count: 2671
-  average: 4.727817
-heat: 56
+  count: 2672
+  average: 4.727919
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Run quality tests in your build pipeline by using Azure Pipelines"
 
-secured: "LUwy/bO+HS4prcGT9WPQLhuVA1/tJYHJxZ2XS1FImEskEUtr3yFl/HfUtkYryooIiYMOJNRt772dexDOHvlmu2QAOSGTsW4TwBVCEp5zZZUdqIvNUnGz/VApTCmnEAY1eORNZgqX+3HUekkpv8o7cMv51yL1w9Qreq+mElhx89tKSdBUj2wJEpwBnV4teFWNMUpfbAuHBAMVFpAQlfDm4eA9dUnfL9uNe21aDkjA9PbJKP2jvUFw7nf39NR2tnMtECmJNKS052VhCigKMq3bZy82cZNcWBDjh8Rn6AX4WxqPsFk5BnOl7xzCjryyl2uHPn1+leBWj5OPgHhSL8MeFWQo+L04zb6qO+N+eWKb0nazrLjazEmeZtQSeQTXWvIkdA4bcp3H62HUAY7YZu85Uw==;1TIaI1NH9iyc3padDVHV8w=="
+secured: "ALT3qYt70JO0AEIF8Uw7CAxFCGe9oWVjZ6YimaDUYvHS7d1kX0yaQgT/7Z0iHBIdTeTw96vRydxW5WjLgFTPcocKI22q7OTM/5qU236BeQlH836NuYExk/RiXJt8YveFmdnHUoubwt7qdctnO9t+mNiWMBZawDXvcUCdMpx0hXckOaPK/zvNoQG7Gemqu9UcTMlLz2c5Yb6xrVG15UX24aX1WASW+jKmh2O+TzGjSLrO6YUc/d4SKDlYaCNY4SSeMeIcglfkRdxLBPyV/TMHo/l28m+Tw6l+Udreb9VPJ8F5mL0rACa8/eI8lidGGlDlQdjWmZDpILu8NKTR/PwlzwPf/V7D0viA0u/p4CkKITwEvrsYmHSoDwj1jCuGa+O0XAaNxNvcF/GjvpCPDOEQ/w==;RXYby2Q1wMYIFpZy9SPAZQ=="
 ---
 

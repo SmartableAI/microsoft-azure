@@ -8,7 +8,7 @@ length: 77 mins
 ratings:
   count: 562
   average: 4.594306
-heat: 53
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Encrypt network traffic end to end with Azure Application Gateway"
 
-secured: "W3xe8RO6TfOB8t6pKKtebK9PuWGnQNi/RxfRiXP4n+Or7/g2u0WvykmJOO35IMa2GpmWaxLcR7DjHjkpPM4eFBggR6+TdX3YsvvlBaFkr5zy8SIfFKzKSPGMZkdM5CYuwpSejjsv2+KPUv/4exN3UvIcvCVri79wkdECGBLiBC+GeSMEI/WMsdreUK4R5jtCU9eVCoE/VeioCwm6Vze4cNYy9+lxtnSKSK93G3wLdAVNPNnNi3oUsGLTFwxoALvw6rx8FBG99ciqrUneP7vkyEOm/G9RdaspHhy78lE9Xo4m7k7AofTdauwFVYEcQYZY3x4gRmJQw8CjyGLO4bxGRNMtvMtriVvAxboJ8vf/JuGz9iUKbLZj+DPVOBKwXh1FF3+3VxjA+uGZF2V7tG9YQw==;odKQ48K57CVtXEU8PKC5ow=="
+secured: "NOAqXY6KxIF7Lg/IubAB+4HA8k3PDERB/9RVt3eYbTYC3keQAwIK+k7csplu9n8DhTGheu7Nt4diSiwBQMJOFKCTMFSEUNm6bg24u9pk5ldZqcziOmiHN6ANZEoa2+mdIYWB4jld8+KRuO5GgrOiSF1cEH++s3mWMcYRDNELcaTiG8D8S2lhKD43QF+QzEc4U/V7vPbcZKVx0QUpLQvsW2yDTCdyTajHr7X93ujT2XgI+J0TiJ6zm2MYq/hhC43pnpGM1lP3RJasEU80TeyEnzJKGHXmYxzunx+fh/SN230q+CnAkWoyr2ql8mge34dnBaaE0XwcbbShjPH42zQbTtX0sA330C954cNFkOvuRgo1R1G82aaEpPKkLIRCW9q8nlaBm/jcYKNykyiEKyl/OA==;dOT2SEs3N62or8DQR2ntQQ=="
 ---
 

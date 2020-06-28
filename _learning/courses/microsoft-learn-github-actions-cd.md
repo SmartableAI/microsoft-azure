@@ -8,7 +8,7 @@ length: PT54M
 ratings:
   count: 27
   average: 4.740741
-heat: 52
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Build and deploy applications to Azure by using GitHub Actions"
 
-secured: "rhe3997CdsORhxayO9IJyKajW+t0D21lzIMmdmRtjvkoo+zcyByuSNHsgsEhK0wfJv4Ok0db9InB/fp7FScEiygB7VNY0riQ/LXoNmuPTIFaYzAagFq3mO5MyAJKNE6d0Oa5YagKSwdOrRo0sMfE1TZzJLpbbtEjub1wVy/k79BfzhObsB3j1JTthtsCaMxUlb/7Zj4eMNinXfyat1RlYhME6Mu6Or0crcfpovHy2Dz4RyE/OazDbawOgFkUml+j5WIDfcghLkMKQm1KFT/3OrOr6FMXFT8oSv71dn/txAkMl8X4laSZ30r6UERSV3JIJ5UXViSGXO+tYel5QoEP6qDph1Ww4PFwiWqR7ENpj5PMk3tQwxeYZMFbuBg5g5If0Gby9gZuH0nnaKSayUxlxQ==;wKrBVuoZoISRPjTsJlyhNw=="
+secured: "oeQ2+54pb9yXxyRTO14Id1dQ6lLI7wMc0tCIvkahmGa/4VpVjxSoEUAcPBWFLud4QkSZWrDWlcMAjPCloe+ubql8Mr/uUY2+6V3x9scea2Uiip2lEsUpiIf8kk52iViyb/pT4hNQ3k3R7ZIsFJG9TG6SDfZYoVniLhcN48YQbC0M5WK4gXot7s9A/33LPu4VVkNV3TrlG5Kqup3al4tFuLfhFWIwIvLEHfQWKUJZAiFFcxgRqQBI5HAwokaQPuQLh6IeMvl7hOEYHkJnLQhDYEV813IOFKRuBokVY2aL4kDrpmftZTiXn/cdw67r41IRaKuv5IqXMZ1s83WfJfJVtlEaQjB1HV6FJ7LqbtuYxHcysrryGePKmFPMlEFd+KPcSJrWivGcQauPwjp6JK0McQ==;oNs/ABrJBZ0aISLExLK4Qg=="
 ---
 

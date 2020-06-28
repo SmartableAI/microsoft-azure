@@ -8,7 +8,7 @@ length: PT27M
 ratings:
   count: 40
   average: 4.55
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Introduction to Azure Functions for IoT"
 
-secured: "cbyqFVMtlkWqY5a2Cmu+/i9f948SuF9xN1MwJWoQ6RjAcQNvASRnEksAU4dKFkhRFe4jMkOQvJpubFRMk3gByoivAZH/7eNPZ3IbLAeQxRQoHpXOumBCY3T9l7OYW/iMk9bs2DdevWQSgkicn5pCFmREk8iS73glDC8E9U0IrG3qv5WswXpJSwuDdH5ACui/d8vL+BAm2VbY18VjXGGTpWzJ5aCd/EEA9blrmGCVp4mjdx2oWX1/rtRHvMMlJ7YAZtV6nC+2x3srpxciO18/HSs0nEYgSFtafaG85+vgz2pTdd7PHep7vV8ECL1tayJ9QA7KiCAN/N0dyROwf41zm4oms11IVuQmmyqtuT2Cwr1ZSma+D+DpmpyHfrY3RhIY/BlITkzFkX2/6APPHzDr5Q==;IFaLnISxd2wYO9BDeueEOQ=="
+secured: "BcNL8s7Cuq5SvkolWXeqo9+Hcezb/4a1jgULjg3GsBOcgwD6uDP+W56sjm/ahCEDnGCuoCKQzh9nGJkmHojeRIcHJgj8KfFJKauOvIm4O+Sg+8Vo/q+oVTwjNxtx07qWly86Y3ZmPsDaYpdqOYEA9Pwu4amgEatwMpWEkicKloIzcgPWU/LD14zLKp8clmTvHxFBACy9egybU4AiSoLLTD9ht25bPkR7ZnOU3owmPnpYSq4LBqukwROOCCVBjJpgLOymAPwd7toBR+pjcIutdmzgjYCD5GdCTtQ2JQCLj9syCs5gdC/ShPxZeuUcN9Bjy3zDf4ERFJHG6NALYfU8TOHCHwHskhVUdf3jpvoFfULwJJ7/3QGdKbofmXodHHoJ+O5I7+fJw6I87ar6l7TAQQ==;5nMUrO5T/RIPLSEZWUTRVA=="
 ---
 

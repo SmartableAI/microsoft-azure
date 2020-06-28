@@ -8,7 +8,7 @@ length: PT30M
 ratings:
   count: 9
   average: 4.888889
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Start the machine learning lifecycle with MLOps"
 
-secured: "iK2+WjG0ckZ4PtZRG4YaBJU+nQTOI07eLPtMCnsXARoZQclQQZhrCLk6cL0gVbRP1/Ay0HQkqy1WBMI9SzIyyK/S3wXXuRHO/PRsf19jZAeOn86pWirl9TEj5JbxjtTulTkhsS9B+COGW3H3DTvVhkFv5EwM+U5dYgvzl+Ktreu987OQ3RIGVPfYmd8wuFCRi4VkAWtr9wv0l6dVHOdZ0WDrLjqkpPO8W8ChWKiENIwR+kHLDpUb79zCAKF9/GjkU+4+APZc2YSvPr0SR5zNLoOwnT5uOiW7qhI8myD8kPN0NWFqFt+5w++jy2hw7fG5iBzQcAg0BdzRb/3nd10zjH5NdV1DegokIcuq4PboMLBapPBEYCRKh7EOzAgExd33Sc5eT4IvTm2tbonw9TmAzw==;/+vwurRiUpQSagacraYHNg=="
+secured: "SmfmTt5HIPTD30Y1PyuPHGzFcuWwbyRsrBNTKLS/qBS5U707WT2Jue4RKEzglpGYPIGKXwuDo3PthdDcvtxlBdYJI/swl5nyzMYh8s1HlSIOpYbMrqLtMOpmbL5xPT+N92+6G/ZOZETtUCGuqkNiavK5y3YlyAfu0xCCOegPDuB3OamB6E+ZKtBbuFYeKiFNIK3kEr+6r7RCl9JxGlMtZPoM+3NEJF/s7QapPZ9a7+RdxLvO3jFLB0ilSkX9kvVm8STGlNE8D2SqFJ9Q29KvHzO7b4Dl1k0aZso72ielPT6eT+92s5gr3/F62V32XIrzjX63XzCK64XrM5ZVuE9m2ZWt7tqq/C1J+e8Ras8J6LBiqXb0IwQP0MMtqZrR/cHVtfQQoE86EEiwME/WSF+R1w==;OBDiZctTvfbHYBcArSlA8Q=="
 ---
 

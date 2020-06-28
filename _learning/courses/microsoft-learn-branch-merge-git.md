@@ -8,7 +8,7 @@ length: 50 mins
 ratings:
   count: 194
   average: 4.5670104
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Edit code through branching and merging in Git"
 
-secured: "2IGUNdKvvHrNF8beJGOhqlPqQ4i0yzvcXKnpvuM97foUjpTnjMGMhTF4TU5uzH+pzC/7AzPJnmnOyv5xkjAbovN+P+feX6xDVdALi/UAQs6gGBztom/Y/KayDJLzJkwVP3Vlc2xcMRMCX6HM5JoHInoQS4vqcjTKTiyvpDYuYbHbXqgstgpEJ7jZPlFWuGvCZd4Dg5/nggzr/5WzzY4d8jYOfrQ/+8LOc/O37nrf7Q91mMDDECyK+iD9eLiOoeR5O3N4zDfXuMj7LTjlh9AFq1PSACb04XQfYUfopNaymy+HXrtH3guQQjxPHUBXAmJ+Sm7V0F8cRnQiWWVfb9SN7qZnzjCHDf4UPYvVdmUwL3/+38KfAo49QYH8cyuGlipWV8nRQ+siU/9w4lritjGUow==;g9QEALhzYQs8m0AOWQFJIQ=="
+secured: "YkFwbu7ZgQGZVj2fojSBydh8rum7m175t9bCQidQvwrey6GPGLZndwgrre9ZpycBltBW3f0r3ktkph/5gOseeE962PxQ+Tv4r4ZO0KL07khJkpCZAoPEhsQlc2WZSfaIpcKDZUWIUJVQxBgQwdcliS4apOta3vUTlYOPdZzVi51+GJUl9qUdI7EhDN8GW6V40ixA90Omgbh21M77Ht0LuVRADDKLY2mx4tonOX6mrOzxUdT8uFol/hU4NwESgm5BpFht6QniyhITW5XQaFInVmoDdr1/0z1A4nsGTITTneG1MzhlhON/3PTIhhmA1DbhHYrfupkFyu9mXKe5vvvsXyQ500wodjv0YNARMmyjB6KYQqxAV2gBdeNbCrObJTSiOvHFaJUffe3U6MtuplkMfA==;7ly0rfG9Ce+GWuTli7sHcw=="
 ---
 

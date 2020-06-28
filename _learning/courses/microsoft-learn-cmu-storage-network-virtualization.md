@@ -8,7 +8,7 @@ length: 54 mins
 ratings:
   count: 25
   average: 4.68
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Storage and network virtualization"
 
-secured: "5iXc1oCZTrSe5s3B5Lzql/S6qIYKFAxlnFnrvQQpdlifFJas1I9Dvb3kSViGkZBdM7NVo0LpQlYwIUrAauLaU2ypLM3XxzFFTfks6vFc6H4pmleuCgz/IobnrlcEhoxyq7H37UNb4QHqfRYGE+42TYBcTQOt2/XLselmBQhFz1FYkP/jYzP4et+LcyQ3ZecU06gqfxa21+YYo3jKZdkdqSPU8xVQiaTttVQd1ajHuId15Ii79iu85mdhxT+/h+2Mesq4S7bfCl46gPnz7HzoeidXx6E1OaYJyglq86P86j+1kQJh/8HNqkJG0VFEgWaEyzzgyZiZgRUjSscDGMxFkgK549P3LEZAQMEa14GIrVdQrBjd/jJ69R60QxHaVv8jsC7v0SuhgTCmNnO2iSetQg==;hnKNk4VRe/AH2vUony6XIQ=="
+secured: "hKBoJhrEVYg7eLiSeteYl0maGsSLrQbqoVmAhGoWXmY0Pp9G5OgMLLfnx0YVg/V4yWNumoZDLklPfiMT2UhEFcJz8ZbRKMIfbYVsD9Vo/rm/BnZ5RdJKLDirSiKChXQQiSFJMXSzbOsOuB7IUVOi/weJ8nSsHT5DGW93CxHh7ngcTjRpnVJfbuPrJpiI7GswHgJkXgSVU4VMI+OvGL0qA+qrUyGPXBckNv7uznOJl8VuRGAjXfFW07j10eHmrgZV+FtCn+DF1/krawk8vKU8S5UH9+Acslhg15MIW9qoTnx+XgaBW1iKLcxMBl6TajtiQzVlqvdr0GMZZzE5YlGf2aIhqKxb81cb1NJN2q6Rb8ILK/f58penwXTiQ0KK2qUpGOBhFwsyf6FXueIcHFPczA==;Do4RttGndx6g/+ZRr0A7Dg=="
 ---
 

@@ -8,7 +8,7 @@ length: 55 mins
 ratings:
   count: 225
   average: 4.6755557
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Collaborate with Git"
 
-secured: "pHhLW0ibCOtJWPLDChGTlGqB0ici6157jAV/UbwNAcLK++l4DibbzAkxtM+LA7PoroleHnJsY49MSaMx1bYz3hLfFoo0nZigbXkGYEnfEA2lDjJ0izNSaR/QktoRGNFWVMQishZMFP7GdZIi2e0W1N/LOVb/O9zz+gQZ/zC2yMmLjspf/22mYZwy5K04r9aB5YG0Yd5t1MhKHOQJwisyoIJeMCF69WeaXmPqE/z5MOHYnd4y2kGc5hhRsIebH1iIn9u2recciTTnggciLK2xKWKMU3dhmzSMFlnH299bgcKMLX8u0to8xBQsa3NrmHfiI6dqmLFGhPPTfagvD71yBI4UUnzy5KUd/GGM9OE8PdLMQE4jFBQVpXWEqXbc0VytnuVkt52nRXMjRLI6iaBXhA==;aoQfLNDVLr8/TIpBJJ4XtQ=="
+secured: "ecAsZBsIflC75ZGo601fby6RrCTO6kn8icfMEDXx/bR6mEt9itePRU1TyD1fbc3rftktckf8xM7G1mgMwo8dAKhcWBWLnYeDxgN2oS0Ug2oFAGKTc5Cze0+8Fzel9seafcKB5TwoyG9xMm3v2Xw+ebYwt5ZNQcFW9QcK0UuyNMWXOWyiVBTXCe7hGwXAr5eM1ZFNlIREcbPTurpsGnfiSUUIc1nkEVVCR/VS2njcHWCbMIUdYCJIZfyKHgT+/Hx0XVNI5O6Qr39s+vmo/JEbKvAcq24IcC5YP5xIDasJFFxa9QPQxIwsa4oOxDM1s3P0gGbVhO/rcbTvZVfNUGs30LNCGambafgvQ3PO/gHKD7NUZOmgXk0PEs5rGh5izjhec24d/R7nhFfPob3p20sLdQ==;x7V3qvhFX4RtQSSOgpmZiA=="
 ---
 

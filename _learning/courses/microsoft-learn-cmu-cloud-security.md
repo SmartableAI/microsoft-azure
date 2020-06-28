@@ -8,7 +8,7 @@ length: 59 mins
 ratings:
   count: 39
   average: 4.6410255
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Cloud security"
 
-secured: "EbHYEZeeo08i10ykolVRewX/7WEfAMpNrb3b7/g5zgUCRJS677GBKPRwkaYEFSVjmHYlCmbwv84StZJd15RRsKtt+EVqDHI0JMxtn5ZAmcf5kZWjlzLLLxPCu/eBT6gxAIPg38l80AwSmJP5qUw+kLzAr3qDtEV6cWFf7C8iUdLxJyYI3pVvp9AlMgCpmCoIJ2/zkcBGEFcJFZSWKpcXDBWvWYU8MLDbafhTJB3njs41Sm5/HO0FNIZWUV+3jpzzHVxI1XYharOxaaRfjoaWJ7i1iF2ALk1RzLeyShgqGT+Kdoq4wBWsDbDR2K0hlVuh8L1X3BX3KbBDnRMvYaZ6piDWbHazXaAiYd8ABMCdLlR0KgfhYLZtc2DQoAtb1wUOtTGyJxwb6vX+wCkOCCw/fQ==;WGozihmiI8zmbaRge93M1g=="
+secured: "4fKUmYQqGreLPmwPpxMh0KZ9piffefzSaL9j7tDpC1ZZAiLc+PSjGgUJhASpXKlwoJFbXcOmJYPRcnru75uwXaLdEo/0m2Xj/AmvDogJB57J1smYzZdZirAdJLGpWD1jccl3wyvo8Hqa3hnLkedyNkGt+DV26Y2wiU9mclyelUBFiCeGld7zgSci4/SMEt4sSOwY0JfuBnGebFPCGcDqiQ2QqjgRaHrB2eARKSrNsvCrqBPVrvFUhLzK+4t036fZ8SFgcIbVehGYn9dqd5Ng5pM3BMVwUk+oAKbL4SKOwk+dGhiVrKZQGGcWhXWlxsYslrD8YoqE3eCilnBtnyJoENdGzvVGMcAFU+NzxU/e4AfdeG2EOT/h7533l9CSQv0nUSDpY3qIDYQi0juXzR+J1g==;RbNtYEhw3OCxaQblhHQI4Q=="
 ---
 

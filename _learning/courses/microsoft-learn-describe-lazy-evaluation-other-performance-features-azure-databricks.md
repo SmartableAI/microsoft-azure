@@ -8,7 +8,7 @@ length: PT38M
 ratings:
   count: 30
   average: 4.8
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Describe lazy evaluation and other performance features in Azure Databricks"
 
-secured: "Uj2JTBPomacGRjwMAMlL+j5RyCOW6+pXYsaHGBrhKY55bmQnYE/kTYy6j8Calevk914us123gCX+C8A5AQibe4IdFAjrEMNuQG6w8L3y9jZVhz0GgTRgyP+eJmBLe6tTcjN/+4xXbJsnSaeaHy+G05D4F7wch/N7D36D8Wb6jBpGh/ovtbGIGNZpyiG5bapj2NIHMXDECBd7nPawq6G+zqamp31t8myL6WHnYQtfF/KwlntsY29xEjn8PWhAve4nlJsqhYR0RVuSVzE0yZVxrPQ5IaABk8WKw7nRP1DKSSVdNm2d6nZyre9g658RHup//D+ATkrys2YJCgGGaMcsY+by0phN39vU332p3Wy+H6p+jG9FHMLOulks4T1VLQISnmTPT/CGa830dq4iavGGUw==;3p1TeWtfrZPZdIkpiW0Yfw=="
+secured: "f1xiltjx/uokv2mJ/efO59YH2hI5eigsUVUua/h3KO9k2HrCmcNgMQBgTW6o+Mk7I0qEsrct8SbC+QfGxR5OrWUhgI/RsJF4kbbO9kNnTMKtkhLF3eOjsRc4ujauLBvq+iNn+tLcJ+sfKxfFqc+GpFK+qTI7yDDr30CvEFfwwWyuhWVzA3W2OtSyEHDqxAA5kuA0VjZee62wxi7+8cUmbnQcjdMctpDy4He22FJe7JIZ7zneMyLEdX0z4wdIaR+cgzGKJgtz8Z0VBarjGTNn+FZ5uMcLmIcHwj57enTa133Zwd+bQ2k/HkOtam+WYMxJSgA+GdHUcBFDvFlBbhrEvip0BqDbeE5mpA6QcyeBQIB905+QAvswGIijzRRoFk8C4OcSbJ7BOQp/t0HgTIQQqQ==;0GRQ4sTaVaUaS5G8gQfz/A=="
 ---
 

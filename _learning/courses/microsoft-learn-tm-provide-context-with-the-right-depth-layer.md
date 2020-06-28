@@ -8,7 +8,7 @@ length: 26 mins
 ratings:
   count: 111
   average: 4.7387385
-heat: 53
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Provide Context with the Right Depth Layer"
 
-secured: "4JLJbgcezmI43VSst5IEHzS/cqzIY5/lyO+2FUbgTtYRnxlmyz1Hl3+vRi8+gASd9SLz6jJ333bnKPF9FznX5d2kqCVGLNBe/K2IwLD35TGviE6FSYdOMdepjkv5mt6PDoK8pWk5Cz1ccMBgvhSFaI/ipLh0wy4Dc7lYJC0rgcUNdPgUWctR2j0Fb3sRMGtVTO9w9ri/ScuIx37YQGnMg6jQ0n4kzgppRnkyX807mBV6xQ/4GWOGD1cvaTdRd8i2W8ctKbwHskSB0KdHczarP/JPnSfnk3/UGA3Rf79HCF25CkXIUYBq+/lBhSM20cucGubzhJJdxKcxRFkQTYZaEGgVAXXaMNfqyoaSPoqMtIcQekeBgu//y2i1QOZ/npWa/l7VsYSPt6go2/7MP/s0lA==;7a+W0SPxxr8fe6VKhGPVaw=="
+secured: "x4VmJmswbqg3/VRwHnDzszeF7Hlpmrvw+/zI2BqrwR4g/30RPk1yaxwcEkbGX/lVIDNVHMQaQbrci5a8k7JeYkB+ULQJrcJJZgGB4F5m3jFU1tP0NoNw+LRLP7NswQ9iNVY5Z8zeX3crca4oQwhRC8Kg56enU0RqSEeC4u1iSBeiHIWt1D9WO2OgNL1DI36Sq1fO7GV/s5LDSCQfKte/YyU/XbZexJt32TB6uzzTnFQH+PdcB/w0mDjSzjpE7C+BDwNySTLzXvM3VaW1qHpXVyDQkiWm/+UIIerDVCQ68P7CEhPvlkwKcjs+B6NqeGuH6/AW0ZHZ06Bio2JZPmOWWxRZRMsVk/DtWxQ6iKwduGWqJh+5EwiJu3ZYSmmccalyqu/FiGtj2IAZwesJZaC3sQ==;WUFcJD8+6t05jsHPST36kQ=="
 ---
 

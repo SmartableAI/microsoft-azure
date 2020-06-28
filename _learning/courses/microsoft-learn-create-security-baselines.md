@@ -8,7 +8,7 @@ length: 60 mins
 ratings:
   count: 1572
   average: 4.624046
-heat: 63
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Create security baselines"
 
-secured: "wHR87IlkFASwO5cRfoUpib3nu0GvxNhG2GG+5qIjj7pOW00dVsUgVLarMPtpaUisiXNziw4yopIi+gZqImi7BU4HaPEY+CQVoJQAt8121X/q7bZAQJKmuk9rPevuexYCp3bsEeT68gkOixK2WzL8TIUCBluzgL+B1tyUGHanNNlh/nYUCukjoPoYb8CVcx5y/aOeZVb1Qkre04V1Cf79SQNQakJYkKJaj/u9dMELt6OOQ+jUpmoKD3bEb9KiWdL4wvfZWtCrRqxBCHQZaFa5uD+ox94dtHGVvU+nTo5CMH2OdBQopeoAyJ4tpPKlrNR+BAbAhI7NJNDb5Rkoyu7qvtTqqmCvTc5Llo4Fag4sQ08a/jn+z/fLU03+1cWtz9smTngySc11VrCjMy4JPi2T2A==;ygT/muwOFqrhK5ST8UeuoA=="
+secured: "Y1DJpHkwjUS/+ef0TpYwTqbfgoWurP3RLcZrKOevubOhu5qX6co2WnULYBpKLZadClAdvWAYpAjxXM8j4Op4OVzJB3/hxq9Y6iQDqtQVmkJ4yLOTAPRXmnTNFZPXOmWF/nwqdjgMxsTirNgtjDfN5ajy6rnkBFCsH0YirY+zscNtxpRDt/BKk5sNZq/HjZ2XlHe4FLPOW6zy1ov1VqiGixwaN0QnSm04eUzeU1cXxrE8o/4CPScYFzF826z7wl9cP/q9uziAhdyPLMB+m4qd53GYMNluNfo1SaIcI9fR6h1gqPY86Jvge2IBOCKUP95OugQRsc5hCbkLIIlC1afleMtAN1CyaZSuyoxOLYv0XCvJ+bRZyr2QWUEGAbdb928jhek37gy/V9YSmhshborEqg==;H6n1Bpc/DPDzDJiZlo18IQ=="
 ---
 

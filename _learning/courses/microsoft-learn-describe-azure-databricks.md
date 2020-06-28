@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Describe Azure Databricks"
 
-secured: "i6WlHl8olVEpBjxK4u84BiyjKYwf5U+n9KCacGjmeVlkySb+BXxF56O2TT96an6tZXGu6FVmh7LCjK5T+bT38541u4UncaKZfHiYx/fA4SYL5bz7TSJRpXEYYfNS/+iO2QU/Jt/v1MLjjLPHPPqMwo2LUWSS+dBzR6MWyPrEaJlUNodE3dLfWW3/z+qpOv+vj1HOSz3Iz8gf+LFVp3CQ1OAaoW57CWk4Ea6LmmPA5ZX1IT+yerIolEJHl8RTyYGprr7gGC+xZSDM3FM1VqZaIOPHTuqP5F0jOZxIcAtb2z7kIWj41uJI+7CaifZup3OGn6oNR92K/0iTNoygoB/+0yTDtIa7dIctV0oO4HwzoS2p6xgBaQomaAfyYrBk/sasCVZiJN6QKjzSs3wRnoLwog==;aGbuS+za+J+8d5KegzZ1Ng=="
+secured: "B2vOOW0D3POwJ+HdC/dxTWwPOTwtqzKcr4HDKuoHVadAipf9qFwD+lRyqDhMBZjxUgm5c0lJ9YrosYDW+OMbkqPVLnxyp8QK8JkKd+9XmSwt7Av4R3UWOnxbDLnsaiwavCC+13sp2X1YKD478cnySgTXudwtRwtHdia/DDZvCQCpfRpt4oeHZOKh62wIL19aeUvlZsIumdIKiuRnl3pd4jBXtOqLzTV8o2SWCe4S9lLkf9CKvo5KJ2kjbykj4JSUg8ye3649dTY5R0KeT51LcP53VWv6JiWJj+Yl5/BsbubjMIwQ3P6X80MmscQE0igRi+f6isbZUE31VlDAGtMc/mrRBClpoiWvrXVmT+SX2wkHuAbDn4k+lvTHJGJ2fp+u1tld8s7FnIlH5Aa8PqhC1w==;taeQSuCRNOAYFTFOGdf37A=="
 ---
 

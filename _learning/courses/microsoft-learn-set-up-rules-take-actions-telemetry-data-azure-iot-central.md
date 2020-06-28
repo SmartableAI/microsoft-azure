@@ -8,7 +8,7 @@ length: 46 mins
 ratings:
   count: 87
   average: 4.724138
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Set up rules and take action on telemetry data in Azure IoT Central"
 
-secured: "psclC6KnaudFDFP3vJGFxMWhOiuTwfhiMnTNqFd3u3lpobPJuuGG5dCtvpN5JJbXoqNueJASNAgH8YkWrgQxXbmLTyS39ZANx4v8B89R3DMU02EqaHwkURNo2f8uVyAwrrxC/PAI74MuI/QMsSdGK0oEBMkKVNPiTSJa6YU1grBOAZ/+/imT71LTWm3WvJpnfLaicyjbLUqzgzhkcHo331vpEE6cOVz0QXX3+HPsGEIZCpk0fU204PO3LaMlBy1sbsuESoN3e4wBDWjzVROk15e8IdGhBgFvjL3VUCvz5BPfr8wmQghdvWRd6QdzS404f+fzrJfivCzgHOAKHFRe9c5Dm5bB/GTvzhzGEd4IR4fAdBvywaqy/L1NYnJMn38PYMTBTGHpdMBYY53wWLJJbA==;b/mzHX+0yZKBGytRRIIOOw=="
+secured: "HpQdI7BiQXUmKZfipZ2artmrlsNORWqXK0sPaagwPcCjb5aIZReuvwsugnSjUA+b+gOtP1zLmp7DNVg+Qquz9fgeO/mKBPdIAJOgVt4gE8XXXmyu1aWROYLSCTmHlVK4kV1Mlmxo3gHKzUpciQvp/62N4erK6Td50YcKUpggQwgVTSC8+wRMLc3aPljh2ak8S0NZUawOXSd2nfrIcUUhpqMprjhaCxVTU5mJHTBUfHYxPmAmoqHJompyy8XQhA33to1zeXjY1XlpWFsHbKTcJ8bu6o+P0d9t18qSozy0TTKz7tEQO4DG4gqVOFwNWMG0wPpzFfOF/wBGlsB2hIhhPdYg6Y3Ni65bLnzDN76/Vfg9j7opVYHwta2hJF9vTxB+XxiWHuYjR/hsNGx3jgHBFw==;ZspsGNTuOBLb1vsbGqNFMw=="
 ---
 

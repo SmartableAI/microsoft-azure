@@ -8,7 +8,7 @@ length: 25 mins
 ratings:
   count: 953
   average: 4.5928645
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduction to the Azure Data Science Virtual Machine"
 
-secured: "gt1XCKKhEZXpqoyzDcQO6JoegeO/rgMJE6oTW6buht7gIpirIzkn87SqrkbkpbymFfhs8jHGtL2Hdsjb4JdRm/no/bbg9GkUv4QUtUzOun8XmfypaqhfusZ/hehJahc4ztbrluq1jpeYP39R2D2rBCIgctY8RJgx9UMbp6QQoNBNHdmZWSmmjpRuoPogPVtiA57O1yHmgQrd/hu5Vm1cCX0FVNJQOJSNvd5fcAuVKNDFa1tp6z6/6QASjxa8HtBpP5kkqXiduTxfCcmj3kxygLVNeOAZYmI66F9JDahPLFIGXzjTIyQUmHPSYAeDA4msZmnT8J5vZQgXcAroIG0Zy0s9W0C22BwU3XC9pK1rSTH/T2Yjaxv+onOgpXtmOO5Q3bbEDHBwORTxauH4d3SUNQ==;mXPpvRJCsYR1TOfvfWR2TQ=="
+secured: "9G2DEKhB5B2OIOs9dHuxu10Af4Ra9Sql0N3CHZAT3jyTe97m0QjyTjksgjx9boBknljkvkPtIeYf2vizDf4b8jLXI6ibMpwD5cnmaTwti2y7/kgCWCRk3AdJkM+LZfDQswm2mPDFWi893l8TXQcx2b4b0BS2v7LYXxEh6rEQZe//UudOHgyQR6t9gaW8yOuSEwpUYq8R50wvnlcpeL4Q/8ZKBKsb3mGsSkGFwQOPVboxb9tAarPZJvZN00uNOhNoskPvfnyp7s4oXcZYJZPXJJPTHUJs8ypIjtGtexVCBBxHrg4dufM8yKX+NEVIfGuwpOQEPxn8vqR2Jni4yKmCnhbWn3C1xdJyXyF9ohO1JgaMLsZ2MCmN+sZX3awpHLfqMCeUVg5iGGIv5S9RP+46gA==;seO0VSjrNVeiEbTY38V6kQ=="
 ---
 

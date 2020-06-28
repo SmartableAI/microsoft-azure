@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 29 mins
 ratings:
-  count: 56
-  average: 4.821429
+  count: 57
+  average: 4.8245616
 heat: 51
 
 provider:
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Recognize and synthesize speech"
 
-secured: "cuA7Hc2Y9a/v2XtNToRkRWIcRiWwcIX/Am/VyBya6njx9QWfEUs5PXevF5I9O4Y6KOIeW6IwUZBWb7hgGTg7yHTcJQy+uOBWzRHmdWTFW3SY9jsUk/f23rcRZjEGNb41/ZBrRmbZztIcgJco/fElhwJxpLbhUMlbQ+yR9HRT23BAa0DM3HWkPjSBJ5aWzrKEWpCN7vyWAQa1qbJd6mXu7Qe/mtwIqy/tYB0FGL1u2rtOlYdnSUBV9Ns2cc2Oozre7yOUhazlNnQ//5Ieh3MIp7wHVAcptXtXXW2X0ZiOzDPdgOqLOFh1Al3713TM2j5Pl5LJvBEitumI/iP8JSOTCTWctwCYXgN0MORzRO2bsw+isQKTIf3U09W5NngS81KBxU7LaXgm3lQBQTQiJm7FDA==;MoCuJ1tSPzJJvrBD7pWOjg=="
+secured: "S8YAuT8cVGgnbk/SkdKECTZUyqZ7tudTgSkJ7IoGzffgnh6eiovr9gSILMzJJvuBv26wS9rQF36uuzDtn3Ttq5YGZLFM3Pu4y3kFU4qLh/K0Y3hNzjK6OYUPfL85Qa2cHFtHeAbMRYvI6sayjX2ff9FRbqTn3YjwzWM8p8zpJkLGaEhLjmmClJ25KFr8ZmRPGQyWHP4rNW/iG3uvXDK5LwdV2Qhg8dzRfscxqCcQRo4q10QfM1CJxAVrczveWu4P8wbSEpF0MRzhK0g4VQV2WfWipllb6gbtDhEBfX/KvnZ7Co7l2oBW5TThnadlh80ejKSqDsLr800quSLxpRG5SU+S+PEHzLZfSdu5PuT0RpApNvvAazTP4NravAg1CBVJejNlU4xv3VYsgZKBz1GKTw==;XWg+BOhRMvrYsmChJjp5GA=="
 ---
 

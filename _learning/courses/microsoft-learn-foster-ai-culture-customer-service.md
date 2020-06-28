@@ -8,7 +8,7 @@ length: 38 mins
 ratings:
   count: 447
   average: 4.785235
-heat: 51
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Discover how to foster an AI-ready culture in customer service"
 
-secured: "b7c07yyXtKjxVvj9J1P7+iF/MjOjJlg3jcS3XgNNkSh5LDARuxN9Ey2JoBenC5YTSyL60Tv3ka/eZmPX2qON1O23Uct6krdEXoYhEEFez52jc4P3qQ88L6jBKb94lvaUBmiijoDLUF8J2ABJYU/VpQTa3wVZJrk9Lh+ZQPdrdm+KjgDgUDqtu9gYc5irqkBwq7twRinrOlit335Cg4t9AnV0lZY7h1f3YZXKNAySjVsaGthQaPXWr6r4tRASsdGW3s0UKrbkHypOy8CzxOzGDLbL4Ppn89cgBMwVKGplck0lMt5cGec1H6Oy30cUnwRwRQoHEbGyVjEeT7FyYw6hnPacsqGD6vcbQUGStCZYXISsFOTzEGZ9+iOg0tyKpBg+cqceu2GYozBgvTYhJrfoIg==;XiMx9IKKw0+YJiGO5exUog=="
+secured: "qOQnUdjYU0vXtLK48cSCzV9akvl2vyDKusA2/K4CMqWSuJ2HVG4dxquiW7wdLAbBJoOvz3Q0fsFFSCNutZ073sTao7M59Yd5OYuoloIYHS//kgGhMxVno4a+tqoq+YuipVjOcV566m6kAajemqXoKICH2QZPqKQk5n3hXlbc0JJ9D7FuiOVRRdcRmz2Z5cSX+s7reWypdpthUR8NkWStcZ0kKIAPmSZFRfWGVLCJxSHpONS1RzU3NH76c1ELa13x/waJ3CloICPnjkwGUvG02cruqz85xDv+ro30IZKX38s99jg27Xm/xXBYWymWfKyAZeip3jyYq8yzJhzRhxsVOOjRfBuXrVa3tZzSQaPYVjtyZwlXi0RugbM/BeX43LRVCZMmCcDIvIodvcQiyFIuDg==;IGIps3IKZNnvbNAHQXCrEw=="
 ---
 
