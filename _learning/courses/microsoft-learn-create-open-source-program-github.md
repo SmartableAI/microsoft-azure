@@ -8,7 +8,7 @@ length: PT1H29M
 ratings:
   count: 2
   average: 5
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Create an open-source program by using GitHub best practices"
 
-secured: "pC6YJKqFPrt/vYDYkqTYpbKkqNBWdDPzgid1apEy4aEb7cripPr4HC5zYdHuJo50mZUzM6xuzhLgLadwcXf6Cc3WO2lbe4e7+N1zFL+aj2ako4jjivHjVylPKwAMyrGB+6jjJX08ltvXDlL4Lt9Q/5UwQisUFXWpjhf4aE/QFFoTt3pdvvR2gOjAPwLohz95iIDLqdBfixI2tHmrSJeno/oVG4tp7dqgKK6y0YDgNSYtTVVYCuJlIsw0sQmF6W4202wC+sVW3k5f7tTw9t7y4KtAqbGEoCXLIekp6YipIo3z1cOHITpIoQBeebhdOmx/XrDBQbYCUk0fBhhkCklxjCR/wprLSdSaENR4mDfN0zw=;1wCN3yyRhXW0JVHW4u6bBg=="
+secured: "qbqApGU0dG05wmq25kJ0cDkSGSb8tE2NBSXMweX6t8pEn8nrLpHnJAbKFbfRgyKc0lY5y2EWZ6E2L/TLaPhAzpWSQxrVnSn1/v0MXmzn4COfvLE9IQJCkV0d9IJ7nIJNcouXKaX1Sbs04cXrg2JGFsAQsgrE+7FlS5zWHyvyjPqD4l0R6hjUQRyWBuIVBGsydCipRjZ48eNeGgi3htMQyTXEFJKHx4up/kZVfESuVHNRoM+Zbn79Xoy3M3OHPCLEevUVQf6KHqG3eI9AIJhUYClEXzEH91zElGvJpbTjl9R2ZFAay0cI8q/uPDkIIOdFP200Rb9zhZrkCxzsKL4PhXCKYPJazPXRZqJOHqnO7c04UCGfuHIj2YHc++NRIlcVM7QRS2DEncimVek+zgx/LA==;dWzJitVAiussFz0EDtn6Dg=="
 ---
 
