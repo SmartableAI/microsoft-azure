@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT60M
 ratings:
-  count: 60
-  average: 4.4666667
-heat: 50
+  count: 61
+  average: 4.47541
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Read and write data in Azure Databricks"
 
-secured: "G0X98szT7UzvhMjDVkA5dlyj2b9hj/rgY+4P/DV5p0uQJfSzGK2Tpgwr/EMRUnOwyVw0tfWuez10lyj27eRmoxCav98qzxAdLzGGNqQTOlylPCTEdbD4uCOkgRwuPjBafaGuN6mDLRRxdW2s6edfjsJZlK+YlCkFsN6sMmcvJsJn5hXZkJMdIpsLrEDXj4nFvC2nu4VWPICICyzG93hIfxzEut9VhjVnvAQERZ1SHBca62M1S3Pq+IatdITm422Ejgq8zRHSJfa/YHBH9HX+kVjXciRyib9iByyBi/anwHZcHkKcmP+NjY3SgEpSjoKZxst8iNT0oIVssctQ0H78/npuILOrixv/jkLAeDllV+00qOC4pKxHUfRK9CeBarkfxQYsIMkcHtEDzZqdZnMMSQ==;vSAnys7O/RHrmyn+S6ILqQ=="
+secured: "5giCy2bhlF1K/ireSrXUpJReAUZexdamWrQYxJJDGniv4T/UZTY3fPWIyvpBEpyo5bg2Xgf7ZCldJBGysaQsSuP9kErw86lqwUBCQMntjAMz4BEI8W2R4c+RnYTiPqcTRNVurGCMShVpCISrizHfmVjJ8pUTPCbjLjc3B/mlgYqKt8vBUH3QQsrXzL5e/3gLuoRTjF/eZ6FpwB/WAjFihGinf2TfayuqvgEyG+HKa2wT9t+6f75/q18bNPYGYNW+PyCUXrXX7ngdDMmQVBB2mEdmCW1drggx+wEGO2QJ4mq8tZdIbe9/v3ihOHBMVsKCHTonihyCAlPxi2okBlsC6+alxoulnTITNx2Q1htpK7owx2ZXfzGHQ9GkCSDrexnUQuCgugnG6LXIGuOIqJ5V5g==;e/uBeUDwSF1ArdMDhvgisA=="
 ---
 

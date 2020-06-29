@@ -8,7 +8,7 @@ length: 44 mins
 ratings:
   count: 252
   average: 4.654762
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Use deep learning models to make predictions about specialized data"
 
-secured: "KPsy/OOWTIHL1uVpuA4FgbAlTypPkSh+07o0Oi6pud4asU3RTXE0d5WJs7VPN9dV3h4JLMPzBxeWEvEVVXFvNE2S4MpFxZr07NAvScrB9ltacxJE3VpEAkeeYoB8UcngiLfNjf3rdPC4kjqhUnwTZtVdwoqGLaS7t8qWXH9l3xfR+w/oK2mbUMHO+zBtR9AV5uSNxoPf/XAqnPW8ojd3EkoyHgjaLNnOdQ8IrPwz1+LQyxWma7cZ3ygYSNnY4NwZhpsrNOSUKURmXmHfZPoCWZjjc/LCjMBQuyPDeJrYon1W3LKkhmmcoz2Eq+E7cj6KLNiZAJ/SuDHe9VaJk8g0t/lZZKnh3L75kFU/LxMJylzXC6pjsjtk0kl5/58p2IIXYpJQKMfnSn4WbQdI1iEKpA==;6Ip4RFB3ED+39mpZ05Berg=="
+secured: "Nej4rIAVBQLjdOsZxL3kVpq4NLZZKO3aIGOXq/BmYLFLBNUQaBDsHCxg6jMwaeFL09fGn0gE4BL0P01YWHPNHdqv2VDVKpGABFhKqVzunyvFl54mDnuIqDzTH8lKtf4DU/nn5jLo8agl+pYltpSru5ZJjqyNKaHIsCxoWNbbRbwvCpR6cRp/aj0sdZNeV5Yf9w5fRcNpFkTnFGjzv7j3fXB1kA2DSnMT5+5icNA5CYFHskFJb+NrYpJoL/IlhFm/MWAJ6Oxhklx/Gyh2y3sy00VE+qxcVp+V2HLcXu2wyIPO9pwbLZhT6qlagrYhdhuMJL0cPesme2WQi6UZh167B69BtRKxcvvqr99wCCN4ctgeP0pGEYCnWYVeUqMOH3pvp7eA2Bk2Eax6dNM+orhUHg==;gPqhIF0s9FCFIFiQfyPqWA=="
 ---
 

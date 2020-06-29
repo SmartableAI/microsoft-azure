@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 54 mins
 ratings:
-  count: 54
-  average: 4.7222223
-heat: 51
+  count: 55
+  average: 4.7272725
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Share cloud resources"
 
-secured: "JipEUcYG8b/2buSGlYbp8SixUNmbDWEEHYXn1ogpuTsXV8waRS6GS784EUcVz5NlmzaeYLs2mTpDY/MFI4Q5RJK3JkgI2SCnfphYh4aniiWJ6+hkVU/oREsmiq9sCuULI+qlZiO6TPoKfAm564ZtxNflIX8X52f4NGdbwFL/m8AFMP3zc7Z40Bm9427ZpP35NtTGp9HbVhWhg/Lf/JM7LkpzBXeRu0JNsbysvsR95jPNgjvJbh8z9SObw7i9ECtc2Tb5CBUXKv2REjccCoqI61s5DW4C/oy+09k3iWFiCbtK1hUpjh2o+aX0x9joa0srGFEWs5YrboNQGe7MTmEgGzJjpIcjozWPx4GyfqNbGSd9LB4gH7P2OHOxqXLfCradqUu0Jvx2uY8fFKPtHhoDMA==;O3a94GzxSakVv8mVVE8bwg=="
+secured: "i730GCpdZWyz2WIZISTzJ3ocRNBIKe6DtYpZDE3QMlxMd6ewGvXqGfP5Wc3gJ5GUzEPsBD+WgDdjxM+7SgPC9VHPMfdAOT9sxQjO5EV3CrImy74qqOhjbwKVpda/ylg0FFwRHR7Upxds5l9Ta06fTFMVF/H0cDADCKYJqPUq/aX1fT8c3BNvyVOxSv73GzpoQlKZNIGJksoRADr/lyqCntY0McjnjF2QLj9Q7jc/9WP6e2s+dhBGDt8Qh21DnHVe4AVVUJ13oy7QX1YFv2NDwI9NktUL1Q7lL35ehoDPRbj0WH5Nu+1dy6ogdbqRYDSd/A11XM/W5bv5M7+EEy/vfprmPlgKtv05O73WJX9znBQk4iuT6DBAciQWyS5gJFpOKFdC0gjXLVmQVTv2YOvU9Q==;nH+0Fpz4LZM5Ubu+B3ay4A=="
 ---
 

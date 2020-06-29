@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Introduction to Kubernetes"
 
-secured: "AnRZ3kmn9Nju5Mo50aJbU3uEYdZ+afQ+uB9muzY50wP/1REEt90ze1VLem8FhGKMIYbtMBsVqSU4rDNvFKoKxDkJA//evU9IT/vj5dGEKMXf9NJKioF7lGMbonU1wNHDfwVzM6TFd1AJdD1FRvCQSrckkQnYDnsF+JlC/tzqxdNXdUyftIZxzQpWIOTGb87sg5MYAtnyeQ27RcCNrT3Q0YEcGvBT27yNfd+1ulpbB9i8sGZ/4YiROCcM46SY8O02pdUybnrE42AYYiFjhhL8YoJxkemC4+yFUC79tjr1S0O9Zfh6QrIk0j4VY8Xztu7hELp6Uu1wiaLCGBxiFt022TFS2VpSi12fJ0iuJIWTgwWDrfcDdvf65uK7OyukrcAOPUaN3lnlfGwcd1dQBV9i1Q==;gBPOpyqoP0bL0z0e+xKA9A=="
+secured: "l/HOgl4CCdn/1ddoZ3Q42dVipsZN4+Y0GMsTtWe6liM+y9M2lAb+tQQQg5olV9fRqQcd2rfxW8NCq+unBKyQBa+gd/9SjoAEoka4VxJvUyPKVyyzq4jEWyfa/K+jvFKYcqHY85V4Y2y13sDkJ85m2SFMaSI7kesid5JlKKDYOrSwNO4lP1huKXe04FeEIPtbai9A9Mu+WGEidbWNBP9v+ugGipVIthZwJSS2Is+TJynUQbRWwoejU3CRmhOcjXar572Rd+UxWi7K/1RW0Y+3X6ii/QXPp6IHNV5dOuf+P5H1Ku1KZBHKn0UxQIgeRsJArep2vjrk1wsqvIiW7YbxEp7KI/NhfJ53h8dxz9NX0j1MhAk8Cez63YdWExGZq24/FpCJoTslBLckEEwUw9ytUg==;HDav+k/NOBoINZlEgUpyAg=="
 ---
 

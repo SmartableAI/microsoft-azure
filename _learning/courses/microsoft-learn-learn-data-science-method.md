@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT34M
 ratings:
-  count: 85
-  average: 4.611765
+  count: 86
+  average: 4.604651
 heat: 51
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Learn the data science method"
 
-secured: "kzcdX9TN/gVCXg/EsCZ/0xYwwby4DfbuNw+vfQ0HSjcHTfmIQGIAw5NceuzMg3fdj0VFh8PNiLYeSxZ7wN/VPAWhcW6Dtk7uuL609sEzIzihQVhUd4flFsA2F0RoAA82tgMIb00KiJmCl3ousPqcAO19izvLbXRI6/KjZty/1O5vUVEHR3M+sZaQg88/P70SrmUoBincxa4xnzSLvchPIJqv0assLPZqpAiJ07yLP5Bvj+yNfHdVJXb1u2XRzCjmjXdNzIXyFrX6TwO6iYrj5CM6dyJCEilScJTV7NUuFEYFy8OCTAnew1CeNbOAM5fsdnjTleNnmd3k6Z/uFCVfGOGf05Uq518M1h8SxTir82Z0KG+el7LW1jkzgeDecZ+M/DkukdOLQF8PACB2tLkJWA==;k68GfJMh08AvN5bEqrCYlQ=="
+secured: "4a3seb+2cKbDGhhOrk/nkAPU8+MtEW4+G6GKMawr44Ex1WSjxREUeP5FoLw70W7Mn12ywFJFVmPP//ywyo3FR+Jbc/SySkmaF8qEVSLIvi/w1JeVR2K0RGQaXQrBLYTpeJZ7cfeaQehuT1em0abg5sLTHNOZdQ61xoJZpt3ru9uLSQ+AGvrVZsB0ziZMq7u7rtdaDplBfbuB/3YjqnTqtjIwEJDH65fUok1BkCL/yTYVlbgTs2kwVoI89MzfBpf08c0m2D2mpzOFP3sBKJax22IdaTe3jIQVR/AFIVx7NZxkt5gzGgC07hc8dDZVzR0sjqZlsGSVWeCH33AMLEBErrkRTnoDfk7843IuGy4SIDzZHvQBHds99N5Stani+xkXKR6e4xaNCWAEcrOTLTAjYg==;qtjUdjJkpDpe+aZyawqIyQ=="
 ---
 

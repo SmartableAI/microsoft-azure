@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Host your domain on Azure DNS"
 
-secured: "WMnNasvr9dizAWnzqgDoGBjUTazUsnWJeKvnVlLepVQPFuZ6AzYP+23y+Lljx+Lu9mteAdDQkwQJc0Q23MWdEZrEpJhkChJhlyWUYcjW7inuKHr1V330uHPdWfHkpNgAz/wVUT+qFCEF1HsA3PswcahdHcMr1j9RuyFa3Je/kb3Ie/00/3C9iUu+HQB2M3T8l1H6ldjVcD02s+F+5x7mU7EzindHvzxdBrk2iKlTzuC469ncV8IUfuM9ptPlrZGKohDqBDBrF/c1+m1OdZsuyQU08ZN0fuK2dhNEeer8C1w+Rk0gvSpucoggJo0N363ytjB1r2/Q8kPuhN5nRqnGVtY8woZvj+0YYtqvbJ4JNVwiaidLbs9tf1ZoJmRUHo8gKerz+lyZ1oMDTZz642/XTQ==;/ZjyQvS6EWXcG3XBYdETDQ=="
+secured: "QBeoQrWapReKcjy/ZVDCKtbQm4zEp/5E+8mJkSYehBc+j12tNzz1P0vN+1+0LDpxciNDwB6ikPM//RpC7hqNbidC1A6y75+kGubE2A3mekE8/VPnZE31nVELyXaj/cQubql3Em1jX2DfbC8kItcYjgInvIMSKlvdmI0SsaaFOUyQY1BpycjyDPl9KFMB9sXNUfPZn4/Uu/To+EsToqWeXztguDW254rUUYg5phhHdoXBSnF6DQp9gJkgfA3z/8KI0o2h2Dug7JOAu527PwBgeZYxILI6FQfWeaBDGHOxfy7sAc5aGfl2rysb+lI6taQ4ePnOdRX2uN7iZHSMDnn0pNk0uvGDoK41gT5dC4S1AXMg99nO6cN7pdY5ku/4Ab8FKCKmEuROfzpR01dkblFgww==;zaZyntVwobktJs+QWj/QRg=="
 ---
 

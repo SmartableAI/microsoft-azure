@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 31 mins
 ratings:
-  count: 1342
-  average: 4.6304026
-heat: 57
+  count: 1343
+  average: 4.6306777
+heat: 61
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Classify and moderate text with Azure Content Moderator"
 
-secured: "xs58Ce7VI3BCzL01pNIO4cpdTeHjLMKa9WborSFOyMjqS/+jiAtcAsXrOoK/EJKYH969shCWcP5fUBWDoRk7cK0FwaZjR6FWrC2hbB/CcDfshutkbzdFXZsJfjO04VMXAaXibhyWo6Ftp5xSIWB0TT0/P1B6AyTV6UNqPnDvmqkgOFhz5XqFhjUWJoD1Y8pB7ypnv7y3EVjcCv8pMzHv/NajRH4sYjPV3DeKu4e+7S9JIDvMOiTqCd2SWXL7L+Q3eJlxHIihQqtyObSTmqihdvR307bUw69s0ZTXNefYRiOWhvuwllX7HvSwvJLuNWZewYNR8maN9+psTxYneDuujYr5y1/TiE7Kb0d7zHvdubNFhCl92g5FwdNHZx52o2E70/RjCSfrygwZp4bW0SWYLw==;x0qC9n7qoTFqaiirsCNOcA=="
+secured: "9mDwnPWD3Buljn0uxJHUg3nqt8BQQ2CilWmdSqojJEILwyOAdENV2qdwr/fJwLtWpKN0zrD/+bqQqwDBa3CCKhUgwfka5KCay6CNQ6PxItG2eghu9EJsgvAx+aAsFd/zDbUgRqSewd8ofywhoyYfcptGqq1rP5UqzsHj/SPbKbGeIKdC7gNCI9+wezwsreFRoDQRCpmhP6JqkVNmG+REGalwXSfNHQKMa+QGzuIPKuzuc/PDQ2vPiFvOLoK6jTw3pBdCRZUNZ0//ET94nVVu0ugRAeBy7cdhUIxkE8qHZfrEFUecxWhQV3P7lGCshzgzgi4rQ8GhY7cUdfwgRQ3bk55+flh3CiC45ABjeI8oQ26k1b89DzpR8cVeadQCgm7lXGrjA4RYqcvfGh5gJauXWg==;mJ3jPByw4zSfTP8fl1s+dw=="
 ---
 

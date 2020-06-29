@@ -8,7 +8,7 @@ length: 56 mins
 ratings:
   count: 185
   average: 4.6810813
-heat: 52
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -37,6 +37,6 @@ images:
     isCached: true
     title: "Automate multi-container Kubernetes deployments with Azure Pipelines"
 
-secured: "X7k5XK+7pnVIEavFiTMoCk2TSSCo5hIhmne4xVmbs6FMJkulBjDKcD8YiTYU5h2ApIoFPcRVUgkc3xEK4J3ldkh9m7W+jib9zjeXhXeAocIBEbbGOxuvzNg8bTSeNcan8w1Io6dDrBcf99GIFAYyT5DiD5V9ZO0hFVImyjjzc1Au9334tLNRW+dCRP/xw7KQjxDz2jmwtPVcx9YISwroEK1dEc8eU6uy1d7tOjScwc6MlS2pMLa7CXqFv/JpmZdCtvgCNLs2cjNJ9hibKY0kFJ455+QJ/N/uW18QbJ8yzyvc7S+9uIN86oozV9l40ufguDAbR6X2U4LNIqeUJ3VyBhUl0ct3BqzTH8x3baAyBLhPq2U00X+oN+o7aw/zdzTAeWLHDu7CQlXux0PueBgSjw==;48KMSWn7TK3T6LrTQScsSg=="
+secured: "JCC3tCGNUliUF5Ysdv+H45T6fgbkPKiclVtWBlsibR0yyz3iOxRga/EEfDANJyqcAmgmnRpvC2YVH2KLa7qbwGYX795aWk57B9frc/5/sBJjjdlxiuNeozguFvsMn+xH8ICV2trPp8I8WafSjFDr2YGusPBx2HorjTBlXrIH+o0nvHGCX+IM0yxY/WNO8LxoMGObMa1gnEIVLNHF9OhLXZDOrcO8bRev+USzIiWisc+j3GGbPoWSM06OUbP5OHwz62NqsmlCibdxderh4JNYWT305mPax6GZBZtk2pDAmPilriz0Wp1pb3gtgx+hCE3yVWzLHTuafEQNfBOl8w6HQ3oc04DZoOeEvNGYeTcAD9yyWg66M7Q9DQFZaKM6JNE2bRSgImej9HAU8DHqBdvG5Q==;rg4bPXb1SGI5kun5n7JKoQ=="
 ---
 

@@ -8,7 +8,7 @@ length: 54 mins
 ratings:
   count: 741
   average: 4.726046
-heat: 52
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Examine the Microsoft approach to artificial intelligence"
 
-secured: "OOltnXh9D3lZes2mnpCOmRu2829lCDBJ/Ra4I7Lo/V64KUcC6O3RdOX97YG1y+JK0C/4snp8ooWD1YfG9ePj2gohKhW/L+DKU6LmjEKirRQQ85aBFIsEyicmxXZ4jR1ZNQq60ZwpuFL6p0LBe5yd3ACp1n/K67XKnYXfPZNNE1yCj2MSRuxghGcvvHMLVQuuueB6qGcjUH4nrqeIBTZp2kCOeYOcibfIOA2Eo5vZ6w3Y/6jN04JiEIypzGDnx9TgpXhk4VGttBb4CGX005adHSSzjB2KNbihhpAzoWAuQheHPAOiSexvIT8bcy2aDWYPdipu7Sv6sL1obAw+pY9PX3njT1ngfKAT/YUvcvusYoY7eninfalsAC3SZxMvaWBZY96uuLeAxEaL4qVuTtJRew==;idf/EBjuo84mXX+ZPT/BTw=="
+secured: "G7JtvcezkO7zAKVEVULi6190hwJc1q7dezmCAr1TxtG0SrniOYH/crZl8nC9+ZTXupy+DtpY+mMeMnspD/DWjsKhgdbpOwtK8zJwfRyplX4c88Sg9wwwO8bXTU3hIyGIuGXvayW1G30QZnknISecyaNu4357dYGolJbHM7VR91AJzXx2Yp442H1XIITJmIAupvY//Dm08D/FfICmcHJA0gMc5/pKS7XU234L7S/jl08/vHFhF0MbpL3qO5innC/Gf7gJ6asOcmzkhgLKxNgRtpjCpN5flwZP7qp1XGM5FIGL9d7jhpPAswU73IRNRacE5A3NbSM8WS7oG4LHs7jy6rZe7Q9eDcJrYtZ1dbarAP4P0BDtksvR3LYJ/MnhCGvn+vCaSYB9UZHfgS/kutp2vg==;sO4t/SAMFlQp5Ec/Xq3hYA=="
 ---
 

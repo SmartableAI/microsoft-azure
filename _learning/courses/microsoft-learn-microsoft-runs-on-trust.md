@@ -8,7 +8,7 @@ length: 30 mins
 ratings:
   count: 5230
   average: 4.739388
-heat: 55
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Microsoft runs on trust"
 
-secured: "HWtXSMEymppQGW4qZIQyEWCkQpzyFKIm++efO4s/LvkfDFjPdP5teLCtw7Gg/GlKFL+GcMuLl8LU94ItiGIHNCDioIgujEbt04SnrT9dVkfRwjcRIE7crfX2J1KjCOth9vy6ixJUrjukCBUP9MxKo7w58hdUgWHath7ipDkw9OLuoXP7hZfRsSAVrd6HCVMlqyHm7zX5MfTf+f/eoTm/EhIrcZdVT+VDT/Nb/9aXOcXA89kp+INabDRnzf6ZP9GkjYAR1pkKwqJ3DdJfiGAk7AIb4leI7YUgT4gmXqpZ0nVJu3xad5OKk2BCiewsDenN3M42v6akk8si8gY6SmxrUcuB4qhY0FqeS6bpKI29pt01suguw1ULt7UXQ7RpkC1xIVtPBss8qjDNJkJbxqDP2Q==;cyg9VNoD2aySwltfVMv5Ew=="
+secured: "YrGpBkxiTN+uIIamrnYaG48p7Gpx42SgtoKLeJDfJ+sCPmU1YkhwGOzN4sIY4pcgQgNG54Vu0oKmYyrLFH1hGCtQjQQeGPmwlEnhKGHIxedusZE9/Oa6i5KJhVdibgg3EafxEUkK6Ti8oGmfLbFxz6u98K4enatAo26wM74eglmv6EZRXxYWaCXKdZhqXpXpZ3X239ezUKSfKIvBl/tgC6Mgk6EkyDPBNFvJx4ONsmeuRYlHuOLqG+nZxHjS8R/edmEyeaAE+CL5RRkfoiHaeLGIeZHmu7K7raaGs+IUT9xoKaWCD9s3NS0HTmZnftBSNrp4waj/D1bh5I8CURCAXB7N0S5tZ/Ah0+3y2mokCzQtjAObMm+VcxjJ+YQi9kAVKo0HuDFwarNt5XiIxRvDeg==;chUBfA2Lja+0vzCK/aKbgg=="
 ---
 

@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Design an IP addressing schema for your Azure deployment"
 
-secured: "kkqiKOE5jvVC3QqZFj3ITOhUyuL+/wFpfADT9+2vlq9m9vD+4NaERenocsrhg/ssPW++S/OovsN8Pgvy0wOV2bk1SLx4YYhq8mpiEJvkDdvk7g8f2BK2XF+y/CaGybMw+FqBTCKCU8yStvLKMb5VYVLnmsYmuBwr8hPWnXa34nmdIyfPPbawkpNz+DyYQ4fKyB/ikEbn0jY64dEnkplUYIGqQ4EMapECF3xizca+/7Jh5la3BymuEjoHka/muBhmu6AWVUQkAd0AzW0eOFYxeIKoLKCGcGJxr5bA37W2n+BfmvDK/N1ua+D5fi2P5FuKdljomKHKSE1Iqeh4xyKph2wSnmd2SJ0LizuLy/DhkHTWUOkBnYXdhs3NxN54GFc/sb5DIf2kM7rUei9xFung2w==;66DGe/4PVyVsI5SoM2j8Yg=="
+secured: "5e27x4n44tfOOyQgy6BeZv1kv9OjkbXn3EA9vFSXQ7PckK6bVNinWbtzBa3lUhWQt9bCuPJlXXU4MEJvNop8yLvmVKHX2aY833VLu6dIltauK7AWO9UTOqdw+iJ/kIMDiEoZhH14ewtmlXjH0UiOi1Ut5wSulptPgOuTeDMjxDTEC1jM4NXH9xOtZJfaff1i82rr9D/EVu6jus763xNIyfCSglys9g06VMXRK8zNtCGsYqRVkFJoXs9XGt/vfq2NvOXPvcXDYB/s2twVkzoH6FAt1+SP9GDfYEbh6vuY4vc/wOr1KSarQaN+1HnbIslAzcZp+KEIKqn3el8AzZKjF2hbVKfwCSgqcXv08qheiAfvykfP09gkP17eZJkvXhFIenzNjn33gLpZJwEoLtqUGg==;vhyo1ABborwJL/IBVwgIpA=="
 ---
 

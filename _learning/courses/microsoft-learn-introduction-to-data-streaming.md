@@ -8,7 +8,7 @@ length: 25 mins
 ratings:
   count: 1037
   average: 4.639344
-heat: 50
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Work with data streams by using Azure Stream Analytics"
 
-secured: "HzKjUdEr771AU/MnKwtJqdnhi72wKOTVVGHuef1Gk34G19wKaz2MYqJrJv4/OgifTgSQc1ru1+J0Bdp8ozeeRDYlXdTjDELgJg2H3i2eYQZyQift1MhfiiAnBtcu8FXgFEmWR7MTXZO7Sy95l5kx2mjK2K9A8GtaGO6uFQNzMgS17zZdmiuAiOcYeA3MslDEj+YILFvzIXMur4lzJ90e1/je3IJZZ9KqPfUX5uqVh4EEHSNg1RYUjNIfud+G/rMvmgaVNS0tbzMpHRuqzSnzxSW2jRYxc+O05J2JZEN1lcj1TiC12hayKT9cMhYQfsATmtZDF35vgqh2udTuqbXrBnHnLocekzI/oUHExfLm2vr5VXpE+tnoobgpVtKzcOK5LzD9Rg+fShF1GPeZZH4QqA==;Ym5TyAQzCKEB0xlRD2lwAQ=="
+secured: "6hGymkEj/btT6j5S/rW3PEuOo0gY3t5b5pg7yvjFXQ14HMn+0EV+l+cgZPCA7Yt+rnFusryEMVQTTCCT7HraRH0utlowqPiy8tbsNnpzBLr1DCfB17JsuanePA9T7/1SHP/YCdjXfDbhdH846MWPMHcKDqWyGQwqF1RhuOpBRNNmdLngfi8B2xzV0+kNGvvrFsYqrxENZ1PnSbomOyUD3SrhtS1UPsavfp/imM3M9St55d016eiAFghzN1YSz1RZ/HeUjixOVjRynBkdhkCniMGpC1jbS7I8DEjJtIWwr3l3hAcqy2SQ+aUVn2qpdGOkxNFmCuH4DhwLkSillkw6kfdba1mDEtINw4VA9atKLiEm2ZwuJitkFd4jbp6pyv8a1MbKd35bmUKdyUPqMdmH4Q==;wKm0OXY88NJnyK4mWeGjeQ=="
 ---
 

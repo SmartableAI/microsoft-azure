@@ -8,7 +8,7 @@ length: PT18M
 ratings:
   count: 9
   average: 4.5555553
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Improve your reliability with modern operations practices: Deployment"
 
-secured: "2p1Q47yEu4/RSOc4Z7UJVGF4jjN0+O0ncQPd2NIin5cHdJUuh9Wc3zQiPGPxz3T209PiAnHJQFCR6hTsg8+sD71aRmQdaT3kUbLmUbvRlv7hsVKus/geQuHIhgHP57LyP0eDJ3HbRBe3auasLeaAaY7rXtUdVu5N7xMS9xVOSVjF24EgaBAMbF9hMMM6a4I5oxJhTU9Ed2rjz4yCW7OZhksrQuo4QK5XJNQj41w742s4WbBylEb4pWrz4uFmQcGi3FwlcwO9CpyHy4ADcVTWpYd4z87Ja9JRrwSCeugxcCMxts8rcpPW6RQvZLebsIX3mj5BmsZovwGw4FDIH+pw5uSa4+Gma9j7JK4kcF46lqazY+Pt1zo/Gtb1oTIswog4hwrjeK7FgPz+kXFWeON5jA==;tz2AMw1PlzeuSUTgtPSZ/A=="
+secured: "rbwYf0UzpOkyZjn5igUYKbENt542pNdQs9/g6sdcj+C48ec5kmXyKal1rYtKkbPBOnPhiywAzxxpzWt/K4Z9irNgoDFpuHwTb+rgs2GvLeSErJH4uxC0NqCtTe/3l7QzXdllyphH522Vcg0b0utgSsfln5yInsWunQL0WxMdSp65nO98pCqbkqWUfATPk7fnSksefKCSjSFH/y1ZtW21+6Ln5cJek1tIP0UCK1DpGEHfcHptPhTSoGm354BOVMwY8FN+BLHlD7HBqR6k3Xpq1cTxmUwciex5pGlfF7EBBSn46rhGaZtRcl/pA+tn4AwZ5ws38A78xhR0+ZAq3t2M/CZKD6JANLIEwZ4jSi7vfnopwaBtEKc3ysVhUE/3kb3rFKja+D0arMrgOYKrEGU8Zw==;5OH2KNy3A5/z2APYdXt3fA=="
 ---
 

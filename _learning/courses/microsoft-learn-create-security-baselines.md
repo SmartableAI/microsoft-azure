@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 60 mins
 ratings:
-  count: 1586
-  average: 4.624842
-heat: 62
+  count: 1587
+  average: 4.624449
+heat: 61
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Create security baselines"
 
-secured: "Y1DJpHkwjUS/+ef0TpYwTqbfgoWurP3RLcZrKOevubOhu5qX6co2WnULYBpKLZadClAdvWAYpAjxXM8j4Op4OVzJB3/hxq9Y6iQDqtQVmkJ4yLOTAPRXmnTNFZPXOmWF/nwqdjgMxsTirNgtjDfN5ajy6rnkBFCsH0YirY+zscNtxpRDt/BKk5sNZq/HjZ2XlHe4FLPOW6zy1ov1VqiGixwaN0QnSm04eUzeU1cXxrE8o/4CPScYFzF826z7wl9cP/q9uziAhdyPLMB+m4qd53GYMNluNfo1SaIcI9fR6h1gqPY86Jvge2IBOCKUP95OugQRsc5hCbkLIIlC1afleMtAN1CyaZSuyoxOLYv0XCvJ+bRZyr2QWUEGAbdb928jhek37gy/V9YSmhshborEqg==;H6n1Bpc/DPDzDJiZlo18IQ=="
+secured: "fmQ8q/fla0zMjhIOhs/fIABPGwo33T7pB7M4Tun6a1n6mNJB1sco5gfdmuDWiILOmgvtYJKqBEFt0snC/5IFYm/yZqL0bkNXmnNLHyiuQChZxZkpk7Hrh019xZ3Cj6zu3bs5kjTnZbhB2zMYEaY+3BWE1TWuDX+vQGwg1IU+ncRu8hNl3jhXBj1O0stodb6OcvnJyPmozVZy03IDL/UPjjFNXJ+uJinwz4/alu4pSpyYNoKkX5F3Q4Tz8M/QAwtZhJLB2yq2yeDAx9IekHIH/8xu2v7lYSkKPTm2nxRfrjkDUgxrYgxbODFglJiXTybf5YjMJpgQ5A3dWqAgfY7bdARlLearSqsLXnR9hUKzJC6xA57fhQetLaP5eTkkO/MczesJ2PcfFxo0H/cwHIbnsg==;1FN27FEdJAo60PIfUFDTWQ=="
 ---
 

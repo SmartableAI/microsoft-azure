@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Compare two samples by bootstrapping"
 
-secured: "F6PunsHPoYKZsX/cUWIMFxWdO4DpsgJSr/HEFfHV/eQFcQr75hNIzHrfmSmSwJY1UpJkhwY1+ZIVOGS6JsVRBYvkC5MTgP3NMFSpaYgBgDyhfNfJHcSncfiNZa9MnAy2lPO2MWrZGJHcdx9uPTU/LqOzk46ohgixX/+XLQ9JG45oSaJY1fI5h9aGtt3rmFnllQnRBopdzdyE8TjVNPYOlHQGie0OUqyJh56Wvb7zmu1qtGP/AxjqfW/dcTvzZe2MNg5+Ox1f6w299XDGExRy1ooxMB0c7YMjC/UTbWqOZNwRe29orotJX1eChVTVWvoI9lP0cjer1H4kKB06XuswmejPrr3Gf/ZulKDjySHe2hRIh1fPNJ2/cIqtKn9b7RzfWreMFvkhwh+1jGeVkMcUsw==;pnsnD0T/uRy9kWr+FfslJg=="
+secured: "Ugm81C0eC+CTMlmWtVBzhLwYJqBPFxHmUWiA11D0DTGjBmJ7jQgLj2YA4S2zZ7TR+tkFqRF6FNEHtFRIBxZ+v5XMyU4Ut5BdgQhPeH/8fPtaDwkqjZPcIP92h80X20BSe/lt8QU5zyRyio7yk9Z2k/h89olV+54l7xuUigC8RjL/i0it7FMU7/gHYJZFHDNx2q+J+yBESzEFbsq/jmE2S0mebgXNFL1VstEvk3gMO5OvxopW1afSuAlnLjasarPbucrezXCmukSOzJUMA4ajrzTR0MeWKQu/f/36hmTZ2tLlcjopkenxiIw+eVjHfya4PBajjxoXgZ0l09sj1UbMEGc6CCs5yYWsTv2q+uins3ExuNmF3dcAh1X0hEM8iontWU+TaBTGiRHJXX5lJbJbKQ==;jAaNyBi+UBiOz0f+H1WqIA=="
 ---
 

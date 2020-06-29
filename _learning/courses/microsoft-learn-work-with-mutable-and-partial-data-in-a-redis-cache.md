@@ -8,7 +8,7 @@ length: 65 mins
 ratings:
   count: 430
   average: 4.6302323
-heat: 51
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Work with mutable and partial data in Azure Cache for Redis"
 
-secured: "+dwW57CV6tejf96dfQAu4/GAxbTdgnEOsDGfvgdnM+orWpgIcXrKO9x0Uz7vaXz0/Uh9iPi9wqrdFU1nG+OrIjyoQusEwEI56aT50/5g2/lTL98OV4hM37v1FGzTKZN5s0tI4qoSKB6ZLFSlatwWmZY2Ro1jtAEgZSN2oY/bDoY8KgsOXKbR2ENXcF7p/RbfF7b1NS6GU1xDV84xL4h/ZoudUre8HyVkodo/rR4SoJpmralU9Sd04zUKIwlYaTiwdQIs80VYglgiWI2IUFCZmYJg5jb6FnUuoyV/gFzwfgP0Kcxrns+lCvbkLrDWrzVcJ60IjsqIc6WxoOipzWxwFY5g8vuaZG0ETpqfgnJpL1DxRX1zZO8ScKJiVvU4bxd2YBzUz+W1I+GX8RHm+J0aJA==;MI2ZTt3BlM37YN0VQtGw9g=="
+secured: "RbT6c/4Ud3Ifrfbj+cXzxkebA88dvX0fcQRiUyE1PC+qFtWlW0ArkXtsYszx1Jnc7DDWNyrrU5xg3R62upABa5IosZDGdzVfVquZZfXKCDA3hFh0bxyzdBXZRgA5RHps6jQwQ3YwWkmNOKmO/q4H822eMENhTgrypoI0q1EKhG0sF5AR1xb1J2ibZEkgdbtG051lHoZ5TbeLaPj8Zw7+JEreHt430BzGVdm3A1Tq7I2kJh347zPDY+/qNmbvmYKyKVU+u0QduVu5QXakFMPqufx0uhdbHs/A+BWM63W6Ntl7cPhnqpRo54kC00hz/P/tlTw7PycjxejWzIPyMVpfFeASydjlKtesqBXRlQwNu+jrMrFzVcR5BdFK5ecM3MBT/qPXGtZCyOU96oLJACL9Pg==;FYhCLV/CmVzYYG1GILdSlQ=="
 ---
 

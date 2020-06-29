@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Manage and control traffic flow in your Azure deployment with routes"
 
-secured: "rN3iL/jU+TGW+oUIVgcgjtkGx9JHMmuSAUdd+tZS2taDRgYzJHCVZjz8wg72zTnIvfY6Cn9i375503FBI38+dGFCZymcEe8oG73w7g4/zJ0BrkCduIQZp0gpggV/HWvSzdir/g54k8TKsw5wRuzpCnmJZAsWcgInUhlmxLkZof5OJol0YDxJqgB23m/OTNFyQMUVeDy6axUAyx5OYc221e8q2VFr1vA7Ne0jmu/c1rgZPgDyiY/RbFPAYPY6YVUVZSZ4DXgwsY3Ys2IRT0kV/cTuMqruOm97czsVpP9k9aGLZqNEkddRgMit8XhTnQkPkVSHF+glsZY5bALJokDUQkL7wKJS+5bg4kRXbKD3//acTQmHbzCC9wpbRtyLgEL4ZrS9thQeqi2ZSEzJt5/ihQ==;3wRiQ6v0paiUhfC9oKbHnQ=="
+secured: "mpzgkPhEt5SLEgrt8zUvfAz5ZVyiVO98/IFcBGE2qMrJEYZNH/XwT8Ed39T+n99O0Ev4NuHPwbasL6sBpMSoROjzJzqANYz5oixwo6zDqPYyNvWaLDqx/S4c0rQTX5AK76bSMUJdxM//A1n524G58vjGehtHb6r7V/baaSH3Jh9frMta8kcvmS+t8nhrHm04gTHdM6NOqMb/W6eJk8b42Lo7XqcJTwl1YuBoHafAIm+ync2PPB9fu84IRYQC9e702HwjkreLPlNWPh+WVwJtVo4mk6uWmQ+jyYYDz8ZietWu05+yO6o5fklXPXbBI1faSg/81IfhpZxib96jUJPyBfpZ2KZzGdv8Su1Fv9OiTf5cO9HfBu49ol05hQuCZn4PO8sSRi9LYD0CZbYnRKOhiQ==;WqDBoCIv546RgUX+hUOxvQ=="
 ---
 

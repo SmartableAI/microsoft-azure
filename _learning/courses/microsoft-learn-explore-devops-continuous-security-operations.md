@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Explore DevOps Continuous Security and Continuous Operations"
 
-secured: "naEvpO1ENSYU5rYM29hy+hEt7Oqt7DauhOZQxwjNispWeZGva+ty7fM4hIbQluNoLsjyU4Rhzx71gRPLHwh43fchifaljHc9L2WxaSvho3LxX+V/KxwI5hxCXG5jtBHYhVnjRoWh/Awsi9B54sWgYbkjzqaN8F5vwZSfsL9dyMK3ZOKt2K7/Iv/7IwyNDVj2s7Lu+DMrSqy9OKFc7R+quCiy0v7wPMni98ic/5+fR7qG2X5HPtkHpnRMdghFgKsgegDdnzgYtzaJ/XZ93O8RXef1WHneNpUBH6p+A4hSsrSgCEybwOefrDS08QXx2X8LGWI9DlVQflVi4yfOIC+ibhqKHCDFRwutZb5jCa3JbnMhVkOb7+4H5lgbWPLGfFU8rbMAMf8+y4mfttg+xuK9uw==;/Hcuv6o+X10MoVjlCoi8+A=="
+secured: "8Y4PLhkWmeRbQhuzGVrhwar4xQGKFx0FhWMPuiDE7uLYFx//fPrrA4iPpDU4+kcTmjrmDAxUcBFNEh2APCcol9TEEk+JbajEH7uewz/fTNSdqpOm2T/Cf2utfqhHzspHSP3htWdsR4PVqw/CV2sUxkdumDYGaOKXvcRSsq0o0yYlirIxM178GBZw15jawMK5EE83h7FncJdE4HrP1sa5o9t5xRSSTcD7b1nEsrGiQmxMGmU/tmKB92UJEVg7N+D+tCB1Nlgqj5WosJS8A1z4TECTriDyTXstf/q+zHmgq/lVcwlCh05vmbrB8xL3Zhe0f3rGsamEKFfrYsZVspoNA3cYaTwuJVaJgj4lQpKjm5czmb8twz33+lm4GcdK1j5/167Di7tspwEx42LzwjWtVA==;L5FelDKWmhIcSwS/NiijFg=="
 ---
 

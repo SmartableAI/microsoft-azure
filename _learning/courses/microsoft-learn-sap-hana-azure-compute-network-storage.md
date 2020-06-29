@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "SAP HANA on Azure Compute, Network, and Storage"
 
-secured: "BOHeW48+VUG8NEXGDlQQYl1geSRphhccnJ3nQ762HCZ8HWUWjUCUccmxob8cUVb/xVdjDvmCKOt7yUZPjr5zAjcFzUpZj4fU+8aZthkoV2FAz9Kq7H+S2XIUD4MmwjUCZ5rAx3UKaC9CYWb0w/EnN2T137oNZ5sOPDq4DOsXi10XszJNOycchuIlv1jTLv1VaFtUQVOkAdGlkre9IVVFJdJ9NLg/VLXpc6mdcme01tcIiCIQH1YUJz+QOuHy2Fk6JvFidhiwObkPWHiEN2AR2BjkWJb2BuIPSQnnyea6nxvSBNyMFQ5pZugrU6qM4adi2HQqeAyvzPY9m3eYGxKFn/cWmFK7QRQJwOcuwwU2b2eOaVv8JXuQXoBB9LiwAA4l9YxrkrWSHMoTjDNKA/61qA==;jIrnOQn3Z6wFRECan3l6MA=="
+secured: "JKvdqOvYRl2DwrZDjaC09ylyYbKxACygfGl3mcDjP1yWV06o7hyPtOnASa8dnf/+EnRMq8LBbgxdHXCiudlxKQBVf++gjWuxx+A50q8a+aWUtX3eNY37lSWvllFWQykXEiechvXSmNiRSgp7LeHPofoOehc5aK+v5tULtSNiPDrvvC6xGsV/e76cYQzvX+aQP+fP/1/we0WXEKB6BW1V6RZF4xLkhJxrKkhyqs9qTQbTjX+C0T6ASgnap+ojG7RfL5z1btIjyZMz/5PAsa6YG49CeaarY1UaWJHpkM9XdpN2IzphIpX1hbWG3Je/82CXzVNO/HG2BHbtdWi6TAz6Bth5M+ZFCxiRztkToiErlb1mXBZx/CL8+/8yiQi7hK/ltBnkLnbEYsVX+lM8CfRfgw==;0C+CDKdHH2xhWg1rPCXDQw=="
 ---
 

@@ -8,7 +8,7 @@ length: 38 mins
 ratings:
   count: 988
   average: 4.6599193
-heat: 54
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Secure Azure Active Directory users with Multi-Factor Authentication"
 
-secured: "2+KmKvAMU5jsza6htZNjYWxs+j5RYL5KRm+E2yWRbhfnUPTsHRNU1STbiTV9wrjwZHcTzDeJ7SOqDGAqSvEYZ5Zfs+nu9xVeoLs8qoW96Rst+n/oP3KgbopjABSD1zEH7YsDj/IM03TRoo2I181HYHMRdNobROt5vPCBL26jBYpTqqCuIxdHWATmroCHYkgxu7AkaDkq9nYz5SqsuuHxZlGmaOXSODab5RFq53aQOkkx6Vb2SDa5/sp301oWmNDn+aX7atFxd01sWb2kCfGjtj2+DRWvG8gHHHwKnU8MeJwePAYbJ+Xx28x/0n6EWZCEpBM2f6NNIM0/E0fyLeO+w1hk0SmqrUM7ebW55c65SQcUZrVqVvms0mNNN3sYWMPdILNwyh+5FBj+TxCAdIJt3w==;EHpd5yLGCvfxwHrtVEquPQ=="
+secured: "+J51/0mkIpiwW47u4d4t7AKOZRBn5uFjoGwiBGgThgonnfcQhZm4ia2f/Wm/SGsJxYt4LaEk6EhlrLvAf82IvAnFFmHD3DK8rQLMNGKhECGo8nddT7ao0IjiKdBJGiwakBLHqdO3zjsF+Ruhvti/F/yg4zpTwaJ9qFVL7dNseYMD8TYtT+Z4Vgu+TfGD/b4QPkYmyyyTOiU0+h2SY7PBNPBEAReLygJ/Ntj+ydTbJrP/7jDbuePhkofZyEGf8iAlf7ic3HO4lGtY+ue9QIy93B3LBCaFFZVQYfwSUIZlMPGLZ5zU9o6ix+lL9J5bbxxN3aVCsCV0rPksLqLLtLYtrN8KEJLad1Q0vYnTPrN8aU/mUf3n/DD9YJZbBh3apaXBUewleppipztWHx2I+AP0SA==;xIOdql2rhdB/0vSUKOrNZg=="
 ---
 

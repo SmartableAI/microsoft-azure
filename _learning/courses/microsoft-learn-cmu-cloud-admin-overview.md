@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 125 mins
 ratings:
-  count: 203
-  average: 4.630542
+  count: 204
+  average: 4.632353
 heat: 50
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Foundations of cloud computing for administrators"
 
-secured: "K3m2SjJkJ7B2l1Iy25hfY106RaUQ/75wv55Onh9S9bKJTJqddFWw2TufSAKPSElsv35u+2wY720BixlEk6Gw5M8FgajsimNQ+uRwUjDNvHP+p3f3dYQeeBax2mV7y6KDQi4PkLFnQ51v+9MEn+P/I9uh2CCBDlhQWSvk70SuAPqFUf2/bsmDwv0BTPUSa4MIvDMxjYxm8kZG8gwKm2rcCxU/anr4tLsOTMX4SlmjqtxpB/MlK3zGCJt3jSBzYlPhrp/ZHmgyvow/VX0KQ48CgLkVbncW4OS9lhle9YFaYshdRtpFqtJ9NuwsEqSWc2K3Rjmoh+dIE9VfMHmfQ3+F+Ed0OkHk8aahNfwF6G+Fq6BxoinJ26OvD9B4DF/hP4ZAoUDTCHgQNho8AbIRZU3c4Q==;1k6jQLVNfZWlPs4eiCuKwQ=="
+secured: "Mpg4xY+ZHm0ETHqWt5y6CKBTmwZKyUO//KxCKO+X1yvt50E3knFLE/uVNFudb2LBCPPQjluUTjC0g7ojov2kpG1KXlwi70y4FfEFBrVkndI0fgs3KQthsrfAFFfL+u2sg+kS0df7V9vdmchpwLJ1qEEHUXvYkKpQRjqTKQtzwjn24UfQyHfkHbvDdjpObNQQVToW20UadFZKkv/2BfPbHghaRQ2Bh1+cys6SrhwbV254QU9L2TmQLY9CC4YGrDUmFFDVRAOK3s+ssxj2RNRSpeXUZyC1EOazeAR9WJ6R8GtM3sguPcSvO38PLe1zE70vF07+OSkbBjWBku4aLOHQqWfDjIyH9QL75U2HXghPEvEcPqvNKaGoEN4sLAHWWim1RuQJ0NF4oTxrrAHPOXDfyw==;/YMbhPfySpZv6fP/gJ0fxA=="
 ---
 

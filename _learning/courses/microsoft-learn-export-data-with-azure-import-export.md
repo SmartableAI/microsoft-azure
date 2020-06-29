@@ -8,7 +8,7 @@ length: 24 mins
 ratings:
   count: 215
   average: 4.6976743
-heat: 51
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Export large amounts of data from Azure by using Azure Import/Export"
 
-secured: "rt2Wqe+cxzyZBBsfSH+wAPL8Ol3XnXbImcGaldJkgJBWiXTrRxuXq4CXSEXZ5QIczGg5xPr7OFKDtW5XegjGTVwozeZlmXYOR4MegzQxEPxzc2gbk6IW0KZu9KclCAFnBlvqHteKolFGoXWmXApOPEswl3/eRsKTJ5x6B5pl3Ix5C2fNHe3KfLzLCdxyRIvSgD0jSeiSFyO7JKoRlEdcJYfdb7aDS1LMHVRglFkOZgbbdQipCjOFT4Ed4hmMKSWk709W84HUV+X2pRVsKise+lLqrLoQr/tIT/UnpYrEPLnkLJej7OEMwkfvm4tcTyB5rN7duQJwU8KXVqEkWCCF4J2MMV1ZYdi/jKiv3jdTwtCobGm3HaEPz4bcn4cnHlABbOHtjF6Ir7YWLRxj5TlRAg==;mXEsbGVcyVmDOSpAcfjP7w=="
+secured: "9aDjcxKXBp6wB+NMHqZR670UGu1YlPzxf0GLGLTI27AbrtU6ecoD59WyE1mJ2Jj+Vtotc8yCL9QxXhZ/BkH7TJCPM/hJz1Wd4Ie/cEWAs8t33aiTPRvQQ4hE3FRjGlZf+RTH4hYTfKEmYMnpGavEdtwYGb1z/yExoWk4v9JVY/0yfcdyll25SlolMhzp4BGaOkIChRs59CHmDRCpujn6rCrDFn/yWTVHtzvcH9jMPuhhGGPdNpK8cTLN795GPOlobyde4sXr4LBn+ba2UNRcIN0u9Y1Mb41xsjYbhsnmeGS/NjwEn66t4hqFwWMBHLEzzGwoTVkBolUqfQuqhSme3zyrKC4U00kimvpNIKLkuRCaH6k+oozw7JLD54HQiJ79Cvh0CFgz7UsRFiPdbR8bVQ==;hXoaSsy3w8hLZ5VmF9Pg7A=="
 ---
 

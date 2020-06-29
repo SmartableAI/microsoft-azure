@@ -8,7 +8,7 @@ length: 56 mins
 ratings:
   count: 598
   average: 4.6270905
-heat: 59
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Predict numeric values with regression"
 
-secured: "7UMvVfTUG9BkB+NW91/ljuBm39oO4TLix8OcQbhjNDyVkDIJUXXSJtsmE8byU6MFwj7aMJrUiCWi8RIzgcGRXsuaw9Hd7D+IP352cHGtCOH4P22GjPyMp1lHPIcaDMTJdY7GSJQ2SMD83l61NifYbzj3I3knrB5bBqpf9ZasJxOGBviF+PSuGMmhRD/mrYJmlleJozqsifO8xyYBdGPDKil6L4IEH6qmSBv8fHacK0T5a2nP+J+acrK5Zn323nARpJNrRpe9Q5Sf6r4tJ3knv4ve1N9cZ8mrtTUNKYuvEzEzIR5pmCbFCvK0J2yeOFMJNz5OVEVjTlu7qPQiDjKGn/dDTotv/EO0oucQvFtUVboFPdlyciOfZVZofmg21aEwAFWa9YSCRDbo2WyHbEq+Ag==;2//g4dL5wvQSXuw+Ap1vRg=="
+secured: "tGjauKke1eam4JScukOIbX6Pkbui8JMi4vmvUAaGNGMh1u+CYvQQ4LTyOvNzWfntgXuOV3qecpOtTWduGpzOrFqc7p03oFRQZK49FXdU+C/XIaBqiNhDiaID3iwc/sAyHzTtGdZdZFBYW58OkWNit9cxwjHe8mOMWuKSid6tyu0fNAb/On7CVJmW3/O0+Orz+SVpZ7d5/+TtUX4QJHVlx8hZMZeRE8TfUKo4mYIVvqajglZkAnRPCbyh98lF1HsShrilAHZpW/ZyHcaYStYFDzi9FTHYBebODoqfSBWFTIptIbEXn1r40TWo2fhUC7YxH91V5kzT7g6fDzUGa28oVRf4LyGcHgj6v2zydjuDtkXckmiIKC13rh2msEcURreRFXxSzSy8FS1Mh8vbMlenaA==;MY0JszC/yN2J4o3k5x09+Q=="
 ---
 

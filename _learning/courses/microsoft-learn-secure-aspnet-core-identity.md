@@ -8,7 +8,7 @@ length: 68 mins
 ratings:
   count: 570
   average: 4.5017543
-heat: 52
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Secure an ASP.NET Core web app with the Identity framework"
 
-secured: "UuAlsi6Cmk99eGUmIIVptUIc2bvgAfaxdabLGBx+npfMUizcjOQ+WSlgjVobEnzXw6cfsDQtZcaSGi+GHZXSI/tukw1G2KcVwMgAty74+9UdVAe42dEYsy/72lCe7f+mT/lzea5U7IL6CecEYCmCy6XZN1Z+eEF+LP9japWiRoSGs4x/znnUGTXSKCy+4htnR6KqXItutWkXsTbD2VkOKr59s2Jk8ubShOtFtw7mbsKtYu+mz0O/+EeobQxbnobz/mWIxbs3VGEBce/92H3TDE0v4gwVozqY/GpBDLRXSqgNYhN+iZeWU04ERW0o54hC3jgRgvKIoOdsDaU8oWbO8OLMQsbAcv5c93KpXYjOJ0dqLH9DoEtO3jfyCUbU3R8xRLr/TAPSAf4vocaUBPmTHg==;CfMYwNI+SEFMthPduKLZhg=="
+secured: "S3wCdAuCw6NiEZJSvIG68/PLxo0qdV8ZWFYmnAS//NA8CdmN6wlBmXXWrZvce/kNIVYK7eVUCuleXYzSyJowBBxD8WWy/xkwPu/m6anal5SlVXN/JgBJmYzEvKv9xDGVx1VsG4037knjLVbDGG34jfI0x0wyJJlqZkMXWLBEQix9JNPX9DIOiHtX3eoy+u6vTgPJInk9AYRGutmBl0rxQX/e0rbaaHT3zG2ykpuKvLajEkTfg5q7l8Xs+8twsd1GYAGE31baeas32s3KOq8jSzocrUX/5crAaTPMDeclDINXKoQBeOZJAmg96vvFvaB/38yrRCLot+iVlT4a/X5JNFs1KHrsuCwSkFvZ4VeQPh1ycdukY1UtxHNDjSArnIQ2NQcPmSw0JQ8W3e7vWBXzLA==;LmJsSMZkK5tlxPJsXlHo/w=="
 ---
 

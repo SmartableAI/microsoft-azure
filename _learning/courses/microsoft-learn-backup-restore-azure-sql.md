@@ -8,7 +8,7 @@ length: 41 mins
 ratings:
   count: 471
   average: 4.583864
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Back up and restore your Azure SQL database"
 
-secured: "J8/hwcW87PDMaQyATvTILc9IFhudLGEb6nuuRZ/zzLsfzK110SiKsNwDDJtMGrhR8acIH+YFWoEr5s7koMjvO9q+RJ0qL7N7fvBEpiYfV4FtGtT+qDNwKf7sNfMzmhlfs+QUrFZtPyHlgHw8R3ILXydf/42PCzEUR7sFkr2avw5AigFYrn0Wx3j6cUfQ2txIbKIkbMeHbh7LDDlAjpVSLOHq0lD9ElNZNpxw0Eh7wZnzd/Y1OyD1hCXIqQOmmRYcCN7nH9Ifi2YG+xQs4W8nbM+RXLTL/rSJR5q7MnVOQPTTSzco9cGi0hu2sRHMDnhXC1IP8b5BvDkXFQGer81QMcyOhZiljmDZ+gDGbJTc7yJgxgzjSZEjAuTURAwpmVvT+i8DgbFslS1giFCtGmNDzg==;5BCQoP8XWM2krCnM2KrL2A=="
+secured: "F89Sk7yPh3KFj7/IxHz0yLQK3dn79J7B+/yImbCA/DWmWry+VJAz3AHFoZrReBwdwF5ytl+oBsvQdcYZqiLm6hyJ3ZKMTdsVw9jtZ5pOq7pr0+4NaHnfE6SkHresFu+kiCi+oXFNkxzPPnXLdnF2WiXSlv/ZxtlwVBcDa/sHFtENHFU5fEAgZrZ24Q4ObuZmtN8ijNqqp0UrV68HfRne879RDKYK20gfc/weiSoaQjKOWNI+xox5lNal/WQM4bb7EBXDJgkc3kGYQ+exupLCnXxG4JXcoj2sDXBhau7h94Qv2xzx/wWcVFiawFQwatS56y728P90WKRnymaokyYq9trs3IHD9jd9tRWpCqZmo9ugYDdCzIjicv1YkFbktVZ/4Qiub43YGn+E1VyCRYBTeQ==;eQc1RRRmvwB+tfCmNqOFGQ=="
 ---
 

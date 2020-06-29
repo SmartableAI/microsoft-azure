@@ -8,7 +8,7 @@ length: 35 mins
 ratings:
   count: 305
   average: 4.8
-heat: 51
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Identify governing practices for responsible AI"
 
-secured: "4DLs/j8k4chUAvFkYnHAIHvJ5ttfcQDhGBfRfWPffPr5T4wqaxZ4Aj81n9LeBGpI06MDFB36H8bj68er5XxF+7VzOryOArbPh9ZWekpTvwt3IJjcrG4DFKWsizUcftoZlTbI+uRg2kHmB8sIl7T21zEQBZtUxPW8cibIF8xcEgTWFq3ok2OLYzFxk++M6br/D2fwW8OFeAgqBvJ2Czc8fVjMgQlhcJ5CW0nLkdxsvrfpfGxtCkzQgnLBxEBDlRAbkMquZCB4yiOTIb/3jW8KI/TqAn+lhbP+7ER8vnvDIBSsVEQZlX9QqAb3xzM5MDl1t1W5iZqtGVVN4ljY0S+K4b3isSFzScgC8U6jO20b9oM7ZWOnZuM3w8Pqdzh25DUi4qJFOcnlde18vvZHawahkA==;omFqLJKfKvxoKRH4DPKSzA=="
+secured: "MoaBxmvxkcGbRjKW5Fk4SY40Uqozzg49OLyPE55mM3RoZt9aZhLfKuswL9WlqoFxVp8B8ITFK4P+yguLeBnJB6vbMuZsxOEXKZ3EfrB/foRbrIgDkFdzqz1T/UohTC66VCE4Mcn6Ti2W9sMgeRZGRb2KPiu2QFOGyAxzB2/g1hd+3/xzflyfj3+P+LIOx+v0EQnecZNowAghzS7LvhA6tm6/Sho2370hoL9IwNIGgonGu/Y3gKHkcbwHZ615GaEz2XhGg2A+CaufjsLjSmHRE8bjn4/QOt7I3s2upyyRlmAqjN0sxOaB8K1HnYCmRJDV5zcz90Phxf4DzyoNUW3WVC3jsh1YMgmV2OYsJb4u5LkgdxMe+w18uac7IOLVviB3O/wXME/qnyL3wLgI0/R6cw==;7J2skdPPPnXLmupCbUIMlg=="
 ---
 
