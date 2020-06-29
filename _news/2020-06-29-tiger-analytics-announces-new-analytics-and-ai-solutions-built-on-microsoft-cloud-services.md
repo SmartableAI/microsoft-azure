@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/16422337"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16422337"
 type: article
 quality: 12
-heat: 12
+heat: -1
 published: false
 
 provider:
@@ -19,19 +19,19 @@ topics:
   - Azure
 
 related:
-  - title: "BNY Mellon Launches New Data and Analytics Solutions Offerings, Collaborates with Microsoft to Build Solutions on Microsoft Azure"
-    excerpt: "PRNewswire/ -- The Bank of New York Mellon Corporation (\"BNY Mellon\") today announced the launch of three new Data and Analytics Solutions offerings"
-    publishedDateTime: 2020-06-25T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/bny-mellon-launches-new-data-and-analytics-solutions-offerings-collaborates-with-microsoft-to-build-solutions-on-microsoft-azure-301083452.html"
+  - title: "Microsoft and Hitachi Announce Partnership Based on Azure Cloud Integration"
+    excerpt: "Microsoft and Hitachi are expanding their partnership to include a multi-year alliance focused on transforming manufacturing and logistics."
+    publishedDateTime: 2020-06-29T14:00:00Z
+    webUrl: "https://winbuzzer.com/2020/06/29/microsoft-and-hitachi-announce-partnership-based-on-azure-cloud-integration-xcxwbn/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 8
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 35
     images:
-      - url: "https://mma.prnewswire.com/media/323907/bny_mellon_logo.jpg?p=facebook"
-        width: 2698
-        height: 1414
+      - url: "https://winbuzzer.com/wp-content/uploads/2019/12/Microsoft-Cologne-Office-Pixabay.jpg"
+        width: 957
+        height: 720
         isCached: true
 
 secured: "rjrWZtz/dB8PScjyn57B3nNFKUA172DGcCtJfL7HaxYL0CIwAjLPrwq80MlE+jNeiR8/icZ6gMZ9vrNKDokLZalmS7IKiWUci8q6HV5eT7QQct69lkqIAmDnkU1P8Lo+kcHAeAMOeV/ic4V8wjiuRC5BKu33T0QqicBPRp+PLPAjADr3Wy4qnF7zfrmSND+qSDLArssHCSzVdO6xa/uKJ290gkTALiNxkpt0DFFS2nhTqQ+Q9ukiM56txPwh7OP7VwFA9JinJR2dcap2KnegjDvuFyrJxsl60cpCdMMpcRxDcivm8Ulup1WikuzAH7308OCbjXlSORBHFvV5gQfhtg==;gLxTRivX/sZiYOXklMgsEQ=="
