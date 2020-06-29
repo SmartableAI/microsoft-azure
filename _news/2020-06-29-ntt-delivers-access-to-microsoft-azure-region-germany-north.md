@@ -1,17 +1,17 @@
 ---
 category: news
-title: "Teradata Strengthens Cloud Offerings on Amazon Web Services and Microsoft Azure"
-excerpt: "... announced a myriad of enhancements to its as-a-service offerings for Teradata Vantage on public cloud providers Amazon Web Services (AWS) and Microsoft Azure. The improvements will also apply to Vantage on Google Cloud Platform (GCP), which will begin ..."
-publishedDateTime: 2020-06-23T14:31:00Z
-webUrl: "https://www.oaoa.com/news/business/article_756a3384-1320-5c65-b911-0d1dfea48287.html"
+title: "NTT delivers access to Microsoft Azure region Germany North"
+excerpt: "NTT said it has started to operate the Azure ExpressRoute site at its Berlin 1 Data Center to enable clients to access the new global Microsoft Azure region Germany North. Customers can now circumvent the public internet using a low-latency private ramp-up,"
+publishedDateTime: 2020-06-29T10:40:00Z
+webUrl: "https://www.telecompaper.com/news/ntt-delivers-access-to-microsoft-azure-region-germany-north--1344372"
 type: article
-quality: 13
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: Telecompaper
+  domain: telecompaper.com
 
 topics:
   - Azure
@@ -45,16 +45,16 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "NTT delivers access to Microsoft Azure region Germany North"
-    excerpt: "NTT said it has started to operate the Azure ExpressRoute site at its Berlin 1 Data Center to enable clients to access the new global Microsoft Azure region Germany North. Customers can now circumvent the public internet using a low-latency private ramp-up,"
-    publishedDateTime: 2020-06-29T10:40:00Z
-    webUrl: "https://www.telecompaper.com/news/ntt-delivers-access-to-microsoft-azure-region-germany-north--1344372"
+  - title: "Teradata Strengthens Cloud Offerings on Amazon Web Services and Microsoft Azure"
+    excerpt: "... announced a myriad of enhancements to its as-a-service offerings for Teradata Vantage on public cloud providers Amazon Web Services (AWS) and Microsoft Azure. The improvements will also apply to Vantage on Google Cloud Platform (GCP), which will begin ..."
+    publishedDateTime: 2020-06-23T14:31:00Z
+    webUrl: "https://www.oaoa.com/news/business/article_756a3384-1320-5c65-b911-0d1dfea48287.html"
     type: article
     provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 17
+      name: Odessa American
+      domain: oaoa.com
+    quality: 13
 
-secured: "dQdR0LgYGfp2t55avhOPtxtRdqP1h/uPgfEiZX6eOkostslpVEZZ/AfFsXotimRpqNl3XYWOU1uECVlMAcXBI5qbTy4wwnVYDxWGWVLRz6+FbirKbVzzHBBoLXFYzYlJQmbHixPddM0GojkMLrgJezofe42rU3GrG6QHh1o0ep71iM9LP85Jf+Iai3EW+SBhCSzp8+JtgwQvNdethKHuzw9iOgAUC9AA23GSVw+eHhxRXm98RCYzZHn9Pu4FOBMpyvQybgSBKZ4IsAnZ77So+V+9AuH/VTGfQ71UChQt1qcVJKGMBRjaYZvC1BovaxrERpyezqYqwYvplITFeKoumA==;+f5d2H6dUa60mEBxRwJtJg=="
+secured: "H77fKb0o5WUnngyTkJhmn77H6oUACYdkf5L54tt8UJwVDCbCRylE4RuNEq8ziksqLKruSXh3oXnZoruM2YwqKT9A0sCYY7mnV0Ykee5jJILX3XdzRC1/Ca9HzxokJKSGMwZray+2N2oZxgG+ck/qCy5SnoWdE8nn3Cw8ZwSCwVVYEPy1GwiVDBiY1oqg/Q+wmYES1rkxuUxuUnfjX9OrJ9OxAWEoW9IQDP2io6Yd0YDAm4qZHL9nDGRLLBOEqhj795pPPD99tRR9VcY9YYZunHVH0ifeRreZqBnlc6meWq3c1ZhPCNS4fyEvICAlL2GvitrItHe2AIT8MgxYdN3JdA==;uDbAlkFOZRmBAOBcHA10kQ=="
 ---
 

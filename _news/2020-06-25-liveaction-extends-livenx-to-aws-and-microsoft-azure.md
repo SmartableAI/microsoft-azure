@@ -38,6 +38,15 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "NTT delivers access to Microsoft Azure region Germany North"
+    excerpt: "NTT said it has started to operate the Azure ExpressRoute site at its Berlin 1 Data Center to enable clients to access the new global Microsoft Azure region Germany North. Customers can now circumvent the public internet using a low-latency private ramp-up,"
+    publishedDateTime: 2020-06-29T10:40:00Z
+    webUrl: "https://www.telecompaper.com/news/ntt-delivers-access-to-microsoft-azure-region-germany-north--1344372"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
   - title: "Teradata Strengthens Cloud Offerings on Amazon Web Services and Microsoft Azure"
     excerpt: "... announced a myriad of enhancements to its as-a-service offerings for Teradata Vantage on public cloud providers Amazon Web Services (AWS) and Microsoft Azure. The improvements will also apply to Vantage on Google Cloud Platform (GCP), which will begin ..."
     publishedDateTime: 2020-06-23T14:31:00Z
