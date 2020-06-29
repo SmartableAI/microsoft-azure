@@ -8,7 +8,7 @@ length: PT1H11M
 ratings:
   count: 3
   average: 5
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Implement CICD for IoT Edge"
 
-secured: "lKtWhHv8m5lGePkjt0tTbYcAvw7O4wed9BFnoFS0zjqia1PtnUvWdOEtgaHOuToYDalaC1T7F3vRA/UGEr1QIbrRqZCLl/7XHxpZ8aYJ90000xstT7uk9xRNWUgnslasB113gl/WORFt/ay6aw22yxMlUWYMbK6fhrRWXgFTqdF/7cOO2K39vztSs9wzdXcuAD0Nu4sWm2TV8cxddGvcb0TIuLRPr/DRhhrDkxPx5vUxhtkbocW+3o8JjJV8awEONTFmJ31vMWpIp+U364UK/c/EvUSos8jN6F5W/OI8GTVFEddjtv4hUd26lruvJqXt0UFa1RbJ1J0k08hzFsB6OMR+VnYFTl+/pvOHvCdV2Fh14v6mxTh2scdVmXyJKzb5d3QrsvkHDx7dqL1k5zFqbg==;jUeedVagkNnUI4OVpLjQ7w=="
+secured: "3wjwq5B/E1oyqSdkNEn/odCju8zsI7mSigFbX6jHzKXS35qE5i4LJdOj719u9iL5tgmgXigGc5KswtUaMo+lHActujFdQ/gH8N83VQhwKQJWcARy/mfSppPZFj7hdUdA12BBPuahos737dx4tkn24DH50dV8k40gCdl1j9Ss5kseWuJBgO+ckTHcnC7+GkuAhlvmvuRcHoHpFzYTbzUbsbH4XfRF/xiEsVdBjttzorGHhq9Egzt7OS+RbfdXQHZVMQ4bvdzRxIjkYKMSKZufS14wa72XR1B6zytnIW19KMc9QalGTbyZlEtHuszt64FBzL0Nxg5Dy49Ihi/C8OCPRfBBHMZwl6xyOYkjQJvUDO49aFdogYY8ekxuroDfyWMIL0n163Gvk4Gh22ZElfKXrw==;5tG+lFxpT6yBUHnezDfmfQ=="
 ---
 
