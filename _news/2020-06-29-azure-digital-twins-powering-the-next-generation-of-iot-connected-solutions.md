@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Azure Digital Twins: Powering the next generation of IoT connected solutions"
 
-secured: "cXRCceyof9lblKwQ1ujn6EczNUemfU6EuV3SkWbECc0t4kuWVlo/gOIJl+HCkKr1EQnvdYRhfv05mKHU1WWwTZ3t0sMH8jWWSwN35EqIDiTABva2cOfZ8P7eHhmYWp27mnJ+/FPMbnogAk/NuJtpfmfeE2LA0tpSIdlwZsGIuwggPI4F7VJXTZkzbmrWk0KD6gIMoW93qCPWgaCLhnp6ALusOOvUuwUYdUuhsL+a2kVLIRsffSEHzfV5kQWyxbosoz4qEoecpbqKVfkj0IOJ/sCPHRsN9T3VGK3o+HdsLhG2SgyZTNI54QoHzOtJ8/TuBheIeUbjMSBKuPUtLJ2i2w==;ESrAPUwNXSKjrQ/EVeC1UA=="
+secured: "PQ2sz/yaOLF0W9BPpk4AtreA8NJ4XFjUK1iqXs6tIxtuJA2yfH5+uUmuPMN3/slQAZqC2Y0oo0LqXrpLiwoOQ7hiB2QK0CIQ8fcVwn6HXgE9dc7CEuWCG8KDS3vB+lbsyJglSeIBftRRHe0VvVm+exbhCtCoe+Laa+/EEB8PLM/uiJb87mqycsUGcdmtEHX/QfUsbEFkszKUPERLh67+1dulrBDMU51A/8ZH1Fl9nmZGgdNluziXkNp9DJT4/L05IptreGxZySqWsNXmh2G2Ti3j6ButuDPCwSSqUgCEZfI9zzMS1+1Ywx9fyOGOAK9UEI4WCYKbQT2rnXa5ACUhgw==;mBFmWIoevD+eHXBCxq7l1A=="
 ---
 
