@@ -2,6 +2,52 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-02-27-accelerate-your-cloud-strategy-with-skytap-on-azure.md",
+      "title": "Accelerate your cloud strategy with Skytap on Azure",
+      "excerpt": "Skytap on Azure allows businesses to innovate with the cloud faster, while minimizing impact to traditional applications running on IBM Power.",
+      "webUrl": "https://azure.microsoft.com/blog/accelerate-your-cloud-strategy-with-skytap-on-azure/",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e9bfb4c6-9f79-46a3-8490-65dfcc5ccdaa.png",
+          "width": 1062,
+          "height": 712,
+          "title": "Accelerate your cloud strategy with Skytap on Azure",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-27T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2020-02-24-fileless-attack-detection-for-linux-in-preview.md",
       "title": "Fileless attack detection for Linux in preview",
       "excerpt": "This blog post was co-authored by Aditya Joshi, Senior Software Engineer, Enterprise Protection and Detection.\r\n\r\nAttackers are increasingly employing stealthier methods to avoid detection. Fileless attacks exploit software vulnerabilities, inject malicious payloads into benign system processes, and",
@@ -1272,53 +1318,6 @@
       "topics": [
         "Azure",
         "Databases"
-      ]
-    },
-    {
-      "path": "_news/2019-12-02-application-gateway-ingress-controller-for-azure-kubernetes-service.md",
-      "title": "Application Gateway Ingress Controller for Azure Kubernetes Service",
-      "excerpt": "Today we are excited to offer a new solution to bind Azure Kubernetes Service (AKS) and Application Gateway. The new solution provides an open source Application Gateway Ingress Controller (AGIC) for Kubernetes, which makes it possible for AKS customers to leverage Application Gateway to expose their",
-      "webUrl": "https://azure.microsoft.com/blog/application-gateway-ingress-controller-for-azure-kubernetes-service/",
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c1d791d2-98c0-44fa-a2df-44cfabf7f250.png",
-          "width": 748,
-          "height": 768,
-          "title": "Application Gateway Ingress Controller for Azure Kubernetes Service",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-12-02T02:00:27-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Networking"
       ]
     }
   ],
