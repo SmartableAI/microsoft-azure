@@ -45,6 +45,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "IDology's ExpectID Identity Verification and Anti-Fraud Solution Now Available to Microsoft Azure Active Directory Customers"
+    excerpt: "IDology, a GBG company, today announced a partnership with Microsoft to integrate its innovative ExpectID identity verification and"
+    publishedDateTime: 2020-06-30T13:37:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/idologys-expectid-identity-verification-and-anti-fraud-solution-now-available-to-microsoft-azure-active-directory-customers-301085766.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 10
+    images:
+      - url: "https://mma.prnewswire.com/media/604756/IDology_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
 
 secured: "dQdR0LgYGfp2t55avhOPtxtRdqP1h/uPgfEiZX6eOkostslpVEZZ/AfFsXotimRpqNl3XYWOU1uECVlMAcXBI5qbTy4wwnVYDxWGWVLRz6+FbirKbVzzHBBoLXFYzYlJQmbHixPddM0GojkMLrgJezofe42rU3GrG6QHh1o0ep71iM9LP85Jf+Iai3EW+SBhCSzp8+JtgwQvNdethKHuzw9iOgAUC9AA23GSVw+eHhxRXm98RCYzZHn9Pu4FOBMpyvQybgSBKZ4IsAnZ77So+V+9AuH/VTGfQ71UChQt1qcVJKGMBRjaYZvC1BovaxrERpyezqYqwYvplITFeKoumA==;+f5d2H6dUa60mEBxRwJtJg=="
 ---

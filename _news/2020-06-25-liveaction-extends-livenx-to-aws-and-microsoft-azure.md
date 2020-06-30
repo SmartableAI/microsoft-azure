@@ -47,6 +47,20 @@ related:
       name: Odessa American
       domain: oaoa.com
     quality: 13
+  - title: "IDology's ExpectID Identity Verification and Anti-Fraud Solution Now Available to Microsoft Azure Active Directory Customers"
+    excerpt: "IDology, a GBG company, today announced a partnership with Microsoft to integrate its innovative ExpectID identity verification and"
+    publishedDateTime: 2020-06-30T13:37:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/idologys-expectid-identity-verification-and-anti-fraud-solution-now-available-to-microsoft-azure-active-directory-customers-301085766.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 10
+    images:
+      - url: "https://mma.prnewswire.com/media/604756/IDology_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
 
 secured: "KsndawL9oa0rAijRC6yVEJGPMEa0rg3lgPpokp9Gq2W/LaU1JY1o9ND5MV3o5zjYsfBi4xoJoG5N8yk2oR9heUFL+QllNs5jSQ8wB71SWmto3+FzDLXY4Vqbraoye6HTpWiyzUGBVMUQ9zitd41zawJ9nVW1zFwz9f+PBeZG/n8qY7imH3JEsrTVX7h8wbVjDjYqrzTQQQaF7+CIsFIOKY3ufwEYP0GUhT7QNcpp36uGX7P0bvcUuMOMaba25aRwK7SHKMs8rf/0m6QRxBdLZKuCTWfeUzEHy5ApHKQGZt4Hd4imZ6KNwfMC4+/eCFFl4gCXldtlHMbU4l3kTw2BWyYgrzoVOVzjx8eUA4zzIiZoe3htQZ9SeOOm+yZjJ6o6FbBW7dbCCv67D2ZQb5EMIYbotZcRe8O/nbwlELuI2gSLDz2fTs/FGSVw0aUCOIoDWPrbEbbaa5J5GkrxgJ+uqVUj1zveAdkN9rqOK2bRn3OG1eZR9g66v2ctIGE5k/jk2FUkQTSswcSS7y2OkCAx6Q==;jAT+D2DM3KV6rQQ1Q9KnLg=="
 ---
