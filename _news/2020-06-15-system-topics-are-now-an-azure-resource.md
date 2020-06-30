@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-15T22:00:00Z
 webUrl: "https://azure.microsoft.com/en-us/updates/system-topics-are-now-an-azure-resource/"
 type: article
 quality: 77
-heat: 77
+heat: 78
 published: true
 
 provider:

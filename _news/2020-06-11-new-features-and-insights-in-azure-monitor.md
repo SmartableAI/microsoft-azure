@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-11T09:00:02Z
 webUrl: "https://azure.microsoft.com/blog/new-features-and-insights-in-azure-monitor/"
 type: article
 quality: 99
-heat: 119
+heat: 120
 published: true
 
 provider:

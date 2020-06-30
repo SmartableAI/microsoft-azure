@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-18T11:30:28Z
 webUrl: "https://azure.microsoft.com/blog/making-your-data-residency-choices-easier-with-azure/"
 type: article
 quality: 99
-heat: 119
+heat: 120
 published: true
 
 provider:

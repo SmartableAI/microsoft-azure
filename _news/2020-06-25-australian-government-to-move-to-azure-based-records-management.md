@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/australian-government-to-mo
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australian-government-to-move-to-azure-based-records-management/"
 type: article
 quality: 77
-heat: 97
+heat: 98
 published: true
 
 provider:
