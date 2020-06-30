@@ -1,13 +1,13 @@
 ---
 category: news
-title: "Query Acceleration for Azure Data Lake Storage now in preview"
-excerpt: ""
-publishedDateTime: 2020-04-24T22:00:07Z
-webUrl: "https://azure.microsoft.com/en-us/updates/query-acceleration-for-azure-data-lake-storage-now-in-preview/"
+title: "Azure Data Lake Storage static website now in preview"
+excerpt: "Static website for Azure Data Lake Storage is now in preview. Directly host static content from Azure Data Lake Storage, and view that content from a browser by using the public URL of that website.  "
+publishedDateTime: 2020-06-30T20:00:35Z
+webUrl: "https://azure.microsoft.com/en-us/updates/static-website-for-azure-data-lake-storage-now-in-public-preview/"
 type: article
 quality: 77
-heat: 177
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -21,6 +21,15 @@ topics:
   - Azure
 
 related:
+  - title: "Query Acceleration for Azure Data Lake Storage now in preview"
+    excerpt: ""
+    publishedDateTime: 2020-04-24T22:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/query-acceleration-for-azure-data-lake-storage-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Azure Functions—Java 8 support on Linux is now in preview"
     excerpt: ""
     publishedDateTime: 2020-04-27T15:00:24Z
@@ -48,15 +57,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Azure Data Lake Storage static website now in preview"
-    excerpt: "Static website for Azure Data Lake Storage is now in preview. Directly host static content from Azure Data Lake Storage, and view that content from a browser by using the public URL of that website.  "
-    publishedDateTime: 2020-06-30T20:00:35Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/static-website-for-azure-data-lake-storage-now-in-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
   - title: "Optimize cost and performance with Query Acceleration for Azure Data Lake Storage"
     excerpt: "The explosion of data-driven decision making is motivating businesses to have a data strategy to provide better customer experiences, improve operational efficiencies, and make real-time decisions based on data. As businesses become data driven, we see more customers build data lakes on Azure. We also"
     publishedDateTime: 2020-04-23T10:00:10Z
@@ -67,6 +67,6 @@ related:
       domain: microsoft.com
     quality: 72
 
-secured: "+GFgXSWizQnxlD/LzcqpVs0HFigYKYFbfq5Zb+AjUQs76ayG6xKZz8R/0/lCRTr/K/0llQhRI2ZRpntR1sCWA6RjuR5HTLUBdWWEsx2HPj/+OuBqICPGPxUpAV42y8ei5rKtgP3/iX4xeedyJQHCGjtik6aBK/x+JOsyA0/ETvM8AMtbg8p2Nlya0LOolLfTFdfqW4hYMJt0sQ5NK/nf7PJGpLimrg0l+vG+3PIO/P2nVFa5A9h+naC53Xx4Ild2zIW6D/bMjz5tkSTM4LD3hV4qjrctE+vbogJhGvK7cmdxg+1lO+uZXdYGk8iAKaPINPriAEhWZID6vUQ43y/Q3A==;UgDYT32VwkcwBM8KpplX4A=="
+secured: "LaDCiL0mVtHDgJZctC3q3GrjKuWh7+bObwsRv2oLeo7KXmw/pSEEF1OdL8GSznyVP5y8KkutsTfvSajwoxZNT+UbR3lL0uVaq6FPDtGkoFwmPfqIiK9foExY+vqazwCmrHZgN74OoYSFwtouKf+SnT4O9MDzbeudyzxOFsxvs/6/g9jPn6ShB1GP2EzuurLiLsf2g93Tan2O042CAZPqCbkMQ4A9XmUOXZAvW6GRowwHc7SmwDXdaG/HFOh7iLF0JS0fvAOOjcKQHBO1X3Ewed7MzGWotyIAIOh+OX5oAoUALv8tZVT09HqumMNF9Ku4a5SEsJt/nsp8jFSFKoPZYg==;1TFIBPH0AWCsUPtXxgv0cg=="
 ---
 

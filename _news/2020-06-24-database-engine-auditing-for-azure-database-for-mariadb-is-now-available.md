@@ -57,6 +57,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Azure Data Lake Storage archive tier is now generally available"
+    excerpt: "The archive tier for Azure Data Lake Storage is now generally available. The archive tier provides an ultra-low cost tier for long term retention of data while keeping your data available for future analytics needs."
+    publishedDateTime: 2020-06-30T20:00:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/archive-tier-for-azure-data-lake-storage-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Trifacta Now Available for Direct Purchase and Activation in the Microsoft Azure Marketplace"
     excerpt: "SAN FRANCISCO, June 25, 2020 (GLOBE NEWSWIRE) -- Trifacta, a global leader in data preparation, today announced the availability of Trifacta in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
     publishedDateTime: 2020-06-25T13:00:00Z

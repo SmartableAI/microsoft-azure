@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-23T09:00:03Z
 webUrl: "https://azure.microsoft.com/blog/rules-engine-for-azure-front-door-and-azure-cdn-is-now-generally-available/"
 type: article
 quality: 92
-heat: 192
+heat: 212
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
     excerpt: "Azure Database for MySQL now provides general availability support for using audit logs to record database activity and events such as connections and queries."
     publishedDateTime: 2020-06-24T16:01:16Z
     webUrl: "https://azure.microsoft.com/en-us/updates/database-engine-auditing-for-azure-database-for-mysql-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure Data Lake Storage archive tier is now generally available"
+    excerpt: "The archive tier for Azure Data Lake Storage is now generally available. The archive tier provides an ultra-low cost tier for long term retention of data while keeping your data available for future analytics needs."
+    publishedDateTime: 2020-06-30T20:00:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/archive-tier-for-azure-data-lake-storage-now-generally-available/"
     type: article
     provider:
       name: Microsoft

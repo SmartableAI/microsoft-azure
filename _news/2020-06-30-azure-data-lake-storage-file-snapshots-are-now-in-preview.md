@@ -1,13 +1,13 @@
 ---
 category: news
-title: "Query Acceleration for Azure Data Lake Storage now in preview"
-excerpt: ""
-publishedDateTime: 2020-04-24T22:00:07Z
-webUrl: "https://azure.microsoft.com/en-us/updates/query-acceleration-for-azure-data-lake-storage-now-in-preview/"
+title: "Azure Data Lake Storage file snapshots are now in preview"
+excerpt: "File snapshots for Azure Data Lake Storage is now in preview. Use file snapshots to take an unlimited number of snapshots of your files so that you can have a copy of that file at a point in time. "
+publishedDateTime: 2020-06-30T20:00:36Z
+webUrl: "https://azure.microsoft.com/en-us/updates/file-snapshots-for-azure-data-lake-storage-now-in-public-preview/"
 type: article
 quality: 77
-heat: 177
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -21,19 +21,19 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Functions—Java 8 support on Linux is now in preview"
+  - title: "Query Acceleration for Azure Data Lake Storage now in preview"
     excerpt: ""
-    publishedDateTime: 2020-04-27T15:00:24Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-java-feature-support-azure-functions/"
+    publishedDateTime: 2020-04-24T22:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/query-acceleration-for-azure-data-lake-storage-now-in-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Azure Data Lake Storage file snapshots are now in preview"
-    excerpt: "File snapshots for Azure Data Lake Storage is now in preview. Use file snapshots to take an unlimited number of snapshots of your files so that you can have a copy of that file at a point in time. "
-    publishedDateTime: 2020-06-30T20:00:36Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/file-snapshots-for-azure-data-lake-storage-now-in-public-preview/"
+  - title: "Azure Functions—Java 8 support on Linux is now in preview"
+    excerpt: ""
+    publishedDateTime: 2020-04-27T15:00:24Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-java-feature-support-azure-functions/"
     type: article
     provider:
       name: Microsoft
@@ -67,6 +67,6 @@ related:
       domain: microsoft.com
     quality: 72
 
-secured: "+GFgXSWizQnxlD/LzcqpVs0HFigYKYFbfq5Zb+AjUQs76ayG6xKZz8R/0/lCRTr/K/0llQhRI2ZRpntR1sCWA6RjuR5HTLUBdWWEsx2HPj/+OuBqICPGPxUpAV42y8ei5rKtgP3/iX4xeedyJQHCGjtik6aBK/x+JOsyA0/ETvM8AMtbg8p2Nlya0LOolLfTFdfqW4hYMJt0sQ5NK/nf7PJGpLimrg0l+vG+3PIO/P2nVFa5A9h+naC53Xx4Ild2zIW6D/bMjz5tkSTM4LD3hV4qjrctE+vbogJhGvK7cmdxg+1lO+uZXdYGk8iAKaPINPriAEhWZID6vUQ43y/Q3A==;UgDYT32VwkcwBM8KpplX4A=="
+secured: "R0qQqaG8kZQ3rcFuukddB9KWT0J7wHEhowNjFWNjjzW+r8cc2ntKii7mNWDB8uigNdZn+HMZBkEtVg7i/Y5MmWjIuelP7UC26nxNigUC9JWmCyJPW9anFmKeoCxcGNDSCUBzIT5z7HpxwpBIRJ5eyjp7iejdEgu6qW0OHY20XuOmMgEFTs0DL4vkAloKp21wMRe/zHTxzXWXMzuek29KwHWmJVTzGlderZI9MbXLgVmRCET9HjOS4rF42UEbDOO6ObGTs2Xfg3LbvEVWqLRTK70U9MrWcNolmkkQ4S7YqauebaXphlZ2uTU3sIRoa0NRkqbVvL3U/zHnpVAgkxbNHA==;4Z67MPJnZAObOXtXHgur2g=="
 ---
 

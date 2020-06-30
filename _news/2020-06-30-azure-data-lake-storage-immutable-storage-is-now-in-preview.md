@@ -1,13 +1,13 @@
 ---
 category: news
-title: "Query Acceleration for Azure Data Lake Storage now in preview"
-excerpt: ""
-publishedDateTime: 2020-04-24T22:00:07Z
-webUrl: "https://azure.microsoft.com/en-us/updates/query-acceleration-for-azure-data-lake-storage-now-in-preview/"
+title: "Azure Data Lake Storage immutable storage is now in preview"
+excerpt: "Immutable storage for Azure Data Lake Storage is now in preview.  Set time-based policies or legal holds on data so that the data becomes non-erasable and non-modifiable.  "
+publishedDateTime: 2020-06-30T20:00:36Z
+webUrl: "https://azure.microsoft.com/en-us/updates/immutable-storage-for-azure-data-lake-storage-now-in-public-preview/"
 type: article
 quality: 77
-heat: 177
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -21,6 +21,15 @@ topics:
   - Azure
 
 related:
+  - title: "Query Acceleration for Azure Data Lake Storage now in preview"
+    excerpt: ""
+    publishedDateTime: 2020-04-24T22:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/query-acceleration-for-azure-data-lake-storage-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Azure Functions—Java 8 support on Linux is now in preview"
     excerpt: ""
     publishedDateTime: 2020-04-27T15:00:24Z
@@ -34,15 +43,6 @@ related:
     excerpt: "File snapshots for Azure Data Lake Storage is now in preview. Use file snapshots to take an unlimited number of snapshots of your files so that you can have a copy of that file at a point in time. "
     publishedDateTime: 2020-06-30T20:00:36Z
     webUrl: "https://azure.microsoft.com/en-us/updates/file-snapshots-for-azure-data-lake-storage-now-in-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure Data Lake Storage immutable storage is now in preview"
-    excerpt: "Immutable storage for Azure Data Lake Storage is now in preview.  Set time-based policies or legal holds on data so that the data becomes non-erasable and non-modifiable.  "
-    publishedDateTime: 2020-06-30T20:00:36Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/immutable-storage-for-azure-data-lake-storage-now-in-public-preview/"
     type: article
     provider:
       name: Microsoft
@@ -67,6 +67,6 @@ related:
       domain: microsoft.com
     quality: 72
 
-secured: "+GFgXSWizQnxlD/LzcqpVs0HFigYKYFbfq5Zb+AjUQs76ayG6xKZz8R/0/lCRTr/K/0llQhRI2ZRpntR1sCWA6RjuR5HTLUBdWWEsx2HPj/+OuBqICPGPxUpAV42y8ei5rKtgP3/iX4xeedyJQHCGjtik6aBK/x+JOsyA0/ETvM8AMtbg8p2Nlya0LOolLfTFdfqW4hYMJt0sQ5NK/nf7PJGpLimrg0l+vG+3PIO/P2nVFa5A9h+naC53Xx4Ild2zIW6D/bMjz5tkSTM4LD3hV4qjrctE+vbogJhGvK7cmdxg+1lO+uZXdYGk8iAKaPINPriAEhWZID6vUQ43y/Q3A==;UgDYT32VwkcwBM8KpplX4A=="
+secured: "fVJsL4PWuHForrlqbKdYGTDn2r3q72M6TsxUNUejfFOV+ppV/i5VdG2zlxnguGG0XYjS/7jPWqir+9c9W2zSz/StGRbPsTvJHbIsf9KXOlvHQNOr4zqNl1/Ih+gQ+Fkf23I7CgiazOkqK01DNs95LeaFx3AxEhjyb1C9KQ/xY2F45eoe/btS5ROpKg0B/WG1jf8ejxr8InwPIFIkNf0VD+Dzy1rrA/W74freqJR0tD+I84NrC2dX79i5nB4cH+pk990Vbqqwo7ri3Qrk3og5eAzwgi7bXlwFTXxtFQEAZWw9+wPLbubFuIMV3aCWgqqd36akt2IR3X7BPWTgX3lnfg==;/5n0g+l+cX03/hmsuZ8+iA=="
 ---
 

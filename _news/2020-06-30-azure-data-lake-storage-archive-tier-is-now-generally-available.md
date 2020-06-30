@@ -1,9 +1,9 @@
 ---
 category: news
-title: "Database engine auditing for Azure Database for MySQL is now available"
-excerpt: "Azure Database for MySQL now provides general availability support for using audit logs to record database activity and events such as connections and queries."
-publishedDateTime: 2020-06-24T16:01:16Z
-webUrl: "https://azure.microsoft.com/en-us/updates/database-engine-auditing-for-azure-database-for-mysql-is-now-available/"
+title: "Azure Data Lake Storage archive tier is now generally available"
+excerpt: "The archive tier for Azure Data Lake Storage is now generally available. The archive tier provides an ultra-low cost tier for long term retention of data while keeping your data available for future analytics needs."
+publishedDateTime: 2020-06-30T20:00:36Z
+webUrl: "https://azure.microsoft.com/en-us/updates/archive-tier-for-azure-data-lake-storage-now-generally-available/"
 type: article
 quality: 77
 heat: -1
@@ -48,10 +48,10 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Azure Data Lake Storage archive tier is now generally available"
-    excerpt: "The archive tier for Azure Data Lake Storage is now generally available. The archive tier provides an ultra-low cost tier for long term retention of data while keeping your data available for future analytics needs."
-    publishedDateTime: 2020-06-30T20:00:36Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/archive-tier-for-azure-data-lake-storage-now-generally-available/"
+  - title: "Database engine auditing for Azure Database for MySQL is now available"
+    excerpt: "Azure Database for MySQL now provides general availability support for using audit logs to record database activity and events such as connections and queries."
+    publishedDateTime: 2020-06-24T16:01:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/database-engine-auditing-for-azure-database-for-mysql-is-now-available/"
     type: article
     provider:
       name: Microsoft
@@ -81,6 +81,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ww0Sd29gCjLDkscu8232LTEWxXe1bAmKvmE/ixuLA2+ylhIMNS065J64JfLKrCUsaNiqfLxN99ZjFIrdZ/Qc+vvliXIMPSf6hZScopI+LJnsPAVMkgyh82+fQifkbJIQLJac4EIW9WcwThDMH/xrwCJAE8YkjkbzkiLraYdJE4qi3cMYGdmzXKb/eShY8YHuSkQeT7uZKiRHF7pTLPQVQ+qSXWFMTU7skStXIIMJn4gGcemMFH0N5+zDeLG3UEspKPLPe2SfVgXFWJDWPw4r7QWb3CYeDtFGc13rVMRTGdzHnDamK94OMU7pfJiyCe4rKCn6ZRvqLIXR9coK/JZSMw==;Vj3Lndoy8A2zulBlGte1vA=="
+secured: "xnmPkawbi7KT2upEYr9eP3bGovDNVMWjpVdUx0bMumO/qNlz9Gqm+zaJt15WJ7hISSgYuPoo076daARLdtYrvy20J8xkrayFMsJjzpH8N1620ldkB0VAcXBYiHQ0uwVvP72hpQOPlWdiZMDnxk0odU799Z15AXaQ4NMGHgBAH+qOguVMsYt8TcjHyvGUSjjtg0tQ6Scn1bhC9HcYKTGAwXjMb7913FNUZC1eOxUpLeqncjFTqlbPky5hfdvOgxNS354u2Aj6L40583g4ZoLM/021imJxGsWcMcf4EXIjQFi54D+6LID3tbVGpRFeavIkwWLD2Xgt2kzIyfO2D30CLw==;Mn+LT1U+Xr+yQV43cbRw3w=="
 ---
 
