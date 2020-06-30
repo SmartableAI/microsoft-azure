@@ -24,6 +24,20 @@ images:
     title: "Microsoft and Hitachi Announce Partnership Based on Azure Cloud Integration"
 
 related:
+  - title: "Thought Machine Vault now runs on Google Cloud, AWS, Microsoft Azure and IBM Cloud"
+    excerpt: "Thought Machine has announced that Vault now runs on Google Cloud Platform, Amazon Web Services, Microsoft Azure and IBM Cloud."
+    publishedDateTime: 2020-06-30T00:12:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/06/30/thought-machine-vault/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 31
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
+        width: 304
+        height: 430
+        isCached: true
   - title: "Tiger Analytics Announces New Analytics and AI Solutions Built on Microsoft Cloud Services"
     excerpt: "CHENNAI, India and SANTA CLARA, Calif., June 29, 2020 /PRNewswire-PRWeb/ -- Tiger Analytics, a leading provider of AI & advanced analytics consulting services has come"
     publishedDateTime: 2020-06-29T05:00:00Z

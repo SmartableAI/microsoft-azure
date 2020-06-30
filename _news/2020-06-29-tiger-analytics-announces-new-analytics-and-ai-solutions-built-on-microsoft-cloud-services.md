@@ -33,6 +33,20 @@ related:
         width: 957
         height: 720
         isCached: true
+  - title: "Thought Machine Vault now runs on Google Cloud, AWS, Microsoft Azure and IBM Cloud"
+    excerpt: "Thought Machine has announced that Vault now runs on Google Cloud Platform, Amazon Web Services, Microsoft Azure and IBM Cloud."
+    publishedDateTime: 2020-06-30T00:12:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/06/30/thought-machine-vault/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 31
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
+        width: 304
+        height: 430
+        isCached: true
 
 secured: "rjrWZtz/dB8PScjyn57B3nNFKUA172DGcCtJfL7HaxYL0CIwAjLPrwq80MlE+jNeiR8/icZ6gMZ9vrNKDokLZalmS7IKiWUci8q6HV5eT7QQct69lkqIAmDnkU1P8Lo+kcHAeAMOeV/ic4V8wjiuRC5BKu33T0QqicBPRp+PLPAjADr3Wy4qnF7zfrmSND+qSDLArssHCSzVdO6xa/uKJ290gkTALiNxkpt0DFFS2nhTqQ+Q9ukiM56txPwh7OP7VwFA9JinJR2dcap2KnegjDvuFyrJxsl60cpCdMMpcRxDcivm8Ulup1WikuzAH7308OCbjXlSORBHFvV5gQfhtg==;gLxTRivX/sZiYOXklMgsEQ=="
 ---
