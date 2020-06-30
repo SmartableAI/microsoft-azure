@@ -38,6 +38,20 @@ related:
         width: 304
         height: 430
         isCached: true
+  - title: "Corrata Announces Mobile Endpoint Integration with Microsoft Cloud App Security"
+    excerpt: "PRNewswire/ -- Corrata, an award-winning mobile endpoint security company, today announced availability of the first mobile endpoint integration"
+    publishedDateTime: 2020-06-30T11:54:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/corrata-announces-mobile-endpoint-integration-with-microsoft-cloud-app-security-875399518.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 18
+    images:
+      - url: "https://www.prnewswire.co.uk/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Tiger Analytics Announces New Analytics and AI Solutions Built on Microsoft Cloud Services"
     excerpt: "CHENNAI, India and SANTA CLARA, Calif., June 29, 2020 /PRNewswire-PRWeb/ -- Tiger Analytics, a leading provider of AI & advanced analytics consulting services has come"
     publishedDateTime: 2020-06-29T05:00:00Z

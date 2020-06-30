@@ -45,15 +45,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "NTT delivers access to Microsoft Azure region Germany North"
-    excerpt: "NTT said it has started to operate the Azure ExpressRoute site at its Berlin 1 Data Center to enable clients to access the new global Microsoft Azure region Germany North. Customers can now circumvent the public internet using a low-latency private ramp-up,"
-    publishedDateTime: 2020-06-29T10:40:00Z
-    webUrl: "https://www.telecompaper.com/news/ntt-delivers-access-to-microsoft-azure-region-germany-north--1344372"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 17
 
 secured: "dQdR0LgYGfp2t55avhOPtxtRdqP1h/uPgfEiZX6eOkostslpVEZZ/AfFsXotimRpqNl3XYWOU1uECVlMAcXBI5qbTy4wwnVYDxWGWVLRz6+FbirKbVzzHBBoLXFYzYlJQmbHixPddM0GojkMLrgJezofe42rU3GrG6QHh1o0ep71iM9LP85Jf+Iai3EW+SBhCSzp8+JtgwQvNdethKHuzw9iOgAUC9AA23GSVw+eHhxRXm98RCYzZHn9Pu4FOBMpyvQybgSBKZ4IsAnZ77So+V+9AuH/VTGfQ71UChQt1qcVJKGMBRjaYZvC1BovaxrERpyezqYqwYvplITFeKoumA==;+f5d2H6dUa60mEBxRwJtJg=="
 ---
