@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Explore provisioning and deploying non-relational data services in Azure"
 
-secured: "H+7PtOIhUs0L2ioubOa460PP5vs+bqRtEG6be7JdT//7qfYjVEnPki1Z9+7H2GMyRfbQz1uSIHuFu2kxiE6gEwp6kBjoTopUv5QuHfULSSJ7BHKVYvpDKlnxuhxhDWLFZHna4dHIR8239NymDL3CWnw4wj5DTW5+7ASE2KjNKS+i44u+u1SnwHRWj2b/QOFfp4vZOkIqKW9MD1IH8jl/+wTSWavdiBldR3bI6ntARAVYG+DoaNNeIajPN26jgkBOnNMunrSeQCba6Z5qzGx806QQfwrZyrdTLTzYnhzeVh/6K66ES5KE5WQ6qSITs/wJHVqsDwvEchp5T+J9Lyj5IiWfC32jbx5PVtlXJQexpxTHYUZLch4w3G58K1Iwiag1fN9DnlK2rt9I7imAdGviLA==;egpdgwjHVuY1874wwWou0A=="
+secured: "907LCBjz4jzWAFZV9i71fnqMOsyfiA2+MhHd1nGdvRQZ+QQF1028jR+sjRtmBaugBaCtZ4/SFDwXlz2EBeiQxFXX6+tlYPVibNNKdPZDdBL3DiXEk7SZHRRFpjYxGScI8s/fPLVANVDAsFC/rA4S/Sihb1EwJ/1IeOkVOgJpNY5povRbL5CO8o6KM+g8S8cVA68fEWAoCttnNo37KUobp0kxz1rXAI94rZdboDUF/ZjDF/deDpwj83W6JPV5lZyZNF9WAsloHY58otLuPcysAUPdQxJjc9qGtb43UURpI4wz9wsNPO26cnCC9R5KMss5n9Cz52vxtaUVa8EzouvfLf/85bEyNPQPi9C7G2B9/IjVR8sWk3T3AB7Syg7dGpbxthDB6Un/U7wQJeAt+CgGeQ==;ElNI4dvD2tj/DIbLm03pRA=="
 ---
 
