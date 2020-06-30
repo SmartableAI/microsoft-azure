@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT40M
 ratings:
-  count: 4757
-  average: 4.7424846
+  count: 4758
+  average: 4.742539
 heat: 59
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Choose an Agile approach to software development"
 
-secured: "0JTGQGNu6IH29sdgEXroNLZkpdtpDE8J8b3Tor7eTMuxqKZJRQGnHDf/gdLpmotqFItJ/guqGJfr78Ds/6LLBDJBeYk+7O470Jq32PAXCMZYtAejV4qtm/TJGndL8EepiwrYiuf2LLlNZ7vE8gE0xCq4/mRNKdb9v9d2QGKnoHtnhuXqXIWy5dYu7gH75nv9vpiCLCusWP9tLdkyLphZL4nCvTCwoHXN2w3hwVx4vqREXgbOa2AbmIS5Lkf3XEFcN5OWayZ5x5IsLKI5EEYrEcFlcT4yOD0gbC9yrIzdNdFyLUhTA5sfLFfl8Rnid0Pke4hZtUEyw0y/hQon/oDy78Q4D2pJwNRluwHFbJ9hvOMw43SMbu1rkkFRTkcer2nc0pvbBLwxxGjyYzJI6QL35g==;/hLr5GcbqCqEVqwokuyuNQ=="
+secured: "UDFt27WbR0e3PD/VVOM0dfsrFG4rXAVriDBM+BOSSxJrSiyhKvRkiyk3Ge+viI454oxQp/jJyzS2B50AzLHuQ8PxIi3eQpBQhtrF3cQUddo2xgTOEeRapNA3LY9S+hE5Hm4wKncqTW00wwwUcVSpZx7RaKmR/5ibckM8+QPOgWEhXuRXd5OxpxZpqJqHaWQcYq7X/EXfCbJ8aMTBPd2KonLkDBp7gUJIEsvPis6j32oD7H91/BtTxvj0s5SgpCT1fwnkYHD1SQdMfO8VXNdrEymlDhcjsRJgZTiMQCUF9zqk165lnlkZ0d/BiXrPBHHZNAYzJ55gH4dDFLQsyYGJ5OLQPO6lbTLOzRu9mG9x9eLkhULxs7xw/gCMJuuRw0xXte8lEUo/a69XhGfZjiHV5Q==;HyF/bnIecjfgljn6vjJZAQ=="
 ---
 

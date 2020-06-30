@@ -8,7 +8,7 @@ length: 43 mins
 ratings:
   count: 197
   average: 4.781726
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Deploy SAP certified offerings on Azure"
 
-secured: "jSTIO3Tb6DmaN9Ea50PXNXoPW4966wLfvvbto6jvCoMCO9mB9LHfMVxUrcuSic0nVlSw4SCUVDLCbFWLi/OaLX7crdz83SK6kfbxw6UYwb575PBzpemY6tkcpRDBhBzWc4O6VnIg+MX3YaXIAEnOV34efoBMJlDjAwwlJKb1lv5btC+fL1Nefw2lNS24RTw2G32Irrt95VKrplCrZR6+aQDSljaISRouhvQGEJprvQOMfOxLzx9MhFizUqhj6kxHgcyUbjpH8m0sle+epN5ruRPv10GqjboLV6FWfxFFTBEY2Z8/CZvvTOE5DuV/tUQPzUjuj766SO/cxv5Pmauc7h/NC7CsGn4cXVrM3DtzgIrwLqFdzRwFRacSKlzBCmWZ5n0rnwHaodqTpHqWk1lOMQ==;P9YOzNgxauV9cSFu0R7mNA=="
+secured: "qRWD+0bnnuF4+4V1xjpKySoz4+bq1UWcPIR/y6zMD0EkdkONgxzFCYRx230pL0MzX360EAash6orbAH8BO/k+9ZMAlin4iSyd9D09eT60A97DQI5736Hp3AixHZl9tqhAXp1MVX/IcytODQlFgiJd5sAosK2oTliswPHfzElcvah3mrXz4GLXIDWz5nwBtMUU0XL+zNIQeW7JhlH9Hj5yg3S+isQbcsP011FGytinZmRTpDPPvrU9pkgjMkXUaFGuQaKHhAFEwnDHdoF1hXG2YC71Tf8h08nPR5sBOCuhKalpp7hcafmBQLzncDELvd4z8D5vjQTuCYtyFYYaRiZyUC1Zeyd83A6MQgqL0pb8RdS01ygC79TKfk8NnE39+y4aRLtLHf7lz/Xbvq115zHRA==;P7qqmdlsIw10K9SIfpAqsQ=="
 ---
 
