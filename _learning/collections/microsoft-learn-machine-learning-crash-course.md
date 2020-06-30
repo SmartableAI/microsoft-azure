@@ -4,7 +4,7 @@ excerpt: "A high-level overview of artificial intelligence (AI) and machine lear
 type: collection
 price: Free
 length: PT3H45M
-heat: 79
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -16,10 +16,7 @@ provider:
 
 items:
   - courses/microsoft-learn-introduction-to-regression
-  - courses/microsoft-learn-introduction-to-classification
   - courses/microsoft-learn-neural-networks
-  - courses/microsoft-learn-deep-learning
-  - courses/microsoft-learn-unsupervised-learning
 
 levels:
   - Beginner
