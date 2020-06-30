@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Azure API Management updates—June 2020"
-excerpt: "A regular Azure API Management service update was started on June 10, 2020, and included new features, bug fixes, and changes, along with other improvements."
-publishedDateTime: 2020-06-11T17:00:01Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-update-june-2020/"
+title: "Azure Cost Management + Billing updates – June 2020"
+excerpt: "Flexibility was the main theme for June, with more customizable budget notifications, a way to monitor your cost recommendations, and automated subscription creation for Azure Government. And of course, these are just a few highlights. Don't forget to check out new ways to save, a new video, and our"
+publishedDateTime: 2020-06-30T09:00:33Z
+webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-june-2020/"
 type: article
-quality: 77
+quality: 83
 heat: -1
 published: false
 
@@ -19,6 +19,9 @@ provider:
 
 topics:
   - Azure
+  - Compute
+  - Serverless
+  - Management tools
 
 related:
   - title: "Azure Cost Management + Billing updates – April 2020"
@@ -77,15 +80,6 @@ related:
         width: 1367
         height: 678
         isCached: true
-  - title: "Azure Cost Management + Billing updates – June 2020"
-    excerpt: "Flexibility was the main theme for June, with more customizable budget notifications, a way to monitor your cost recommendations, and automated subscription creation for Azure Government. And of course, these are just a few highlights. Don't forget to check out new ways to save, a new video, and our"
-    publishedDateTime: 2020-06-30T09:00:33Z
-    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-june-2020/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 83
   - title: "Azure Cost Management + Billing updates – March 2020"
     excerpt: "We're covering the spectrum this month from improvements to help you stay on top of all your pay-as-you-go (PAYG) invoices to 4 new ways to save money and a wealth of new, quick videos to help you learn how to manage and optimize your costs."
     publishedDateTime: 2020-03-25T11:00:12Z
@@ -95,7 +89,16 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 79
+  - title: "Azure API Management updates—June 2020"
+    excerpt: "A regular Azure API Management service update was started on June 10, 2020, and included new features, bug fixes, and changes, along with other improvements."
+    publishedDateTime: 2020-06-11T17:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-update-june-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
 
-secured: "y7K55ECQfUqlmtIYmfemkKYOO9z0aRl21RZ6W/MBCsw0ulFx+FNf4WouLwNkBtVRv12mKUU8q7ZF3o+UVQqylSvZHfRNjhmx22bleHoZpYlf744OPYRHVJ0UtVlhAjGuZ2K+iKWPYA5f/9XAYdVhyFEfY22xsq3rB/XDHbxvBfUgFnPO9GTyhBfNyPvs5Gwk4KlnF5rpd0LlCHwIwN3kx42Pg6jk2EkgqVXwbE+0qmhrtmwb4/YkMZ7BLwddI6sVbitcfzoDlwozbednvTwuNjYE7c9m49IpiK44k1sys4lj8JXk615sIJUhKe+5Tx7Hz8d+hh5Psf6pVJJ9COI17g==;GXHQNyCf50Uacl4aJAjX2A=="
+secured: "+qhu0Zb+MKbgeAHpp2IAGkXtbNiNrX8Hr+0XILeql0K/aHThpL6Uom6ZpU7e5q7A0vFN5BmxhzDuTEvU3/EueTRDbzTyUjgNt5GxwmKzRY6lgVLDU+s8/j00Gh2/OyUdIryxxS2KnGKnGwQMMubKdbtM5OErVAoh0EGCMIukYvS7MyxpVQSJ3cUskLxWJ1AzrQPqyOj987wXhOUbY5xYGLD1RrkocUWuj2b2HEAgaEu68lmQigULpfiGIf2xIwf0dmGHFL3Wpw6H0FraIa6IMmY1by6XOgWyHcTebYXoEtUGUg4wLRrwJTT0kyb2TOMs1xH0jnR9qXscTrF3bg27xQ==;+6dgbuWqyLep/qSvkcYcyQ=="
 ---
 

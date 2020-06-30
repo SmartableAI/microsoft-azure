@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-30T08:00:33Z
 webUrl: "https://azure.microsoft.com/blog/new-azure-firewall-features-in-q2-cy2020/"
 type: article
 quality: 99
-heat: 119
+heat: 139
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     title: "New Azure Firewall features in Q2 CY2020"
 
 related:
+  - title: "Azure Firewall July 2020 update"
+    excerpt: "Custom DNS, DNS Proxy, and FQDN filtering in network rules are now in preview. IP Groups and IP Groups in Firewall policy are now generally available."
+    publishedDateTime: 2020-06-30T16:00:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-firewall-july-2020-update/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Company branding feature is now available on your organization's Azure AD sign-in page"
     excerpt: "The enhanced company branding feature is now generally available on your organization’s Azure Active Directory (Azure AD) sign-in page."
     publishedDateTime: 2020-06-30T15:00:33Z

@@ -78,6 +78,15 @@ related:
         width: 1367
         height: 678
         isCached: true
+  - title: "Azure Cost Management + Billing updates – June 2020"
+    excerpt: "Flexibility was the main theme for June, with more customizable budget notifications, a way to monitor your cost recommendations, and automated subscription creation for Azure Government. And of course, these are just a few highlights. Don't forget to check out new ways to save, a new video, and our"
+    publishedDateTime: 2020-06-30T09:00:33Z
+    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-june-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 83
   - title: "Azure API Management updates—June 2020"
     excerpt: "A regular Azure API Management service update was started on June 10, 2020, and included new features, bug fixes, and changes, along with other improvements."
     publishedDateTime: 2020-06-11T17:00:01Z

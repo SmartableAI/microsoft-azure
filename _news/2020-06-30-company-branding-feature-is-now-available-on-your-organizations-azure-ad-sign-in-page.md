@@ -35,6 +35,15 @@ related:
         width: 1024
         height: 577
         isCached: true
+  - title: "Azure Firewall July 2020 update"
+    excerpt: "Custom DNS, DNS Proxy, and FQDN filtering in network rules are now in preview. IP Groups and IP Groups in Firewall policy are now generally available."
+    publishedDateTime: 2020-06-30T16:00:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-firewall-july-2020-update/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
 
 secured: "R1RxCvRerexpPvvc4smnvulM7S/INiy/qPPpvcv5UJcgxdKNUaOQo4B868gZPnvbLPX/zFGsbqlOGbHMXtPLkIU5rPGwZdHFRbUmUp+r4jeIL49okmtsWAJFgdMCBX2mUymvhq6KqlAWo2oqyw3UokjANYYVXPTGBVogUWORUrVsKuiEQmix0wb0CkT2gsHZZj/cSveOyUXSQgWtOrAPAW5biyBZXP8QLpU9ktGvEBqWngrzUfbxweCG9qlNpWS4RclCm8drpj49WzOfCJdp58w6D+lJJzAXkJZMErv8yZqYtcs16FpwppxYXv6GSZHAp8H+YVcz1reGorO2ukS4Hw==;sCumBeN5o+iuEtp1cYEkSA=="
 ---

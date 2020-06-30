@@ -71,6 +71,15 @@ related:
         width: 1367
         height: 678
         isCached: true
+  - title: "Azure Cost Management + Billing updates – June 2020"
+    excerpt: "Flexibility was the main theme for June, with more customizable budget notifications, a way to monitor your cost recommendations, and automated subscription creation for Azure Government. And of course, these are just a few highlights. Don't forget to check out new ways to save, a new video, and our"
+    publishedDateTime: 2020-06-30T09:00:33Z
+    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-june-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 83
   - title: "Azure Cost Management + Billing updates – March 2020"
     excerpt: "We're covering the spectrum this month from improvements to help you stay on top of all your pay-as-you-go (PAYG) invoices to 4 new ways to save money and a wealth of new, quick videos to help you learn how to manage and optimize your costs."
     publishedDateTime: 2020-03-25T11:00:12Z
