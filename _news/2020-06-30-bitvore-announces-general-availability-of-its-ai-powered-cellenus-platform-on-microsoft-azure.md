@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Microsoft Azure and Johns Hopkins Medicine have partnered to accelerate precision medicine"
-excerpt: "Microsoft Azure and Johns Hopkins Medicine partnered to leverage Microsoft's AI and analytics tools to facilitate precision medicine breakthroughs."
-publishedDateTime: 2020-06-23T13:31:00Z
-webUrl: "https://www.businessinsider.com/microsoft-johns-hopkins-partner-to-advance-precision-medicine-2020-6"
+title: "Bitvore Announces General Availability of its AI-Powered Cellenus Platform on Microsoft Azure"
+excerpt: "PRNewswire/ -- Bitvore, a leading provider of AI-powered intelligence for financial institutions, today announced that it has completed a"
+publishedDateTime: 2020-06-30T12:49:00Z
+webUrl: "https://www.prnewswire.com/news-releases/bitvore-announces-general-availability-of-its-ai-powered-cellenus-platform-on-microsoft-azure-301085624.html"
 type: article
-quality: 67
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://i.insider.com/5ef1fdc8f0f419685c235043?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
-    title: "Microsoft Azure and Johns Hopkins Medicine have partnered to accelerate precision medicine"
+    title: "Bitvore Announces General Availability of its AI-Powered Cellenus Platform on Microsoft Azure"
 
 related:
   - title: "Commvault Announces Microsoft Azure Strategic Partnership"
@@ -43,6 +39,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5da3dcaa6763cb000608a26e%2F0x0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Microsoft Azure and Johns Hopkins Medicine have partnered to accelerate precision medicine"
+    excerpt: "Microsoft Azure and Johns Hopkins Medicine partnered to leverage Microsoft's AI and analytics tools to facilitate precision medicine breakthroughs."
+    publishedDateTime: 2020-06-23T13:31:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-johns-hopkins-partner-to-advance-precision-medicine-2020-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://i.insider.com/5ef1fdc8f0f419685c235043?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "FedEx, Microsoft announce multi-year partnership"
     excerpt: "Talk about team-ups. George Lucas and Steven Spielberg made \"Raiders of the Lost Ark.\" Lebron James and Anthony Davis rejuvenated the Lakers. Now, FedEx and Microsoft join forces as they attempt to transform commerce."
@@ -102,21 +112,7 @@ related:
         width: 957
         height: 720
         isCached: true
-  - title: "Bitvore Announces General Availability of its AI-Powered Cellenus Platform on Microsoft Azure"
-    excerpt: "PRNewswire/ -- Bitvore, a leading provider of AI-powered intelligence for financial institutions, today announced that it has completed a"
-    publishedDateTime: 2020-06-30T12:49:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/bitvore-announces-general-availability-of-its-ai-powered-cellenus-platform-on-microsoft-azure-301085624.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
-secured: "knMUI6+RYE/0r3NJ0Y4NuaWWBzBJ67z/TstLWaje4KVAXq/oYz4YzSxL5RSyy3nAtxwBxa7ylK7w6zvpWBkC3GbGEPyHIxoztEYSXoz+LJpiDmFteoKykcmn5+2AsD3iBZgZ6N+bGSHE/HykC2sBwr7bPOA3Uqm7wVWdQCIQjViTDe0voTT3n4hARgzYlNkrLSMHGnL2NwQ3fBz5qcbJ1IDV7iCOxSFDqe1QCc52PtN+kFMztidJPZm9cxoJNr3mo8/Fo1bcWgy6H+8suE2lUYccHkxSq865GuXiWLmY+InQJmPOtQMYcWhLhLUsqoCMiC+XIEEfn/uOw+JMxjl5ES3r33eb3s24nX8MVu+fb3bt4XlPDB5sB+kHUSfrtWzeKVgHlldkXirwaz31hmGURhqljHRvefcJ4/arEAseOumpy/mAe5m02DhvGAUz78/mBhyVjsjLF4dScXXuX8zc1XHf7TP+4l7+JE86R6B6e6PFWeI/2H3t7hJGRjYvLy4JaArvgq4XhZIApUQ7xUo9lw==;TAp7MgE+YiYInfF0/EGDTg=="
+secured: "VfAyedZBCAmb+mYaYWy95U+FzyWtqd6e9xQ1CPlG1W/IbNsbBxkE0NgUHNrcwkSyOBi1yzbiYBQt7zX2l8AHpFNvJVPjTXEd2h80IAeFvld3W/yjBJIdd/TItRvORyKGwe2KrywRRugPohb5YUqZj6keKrlOFnmt/0gwmVmXG/auHx/ihGWeX3IZLVneApr4T+M+KDiOgY9MZw57vT/W+jV3T3uZpUePIyuRHMVzrCq8H8SbqBtoOzOGR8lwzW9rCxhIOgGXYpKflmDmcML/OZEPRTYO4KN2A6GNXfkp0l4e2fu3eZaQBoncHhyhGl5R6mI4xxLRTnKzEXBba/uSuQ==;SPCKtxVOv3QQZL7GFA8Gng=="
 ---
 

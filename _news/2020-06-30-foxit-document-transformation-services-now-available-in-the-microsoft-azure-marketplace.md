@@ -1,11 +1,11 @@
 ---
 category: news
-title: "eBaoCloud InsureMO is Now Available in the Microsoft Azure Marketplace"
-excerpt: "SHANGHAI, May 20, 2020 /PRNewswire/ -- eBaoTech Corporation today announced the availability of eBaoCloud ® InsureMO ® in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. eBaoTech's customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined ..."
-publishedDateTime: 2020-05-20T15:30:00Z
-webUrl: "https://www.prnewswire.com/in/news-releases/ebaocloud-insuremo-is-now-available-in-the-microsoft-azure-marketplace-800602677.html"
+title: "Foxit Document Transformation Services Now Available in the Microsoft Azure Marketplace"
+excerpt: "Foxit Software, a leading provider of innovative PDF products and services, helping knowledge workers to increase their productivity and"
+publishedDateTime: 2020-06-30T12:03:00Z
+webUrl: "https://www.prnewswire.com/news-releases/foxit-document-transformation-services-now-available-in-the-microsoft-azure-marketplace-301077872.html"
 type: article
-quality: 37
+quality: 29
 heat: -1
 published: false
 
@@ -21,7 +21,7 @@ images:
     width: 600
     height: 315
     isCached: true
-    title: "eBaoCloud InsureMO is Now Available in the Microsoft Azure Marketplace"
+    title: "Foxit Document Transformation Services Now Available in the Microsoft Azure Marketplace"
 
 related:
   - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
@@ -65,6 +65,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "eBaoCloud InsureMO is Now Available in the Microsoft Azure Marketplace"
+    excerpt: "SHANGHAI, May 20, 2020 /PRNewswire/ -- eBaoTech Corporation today announced the availability of eBaoCloud ® InsureMO ® in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. eBaoTech's customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined ..."
+    publishedDateTime: 2020-05-20T15:30:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/ebaocloud-insuremo-is-now-available-in-the-microsoft-azure-marketplace-800602677.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "KlariVis Now Available in the Microsoft Azure Marketplace"
     excerpt: "KlariVis customers can now take advantage of the productive and trusted Microsoft Azure cloud platform with streamlined deployment and management."
     publishedDateTime: 2020-06-09T12:09:00Z
@@ -104,20 +118,6 @@ related:
     quality: 32
     images:
       - url: "https://www.prnewswire.co.uk/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Foxit Document Transformation Services Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Foxit Software, a leading provider of innovative PDF products and services, helping knowledge workers to increase their productivity and"
-    publishedDateTime: 2020-06-30T12:03:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/foxit-document-transformation-services-now-available-in-the-microsoft-azure-marketplace-301077872.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 29
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
         isCached: true
@@ -168,6 +168,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "9hrQ+fTFHx9xGqgk3+RzLf50LNWM6+UDR1wMP8igR/mHrYOkgN6Mh0AIVc4KWvXB4+eBJuzQBPqFqKGGra38Ov/6oMEjFFYgf3FMataz0XJH3uvJLuUQ3P3NsNAPlr0DLWizNPpztftHJr9w+YIQ/NtUFYwUGOh8gIqpM9XTMtzGF/++qXneqxRgHSjC+4czEVDevcJi4CvbXgUu29ZGY6KO0FybB8OYi5fMmf09XsZ+ApQSa6GgkrH/SuS2LtjdQuPinxo0S9NdEzWXV96jw7LwgrE+uxR2T9OMmT7tldc5FFeN2UvpE1IOuOTJk0oC;69SYvbSv+3SwSE4zFEB8Aw=="
+secured: "WageVMTqzjwzr5yTPo5oFbEuSukXKyabG1rKDc3z6/oRrLOqNJGRLqVONNcG8baZklhw2CBDeIOESl1/Co5yLoMhs6ZFnSe5fEMKVtlRK7QtiICsbl0sOTZqVnQJ+5onZRICzSFA7pg439wFSUhOswgT7dLq1+OgdFpYf2L3XH5NtacISip/qEJGDcW7H0zYapyCIxGBqauI9UU7jW0XVBxO0YPFB6We3/vWjcqwU0eExml+4FaIALDT9xUdowY4TxjIpsSOyEKrhA4OwYCrQnUNIbheL7LQFoR54fnLdpUFPFxZsw63glyU2AYCHMQmR7a9UmKHtq2RZG7TnDYPIw==;voVpn1/CEzCrxL6X8zap8g=="
 ---
 

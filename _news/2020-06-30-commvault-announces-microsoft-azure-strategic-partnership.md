@@ -1,19 +1,21 @@
 ---
 category: news
-title: "Microsoft Azure and Johns Hopkins Medicine have partnered to accelerate precision medicine"
-excerpt: "Microsoft Azure and Johns Hopkins Medicine partnered to leverage Microsoft's AI and analytics tools to facilitate precision medicine breakthroughs."
-publishedDateTime: 2020-06-23T13:31:00Z
-webUrl: "https://www.businessinsider.com/microsoft-johns-hopkins-partner-to-advance-precision-medicine-2020-6"
+title: "Commvault Announces Microsoft Azure Strategic Partnership"
+excerpt: "Commvault has announced a multi-year agreement with Microsoft to integrate its Metallic Software-as-a-Service portfolio with Microsoft Azure."
+publishedDateTime: 2020-06-30T12:42:00Z
+webUrl: "https://www.forbes.com/sites/justinwarren/2020/06/30/commvault-announces-microsoft-azure-strategic-partnership/"
+ampWebUrl: "https://www.forbes.com/sites/justinwarren/2020/06/30/commvault-announces-microsoft-azure-strategic-partnership/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/justinwarren/2020/06/30/commvault-announces-microsoft-azure-strategic-partnership/amp/"
 type: article
-quality: 67
-heat: -1
-published: false
+quality: 97
+heat: 217
+published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Forbes
+  domain: forbes.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/forbes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -21,28 +23,26 @@ topics:
   - Azure
 
 images:
-  - url: "https://i.insider.com/5ef1fdc8f0f419685c235043?width=1200&format=jpeg"
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5da3dcaa6763cb000608a26e%2F0x0.jpg"
     width: 1200
-    height: 600
+    height: 800
     isCached: true
-    title: "Microsoft Azure and Johns Hopkins Medicine have partnered to accelerate precision medicine"
+    title: "Commvault Announces Microsoft Azure Strategic Partnership"
 
 related:
-  - title: "Commvault Announces Microsoft Azure Strategic Partnership"
-    excerpt: "Commvault has announced a multi-year agreement with Microsoft to integrate its Metallic Software-as-a-Service portfolio with Microsoft Azure."
-    publishedDateTime: 2020-06-30T12:42:00Z
-    webUrl: "https://www.forbes.com/sites/justinwarren/2020/06/30/commvault-announces-microsoft-azure-strategic-partnership/"
-    ampWebUrl: "https://www.forbes.com/sites/justinwarren/2020/06/30/commvault-announces-microsoft-azure-strategic-partnership/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/justinwarren/2020/06/30/commvault-announces-microsoft-azure-strategic-partnership/amp/"
+  - title: "Microsoft Azure and Johns Hopkins Medicine have partnered to accelerate precision medicine"
+    excerpt: "Microsoft Azure and Johns Hopkins Medicine partnered to leverage Microsoft's AI and analytics tools to facilitate precision medicine breakthroughs."
+    publishedDateTime: 2020-06-23T13:31:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-johns-hopkins-partner-to-advance-precision-medicine-2020-6"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 97
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5da3dcaa6763cb000608a26e%2F0x0.jpg"
+      - url: "https://i.insider.com/5ef1fdc8f0f419685c235043?width=1200&format=jpeg"
         width: 1200
-        height: 800
+        height: 600
         isCached: true
   - title: "FedEx, Microsoft announce multi-year partnership"
     excerpt: "Talk about team-ups. George Lucas and Steven Spielberg made \"Raiders of the Lost Ark.\" Lebron James and Anthony Davis rejuvenated the Lakers. Now, FedEx and Microsoft join forces as they attempt to transform commerce."
@@ -117,6 +117,6 @@ related:
         height: 315
         isCached: true
 
-secured: "knMUI6+RYE/0r3NJ0Y4NuaWWBzBJ67z/TstLWaje4KVAXq/oYz4YzSxL5RSyy3nAtxwBxa7ylK7w6zvpWBkC3GbGEPyHIxoztEYSXoz+LJpiDmFteoKykcmn5+2AsD3iBZgZ6N+bGSHE/HykC2sBwr7bPOA3Uqm7wVWdQCIQjViTDe0voTT3n4hARgzYlNkrLSMHGnL2NwQ3fBz5qcbJ1IDV7iCOxSFDqe1QCc52PtN+kFMztidJPZm9cxoJNr3mo8/Fo1bcWgy6H+8suE2lUYccHkxSq865GuXiWLmY+InQJmPOtQMYcWhLhLUsqoCMiC+XIEEfn/uOw+JMxjl5ES3r33eb3s24nX8MVu+fb3bt4XlPDB5sB+kHUSfrtWzeKVgHlldkXirwaz31hmGURhqljHRvefcJ4/arEAseOumpy/mAe5m02DhvGAUz78/mBhyVjsjLF4dScXXuX8zc1XHf7TP+4l7+JE86R6B6e6PFWeI/2H3t7hJGRjYvLy4JaArvgq4XhZIApUQ7xUo9lw==;TAp7MgE+YiYInfF0/EGDTg=="
+secured: "N3IOUW2X8l8T/k2Uha1syR2tupu4C75WTVVtAKaue8R5akPsIwmX3BwTGDkm9Hf2mrzFjMtko8pn++z23Dan8aOQs3r5QttLlczcsfPzL0XvKz5PkcqXYdPO5tvU8mF4c8Qxoig238OfQ7z+pHMHmY4R+TNNnWPyP/dKTckYY3Fr+pmaw6VtW5T9rbiT/Z5zSjCuTF2iNzMz/plsgGtajM9lBUKyFoDXKBkIvXtt/3jqRqTrrGDhtyPbmrtMTzSRWaazqXEHqvYp5R5WOcw1mz8yDLmdXE9vEYh1Q6KdIiLbJROzlXj9UUPLPBDXRP2D3wEHGrFl0cnsRoR0Gk0ixQ==;QbXgqzlSfZIIJPKiRYq+AA=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-30T11:54:00Z
 webUrl: "https://www.prnewswire.co.uk/news-releases/corrata-announces-mobile-endpoint-integration-with-microsoft-cloud-app-security-875399518.html"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -24,34 +24,6 @@ images:
     title: "Corrata Announces Mobile Endpoint Integration with Microsoft Cloud App Security"
 
 related:
-  - title: "Microsoft and Hitachi Announce Partnership Based on Azure Cloud Integration"
-    excerpt: "Microsoft and Hitachi are expanding their partnership to include a multi-year alliance focused on transforming manufacturing and logistics."
-    publishedDateTime: 2020-06-29T14:00:00Z
-    webUrl: "https://winbuzzer.com/2020/06/29/microsoft-and-hitachi-announce-partnership-based-on-azure-cloud-integration-xcxwbn/"
-    type: article
-    provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 35
-    images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2019/12/Microsoft-Cologne-Office-Pixabay.jpg"
-        width: 957
-        height: 720
-        isCached: true
-  - title: "Thought Machine Vault now runs on Google Cloud, AWS, Microsoft Azure and IBM Cloud"
-    excerpt: "Thought Machine has announced that Vault now runs on Google Cloud Platform, Amazon Web Services, Microsoft Azure and IBM Cloud."
-    publishedDateTime: 2020-06-30T00:12:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/06/30/thought-machine-vault/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 31
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
-        width: 304
-        height: 430
-        isCached: true
   - title: "Tiger Analytics Announces New Analytics and AI Solutions Built on Microsoft Cloud Services"
     excerpt: "CHENNAI, India and SANTA CLARA, Calif., June 29, 2020 /PRNewswire-PRWeb/ -- Tiger Analytics, a leading provider of AI & advanced analytics consulting services has come"
     publishedDateTime: 2020-06-29T05:00:00Z
@@ -63,6 +35,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 12
+  - title: "BNY Mellon Launches New Data and Analytics Solutions Offerings, Collaborates with Microsoft to Build Solutions on Microsoft Azure"
+    excerpt: "PRNewswire/ -- The Bank of New York Mellon Corporation (\"BNY Mellon\") today announced the launch of three new Data and Analytics Solutions offerings"
+    publishedDateTime: 2020-06-25T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/bny-mellon-launches-new-data-and-analytics-solutions-offerings-collaborates-with-microsoft-to-build-solutions-on-microsoft-azure-301083452.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 8
+    images:
+      - url: "https://mma.prnewswire.com/media/323907/bny_mellon_logo.jpg?p=facebook"
+        width: 2698
+        height: 1414
+        isCached: true
 
 secured: "3J4mSqYxYFwyLcCzNKuHgztfpYsQv77/xOhcsod4qjGnrxfVfI3THIq8RzAr+o0j71npAiE8V1fYdnP9dWHKn8136GmKk0OmT4X7vElAtL5IosrTwm0qL6t1oHykcGaPhGf2owSEcUv9dc7bMW7lKR2M8FhhBhqL827ilHG353LWy5UzLlnXsmvYq2M2HM7bf3mrIe8ux98+3Cov2yD3z6Z2eSkkU8PDk0+oQzoPIdOmouV+qJxc2aMbcrW4Pc6zM/+zxu0pRT1aXjCZsXiG14aVoVVqdBFLBV/Um9gtn2jw85/66WgU7y5cksN8Bt8C6t2zOnCnI6H/aTm/hBoHiw==;/HX1hJdOioMJv/IPzWnVDg=="
 ---

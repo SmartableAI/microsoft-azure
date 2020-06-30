@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-29T14:00:00Z
 webUrl: "https://winbuzzer.com/2020/06/29/microsoft-and-hitachi-announce-partnership-based-on-azure-cloud-integration-xcxwbn/"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -24,45 +24,94 @@ images:
     title: "Microsoft and Hitachi Announce Partnership Based on Azure Cloud Integration"
 
 related:
-  - title: "Thought Machine Vault now runs on Google Cloud, AWS, Microsoft Azure and IBM Cloud"
-    excerpt: "Thought Machine has announced that Vault now runs on Google Cloud Platform, Amazon Web Services, Microsoft Azure and IBM Cloud."
-    publishedDateTime: 2020-06-30T00:12:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/06/30/thought-machine-vault/"
+  - title: "Commvault Announces Microsoft Azure Strategic Partnership"
+    excerpt: "Commvault has announced a multi-year agreement with Microsoft to integrate its Metallic Software-as-a-Service portfolio with Microsoft Azure."
+    publishedDateTime: 2020-06-30T12:42:00Z
+    webUrl: "https://www.forbes.com/sites/justinwarren/2020/06/30/commvault-announces-microsoft-azure-strategic-partnership/"
+    ampWebUrl: "https://www.forbes.com/sites/justinwarren/2020/06/30/commvault-announces-microsoft-azure-strategic-partnership/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/justinwarren/2020/06/30/commvault-announces-microsoft-azure-strategic-partnership/amp/"
     type: article
     provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 31
+      name: Forbes
+      domain: forbes.com
+    quality: 97
     images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
-        width: 304
-        height: 430
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5da3dcaa6763cb000608a26e%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Corrata Announces Mobile Endpoint Integration with Microsoft Cloud App Security"
-    excerpt: "PRNewswire/ -- Corrata, an award-winning mobile endpoint security company, today announced availability of the first mobile endpoint integration"
-    publishedDateTime: 2020-06-30T11:54:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/corrata-announces-mobile-endpoint-integration-with-microsoft-cloud-app-security-875399518.html"
+  - title: "Microsoft Azure and Johns Hopkins Medicine have partnered to accelerate precision medicine"
+    excerpt: "Microsoft Azure and Johns Hopkins Medicine partnered to leverage Microsoft's AI and analytics tools to facilitate precision medicine breakthroughs."
+    publishedDateTime: 2020-06-23T13:31:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-johns-hopkins-partner-to-advance-precision-medicine-2020-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://i.insider.com/5ef1fdc8f0f419685c235043?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "FedEx, Microsoft announce multi-year partnership"
+    excerpt: "Talk about team-ups. George Lucas and Steven Spielberg made \"Raiders of the Lost Ark.\" Lebron James and Anthony Davis rejuvenated the Lakers. Now, FedEx and Microsoft join forces as they attempt to transform commerce."
+    publishedDateTime: 2020-05-18T16:47:00Z
+    webUrl: "https://www.bizjournals.com/memphis/news/2020/05/18/fedex-microsoft-join-forces-to-transform-commerce.html"
+    ampWebUrl: "https://www.bizjournals.com/memphis/news/2020/05/18/fedex-microsoft-join-forces-to-transform-commerce.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/memphis/news/2020/05/18/fedex-microsoft-join-forces-to-transform-commerce.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 42
+    images:
+      - url: "https://media.bizj.us/view/img/10858802/fedex-boxes*600xx1197-798-2-0.jpg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Exam AZ-104: Microsoft Azure Administrator"
+    excerpt: "Candidates for this exam should have subject matter expertise implementing, managing, and monitoring Responsibilities for an Azure Administrator include implementing, managing, and monitoring identity,"
+    publishedDateTime: 2020-06-25T06:46:00Z
+    webUrl: "https://docs.microsoft.com/en-us/learn/certifications/exams/az-104"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
+    images:
+      - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Commvault Brings Metallic To Microsoft Azure Marketplace"
+    excerpt: "Commvault is working with Microsoft Azure to bring its Metallic SaaS-based data protection technology to enterprises."
+    publishedDateTime: 2020-06-30T13:33:00Z
+    webUrl: "https://www.crn.com/news/storage/commvault-brings-metallic-to-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/025e-0fc6828a4345-7a6c367d681f-1000/sanjay-mirchandani-commvault.jpg"
+        width: 607
+        height: 456
+        isCached: true
+  - title: "Bitvore Announces General Availability of its AI-Powered Cellenus Platform on Microsoft Azure"
+    excerpt: "PRNewswire/ -- Bitvore, a leading provider of AI-powered intelligence for financial institutions, today announced that it has completed a"
+    publishedDateTime: 2020-06-30T12:49:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/bitvore-announces-general-availability-of-its-ai-powered-cellenus-platform-on-microsoft-azure-301085624.html"
     type: article
     provider:
       name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 18
+      domain: prnewswire.com
+    quality: 26
     images:
-      - url: "https://www.prnewswire.co.uk/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
         isCached: true
-  - title: "Tiger Analytics Announces New Analytics and AI Solutions Built on Microsoft Cloud Services"
-    excerpt: "CHENNAI, India and SANTA CLARA, Calif., June 29, 2020 /PRNewswire-PRWeb/ -- Tiger Analytics, a leading provider of AI & advanced analytics consulting services has come"
-    publishedDateTime: 2020-06-29T05:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/06/n16422337/tiger-analytics-announces-new-analytics-and-ai-solutions-built-on-microsoft-cloud-services"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16422337"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16422337"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 12
 
 secured: "/kHwJCspOOlZ8JdUzp1q3eSoZc3+woYpPBidhgcDDso/GjtlXVnhT/Ym8KH/sn724u7ytyd8j7DGQdAoEUdOLmWZTKFl3eR/1OyzsUcltRGWmnfO2dGIHtJUiBehd5DcuPThuKrEBewkcbnj5FHZJ6hcmWFHynt/Zml2i2/dpxVsU0x+6NGpFjYzT3jzcMuGjfrxex3zrlvlcTPsQOWPxpGRiGLODkveWkauohP5LcizMAYlFuUlfw7SmEOmawSnPxLXwZ6DAvaQqtzHOAzI8I01uZYahYSEKLrD5RHoHJ+yNFjQHI/q/GtZN9uF+Peqoo/uQqw/+5Ik/scRvrmZVJYrM0bTs5KlZ/oVf7BUr7L2f9sg7VqvA7o1fGoGjX9vS6InQTzjkXg5rikKg72a65jNi/9kZ64GlLbf2jKN6KZlujr9GBqvZpef8JlhfrdPiEk2+QXAmPrjFDK460uPajUkzMXzSY8CoXZF7jCcuJP0h0C+LqoUpQfJ8XaBYuHte6BZKEDYLQwyQut4zOvBQQ==;MTXYTrwKR7vxmrKnRTAWUQ=="
 ---

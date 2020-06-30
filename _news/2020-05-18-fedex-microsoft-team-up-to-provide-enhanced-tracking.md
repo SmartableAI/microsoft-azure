@@ -170,22 +170,6 @@ related:
         width: 1200
         height: 678
         isCached: true
-  - title: "FedEx, Microsoft announce multi-year partnership"
-    excerpt: "Talk about team-ups. George Lucas and Steven Spielberg made \"Raiders of the Lost Ark.\" Lebron James and Anthony Davis rejuvenated the Lakers. Now, FedEx and Microsoft join forces as they attempt to transform commerce."
-    publishedDateTime: 2020-05-18T16:47:00Z
-    webUrl: "https://www.bizjournals.com/memphis/news/2020/05/18/fedex-microsoft-join-forces-to-transform-commerce.html"
-    ampWebUrl: "https://www.bizjournals.com/memphis/news/2020/05/18/fedex-microsoft-join-forces-to-transform-commerce.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/memphis/news/2020/05/18/fedex-microsoft-join-forces-to-transform-commerce.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 42
-    images:
-      - url: "https://media.bizj.us/view/img/10858802/fedex-boxes*600xx1197-798-2-0.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "FedEx Teams With Microsoft for Cloud-Based Delivery Tracking"
     excerpt: "FedEx plans to merge its global digital and logistics network with Microsoft's cloud networking power, the companies said."
     publishedDateTime: 2020-05-18T15:15:00Z

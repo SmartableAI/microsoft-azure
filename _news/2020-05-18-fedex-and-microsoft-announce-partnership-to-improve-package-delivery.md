@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/85276-fedex-microsoft-announce-par
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85276-fedex-microsoft-announce-partnership-improve-package-delivery.html"
 type: article
 quality: 82
-heat: 482
+heat: 462
 published: true
 
 provider:
@@ -157,22 +157,6 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/3821841996d20be492a000e5b8789ec34da3e9bd/c=0-57-2539-1492/local/-/media/2017/08/29/TennGroup/Memphis/636396002819185337-060915-a.JPG?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 678
-        isCached: true
-  - title: "FedEx, Microsoft announce multi-year partnership"
-    excerpt: "Talk about team-ups. George Lucas and Steven Spielberg made \"Raiders of the Lost Ark.\" Lebron James and Anthony Davis rejuvenated the Lakers. Now, FedEx and Microsoft join forces as they attempt to transform commerce."
-    publishedDateTime: 2020-05-18T16:47:00Z
-    webUrl: "https://www.bizjournals.com/memphis/news/2020/05/18/fedex-microsoft-join-forces-to-transform-commerce.html"
-    ampWebUrl: "https://www.bizjournals.com/memphis/news/2020/05/18/fedex-microsoft-join-forces-to-transform-commerce.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/memphis/news/2020/05/18/fedex-microsoft-join-forces-to-transform-commerce.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 42
-    images:
-      - url: "https://media.bizj.us/view/img/10858802/fedex-boxes*600xx1197-798-2-0.jpg"
-        width: 600
-        height: 400
         isCached: true
   - title: "FedEx, Microsoft team up to provide enhanced tracking"
     excerpt: "FedEx and Microsoft are partnering to provide customers with enhanced package tracking. The companies will provide commercial shipping customers with early warnings of potential delays because of weather,"

@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Microsoft Azure and Johns Hopkins Medicine have partnered to accelerate precision medicine"
-excerpt: "Microsoft Azure and Johns Hopkins Medicine partnered to leverage Microsoft's AI and analytics tools to facilitate precision medicine breakthroughs."
-publishedDateTime: 2020-06-23T13:31:00Z
-webUrl: "https://www.businessinsider.com/microsoft-johns-hopkins-partner-to-advance-precision-medicine-2020-6"
+title: "Commvault Brings Metallic To Microsoft Azure Marketplace"
+excerpt: "Commvault is working with Microsoft Azure to bring its Metallic SaaS-based data protection technology to enterprises."
+publishedDateTime: 2020-06-30T13:33:00Z
+webUrl: "https://www.crn.com/news/storage/commvault-brings-metallic-to-microsoft-azure-marketplace"
 type: article
-quality: 67
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: CRN
+  domain: crn.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://i.insider.com/5ef1fdc8f0f419685c235043?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://www.crn.com/resources/025e-0fc6828a4345-7a6c367d681f-1000/sanjay-mirchandani-commvault.jpg"
+    width: 607
+    height: 456
     isCached: true
-    title: "Microsoft Azure and Johns Hopkins Medicine have partnered to accelerate precision medicine"
+    title: "Commvault Brings Metallic To Microsoft Azure Marketplace"
 
 related:
   - title: "Commvault Announces Microsoft Azure Strategic Partnership"
@@ -43,6 +39,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5da3dcaa6763cb000608a26e%2F0x0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Microsoft Azure and Johns Hopkins Medicine have partnered to accelerate precision medicine"
+    excerpt: "Microsoft Azure and Johns Hopkins Medicine partnered to leverage Microsoft's AI and analytics tools to facilitate precision medicine breakthroughs."
+    publishedDateTime: 2020-06-23T13:31:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-johns-hopkins-partner-to-advance-precision-medicine-2020-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://i.insider.com/5ef1fdc8f0f419685c235043?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "FedEx, Microsoft announce multi-year partnership"
     excerpt: "Talk about team-ups. George Lucas and Steven Spielberg made \"Raiders of the Lost Ark.\" Lebron James and Anthony Davis rejuvenated the Lakers. Now, FedEx and Microsoft join forces as they attempt to transform commerce."
@@ -74,20 +84,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Commvault Brings Metallic To Microsoft Azure Marketplace"
-    excerpt: "Commvault is working with Microsoft Azure to bring its Metallic SaaS-based data protection technology to enterprises."
-    publishedDateTime: 2020-06-30T13:33:00Z
-    webUrl: "https://www.crn.com/news/storage/commvault-brings-metallic-to-microsoft-azure-marketplace"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 37
-    images:
-      - url: "https://www.crn.com/resources/025e-0fc6828a4345-7a6c367d681f-1000/sanjay-mirchandani-commvault.jpg"
-        width: 607
-        height: 456
-        isCached: true
   - title: "Microsoft and Hitachi Announce Partnership Based on Azure Cloud Integration"
     excerpt: "Microsoft and Hitachi are expanding their partnership to include a multi-year alliance focused on transforming manufacturing and logistics."
     publishedDateTime: 2020-06-29T14:00:00Z
@@ -117,6 +113,6 @@ related:
         height: 315
         isCached: true
 
-secured: "knMUI6+RYE/0r3NJ0Y4NuaWWBzBJ67z/TstLWaje4KVAXq/oYz4YzSxL5RSyy3nAtxwBxa7ylK7w6zvpWBkC3GbGEPyHIxoztEYSXoz+LJpiDmFteoKykcmn5+2AsD3iBZgZ6N+bGSHE/HykC2sBwr7bPOA3Uqm7wVWdQCIQjViTDe0voTT3n4hARgzYlNkrLSMHGnL2NwQ3fBz5qcbJ1IDV7iCOxSFDqe1QCc52PtN+kFMztidJPZm9cxoJNr3mo8/Fo1bcWgy6H+8suE2lUYccHkxSq865GuXiWLmY+InQJmPOtQMYcWhLhLUsqoCMiC+XIEEfn/uOw+JMxjl5ES3r33eb3s24nX8MVu+fb3bt4XlPDB5sB+kHUSfrtWzeKVgHlldkXirwaz31hmGURhqljHRvefcJ4/arEAseOumpy/mAe5m02DhvGAUz78/mBhyVjsjLF4dScXXuX8zc1XHf7TP+4l7+JE86R6B6e6PFWeI/2H3t7hJGRjYvLy4JaArvgq4XhZIApUQ7xUo9lw==;TAp7MgE+YiYInfF0/EGDTg=="
+secured: "BfJIG6LpK1k+0iSkQUlmuXF9nRQqq404l+E20Uupdzr0Fc7VLs728sZNw8dCEADTR+WhTiBZt+Q2cgayZ4vIqsfvdVHA6VLDJgswPiroFnUMnhxO9WVLf5kJVPtgOBVJbqufsgGh4A0kbLjy4U+ubWfaUBntVT2YvPSZZ0aI4QtHZzp0l0Cx6VYHh405QOE0dAToUg/jkLdjCwpQZ11HSkSXUSqTgzdj1x6xqpj9CaqEY26BbPTNh5KGmjj0haqGRD5MLcwb4ZpPYPkPqIfLdcc3jlbbhn3epJzH8Tys5mh4vwQBjw5gBPf/atoqDai0NG/QXnA5r0w/XAKo7yrddw==;nQD4Ih0zpBgBMLr6dUT2Iw=="
 ---
 

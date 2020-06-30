@@ -8,7 +8,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-and-johns-hopkins-medicine-anno
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-johns-hopkins-medicine-announce-five-year-deal-centered-around-azure/"
 type: article
 quality: 91
-heat: 131
+heat: 111
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     title: "Microsoft and Johns Hopkins Medicine announce five-year deal centered around Azure"
 
 related:
-  - title: "Microsoft Azure and Johns Hopkins Medicine have partnered to accelerate precision medicine"
-    excerpt: "Microsoft Azure and Johns Hopkins Medicine partnered to leverage Microsoft's AI and analytics tools to facilitate precision medicine breakthroughs."
-    publishedDateTime: 2020-06-23T13:31:00Z
-    webUrl: "https://www.businessinsider.com/microsoft-johns-hopkins-partner-to-advance-precision-medicine-2020-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://i.insider.com/5ef1fdc8f0f419685c235043?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Microsoft Azure To Help In Johns Hopkins Medicine's Discoveries"
     excerpt: "Microsoft Corp. and Johns Hopkins Medicine or JHM said they have entered into a five-year agreement that will see Microsoft Azure become the preferred cloud platform for Johns Hopkins inHealth precision medicine initiative."
     publishedDateTime: 2020-06-19T15:31:00Z

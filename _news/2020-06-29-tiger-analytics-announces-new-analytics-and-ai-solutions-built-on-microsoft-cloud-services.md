@@ -19,34 +19,6 @@ topics:
   - Azure
 
 related:
-  - title: "Microsoft and Hitachi Announce Partnership Based on Azure Cloud Integration"
-    excerpt: "Microsoft and Hitachi are expanding their partnership to include a multi-year alliance focused on transforming manufacturing and logistics."
-    publishedDateTime: 2020-06-29T14:00:00Z
-    webUrl: "https://winbuzzer.com/2020/06/29/microsoft-and-hitachi-announce-partnership-based-on-azure-cloud-integration-xcxwbn/"
-    type: article
-    provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 35
-    images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2019/12/Microsoft-Cologne-Office-Pixabay.jpg"
-        width: 957
-        height: 720
-        isCached: true
-  - title: "Thought Machine Vault now runs on Google Cloud, AWS, Microsoft Azure and IBM Cloud"
-    excerpt: "Thought Machine has announced that Vault now runs on Google Cloud Platform, Amazon Web Services, Microsoft Azure and IBM Cloud."
-    publishedDateTime: 2020-06-30T00:12:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/06/30/thought-machine-vault/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 31
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
-        width: 304
-        height: 430
-        isCached: true
   - title: "Corrata Announces Mobile Endpoint Integration with Microsoft Cloud App Security"
     excerpt: "PRNewswire/ -- Corrata, an award-winning mobile endpoint security company, today announced availability of the first mobile endpoint integration"
     publishedDateTime: 2020-06-30T11:54:00Z
@@ -60,6 +32,20 @@ related:
       - url: "https://www.prnewswire.co.uk/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "BNY Mellon Launches New Data and Analytics Solutions Offerings, Collaborates with Microsoft to Build Solutions on Microsoft Azure"
+    excerpt: "PRNewswire/ -- The Bank of New York Mellon Corporation (\"BNY Mellon\") today announced the launch of three new Data and Analytics Solutions offerings"
+    publishedDateTime: 2020-06-25T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/bny-mellon-launches-new-data-and-analytics-solutions-offerings-collaborates-with-microsoft-to-build-solutions-on-microsoft-azure-301083452.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 8
+    images:
+      - url: "https://mma.prnewswire.com/media/323907/bny_mellon_logo.jpg?p=facebook"
+        width: 2698
+        height: 1414
         isCached: true
 
 secured: "rjrWZtz/dB8PScjyn57B3nNFKUA172DGcCtJfL7HaxYL0CIwAjLPrwq80MlE+jNeiR8/icZ6gMZ9vrNKDokLZalmS7IKiWUci8q6HV5eT7QQct69lkqIAmDnkU1P8Lo+kcHAeAMOeV/ic4V8wjiuRC5BKu33T0QqicBPRp+PLPAjADr3Wy4qnF7zfrmSND+qSDLArssHCSzVdO6xa/uKJ290gkTALiNxkpt0DFFS2nhTqQ+Q9ukiM56txPwh7OP7VwFA9JinJR2dcap2KnegjDvuFyrJxsl60cpCdMMpcRxDcivm8Ulup1WikuzAH7308OCbjXlSORBHFvV5gQfhtg==;gLxTRivX/sZiYOXklMgsEQ=="
