@@ -93,6 +93,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Nasuni Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Nasuni®, a leading provider of cloud file services, today announced the Nasuni file services platform is available for purchase in"
+    publishedDateTime: 2020-07-01T13:03:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/nasuni-now-available-in-the-microsoft-azure-marketplace-301086812.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/391402/Nasuni_Logo.jpg?p=facebook"
+        width: 1497
+        height: 785
+        isCached: true
   - title: "Greater Than Make Enerfy Loyalty Now Available in the Microsoft Azure Marketplace"
     excerpt: "Greater Than, today announced the availability of the cloud-based loyalty program Enerfy Loyalty in the Microsoft Azure Marketplace,"
     publishedDateTime: 2020-06-11T10:01:00Z
