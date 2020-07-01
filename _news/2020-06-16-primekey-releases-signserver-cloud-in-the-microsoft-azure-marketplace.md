@@ -40,22 +40,6 @@ related:
         width: 1125
         height: 1125
         isCached: true
-  - title: "Microsoft Azure reveals host of cloud improvements"
-    excerpt: "Microsoft has revealed it was forced to take swift action in response to phenomenal demand for its Azure cloud services during the early stages of the pandemic. According to a new blog post published by the firm,"
-    publishedDateTime: 2020-06-17T10:22:00Z
-    webUrl: "https://www.techradar.com/news/microsoft-azure-reveals-host-of-cloud-improvements"
-    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-reveals-host-of-cloud-improvements"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-reveals-host-of-cloud-improvements"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 97
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Fr8VgpPF6hUsxwEAKQhdpk-1200-80.jpg"
-        width: 970
-        height: 545
-        isCached: true
   - title: "Microsoft and SAS form new partnership to combine Azure services with data analysis tools"
     excerpt: "The companies are planning to develop industry-specific products to integrate SAS services with Microsoft 365, Dynamics 365 and Power BI."
     publishedDateTime: 2020-06-15T20:18:00Z
@@ -71,6 +55,20 @@ related:
       - url: "https://tr1.cbsistatic.com/hub/i/r/2020/05/07/ccf1b9f3-820b-4272-9325-c9444e0bea00/resize/1200x/f7b6b827f21a8935e6222fc85c64244c/istock-1203832818.jpg"
         width: 1200
         height: 801
+        isCached: true
+  - title: "Microsoft Azure reveals host of cloud improvements"
+    excerpt: "Microsoft has revealed it was forced to take swift action in response to phenomenal demand for its Azure cloud services during the early stages of the pandemic. According to a new blog post published by the firm,"
+    publishedDateTime: 2020-06-17T10:22:00Z
+    webUrl: "https://www.techradar.com/sg/news/microsoft-azure-reveals-host-of-cloud-improvements"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 77
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/Fr8VgpPF6hUsxwEAKQhdpk-1200-80.jpg"
+        width: 970
+        height: 545
         isCached: true
   - title: "Microsoft Azure becomes preferred Cloud platform for SAS analytics"
     excerpt: "Redmond, June 16 (IANS) Tech giant Microsoft and business analytics software and services firm SAS have announced a strategic partnership, making Azure the preferred Cloud platform for SAS's ..."

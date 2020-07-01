@@ -3,11 +3,9 @@ category: news
 title: "Microsoft Azure reveals host of cloud improvements"
 excerpt: "Microsoft has revealed it was forced to take swift action in response to phenomenal demand for its Azure cloud services during the early stages of the pandemic. According to a new blog post published by the firm,"
 publishedDateTime: 2020-06-17T10:22:00Z
-webUrl: "https://www.techradar.com/news/microsoft-azure-reveals-host-of-cloud-improvements"
-ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-reveals-host-of-cloud-improvements"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-reveals-host-of-cloud-improvements"
+webUrl: "https://www.techradar.com/sg/news/microsoft-azure-reveals-host-of-cloud-improvements"
 type: article
-quality: 97
+quality: 77
 heat: -1
 published: false
 
@@ -142,6 +140,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "uIFmQLTzHgufQNO2I+FWYU5mKyZr0QyyXa5myAaN9OEGNiPI6/PmEJ8PbJ0T1d5xgl8TC8X2GnVz6sr4L7z3neuYaIOlPFKz9uzRalotgIweRvpLlok2Ar060alWY72NtuDk3tYau85kn741knAml3LmgR5qTFIcohliqwf5n5pwIXEFf9Zm3fZCJ44xk6oRKJJrHeQH/NTLa9scmP98GpwqjnJ75R3puqGaUAH8bxowpB6oNkT/YMWmGKJCPHZlXzh7UjaLCQbCsnsno4yxFGgKYJGHVg3yn9xR7Kkoex78EdUS9hXfHpsuBJfdBd6FqLMsGpNMG56STWbieNP4Rr6sJDtQNgblVM7jlXQ1Y0Tt0iArITDp8ysWNL73BjupAw6XylxU6r9zgc2w6esB+f/54obvk0DBtBAeQ8osM8CYZh8HFMGJ+KN7Bg5o7JezNxuaWallwyyBmSNQhB2IMBmIs2ueYup11BLV9XcxbEWWEbF/+4WF48nSO1lIHpNyc9rR0kxXSJuvNpNM1lMlaA==;p5rrMzprK3OWQGftK8X/nA=="
+secured: "AQlojP2N6KT2jltat5VNusOYmNqbuupdG68+aiKSgWjIYIPG+Nh3y0XqrmyUPloQmeBKtM+p/Pej/3JOEYeFoEy6tODk4is2IWgaNA/NC4MY+ETwnRcN+RBOYRCgkqu6xHg7gmgtVGeemrK2HZv8tKZkTSh6KioEl03AExVMM2pi0nB6ktDHkHtaVbZNSaHpCGJjBr0jMWlFyR7lo3AYzwCr4K1F3KVrV6b8tpwtFSWNi0VQ0hpTfL+sI30yONKw0y/WAKHEmmWkJVJwQ/HiZInvBoumbZjlkoHC79aj8vLhnktYHjvhAnOsgVgLc5IFpaGwOqwJyhG3csUasVPCiQ==;L0XvQ0o43ypPgrQXMp4svg=="
 ---
 

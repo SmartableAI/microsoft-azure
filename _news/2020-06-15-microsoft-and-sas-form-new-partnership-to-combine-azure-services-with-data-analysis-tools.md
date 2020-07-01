@@ -49,14 +49,12 @@ related:
   - title: "Microsoft Azure reveals host of cloud improvements"
     excerpt: "Microsoft has revealed it was forced to take swift action in response to phenomenal demand for its Azure cloud services during the early stages of the pandemic. According to a new blog post published by the firm,"
     publishedDateTime: 2020-06-17T10:22:00Z
-    webUrl: "https://www.techradar.com/news/microsoft-azure-reveals-host-of-cloud-improvements"
-    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-reveals-host-of-cloud-improvements"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-reveals-host-of-cloud-improvements"
+    webUrl: "https://www.techradar.com/sg/news/microsoft-azure-reveals-host-of-cloud-improvements"
     type: article
     provider:
       name: TechRadar
       domain: techradar.com
-    quality: 97
+    quality: 77
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/Fr8VgpPF6hUsxwEAKQhdpk-1200-80.jpg"
         width: 970
