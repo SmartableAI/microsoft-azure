@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Build a .NET Core app for Azure Cosmos DB in Visual Studio Code"
 
-secured: "TgJfej4cgFi2hc7rOQ1S1ZRATkcGnL+i1F2fAIoHnqGhhdTdnwYqkAB9RO4RSVIrZtdP46IRe9+O8U4DJX9/VJ7U/lSFTgIxfluajXPqVzNxLWc/8eyIL5wdlw9QFeeQovNpXAuhK6ZD9YMKgzqVOtwlXArpJZb1r43I+8Nt5JsNzwXZcKrByeXewfJAKqY8WA+KUG8Wron+SLlVqu3UBq/je+3AcGhTzTcOHoZs2sLr3nuJFP+bK1NMtaMY5zTAtAzFu1WBNTWYxEUVNuFNcb+eMTo2b2+a4q2HOnYex4gmCVG8iFAaVQRww4FGRrdnLXGMI5qE5OGzNU+Fth56CEvt7ykdzq68S/JmM8Cjw/MZDTK5m9BdZSynZbSfxq0TJtkKptPe6h7Iwr0g5xuiyA==;D6wpQD7lBf3MhA7v/M0OOA=="
+secured: "Qmu5IZEQzm6dKREvGEkxZcGWUfmKBrFD7v0ZGFDYE5Papu9pB9Cv6q7m1y3eBL9YNeak5UzgGkSC1ElryRO3SsyEpuf+XJPOJJ7pRe4HehRHkghYfGTJkArmxZ49vdDlp73s8WTNTEKoUW+3pW30sxTabTVeskSSt9ekX72W1iCkt56jrAncR0SQ3MOmdP/HPRIsXTWcKndPcRlQFwDCeo0P+hCWySecYksRgVnRdfa/VO/KB4U30tUwAMtK58Tvle96zLjvfdwG7U+Cbve6tT3m4Xu1aE3K7DSBEBVYgHLKHCqx+C6ZWek8Hg5zEyf0cpCnULOfD7stc3AnR6+QU3zdSNRdmW4rHOj3g49gqgNx0Hzqv1Y+0+YwUoLxeOEgj/nf9Q/NRFbId/n3w4saGQ==;9dLjAl4gZRW4SdD5hXouOw=="
 ---
 

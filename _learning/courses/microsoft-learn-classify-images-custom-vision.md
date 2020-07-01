@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 34 mins
 ratings:
-  count: 75
-  average: 4.7466664
+  count: 76
+  average: 4.75
 heat: 53
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Classify images with the Custom Vision service"
 
-secured: "qWsxXvBvWkgPYKwT1Lfgt10KxurDbSPlbhryDDHElwbPw6DYpIOR8WVwiF8pXrDx7YVUTI5y+4dsR7uSztNrGo0CaxJCzdUNFVudjdup2JoahoowDa2apZJqzai67ziTAQ7cATxuFDEBNSPxHlc14rLKNJtWLzKIq0Rb6l7uTPB5ND/9kuMa2QOEhY/4w8TIxvtY/NTvNLFusT4uGEZlKqFqY/cqnLhHOyLOvhnIQ4b+sNKafMQ82QIP7kr7Tp89UvlAciSytW7ErwxTGadHwmpeWU0eY6I75parLC47ylyI+3DDt6ozhp2qlODHkzOKFsdR876wyXghJlNFr+Ri45Q/MCQhnBF3n9j6kh/RkOYtV7UxVrYcMq6aNfFYQzGFvLdzXYokZDKpvxtgsLLxUg==;Sfi77/K1xtJCSIzBaIUCHQ=="
+secured: "f0EDjiTNT2Q0A/fHZH27FHbjc955SRkwlGz9bmzU/nDyKrJ6R6fiLtmAE3UhXtOVqSodRBGgYVbzp0ipHhlgLmwotjgG/qAPdavOAXNs4gLNG88gLgI+cmxW2HFy9d1EhPes54fhYlO40Z4TAM9ls9vo3DfT6zkR7JwhWN2M/Y13AQQdsOMB5g1pkEetGtD6jt8xXt4uM8eATRdnxn026syuIcOMow9efw2+KS9BESVzk2lY5bJkhnDqawFHE0aYy/UrRfOjdYR9MSVRfEOemvnJsHgA48hd0j7ZuZrSpKTqQ5Rr9mUDJR0H0Eepi6jp5UQJeJHmXoMSCFwzVVCAacRO5Q3WhhkNdeMcKD5cLOa5pOc7YM1ndN2FRxDoWUZ5gT0bpVxqH/zQhUyGH/j8nw==;3/dcjEu9lDvg6r7RqfSGXg=="
 ---
 

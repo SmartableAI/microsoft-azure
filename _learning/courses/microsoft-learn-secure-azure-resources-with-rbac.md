@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 37 mins
 ratings:
-  count: 3764
-  average: 4.6479807
+  count: 3765
+  average: 4.6478086
 heat: 61
 
 provider:
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Secure your Azure resources with role-based access control (RBAC)"
 
-secured: "v+fH5SN7HHk/LS9dpKCq/VpfH92ckmjClMg5g5UWofUGrf4VcpZOb/502YixGvU5NNqA9oBEADW3ZAZAwzJ+wLPs6OWWdRD+LbL+eLibxiVR5KFBNHhogX/Wcqrjq9OOv4Q+4tpy2LOXQ/DYVI9Xd/vNaVxRzRWB7Aon3NJv4okBkTkEjxDtOrT3518voiQErHMIUchNtrJOsbnDRkF5qPoSXHeGnb/Joo6hQQSCbP2GvvkWEMSOs/gkWTpfmt2gRmVHlEt7jZiBLpwhthR1EPtgG3ww2GBXlqHfh6YKdURgP++bkY/Tszx9weptMYJgaZ4iVr777JfgwUwKGDKs8GkUg0d10MrLT3d1EdIVKhQriq4bneslkSufuqdJPdURP2DhFSFDU79Oq6xOjCLR7Q==;3vC+SiKQF6LXnqW2oAcHCw=="
+secured: "H7X1SbzJVZMrJ/d+uurpby4xPTiJ1fDw+6nXB6C+1okzUVAzOFXufhhhtwFnp0n5CP3O0Gx5V72hz85zBuPcVj/ElvvF6T5wcNSpeLvg7PcX3ym+izLeT+h9OnBfC73Bw5i0yarg0I7zxodQIJRzNDUGmfbw+8s7vjZKHvkva4B6mm2VLHaf7yQyoC88vwAc2tFm3hkpj/GVyk/os9iQhRZeMUQTqEPyAnBhJoutGGNxIpCmWtNC6/8D6tSuI7uRPqDbcankswsnmoZATkUBdy6hQrrX+e0KIRDHZvqx2y9KwomqJn1oFW9RthJ7FIPZZfJHuofeM98mEG2Q3rWqw0xxUdxtgGZQzWvhg3CGnJvCYCFPSW7E26KAN+7XQr3xf2KyZT4owEz+Ty3PHYuMLg==;5DFzszeY7Oe0XWsGfHbmOA=="
 ---
 

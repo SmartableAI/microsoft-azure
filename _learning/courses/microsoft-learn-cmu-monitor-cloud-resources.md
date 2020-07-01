@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Monitor cloud resources"
 
-secured: "zjUQg1X8uZwWwGXrGmtAf73RfoJiyhjYYu1z6rbRprBq4CdbK0tHMsQb4yooyq9bmAktgpH/2EpFbJUywdsaXReLTJ1vhNpsJssK+JDK4fb8ahJfm/6Zi+fUnAfBCQ1pBwcSkHKsg1Hn3Uurt9X6lNZ904YMQ4zD27jJ/G5bbTMzi8e39dItv9waqm4AIylnFbtRI03uemKJq57Xam+4l8Xt3JN4EnD6lZyowdT3CaFeXNvBBlej27+UnSD/vLtrTUb0XOloEy+Zla5wj8+iVuPr4nu8NF+//sdq/eWSTIV6TpoloAHjplaas2ziulEGyRrRSYC6vWVtn1FdYHq6YlyvXdb7FCMMRC1v6gpFq+aCJz3qUVUOQsSebQM9rklSVUUVAdgV2ve8MdW8e2fD7Q==;3E3ky7M1VjofnmxRp49d2Q=="
+secured: "LLdoQxLOK0O3MMK+gtnpvenfHVWR/avD+V/ONzp+/nzhCmIXE4AELudcgBptjnP4gwuIgv550X/sq0YdCL6zyetQPB+bVDwRU8TMC97GrnMDgzCvgq/dIqDTFRhObmjjJvp0Yt/1SapMZemp3epzf73V+pllg55PG8G5yRFu0K/nVlSEJX+wdu/Mw5lEmkeK+xlNqtZyKgjtiE9uMrktYEpNZLi9flihg0z1VcTnrjLa6QQ6gzxvktyEWlciXZPkVhvs9nDl+jq61OpKPNy5Slo/l+i6tzbdyV2iy0NnWcNUMbgVMDK28bKbrZHUianS6c4LwjJHjQwToMAmgFLyzRDOJ9Jd+41QcamUdogMHuHUcltBBNQGYHx/itg2HAaAKEfKbVrMG8h+aw6tCOtt9g==;u1/Y7uvOiKxrgetlOqV/Yg=="
 ---
 

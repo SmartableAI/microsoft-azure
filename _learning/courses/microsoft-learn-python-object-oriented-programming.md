@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Object-oriented programming in Python"
 
-secured: "MROxaWG77p89JBjI886ufoV4O7XV9d/43ECt98Y4BUW7x/IRZL08umhrjFN2e1aKzudbsY/WTjCX9WKp1v+/Qf8jYvArOcO+Uel96Vwyp4IFDqbs98jfhxa8XXcLKESysn+SXIwpqBzzLCUnvT0WzmJ5GGwpHEwtzYeZC4MdoRItFdZxj+V+s1ATgc2La5MUdcER49qW0DnImM43rTXHzw26JmGp3aNQWHRsyzfXjx/TeeL5bxam80Ftsl70evdVjeOK/21+x4qQNe8XFOyNqBLhTLlHlyAjJqfc72oltWCL5aUAQ3I3miRx5Hd4RVv/WPT0GcDchZ41EgA+otsQbkj8JDOuyh/dO8u3XaDlnzc0Dc0DBWeYyhf7Bx7EXHZaZYf9l0b7cmr2W/p4Eku/eA==;jE2ess6eqUwiOpGXfUzdkg=="
+secured: "yC6DSI83bb5XH+qSctaTbna5G2buQ/ihJHfgBWyr6M0oIxzINi+mqn6oX1NoqRkv/gQzuykmfjJx8pbub9+WFXrbt/457lcfa0NRS2JS/zIMkp6G5KdExZI6vR09cu8PuhxcXT/7xvARzFbfVlqJyJ++TmJC+HIV0r0d7q4k2DIh9jjqKHD3YlLa/yrSRrT20v0L4IE+ZmmYJd9GXIOs9teAtl1dCQz6w7ygovpda+ly2m2NJvZ+rtjZWrosTxSX5wCuwEuVqIFLs2mg5oMVe7Rr1+viLlmM0z4YqUNTwTAyvUS8ekE6tg5LLSqKGTFHYR4PZsgAHK6hx+tevsGJ+kDf91IQh1Fzo+pLzbrFuVIUoWAIQKy/rDIM3ooW4XDLh0gFAQQCOqb63ffPgULPiw==;X0akoZ6346m996vN1XNUsg=="
 ---
 

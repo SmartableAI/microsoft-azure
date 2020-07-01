@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 87 mins
 ratings:
-  count: 361
-  average: 4.5872574
-heat: 51
+  count: 362
+  average: 4.588398
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Create your first Azure IoT Central app"
 
-secured: "ZAn4xLbchi2QHzbfSer3BhuQIvJBNFh3KIkioEfbas+TzyB06tCWydOqe0OPOQ0Suu9lcjX7+pmclpoKyOSIdqb+Bw5o6RQT4x8KQtvikgWdj80K+G2kMB2BsVkp91DWNOutFrPIqjOSef8XkyTqFhP91PnAUOCmRQ4uxZNym3PZFWie6O9+/mMT1x84OtItbqB8Z0HS6l6q/Ao/tuMuS4naje/LKlE4BXkh/0xQ0DUqfzjAIIPa4RMCKDEv8pKiUygkSKBC27LZUBsPN0B2KZhgadM98saVpH8j/FZM2t3cCWOgjonVJQyGHnkzexNZyx0AzddHgMuDG5Obixg+cmmqWRxnyUCduyskb9OQWX56iY5bbDxUUxxAKK8mZvb5GF/KrtENWhn3sYpRihVudw==;J1rEdnR963rxCDpMg2Ufew=="
+secured: "XNPtcgOqcP+eDc6ldK47wGtnJjWfJLTBFc54cLCBf13M8M1vu3ozbK6fuiq4esh+PiXZ55wgDxzy23GbmocX7x/0LoyVINebqLoRQJE7BBc49dSWcUyFEea5mURGCX3Xbr215E7Wm/LuZjlxEB62mDYZG9bd4edtoHfIyKFcDF57aRdNoNGwkpqyJQCJSXYl6SWJEIomxM9MSYgV+9lhL9Qj3IlCquILdyCvJCNeytZVDLcqrcVIrCzRTA+4VocpRIayVYdgMjqtmxRTtGSjvu2kuM1lqa6lUwUFf4NOJnxQsMqOBsLbdm0NO7dwld2D+2SK+sBe+l3xR0SWkzjp3UtQUm+ogXP+ULRTklSBbuTIOpU2dRX0hRpfNME4zGNOi7/EE7tfXGjIXUsa4rmMkQ==;xGwBEAFU3p2ILAexRrGGzA=="
 ---
 

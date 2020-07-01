@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 18 mins
 ratings:
-  count: 105
-  average: 4.6666665
-heat: 50
+  count: 107
+  average: 4.6635513
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -38,6 +38,6 @@ images:
     isCached: true
     title: "Use Recommended Tools to Create a Data-Flow Diagram"
 
-secured: "5i9e8NKUflcSgmQILpsHhfjBJYnFTBMesBUqEss9W0v7Se8kTpLxOyxgWyL9vNkFHsVRb/YNjmTgCvONrIwXNQNBRKs+7wY5Oa0REkCFxUx9uMv/V2qIpoh9HhjoXwV1NqVd+JcPn2SqW+tEGkSk8A//loPTUmrE4OrJJW8AAH668YCbYOYIWQ/o5aTCMdghW7SwilIOVH8UbMuAd3T4ARQwWwJF9xt1ZUujTLpUYLikPy+ROkob9fnqqTsyQclOlkaf0pwMVrqrNlmCFb2X88uHtPbrvM3JnBXjQIa8zsxooQxWHTofSHUdt3NEVhfJ3o1RPqP+g+IYCqCRfSDLdVyb3t+nXXy+icJdHN9b94MwVYQ9bb7WMkLFCLfUEcmyN3NvdLYcKO8I1aXqF6g7qg==;vlt0pifUziQPAkSHH86ryw=="
+secured: "juFu28XwU0MfAl8ah/HgdwT2HMfebZNwdZ96AUzaWFD9r66Y66i1v0hGAEQ/bZ2MCtbNSg8TRH2wpaoDiGE430O32pv0O4xXQ9bQk274LOKxctvyAh/L1e4Cs+azGTVxTiv7sEFU2kGvUv0dVuAAk14eB2mRVBZv94eYkumA0DAG/u/mwvmQpvdAvmmvIQcL4mZOp1b61yFbsMSBz18/0tAE4budg4+CYPoTeaWMCcPOUh6JnPPT9czbF5Rmiz3LYLXg7FtWJCIej2XDe8vAxdHb9dmlfGp9M1Oq/igfIpksk1OZYdvJdYUtwXuvxhKBwfb3SoROAlWhoYnPodsDf77Igi7lSvlTRcKbpK0ZCLwiSGPGGnWZ9WmuzoHIG7bj4h/+PSFRWwzoJkGSzmrpcg==;m+dYQ2ZHg/dg6KQExwL6xg=="
 ---
 

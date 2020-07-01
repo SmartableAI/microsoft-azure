@@ -4,7 +4,7 @@ excerpt: "Learn how to build a chat bot and add intelligence to the Bot by integ
 type: collection
 price: Free
 length: PT29M
-heat: 60
+heat: 62
 
 provider:
   name: Microsoft Learn

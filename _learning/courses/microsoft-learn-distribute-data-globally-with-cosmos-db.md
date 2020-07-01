@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 31 mins
 ratings:
-  count: 1267
-  average: 4.614838
+  count: 1268
+  average: 4.614353
 heat: 55
 
 provider:
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Distribute your data globally with Azure Cosmos DB"
 
-secured: "aciYUxVwLZEhx7HEOBVnc9+6ar31cvKX/r8VQzfwuxuup8fLtZw8f731dMN8iLomvXRKWsEl+GnlihMd+GueK8ZyDlypjM+Tk3oNcfq4jOi7rm7wXYjo9NSA/stugeUOBun85vyIa2JMwsY8Z54eyUvDzTXbrv4jjUh9714vtMzYQt7pp7DVPA0SXK3HeGWo12Lhw/tKYFX6UEQp4f//NLZfV3bBTrhXHGGxpDdwpGyt1ch14jESAR5zFgv7muh2e5DrYfA9YJFfdfa8izMHPo7INih8btlEtEpBfKKxD/OPW9XRmOemE1pPi4z8As5iQbo70xttZmyY5CJ04g3XNCcdCOsB1olaaVIDz624/6Q5xYCQ0fcWGvU12J8xyorQEsiZF30GT0tezl5HA8QGXg==;q1iKdOfYEoNIhv3JqmjI6A=="
+secured: "lFNj1Be5Fan2SKrnslf9/Xnp0oyld04frOKBD8dafikRwuVUqGM6YJ9UdsTDIEuWjXcEzekJh3mQj+3q4y5YLDptpJUnXDJcZcxv85OvJrGu/10RA6vihDQAV/3rk7LEIT9Pq4Umy6T+MOT+C30RXJ9fnya+y+VE9wDHe22srYf2SjA+qwfnk0bJYwrC6YsBzd+LWveKnn6ThIJSNxL0lUApI3AAZAvEPw9LAHlyycghIRxafe+AYiJh1PvttN/KCl+zE+ZoBltgXe5iLpznUXvnw8HTF2fO4rP/zmXwoHFYXOnlCd6wIYEsZAFCkhFOHPKWt1XbK1ZeaSm7A0eC5UW9/e2mSpvOIzvueHle496ZmZVy3Ts03xCkiGE5xUTa0km1j5pqvlsbZxO5VivTzg==;RHgmqgK23CAj+Oi0SHR3JQ=="
 ---
 

@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 19 mins
 ratings:
-  count: 28
-  average: 4.607143
+  count: 29
+  average: 4.62069
 heat: 50
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Virtualize memory"
 
-secured: "0+SiGWLsm8Jr9oGMXpu6v6sKP3jnM7M1pV+/twciU5CS/AageBuVLFp+saBywXXsDfm5yHecqPaaohW4LGe6JXWtupQSjvpna2uY7WWq0n0NLbCTobvwhAlrm688eFeJ4qwEPc3Z5loVTVPj1v54sNEpaFgZHrUZOQA0hmLW2EAmRFyEMgrbbchPyR0g5WcoD/uf0TE3znKzY7Hl+kN5u5UqZX4jjSEiXwFN4lADUgsaJ9PFNto2BowVnGZF1C0bZhLqPWkJRUPIt/1KNq+gFWvRy9M7Hqzr78+w/lDg4BCbeQ4Dy+CY1Q8w2rzUC+MuAGM7W6Q0h3cWxSE/kDIMhl7KMXKM/714z2A+AT0BUGHLO3b68zQex5cHMC4EVoHApqjmIK9S621Tsoy7VTdoUA==;MOEf751EoO6IvE614fSs8A=="
+secured: "Whv2lyqAc5RiVc1FIAO3EfKEV5HF9gSTWRnrQPblL1J63rRkzofviBe/JZg0ppgCjGh56v2u7xJKlB5C/4WQYiahA+k5SB3v+3kULtH+EidZN2SB3GGtrlw/17JetWt2b0qQRGFQegYFsdT6nI6r+/F2S3/SPP+HyjNXIzklmE85nPj1/kJBPFGZUDlirSpIIO+EMCr8EBEFYlAkWWyYgRlclXjkauLHgzuq3MRKBEp3fKAEJspTUkmjN7nAaAKIvIbO0zlb++vQbvoEob6BtphT/zhiXvfmU9WpNNNOorCThY+dL9b6N2gho46uO3xfa/cKSHYqyAedCjkiuMFhQQwSrZVeng0JJ4E6kgTcgSWV+OagyJVcVyjuT9IqGZzyn6+HgJxjFiLmXFKn18bedw==;rRNRV/qqorV2sUq76Wj0Og=="
 ---
 

@@ -8,7 +8,7 @@ length: PT32M
 ratings:
   count: 11
   average: 4.4545455
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Improve your reliability with modern operations practices: Capacity planning and scaling"
 
-secured: "KDTX4Kuw78y6TB1wK2tLiKl+DDcEI65qLigUb+skSuCYNWxXy7Bn+AaZcI0j10ivae/BlrH4L0GAA1VQhDbXTtaTk43uAxgnSmSvGBAT3S1AA2TFlJnhf+KXpERvPzq999nGRxk2ZqUuYDIH2fg9vXtNvibyiDtN6q43+fDkPcj2pi9pmIl7hG9xboNhF7KFRzGU9fGe3gSW9eW6vY6mp/Wsg98631qVTYQttNLIy12pQgEXXj6OTFpxV4XXVZBKlyO5KBUWc2yPnM623Ob9Pf1Ri3OIiPWgE+nl0l0Jk/HzD4zTGbABi/vlzDUmvKcfFwGHHh0fFWgwhidVxAYo6iLJPtkU6IQtAIDjIBCaxEZ65lzD75wmy6F/qyaMXqFgkvRB2psF3MEXKkbm+IGtaA==;C3Hepo1C8sUGmiUTi6V34Q=="
+secured: "BJKksD4Sh0KvrfcU6iXa5uvTHSC9BYTdtcIEJpmGkQjbWnJWiACBgPcwSSKikMxesEH9nATc/+9dhx+q4FGKXPiZML/ZAgCiIUWBHP3XKjleXOvX8QhffKVvg+d26TyYrj2Snha7ObsrrhgtegwXmvQKM56NCnn5ScwRSY+bXSd+fyDvoH73sGnbQdoxOH9cfRvQ2jDZU5W1n6hrfBXONyG78PoQZIs4MuMpvTvo+EhA2mXEFIoxgbwAeryAA8kIW2d3OD27rzUS+cEu/ud8nWQJxhsHgRkMdS6Cv7lP/+z14K+B3se1XBl2no2fsuVAyQTqT4EkqFevLSHpRoRSEy/atFYY94GBN73QkOEhgKUMldBJTx8o6NesDp+savWFA5DBrF3YeOt8GDXzQdT0lw==;0Bwlr7ft6Rx8K+DDTr6IUg=="
 ---
 

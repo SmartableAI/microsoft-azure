@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Learn the data science method"
 
-secured: "4a3seb+2cKbDGhhOrk/nkAPU8+MtEW4+G6GKMawr44Ex1WSjxREUeP5FoLw70W7Mn12ywFJFVmPP//ywyo3FR+Jbc/SySkmaF8qEVSLIvi/w1JeVR2K0RGQaXQrBLYTpeJZ7cfeaQehuT1em0abg5sLTHNOZdQ61xoJZpt3ru9uLSQ+AGvrVZsB0ziZMq7u7rtdaDplBfbuB/3YjqnTqtjIwEJDH65fUok1BkCL/yTYVlbgTs2kwVoI89MzfBpf08c0m2D2mpzOFP3sBKJax22IdaTe3jIQVR/AFIVx7NZxkt5gzGgC07hc8dDZVzR0sjqZlsGSVWeCH33AMLEBErrkRTnoDfk7843IuGy4SIDzZHvQBHds99N5Stani+xkXKR6e4xaNCWAEcrOTLTAjYg==;qtjUdjJkpDpe+aZyawqIyQ=="
+secured: "zTu4Q/y/NJWstgbZyGiA/HuiIB0/51ustBrQxih0C3lEljnp7lrB/Rdd5sGluJ46ny0hfEzpG9LClwyo55VaHnyikLGSWcLGul9l2eHID/gVX8OuLXOv6XiCOt4M2dFszF1BppdApge+H6PVaIkvOBR4ETNKNlLDTe88U8iVLA/iI+ZXxtPf7B8cQInzS9QOiMS0wcF+PN2Tx13xy9Frn/JlzWMjJopIY9diTiDkPptsntzqKDQ2bJF7WNutiioC+Mg8umIs+TNWTNpe6d8xMS1uyZlwD9TYm4OmaZl2buDsveIiCuLz9WRgFEQ+E/b3VOO8944NhfnNak25pP3fOlQbSCGbQCuFvkX5y2sFR1j/EAshb+Ldr3RC3QPpCVr5Nzm6jdmT2jecSHMkUXtWKw==;ZQeW8FcXpqCQ5Sp2W+qENQ=="
 ---
 

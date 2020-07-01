@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 21 mins
 ratings:
-  count: 27
-  average: 4.703704
-heat: 50
+  count: 28
+  average: 4.714286
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Virtualize I/O"
 
-secured: "47NY/1ZHV9ajaSAPa3JjaMAiYt0wyuCUfRGj1d9bmhNACe1oAleN8VXA65y1kKFZqmONoUntNLXRyAAk1jstwAF6MM6WtWF2pIjuBmrmu+bZgeeSh5cSVnRyMVriUD1OyOELdU7pRUAhTYJ1Z4dXZi7qRbNVH56Lx221H+tU8ch2B2A0KxWpUr1qkmHndvnlF1aTOPK6MfzYVxzJvy1GmRPibFiRC80742vBe9sDSIXThPTldfbJDqcw7PZEDSlcLi3dy/tNjEf6jp0CRdvb8A0jU7a3p2qykOd2xw+dJmI+ThWQTUOQj7DPr630IWZ6xhqwGqY14EVmS7Wkb4UVLUJm1YOUtCnN46qRwvon+NWqTnMbqtjg2wsyfUeuh175Lk5LOmXhH0vOapglbhfiig==;CS9FI/qkbeYpArT0Zp/1kQ=="
+secured: "xHzZsMlWooYvN76SK69XtbtSdxpbRSBDib9bZ9pHvopXi7hwlnBXpW63+PZxnzbZsvmQTTMTrX0iDUxTAPmkxtxbbBMaSX+kD4ON3Gp35WG3ewkHtgDlZ4zb13FJTpfh6J/LBXzLPdwYRUBsAgavuyX3D+NG319D4UaIO+AtDS8MIOzAa4hLwpmUQOm+QUJUF2luef3ofRiiyhvHCv3t+IEIJeDr6Pu8BibuXzkHVmsSTxXFNhK8pfWuDqXlzdEg0bnnc5yP2AS0T8N/a51kxeK3grSYic/b17uDrVc0bbO4V3c/agMCC07wLWonNrTCsX3ccT0XpRGGs2SX6Y1XC+NelHwmOU9sAELfePrydrShlgnQRnK1ONCLwT9/j9g3DynHGVZmNJn+m0yuqwsgXg==;mhAAChvc+QLrhZfGZ9Ht4Q=="
 ---
 

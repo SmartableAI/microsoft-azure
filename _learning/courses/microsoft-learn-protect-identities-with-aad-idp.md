@@ -8,7 +8,7 @@ length: 34 mins
 ratings:
   count: 45
   average: 4.6444445
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Protect your identities with Azure AD Identity Protection"
 
-secured: "BK/sp4wyt6IewQZsWnhXlrRw5/qIONZZ2kVBpVF1TGyrEcgGGFvXtRSq5ac8/fO4TyONvgl5S/bzDDV15ayt0ftSwX5thtqcJXsYmqxnlkSFx+nY5ec/gtwIejJxqTPGg8kJ1waN+OcSaTkzmb3SzSKqYvJmSZzyNWEfUOftJY0iG9JXmm8KiobiCDPWK/9V1ol8sSJTYwZvXXMLfxIDh+OgXt5GM5NUEGgTCoFQSwGhZUdpGzQI2kc4incrEV9uH2NlDV5Gy5CL7AFcLwOMxAOailieeiK8J9ag2B6lGQvsu6tFs3Velk2oQTqj1jiL1JGmO5XKPKq5yEf+hkXIX+adWhmiZpvwSGjWsQrdnMnDU0Q3VlSWkmQel52CMcJZPQ2fH/feMFXkS8hOVaVTiA==;zJNaou89HhSrwF4jn4hxKw=="
+secured: "ML7AfFzjHa3Fh18A85R1RKGTHwJb0EXNSFDQWAOkoFV1xTH2faL0bOkucqm+b1YpJlSOhnLQcJK124v9IX7zX3UmiGCilqg8Rf8Mi9xOGKLi3y/4f5HGQ60auOTTWEfkj24RJqNCe7NXqk90YfWC3qdxo+8Y62z4pcHXHUhyBplPZHTsE53Elo7sS7I47FYYo6kboM54RZ/b+YPAXGOPUA7eYM4ScOgmLjK12MubElCJ+6LLKBXaAb9Rf6JYHWfnUVG382Ig+N9uZT25nY0YzudwErRUbvG1lEeF8WzDv+IoXyYs8XmnYLmtupKod4JbahtOnItWjExoI+8hGzWpHSu1Ts58PV5NM3zgJUsgaJnrnUFklx9XGpHNuLQhfWOHX95jwFIk8uIbJC3TzR1h8g==;iGTHTxsauKvHnoWr/RGauw=="
 ---
 

@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Implement Azure VM-based SAP solutions"
 
-secured: "+KBId5KUG1wS60eyFex9FfhC7o/xPJ/gxWErEEVUiW7LjbyAQeyPZwSYKTJefrWS0Qlwuafmennm5WlwX/G8Nsldo7Rs/CWbxGTwxFyT9M/JMKHoXVr8VKPtm9J1kD10l8WZOsHwuVuEFsYSas/WrT2UVRQd/F1NJZsIo2q7Y7Yr+VOfq2aSF+5Fi+RTWZ++rU6YgwYUY0d+qEIVhrKvSnLm6IuUlr8gQyZc9NeOHLDK3HOHi7vKf80TwyGANcNeNRbBTcGOT50sQaVAhNh3BjcJgZSxeskaoP5z+WNn29Mg+uMC4JALbXvzr+yxg2fyaWhPttrL0B3BksLJYTrEkHkFy+QeEJGDv5XPgk8Ok9tsz7L/mx6omeaDvZ5doo8k9zv8KyR9zPetIcYx3WRisQ==;h2K4lEW7UYL2eqD+8P2yDA=="
+secured: "HBFry23klt1hWSeRa3zTJ+y9qATht8yLU13I1n9KzwoslCDekPXDtqOHshHYPrE6EODnT01hz78LMqUFVl9LagKjxO0e+h90G5RHPVO/qcUXYTi/Eaad/quAqWYa0Fd94TjVyQUnTTYH5fjynPT38gZ1i7GvQU7HpErWZj45MhrH+3p0zqPKJsVkLbsq/uiyysTAR+4dUpzplGiaJLhiGUktQoHBn90XHUvF4ViIRmq/IPkQw7l3XVEaqio7nTFwZ/d1lbl+EMnhyI4+DlXWRHi6nt/nz8e8IyJfrEJBaDX+pG+81GuVABgiRrM6DD4NBUJJ40MnpppBuWEoQqUTTQfH2N1ISml2O5ZC5fWNiHt4ghXejDDnTlc+uAmvikAEFFqv4rw5VcWjvS68oYXGEQ==;pfKlHh4Jlhk72PnZdL5tjw=="
 ---
 

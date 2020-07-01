@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Fundamentals of network security"
 
-secured: "opRYkb81kfYNYDEWWBGLZ7f9DsAE5Dc/Xx5aEZZnyxHi0fd31ajDtVge0VUvhB4ysIslS6TGO0S9a/pGSYp6yV9FdPrHGY40ZEkIbg1Vy65/xYvg8bEzEZs0I9qynM5I+PFkhJt+1ZxnDwSOdepUXI/uwmzBtqLydPOobR9aukX56kyEbZ9vvpJjNVuiDrFKpnph6mr+1mAC/Vp795PDm3/k8ihJxcCjQUpE++nsxaRYzApWzuRZTwJq+UWWKw83wrFDcQcUhdmTg+le6JIL5Jv/pMPCKJWJERKevQ5ah31ET+qBfEfH6j+chuFo/ZhZU4dNjasPc0XpOlx99fXvmPvyLkjGqjp5Y5dyjfFZ2lJvqVLVSFXlUKwEq/AnxeAcD1YQQrMVwyXvSjOI1D0J5A==;PCcqR+xKcfGwzeG096NN8Q=="
+secured: "AIkTHR7DXIU82lSncIPVVKXldxdreV6oLgIxt94VMQz1xGEGMzhx6sfABV5JzRvtjGFLEnxsqhVJwTb2xFa1ERd6rgIVth6h5/amWoAl+8y0cHkbPjL41QC/pxyUJsDmwj9N2wTNMk8Llt/K4SPlfglJxlfvgIUVh8O0LIS7r366Bdbdw04jnkbXIvyt0qmSfuhKK4/8yL8VAGoLNlHrDEoXarjpm2BhNZUzDO+hh/mDLOdcBLSB5AJNpA/wp615FtGEM8rRLIlsfzNgx8t9/wSGZwEb2eVLshZ5Be0fkpNeZNx/mK/tWoQEG7gUr0jscjX+ze8VjiGjWsKSvwqdP/70D3qeEQvO8wuTutq54G/9PVUz47N/q8ajrLmaRrZplQTNkcXtyKywTyU7k8UvtA==;vpH+H2rTvGKDL98+vVQvtQ=="
 ---
 

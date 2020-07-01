@@ -8,7 +8,7 @@ length: PT59M
 ratings:
   count: 1474
   average: 4.6872454
-heat: 57
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Manage build dependencies with Azure Artifacts"
 
-secured: "R3k85+sGJrHFbMOeqi1KQUEXgcoZ4i3/w38U++rsfxyGppl2bBpmErT4CfFFKKIu2Ueuwgxds+v2Ni+Xmwzn/MsmD/GpzPPoMglL6L0p7Sto94b+Ut2iiq9u3v0DBReTLhlsSTlzMKGor9Sdl/AkEDt2BnfZS0NcAQmJgB72dsQgRqtJ/IX+9Hh+kM1SrMgXWjW+FiSHYdvy9uObFYsRJoNa51ZkfoieufNEUftErdCwDwjQ5kHZQfJjfxv+/K/juTTd2bi/RDgdD9Ebqb1BRvLcknW7gGhX+iqRIHa5L6aXMIOGx3+bi1KzGkjtVnVCnuAHxFDHahb49GQF8duq2Ub44GoMJwKTidOwMmuDNJBjExzTTbq2sQmpk7T5MoTix5dzsb7Z56vurcTYU8ljQg==;m6NVWm6ZQRgkh3iG0WdPHw=="
+secured: "xRVNTgKBHvoIkgm7fYdQZl+w337n64Aqj+8KwEqdyH6D3r+yGD8b8kxSIkcf2ay1OXTGchLEmdrl5G7SI1exHLDB5l/ZvvbdA+SI4I/uvaTwTejRfTbPum64o4NKg9CKKa12IBxRYVaq9oE6ApoZcUT3Rp4uLr8P9iwHNEbXk08lbfFZ3HGOfpfpylChbcB/174J82mQGp9+wpQy0oCqQuHQ0or4Rhyw56F5lVsqlAAODO+h7XYbs9QPfACSFG3EU9V0FLnQ90URQ77c2PVvhaELMz0WBWoU+dQZOBM9ZcTa1ZE4v1/ExtHHrvXYOjv4N3x3Q695BtjOvPnzAHqPR8pgqZS+CUs+DDhKP0QCDIwqfUv/zofWIGSf0qWbF+wWAgyMhpHPjxQFM+2W7EIk9Q==;5EsKTRwJ7xyO4iMkGpa1Wg=="
 ---
 

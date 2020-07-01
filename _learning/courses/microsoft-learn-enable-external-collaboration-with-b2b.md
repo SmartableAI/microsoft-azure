@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Enable secure external collaboration for your applications with Azure AD B2B"
 
-secured: "oN39Dsw5IDc9cTM2603uwaLAtCDpIozxV514ZJGr7yAnTDxI/zKXGdn5C66wdvRy0k5j/PylNhmFE1WeAoMz/oWFjBprhNLSBhXQITj0IM8OxiHQlyiqevP/QwjE+2WvyM5KQByDWVdsDVoFP1xbHr60c94n36iRKsGF/O/02zZswbGpKUvursQnDOn8SVCQ1EfKgjevhqK+W3sR0eFRs9lYmtH9GKUdKopdnGh/qNq+sj6J1MYNgcfszir0xaWiIdjBlZ+62+rste2ai+U/bbctjyPcWC+Dh4veZf9XACa83aQKd7Tzc7R2b+49oanHeM1fg4UdOlHKcJHJ0Ffo6xCfhbj8I6fQfNHTgkllTD5KeGuhPHRwD4+eCdj3LxN8hb+iHqfvBkL2H3Gror6gqg==;1iSWP4ULKkRfouB8Pl2ACw=="
+secured: "gfEzSUC01CHOLSEqrHVaK8UwkXVh935mlPo+UXq+WNfDphW8rJ7gStYT9zRds9gR87c0HkAaj0AkYtMkKKkjmon9lQa/VugwLupbRtxQXn/5Sb9Q8+x5SaTrZa8L9CDWKLYFzWxihJMWPj/eIVvQmteVuXbD2JiRXuMaHvbNqsg4+MX/J1UPmPOZ+Jxk7XZeq0CjZKikRnAdymM/PUxBPyEuNFuEGx6KFP+/GddAsIiYEM/YZtiA8A/akN5FyHporaBF3VLGUFRLpBStafpeIwCLuqiWSrY+LsCphztJDzuNZzmxanIV85wkwWI0MjnUVBa8x5BddJENorjfaheshAVJ1j7UuWKFCq+90va9johG8u6WkM6ouFve09vVKC2Fjp4ngJLNIAKdvvpgTRt9kA==;B4fw14hAsbTQphe2hoUXdQ=="
 ---
 

@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduce the foundation pillars of DevOps: Culture and Lean Product"
 
-secured: "bRGKw/d8zv/snlD9NMv/2kQw4CmLYFqJEdAbC5YaQlhTb7IFE+oBFdOo+MKSHnZBaZwrLWozdA0AJxVaJzDdGvo8VcXpWjI5gY95NhmJjkK9+5zQaHkk1HWGMhKAonmHhC/6SLZ9cA84Vz3jh6QJgIWiiFKFselUcoSoGGbr7Wa4urSwaBx3htEFi54qpX2rvopJL7ooTOQ5cscj4mPePOKNUiCgGce35++XAh0E9SLx2n0GyPT2zBOk7JrjvS7MQJyf4WwerRp991Vr+KWGL7YD4mHAH1VZqjNNzwq8r4Z1hXaSeRd6Q08+UBDm5yIm3/yTVpf8zTWEn31lUTnCLxd8FEewmFl5sA1agp+8O49HGIlFehx295ReEZAn/EzxScQTbrQayPEMVrfZ9BTfAw==;yyGuj/fa+Mp2+y2Ep1g6gw=="
+secured: "JHPYUpnJlABeKUyyJ4kj/actKrBtPztK4Ub4IX8nQ8/aQ5Jgaviad4EEPNQK5Zsmtch9GzYfMxNcam/FqjukP6Bp5zr7QbJA3bUEsE03gmhe35SS3SDMS6H/UHMb/CXiupaU75uFimDB1l/osvxQD81a6fPjnkbnqmEb2h0YwPkQ7377B5qcai8Km+DxgpnSyxxrQSlCo/un4GrAAc7GIa0p4KWgr4zUPA9OJ4cFgG4TdxaVU2gZAnc2MtQ0BZV2D+ixrL23g9qML9YGJmlYln02MZwSjhb2lEjSj5egTWRrJBwdyBHFlTHbjlcaCFcn6BQ5+iojF5qLPFiI+z10C+qw9G7tRTNpicb2lkG5BwxB70tWihceP6lynSkHkJlk3qBSUCXmnYHeCdu1ehyMbQ==;+sv/iAm68lLSCNNsTOignA=="
 ---
 

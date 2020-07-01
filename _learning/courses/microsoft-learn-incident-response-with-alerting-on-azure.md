@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 53 mins
 ratings:
-  count: 1191
-  average: 4.6439967
-heat: 55
+  count: 1192
+  average: 4.644295
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Improve incident response with alerting on Azure"
 
-secured: "+Fqv3MnU8BhfV2osxzhmuH3MfjgYADtBErkTEXY0pSW9rqqAOfzf0uEC0FhBKgVCSxUvUvUuXAlX5y4pTnQoir1DFQ4hHh30JuQ7/45Aft3A2uOlMgYxuPGFqDFLPJNV3etcRxa18NdsS1gliSQXh1R0Moga0vNKoeSQrBdVmPz4rhtEwjaBy7p8aKl/RqIgs1KwptBTPFya4lvYq/A+CotTwjDEQGqKa+MZaahy7jDe1XYMRUq0m7fHTSEGYz762Zf2HdPN/3TPvUt3V7sBC0Wvk/1qXJgikKglDEptCpVfsoS52xZiWKQ7759QQMEJToCOBgG9HQ08nrt8UgsjHqMEWvaviJdUlT23vA8mzRZNL1W0uX38Loi+ogBlno90MdqgrwoIqn6B35yuig1GRA==;dtIJxZ8ucXAREdfKarppXQ=="
+secured: "WD5vDCy17MjVgXJShOSDFRkOyp+E1MJf+/w20wSmjIk4DZ64D8l0Dvap/aS6+NkKdeBOenLexTWzuU68opZ+SeCtG3JM4XsRVylO1dZynObjERqO7t9XVyuk6jioiEhdQHkGmJfOHDkq+6bVjZGTtXeZv5tEwNDKyZsWWIkRh7gHVVw52KyiOAQfwG36bRQLluEDmPJDXbcmNeoeXGTq91kQRSOgV2vGLpDwasQjeSCJno+wecAtpaE6MXexVEVA+RZ0Mjkvx7Pu2aVi16PdpMdEGuqF4gGF7rCVnFAMi6RftFQNODNbeP9wku3FJEf1kv6Ze3MAfL5xerd0qjN5K8e/LASc9aJMi2LD3/KUfrkuaqszGKsWmtceYRejPREbCHsndjOfoEt2lSLj6wZDVg==;+IBlBYX4dSgYk0yOJk6Aaw=="
 ---
 

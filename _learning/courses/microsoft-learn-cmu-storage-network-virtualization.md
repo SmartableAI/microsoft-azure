@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 54 mins
 ratings:
-  count: 25
-  average: 4.68
+  count: 26
+  average: 4.6923075
 heat: 50
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Storage and network virtualization"
 
-secured: "XM20Fyq80or0bcxIMSV3gnQ53T59ah20hS6a4eCOoO1tCMUvqy/MkEjYrgAofR9hP0MiuL5Y9EFS6FCVjeh18IhsPBrdM5/LupnZLxZhaso8K6+y8xNQtr25RL6DbpmaetqUIDASniyG4G18hQkP2icLe1IpM7btVZv8JK8lr7A1STNRHvA5oWX9bEmqWJUND/fiRZn0Iza/JzVfvc512Qt06sVfwC5htia+v2HMmZ2Owk6Xd2TIU430RoIRyoa60Q2TqG57AcvM+REE6b69+P4JCC6bXDi6DhTLn/im2NWTzhFDTzKpgs0AeUMHRp8grxx5Ql8HeCS12fC+seMqL/YuNwVzk7RyNtNyEvsi4wTc8U5GI/JMENGm+imYK9XceFpymj3ZI+t9UfEpZTnCLw==;Ei9nATqqLMa0Cni1YdpnIw=="
+secured: "7Fbksn2kPbyCgvV08W9JyhjqIW8tPuMbi/mXesds/Eo8Zj2bfJllIv/kU5Ent2OTppUvj+YyOpZX23FzGGwhs0eDEftgOEti0ZVw4PRX1eKtwZahQHwiDk0+IhJozk4zfXQM7S7NqDX2JNMskPN9sgHeB6gzbJWBKaSSeLFaSA6N0ESrsorqYX3ko79SGo+1s5F3WkdSiXSN2fe56Te6DlEFdcw9OxbNievIpMYaJ39B5lPnAZPZEHyhyneonnRNCrJFGCtynuQVKwe0ZTkhkjghAdLgO9kU61PNlYK/vDc7V0uQbrGKNgs2PL521RyvOpuQpdQJKG4wArOv1JHGDep0ZBm1LPDPgYlH9wnVC2TsFPGBo3bsx8Xzr5ZWzUVu5uWZ5bLbgtFC+anzXIiqrw==;EOABdctm2GxHnhZ2faOsOA=="
 ---
 
