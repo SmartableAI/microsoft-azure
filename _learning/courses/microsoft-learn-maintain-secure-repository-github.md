@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Maintain a secure repository by using GitHub best practices"
 
-secured: "5kzSq1Q3Nk2+jwH/JY+o84dc2Eo1Jbyi05y4DrP+p2U9Z55afY87OcLqYHk86hCu5/tUl3IZm3mp0fM+p7rVwAXFZ5g1uOlYYhomTLjPfyBGtIrl82QdOv6CPV50CA33Nqj9EiD+XUa6BeR+g2ScfziBKtdkyNSmyJ9LNzUcBlkfD750jb7tb6kFxfJf/tAUnVO5fUB+bf7DRrlWbcagqIeAuEwX5qCkWLlsxTJgG0wrDmT8tRhn6XdAc90QgU/udUamxNApSVxzoAPxVLy7jt/CVNIm7MQelXEE6bDi8iR4Yvld855LuVRaDB2CdIKelhOCLEQzFr3+N83m3/Y8uoW7ePM6GNhuwdu4tPGZPZrUqxBaXImRjqrBxhhKHsYOlxVDkJ3A17KMNfLYiZMEcw==;+VlsPV+LIxd/ImaDqxGxnA=="
+secured: "xN5F3+dND5sZRAS5H7TwkDtUDORIqZmvC3E0R//CyO98jk6P+NAYPgMgTDnlMZ1wMZCzb0L+pjI/uh3OmIzWVrLNkXLJXi4wKoNFGW/ki8UgOE8Do7M5cuCiUreWUP8AXXSyGR+FKLy/5W+hxLPURl41NxfaFFKR4xys5PwIqlsGSUG4UU0v+8YCS5eTgFFuRLsv/lfaV889R8BbdwyLUGZ+XkhS1iJ9mtrdzZCO3emT+0FC6KNEDhAd+ZrYEy9CfDcAyht7hPSuhStcyrjlj5kzqC9og2rhg9QszIcc/K19gSkQ9PMndcFy51BbAb6GCT/0bfjfLQ2aPSgtX2qG+bM20WDthSpdDy479YRH3cYRmCKtcMy0FCgWHvG2lTrk7/lC0eKZrMkXPWc44cPv6g==;dWXwKVHCGCKKyQHROH9OWA=="
 ---
 
