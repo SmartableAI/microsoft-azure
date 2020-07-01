@@ -1,14 +1,14 @@
 ---
 title: "Describe the identity and access management capabilities of Microsoft 365"
 excerpt: "Simplify and protect access to devices and apps with intelligent identity and access management to increase security and productivity with Microsoft 365."
-webUrl: https://docs.microsoft.com/en-us/learn/wwwl/describe-identity-access-management-capabilities-of-microsoft-365/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/describe-identity-access-management-capabilities-of-microsoft-365/
 type: course
 price: Free
 length: PT29M
 ratings:
   count: 5
   average: 5
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Describe the identity and access management capabilities of Microsoft 365"
 
-secured: "qh1Dqv9CIwNxZBjjcUSs2IngX5+cI/YW37uI2+O6ZmSfB+NRHOySWcurPHLY5lKDTfAwEP3AKL9+6jdhLjxdeVBKo7wSQaH4th6VZMaaI0xpMejB+DiHkgriJn7Wk/kjYi3O8qx+XSWRwdEHCavxNnzrbNQ2e71NsZnlTjbtlAIlc5UQDZLwwTFoKombyzDUJqp3mnPJF4+PbjSPg6VfAkgIVs87fKH4YgjMU0+diDhmyzDmakKsXNqYQRQ8tcdzEGcutW2VNeeZlvwNfVaRQ/FkQycp2TZNV8eUbNgVKCYJgX0lNJAbSlVui+OAlP9IA6zgqkByj85EK0HZYZHrVoFJhebChEBQGnqyJIRvaK62P9dxIacewK3yNKxsoDWsN0WuXyea4f3FSnAhShSctQ==;IbrVo/ridypkDtUAWVrHxw=="
+secured: "KHl1R5ZJmq0LDudaoPYxtY8V9YuU76wjunAAW5zAhpln+B6Jg11nMaql//mu8B8I2sOIZGE9l3Mv7HuazbGkXJTg63U0lZAjDyYs5StoT2Hajfj+57eL5OgYCXlmdlh/MRQAglmwa+9YyxOG0OHw7+OdM+X5oGuOz5gFWRoVn5XUGWet6APJ+XajSqK0lA36cEBZGCdQKMvJ+/s0LtFxZys3VFO42Y18lOBWcpHxRINBPQiBnBlK8gLfORZiry82pQ06kp27se3IDceHP6y6D2giCLOWunJMJHXSNrD2Gn3pUCgigf9ZWE9Jp8Wo3PYBmZ7ittHFEy6G0OmB1LW5P8XA3rjD4mOcBZGKtNKLQKM=;fGwIJOmbARlcd0Wop+32gw=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "Interested in building end to end IoT solutions with Azure IoT Central
 type: collection
 price: Free
 length: PT2H58M
-heat: 50
+heat: 75
 
 provider:
   name: Microsoft Learn
@@ -18,6 +18,7 @@ items:
   - courses/microsoft-learn-create-your-first-iot-central-app
   - courses/microsoft-learn-set-up-rules-take-actions-telemetry-data-azure-iot-central
   - courses/microsoft-learn-manage-iot-central-apps-with-rest-api
+  - courses/microsoft-learn-continuous-data-export-from-iot-central
 
 levels:
   - Beginner
