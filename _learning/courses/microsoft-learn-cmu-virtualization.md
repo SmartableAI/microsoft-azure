@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT50M
 ratings:
-  count: 80
-  average: 4.6875
+  count: 81
+  average: 4.6790123
 heat: 53
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Virtualize resources in the cloud"
 
-secured: "eFLheKvgkqH2QQm7Mn/3KynFRyhUVxRoNlpmJR2i6tO2SANqLSHnrnk5747BHyYymIalqhL17XofwdTwBlk+DFgZwaMU5MqYcPb8B00Z5RidjvHiefHlflQL8hU+rOJMqMR26km1wgAPSiX4neiWrxYp2rpjpByQzwHr8/8EbqEBM5eBc5p7qi5Pn+wKl410yvCIyHlWJrUYNw5ar52XPIVojsOuntELjglqxlqqN6NspJH+VyS1HXY0QwkCPvLW1ceEPKLz50imP2M83cpJS50bTDvqXaA1dFFiHW/fWJuHIc5lYxmAh9krJuX2srnZe0ddcVL0kmqK45C7uSjlV1sgqoec1wEGsXGIlnFQz5I=;XVGDmTbP4tzolgS39qa/lA=="
+secured: "jOh+4YcHkCBwOIwfW0aLfBDQ/GinqFd63Qdhj1VzrklW8gn6yZURBXW1gbjAB8FDo3VXZqPAn087BsZBZZIwfG7FWo6KmyHPRL5wQ16quF5be/P5582rFoSRul+A8wP7NgWAfR+PF34UYdmxyY2Yhzo/++o4kN2lGDU7beYSHcNvdeSvHE1aqG+9aAUOxVoprsC+3JIF66yD1ZNQfiCuoosrdd5YTNl2OzNgZu7slXR32ZczEhPfHrO3alQgz+D3DEIVyvVi6yzWd+IKbbqxbyJoRgh9wH2g4ySotOo5bGHlLfv+qH+Ml+aiBPs5kt8onvzqoF2kd9zgA4f06NivtYnlrXcPQ/2v+JQPw1+QRfM=;07I3pLprJ3Y4Fvq64BeL8Q=="
 ---
 

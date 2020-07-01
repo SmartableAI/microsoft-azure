@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Add and size disks in Azure virtual machines"
 
-secured: "I0pJxotVqsbdwR7ffDD/BJW0Jhkv3v0BD1UWLz2dJrURhhm95eItgg3ngBX/Iv3AOtr31Af/9SiTFJ7N8a51llyIhq867HgbagtTczTkZdl8lJ69Q+bG9JrAfJ3sEjED6brGbDKy1kxtbuUdYwoWDlvyv/fuWzHMYv4gzelqoMcxkjoaGzn7VStgsZNhKSLLB+XRRCByMbW0zl3V7jVpTdop5t1QqSR24m6HJk45FlY/df4JuxuBXvt0Nvzn+uBUxqY7zB2xtcV1WJSv7yg7Jiek2H6szZdE1cG61r/J76gYxZiyJT0FwBKlLY0Uw1+NZ0igSCx7FiGB1L6CUY1FloOlLF21IZYxD/POfMC0Q4fUvEsR2Hxf+CJ9U04/Rpo3WjlvneRqwxnmQ2qVpWKspw==;2icNUB4NewG+5/+DSw4oZw=="
+secured: "gjwNImJF+rH6kCLQdbCBdTvnV71u+bdZzbYAuwZwO6QD9za7stqUw3hu+a/1rx7U5AtGHrcEBpb2H4U5tHHqFWrgDNbOkcwQNzhXzEtl2ylocWF2PiWrvd3oypNitSZQF5+R9qGdnJpYDfAzI0l5rs6OF/qDYi6mrz/S7y/26CDjftAapyTw21/8gxiR9X4I8g7RsH9mbs1bepIeALRbpSrzbiBThSUKwnq/MMtZBY83ytrPDOpong77MtweNiNsC7UCobl7aaxyt5DjjAFKvoGpzkQqkd6S1pKlRPtwkixoImpZcWwOD45O5c+UBzZIGmxJKNucTHfll+600osr3+/a+7GAFaUQu3LsXpZE4SMFvdfQsAWRGaBprwcTsEJm9+01ptYjg87/sYKEBxMJoA==;qdWQNcVOfZ/JXZMqT/negg=="
 ---
 
