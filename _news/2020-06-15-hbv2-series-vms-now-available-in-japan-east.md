@@ -30,24 +30,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Azure Speech Services REST API v3.0 is now available"
-    excerpt: "Azure Azure Speech Services REST API v3.0 is now available, along with several new features. "
-    publishedDateTime: 2020-06-25T16:00:28Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-release-for-azure-speech-services-v30-api/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure Sphere OS quality update 20.06 is now available "
-    excerpt: "The Azure Sphere OS quality update 20.06 is now available in the retail feed. "
-    publishedDateTime: 2020-06-26T19:00:42Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-quality-update-2006-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
   - title: "New general purpose and memory-optimized Azure Virtual Machines with Intel now available"
     excerpt: "Today we're announcing the availability of new general purpose and memory-optimized Azure Virtual Machines based on the 2nd generation Intel Xeon Platinum 8272CL (Cascade Lake). This custom processor runs at a base speed of 2.5GHz and can achieve all-core turbo frequency of 3.4GHz. It features Intel®"
     publishedDateTime: 2020-06-15T09:00:47Z

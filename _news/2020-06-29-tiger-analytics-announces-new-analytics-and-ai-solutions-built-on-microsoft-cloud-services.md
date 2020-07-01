@@ -21,15 +21,15 @@ topics:
 related:
   - title: "Corrata Announces Mobile Endpoint Integration with Microsoft Cloud App Security"
     excerpt: "PRNewswire/ -- Corrata, an award-winning mobile endpoint security company, today announced availability of the first mobile endpoint integration"
-    publishedDateTime: 2020-06-30T11:54:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/corrata-announces-mobile-endpoint-integration-with-microsoft-cloud-app-security-875399518.html"
+    publishedDateTime: 2020-06-30T11:46:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/corrata-announces-mobile-endpoint-integration-with-microsoft-cloud-app-security-301085864.html"
     type: article
     provider:
       name: PR Newswire
-      domain: prnewswire.co.uk
+      domain: prnewswire.com
     quality: 18
     images:
-      - url: "https://www.prnewswire.co.uk/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
         isCached: true

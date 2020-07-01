@@ -1,13 +1,13 @@
 ---
 category: news
-title: "Azure Files share snapshot management by Azure Backup is now generally available"
-excerpt: "Microsoft Azure Files offers fully managed file shares in the cloud that are accessible via the industry standard Server Message Block (SMB) protocol. For users of Azure Files, share snapshots have offered a read-only version of file shares from a previous point in time. Share snapshots are also incremental"
-publishedDateTime: 2020-04-29T09:00:53Z
-webUrl: "https://azure.microsoft.com/blog/azure-files-share-snapshot-management-by-azure-backup-is-now-generally-available/"
+title: "Azure Firewall Manager is now generally available"
+excerpt: "Azure Firewall Manager is now generally available, and includes Azure Firewall Policy, Azure Firewall in a Virtual WAN Hub (Secure Virtual Hub), and Hub Virtual Network."
+publishedDateTime: 2020-07-01T08:00:06Z
+webUrl: "https://azure.microsoft.com/blog/azure-firewall-manager-is-now-generally-available/"
 type: article
-quality: 96
-heat: -1
-published: false
+quality: 97
+heat: 317
+published: true
 
 provider:
   name: Microsoft
@@ -19,30 +19,28 @@ provider:
 
 topics:
   - Azure
-  - Storage
-  - Management tools
 
 images:
-  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/202fa2d1-fc33-41eb-94be-957327f62b0d.jpg"
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/48d05065-53c7-4758-8091-6b72d3df73d0.png"
     width: 1024
-    height: 608
+    height: 367
     isCached: true
-    title: "Azure Files share snapshot management by Azure Backup is now generally available"
+    title: "Azure Firewall Manager is now generally available"
 
 related:
-  - title: "Azure Firewall Manager is now generally available"
-    excerpt: "Azure Firewall Manager is now generally available, and includes Azure Firewall Policy, Azure Firewall in a Virtual WAN Hub (Secure Virtual Hub), and Hub Virtual Network."
-    publishedDateTime: 2020-07-01T08:00:06Z
-    webUrl: "https://azure.microsoft.com/blog/azure-firewall-manager-is-now-generally-available/"
+  - title: "Azure Files share snapshot management by Azure Backup is now generally available"
+    excerpt: "Microsoft Azure Files offers fully managed file shares in the cloud that are accessible via the industry standard Server Message Block (SMB) protocol. For users of Azure Files, share snapshots have offered a read-only version of file shares from a previous point in time. Share snapshots are also incremental"
+    publishedDateTime: 2020-04-29T09:00:53Z
+    webUrl: "https://azure.microsoft.com/blog/azure-files-share-snapshot-management-by-azure-backup-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 97
+    quality: 96
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/48d05065-53c7-4758-8091-6b72d3df73d0.png"
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/202fa2d1-fc33-41eb-94be-957327f62b0d.jpg"
         width: 1024
-        height: 367
+        height: 608
         isCached: true
   - title: "Azure Firewall forced tunneling and SQL FQDN filtering now generally available"
     excerpt: "Two new key features in Azure Firewall—forced tunneling and SQL FQDN  filtering—are now generally available. Additionally, we increased the limit for multiple public IP addresses from 100 to 250 for both Destination Network Address Translation (DNAT) and Source Network Address Translation (SNAT).\r\n\r\nAzure"
@@ -140,6 +138,6 @@ related:
       domain: microsoft.com
     quality: 59
 
-secured: "TCWEy5kSsBsBX26fzG08BboxmhUAHu1qM3miUoZniFd0qqanO5T84tCaMDEaeMtKfXIpIpCOed+Agw9TSHQ+P9ICAqN0Q3cdZCkizifMhvBBbes3uap5n1WVlrA1LhR3R2f3hfcpOLYfCE4ZMArhkE26gotu3+K+fblrDcf/MXZqNMYfAhv5RH+0HurF2nFGBl/qyf5Z1XMfyaJGAeJuyaQL80gCrrDRkNRZGmrJXMLSjtLFEWevhZuHBL/xxqc2nLhRGuab+sK65UfqDaC0T/J4mDHk2/0d9Xefjtzo5oGXfMSBrni1mdI5xSb/+bgLWKJXbW3tdbQqJNCwwl4rXQ==;kSNq5Y0dE8plNPTDIBGO/w=="
+secured: "F8bqRwTgblA7Xcoi6LhC1oTWNdzaaNQPrXbYjdaK2LvP25ViTlmzlDbz+XKD9yTkUIRCAF67W5WlF1yXA//INBSDFfnjN/RcZGS7XJ2GVYDttChBAPH/8qxjPyLgObJiNF/2E/yUvQdKklbraJfMbg9ps1ldCFb9AFIvsbtRKDaqj+tcGAQN9PeImSxEgJSilynxtRpfKnlYk1xY8dzNacQsmoAQwHVAGF/HSl2YyTv2IZ2UhNs890x0lQ7B/nwxelzhRr9FR7sqCCY/pzxc4S1iGkQGhSYyC/cjzAD9Fih9QlCB2efMwubNVMDleg+n/wbJsj2xZyGTrSLnmSbb8Q==;04ZiaRSXuJIzggxvu9Hqig=="
 ---
 

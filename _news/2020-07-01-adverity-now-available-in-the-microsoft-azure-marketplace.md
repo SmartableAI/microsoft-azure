@@ -1,28 +1,42 @@
 ---
 category: news
-title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
-excerpt: "Stock quotes by finanzen.net BRISBANE, Australia, June 10, 2020 /PRNewswire/ -- Codafication, a software start-up that empowers enterprises to digitally transform at scale, today announced the availability of its flagship product Virtual Assist in the Microsoft Azure Marketplace."
-publishedDateTime: 2020-06-10T23:35:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
+title: "Adverity Now Available in the Microsoft Azure Marketplace"
+excerpt: "Adverity is a leading force in intelligent marketing analytics and business-ready data. Marketing data is a critical asset in helping businesses pivot, adapt and grow, but data complexity is hampering success due to the lack of understanding and ability to incorporate meaningful insights into positive outcomes."
+publishedDateTime: 2020-07-01T15:37:00Z
+webUrl: "https://www.exchangewire.com/blog/2020/07/01/adverity-now-available-in-the-microsoft-azure-marketplace/"
+ampWebUrl: "https://www.exchangewire.com/blog/2020/07/01/adverity-now-available-in-the-microsoft-azure-marketplace/?amp"
+cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2020/07/01/adverity-now-available-in-the-microsoft-azure-marketplace/?amp"
 type: article
-quality: 73
-heat: 333
-published: true
+quality: 57
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: exchangewire.com
+  domain: exchangewire.com
 
 topics:
   - Azure
 
+images:
+  - url: "https://www.exchangewire.com/wp-content/uploads/2019/12/adverity-logo.jpg"
+    width: 400
+    height: 400
+    isCached: true
+    title: "Adverity Now Available in the Microsoft Azure Marketplace"
+
 related:
+  - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Stock quotes by finanzen.net BRISBANE, Australia, June 10, 2020 /PRNewswire/ -- Codafication, a software start-up that empowers enterprises to digitally transform at scale, today announced the availability of its flagship product Virtual Assist in the Microsoft Azure Marketplace."
+    publishedDateTime: 2020-06-10T23:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 73
   - title: "Zixi Now Available Through Microsoft Azure"
     excerpt: "Zixi Broadcasters will be deployed on Azure using ZEN Master, a control plane that enables users to manage large-scale configurations to orchestrate, analyze, monitor, alert and report on live video streams and devices across the Zixi Enabled Network."
     publishedDateTime: 2020-06-17T14:56:00Z
@@ -38,22 +52,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/b4pDwTCQEtLC6nRcpfpfYB-1200-80.png"
         width: 752
         height: 423
-        isCached: true
-  - title: "Adverity Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Adverity is a leading force in intelligent marketing analytics and business-ready data. Marketing data is a critical asset in helping businesses pivot, adapt and grow, but data complexity is hampering success due to the lack of understanding and ability to incorporate meaningful insights into positive outcomes."
-    publishedDateTime: 2020-07-01T15:37:00Z
-    webUrl: "https://www.exchangewire.com/blog/2020/07/01/adverity-now-available-in-the-microsoft-azure-marketplace/"
-    ampWebUrl: "https://www.exchangewire.com/blog/2020/07/01/adverity-now-available-in-the-microsoft-azure-marketplace/?amp"
-    cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2020/07/01/adverity-now-available-in-the-microsoft-azure-marketplace/?amp"
-    type: article
-    provider:
-      name: exchangewire.com
-      domain: exchangewire.com
-    quality: 57
-    images:
-      - url: "https://www.exchangewire.com/wp-content/uploads/2019/12/adverity-logo.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "Qore Technologies' Free 3Months Usage Plan for Qorus Integration Engine Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to free use of Qorus Integration Engine to mitigate the business implications of COVID-19 PRAGUE, CZECH REPUBLIC, April 15, 2020 /EINPresswire.com/ -- Qore Technologies today announced the availability of a free three-month usage and consultation plan for Qorus Integration Engine in the Microsoft Azure Marketplace,"
@@ -200,6 +198,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "/hISVyc3CYTNjS0FPVDpgMbn8UdeKxD0flBrwKbVNN5sQ/TAk7Gb7s5gusabeYBFdUXZdxUNAw5+VlMl65oLBD1LLSEixEe1JHN1kEep0pdll+p/c5LC7OKEN4lsOzqlrdRfIJSBTvcskBmzMSh7Z8Tq45UT0J15TEnxV0XvsoieA3NolYycR1WBbmNBImkcx5bgoWLDLYBMUVOOu8kT/P/KYa1HOR1EpsKmPe8MpJiS38JfOVgrYbqzhHDQIg0Qf+WVU+/Gpz4IN32YDsMbIyrm04LsGDH6QSBZtLp8iiwkLcB6vhwhnVm1GTYTsEQI;Hksodcc4AXtkQX1pqflbRw=="
+secured: "RoJ5xGfLgHwNHQp1c9gZ+zg2M8ZrM8dSNDHRrX+2MnNz+TMl6bnETERDqA92VZzzabrcftcSKT3x6hY6JfyNam7P//hI/ZaeBRNWL+8sxM0FJiFMihjUCUPO1/Yh5ejJuCkI/WLNqk0+3fOXHy8y5WXriM+vKEuwACa8eLeTNggTae+fCXb9/Z2XtlIScwTmjA2MHvjb1FFQlObKCg/QMdn+keGqwnDMYJs9F/prRDCrc9L57zk86DBr4hMUJdNBui18kxnBmX85B9OI4FCQlxCneV6Qj1YkW2LBLsWExAnrbl0LxAzp07R1mykgcj4FB/y7KVZARcLso/gu8bxegg==;FV1wGrjWg+b0D48kPWlqpg=="
 ---
 

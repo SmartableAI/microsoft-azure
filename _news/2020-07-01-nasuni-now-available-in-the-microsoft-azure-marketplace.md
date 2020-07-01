@@ -51,6 +51,22 @@ related:
         width: 752
         height: 423
         isCached: true
+  - title: "Adverity Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Adverity is a leading force in intelligent marketing analytics and business-ready data. Marketing data is a critical asset in helping businesses pivot, adapt and grow, but data complexity is hampering success due to the lack of understanding and ability to incorporate meaningful insights into positive outcomes."
+    publishedDateTime: 2020-07-01T15:37:00Z
+    webUrl: "https://www.exchangewire.com/blog/2020/07/01/adverity-now-available-in-the-microsoft-azure-marketplace/"
+    ampWebUrl: "https://www.exchangewire.com/blog/2020/07/01/adverity-now-available-in-the-microsoft-azure-marketplace/?amp"
+    cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2020/07/01/adverity-now-available-in-the-microsoft-azure-marketplace/?amp"
+    type: article
+    provider:
+      name: exchangewire.com
+      domain: exchangewire.com
+    quality: 57
+    images:
+      - url: "https://www.exchangewire.com/wp-content/uploads/2019/12/adverity-logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Qore Technologies' Free 3Months Usage Plan for Qorus Integration Engine Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to free use of Qorus Integration Engine to mitigate the business implications of COVID-19 PRAGUE, CZECH REPUBLIC, April 15, 2020 /EINPresswire.com/ -- Qore Technologies today announced the availability of a free three-month usage and consultation plan for Qorus Integration Engine in the Microsoft Azure Marketplace,"
     publishedDateTime: 2020-04-15T11:11:00Z
@@ -182,6 +198,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "0bo//MITfGEHVijEeiw6gZynfOhrs28NK0el1s36GSYC0TJiXVPWJqfdjsJepeKFxaPTf3U4R9iHKWeGJ8Ofx1v57TFHCE2EM/eSibXgGZb7aR03/bU5x5Be9++tW14QM9J90rHzx+tOx1JMRfLgp7i12fOPxUhRDw/QQrrVKKebw2psCH1EEK2FeEBvja0lecw9OMunKBvFCY8Sa5BkDUrMEdsGP3xhyOv5tp5cfqdk16ZzZqmEB1NHbQCEjyogFuLgjzhyCGB3Wu/ntMvLXUKUJlKYMiwcxCfK2Lg6Km8Wtahob9inXJhCqeaFqjmLSyRFzY43Odfwg5LuE4ZWnA==;ycSt2uHk7zoPbw8sFt2ssQ=="
+secured: "nU6bHoq4zPe0h9t5QD9vKbyQQcmlyZ8PjwtIUACs+v9vHI/PYduGbJASWgkW/yXqKqzIOTLPaOKIkj+f9ObAJaBfdSGtOLb/luvXy4d1so1a1ka/9gooXib1FA1RWQ0W7qojsx25V3O7CxdCQAbNpskvr1GCgJ2qsi9VDofpwFewrlpxk2QKzEtsZzGYB70fq9yajCCxS0h1AiC+v8M3+jv+czX4UYLpwaHcaZt5O0Zwp7rgFIyIEf4DPcMkTFoz+CdTbSF4776G2IRAfuqQ37kezbj94gH5tpsLCM0bTsQwK7St/OWTUw/q5RQpIqwwYmPDktvPgHc9l5Ov3M+kEEj84M5++sdcdmXnH0op5D6P3lznfp3lsV9Jy0WZBCUOpDYG6/Rj+UF69EvI1G4F39VrQk3KWuTP5rgXKza0+I8raak+oCLI766L0icZHHC/elinmw6t4sxIemuwkEo6gcg+J3XoUbjXCtHWJBT3KUjKJX80vll6EJN6ANcxlWGTbM2erCtszO6cOwBmkyVOpA==;5zc4INQUA03c/uMtvO2H0A=="
 ---
 

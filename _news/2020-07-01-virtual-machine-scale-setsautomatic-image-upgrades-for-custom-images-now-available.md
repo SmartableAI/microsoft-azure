@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Replace existing disks is now supported for virtual machines with custom images"
-excerpt: ""
-publishedDateTime: 2020-04-13T19:00:06Z
-webUrl: "https://azure.microsoft.com/en-us/updates/replace-existing-azurevms-custom-images/"
+title: "Virtual machine scale sets—Automatic image upgrades for custom images now available"
+excerpt: "Virtual machine scale sets now provide the ability to automatically deploy new versions of custom images to scale set virtual machines. "
+publishedDateTime: 2020-07-01T15:00:02Z
+webUrl: "https://azure.microsoft.com/en-us/updates/automatic-image-upgrade-for-custom-images-now-available-for-azure-vmss/"
 type: article
-quality: 58
+quality: 56
 heat: -1
 published: false
 
@@ -39,16 +39,16 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 62
-  - title: "Virtual machine scale sets—Automatic image upgrades for custom images now available"
-    excerpt: "Virtual machine scale sets now provide the ability to automatically deploy new versions of custom images to scale set virtual machines. "
-    publishedDateTime: 2020-07-01T15:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/automatic-image-upgrade-for-custom-images-now-available-for-azure-vmss/"
+  - title: "Replace existing disks is now supported for virtual machines with custom images"
+    excerpt: ""
+    publishedDateTime: 2020-04-13T19:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/replace-existing-azurevms-custom-images/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 56
+    quality: 58
 
-secured: "+xVeTilyERyRIPadPfsOOQQyx6nkG7YvJxUX28QGSWRDeNjndC09oJtrAFhci2qSFl0AjeAxoPlOAcM1iZwNcVXYlTK10QZH/ZE3eb5Or33yEds0Ojz2pZ6Lh1BOyX6HR+hFhkEQAh2cAHtPLnEJohv4NYRirtYC5Hjm3xQco/TueUQ2ymGP0Xg2GOhQQ4Y3uqvmb+qn81a6hQU4pii68EL9o1o1cpHaoFOH1BOU0B6l8mCRDNLFu1MXTJAyVKCs2uRd0LEyxIeghGTf6XTL0atDlM614DuV7KZK8UGp8fRZIB7B/viO3A6ByUXsAYEwbjvKx2DSPqvn7idPp4U+QA==;0HkyyQDtyg+wkuOF5Scl1w=="
+secured: "9cTJTbIr8o1wuLSMh7BWnWgtT4AXInJCA4sFIy9tmEea8wArALbE4m7nlS85MFCBJ8ei7Xf1JBMuxYB/SZNgnEr3LzngsncwnPDe1npxDPdUz4PZ4oCd8fQu3TyjPbPXK0lP70X4VlNZBSkI9bZwaJoYP0B046yKAoEGcATYzLDHqcWFhQK2u5LUn9soc2Dof9Ocf30AssEOPqKEF09/P5nv7Q4a3+AcumOOC4c0LErN2ApHJwjXPR9zDh8VAzaGNStl84GudhnNF5Sye4Vu9Fp4vNqZvMxsbsAeAmieMRSJfj2Zbmge5QayzOPgmnTdIRiEHZhLkCvRnVH8DqpB8w==;y61J1Fjl2vxjVwiAJ3xyYA=="
 ---
 
