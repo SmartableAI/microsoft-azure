@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-25T10:00:29Z
 webUrl: "https://azure.microsoft.com/blog/azure-support-api-create-and-manage-azure-support-tickets-programmatically/"
 type: article
 quality: 99
-heat: 100
+heat: 99
 published: true
 
 provider:

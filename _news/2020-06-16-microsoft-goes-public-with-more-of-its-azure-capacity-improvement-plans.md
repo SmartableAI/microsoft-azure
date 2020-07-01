@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-goes-public-with-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-goes-public-with-more-of-its-azure-capacity-improvement-plans/"
 type: article
 quality: 77
-heat: 118
+heat: 117
 published: true
 
 provider:

@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-25T09:25:34Z
 webUrl: "https://azure.microsoft.com/blog/introducing-azure-load-balancer-insights-using-azure-monitor-for-networks/"
 type: article
 quality: 100
-heat: 121
+heat: 120
 published: true
 
 provider:

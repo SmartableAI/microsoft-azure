@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-24T11:00:16Z
 webUrl: "https://azure.microsoft.com/blog/stay-ahead-of-attacks-with-azure-security-center/"
 type: article
 quality: 94
-heat: 95
+heat: 94
 published: true
 
 provider:
