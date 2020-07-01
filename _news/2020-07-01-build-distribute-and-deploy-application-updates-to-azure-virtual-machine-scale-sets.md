@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-01T09:00:07Z
 webUrl: "https://azure.microsoft.com/blog/build-distribute-and-deploy-application-updates-to-azure-virtual-machine-scale-sets/"
 type: article
 quality: 90
-heat: 90
+heat: 91
 published: true
 
 provider:
