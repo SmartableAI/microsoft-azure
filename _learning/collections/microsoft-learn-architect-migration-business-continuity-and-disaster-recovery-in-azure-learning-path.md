@@ -42,7 +42,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Architect migration, business continuity, and disaster recovery in Azure learning path"
+    title: "Design your migration to Azure"
 
 secured: "KYpkLgo1b25l1P5+IOPVNHJPKcWDKZi+MIp+/7m+L/6P99CpoSk7nUfINpC3o6d13e0J5iJFbMfwt8adcVSp1h6bCPI75k3FvOM/1uAeG0bBgDAKv/hmteJq62oUtEHVwsPvqkD0J/koiPCdsqDYBC3PrjYtlzXir3EORDXid0jjka70F55z5qsZQgp0eon0EmQWy7CLiHgkoft4ONBwuKD0wrbjlUdn53k2JhyjmEnhjNNk4Z6O1uUIGJ0Ntl7qoJ2MW48HjryTNFuUQDP143sAupcmgxe5Aqyre1x3gQoNcZ+wheCS92RYFV7bQF7ku9RKwZZ790yFMr7YONDYIg==;aq5q9ZwWutxNvzJvjXJekg=="
 ---

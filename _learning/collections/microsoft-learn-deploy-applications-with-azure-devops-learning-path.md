@@ -37,7 +37,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Deploy applications with Azure DevOps learning path"
+    title: "Create a release pipeline in Azure Pipelines"
 
 secured: "/slrqzjcBqO6PVV07hym2bYwPa7Tr/7EBIJPtIZmhrpY4wgealYBBvdRrsJ5bY1JoagbVd0fUhuZyFIdgizsN7wZF/1uZ9OSsMMtcHmLTOS3HQafpgmpeBizwp0e4KE9xsaUGfYjGayPJwXmRMoj2ckNbuxdTqV56l5PFQo6mhtuyewHcx7eznYXZ1R8TSGmsbR9a2mhJobv7nJF/+6lut4MtoCRhvfHg41Otrbz9/U90BhTfEbiX1mhKCpt8Gymeif87j9qFi045hgnmsLgXKso19WDTfyMQ+6/zuDodJL32WLrskVcf+xSFRw845P9DC2f2WDQtMPoItQ5wwCetg==;Z7touw9vM8uWmSWY1h+RVg=="
 ---

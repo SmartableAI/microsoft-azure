@@ -36,7 +36,7 @@ images:
     width: 200
     height: 200
     isCached: true
-    title: "Deploy a website to Azure with Azure App Service learning path"
+    title: "Prepare your development environment for Azure development"
 
 secured: "xUjM53ycP0OB+Zt9DoNYUk3MfdtTe27d6kAYCHeJXSL4LFxDkFjtsfSvgayNbPO/n/prQRcErfII2rtNHtqpdjdieG2bs64k5af8MttKCkuv7MhpBMbDXvEyN+fGJZYAUawQUnDLvpRo/IOn4eoejacoYjQ1CA7KiGlHzhXQ8ONF8Iy++UAslWmHVw0e1c8IJtdN+p+UE+a0JCddStGkAOxrLXCtqPaQKtWnFyG4OzELb33+D5d1m2E3oq3/2v2zbm5isM7Y/r7hgjMOsbPqOMvVPwmJSi9foCEIWEQo7vwAYzqSaHz4kQmQiz79bs1gDk0EhRUVtHDOfItnavjH/Q==;gYbJ8jCoBi73QVh5/fjnGA=="
 ---

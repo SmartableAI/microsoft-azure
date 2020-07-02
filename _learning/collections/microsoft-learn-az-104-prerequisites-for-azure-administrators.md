@@ -42,7 +42,7 @@ images:
     width: 100
     height: 100
     isCached: true
-    title: "AZ-104: Prerequisites for Azure administrators"
+    title: "Apply and monitor infrastructure standards with Azure Policy"
 
 secured: "7uauiVm1M4W2G4ivT7uJbE4RvLUHs40MYTA1A0ZSNYtkCwRct+NNKPgu1L1HfNagh0op+2e5OahICfwZTiMW2nLqtj6dtecYE/weZGtYwUwDnl+W0OP41H514u1eFkVyG4IWCQzIX9bkpgs9KrATfxWQ9bVX3d/LXg8Equhjp9DHCGhRlhaUCjA5TeBpeChnfK7AT2O+gvyG46geUgNZG8h1k7/QUiA/PE6UVQiTZ/J+IWuM0n5+1zo/ua+1tUu4RvTnpRH1syhrBXAXVLgK8HFJNgASW5IG/cdqheBTht/K8v22q89sezppMNPxEEDeOaVALY5M/ehy7QHQvVwzzg==;QbNAlR3NnHJ5EJrqOvvtQQ=="
 ---

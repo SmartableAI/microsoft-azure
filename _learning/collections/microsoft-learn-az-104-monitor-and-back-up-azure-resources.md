@@ -40,7 +40,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "AZ-104: Monitor and back up Azure resources"
+    title: "Design a holistic monitoring strategy on Azure"
 
 secured: "1aft3WJW2cRcXH1ywCtwcho495KRUD10U8wrArdLgi/FT3tDYYJm5LTS2DuptgfMsrR86XUNBkQlOM0Y56OSeCTDpQ5WHo0avuxL/tYWt4Xu/9iW8hjfPmYeMekeZdaKix+UdfOobF28CscY/gdyeiBYvy0TJ0Ty64idlvHnxysbaducApGXyZ/6a0zmvA1dFZfRxn1ECRF+Jg6ET/QmBUIZ11ooFnnOJc+VOeonbzNvK1DWQiEph4KVksALUmVM9xHx1AzbHn7OZh98nxlFXZ7PUsWYJ/136hg/8TMRWh+/h9eBL/I8yVmm5MqV5+KF09+QDgirGBLGs5W01TGcWw==;Im9clz3xCcgbKJdcN3Nk4g=="
 ---

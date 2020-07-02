@@ -34,7 +34,7 @@ images:
     width: 200
     height: 200
     isCached: true
-    title: "Work with relational data in Azure learning path"
+    title: "Provision an Azure SQL database to store application data"
 
 secured: "PBGDjmZReuk7WQNKDv8cmTxzQ72czo4swd7mXiM1WjWsrmuaP8H5A39dhXAMq+Z0IEf9xfySyzP7rvOCIGhr0fX6mOR0dtS5/IoNNd5a09+q+Z30x7tM8lYiUVhKfPigihrF3nU8X03nlpovIt8lnhFguW7RiAIXo3N2zElHuuJyPEbhpA0PBJnqtQGOTxmrP1WvUasktjUlrKyJrswMw+jaLo/7QWQlX7L4EWKRezBfEvI0xUtqoSn9zGsKCwlbcG51urs+IxFYc3/nIiN41LEqlq8fXifKKE0Ewfm47tlDf0rfPCMuNjt40GJX1A+Z/O+FZefLxbW+ek4oD/5Kcg==;qp+evt+c+RFTJU+oOohC3w=="
 ---

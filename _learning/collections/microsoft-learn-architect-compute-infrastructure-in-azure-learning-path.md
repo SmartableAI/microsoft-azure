@@ -37,7 +37,7 @@ images:
     width: 200
     height: 200
     isCached: true
-    title: "Architect compute infrastructure in Azure learning path"
+    title: "Core Cloud Services - Azure compute options"
 
 secured: "l2kXGFj2u3O2Age5kI5xTqa9k0nZGDgP+Dyo0/IdkPyngcXIGgkJfovzyXd4PPiFGPB0dz2EppZ2MJPSQjpYxnQ1aO7P4WYo+5gtvFJqRPl7zrrn+U9NOPbOZRWq2Ex9eFqza/PUePInI7cRBLsQTn2qgCv03ivFF4rvLLxcSx1b+CMXjLvgjtSb5xM9z66UkORAjo4fKwVJJNQJzOWVlPMH7dmtzm/IBBr56CHWqynBUSo+N9Pq9bQEeE/mUQO5OgMyuehpflEekrqteZO2fMwlOeqeAOB0UJatIb8mUcdn1QBrgVHRhR+4m9+wPyLiZ4hSVfsv6N3GaN1SxHz6Ig==;RmXr+lZ6PUvdainQXs2zRQ=="
 ---

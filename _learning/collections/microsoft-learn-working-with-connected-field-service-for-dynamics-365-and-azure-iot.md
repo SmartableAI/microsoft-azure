@@ -33,7 +33,7 @@ images:
     width: 200
     height: 200
     isCached: true
-    title: "Working with Connected Field Service for Dynamics 365 and Azure IoT"
+    title: "Get started with Connected Field Service for Dynamics 365 and Azure IoT"
 
 secured: "mTSm6cfL37nwnIwoAfPJbR7EUCqDOGSqSbyrKlPBCu0d3rPn/VbSu3vHiqJyRpqsnjxs2vzXU5jNECtsshL61ReGHmZA9fOx4uL2DMTcg4qNPdYW972iGwaJs1nDntfoNTQbfted+WOA+MBitBnh9VV9N4Iq0QIqi4/3SinLWk6G7n0xEktNWAVvfka9zPZIQJc2CcaJgri7/ss/Mi7i78dugd8UPfKhPkq1K7e/Vzp14eefzu5xKHafVlCfXQOrPB7T6TrV7vIXZgtwFhguN4oI3xkuBZGWuXfmPkuo0TzahfeTnDXIUBbfSKMuOrpbWMBCsXBKkPBfl4cQOS6j6Q==;bjdbOoatVFL8WHKydAFMWw=="
 ---

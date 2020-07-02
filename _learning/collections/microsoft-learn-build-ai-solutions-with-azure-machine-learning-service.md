@@ -41,7 +41,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Build AI solutions with Azure Machine Learning service"
+    title: "Introduction to Azure Machine Learning"
 
 secured: "iTkxOV9qU6WmwJvh3eAcdxwDNXANAKGPAv93Lwtb6yxoj6OknYysTAU+Pjcj1RVZlJJj1IMrJH1bBfkfsiBpuoyTlriqdlOc6A87r0T5Rj49/6MZb6O9XPOA6c5ttnJeNHa+rvbWDpHuqdLpxStYUb9bFVoJNDC63jzkswbqcTDcwGO8PN/ljzzoVc/4XAc0uwTvcByFMlXZY8HAV3Mf8Hs6Rg4eV4BrT+pNdfBppnxajTwtY2Ei+S7tzsT3MH69idMztGzO58iXrXdkz2s3J62Y9h1l1b5GNq3nULfzbsjo1YcEDYagxO0rZfDP3Xn2uFS4DIeNXS86nNMF2LL1Zw==;vnAFsUY8yyt7hAvL7iZLUw=="
 ---

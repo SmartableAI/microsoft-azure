@@ -39,7 +39,7 @@ images:
     width: 200
     height: 200
     isCached: true
-    title: "Architect a data platform in Azure"
+    title: "Core Cloud Services - Azure data storage options"
 
 secured: "uL27I8Qvenjxs8x12BXy/ngEd0TSy8cy0dvcynBIgGOPUtR+SM1MBByb7V37igpxG7WiKLPVESOmoL8GX4XdYc80/tmpXjtKq+YY67TiPMn1JPk92SYcpb/zGLrElSj837rz3vur4FGlJ7SozyTSrv3PdtwjoOFqa39ygueRWCoMcpb4zhmH42P+X9uCMhIpJ+OFLqCBYh6aqBZKUykrj+gMvgSYuF39th/MITzTFY6arQpgMZvdAJYi5j6O6mMfgQ09hwo7UgV3BIB2HcW7GOOUGbNuviL9y+eC8eRYL5Q2Qjw7WKrSty7TTWBDV7silvYmszKCQzchu5WB6172eg==;9ZSjBikMZade86rfjtW/Mg=="
 ---

@@ -30,7 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Run Azure for SAP workloads"
+    title: "Implement Azure VM-based SAP solutions"
 
 secured: "RuKOQC1caLR0tHIcVphcGZE9vpDWsb4r6L1ngJ/wJLT8yoeRSuIlUSy5tmRW9kda80BV8f8IahE4z9miuQWboF1D91DXIm+4AEGRyiYUfdjG72r3zcjwAP9jrDPchlQjJVPw4bBUveXJUnmIBSCiCnljeFj3Uru5nbe4r4mQfxLgG/n2zvjuMdEU87yekpQ82iCyp5Ntn6NIaOWGd4XKnnsjSElDj+GEzMf00LdP9mgMUn/goXJXd9zmdcYYCpMx1DyBq6tIX6ar2h272dnRhO8aQsdmQSBv7sQRSa1ZfPwBJsQWQewvdSuVwg7mxNFO8pJnGjZ7ZHNXxiJCjB+NOQ==;OwmYMnuL/txFaLo08602rw=="
 ---

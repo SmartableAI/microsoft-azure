@@ -34,7 +34,7 @@ images:
     width: 320
     height: 160
     isCached: true
-    title: "AZ-400: Facilitate communication and collaboration"
+    title: "Analyze DevOps Continuous Planning and Continuous Integration"
 
 secured: "6Wn+oh2n5El0EqrKNMECXajUdrYbKZuEHJI97QPcV/QweWnq04KlMuPxRF2jB/edJ4ARrYLk/3NwwnxFiczuoYzHP5E5WW/0EeGIFHW0G7KdSMm3wuQ9Vwnq6FNz7lXyK9cXYgQzgUE5UTJ70zmyTaon8A6pk8tQIAaGZytuHLuFNJD0i+Yesxp0usMqsZuAvrYgjsVJoY6WuIjaxCh55vq+DgBqP0mSjZAJv5NxQbFSOpNPH4XYUeyj0iTJgTVk8oVoZX5NQ/Htwayt715F8BUPxe7nYqkRAcB7k5Uad7YhrzLVMjfeFj6VicESoGCRVN8yTUdrM5nE3SlpKSq3rA==;9CxFUaABr+/EZc0iyNeC4Q=="
 ---

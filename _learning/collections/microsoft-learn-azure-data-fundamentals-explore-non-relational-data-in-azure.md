@@ -4,7 +4,7 @@ excerpt: "Learn the fundamentals of database concepts in a cloud environment, ge
 type: collection
 price: Free
 length: PT2H37M
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -30,7 +30,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Azure Data Fundamentals: Explore non-relational data in Azure"
+    title: "Explore non-relational data offerings in Azure"
 
 secured: "2vmmFzjJBC/axXEdkepQ7ILeUxIggiI3Ih1PtrXMsaHwiwGXxARR6Wu7aAGYbW7MiVBhpdVXrzPubbwtdh3fJwQFY6rqoPl9Q0SGacmpP9eVW0I4JqfJftco9OF+80QinnJPHK7i3e/sv0wtJmDD63HoxpScm6hJN2WvJohPO3pGtQgTSLf443+DfQeSg2plZvJRGu5+/Ap5ATZHICY7YYncy+4V6J86JNB33yN5IK8WJbrO+lSZJUJXfbn1OPoQchNBSisn6Kj261jf6kNmeIr+nLOd60lFbVI3t/kAHpk43LkmLaSMHF6Lq01xUU5CvmH7FZAQOAfP+t+RcgYf1Q==;qjTQCdEN4GkYprwUlrgNPw=="
 ---

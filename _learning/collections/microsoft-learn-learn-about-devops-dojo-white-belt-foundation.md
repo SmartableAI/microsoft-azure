@@ -33,7 +33,7 @@ images:
     width: 320
     height: 160
     isCached: true
-    title: "Learn about DevOps dojo white belt foundation"
+    title: "Introduce the foundation pillars of DevOps: Culture and Lean Product"
 
 secured: "RRSAil5HAGk+Udm+LC/qyTAbZOvieOqvFL8rb2U1uX4ZvAq+4TisjmJuaEQK3uxW/jQIE5UjwpINcPNzxjQ7l/wKUdyuSWZ6uhGArYyKMVBet8hgMB8piyfnU0R3QdCcYZrIESsh0AifZp18xXS26+EDtci+bi0qK4jDmUSra45bIYADJdTNSLe5r8n0hJ3ghI/TeYWQzOgzZluyS79E+DBQXLQdKWC0mPOr7jdxNkEBK8m2ivkvr0uerfUeqmjfi9at3VacPF6/ymgW9V4L0XjhCndFE77845zRUeoZGndYw5h6ydtj/+yG9KJPXJz5TXnSAndUZN6Eseh0G4wZEg==;uHDkqLHum0DVdci9qvM8jQ=="
 ---

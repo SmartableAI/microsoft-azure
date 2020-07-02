@@ -36,7 +36,7 @@ images:
     width: 200
     height: 200
     isCached: true
-    title: "Connect your services together"
+    title: "Choose a messaging model in Azure to loosely connect your services"
 
 secured: "lB7dz7xDxnk+RNnmKLSCjYSoIDEjerAHiKy5grFCAsUu6NIDUnQxVUJuKP6kDBdBx08KMbFyqEfF/mC0KDktGD7bsnUtzcNUq714ReMNObPNZvG3b68u7fqQJUKk8vNRjDjF449l+rZERVuTj1XnnttYgVnrMQp1P3Au1HBDI2I3t6MxdEoMmguYtv1kFfp7QiFMQ9NDYLVI2NW+AK6zrwELMqEALqrZNM/NPP5aIuqYbmviuG1fzrjydemdEtaUmKS+rgSBwg4unnN/+XDDf2neU72OjQDIhjAxxKASXgCnksT7EtDeOteM7NCgcW4e1bibQ9kKdaT617YHBF4e3g==;et+UUR+teIXUVkX29JSIxg=="
 ---

@@ -42,7 +42,7 @@ images:
     width: 200
     height: 200
     isCached: true
-    title: "Azure fundamentals learning path"
+    title: "Cloud Concepts - Principles of cloud computing"
 
 secured: "8s2EQWCA/US540T6H9kzzOUoP69erebWERubGlxlk+18mR5c/y7zElP+hhiDrkIkOy9t5aML83v23sjkiWelfNgRSL8lME/XJ4Q0vl/picgEkneC6BJigdU7Jsh62sPDax1PNZs+xNgV0bU157bEkYrZ+lzgjxSlP5fShIhVZoK0b7OkkwtT28D/zdG8JLckRLPCt/EvD3kLP2arpD/2PRIERgn+m/L/YLia+3mXGXfCyLKcFrL7elwNGtkslDfzecBqMbumGUUhmrJT3xa4FYKF+AhpUbX9ltb2NEmjJZmbhSdW/GZ9mR9otJb6EZK/HPvyCbnKhbgx3n9LDjxmnQ==;e5QxIJk3sSXE6grISfRDwQ=="
 ---

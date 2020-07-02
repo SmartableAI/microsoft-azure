@@ -33,7 +33,7 @@ images:
     width: 320
     height: 160
     isCached: true
-    title: "Explore Natural Language Processing in Microsoft Azure"
+    title: "Analyze text with the Text Analytics service"
 
 secured: "M97Oq5d5CnRmQhY6N1v6t4380Zm+r4vOkTt2P6z9ToeYqEEWuq6PqExvKWu4uC1/eLcIgIYU9OCXeUhTgvcXY1kdUqQ8tw53z57SdAQKXPtiRl2FtaMK066QpHGXlCVP86txlxck509aBt3sz7zIBUC6OfXTR4qFttzDYZMAb3CdRXVjjAh/S+dBG3HG98EdfXJRgbe1LHVDmguIXIo2SDStVW1ukwlbNDabWYV/qw2XB537fUx3hQC2/J3SIGj5d4E0f8gLD4KrkMp263O+jGX4CpCWapVzO7LpbtpyOqXAQAH8Y4DNs4azuhDqh+9NZQ616+FSe+e1XRWVS0t9TA==;5Gua+sEeHl4LT2gNl0Cv4Q=="
 ---

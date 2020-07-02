@@ -34,7 +34,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Define an AI strategy to create business value across industries"
+    title: "Define an AI strategy to create business value"
 
 secured: "DeFdxS8htHQPnLno2cfGANYgo/j7GqZng1SI8oodVrWaTk0ifCQXEkNFjWVyppfmf+rL8FZIR9b9ecJhWpgGs7lv8lennc4JoR1Ym7WtNK4Hcwv6QszPNmQAX+Wpm4U/5b4hKVz2E1Ci0tQOZ6t3qkVUI51veaVFedu0HnPa7LuVmdiWTtC/xcx1I6nZdaSns1MOBrJQERdLFZFqta79X0BLNt6aztFJcdPxS7noAiJBzy65rl8O/2mBpD6SmIn3NM43mkJQ5NOwV/5jHE4s/n593TM/nxGbAa51d3VbnpBZPWzbTUoHyYwSNlv2ltqpNwVlZj2Fhwc952LmRTL8jg==;BP22XblaKxIOnp6346u1XA=="
 ---

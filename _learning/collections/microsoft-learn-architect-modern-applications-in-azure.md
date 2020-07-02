@@ -39,7 +39,7 @@ images:
     width: 200
     height: 200
     isCached: true
-    title: "Architect modern applications in Azure"
+    title: "Build a containerized web application with Docker"
 
 secured: "eJBSk+oenZTTFJcZH6zGCYk9tDer6D5oXS4dXYYsejjWfAo08vLYQSiYTmShfVpJd6q6UufQoxNLfNfgPRTfJaM+YprBSvFITkd1AzjuJrZYbBOmH3j7+3GMyAYKG0bIYPJ16zZ+9Yj/GoZNoh7sj/HYfrSIBrvRWn5zcZRdCV7xv6EMTK6ERta2gPsoR1r3TXGWCTmV6+BojnshLW7QmEyRSUbTH6m1DFPHEsIuFOaBYNSxNHfN/heE4HL0//vN1XuDw2uid7pSYp860JENTz0z6XFsdVWJcepaJRVxO/0aeCWspP4DHLfxm6YhTvaMeN2Ndar8W1fbdhZsdAz4Pg==;fqG63eg/ktO6bHX1xES4Cg=="
 ---

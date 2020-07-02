@@ -32,7 +32,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Control Azure spending and manage bills with Azure Cost Management and billing learning path"
+    title: "Microsoft Azure Well-Architected Framework - Cost optimization"
 
 secured: "u49141po2mkKz1XW7vamCS51D2xlpQYZK4RyifKRdYa0z84gWvM5RNWnA2ByafMivbLzht2Y+gTjbMdubG+sFboEcmEQ0QEM59aTkufmQ5I0AbqoCCRbgCVLRv0NfWUBNM+UXxiEAiuOEAmNqvvAl5wXkD/vHCCawWbwmTwWuOCiL2KX/Kr8ps8ejxIEsEW0xNu9ssRJZZ4ZWqwVHiktmJT6ybWvqke1Rjnjncpsfw0A1VRj4JLO6jHWy/GJeKAZRfUi/alyi4+uRmSy0FBq8lQxIJcvJSyFGF/OgmEu1sGEAnJ9PRqavEZMijV7EfxVVvMsMLt7WZOYfXK9gnBa3Q==;tXS/+gBeiEpwWy0+Og5O9A=="
 ---

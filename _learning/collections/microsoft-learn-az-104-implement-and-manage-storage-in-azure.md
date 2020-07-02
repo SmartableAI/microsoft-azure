@@ -38,7 +38,7 @@ images:
     width: 200
     height: 200
     isCached: true
-    title: "AZ-104: Implement and manage storage in Azure"
+    title: "Create an Azure Storage account"
 
 secured: "VfE1cev5pSNUgoNZg6Vmi7vYimRP/Zbv88ZQB4axH6KcfwaJeADvVgQtA8JEcvUPJ9DsH3G78DHEvH/Dgw1AYxSNmVqxkGZkaEQ/pokZIwvxuhrXhwYuy1O22Bv4v1iEHw+TU5O7KGLc0KU8PR4YWiwT3rhIGP/H1Ktf278TdQRb6ZqhF7BngD8VjFXKhCXytiyFPyc9AeDOvI9Grodzfyn38mizn/nI9kmvMfFOPuY8budkGweIkiSBPrKiI5JYZ2oliO2mRnD60Jlom3yZLOJnOVgYEGW8iNX5EpFOGQCWBA2cc4KTawJXaJpjIOY78R43//zP22YdZaqpUW7MEg==;AjAYZ/ax/b5K9iRhqTnzqA=="
 ---

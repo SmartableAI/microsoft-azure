@@ -32,7 +32,7 @@ images:
     width: 320
     height: 160
     isCached: true
-    title: "Distributed programming on the cloud"
+    title: "Distributed computing on the cloud: MapReduce"
 
 secured: "4qp6+wn8Ag35qzsdTXwJy87RRvF0bukuL6Kz6YeZ9FS5tbkOTHlS1Pt70X3BLU8KO7/Z8fjhUSajy32T3hNj/G8kFaMiFAkOfb43rIYNqdqckZXv24e/iHMcnLxpslrM2AeUGxuWGL8R56/teeq9zJy+XctRtLslCoQBlLhHI6m4f5k67KOY7K0zE/8BK5TgVZnWLKyUSpnHN1HbZftuvg7FSQR+01/OnhRtOpCwqHc4Y36oYMn2az3KsIuBbmTF9CeV/uYkqU94PlUQoYDwwqivvHAAF7KPPIPlR9GQEBJLn+BCqNHD7XBULQbE9BFIoz+A93ETYu3kZQ6EVrbwog==;a3+T8ubR+3kcQojEH5VotQ=="
 ---

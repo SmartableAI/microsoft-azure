@@ -34,7 +34,7 @@ images:
     width: 200
     height: 200
     isCached: true
-    title: "Manage resources in Azure learning path"
+    title: "Align requirements with cloud types and service models in Azure"
 
 secured: "6xMEeTeE01Sdxy6J8RGwO3u3c/OpdUVB5e77GPdhDShxK/PzMUF/JA7PQ5Gt74wwGwWbm6ZMjdvbKhbytFL0czcsDmxGUSqjaIN3wukvM+ouriC/CluTwLem4kEJzGlu4c5S+UUXNRpGPxgH4bt6wdd9Cxp42juyc4hmmlHg7270mbEDjyXW74MtwVz/LDp2FS93KcJX3ieOAf2Att2FvQX96m3TZDNZ/G7lLWjwoTYnOpDhcZBnqRCm0RureAUU+MMGn52O45CkiKTE4FxW2lmTCfbNSUtsSWO7S2kixZN04nMFcJJGK+4qLRAgLI98psagmVfjn0ha9jt35OTwRg==;kIr1rnoBRmfVzLYJPbYgmw=="
 ---

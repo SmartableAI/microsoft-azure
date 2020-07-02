@@ -34,7 +34,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Build applications with Azure DevOps learning path"
+    title: "Create a build pipeline with Azure Pipelines"
 
 secured: "sQ2ZyWw1/lXFP2wnKmbdZ4jrcguDB/AwXxmiGkCscNU0mmXSyp7ecTzz9nf34A61UmhDGINeKC2GeMx62m/uBnExrs5pZVPtF3yPUrbFuLGptUqloZ8Jr6lJtvLVjQ0TPuBbM0DcC9GCrmuJUtK2svAqA4K0k2I+4V+LeSclciAfOleoqidj6ysNGablktuZPovvjrs0xCA9dB1b/qZKpxeS0IZkbI8bYZk6MfDgpaAkY8iOn2+DWK8eWh2V62lRZXOyZbfAJuXyiNAp9Ao1UmbdMkOsrE758EsMcRsib3rHTbTwd8hbYayKM3edJLLZevisAjbh13JHm/7To4q9eQ==;V4zZCkgzmq57B+334EuSrw=="
 ---

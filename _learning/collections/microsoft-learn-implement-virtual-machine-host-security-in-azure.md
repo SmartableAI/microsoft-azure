@@ -36,7 +36,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Implement virtual machine host security in Azure"
+    title: "Microsoft Azure Well-Architected Framework - Security"
 
 secured: "J2yYVRKForbhKxaYR4FILlH3rKJTPEYS7w6Z+Jmk7h7r6I81kap8KSwJDbC4pxNXGzPnWy2he8tzorvPbS7W1SnwNxRrs++yag/vX2lozjZX91zCZuKK/OmwI2O2lJSfSs04P5N+63orXUNvyomRwqn4ffdxAtucJf8dNSD7SZDIDRhNVysTSAw6oombYtVeRCEIZayHpqI+qhFoQo2/gucOCDsTFac+FkgMweBRMvVIl36ypuLcl7R0CNEFSXFlC3Bn4ekQqUGvIhhv9JD8fTQELRwNpaw/wbYLQgmST4QNYuqM1wjpuCf2EpwQtxXng/gfji/chDpsyntUamL67w==;qdAZSyDlj1klqaqsuC9Hag=="
 ---

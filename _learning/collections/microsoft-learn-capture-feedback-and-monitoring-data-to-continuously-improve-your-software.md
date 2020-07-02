@@ -31,7 +31,7 @@ images:
     width: 1000
     height: 500
     isCached: true
-    title: "Capture feedback and monitoring data to continuously improve your software"
+    title: "Recommend and design system feedback mechanisms"
 
 secured: "fQXGVTTwC/AEoXq1tg4wnsmyH0ksTHCC7mzQEq/vkkHJVoTFB5bfDGU8IAoXRjyvAn/2BKh95dVf+zoWT4a9dwLyeMqi+rUIdKlwic8YrNMKuS0oNaDWeDs3nx2N7UQfDlxIyXWRYpcByAvrInKZixdZgOMDUCp45ghTFhVaNHjlbjCOn9YMG+QQ+e8kKcqER2jQGHaQmpnfZ327pgwQrduqjeBtRwri2sHs4rCnOFB+CVYCqHkJ4ScuDiewx64LSmpIm2AY6R94DXC2Tc7K6GmJI/Ro3k+NfpnIqpuCHqH5bmkJa2TjtWAZ0fIr8oLYYl34ZIW0n7CJZeGmZzRHXQ==;bXs5FGH5KMe7ksMBPZ83yw=="
 ---

@@ -31,7 +31,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Process and Translate Speech with Azure Cognitive Speech Services"
+    title: "Transcribe speech input to text"
 
 secured: "Q4Q6uuJPH/ReP/NGikBevfwaqm3YSPOGvaKJ2mvnViRPZbF6yv8m1X7V8RVRZ6w6VtuzAM82zSuvc5mzBdILyaZ4FxBEVotbfd81L+fmJlx6mp1C4VR1/ecGWmkqxMPNVD6KeMTq6Hwdw3ml32+HqD0qjNWm3c5yYrTwCkdWERnyk5pcq7KpoJSta1W+ZK92oZozV67PSDDI2SzVHp+Jzqgtt47kZSK9XH88EXwK7Eik8q67urv7AWXc4qGxph0fhbgziVYJdY9Btm5scLIrjtjURj5jTqKHNhYjSW4GI9iLTr5H40Utj7wkBnYhVQ9CFMM6kmCbG6ZuQoazlfQzkw==;DmlILcKI9xLL+7fcFR3bUQ=="
 ---

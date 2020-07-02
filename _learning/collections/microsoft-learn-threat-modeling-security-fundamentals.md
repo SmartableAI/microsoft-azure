@@ -37,7 +37,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Threat Modeling Security Fundamentals"
+    title: "Introduction to threat modeling"
 
 secured: "Y+m9z8Fd7trijVEAyP00wWfz8g8mc8Af0KziH0CmvWP/AZvtuCPTeghU1N07MJNUI0NjwM0bjkJgU0iaedeR29cc+WczVt1ArPDYD5V+1rEkFwEXJVUq4Ta+Djmo9dZM/1rMW0LdXXXi0VG650EdfQ88BuXowrCSNwsKHu1xMR9366JKKZfKgutlNyXPIa6fChDRUxH5pWhW1NyejrRqSndzIhfceY75oJp3Ko2WPqZkULI7gkFxCjdGmxdTAwfdyAwHTPNipg5W6w4+hmS9hZjkspiaoqcLiFW6Hor7sJodxI0wErw8tYZGclPLnGE/2KSJAx5DQUwhfOYeag8Vcw==;fnSLLWThn5jGvGqRfCRmYQ=="
 ---

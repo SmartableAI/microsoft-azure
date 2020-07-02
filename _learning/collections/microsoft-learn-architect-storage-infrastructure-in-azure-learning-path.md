@@ -37,7 +37,7 @@ images:
     width: 200
     height: 200
     isCached: true
-    title: "Architect storage infrastructure in Azure learning path"
+    title: "Choose a data storage approach in Azure"
 
 secured: "vF5JV9ex3FqhifyneZhBV2OjxesphVFpHodRUPPwERNOZ/ZgoubbvQ12GUxI5X1AlLOO35Qtk54AFrM2mi6QbvyGstvsaA+HSXMTlGHq7cyENChiEa9+piekQYI4KnbXD3HhnnAG6cNTMGiy5pMogosrBl+pguSehIPiQLE8WDLRxsXwliwBxOMsOQvR3AwnX9hTEagCCOm2LCroLPKvSIG/yzD7JrTPkNotA5PEw4KDpYUh/nS29noZsMuzEVncT2nZfxtjdbX7hXEoSQwNe9y1QO+tKYChkRS/wLFk4zzhmLKwutpp87til9+b9lFBjSFDZtsRoA1iwkKM8xSaqw==;H4wHrs2TWXqhpT6SliQhcw=="
 ---

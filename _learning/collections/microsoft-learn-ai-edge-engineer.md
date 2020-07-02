@@ -44,7 +44,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "AI edge engineer"
+    title: "Introduction to Azure IoT"
 
 secured: "BKQ9SNsZONphzlNg+vQZCpDqa8OsuBXIXgxS/2ihfqWQsRur8vsxWDhqWYGFq3hUZNfTC//ySKDpmXH5pENoCsj4lXKol/mqot6Wax0HhedZiLEJLGA66OUlAY5J21sa1Jd3ePlg61XXYH6wyNm2+/SV5rZIo6OdDVW6OfMHVsi6/1XQmWE2VFHdlHtLrgHTlzv87CHWSCsdLwhsSAzT2ywuKj01nvhec1JSiLAE02RTeLlzR/krHfDsQFXZv15CMSeNq6a9TYUvXoCCQoBamhErWnZZyIgwFSqVu/fczWP18eSduH96dTcSgCBKwqMwmaJfWXi4RBJs/qKikfk6+g==;EtGx0z7uKLl8mHwcTewpgA=="
 ---

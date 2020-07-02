@@ -37,7 +37,7 @@ images:
     width: 200
     height: 200
     isCached: true
-    title: "Architect storage infrastructure in Azure"
+    title: "Choose a data storage approach in Azure"
 
 secured: "kAe/Bfd5Fwz/J3oCII8MJSf2fKRG4zvxCU013QoN8Hf58uU8wD/KkJ5kloJ2vE9VtFgPPVxzWtd1cZI1L0tIeg19hfz6bhaHzx21scYOi5yLz5jDCUIS3Jlg2BCddlqMjsBBkEQDayZX7oh+8GAF7+qHP9mMtZftVx6bvq4ZFkpYxupQBbQ11jQ6WFLB5jCa9S3HEsTYA2ABkDaDbU12gHyLG98ahurGCw9ZIMH37KSnZuLCxG0XzRx1NtZF9Uw8GgSxS8F55V7fcGgyiv/WYsS92mVcZ2qc3x3dV2PYN/3H5WLaqI5u48yBfLz9ixbN4vvSqNONpise1XcklfPm/w==;jxw3JV2oYcAt5yl1GwRVOQ=="
 ---

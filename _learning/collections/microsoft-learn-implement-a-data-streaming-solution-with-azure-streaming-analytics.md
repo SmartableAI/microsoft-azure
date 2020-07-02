@@ -32,7 +32,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Implement a Data Streaming Solution with Azure Streaming Analytics"
+    title: "Work with data streams by using Azure Stream Analytics"
 
 secured: "FNe6/rdqu1sb5pCLx62qubeuyvJzU7LdmRdtlkiknU3qLcEGF1aB3FZfzwQSgqo/s7Q8RNa/2UWAcFLStzYObkzxEgtVgsS6PpyWIy0H2HgT+rqz972vNTThTGtvShmeIIuvvBh9wZqbVdu6oQ3TEF6pcWiwiPnPn2CQIqRUk36C6Pbwi7pCMR71Kwbm0wQmTilWXNlBr+zZiQHYBj16PHCcCYaKA6fxG1mpxSZYyXetNQah6OT7wMAiyqHtIYWusXKTOVKu3pt+yIowuun7TUBWoDORiS9BcNNv9Z3nfhVbpz9S4doaP/yg9d/4GleHWcGnmTZm+SF4VcHgtkHavg==;dpG51VLj36KmdcouTdQAmg=="
 ---

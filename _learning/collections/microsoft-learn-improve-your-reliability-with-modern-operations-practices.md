@@ -33,7 +33,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Improve your reliability with modern operations practices"
+    title: "Improve your reliability with modern operations practices: An introduction"
 
 secured: "a3CLBAop10EEsfpHLLddS36fJjSvH7bjOxVW+WWwhmtU3iaErzIbJxRbkGW4ZYVaxUng6Tcpiei09OPswbAcfTpSb9D2MapGv/XGnEJ1SPaTP5z4FVUyViFFUYlUGomVklIfnhLrAYGj5cnoChY9EGx/ONaxO6mCSB0V2AubUCqjgrViwrsgJ+dbemC7BNEA5mrTqmwhoJM9uGPmALz5+i9L2p2Azq9DYwa086MJA1PrLJImKZjrMM05WEt3+I2Buft0qjlyfon4FiJdaM2v7Kv2Ja9ezKNxxpdHR160jUMES8IvIk957Wnb39Yk3GYTJawF9mX4g0q/2socQgdijg==;rMnqeXAiUMM/0zSar6l/IA=="
 ---

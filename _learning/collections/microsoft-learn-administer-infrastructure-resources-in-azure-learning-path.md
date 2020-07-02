@@ -43,7 +43,7 @@ images:
     width: 200
     height: 200
     isCached: true
-    title: "Administer infrastructure resources in Azure learning path"
+    title: "Introduction to Azure virtual machines"
 
 secured: "Ef1ysLQJFStZ6/zlv4bLHOKzJSbifz5DydJtkLQeU6kPq2z7DyM+tM+MU8pR5G+t4zEWzY0jOtibDTPFOsTPw7auHDk5Qp7tL4X5JMtL/KZb4j6UNUCiateRWnE+F+DkEqbWdbT83LDSZcvEBQAa8G1aLnBnb+yBQdc3lNerLkS9ggCwx5vMJ8HvAv75mp6lmZsm97QFqOGlffIQF37lFqsbwAM88Frz/0vZfvxWaNWxjg1AlwTtMh5BR9ctXec9dGOtShKxbyZxDatdL0hazlDkouCuP4QK38j9MELC3PQPX9tawoILIAVQN62DP3AcKbMbq+O3k/ms4Lh+9Be33A==;J3nCyXpvg0U0rJvMGfKxCw=="
 ---

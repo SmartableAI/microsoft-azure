@@ -41,7 +41,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "AZ-400: Define and implement continuous integration"
+    title: "Create a build pipeline with Azure Pipelines"
 
 secured: "JmjfYtmCFFtopPYa924bKqabUOFO/50aUHkMFGKssCB9T0TD1rtE2kKK+UrTaWBodR0ZRw6p57nwr5DRc7GIHihMRTyl2nwg5hzEH4WFSGvtGu2eHew7NJEXUOBptS0hqArLm1FiThf6HTWUcRNFcMmoaprAFnGGLaksTxcICaMZ0+wxnPqvNcVEOsLycLQDxnVDdVwfXrsu3maL/M2Hj9KEjfM/Z09IXb9j6dAwNBK1MzSCiF+LnUm4+MPO6BUmX9M0IxnNlL50aYEhTl4Ha6vUbu9CvSXifFdl64xY2E2eqHdXwH8UhowcxXJL5XILQK6tcIuLcSMWUSv0W79QAw==;cd5GeiZDl+sfyGylcu34FQ=="
 ---

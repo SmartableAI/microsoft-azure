@@ -36,7 +36,7 @@ images:
     width: 200
     height: 200
     isCached: true
-    title: "Deploy a website to Azure with Azure App Service"
+    title: "Prepare your development environment for Azure development"
 
 secured: "FBGcaJwYb6kuhJA4+KPQ4BOdd02y6t7kSMzXjTlQeTkpZcdG9LLaIsOFoM9zwpDwyWaG7R2lMA6WheBhk8cFxs2dTcdh4SqPYt0azRg0SYnaNRbJfL+y235ZhwtKmhfCmXPS5O14jxrFL6pCDulp/HGwCMCUTYyG4o76NLazVF9BIBeHQ5wUk4Vlou4J0DtYfAKihx+9sc2gdi4UR8CqBRJwxcdK/HWjM3wsCRpALxFnAPiAojRqqY79l9wTdwzkRpH4SH7M0vsRa5vY8RRoW5/OgvFzZ+LMoQaYYvLydQWyiQWPsXVEi3CGb3YYtZ0ZWwVMlhz6Q1Ll7W5+FlcgtQ==;FaQB/lPN7K5SP1RE1VBYfA=="
 ---

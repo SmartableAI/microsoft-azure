@@ -30,7 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Planning Azure for SAP workloads"
+    title: "Utilize Azure for SAP workloads reference architecture"
 
 secured: "njT6c8rYl/UmZfpmjHd+8Kw05+F0Eny7dMSgXz2Kz72DAg+v6cO1Oxv96pwt3N3VO5wqGnEv8vun2vkwralA6BbVJpy1m1n76v2k8HPZarL+0w+fP2AQl/gkbjkxfxnUYK8wmZvKoNxF7fEQF2joYRwuUixzBFI9h3uJ4pMjEggswXUIOqaH0j5Zloy24eTf96IjkXWNA5mlpdYHtOgFSPEu9Qo87mOi7v9pYFeBvCOYNdYOe1bExwijJdVrzrJHlpROKG8XX6ePIDAlwSuW6s3NM2VO47kdKSURktPsJMV/w8D6Pxdk5HgdrXdZkl24Ml146S0W+t5jnUc+T7HoJA==;so2b/2OjhupVN1aTaaq6FQ=="
 ---

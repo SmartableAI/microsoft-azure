@@ -34,7 +34,7 @@ images:
     width: 200
     height: 200
     isCached: true
-    title: "Work with relational data in Azure"
+    title: "Provision an Azure SQL database to store application data"
 
 secured: "UpIKkAT4YfZMnWyfxsr0BQ0z7PlJfoAzCdcBzMPxOf0NEQ1CGOaGzkNnwm4uIaL9qVO9F7abU0UkikcTivHSFOPvtAw1XYShQmpZgNSigq6xTvtHuL1bxmceN0guSVdpsv5lxMyJSTGT3vPNZ3mM3DXaHVdNbKk81MM+NssQPMRS7rIeeuKNHObpl6B9GWx+W9Az/Rk9hK/LHtpRT+KE2Ezs9taOdbToGbBF2GYSyUX3xBK/fDXx7RtJenI6Zf/SQFo/bCcuWTvLlUPi9Lde3FcamrLmirBAW6RANvWrmPmNmWjYknt8XmSzwoB+IZTif41YlR1E96gvum1FtN8C+w==;ka2PEi+aC5G65DUqqpciPg=="
 ---

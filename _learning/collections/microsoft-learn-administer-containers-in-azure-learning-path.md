@@ -35,7 +35,7 @@ images:
     width: 200
     height: 200
     isCached: true
-    title: "Administer containers in Azure learning path"
+    title: "Introduction to Docker containers"
 
 secured: "re4Z8K67QHACok6l6o/CrDdQCr3f5p/qcsWPAFI63FPjwtITNrVY4vNwT3LrEkpvfPu82sKFhagsijPPNucTc99bHeVWzhaA4KwIw/RENPw0fPI2QFZ6asqLOPvzsuMZ8g+62twdlLHQJ3GLwf3oK6ExT0gdcPOhGQM7nHZ3uf7v9Ge0YZGLrqomYuxo5H9oyxaauO42JAGdrEgx1IcTUBHNy975g67IgQk+VIsRJxBHcJof6Iq/axcYlAzyl4IXTmeczYeNJo8yqrXqp54R0HDCkMwkVViwLx7IqezxmDyJ96Zg0r2rVRJlsnSToIFddjbXC3wVN7D6QF2EpwfwOQ==;vt8NO/Mo6DOfVs3e77QVeA=="
 ---

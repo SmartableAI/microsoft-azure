@@ -31,7 +31,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Migrating open-source workloads to Azure"
+    title: "Introduction to open-source database migration on Azure"
 
 secured: "Dichabruh4ztxv0Obgph4jQDGhyBOvnv01g5P69IHtRJL8qZUzLwmId2vphsDvR8+hjl4auY5dLoR1NbqgdG0K9MhHFHtjyxuILyygjEr+2Ri9sfPeMtVigOeaFcKQm4Dh6F15pe3CskCUnkmu9eXEmSRMr4Pnxk09Rem/XLOFo+IMY9AJ2G+6AptELCuZDBTA8oRQMqbQ4TdZDgvt5O0QRthzBLFefoZOvM4vE7d1HsBnwGDib5TS+dwJBECMlRS6LCkt9h6E6VFtPVe2ln536qZU57bO5jM+wrtDDxHjxnjFw29DZkjtvkGdnd/DcwsKusS2jqEbrQpIFtD9tz/A==;aNQKxz4QX9zZa1io9RkPeA=="
 ---

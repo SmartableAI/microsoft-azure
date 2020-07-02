@@ -37,7 +37,7 @@ images:
     width: 200
     height: 200
     isCached: true
-    title: "Work with NoSQL data in Azure Cosmos DB learning path"
+    title: "Create an Azure Cosmos DB database built to scale"
 
 secured: "+rgGryK0joutisFAGuTBmkrQ7Zo/p9uGumd1ykuwV89Cop9Kk9keuHEZLEuYzdOZgWPhyv1XjS5xbeEEN9b8Uaz6stmsbRCMghnOD5JMlZ23N2/mPr6SbFt3dbCp0KaWsG9jiE3p9HUQzxy1lY6xiz1/Q2pt7InkbTGbPiInHWrE8YB2OUhPa9MTHDF1jeW9eDffCsqWCE8+t1TMdmocTbhOc29mYrDVOnJBOWc2ExwO3LdYetMYItt0VtSoWJgALhI+a0wvDOJo4ZsgX6Jr6CCViq5ABjkPEx7qxHcVIB7P7793uWV9AZ8aIekp9XjhzRRgpH2uxmayjcbwPqdX8Q==;biihegAC1kOf71zoMgT3fg=="
 ---

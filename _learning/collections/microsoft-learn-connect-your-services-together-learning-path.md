@@ -36,7 +36,7 @@ images:
     width: 200
     height: 200
     isCached: true
-    title: "Connect your services together learning path"
+    title: "Choose a messaging model in Azure to loosely connect your services"
 
 secured: "epJBJuhukRv7fydhUPKQ2VTRj/YJcsR3TI7LHfOlVl27jz8n4tJ7rTE8/RVOefRcR2IKQws3FGLCOxdNwEnSgNhj19WN9MIOj4HmuyL2zV3OiZtZGZ10GZGrsHzf8iLuJpJZmzzsWW/ChH7Tf6LkzQ0gb3Z7Evh4EhyiYsFMQsX3C3RYD00Oy9//sJne5vw7dpjDdLEEsrggc/X428BBG4dli4QGyfSd7ryL90rz73XQEC+4lRZa3TKcbG5Sn0/k9umW38bVafJFJNFeqSr0+pINrk9WnwQTvfu4fhKpVrjeQt/e7c6j8jNN1T0BCXSt+8NHGXHUF2n/qjlDOk/8sw==;9rnIw4XBMu2y2y49eBSuRQ=="
 ---

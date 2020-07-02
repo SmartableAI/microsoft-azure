@@ -30,7 +30,6 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Manage cloud resources"
 
 secured: "lqD1gU24GxZ7DkktabpbyJobufG9FAI1ORviK2x0muwOwGGBPi1Is0Px0vgqX2Jghb8k9YR6l+jNEBwgnfw8iNLl7ogOag0PMNgZRVo1MyjU42AVwydgmzYh2JNzzExmCmjKtEY72UDmfPRi1VSil3eh3MX8/VPAYdSBuPXxlz6AgIWcVoW6CCUZY7yx7OX1muZfA2O1h0UxUzv3i3/Hsg1tB2mRcor/5xOc+zrSmMs82wJiCDOyENOlxkzNnHEZs9KVsikRV+9FYTUrpyLSorVA2sqVNnjBBnvSkFk2GXiJqUhDpuVtL0rRwCGn9xjFqK7e9om+VJsXQnDHBAI9NA==;kL5jGg08bM1Xick0pAyN1w=="
 ---

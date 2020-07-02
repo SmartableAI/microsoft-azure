@@ -40,7 +40,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Build the intelligent edge with Azure IoT Edge"
+    title: "Introduction to Azure IoT Edge"
 
 secured: "21xIGjUxt0uo8W2KhyIlSHxYAUGLW92329q5HIXA9axJr5iFZw2eEa2yLHOvYVb9qiwz1Kt7CL9RqbvyVNmnawq5fgDKJ05Lrg8ai3s5wjUc85ncWAGQdn8FZTp1PLeN8wuD1Txn3QdTj5vNwz1OFMKP8uXMClN/QqNWnZOglJnJGok1ss6NEgonAU9JKZu5xoQnHYgzMhp+KKsxbxWjF0ZO/6YIscmrkBixUipqAJpf9zMhaVz5Gl4YfFOaCWR98ACUagxn11yTuPn5jCqI3lmB5oebhNHI+L4b/DHQZPKT+Vbhoxpjxri/KQ61F6eR1tmwpDIPQtc4klGSy+B0qg==;PD6KCIvpsIu3/ikGqPND4w=="
 ---

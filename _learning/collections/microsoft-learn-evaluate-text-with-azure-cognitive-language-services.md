@@ -32,7 +32,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Evaluate text with Azure Cognitive Language Services"
+    title: "Classify and moderate text with Azure Content Moderator"
 
 secured: "PvBuW2F5wK792gvOVrPEzRONJixFo26vpN5aV06hVzYrf8i685pV7MCi7Sh1HqrbDsMyD24ZvPikrPWpyoagOf4jkM7kwBlTzol7Ab8aSQ7fprojWrIg1S6juLFD6wKRtzt8Y2Q1J98pGtVPEOYuKPJAU6doxSCLvL5nE1yd2U9z1x3LLSwt9hjWTI3ELGJKBWpao8Ghh+ilnZiQRcxYb5KvACDV4v79lJ2SwdxGeYwtkqr9LbvJf2YuIKX9Q5RSM5hEDW3FkAObn+oyMJbCeaYWbA/pWXXIpc1/91XiAoDoARNpZtSLwBgzpFsZ1s0iLUmzmduL6YPunTEuBRj51A==;L2IbpUTc111JkRsFH9AmBA=="
 ---

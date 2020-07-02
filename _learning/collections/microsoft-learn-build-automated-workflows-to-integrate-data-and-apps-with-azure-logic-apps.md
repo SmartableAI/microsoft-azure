@@ -36,7 +36,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Build automated workflows to integrate data and apps with Azure Logic Apps"
+    title: "Introduction to Azure Logic Apps"
 
 secured: "4534Le+fwvJBVkcOqxrlAu0T0v2ETukDjWVpqAym1toR/ynDaCGURaFuBRzK/eNJ80LI6W3N9vLv7FYn+/Z3fOVdoI7vCj03yHeukSVKyXCRWoIvzClFz2NkZabER7eQb14rRnklbOU7av2hnpVv640CoX0xgMAAiocE2NM745m1Ryu96v3sWDNq8yQPRiPm2q0IU/UUG5vL3tpmhONFO9bxhVzoc+5F+aKzauqaxPI9opGEGskyUTPYgtbEFIbs7n6ai0GV/qKZNZMgqwI/9409o5eTkiVNZ53H6xYzVddYz6focfOUvJaH35l9ei7HSq0xFYBuG73Lxr+USrEjdA==;5f7yQOW+2n+q4iSxCcnrCA=="
 ---

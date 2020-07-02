@@ -41,7 +41,7 @@ images:
     width: 200
     height: 200
     isCached: true
-    title: "AZ-104: Configure and manage virtual networks for Azure administrators"
+    title: "Configure the network for your virtual machines"
 
 secured: "QOnbsdIeK44h6zFuCym7ImEIa8cfAxdNI/WzeLPm01MXYFf7NOPmKl4jVIqLU7TrbT46L0v0er8KvESvJINqEVJbl+s/jNHhOQhy3vf1w4/UQaXuJFgj+btPifDwUOM0poGM+0HYIjLeZ9v3vq2Cxo4VRqd0yIoK5aIWVXm7ganUV54qm38o5Af351qm9a2iQ64vnyVYycCDvkBGkTrR0orGX0i4F5Bhe7+1dBCaGKRMaEY+rq8bxLNik1XTJOXdwNkANxG2OfqLvjY3Lfd4NI46zzP85famTh1GNoIgIdAFouEH9wpxZL+lH6PMauvyBU/nwbf1M8KEkhfB1uZbEQ==;QtXvIFjZNqMMyU/RFrs8DA=="
 ---

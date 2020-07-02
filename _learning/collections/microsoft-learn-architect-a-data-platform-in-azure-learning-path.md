@@ -39,7 +39,7 @@ images:
     width: 200
     height: 200
     isCached: true
-    title: "Architect a data platform in Azure learning path"
+    title: "Core Cloud Services - Azure data storage options"
 
 secured: "fgKVHP13B7Qb6j+jL+bU926s68IfID3oly41TFUyzZ6rwXsOyqDvR3nWdkD+r52l0ptlygNFhrqjtIOULTcRrY5qT6cSSLsHdFPMrsok1iLrICLKiOwksXQfKpP5moHtSe6Cek1UV64aRv6Hvf/lJXbVTxfW5zxcMjp11yWOaQNo+US90PY1pYTt7RFUzdQ0a66N9VEpMo6zIqgjAyNHrD5nEPIjHvSuFMIf/pi8oN5UC5zFalMzUa9R7eDtpXgIjHUJBKBP0Ird1BnzDszGy6KS3yHSxvTp5tWjQBRflp1hmhXxqFNC/etFWt9rqKFudyy9t0nAsOu9J22vXYa1iA==;aCqZRFbvQXH5Jl33YpTCNQ=="
 ---

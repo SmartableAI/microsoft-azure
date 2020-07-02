@@ -41,7 +41,7 @@ images:
     width: 200
     height: 200
     isCached: true
-    title: "Architect message brokering and serverless applications in Azure learning path"
+    title: "Create serverless logic with Azure Functions"
 
 secured: "6QFM5nHnBCR/qJ47L/AgT3uIHvU9Sb3iDUGxllRI2HO2xvT7V+Ry1umMOuJREw8aYCk8Lf1V5zYSDKhVODm9Fk2qsuaVpk5LMoGJAmaasbTepXCakZkFVgjqoqtHgHymogvv8G0acVctBK/gIg8Wzsgi4ezNKq7avdHXhwQlLS1/fbkSXJ7PNPFQqpDURJIbVxlobRWftZj1RCE9W9ehXV390diPGGm7+SKzBS8s3bijTziimsPCcuv27j3N47xwNPOqQoELV53ijqhOUWX0vQ+k0ORy48bfgCn3RTZwsRVyFkvQqzJKEoAEX0dj+4GT6dUjlfIjmPE5ujWvqc9YCg==;LJSiGDhGAywGtQTcNXPXAg=="
 ---

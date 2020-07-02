@@ -33,7 +33,7 @@ images:
     width: 200
     height: 200
     isCached: true
-    title: "Deploy a website with Azure virtual machines learning path"
+    title: "Introduction to Azure virtual machines"
 
 secured: "llCPuxKJ9ukJbaDS6heStQmMU+07ovvX0xu5Lb1jCP6AdcpD/ESJuwU5RLFl3Co+aguyfyxtr28FBkvgewwZKjAPO1RdYekiFq1PlIyinnoXTpc0/7DkwhzKFooWpvpUP34BW/9jClXVL9G0zusmr3EBBYxwcKKBTUlBRjIzxtYiZDCIQix1V/WHDPyGUA4+bC0mHW3EajeQOfhg4CRoDcmxnV8Y8Sa84xOuLQ1m4US1oHssLRHegn9+n9xE7Fv2ObtpdpmNZCzqbmvb3uL5w0nInyNdtWmlz20eWD77LefmM4CyAH8JJPbbVFZzTL4lwo708EfSUgILw1QV4g/4BQ==;tLMFKdF9r+NcqOH1qXBX6A=="
 ---

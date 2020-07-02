@@ -31,7 +31,7 @@ images:
     width: 200
     height: 200
     isCached: true
-    title: "Introduction to Kubernetes on Azure"
+    title: "Introduction to Docker containers"
 
 secured: "wutJ0zsoPziqr4I0TqCgIvTXvK8v7BAees8zRpnVwilVq2ycIdETCfXhEufCq0hge6l15bRkRQw1KQFNjllNhtXF4B1IsD7fg1KbQHH060ZvqLQ6dg9xprwU+utd9NOj42FOWaWeqyKNFKMhiYXqk/+umRGXJXwH7ol1wwH2A5RKApQ8nB2kMAeCQj5+qnCB4a/TBp3TcA+nf9sLBV5rBs0J6CM/lRlXpWdMrrK9hq7Xk/UF/ZFrQ2lLMeXImHKPHfaesqIFBDqcQhyUg3Tx/WodSqATCQv5JYNLDAWkKPi1BBcWjqlF90MxrO8n3DBVc7ZzZlvLYU/VlPeGBnugCg==;/U6Bgrvjr2MGI+rEOubdqA=="
 ---

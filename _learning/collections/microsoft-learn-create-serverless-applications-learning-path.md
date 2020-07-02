@@ -43,7 +43,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Create serverless applications learning path"
+    title: "Choose the best Azure service to automate your business processes"
 
 secured: "A3y2eaeIswHneB6Jiw4jrd+3+DpAZkTzCDktjItHyaNvi6HvWxqouBOqU0Nd5fiu77ZOBPLXOzGDTxbB/vVHOwdV7KjLcE2B2E8T9ncNmhNIT6g7eAWYyUSJmfRqMzz0xK3MpJIeiX1NalLIl9FB8oeD5sqo6eXMxgH4bMwDfK/O2YE7NKG6PtnBSCkYC1xW8paXcvOX6ymdF+t1GAO72XuAMFzJNleyRgy9/JljE5yVVVr147pVS7ZIugy1nFpsBE3kx/1xksvLENYlO/BzOuNhx3KNWag0F28X0+czejz2cRYUB+0vofPZUeLlGOC5m0+NpSm6NtjObYuBgozF5w==;hru9vhNUVNpl0UTTE9oX+A=="
 ---

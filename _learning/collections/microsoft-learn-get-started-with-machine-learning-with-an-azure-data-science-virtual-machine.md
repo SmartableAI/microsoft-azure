@@ -32,7 +32,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Get started with Machine Learning with an Azure Data Science Virtual Machine"
+    title: "Introduction to the Azure Data Science Virtual Machine"
 
 secured: "IO5QXMH9VF2ZME8+acmUgPlQkcqARbOq1KIhu3TxZiOfBHRmKANYp6klKHA0Jic1A+VEiNCH9qxEm2WO8oEy9R5BUMPGNiqtkARTk62I1JcXuFMjry5/NfRZ1rdgWEVz0aamOM42p0Kpc4iCgbpkYeztp0sm4+ddN3d+SkdBJfJ6X6Uty7yyc2f61OtUhexMB14zhQmrUrZPPyTx+1t7TRey888e6Po8O9X/9W1uxvfsl7lkU3aHXdMSjiHoj5wbo6kjKPyEDD/R7K+GrT7uXeCc/+PdgWEsuiZG60/jKTye1Y16NKwEpj0HUiKEMXPIOajLkzmGjoyAUrh5ds2mXA==;nSxTWQTfi2IqwjiK6uWoyA=="
 ---

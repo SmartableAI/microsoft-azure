@@ -42,7 +42,7 @@ images:
     width: 200
     height: 200
     isCached: true
-    title: "Azure fundamentals"
+    title: "Cloud Concepts - Principles of cloud computing"
 
 secured: "M2tCpfrfL15a5aoXWHGTi+8TEmE4AQ0PUqXC9aoK+WZg2ur/vmUzWkLkbhnPYwN8tkZew/46CkmgOFmzN29C/N0Fx38l4EF19lG2TdValuxDmn0pAWSd5lBPMQ11JgKA9800VO0NALLn/VWEk33HrdBxX+f9llVHihC/xhkaJlUYcpIPUitlK7o6TTNuiDv7jTc+UKxrMdC0lmtzhHH9/aFt2/YhyjS1iVIdjXPqRJfoz8D5HhVOy9D9zHO49/TShTnCaYVB9b5R4xSEqRphKrV06O9aw35EWC3lLVfppok2pd5Hnm4QvYcFsSkd3K+wrs28h2AwgaPXqQQc+LKrJQ==;FK0JDNN5bNqZOMpYkwFQaA=="
 ---
