@@ -1,27 +1,20 @@
 ---
 category: news
 title: "Data Modernization and Intelligent Analytics with Microsoft Azure"
-excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-publishedDateTime: 2020-06-24T19:56:00Z
-webUrl: "https://www.computerworld.com/resources/205007/data-modernization-and-intelligent-analytics-with-microsoft-azure"
+excerpt: "Network news, trend analysis, product testing and the industry’s most important blogs, all collected at the most popular network watering hole on the Internet | Network World"
+publishedDateTime: 2020-06-24T20:04:00Z
+webUrl: "https://www.networkworld.com/resources/205007/data-modernization-and-intelligent-analytics-with-microsoft-azure"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: Network World
+  domain: networkworld.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
-    width: 300
-    height: 300
-    isCached: true
-    title: "Data Modernization and Intelligent Analytics with Microsoft Azure"
 
 related:
   - title: "Microsoft acquires ADRM Software to beef up Azure with industry data models"
@@ -115,6 +108,6 @@ related:
         height: 450
         isCached: true
 
-secured: "50WpWZHi+V6UNmzC+5+2j+B993G1A+X88014R8ZQ7TuejyzvvEZHhb8BI34X0LJClacdGqoRfvcJhJLuuZOnJK9Z8YvWluB+pD6e3FniXy+3Zrya6KcZTfWfoWP+SCHGhla8LLj2wFyieTaVQkpZn4ieuoCW+JhYvy+KuHSXu+g1OsKPUBdpdNzEyjFwl7bgDVc1rtFe/Mh8i3OUNXOZ/7iQalid2Xq8fF3kfA3LoplqBNXl9BWDWxs9gAe9inhzERq6WoZOMn52FABEU17vxhHUl0L2C85hcQhacruwbhgr0Pyh6xHN5Yzz9jbkNdUIzKCWuirSJIJ+IQBeYy2KvA==;CtYpCLbh7YAIulrlbrfpHQ=="
+secured: "zYB+pfBJz2hOGEvQ/8xmfHqY8PVPw8880BaRmQ2MZO3F6QI4frMaFEE/xDGXj2Qor+XocQKG14rhazfnPON9duUYD7RlfJ6lo5DRkgdVPqyv57GoIeyoHQySXDb/DRI/2TBuNwCMrY8eE8STlQ+ToalFJXSREe/TkIcqUpymlxaS1OnLW1myQhzGDdVhXdeX31kWzkJSuO8BeSyYQfsOBlsUtV6m1804iKNpiEtvR3EDE3u9aJX+Vof7+ON5BM1AupGywQ9Y5D7RiAmiwDjqsvTKYbDgZP2unVgp0m7bDQ9ChHrm7dp7fjGCfrz4NRuaEiNIfOMK1vC/9aZYi89DDg==;zTFGsP65kNXJu0ntsCCJmg=="
 ---
 
