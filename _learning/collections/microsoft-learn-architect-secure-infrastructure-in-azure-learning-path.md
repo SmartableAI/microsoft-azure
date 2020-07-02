@@ -1,0 +1,47 @@
+---
+title: "Architect secure infrastructure in Azure learning path"
+excerpt: "Learn about the tools and services available on Azure to ensure your resources are secure."
+type: collection
+price: Free
+length: PT6H37M
+heat: 79
+
+provider:
+  name: Microsoft Learn
+  domain: microsoft.com
+  images:
+    - url: /assets/images/organizations/microsoft.com-50x50.jpg
+      width: 50
+      height: 50
+
+items:
+  - courses/microsoft-learn-resolve-threats-with-azure-security-center
+  - courses/microsoft-learn-secure-your-azure-virtual-machine-disks
+  - courses/microsoft-learn-manage-secrets-with-azure-key-vault
+  - courses/microsoft-learn-secure-azure-resources-with-rbac
+  - courses/microsoft-learn-end-to-end-encryption-with-app-gateway
+  - courses/microsoft-learn-secure-data-at-rest
+  - courses/microsoft-learn-secure-your-azure-sql-database
+  - courses/microsoft-learn-monitor-report-aad-security-events
+
+levels:
+  - Intermediate
+
+topics:
+  - Azure
+  - Compute
+  - Management Tools
+  - Networking
+  - Security
+  - Databases
+
+images:
+  - url: https://docs.microsoft.com/learn/achievements/resolve-threats-with-azure-security-center-social.png
+    width: 800
+    height: 400
+    isCached: true
+    title: "Architect secure infrastructure in Azure learning path"
+
+secured: "sp5S5Ioeqv7U9+0cPUAfvligK7+CMAhsmOfwFNaahK5qJQRE4/qJMdOqrXInE+OLE8A7hnYEBLE6IMTsp988nTqbOKRWhYMXDuhLvh0gHvgiAyHqdBxPmYcwbK1g7i4fZo+FrD8eHvOHHncroHp9nEx35nFEqS+ptGTU+4ZJk/uIvSkGMJskho1zQQQxcw6KWrtisXbJJTlAjB1hKD5wcfyjpNSeB73u5f1H7jnUhgpaC6Rpg+AmmGxGsdcbwjcFjYI2AD1OfdI5O61CJVT0I+dZpbMf2/wedZ9EuDC1L9rM/2lqJoBNEzIo7s+HYcj0YOJEcKEIVO8skMcqkp/yGw==;6GrB+lQvQEnx6d2/ZSA52Q=="
+---
+

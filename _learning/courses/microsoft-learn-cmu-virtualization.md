@@ -1,6 +1,6 @@
 ---
 title: "Virtualize resources in the cloud"
-excerpt: "Discover virtualization and how it enables many technologies in the cloud, including virtual machines, containers and networks."
+excerpt: "Cloud Admin course from Dr. Majd Sakr at Carnegie Mellon University. Discover virtualization and how it enables many technologies in the cloud, including virtual machines, containers and networks."
 webUrl: https://docs.microsoft.com/en-us/learn/modules/cmu-virtualization/
 type: course
 price: Free
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Virtualize resources in the cloud"
 
-secured: "zUUK6DY7scuZKpjV3FsMcEBRfXxjeB3Vnbyj7Z0gduL6o5pFvEfAGHwKedYb8bFp/SvH/m4KGJpsx/gVjYjNM7Hcm9YQ9G2ctfzuoCEpIcT3xbcYc1u4IVFK+RwhU4GNC/S2kDUIn9lo2AQb6JNhvcM96MGxjYeFGbSQMSMNBl4O/kTYkEGft82MAnxilaKG/hRLcoNqaUM75N1t44034TKrb7sCoZ9e8nRiFUJO9dqjZXJAoWl72tukwzyar5bBzEt7LnViPicJoek257vc6r1bMIkCW+PMCt45DYv4FNr/z/l8vIIuPeBRYM3+ApUB65ziPTewFeyZRTLQH7dfQUTPhWPyLQq9TaM3KcxjFes=;mxUgDDSee2c/VwhPiASqBQ=="
+secured: "xfKb0CtwLr+RT2bmtge7mkhtHUjAT734ypqX174lusdQ3qKmAECYZyWjVZ+W9YbiNrjgnI++WMrg/B+XqXzcDdzA1zM63uSKjXWIxmM3CwXbLCCLYsON2cepI0l58hAHUKjsA+uRq3kLR023o0MaOzwQ35bnFtLLymelcDM147iSG5WY38LPDbN+chj8v4Yza3S+OBc9xpvXIFHfSOqy1+9guWvfdJD66ALibXHBYG1MYwG5BSzRtk/5Wa8uQPWI93WevtUOP6z9x3+wSUJRfOpyESdlcmgE+fFEK7+cSRW5NvzDYswhuEnUQtWp+WB08YqGtBIx0y6U6cNwI6jE8pg/vTYaOvMmDyDD/Fbwdjo=;asQuSLWiOEWU2dLvR21qcQ=="
 ---
 
