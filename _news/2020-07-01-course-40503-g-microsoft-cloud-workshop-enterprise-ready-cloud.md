@@ -27,6 +27,22 @@ images:
     isCached: true
     title: "Course 40503-G: Microsoft Cloud Workshop: Enterprise-ready Cloud"
 
+related:
+  - title: "Microsoft Cloud App Security"
+    excerpt: "The days of relying solely on a 'blinky light firewall' to give you a sense of security are gone, and you need a cloud-based security solution for controlling your users' cloud access, such as Microsoft Cloud App Security."
+    publishedDateTime: 2020-07-02T17:13:00Z
+    webUrl: "https://virtualizationreview.com/articles/2020/07/02/cloud-app-security.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 22
+    images:
+      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/introimages2014/140514VRTRamelCloudSecurity.jpg"
+        width: 647
+        height: 450
+        isCached: true
+
 secured: "9VB6M80uQ/CxrFNPcCHUj6q2FiPNoG2DWX7PvXgR60C+DE4fjfbPCUjw7avM8WbcgGuipXrPJpZaC9RwvJifbiFq4QXy9xDJlSJxr2QzNKNWFyQdrL+DzlmXZgFNj90exasBYvBeHAjW9L3if8/LQ8rrCuyZK+/33QE/Fz5HN8sWo136l8AtxVepWRWCZSodwiHS0qmdoSmSCY4eWUl5pV8+MnXld2ofekLokvTG9TFspa4upASDpq+X3/QK+e19B1EnkiK12F2/Zc0e1xiO9iPW91WFBVOK1U+McWScGedN1HDI0GLdqX6UGrQ0zL3i0kYJup8r6RtwXccb7NIRiQ==;BwUQn68saLLbhfMm6yFvSw=="
 ---
 
