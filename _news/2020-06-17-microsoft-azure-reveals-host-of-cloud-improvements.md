@@ -1,11 +1,13 @@
 ---
 category: news
 title: "Microsoft Azure reveals host of cloud improvements"
-excerpt: "Microsoft has revealed it was forced to take swift action in response to phenomenal demand for its Azure cloud services during the early stages of the pandemic. According to a new blog post published by the firm,"
-publishedDateTime: 2020-06-17T10:22:00Z
-webUrl: "https://www.techradar.com/sg/news/microsoft-azure-reveals-host-of-cloud-improvements"
+excerpt: "Could the EU be about to build its own cloud network? AWS files another JEDI complaint against Microsoft Microsoft strengthens 5G cloud offering with Metaswitch Networks purchase Microsoft also ..."
+publishedDateTime: 2020-06-17T10:20:00Z
+webUrl: "https://www.techradar.com/news/microsoft-azure-reveals-host-of-cloud-improvements"
+ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-reveals-host-of-cloud-improvements"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-reveals-host-of-cloud-improvements"
 type: article
-quality: 77
+quality: 97
 heat: -1
 published: false
 
@@ -140,6 +142,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "WsLVwmhdRyUmpTMDKknsMLcGwPTcud1mkj9BNybeS+ALFkZZOJnkj5It/n2qS77xuapWmMnzilsZDDy55FXPZM7lCnsKgKpniYNbbDMPXnVPKg/OMhc6/eGF1t7o0uB8LHwcAFx6qlBYm7EqIGotxBwIQ41ABluOrgN/RqqhdySy1CjD4tK1jpYdPD4oGlXJDuaGrQvnR9/mD4uHgUqhWkKF6BsBRmASPO78xV6xMcHxHHT33WIAu9rL2rH1r+pix/9D+dYhYycpG5L37kN1djRVh3M1VrDo2H7k00wVHsfQ2mLZsZlaYHGddn3kXL30LWC4FNmwwuFk5r2JRzxZVj81hZGwPodZcuAajKC+uvMsgQUkqVYd7xCUvLdHe6FqOz4KhDyhYa6PvPG/8vbczymeF6T8EHWrcLhab9A8PAZ1bKvaFajvFsdlpi6x2wpB3GXujQxFiBXXwGYqbefzb1TyXcVdBBQ86978hEMghNvJvTcVGbjojUBYf+uGTMQje1Gj51XBZQPm4f+3cishVQ==;FZl+SN6EUCJ2g3CuA7wq7g=="
+secured: "d3jYZxtEaAp1CVDUdX7dO7LPlRmcp1ze2N/7eqReJZ3fvuibet/fq51fvEKPMYeC6GcDPcZcQ4CVS0Xrq/MObrjuHAKe0SKk0WUk/zMXrM9BHURV/UhSfNmg6MbDpVDj1DFXAqJsgPHfL+NsXafUlM0ZKJh38UAv5qBYZoZnhMWIyyTWqVvHou46Gv0atpXcRoRFelP9UQYGkdFkkXvPJ/JPjuwSmYX27CnxO8JGS8WZOnACGHy936l314nNY5yQTIWdy7YqUuR/1Md+0zlkz+5dKNS0cskvu1SQuCpipWsFIBCW8ollNGaLg96MMUknL8X/uQVVe7HvwE6j4mUj5g==;9YWbVdCOzc/2PBw4u+QJcA=="
 ---
 
