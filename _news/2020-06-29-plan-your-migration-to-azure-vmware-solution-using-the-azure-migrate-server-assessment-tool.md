@@ -35,6 +35,20 @@ related:
         width: 1024
         height: 594
         isCached: true
+  - title: "Plan your migration to Azure VMware solution using Azure Migrate"
+    excerpt: "Azure Migrate now supports assessments for Azure VMware Solution (AVS), providing even more options for you to plan your migration to Azure."
+    publishedDateTime: 2020-07-02T08:00:02Z
+    webUrl: "https://azure.microsoft.com/blog/plan-your-migration-to-azure-vmware-solution-using-azure-migrate/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 114
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/5e1ed9d8-5fd5-45d0-9a03-1a6c9a8b2da0.png"
+        width: 1024
+        height: 417
+        isCached: true
 
 secured: "cZY/PncrU+Ebiduai3hddN6m+8Vt1r01qHidq3VltIe/K9fU01Eg8dhiOgQgv9PSpm+E0W2QTbUkNPYjdgRy0VzETUZz4tZ01gUCNlF5bjDiMxwv7DpL1Pv6hCZt/LYlTZ8GQtMPq2Yj8xAGfk7VGb+3qFOW8asRc2+40FM2Kty9p5NrBb15rDXE4RwSmE4eNaCXAgdjR9AhE4KhCMsYn0K7j2xlziEtk0kjh0psWC1c4BF2t8rE4+9laGwNthnOVBKvAom713As+SynQWRs4P7/3zdfSAIpTqjsZXWLVc+v+Qyp14bGz8sJh1mZuSPLq6hOq0iKsadJoY4l0uIhvQ==;KQhcwuvESltjb3H4wHwEDw=="
 ---
