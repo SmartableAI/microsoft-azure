@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Course 40501-G: Microsoft Cloud Workshop: Cloud-native applications"
-excerpt: "This workshop is intended for Cloud Architects and IT professionals who have architectural expertise of infrastructure and solutions design in cloud technologies and want to learn more about Azure and Azure services as described in the \"summary and \"Skills gained\" areas."
-publishedDateTime: 2020-07-01T21:47:00Z
-webUrl: "https://docs.microsoft.com/en-us/learn/certifications/courses/40501"
+title: "Course 552241-A: Microsoft Azure Big Data Analytics Solutions"
+excerpt: "A is a two-day instructor-led course is intended for data professionals who want to expand their knowledge about creating big data analytic solutions on Microsoft Azure. Students will learn how to design solutions for batch and real-time data processing."
+publishedDateTime: 2020-07-01T21:48:00Z
+webUrl: "https://docs.microsoft.com/en-us/learn/certifications/courses/552241"
 type: article
-quality: 22
-heat: -1
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -25,23 +25,9 @@ images:
     width: 400
     height: 400
     isCached: true
-    title: "Course 40501-G: Microsoft Cloud Workshop: Cloud-native applications"
+    title: "Course 552241-A: Microsoft Azure Big Data Analytics Solutions"
 
 related:
-  - title: "Course 552241-A: Microsoft Azure Big Data Analytics Solutions"
-    excerpt: "A is a two-day instructor-led course is intended for data professionals who want to expand their knowledge about creating big data analytic solutions on Microsoft Azure. Students will learn how to design solutions for batch and real-time data processing."
-    publishedDateTime: 2020-07-01T21:48:00Z
-    webUrl: "https://docs.microsoft.com/en-us/learn/certifications/courses/552241"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 37
-    images:
-      - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Course DP-300T00-A: Administering Relational Databases on Microsoft Azure"
     excerpt: "This course provides students with the knowledge and skills to administer a SQL Server database infrastructure for cloud, on-premises and hybrid relational databases and who work with the Microsoft PaaS relational database offerings."
     publishedDateTime: 2020-06-28T20:16:00Z
@@ -70,6 +56,20 @@ related:
         width: 718
         height: 404
         isCached: true
+  - title: "Course 40501-G: Microsoft Cloud Workshop: Cloud-native applications"
+    excerpt: "This workshop is intended for Cloud Architects and IT professionals who have architectural expertise of infrastructure and solutions design in cloud technologies and want to learn more about Azure and Azure services as described in the \"summary and \"Skills gained\" areas."
+    publishedDateTime: 2020-07-01T21:47:00Z
+    webUrl: "https://docs.microsoft.com/en-us/learn/certifications/courses/40501"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 22
+    images:
+      - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Tiger Analytics Announces New Analytics and AI Solutions Built on Microsoft Cloud Services"
     excerpt: "CHENNAI, India and SANTA CLARA, Calif., June 29, 2020 /PRNewswire-PRWeb/ -- Tiger Analytics, a leading provider of AI & advanced analytics consulting services has come"
     publishedDateTime: 2020-06-29T05:00:00Z
@@ -96,6 +96,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "24LqQQARhtkZVFw8/wETMnxSAnaPQ/RJ5bcynWtHI9RTYEAowEV5HslTYi924YBhW28b9mszeAw/3C4KwFOZ2I1dHNxI2cLrTZVZLsDxSAsmKhrxSxNFPdqe+8Z6iI3Ji4PoPMJ0RbtOXAsoN0PsvNLafl52NYP2FYujKKpRQQYqzJAsqZLnVlODWk9+g4SHXzrXFFIRFo95XQJyV2FFpdoBNNVdXP/Zw7vEBP8YoebDmj2i8hz2Wg9eYZcO0/CwKvXvQa26tx25QfwA1TbxDHxbkskeUsnYdp0XJTLX+SQT7tX6Np4cEJOeCmFHB2JGRUpoJh2XEw7GJQM8stt3JQ==;bQw26YlGOoqkAeJATvao1w=="
+secured: "CUyrRsDa+/pdaRFQy2Z8Z/kFVhHwP+tiyt23oJZ06XWwBFRuFQxiid9ebKLWx5Ke74iGR07RHRXFno+xCEb4V2TY6XVkhRZBmQqciaLwMnXqUGPKbqSCCzlX/ZKN0CHnc43yMzFs/k+lbpRyLpe3ZWXPZbLTK1sKOeRWkCrO3pIYa6cK0AnPRoD3d5kWGUOHj6aNSwi2ceKQBM1kbbPATx332yDEiMys+OflfbjJpG3f9QUS39gPVxkFzgA0bVCHYRCuGnGHVbYI/BJJlWkgTPGzC4Jd2MgR6RVWjyTzFDlHM8usEIF3fLLR42wGAs2d/rFZ/ErClnbUF80Z3IcBrQ==;nkgCssbpYRZMIN1W2p/51A=="
 ---
 

@@ -24,19 +24,61 @@ images:
     title: "BNY Mellon Launches New Data and Analytics Solutions Offerings, Collaborates with Microsoft to Build Solutions on Microsoft Azure"
 
 related:
-  - title: "Corrata Announces Mobile Endpoint Integration with Microsoft Cloud App Security"
-    excerpt: "PRNewswire/ -- Corrata, an award-winning mobile endpoint security company, today announced availability of the first mobile endpoint integration"
-    publishedDateTime: 2020-06-30T11:46:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/corrata-announces-mobile-endpoint-integration-with-microsoft-cloud-app-security-301085864.html"
+  - title: "Course 552241-A: Microsoft Azure Big Data Analytics Solutions"
+    excerpt: "A is a two-day instructor-led course is intended for data professionals who want to expand their knowledge about creating big data analytic solutions on Microsoft Azure. Students will learn how to design solutions for batch and real-time data processing."
+    publishedDateTime: 2020-07-01T21:48:00Z
+    webUrl: "https://docs.microsoft.com/en-us/learn/certifications/courses/552241"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 18
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Course DP-300T00-A: Administering Relational Databases on Microsoft Azure"
+    excerpt: "This course provides students with the knowledge and skills to administer a SQL Server database infrastructure for cloud, on-premises and hybrid relational databases and who work with the Microsoft PaaS relational database offerings."
+    publishedDateTime: 2020-06-28T20:16:00Z
+    webUrl: "https://docs.microsoft.com/en-us/learn/certifications/courses/dp-300t00"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 36
+    images:
+      - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Microsoft targets industrial IoT analytics with Azure Digital Twins update"
+    excerpt: "Microsoft Corp. today added a set of new features to Azure Digital Twins, its cloud-based analytics service for industrial “internet of things” applications. A digital twin usually means a virtual replica of a connected system,"
+    publishedDateTime: 2020-06-29T20:51:00Z
+    webUrl: "https://siliconangle.com/2020/06/29/microsoft-targets-industrial-iot-analytics-azure-digital-twins-update/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 35
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/unsplash-3.png"
+        width: 718
+        height: 404
+        isCached: true
+  - title: "Course 40501-G: Microsoft Cloud Workshop: Cloud-native applications"
+    excerpt: "This workshop is intended for Cloud Architects and IT professionals who have architectural expertise of infrastructure and solutions design in cloud technologies and want to learn more about Azure and Azure services as described in the \"summary and \"Skills gained\" areas."
+    publishedDateTime: 2020-07-01T21:47:00Z
+    webUrl: "https://docs.microsoft.com/en-us/learn/certifications/courses/40501"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 22
+    images:
+      - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
+        width: 400
+        height: 400
         isCached: true
   - title: "Tiger Analytics Announces New Analytics and AI Solutions Built on Microsoft Cloud Services"
     excerpt: "CHENNAI, India and SANTA CLARA, Calif., June 29, 2020 /PRNewswire-PRWeb/ -- Tiger Analytics, a leading provider of AI & advanced analytics consulting services has come"
