@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 28 mins
 ratings:
-  count: 103
-  average: 4.747573
+  count: 104
+  average: 4.75
 heat: 53
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Analyze images with the Computer Vision service"
 
-secured: "D/lOfrVHASxvCqtdvM+sfcSniDaBpt6ByBVhJk+Fhj4RPeQqVKQKJlOtlnIfdPEunaqsprjAyapJvIHfcZ1a4lsH3/UcuHJeON7Sr6Ry1AGx+fdHOUdZLoRTWmeS5Rvy402JsoiTYzAaCsP+oq6oJN+Z61mKjzLO/rVwvBDqjZMfPwHGifXOPlI8HJkDGdPbSmdqhHLKXFX1Rtg+B78qHuQk4rCYQncssD0xYdIj2kR5iAZzFpAUCeUcXVkC2dV3mq5wt59DbtTM5Evip1DmvuBbLhzCPPrELUpF41cE+p0cabtKyHHDn6tiYnTErM+d1woar9e71dCNNDgdw2w6mwrRHx+KY8T1jp/mn5TFlga6Md5f9Z567w8qVNYRfvm5blRpHYA4EUNNAHAk8hoc3A==;7XBOskZLcamidXwRv+BX4w=="
+secured: "39mdMNJMmOUdClLUadNiNv9z7vNdHOP1NSXe//pI04PbkIxid2Is/hFpLh9ergPPqzMMFmY5ReqltUfLzw9QqHqwHpJIrYTvjiH0kl8fH1JU1xjH1Drl8Tck139kdGRXuHKLKkIgS8HO7G07C1Qw1bFObYomtdzd7xaOJf+a2pmnjFEOPcb2RBtGIQjkxrSfd/PIhvmR+nxYSf9igdyOwDKU/ErQhZ1cijs3Kmuu6krISHui5zEMV0IKbal3bVVKiVJGIncdNzyeNguWJ3p2UsWExK0yFI8VJkF5Hrkv9ly8cu29Jx3wRfs9/ImyKksnv0dYmxHdVbbJ5lLjEEOAQrUlAWqfJXcdDyEbqRfNk3jZoEObBMlGq3JnwBZavqNSYdjqAKOcH1GUtbk/4mnHQg==;4fPFjhR4P2h7Ju3DoebiuQ=="
 ---
 

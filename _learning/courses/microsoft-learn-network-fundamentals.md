@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 47 mins
 ratings:
-  count: 884
-  average: 4.693439
+  count: 886
+  average: 4.694131
 heat: 76
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Fundamentals of computer networking"
 
-secured: "YNOfZQwFmmS4b0/fKJ/bobJAyquTCy/KVWgOjmCYIOS9rKDZqDOBOEvEpdNoXVn/t4ONSgQV/PtS+NuO97BDA6jMiPuhp/+lfRPCyNbCoEyHBC8iL/C9JFiw2vuc6KZ/bwAuSgH4NUIr5QwwSRr8643tXh/h4IXWQpjjwmjxXMQ8jnikvRlfX0z+l93LZlQvGt7x7Nz3K/jZwzmHJxdfl2xxMrshwnGSH1jVjsdyr7YfgjTA1t77tWZtwNDVxtqcGxviWBe+HWlMZzkosUEkhQkfbWcTds90drJlLXWFM+D8d2n+E+hhiGUeXPGqcV3EfjgmiVecNHYhqfavTFGAlMhb12+iyWUT+mUEbFgTslDIa9KqkX42PamqoY/ATjFo2X1unAaKYJ/EcHAbsrW/WQ==;6JIwoTSa0TG3W3lAXjpsrw=="
+secured: "0pizDUZ3XrEWx6kA1z1+4Km2QC7wuqypz/QI3fekgYerd8Aam+9kw+Q2kBCcst5TbgUOCqELL0UTjXwXr3FiRVznPfBE9gg3zG0Mq62P77wPfYYsHnnNxCqcHXHfw890/T6zdu1fXErCDzGo8MT64qwPoHPA3h+P/oBvjKfRA2D9hWIsj2b6MFIo67QWP3e3Nsc5WbERbJmatVbzNzKR6np2DBITFo4ErWo3A2EfdzNjkino/vUJ62Dx5ScGLAO31cDILuD2IX1lmhd/AgiyW0mt5eHi16EY99OjPSPrH0lNRO834GFV79xerwY9XupjfQM9pSl6TSZsbCD1j/bUJCKgfhDglY1Xiv8nfAi9BjfLR/Lv1riaXXmAIuzmj0yc9DrWRQ/XGBvNEXJmznXe5g==;FyxcouSmx3AIAC7GdOimRQ=="
 ---
 

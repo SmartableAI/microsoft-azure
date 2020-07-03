@@ -8,7 +8,7 @@ length: PT47M
 ratings:
   count: 41
   average: 4.756098
-heat: 53
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Explain machine learning models with Azure Machine Learning"
 
-secured: "j/gJWHWmdx0/ipRAdha6LntgwJSA9PITmwDNAXLNFsM/DPnjzDEyC9ZVUvPOIqwwJSPFZrhFQCRtluCNmvtzK5tvMVEAwR+OmfZCXcvHq35bfMuEyXH+OKs4KC1Kol47OuChEKQlvYi1EImHGdvnsz5kSQ1g/l3RCb1ycsdU95qKMUOotBCCCceoOP7RHBi3FZhb3QZGvyphT6eOOPCL4sECJydEvzPrs+/Hy+1PefTH/2Iad77jWf0yCu8bSQdhCKGLrlnZ2up7GWE9VVFh1Efuwn1kyjTBfJ8ZGjO936bszQQvjAaTUY+8Swaq0HIxJs4TEICbHp/9ZXurms4hqs6VI3rbcUj1dpDC3dnd24n2hfAiP3Bw7Qnlnc6R9PnDlb5mfk10EJSMo7ijKUGuuA==;UPo+ERJLpT20wpXD8g6jcw=="
+secured: "kcIe7gPI55W/q4VmC0HxzxsBzL4U2X8eeTPlp8JNnyOVJwtY5WqYBc0J8A/wrmhDF/GQqjGxSOTnGIAHNKmhU5tLSXCekORIQDfejKu/5DjCnS7IkLUUR4K65aQc/MP0H9K8SOU3xO1j11xuSgKtjeNXUYUpRVbbT2pTiPqrKgb6sRaPgT4cosKCk+KYaRxZAXqEQntd+GZ2GE4ecOuw/vrAjod1OSzYI6lhRzP0ySzujqXHADDrtSmbT04Ix80DaH235kXRLqdoELCpn9ObCQBFDKkcoG2UWMfiLJxOrY6mHkAptXFTMBrXlUAQNm+qt47aNABV9BXefL6qqSrrFevhfptBdlzYDpFUmkvSrFYqGITIZnSpv2m4MYr7eHtdcKKaMLJN5ZgVfU8KJx93ig==;EWMpe5NZCV14RdwfoAEMPQ=="
 ---
 

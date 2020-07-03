@@ -8,7 +8,7 @@ length: PT40M
 ratings:
   count: 20
   average: 4.5
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduction to probability"
 
-secured: "IEg/mbHDI9d7NrSNpXGQb5AO1Y+/FBmmcJUXvISimJ06f44/iyOpLQxalFumH1S1ey7UjTJR9Ivoiq6skai1/1l1TERYvOCoSf8L89rmRlr5eAL0ZNuiRF/pIxaAJJae/VuEdIQdHoV/AoJ4n5nKupIbLITephVhvouRBojuk43QBodFXeqdQogz36gGwaJ6K0SK3f5aRq8y9ur9e8KU6Owk5mrsA5N6Y1ygDrPF92m7sRqjpjbnMxqFM49+/mNQP+eNIYuy6/USdDGenaGx8Ml606AE5E37+najItOxMbFay48bQyAEur8zVeTmnnrvPGA9NW91xhOyl+itHYXHv4Ic1ajI531700vapz+kJdzHtmX9YPdrR6hnC/4uFLFeSnAnJgSQQBeiNc4JMX4SuQ==;e3Y9tr4JLxRqbgJ3AqY0zA=="
+secured: "h4MklmHMT6zz5rbbcnFPQUfZyUvSDTYMVbDiBtNOCoAJ/MWYNDJarGmVYGqnLbefMKRsMojUv637hBq0PoRgPi50Mr6+3wIHVqPSRVJ604TY3Tf2dWYCTBT69f07rcBqGYYSMuaz8+Cdlwo4eDQZqLBx+tzY1PdbdRlbFk9BocqF3f30taFbevm7eK3cXuY82DiTdlLdBk4WWLRDijjmG8M0/pa4ZqhptBbPzcnMO1dZEsFSZ9g9BZBVH9L0bLaHNg+Sa6kclh9DRpLYYGESFFmpZo4kdIA3QWk0FhDcZHh3joB6F1uDV7MIeMQvD5o2gKTANt+9W2k8sdwJP/GqVBCMa8i+VRJI6yuCYXJ7UupNgh7UvteHAup6Sakyg2uztQz/QZyxAMrsVE3Kd1vMMA==;uBrZwTalWdC0JBgTU2M/Mg=="
 ---
 

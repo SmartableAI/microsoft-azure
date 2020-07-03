@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 35 mins
 ratings:
-  count: 690
-  average: 4.5927534
+  count: 691
+  average: 4.593343
 heat: 55
 
 provider:
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Protect your virtual machines by using Azure Backup"
 
-secured: "U0TEpe5ehaWHXhVTJPrXvMmEvJKcOD5SHbkbB9s5hHNF6XDOMxmBtXgNBQIFIuwEgY2S+hS8Gk0wxYEGPz8gLTxrGtIC0GGeAGxi0jr2/F55daA1irZ8QW5F+PH3bS8ZgbYl57fOy0MDad3V+cc0EXokN0PvZrlUpXa7Gcale5LxERHDbgs2KgvZpZZc9q8mR7AWBVsPe11Q4TylR+kkCeqTWFnqsjcyp3Uu+98zhHm3q7sI08m7CTCJlhunv+u1NBRMjsWbY5C2DO9wNg97e9MzKh2sWH9b3a3mw8SFraQJDY+A17kXtz40JTmT7Yk5megtd2NkMUVFs3o7sQQT7ZOCVFRmTUsD1H5cHxSTRshyw1pWkPy2NscegQjWBEdkV6gouST1FgqSuzXDPqnU6w==;iY/3S2LAMA6P1GmkJJQ1Dw=="
+secured: "DlNjs8L8H9Ql5/sp/VtG1F8Cqq4HIhj/R6EYLlyW/5tylDpcYVa2Qqfo8UiykgLKqFMm/CLmBuWFQJxNXXNTXxVKRYJ96d6NkROBcn5TyAJfdPgxJVhBnZDC2deQKiQvmg/0Xb1yyP+XhncXIQkukDH9EF28yLhvG3x1iQdnaOGTLZCb9S01BNj2Dhacay5jreKVo+VwnmFu3yZFq4cFzCl0maEwguStfsEOeNbX0JqMTiasact4qVCZ3UJyX7cD84vxD5Js8CfznF5qwVsAsFZuvZyaGJkDBgfTqF3yhi/pRx4xXGNMpWz8jLNZ+skCNtlurkbGyD0/gw0xsu8nxcRE8nXQ5S0Kd8Yv1gcwGdO1IalVqBzsqh1gytjM6fFCjz9P2n9BrzUwdnWVm9xrrg==;ilH7DJIEKKm9So2q441csg=="
 ---
 

@@ -8,7 +8,7 @@ length: 40 mins
 ratings:
   count: 40
   average: 4.5
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Datacenter trends in cloud computing"
 
-secured: "bOjeTUW2q1xZasHgMsRRKQgW2clnFPvzST8ja2AqfAbYpl2rFiVSALA48B8KECoF/lHHgRmleQdz9ZKyRvLsXo2v02z5mHu2lOytlDPi/NrMaO237zNG5KGoXGjBRswJs6aitNPEGuIoJQwBJEKp+7bLo3TEiGLEHxXIVJaKxbLPJCEx+B7GxNwvu8a0qDpOi1XSzROMp2rjm8UT1MnlNtW9B7h3Ne9CJVmhqUXXyYr6d/kg94oEN3wpjVGG2HaGoHnvE/GGCZsgg9Utt2sMpWbe25cN/HztOJSol786ffbdmXQ9vrN6hK3FMRY/Y5XiBpxBweHprXe2+W1G0fL/nG2r9pQEt3SSU52nwH+wm1Lsz2mD5D9gik/OJie3uCvCXDKNjNV8tl5f15MgCUawug==;3n2/BZWGr7XwmPFMuOGbcg=="
+secured: "M1mSTQbKS+G24Dtf8yD0lFQ4mYR0TuaYmOJp2vX9XfVZDdJG5J/UvkalDXl8S4BNOmVfV94oLPQFUC93InN99GmM+T768Fadk5rQ8BUo+0787bIgUhp4jbRe2FPkRuOU3awA+nLdMCdIAks8kcB8611Xt3zDcA0LK1OiWFzla3nYq7BeKxOicCqytbjXALwn61xfuVGr/+QyrwYwiXL8OL01dVrvnr0cp8RsDn2G8OblLRTqJooN/cM6Fa0XKIX+x/LFL/SJlXDpBCgQNHtkeLn5NukARAWH18qpUH0s8nho8r7V5yrLSs/hshCHFQ8yIOmldnT925POTwt+i855Nq8tkmvZmj0ztlqonroahFDaT4cpDDYkLbHuwHZkhkY4CeCjsPL4lrZeNZlgp+nQmg==;kPRLRMAEGlWpY9FNkKVgOQ=="
 ---
 

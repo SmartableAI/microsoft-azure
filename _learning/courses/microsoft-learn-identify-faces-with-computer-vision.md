@@ -8,7 +8,7 @@ length: 47 mins
 ratings:
   count: 1240
   average: 4.6435485
-heat: 55
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Identify faces and expressions by using the Computer Vision API in Azure Cognitive Services"
 
-secured: "Rp2/Hqyre836rOmXP1cHh+bjwqgtOMV5VS9xJSNFEx6HBoxCHvvLQmI5PKA368TNMT5bvjXizUXRV/5tjXJ4kKHLHg886tvFZqPO5SGCjKvQGgb4qdV5cqsO/HYDt6mRe6vbCm5o0Z/UTgv23FdqpOjZpeNoQRpcMtRgQx8wNt60j+oBATFRB5Br7AzQd9MgTziP9kBiCuhrQ6IwIR2+ce5CldY5McVNUM+b6+62b+UW/bXI7ZIOYFOJME2I4E7Mv+VBHf5pvqPaRv+cIgNmQDGJdbhaQApdkNT40WOYnxVUKJ7mcKyJ6GfhCoRiVki79uI9th8wXmjFThepJD2m6NJUQaYrQD0TyxaVxL7I0ZCv5r1K8jq9u7R0nha/PO8kXqNy+VCryFWYLOfYt9vQnw==;fukKmC2UDeUcIRazp8jViw=="
+secured: "DxO0pnYKV4g6W6e+zU2aBONbFA2rHU5fhnuE+5XSdnt6yoUbJh86tw4XNu7NyGRfRDhJyn36Z8Wqo5zJzrRM7nt3sblk0l5wKKaLFMEsq9HJnqnC/6yzdVw+OQUWukfdaI4WHpl8/pOYR27aYlQMMYdDfUT1vjTQusLWgwbm5O2cqgFuR/mENxdpBol/GpIUhf3zS3izHJCSRcKuWJBpXv6g3/2isO/K4nqlEVYOJFnfWMgsyoe+H9mHvhbAcu9RXXIVF4glfSZNB4xyXFaKRmNGg9jZOe7RVqXZ9VBwiGq/VKG/3TLUNfJReP55M3gfdBmgsNmmuDrRcx76lkqaFdhFKzqjnkpfttlD0U6C9PqC6VMrVzoWKZNE6nkkqib2aS3PTzpYbg+xKx8zYrqhxw==;aL4V97fPpIAW4IPZuTtFZw=="
 ---
 

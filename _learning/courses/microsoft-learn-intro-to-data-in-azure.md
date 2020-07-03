@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 25 mins
 ratings:
-  count: 46623
-  average: 4.7300043
-heat: 160
+  count: 46629
+  average: 4.730039
+heat: 146
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Core Cloud Services - Azure data storage options"
 
-secured: "wxS0M5ia9somwVaPCfP6yoAFrHXwUJbHMgCUBHJz5oWXOOedWpetfEd/9xBYBNb7sm6PRZ3wQQz16sARCm+HSD6+M6AHUi6xQHLYICXXsC5/K5vhoW26Eu3ZUTtKpqta/P15Pmte18zbD1ypM8rw6EhtW9IFG6lPE0MLkFvYKnz5i1Dx9I+RyLB3O23atszqoTPUEwI8XuNvMV/V/cV6MPPyUviCEJZC1os4CySD6rDkULlfQJb2XFX6gc1IHLH4bzzQ7JG+LIxEDBdGD+h+kd55sSoRmMKeO9KzQpRInu1OML9QCI/bUik97L0sX+jBGv2IBhYQgBtXXr1+AUm6BLX+FPcjGHQMfqC+bAALYrbVfZvdC4S1GhkmYf+2tURk9Lo9DRrjL+HVFouyGJAEkw==;IuNPg0+az8u7Am6E+RNXXg=="
+secured: "/HDD93iNz1HFk896rLny/u6xRVtWgjkKaGSpawE8M4eoyv3KrWZHJdkwsqWMuVCib24j5mFLK5gbxkpaAJk+agJZGVOAPTmSxYIJX4B//tmGbAtlQxxOjJePYP/7eDcp2oWMIkiB8fNZkO/Cs0r19yvkfzytlJbKY3611ye6Vy9JaXZl8cBg+9/X+ncD0NtkzYoi2ECdeCFP20w/b0M3eyJ8ct0gF/sFcHWDBT2qNgqmyh9AheAkNuU6OL1oWEffLa3LmVJrIdeV44s+cOJjHk4qnfnIHvHm5gQY2XscgE0GLjnaDbGrZcSg6Jd04bRa0ZZ/6wxV0Jxy0/THGxLzOlZ6xO+fdejfOWGx2yUE1sD5CRb+/L2WCzAFj+mVeAdfQH3u0camUMrIEwXNQFIDxw==;N+OBDBA0TIchUZo8tl4TXQ=="
 ---
 

@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT30M
 ratings:
-  count: 38
-  average: 4.4473686
-heat: 50
+  count: 39
+  average: 4.4615383
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Solve optimization problems by using quantum-inspired optimization"
 
-secured: "4s+QKeuGIoLMoPHPRzCkMRo4l5KPPiYZRU/V2LmErX4EvHTEis5xXOdh+KJ4vv0ozw+ZNwRVKTlMAogw+Vz940knQVPkRePV3ZcqtWtgHPHn3qOkncP20H9OM9wZdeZ2xcIRNGb9KIAb54xTKFXncKiCEZg5uzlJlX/crNMLeJ7sveUNokaoti0NIqJOqoxlF5yEjC4f04p8SUPUe40DlCpXX69SEwCDjCUld6D5X0m6WwTR5k4nlEPoiNH/nYQ41jE8M+90RVNlr+HHv9c2/1MZ0mnYrBxaaERGi2GChWOatiwtjj3gaqz1rX7MggtDzbG5S072BGcL3TscZtQ1x314ujB4VX2SiUqZb3Vrl2nh1VnpqWpk1YFH+9jpWz600hLjR3SHNGhOSeD2bBvyKw==;jvBnyhVmKkjZdN5NRvxrow=="
+secured: "m0pO7+UCmg8qG5AHlXan6FbapBZWsFFB/DO8ZS2Em6FfLvF4fRj+WyS3lcPn0vyapIUUM/jV7BXAwjyqyVgpQDW3yF0NC+cf2apLw62Yuxcvmn5k10CU/gw9m4Asc7QU8ZaYHpDpwkqZ0dCmxEwQ4qjfafyIeMKzn8O+BxPxYfcWCTeC4qoZInD1BIVMdRk4BhTtWWrzGduOs1rxL8xpJVjDjgtiv22m2sVxArUYVPlK64on5FOZ0LkK0yTd1sUZBhqsUxC2nU3bWvA8j/6YtvsBDchgYNBX6pbNkij9Gd/qRbhCnxAizmpsrBkQeh+tGP3jEOm5OKtLfFLRmPZVET8WUG9j3cURU5APWErc7mup8KC0fPW6eHaWF3WdWdB2YmCwVP8sm8+lvZ6bfOsWFg==;KbVVT1AhuT0PrqaH7215LQ=="
 ---
 

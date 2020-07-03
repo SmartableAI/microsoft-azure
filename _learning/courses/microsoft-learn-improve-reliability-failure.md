@@ -8,7 +8,7 @@ length: PT34M
 ratings:
   count: 14
   average: 4.571429
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Improve your reliability with modern operations practices: Learning from failure"
 
-secured: "Lc2c40oSAy9pWJI6GGO5cPaq2kwlQ49mq2iZmkwnA3AxedloZSDA22nWAenyoaQaxzFwiUE8XBbpZtWXaNrRlunf7XjIxn0DV75hJxf+AMn94MWpx9MI2vKnnvV/xv0Lk86EmtnZswYFbBHHW0dh/mgfJ588FLwdwqbPWdSHJVzn/ePKYzoYnoBHz9ni+f6be0T2Xl2eI4BPC5T2K1j8PWXAgBe88JX0sRF/1GubYaz/pXpIwsooU5c417LTa8xksYbvRli7lZOrsBwAh9qcY6haHgCgh77Fj6HDU7oIVGQxZpi9+tmfDqWzEO7KKD8yuqL4c+nqPvWVWwlDZQyCBnwAnhVGyQzheKXbcYlmdqOXxy4wjubenkz4AobN4fxf7ougkUkYMsFkXszCri4FEQ==;TGSuSgKRpPvHRFNQ+J8qUA=="
+secured: "2u3wpsNqAHqQxJ8tP68xaCKx9q09uQF2dDNBoX0fcC3c21AtStU0KKkudHwS0bwAgVkUUQmynr2zry6BY0PtJgSKsRKOBaQASwAe17sck4twSmYOWq8UWqLrgqgnSkwrk7Zq3ooMqzoGjBFxd0XOf49ezbrfuIIoS75hvK/X7S5Rw981hm0MZRwKNB7X0tQe3yO2GhXW0J4XclNiUbWM5OiYoRdM4eoF4mV9VD8oJJood32rPiOaEDUYSm/RINyB7dNUABbO3SleEEIAtBQlVU3DV5Oi263/hpvn2+kJVn6WXvg7beOWQcxd8weATptEe+IOK86CN0oycnkrb7Cxhd4LjyNpS6v2kqEtG9pd33zRHeIVDhZ7MIRui2Qz/CiiSuQxCtIsM6irW7amuCl3aw==;ere8bLKGG91Noj2kOgnSEw=="
 ---
 

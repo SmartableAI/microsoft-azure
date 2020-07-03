@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 28 mins
 ratings:
-  count: 37224
-  average: 4.7627068
-heat: 141
+  count: 37227
+  average: 4.762699
+heat: 129
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Core Cloud Services - Azure networking options"
 
-secured: "U1+7EVJEGHHsfekpGuwN+/fTkxHQG2vWuHxfXDgJFB7tqy/wOWvN9KQB9fXIamKkwQHixujOKVZ322fwvuqEkA27kN0HyPp1VvTeno5lxv9OUvhvB4q/zNf8LNJO33zueLyJKyr1ms2z+Cw0OwD/I9dCEdJerxYMJLKh37+p9nHjUJKKqgthHkCcdtuNL0lYPNnEjZfatA+DjJin4gPBj7eukfUwl99e8OyYRd8/J5ZvuvFbLBrCNlP4/XBomjEEZQbEfmfb3s5KloV0OoKvNE8BQnePMn5+wHXD/6sq0t4YFmCUjxr6F3PW3f2UT8Ds59BbHQ/8/n91BMj5refyqdt20bmdbukwXOhS39vCvZhJ/lzZw5uiAh6ObhIMOYc+ph3E17Ggvp/L30ykIYi2hQ==;CdXvJYmLn4JobAQ5kqtv9A=="
+secured: "kNbH6mS+wWEvK/Rg1dz2vMOSLLQI8iz4JeR7DjfhCB0qLANeGqhJrKhasRiB6CJxJcnBsJcNg5zdUxDJ9unnRBN7aYLOTdW+6n/DkZJ4ioWsTHcfpu1mKzYPahCzfoB8sBXIlbBWbJpGcgd2kXfKrTkUuyWUYr7x/0WTW2a+XVIHeVkaN3UNdUV7JWCNHqOBorsg9xGqHP956mzTkxKLZ9G6CBMXCz6At+lzXv15zD1D+PUe0XzyU5lor/yFM/smRc+800Iji0NSgGUPbz0ztKFkswqcujE+/9aWU2SiF6VVuVWSQpw/gtHyVhoOUMp1M8rylZR7DIAZIxL1jXwUtJRLBITWwkmZbruD+wjODFAbX3yN36eztgBM13onYRBpd1JQyHlP+3TLE016h6MBsg==;DtBexL7LTHsfVY08MmCeMQ=="
 ---
 

@@ -8,7 +8,7 @@ length: 21 mins
 ratings:
   count: 28
   average: 4.714286
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Virtualize I/O"
 
-secured: "xHzZsMlWooYvN76SK69XtbtSdxpbRSBDib9bZ9pHvopXi7hwlnBXpW63+PZxnzbZsvmQTTMTrX0iDUxTAPmkxtxbbBMaSX+kD4ON3Gp35WG3ewkHtgDlZ4zb13FJTpfh6J/LBXzLPdwYRUBsAgavuyX3D+NG319D4UaIO+AtDS8MIOzAa4hLwpmUQOm+QUJUF2luef3ofRiiyhvHCv3t+IEIJeDr6Pu8BibuXzkHVmsSTxXFNhK8pfWuDqXlzdEg0bnnc5yP2AS0T8N/a51kxeK3grSYic/b17uDrVc0bbO4V3c/agMCC07wLWonNrTCsX3ccT0XpRGGs2SX6Y1XC+NelHwmOU9sAELfePrydrShlgnQRnK1ONCLwT9/j9g3DynHGVZmNJn+m0yuqwsgXg==;mhAAChvc+QLrhZfGZ9Ht4Q=="
+secured: "YfJSkFLp2V9exGUxdxFP/RJMSoZj97KQvAMfWKvnPa83PduOUbXT+jDoX1UuLbiQJ/8zTpmbKGCPsZOgpUbU7PmYkrB7mEO+lQ2U4/vFnP/uyEdzRVaOarZAvHzqJKsUpElM3TPaLKMhRYunYVlg+sn67TInpSve13jboinA+cZMXkdeGGw1A5AVNYmQ6pvlo9SPazhH35W8GB9L7K/qy1IGE8rTEsi3+JEM1UqO/KvOe3kSjrdbA19Mgt32n/kZO5JxbrJfjlLlfAiII/idw7dgitUb36aEhsIM7lph3o+mnKeuLlL+iJFTI09kqvtwxvrx5XCsLU4i/eZ0cABReSjerbzIJg8U1f7HWDwgliw6aSeNnIlkb/EDGm8Cypc3wPzETSD/tzh6R/ykeSsRNw==;cKaw0eyg1OwwbhVdiN9T5g=="
 ---
 

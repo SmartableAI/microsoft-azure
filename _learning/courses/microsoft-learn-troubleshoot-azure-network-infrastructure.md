@@ -8,7 +8,7 @@ length: 37 mins
 ratings:
   count: 1489
   average: 4.5715246
-heat: 58
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Monitor and troubleshoot your end-to-end Azure network infrastructure by using network monitoring tools"
 
-secured: "oejc0J4JOpxBN8vum78WGClgwW+xUMhc2pBVmysrSoxFg+Mi4jIZXLNr0oCXY5G2Q1DSX9VwH9XXn4nP5ykT2wln9z4MyNjlJRGmd0InjySez1aM7xnSyEzRnVKtU8cNhkNmg2dCq5H1JEXZaXeke5+m20yCEQS5oaRGneFsOsB29wtQ/rMDHQ95TAUFHtLzgw6YEAhKn8Wzq0CFOI4GS3Fi6a0kxtt1GfUpqY316uDT9snaVGd1ls6iSr/g7uyweIoZ+siZqE7xdiUnMW9RA0utoNG2MF7m+WZ2USfhP0XiC/KkhBfgXAYmNv0Dc/dVwt9vW34dW1kxXniwGpizHOXnKswFRSuLZuvSADpM7fPUUGOv00NbCWZMdaVcxliIEeXQQ0lSp2mwxFvQDFqRtw==;YAyn67O49MN/SlHL6JADXg=="
+secured: "tUwZHG8B7p+IWY0TOgVtXSlLlIz6F9f6RTXpqZJUwGPVgBcxHQ52Nz8n/sLGnc6wKIvuv44fgazWyrkJg5SjxjA3lWKHEtGxqyYQt7bHeRLl+7dre2FJUHy5SK0McSBQ7X75srgI+9Pdff2WzwHfMnXmtPtcP6kjp+DptOWUCae8eXA8i1WzGUaG1d+nK8HOZ6c/c2faQXANL/r7zOXZhkGm/fF8Ws3RGacS/408UVr/NrBGwvuwvQTESUp0PXiOhcQx9bFA2ozY9YGnLIZKQ0WCTIr5QeaJ3NCs1xo/Gq+9Cu07/K+pU1jX+5CrG3kgY4AVW7uzdHbPlR7AkUG8wKgi8VEeQe/YaGipROBkJl5FyMiSFfQArQWfUNNKM6sKH5UvOQzoJp4mx8pUmLCqgg==;YDzGdeiQkJiTUqzQi28D+Q=="
 ---
 

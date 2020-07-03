@@ -8,7 +8,7 @@ length: 64 mins
 ratings:
   count: 149
   average: 4.704698
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Utilize Azure for SAP workloads reference architecture"
 
-secured: "3PwF9P7is429UE7mLH91X0tOtlsAfDooqX/cWlE7fFoOSrNTkOEwAGl4oO6P0ynnw6sB1fALKamb8zpb6AtQrVknwKMxQ6MderC6G9baTuNCZNYkMMYYfaUM7UUYUVa9iHZC50TanbrQO5Fwu5U2V8csSIuh6GACQdrzQwDBo2MXZiW+07mR91R3B4PzUAT9seno1lWGAJz1pNz2/KcaAdbGaRv3kvcR1hLOx7psJfeDpjjubh2bH+Ghuco/2deUXKABb559DigHKUzij6VOHXUUG6DH145vTYC52kvueSkdgbb745gP4/Hi6RtjN/gWuD8iIB97uYNYDH/3J4MNnghwMHKzlUaOXQ7lqsxJ40snAsKPrKgm7XAgXivDfMxVq2z/0sRbbFEHEu4LX1VuLQ==;Ay3i/pN8lw8awtE9cZ+GJA=="
+secured: "twbw9Zf9cgV81eo1lH8X9pbzEBIl4/TtvYRx1g2Fnzwr+VSKOjGdTcKDT1oNVNBL3v1o+dLQck4tPAEgB7kN9x+kztu2XKMlOQwgZYIKmcEK+NDMKCeUuNpJXC2g5jtaO0BjI91szpTi7BprSzRdGJ3S1dQVFaZoEmUbLcgU95YukQGDDFwUfFKCL34sm1jzu8I0b7whoJbZ3Rq6eh1iEYpmpcGpJndvOeU/FB9KgXP+5YxvBPItonAAbP2kUKPta1k5igTKzF9WxX4uSxTT3uKl1KfuK8NUOiRxExrgEsqPlv3ynjiqd+W4sAiOglpsU2BeJtOxFRq2XzxZMRUqno3wPwFNSxUyCzSepofmuETHUNHxXuaKpKju/x855+XTh+04pqaKks094eje20aAXA==;hf1Qg0KMscbp6NTB2izSyA=="
 ---
 

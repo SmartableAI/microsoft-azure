@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Design your migration to Azure"
 
-secured: "BWXIBO/FeQQYy9GH6QEvIBSHGptN8OTi+y6voTo3U6m6htVjHdIgDjIf0CL5NyISUYsNyz725JxVpfiUIb++hPDMvRbWdnbzvTqHhT+mht/NuoXWB+EqZ6Jf4pfKeyMAVcwds96eDo1epTpies9tLxx/1GXZ311OTJfvu/+dvOTl95KqhFW9vmCztsQsuLiFdBfhnaXsGuKwuwg7bbhy/1F31NBYcZrFz56cmcgcJ9BaB0n2jGEb4qnzbAMPc+RYjUs4nC9DFW11mZDazIOthIsjZXOLF2hxyJYh2oYQjfZgmpdOGC+RCw83FkkW7pr7wLE+H5L40t9AkGsHVh85ww1pp6UcxjzNzcsqPE11SW38UjMVkL4xE7oVgq9ItndS4787emjNTYKIq4KFUVNB/g==;1iotRW9KxxxwVhz6jrE+Eg=="
+secured: "E/i4vgCpGqyS++sS+YjyqZ8p0xydMfeZKIriAqibSv4pY1KpkLX5oOksjnb9lsA/gy0CRqTLGX+90AvU37aLFKqA7IKQ8lSU50lGET0bJaz7WbHf+dqNPjzqCJPSwt2ir2ojkmi4b9Tx9Fr49P2IMxR92H011tFGGArLGM113VLWvqr5aftIyb/fmfgs+dRuhO+lK2xayo/9BEWc1NH+q2l8Bl4fmVuBnuBp+dNd5yZ7W6A5bO4cNTgomJ1ZlRGma+zygbsqRdE5m2kcMB8OIizviYHPTPPVakyQyjF4famSX29Zq58JhtSo7o+RNAzz6n7IkQfZNIZSVGW6kny6xc3sVB8zxmhfqbOdRFM422/r1Ep8ubGEeHFqFTm4yHp5rFNM3A9dQxejvVTvDikh3A==;0R4gACCJPbY1E/4LjU8MJg=="
 ---
 

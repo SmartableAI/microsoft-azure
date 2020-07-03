@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 50 mins
 ratings:
-  count: 1112
-  average: 4.609712
+  count: 1113
+  average: 4.610063
 heat: 53
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Secure your application by using OpenID Connect and Azure AD"
 
-secured: "WiXewIupx2uc1Yg5yoLralE0SopnIkxC0A2TlCeASB6aJ5ku8M1ywyy+IVW4i2tZ1WQ5BGMhMCZwIYunUPbP/YRZnTIndktVxWSkBJMxTQWfOBPX5DSgK/lo6bTruXyALUX3sBBwYCe4rEiauxw6b3QyLPqrCJFz6v+KSZIrONvdcQh7tDGbTQVN2V8DfSInKYmQj6A5xc8XIqZQBzD7UiAooH2ba93Gvoyllwunupju92py15x5SVklEEastXKNf2pNDgrjCBwjfbhMBZfSoPzR7WCejsnTr9sPS8AcB9BUz4cwN4BbZLp5PsRbm5xIk9gFdfLNUAx07R6L7ctgi8ZSb394Qbjoye2IA7fADjh0b7L3Lx6JXG5RnF4YRuVxUCh6Pfyn36fjLNJgSxYLoQ==;QE5PDqzVzMSaezVbl5ngBQ=="
+secured: "ddqMbChcbz0MwC8ziioErNd5gfKRfMaFlpgYLc9FshQIsSw6BqUSMsW9/b4pGMyxXbnzNRcH06kHdSJfij70n6h60sqeH2H+pyKHn5tzI47O6Qnnp/r3DFflX1LMgJAm7rJBM57nsLnFqsKeROk2SAajUVr2xhtja+ah4mKAVgUfXpgNRWnSlA3HTMBJDe8dg8KsbFkwJv8YPQNrN/+A57/5k8b6d8vHTAzXDX/6jc/EXPClK3YjRYBLApWNcsy7tcs0JwquarN922iTRxKUMpZ+HBbxkvXGsMWy91k+zu0SYjghtG04ma3xBH+5DtTTavk16dPVLKWvqGL6kvTbLSdNlFFt4s78V5Rnn+Tq7HktAEkcCA6jGkEefebxwce0y62XUkGcTHBJ6zBTFyWn3Q==;4GRabzQmf8nwQb+WF8q0Ew=="
 ---
 

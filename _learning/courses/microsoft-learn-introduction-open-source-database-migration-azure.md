@@ -36,6 +36,6 @@ images:
     isCached: true
     title: "Introduction to open-source database migration on Azure"
 
-secured: "ZbRjax0clZfhcSDejCSnFiEmMi03RjYCxdO01sy6FHPa7q7Ya8sm/RMsprcvdixklADEMci8Djf348+oHMvHN5xyyuY8ob8kUb/8VoIsnipIk1Wg3oKMSSHHKhjT5QKzwYqxK4vpMk1IjkPXwV54zd9bkK7f5FmGrDkSaPSXA22olivTAq0bemq/Baqt+4BbIuh9VrF/wY8K+3Zu+puftsyOSrZi2UqpTcDo/JUWbduIboN6a2o0SfEVQ20RtcFaaOJ3Nr4i7LJqWVfJyQLVxhAG333jKStobI6wUcjGJ5A6kF3I5fhNg4YxMMcdYpA0kk1gHkFySAa8HIr5vm6iZFFpoaHQs11FusayvzfSYha9ZJa4hxBGWb3Q8Qb+RLc9Q/sZqOw+TEksgphPOsqnng==;jt73ocBM6X+7N5dRNdos8A=="
+secured: "RVviTDh9L66nEydYyyFaCUzK5aBNYpDMLtkhmTT+oGXcWFpJmTKchFnBGFEgNz1h+wy+jzrR+MPoc7JNMlZgScqE8p782nUgC+wwSgnr2RK/myQe6kVsQorW1f+MMxTOcakX0R/4ao8XvaOG1+9VT0hEg0fqWk6uO+Kt1Jb9NBjaE9ChftjpIWq3vHfYjvEsk1i9wTU6l92UrVikfN0dkkkjm80dQl0+bMsAGuRRbo/Af+phHROStEzHbYWbP/5tqHmy7DTG2EPGMWCR5tmjm7UOlNrdQZ2vOXvKfQ2HsMdJlt8rfctfh4cugj8YNIo8xSMXc+Lb/JtAB3M+baCDa6UWb1e27PGPkLAcwAj/Q7E0SDlWKETtLEKzciKXHEZXDvrNahjf1aFMCAU5/XNypw==;E8mO1p5+tQFdJoQuzcXicA=="
 ---
 

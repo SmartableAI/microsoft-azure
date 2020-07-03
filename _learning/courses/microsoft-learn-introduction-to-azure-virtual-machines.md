@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 67 mins
 ratings:
-  count: 11484
-  average: 4.6800766
-heat: 91
+  count: 11493
+  average: 4.68024
+heat: 90
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Introduction to Azure virtual machines"
 
-secured: "GjkENDxB+lKNMBoSI6qEG7UrlcS7neSn5la/SwnXKmFrPZ6MfgDXV4syVO2zZSKJ435gYZpL6x16Hl5NACsuU1R98ozqHAbunPBDB6L9FUR12KyUWSXCmBCUFcxh0KAkVj6xLoqI2yqhkjUCbp437J69pRVKkA2dQpDco0y0qMPimnl/YenCPYvL1z5iFUwiMD+B/Wgjg76ZUIMr/QB95vOwC93uPvP4E2RGCtSneiHooBxBwzp1pIa0ipiYYh9fxL8Zddc+Nk2VPQgy7F9T2mGOgaKJRcbWYEBM3pKy7BzndwSbqKXgeDZKHbwAunKYmvQ7TS6ne3g0LFuflZxBDPi3eo78WiqYawj/rV1cJlIltvn6ucuCvJyx3LVeMxPCWsOqJznISadurmdcZYouqQ==;hLCp7Ax0tPA2yDE4jQYfVw=="
+secured: "a/OERRq5ktqi6qsy18aMEgNfIH9u7NElNGKbf+TQFBZiyx8a1HByF7WiZPUJGoexVFfHokgqwgpTHI6wyeqM07A1M2zQWZwqy9WPlyJ3MWfiMhlIrJL2zaZ8ZwT8HYTsm0sxoxp9tXHzDYFMMaEtT6qwZdoS6+Qj2yxyAl+BSu9NLzRkrlDPOKLvkbiN67FL3/cHXdrGqMh1zXpnBq3uzMoVTEdVrRFuZW+e79Llrmyas9pFUXu+nZpSUMB+4YcssHzQidsS/0lzxMRe3JkL+QTWoqIYTDOMWeLts/Bb0tnN0s1lD6QMBJR0VSTL9Q7ODIyEaRYtQD9ej9exe98Obh7sOGRHyAROr0GRwiLpRtA8mnjpXSxX64WirCUmVAv4Sl69862+j9iZmHu8HKBsYg==;wqtBOx5TvZ6F25D+tNjYmA=="
 ---
 
