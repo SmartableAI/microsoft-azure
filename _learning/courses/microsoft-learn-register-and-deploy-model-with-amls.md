@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 42 mins
 ratings:
-  count: 776
-  average: 4.582474
-heat: 52
+  count: 777
+  average: 4.5830116
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Deploying machine learning models with Azure Machine Learning"
 
-secured: "rZ2DfMRawZ5sSK4dV/h9wRnS6hT/zaqHe0K7ScgcP+b3g5dQnZqxqNHNLTA/K/dL9YzZm+lUNO2t3B+Ck+GuFtxmHDx5F9bmO9oux0WuBAhR2xI+QCVLSO4l8585qdQiBTgQllH/J5lZy7r/ciAwjXHoQm/3H71lhIgW/OerQXWbtl6tS5JHKJrGhUCb/R0IAAkdyU1NNW2pv02qDMi0zIsT7BZ35jEfdnL/Mv1Rxm8N51kokHiUyPwVnPGZlIMsMLDro5YIBtLTPCcdSph7DCFNqp5a2GH8B96rwU8a6/rKbW82dcUl1dLCUcDZXROPxTo1SQvXjjJlEgRqQpD9MYE53THKuTaCaJjDiREetz+HAd95ZhEqGMjckq1DT6gFHu8v910XqtDOa7zb1taQMg==;HLG3E9a1LRAvFKcDm7rgVw=="
+secured: "bAw1jGGW8Qzr199TQnZdWc25IhSofSc/F/8eYi8Dcq+wP9rUGd8UBRZgkAs9kfov1WVohvNqGSd9A5XLmO16+WpI981QVixQRXRjCJRjX5aAw1dnRa6z3W8G4UNWvpsil44C+wIbnHJLOups63hl5EN81EC2849ENRkQd5Q2JJdquXLEbU9HwevLf7bqphk9XaFENGXhM1Qz59bhTlpWsfhb4jshPNl4tWrGmDCUvk28yGZbGX4H+dqmM9MFMubSCvXAd5a4tR2g1RsOL+aqfLXQ0LC3wNQTa0PyxZk808gvH1rQWozpOrY1Iyw3WU+0sf1H6mAT8c8aRLx3F8wxrZTAgNrCcjZ1NQf28SCOkRt6iie+FCxKkzRmUq+4cLOzTe1nrjao298UKyMegaG/Lw==;YOUjCP6CgsmWCZUtLLqOAQ=="
 ---
 

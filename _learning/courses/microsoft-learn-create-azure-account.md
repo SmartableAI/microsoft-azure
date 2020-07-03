@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 39 mins
 ratings:
-  count: 116052
-  average: 4.6938787
-heat: 199
+  count: 116074
+  average: 4.693937
+heat: 190
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Create an Azure account"
 
-secured: "dD3jpzTIEiCDuZpwytMqCF1fdYjCANIMDPcSSjILHoJk0FR4K6u4wuI+lzuodlGLRAggQZ3ul2zWkqd9zorWhADlWq1O4RIxlBkjzAyqAFJhHtww2k7bGMTMOtIfhf81dLn5GfEqNecVW3XpbhlFoYcXUXKHF5iA1gyHDyomnVytx8PhPYHopbKhAbABD9CYEpQKbrvh78vEcF3b4nG9HSheMCLdExtSsG7EUxo/P31F/iH2NTG/OGfB/s85i5xYSnGuDzLQJd+uOQWKjTng5jFNLC1vpBFllCn/7i6BxNKpqr/TsUHgV8tm0bLHP5ChsaHGIrpTZ4ZQdpeNPwpEOrGWnD4w8le5PcMYDd/QesMU8xOLCNc/mpQ2vmwKbaG56vevMvt3YEu0yVjOMkXXYG8I3jPxTnL2/7060DeEyQA=;LBB5ET8/CspA3khSFEmhsg=="
+secured: "TjQmFIQPfFlrmMW4C9VpxV858UfBoWQQexwClgtOjbTXKvtMG1IF8MwGDqrqDscP5n/0P/CA3tGRimo+KEK3Q9V1AuS+8yTtlFIVi3DtWxmdijk9ilLmhXr/LFe8034AECT5mr+tBgu9VXkgMd2XYs9T/XnXgzgz1IDzyC3U9ouYDCzow/jTCzraKIiD1K+qDwdlRn6nDFztRq1d8J8rooKz6h5466FryNCMSgsrunFaNomnZLZItSXqW7mFLxMwyq6PAitauC9MS0bz9Jo7DmjSu5QaEGinZo7DUvP5OhBMy+AnuylTUtkAP/KuOzNDhCV37TfdxIneV3L7C9eS+HvZZvWAvoQ9Cr8sqqxwi5ilhKh5wccFa+5d6A6LbSEf4zeW0MBGSykvHx/C9Mq6DbKO6zo3yTAdGKczWejwPxA=;Zg8aZ7/hxTac23q6IGFA5g=="
 ---
 

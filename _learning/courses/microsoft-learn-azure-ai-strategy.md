@@ -8,7 +8,7 @@ length: 59 mins
 ratings:
   count: 4248
   average: 4.748117
-heat: 55
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Microsoft Azure Artificial Intelligence (AI) strategy and solutions"
 
-secured: "bRxjv/elpN/1Wq/KCQ/eZT56adr3Ay4791w7OZm4YL+813Yxht1BIhtExu+DjGfb102wk4M649w0MbHXClv6Wi4ijGCQ3M8W7PojwlD5fSyhBHYR/Al7KDhvbcuGZNSVY8YMPQ5g5fe6ybwRILi0B93jtWOIQMc763hSlz7Rp9Tqy4EF3RfpRUM6HwQhGSUZ/6v34+TdxNm97eoWgRcSfq4cJ3Eyqk9tqkp0kodI5y7Z4tDihyiotazugBOorNYBi6WFphYqBZdPVha9TT9tLNWT4GY3L9W2V0BIHQGNa9EN0aOmSCEN2YS7tzn4otFDZmcVUSak28RK76Fyq1DKd0Guf8LOESlXrGNrhZHCWTMI471ZxTlhoe0zNcnuINsDvHqqJYdr2djcy3Hcr+W1PA==;t3skafP3hbYVdQ24RWJZ0g=="
+secured: "WOKaRBit5mRjuiJRths33DL4GNM883j6bmtzSTPgoZrPTWTrlvIv76E78NCZyUsT1P96c1QZt3QXHn3NtKSxUAn68kscHiVxlOVALbJbF0tudYnf3w+z3kP+i4B4xmPwyIHfbfnN2RYyu70G2UZXc+OcZCqMGo8608dB77CSLsuhi4emRdjP1dYEWsSN/zI4FSrXwNNoIBjQknx92vKvadYQulHq44U2TnbvP58XrallMeonFOAtrUU0UaRggtkRnaYFmxAp6oaVJ/fa5ytJVWSsY+uEBDiDPqhwt8YJrO1rrlHiw0U+DvNNPiSATnraFm0iu6ypCb27SyQwJ4wr6na7Oz8GRgKRsF6n6GL1s8YYrHZS/+IYr1Vao0AN28aIMFaJRsm/m+Fqlp4chFw2UA==;x1SK2sPUco1/i8cG+dwffw=="
 ---
 
