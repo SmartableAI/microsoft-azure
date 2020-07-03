@@ -1,17 +1,17 @@
 ---
 category: news
 title: "Data Modernization and Intelligent Analytics with Microsoft Azure"
-excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-publishedDateTime: 2020-06-24T19:56:00Z
-webUrl: "https://www.computerworld.com/resources/205007/data-modernization-and-intelligent-analytics-with-microsoft-azure"
+excerpt: "Network news, trend analysis, product testing and the industry’s most important blogs, all collected at the most popular network watering hole on the Internet | Network World"
+publishedDateTime: 2020-06-24T20:04:00Z
+webUrl: "https://www.networkworld.com/resources/205007/data-modernization-and-intelligent-analytics-with-microsoft-azure"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: Network World
+  domain: networkworld.com
 
 topics:
   - Azure
@@ -108,6 +108,6 @@ related:
         height: 450
         isCached: true
 
-secured: "TJziivWLnOom1BQLsegX00gX5zNBtCnTM2C9+p0fmhUwZjFG/x2HxizlDV7G/b8v+OV8CaRnQNbbJcLdWiDStMIO04mD2nO1akgTJWIC8wbtpGy7f42JsoaORu0AC1VdIWSgf0DreMBM8xPsuD6hIyvEDvWMmkX/mD3DTLlEUveGL3W7jeFoDggycx0eAe11nQ+r4ARRys82bKBaf0JnouDAHvbOkqB7L+jd1k15JKR1FS1L5Ni0BIvrFf7C1ukjxJqs2Td+mfHiymSqyymPds6ITPqfuGpKN3KX7yOOdOfWQDlCjnLxKp4ACtvW5r0TNRKZL4yLvyxPyzWvD47BHw==;WNlGlyYk7OpDGCXYBykMVg=="
+secured: "5DJ1/OC+T3G1MsuPBnesQo2kzkhln4eEY9elCxCytFxbXUDxDQaB3DJ7Li0QeDqwmGn0bLpjfyliQ+XqI0D3WHuyc3DrZokgaIuyiJlaeqOMqku7PkvZGsr1GQHwKuqCkEwpzr4/VD4Ls2Ol5LsaYteNZ8y4dw3zRAyG1iV6ga+62xNB0LxD++36GdtanlPufAFarGrAhd0kwZ5nYf3fBMWBX1xrbldRD4N+ohwq1DrYWapy7DdlriRIBOdTS2662zKPuStYO0VwKmYyyrhm96j03cks6/jlum8bKwHTUSlbRmcouJue/OYcESMFcERBcNBPthpbgZIZaDZJ9GKPGQ==;3/bjxzURioou+FlYvz0oow=="
 ---
 
