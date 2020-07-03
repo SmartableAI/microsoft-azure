@@ -6,7 +6,7 @@ type: course
 price: Free
 length: PT33M
 ratings:
-  count: 4
+  count: 5
   average: 5
 heat: 51
 
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Explore relational data offerings in Azure"
 
-secured: "q6R7nuBY/oT2I+5ep+8EQUOqBftCB/IYKPiK9poRsOd5kWAg1EV4FKgwptlsA9hawHZUgfrEZI8EPN/QE6EF5scekNTw+6dOJNFQH6GIMewlV4ZYcMxloWtDX0jRuj3RGKof9dBRe27zkl6OUtItt5AbSW+Z+c14DOXCGJZjY/rbi63C904mYbaxoKAP6fpmebmff+gbaQ8MKzJHQiunnUZSrisKcG+AqGs7K3fkEgLFiePeI50+FRz8+Ucxu/BWjTZyzXmphfTxFo96VKxk1DA2UcHj3dPl5RtwfyNQHLQwcaqI+DOHQuR7HHdMaCccZMwmFOWa67rZbJ4UI3/ROedvTKRNe4SRdnm4S0fRoeF9aRIWuOR4L9UcMenAz7RsVsj0N82EVEQAmbxprwTAEw==;77Lecd6yuu7wWnPBvBWG8w=="
+secured: "ET02oJB65euBinLRC/BvxkT/fbtgKJDh6HJpEG9EGpr+seZihAh7LyaAURD3FZvCKElUopeLumLG9ATg8SxdQuagtdKoodnRasfKaWHajryjPj90iN+uNob6K1dD8h3NG+87H7/IzWS66pd/aAiRupfARj+pjXh4xxEcdEa1/Q4Rwaj4mDS1FoZwzEKBWIA9chQ+st4MrMxHQL6CLTM+lqNqr/Pfko3dUXxubf2QBMdAeLHqiyjz+x99oTGyhNu7YT19Z8Wl74x+33XJB2DS6NrEmT50QNHAGdF3+kbP+w3gN7Goq4H+rP0GKqNjaHJ/CDMHQ+bKTVgFpjp15F3hib2e7HP0J1DBk4HdFJg/djNmoOGVZ7MT0/GuMOlJ7TB4EBHPhof92sTfj+YswmIL4g==;w+o31xpREZJ5oR4j2a5O2g=="
 ---
 
