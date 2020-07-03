@@ -8,7 +8,7 @@ length: PT1H12M
 ratings:
   count: 11
   average: 4.818182
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduction to GitHub"
 
-secured: "judKfQMQq7grF/jy6B6LajPE5PIgyRKjPUdow41yYmlI9ah0FR19zw27MT0XR2GIXl4gTxl8dgS9gyx/YhlrMFcmhTGHLPnj4Mi3E5uvMq0iO/gnEgsp/MtLGM3k9LDm4N6nDuQPwTsGwYq+9wpj6XhKfUHz2LtCE26ipHuc2Y178CRlCtbnDLEM1mRAnqTpuqNmBbrlsNs4N1FUOIQXNJHC6c+tIajdtrqKtjWv7zpq/JYrsawszHIeb9Np934seOKjlk/ihGsb4N9H5tF6ZLHgqLoLMYsCO1yjzYlcsM67eZxmK3RkDnKHLH7cnDI6TiJb9mVO2L///6xyn9YWDhNl+M4xU/07ols6c5NQDxBm05y+nmbqYo6Mm/kBgwkidBbprsTjqBOCaCe4uzPk6w==;IjFOZYlLUUwt3w7Od+cz0Q=="
+secured: "SbIdHAjgxkbukV42aJ+++awdf8rwxcl6nCkgxJRUxk88pDNVLHtq62p/jCjZyakm9lETvyRosUz7pUYV+CnJ8dGgN0Q8ktJ9NOoEDOpQrnXiD/gwAfAVjU9Dt+s+a8RLm5CZuJraeSQBiQ8KMqDts4hxGzVP4ILv3NvEJz1ZEyi6YsRIo+d/wqy8EVskaJQus16DwJyYvynf/e6ZtONrWhB7ULxTKoypefocm3NkPJNKDtNTDgszkqK3zRtRQkav2ABbA2bkSpRll1LP2EFYRSjI4yMSG54bU7vkblINPhEny/m7FKOyu5dEyq9tvfCGR5YB6Wktl4q4agb49ZMKKVspfHa37ZZIAjmdHGkDwFkkQwUDM0JnYSrzkz1JG9AX/6mlUFijiEGEmimE/sXaZg==;sdhQw5nDMfGalDZF9J6DdQ=="
 ---
 

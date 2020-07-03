@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT25M
 ratings:
-  count: 33
-  average: 4.878788
-heat: 60
+  count: 34
+  average: 4.882353
+heat: 61
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Explore core data concepts"
 
-secured: "spGMJOjspaPF6FUhS78Xf9AXux4MACq27xg0EXszi3NG7h7XhRCssPvBKj5m2r3Z/oVcl2z1uDqWWeoIwbH9tiyQ2gQlaleHz+CEYj1S/O4HvsJOHCzi7qa0V5auo8OZHZMTwI/Qxq853y0X54Xq8lyUkkLkxZoaGCoPIyCyPqw9xRehUP9P6nqhmOdtV39zFTiWgOSeTMrt7rq+BxpPZcLa8P4o18lzUWVDt9UoZ5Bc8vnwzSDsicF0cXeMytnTdZoymWzmL4ByNAHtsHL3i5Ax4tHBe+DId2OimcdM9aT6VT7f56mID9P8wkGKZBEF/vL4l8bEdPw41IB957a4E1lLFXAwtzHPT7Yty3qxFtUMv9ZkeADcXE+VAm7Yj1HR9T1dlE+gGMxBKmQfvAFtYw==;HMDHYCMaXmSiGU8wJ0wRaw=="
+secured: "qLa47hBR0bX1BpmZeSIcLaxXqgGWmvvA+ftezO/muZIHSWMZe2gwXBhdaaGM7az3KdjTYh46b1RP6IaD2UAXvmI8t5HT8bWzQCFbX69EZDl/u2Pj3P7DCYK5HLYFJ0BtPQs+A30/NISlcNcxnOZgtxkgfuvPZl1iIjueuV3kGs+iDcehf4WuePoezyUwWodiGctzdZIuqsgHyS+r8oLq/ZNAnA96Bv5Opg3Xpjd2uC8IUvnI1Dev/aKGj7bR0IQfGhPSEOdRMtACqfO/Vn+GYiaZGX/R+tEERjwar15I6ZMQbWLT0dqXTTsD5JrsnESvfprj1yjQRQXUEFWbL/grMWvPtHqWXhIMdUTZ9Ny5Ajuf/uMoE2u5ziFLLnVfOepLst0K+EuDRl7Atry/yb4vFg==;Ygqy+IhklOHjE6O2HPOgXg=="
 ---
 
