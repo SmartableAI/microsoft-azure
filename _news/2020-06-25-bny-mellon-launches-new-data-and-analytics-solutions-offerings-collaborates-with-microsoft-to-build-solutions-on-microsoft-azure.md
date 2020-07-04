@@ -80,6 +80,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Course 40508-G: Microsoft Cloud Workshop: Modern Cloud Apps"
+    excerpt: "This workshop is intended for Cloud Architects and IT professionals who have architectural expertise of infrastructure and solutions design in cloud technologies and want to learn more about Azure and Azure services as described in the \"Summary\" and \"Skills gained\" areas."
+    publishedDateTime: 2020-07-01T21:47:00Z
+    webUrl: "https://docs.microsoft.com/en-us/learn/certifications/courses/40508"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 22
+    images:
+      - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Tiger Analytics Announces New Analytics and AI Solutions Built on Microsoft Cloud Services"
     excerpt: "CHENNAI, India and SANTA CLARA, Calif., June 29, 2020 /PRNewswire-PRWeb/ -- Tiger Analytics, a leading provider of AI & advanced analytics consulting services has come"
     publishedDateTime: 2020-06-29T05:00:00Z

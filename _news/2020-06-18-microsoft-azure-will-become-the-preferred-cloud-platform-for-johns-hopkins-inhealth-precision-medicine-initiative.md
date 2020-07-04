@@ -132,6 +132,15 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Panoply Acquires Microsoft Azure Cloud Partner Arthurly"
+    excerpt: "Panoply acquires Arthurly, an IT consulting firm for AWS, Google Cloud Platform & Microsoft Azure. Buyer reveals valuation of earlier Ameo acquisition. The Panoply Holdings, a London-based technology-focused services group, has acquired Arthurly Ltd ..."
+    publishedDateTime: 2020-06-20T13:10:00Z
+    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/panoply-buys-microsoft-azure-cloud-partner-arthurly/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 17
   - title: "Microsoft Azure to become preferred cloud platform for Johns Hopkins inHealth precision medicine initiative"
     excerpt: "Microsoft and Johns Hopkins Medicine (JHM) entered a five-year relationship centered on Microsoft's Azure and analytical tools that will support new discoveries as part of JHM's inHealth precision medicine initiative."
     publishedDateTime: 2020-06-19T09:38:00Z

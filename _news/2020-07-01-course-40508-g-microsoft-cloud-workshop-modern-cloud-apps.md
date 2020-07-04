@@ -1,22 +1,31 @@
 ---
 category: news
-title: "Tiger Analytics Announces New Analytics and AI Solutions Built on Microsoft Cloud Services"
-excerpt: "CHENNAI, India and SANTA CLARA, Calif., June 29, 2020 /PRNewswire-PRWeb/ -- Tiger Analytics, a leading provider of AI & advanced analytics consulting services has come"
-publishedDateTime: 2020-06-29T05:00:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/06/n16422337/tiger-analytics-announces-new-analytics-and-ai-solutions-built-on-microsoft-cloud-services"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16422337"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16422337"
+title: "Course 40508-G: Microsoft Cloud Workshop: Modern Cloud Apps"
+excerpt: "This workshop is intended for Cloud Architects and IT professionals who have architectural expertise of infrastructure and solutions design in cloud technologies and want to learn more about Azure and Azure services as described in the \"Summary\" and \"Skills gained\" areas."
+publishedDateTime: 2020-07-01T21:47:00Z
+webUrl: "https://docs.microsoft.com/en-us/learn/certifications/courses/40508"
 type: article
-quality: 12
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
+
+images:
+  - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
+    width: 400
+    height: 400
+    isCached: true
+    title: "Course 40508-G: Microsoft Cloud Workshop: Modern Cloud Apps"
 
 related:
   - title: "Course 552241-A: Microsoft Azure Big Data Analytics Solutions"
@@ -75,20 +84,17 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Course 40508-G: Microsoft Cloud Workshop: Modern Cloud Apps"
-    excerpt: "This workshop is intended for Cloud Architects and IT professionals who have architectural expertise of infrastructure and solutions design in cloud technologies and want to learn more about Azure and Azure services as described in the \"Summary\" and \"Skills gained\" areas."
-    publishedDateTime: 2020-07-01T21:47:00Z
-    webUrl: "https://docs.microsoft.com/en-us/learn/certifications/courses/40508"
+  - title: "Tiger Analytics Announces New Analytics and AI Solutions Built on Microsoft Cloud Services"
+    excerpt: "CHENNAI, India and SANTA CLARA, Calif., June 29, 2020 /PRNewswire-PRWeb/ -- Tiger Analytics, a leading provider of AI & advanced analytics consulting services has come"
+    publishedDateTime: 2020-06-29T05:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/06/n16422337/tiger-analytics-announces-new-analytics-and-ai-solutions-built-on-microsoft-cloud-services"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16422337"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16422337"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 22
-    images:
-      - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
-        width: 400
-        height: 400
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 12
   - title: "BNY Mellon Launches New Data and Analytics Solutions Offerings, Collaborates with Microsoft to Build Solutions on Microsoft Azure"
     excerpt: "PRNewswire/ -- The Bank of New York Mellon Corporation (\"BNY Mellon\") today announced the launch of three new Data and Analytics Solutions offerings"
     publishedDateTime: 2020-06-25T12:00:00Z
@@ -104,6 +110,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "rjrWZtz/dB8PScjyn57B3nNFKUA172DGcCtJfL7HaxYL0CIwAjLPrwq80MlE+jNeiR8/icZ6gMZ9vrNKDokLZalmS7IKiWUci8q6HV5eT7QQct69lkqIAmDnkU1P8Lo+kcHAeAMOeV/ic4V8wjiuRC5BKu33T0QqicBPRp+PLPAjADr3Wy4qnF7zfrmSND+qSDLArssHCSzVdO6xa/uKJ290gkTALiNxkpt0DFFS2nhTqQ+Q9ukiM56txPwh7OP7VwFA9JinJR2dcap2KnegjDvuFyrJxsl60cpCdMMpcRxDcivm8Ulup1WikuzAH7308OCbjXlSORBHFvV5gQfhtg==;gLxTRivX/sZiYOXklMgsEQ=="
+secured: "/Zc7xON2MfS9K5bvMu9oUo+uars1ONiKQzY8gRKOGY8+hGb4IgyAZeiMqG6hNqgyXOy7OzrQUMxAVcECBDfUmy6+QZ+AJlzRDdPNcfzq9fkeN6fUhOMDsBkqz28+2lr0oG+nIcyYt72iMMoq2NU4RYnDFmnO5jy44SoZX4h3mpQtg/6BGExQdjTqN5wFNMJYcbaoBfznLWGjHDMiL3MD/nbn2RHg8vtNvmC3GPkUYQJawV/+MXjZvbJ/az/HWp2gEjgammCFSx4Yognhqh9gwrmsGVOH5GFpU7XsGgo4ZzZRhq1BzwKuz+o0ZuOyMOUblBZw4E+yvhwiXQdD1q/UhQ==;pqNBZ6rj/mFmcSitn+63rw=="
 ---
 
