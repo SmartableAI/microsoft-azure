@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT16M
 ratings:
-  count: 32
-  average: 4.8125
+  count: 33
+  average: 4.787879
 heat: 58
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Explore concepts of data analytics"
 
-secured: "ZdWvxLQv4UFvzOm2NCCxRBzw0d0fylQnWp0dJz0ua28P3kZaNe55odJqVnu+erw9Wc2Jvuc2RCiMVhHQjdkY+NaYpSPn4DTiK8KpIBtp0BspPC4OxnfuovpQdkBT37ysRxvV7xjd/TS/4rxcPEIC/ZbMGgXhGnfLI6CLNlZi01aGHpcOMXFVqJlK9h/SCZHrsVEYB3R6x/am4iPhG76vyONv/QufRAUNlLLFlR2it4UvlkfEYj/z9m9FnUVKgudu/daqs0CG8567yLCm4bxkxlbqffZlziLaSED+Gz+LSuRwd66PhtzBtHEFqc4BOLQ8rImmV2XYPjXlpDTMVcWOOIfxUYR8f8U7Nm6koCAkMopiJhyyfmjfm7tb1lmG0otGJyGYl0TltrRgjcK9ATFgdA==;7YGep6P345qgi+3kJLgQdA=="
+secured: "AXPnQEthq4fbAMmwOMlekBMrD835/4XrxW4zij1XJuABdjmuR/i5UpEIop+ULRySgSu+b9bxXl5mUZJpUCxYgUfwyt7FQS3eoyjVdbtBnX2WhZpuU7Ng19cYak6dnOhjvIiS+kZsxby9pQ6PXCSj54OXwgyCGLP4Drz42Rmcn4JPaB/fxp+gEVZVkuWwvBPDNfl8ND/rdpdH/X3MSByOl/BRWJCsIF6ycXodO8zWgiUqoZN5lpoQhPhB0tlSJPjQz5q3FiZwT4evjQxzi4vWnSjPAu725q7/QvYuVmxDJLEnW9CIicPBqIlQg+6X74IGZwBIo4JTSOqjE01+q4yeAnv1KC0xCOexz7QM/ySIKkEDUjwcTCjeC6tke/DRQ732sQu9/Khx3MYu6h+AzS2UsA==;Z8J1DvW0mDZKQCqVvV3C6g=="
 ---
 
