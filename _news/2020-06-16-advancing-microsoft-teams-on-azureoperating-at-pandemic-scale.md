@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-16T08:00:11Z
 webUrl: "https://azure.microsoft.com/blog/advancing-microsoft-teams-on-azure-operating-at-pandemic-scale/"
 type: article
 quality: 99
-heat: 119
+heat: 139
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/06/ms.png"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Ukraine jewelry retailer automates operations and boosts sales using Microsoft Azure"
+    excerpt: "To curb hardware costs, the firm moved to the cloud—starting a full digital transformation journey with Microsoft Azure data services. Thanks to stock and ordering automation, the company has seen a 2 percent direct increase in sales. Click here to load ..."
+    publishedDateTime: 2020-06-22T00:01:00Z
+    webUrl: "https://news.microsoft.com/en-cee/2020/06/22/ukraine-jewelry-retailer-automates-operations-and-boosts-sales-using-microsoft-azure/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 30
+    images:
+      - url: "https://ms-f7-sites-02-cdn.azureedge.net/docs/stories/766103-amadeo-retail-azure-powerbi-ukraine/resources/db8259d2-caac-45b2-b743-931e1d59fe76/1169289770232291702_1169289770232291702"
+        width: 5334
+        height: 3000
         isCached: true
 
 secured: "dpU2M/nRpLPsFNRYynz19wS5gVvb3atTBLW9fvcAbM51pR8nS47GV2a/hfNDCWLqdt1c5h/+wnWo29x0I75x3wiWOQ84bZCOJ3CDtKOp+tktLe+3K146q6UauWYoVyAFRRarbPjTH7ufu7Y8Pd6MO+qgfjQhxz0/W8krQCok5em59dkTImDYxiRlLIMcjSDcNU6DpavP3BzcZrxYsxRvXdW24ROnxI/4lm1xOVqAX6q28pUK3DV2+Ab7zmJ6Nt2LTA6Y/uKWaXvCdb86MNeiCpzUEk6H2PzyOz63ATcXBrdKGLMaS7CqjoqmukyStlTvJASZSNvz/t5F54RSBEhbxw==;puZYvEPNiUGJq+uDmZ1OGQ=="
