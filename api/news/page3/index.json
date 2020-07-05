@@ -2,6 +2,43 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-15-azure-quota-rest-apis-to-manage-service-limits-quota-are-now-available-in-preview.md",
+      "title": "Azure Quota REST APIs to manage service limits (quota) are now available in preview",
+      "excerpt": "Use Azure REST Quota APIs to manage the service limits (quota) of Azure Virtual Machines (cores/vCPU) and Azure Machine Learning (in preview). Take advantage of this capability to query current usage and quotas for the supported resources and update these limits.\n\n\n",
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-quota-rest-api-to-manage-service-limits-quota-are-now-available-in-preview/",
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-15T08:00:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2020-06-15-microsoft-azure-becomes-sass-preferred-cloud-platform.md",
       "title": "Microsoft Azure becomes SAS’s preferred cloud platform",
       "excerpt": "SAS goes all in on Azure as both conclude a strategic partnership covering go to market and product development. SAS analytics capabilities could be integrated across the Azure portfolio to provide an additional option for model lifecycle management.",
@@ -571,52 +608,6 @@
         "Azure",
         "Storage",
         "Management tools"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-azure-firewall-forced-tunneling-and-sql-fqdn-filtering-now-generally-available.md",
-      "title": "Azure Firewall forced tunneling and SQL FQDN filtering now generally available",
-      "excerpt": "Two new key features in Azure Firewall—forced tunneling and SQL FQDN  filtering—are now generally available. Additionally, we increased the limit for multiple public IP addresses from 100 to 250 for both Destination Network Address Translation (DNAT) and Source Network Address Translation (SNAT).\r\n\r\nAzure",
-      "webUrl": "https://azure.microsoft.com/blog/azure-firewall-forced-tunneling-and-sql-fqdn-filtering-now-generally-available/",
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/1db2f887-021c-400e-be73-9fffb77282fd.jpg",
-          "width": 1024,
-          "height": 369,
-          "title": "Azure Firewall forced tunneling and SQL FQDN filtering now generally available",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-10T04:00:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
       ]
     },
     {

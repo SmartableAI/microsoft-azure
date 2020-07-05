@@ -44,15 +44,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Azure Firewall Manager is now generally available"
-    excerpt: "Firewall Manager is a security management service that provides central security policy and route management for cloud-based security perimeters. "
-    publishedDateTime: 2020-07-01T16:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-firewall-manager-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
 
 secured: "R1RxCvRerexpPvvc4smnvulM7S/INiy/qPPpvcv5UJcgxdKNUaOQo4B868gZPnvbLPX/zFGsbqlOGbHMXtPLkIU5rPGwZdHFRbUmUp+r4jeIL49okmtsWAJFgdMCBX2mUymvhq6KqlAWo2oqyw3UokjANYYVXPTGBVogUWORUrVsKuiEQmix0wb0CkT2gsHZZj/cSveOyUXSQgWtOrAPAW5biyBZXP8QLpU9ktGvEBqWngrzUfbxweCG9qlNpWS4RclCm8drpj49WzOfCJdp58w6D+lJJzAXkJZMErv8yZqYtcs16FpwppxYXv6GSZHAp8H+YVcz1reGorO2ukS4Hw==;sCumBeN5o+iuEtp1cYEkSA=="
 ---

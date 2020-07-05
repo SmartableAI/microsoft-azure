@@ -30,10 +30,46 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 78
+  - title: "Azure Archive expanded capabilities now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-23T16:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-archive-expanded-capabilities-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure Security Center—Dynamic compliance packages now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-28T23:00:42Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/dynamic-compliance-packages-ga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 76
+  - title: "Azure custom role creation in the Azure portal is now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-05-01T16:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-custom-roles-portal/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 76
   - title: "New DCsv2-series virtual machines are now available"
     excerpt: ""
     publishedDateTime: 2020-04-27T19:00:00Z
     webUrl: "https://azure.microsoft.com/en-us/updates/new-dcsv2series-virtual-machines-are-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 62
+  - title: "Windows Server containers in AKS now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-28T16:30:38Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/windows-server-containers-in-aks-now-generally-available/"
     type: article
     provider:
       name: Microsoft
