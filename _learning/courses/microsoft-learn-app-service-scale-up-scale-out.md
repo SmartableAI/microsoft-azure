@@ -8,7 +8,7 @@ length: 46 mins
 ratings:
   count: 1601
   average: 4.5534043
-heat: 61
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Scale an App Service web app to efficiently meet demand with App Service scale up and scale out"
 
-secured: "iEDaitv09zrUh7hbG2pQgk5MU5K06YV4COFSCprFfeHnJJsKBevF1rudCPnFuWDkLOxf+y6lLdln7AzkhjOYdjeQ1EzR3S9LQjRZiTxNeg+FXZtUTQIDgPjJB1TNxFU49Sk1r2sTcl3bTqeaGh6aRKWISBLoxzQq8JnZfmt84YMpQ9WRpKWchLTXKun/Mj68ZUsxoV8kV1+H2egk4PqXe7nFNLncC223vIh31GQaGvoHydnDLQa1DmHRRjXFpc3H/U3pllvT0McL7ZGN8qM9aU/F6YqgDPlEnfonem7jBETDHP5XFsJsWgtMUiO+hV0RGt/oID1JznG1L9aQUeKqzQWpZJtAECR9E4uvcU9/SBVpwD/3ztZ/zu7C7m9DggbRZuC7ebk74yKiuVkisUJCpw==;3VbExF4MRUVsr/7g2O0JxQ=="
+secured: "QRyyjce7gTFUwjCxhLoZvfrvExcAl70+99yT7o8NQW3GPic6/eABEi2o0ntynUo3xonFbEfOnNh/6fbY70bIEEXgiKiYeSf1P2teFkArvs759KmXSgogsEItoftS/HXYfoqI5JCaRReFxV2Trr5CoPhH9T6Ko7jsAR4MEuaJVzxvva+dbR8KwOjq7h1KQivQxjhkUGsyomIQ0iebK8O0Sn+4Ga0RAxbrKCdpWNYBj/PnkJzdvO9mbxYILH/eDzayqzQ6K2b2Lrvfeb9dVqF7WCniKrlTyn+bvgjhRnjo/t8cKBM4RIlKhn+4WHDeHvuG8cJQZfQzV1KW++wQYjHcPj9TprdxfIoDmLAnRUXSPjrN4uDeg9FAtwJtGREjfoSXiJXy5gDpQVSt7QNAPsy8Qw==;nND+63w1gon1ipfgSdW4iw=="
 ---
 

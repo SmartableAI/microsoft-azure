@@ -8,7 +8,7 @@ length: 42 mins
 ratings:
   count: 1392
   average: 4.5653734
-heat: 53
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Build and run a web application with the MEAN stack on an Azure Linux virtual machine"
 
-secured: "JsrqaPPnpL3200DUa3804fVGaGwwUGbx5y2HRP/XB7n8PrZ393pv3rT6697X4JhWDN4JauTO1RWz+rbgkPWeodASNMQkaI60m2GnQdD2ZGQksZh07dDVUZngTZoil701k6FWjD7xBXSu60mOTFCjiBfSonTaj/NQQknADqWkykFoX1XHjx6RmPGrF91H6HSiccQTJ/Boj047GJPA7QKrxC/IJWdSESf9sjkOVhRJbH0PPfAs9Z4HDxPKqFugpybwQuxHlCUCQWR8cnJTaIOwnwKQwPxv0N8y8LNiPueXghw8+WlfOCMkKg/t7qB4LgokzfH6s2zC6dCG1r4cpT/4Ay20ePsXMMpRhNgGq5qUozKRRfAtUIkKiIztwzQy/ydKMQ7YqBAV858l9OxVQBjTpg==;i3euxShlrU8ZHbAG81G13g=="
+secured: "cBKCOb2okmVRRHK3YUsA4Fjps4e1nG9HedX7k3ikr3EeI0NkuG+NI2wv48E0zp20BRl4zhqD972UXARmCJT6W1YSF/my19cShv/bWAYoQJCPrUCRTxuV2Klc+qbSDzghqg+ozgHzn5lKKPM3whfC+8DKUG5H3Kt0XO1Tz9naA1Sd0K9ESr9ggtnkob0yomctFl7HDi+jnHLdnoDqmpOmLn04vvG6GzQZ5IYJCUDbwr2KnWDj19+mjRxqo3o5D711lvdMBA2G1T8rQdtiqCRz3Ib9CO68FCVW5QjgSGGMgXm9y73YXOQTUwZ7RzwG1vXFeMbP8kcO0sCEDv/xa/fjsyyEv2DNCqvOq3WX+WeaXIIWuHXBkl+/OiUF88swLqZsHxDVqfitWQjDlZr91f/zhA==;6MRUJlNBBdR1NvNNCpsFtA=="
 ---
 

@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Distributed computing on the cloud: MapReduce"
 
-secured: "KUuJjclilKTowl5IQ1eE7foBe5QVsWP1y8Ie0R70j0BojjSV3P2qUF1uXp9+rJBhfc6/0b7iEfO11SjEIhj8a99snAezjrGWZ7qNpSBgVnI11uc/uknPa9AN8nytFVQfUXWJUv8WsNsW5m2R+VWixwwDusDPVT1BWIat9wO1u6Fkgs6SSnW9algzJZ5TP5VXN3RzMgGmzokBTY/8Lwd5peZ2mI+2PehziBLwXzR4yz5AuCslnJyJA98m/qUL+QyMBwjE2PMvBCZpaUgcFvU2NOnzLyssYP8ZNQgmxwQBMDL8Y+eqqSVJjaKBQlaMxlViKcMPpurWG+W7JkU5dggoCr8+wQeJ4lkDamKORjOFF52BgSB81Hci5Rm8db/lkAjGy7lEa481JqrT0H/clVIXlg==;CrMyKCSU3A8bfR4kG8951A=="
+secured: "V3TwYdYRXBrH/h+QvEWekG6kHgHLNfehizhmXZEM/r3ae39j6vqO91ECKDitEu+p2zCnpz90nYT0UCBImMIc6tgOn60Wtyl8NbNL6gu4ubqe+jAe+FxEDANVH2qJB7/OXdueUCSKs+tcjHsJWNpxR/LcPWoUpAGbIQc3pFOLWyBg078DRNHm1J8PaPpzSCo7ler3LBZL2U1p6s0PDWNG+PA8tMGWLy/WoTQ3+wYb/OOzW98Ujyixb9esFiczNZR2x6Zv66Utbnt/daZ0ekbsOGSkNFRHDAi1sJ/i5R5j6RNIDrkcHUqDisGEx0gYkQEa3nhNy8htT9RadTf7gY8ZFMmbtVbIWY8Y8lvqoW035Nc2k+eZT62oT/zRHvhKvobVsyZ0ClARGgj6fEmOyn+8QQ==;DCPSpewcsjK0/x2GnsrrOQ=="
 ---
 

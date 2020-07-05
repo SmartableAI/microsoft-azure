@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT53M
 ratings:
-  count: 43
-  average: 4.604651
+  count: 44
+  average: 4.6136365
 heat: 50
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Create and deploy a cloud-native ASP.NET Core microservice"
 
-secured: "ay9vARLP077E3V9ZNkfQGOycYgCL8ZcjHUELwKeftibK9sV/OB3Qr3VaNmNZgxmUcJb/NC61prc+luUvQkvBByh1knPPS6wEEviOAtWmOdovvOyeLO7I3/7nB3CA00TyemAhEkmeHsUDPVy3FjnIJNcctRnbWpVJP//rUfAtu7SSe4GBMs5gDnR6tmgZPNUfK8UiLf8s8znsKS+TUIt49ugSZ1j6LvxfsdGgF9Dox9u2CIn59SfQn39GnClL9/0g4po5SAlxEt9rbUHBhaHnOBgPJucsqpnJVKYEYfVyx5yIUp3LExXiM+vuOCDpH05FVzjoHVtPDy4Rz6LP4FtoToR2ItMvspDtMQv5cRsRuRHMdpuseHX7qfTAo8ZtBjaS4lK/6c+4s8gvUpz4vFL1SA==;QVkCaDv1WFc0MMbELC8Lmg=="
+secured: "oYsnohQMen7ZndayWuAjD8gEnJ2i7hIjXbTLvxHQnxVTeuRFXnSVTsze/A7/S4hQbnHfOSwcxCQefFK+mVSmLrM27R/jJKIgRk6KYqAnXfMes17pBTM0qFeVdT6WEalJpfzHUWtA/aQDSxdLISeC7XNlvm7PgMBjkgaoESQTmA7TrpBq2yWotxPcnMC7IXEWFmlQcW+ZkggQM7rl7gSuk8k4d64hITOMjLNAUwcorIMCKGe8RzMxWsbmMir2Vt0zOtYTvXGtxTErzMK3J+FFUW3oMDBgm+ml/02sD6fHLXRZrrdhp8YeWXxOmJkjWjBddm/vTO1riLBQg1jFj9cTptMYDIWPrSjLFcG5CkripvSr49FtFsgJdLeWKJen55svz/9PhPLD8EwnTc4ndYsW9g==;H0w3Z00MD5fMVKyk4EEI1w=="
 ---
 

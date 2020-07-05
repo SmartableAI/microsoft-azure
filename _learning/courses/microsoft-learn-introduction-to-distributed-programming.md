@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "What is distributed programming?"
 
-secured: "iEYSrX/G6vo1ZG7dygWGCETLBrmTOQRJ4U6lNXG+eTijPWVnbfR/jKWO9GeBazPhgp12JGeksL1kfJ78fD0sASk3EM2AgU+x4NkZb4lVaWA+teUllFLcdbOYwML82ZfK90u5UDPxe5hukeUahHJr5asR65UfDkvQzOWKrvBbT+ds7H9+BYiwHN4yPo7Tl/tnz3vgwrE5pOJouPHxFyMR1ye8AmRi11RNgimGJIJC/6p3MNHh6JP7GCEuS69tdJbfgmi32TLuyG/OFzb/xqsqcPo6IecMqdTPzETgqe9UgpHxQXtf+OMfbD0+s3mRPR+s28/EjtD5IglnXvC8YGXwk+XdfIrn75tqHUwMpIEACVKqkORDrBuX7/XgSHfrt7zX8XY0irwk57n5HZCWgVtD8Q==;w+Rf1bBlWmexw73LQfFGdw=="
+secured: "53CdaUjzw17ka5ir87vftM5d9PMWVlc9vjyU6zm+pw7dTO5/NWO/Zsf45UQODZxwEAf0tkQszeiOtpS0ft6wVpSQazppqkfhub4vG5Skqr61Gvf2DsnZta6ts1TLciJXaw+/g+fcC5e1ws0mUU+PGd8jdBhh1qXFAJvUfHWIMaikB1dWc4lD0GlhJKKiYJBsoCyIc2ReqLtzzkfibZtm2b+SGLfUve8THaA2G1uOf43rM0oIGyw7Kw492IXKzKIdPLp7sOwWArZzfO55IXqcyEjPlEWZZ/R+d/efRKTsG2JXfMgn1LvHiqdETufNgFOrZ2yEApSLnCxtKK+YSldGRssyVAINxwr0R6IANZlxO/oqtxhfIozXmkAkGVMPoo+Oko5SYr+iP/lFs1tyILzUaw==;5JYI2TsCjX9sOsq2FqrCrw=="
 ---
 

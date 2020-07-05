@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Create a chat bot to help students learn with Azure Bot Service"
 
-secured: "g/FXBWnuKPC1HRTDAweTVQDKV5uv9RYzrtuuLclLIDjoMHNaxg5jgHkffxFDHqYsBIXa9lZhxY5+FVv2XtJJkP6cht4iFfzh/xxs5dNzHDyGQeqkvFnEVQ4r7vvIXkNRLykbEvH7Iy1kqyqFbsw3+VY3nu7HbI4ulN4ONbV22caGKSfuDrc/KOoS13jnQBNpwm92RrRdC+tmveLWtIbBg6wT89G+Ufwo5BdENaNyGGO1hebqZTe3Tm1FvUh7A9E00YLzc8RpOGk2g0Z/UgFTZ1sM4S2L+MzACJGZo6tVHSR/r6y/jA035JCkJ91rky5mCKxNe9h0nRRS45Qpy5au4381i3qwNOqsmYK8DG/+UhViJw7tk7kll03Bru21By17DceMNkNo8EifSFaY4JXy6g==;oe1XQFNrg6htRKabmM0Mmg=="
+secured: "7YzmTXEDPYRiUtpB9HMkkCecSe3qjgZLPZht2PZDyiEj33OM54mv2C6n+t0zBDxrwxzcBgvV4zEj+InflF/rYuvG16kQtccejxjFeKutBr0m5fERpGCMh285OvvQT6rz/I9YMob4CP18Z5FXZTT5KrM2nFnO7hxIrkGmaytfq2d/0tgOVOGkb9zrd47t0B4BeYI3wGYF1xKtLuPNjnDG/bhAimCMKBoxSQZyUMrNf+vgqyqE0pXFFAfsaUWKjQsaGKYv+KDmHWRVHXJII0d+Uxwy13uHRhgUUWS/mevxL+hXqIPgBYzkrSsasycrU4faX7aGJ7ZXjGbDfhukkN90p/IBDhbn60DIk4ddBAoH/AVIr96ORSvDAV9+QskaYQc0+0PhD7X37Yn6sTGD99GTjQ==;tZeU++BDSMgkV10fQNMLkw=="
 ---
 

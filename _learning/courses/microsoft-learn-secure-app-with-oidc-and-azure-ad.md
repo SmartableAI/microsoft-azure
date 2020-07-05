@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Secure your application by using OpenID Connect and Azure AD"
 
-secured: "ddqMbChcbz0MwC8ziioErNd5gfKRfMaFlpgYLc9FshQIsSw6BqUSMsW9/b4pGMyxXbnzNRcH06kHdSJfij70n6h60sqeH2H+pyKHn5tzI47O6Qnnp/r3DFflX1LMgJAm7rJBM57nsLnFqsKeROk2SAajUVr2xhtja+ah4mKAVgUfXpgNRWnSlA3HTMBJDe8dg8KsbFkwJv8YPQNrN/+A57/5k8b6d8vHTAzXDX/6jc/EXPClK3YjRYBLApWNcsy7tcs0JwquarN922iTRxKUMpZ+HBbxkvXGsMWy91k+zu0SYjghtG04ma3xBH+5DtTTavk16dPVLKWvqGL6kvTbLSdNlFFt4s78V5Rnn+Tq7HktAEkcCA6jGkEefebxwce0y62XUkGcTHBJ6zBTFyWn3Q==;4GRabzQmf8nwQb+WF8q0Ew=="
+secured: "Kl7wGHIcrshXPqr5e94Ak/P9+EnAQ55GYgOHwpXNGJCfI64ePlVxQo/ew+1tKPojn9R1N/gEae1N87Uw8r+6mKj4WtUmeWKecMr/n0kACK1/J1WnLuNQ0FxXIPdwtLeUP9VNXnjMbS8zfmPm4Fg3GgFZSoqShcfgI1bIg1lfrynCX+YapZscoawHA5CA8dZ3pb5nGB5yA2qTvO2yvS5VppdqEdqVG/HTal4Ai/8Dl6DNK2ym0YM6x/TZNC6Dc1W/NfF+7fwa6wPcsSfkEa+xnJrb+UVoUVs9Ifzg0a6xsKb1/yUQzHYFA1+Gb4XGlclta+r6I+AEchxE2U3op0TSdChINJN11OdFyfSVB1CZffuqYdgA1PJzUemmYE6TyIr9TgPtqSsVEExK2X+6XUKEWg==;upwwkcoqqPzmTZI5mm/2jg=="
 ---
 

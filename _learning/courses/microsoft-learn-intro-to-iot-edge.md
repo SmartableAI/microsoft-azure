@@ -8,7 +8,7 @@ length: 29 mins
 ratings:
   count: 527
   average: 4.6318784
-heat: 52
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Introduction to Azure IoT Edge"
 
-secured: "9M+Eeh6PST8wriQlZEdreFlZQ0wPGTY7qaSWMlUFLEwkzKm1anaCC1akPV2l0AXlt4hJawBakiY10bOGjQKMrllpeOwIVkDMwmkNg1tbvvFtIHBSN5frDuhlDQz3Gg6N4PU7dTmEy1P9QFiwYeCbrDvOmTSbJmiT+AAz+/akYMeMSe8g+vnOb8lD4idCNdIwKiW9ULk1Sa0J56U75SHF8kNlZ2k+Ln4wg4vGl7V/MIO+o931KpQQ3PAtsVZvRijrReu8zzjsVQPE0j5FjhBJeziDwlNY0QRGBWbVOUw2cVrhN8/qQHe+mKbDs9vjWOi+Tl2Mt67RbvYDiX8UCrLJu3MfW0WnSGNtRGBY8TMMta8wL3urTL2Ayfj0E6MtUHRnTrXtuDuGsMm2IVD5zWwqZA==;Zjo3rv873sWdHrraKMuJGg=="
+secured: "MxeKRcKnmyO4rCAmTrXo/C/gLazN41/1pbwJrMYC9q99PqxwE+rb0vC+I5uyjXrmC7hR6ynGlIfodRdFZtim/ZILGc+All/upksVkODwrjp84ju4eEnqucjicukQPT0viAlDzxOROotFz/Q6aLQtpgBGnjLd4pJGX5UR9DEPgJqbDqtgPo+l1YCFNxtwB2KdcjQoqZqUwrw/2LJQyAvJzM46gqW4e6Ub7iOHt33EOvSHgZwFoHiXG0X0FPrDZJCd9Ail7ug5cq8W3rCb3wrdlMA0jm61gWe2jLl2LDd41Ch5+hGeQC4whzQDVSyCXrENTqHi76GMU9NdLR8pcJfFUklHhJ2mRWfs1Bw8UbWaNxfjN5bkna4m4kk2s5/xSfnJ22JLvXu5T8bCCtP1a+yesQ==;Uhgoe4t6wi56rht222uBdQ=="
 ---
 

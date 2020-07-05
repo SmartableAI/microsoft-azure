@@ -8,7 +8,7 @@ length: 47 mins
 ratings:
   count: 785
   average: 4.5961785
-heat: 58
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Design a hybrid network architecture on Azure"
 
-secured: "3UUWzL+RlmWMQI55yldfgAowPW2BPERjW/YDHbkaAh6aLSYttmvANcoo81S46acTV5t2nmsov266d5GQ8DvYa63mezDAiYb572OPGDpIEnx0KADh046PE8s39O8C0hCqHssy2GL+hVWEaYQoNMpaBrWmYVBCCCSg6ij9OXDHfe5J1QGH9pKeSy876bjCWXXph4t4hFr+NK4bttpwIBQxIqmwmj0Q9/QdcTuQIgB9l+59+mg0b9BY1El6HrqgZQCi9Y4KNGidEi+JnfogElYWX+/udYgkl2QvGxV0wSAEqs7dUoPAK4bdF2ajrBeH4dXKHVTGOGevm5lN033YiKjwxItL1jqikNRi0TanPhljFBSnzLcFroLvWgJMrlBAJOR8wmVtdZFFCaZbxgSyVLjmXw==;PksQhIgwh0fe8fkYlLeCFA=="
+secured: "CzFW4XC35h61+rFhhQsW+kTOBQjIb8LYDpVupwe1fl3wF6AXp0UWo88yC6TaDCERfs9Z0PpLFkWVc0O4YTJucULKdc1sXUe6v+iU/TLsGYLg35Qqm3Y9W6gSWquKbAV2N0MYaGG3P4pBYw/O4lcApZPs9En7VUZRd/Vsw1NMQnFzk0K8fNArRY3hz6zQGEUL4HIosvHeMvyPcKlz1xqMVYLt3rTr9DppaC0Nk4eHF/JG8JEAhePBvg5AHAzQQy7pC1iGRBtGJXausJaTCcKGpRi+couy8soatHIOw4TSk/46XRQb6zq+1u5xhMSJtY/H8u4HGmJTqruWYv2fy0C30F3B7hqe/SZeorE8Gv6Z7OsxFOPwc3brdkA2NDH+Ck9C76x5pqzYKwaqXLh69YkYZQ==;7f5GceF3TzdcQNfDl+ve3Q=="
 ---
 

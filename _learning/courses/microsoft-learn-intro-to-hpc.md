@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Introduction to high-performance computing (HPC) on Azure"
 
-secured: "w0KIWOS2ZOWBQssy3vZ9/h/iHP8Kup+BqSeCWTVZk+1kX55oU0rp5TgDD2j63jf3GajxyPvlDSBrZLQZC/RFDgxeGTIoCkFyeyTwISMctDMT8FnRz914zmgvHYZaAFU7oZgR5wwkXJta5qoxhnzwbhnb/rsA2MrTeVnm5DFryFvkGSEiVU9os6Rb4IdOj+TKrddnY95pygeIEpEFe7kRX+Dv1v5R6JDVfqGrXjaESXtA2C1FH9R+SgTP3KzQuADqHDldSZephqtVhP7OjYb0GvU51wYAlzXaF+TTl2xwH3PlAuaRyW7yRnkTAiRP9WBQo/Q87+Qmm4XhWr0Mo7hQz/BbR8aKaI+XUBFKDfq+K854H53+ZhyjqDi/ltC1YEdUo9LTnhBbUXE+TusEnmB26w==;EvXGTGu/hS5KO/YMmhcgmQ=="
+secured: "SgCJzvI188/ToHJFzTZd5kdZNW9x10rymtqaLxARL9vtYnJASYSZW8bZLm0ZGjUmTQo7xq1rn1mz4xpjWOmfWx6OGE7D4ZtBjuxQyDt4cylFCK3ObkLF4bXoQN40w8iU/U9XKTWeUqqyBSmsjowqZMHOWqAYXFLCAF6PDYJC3n6om4CWfFgseCYGZWiqkCtiz2MNY8V43GE1ljA7ngGqClIO8Zbxl/5LhjH/+dg7b8npVIJlacju4C/uOTdQ7VR0rzVsblvPsnxwtCBEvWkq54Pq+BF1eFhaHFRMCU2cfl8S5m+xIznbukaN2WY/sAm9zIQ5GiXipyklqKy/kU7yhd5aSRM7GhLPZLECwrOKw1jqxc/0ECTut3CgfjvbiSXjoq1BwUAf3UTDf8qHuhXAKQ==;QpTSs9/v1U9wtQktlBbY1g=="
 ---
 

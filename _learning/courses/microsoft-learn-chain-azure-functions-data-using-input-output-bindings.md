@@ -8,7 +8,7 @@ length: 70 mins
 ratings:
   count: 2235
   average: 4.5973153
-heat: 58
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -35,6 +35,6 @@ images:
     isCached: true
     title: "Chain Azure Functions together using input and output bindings"
 
-secured: "5xtek0ASAyh90FwZYASDlbUcjaaTFhKt0ySLrm7cz2wZSL2ZqoiI7/p4lcbs9mJaLcMjOhL15az/hi0yqW7ZIldUWFSD1WemoJdBz6yAlCZrq6RBA91zY8p+SmCvY8EKdimVqMMkY80fBLrnbBf/75KpO2b+hyPd2CwpTdzTMOspHjGdEvPh1jAcHEsipfoZDqDxOwlcuKxaGnz2njbI79Nu1goCJMxmaHK3/Nqr1BmBaeSRaN/F4/HBz8FYimFcV5NGk+fz2nZftSK6N1+P4EBX/iqTWetjYE0frU08MD+MqQcEuQSBecaBc1YVccdupkhYnYzzErnkv+h/L38ub2VEEPy7D/kenynTvR0Rw/j+GyFC/VuHiztWmwCTTcGdaKgz5eQqBTP35jf+cYDM7w==;b97HFDpo4RKRH5hLQ3bu+Q=="
+secured: "CLim/XjXKShbuLFaDl1RfRtEPFppRzUNZPJ4PE2119bcVqONZ9ZIWD6meNmxhlCxJh0ap/AEGFl+euQQicUJGRRHWWpx566OItFno0rzVEtivQ0vO2IyI6M2O1o/Q9MjCCVL/8evVdCkYI5BffUIk+FrqBK1hQQXWhDb7/63c/jK/8tJRLKsqYK+lFnrVGzQ20KXNGKi3tJIr7qmTRYGV8wFV9Vvmv8bjXrinbxEGspujmrouNTTvcqcRNYVz4VGshQUO/mxw4dR7FwqcJGhBAEeds9RkmcMmSnxVzE9m+mPUnnsZ+07vFpNTaqIn5NSanC096qSIidlPuMh6OftEFGA72F3pJfXS3qVjhA+22+YJHd824/GAf2TxlrmCn9NxQNrbWu4tkLx918itcygPA==;yEtLCzieXV1A6pL6iET52Q=="
 ---
 

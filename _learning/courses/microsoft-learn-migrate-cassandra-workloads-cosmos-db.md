@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Migrate Cassandra workloads to Cosmos DB"
 
-secured: "QUvJeySNg+VKrCBTfaM7Dx//zHEU3AEc1BQGAppyIoBegYi2k8xp++I//LVF34ClWZRkLeXuG3LRscc+2Ru0wgPCEO0oT4ucJJaZiTSjFodN2/ByQSnBDDMr5B3A5f6JkMJQlcPkcufSuZHE94MwppjTfNvjhlVQtN6fDippurMKXpMRoGB4jvoJAQ0G6roCI2OujTNBbiWAkMLNyAri0vgOS/uwFbWLc+JfJTAQ+tJq02Q+OQsMcUlvke4u8gKiEc/SRXWtg/6aQAzYhfL5gQ/u8ZtwMYjrgK27Sm+I3cIatl7E+uVtFwEcXvE4fX6mHGp2IOCQY+mtPzS/tMShuklBLcpKsp+DBIw6wzYpe11CcXdzZLrL8e+QIz1HWNydSJfmyfGbLnc0XTVsFDVItg==;tutgDJFpnXFiJCBqHRAzhg=="
+secured: "24HrYvj4bvFi8SONwgulLQaRRnX0J+QnCEqtn2R9nTfszNDeKJZ4/GbYMnu+irHx6WPnQWzicbZ6KFLy9avoT+sY5m0q9fkalPPUVqs8vTm2muPNW5ddfO9QMxaSZNuPsr0LTrs14XGy6CeNMp9yQmGR/SG26WD+bFzRWTAp+Rv8+GziG/MCYUPQWsO2PwcFv7EJ7aUGiYe2jKM2a2xbwZp35hMJQPqa4txoiVWI45PwAPg78V++Iu6waOW3rIBGA5GbxFTug3V3RhrKmdiPM5+Tvulop0ipi84la44lYn9RtSyoT5ruI643NXu8kGduCtgfo2VAGqOPoDEtp5hSQVzPrGr8OujYvrBP1eD7Xw284VKesu5Ka+eNeJCd5qIcxyvNnJeuRsDhxGiixxbKLQ==;hTP7cGIPU8krIIhXwb0Zgg=="
 ---
 

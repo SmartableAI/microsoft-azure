@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 83 mins
 ratings:
-  count: 2787
-  average: 4.703265
-heat: 60
+  count: 2788
+  average: 4.703013
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Execute an Azure Function with triggers"
 
-secured: "QiK/peh+4pEPTdaeZvubSsFUVZn1bwWTNe2/dyyuBD22rEu4ecEFXZFeMbEApIEdUw/4mfCEgQDVNAT8jmZ6V9OwOhbGaKHMPlAaWnawCsQ6p8NZ4zR2D99ujA3eySO6bt/1kkDQvbEiZFdg+aTplMwgHi7tmSnRda62b3t5U+TO+eTGE8qKtpRoONGfowQNaCStDZisyuLE4jnSPm8cpRC95YFlswdy0odWC1J/ch1CEXak1RkY/xSTMx6C0UpL1cDePqPOLNS/Dinz/t58YVwFZUZ/GJIKJgs1rqmsBjgEUaWmu8QaMX7jXyQ/1vhzdlySRlHt55zs/hykTZXyhqr31Ib2d/NjLl0vGMtOoZFHqVbNL6uwj+3Jszv34R20cb+IVXCBev0C3BoaGvXuxg==;2Ng06vsYEawJUKjNuyEjPg=="
+secured: "nm4id8/EwUD2/AO+fBptshsvevX7XT0hME4NRmZVsC70ccUx7aDvq8QDWW3jHoT4IAmE2FFN8trqrkqno+bM9V71y/oDK1Ge8b0+ferwsmRtlhAzNPN8vvJ+xOQZvJw4csM2mZq1/OpsInA5LuyKevJGNS2PlM8whxdxictEWWQYvKVREA+DUIrjakDoUKRi3VPM+PYbJJFyHOfp4LIA5xthZASk3Iv41hVbqNHMxk6kbLtR+MQ1sa8KBcCeZ+JnXr0jRc4XjoleUG1F1EmN0Tu4MxPBCS+lKxmGGBFoof5ulf0McvdBtP+KchULNWj8/DfuIqLL8JpXHnDRG1VZrarQVBfP2KazPGGaBT+ypEr+UA1hrjB5hcIs2bsLqYOOIB46umbG7ThR8Qj1CeC9AA==;gJgzZ3T1yM0xQwfrfEAEmw=="
 ---
 

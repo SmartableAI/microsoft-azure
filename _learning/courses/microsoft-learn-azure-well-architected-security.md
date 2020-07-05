@@ -8,7 +8,7 @@ length: PT1H2M
 ratings:
   count: 911
   average: 4.684962
-heat: 72
+heat: 63
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Microsoft Azure Well-Architected Framework - Security"
 
-secured: "9X08TSy7F6tSXeqMo4OtAbCKaRF0nIgjUATrB5U8vSXWS51Wv3i2sj/SmWyFls8cmWaX8cXlZA0/VWuzZ4UA99H7/NvPvOU0ynMVrd2af9PpHdb2dAMcPl4J7NXR59d/0Ipr0p8Sx8LO7L8KjD8Z7rIGKSvHyKNNVElDTQmR3u+onSxvvDjRpF7+VrrKyvF1s7jM7O1zCJ5IdLAqZY0ckqFA7A3tubhxSrsxekEgLwS3iC5YdabyAO/ljb6+LLm0yjLQgYMM3hDu/J0loU6gsAYIw2R4/RPFm2Mxk1VPXREm68r19INatuvV79pmq9B3fJqyWNBfOTCUDEwJeybDLteqPjcLIHdrU1rt4xc2UFcg9h1L2xCF/7/k0JUtzpt5O2LjphYFBd1Lv2yvk5ienA==;gagxsNLBix/JPRR0YZVphA=="
+secured: "av+m9W/LD65lG1bE9+iz2Ar+4c0wh9+evB6gUsYLBKLt5EBQEpU2yieClqKwk+pbSOqfDtYBhu3PdxGmPgnJzs/E21//lAiHJuJ9ObHx7o5odQp2QI3p1leRkAR1BrD9UQYKR9qZOak7NXfV6OvH262b0qDlVhH8yWv6qdGQIJLwiVcoFXpFiJj1SV7bOANTWE+rQcxcsUvef1dH5OsulIC9M5GRkygDvmGrPetaf7F1grnMePZkPf8YGlBdxZ0uHj33v2BW0FoD2jmLAwDw8mj7hwqykNbObMqJgV4XSDHC448ZlckBYMLOUamIVFkS2kQdLjGQ7mhsX5+H3a8C88/lHpxBGHhYFB3xoC2v0eCaHYIo8b71C6O2Hgx29Hm1gHiOxsyWjy/8vkVbtRxTnQ==;/gwx92yt0L2XWNHhErT4EA=="
 ---
 

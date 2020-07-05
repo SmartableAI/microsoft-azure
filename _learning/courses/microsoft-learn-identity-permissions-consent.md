@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT1H6M
 ratings:
-  count: 53
-  average: 4.6603775
-heat: 52
+  count: 54
+  average: 4.6666665
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Permissions and Consent Framework"
 
-secured: "ShUtmE3BQYc/a2XX+HE51A3xM/0zT0IiONUPqGpfAfLAFUdj1jgvGF5MaXqcQL2FuYF6zAro1GVKkQ6yhuYbFWl2ZURNEes36AUpd0NlVpzJy5JWOWpJPIQshKndDTBn3eHtSZWrpvfs/uUNSZreS6yc3G2wMR+Qbni7Nqp4Brr9Yz2AKTvI51bGWT07LUalxmfc+E6ulQA4p5Mms4jDWyZjsR/Aoas4DS172kA2vyZFZB6ZVip2D4uPeOdgpoo22DL3XWTU/IHY5hrxI7mqJXjTAu6Ul7dToaQ+SDVFj0JLq1+VyeI2JJmuFqshuxam2tx85zHHac54Kp8GiYTR3h2IZMx+xr5g5FL1dW7FTQOJUvnVF2tJ/hzSJwuQbIy9f7VF6zv7AltgAyO2N1kNZQ==;orPg1I2Yx+BHxk/vqZhEvQ=="
+secured: "Y0p+Kl7FS/z642y/q20k83wZ0QC3pj38Hg6mbELcxIthpBZ2CK89gPHh7C7Tw1K9QblCqeJopZ9S1HInZ+3EdCe7Zx6C4U8ZKM0P1G2HQAssDK+0B4fM3IF+FxKxEDuj/BQj2vDxFGB5cJLSfvMbvPZVlzB4rd6D3kdpMSZcXvYQm0YTpAjyRzch1NMo4nWVU1Vptzp5G94+Q94NfZ/0qom8TaTn9NDNSL8lW8VMsF+pA5hWlZoiEZ95C/IaYqdQozorJ/iX7PgimkCtd7J9Lf6jIFkTTpEBAD271LZ80yEwQMix8Iq6SbBvHUnRA0I+2PbUSqCZwhul9uhDeMvrsMHuYW6WiXlFQjxs799R0pPD7q+hUVT+T/FxPAZkamVblpc5inlZ+37B/DK78ywBdQ==;6/M473pydEbOWqdXCuERtw=="
 ---
 

@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Create an app to run parallel compute jobs in Azure Batch"
 
-secured: "atGQye6h+JwVOkvSqQK75Bmra1NozpNn354PqCqg4LC0SAktwQMro5b65KawrbiCcZVL+LxtNNsouSeigtMCaPjrXdqcD+0F4hciyUyShheGZFB+g1QIcb1uTQ5YNzHEXHEYW3bkU4FZwu8qF/nFalxus1yakci4quF1/xMn43xic4pmt5QHgFMZ7UjZ5Bsq6Yh5Dd698QDa/hYYW/rXkxbqmbqE1e4tRYsLCrA09+3OxvZL89eRfKbAI7GHoj5QXv2XvzJSN/ZMgViwIwosHW/Dz9YYeDz8ewtDQ8JhCoOLUL9QCipydSaGXiYImCKMVFOv+wQDsPYy+qubaeisIbQWrxOL9vA9gEzi3/LPwgUlz2O1K0MvpM59HJM8iRyltWSPpMJ2aFmfxya9fZX0vg==;btZH66IOgCHlW6gL1mkInQ=="
+secured: "0GJwPWYjd8vk7UbdXtVGbAtdPjx0k/bh6b8WuwL4R0+ct/7/fq75D1YugP2WjEOy+MZ2AkY6JTYJVbTjaO5Sy8wua744vN5PaqAAcFVHIP2KRzB+QxHGx33gMLFaUzF0ltAuTmnDDxy7+6mjnjb5KnJV187U6ywMkzu2LuP5fDYxWOwwc9xBLRU7IGBntq3aCvZVWaly7g7Z7DCFBaVkF+ugRgxXDYqxlFmkozH9uu7Y+zQ4zvZ+N6385Nlq9J9EHY2ZtDj8E/3/JAoNw86R3SxhnwZ3QKu+zV4i6Us16aVwTpC2xlxd1hIBfK/u8kxnH/VKT45Ef8wdVipXEZIN8B8jLW76XjrZGQWbE462HYYeO7u0bYhz3/cFr4MXp8IlldHtWp8bgoBjkK+uE5m6pQ==;tTV0iJ/IKzTbgHqjzzGSSQ=="
 ---
 

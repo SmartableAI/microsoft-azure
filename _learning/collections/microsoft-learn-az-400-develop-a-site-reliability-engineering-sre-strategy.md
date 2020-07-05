@@ -4,7 +4,7 @@ excerpt: "Learn how Site Reliability Engineering enables you to sustainably achi
 type: collection
 price: Free
 length: PT7H46M
-heat: 75
+heat: 78
 
 provider:
   name: Microsoft Learn

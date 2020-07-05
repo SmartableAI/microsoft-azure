@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Replicate and migrate virtual machine servers with Azure Migrate"
 
-secured: "HpKZFBBiI5ilh3S3Z62dTcVmJPlc2MdJ+VzHfq99ON3jDZ0+owmh/hDq/74conpF3gww5+49zyyDpYuYfAnLqhbhNDWQQPyGd6dVCDO48l1a9YT2hYK/wzwb5kXWmVnyEjV3FOXJW2D1Y0OPHEUbQcb//Ifqnt3ycNLGy7T6mehBdbLeEw2WOW6ZlsKkCdYxZTLKVjTcE3LL3Qn51+LL+42QEfKByPXzuEyeLNeTRTDiU8XiagsMlucJMYDAPF2CKjABwmvIFG4NRgBeM2v+BJwyoI7kf8vMK7zAQH6EPugEu5c7qDJZkQZmVqvGQ6mxZG9tM+HDPXT+211TduchlDfpfAzkVlAISBGmjxvGXSv2zyPYjA2VGh+P+P8IxXgUIAIt6tQnXBUcMMnTMbM6tw==;+pgI0ulISS8WlO7H56/UBA=="
+secured: "bt6IWniXI2nua2QI+eLWzqn/YDN0QYFsKTRScAUNIHTptcJc6sXP/bLbrLrcapNM5Vb9y4ivBQeuwKODLo5vfzFPQya5u6i6FopuAHmygbhpYQYhaeuNzyRUphIrUOTcJEVSC8ipf/m/+0h9q6yHxsgG3KWzULx/44IWj5f6MbqRSDs6HGG3S77BC0ZS72k+Vh+LdFyqcLFEHduA8W0f5E8m1OUObXb8UXzWV0WOHq12K3tjwquYtvB4ur1XXIAsRP0LWdCOMz0gtUc6ZRIfg/QgsWQbmamuZxg59C5ibigCjEnc4ji+kBCUQDF2JbgZVmPD/ibdEfk04AoleCtF+voEGJApZQHIK2lGW9Tvr+Yn3kVxYqZRKOAU3iizrZhAcoO56BdJSl++6VkwYTVZ7A==;lbEMCWbgtmkXRFAdBzRLog=="
 ---
 

@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 36 mins
 ratings:
-  count: 5290
-  average: 4.6767488
-heat: 69
+  count: 5291
+  average: 4.6766205
+heat: 66
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Create serverless logic with Azure Functions"
 
-secured: "p3DBNMSvsTW7xfoCRg1Y3eM3SoV2+DHzRVr2yCkHfFw1fNAB/GBVEzWu8SJjOzywAzZQnaqmuvdQx+eb/mteMcP7U5ygZn8BWEkfXIT/7pvmYUi6lxfue2whgpcBNs7TgevrwYFRZB6dLL6R9MV9IhdAHtIWqtqCj6KpHD5TGe8yXZMzlfrvdxptbrxJKTDTdEeEZoH6nvCdMem0c+b8llWKcg46LCRyd5vAmp0OxC7EfJmQ21z1unaOB/bKKWwM/1rtVWp0q0auNeHMfdCx9FnTh46FLXQogB8qzrR9tgAoxW/iueWZZef0jwiA+f1IzlqQdZ7ax0O5OCtMTVc03qRfs8u++CVBUaG1xpULhc6zLDxtLu78LDi+80cgMah7EZyN0ElQm1xcb2v2Y1jN8A==;VolFKRU2XQSTrFepcFFYtA=="
+secured: "60vTLwvKbtQtM0BWqaXqy2SFvTh05IwQr29mso1lTKpdIXOWp9FXQJwkjS+OyMfi/oKI/SfKQFWXkouKONT/UnKbqaZkrA6EVO7wR1vrL6Tj+S22Q5/orxb8z3AgTCuG/qKGaLIUAFdNk3dig3UcPO9JB/7GYRshwkOBKvGD7dCBDAUfcOrwt+DAVe92ODNuzgPIhhc+aqxoSceSqEaGo6ihAfDpYgHmIvTWG2f06RA+pnHJN0+rC8OnoMUebKKRSNaHEft8jC6rtefTtSgoBISL/Hb3ditEidp+bVp5bZYrhXEv8UcUTRygQpWzFynJfObS536PqLvWVpV5zgCM2cVGtqjqfAYnz9C2qiFYGfNtNWL+luoO4FOL/pKHejWxmFJyo95mdAYyDwFMo6X94Q==;C8h7yFcEwWM5Bx07eR7UEA=="
 ---
 

@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Run an IoT Edge device in a restricted network and offline"
 
-secured: "T3gdllNzd9iNgzw8P9z6F9uyW7P+EjhEsXc8g3haFjbJ/CUstBrON2JCz4/Uy5p6tE3erq6BOXqp1OLutTS5Wl6yQQFZRpzbLnH5ZdK/OcSFiajz3iqJhs/7c48jLqT4BwyXqEVWXY+xKhRnMXso0JpQ8sdbbIserX1u+o8BpxMSwkHSTKu1i4GoL/Gm+u5SgUGgfXkqSNnZ0Sw2SvzamugYk0IWsSP5+885DIVOoPWjCBQMxDv48WmFpFrCk02XQ2/AA3p+rnVPeDp10ErU/Vue+RElT6QUr+Pm6NkjIfCNIjj8RLsFjLFof3N5uyMU6Za6+D7N1PvuzEZTqGC/aAMEazNd0qG5cRXhoSL7dBkQMMNGbYPJTWKlv/IwXc8QHeu6oVl0JRpi+FnK2Z3FGw==;knpLPhwo052wdv6om9El+w=="
+secured: "X9d6fZ8UjPnT1yKUS3Ce/T/6q6w0MARVVgU3JJQtaH+nbpRliq/5gjpPQjKaAgBDw+70BpUmm9+3wYpnGX4NwFrxsSZn8o64uoJ5HnDTOmmorxl+la/yECizcnqt26gXTORk2CTbaK0pNZ7lTStU5Q64H5uKTx81cw/K6XjVbEo0FgZg8V/nnAszAD6VrRsslGKytG1lLpOcnpOeF5mhS9251My1Xmr7IQG9NlQPj6TQRn8pOe/ZKGLCTMU45DFOIqGcqeOu4AFK97n7mSbp/+h8BCzec2XeyshWnEHV04FLeHfaV9vtGP8EEbnNxotCQgz82ZtFDhffn70JBgaYqeeIIIreHPQd13igU2CzzJpWjITRPkBPXSpDap6w38ZUMyeL0x5DBTX3S26FKexefA==;wMymaQPdYC1n9PtOu8CN2A=="
 ---
 

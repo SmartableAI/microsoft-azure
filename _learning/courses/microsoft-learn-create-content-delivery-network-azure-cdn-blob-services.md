@@ -8,7 +8,7 @@ length: 63 mins
 ratings:
   count: 399
   average: 4.746867
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Create a Content Delivery Network for your Website with Azure CDN and Blob Services"
 
-secured: "O+Xayo3CNeSWLqA+QDTiRxMuNAKi2jzvMQVq9NAnEB6AhhCA25dB2m4HLsJ2ZoU6TBl+Q+aKl5YoT1ln4U18puj2FgJedG0rUWC0t6N1wPUPBUxY2Eewa0lxqqY+AKJh6gXJugMYx8n2pP6Gb+hEoqQuZWI7k+fK7+SrgZihHQreTVpGZAOCGpzSahXh2Fxhw9BArhGuorP8VJGbH7sj47od3f/gibeG2tTL/wW9Y2clCZsxHPIHxs/QpXmkOI9Hxhce/4vdP3+WU+DVKRolDoge7zzcLxveOAXLsgJJERLv7W2mZDnOq0cZpW63IpajYhIJL2auJh5oXMo3juA33ytsROFns/17iSHPP5s7X2WLh9rqgDhyJt5koVMjlbzpdcicjrVOkHS0vQh3AYmZEQ==;fvL+3XvgJ9D4Ov+uky5nag=="
+secured: "IrrCP5jIoeGJQmWlHvwORDQ9xuRz2fwWRl32SjidbSzGtd5gUZW5rWMCWRgvRliWPf349JPtJjU0a69PZub8bLSRkM6RbHK9FPzD3MdATH86jVyTQkRi1j/VPkTbSj26iN9EMV+HJqa+oHYJ4yh+AMU9qSVBfRgOPFOBy9WFru4Myb0jWaZ/XPTC01iFwbB/dv8dIuFSHCvWHmAiceOOkIMK1dpASIqTckb+iv6oSQBMlDOzXdsWvz+95ctule9Z+WKR+ZsHh8yiweS1YgmDl0jAYL0VEFXty1hS952MyD9vKAXLzBlaeBxmeGrhj2e6ybYuYtrp8jAz0a2OSNxOjZoB/FRGvZ0ZDIfgdWHXUVv2/1PCrFdqgpzOJtv1pd+FgVUeE9df/TQN5qSFNnJ9tQ==;yui09YCVhdymZ2EBiGbhiw=="
 ---
 

@@ -8,7 +8,7 @@ length: 37 mins
 ratings:
   count: 735
   average: 4.7156463
-heat: 61
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Design an IP addressing schema for your Azure deployment"
 
-secured: "AMTRETbPc/uoQ1qapFH4PWsFsWTbKZqI9D7Tx0ffdf+fyYlBeLx9+MgIgYsrm+TaNMWWTJyd7fja2A8FwECCI2zvSjEKUkvuVTrBCTX61lcW2MLwhQOnv0gKFHPelPlM3Gw9phtsPOvj0o6lX6FtRmn/DkktRmAbLCaCHwcGcTcV/nUAJ7lMdFBuFZ1nFW9sS53oTDsqADe7FVTHUBvMcUnwLULxYfcNl9oRyPGtDtrIo8Etsd8WSCmCL+OCy8OqhpKn0sQV4MKvDyXJTE4CD1GsJ3C6lmpivNPTHCP6kG11S4rFqsFMUt4chvlX3SkcsfK1enLsdBegL8quvrU5Wv+zi84jPncaGMEEVBJNtpqIP9qM+yrSWJsA3ERvLNomVGEMUlLkBVn+qSKoHv0fEw==;KJlJIgVFYgNuov+h8IU0Vw=="
+secured: "jghpv+BwsVVcgnISZB8KF/43XGB550V5lUfvKYIOxDmbPI3xKErz8Jm+KaxwqpXD7pJUdUp2dVw7Z3zfYqzwjni0wCYf1pGUnXJG3I+NIdRIwrfSv2+j1MEaTvRU8Rxh7wbm/op6FoA9YxCu+vPo2ZrkujC/AStnVPOrv7DFXRmk4so7YZydTfD1G9q6ALzOqt77RvF9NgLpy651Z+/fCEWi+51RgayHH5KServZB3MD2mIZaMyUpc3+KwAlyO32NEFxpFpyDUniMixmzed8SUswAWUPcMdgjIc9DcIXrYZ62yU/vy8zAwOwvi+j45KSuquNH6vqtBfKvPDhR5tYaIVos92i0jPRBL2AmWfIoGBoueMOc2+GuP8HmNoa6g5CgNyyfzF+hrx/94882w7PXA==;MB8w8RwRh7Qhr+MxnE5fLQ=="
 ---
 
