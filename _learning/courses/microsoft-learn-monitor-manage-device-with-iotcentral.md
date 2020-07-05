@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Monitor and manage your coffee machine with Azure IoT Central"
 
-secured: "oAeruhJZggUf5Mcuzzw2qnUXvxXKQmCINbKlcyoTa2okAkge7tREsRn8d+HyIKcLhWS9ftINjgPWUn+cx5X4+iTF/RBHhOTK8LPZaPumn+26ZxJz31RAUputmwzRR+6rMIpEy43OXu1dfrFZG3FNF4RUiKesqOR/+pu0O4Trw5ueIITpn55Hw1feqC+xKEfpecxY6WMJnxNfNeaL5klhZTLpQmzvptvy8/B7p/YBv/8jKa8xU+QVA77alrPHzuddcqAPENIAAM/TcKHELvBx9GNGgabwXJglt5+9I1oXkqnXzVGNNhKhGaPkIH1s7oTkOju+4nIKUycRFeBy78RfGOE68178WbuSmSrhARfrbSbfaizcGv9D8zhtqYxNdB+VsMcKHzU0xHqkn6N1IIWmtw==;KVsDLCE5EPy9hYRtl9k2sw=="
+secured: "GX9bcoH1GfFcJsuZj3HlOsCWtnKLV9hVyZdSCUYLv1bNCxKxw+hT8KoVTT9rVhhqqYiNo6Dxu2dJZikGFtcnp5MTLGiyA2xtmTLuSLZJ2citAqDnp0+vnhF0ufXDf6vKroU4Q9N3EynwnaQ3kKXPz9h/MeBPsaOgM1/itrbIBU2mDbQwkxk8uZaRlRe5aKynZqkUnf/ehBDN4nczRrQnfuTh2t5vEG6Ko+J2jv8xchrZNxT5VLTQ4duPY9kaDl/WnC8D2qS0BipuYsTm9piC/t/KvH4mBAXfWcnHEUBK1DEmYIC7d2K3TNIx67Z5t7WKSfJm81htM+/CmryBZGpddl9o3G8x+Jki17GtHQEIXaCMMGPcdvDHeFHNEUbqDDWyuK1l2rZ7Aehp+8C85JgyWQ==;Uv7/Xt+xgeJPVJ2Gx4z9fQ=="
 ---
 

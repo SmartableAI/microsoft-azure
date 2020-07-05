@@ -8,7 +8,7 @@ length: 36 mins
 ratings:
   count: 1775
   average: 4.662535
-heat: 50
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Add and size disks in Azure virtual machines"
 
-secured: "OVL/bS4z6FVjLh8o96Dnlj/0A1hSfNQVBWEPjHzrwXTNpxy+hL2QuTyGZ3PeEpFwzHVYNFHuAgw+PFp6KN49KVx4ST97Vj+64zN7WaZe2tkHyl7zzL2XoU2GclMoHi0I3lhPD+sSMYgk/AYbVmXV4dvQKAALhrNv4ZIKzKdck7+3q2CRILH2+GWDvB/lmOcqw9cy4ijQHsncbs1KCTmSLnpTWHlwaV8Lqfn2w4bv7o9aFXK/q/+9FzXCAgpRYK+BDz/A18jJ6PlQGwHZtZSu1e50NIGmhfV+vxC+C98SwgC7l6W+6IWts1xC1F3XpNHveLK89DQN2QP5LSP1yFY6hQ7/T2ONXDJTvUi44EdSwaghc+uutFsD+W4dm9PThirw5ju3mIoCj0Oix8dnyb3R0Q==;cb6E50+K1/EyLBfXQTnY4A=="
+secured: "O6AcK/L75KgfzAfdX0xxsg0kR5dCiFSPqNCSj0bDbTpnpALQVP72Z5AMyw6KoEFlpLU1PTnf+Uy0o7fIitU3dvCNcnM+wZDyilhX19bpWaYlft4tP0/+CJdKS07etsw39LGEh5rYlE5eMc7ujmnVpYvoEREcb8IMGGuuv+DGJGjR647/fT6hK4xm0bLWYL5OkvFTL3kBHEKpx5G3pUq33OQdBqmqiDlx8viax1F/REejY5aRZp6C7WRLCdaPWrbxhWL/ROdh2hWvkcxQeZTWOs/fbsCzV6mVxvM2285fZkkhc8kYm1tJdh7or+AJkVDUFyUjDJxDHHq68ZVrktyvqCTJGlGhcuUlin8cY9elc2P0VVRFvxzwxDGinFJfC0hkpEbyzBF+/DfzA1cedZYkMQ==;JcEFCA9OTpDNIs2GXVk6vw=="
 ---
 
