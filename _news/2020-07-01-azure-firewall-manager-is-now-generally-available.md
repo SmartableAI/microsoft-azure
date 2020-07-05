@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Azure Firewall Manager is now generally available"
-excerpt: "Azure Firewall Manager is now generally available, and includes Azure Firewall Policy, Azure Firewall in a Virtual WAN Hub (Secure Virtual Hub), and Hub Virtual Network."
-publishedDateTime: 2020-07-01T08:00:06Z
-webUrl: "https://azure.microsoft.com/blog/azure-firewall-manager-is-now-generally-available/"
+excerpt: "Firewall Manager is a security management service that provides central security policy and route management for cloud-based security perimeters. "
+publishedDateTime: 2020-07-01T16:00:02Z
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-firewall-manager-is-now-generally-available/"
 type: article
-quality: 97
-heat: 317
-published: true
+quality: 77
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -20,124 +20,40 @@ provider:
 topics:
   - Azure
 
-images:
-  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/48d05065-53c7-4758-8091-6b72d3df73d0.png"
-    width: 1024
-    height: 367
-    isCached: true
-    title: "Azure Firewall Manager is now generally available"
-
 related:
-  - title: "Azure Files share snapshot management by Azure Backup is now generally available"
-    excerpt: "Microsoft Azure Files offers fully managed file shares in the cloud that are accessible via the industry standard Server Message Block (SMB) protocol. For users of Azure Files, share snapshots have offered a read-only version of file shares from a previous point in time. Share snapshots are also incremental"
-    publishedDateTime: 2020-04-29T09:00:53Z
-    webUrl: "https://azure.microsoft.com/blog/azure-files-share-snapshot-management-by-azure-backup-is-now-generally-available/"
+  - title: "New Azure Firewall features in Q2 CY2020"
+    excerpt: "We are pleased to announce several new Azure Firewall features that allow your organization to have more customization, improve security, and ease your management experience."
+    publishedDateTime: 2020-06-30T08:00:33Z
+    webUrl: "https://azure.microsoft.com/blog/new-azure-firewall-features-in-q2-cy2020/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 96
+    quality: 99
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/202fa2d1-fc33-41eb-94be-957327f62b0d.jpg"
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/130879a5-e5a4-4b5d-9fe1-b6389a099db8.png"
         width: 1024
-        height: 608
+        height: 577
         isCached: true
-  - title: "Azure Firewall forced tunneling and SQL FQDN filtering now generally available"
-    excerpt: "Two new key features in Azure Firewall—forced tunneling and SQL FQDN  filtering—are now generally available. Additionally, we increased the limit for multiple public IP addresses from 100 to 250 for both Destination Network Address Translation (DNAT) and Source Network Address Translation (SNAT).\r\n\r\nAzure"
-    publishedDateTime: 2020-06-10T11:00:13Z
-    webUrl: "https://azure.microsoft.com/blog/azure-firewall-forced-tunneling-and-sql-fqdn-filtering-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 93
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/1db2f887-021c-400e-be73-9fffb77282fd.jpg"
-        width: 1024
-        height: 369
-        isCached: true
-  - title: "SAP HANA backup using Azure Backup is now generally available"
-    excerpt: "We are sharing that Microsoft Azure Backup’s solution for SAP HANA databases is generally available in all Azure Public and Gov Regions (with the exception of Germany Northeast and Germany central, France South & US Gov IOWA).\r\n\r\nAzure Backup is Azure's native backup solution, which is BackInt certified"
-    publishedDateTime: 2019-12-02T13:00:29Z
-    webUrl: "https://azure.microsoft.com/blog/sap-hana-backup-using-azure-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 79
-  - title: "Azure geo-zone-redundant storage is now generally available"
-    excerpt: "Geo-zone-redundant storage (GZRS) and read-access geo-zone-redundant storage (RA-GZRS) are now generally available, offering intra-regional and inter-regional high availability and disaster protection for your applications."
-    publishedDateTime: 2020-06-17T20:00:18Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/storage-gzrs-ga/"
+  - title: "Azure Firewall July 2020 update"
+    excerpt: "Custom DNS, DNS Proxy, and FQDN filtering in network rules are now in preview. IP Groups and IP Groups in Firewall policy are now generally available."
+    publishedDateTime: 2020-06-30T16:00:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-firewall-july-2020-update/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Azure Storage account failover is now generally available "
-    excerpt: "Customer-initiated Storage account failover is now generally available, allowing you to determine when to initiate a failover instead of waiting for Microsoft to do so."
-    publishedDateTime: 2020-06-17T17:00:26Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-account-failover-ga/"
+  - title: "Company branding feature is now available on your organization's Azure AD sign-in page"
+    excerpt: "The enhanced company branding feature is now generally available on your organization’s Azure Active Directory (Azure AD) sign-in page."
+    publishedDateTime: 2020-06-30T15:00:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/basic-formatting-on-the-sign-in-page-text-component-in-company-branding/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
-  - title: "Azure Speech Services REST API v3.0 is now available"
-    excerpt: "Azure Azure Speech Services REST API v3.0 is now available, along with several new features. "
-    publishedDateTime: 2020-06-25T16:00:28Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-release-for-azure-speech-services-v30-api/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure Sphere OS quality update 20.06 is now available "
-    excerpt: "The Azure Sphere OS quality update 20.06 is now available in the retail feed. "
-    publishedDateTime: 2020-06-26T19:00:42Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-quality-update-2006-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure Data Lake Storage archive tier is now generally available"
-    excerpt: "The archive tier for Azure Data Lake Storage is now generally available. The archive tier provides an ultra-low cost tier for long term retention of data while keeping your data available for future analytics needs."
-    publishedDateTime: 2020-06-30T20:00:36Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/archive-tier-for-azure-data-lake-storage-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Database engine auditing for Azure Database for MariaDB is now available"
-    excerpt: "Azure Database for MariaDB now provides general availability support for using audit logs to record database activity and events such as connections and queries."
-    publishedDateTime: 2020-06-24T16:01:15Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/database-engine-auditing-for-azure-database-for-mariadb-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 76
-  - title: "Azure File shares snapshot management by Azure Backup is now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-04-29T16:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-file-shares-snapshot-management-by-azure-backup-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 72
-  - title: "The self-hosted gateway feature of API Management is now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-04-29T16:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/selfhosted-gateway-feature-in-api-management-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 59
+    quality: 69
 
-secured: "fri4//VfQu0BAl4rFNnDpw+OpAmna4IWBEsnyW6dnEMSEhLt60tgaEV5ul2wQv8LyUTDD6/Hk+Ky4/X4tI3bPqw5qt4+QYUemG8R3RAQY0Zcw+o0iPpHFSm4xiNaW1dluzxm81Zn/4tn3zaRyO7EumXqnwwmGA3PdStCQJfmvpxBzMby4Q1gOWqTlqHTO6ErIciv0A05E/hh2IF3cnlQarT8r+4q2hCoLkLMXCLsACVxAVoc7/6mCLZ0C8/k0dlwQnbgCs5A2ZtjdH6BQUbQq9y8V6LdrpCJ+afjA+JBblJbgmvnV/6OByzGCd+uMAgHGm0FHR12Jd6wLRms+oDa+g==;wIVid4AkGNf/nYjKnUdIZQ=="
+secured: "8U6tMEQjtiS5tziyEpuVuWZuhYPSypMfkLTaAtt8rSAkOsnW5c8vsybf+Nl9WyC+r5g8dckAdnAxh+q9uVbocWP5GkhyEnFCfLM5Fhe8XZ0Pcl2QHe7eLoAb4VaWEdjXaRtv337TxOZsCyTjOm5/Hm4WMfCpVLYqYkvpee8nmOYtP0N+opJHe4bjYY1YXf99K55CQXVDhFowM++L9bQBX5gHkZOb4Wm404q+DJnHeS262Kspx7Y968cCFNIKS0YPjOYN2KlK5po6jFDteze1COOwbC5oFY7/cBCBwRdPxDoN/pit1zzI/1QLhBxTK4rEwKw7pJ7O7O6xQU2/yrRHcA==;BY7HzZy0HhXGuCM1DOWpIQ=="
 ---
 

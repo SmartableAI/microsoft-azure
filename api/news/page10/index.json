@@ -608,11 +608,59 @@
       ]
     },
     {
+      "path": "_news/2020-04-29-azure-files-share-snapshot-management-by-azure-backup-is-now-generally-available.md",
+      "title": "Azure Files share snapshot management by Azure Backup is now generally available",
+      "excerpt": "Microsoft Azure Files offers fully managed file shares in the cloud that are accessible via the industry standard Server Message Block (SMB) protocol. For users of Azure Files, share snapshots have offered a read-only version of file shares from a previous point in time. Share snapshots are also incremental",
+      "webUrl": "https://azure.microsoft.com/blog/azure-files-share-snapshot-management-by-azure-backup-is-now-generally-available/",
+      "heat": 256,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/202fa2d1-fc33-41eb-94be-957327f62b0d.jpg",
+          "width": 1024,
+          "height": 608,
+          "title": "Azure Files share snapshot management by Azure Backup is now generally available",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-29T02:00:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Storage",
+        "Management tools"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-azure-data-explorerone-click-ingestion-support-is-now-available.md",
       "title": "Azure Data Explorer—One-click ingestion support is now available",
       "excerpt": "",
       "webUrl": "https://azure.microsoft.com/en-us/updates/how-to-ingest-up-to-10000-blobs-with-autosuggestive-schema-definition-and-continues-ingestion-for-new-blobs-with-less-than-10/",
-      "heat": 97,
+      "heat": 77,
       "tags": null,
       "images": null,
       "type": "article",
@@ -1093,44 +1141,6 @@
       ],
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-accelerating-cybersecurity-maturity-model-certification-cmmc-compliance-on-azure.md",
-      "title": "Accelerating Cybersecurity Maturity Model Certification (CMMC) compliance on Azure",
-      "excerpt": "As we deliver on our ongoing commitment to serving as the most secure and compliant cloud, we’re constantly adapting to the evolving landscape of cybersecurity to help our customers achieve compliance more rapidly. Our aim is to continue to provide our customers and partners with world-class cybersecurity",
-      "webUrl": "https://azure.microsoft.com/blog/accelerating-cybersecurity-maturity-model-certification-cmmc-compliance-on-azure/",
-      "heat": 108,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-28T03:00:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Security"
       ]
     }
   ],

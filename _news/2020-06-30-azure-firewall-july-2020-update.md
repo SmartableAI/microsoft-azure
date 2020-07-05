@@ -35,6 +35,15 @@ related:
         width: 1024
         height: 577
         isCached: true
+  - title: "Azure Firewall Manager is now generally available"
+    excerpt: "Firewall Manager is a security management service that provides central security policy and route management for cloud-based security perimeters. "
+    publishedDateTime: 2020-07-01T16:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-firewall-manager-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Company branding feature is now available on your organization's Azure AD sign-in page"
     excerpt: "The enhanced company branding feature is now generally available on your organization’s Azure Active Directory (Azure AD) sign-in page."
     publishedDateTime: 2020-06-30T15:00:33Z

@@ -21,20 +21,6 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Firewall Manager is now generally available"
-    excerpt: "Azure Firewall Manager is now generally available, and includes Azure Firewall Policy, Azure Firewall in a Virtual WAN Hub (Secure Virtual Hub), and Hub Virtual Network."
-    publishedDateTime: 2020-07-01T08:00:06Z
-    webUrl: "https://azure.microsoft.com/blog/azure-firewall-manager-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 97
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/48d05065-53c7-4758-8091-6b72d3df73d0.png"
-        width: 1024
-        height: 367
-        isCached: true
   - title: "Azure Files share snapshot management by Azure Backup is now generally available"
     excerpt: "Microsoft Azure Files offers fully managed file shares in the cloud that are accessible via the industry standard Server Message Block (SMB) protocol. For users of Azure Files, share snapshots have offered a read-only version of file shares from a previous point in time. Share snapshots are also incremental"
     publishedDateTime: 2020-04-29T09:00:53Z
@@ -49,20 +35,6 @@ related:
         width: 1024
         height: 608
         isCached: true
-  - title: "Azure Firewall forced tunneling and SQL FQDN filtering now generally available"
-    excerpt: "Two new key features in Azure Firewall—forced tunneling and SQL FQDN  filtering—are now generally available. Additionally, we increased the limit for multiple public IP addresses from 100 to 250 for both Destination Network Address Translation (DNAT) and Source Network Address Translation (SNAT).\r\n\r\nAzure"
-    publishedDateTime: 2020-06-10T11:00:13Z
-    webUrl: "https://azure.microsoft.com/blog/azure-firewall-forced-tunneling-and-sql-fqdn-filtering-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 93
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/1db2f887-021c-400e-be73-9fffb77282fd.jpg"
-        width: 1024
-        height: 369
-        isCached: true
   - title: "SAP HANA backup using Azure Backup is now generally available"
     excerpt: "We are sharing that Microsoft Azure Backup’s solution for SAP HANA databases is generally available in all Azure Public and Gov Regions (with the exception of Germany Northeast and Germany central, France South & US Gov IOWA).\r\n\r\nAzure Backup is Azure's native backup solution, which is BackInt certified"
     publishedDateTime: 2019-12-02T13:00:29Z
@@ -72,55 +44,37 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 79
-  - title: "Azure geo-zone-redundant storage is now generally available"
-    excerpt: "Geo-zone-redundant storage (GZRS) and read-access geo-zone-redundant storage (RA-GZRS) are now generally available, offering intra-regional and inter-regional high availability and disaster protection for your applications."
-    publishedDateTime: 2020-06-17T20:00:18Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/storage-gzrs-ga/"
+  - title: "Azure Archive expanded capabilities now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-23T16:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-archive-expanded-capabilities-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Azure Storage account failover is now generally available "
-    excerpt: "Customer-initiated Storage account failover is now generally available, allowing you to determine when to initiate a failover instead of waiting for Microsoft to do so."
-    publishedDateTime: 2020-06-17T17:00:26Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-account-failover-ga/"
+  - title: "Azure Sphere update 20.04 is now available"
+    excerpt: ""
+    publishedDateTime: 2020-05-05T17:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-update-2004-is-now-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Azure Speech Services REST API v3.0 is now available"
-    excerpt: "Azure Azure Speech Services REST API v3.0 is now available, along with several new features. "
-    publishedDateTime: 2020-06-25T16:00:28Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-release-for-azure-speech-services-v30-api/"
+  - title: "Azure Security Center—Dynamic compliance packages now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-28T23:00:42Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/dynamic-compliance-packages-ga/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
-  - title: "Azure Sphere OS quality update 20.06 is now available "
-    excerpt: "The Azure Sphere OS quality update 20.06 is now available in the retail feed. "
-    publishedDateTime: 2020-06-26T19:00:42Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-quality-update-2006-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure Data Lake Storage archive tier is now generally available"
-    excerpt: "The archive tier for Azure Data Lake Storage is now generally available. The archive tier provides an ultra-low cost tier for long term retention of data while keeping your data available for future analytics needs."
-    publishedDateTime: 2020-06-30T20:00:36Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/archive-tier-for-azure-data-lake-storage-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Database engine auditing for Azure Database for MariaDB is now available"
-    excerpt: "Azure Database for MariaDB now provides general availability support for using audit logs to record database activity and events such as connections and queries."
-    publishedDateTime: 2020-06-24T16:01:15Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/database-engine-auditing-for-azure-database-for-mariadb-is-now-available/"
+    quality: 76
+  - title: "Azure custom role creation in the Azure portal is now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-05-01T16:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-custom-roles-portal/"
     type: article
     provider:
       name: Microsoft
@@ -135,6 +89,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 72
+  - title: "Windows Server containers in AKS now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-28T16:30:38Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/windows-server-containers-in-aks-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 62
 
 secured: "pO0sSpK5etumdqdMNYrC6HZTKRx+Oo0JuXkfl3AukwxTgk2xcHuM5cvEXUQXxc8ZRxMZEY7tAuslXWc3UnZz6nEEnn17RzjZuWaWwx0XnwthqTr9/shWdKdagyANbLeOu+qDKGw+GT00RmnYy3nINke5MrtypcnRGkjXN7IocfhDnod3M5RlZ4SnhdoCDig5kSIUB2IV/SeYPlCyhhNPbdQ9Cuqy/2nM1c/AIr65wF0rsMFyrk+h7OIGA9FB9VgjZ5vnhoGNSDPKRzOvzQA16iokZ5ieggslGk3FQrRa6mx730R255gJ0xfMnJZ1lIr+l8xEWO4g5b7uChoHxYGWug==;Q5BIM5T0zOOCOe9j99JO/A=="
 ---

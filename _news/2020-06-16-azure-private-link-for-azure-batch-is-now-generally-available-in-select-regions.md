@@ -21,56 +21,47 @@ topics:
   - Azure
 
 related:
-  - title: "Rules Engine for Azure Front Door and Azure CDN is now generally available"
-    excerpt: "Today we are announcing the general availability of the Rules Engine feature on both Azure Front Door and Azure Content Delivery Network (CDN). "
-    publishedDateTime: 2020-06-23T09:00:03Z
-    webUrl: "https://azure.microsoft.com/blog/rules-engine-for-azure-front-door-and-azure-cdn-is-now-generally-available/"
+  - title: "Azure Firewall forced tunneling and SQL FQDN filtering now generally available"
+    excerpt: "Two new key features in Azure Firewall—forced tunneling and SQL FQDN  filtering—are now generally available. Additionally, we increased the limit for multiple public IP addresses from 100 to 250 for both Destination Network Address Translation (DNAT) and Source Network Address Translation (SNAT).\r\n\r\nAzure"
+    publishedDateTime: 2020-06-10T11:00:13Z
+    webUrl: "https://azure.microsoft.com/blog/azure-firewall-forced-tunneling-and-sql-fqdn-filtering-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 92
-  - title: "Azure Automation is now available in the USGov Arizona region"
-    excerpt: "Azure Automation is now available in the USGov Arizona region."
-    publishedDateTime: 2020-06-22T16:00:33Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-generally-available-in-usgov-arizona-region/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure Content Delivery Network standard rules engine is now available "
-    excerpt: "Take advantage of new rules to further customize the behavior of standard Azure Content Delivery Network to best meet the needs of your customers. Use the rules engine to modify request and response headers or dynamically override your existing route behavior based on incoming requests. Now generally"
-    publishedDateTime: 2020-06-24T16:00:29Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-content-delivery-network-standard-rules-engine-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Database engine auditing for Azure Database for MySQL is now available"
-    excerpt: "Azure Database for MySQL now provides general availability support for using audit logs to record database activity and events such as connections and queries."
-    publishedDateTime: 2020-06-24T16:01:16Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/database-engine-auditing-for-azure-database-for-mysql-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Trifacta Now Available for Direct Purchase and Activation in the Microsoft Azure Marketplace"
-    excerpt: "SAN FRANCISCO, June 25, 2020 (GLOBE NEWSWIRE) -- Trifacta, a global leader in data preparation, today announced the availability of Trifacta in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2020-06-25T13:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/trifacta-now-available-for-direct-purchase-and-activation-in-the-microsoft-azure-marketplace-2020-06-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
+    quality: 93
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/1db2f887-021c-400e-be73-9fffb77282fd.jpg"
+        width: 1024
+        height: 369
         isCached: true
+  - title: "Azure Migrate—Assessment of imported servers is now generally available"
+    excerpt: "Assessment of imported servers in Azure Migrate is now generally available."
+    publishedDateTime: 2020-06-15T17:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-migrate-assessment-of-imported-servers-is-now-ga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure geo-zone-redundant storage is now generally available"
+    excerpt: "Geo-zone-redundant storage (GZRS) and read-access geo-zone-redundant storage (RA-GZRS) are now generally available, offering intra-regional and inter-regional high availability and disaster protection for your applications."
+    publishedDateTime: 2020-06-17T20:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/storage-gzrs-ga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure Storage account failover is now generally available "
+    excerpt: "Customer-initiated Storage account failover is now generally available, allowing you to determine when to initiate a failover instead of waiting for Microsoft to do so."
+    publishedDateTime: 2020-06-17T17:00:26Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-account-failover-ga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
 
 secured: "HTA/tvePOTPRsrRSmVC486sf2ItHY2vxjuIr2lF3fBv7vu9tOQIxcDjdjwT6WZ2S8Y+eSjT2nxOnrZNaSwkrgufbP8ZrvOeAY6JwpF1l0HBzOk+k8YqgG6kr7mLnF7611Rn9umCTDpZf6EgAGhT4Kel9VTL6xM3uelVKHswieVKYjYVQxElS+mF8pVVbBZNiHr9QKOnYoW9JYzUYn0hCwN3EPd5j5sXtjumSmM0F6AbZL/3gd3ei1+m3sG/PAYiH3kPIjC9WgYGpMNhspT8PsGERu3lnNyDQ+F0yqhCvCtmKR7DJpNu+rUlZdlfPXOHWEa1ArUZZin8c8mXOCTXeeQ==;Mn5zGf3V/R0sa3LuLS5dlQ=="
 ---

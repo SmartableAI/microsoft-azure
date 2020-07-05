@@ -21,70 +21,10 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Firewall Manager is now generally available"
-    excerpt: "Azure Firewall Manager is now generally available, and includes Azure Firewall Policy, Azure Firewall in a Virtual WAN Hub (Secure Virtual Hub), and Hub Virtual Network."
-    publishedDateTime: 2020-07-01T08:00:06Z
-    webUrl: "https://azure.microsoft.com/blog/azure-firewall-manager-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 97
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/48d05065-53c7-4758-8091-6b72d3df73d0.png"
-        width: 1024
-        height: 367
-        isCached: true
-  - title: "Azure Files share snapshot management by Azure Backup is now generally available"
-    excerpt: "Microsoft Azure Files offers fully managed file shares in the cloud that are accessible via the industry standard Server Message Block (SMB) protocol. For users of Azure Files, share snapshots have offered a read-only version of file shares from a previous point in time. Share snapshots are also incremental"
-    publishedDateTime: 2020-04-29T09:00:53Z
-    webUrl: "https://azure.microsoft.com/blog/azure-files-share-snapshot-management-by-azure-backup-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 96
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/202fa2d1-fc33-41eb-94be-957327f62b0d.jpg"
-        width: 1024
-        height: 608
-        isCached: true
-  - title: "Azure Firewall forced tunneling and SQL FQDN filtering now generally available"
-    excerpt: "Two new key features in Azure Firewall—forced tunneling and SQL FQDN  filtering—are now generally available. Additionally, we increased the limit for multiple public IP addresses from 100 to 250 for both Destination Network Address Translation (DNAT) and Source Network Address Translation (SNAT).\r\n\r\nAzure"
-    publishedDateTime: 2020-06-10T11:00:13Z
-    webUrl: "https://azure.microsoft.com/blog/azure-firewall-forced-tunneling-and-sql-fqdn-filtering-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 93
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/1db2f887-021c-400e-be73-9fffb77282fd.jpg"
-        width: 1024
-        height: 369
-        isCached: true
-  - title: "SAP HANA backup using Azure Backup is now generally available"
-    excerpt: "We are sharing that Microsoft Azure Backup’s solution for SAP HANA databases is generally available in all Azure Public and Gov Regions (with the exception of Germany Northeast and Germany central, France South & US Gov IOWA).\r\n\r\nAzure Backup is Azure's native backup solution, which is BackInt certified"
-    publishedDateTime: 2019-12-02T13:00:29Z
-    webUrl: "https://azure.microsoft.com/blog/sap-hana-backup-using-azure-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 79
-  - title: "Azure geo-zone-redundant storage is now generally available"
-    excerpt: "Geo-zone-redundant storage (GZRS) and read-access geo-zone-redundant storage (RA-GZRS) are now generally available, offering intra-regional and inter-regional high availability and disaster protection for your applications."
-    publishedDateTime: 2020-06-17T20:00:18Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/storage-gzrs-ga/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure Storage account failover is now generally available "
-    excerpt: "Customer-initiated Storage account failover is now generally available, allowing you to determine when to initiate a failover instead of waiting for Microsoft to do so."
-    publishedDateTime: 2020-06-17T17:00:26Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-account-failover-ga/"
+  - title: "Azure Virtual Machines DCsv2-series is now available in West Europe"
+    excerpt: "Confidential computing DCsv2-series virtual machines (VMs) are now available in East US, Canada Central, UK South, and West Europe."
+    publishedDateTime: 2020-06-22T16:00:41Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-confidential-computing-available-in-west-europe/"
     type: article
     provider:
       name: Microsoft
@@ -99,42 +39,33 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Azure Data Lake Storage archive tier is now generally available"
-    excerpt: "The archive tier for Azure Data Lake Storage is now generally available. The archive tier provides an ultra-low cost tier for long term retention of data while keeping your data available for future analytics needs."
-    publishedDateTime: 2020-06-30T20:00:36Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/archive-tier-for-azure-data-lake-storage-now-generally-available/"
+  - title: "New general purpose and memory-optimized Azure Virtual Machines with Intel now available"
+    excerpt: "Today we're announcing the availability of new general purpose and memory-optimized Azure Virtual Machines based on the 2nd generation Intel Xeon Platinum 8272CL (Cascade Lake). This custom processor runs at a base speed of 2.5GHz and can achieve all-core turbo frequency of 3.4GHz. It features Intel®"
+    publishedDateTime: 2020-06-15T09:00:47Z
+    webUrl: "https://azure.microsoft.com/blog/new-general-purpose-and-memoryoptimized-azure-virtual-machines-with-intel-now-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
-  - title: "Database engine auditing for Azure Database for MariaDB is now available"
-    excerpt: "Azure Database for MariaDB now provides general availability support for using audit logs to record database activity and events such as connections and queries."
-    publishedDateTime: 2020-06-24T16:01:15Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/database-engine-auditing-for-azure-database-for-mariadb-is-now-available/"
+    quality: 68
+  - title: "New Azure Virtual Machines for general purpose and memory intensive workloads now in preview"
+    excerpt: "The new D v4-series and E v4-series Azure Virtual Machines feature the Intel® Xeon® Platinum 8272CL custom processor, which can achieve up to 3.4 Ghz all core turbo frequency. The D v4-series and E v4-series virtual machines (VMs) don’t provide any temporary storage. The D v4-series and Ds v4-series"
+    publishedDateTime: 2020-06-15T15:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-virtual-machines-for-general-purpose-and-memory-intensive-workloads-now-in-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 76
-  - title: "Azure File shares snapshot management by Azure Backup is now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-04-29T16:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-file-shares-snapshot-management-by-azure-backup-is-now-generally-available/"
+    quality: 66
+  - title: "HBv2-Series VMs now available in Japan East"
+    excerpt: "HBv2-series VMs for HPC now available in the Japan East region."
+    publishedDateTime: 2020-06-15T23:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/hbv2series-vms-now-available-in-japan-east/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 72
-  - title: "The self-hosted gateway feature of API Management is now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-04-29T16:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/selfhosted-gateway-feature-in-api-management-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 59
+    quality: 62
 
 secured: "kK6uSEoJXfjMn6XaNmYS0mPVIaA6WL1r0RF/wbaKQIEaRMTpZy5tli6nMXM9RKHHX1DufU7Phu0pMNXfv7EECX5rdMz1HXy2Aua9JKpaYJOKjmtF3d9JCJH7qE0ospeGWkYBz1chh/INOJUrH/pAQ/zPWLtOZieTVaw32gcAn7RXzYxM6ZUMiitgO2bxUgsa2TY2MVZxcZar08AgrIquhy3atGRDyes0CfBfkNDv3ECF2uHxDOnDmGB2ABUjKNCJUKpmlOrpm41uVAnCQXIWcDLrsE8kZHr6GMQyTCpTT43+i/aKuahgLbCOPFjdJJIZDTBYFOUGUc9rk2c4hn4K7A==;7k2vLnjrupl+SqiBL02yIQ=="
 ---

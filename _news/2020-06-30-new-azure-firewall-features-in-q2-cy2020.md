@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-30T08:00:33Z
 webUrl: "https://azure.microsoft.com/blog/new-azure-firewall-features-in-q2-cy2020/"
 type: article
 quality: 99
-heat: 139
+heat: 159
 published: true
 
 provider:
@@ -33,6 +33,15 @@ related:
     excerpt: "Custom DNS, DNS Proxy, and FQDN filtering in network rules are now in preview. IP Groups and IP Groups in Firewall policy are now generally available."
     publishedDateTime: 2020-06-30T16:00:33Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-firewall-july-2020-update/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure Firewall Manager is now generally available"
+    excerpt: "Firewall Manager is a security management service that provides central security policy and route management for cloud-based security perimeters. "
+    publishedDateTime: 2020-07-01T16:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-firewall-manager-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft

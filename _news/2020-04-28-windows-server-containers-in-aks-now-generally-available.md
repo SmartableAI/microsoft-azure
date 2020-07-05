@@ -21,19 +21,42 @@ topics:
   - Azure
 
 related:
-  - title: "DCsv2-series VM now generally available from Azure confidential computing"
-    excerpt: "Security and privacy are critically important when storing and processing sensitive information in the cloud, from payment transactions, to financial records, personal health data, and more. With the general availability of DCsv2-series VMs, we are ushering in the start of a new level of data protection"
-    publishedDateTime: 2020-04-27T12:00:29Z
-    webUrl: "https://azure.microsoft.com/blog/dcsv2series-vm-now-generally-available-from-azure-confidential-computing/"
+  - title: "Azure Files share snapshot management by Azure Backup is now generally available"
+    excerpt: "Microsoft Azure Files offers fully managed file shares in the cloud that are accessible via the industry standard Server Message Block (SMB) protocol. For users of Azure Files, share snapshots have offered a read-only version of file shares from a previous point in time. Share snapshots are also incremental"
+    publishedDateTime: 2020-04-29T09:00:53Z
+    webUrl: "https://azure.microsoft.com/blog/azure-files-share-snapshot-management-by-azure-backup-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 78
+    quality: 96
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/202fa2d1-fc33-41eb-94be-957327f62b0d.jpg"
+        width: 1024
+        height: 608
+        isCached: true
+  - title: "SAP HANA backup using Azure Backup is now generally available"
+    excerpt: "We are sharing that Microsoft Azure Backup’s solution for SAP HANA databases is generally available in all Azure Public and Gov Regions (with the exception of Germany Northeast and Germany central, France South & US Gov IOWA).\r\n\r\nAzure Backup is Azure's native backup solution, which is BackInt certified"
+    publishedDateTime: 2019-12-02T13:00:29Z
+    webUrl: "https://azure.microsoft.com/blog/sap-hana-backup-using-azure-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 79
   - title: "Azure Archive expanded capabilities now generally available"
     excerpt: ""
     publishedDateTime: 2020-04-23T16:00:13Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-archive-expanded-capabilities-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure Sphere update 20.04 is now available"
+    excerpt: ""
+    publishedDateTime: 2020-05-05T17:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-update-2004-is-now-available/"
     type: article
     provider:
       name: Microsoft
@@ -57,24 +80,24 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 76
-  - title: "New DCsv2-series virtual machines are now available"
+  - title: "Azure File shares snapshot management by Azure Backup is now generally available"
     excerpt: ""
-    publishedDateTime: 2020-04-27T19:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-dcsv2series-virtual-machines-are-now-available/"
+    publishedDateTime: 2020-04-29T16:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-file-shares-snapshot-management-by-azure-backup-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 62
-  - title: "Maintenance control for platform updates now generally available"
+    quality: 72
+  - title: "The self-hosted gateway feature of API Management is now generally available"
     excerpt: ""
-    publishedDateTime: 2020-04-28T17:15:39Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/maintenance-control-for-platform-updates-now-generally-available/"
+    publishedDateTime: 2020-04-29T16:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/selfhosted-gateway-feature-in-api-management-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 62
+    quality: 59
 
 secured: "WK3u4K7CmXn5Z+BLEHpGFSCjBw/5vtZbXBumVIoobZlXqnol16qOHM3/K3wvJZ7pRnmR986p0i1ugyqDKZ805tj3rUH2dVyWffCN3ZPUYApxpOSxUZNwh4DcLnxFy1HcTIoB72skq0/beJdg8wuqXtsBD5lyVouQ7gnVO5wrcFEncJIrtQhV+CBpcqg2ERFreoCd80bWLhk7AAqycvhfKkERJ8yytVHJ1+jP2AabKuQo3ir1yJWLLgG3dpYeReRjSEYLB4sIm+/C5aczXyF12qGKTX3HsU/n9Rr4uElc8LFhlFboJJSV6V7v6XcCxt1kyfftjJ6synaCgYwjT0w4Ng==;HmyAtfHbb16kIL2kS2GFBg=="
 ---

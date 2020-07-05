@@ -64,15 +64,24 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Azure Private Link for Azure Batch is now generally available in select regions"
-    excerpt: "Azure Private Link for Azure Batch is now generally available in the West US 2, East US, South Central US, US Gov Virginia, and US Gov Arizona regions"
-    publishedDateTime: 2020-06-16T21:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-for-azure-batch-is-now-generally-available-in-select-regions/"
+  - title: "Azure Data Lake Storage archive tier is now generally available"
+    excerpt: "The archive tier for Azure Data Lake Storage is now generally available. The archive tier provides an ultra-low cost tier for long term retention of data while keeping your data available for future analytics needs."
+    publishedDateTime: 2020-06-30T20:00:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/archive-tier-for-azure-data-lake-storage-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 73
+    quality: 77
+  - title: "Database engine auditing for Azure Database for MariaDB is now available"
+    excerpt: "Azure Database for MariaDB now provides general availability support for using audit logs to record database activity and events such as connections and queries."
+    publishedDateTime: 2020-06-24T16:01:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/database-engine-auditing-for-azure-database-for-mariadb-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 76
 
 secured: "84ucZ84rbMoUk1d944Vrz7QeTkrhZFGpZoeXcBQIEzPEYvPeWq0wyZInNK4tw79ZnocwG1YxnnPZUs/1NCFpLiDV6lDSyLDC7wlLlesBuglyFWhZVx9UyU34dtZpMvtbGQdcKQuYZL+Kje23VFji/mu+V9iQ8gINY2PVwkbDy9SphsSt2qSkJvrdPuMvbkZanERylhTzSna+woezQ0czk9gUgJAfI3wjmciSsV24lIpFGMonjRuY+cW2ApSikzPAY9PYImxyvq2H7jkIInz/l4xBGTO+qaKWG1h3ULJYy9jIHmCfEp5U8QhysejsAbysii+fA3m2Sz6QeiWHNrv3ow==;gQMBFuBnr4aoYizoRW3s2Q=="
 ---

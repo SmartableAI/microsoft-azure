@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-27T12:00:29Z
 webUrl: "https://azure.microsoft.com/blog/dcsv2series-vm-now-generally-available-from-azure-confidential-computing/"
 type: article
 quality: 78
-heat: 198
+heat: 118
 published: true
 
 provider:
@@ -22,33 +22,6 @@ topics:
   - Compute
 
 related:
-  - title: "Azure Archive expanded capabilities now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-04-23T16:00:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-archive-expanded-capabilities-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure Security Center—Dynamic compliance packages now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-04-28T23:00:42Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/dynamic-compliance-packages-ga/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 76
-  - title: "Azure custom role creation in the Azure portal is now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-05-01T16:00:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-custom-roles-portal/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 76
   - title: "New DCsv2-series virtual machines are now available"
     excerpt: ""
     publishedDateTime: 2020-04-27T19:00:00Z
@@ -62,15 +35,6 @@ related:
     excerpt: ""
     publishedDateTime: 2020-04-28T17:15:39Z
     webUrl: "https://azure.microsoft.com/en-us/updates/maintenance-control-for-platform-updates-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 62
-  - title: "Windows Server containers in AKS now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-04-28T16:30:38Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/windows-server-containers-in-aks-now-generally-available/"
     type: article
     provider:
       name: Microsoft
