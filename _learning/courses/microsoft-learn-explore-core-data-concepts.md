@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT25M
 ratings:
-  count: 59
-  average: 4.8644066
+  count: 61
+  average: 4.8688526
 heat: 60
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Explore core data concepts"
 
-secured: "OWkTziSO8cOvNMxI3fsH0a/Zze3zpDPXXno0dX3zarOzfrUwmhtcRaNFd4nvYtvBaAyxFghsdJU+bGlox5UhyDyobGJQQNWHAe+tEY+zLdl7Fyn1+BydDabrIcnb1R5SloyuqE0659vUaKPBT7jnRkHStvLrG/X2ipGmkQZYqc5jzYrj14J1NzfbM3etcKOPCfpEveGEKfO3wmMkSKh6B+IIekPKHVTNtDWYdDmnVtB6MKKzj9PrQ+FhE6gQoLD7jK1TFmAgIJy0hlQ5ROxax47WibVqQGrVHfIQJDED68JoMF5TkfQ5/EQK13hhmXEhu75mCBfFoqLBOY4o5tB2iqNJDRKjlzvL/rp1vlqzlTUQNjK25iqTjfPV0nkgx9JdP/oGd73NXhhlZU9AJzfcFA==;aPDx5AMc4SZHA1Qh36oHCQ=="
+secured: "QTnRTOixF+Bs0s/P2+TutFGOhCTFwam/0r/85UVR+BNgyNnDjijjfiu9HtR2+PDsKM8C9OsmMzesZW995MqwRSzh1fr4E+ftk3IsOyTE5H+5/+nMdnMyBuyvUVzKBC6d2wD2BXb7x9ir6PTzDZCmhmW2EnuR70CsN8S5OvMs0N6+ICqo/Qb50toz8GM4cSGbHsmYywIUu7OztxrxYw049J9UeVK1mDuuwMV9PAEcWV44bHUctO6nx49bD4iHDXxObXm2TWspY78s768zBDY2AOF0ngyvm4KFfH60PpD99+E+QYJfubouiMoA94LRoo2uyuwLsLWWMYyGylNzPXMGXU4YLKc9nSj1J8vz11P2HpaKKkSMCMWpjFwDrFuvX79zzq9jd7d1nAsI86s4Vpzavw==;ebtykxZk6s8LhDpwe2hVjw=="
 ---
 
