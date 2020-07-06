@@ -112,6 +112,20 @@ related:
         width: 957
         height: 720
         isCached: true
+  - title: "CEO Sanjay Mirchandani On Commvault Metallic And Microsoft Azure, COVID-19"
+    excerpt: "Sanjay Mirchandani told CRN that businesses, including his, will adjust to the new normal of the COVID-19 pandemic."
+    publishedDateTime: 2020-07-06T15:21:00Z
+    webUrl: "https://www.crn.com/slide-shows/channel-programs/ceo-sanjay-mirchandani-on-commvault-metallic-and-microsoft-azure-covid-19"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 35
+    images:
+      - url: "https://www.crn.com/resources/025f-0fd2bb220d89-7e2805bf1204-1000/sanjay-mirchandani-commvault.jpg"
+        width: 607
+        height: 456
+        isCached: true
 
 secured: "VfAyedZBCAmb+mYaYWy95U+FzyWtqd6e9xQ1CPlG1W/IbNsbBxkE0NgUHNrcwkSyOBi1yzbiYBQt7zX2l8AHpFNvJVPjTXEd2h80IAeFvld3W/yjBJIdd/TItRvORyKGwe2KrywRRugPohb5YUqZj6keKrlOFnmt/0gwmVmXG/auHx/ihGWeX3IZLVneApr4T+M+KDiOgY9MZw57vT/W+jV3T3uZpUePIyuRHMVzrCq8H8SbqBtoOzOGR8lwzW9rCxhIOgGXYpKflmDmcML/OZEPRTYO4KN2A6GNXfkp0l4e2fu3eZaQBoncHhyhGl5R6mI4xxLRTnKzEXBba/uSuQ==;SPCKtxVOv3QQZL7GFA8Gng=="
 ---

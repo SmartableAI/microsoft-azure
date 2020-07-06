@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/justinwarren/2020/06/30/commvault-annou
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/justinwarren/2020/06/30/commvault-announces-microsoft-azure-strategic-partnership/amp/"
 type: article
 quality: 97
-heat: 217
+heat: 237
 published: true
 
 provider:
@@ -101,6 +101,20 @@ related:
       - url: "https://winbuzzer.com/wp-content/uploads/2019/12/Microsoft-Cologne-Office-Pixabay.jpg"
         width: 957
         height: 720
+        isCached: true
+  - title: "CEO Sanjay Mirchandani On Commvault Metallic And Microsoft Azure, COVID-19"
+    excerpt: "Sanjay Mirchandani told CRN that businesses, including his, will adjust to the new normal of the COVID-19 pandemic."
+    publishedDateTime: 2020-07-06T15:21:00Z
+    webUrl: "https://www.crn.com/slide-shows/channel-programs/ceo-sanjay-mirchandani-on-commvault-metallic-and-microsoft-azure-covid-19"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 35
+    images:
+      - url: "https://www.crn.com/resources/025f-0fd2bb220d89-7e2805bf1204-1000/sanjay-mirchandani-commvault.jpg"
+        width: 607
+        height: 456
         isCached: true
   - title: "Bitvore Announces General Availability of its AI-Powered Cellenus Platform on Microsoft Azure"
     excerpt: "PRNewswire/ -- Bitvore, a leading provider of AI-powered intelligence for financial institutions, today announced that it has completed a"

@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Microsoft and Hitachi Announce Partnership Based on Azure Cloud Integration"
-excerpt: "Microsoft and Hitachi are expanding their partnership to include a multi-year alliance focused on transforming manufacturing and logistics."
-publishedDateTime: 2020-06-29T14:00:00Z
-webUrl: "https://winbuzzer.com/2020/06/29/microsoft-and-hitachi-announce-partnership-based-on-azure-cloud-integration-xcxwbn/"
+title: "CEO Sanjay Mirchandani On Commvault Metallic And Microsoft Azure, COVID-19"
+excerpt: "Sanjay Mirchandani told CRN that businesses, including his, will adjust to the new normal of the COVID-19 pandemic."
+publishedDateTime: 2020-07-06T15:21:00Z
+webUrl: "https://www.crn.com/slide-shows/channel-programs/ceo-sanjay-mirchandani-on-commvault-metallic-and-microsoft-azure-covid-19"
 type: article
 quality: 35
 heat: -1
 published: false
 
 provider:
-  name: winbuzzer.com
-  domain: winbuzzer.com
+  name: CRN
+  domain: crn.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://winbuzzer.com/wp-content/uploads/2019/12/Microsoft-Cologne-Office-Pixabay.jpg"
-    width: 957
-    height: 720
+  - url: "https://www.crn.com/resources/025f-0fd2bb220d89-7e2805bf1204-1000/sanjay-mirchandani-commvault.jpg"
+    width: 607
+    height: 456
     isCached: true
-    title: "Microsoft and Hitachi Announce Partnership Based on Azure Cloud Integration"
+    title: "CEO Sanjay Mirchandani On Commvault Metallic And Microsoft Azure, COVID-19"
 
 related:
   - title: "Commvault Announces Microsoft Azure Strategic Partnership"
@@ -98,19 +98,19 @@ related:
         width: 607
         height: 456
         isCached: true
-  - title: "CEO Sanjay Mirchandani On Commvault Metallic And Microsoft Azure, COVID-19"
-    excerpt: "Sanjay Mirchandani told CRN that businesses, including his, will adjust to the new normal of the COVID-19 pandemic."
-    publishedDateTime: 2020-07-06T15:21:00Z
-    webUrl: "https://www.crn.com/slide-shows/channel-programs/ceo-sanjay-mirchandani-on-commvault-metallic-and-microsoft-azure-covid-19"
+  - title: "Microsoft and Hitachi Announce Partnership Based on Azure Cloud Integration"
+    excerpt: "Microsoft and Hitachi are expanding their partnership to include a multi-year alliance focused on transforming manufacturing and logistics."
+    publishedDateTime: 2020-06-29T14:00:00Z
+    webUrl: "https://winbuzzer.com/2020/06/29/microsoft-and-hitachi-announce-partnership-based-on-azure-cloud-integration-xcxwbn/"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
+      name: winbuzzer.com
+      domain: winbuzzer.com
     quality: 35
     images:
-      - url: "https://www.crn.com/resources/025f-0fd2bb220d89-7e2805bf1204-1000/sanjay-mirchandani-commvault.jpg"
-        width: 607
-        height: 456
+      - url: "https://winbuzzer.com/wp-content/uploads/2019/12/Microsoft-Cologne-Office-Pixabay.jpg"
+        width: 957
+        height: 720
         isCached: true
   - title: "Bitvore Announces General Availability of its AI-Powered Cellenus Platform on Microsoft Azure"
     excerpt: "PRNewswire/ -- Bitvore, a leading provider of AI-powered intelligence for financial institutions, today announced that it has completed a"
@@ -127,6 +127,6 @@ related:
         height: 315
         isCached: true
 
-secured: "/kHwJCspOOlZ8JdUzp1q3eSoZc3+woYpPBidhgcDDso/GjtlXVnhT/Ym8KH/sn724u7ytyd8j7DGQdAoEUdOLmWZTKFl3eR/1OyzsUcltRGWmnfO2dGIHtJUiBehd5DcuPThuKrEBewkcbnj5FHZJ6hcmWFHynt/Zml2i2/dpxVsU0x+6NGpFjYzT3jzcMuGjfrxex3zrlvlcTPsQOWPxpGRiGLODkveWkauohP5LcizMAYlFuUlfw7SmEOmawSnPxLXwZ6DAvaQqtzHOAzI8I01uZYahYSEKLrD5RHoHJ+yNFjQHI/q/GtZN9uF+Peqoo/uQqw/+5Ik/scRvrmZVJYrM0bTs5KlZ/oVf7BUr7L2f9sg7VqvA7o1fGoGjX9vS6InQTzjkXg5rikKg72a65jNi/9kZ64GlLbf2jKN6KZlujr9GBqvZpef8JlhfrdPiEk2+QXAmPrjFDK460uPajUkzMXzSY8CoXZF7jCcuJP0h0C+LqoUpQfJ8XaBYuHte6BZKEDYLQwyQut4zOvBQQ==;MTXYTrwKR7vxmrKnRTAWUQ=="
+secured: "nnX5Xj8rDa3qseD4oAGifYpcEaQloGpcILkhqyAw1HVqThk3Zwu0N5qqJcKrr9+TA1rmgBDLhjYy9PyaLs2a377rjR45G3AuMNC5KoaWz4dudC38afkeL7UqHyw8Wug6nWJV/5jroppe3L3UnafTzntrGQSHvPpDcFvpVImBF2bCKvcovy8r1I0WjRA2tb/h+X2C66FGdDufgcpCGLKcTDqJ3UtEkjyI8BcFarXBPKKI/ZcD+ghoVzptyNCrhKL1jG8s3tcdr+B5iOUiihVV9OpVzz+wfoyyhcBHehqKvSqIUIn5qbw/LkRFBw77ja+5jecnqhX0SlfQFjQjGPH3BQ==;6Uxc3qIvo4CYWF5hTmTOvw=="
 ---
 
