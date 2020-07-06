@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Azure geo-zone-redundant storage is now generally available"
-excerpt: "Geo-zone-redundant storage (GZRS) and read-access geo-zone-redundant storage (RA-GZRS) are now generally available, offering intra-regional and inter-regional high availability and disaster protection for your applications."
-publishedDateTime: 2020-06-17T20:00:18Z
-webUrl: "https://azure.microsoft.com/en-us/updates/storage-gzrs-ga/"
+title: "Azure Virtual WAN: Multiple capabilities and new partners now generally available"
+excerpt: "Today we are announcing the General Availability of multiple enhancements in Azure Virtual WAN, including hub-to-hub, custom routing and transit capabilities."
+publishedDateTime: 2020-07-06T17:00:16Z
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-virtual-wan-multiple-capabilities-and-new-partners-now-generally-available/"
 type: article
-quality: 77
+quality: 72
 heat: -1
 published: false
 
@@ -72,6 +72,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 79
+  - title: "Azure geo-zone-redundant storage is now generally available"
+    excerpt: "Geo-zone-redundant storage (GZRS) and read-access geo-zone-redundant storage (RA-GZRS) are now generally available, offering intra-regional and inter-regional high availability and disaster protection for your applications."
+    publishedDateTime: 2020-06-17T20:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/storage-gzrs-ga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Azure Storage account failover is now generally available "
     excerpt: "Customer-initiated Storage account failover is now generally available, allowing you to determine when to initiate a failover instead of waiting for Microsoft to do so."
     publishedDateTime: 2020-06-17T17:00:26Z
@@ -126,15 +135,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 72
-  - title: "Azure Virtual WAN: Multiple capabilities and new partners now generally available"
-    excerpt: "Today we are announcing the General Availability of multiple enhancements in Azure Virtual WAN, including hub-to-hub, custom routing and transit capabilities."
-    publishedDateTime: 2020-07-06T17:00:16Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-virtual-wan-multiple-capabilities-and-new-partners-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 72
   - title: "The self-hosted gateway feature of API Management is now generally available"
     excerpt: ""
     publishedDateTime: 2020-04-29T16:00:02Z
@@ -145,6 +145,6 @@ related:
       domain: microsoft.com
     quality: 59
 
-secured: "nxcXzCieZ7LFSpv2KP3ouQUlStdMreXMKeLYsAPT2m8Rnb0DtP9GOFYz5+AD8jP6SGTwm1ZtKtMSosmvcPGvUFSp6L+Qhh1zK/28GhSz6Dzlc8jZ1sPcZYxJZzw+trwfS0xZikXZEsD3PzP1lA7E7j6p80QpMxXV+mtYGstDyWTRDAmTbTc967uzxYPdI8FdT94SM+4I+ZAJQko46xy3Qw5xFjWBC/Beqf4eD/v9j9o//L2SHX4Fcb74ZImnpM3yCHfnmK7lbd5Ti3CnuERQI3tQBRZWxMJsJst1Ul7w6ORZ7lyCgB2n2eeCv/kOXIhfojPxYQIvYXQIgrwpBB+8eA==;HAGPLxzbADCQTqID0NRXNw=="
+secured: "PbwL2sXhaCbjKcxzcLhvz2Xvk71sN392SMhURIgi7ial+RZPeUjAMXE5yfM60KXWWD7npBMESZXKwEGvpntbw8yXxNe2a7OPBYfY1di+4DHQtx/e0M4Em+/Ee2G/jcGJ0dd90lH3M2HnfB0gLhyfgWGhcFeMNYBEBqY3Klt+5lxbWs0JwEM4oNp7cnZy+mVaIZDI5fjPu3LtofBuTAsT8WEkpF/Lq3nAf/di6AkdhEu/3yk7PWg7WPpzeCtUuPYJWVG7A4QoFJAZojj+U4rwI4O5i2eJr6zFf+6cV5+bh4ZCL5Iaxu239CgEBRYSFBVjB86QVKG7N7LtslKNVmJuag==;C3p/J1voTeb9DNUiPaTtxg=="
 ---
 

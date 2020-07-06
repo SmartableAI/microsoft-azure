@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-01T08:00:06Z
 webUrl: "https://azure.microsoft.com/blog/azure-firewall-manager-is-now-generally-available/"
 type: article
 quality: 97
-heat: 317
+heat: 337
 published: true
 
 provider:
@@ -128,6 +128,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 72
+  - title: "Azure Virtual WAN: Multiple capabilities and new partners now generally available"
+    excerpt: "Today we are announcing the General Availability of multiple enhancements in Azure Virtual WAN, including hub-to-hub, custom routing and transit capabilities."
+    publishedDateTime: 2020-07-06T17:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-virtual-wan-multiple-capabilities-and-new-partners-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 72
   - title: "The self-hosted gateway feature of API Management is now generally available"
     excerpt: ""
     publishedDateTime: 2020-04-29T16:00:02Z
@@ -138,6 +147,6 @@ related:
       domain: microsoft.com
     quality: 59
 
-secured: "tbFzOvOONgpcdiHX/StXJOUAlwo+cx+UoCg9jFotFB+2SUwtFwtbGPCUgvtZGtKfyGY75coS/PffjUBU4eEdEH9u0OWud3BOPTREjnoHk2zkfffAwmdGNxQZqxiB0j0jga7MPtgnF19ShypqCklr9PFDKFDPfwdm9sM3JvPVXX/gf4g7Q1P8KcOH84EWfaESAiZW6mzB9Iks8ZG9CvbE38D3S7uYmbGL+U1d2UdIt1OzH9AX0YMI01eUiQxwwD/ThqWlOa6GVNujygvxXb4+89trc43CB7ZzDICO2gbMqjAF7v6cYbSqPlyNNa82a+xvgdm+ZawdtXjdr8/coTM7Vw==;Y8b/bzyHS/qdxPy+uvTnaQ=="
+secured: "er69cc2H82iKxun3Tk7xtwahITtbPswjg93hy1uz9EvYF42WO9IR+sWvXa5r73iKsfXJ+c7facGtDpwgbO4nwtSJpVj8bkvVSRQSS32H43XQ1+I/Iu2PpZxyvt3NIaNjc10tDVAow05iYvsmB7hqKDUTrVenvI7lfmknWKfSFbVpKRcmIkMqxaDt7i6oU2uw65zJW9+fLbNpWkuyv/tZ7KnBaxjBEa0S0S6kv4+lwgemlKX4lgGGHAkAsdEy7zK1YFnP4EEc4KaEKvhsihcqhnqAMWyuPuslCLW8wqZBJjhlZFEm2FKjtxDloenzqDDzoKw0K9YqfSgiGfigZ6/4AQ==;oRuhBMUVO3MMZwJVIKzKWw=="
 ---
 
