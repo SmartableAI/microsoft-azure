@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 75 mins
 ratings:
-  count: 3848
-  average: 4.6281185
-heat: 65
+  count: 3849
+  average: 4.6282153
+heat: 63
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Connect an app to Azure Storage"
 
-secured: "yvZ3DFKJ3Yor+fLMmUL/K0WapwBgvIXoXuu6UWeOteqDD6wDvK/R/dBQFva7h5m5Rmr4ifv/ArSmqy2lgM4iCyHpz3K0ENd2E9hdjvpkuYYu4xFt9eegaRLbDLxvmAUv1pqZDmrdoiENI6irw1JXDGuSUh59OOCu2xW0SI3Qy9BkHFZmq4iQ9FXshAgBvniNMCn3be3Wc0r+3LbaRbjNr2lgCFz0FstFtoh8AlVrHrGQr2p+u4N5SPQHlV/k+t0I+gKwzhbXa9HaEJZeJbwg3UuLx0oqtRckOuY0Xla5/YeC1KAgiiOSE6IT6SAAJ9p4plyYkLTJGzE5A1ipyD4pgi9764fIqUxx9+DQRwOQbbfDxT9NPzYNxMr88mb3qOG0JGC+kElu9e2TNkz+exzU/w==;q8aEtxwQrC0uTHx7kte94Q=="
+secured: "WIAKJDR9oLF5ykeMl7i3NAmODjTh1HEvOhu3iMjjw440gifdrkcTmRsUA8r0w7L+MfnPOE14tAl4COgWKqaDNPeR7pkLrA+YUMQ5ce2EKZmAQWD3S3UBzVHtgQFfHqJH3lGJeQmvojxifT9clIu3miodXbmksoOt26kr6mEwls0GMuhkV9zpmmm7FXThtOTTtvuOUGBpTxXQdyWL+vS81ogO9pAg+5vdSeM+ZqCVtb4wZ+7NDq3wnCDC5W3oYqeLEVDSQ4Nyww1qTY/pR4FTFnE4bz4vIQynYrTiPT/eTWcks6DL4SSsz9+oxh6FnBIpBCxBOnYU1QnxNPtpq7WVeIw3vPldNoB8L2C5MX6ygEdjIJicg80jWU9oW+qBjN3A0vkTf+ePh/vT8R0wHegegA==;/XnW0iacS/Qg6T8uvLKB7g=="
 ---
 

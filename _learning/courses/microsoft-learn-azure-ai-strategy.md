@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Microsoft Azure Artificial Intelligence (AI) strategy and solutions"
 
-secured: "7dPEyqjuIahiIWF3Rzs8DBwFjyRvJBxgmlJUFBbyHzbgwZyH/PQKdlleYITy+BOw5Pf0xvgZsejp8COxrg79kJ/4vWbSzrtm76QkNwJiY+Ajn72YbU5V0VrDdcOnwz3hs6NEDqDkB2eY1yHeCoaE5N195TdN1VOrpM1UtluAJSkEO1apxC8/04xvElk9j2/7z+Csto55l0GNSHlV0g5/dRReO78HCsaSxiB5om/QYqGXiokWPPNg4ouRd6+GB7IvotGNFlFnhBn37PUbU2h3T8gEpQMJEjRjNGYiwVCOYlmR2XvhuJlmLLH8uqJOnj4YykjPi3RWYdgHfNGTUcvY4+v4G18WKe4Kl5Bd+r8wHCIgSiBwyDzBfz2Mi+wZXbZJLhECF/l4zWMeP4f2VG8UyQ==;Q/Ghi1ZJBUk7Z7aXyPi53Q=="
+secured: "2sZV0Jbu0kSUttdGRUf+ULu72APe1DFUBswF/shNV5K+oxYl0BqIdpyIPsyFVw96YjxYmVOq1juCaRutAYsjgqyxCNjzB2Tj+xltLA5KQJdb9RiA1tfJloCmCZNkY/946pFjApb6MIZCzMQZ82tdn9Qp9cmFskFmJLIvLCBaSTVJYUupRtCMt+9aLbkr4f4Ogjwufo8qANVM+/bfMZoaBe9O+gcx2knLzx0+AOZ5+ylGNm7UJcp8MNcc/mISpugb3gohELMkD+UK+PF1AN47/PS1Rf/1HYwp9Z1MM8fCDKtdazvkDjrDqov/382lKTXTHThmtOPSqqZ/MRFVMyBmO11PauiZb8ZokQ+LFkL2Oqz5FFTeni/foGjQyvWqSQGDyL8dqJ/2djFpmTiu/aCduQ==;AlYT7U7m4ogtYjQULWHtYg=="
 ---
 

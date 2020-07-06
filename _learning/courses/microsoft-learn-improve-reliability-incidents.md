@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Improve your reliability with modern operations practices: Incident response"
 
-secured: "ZNvT6YNuK3WYpVmmefso4hSfG2qt+vTYaN+d64Gba8vMPcTRP5ykePw/HQufyauXKLlDw/XP2Jtj91Kd0IuwqS1NEsingTcpIz/P2ET7V+exobDH0vDcS6t+vF5AtRUfKKxufakhLZn6ixcoKHAsTICiSgT7sjKxNEdtSEUy9TnS4OT3tMEIB7wFB7aqwa+0m0p60nGMlxj7TZkbH9EvEbMyMFGpHu4Qp4W4SY+sP4yVGF+rINEqu8hTlCop9AngL2u4lhw93JFfz9lf01AEp0F1STIztLqlt+NTEE6LjmVy/5eyFPSPhHZqDlA6oYLMmCR1sJNNsdHPFsAaAmJ1zpqt+c5VWwynVYnLO+JXPAxXnOKlBkaltXmnLEzvIj/tPGxw2jBuLRgY6ioXOIy3qg==;Gg34o98WxxaAhM25p6GXdQ=="
+secured: "+X+9PTvKb5/bls1i7uyYRL6mmbmXnoSmwCbstFzVvDaz+y55FIJVo526W/WLCPTbB4msLF5FxOLxkd/WiIBggYgKej8X0u1g3xpPM+X6iRjp7fBAarfwR/k9bF5SdDCmf+aSyAeqcmYBiomLRpOoPHK1JdPKr7WRyRRrvfufBtQVmjiSr7ys9D61ZtupyWaIRn70BEReEWjZd9KNCmH8o1ehsPSXIZmbLpWW0js9Tujxh0w8/1h4qW+aVX9K6a+qBg8u8uB0yB6n7392xRLIy07waL4+ejcd4aWvyF6eg8uPdrvs4eqgfyBwhupaC077kna59TfSKEVQlbSqQ/0e/6IvDxFIe9t3dPBBVQXMC0I0Zz7agpp/LYp4M0qlh0w8clGJK0tGGyRX3iJsgBeKuQ==;U+QbMP+3+Qq6mC2EGwDgqA=="
 ---
 

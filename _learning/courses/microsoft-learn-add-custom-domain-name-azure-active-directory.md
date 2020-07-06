@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Add custom domain name to Azure Active Directory"
 
-secured: "ZOJFuXalvclyruuFJ/Y0XH0Ld18GhqjQG7WYSQSLcinOrNWF03ZyHLrIvdNSuj3XBGx5I+g+tR7rd70WF6OBn3I28PCxJCWw3poqK6JpXSDg2vRqz2+4hmE8szHDnMGGcEi/tLgQjaHECvyaqVzAo7isI2azWi/CXKTavvf4tYyjnv2xihgROl4JWr9SsP8X1JmWu51CUa2zf0yMokaERUt0PLmLb17FtPzPJbGD+eMGbZkDBt3j939QUx7EWKobYNl1pQA9LRGeAR+6vDp9pvXvqvhqVH+mKEOp3XeFdDqlfwrFpNTfjz5oquFZ8v7Y/GOi/YAAS7qfJN1UoA4KjqdZFDsZxoVoWtJ2g2SN1KKnd518QAdawIg/dRtjv6avKhp/JAopwk7bquhnDT6pJw==;yGv3/fDW2aCdV4hFvdkY0g=="
+secured: "KTy+daGcnmspVcpdw+smvEtYBXqB1mYjioeZmIzsCKCYxNXofqz1reNX/H1XSogsjcG/5N/sZsZ2Gw6tVhhQSSfx3+VCG1PUo1ao3bfi3u53O0pQpl02L5svPutRC++JZip+hwGde7ePi1tvxSt3FttV85kpv4a0YnkamZiJ7YdoDwTveEbYz1GVzCvYP13g127AsYOweHEFWNG7y9MHbSzuloYafEp4HXeryXEvQRDtqO5bNiHey0r1oH3+3KqmmxoEpUXw9Q6Lc9oqzfF9/ir8zF8pHm445xQI4/V/ilbXNg/rxZnh6IYqwNmXu+uUJQbs/mPdRXU25Je1N7buWKs+EfNMoOCHwiTckI1fPSG2+wp3JYGH06I7pNnDbsDw2/5LCuZrjjnlPJq1fxFWwA==;B7INhfa4ESHO5NsODzVirQ=="
 ---
 

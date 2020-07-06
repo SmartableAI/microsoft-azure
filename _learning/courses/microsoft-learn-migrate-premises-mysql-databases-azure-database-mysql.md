@@ -8,7 +8,7 @@ length: 42 mins
 ratings:
   count: 51
   average: 4.7843137
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Migrate on-premises MySQL databases to Azure Database for MySQL"
 
-secured: "H2TJG+OkgHLYweSi5HriaAgdIStCKGgIQhb1Ixw+HwS8+IruXg3PXalEXGRprZKNl7MESicB7oqZZz86ih+gQwwYyR/DkQO+WlW2s0Kc7y6ydWBhTNAj8Dmz6T54sW+UOyItoqJqtQYkr9jWlf+BtALe/03a7HnVk3DRC61/cq4+5xZcdt2c8BZ4+eV8vfom/u2CCJEYicnpEeoIjaYk4kQPfVqsFewBUkj4XeZc3PWLxv03znFGdfViE7V+3JTguPASZyC4u9Rlao52WWCg5eh5nqv4OGCDRssxMLXv4cdq6YSp/6EnyZv7Bgo8oJ9NiOUQEvJ+E84eMIqI7jbc3mXP3Evu2LQdaX5C6AGS4Miml8QhpC9/kA8gO3CzeviS6goJIkD6fEbHpNNLbB4etA==;FJmb1TPm2Ep43HHjd3JucA=="
+secured: "P1F1kWTYwiXZrY7MqpFezHA7LTtAkigZmbYqTHvcrpcF1aeqQ1zdPbL4MtHVtkCDIHyAqHm8khitjUlUizV65Sq3iWid/MdXpqXG79vfud7MXipZNq4WF3bw2DbBrRHdh9ld/SwOvwiur20OP06PpbYDxGua/y8odhZORoyCBbahmvX5TLzJcX9bm/owrIDs+2r0Ot1qi0R0WhgPvzuBKllkGUjVlrYgAhsIoEE7TJVJTzHXTrBUOaf7y8ijTpGaRveL6NH8T7nXSx3EHlm746qepkuYPrg6Aazhjfp+uPpZRwljEXCM6MPNmKfURyv5BjdzEhyCKRjcmSRtEkDnz50mdoWTIFyuWTUDKf7ZrqlMgNXKF4nXOxvK9T9S0x/pwO8rmnOzANbnY5gNJVcEHA==;sfO2LQv315DzuxUD6DCKNw=="
 ---
 
