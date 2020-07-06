@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 70 mins
 ratings:
-  count: 1942
-  average: 4.6956744
-heat: 54
+  count: 1943
+  average: 4.6958313
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Define an AI strategy to create business value"
 
-secured: "5SDf0uSHEFpJBjkRpqqPIUQMDbzdJooj3RdrRKVDxpnJbnL06tFvylwz5ptAZH1wwzpXvvC+1skS3dEi6SAg4MYCDz3sFLEo98+Z8uJYb2o6dvPkbuLW026AsyIhcY7a/or6i4c4qOl2IkUTX7mbEj0uIxTaReV4EjNDUvNbY93gdRRH6J+unFh1gpcN3iX7O+4Dsd3fAt/ZZ6TXQff0wvQakqKEdEDdiRNFttR3WftDLvU0M1k4G8tOYw5g60wAQ+WcIgVLsCt1r2AKPpXYIeFGYGeVs9cIcPa0pKZG0gyb7HSOZm109fGgXYJCJ5Jwqgco/YvJ1k+Nj4VMJq0MeQ9cqih4NCbxwU6FhgC4+hhlEjpeeoochY2WrZEHOQrWEz2ZhZkUT64kPae9VsNPlQ==;AhfMknNLPGEdaqKf+Nvu6g=="
+secured: "qY9pjqaey9rTtQqIJw2ea8C3+7gNDWrJGBV60wnZHYr56ShAlKU4yni0iBtCUmctHQacQjGGrHmrJXoJhFskI6JaxpthDX1iWj4OgkskPkLfU0qUleQLLffU3DmT2xllb1P88aQnrehWeyfmLPSr76xyMCNmmFceb89YGyt4UDYxOQh17PEjhURCaN3PbrJwXTrzbSEhT116vuNX6swXydL1Pv4CJT3lzf7OhxZOJhWEA+0TMVhJlzybqNcalMNpifh5hV/FyDH6oTurbpCxZaM4ZssSc5kq4IxvToFVI6FMMR6fpaONn01ROpq+RpmxzDUgwP6ysis3dvMQ6RNBb2quaxbMsMA2Bku4mDIJZq6C7p/orCTKrSBfdm7Iz0M6E+3fUpdTZX8K9iIhM66bug==;n/EzQA51liDh/vr+CunLHg=="
 ---
 

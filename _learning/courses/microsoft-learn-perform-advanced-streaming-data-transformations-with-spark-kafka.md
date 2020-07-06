@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT46M
 ratings:
-  count: 43
-  average: 4.2325583
-heat: 50
+  count: 44
+  average: 4.25
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Perform advanced streaming data transformations with Apache Spark and Kafka in Azure HDInsight"
 
-secured: "lWawp7L9iB2tUR086UR2q4hk3wDuQ7VPNQSSF7ZSBhqLgsKZA1uNTo4HkvWr3eDol1LVkeMSsmn9Awj45UW/N8EuIRr/+55f5iFgmLP2khESJKK/MXKv6VTS2fANfdDf5Xo9Bmo6d55KY8DyB9CtPENqj7lFB8MUZLCAPChHG3LKMaaxEIGQbWvrUW6HtDkgsUG+rvQ0YwJBdVBfFe9vYXra5/+f1lxNr1OSIZmvBaM8H8wzjVvBADHrnbj0vQVJEafT/3tB3gj5flHKTojgyork0v6omz4U5BtkQDZg5UoWFVLQ365Koh8y6FMNtO+hMp3I4coTReLR6430MIRZKrJPKOvFNAo0P++RP9Pu90j8qPs1MKt7KKc7dtCj0XbpgOItF8ouURfFKU1p96yKPw==;xVkuf42mQ/sJnBUT7jZoGA=="
+secured: "wnh/L2PWGS6pndsg+KGY9nYDMSsXgx7eooh8NZBfvNHtcEhS695zAeAIKg2ypf6a6X4cb6v7+Areya1JAZwRkURz9B3nAPL+lmyACopTdk9TSqO2OXP2eZSpF2M1Z56IhVB9RWNemsMuADUg4IjgsLNT5o/9ZI7hgm2PLpDozNp3xFLDcgHXRCChC78wDMBV5IZ2vSigHPR9brENN1GVuKd6DeD+7D/KC26Zq+nF5nQqtzUAkrhjAAzX4begdplVgLj9qhTFg5ZJxzyU2rVMAdSCQLJc0aAAxNnjhc+TFhaNyDFv9hXzK+Z0o/GA5ozFGr0dF5DgaSfQF6C6RvJAX/fLqpVRtxijT0GHTXdryHRyyaqBRXp4ERN/N8vT5BoC5Bz+p0rhR/9pRKqySQoI1Q==;3KewR543jz4zB9cg1Yq+aQ=="
 ---
 

@@ -35,6 +35,6 @@ images:
     isCached: true
     title: "Create and deploy Logic Apps using Azure Resource Manager templates"
 
-secured: "mIcP0SzrFdT6rQuToTc9nI1FMETYWXzLMSqJsD2f6L6ibXY4Ew+O6glcL5ygyvyjHSKSFflDvFmiSV77OzoM6r+qarWfeb3bQ0ofBmZa7GBiiaqFT5lYL4vS2ozOSe9iGuNKO0zl5AIflNcQ+HmTLQ1kD8qW1NGh+ACLHEGbT/UYBKCeXlLm9aPE0RuZ5W07MX8m3sUkuPmYrDMUiCJ+xW+I0/hKXxC6NDGbwaWsunKQ3cJzZknRF+nRwWl6blTcBiojncvdNFURna/IRVcdRVODBReg8EJLpGVuhcgIjkbOqDlHh+Y103vZqfiw9ndS9w5CcKbf8LiN9CZNZB1eZlPg7qqKljwvqD9M+aqFM3zW6jhicQW+7GcZIrVIyrPNLf2Ryd8Kp7a2Fn6cdf6yXA==;Nw4id8vJnKMBHbFluP+8jQ=="
+secured: "mszHZKFY2MjolDT8fPYMhDYBj6JDlMwmx8V/acvVkzK3/ZO1DneLTa5uQvzvR5HnnmaZzTEi/VGc5+ciJ93WOlzbvbStw/8pbq7JtQV+y2mDlwO7ypFe85AbfYHuJ5tqLjIe2xiVQo26XR5xf+aW63wE/4DUA3JGSIKvk43vtZl5KeoKVOF+61HZt2Ix8T/fhVUGxasE1b8VRwwHJ98MUVcCYCLrt1dSz47gB/bM0GqFu568PExwtpwtcZHyEC0O4GKO9BJmBdT5NGhX65FGeAxagcSlVhuIqzDB2FVtxq8Sq+u3eDpasiMCCcFtLGPplNi/UEh3+xaD8k6tFY8WFvfPMydVIbZOtU+NGoyG2J+MmZu08R+RvlMuplB1vPy+6Cg76vVbgcYQ31kx0ESPXQ==;D48RRD5zjbV1pQNs2fK4jQ=="
 ---
 

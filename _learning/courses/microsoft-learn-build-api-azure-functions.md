@@ -8,7 +8,7 @@ length: 53 mins
 ratings:
   count: 55
   average: 4.7090907
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -38,6 +38,6 @@ images:
     isCached: true
     title: "Build Serverless APIs with Azure Functions"
 
-secured: "oj1FB0BuEly39swISkl7tBBiT8la6Olb/6wBHM9Zvt84DUemKfzcLywH+h0oe9A3DoxJKA5ugu24fpo4xRzF/8q8xoEzsAq9PYmwhKxhKGCVF4GRqcsN2HMry7h20bL5SO7bNf/3r4k7Z023zJZ3qxc5OCSzqrcMfczzGKmstWuxpb5GqorAAhdvYVyonPPX9zflG//3n/AGrnU3yt+cplNz8WabY+JyK6BAmDP281asX/Mq+iufHhdQSaAdSGCgkK4hjiWc+Tt0ji8v9/u8v+vQjeLi8rgTIpeTHlH2c+Z+ABIZ6ePAdfe5wLL/eblsnGr2ehoDQz0EPnhCLlHdx/lWKKHOw1+BVw91xv3oxbBKnF57EI1M3kYcq8tXOFHKtZNSok2np+LeHBLTR5JaDg==;Ul6qjf67PlKvXjkEhyPHcg=="
+secured: "E4Uwlk/l+WDY5iPwDqBn1p9FXOw/5T0vi90HiA0wtEiTft87SLqHcGajzgoKkt+rqReDmd0+HcXT4DbzvuPmqtHtmAsbWEeLtYDS16Qyoq8bEInTjKabFj3xXYQQB4iPiKzWJhmkQS0zagxhPxqNBC7tNcWRILjo/89FjlbQQnFhYcBOiPlXEqxsb5ReUmLHE0v9NM7yoavd2wj5dxo5Z5ZJjkzwcFNm/iY9pQYuKaewZgsJ3Mdw2kTWbHMtSdPM831TK8H6tgCP0+kR9IE2ffDq11J4x9etc/FtnGO8EvKn27YDJ83DWMhUXggqozfmTsvU6pzOTH/hS89nFmUewMXQU9RbQSooYHwMzDaYChoC3PPZtQFeZH3qP/uGcg88WOI8LGCg8ANtLX1ZZouh6A==;YQIpmILYYnKeePMkceewCw=="
 ---
 

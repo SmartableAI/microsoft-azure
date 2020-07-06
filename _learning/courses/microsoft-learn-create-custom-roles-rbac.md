@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 30 mins
 ratings:
-  count: 699
-  average: 4.690987
-heat: 58
+  count: 700
+  average: 4.6914287
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Create custom roles for Azure resources with role-based access control (RBAC)"
 
-secured: "uxKb5NxibmyECaj1/eVLcp+Np2a3qszJ9JlDkRAbWdvHxWkSrI4toB+gDZ3CW+nHx4jD7IVEuHU/Ll+XMJJGBruFhoLpA1EXmZs4kTuAz40k604dD9u8E4g7XwSXloabnjD6ZQCVi1T2R5HEqy8qMhLbLcuZdSS3Ivz9vDaHXHO+RadSWzOVsixkMUFGh9KVORKFis7jxilAiClCXQNlw/9bUxH9zF6AStDg1iLF6/8IsqKImsvom3BlwdGU1vWGmGHYqpThQGQjlN3x2sMiihbsJYToS5t70IyHQeVhchrGncag3YAuYCJwXLt631lnCwkojKgMT0vipW87aWRnlWGLfgReJippF3fjlHfYlC8WPBVjMTAJdzLeH4iWgLwfGdmO+Rexi/YL0kKsDMC2eA==;ZRvdGMNS/Pc4kgM4JZQFBQ=="
+secured: "2IcGOmiY/NJ4cTb+JcO+aQa0GEhqWRiKm9Ghrc08D2M77qjHf11Si0EDUQ8X+Dsc36FEzBjoxMxEfVM4lTNZpztkEmKc6CIT7fF/uAKczNjzK3YYr3Bdh0aNZiHrwbcSJcC0Z/+gL/tYI0Tr1HrNRyjSfDVeXF2lHza8OkYVLdFi3bNv/gfajYRHmYH64SBRwJ9KWzXq1BMIXxiVGqz2h7OwlWlOe5R9vzHtlXYjQTBl9ghdnPweAfNE41ryJNkbUFXAYpxbakWRbSvYD8EZRssrAdObuNgwGx7Mk6qJk4iwVZqoG5xmAUdHP2E00UAOKSBZEEqZbGCu/fO36tKw7IKbbqAWkRVM6kvy+4Tc4/l4h+I8cCb0CdYz+05py3hxAxDhKrh4Hb8BeX24OiTOQQ==;eQKHycWB3BIvQUQ/65zAUA=="
 ---
 

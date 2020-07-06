@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT37M
 ratings:
-  count: 36
-  average: 4.7222223
-heat: 50
+  count: 37
+  average: 4.7297297
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Manage enterprise security in HDInsight"
 
-secured: "/ONl9JYDsFJUKCIWL+u6gmfv/PsrTUrLhoDw5tRNKOgyO6RoEg+Kt2/feSw0zRVwbDExFUsFKemLxZyfq/3SHlFPAQZfnZIN7q+aTG+EOsopHlx7OBidXOcqEG8V1rTGzoOfGX6nYqON5xMKs3j+QazhNGPaCnALJqace7h7hHTmoAgVJwNSOL2wvVFrMbod5QsIvC+ocC5i7UBlLV7ZVa9rat4mK5iZ/+SOrz8oG5tokOyvwagbXAwQHdG/D9d2nnZfOxb1p9zzE1ryoUEHGtBpxLOZwVSz7osaAciyG5EJINCEBC9szg/21/tTOTQ5icWDqL3MUwYbkWTj0ce2ZY3yAfchpg5jOJMn5FSpmw1VBOTqIx/8uRaL5CpMkvFoLLaKTF70WPGH2XUDJzz4YA==;gxsJ5JEiIuFwYnZ21gWPwA=="
+secured: "8i/btFm3RS7ZQAe1yVDI5WWucNl89mRf76o3e2tFo831vVUqX2a6ktq9k30asDqJp5aRIdsxY74aJpJsYu+DLkYSNCYpWDUTyVdVXuqWHe/iXws9uPCdPAqY9j+w1LotGTwxjMWBRK7o9+QAtgt2xKaqFJ/5lYlUQXg6FVpXCtY6cvWt8tE9K5tfe0zI6hq9unN6bZ8nrlFkAxK8SSoYYHvjHnfo8t2d3bA6WAwszBYH2tLIp4H60qDpHeQWdRX0khGEVD7zyY2LR1+e6A1BJYRwPhqMkVQ1D19esm6WSJXsA7AIh2gG+co0S+CRimWDS3ZMzygce1bectxKe/mtwOYU5gOHhOeNZsnjZjZLGbOaAq8RdkP1z2SNDVzpRD11S4iXIqVTrMpIcayiEcniAQ==;YeKsxugha2NQJ2WVWju8TA=="
 ---
 

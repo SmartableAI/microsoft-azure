@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 74 mins
 ratings:
-  count: 523
-  average: 4.665392
+  count: 524
+  average: 4.6660304
 heat: 52
 
 provider:
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Manage database changes in Azure Pipelines"
 
-secured: "8ZhQYLpgPXcP12atp+vC3aSk9wWnD4KFptJyHyCLo+rHO9aaZA3dAOjUC32QxGoiANbm7i6WdwizrrTTWxt4IXlWKKQwtJ6qPgL2fj1Fj+xA/CziHxvAtN92DRq+Ufa9rTaJC0edcEd06QrQ95xZxRrs2pSKDgodUXzUbAhOU5/d5B5JXhZxYNfpKXCQbcKVSrCAvJYraNABwLfFAhGIp9la8yiNxOfXE5jq+cDl496jsvtj546xgvJDJowJtwvYz8wETZRg3FBMkrGvCgxkpwLP8+adDynMLIzhWUf06aGpra2SHq2QBnhwXfcQJJH1J8RPISdNXwBzSxw2f3idwoFfPHHRrp9ppOvvylccEolU2zagaKjHXR5RSgvGaS6T9tz/t14aZc+E5od4nrnpWA==;XVqFuFam63lnb4+0pSyqTA=="
+secured: "W47RyKYIRHEAAoxLjtN1J0nqOEsHOxQRTIjHAXb3zs/WGMZtWoLpVXTJHDMGAEmLJZXtV1gyR+uyYPgb1/9FoSE8EcvNAR6UOMRaxZ1va1g8HESZq5MzgrM30JukYMXlcMvPLoclMfk1U3C9x6AkxWTzbFuS1X1V2Vk+0imwdrUAAUS6i+ed8ALNgxlU5+/Kc4mBwiLvDfgP+H7lUmaSKJnuNJCxxCqFRObyTlTbWLgJHPdur24iZfWKXVZ1FCeMMhUgDzkS7viKVFGnn5SdUdREFvv3Cqq+hwzdSXv5rHHYdxehypw7HYzDqw8L4317dGbTws1Yzsc+/sIM2ZvJ7nWY4QHvQXpayceVrI2nU66UPaysZZ949bqBMgIAowxEVYSiGZm8Xuco/89HWW+vcQ==;WrQvvRUS+p+COSUzp4FpTw=="
 ---
 

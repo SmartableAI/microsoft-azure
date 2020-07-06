@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 56 mins
 ratings:
-  count: 201
-  average: 4.7014923
+  count: 202
+  average: 4.69802
 heat: 53
 
 provider:
@@ -37,6 +37,6 @@ images:
     isCached: true
     title: "Automate multi-container Kubernetes deployments with Azure Pipelines"
 
-secured: "f1a8xworisHmKtFtuTy3upv4jmF4i26c1L8bm9PF0PdkGvVKz+kaNxM7aQN3Jymj2DEJRxDFFT/T4+zm2/LosuekpNeP8wzQHBAUiVX8LwngbN8QyRfXXz+XEB9X7lC/5MuAhZBeRyoL61OBgN83dXGoFisu5IoDKQ1Oj8mnNOPmjTcfx184D9U5Kcr6HMaAFCatAm5joUO/DjNknlltxQGxJx/BgRHzvFKjn1a20xEj6VAvuBww52PxmpsLKP0mUlWUvgXclwPSD5tZ6w/jaU/EHnwt0HKjZoWZQM7FbAn0QaxfAzUAksD+e/0nWpEQoVKuvmyx+pl3EtjlY3i5IgeSqytiW9vNJ2Hiogpt1f+XLkAMBgyoVFJ/xYYknHYfJ023ZyogZFG/UcMPTw69DQ==;74N7UUVO4PadaI1Ds2l+Rg=="
+secured: "4mk6mbJk50NlHj/vZThabZc5euuGyRF2mGG9A74f0fAxTD/GXEo7QSs2I4hizOzUExAf0gXFXqTomsO2XOGlZOjIbVHVxfF4ji7Jw0K2qFWhA4bFRi4UPPBZtYph4iKm2Z0co7NwgouyFXz7h5xUX4RxM9/k3tmIUFua5dxO/y5A/bYfOqvoyz8PNQkFXYVKxVFa0oZXbFK4g5wBU5XkdDPzHS4FsX09tMm0+czUqAAIPobnTFGLpJMrmsGTDzGJQbdwScEbQHPiCMyopGK4GEQxKPuGX44XKFMHz0Un4IC3AwMbMifHodNvctlN0axs5XaEvuPyL56RetHU2j/KLkzlx5vDguj2O8lb0JEriflZQEN+XU4zn0k/0xaOCHeFRnLuhS0UAAiZDNWEPaf3+w==;shliUOzvtbAVxi8bykN5Ng=="
 ---
 

@@ -38,6 +38,6 @@ images:
     isCached: true
     title: "Introduction to threat modeling"
 
-secured: "rJK0J+n/JalGNPK1F8qyjN2xF2oARa0XiTNqiC4xGBdQCRGzUfAcf01DybX9AAZ3sFsIIQjMlrkVQ7Eswcn/AWW35OaItdVTsdneAOi5jXTmIWgUn74DGyt0rGmpCkuYiXskl9l+BnGAoLPmCa4rn6T4n0YPt9oCFwvMr0HyHeucx9/f91DdYn8GPXWanvZW+lwok1voUq47TRTTel7DOBWKZkTBYjZ+9M5j7rRZ5oDwzaMdzTynT7vUbRn2X/nDxNXxDAjJ3ijqp3r75RcfYQKovrgBKcsHPMWEHGGZznVqBJQZu45nxIC3uTjK0b78bBnROahW1wQoQ/Z9Os/iiprXsi1OVuHzc9ZAjs8OhUvGW/jC4g7kyKOzbk6ezJq1vUXgkpka+Hmn7egBzfBJVQ==;e+pG+Cd8soQpj/OEWvj9Bw=="
+secured: "PVgsX5c1Fjj5IUkDdPW4OhHBifUkxHKxX62dUncGF5aCCuFNYwWbEvdy0hjQkZK+owxrTlHsf6xJ+/srGfuFvCngz6I/Aba/HGAhEQWQGR9B26oT/OS1CDNhDu6eSEJs/2FKs3fwRNX7PotDN1qizmCBU1feiWRGKsm7S0oPrtVcfRHif3q2+aYa1W9MoAavNPO+udVcV16DM/St67rOl8H5Kc6eQ2y6QS2O0rYrla08nXz2d1wJSMX7EZ1z8JFyEE3BoHc+Ld9yqQstZfU60bi+Fze7ry/o4df/UhprpL+u+ufM3R8hWTck44PU7W9PFe91jYg1LSU4GzMsOMEfEGedVkYYoS2HZJTs0qCiZz21NJZT156ZRXeLnetv0XhCq29Z536l3xU5ugB6+tvzJA==;/sQpyUJ6u+Cvvvtt8Qikwg=="
 ---
 

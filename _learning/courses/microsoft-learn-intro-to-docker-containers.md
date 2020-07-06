@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 32 mins
 ratings:
-  count: 1954
-  average: 4.6258955
+  count: 1955
+  average: 4.625064
 heat: 61
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Introduction to Docker containers"
 
-secured: "O8KF8yJ6/qWRYQgrWyovT95oZGG2zLs2CWYqKnVCh1RguO5nRzuPRwnbCSEnvOvcEEOc3NVIBdEbI+3FCdf8NNeLcr8oUOI2P+o47dZE/60Ecv4Mv1lefblfJjB4ilbYAIHZM7tkSixP3y1rMM5vERHfIdRLtMjiidWNASH2+N4okO4Cf4ZGH8K86sJCLPzsLmZh6taPp5euFdm08IbzbWhndpxGYd1J3L2toZH7TQaM7KcKTR6Az8EGFS2ABBIT2c6SfZNf83OZ5+/fzosH1JYK7PWf8tEBrOSix4piIZONzuK2U7I89iH+Uoyl3h4LJqf7w3WLraNWL/QeaSQUAVOmAaR/gOZQBJmXyGCsidbzFE2aVMfIV14kvJejFL4piwngh4qNmoqPVpAW8rkccQ==;YRWACHgHLivlhjZIGHyBuw=="
+secured: "K4XiJvs2m3k9Eso6XYuo6xOYezBFaqe8xeQIFGBNACbWHWOiU/Grf/aEnonir7Qh1ThgajkjXDFt/YUQEiuwt13cewrSGUPGrTTemK29rrLKr5P5ClH47/elxGZGNgTtks7X8HorfJW1XFwg6X5pOx54QPLLenSwyyTJBw0yXUQufhJNtLVd80wtJpBNy4VQgO4tpa3ThVze3spOV6RRwTpIMqQlN5jgKvbR6CYqWMTFvoaMWMyrXDBa/s4heJO/T+OHBAPsSWrvyJ0hHYz8NbCmrUdaE0wpb0JY73jWdFl/mR5tcYYFt2X7s8SwI3zVbo0eE3oFIscy6ESF37h+cZfPp+VIf6xZ6TpCVNC1pxuSPuzhGtXyq6JHZEDhf1FpJZtcxF6YQeLegQz1u+oWMA==;6k8nz5Uta8S5WPOP8+vcVw=="
 ---
 

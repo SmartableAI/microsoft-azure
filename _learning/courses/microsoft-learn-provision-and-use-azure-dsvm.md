@@ -8,7 +8,7 @@ length: 53 mins
 ratings:
   count: 780
   average: 4.625641
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Provision and use an Azure Data Science Virtual Machine"
 
-secured: "Q4zLqEznz/+JYfAp9VFNtxfiEVS3uXT18aOSOveQtSd+CYG1OMv/I1nDxiWxG1PElaGtONp0LCHrvdmj6uECLiyYK2sW1jQlqVz5QPi+qyvkj9I3pG1CPavtlJPXcHUTlp3x0pKjSb4ynl+IJ2IX0OgP6qx2ft6m8igBNAkdH5wA0Yvh5bBKDZtNqJNW6nxnn66bcuFS6HNkN9gmSLRalC/k8rsOHmHL5NYL1zxDT98YReRrG0aoM6XfTK1rwEsEuviKFO6etVP9KfHKK36DeKDoDoTCqLmeZAXZQpiMF46S9qF9xfcD4nMJut8pWy902fb3EJzIxadfTeaEDvvAfgcoq/RHLLGHLVjUhgQVU+S1kdzSSiBIh+vYjHV+u1R4YjIp2UBa1GqppJ7Au6ShtA==;WSWAw+MCRZJFOdHqrzDVRw=="
+secured: "A11Ycdp7VDq6VQIv5Yp53CuVRl2DAyl0dv2WHsbdWkGxUAz3Vzsfg7YKehd6VKrQ4suo8XZXzIPTT2uRHc1CtKXSyGr6HUdM2y3C1Bj9yvArjnKxEK4fKG4m5GFo2VHDzWh0hRhmkU9x1jTzT/7oA5+MHdyNCIpqMYJ1MdpiqNbQFqB89vlOzkF5MjjsjF4GaqVtPpks/iCVn3M4ZjId2YMg8kNfqcx1n5oX0+2fHvAKhZv8QAh0t0xdy/k0DNKzqjpU6R6x43jvCTwmJvA1KFbMPlzCLhxB/MavpMsgLQ21SrNWmQNBMbcmNLpInrQmks37pY5hxTiDiWPaYZZdRvfKfjt5G0rY3uPVcXuoL8ttZipXSPcKRWjHk8P6p+MuFRG8EqQASbRIgyEnMiunjw==;ojQho7OxLPvzM920RA0KQw=="
 ---
 

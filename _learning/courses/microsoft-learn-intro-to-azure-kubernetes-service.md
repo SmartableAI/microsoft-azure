@@ -8,7 +8,7 @@ length: 25 mins
 ratings:
   count: 2802
   average: 4.5995717
-heat: 58
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Introduction to Azure Kubernetes Service"
 
-secured: "iCGZpDTXRaUZpUPpKbTA0o8D4wf5ihgtEmBhiHyWFDO2coiucH1qkyd4zywW49Sr21xgf8o8akixg2TaNPBxzCJK8thn39e/QPSlXoPGNzPP6myv+7jctyGK2QpK0JxBGPLr1Txr7equGN8qnXlQcT6uMpqMm5wsEEsMCn/u/ztMJdcUhwQxLRD7m5twxT9YhhXnmEYWs6Mvr27d+EYqBeck2ObRKSuGWRBW7a0+cq8FagEuk8N1MJpfigDlCoT/56PVrFoAscSn4AsNNiZww6NIUGih6sUBnWFzmg6x0+Dy1/70JxzmRSX1kt9BAyAmY/qPHPGa7yjqRYqHlJVro5btXEEyCc3TSuvsTmscaEYQL5tJA0qNppe8ogKmimWH2GuVCIuIB0j2dDHfvWFRnQ==;y9KTV9bCthm7wBjJMk9W+w=="
+secured: "gXEMBoT/FHWX6UQyi/TsAhK3saN21zIyALy/rQ7muXmh0Gf9CiOyOWU8mtUXJU/SOfaJkNe1aPstuaLYvLSgso/MiF/55n9R8TAwEKfg+SWzy/6VNFxMQRODwJzq9R7bBkRN7Eswg3F9mNPE4YHVCMYK590+gpGfTNVZK9p0aLxtWKVHi/gYafkgWncTEjb28sJbLfenSsrdZxzp8jakgaRXqRUF/H6ocCpA+mJzs80tFhPEXKCBQrfo16dbxyaIkL8NywTVz3IFctGamQ9EhyOssc7j4d3oLXs3zhoQEhfM5eGG9z/eJkbNKJjyjhWQixLouTvQbg795MCMTZm7FoW8wHkW7mlAwvEa3WmdE0KWf4RuwV5DYhG8uQFkP4wtaEbu2NE56lfw+Ri9TX8o4A==;0PgzR+wgLPmRbfOAknl5XQ=="
 ---
 

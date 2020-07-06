@@ -8,7 +8,7 @@ length: 53 mins
 ratings:
   count: 278
   average: 4.5467625
-heat: 54
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Introduction to Kubernetes"
 
-secured: "PKKQ7b9u3DnZxRx4of3nbr1lH5W6DDhIyUwFsy+hzV/VkB75HS/uew3e4OhlBsQ8zibWyLueLS7gNZ+NgeeEB2u5lUsA18PpzJdIHgkzGG2QHyEgti/KKfL4GbqQQRWOfwM/LKarzEn+EQfPYqdCN2Gn1TohPygfq8J0azj/zlA05V6+4H8wRGfJttrmO0iNfH+EI/6ZLaBS2kAw12cFzuzufKzzPvjLAv07y/RFq2R/gm/zR/vuQ7WMN22JMgX19ovQpe672p9g+yzHal6s0hCOpNHhAFwTpiznO+zLkVvB31k9/c1MDMTN0Z758ka/rlofYMneUEny4kez9xwZaKmGJf7wzK1nY1yT7z/PpHKQPPMeOr3pI9PQjStPwNeZbBXDcPcaUA0R5oXqZsqZ+g==;P5g0F1+58JvpMkVRubm2Dg=="
+secured: "HSJkjTKiOeZLKAfq+EQ4A8q8r9XOAgBcKBhBmDQ6sP/krzqJxQurpKpIujvDjUF1MkA8IPPt94BU7zdkoKWNhSuIm9kXlkkIA4GgSLOJYfZ6nM7O5yEZAlg45A6oATGwWzYPbw5o10b7BFun29ErunLzchEHziYw6GWmoJQ+V0BUm5/20wUYRgZqkljrcxpc5gy+J3l5FEBwHN6oDWvIIK0518l1Iv3hqpgn0LmzzMaYFd9BsHdlulM/4KuikkM5OjR9qZsSNtedyoRgBzoxdV6XsSDJ1HnHk4aSCLup6V2l5SUsUqXk2E+eLxoTrTE+4W0X8SLx5yJ262V3ZuXMkduV9Im3nRRc5Kx/nPYdG0k0aKdb3viefSWzgnKN2BZumUK0/AAGEn78Wyl9U4Upsw==;LsHEzV8UX2wJ6miA3zFlBg=="
 ---
 

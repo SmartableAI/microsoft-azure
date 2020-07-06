@@ -8,7 +8,7 @@ length: 44 mins
 ratings:
   count: 1434
   average: 4.5251045
-heat: 54
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Stage a web app deployment for testing and rollback by using App Service deployment slots"
 
-secured: "LN6LsYRLp5+gKejziZWMLn0l71Ux5s90KVVpIZxh8ICgu5gdEBDP81Qrn9Sllzih1VCWe67wmytRLTvF15eqJkhapoqz+gL+ZnSl0hMXLdiSUVWfehktjKzKNQEhh1HC5Thih4SGH5cS8fol0HLXEqt2OWIMOw8tczNc/o7Huq8g31AuwzmeNL0wO1FuOGKuf/8zVP3mHSAthM2Nq9m+0mAzU+94NxKw0yslnMniSCpd0kGgLWZl4x5FjzkrqAOJSsnlslZ3pdwAE7gdoT8ZvyKXHtATHqpA4Z/AZYFjwt6rDGDqcnse7CvsZFmqytlPFDCMDXzApBfIQNoRYf86vpNp7tWLq/0Trv9ckWhZ1nWsDte4vbC6cVBnd5mw5j2UHvagSf8sLkB64OsToQcgFg==;RLI8kgs6eH8M8MpmE/p7cA=="
+secured: "C0EabSs39LgnD5w+g1QH5l4QacbC/YxxvtQDEK4g1pWAhWh96TljvH75UutdHUa9Er+qU0c5JcumjbaoLYku7BW5Pa9MCZugSMY/LlKqteyjZhHBsJjdCkO1yb7/U0Fcb/SdgO4qw1DBZ1QBD9ktNCNMSAA6pcjmuAa570NVsRuZurdBK5Nt9XaM2q4ikYry+7hfM9oRDDu/ydu+2wnUwrOuC8n3UQXehSZhwfzNJRjN2yOMEurxn4Cp1fMum8XjXdv+AI62xH7s7DaBmZqygLJMyB9xy/h+Ry2r0acD1XS9OF6bC2GXn+wGIhwOd1JS/on+oW+p2iszFLMAM0Hy68SAuD7l6OpnlBGg7I/4Uod1yTTfPbhZoMs3qs2ren0AjDFb4ED1XNMLmz/QwK8nUw==;yD0N/filSy3TB62Yb8Ufig=="
 ---
 

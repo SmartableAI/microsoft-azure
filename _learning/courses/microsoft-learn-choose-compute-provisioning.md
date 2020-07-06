@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 50 mins
 ratings:
-  count: 572
-  average: 4.6625876
+  count: 573
+  average: 4.661431
 heat: 56
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Choose a compute provisioning solution for your application"
 
-secured: "rGWITbZD91mM13csD1ZH92QMvOKHuTsxLWinOBs7vdcBrUJP+k/fJZlfPLaCml/fjB/6NY9Vv9RTWQJOSiu6lfsGT1isci/wkQ20oZLL6Kx9CI93ozP5dB3iMb+gKVoXnnQ09ZigYwELHewahbBlqluBp4nMvLNZXSA/htTWTMwp7BkmSPPNOsKZ2usnosDP+Zwp8msxHZrPZBQPeqeZmF7FT5qwlCaYUOjVuoQndxCa7Ki2P4FiISVVZW63MaE6SlTL0Bd9eCMFRUEWqAZCj2eXIy2gb/bBCq7NCniCDdSNLmGMn8qBAm0QsaHt4hUozhoXaMX/ehpFZA2TBwKuh7CqRVQpOj9WcxeYDipTEKNAqZQ7z0+6dN4wQ09MuXMolazEZWGBJqQRtq9jycXLkw==;J4j/V5TnJuaNpQ5naHMd6w=="
+secured: "GebZT2WaO/DMPLOzfjJFmbjzcNKidgLAqGk3/4KmmJFeNfirXRfAiQl11Yfg2FpwyYXWzBWu7XBCFoudd2S+ecKR99+ZWq19ucOI7umc3FkXCjjNlR7MoSRPBzqlyFzCEOZPQyV+QMzFoyv+UXLVD7stxlqRPrTHRE+jFVScM69btOoB35hHCAynP+ARYq6pegKISXudlP0zA29yb+YYsNXovYxW4psmP16KRmKN/3vnGVtPF5J46LLn124nY9mMKV1fjnaGlIyNJDufadljwTc3O3bjIdmAMzy7FCGdXh5Rq3s6U8tCeM0lraNk046t+O0x9lyBtrY08eyS+DmNL6qaneRJzUKhaJPS7G4qeVs+gDpBq5Vwk1O2VUn5iNZKGEnBn6T2aUkuEnvIvRpjkQ==;tI+Dy6eJ+KEcJG8ux/Cwhg=="
 ---
 

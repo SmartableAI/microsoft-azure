@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 8 mins
 ratings:
-  count: 1366
-  average: 4.7079062
-heat: 58
+  count: 1368
+  average: 4.7076025
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Overview of identity and access management in Microsoft 365"
 
-secured: "F4QB6KJ3aqOfv7slppoa9r/QOj7TJPR6dirHBe7lbHYwW9l/VAoIIBUWM/zrKHKGmfWYxYq+TYDFlmRE15ZsCVK5L+F6VAF3aHgCW8XeNZKmOgIBivCUnUpS1JsO3pT4kRRGQUcCogrylSgHXxvqxIg/qbx9LWbkFBbj7/LD1ZpIfL+cYqTy+Wa3ApFWXQipNEaXhL0L7r6mJURa/CSYCQZw9FRsn+a984/LFcRPr9/9pDtBaQSE4eEUM47xdJRpXHfWRnYwZEYY7Cw/D8eAKniBcpo+IWlXMBywyzZjigqJ22eoePs83ma4+E7curI0KiK3cp6dhVAxAH9e1EEmLyvKpH2sjNOaTejsc75I/qjRCUXWrJRGUqq1yxLC8BfThpeu1Pe8w6AuUybZ+oSa3A==;nF2rnoNMedgxvO7tNbazfw=="
+secured: "iRVnxszgslk9FJwQcEr5F3VUjY0t5WGjbnCon+s2smY4cYZkmCukV8gev8LHUas3g4JTbAGMPKqztntkBNvsi8T++6wzNcx7WkUs5SQae44SwW6rMoC2xwnJ/eTrcEE7ylZqQYDoFs7pHyDuUDZyGuRp2l5TnBccdBV8DwmU9hF7W5N6TTnWlz4w7aprkGuWo9pN53an7vs8eGPVQBtrjVTNsOri8w7O9opOfQVf/6kRGAx3KTQGD7aYXPAzc1mhRtHkrPU1G2ULCyFuHuFjutYEleRRfzuh58Uq8UCESE+sEP3g0kl7P7OxygGqhxOej+cm8XaN7z9zvtLdnPAQDRn579s115I+cd3plxsno1TR/eUF0ON4DXCK0xmHHagqFqRSg2SswWNI64MdfJYAvg==;EDKoGE7yFZW+E/jKYSDOvA=="
 ---
 

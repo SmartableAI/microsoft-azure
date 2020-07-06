@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT56M
 ratings:
-  count: 83
-  average: 4.6144576
-heat: 50
+  count: 84
+  average: 4.6190476
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Perform Zero ETL analytics with HDInsight Interactive Query"
 
-secured: "7m10odyOFyW7YB6uL1J8/24RYV5yEWXnD9LsjSVs4Hcrw2+/xhFBJ/F7AfVWSCffcKjLV3hEBzSV4YTwx80x2D7zLpbj3QbFs/uteEkPHhFtEcIX+PyEK+iVKeM6ik5ZEV8eMZfJONlShFbzaR/HLZVp2/K1vfjruvQRckZFhRCzxNqtlCLjTW4KAV7tTvpj91Kn0ylcuUXVA+LpnMLrSTDUVGHYxkkMOSxXlOWL7upHgprGJhkA5eHJysF6+pCrT8ZTb3SToGl+6xnGNdXfoWc390jNgib52TnFoTyGYCmBsSZfjM7D2VoIf0YN6CWm49Yth2SNhkjstV6fnmScJTEloCb3/VzTfRude0ZjYTAYa4Kezy+oX3PjSDVhuUj0DFOm+KFhxpmInOD8WcsVAg==;YkuhObriV42WXEyzVHMBAQ=="
+secured: "zLzU7PqoZicv4xLMd1TFRsWndMBemlUsRqv5WYS7ALeYELb8XwIA/9VARFSiMBvAaV6EuKuUe8FrvZFHiQLS7CNd2vMDqlMuO+VQi0bS//xkJTn4rg+3BU4/QF/9xFKi1XYas1ydHiLcsPooKVymRxYsIBXMLMTiApIUvAYSwxAz9xfzB3kPm24r+h/oecb48cHR4XBXYwACz1dNfDfGSipA8pafpKXx2a1gO0sgk0EYZSVI+P3XhCuWM6f5BCyqSBBjpP8SKVtw0bgPoXH64euLhl2dtoIy5Lb9NE4QKeTp8rEYEm0Sn/wu+nEpQzihfZSi98hrF0gXFdz4hrVx638bsVNy6Wf7dthrhmZGDhxd+xhIs4fM00LXzJBcApL0ytdFz3S3bKwJNa6IHO75PA==;YT5iHKy6RXzOK2+ahqbicw=="
 ---
 

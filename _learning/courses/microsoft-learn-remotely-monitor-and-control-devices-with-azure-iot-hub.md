@@ -8,7 +8,7 @@ length: 56 mins
 ratings:
   count: 159
   average: 4.691824
-heat: 51
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Remotely monitor and control devices with Azure IoT Hub"
 
-secured: "0gLLnhiJB6SxtXIcfwosnrxVB6Ept/vqaGlCKSuAhJ/Ep3x47NX99iOk8mwttwCiJAWtdXILVk8QPHbTB9qnsgV1dGcIz1MkznpTY5vnrdJcj22xSbm8KtIHYFmjOlXXN88NZYOvf1RTHvZpNVrVqsJiNMJGDKJCitWykPbuErm29FoEqmIjMvYl5HPkZ5E6gyH153Omv13Nw45ue7YjlRsY6v1EK2baJfnstOiGOobco22tPSCXKBgsDUuHT88teAGkJWIQYX+ZhhD8iDmRrQS8qnGWT3w0yzuy7IQ/9MbpyfVOpKa17b37TKJ/BDaIFS//Q8YQFECq/askDwwNsqssVx7hGmMzNRKYvPETdCW9k08WwTrKtJlnQIRrfHyIAS81oogUUagXzjUVYl75Jw==;KGG+ApEhrnYagMxpGBb7rQ=="
+secured: "DFwwdTnTH0UzazMJGEMEvUpDKT5ld0jWsJyXZzvlhzfgYAatyH0ajIeqrMOH4FHNJy4ooCFp6YhWlZR09vs4/UOcoKjDENrMJz6kQG1pU7MfYXEdwwN/uePuW4MiiUuAoJUWxZCletC0sr/Q1LlX+joAkpX7760xqrSkgI7RAMIzn6eV6Tp1+rfXZM21jch0zHASbrs8/6G0A544pSCLT0eSWzwvCnE/b+K/8cjUf2lVHPTaa0xo/6ZHiO/aEcs4x8bmKYBJd6cP1GAO1ljfAj9Ccu2s+VeaMzLPkKKQx4sZWpG2lD1tJi3z1vsTSeCNCEPNsq6Xbbpm+HEILLRGlskpDGDQoEaYZlVfwgYqQkCAw1s7yNr87EmYnk5VDY5HcTTAB0x5+fwVb9yfRO26+A==;QWDuiflDVoKTkYPgYyXqzw=="
 ---
 
