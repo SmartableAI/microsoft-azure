@@ -23,6 +23,6 @@ images:
     isCached: true
     title: "Microsoft Azure Continues To Blow Up — So This Video/eBook Bundle Can Help Make You An Expert"
 
-secured: "KuilgyHEgwL/NG5+q+M/TkF0IeLs4gQOru4FEHsdl7VeJB0TzVnj0HcASqbGg1z7hM/wt+OrKen5vbP+DBkdhdZcD/R/+GdSRVItmZFhrBUz+tek+Zy/5Yp0pRp8/5ylTX4s+H8UPNuQiggkaDvdstU+eHdq88qmZC6CXlEGUyGw6hmEWXyZlmg1QbN2izuJKn8KgtSDp5ae6Vs7vFVMzs/xjWJfvJ8a+RMdQjrjT3miE7GXr0qnfxKpqZ4PTP6y/MKNYX7mwK04zGNzaN2YfmAGoET9x42uMOOv4xGZpL0sev43Mgy+4qOJHuT3ck5lI1sPOZ+XKeZVNk6THkOVzA==;KYc11m2Ww6kgdWAGUVtQAg=="
+secured: "elXbqFCV+DdYZs8lp9GxpBnF4ktR2lFmd4JPX9+iuCBnCKhsdehwFcz6MMJw8Vgs4lwsy18SBWF5v7O/9Tsp5KHInRGA5PSNSi4h1CybdgYj1YOgLeXk9cONO3CwCIYUM9PavOej2z1LULJVfSJ5/UWc6JljlB4n89XeUYIVNe8yYJv89Vm/mjRKooA9Yx/emUtt5JdekHCzYEsV8aww4HDvyCDQ3XNkn5zF4SEbbRiWjnUGiIClmiYxRYIW5azIUdniGnIkuLe3cZFUmP2KS2V/gf/KG5V8XVtVgOIm7k/UVp4XPwRsL5cuUm/TQFVeZmKJ2ZXw6RXNtFQ4p7wpX7mgUCJ5x3XB4+zLOUEGUZweOdKpc1M4EgfMlhvofAcVY7vcHCT0jghmVIJGK+Ru74sybUEERNdYdoNsBJAuQlESqPlsJEJdDX7Dha/mJI4t41Yo1h+Jly0eRHnK4L9VJ+DX6NF7JbaW41ipb98swjVO5tnXCe75F0Uj+Hl1Ou0whz88nDe9mbLa12oRecbnQA==;1PV3iaTM/cqjgDXsA06RSg=="
 ---
 
