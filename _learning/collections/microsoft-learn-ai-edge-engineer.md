@@ -27,6 +27,8 @@ items:
   - courses/microsoft-learn-implement-cicd-iot-edge
   - courses/microsoft-learn-intro-azure-sphere
   - courses/microsoft-learn-image-classification-azure-sphere
+  - courses/microsoft-learn-develop-secure-iot-solutions-for-azure-sphere-iot-hub
+  - courses/microsoft-learn-develop-secure-iot-solutions-for-azure-sphere
 
 levels:
   - Beginner
