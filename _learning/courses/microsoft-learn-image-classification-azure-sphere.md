@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Image Classification using Azure Sphere"
 
-secured: "Xm7rg34JOexcCqXb/+q+MxHWHn9VZE0xm3nv/zg4is3KvdQcOHBKyEMfcOlVS7TozxM/wsz/Ujl67/eB2CI+1xrp7K6ETjHFZ8Dty+mOgs1I2Nn+JIMNypKJ69rzz5bwz0Lo5GUe5kIyfukmfGdW6OxP0R+fbg1jeQCE7ypYe825T65kF3bksztRN8McD3SNFgMSlr29hGCyHj2C7zb+HymgqG22KAy08jQxTXdI1ymwDi3U7qrR5acF79U1C3TDYOezozF8P7DIn0+l6aO/zpXG8qReXARY1+QcQKi7IjyVVVFAch3Cf23tkB7xojvXOGkDqfb1Mf992j97cwzuW3sLWqHHqqe74gd6fhyBWpA+LCjtYpcIt5fm6j4yF70HskENZjo/jNknPdkdqGg1gw==;RsvF2zEr+HEqI8gkDofFsg=="
+secured: "e+Mdxx/diLOv/8zGCM+w8y+ksc5krEUATMA1YPUSip8BvdgmI9e+ZIAl2l/NxV9jejTthNWyuK+5Lqs3TnzU6i7Lw/s67FtzTq/tKo0e90+bywyX4wSGAhn5+Ioan9kIne82y8+WswwHoxPTuyHyL55rgpfOXbn2UXRO3m0MQgEeRm24rVJbH24+Bzy8t3qZV9TmSqIbeCgLc3ozJrF9bXmPBTynBjqs8xiNq+sPWp/NPxPaBU9qmWc5uCxwbCqBWcDWFTUFv6QvsYOmy2tvr0jItVH1O67UY0H5hD74Sk5RpgcQtdrLOhAbLz0whQ9PObRHRso2sCJwEBzHuw7oS6DWH/xNbZFARM0ksWZAz+YLxRlvwDwD+IqoJaSpHnGkUn9cQ5nUiBSQ+Z0RP5NL3g==;Vqii6jf06LRhWO/iyw8yrQ=="
 ---
 
