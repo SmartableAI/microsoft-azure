@@ -3,7 +3,7 @@ name: "Mark Russinovich"
 bio: "CTO of Microsoft Azure, author of novels Rogue Code, Zero Day and Trojan Horse, Windows Internals, Sysinternals utilities."
 location: Seattle, WA
 type: "profile"
-heat: 163
+heat: 57
 
 affiliation:
   name: Microsoft
@@ -18,7 +18,7 @@ website: https://t.co/BJ4Ib1CWli
 twitter:
   username: markrussinovich
   url: https://twitter.com/markrussinovich
-  followers: 98874
+  followers: 98878
 
 linkedin:
   url: https://www.linkedin.com/in/markrussinovich/
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Mark Russinovich"
 
-secured: "OiQAF5r7JRkvX8ui2PLCrPc/tSh0/GDWpUEdG9dyEJagLrLhhUK6hG5lSpfb2vs0kA+yTvCYTaJw4XlcBeG5RlnGnq9sRzNidurODNh5+WDz2zebrzmrxwXO+rL+smcaFeZ0EJmAZZWy1X2Bwh7cjCuY/q5JvT/Zr8WE0od99qGuUEGhCc5mEI79lgK6wTwPsh5adxUq8dfiztGn2vtLXKYV3A+bV99PEEYwaUEDv0rFYrn0ugJL3RMOmy+l66kFjslI/IPdImIWJQenvM9F9l464gUzAwB8QVFu05n5WMU8HVjaCsxlBAcTuKDM7LEZmF4OSGnW3vHkpZmCSp/wm9v6hMF7bSL7NPvWy6lW02dMOtOy+4w67D4OdlCElqBq;lrF4CmLAaxAk6axplbqhYA=="
+secured: "RIO0Xn0aJnbjU1X8gL7VPJ92rtAF0s95X78/TocCwvzxPKXz//PgSpR2Yl6hUVc1cSRNHT1u9apbSh3DXQHraJiyMnwdCTbEKVr2zidcR9f8SoYSHQuer39W8PJXWxumDBd+bS79G/UQEptg8dMmTLz33ozfDAbErINitDvhlssz1XZnDjTacAW79xDYfIdRqjXnNCvkYP7F98PSo1DIyRPaa1KbgQsDUY22ZiGCEbCARpDdbpaNlIFLtkoVBVFPiPyyKwbH9NC3MVhzY67ybOZXBdTZroNaH79OBQD/cj2WxyIYaQAg9/voYIVW6NPtt/rt4ITMEV7g80Kd0UWiyPk/gqOeuE4aeO5BwzYkB0q8/i4MSpkj//RdfBrn3btmQj1Z9S7grQi8Yq6vmtc0Bg==;vpcuPWcHLXAUX8uT0CsePw=="
 ---
 
