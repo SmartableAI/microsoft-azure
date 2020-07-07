@@ -8,7 +8,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/codafication-s-virtual-
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
 type: article
 quality: 73
-heat: 333
+heat: 353
 published: true
 
 provider:
@@ -138,6 +138,20 @@ related:
       - url: "https://www.prnewswire.co.uk/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Nuventive COVID-19 Response Hub Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Nuventive today announced the availability of the Nuventive COVID-19 Response Hub in the Microsoft Azure Marketplace, an online store"
+    publishedDateTime: 2020-07-07T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/nuventive-covid-19-response-hub-now-available-in-the-microsoft-azure-marketplace-301088804.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 32
+    images:
+      - url: "https://mma.prnewswire.com/media/1201043/Nuventive_COVID_19_Response_Hub_Azure_Marketplace.jpg?p=facebook"
+        width: 854
+        height: 446
         isCached: true
   - title: "Foxit Document Transformation Services Now Available in the Microsoft Azure Marketplace"
     excerpt: "Foxit Software, a leading provider of innovative PDF products and services, helping knowledge workers to increase their productivity and"

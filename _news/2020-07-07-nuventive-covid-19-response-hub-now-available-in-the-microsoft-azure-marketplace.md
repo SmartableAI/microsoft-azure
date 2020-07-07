@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Foxit Document Transformation Services Now Available in the Microsoft Azure Marketplace"
-excerpt: "Foxit Software, a leading provider of innovative PDF products and services, helping knowledge workers to increase their productivity and"
-publishedDateTime: 2020-06-30T12:03:00Z
-webUrl: "https://www.prnewswire.com/news-releases/foxit-document-transformation-services-now-available-in-the-microsoft-azure-marketplace-301077872.html"
+title: "Nuventive COVID-19 Response Hub Now Available in the Microsoft Azure Marketplace"
+excerpt: "Nuventive today announced the availability of the Nuventive COVID-19 Response Hub in the Microsoft Azure Marketplace, an online store"
+publishedDateTime: 2020-07-07T12:00:00Z
+webUrl: "https://www.prnewswire.com/news-releases/nuventive-covid-19-response-hub-now-available-in-the-microsoft-azure-marketplace-301088804.html"
 type: article
-quality: 29
+quality: 32
 heat: -1
 published: false
 
@@ -17,11 +17,11 @@ topics:
   - Azure
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://mma.prnewswire.com/media/1201043/Nuventive_COVID_19_Response_Hub_Azure_Marketplace.jpg?p=facebook"
+    width: 854
+    height: 446
     isCached: true
-    title: "Foxit Document Transformation Services Now Available in the Microsoft Azure Marketplace"
+    title: "Nuventive COVID-19 Response Hub Now Available in the Microsoft Azure Marketplace"
 
 related:
   - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
@@ -151,19 +151,19 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Nuventive COVID-19 Response Hub Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Nuventive today announced the availability of the Nuventive COVID-19 Response Hub in the Microsoft Azure Marketplace, an online store"
-    publishedDateTime: 2020-07-07T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/nuventive-covid-19-response-hub-now-available-in-the-microsoft-azure-marketplace-301088804.html"
+  - title: "Foxit Document Transformation Services Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Foxit Software, a leading provider of innovative PDF products and services, helping knowledge workers to increase their productivity and"
+    publishedDateTime: 2020-06-30T12:03:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/foxit-document-transformation-services-now-available-in-the-microsoft-azure-marketplace-301077872.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 32
+    quality: 29
     images:
-      - url: "https://mma.prnewswire.com/media/1201043/Nuventive_COVID_19_Response_Hub_Azure_Marketplace.jpg?p=facebook"
-        width: 854
-        height: 446
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "GAVS Technologies: Zero Incident Framework (ZIF) Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to ZIF to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies PRINCET"
@@ -212,6 +212,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "WageVMTqzjwzr5yTPo5oFbEuSukXKyabG1rKDc3z6/oRrLOqNJGRLqVONNcG8baZklhw2CBDeIOESl1/Co5yLoMhs6ZFnSe5fEMKVtlRK7QtiICsbl0sOTZqVnQJ+5onZRICzSFA7pg439wFSUhOswgT7dLq1+OgdFpYf2L3XH5NtacISip/qEJGDcW7H0zYapyCIxGBqauI9UU7jW0XVBxO0YPFB6We3/vWjcqwU0eExml+4FaIALDT9xUdowY4TxjIpsSOyEKrhA4OwYCrQnUNIbheL7LQFoR54fnLdpUFPFxZsw63glyU2AYCHMQmR7a9UmKHtq2RZG7TnDYPIw==;voVpn1/CEzCrxL6X8zap8g=="
+secured: "l3lMmzQUOjok1O6Hb2ow6lLn4TIg6qLG0wwUJTLGsBisxkf80XZCpvKubBnnntRgum2Tq4yjGxNuWDkNITpucPbH2vPtu1Dk3s/YzQUwpYdNBj9jkrXpwxioPM3lLHsYTIAyT03tiqB5Dyo/tIYl3YCXu1AmzV+44pHEmsyBb8KiXklxGGI+YhdfNm0ehE1p6Aubw/Ag4rnksk1aNhqYhCo5okfSU1mhQBie0oVMe1BPIqYQgBxLNq7xScwSZZoobd7+JBrCpSBVzcDZ77SY2P7F255ksLWtMAXtCzJEM5yfQ3UWlPVigDbgUVb6Nx4L1rzBuz3NJ9PHy7dM7SHGLg==;xYAJMgAziWXwRH63BFhuPA=="
 ---
 

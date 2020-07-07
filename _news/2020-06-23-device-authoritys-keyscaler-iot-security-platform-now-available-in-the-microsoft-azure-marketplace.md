@@ -144,6 +144,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Nuventive COVID-19 Response Hub Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Nuventive today announced the availability of the Nuventive COVID-19 Response Hub in the Microsoft Azure Marketplace, an online store"
+    publishedDateTime: 2020-07-07T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/nuventive-covid-19-response-hub-now-available-in-the-microsoft-azure-marketplace-301088804.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 32
+    images:
+      - url: "https://mma.prnewswire.com/media/1201043/Nuventive_COVID_19_Response_Hub_Azure_Marketplace.jpg?p=facebook"
+        width: 854
+        height: 446
+        isCached: true
   - title: "Foxit Document Transformation Services Now Available in the Microsoft Azure Marketplace"
     excerpt: "Foxit Software, a leading provider of innovative PDF products and services, helping knowledge workers to increase their productivity and"
     publishedDateTime: 2020-06-30T12:03:00Z
