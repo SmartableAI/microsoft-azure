@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-01T08:00:06Z
 webUrl: "https://azure.microsoft.com/blog/azure-firewall-manager-is-now-generally-available/"
 type: article
 quality: 97
-heat: 337
+heat: 357
 published: true
 
 provider:
@@ -137,6 +137,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 72
+  - title: "Form Recognizer is now generally available"
+    excerpt: "Form Recognizer extracts text, tables, and key value pairs quickly and accurately from documents, both-on premises and in the cloud."
+    publishedDateTime: 2020-07-08T15:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/form-recognizer-is-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 62
   - title: "The self-hosted gateway feature of API Management is now generally available"
     excerpt: ""
     publishedDateTime: 2020-04-29T16:00:02Z
@@ -147,6 +156,6 @@ related:
       domain: microsoft.com
     quality: 59
 
-secured: "tbSfVKQiqeAfW+nF0o5xXNhz18gBQNigOfyyHmmKIyXdqBYe99o6PXvmA74f/Jw9on22P+2l4AcYtkPXZlTII2BKK/FOLczWjKXn1OVSbsAHUbdVNMrHQcG7JIZTNw4IiKCJ/0J7y1e7oO7jmW6lCY3uV9G+LRe/Eo4FsltTyudj3TyYEIx/280njzSocQ7Q0bCV8y3HD48/fNPh/CisZDqHKG+vOxJ6v0nKc/dh09zKVO83RNwssNWZhdI+uE0sJQvGo9rX5hWcmqUckwxESPdT6OE7pBJJKgWogB1dNrxhFv0wr1W0YRDLvBN0VDKnIjXjmwMeRLep6sI4ocTHUA==;8OQAvtO/wUnBIN2caNiQww=="
+secured: "UW9JCGxzfl20h0XnzumqjOhpKXCSWmc8LNZZzjaYz8WDsCymWGEjPNx/tznfJPXRdAZbBaSivXQngcQVR0quwyfjA83vLIBAQYhRZ8bEHwsSHP5WSLZJ1dNUGQFzm7qmcZtO6GpmMKw1s78qG422KQ590wLZB+9pZbMi8/OlnrELcD1DMyZnNqqavr1xL/QtBfn1XwewKT0NzhQql7CmrCJveKo/iJAKQm64CXlJu7DyTF81aPBYPndOa8kYgYiXIiV4ylzmrrG5QJngzn5MTbVCd7XEcGckrUEnPfEOG3LZ7UZQ5TgH2dMevwe7UTU/LQTqvzzyMybKYBXm0lGzCg==;4k17ncGS4pLyaG++0rVUiA=="
 ---
 

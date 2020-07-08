@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Azure Data Lake Storage archive tier is now generally available"
-excerpt: "The archive tier for Azure Data Lake Storage is now generally available. The archive tier provides an ultra-low cost tier for long term retention of data while keeping your data available for future analytics needs."
-publishedDateTime: 2020-06-30T20:00:36Z
-webUrl: "https://azure.microsoft.com/en-us/updates/archive-tier-for-azure-data-lake-storage-now-generally-available/"
+title: "Form Recognizer is now generally available"
+excerpt: "Form Recognizer extracts text, tables, and key value pairs quickly and accurately from documents, both-on premises and in the cloud."
+publishedDateTime: 2020-07-08T15:00:17Z
+webUrl: "https://azure.microsoft.com/en-us/updates/form-recognizer-is-generally-available/"
 type: article
-quality: 77
+quality: 62
 heat: -1
 published: false
 
@@ -108,6 +108,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Azure Data Lake Storage archive tier is now generally available"
+    excerpt: "The archive tier for Azure Data Lake Storage is now generally available. The archive tier provides an ultra-low cost tier for long term retention of data while keeping your data available for future analytics needs."
+    publishedDateTime: 2020-06-30T20:00:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/archive-tier-for-azure-data-lake-storage-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Database engine auditing for Azure Database for MariaDB is now available"
     excerpt: "Azure Database for MariaDB now provides general availability support for using audit logs to record database activity and events such as connections and queries."
     publishedDateTime: 2020-06-24T16:01:15Z
@@ -135,15 +144,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 72
-  - title: "Form Recognizer is now generally available"
-    excerpt: "Form Recognizer extracts text, tables, and key value pairs quickly and accurately from documents, both-on premises and in the cloud."
-    publishedDateTime: 2020-07-08T15:00:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/form-recognizer-is-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 62
   - title: "The self-hosted gateway feature of API Management is now generally available"
     excerpt: ""
     publishedDateTime: 2020-04-29T16:00:02Z
@@ -154,6 +154,6 @@ related:
       domain: microsoft.com
     quality: 59
 
-secured: "xnmPkawbi7KT2upEYr9eP3bGovDNVMWjpVdUx0bMumO/qNlz9Gqm+zaJt15WJ7hISSgYuPoo076daARLdtYrvy20J8xkrayFMsJjzpH8N1620ldkB0VAcXBYiHQ0uwVvP72hpQOPlWdiZMDnxk0odU799Z15AXaQ4NMGHgBAH+qOguVMsYt8TcjHyvGUSjjtg0tQ6Scn1bhC9HcYKTGAwXjMb7913FNUZC1eOxUpLeqncjFTqlbPky5hfdvOgxNS354u2Aj6L40583g4ZoLM/021imJxGsWcMcf4EXIjQFi54D+6LID3tbVGpRFeavIkwWLD2Xgt2kzIyfO2D30CLw==;Mn+LT1U+Xr+yQV43cbRw3w=="
+secured: "vZLZpDJWiQX/lsu4bRNY/SD+4T7qCobmUd8QtUqyfROz+iinqu/9WaPCu8GltOcq73zGh5+IZ82ru/BPfpkrLnDFNd00SeF6a9ttEQl9DupaLb5lpcbCy9i5TGuQj+cIKq+R6qNPvbwTS0Di0vs3ValjatjaQ/aMg9/kBF73jVfbrmYl/f7eE80Vqlibgkn6UrI2sgEbwZ/SB0KcQ7lQtzEptydNx8SJS9wESyf41yx2tgzT+vgfZz0rf8+P4VNf3sxpFggcfKAt/VXdEg3e/pbIUMZVZHvJjNbmRSNyKnkwwk5xFEXSDpicM3tlD0FxJeNV2gBcdusUX6afWubOlA==;Pd1QRnXGf9Csxi7IKbAsew=="
 ---
 

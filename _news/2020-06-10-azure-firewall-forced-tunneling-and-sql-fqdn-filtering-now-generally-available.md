@@ -137,6 +137,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 72
+  - title: "Form Recognizer is now generally available"
+    excerpt: "Form Recognizer extracts text, tables, and key value pairs quickly and accurately from documents, both-on premises and in the cloud."
+    publishedDateTime: 2020-07-08T15:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/form-recognizer-is-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 62
   - title: "The self-hosted gateway feature of API Management is now generally available"
     excerpt: ""
     publishedDateTime: 2020-04-29T16:00:02Z
