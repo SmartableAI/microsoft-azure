@@ -8,7 +8,7 @@ length: PT25M
 ratings:
   count: 8
   average: 4.75
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Automate GitHub by using GitHub Script"
 
-secured: "q+TJHKGVfvBuXH8xKd7K+G9AdaQMOhR1lfo47M2eaHkkFdrfCBgTXkK1wRoEXIafsTFy6KvQ1lBHcRjhDp788AL707m5Bb/jaIHcAhRZMU9LtT43ov6jcinyGVvtnYiUJTT8XaeVfz9d/VeMZBUIfVkOjNg9geEWk0v4xkBOsFd23/6clHGa9NDnWFQZ/YYCEHM+DiU/0lgzVTg3kWG/BZtXv3b1HUcxf2oV4SiD2EaCzNGCDHnim9mJ5X5i8Ao8jL4nAHlDzNoFdXDvqGArE1YoOwcMmiwJ1VEhQNSXGbLgDzH2UTBY2srPmeFPFTx1Izb7/APTH2lCEUxSVeiRYneqj8jsrWCrg2dQPznip0Y4dJw7tkan9U4QgHwt26ol3BoA/t2F4Rjsmo/OW+BCYA==;Wz0+iV8dpveM3oIg4J2mNw=="
+secured: "0APLto786ST1Y0sfQqSW8Nahyb3bin3p/pX8mT6ppEilwJJ7Cm6bkztzC+FLp/uewJbUQ7N6zW3JHocn3AZqkZLWxUKHHmBZTHDC8I2wP6/d+nbkvqb1jKAHkH8i2KkF6rwIh5NWv8ATS2IUZYsjQLoQ04bxk+1VfsQZnndAt8oicOPSTelowIfbRVADv6SLlguDs80hv1T356qwXXvMbv87W07gbk8oaLhSHIBk4/Q9ITCQmMkBag7KP/2KfBP+edAqlrf9X09QEL1ADHhwGO3GWlXbtkbLoCChD2NULP1iT3mo/4I0ITIBYFus9SCT3iuLOb2zT/BMFl8urf22ZrHFUM4XuBVXWHFWWaQTQ8ABj4JW8IWX3N3s+yZmVgv/PHMa0Ba+4OAtsiIpo+nNhg==;BvVlqwoaQVCGyPnSzVjbjw=="
 ---
 

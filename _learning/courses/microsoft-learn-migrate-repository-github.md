@@ -8,7 +8,7 @@ length: PT43M
 ratings:
   count: 18
   average: 4.7777777
-heat: 52
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Migrate your repository by using GitHub best practices"
 
-secured: "wV6C2PghNtzSQEYQDtfIzShUXO5png9Hde4aWPB/JNmyfOgMi/80/9+aH/PIWRUAfBzv/FjJ0GRQl556cKL00wqoZCKZ1b92gmk6UMfbAt0nl7gBjc77ysltPTmqVQe6ZIu8q3maX5KnM/ZVT9RCmwGBM9j7w1esRZDzxdCQAeYXv0a89ZIQatQzY6DkqSe9S/pcCDoJ0O0GT6u5Q+Kop1kJykNlLmDstnVXAlZs9YSXUdL9rSNl6yVdI5nLjnoVpIyHwdQ7RvOAj0mf35eFfXQSkWIT2o8I4PNd2AkHAXECyRtBaW6lg+FEnCBMciUZPFQgGvg8Z+IgZ+rS4cMMz6vDxEc/P6C+amDYQysssWejQyPHPAcoo3m5KPaYO1tCIoLR/kOkVq5ksSHNjYlSnA==;2/4OFeAyue0bspMFpH+1iQ=="
+secured: "TyuMDbTp2NYnFANANkg0sOrLadn64SVc2zeP6BiDAmPhHGhBykxiiYdec0UUCCRwn4j+XRPoWnPAHurDV9sWMhxADqsu1aXrzLKH9GLsKuk2ffLGJtB38dNKx59Yg4DOQT3OxIl15V68tZ0nM2Yjycc4DXMwoLyx8dwhubjfo0ueg8uTIZ3G7QC6mbd15AQq8YP7pCnYhEFDrYVXrEJI81vnCJXVhfjO2cEN3b5KQi9u3wfodBkIkncOml6CiA/z05IFWPWimJ7XeOnINFxA9E/+tX8Fz4t4VgTI+9BZNdk7hImeXfu8w6N/hFTNSHtytNs9gaRr6FfA97GDWdKvbeHm3hK4xgI8DP1IeL989UrMfztGeciIp2z4dbw+a9HLxoFQH0wtm7UtqjGXAzKtcQ==;koJnH2chHDFiL+nQBiLYkQ=="
 ---
 
