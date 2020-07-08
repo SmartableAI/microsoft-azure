@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-01T09:00:07Z
 webUrl: "https://azure.microsoft.com/blog/build-distribute-and-deploy-application-updates-to-azure-virtual-machine-scale-sets/"
 type: article
 quality: 90
-heat: 90
+heat: 110
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     height: 293
     isCached: true
     title: "Build, distribute, and deploy application updates to Azure virtual machine scale sets"
+
+related:
+  - title: "Create virtual machines from Azure Shared Image Gallery (SIG)"
+    excerpt: "You can now enable specialized images from your shared image gallery (SIG) for lab users to create virtual machines."
+    publishedDateTime: 2020-07-08T16:45:56Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/create-virtual-machines-from-azure-shared-image-gallery-sig/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
 
 secured: "0oVDUbH9PvpOp3hkdwL+wj2zekWGjMozhvg7V1nC4npHYCVQpAF4t9z16Aqm1avhj7sXS1ZBZs+4kJk+aajmfriwwlD3OfjCo6ixSJHUiWwtBZbvuHj192QZrFG3Sa9kuZuUmRJaOz/HK9eEBqmvpPcIM4NhOhnxRqeLLoMmorpWRBwmsWkf9vHq+Qh2hHpdHHvDWmdV3YuUTOvpx8Bf4RvzRf3sqp7NprmDZqdIBpuWGjfQSXtdyKtg+Y+DmU/Yfcmp5L3XCYL8gNaJU3co7OXWz+BMz+jCugspThOsEMvn+5JWsaHKInPzLse7lJ68taROYTOg5tDx1RTB1Emlew==;LOW0PgRl799jv8HexEuKhA=="
 ---

@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Azure Data Lake Storage archive tier is now generally available"
-excerpt: "The archive tier for Azure Data Lake Storage is now generally available. The archive tier provides an ultra-low cost tier for long term retention of data while keeping your data available for future analytics needs."
-publishedDateTime: 2020-06-30T20:00:36Z
-webUrl: "https://azure.microsoft.com/en-us/updates/archive-tier-for-azure-data-lake-storage-now-generally-available/"
+title: "Custom Commands is now generally available"
+excerpt: "Streamline the process for creating task-oriented voice applications with Custom Commands (now generally available)."
+publishedDateTime: 2020-07-08T16:00:19Z
+webUrl: "https://azure.microsoft.com/en-us/updates/custom-commands-is-now-generally-available/"
 type: article
-quality: 77
+quality: 62
 heat: -1
 published: false
 
@@ -108,6 +108,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Azure Data Lake Storage archive tier is now generally available"
+    excerpt: "The archive tier for Azure Data Lake Storage is now generally available. The archive tier provides an ultra-low cost tier for long term retention of data while keeping your data available for future analytics needs."
+    publishedDateTime: 2020-06-30T20:00:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/archive-tier-for-azure-data-lake-storage-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Azure Machine Learning studio web experience is generally available"
     excerpt: "Azure Machine Learning studio web experience is now generally available and bringing new features."
     publishedDateTime: 2020-07-08T16:00:19Z
@@ -144,15 +153,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 72
-  - title: "Custom Commands is now generally available"
-    excerpt: "Streamline the process for creating task-oriented voice applications with Custom Commands (now generally available)."
-    publishedDateTime: 2020-07-08T16:00:19Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/custom-commands-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 62
   - title: "Form Recognizer is now generally available"
     excerpt: "Form Recognizer extracts text, tables, and key value pairs quickly and accurately from documents, both-on premises and in the cloud."
     publishedDateTime: 2020-07-08T15:00:17Z
@@ -172,6 +172,6 @@ related:
       domain: microsoft.com
     quality: 59
 
-secured: "xnmPkawbi7KT2upEYr9eP3bGovDNVMWjpVdUx0bMumO/qNlz9Gqm+zaJt15WJ7hISSgYuPoo076daARLdtYrvy20J8xkrayFMsJjzpH8N1620ldkB0VAcXBYiHQ0uwVvP72hpQOPlWdiZMDnxk0odU799Z15AXaQ4NMGHgBAH+qOguVMsYt8TcjHyvGUSjjtg0tQ6Scn1bhC9HcYKTGAwXjMb7913FNUZC1eOxUpLeqncjFTqlbPky5hfdvOgxNS354u2Aj6L40583g4ZoLM/021imJxGsWcMcf4EXIjQFi54D+6LID3tbVGpRFeavIkwWLD2Xgt2kzIyfO2D30CLw==;Mn+LT1U+Xr+yQV43cbRw3w=="
+secured: "bYvKvmofb3HfgKEhm7bHInc+GmV/egLag/LjLQfGdvAsmwfpiTsieL5axJVrYhnAsp1L8ePm7cNpo5CIwQPefm/8ceDNFa1ZMbNC5qXkwFFgkKvfrJkt6246Q4PQ9yVf72bLTkupey98wNH1CLn8VmSCsT2TLQv0YStDGPsYs55HK1Tq4rgLeOGN5vI/B3AHYED6SAoBbwGiLsyZG3v5X1AmXphDT5l2uIYh78S6Cm0rdSvYQBhNQ96lwE7reIRqbvUnTGhh5/ezJaANIwLXuOP8R0oQPQClaXPjY/MUXbige72esg7Q+c2D8cRsowCCYoylpTcKgZCJkAmr+jue3w==;k8kkEIaUYLwZjF8Qg2214g=="
 ---
 

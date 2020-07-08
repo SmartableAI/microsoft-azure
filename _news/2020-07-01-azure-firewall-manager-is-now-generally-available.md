@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-01T08:00:06Z
 webUrl: "https://azure.microsoft.com/blog/azure-firewall-manager-is-now-generally-available/"
 type: article
 quality: 97
-heat: 357
+heat: 397
 published: true
 
 provider:
@@ -110,6 +110,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Azure Machine Learning studio web experience is generally available"
+    excerpt: "Azure Machine Learning studio web experience is now generally available and bringing new features."
+    publishedDateTime: 2020-07-08T16:00:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-machine-learning-studio-web-experience-is-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Database engine auditing for Azure Database for MariaDB is now available"
     excerpt: "Azure Database for MariaDB now provides general availability support for using audit logs to record database activity and events such as connections and queries."
     publishedDateTime: 2020-06-24T16:01:15Z
@@ -137,6 +146,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 72
+  - title: "Custom Commands is now generally available"
+    excerpt: "Streamline the process for creating task-oriented voice applications with Custom Commands (now generally available)."
+    publishedDateTime: 2020-07-08T16:00:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/custom-commands-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 62
   - title: "Form Recognizer is now generally available"
     excerpt: "Form Recognizer extracts text, tables, and key value pairs quickly and accurately from documents, both-on premises and in the cloud."
     publishedDateTime: 2020-07-08T15:00:17Z
@@ -156,6 +174,6 @@ related:
       domain: microsoft.com
     quality: 59
 
-secured: "UW9JCGxzfl20h0XnzumqjOhpKXCSWmc8LNZZzjaYz8WDsCymWGEjPNx/tznfJPXRdAZbBaSivXQngcQVR0quwyfjA83vLIBAQYhRZ8bEHwsSHP5WSLZJ1dNUGQFzm7qmcZtO6GpmMKw1s78qG422KQ590wLZB+9pZbMi8/OlnrELcD1DMyZnNqqavr1xL/QtBfn1XwewKT0NzhQql7CmrCJveKo/iJAKQm64CXlJu7DyTF81aPBYPndOa8kYgYiXIiV4ylzmrrG5QJngzn5MTbVCd7XEcGckrUEnPfEOG3LZ7UZQ5TgH2dMevwe7UTU/LQTqvzzyMybKYBXm0lGzCg==;4k17ncGS4pLyaG++0rVUiA=="
+secured: "U8rSReKvdyZFBhj4stttxbpBvn/4qQytrk5EMwW5O5zICFAxPonj7+KPv1+L6gS3q+GhnKqn+Gk35buuPJINcq2s8qKQjrl2eUg24T3d+O+edZ4zxwLUjhJGOy74tHbsJ7NLBvzmBKiGcuXQqOoDNQjLvefzgWnt/6aZP6OJh2LEMz9ybZD62vHBJRwaH1fwA3mEc7EPBj/CZNV6ywLqXJZ/+1tzzxnzCXb3uRaL3YVCa3GmGHd8Lss2cZe45v3UUxpfI1+qVaDcrd9T1IQxgr0/PWpdGwvgJhGAgN7RuU6ILdGyN7qBpNGqLl9Qq5UDFhh1b+YTBCwyYTltXw3zSQ==;qJBpSBLeBSJH3aaXdTgyTw=="
 ---
 

@@ -117,6 +117,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Azure Machine Learning studio web experience is generally available"
+    excerpt: "Azure Machine Learning studio web experience is now generally available and bringing new features."
+    publishedDateTime: 2020-07-08T16:00:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-machine-learning-studio-web-experience-is-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Azure File shares snapshot management by Azure Backup is now generally available"
     excerpt: ""
     publishedDateTime: 2020-04-29T16:00:05Z
@@ -135,6 +144,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 72
+  - title: "Custom Commands is now generally available"
+    excerpt: "Streamline the process for creating task-oriented voice applications with Custom Commands (now generally available)."
+    publishedDateTime: 2020-07-08T16:00:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/custom-commands-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 62
   - title: "Form Recognizer is now generally available"
     excerpt: "Form Recognizer extracts text, tables, and key value pairs quickly and accurately from documents, both-on premises and in the cloud."
     publishedDateTime: 2020-07-08T15:00:17Z

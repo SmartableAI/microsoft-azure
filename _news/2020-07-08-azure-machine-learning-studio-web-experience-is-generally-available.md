@@ -1,9 +1,9 @@
 ---
 category: news
-title: "Azure Data Lake Storage archive tier is now generally available"
-excerpt: "The archive tier for Azure Data Lake Storage is now generally available. The archive tier provides an ultra-low cost tier for long term retention of data while keeping your data available for future analytics needs."
-publishedDateTime: 2020-06-30T20:00:36Z
-webUrl: "https://azure.microsoft.com/en-us/updates/archive-tier-for-azure-data-lake-storage-now-generally-available/"
+title: "Azure Machine Learning studio web experience is generally available"
+excerpt: "Azure Machine Learning studio web experience is now generally available and bringing new features."
+publishedDateTime: 2020-07-08T16:00:19Z
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-machine-learning-studio-web-experience-is-generally-available/"
 type: article
 quality: 77
 heat: -1
@@ -108,10 +108,10 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Azure Machine Learning studio web experience is generally available"
-    excerpt: "Azure Machine Learning studio web experience is now generally available and bringing new features."
-    publishedDateTime: 2020-07-08T16:00:19Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-machine-learning-studio-web-experience-is-generally-available/"
+  - title: "Azure Data Lake Storage archive tier is now generally available"
+    excerpt: "The archive tier for Azure Data Lake Storage is now generally available. The archive tier provides an ultra-low cost tier for long term retention of data while keeping your data available for future analytics needs."
+    publishedDateTime: 2020-06-30T20:00:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/archive-tier-for-azure-data-lake-storage-now-generally-available/"
     type: article
     provider:
       name: Microsoft
@@ -172,6 +172,6 @@ related:
       domain: microsoft.com
     quality: 59
 
-secured: "xnmPkawbi7KT2upEYr9eP3bGovDNVMWjpVdUx0bMumO/qNlz9Gqm+zaJt15WJ7hISSgYuPoo076daARLdtYrvy20J8xkrayFMsJjzpH8N1620ldkB0VAcXBYiHQ0uwVvP72hpQOPlWdiZMDnxk0odU799Z15AXaQ4NMGHgBAH+qOguVMsYt8TcjHyvGUSjjtg0tQ6Scn1bhC9HcYKTGAwXjMb7913FNUZC1eOxUpLeqncjFTqlbPky5hfdvOgxNS354u2Aj6L40583g4ZoLM/021imJxGsWcMcf4EXIjQFi54D+6LID3tbVGpRFeavIkwWLD2Xgt2kzIyfO2D30CLw==;Mn+LT1U+Xr+yQV43cbRw3w=="
+secured: "jzYZx6v/z4FJxeNPZR0iaWutKNpmUEHPAaKbrgq/6WO4mCgT72rHPXRjuRy/DR2N+8JD9oTDZpmYUrv02IrS3OnetWp2HaN+tvVPPZ2Eg28JS1irx58Is0NcCix6A8TOuU3dNqEWr5VrdGEWlC5bPPk6R2bOmDhZiHNvDArIUpiyBL2Tgoyh0UTulao6ecW9PtrBvlBtmo30kfqzC/0Ns6KQ9lB+fgWwesTGMdI3FJxHiOkAgjtTQx1jXZF5SChMDTv1t2dyrxnDoQqgDRdrXeZj9xiIjopk907HlMIyeWadx5be9GcshT02AgfbQH96jdE6lwZVwmXFm4Lq9xMSLQ==;sUXkRf69I389hjc7Yd0DHA=="
 ---
 

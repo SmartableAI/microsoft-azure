@@ -109,6 +109,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Azure Machine Learning studio web experience is generally available"
+    excerpt: "Azure Machine Learning studio web experience is now generally available and bringing new features."
+    publishedDateTime: 2020-07-08T16:00:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-machine-learning-studio-web-experience-is-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Database engine auditing for Azure Database for MariaDB is now available"
     excerpt: "Azure Database for MariaDB now provides general availability support for using audit logs to record database activity and events such as connections and queries."
     publishedDateTime: 2020-06-24T16:01:15Z
@@ -136,6 +145,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 72
+  - title: "Custom Commands is now generally available"
+    excerpt: "Streamline the process for creating task-oriented voice applications with Custom Commands (now generally available)."
+    publishedDateTime: 2020-07-08T16:00:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/custom-commands-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 62
   - title: "Form Recognizer is now generally available"
     excerpt: "Form Recognizer extracts text, tables, and key value pairs quickly and accurately from documents, both-on premises and in the cloud."
     publishedDateTime: 2020-07-08T15:00:17Z
