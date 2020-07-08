@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Create an open-source program by using GitHub best practices"
 
-secured: "zfhoh/DaV2kDSDIWK0LNwaAdr6ZIAkqGWO90mDUGhPYR5pcuWXCtVaKyj6MwrWItNfGl0cd/bINS50g0AEy4eqmrbeSkdDYVNANwV0UCsps9fnbOnF02j5qXd3llPNzFYL4Ust4cXw73wXevrnpfrhhKTTM+KfAbuCV44nWB8V8DBGhfb5pw1uAKH1sVHjQHQ3l1GTSSr7opU91/vYWAyH94HShEJR7Iqkml5B5IubDf4YvjQopZz5TVCuWw+6G7xfeqBBJvRifQe5FPS78ztHkXNV8KCx2RWCCQUIS5U3N7Kkmad9BdecHbn0aJeKLIsHYPvyMlckaMN6VSbKAL5PpPIr6sJ64TLh2pRwD8pNyqRh1I39+NX5MXB2RimCw7BjeJqQZlpX714xgN2jCVug==;jD8uZJxAB6Shn76dYEQAtQ=="
+secured: "I20/9drV4+2tIwsmC+wEO+Lzy0tvdbww+FIw4YoPN9SHhG8w6n7bOC9Y3Wt2H+N7v+ELkdaTrc5/Bng7TFf8UIiDV4/qiDEbMS/ob6sCV1zCb3EfUM6UQ12bvB9/DbzpBN3GRd5qPo3IU7klqdvIqPO9MNXhQqOFp53gy0cBgf4h5VjZS5vql8ai/ewu2ybGrBlne1nH6//nJN0hICnArFb8eBeeGGiw1rXtY3CYDK9tLVdaPlwtJ/pTqlNufSLI/DyiC1ZhyhW+CezwisGh5kidboibTzYETvKSghzA5gDT4UtaeTA37MPlMNzW309rSFvM5IOz5QzBIEdwoMfxiBarOxZm2VIx+l/a3tnLpKyPttuo+MC73ecQOFyr+gcSdnO3/R7/LoLgopG856j0sQ==;hFUS6giJStywRLbu/lp+Sg=="
 ---
 

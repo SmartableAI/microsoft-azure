@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 28 mins
 ratings:
-  count: 90
-  average: 4.6444445
-heat: 51
+  count: 91
+  average: 4.6483517
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Migrate SQL Workloads to Azure SQL Databases"
 
-secured: "I4dcKetBo3nldZ/gIo77oqWMPrs0qnr8+6evxByV7+L2KirZlZfdItld2k8o/RPQKTLuyY/nyuuUZGMMTyJYsPBig4SFBeEz05lydUxVH645OQiskuuBtOGWBtEuVWpz3X5nsjXJ7j6CGwoIi3yFlxBKoOBrQX47KsXsXq6vQUuzNWFEa9TglPZXziNye/NwFs7i9mowMmnDIhfw94CqhylzmprnhgBpodWkEifGKY7/rYDdy2FSuNX2XxO5gaBcNyq4hmHUD6Q49urBVG8u5/7xN42FxumpkRfRPOGrt38rmktSfzi4rNpKhg8pzFz4mr9yoz3M+4FRUczRfkcMoaDRGi6K+o7JHe9AoiB3B9cYNtX1/r6dNxUzzmGOSj1JUSCFEme05Oy2ZloFQiJTJg==;czKhZ0tP00ccd3Z9rUlDzQ=="
+secured: "QGeym3TDfTY6NEFHkkIsU2Nx3QuhWMMO6boNlho/PkgxTk6cl2Qr5gDpmeMfyEEW/+0iO92VjdR4uF23YjtBm3f70kSER9CY9IoEWcx5FDAmrWfQ+K0lDuTLq0ofTR9nEhehNjGEB+f9NTCIngrUuoHDiONeoK43f1DEZg0jb8tFRwIb3ETo92EQqstZrWtxBDbeatK0yttqRoGQWwQ3/z7Z1FZFvIrR7B16PQCc44UJTTQcHpqgj+gJrEV9jnLrfLXV890vp7QwItPeKFC0QvEm00s/rjETdsUFNsHHGMWYwfag1tEEXDIB/hO7IzqKe9OPcBqhCXqAQLDYV7VB8T5SD6Xgj0cFwQmYIJoeU20Xu8A69NSpdZZ3KJYEI5jK2t9fbx+V5JSNinmrjNPmTA==;my3aoZUK+lyZ31YPueCp1g=="
 ---
 

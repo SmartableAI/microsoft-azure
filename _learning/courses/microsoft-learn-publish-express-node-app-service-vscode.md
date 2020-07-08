@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Create and publish a web application with Azure App Service and Visual Studio Code"
 
-secured: "IHfNMAmM3D/Sq+YJOFTdAqnD/lkf1p+3DO2+tuyxXZRLwu1QEhuFazgUJMN0uGfikn0lvxvspe/VUv1xj2tfpcxwWAT5vGIr5+umM4kopoaNK/eq8r//sSty/ayHQBglSEJPbEVGQ1ErERIICssmY7ZBnhozYawp5QPh5yUf10QHqvrFydVB4u18VDAmY4uXFNLNj7+Qz5jPlPdhOvbLfFLbbBqWRgAEBaUcng5JrjMr8uwnoMC56U+pXNU+vF4WTGfqO1Po6UCQHiWKVB3OVhrBWSO+o51vsw7veJ7cPKF6MVSrYdCd/yoYNPWoUDaA0UwIeI1tdFucGcqMWjp+s5aAup0rbUdaLt36Y7sdQpZcJsm2J3o3HTSdS+FTAoKfy7l8kZzeiJgSTm9Evd/vWA==;NNAdF2EFDZmHH6tGiP072w=="
+secured: "n4b0TZG6a+Dv51peosLhZW1uMhh1v9PInQuEhMCWvGOoLzh8sGy3Qi4uqkirsQHGh4JlbYYNVTztmXbfbDuh6SAfO9CZMBOjpse7J1VNLpk7zsr9L6u29z1QuGkXNAV/34OSbZMYrmPujhBvZ6lxdY6GkdUXzDEN4/eQOcore9GrSM/9SKA3ytLhFZUWRfVWzV7eOUa1w3p8IZxK7Buc+brlhgv4yDIIuCq6ZDvQz/dADUvM9rUDJBhR0CwsYLdZoaB00wF8vNr91sw6UJPQ/xE0XHfUHTmRwoKTPiJKleLOBnE9zC7AmjhXo+eljE5vpnpZn8zCwh3Cm0qL3LUOv1NRJ9a+VC1Q6Tcnn0PE8SFtxAPxeSRqjh24cV9NyL+HZfTCpxTJBefV2gpZVov49w==;dhOukcgf/KGwducHRpukcQ=="
 ---
 
