@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 42 mins
 ratings:
-  count: 51
-  average: 4.7843137
-heat: 51
+  count: 52
+  average: 4.7884617
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Migrate on-premises MySQL databases to Azure Database for MySQL"
 
-secured: "P1F1kWTYwiXZrY7MqpFezHA7LTtAkigZmbYqTHvcrpcF1aeqQ1zdPbL4MtHVtkCDIHyAqHm8khitjUlUizV65Sq3iWid/MdXpqXG79vfud7MXipZNq4WF3bw2DbBrRHdh9ld/SwOvwiur20OP06PpbYDxGua/y8odhZORoyCBbahmvX5TLzJcX9bm/owrIDs+2r0Ot1qi0R0WhgPvzuBKllkGUjVlrYgAhsIoEE7TJVJTzHXTrBUOaf7y8ijTpGaRveL6NH8T7nXSx3EHlm746qepkuYPrg6Aazhjfp+uPpZRwljEXCM6MPNmKfURyv5BjdzEhyCKRjcmSRtEkDnz50mdoWTIFyuWTUDKf7ZrqlMgNXKF4nXOxvK9T9S0x/pwO8rmnOzANbnY5gNJVcEHA==;sfO2LQv315DzuxUD6DCKNw=="
+secured: "E95Xh2dleoiVQVohbpv6p+M/8yfftieDDPn5S2460l7Izsno9Xwo0Kew0fQZbbj5zU5rBGr6vGEB9oXQNC6kxT4m7wtxBMAm/SOJ0JK1zPJU9CS6Tc9g/zng9WOGceeSEi/P7lBLElNfnMTY5ZEauhI+0+mY7HXFrNmZs+7RGMORagmka9km5EwGTIPuPnA2gRJhqotyYXaJ9pkU38yKdxSAxx3VGnhkREru/p/QDa7gRnImX3GdqtLRjvOl10hVfyO2g4ZbfZAUcEkU+TafSf3lriRpK7Rm+sLuEnL741CMIxhy2AodETerPUzwlAookdxd24G2exZjx8K9c2PMduMFYK+8g3gGycSgnS++fwpznHOufVyhURx81AcRaYJBdORw5bvGBKDoX+a5KR+fGQ==;IGmJfrM19MzyUDKGsO0+SQ=="
 ---
 

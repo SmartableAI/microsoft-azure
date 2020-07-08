@@ -8,7 +8,7 @@ length: PT18M
 ratings:
   count: 103
   average: 4.6601944
-heat: 53
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Translate speech with the speech service"
 
-secured: "KTC3mwp5qOi5Sgu5iSdgzjFd0QmcT9UIr6fmFvDyNCeRqCQ60oBKLSVU6oBTVL26XmCR+0uYMqRNY5OtEJvI90cY1h21vawqmOcRaufsfNxPuqH5ZbX9n+96MvQN/lXFSDiL3homqMEJfzsscyYjTkHL622lFSwc4kgxs0TS3aalwJnfUD1BSE55SOfbdtiJF7922TCWgjn7pZ9Uf59Mj2Y/bF9n700b9vA/ZeI7cZT5IjwiFpMokUSwN3Oi2lMmkhkvRixZ31tPhid36i3pAQQIgOk1h7D03ISDSD13Qz/gUazNqywq9jLnL6ikGOzYwsaJrhND9DKNL/tuAkUA49GvMqCWuS+NQMSGTGpXbjN5cJ+IyN+EBSG2eAhLPDs8iSewbk8zQxGOmwBfu2qUlw==;OBnUqLATIVrXATdl65EDbA=="
+secured: "scILTyXNPtvbqc+SCtSVNeuclYFxgZIDuqQZpPjUQUeR5NgA6V5hiopgh8hOHAyWsuChj/hPV5Sf9LLVOTILxg26+qiMT7wYkUD8EnY6GtLj9dYxmY/SHHvoyv876FEUyQYcgxuBMOx2ErESoTYo8oKr8xZVFFsZGVoLbukp0RJPwKddx8bl4Np9oAWHa9UoCafXnewqTq/v1NMeEhcwhEf7CmFhNSUMm/CzHq646Fg0tplMeDn1qXeVdmTP/77pZJ+l1H7KhTUoj4ScSEZu38+AKKUajwXvpRHxZvDl9dhFkQvqLBbodAUpUNU3Ob8S6yxNROj2VCFZMYUxyLd1v8p13ZamAhvJFcIyLFeMEtPGYQeP+O6emfw1t7gU3XwoMAHmTolrv1EqLMTIM4JfEA==;hxZlw9KCIXw3MULktA6prA=="
 ---
 
