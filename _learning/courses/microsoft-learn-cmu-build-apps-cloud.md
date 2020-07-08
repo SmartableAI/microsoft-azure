@@ -8,7 +8,7 @@ length: 81 mins
 ratings:
   count: 32
   average: 4.59375
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Build applications on the cloud"
 
-secured: "PXpzP1zc9X/K3yLc7v8c/eZEwqlSa0SZF2S/NUgOkpjSRs6OTLRRkkkUc1egqCKzt9II2OWSVewodIgJqLXQ80Zy2nsCgd7ADcJOD+6991iGkcNQkGBco2f4t5uXsHQEdDgyBIJCEcMvXE3GbgMJ7e7xW5sLSz0YHn1PAek+Od6ybVPeNPUxGTIAzx8i276LNImp7yskhiKlXumjjLksNEIhW4zG3C4BVgAkajGbGGbUEOpm98tnsdO8wE0T3io3LTA5rrTCGq5iUr7Lp1FLHTmPAdML4HuBdiZPCnJlH+Lpv9hCStl+YZ2UY4y/sFk6Lfkgrv4U+scV2NUPVpweBLN5E7LvpVvGSPc9vLMo2Ntr/Q8UvUbH79eMh3q+oQSNqsJRxzVOT4IV3wnZp20tfA==;GHWi1ADAz1h9nf8QbiWx2g=="
+secured: "ashH0B13V9mbSVNAu0u9Ku/vGABYc1haKXommgpzIprrkVsOfwH82rUaVH+/PFlVReQzRo4uORSXDFTCyJRSvXX7IOt1eTE5hU5yctSOTd5c9e875oJoXo3MktoQXGk3zjQfs0uS4AzXP4Jl+Tq6A8x1+LcNlSHjeHAavLW8DZ5+CC1RSpH2OWcpEzgGQuADFn4wTEAohAHu7ufErmWe8FIcf4itjDb9s/i50YJungWm5S4jT26V1fVWjJtuRxUAhwJtWBs/lEIcWXfGYehIYCtbrsEJXhtcSSSIh+mxcZLe+7tzhS5n9KRijWW9pw7RZz0XpZrnwFTlkahZ8AvoZFnQwkKkBXI3DoVX2jbaqsdtHPjVXFdTeCqzm9V+4JWjTfP73CK999Gs6OecGVq+4w==;0bcbK5rb7dv1oKCAh4LDKg=="
 ---
 

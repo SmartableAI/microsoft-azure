@@ -8,7 +8,7 @@ length: PT56M
 ratings:
   count: 84
   average: 4.6190476
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Perform Zero ETL analytics with HDInsight Interactive Query"
 
-secured: "zLzU7PqoZicv4xLMd1TFRsWndMBemlUsRqv5WYS7ALeYELb8XwIA/9VARFSiMBvAaV6EuKuUe8FrvZFHiQLS7CNd2vMDqlMuO+VQi0bS//xkJTn4rg+3BU4/QF/9xFKi1XYas1ydHiLcsPooKVymRxYsIBXMLMTiApIUvAYSwxAz9xfzB3kPm24r+h/oecb48cHR4XBXYwACz1dNfDfGSipA8pafpKXx2a1gO0sgk0EYZSVI+P3XhCuWM6f5BCyqSBBjpP8SKVtw0bgPoXH64euLhl2dtoIy5Lb9NE4QKeTp8rEYEm0Sn/wu+nEpQzihfZSi98hrF0gXFdz4hrVx638bsVNy6Wf7dthrhmZGDhxd+xhIs4fM00LXzJBcApL0ytdFz3S3bKwJNa6IHO75PA==;YT5iHKy6RXzOK2+ahqbicw=="
+secured: "DwSy6vF/zksUjvyo6rmvQ+H7tyVRuJxiCAYHK6RLlWbSDhJOgvInrMA8T6kwZ9IyxIkZQAwnyxCCNk4UgxB5WaRFX0zTW1fBsHbVRa9pDptgsF4UZz7d2LE/zwnlmPXpbhbnB/W01Frlj7TKvwRl0SA6qVim3KfBaYOHm3MoXD1QEXA2v93X+WBLmzoonviBBH23jIMMnbNLYOqDWSGN0QC07baVx6Kc6Tscno1zhntYJmXWuWDLzZ2zLN3kdvVPEB2PvKQq3F1wmEX7Y5ZmGECRGYod+ROgfSOtHKvEd/0MS+59OkHfHt1Gl9jbrJFVYi+Ii1L9B6K6MZbtjG2GFwSVcmw5c9OyKJfjG1R7piM0jqlAs4M4PdN3SObi0HyxsEd0wKw6diRASCvnPwPGVw==;b3gxVY8PJS/tn+PYNAbTdw=="
 ---
 

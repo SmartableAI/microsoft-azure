@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 67 mins
 ratings:
-  count: 4080
-  average: 4.714951
-heat: 67
+  count: 4081
+  average: 4.7150207
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduction to Python"
 
-secured: "Gfg/ObSdHcm1ToorahtX1UlIT0SffonpLXjyJEt40+jSy/262O+tuYyn6NzKFWEKfs4BUGOf5ZP183jinS8ksOzIR7mMwVgyAQ3bQgxMAb2ILIuk+pjZSl1xhtIZ0G1LAIpIAwqywdPbEsFaw3wb4BcopQVzE7cpsyX7t6/vPuDmtW6Yx4+BTEZRghYTsMRrMJH50/6QRe3s/Ez2sAe4bQOYHCnn/erh5jqmJ2eYEcRmSkuRUl7qt92ffcMf+SOteV6W9HIbIwFVtDrGK2NcUF6JLWgetJOz7gRTWaVI6xLc5IbMAMGDwQexFKpErPKQb7bwZiB6uPqX7UT9gfgxuEBjl/XBQMBXGyjiHKMJBo4rLBjkeN3bqfFYlxPfbfgQzGwx0rN4EY6euK9+XnuKPA==;Sz94VlF7tN8ohpk02PannQ=="
+secured: "0B05xQeiuz7+/uiJPvMGohLs9qNQFyKxSK6PK2BFmV8Jw8vr1fg/TKLRTnZOYqvo3DvdLzU3dCLpXsNXOCHks+y0C0vX3DadTYpKXaYyJp5r6aT5M/m6NSS9XZFlFwT/OoZjinrdB7rnY1DVhhwlqwK5ehNe9yRavpTOZKgFai7HiEOXJf2AVjMfWiN3lapy5+1C4ROJ+mUjFjghJlviVzhg8hPYYGd6Qe/NxGoHuBuYrwj2eZIvw3wOvkOHYpjrm/dG40695Ravm3QOK6bGMsCjJpgKcwKdERw/t3/gsveV4eAidvzeelJQC+/WOZq5tNmTNRbDPFmZDIAxtSD6g4NEVdIJy3thc+G6xgivUo7Th2Md08UiQSZzsk4Z0u2fVLCM+w3j8OZwxTwnmrovyQ==;3biCawpaB6yi0UmMtsu0zg=="
 ---
 

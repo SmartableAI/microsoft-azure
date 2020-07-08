@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 45 mins
 ratings:
-  count: 85
-  average: 4.647059
-heat: 51
+  count: 86
+  average: 4.6511626
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Manage IoT Central applications with the REST API"
 
-secured: "rRFMxpU0j5cTVDRwStFMYgDG5XfKiMLvf3KuZD/5qCLU1PhLU7GUtIzaKQJfmIUpq0ONT/856xITvlyTCrNRlU+fexl+M0jNz1Rt94N+877fTkPsCVHxrNQpyKOFe22kQcSSuZndgNsXo0ZnIIwDAWiGn5yVPNwmuUYItDHJkgyzhAEuBNkN1PyCFtaLGHDXaB8iJNRwBUZdNVsoAlYAz/klbN5SPWRnxeYfZRFzdXOY+lCz/rTmgA9jdp7nq5oVblYvguyQtk/mMm+doeLKJXiC/cYURg6tGJ/zGcPP7giOaRAydcW5Lj8rnvD/Akq4mNl7cUhPLvSVuiTm32O3wZkb3UHshcdc4xyHo2W1ClqAg76a7CbLFZPjWMPnrmbyRcsQJLR4q+zp09kFB3hWdw==;pvLETcRoq4iafJueTCsSMw=="
+secured: "M3xMlLbNkA3sKxIwktomKwQeJLWsOPv7boWtxCmtWMicXHnC9vXvC6pUkJJAS0KMA7AElXK7dB0mIBjM2FlAqhzdlK45ZAk77UNsaE9JSn8N5UmnZLh1hqfsh9KchBEz4GhGD/2+BtwVsDKJeA0+1r4W+o05Z7V/IbLxJLHc1ydMSVHOtndV2XTLK8hWbPoIgTY+/FS+SzFVIhcyywasShhczmyAFlCiCPw0QKtq8z3W5dz8QhRtZOlyhM7Ox7IPjUf9pczaRHQRexSuQvxYbXxZJwpGw4VE4qIXq7D91DWa5oVcHU0D0hOeUmvUDUZ75R3wrHFJc4cZgydDRNW59wFeTYPBz11T8Dx89ZsR5zSK/FbublbPRyJec/PTyaEDADNGiMOPwA3wfa4zcZxTYw==;NjZfvklhJGyPZESfPUc0Ug=="
 ---
 

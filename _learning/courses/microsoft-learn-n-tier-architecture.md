@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Tour the N-tier architecture style for your application"
 
-secured: "M/NcmuCWNQ7imaCc3WmT/JJXZtTYcADug/vryGzNngwToWGQUMk/IPd48wL+2hPM1F/3UgfJ7K1cja1f8bpoCWv4T+wISpUj9GiiRSki/jlfoBnmMBlppSpejx+zgzug+CBoDcvfo2nzkHQrKcgKrUFWJvpfTSEOu9hexLcQylZEXYPIeLm2XNY69BKpPrfNEFaBji2g1ZR5M0ETy44lrbYDX0oNJnPptGUAcifwpvtFfv1NrfyJbDjeMtrK4l1qvTNXq6M8BIypq+T/Zfg3nXgm2jSIByFRIGA5h/dAc3s73oAWKTJ+a8BeqRsugy+YgL1U+K/f+xnm9LCNoLA+q+i0jpCuVxJFK6jcmgfGf+iphYV+K2NanM7kCKvScEYXY2P98ESvKTVLLwO9BtfxtA==;NZN9OXqJ9/yYyA+OTU3x3Q=="
+secured: "nl2AWSudDz/BVDiJ1w6QWi+4j5lYnWErJfIkjuF4mSQSuzykKbwqwBu3f0n+funcEAj0OV/wGWZo5QdaK4r/yRmZdiEKhsvfzFryPr2rggtEDTemvWUeYbi1mSfjU8KUnnT/uFKhUn9zpkQ7Fb69EYmgG6Loi9EYSCoLZdidoPAWx2hHgD4BWfCpooiM2UTfCDWiEHearDOwT5K2Pt6aV3f7S910Q95qw2XVefIxtPLzHM5g/OH0sqqsof8B9HDEnJOVvmOw/vi7e/Y9UQO20+XnvG0G4uN8GK/OM6w9mqtoCZT/twA7onP0NL4/OpbGPyayFFnZ9KBuTvKpu0uSpAcfU9o22iyyB9h1Vv3F6JzQvoefi7FfIw7LuEDsd6YwgsNOIJBRrcQ/6ZHedSTyfA==;7cLD1P5sWPDUyOf4/YdCAg=="
 ---
 

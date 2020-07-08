@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 43 mins
 ratings:
-  count: 515
-  average: 4.728155
+  count: 516
+  average: 4.728682
 heat: 54
 
 provider:
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Protect your APIs on Azure API Management"
 
-secured: "sEJ21+4jW2dkHvs49VEt2F/e0F6AhTxekW7cPWO39MSMjTPP9XINAC1cU5MDyJj7L5rwzl7bNcez9VIocWMRw+5FAEoKZ3SRmegEleVa1hPZkL1kL2+zFqeXIPusEjf+y7n1hvhU5pKEfbFdKTZNImVy/BQAK2AswNu7XyUPyApHSt0Lna/EPHWhkSho2suCzye0luL5acD0UqP8xpOFiG2OMhSE0aU1POnibJWkgMPp6vyp0PLDOrqaNnzVJkgs9Qw5HOWGanXaRaagiEBwbcrfQmerLCyqSPHTtzauC35U3KWt7WEyw69gTC72pxpWPiHaCB0SsEdB9Cx9H9i8BQfU0qXjtAtYs5H8wZUHuEC2GYw7Y//WsJDQS7OUTx2nQh4KipB9wERQUwarXPmN3g==;J0XXHsi54tvhxHXJ6ftMOQ=="
+secured: "DVKKQPjzwFjYm3HSfrAZ9NKmaITZEdVgTP4Bf05O8NIwrynYKXEdEO5QGHo5En2PC4zPAfqcEd9TWDpBSkuhW9jBldX4yWYHSSoZL48gEPB1J+qbYuTVt2TbPWds/ahQLQ4l0GKlXqSK01soh/3e+5FTy9UzK9ISd836YmVqAqBgv4iv/uKSNB2K4GWaKGJusTBX9LNtRcDIzlne2RY5t90ZujEEB8s6KoMTwd0Lf+I0PtuQjNmsVGquEdEzmv8BYZaLWr7xJGNVCfxGfi58f8QjIfqgj0oKziwrPW8g0dQ6qesGOG+sr+hZ/rAMSeWl07v5YNQ60f9NS9l9GGCHIn4QHjIIc87GGeX3CILS98y269h0nvdsaMkj0AUfagm5LY/D9aDLP3H5OSY/v6rSEg==;TNoo9fEbpkQEYIh7an2HQQ=="
 ---
 

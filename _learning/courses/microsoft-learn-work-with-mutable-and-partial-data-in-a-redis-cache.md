@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 65 mins
 ratings:
-  count: 443
-  average: 4.6343117
+  count: 444
+  average: 4.632883
 heat: 52
 
 provider:
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Work with mutable and partial data in Azure Cache for Redis"
 
-secured: "Ii9Gp6i4Qqfg9fdyboHDOuuli1Sa1378k2BcxwkuZU6b9sGABvrXTwL54bYLlHWBPG4e5+uwsuefL4K8cN+qkmXOcREqCmv4lW94KVv6Bb0tpqhLzbbHJ+oRcOyBEe9Be0WdPxt+rPbX6rYDCSxT246XsHjOeb5UfdnjXMiSpTUj6MtfcZ1qBA3jM0WlRWUt0mFfrJ46VaNvD709CZzW32HTIp7oCl09Rt0u70S7MPmUhXdT1xc3HooS6rSCiJd2MK+nu/tVmXBK6aXSyH01gzMFoMXjt3FxdLnmuZiRGlQTXGSnibStizMWXhlhY3wmgvvxTxMvrfGXCx/7unTe5G5Vx2o+/mupaX+IuZiP0/zG3ihLSQI468ro1z1Y7hAoCj6nCL53TLzKO+P5zCgD3Q==;p4aEL54QV6yVehuCoa5aDQ=="
+secured: "aUXFoyX7Xg6lshH2SwqYgUcm/xmvEbpUeGlTO76/aylaOYNkk3Au6m0mNVK9Kek3C1z+n1iqkbD0bcyH3gNoOKHXPYskQBRLKBrML3gRDI9lJYCG8A1uJs9EeKNEzX4VmGAXVDQX2+VXDyTDn20jadbJjF3fNEBmaKJp8uaGhXLeKHI9pwXHcLdLR8gwbszZIqLkgHJpqy57eWVbhy4T2dEKQ4lGIQ8+ZcOzaWdlZLD2IXk9eg13yP6ABRIqJ4hIbzeVjeLj5/ggS3TyuYKdmlkyryaVVOZ92YewmKmpEedBPEo2eR+M+qOFyCUY5bnDqucN5L6deGxzQCynHEAWCuvB3rp50s4KSgS8N6VDGVVfRe9r12TQpNK96Knxi1fI1C5BZ+dawRhJcyfqmYxsjA==;LBlcDx/YZ0Rc3IDsJWHnoA=="
 ---
 

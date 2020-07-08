@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Gather metrics from your Azure Blob Storage containers"
 
-secured: "QwGWbXIqs+1Vzy871s3e9rgYXQFnT2zCC+pIIwrL3o6jttKYQJM5eqGCs4l6E+VMBX8AEeoHC+Xr4N5oYYOQUW+vH+YzM2fr/UhZ9fHcVn97KQ9MuRc/u9moAZtWdveSIHY6A4nXJNFcEMyAaBCMBFvGXFaa6P9A2DUKrVAPbjaTWHW2zRDu4teY4cyKb59SBimbA0O2tr+BeX/j/StrhKgjzFZiFjRNRK6cAbvVZ+5xthBiyZjgWcTQNqPanAa/jzC+gMAE/pxWPh/W+K/c5jchSEIncElZWZWzzit8UqEWazOmvJ2PRr8epYchtNfsWspnYmldrSoO+qLp04Lxln31zkud8XXk22auqlsp3Z0Hz7GWD8PB2n5FLm24a3ZQHLM7CMBopmH8U7rcc0rRFw==;UUKxTEoYuSpFTUewz5kDlw=="
+secured: "0w5ke+0RoeXHA+Jn0LXly8hr/UF13y6IkBxx0Q12eOo03C8tC9O19gZu8ECewFprtD6YzMwaz+pFinmugtcUvo3T/Acx1TDm1Gd2CHza69XPI5eAGrjLx0a3//uTWT7EmU+/GG/cl3FrnEaH/YnEdcFmAzKc06ULBe3ZejZRe7pOaHnZ7ed2eATsBQ2W8SwToDSGtCyXkPr16I5zCbX1cZYMjxKRMIm41qPibiKX37S2Jm4VYYy41DYJKC6Fc11UebGwDywfkCZIbO/xXVUCVIGTvo9V6JgCmwtVENMoPtbn9EEE5cMZ2ZBGVNRsjQDkIrXUASZ9W5cQr0Q5a3gdnJgP41E2NC3RZKrnfflOBmtG1ovMbahMU4eorp/bvpWao83MS/QJpAu5ye3S4PA/CQ==;SyykQJHKMcGEflgSZY+MtQ=="
 ---
 

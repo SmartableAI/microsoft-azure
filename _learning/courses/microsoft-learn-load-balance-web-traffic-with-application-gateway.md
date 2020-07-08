@@ -8,7 +8,7 @@ length: 92 mins
 ratings:
   count: 1387
   average: 4.5875993
-heat: 61
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Load balance your web service traffic with Application Gateway"
 
-secured: "FjtxBtIdfZHaGJ2OK7uRUooPanUNDe7Wlzxbp1KymmQUUYUvW6/Jb4Wkw4kN77bcbmCShakC7pS9/uxsrBJUk4W4s8e9ErD/BevGHStygokyHhM1PYjUFu1f2d+f8XndsqGZHq5DZ2MoyMzaxE+zeekUR7RwUiL8XAaOvANLe8ubQaNSlSrixdipXEbQQN1VwVSsr8CGXNRIcajyGhow5eRR07qb//2APtUYwjEVjvp2XIu5eIqHFFTBvAv8iQI7PX1FFwR8Kw60V7Fyr830mkr0HgJy87wYihxh++3mfmzyIRlathl+xbbp/hM6kIVhTZvHRkMEEpeeQNsSQW5JlLQRilLv3vSZcTECIlD/iuIy1O4UQCWgFNhNjhqAOh+3aTe1tgum+bVkXCm7Cesbnw==;36LphzUrqYIiIowjpQjg+Q=="
+secured: "zT0yDysAKotUBF7Q+xazFXVCFUKzJWSlMweyonhAgWKEZWoedAVGJ08ZxHc2J1HvXEUTQJsYrMoHEyj0jH2ZF216tmb3jv+gnP8D3Np//9GA0MlqMy22oKOZnTZypxg2TthHmo2u+KBeX4GgPAol8Rs0pqHXEi+5FR4+Y+DfBN6SJAmA/E6aCiQrV13FmcIU/T/cCNyKalTksYZafiXNPvzplTCZ5B+/4fo3j1qckV7YmtpU8g0I4eS4oeqYD9sYMd2wwwfk1WnTcdMqUwKcLYtR+smoYYWgyD3QNp6RDbalqbvfklx7QSsvNu/6ieyT9yPyz6BCLTDgMxHkGabgdnK0sHfxH7AJ0BSwh1AeYCDZN8Q7yR6cELAD+LSljcTv3hUQoQkCx7F0bPWizOMtmA==;3ui+igI+KH5Ts7qMaiNMXQ=="
 ---
 

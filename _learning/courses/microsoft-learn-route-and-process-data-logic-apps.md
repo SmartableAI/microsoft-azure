@@ -8,7 +8,7 @@ length: 56 mins
 ratings:
   count: 1214
   average: 4.5436573
-heat: 55
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -35,6 +35,6 @@ images:
     isCached: true
     title: "Route and process data automatically using Logic Apps"
 
-secured: "E4ZuizRf+ridC4OIj9K+9lGSi8KJ+6A+NI8B+KkZn8NZK4OY80kNVZwI9WccGO2zeWaoYBX0/RDl/SrhdcOHkOxZC/elHTJxoBzOt8eT7iYYeQ6ayKFeKYla3dYqw+Rmc5SIN/i4n+3eTsFdQXIareoOR73RHqHPdU8r7IJpiOtmYIVVmG3Z8C4XM8CKSjWA7EcxWrDUXl+ziUtL3U3n33hLooFPt32O4kOiY0sUjokpSDOJZcJbexz5gRESdI66Am2+R+7uOFrt9alr32iCP92xHl3IF7xi0bGUoZgzGhawPeE8ZgGRSx/0pqgwQuoYGSKLiMnsDokkeRHxr+wixcMWC/6GF8pW5BH8rBn8cgceZzGAuZqZYgE8ZJcyjMp/1iJrbqxo2H1vyCI8C7bPsQ==;tnqvOyqkCbC7fzgLHPOQlQ=="
+secured: "UO5JojV9IR0npepNCYy9JAdsBIhMMI1MkKzii51BeW3hagEGpFEQicQs9LtfBUecJsf5ZslDmrzl9IePtvpDTuMY+f/A7Y0cSdZMm5AfKtpSDc+dFfK2/TM5tDjLB3EReWCul9NQIF+A7egpwiryiqdCGDVWwwlDMH2PbnCTG69Ph6f5TJePTWmUpDA8NfD5WzXNYVDU3Gpv4XnCpGVz4HjsY1NtigY21xNq2eWl1L+eX+iBpvWscDyNnv5Qwitqvs2TFquh7lT77i6TMm6bK7XMDelrEr9SrnOmkuA+tJpVgE0rIEHCoR79usw88ncu2+qYNrA1b15MVHqqEHcbwoATvju9kWioBTCay+Pwf9TGIxg6l/whyqx5nGxBYJXEiEQBbOiTmskUfsRLhj+XQg==;dGJZu5GjUWExZZ36Am5LDQ=="
 ---
 

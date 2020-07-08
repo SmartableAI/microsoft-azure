@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 44 mins
 ratings:
-  count: 161
-  average: 4.689441
+  count: 162
+  average: 4.691358
 heat: 51
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Using IAAS support with Azure for SAP workloads"
 
-secured: "plfrBIzP3dxKUCOyWuEpR9uK2Zrkg0hK+IibNB+BPO+A3kxuG1M7W7RdzGn0MxVdi4/qyaXJAaOubLRnYVB5Wc2k36reWm6Vhp4un6Q+QUYerqQ1RWLn4rbB6xcD9vZHJPKuDlYQNT+1CNRvEcLG7rQnjgWkQE6JbypyyCmY19pNl8M9PYAXP9tluBF6UlUgbm+Pmzzr8uJ3Q41i/5gvj4Q5D4OmIPh2Ke5Wp1BSJLTbRkC8I2Xj8tqa1eGH41aO+pHB6gy+AB20VLPuT5xwyzI4VXhHaF7wFJ0YK4/NA6ThwGk3cly0AnwLRJ6xp4uSxuwZ89Qw7yLHnalFkJuL5HvUJZyhFjWGu3Jn7qWja5KqLOszAKs6cz7TOBmKjT/EhBcpvdF8juqt5a5LvNETpw==;U4O6uO1FiozioH4ZY5WK9Q=="
+secured: "SckfH7zP6NBwmIfDoNYrMPlVuXlEmbxw2MgLnQIHEdQ975hqcf4qTwDHE10Jolj5M9tCc454ek0xuwgQgSlqc/2liRIsU7oCi+2H9XapqX5GWmKK+8yhs9M9aaw4Lv1n9csshxs1x46+Vo0rHzZCexojSPavmBAs8gc6TyqxU9uF0laffH/M0jQ1VPqLtgvSfqn1VjgMcXutDlsXr8tDZ7kCUIYkBAow4Og/i9e0jG/xt5M9b0wzV9sAp3HOkirmPJj3glfgfmT+FVCFAzVbBCNfq+G4Xr0D3uAsohiXT897wYIQKIh1up8J2bXPoGC5Q2mvgy/2+qF/iMl86j+ga/jwNdlKpSFFypE+cX0Oqz4S/nhbAzyC5cm7NYg36b0qv88WMjyFcEYAtk55ACKv5Q==;LwbonkdsftM8Q/y5jSanqA=="
 ---
 

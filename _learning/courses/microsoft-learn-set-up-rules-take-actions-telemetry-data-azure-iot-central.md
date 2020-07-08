@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 46 mins
 ratings:
-  count: 94
-  average: 4.7340426
+  count: 95
+  average: 4.736842
 heat: 50
 
 provider:
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Set up rules and take action on telemetry data in Azure IoT Central"
 
-secured: "E0WCsxsiuWMdDQ+vARnlavhkSSwUFzMHk09HTP3dWJszwOiBfSj+Ej9aAUHuGvScOqjmoACSwWHchgWOTZcwqTziF0RDjo3AA8GZR70aLa7TQEFU5dW2J4mUs8VpranTUf2TGr+dDYTP5O7wjzO8e4uxjbX3vNcZngiNiG3rkmv79YJET3uGBoCIrpYQUzLYXIg/snEJ2MBImyVrwD+lkz9zvcF45rO2cIku6z5Z/eqPweg98bhXVYmIfLG9/ul/Nf1znK8YaFJvZad3GJqtsrUNf/tjnalJMubCtciAoCbWeA/EQIPnw7kJczHO+RAy87DMF7G6AZ4sajA2PMvwRgzgpyzX3AYXlxK4cCrS5xL+oTELk5ij3BuLrhCAduiDbsRxb30w/gZaL2+kNICzyg==;FsV9pUWX9Bj6l2IyDok9Ug=="
+secured: "oTTfipIqz4hjSD8HGdAcu9GB66PmHu8a0Pr958yC11cyfR9HsxD3j50tBJbIVgFtNnNzlvgWG4KTLilLzUyyayxPN1TNvuLDMw7pddgj4WnoeVe0BytSncZc1oPUprV1oZ6f5tg75bxsoLjTcuB2ZjUrSwnHAY0vWlS1d7ss6i2eU8GEwiPdit+rH4IbkXcO2y3XUP0i/nexuvv/BWhb8S3eZJW2y+I/aQef0RR2nLJHBU6KUK2aStgeyHY7GrYT5hBRGQgwATRDj9gJ4ZhbwYQqnJs5uVwx60sEEc17AvLAciUu35YnChiURm6LpmIhdfodvGPHZxSmN0zjXB+ArpGNJ0xMlkvrcSmYX1wcASU8d7hkMP3OShkSiCuEUPRt0WAgHrTAN+Rdv0llTUPwyQ==;Kxu/BCeb81s3MJ9jihIRfg=="
 ---
 

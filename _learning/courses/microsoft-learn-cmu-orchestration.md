@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Automate cloud resource management"
 
-secured: "h1futNa7kYP1uLGlotDoZQFGOIXDhHo+Fo/h3m3qIM68SwiHKkdaytfnUxtzb7eZNt4f+HCwnE0qkk2LU9TH9ujjNIOvcaD8RvEown1UIXRRyr6MI/aC0fm9k3JVmRDPxm2GG4SbtCwWhSXQAa6lTlsTRFrz4RTN3cFBpLxWeAwUuREwS9b/mlTsSbRxJf63xWg0bZ7eab4WV+XqUJJk//TrOhc+c2H3/p4msYnWR3qK8pXIotFSvfF/N7xah8BRgkopkhkkqXgUela3nKrdAKOph/NlCXJ1h2tfak3mlIa5jbTCd1zlLjTUWKQ09JOYaQJElojMEPJtePeCRG+7xNDi0gt0YoZX0FAp5TKLdbN31GS0vor/aikDmzNb14guVx+u/snTU31fcWIKOmdUsQ==;ZFmVma1+Otk84QyAJKZTGA=="
+secured: "bY4EgBnL5Th+vIKzetYraLsLtnU2K2YCBB8XwD167f8egLSLqbLoglu+8ZBvdYWuvkbToj8jHZ6/LCX9x4RYXeGrCpIk/J17EjYt0QMqShu0tZ6VaWuN/C6ieSqGrFT51VUp11FcYVfiB9QrnFBqw7t0cLXZPorsqe1ZxNq9RSOv/2XFHnD/X/C/+I3RzhtZy9FaIvEn4iqUMKhi7/IPtaxv4OFq5QE+WngGrgNeIGkRP2vWi/3vCYlRDp3iGDF0sUatZCQOoVgtwDkrZezoozUaSDF28lA5O3eXvGx+CuUlpEPbivIqAzLvq9N9nfV92zbv65a/AHywsDz268XBW70bJlN+STmg/i/3yKLhjoFGjWJsfrN4IDAhMATsHGwT35rNgeBCp2RWMYjtbjJyQA==;D9rpiO8nnKeSxioiLaOYTA=="
 ---
 

@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Create and manipulate tables using the datascience library"
 
-secured: "vV60zHH4qXQ5ygUvr9hRbpXHovlZKLNmpw196S1H/OQh1KwvreLMTj9ilV+aVLVzH5+EDtx1koVLPfyypW8Cnaogx9vX7/Qp7p9awCcYpV7dD+78/64wt1SEhaXbpeF+wR5GkYwk8hh4jFljynpzYpGpNfbgJTNEkTZjaqpa33aFSs4zhtGJzSJ4vTtksR7P7Pkj91+BipHAK4p8pT4RjiWnmY5IBfs/fiVZB6OfcZdvRJxQokluqGhpQus5K1Qj72LiGmJ6gIFYWhyC/c8oq3853H1hGSxWupM5YuI6J/Wg6NwxtKI/YhAyIhZPJoqR74JmMr/EEq0/Oh+05ASPWbAGZAcx75XPnctK3kvRZnTY+bkSJokO8m6chn6Yw6AuBqZPVnnhKR2Wk9PI4YAGmw==;/ttT1npj2U/QhuQ7C3pGQw=="
+secured: "xweqm2kGQcWgF7L/cut+K8pUcEpEX/dUvQgBdliXDoWF1tS/pVPEDpo8nWSq+pdZ+puPjH6D5sJbJr6lsXgmgJ7LvSwTaPJ7DQMe3VfwljOzXDfp7rHbohhV6zLbkzhRjGypG2Jkq9RXKD0Iw3e8DESL7wygG9DE0KSPC1wMdQm0IgipU/1c9I5UxLrxdk33hQE8w2vboM7Mi9S8WEEYBBCuJNh7PgkH12aVpD1ca2IjkjuvUdLyFaPsdg8NHZcU7UqjSksFazuNap3NPfhEWc7ySKgXxn3FJtNw/ojXLWb+QY2//PXBCucNClS2ZMiGElFrbMPP07o49ivbKnIP+/ExDfchyQlIfSHVRsrlYLf07xvpJlc76PAK53c6GoK6hrjZ9Dg4xeUGqGIFPJGH7w==;2IY+63sdfY81st/PZOkHrw=="
 ---
 

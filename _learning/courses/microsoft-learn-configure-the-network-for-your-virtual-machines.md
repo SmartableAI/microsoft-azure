@@ -8,7 +8,7 @@ length: 94 mins
 ratings:
   count: 3066
   average: 4.543379
-heat: 60
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Configure the network for your virtual machines"
 
-secured: "j9qJSXP2NJBn/d8P6aJo5Wu4xFgJSsiBb6MkebObsypjPHfdwb+itft2gPg945fIN076LfyP82rChtXo8jdHL8gmhR55rQK5LrB8kqpv7d+lW93q7iGhBKUioAwwaokJnqCqu9zabZw+tDLhMhBFfMZdZbkd4dRzqZ6momVWG/L4yhrTeO0gI4TFNmPOM/Ce2egqhsb1KxIz4E+3B1LzhrYGekD9rxHyBMui56M1jlQ/b9HCjrgNrqTMziBpCMF40hO/oZuxrUf3qvwy77YlDVhJNEJ5huGXkAIEGbCfRv1fji7gsLm/3jjBMby3/Jj3YmM9P8LiuODhpElmC1RcqWLTc3Ps1AUuzt2KqA//z5cZcj7SoeK6Jv7Mmn0suVXBwTAf5WRJh1h4X2mOxUDN8Q==;nQbfaQyL15IaACeaXAsRPA=="
+secured: "cx9nsYJxTb1QgTn02vPxZbNccVcYg+goIwE0YC0LP24v5dH8W8fGreU90ua2luy/94E8GQDTtxBh0aPX7f74uHldMLhv/wUn8HZv0kSsdi+kEE7GKHIS/Z9tW0YS06W9rLi++JhV2bC45yg9yWX39jb1PhUTEJF36x+cRYiLOILGTs8jHTnuI2jY1aa0RpH49IGMBaSI5J/88yuGIvPW9+7aBJp88KfqBF4kEjzr6mgsb2/c/v6eE1V10iAQuze6jKSjnrQ+rUepGXgYE8h3+vGKc4VzhZ4DGHH2obdd+iiVNqQMkhakjoVec+CCrBdGMauNI+76+5n1ixNVWimf+vJepSMMZ+TBA2TzyrhYeBiAi/nDf77d31p1AHbx4+psoKjPzPle93J/PoW7edx0iA==;iJJUMAMtEDVgAKGi9CZvMA=="
 ---
 

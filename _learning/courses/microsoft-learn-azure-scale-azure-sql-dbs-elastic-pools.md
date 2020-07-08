@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 39 mins
 ratings:
-  count: 2915
-  average: 4.5687823
-heat: 55
+  count: 2918
+  average: 4.568883
+heat: 61
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Scale multiple Azure SQL Databases with SQL elastic pools"
 
-secured: "YTnv5hUDRguENxhR1BZii7HDO9kvVspzK6XrygnSHvAOcs6jISnutVrZiW7OfJbBO4AcV2EcHcURXxfBm1NvUL2xaTkuAV+0N44kcG44i58ghljMSpFJjGmP69rGb0uZ+nWRSb0T+bg5fNBrOkmMQuFjQXlsrSpVr1MYdHbc4w5Xm7Owbut7z0KAC4Fe9D8+RL7YY2luyLUe0txSbjGiXV3QZDTAM6QXlG3rsQcfsf9/FsYR0QG/Eqgbt8YTl+4I2jUzHzLz/65Qwk3UXvxBt5FCNadu8Raa9+QDPDJBy0SlWdZanCsdNCKCUuxVD+ap3EIpfsh4G6C8MyC/JSv1WJQ6oLSZnjy6XYe7RQlfFmMGgOBiLAGrv1xsp5XICMErMuAJue0VtaPGS2N52SwUPA==;W73TVZcQhx6uPnUPoHBWEQ=="
+secured: "qMGnRJvTsdmk1tjLFDXNGFQrXAehXsZ7d6FjN9rXbXwQrZ5n3Fctv2GlQFWrgXizLmrf06TKYYHAzXFa+xGpfHEpre8Et/G3GS0kOhT3U9WtuSGjJFYfx/PSfp2YZlQ/l8CgDt8g+o6YgYc5h4X1BE2TvEqbJaQLznMU0LDlSfYpZoHTw//yG0Ads7Gr+GaVys1IhxnK9/72oLvrZDsKH7UgW7vAAUzATGnIgZNiaX6KKIv19Jh5rkQPmKr0PIveAdEUj5uld2Rmun9JsaUa5c76oBimphmsMXpr2QUgwzQBCZW5FfuVbQvw7l2BvDXqY6y6eAQKrOFA16esUsHePYNtc1yBoXskzzqeH9F6r7Yadi8FcUexNTxeca80ef50GQWUfqHeH2RX6T2Of8Dx+A==;7vYm1n4De/YDtZzC1GKJRQ=="
 ---
 

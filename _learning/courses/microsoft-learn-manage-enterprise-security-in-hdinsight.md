@@ -8,7 +8,7 @@ length: PT37M
 ratings:
   count: 37
   average: 4.7297297
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Manage enterprise security in HDInsight"
 
-secured: "8i/btFm3RS7ZQAe1yVDI5WWucNl89mRf76o3e2tFo831vVUqX2a6ktq9k30asDqJp5aRIdsxY74aJpJsYu+DLkYSNCYpWDUTyVdVXuqWHe/iXws9uPCdPAqY9j+w1LotGTwxjMWBRK7o9+QAtgt2xKaqFJ/5lYlUQXg6FVpXCtY6cvWt8tE9K5tfe0zI6hq9unN6bZ8nrlFkAxK8SSoYYHvjHnfo8t2d3bA6WAwszBYH2tLIp4H60qDpHeQWdRX0khGEVD7zyY2LR1+e6A1BJYRwPhqMkVQ1D19esm6WSJXsA7AIh2gG+co0S+CRimWDS3ZMzygce1bectxKe/mtwOYU5gOHhOeNZsnjZjZLGbOaAq8RdkP1z2SNDVzpRD11S4iXIqVTrMpIcayiEcniAQ==;YeKsxugha2NQJ2WVWju8TA=="
+secured: "eWqroWkCNP7D5PPcsxBUYOgopKFVzozh6nW0RWKr5ZFYhupXPcG1/6wmpoCghaG/aNHKk/rrqUM6225wStgEXm+tNoGnkLyhlJZXX21sTExkvqoB2uZc1uzA2Gs/2J5350EBHjNJiMTnh2MBTzqSX94tyUJ5ldtDX7KZ3SAEYkEKGvoo8kHJLtJ07i0D5CzjP1cyKK/ha9/Gl92TdYbDLtOS0+xPyUEBUu/M6Qc0VKIstcFPvbx6tqmGk5dn3QMyI/XKG5lZo605CtyzkLW6RQlAwZFsuXQYCvvSgm/7AVm6uy85ryUexaxMeoahFn3FRRDJg012mmAqL3J3B8IzjDD5gbr2zflNy+OLb7rfD81LSSJrmnZOUtWoNfcQhFEoLzS+MOE/XUBpz+wM9oqkNw==;0IdpTGfjQ/kJQzCXPTHk3w=="
 ---
 

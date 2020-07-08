@@ -8,7 +8,7 @@ length: 100 mins
 ratings:
   count: 104
   average: 4.5961537
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Set up an IoT Edge Gateway"
 
-secured: "8z5khiizccOnCymI2F4zCHfGTcap+ebE14dJgKXDBWOBhavd64+6Q5ma7+hcexx6sVQAAh9OE/Sd7SpMMLoeombutBkPmNVTBBnDsdoMg/x0cz5Op9R3OcfuUSkyZcAgie6Lf5VnUyPSfacjpPLS3OABSAGGoHM1yz14qb3Gl6wx7iFjn0EGmReW1hsmWoYpvFehtXYQEBN0QHjw8kWL4B0PeOSkyKvm2ezpNwbQeREXfjkhJ/u0w+1Kj72W+YA02LJO+61zKidO4e5P7WRu9u6nF4h6YrVYeJjqUcg/I1bqZ8Yne4jXuMzbIcseZbQg5yMftrJbtyTAxo9+lZUzIqrUQfyFCg2A+4MPm/jFdNstpKvrvshO4QrTsW7L3qcvpGRALQxZXLlfycNkuPhZVQ==;Q1DS62D8yp7+iAmf5SxByw=="
+secured: "ZLz6WsZwgWTXKfO3f9LuB40sxgm6VZfjcwj7lxjZGeDv6gJKXAKFGj5JOdkhg5bpmXcNy1RUwtNycv5viF2n0MK7ObvgPOUIhTIB52La423tsJj0UNNYRd0ObgaBnlO97CcomkxGWPekG+gaDbSLrbPH9KyubD5RmCXwtooFDD+HaaWRWoIZskYgyk0BkwnWG1KCu6MRQohri4FqfZH0p7NJg+R5UIjqRYyuxMHdtrALywK23GO8Vo5qByAGldYttFSXzNVbs7crvEHMnBdQ4wQ+6ytAUQSq8FPrs2/m7quV1wg6fA0cxZyTCa1eX+8O3hlI1yk6nnTLT+s3wtdVQ8f0/74yGnfRn0k7h/w/2DJw7uRieniFfd6q2OvspaRmFTRLzAaMbU/4jvfUfdksPQ==;yr4HlSCY8+jJBIta+kDzag=="
 ---
 

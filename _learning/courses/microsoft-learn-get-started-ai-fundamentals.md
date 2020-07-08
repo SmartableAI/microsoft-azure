@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT27M
 ratings:
-  count: 506
-  average: 4.6996045
-heat: 66
+  count: 507
+  average: 4.698225
+heat: 69
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Get started with AI on Azure"
 
-secured: "4WZwilDjn7Xs7elHXyxdTPGTRItSWCt0MgtKNUJcQIiheT4iLE84NYhY3p2Kof4M54CPOhTSxil/yqYzh1WM2Q5a9RM+1HW0IT9QIxS20FPyUrbLwBLJzpD3QCtaydwAAWFDw3CIZyboAB8xS+hdbr9QNkTWhdIeyOJ2UzHRXvXxUoAIENB3I+Uy2hVaGZZAukpgJu38+jKFred0CE4N2EKUNNTXExEUsnAiWbeyqwww+1ehzgI9e0g2mSQpi2mnOdAFZZMXy9CS2WDnBOWWiS0wYJAGJGhg+uSCJZTpOf6NrUOnmcSSfplnYnV9ANCbOCunvyL2LQSA6Ps3KxBPv4C/9kTdzawLW+sKoghxeD939LweILFpxpaT1lUB7Ckd5n5Bom5cUWFj3LdyHjcNqA==;Y+lAV/NddmzEn4Me6Sy0iA=="
+secured: "rgCelD+TfIl3+pGvcdaG9jJmK0w7GT2tNDQ5JN4N76CVOaCp8HIgX6gvNDBkhRGo8I+uK6pqos7FRCwwVl7srh9dXJGdlI54AoUXbHdtu85liiPPvwQ4rvKXLs3OY+8++KIj8c0WQKid+fSsfcRiFNUT0IbHF/BOPPweJxG5isQPrMjz8rQA+A+h+aoKPDhn5WIWX9iovqIga0ZbhGYas4ZDNcs2YRtlfLto9XhiOjPiortuGXWaNhNE9VYXFqk4aefaskDjYlSaywNMgXYGdfn7GdTdsgDv8DBE5NvQ9JfJn35V9CxafE5c/8l688ooz2wIv1Ykx2nwop/crmSd5Vp9wnci1R/okh5zO5I9TJYhEhoSeUdmACc6DW5tbyOjzzY4bkEMSjFQvYAJk0M4dw==;57oVkhs8kr9N7ylm3jiUjA=="
 ---
 

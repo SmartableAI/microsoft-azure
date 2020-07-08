@@ -4,7 +4,7 @@ excerpt: "In this learning path, you will hear from Peter Zemsky, INSEAD's Eli L
 type: collection
 price: Free
 length: PT5H34M
-heat: 75
+heat: 78
 
 provider:
   name: Microsoft Learn

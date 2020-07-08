@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Build and deploy applications to Azure by using GitHub Actions"
 
-secured: "Gi4JftlQpUaF6MXKbTRzekKodYHUtHFhvjs4X7aGoEm6x6DtR/9G39lkBSpvRdrFJiVRr9fdOKVfcnpLTHoksSXoK72TTp3PhwJUWmOwQJy5+rZ/kzOPqKHxxEOfGy+tLnWmH+dgf9GvofM0KmJF/6yGjXGcgU/WzxmIU1fvQrJTqazg3IbPN6eRz103VWVzQf3xxACPqcVUyCBka2b7Q1rvmDH+oGfciFBnAK7EwVXGLViiEKh6FmHcNwCokzFaXj1PEiPpJZJa+s3MXM2Xm35HxLGDlw9hl5SMlef4/eGTEJX/oS6zjNx+5cM728EXJ3QEGTRjHmyJb/nU8621KSpe03LvQlvbCsSnvrCzv5FM7NKTuFEdBch0og2oDWnGyA6EQy4mvdsuusKdZ+S6zg==;gKoQmxm65acieSz3aSIBbQ=="
+secured: "Umlh0zAcyD/PhTr5ymsE6iNR4mIk5DDnlYhFquDV2MtuLYbU9YtmLvIxl7+Rrw/fl5ql+FiezGwJLFrt8Fzn3U01xktnZTUAtQTi1+4jd5DiInPsNjl020XKQvutgMIAvYveJGqzso5Ecv815VXB5WKKyQvLseenkfB/0FWo8tE2oJM9F/WhSVHiXOSadBMUt3Py1QLIiFmdMxEmjKmnBLNk2h83NOntqx8a3vNox4sUNItjzzwzuGs0fV8/hZde/HeyWVdXhNxJajKlsK8uUBQyBRKMaUllb2RpBX2vS08EYPF5KwvRm1+EV0o9R6y8Cu/+UZbzfIYekGC3jkR5ueVdN6pt6Y1rlv0BgzZet4qVwBWe+1NIE3/qde/bxJkBFlEJLrgt89phhZx/El+Kyg==;JsWai4Y2NGx6i4A+Ot8VlQ=="
 ---
 
