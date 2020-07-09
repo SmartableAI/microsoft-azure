@@ -24,20 +24,17 @@ images:
     title: "Microsoft Cloud App Security"
 
 related:
-  - title: "Course 40503-G: Microsoft Cloud Workshop: Enterprise-ready Cloud"
-    excerpt: "In this workshop you will create an Azure Cloud Governance plan to advise a manufacturing company of the features available in Azure. You will discover features to bring governance to their Azure deployments,"
-    publishedDateTime: 2020-07-01T21:47:00Z
-    webUrl: "https://docs.microsoft.com/en-us/learn/certifications/courses/40503"
+  - title: "Microsoft Cloud App Security: This software can help you to manage shadow IT and boost productivity"
+    excerpt: "How to use shadow IT discovery in Microsoft Cloud App Security to help remote workers stay secure and save bandwidth. With so many people working from home due to COVID-19, cloud applications have become the way to stay connected and get work done ..."
+    publishedDateTime: 2020-07-09T10:15:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-cloud-app-security-this-software-can-help-you-to-manage-shadow-it-and-boost-productivity/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-cloud-app-security-this-software-can-help-you-to-manage-shadow-it-and-boost-productivity/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-cloud-app-security-this-software-can-help-you-to-manage-shadow-it-and-boost-productivity/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 22
-    images:
-      - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
-        width: 400
-        height: 400
-        isCached: true
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 48
 
 secured: "MSSq/ZAynCNkE4JqbSoqM1zv7x66nbZwIvde4Y4exb5+4ri0pKdzhlc8rqfxIdBsHT90MNrFiHbCAAJG70ceYQ2xlJsTIGwueSR7iNRVBq7Fd6Wt3PVZtSxNhi7rbv5fMh/GtVC0ivGYLaqNZ6Tyw9ShB4Ks4oEaMi8heBCyMr7wZAB7AO1mjVEawJ6/lsN++OErkDzWabEbiuAe7KZW2eXcMABc1+t4zOIbh77ncoc70gTrGn+F3iGip2r9ErJoxGlDshrQJ4dK72o5NL7xPS6W8YP0hzWy10FmmcvlfKzpzQfPOchAvR2FElFqHDVgfwXHHBIJ1lEa/i/2vjNLk1nyJZudsuXpka7NVBAQpe+etLgfN0XFHhUMHB6qq6XEIwPk8CCsJewylCc77HARwTFiUrIeJYsVh62G5FutbxwbxtVkXZsNp9tKW+tnlJi4N0L0uHw1G9BOdEXbIX/heTvXkB82V0N89t7RVSi7D1csAEUvqNGV03FAtWF+IkKcL5Y84cXVXJUB+qv8ArxvIg==;GL5I6OgjyNz/a7pCrZ/Scg=="
 ---

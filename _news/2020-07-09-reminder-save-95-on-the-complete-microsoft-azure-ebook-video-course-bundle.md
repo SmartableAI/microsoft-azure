@@ -1,0 +1,57 @@
+---
+category: news
+title: "Reminder: Save 95% on the Complete Microsoft Azure eBook & Video Course Bundle"
+excerpt: "Just a quick reminder for our readers about the awesome deal on the Complete Microsoft Azure eBook & Video Course Bundle in the Geeky Gadgets Deals store. The Complete Microsoft Azure eBook & Video Course Bundle is available in our deals store for just $29 ..."
+publishedDateTime: 2020-07-09T11:05:00Z
+webUrl: "https://www.geeky-gadgets.com/reminder-save-95-on-the-complete-microsoft-azure-ebook-video-course-bundle-09-07-2020/"
+type: article
+quality: 33
+heat: -1
+published: false
+
+provider:
+  name: Geeky Gadgets
+  domain: geeky-gadgets.com
+
+topics:
+  - Azure
+
+images:
+  - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/07/Complete-Microsoft-Azure-eBook-Video-Course-Bundle-1.jpg"
+    width: 700
+    height: 526
+    isCached: true
+
+related:
+  - title: "Save 95% on the Complete Microsoft Azure eBook & Video Course Bundle"
+    excerpt: "We have a great deal on the Complete Microsoft Azure eBook & Video Course Bundle in the Geeky Gadgets Deals store this week, you can save 95% off the"
+    publishedDateTime: 2020-07-07T12:10:00Z
+    webUrl: "https://www.geeky-gadgets.com/save-95-on-the-complete-microsoft-azure-ebook-video-course-bundle-07-07-2020/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 37
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/07/Complete-Microsoft-Azure-eBook-Video-Course-Bundle.jpg"
+        width: 700
+        height: 526
+        isCached: true
+  - title: "The Complete Microsoft Azure eBook & Video Course Bundle (95% OFF!)"
+    excerpt: "Lead your Business toward success with The Complete Microsoft Azure eBook & Video Course Bundle, featuring over 15 hours of video content and 6 ebooks on Azure Cloud solutions, integrations, networks,"
+    publishedDateTime: 2020-07-08T04:02:00Z
+    webUrl: "https://www.geeksaresexy.net/2020/07/07/the-complete-microsoft-azure-ebook-video-course-bundle-95-off/"
+    type: article
+    provider:
+      name: Geeks Are Sexy
+      domain: geeksaresexy.net
+    quality: 37
+    images:
+      - url: "https://i2.wp.com/www.geeksaresexy.net/wp-content/uploads/2020/07/azure.jpg?fit=600%2C450&#038;ssl=1"
+        width: 600
+        height: 450
+        isCached: true
+
+secured: "ECLz+qLx4mpBr4+cdIhUzN65jPhvCpQ5WbP8Af/ks6uG8AFv1zqK0eRFggnv+N5ZgO0TNYqzFEUQQJ5QUnj6UXt7MlS2LmgIxbr5bQSb9KBKNjbisd2DfZ/nNGE0VBUSETbvhj7zx0tmhdcjNPiumeUMmJnYFUGhkbSdePbHyQ4IffHXPY9MOO8xmKCbzOOHkYIPnInVaQCo5P9Tr17Sm22/h2wQitnf95oT5YZmXM+pxye5KDxhGSxqECnE6pH/b7QC85od6hrLjva8f/jXNX/gFmA9Z6CVctMGC+yJ3K4pLKx3h60mKt9xWCTZsSIinyQm+w3ADSWvcmePn24/IQ==;blAY+BR9YWvaJGaDV6eI8A=="
+---
+
