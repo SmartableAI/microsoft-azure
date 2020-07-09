@@ -23,6 +23,8 @@ levels:
 
 topics:
   - Azure
+  - Compute
+  - Web
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/migrate-app-service-migration-assistant-social.png
