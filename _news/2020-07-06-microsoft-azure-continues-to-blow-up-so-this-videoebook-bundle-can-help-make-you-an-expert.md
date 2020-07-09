@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-06T17:35:00Z
 webUrl: "https://www.extremetech.com/deals/312405-microsoft-azure-continues-to-blow-up-so-this-video-ebook-bundle-can-help-make-you-an-expert"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,36 @@ images:
     height: 558
     isCached: true
     title: "Microsoft Azure Continues To Blow Up — So This Video/eBook Bundle Can Help Make You An Expert"
+
+related:
+  - title: "Save 95% on the Complete Microsoft Azure eBook & Video Course Bundle"
+    excerpt: "We have a great deal on the Complete Microsoft Azure eBook & Video Course Bundle in the Geeky Gadgets Deals store this week, you can save 95% off the"
+    publishedDateTime: 2020-07-07T12:10:00Z
+    webUrl: "https://www.geeky-gadgets.com/save-95-on-the-complete-microsoft-azure-ebook-video-course-bundle-07-07-2020/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 37
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/07/Complete-Microsoft-Azure-eBook-Video-Course-Bundle.jpg"
+        width: 700
+        height: 526
+        isCached: true
+  - title: "The Complete Microsoft Azure eBook & Video Course Bundle (95% OFF!)"
+    excerpt: "Lead your Business toward success with The Complete Microsoft Azure eBook & Video Course Bundle, featuring over 15 hours of video content and 6 ebooks on Azure Cloud solutions, integrations, networks,"
+    publishedDateTime: 2020-07-08T04:02:00Z
+    webUrl: "https://www.geeksaresexy.net/2020/07/07/the-complete-microsoft-azure-ebook-video-course-bundle-95-off/"
+    type: article
+    provider:
+      name: Geeks Are Sexy
+      domain: geeksaresexy.net
+    quality: 37
+    images:
+      - url: "https://i2.wp.com/www.geeksaresexy.net/wp-content/uploads/2020/07/azure.jpg?fit=600%2C450&#038;ssl=1"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "elXbqFCV+DdYZs8lp9GxpBnF4ktR2lFmd4JPX9+iuCBnCKhsdehwFcz6MMJw8Vgs4lwsy18SBWF5v7O/9Tsp5KHInRGA5PSNSi4h1CybdgYj1YOgLeXk9cONO3CwCIYUM9PavOej2z1LULJVfSJ5/UWc6JljlB4n89XeUYIVNe8yYJv89Vm/mjRKooA9Yx/emUtt5JdekHCzYEsV8aww4HDvyCDQ3XNkn5zF4SEbbRiWjnUGiIClmiYxRYIW5azIUdniGnIkuLe3cZFUmP2KS2V/gf/KG5V8XVtVgOIm7k/UVp4XPwRsL5cuUm/TQFVeZmKJ2ZXw6RXNtFQ4p7wpX7mgUCJ5x3XB4+zLOUEGUZweOdKpc1M4EgfMlhvofAcVY7vcHCT0jghmVIJGK+Ru74sybUEERNdYdoNsBJAuQlESqPlsJEJdDX7Dha/mJI4t41Yo1h+Jly0eRHnK4L9VJ+DX6NF7JbaW41ipb98swjVO5tnXCe75F0Uj+Hl1Ou0whz88nDe9mbLa12oRecbnQA==;1PV3iaTM/cqjgDXsA06RSg=="
 ---
