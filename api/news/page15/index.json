@@ -2,6 +2,57 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-02-13-sql-server-runs-best-on-azure-heres-why.md",
+      "title": "SQL Server runs best on Azure. Here’s why.",
+      "excerpt": "SQL Server customers migrating their databases to the cloud have multiple choices for their cloud destination. To thoroughly assess which cloud is best for SQL Server workloads, two key factors to consider are:\r\n\r\n\r\n\t\r\n\tInnovations that the cloud provider can uniquely provide.\r\n\t\r\n\t\r\n\tIndependent benchmark",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/news/2020-02-13-sql-server-runs-best-on-azure-heres-why/index.json",
+      "webUrl": "https://azure.microsoft.com/blog/sql-server-runs-best-on-azure-heres-why/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7ceff60b-0bd4-4867-85cd-61883c401c2f.png",
+          "width": 1287,
+          "height": 482,
+          "title": "SQL Server runs best on Azure. Here’s why.",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-13T04:00:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Databases",
+        "Developer tools"
+      ]
+    },
+    {
       "path": "_news/2020-02-13-announcing-the-preview-of-azure-shared-disks-for-clustered-applications.md",
       "title": "Announcing the preview of Azure Shared Disks for clustered applications",
       "excerpt": "Today, we are announcing the limited preview of Azure Shared Disks, the industry’s first shared cloud block storage. Azure Shared Disks enables the next wave of block storage workloads migrating to the cloud including the most demanding enterprise applications, currently running on-premises on Storage",
@@ -1131,56 +1182,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2019-11-21-azure-backup-support-for-sql-server-2019-and-restore-as-files.md",
-      "title": "Azure Backup support for SQL Server 2019 and restore as files",
-      "excerpt": "As SQL Server 2019 continues to push the boundaries of availability, performance, and data intelligence, a centrally managed, enterprise-scale backup solution is imperative to ensure the protection of all that data. This is especially true if you are running the SQL Server in the cloud to leverage the",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/news/2019-11-21-azure-backup-support-for-sql-server-2019-and-restore-as-files/index.json",
-      "webUrl": "https://azure.microsoft.com/blog/azure-backup-support-for-sql-server-2019-and-restore-as-files/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/eda6a05e-75d3-47ed-88c2-0ae27e75ec3e.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Azure Backup support for SQL Server 2019 and restore as files",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-21T05:00:16-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Storage"
       ]
     }
   ],
