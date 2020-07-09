@@ -1,38 +1,35 @@
 ---
 category: news
-title: "Alaska Communications brings locally hosted Microsoft Azure Services to Alaska"
-excerpt: "Alaska Communications will bring locally hosted Microsoft Azure Stack Hub cloud services to Alaska. Alaska Communications used Azure Stack Hub to enhance computing by offering greater flexibility and reliability."
-publishedDateTime: 2020-07-02T08:04:00Z
-webUrl: "https://www.telecompaper.com/news/alaska-communications-brings-locally-hosted-microsoft-azure-services-to-alaska--1344916"
+title: "Microsoft continues to build out its Azure Cognitive Services API family"
+excerpt: "Microsoft is adding a new healthcare-focused text analytics interface to its family of AI programming interfaces, and it's making generally available Custom Commands and Form Recognizer APIs, as well."
+publishedDateTime: 2020-07-08T15:01:00Z
+webUrl: "https://www.zdnet.com/article/microsoft-continues-to-build-out-its-azure-cognitive-services-api-family/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-continues-to-build-out-its-azure-cognitive-services-api-family/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-continues-to-build-out-its-azure-cognitive-services-api-family/"
 type: article
-quality: 13
-heat: -1
-published: false
+quality: 96
+heat: 196
+published: true
 
 provider:
-  name: Telecompaper
-  domain: telecompaper.com
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
+images:
+  - url: "https://zdnet4.cbsistatic.com/hub/i/2020/07/08/780add4e-19a4-463d-8d25-3a96f4f2afde/cognitiveservicesmicrosoft.jpg"
+    width: 781
+    height: 494
+    isCached: true
+    title: "Microsoft continues to build out its Azure Cognitive Services API family"
+
 related:
-  - title: "Microsoft continues to build out its Azure Cognitive Services API family"
-    excerpt: "Microsoft is adding a new healthcare-focused text analytics interface to its family of AI programming interfaces, and it's making generally available Custom Commands and Form Recognizer APIs, as well."
-    publishedDateTime: 2020-07-08T15:01:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-continues-to-build-out-its-azure-cognitive-services-api-family/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-continues-to-build-out-its-azure-cognitive-services-api-family/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-continues-to-build-out-its-azure-cognitive-services-api-family/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 96
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/07/08/780add4e-19a4-463d-8d25-3a96f4f2afde/cognitiveservicesmicrosoft.jpg"
-        width: 781
-        height: 494
-        isCached: true
   - title: "Azure AI: Build mission-critical AI apps with new Cognitive Services capabilities"
     excerpt: "As the world adjusts to new ways of working and staying connected, we remain committed to providing Azure AI solutions to help organizations invent with purpose."
     publishedDateTime: 2020-07-08T08:00:52Z
@@ -89,7 +86,16 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Alaska Communications brings locally hosted Microsoft Azure Services to Alaska"
+    excerpt: "Alaska Communications will bring locally hosted Microsoft Azure Stack Hub cloud services to Alaska. Alaska Communications used Azure Stack Hub to enhance computing by offering greater flexibility and reliability."
+    publishedDateTime: 2020-07-02T08:04:00Z
+    webUrl: "https://www.telecompaper.com/news/alaska-communications-brings-locally-hosted-microsoft-azure-services-to-alaska--1344916"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 13
 
-secured: "gMaYUwpVyy4GCI9NS0uAbXUAp/iXmgcRxDoY/MBNMPl8pAQkmug1L7Zp2TjxMW2zEYWRLMh+gREbviCmA+hSTARtNxqwmMhUXIbegW24/lUX8+KD6ZwwHvAKV3fPu9b/kSyT6K6j016tL5CWCMGFwUxpDiC+VR5jIqgnf7FInQub+zG3+polc0K/OHJbgoStvZGbjZv9ypSmmAOdF06wb/sQmPLuhypU8CB/8qp8udrpy7NQGtWiKsNSP1+cyseaFByvgdFdW9PWLvfBA/l10DXDBBBT1l5ePbmOn/MkYdWK2vDJY+azZfiCVAslg1M2cvpXhcqKbRisWN9FoUz/aw==;F5+9Oogpf1uGtkERPrLOPw=="
+secured: "1uv3otVrHMui+R7hLWZQdz6iSzTahWvg/MZIDIwt4Jl3bhOmc9iVBfz5T4zZlvy5vxA5MR1PAEddCxgHg4Ao4bkDCu1tu2DA+cGoC9ZoQPqkPWJNCqIEubgO2eCF3ckGjBKWFsMUxNCcJLoQBnZyT82grjuJwyqzKjck7/TJOkFeEhXlF0wSld+h8mN5PH1UiiVqB0YUSJJPe0agwTHuhIFK5FBQ07hqKwABYuPbGOP0tHIJXNTo0kgeT696ZeMre6Ul5thouwTQfEn2U1OSuz1Xhpc1Z/BsaxifMIWgBBQAeeGiPXw8Z54xMXCgDpjVJrrgle+/qeDlx1TUtjmAIA==;6+78303lZ2UGo8lBTfjItg=="
 ---
 

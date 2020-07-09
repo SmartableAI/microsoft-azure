@@ -38,20 +38,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Microsoft Azure Continues To Blow Up — So This Video/eBook Bundle Can Help Make You An Expert"
-    excerpt: "All together, faithful students could expect to spend over $700 for all this training. However, the package is on sale now for only $29.99, less than $3 for each video and ebook."
-    publishedDateTime: 2020-07-06T17:35:00Z
-    webUrl: "https://www.extremetech.com/deals/312405-microsoft-azure-continues-to-blow-up-so-this-video-ebook-bundle-can-help-make-you-an-expert"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 26
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2020/07/sale_29760_primary_image_wide.jpg"
-        width: 992
-        height: 558
-        isCached: true
 
 secured: "MZlyWexOZG8E8wli2GfQIDWD/lc9/jdoPN2wLwTD0dOupzTTTuoAQXkBcHZXsiC4iDRYEc2ItrdmHSLGp/lUm1JSEziv2t+V8dE48iCZ+X66YldAPQKcDzOGPWGWROGLq1ueT7w9+Z8BY+F/8hMrpU8K8dEo9LcxUzRdC/tI0Nxdmi5fNhRMrQQDuctBi5CfSnofE7Y0uFhB9xk+HBsBKXmsAAce5xeU3yIO1E7Zm1/mHqEzy2sfie4GFgKypkuql7EVfvYOKEboDrjq7jAJiRiehr4e2VJ2Uce/a6TR3j1gHlaKUQfROtpKMyM2Gp02j4FLAlubgO8YEaoG5SSpRQ==;GeQvtldGg6Kv8dkkEBv9YA=="
 ---

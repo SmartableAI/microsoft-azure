@@ -1,20 +1,27 @@
 ---
 category: news
-title: "Alaska Communications brings locally hosted Microsoft Azure Services to Alaska"
-excerpt: "Alaska Communications will bring locally hosted Microsoft Azure Stack Hub cloud services to Alaska. Alaska Communications used Azure Stack Hub to enhance computing by offering greater flexibility and reliability."
-publishedDateTime: 2020-07-02T08:04:00Z
-webUrl: "https://www.telecompaper.com/news/alaska-communications-brings-locally-hosted-microsoft-azure-services-to-alaska--1344916"
+title: "Microsoft adds more APIs to its Azure Cognitive Services for developers"
+excerpt: "Microsoft Corp. is adding more Cognitive Services application programming interfaces to its Azure cloud platform as it continues to expand its array of artificial intelligence services."
+publishedDateTime: 2020-07-09T00:07:00Z
+webUrl: "https://siliconangle.com/2020/07/08/microsoft-adds-apis-azure-cognitive-services-developers/"
 type: article
-quality: 13
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Telecompaper
-  domain: telecompaper.com
+  name: SiliconANGLE
+  domain: siliconangle.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/16510342158_185f09969a_k.jpg"
+    width: 2048
+    height: 1365
+    isCached: true
+    title: "Microsoft adds more APIs to its Azure Cognitive Services for developers"
 
 related:
   - title: "Microsoft continues to build out its Azure Cognitive Services API family"
@@ -61,20 +68,6 @@ related:
         width: 304
         height: 430
         isCached: true
-  - title: "Microsoft adds more APIs to its Azure Cognitive Services for developers"
-    excerpt: "Microsoft Corp. is adding more Cognitive Services application programming interfaces to its Azure cloud platform as it continues to expand its array of artificial intelligence services."
-    publishedDateTime: 2020-07-09T00:07:00Z
-    webUrl: "https://siliconangle.com/2020/07/08/microsoft-adds-apis-azure-cognitive-services-developers/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/16510342158_185f09969a_k.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "Microsoft Azure Continues To Blow Up — So This Video/eBook Bundle Can Help Make You An Expert"
     excerpt: "All together, faithful students could expect to spend over $700 for all this training. However, the package is on sale now for only $29.99, less than $3 for each video and ebook."
     publishedDateTime: 2020-07-06T17:35:00Z
@@ -89,7 +82,16 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Alaska Communications brings locally hosted Microsoft Azure Services to Alaska"
+    excerpt: "Alaska Communications will bring locally hosted Microsoft Azure Stack Hub cloud services to Alaska. Alaska Communications used Azure Stack Hub to enhance computing by offering greater flexibility and reliability."
+    publishedDateTime: 2020-07-02T08:04:00Z
+    webUrl: "https://www.telecompaper.com/news/alaska-communications-brings-locally-hosted-microsoft-azure-services-to-alaska--1344916"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 13
 
-secured: "gMaYUwpVyy4GCI9NS0uAbXUAp/iXmgcRxDoY/MBNMPl8pAQkmug1L7Zp2TjxMW2zEYWRLMh+gREbviCmA+hSTARtNxqwmMhUXIbegW24/lUX8+KD6ZwwHvAKV3fPu9b/kSyT6K6j016tL5CWCMGFwUxpDiC+VR5jIqgnf7FInQub+zG3+polc0K/OHJbgoStvZGbjZv9ypSmmAOdF06wb/sQmPLuhypU8CB/8qp8udrpy7NQGtWiKsNSP1+cyseaFByvgdFdW9PWLvfBA/l10DXDBBBT1l5ePbmOn/MkYdWK2vDJY+azZfiCVAslg1M2cvpXhcqKbRisWN9FoUz/aw==;F5+9Oogpf1uGtkERPrLOPw=="
+secured: "RkaTaELtlJbWUSfGjqqhlSh6wXvMsSh01VdsfMGuw09MtpqmlQC/0g1u65H++zF7lxHp8uPonvuuTUJ43JNZQ6XQFTqOQwKknAphzPgKI8N/7TpWkUiUSlTWWtAwry+BXikpSw/MpycMMDDpZcMvEz71fu4jjVN8Yt0pTdz54piVwT0lOuulixrYV8wzRw/KFoBsadV+A+eFVbiYmaSgkxw17HnRXCa5uMxQWyULocGpKiBKczcMFqSDQqPTUsrm3STEsVBHxfOJfsO6ggQ3MChfEZ6yio8u2O8pOWPCiJQYKD2twXbAf5bhmkp5apXILMJu+kO9QPKdCrV/dKolrA==;2l10RmkalG+zwYLFK59lMw=="
 ---
 
