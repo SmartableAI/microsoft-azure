@@ -2,6 +2,46 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-24-azure-sdk-for-embedded-devices.md",
+      "title": "Azure SDK for embedded devices",
+      "excerpt": "The new Azure Embedded C SDK is designed to allow small and embedded devices, such as IoT, to communicate with Azure services.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/news/2020-06-24-azure-sdk-for-embedded-devices/index.json",
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-sdk-for-embedded-devices/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-24T09:00:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2020-06-24-create-a-formula-in-azure-devtest-labs-using-a-shared-image-gallery-image.md",
       "title": "Create a formula in Azure DevTest Labs using a shared image gallery image",
       "excerpt": "Your customers can now create a formula in DevTest Labs using a shared image gallery image. Formulas provide a dynamic way to create virtual machines from the desired configuration and settings. Changes in the environment can be captured on the fly via artifacts.",
@@ -1077,46 +1117,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-zixi-deploys-broadcast-services-on-azure.md",
-      "title": "Zixi deploys broadcast services on Azure",
-      "excerpt": "In the latest example of a broadcast technology firm inking a deal with a major cloud platform provider, live video over IP and software-defined video platform provider Zixi ha ported its solutions to Microsoft Azure. Zixi says that by deploying global ...",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/news/2020-06-16-zixi-deploys-broadcast-services-on-azure/index.json",
-      "webUrl": "https://www.rapidtvnews.com/2020061658654/zixi-deploys-broadcast-services-on-azure.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rapidtvnews.com/images/2020/June_2020/Zixi-ZEN_Master_Azure_16June2020.jpg",
-          "width": 600,
-          "height": 423,
-          "title": "Zixi deploys broadcast services on Azure",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.rapidtvnews.com/2020061658654/zixi-deploys-broadcast-services-on-azure.amp.html",
-      "cdnAmpWebUrl": "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2020061658654/zixi-deploys-broadcast-services-on-azure.amp.html",
-      "publishedDateTime": "2020-06-16T13:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rapid TV",
-        "domain": "rapidtvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
       ]
     }
   ],

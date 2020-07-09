@@ -1,44 +1,47 @@
 ---
 category: news
-title: "Adverity Now Available in the Microsoft Azure Marketplace"
-excerpt: "Adverity is a leading force in intelligent marketing analytics and business-ready data. Marketing data is a critical asset in helping businesses pivot, adapt and grow, but data complexity is hampering success due to the lack of understanding and ability to incorporate meaningful insights into positive outcomes."
-publishedDateTime: 2020-07-01T15:37:00Z
-webUrl: "https://www.exchangewire.com/blog/2020/07/01/adverity-now-available-in-the-microsoft-azure-marketplace/"
-ampWebUrl: "https://www.exchangewire.com/blog/2020/07/01/adverity-now-available-in-the-microsoft-azure-marketplace/?amp"
-cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2020/07/01/adverity-now-available-in-the-microsoft-azure-marketplace/?amp"
+title: "Accelerating ATO in Microsoft Azure"
+excerpt: "While your cloud provider manages security OF the cloud, security IN the cloud is the responsibility of the customer. During this on-demand webinar, Microsoft Azure’s Chief Information Security Officer for High Security Clouds, Mr. Richard Scher ..."
+publishedDateTime: 2020-07-09T03:51:00Z
+webUrl: "https://www.infoworld.com/resources/205509/accelerating-ato-in-microsoft-azure"
 type: article
-quality: 57
-heat: -1
-published: false
+quality: 77
+heat: 157
+published: true
 
 provider:
-  name: exchangewire.com
-  domain: exchangewire.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.exchangewire.com/wp-content/uploads/2019/12/adverity-logo.jpg"
-    width: 400
-    height: 400
+  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+    width: 300
+    height: 300
     isCached: true
-    title: "Adverity Now Available in the Microsoft Azure Marketplace"
 
 related:
-  - title: "Accelerating ATO in Microsoft Azure"
-    excerpt: "While your cloud provider manages security OF the cloud, security IN the cloud is the responsibility of the customer. During this on-demand webinar, Microsoft Azure’s Chief Information Security Officer for High Security Clouds, Mr. Richard Scher ..."
-    publishedDateTime: 2020-07-09T03:51:00Z
-    webUrl: "https://www.infoworld.com/resources/205509/accelerating-ato-in-microsoft-azure"
+  - title: "Adverity Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Adverity is a leading force in intelligent marketing analytics and business-ready data. Marketing data is a critical asset in helping businesses pivot, adapt and grow, but data complexity is hampering success due to the lack of understanding and ability to incorporate meaningful insights into positive outcomes."
+    publishedDateTime: 2020-07-01T15:37:00Z
+    webUrl: "https://www.exchangewire.com/blog/2020/07/01/adverity-now-available-in-the-microsoft-azure-marketplace/"
+    ampWebUrl: "https://www.exchangewire.com/blog/2020/07/01/adverity-now-available-in-the-microsoft-azure-marketplace/?amp"
+    cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2020/07/01/adverity-now-available-in-the-microsoft-azure-marketplace/?amp"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 77
+      name: exchangewire.com
+      domain: exchangewire.com
+    quality: 57
     images:
-      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
-        width: 300
-        height: 300
+      - url: "https://www.exchangewire.com/wp-content/uploads/2019/12/adverity-logo.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Alaska Communications Brings Locally Hosted Microsoft Azure Services to Alaska, Increasing Security and Improving Latency"
     excerpt: "Alaska Communications (NASDAQ: ALSK) will bring locally hosted Microsoft Azure Stack Hub cloud services to Alaska. Alaska Communications, one of"
@@ -83,6 +86,6 @@ related:
         height: 300
         isCached: true
 
-secured: "FIkHyjWsmZ5iJgVQgNiHaKkbV7/AxQxPcVeESOyCNqFRaynmkDj2Wz/OUR7BYHW3zQKS742RAic8DQh3rn3+SMM/oRb9M5sz8WoRQNA1ZhEHfnIOLIebtX6sC5em2QMtv111zzNG6Fh+GYinWICCn9fDrQoavz1C5Wh+F71Yut5z+fIKudQFpkXzJwE6z9TrLbfRnl/KTMrCiNhWWXIGbYMuJwX0mzRfEqc6XNraD+ByRR+j8fPMnOukhC5c8WP4UcjCsugIWK+KSfzoBkDU9RQtCX4layYliwDRD18E7IGh1K64/6lSWpIknlr2E2VHxHQp7D610cqBkjAbmE0kNlTYaSXch8hbzzjhN3B1X33ThTok/d9buIrY7jnUmHiv1Rob243Mepy0dD43t2uXiVoajN3o6ORKp2Driwc2K1dAZYBRvURyJ9N0g0nzLsK72CGWblnyL+C+P91orqJSSYYIYsEsyroTknQGHK82HTaamztU9V1B/xnU53i801xtWgtPGc06kHP9npZS2RxCaA==;1hsjF0sjDy4yyV3neTDnxw=="
+secured: "CAHN0oo6bF591HD40P51/MGvpgw8h92JG4335wZOjL1yr9f3z1wrstAtqMuZSBxiFLB/H4HFoUTcUH61LhUskAlSNT2xTd/dUFvb7ur9TJ5C3CtL6kJqXTm8rDP1yF2+JwmUd5b0g7e7WWAgpw5Gf6XYjdlCJYBq3PFnNcu0JI5078YY2mp6py/wLFqzrDXQGdZNPVVILNmA4xhJTqUa23kV7EeilxPSDZwVC9dE6WRXjgME5DlpAKb/wG4hzkKbVSyMugCddJ6xHmflb6JX6ebdQtJIQM5o7rpyRPOEgCMb2ltK8FXjW313ERUEoaGf7nL/C4Ea5oKuTXGFsPhS7Q==;qITbq2SEQknmkaJ3P4ZSxQ=="
 ---
 
