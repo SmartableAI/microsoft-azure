@@ -38,6 +38,20 @@ related:
         width: 700
         height: 526
         isCached: true
+  - title: "Train to Land an In-Demand Microsoft Azure Job with The Help of This Bundle"
+    excerpt: "15+ hours of video content and 5 ebooks can help get you up to speed on this cloud computing platform."
+    publishedDateTime: 2020-07-09T20:28:00Z
+    webUrl: "https://www.ign.com/articles/train-to-land-an-in-demand-microsoft-azure-job-with-the-help-of-this-bundle"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 35
+    images:
+      - url: "https://assets1.ignimgs.com/2020/07/09/sale-29760-article-image-1594323751475.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Reminder: Save 95% on the Complete Microsoft Azure eBook & Video Course Bundle"
     excerpt: "Just a quick reminder for our readers about the awesome deal on the Complete Microsoft Azure eBook & Video Course Bundle in the Geeky Gadgets Deals store. The Complete Microsoft Azure eBook & Video Course Bundle is available in our deals store for just $29 ..."
     publishedDateTime: 2020-07-09T11:05:00Z
