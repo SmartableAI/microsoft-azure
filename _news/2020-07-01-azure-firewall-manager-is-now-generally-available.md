@@ -25,7 +25,6 @@ images:
     width: 1024
     height: 367
     isCached: true
-    title: "Azure Firewall Manager is now generally available"
 
 related:
   - title: "Azure Files share snapshot management by Azure Backup is now generally available"
@@ -174,6 +173,6 @@ related:
       domain: microsoft.com
     quality: 59
 
-secured: "0ESrHYnf6XkLddr9iCc/EUL5ZC9PUyLxghV7qJyeBd2spMTPF5jUrcyVHHYMGIcjXeOH6tR4rSH/qJ8lpOOqN4TtTtl0ywsabyG8HndrUQr/rXespZkFeuaYoKFosss927a6Jy1rTWbyb/Ig+J0WQ8j5fs1gVb2+RVY6I6sNlb5k92nqFooV/vQhX53E/s3dgFhnL3rEWAdHoI8oLqpf17cI0RUQldkhMEq1BsVgE486wj1Z9B/DpkpALH69ROQ2j9vcMDCTNNtU1SKNvu3pQS83M+hNARdouVO3o41KLL8tU6J38OlCnmVmrKaxWdVuYd/Lczegwoe+l8ZsCu+Kig==;bI/SKkhs8NXYN6owHvhluA=="
+secured: "xhZCyFw/Yt3qTrdxWCJi+CdOz7HuUlxYc1qjYRYid1gHCplX/Sy60EOIujHe/2XmeP7UQQ3yhgegO6fm1dXUbJTVZAkQFO51sCHUrC18mZZfGvSvlhA6cS/IG8ceyaq9Ju25uIGGgb+xbSx1Y2hOkhQHfCApuEGRFBr4EaG9dcjjW9WaXaymuXRgUxg4gUNk0ycTmsZXFUwP3XMsvBToHJ3qkwtVRMtmI9HUA8PDEBkjNVeJ4VWArsdeEpLiyG/ASzDcoKb138nRD4uH2tebloL85+m98poNmZOc1ssIkYc3y126JWOOzYLnGEsik99eN1qnOlRPeEtz2HMzpC/duQ==;KHHAZ3koNtG8Fb8vFryujQ=="
 ---
 
