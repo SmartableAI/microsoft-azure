@@ -2,6 +2,46 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-09-azure-private-link-support-for-azure-automation-is-now-available-in-preview.md",
+      "title": "Azure Private Link support for Azure Automation is now available in preview",
+      "excerpt": "You can now use Azure Private Link to securely connect virtual networks to Azure Automation using private endpoints (in preview).",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/news/2020-07-09-azure-private-link-support-for-azure-automation-is-now-available-in-preview/index.json",
+      "webUrl": "https://azure.microsoft.com/en-us/updates/public-preview-private-link-azure-automation-is-now-available/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 135,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-09T16:00:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-recorded-demo-5-azure-data-backup-best-practices.md",
       "title": "Recorded Demo: 5 Azure Data Backup Best Practices",
       "excerpt": "Watch this interactive product demo to learn more about how NEW Veeam Backup for Microsoft Azure delivers enterprise-ready Azure backup and recovery to cost-effectively and securely protect your cloud data, including: An introduction to Veeam Backup for ...",
@@ -288,46 +328,6 @@
       ]
     },
     {
-      "path": "_news/2020-07-08-distributed-network-name-for-sql-server-on-virtual-machines-is-now-available.md",
-      "title": "Distributed network name for SQL Server on Virtual Machines is now available",
-      "excerpt": "Support for distributed network name (DNN) for SQL Server failover cluster instance (SQL FCI) on Azure IaaS with SQL Server 2019 CU2 and higher is now available. ",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/news/2020-07-08-distributed-network-name-for-sql-server-on-virtual-machines-is-now-available/index.json",
-      "webUrl": "https://azure.microsoft.com/en-us/updates/distributed-network-name-for-sql-server-on-virtual-machines-is-now-available/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-08T09:00:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_news/2020-07-08-simplify-and-modernize-your-java-and-spring-workloads-with-azure-service-bus.md",
       "title": "Simplify and modernize your Java and Spring workloads with Azure Service Bus",
       "excerpt": "Seamlessly lift and shift your Java and Spring workloads to Azure while also modernizing your application stack to take full advantage of the benefits of cloud computing. Azure Service Bus Premium tier now has feature parity with Java Message Service 2.0 over Advanced Message Queuing Protocol (in preview).",
@@ -398,46 +398,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-azure-load-balancer-support-for-ip-based-backend-pool-management-is-in-preview.md",
-      "title": "Azure Load Balancer support for IP-based backend pool management is in preview",
-      "excerpt": "Azure Load Balancer now supports adding and removing resources from a backend pool via an IPv4 or IPv6 addresses and virtual network ID. This will enable you to easily manage the containers, virtual machines, and virtual machine scale sets associated with their load balancer. It will also allow IP addresses",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/news/2020-07-07-azure-load-balancer-support-for-ip-based-backend-pool-management-is-in-preview/index.json",
-      "webUrl": "https://azure.microsoft.com/en-us/updates/previewlbip/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-07T13:30:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1154,6 +1114,46 @@
         "images": [
           {
             "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-azure-pipelines-now-supports-linuxarm64.md",
+      "title": "Azure Pipelines now supports Linux/ARM64",
+      "excerpt": "Azure Pipelines now supports Linux/ARM64, as was highly requested by the community. Other key features to enhance the overall user experience are also now available.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/news/2020-06-24-azure-pipelines-now-supports-linuxarm64/index.json",
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-devops-pipelines-introduces-support-for-linuxarm64/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-24T11:00:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
