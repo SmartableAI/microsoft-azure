@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 39 mins
 ratings:
-  count: 117891
-  average: 4.6937594
+  count: 117911
+  average: 4.6937604
 heat: 185
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Create an Azure account"
 
-secured: "N8YGB84dtv0Y3eAREWRuO40A08nbd9eVsOSjkIhJx2Kr3uzZH6vjdSC7lOiwyexNcboXQvB8MVQ0HtWxDEp9usb0eJ/Mb61GFZ4sIv5zvdzPlljGALF1Yo9gH7KGDqSf5jhzdYmFonEYWfqyTLDhThq0oPJ1360xenqkgWeuuB9/OQnxTP6NQXI8b+hE7zVgKGqcpvciHCF22+oKVezpqgsvofECDFkiLki82auI1fQ6wPljZprFuE+Ak3YBiphYvWXTNUGA5QtjTogFVJQYjrkGvktuBm1x8m9eFJZhnQyI4ltJfC/lh9kp4WAZR/BWnlL5lxlsNr08JUZVdMwwDVWm6lHufilrMEzK9K2ppFPP22Iio8ET4JlyJu/z5nX0KL7gHpPlG3aIkvFF4FV+pGfFJ1T/7VVMIl7Z3SNMfO0=;nxAWPBXMoFZMHMGYHkJu0g=="
+secured: "ssQKF4aTvPzVFMbbfDEB6i5QAJZP1OObS884BudYd3phWv4YzlBXNLV7v3wgPQpdGo9oZ+kZF4wSjCnJOXUCfB+xTo/UzGuwcolK1dOVjQMUSaeENlYne2vVXnh5csJ3M867GUQR7r3Xj7axAP2GyKL1s3KEu8WamOKyA2178ZA+Cte01eMKiRfhyGdnyQEd+fQDquAQZv4O2VGXUGbBg6BeLdBewQD9FgcQALWHYV9hVfsUKzi1CIRQz0lju/LcbkA5W5pKuyba/+r9jgAVD8L3TMA5GmCIvMbpRxTaCGttMepMnOWaLs4pdHTbE++bMdjYzhqaXYg9F104gDoTXmaaqaBWxZzKrCbEkPvdSDhyxKSvUKvaVHdfEihunVPn3PM7mK8bQLmE1Udf74jHanbfUVYUC7hpl4Cpup1c2Hg=;jvitqAM3Zr18eQpA6zGL+w=="
 ---
 
