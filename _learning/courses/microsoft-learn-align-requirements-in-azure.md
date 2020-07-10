@@ -8,7 +8,7 @@ length: 35 mins
 ratings:
   count: 5070
   average: 4.7351084
-heat: 65
+heat: 64
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Align requirements with cloud types and service models in Azure"
 
-secured: "7L6KUsRkAJHDKnyUVvdF3OSrlI6yKWYP+jwPCcEMadbiCrrNBFw/wazHgCRqpAwgqLqx3Vns2hxtetHpAusy/qx4f1Zeedu1U0x47WAxKaDib+DimBvCRS0hCQ/BFA9kxBMD2toe7MEuiFdIjigAERTzO0XM97Hcw8cgL9GQXkm4+jW4BvH6nIsRTECE7rtRq3fU5XVpWkoN32gYvdXbv6kYNUOZooaW2q2roJJZAkCW2apYRe+3K6WHR+vwR8SBnXYf3Afhmj+4qKO/woKx095whfUACyNCaEAHcBHaGG4b/PwaUTUNKfaBABou9B2lMpbp+VE/H3tyaZVPCuIaIGbbCMcsHzWZeb1s1SwSX/C8suoHB3qwBVmI39e2mp8Uy/grkz0Tk36y2XgAiPsl2Q==;DJ9u9u0yoYxbyljQE5Dwvw=="
+secured: "EMUTuN6QwCBA/wI+rAx2BTBBq/h1OHmc3n91GVbnYSnCOIBNpXYA50sEKoPHPW6FW5LpdW7wzIN/qqxXA19k5MlK28fepoF1kfTyTNhpkZVn8KZScuV7D2Gq0PHdICpD+ztqm/+OKWxH+B70OigH1BRcwKZQCzwLtI4qVhREtJafxw3J9mCcfxvrtW4IqFJ9t/2RD9cg/4DO+YN307nDypIHpsaYP46yvsAUxV9k/JbuQ/ZL5KdvfBrseDH0fJYkUPYfARUqgSybOhYdtPdjy+jcUYMt7oyw8PH0KoHazR4Uynp+O+LBTbUnrLfGH6pbipK7jK4aEXupboJ7LTPBjXh2nU1l76C/4z4YPWM0Qv4ZOThuw8Ldc3wzA3qlUJaOsaFy7+5N4xBW2W6LBApdCQ==;YLUXDZpsjcw8hHOvBX1BqA=="
 ---
 
