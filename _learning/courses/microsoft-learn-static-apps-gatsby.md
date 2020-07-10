@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Create and publish a static web app with Gatsby and Azure Static Web Apps"
 
-secured: "6hE3qq/Q3qq9qbnRDiCifhmzr9HqatbhbKQptyChHbsdo6UlvccuWRgAX9egn4gR0OoYIva+pSm1K++4QSpBUq5cH//aQQK+RWXjPzYoZaGcv8UF6zvEEVDM1dQxD8ppQNt0L+KfCALeG9ynb3aMtXUV/ENI22yuTuQlYC+v+7EnVJtDnOci6XqGcT/x328Cqg2Rl+Do8rBVJ9i14j2bIl/5LAD/UmrjM6wwMosfFfOqCM40kRWBlR8gthFQPDzZJBnD07mpV6FtNkFCpaF/nQ/QLsnzf/zgJ6FfXeKpXysfHzb7LUOvE+DT/e+ZOY6PCa9FaEQMhbl7u3RwQfcEqnmfly7mFvm2oev0RNPlHj8r/zc/Wef8c7wYSVd72bEU3ngfZBbPgYbQoZp7hCILng==;T7FbE10sa3yP2fycF0CxDw=="
+secured: "fMvC7E/c7k0DofDXFLvyc8X+I4qYzY9hvL8c7JXfDcg9lyoKC8gAUQq9inQEWK3nLDV5ujG5CTzOeETaHTp0erg9MDR4didCpE5hPKsUVoKckPiFiSgIMx8IICMHCXzILsWfgkUZbDD5+EezhOaa4zYfuVs1YodwCh6FldnZGlT9ijB+lrjY2ordTA7BjKSv41sYcKfPFL6HuMvTKu/ECnr601Cdj5uSY7bPhHq2jPtRpETEq6TSz6PDM1uD0qPwiwFtbhFPdGVMs2syP+89q4k0HAyOXzm+kwFPPtOKA5V0mA/mVSShEEPouAkfZUI00t9//i/MDzOQX+gxkLepQOStl0H3XIdcGQQwLuSBS4ZHRC/AoTWnuBHyLJ6av3qAvvn6tIBbl8F6F4beP1eCEg==;VppptqWjmnCw4TaL0SKnhw=="
 ---
 

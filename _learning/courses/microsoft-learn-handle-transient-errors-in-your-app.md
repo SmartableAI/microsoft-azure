@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Handle transient errors in your app"
 
-secured: "c3+Tya6c1PeAEmxIhW1rTpHyUOjhQtQ1O9r7//NhCZSDIgyzWGMBwGRFZvxJyitf/7uayGO9yA+H1hXAkuTWVGR3Uy5ERzPIm9v0Zk1Zv+WIDJuSRotN8XDypoPg/JpWf6nhFug9juF4cL6/Lhbsafrxj216hNRtR5lFqBICKfv853a22JQrzWYSUgJUmPypK7VnRE4VlAs/mIN80eFOvdBf9a4liGzNhD6P0xTO9hhBf2z4u4AN4nz0CD2ZodygtamfIFc2RLkDonLWaI3RsxM9wRqt4/9eP8F+Dwhgdjz7aae8NtBhpdpDKCeU//azShb90U2CUj1u6GP7nrwZX3m9WAmHBy/goP1/JT1jQbOVoOWqHgdKAePJsm2vPHmM5PGAApAovs9Hlew4inzi8g==;yoYlVuj0LZtoXGhD6q94nw=="
+secured: "7uFTtGMEdhYHEtJ9UD+Tx/U+dbj/OY/wMghcfvOwQSFmJydk9jEpbdff9DkGe0Bizil3STk08/PV6aLhAZPfuAUO/84tS+KU5yHCJxbXadmzaA0N8GS8auXa+sKj7gIBcUO2ENoREyFfsM53Rv/+oIkTxffNXTQPJnJx/e5p1Z93jIPSJ8iAjbjT57/kctQj6gko8j82gfoZ49VmbXEWrEgmzJLynCHJ9M4SY5hTV+2cCYi3imK3YhxcRYEaa+FNSrwHr3Rkt/07qjSmyO8thf4kTdTL0pOq2FPhpFbJ52oAJnO1ugKiOI0kUJg6OxIrg+OLhHlghFEX0CET1MwIb3oXeNd9jjipdDmXA8yI7x+U8mmEj+Tt0jy4cCRYOQA4GacN3dAvkOCHhVLeg6vX+w==;pqCY/scbk3XBPIM2LeWXhQ=="
 ---
 

@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduction to Bash"
 
-secured: "abAh8uN6sSkhDJVR/abWAq+tjbnGMAwvUy146hXX+xle95w/dMlUFCgre1qA9ykkjhxXAV1vbGgLHqltymdMhQ/Ye0gimRg/4mpJyy0fLgEHNvPu5ZkfU/tlSZgOjdnfBSxGmANgOxuDReDFcWVg4dp2F48cO3rmNsW8Twd6//VW57fgqxelm2nWru/s3go9UhkTVQ9/v1yzQG+V2AeutVox5WZ5XrSO3EZhG9zYbBRh1SQW6bMUfJW+Ub+eYMriNh00+rApy4YliPFeOxijRf8+rcIomBSelDdrwSic123JNocgmqVlSKzq8PHmkizE4aujc6zI2gTF1HJPoQD9UgNJVxjbqLs5UmjQ40J1jbjiPWfhp6VA/Fv/3h1Aow4R4oP3PMThofD1AbmDG9TO7g==;+6lRvk6ay8y6ZDf5LjgSBg=="
+secured: "zbX0ERVPAZrGcQt+GnEW/Dio2rIv/9tSmHPxulHWMYhZ5k1H4ljbGNgwesqY3SfZDUEd6fdkDLoej+bTfG+cCsHM8y5iOn3KqQxEMNjswDnM24MzQQ5hIgINfJRwlP5MJxxKKk472tl+3eh0igdhZgTWyfzTbgQaQFCQZ0K2xU5Z9pSNXyU3HJW9ekYbU/16eGKhZsgznwb+0R/LeVxTXPQrJEgPZUV+LM/eDjca7h6zj5yZaVetAWn2SgePLEBRP1b0Fu5lu9aSP9KXVMkKZ22ojC/SjiX7VBXj6jS1KKliFeZAluAj6heaJR/TPopCmXKU9adJWI5penJbByZQe3q0/fSrs/h/amy5BCyQ3HnLUy+eVHtIpyTgB1mCkSdYVa7PbhqkjLaej9cP1oqKBA==;8KBn95rSOuPGFHsQrd0sFQ=="
 ---
 

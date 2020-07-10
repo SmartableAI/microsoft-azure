@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Process streaming data with Azure Databricks structured streaming"
 
-secured: "6kocKdX/AG/cCTehxVC05Git3w+XvSxU3T7mCPpegoOGxczrUD848RKTz+dfaru18qAxCpFVhm/uQ600WFBnu+8Lh78ffY9BJhbwMLVxOFZ7P0C+AqBGiSi+jcjBAfEq+WdtqoVhugPgzkOffzU0+PMEDodDKvwA4lf9YP2Hxc04iXXf31In8URR6sex2KiZ5jax53Q+/+ztzYk044SZxt/rwlbAuNojJdiMUxNzYwEzx7VuqpapTR+aYdVkiNMExhFav/PaxQiqHkmhxdSHwqYrATPYQLGOwgZvcpqoJGz+Mg1TXp0JMl7P4zRCGKzhWNCDQsAwgqqzFPKIG/fQuEXGwB0e4syIOqR/bUeTERq/FZdsS0TsmkJTwmoy9OQuYDNW1fW2C9HQ7VMBDDEhDA==;YDTseXQs82+d4LJJS2s7tg=="
+secured: "gGiCXunqx/IVWVh/tCBwr2ErkWkF30If0tQI6ZRXeWJ1mf+xh8FRziUMvjJU7jucjZER3fNhByx6Iv/DhiJEhDe//qOS5KNrPs/r4+nus1WaTmLkAwBB1LjC/hOtUY+9AJPaJa6oJSrZ7dS0mJmNl9OM1zm8CQsR9oqqWw0iYGnKx5+C4ufUun74hCwepfD8cKRqKXwn9vBs5froGrkZfcN13qMGdIxv6gYS5JF1xZKe9gNPLEkJUYrC+gkpzvHoTGYjni7PQWd4l+7s77me7e9iQ0ouxuNupmFUUM2uyR3VbiBvNYToTzlzv5V+ESn/atneb4/dHFK1/uCgHdqKmOu3WI4BsGpkHSTSlQC+RNfrYdvpcYsgLh7oEcgxkHGOwIEpJj4IJy1XNtTwP/CeSQ==;sEQmnWnMGdRUbUwdFw1yOQ=="
 ---
 

@@ -8,7 +8,7 @@ length: 125 mins
 ratings:
   count: 213
   average: 4.633803
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Foundations of cloud computing for administrators"
 
-secured: "FWGugPjlFmb1KISs0vYW39DgvFQ4xfBtH7hl62OhUkDN32m4kLb5bJl+KMQzed/6pdSKOpoRg2hd9kpvRph5wxxzx5R3JiE34HE5TMXJnrSX62tB1/4oXeMCG8/M45rhgu+s/u5+SQUV/2t93mtBeXeP9zCwH43kiPM8I4K2VULTiUh9CFPjXyPgJ0LhL1mmAVUvMsAzHEMTtNsJ0hMQLzKd7eDRfwHdGgmFuj0rx4KrT6+Dv13szmcZjp1tmer/wfdWdgsA+Pizg/8vHHJxNI27zI6QCdBS60Jw966YCl/CiJ638wAhjsVAHMoVkgJO1ptk0tNXuEshZWim0vQqQD+C8fOV1bzyDhcclUtSIxg2Qz3QQyEEXikD+NZhPnaIC+nu637joJjXJ3RXDnlwgQ==;cNUZ4WqfPSePhP8LoHjgLQ=="
+secured: "OAv1XgdZYXNXDpKaZniLocE7uDpAvjtoDc44SKgc2x/+ftZs74Yi42RpxOdvA2DhF2qijQLO/6dSrx/9hj487CdIvwBD7HjeCj6J5ZFDFSPG0xpCVF91JbNepiL6/tJOxsRv1UMlmp6Xug9FSJrS6866YMSQwyCha2DPJ1FrO4Qhqy5idvj8UI3abxtXTceUteTkjHg1rwv7n/gRiul2dFBnval8ysbLAU7ltpxIjRzX5U9jDplI5wyhjzU/taYSQeJxIB5N6UtjIIHgPsXrbor2jA8t2UTl5W4NtvVKlTQe5mM5zv49NsaCN7ZkTBMcYQRezhVFwOGxK8B5hvcaTxUMqzoaCXMPHEb4nta1FjwHmZq3276//AqdgFyRxw97Z2PCEbp+zPORI6dEgVqjCg==;I/CJKHqIV2VxPBsKy1cC7Q=="
 ---
 
