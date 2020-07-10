@@ -4,7 +4,7 @@ excerpt: "Learn about the basics of Docker containers, container orchestration w
 type: collection
 price: Free
 length: PT1H50M
-heat: 59
+heat: 88
 
 provider:
   name: Microsoft Learn
@@ -18,6 +18,7 @@ items:
   - courses/microsoft-learn-intro-to-docker-containers
   - courses/microsoft-learn-intro-to-kubernetes
   - courses/microsoft-learn-intro-to-azure-kubernetes-service
+  - courses/microsoft-learn-aks-optimize-compute-costs
 
 levels:
   - Beginner
