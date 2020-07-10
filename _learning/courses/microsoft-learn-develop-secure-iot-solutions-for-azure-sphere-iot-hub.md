@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Develop secure IoT Solutions for Azure Sphere with IoT Hub"
 
-secured: "4PKiTQbpPYzDHkRgaxSRQ8Ka/FNDRu0PvwSjyd1qBE97rmJ0thvXNeSwrEEUQOFEriY+6ygtquytXhLmiylTuLePyOHXyBXVIL3ikUxKyiyVlujhWP4eVSaecmKM4mdWb7mEpEelZsA7XeRXpilD9qtqeJ+Vi3vnn07meufi3/J4Yk/KYXE2YS18iEiHAUhLCt6EJqpGNDqPq5fx2VoeRNCb/Dq1eYJDCjB2cQyj5sDkBWL9k9Jy5TYlND5R+SDs2DbhlmWM1J2CoCiP2xJ+bQpv87ClXtkugk7LWIjfr+CcG8Zm3FymVBdfq1oE4Iw/bvDH47igImCmz8gk4QMbIKgLmDKDO0BlmSGgmBWoLGmu+bFVxgaZCZ1qcfkHkJc2X9jcVNic3KxvpsVc8Vt/9w==;3caRX8vXSCNCybmy0hePaA=="
+secured: "Bnc30HkfnogUC5lkENAK3evUVGd9OVcLb2RjzHaqjJxavTXG13FzQzn/YwyOLbT+fqfdKN48L75H1Dyxc0s+Jz40KUKLSR+xAqZXiJMSrp3P5r9Dxr589dDuV1+kBoKQBRSeY/YwgA5WqcJIB7Hg3JkpiyMIBoMT4+4uBXaxdDbPX0OS18ZnB9kPhXcU4XYVRMgcBdOuy5KQ6wFT5bfF1WaATM+/srbgX/aT+N5y+l4FloK1+oLipbYwzKVtaM/bsF3WbEwuE0oUSGG7VHMC0c7cU+z769b7DEbbLnRgKuyPqivHfgFMU/DMWwlrioovQSXNijo+3phLy/+nLG3wwfupIIpNN3MPbTLgA4XQoO2zmw6I8XY3BoVkdZV5R3kwVqvduQbSuXG7KUgDzVjLeQ==;3rgXrdXs8r9HPLjVtCaW7A=="
 ---
 
