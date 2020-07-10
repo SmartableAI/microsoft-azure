@@ -82,6 +82,15 @@ related:
         width: 1497
         height: 785
         isCached: true
+  - title: "Teradata Strengthens Cloud Offerings on Amazon Web Services and Microsoft Azure"
+    excerpt: "Teradata announced a myriad of enhancements to its as-a-service offerings for Teradata Vantage on Amazon Web Services (AWS) and Microsoft Azure."
+    publishedDateTime: 2020-07-10T12:02:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200623005192/en/Teradata-Strengthens-Cloud-Offerings-Amazon-Web-Services"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 13
 
 secured: "hn6ZfwEtlf4U8zgAGHuBmPNWrETbvDgQlHR7uyuzxYeGP5EOKyon6C8x6PKLgFu90zxo7rir1exVzBXbcFwrYGATxtSp1vbgG801W3QThELWG9zCaASaJ74C2l92bBvTuHe2kl6hLwJyO2TKrgOjqb1Ip8DKB+GJ8bxnjkMHEqyL3mx/bl3u1UaXBwRiMXG33obEkR3ElarAt53na+nkWXiO7UaUVtgZ2NC+EtBEtJNiQOkLIMZB0NDFRXTpmTFvStu7rJkYoi1fcLugzpFVkesinwPxx9oieWsM2nR34gVOj3u9JzofMI7vMvwgcv6nKABYW8TSq/jGWCFOxzDhaWOqEMk9VxAi28ekIuurYDQRN3+bDyPS+0AZfnLbgop3tvsju1q8g2VbGkEmpPLg7Y0qcUixg+mQ7h6HytBCkhmD/j7E00SVcLDVWF2cFidBCXLjZL/Axa6mv1oAa3MFpeJifZMr5AFcqN1bGntkE8JWjdTHTb+G2cECgs5hyGjZwdU4zQaBkzgtOC9Al4+9rg==;FXU5I7C5KfueuCIJLO6EpQ=="
 ---

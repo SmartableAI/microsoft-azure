@@ -1,32 +1,36 @@
 ---
 category: news
-title: "Accelerating ATO in Microsoft Azure"
-excerpt: "While your cloud provider manages security OF the cloud, security IN the cloud is the responsibility of the customer. During this on-demand webinar, Microsoft Azure’s Chief Information Security Officer for High Security Clouds, Mr. Richard Scher ..."
-publishedDateTime: 2020-07-09T03:51:00Z
-webUrl: "https://www.infoworld.com/resources/205509/accelerating-ato-in-microsoft-azure"
+title: "Teradata Strengthens Cloud Offerings on Amazon Web Services and Microsoft Azure"
+excerpt: "Teradata announced a myriad of enhancements to its as-a-service offerings for Teradata Vantage on Amazon Web Services (AWS) and Microsoft Azure."
+publishedDateTime: 2020-07-10T12:02:00Z
+webUrl: "https://www.businesswire.com/news/home/20200623005192/en/Teradata-Strengthens-Cloud-Offerings-Amazon-Web-Services"
 type: article
-quality: 77
-heat: 177
-published: true
+quality: 13
+heat: -1
+published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
 
-images:
-  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
-    width: 300
-    height: 300
-    isCached: true
-
 related:
+  - title: "Accelerating ATO in Microsoft Azure"
+    excerpt: "While your cloud provider manages security OF the cloud, security IN the cloud is the responsibility of the customer. During this on-demand webinar, Microsoft Azure’s Chief Information Security Officer for High Security Clouds, Mr. Richard Scher ..."
+    publishedDateTime: 2020-07-09T03:51:00Z
+    webUrl: "https://www.infoworld.com/resources/205509/accelerating-ato-in-microsoft-azure"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 77
+    images:
+      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Adverity Now Available in the Microsoft Azure Marketplace"
     excerpt: "Adverity is a leading force in intelligent marketing analytics and business-ready data. Marketing data is a critical asset in helping businesses pivot, adapt and grow, but data complexity is hampering success due to the lack of understanding and ability to incorporate meaningful insights into positive outcomes."
     publishedDateTime: 2020-07-01T15:37:00Z
@@ -85,16 +89,7 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Teradata Strengthens Cloud Offerings on Amazon Web Services and Microsoft Azure"
-    excerpt: "Teradata announced a myriad of enhancements to its as-a-service offerings for Teradata Vantage on Amazon Web Services (AWS) and Microsoft Azure."
-    publishedDateTime: 2020-07-10T12:02:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200623005192/en/Teradata-Strengthens-Cloud-Offerings-Amazon-Web-Services"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 13
 
-secured: "cd5dbOoZu6JSb8Bc395DiObWw/rPORIParBZGQLZy7Tv6mbIy2B978DiAkOdK/gZdA33mwW4zVynNrMUZGIuNODeCRlqhQMhe5YgVokf2VxDfoP4OzYqYYTTh5bUOY5VG5xnS5Ea8MRw6JOKhoAeb4nfec267Wdpayzc8PH7J2BaLP5wVqzMAHX1vhWl9GL7VgVHc3UMHncwlvQnOFvtnsal5m2SsGdRlnlB7k7MCSTGiGu+K05NjmfMnynLTuTZ8rbdwb7xzwiRJa719P/au6OKM48x21MHQ7SrX6uoBQHsnJRgchxVQ+Z5tFS6ezLa/rEz6HkTvTLJz61+CwhqwA==;RcQD0nvjxBw+TJ+HL/sfsg=="
+secured: "1FtxdYDI1WkEw2c3ytTaANAqRT/ExDzgCbNkYXUbG/kobwcfk+s+YLLvRoOvKn3oALHV4opwYbIhCJGrD4kzmLUuW/9mS9KDI2YFK5aaBUOyyQNOgi22rIWLl2+KLJUTs96vf7E5wYwiIDy84i4c87GeRt86TFkD7/xqRENdz5R4K0kpsJAocF/Z/E0VDfctogzgDO48aGGiFe25cViXI/EkRtakZk+v745Y0pCGUwYEI/HFZpM9ghIUuZTaF5/tT5uksmRTR2bBPXAkxjo1+TcXjEWa0JqyDA97BlagySTxIm4rIpDe8ta8BUUAKqJ+cotVAymPvqG/mhbrmmao2Q==;G+FJ97RHE8It73hcbjmXWw=="
 ---
 
