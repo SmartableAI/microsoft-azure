@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 58 mins
 ratings:
-  count: 3571
-  average: 4.6715207
-heat: 63
+  count: 3572
+  average: 4.6716127
+heat: 64
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Survey the services on the Azure Data platform"
 
-secured: "has3RtK32l7i5/xs1t3YJaoN+oKzpx2fd4oXrTnbz+4F1hsRsfIMZFrJjfARPSOGIV82IVoeVqKHgfeVJ5ITzo8uCJPhPWFyFgc+EJVaPqVbnlARS8yVPumH5ik+OILT1LVi70tP5m/RvkVQCur+eK5MMdNquEE7Q+ksTnzGKBdupKJcrVI5iU4TY+/QWocITOipyJ28VPsdLOGAYjPORG4b0eNjQ2PGm+Y7y/MFNamhH5BxyJYDVp/w1v151nL1UVBdjwC13gHXcrX7+8dqXZUaJbxzmqEckHWntxO1WRHkawrsyRv8cYjVt+4sutJD44r3ueDGWYnSRdjmy0oKVz3WUICr8FvYEG3bUb3J6pIStaZ8pDde8CECUcCwdsqo4cKlwQo5oKcsasYYJO4b7g==;P9qMgZQvuPXshjlBY+afjA=="
+secured: "0iPYwxgXpc8g2Kat9R+zgs6bYIfKQOD6tE9AoyCgKECKM5ZwIzpH5HUl1+b5pp16Y/U7uKG23+W7mU7jiwY4roAxWqSsXHQ/0R1/bm4sUG8vcjEGYqwa+Fy/Tsts1KqOZgx0ugqro5f16W1us3+4AAj7mxuTRCUVBlSiaz6FWf2IhJpMMqB7o+uDlyTn8bxPLhHWE7yP8qqxUyFelWs905RMpiklmkQJHwO1nQkDT1bjZuOGPzGaDhw9s8UjiwOwrD2SybbqLq8JKyL4Q+IFjs87/CXCLCOYAS6v4FtyW1YGgpXFEw3eg2hhymThXMtBdRwMmh5NfVk8+jKRjj40Nuf1SAS3FAQTtZn+VnhQDPHB2l27ix3yo/RNLRClSwUy/hKI1X7XLk2/Lqgcu97MYQ==;fF8GKrd+2tx4kZwGQUzz+Q=="
 ---
 

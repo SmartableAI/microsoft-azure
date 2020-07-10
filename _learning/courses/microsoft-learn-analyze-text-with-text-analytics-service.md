@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Analyze text with the Text Analytics service"
 
-secured: "ArEPv2df9hKsOa2qijDINJg6vZG70JOsBSzqqT+Bm/jnge8ZkpjasVmG+Bl57A/sfArw2J/ftKxh0Q/396UD957g+HVEHLRAma79AyZYpRNEZ2HH+hhOQ5RaFKsYvwY33d62VpsQOh6/+ZNEq3j9UcshM3p1GaXYKWUQfrKXEYpVG7/cwaaZmivyisKo0ASe+Vuzc+LJbwRZ1DGDQdHkWmoWbdsfRZqMxc2fwkcBo/Z8f0yrftLrosXo3NA60Jm7xXUBNZWpoOrp7ByiyCG5IIBPYm0Y4fMFiok05LbdZJc9SJuUEu2qxAWfOHY3G78DRMa5hOK8/fjplf3HdMNqg3KLQSEtwRJ/ONVy5TfAk6yLp8HS1b16qCxflyYfUUpxPwCPJ0ZzC5hpED4HPj2z1A==;tSw3rv83vrHcQTMZ7JpAnw=="
+secured: "GnoS9/u4D96GRW/X0Nivinnaur5AjcSwqyP1pBX3w85XreJSWHe/gwE3tcyEdI6UvE71w23OLpyqgQ9eqbnBJFnJ3ht+jEvh3+d0Dh3IU+M+iJTEq6B9A264pN08NINPv5zKkamjQOP1JSe8quRwe5PsVvu5o0/ZuVDU01+pKHJhO+1+8B/VNDp4tf+fZ0OXUm9D7gi+Y9YZgZ8K76Ak31ENv1Ha7uYtWL+9txIeQpk4K6NvWotA6GLNIBAQRd98gHmbirFWEwZZwriDtDQSoGgqKsRVqvZ8+SU4deAxmT53jqK8iVH5+HI/v8+WMqTFGxTML0fHVBOkunsi7pA7v9KVYvezp+Jb4WhRJpnrRpYsMUT1kf4zyLqvohjru7FTmOhkFAngbJbD4YLXOlVm+Q==;tjs3cm8MHTxZPNaTiyDv2A=="
 ---
 

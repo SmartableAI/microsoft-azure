@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Interactive deep learning with Jupyter, Docker and PyTorch on the Data Science Virtual Machine"
 
-secured: "4FH8ohfLFlQ6AKk8BOzirgAL/GRKKj8WsFwOV7u36jXFJaniOC2bMdqv/dwO+UgFifKARNaiN85jUZg7db6fPbjSyTZ4MQgOwXMBM2bGYW0gv7v+BcXSvpXlxSCMJSG9VV1jPEYlQmbhkN1BvjuLbX4pSC32e3GmGIZ2cXOhZ54hEhLYCxBL4mM89/5JakVNYMZ08L/kiYZh7biVNmmhJwNZ/8QZSc0w/cQXd5+4bz0SM+s+AVhe+0kq6Oq8fgLf4Z1+UTjzWw9WIooGqPuQkbEmf7HvdFP/jr0hAy9sDTJBTqTEIVqRFNjRjE5akejs2NkCm8N3Zv6BCXXhaJmF7GwUCUkKVMiAb/7/rOZYsHD38vh+bWXbCIR3FuHPm8aVS3mfu/uBpro5yAsbhF6OpQ==;4ezwUp/6a4Lyk0fqjaRHzg=="
+secured: "5wDjibYOppAhAC5amYbP3LqLRRgUoasIRuYRCCwmK361A3s7M35QA15/3e6w1gQeETMfUjQcFnQukPa2a9+Azo5jzxyCH0XkIDDEaqxE/9PVBiEoQj90IOLtWKPNJ9/gDamFPvZk3wIDRRXMDSRa6bMLoaw7TJEyoSU5ZmkvD8ilulMYjD434U1GjzxX3aPnh8qUg+SiKsGgFpWzFq8PGoRi9ZULSTWHSf5pjU722bJscfFjZ9gnS0CmzFIjmDNWEFwfzGBjEMmCqat4w/jyxLju+MK4pmaYio6aCKJIB31SX22bYW/s7v8O95Rw+hzmQzUQKVPp9mr+yacw0v61ZhdZ1gkHmi7JlNBd17NLZDqqHUFGRLUvGxItmO8pRvHaBWDhRAUGU/y3WDGOnkNgUw==;QKyokX+2sjJWcOVuvOcBFw=="
 ---
 

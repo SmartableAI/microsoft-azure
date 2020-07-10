@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Azure Spring Cloud workshop"
 
-secured: "HwTXYVkyLi/FwvH+aezR8rBCjZzexcdFukiXGMNhzZZfkror4NmT3IK+jx9eV/TZBoWjCkPA1n9pdKnm66eq+ZddWYoT+Emk1r9/jJfpxYPZ7nAYvs9ypym7REOWwbFohTantMCasWBU03/vd2DI976tYqtgDnBFxloIrRFxoimogK6PA1GgquqaarFq4Bw9xR7lkmnfwm1N236fol0fP/sLfLdSWLoLs3ecMDBY49E75+OQoL/3lxWpcEHhNKSgNkmRlJs6LL+DCoO7Zre+CFra7wKyziW0qzBuGFyjEWTqB6VBcu0q/Byq6SGyK0k3IUnc55DRF/wtvdFpI0QD06FFnKGa2Zi9sXOEMNauUW+Fy2A0tj+4U/hkt3guU4YJ2YR5j+/GWQPx4LU9D5VEsA==;CUpoUg1sMmxtkIWEgbwlPg=="
+secured: "Cza7edzywXJ8sOI+iSNLq1FII/3xA8klLOzxMHdFgF6XDytCXcjXwj7HnWfrEKjkSmJMnXzjPC2EtvtFhZ2bMHA+jDDn+kVg9rUyJGvOLuvBHDwu2pNqxd0HBcOv664T+aaRMuWPylIzUDKr8O92cFojE9W5uM4cNe0NTRtORkNmYDdSoI1jm1+2R9E0taIrijnu+p+VGQhYBmjpo8KCIFF+3qdfgymUxD1/Y7z/rLG0a8YfHnHkleszGafg50EzmEh6XUzsHsd4oyxRPBeDkQT1eIpMKp9T270LRz0bTuZY9VBXgDcXQf79bnRkdPdWEIdV8ZH15eGBEOwKEuH5gU3LEW9sAzpw0fZfcdO/hfoCi/OF9i67IvgT5XluK8KGbzz4vyOvbKa0p4FzczBD/g==;eDMGpgRDyWzJZ/sGjQSlWQ=="
 ---
 

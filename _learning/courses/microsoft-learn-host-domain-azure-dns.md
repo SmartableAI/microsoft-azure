@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 43 mins
 ratings:
-  count: 100
-  average: 4.69
-heat: 50
+  count: 101
+  average: 4.6930695
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Host your domain on Azure DNS"
 
-secured: "Js1MR1fcqZrejfTeNfD2+CjJ/Dm0oBqVEUVpUkmSBFfdfqLUYDJsXkI/c5hRxJ4A2D0TSWZO7NTtp0vDJQaiDLDBb/LdzUliCactYxrT0i9+IM4Z07f/NpdvTEIJZfs/oiE3gy6tn2Aa7YLAUr2ZR75ubIIbkvao46ib4F1mdgzMlD0HVmcUET2UfPgejj++Ueeg4PKXZVYk3LzfxKDRbkVHks5/ZU8UnLUgPB1Pyx1zrdWilSCmGNPQgxeHO4BB+JcQqK5qMI53FCupObderYjs3BA9tXg3mNOnGm2ab3zkhXrXEUoNm8viphODuIAXlAMJC+4ZonGh+OUOOSnOQbf84l5Q+p6Jyb750DAfsk862flVarTa1vo2/mbhGWdqzyrEWxab2ukf/mTawyTobw==;tCNKKJqOZWe2cBpK/tKr0w=="
+secured: "nXoUA1Gh9hbvVGLUd+FlweF02QHzyX+f8PmaOXq4iIqEe6SNi+GsI7AbZEWpID+2AsuvRk4fg4ImwiGrzEnyRCjJflhpecAAzkQgB/hewPcz8CZF7NOB2JO+TRwQWEHTBBuwWTIB+JFcqq2toZntcw5CvCiAZaVq+hLA/Jjlp0Faf/bBeSZATlqugRibf9LGUOMFsuEdLM8V3/ukRn9Ih+0iOjcp4f8opM3ICOC4IuOk1xWGvg1ta4uh52viqcispuK+d6e33vKGdQNcgcV0jLHHOeexWc9FvNjQA4/g6o8RjxEZDJSVBNaTyz4tnWv+OZ8OxrM5oPqNe2KjoPIuh3/eYDr3BNuDzat0Fh2DPALjpkcGrNhjx75MkMDUNH0YHn0YAxPWDue4IH8EB4ievw==;xj1G5QNaBkpQ19X2wFH99w=="
 ---
 

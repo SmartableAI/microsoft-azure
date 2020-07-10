@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Introduction to Azure Migrate for server migration"
 
-secured: "S7b3WY6pMw3xIQUrrxpPsrzphjsHlqt1cE1yoZrgfb+7Seo1dGLYAVa5as5QqBxYEY4xMDVQ3udkBSPSMznKB2PL5DZW+nFouM9zHy097GhKzGXOgv+usci59WALyh7dunbUXNcd/D+x+2Nhlxt8kHmuHtOL2LYXKrELc9P7UUtcD62CuLpjiNeTstdrIadz8Tsf3zNy6+7q/bj6ms/3Y3fC71DpGZXY8fqBeyskIvbA/xlOqRM/+xuFNMc4Fj+jfoQ+dJ04iQb/PXeM6LEdkaOtsZ0iMCi4h2DQ7sxJ7RbYojtXKweFzNeCsM405DiHA63t1tqp0/4EESaLIjan17MI8ZE0YDDJdr8EUWRapj0r8gRFHDHMhOo8vE21Ynoe5+8wkAW8oWCib1g/qzru2Q==;wCf/EkFhI96D7IM7s7OI4w=="
+secured: "8YfztpFox+ciGR4xh9fcMxj75eoN+NY+e3Ot6TLYqVblovyZ4t02So1L63aH7XenEqKSseLx5wxq1eobia4wuXcA5FxYLkbiEkdOKu8QIbEtnbyBIaR9pr2moJa8VIRge6u1EhRWmIqzK6nImSNGaYFWOewIqCf+fRyp8ckIqvWXENC0bOEcnmzsMTHlmCl0xRhzpQ2XwQ3rXxVNlG/LsPK+rxGRZojDqg3cmAWBHfVOj0uK9DM12EzahgyWAIh/fqXUZGmlohxMCEmNtep6/RFfF5EaCiIXQQQOe4+HWQQ2/+YX0oXuOr/+8Bh7j0ifaHxdVP3EIR6DzcgXSRIa/AV8wEYwWNQSqJbZNx5eYsCPKgOXr3/k1EPgkUMHh8o+BxkOEvzxMowcyhShIdnWHw==;sLp237dl5Az5AvMuQf/XIw=="
 ---
 

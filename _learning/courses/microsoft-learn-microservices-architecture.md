@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Decompose a monolithic application into a microservices architecture"
 
-secured: "ye3s7X1mrLQ7JU06WGDzU7TFf42+8ezJvS+3BJW1hs2jj8QsQ5nLsX15U5WNVnrUP+Nrs0CLh69zJpAb8J5NBl3EpuHPcGGBTjnKbRjL4KYz87D9be6ekXU+WqzkfIa8sjT+A44hIImcCCBSnaUMRNyOcLo82k+vWqgBM5bNLbgDMo0B0ZJGxJ9JUURAyqMhYRAUTLrkpfIkiNPEHZ9J3/eqwyp4PNYnS7I7T77V3S2PYHHyjiZg+dpmb1PYvsKMxndiur/28D2bH/Lfu89VzSxr1fCRzycpFOJnm2igbCrnxpMbOVeKa4d0f6ZZsU6lehG4F8fNQAH00NGXpYgILbFjQC+zYQR9c0vpeLAvbtmlhLyFkWBRtOYvC/KT7eg/dVX8Hs2+djPYhEP/HTsy2Q==;IUwb6PWVt8O0FH9P31ZEOw=="
+secured: "4gJn9Y0P0mjoDo+FMB7R6A2SRZruS++cGeQXy20JQolfZ1zaFevb4t0zOf1VNuaV9yVpJSImUivRHw1rV/6PevUHjUzDrr7O38tESz03yhQoJBd/Uyn+hSXJL/qIcHk0dW8+908KYFcZdnG4MaFfZnX3YoZrmEnkAmM9OClbrjmWKWtGUsf5WTB+LC51C97JMXolhMIz7iP9gpcBTM+1iQ4P1Z5lAvTEmzFBxm6jg+hXH1ZajnY5QMnz0fpHJ8JN9AXOtTQPLaaVN1saBL7h9XstcD+tSGYKkUtgyTQTsjfo03NG+aIS1mNJK8h8jd+ESm6rYnhN/NG0H9Zc5ftJ8frdLNyt+ORRDKa93FYwbBS+S8q+WigPmeZMjhiDgTIeVN300N9kCOTqvbruaEKo0w==;po8lMPURi+zkIm6Zrlhz/g=="
 ---
 

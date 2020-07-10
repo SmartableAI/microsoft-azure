@@ -4,7 +4,7 @@ excerpt: "Decision-makers in healthcare have considerations that are particular 
 type: collection
 price: Free
 length: PT9H31M
-heat: 79
+heat: 78
 
 provider:
   name: Microsoft Learn

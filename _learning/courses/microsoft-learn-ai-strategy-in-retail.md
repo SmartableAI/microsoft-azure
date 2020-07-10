@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 40 mins
 ratings:
-  count: 586
-  average: 4.78157
+  count: 587
+  average: 4.781942
 heat: 50
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Define an AI strategy to create business value in retail"
 
-secured: "QjvBstsJTa6RBTV0ZbfPlbszrR/tNlqQqWcQElB6vqBX0OyAJctVCcDMlQ0EOHrAq7OGs9J05Ba1pBvsiNNaEgvNqWrojjnGjDpS1zt0IVzpvTxIDXoQWtcBnbUN341U6nXba9ofayB7hXQFo6Pm1GK6R20cSdJZxiDx1VndWYSQXZijnLmOlD6HbEmYAgOQ1Va3cb4odLrnr9Hv5YEF0ejXq9DRmUFHVlb5U6bKC8oscf63gOSa23dwZRQmjQGbFybP5lk1ddiB+ZCCpNdn1oPYRMMaVBccsEPwvMlzLS8wfnBm3SEk4iULbcrrxW3f0YdsvakDa1tQdLUfMW2Mv9JJ9lVBLY7EVrSlgPLCPITwiPo1G6CZ9p6MCasX2B9loomZqiztZyYrQHPbz2DRjQ==;KRUqr/EThujCj1224vAcHw=="
+secured: "QsX5qP9Z6YHhO/Nf3481kVNRRRIipDLK2LXCrjaIUcy7EhUReJNnRfp/UVGVr53uCApnerR4vAOtJpQIFkwT7hjduM32gemr/6xQg8ub0RAFlogbip8SevnU6wooEfsX3HEDqtNGiDLpsdgDTBHG4/rbwGMyVNbVJ7LaBJCuM8IV6kaHBgoo/hvOOxrV3j3QFHt4E3eb/7Hs8tA2xkYQxuznJ4/cTC1z+srOKxYoJJQ9e6qydjF0TStO1M5Mpl//CY7Z9vUs7XyGztw6oYlFo4urx/zJohR1EdMj0SZiQz8DtRqI50oOKrR9ab1BCGUmU6A2BfWQSD2Gro26bHoAkD3K4Zj/MgC4EkCJ8yLtW9FDOqenmt9W6vILCCVU4bv/s6Z70TIVG69id3knWwbJ2w==;kebxp4keRRBzVi+TXLuhKg=="
 ---
 

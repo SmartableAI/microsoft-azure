@@ -8,7 +8,7 @@ length: PT1H20M
 ratings:
   count: 204
   average: 4.6666665
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Track wild polar bears with AI"
 
-secured: "aFbq9my9kGXN65a9g9INona/5txFZ1YtoLEyMS/aaR8xNM5hJeLWWyt9X0++93OFXkMNmLUin8696VzVx1FwF5mfk3ZSnvTJbA73x2gpPOKAZdWxlSbCA7h9Gvb7o9U+raO2ylv0WXx4JQ+GXirMb/EHDLDjn8BhMW49HE/fLNJITjhIP0AOoPsOQ2NiHR7DczZeF0iL0cjFSXy5oioHrqtaAIrzsTD0I1P/gtRkPkWmLWCSwrt/u4jKSUEGl6IAwn02QVVn+eUGQs62eXCoqTuaHDB02Zx+juaukUjLRpjibXgRsjiC2lm6OOkR9piTE+Cm8Z2GcZWHQKREJ9wSAZK90k55KDC8gCC0+meDnh5kfc/ytzNsy3tJMeV5zvRLLQe3WJ1uki+8rFTYZfh11Q==;SgU33eRIFT9HBuHuomiTyA=="
+secured: "a/Tli6CGLEIolzKgAHqV2Ik3PDHDv34yM9RoDoWspldXz5B7wkLJt/a/XWJ7y88hT4cD/z5z90JsGdbCF/ERtjRbnzUi0Pd5S/mKHpnyz//XkaMJIbyxd+5zLEMXX3Bow47j7nVKJPAzRx27JBlPCcotKVoT8ugYlfEXDVAZot62KN6+EaNkc3/xLBpRSwT5+e0bYkLc4SGfYo79sVoiziR/lyWi2YNCY4UJIcQfuLv++eE5aHzn8EFj+nQUvkIEuUYwdAojRpEt4VrGH0Rlaxc/NUswtGH37VlRHnXB004XqKbrKmGqjHgBTQjyOcOCd/xZVW0EGDdnjtWMuFdhpDG1//PZ/bby9yc20sB/AT+/DDZ4X6bUqQxf+oCvsvAheDwOtlpZ8TrSqvEZZdQTtg==;q4Y29Xjj4NuWmF4COeruDw=="
 ---
 
