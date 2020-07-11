@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 46 mins
 ratings:
-  count: 2123
-  average: 4.459727
+  count: 2124
+  average: 4.459981
 heat: 56
 
 provider:
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Create a long-running serverless workflow with Durable Functions"
 
-secured: "MGfZtbdOxqLeNtYfONL+ml5KwsPTh6+z4ECpXN2AD6QoUzbhnMkbYFsA4Tj2IdQpmfjFgdArM27vS6GrY2MxiAzxlxOTK11t1dQ5Uzj6i2bgLDLWxHksbWnBSKN3uT7a3xNrl4C/rwgI+BDxzqfgLJdLJJPhkIqNTkSsOMsWVTJGFiwbkRmcBCzp71MlPf7hang/Azk35pGIsR9Ez94dIhXZNXFx26LYX7T3le2eERVEeLqCH+me8pJx9sIu943KDdKzpY24hZwWsazwThSTQXzE0eZFBEumt+Fvcbl1I6k6MOcfV+BlKOpMIDryrmFD9tNlZsmagxo+D597IkqAiNtMUhRqCnFrg4djEUg4rpVx09pI2QE1Yh2HaV4RlHu309mcV4ndYHSTH/WLy+1p9g==;G4yrtRo46BMPtueKfxGmHg=="
+secured: "Yb3kkkRm3//1ZRe+RwBWsyEaCbt2Pwdf89TCTq/LvyhUfOmYONVPYqrZNIgEQImWYQwdUYk10Iwo2+JgJ6d7/ztZB9wmFCzjVYReGe1LfApVvJDziWqMM9S6Vdzz+s7zKzgdAPdzpqU7cHHkdceKw2VKmiwP0PWKZsU8Ywqht3S9p2GKpr3gbXNiMqTQDL92z1qPlXpW6m7E8/vYF8YuNDJwDcl92P+re7ZV97GtjlWBkjiUhT0lSPhnGVFr8VUCieB4901vFxTdRRfNEbvqxmU9FtjZELcsQAbHPt4JRuV9E6kTnjy2ZYNNPeepbYxVCM8T9z0JsxhSfiCJOHq11WE7O7ePMez8YBzjfj261QYs+WaFXCCe1mFTjaXn7vFlO4IzRH2qiPHSVC+gq0ddfw==;TMLoFVerOO+hQynEqIB+4A=="
 ---
 

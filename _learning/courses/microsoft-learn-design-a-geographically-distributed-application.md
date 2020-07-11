@@ -8,7 +8,7 @@ length: 34 mins
 ratings:
   count: 434
   average: 4.668203
-heat: 53
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -35,6 +35,6 @@ images:
     isCached: true
     title: "Design a geographically distributed application"
 
-secured: "SCAFoG2BUOUardvMHo5RtpzCva5C+1/qde5O6NnqKNre0WF76SDEOJnmqvc9lfg1Zqf1P6efzlCN2j/m61HLOzvSNrxS0dJ/FOcx6T58Zdxlnfa9+OarkZv9NkeT3z3EpOoE0Nv8sDpHWFoTuDXpS/BpVgFJFGaLQXGBChOi1IEB03HwIaJu8AXMQed8Ney25pZBXjZYmcH98r+b+1SQBq1uTgJ9RsSLuJ0DKLwFL1E6c19jj/OccpeEe7bfQKItSFHroiaxLUthzuZD1As7qG0Pqf5SbV5hiQvvkwwOSO6iSrOYj9vP83yK9SeiqVFtR4ZbRvoqUoB8rk4fpNoNPuowvhSLtJj6EKQpUGNjZr4D91UAy6KMzBgFXeNn3XK794siooDr+SFhXZ6K0HWrzw==;kee2eAlDYvggO4VOgnOGvQ=="
+secured: "8ZdcJJbjRE65CQElAjkdFM5xIqeotoMt0Comr+gKhdl5CO3cygSSZvAeVaqw0QhhD1MKlVblSK23Tg382dLcAyT2F2t/eyJv/8OHTGQirNq+Y1BTdsCrqfk8lnthnBApTkV8vrGOE8fwDDMOX+sGfu8r0VhNIpi2ERBtmSA0NcrfOmlG8gqRIE39E6lkUi5VDFeydFsbo/RNAfmviODqxiXZOMcKU5LxW6xKartfXuoNLi8/UrxIcBbF9pHUtpMvnx9qkPHNCac4ED4yJubJ5w8dbyFkUYRrkN5CxlsnSExKLfZQBA17Pbck/Zb/mAPIKU1Jd0xqy2nEbpWgCnRHtjIVcB7Kb7+VAIK1j6sHeRgNYiPo7bKWDgf8FqArjPQzPdgHl/tslOKLRT3LyYiUUg==;rqJkiRvEhpsrUODcu1h+fA=="
 ---
 

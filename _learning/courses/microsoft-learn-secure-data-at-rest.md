@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 30 mins
 ratings:
-  count: 168
-  average: 4.625
+  count: 169
+  average: 4.6272187
 heat: 50
 
 provider:
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Introduction to securing data at rest on Azure"
 
-secured: "RuAF//2uiYcMR0MKy8uMAIZr1ah8MxUyN49D8M5a+Sp9/2VkNiBJ/OIyWZYzjIZZiyb+tUcS9rBa/Q936JwsNy9+eLzMwnZrMFK+xMhUf7NQFCyAm4c8A2pOeQVCe86guNWiR/9uajhxH7AEhR7S4x6zHgbVOj0F2tr/fb1UIDxlpxcVLmiiuhv/KMs7ZtBAvnjfctbZ0lpyNoaQgX6h4628fsdP+Nx8yY+x5TZ9uQpMCDFA4fU2xiwolSvjvZxceZmdlnv8+HEkG4wPPMYVWn1wwPeeBx/JPUO6oGu7iRvBP3WuRYWm8tWa/yu/U5uwAbqZXxyP1v+8Oc/v9AUHHZLpVc0Ux5wMigDH0WwB3Ilt7jtxGBqANnTTnbnXCc3or11OqPTyQl0cr0chTjBk8w==;CckReeU3YfZKZ4NnDstjjQ=="
+secured: "otx+ax5DeCMYW7ZKUNn1qVVwI0Ys5PwPEqoe9P3dYg/kRhU/gy4mRe+g46dqEoFgHwvZRj5NbnxJjr0awn8OvH+uX7oGagNEhzJ5qiNZkpJIXYhtkGdJvMrvA5skmAHTOESpsEg0LgsQJQl4A7wM2orHgBliQ/VkE/Khu66fIqHWA/xBE7GWwJprZO83ZQ8kHabSSEailjbjI3ZJ72ur21Gw3MIRH2TfXPrgiMLB/XcPy/H9arfv9XcTQn+UfxUaCitdCMkj5PpeiulwO2p/zuQUf0MQCLB/yuUfgIYSIS0bSHjDNgaVOaXLDN8z2LdpEHd2cqxD4rDWtXtAtmVB8L6dflEeZ9chr+8QNy9eyBiT2uKtvfzM03p3mdMNZVcd4eZxTb8z/ztKhrbnnKLX0w==;1LH/RMl58NH3W/ILiqQVEw=="
 ---
 

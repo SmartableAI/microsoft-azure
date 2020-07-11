@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Protect your on-premises infrastructure from disasters with Azure Site Recovery"
 
-secured: "PrQrZNqILB2gSCa+kdLQ9Ilv3PdrkYcBf7pfzvHZ7q1HkLnXTFmDiXZFR8lI7M1vqpEnJYMc8DkS2CDTfdIureF4jZB5AuYK05m0fYbwvq/gFfUX/CT+qYKcLjghta+0Iar+Jv7+ir/eHr3T6jEr0uXS2IYrkaB3jnd/hoxqLCfsVMQhzGmRouT3Dy8PsFHvWQrVwGUtBTEO9YyGz8eldQLupFFoDPKD+PEccxNmIh280DVbu2E3msDqvQNOjk0YDLZu+E0Xq/Ek2aK2Z3mkHwKgvGW67JIxL5n8EVIVQfGHKsy8VJy9Gx+N05JPDHnBR7C9HVE7XSPHHFFCOM7roCiP/2aIun5VujrlnZQrhq2VtbtoUemEW4OSJUezjp8nWcMxgQomFMJ/hg4xwTZDUw==;MFBTH7+bz7LPJo1wk66LhQ=="
+secured: "+U1F1272NyjlPbz/zTQ6E98eE6qakdXTHnzkI4h9YZIu97pSiCPibmQzqSVqPK1Kirf476mBe8HxRXvtnMw5gjNSUbmc27VXsQi7cVijmzIPNmuYhHRpYHvLgDxuX9hbKHFUy67Q1y/xSrBXyf0Md3lcug1A+8K2DXHDc3di73xoREegJ2vvRVvy0ta7x7ODLdR0GGKImcv+b2EB70cIl5bcrSj6oXxph+2/p8vJTF+u/0X4e6q3UBhGPOalLmwh5Lj4gVGzCxJveZWX2EemNaGN7qo1dC7J3EC+lU+9OIuAlo3LGddBhvYS8Gunr3XUApcpqa/UTD28uz0YxQUEaZBIcP7bA5VQsm+xo7oTtlVyFwKzzo/r/+4Tq9tqTS5+Grch6bCVdExTNVXps3tcxg==;gQURTMq+W8WXtrUTMLjg8g=="
 ---
 

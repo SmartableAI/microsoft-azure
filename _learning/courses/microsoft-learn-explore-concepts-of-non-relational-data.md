@@ -8,7 +8,7 @@ length: PT26M
 ratings:
   count: 51
   average: 4.882353
-heat: 54
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Explore concepts of non-relational data"
 
-secured: "iVZ24H5uPQxAwJa2WILEAM5gcOOejonbypHebFNkXSokWWbjrJEk6onS1CepxLyAqKWcW5Tz7n0VCxuC2CFScsLTkJRie+ICemXsnbgr7I3srOjsAbAX9xgTX4qFKecFv5i0hei78NsdBcura6hhBLUBtHbtRK/eLcl50HLbXsuKw5prVb+QFzyc7kJJXnz6gPEmXXgOBucG/JddWKVO0QnH2AxeM9WOBGXaCOFkN4fK8NUI5NqJLb1/SrDHMEJoKur3uekQZa8umeVoknLvv4dV2iouhMCKIxZ/KY0/PiiCNo39LD/zFdca9sFWpS5Ozv/9TKU51MGuBzvFY04yFAw+ZeoFQeWowj/u+ZApH6KmrGijP0xPc8sIclbEuaikXgxO2fp6XwzflTXT28Wvrg==;L1ULCLKAhMF+OMe2HmeVXA=="
+secured: "k5x/YBeO7/Vgc2UdZs6wggGcap+aymjOr7NOmcTtDcYeYGw81INyBs4c8lAUl9581fDZ/BN+PsIygRUDA97+pdyYS5eDm0aLdZL61emX7dCDFldyfUah6qtlcNnT52ANGrFx0GTrIA5QMliD/6z7mVCO6y6MNkn60kqaw3CdHduEqKuuIQN7hc3FBR3rUiWcDkohnyYS8k0/Le/ZUD1hztd89aNild/GW+GWZ6GyD/3501+497Gyii9tBHay6ZEtzD6JUDSe2DSCmS8J177/+mFWv0D7ZSsG1n3LcGoTOOYfHqd+OJawdqxHGV8/jBBTcl77u0GgbDUsGCd2bIz2Lx/VpcsKEdZNtDVzE/VX767SBwBtzhZYZ/IhK4qnAf/KiM/8ZWuSZ9Aeu55bL06Zwg==;uvZ+8RDayjh8pXLRCyD4Fw=="
 ---
 

@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Monitor and report on security events in Azure AD"
 
-secured: "zQsA68o/SbBc14iPRz78Iz/ly5MV2HsxRueKjjY3yhCXWi2gLw3++REFfr8udQg4uVuqqGblW3r3baFAM28KfXHiBCyrKQ+F4wXmH5MwizXs+7FDC2qdl4K5uTTAAO1rgVYeueWS5k4PSK+5zC6NB0+CrYti/Zmy38UHNLlsGJ3dVkKqnfwYW1A19E+ir6Z7/DhMU9CgsN3fXryv4cVsQV1HNleCmejUSqfu8baAP+OpnHMe48VYbu04o+SWH2j5IGECMeQrOQ4+yW8KuxK+GsPqNMYaGCwZze7nBpzdepT9ovncjS8WVys+vxHz+z1b/LHJ5//SBnXV1K/LRqK3x1Sj31q6MiJWrTbMLkFoJwAjcrgsWJEJEyMTNcKhOJ3mQIU/paEff/ltLFHtAfA/9Q==;NnFvUGFlGxgHa17reixvkA=="
+secured: "qbg7nSENc0zbA+utMVZT7ZEolQZpWvawWesvnc1uDvyzyyqlwbCG6nuOonHmJSUsL21LDSzZRFYylluNy1HWYByeJZPIwwL8BvHVnCIsUQeNxr3PtKEQTZ6HoK90b7A8lx6+th6Mrbm+xtMu88sr2zIkJpNoVGwWxFgmakfR22DIK6tmdWnxwPoU+HQnSVYi1ksSpuepdx3Rx8OvsW3tPRdDCdw92GqHcawjts7wnx2qlObGw4Hy43LWM02ksPyFYu4rae8zA4Tq1ypw74GHNWFGjx86Xm1lB//n0Z6CJhL6kqmSRR07k+bs0bxpoxSicIswbqCT1HJHEcw1DVzeb32gf3svb8Ti1Ns9mJu66/JFxRMyJJd3ITCHVUifMQdzxwwImmQ9bKX0zp0eXVcxIA==;YL7UyOaKD6ykblHzvg36Tg=="
 ---
 
