@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 56 mins
 ratings:
-  count: 162
-  average: 4.691358
+  count: 163
+  average: 4.6932516
 heat: 50
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Remotely monitor and control devices with Azure IoT Hub"
 
-secured: "hZA401XjD6OpK1/LsNVhf+s39tu7GohlWHMRwbJ8j4EWPFc+xbOn5hLMgiDke/J3T0OOuIfVurdGodbWcLD+EPxkkqTvyfCiVY1mwKwBs1rh2RWYW0QAPkFGeBPucs51BnaSTZDXKdMOjoLSORE/1z3YN9NulmgMRUFqwNfkuNFCdzRx6C9etpLATSdur37AL/bZwL9e5uMpYVfGP0ZWMCJS5VJ0OQCz+QOVTWrAbUqznuHRFdX0GcGSf2BSl3gcbmxq3XNptCEVwjL9150ia7MJd0M4M74vTM02c5NvNjatO9YUCdpINQIq/1UDoT+A7NznD0k21NPej4Ex7vmugJrwgUuPfBVUv9z53gQt9nek0NkvqDIE2JMD9iElFGPOijgBPU9brR7S2+HoksMKMA==;uFRD3BdjCr4hr9uHdI0Qvw=="
+secured: "D4cmj6hdGibrJJ4Ags1It3z96SbfCO++RlYdGSXYFP8ckbJeSEUwhm5I5fB5WPuuYrNKEvshGmFIAL5v8DVK+YqXRhTYkuyZAahi+0bkg4lG4sdrbYIxLGFX5+YJaGdWrUa6rlSYPFd0k65jw598Kyz2vDdNbWREGZHz1BGX/fIrzuM4WUsNdKQc3iVroaYaafPAimVrB8mrucT+EZA1s5MK220XvzT48exDj/IFDgRAmsnt3D5k/M+I4Sm1qIZDiFSEn3rJeEaQYvbxO03SAtFV6d4S7qN1Jwban0SkezflHwxntrvDTAQhOm3VA6JlsquvgTYVUcvtNIidNewFNCu2Rpkj9UdNFZa6yXhL6jOE3VvqPy6cYkU7G6rDn25t280ZrySW8GmlWnlS5mI1oA==;8qNODqAkO/7ud3cfQyMkAw=="
 ---
 

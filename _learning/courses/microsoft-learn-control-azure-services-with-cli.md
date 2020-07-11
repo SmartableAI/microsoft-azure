@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 34 mins
 ratings:
-  count: 3275
-  average: 4.7557254
-heat: 70
+  count: 3276
+  average: 4.7558
+heat: 66
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Control Azure services with the CLI"
 
-secured: "0xMsFPQd9WBZvpH+KJdjwal+ge6qRy1hOS01UYEQLYrSM9p9yzA15LrtfHTm48ItG1HfCW1rXeilk9NLcnPrGe8pEA76IH+ARzYMBxPXDXPOy7KzGdiUdPKbKkH+BeSHA9Tl4hfUSPsn8dgDjpr32cxiJanZAqhQUIoVpRozdFRtph8soCf2e8Z0sCHllSYY3U3C47UrCt+XqLrhNDyKrgOxhywYvMxZS8LbdBq4o1Cu7DZKj8lD84hUwB99AEJ+7ccgYgApc+YZpaEydobL9J+rteW+5EZLrSKOO3wMWPkSbJybNkw6rUYKHhjMEpuBMvXLgzvvDr1/K88w2yqWtU6IFpuuSqn/csG8QSk2POFyRAR10bDPCkIeK2w146x8fgXrBaf8ukDcGeqoGKC3NQ==;9eAvmwmwpW5fuwFcS0IyVA=="
+secured: "/459ZxqaTKrhydxUgB+IQjfkIVs8K1CEDZS5bHB9Xc2iVcbc01pKnEq8Kx6UoJdEW7Me4rtTqvmTUE4VsXpfrv2m+/FgEC9/FVtIUJnEYYmf90cFoAqpwDPbk6gCtXgnrpge6BOx4MSRMUbQPEwC+wFVSq7o+djgJBKZTKKJxYJOrflEnFGSw3jfQVv5rb4ang04C+7rCZgXew41APrnO++Pk8awKu3gXEwwUyWSfnfLTEi1r4imxNOdK472yagCrSk/qYuFnZbMLvz3jwBQbK5UDYBCL9e3J17jy7C9YM93ome+emNmvY6I/znCNKsVGA92Ste93E9vwhtNlE+vdQ3Wls6ojwntrS89v0sULD3t9N7WrP+Zplc3gm8Zb1mJreBXS4xAX8VG+4ftBpIEzQ==;7OP6AUUhyVPlhLLzX+2I2A=="
 ---
 

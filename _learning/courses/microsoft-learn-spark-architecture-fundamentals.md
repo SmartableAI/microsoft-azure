@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT33M
 ratings:
-  count: 129
-  average: 4.6356587
+  count: 130
+  average: 4.6384616
 heat: 52
 
 provider:
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Spark architecture fundamentals"
 
-secured: "3LLvVAKq2Gr4k+ismEMkx4X/fmzzNk85ZXYaZ9rtzlSjoNBXJCmP4oWqM/L33y29ZkmWIYZsgYM5thiVk5qG3RSPl5R3aBaiOHkuMF+2rXvhqPKcahhyKtsqSUCwRDqpZmSjQO6SxgROzj4TPjpZfqPpAACkA46cfEXtETeUTRSAWkvJ0CcODz5qvJl7J0awDs8oy/XeuZJg3Q2Plfgi0i+I6EvsijY810faT46GK1uggpjOk40aRgR2q2L6aaKSjjZv8PoZBrWJ+oIyqmjma8sHkE5TVJJHMrwpM42o9SvmxvJUs+9tVFkABS+ykZoIR6K/vz11lrYixIhr8EaZrBSnU31oKuZFzln5UMpSI9Ye+9cxfzcs8/Mc1hH6OWgS1/DeOUtYPeY1bnJSd478mQ==;kSoBTkKqiBzYrIkC68aBig=="
+secured: "Ppaww0Y5o4YCyizvZyZhPl4s0jC86loOmPBQ4B5KVxpvav8XC2tPjl9XrzTzikcsnBGftffd8U9kS8cj142EsvB+7g5SB6bd46WI9couk6gjAv4tIEq+k6iAg+ai1jnHr1AfleKF7PwTV3myQEwj/LnM0gtWOsKt4/E5Kx/EQXPMnoGmR7mdbrmuFtXky/YK7Yf0/ObaL38OLcj7tLlnj1sa+MPPLoVSwNqpIBhL62lT68J89aLWePzRrojr7bFaG3yvXs21eJF9aEKZLybFwicq6K0nC+B+iFOF5OTBjbPxJmS7XMGtyvUiB2BGjPzDx9QNKFAx694joCGHqn+1Vfz4tqUw1340yAR6lNdIskhKaXBhwzev0X+7U33n7F5mQjCC1L9PRXIL1wu0+zt3Sw==;q2tSLty15YGRA1IesAvF9g=="
 ---
 

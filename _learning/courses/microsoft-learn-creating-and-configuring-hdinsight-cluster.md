@@ -8,7 +8,7 @@ length: PT1H6M
 ratings:
   count: 111
   average: 4.5765767
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Creating and configuring a HDInsight cluster"
 
-secured: "iHotnZEuxAbAyJjqkJ+2VQoWvYcAkIIuNPT27GW3zDbXcr5VS8wfTJzCM5Sdb7bw6B16zdfw5eySNGkb4b23s6RA+m5+MIAMUwzkjjJXoVTVJqTU7odIhwWKyoedMRMtw+dRESrvO76cGCyTClPFbpl+c5I142B0WK3mr8UQOFoPvpM3iQA5aBuet/lN7qdqwE7GQ8vW2bFJJM2bt3UcK3NgS2vhMeUo6bB6zduSvXon1zsurQMFHrTA+0Iq6RVHclgdaiPLA/S8Ul5r8t/MJ99WtwjGry6VIRC1kpbfNC4m1GihfngiSlGysKIQBbBsYIeYVoB65zS/qL2q81wAe74Eb3JggUJq+tsra3eG0r3+5nKqltGIY2GnZ48OxoaNoKd3rlL0kk81+5sWKf3CXQ==;uU6tlAd3syS/Mxl5OY/S+A=="
+secured: "v+cIdGcfibyAl+EGM6qaIJZznyvEwCyJyK6/aVJfKlrIGL9FB6hhX9IjCFI9XJuXGtk7VC+6jwt49DZAd5eXb7FadOy3sIYFRuBCQgEY45hti4UCOcefgpcI6v6ygIRSLQZHmqvYepfGBmdj/uOPu+DkmGkud05t8A/AlIFx875157KUSXKJ6WyPKeCHtnRMlvDnW4usi/NASBK2fDjzhs0NLTWXmxl+Iabi6h+7etVcWreOCVeeYqa7y+A2v0TmDQmsXujrx4cTyYsWzDcC09BeyEl+T0r3b+9BJOdsoMKlFn5uZ85oqSe0duV2GPxOuqrHHHSknofkE8NptPYfrkOsc1Yj2CyeUBgIV+e5Wd8ouxiwXRmynkpGS2QsRguReQCaf9vAdbnRcW6mpxyC2w==;sx1ky5BrBraIT2eovxtcxg=="
 ---
 

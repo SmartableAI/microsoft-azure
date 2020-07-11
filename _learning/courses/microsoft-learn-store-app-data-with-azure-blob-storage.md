@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 50 mins
 ratings:
-  count: 2327
-  average: 4.582295
-heat: 58
+  count: 2331
+  average: 4.5830116
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Store application data with Azure Blob storage"
 
-secured: "ei6BLeQ62XQbOJzr1g8zQ+Uqd5TEX5J4TFz4rZ3RnszZ2vnxI2IDJij9cqdvH61s36oI49O5pdg3jdSq5LSxqCp/G9EW4iDN2hLKr0L8GF/LZD3RG+L9ZuQAeHUvFcs8SVM8YgGC6xs9DEkiV1vzkWXvQzm1yrmt7i8apALa7Cpzz+qLZbeca9dbFt1USlhkIM2iQyLLOacPSgsbcRlr3N4/N6WX+VWaVjLzqvffknV6tni1QPb+HCW08VtVZ9plqMYH7s5bqK8apy/9wmF7OQzgIAsGaUTe5vDcjZyN3EwLMLmzPpKhkJjm0yhPVyjnpjNk14jOq3DadciTj9b2FtqleRr/1W/Fmcv1HOwFLNOA3SvwHLBlHuCacoLVlBIXWAYq6rhehloUCGTotknigQ==;ytw1G/Jhv3GTqWy5T1JwJw=="
+secured: "R3p4tOjVMB6RK3AxDxzb/gISSrNe7U1UjBM/kZLFPsJLpyYehfrwQmU8OxRFF95JzgA0fgAXhltkiPo95OhqMNYs6y+xjA8T24NW1wgeQUlrjv546b0FEyqXEze9j+fS4lsaAnpJe7G/yrFL/Ep3o0XGkvo29SG/cWGoDZEQI4Oxdyb740eWk6Hw3titIRcPR/CId5skbA4NPozhwFdvldmi1IMUBmRFEdzYVbJykT+ftwy10U2Hcwaz2k5jMlnEgdRt0rrebl6zpCf7BVIqjv2orDfkLtKZ1eYCrpvqhiqCsX+ej2UMOqss6aL9rwCyR9fW6q7hTYuBVqkos/+CxciLswntePHieLyYoRsfmikuZvjNXM+TK3Ox7vOFm3+TYIO80sc4ykM8zgDnnQYyZQ==;jE5N4WgEvNo39TyXkTlxxQ=="
 ---
 

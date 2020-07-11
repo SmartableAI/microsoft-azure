@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Publish a web app to Azure by using the Maven Plugin for Azure App Service"
 
-secured: "uxXqessZZsqfeoM7Xjld/L9bzr2f9B7lj19NpoOBQkOMY+gINWfcsg7VBl6Oahij6h90UFBvY15CS0Xl12bUZoW42SAO42FNVc/zfxGmOfnjOIKNTxkrPMQ2uFpn+GzOEwG7+ngcNzRVyB5KicCIbmdw+gmu7wCd5PLu6+ffkTTxMThNusefMa5IcpEkUU/thACXbP6eC0GOlFnInQCF+k41JYYO1Dww567qJiys9giCrlelS6Ogeg+t0CBqsnHr91MN/wOQOaKeEqZj32ndpwz3o4N+nK1BlHGsYt+mNB1o7LPcwbq+swrf+EBbI0I7sroTLihEsKEDO5gs9o5vF6PD14/Paa7XocGxltLZsV8QIahqjtdnOqXSL5JsWXkp05NdPWYKApWHAY/TgGswDQ==;VoZ5zCCygXivby7syMt4Ng=="
+secured: "3k+MOSY7y6f5YEllXvaWS59Hpvyepuq5mPcUQRPRFt0q3/xoFexuYfiJWvPFUSCsEx0cmvfbKOIZkxnUeQOVf7XGNmZx0On06GNFQxVWKIwZbjDjRPyO8Dw84tg/uVFGa75iox2nl5WpreqqY59B8EMBHxW9cCQxqWzkCjoe+0eZeV6BWjuWeXT8glkeZPze30bNXNpcag+el2DxS0F1A4bQd3iIY1oB1RvF5FDwsN+FXRyHFItQIYN+5ncQwhrQxg2r6nS7k4baA5BQrH4PpfuJtsF+8N0rXdTTtmnyAyu/rafHG1aHfwnzPhKNWlhP21d+VahfPD33dUNBXtjFMgGQcI37TaHvG5NZExOvR0XuuAPxP4uuud5hl27T0atyUqJmTliv9S98O/0WF5QMmA==;VTWKRo7cyxeVWf1v7agNhw=="
 ---
 

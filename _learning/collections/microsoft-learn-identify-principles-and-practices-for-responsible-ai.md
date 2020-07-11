@@ -4,7 +4,7 @@ excerpt: "It is imperative to reflect on the implications of AI in business. In 
 type: collection
 price: Free
 length: PT2H48M
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn

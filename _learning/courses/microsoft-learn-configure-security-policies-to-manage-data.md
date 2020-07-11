@@ -8,7 +8,7 @@ length: 39 mins
 ratings:
   count: 1704
   average: 4.5903754
-heat: 52
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Configure security policies to manage data"
 
-secured: "qa4aggEb09yOnShBTTgh2kSWZCabs7bfi0oDSdWcKLJ0HSj8BS2+aB0JEVnjKHVSnUDr2NGzkIx+OEsRisMAE9orYKOv+8Pz4alcGzgRhbxUKkmZ3ALfc7/VVuMJ2nCpGnPTh4hreXgQh3Ma0vrzsp6xI4H60cfDWMXz6DiucVWJpAIEgnXSt7CpFp55+QaJIjB5a3OSAHKTLHeQSvhgP2jXTOyg/FLW8S0/5Ya2sUVWGbWa8/8Wzu+AVygfLYj42yx8p8oGliP/UMPqxu8HvLdK+dV+7C49n79LYWxx9VVeeVdB5T2w7S8FIASFGucXTp2GtJ9QdHfFEW+qT01F8yEL7eR4rjz9v1f9/AztnBL++s6lea+kFjGWZ01Gzy1cKJGEj0ALAODWBlM9xQYGKQ==;0SWQXS8oXnn/IGlE/tEWCA=="
+secured: "gGGUbXg6W3Z23p39r94WjK4jV7eHsULZhfKY4RGceAj6ACEL0svsR5J8sPn1AMqhGlrwxFrbouQpnrwaSFK/fMJXwYBUSwWUg8YuEgszAzDQerz3mcKwW+D5cYPBuKf8Q3El6qemO3oM6vpmlD+s94vl15/5OnpBhZF4vXgZV7W4yrpLbpXGA1Az/ipoljOEp36DZkI9zeBoHX/TQxZS89mszrZJuPjGjwf9E3J74cB11gXG47ad1th+7260dXLinOxzY4k2vIim7vjr1+0tOS1AXPFT0bzwis0/Hxmg4WXIpexfefSxGDxXjoBtyArGjMByrHO3htc7+cS3oxU/wH/RqVH8iMwvHN1dheNQmk9CZJqCJ8CguA42RtuBzbBZSBvIRfxmEN5MXPxMDrgSvw==;PSRbEBLJ8766k8Bzstiy0w=="
 ---
 

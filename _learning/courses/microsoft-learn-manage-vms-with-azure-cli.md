@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 51 mins
 ratings:
-  count: 4969
-  average: 4.697726
-heat: 65
+  count: 4970
+  average: 4.697787
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Manage virtual machines with the Azure CLI"
 
-secured: "4j1FxJcP6zIQu0LAGvYiuPRfHbXZ2rfiDK5mkJ5/qL2cj0TxlMNT5rhgPQzQfZ1MObtltFeF3dHdHEptVIPg22ZLWxrfsNdelL+PjLl6ZHmaXEkox8f1UEiLK+QWB8tFBI/3br7fNoip9VO8Tq1++QTCEmcBGCeb5OPR4j0q0VGWePYi43zN4QG0XRMshZeWh2di3LFxIjAS51j1cTPZTZFsLpywZOTbWfzkc5Rtt3mOfWOaJjkEaEuJqVZZVBq51+bQOzHqULhet3eXB/WQCd9x0zEG2+u6De6DZPIBWlzxkpcblaz1cFuKVe9Wy4bA/ZXjJOZ7TB6ZdcrnTnH66FU+M4jwCvk/2k6NePylg2T5SWflFxVolTmWfwGQGLPQMi5Wpmt2RATO8XE8lAs2Bg==;aa5fI+npO9p78J3k3hPNBA=="
+secured: "2cytje4MTEiaqN3U0yeSgx/FIAA5A/im9eZv6HJcaI+PY1Gx2rZmYE5znhZvGbeDRsBZ9kYrQMoq0+OgSe2/j9Z1GkX+3fSirTtgI3A427Condx8OPzXdjCM9grS2+192du5WzzCuilg0HOdgTVFCdkGt42/UsemNB9sdDixofre5bBTb7J9gWd0GL4wkBExJG7+IkjPouw4IPsI0/7Rc1wPWCdZ0jj0zWHer7Y6wnABlcXK0HSwMi7nSdjGXWGqtSr7+gCH5PgZPg7XRCC6K9UPmGK5qF0jOfFg0fXPwnlz8FhDj7CUFDaGDBHGRSAOfWvsrNtnRbHp8O/XAXtBw3bvfGo08KxE7xWUh7xFEpqKQz7Y6UmdlEcs8yXnf4H8OasJey1PsGB/9klkqu4+Yw==;a68dSqyMkHbF1ToviwEnzA=="
 ---
 

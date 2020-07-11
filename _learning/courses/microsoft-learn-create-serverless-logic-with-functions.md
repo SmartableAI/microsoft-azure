@@ -8,7 +8,7 @@ length: 36 mins
 ratings:
   count: 5384
   average: 4.67552
-heat: 67
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Create serverless logic with Azure Functions"
 
-secured: "manxllQ0RkngHPT1ml3o3q+iPN+89t/L6SW2/x8ARv5qwi775/N8LZFwU7bogRJKFKWXW9rEfUMlxpwYLQIgfzpKsLmJlShk8gUP1ygzBMC2POtmSPjNJ8TpdY89USxwApp9Bsbh+vnjS6/9BHo6KBLCgd05P3GojnDv3acq3GWma/76Yn6pxdTqs9m66R4M1LUGlsgu1KG5vrs0MeZDPPYgfexjifH5r3NJXaZmPVhLUycZx5KXsvXY+4IyyKQEga9Rql6z93TNaMTzEeAmRFeadPo/xCej7WRFSQAx3k+25FiXnkR2kq/p18Hsf1TjetAXk0XzrjapQ3uoXO+XLXpSw2Ge79MRs+v8jppeHQKjjaqFwlqaznKA6d+/ufWwnP+2uLqF5xEyRIH2knQgRQ==;k3cKd/rY/wY/QpN4Mvny2w=="
+secured: "UP0T4qB+trfDiqynyQnb6G3mY8ylNqN1+Qe64TmmMbxXAdukJH8t9QLa82zdS9ir7sDdH35cz0fknvHUy9/nwFvBJZ3GijiFTkLu6jO/K2/qX6R19Exrt5J7Hg7j93+6OyQHgIb/64saJYbPwjDYc7LTFLFLj7yyZarqKPHUGcRkEN4HsFfS++vpmYVOP/+wcDODcVJcDb969bKTyOYMmeCAzKnjo3R2b3iNVCZgzyGoRsxsK4WaFGh+zBF8MDjYjBxTt2JFKJ8fVNlNjwZ2Ez/1Ht/ljJD6tgTXCjyTNxR9DywjyYiCMKLsl11hwfDkNmmvbRoCE36po3PCeR797lhuFTBdZPRXU/kEsqXT8DDzjh+gHWNpO5iMzwUGfDy1CRJFWoYlxAKHRtJ301/38Q==;DGvUtqZ2RISigTtk+935zQ=="
 ---
 

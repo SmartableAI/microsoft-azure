@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 41 mins
 ratings:
-  count: 1370
-  average: 4.6854014
-heat: 67
+  count: 1371
+  average: 4.6849017
+heat: 61
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Create Azure users and groups in Azure Active Directory"
 
-secured: "Ds9YZXpB9XdBv/bGNcrhvMOj0nCisZSzZdZkLN/OfS9qkWMXaeR2o5CJ0ZT75XPPr5ahkJaq3mVeepRt7ZevK0HGtuzydDOCYMCNMBVxb6WZPQPTEeHyFGcu18reEUxB6ne9YXdTF6+x8/iXKcZXj3G4Z2Yi7bBdguftONeupe8C9rspXSLKlYnMwFFbDSOMZepRArXyJsn4If6oA17cUHPTIArakvVZt6vjrDbzAaf3PIF+u47+lQnWVmS/FTmOyvVfk3rucoqVEC7dJrQkYcEIdWMhjZpe0yeF+IN5vi8HmQzwPgO08v34fYwhJyvKBHb2vuiQxsNyo8/4lbcJEBHCi+qS81Th2Kw0xsgjK3huTY1uojUDpjwyqQ4Nwlv5in0zYeJvCF+YqJ8B9BHrcA==;5EcDTo5y4Tfex5SGg5SCjA=="
+secured: "jV9JNIqbx4Em0t2sw2MZh8FuGl+6kFXNR/WE+Q5Z249cELMJlDCT4Y5FxUIoh70Si/nLOe/HCgy90Adm2otNeQz11jVlv7mdYgoW7YSqhSh1O9vbUcE7YmxPid9/okrKjHRFImz7hj2ITqmQpbXZ67/7FpPbJmCSu/eAyR6ozJUHVFqNJkMcjhGgucrauGKVJqpGj7J21Rkqu9QAH3i0OjfKK5sclvw1eKie/jwISCBak3/no5bGrk+9xONWpHnt7FOggDI3cD4+JGBe/UZnbeijmofgApSSzghqP74GhBajIM3g7nXHjL2lYkrQCuheZ0zWvZeZ5iEP+m72PhOaPqll0paod55nKl3J8SeplU3R2POdwqcz6/Q21ebwaS7N/7z4+7j26ftwx5m06Ps5qw==;CVxqAtIGuPs/Y9R4MqtTKw=="
 ---
 

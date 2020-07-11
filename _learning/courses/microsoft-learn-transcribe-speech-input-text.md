@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT27M
 ratings:
-  count: 144
-  average: 4.7152777
+  count: 145
+  average: 4.710345
 heat: 52
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Transcribe speech input to text"
 
-secured: "QKRu4SYPyexpA5V34hWuA4Oax/IkiVGoNJ22Vq4K3TxARv0UN933MYc8pOh0MUiLjzvi5scRo0ZNgJNw/i7KPE738KaL9F23FNHUh7R+rJDQ87TNUrZQIqcHdIunrPle19PM6qcEx6PxonxuSn9Lr9XxYq9aIv966l/YgQllqx5aXHuZmftPSAqqrSRrC2WDACyrGlB3cVFV8QkEqjBRrxL5T4Kt8JD9/c8UA3+uHzOL8kUmGNbkEEWO+27EGwR6ebZGUflcsO7Vxx/Ixv72tx/ULgSOEStrxcbdqYjin39cPFZelLsdmP+n+c0Lx/IWTeYKanFfRkAd/c0WObb/nORHv8XtKu66WfxpNrO4wSWH7XEIiW1xvDDYxnlAIeSosn6NOyBf+sJo9p/f5QULtw==;XMwdXgFykEE9r/K8er9rSA=="
+secured: "wgvhqh+cPFs+xzL+FmwPHX/4hMP//RH+GpO/1v3/eUB/2VT+hQvpEdh9oftnbeAh9CKLt1JCj/phulrfHbrjW1re8k6fH08/iuqG1U9TT/qTMwh36mncJsnK657P8QahO3iJWrsqOJ8+VKr2mrT2VobhEz3BcsSOypwwwqJRWf2l1x42tA5vUYLbMon968ESvhBcaGPPo8pMkzxvt+G2hmyxelE+LB1Ej7Bf8hRw4EaqVsjRiAPXYfzH+z0K8NfS0vxGQu3Ftp4aZit7LG8ePYB0vYSv+blAsYswBbKFU4rP/JC5q6tfFPYchx8aPyC2dxzmOvrM4IcTcYcApVd7QaTUBOVagmjjRGfRDFuzkFGmAOcvBsKJaJ0ySDsOe4cDhlxOs0p6cnzg5FQ6H8ynmQ==;DIWoOJclr0HuZqCg1jvVQw=="
 ---
 

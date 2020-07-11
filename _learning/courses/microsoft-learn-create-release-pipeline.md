@@ -8,7 +8,7 @@ length: 64 mins
 ratings:
   count: 791
   average: 4.68268
-heat: 52
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Create a release pipeline in Azure Pipelines"
 
-secured: "IOW+iqnfFiFuugK0wD+QdlyxYE5ENiwX2IpvsIGe8Vqj2Vh6XQqjTVWbTfwY5nwzYY0XTbBD500MXVrb8jZNbDczRYsLOD+WvYK12Du+s2Zgb8QFlaIHDH6FSvYB0yPFdgXk73ks8qBGo8ewsZuJVlnQykgqX1tZ4/eWpe0turL0/7YL96zZajN4X7Mvif2999cbBoRcCN1Izf4GI7AZ90cNzJugXxprZ3ZQKD8u8UGYurEv4tDwzhPGAmkNgQHoBxAx1TXSo7FbYGgFQcWGJrsSSfv2HNX0Axg7Pyb5XCyYk3RLYeLcROIqYShw6KZcJjVU7vFmf5Cihx6T6zxsGbark+txLvlgYqCD1wp3vncxxSMVEFTaLybJVNm6MwacLeT4q/W5PX2jqvgx5Zdb5w==;+huUnzVw5ERw+90ZQWjs0A=="
+secured: "vG+/onWXTXvQ+jjV68BOzaV0yDZBMEOnTlPgftZLhlZul3X/pMwCR2WYg36BQxlWrHOCzbfKEuSBrjvy/EDh6kDHpMb2vK9avB+GewAraZc0Y7Qp+ui0soaADNJEJDY5maOOg8Tr9DziqNgQ+LlIIwz4w0lixmQsM9CO1VN14VIQmSNFkvwlY7eVlAjQFz7URHWA5WqNA453nt1Iua585RCuV2hlhJvYrBkVLy7MqtAV7jl1P+ynKv8B3JUPABOsT3sXbLozZ5kvAzGa+hvLMxjQpbYPa3vxjc6nWKuxl52QU8S72HX/sU1jJZe3PGS2GxVRs0n/2cbQ2kYDqaQQsippFiOCuNbm//QPqq8B/utGZg7XCEzJ3nRWYvw8h8W6tW5fPHSfcntry3vm4HevAA==;+ohKO1Bh/9c3aQhV+dZD3Q=="
 ---
 

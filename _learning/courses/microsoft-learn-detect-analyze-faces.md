@@ -8,7 +8,7 @@ length: 24 mins
 ratings:
   count: 83
   average: 4.7349396
-heat: 53
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Detect and analyze faces with the Face service"
 
-secured: "IeULrxMqdn4/qQGDLXsRUU8QDdsUvoKyvraewVd/iXPcUO5NBAHiyzjIdUTHSryWqoZvJ/loUa7ABDZF/SYB/Onjq4uy4ySSRJu1yjJkRzSYE13VO5EdX+Vt7sv7L5GoaPC+hl8cXhEOguW1jo9HAlkYMa5lVsjOCicv74wiua0b9qA/xcx3K5D3x8Lw9/YPcY5GW+Oubl9JlINNPass1MJO2Xo7u+AytCQuN9nNB50h0mba7Ui9tJJOlZnEacDvf5eOIf/VJRnKUzw0Lwu7u0Gl1H6vSEEPib4P4L5CSVedATFcf5wV+T/cfQIc1z5QvgTtF0B+msFsV8JEgvb1NZMMq4H8ss0ZbyOZscXm97PFieIGGVTrUhLcAgSac7g5WJw6q1Pq3YWVBR9hQAf5dg==;ipzHsAGPKHGlaOJp5FvHNw=="
+secured: "OvlZbUeOtLZfa5a4s/IAjRNPtfvO2isgFwdFQQf44p1hmKqXt87ycupVvThq2+DzRq0ITN9YxRfAnFGWudpvxMLEJYxcIePZpi1d7D5L7rPvdafFVyRXnWoByjGqIql6GtiOmLuG1q7pz0GIFZ/GFesKX3SeZ1ex3wMxK/p95SSctXQ/RzgC/nl0p+Jr7WKlCLdKOOABah6p1kKBjOWfGE9s0RX0gQd8j9LJmFRntLDiZXtix3AZKm1UOBMqKEzCgmF77cw5H8sXkIucdgVDK8/UdeOwiH3Z5dkzyntUxy/1OSID3xBBAxTSskvaynP4/i5Kj4FSGtsJrGyrOg0UiF1dlitiTRwDtYp5sEbcQJ58X3gXkPC1slPHq22ix4DDJU7I78vaQovB7vJxHXevJw==;X/02TJkCekz9h3+LaLu4XA=="
 ---
 

@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 60 mins
 ratings:
-  count: 1202
-  average: 4.627288
-heat: 55
+  count: 1203
+  average: 4.627598
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Query data in Azure Synapse Analytics"
 
-secured: "imQe/pQAsMMTLHpQWs1jcG0stDUtUFaqsPmT8mMr6Gzg7FCN5kg/A1aVXBtcM608MUhcjmwot5d48AtxZ0lS8EgZMZMim+vMcrzWhN8a4DxWbbwn7hh0GeqrUcAjf929ErSsnY2uzxiwvSS3cw9k6iAQwk8vX4n6i4McAvr3Ru7wgAP9g3cmO6P+CqoJ31hsfJnxb9s1coVqgGcjWxiCv7cn5gxHI2JFAdCvZDXbO6sr58nmj2thiTy1LRAIqqyVUUH2YV+CC85n3bH6LxVRYTmYhnJo1PbAGWLd1I+fQIcUtpEmyCNFiJfDR/mBv8gyWPIzjG18A0YQscJBxWKeaADz+XiVYz71yxnUfrCICkrIfi7PHNNfBnkqP9utzbv6wkc29krqcr+ECb6lt6znEA==;2xOEtKseYoTom+OjAfd61Q=="
+secured: "WQLh6z9YxJTQqotqcmjcjtDfiWEnk6k+eORsLV5qvHm6JqX3cBFq3sCK+EcJYACepKO/e0i2N5uhM9UkLuRmZzqyc/1Do9c1k+DxhMQ6Bs4zkLpSdQumA7hGkuYS+5/mfZikCCNZhh4TTVT88AA9R9JFUaTHBcztLezOlSmBRuyLMveT6iB//7n3LpckI+/+7ToNrcwy6iOUp8emaUIEMjQwZUQCNk0F31RuppuxJ0oMpy0Wx6uDOKT/U3F2r2hSzEureLMCd/OhDiraIS/Un2AKZTa0J46vTdpQtKYlUYRnp64AatVQexFIGsd4crwomXlHO3OahF9nUjhAIhUOGUkEcslbT5/DqtHb71yOE4Q0Os3y3UQ2FEdOmPAdCQZoEHoJH8qp4hMJ952MAShV8A==;hf0ap/89kzqpv+siK6TE0Q=="
 ---
 

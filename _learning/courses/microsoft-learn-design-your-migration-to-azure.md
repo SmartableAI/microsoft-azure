@@ -8,7 +8,7 @@ length: 44 mins
 ratings:
   count: 1102
   average: 4.6243196
-heat: 55
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Design your migration to Azure"
 
-secured: "Gu0zIbz8CejBclrWqIGChAJ+e/lgCpsuYoIooEU6SXGXpPF3QjJPQdHASeqXBXL/33/c+UTspH4xCB1BJ+2Z1CJ5d/ADBVH0/XjiXssFZ/88iTElfad6qb1W2FLuQBo+HekCv24Ou5ergtYZMFuJVBQ1e/QsJJDcExMZaYBnJa51Qs+0b5JdXqyBWxiYgKsdqJooSgMqC20EgS9DTU+D2Gl4QivUJLG9TpF3kqscO2+pb+S6cbqU6z8555ZuIJxEgJguuKvlInAy6T1GOSTLfyOzNy5lrhy97gFkwxZs+L9QgxNDyXg10ay6HN9VaYgz8FiVLbeyxPQ3MGbQzVQuDckD2znAoB7Adi2ycF54NUgD7dEySKnVxX3AjB0atH9oSV+hvPjZoqnI0Rs7BbF2xg==;Mfo9RrmA9SE2fv6tjrP8gg=="
+secured: "6d9hq+Ss42t79muGyPX+wNQhfPuBkLkTApLu72X+DwtNdVtiVlYo2xxf9RUQ8/fEdIL/fq3FuGL6UdgzB/jd8UKhr3lqfbjBnJS+3OjBUXU1cMPGAlqh+YuyJgIV5YxUwtIkD1M98RY+rX2pCGlnfkmey/h1FDf46gdFNbOWdwVMe23FtKRXdgpksGAKZsHtyNkXwDJPqFk3EFDluwGobJabf/DamMjXB+3XqOH+jO7CNtHS8Tr/v8nGU/5TEf5KPQz/jFc/sTcXrX9E2E68Zgw96g6P3wQvDqPtjre1i4Q3reb2KCc+T0mZpkp2Vb7TZ18KmmKZphtr/n9nR3osnHH5gRwifmkckLd/PaGiSWTuddJRrAE52uIhqCa97+c2FTTWCeyTgp33tq55GmMI1w==;imwvVLgJcv2F8CrRXhuUzA=="
 ---
 
