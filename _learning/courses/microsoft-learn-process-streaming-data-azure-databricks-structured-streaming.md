@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT46M
 ratings:
-  count: 24
-  average: 4.6666665
+  count: 25
+  average: 4.68
 heat: 50
 
 provider:
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Process streaming data with Azure Databricks structured streaming"
 
-secured: "gGiCXunqx/IVWVh/tCBwr2ErkWkF30If0tQI6ZRXeWJ1mf+xh8FRziUMvjJU7jucjZER3fNhByx6Iv/DhiJEhDe//qOS5KNrPs/r4+nus1WaTmLkAwBB1LjC/hOtUY+9AJPaJa6oJSrZ7dS0mJmNl9OM1zm8CQsR9oqqWw0iYGnKx5+C4ufUun74hCwepfD8cKRqKXwn9vBs5froGrkZfcN13qMGdIxv6gYS5JF1xZKe9gNPLEkJUYrC+gkpzvHoTGYjni7PQWd4l+7s77me7e9iQ0ouxuNupmFUUM2uyR3VbiBvNYToTzlzv5V+ESn/atneb4/dHFK1/uCgHdqKmOu3WI4BsGpkHSTSlQC+RNfrYdvpcYsgLh7oEcgxkHGOwIEpJj4IJy1XNtTwP/CeSQ==;sEQmnWnMGdRUbUwdFw1yOQ=="
+secured: "4ttR17DEOz+EhTcTUM6j6cfdUptYF9KHJ06SvJttPGhb4S7tMuHGd0cOf06uH3FVaLNmJuJt2ykh+YD6qKTOZNPxwXLB02/uxEnXYGoToPyqTjIyioJiHJ31nKYb4ridTdY/adHtGssrY1IxN2Ol8YqWMbKJX/I8/eRr+YZuYJWA1MhZpjg/Shi2t0PeQsZPQNT5xrMlv718wFJ4Ff4kOSL0VB9QxKtpdiYaR/yTcFlr5T96Ue1sXVwVm3lCS6q4soBu+D7uH1U9/coLhyhKXKbwtLFz6MC0A555Uyx0L2KTWxeerwfVR53APLMl+fvUdaY7fQx5MKIvUCL9VjooywJAK3DE/iP/2QQPh1/HopdxgfOXmssXgUeVJSwByYUP/WKKqTVDNSKMxwi06KWPbg==;lt3j0nZoQbPX0nOfsd4hmw=="
 ---
 

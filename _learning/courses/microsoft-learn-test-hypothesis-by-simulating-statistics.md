@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Test hypothesis by simulating  statistics"
 
-secured: "JCfDBnA5Hq9OYHS7X4+t1jIpndiFqtSC0P77/WXUOwk16QLMu7GUBOusd4Va11+XZ4BY0qS3ue+fDgk8a3leKtlgtY8FMFQRe/dezCwctzeoRstSicbiS9Pk5+lScqH6LZ9Hl/Exvo3N/pUwKyyq9tvH6K4Uz8D/8nLyXCOVaitXimQTTagFihGGASc4LOwHLbLxxxI0u0bKkpZqFSjtJs3XRqbDmwpHrUxZeUM/CpfHWV7a9bSFyBrOniVMHvMHlDHdE+/ndWdaFFqovaa24hCeET/UUrXxI3b60Wfiq++FNd4kxdtbjdTDevG82PX61x57KYS9CC1mAWl40kmDzFhD/taesoh/Db3TpCuBH6/yuHEu7X0oZF0DvBZIdEGonSLTRiXQlCVAdN4cYlqO0w==;NI12YL6Mn5f49bbSxLlkNQ=="
+secured: "llYqDLyUa2ZIFzNsYEp5WcHSqNbQsoi0h6EEw+27jcgDtYLJb0pRS6ixYdiEEhktMmo7NgdL6lzNlnHoCz/VzN6lmtjyukKzaSXHA+VeUvfNz4V38yF1+rs3LjRWUpn2/fb84Pyg3kGG+fjS3Nx3flpGntCx22StBGs8CcWUlG0Svzca8qIv47hQg0/NndOEWZmnG+z5PQ/5gdcueCWgV+5QTpnsualOXgMoz42HbtXTRbXK2FC6D6wN0CD54UnqvhCdkmBdQrFqHwW/icwcsRqh5RyYVxoQ6w378nFo69s7DT9t21otIM1aerzG94iqH09bnuCfGdUIFWyRMlqj2+GpSTrumWT3qmmyKS0pZ/P+wOzC1Xm1WA93sxYuaos5yzzWJVYKM50eeEwXNPQ8dw==;a8u+hPIdfObnfcBqk2mTFg=="
 ---
 

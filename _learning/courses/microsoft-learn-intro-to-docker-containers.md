@@ -8,7 +8,7 @@ length: 32 mins
 ratings:
   count: 2026
   average: 4.626851
-heat: 66
+heat: 61
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Introduction to Docker containers"
 
-secured: "0hMapvvS+olGEO/ThUbFjXlRlicYZqanO42kNdG0KbBhBZ7mXIkFGAd5iE4hYyGnKTqdff0vWULLpDkZtlW6U5g5D0UN5vim2d8TM1R6rNoj1lLzQfSrstysYBgi3Sa5EytXNiGVpxnrEz6kk6qDB4qNE24WNPr2xMMT110ekwR4MOrqugEEJMRdxNy6GGN2WeeqPRsStoMj1mWye5hml+ns1ZjgwWx+l/p158K7OYdkQkyCwB+MDSSnhKiHN/GcsbNK1D1IocD/tReQPhjU0l6jJPCjDZGYiWxO2/i6a8gotNT/ppmrzKGI6+LKW9HWpkeESD+rn4ckiSfpFs5K2Z0Da7WKgw6dVpsVunMep++2pSHoaT/XdD1IMoiMxWqRgE3bCHvt4kXs6SLSLewjdw==;h/xDiIr0sbfCCOWG8/cJyQ=="
+secured: "K8OHK3GKC65vsDXUHfKv5Sdotqdxd5X/hNQXapTtQhXQ28cXHi8Rdqtz1MXVK6MntAZsysvP0pmdhO/EPX/WlT4LDcXYr+uxnPsFRdWVl5665jiSEHo1XfMi2kxjEn48TU+SuiN9omUGTWxK0R+s6ARu5fGrVJgVsgEg1Pt/bdTZgWEHPwep5WbdiHrNlKfMDbupLO5QXpbZ4p7rUqeC2GTKz1tm4sqfDEk2d/RDvDpTDVwba03/sajuBixdIa093pIBDIvhdN38QTbgAmBbGDNVWNKjNQFeAiZuU8OOGVOGh1xaYOLdkM9fHvcoItaVxOuGkXg/QPSkOY2q5W69WYP/LU8Joc6bhBhKjSrDVrY9Jpi64VmtHySlZJqfIthh58d7C3csPVAY78jmo7Qt8w==;vlXVrxRGrCDxjCP7mQKvvw=="
 ---
 

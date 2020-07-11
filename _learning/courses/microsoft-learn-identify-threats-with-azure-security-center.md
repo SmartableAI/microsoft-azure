@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Identify security threats with Azure Security Center"
 
-secured: "VNVIyfKu96G2niFmdTw0A57O8J/6/9EuACUTwx6FynIq5IYrqmoDVk8qL8wZS4qUGXNhHVf6hCj2+21r49T3rBF/mnR9axCrOZxVO2t/5WA3UVSl6kIpEyvGa5fTlTAXG58ig4HzXmuZPWI2c3hYqzDIvN9dDUGc6pWExtK+2RTV7seBvxVRmnCVs7lPSNkXtb6ZfO4Asdzk26uw/7MOhbJRdNABcU1yc+AaxESt1zaWg4+gvjT9JMOds9+0RNJlSbRpdNrxt3nZouQhWxFkPfPmaCV7g9Ymx1bq/5iDb3J2E9jMKFx0fsOmn/eZiZdKAdA1OR0uJiowZ+YWtv9eocS/QUxpFjdOH1iMoKfQX910j68257kIsKzEfK6TqurY+Qpx8NAv+11/TlgwSDyoug==;p0PRcEYWn5TwOwAXEYTpxA=="
+secured: "f0YuqZgVkAylq1Cm0hH++/IbSUnCVL8ZYQqu3+Y7rZKpnRz2fxa4GYYa7ULWqq9tDv16IjDbe3Xp4qpkOqFIqEgQY0GSeiUzfeBaEA1O+htipUxAgiktY3V4kCi1ceBcJw+giM+xO8YoRQKUsP0/EarVKN5/UWmuIKvtsVogbmEwrE+bWBqi5ON2xWy0wHHEpXDpojEVLN/vl67ZBGm6e51tkMDu7srpADI/BCU+JN9c8RB320B36lx35eAT+4P3WrPpoXFrZW9jmQAJNQ+qB89WcOwTTLlSo8d1jUkqZznXTrhpXhdzb+r+AiHOsG6Sf5WLlsuNg56PJX9I4/VMQ5/HalVuepjUXS7slmPMXxmHINo+PKhYiTB4Q0/dWiYUGm2McrQasJzbVfHwBgql0g==;+CM3L2NZJdLktofcHmXXJw=="
 ---
 

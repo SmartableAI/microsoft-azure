@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 30 mins
 ratings:
-  count: 2030
-  average: 4.703941
+  count: 2031
+  average: 4.704087
 heat: 50
 
 provider:
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "See Azure in action"
 
-secured: "F+u5Apk6GKSpMEFgv9Zp1edfR9qQ3CGyXaAL/eirFlzCoVZePoidEw9899RTBwIeMizroQ4SFoQRMNJ2MDJqS4Ui3b4p5N6c8yeS1ifML76Rxsp+t3LFfujDFx0HU5ER1V2jWxULtHg7ruiuxNIN7nJxUZtfr5iXkm0GpTw37gYFDEfJh/pkXK5Kdnw4ceKopWyJIxkNzIpx4b88U98NOoRy5dlMhGAGi4R4nQguWiwLHYEvltHhWf2PJp1PLw3HUbL9FH+h6XAX4BxaQXRSXI/kge2HmO4iJEe+gVBTO6rEQFe1Dp+OB6SmUBOr29Qy2+j0jjEmfx/xi481WuzdDTfjZ4XeRN/npg4B8NhMsZs1ilU3oyxxezE/BA6Z0mABLdBztWbglZiLWcQUjYdfnA==;1C4iufeUggOtiIs3Qz3rpQ=="
+secured: "DBT6y3R48vvyZLl01GtYyCM/UbBg3jox/Opb40DdwIK5EEhFdhxcP552JwY2g3HijOQ0KunKMih/NelVvEHp5H9c7B4U6uIUP31CvXMSjHWi0d7OZUXoZxEFEJ+kOMXgoa3P7RtU+p5J/M7MsPY/K+/a8LRE2TqTaQgjkYNbkdlySiZQOWFWuVQC8Q4f0sa7WMU3+T7BO2PBlWOp34gGz0CZT8VeXZgzVjF1UigUNwBPTQyfSUgsIJWumS3+stdyokvH/32+9U8fooItedePzS7/q6WRQ/CSf7Ounu2gAMX3zi3N8NNACB9pa5DKhf3Q52aC7odC+ohTbSzs6jsj0tvWiMH9oMCLSWS7l8DPYDIOhVceiORobGCQrIBQyTRTk50TUfgFHP8N0llUKNxLZA==;BZmu7NqZ5gEfWuZS7X7HYQ=="
 ---
 
