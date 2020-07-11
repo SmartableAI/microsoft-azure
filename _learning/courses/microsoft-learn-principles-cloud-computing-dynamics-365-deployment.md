@@ -1,14 +1,14 @@
 ---
 title: "Principles of cloud computing and deployment"
-excerpt: "Moving to the cloud allows businesses to achieve the benefits of digital transformation.  This module will help you understand what it means to move to the cloud and the benefits you can gain."
-webUrl: https://docs.microsoft.com/en-us/learn/wwl/principles-cloud-computing-dynamics-365-deployment/
+excerpt: "Principles of cloud computing and deployment"
+webUrl: https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing-dynamics-365-deployment/
 type: course
 price: Free
-length: 43 mins
+length: PT45M
 ratings:
   count: 1398
   average: 4.6888413
-heat: 54
+heat: 94
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Principles of cloud computing and deployment"
 
-secured: "C1IcWktUKOEjPpifpxv9t4xT3ncQRh+p2IkxIWXktZsf/QCtB7yIXPuwfwxwHsOC3dy7MkurTUAkM/SD0CwEAADhlMV/P4U1Lk0+NUxZy/h1TNQK2syUNySVl3cfZFHYIoV0aEr7XjBM+sdC8G3FOyF4/7e4X1jRKmCtf1uQXvqtcFoQjL0dGz77EJvxreVfOydQBXOU62+M021QYSN1nO/K5HaDqQQtzoFFPz1yr8N6lMoGYPmvNDmxWKVZvnv4Biz2U0/hln6KqBaPX0r4fFmC9juOH9yIAyRDXGvyqmMELBG9qVlfbGeVFjkQUI08COI/zFULdsBXEtPhITc7Zhv+foIhRAyGfDSgodz9fqwoVsMGzHBIhosZhjtGkl2Fqa81k77CG3EdRtZ9n2REug==;9j5//nwcWnczfRgKpDGR0Q=="
+secured: "GAcentJvLcB4CJ4rugulP0wh8Yr4HAurnDT9QBsrvhjkCGYs8XtAEqti28ph2UNQtvmPv97X+sXEFeF6CCG+oGpRBRURMBogakgha9Tn9mmAxoQO8gspucps3tPXHJAL12ZfUXdUG/NEpxuFNqFHWilfELRyxrqE6XCDJ4foJDJChlxF3/UK4N2P2HqGCJoF4vQxbsWkjwJ2pRwt9UKWVmD6fcIzagkJBLtHOcufXB+rK4uuz/45YvBO+4haF7L9BBtCASDAx00Xh38JGKLH9iWNhFYVFYfSSwktEvZWe51/rQcs5/LyKqMqH0ZSZdR3ThnNKJjP1xw9kbnzte8XbCbhguyb1uNSbNprUOQQxnY8lJUOdZ7fz//AUWhlNeem;UI84i32QtY2AsIQMzecbKg=="
 ---
 
