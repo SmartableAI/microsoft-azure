@@ -8,7 +8,7 @@ length: 42 mins
 ratings:
   count: 1263
   average: 4.647664
-heat: 55
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Store and access graph data in Azure Cosmos DB with the Graph API"
 
-secured: "osJc9eobTsJe2J8KYsZf4SOB1RjGZ4oOfAT/OtzuMRUy/hxhfKiVtRF+zerVyscPRF6ybksf/hWXyOdwKrrHXgovIZDZgID9FkduotYtPGwli4iQ6y3NO98sbFxKj4ghZt9pBQ3d9ymtWQR28Z9jKLOCHdckEXtslFx8d8ViJY98eJ8J/SWvajDlMaKe9lHfdypelUowlg/bcd62LrJ8n+yVfB/fCdtSSZb2tKgN0FFNTZv9HF81/htff+UUlci/c7A6mO1b911KnQrTaxgfrnuga78UA42lHqnGAr6x+CeMD+XIm/XMG1M6c7tZG7ASvB9ueVTJKyawL6EKLthKcHzhZ07UVUXjpilyfXiHZRkuVVqTGQgUyOplo8Jw+TG1NW7Kq9mNDYw75WDWnqgEaA==;CeBjuUrHQyqR0Y2wgxTEFQ=="
+secured: "HlOsDVIZgT7kgIlk3IgakBx9PT2ehdU+VgVV5nfcCpwSLzi38/oIG7dYda5flMVKaRYlF86n9sp8PZzw3odPGDCsfl3Z5266Xhzd/fNoPa51QFMw9+0PS4Bo+8lRzLMIBqXO+dvB8iQJrUjI2UDZq8EfoWJUp69Qso2j6EBw/hrFZkJ+F6hKlpBiy7rQ2OVn8juuk0YJbbH077kuI4BGYjseuCk3yfSvizsQhGJr2K5b5JoMiBbQZbUfc4TLy8p0PGIImY2LKH2MpbdrRbICJ3EnJsIrb8OZw/z9n1DHFgQJimPxo06ZBif4nJqHFkzutW00ecwA6CKUri2cwiafdOeCug1snb7AbhPHWBB4wVu5+1pinUO9xUKIfT72N0lAfPflnkh1fghFun3zmdPnGQ==;nzTib68sFzhaEsloCPzh/Q=="
 ---
 

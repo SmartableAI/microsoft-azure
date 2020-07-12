@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT28M
 ratings:
-  count: 27
-  average: 4.703704
+  count: 28
+  average: 4.714286
 heat: 50
 
 provider:
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Implement CI/CD with Azure DevOps"
 
-secured: "DnY+n5Uiq1YpRVTQx6ve/Ugzz43mhfmX6UPs4theOX8oKSULk/X+e3T+ykUkSZvD/qvdJmk4Ew6Dn2b165Mqz/NYUl/8n2zgB4TYuMRS9YYtmeSIxBUO/8MRwiTKWff5tpy2IzqmvABm7Y50Qw+YOif3qljS6Ni6aCIz1yCYYZYMgJd+65egG/w+dB8arxkLzFEv5ITiYXx95q9kU739k2IiBCs+FCxNvwJe/3yQxN62XzhL0hTKFCpMExSOxlKY2bN8qz8Wfho6rPlYuPkqG0R0AEiE0n+boQSH/BlBrrx+ppvgNO89JqjCb7TxyBbfPtomhu8OnedZUNewMa8Mfe+xwYBwMqsmrvjCdmest5M3FV4hZZ/Quj1ZPicKsdiTIs5P/la6tCSXPL1zBU5V1Q==;DauF+zWXoumkhKHkaPcI6w=="
+secured: "Le4rJL4mDT969fYJFgkvqU4RkQduNzx1pKICQv9lQ0g8meRV23+BTpTQv8zcu9IlfnXOZL+Y39ku3BtZUwiaG4QCR13J2sB9+2NiOC8m51ni9JwoFHeFp3fMYjOCCNmZuXnm0LIYqtT684OiK0Xr0hcA9ODwlTj5qNaRtYU1k2d3+zqB3DuiRETerjvmLpmaXzku+YxiZEzRVIbqmSWB+gezlIJfW1+GhmglTdHPqE7NaYQpHrPVqs3DHhV5E0r0x2g+bWT5h0Qiq4zlmuqIyghCcbauuLNzsZM0YjnXU1GWu0qupuPCgBK8zNZeOmIwG9sg/Ec8u2ZfUz0Q6Hmns/ttSD/wGyx2Q8lxr+agXSUad74KkiNvSnijmH28Zr/ki8Tc/LRhTzf5aIwnhnVK9g==;c0xq8y0BpX4Wb8ZNQx0oaA=="
 ---
 
