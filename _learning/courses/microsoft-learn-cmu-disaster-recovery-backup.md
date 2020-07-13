@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Disaster recovery and backup"
 
-secured: "Fd60ekfGeteqs4731NZhYkyN0/OfZ5DrD5hgBPV6vGBuRAOtZkk4Hh6SL7l7X8sIJ/gOUrkUnUbikxeg0B+MPak2Sqo+XnQBL+4t+nXd4wt7o2ZfChj6B2NsX59x+bbeulyFphXUtsq/Q/fUj2pJFwiJfjaLC/ZBBdgLZssjgfIhDoNcefX4GNf4b6G0l+FuPqJ4RaWvcZW+VpF7/jDzdbzC33FdIV3RPutVEP4GnB4LkIo8sZcQ6qNmSm+rGFn3bA2trokDifl7Gx6vKMrcmemDL6TfKdE1Xk1/6T7cXzD+62pSB++CV/1fFRmWDXotEzZ3EjQYEY2APEDNkoZEBAMJVe0pEBhEX9LEmlsb+SlJm5cFXOwxykf3A1ptuYlDQjHePhZtPd2MdG6QsufIOg==;idjnlGCOxDIfOzK1oQMitA=="
+secured: "hB72PzEgQKFb18dJPtSwzytvie8mnB6RpR0qK7Y/enkkqS8e7Gw+qIq27g/wjvIugdjKxcjlNcHYsW6NxsIZc3Ux4cBKYSuIFablEmxhnZBI6ChRdeEjOVCxw1xHrU/nMUQT2+p+AECiPYxg+p3pOz+SCC5P/OFrQQlnJz+1TMpEYvSOtEE4m53PAEoEs48f2898rb2OYIYsgWmZxP7jW31BRmEiy0KLuJ5vW2NqI8mQbd+Uo/WhdJJb1WfUF9Cz/2StDGYm84VzD9teY48AM6pfKLRviOBTVPrGv4Ivl9c07CuazAcqaLym2P1GqpPl4H6tuL2DvIpFAqxC9kcCBYOO1IPd2tiMDoB2d5GKdk2hJe/yUf2a5mkzEhthh2/PrQLuAGqRY8xoAyeZ+F5iLA==;SgSsUpprrx+kuiDfxX3xow=="
 ---
 

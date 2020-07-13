@@ -8,7 +8,7 @@ length: 57 mins
 ratings:
   count: 117
   average: 4.7264957
-heat: 53
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -38,6 +38,6 @@ images:
     isCached: true
     title: "Use a Framework to Identify Threats and Find Ways to Reduce or Eliminate Risk"
 
-secured: "PuWWIrQx30srXnGBEI/NwqnNqn0wCT3mQkplcTiDF0DclkdhzXIcR4yXJUePPWu5w/jSxIXfp28M1YBkaYoXi+AfIvx9DjNId9olvVarQIi/1bp1jfDJQesc+MODOEjCZ0/bj0JgCHdOs+38gyZyhOPDMnjGHejpvGeBqhAhKL2rLIS9zkFLDUx1LAxmTAqrTv1ubm5/ikTOHzqpXs1sIWeaEp+VNq2leCfILm2gaQNIgxnTxIJSUKaW6F7iyPcJSHxa19ybGrBsYXP+Pyginwa11khZ0jHIURrvyq06m6PFk+8pxo4Ta6cujI5BcIhTwVyfGYM49si7s1OG7ozQsOVk+06qwLZKgltOVMyAJUvl95tOIL1AqyZZrXbMsAvhgfz+SyKnbWqw9n3+evTbZQ==;5wAN3NP+ugMDcYFk3XvoSg=="
+secured: "6EXAsrTRDb+7hA8gSIhpkIK7lRys03Sm44czhLvZsEEiyFYqSYUUMyAXTcU1AFogLYjRX6sPn+pIVFXj9o6mpldYEvFVxcCNp2L2BDaqfhenlpI3rqHJz6Lm1/wlY03vKAWEuPkgbpDlNi3l6WJZdAsyznyqgUlcILCkcCLFJieAhnScm/tgiBn/QFL4eCW7OjJZHXnY+1+Bhaf9QeFD1DMEFfD/SkyUQRTLnkj7yPx/KxJnoo22Vi49VjPGZVsV4zCFx6FGpUuNPERGFn9Do6pLZkmvp405yWkxbTrB3lTzEvsOTmMffvT/1fd2SIuvJYxZrjiiov0nDE49T1QGdjshRj2CgF1QSIulBOXQiFxkRaL3ZutX9kwBKxh2Vywk9HJUoPn8fBXc/Z9fXhAUGg==;7lUcOzcXkHKYg+a+jCRcTQ=="
 ---
 

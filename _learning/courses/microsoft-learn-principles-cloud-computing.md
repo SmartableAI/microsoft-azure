@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 62 mins
 ratings:
-  count: 145108
-  average: 4.7721972
+  count: 145156
+  average: 4.772169
 heat: 193
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Cloud Concepts - Principles of cloud computing"
 
-secured: "bb/7kTFwNrYG8yS4WuhYGuxyQR5YpvPbYxd05Yj24Eavd/3H5eH1issXaS8tUXZk8unz7Y88aDbYMMUdYTvDn9v5URR8SWf69ItawBIyAyWFWjrXEjAUj+Wt9RxR2/S2uxNUSgCY+xXtb5f3bUybf1Ae0qcSmkAyvTC3PZWPVlEy36jp8WJeSkJvU3IKQZ6y4gITMlTx4SOM7I9Rcp3O5eLx1hOJMC8nkVEiJ3KwBNCwbM/PaRPL3g/RwSewhiLJJJ7krDH5sMLccQDueUFonnY/Em0S4L44X4GrWqNcAsL/kLjpnkn9QFQ9e4WX3g0yppNUs3Tln/glq56FPEGdzIBd3QyUX1xINEULQ6jWMZhEpm1H4osl4VThKtfSSUdf1QmQjCIcNvtVtgUURsd5jsEgQZswSc1Gy/mWoS1s4/M=;xdOWuiRbRShSiYqimQfOVQ=="
+secured: "x+eQKF2l+B7kuL5XP0JJ9pwFkp3UX0VdCCnVRWzhFSt1J939r1PDdweDHdHcJRLCj9oXMd8eWMAbvJyDiqQnXEncwpu7MnGujos+Q60YXYgm4lhzeKdWTHPdbPqYVsJI/8viw3F08MY7KzU7sh9XSCP6TxmnXjeiDLtE6jFWrx6xhTwh22fstbhxPIPaylhUSJYR9zhfrdwKnBBzswIOMjFzy3bZA0cLaWh6Z9nvMw8xcvcAVK/daNBmQ7LSLedRVQPwO1d7C96aRztXib7oYDb9BBPku35xO0uxqlIbdrtnuvAIZ8orxPJf1tqZFpz6gqF29dcoq6nZXeD+6SzsqjFP9yhlj7in+XZIfrHR6lsIeQ4Z+MkqFTFZZSTxl96VQ8Km/Krp0kjGFeteLUI/cdMKUaHH5LVFUf9PlmhKFPs=;laMxEg1wXw3rrZpeh0DfPA=="
 ---
 

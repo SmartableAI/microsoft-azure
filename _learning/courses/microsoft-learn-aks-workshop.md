@@ -8,7 +8,7 @@ length: 145 mins
 ratings:
   count: 156
   average: 4.74359
-heat: 53
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Azure Kubernetes Service Workshop"
 
-secured: "sjBqs5RmmEdrRbwfSNDbgh5JAN5F7Pvu3GAQlV/FmCBd0gmoY1AfH7+CzrACIRqrviYvMHt1PMdZPG8sERanJ3dVRFjyGjH8700cYSdxQHlpt/1rCWSEIWl2I8Y7D82KW1LsmYVUOfBOoEC8o8lGTfuoU3gXxaa5EcrOZO6kYnT0zGNWZU9YpkZRBhNTn+6ycJ9UqjdnwElzeiPCt8Vn+WDAScQoznpD5HbTz6j/U1pvmumqi1RbYUcknwA5ZWZQpbIgBtVsSrqBQTSAi+j/7QxrRl8w4CyvLWqOnBBwP8O5gGgXO+UwedubZQCw0L5E5k6uI1BaH++v159mqe2kZ+aW+5i11Pf31b/L9kZKDRc5AzBSPxPpocbfQXQy0/1TqqG7MEQy/nZgRrhwLqfB+w==;0lWOmOCVWt3KnbZf1uTAjg=="
+secured: "0TMYmbZpUaJn+Fb77vfVPnHIFaqwHtHZMARDc/sp/l1FlSuutfbqV3VFSkh7yTP8Ciz9p1vomlmyBzyy8wXRJAGcgQ6mAW80lmjP7zqutcREtkLC3wnUM7Xz3q64Oae/hZ6b8oN5C741KKRkjyAopPU9hYW9v9SOryXqsnLlk3UYOAngH3XwcS5taAI6WNb2TI9co5WTvpVZgrdDaOwN8gLRBriGSDNwXZbcB/aYy+ihfVl0jAyMdx1yOv7JuHBkexm3HwtR5b9fVs0BhHCZma6IW3uquvjuQ9n1FomwxPxtgap2qL1SNIg6kZHkhQrPZnzzN2nftHRNkdVC5ukYZ8Uxzzvu5ZQnHoQ9g5LiB4WFrAtufyjaa6TCuOAtDMHkvwJaNrHA6L0u1Ko1vWWxmQ==;w7IRI4vRq2gDKSU/J+IJUQ=="
 ---
 

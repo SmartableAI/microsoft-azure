@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Prepare to migrate SAP workloads to Azure"
 
-secured: "Y3vKnkNio/xqDTT7TPNyt0ybws+DGCySgbnwnkZ7fRqP3FJqEH3+hUuGsAL3tF6flVeBSvJuKS8/rrGvAoVvRm2+pKjvH6VqBMoO3gqPPJyDV5EGjTlCHX9l2+3ZTZsUnv22StVhRn1N+tQGX633jJrvQO9EYFgkmTXfhQEcepIdsx+u3fELBRxPZ0PTCzImIMsKmn2AK5LO9r0jY4vvqRKxqBLYJ3H+6IBATWw9B4YNlvw+Jdo2SHzSggGMtdv/hMYp5bpmYG7wdc1TTlWlULreLoqBumira35Jj+Ocs6FkWaCjh/4tpXKSn7A3RB1fV4mm8ObVX6S0B8S5L6ZWY2Ge3nhTrNoQ3tkQVqCrGgSHeJe4P+GSZW1OXWUmBiLchI6v7W+ms7Umjkjp9k7l5A==;8KU3d+LnBN1JrHaV22atEg=="
+secured: "dVns1dMT7qVthWK7rdaV6SUpmuSeTHXhaiY56vfT2TiJRceImZnomRRIWTJMg6HiVnp32tSKb6fAXzSmiYMPjUYc3+S+qkaUgy+JlSrww6dGND/Al03rYy3ulw0IW9Zw0LT6t9zJqjlOmJXLKMe0opfmkyzvsWOCDeV7ll2T6x+yRDbzh+7xmo51/H2ARggn+3/E9wUbwzBC1Y+AZ300kt0J1oaS0vmPzi8bnLzWnz6ziaDBc0TX+3IoMZGu7Pu/hloZGmAbp+T4VMeuv/ygbcfsOdzIZbZtufe1scIKwzp1WBJViN9i+3PY7WlnikKn719P22vzuIb86Xto5AMYL/5KupGnHxlsmkZ5bt1H7YXV/MvtlwIzFKAL+wZGSNgZhtMJde5KM14MGL9iDsPAFQ==;STWklNJIP3+oTven9inKLw=="
 ---
 
