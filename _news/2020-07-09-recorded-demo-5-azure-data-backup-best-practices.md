@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-09T14:19:00Z
 webUrl: "https://www.infoworld.com/resources/205550/recorded-demo-5-azure-data-backup-best-practices"
 type: article
 quality: 77
-heat: 78
+heat: 79
 published: true
 
 provider:
