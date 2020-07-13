@@ -6,7 +6,7 @@ type: course
 price: Free
 length: PT24M
 ratings:
-  count: 2
+  count: 3
   average: 5
 heat: 50
 
@@ -35,6 +35,6 @@ images:
     height: 320
     isCached: true
 
-secured: "CSVX8ZKGA/ls2QmSyS/J3EuAptv5pXEGPD8vaTQYrPJaK+M1KagUaKFbbhJJ3+thZ8H4LFFRWh3OXOit4T8l4m7aDnSPucPxjF+5X/fC3G0jMOsnmrjaO3O7+3blZzA9KXhfzY1cl8FUhVdzF0v6q9XCuGp5vsvj/ZR9g0ofz80F5euCJlZFa5SkASaUQY3GALT4elUCGvjD4woW1bppISarSlyUF/Be5jsdYuAPHh+enhnm/8SZ4STbWnrarFu+too9zE/U/v6BzY/0xN0Bwg4HHVZjJmGACx06sb/YC+/tLchQcElPXVBycLZn1FcfkQg2OODBYDsoExjh8hgCdpJrow90V0f8CC1fqWiPwl5ougQKQ0WabAanYdEMY/KupNHzq9cHglPeaYkRZrBBhg==;MOpmP1OlFpBtBR9Hdc8fPA=="
+secured: "uaPsOBngu6zdGwr5CfXijxOYm0/4jFxQyaSUqzH0+srNMAopWu96nNmbKZsYKarFYFMUJscGKL2SDWJ/EmLkCsAMvCUrzhiMlb9nJCUm0vb9IenZ+JmFSxZHcWWHkW5dy1tjeJTRo88ov9+aSj3f7op2NCeZcK5NiAbjKtfeODu/jj0NCGpu+iWsalwRb4LoBqBNHKKWDSXovujTHz3+HaZs7Fv31whoYESjGQPp5AmtXaoasdWTFSjUyzEPVT0mDERJVl/ONHhPAEn/XyW+Zi5GwCVXP6fNX9NWB14o9lkOH5ddrhX/O4w5iTqMGB6AJyzZtGzSFYxgbKGZoKUqakVvqNhCIudGV83AxNMqErsNzKYiOBMbie1/RcE7XRNPDdWoUY/Mjv+njMck4bWqnQ==;iPtToiEWH6aijoms6zffZA=="
 ---
 
