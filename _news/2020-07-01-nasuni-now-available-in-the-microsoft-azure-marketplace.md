@@ -68,6 +68,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Synopsys, TSMC and Microsoft Azure Deliver Highly Scalable Timing Signoff Flow in the Cloud"
+    excerpt: "Considerable cost savings by optimal utilization of cloud computing resources for multi-scenario analysis Detailed whitepaper authored jointly now available on TSMC portal to jump start customers on running cloud-enabled signoff flow Synopsys,"
+    publishedDateTime: 2020-07-11T15:47:00Z
+    webUrl: "https://www.cnn.com/business/newsfeeds/prnewswire/202006151100PR_NEWS_USPR_____SF33772.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 47
   - title: "Microsoft Azure launches medical data-mining tool"
     excerpt: "Microsoft announced July 8 a new artificial intelligence tool for its cloud platform Azure that allows developers to analyze unstructured medical data, including clinical notes, clinical trial protocols and medical publications."
     publishedDateTime: 2020-07-08T15:00:00Z

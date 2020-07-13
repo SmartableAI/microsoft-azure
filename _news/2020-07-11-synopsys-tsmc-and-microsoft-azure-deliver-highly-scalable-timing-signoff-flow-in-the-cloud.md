@@ -1,17 +1,21 @@
 ---
 category: news
-title: "Teradata Strengthens Cloud Offerings on Amazon Web Services and Microsoft Azure"
-excerpt: "Teradata announced a myriad of enhancements to its as-a-service offerings for Teradata Vantage on Amazon Web Services (AWS) and Microsoft Azure."
-publishedDateTime: 2020-07-10T12:02:00Z
-webUrl: "https://www.businesswire.com/news/home/20200623005192/en/Teradata-Strengthens-Cloud-Offerings-Amazon-Web-Services"
+title: "Synopsys, TSMC and Microsoft Azure Deliver Highly Scalable Timing Signoff Flow in the Cloud"
+excerpt: "Considerable cost savings by optimal utilization of cloud computing resources for multi-scenario analysis Detailed whitepaper authored jointly now available on TSMC portal to jump start customers on running cloud-enabled signoff flow Synopsys,"
+publishedDateTime: 2020-07-11T15:47:00Z
+webUrl: "https://www.cnn.com/business/newsfeeds/prnewswire/202006151100PR_NEWS_USPR_____SF33772.html"
 type: article
-quality: 13
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
@@ -61,15 +65,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Synopsys, TSMC and Microsoft Azure Deliver Highly Scalable Timing Signoff Flow in the Cloud"
-    excerpt: "Considerable cost savings by optimal utilization of cloud computing resources for multi-scenario analysis Detailed whitepaper authored jointly now available on TSMC portal to jump start customers on running cloud-enabled signoff flow Synopsys,"
-    publishedDateTime: 2020-07-11T15:47:00Z
-    webUrl: "https://www.cnn.com/business/newsfeeds/prnewswire/202006151100PR_NEWS_USPR_____SF33772.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 47
   - title: "Nasuni Now Available in the Microsoft Azure Marketplace"
     excerpt: "Nasuni®, a leading provider of cloud file services, today announced the Nasuni file services platform is available for purchase in"
     publishedDateTime: 2020-07-01T13:03:00Z
@@ -98,7 +93,16 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Teradata Strengthens Cloud Offerings on Amazon Web Services and Microsoft Azure"
+    excerpt: "Teradata announced a myriad of enhancements to its as-a-service offerings for Teradata Vantage on Amazon Web Services (AWS) and Microsoft Azure."
+    publishedDateTime: 2020-07-10T12:02:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200623005192/en/Teradata-Strengthens-Cloud-Offerings-Amazon-Web-Services"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 13
 
-secured: "1FtxdYDI1WkEw2c3ytTaANAqRT/ExDzgCbNkYXUbG/kobwcfk+s+YLLvRoOvKn3oALHV4opwYbIhCJGrD4kzmLUuW/9mS9KDI2YFK5aaBUOyyQNOgi22rIWLl2+KLJUTs96vf7E5wYwiIDy84i4c87GeRt86TFkD7/xqRENdz5R4K0kpsJAocF/Z/E0VDfctogzgDO48aGGiFe25cViXI/EkRtakZk+v745Y0pCGUwYEI/HFZpM9ghIUuZTaF5/tT5uksmRTR2bBPXAkxjo1+TcXjEWa0JqyDA97BlagySTxIm4rIpDe8ta8BUUAKqJ+cotVAymPvqG/mhbrmmao2Q==;G+FJ97RHE8It73hcbjmXWw=="
+secured: "2uMgQXi00BGtjdkcE7L6o9QVpuxDJ6Vd5QjcD36N+jqCOn2LBllkQdvrfdHtsykAyy0IotmSJ8/BLyGzDyxRU+OXAqjm+RpC2K8aLkq+psEvqC3dkcrI05/GLDt951L8WrsUH+4vC5tBvA+QeBQHsvyeZKZutzsd69C7jiCxv+VaVEzFGfcVXtlXRyRPx23GWigG5G8JHjnUsS6xWl5OFoVTU4lreErEEll+yqxyo7MLSCvQfGKjQuiBZ2YfljNdx6SAug2wYh5hw6poNkTbSafb+Rm7JxtaWvhAZmgsGMBLhGUuvKQ8lydIMIwe73rGhzeNboGlgDjpAZ5fWRrmYQ==;16pKeuQOS3OjoRDy/qd3+w=="
 ---
 

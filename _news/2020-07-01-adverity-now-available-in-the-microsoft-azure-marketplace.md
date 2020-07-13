@@ -54,6 +54,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Synopsys, TSMC and Microsoft Azure Deliver Highly Scalable Timing Signoff Flow in the Cloud"
+    excerpt: "Considerable cost savings by optimal utilization of cloud computing resources for multi-scenario analysis Detailed whitepaper authored jointly now available on TSMC portal to jump start customers on running cloud-enabled signoff flow Synopsys,"
+    publishedDateTime: 2020-07-11T15:47:00Z
+    webUrl: "https://www.cnn.com/business/newsfeeds/prnewswire/202006151100PR_NEWS_USPR_____SF33772.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 47
   - title: "Nasuni Now Available in the Microsoft Azure Marketplace"
     excerpt: "Nasuni®, a leading provider of cloud file services, today announced the Nasuni file services platform is available for purchase in"
     publishedDateTime: 2020-07-01T13:03:00Z
