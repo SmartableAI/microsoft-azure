@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Transcribe speech input to text"
 
-secured: "wgvhqh+cPFs+xzL+FmwPHX/4hMP//RH+GpO/1v3/eUB/2VT+hQvpEdh9oftnbeAh9CKLt1JCj/phulrfHbrjW1re8k6fH08/iuqG1U9TT/qTMwh36mncJsnK657P8QahO3iJWrsqOJ8+VKr2mrT2VobhEz3BcsSOypwwwqJRWf2l1x42tA5vUYLbMon968ESvhBcaGPPo8pMkzxvt+G2hmyxelE+LB1Ej7Bf8hRw4EaqVsjRiAPXYfzH+z0K8NfS0vxGQu3Ftp4aZit7LG8ePYB0vYSv+blAsYswBbKFU4rP/JC5q6tfFPYchx8aPyC2dxzmOvrM4IcTcYcApVd7QaTUBOVagmjjRGfRDFuzkFGmAOcvBsKJaJ0ySDsOe4cDhlxOs0p6cnzg5FQ6H8ynmQ==;DIWoOJclr0HuZqCg1jvVQw=="
+secured: "miHVGlVCi/oFDs1vXADWZhxuBarelR5NHhYfncEPvA0hcubwmB3MRN4ORTReyz8//49UNKHZ7du7mINXKtRVppzmk02J7bY8Y4217j7qXuka4UzMxpFeNYrVfFyQktrSdS3vj+mGkQnY1rDivT/Udm2PMF1Zx4FwSZLZQWA4uSZfqbSlInF+nVbLhOLCEcU2wIlFzRzUAqv+dRaMQIUIM7izy7VknRLXs7T5rTJHcGb8HuuuDM6goj6lmLpFfN1zo4q3y/1GuK2TJkNTGe5EEMpcZP4Ae+UAXF8ihtZ1Lv+1cHKfYbDiWf7kJ9oUjfxlSS5Gvb1uB7iUKi7hX9Zzfv8+occTAnlcqXR72iNk0dNb+ZJ0eMyzDHXQd+btwWpvcaHey1qmRiz1cFaw3HfvQA==;jZMbbXQp2EkRWQNaQQWLOg=="
 ---
 

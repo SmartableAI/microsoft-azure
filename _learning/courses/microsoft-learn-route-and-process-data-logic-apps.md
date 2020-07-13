@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 56 mins
 ratings:
-  count: 1225
-  average: 4.54449
+  count: 1226
+  average: 4.541599
 heat: 51
 
 provider:
@@ -35,6 +35,6 @@ images:
     isCached: true
     title: "Route and process data automatically using Logic Apps"
 
-secured: "b/iH7gsR+llDQds6k7SXSzAgBzcjN9WG0L5zm5rba3HUuPVo8psfxn/4MqxPabd9rJ7oYAiRVRng4krvxKmem17fQuzOtkYCUek0b+ha+nai77mZEzkRLx7oJavUfhDvbi0B/gNVLIOPlqakSanwSPhTD6hi31sn75ZZFWRNlRBZlOxfYKagvrXJD4nz3HpGOjOUCS7nmbcU6iKAcyMyHaYv9n4i9sN5w6SK5lwM0Nzc0K/EBrhQlWQAntW9UnPJlHRKQ/z4Pve8b1u3LrKV8eRwILJ0GhXZX72tX9FVeZzQyrh6x8cQ7sZC0ldxSS3n8zHDrYdEulFzPDJaigjZsE0AWN1OwKoJPVoyduas0BUQ1+dtVtkGAbYmEAFaYGzpCuZeC04DBRY3uRNO5Zrrqw==;qVQ0Up9MaZy/JXU6p2zZzA=="
+secured: "uUCEudaVyMNERq25tgqTCGnS3Iu8zOK4BK2dYkx5uocizQEw7VrTAelyZD624UX7Y4h8QWSxw7wxXkVtOwcSpvKPktW3aidY43psB3FhIoGsw4H0Sgq+efbVHjpNqIyfXuwbEb+4QlFk5jY9WaKbaNr7Gn3AoCMu5dhvm67BCxSv6gHsa+smvuASZba/GHaLZdQIZLxpAjB4WE0FHvQqMm6YIHSFoR705j14nLiCGEb1dOZD8Gn2riP8sODswk8f5bG+8dbOK67bO3Zlix5G7ee/55Q4t7rz7fsNsLBjv00UTeh6rif3vd3YjktDoWm1yi1BMyrFm9Drz+sCdA7iNA3O96eN60mz8nBJMbwlxihobjz+/Y50rlUi2IsYm4gZYWj1kI8DUSH02a8su0Ot9w==;XMZauhX6nccI0DpW7qfnpg=="
 ---
 

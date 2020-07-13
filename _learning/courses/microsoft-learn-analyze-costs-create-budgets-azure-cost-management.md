@@ -8,7 +8,7 @@ length: PT40M
 ratings:
   count: 372
   average: 4.6344085
-heat: 55
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Analyze costs and create budgets with Azure Cost Management"
 
-secured: "1c0xaA08URIs0sD5DdKm1w1MIyUZ2XVIBpvVeSy301aII/cVFJufb6ckmq8v9HFD5czewSD1jqQsWXQg+4wIMJFDjnpvGWqYHk7nlQyMSjCh0aHNC4PSsZxghjvLJ/1KlVsKiHinjlDF0c7kzJ129jUd1W6fFJdmrt2jyW4N0Rg615m58mi6ZFYL6ZkTIo5+tC4MIe4h8Y4RJFmQzXwxORp9Jm2AFR9tAZ8uMNUT4KLnjtMDBXAnmgXKB1pdVei4hQ8rweZx0q4ew7bTREQa6NRwbmbBjiLqe6hTt5PvZ+2ZJj4ExxpXNJv0DZGRnFqUJKgP1CsonjqUjN11O0A5hWV/0HDn+ylsFyMiAAfnspw3E9Z+cN6ONxNWTcMCMTEM622UlYLc0k9n3mXdxlnfKA==;flUXIFjKqzyHeaTGYHDI9w=="
+secured: "Zb7Bh78xyWrRoBuHIvVhkIGJzxifDJSEVNMX6igMwXZWxUr4Cs6xmnWWRfieKOB82D0KbX5J+znS2AASXjdyTz5N6Qmkdb4koAOkFH0N1NjZSRHYh+JHmuwTZr5v/DeJgQusK9YGC7KiqMI7c/C6iga7107h5xDoUGEoNP2dneBkhPgoARjrFcGTo4IFXkUZxxesimkaoq/98RjxBE+4uD5TGRGBnbwd1R5dTelBvMVo8ZBoO7IbuXZxzRknx2AksFZPvWEozEztj85UEtR+ZZEYxSLKr40/L6ejASDAPv11EeB0D1kGnKS79aUT7aMsN3ioG7GXcg7QzUe5rYT5Hi+YLWi8z9bu6zbDOBHVN9unS1CiIGaL4y2sVJXT1WOixVtErE4D/vIoUpGS3FtMVg==;yZKXkzhYAcx6mc0XR4144w=="
 ---
 

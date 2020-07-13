@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Protecting, monitoring and tuning a migrated database"
 
-secured: "X5+XMMLwT+SNbrhssFeejquDrNP0YjTlzwieyodkicRJ6GXB7lfDMe7qU4VtNF4ZnL+Ux0fAJhoUJQXuAj/yaRsTbjKxEyUs2S+l9S6S74q/z04+XX+CM2S4URpxILvuTr3rS3obyWLFrDgadD+rX7fZEQcoCyc+fl/mdCJGpIiadZMSNxYYw/6DEJb4EUGIQstCVmq5wMb3zkP+kNS7/mZJ36Rc4jvfnTiCwgiunWZuhbBZC4ZsYhyo3MmHCiem3RVaRwTHMqYnfVmwPG4wovP7vmamtgUs1a4ZlcZsCX7dPBzzcRpZM/d04HhcnGqAMN0nfiExkGJqWnNkXQ+Cc38rtPpyuBQeLjvyn+AkD6I/w3mRBwotcDsYOabkYp1/Ge6cuqUmIZ3zJ+VPHTMEqg==;TTpHQzL80DpZl/MM30aMQg=="
+secured: "Vex6bCmFvcBqQcRFphehG7mgovOyS1VLhq9arLzhSVGI6JKBEtq+vWc54t8oyMQ2Ks5NCrsYXQ/ZiA448KSgVSHIVO4qszIs9qMVHn0QWUHo5/IgsBLf2vhMStypmznFJPZIugALj/Fb+9UDb2TcumBHH8z9dnMZ/VCK/piRpWJnma57iP0xyO4YINkuunYARNXkmGhjjo4l+wn4EwJ/2PNKIdsaLCkyNWDBU+UrxOqJAmlhao0MV4DjYM2rWntP4bY/9UFhMTKr6hwC3pfLbg9Hd2frgKLKvNZiyqdFMNpXbn0skdh9D7hrlhTmqyILa7ItcrLjU6TqPksGw55MyILqGCRVEuUOKja6QY23800FDt0TJIUbkC75KNb2PIQKsP9dQXq8C3Dhu15G8TdYAg==;4BRloa1WPm/F6IW/js9YZA=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "Learn about the basics of Docker containers, container orchestration w
 type: collection
 price: Free
 length: PT1H50M
-heat: 88
+heat: 84
 
 provider:
   name: Microsoft Learn

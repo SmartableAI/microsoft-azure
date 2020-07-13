@@ -4,7 +4,7 @@ excerpt: "In this learning path, the learner will be introduced to HDInsight and
 type: collection
 price: Free
 length: PT4H36M
-heat: 76
+heat: 75
 
 provider:
   name: Microsoft Learn

@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 32 mins
 ratings:
-  count: 1178
-  average: 4.647708
-heat: 51
+  count: 1179
+  average: 4.6471586
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Process images with the Computer Vision service"
 
-secured: "XJds1gsNyZnh/UgMVr6BwhGYwGIUtexAsc463oi6jqdQ7ArhlDnbMfREVJ4wSC0UtYArfrkJJRCQ0VrycwLGVANwcrIfMJLZHuZWII3DGnwvNQkxzq5ElbVJehkB0exSbsMzjLLp9wCP+6c4sBtJF1U4bmbST6+dOY1UNKj5hlxpz2JlEn32TiU3EZz/EL3fj5HXoJz0xzVXN+OBrIjmdxWNFS4p0PYxEddTInOBiDZPkOTIN11M3h2GEhy7+JDxGAS0t8lIdODTsE6+LniEGSLkjGBju6WAD0sH3bQGHPA6Xu/kOBVlemT2b5W0UVqyvt6UjvkgOsJ7POxxbaxn1+rpm9zo6j9kjqZKd2pansnbEJ9gb5diEQ4GIrSBBsY1m1doheScYAxFjsRKHb5k8A==;ELxGnNl/1/7Z8tqU52bTTw=="
+secured: "hL+IHO245epjPTtwRRvW3fJ8A7+nNqhQrN9vJLNwKE1h/DLdvgzIuWk4R39vXnIl2U6u08ZJNEBtU+eCDP/X1m+t7lZnMDKhe/zxHCHHH3KHD+WbTQ11bg7pMTwNon96LkelLOFBRyynZGRrNU36W9tVVPGc3h9a0FLUFExxJkQi7izHlNlg1DzikrNc4ym/LmBNa9vN+EGMEdSeIXqyIxwTfsPbDwWSAo4YeJ/2mDAT28EPfTVXm9TaAhNccJXEfZNKxAhooJZ2ljxzca4JGAcYikV7sSqmQ7LPjxBfR7D5pOv8cTKoSdGBsZ/WgAf/AI376aTJtwlE9xSCC2e8dH+OUM+W3ieZZNbamtgWqoIwht1aWA9RZVwkCxYhvzo58EwEK7UvSuO7uFvifpTKIQ==;DP9wodDByImiI7Pb4jWfxA=="
 ---
 

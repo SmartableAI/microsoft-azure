@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 55 mins
 ratings:
-  count: 1137
-  average: 4.3104663
-heat: 51
+  count: 1138
+  average: 4.3101935
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -28,6 +28,6 @@ topics:
   - Serverless
   - Databases
 
-secured: "myWd40ESLKpKAfVjh24dWKLe4k9XxBgINTdLtU9LtgJgEBkxkpVtNJSf+PZJ7SgCwNo0xFHLXKjZDqQfdCr/sB5y2fKK/XnQYiDs5WLhzwDNjaD+q4BAfG7PXlw3b8lXy5khdY9ozFyVVSBlHcsFyP7HWs1NTgWi6RQbfimHs6Z0zDXWXHCuQrHs7W/qTgWN4UOyK0L8M0ibaUInq1OvUk0Cc3Y3LTIRp88TBWYGxwL6fmroHTCyPOf7ncfRUKzkj9PPcrIcwIpFBxh69Xn7LZDuSHx2EUaCUnx9tU6rkYFwtmEmIaA56LGV+5oQC6XdE2QBU+InNbSo7eTvvdsnS+v4wZkRGimpFqo+1SEPcAYBf5eZ72+UEqzPO/hQBWQ8SB4ja7SHJQ+6/shlN0zRfA==;6nWJ1W1pQZuf1gbtICXjNQ=="
+secured: "5uQSND3OGkNlaWoM+Ajjws7x6HKatoOq52f2nlkXzdYatC0A3ydKOoA4WLMDD6DyhGgTd4AcBjPXDt/PBS+Y+JXQ/gZHTW74fLl6ytXGaVLwJ2OgTrikUWrLfjS6D68uIDZREG3Yu7jATlRJVRW7LBIFC1Phv1idGMgSNyyYZzGfjmCAd8iUS/qGynyq0efgQvQZaZqASmO12gmJ/icsuwAaF5lRi5M0G5EosxoscwYibQ0Zn185hIej5vEZaLiYQdRkj3KLg5wLiAJysQ84SOG1dPjOQTFa5bsC48+ezOaR8AEnGfBo2gY7gOF+rl6UVFmrXM9+TTiwMu884gehdUFBs79LqCGIgCXhJYcOGWi961xCUojvYk3+r+uDTjrWQzsAJkljI/TYZAKvSIhnKw==;moWvI9xy1a2366CyLvDyDg=="
 ---
 
