@@ -8,7 +8,7 @@ length: 66 mins
 ratings:
   count: 1664
   average: 4.5444713
-heat: 56
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Import data into Azure Synapse Analytics by using PolyBase"
 
-secured: "V+95wjugOCmQHGTIdpsfMijs6JJmrH9wWhC9o1e5uyiktN0iFJ+TlsqOHuG1AKQ+RBqDNfujPdVEMjXVb4Z0V7SBy+WBEljot1Xy1Tc2D2MPnjs94/pHXnUnzIRHn7KmH5Tv//yEFUXR5rJfs92jIIt5GhQozBs6DRfBGjczJIEJ1RYxwlzhAFBaykmPukBLNr8BizXnjcIR4MTmwqr/eKg1XUCwtmSl5AYayyGlH1sCUNrNjyOv8inV/wmI/oybxUjtHVLAaQMDFJ/jRHKzCUf8JFBEdm11Vj+3GOPRy4luLTlWdhhwHVGQ81x+NxmJZBPR7PVFEYd1+1CQ7o968LNmY7hadNwQTnN9vcenWQdnvJJ9ZW3Sq2fs40FRfNZi663j8jzwADmy/FOnajILFA==;5CliGVjTtfT9BA3rqSPX2w=="
+secured: "dO6UZyFXsBLwHs04gLjMXZbYCAs2NXg3i1rxR8ZbNzZuR5QgJUlT9Y/Tbq0kHOE/2jJvS7qI1Ojw1LK7a/kwezVikkIBoGpuZFPh6CHx1h7E84GoPt679kS0cBV4qPwGCXfCERCMuxRBaj/D1diIPT8wfwr1wpRU6ZfgGVamU3c2sgPKV1awAbWbLisBejto152elg+cWbrawNIO3dUjsq9/ZNDvIpruPsbR8o36oCMtOdiFyznoVx8iVWFZmlIygT4JIY8ALMRyIt6pkNwj62PWhmJpxmcSEK7dqk3K9hzag8ao1USDyn5xYmiLD6Gopd9Jr8iadQoaO+PRqLKBStrGuGYsLl6pYpiLnpVMOOytYvpEM1OqtEqZn0KAOej+7JS9laciVDeGGoXCnKLbcA==;S8zq31ojDDdlT5Z8CeSf5g=="
 ---
 

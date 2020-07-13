@@ -8,7 +8,7 @@ length: 56 mins
 ratings:
   count: 271
   average: 4.512915
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Deploy a prebuilt module to the Edge device"
 
-secured: "2KO4upozAO/tBDvDM9EatWMZ6S+AhN0CmHG3takuL5ni2gYSuTiqMVvuoJTa5k5WOdXZBhHBs3kgOT8Aaip1CNvJQmrBYFBq1rqnToeWPTi37x6yMrR5sUT0M8I19xUyJ+7RhHrpbnYnHYNr8ul8bThqfJjqmkQj9pkqMM3royR8KMgc9mMBaWxVJePDriuWZ/R6ZV2BTN6r3K8H3Pi7CVboEz56A1Sn95HlXNpaACeaFe5gwXy17ryy7pbQf4wxfBDMjrZPJKUuuTMaVwP9jLYsllZge7oqM/l9uyCubNqMoczmOO6y9iSmpO4QOiRP/5gvHnKHi/aR/i9KbldZ9Wd2Rhnq0a1dwQDYelRdwxdwCPdalIMHhdYDQ4YAXZ42QhXJlMU3ZTQi+V2oeomHgg==;GmOdCc92X1bJDYII1h60Ag=="
+secured: "Otu1oo33A4qzqPpIuUvxATqbytrPpQqMfd/U1fWB40/j0j6yBB7jywoGfem2fibeREnOqgn1Kiw1x9SGNVuVKi02wOrYXtmAd7d4nspggvVudovNKteQZJNdqWo7DpkDKzaF84sA88OiYpKAYc2oKS80yJFvO/eeN9Ntu+/SqRIOfigqK/xOiAuz4Xzx8DA/5hMTTz2cjPwoEnajqoJHf93K/sF+iv2j7kJR5FTOv0JWMBg+BZrYJVJP/IF7pP/Lx1ykSDn5qIU8e92bPZkOQA4JXfizPkcmy3whNkffc/0XT38NrnQZRIUMmC1K2J+z2D08te91yEKL1E2t/VaJ1f4+OvMTqR7DhFzpU8AwEBeN04i5DA/9zLDvgD7GzZZNFpM8Vz6KQ/R6GuifamPpvw==;xjIRAGuQHs9016/rsiM5oA=="
 ---
 

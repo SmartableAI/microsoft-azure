@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT22M
 ratings:
-  count: 184
-  average: 4.6086955
-heat: 51
+  count: 185
+  average: 4.6108108
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Route system feedback to development teams"
 
-secured: "nPl40Rl/YxMvZe/Z69p66JFdbrpI9BK74iu/zZJM2d7+QaNWxtOWJH4Fl3NFUaoFfzmimsmyNjYUNW/ZrVNivl1xERVUoeJoMX/5j9SQWmm8pqJB88WSSzf3GLU1nLuXMkmsuLC5u77L5v6tJ38SdDAeiJj1r/GCWjVWBnltxMyAn8+0PCXOsybKLns4KDYl7EKylwhmDoaQr3kCESUS3rRyPjjxSyNiu1KUEGQp8W13xD2Ro2TKvL74Rssev9imNAmJ6MIJ37hFwzPBwHexRGbw+fh/IUYhU/UXSNYxATrcO+lHErfXYrmhbRRr5gcIs/D3b7w9ddvOMgTWdjwzA4VmlzVcVaSC8OCVfAQ4QgO6tyjnrguzAtUta4c0cZo1Fum/gRSjpoKcQW0P2HYR9Q==;IsipEHx/7/iq7NAlUkXgEQ=="
+secured: "16jiuU6GyiCIc4NOX2AjhvmkAHWBSZTtSjJ7d7n28wqF9J6pCyWMJUytHfQ3iw8rp1uDLBs1g5lF1Ymo/404AUmERiBBv2bVxOmyhbxDAAozHGgwq89dNWoTf6kugJ776/rm2dGkAA7c96bXXaEFiHvMvouxap3CSDxHdXzY0Wf+e2XT+zkvMYdEONVNeQwZYfIOYopTCXaZC8FSH5YbUPb+iO+PVyg0tpwjQfT1JaUnloh4cGh2wrxMYNfF9ooT+IF05/uMduKFjA6naALRDttxSY0/Z8vWmR/ETfErjiRECokexxbF2mhtiKdrZld5QQ2e4Jg2qZDvPvtUCjsRdfWvcBcmmRxHirdL9AZpS+KYbYqE+tU4o7emdDgdO+CykYv/ZOcetLnOXfuxNqnn8A==;qGM7YzpuptwxpLHu4astDQ=="
 ---
 
