@@ -23,6 +23,22 @@ images:
     isCached: true
 
 related:
+  - title: "Get this Complete Microsoft Azure eBook & Video Course Bundle at 95% off"
+    excerpt: "Lead your business towards success with 15+ hours of video content and six eBooks on Azure cloud solutions, integration, networks, and more while saving over $650 off the normal cost!"
+    publishedDateTime: 2020-07-13T16:46:00Z
+    webUrl: "https://www.neowin.net/news/get-this-complete-microsoft-azure-ebook--video-course-bundle-at-95-off"
+    ampWebUrl: "https://www.neowin.net/amp/get-this-complete-microsoft-azure-ebook--video-course-bundle-at-95-off/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/get-this-complete-microsoft-azure-ebook--video-course-bundle-at-95-off/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 96
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2019/09/1567329629_azure-6_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Save 95% on the Complete Microsoft Azure eBook & Video Course Bundle"
     excerpt: "We have a great deal on the Complete Microsoft Azure eBook & Video Course Bundle in the Geeky Gadgets Deals store this week, you can save 95% off the"
     publishedDateTime: 2020-07-07T12:10:00Z

@@ -33,6 +33,22 @@ related:
         width: 1200
         height: 836
         isCached: true
+  - title: "Microsoft and Samsung partner to digitize building maintenance via Azure and smart appliances"
+    excerpt: "The companies will pair Samsung’s smart home appliances and devices with Microsoft’s Azure cloud technology, with the aim of improving building maintenance practices. “This collaboration with Samsung opens up new opportunities for further innovation ..."
+    publishedDateTime: 2020-07-13T17:12:00Z
+    webUrl: "https://www.geekwire.com/2020/microsoft-samsung-partner-digitize-building-maintenance-via-azure-smart-appliances/"
+    ampWebUrl: "https://www.geekwire.com/2020/microsoft-samsung-partner-digitize-building-maintenance-via-azure-smart-appliances/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-samsung-partner-digitize-building-maintenance-via-azure-smart-appliances/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 86
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2016/04/IMG_9235-1240x827.jpg"
+        width: 1240
+        height: 827
+        isCached: true
   - title: "Microsoft updates Azure AI platform to help build 'next generation of AI applications'"
     excerpt: "Microsoft announced several updates to the Azure AI platform. The improvements make it easier for developers to create AI applications."
     publishedDateTime: 2020-07-08T16:02:00Z

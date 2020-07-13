@@ -7,6 +7,7 @@ webUrl: "https://azure.microsoft.com/blog/azure-files-support-and-new-updates-in
 type: article
 quality: 93
 heat: 93
+published: true
 
 provider:
   name: Microsoft
