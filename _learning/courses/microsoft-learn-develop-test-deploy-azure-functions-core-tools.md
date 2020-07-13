@@ -8,7 +8,7 @@ length: 20 mins
 ratings:
   count: 1399
   average: 4.704789
-heat: 55
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Develop, test, and publish Azure Functions by using Azure Functions Core Tools"
 
-secured: "sUtqux7Maw2PcQ1F2Sx6yi4EgmxJOedNZw0msJisWr8TvdRoCSRGVOHbo5EZvygfG06l6WF/+/rL02Aw1h/N4xPwRrpJR6hOGtKuvUQqCkGD4kZ2pMrVc7i56pVBisk9FHzB1HJdGd8jkIFY6DEXesCTzCC7+oTtIq4o+YujR3GJCQrc02qdVMcuO/ZBT5FQ/6NUdULRTfQVEIpmjj+H2Vbfy3XSBl2GTON7FeKgI0zYlutHoMplcWLKvSqeJQye3aUm0PHtujA+0k/BZRfigduxlz9ZX8tyOXwfkwQ5PJacPyaZft9q/wSBIANjnMZtwJ0BtidRqIO01WaDUTbrvr7eo5g4Tuvbl4aN9OOpFpGgbZSuZfgcabBP5ptbd/qhuTCixHE14rS+ZBLn1FeGng==;v9CQ3xWb3XJhGya/xkSNfA=="
+secured: "J3TB5V+OtJB0DKLA2suAEBW62eE5P/0RdnEyqpxjjEbpo238anpJO8Tz6NEyR7U08axIGnGqwkNoqHYzQsjBlQGH0BHcn3ju6W4m4hJqnc3QoK9D4Gw9yR3sAQzF2YAEmJUUXbuGxt1i67LkDhRvhFWvs1Wj6JFcrcUnWXSDowMwbdEtFZQbAx3rmC3G0qYFYEo7y7lFLfT9Q+hHkgmv1pZY/IGW4f1U4L5XmLF70/6Y4TJmhzKcSFf+87dXbpYLuLENdmnALIMHBKnf4sbgKbqYC2uPiDxKoRKQHm/tktnIEJSKPKvKTaxPIW98bnyckQxJSvmc17Jajdyimk3O7WURPuINRmCkoLrYLmINBspHBL1ZpZ74xsMJoEBdYZKhShkQZCj7rMYoR8S6VOGUVA==;oJ28old5jlxVoERZnJMt7w=="
 ---
 
