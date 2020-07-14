@@ -206,6 +206,20 @@ related:
         width: 993
         height: 522
         isCached: true
+  - title: "Azure Databricks Now Available on Microsoft Azure Government"
+    excerpt: "Databricks, the data and AI company, today announced that Azure Databricks is now on Azure Government as a public preview. Databricks is"
+    publishedDateTime: 2020-07-14T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/azure-databricks-now-available-on-microsoft-azure-government-301093038.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1160675/Databricks_Logo.jpg?p=facebook"
+        width: 1094
+        height: 576
+        isCached: true
   - title: "CognitiveScale's Cortex Certifai Now Available in the Microsoft Azure Marketplace"
     excerpt: "AUSTIN, Texas, April 27, 2020 /PRNewswire/ -- CognitiveScale, the Trusted AI Company, today announced the availability of Cortex Certifai (Certifai) in the Microsoft Azure Marketplace, an online ..."
     publishedDateTime: 2020-04-27T12:01:00Z

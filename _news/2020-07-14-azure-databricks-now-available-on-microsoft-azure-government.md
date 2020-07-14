@@ -1,24 +1,26 @@
 ---
 category: news
-title: "Managed identity support in AKS is now available"
-excerpt: ""
-publishedDateTime: 2020-04-28T16:30:50Z
-webUrl: "https://azure.microsoft.com/en-us/updates/managed-identity-support-in-aks-is-now-available/"
+title: "Azure Databricks Now Available on Microsoft Azure Government"
+excerpt: "Databricks, the data and AI company, today announced that Azure Databricks is now on Azure Government as a public preview. Databricks is"
+publishedDateTime: 2020-07-14T13:00:00Z
+webUrl: "https://www.prnewswire.com/news-releases/azure-databricks-now-available-on-microsoft-azure-government-301093038.html"
 type: article
-quality: 62
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://mma.prnewswire.com/media/1160675/Databricks_Logo.jpg?p=facebook"
+    width: 1094
+    height: 576
+    isCached: true
 
 related:
   - title: "Azure Migrate now available in Azure Government"
@@ -152,6 +154,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 74
+  - title: "Managed identity support in AKS is now available"
+    excerpt: ""
+    publishedDateTime: 2020-04-28T16:30:50Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/managed-identity-support-in-aks-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 62
   - title: "IPification Secure Mobile Authentication Now Available to Microsoft Azure Active Directory B2C Customers"
     excerpt: "Benefit Vantage Limited, developer of the IPification seamless authentication solution, is proud to announce that we will enable global service providers"
     publishedDateTime: 2020-04-28T14:00:00Z
@@ -194,20 +205,6 @@ related:
         width: 993
         height: 522
         isCached: true
-  - title: "Azure Databricks Now Available on Microsoft Azure Government"
-    excerpt: "Databricks, the data and AI company, today announced that Azure Databricks is now on Azure Government as a public preview. Databricks is"
-    publishedDateTime: 2020-07-14T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/azure-databricks-now-available-on-microsoft-azure-government-301093038.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1160675/Databricks_Logo.jpg?p=facebook"
-        width: 1094
-        height: 576
-        isCached: true
   - title: "ThroughPut Inc.'s ELITE Now Available in the Microsoft Azure Marketplace"
     excerpt: "ThroughPut Inc. today announced the availability of ELITE in the Microsoft Azure Marketplace, an online store providing applications"
     publishedDateTime: 2020-04-28T20:30:00Z
@@ -237,6 +234,6 @@ related:
         height: 315
         isCached: true
 
-secured: "XpYXqOZO3VNenqb8v6h1RiupNvtWtSQvTYWlUqsfHzjYRa1N5jf6YMr8UzvDdg7Wd6ieLc9Ao/S01r8BlSKYyOIFuXcQlh+xb0okGOQLnGjqJXDnHszaN9hxs73fMJrFX+VbW7Wxl3o/lHDp8PIIz0d1vHpiiljRcgOReqTic+FQ5wuoQGLzbrjryjjPNitykIaxR1Pm/4i0vg/5CvjB+TmreszgRYvolp1tzVsn58xAgSjLEzzb2dWtFYi/4Z/Zss5tKMNHEVN1lERCYhfStye1cBiV5cufUTYzMkNy9EMe7xZkaUvHtqjRDaTOFmyWpYFVGzwI5yU0o0m9mCg+og==;mSHeAh5rNDljqtu9Lb9A8w=="
+secured: "CUzA8s9oUzI2yuf9Mos8rkE08bPRUl/e6K3wqtg0W1Sibx9dVxFd8L4LZKQjGI6t5F49r1rLQVOWFYBaxIT3CmpZIjzqNF8DX3NyOUIB8eC2gLPaXWVZbhy/ESmxK98HsaMnntj6RnC2YiQ+JWFR/8yfYQlsplA6Silwt1Ka7e1ASNY/PyxXEFaoVzBc0w4arz584uOesyJAdrtKJ9s3rKvqlfqq5P2rpvhJ7BZ0fQbv6gAC1wuBDvXA+NoMddxptEcOIDp+1XtSnlwzydDrht6hrgTcx9LFhEJwORrRapWdEwSeY4VFsaPOv2GM94zRMQwIlrvOtYLtM/9xS7sDsg==;FaQfu5AVEgTHTFFqE4l+eg=="
 ---
 
