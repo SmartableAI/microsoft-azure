@@ -81,6 +81,20 @@ related:
         width: 700
         height: 526
         isCached: true
+  - title: "Reminder: Save 95% on the Complete Microsoft Azure eBook & Video Course Bundle"
+    excerpt: "Just a quick reminder for our readers about the awesome deal on the Complete Microsoft Azure eBook & Video Course Bundle in the Geeky Gadgets Deals store. The Complete Microsoft Azure eBook & Video Course Bundle is available in our deals store for just $29 ..."
+    publishedDateTime: 2020-07-14T10:04:00Z
+    webUrl: "https://www.geeky-gadgets.com/reminder-save-95-on-the-complete-microsoft-azure-ebook-video-course-bundle-14-07-2020/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 33
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/07/Complete-Microsoft-Azure-eBook-Video-Course-Bundle-1.jpg"
+        width: 700
+        height: 526
+        isCached: true
 
 secured: "t+azbA6GiU+65eMvEndEcOfWTzYC4MLGpBmPLZX5/+mje+GD1PCFzp3ykwiOY65Y3xySjeklrLl18QjoezKwRwsz4QJuuWqTDpPHkFMb/NAgMr6eMSRojG02E9O+Mo6a09YmkTjHmXngMKUHgSz+UDt2xL/LBQXrfPWNL8wszs/eQe2cqd7RaObapIib84sDTGRk2HMKr8gOmmVNUnrWaKke2zTbpC3P4BYXGyW3AaT3PmyTkZ48I0nc52H8wenbLXPsUyvDZ2svI5glcvnXryThg+YqmjrBxUAAIhmSqFW2JOvwD8C/f7RwIWQhdvnXJXX81KYvyQO6hE/F5k4oZWuhTDqdbBInoVaio/5xpMXuy1bKfAXTJeEBOTojdepv8T3VgwZH9vMwTkc1UQJkQprmtBesHIbYgJfMtVV0ZoPs8RvWtvyN6qsItW0xoHRS/p0b0dHxMjApxwGOR2XHyaIGr0UFMKGOF1mFcOFlBJJ9O+bX/RJXwWk31j9GVl2ZDtH1em40VzDsVbWnbtd6Kg==;iARGjpUdxsNa1NjxSSooRg=="
 ---
