@@ -30,6 +30,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Azure Site Recovery now supports replication with private links"
+    excerpt: "Ensure a secure channel for replication of your Azure and on-premises workloads with the help of private links capability of Azure and Site Recovery."
+    publishedDateTime: 2020-07-14T17:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-now-supports-replication-with-private-links/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
 
 secured: "s094INqnfHwlqBxxG/3vK7+kRR7kVLT9m++hJw9rZPr6LhoTOJovbC6FyG/mgJFGxeQt/LYrH62VdsWAKvOQvCM7XS/t5/Yn8zjPf7NYwbLjSYpKK7QuibSjgYCoIrVkbDFi3e0S/HO07CGfzVmGyZGDRKgdihU07vBJ1Z/viXXU7QECIw0M3hayhpQ95obNK2ZYGoWBAxg6XVSHT6peCSPLrCOEEVaDAJgz7aGlkl9ImEqw0IDRqlLiUQwoZNA8AbNhjwC59amAQsuhH68Jvyd+GaGY1OVgLxRZzXDRA6PiZ2+PKAF+oPkF2MknKFhD/vqfNuUMOFBd3l1cH20PmA==;owSUsDCCQe7FQ82K5keJxg=="
 ---

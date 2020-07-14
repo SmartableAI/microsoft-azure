@@ -1,31 +1,26 @@
 ---
 category: news
-title: "Alaska Communications Brings Locally Hosted Microsoft Azure Services to Alaska, Increasing Security and Improving Latency"
-excerpt: "Alaska Communications (NASDAQ: ALSK) will bring locally hosted Microsoft Azure Stack Hub cloud services to Alaska. Alaska Communications, one of"
-publishedDateTime: 2020-07-01T12:55:00Z
-webUrl: "https://www.marketwatch.com/press-release/alaska-communications-brings-locally-hosted-microsoft-azure-services-to-alaska-increasing-security-and-improving-latency-2020-07-01"
+title: "Microsoft and Citrix commit to moving on-premises Citrix users to Azure"
+excerpt: "Microsoft and Citrix have been partners for more than two decades. On July 14, Microsoft provided an update on its ongoing Citrix relationship, a week ahead of Microsoft's annual Inspire worldwide partner conference."
+publishedDateTime: 2020-07-14T16:58:00Z
+webUrl: "https://www.zdnet.com/article/microsoft-and-citrix-commit-to-moving-on-premises-citrix-users-to-azure/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-and-citrix-commit-to-moving-on-premises-citrix-users-to-azure/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-citrix-commit-to-moving-on-premises-citrix-users-to-azure/"
 type: article
-quality: 52
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
+  name: ZDNet
+  domain: zdnet.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-    title: "Alaska Communications Brings Locally Hosted Microsoft Azure Services to Alaska, Increasing Security and Improving Latency"
 
 related:
   - title: "Accelerating ATO in Microsoft Azure"
@@ -42,17 +37,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Microsoft and Citrix commit to moving on-premises Citrix users to Azure"
-    excerpt: "Microsoft and Citrix have been partners for more than two decades. On July 14, Microsoft provided an update on its ongoing Citrix relationship, a week ahead of Microsoft's annual Inspire worldwide partner conference."
-    publishedDateTime: 2020-07-14T16:58:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-and-citrix-commit-to-moving-on-premises-citrix-users-to-azure/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-and-citrix-commit-to-moving-on-premises-citrix-users-to-azure/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-citrix-commit-to-moving-on-premises-citrix-users-to-azure/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 77
   - title: "Adverity Now Available in the Microsoft Azure Marketplace"
     excerpt: "Adverity is a leading force in intelligent marketing analytics and business-ready data. Marketing data is a critical asset in helping businesses pivot, adapt and grow, but data complexity is hampering success due to the lack of understanding and ability to incorporate meaningful insights into positive outcomes."
     publishedDateTime: 2020-07-01T15:37:00Z
@@ -68,6 +52,20 @@ related:
       - url: "https://www.exchangewire.com/wp-content/uploads/2019/12/adverity-logo.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Alaska Communications Brings Locally Hosted Microsoft Azure Services to Alaska, Increasing Security and Improving Latency"
+    excerpt: "Alaska Communications (NASDAQ: ALSK) will bring locally hosted Microsoft Azure Stack Hub cloud services to Alaska. Alaska Communications, one of"
+    publishedDateTime: 2020-07-01T12:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/alaska-communications-brings-locally-hosted-microsoft-azure-services-to-alaska-increasing-security-and-improving-latency-2020-07-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Synopsys, TSMC and Microsoft Azure Deliver Highly Scalable Timing Signoff Flow in the Cloud"
     excerpt: "Considerable cost savings by optimal utilization of cloud computing resources for multi-scenario analysis Detailed whitepaper authored jointly now available on TSMC portal to jump start customers on running cloud-enabled signoff flow Synopsys,"
@@ -116,6 +114,6 @@ related:
       domain: businesswire.com
     quality: 13
 
-secured: "uRG4gYLzB3cWEIZXtzaZqhuo7EZOTcUQag8gGFiSYuesm8BP+1vCZv3/lIAmCU72vxchYyweqGPeLnmIsR+f0nbApmX5H0rnjwm24G3mR+4nPageY+KUmipvE9yOqTPktqgbnvH9GyL9/hEZbgikXzw/6dPMHYZEF9rAf6DviWT4Nn5Qq4uGuQF1U++XgiIzNfa5XjZ3EnUP8V86OjkEBe3aSvVSQUYBGkWNJsVjBGcMKwF1akEnl3PboE9ByGkXifrCVrr/WlraQ5sxh5I9qO6h4r3npp0eaNsUCCXh1E0TEVJ7qo4d5IPLW1FaabTgrq++RloTO+KiD5tDdBeZPg==;BOHDTbWCedMSrknWurAuOA=="
+secured: "P5OfrDa52eYtYwTQqp2pThQvOu+RXgGTXg+vJ+BnLZdiOcv+4wpfcJX6s6jqGWuDB94Wkjpcjz/CilriMjfnPt1wCR91y4/P+RTomoKca9Kz2PwomfGmuWWbNdDsMxOCl530OeDuEt86pcQVq8YRoYxeyZJb/TG8NPHFVIPJvnQ62X7siYAFNZ3/xbqHbr+GqyRPYbmJjrW8bnrylU+Yjp7iIt/6EghrNgXyMN/ZyHXPdDsVYGAxNJMh99lUSOEfjOzASk+US6+LeEWq2rj27zIPKBiRa7EePMpyNTaci7eX3i7y16wwHm9QyO1tfzFr8YjMx1uqCHcnU7P0aNdwsTsnOZDW6sfw7BPfHMGrU694JABxDee/jy59AJSIsyptZHKO+zUSGvqh8t1/1ETDHFmVwVumzFYI8ZIx8MCb8kXtruznxvfF8YjWt30w+a9hN9pIirI7NWiUTWbypTTZZ/kT6mgw80RC6tPvPKjIY/UYsUyvyDW1iO5hlIF1D9V0rdimFZ2emQ8p6w6vPAwOJA==;dQd5CuzmP+LwX6Q/d6Msuw=="
 ---
 
