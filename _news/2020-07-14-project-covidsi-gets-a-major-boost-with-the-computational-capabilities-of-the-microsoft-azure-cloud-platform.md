@@ -5,6 +5,9 @@ excerpt: "Researchers and volunteers have teamed up at the Slovenian project nam
 publishedDateTime: 2020-07-14T00:10:00Z
 webUrl: "https://news.microsoft.com/en-cee/2020/07/13/project-covid-si-gets-a-major-boost-with-the-computational-capabilities-of-the-microsoft-azure-cloud-platform/"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: Microsoft

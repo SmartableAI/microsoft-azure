@@ -7,6 +7,9 @@ webUrl: "https://www.zdnet.com/article/nab-to-share-development-costs-with-micro
 ampWebUrl: "https://www.zdnet.com/google-amp/article/nab-to-share-development-costs-with-microsoft-as-it-sends-1000-apps-to-azure/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nab-to-share-development-costs-with-microsoft-as-it-sends-1000-apps-to-azure/"
 type: article
+quality: 74
+heat: 74
+published: true
 
 provider:
   name: ZDNet
