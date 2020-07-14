@@ -8,7 +8,7 @@ length: PT36M
 ratings:
   count: 4
   average: 5
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Migrate an on-premises web application to Azure with the App Service Migration Assistant"
 
-secured: "JPcxurq9oy+Ghj/U0O3k7ZcSiG04YiIr1/eynBiG+34sTBkGjkVtlhYi8YnugsTo1DtoyLKSQ6F1PmoSb2BDL7rXUQqp7YmG5CrvLtH2y2bQcC6XkmLKl3LQ6hHWBT7XghR4Jrgog3zcqtCLhq6Y7TdWidh84xO4uyLXAVhYwwFrjCnGDChMNEzDOcKIdYr8DRIQ558UUjS9qUKPMMHK6nNJX7Yd5FYdYYTgozTDrR2i28Z0pSp9ue1sLmDQZ5MyU6mmhiMBYTF8pepyfEStKVh6XHpcatRCkJdQwFwUegjP+GInmwrJtwFnBlzBB9/MllvGyPzU7ND8WdlUxe1eOSZsPHox5HP0U87WeX62WslnDW/5ccUSjNrEiMY7XQjX/I15ZKF5mvYVFTEbf3e0dA==;sUXcr60IQytQF+yuuNWnNQ=="
+secured: "pcBQpAv4LoJv9x7Z8HroCy81LeZahlQXZJ8W7M6cWsiUGFXM77q3RwgYWs+B0LCZ6UZaEZJcnz4fRn5mwYGsBU0wkDJFHyb6BbD2Xoq4XFxop9PyzuL+fL7NWIGL9orW7Jz5VpIRfjqqwxN+E83THri3ToBoBaTRcvIgiOi/B107Nsy01t7bLLN+w8efv+uWLFgGxB6bNfYBYVzMcVrD1TM/6wOYWjVlRdFyPZSEVV16dgqQgMZdGXIA+aPpmOT1DbI+2LP4fyxGffJY/CXLWqoliy00pJYcJaeMN0BVs0uvmsy/NWyjkUJolxrNjSiFliSfCOiytU2BZwqKzbu55hB68Z6MIDHu/QHRm08VpW4Bp3KgNX2qtgG83fYiaNs+3ZoOl3XckWMqvjw1C3r40g==;1ptAANqrbb7552SkfTYvuQ=="
 ---
 
