@@ -93,6 +93,20 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "New Google Cloud platform allows direct access to Amazon Web Services, Microsoft Azure data"
+    excerpt: "Google on July 14 announced a new platform that will allow users to directly access data stored in Google Cloud, Amazon Web Services and Microsoft Azure. The solution, dubbed BigQuery Omni, allows clients to use Google's serverless cloud data warehouse BigQuery for data stored in Google Cloud,"
+    publishedDateTime: 2020-07-14T14:33:00Z
+    webUrl: "https://www.beckershospitalreview.com/data-analytics/new-google-cloud-platform-allows-direct-access-to-amazon-web-services-microsoft-azure-data.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 27
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/data-analytics/6.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Teradata Strengthens Cloud Offerings on Amazon Web Services and Microsoft Azure"
     excerpt: "Teradata announced a myriad of enhancements to its as-a-service offerings for Teradata Vantage on Amazon Web Services (AWS) and Microsoft Azure."
     publishedDateTime: 2020-07-10T12:02:00Z

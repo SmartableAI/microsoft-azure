@@ -98,6 +98,20 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "New Google Cloud platform allows direct access to Amazon Web Services, Microsoft Azure data"
+    excerpt: "Google on July 14 announced a new platform that will allow users to directly access data stored in Google Cloud, Amazon Web Services and Microsoft Azure. The solution, dubbed BigQuery Omni, allows clients to use Google's serverless cloud data warehouse BigQuery for data stored in Google Cloud,"
+    publishedDateTime: 2020-07-14T14:33:00Z
+    webUrl: "https://www.beckershospitalreview.com/data-analytics/new-google-cloud-platform-allows-direct-access-to-amazon-web-services-microsoft-azure-data.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 27
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/data-analytics/6.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "1FtxdYDI1WkEw2c3ytTaANAqRT/ExDzgCbNkYXUbG/kobwcfk+s+YLLvRoOvKn3oALHV4opwYbIhCJGrD4kzmLUuW/9mS9KDI2YFK5aaBUOyyQNOgi22rIWLl2+KLJUTs96vf7E5wYwiIDy84i4c87GeRt86TFkD7/xqRENdz5R4K0kpsJAocF/Z/E0VDfctogzgDO48aGGiFe25cViXI/EkRtakZk+v745Y0pCGUwYEI/HFZpM9ghIUuZTaF5/tT5uksmRTR2bBPXAkxjo1+TcXjEWa0JqyDA97BlagySTxIm4rIpDe8ta8BUUAKqJ+cotVAymPvqG/mhbrmmao2Q==;G+FJ97RHE8It73hcbjmXWw=="
 ---

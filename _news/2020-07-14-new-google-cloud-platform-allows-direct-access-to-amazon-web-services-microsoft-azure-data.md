@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Microsoft Azure launches medical data-mining tool"
-excerpt: "Microsoft announced July 8 a new artificial intelligence tool for its cloud platform Azure that allows developers to analyze unstructured medical data, including clinical notes, clinical trial protocols and medical publications."
-publishedDateTime: 2020-07-08T15:00:00Z
-webUrl: "https://www.beckershospitalreview.com/data-analytics/microsoft-azure-launches-medical-data-mining-tool.html"
+title: "New Google Cloud platform allows direct access to Amazon Web Services, Microsoft Azure data"
+excerpt: "Google on July 14 announced a new platform that will allow users to directly access data stored in Google Cloud, Amazon Web Services and Microsoft Azure. The solution, dubbed BigQuery Omni, allows clients to use Google's serverless cloud data warehouse BigQuery for data stored in Google Cloud,"
+publishedDateTime: 2020-07-14T14:33:00Z
+webUrl: "https://www.beckershospitalreview.com/data-analytics/new-google-cloud-platform-allows-direct-access-to-amazon-web-services-microsoft-azure-data.html"
 type: article
-quality: 37
+quality: 27
 heat: -1
 published: false
 
@@ -17,11 +17,10 @@ topics:
   - Azure
 
 images:
-  - url: "https://www.beckershospitalreview.com/images/channels/data-analytics/2.jpg"
-    width: 400
-    height: 300
+  - url: "https://www.beckershospitalreview.com/images/channels/data-analytics/6.jpg"
+    width: 800
+    height: 600
     isCached: true
-    title: "Microsoft Azure launches medical data-mining tool"
 
 related:
   - title: "Accelerating ATO in Microsoft Azure"
@@ -91,19 +90,19 @@ related:
         width: 1497
         height: 785
         isCached: true
-  - title: "New Google Cloud platform allows direct access to Amazon Web Services, Microsoft Azure data"
-    excerpt: "Google on July 14 announced a new platform that will allow users to directly access data stored in Google Cloud, Amazon Web Services and Microsoft Azure. The solution, dubbed BigQuery Omni, allows clients to use Google's serverless cloud data warehouse BigQuery for data stored in Google Cloud,"
-    publishedDateTime: 2020-07-14T14:33:00Z
-    webUrl: "https://www.beckershospitalreview.com/data-analytics/new-google-cloud-platform-allows-direct-access-to-amazon-web-services-microsoft-azure-data.html"
+  - title: "Microsoft Azure launches medical data-mining tool"
+    excerpt: "Microsoft announced July 8 a new artificial intelligence tool for its cloud platform Azure that allows developers to analyze unstructured medical data, including clinical notes, clinical trial protocols and medical publications."
+    publishedDateTime: 2020-07-08T15:00:00Z
+    webUrl: "https://www.beckershospitalreview.com/data-analytics/microsoft-azure-launches-medical-data-mining-tool.html"
     type: article
     provider:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
-    quality: 27
+    quality: 37
     images:
-      - url: "https://www.beckershospitalreview.com/images/channels/data-analytics/6.jpg"
-        width: 800
-        height: 600
+      - url: "https://www.beckershospitalreview.com/images/channels/data-analytics/2.jpg"
+        width: 400
+        height: 300
         isCached: true
   - title: "Teradata Strengthens Cloud Offerings on Amazon Web Services and Microsoft Azure"
     excerpt: "Teradata announced a myriad of enhancements to its as-a-service offerings for Teradata Vantage on Amazon Web Services (AWS) and Microsoft Azure."
@@ -115,6 +114,6 @@ related:
       domain: businesswire.com
     quality: 13
 
-secured: "hn6ZfwEtlf4U8zgAGHuBmPNWrETbvDgQlHR7uyuzxYeGP5EOKyon6C8x6PKLgFu90zxo7rir1exVzBXbcFwrYGATxtSp1vbgG801W3QThELWG9zCaASaJ74C2l92bBvTuHe2kl6hLwJyO2TKrgOjqb1Ip8DKB+GJ8bxnjkMHEqyL3mx/bl3u1UaXBwRiMXG33obEkR3ElarAt53na+nkWXiO7UaUVtgZ2NC+EtBEtJNiQOkLIMZB0NDFRXTpmTFvStu7rJkYoi1fcLugzpFVkesinwPxx9oieWsM2nR34gVOj3u9JzofMI7vMvwgcv6nKABYW8TSq/jGWCFOxzDhaWOqEMk9VxAi28ekIuurYDQRN3+bDyPS+0AZfnLbgop3tvsju1q8g2VbGkEmpPLg7Y0qcUixg+mQ7h6HytBCkhmD/j7E00SVcLDVWF2cFidBCXLjZL/Axa6mv1oAa3MFpeJifZMr5AFcqN1bGntkE8JWjdTHTb+G2cECgs5hyGjZwdU4zQaBkzgtOC9Al4+9rg==;FXU5I7C5KfueuCIJLO6EpQ=="
+secured: "7YzB7Kl1SIr29rd0dlJIw9JpmgO1F7pe6fguCWkb1oszmCKHqlFrA64jWqg+cViVaDihNKyiK8eXXtiTWM2gNAlUZi0F0zUSG+IZXAYGeUAgN5Ytmgk7sBjktL1SJWbdmfDTScv1EWi0aArhBpZKqu1viTCLUZSJb1s14Gbx/U6G68/DxUF2NDtD2tVEe/ri+PkkGUv1Yj9LAqvmJU0cO5TECubmWIPTVefYzxW1NYmtkICI6k5o8/nmY7Rdbw7LbFA9U/GFd42cttDvwM8SV579dguxBCFj5yyazcgIEkVbrQ09bTxZnFxI6e+JP2BYjLTod7CFoYemT5E1NFFAaw==;so3MVd1aPiU8SdxTrCtMUw=="
 ---
 
