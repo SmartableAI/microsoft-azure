@@ -5,6 +5,9 @@ excerpt: "New Azure SQL Database gateways are being added to Australia East, Can
 publishedDateTime: 2020-07-13T21:00:04Z
 webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-sql-database-gateways-in-australia-east-canada-central-west-us2/"
 type: article
+quality: 72
+heat: 72
+published: true
 
 provider:
   name: Microsoft

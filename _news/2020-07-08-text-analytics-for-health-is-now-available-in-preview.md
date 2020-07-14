@@ -21,6 +21,15 @@ topics:
   - Azure
 
 related:
+  - title: "Azure Data Box Disk is now available in China"
+    excerpt: "Azure Data Box Disk is now available for preview in the China East, China East 2, China North, and China North 2 regions. "
+    publishedDateTime: 2020-07-13T22:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-box-disk-is-now-available-in-china/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Azure Private Link support for Azure Automation is now available in preview"
     excerpt: "You can now use Azure Private Link to securely connect virtual networks to Azure Automation using private endpoints (in preview)."
     publishedDateTime: 2020-07-09T23:00:06Z
@@ -30,15 +39,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 75
-  - title: "Azure Load Balancer support for IP-based backend pool management is in preview"
-    excerpt: "Azure Load Balancer now supports adding and removing resources from a backend pool via an IPv4 or IPv6 addresses and virtual network ID. This will enable you to easily manage the containers, virtual machines, and virtual machine scale sets associated with their load balancer. It will also allow IP addresses"
-    publishedDateTime: 2020-07-07T20:30:06Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/previewlbip/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 73
   - title: "Preview support for Azure Shared Disks for SQL Server failover cluster instance on Azure IaaS is now available"
     excerpt: "Preview support is now available for Azure Shared Disks for SQL Server failover cluster instance (SQL FCI) on Azure IaaS with SQL Server 2019 on Windows Server 2019 and higher."
     publishedDateTime: 2020-07-08T16:00:18Z
