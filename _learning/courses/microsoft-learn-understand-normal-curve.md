@@ -8,7 +8,7 @@ length: PT1H5M
 ratings:
   count: 18
   average: 4.7222223
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Understand the normal curve"
 
-secured: "lueqyTDFOwpDZqQXCZpDJ3dNCLEfm0djKI9kqBVxhXT9fhZMnX5Ch8zErLhvvxgiIFKQ0C5rgNiDLnsIMHWn3Y4rrfj49IWToK1kVo7fOFaQCPL3iCjlspSq2x0/ETXSZEscCxxU4M+LJaIm9OrGecuw274OUFZHd+Rk7ZxzHzNMeBsLNUVuohkDrGua+IyXM7U4bduBmAibZPB9FVUum9eZiaDBOLlIQs34CXNfmEBPwF6Raf8n0J8EO8nFsuyXbbuGoScujFaGFT75WYLv5FcacKPRJkbyMqtlj47KbkOjb70S26n5m62Cup1FAc8X6zi65QKQbphmFB7PliSHQGuecgY7M9ZB6+vcWuRHrfbTRQeVrDJC6YKF6LMI6CxQ1cI1eQE02XrE/Z6N32n2sg==;fvHkNKeu77e5nWBQ6UFx5A=="
+secured: "Y26IokPSiLiUPenPh/YxwiPBkNUNiWZo4Zt6J5l412t9pj8lRVGsH/oPZ+mVyqJMlgKJE/fdsfzkuY6qrBt2Qh3/m6zrnMlWR3ZK614/vILXpFqwY/bho9v0EyFiN2YuW9AiJOHlc/jP5UIUW5oWtyv9/d5clT+ZN/Eir8DTpPAqOSRwX5nWmIMqwNI37Y8r2m5XsipEEeI8xZEQHvcuzKdkO5JvLEOhTFc3gP+s84QXdz/gZh3A4PE9EDAQALlNAiAn2S3afyZ5un727QYabBkVGHjuBklCFS3vLvg6RueGEeCJO3fsaFhPrkrM9aDrp6CvHq+9I7kOrwVX9qZ2OKIVrvd5ymjiGVq3vz4GYUOdKocIMr3GEnEjqctibS/ST3vvR9Bfvlqh3NYP9WWxCQ==;7pshfwy8/9Ti3nz/FJkbDw=="
 ---
 

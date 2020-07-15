@@ -8,7 +8,7 @@ length: 28 mins
 ratings:
   count: 1474
   average: 4.7048845
-heat: 52
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Introduction to Azure Logic Apps"
 
-secured: "XXLZnh/QRWQ3UtJEOttr004zfW68oTokVzDm97AKS/17Vk9yfV57znTFxD3BZhnLY1KEcqinoQKZIkLoYelKLDOPZhEThuFAYgDwtg1QZVUWQwwciidZkO8N+dehtxuB/vpwNiQn84gXH0HU7TycNtDv/6TRTm6ncy/WbXP9qynThiSOHXiwvSBj8nEXuRQfvoAP/EKk56FHK2Y2V1K5EeVydWKVliq4RX5RoKIrbGYbkk+lbTA5bOKjSYwNprFIYnp5aA+F6t022QWijXifm8EC4ZEPy5O4bO51upZ3xDTZhrPDImO+Ef+PygLUrknov4SkZkiWajdQFQCUmy96xhiMjSs1m/P/iHhY9bFfrvXHmfw2o3uIBQJkdBVtZotd6ugwYasawJrpb/Ui+SMZcw==;YvZFBHKJ1dAD9At6Ln4HTQ=="
+secured: "hLny5yKw8dZUYqLPv91xF+4wL0ATRnpN75qrC2ctboYXjYf2GdL6QiULR6IZXuW3T5WFZDxblWYR1fM1f5xDdRkOXHYLZE7AEFAzSGIYWWljZ8LDaCDI8IF0pV9CQamBgHW8oFcHkUhAyPABMxKY9U8eBNbMUHqaL2oR75DWhtmKrVFLRX0fn5jx0+2WXcYLuHWjeo8lgI45Muj+ysZ3QwMTytK7/cHAUnubSezJPqMI8Fs4iWN6DtLxohojDy+esL6SeNKbcWuvkA7MLZCmnGMRoZAEtUnniGG1ml5jbLJWoXj2xZRPhSaGJ2xb3q4SpAnjUbQFc9mp/ZY8L7Qv46wbfgKZhWRoR8DGAo82OoreQrtEtuAHVU/Dqz7W0nfWhyk3o1q18zeyzbjVWnzdGw==;7qvunVWaBj0IPQoV+J6EWQ=="
 ---
 

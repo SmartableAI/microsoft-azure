@@ -8,7 +8,7 @@ length: PT40M
 ratings:
   count: 4889
   average: 4.743097
-heat: 60
+heat: 61
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Choose an Agile approach to software development"
 
-secured: "HSAwVrlkqul2ND6MEfRYU4wOW+H970zx27/5/9xY44rFdOLs0McVCAebP1/x3QX7C6zhI8p4O+vguAROOS17AK5gDLYaGz6a5gWumDvDeJdb6oxIpou3Uat1dgQiyWutsXS5Tn6O65mTQ38oQqzbJLkBSFbY4lCM8pAgB0grDDvr90sQL8JY4wx5lz1b8ij63cflZ8tjspL9whhQMvQT4Iop6x+OiaFfdqXMH3I89bqQbc4VS50QnI1U6heVngbp5GHK47+mcoTqhU+BjdHFuP3QNi4cOkAIKcESsU9GVHRJHCsZLT+YWHdNDoGy5isVGyhdAy1Jz0hVZJX5DNiNyyUHP9nmLKpDHZ5oBc94vMsV4uFtmJxm1xkgJA987pT9G5H4jj+XVk9fXW9cbYgMYQ==;rx0zFfJgG32MJBRWVkaceA=="
+secured: "WjmKQPI+eVZi72I1ehEmdX7Sx+szsSfGFLRNgXdzFOE96e9PMQAY9KYRGnbI6IYttduWsF7LfTlSYj5lW/169wAnFsXxE3hBrZkMhuDcjelzb81VaV3cYxR5+TPpckMwvL2KV3U3j3e7uQe0QLlpBpc4qTX5M8ZqWv7UMp+ETEaOQZFxJJwkoZ/8ss0Vpm6jwB7qiISosZvNpsUjpHD304D67zko+DVeXfL4v/7c8YuOLcsV5PcNQaJFmzQmkAzlVAxiVWHlLtIGo8YkPnoaC9vTQcZeZumj1MyLkC1USdm96twkcTXyAdr/HnRzpWc/Y8GaYtPALJQuqS9sQZWCHIoze2m6zrKsX2dmbKp2BiCQXWlspPvp2SwJdwg1vLpz/8mIPzEyBKHcg5nB9RWxOg==;CsRgxeITseHWkCeXBpxQxA=="
 ---
 

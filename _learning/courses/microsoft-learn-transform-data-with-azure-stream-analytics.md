@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 49 mins
 ratings:
-  count: 1068
-  average: 4.5711613
-heat: 52
+  count: 1069
+  average: 4.5715623
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Transform data by using Azure Stream Analytics"
 
-secured: "k1xh5bQIfWu/NpakjvaqUt2yoGupOTluYAcgxqX+t+Ays0Yoom9zD/26vDHmyZIPdKmqtadtjRGbk0L4O9aCqYtqgehWUPzAhAnD7Z1AtEetlRJcq9McuUGtf7B2g85rA7ZmEElAAxwpsIWdrkyIJ+Hm4hsJRinE1o0yg/RjD76WHfrs5+MhlZy2daIjd8W7iXBEDQUI4zWLPEsswQZgoh8M5A4qHpiq+bhd2mQVNgvzOxcX8xS42VBZiFqCSpRFu3sSpJyALzt5O8Gy+o9/7LuVD4fX6jxE/cMZrOc3TbOU7lFeqLqR4PEjNvpbDRMn4Y+wlHSmnqKThIcU91BPDKfZZT/DjBfODA6Jg5i00OH9cKwenfdnb64juhRorVgDccEHe1zAx8vkNaJM+FVOPQ==;1M63FFUPyc5vJLkoxgYN4Q=="
+secured: "a21S5ChCPLdX3poPuAIEfBL71jNMQ98CtkUPkRX9pG5RYpmi4BHbc8Xr5Way+BuyrEJC11tDJYUQj8+eF/b6VPTTpQqJfVXK5GVaUpLP7vS8UasAkkVXhetQi6EkWYOhj1Xbg+myqUTmumltUWjalYeOnK8DuZ9tQc6nqfq/B68uCEEGMF3VvSPfB/d8e7kP6HGxWhLLyc0wHyiE3x6aWSWOiJkwhxgxmIYAvq4domEOIXT/yLdgct0tDxurx/uKGN2ouUeP/cpks7+V9CcQk0p/9MtBWhPLl6nroDbnAUVzvnbPIkbPFbzfysdWHdqM81Nm5w689v6MiC+NaMYMUajUu2kJpEt+67RhCO2eK1Vi0bl9RjwWbr48IU53WuS6DNHJYN9YNMYX8MmoFHn7GA==;7BhPNOrsuHXqEdCSWvhBgw=="
 ---
 
