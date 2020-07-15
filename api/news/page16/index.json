@@ -2,6 +2,47 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-01-15-new-azure-blueprint-for-cis-benchmark.md",
+      "title": "New Azure blueprint for CIS Benchmark",
+      "excerpt": "We’ve released our newest Azure blueprint that maps to another key industry-standard, the Center for Internet Security (CIS) Microsoft Azure Foundations Benchmark. This follows the recent announcement of our Azure blueprint for FedRAMP moderate and adds to the growing list of Azure blueprints for regulatory",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/new-azure-blueprint-for-cis-benchmark/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-15T01:00:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
       "path": "_news/2020-01-14-turning-to-a-new-chapter-of-windows-server-innovation.md",
       "title": "Turning to a new chapter of Windows Server innovation",
       "excerpt": "Today, January 14, 2020, marks the end of support for Windows Server 2008 and Windows Server 2008 R2. Customers loved these releases, which introduced advancements such as the shift from 32-bit to 64-bit computing and server virtualization. While support for these popular releases ends today, we are",
@@ -1137,47 +1178,6 @@
       "topics": [
         "Azure",
         "Networking"
-      ]
-    },
-    {
-      "path": "_news/2019-10-24-leverage-azure-premium-file-shares-for-high-availability-of-data.md",
-      "title": "Leverage Azure premium file shares for high availability of data",
-      "excerpt": "This post was co-authored by Mike Emard Principal Program Manager, Azure Storage. \r\n\r\nSQL Server on Azure virtual machines brings cloud agility, elasticity, and scalability benefits to SQL Server workloads. SQL virtual machine offers full control on the operating system, virtual machine size, storage",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/leverage-azure-premium-file-shares-for-high-availability-of-data/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-10-24T05:00:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Databases"
       ]
     }
   ],
