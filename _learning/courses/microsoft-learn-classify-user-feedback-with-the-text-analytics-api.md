@@ -37,6 +37,6 @@ images:
     isCached: true
     title: "Discover sentiment in text with the Text Analytics API"
 
-secured: "LFZWPdmPx0Xr01RcE15Bic+jNlg9VHqWoBkHnTjAP1nV/WntypOy/xtjw68nQIWIJ5q1K8DJ4+1xZTtrLc620mnrLhDgkEISQoqN9wJbIiZnAlvqrmyYcnPEBW5pw0rzGSZcGqQv03PDuNpP9jkolXr1rGmS2Kss7MOyCYI9LEXNbwY+vWqYCOuo55L244L+DeVySTdF/qQkpcEa+S6L0NlCEXT1n+XJ3WyD7aBtkZthLqo6qGiNrOeu3AyhG0lqS5OFjn85buAlXygt+4E/D0aFam89p8+B08iBrrxGb6ImPMKLXMAxhfgCefFoWZaUNKA9xlCLv2I53C277992N/exYqyJGFLp8/qLaTP5YZTi6dNXt7ddadpK4n0K1qPR0xSGJ+0nSSES23qRDvYDrg==;UfEMUIsjTAtt+xnOMOr0VA=="
+secured: "+fDLIhjZP84FnLn8R7SLbR0bl4dxh5ehwhjzubWZO1iXvDG2rI2t0gArZs9OIbePp8HE11C2bMAWj1xxaUpR45QqO2vLZcqtTqBKMwK+a3R+VrtfanKJI0/vvbkRyCdSiPb4IHwYuSmAewyNgqu5KVBIEP/AkpxA0Umo9jVCRronxJmZ1H62az9oLxfC6/Ha8NGTSHmK1OKQKGVzITMGw0Z5lZwbRZnawXYyeknBd1LY0jAMlU+j2afY5vA/E0Y67tLqquImY1w+qt+EramnKSmr4hfaTPV6+hVCLy1rSnG7kmIV4J/XikV2IhF3GuJabWZHMgh+osncrAmIT6oUADAN3mtsUHxdftmtbH+NYtdzeyHwyRu/UbIttd3bkdRUIK/K6tuWFBkwPeHJ68sE7g==;Ekrnt1TQZHWNrRIgT9alEQ=="
 ---
 

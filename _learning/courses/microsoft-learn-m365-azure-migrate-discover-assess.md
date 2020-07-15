@@ -8,7 +8,7 @@ length: PT29M
 ratings:
   count: 36
   average: 4.75
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Discover and Assess your on-premises servers with Azure Migrate"
 
-secured: "jYc3KufV6JOk3v7q49AQuXIE8K2JfWxSuVqKnWzReEizY4tv1dj5XekJTfPH5j9dbHZGTcnk3ZEzbNpuXlhgDOLiXauT9xli1T4bXua4J1tYTid7Rbw6zuf07mC+7l8iWlaYsFYdfpBMFurxgdc1jMkGbtiCiHlgNTJmC/tUNfPAQexLsgrWzPT2IhgkMok92ULxTWU+Cjg5WYHwiRgjIIBmJ/8wqdYTQZky0yPnVU6+AFK5GReAT3PkzcmTIqiXWgaJSl+0FVAB9IlPodQvpowTNlNlIG0UJ1sqWBiLOxbR8LTLnsx6bZskJOx1YxeZleP3zX5WXkIQQ08dw9AOvlaPi0i3tftR067x7E/DTsjyQoNqHvkkMFgb4x2q1AEc3/r0FfnVidGmXcP3Lqq0Hw==;N+f+DL1cNpgX+As82hu+yQ=="
+secured: "gMVsj9pFArOVJRwQ0mCaTl+ctqAAkkWIDE7jZFs3Xkqx+n+FsNREaGTiWkKboDRFURYmyoo3AxZjvhorc5iY64wUQmSgXSjEhICjXzmV8yKkGj7Xs7rDpBelMIB5mE2SY1W8NwfVI8b4/rXIrOL94l8kMZb/3EkQy2bCt8nYv1u7KSmnJLOGRuRTM9FR7x8SjIFgoNnibjUT1Rv5fIicXJLrgXkQWCkCT8V6YgVpvGCOjcVCkCTQLcxElWz0Ox5F352dPLf4ucPkz0XmGggHOFDQWMy9n2+BWaiBrPgoFiFP6rVML8bCaYujy3YDVn43s6Oh1qcDUrFN3eKxa7CiMV2xIJJqxQtSZEO7oogxXQKFe/sGnNibdw9sbiZKnykzz4Hk5kZ3g+xGxusAi7zyDw==;poKUV3ftqxWrmd1buCkUJg=="
 ---
 

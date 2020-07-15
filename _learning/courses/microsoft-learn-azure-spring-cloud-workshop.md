@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 84 mins
 ratings:
-  count: 33
-  average: 4.5454545
-heat: 51
+  count: 34
+  average: 4.5588236
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Azure Spring Cloud workshop"
 
-secured: "smB7BFBz9ssDQonX1N/ynNsT53FWjDPYRSt9qQd1d0sFv9LXxhr7DobJDBaILXDITcUGq7lY8XJtrJGxdu8M8ONdfnpUzDFKbGB4IUNkFp/kjrYOaVJEPTKj5vKuc6kcVyG+9mfK4wR59CiKfGafkBI35vdxMnbJdcrE/B9JaLw6cC/CYbOP7+BQtNCcnptu3y6LzqYsRG5wDzLaDUDbgLSWT8VYj54/Gm+pGj9zoH++QenGgA9XizWNDDbNpQ2Gs4iMZKcGADjWoB25CxYeww/EKG3y6/gyPRKuLIjexZCn/JKySDEsv0J7aHqMkQHlrXl/2cDL7Zh5Aivim0O51lCsFfvIdpxTQCXdQ/qkcPs4o5/evEPNloHNWJOnbm1znv3hu3xm70GM4G+8fikYpQ==;BODR+PTNBmZxStrWith2TA=="
+secured: "NLnkoKLcThLXdC/tvqgXgjluun62XfqrfDUGXq0DPK0w7ZdxlbkIbtVzmdG10eB5Pw8RokFOqVZ25ZLO1clH4GkzDEDb5OlF1i/Ednwj0luZqFwPGQ05yD9WFqhzvs64my6QhltJgyS1xIJZPaLdJbXDe0818yoJv15Gv5fDkqxfZA+0UTRIl6Dtf4shvIyd8Uj/FIclSAJ2rfcBWTWlnklo7S7tY79EgKShpnHxpdNji7tytFRx2gwhWAGK3MbO2age/IMypBkEigeAYx5eatdEUiMsbQbBbZ7XiGvdEedjZofk5YxGlPV33WBBoK9z9fiCw3aN5gNcGIUNZYTP1855W39onl0wzBxASHSXvSUpPg8FJQ7hhvcHsiKDx9Frm4atT4ZS6sWbyq+Jp9uFxA==;wTg5ajhztdPiIXnO78g+nQ=="
 ---
 

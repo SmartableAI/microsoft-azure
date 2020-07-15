@@ -8,7 +8,7 @@ length: 80 mins
 ratings:
   count: 70
   average: 4.6714287
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Foundations of cloud computing for developers"
 
-secured: "AGYV/5dvKIovV4mNcHOccO7OXIlZRRTthF6EZio8zdr8g8+jvSGIhLbv4n3O3XdWUpANDmJYPRhneJKLeVumTbnrEgyU6U1a2aRdlikKHvtADkpRXO8nWSDMBiHh39Bi78/IJ72UC3RcwITVv45QH9t0l9FyhaGf1LOzsShSfgBv3WlNQnhLxgl5jdle5qSHmR2incJqHFD4+L7YnNpVYoif8x+UZD+aTbLGtsl+u+a40anZvkU4Hp9qxUNs8F2wMlR737PYig8Kmp9ksaAmr9vujv+nju5vl2oIqYbu6FO3J6JvLcvIoQBfQ68xozs2HuGhIJfYhuANDCxr2MRLERzKUbXIAYi0j5Any7w8IezRraWiXMyvjzPM4KoL1KhPNEGZrt0Ty2RJd2Po91FX7g==;4GRv+qIfk9DN7KiaRXnaEA=="
+secured: "vlEoYwimH6AqBw82arOeLJPfHGVYuJjDx7jUpA7GJVLtjgqZuqdHCYk+dRBOhBq+AnKNdRkckyAEir9mlDnYKw1gF/X2gDvwNl/R3HTcxfqu5iMmpJjRp/dWn6r8ByzY2ohvMiucLj36zdybVNowbCxt6yQJkpa9u4gb8y7iKNeeKt+cDEm9OC4JE2ifXoR01zP/jn4Z98oiaY5Hgyx2Vp9MUiiEIXZrmrm1wOK98G17qXrhbgvG/P50f+7ggvT7j9px2sHgn04DyMyweSl6j6G5OKU3rWURZ+WPp/aRq0i2gyKqAXUvOr520pX9E+YwZm3N/1yb8/3FKPqSnXprhk+mqysMp5ye90PXroC3OGYYr1JMe4qbmZVvL1WQbc5KmkKaoguQWG3DbIia0B66xg==;aQ6KRAQwoc4CKdgUCA7umw=="
 ---
 

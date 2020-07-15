@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Read text with the Computer Vision service"
 
-secured: "2yEEdc8nbZ1Rsj7VLabD6Ch4vQNIAvKts+S/vGvYF0stmIeFC9Cj9pnm9+H9T8NNF9ZttjlMGK2zCWjyi7jtfX1HXbjQLWkk8eE0+cr5c8uE8EMSzEi744Ha1at4Jg0z7tllTCpQkfmCZ/e5h6rbVkbBBB3QwVLA038yZZEGy2W2gURN5OZa0+xeMzN+ULqLtOoRNCVrEt/+qWeyC+mYIHNqQILgeWVAt6ohBswn7634a1t9fqIQRVhHY/o6eiMAcsQYFktBz9LVOD8zpt9CbgrT08y6pPs+z/5s/4jWAYSwI8G21l/VHBqrggaNkZcQwGtjm8ydAxB1LN0v9rTaoM1YgPW/WA/V0O8MY+gnLUJ8+/Xaosocga1iAafwfVIKtLO40ztruIvuKE2kG1DZIw==;AiadF0KUUWfNzphS1kvEJA=="
+secured: "VejxG2WyDB5Tqap1difEi57DFDfOkIX7cqpPi/9lMbkCG4QDhRsvU2X8y0AvO6Y6ZFW/c/JudbCNX+jq8jHrXlFY7i2pGdcPIDwhREX8p0Hj45T3qiAecTvIUCPn38eNoniHv8tRicyJumcUxwsxE0hr3iMOIefJVkiZltWOMXRFvT3V60GbvwrQSBueGUfaaNGnqYO04LQUFM8/qbKASc3ZtKAikZBDRlcS4jHpmgfbQiSJoO3n9gLtnv0+5Idqk/mhs5vt8krn9aftyC+dEXg/xPS5JPZMLG0Hw0rSYJlaoKRvya2vi9vYzuOkmuDoJ69DOjadIbZAOuZVJIPbMhRYvRhjHF0nPucF6vwFp8D/8q/63BzLjWxjM2LH/f9MqWDg4Lw02emT7sxeZvq5aQ==;+f93RyJKCTovIXf9epr6MQ=="
 ---
 

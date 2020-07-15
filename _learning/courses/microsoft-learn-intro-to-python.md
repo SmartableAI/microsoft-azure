@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 67 mins
 ratings:
-  count: 4126
-  average: 4.7152205
+  count: 4127
+  average: 4.7150474
 heat: 58
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduction to Python"
 
-secured: "bqJ5u1tPC8FFD1IfQsRr5VU2qBPfN7CIU+JhpaAAMFZ6665Y5fL3Ak7HSFeaj42n33YeabEkwn9S0p5CKhTPnBVZApV8b89nl1SOu15aDEFY/2q//jzpy91q8SFZ4xlr5PNPytEthVhVbqt6OtyonbDDoMqrzZvciCHdW6m70l2jrjMCZZLicpIOlrJYyAS+EeRPDhph/wty94fzsit0RGAbl0VOMTbIrfQkETI/lHeJxY+XxBg2KWEKlQNAqb/ZzwLf2b4XnXnR71pL4fIlsyNVNy+7JwLo8TKnJXpd1sQw5d/kWUF9Ju06VAKhwQ9lLVFkvYEjS8DO2ZWxdQo84e0DO5VZVZJS+R7tqdfxukF/8Zxs91Xfm95fKhH9sxXL+3h1RqVoYkzv4EaFSowFgw==;QRjLBGsJojkzNNGVWm5czQ=="
+secured: "EE/YfvucHr9fyKRGGdoVmIlIvtrjNhhjva1lDsCCKVSVkaLuWLMvRfWxrQ3HHxktL3/VclicZbZHzAUrVXsiVIT28h0FZh45xBBgyotPtD8aFlYgkpe2sZTnnSUoj+4bvKam+VPVFfWf+xLHBOmPGhwPiv8IKlIcCJmXk03qICu0fKbRWQX8B9or6eHjZws/0ujueggI2F3Epprw2Pr9YChmKDregm2g14Hel9RxEYSk71V3d17vQaGUq2HqefOpR93l9pKxr+NiOvn/H3mwZkRH6wuDvo+QeMRBFVlOkeRwZ9ZyD7ROgbqonFtZbuZmZlLqxcK4ETLkZJ9/uuI0h0XFnFp883MpC4SNTtKO6lhZfQBRO4cKZRR7ydbexE+LAyC1ZmvpOIBCHXvIk8Va0w==;DZb/09R4QMSPo1B0GxF1aw=="
 ---
 

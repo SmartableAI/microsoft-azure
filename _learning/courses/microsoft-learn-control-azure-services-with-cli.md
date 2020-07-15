@@ -8,7 +8,7 @@ length: 34 mins
 ratings:
   count: 3312
   average: 4.7560387
-heat: 62
+heat: 64
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Control Azure services with the CLI"
 
-secured: "t2ptldzpZt3q9T1xPnqY+y6P79nzQBqnh36o5vX8tDNXIqn/eu92xosalyRNFFT7aVR6i0rHo7eddEUkXMDiyzPsiXtaSWuXPtwseFFX2zc94ynDQzyqSt2ax1vyn2j3N3RkVRXVl7fTEaIj0C8r46pDjhX40Pad0JTR5fO/FICZzpvgK0O7NPEBStxpXMOdLwSv87E/R3d83zdFzGcVkI51+neQ3rTNZvfJJpUqL4KaEfIPP0sE+PjvHPfHhRt4VHSideQ3yroA7J+Bsxen1/g5sxEtiPW4wKbdyO0LuHPTUpKt7NAnLreDsI9T3bjoJ7+0qUOal0dDFTEYoYNf7q2YZ+7rxY+vOqHen4LQD44IyQly1Q8PkJiDi66E0pOyrld/ZUk1DgfKrkh7IgAhIw==;Y5dpv3on7PoUb2FQwzy3BQ=="
+secured: "JhU1l+rLfrA3arIjt8VJPTHv1bpmbolTpWi7W4uvYghX18Xa8NOIuj/we76LYxG694kFGeyr2TlkSFh9uyP5nrSVUJWNXXj6AVBlmywgBQSloDjmeAubZwUGze1HzTbclWqNWgOlQmNzbzHZlfCtPiJhrjtokjuWzyNC8zbkYa3AUiPIHlbSqi+naWGlJtSM90WrHfqCHekcd3bWKGkxj2MVn0BRIYEY+bLbn0y8zlEMlpah7WcCeDqCMWYSfziYJsUgNyvzCgOAfTHwNsSFEw1hgc+EGMBFvt2spDQC0ezW1bf7Yx8mXdvBhlVRIEhVuKzxh/mQunMNs7AhvUt3Q8rAqe3+gis16nKSRK8Jvqc00yLV3w5U4FVJ63ob81gKd1KYFTDZvvp3jB/Vw1Xt3Q==;Zfklh9IMUWAnfyXisPxI5g=="
 ---
 

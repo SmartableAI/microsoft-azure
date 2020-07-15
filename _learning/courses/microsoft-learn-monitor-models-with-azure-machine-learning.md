@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT39M
 ratings:
-  count: 39
-  average: 4.794872
-heat: 51
+  count: 40
+  average: 4.8
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Monitor models with Azure Machine Learning"
 
-secured: "ElUjlsU9wpdaCMdWQCsWpgdZv0jG02YHIk+1FeMXBmXWw9HGzsoT9QYSJBvQCvyFNxkjFhh7BGh2dLqKPKvkVHC+4mpID6rBCk5X7zzGq55pQ0TRmug1MlMRRe1VZysQOKC5pnQiPEK7Uc6me/IPPs1VnvM/kVmfeOrLQL3bbvW90WFMGYzJuah8WDId+uu9M3ASKAMWAXffPZCp6KKmPhcPILEtA7L1d1cIUtJ96iVoin8j+AkpYvNsdBqmha9Ub7dEfTrRbsUOpxEz77pzall8mLv2Fuv3dyj9fm5kzP9ifzVTkxWE7BGsYETpPMG5gnfELOkXa3cNrtSWEZwZISYC8jcRd2wTvUGibbb0h3I0fEQbdQFawTr1ztG3wXxh/GaR9Ha6JulME9ZJp+ebKQ==;rK/nDWXqUr5FbukrYbMbdw=="
+secured: "n2QHVIu+rlUK5W7/3HvXeZJ7d+KAvMPL662uVVWa/3y4fybwB1kL4qhfXUZEZyHIDGmf0mA5LpppSJ2W3AHWd8roE2SyQLjrPHamZVVkYD+QqA1Bm8L/RHosY1J81Aa5xT6zVCkRuK6YRH3/4Apyr4oNy7LeewyncfxPrB5IXxdselBfV2wct1ohOvLz1xPjzcpsVAxC122JU481ZbfBHrgHhwCJrZ7CaVwPK7bp2rpDZKtksXCzAd2C0TXWO68MPatky8l5W0UGLq4il6l73fRlqH9/fIb3ffHzOTMWoQuiPicr4hGwpNwK0Vyw9vMvSTdPdiEc3TlKWHjyVOc1l4yWvgMTVdhHYADEKK2u2A6xtuxJjdcthGqblUBpVrJR7qTCZa+MIHvdM2j3Qr8CyQ==;gs8c7ZTCBN6FwbQIt4LsGQ=="
 ---
 

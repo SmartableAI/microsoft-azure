@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Protect your APIs on Azure API Management"
 
-secured: "NYAymIFWw3j+fOus0ubc9wxLYegdmipx1KPJKQMlWf9omEgh3qUNHuHRKdAOgl+vPxGlRjK6MUCVIl5bjtAtJT1vgepmmQdLk6bNO0sIQgus0QVbhEbTJ7Qhqan2x3jUOvpXeNbQxlePu/syFv+o93t5cJ+sRpTqj8K3SKGxvCmwIQSBTyrogpJhri2YxMDG7ABr2s32PsaFGFiJt2eKrazVOqGwpSUQbndJCPsSpyohCo2MfoTEyhmvGTaB6pr11V8zW0NWyG4sUMKeBKWKNUfxI/TXUBooUv/Son+id3Y9CTStgX5+gSCuuAOrOa2YVzZvXj/yxgjo7giN1bYLJ2j8yOUSkpWCr/+mxHr+x274+XcaLC8hEiDJFbVemTH8BjuzAk1c8DPFKWQyaUmDFg==;i403O31Q7xK2+Wt/W8C2iw=="
+secured: "riG/rHOAl0jEvUfUMMw9aGXH7+9rmspW0zOn2jtKkZf+36KEA5WAlulrRuRJFCnwNHVvuufAnfCDt6QYq/XfOPbh+ouyQEmPYXvcRc21HyaW03/uhO9zvf5oDj4rR+61/pyBu4Y7/I/tzBfmV6GDEIdXnbZ+BaeXGRXHhgvdUgiNh2ewgLZbzxrufVn4geKBNIoLh4TVSGdzNzcvA4Gvs4BuaWhQUONGKF68B4NbeJvshIgRDH74ifHKdx3WSvECamJht+Hv3xnmIxTJWCL1a+sVb53KVTmBpfWzeZqd/Thp2yAlkR+gjvEBJA9Rz9sCY5Mlu4zXFzpmDd07uB7RGZKVCgd0nN5BC/N5Dfkefmvn5m4Vr9bX2VjWQ67NVcZlnIznS5Zbbsziegg9ZorWxg==;WOWaiP3ExPNAq2fqq/o79A=="
 ---
 

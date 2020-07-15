@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 43 mins
 ratings:
-  count: 722
-  average: 4.65651
-heat: 50
+  count: 723
+  average: 4.656985
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Monitor the health of your Azure virtual machine by collecting and analyzing diagnostic data"
 
-secured: "0nmI7F5BvNsSIQzj2Qp5/PGpbuZiFSA7sfnslKOvqS/l87SrgJ+AWfYvY3zfY62tijeubaejiV52+N3xP9wP3igoJfrxIa8sT0OOuSq2/Cu/yz5e9Qnwyv91uxIXRL4dcUSLFpsJT+ZXORx32qDsy43Z2RZ+7sI3s6IiwQ/lkPuBcoeDAf1Y9P5efILgWeluNb8V5MwRZEs7To7DZTN5w9j0RlpXpw7yxJEYW7UrJWf6tzXKh7tk0di88WqEZsk4PgKQuYOOYcDo6akqh3idvsWKJzyVmmbTrGc55KnAcCscljyz4LDBDC0fOzKe1fJrRuJNUI5o9ZnF4HUWOR40cvm75gKS6O5wnM7l6vFW606LEYOWEPyGZVM2ETt8mUqJv9MAKDX1+kCmqpUmCIZOMg==;5LMrkm0hwkd/nKiJQ1jNOA=="
+secured: "lyfNDL1l1cC1pTukcsf4aQ44HnkwNbtX7YmB1Zp9zIFJonX3hY5ayDNNxmN9uGzPM/z9FvjiY4R21XcOOWUaxa/7Wl8QHgLhemxRQPYaWFY5dB2Pz7PKtdCC57g3+ph+wViGaPH9+QemlXLyUrIQQ2PIZuZS762YY/2zKevyLQsvbVgS6Gm5BoG8i1gH+0BLcRTWNF8D5iXI4g8Uk7FXBS1eiJ+B/H+zq0aKIp/1QhZD/2WyBQWDzj7Io3NkEhkPzyP76Lge0vSHOYrjx+pIhSDus9FxJY38fHBFiBtDeftie4DfDREO1H4+2uSjrqV0kwpWhIqbzW8A4zaR9Dnz0qHEnOFL3a+z+jwQHdP1dnIxtd6DICAop4K2TSdWWDRyBK43YaAjqyncTU/3rg8EhQ==;A7PJGFasuj1AuEnWIXMb5A=="
 ---
 

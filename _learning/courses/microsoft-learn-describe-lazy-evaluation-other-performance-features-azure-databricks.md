@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Describe lazy evaluation and other performance features in Azure Databricks"
 
-secured: "esF7Gk2Dk9KTItUamVu/d+TmLUyNcmfl92uGNZhVqj0k9hfC+kcFvJjhrJotEsYoPtvSrhd/hq84WFvBNsp/mUbNfQMs4G+cKm1SWr3W5Wqt5nsxLM3E56Tru1C7FOwY8yUPYykkhsHvHa5YGoz5XOq4962xKUR7z32IKHO+sIZ2DuVbujhyCox+scsUniHk6nmCI4s/3GiahsZqV0NwPyRkZr2JnBmubwviehxkqrySwETcS/Tx66moS/ksh5mhV3ZzLRM4+et+5+WiSiEt+SLSvSynWRkfDpzIelutE1/MY/LfZ4Gh/wl/Xp8rBZY+Jxnw4KTDL+v9qTP+ccwPTjtKm3ozl2RGFI4Qdqz9pcdlYt2kjxVVQX7XaFYs8NlfGJiJFYALkRloSNZ3JMcQwg==;zg0IYktuAMqiibleKDdpKg=="
+secured: "BExvTcJuAuWtERc25N0vVhPtAKLofyDCETcWAMZqVKqVl99/zr/t5moo5ZrcB3nBTP2fk5t/6kRRtilVCGRKHVkWeFcI/e5kKmgs+Q6qhFHVDUXWp9LaO1Zfec728OkYu+Czwd5sFFqQ8IGtZimxGChiRI6HXIEwvp0KBvoubzigYypahPXhq8nwpqlJf38whEatRylmn3oCAdCiRSCMr16iKIONaU37AEJdo1rheV2WGhoNKXjiZFLj5KYicUZndTpSGh/GMJiMBYDIQmsi7MmhNFfneWf7vyDa3JqLoPY40//oXMYQ36T9nTEIXsO4KuHxgTC0gDO1IH4f3rrGGdix+6v1RdIWibT+9Wi3RdNBGo6AqKFCVAyLZZoDxIA/d4Idgumm0pVbRxJNUHJoWw==;x3EaCI4N2igirH5kN3p6/Q=="
 ---
 

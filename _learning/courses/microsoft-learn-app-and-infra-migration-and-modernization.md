@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 43 mins
 ratings:
-  count: 5075
-  average: 4.745616
+  count: 5076
+  average: 4.7452717
 heat: 54
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Applications and infrastructure migration and modernization"
 
-secured: "2SBnMXm4DKNZKCrNpk2xJ2g+Rw4FYX8TCyItc5D+ps9C8krky9PetYqwVfX4LZGD0MT7t5uY7MQkjWvngsxhi/qiVqcOgMLQvLHiS15BAfyWWcV2S1xUdhBJPuFtOV7ljPH1Atp3uDcfFbWneFx9v5qrQ8bqY8VKpPCD3NFa7KRkEGYBlJPVNtwHNS7++LNhVkOSbTwHP6+TEJdHcZDVqNd9L1dQatpSD27TD42bDiN7k3Kc5RiRXgXTn9ZniLUhyzChEZoqm+/f6Ed5Wp6BUDlJlVwIU4zEoOEJAKZ4+suO/qps6EXTZt15ba8Mj1QH7lCl28R0ARe+2wu91+C8SDAi4Jn+4/PMu3j37KfscvO6t1a48gkXaKMBrENirJY8CTEABsAhY/dFWfAs9NNmFA==;SizIfmKNjdKFPyop47+Nyg=="
+secured: "SXtu6DVezaP46vIAI1nTSR1oLRBe5h3supFB0AbROHI0m+jiVlb+aDSXT6JjkucDGS5u1sL7Gn6EmVgqMNrJ8w1O08K/fQWGsrPQ0YTpsUOlsa7hYdyMD8hPu7S9GfNH70Xvv8UTGuaGcsw1DkQ6bqNbUOXT8dkFX7FFCLaDrtYCljX3+JV6lrzdZeevXLEDfz8+hFiClLD4r/sPgbK6K/oiUAvW90dXyQcBAb82qfAxZRDzKs5MvMtVRtFTJJwnA/oJY7rmIp3waFBe2zwxtbg3sDDB/I5mMHx3XobluAgA7xQcZNt/aM3ecAank9NG+9P5KQsvifDlNVQ4avzGN9csb04yUA1afszQJaPWVYc9F1fd1DmDjxRa8OERh8sV0Ol9YxejVWQiKYyU5jeUIw==;L9wFBuWitlBzcmrQ2yS0CQ=="
 ---
 

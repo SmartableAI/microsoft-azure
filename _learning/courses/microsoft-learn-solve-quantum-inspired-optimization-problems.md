@@ -8,7 +8,7 @@ length: PT30M
 ratings:
   count: 48
   average: 4.4791665
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Solve optimization problems by using quantum-inspired optimization"
 
-secured: "SwRG2g+QxESVM9WHxVhTw8Jy7I3XL4nEFZ7Fjih5n1+1s0rgNc6xz95ZeeF6scgK7W44ZkYssx5/DUPU3dw6wfF54MXbMCvxUr7lyh68c7u0UDexSfujOvHmhpejvvQRuM7rDqewgv0WXGOyOcqNnpr6esaS1Xi5YWYJBZoUJCqjNOmK4AwTV/9dHFAA/6AeNgk8yoArw6p+NlpdTGU4CT5/S9AlgQyxq2KsrJkx7yEepYd0x+ZTHr9HXc1swbedCzGvNnwq+9yKm3RB5CIgk+53REgzQWqctP1lxtrFl5carfwvP/7kIiX28svQBPOTCdJyRiXZLrxjU9dj1Lsb0LAHQ2smZe86OOvkncIRV7ggibO10gu6/ew7x4E4ncm2NQ53Nn6bY5sAvwaweDdfTQ==;2Faz+gzrt5DcxQ9c6stYIg=="
+secured: "P2zRLyFlmseOUVpTCH/I7p6sUo2VuT9OZc+TMc4bL486I7eDJEBS4RNeyqgeqocrEWvEaeK6+f+2nZ1T/WPxgdOlYnacood7eVYAZBg/TdYTklIX1TmjcpJOOoW+GWj6IPuNw+XxDQbe9iFDTz/6P4kWO8ARcrfvD4tpdErvgA0EmVlpM5lb5WlrzCyJ0NDxrUsNPw9wt03VBI9Y7jooRdZgvy4UrolDczR0N+vCFnhAzQcCw5NSSgACgP2kNx8lgOhuEEu17VA54ysoZO8MNb2Z8IzfnvU1JgcyCL8wKHxmk6v7NlPDByzueK+coAgfItDb/KFn6Z2vEmfxweEqs3pCK9+l4SSQVfOS78NZ8gYCoTbkRm+V/UPY54a1VFeWnOqykM68LoMbRtnnXpj37w==;hAlHBYO2eHM8Iy31bGx9dw=="
 ---
 

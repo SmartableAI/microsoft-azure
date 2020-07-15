@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Identify faces and expressions by using the Computer Vision API in Azure Cognitive Services"
 
-secured: "X5cxjlhT1RCQ85PZ/nPv1vkTF5ODoBAyKQsDBbS40WlK3OHD81p7I9F5wuvoQ2GR2Rj9rwvVwbip8SqBhoSQ0DmLBXf+/UMfZxu/7pbQ5Ao6t2pg5ypHNRDQeXcAJBRuxNhv2X6UXERbaBbcrBPrkHDoGWsDrJBjgWVwwuz8DX/gYylt32YildOJXObo8WdJ/sbZvTZ4k8VOdVNfq31WDS4+KI3CtybWFP4xMaszBsBS9Tqwp1bl103yckc+4IKMtrwhTa9e9Y/wt6B5IRcJoi1O7cfJk8AR1xWBdOD041BtJPJrJvlva3+iaUPC+1QrPUwNR41zk2oSsKPuxNuZt7bvYVJJ2ZVNiXPNfmsTptrHd+sEMkLNpnIaRWOAXEup20rxw6qWRUJpwCPzZZsJFw==;zUPqczjUZo4yScOOW8IyWw=="
+secured: "hDRmDQYU+0931tN5Ld2SokeE0wxBggN+44xfsEFRSQ4b2EJ6FCXrZWR7dM2wJrsoFgJ9pY/l+MCywA9QuFonyzK/YY0D6g61RnoB+hTgck0r38J0agVW+3rV5lbp7Vh+48EKaFolztDVOc58C4nxPTIdbsMT3TMAZTL48myiTUYOvhvi3aQenVnpRdn08J/iBcE1xVJZaCqbkhuCCUWOiKdpFY2SVff+Py/JJuu3WsYPcU2wYoVTMMSIZP0hoM7DA8Wfg4ywh10D55NFZzCrDTrxjT36Ag1OKnsUUxczgoEl+ElEiEO1MpSjnKOhgWS2JkQd/71lk1KOFXBkTzn0xr/v0HwO2vLUNeil8faglvwA1rk+FW4AmFr+9IPxLslqvaf5HVha5IRAEU+lES8j+Q==;+ooCFcF0vHckaMPUOo4QSw=="
 ---
 

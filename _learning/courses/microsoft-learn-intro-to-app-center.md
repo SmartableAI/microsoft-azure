@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 49 mins
 ratings:
-  count: 127
-  average: 4.5433073
+  count: 128
+  average: 4.546875
 heat: 52
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Introduction to App Center"
 
-secured: "Swa4u7MTpJ2zljqw9ESFjKjfRTKBB9lTdZl1yq1PwEjFNg91J9Ccg7w4h5aQhOUTuka6b7hyOXHpkkGwkl0sC5ChDMqVclypKchH7rPFcfs44WPsS+KBSJ7J/+AJHlnzDxB3MMjlW9fIdU3w41WrIdPMMW6VOizJvxvmr9hskTYjlfpBccw6sgJTWBReyPa9kmKj3479lNokq69FuatxsQJzQIU9pn4f+jipx8ZSBJw84yHTErhWef686BxXskkF7HIucPkAqciby4/odQDK64Y8nvfOEbjjnZkbeexqDbAMsgfMV/ADjM1FZntzIjVkAnoYFFucmGDwDCrF4K/0aADKnJtdE+0hGTVLjsUNB2WbovtTlH8k3oRX6tuHK0/q3gwevVnJwb4Gi13cZBCF8Q==;bzsA/TpDVDYwrjIesqyOFg=="
+secured: "lMg/fetsOUb9/bofeB9uU3YKhM4/K5sJAbARgTdZNRzdU5YXtWI4KyGcWMUgtUBzTwYZBT4tNMnQKoDFS0h4SqTQ7hOMy2NRybjJB88nBD28PDJ3ayw+TPlPolYLaBxLAmM/gnRaGQsj4dY5PGVko3yNC1NAAS0fl7FEvmhu+bZbMgrpSECYCTdUTLWyMdqpgOgrOE4qGBEHcDoIoXhpTqH+IrDKvG0rZUEJ0h6m9nOW9pbK9WSdLPYc8ff9K/8sEakQ8AibCHvO5KZt/ds/ODeTWnWOYOmFzkufV4UCNKgRxPTkUV87uGdAviNlkSZQy4sC/QPCz3xfGGinVSn/+ju8h4rMbrGZwPJ/todEbDdz/sEgRh3UzEbxsxndxBY7gk6KnHc4sbXVJZi8c2zCVg==;Y2odRU6j1kWWOKlWIgytbQ=="
 ---
 

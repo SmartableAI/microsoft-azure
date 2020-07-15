@@ -8,7 +8,7 @@ length: 53 mins
 ratings:
   count: 115
   average: 4.695652
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Manage your Azure IoT Hub with alerts and metrics"
 
-secured: "2H2LG0TrgK3YRP+sp/ieCL0XwQP2SuyfZqqQr7EMwob5MgK0oPRcWzxynzQsK04yVhWISxEDuXgdAVhcIqtegNdGLd8Lug7ONBa6jN6L7vPiDugsKGjZhXdyxeSdK5Dni+16sRPltYrPhd0VkRyKBcKS1Tj0gUbQnnW/13N4CUPm7SOtFm6gCcB1f10eHPmDkHB+DUcYV3peLuGYLE+b2uLiCI4qfU9Lp3AdHFvArFMOIqD1MsA3BrnqGTj8bUfvYQlYUbfaQCazZkfFbP2agTqn/jgwKu0sGZJXhJlv3/JlUvYkMUsiUyxh6+u39w6UryFUd6ZRcEvyiHSPXwXMt2cUT+t9HqzuAU+c8Ryqtb6QDlTntpdy4dZ0pE1QR9++LO61EWNvyZuJv02iBQ8gWQ==;kK1cJ69F4NJgv3UcX6+nIQ=="
+secured: "+Wf9zoZJwszi1/XukKJzc4nz5CeMPmEh4dr3LrU/MbofnsMheFlWkQ69fjGK8jG+7iEHbUndMV4u0Yfmpt78V0vbonzEBwcIhNn/GuJWYMcTybXaQzmHu3i3swJL/wyG3FdOgS41qMTnvLviPAR/V+3rwIeC8A7icG9m5JfgoHHP5vOi5C/yubuJP3p9vt6R38g7aPk92igMJ774YAK3UmWKd4Fk6M3DL9uqNF//2C4GSpE+0bBrssn2bcDRicOEPJ6UIeslKgGajWD0ow7iwY4srI8mFcOHoByE08KneZzy8Vx0x9MpEOG+Vvp6l4+9PNyGVLFi5UUjgiqi2sHkqJVzL76Yejc15500k2aT1JCdv50FaHEhSE4lbvKrm+UK7/Hu1uh17dw2m6elLk3t4w==;lEcLDE3dMN/nE05iNwIevQ=="
 ---
 

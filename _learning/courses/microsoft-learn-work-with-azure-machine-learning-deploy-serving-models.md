@@ -8,7 +8,7 @@ length: PT23M
 ratings:
   count: 13
   average: 4.5384617
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Work with Azure Machine Learning to deploy serving models"
 
-secured: "0/dfzhNCYYC5yrZdLU99bsI0Z9LSAwHNZ0B2HbGmz1TRkyOxmjd6uF/5zr7rc58kqtlPjk7ZTMmzJWbsOTmtr0NtKYUFc2aiTbf+qpEngAtIBABygXVZ+Z1hbYfl37cRGF5wi2zRL5/FBEkdbr/WTuUTxTg1dOw+WvAZUJrFBQ+xkf9vOLS+6SM5ypjRIx+yN7Y3E7kxifQQX8rRVez4eJnb/2PJRWvuXOSaVTJN/y6J0DkXVUQ8BmJvhlxnIEOoQXT5LDg32VpxWL2YhU+9AmkOMemjbp4Wa7bubKMfWx84C+Rs7E9EXsVMenua64vAoot3g/OIfyeMyJ/hPIgV9ldX0iiThkwSfdjMripEitYxSqSRjbuLRIL+DU4k0rerVD7rb2tL5k7Z284IK5j7ow==;qXdHflUrUM3oQpQxVgkf3Q=="
+secured: "h79XHekoqYouBW/NtaFmw/nzBixSTe8Eh+LnB9fiUhnniq02/ICcej28ttSsjD4kxrNj0samk0ky0BsoQLzl1biRmpNfG6gTXTqJr4CWLamCaZpIrUDWSR5GPRIZumaf7DAAk5q4GjCWsB+Au+Z2Pw2k1JIJ00W/rE0pnmWEz5Y/2448cuko2hu8CrFJ64THRJFfYpoWrPa9I7tQ6ysX74zMvyizyjH2baPnc2BIoZBwlL6m0SIG9k6LMf4IL5/kClkis4shOzo4Nq7oAADY5SwGimezCwTIm3Apvu1VeWaI98w1Gia3FCuNq2ldwl3WaJ4eW6vkt2PGptbnqQVmA21SmRJ1KbaHZSvjmab3IL32sr/XnfPqBm1EqMy6IOy+n7gMeyP6mtUZPdWjd7khRw==;Z5PtD7qDVqj82mlLanzI2A=="
 ---
 
