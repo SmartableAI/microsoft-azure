@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-10T21:00:25Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-site-recovery-update-rollup-47-july-2020/"
 type: article
 quality: 77
-heat: 78
+heat: 77
 published: true
 
 provider:

@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-24T00:32:00Z
 webUrl: "https://www.helpnetsecurity.com/2020/04/24/mcafee-mvision-cloud-microsoft/"
 type: article
 quality: 19
-heat: 39
+heat: 19
 published: false
 
 provider:

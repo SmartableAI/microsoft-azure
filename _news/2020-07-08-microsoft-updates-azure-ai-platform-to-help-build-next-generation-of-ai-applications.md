@@ -25,47 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft announces new Azure AI capabilities for apps, healthcare, and more"
-    excerpt: "The latest announcements will help companies enhance their voice-enabled application experiences and provide critical data management across healthcare industries."
-    publishedDateTime: 2020-07-08T20:50:00Z
-    webUrl: "https://www.techrepublic.com/article/microsoft-announces-new-azure-ai-capabilities-for-apps-healthcare-and-more/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-announces-new-azure-ai-capabilities-for-apps-healthcare-and-more/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-announces-new-azure-ai-capabilities-for-apps-healthcare-and-more/"
+  - title: "Build, distribute, and deploy application updates to Azure virtual machine scale sets"
+    excerpt: "Azure continues to invest in new capabilities that make it easier to build and distribute application updates across distributed cloud environments. "
+    publishedDateTime: 2020-07-01T09:00:07Z
+    webUrl: "https://azure.microsoft.com/blog/build-distribute-and-deploy-application-updates-to-azure-virtual-machine-scale-sets/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 94
+      name: Microsoft
+      domain: microsoft.com
+    quality: 90
     images:
-      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/06/10/27946bf8-707b-4774-8f90-fe1121ea78b4/resize/1200x/57eed99cd6ea6ce4842383677842ede0/artificial-intelligence-image.jpg"
-        width: 1200
-        height: 836
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/806e3cf2-c447-44e8-99b6-ab0cfee38544.png"
+        width: 626
+        height: 293
         isCached: true
-  - title: "Microsoft and Samsung partner to digitize building maintenance via Azure and smart appliances"
-    excerpt: "The companies will pair Samsung’s smart home appliances and devices with Microsoft’s Azure cloud technology, with the aim of improving building maintenance practices. “This collaboration with Samsung opens up new opportunities for further innovation ..."
-    publishedDateTime: 2020-07-13T17:12:00Z
-    webUrl: "https://www.geekwire.com/2020/microsoft-samsung-partner-digitize-building-maintenance-via-azure-smart-appliances/"
-    ampWebUrl: "https://www.geekwire.com/2020/microsoft-samsung-partner-digitize-building-maintenance-via-azure-smart-appliances/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-samsung-partner-digitize-building-maintenance-via-azure-smart-appliances/amp/"
+  - title: "Create virtual machines from Azure Shared Image Gallery (SIG)"
+    excerpt: "You can now enable specialized images from your shared image gallery (SIG) for lab users to create virtual machines."
+    publishedDateTime: 2020-07-08T16:45:56Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/create-virtual-machines-from-azure-shared-image-gallery-sig/"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 86
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2016/04/IMG_9235-1240x827.jpg"
-        width: 1240
-        height: 827
-        isCached: true
-  - title: "Snowflake Achieves FedRAMP Moderate Authorization for Snowflake on AWS and Microsoft Azure Government"
-    excerpt: "Snowflake, the cloud data platform, today announced it has achieved Federal Risk and Authorization Management Program (FedRAMP) Moderate Authorization"
-    publishedDateTime: 2020-07-08T17:32:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200708005692/en/Snowflake-Achieves-FedRAMP-Moderate-Authorization-Snowflake-AWS"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 2
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
 
 secured: "+xaL0raz0b/fGXUVHOgfioC0ZLQNDzRou64+olKzGFMzgAL1nO3HeFDfpRibQKNjQZEq6ooLZ40qzPGf7eHtNkbjcHLSZ632HW5NGA3ximRW7wCSgnmc31povTUDOZ7QdY0AuexgLOB7j6a2WFOzDM01fR/Z+5wF4hEzIt2A7mvnP2aNwuW6GtMjbTtbAy2Q5M8wYgJlKVdqgPU7X2l7PAxzkD/Wfe+ethsZ1SnBGj2pna0Avh18KmN+lvLjl85EeSRNcL/L45DTeSewm/xdy9AT0DVsnFhA6E/mEBVu4fOsEBLA3z63jFdIG64J4K1679mkIFOHhrZNi9tFpFNT7+HYwOd2qBu83JKazX5E6c/ewcBky+KN0VS45vOxBUvNghVVY0z93V2v4Vq3Q6NRwmJ9DmUsJwgvBxP59Z23qq4sAKEi7rHIQ4m3dIA6CGQ6f73ShS8I3rC9om0DHlAeGNvJg2tnGOJVlcmZETpNf7sMk16xHX8uELQgHzwtwoVdccPWPVbrWlYqCyQeleq9Rg==;g8iG3O/RR6vlPwLeUs5Ing=="
 ---

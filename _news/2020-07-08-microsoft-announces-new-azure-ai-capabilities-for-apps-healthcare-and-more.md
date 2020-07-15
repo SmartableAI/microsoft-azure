@@ -8,8 +8,8 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-announces-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-announces-new-azure-ai-capabilities-for-apps-healthcare-and-more/"
 type: article
 quality: 94
-heat: 154
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechRepublic
@@ -30,47 +30,22 @@ images:
     title: "Microsoft announces new Azure AI capabilities for apps, healthcare, and more"
 
 related:
-  - title: "Microsoft and Samsung partner to digitize building maintenance via Azure and smart appliances"
-    excerpt: "The companies will pair Samsung’s smart home appliances and devices with Microsoft’s Azure cloud technology, with the aim of improving building maintenance practices. “This collaboration with Samsung opens up new opportunities for further innovation ..."
-    publishedDateTime: 2020-07-13T17:12:00Z
-    webUrl: "https://www.geekwire.com/2020/microsoft-samsung-partner-digitize-building-maintenance-via-azure-smart-appliances/"
-    ampWebUrl: "https://www.geekwire.com/2020/microsoft-samsung-partner-digitize-building-maintenance-via-azure-smart-appliances/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-samsung-partner-digitize-building-maintenance-via-azure-smart-appliances/amp/"
+  - title: "Microsoft announces Azure-centric alliance with C.H. Robinson"
+    excerpt: "With focus lying on the digital transformation of supply chains, the partnership between Microsoft and C.H. Robinson will look toward leveraging Azure, Azure IoT, and the Navisphere platform."
+    publishedDateTime: 2020-07-14T21:44:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-announces-azure-centric-alliance-with-ch-robinson"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-announces-azure-centric-alliance-with-ch-robinson/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-azure-centric-alliance-with-ch-robinson/"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 86
+      name: Neowin
+      domain: neowin.net
+    quality: 97
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2016/04/IMG_9235-1240x827.jpg"
-        width: 1240
-        height: 827
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/07/1594761150_microsoft_c.h._robinson_logo_story.jpg"
+        width: 760
+        height: 428
         isCached: true
-  - title: "Microsoft updates Azure AI platform to help build 'next generation of AI applications'"
-    excerpt: "Microsoft announced several updates to the Azure AI platform. The improvements make it easier for developers to create AI applications."
-    publishedDateTime: 2020-07-08T16:02:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-updates-azure-ai-platform-help-build-next-generation-ai-applications"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-updates-azure-ai-platform-help-build-next-generation-ai-applications?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-updates-azure-ai-platform-help-build-next-generation-ai-applications?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 49
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Snowflake Achieves FedRAMP Moderate Authorization for Snowflake on AWS and Microsoft Azure Government"
-    excerpt: "Snowflake, the cloud data platform, today announced it has achieved Federal Risk and Authorization Management Program (FedRAMP) Moderate Authorization"
-    publishedDateTime: 2020-07-08T17:32:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200708005692/en/Snowflake-Achieves-FedRAMP-Moderate-Authorization-Snowflake-AWS"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 2
 
 secured: "0OGYO7IIaAaP2VncWiZVPIXfOZVkwQ1YLdqPWSR9LsTp2xBvFNXONUIIetZeBQa3kpF80g5ow4o39ayz+fKfoM/hJAx4TeU6bd9E8iIs+U2QR0Q2zU/TzbvMXNburRub6x5VJzp86yOs9Mtr0i1k3hSt9Yu2QK+ZPItRWXhf4Umb/zHlOWpC4lGx+EobEyAGXg9w6YPOzEltyYaRjMG42HckCazyHtBXH2FZqL7wVWXw+k82n1oVTkeAs64ZDAmZDivBM41iNbaNjVMdOctATSz/yd3+b3/xK/0B2ILeAR7Qu6RdehyeTFilF0F+31kw2UwiUNJr/RTdO6mrW5LVxwkBhWvg9+R/vdfkl+Bs8gt9wvzJTeKk0Ghet6DVb+3R7F1ED1wO7IWO2bgtR6WUIlt6MapBMrR24/aaAEqOaoPHLNUZbSBDR7LfAas2Ad0KmC/mVyiVGSVsc5SFN67GPMJHUnW11DeCeqgLLfnSLmS4LYQxR7GxZ9TWO1UBWN/P;KeRuImnn7ZKgb6aLySgXVA=="
 ---
