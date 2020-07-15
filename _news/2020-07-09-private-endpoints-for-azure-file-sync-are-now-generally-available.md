@@ -30,6 +30,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 79
+  - title: "State transition restriction rules for Azure Boards are now generally available"
+    excerpt: "State transition restriction rules for Azure Boards are now generally available. This update allows you to restrict work items from being moved from one state to another."
+    publishedDateTime: 2020-07-15T18:00:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/state-transition-restriction-rules-for-azure-boards-are-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 73
 
 secured: "plDW1DdFK+2A0MFVF8WTqSbhJLSxEMnSonghFDLbOlfzOp851WkhkJUvO10m3MPjTET+6iTJSpzm38mclbVDrEYuPtBH4ThdC306guiJE2NEvMQVdaogUSX14HWDtm/YEOr/5hlJi8XQel16iK/4Uyf1svpyJKNHh7MDuSC+yzewM6AFIHMLQNEDRKlU/pdDpLflgmhyviNDklGqfE8R8VVfAajBZO45x2D+XODtckDeSUxegxDXlApJUTK1RargHR5dnQPAj2Wp53IsylVA5EWT2CHqNLEQ8JS/B0VftzwTwPuis18MtnURYHc5N9yYHf0al7mevB8djz3amF1i+w==;l2OfrdgmC/e11sANNKAXew=="
 ---

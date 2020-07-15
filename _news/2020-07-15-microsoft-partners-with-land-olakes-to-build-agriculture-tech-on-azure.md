@@ -1,44 +1,34 @@
 ---
 category: news
-title: "IFI Techsolutions Recognized as a Finalist of OSS on Azure 2020 Microsoft Partner of the Year"
-excerpt: "IFI Techsolutions today announced it has been named a finalist of OSS on Azure 2020 Microsoft Partner of the Year Award. The company"
-publishedDateTime: 2020-07-13T19:30:00Z
-webUrl: "https://www.prnewswire.com/news-releases/ifi-techsolutions-recognized-as-a-finalist-of-oss-on-azure-2020-microsoft-partner-of-the-year-301092416.html"
+title: "Microsoft partners with Land O’Lakes to build agriculture tech on Azure"
+excerpt: "Microsoft’s latest cloud partnership is with Land O’Lakes, the farming giant which will use Microsoft’s Azure technologies to spur sustainable farming practices and help farmers be more efficient."
+publishedDateTime: 2020-07-15T18:08:00Z
+webUrl: "https://www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/"
+ampWebUrl: "https://www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/amp/"
+cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/amp/"
 type: article
-quality: 26
-heat: -1
-published: false
+quality: 97
+heat: 237
+published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: GeekWire
+  domain: geekwire.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/geekwire.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1213735/IFI_Techsolutions_Finalist_Microsoft_Partner_Award.jpg?p=facebook"
-    width: 2560
-    height: 1340
+  - url: "https://cdn.geekwire.com/wp-content/uploads/2020/07/1.jpeg"
+    width: 950
+    height: 632
     isCached: true
 
 related:
-  - title: "Microsoft partners with Land O’Lakes to build agriculture tech on Azure"
-    excerpt: "Microsoft’s latest cloud partnership is with Land O’Lakes, the farming giant which will use Microsoft’s Azure technologies to spur sustainable farming practices and help farmers be more efficient."
-    publishedDateTime: 2020-07-15T18:08:00Z
-    webUrl: "https://www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/"
-    ampWebUrl: "https://www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 97
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/07/1.jpeg"
-        width: 950
-        height: 632
-        isCached: true
   - title: "Microsoft continues to build out its Azure Cognitive Services API family"
     excerpt: "Microsoft is adding a new healthcare-focused text analytics interface to its family of AI programming interfaces, and it's making generally available Custom Commands and Form Recognizer APIs, as well."
     publishedDateTime: 2020-07-08T15:01:00Z
@@ -97,6 +87,20 @@ related:
         height: 720
         isCached: true
   - title: "IFI Techsolutions Recognized as a Finalist of OSS on Azure 2020 Microsoft Partner of the Year"
+    excerpt: "IFI Techsolutions today announced it has been named a finalist of OSS on Azure 2020 Microsoft Partner of the Year Award. The company"
+    publishedDateTime: 2020-07-13T19:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ifi-techsolutions-recognized-as-a-finalist-of-oss-on-azure-2020-microsoft-partner-of-the-year-301092416.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
+    images:
+      - url: "https://mma.prnewswire.com/media/1213735/IFI_Techsolutions_Finalist_Microsoft_Partner_Award.jpg?p=facebook"
+        width: 2560
+        height: 1340
+        isCached: true
+  - title: "IFI Techsolutions Recognized as a Finalist of OSS on Azure 2020 Microsoft Partner of the Year"
     excerpt: "MUMBAI, July 14, 2020 /PRNewswire/ -- IFI Techsolutions today announced it has been named a finalist of OSS on Azure 2020 Microsoft Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating ..."
     publishedDateTime: 2020-07-14T04:50:00Z
     webUrl: "https://www.prnewswire.com/in/news-releases/ifi-techsolutions-recognized-as-a-finalist-of-oss-on-azure-2020-microsoft-partner-of-the-year-830017699.html"
@@ -120,6 +124,6 @@ related:
       domain: seekingalpha.com
     quality: 17
 
-secured: "Cu/M/Dhk288tlfqbml2IncDPzY8/AMOMjZQBmyAWKxpRlpbs7f0FgH+3ae6P3PTSewHP6diIQfAzmgBtGXWHm9IBSEP1OVuYX7H8l3FW1RY4tlEugk4wXYnMohEx0ucGCFA7IxndUGkPCkYaeTuBo2y8xglrMgaC30dIWKj4SK+HZcMnIXyYgDQtItdOxJmcsIOyoUjDk0KUXRsUUfaLAwUw3O12B/XcFXPp0NC81eI6RX5q8no1StBTNZYRK72JUUSfqwUBQi7zr6LIAAJUb0zXVbDBsPSapH+KQCRLTpnMQCyLo/5ruvvO4b+/u7xp6Z5Q098lNU+F45a3vXxq+yIByTQhe9BZcqBJg8wR72B1SZplvGYQjJQhKS3eA8TwGzJVh/mGgZ1FZimm98o0oCXC/P93srEMUx54uxPLT9DQ+AlFhANtcpt3qkleTwnH3Ux4W86F8aoiwg7QAmyBFxklnTcU6jXxtwnhDGcKPOjsGUKR8ib/spInXRat8/eRIN1HLW9kD0Pzi3RpQpVncA==;+V2oiWRoBZ5kTC1s1lM+7A=="
+secured: "RiP6F4WSJiBBiOF3rKTJcGhJ8HONCcVwqO7lSAdCmKXj+DPVUIbMkVD+njjWmiYs6RKdrtA+Yv+ojenNdlaWzeMKOKQWAj1gHVgdoxev7E8FPQvoD4kOw8BfS8XY0F6K1SOnpBPGmxyY5Hd15X+rOUth03aJ9JTgiz46nj4zJCoNCob2PrOOPUM6z5bETPt++bn/OMAeHKOM70TmjwfhEPL5+Tw107SEKYDXNhg/JitjzgTZteEIDzcSTOMqL342237L4LFGfq8DOmjhzWv6hYGOCZ7NwC2KzD3zWuTi8hAzZw6HnYW2Qj6qs+J2y7uJ87wPbFdYqMyW8ehF+vFomQ==;20RyzEgoSg13jWYUYRv01g=="
 ---
 

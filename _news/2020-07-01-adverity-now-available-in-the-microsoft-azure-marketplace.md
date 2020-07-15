@@ -40,17 +40,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Microsoft and Citrix commit to moving on-premises Citrix users to Azure"
-    excerpt: "Microsoft and Citrix have been partners for more than two decades. On July 14, Microsoft provided an update on its ongoing Citrix relationship, a week ahead of Microsoft's annual Inspire worldwide partner conference."
-    publishedDateTime: 2020-07-14T16:58:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-and-citrix-commit-to-moving-on-premises-citrix-users-to-azure/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-and-citrix-commit-to-moving-on-premises-citrix-users-to-azure/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-citrix-commit-to-moving-on-premises-citrix-users-to-azure/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 77
   - title: "Alaska Communications Brings Locally Hosted Microsoft Azure Services to Alaska, Increasing Security and Improving Latency"
     excerpt: "Alaska Communications (NASDAQ: ALSK) will bring locally hosted Microsoft Azure Stack Hub cloud services to Alaska. Alaska Communications, one of"
     publishedDateTime: 2020-07-01T12:55:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-09T03:51:00Z
 webUrl: "https://www.infoworld.com/resources/205509/accelerating-ato-in-microsoft-azure"
 type: article
 quality: 77
-heat: 217
+heat: 197
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft and Citrix commit to moving on-premises Citrix users to Azure"
-    excerpt: "Microsoft and Citrix have been partners for more than two decades. On July 14, Microsoft provided an update on its ongoing Citrix relationship, a week ahead of Microsoft's annual Inspire worldwide partner conference."
-    publishedDateTime: 2020-07-14T16:58:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-and-citrix-commit-to-moving-on-premises-citrix-users-to-azure/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-and-citrix-commit-to-moving-on-premises-citrix-users-to-azure/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-citrix-commit-to-moving-on-premises-citrix-users-to-azure/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 77
   - title: "Adverity Now Available in the Microsoft Azure Marketplace"
     excerpt: "Adverity is a leading force in intelligent marketing analytics and business-ready data. Marketing data is a critical asset in helping businesses pivot, adapt and grow, but data complexity is hampering success due to the lack of understanding and ability to incorporate meaningful insights into positive outcomes."
     publishedDateTime: 2020-07-01T15:37:00Z

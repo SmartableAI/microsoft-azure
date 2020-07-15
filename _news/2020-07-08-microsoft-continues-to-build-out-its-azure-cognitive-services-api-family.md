@@ -8,8 +8,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-continues-to-buil
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-continues-to-build-out-its-azure-cognitive-services-api-family/"
 type: article
 quality: 96
-heat: 196
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -30,71 +30,100 @@ images:
     title: "Microsoft continues to build out its Azure Cognitive Services API family"
 
 related:
-  - title: "Azure AI: Build mission-critical AI apps with new Cognitive Services capabilities"
-    excerpt: "As the world adjusts to new ways of working and staying connected, we remain committed to providing Azure AI solutions to help organizations invent with purpose."
-    publishedDateTime: 2020-07-08T08:00:52Z
-    webUrl: "https://azure.microsoft.com/blog/azure-ai-build-missioncritical-ai-apps-with-new-cognitive-services-capabilities/"
+  - title: "Microsoft partners with Land O’Lakes to build agriculture tech on Azure"
+    excerpt: "Microsoft’s latest cloud partnership is with Land O’Lakes, the farming giant which will use Microsoft’s Azure technologies to spur sustainable farming practices and help farmers be more efficient."
+    publishedDateTime: 2020-07-15T18:08:00Z
+    webUrl: "https://www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/"
+    ampWebUrl: "https://www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/amp/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 94
+      name: GeekWire
+      domain: geekwire.com
+    quality: 97
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/6c142214-bbee-499c-bf07-e565fcbc4294.jpg"
-        width: 1024
-        height: 576
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/07/1.jpeg"
+        width: 950
+        height: 632
         isCached: true
-  - title: "RapidAPI adds Microsoft Azure Cognitive Services to its Marketplace"
-    excerpt: "RapidAPI has added a dozen Microsoft Azure Cognitive Services to its Marketplace including APIs for Vision, Language, Web Search, and Decision."
-    publishedDateTime: 2020-05-29T00:36:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/05/29/rapidapi-microsoft-azure-cognitive-services/"
+  - title: "Microsoft and Samsung partner to digitize building maintenance via Azure and smart appliances"
+    excerpt: "The companies will pair Samsung’s smart home appliances and devices with Microsoft’s Azure cloud technology, with the aim of improving building maintenance practices. “This collaboration with Samsung opens up new opportunities for further innovation ..."
+    publishedDateTime: 2020-07-13T17:12:00Z
+    webUrl: "https://www.geekwire.com/2020/microsoft-samsung-partner-digitize-building-maintenance-via-azure-smart-appliances/"
+    ampWebUrl: "https://www.geekwire.com/2020/microsoft-samsung-partner-digitize-building-maintenance-via-azure-smart-appliances/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-samsung-partner-digitize-building-maintenance-via-azure-smart-appliances/amp/"
     type: article
     provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 37
+      name: GeekWire
+      domain: geekwire.com
+    quality: 86
     images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
-        width: 304
-        height: 430
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2016/04/IMG_9235-1240x827.jpg"
+        width: 1240
+        height: 827
         isCached: true
-  - title: "Microsoft adds more APIs to its Azure Cognitive Services for developers"
-    excerpt: "Microsoft Corp. is adding more Cognitive Services application programming interfaces to its Azure cloud platform as it continues to expand its array of artificial intelligence services."
-    publishedDateTime: 2020-07-09T00:07:00Z
-    webUrl: "https://siliconangle.com/2020/07/08/microsoft-adds-apis-azure-cognitive-services-developers/"
+  - title: "Microsoft and Citrix commit to moving on-premises Citrix users to Azure"
+    excerpt: "Microsoft and Citrix have been partners for more than two decades. On July 14, Microsoft provided an update on its ongoing Citrix relationship, a week ahead of Microsoft's annual Inspire worldwide partner conference."
+    publishedDateTime: 2020-07-14T16:58:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-and-citrix-commit-to-moving-on-premises-citrix-users-to-azure/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-and-citrix-commit-to-moving-on-premises-citrix-users-to-azure/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-citrix-commit-to-moving-on-premises-citrix-users-to-azure/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
+      name: ZDNet
+      domain: zdnet.com
+    quality: 77
+  - title: "Train to Land an In-Demand Microsoft Azure Job with The Help of This Bundle"
+    excerpt: "15+ hours of video content and 5 ebooks can help get you up to speed on this cloud computing platform."
+    publishedDateTime: 2020-07-09T20:28:00Z
+    webUrl: "https://www.ign.com/articles/train-to-land-an-in-demand-microsoft-azure-job-with-the-help-of-this-bundle"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 35
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/16510342158_185f09969a_k.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://assets1.ignimgs.com/2020/07/09/sale-29760-article-image-1594323751475.jpg?width=1280"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Microsoft Azure Continues To Blow Up — So This Video/eBook Bundle Can Help Make You An Expert"
-    excerpt: "All together, faithful students could expect to spend over $700 for all this training. However, the package is on sale now for only $29.99, less than $3 for each video and ebook."
-    publishedDateTime: 2020-07-06T17:35:00Z
-    webUrl: "https://www.extremetech.com/deals/312405-microsoft-azure-continues-to-blow-up-so-this-video-ebook-bundle-can-help-make-you-an-expert"
+  - title: "IFI Techsolutions Recognized as a Finalist of OSS on Azure 2020 Microsoft Partner of the Year"
+    excerpt: "IFI Techsolutions today announced it has been named a finalist of OSS on Azure 2020 Microsoft Partner of the Year Award. The company"
+    publishedDateTime: 2020-07-13T19:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ifi-techsolutions-recognized-as-a-finalist-of-oss-on-azure-2020-microsoft-partner-of-the-year-301092416.html"
     type: article
     provider:
-      name: ExtremeTech
-      domain: extremetech.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 26
     images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2020/07/sale_29760_primary_image_wide.jpg"
-        width: 992
-        height: 558
+      - url: "https://mma.prnewswire.com/media/1213735/IFI_Techsolutions_Finalist_Microsoft_Partner_Award.jpg?p=facebook"
+        width: 2560
+        height: 1340
         isCached: true
-  - title: "Alaska Communications brings locally hosted Microsoft Azure Services to Alaska"
-    excerpt: "Alaska Communications will bring locally hosted Microsoft Azure Stack Hub cloud services to Alaska. Alaska Communications used Azure Stack Hub to enhance computing by offering greater flexibility and reliability."
-    publishedDateTime: 2020-07-02T08:04:00Z
-    webUrl: "https://www.telecompaper.com/news/alaska-communications-brings-locally-hosted-microsoft-azure-services-to-alaska--1344916"
+  - title: "IFI Techsolutions Recognized as a Finalist of OSS on Azure 2020 Microsoft Partner of the Year"
+    excerpt: "MUMBAI, July 14, 2020 /PRNewswire/ -- IFI Techsolutions today announced it has been named a finalist of OSS on Azure 2020 Microsoft Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating ..."
+    publishedDateTime: 2020-07-14T04:50:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/ifi-techsolutions-recognized-as-a-finalist-of-oss-on-azure-2020-microsoft-partner-of-the-year-830017699.html"
     type: article
     provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 13
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
+    images:
+      - url: "http://mma.prnewswire.com/media/1213735/IFI_Techsolutions_Finalist_Microsoft_Partner_Award.jpg?p=facebook"
+        width: 2560
+        height: 1340
+        isCached: true
+  - title: "Microsoft price target raised on Azure growth"
+    excerpt: "Citing ongoing cloud growth, Wedbush lifts Microsoft's (NASDAQ:MSFT) price target form $220 to $260. Analyst Daniel Ives says the pandemic-related remote work trend \"is further catalyzing more ..."
+    publishedDateTime: 2020-07-09T11:35:00Z
+    webUrl: "https://seekingalpha.com/news/3589771-microsoft-price-target-raised-on-azure-growth"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 17
 
 secured: "7TAC3s3dE2y+uNp3QPP0wXc0Ty5gPGpbvoytGsQO0IYr5ukEuoUzj23n/Qonf+nFQjadLn0Gfk/DylaPlETvCSvEzFXqkkY3xwCs14OikHmW5BY5J4WfG7EbUDfneJaBtCjhMgagwKfVr0ZDC9VbtVu7Q1ANUS1W3Fc3uOdRbmES9eL4I8dPXMfuyACqETU/GD2vzarzGaRLH2UG/B2swFXdSRVLAUUi94OCNP0Uqm9Tw9w1yvWTyMcFc5kmH+rrideKeDM5xtq47e92OSiDHcnjkLL+JzVhcggUkreC1czETTk4OnJ39E1qMB47VYotNXIqHYpPfmK5NGwRg9U96YuI9s/eUm6Mz+ERxJZGnXcrOggE/kT2T22oqUIwyoZAQ3VeOKIUgcLWAagpPoFvKXDVlr7DbVjkkFiyfW98wYRW38CGQc+tF7t5/RLQg8fj5Usc/+qO4GYjIpqD3o6J+HHjm7pNNiEfXLzTMweoCURNMkhJpsXlOlwVPPEqJ4ZGsbfMnsQXEV7MVf9tWaRbxw==;ILtPUbEqK6HH4ev2lIyh6A=="
 ---

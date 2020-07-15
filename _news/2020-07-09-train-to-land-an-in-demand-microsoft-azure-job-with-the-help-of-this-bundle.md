@@ -23,78 +23,102 @@ images:
     isCached: true
 
 related:
-  - title: "Get this Complete Microsoft Azure eBook & Video Course Bundle at 95% off"
-    excerpt: "Lead your business towards success with 15+ hours of video content and six eBooks on Azure cloud solutions, integration, networks, and more while saving over $650 off the normal cost!"
-    publishedDateTime: 2020-07-13T16:46:00Z
-    webUrl: "https://www.neowin.net/news/get-this-complete-microsoft-azure-ebook--video-course-bundle-at-95-off"
-    ampWebUrl: "https://www.neowin.net/amp/get-this-complete-microsoft-azure-ebook--video-course-bundle-at-95-off/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/get-this-complete-microsoft-azure-ebook--video-course-bundle-at-95-off/"
+  - title: "Microsoft partners with Land O’Lakes to build agriculture tech on Azure"
+    excerpt: "Microsoft’s latest cloud partnership is with Land O’Lakes, the farming giant which will use Microsoft’s Azure technologies to spur sustainable farming practices and help farmers be more efficient."
+    publishedDateTime: 2020-07-15T18:08:00Z
+    webUrl: "https://www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/"
+    ampWebUrl: "https://www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/amp/"
     type: article
     provider:
-      name: Neowin
-      domain: neowin.net
+      name: GeekWire
+      domain: geekwire.com
+    quality: 97
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/07/1.jpeg"
+        width: 950
+        height: 632
+        isCached: true
+  - title: "Microsoft continues to build out its Azure Cognitive Services API family"
+    excerpt: "Microsoft is adding a new healthcare-focused text analytics interface to its family of AI programming interfaces, and it's making generally available Custom Commands and Form Recognizer APIs, as well."
+    publishedDateTime: 2020-07-08T15:01:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-continues-to-build-out-its-azure-cognitive-services-api-family/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-continues-to-build-out-its-azure-cognitive-services-api-family/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-continues-to-build-out-its-azure-cognitive-services-api-family/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
     quality: 96
     images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2019/09/1567329629_azure-6_story.jpg"
-        width: 760
-        height: 428
+      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/07/08/780add4e-19a4-463d-8d25-3a96f4f2afde/cognitiveservicesmicrosoft.jpg"
+        width: 781
+        height: 494
         isCached: true
-  - title: "Save 95% on the Complete Microsoft Azure eBook & Video Course Bundle"
-    excerpt: "We have a great deal on the Complete Microsoft Azure eBook & Video Course Bundle in the Geeky Gadgets Deals store this week, you can save 95% off the"
-    publishedDateTime: 2020-07-07T12:10:00Z
-    webUrl: "https://www.geeky-gadgets.com/save-95-on-the-complete-microsoft-azure-ebook-video-course-bundle-07-07-2020/"
+  - title: "Microsoft and Samsung partner to digitize building maintenance via Azure and smart appliances"
+    excerpt: "The companies will pair Samsung’s smart home appliances and devices with Microsoft’s Azure cloud technology, with the aim of improving building maintenance practices. “This collaboration with Samsung opens up new opportunities for further innovation ..."
+    publishedDateTime: 2020-07-13T17:12:00Z
+    webUrl: "https://www.geekwire.com/2020/microsoft-samsung-partner-digitize-building-maintenance-via-azure-smart-appliances/"
+    ampWebUrl: "https://www.geekwire.com/2020/microsoft-samsung-partner-digitize-building-maintenance-via-azure-smart-appliances/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-samsung-partner-digitize-building-maintenance-via-azure-smart-appliances/amp/"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 37
+      name: GeekWire
+      domain: geekwire.com
+    quality: 86
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/07/Complete-Microsoft-Azure-eBook-Video-Course-Bundle.jpg"
-        width: 700
-        height: 526
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2016/04/IMG_9235-1240x827.jpg"
+        width: 1240
+        height: 827
         isCached: true
-  - title: "The Complete Microsoft Azure eBook & Video Course Bundle (95% OFF!)"
-    excerpt: "Lead your Business toward success with The Complete Microsoft Azure eBook & Video Course Bundle, featuring over 15 hours of video content and 6 ebooks on Azure Cloud solutions, integrations, networks,"
-    publishedDateTime: 2020-07-08T04:02:00Z
-    webUrl: "https://www.geeksaresexy.net/2020/07/07/the-complete-microsoft-azure-ebook-video-course-bundle-95-off/"
+  - title: "Microsoft and Citrix commit to moving on-premises Citrix users to Azure"
+    excerpt: "Microsoft and Citrix have been partners for more than two decades. On July 14, Microsoft provided an update on its ongoing Citrix relationship, a week ahead of Microsoft's annual Inspire worldwide partner conference."
+    publishedDateTime: 2020-07-14T16:58:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-and-citrix-commit-to-moving-on-premises-citrix-users-to-azure/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-and-citrix-commit-to-moving-on-premises-citrix-users-to-azure/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-citrix-commit-to-moving-on-premises-citrix-users-to-azure/"
     type: article
     provider:
-      name: Geeks Are Sexy
-      domain: geeksaresexy.net
-    quality: 37
-    images:
-      - url: "https://i2.wp.com/www.geeksaresexy.net/wp-content/uploads/2020/07/azure.jpg?fit=600%2C450&#038;ssl=1"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Reminder: Save 95% on the Complete Microsoft Azure eBook & Video Course Bundle"
-    excerpt: "Just a quick reminder for our readers about the awesome deal on the Complete Microsoft Azure eBook & Video Course Bundle in the Geeky Gadgets Deals store. The Complete Microsoft Azure eBook & Video Course Bundle is available in our deals store for just $29 ..."
-    publishedDateTime: 2020-07-09T11:05:00Z
-    webUrl: "https://www.geeky-gadgets.com/reminder-save-95-on-the-complete-microsoft-azure-ebook-video-course-bundle-09-07-2020/"
+      name: ZDNet
+      domain: zdnet.com
+    quality: 77
+  - title: "IFI Techsolutions Recognized as a Finalist of OSS on Azure 2020 Microsoft Partner of the Year"
+    excerpt: "IFI Techsolutions today announced it has been named a finalist of OSS on Azure 2020 Microsoft Partner of the Year Award. The company"
+    publishedDateTime: 2020-07-13T19:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ifi-techsolutions-recognized-as-a-finalist-of-oss-on-azure-2020-microsoft-partner-of-the-year-301092416.html"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 33
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/07/Complete-Microsoft-Azure-eBook-Video-Course-Bundle-1.jpg"
-        width: 700
-        height: 526
+      - url: "https://mma.prnewswire.com/media/1213735/IFI_Techsolutions_Finalist_Microsoft_Partner_Award.jpg?p=facebook"
+        width: 2560
+        height: 1340
         isCached: true
-  - title: "Reminder: Save 95% on the Complete Microsoft Azure eBook & Video Course Bundle"
-    excerpt: "Just a quick reminder for our readers about the awesome deal on the Complete Microsoft Azure eBook & Video Course Bundle in the Geeky Gadgets Deals store. The Complete Microsoft Azure eBook & Video Course Bundle is available in our deals store for just $29 ..."
-    publishedDateTime: 2020-07-14T10:04:00Z
-    webUrl: "https://www.geeky-gadgets.com/reminder-save-95-on-the-complete-microsoft-azure-ebook-video-course-bundle-14-07-2020/"
+  - title: "IFI Techsolutions Recognized as a Finalist of OSS on Azure 2020 Microsoft Partner of the Year"
+    excerpt: "MUMBAI, July 14, 2020 /PRNewswire/ -- IFI Techsolutions today announced it has been named a finalist of OSS on Azure 2020 Microsoft Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating ..."
+    publishedDateTime: 2020-07-14T04:50:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/ifi-techsolutions-recognized-as-a-finalist-of-oss-on-azure-2020-microsoft-partner-of-the-year-830017699.html"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 33
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/07/Complete-Microsoft-Azure-eBook-Video-Course-Bundle-1.jpg"
-        width: 700
-        height: 526
+      - url: "http://mma.prnewswire.com/media/1213735/IFI_Techsolutions_Finalist_Microsoft_Partner_Award.jpg?p=facebook"
+        width: 2560
+        height: 1340
         isCached: true
+  - title: "Microsoft price target raised on Azure growth"
+    excerpt: "Citing ongoing cloud growth, Wedbush lifts Microsoft's (NASDAQ:MSFT) price target form $220 to $260. Analyst Daniel Ives says the pandemic-related remote work trend \"is further catalyzing more ..."
+    publishedDateTime: 2020-07-09T11:35:00Z
+    webUrl: "https://seekingalpha.com/news/3589771-microsoft-price-target-raised-on-azure-growth"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 17
 
 secured: "t+azbA6GiU+65eMvEndEcOfWTzYC4MLGpBmPLZX5/+mje+GD1PCFzp3ykwiOY65Y3xySjeklrLl18QjoezKwRwsz4QJuuWqTDpPHkFMb/NAgMr6eMSRojG02E9O+Mo6a09YmkTjHmXngMKUHgSz+UDt2xL/LBQXrfPWNL8wszs/eQe2cqd7RaObapIib84sDTGRk2HMKr8gOmmVNUnrWaKke2zTbpC3P4BYXGyW3AaT3PmyTkZ48I0nc52H8wenbLXPsUyvDZ2svI5glcvnXryThg+YqmjrBxUAAIhmSqFW2JOvwD8C/f7RwIWQhdvnXJXX81KYvyQO6hE/F5k4oZWuhTDqdbBInoVaio/5xpMXuy1bKfAXTJeEBOTojdepv8T3VgwZH9vMwTkc1UQJkQprmtBesHIbYgJfMtVV0ZoPs8RvWtvyN6qsItW0xoHRS/p0b0dHxMjApxwGOR2XHyaIGr0UFMKGOF1mFcOFlBJJ9O+bX/RJXwWk31j9GVl2ZDtH1em40VzDsVbWnbtd6Kg==;iARGjpUdxsNa1NjxSSooRg=="
 ---

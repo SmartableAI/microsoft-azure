@@ -23,96 +23,105 @@ topics:
   - Azure
 
 related:
-  - title: "Accelerating ATO in Microsoft Azure"
-    excerpt: "While your cloud provider manages security OF the cloud, security IN the cloud is the responsibility of the customer. During this on-demand webinar, Microsoft Azure’s Chief Information Security Officer for High Security Clouds, Mr. Richard Scher ..."
-    publishedDateTime: 2020-07-09T03:51:00Z
-    webUrl: "https://www.infoworld.com/resources/205509/accelerating-ato-in-microsoft-azure"
+  - title: "Microsoft partners with Land O’Lakes to build agriculture tech on Azure"
+    excerpt: "Microsoft’s latest cloud partnership is with Land O’Lakes, the farming giant which will use Microsoft’s Azure technologies to spur sustainable farming practices and help farmers be more efficient."
+    publishedDateTime: 2020-07-15T18:08:00Z
+    webUrl: "https://www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/"
+    ampWebUrl: "https://www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/amp/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 77
+      name: GeekWire
+      domain: geekwire.com
+    quality: 97
     images:
-      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
-        width: 300
-        height: 300
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/07/1.jpeg"
+        width: 950
+        height: 632
         isCached: true
-  - title: "Adverity Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Adverity is a leading force in intelligent marketing analytics and business-ready data. Marketing data is a critical asset in helping businesses pivot, adapt and grow, but data complexity is hampering success due to the lack of understanding and ability to incorporate meaningful insights into positive outcomes."
-    publishedDateTime: 2020-07-01T15:37:00Z
-    webUrl: "https://www.exchangewire.com/blog/2020/07/01/adverity-now-available-in-the-microsoft-azure-marketplace/"
-    ampWebUrl: "https://www.exchangewire.com/blog/2020/07/01/adverity-now-available-in-the-microsoft-azure-marketplace/?amp"
-    cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2020/07/01/adverity-now-available-in-the-microsoft-azure-marketplace/?amp"
+  - title: "Microsoft continues to build out its Azure Cognitive Services API family"
+    excerpt: "Microsoft is adding a new healthcare-focused text analytics interface to its family of AI programming interfaces, and it's making generally available Custom Commands and Form Recognizer APIs, as well."
+    publishedDateTime: 2020-07-08T15:01:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-continues-to-build-out-its-azure-cognitive-services-api-family/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-continues-to-build-out-its-azure-cognitive-services-api-family/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-continues-to-build-out-its-azure-cognitive-services-api-family/"
     type: article
     provider:
-      name: exchangewire.com
-      domain: exchangewire.com
-    quality: 57
+      name: ZDNet
+      domain: zdnet.com
+    quality: 96
     images:
-      - url: "https://www.exchangewire.com/wp-content/uploads/2019/12/adverity-logo.jpg"
-        width: 400
-        height: 400
+      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/07/08/780add4e-19a4-463d-8d25-3a96f4f2afde/cognitiveservicesmicrosoft.jpg"
+        width: 781
+        height: 494
         isCached: true
-  - title: "Alaska Communications Brings Locally Hosted Microsoft Azure Services to Alaska, Increasing Security and Improving Latency"
-    excerpt: "Alaska Communications (NASDAQ: ALSK) will bring locally hosted Microsoft Azure Stack Hub cloud services to Alaska. Alaska Communications, one of"
-    publishedDateTime: 2020-07-01T12:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/alaska-communications-brings-locally-hosted-microsoft-azure-services-to-alaska-increasing-security-and-improving-latency-2020-07-01"
+  - title: "Microsoft and Samsung partner to digitize building maintenance via Azure and smart appliances"
+    excerpt: "The companies will pair Samsung’s smart home appliances and devices with Microsoft’s Azure cloud technology, with the aim of improving building maintenance practices. “This collaboration with Samsung opens up new opportunities for further innovation ..."
+    publishedDateTime: 2020-07-13T17:12:00Z
+    webUrl: "https://www.geekwire.com/2020/microsoft-samsung-partner-digitize-building-maintenance-via-azure-smart-appliances/"
+    ampWebUrl: "https://www.geekwire.com/2020/microsoft-samsung-partner-digitize-building-maintenance-via-azure-smart-appliances/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-samsung-partner-digitize-building-maintenance-via-azure-smart-appliances/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
+      name: GeekWire
+      domain: geekwire.com
+    quality: 86
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2016/04/IMG_9235-1240x827.jpg"
+        width: 1240
+        height: 827
         isCached: true
-  - title: "Synopsys, TSMC and Microsoft Azure Deliver Highly Scalable Timing Signoff Flow in the Cloud"
-    excerpt: "Considerable cost savings by optimal utilization of cloud computing resources for multi-scenario analysis Detailed whitepaper authored jointly now available on TSMC portal to jump start customers on running cloud-enabled signoff flow Synopsys,"
-    publishedDateTime: 2020-07-11T15:47:00Z
-    webUrl: "https://www.cnn.com/business/newsfeeds/prnewswire/202006151100PR_NEWS_USPR_____SF33772.html"
+  - title: "Train to Land an In-Demand Microsoft Azure Job with The Help of This Bundle"
+    excerpt: "15+ hours of video content and 5 ebooks can help get you up to speed on this cloud computing platform."
+    publishedDateTime: 2020-07-09T20:28:00Z
+    webUrl: "https://www.ign.com/articles/train-to-land-an-in-demand-microsoft-azure-job-with-the-help-of-this-bundle"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 47
-  - title: "Nasuni Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Nasuni®, a leading provider of cloud file services, today announced the Nasuni file services platform is available for purchase in"
-    publishedDateTime: 2020-07-01T13:03:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/nasuni-now-available-in-the-microsoft-azure-marketplace-301086812.html"
+      name: IGN
+      domain: ign.com
+    quality: 35
+    images:
+      - url: "https://assets1.ignimgs.com/2020/07/09/sale-29760-article-image-1594323751475.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "IFI Techsolutions Recognized as a Finalist of OSS on Azure 2020 Microsoft Partner of the Year"
+    excerpt: "IFI Techsolutions today announced it has been named a finalist of OSS on Azure 2020 Microsoft Partner of the Year Award. The company"
+    publishedDateTime: 2020-07-13T19:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ifi-techsolutions-recognized-as-a-finalist-of-oss-on-azure-2020-microsoft-partner-of-the-year-301092416.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 37
+    quality: 26
     images:
-      - url: "https://mma.prnewswire.com/media/391402/Nasuni_Logo.jpg?p=facebook"
-        width: 1497
-        height: 785
+      - url: "https://mma.prnewswire.com/media/1213735/IFI_Techsolutions_Finalist_Microsoft_Partner_Award.jpg?p=facebook"
+        width: 2560
+        height: 1340
         isCached: true
-  - title: "Microsoft Azure launches medical data-mining tool"
-    excerpt: "Microsoft announced July 8 a new artificial intelligence tool for its cloud platform Azure that allows developers to analyze unstructured medical data, including clinical notes, clinical trial protocols and medical publications."
-    publishedDateTime: 2020-07-08T15:00:00Z
-    webUrl: "https://www.beckershospitalreview.com/data-analytics/microsoft-azure-launches-medical-data-mining-tool.html"
+  - title: "IFI Techsolutions Recognized as a Finalist of OSS on Azure 2020 Microsoft Partner of the Year"
+    excerpt: "MUMBAI, July 14, 2020 /PRNewswire/ -- IFI Techsolutions today announced it has been named a finalist of OSS on Azure 2020 Microsoft Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating ..."
+    publishedDateTime: 2020-07-14T04:50:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/ifi-techsolutions-recognized-as-a-finalist-of-oss-on-azure-2020-microsoft-partner-of-the-year-830017699.html"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 37
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
     images:
-      - url: "https://www.beckershospitalreview.com/images/channels/data-analytics/2.jpg"
-        width: 400
-        height: 300
+      - url: "http://mma.prnewswire.com/media/1213735/IFI_Techsolutions_Finalist_Microsoft_Partner_Award.jpg?p=facebook"
+        width: 2560
+        height: 1340
         isCached: true
-  - title: "Teradata Strengthens Cloud Offerings on Amazon Web Services and Microsoft Azure"
-    excerpt: "Teradata announced a myriad of enhancements to its as-a-service offerings for Teradata Vantage on Amazon Web Services (AWS) and Microsoft Azure."
-    publishedDateTime: 2020-07-10T12:02:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200623005192/en/Teradata-Strengthens-Cloud-Offerings-Amazon-Web-Services"
+  - title: "Microsoft price target raised on Azure growth"
+    excerpt: "Citing ongoing cloud growth, Wedbush lifts Microsoft's (NASDAQ:MSFT) price target form $220 to $260. Analyst Daniel Ives says the pandemic-related remote work trend \"is further catalyzing more ..."
+    publishedDateTime: 2020-07-09T11:35:00Z
+    webUrl: "https://seekingalpha.com/news/3589771-microsoft-price-target-raised-on-azure-growth"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 13
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 17
 
 secured: "P5OfrDa52eYtYwTQqp2pThQvOu+RXgGTXg+vJ+BnLZdiOcv+4wpfcJX6s6jqGWuDB94Wkjpcjz/CilriMjfnPt1wCR91y4/P+RTomoKca9Kz2PwomfGmuWWbNdDsMxOCl530OeDuEt86pcQVq8YRoYxeyZJb/TG8NPHFVIPJvnQ62X7siYAFNZ3/xbqHbr+GqyRPYbmJjrW8bnrylU+Yjp7iIt/6EghrNgXyMN/ZyHXPdDsVYGAxNJMh99lUSOEfjOzASk+US6+LeEWq2rj27zIPKBiRa7EePMpyNTaci7eX3i7y16wwHm9QyO1tfzFr8YjMx1uqCHcnU7P0aNdwsTsnOZDW6sfw7BPfHMGrU694JABxDee/jy59AJSIsyptZHKO+zUSGvqh8t1/1ETDHFmVwVumzFYI8ZIx8MCb8kXtruznxvfF8YjWt30w+a9hN9pIirI7NWiUTWbypTTZZ/kT6mgw80RC6tPvPKjIY/UYsUyvyDW1iO5hlIF1D9V0rdimFZ2emQ8p6w6vPAwOJA==;dQd5CuzmP+LwX6Q/d6Msuw=="
 ---

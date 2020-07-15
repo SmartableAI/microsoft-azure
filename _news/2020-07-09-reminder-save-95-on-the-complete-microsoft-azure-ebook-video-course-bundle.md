@@ -67,20 +67,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Train to Land an In-Demand Microsoft Azure Job with The Help of This Bundle"
-    excerpt: "15+ hours of video content and 5 ebooks can help get you up to speed on this cloud computing platform."
-    publishedDateTime: 2020-07-09T20:28:00Z
-    webUrl: "https://www.ign.com/articles/train-to-land-an-in-demand-microsoft-azure-job-with-the-help-of-this-bundle"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 35
-    images:
-      - url: "https://assets1.ignimgs.com/2020/07/09/sale-29760-article-image-1594323751475.jpg?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Reminder: Save 95% on the Complete Microsoft Azure eBook & Video Course Bundle"
     excerpt: "Just a quick reminder for our readers about the awesome deal on the Complete Microsoft Azure eBook & Video Course Bundle in the Geeky Gadgets Deals store. The Complete Microsoft Azure eBook & Video Course Bundle is available in our deals store for just $29 ..."
     publishedDateTime: 2020-07-14T10:04:00Z
@@ -94,6 +80,20 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/07/Complete-Microsoft-Azure-eBook-Video-Course-Bundle-1.jpg"
         width: 700
         height: 526
+        isCached: true
+  - title: "Microsoft Azure Continues To Blow Up — So This Video/eBook Bundle Can Help Make You An Expert"
+    excerpt: "All together, faithful students could expect to spend over $700 for all this training. However, the package is on sale now for only $29.99, less than $3 for each video and ebook."
+    publishedDateTime: 2020-07-06T17:35:00Z
+    webUrl: "https://www.extremetech.com/deals/312405-microsoft-azure-continues-to-blow-up-so-this-video-ebook-bundle-can-help-make-you-an-expert"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 26
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2020/07/sale_29760_primary_image_wide.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "v1lW67ZxTfRE74wq7pNnw3YZzRga+3X+016JVBJpg2XD61bWOgO76/YzeJyXhrR1oQ1RW9F7REW2ZOyzlVYHCYuSTWSVG9aHJL72CdVbHpfQMWiBRCazOzC6OjuKcJTImFDU1bi73cgut3A5wNs25BIFxznCIzB10jg67ui5CTqe8jz/cGJLJKGvHM4WRVce1DQbPeMN2NgsbShA/13VCJ4qU/bJPRW3HcSpC9U26HN945v9cOMAKGrvj1l7cxaILsQxneiEYmrdHNmnc8E4UiGfy4aMbOkA8iMiYPziR4jkImOf8cHE0eRvWfUbTOYq+8uD0NTjfP3km7kQN7p0ZSwH/dshp48R1aNpuYf8uQm9tbr/m7dZvMjhXcyy0EHx3gUA72LQBQ/zlbrWwUcngWHoy6AD/M6FKYz58NoDEMcOJ5PUztyLeqK1Xws6OWUEyDhEo9o2+R9uH7+F+77k2SDXbCX5ovpkfeG8aquY+smwTvysJyTzF7T52lU6KCiY;oa7rryc+LL7g0mSR4BgtEg=="
