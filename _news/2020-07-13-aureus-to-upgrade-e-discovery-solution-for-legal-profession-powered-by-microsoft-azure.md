@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-13T08:43:00Z
 webUrl: "https://www.prnewswire.com/in/news-releases/aureus-to-upgrade-e-discovery-solution-for-legal-profession-powered-by-microsoft-azure-828476315.html"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,36 @@ images:
     width: 1706
     height: 893
     isCached: true
+
+related:
+  - title: "Alithya Launches AI-FI(TM) Trade Surveillance Solution Powered by Microsoft Azure"
+    excerpt: "PRNewswire/ - Alithya Group inc. (TSX: ALYA) (NASDAQ: ALYA) (« Alithya »), a leader in digital strategy and technologies employing more than 2,000 highly qualified professionals"
+    publishedDateTime: 2020-07-15T11:39:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/alithya-launches-ai-fi-tm-trade-surveillance-solution-powered-by-microsoft-azure/article_799b4fa7-7527-584a-b238-0f1c1f27756d.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 32
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "The Microsoft Police State: Mass Surveillance, Facial Recognition, and the Azure Cloud"
+    excerpt: "Microsoft helps police surveil and patrol communities through its own offerings and a network of partnerships — while its PR efforts obscure this."
+    publishedDateTime: 2020-07-14T19:45:00Z
+    webUrl: "https://theintercept.com/2020/07/14/microsoft-police-state-mass-surveillance-facial-recognition/"
+    type: article
+    provider:
+      name: The Intercept
+      domain: theintercept.com
+    quality: 29
+    images:
+      - url: "https://theintercept.imgix.net/wp-uploads/sites/1/2020/07/ms-police-state-final-theintercept.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "sPXdO4Hs7jcS8nxsNMB29/2p0QpC9buEjq6ANQT8CYP3jWDS+ZP4p76iVACB9t08YCNpG7x28Jyf7cpKd0qdu7x745mDHQRZogzaxeqOn6G7uqN39CRNfgz1vCOh4jTcQtbhWyxEKFA6xCwKeuEfNyOFAhDgCe/96/QvB7hFoPcYuW5SHWV1+10Aqcv9kwftuvf18HmVZPWMBRIfLVMdSxisqF3+zj9pknwckhD1b/is3T6S+IGxFAyEVlduwCcEfmbo+8Y2zPs/A5zK5hHkSV0nw02t2UaZ+CRxk2RHar/2q0k3mS1HAJavTnAMvakj7RaDC64mNBzOu/7Llc1PBw==;Jtw7v1Z7HLoapdJd4FdRSA=="
 ---
