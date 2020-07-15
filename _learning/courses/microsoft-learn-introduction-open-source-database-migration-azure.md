@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 50 mins
 ratings:
-  count: 71
-  average: 4.746479
+  count: 72
+  average: 4.736111
 heat: 50
 
 provider:
@@ -36,6 +36,6 @@ images:
     isCached: true
     title: "Introduction to open-source database migration on Azure"
 
-secured: "ITviVnwCnDhobrJp6rCA9E6/drUI0GRcnzvDlr9AcfLGkjjECLrJEwI3307GtnIUEUbqJktyGNcWfV9MhxjxOjTB4WRN1PZdWjsaBGn0XUstX15gn8/rEOU4vSt/YW1LQlGRIIu114wXE85XGDmhMtXVmOecYkT4qwtDhbU4SSo0HZbR85B8VuPV1rgJLqYlITx6ID3AXbmWAVSNRvbS9s5LJgVMWvFiKoSHhiLHX7MZk2X8djvmoifuYFxgB2THHFhSGANnFyii67BgAhp7X/Bc5cMqiHRbiitIPR2LLGRqkLPjOsatKoosFGPp0pkHfGyPAFzJL4RYXdxTtlpsCLUe0SRm+oqNKusXsjAYblhns/zpqOubTfN/XqP6rv8U+9U3hswPPvQvZ34PIbzpoQ==;NO0OGcBbe3RMkK87NpTZIw=="
+secured: "C4Ehd7LFe25mKQYeEZhCYLi9FCQ/vV5bOJOK4B83ZtPp1ELgrs7D4vFP3ageZ4eOmD6UxELT0MZl5Pa+XPHxOo4GlHXYucNIaTtHjNEN/0SGGL9UbX6OHLZO2WKt7O3ufBBgHKGOpawz7loGtBKIrtOy+S2gbSw6EFH/WLx4rbgn+m1wjak+IfhTUj2yFVCLyrGHaoD3hLSDr6ogH85MG42Yyd48t3EbpVyNrPUYAoaL5pxqdCYO4OavHjbHYwYUt9OtRsQGUvLEl3EL03RTLowWpvBD52lXzoIhLU2xMbuZacOq9v9U/L5BzWulGvA71j7Us83zhobHrSgvMKhyLJ/3b9p6a0Mfy3aKwdPWgcabmlOrCCPv6r15eFdhdQtwJQ5q0+M5FXCn/UJxxL8tVg==;HrMAxCVaKjeDy4epGKMUew=="
 ---
 

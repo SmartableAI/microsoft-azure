@@ -8,7 +8,7 @@ length: 35 mins
 ratings:
   count: 727
   average: 4.595598
-heat: 50
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Protect your virtual machines by using Azure Backup"
 
-secured: "2SwPJPvqY6kyQJndZicN26hyo1oDBthCIpx2s0nw1f0Y9rQqG0LYFzC2FGZQBgg+Z9QfGfvBHxX7YIO8TDAX2uiMzerCgCnhRgRG78/V3PcCwUMXVQEODVhW4NPVejZApblEZTL5ogpIsX5DIbV8p6OyN8ibvs74l79/FprUNbVvWkWvaKDtnu2HesiAy+LxG1dx//4LFuw4qeKvSGpjXYhOgNM48TCLrK/ndBPTBiY/sMdkcIvcCWDjOC0GsSGQA9NgKQBtydaCs1Ai5MEeFmEk9A9w2l59VkcwXGprQ1mdcSClUX2dUqDwtcodeGn2vnPlFaRa3wSx1sqlSEO6jmIdDV4YMKGN/V0bPISAIeSDxbw01N4VQGtvFjIc30Y2FswaLNZZ5bsZNGLbiOqo/Q==;low/Wuq+mnclgq/C83FJCQ=="
+secured: "B7asg+wYlN5YaKUG6Yg4FHaxuR95xW5lHiBiAOnKnQEGxzu6A66B+BYJz83Ku4ZlTTuVGk2jrwZrCLpmt4S6SXFm/Emidv7foZ04XpTkRoDe13ZWszI2COKVCr6fy5fAR/m5RKiai4bJ4BHsi+PUNFTOyOlpHyvoOIjBaDasclZB47PXyk8Db7cpjwNKwayUQqCMr5MaJ4EI3MeJDi5xcPtVqaIdeJqTCCTFTSqqThN53bqPBSugCOWgFyhRXgDOLb0kkY7Uuiqe6VP7PlsAd+HtKBIO39q60rrNDKO75Spv9l1m6LHitt2W+2Ppgu2TjQt9iqj7lJQ0lH5zju6hioKBfZp+2vRJm18fKWI3kQBkC+jF7fcTP+Oz5Kwux9kEOJxIRI+MauJt6g1oFmob4g==;AU6jBwaywx1RI5o4mTWlLw=="
 ---
 

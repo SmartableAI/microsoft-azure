@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Work with data streams by using Azure Stream Analytics"
 
-secured: "JymjJn94c5Azs0rOCFdcFfdLUuqtoyHFqpd3FIjuvmMlkWPhcRhugzVwR4Sed8CuX8xj4PeW670FguD82U5QU9XPaJVl8wm38rgt6EDQeRlXygVHekQ5UHhL2juHrGhtZSOSk04fAZ+lS4kNW9QwDtr5XasSMxFGLSPzyLA7nDRXM/TwX/OJY8gGemaQBJgkd5JGGmRM00WY0q4iTPt1qEOdwNvaaGH/9NrSCCMD9k8YzhRmvJUG30LDt+xh+/qbh2VmzMoocw3LqjzIY48k7+qK+Ay+P/bR1AFprJJq09tUQntT2yUvbXTmMFF2Aq3YTVlzWTXVLup21bDap8r8gr8GOdkyFz+Ae9zi3Sfa7Bjysc09EbuLVPwQ7heGldTZJiC5TZzIvE8q7Kk5ioBeuA==;Rw8rYCkaxTT8Jjbg/Fw9Yg=="
+secured: "4I1zmc905dx7WqTUQZTYfUuMj0pL1BQEV/8qYVGy7VajYxOnax02mpwtGh5MmlCH0Z02ZVFzDYe/WQE2VKnlrSir+L26x85BVgkQBHzu+MxHnQZBpx1/RBH/WV/SiWlQGd6FxiuNAhlCmpVHo9IX1iJUDkINrOmlGI+c78ZvtjnYaHJsPX0x6CSJNMiOZXZdqoI/vsx4e/BtWZOEUUs8nsPBz+NXYPFlIIuqtI8+EcPRx7dGWb+w5c8YIEOEUvV3F07HKb+rdFbNMddBzyw5SPmt2nOU6mIi9rVh7N6dnKovTvCdpwYqavlxQW/KJBMkqWmBODVQUW/71DJZ5hVSH99FOA/4AERHKYiBRjQeemJ0A8iBk7dAyOx3xjnOZzl/wv8Deae0csVhYeSE4OSDLQ==;eWC5HnyavPecNLVhZhgfag=="
 ---
 

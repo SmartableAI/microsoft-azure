@@ -4,7 +4,7 @@ excerpt: "In this learning path, find out how to collaborate with others to cont
 type: collection
 price: Free
 length: PT6H45M
-heat: 84
+heat: 87
 
 provider:
   name: Microsoft Learn

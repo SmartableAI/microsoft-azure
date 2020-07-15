@@ -8,7 +8,7 @@ length: PT53M
 ratings:
   count: 10
   average: 4.9
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Train a machine learning model"
 
-secured: "5YBghPiiFHTOiKGuQpeq2iLJ3RoAqZUxo5SLXGAvrDHOv/gisUWkSq/jHhQKUNmaIQBjY9BaktY1gQat+XwM/6ZdqAFbltIaTAMlz2EjrDUOY5Yz/iIW2kXorwx2OS6fBM/Mmj0YgqrOG6rdHwE7lIcdOyXy06azcA/eGOMW0G5vK9Hba/98NAD7bMg6HpWVNe6PS7A3hRAAD8p8HL0uDPTVQTETM9SxLABjeiEF8Wupx2fhO/C5Iv7Lwini6DiK1yUO5yRuRNhgNHNH3dR/dTd2QjqzD9Z6iaRpoMSliyBnImOkYQT8UECKkLz/tq9u+nnpTP9lPfjV3Uq0HGbsn5+yUR337mRI0m+l9QCKA7W7Izc8vWcABNE55byGm2NSatV4QI3nNeE7NqE9aTvsTA==;m2zwU/FPd2SGjyFN5nEnJA=="
+secured: "8cRTxRJXS8rc0O6up7clxO0hzu75/S0vKV1LONnZishFA/RQp+/tqy/N+UWI9LljNUdRDdY8ppwu3G3Gl5+nR82l8FSWXEnZKid0Qj4tlrtJU6vA0vx4H9FBoQpt3h3Kq8EbjMNTkoR6ZNh3UmpOPmbibiHjF5aPJWEsrVRX23ToxtaqrFN7a8n/F5HllztdmfhscBbFjvwgvfztDoA9LVkulxPXpKSqJf/75vLEYyCrnakLzjZmf/tpnRbXT9CYg2twDm+pXzekYqp3xSMNJqlud2XPJnLQid768zlP37x61GUy4Y3dAzgCRfhGuZlZUc8QwXbrPfOMfNckY8xj4oRKEEgBgNvLW90vwpNrtRwdyq1ccbxllLRAzA4RVxrh3UKwAoBNWoVyJX07eA8qHw==;ZO+nm9Po/pVHg67VekpsoA=="
 ---
 

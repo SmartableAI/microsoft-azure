@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Organize Azure storage blobs with properties and metadata"
 
-secured: "qDR9kbVuRIB3Q+fbx5fJXswRQkGsyGHcrj13k2qW8ztLoHIjfXLFy5xYYdCkH9YNqHWt9jSBJncQxaOuttvXCkcDgpps5RY+yVNcZ6GTS/EOBhFklWZXo9XgzL3/sEn84CfQ8IeRsIjOn70sOVsywkO2UpFiQWwjVY/+aQsymdA+O5SkpEbeEKAvq0BKz+QkigAaP9I8SQKXh2UP/Z62bafkT9wUP0IZK4zmvaOT+fXswmKuCZF+gwwB+ohQ4I/58ZbZDOVS0HiW6vyvo1WBhj2f7DpRHw7R8yD7mHoEXizU1aIGTx8XbwwbDU/QvR3Ho/HK5/Oe8SvaoCdJgmbIDkC94PYhEBy9sa9jwQROcUBaowDTWRwaiQ3N9RN276k/mHa/kbVTQAsDL/fncvmeKQ==;3VGiu/eO2iqFIIYuyvsXRw=="
+secured: "HQJqFk5KgGxTkXPpkO8M8SV1z0jXCXju6Snvh8DymP+wPKlz+7phiDTiJrnwKbwjWCc9Abf48/xArcICq7tSohCWdZtByxmg3aScS2X/cp1+cFvIMg9dRh0d9GY5Cd4gX3p/qzktlU0Kwun/Jm7KBWXix2SYISPqJCTlCdG2EUi8BzYTsicqXvwdL569OlIZbxlZDhjRhnXU5GL6b3+cMy6sZq3314ydw1jkeS/iqODoKwHiKf2JKg6qzDROEqmwSVXuukug9HR1YiNqQ3O4SB+Q2hdpRnHxnHPusXCBKunocE1kNnvdA9Dgn6P6+bPRsjYrjg7Gr77+wfu6lcZkrqaVoraOUXrtqzErGQ1OcQKsgn1alE6CYLOLqJk7jAuTVynN3/WYXzDERKqJVcKAXg==;AOz3/j+eW55x5SiVM/coLA=="
 ---
 
