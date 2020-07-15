@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Explore non-relational data offerings in Azure"
 
-secured: "Jelnr2cTZS/IXYm1BUzwgC57HZtb+B8MlI1Dsq3wBU0mkTHTWHjHc2H2T7K/SZBViOE82Vla8lNx8Ewqp569IQ3GkXakIaprbddrJlGx2Khl3lwjmjfjBfmR1yz07L4G5Nbu+uj/UGRCdAnvnKibZRZhe5/4JqHRu12f/VRBmBUGqIKA40ZMYe3GmG56padr3vd1kNLUEglBSl1LYZ0smuqMf2BZNI67cBJ/TS0dFK2T+ISUhJLHVEp79B+GYGbyac0JBNnYvVcqO3PgXh0KrOek2iBrG8+fFQFaHjdE/4rVQmHZN99XlfUC3ShG5TgFD1zvMnh6/RKJZgZ9C54/BHjL0Bet3BlHRAzH/2pl3QeExUmL9zD9yPyAq2/wAkttrMHKKY/OGY7ZWx7anWFjjQ==;HrNLYdr5p0/XLLL/1caJ1A=="
+secured: "J2NPgt6uHxERyPMIWo359XghDM6MU/NDbbq7/JuBeq3nJozLZQqnA1PPP9kPmIrRdkZuQz+u7tCou5dQ8f5P7dIV7MForGII3sftGFuleDfIxX8rV97/xsVt6cZbVjrVUPF9tGq/gOae8jhX/s1Xg6ERYvZNrVuH2OXnUMs8f1FYH+2vo0iw7+4W34WpoGnsExNj+dxqi+446BVus8xHlQZeqh/vYGpF/Uy8+wtOUD6Jd99v7kjqCWbdtwqzn8wDEnhDX0nzuohlB4VLo8MYf3VyNR/uKCKk23X2VrEOwXMGB0lhhG4Zt9S6RdIUqG4/zr45ykF+MhbwTnxnt2fPG4A4G9ctNMPMOdvA3fqphMIXpa9HU6l1XTTgufwWxWkPSE916iRd+NIk52yxZRwEzA==;IeftkywtEgjC+6Rlx6rCyw=="
 ---
 

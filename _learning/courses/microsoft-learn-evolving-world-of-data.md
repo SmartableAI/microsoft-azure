@@ -8,7 +8,7 @@ length: 28 mins
 ratings:
   count: 3899
   average: 4.6663246
-heat: 56
+heat: 67
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Understand the evolving world of data"
 
-secured: "iJ6AYyRtGg0Vg9q1RuFF3FbcCWr2sJL8fTBeOSKpMoMeAL+oknQeiM6Yx+cfwGuej13cKQdItQVMKLPPv3w1qlipdNHJ7Q+MsFrMI3Cs8DzmEr1odca86ANf4g6yAtl0gUrUCrpZZjfVv+WMdzVvkKVcCntwu8DxUWcdwqsBAG0xWVht5J+j+UkUUatN9ZCZydgXlFdFQdJOqbsqzga5EZFXzOCR6i+75KyTWQQKbw0+ora6S24Oh+RMCkNILXgSZP+Tp14qXURywd5wsRy1OjLIsKpoIQJp3p3VADUx8AcHP1bwI928/ssGB2iQoq1n8HsRctgUl+yPLx1c1YLTB1xWn2jt7M5ZSaiU3XMNrrJzlfeqqPe7RN9AwvcQdm1lDufvWx42f/dKZDuGTQTfUw==;AQdWCcCsSxI7NHuAISeQaQ=="
+secured: "zX2HQhG4MdtDkOYEHblmsLndDakxIiEBwVXrW79H62UvMG0QwNylZMsurNwR/JQvEX8ADNJI7GnTyWN835WSb9s4RBou43wCI5F8feB+ogEsiSKolkobT7/eG7GS4LDoxHXM1DlItCQIjjJGUYtDsD9sl6ue79x784YYB0vrW5Ki3tR/Djwex7UEZLa6kLyU4OUGZGx/wVjiMhmMiNW7XqnxVN5OoQWy7Vfj7a8JzDL3Ct3DlX70wm+LcWAH9biQkjB3m/Z84fqljnqdzRGe9fcSUnc5c6I1Ea/XFTsd7SxN2/N6VTN9Bk81Kz3hcta6JKFETLODIlwkzRyjLbZRtXVipiKhf0tfh3X1NO+8lZOOZH94wQ0Yrw1vAZ7oDrTV2vJfLRkoqcr8eSBdEj6J9Q==;755J9FYGiPWWYaM5x+1bVg=="
 ---
 

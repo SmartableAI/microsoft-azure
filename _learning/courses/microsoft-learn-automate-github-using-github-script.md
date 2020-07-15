@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT25M
 ratings:
-  count: 12
-  average: 4.6666665
-heat: 50
+  count: 13
+  average: 4.6923075
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Automate GitHub by using GitHub Script"
 
-secured: "6C5/tuDUiJgghoGcHGhOVmD5LMvGlzswYd1pXoYqHRetMPvsNMcbInIB6E6Ig7VYPs/ULjIr9EC1tTY06PLiTj4XsLqahqx8tGnoKMuet2gp6cprGz6VhjNwZ25t2ti4vA9rJhMnN4q10M57STDzRtGcGuDj2OFLvcJzgvvO95Uz3jEE8B/xq+Iy/KMzC7sgwfv/eLQ/pfQIzCVf8uFMuzPcvwWm6dpJcOJyGA44yn+48WywTkBvOgWvi8cURehhW1t8bghYMcJBb+oanwcmC1Y7mzsqTwrlGAUYRnPAYNOFfd4YfRfDlnHXP69e6ZUXmPtW80yLdJBY4/YsYc1VQZBbfUnD+icF7zl2B3uUVnZ0CwNsz9IQeTC882jc4VXe9aBo7TEaHRppN2s4L4ijvw==;zXEPCt3Qq6krRN3ralB4+A=="
+secured: "7OeYlWXk9R4k5CP8qdxG9JNzX0u2sn/SRD49os9I4idlVHmcUaZi4xVADeVf/Lu8C7sAfcsTs6VWJ1+SYHtdM3xog2chMKNx9R7zcSTA9W/PzyerjewsbnhLw9MLL4gJVr7L1rWZNdDukhYM6GrXmNQJDbe/LSphZW0G4+Exac10VADhVTwXVmRIvNFk51T/1r9TmNfu3FGZiwWaXPu9kPdt0fhXJcClmm5NK9qXDhjotUg3NI0mbeAI21hgKQFgIvDKe277D8O8V8eI4ky4twt8Kp/hb7xxg3x7JZvd86fYvOYA7wv55UJ5n0vBnRoq+bVv6ebfiy2sc/w+Z0lrTogruvKNT07ZcCCShiW4AlDUwRUAdTIJe1nsB7A77quoWWvDUbL0bvCq+1qR57HNXQ==;aKBoxSO8it/ZJ3Joz3ONeQ=="
 ---
 

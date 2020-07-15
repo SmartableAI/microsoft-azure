@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Deploy a prebuilt module to the Edge device"
 
-secured: "Otu1oo33A4qzqPpIuUvxATqbytrPpQqMfd/U1fWB40/j0j6yBB7jywoGfem2fibeREnOqgn1Kiw1x9SGNVuVKi02wOrYXtmAd7d4nspggvVudovNKteQZJNdqWo7DpkDKzaF84sA88OiYpKAYc2oKS80yJFvO/eeN9Ntu+/SqRIOfigqK/xOiAuz4Xzx8DA/5hMTTz2cjPwoEnajqoJHf93K/sF+iv2j7kJR5FTOv0JWMBg+BZrYJVJP/IF7pP/Lx1ykSDn5qIU8e92bPZkOQA4JXfizPkcmy3whNkffc/0XT38NrnQZRIUMmC1K2J+z2D08te91yEKL1E2t/VaJ1f4+OvMTqR7DhFzpU8AwEBeN04i5DA/9zLDvgD7GzZZNFpM8Vz6KQ/R6GuifamPpvw==;xjIRAGuQHs9016/rsiM5oA=="
+secured: "gTaFnEvTuK5JpOAPIZroDXJr6KtUi0TD0wpomK66PWoPXTwKE4P13+bEMHU7g7rmMw/WBdoB3cv4A/BNaFLSVw8Dhb4FkypAQhtasoxixvxi7v+nzs1QOZo/G+3K7R5CWjfbXcKeX3rgXyzxGR1Zw3AKzDtzzB5czL2ZTSF8o5But1+BLF12C9hjnotBUMn4XIzHn7/DANlkHk2iZwjCTR2hGSmhNUy+KE0yXJWFqjc9HliFak0ZnMDOU0/dEmzG5JbdeHofMdoIv9fYa6aP4IP6lhma9uMHz1S4JizOj8JSZ85U9EuKcnATdWYUMuykN7MlIyGLAyTLCxtSW1iN173UKnpQJdXaZSC0E9VwJYvcXfaL28WtpdyWIUQ4vsB/LewD3Jfjp3vlVXAeHE0JtA==;tjUN/lW26dFQn1P6EevdFw=="
 ---
 

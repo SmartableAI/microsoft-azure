@@ -8,7 +8,7 @@ length: PT38M
 ratings:
   count: 17
   average: 4.882353
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Search and organize repository history by using GitHub"
 
-secured: "1+mIC7JSIuotMzBSLcytzZ94ENNHrvtZwi+uHWdMjZGhgvwuW73kon20YGy99L4oM6gGclOu5kRe1j2q0MdQJVyLkdE415pKn/qhNkIkI2K8VQxDk7+Dl79yq8TSi7CgtMt3jPCChaNU/SEqzi3iRyLr0vfotROGatUhmzenHG3CoEi6AMiZRlOBbKsmZ4GPlkKTkXTPHTrKOQ9PGaGNJJFAoHt12eXg257/vLOL7Bnfd79H9K3QMCpMf6tyCzdTxZ0CKdUU5B1Hu5+ZQYnMYVEhf3ez6JuN1lcdgie22l8f6ffTVDEJNzSebdP6wj82axz8wDdfjVN3EfCsVhvymcQGwzPTyXiiKaFDhSommtwcQuVKtEUSM+3p1PfTn7z2iT+h81I31zlC2+sHdfV4wA==;JeXxevfK+IIw9fNTQY2ECQ=="
+secured: "G6kk+53BKMkDf9Hn24vRgVJwFCY8qvRflIfw1w+JZYrgDEFsS902ghChOGdLU0V7TDJL9i935bOEHTCeOc7lZLcqkFljYZ5XSqvbHY1ufkvB1K4T6ltkxdtXKAADfYeIziVq2A2nptfaIbYYkMPadejbYjFAxap8L42gW1hLE5C6yHsk09k13ywsQ+6np941Im91QciIzZGISxIrwQaKgKOahrCmUXXrlfDlDEbIvPUamDeNUIfRPkx2jY2/XqWcDRQcDxE3IlxOgCw8CtrAAt6ux65ISnIynvYBU1NM+/2OR3HB2DL6n+lh+sujG7Fb/vZxqcIbdqRnXm7P8xRX9VarT0qk4MteKma9AmewooATmJnVCsfFwagBLbjQWObKuAZJX8v9pVkYbfuuuhs7hw==;Z9JCSaf1AjKTp6UA5sF0RQ=="
 ---
 

@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Monitor, diagnose, and troubleshoot your Azure storage"
 
-secured: "Cu/sEkQfgyMCRoyIdhG4+d53LGrRespCafNALgmgDa0vqflK2F6DKZ47SHsejS+fMXvhI/pBMOlyHHeyt6hfqtMmBC4GXw45DpR25ijjzPQv+KrvabVfTDWgArf7VK37DQ2TyyyMxhjYSul90lKQr2+OSPhQRafzU28gOQTpofQI3mYEWOrM8UqTJ+8QY5QeIS8gEVUraoXJf9OGXjpLlJzry9NfFZkMF0w5w26CLOCKk11SmlxHIe80yqv+a2o9fRbgP0zKvI5f2XsP3OrqA8726R+Wji+bhE0/INIsjL/JCLrHghP6ikF9xALPSXI5Ams4oA2rbnhH1EWSo6WdZVMC7RJstL9LDGrKcW7v+c9bVbb36z5t2ifKwiujwe36weGTwR7E3hhTHpTfYLUfSw==;ECiZs/A3inJoCw4Y0AZHOw=="
+secured: "s+9u7TI27djP/iyx5xc+k2MFw4xfyG1Cw//Zv1+lM+tV1W9vdBm03tTzp/lNCoE0Tx5agrOnvPrhLnCUH+uY757l+AMTPy0PhZ+B8ic8RMzTCbDJ6UVylEAKn58wSs6Q6jhB3ASkfl8eOnv2BgVZN/j8SaXMTCuzAwjAUXq7grvqT2qCNbeGsFN6WJu94JrFv3Nnvdm9DL0Uz1LPnUF7EnEjUepK+8h9E1S4elvSnRRWuMSPFnSO5mQgUDCyh/0D87MZi0IAsMfJU24MgurKv15FhDYFWaZoFLOBGnmSWaLf8ULj9ZPZg7sE6a4DCDasEyY5/26t7Ecjce0vlbA8sXhDXVSNhswBGBwXdkftclRLR5fWbajwQXjvg/VSTWATvVq9mskPprsDgXjiam/3Hw==;pl8JbO0xicvIFWArpHpQ3A=="
 ---
 

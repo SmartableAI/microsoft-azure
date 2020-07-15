@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 36 mins
 ratings:
-  count: 4207
-  average: 4.7195153
+  count: 4208
+  average: 4.7195816
 heat: 51
 
 provider:
