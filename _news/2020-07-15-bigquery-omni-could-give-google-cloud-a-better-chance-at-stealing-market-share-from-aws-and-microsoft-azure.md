@@ -1,21 +1,19 @@
 ---
 category: news
-title: "BigQuery Omni will query data across Google, AWS, and Azure clouds"
-excerpt: "Google Cloud is previewing a BigQuery service that promises to eliminate painful and costly data movement by querying the data in place"
-publishedDateTime: 2020-07-14T16:01:00Z
-webUrl: "https://www.infoworld.com/article/3566559/bigquery-omni-will-query-data-across-google-aws-and-azure-clouds.html"
-ampWebUrl: "https://www.infoworld.com/article/3566559/bigquery-omni-will-query-data-across-google-aws-and-azure-clouds.amp.html"
-cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3566559/bigquery-omni-will-query-data-across-google-aws-and-azure-clouds.amp.html"
+title: "BigQuery Omni could give Google Cloud a better chance at stealing market share from AWS and Microsoft Azure"
+excerpt: "Google's BigQuery Omni will position it as the brains of multicloud operations, which could help Google steal market share from Amazon and Microsoft."
+publishedDateTime: 2020-07-15T15:25:00Z
+webUrl: "https://www.businessinsider.com/bigquery-omni-better-positions-google-cloud-against-aws-and-azure-2020-7"
 type: article
-quality: 97
-heat: 177
-published: true
+quality: 59
+heat: -1
+published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/infoworld.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,12 +21,28 @@ topics:
   - Azure
 
 images:
-  - url: "https://images.techhive.com/images/article/2014/03/178803656-100249440-large.jpg"
+  - url: "https://i.insider.com/5f0f1124aee6a849d43f2972?width=1200&format=jpeg"
     width: 1200
-    height: 939
+    height: 600
     isCached: true
 
 related:
+  - title: "BigQuery Omni will query data across Google, AWS, and Azure clouds"
+    excerpt: "Google Cloud is previewing a BigQuery service that promises to eliminate painful and costly data movement by querying the data in place"
+    publishedDateTime: 2020-07-14T16:01:00Z
+    webUrl: "https://www.infoworld.com/article/3566559/bigquery-omni-will-query-data-across-google-aws-and-azure-clouds.html"
+    ampWebUrl: "https://www.infoworld.com/article/3566559/bigquery-omni-will-query-data-across-google-aws-and-azure-clouds.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3566559/bigquery-omni-will-query-data-across-google-aws-and-azure-clouds.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 97
+    images:
+      - url: "https://images.techhive.com/images/article/2014/03/178803656-100249440-large.jpg"
+        width: 1200
+        height: 939
+        isCached: true
   - title: "Google BigQuery Omni connects customers to data in AWS and Azure"
     excerpt: "The new multi-cloud analytics option from Google Cloud, announced at the company's Cloud Next virtual conference, allows BigQuery to run in other clouds, query data there, and shuttle the results back to the mother ship."
     publishedDateTime: 2020-07-14T12:00:00Z
@@ -61,20 +75,6 @@ related:
         width: 680
         height: 383
         isCached: true
-  - title: "BigQuery Omni could give Google Cloud a better chance at stealing market share from AWS and Microsoft Azure"
-    excerpt: "Google's BigQuery Omni will position it as the brains of multicloud operations, which could help Google steal market share from Amazon and Microsoft."
-    publishedDateTime: 2020-07-15T15:25:00Z
-    webUrl: "https://www.businessinsider.com/bigquery-omni-better-positions-google-cloud-against-aws-and-azure-2020-7"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
-    images:
-      - url: "https://i.insider.com/5f0f1124aee6a849d43f2972?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "New Google Cloud platform allows direct access to Amazon Web Services, Microsoft Azure data"
     excerpt: "Google on July 14 announced a new platform that will allow users to directly access data stored in Google Cloud, Amazon Web Services and Microsoft Azure. The solution, dubbed BigQuery Omni, allows clients to use Google's serverless cloud data warehouse BigQuery for data stored in Google Cloud,"
     publishedDateTime: 2020-07-14T14:33:00Z
@@ -90,6 +90,6 @@ related:
         height: 600
         isCached: true
 
-secured: "7jV6KIk+HPywdCQLLuFuN9DAXc5x06CBJErPGjawveSJD0WNOxVwFdgW0q3/Z8N0vczWMvwYREkFs5ffVp+5KoQnW/VRAZ3xuN7Dt3Ijb/ON3XltcouJ975bvmyMlQDNbWjhMa5ZCGg1Zcryjb0YRhfxf4cZENdamHPZCE6dxU5LzWcvvVqWye9z2e2xAt3AJlVwpVQQPyJg7cITFIKxV/XyeBhIiQT+f/he7qQ1oY5620NLJ4SVGC3KuS3lmt+gbugDpilgkUMLybh4+Z663fQdSYZR1jJl0UGBrZRKMZK1FYjO2W8v+R/r9giH/1jLRr4r1QOK5CBWdcFnrMJOEg==;qbSUeUtjaknzIdHVPzjMcw=="
+secured: "de2XBLIwoeSLFBqH5iVAQlT3bAaxUO5JNzZTa2GkMfYjY4aLYDT1YKhJovvVo5HviAavWsyRJw2r521dc8y9ACta1qh6HVdT9qcalwSuWxdwzYRqK2LH2w2jf4BWBxkQJxvkuqmhVPLmTWJeEPFwiDTwYQUf3SiCPeEQp/YxAz+5d97OZA86iok9Ue+QLYz4n1QVtKZk3HWy2BTzat77y0anaWM+tUg5EYWxOUwnJJBW6ODZfYuLnnTg8POuCO0Z8u+50s7AKMoB4Z42NoVJ82jW5ylNmy63xT3VempKmi8pM0h06gwxQfu1Q9uAjlAUq1flJYWiYSj77VD5fzQTUw==;lDQR43TRk6zbBvc7vT5u0A=="
 ---
 

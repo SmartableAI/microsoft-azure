@@ -61,6 +61,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "BigQuery Omni could give Google Cloud a better chance at stealing market share from AWS and Microsoft Azure"
+    excerpt: "Google's BigQuery Omni will position it as the brains of multicloud operations, which could help Google steal market share from Amazon and Microsoft."
+    publishedDateTime: 2020-07-15T15:25:00Z
+    webUrl: "https://www.businessinsider.com/bigquery-omni-better-positions-google-cloud-against-aws-and-azure-2020-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
+    images:
+      - url: "https://i.insider.com/5f0f1124aee6a849d43f2972?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "New Google Cloud platform allows direct access to Amazon Web Services, Microsoft Azure data"
     excerpt: "Google on July 14 announced a new platform that will allow users to directly access data stored in Google Cloud, Amazon Web Services and Microsoft Azure. The solution, dubbed BigQuery Omni, allows clients to use Google's serverless cloud data warehouse BigQuery for data stored in Google Cloud,"
     publishedDateTime: 2020-07-14T14:33:00Z

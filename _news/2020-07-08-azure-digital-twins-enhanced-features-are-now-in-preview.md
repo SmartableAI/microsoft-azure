@@ -44,6 +44,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Azure Monitor for SAP Solutions is now in preview"
+    excerpt: "To help our SAP on Azure customers effectively monitor their SAP applications, today we are announcing the preview of Azure Monitor for SAP solutions, an Azure-native monitoring solution for customers running their SAP solutions on Azure."
+    publishedDateTime: 2020-07-15T08:00:26Z
+    webUrl: "https://azure.microsoft.com/blog/azure-monitor-for-sap-solutions-is-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
 
 secured: "QAOvl/9aO/EApGTWSK8kvcyt2X+UZ5c7A62+BC2QK9rDisKCu6sjIDSi8qpd8V+sDhq7fQJ9MBOpWIPfbGKsvdLRKH5N3YW0HS7ToC/OgfXRyVCr38Lm3y5TPpb/IoDb7dR1di73609na79Aw+33dSSYKE0m9zagxBYR/ul1VxRwBp/Tz+nmGGnLuCuaAzBP3Sl2clqCMG2oZnkVAhrXaclmbypq9oiAjpKDU1r70bPcGL3vGY2mpuVnrcAlVi6+KLoISmyC/qyrm1IAE17xIYE2b9H0nrN45h4eAckL2jhCwKgnei3ckr//HoiBOnLVGk8WiqA8rs+Nt69tJOZxoA==;NaqkJEbO97PQHeXzqGFOug=="
 ---

@@ -1,9 +1,9 @@
 ---
 category: news
-title: "Azure Digital Twins enhanced features now in public preview"
-excerpt: "Create new generation IoT connected solutions that model the real world"
-publishedDateTime: 2020-07-08T16:00:17Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-digital-twins-enhanced-features-now-in-public-preview/"
+title: "Azure Monitor for SAP Solutions is now in preview"
+excerpt: "To help our SAP on Azure customers effectively monitor their SAP applications, today we are announcing the preview of Azure Monitor for SAP solutions, an Azure-native monitoring solution for customers running their SAP solutions on Azure."
+publishedDateTime: 2020-07-15T08:00:26Z
+webUrl: "https://azure.microsoft.com/blog/azure-monitor-for-sap-solutions-is-now-in-preview/"
 type: article
 quality: 77
 heat: -1
@@ -44,16 +44,16 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Azure Monitor for SAP Solutions is now in preview"
-    excerpt: "To help our SAP on Azure customers effectively monitor their SAP applications, today we are announcing the preview of Azure Monitor for SAP solutions, an Azure-native monitoring solution for customers running their SAP solutions on Azure."
-    publishedDateTime: 2020-07-15T08:00:26Z
-    webUrl: "https://azure.microsoft.com/blog/azure-monitor-for-sap-solutions-is-now-in-preview/"
+  - title: "Azure Digital Twins enhanced features now in public preview"
+    excerpt: "Create new generation IoT connected solutions that model the real world"
+    publishedDateTime: 2020-07-08T16:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-digital-twins-enhanced-features-now-in-public-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 77
 
-secured: "rsfWTuYtSBAkipLVMdgplaaH6TQ4rSa071pNawM+e8pif49rXDpS6P+sFCIXmKjLGKualj+CLxWev8MLiDZCYXItPEVZ+eSr59jkVxZUSbGAvRHBJAhaLHNYQ/g6Jh0zYHUfO1N0d82hgDm3yn/8kx4vQ4pz0h3UgQn2/EMgpXALZd9O0IwEtWlDWuyun/jEjh1t8lFDf7VOl7YbyUvfT/noR5xmWaNycXs+Spuzet/LT2kZZJWvIayeq0ubJGpF9F1rC0otj29sPXJqw6EorCnGhaZqeXaWCMMi9O8gmVayFcUa0Km11//kT/7NzWp/WPkqOBLzztP/y8xRYB/frQ==;jTu46LoBZ2C4Ur6AFgVaFg=="
+secured: "uWCIFt44MscYAs+nF+xqABq3mgeepw4l3N/3Wgd9wPmYq651nFkk4lrfasC5Y8u6TMcnHjY9cYWthEQP2FULydgfLWEAAQSzoX03NifjLYTXxFR8PEvjgMZjA0OisVBIMjDPP3DRgxllqpSn22W9+ykLcvh3G8ZZFmSz+NLJshUZRzPI1pLp59ZhlE78iIpUiRTl0uyYE7aMFkXGWGJe2nMGHX6mjPt0HvMQKtAp4/UI2HqOnodTFWoVWwmTCYEqvaeDC+WQCXNDFjcCAxA0ZckvvIYxHyiUlTwEFYjlxO1adMAuLeo1+L4HHwPsiIN4tsJFTWpx+Zmh8zXg2hoo/Q==;7ceOqHUJsPrSZ2gjebhpCQ=="
 ---
 

@@ -71,6 +71,20 @@ related:
         width: 680
         height: 383
         isCached: true
+  - title: "BigQuery Omni could give Google Cloud a better chance at stealing market share from AWS and Microsoft Azure"
+    excerpt: "Google's BigQuery Omni will position it as the brains of multicloud operations, which could help Google steal market share from Amazon and Microsoft."
+    publishedDateTime: 2020-07-15T15:25:00Z
+    webUrl: "https://www.businessinsider.com/bigquery-omni-better-positions-google-cloud-against-aws-and-azure-2020-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
+    images:
+      - url: "https://i.insider.com/5f0f1124aee6a849d43f2972?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "keHfeuFwtbwv3wifQgxufarKYhaU2hw7AdK+gKCv0iVC9fUlxW2UBXYl7DODBhr8f9y+ZAlCUnKSNqfJktnsu6oDFpUNKPLJ6DfCvz5wy0BqD0I4ow2uhJbL1T0kGfvJjB97Y1LGea5pR6P3f2x8X7/itoAGGu5IW//aFvPGU9yDQ8qTDikE8wg11Ds8cO1tDakL9THr2tEfK9qzfhTJ9V2lVLSKfdUnm9m4wiw37XHcyJI9w8sxGkA2dKOYalDXA1zzqrpiwKhm7jKuDeflVTgCPSoRVtYrIWRBSgqKX56B5IPml5DWdKXASVIAeDiSvKMNjOQ9PNvjgT0gm+iFo2zx9+CaRdovkp4FPwhA40NkZVruVq4QYhZ+pD7W/XyNPn12BNrPyddgbAqCTm5OSpwl+9sJ+edG/ByPPmnichUhFTCc+gIe/pdFfOB4ylnPc/5boVkuqbGi8cDYUGw39jcSW2jimYReXQt78ZI9+lpl3Hdd051UI8SQDOFtubhisQtP3bNEzjOYTG/JSntk5g==;Ne2S0Ob7EAZbRCl8i6A9EQ=="
 ---

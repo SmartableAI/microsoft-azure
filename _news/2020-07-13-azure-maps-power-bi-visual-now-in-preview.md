@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-13T09:00:01Z
 webUrl: "https://azure.microsoft.com/blog/azure-maps-power-bi-visual-now-in-preview/"
 type: article
 quality: 103
-heat: 143
+heat: 163
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
     excerpt: "Create new generation IoT connected solutions that model the real world"
     publishedDateTime: 2020-07-08T16:00:17Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-digital-twins-enhanced-features-now-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure Monitor for SAP Solutions is now in preview"
+    excerpt: "To help our SAP on Azure customers effectively monitor their SAP applications, today we are announcing the preview of Azure Monitor for SAP solutions, an Azure-native monitoring solution for customers running their SAP solutions on Azure."
+    publishedDateTime: 2020-07-15T08:00:26Z
+    webUrl: "https://azure.microsoft.com/blog/azure-monitor-for-sap-solutions-is-now-in-preview/"
     type: article
     provider:
       name: Microsoft
