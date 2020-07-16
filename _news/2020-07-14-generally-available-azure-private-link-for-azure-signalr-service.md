@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-14T17:00:16Z
 webUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azure-private-link-for-azure-signalr-service/"
 type: article
 quality: 77
-heat: 97
+heat: 77
 published: true
 
 provider:
@@ -19,17 +19,6 @@ provider:
 
 topics:
   - Azure
-
-related:
-  - title: "Azure Private Link support for Azure Automation is now available in preview"
-    excerpt: "You can now use Azure Private Link to securely connect virtual networks to Azure Automation using private endpoints (in preview)."
-    publishedDateTime: 2020-07-09T23:00:06Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-private-link-azure-automation-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 75
 
 secured: "wKzdJEDITxBVDkgSTL6/JiLXKJiRWnuErC9MsI0nj5cqQ0anHohiVqvFyA3ocQSZVdkyOYB2SE5DsdPw5H1ADo4ilMioLQg5LaqMukyR1UHfr7Y+xjMZCJbKHH3zkVDKE2HuNiCVYLzgxyYq7d0+jAz2cC/V3cCnuKpqd4oIloCwkgwdkSYA3Da/xEfWeFNkZvEWjrfHwbRCFqxIZYUfqTxue6hTCwQKFU5znanxLhPjAyQyLhPEEuK7UexiaRkQOcWGgWGqv1LDBmBs+laocps5OoipgRgzd17wtpeHK7FoxWSIwFxNiDitF/pRSuVKtdx/67e3062dL3EtZ9JgCw==;uRvVcgMBjN+Hy4NHb5zDng=="
 ---

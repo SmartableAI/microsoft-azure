@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-08T16:00:19Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-digital-twins-enhanced-features-are-now-in-preview/"
 type: article
 quality: 77
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Microsoft
@@ -21,33 +21,10 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Maps Power BI visual now in preview"
-    excerpt: "The Azure Maps visual for Power BI will be releasing as a preview this week. Power BI is a powerful analysis and visualization tool. Azure Maps is an important tool for gaining geospatial context and insights that can be used in decision making."
-    publishedDateTime: 2020-07-13T09:00:01Z
-    webUrl: "https://azure.microsoft.com/blog/azure-maps-power-bi-visual-now-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 103
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8546d591-93c0-45ce-81a9-993caa2d22ea.png"
-        width: 822
-        height: 469
-        isCached: true
   - title: "Azure Digital Twins enhanced features now in public preview"
     excerpt: "Create new generation IoT connected solutions that model the real world"
     publishedDateTime: 2020-07-08T16:00:17Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-digital-twins-enhanced-features-now-in-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure Monitor for SAP Solutions is now in preview"
-    excerpt: "To help our SAP on Azure customers effectively monitor their SAP applications, today we are announcing the preview of Azure Monitor for SAP solutions, an Azure-native monitoring solution for customers running their SAP solutions on Azure."
-    publishedDateTime: 2020-07-15T08:00:26Z
-    webUrl: "https://azure.microsoft.com/blog/azure-monitor-for-sap-solutions-is-now-in-preview/"
     type: article
     provider:
       name: Microsoft

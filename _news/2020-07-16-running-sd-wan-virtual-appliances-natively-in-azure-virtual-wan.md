@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-16T10:00:40Z
 webUrl: "https://azure.microsoft.com/blog/running-sdwan-virtual-appliances-natively-in-azure-virtual-wan/"
 type: article
 quality: 99
-heat: 99
+heat: 119
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 911
     height: 513
     isCached: true
+
+related:
+  - title: "New Barracuda SD-WAN Service Built Natively on Microsoft Azure"
+    excerpt: "WAN offering that runs inside Microsoft Azure virtual WAN hubs. With Barracuda CloudGen WAN, companies and service providers can create a secure access service edge (SASE)  in public cloud. Hubs can interconnect through the Microsoft Global Network."
+    publishedDateTime: 2020-07-16T19:33:00Z
+    webUrl: "https://www.channelpartnersonline.com/2020/07/16/new-barracuda-sd-wan-service-built-natively-on-microsoft-azure/"
+    type: article
+    provider:
+      name: Channel Partners
+      domain: channelpartnersonline.com
+    quality: 37
+    images:
+      - url: "https://www.channelpartnersonline.com/files/2019/11/CPaaS-770x285.jpg"
+        width: 770
+        height: 285
+        isCached: true
 
 secured: "RaW4JQHkQR5vCrXE7c8/fqYlqQvqSw0NyJH1Hs5ZaSM3gmo+QyWd1euOfbZHgiTQyGj0UHytHByk9GSIYs7jPusVd98a1SYoExellB+IUizxpGSO/i0hx04SPeD8kZHWUmSM/Vf1KAFiq2JYYb0FysXVR5Aa4kQIy/FiVVb0t6xrdwYLPd09FOLfeNqnrsa7RV24H/SfD2anQ/3wK59ir70jTnMt4RGfIQp8QDQ5KNwWYMTe+cIoOFyJRdnGmDCDtzHjA9ZRVJdIl1rJhCxGxjpwVDbj3Iw++Zyz3w0DZSBo7vot/9N0JPkw8YZeL1b1XiqVed9tTg2g+biixKgeiA==;H2Vi+d3pYjCn5gCDvt8k/A=="
 ---
