@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-14T00:00:00Z
 webUrl: "https://www.smartdatacollective.com/microsoft-azure-optimize-ecommerce-data-pos-solutions/"
 type: article
 quality: 37
-heat: 37
+heat: 97
 published: false
 
 provider:

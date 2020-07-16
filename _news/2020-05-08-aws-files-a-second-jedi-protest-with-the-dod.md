@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bizjournals.com/washington/news/2020/05/07/aws-files-a-s
 cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/washington/news/2020/05/07/aws-files-a-second-jedi-protest-with-the-dod.amp.html"
 type: article
 quality: 42
-heat: 42
+heat: 102
 published: false
 
 provider:
