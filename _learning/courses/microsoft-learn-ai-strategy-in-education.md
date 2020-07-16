@@ -8,7 +8,7 @@ length: 51 mins
 ratings:
   count: 473
   average: 4.780127
-heat: 53
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Define an AI strategy to create value in education"
 
-secured: "hvJm/t3JkTt3I3Lb6TsgwRGjt/Re2elgfmF46Kn8aHu75v2CwYeZf6PvN2ShkVp+lkt7FHSPeDz0ANOKHAtYlbjcQGuTe1VYeWQLsjNNnQ34lYLgKMrSMeLHkXT2MEqcfGXxkmj8yZMsuhukPLaYjoJNCDplNLjWhsJpnseVl1/6jAfmZSSHc6x9/yzBZtyvhtYZpwPKxA03Te4LIPHSdblnhk0+xxTTVz+1AjqSDFEnip60DBvlz1JXBDrdND2wFvWtco23WBq/6D+60bBDSBva1QcACvYIT59qZX/Hd9jSjryD6jcSapk5+ChS4OMmfVXLtXbTyOehFuPVF7ZBCX9yxlnLQPBvBPS8QbDafm4fCu0l7TD5rdS0l/XqlQzIoANuKCrcFd4RDIgzwsId+Q==;9V0drSj76u/WK66RjQWtJQ=="
+secured: "n6wVhBztiQEFwYZ7OfKMgjSgit2ZfUSLaigptUHY2bmkP1wRxNNuT1BkNBO8flCpuqtbXAGfhwPWP0qqn6w5ijRHHGTobckOsQtBgAufmx9me5IgUMe/SjqaI6lxbt/fUzMK+Ie6EejRFi1BhvUDV1wuK6ovowED0NuDf/lsQIPppX/yVeTHX4WMr28Gp2AldjM3iFctZ5ud9UqqQZToxCQBW1nulE2J5QWBfoKcgQggrkBrbzFEo5yt2/ZGTQ/qjGQsNhO3o2nZrCmQOZtzF0gBWIGhMZP1h7n4N24tm2a/+xMlsYor54tFEapa/pLUPB7o9Wf94I5f4zkU+F02oK2b2yURwEFtVNCUHjL0GUSWuWPEs16HymppfQSuF+oQ9WhckCtkHyYHPg0a83rTdw==;CevPg4XMGtl1O+A/4HKdJw=="
 ---
 

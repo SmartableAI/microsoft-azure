@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 44 mins
 ratings:
-  count: 1114
-  average: 4.623878
+  count: 1115
+  average: 4.624215
 heat: 53
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Design your migration to Azure"
 
-secured: "EkIH+9Nec/1sncAej5qKFXs9Zj8nFoRsaMP7uP97oQ5P+/9WWvgBznTgkObg9Qazfgnofa3S70eKIIlJwrNkX0woKeZjAg65Z8GF9z2iIaPqZmLXd3YIMvcyTBP9Zjk8iDDFUEmIiMz+eia9m2jbEDaS3C7KcvXCNarieBEP8A/Gdd6F0r7X7OyfzomiZzwHCN8tT+MMbQGBskw5OqbKRIdjPA9WufVDXBqWK1iY0//GY2L4huk57ODUPTta1LfvfSXV+8gfXt0v3foaMdQE/jMKF7k3Pc8dK/TjzqijuN9yQWFZA6V+4hAtB19XIYiQrCmhZaYrjWEYFtOSUFdUOVYHfn1iZlyfjWs4gBoJM6pQCesngJGxje8XMvVyiiqkn7HClSoSWI+FDqfZ4FLoLQ==;hyaOKQxCeYc5GUmof3/+UA=="
+secured: "H0/iAowyAVADYk6rDW8Plh0L5nAL62rfV7yw/vjqksn162756Qaa3gZE9+qaBiaCL3HKBlinKU/gfgM6pp7JXlrn0VGDGpPNkdAoIMbGKfMorV/lJNAmCbEeaBCrARPph9SYbl2S2DktHR1mUJ/+M0cyc/r1yaHlGpokdiCQ55UztfGud12E2Qfahw5GN7ULivTfsT9u9b13xCFJb6jY/WDMYPF2wBQb2km5fAViiMSurAVa/2Rbr4a6mfY7AK4FYlV/c9gzugiaGpyRSuAFSJlC1HAsOPtnmHuaXbnsT5bnyO/H56MAiDk2cObymJlFV3jXYw+05lznQyw2TyIA8Z5mXFiQKdzD6YCl2afrLuDRYfHjVFDMR88nm9PXH/uAgc9CVwK8ek5/pkNkLqyASw==;g9Vc+woPRmsBwlxeTXvMTA=="
 ---
 

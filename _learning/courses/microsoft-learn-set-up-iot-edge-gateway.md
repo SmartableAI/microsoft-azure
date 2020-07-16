@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Set up an IoT Edge Gateway"
 
-secured: "8kSPvxHqnKrnSnlSKDNS1cWBv0fjx4l0N+uuEZ6a++V5KkNssRbNwWXATUuxvUdLvE+XGErDEf1Qd/K9pfRmgFVymMIiSp/wurQg4d0y6Z1F0eH944XXb/Hk+ur8otLvDX24B5Lsnhs6yMVNInE/1G+gKRDjfVWlNPx6Ova9vvZegp5PTGVGguAOgrPruUgf7JgbZ+NPMXaRTznJGGF5k0CSZllR9xLLLDE1lcLDPKoSsYXZtkHDoblcyfKBIRDGWKuhIfLGkQQwTZsvD+IqN4fSeaQ7rwYcLaoATb/I/3gL8TGaD+go7xKH36o4ZJOjqNcpGh2LnkwH4sqRePzkM/VzJNOvdlSdglWNKPIGDksvLgixEchosoSUS1WhsXAIBKdF7r4Z0rg+8RfgZ/rD2Q==;JqW7OQ7p1v+Wdxv+14zFEQ=="
+secured: "p37ZXv6gQBUcqYW/BCREfwUxqv3xcIunfWoJkEXU3qqjGsIj40meJkKFZkqROlucT2F3S7ngupYTRe6sR1deaDgES6vua3XusYdEaCsryIRcgH08uV5Hr8l4IZorEaLx4mneHTsxy1RxcHQriqwybmdv2YVe4S0/WmRG4B20nQeHCrK2YJKAnRL9osdp/SmudiDxi+OBTE9+8AKF91WL++hqm4UTJITjhvu6vUL7ncz11T+6H3m31nAr+CoLjNwgBcdc4wh4HpVrWk5p5KvMoF7anr9+BjWYj3bmzsytGnHDqLbK4gMjxgtxUfDmG30pfuOrzGf3HZ+6+q8tJVRD8wxVvX29aQD2dwIvCx2M4jc18LGQIdTSHtnPJUZsXsn8h9RdyLzd5mkuJCCw6K4Zug==;Jxut7oQszoMMfdMpEZ2UtA=="
 ---
 

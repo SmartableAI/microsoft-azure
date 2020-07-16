@@ -8,7 +8,7 @@ length: PT50M
 ratings:
   count: 74
   average: 4.635135
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Application types in Microsoft identity"
 
-secured: "HTynD5dBdlMJSbYQrNZ5xJoVohHZCsl6OXBknKZd/VsZtyw1IZyUaxJaCgO36kT6Kjd0JK8KrSxCMBKsdOZrCHK2Jwkyquj9qCK2/p/6HTmRiL1gW5fv/c942rxZz17dOMtjhGFPDRGsJF6cmhfTRHQPRnqcTMi0BwyfSC1IK7JQCWuxL0pThvXekKtPJHCrJWDc3ABFiGdSktvCBRHgcRgS+17lCq7+9VghJ1s3ITUPFJdJ7iEl5mGQuAHL0/W4q0qvZSRDWOjNZmmNq/0YIEbOQVX7Hwxj/SNreA1od94ioh0sfmqD3YEfxEyD+6FxrDQFhwf/K/Xh6pO4KxITX1VXhwIYZCTEpN7YNRYLQEIYnEk5fT6x2N14/FM4dNzTkaceDbK9EZeaWOEXPrdgjg==;uNelea6B9X1h/seppLrIsQ=="
+secured: "J4N2JyPQxlgOcgBK302p8CdneFydvhG2B3iPyZVP3hp2jGQW+NcTTRd4YUg3I6+UuHG/Yq3jxWZTuhSZZBACK++GtZKxqlrOmxkfyrdUxHGroPCiOvxTyo0L35ExDeSWb3pYV8Z6ihgWIf3t4cfpdEr+GDBQAK1yE7g/8yBGuB684wSINMVpmsRYyu+K33V3CLAuyxbJUiNHcmFu8PEAoA3hP3YVFSRnwtvFC/cfJvPkJnDbamOxVWigMK39tKztqG3m/PWzwr15ki3yfpBXlT+pauNMA9+zJOICTUJWnXorbQ2B51Uy5CV5Ui3z5x3cdpBQtj4ZXDUEiBpunGaX1F0GeUgRX56ie+Now0LZcXwuE/RO0frKJ1nsQyuDxloJT7Wi12tj8Xu/XNTw5QLE+w==;8bNxvwxYZ5Jm6oPXyl4wIQ=="
 ---
 

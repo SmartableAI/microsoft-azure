@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT48M
 ratings:
-  count: 114
-  average: 4.7807016
+  count: 115
+  average: 4.7826085
 heat: 54
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Create your first Q# program by using the Quantum Development Kit"
 
-secured: "VJ7Cqaq9y0EdgZh7BirAgsGUGE+6qPFPnGVW3SHdzG5XDQ/xTl6sNmrOMwGpNUrFt36yGWZ+S4ccQcQ1mb0gwaB0HG//vWayeadvekRzF4p0Xl29z0zjxlTyJXywPyTBoQ6Drxhlu70VWMTfoSx1jt17YxBzdV9lTwfVQNI+A+3Xg49B0AASnV2ACJSqjsP7AK2/Zlyd31kd8/7LV7SPvxYX5KvdlVPxvhNPNTt7jLiaRF89yfTUhmmn4ypkMJOZZOYREZPO/l5mYAHCKjt8ZfJMtU9ySN0MNpss+bAgD2YDNE61mpqIMx4rJI7AwpWyuwJpc9cZrl3TW9MLy4bY4m+/Zd3T6qK9SxSUZekEnX9y8j0flhV1MHcZK+ob3TAW8CeUixBbGeZxBjgSzttl3w==;HRNmKNx4v6TekE9Zw/xsCg=="
+secured: "QAXFTyNC7KF766wW3YZENQimCF52BsegTvoV/43z67OaC069hXQ5nes+Xdie8l2FKSSSleTeDk0scIdQCDRdjhE9c/eYiXv069XFfpLNEitgw1BEQcAOHSxuBmxtI86kObRL1vqTfX+sKMvVcWK6mbyI74WIgqMFsWKRW8HWDO1LAWdQD5gJFWC8EilmV2Dd4RjtQtkjOTZEtZ6iHsiA6+65cpjepQbo/kyaxuAO9oO9Nsqt3M/ma9RVXY9dcC5MBtuFwiAysT07N9v5n8XrWHssd8T4kE3OfFdx+9mY2jYjxm6dFacZUCjf79TqaYYSgxLyAQGQj8pauokhydHIJjPcNdb98qXZ9vqQj2i0jnxH2fQlNkAK+OKTpb9FRk3rTtl+HydHFY4CpgG/1e2SbQ==;xoLVZSdwUJr2wgZZcSYQ0w=="
 ---
 

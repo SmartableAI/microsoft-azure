@@ -8,7 +8,7 @@ length: 45 mins
 ratings:
   count: 779
   average: 4.736842
-heat: 52
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Define an AI strategy to create business value in financial services"
 
-secured: "8gWynZ7ybhdv4BXW8iduR0nBm00IPPHT9nVLbI18ryvodRqgjPYO8RYqzch9O/ZMMcTLmjdKbg1jGH1vsWzU1nYbm1hyMeFkr6ahAGrHoA0YE3VGPEQZVZnHICJHE/wPWVgYxPU0vXAQC81Hcn6Ea7jNVB45crjdKxUACcYr0Y2UIJYwr+9WADunscQqUQI71Rv9Mb18M0xdnfAv/toZprT3VbIfW/DZPLvbHYhneN/a7PIEIkaj1TLlL6GprhKi8WO/08HjK3xd4k8yJ/+lBgoOZ7gMJoRhubf5OP/K2AusyoS1XfkV8GSvsCgMyJ4yuRhZ/L8I9dBwu+nVkNEctwBTEwYwsrJdUc+W6zaoSWXDPlhrTHcqnUY/uX7wz/heh/5vM4cVIhG+eypi2nClZw==;KHTbWYJA/+tLwjg5VevKgQ=="
+secured: "MaMaiPTnFjyvk24S8mDGwfL8TGvOldjFJOMy/rgRn52BTsYI1Dd4DaigWbzgqxBnaHqBuIywzxwo+OxK6mdIRGPLkB42LUySerwwekeFOh6xqmdwYbzE5UwsfwhgvgnGwDYqmX2SBvuzgEdSJo7c/SlquHzhvPeUlpnoZSXlDClJypu07EfAT29rzNxgPeEgGN0WcHy0CsntCx9jlEAmg6JE/z6XOhnd/O3pqIwziBaissMt0trfNcV+J88q/GBaSbuvLU7bmkBXua44D55zrIPf7ZC7Js+/g1M/cw1egGzrBirGd0BE5AHIxop1UPXCGM0x5hj3jpmnUSRnQGzC//obX6q0laVCrPAU/Ri+qXCNefDhAXxki6sEscHt2rGwYCwt2040kn0VYkyqM1u5QQ==;w2KA8y0erGUF/uhpF3QqhA=="
 ---
 

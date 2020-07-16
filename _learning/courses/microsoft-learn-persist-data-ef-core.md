@@ -8,7 +8,7 @@ length: 64 mins
 ratings:
   count: 866
   average: 4.669746
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Persist and retrieve relational data with Entity Framework Core"
 
-secured: "BwEF4KB0/4+YflzXmIqRsqEv3XLXah7yuswtw6+CVlEVYgOg87QIyKCE/75pfJrXRqzpzxshbHNijpYtxHMGGbjIJ33frIPMGuEYXcCbUKWS6Wq6kBELGExN40OnoozC/vrPCzHfYIwayZB3hGX7uRT4rObmpQEkGbqEQ9xZTHggWE0tvwxh2ZJmoUPs3LR77Zv7jU2WvkD2s9rgy2xsjc42LIgey+PRlkzsOOzBgMUlgs2aouirZ1jCqYs2CHth6AQ2IqSf/rElmVetLpuwnCCN+Xlah2zGa84apWWDzGv9DC1CA10ueEi8bXvz096toimO1Wvi1ZS+IYO/Ub03VsxqfmpdFkW21/khnS/1NVQMdhtVpOsROOGGjLT5vrydKuEkx0J1XCVBS6Ra283ZRw==;rubXyFCDkVkbLm795xgMHg=="
+secured: "EhR9j3bIJEQlyt+QZobcHEhW/vS+q6mdh6t62IlFUCCLGUx/jdO9OVd+zq34SGDY3eJuswNz7/Yz3AevQ05JXRFrxWfnsUPPxioMzEoeBagQ+Xb0EqR2l4qGZQ1hN8tu8Y+5lcyI9sXq+x1OT6JuDhjrw0sxrfIJOoK7SNmV6daaIxwT4HZ0BJu8CbRpmLyZwgzuzO6INX8cAZC+dyh0YpXYKlTGTlc9e+dRDWw+3N9Z+F4P1qttT4PLNi5BPKsbUA5NcF1+G/JE1jwT35Q5/mqxRTqUQyPpim0qTBD2T5vRW6hfs6zgTtTzdwsKwb8s983AS/MIPAjH2Z/aCGfOnf2zbed0NviDtBpM4Q4+0SlCe5NzrWEiEy4cpTsqVTbwXolMMbaOh5GxiWJq+fEeWw==;q0/cIBs1UZD9jSh52GPAlA=="
 ---
 

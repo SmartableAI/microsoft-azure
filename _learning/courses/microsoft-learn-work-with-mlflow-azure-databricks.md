@@ -8,7 +8,7 @@ length: PT33M
 ratings:
   count: 12
   average: 4.8333335
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Work with MLflow in Azure Databricks"
 
-secured: "H/mNeoP0jaHNx64dw+Mshkh/tJf6ukgY7kq71y0z+F4r/F7CJ7CNdtvTxRt0+tm02YALXy4MDZZ42LpU5EIUTfRYYynND7SpQkpX0yqb/PuvYzIHHmXyrPc2t0jQcCJSUOD9cEiFxKqTZmyXYk5t/RwMpteiPpWcOSdW+EjY0vAIbe3zwUcOTTC812aSUfVKRdc/7+uCSTAkqkJYHWktPgORWd4ppp8YzoDJExAmf2h+Q5UElZFT8GWm9CoS9NChM9NVp9/jJj+RjoUuXFyN5x42hAMvfybIrYR9NAce34v0z7u7k6TALK+glEU/mJsmOI70uMfg1mL2nKA5SYnSyPKgVzCy5/oyQOw9Cz2zog5cvzLGZw1HBAXbACNs+TWa1am4LCSwtM3TfQhh0Ofaeg==;EMu5tgXgU+NbZ/ecynNkwg=="
+secured: "Qgrpf6sHqIkpxrUi7Sv8coSUtkhykrT1o28kr8g7TJG9zljnkJe9LI53CPhK0Y7Chw9IDeJj8UNxSv/jGhTMEWyr0Ow3gKnpbQDwOgqEprZzERyC90aLnDlDVALz0Xc5ZX9h4Na7KoYI4iXSIxEPaAmYoGvyOtXIUpAvsQpl+vJutTQnlN2r2dtUV9pLw5yg0trxV6ktOfdAWXXFQZf/r8dDA+aSfShJJthLSwR9J3FEGb0c5xVM0Y5Dx2V11GCf9rNEbUSaG6l6kIdOOO31qemmin7OHTNIpxVsJT5895Ws1+gKHaAtrTAG2ueBK/+JpwryU66Z9AmDiwImrf9oKYutpoYGBcB0xq2Lg8gg1B9I8TXzbiiZnTxK2T5yPHNtoo7HGyKIQVqO8cTadJzJaA==;OL08iVKXNg4qijXBtVytBw=="
 ---
 

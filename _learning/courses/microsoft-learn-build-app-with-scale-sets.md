@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 57 mins
 ratings:
-  count: 1149
-  average: 4.597041
-heat: 57
+  count: 1150
+  average: 4.597391
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Build a scalable application with virtual machine scale sets"
 
-secured: "UwC/JfUYKEA9fdm+NjnBE+gbE/M3gD4DeD1Sm5+Rwa2PRC1ftc6rWwK5oUCL0OJumhJ0nRjP/tjzxyU5mbbZlADFN+gsOFQ1iNiuERQ4DORnVBLfqOx1yR1LOZRVIY740Dem8mw4dvUI5Ig0SFBsrAQX1uF/p9BHT9DjouN/U80I4XF5KhUGFRwvpVA0KylXRhDEBD0D9Fi+FBwKPLP2k3dxkCDnHTLw/8GiUECJ7/a7idxs/9jMDEkHEup5AUl+nWLFgKx2ROvVlYDg/obwig2mXMFBLUul95wIrQYMcx5+3ciJ/D3dmqit8sg2Yn0igMZESpWzwiYWps/TtNUDb4j2EYVmJHO0yyeT06f+vEdVlDelC4azrLwFAV03Ql23dJQGGoZtUQg+43uEiMRUvA==;8VX+Ebu0mGSFe/RTrWzyBA=="
+secured: "1apel71/IX9JD/L8kTdCiUwtE/PbbFXCTnpu6P1QrAameUsi5noiliZLMB+Ai64kkh/cayI00msFzNTGpg3yxVSjycoQK+j0Gnbbyn0iDQy+SE32Cqw/dSt/6zyCNtMQVnI9tlpyNwfJ6Yl5sdj1mRWw0hZnSsAUr1AEPE4uHDBRZAO0GUjRy6YEJRSCbwG/Rb3g9M4z0W9vRn7QF3Dl57iRanQgW+jBDMSE8NhBgyLXsrBJNRDDyljkIpTWmb1F3G1YipY5uWOb2krnBKK0oqCEA8PMdDQG4YjdEj8OaXsKdfLiq+gjle+pNNxQX1ExafwLmRe8Ub4dZkIKCsHRAp7KVrIsNjrVwJHK+ZRpoUle78xD34NlOdAVYUXD6gNWcFt9erggaqTce/duRK/4HQ==;gzbruMJkaktUnJMyDQqccg=="
 ---
 

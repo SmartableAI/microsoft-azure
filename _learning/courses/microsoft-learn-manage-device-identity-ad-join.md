@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT25M
 ratings:
-  count: 494
-  average: 4.55668
-heat: 58
+  count: 497
+  average: 4.559356
+heat: 63
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Manage device identity with Azure AD join and Enterprise State Roaming"
 
-secured: "UlM7p1qg96o8uJ7jDYBy9LzK4mPUbFaCSdMjXQbQisZuXZjV9tXN0YPcZvyAW2+CeBqNTwLOEMw+DrkBFZLa2lgPA/JxvOpJEH/KvexkUYi3HVcf52g9fYWlO2vpFCFxEOXhVCrolmhJ7MvM7OdR69sdnevcC+F62/rNoWCqaHolYYG/E3surwDLVPmYd04T06brCizJL4muhksmjE++9JRyDs59+9gra88xbFrad8tfAU2b4W7BNn9pLg9lVC3dg6Ap/PNYE4FBPu7F7ymyeV5hyU5Q04Dl5UfyVPEn1yePHlDVXI3IwW0uSW/5Kb2eVcg+/D4+ITKGZnxCVI0FyoEyGAQrb6uRq/4L5mwulb9xR6dN0ptMOMuZ4WpaBuV/RGbdeQIQ7m53I0wWOJTyUw==;WivQjXnsyOZb+34bM9ZcZw=="
+secured: "8OdCjfD015s5ABE9Vtdgeb05EMhK+aogETK/fC4fdCXvxBNdoF9ve0h07OnSuEJoRsfAyQiUCswOE9p1TyFn1IhX6CSFyKkW/UCLthBaDjNyRawMkmPfXaWoZlQqdX8x/vWIaFxgPXjkIPYrJs8IVx3kldaBVN4D773SfIiYL4UoKvbj0uIpuCZi7lgovEXUVIEPka2qYd99XRBh7RPadH9/Mg4B6FrjVEh9mc5dHFW/jUuLI+Q+wWWHvusspXwPudAJE5u86ckGdJWL9dt34O7AIUH5moJXfZLlkUq0bTipB/yoRiVBDcZQ7JCE7KNZOkYuXkzrECa9uxPTwyEqe9+BHPm1fwKAxhHzQgrwtWaz7Cnn+S8XH5RmQsqdnPWYYm6ECsu5X4f9WQ8nW2zv/w==;+kD3zV8deyAYStA3duR24g=="
 ---
 

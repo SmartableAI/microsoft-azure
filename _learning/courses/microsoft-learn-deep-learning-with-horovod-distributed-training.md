@@ -8,7 +8,7 @@ length: PT36M
 ratings:
   count: 12
   average: 4.5833335
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Deep learning with Horovod for distributed training"
 
-secured: "+LQhiB62MQcZc57a/ZRuh/TAgNf8CXy2VAw7u4EIEQWvdY/Vylp3W2rQQL2KSwsItP64f5QMkHjnQdW5JsZQGYJTf+ZUMiGi90XmBNctEAn5q0oIDr4OqqnfqQCDvqs1KxNE5uWufATs/G+U7CcpVJUSrzEtIQJJyo8I4XTd79V3Nfn/oN4G0uxPM/0fja3Fm6G7JWi+lCHhooEl+mncIy1AYzyR4vgZOpj0rGXJhkQmRyIIm2w+yo/p9GrbfdM7Ed4cVXTXF5uaM7kF2Tx52QCpbJjbhFXUZVY9blFQjE5ofn0Sj2sf+0oYrdolePU2Ptw5QgUONlFeBW5KIkCi0YFqhlVAh5XTYhNcOwuKgCoh9XTYf16DQaDcyvvElav/fIo9s6IF/4PA3K3pjtx/Zw==;9OmBk36tpFRuiPUaPWJG3g=="
+secured: "y2m0hnI93aPcE1CuWc6hn9/9iAJn0LpFf+/kj4THefK2swJzkI6t1vzDlFmUEv+qpLHYTmP+aMUqxQu1UjDQtaXTH1Zv/ddnK0FXXEGtxq8wU1trZBKjrvGG3rXQAata2mu1YwInaChXxSib8cTdd8B5A4drCLv5+nsGA7ALlBc8TLiBBm63TNOlfgI1S8VxN/3MFNoHhfdyv3CQIAapP7PG0kaxhWPsSXLa20o/IymlWqjK9mI7uMAa9zMNaI6MxqFn9HkFs1DSJul0gewEUciNt/9l2re0vEa/B83Go3Pgb5U/3B/EPMFOiBj1ljfB2v3zsB8BmTyWGh6SVpunyZyeQiL2BlXQethKa3H6dyivcadNDrRvXOy2NSjJzLtN1hXJq5dqNKKasIkAu/NMzg==;Fp0ah6IjZqOL8PvAwUd9EQ=="
 ---
 

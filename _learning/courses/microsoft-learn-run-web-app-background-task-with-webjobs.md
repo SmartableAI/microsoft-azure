@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 39 mins
 ratings:
-  count: 519
-  average: 4.4046245
+  count: 520
+  average: 4.4057693
 heat: 51
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Run a background task in an App Service Web App with WebJobs"
 
-secured: "9DOfL73/8s4Y0QTuDQzvyTgv1btyNfEDRzPwn1HZdyNN2Bz6PR02v/o/g3I4gObuMZkLFFQGsPx5G4LyiXsXF0tlW3z9LNq8W2KK44YIGHdQjcvD0WtavLqIF98wY7TE9v9IDZQFtRBoYVuzJvTdasw1nroE7cW88luUWaQtnGQVX1hL/vz/AcZwtpGdI9oz7+tKj56xDy+rxKuG2tt/1CQN5ybMxuc2YvBLtMnRdiUcbWNnxGBuD6EJuqQGyhb4f2gxQhorrHGd+hqDtkm7MTVUuiAGquqzdjpWcfiRmfJXss1dCP31jdw1d4LcbMuRqdxIsMVcPX9QWqf9j2ZXF9huzT7PmQmC1hcCL/N4ucqHlyk9AEmmEphLq74X+pfdQF3PmmoryZjDVjOTe0R45g==;gBnWEMb7Haqrvzq/TjzRVg=="
+secured: "FLryj3GF36mNVXrkNQUeByN1vH9CfBmY0j+9i1bx0nP1OifrmdTORz9RIiGdogNGjmd720sB2TiskkSNUvY+f2bsPEmPdZtDO4YCAKzaipKSonSAslplX9D9h4fhEE6JLEFUJK/i8cn2BJI926MK3ax8No2j2DSS5k90Qf1KeMOFucuNBEroCuRKC40aEY4ni3FX47i6rtWouA/SP7/3/nvMGwI2DpQf0RCN9Rb+W3gGrTiWPR3ZSbhi0bOCr/gDmW6TDigXCXVrkyF+hwV7gs1B2jZnPFOQYe/J2fZH/7RdJWgOU7oftTdytiuyzM/6xXv6NwOGTmjlYX3mEa0lCUGJ91UdxQk61/x8O59/wuPpJIz9Sakonx7tBN4NMlgzNiBKT2lXTvElSQMzPDAV5A==;Wzw+9v264ZOkym+XdMWNPQ=="
 ---
 

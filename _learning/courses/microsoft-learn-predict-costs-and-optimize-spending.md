@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 74 mins
 ratings:
-  count: 36211
-  average: 4.712684
-heat: 122
+  count: 36221
+  average: 4.7127357
+heat: 121
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Predict costs and optimize spending for Azure"
 
-secured: "00J8nmebMx4TH3xvLs5ncZOpussc4DS4p9sw8/U6AV7/Z+vAYFn+2WIxfP8z6jthKKNlSVflnLVfwvnl+s5vfrYAjjFoioYXboFKW6xPqc6hrBNEAWk4zKmXIMbn27yIfxtpFXrL9rlOicxzjdhCqqeYsZV6OtOEH9vFlysHnVVnq0NcC0e1x1wMn0KqdRq+0tIBzNXjhTj0X13LJhrxJ1lDOa7ARWfjdlbbCE1DrDyS65O3xtIZ/MEUvxM0WFAkBh0E4jNm9aDoBcYFXtcvRoN1aLupeZSsvA+4hdOdl/sbRkjrEWZrcJhL8/OapL5SAJm2kwXjMoawzCPvsuh99/qUIeoP4EQNuFyeSJJojXujV83cfFqK+L6xVP3aH1xp44bW23YVF9d10qzUPNOd+g==;s5+an4/B31cGtLrO7vWIhQ=="
+secured: "paZBIHjhCFAp2hjpE1RnAFxr2KPHbPXp3p4BrxzD64aV6Cxkx4t3bsyOti4PhOzcgLGF1QOJvpiT2EVZFAOg5siOjnCq7pdrgBggSnA+o6/EBWB4AP2X9xz6LpEeNnVsPJbSDFEW8hVHlkZKKhmHKdRGZ2cwsw9bABltD72oE+j4mq0pmgcLGk32pFLBlfJu8opmc8uFCJke0SmqwX7C/i531C/hADhmqcQNUWD/Lff/lHvdeWwhKUpKHpv3EJYJYgjPypJ7axbeI9dUe4RAMch1dUzp7Cq2w+YYubV9dnzYKrDXGF+Lg3TDSTrpFtzGZVeA+Fkv3pzJOMUM7+Wlz8JPzHArUGDhw4iVIXTBQ36MUKCUssYIoAH+RYOGAiReJS5vb4BnkY50eDr2dPFVqg==;laS//nXg3NzDDvo+tBNgBA=="
 ---
 

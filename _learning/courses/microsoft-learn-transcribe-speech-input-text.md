@@ -8,7 +8,7 @@ length: PT27M
 ratings:
   count: 153
   average: 4.6862745
-heat: 53
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Transcribe speech input to text"
 
-secured: "ULF5cvh46geUzsRve92UN9j93SgIWJjHbpG/B2/JZDJTqWWr6vYhh+STfmoBHmE/9alY5633PrTetqBa/U/nLUBM49FmC/yC9rxSKSSnOJZ8R9Fl14sdtEYEv8suXf1DjKzuzfSl+kTNIO9okfjEXlK3FjS7CXtPqBH1+LaIR27ajuRG27rypPBtYl81h2EijVMFLXHCggFC3nSYkl0O6mpcvzwCqKS9EdYxbM1FKIrq2BGB9DEycw/YvVZFK0MJLYfig29WaXo7f46tLur2nESvBAEWlkabEyPRjrzm9AVin1ytecOBt41zNLaj0xq7CT4Rbdu9oZOsW4RYk6D/pgzdNaPwWH0OEhdjiWjYK0cxvEs8EUdDCdLGlCK97DGi+BQGT2VeqUCHcQ/Mh/fpNg==;t/XiIli7FDeA3xEYLOB1vQ=="
+secured: "oB32WPvIz/hocLzXgbB9W3vGbXKbMpi03r99AHuUpC1JPWel0Ds95wyI+ovs4Jdpuvd3CabrkHU0BZreLMYaV5ChDw6m7rPM5ik3MR6sfCSKueVsN/SWSUbsIYpLvqKiaDMoR2H2QLeMYlzECQdIOVG+45nEWFeLA2iiP7gNJbvy3ifCbO7dqEQsEbxRTqgf0fUlqEIJ/9xqvEdA/TfvRq+PnlsbwZaDzmWcqBl8jkEdn/3i14EziXPEQcIlhmlUZgjBgEF1yvurQ9ciSEkHLz7lpifTzOR828s61fM6axjD7iBBWoAnFa2+aA+udHSM2DVYbgSsl/pBrIZFED7uf6BNycclpcdE3+1w5gG259azRgth6bJzZ4ENDbXieifHlYiI9sJeo/uDFCK9iqkgsw==;zuEHCM/100IW3ovqpQFR1A=="
 ---
 

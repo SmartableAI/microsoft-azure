@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 31 mins
 ratings:
-  count: 1320
-  average: 4.612121
-heat: 57
+  count: 1321
+  average: 4.612415
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Distribute your data globally with Azure Cosmos DB"
 
-secured: "oW614xFCd31ZhaEGf/Gv5iCnft+HFL5qcaS9JBKR6kXOAMYJUEqEA6gaZ2/L5lbDtsCZ6LW71Abdx687BShSGPLQYljnLq368azJWZRmgkvR0suRhUEvk8Nes14gE4dPldj55Zbx3ewa3b72ALxsKKbL+YmVO+N76aCX3qHzZlVGlEL8h2acyC4z+lepSq1GA+EG5YQnL4dwi6UFAXMza42cJQ1JB3sW7LtS4/1xvWLHoTuWyt9+bLF2alLusdIxDxN0OItxZ5PJC9/jfhDyb++cony2y53Gn0qZoHo5AWxJmhreo9SXIxe5lAaDGcpyO8XhhyJm3Ou+/1dp2XrCvH9fpkjNIEj4BhbXiqRu9P90uuVJL8w5q2Kza7GbQRCl5XC1AKt088480qg2huraeA==;0X3v893ekTTesVoyIWCFTg=="
+secured: "nziqxfSOOde5eEEnr6IVVR+oJqTdU5In5C9Yr012h8NF+o/9sXCNgAQiQqWJp7jiLyjFzMTfKArvs2Q1XPsNQxFRm8dRQ4Asy3/BDILvvs2Reos2FNI/xKE867j7oDaXOhC9TAWASmdVCHQ2Aap+Mt8G8rU1es8Gr3lXgrgcGBzFVnGcv43ebks4Y1Ff2A95pDYgeGbv3gpElBnctjHUWlGj97wpao/T8eG7h8ur54PRXewfD0qa45GAQR6cGGUpqHi5tBD+7QBWXjeEbsBdHHTxK/urD+AqHTme6VDNabEb2U0g7M3YebNEcgxBtoh8qwFvyh/qCDqOCwk2toHaGsAvn7M+MfbhAoYBERQV9lPMsjfvoOWcHx3rovftvUFyRc7D9wtk+XW4HLpErh6qCw==;PtUDV7OPP21ZD6ay8y20ug=="
 ---
 

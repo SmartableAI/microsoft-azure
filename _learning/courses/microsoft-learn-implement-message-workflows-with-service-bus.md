@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Implement message-based communication workflows with Azure Service Bus"
 
-secured: "BQ5hie+F6/+2DUlgxNivHpArNqY/M9062dEd+leFu3nJMZQTdLk+WwqFeA9gXDJM7V/6J5b8xKZJpJ0/v7eHJcq2oM5wr1JCxX1tpn+l4BM219nFoUYSYvRCRGNempQR+4rO9peF6pExOrxGHiBwkL1YcEEwgdT1iVTK9OdzKhO3fJa3H344806VgQhe2XYiaIvXp8Xbgjxp3Ve7anNaGEdRrfFKNiH0Eot70kup0PBiTFE91B/EupiTNS+7s+En2759GwCpuzD6UdMxQ4s9+bRdXP+4m5s9LtQ76v6G+aZPGR68o505wxrlOnrjkRAisMc4Yp7u7/8ICRbLTO2eUlhIUyjHXRPqdd2KcCBxJaEyEKvD9L6gkf1/0WiRXGmaOO/UoEnKOZLWRaz9KSdKHg==;2rkCiwUl6tN6wQPM4nSsyg=="
+secured: "Zjk2d8rNkdxQ7WztssvyjerLFIF/LbfzCB93J7/pazOEjkaxbGlOlFrYPzs45MADwYEX/mrkDUMFJ5lfzJFcjg9II7EGDR5CiK8WBrstuCzAuaR4j3/5Z/SztAAJ17xtoQlPiH1BbyheJOdqTL4Qq+bC38GFq2PV6I25Z/A8SIG8oMWXjlTdqewALu4+/RLTTjEO0cY8FI0FvbOu/F2NLKxDKfCiOWVFVDKLGPEMoDh8qgi0NntRJBX31HZiA6VdR1Jwj861irS98Bb7mYBQ8LqraYmRh4aI3kHVELsYDJtA+Y4LQIM3fewwdGIzPCznnx9C/JuKwgi2WhxJzhCIuvNjOTyGQpNqPGypds/lSC2RhNx5sVlvUrn1OOhLbw2MflixrXls057q/FIqlfQPog==;rripdlW+dYRE0B8TYyj1+Q=="
 ---
 

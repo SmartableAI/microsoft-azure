@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Track wild polar bears with AI"
 
-secured: "jjDWPNxPouknYNYJ0cvejL6P6MykJzcB4yXbQkeOknZ/iavpqTYoBNA4UoVCPiH+01h9eOLEEOeBP12JYB23BQFD+j6PHX23dA+PWM2lThm4rfX7gOxiG0BkOm6dxCS7x/VSAiNk+F70eKANOa+WpmEEU1c72/ctEjMDwY4UyZo/1NJx5LwtPLu7nxjXlTvmgxXOgTG6Fy3REq0MMPhj1601pm6HxhlflVHYDiXIMUOff/LD/OqmZZsDQegq9ZgBAgsawH1Snp78pDMtQjcHFQjfauiWSn7ksz7oQUXg8puH6dmTVlctHx627GxZH/P8jw/uqKLvgC8lcBuNvUORuI97sIqeP4+Tl8GLW3oFqdq58oiRVgiEpw8DSjfOncpkQ7vSU/dmx6fopfP5JvFp5A==;tWiP0dLkuU8Q9m8ed9uQyw=="
+secured: "UzCkUI7ZlHGBd2Cgr/63/4OW47Hkq+MZNFaYdwtejRudQVCCAhpIAhc+kdY4vqEdbpWbx0B9VcVOs26awW53FrqLZ1fMbjU63LXLkaV3COg4PhO8p4SGn0CcomXounIw7RtV7hFaEyyatD8QN237IypHGaS+E22M++8+fheHK+OXgivNon+gZkcVjTuqA9UI2doz/rl2sZe9nZmEJl+M2KFfsw4hd/qM1wT7p9whSEI6Pk0Q+EsfI0DZLNgQvzp+GAFMDyJP4ckb0ctUDqieHHP47lxX65Tip1W/2rTZ3R+BFeQWgOp0cyqiU02CalRi6PLlUv8uhpol8UZzpoy3qRwh6Z9jq/vgwWofe+7CmMgXU9Y1qt6Cf1D6ovRl8ZcCAdXPVLxd3RQ4VUyJbUcg3Q==;mLtvI0WEdgy0dy/npw8Qhg=="
 ---
 

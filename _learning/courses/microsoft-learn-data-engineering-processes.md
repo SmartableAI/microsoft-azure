@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 25 mins
 ratings:
-  count: 3475
-  average: 4.701295
-heat: 65
+  count: 3476
+  average: 4.7013807
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Identify the tasks of a data engineer in a cloud-hosted architecture"
 
-secured: "qZYeik6uEyO0LQbK0cgK/iAiI+ymPyMqIzFddoQ24Tg620xyAk9YvLyJXs4IUy9haEg4Lzy00AZ6sNUcNL43WKpr1j8FGfMUvVrx9zDzlSxfW/D4sMU07+w82G5nBTJq+uRX4+2dKUJgBftMX90s3s/td9O1E8AKu7JvgoiAT3W7rkf9JprFs9zkvIzawZ2+r62bmKIla5PvU6mhWjG9Hq4bsMHu4J/Jz2gsWBTA4gNk/s5sSrr5O67wtrTMR8O9dNNhtVgPY+tlSxgTkOOJ2X4HmR/7qEdY2v6K7U85PD8LFEv9kGX8UqSQKnyFM22lqP+cY7tTusWaoBCiD989sPGbjjww+kuPe+x5uBljEtk7WdDHb37HYhZXCqOH9e7dZMT0JiH6654qwojA7Q4Rxw==;nJrq6WhkSWxvug9vDp9lgQ=="
+secured: "cSSNjBTjAP9RFuxofUDRyEmGksOG+frygX803mydoXAnSzSbeMW8ZXVLxlHLIdMMiwbSL0cjtvDCWpxzKWpVLuJq3J4YsFcKdv6AXpIDK6/2y2pQpKaWapXd/UVhAkFbTh2GwWBR50GMW9ZHjKoZmi8TuMm2VY/30wcAxppQJJO3dNyTKq4DjU5766iw7Oahhz7MT6kSDQT/fpfb41gXrX4I0oaXpk+vk3JDTtW6N1Io2/y4taN1s5f+4uJUxv+rnqZyPdvTQhYHEfipAYY9RF4kejZV1Jvnhv0wf0KjgOzdSnpZb84yNx1VpszWTe7zmzBGddLnPcnYSVsiCPMWIY+5NUb5wNusCkUbeiYyDMEuJoJQGA/KJdfbicvc7WgSvNEWh6TKYHUQX6KesMGn/A==;YOEl7Ntj03v94qb2ItFPrw=="
 ---
 
