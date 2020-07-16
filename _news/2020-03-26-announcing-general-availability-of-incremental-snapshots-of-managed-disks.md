@@ -6,7 +6,7 @@ publishedDateTime: 2020-03-26T10:00:04Z
 webUrl: "https://azure.microsoft.com/blog/announcing-general-availability-of-incremental-snapshots-of-managed-disks/"
 type: article
 quality: 81
-heat: 101
+heat: 121
 published: true
 
 provider:
@@ -37,6 +37,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 74
+  - title: "Announcing the general availability of Azure shared disks and new Azure Disk Storage enhancements"
+    excerpt: "Today, we’re announcing the general availability of—enabling you to migrate your existing on-premises Windows and Linux-based clustered environments to Azure. We’re also announcing important new disk enhancements to provide you with more availability, security, and flexibility on Azure."
+    publishedDateTime: 2020-07-16T09:00:39Z
+    webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-shared-disks-and-new-azure-disk-storage-enhancements/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 68
 
 secured: "QYfLWS3uMkL52ucfpGyoy9gEjD+zU6YCZWoeAvuMQNNnRlG8Gv1Nrq1SulDBiFYW777+OhnxAyyPVE89E9vejOyW7jWWhi8Dm26Pr2VTkdz/O/XpEc12lwx2af1Bq2VM4H7XyqBkAPXaztwVlFN3p3XM6e+/rW1CMooh1D8+ept0dA65y/vemiO8lN3Mc9hrEpbrE9tGdPtbRMMusZy1PhQbiM6mXmlYhUjzWv2q6qD6Gmv2oPtJej6hYufyiZ5HyrSXYWvwFBPfeyb2i5Fu1BymS0VxR/dH7I0M38OgnvZOVYh6qpdRlVBYvZnxtZ524Y65sTRKvIjUFf/aJ0x0Cg==;9xp3cILb4pvV+vUkSzm1+g=="
 ---

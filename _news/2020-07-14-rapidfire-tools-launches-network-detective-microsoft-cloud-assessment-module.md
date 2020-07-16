@@ -21,6 +21,20 @@ topics:
   - Azure
 
 related:
+  - title: "Barracuda Networks launches new SD-WAN solution for Microsoft Azure"
+    excerpt: "Called Barracuda CloudGen WAN, the service is pitched as the first SD-WAN solution that runs inside Azure Virtual WAN Hubs. A virtual hub on Azure is a Microsoft-managed virtual network that enables connectivity from other networks with virtual VNet and gateways as optional components."
+    publishedDateTime: 2020-07-16T17:30:00Z
+    webUrl: "https://siliconangle.com/2020/07/16/barracuda-networks-launches-new-sd-wan-solution-microsoft-azure/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/Jenkins.jpg"
+        width: 985
+        height: 657
+        isCached: true
   - title: "RapidFire Tools Unveils the Network Detective Microsoft Cloud Assessment Module"
     excerpt: "RapidFire Tools, a Kaseya company and provider of business-building IT technologies, is releasing the Network Detective Microsoft Cloud Assessment Module, a comprehensive Microsoft Cloud assessment solution. Leveraging the data-gathering and reporting ..."
     publishedDateTime: 2020-07-14T19:10:00Z
