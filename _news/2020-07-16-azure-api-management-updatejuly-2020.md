@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Azure IoT Central UI new and updated features—June 2020"
-excerpt: "June 2020 feature updates for Azure IoT Central are now available."
-publishedDateTime: 2020-07-15T23:00:33Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-june-2020/"
+title: "Azure API Management update—July 2020"
+excerpt: "A regular Azure API Management service update was started on July 8, 2020. It includes new features, bug fixes, and improvements."
+publishedDateTime: 2020-07-16T00:00:31Z
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-update-july-2020/"
 type: article
-quality: 77
+quality: 97
 heat: -1
 published: false
 
@@ -19,6 +19,12 @@ provider:
 
 topics:
   - Azure
+
+images:
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/22268971-76ec-40e1-9ca2-890b6850038e.png"
+    width: 1211
+    height: 752
+    isCached: true
 
 related:
   - title: "Azure IoT Central UI and documentation updates—June 2020"
@@ -34,20 +40,6 @@ related:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/60860f53-51d9-40bc-b1a9-889af6a986f9.png"
         width: 827
         height: 552
-        isCached: true
-  - title: "Azure API Management update—July 2020"
-    excerpt: "A regular Azure API Management service update was started on July 8, 2020. It includes new features, bug fixes, and improvements."
-    publishedDateTime: 2020-07-16T00:00:31Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-update-july-2020/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 97
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/22268971-76ec-40e1-9ca2-890b6850038e.png"
-        width: 1211
-        height: 752
         isCached: true
   - title: "Azure IoT Central—March 2020 updates"
     excerpt: ""
@@ -67,7 +59,16 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Azure IoT Central UI new and updated features—June 2020"
+    excerpt: "June 2020 feature updates for Azure IoT Central are now available."
+    publishedDateTime: 2020-07-15T23:00:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-june-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
 
-secured: "1QzRl3pRNCqu3wOrZsqpjZbSEKH6694cdx7rGLGckITcvtqSCKrO/0RzCbi39RHYQEevFhXcdHcMrJzxfph1H6k8CelCPrGE8SPlrpt0rQbPaDY7Ug+blqBtlwtreL3R4mqCjurzmmHOJ4jq0Z0P1aCdvUzGpctVST3U2Nef+Drgjser9YiYizCEKo7DO6ARVXQHnzO4C0Q9giJvqmoiDrlLcIfNcdU07puAi8H+rlTTVUDvFUUIgE/F0MrG19iN5hfC7nzzOCE9XlQ6qKo2Qbuei/yvSRjZvEKRWfPMDPcIC2LutrS8oYgz1dVkxZeKatkmjJoPLZ+woLM0b/o9XQ==;XYPpO1VSiDOknwzgKn7yPg=="
+secured: "bhQ118cTnMC3mWy3r5hS1+7RHowF87nX3j1NwVbVnu3EewIgTLdg+ExRMqXN7iD0yoEN+Dp75rgoXuE1erKLTI2yrD81jbedKwdGeuuQI7amojI/nBWHP/iqslC+hvb2XJsBTMpnDLY4OlzR0Cxedy9/ogzJ0x0f8kBvo8rOFfMEqWNm9ebMKeD77Ueyc+4E0hMmiN98wkNEodanallZciBYDLvdARxv1LhE1ju7MZCw6on44T0ujwfyMAroCCeakoP1nZNigovLPzTdjht96pW1HU4UyAXxbZ2fVMO44241KObtSm/24fZPsW6SqQmATPvKxSqZ/YgbyoR4Z9L6HQ==;zqE22688mu0dH9ZR/qcF2Q=="
 ---
 
