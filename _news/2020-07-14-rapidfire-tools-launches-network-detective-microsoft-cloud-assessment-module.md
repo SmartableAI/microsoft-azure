@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-14T11:26:00Z
 webUrl: "https://markets.businessinsider.com/news/stocks/rapidfire-tools-launches-network-detective-microsoft-cloud-assessment-module-1029391530"
 type: article
 quality: 39
-heat: 39
+heat: 79
 published: false
 
 provider:

@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-29T00:36:00Z
 webUrl: "https://www.helpnetsecurity.com/2020/05/29/rapidapi-microsoft-azure-cognitive-services/"
 type: article
 quality: 37
-heat: 37
+heat: 57
 published: false
 
 provider:

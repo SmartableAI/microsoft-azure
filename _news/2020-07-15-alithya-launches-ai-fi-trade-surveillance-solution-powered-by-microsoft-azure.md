@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-15T11:39:00Z
 webUrl: "https://www.prnewswire.com/news-releases/alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure-301093861.html"
 type: article
 quality: 33
-heat: 33
+heat: 93
 published: false
 
 provider:

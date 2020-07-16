@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-17T21:09:00Z
 webUrl: "https://www.fedscoop.com/judge-allows-dod-take-corrective-action-jedi/"
 type: article
 quality: 22
-heat: 22
+heat: 42
 published: false
 
 provider:
