@@ -1,9 +1,9 @@
 ---
 category: news
-title: "Azure IoT Central—March 2020 updates"
-excerpt: ""
-publishedDateTime: 2020-04-28T23:00:43Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-march-2020-updates/"
+title: "Azure IoT Central UI new and updated features—June 2020"
+excerpt: "June 2020 feature updates for Azure IoT Central are now available."
+publishedDateTime: 2020-07-15T23:00:33Z
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-june-2020/"
 type: article
 quality: 77
 heat: -1
@@ -35,6 +35,15 @@ related:
         width: 827
         height: 552
         isCached: true
+  - title: "Azure IoT Central—March 2020 updates"
+    excerpt: ""
+    publishedDateTime: 2020-04-28T23:00:43Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-march-2020-updates/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Azure IoT Central—April 2020 updates"
     excerpt: ""
     publishedDateTime: 2020-05-14T21:00:32Z
@@ -44,16 +53,7 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Azure IoT Central UI new and updated features—June 2020"
-    excerpt: "June 2020 feature updates for Azure IoT Central are now available."
-    publishedDateTime: 2020-07-15T23:00:33Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-june-2020/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
 
-secured: "lLsiL7y/5SjQmSvMgP/IfKAjZHcZdMfMC9no31XTrlCZNGWibCSqj9/4zNIbA8JGtpzED4F7PqOyyzsHdmFuQ5qF6fayNwyhKMbsZu3VaoOhYPgK7uhVcQA3S3oZKo7GNyfEehPA5jId230JPqN5uzRWsg4LZg02LEwnnjTqPs5eXCrdXscyAOtNXG55qQh4TY7u+pM1o7ofcj+7kPoVWtSoPOPBHO6txdF6AQYFGLblDPjEr1ESqtQSXyTbQO3EBilq1CQRCKX2Mq0wbiNEXXQg1DgJu/V8GYsa8LUbjiJAHbMS7ZdJuULPeOqTJY9fjBkBZw7khwaV88QIYKeeCg==;W6L+luw9iIDn0t0xB6JIUg=="
+secured: "1QzRl3pRNCqu3wOrZsqpjZbSEKH6694cdx7rGLGckITcvtqSCKrO/0RzCbi39RHYQEevFhXcdHcMrJzxfph1H6k8CelCPrGE8SPlrpt0rQbPaDY7Ug+blqBtlwtreL3R4mqCjurzmmHOJ4jq0Z0P1aCdvUzGpctVST3U2Nef+Drgjser9YiYizCEKo7DO6ARVXQHnzO4C0Q9giJvqmoiDrlLcIfNcdU07puAi8H+rlTTVUDvFUUIgE/F0MrG19iN5hfC7nzzOCE9XlQ6qKo2Qbuei/yvSRjZvEKRWfPMDPcIC2LutrS8oYgz1dVkxZeKatkmjJoPLZ+woLM0b/o9XQ==;XYPpO1VSiDOknwzgKn7yPg=="
 ---
 

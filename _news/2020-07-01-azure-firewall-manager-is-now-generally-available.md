@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-01T08:00:06Z
 webUrl: "https://azure.microsoft.com/blog/azure-firewall-manager-is-now-generally-available/"
 type: article
 quality: 97
-heat: 397
+heat: 417
 published: true
 
 provider:
@@ -113,6 +113,15 @@ related:
     excerpt: "Azure Machine Learning studio web experience is now generally available and bringing new features."
     publishedDateTime: 2020-07-08T16:00:19Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-machine-learning-studio-web-experience-is-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure SQL Managed Instance management pack is now generally available"
+    excerpt: "System Center Operations Manager (SCOM) management pack for Azure SQL Managed Instance is now generally available."
+    publishedDateTime: 2020-07-15T23:00:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-managed-instance-management-pack-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft

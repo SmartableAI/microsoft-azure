@@ -1,9 +1,9 @@
 ---
 category: news
-title: "Azure Storage account failover is now generally available "
-excerpt: "Customer-initiated Storage account failover is now generally available, allowing you to determine when to initiate a failover instead of waiting for Microsoft to do so."
-publishedDateTime: 2020-06-17T17:00:26Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-account-failover-ga/"
+title: "Azure SQL Managed Instance management pack is now generally available"
+excerpt: "System Center Operations Manager (SCOM) management pack for Azure SQL Managed Instance is now generally available."
+publishedDateTime: 2020-07-15T23:00:30Z
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-managed-instance-management-pack-is-now-generally-available/"
 type: article
 quality: 77
 heat: -1
@@ -81,6 +81,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Azure Storage account failover is now generally available "
+    excerpt: "Customer-initiated Storage account failover is now generally available, allowing you to determine when to initiate a failover instead of waiting for Microsoft to do so."
+    publishedDateTime: 2020-06-17T17:00:26Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-account-failover-ga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Azure Speech Services REST API v3.0 is now available"
     excerpt: "Azure Azure Speech Services REST API v3.0 is now available, along with several new features. "
     publishedDateTime: 2020-06-25T16:00:28Z
@@ -112,15 +121,6 @@ related:
     excerpt: "Azure Machine Learning studio web experience is now generally available and bringing new features."
     publishedDateTime: 2020-07-08T16:00:19Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-machine-learning-studio-web-experience-is-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure SQL Managed Instance management pack is now generally available"
-    excerpt: "System Center Operations Manager (SCOM) management pack for Azure SQL Managed Instance is now generally available."
-    publishedDateTime: 2020-07-15T23:00:30Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-managed-instance-management-pack-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
@@ -181,6 +181,6 @@ related:
       domain: microsoft.com
     quality: 59
 
-secured: "AyncvyAZswaE1stVZBDt0SquvaEbyIdVHnpNMOEMjPLKdeEPNh1eECGJHHtxmZxw9gk47FIp0eZQI0DVVv0t49sy02kVaziI6dxtKQJqXGCixkUGNiqgXcclWMy+69W2DBZwXTLPxD0M5OV4Vi6yow+80RWtBOorRCacSwePRSblsRWW3A/nnXFMgcA1MkzgR7Gmd4MhHYYWQuxIk+/TXYRgDH3yslWI219tcx3dmL4QgLZya8mHTbjwoUe3IDH9DRUuwzB5IKGdYVMRsRdfLVsMIqF0nO/riFr2LdccASjc468fyrBAf6yuKqQGUI87viMcCXoWmacQ/Yt3ABwY0g==;9xOWvEnh2mb5hAZbWjWfGQ=="
+secured: "DGD0exgc7AR4vMY8OkYIRfq8dDGzyArU9SWARwP+7pWLSGOONBwt+RLl8YCxqUuy0Q89D5Rmjmx++tn9f6Ik5PhkWITHvdywmmBPa1iclDKrgQ286zhS5FFp7CMD31OiIKVlY5Xl61u7orU5/7UJ9MXB0qAVuLkiWPIyC3Y2XBPCNTTNeSjPzHGlQuJ6wd07foGxqy8EAEQqF/Fo9DQieLIL8VjgFC9LPKbiBHTqV9bs/zzzESibJ7W7ZSj+nYhxSk4nXk8BjePW4eXCKGz0KkSvAUALWXdM8D2T0xP5hiirpQvOV9WdCyMWYiu4gmfSeqo4fdpIZ6OJzVGA15np5Q==;qdGORDE0LwzrQEukDTzuzw=="
 ---
 

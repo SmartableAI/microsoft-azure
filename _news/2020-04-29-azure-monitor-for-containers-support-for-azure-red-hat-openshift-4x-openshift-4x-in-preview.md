@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-29T19:00:03Z
 webUrl: "https://azure.microsoft.com/en-us/updates/aro-openshift4update/"
 type: article
 quality: 65
-heat: 65
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,17 @@ provider:
 
 topics:
   - Azure
+
+related:
+  - title: "Azure Monitor for Containers now supports recommended alerts"
+    excerpt: "Azure Monitor for Containers now includes recommended alerts. Use this feature to enable alerts in one click on your Azure Kubernetes Service (AKS) clusters. These preconfigured metrics alerts enable you to monitor your system resource when it's running on peak capacity or hitting failure rates. This"
+    publishedDateTime: 2020-07-15T23:00:32Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/ci-recommended-alerts/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
 
 secured: "UzILw02iLMIqtv69+1MAfhu7cRi4O9ClWQuli1VRBbTXzJne6mqFmBfN34lrEEAixyZ211M6F3Nlmfnph6pxj0O63BeIODD9uNV7B8ApymfAWKnsGob8PGXbKXmp4ALV+u9HTZJ+XfQLEOIq0WGfJoyBWKMr3poiV24qlsQB6CeGqdltKKI8OcacALrFi2DJoOChhtFrBVgCZsSSfYNwgP8TreAf0nCuh7pQ9bNLTrS8/94xRt4jKye5MiVrvRO91AcEiNQlHnhbIt95j3QjZCBmPI1h0k4j7NSbnBmsREHAiozfKpLEXYzQv32tIo1YjZonx22jnRnrOG/KfdNT4w==;h7LBv4HRShoFac/uVSxNMA=="
 ---

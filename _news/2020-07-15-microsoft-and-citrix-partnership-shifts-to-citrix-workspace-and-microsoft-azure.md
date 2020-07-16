@@ -1,20 +1,26 @@
 ---
 category: news
-title: "Microsoft price target raised on Azure growth"
-excerpt: "Citing ongoing cloud growth, Wedbush lifts Microsoft's (NASDAQ:MSFT) price target form $220 to $260. Analyst Daniel Ives says the pandemic-related remote work trend \"is further catalyzing more ..."
-publishedDateTime: 2020-07-09T11:35:00Z
-webUrl: "https://seekingalpha.com/news/3589771-microsoft-price-target-raised-on-azure-growth"
+title: "Microsoft and Citrix Partnership Shifts to Citrix Workspace and Microsoft Azure"
+excerpt: "Microsoft and Citrix this week outlined the current direction of their longtime collaborative partnership efforts."
+publishedDateTime: 2020-07-15T22:11:00Z
+webUrl: "https://redmondmag.com/articles/2020/07/15/microsoft-citrix-partnership-shifts.aspx"
 type: article
-quality: 17
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Seeking Alpha
-  domain: seekingalpha.com
+  name: Redmond Magazine
+  domain: redmondmag.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/140813VRTCloudOrchestration.jpg"
+    width: 647
+    height: 450
+    isCached: true
 
 related:
   - title: "Microsoft partners with Land O’Lakes to build agriculture tech on Azure"
@@ -90,20 +96,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Microsoft and Citrix Partnership Shifts to Citrix Workspace and Microsoft Azure"
-    excerpt: "Microsoft and Citrix this week outlined the current direction of their longtime collaborative partnership efforts."
-    publishedDateTime: 2020-07-15T22:11:00Z
-    webUrl: "https://redmondmag.com/articles/2020/07/15/microsoft-citrix-partnership-shifts.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 33
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/140813VRTCloudOrchestration.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "IFI Techsolutions Recognized as a Finalist of OSS on Azure 2020 Microsoft Partner of the Year"
     excerpt: "IFI Techsolutions today announced it has been named a finalist of OSS on Azure 2020 Microsoft Partner of the Year Award. The company"
     publishedDateTime: 2020-07-13T19:30:00Z
@@ -132,7 +124,16 @@ related:
         width: 2560
         height: 1340
         isCached: true
+  - title: "Microsoft price target raised on Azure growth"
+    excerpt: "Citing ongoing cloud growth, Wedbush lifts Microsoft's (NASDAQ:MSFT) price target form $220 to $260. Analyst Daniel Ives says the pandemic-related remote work trend \"is further catalyzing more ..."
+    publishedDateTime: 2020-07-09T11:35:00Z
+    webUrl: "https://seekingalpha.com/news/3589771-microsoft-price-target-raised-on-azure-growth"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 17
 
-secured: "Fa3tsTkZw9jLFOCdjSACfFo7ouCuG5U1x+197KU9qAvQqMSXrh4NDUq/nEgqi20T6HD8Ec5gAKxzmD3X0ZU8OJbW2EfbGXDwPSpgRQ29DS/jp7eeeQ8nQjDsenPqi0N953/ul4oIBPoI8znWBHArxlGuAcOxx7UyvZHaS8kakPVRYdDkv89Hw2mmrUnkoMiV1WtS7oUwvYOhV8JCHjpJMasB6vK3liuEpUKEpoP8E9Nmpx+QdhsOF+dKlhalug4ELlPaAUw8ccKsqOCOsjSJqRF6vbq8p3hmt175QVyT03dKPiY7+uo2uLAuOJ55Z6AgHNiYqoTrI5Ca2KP9M95Aog==;8fdMCoWTNJBE3+hFfqChZw=="
+secured: "QCp1hkBWsixm+kvkRHFDUjtuVQx1izpL6rwrD4U1g4LoL1OdGrGjW6rCaWe7SeVccAmc/UDtCn/oWmwDX3Sn4sgCXLQEc1xZ/S5+i1e1n2uWiEOtAOCLAsQt6o60wKDMsHe76XPwxPaSZb9VzFH2Cnti3lW6h7s3M5stUOkQdYJfswiZwj6SAFdR5yjHWcS+91Xw+mvdzZKiektHUpFB8IgH3QOfZlZJxCp50COXb4gcS/MjtCLGGRc7J5TvyVdQJlK1x+EBFNnV+s1tM3Kyooj3hbAVT3DYh9PoGlyMJ3IZN3q5kR11z8Yu0f6KdEF+nhaNSAoSNKmtLDtxSkOyzw==;RYnVGWTfipqlEcJEbZ3/NQ=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.geekwire.com/2020/microsoft-partners-land-olakes-build-a
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/amp/"
 type: article
 quality: 97
-heat: 237
+heat: 257
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
       - url: "https://assets1.ignimgs.com/2020/07/09/sale-29760-article-image-1594323751475.jpg?width=1280"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Microsoft and Citrix Partnership Shifts to Citrix Workspace and Microsoft Azure"
+    excerpt: "Microsoft and Citrix this week outlined the current direction of their longtime collaborative partnership efforts."
+    publishedDateTime: 2020-07-15T22:11:00Z
+    webUrl: "https://redmondmag.com/articles/2020/07/15/microsoft-citrix-partnership-shifts.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 33
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/140813VRTCloudOrchestration.jpg"
+        width: 647
+        height: 450
         isCached: true
   - title: "IFI Techsolutions Recognized as a Finalist of OSS on Azure 2020 Microsoft Partner of the Year"
     excerpt: "IFI Techsolutions today announced it has been named a finalist of OSS on Azure 2020 Microsoft Partner of the Year Award. The company"
