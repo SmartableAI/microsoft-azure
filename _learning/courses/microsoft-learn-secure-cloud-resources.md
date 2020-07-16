@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Secure your cloud resources with access control"
 
-secured: "gmYe9Pj7NZms2LUMzfLOo0h9dZdkMYrOAyYbGnbc7fXrRG8L6xVk3sa/pG2V9PGzKsU4RRgWIZAYbbxhtvwuqo0cnJOB4SHjiOSvg406/dgoijvi006d+i7Vw1Wf8KSV4w4FWS83cI95G5WFgdXJGKRvTZ5Co0dPj+tlVC8J0hMcz00U38MxBR8igKHVa4+uEXptd9ZEJJlqAxOmbv0BQhfFgsX/vIpR0Ykzq3lpnx/yi0dUD8IGhjKj67JGcJFf3ZreMZAD/hjNEesWow9wxD6k3gAmzU6P5Te3ma2do3ASuludHrUzypYLcn2k9ISwDxBTvdsPUhOY+S03+MPHEzmHuS6z/BuAbDRW3wIF5NDQOYCBuCiI4l+K3ki8WEPf+5TwJszk2Moc3itL5RQQGg==;mw/mTVuZhnPRrldjblfelA=="
+secured: "ROkKs7Eel8tM50CgL0YotFF5+R6OCdwYShjMa+QHzh/BxhT/pSXmfYI+84Ngc5KisanOJc9DH/X0b4UoMnw85BHNG1HEjKRDVQKRAo7jMLDynfAfr3KJzJ6yM7ZWmBKmUudNqvxmZBL73wA8p8fTIaUh9+N2lynhOR9kxyoHHhHJEG/qJBQYuH4+a7F56x/Xw1R64S/Pwun3qlfeGYmbMcykco+IjW+SgS8mpjVbjUKxFx7YMXNHRoDk6NB1PWjAsKpK4cvjuX/+2lwdmSVXS6ZEuANjkoSDYZBzIO4Vh1lcpfscY6CgB6XdGyrodWTH8+PldfvNk49i6vXflaVcXOxFQ1cjL7jdQMLs2QrTBev0RYhg1eJbFRSvzNJ7lJgOIqwZetNhwhFjiEyUy0rZPw==;f/+q3ft8Myt+qAUHmDq5qQ=="
 ---
 

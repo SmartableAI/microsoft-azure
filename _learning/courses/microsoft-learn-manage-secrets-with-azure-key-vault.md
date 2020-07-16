@@ -8,7 +8,7 @@ length: 46 mins
 ratings:
   count: 1249
   average: 4.583667
-heat: 55
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Manage secrets in your server apps with Azure Key Vault"
 
-secured: "uEm7755VrhN8xHq9+Bnki1RcrxN02UWfK4OWEaxzSubxLZcuxj5sMTtyFVEbhST15v/bN+yv0DdfCA6SJ5sdjpa8Uif5RoV0GdBgdmpfkvWFG/i/1i5pmgv6b0PgN7zo8JTbcV/Z4bPyTQhI8eAgYPe2y/ex+oVywnhXqki9jICjaApFwjifdy4TkUIGS3hy40u56EAuJZSPfv4/BgzXWlzIdqygpjQMjZ48UTZ2rvTbG0KZj6BmVuf+FOkZh1UPdBR+keuD6iwjjxMIEU7KZnrHeUq+Y32PtDV5hmGUi3+SSf7JAUlbxigpzv2bJ3e96LCYdKfchihxom72YXClvNSgaF9tvC0VoOhU2CzURNwjNLCcBg7XWrvi0ygOGjB330emrbVQb0Wwdah54p3Pow==;f2HjMrCQWwl91dpg2gEk6g=="
+secured: "0/fOTIeTBbzI7cxSt1JGlmlrjKjGa8VZWVoRHDNU71Ppop2QRUQmNKDGjBZFN+TW45mxPp2AA8NWKuL2Y49mpUTrB6ScqkFf+80r2QIYwsvEkP4Gk4nlQwy6sRB3VtZ+Z+QmWcrUtSA7gHVWEs05G6/qNBOUsAyFMLlY9z2gH8k9exhYj/PZ+oPegPx1LHR+R38P/jseTRWnGKSPKuO8Qp0lJH9In6DNDnrVmNZNfjfRrS6+RBjqlRAmoOIkQKrNZ9Ux+kxrSLsuGyCuqrMVbcsGG7V5e04nSishAhXaskNH42MEknDCmS9rz8A6lozrILK0nHQ1uCkeJyXgAIXCu4lfaqGPUtCTcpIaxP+L6xp3i8Zt/9FIF6Oo/o4VsuCUkaESW62tWmx4yMxi1AoDFg==;gZ8skm/RU8ZMCpn36U0/XQ=="
 ---
 
