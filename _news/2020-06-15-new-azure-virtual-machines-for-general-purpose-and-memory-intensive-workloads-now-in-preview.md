@@ -30,15 +30,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "New general purpose and memory-optimized Azure Virtual Machines with Intel now available"
-    excerpt: "Today we're announcing the availability of new general purpose and memory-optimized Azure Virtual Machines based on the 2nd generation Intel Xeon Platinum 8272CL (Cascade Lake). This custom processor runs at a base speed of 2.5GHz and can achieve all-core turbo frequency of 3.4GHz. It features Intel®"
-    publishedDateTime: 2020-06-15T09:00:47Z
-    webUrl: "https://azure.microsoft.com/blog/new-general-purpose-and-memoryoptimized-azure-virtual-machines-with-intel-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 68
   - title: "HBv2-Series VMs now available in Japan East"
     excerpt: "HBv2-series VMs for HPC now available in the Japan East region."
     publishedDateTime: 2020-06-15T23:00:00Z

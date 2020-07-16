@@ -21,33 +21,15 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Data Box Disk is now available in China"
-    excerpt: "Azure Data Box Disk is now available for preview in the China East, China East 2, China North, and China North 2 regions. "
-    publishedDateTime: 2020-07-13T22:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-box-disk-is-now-available-in-china/"
+  - title: "Generally available: Azure Private Link for Azure SignalR Service "
+    excerpt: "Use private endpoint to connect to Azure SignalR Service. "
+    publishedDateTime: 2020-07-14T17:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azure-private-link-for-azure-signalr-service/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Text Analytics for health is now available in preview"
-    excerpt: "The health feature of Text Analytics uses natural language processing techniques to find and label valuable information in unstructured clinical documents such as doctor’s notes, discharge summaries, clinical documents, and electronic health records."
-    publishedDateTime: 2020-07-08T16:00:19Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/the-health-feature-of-text-analytics-is-now-available-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 62
-  - title: "Preview support for Azure Shared Disks for SQL Server failover cluster instance on Azure IaaS is now available"
-    excerpt: "Preview support is now available for Azure Shared Disks for SQL Server failover cluster instance (SQL FCI) on Azure IaaS with SQL Server 2019 on Windows Server 2019 and higher."
-    publishedDateTime: 2020-07-08T16:00:18Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/preview-support-for-azure-shared-disks-for-sql-server-failover-cluster-instance-on-azure-iaas-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 57
 
 secured: "elFo7JW9xnWbpTQELBLzgzelzg2nTT+ohJT8unxlvKKHHk6ocmCZvXE+xjPLgj892Icc3izWkjIHh4AeguA1LbjglyvkCzBrEd7lijgOO14dcPbjAZrajvAWAWLC3RNqOsWzP0LuO/V3UBXdhyLtdVaD3FYC8K3WRtBZpPpQJiWHAMllNLd0oFyhtF5loXyMxVt2lK1lfa0Hy/KtFUHvZrZYQz6nA5MKuhSRa6Tkuk1VhvAlQdifjUIXSxRMjAdX000mE440KP8EQCXl2+Tl7eEvViaFnTozwpSdQLMXMoQLITC23JXgXqMeKbZRDAq9LiNxkg7MVtlFWGnt/YeBWQ==;lYtI+4bHolmK8/WcLWsyVw=="
 ---
