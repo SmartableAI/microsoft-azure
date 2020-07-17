@@ -6,7 +6,7 @@ type: course
 price: Free
 length: PT1H23M
 ratings:
-  count: 1
+  count: 2
   average: 5
 heat: 50
 
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Develop secure IoT Solutions for Azure Sphere with IoT Hub"
 
-secured: "iAf8KehDjt5fsw2YUy9Q5I2uBrtL+HV4MOT9Lwn2G/CKTOyvvXLnb1hAGO49UjU/rvuwc3y3KDO+AropIyqfAHpemvTIRBNmSaUdqZ+RH4yddDx1bzNPkojuxQ9NrRzUBe4NQV20pYvkfixUdZ/k6s5yJHs03aTJa59rcIt3z9vXe8trjZQZW666kHExeDdmHHhBebgKD8p6imkeXH8sc3440dFyWuS/D1HPBhsX7Oc1c4Y3sgarRvNXZzFxrjtXxMKtzR8NR5s1BwLfhNpFYMfCoNYB5WMildq0bFG3574qVPZRZhaIRmEihFnjTxxw+ZyrRtqJc2on38nev+WyUx8tl8CM69VqFCZVsE3TQn8i1xtYrUNau6r5J3BE3uXF+5hDq76Jy/SGYytBV+xuXQ==;8z/MdJ+wr5PjEncpRKN+fQ=="
+secured: "o45LFKL2kCAKG5G4s/BZbAyGjgFxY9kB6OEeOsN/palcx2jP3RCKLAyNzWKnlHTG4bkq27JnHtk4Rj2c0CsOhB/cbHEBdpF0Rr4AN4aITM422UyiPfkRCmxehGOeAdEYU1ZqfIP5S61JRCkcJWGZxLbWBh+pPVBum3yMc3/wtJJnepZoEPgDVrphOuNmw8fWa/nLU1c7ByQzbAeXTYIbnvL2MeypdP/Lx+L9lDjgHTOadvYs8EmTQqUE6jO/fJa+tu6hhMJ9JGEKrZxdD6STqig+K8nn9TkhS4OM/5wlBXW678p9ziXk7/cFGSKMo1sOIeUGL2pXMX6096pp3a0POTWyS5lVlcaXF4p9B8kaSKoJOzlRkOxqiGBdA825KWfj4tPOJEvQKBiXctpssMUb9w==;xIFeAT418v/sD9qMpNRHDw=="
 ---
 
