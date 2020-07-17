@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-13T12:12:00Z
 webUrl: "https://www.beckershospitalreview.com/ehrs/allscripts-to-transition-sunrise-ehr-to-microsoft-cloud.html"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,22 @@ images:
     width: 400
     height: 300
     isCached: true
+
+related:
+  - title: "Halliburton to close its data centers, move to Microsoft Azure cloud"
+    excerpt: "One of the world's largest oil field service companies, Halliburton joins a growing number of companies that have turned to the cloud to maximize their ability to extract fossil fuels. \"The scientific consensus is clear."
+    publishedDateTime: 2020-07-17T16:33:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/halliburton-close-its-data-centers-move-microsoft-azure-cloud/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 37
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/FrackingHalliburton.width-358.jpg"
+        width: 358
+        height: 268
+        isCached: true
 
 secured: "6IoVzcb3tMXaJfHkoiq+Q2mieD3Q1Kvo+yMPt7GRhTskUNk/B7vv/oBUNmyfqs8aKVwEQTk24CwWllZRJFkileGfaF3ZbAbQdNdKt8scoLZSW7XiwUNR+Wk9bdXc81Ak45ujKis828Bq0Ca+6c1he5dHIxqZ1gp5yBuhPIULlV2sBL7CBvZKdwUs68meVgLYEeoRTdp6zJ2Xc0jvQXvDs/+2R5S9SNQK8u37A5E4+zOGkFoIfr3OqJq8m7IRe0fG/ifwcuh7ramRvOSV5uCp+X7f8NWgV/YQEtd9YwhMl2M9i1LIfNCfRILAuNnctDjvQ08qsO6eyDHeyvjk9nvRcg==;iJ3uSAZUaj8zfWtQyuvw6w=="
 ---

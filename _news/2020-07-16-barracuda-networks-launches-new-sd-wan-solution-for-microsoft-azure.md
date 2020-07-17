@@ -39,6 +39,17 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Alithya Launches AI-FI™ Trade Surveillance Solution Powered by Microsoft Azure"
+    excerpt: "\"By hosting AI-FI™ Trade Surveillance on Microsoft Azure, we have increased our flexibility in configuration, while decreasing implementation time and cost. The advanced security features of Azure ensure that our customer's data is highly secure.\""
+    publishedDateTime: 2020-07-15T12:09:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/n16626911/alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16626911"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16626911"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 33
 
 secured: "2nBOd3WAdEXrYgEVVBI1sO+8NJW1nHRappvwz+MNHeB6qO4XIGIy9xSbjUf5DnYKOf8UuusmMOrFYiHE6Bsp72FsOjY8FehTnu4ncv0ia8/gNN/cM+lMK6m0xUSaeXifZlJEodcXj30xRnVXuAFAWF4ch8YZyMN9a7IbkzVerYswzFTSCkFLK1lPnhqGhT1SFbzkAexNabHbbDwbdPkEUnb2YeVpYOKbR/nkdhUQpuX+Q33KxSBh5MS9bBSYGTn0LtN7q3DkHIP4nvlF4fVC6+UvtSWMUJFyXcCJl2xQ8RWU9Zp+Cnz9eODCDwPz96tfwlnRS9MhFz9aX1C2jy4LNfbzJsg5C3goNiwYInzNrGfZGTqUsoqNvkF45KM+MCnPOYLX0NQJuUtDVCzvPdjww4Oz4aK1aGq/RAmIY7ZIdXXbxeXsFUy8LhC9ZAJGNuplaqqTPi8SvU09yE3viabq6kMg1J0KyZTCKo136dEXbivIW/jG2FLVoQOvQb19SnM4ivonWXzGE5GYKiZwPrAX4w==;foq+Bhj/T4TJlQkjnPlAQQ=="
 ---
