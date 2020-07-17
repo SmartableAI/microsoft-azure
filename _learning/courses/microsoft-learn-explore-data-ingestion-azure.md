@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Explore data ingestion in Azure"
 
-secured: "MNEADgWbfEgr5opBCYalH8Ute726L2Sj4SMDUWN42cAMD+mrnMYSmUmFmKzOrYHscM0hZyOUZii6ixF9XOVjav/XvbcKooelN7z0rOLqEuQOpPFenzolT/IqpnCZU/TZmuYyxkepSoloQAy+2Z07eeOzZYIwdovYDn8s+J+e3ytGmBhx0+qu2NcRqSoM9x0JJ//aGgGWmzG8tx1dZN8xE7C5iX1rKJQNKJ5DZsu9eFg1D1tRQ1UvqP6u4I6WfNvC9uU43A7lIW9+UDx9OVPqotrlVVJ8GgI0n5oBt53jglnFwJP1bj5sJHAByxd/7uKO+I/Q25zN/D4c3T/9kZTJucMBx5zE/GYD2+BFcPjT6EcZffs0+gZK2YAtXhxmGD7SztS8EOnL02rRVrBTMwYD5A==;1yt5nrh23UlI4qB0WaW1sw=="
+secured: "Cd0hnDvJiRECj9oXfyT3sSvQxBxU7LMGcmHldhbGihU1IkHRpb3QQtTwvLAudKIlR/xNTY1nPmjdsvG+yGEfR8C+H9V9CN9EHbYBlG9qEBOXgfmrIrSLNKnToDXI3QN2Nfs48+7ADWwdNw4vpqLbQ78sa2ICwbFYGj41YX1urUszuIZ+XU20O1UC6oqAf3AJjqPRooEp0gVOUdlIV+DV6yY+BuKqdi4wioxCFrusIdL83MKKLKk8Jj58j+r2b3wYHpePTBgAdm5qfGNK6qBET1sOPhVY+vd/ie7GgAeK+ADNdBlXKQrjqeITqjYXtNzeyQV3M/Gwh1eDntm9q+GrUwlenMejUQcBcGFxzc05hT9oG74SXIJIjNvKARMyZ+vj8sgaohXe/cOw+R7bmrW8Fw==;Dvn8mqZmuyoMh1WMkoNm3g=="
 ---
 
