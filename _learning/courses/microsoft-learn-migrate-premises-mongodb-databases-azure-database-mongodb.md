@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Migrate on-premises MongoDB databases to Cosmos DB"
 
-secured: "rnscoWuPivyUxQJBx/TkrmmlCc7+ukP5ji3WtZeX/bFuXeN//3zeVD9Pt0vvNVyIBpOslm3oe2GDHVrWEaVSGzkd5rBNypxW27ffagjJa2ETN+AeTf7prWRzvf1ndLB291doVfDzYK53yi2Zt5/Kf/svjyUIOmiVHY3lzmF6v32KYHh5mTsLPI77RfgUqv5DWeczkU1LNitrmGwt/gYPwAGAAHk3EQoG9Pf6H6MQrzV2rewU/xYLtYW1dt8GFx/MxxDbEh04yc4sbpliD6yyTliaslceUXteCNMHOLStVC30CSnXdGo5arhWLbP+TbWtKPXoP1GQ2cp/ffl76gigaq8WCMZnMr9YHC6Jt8ejgTvE/caexaZmOS5UZ+GZn/yBvOEonjofmzn66aucvK3zmg==;AdLf11namZWkV16rRMhp8Q=="
+secured: "y1C0NY5eUMAusLt3+e9oHSTDAHxxOSbqkJuHVGzjBaS7bRAUl5TFzns+XSpQW2yQXaNnVMR9+O5DjIGUEmLkPizAmoVkucEndWotGmpdKUOxUv5t2UjkMM2X+rT9cyfTCAz5AbM9MhJRp5CgOb78FqfCC8k081rsdU5qZ/JJBjq2+DH7ZKD2BotX77Z7JKdzCOhCB9heeP36jaHbA17qO7BHOXsOU+XJdHvPPvkmLOQGM9tq5K1aNR/aqPd5M8Fek7cg6at1hlB0TowwwDLPydPKqMQJ8+yixZEjxMOlc1TCxFQJlzezauvV3QFy2q2PKREEB7/RIHbR+o1stmb3VcmVDOXr5S54fM1peOfx+2Bxqe3X9EuzurpkmM1C8n2Y/0hzskMJce/tg+Je0CVToQ==;jMu+m5p3I4LiXxgnztH8Uw=="
 ---
 

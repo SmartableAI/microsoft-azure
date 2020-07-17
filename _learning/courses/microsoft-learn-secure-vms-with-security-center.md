@@ -8,7 +8,7 @@ length: 44 mins
 ratings:
   count: 701
   average: 4.631954
-heat: 52
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Protect your servers and VMs from brute-force and malware attacks with Azure Security Center"
 
-secured: "6H46WtineH3FEWe/tbUU2ZxED86xKigKs+GZzCW8r3REMU05ww9I3+C+Ly42P5tu2I8Xv46+34iB6ZoaToKay6xC+qasAzEyxKJfRK7GUK8tJ5ezcceyW2/c1n2E7IAgJVM/uUqqzXjzqDgf/YAYbofj2+a0RRvfFhj4vmCSFBcCTq+I+ULe/jK8efcjil5TUxDIH6RUFv+KA7mUu5p180qz74h66AO/lPUPp/qXdmol9lYDPQegZZNTs+VUNMMxH3Ay0JAO6KxstBong+R5GiI1XObigm43k8+f81z3ppxEcUTk2q2Xm/wdhPLzVFVyxVBzatmuBvnbHGf+8NmmaGxiK/3JW3j9PU1mzHa8Va+REh5gSQc5D34WT9rT5BF0KQLYaEpZFdomVY390oY3Hg==;xDp7PqK3DJmz1mLTonnglw=="
+secured: "YLwXToKHWikpL0sEVRT6eiBmIFrA/hYMQc6P6vEhdsGGmEw2XFR8cM+7IUpzNbEK4/yEp3t8jpApAORP/ga1cK3OA/te2VeXMFXSij8nMm/MB5bC2e+DUwAHIhzstHFZjvY0qTOuc8HbPYFaYejQcalWwy4AsrGkIZ/R5BJl8MNl2w4mEMLL2KXXuhfhIB3lRD/ghBEip3EsbgHwCoYUI2gwE8yNcMxfZuZMh/ElgDB6iLr+6g4F+ULFMhm5LeyH8/hMTG8VBKbOpn6z6Rm9LymDeQclNd31K5a/LTZoQAMn0GGooWiVp0YXdzO46N4TJ7RNoFzdy2wgmbeLbukjnolWvjaCMxviek8R51n/rnVFvrcCmcQRVkvsq/xbzr8GE1xaVbMuYPFxutMNetFFKg==;b9/QuxVBApknvv93As8QCg=="
 ---
 
