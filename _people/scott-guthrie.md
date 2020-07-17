@@ -3,7 +3,7 @@ name: "Scott Guthrie"
 bio: "Executive Vice President Microsoft Cloud+AI"
 location: Redmond, WA
 type: "profile"
-heat: 154
+heat: 0
 
 affiliation:
   name: Microsoft
@@ -18,7 +18,7 @@ website: http://t.co/rkquDCVhAW
 twitter:
   username: scottgu
   url: https://twitter.com/scottgu
-  followers: 158403
+  followers: 158401
 
 linkedin:
   url: https://www.linkedin.com/in/guthriescott/
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Scott Guthrie"
 
-secured: "Tc496zzMwWOwkbT/alBGiuQk+E8htlTF+ty6AtbcoVN3CUyGVsTJckCArxXok1rOIAyON48VRD/FOXzCofPjIuhDL/yZlsU61sQ3UYF/jSclm2gDkakdY6aC5E1wan40h46JuuCY0VRii7rnujonmRNSuM3ufF4fHUYMzhg5pEzTmpq0W2KDNC6u9LsgpF2RwYtmUURpb+pKCYuetfj1tJR8xq050evwiwD3NH0kAomnMk9iqD2qXC+DIJl8YXRmIF/BlL6NOJdpLjl/Sn+2ImNqwcjCyTZOcZQBKvCNdGVDOHtLko4oSo2A4RZp+6iwTx2FbprTVNZikbIsrS4PWZWQ1zcUDf3Z75FZwyxTC3ibxiydyui15DHZ2hqcyidrkR/G3N5/UZkKnuMH82C6Yw==;gEK15UzZRcERXl4qRWa46Q=="
+secured: "vNZ0du8I9oMLi8lG4Dw2MxmeoEFbE+LDChWUtAJp8cIkzapAhJYA+NnmQwVSqagT8kiU4BCvKGy2HHSpJM4+mZvqDJr4Ka7i0k+a6f2R0Bb2dhUF/D/fNp0VwqhYV4X65tjTw4oMw0dMxj1rRbUCeiP8PwLJSJXblbUSJvFoTVXMAntiyjr6ACI546JZyMDNUfRyr15EnTdjqfm+lBuLuCbUFkVEOpJRErta9fyDqiyN04BWPrQd41M3KEfly7kxexSWOefFGvT6NfbEzht3bhT+8odqUTvK4drCHVcps1tHlRRVBK4Otgm/iofDues36yuu1FK+XczMcHC4c9qMpnAU9O8rmAADPb03yT3Yk/PKb9BQwVOzy+2TVtFthgNEy6Atmy8Aml99s1gXzDAL4A==;dvSxP+4aLCKQHd9Pzc3RyQ=="
 ---
 
