@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-16T10:00:40Z
 webUrl: "https://azure.microsoft.com/blog/running-sdwan-virtual-appliances-natively-in-azure-virtual-wan/"
 type: article
 quality: 99
-heat: 119
+heat: 139
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 770
         height: 285
         isCached: true
+  - title: "Barracuda introduces SD-WAN service built natively on Microsoft Azure"
+    excerpt: "Barracuda released what it calls the first SD-WAN service built natively on Microsoft Azure. The new Barracuda CloudGen WAN service is the first SD-WAN platform that runs inside Azure Virtual WAN Hubs. Hubs can be interconnected through the Microsoft ..."
+    publishedDateTime: 2020-07-17T12:43:00Z
+    webUrl: "https://www.telecompaper.com/news/barracuda-introduces-sd-wan-service-built-natively-on-microsoft-azure--1346958"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
 
 secured: "RaW4JQHkQR5vCrXE7c8/fqYlqQvqSw0NyJH1Hs5ZaSM3gmo+QyWd1euOfbZHgiTQyGj0UHytHByk9GSIYs7jPusVd98a1SYoExellB+IUizxpGSO/i0hx04SPeD8kZHWUmSM/Vf1KAFiq2JYYb0FysXVR5Aa4kQIy/FiVVb0t6xrdwYLPd09FOLfeNqnrsa7RV24H/SfD2anQ/3wK59ir70jTnMt4RGfIQp8QDQ5KNwWYMTe+cIoOFyJRdnGmDCDtzHjA9ZRVJdIl1rJhCxGxjpwVDbj3Iw++Zyz3w0DZSBo7vot/9N0JPkw8YZeL1b1XiqVed9tTg2g+biixKgeiA==;H2Vi+d3pYjCn5gCDvt8k/A=="
 ---
