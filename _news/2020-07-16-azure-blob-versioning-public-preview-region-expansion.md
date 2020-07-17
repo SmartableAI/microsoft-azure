@@ -6,7 +6,8 @@ publishedDateTime: 2020-07-16T21:00:44Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-versioning-public-preview-region-expansion-2/"
 type: article
 quality: 77
-heat: 77
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -18,6 +19,35 @@ provider:
 
 topics:
   - Azure
+
+related:
+  - title: "Azure Blob versioning public preview now available"
+    excerpt: ""
+    publishedDateTime: 2020-05-15T18:00:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-versioning-public-preview-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Object replication public preview for Azure Blob storage"
+    excerpt: ""
+    publishedDateTime: 2020-05-21T15:44:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-object-replication-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure Private Link for Azure Monitor is now available"
+    excerpt: ""
+    publishedDateTime: 2020-05-22T22:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/private-link-azure-monitor-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
 
 secured: "iSXIOrPIyUkmG+HMxTdHTuKnMa3aL5QfY0mf6gpKf6p0SExRYuhYaOsJllrKeVqv0CaGeDM9GqHJgnqcLCDbZ8+pcJy9NY0Byaw6qYoUn+wfOlgqACXAFPVS6/zLGCCbj3UI1XKDPsi7Uj57SSnMe8ONhokRr9rgOJHYhVs/ug7d1cC0NAXFrrcmNlFpj/gRAnK2oEK0ol5h+7AwMkPK7l4mz4HjHJz7l+aQREgBDBgSGmnIbp8xSENPkuEmioeoRj6H9kCgPIDbaiUX/U3fEAUb5RphyrxPU56P8l4aUcGxOOEWJZVsS58i1SIN8SFMO9Yrf/wptu1kiChchdsq2g==;W51ksOmgapmGuHyYzj58YQ=="
 ---

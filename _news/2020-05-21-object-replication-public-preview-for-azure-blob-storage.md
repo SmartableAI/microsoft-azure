@@ -39,6 +39,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Azure Blob versioning public preview region expansion "
+    excerpt: "We have expanded the preview regions to include East US 2, Central US, West Europe, and North Europe. You can start previewing this feature on any existing or new General-purpose (GPv2) storage accounts in those regions. "
+    publishedDateTime: 2020-07-16T21:00:44Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-versioning-public-preview-region-expansion-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
 
 secured: "N3a1Bm3sQgEkoj3i+O7rKerRoU68aEjNl/+3b5r5lALk+TJpHSz1QDqrBhH/ApQ/2FtpE4qqhRBMnOddsN/yQyhC6VyMRBZE6eaUggmI7fBcJUML8S5FHRG/gwPnlknUvTltaphy6uP8InElSBVgct0R4U+yCC+s9fRqNTfZXwtL2UJfJSUgkRjoQq+zk6e1l3WQqB7+hzsCsv42bGum+LOgLcKK5re9yY2nFzIMkNRKI+D+F4upQ+efn7mDMAEjecxhdrS8lRKcSFFakXRpjZM37T4CA6btdcRkuSWBMhl/1nIkzCiaZI774LkFly99Lb+yg4ua34SK9RszQF7yMQ==;glwxCekyuc8Mg5AHD5KlBQ=="
 ---

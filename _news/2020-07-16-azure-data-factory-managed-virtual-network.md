@@ -7,6 +7,7 @@ webUrl: "https://azure.microsoft.com/blog/azure-data-factory-managed-virtual-net
 type: article
 quality: 97
 heat: 97
+published: true
 
 provider:
   name: Microsoft

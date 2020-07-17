@@ -7,6 +7,7 @@ webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-graphservice-tls12-
 type: article
 quality: 51
 heat: 51
+published: false
 
 provider:
   name: Microsoft
