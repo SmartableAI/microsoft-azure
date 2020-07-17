@@ -32,20 +32,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 39
-  - title: "Barracuda Networks launches new SD-WAN solution for Microsoft Azure"
-    excerpt: "Called Barracuda CloudGen WAN, the service is pitched as the first SD-WAN solution that runs inside Azure Virtual WAN Hubs. A virtual hub on Azure is a Microsoft-managed virtual network that enables connectivity from other networks with virtual VNet and gateways as optional components."
-    publishedDateTime: 2020-07-16T17:30:00Z
-    webUrl: "https://siliconangle.com/2020/07/16/barracuda-networks-launches-new-sd-wan-solution-microsoft-azure/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/Jenkins.jpg"
-        width: 985
-        height: 657
-        isCached: true
 
 secured: "xzClTefQC4SqeUa1C/RxMVRp1uePlas1amSrNfC5CjFyNSu4qHAs4C/D7SKPtxpZvxmioOhAJ1JMLwYHqHm0mlrg+5FK7VQHvnk+3uMIA2NEAkZk0pkQhgUlEND47iuB4Dns0XX3BSUoHtBaNqC761x3kexuMFhqPDEuMXL6/TjtiXUEr45WbrVibes3jIMZcJANqQXg8BygI/c+lgYJDhmMv/89zTijVysZWBUmDN9RW3c+mC90Wb2wWhjOVbrZrL0xy49MlXYCH8sk+fA160o8LYBAjH1TUB30hC2Kqul0kaBTUqk+Cx65F1h3mM5ns0REtaKbqJvQrL6/l4DxEqUd7AnmkZ3iipFEqFy3caKcpAxzHn5kWn55Wo7IlNZNIpFItWOPRhKi3aG3lzIpKNPHz1emNXKgYqtd4Qwo66IFtJXSEKvusgRngy6kcb5FLPHpTd0LfHaPu/ktAudRDfxRuX4z4j5xMzPsFKw4/0q90m2IlZC7QTwWXf+0NSDAQdnHwtOrqVFVMwplqK/W+w==;eZuxQRhUQk9lVOGM66Cc0w=="
 ---

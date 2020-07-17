@@ -23,28 +23,21 @@ images:
     isCached: true
 
 related:
-  - title: "RapidFire Tools Launches Network Detective Microsoft Cloud Assessment Module"
-    excerpt: "Leveraging the world-class data-gathering and reporting technology of RapidFire Tools, the Network Detective Microsoft Cloud Assessment Module documents all the organizations, domains and support services turned on for an Azure Active Directory (AD) environment to generate actionable reports for MSPs and other IT users."
-    publishedDateTime: 2020-07-14T11:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/rapidfire-tools-launches-network-detective-microsoft-cloud-assessment-module-1029391530"
+  - title: "Barracuda launches first global SD-WAN service built natively on Microsoft Azure"
+    excerpt: "Barracuda, a leading provider of cloud-enabled security solutions, has introduced a new secure SD-WAN service built natively on Microsoft Azure. The new Barracuda CloudGen WAN service is the first SD-WAN solution that runs inside Azure Virtual WAN Hubs."
+    publishedDateTime: 2020-07-17T07:11:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/barracuda-launches-first-global-sd-wan-service-built-natively-on-microsoft-azure/article32111482.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/barracuda-launches-first-global-sd-wan-service-built-natively-on-microsoft-azure/article32111482.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/barracuda-launches-first-global-sd-wan-service-built-natively-on-microsoft-azure/article32111482.ece/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
-  - title: "RapidFire Tools Unveils the Network Detective Microsoft Cloud Assessment Module"
-    excerpt: "RapidFire Tools, a Kaseya company and provider of business-building IT technologies, is releasing the Network Detective Microsoft Cloud Assessment Module, a comprehensive Microsoft Cloud assessment solution. Leveraging the data-gathering and reporting ..."
-    publishedDateTime: 2020-07-14T19:10:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/RapidFire-Tools-Unveils-the-Network-Detective-Microsoft-Cloud-Assessment-Module-141814.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 18
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 52
     images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
+      - url: "https://www.thehindubusinessline.com/info-tech/nozm6x/article32111481.ece/ALTERNATES/LANDSCAPE_615/BL17CLOUD"
+        width: 615
+        height: 384
         isCached: true
 
 secured: "2nBOd3WAdEXrYgEVVBI1sO+8NJW1nHRappvwz+MNHeB6qO4XIGIy9xSbjUf5DnYKOf8UuusmMOrFYiHE6Bsp72FsOjY8FehTnu4ncv0ia8/gNN/cM+lMK6m0xUSaeXifZlJEodcXj30xRnVXuAFAWF4ch8YZyMN9a7IbkzVerYswzFTSCkFLK1lPnhqGhT1SFbzkAexNabHbbDwbdPkEUnb2YeVpYOKbR/nkdhUQpuX+Q33KxSBh5MS9bBSYGTn0LtN7q3DkHIP4nvlF4fVC6+UvtSWMUJFyXcCJl2xQ8RWU9Zp+Cnz9eODCDwPz96tfwlnRS9MhFz9aX1C2jy4LNfbzJsg5C3goNiwYInzNrGfZGTqUsoqNvkF45KM+MCnPOYLX0NQJuUtDVCzvPdjww4Oz4aK1aGq/RAmIY7ZIdXXbxeXsFUy8LhC9ZAJGNuplaqqTPi8SvU09yE3viabq6kMg1J0KyZTCKo136dEXbivIW/jG2FLVoQOvQb19SnM4ivonWXzGE5GYKiZwPrAX4w==;foq+Bhj/T4TJlQkjnPlAQQ=="
