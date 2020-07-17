@@ -8,7 +8,7 @@ length: PT33M
 ratings:
   count: 13
   average: 4.8461537
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Perform model selection with hyperparameter tuning"
 
-secured: "P8KhacO4MfBx9Y/7JYGz+5XPpvU8uMPx7mRFPOHRIIWoEmJJXMfutlFMDo0/ARsGBj7hqOqljfmSAwUqyO/Viger0VPW4XVtKjMM0KXekN9Rdsh9RQljna3eVZW0XFOQj6J/6Yttz8jpWgfKQTDL9okHeebsE/EDXUvMjqKHAx4sKiOv722vmZ8Omufza/VKXvaPhWQG4kVtDupSKVJevQegBU/RyucB/AuiCm/IIhvHoaJlS0hIi32n2hwBkCKSX1kb0PYmghTr3T9UjZuDqaOCJi/bs7fAb+bQl4PQpf2xhhQ9NfJ//r1cBR1crdb/7ig28A9MR7gskz+N2Hma2jXJDaSuvfyYimQmcI3BswZq5NPJYzaIfyK3frvKNFuMj+cDf1Yr5GKCnkbgmQVfzQ==;XVTOf/8tOAZYETNwwzH6XA=="
+secured: "OMY595tHtAiH2GCOSL3u+N8XT81eqO1MiUsTH0YvmkpjoGj5jYb7FsQOfEcPFo1awxNMPGIxLEx4y+U4f9jHvFl9GNaxmYUFjDI2vhLg51nfc2vmOPC9YIy4EkoqJX5R5s1kGgkoowxVk7PiuKGXWxdmYWfLIFb3sY4xjGLfUABej3A5I0MS7nGy3Lu/jAs97Rl63Ay/CiIHjEahfjx9to2HCbKfNk9/4BBWYyzmtED+OJQMoN9m86bwC6/ZPQMIwCzI1XSFBNqbdc2mWfGLNIqX+/7JbN7IC3ObyMZalEVacGJV/0t6n/xOOr+ajVFH79lvsua770/8zKjDAQCskHWKqnG7G0d5xqzEdtV+r5GYAKbW+WMetGTOagievYZwwPnD8EZRaMTQPOATNdkfbQ==;2g1dIZ6VrDvTGEN13GZ1Cw=="
 ---
 

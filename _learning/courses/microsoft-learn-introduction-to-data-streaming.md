@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 25 mins
 ratings:
-  count: 1088
-  average: 4.6397057
-heat: 55
+  count: 1089
+  average: 4.6400366
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Work with data streams by using Azure Stream Analytics"
 
-secured: "4I1zmc905dx7WqTUQZTYfUuMj0pL1BQEV/8qYVGy7VajYxOnax02mpwtGh5MmlCH0Z02ZVFzDYe/WQE2VKnlrSir+L26x85BVgkQBHzu+MxHnQZBpx1/RBH/WV/SiWlQGd6FxiuNAhlCmpVHo9IX1iJUDkINrOmlGI+c78ZvtjnYaHJsPX0x6CSJNMiOZXZdqoI/vsx4e/BtWZOEUUs8nsPBz+NXYPFlIIuqtI8+EcPRx7dGWb+w5c8YIEOEUvV3F07HKb+rdFbNMddBzyw5SPmt2nOU6mIi9rVh7N6dnKovTvCdpwYqavlxQW/KJBMkqWmBODVQUW/71DJZ5hVSH99FOA/4AERHKYiBRjQeemJ0A8iBk7dAyOx3xjnOZzl/wv8Deae0csVhYeSE4OSDLQ==;eWC5HnyavPecNLVhZhgfag=="
+secured: "LKT9mAqdea1dKlLcSfOpa0icpl5tAbLCo7Z9Gc/g6+mJrZlmF4Jj91H5jSz+IwPI1XA1mIOdmuWseOFTFID9Fo17b167xWLn0U3hCMcvUwkoCyHQ7QT6ix7Z2ZH9UlL9YSSzMmatLw7dTFMyAjRvIiKy1xTIdxBYw1us79UOqAVvUVRKxtgAB2ULRFGSUTKtUyQu+YIpp53Sw37D/Ms7nC/Ulk/XEXHV04u+s+HLnk+eloo2RSKKWHTvWbBqt4Y3Wt9NODOLSOX1zgmhVeVVtg40JLSkRxMZCOqd4dm9N4sytwxx3ujfYaZTjIIBGpEe02UJxu7L4YtUSDynUw1D+YrO218h7/Y2ujKdc5bLU+GBZPuXplXTLSSokTCVtOGpx/hKZt9v0KPTzvJ6cymRTA==;AUoPPtYC2m1kLIiN9YwDxQ=="
 ---
 

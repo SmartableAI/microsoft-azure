@@ -35,6 +35,6 @@ images:
     isCached: true
     title: "Chain Azure Functions together using input and output bindings"
 
-secured: "InIJQG+A4RftzMpEY9RLS2mj8rmzFm716PLh8buGcrgeU//GjeU5T9Th2hfTojSjTiT1vTkpl5wuACaO5smrQaqpZEmflCW0Q+5cCkYNae/0n4jKUdHwPsD+kgcTyPH2rcwpk/0baH8+jU/5FZpfxzW3UKNxJ1zuL4mvYdUx8LXW+cv4pAxPN495VNK5silVN8uRgedw176zM6fiBXB2UxHPmH+U5xu/Ftsy1SiwAj7+g3kbtth9esEGrhcY+Ef28Ew8mYtTuidVhjAxgGJ4IGV4gnVWqYATLDhQL+s93Yu9lNFBmIxaxsJWFKGA4nam1rk6JXF7ZphOOcsy/SkCndnboLETC5XJfpnrUGEbkudGl6jtSo8DUDL2Hl2frWN3t+fbkhxCxTW0ohP+3Tw8XA==;Y8Fsu4IJO/7ZZwpoCshS2A=="
+secured: "EoQ2k25Nmm+f0GYkE2LMngmSdP8puMiTg1ZU/D8sEJw4txPpzQITV+9NJC5urQgV1rPa8MICTrikupqbfiho5qh1rfrjqP6bjYSALzb9aDM+4bpEJiPdnQtvwwj4HhQQSSxA08qENCzfywK4MYKCI+jdXXbioG7MLmliu8HxFJbz2wAi/Ea8lEihvLdRdo7E5N3w4dxiIGBwGApo2oJxdx+IMzb4mFXoYCZwH4VUC5qCfE3sgW0xvgpEfdNrbRFP9CKjBxfTzbK2V7VPZ6qDmBoGg93MSeFl0aflgOoFJCot2qio+0pkhHRPl04US+EU+hHXBHv2Yw6/J7WGQlzMr/MDbNCgEv9bFNEU/yT4lPgCdrxS5P8PwZ4P2g9LZB46b9ilsUKVWvf+OKzbE3pyiA==;1w8sVXuV3J6bHRszF7wNHA=="
 ---
 

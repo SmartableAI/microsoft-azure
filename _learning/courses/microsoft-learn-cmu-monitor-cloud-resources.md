@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 40 mins
 ratings:
-  count: 42
-  average: 4.6904764
-heat: 51
+  count: 43
+  average: 4.6976743
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Monitor cloud resources"
 
-secured: "vaAEJdGAhuZES7/suDT07Z9IQ5Le05B9qGzrmk2mkFRKmXv8qAHbrNCfHB2W8skDnaLjl56lNron+Y7DksK+ZmjDAN9P6DzCGoL8BbGtd5jLlTdNf48jrPiC8Qhrl1h/XqJVt9fIvS6JyspzYBNUtz2gEati8pW4ijdQcDHqbM4vwL+OBY0tL7/KcfnzHJlDblMRgX+TnjmCzGz7A27c6jtIMys6j4Hq3tLtbjaP4i4MWyhFckZT/VxDgYH0L2eAlJXbl6X2IjXfCXQOb71PtYXMJ7WM4i64fWlvm43AdkMH3DitM9D8nCTThPq0my8bmJdMlSF0HtYvTsIE912fyWYglHiGEAw7CVH790cefJOObzYLlpS7Df2hRFOHNaP7z1Urpbkcfi9yN/UfI2j4MA==;4ZVXYR2yUWhVmqSvd5l+JA=="
+secured: "jc3SvtV5iwitkIlhdLhfJMEpzCtmJsHWLdrngzSRvOYm2yuGo9ZUdE/IqOupAZIAiHiRqDf2KIjS4CjpKxf/h+tuEpqVRuEUsJUp2R7zUr0BNaMQFZguzClaJa3RT8Han5JDSLwh9ddH5crT6P5neDXR+9ybKl5WDr+3Ko9XxXG2UKAwJwEfOUAOjH5DfsnXN6dFUfR8EEAfOjfTTLNZ8Ucicv8C4hZo6ZNg69l/7h1Ak1YJmCvufsDNX6hVget8Kv7HIC2e2FaWauyNzM2VrCecZMm0rewXQZFLHFmPAD21peDj2MCRw0n1gmjfo5LWtdVKNZ25iWutYl6jn2W74J8w80Ysak7G8V6H8AdiRJz66A2KXoSoaipKThWuyWuZ9MvsDoN2vDWapKS66E2f2w==;jBJf1VnancrHH9+Lf7MCyQ=="
 ---
 
