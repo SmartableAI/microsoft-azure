@@ -4,7 +4,7 @@ excerpt: "In this learning path, you’ll learn about Azure IaaS networking and 
 type: collection
 price: Free
 length: PT2H52M
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
