@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-25T13:12:00Z
 webUrl: "https://www.dbta.com/Editorial/News-Flashes/LiveAction-Extends-LiveNX-to-AWS-and-Microsoft-Azure-141480.aspx"
 type: article
 quality: 37
-heat: 37
+heat: 97
 published: false
 
 provider:
