@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-20T23:56:00Z
 webUrl: "https://www.helpnetsecurity.com/2020/05/21/login-vsi-microsoft-azure/"
 type: article
 quality: 37
-heat: 37
+heat: 57
 published: false
 
 provider:
