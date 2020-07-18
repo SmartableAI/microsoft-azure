@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Share cloud resources"
 
-secured: "eJcHISuHsIH+DD/NULB4s6FRs61/w1mhsSGclro/YY332wRf9AFLxWN5/Z0UHov5UJoWdTYxS1zFNTsFfutxzgaHUGkq2t8sOubXxYIDTAz+H/GiiF9lHiijJYjd+tBj5UqYJ9cdsFqMkyfXZuRAx45k/THZGbhK5f77CemwTxixr/WP/3PnjFXMBvtakrkW+zYEQObV6VDc/Qw0BwKm3uzXrT34ltisl5FliIW+Sn0muhyU+V1DHun0blPOYIJadpJOiyNAumIOMzeGFrfxU0pERICZEvQOEHH5P+FuBr3suRok1CG+zUG1ENFsJ8orxhK6jqw/j9hpo9fm7uO8GJCSnPymr5htAWVFxUr4zFMV9flL9NWvpHXgtzi+jbnLEwZrIiYVBzqbzyKcs/ofLQ==;ClBVXhuLBBE48JHhvH7lOw=="
+secured: "SWVPHD+piFL8ga/Y0ncEzOv8EgNue7DHUFpWhOntanTExtW+gJLGfz02DN/ZrBAB+ZCNeVmDK0Grli2Z8/9p6OvXXarxNveN6nxteMFIjQkH+MFNmlMMOQDgTOtR1oFP9KjOe/fcnIGVZpb89lI91UOpOlz0VFbbGf+SLKJBema8M7UpotE620pFfcbIHP2qxGKjH0kAyFiCNfpBPYRSFg4C1brTY25U+cCt7Xxnqiye5Jr3r8+LKAOBIiqXUjUoxig1FsUn+dH04MZTPysp+qtagBwczxtprW9XYPeoqfIyuCizqrXkfUWoBEz6ISprDHaIeoxFTOyjAabyrxavnTKdS1Hl9pTWqCNCElB8PrRlxUWkCXqyZcDzZZbYQmQJSHwCS9avyjW0+YiILj7EXw==;OMvdCUoqic+iDcYAKxdVhQ=="
 ---
 

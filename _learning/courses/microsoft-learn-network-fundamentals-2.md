@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 36 mins
 ratings:
-  count: 828
-  average: 4.688406
+  count: 831
+  average: 4.689531
 heat: 72
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Fundamentals of network security"
 
-secured: "jRo8NLzOeghkbKYOTSt/WXk7CQcqhDqvOhvasFu/qlOnf475tJl+ZVunhHX1ujkzEzE7IookoxHR8HAOlK9i1dDYf7K5b5AIIKuE2zRY4nmsAjQKHfDx6mI7iWDk8DG8LWKNNvA+ZB/BHQ13kG0ujyg9mu6V57YRUpzFaVn71RxBMw002n8UiNK2XzcPjKuvSZTAuVYferMAbVVyKs9QLVGkqqJX+Rc8x69aKa7cyAg4rYW2dqUnK4YpY3gKHcmJuKwOFBk5HXRJp1+dll4QpGCRuT3SUuKfsRryWBo4tygdK1tg6njcaJgzhBufeSSj4NI4uUz/e2wyZRhH/qH28uIrYhrN0Yi88B+rqZPk+mnHqy1ndlCUl5z/ns2nYeyIlpDrTDx7/KmQ9xhmfBCvkQ==;10zYPSzOnawgnStEu0tJHQ=="
+secured: "+xZoYrnrjSlD7bntsohjvsnYkULZkn7On52SCAEA0Y+si6KejPplJFypMprHzdUENw0jr9RxOPr0rPh10KBL18heMa2JbXIr4DSv9in7GR5n9yFWt0lR1VAMYpHb9g+DBZZqS1I2D1yXft3RQtvSVwgRrWr8pCh0NQtTF+s+rylXTYN4WwHTO+V1eKg38Lr27/OoYrng4x4/ygaciL39gge/nY6apgvyyvrL5y0EC+pc3c5y1wesgxtvibBvq75Zj8nhJh3c9a02+6afv6OSxwdoukmBfu63ROo5b8J81y1zyT17KQtSrOhj7UPOZG2XyLSBo9QVRKcCAl42udmbsHYpm1+KxRUiROZiKv2+Gs843nSiuDkaOXMAg81eyweR0vYdP1j3GcWJgwdfBC3rJQ==;X0vxbIfz3FURwLRXKo+iSQ=="
 ---
 

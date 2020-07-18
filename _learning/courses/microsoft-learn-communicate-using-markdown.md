@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Communicate effectively on GitHub by using Markdown"
 
-secured: "6K6HHDhBoq7ZfXShWCZiLHWUJEDWNllm8gHa439YJFLFYYciU+V8siUVC8tOx8q3OsXuNaD5W4/o1/FLa8FljaPiDqlaXxxbHfjk3C8DosgewbqF/UbyhCC9MVdoe+IsDUAlRXl3MJD/HwCqAcWXZEScuvYy0df1MM54dqC39eWm4fXTuLMhRKVvSzywtlheYHxfzW36JuomBsI/8+aTxSTJPE1qaICkuhkoQgEncx3ifnIJ86aXTlRhNWD3BNma3GF7m/NKOINX/XsQWAupujQLC2mlZqaVJfey991RMFYpnHrUVzJc7fFpqqIqQwXDcjMubmWeg0JEJLzQFfh7+jr2XX5lb5u0NtGSDmhRo9xl3vmb9L3gdrKEZu4+HqDL6Kk0glnpkMUbWSnRPpz3yg==;hbDEdlppwp4MNjfvmcABuA=="
+secured: "0JgEv+JIHYeOf4CPF293lSAW3H8Cr4gDwpBGyW2B4QCJMBttOT6R6zcO6o7Jzr0NAlly3UnlC6CD54Tc5qlX9Fw/44aa/KuFgid79tnRx0+SPKgnT2+DyyJdhrpxnGWUkM124pGL58W09QL1JTJrDk6+IsSPGi869A/UPUF7s/vfiHytsEtvWhfa3sRIpH0xhbCZ6mPCUfNJHc8R+u/9StO/WX/hnhFQ9siuI6TtmSZ08RP1GOtZw9k9O8NhzrQwu2zettVAl2S/vc+OSP5WBSKCPTNE3tGZmWUbm5Ed/D/9Clrmzs/dwY+fvBQfDi6uiPh1zNwuO8ZDYB7kUrpXGxbLC+KaBgLETvVH0xbKaOI/tzzp35g4FoaFEWenSW/20heqYEmnCSD2XFr25fIJPw==;6QmEoGSm+amsgwdu+Z2Ydw=="
 ---
 
