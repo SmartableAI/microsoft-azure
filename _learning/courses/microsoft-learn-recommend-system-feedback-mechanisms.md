@@ -8,7 +8,7 @@ length: PT49M
 ratings:
   count: 205
   average: 4.629268
-heat: 52
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Recommend and design system feedback mechanisms"
 
-secured: "vU6MXxtfzEipelFwO/ENMEyN//PYZjH9hBa2RPAP5cPLA5HVnx4iLj5jmRCJ9DuuskT2WWyt5AihsFmW6LpbQ92nxVfcw3yHsyU+yQ98nOvfqFR6P2T/O6dwpfK0fD6ye/jKwMwtBZtltQur61MJoQMlXd/xGHaCxErDHzXTVkhTMI5DGOrxtYNJKtukGmFGeWxZen6D54quYUKCDXSE5nb8WdGabKxTApJUis40kqwHE23VYwN9rq30/TBa8i307BO6BkLTbzzSHKh65H74VUqbwpqdtu+V9inmy1LfWkD2u/jfYp40Kxsm1LRM3BmHnNoEoqcXGfKMNU78b1yilukgm6rATnBh7MDiskgUmZkSZdD6l7GLFy1P/KlZjdyZqZsxWoGiNSYgyovL1isFYQ==;YyTdIPP34fvtaVWFz36yvQ=="
+secured: "1cCxRqqtZKbOYjijwlRxbX2+nYl8cKXt23i/Mepp3rOcm0A9c8OhyJu6FyKR1ChgJ13m3ZFCM/puwJaWEd779NBoRvD0pfYF8HjvYhMwZKSwy3UIdXsnmWKXFA6iVgfMicYnM0Ew/xtsGWYlBw8vCnt1x82UQmEUOUcrqehIOBIVG2b03AcUgNbjaR8oZAQ5XOaLtt9nRbX3qROyE3+gDhjrD24Sh5ZFGExwa0R5C9c7NopO4S/BovuZBCMgXrhHTlzguGbKRGUhAHIMV+758bbTQJGBVGvsWfbaiTzGoGyZBegGGCoezTFjEs6TZLh/50UlimOPNSEQjbVj+C8nElpzskeJN04INIBU53SEK9MsPBMMsSAsJpJEGr9NSxRMsFZw4Ez0ukFEEPiYuB+c0g==;Gj6ywZuwlbCz7BTGomupGQ=="
 ---
 

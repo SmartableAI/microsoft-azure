@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Planning for implementing SAP solutions on Azure"
 
-secured: "BedlQlHSVudA8I3j0MhXvPdVwe+n7QDxiA5fs1Y3bEzX8lZ8nhmqLF+rAW/qUTg0TkkIGAJldKtfT5x9ZnnkkpkQX0RH4lRNgH/O695Q+Mksp9Sa4k7FA8lC9k6Q3CiOn81x7B2Lq8ns4bjxhfM2j2+qsTH3s7RPUetCCJEG3VZIiPlOiymGt634LzzLjZj04uJl/veBYZl0tc+DS+dR9Cu3a1R3CXz1uBXMgCvbwxPsvKuShsCUYmLPm4isTabAbGlq6DlEgKs93CqkPZbbK+vrVmyzTmIir+u7TorIeR90uW8S+vgRiMwFpzoTUAKuUysEo1DCF/26fdPZZkjW5ZQ3d8ux16uXJQFY+W2VAe59S2ej/JUqTMtvU9sI7vAJwETIs+9wXhe/K2etwEOllg==;hX7kaXVVZRYUm2rrv/yNhA=="
+secured: "98CLv0PBa6iOZ7orl8xObplFKcW4T8by5abL9he7Y26p9KNl3KT9NfVb8SoPEgXIoiKnnslZEfSYBDhdldiO3KMiQAxZ8Zw8AYcx7zQC5s17NYfSmCUPuaeJuSQUNQ0aWv6rkHGIF13JOjDLe/J89xaS+9dA/RcWx6z79lAw+bWXr/KMyUHBq2kynru/XsIgL9pDXX+yyf7N1SY6m0+hxmcZ0PBqhRyHiIRgi95/BA/e2iCS6MgHqiF6ZsNxEVQYrU9y1+oKLmX6yfxYRlRdAFOn15rdrV5jsBFTizwZDsbmNxuYI72/MSbwq8dtF/K0a0Luza6hOizCojTbp84lqZVvgW25CAiNSByEv9WoRddOBkCnUCzCgAC+CTBqEwsdZuJjZuewvmjWD7PeCR3qLw==;ixLxM+XgLaq4YJMLuaSnPQ=="
 ---
 

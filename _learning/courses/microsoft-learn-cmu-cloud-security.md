@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Cloud security"
 
-secured: "2+bYxOgfZNASsDwGiEYbfqOOm9w6jySvM5V/WbxFM+gq3uTU8k/LzcikmpWs1Wh6xh2wtgDE8s5xfD9Yipoby+VYx7kIObkH4FvSnpKPLr8QTKfr4qLlQxOjZ4vRe3ufBc2XUlLiLNBgPAJaWyP2jeXm2i8JN+Y1uVGZxPrz+X/t4HrHvfHlFx37kV6fjn2tlNCmZ99bAgZxwy+c+7hTc3/97TL79kneTqt1ImJoJXNRcrOqwn0GbSCtL+SgwecbOYUBIzGIre9wPJ8gLsHi3qHVaIhjUglMARAGyKJq8CCvx3j6yN/rQBfXewRGom6P9xMgN+lZUsMfMYvtdiR0AqBx/pzhNNWsKALoQZxzlJDTF9KVO8X3ZZEJI+xDBuNkpN9oe+oQzvIOCqpi9EUkwg==;d45QjvSK6IakdkaiIutatg=="
+secured: "vc6V9QjQZoJZLAj1/fMJaDMffY7i+A+fnaj4ARFCuJcTOUDjia/2RBupyN7QHesssqT5LY5tcojSzy7SxvSAa/zWKIKSTsb/cLd0tCYP7v+Sjub8AGcA9wivDe/01WqHJRnazA5S+yxhTXtjeAnPM92Jbb8n7iR7UwFtNEn6MTA54/H9WHpx4b+JhZ+CjtQe1XWuNUfwjMwygRnyIFfyf9XWLTA+K4lIm4/DIMDksaL9g0VNSi2jMGHJOX5sZ8BdnbVZ2/P0cBNV5+yQkjeNCH+/lPj8dzsdmMoBhrL6PLcygmfDA/AoXzbR+KOpFv4HgbQn2MmVPF7eBaT+LQmXQMcNSFfDpGcqa+G3AojtQBwCW+u1NBLJ0DwDj3RrFo70Ge8CBOSVnBy3yzDO4dxKIw==;uTDC725BQgxuZl3f0XjXhw=="
 ---
 

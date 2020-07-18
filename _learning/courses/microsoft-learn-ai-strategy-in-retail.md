@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 40 mins
 ratings:
-  count: 599
-  average: 4.7846413
-heat: 53
+  count: 600
+  average: 4.7833333
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Define an AI strategy to create business value in retail"
 
-secured: "OKG2AeN4xijSTSP9g4sOJQQPFbiWmHk5xVnbvDcWWFFar4QYv/ePQELQ9hQs6RCEs678B9z/tOEq17Z40Xdv/8rcS5H0693RCsWbdZXPzY6o2URrTkVSPO8x5OtHM43kUleXvmeSy5bbGOv/N6RJ1TksGuFOe8MTgYtd9UGew/YBFuZJ0h5/ErXrU36jYJWcOB2K7w23PMYFCaf23tXWsWd8bzS5Q8vbKVcKvrq8f1fVOBqvem95fpnQCKpoc3a6WuRxDmCpYZcUVusCDBX5ZUU7cYlvnXIrmoaKZmxz5XnxPV9dgoA36I7kWxZDgFgcE0OKXUUGv9aft2O7qmCSHvLLwbwZLOoRUrNJfcKfNR8QqvGiO+0aU9k30jZExuDaW7xC4rTk9f3HUbjzef91sg==;EoX31pSlejgffDYSeU4SMw=="
+secured: "bRJWE7uvDHS0X6dZXdTS9QDxYSR3o/wezSaOSxg0QyVAHLTnsrxEeAkzzPj1dwdvXYcB70RED80fpDxzJPGcb1nznznbLLZ1S6uvbiaN8+AuupwYGBopTGiBM/OYWpL0QYZKazE0ieyi+nf6CEeVUpu+zoO8WaJ7Yvzzp2SWAN8XcuboOjYhnJcULiUNU7jVP4keFbPxTjaYXtzn5grggfxK5qiIErd7KK0puTnKQG9zro2ny4YSzEFLdxW/nQu8qvSzVZpJMvLFgGUYWmIfSYt5bh+rQusOE4odBcXoAzzXop3mUCTayZONoh58Wgc1ClpcUkPaF372JWpWFrqNnXAp9suJm2LQ9FNixuypkkLd/drq/5VPGccOTc/dgnvlxnIHkux2185vLbxLhuREuQ==;igWZyTdaj/qJwlvYZVar0g=="
 ---
 

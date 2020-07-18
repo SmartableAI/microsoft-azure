@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Share your location as a text message using Azure Functions and Twilio"
 
-secured: "CDUMkPXa6Rc3s1ZKHF7SAMT8dlMRMw/0ttQR6q0yDM2T90fJiYOJTfRSA7DPvcq2gIRByf/dLNQh/wFSowC/TBGR3/bTRzDlqnYImk3iw3PyEfR0OCUaz7BPrDHcmSwsayc4WfEJqdvfmutlXfp/qDCWP/G+V/icmC8jtp9Ipx5lOg+XaWu+xsn+gewZ9Qqwdycyf0LoGH35WPox7c48JFFL4tnsUKjgZ8qOQB32zXiUogUKq45+/qXafyPfhbPKvY2opvJQtXG/RpZlmuWCTKTL3vM6UVGFoc8w6+dHY757IRkt6hSgJ9zeML5Q9m7rG2W3v2KGvgQam1UyzRPPGxGLSioec4i7mQZOamI2zqz9m3IB10ninexc/nh2rbcjWuAQgnaRjRqbOayojJNxXQ==;owYE2W5NERaoR5diSv5kpw=="
+secured: "49Dewt/94FKdkQph5Yp6BI6lKDNFUVfTnKm4CRJRVxYqmkjkQxtURTy4Jtl388nwS104DVyve4M6cJ+ILQ+q9RcqunxtYS4C8PfiWJaqwzHHvJVdV93jbmXHCag/U3dLl2UfDkaVgTGyYnGOxHDsX+QsAeSuhZe/5G4o+pdvWukNV6wpiFxAwtGU6AvUiJ1v+MycTtbXd86xSrvxqTthLQEzJj9G9VGwemyUPutERxSWyM8l28roNQMY4vE+Uh8S6PBpwo+VeYf7D4fWuvDrBEBu5ME5Px605CaTQd/X4Wzdo4RE3HoWWpTybWKPq1yyBYPmCyWtAan6AsQ1F8jYHh3OB5aRhIuFeWY+cXHx7D7Mr06ww02di+Ve8RF2AwmLYQDlnjxBiNi34i55D8cefA==;hdXvSdLsrkgCJd66f51G4Q=="
 ---
 

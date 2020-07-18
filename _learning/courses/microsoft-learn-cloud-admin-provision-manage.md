@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Provision and manage cloud services"
 
-secured: "QJP3ub4XQlfWqLLMyp1jvh+BSQr91t8VgtTw2DGT9rn9R3ii6sI1aE+Ir15/fDmOwgnr9GW5fDctf+BiVvzKMSTU+f6QvlpA4TOTTf408VNSRR/MA8T139TawP/SuoxAlY1InEcWY+QUbNZUS/Z50p8NjWAqdFG/ZgASFu2WQOIaPC+bkZttF9/64MgniooXqlXrD+8mwYRL4f8HStZaFe3V2Ae9cBZI9n6GHLX616vHGScEKVGrG6C/Q9zrzcHm78aWjuHic0OrdaxXPH/Ta/d7HOimUG2yW1+MeQPUbrJgDaXYzM/gty/+Mecdm52G49t5vKM1Xo3kGWG0DJzEMi4sQy7kzLMK9Eo//yMGuCXm2pOv0ZANfqciW/vQX8rwuYM7Nx3PBGshHWpHAqKpmQ==;N+nC85lZjAL+jqlmojAltA=="
+secured: "xjPpScSlS5pOoeorKcPAuIHTj17e0Wzqz1kz4N2fY2SavLjwYih6TVnGQPjCDRdnH+kwB4sfb5Qp5sU+DlYp9uaK9S1tLIzgSrK1SMREPPhJelXCTC8U68rEXDi84deSUGKDS5lxNtV0nflYNE/7H8/y3T7lRR5RInU78J+qzvezLTYbsKa3Jm+ljoQX50nIIPrl4MhoXEaVZiLe8AI2RZXH71EmDSkh5h26vYDtrOUOppAqWAWqwzJDaVNDxlFaPU+zOhRQ8nXnkNs6zZdhlG83MRb4zlIGc3FOZgkLFxekM3UmD4XBNocjfw7zAkZd/9DvwseG+/EqQsZFpl3e+5jzpgn1Fq7nC+qDazY7T3n6EdQQrIt5lIzrcqKebZPznqLC+0xJwviuzJXvMTNY6g==;9Quf2s/H85p9hEQUb9/yGQ=="
 ---
 

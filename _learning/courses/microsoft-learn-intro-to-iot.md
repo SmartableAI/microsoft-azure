@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Introduction to Azure IoT"
 
-secured: "Q0bbkcUD+iqhMOVbfb+FmlyTJIbUMia2xryHigoQctZLfpGHFDg1rO2JPvYkUBFx/bH3QQazTmW9w/6f0ZgXOj0nNXn/vzWLATYMwEskuNW072DQdqZ+BWndniXDNVEFIcNBJ4MGgHs/HtiUx30EZwgWD7LszEZiHQno0ab0Uuk5awaBkmiHK2aq//AIvJL8MzufGXhfRtAxqJ5HmvWqx8OMdEXVI++NUyMbqAAFoHO6n18KfY2luEsekmR/PcBU+l90qpBdtHnHyV+7iq2p/JBBGkGYrkKAyC1hmIvjDHd3SbjrobOW8Wsbaqg50cRULizyN3kjt8QTFw9v20CrUfmgSyv9SyxF5EpJt3qa8nYvTV+LXbnzlT+qbP7VmSJDBBib/9pWbVDBvLPV+HosJA==;qP0zxTwAr4582pbbshfc6A=="
+secured: "TLegAAYW9R2v6gYkAmYnf07IryR9WMuaVNeBjEzFVhps7ryGwO3CL23y6xZ4nSUxK3yE6UHUu6wOYYsLuPtb8Nr9ulfxO4DQ3w35usq79eUumPf2cVgkzZN24TspIDkWU4FOdR9YWk/wrSzP2+Dh8A9tE75BknPihxyPKF9/HZEIE7swcE2Dw7pkceZvWqxp1z2Z0tglY3Ja54mHkG+2/2nKxYSWREqs6y/Eah/7Gz2hNvm8hOX/0NTpCdXHLF+4MGWXhBVKt2bBi9J9K24kPKm75kUHZqLXebgBgKktDwu2Uk3XnAT7niOjlRcSwpGAbBClb0mZehl9aHdtp5iippfot1+PV/xC7ABzzODNlfTQRyHGFhyXs2gU1DsRhguKE+wc4YMYhyp/AMyrC86BWQ==;fdiQE9wmCxtiOICIwe4/Eg=="
 ---
 

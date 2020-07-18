@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Explain DevOps Continuous Delivery and Continuous Quality"
 
-secured: "iazuo3XKy91s2nuM8BTap3fW7u5KqO7hUjEbDdeunx7G8SzsjJ8ypXHhddYVBU7eqco3ZX/v+orhb1tgm/x5w7Jvv3J//LLZwJko6nAQNoNAbPiVguXjLtHYb5y/y0wOmR/F5GkOWlywhFW1aCs9pS7fDNionk4szCQiumLti+8xTFQHhuljgAIa3BOyHiWRPi2EUKk/EEA/Q0dYjCyzU7SAYmg2n3aBqp66VJEkcdnmI6Nf29z/1V4SXiNMoHp0+lDPj3fOhvFAXQqSz9QHkTgseU+jzeJ2afAlP2Q4mmWqDaqyQI0OG14zAKsLUm7/44tizKnDXz6zWiu+tdCnoXtRqR24X3txXdVwwtI8cAio9JP5mPtYshigjjAawSqNJnIRu5nNiQ/dOcZdmk9SAg==;ssWfWlbXUI/qTg+3tJ5BMg=="
+secured: "S7F1/HldcVg2lE7APQxdakVvKFLtw1pmv4fpD202yUr9r35HcSY3ANt8UMrStb+4olGlWug6GHvz/S9Xu4Z5WUehXiUgdwAgb/F8Z1ydm5QN2W42pVsQTxyJLY8j4JhlSnBGlo0eZtumzTkSWjW+tdDtX5c1h+piCU2mS/59ohh3pB1AT8TteP8EVGXBnmRCLgu1qYSaBAhqOG81EogQp7goYe/9y1KTcIS3G9Q+ogw6Qh/kFFg8vdPh9Tl9bHsJb+CGoBE0n6d2PInb4Wo+LFZgBtfjq3/ojWMKoYCz+u4D8sMaVv4GulcFRn3k8JDP8Tcv4VE787rh5b2AAZAx+UImyCV6AcJ56Cnp8BOiQDsDTsgm6vGaYdXvZNi78lvMhMdK+rnx2MP1KeIgUfOXhA==;EKoaA5o06ziVViZ8ild1ww=="
 ---
 

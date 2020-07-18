@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT34M
 ratings:
-  count: 22
-  average: 4.4545455
+  count: 23
+  average: 4.478261
 heat: 51
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Improve your reliability with modern operations practices: Learning from failure"
 
-secured: "Y7NBnm1w5Boz8sZkKYBBEvAK4sx09JY4+cYsr3BK7ojjEt1K0OgKP94c9wQp3Qqzg8dGbBydoMdYVuG3/GOHKLQwjvnbFXLRT8cJSNu72gJdTE5H1QsM/a12bjivrllM2ry+yb3JKtScFjdufi/AbOqmKZXPMbTYtYHdXRX+zRqdTJgngpuev50dWmsw25QcqJDvjGHtZ75L1iG5lqWg4gmRpkg0NExspwarCVEZKu36ZPVaYgpG1Bk0KbYagCCWTrOWNGikELK37lfk4vt8TT5XYMAgSEblO9W/atYRcUIjX5NhgiZrY8DXpHFNZ6nM5pm/d58NPZJjZmNKiEX0npZFaEiOmTyDYmw/VLiBbofTEYe3FDjGHPrAySoyIwHqnLNKNEEXjkpEn/+7EYtZxw==;/XvVByfOnMZQBJcxGWE3mw=="
+secured: "bk9ZsU0s1/7TuQ2ceJK3OkZd9i1a5f6WILLhkd6u10So022kCIfjhMWg/VJNsgUywIscSFvOg+Y43YlO3tQBE1ZfMWNHfoubmYH5C/AlnKCREULz5WuFLHJ1EcxVl/8ssDfP8JEEOsEOQNemasxWoKnxZNsVh3g+HUZY7/pRlbB5AR4mH+o6PY7/opSl1hb+OqIz2NZgWLpTrpwjgH7MlVTPOWtDHTDRjFHUKJ5cA6I7BxfXVovU3Z+n0+U16azATHimw1N/eTDyZ7mqe8aAzJNrGW8Pv54sz6T2s+qBUmauJ5aRNEE7rj30RnbWSY2vIOyNeLeM/tTIbAMTkMUaC/Sez3uUCbSAYJN3qPwMIBzwTOg4JY4o/AvGJAtU4drJiWnWveeuToY4WKDtaZtzYA==;2H50xu4sDFS2HyR8UHUusg=="
 ---
 

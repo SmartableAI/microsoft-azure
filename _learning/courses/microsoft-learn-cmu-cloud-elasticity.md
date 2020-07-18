@@ -8,7 +8,7 @@ length: 46 mins
 ratings:
   count: 72
   average: 4.5694447
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Scale your cloud resources with elasticity"
 
-secured: "N31YmDQ08LvjTVBpFRvCfn4H7hRdlbgp0B5icE+qLErYmXNOCIj8gXVMioepZNlKSxzqlS4ouX2KhMjtepo4OIo0d7Gr2RCBJftEIBvZHDJpDrcMeF8roqiAmLruvV0nZD0wMP0AytRC2SWzxMtJn3E16vNNGO88B+ipsbqN02DIb+tZRFuJkKUzf4yM6G+vO9TPCz/85U2rSZjVuShKsMxGJOtQ6t0x8UUIJtkit+2BMqt+zfrKFjGkOCuSbZ+5jyImo29LfYT0C2UcLhZMBeT3qwZAmdJLXqUGm+SnnhMVu6zEvt4sY1t2yNxn+4zvxWTy3v+gA9ay/oeyO/IqAlf+kgcZ5v5tjxqPpdZNeEH5PmaiRtHVAAs8tmKjIfzKiq+aBaLDf/ML0RQ18MoABg==;BzFgFK71oR40B5tJgcLE4A=="
+secured: "W5XOM0Cj+aZQ1TVp9qIwa/lKNUacohTt3aLVDbfPNSnCaUY1WWqyZ09DZzCwETQgcUupLkV3wJJ2YmBj5PT8TFJ0XiKOhThjtccBIM5ZTOJl6PbXE7RVH/gBzvSAWdilkHPlz4t3qzerSNcnF7P+gFK3EQju1yuqBRUlXNL4z9gj+jXYWifv4PzGPfCcVvUJiYZcTEzEtnUWvy7b1pcJhEC74ANQe1D32Jbe3+PETVTm0PKYXQ7Gs7x6/Cz5sB4aXYiGEwhn/a4VtOazDLRbHqGjmMif2pJ0jB++uHA78cXnO5ynVqwrxkI0JRKLOyhvAjwtQpdIUr5Z9UiYprYHDKnngnk1fBF3dVIx/JH+ZE9meJ01L/Uu5hzDl2/JxBA+qDpNeEcEFbWUrsWsdUc6RQ==;P66lNH5sy4ZS7n4RupaO/A=="
 ---
 

@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Analyze costs and create budgets with Azure Cost Management"
 
-secured: "eACo7ZVssBkKkP+swKWA1VmQjRmCJNgBtxW/Eoslle3A3QpC/3TaGR1NDp4HSp7EBwY9g/xZoHI+u9WwxtM5FYwpo3lPLHSFPQyhP0g1XfEc0o9aTpMj2kwfOXJtge6B9rOmdLI/54xY/SGWwagT8hLPQMLYSnLBQZsyl4Ne9D5fCW1fVCjDN1IZ1IBy//+WsSa+4tF41+dBXS1V3phU/NxuR6q2PawoF19/IvUufKpke7SENRTPZfCePk+wMPJqdtmrVZ+0qX39rZ9G9eV0JOpRbIpW8BE3C5+dQpEsA5EFcBYFyQ4g3u2zc2+GPplUw/lSOg7AtpMm1J29VEo6K2xLoxkMizV9aqHq3bFbFOn40kbpAefylJ0Za6whHITw0Dj0X+Dw1JS+SYMykoOtOw==;ulwbsWNdosbEvaT+uTFAPQ=="
+secured: "461O+pi/nydpNh2kvcovHhjtA5IZQQ89Zf+P3NXDCobTxFO+8Fz5kmzVPNLWW7q2YiS1ZfxeuI7SAMcsEepmzCGayVWJOVaFOufFTiiiJSmkhKA5CuHej1IMso1YyIIm/vF1z0KM1dt2XRileGmR0yucibjmU7qLJnAlLN206GarNEQWhIv2aWIenP03duFgCsjP6jsJOn4fh7T5YV+ytYuxv4VijjEeIxNelWQKk0Xk/uGd9hojZYrSWTCNSogBeiX0Dtbi6J6G3ttoYmBt/k1ktE5z0JptFI2L+6bx3ZrUWx8tcvINQKJUPVOYNZdCiw+KVus6eIBIY6Ac3UU0qBi0+/0NTnNOWc7pXQla00AHanzcdUiuOlzgQLWqyMNkWGspgMECgCGbYjfuWirgtA==;DKjYHQB2vchoh0TzMKrUiQ=="
 ---
 

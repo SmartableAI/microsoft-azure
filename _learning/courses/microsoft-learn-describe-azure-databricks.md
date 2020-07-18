@@ -8,7 +8,7 @@ length: PT53M
 ratings:
   count: 183
   average: 4.5628414
-heat: 53
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Describe Azure Databricks"
 
-secured: "QRxzqHGHRnt4ddBW5QQGNLvWloFO1PvO33JPZMhpuc3nRcWnX3acsmSWArv5n2jQGwxgTlxWsSrdrKazJ5/uO5DoDomFztI/BthvWnEx3Wv0yrArJBTFM569zUhn5oVc1HTXNTsrDxGhYp+vyfZQUZksUByWSpt2oEZa9PPcK9HlpstPF4LD0cmRDNuhjkzuWbLPL32S2LJj/nMreLLiq78qvlaMZrtUc5owLcSgxKnVUV2b5f6EDFNx0Ky33NJRdUQaOPj0CQUtPoWINJSF62KxHwfhxcrpGC1kOsndZj9BBg0Jw5ycHud9BAZA87jre5FIl+ajHPed02A+bhbRYFa4BpBOq/nF6rEcAjm5y5AK08QEFy6eYeYM40kFFYiYQ2NE+G5sBjLPU8oB+K6j9Q==;jnS8fT2nGV7nzdxS/gB+lA=="
+secured: "8p6nVo49CP1rC4v/VwATTCRDEAAJfXRDUNcHN3s0cM04mzjkhSsHFxctiOaIH1tbaIACZxeDVY8Iy6UZzEZh12bKHRhU6aKNII33MIffEqn1vg7Q9lAgKMz4lThdoUCO+M3hnJ9ctHmVsQr5Ei5TEyWqRsIF8qKnINfC+ruWINpCMJ1I6EjuGgguLE1SjBU5JvBhqOHK5VemmIl4kcR1tabWTrRGxcofUdt60lflm4lqTgyQcDUVb1zA0opRMieTXfLXuiOWFtuVSDaNIBDP0rO//UdAO6rmwhOvipmpEKL7hg12451f3Cg3mIsCV2ccSUb5EewttjyxRFvrNXJ9YHQlJz97HG6pfDJpU71quQzvnKFKYvft1dL6fQWJGyqDPT8DjM9RPmLW3joZrZxmbw==;ewYC2vERboDA3MHfoMv5OQ=="
 ---
 

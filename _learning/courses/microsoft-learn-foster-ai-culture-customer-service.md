@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Discover how to foster an AI-ready culture in customer service"
 
-secured: "btuXLQUHzpiVpcpkdDM/yC2PBfKxdbe34BabXb36pmNfqTfHPiRjHh2cHdvrvbP3th+f8FXvhlAFLWUgK+i+tIQ9yq2AmKt3sEIeBMmJaBtvZKChrJjeVM1p9U29TmGWT/nuKVpaXeN/xDV/55FULfmALogfCqI/Sw8I4ekehZDH8Y8R9d4ksutQAADFpvJpsRy9K783akk25VoudvpmGpPk9O4ejUUOj6sHzCdYG/tSLqZANLMp06T+ltZxpJwZ5wBAx8oJQE1BD+kHqWez5ES+zLULDbJK7bgpmBpUsdjI483B92EKW0ERFK2Jl+srIE5h+RMsGgc+JMn18uUJ9Y8kIQ4lyzQGzgGq8P8YhKCCU+vyPtM8pKZNHrSHWYqm/wuv3f2hFO1VCZeFkH6rqw==;oOjqT4QEzjFwlxPDzgPSDg=="
+secured: "+y6pWzoiQY7jWl4uEcc9P6RVaY4XGU7Aepq+Dj/GQH2OffUbVWKYeV9qBBMtiXkjT43UtvG51VC5ONVpChiSqqKh/j0QRFafOinm+zwcOZvmMgMufzNZ3wf5wJDLcXisl0LR1KAWegbqs/eo/tV5OtcmMrbIOjyy2+CO4bIe49gg4j0D3u1FsBMVgssHBLiMOHMqHJ0cXhywUl3N36UpRtbSc+g/rQ6IFJKPAloV4LP2p5j54G3xxyAldFXYWXdaVCyGzxsO9DpeHCmDgr+bGn9XpGO9mLZhHsgSFVOR8eJICWOIi29PtFJ7EhxTXAijgJbh9kga6pafgykQdtTdAbcoDQCfCT6Dj5NJPuNcgVnVsGv0Tz8yJsL7cq4DvD9Gn2/LgwN8nVN7mGXUVD5Q/A==;svswytNwfq1Vm6TvgOT4YQ=="
 ---
 

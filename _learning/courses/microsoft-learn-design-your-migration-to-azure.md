@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 44 mins
 ratings:
-  count: 1121
-  average: 4.6235504
-heat: 53
+  count: 1122
+  average: 4.623886
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Design your migration to Azure"
 
-secured: "H0/iAowyAVADYk6rDW8Plh0L5nAL62rfV7yw/vjqksn162756Qaa3gZE9+qaBiaCL3HKBlinKU/gfgM6pp7JXlrn0VGDGpPNkdAoIMbGKfMorV/lJNAmCbEeaBCrARPph9SYbl2S2DktHR1mUJ/+M0cyc/r1yaHlGpokdiCQ55UztfGud12E2Qfahw5GN7ULivTfsT9u9b13xCFJb6jY/WDMYPF2wBQb2km5fAViiMSurAVa/2Rbr4a6mfY7AK4FYlV/c9gzugiaGpyRSuAFSJlC1HAsOPtnmHuaXbnsT5bnyO/H56MAiDk2cObymJlFV3jXYw+05lznQyw2TyIA8Z5mXFiQKdzD6YCl2afrLuDRYfHjVFDMR88nm9PXH/uAgc9CVwK8ek5/pkNkLqyASw==;g9Vc+woPRmsBwlxeTXvMTA=="
+secured: "ai/95uVxkdJ2bB+z3xdOXD2bGdIp8IZdG9E+urrSthmnY+dozALaYvEdHG6qNnpEJRr+gEBEt2rYnhM2IRwVVM6s36wXaXAQwyuQkuiF0E/6lSm8jL9VBuZAhDBVKi0kmuw0F31Wzm8NYgCcIGtUDFm15vaKtB/GZOeiXPAciFVz1vdyy5Jvti2YHPnay7KLGAi29+hvZU8jS+m6yrVGzUGvyrqa7/+hynqNDeV0WjHPzbtZthApwfnidGSlb59eE3XEnT2xKSNEvs1b4vwp6FUVSJqhEnQ2J6GaazxairH8rB/SoVFefEjfNf2/pFqouYHQwF3jPK8jXFz4xCIyUeR55xi3AbsU/3UyrE+8i03sEe4HXYF6PYUSPFpXZxxzkdTboKIM09n5Um/XyttdMA==;ICEiizSL6+OWTcUg2EOXZQ=="
 ---
 
