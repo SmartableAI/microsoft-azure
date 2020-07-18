@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 77 mins
 ratings:
-  count: 588
-  average: 4.5935373
+  count: 589
+  average: 4.5942273
 heat: 52
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Encrypt network traffic end to end with Azure Application Gateway"
 
-secured: "i/DYeBZhtBZ6MJs9uzKBbOX1orCjiTvJZ2HE5mig8Rjbgi4hULVlAzbaF+5yX8eu1ku22jAwfUkpRsWvVmK7ADdcOeyS8Rbo7y7f06IeBdjx6kXnZgqQEE1wVnTMkjaxtbfCvey/xxEX1OR/rgKsRiOZx2Kj+SQj8qIOUNiSW8Uhz75u+sQJ3GqGJ3t/hqFQsWI8xb8SkhPM44AZVcrhOrOHEmd+gmxyPZjXXS1kQ2yXQevMkItpMIwUk/MrWrS93eJZKWytccpVB24kZd1vMwUJ3ekGWQfKdJ3Yi28tn0RCMxNPlNOHCOM1evCabwup+ulgxOcfdKEjH9qiqP+gqZ3tixHBfovkelytfCvCETuSmwIqLi5WoSgfvaFKbMcmoEyZkUQRf0McT76HSokFbA==;jv22ZftpEO9Do3tqcLE3fg=="
+secured: "l/AVMtPORqUVrcaYKz83zUrvU/FJtsJ8yPYZ9J/0XjZsTEuJRqWRQ0tCAMvhbbQmlQayP+fl4kODmfBXgyieDr6S/if4sC+vr+AZ4T59mpFt9PBCN7XpltcWEJ23hnW7VVxnU8lBecP8/2TGFNNJGcu9BYh6fHzRLoqVnBvOGkczZWWYMhxWaElh/27KZQW5YgYebU9Fs+TYLwNK+qGDGyBeWqfdKpvIvUQVnw/89+00KV0PEeRLH0zs8CCVxzGaNk00AXslYgqzucLFqOXLB0pTxdbHX+SC7BTqVHeYit1PGi01wAY+O4/N8T6oFQ1KXsr6iEHT9mGCIDl2a+miuiLVM865OsB68lVVN+GIL0DO0ZcEriILDutkZf8Orc3+suSkkHApZeWKdpXSBrDxow==;SkwTWqWnVuZRFdkt8/hi8A=="
 ---
 

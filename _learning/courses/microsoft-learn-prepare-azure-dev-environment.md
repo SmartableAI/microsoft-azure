@@ -8,7 +8,7 @@ length: 28 mins
 ratings:
   count: 4290
   average: 4.6848483
-heat: 67
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Prepare your development environment for Azure development"
 
-secured: "Zin6IM/WAp1/76H9GvpN5X2tE6djUMrK4FrREiXrj4Z8puw2yzxzzkhBu/hxEsvpCIc+sYSHZFfHo35Ve0X4iet0j3zTGOJ2DZ5haxcCmsdWcuNHvn3aMQftDHM/jdibvKMChKSjo2tXgPnpoKoPcuOEXvsqXFWyb5VwcozHO+Q+tQ4MqTizPTOpAnc8bxq5WkN0VZiNruiyVZbC3XSMtm6hsj4LfYcC6zRRRyL6IxWH0Jh0U0AmMOZ+KpoMN6wgWOlAdsqyIIlyOZycye2LxVmPCT0xvlOfEnFK43DSESiQVAsXcYkDsBP1L1jXN5tMMjJPcOQYSeeU4U9gJ9LeMpEyReNa9O1FIAkQp13IDT4F4482IRGfQ0CIcNSBBvpgSjjjYHz5c8QN3MhU8zgqfA==;oE4YpIHwXqcKBr1hjUsvLg=="
+secured: "theMH1ZqeXSog0VXVs4qbMrMghtCuQxFr6HXkTh4EneZGgPem6h7LDEm8zrtbOTjT+5bIjz0cXFqtpZ+JnZX07IRQBTyw52byG+DTMD5yW2l12sWzCIFQhwMgQNI7pMtiHiEnp7+wMzuuYRSPbD1hLeQlpwiftey9pY62orM+vccAaAddvvQ4HFukXRWRjf7rJGs+JQlNHYMpOtiXBlmOpCqU+CEtJbwO8UxOSMvBL6NrsXw5IORulp7LNnUsolL2+PSZi8JbxdLpTWpfJO83Aex3xE44QwcV4sZC4KEUK4cWVGAxKF9+ta+gyiliVKwpKdU4xSTy19T0qsfj5bzNhCGl+R+IJUhiIvKAcVarpVg9VID/bRB5kpxUuhqaNuD/QhxdP7ZUkJWSt4m87ch2w==;ksj4zKnXeuZLReblck47XQ=="
 ---
 

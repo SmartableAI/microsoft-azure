@@ -8,7 +8,7 @@ length: 50 mins
 ratings:
   count: 75
   average: 4.7466664
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -36,6 +36,6 @@ images:
     isCached: true
     title: "Introduction to open-source database migration on Azure"
 
-secured: "lLfQu4Di7NwsYRMZfc2dSyj7CE/vg5XkxOnukGOBI2fWXd9fdIJ06NaF+5o2EQi4M/khPh7Bq4nshZqojgbC61KIwAcNezeWzx//22/ZwQ7ZLGcOP5FmK+QM0alIStS8pNkFzTdEV/Qw0wOqXw+IMAJK3jewPheBwh1mWl3XkQUbKFBtT1lJP9ybTNm5OyDyswDSl8qKiwaCuzReFhXcnmVDcxNDWwQuy8gagOVs78H076XUPhyoYXU2iI4yBmBT9kZ7VRwgbwkmtoCCL/wlx6j2+5RABDcV6Kgd8QKsYtWvZzJs46P5lqBUqGxocek86QgnWaFKUulWclSOgp9IR2EL+Tqa6cB1Ry/aEgVJXfcVWdTBal1S2JhUNJWiC/kvVM3G1Z8oYMdqAEohCIBPSA==;aNAlKB1c1/gc7Z+xGFogdQ=="
+secured: "r1b+AIIFyKVUZhBMFRgJa4kh9dsHpP6JIIXU8n+ViLhe8yZ/40sMx/y+FR7BHRJ6l4Bf+Ob/GwL3SQ0Vaa7jJl+VkYsPH6dSVZGsJ0iLKidETjv0yBnFmyso8oD5oq1+smgjjbr+bx7xZDvdL2DZumUEnRhnZHu7zpYqhg0WbqgJQAqfEZTWuHK267O+QptaXiM/Uq618tq3yaAS1wioIn31x7+7Dn5LrU4n0cnGgToUbLgtvYXi+7OzbUNXZntaVB8XmIYft+d2yvPuxtJGAgsytz4qKX6+M2yx874yLwRCmpHg6u5T5fiYE8vIzwbGAjPM93wh71WqH2zjCT1qtmfIVBqU8s8S5N5pgaHrRH7dyrhFT66391wjpYjxY/OqvMqWKryyhZiUaJ5NIuPr7A==;bf0I4QgWLCgfAOkuUIThJA=="
 ---
 

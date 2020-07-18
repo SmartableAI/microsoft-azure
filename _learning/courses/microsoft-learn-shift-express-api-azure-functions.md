@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Refactor Node.js and Express APIs to Serverless APIs with Azure Functions"
 
-secured: "cGcJmxEnWQKn+ZhJJYK+20XyUcRnb/42k5VjEvtF5n4XNydEEbEnJsLXnlY7rQpCNjMQIzsHtsMg6u1L0KGbDABT59+j4uW1wgiUeT5KvOyjkyFmx6as0Ko4ZF+51dvWtkDB78z8RzQKvvkMvDHAMXNyJ6R2+dKix37vsX9trIj+HeIUG9H07ZFfchsOrIhWnjYc3Dlt5wY3Yf/7za9qCHu1eLsHgsYQ+Mtb1Vz4rcN3KmixtVDSTruvfB+RVuQqyjgK24WpMAbz24Ollm8HsezYTLE1oT6V3zkeS+5RaBnloL0PpNpYP/4y9fobkwNVNFWwRgz6Zg0fUA8G3VVB5cK9UVpxWsYs0uLcu3kU1SQGTwLJv3e8Ji+KDOWHji/2s5KmPQK5Oe9XgiKR34BL1g==;SfEB95GqhQiKvYmHdzBjdg=="
+secured: "JRImNNdTdoF9FkBn9Sb5AlQlZqqRzZk0eAY6bkT1I35QgXojoW2WiT2mO+7AMa+f/bsfgk06XUw/b7ZJaQUNL0yCiaeIsVUlysbfHcYKsUVW4soKFF3Pm/v7AV5Qh698IhBbCv7209+kVqsG2XlOdicG5O04y+bF1Wg1lnNk1w6D8mDXYguB3MbQXJYBsZsquG0Ldhs0YE+Bq/F8sccHWmGhj+QvKksarKYr6CkBL1klb8NWnr8pVVON1lmR62X49odw5anq9bzPguB/Wwk2ctzQWKyfO8Qi11xi0BMmzYl3HaAL+5cN0Fe/clmyEOykImSg/cCTtASPbj+GwFqAi5LRtWNRqTSWLXA61NF8OES2U5ge/cGcWsc4/sCSmEE7jHZ6RqOVek8K3Ldq1csTIA==;MUczGFCPzvbH0OBQoAH09g=="
 ---
 

@@ -8,7 +8,7 @@ length: 53 mins
 ratings:
   count: 120
   average: 4.758333
-heat: 50
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Automate IoT devices management with Azure IoT Hub"
 
-secured: "GdTs/NDY13CKqtfWdO6L2lYCHGFs1sOl6/Kzi0eLXa0CwTRlKWjr+mFQVt24tswhVo3enFvfiSHjFlcYKsCrXeTy+NF7FIpRNP6WzAiqjAweY861H/11SW9HLuBsUaIl/kr/IdeIwPhD8PPVFcj9TlRmpsVPxJRa+purDalQgDGpEyuElC0GhLIivMod+DUxDhCIT75+I6Bd5DqB75qFrKL9BjImcRoc4WngNJOyPbibIh5EmzJf/xCnhvDcevHApiSV5Gyphnrr1tdpAyEvkT3MyzM4eJ4sYBDBRFsTEftdHS249yIkmi8wIY/37/nnFKAt+apLCWDP6H8Nyysd9WYdYaiNHR6TD4JgiJHULDytPxPHPpb0CnNxw0gamYDEzNA5JrQPhd50B248nyjsxw==;piUO5pAUbYAwt8L8oxKvRg=="
+secured: "TPCZ+ORURiYNqzzQpNOFws0aha3TVXn3l7IYEj1YaFgJ1V5lqWEMRGrR8T41GuFSQ+L1JewLrS8BOGrpeqrdkJqJJ/fxs5Ul0Nu2wupqGTym7zoW7n6ZNh+fye7nqf1sl1xb4p/+64QBj05dng6S1Uz7M5exGdr2lTwokd6d/p67wzp6jYdl8SyiZIKa0ogAQ9EHAweToFu0SrdV1cWPOiXMC/jcgIacEWwADKv2nX3fAxZCJP+Jger2sE99AL3yXbna9qr8itUu17ZLHm4GNmdoXft7vZLvtIdkjxVlIkLZbZAx5DsoPuaSQjTrdqSj7DVJFrQ8pctvhN+X6/zELGdkPBPlR5+sfyLyO2mHbD2/SFveWdO5wE+rhuo0ffbaZQt+KMuSeos4lPnrhpnaWw==;QVvPgTR3XTCbiwk1yDQSng=="
 ---
 
