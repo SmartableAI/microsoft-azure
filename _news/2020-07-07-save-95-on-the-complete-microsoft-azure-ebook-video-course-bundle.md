@@ -40,6 +40,22 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Become a cloud pro: Microsoft Azure certification prep bundle is 97% off"
+    excerpt: "Online instructional bundles like the Complete 2020 Microsoft Azure Certification Prep Bundle are great starting points for joining the ranks of these in-demand Azure specialists regardless of your previous experience in tech or IT. And this particular ..."
+    publishedDateTime: 2020-07-17T20:19:00Z
+    webUrl: "https://www.zdnet.com/article/become-a-cloud-pro-microsoft-azure-certification-prep-bundle-is-95-off/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/become-a-cloud-pro-microsoft-azure-certification-prep-bundle-is-95-off/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/become-a-cloud-pro-microsoft-azure-certification-prep-bundle-is-95-off/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 96
+    images:
+      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/05/27/30b4c6f7-2493-46a3-a96e-036d37d7b5dc/2020-05-27-at-2-12-29-am.jpg"
+        width: 1432
+        height: 1070
+        isCached: true
   - title: "The Complete Microsoft Azure eBook & Video Course Bundle (95% OFF!)"
     excerpt: "Lead your Business toward success with The Complete Microsoft Azure eBook & Video Course Bundle, featuring over 15 hours of video content and 6 ebooks on Azure Cloud solutions, integrations, networks,"
     publishedDateTime: 2020-07-08T04:02:00Z
