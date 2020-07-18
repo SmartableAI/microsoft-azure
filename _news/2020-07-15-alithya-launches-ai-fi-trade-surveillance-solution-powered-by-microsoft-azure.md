@@ -49,6 +49,15 @@ related:
         width: 985
         height: 657
         isCached: true
+  - title: "Barracuda, Microsoft Tout SD-WAN on Azure for Multi-Cloud Services"
+    excerpt: "Barracuda CloudGen WAN allows companies and service providers to create a pragmatic Secure Access Service Edge (SASE) solution in public clouds, according to a statement from Microsoft and Barracuda. This could pave the way for greater public cloud ..."
+    publishedDateTime: 2020-07-18T10:53:00Z
+    webUrl: "https://www.channele2e.com/technology/multi-cloud-management/barracuda-microsoft-sd-wan/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 17
 
 secured: "XjQ4NyjWBKNA93wvUWbrDulpyZDd/GP788KbGuS+/7yUoBCbxouLIZVNHhhyvBfG1IFN4tNa9Jg97QRsfdvRlQDf/fmoY6kd8mJ23OmNa6wJXWaNIRGw/Cuh7xsiiwyc9dN1zYZ3KtW4xrJ8Mv7GH+NAbhe3kSTmwaa0eMK0WOyD/T88cO9/UiFqVZ2qT3OGTxfaZLPKRGOIcoDQRJ/e1LkG7tAT5QrtxsIoqGyfDpOUSQBiFDq4Bm11OFuT/8KdTzvay/IE8QBPUcGs5GTcwmDPZbf7JGIq7X26JUaDKdMeNmgRtS7S0MVOgOshNRA4SMvuvFRH0V4gQNZJUc3nNg==;/ZIPwxnnSmGyLhVPwdkTlQ=="
 ---

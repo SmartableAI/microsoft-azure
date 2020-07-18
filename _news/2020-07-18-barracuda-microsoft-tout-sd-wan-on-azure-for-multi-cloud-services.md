@@ -1,26 +1,20 @@
 ---
 category: news
-title: "Barracuda Networks launches new SD-WAN solution for Microsoft Azure"
-excerpt: "Called Barracuda CloudGen WAN, the service is pitched as the first SD-WAN solution that runs inside Azure Virtual WAN Hubs. A virtual hub on Azure is a Microsoft-managed virtual network that enables connectivity from other networks with virtual VNet and gateways as optional components."
-publishedDateTime: 2020-07-16T17:30:00Z
-webUrl: "https://siliconangle.com/2020/07/16/barracuda-networks-launches-new-sd-wan-solution-microsoft-azure/"
+title: "Barracuda, Microsoft Tout SD-WAN on Azure for Multi-Cloud Services"
+excerpt: "Barracuda CloudGen WAN allows companies and service providers to create a pragmatic Secure Access Service Edge (SASE) solution in public clouds, according to a statement from Microsoft and Barracuda. This could pave the way for greater public cloud ..."
+publishedDateTime: 2020-07-18T10:53:00Z
+webUrl: "https://www.channele2e.com/technology/multi-cloud-management/barracuda-microsoft-sd-wan/"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: SiliconANGLE
-  domain: siliconangle.com
+  name: ChannelE2E
+  domain: channele2e.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/Jenkins.jpg"
-    width: 985
-    height: 657
-    isCached: true
 
 related:
   - title: "Barracuda launches first global SD-WAN service built natively on Microsoft Azure"
@@ -39,6 +33,20 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Barracuda Networks launches new SD-WAN solution for Microsoft Azure"
+    excerpt: "Called Barracuda CloudGen WAN, the service is pitched as the first SD-WAN solution that runs inside Azure Virtual WAN Hubs. A virtual hub on Azure is a Microsoft-managed virtual network that enables connectivity from other networks with virtual VNet and gateways as optional components."
+    publishedDateTime: 2020-07-16T17:30:00Z
+    webUrl: "https://siliconangle.com/2020/07/16/barracuda-networks-launches-new-sd-wan-solution-microsoft-azure/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/Jenkins.jpg"
+        width: 985
+        height: 657
+        isCached: true
   - title: "Alithya Launches AI-FI™ Trade Surveillance Solution Powered by Microsoft Azure"
     excerpt: "\"By hosting AI-FI™ Trade Surveillance on Microsoft Azure, we have increased our flexibility in configuration, while decreasing implementation time and cost. The advanced security features of Azure ensure that our customer's data is highly secure.\""
     publishedDateTime: 2020-07-15T12:09:00Z
@@ -50,16 +58,7 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 33
-  - title: "Barracuda, Microsoft Tout SD-WAN on Azure for Multi-Cloud Services"
-    excerpt: "Barracuda CloudGen WAN allows companies and service providers to create a pragmatic Secure Access Service Edge (SASE) solution in public clouds, according to a statement from Microsoft and Barracuda. This could pave the way for greater public cloud ..."
-    publishedDateTime: 2020-07-18T10:53:00Z
-    webUrl: "https://www.channele2e.com/technology/multi-cloud-management/barracuda-microsoft-sd-wan/"
-    type: article
-    provider:
-      name: ChannelE2E
-      domain: channele2e.com
-    quality: 17
 
-secured: "2nBOd3WAdEXrYgEVVBI1sO+8NJW1nHRappvwz+MNHeB6qO4XIGIy9xSbjUf5DnYKOf8UuusmMOrFYiHE6Bsp72FsOjY8FehTnu4ncv0ia8/gNN/cM+lMK6m0xUSaeXifZlJEodcXj30xRnVXuAFAWF4ch8YZyMN9a7IbkzVerYswzFTSCkFLK1lPnhqGhT1SFbzkAexNabHbbDwbdPkEUnb2YeVpYOKbR/nkdhUQpuX+Q33KxSBh5MS9bBSYGTn0LtN7q3DkHIP4nvlF4fVC6+UvtSWMUJFyXcCJl2xQ8RWU9Zp+Cnz9eODCDwPz96tfwlnRS9MhFz9aX1C2jy4LNfbzJsg5C3goNiwYInzNrGfZGTqUsoqNvkF45KM+MCnPOYLX0NQJuUtDVCzvPdjww4Oz4aK1aGq/RAmIY7ZIdXXbxeXsFUy8LhC9ZAJGNuplaqqTPi8SvU09yE3viabq6kMg1J0KyZTCKo136dEXbivIW/jG2FLVoQOvQb19SnM4ivonWXzGE5GYKiZwPrAX4w==;foq+Bhj/T4TJlQkjnPlAQQ=="
+secured: "bXCe3lo4nYjgLYWIAnRCpP9sPhZTNlMHSymIXqOXkQVYAliWqGel45KbL46YPDL2x5u6vr+B+p1ofPDSr0Fg3TvCQD7EZNzusxa6GFafYK+nQN3nmFUZ6kw+aeinONsQ6GlduDFZqnKH1j919oNBX0XQPsgjhj78YBJ9vOF1K54LCCjhLWnoOtXvNlEXVgGzigAe+moFAyaJb7vusXxz5vkDu/QJuLpBA1hOsvau4CRG7ula0YhHfwXTLjqnjvkEWHMu22GbcNcCylULyLEYYQk95ADCGRYol7w6TcJXxSSxs4eaeyi6J4f6DnDS+G2XD5lDHWaswPWTcCFY1G8xU+2T7tMcG5feV+y+OcN/05w6xg4V1QijxGgqzTJlIViLrCavHHvNavESzpp5YeLQ9iSif49k8Uvj5/tvd9MVvgJSKu8pcDBCueXZqrxCB9FHsNiNccO07hPSnAoT0Bk8rtrCd3jGr/5WzjIa9feyXzpLnhwdIt5COY5ekvsepXWJ;Zt3W+0mWZn3p+wMDf72XYw=="
 ---
 
