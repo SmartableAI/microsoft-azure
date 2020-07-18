@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Google Is Extending Analytics Reach of BigQuery to AWS, Azure"
+    excerpt: "The Google Cloud Platform (GCP) this week announced BigQuery Omni, a multi-cloud analytics solution that will work with data stored in the GCP, Amazon Web Services (AWS) and Microsoft Azure. Currently, users of the BigQuery data warehouse can only work on ..."
+    publishedDateTime: 2020-07-18T15:21:00Z
+    webUrl: "https://virtualizationreview.com/articles/2020/07/17/google-bigquery-omni.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 37
+    images:
+      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/IntroImages2017/0717vrcm_CTOOpinion.jpg"
+        width: 647
+        height: 450
+        isCached: true
 
 secured: "keHfeuFwtbwv3wifQgxufarKYhaU2hw7AdK+gKCv0iVC9fUlxW2UBXYl7DODBhr8f9y+ZAlCUnKSNqfJktnsu6oDFpUNKPLJ6DfCvz5wy0BqD0I4ow2uhJbL1T0kGfvJjB97Y1LGea5pR6P3f2x8X7/itoAGGu5IW//aFvPGU9yDQ8qTDikE8wg11Ds8cO1tDakL9THr2tEfK9qzfhTJ9V2lVLSKfdUnm9m4wiw37XHcyJI9w8sxGkA2dKOYalDXA1zzqrpiwKhm7jKuDeflVTgCPSoRVtYrIWRBSgqKX56B5IPml5DWdKXASVIAeDiSvKMNjOQ9PNvjgT0gm+iFo2zx9+CaRdovkp4FPwhA40NkZVruVq4QYhZ+pD7W/XyNPn12BNrPyddgbAqCTm5OSpwl+9sJ+edG/ByPPmnichUhFTCc+gIe/pdFfOB4ylnPc/5boVkuqbGi8cDYUGw39jcSW2jimYReXQt78ZI9+lpl3Hdd051UI8SQDOFtubhisQtP3bNEzjOYTG/JSntk5g==;Ne2S0Ob7EAZbRCl8i6A9EQ=="
 ---

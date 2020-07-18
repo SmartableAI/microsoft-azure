@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theregister.co.uk/AMP/2020/05/22/microsoft_bags_18_milli
 cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/22/microsoft_bags_18_million_mod/"
 type: article
 quality: 40
-heat: 60
+heat: 40
 published: false
 
 provider:
