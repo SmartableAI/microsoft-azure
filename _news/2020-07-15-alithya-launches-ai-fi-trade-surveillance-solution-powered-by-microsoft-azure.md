@@ -1,40 +1,28 @@
 ---
 category: news
 title: "Alithya Launches AI-FI™ Trade Surveillance Solution Powered by Microsoft Azure"
-excerpt: "\"By hosting AI-FI™ Trade Surveillance on Microsoft Azure, we have increased our flexibility in configuration, while decreasing implementation time and cost. The advanced security features of Azure ensure that our customer's data is highly secure.\""
-publishedDateTime: 2020-07-15T12:09:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/07/n16626911/alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16626911"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16626911"
+excerpt: "CNW Telbec/ - Alithya Group inc. (TSX: ALYA) (NASDAQ: ALYA) (« Alithya »), a leader in digital strategy and technologies"
+publishedDateTime: 2020-07-15T11:49:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure-1029396553"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure-1029396553"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure-1029396553"
 type: article
-quality: 33
-heat: -1
-published: false
+quality: 73
+heat: 153
+published: true
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 related:
-  - title: "Barracuda launches first global SD-WAN service built natively on Microsoft Azure"
-    excerpt: "Barracuda, a leading provider of cloud-enabled security solutions, has introduced a new secure SD-WAN service built natively on Microsoft Azure. The new Barracuda CloudGen WAN service is the first SD-WAN solution that runs inside Azure Virtual WAN Hubs."
-    publishedDateTime: 2020-07-17T07:11:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/barracuda-launches-first-global-sd-wan-service-built-natively-on-microsoft-azure/article32111482.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/barracuda-launches-first-global-sd-wan-service-built-natively-on-microsoft-azure/article32111482.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/barracuda-launches-first-global-sd-wan-service-built-natively-on-microsoft-azure/article32111482.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 52
-    images:
-      - url: "https://www.thehindubusinessline.com/info-tech/nozm6x/article32111481.ece/ALTERNATES/LANDSCAPE_615/BL17CLOUD"
-        width: 615
-        height: 384
-        isCached: true
   - title: "Barracuda Networks launches new SD-WAN solution for Microsoft Azure"
     excerpt: "Called Barracuda CloudGen WAN, the service is pitched as the first SD-WAN solution that runs inside Azure Virtual WAN Hubs. A virtual hub on Azure is a Microsoft-managed virtual network that enables connectivity from other networks with virtual VNet and gateways as optional components."
     publishedDateTime: 2020-07-16T17:30:00Z
@@ -49,16 +37,49 @@ related:
         width: 985
         height: 657
         isCached: true
-  - title: "Barracuda, Microsoft Tout SD-WAN on Azure for Multi-Cloud Services"
-    excerpt: "Barracuda CloudGen WAN allows companies and service providers to create a pragmatic Secure Access Service Edge (SASE) solution in public clouds, according to a statement from Microsoft and Barracuda. This could pave the way for greater public cloud ..."
-    publishedDateTime: 2020-07-18T10:53:00Z
-    webUrl: "https://www.channele2e.com/technology/multi-cloud-management/barracuda-microsoft-sd-wan/"
+  - title: "Alithya Launches AI-FI(TM) Trade Surveillance Solution Powered by Microsoft Azure"
+    excerpt: "PRNewswire/ - Alithya Group inc. (TSX: ALYA) (NASDAQ: ALYA) (« Alithya »), a leader in digital strategy and technologies employing more than 2,000 highly qualified professionals"
+    publishedDateTime: 2020-07-15T11:39:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/alithya-launches-ai-fi-tm-trade-surveillance-solution-powered-by-microsoft-azure/article_799b4fa7-7527-584a-b238-0f1c1f27756d.html"
     type: article
     provider:
-      name: ChannelE2E
-      domain: channele2e.com
-    quality: 17
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 32
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Aureus to upgrade e-Discovery solution for legal profession, powered by Microsoft Azure"
+    excerpt: "A lot of insights will be hidden in this aggregation of raw data. The scalability of the Microsoft Azure cloud provides an effective way to collect and store the data—and Aureus' R&D on knowledge mining can help attorneys and paralegals mine key ..."
+    publishedDateTime: 2020-07-13T08:43:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/aureus-to-upgrade-e-discovery-solution-for-legal-profession-powered-by-microsoft-azure-828476315.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 29
+    images:
+      - url: "https://mma.prnewswire.com/media/1213215/Microsoft_PR_image.jpg?p=facebook"
+        width: 1706
+        height: 893
+        isCached: true
+  - title: "The Microsoft Police State: Mass Surveillance, Facial Recognition, and the Azure Cloud"
+    excerpt: "Microsoft helps police surveil and patrol communities through its own offerings and a network of partnerships — while its PR efforts obscure this."
+    publishedDateTime: 2020-07-14T19:45:00Z
+    webUrl: "https://theintercept.com/2020/07/14/microsoft-police-state-mass-surveillance-facial-recognition/"
+    type: article
+    provider:
+      name: The Intercept
+      domain: theintercept.com
+    quality: 29
+    images:
+      - url: "https://theintercept.imgix.net/wp-uploads/sites/1/2020/07/ms-police-state-final-theintercept.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800"
+        width: 1200
+        height: 800
+        isCached: true
 
-secured: "XjQ4NyjWBKNA93wvUWbrDulpyZDd/GP788KbGuS+/7yUoBCbxouLIZVNHhhyvBfG1IFN4tNa9Jg97QRsfdvRlQDf/fmoY6kd8mJ23OmNa6wJXWaNIRGw/Cuh7xsiiwyc9dN1zYZ3KtW4xrJ8Mv7GH+NAbhe3kSTmwaa0eMK0WOyD/T88cO9/UiFqVZ2qT3OGTxfaZLPKRGOIcoDQRJ/e1LkG7tAT5QrtxsIoqGyfDpOUSQBiFDq4Bm11OFuT/8KdTzvay/IE8QBPUcGs5GTcwmDPZbf7JGIq7X26JUaDKdMeNmgRtS7S0MVOgOshNRA4SMvuvFRH0V4gQNZJUc3nNg==;/ZIPwxnnSmGyLhVPwdkTlQ=="
+secured: "uDsX4x9dYy1Z0tYtLsU4p068fcd8kFUh6ZEFdcLB8DWKwBm9RBucGFKX7UVHaj8s8fTiRUNTY0v33XZyqxnykzwKIMxCvgrqyLSgC+y7XMJPPM7N7yK/WsuZafHwheV7tRpvTkSjCvfUnvUsDJ8a9EJvEHsTFnFIGLVNMKdg9Xh9ThK2MPhYkPodLppTqih+qC90sFfbvwu8nwu0ri/7ze/fRxPleA94LJBc+VKVvdEK3QWqeJt/v9ubBMuE4BzRqSLqpILmRKTkcoTKviI4MRgZs+/Ax+zBPZMGE+sM+8uZwXYVSaedsUb2/5zTRXqGRnmhVAaHYw5nQ2SVjP45cw==;xxMgOoY02H/SoDFRQR0oIg=="
 ---
 

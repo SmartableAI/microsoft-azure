@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-15T11:39:00Z
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/alithya-launches-ai-fi-tm-trade-surveillance-solution-powered-by-microsoft-azure/article_799b4fa7-7527-584a-b238-0f1c1f27756d.html"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,31 @@ images:
     isCached: true
 
 related:
+  - title: "Alithya Launches AI-FI™ Trade Surveillance Solution Powered by Microsoft Azure"
+    excerpt: "CNW Telbec/ - Alithya Group inc. (TSX: ALYA) (NASDAQ: ALYA) (« Alithya »), a leader in digital strategy and technologies"
+    publishedDateTime: 2020-07-15T11:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure-1029396553"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure-1029396553"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure-1029396553"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 73
+  - title: "Barracuda Networks launches new SD-WAN solution for Microsoft Azure"
+    excerpt: "Called Barracuda CloudGen WAN, the service is pitched as the first SD-WAN solution that runs inside Azure Virtual WAN Hubs. A virtual hub on Azure is a Microsoft-managed virtual network that enables connectivity from other networks with virtual VNet and gateways as optional components."
+    publishedDateTime: 2020-07-16T17:30:00Z
+    webUrl: "https://siliconangle.com/2020/07/16/barracuda-networks-launches-new-sd-wan-solution-microsoft-azure/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/Jenkins.jpg"
+        width: 985
+        height: 657
+        isCached: true
   - title: "Aureus to upgrade e-Discovery solution for legal profession, powered by Microsoft Azure"
     excerpt: "A lot of insights will be hidden in this aggregation of raw data. The scalability of the Microsoft Azure cloud provides an effective way to collect and store the data—and Aureus' R&D on knowledge mining can help attorneys and paralegals mine key ..."
     publishedDateTime: 2020-07-13T08:43:00Z
