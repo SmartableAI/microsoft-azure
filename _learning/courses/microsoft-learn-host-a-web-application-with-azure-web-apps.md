@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Host a web application with Azure App service"
 
-secured: "COdPHMTrtBm+cW//YGU/ZLJD5Ux8OYjwavXrDJ6/g0iVNc+W2EOyrcHS4QWnLHtZMJ5CLo6MeAJN3W/TXUvAnYivGCJzmNmeIkRb8xXEMD6DENBESCWiLSPzJ1wz4VsEFlnpjh7GNQGdrqaxc2smX787iRUMTKYw9fpoYHTWH/l07JVzg6oJ62vU5QbB2wXYNMm3LexBQJQuE3+CFhnjTUMkBTld0ZwjJ52y6ctHn/2pPNSo2xDZOPEm19Asi6biF/IT9WnXBmDcI5BYcecyydbJ1Gdq+cDDAmxsxG0lZfU37VcYNVi82c6QLEegAjrUeAZ2QbczlMdonEVi/3iHfTaZP66pfNOY/uWkJPzoJsp/DI4SUPDxqIKBm9Eka6RGp1b6QzRDLJDrl00s/CBGvw==;83o0k63cmXpcmhjsG0tXyA=="
+secured: "NHs3QHcJbovldirDJYCMgRGUxQ+6M3SCeHPAUorNz18KDcD06/PxUaqAKuP0Q1QIVBdVl5lzRMgTTaYOLJu15rqBYh+b+jgSJuH1o7BegdbTjatWxJqePgJ8hdI5czqtyKFTBtOn7lNfCseYZkRgN+39uHIwBM/13PaMHCTQlVz/fC4M6OO6iPUkG2g/qcesxj5y2ZDfLvkQ/WNsEwJ5uaa2IptKasm2qeQNyCAAx90Xly0HWhWZT+BipKoHwysxWamcCE/DhRIYz/IVgEmFqORfgCKEPjxbxYZJ6pyyd0iElrLel/+uvUQgG2A1soIcyWGkub8SmqbqS20gX6Yr5va+YQ8GZcLTlOUX8ql4qDPkrOrdwmm0iPA9xWhT2FR6r6ULpSfjQ4f6nO+dKdU1sw==;5eXh2BqnS57rkxFIIAM28g=="
 ---
 
