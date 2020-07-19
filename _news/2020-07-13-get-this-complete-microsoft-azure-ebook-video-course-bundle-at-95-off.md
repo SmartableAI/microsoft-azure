@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Get this Complete Microsoft Azure eBook & Video Course Bundle at 95% off"
-excerpt: "Leverage PowerShell to Perform Many Day-to-Day Tasks in Microsoft Azure Migrating Applications to the Cloud with Azure [eBook] Modernize Your Apps with Microsoft Azure by Moving Web, Desktop ..."
-publishedDateTime: 2020-07-13T16:48:00Z
-webUrl: "https://www.neowin.net/news/get-this-complete-microsoft-azure-ebook--video-course-bundle-at-95-off/"
+excerpt: "Lead your business towards success with 15+ hours of video content and six eBooks on Azure cloud solutions, integration, networks, and more while saving over $650 off the normal cost!"
+publishedDateTime: 2020-07-13T16:46:00Z
+webUrl: "https://www.neowin.net/news/get-this-complete-microsoft-azure-ebook--video-course-bundle-at-95-off"
 ampWebUrl: "https://www.neowin.net/amp/get-this-complete-microsoft-azure-ebook--video-course-bundle-at-95-off/"
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/get-this-complete-microsoft-azure-ebook--video-course-bundle-at-95-off/"
 type: article
@@ -116,6 +116,6 @@ related:
         height: 558
         isCached: true
 
-secured: "9rqKH4HxHI8yiYSVNUMkmQu8L57DdJ/hUeP5P09kB1I4LG62qClmSmaUPg0M9IK4Z0C04X1wKWMkFh/mWk9a1wllL38rU6I2orpPxXsfRs2hzqMKVSrbMGg83efa3lZTVz6/0Ha0G9+nwyunJ4LqtHcjFGqHTejqwtos8splEmiKsBv8Js20cn49E3t87KEtXTpoJE2tBIp1Kfk1B48D4R5yl10yEZmaif6WV4htAKLAU6pxw7sLdvZ6/9MsYGgiWlXX042F+cwPDnwptSPzvsS3iPd7rFPwp1TbpHTDRv77Jy2+iNhGKyKswbUil7uoSS7E4jLgP+wAwgpJpb6htA==;bkKBNF2HsFfrrkdBdsNnCw=="
+secured: "IbvAqIrPPrygCKt1heUFkOOAXTOOo7DWzYBzuVgMgfonMyBRIiuYt7Mxf9RbPFwbGbkmR2Z+bInbzE//6ngMMeMdUL3xn7ssZaXnO1cKX8oO/Pz5RtplIocg1/iDJXD//jOwvik+k0SflApf48/KlPFobJIr+NWuPP2L8VFBu+XYwFsv0gN/ULF+rlbaOJNTQwODJ+tQJUGPLEU7hrh0/IuxJK+y5VReyslfImHxlknyg0VCoow92tgnmYKQfRVS4EWW+hA1jrifzorNLd3R9OStjBjhK1188gjAlrT8xPUi9buR7jWSYEUDS+nhF9StGPweXztJPOH6EhhDmxS2Rw==;GdJ3wWb8YiiYJ4h22+c/dw=="
 ---
 
