@@ -37,6 +37,22 @@ related:
         width: 1018
         height: 763
         isCached: true
+  - title: "Microsoft to launch Cloud PC service powered by Azure, according to report"
+    excerpt: "Microsoft will reportedly launch a Cloud PC service. The service would allow people to use PCs as thin clients for Windows, Office, and potentially other Microsoft software. It was recently revealed that Windows 10X will stream Win32 apps through the cloud."
+    publishedDateTime: 2020-07-20T14:45:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-launch-cloud-pc-service-powered-azure-according-report"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-launch-cloud-pc-service-powered-azure-according-report?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-launch-cloud-pc-service-powered-azure-according-report?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 55
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/05/surface-book-3-logo-profile.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Barracuda, Microsoft Tout SD-WAN on Azure for Multi-Cloud Services"
     excerpt: "Barracuda CloudGen WAN allows companies and service providers to create a pragmatic Secure Access Service Edge (SASE) solution in public clouds, according to a statement from Microsoft and Barracuda. This could pave the way for greater public cloud ..."
     publishedDateTime: 2020-07-18T10:53:00Z

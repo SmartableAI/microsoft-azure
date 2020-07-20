@@ -8,7 +8,7 @@ ampWebUrl: "https://www.infoworld.com/article/3566559/bigquery-omni-will-query-d
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3566559/bigquery-omni-will-query-data-across-google-aws-and-azure-clouds.amp.html"
 type: article
 quality: 97
-heat: 197
+heat: 217
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/2020/07/13/990e67e9-f496-4dab-805d-dcc1399d8b4d/explore-bigquery-omni-under-the-hood.png"
         width: 960
         height: 540
+        isCached: true
+  - title: "Get training in AWS, Microsoft Azure, Google Cloud, and CompTIA with these classes"
+    excerpt: "Amazon Web Services (AWS) is by far the most popular cloud services provider on the market, but Microsoft Azure and Google Cloud also have a lot to offer. This training bundle dives into each of ..."
+    publishedDateTime: 2020-07-20T14:42:00Z
+    webUrl: "https://mashable.com/shopping/july-20-cloud-foundation-certification-bundle-sale/"
+    ampWebUrl: "https://mashable.com/shopping/july-20-cloud-foundation-certification-bundle-sale.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/shopping/july-20-cloud-foundation-certification-bundle-sale.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 91
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F07%252F20%252F2a%252F288cc550936045a9829d0c7ac885da43.de3b0.png%252F1200x630.png?signature=_033ryXxiHP7FX--_CpIVfbfA1M="
+        width: 1200
+        height: 630
         isCached: true
   - title: "Google Cloud’s new BigQuery Omni will let developers query data in GCP, AWS and Azure"
     excerpt: "including those of Google Cloud competitors like AWS and Microsoft Azure — though for now, the service only supports AWS, with Azure support coming later. Using a unified interface, developers ..."

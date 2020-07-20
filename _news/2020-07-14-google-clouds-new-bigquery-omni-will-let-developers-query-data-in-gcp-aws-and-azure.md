@@ -61,6 +61,22 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Get training in AWS, Microsoft Azure, Google Cloud, and CompTIA with these classes"
+    excerpt: "Amazon Web Services (AWS) is by far the most popular cloud services provider on the market, but Microsoft Azure and Google Cloud also have a lot to offer. This training bundle dives into each of ..."
+    publishedDateTime: 2020-07-20T14:42:00Z
+    webUrl: "https://mashable.com/shopping/july-20-cloud-foundation-certification-bundle-sale/"
+    ampWebUrl: "https://mashable.com/shopping/july-20-cloud-foundation-certification-bundle-sale.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/shopping/july-20-cloud-foundation-certification-bundle-sale.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 91
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F07%252F20%252F2a%252F288cc550936045a9829d0c7ac885da43.de3b0.png%252F1200x630.png?signature=_033ryXxiHP7FX--_CpIVfbfA1M="
+        width: 1200
+        height: 630
+        isCached: true
   - title: "BigQuery Omni could give Google Cloud a better chance at stealing market share from AWS and Microsoft Azure"
     excerpt: "Google's BigQuery Omni will position it as the brains of multicloud operations, which could help Google steal market share from Amazon and Microsoft."
     publishedDateTime: 2020-07-15T15:25:00Z
