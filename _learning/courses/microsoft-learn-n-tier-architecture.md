@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 39 mins
 ratings:
-  count: 615
-  average: 4.8146343
+  count: 616
+  average: 4.814935
 heat: 50
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Tour the N-tier architecture style for your application"
 
-secured: "Tmi91lNRTuE4SPSCpXTp5L1nzp2wm/p0IPG7U+CV1AGC31+N6l9oYTfjpYygxnjiIOTuxBmLEpsykHmPlZxEqN24xrmZ1D2Yg/xpbbIR0mUYTQymnrW/9e+W8yUGtuai/70VJNksilLsgEnPSoU/XVKTT/9v2IIlXgi3frln4hAybgqyzW6e4g4WEAId9yE7zfMl9bAmlzk9mqt5c3IU2K86pq8OnitWuh+NCRBkD19GsRmqAizPP3bjMLRBpykq0KQfQIekiE6vcDld6RLcY5s91byey33pMBKjjPFxGlAQV9meg7R7fZfnk4mIrKer6h+Vfk9qWm/xXeKpSNmMHO49P2vkNAILNRyhBRrcrT5arTy8u8jYFOdSqGIzPtmhnaq72FJEctB1lCH8bJyrPA==;bKAVQ/3IbBj+gBtrWlmHrg=="
+secured: "1VUfG32PxM5PHUsSd0fW4iupKSki6x1Ovm1g2XIVu0kJz/uN+taVO6iyCgBlFcLLS7aL9ex1c5/IYfVtc/ETnZCc3AHZ+YxZcBcM81COLi+Pt7nfxvTFmQpcxIt9oe6OHiWrifazDsrggOh/zJdh3roBqNcLKgqnBT+rWSkOmUAvX2rwb9znbDkUEeEG9d0fWDs6Q+sDIVSzRSyHpRtxmjXgDzfCTuHmtB2gDUiQTAg4MtOUKgsz5gVUbS6kV96m1Iow7FGVPgdzbDll7PxcHrBmLfMbk21/gIA1ZN0GMsuR8qkDytI7wWXkMJBKuCVXsJIJGWkPh2NDYI9UyFPF6c8pPtZU1+DH5fF64qZdjKdiZI7+o9iF7gMiJkQtfE/xT7gscaM9wh+9c7ylEDUNjA==;NPy8kfCd7Vx/12qKeNa37g=="
 ---
 

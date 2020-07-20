@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT1H16M
 ratings:
-  count: 27
-  average: 4.5555553
-heat: 50
+  count: 28
+  average: 4.571429
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Create a chat bot to help students learn with Azure Bot Service"
 
-secured: "SFaFzHL1HmA8dArzP7HKD+bcVF0ShyHT8FgOyGSlqmxD2KK/qAkULHaje6xX0J68Nf0POk5ina5IGK0PtdLg6u4OOnmjG057xMhRG69itlprik/iwaZ7rIX1L0AzqBFvBURvdqsLsbkrAIaVTOM74LLBVOHMOnIeFoxQlVKofhZZATFIc+rwQ6bfQLR/x8WP7Zj8hRPvTmkvLmbjzEaDPlhcr9e0cne8TuamMyWogMr0KlZuZ4J8RmuABeIuzIodDeBOTC/BhquTrke+l2YhOXZiQthyYDb684VhOAa9PBaI4dZNc1JoHew5WuyRy8/HZP06MwHbzYYKPdHcKNYSAIepVtYaWAzvaDrOi1JRFe0G2B/GVxdgkPdCDp4wDMNM7k4L9cJOerlDvgD+wmsaQQ==;o9qwokQXd7a3zUTN3lokwg=="
+secured: "sBAVBVpyjs8ybPWe92wyzkOI5neC9fD7LOqy8d4+eZuMDCl9loVRNWaEYWgO9A40aLV0Et6AK/4Kk4QCZDqMwqZeaSARZMBZQ2f52k5eDXAQw0u4Yp9hplt4/WgXl6kuvYYabofjbB+940VesGEhEuonMxEOd1E+6TO+Tuv48Kmm3XKS8QWFc5b4TZtTLFL5Zu2edgdICXogL61gYg9lO/Ta+XLUFGidmPoAMOBSJy66MY3MX4frCa4VlX78R6kTMbbfKW9gk7Hjn8g0RAxeAfyJtCnhkNS66KXZnrldqOGox1QUoEhUBY3S1GtVSJSz2/QumIcj49S0tzdoafDCBjiJC0PAO2nbh786be95UPKG5j+2VmwBO9yjxjPTfrtNe5V3xcPIzvMuCm+dl26Gow==;SlCfpHoqp7QDjxe+Z59m6w=="
 ---
 

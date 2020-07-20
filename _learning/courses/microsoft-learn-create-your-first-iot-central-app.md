@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Create your first Azure IoT Central app"
 
-secured: "Zlp9XeTckv+ADTKAz+SPZdGdCcOmQ7R1W/NYix5kMG0qQT1Mkx+W6epLMlO62ACfhJEtqafEqZkkxL+AZqzmtV6xIT+F+oBLENaVxI4p47mA+uPMP5cad7refFnkNSljK2kRklZDf9PipEN1/O3u+OvUBGvLo1UX4+RfPxoFsP/70cl50aojXT/VlTCs5g9ZJfkIrBvqCwLKMppw/PdqoGT8n5LEFpTGsjUR7eqaWv+CiW5Bsd+Sjq2YVyX3R7G+YKipG/S3YzRYACklYkqhFYgArja16iwFQ/jkjs6aNaZJuGz5rdXaDSOilHYr6ZxEjPLEUbB44S0inWpXC2U5IHU2Sc2KDrT4KwgkEAPxJqvzql9fVeiSKHgoUkOPGRYRpmu2v321+m/k/Z1U3JB/VQ==;NKznNj2TcFm/ihcaap9cIA=="
+secured: "A3pPL/WWPOeVtUykeANWTnyTcEK+M5nxS9rfsVqo3xV+VPDNZFVyXPl9STD/hvITewhLh80fli3J2WDopWaTTdmimmUqxEx73h8SKUAc3ZbolAQ5QgwBvZRkrR7UU5myd17oMcOnA77D9k6mPFtMwwF/6We+hA9GMoQiimRULQ4n3ez8GHi65Sps/JCPxPbDnDsMYV2+Z9p/dUqHPPyR7WpnDuMwDXHu/2UISzj3hWfyLhqjKNUi6gE/TVmBo3dgKKygZHVwncr67iByZnmHPQC14z3ltPj2Ug6z1QjpGLeZl0h6tZtKhY5UtphPd8TLl+yCLeQJUel1vhLuiM3pfEBk/bYsigXQx/Uu0bUpRwhMCru1OmES9zDKjUcC1QllZd3gpmKL1cFRbU7EjHJ8Tg==;syuN1pzRk6jUBT+TSiaXuw=="
 ---
 

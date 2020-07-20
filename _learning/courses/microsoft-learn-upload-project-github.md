@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Upload your project by using GitHub best practices"
 
-secured: "9GzmEq6dHXK3rHGja7YOe2t7Bm5vyMgk1pGIBaMFlrVnOMvBeZ9jaTIb27QlZypwYSaE2bj7rGkYA3VwrxibHQJg6cgccpc+lBDJ+AlI0fHvt8uWxy9Sn/H7bQAwvhWnAubQX9W/lHc8u2AGGdbzptJzr1fentImZOKTTeJLMcB/ZO0ZENvmcGSvmlUDwSjpFMz539ax+G0Lt6LXyjtPNkQE1qS/S87Dqpsri6bNBQa649Ge/BsfusH0x7IfLsOhzFLfD0GnK/hCuXIApZP7gGB1YjJnmWowsYanqb8/F0ITfTjM8r7nVvW4k5S6HDhltiZ7oNmlahwy7ulqtjhFP0XjrdqVE4fDHwisq7pOhx69l7SybSIJmR+ZNb+k4CcRd84Ngwq4oMBTG4vqV4eoWA==;F6075kG6nnYe/qy0KWcEZg=="
+secured: "kOpNfXv2uaqLRCzw87u00f4DIzz09XFmy4r6TwNURyCYqxbo0ZWMuwiggbqTHQIcDM8z8R0oATVGfp03yu4dwTkBsKdftRF+5WZKRSSf2wRSJrnDlRxKjyuNlsatUcI3hKpZaqjVvaUiD9RDTT31Le2ih4vJ8hT8ay1KvmG327jzVDWabtZJ+qxMoCeh6Q1lNH01zABFz3kvTE/DtfKgKsCq/Vy9Ld1DM+F2FyIzby+MJXZjqAkIqI6H2C55uSp3B6Tf0/41c2bZBPL/V6xxsbCIBN3TTvp0iY0jgNPhAj/ry+TcH79llNrX8LmEwY5fe/C/uUWZCiJRRk/kBO9eVlpn+uypyGuamJDyjbrl/uaiKwJpyZKdXiID6MBnraSc5Lk+Zq3fDtG2+AgppnrHTw==;pnHupq5e++OwPAs4bWSoew=="
 ---
 

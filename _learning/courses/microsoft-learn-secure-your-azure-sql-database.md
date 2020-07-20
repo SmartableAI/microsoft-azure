@@ -8,7 +8,7 @@ length: 67 mins
 ratings:
   count: 3581
   average: 4.529182
-heat: 56
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Secure your Azure SQL Database"
 
-secured: "dlJdxXpiBfZ8Y4Z1+ZXFy2+fbvmwDHwrN3L1yXklF2fSfPh8XrA2ixiZzPCmIH+Dklx7scQWs/E8SNIRTUIJxjZig6E1HV7T4yvOG5UOfgl62LzPygm9fmJZf1zJQxNAqOVTZf0tm2r+HY+uI71CwDgalfyyLjTq/Aso3F6q8zWW+Io/bvrqMGsGYaK9jAc6QmF5ZBRGkSAgJGE/g+uG5pL88NA9Q811M5luaibXIY1OwBsnbZtfnf+OuDpQJJG3PWzKTe1ZbVJdIXkkgM/hlW6rZvv3HlHXb4UElmVw7M/krQBR8H0zjB7g3THbWU1iwaZDzbl9LWYuTXfX3KR703ImXoYLpkx721AkACX1AmKuEIM8YGkaRTQDRZi64XPm7NFIOkruUugF4vORWe4Y7g==;xxsviD1nOB5d+7OvnEEUNw=="
+secured: "yK/OA7VlQstqq/K3Xwd2iuAg3Ln06k7voBc/G2IlxmpywOAGufDma7rU1JsQF2eLXLDen5nIu9sCIfh0s1ypn/FyZLfOz27tb3nUwQ1VRBvJKHFuAAmEbNyI0H3lHQ5H6viENzVUQ+LUKvXammnmyE2kPleaeT8wVBWNWN2yKIDdtLiSQnQ7R4cXX82rBB2DfJtxOGxFIVP0gIB8rveYUkDOvhe7niD8DpSRL8kmbB7wW+K6QSol5ZS4Qu8m4Z30/Aim7cTdU/2Rw2DdAHUtu402zkpVgo+gHb3I2Gyop7a4bRpgMzUoE2Ss1QtDrUtPd2tI6q/gQZvv7UpXYi1TVteZ36WBtiQNJfbJxAUQvUPk6KYOmOC5s1bRLuLiGPQJFHRtfX3rSF4z5e5qsBJyqA==;ZbvkAwFtritDafVJ1hae7A=="
 ---
 

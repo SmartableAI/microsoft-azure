@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Improve your reliability with modern operations practices: Learning from failure"
 
-secured: "bk9ZsU0s1/7TuQ2ceJK3OkZd9i1a5f6WILLhkd6u10So022kCIfjhMWg/VJNsgUywIscSFvOg+Y43YlO3tQBE1ZfMWNHfoubmYH5C/AlnKCREULz5WuFLHJ1EcxVl/8ssDfP8JEEOsEOQNemasxWoKnxZNsVh3g+HUZY7/pRlbB5AR4mH+o6PY7/opSl1hb+OqIz2NZgWLpTrpwjgH7MlVTPOWtDHTDRjFHUKJ5cA6I7BxfXVovU3Z+n0+U16azATHimw1N/eTDyZ7mqe8aAzJNrGW8Pv54sz6T2s+qBUmauJ5aRNEE7rj30RnbWSY2vIOyNeLeM/tTIbAMTkMUaC/Sez3uUCbSAYJN3qPwMIBzwTOg4JY4o/AvGJAtU4drJiWnWveeuToY4WKDtaZtzYA==;2H50xu4sDFS2HyR8UHUusg=="
+secured: "ERj+gK+ItYMm2pzMyZOqjlRPSLwBonawiHJIt8oemBbKzBfgwk+n9BY5I/taHaRsnxh1JPAmPgVzK8ECK/TaNSCNvntB9z9MA8pXq7aOvKzffDVYdejvAHHNEKSjiIIBpzSb33d9h63UnyAMOphLGskGvWJzKot6JXuNU/5RYXVdDmyDD1ynQUn+o9m+hn8zudZRK5hhbO0W79paLOjACGlrDf0qgwl2Ubaqti0OKye+0s4W6Jkq5NGzMdZlSQj6LKv4ILtFOfaFAkXR3VEF6p3+b8Ww3vQ9z+rl9Xj7j/kVYoNRYnoH+gM1xNZj2vRuj5z7E8h+SsAuFgcLSQAjliL8UXahSfc9RRTRP5mW/NV3UD+zgYLBdmMZkDwZxYtike4OvJ4EvEallIMkx85WYA==;UK2QupO59YPMUDqJlzekKQ=="
 ---
 

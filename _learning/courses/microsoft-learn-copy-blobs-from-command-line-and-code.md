@@ -8,7 +8,7 @@ length: 58 mins
 ratings:
   count: 127
   average: 4.5354333
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Copy and move blobs from one container or storage account to another from the command line and in code"
 
-secured: "sq3oC9sh7u6dZ9nQobzpMYVjsWywqXJIrNKcyRPnKcGqOR8w9i70ddFbACv5cmRv7O9Ia/wVxKPcVQfvQ4EBndj4fCAdfB6GZf9z6lphOsoFJZnVRSR9vDineGzUFXapskbJEeURFUOOmLpt0bOeAcoZCNy4gyrgIKQ/OaZgAMQSKW8pvZ2LKTSuaaedXBX4l75HEGxOU01ssT3kB0JZ7RBh1davgvzVHnCRfiTEKFgb5VGIpU8D96sIQGIUKeB/ipoBBDqh/OqdqsF2UsBWfBFthQ1eSoJHzUx1fFjep7cUikEJH7BJeHvllg3IP3/i8hj2UtI408a3JgMw+CJYed7ckSo0j1XmwAazwldg/uUbQX2fkpPT0fqknGsFp2Lx3B7rqIFM7+Lu6NtHwPn4wg==;rfe5ovpKGZjBUsTQimS03g=="
+secured: "0KieRk6EBZT3iaMxP0TtkqNBhaEaxWagvQ/AkY1Zkq/kxOinxM1lw/B7CQtL9IGULH4aYRGDmUhZPUxykql8n0+IfwEw4LSBpqwGCofDd/SXAgWo8OgEaqjF+nCT8noaf8XwP8j/nlIwpwJwCZAAT0o/S6onSrPJ1xWFeQKLy5M77hetK3WBJN1p8u0uJ3o1BL8yFc2eStcKhcnEfGwHoQKShDDn+8wOOlBnXuMy8d5qBB3CFGjfuc7Ka9hslquj7AqVA8VVG2noBnllsWn5po4E3sW5nHeFu0FixcOR3KsM41sEbUt+n3J/H3yaCoGqfZGq+eUO6bJ2SmPwkaj9TF56zyi9dJbaYwhFHbBLhSmQhhZ8WkAXC6IdDaGYEZkCa3DJCJ49zIDD+wnqiwhQ3Q==;up4I87u2ZS28lP1Y0prdOA=="
 ---
 

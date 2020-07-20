@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 29 mins
 ratings:
-  count: 1578
-  average: 4.475285
+  count: 1579
+  average: 4.4756174
 heat: 60
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Enhance your service availability and data locality by using Azure Traffic Manager"
 
-secured: "SVs3n+ZIg99WLKqgjudDEndJBB9vJMTr7uNpc0rGiLGe0lHnkq9xxGVYI0qvj8j6ieK7SbvvrTlMDkHSBx+cT1UNvIeivBCdZiBAuBlVMCruXwlkP0FuNH5pfnYrEziqrHVltg9rIlNRK1wDgUGD0KGKJEHhSnB7WjvGjW0u7hcNF6owreoFYIubXukJkUv8OoUjfHtclucE0Ogp2oSZ2Maytw6LmPHACkmeEeBFONCLr/yaQTsrZPLF+PZL3+DHWF5ILqF18zQEXaYBEREMxPn0UnY5xw5lQA5dG5Ylgu9I2ZSBTXHEN4D/GLwI1QyocJILlMZVhXaCeDE9QoI/96OLnSkkh5m/KSDpanBYoXIkfvgMCmOxW7xPFTgqQuxz6DKNui/xRxvd/AntlIcDiQ==;YHinYYGndFM1ewzsYlsUTw=="
+secured: "qUBTA5yt9w4VE+bv2FXhoYx/4oT0m/kfLVwMTe45GWutLc8GLeqL+6l9xD9mJSZyHkueXtJ5zL6sRdjwyJBM/IUiTo6eLUOdQ+wXD+LSJNPkybUtyHmyjvv2IhU/t9mKzRzAN0YEA7ZNx6+mdQIsvSI0uqSXjn8uOaNn8s0EgVrCX6OseAOCOtifZqDM1B+ZCnNai2DEq0kciuWy27Gqyi3inGGH3ZIVkpJmKZzinml2rlctLGHbnLEwtXrkIfk7CdOTJDx6/VkH6CDO80K3tGpuWZxNLY/GqHOL3Wfa+2Y6MZJ5KsH8BjYOhFrVPgiqTa+fImwWE2rENIkUn4t28tiM+Gm5ijQDJ/yLg3BkoA8iY6wiTo8AgdYlTsCFs3w8QPimfrLtykjqeLce3CdxrA==;A0Nc+juefiMAgKnY3ZYkSg=="
 ---
 

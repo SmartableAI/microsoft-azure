@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT1H12M
 ratings:
-  count: 65
-  average: 4.769231
-heat: 55
+  count: 67
+  average: 4.776119
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduction to GitHub"
 
-secured: "30ym83OcVutA5CSb7hJSiNV4I910q2y2XXyhAE14lBJZWmX/dV+oJyBhWNRctL10/FyJMdSgyUn5M1ic4FYqdmxB8MsgIDZb/U/dCIgCuKRBOtYA/uaxg1kPeY4NJQHhsoKUm2Smc12/aG4xZE9Xt0cCWBNXMSHuD+gPIygwLXzMT+Cha+Pdc94+VHFEIwcgAInnXyeC41vA8U895vowYUzPuZxQj1pwPpOfOPofsKpoGIta3IsBvbSDpT0F7jJCSlxYq9uxblsmNbeKan2Q45hYbzWi4oAToU+XmyCynHANLVGKYNZi66Zej0tnVtCHjHJP4xoB1ALpqDGFd8rDv59F+KztMjV7Xe9h7pJnUxJEhgPh+rqrY+7PiaCFvwykLxCkubCWQyvjzrz+Lmj8aA==;M8Xj0nHedQn7UPOw3R7oWg=="
+secured: "D1ys46nDYAnfQXHpQkU8yjmH4HaN5NpPgPtLlDy6aQPmB+5E0fL1UPo7fXPNZTH1BgEWHah8MqKHRis0aYOZQ4iYVMjNhBUob89kJuN/XcnT/wo0BqZ8HT7/u1xfDaC4oOtiN+D4F9XcYkMFwpl345tAtFliDiHVyPa6bbuwVb3T9QLZd2jE9hPRjoseUeYwWobv9MYgLcd8CtMNBekX62kxplaVtw3i3Nhbp37r+r9QnleHVAnPLIwb47VYsL29ITzZyvWDTtrSPRdGNqRfDiPUPQuKFpEx3UCKx6z6BdicpJt90dEBcwM5Gq/hWy2Ui2JCyv09ZTnYJidr8CxYXkW5hRje2LG8RS+Ph7PcE/ZBi6AYWducqj1M/3pMOsL1UQkee3UsjQxo1SyDalwiIg==;DAPFEH35PCqDp1Zfk9XeZQ=="
 ---
 

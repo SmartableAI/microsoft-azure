@@ -8,7 +8,7 @@ length: PT25M
 ratings:
   count: 133
   average: 4.9022555
-heat: 57
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Explore core data concepts"
 
-secured: "jNTt4Id+m1ovOzVNyFHDEytI2e6rk0uyoloBaToY6hTAH9vfszIjbYkPFwV3frKT+UuHNliGoBocEYFvw3ueiylBHFbQgJJmfz8qhLbDH7h3UM32kSZIzf300nwGvU530iH+JaB/KfqtfA9nZVNJKL8KEFvdf7pXXvgEvurJc40XANiNq7QmxmV4hweFtfKbd5mUrOY/Xm5uS4ezE7um9EXlC/916elmozoJV04A442HIe9yFT89JwpXLaIIDyI6BipBcQnw0fYNAjd1LVTtT32ZT10zc6rbHzlwW+eDjVKltfUufzjJ2t00V3OgoXu/FIfYZeG5Uf0QwU0mw1lmKD5pEWK7EgxmxE6xEOGLrok/3geDae4Q25S9s/obfg+elsxxba1mUGrGyE0MEVeC+Q==;PqN5YyNhZIatoHgxTMiMzQ=="
+secured: "GzhC9gqBTbZL8DC/kmtEuIM4Hxhjj2IMdO3aPOkmDR54HwEJSqxVoPES4jYzfKwX2xG9OQKAnPypjZlqOpC0/Gx4RnBOieZIoBh8Lny2F8kU0+EWGsXxOkl21a8QUogXWgKvxpawz1CnCN34ViGCLk448TFsTDMrEvqdVIT5aN+0mnRHnUQywTvfsCL/7kCY7S5+DIEQZbnvIOZ4Plcamb7Fhdm1gvYZLDXkyjm4MdVcDRWc/+QGVaSjMKdnrhAeV3DBNalEIIaBInkE+Is4yYLg/+6vpYJL7p7yHsz+S3vjQCYfFy8y7VzXhlu4TMff33WmvE2UlEqFPrFobnRwE0UODddLL183+eQoVDYnhZOTAX/FYhmjyBCj6Az0MFUM8FTD3tXXgv9S4YQdX5tDeg==;95ry61BDzEQw7itY5MTsjg=="
 ---
 

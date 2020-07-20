@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduction to Azure solutions"
 
-secured: "iAUcsFNw02nVHwdVX1y6W2LD4hoB+Qu1JlL1YWGiyFcz1bjKA/YJSlQSs4sDhrzPZimGzy50qjOpuDQy72wH05CE92a/iJnsVjqU8/gf2moODJ1zWRcPzJkR3wJL8gXgYBn5i+9DTtt2cEA9XvY/DXrjncaj26+VoVgENk+DiZfg0j5BGm1bKKiYGPiUouzRQc82qGYj9S1yig35jRh+BXvCGSWTmbvGPpaYEy7lBd07/1xFBW/LyFHwzXoUgyxEvF3zICu8XonTaJNXne9nHbXvFepO0d9KN1fOLoMaAUKv/k0PK9KIFmuTuLeGpLEz3GdtLCplIEcriY+1N34etfbQOUCCSbAnCc/RevwK53dfSzI31j0swK6V4kV8QW/lsY7HPSBlHVwl6PYoh++EKA==;AJBJlPmq09N8Ill56odeHQ=="
+secured: "CLx2SRlpfRrZ72Er+pNfsVw48/eyQ/zUsdPyFsLSAoyEbF+cTMKGNyVJdguygFGFPgAbH2AkAy7daWI+E+mwPEYz1NBhYkipFSFeU3I67IhADYd9+Qa4spJtLkoJkEZphtzReOZ+e3Eye0jgIiBZA1Cm+SeK/OV3ivznIJsV9qUSSEYXOgWSUjf7qTrzSLi2xdcy3b8sotxcMi9Dlwm/G44PQnFNxkk3lSYqXFOkC2Rk66NB+HNOZnWdLUFX8lApVHTbgoc2Hb0UzZPuK3qTgE6urWfQiNl9zQHXVr+0g9uqxYwdO1Do5BvO49/7tjF0CeV9HxJnk9FuwdbnU006Vwo1TZQ6VcCykhm59b+PPAXs4l186P7ChiOdQrbcXHh7gA0LhGH8Nrf6m9MyQZd+qA==;65+065pFaHc9QbmowoLweA=="
 ---
 

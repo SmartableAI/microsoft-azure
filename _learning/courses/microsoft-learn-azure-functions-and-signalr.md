@@ -8,7 +8,7 @@ length: 55 mins
 ratings:
   count: 1159
   average: 4.3071613
-heat: 53
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -28,6 +28,6 @@ topics:
   - Serverless
   - Databases
 
-secured: "jkE+t3Nn+fUDI2VFVTjdB6RlmKQkUQEXHPTZH3ASoig8t1MefgVckz5BZ5m3T9t8oMmuPpkgsOzU+xKkpLUfLh77aCUbTFg/6MIpSZ9RrfU2Kk5PpLZWrMmSZ5DEQqjfGB9oLeONh/7F+0kmqaOU3HpfXQAL0Rm13eJIQYI90ut3H7keVbzmWgcekt8KvOCcDGhfELK/1ZC071+CCtE9i7x0F6Xgt7qAm0ktp71rmPbSbHGf9ofo4vB9cGxTFm8ANeRbdeiRAk9z8qiqNJYvI3CmaLNf/bGY/fQU3AFSd0yGqArMpWWJKIztd14k3mTQ3X2xqhk+Z9qp0b0G4FtV9QDgDAnwFagmlVG+1heuD5wO6jLf5HUnrcdujdVwZYFCuFfTBOy9A58RR3oq2e7e/w==;m+XLf0nNafSBZeJ92Cd5Kw=="
+secured: "zpjCadqeuWE6o2OHDijDaCNRv9YbxbwzUthyna8DBVirOVU/982P2MdYJ32WCJRx5mIkYuw9bx1tO0D+zQUbQ399RjntUk9N5AhG07qLYJH+DNWfR26Y335R+SiaHAL5E2W4Un98aa1du2+1c5V6rp6TnkDhPk4sNMLEJkgCQeRlhS3fcFh8Sz+U62c7XssbXulupyhpsdoU2pfA6B4kcd0seclhTRlG+qEr6wl21NS3AWoyEhQj2opQaPb1dZBzl1ZaQT70CaoPftYs4gg9rNTEoNsGa9NqYqPXkVmdhJ99nK2sig7Bt2TRep2T6Sv56mC015npHI5u71efgCi4bMYEBfWctPo4KZkkaTSI1YQnSCmtqJ1jJm78KS8n266GLusUEItLOUaDaheOguvaTg==;66tyCyRZLcJ6dHhNP5D66Q=="
 ---
 

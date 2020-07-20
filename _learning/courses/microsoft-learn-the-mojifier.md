@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "The Mojifier - Create a Slack bot that replaces people's faces with emojis matching their emotion"
 
-secured: "85vZFtfdFD5/YdiSvTnqPRckFOVIjZSL9zYMHQTpbg1Q/B+KX1EPdsD83FCGtOCLP4c4WiMz0ZG75d4w8PSBHSKrEEZ2E0mwgmojhmQtPihlw9+1WxAOOodrj0+Fj8G2fgT9Pq3REHcgpHq0PchdXIycoG+FiV9ySF0O6P2AiSfShnU/You0RuJ5VluL4TuDScmkRbCm9fFltgJaAANLc/ZBYyEMqdqKN79Rpsb9Mzi9OQn2+oozgJI01C7p+xBP7QKnUqW3ntgc6T74X5GxdZR0Afcv3I1/KEHZysL91f+2WeNzmSsa4RU+eRMm3vkeTKkSrv04/PA+tL4wFNErohIGk4alXwoGr+8FxWGyUP2Odj3A/OxW8l0iqrQ9VnKAvW76eMTaJpVbj1yv+E/uNg==;oEfe/0dMptTnQeHnIr/xsQ=="
+secured: "qRb6IrgnjfCOgCbftp/jpIYqVcrY7vzoZHTBYLn6fWeopTa7U0N8E0OCwbClff8Ipf98Ggm6JAIO70W2kepDt2UNQN14Y1WzI8/Knh7t/8EBLXFBmgb22cQwJI0Rny8O6im38huTCEhN3kIGD8mUv4Jt2HPln088QCSixL3j3JShkImccVeEv8OdXqhAynrnSulj45UCcy44BGLvgXxEem15R09wx/p47szcmmUmRIYHgT3xKtGn4+iw1CYcHP7qXbcylXmg4uxWTih+WxOlLPS2i9RmOdGkvIoeMYO+GByLyulqN3fvsAMOSS3keWIQ4lN7gy5q1F7duhTbKCdZqi7HybUSXOgCvivgIXyI+Xzac2yrzBe5dDeBNxmdJfCs312pB0zsis9I62Gn638s2Q==;r6ViK7pG9z8dzzDs1Tsi/w=="
 ---
 

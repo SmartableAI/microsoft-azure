@@ -8,7 +8,7 @@ length: 56 mins
 ratings:
   count: 1467
   average: 4.464213
-heat: 56
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Enable reliable messaging for Big Data applications using Azure Event Hubs"
 
-secured: "/q5TGJQoFGHd6nkthjZLurxcbGSJvEdPWwZwWrEOEoFWbKta+eZlqMFJyVtraFaBUUQexqvjibA3BfpJQMgybT9rqjRVVmAbu7+oNH1rGJzD2sRWo5jak+W0YX9dKNADb8LdDXmzKWrLNQCPXoH0QDz4SnQnW9znanGGSWEZyN/rEfGqdmTE/I2nbiWXj3Cs6/5zMUwqzvKnBsjlb5i/12G/PwWq6kqehGNtlbe4djAv8SmWye7mPO1Nn/rQU4EdhD/bphirbqYAAXyrpZq8/VNfTMPvp3yEa/YnKE37EFspC7fqQGuyraDOjH6T8ywt0qCxiMv2FJQv5WQ/J+padzh82MPCMRGYhn47xfiVka0AkGqb82heve/VqJO7dW5pXac/artcRKO7pmmmyICedg==;Mz/Z8geAjgv2mEPza929aQ=="
+secured: "U+a90+4Ny/QZjo0fLrFG0IlmA4ZL4M4WcN4TVI4g/MTmh0LRL5AbsJIA37oqKq7gUHTENxq6T06X+wWZozPRiWICsCyuyEQTNh1cBrN90tsF2NmZevUVKEcaa5O+O3SaAghfdFEhQrqbdCxC4nHZrGxDbb3FmIK0qupeihgqCmKqLk8vULBEI37lDmRbGR9fMg09VtPXF1EljzwezfANM8nXbkkYPXHVNpqCapuWFcBKRxRJMxadbVFmyIvGqHEkVh4jaaTiZaSH7+Ft/YakddFDlV1WkCq9ez/OFLC/lu17NqC9tC9bSiqrRj/ZXFp2jad9b5c6J2pf5g55fIMvfJ84ONo8a5WiQ0bDNfm2DgtnWQiw2rwI5YCRvcTlBbmFdrEmujm6ekjcELG92W/nog==;KKc9K14G03i+naBaTsXjQA=="
 ---
 

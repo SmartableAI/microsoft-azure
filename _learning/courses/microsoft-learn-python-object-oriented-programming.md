@@ -8,7 +8,7 @@ length: 51 mins
 ratings:
   count: 706
   average: 4.6685553
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Object-oriented programming in Python"
 
-secured: "AqSeg30HE9eWa8ZbYqdSzD9ikBR1Up09Yclo14o1sdge0g8ru/KN+MJ7PLkL0kdZddYndIVsjyidH1XZ9W+EgpOIayZMuxZOH0FCmEuKKfVi1EgAjaknTJcTvSUAknPnZC9dMXnBhtkhtYUeznXwV0kZg8XULShQGCkSvGeFOuNdlS2b0ifKAIY/hrIENgn/KBVhJ4aylnMrkw/30E+PdnAv1jIsXQKXEIl5dQupH4GOcV/E3VSjeNCyR0wrvKlHtgnbkoxtbZ63Tc3MKXwechpiZy1f3Bk0Pj4FR6ISx2FZC/55Xr7FH44SDxRQrmI0NGQZCcKkB2xRsCFvk9hRQmcVH+x9+n1E4hKSRKSDx0mfVygutYA4dp1dU6Hne2/95ftg6shU1WWzh/i1yTdTDQ==;5xGm7FuRUmXF4AJ8fRBCiQ=="
+secured: "/8orfQfojfGI0F+N4fz/FGpGNrJ8jdSMIeF89arLv+p5z1gje3z6A1gntpj2gjfD0RJ+DH5FC4dXEcPK2XHMX7eQweU1jta8EDitSde+tD2snXBMwO1d0L7BLS2liUBXqlfBnYkNCba4gDpV976nODikK3XqrLfidCuJgCHSuA9o7DzXJB+iSWhUtMPuYwjLWGcyjhH1akx5OIqzu1ZKJE1nFoyk4M0KbXMIhdKr4YwKL3qVjeD7Ghy8zkgZf+2iomdUPuUGCJEla9rgxZpgq4zE/9AWWycpZr74lWAfVHbi6wtplznHV5bsOVEb4h0U93hhCu+V1u2uOJaF8UgKnfcO3Rgf4qb+r3JHSEB3Pdn7x1X16jkRMbZ+QklAD0qBNiI6yEX8lmuBODUhsGcM9g==;rWIIFAYqLKQAdWHDrp5pJg=="
 ---
 
