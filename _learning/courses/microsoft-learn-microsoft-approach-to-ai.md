@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 54 mins
 ratings:
-  count: 779
-  average: 4.7304235
-heat: 50
+  count: 780
+  average: 4.729487
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Examine the Microsoft approach to artificial intelligence"
 
-secured: "MRJo9+tklFcfMTeSK9e/pK7hu7us4squVEDNTMJD/CZ2Wb+Wox+58W9anC0tRkwd3M8yw/ILPrzBpF2duNRn1ewNcd18q6r4cQrqUtwWsit56vp8tRKfM2rx5vBIQnR520E1OJglhpdhfXZBKbUtVsY7K342bV+peY/7CktK8Lh72z1RVAgMyBvQ7p9xKzWOgR79x1obbeNKc/zst3Y+5hESGXDVT7be2Od0WaMKEgLBTY63Kwcb4Xd1OTLGGe9AfSATUNf8TsfAoO/jdmxMR5+aIZUKqyrBpz3tHUGgM+8vJc88ZmSFc+MBAr6BIBQjsGYOu8ra5NbXFhOsdZhbqJklpkZGOQdZ3QTeSUxI4IUz9T/yVnK6zuXACRGkBIh45PGArA3T6v2jG+Fje5EETQ==;89C2aadRbO9xbBLvAutI1Q=="
+secured: "AJEauApgN/UF/OFCx40OukTDRcMssEwQCuTiGXxkQ7VcQhubFYY4N55X804XD+7L3hdSBplqxCN/qHX/6ofSkPDVmdwEuhSlGpB9l47lOjLlN7RydJb08WQ4F9W85+rlwOF8H/uGW6+4qzVVcsgIo0Q/2HRiTsZhFzEEWSSlQk/z7NNTXM/jL+Z82AwLW2N2rjaHE6VMugAbrq5EBM+pdDYbcFT3M/VbEHuqoLcV1Sz54yDVgGBfQqn+GzHoy+VBpPwkwUyrTVaKJt22u7dPlYanH2kSwXP3gOJcBd1En2L74FJieD0gC1JUE2iuKeMUthluQ3OejUB29BYEIZF9zGgr3ZDZKYQbKRiicCTQWs6p6ZkpUSUpomQ1rnfDCfMFOd63nc0OcwKURTkomZocCw==;811YcimWN9tqUcP8Q/6STg=="
 ---
 

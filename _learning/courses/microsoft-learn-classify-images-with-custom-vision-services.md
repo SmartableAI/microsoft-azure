@@ -8,7 +8,7 @@ length: 40 mins
 ratings:
   count: 1329
   average: 4.6478558
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Classify images with the Microsoft Custom Vision Service"
 
-secured: "qH/kX9qlQed7aHuHFB8ZjOjYnswkifMjT4U02dFCC9hrm76NRm5oVouJ9xI8gxFpzdXIXoDTPHnw6Gf+Ur01fwfJkcXnzbVGsXPHztcUfX0RqfjLsDas0yWjb8kfXwL4GJ+P2ymNIqvw+Qhyog/cL0Jka6qjHabhaLFN7cDJjwbmuTXhB59QKmCHWV6G2quxWcsJ9LoReSVZDvb1p2gyGqE4pg+raarfxRqajzLE5+0yFerULS1ScfCYROr3VzD7WPMTbYU6HsqxVEvrPTCMPTc4CDgpg/qjm2jRLDvLJwJePShlu4Evr8HrfbSDupv8JTbuOAwm3A7OtBukv5j3ItFOq+H/i373fmEvVn99ezqSJ2Gp5onW/KJgSfyP7mpWJNd/1/IuhkgDI4gAzVm/Iw==;yX6aRId7la14MXDoX5KFAg=="
+secured: "/ZUmjSsG8bz+4FwbSnbYJmY+8ASXDa0v6jpGNeLDtLwP25Ai0zt5spFaWnl0hpvox4RRBoFfBURrzkMGt6HrtvTBd6OhSBmqmzK8VQVWzzz0FwGtopxYNqvM/Mo4NbBp5aYdlLhFKp4AQ9Cnu6reseH/m0xvKHnUVOBvzwim2QMoMv/GoEnjr6fL8U3K6abu8IgZWHg9lz4mZqR5qQthUz73pzThKFAZ52gbejhpK30fiSGHdR3XkIeJb+Udc4EKX0NiiQBgZjDgaJF/g8mBRq/ZYncr7D02UXmJbhjkhlcYNS6YFWQP/xgOqGkySqbWCYYDh/rJOK+UPjEy5qvPINlVAeAi7bkJNzI+yxLIysHUbdCILHA6P1YEyfcvyt/gaPInsaWORkiJ2HmOE+0iEw==;uDVmTPHgXGVD3eWHblK8lw=="
 ---
 

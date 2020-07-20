@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Utilize Azure for SAP workloads reference architecture"
 
-secured: "DYhglYcNUPw3BjAIjgLB1W/wehCDC6P8ao2jp+MwilAjXxuewF1OUpw/k2ZraqbRPliiqEy1mnaZULez0SeCN3CYmy2jsYBDtaf9hPxmRVMw9Wdk6uPwqgzwjvMRPCQbHS1DuTwa+9w3Bwdfz/+DQHZqGindMT45+wW2QBxQ7u+vcpzXtxIIPsTzHQmkD9zkXrrZmprvvsd4cs80tns3bFmJbhA4abFVXUsKXX3Q/hvdfY0WqgIS1BB6odtOxspoZ1E/Hx/XBZlwaYEgT/N5TN6h+iy1HSc1PtA+SLDsc6svGkMxIMTh6245NxXDjz+dMiNAUL3JE0a8olHWig4/T/phnXf5nQvCyfavPihiB8KjyI4kqu67QSRQ6HIx3jlCNsCFZKhLFo44N6ENVS6eQg==;KD+ZbBcYgGIWqBMaudzPBQ=="
+secured: "/N8ZFhqzJgDZV4ZXn93QdEnVO/Q9050S1VpmfZ8LjGCzigDZUsKtH4XPhTWsiBGMum5UwYIepBZYgBEMLQpDmMrAWINbRrNsOHfPX2HH91+0PWheERyS9OG2HZorATiUi+lhpsaj7B0RsVsE5xco4SxCu+ZQm315j9OErLW+TdoxM6Ci0Cit1zqc3C0CfkuA6t3yYHoOtr6aEDTQLDEfTFWge7pPTc4WXmMe49m6XcMAtVu7UGYkOz+I4LDg4p7Ln1VY/mRtAhlTN1aUR+Ft1K/NMyz/IDUXbgbyygMGbJtFi2FzE/UGavITTUK0DYAI4y3TPBRvb4bbj7cNRTlfCIopZ/68bzP8s0nOn8vrNfdWrkcOGEPM++8pvjt68w23tG17A1x9RkxSlCTiqn33iw==;at5hk7oFh4RMMKnl0qhw4g=="
 ---
 

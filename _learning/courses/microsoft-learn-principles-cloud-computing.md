@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 62 mins
 ratings:
-  count: 147937
-  average: 4.77218
-heat: 195
+  count: 148038
+  average: 4.77216
+heat: 189
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Cloud Concepts - Principles of cloud computing"
 
-secured: "Sl72RkK6Mzf3wLYosFcjvJ6WbgZSuBrzdelNCHdcXXwifed58u4WuANNmztsDkbBpPYsmNENwg/h8L1NyA0nvzsdBQldW5cPYkeddKoPUJBGSHhFfeBdZ6buimeq4x3moo/DBd1kCnwoKwNPSgban3KJ/wLepqj9zDdpAv8Y1cr3eQBZSeS56Wb8sEswkNycbA4A6EOLNiD/lybkNjdyWNJuTNWrPH/oBrcI9oIwthkTOOGpIqtDq+71p2mZlEM+9LH3tnqrGtCgHsCi0lKeXGSBu1s5o//s6zwI0BFM8lwEBxsqjhvv7zXtxAy3AHUnkUtPxQ3XbYeW4pLJnUONHpOtG2aMBMw9XKKrVs8rNVYVVjNTg0u9tbcZv79uljWbnopuEkVmk1cuD/BxwlAogEhs0wiDl3u4SNCuFHdfDa0=;QFt+OH8sp5GQRI05ktFUZA=="
+secured: "rNJg3VMDCSXCd6rKlns34k5n8d9ROzNR/bEJ6+mqTQJW01rrtVu3Jr1Cx/Q/4KUgm48q/CRiBePsKOgmJiRyEHwoXwCSvc5fNbElT5M6W5Mxr4QWBMrp3f9JvrkG56wBTVnqOO1C+xRHin3s+NS2c0hWHAQyn9fT/mHepGfUoRxHnhqPrIbblC5uKF9GjML7ljWTlkYHrYaIsDwAj62V+/VHXRRePmE2jmR+RF34Bca7xj0knK9MHE7yCmiHeijM9FepstQewu0HyV5Rcw0IWfJAFis8cF2LQZ5Fpq1hdJUFOSZWCEx7O7JNq6ubinrf00cFz7Ot4qHcyWHI2d2MXsaFe8iSxaxGEIaPE/1wlO3+YVI3K2SaKk1W0+s0KJFZMCLRA9haNUKOcECgE1UFQ6vCdm2k1Q0IUI82RzIWgUI=;4KrCW7uSGKy5ZNo1cfr9Fg=="
 ---
 
