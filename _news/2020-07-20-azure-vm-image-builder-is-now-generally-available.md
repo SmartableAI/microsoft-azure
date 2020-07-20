@@ -1,9 +1,9 @@
 ---
 category: news
-title: "Azure Sphere OS quality update 20.06 is now available "
-excerpt: "The Azure Sphere OS quality update 20.06 is now available in the retail feed. "
-publishedDateTime: 2020-06-26T19:00:42Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-quality-update-2006-is-now-available/"
+title: "Azure VM Image Builder is now generally available"
+excerpt: "Streamline your image building pipeline and integrate your DevOps application lifecycle with cloud native tools using VM Image Builder."
+publishedDateTime: 2020-07-20T16:00:31Z
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-vm-image-builder-is-now-generally-available/"
 type: article
 quality: 77
 heat: -1
@@ -99,6 +99,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Azure Sphere OS quality update 20.06 is now available "
+    excerpt: "The Azure Sphere OS quality update 20.06 is now available in the retail feed. "
+    publishedDateTime: 2020-06-26T19:00:42Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-quality-update-2006-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Azure Data Lake Storage archive tier is now generally available"
     excerpt: "The archive tier for Azure Data Lake Storage is now generally available. The archive tier provides an ultra-low cost tier for long term retention of data while keeping your data available for future analytics needs."
     publishedDateTime: 2020-06-30T20:00:36Z
@@ -121,15 +130,6 @@ related:
     excerpt: "System Center Operations Manager (SCOM) management pack for Azure SQL Managed Instance is now generally available."
     publishedDateTime: 2020-07-15T23:00:30Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-managed-instance-management-pack-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure VM Image Builder is now generally available"
-    excerpt: "Streamline your image building pipeline and integrate your DevOps application lifecycle with cloud native tools using VM Image Builder."
-    publishedDateTime: 2020-07-20T16:00:31Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-vm-image-builder-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
@@ -190,6 +190,6 @@ related:
       domain: microsoft.com
     quality: 59
 
-secured: "diCre7V9UiIdvyR2cCLGYuD/xrkeKEA8gTMzeEoFrHqAgYyieoNgILX4vykTq4OQ8D5yi+m9zJ3R/n/BzcNVILxDIyhdtiY4HOptpvzTsMgoFY/8br7KjOT61wXydyjDBfHVIkiBYmgB5GdWlcvn6mlN0OMwbrRPE5b1p/qKoG1znQYFJe2JpZATa/Egsq9AykA7MRAz2prUHuxIO8JsOcPAjuEmcw9bYpRn+sjJKO+S/ji86wNmsA33IxoYVzy/IxCZlCqsBdN70NpgHvWS4fIr8m0g96CoyqYpKA2Gr7Mn1L2JmRQhIH3KY1YztBosxj6dxUgoP4C34nUtmdN8BQ==;tqKpWZk/e2eQsFWadQ/fQg=="
+secured: "hS+BPtO407C5uh97BIIWZ3s0OXPCeSJ5W7Wa0IZAgpzILymJvXWAiJlP8QwdIx53X9dJZGBiwAndhRIrDP8nbAsVCC8bWYRxaqdIimCU0lAW9jqxiUsbMdNOCSH8DBbwxpypGGbQYFvKvR6O3lKTmHTJcrR0iI4LekBcDTB70hrBGc8QwnBPDsG+qXb4WKv+jR8UC1TDM7g5NQFJ+aWvElcewWDX/Hzhd5O2S4RHOS6Qz6vCR3mVx/9srUDfaROQZuROcJV7W7FiTqSVxxg3oXw1d8FxN+kEOfCnX7XUjb4UL9u7QzwqKs/bWl8J9Gicaofmw4+qo+DJrjYSpL9F1g==;xWt1m8wXSd2u+9/9pO8Dpg=="
 ---
 
