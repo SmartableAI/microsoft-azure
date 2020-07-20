@@ -45,6 +45,20 @@ related:
         width: 770
         height: 285
         isCached: true
+  - title: "Barracuda launches secure SD-WAN service built natively on Microsoft Azure"
+    excerpt: "WAN service built natively on Microsoft Azure. The new Barracuda CloudGen WAN service is the first SD-WAN solution that runs inside Azure Virtual WAN Hubs. Hubs can be interconnected through the Microsoft Global Network."
+    publishedDateTime: 2020-07-20T02:02:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/07/20/barracuda-sd-wan-service/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 35
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
+        width: 304
+        height: 430
+        isCached: true
 
 secured: "iSijaY06KMwS3sWXRsNLT2Nc1aiUIY/HgRIYPqjYNcpTTqFNwea5X30Cw+CQ0Yf2AGuuWawoR0g3vDD0Jzhs7m+I4cskTzLhYM9Ahu8PqOMXIIV5om9+oosALKdvTpeSDdHT/aYBNTKus+yFdn9tI9zQtliuZFYRl6fBd1tc6kXIhOunO0Nx/Bxz2pVG6TqEp3iJ+YwOCL8O3jFwm68evw0m3ZI+bdMsLL5u0VIS2JLJ55E0sVd3JczGPofxvdGeBxDS62LgGYPsXpxVpkgDaCUNSEQz9OWD0PUE8DwG0DHMY+ZdcbVN6/r7IphsoUsMQdfw4WSlBTooMVI/OI6+tg==;+oAyXZ8zsVrK7F/hICMuQQ=="
 ---
