@@ -1,24 +1,26 @@
 ---
 category: news
-title: "Microsoft Graph Service: Retiring TLS 1.0 and 1.1 and preparing for TLS 1.2 in US Gov Cloud "
-excerpt: "Update your Microsoft Graph clients in US Gov Cloud (https://graph.microsoft.us & https://dod-graph.microsoft.us) to TLS 1.2 by 8/5/2020 to ensure that you maintain uninterrupted access to Microsoft Graph Service."
-publishedDateTime: 2020-07-14T21:00:00Z
-webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-graphservice-tls12-enforcement/"
+title: "Get Certified In AWS, Google and Microsoft Cloud Services — and Get Paid."
+excerpt: "digs into the specific features available on Microsoft’s cloud platform. The course also gets you ready for the second jewel in this cloud services triple crown, certification in the Microsoft Azure Fundamentals exam. Finally, Google Cloud Platform ..."
+publishedDateTime: 2020-07-20T20:56:00Z
+webUrl: "https://www.extremetech.com/deals/312963-get-certified-in-aws-google-and-microsoft-cloud-services-and-get-paid"
 type: article
-quality: 51
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: ExtremeTech
+  domain: extremetech.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.extremetech.com/wp-content/uploads/2020/07/sale_31344_primary_image_wide.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Microsoft is working on an Azure-powered Cloud PC service"
@@ -53,20 +55,15 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Get Certified In AWS, Google and Microsoft Cloud Services — and Get Paid."
-    excerpt: "digs into the specific features available on Microsoft’s cloud platform. The course also gets you ready for the second jewel in this cloud services triple crown, certification in the Microsoft Azure Fundamentals exam. Finally, Google Cloud Platform ..."
-    publishedDateTime: 2020-07-20T20:56:00Z
-    webUrl: "https://www.extremetech.com/deals/312963-get-certified-in-aws-google-and-microsoft-cloud-services-and-get-paid"
+  - title: "Microsoft Graph Service: Retiring TLS 1.0 and 1.1 and preparing for TLS 1.2 in US Gov Cloud "
+    excerpt: "Update your Microsoft Graph clients in US Gov Cloud (https://graph.microsoft.us & https://dod-graph.microsoft.us) to TLS 1.2 by 8/5/2020 to ensure that you maintain uninterrupted access to Microsoft Graph Service."
+    publishedDateTime: 2020-07-14T21:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-graphservice-tls12-enforcement/"
     type: article
     provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 21
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2020/07/sale_31344_primary_image_wide.jpg"
-        width: 992
-        height: 558
-        isCached: true
+      name: Microsoft
+      domain: microsoft.com
+    quality: 51
   - title: "Barracuda, Microsoft Tout SD-WAN on Azure for Multi-Cloud Services"
     excerpt: "Barracuda CloudGen WAN allows companies and service providers to create a pragmatic Secure Access Service Edge (SASE) solution in public clouds, according to a statement from Microsoft and Barracuda. This could pave the way for greater public cloud ..."
     publishedDateTime: 2020-07-18T10:53:00Z
@@ -77,6 +74,6 @@ related:
       domain: channele2e.com
     quality: 17
 
-secured: "m/Xj/VaFW/le4+Ikry+yxDHK7C9lrqzBDcM7DhCM46WIqkY4bIRj78IQGaCybHP5AGsBJCrIxdFBYNLZb6MaEd+5Xk7x0JJwAYRiYkQWJ3VEuVfysthxEY8UaIQ9yjLgn7WseO8DWQ8mzMVu7enU2x+BQHDfTHvKgRmaZLWmhTJxsaXkh9lyvEtrUR4mKLArkM6oSi/yFVRCNQWnh8hx5+MxTUmppG0B9kSvBuie60KnkG1+dm5lZnYrs0W5FT4F5e1rE6PwC9dwGZDcPFtMmPnBfxYDccVvXMXBnb+S70YwcgeOFLudi14s/Kt9cIIqmUYxLrBoT1ECqh4YxBFoew==;OF+zPAL6D+MMPfTf+xUfPQ=="
+secured: "Xz14cW6Q+275LnHHPaNK8w6+yZfWBPddQ/EBMP3NkNtFMxOA5fHU/b55YdpOT98czWk5nRQjiEUqabyB/pLrqEc3AOW+1z9s8OSsuW6AkFcYLvK6UOl4IFsG6Mr0Io8mznZprjbMMAtjkeA6OQlZaopUq3v7StLvFNtj8gOwAPm1HAilj2iG+f9bcI7drfk/6YjuuJMKQsA7p/YzkofxyHE7NAvYp1f9XLONPLh1FkQTniYj2b/dVMzGN9slbwCaT8oCpONAMe2sJGga4V1vvx5r7YYB6RdtZLzaGs9catWxnQaiutuMTJn3s/wC0vodObgx5EXPjwCJeUMXqnAKoQ==;HfJNpAZThKSE+vdX7LM1ag=="
 ---
 

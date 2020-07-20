@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/minecraft-microsoft-azure-193642521.htm
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/minecraft-microsoft-azure-193642521.html"
 type: article
 quality: 96
-heat: 96
+heat: 116
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     height: 350
     isCached: true
 
-secured: "ljXkJ81DD+tUmcjnQWGsg17PHJmDv+9WKkHrTduaSDxNRG53qSRLbpptiVhsZlP6psxahl9TeOqsO1g20mrXi+YdOb3ZfCDokkBLOocH5iTC7sWp1blxALnhhKzbPWkMxOU5pl29jb39rYuYgGC179MAcmzPiIMWJCVrjf6AsqTMvbqGVWKzfm+uDYl+Nv/U7P4LSBStA01liIsgfX7aBiGKNpo/BmdViGTQfmwEwa7UOqxEbi2KTcLF6iOXfO2GnTVh0PgIp4J34yND+aRCclRaIkuqW93IUDtPRGxh78BnPkmyzmm9ekEefbAqhiAwiuV5GzZEXxPLB3ZdqBw6qg==;oHLsSUXVeY/ToEQ1ZL5Qlw=="
+related:
+  - title: "Mojang Studios is finally moving Minecraft's Realm servers to Microsoft Azure instead of Amazon Web Services"
+    excerpt: "the game is moving to Microsoft Azure servers instead. Apparently, the studios has been migrating tools and cloud services to Azure for a few years now. It might surprise you to learn that Minecraft, one of the world's most popular and best selling games ..."
+    publishedDateTime: 2020-07-20T20:04:00Z
+    webUrl: "https://www.windowscentral.com/mojang-studios-finally-moving-minecrafts-realm-servers-microsoft-azure-instead-amazon-web-services"
+    ampWebUrl: "https://www.windowscentral.com/mojang-studios-finally-moving-minecrafts-realm-servers-microsoft-azure-instead-amazon-web-services?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/mojang-studios-finally-moving-minecrafts-realm-servers-microsoft-azure-instead-amazon-web-services?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 38
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/minecraft-enchanting-image-10.jpg"
+        width: 800
+        height: 450
+        isCached: true
+
+secured: "IMlPS3Z+EvSwf8HhZWyUJwPmA0AGLEkVMzYCq5dISn4Eq+5CKz3sZ+dhZPhi+bAQtNLzAUpauf6mh6to6IaQgkyuhD3p9oueStNCypIRthnVCM5jY3hdPyj24y0p61nB2+29a1IX7kQp7AYMHL5w/GJwAb1bFrt2V3D4tC37d6tAiAujJJuNCr3xvJzO9Rp42iEN2+jCNvz49rNldL10jMVsuzcXW2O2wR0iKOIYjAnXUmPul5gFKZEWM+Bhy+ZHiYuFpuhkxXJer7Ive/k8Tf5nZYHwza8PiPv/AODiaR35CjPAmqUZ2A8ox5EJ+eC9FqS0w6HA05aNEieHtBO63NYj4C/79cgSchF6+UiqX8cjYsq9WKr8KHeOMPid0lpG98VKP9rehfxb1InPzZLZZbN9bKGNJlDccNRq8eiJIcf/cmq/xqiba1jDeTXuXr4vmK543muDeBMqb2G4FcyDvMKQ6BbAMj/Xx/3RFb8Ab97W5yxwLppAQ7h2fvbl31GLFuTb9UMzeiZFrNt8omRM/w==;BMnt/4gKttH/yViPdzRJQg=="
 ---
 

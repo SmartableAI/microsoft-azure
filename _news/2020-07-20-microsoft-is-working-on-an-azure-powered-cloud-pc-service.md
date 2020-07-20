@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-is-working-on-an-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-working-on-an-azure-powered-cloud-pc-service/"
 type: article
 quality: 97
-heat: 157
+heat: 177
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 51
+  - title: "Get Certified In AWS, Google and Microsoft Cloud Services — and Get Paid."
+    excerpt: "digs into the specific features available on Microsoft’s cloud platform. The course also gets you ready for the second jewel in this cloud services triple crown, certification in the Microsoft Azure Fundamentals exam. Finally, Google Cloud Platform ..."
+    publishedDateTime: 2020-07-20T20:56:00Z
+    webUrl: "https://www.extremetech.com/deals/312963-get-certified-in-aws-google-and-microsoft-cloud-services-and-get-paid"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 21
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2020/07/sale_31344_primary_image_wide.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Barracuda, Microsoft Tout SD-WAN on Azure for Multi-Cloud Services"
     excerpt: "Barracuda CloudGen WAN allows companies and service providers to create a pragmatic Secure Access Service Edge (SASE) solution in public clouds, according to a statement from Microsoft and Barracuda. This could pave the way for greater public cloud ..."
     publishedDateTime: 2020-07-18T10:53:00Z

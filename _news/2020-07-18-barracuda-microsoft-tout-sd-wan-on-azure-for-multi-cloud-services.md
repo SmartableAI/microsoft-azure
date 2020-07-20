@@ -58,6 +58,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 51
+  - title: "Get Certified In AWS, Google and Microsoft Cloud Services — and Get Paid."
+    excerpt: "digs into the specific features available on Microsoft’s cloud platform. The course also gets you ready for the second jewel in this cloud services triple crown, certification in the Microsoft Azure Fundamentals exam. Finally, Google Cloud Platform ..."
+    publishedDateTime: 2020-07-20T20:56:00Z
+    webUrl: "https://www.extremetech.com/deals/312963-get-certified-in-aws-google-and-microsoft-cloud-services-and-get-paid"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 21
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2020/07/sale_31344_primary_image_wide.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "bXCe3lo4nYjgLYWIAnRCpP9sPhZTNlMHSymIXqOXkQVYAliWqGel45KbL46YPDL2x5u6vr+B+p1ofPDSr0Fg3TvCQD7EZNzusxa6GFafYK+nQN3nmFUZ6kw+aeinONsQ6GlduDFZqnKH1j919oNBX0XQPsgjhj78YBJ9vOF1K54LCCjhLWnoOtXvNlEXVgGzigAe+moFAyaJb7vusXxz5vkDu/QJuLpBA1hOsvau4CRG7ula0YhHfwXTLjqnjvkEWHMu22GbcNcCylULyLEYYQk95ADCGRYol7w6TcJXxSSxs4eaeyi6J4f6DnDS+G2XD5lDHWaswPWTcCFY1G8xU+2T7tMcG5feV+y+OcN/05w6xg4V1QijxGgqzTJlIViLrCavHHvNavESzpp5YeLQ9iSif49k8Uvj5/tvd9MVvgJSKu8pcDBCueXZqrxCB9FHsNiNccO07hPSnAoT0Bk8rtrCd3jGr/5WzjIa9feyXzpLnhwdIt5COY5ekvsepXWJ;Zt3W+0mWZn3p+wMDf72XYw=="
 ---
