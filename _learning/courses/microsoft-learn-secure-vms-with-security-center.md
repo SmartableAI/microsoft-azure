@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 44 mins
 ratings:
-  count: 709
-  average: 4.631876
+  count: 710
+  average: 4.6323943
 heat: 53
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Protect your servers and VMs from brute-force and malware attacks with Azure Security Center"
 
-secured: "T18HjeRWjKixWfhaflliFg6CaoSOhaRED62VVfb5xuQpqkShUiaqSxbTG0wcNNjOLsGRlLegGAhbsURk84nTlOYxn5k91zpEGbZpalsqmlEYSIze4vsphdA7jvQHDQB8O4z7+II2YrQBx+QvkwmguCg5Yj9WwTQ0NYoJWTk0DrJN0nYdy3H9gLAdLzKgpkcWxoncEeEyShSwV9FmRJLbyV2wA7c5SxHkdau+qOdjthNoU5l4PCoNmU2PUx7Du2DJjD8U7mVD3qW14lXr+YbGi75lI/fP3JtF1kp/czGAIqAywHXsyZchns40a2Dcx4+fiw5ySxYeslMOdDuIkWuM21rUGqYEBPd6dVm16nK1MY4UV2PxGojiKPMZjso0Jzch6rme7NHLS+v5d/2TB0ukcQ==;i3sKyflAowW56zhvZEI7KQ=="
+secured: "sOCoUNpaJ3EfSuxmA6IcOv+EWmlrCSBhf44aBR6TUWMwXby4L62OjkIDQY6oz9XY0IdUYoDs3TM/j+wAIOT8y+NhIoLFZIgpQwe2ZFzbZ3HRoEE1l7Yl5EXSmUUs0Ao+xLd2CFOm3rlpQcfXBdxfjGhh3Ap65a3enlGJXY9b9yDtcRH8LrAzB6IcVNTIVFRYFd5fX2LqkgQKSnfA62GQe7aB7fJHMFfHOpLRXnEqXWcCcQIP5NmkFI2lmutyj3yUImS1ba1qhIovz4rZAdsM/hhpqefHSKOLTwrT973s2z/eRSEa9CHcSN2jDQo42eHcDcvgWHFNyWZWX0RY0sTmZ5fJEOzpYSFuSP3T73pDPpOO0EPJdUrboknGhmVkZ+oEEVf6QMNp+LOtwEqQ4VFr+Q==;rGAmdjtqxDn3+N1RELnsqg=="
 ---
 
