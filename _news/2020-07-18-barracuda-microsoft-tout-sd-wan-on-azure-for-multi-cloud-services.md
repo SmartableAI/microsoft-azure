@@ -17,22 +17,31 @@ topics:
   - Azure
 
 related:
-  - title: "Barracuda launches first global SD-WAN service built natively on Microsoft Azure"
-    excerpt: "Barracuda, a leading provider of cloud-enabled security solutions, has introduced a new secure SD-WAN service built natively on Microsoft Azure. The new Barracuda CloudGen WAN service is the first SD-WAN solution that runs inside Azure Virtual WAN Hubs."
-    publishedDateTime: 2020-07-17T07:11:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/barracuda-launches-first-global-sd-wan-service-built-natively-on-microsoft-azure/article32111482.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/barracuda-launches-first-global-sd-wan-service-built-natively-on-microsoft-azure/article32111482.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/barracuda-launches-first-global-sd-wan-service-built-natively-on-microsoft-azure/article32111482.ece/amp/"
+  - title: "Microsoft is working on an Azure-powered Cloud PC service"
+    excerpt: "Well, it's happening, likely as soon as spring 2021. Microsoft is currently calling the coming virtualization service \"Cloud PC.\" Cloud PC won't replace locally installed Windows (and Office) -- for the foreseeable future, anyway. It will be an option for ..."
+    publishedDateTime: 2020-07-20T10:09:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-is-working-on-an-azure-powered-cloud-pc-service/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-is-working-on-an-azure-powered-cloud-pc-service/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-working-on-an-azure-powered-cloud-pc-service/"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 52
+      name: ZDNet
+      domain: zdnet.com
+    quality: 97
     images:
-      - url: "https://www.thehindubusinessline.com/info-tech/nozm6x/article32111481.ece/ALTERNATES/LANDSCAPE_615/BL17CLOUD"
-        width: 615
-        height: 384
+      - url: "https://zdnet2.cbsistatic.com/hub/i/2020/07/17/b7e08eab-61e0-43b4-b701-277f2d271516/microsoftcloudpc.jpg"
+        width: 1018
+        height: 763
         isCached: true
+  - title: "Microsoft Graph Service: Retiring TLS 1.0 and 1.1 and preparing for TLS 1.2 in US Gov Cloud "
+    excerpt: "Update your Microsoft Graph clients in US Gov Cloud (https://graph.microsoft.us & https://dod-graph.microsoft.us) to TLS 1.2 by 8/5/2020 to ensure that you maintain uninterrupted access to Microsoft Graph Service."
+    publishedDateTime: 2020-07-14T21:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-graphservice-tls12-enforcement/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 51
 
 secured: "bXCe3lo4nYjgLYWIAnRCpP9sPhZTNlMHSymIXqOXkQVYAliWqGel45KbL46YPDL2x5u6vr+B+p1ofPDSr0Fg3TvCQD7EZNzusxa6GFafYK+nQN3nmFUZ6kw+aeinONsQ6GlduDFZqnKH1j919oNBX0XQPsgjhj78YBJ9vOF1K54LCCjhLWnoOtXvNlEXVgGzigAe+moFAyaJb7vusXxz5vkDu/QJuLpBA1hOsvau4CRG7ula0YhHfwXTLjqnjvkEWHMu22GbcNcCylULyLEYYQk95ADCGRYol7w6TcJXxSSxs4eaeyi6J4f6DnDS+G2XD5lDHWaswPWTcCFY1G8xU+2T7tMcG5feV+y+OcN/05w6xg4V1QijxGgqzTJlIViLrCavHHvNavESzpp5YeLQ9iSif49k8Uvj5/tvd9MVvgJSKu8pcDBCueXZqrxCB9FHsNiNccO07hPSnAoT0Bk8rtrCd3jGr/5WzjIa9feyXzpLnhwdIt5COY5ekvsepXWJ;Zt3W+0mWZn3p+wMDf72XYw=="
 ---
