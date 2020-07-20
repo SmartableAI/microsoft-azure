@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 53 mins
 ratings:
-  count: 319
-  average: 4.557994
+  count: 320
+  average: 4.55625
 heat: 54
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Introduction to Kubernetes"
 
-secured: "CxNkYuY1WXtH223q1zmLbSuY6Jl4HdYm1VTsyFllpLWBsrsYiinw9RtTBCcmcfuc2CnTW67oLw8WOL37bbOWuPB6dLmJy3Dt347yHJ4YGZIru8yBTA4+cEmjfmun0coVsOn39EGYMpo+b802Z1tk+PWD0GuwTgSwQ9arNLiHsqmmW8QJ3zcxRP9IoqrPu5ruwfTUxEi5izb5kmsm1/dttC2hsDkRWzgZNi7r8dbirwz1gztmSKSPVjgFtZ5zy8GQDXk2xtt8/BeOqEwI6vaiLftgOYQ3NazyQj04om7VfnDKv6ZtF3m+Mgtbk7BJnn/Zekl3z/Eskguq6HDH4byA54ZFtDr470vpfAV7C3G9Ys/dXdRL++Nqb22Zb2JZdcvj1DPzSTYnqhjnHZ/b/3sPbQ==;IHhCfj3rlXdl+QTM2q9Npg=="
+secured: "Q6W+5k+d2Bsaw7AhQuHqoYtdvgeIqhdHLtAtVM8HcHExDkzhjR8evjDlTofLPKE8IxhI2Nzdj3X2qvr3TNFSeDqbrYdUQDvjHhUSLPg5mp3pMeUOidI+o61rCij82exLHIUGSNHwgNYYLOn4kvgCbvItTR9P2wVniFgf175Osje6HYVy+MH3nIYA7Sr9ovCGZHgEwdsv18VPjjOUCDZbOHNsHbE82qk9DCTyWeeuifcSA8axFw/ClU6baEGMTgQyAlF7jhm2IrFRsXn98NSP5VYgtRnzZ0YU7dY3BOC6+6EUAEulOvs3dU5hTu5YFovpUk1Pg2F7vYkt3vhrYR/GIPMs6oR7vXA6jEoO7nB1JuRx3BTVDbE+pSHiPGedoJxp9LGhw4TlBxRJ/0RCOAkaIw==;f+jQmGx60nTwaJaYUhUxBQ=="
 ---
 

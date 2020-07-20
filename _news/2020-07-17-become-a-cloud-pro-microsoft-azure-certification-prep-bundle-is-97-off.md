@@ -30,9 +30,9 @@ images:
 
 related:
   - title: "Get this Complete Microsoft Azure eBook & Video Course Bundle at 95% off"
-    excerpt: "Lead your business towards success with 15+ hours of video content and six eBooks on Azure cloud solutions, integration, networks, and more while saving over $650 off the normal cost!"
-    publishedDateTime: 2020-07-13T16:46:00Z
-    webUrl: "https://www.neowin.net/news/get-this-complete-microsoft-azure-ebook--video-course-bundle-at-95-off"
+    excerpt: "Leverage PowerShell to Perform Many Day-to-Day Tasks in Microsoft Azure Migrating Applications to the Cloud with Azure [eBook] Modernize Your Apps with Microsoft Azure by Moving Web, Desktop ..."
+    publishedDateTime: 2020-07-13T16:48:00Z
+    webUrl: "https://www.neowin.net/news/get-this-complete-microsoft-azure-ebook--video-course-bundle-at-95-off/"
     ampWebUrl: "https://www.neowin.net/amp/get-this-complete-microsoft-azure-ebook--video-course-bundle-at-95-off/"
     cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/get-this-complete-microsoft-azure-ebook--video-course-bundle-at-95-off/"
     type: article

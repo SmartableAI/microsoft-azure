@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Build and run a web application with the MEAN stack on an Azure Linux virtual machine"
 
-secured: "x0mvc1lws+mPz/skrC/H84/E/OOT08ph69RaX14eZ7sT1h7y4JLmPYSj9/qZiBP8YkRFv8AjAANEs7AlUFgTDXyTHiWfpynqS4p7+mtV1fnDiCEtuwOY+ASY058PDuynyZPmNNlyyu1eP4CGpWf/+lJXtQWJhwq5x7Rltu5alA2ho00T4tmiTS8Igv6wSlLg+Z2qNC0kEtGlPu687OMB/50NUUI8y5RYT6uVrIiYJYSf/uTuZGPGc9QnT9KAlOmHgJaeChpkoWfgGFnfWsIHODC3mY6WS01Wk9OAA2vscPU3e6515xBKuN6ECp3TClsU7Js/RGZeLTGeF+rKSOSEIwOVQtpq4NTCvNWmkpb2ZqKuKy2RRTtodD7iK2dqK9+A0iic/yrhUX40ukPa1OBytw==;rT2+Ng/dp4sdMbzRfmENPA=="
+secured: "fj7p2S7+UOHLt+F4GoQnBe6uMzwD9ovp9wbjULx6sPvr4+LhJj8GKsQTSCtwLF/VcwgnJJQM6tBVXxr/XBFCy4VeC4QWotx/pPVUd58j7U8xjBpF1cw+ZX7SLdzssv/2Fh5erAKOVa0TfAlW3Z0+LwKRvkrQAHgbyvXIjeA9tIv24nyaysQ5oLxhBFK6TY5ihAutQYkq170//3WnHyylpx5IdNg4pl4EsX+h7xuS00Ir7z5BYzdOIIetQIu+PiG+lSCN7POkHAgPS7H8/p8Yyj/tzYCl2ZJg/FWvaj31807SGglOfby67dX6ho+jtkvM6czcyih61wd1la9HTkiMzk6vCIIDbI5EVYC377mmwLQmRDxwAx056CrIVI5ZRK3F76WlyJyZ2UU3HGUJiTZl1g==;GyD6sMwNstKdo8ZeoqfB3w=="
 ---
 

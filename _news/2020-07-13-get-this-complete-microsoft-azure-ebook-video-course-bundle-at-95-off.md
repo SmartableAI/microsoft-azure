@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Get this Complete Microsoft Azure eBook & Video Course Bundle at 95% off"
-excerpt: "Lead your business towards success with 15+ hours of video content and six eBooks on Azure cloud solutions, integration, networks, and more while saving over $650 off the normal cost!"
-publishedDateTime: 2020-07-13T16:46:00Z
-webUrl: "https://www.neowin.net/news/get-this-complete-microsoft-azure-ebook--video-course-bundle-at-95-off"
+excerpt: "Leverage PowerShell to Perform Many Day-to-Day Tasks in Microsoft Azure Migrating Applications to the Cloud with Azure [eBook] Modernize Your Apps with Microsoft Azure by Moving Web, Desktop ..."
+publishedDateTime: 2020-07-13T16:48:00Z
+webUrl: "https://www.neowin.net/news/get-this-complete-microsoft-azure-ebook--video-course-bundle-at-95-off/"
 ampWebUrl: "https://www.neowin.net/amp/get-this-complete-microsoft-azure-ebook--video-course-bundle-at-95-off/"
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/get-this-complete-microsoft-azure-ebook--video-course-bundle-at-95-off/"
 type: article
@@ -116,6 +116,6 @@ related:
         height: 558
         isCached: true
 
-secured: "StZlHAtCXUR3JXRvtw3DEH4NFJwh/Oru4QkkTE6tYLWFUmB47k0ktAJoPk5aCKC0XHSsnDpgnb1eCHqQdjCFc4/FDjrJIzrguTFsZVbqQJbgaQhXw9znDwSNILJGXGaa5DzuPv8q8QHui+zFhd9tUFZJJi4U5KzZ1zzUeTGLdRC6J6mvqYuLhhYMoGzRJY/bFnm1KDZP0gmCFEVe8DElAKf622+tTDVErRxUyt1QBIIIPrwl5/1cyRPes/197kDmRJWDOBGi9F4k8xxWyzToxEkSfpE7HHD+Bx9Av6jtDQUv4tgamx9sXmRlrpyHowQSvmTW7CiNp/79so+ehdwJ3Fh4mL3jpska/XbLozSIS5WBH66VLqCOUi+iS8vxs8K08VI+ytrUqqRgQHabx/T0ORnmSX77tz1DE8QC+tPTRyt9GqOhk1aX9h0+A0NdlV7vc6VzzjBUVOOCanJTr/FYnpEpLo9vajS6Ll4wWHscbHDtMESD7d1nohcw1KsHI4gQiRo9Hxh3dNtZr3/dK9jJyA==;TxiavgPcTv9xHLLJj3LNXg=="
+secured: "sxyqRDOaRdH1Sq4DQJoAm1p6YEw/dh1eSWgZ/A9r4XEtKlSGyKYZYaUKxg9cTSmmMlr/Cb/eJ9tHgDAYSupx5Dik5QwnOgpjRV4JtahhKT+gkTyrXXQEKXCdcV7NQbrodKfzJe/qBS3xIBt63PMYEMQZAfz+kPpZLNhwEsEvJ0/YwkF4rfN1KD+AkWmoxdw0vxIXjAc1qBq2GWkDcLQG0DT/iUwIckSmBzwfHa435ppbyevCA7+Mz/cZLPSxduJUYEa1QJsxBV9a5K+vY+OzMlflc9raO7vKlIvI9mbOxw++5wSJUgYRVd9k90pkYPd+vYhL/NKVkMsgiBAM7Pe96A==;U5xV2pFGbOyqaKCEeQqNeA=="
 ---
 

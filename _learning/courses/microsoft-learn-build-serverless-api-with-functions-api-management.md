@@ -35,6 +35,6 @@ images:
     isCached: true
     title: "Expose multiple Azure Function apps as a consistent API by using Azure API Management"
 
-secured: "tCSZubryH4yEevyD/8FNNOZidnik7TjC4M5p73IbIm8a3U1bToL/P+WrPg8gZzrqAhp9jHrfdlDtvQmnbn2YMCOepJy28Oo195aRb5XZ0NuB7Q1z7Fpe43c4L1a7gcEYSSU57sFxab/W/kcyr5qSEQS/2YCuDnbzQhBaC4Snw/ESvtf+gIle3UtH42+/ye16pQjTw5RwboUGFFtDcQzJnTOZkCnE8JGsyTqQR7tmNpoMRC/HhBYPf6Nb1nlpjLCtuNL6wIu/PNpstfcmj3p21KgVPknc/W/pez8mBSRJlS6QX8/PRnF++hj6VK2x6BkSffBJfZ9MV7gNdr9KT7f30uHJpcV2aoDn4dSFufyhDNEUpIF8Feuz0uVFi5PXMlskUXo/aY9UVbeTFrQPwWazFA==;7ODV98392p7SqpNp4E/zYA=="
+secured: "zqEF8VX2w25b6iuhZkO5AKInBvgR1zlu5jPRDxUTfnLkgg5U2IYoick2vVvytNoSuwHqDTCzVd7zIr1WJDlr0ltsxJ+4FaDahEtxcjhUc5tMSXhHPtHGCXdwFZi0U9XXakijesbo4qKyafvSKLL9g7N26loMU4LgYK/P9mJnTyOCuxmfP/y0DdqZ2FNe0RciSrxlTc5I5BYwZ998Cs22PRmMfPf/eWF1bFTTyfevEOrspvNJVqL4ddXg+IARJlzgxe4yxeLlKfomIsFhiUensZ39LmJuCHKKN3v8Do+YfK9DrMbFNMuHZTDiPJoFQd66Msy6jzH84olrpNkTJu3KoRzFGUkpPoQDkj+75vbimGbfK5wY48WW4hw88Kwmik2kaDkhactKByj8PefS+Qq13w==;a+zYWto6+bMo6KFl1N2/5w=="
 ---
 

@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 44 mins
 ratings:
-  count: 687
-  average: 4.672489
+  count: 688
+  average: 4.672965
 heat: 55
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Learn how to manage IoT devices as an IT admin"
 
-secured: "lZVgso0cArX9Iy7hU2ZOEakESlS99txa8s+shvGySzwTHubbrXWa0rGfLyAcoyEADoZizrnZT2JrLQrrBEC20VPzXRX0LJgFrhLHsIxXH8FgdzyyYkS4C7qQ+mTOswrVVfcE7w5aT9bCYijj4GiVUr0mfdPieSCbC+VcfqWJN9yDmd5h4UemOIndSPgjAVMcM+0hOlHpU+OYj7wLykRxZdaWY+ZQgZrR6b9QX5QJHyuz2wC83PwQceR2RhQjPraFDF7Rn60K67zmdE6fXEThW4104tvLocwQhXouzn9O5TcNoV7gb9vx5JAw9oYaFJ9rI2lZf0z8b9vXXEW45R3xt8cebs43/fnZEBVz0R/W3JP0o4oOcMcvNSP/rz1FA8zrMN9p+TtW+GB6nHy3DzYHog==;mG7aRFB958V9qF+HsKVzug=="
+secured: "eL1ht7Qrt2ZjdwmjZUeH9425HdTPBR94rjSOZITaQoTSN7+7h9VXJLMCCfIoYXSI7uv0JTQdlJBXU7549iQkd+rcfz1qrb/J4Nqh45Sy4YjglqounHJZ9CykpQNISmC/X3/5Gjbis+BWVPfppsJdInARTBcBavK2GeRMzQzNdRmz14i7YrDhr40dIpezZLUwTZ8HRd/M6vcAplralZ5/RGnY8xotB6WnDc52r0HS7KZc1pr7kIzh1KUk2ZR3Op+oWXzN34wzk3vCsIlcHDw1yNuJVVOgUx0KX/qMeHM43fuX8Z6THYx4D9ciiqAPEX/ojU7TQTg5/1g9f8UZBceQ5ncIdLmRUCfQA2jPJeRgAD1yl3KvKlRxbnU8Pw5hKTOGgYSJWRPKSUr2KebqvDWelA==;o4FJLNVgo/mMhehN4iZ1jA=="
 ---
 
