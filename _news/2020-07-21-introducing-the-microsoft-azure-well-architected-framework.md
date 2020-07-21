@@ -39,6 +39,6 @@ related:
       domain: mynewsdesk.com
     quality: 37
 
-secured: "adQ89rPUm1j9hYyhWL/TnEoEGNyQ8gCor3UbL+Ni6xwaQoxCUKQYJGBnB5LfmlLHNEWdht1QOeQL+7/7ooJ38ynqfM3kzCOIAFl4abyZtn0nfC+LK+oqorJEngvM6xsSWGNmt0VQe2VO5B3lXvGBHdvH5x+sReCn5sldcbOLsygMOBuxp40A7gSetNxVnGSG33rXfciA1E+nkros8vDgvgStmhXVXpyH1V1OlAodhD/AU6LFbKZDZYsCxsEy39U1uPzWw+EavrYo3I2b+HI3alfjk6+7QW+7Kpd6Acj28X3Yd6/QiqVlh1bcppo/GR4bOrqX9fayIorlaaAKok/yKg==;CKQz+Ffe8PeqJfEB9rcJZw=="
+secured: "a3S428tuALHL2e3+odWhBuE9nhhAjkvj1fu+NxOLdxPamGU8EkZKpm5zVnAcbuhdcfzt2njeuG/Voj/1XgToE3dxuMU+bi7/pSK4wnTbHv7BGdxLSGRD+o+74Cnhmq4/8js5IlA3OM40dxf6gnj1U0DepzGg0gD9LJTg+nofXtiLcEyJbzqD1euSptp6cllhn+aFVgga4t05I9pp3ZU1Jc7jJoWM78gandN/EDffJ3XEnOq0vBwH0F1NwAg9Ma348Pg/A+ThyVgQs8RKnaFY5y0HoaFLuJ3NX0wvo2JKyNFMUXP+TAdCyzE7We1E/eC+sEk1pCiYhtG7LgNQA83GZA==;qKWHYPIeMBbOpW2oSzC5Xg=="
 ---
 
