@@ -59,6 +59,20 @@ related:
         width: 304
         height: 430
         isCached: true
+  - title: "Barracuda introduces first global secure SD-WAN service built natively on Microsoft Azure"
+    excerpt: "New Barracuda CloudGen WAN is the first secure global SD-WAN service built natively on Microsoft Azure. The new service is deployed directly from Azure, works out of the box with smart default ..."
+    publishedDateTime: 2020-07-16T17:08:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/barracuda-introduces-first-global-secure-sd-wan-service-built-natively-on-microsoft-azure-301094835.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 28
+    images:
+      - url: "https://mma.prnewswire.com/media/324434/barracuda_networks__inc__logo.jpg?p=facebook"
+        width: 2696
+        height: 1414
+        isCached: true
 
 secured: "iSijaY06KMwS3sWXRsNLT2Nc1aiUIY/HgRIYPqjYNcpTTqFNwea5X30Cw+CQ0Yf2AGuuWawoR0g3vDD0Jzhs7m+I4cskTzLhYM9Ahu8PqOMXIIV5om9+oosALKdvTpeSDdHT/aYBNTKus+yFdn9tI9zQtliuZFYRl6fBd1tc6kXIhOunO0Nx/Bxz2pVG6TqEp3iJ+YwOCL8O3jFwm68evw0m3ZI+bdMsLL5u0VIS2JLJ55E0sVd3JczGPofxvdGeBxDS62LgGYPsXpxVpkgDaCUNSEQz9OWD0PUE8DwG0DHMY+ZdcbVN6/r7IphsoUsMQdfw4WSlBTooMVI/OI6+tg==;+oAyXZ8zsVrK7F/hICMuQQ=="
 ---

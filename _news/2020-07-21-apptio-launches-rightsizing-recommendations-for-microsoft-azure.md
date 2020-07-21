@@ -1,25 +1,25 @@
 ---
 category: news
-title: "Aureus to upgrade e-Discovery solution for legal profession, powered by Microsoft Azure"
-excerpt: "A lot of insights will be hidden in this aggregation of raw data. The scalability of the Microsoft Azure cloud provides an effective way to collect and store the data—and Aureus' R&D on knowledge mining can help attorneys and paralegals mine key ..."
-publishedDateTime: 2020-07-13T08:43:00Z
-webUrl: "https://www.prnewswire.com/in/news-releases/aureus-to-upgrade-e-discovery-solution-for-legal-profession-powered-by-microsoft-azure-828476315.html"
+title: "Apptio Launches Rightsizing Recommendations for Microsoft Azure"
+excerpt: "today announced rightsizing recommendations for Microsoft Azure SQL Database and Managed Disks in its Cloudability offering. By analyzing cost and utilization data, Apptio Cloudability users can adjust resources to the correct size while maintaining ..."
+publishedDateTime: 2020-07-21T13:12:00Z
+webUrl: "https://www.prnewswire.co.uk/news-releases/apptio-launches-rightsizing-recommendations-for-microsoft-azure-876098754.html"
 type: article
-quality: 29
+quality: 37
 heat: -1
 published: false
 
 provider:
   name: PR Newswire
-  domain: prnewswire.com
+  domain: prnewswire.co.uk
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1213215/Microsoft_PR_image.jpg?p=facebook"
-    width: 1706
-    height: 893
+  - url: "https://mma.prnewswire.com/media/82080/apptio_logo.jpg?p=facebook"
+    width: 2421
+    height: 1270
     isCached: true
 
 related:
@@ -48,20 +48,6 @@ related:
         width: 985
         height: 657
         isCached: true
-  - title: "Apptio Launches Rightsizing Recommendations for Microsoft Azure"
-    excerpt: "today announced rightsizing recommendations for Microsoft Azure SQL Database and Managed Disks in its Cloudability offering. By analyzing cost and utilization data, Apptio Cloudability users can adjust resources to the correct size while maintaining ..."
-    publishedDateTime: 2020-07-21T13:12:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/apptio-launches-rightsizing-recommendations-for-microsoft-azure-876098754.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/82080/apptio_logo.jpg?p=facebook"
-        width: 2421
-        height: 1270
-        isCached: true
   - title: "Alithya Launches AI-FI(TM) Trade Surveillance Solution Powered by Microsoft Azure"
     excerpt: "PRNewswire/ - Alithya Group inc. (TSX: ALYA) (NASDAQ: ALYA) (« Alithya »), a leader in digital strategy and technologies employing more than 2,000 highly qualified professionals"
     publishedDateTime: 2020-07-15T11:39:00Z
@@ -75,6 +61,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Aureus to upgrade e-Discovery solution for legal profession, powered by Microsoft Azure"
+    excerpt: "A lot of insights will be hidden in this aggregation of raw data. The scalability of the Microsoft Azure cloud provides an effective way to collect and store the data—and Aureus' R&D on knowledge mining can help attorneys and paralegals mine key ..."
+    publishedDateTime: 2020-07-13T08:43:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/aureus-to-upgrade-e-discovery-solution-for-legal-profession-powered-by-microsoft-azure-828476315.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 29
+    images:
+      - url: "https://mma.prnewswire.com/media/1213215/Microsoft_PR_image.jpg?p=facebook"
+        width: 1706
+        height: 893
         isCached: true
   - title: "The Microsoft Police State: Mass Surveillance, Facial Recognition, and the Azure Cloud"
     excerpt: "Microsoft helps police surveil and patrol communities through its own offerings and a network of partnerships — while its PR efforts obscure this."
@@ -91,6 +91,6 @@ related:
         height: 800
         isCached: true
 
-secured: "sPXdO4Hs7jcS8nxsNMB29/2p0QpC9buEjq6ANQT8CYP3jWDS+ZP4p76iVACB9t08YCNpG7x28Jyf7cpKd0qdu7x745mDHQRZogzaxeqOn6G7uqN39CRNfgz1vCOh4jTcQtbhWyxEKFA6xCwKeuEfNyOFAhDgCe/96/QvB7hFoPcYuW5SHWV1+10Aqcv9kwftuvf18HmVZPWMBRIfLVMdSxisqF3+zj9pknwckhD1b/is3T6S+IGxFAyEVlduwCcEfmbo+8Y2zPs/A5zK5hHkSV0nw02t2UaZ+CRxk2RHar/2q0k3mS1HAJavTnAMvakj7RaDC64mNBzOu/7Llc1PBw==;Jtw7v1Z7HLoapdJd4FdRSA=="
+secured: "ocwDorIprcLIXxTrR8+v2NbnJowmWJ4xzRELda5f3zY3nB87C9j2CGeC9LPqRZxNdM6kr0AIVoZPuQJC5CfIfV9/28dYTdhJIl4e83soXZdVCkzCMZJSS48yaSeQ9LyEqU9cuemAKaS3seTximgRUYhSPvDJMAD6f+e77cfdNHfC/5If1CIc4pe1sb3H/JSvAJo2TnCi5epBUUW5TY5IcD56Fxqp8RGy4n4WlBYyAqNc1PmY/FSeEogJf5dPrkKP/Rgp/Sli2fSK+w4hnaFyp8Nm90hV4UUb0ZFSWH37UAD15S3r4zAatbvb5qY63PSA/ZTOYCBvPmqVNpj6EivvLw==;ZsAUCI141GzK6dMxhoBplA=="
 ---
 

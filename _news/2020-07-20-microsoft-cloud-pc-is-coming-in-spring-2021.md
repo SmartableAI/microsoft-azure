@@ -1,20 +1,26 @@
 ---
 category: news
-title: "Microsoft to shift Minecraft workloads from AWS Cloud to Azure"
-excerpt: "Azure is growing faster than many other Microsoft offerings. Most of its consumer and commercial properties, including the video conferencing app Teams, now run on Azure Cloud. Microsoft would ..."
-publishedDateTime: 2020-07-21T13:26:00Z
-webUrl: "https://news.webindia123.com/news/articles/Science/20200721/3596115.html"
+title: "Microsoft Cloud PC is Coming in Spring 2021"
+excerpt: "Microsoft is working on a virtualized Windows desktop experience for thin clients called Microsoft Cloud PC. It’s expected in Spring 2021."
+publishedDateTime: 2020-07-20T15:25:00Z
+webUrl: "https://www.thurrott.com/cloud/238023/microsoft-cloud-pc-is-coming-in-spring-2021"
 type: article
-quality: 17
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Thurrott
+  domain: thurrott.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/07/cloud-pc.jpg"
+    width: 1066
+    height: 599
+    isCached: true
 
 related:
   - title: "Microsoft is working on an Azure-powered Cloud PC service"
@@ -83,20 +89,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 37
-  - title: "Microsoft Cloud PC is Coming in Spring 2021"
-    excerpt: "Microsoft is working on a virtualized Windows desktop experience for thin clients called Microsoft Cloud PC. It’s expected in Spring 2021."
-    publishedDateTime: 2020-07-20T15:25:00Z
-    webUrl: "https://www.thurrott.com/cloud/238023/microsoft-cloud-pc-is-coming-in-spring-2021"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 22
-    images:
-      - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/07/cloud-pc.jpg"
-        width: 1066
-        height: 599
-        isCached: true
   - title: "Get Certified In AWS, Google and Microsoft Cloud Services — and Get Paid."
     excerpt: "digs into the specific features available on Microsoft’s cloud platform. The course also gets you ready for the second jewel in this cloud services triple crown, certification in the Microsoft Azure Fundamentals exam. Finally, Google Cloud Platform ..."
     publishedDateTime: 2020-07-20T20:56:00Z
@@ -129,7 +121,16 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 17
+  - title: "Microsoft to shift Minecraft workloads from AWS Cloud to Azure"
+    excerpt: "Azure is growing faster than many other Microsoft offerings. Most of its consumer and commercial properties, including the video conferencing app Teams, now run on Azure Cloud. Microsoft would ..."
+    publishedDateTime: 2020-07-21T13:26:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20200721/3596115.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 17
 
-secured: "iIx0mCSAdClIZzi0gOJIhwDDpbpNkC6SZFiqc7bciWUQNcNJ3sOCBLwmTORbkqOjsC5JjtlNrYJO1im0sEr72tj4bPV1ZZ7SfT09akxq7GBJTuEuGjeqNEK7t53kWmbO7sTOEy21dRoWHYXjzc+Uub3Hxjul0nRswd2tGROm9pgLcuhcfS7VzR7+7D0PXTbQlfcBAIfqCMHdG3YsWSw2rf57KSD4nBL4E7SIMnGPYiqjacyHXgh3UcCfBtplO/KH9wOzGaUnIvPEuHRfCjVqSiPULPmLibFhiDD0TGKhLsijsFN/DQ+/CFomI7YhCMmChc+96WDJWHkFXhjfPwn5pg==;LiLUVukRdN/JEvFhshclmw=="
+secured: "u1qB1b61mgMJ0gVNW9MuOHsxe3oEjouip7T9AD2ZzWHjBGUvPkvCt0mP3s9eAgNmhMJtxOLLkGBPKnX/8h5ysLW+1tMPkb9Sizc82XXBG1pXt6eP8CxbzF5M08vwvdaKovyzYTJF96MImhVKrhTvFT5X/qMYwAnIT/GpNC7HsM+t3+N46EujWc2j5C4I7Qh9G/5LiWnH0dCx2M0ATcZnQhmZEYvMTZhoaIpSo9nuhcj+2ZPUP0V+A2CfYfuMiQzAeRx39dB1SQr2XgkkOB9vnqfyQhn2b4Xjit1icob++h23PdUGwtwFjt1UPOeFSmkN3U93j+qZa/FXUL1cHb0KFg==;t/8K0iB8VghrgVvL8UYNdg=="
 ---
 

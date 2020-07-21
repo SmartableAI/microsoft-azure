@@ -1,25 +1,25 @@
 ---
 category: news
-title: "New Barracuda SD-WAN Service Built Natively on Microsoft Azure"
-excerpt: "WAN offering that runs inside Microsoft Azure virtual WAN hubs. With Barracuda CloudGen WAN, companies and service providers can create a secure access service edge (SASE)  in public cloud. Hubs can interconnect through the Microsoft Global Network."
-publishedDateTime: 2020-07-16T19:33:00Z
-webUrl: "https://www.channelpartnersonline.com/2020/07/16/new-barracuda-sd-wan-service-built-natively-on-microsoft-azure/"
+title: "Barracuda introduces first global secure SD-WAN service built natively on Microsoft Azure"
+excerpt: "New Barracuda CloudGen WAN is the first secure global SD-WAN service built natively on Microsoft Azure. The new service is deployed directly from Azure, works out of the box with smart default ..."
+publishedDateTime: 2020-07-16T17:08:00Z
+webUrl: "https://www.prnewswire.com/news-releases/barracuda-introduces-first-global-secure-sd-wan-service-built-natively-on-microsoft-azure-301094835.html"
 type: article
-quality: 37
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Channel Partners
-  domain: channelpartnersonline.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.channelpartnersonline.com/files/2019/11/CPaaS-770x285.jpg"
-    width: 770
-    height: 285
+  - url: "https://mma.prnewswire.com/media/324434/barracuda_networks__inc__logo.jpg?p=facebook"
+    width: 2696
+    height: 1414
     isCached: true
 
 related:
@@ -37,6 +37,20 @@ related:
         width: 911
         height: 513
         isCached: true
+  - title: "New Barracuda SD-WAN Service Built Natively on Microsoft Azure"
+    excerpt: "WAN offering that runs inside Microsoft Azure virtual WAN hubs. With Barracuda CloudGen WAN, companies and service providers can create a secure access service edge (SASE)  in public cloud. Hubs can interconnect through the Microsoft Global Network."
+    publishedDateTime: 2020-07-16T19:33:00Z
+    webUrl: "https://www.channelpartnersonline.com/2020/07/16/new-barracuda-sd-wan-service-built-natively-on-microsoft-azure/"
+    type: article
+    provider:
+      name: Channel Partners
+      domain: channelpartnersonline.com
+    quality: 37
+    images:
+      - url: "https://www.channelpartnersonline.com/files/2019/11/CPaaS-770x285.jpg"
+        width: 770
+        height: 285
+        isCached: true
   - title: "Barracuda launches secure SD-WAN service built natively on Microsoft Azure"
     excerpt: "WAN service built natively on Microsoft Azure. The new Barracuda CloudGen WAN service is the first SD-WAN solution that runs inside Azure Virtual WAN Hubs. Hubs can be interconnected through the Microsoft Global Network."
     publishedDateTime: 2020-07-20T02:02:00Z
@@ -51,20 +65,6 @@ related:
         width: 304
         height: 430
         isCached: true
-  - title: "Barracuda introduces first global secure SD-WAN service built natively on Microsoft Azure"
-    excerpt: "New Barracuda CloudGen WAN is the first secure global SD-WAN service built natively on Microsoft Azure. The new service is deployed directly from Azure, works out of the box with smart default ..."
-    publishedDateTime: 2020-07-16T17:08:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/barracuda-introduces-first-global-secure-sd-wan-service-built-natively-on-microsoft-azure-301094835.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 28
-    images:
-      - url: "https://mma.prnewswire.com/media/324434/barracuda_networks__inc__logo.jpg?p=facebook"
-        width: 2696
-        height: 1414
-        isCached: true
   - title: "Barracuda introduces SD-WAN service built natively on Microsoft Azure"
     excerpt: "Barracuda released what it calls the first SD-WAN service built natively on Microsoft Azure. The new Barracuda CloudGen WAN service is the first SD-WAN platform that runs inside Azure Virtual WAN Hubs. Hubs can be interconnected through the Microsoft ..."
     publishedDateTime: 2020-07-17T12:43:00Z
@@ -75,6 +75,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "dWFGHpddJfS7wv3ZjxWd5WDdGgrYWnodoQ8z1TSLIWhPtWjKDnYKr8G2tome3I5BkLT/1CKtxDhBCSKMx4wr9hPp8Am0b1Aus8i+qNYiwsshxzx22VkD5k6LpRuukQf1TOfGy0IfY3iawKI9X4qXZFR9eLHySKfn4sZQOWmIj6GBQ3UglRiXwVUrITjRy5Oxr82B2fuKKPB9WmAEFTt1fQ3x3gONlJLmCQztkI+o0C5kbBqcb1AB/HX5zhErsuhWiTkbyqGDGMuDz3Um80Z9wY+BVFC3yzn8FESr7EEFMHVoR4RNUrGw94XpPnw/ZlMlU4qIOkoHOWLX+ouO4Xm1dysUTUC0Q7MUmKh6Zhrt7GlvWA5IvfzvyY3DzygDZHHuEAdKefaYHi9ZgCz90ouhWzfioqQ2kC3CJ9/jIs0RbXiMP2ppwqLUvJ3N2lQg6YUCoUFx93IlJQg3zs4/47Xxgikf1pgDTVgkrYxRu1SUbMWX1Ll+JXtnKkFrpckI+M/sCbqdS4DB7uxow1E04FEB7w==;R3u55k6FkAHzYOXvX2rKjQ=="
+secured: "CdPPFx6WBlaGImA0PgmJh1E/Fr2S8Zz3pWnhFlAgwdOAnkXxVs+f8L6nW03XCY7ktJ5J+0f3Lq6OsSYfg1lOKmrgchIkJJvx/IBrJnrj/CzA/csmypKM8woR/a1snCe5dVRycXRaNM4mbU5fvFiu/Y4F2i1hXILdnK/1beMJ5GHV9o2s1P48xSlV27/4bWN1jEhh0SLtc4wRTJk3NJP7DJLloBk9dsqh2IglXl2p7oMgUAMIkGp6U3wRrTExvFjB8vDz6SGxqvgKwSKwXBndH3wecpxba5BNcz2RS3k0QN0U+S5nINCkoevO0H02q4D5y6cpt3f5oBR4JPmmGDBUGA==;emO7RSNxk4E9+2CRkb5o6Q=="
 ---
 

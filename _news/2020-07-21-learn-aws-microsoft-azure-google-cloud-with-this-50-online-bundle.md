@@ -1,20 +1,30 @@
 ---
 category: news
-title: "Microsoft to shift Minecraft workloads from AWS Cloud to Azure"
-excerpt: "Azure is growing faster than many other Microsoft offerings. Most of its consumer and commercial properties, including the video conferencing app Teams, now run on Azure Cloud. Microsoft would ..."
-publishedDateTime: 2020-07-21T13:26:00Z
-webUrl: "https://news.webindia123.com/news/articles/Science/20200721/3596115.html"
+title: "Learn AWS, Microsoft Azure, Google Cloud With This $50 Online Bundle"
+excerpt: "Get Cloud IT-certified on multiple platforms with this class, which contains 160 lessons and has resources that will come in handy for landing the job and succeeding once you're there."
+publishedDateTime: 2020-07-21T12:21:00Z
+webUrl: "https://www.pcmag.com/deals/learn-aws-microsoft-azure-google-cloud-with-this-50-online-bundle"
 type: article
-quality: 17
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: PC Magazine
+  domain: pcmag.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/pcmag.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
+
+images:
+  - url: "https://i.pcmag.com/imagery/articles/04SMpjyONF9bbgB7e55Fws6-1.fit_lim.size_1200x630.v_1595319685.jpg"
+    width: 1120
+    height: 630
+    isCached: true
 
 related:
   - title: "Microsoft is working on an Azure-powered Cloud PC service"
@@ -32,20 +42,6 @@ related:
       - url: "https://zdnet2.cbsistatic.com/hub/i/2020/07/17/b7e08eab-61e0-43b4-b701-277f2d271516/microsoftcloudpc.jpg"
         width: 1018
         height: 763
-        isCached: true
-  - title: "Learn AWS, Microsoft Azure, Google Cloud With This $50 Online Bundle"
-    excerpt: "Get Cloud IT-certified on multiple platforms with this class, which contains 160 lessons and has resources that will come in handy for landing the job and succeeding once you're there."
-    publishedDateTime: 2020-07-21T12:21:00Z
-    webUrl: "https://www.pcmag.com/deals/learn-aws-microsoft-azure-google-cloud-with-this-50-online-bundle"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 77
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/04SMpjyONF9bbgB7e55Fws6-1.fit_lim.size_1200x630.v_1595319685.jpg"
-        width: 1120
-        height: 630
         isCached: true
   - title: "Microsoft to launch Cloud PC service powered by Azure, according to report"
     excerpt: "Microsoft will reportedly launch a Cloud PC service. The service would allow people to use PCs as thin clients for Windows, Office, and potentially other Microsoft software. It was recently revealed that Windows 10X will stream Win32 apps through the cloud."
@@ -129,7 +125,16 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 17
+  - title: "Microsoft to shift Minecraft workloads from AWS Cloud to Azure"
+    excerpt: "Azure is growing faster than many other Microsoft offerings. Most of its consumer and commercial properties, including the video conferencing app Teams, now run on Azure Cloud. Microsoft would ..."
+    publishedDateTime: 2020-07-21T13:26:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20200721/3596115.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 17
 
-secured: "iIx0mCSAdClIZzi0gOJIhwDDpbpNkC6SZFiqc7bciWUQNcNJ3sOCBLwmTORbkqOjsC5JjtlNrYJO1im0sEr72tj4bPV1ZZ7SfT09akxq7GBJTuEuGjeqNEK7t53kWmbO7sTOEy21dRoWHYXjzc+Uub3Hxjul0nRswd2tGROm9pgLcuhcfS7VzR7+7D0PXTbQlfcBAIfqCMHdG3YsWSw2rf57KSD4nBL4E7SIMnGPYiqjacyHXgh3UcCfBtplO/KH9wOzGaUnIvPEuHRfCjVqSiPULPmLibFhiDD0TGKhLsijsFN/DQ+/CFomI7YhCMmChc+96WDJWHkFXhjfPwn5pg==;LiLUVukRdN/JEvFhshclmw=="
+secured: "OWn1kULlOgWEtYyKHE83gdy0KmtE4Wu+nxFI3aP/ERwwOmbJX3IU1Ic6A0jXJZpMls/UI1KweUztLvvc9BrTK1/FjDW6yRnB3GlSlFMFmnIOyxXQro1dvf3t1vPR6q0UzNqpjwz2VSHIlwURTYlGRJt3E6nucQsunbBnq0EEASPP5kA4hoBIsGgnd1X3mQEPaE1/bi7+s8qAUGaTR5p53cfHlB7jkuSR0yNdcXMB6L23RybX/qm2nYbdL4fHs9MTZCEFGQLnpK8pScBHc0diBizYBDOaaFia80Ht1UYTs+nptdavhD8389QPDV/q+hK3lTsRyUkSNubsz0AmwbjYUA==;thnZXVuSnpq5ge6iRTioig=="
 ---
 

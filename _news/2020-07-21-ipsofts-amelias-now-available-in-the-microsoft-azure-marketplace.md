@@ -1,27 +1,22 @@
 ---
 category: news
-title: "GAVS Technologies: Zero Incident Framework (ZIF) Now Available in the Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers worldwide now gain access to ZIF to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies PRINCET"
-publishedDateTime: 2020-06-23T04:20:00Z
-webUrl: "https://www.finanznachrichten.de/nachrichten-2020-06/49985840-gavs-technologies-zero-incident-framework-zif-now-available-in-the-microsoft-azure-marketplace-200.htm"
+title: "IPsoft’s Amelia’s Now Available in the Microsoft Azure Marketplace"
+excerpt: "As a Microsoft Partner, IPsoft supports Microsoft Azure customers, sellers and other partners worldwide in using the conversational AI platform to solve real business issues and drive efficiencies through automation. \"We are delighted to become a Microsoft ..."
+publishedDateTime: 2020-07-21T12:01:00Z
+webUrl: "https://www.mynewsdesk.com/ipsoft/pressreleases/ipsofts-amelias-now-available-in-the-microsoft-azure-marketplace-3022596"
+ampWebUrl: "https://amp.mynewsdesk.com/ipsoft/pressreleases/ipsofts-amelias-now-available-in-the-microsoft-azure-marketplace-3022596"
+cdnAmpWebUrl: "https://amp-mynewsdesk-com.cdn.ampproject.org/c/s/amp.mynewsdesk.com/ipsoft/pressreleases/ipsofts-amelias-now-available-in-the-microsoft-azure-marketplace-3022596"
 type: article
-quality: 24
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: mynewsdesk.com
+  domain: mynewsdesk.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.accesswire.com/users/newswire/images/594875/image-20200623114459-1.jpeg"
-    width: 1223
-    height: 476
-    isCached: true
-    title: "GAVS Technologies: Zero Incident Framework (ZIF) Now Available in the Microsoft Azure Marketplace"
 
 related:
   - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
@@ -107,17 +102,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "IPsoft’s Amelia’s Now Available in the Microsoft Azure Marketplace"
-    excerpt: "As a Microsoft Partner, IPsoft supports Microsoft Azure customers, sellers and other partners worldwide in using the conversational AI platform to solve real business issues and drive efficiencies through automation. \"We are delighted to become a Microsoft ..."
-    publishedDateTime: 2020-07-21T12:01:00Z
-    webUrl: "https://www.mynewsdesk.com/ipsoft/pressreleases/ipsofts-amelias-now-available-in-the-microsoft-azure-marketplace-3022596"
-    ampWebUrl: "https://amp.mynewsdesk.com/ipsoft/pressreleases/ipsofts-amelias-now-available-in-the-microsoft-azure-marketplace-3022596"
-    cdnAmpWebUrl: "https://amp-mynewsdesk-com.cdn.ampproject.org/c/s/amp.mynewsdesk.com/ipsoft/pressreleases/ipsofts-amelias-now-available-in-the-microsoft-azure-marketplace-3022596"
-    type: article
-    provider:
-      name: mynewsdesk.com
-      domain: mynewsdesk.com
-    quality: 37
   - title: "Greater Than Make Enerfy Loyalty Now Available in the Microsoft Azure Marketplace"
     excerpt: "Greater Than, today announced the availability of the cloud-based loyalty program Enerfy Loyalty in the Microsoft Azure Marketplace,"
     publishedDateTime: 2020-06-11T10:01:00Z
@@ -160,6 +144,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "GAVS Technologies: Zero Incident Framework (ZIF) Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to ZIF to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies PRINCET"
+    publishedDateTime: 2020-06-23T04:20:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-06/49985840-gavs-technologies-zero-incident-framework-zif-now-available-in-the-microsoft-azure-marketplace-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 24
+    images:
+      - url: "https://www.accesswire.com/users/newswire/images/594875/image-20200623114459-1.jpeg"
+        width: 1223
+        height: 476
+        isCached: true
   - title: "Parabole.ai announces the launch of TRAIN™ 3.0, the Automated Machine Teaching Platform on the Microsoft Azure Marketplace"
     excerpt: "Parabole.ai today announced that TRAIN™ 3.0, its MACHINE TEACHING PLATFORM is now available on the Azure Marketplace. Parabole's unique"
     publishedDateTime: 2020-06-03T13:12:00Z
@@ -193,6 +191,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "Mw4ap3Mn30iI7z7xtiISYC0NLdkZzZ0UiCUm89u9xf3xzc96t/ESH8AFYMoynhZTETbhAtR66Gg1WTDvG4pFmlSMOtsdtb9Uruk0I4mFmvV4TuKmUVBvCDRh9GiklkQkPTbzHJoOCb5v6HD8cs9UE5vBGIUUYgloqNHLoK1plbnodE3q/+jEjkzCdVvJakz+3vXRaDsfGEshTL5bnsqDmc78wm7Nw9LjWmVGtXf7GepdyChdh2JfNzut164GqCUNndXiZVTu/G9+g1qPZr7p7H8KtbxSg4ORgb2TOrGp2fX4U25wUykNwkC2ZY9Ep3+hi8HPTgDTTRLVr2FGRFWy/6DnuKclELzFbgEIN6HqP3rKp9d8lZ2TA42xd3cBsT/+wxlwlb5XOte02H3zMJxHSdkx9CfVmK0l+UujMav97m7umd0O/2ZO4mkz+muazaYIdoBL69+n1l3g89rMPOKCV/uPcR7VreTu7wELlOHmwjxLffqqO+SyLDKvp4FhFSvdzfTyUlhu4ZxaqpU68c2m1A==;sn2wH+y+MtQDZ2Np2IcwIw=="
+secured: "6ts26TFLGELiwmtdKa8po6E4iPL5aXS1oGZgXaGAQG9ENb6PATfDXqpY5akF5POpGoQq/n3yJFdwoFtTm3Fn0u+mCpxDDUBbGkxkSPEuvozBSFcH2v0N1HuwFx5B7JazvFE+XLmbhY+mDCFsUnQTjn0whHM3Ox6BKj0wM34bJ6gyA4ytLFw2FmqrfjBaqE76cSGKHYHG4QwuQXTV+Cq1YRReqvS7rbH0bPGXLYC+R1foRHTdZLdG5sunkafPcFRcW3lEn6GDIow/vT9n/TnZTrtO+PE/TR9elLozMZz46Z9tgeloZ4QTBE2/8lqNwflgi7/QHXAkkztbFN0LVzMa6LRw0CAtnFfHIKB3bHuwpqIOZMSgkmDMmnAldNclY72po2uU3ob+onHwfwGYxM2Gv1LWRm9neBAdyi9WrAcnSmUcRipuufgMm6yzZMgYsiI/5DFwGJLxwzo/VL7wNfA0zEl8YyDN41OUma81ELanqsXe/QsHEA/ml/tU3b1czjKAjiraldKukzuwGAwyDPm1TA==;Nwm9hONChgdEUc5jBluVaw=="
 ---
 

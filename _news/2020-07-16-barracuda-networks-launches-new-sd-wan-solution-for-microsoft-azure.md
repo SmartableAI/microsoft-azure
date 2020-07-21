@@ -34,6 +34,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 73
+  - title: "Apptio Launches Rightsizing Recommendations for Microsoft Azure"
+    excerpt: "today announced rightsizing recommendations for Microsoft Azure SQL Database and Managed Disks in its Cloudability offering. By analyzing cost and utilization data, Apptio Cloudability users can adjust resources to the correct size while maintaining ..."
+    publishedDateTime: 2020-07-21T13:12:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/apptio-launches-rightsizing-recommendations-for-microsoft-azure-876098754.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/82080/apptio_logo.jpg?p=facebook"
+        width: 2421
+        height: 1270
+        isCached: true
   - title: "Alithya Launches AI-FI(TM) Trade Surveillance Solution Powered by Microsoft Azure"
     excerpt: "PRNewswire/ - Alithya Group inc. (TSX: ALYA) (NASDAQ: ALYA) (« Alithya »), a leader in digital strategy and technologies employing more than 2,000 highly qualified professionals"
     publishedDateTime: 2020-07-15T11:39:00Z

@@ -107,6 +107,17 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "IPsoft’s Amelia’s Now Available in the Microsoft Azure Marketplace"
+    excerpt: "As a Microsoft Partner, IPsoft supports Microsoft Azure customers, sellers and other partners worldwide in using the conversational AI platform to solve real business issues and drive efficiencies through automation. \"We are delighted to become a Microsoft ..."
+    publishedDateTime: 2020-07-21T12:01:00Z
+    webUrl: "https://www.mynewsdesk.com/ipsoft/pressreleases/ipsofts-amelias-now-available-in-the-microsoft-azure-marketplace-3022596"
+    ampWebUrl: "https://amp.mynewsdesk.com/ipsoft/pressreleases/ipsofts-amelias-now-available-in-the-microsoft-azure-marketplace-3022596"
+    cdnAmpWebUrl: "https://amp-mynewsdesk-com.cdn.ampproject.org/c/s/amp.mynewsdesk.com/ipsoft/pressreleases/ipsofts-amelias-now-available-in-the-microsoft-azure-marketplace-3022596"
+    type: article
+    provider:
+      name: mynewsdesk.com
+      domain: mynewsdesk.com
+    quality: 37
   - title: "Nuventive COVID-19 Response Hub Now Available in the Microsoft Azure Marketplace"
     excerpt: "Nuventive today announced the availability of the Nuventive COVID-19 Response Hub in the Microsoft Azure Marketplace, an online store"
     publishedDateTime: 2020-07-07T12:00:00Z

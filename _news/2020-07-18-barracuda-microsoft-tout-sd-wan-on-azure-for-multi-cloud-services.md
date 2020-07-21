@@ -33,6 +33,20 @@ related:
         width: 1018
         height: 763
         isCached: true
+  - title: "Learn AWS, Microsoft Azure, Google Cloud With This $50 Online Bundle"
+    excerpt: "Get Cloud IT-certified on multiple platforms with this class, which contains 160 lessons and has resources that will come in handy for landing the job and succeeding once you're there."
+    publishedDateTime: 2020-07-21T12:21:00Z
+    webUrl: "https://www.pcmag.com/deals/learn-aws-microsoft-azure-google-cloud-with-this-50-online-bundle"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 77
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/04SMpjyONF9bbgB7e55Fws6-1.fit_lim.size_1200x630.v_1595319685.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Microsoft to launch Cloud PC service powered by Azure, according to report"
     excerpt: "Microsoft will reportedly launch a Cloud PC service. The service would allow people to use PCs as thin clients for Windows, Office, and potentially other Microsoft software. It was recently revealed that Windows 10X will stream Win32 apps through the cloud."
     publishedDateTime: 2020-07-20T14:45:00Z
@@ -58,19 +72,30 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 51
-  - title: "Microsoft to shift Minecraft workloads from AWS Cloud to Azure"
-    excerpt: "Popular video game Minecraft which has over 126 million monthly users globally will stop using Amazon Web Services (AWS) Cloud and will shift its workloads to Azure Cloud from its parent company Microsoft."
-    publishedDateTime: 2020-07-21T07:46:00Z
-    webUrl: "https://www.sify.com/news/microsoft-to-shift-minecraft-workloads-from-aws-cloud-to-azure-news-education-uhvh5Jgjhgdbf.html"
+  - title: "Microsoft to launch new Azure Cloud PC service in 2021 – Report"
+    excerpt: "Microsoft could launch a new Azure-powered virtualisation service called Cloud PC in 2021, according to a report from ZDNet. The publication discovered a job posting on the company’s website for ..."
+    publishedDateTime: 2020-07-21T11:37:00Z
+    webUrl: "https://mybroadband.co.za/news/cloud-hosting/360757-microsoft-to-launch-new-azure-cloud-pc-service-in-2021-report.html"
+    ampWebUrl: "https://mybroadband.co.za/news/cloud-hosting/360757-microsoft-to-launch-new-azure-cloud-pc-service-in-2021-report.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/cloud-hosting/360757-microsoft-to-launch-new-azure-cloud-pc-service-in-2021-report.html/amp"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
+      name: MyBroadband
+      domain: mybroadband.co.za
     quality: 37
+  - title: "Microsoft Cloud PC is Coming in Spring 2021"
+    excerpt: "Microsoft is working on a virtualized Windows desktop experience for thin clients called Microsoft Cloud PC. It’s expected in Spring 2021."
+    publishedDateTime: 2020-07-20T15:25:00Z
+    webUrl: "https://www.thurrott.com/cloud/238023/microsoft-cloud-pc-is-coming-in-spring-2021"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 22
     images:
-      - url: "https://www.sify.com/uploads/microsoft_azure_wiki_uhvi4Iggddceb.jpg"
-        width: 900
-        height: 400
+      - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/07/cloud-pc.jpg"
+        width: 1066
+        height: 599
         isCached: true
   - title: "Get Certified In AWS, Google and Microsoft Cloud Services — and Get Paid."
     excerpt: "digs into the specific features available on Microsoft’s cloud platform. The course also gets you ready for the second jewel in this cloud services triple crown, certification in the Microsoft Azure Fundamentals exam. Finally, Google Cloud Platform ..."
@@ -86,6 +111,24 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Microsoft may launch Azure-powered 'Cloud PC' next year"
+    excerpt: "Microsoft is working on a Azure-powered Cloud PC that will be built on top of Windows Virtual Desktop and can arrive as early as 2021. The true virtualized Windows PC experience will help ..."
+    publishedDateTime: 2020-07-21T10:01:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20200721/3595989.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 17
+  - title: "Microsoft to shift Minecraft workloads from AWS Cloud to Azure"
+    excerpt: "Azure is growing faster than many other Microsoft offerings. Most of its consumer and commercial properties, including the video conferencing app Teams, now run on Azure Cloud. Microsoft would ..."
+    publishedDateTime: 2020-07-21T13:26:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20200721/3596115.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 17
 
 secured: "bXCe3lo4nYjgLYWIAnRCpP9sPhZTNlMHSymIXqOXkQVYAliWqGel45KbL46YPDL2x5u6vr+B+p1ofPDSr0Fg3TvCQD7EZNzusxa6GFafYK+nQN3nmFUZ6kw+aeinONsQ6GlduDFZqnKH1j919oNBX0XQPsgjhj78YBJ9vOF1K54LCCjhLWnoOtXvNlEXVgGzigAe+moFAyaJb7vusXxz5vkDu/QJuLpBA1hOsvau4CRG7ula0YhHfwXTLjqnjvkEWHMu22GbcNcCylULyLEYYQk95ADCGRYol7w6TcJXxSSxs4eaeyi6J4f6DnDS+G2XD5lDHWaswPWTcCFY1G8xU+2T7tMcG5feV+y+OcN/05w6xg4V1QijxGgqzTJlIViLrCavHHvNavESzpp5YeLQ9iSif49k8Uvj5/tvd9MVvgJSKu8pcDBCueXZqrxCB9FHsNiNccO07hPSnAoT0Bk8rtrCd3jGr/5WzjIa9feyXzpLnhwdIt5COY5ekvsepXWJ;Zt3W+0mWZn3p+wMDf72XYw=="
 ---
