@@ -2,6 +2,158 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-02-18-azure-firewall-manager-now-supports-virtual-networks.md",
+      "title": "Azure Firewall Manager now supports virtual networks",
+      "excerpt": "This post was co-authored by Yair Tor, Principal Program Manager, Azure Networking.\r\n\r\nLast November we introduced Microsoft Azure Firewall Manager preview for Azure Firewall policy and route management in secured virtual hubs. This also included integration with key Security as a Service partners, Zscaler,",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/azure-firewall-manager-now-supports-virtual-networks/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/35eac5bb-b137-49ca-b783-a4321ac7ffbf.jpg",
+          "width": 1024,
+          "height": 471,
+          "title": "Azure Firewall Manager now supports virtual networks",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-18T02:05:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-azure-offline-backup-with-azure-data-box-now-in-preview.md",
+      "title": "Azure Offline Backup with Azure Data Box now in preview",
+      "excerpt": "An ever-increasing number of enterprises, even as they adopt a hybrid IT strategy, continue to retain mission-critical data on-premises and look towards the public cloud as an effective offsite for their backups. Azure Backup—Azure’s built-in data-protection solution, provides a simple, secure, and cost-effective",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/azure-offline-backup-with-azure-data-box-now-in-preview/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/3480941d-7a91-4521-b196-d0bbab7c616b.png",
+          "width": 1054,
+          "height": 581,
+          "title": "Azure Offline Backup with Azure Data Box now in preview",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-18T01:00:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Storage",
+        "Management tools"
+      ]
+    },
+    {
+      "path": "_news/2020-02-13-sql-server-runs-best-on-azure-heres-why.md",
+      "title": "SQL Server runs best on Azure. Here’s why.",
+      "excerpt": "SQL Server customers migrating their databases to the cloud have multiple choices for their cloud destination. To thoroughly assess which cloud is best for SQL Server workloads, two key factors to consider are:\r\n\r\n\r\n\t\r\n\tInnovations that the cloud provider can uniquely provide.\r\n\t\r\n\t\r\n\tIndependent benchmark",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/sql-server-runs-best-on-azure-heres-why/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7ceff60b-0bd4-4867-85cd-61883c401c2f.png",
+          "width": 1287,
+          "height": 482,
+          "title": "SQL Server runs best on Azure. Here’s why.",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-13T04:00:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Databases",
+        "Developer tools"
+      ]
+    },
+    {
       "path": "_news/2020-02-13-announcing-the-preview-of-azure-shared-disks-for-clustered-applications.md",
       "title": "Announcing the preview of Azure Shared Disks for clustered applications",
       "excerpt": "Today, we are announcing the limited preview of Azure Shared Disks, the industry’s first shared cloud block storage. Azure Shared Disks enables the next wave of block storage workloads migrating to the cloud including the most demanding enterprise applications, currently running on-premises on Storage",
@@ -1263,156 +1415,6 @@
       "topics": [
         "Azure",
         "Databases"
-      ]
-    },
-    {
-      "path": "_news/2019-11-07-accelerating-customer-success-with-azure-migration.md",
-      "title": "Accelerating customer success with Azure migration",
-      "excerpt": "This blog post was co-authored by Jeremy Winter, Partner Director and Tanuj Bansal, Senior Director for Microsoft Azure.\r\n\r\nAt last year's Microsoft Ignite 2018, we shared best practices on how to move to the cloud and why Azure is the best destination for all your apps, data, and infrastructure. Since",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/accelerating-customer-success-with-azure-migration/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c07dd130-775c-4091-a648-dd290c678f17.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Accelerating customer success with Azure migration",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-06T23:00:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Migration"
-      ]
-    },
-    {
-      "path": "_news/2019-11-06-serverless-for-the-enterprise-with-microsoft-azure.md",
-      "title": "Serverless for the enterprise with Microsoft Azure",
-      "excerpt": "Cloud computing has opened new paradigms for enterprises to reach higher levels of productivity and scale. At the tip of that spear is serverless computing, enabling developers, teams, and organizations to focus on business logic and leave hosting and scaling of resources to the cloud platform.\r\n\r\nAt",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/serverless-for-the-enterprise-with-microsoft-azure/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/77b8d4b9-ee3e-47f1-aed3-55a42d4385af.jpg",
-          "width": 1430,
-          "height": 557,
-          "title": "Serverless for the enterprise with Microsoft Azure",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-05T22:30:18-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Serverless"
-      ]
-    },
-    {
-      "path": "_news/2019-11-05-enabling-and-securing-ubiquitous-compute-from-intelligent-cloud-to-intelligent-edge.md",
-      "title": "Enabling and securing ubiquitous compute from intelligent cloud to intelligent edge",
-      "excerpt": "Enterprises are embracing the cloud to run their mission-critical workloads. The number of connected devices on and off-premises, and the data they generate continue to increase requiring new enterprise network edge architectures. We call this the intelligent edge – compute closer to the data sources",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/enabling-and-securing-ubiquitous-compute-from-intelligent-cloud-to-intelligent-edge/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e1b20a6e-6ee7-49ad-a51b-4052efa37e38.png",
-          "width": 1000,
-          "height": 613,
-          "title": "Enabling and securing ubiquitous compute from intelligent cloud to intelligent edge",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-05T06:00:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Networking"
       ]
     }
   ],

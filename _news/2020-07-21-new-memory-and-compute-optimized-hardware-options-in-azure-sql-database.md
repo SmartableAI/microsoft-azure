@@ -1,11 +1,11 @@
 ---
 category: news
-title: "New general purpose and memory-optimized Azure Virtual Machines with Intel now available"
-excerpt: "Today we're announcing the availability of new general purpose and memory-optimized Azure Virtual Machines based on the 2nd generation Intel Xeon Platinum 8272CL (Cascade Lake). This custom processor runs at a base speed of 2.5GHz and can achieve all-core turbo frequency of 3.4GHz. It features Intel®"
-publishedDateTime: 2020-06-15T09:00:47Z
-webUrl: "https://azure.microsoft.com/blog/new-general-purpose-and-memoryoptimized-azure-virtual-machines-with-intel-now-available/"
+title: "New memory- and compute-optimized hardware options in Azure SQL Database"
+excerpt: "M-series, a new memory-optimized hardware option, and Fsv2-series, a new compute-optimized hardware option, are now generally available in Azure SQL Database. "
+publishedDateTime: 2020-07-21T21:22:34Z
+webUrl: "https://azure.microsoft.com/en-us/updates/new-memory-and-computeoptimized-hardware-options-in-azure-sql-database/"
 type: article
-quality: 68
+quality: 76
 heat: -1
 published: false
 
@@ -71,16 +71,16 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "New memory- and compute-optimized hardware options in Azure SQL Database"
-    excerpt: "M-series, a new memory-optimized hardware option, and Fsv2-series, a new compute-optimized hardware option, are now generally available in Azure SQL Database. "
-    publishedDateTime: 2020-07-21T21:22:34Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-memory-and-computeoptimized-hardware-options-in-azure-sql-database/"
+  - title: "New general purpose and memory-optimized Azure Virtual Machines with Intel now available"
+    excerpt: "Today we're announcing the availability of new general purpose and memory-optimized Azure Virtual Machines based on the 2nd generation Intel Xeon Platinum 8272CL (Cascade Lake). This custom processor runs at a base speed of 2.5GHz and can achieve all-core turbo frequency of 3.4GHz. It features Intel®"
+    publishedDateTime: 2020-06-15T09:00:47Z
+    webUrl: "https://azure.microsoft.com/blog/new-general-purpose-and-memoryoptimized-azure-virtual-machines-with-intel-now-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 76
+    quality: 68
 
-secured: "OYDttrBIJRHMtL5ERsSOTD8IS96Uk6zW6T/8SV2E/CNJI8jpY1AI2F3mzveijn12RVQEtsKq3Vm+IrWx4x9SmXqVfDCX4YZHKpY9bSVNitvHKf85K52KtDLWqgKRfCKPhkTiFXsiv/u6/eg0rYqH4E9v2lIpjmDrwCWi3NLA7oJZasAODff9kj61dJVa/cjiL1oxzJgXFAHTvyfmndx3IueDrEdrMcfo0b0i1qQGVOqAADe7LGNoUvIDSys99SJjiolwLKSCclbleaiOohaNqa28+7gsnFJrIvmWmm3wBEIpAKXkuaCl2OEo0fwHiuwJ4Vc3n+nRHDMZ3KFWqaiJKw==;GtOWaKaQ4hmNncBoQTPYPQ=="
+secured: "sK5wpAbtZ9NoWR6Am8Kgd6wkU4k+9A73IaEYZ5h2uL4bYkEBFCgB8yvQ09Jnz0Exl+YRJ46qOHyRQpLz9/AHwp2LRHA04JnvRcSvhRK1AEiptrc5O8AW7cLXmNne9LKnJ8oVYpaPRrkQfQcQ0wsw2NCTiik7GYvRjDnUItsUrwXf+8/n4I8ybM2AdT1dGIprS2/HdNzToWTi5zOYMpOKvU2pV577kcNeyjYMJfzVCp7wN06BtGlT+2HBSj6lqObrY29BWtdTS3ZTTAw3Ku13dH5hvPzMKM5+APFYEaQNTQJToGRFi1EJzkOJqwxRUmi9I0Bj8ul1yTB3WbU5ZcMQhA==;1jtua94vWBtgVM+0oSWayQ=="
 ---
 
