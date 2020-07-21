@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-21T08:00:33Z
 webUrl: "https://azure.microsoft.com/blog/deliver-hybrid-cloud-capabilities-with-the-next-generation-of-azure-stack-hci/"
 type: article
 quality: 94
-heat: 94
+heat: 114
 published: true
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 640
     height: 303
     isCached: true
+
+related:
+  - title: "New Azure Stack HCI Preview "
+    excerpt: "Integrate hyperconverged infrastructure with Azure and hybrid services to run virtual workloads on-premises. "
+    publishedDateTime: 2020-07-21T17:35:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-stack-hci-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
 
 secured: "Sg0hN6xBmgfKnhrFTLboDaRL1ifxnmA7fqaC4CmbiTISw+zQVCe9OjyNX+QVbW2bfWq89CqLvL7xgqVhgAkIFMBFBGtkRBXyQi/t9zR23aboAadf7ZurQ+6Mst9OycWwfIVysIgPuHftJDy6jjhih7D4x4nFaTUVkszWtq3nb7XkTYm3t3Va4NhR+XvU8mvEZGpYpAmkIxGj+/cDhNAe4h/LFvUcNUjarB+hhxxXWJLzn/clmIITKOv4xIbQFlRIcEAl9rQeZJSM9Ceb3hav3CvKFnOE2Vi9LU+WQQCO1leEZUdk4huTz0yYhe5vTQjBHIneY1+QKuqkXuNNcK4lXg==;/8YB8GJTHvlpdoruu01Rhg=="
 ---

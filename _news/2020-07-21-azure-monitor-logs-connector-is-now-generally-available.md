@@ -1,13 +1,13 @@
 ---
 category: news
-title: "Microsoft Azure IoT Connector for FHIR now in preview"
-excerpt: "The preview of Azure IoT Connector for FHIR—a fully managed and compliant feature of the Azure API for FHIR—is now available. The connector empowers health teams with the technology for a scalable end-to-end pipeline to ingest, transform, and manage Protected Health Information (PHI) data from devices"
-publishedDateTime: 2020-07-16T11:00:40Z
-webUrl: "https://azure.microsoft.com/blog/microsoft-azure-iot-connector-for-fhir-now-in-preview/"
+title: "Azure Monitor Logs connector is now generally available"
+excerpt: "Use Azure Logic Apps and Power Automate to create automated workflows using hundreds of actions for a variety of services. The Azure Monitor logs connector is now generally available—use it to build workflows that retrieve data from the Azure Monitor Logs workspace or Application Insights component."
+publishedDateTime: 2020-07-21T17:31:27Z
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-logs-connector-is-now-generally-available/"
 type: article
-quality: 114
-heat: 294
-published: true
+quality: 77
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -19,15 +19,22 @@ provider:
 
 topics:
   - Azure
-  - IoT
-
-images:
-  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e5a083c8-5be0-4b4a-8878-bf65fbf877f9.png"
-    width: 735
-    height: 411
-    isCached: true
 
 related:
+  - title: "Microsoft Azure IoT Connector for FHIR now in preview"
+    excerpt: "The preview of Azure IoT Connector for FHIR—a fully managed and compliant feature of the Azure API for FHIR—is now available. The connector empowers health teams with the technology for a scalable end-to-end pipeline to ingest, transform, and manage Protected Health Information (PHI) data from devices"
+    publishedDateTime: 2020-07-16T11:00:40Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-azure-iot-connector-for-fhir-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 114
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e5a083c8-5be0-4b4a-8878-bf65fbf877f9.png"
+        width: 735
+        height: 411
+        isCached: true
   - title: "Azure Maps Power BI visual now in preview"
     excerpt: "The Azure Maps visual for Power BI will be releasing as a preview this week. Power BI is a powerful analysis and visualization tool. Azure Maps is an important tool for gaining geospatial context and insights that can be used in decision making."
     publishedDateTime: 2020-07-13T09:00:01Z
@@ -55,15 +62,6 @@ related:
     excerpt: "Azure Monitor for SAP Solutions is a new Azure-native monitoring product for customers running SAP landscapes on Azure. It’s now available in public preview in US East, US East 2, US West 2, and West Eu regions."
     publishedDateTime: 2020-07-21T16:01:22Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-for-sap-solutions-is-now-available-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure Monitor Logs connector is now generally available"
-    excerpt: "Use Azure Logic Apps and Power Automate to create automated workflows using hundreds of actions for a variety of services. The Azure Monitor logs connector is now generally available—use it to build workflows that retrieve data from the Azure Monitor Logs workspace or Application Insights component."
-    publishedDateTime: 2020-07-21T17:31:27Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-logs-connector-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
@@ -115,6 +113,6 @@ related:
       domain: microsoft.com
     quality: 74
 
-secured: "3p3hR8WlyDqwIotJmF81JjwWHDrH2QZDyUGGkN0CNovXH1DQRMP3yM53SOYKurgxABOk65kbQc+u349TLcaoeMDX5XesZQgj5/o5tjbLILoVYsBpfu5Gmnp6PSrgcglAdXepqc0OoeQOCd/YBG6BID4m7NteD8wiXUBxcamEqzPcqi+kKwgYjYaZzZwRm4CvXC05b//8yGJ3kpJo5f3dh8Rzatz42lptApYhSvOilyFgpcFCQmF0688/z2nWNNHJBwonnfgf4vseHxhfw6xRpuxNVOJ8tY1jXG3ggPrMli80DVKIugPGzusLf2ilihRqo+e7EdtKUFDRLvm+0qatGA==;l/269Z9CwGNRrsscgiPd8g=="
+secured: "aqAFfDjMYyGUv4pdrJNV7MSUcnARUE5XPeLyO8VhT9EQgaayX0Ez6hFvTiqjH05g/uIEOnDN5UcfdCDZsJM/Y+YjQMHN9wTedQ/XhTg4WnbFZLvNga0m9oSQoTe0VQDq5eE+NSyC9TvDYgd45Dq/K2ftqG0h93RAomF5Lul9WpnIZ7tvCxKQqhV5l/0CHmZCJaboKVGTQI67Xu4B8uaEn7erfStmKPjuAeZk3yU+1P61Qj3XIFqmb/nibGRSEP3Ptal0ObTJlZ4Q3kJqip99mQ286dRw4QUrd0pEh4sWC+dVApBqgJPUe3bm+UJlO9/ST0l0FGLzKSKx2LGcsWssYQ==;HhDGA12sZcPk+NonNWRtyw=="
 ---
 
