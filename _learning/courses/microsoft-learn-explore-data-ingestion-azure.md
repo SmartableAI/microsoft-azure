@@ -8,7 +8,7 @@ length: PT20M
 ratings:
   count: 37
   average: 4.675676
-heat: 53
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Explore data ingestion in Azure"
 
-secured: "erADElPfPupALOrLGL0OBPuhQGz2nuPIKw5YhSswI+UGhMbsOliNMM1UynvGIGFWhfMD+CrCRaIOGc2tRftJCcVUXMmjz5w3CVRImPXbebS36bQO8tbo/bsmATooxq3fflo9iQdxZc35D4U/I5y/SYXamlM0iPH11EI9z7lh87DuLHv0IhzqeX7dpPwLfuBpTVvPmEEsBKgccSxZA7Qa+QUbkH0iJcFjEDGxFxNbSdT2wsn16K70fhdm47MOP0Y9iyQraehRlQ9K7MOSWsWhpp8KSTIGpnd6ubkbz/VaoVOrrAJcbVk8Tm4KMLHUJmVcAusMxEYMu0fyjC1mLqARFKmORViKlUsYWOR/lIfx+swN3MgKAANO/Flg5F5tvPdzWN51GxegmLQdWZfgH32GXA==;ePXbdNE4bbsYsAfEzw6F6w=="
+secured: "OlRm4cbM6mPkmXNTYA4mMcAAgTy9XumV9ZLO0/YqgKIvzbcWfk7Ty7TbDDjcDEI2FzboSSoZ1X88M6revaUVSPwFGDt5+BX7tGTTELFpgzRfvV0dFFRY7WA1Q6RK2qCLQa5OQF3KBU3SbFCq1hAP6RLTZGeU96eSNh5e5UpmYhSpwqmFj61OrxJ+UJzEd+JG9HE3Gdz6m5HKDvKQsE+xt1MXPdiLlpZN8qsXRmbZT3Oytms+B6bXxrrXMIcKKOjRlK9NlglyG92q7MJ3TEYygUDi8UGHbeAel2O0KXGTZ3dplXtoGtRiOvAf0mwxvi7TESerzRsPgTHaRFY1KCNlmN7JEWZSMmEWM0LYy4OZLggLbjasQaGnbTnj9ysVV0HfJhY6X0CWNuAKYkps/mk7PA==;zb8ycULumo9Q+4DjnC5Eqw=="
 ---
 
