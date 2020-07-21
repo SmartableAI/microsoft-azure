@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Apptio Launches Rightsizing Recommendations for Microsoft Azure"
-excerpt: "today announced rightsizing recommendations for Microsoft Azure SQL Database and Managed Disks in its Cloudability offering. By analyzing cost and utilization data, Apptio Cloudability users can adjust resources to the correct size while maintaining ..."
-publishedDateTime: 2020-07-21T13:12:00Z
-webUrl: "https://www.prnewswire.co.uk/news-releases/apptio-launches-rightsizing-recommendations-for-microsoft-azure-876098754.html"
+excerpt: "July 21, 2020 /PRNewswire/ -- Apptio, Inc., a leading provider of technology business management (TBM) solutions that help organizations analyze, plan, and optimize technology spend, today announced rightsizing recommendations for Microsoft Azure SQL ..."
+publishedDateTime: 2020-07-21T13:04:00Z
+webUrl: "https://www.prnewswire.com/news-releases/apptio-launches-rightsizing-recommendations-for-microsoft-azure-301096563.html"
 type: article
 quality: 37
 heat: -1
@@ -11,7 +11,7 @@ published: false
 
 provider:
   name: PR Newswire
-  domain: prnewswire.co.uk
+  domain: prnewswire.com
 
 topics:
   - Azure
@@ -91,6 +91,6 @@ related:
         height: 800
         isCached: true
 
-secured: "ocwDorIprcLIXxTrR8+v2NbnJowmWJ4xzRELda5f3zY3nB87C9j2CGeC9LPqRZxNdM6kr0AIVoZPuQJC5CfIfV9/28dYTdhJIl4e83soXZdVCkzCMZJSS48yaSeQ9LyEqU9cuemAKaS3seTximgRUYhSPvDJMAD6f+e77cfdNHfC/5If1CIc4pe1sb3H/JSvAJo2TnCi5epBUUW5TY5IcD56Fxqp8RGy4n4WlBYyAqNc1PmY/FSeEogJf5dPrkKP/Rgp/Sli2fSK+w4hnaFyp8Nm90hV4UUb0ZFSWH37UAD15S3r4zAatbvb5qY63PSA/ZTOYCBvPmqVNpj6EivvLw==;ZsAUCI141GzK6dMxhoBplA=="
+secured: "dCajNXW5ev38aVVXn3oWtmhQtpg+aEb4mGXk9TUKr0g76XpiS1jIrtRJq2YoGsz6iipqEJhXbife5BDPK28DDMor5xJocxM1ubhiI2FFgJgwycQ7AIc2q4gVlAOW5CH7PxOetRTry0fJnVd4s6oiJ48c+F78vSbVXDUJr4e6UeTu1Gyv+eb6bEVOuD88fun59wxjPN42/5aywtuaoLOO+3o2TUqVTofdzwOj+dy88ALodaKckx9LAiN6fX9SVXl+Ecw2wNlROvJxb9phTsaH+JUmNlvWoTYcxY+H8I7YgOqbRPRmefG4npU/lWBcZakc+FwTFeP/myBEOkvBZVrusA==;lf8t68TKHTW15hN6vc48ZA=="
 ---
 

@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Barracuda introduces first global secure SD-WAN service built natively on Microsoft Azure"
-excerpt: "New Barracuda CloudGen WAN is the first secure global SD-WAN service built natively on Microsoft Azure. The new service is deployed directly from Azure, works out of the box with smart default ..."
-publishedDateTime: 2020-07-16T17:08:00Z
-webUrl: "https://www.prnewswire.com/news-releases/barracuda-introduces-first-global-secure-sd-wan-service-built-natively-on-microsoft-azure-301094835.html"
+excerpt: "With the new Barracuda CloudGen WAN, customers can deploy the Microsoft Global Network as their secure enterprise WAN backbone."
+publishedDateTime: 2020-07-16T17:13:00Z
+webUrl: "https://www.lightreading.com/sd-wan/barracuda-introduces-first-global-secure-sd-wan-service-built-natively-on-microsoft-azure-/d/d-id/762437"
 type: article
-quality: 28
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Light Reading
+  domain: lightreading.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/324434/barracuda_networks__inc__logo.jpg?p=facebook"
-    width: 2696
-    height: 1414
-    isCached: true
 
 related:
   - title: "Running SD-WAN virtual appliances natively in Azure Virtual WAN"
@@ -75,6 +69,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "CdPPFx6WBlaGImA0PgmJh1E/Fr2S8Zz3pWnhFlAgwdOAnkXxVs+f8L6nW03XCY7ktJ5J+0f3Lq6OsSYfg1lOKmrgchIkJJvx/IBrJnrj/CzA/csmypKM8woR/a1snCe5dVRycXRaNM4mbU5fvFiu/Y4F2i1hXILdnK/1beMJ5GHV9o2s1P48xSlV27/4bWN1jEhh0SLtc4wRTJk3NJP7DJLloBk9dsqh2IglXl2p7oMgUAMIkGp6U3wRrTExvFjB8vDz6SGxqvgKwSKwXBndH3wecpxba5BNcz2RS3k0QN0U+S5nINCkoevO0H02q4D5y6cpt3f5oBR4JPmmGDBUGA==;emO7RSNxk4E9+2CRkb5o6Q=="
+secured: "+halgmHoED7/LOhp7ycs4JTelRcjf4W04UXGTVNILpnelXsd8VW8jHYN9p2KT2w2jI+UJ/Ih/hOructAMWnulFA9V9/PamiS9qDSl33jF5f+Mup/BC7ckkFa+hT1dLGy2FEeLRCCd6McFfZbsOpIw1fZFgr4jMyjB0ewryhKWZKfMG2D8hizgBTAT5+DdPb7gTpK7X06aW0x+TKPM4ForcJAPan9xE+3M6M4QNZuB17dq+v2t+AZBe6msUegPpRVaNjF+b6IWAX4uKmtPNCcLv9zmkvDPjkCsOA5FjHHGxe41Jtl8AFLXJTBp3cV7iHSsB++LLy7UPc13ISxNVeafg==;t3TOlH5acPifUFAg0Pb0+Q=="
 ---
 

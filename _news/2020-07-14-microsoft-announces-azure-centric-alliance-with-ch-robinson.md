@@ -8,7 +8,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-announces-azure-centric-allianc
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-azure-centric-alliance-with-ch-robinson/"
 type: article
 quality: 97
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://tr4.cbsistatic.com/hub/i/r/2020/06/10/27946bf8-707b-4774-8f90-fe1121ea78b4/resize/1200x/57eed99cd6ea6ce4842383677842ede0/artificial-intelligence-image.jpg"
         width: 1200
         height: 836
+        isCached: true
+  - title: "10 Top Azure Announcements From Microsoft Inspire 2020"
+    excerpt: "Microsoft Azure Tuesday released new hybrid migration, data, security and compliance, and developer offerings aimed at helping the No. 2 cloud provider’s customers on their journeys to the cloud. The products and services include the next generation of ..."
+    publishedDateTime: 2020-07-21T15:20:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/10-top-azure-announcements-from-microsoft-inspire-2020"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/025f-0ff0d7dce6e1-290de920b9a0-1000/microsoft-azure-sign.jpg"
+        width: 610
+        height: 457
         isCached: true
 
 secured: "iAIzpPR6hGXBdyWaoUAEe3/lVK9osVkEzixi+U661cYn0uGZRjy4hyCc2kYbC/O7Y9D6Z/IBPsUb1H5lPQiMWP4R7ILMsRwuGQLIOmMF0rDGRXHXMMvEuoqlWdR+s6BFFBYycJm0jbivZbagwDGm48A7daIJLPXb0crc2ZtOH8xZGdpcR0BjF4MuAljMeu7ulzxf1KPnkSj/AieXWusxXicP8If6foZgFY9w3HTfXTtq55fjpteSl55lqOqcJ1p6YsqO351f8eAVPYKIQF/YCFpRfpj2mwAL5QsffEby9gDjTmFmaPo4cFHQfIHYBurygvPP6Anx1zLJ+UBirYd4CA==;nIQpTnrTY4lLmdMLqxKVNA=="
