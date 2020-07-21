@@ -41,6 +41,22 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Microsoft finally moving Minecraft from Amazon Web Services to Azure"
+    excerpt: "Mojang and Microsoft are finally moving the Minecraft infrastructure from Amazon Web Services (AWS) to Microsoft Azure servers."
+    publishedDateTime: 2020-07-21T03:20:00Z
+    webUrl: "https://www.tweaktown.com/news/73908/microsoft-finally-moving-minecraft-from-amazon-web-services-to-azure/index.html"
+    ampWebUrl: "https://www.tweaktown.com/news/73908/microsoft-finally-moving-minecraft-from-amazon-web-services-to-azure/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/73908/microsoft-finally-moving-minecraft-from-amazon-web-services-to-azure/amp.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 57
+    images:
+      - url: "https://images.tweaktown.com/news/7/3/73908_111_microsoft-finally-moving-minecraft-from-amazon-web-services-to-azure.jpg"
+        width: 620
+        height: 348
+        isCached: true
 
 secured: "UX801j5HB1QUw+3PJYkGW/zLmRhVg/xEEnza+lXAJx2E/F+dtxJlZh21BfkBk9nyeuktDfnEIOYalRK9ZYMd2Wzuh4ndRLejuNVLY19qx2bpy7+fhSgEzDV4j5UlIlBMUH8Ht2DrniSr0cO0v0VWQeIAW7UqQyRtVIjrz6sJTZ/DnlXEr+q40fW8Ci+BMVc6vl766gIsGeLzbtG+I70dsGulB0fSdTgklT2m6fgqN0eL++qGnFJCK/xkb8XIa0ko/2euu5gpZuKP5df/RBaaNhTfuy4OAjz6rUh2FwMYiWZbHQIPEWHk3j7OXnYlETxr3vJ64MyBNW0TmAocTM5C8x5FE1iW9P5eOeZvoJwaNURaMQ5GiuxI21DPol+kaqG/hu2V9/Mjq1TmHqj/ctKNRnUK8kQUPYQ+1J2IBG5IqmtU2PyOfLDB0s/gbysobmmmLEzfdw3IbrGroLcoDmEp54PbksA5oueZyCmTmivI8RwHYxAPR+q3/yuxDOthMrnD8j5uwfRTzOJrvFnQsK5Ggw==;lm/UkwrmsZvCosgf9/shbQ=="
 ---
