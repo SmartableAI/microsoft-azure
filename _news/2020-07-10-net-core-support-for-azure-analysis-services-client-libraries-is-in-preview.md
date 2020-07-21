@@ -48,6 +48,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Azure Kubernetes Service (AKS) support for containerd runtime is in preview"
+    excerpt: "Azure Kubernetes Service (AKS) now supports creation of clusters and node pools with containerd, an industry-standard container runtime, in preview. Containerd enhances pod creation speed as well as stability. "
+    publishedDateTime: 2020-07-21T16:01:09Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-aks-support-for-containerd-runtime-is-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 75
   - title: "Azure Kubernetes Service (AKS) support for proximity placement groups is now available"
     excerpt: "Better support for latency-sensitive workloads in critical business scenarios."
     publishedDateTime: 2020-06-24T16:00:42Z

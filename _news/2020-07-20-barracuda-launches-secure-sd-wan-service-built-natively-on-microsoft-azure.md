@@ -37,6 +37,15 @@ related:
         width: 911
         height: 513
         isCached: true
+  - title: "Now install network virtual appliances directly into an Azure Virtual WAN hub"
+    excerpt: "Several new capabilities for Azure Virtual WAN are now in preview—including the option to install network virtual appliances directly into a virtual WAN hub as an option for SD-WAN connectivity. "
+    publishedDateTime: 2020-07-21T16:02:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/now-install-network-virtual-appliances-directly-into-an-azure-virtual-wan-hub/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 74
   - title: "New Barracuda SD-WAN Service Built Natively on Microsoft Azure"
     excerpt: "WAN offering that runs inside Microsoft Azure virtual WAN hubs. With Barracuda CloudGen WAN, companies and service providers can create a secure access service edge (SASE)  in public cloud. Hubs can interconnect through the Microsoft Global Network."
     publishedDateTime: 2020-07-16T19:33:00Z

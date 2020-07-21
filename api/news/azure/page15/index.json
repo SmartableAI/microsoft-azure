@@ -2,6 +2,248 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2019-11-04-simply-unmatched-truly-limitless-announcing-azure-synapse-analytics.md",
+      "title": "Simply unmatched, truly limitless: Announcing Azure Synapse Analytics",
+      "excerpt": "Today, businesses are forced to maintain two types of analytical systems, data warehouses and data lakes. Data warehouses provide critical insights on business health. Data lakes can uncover important signals on customers, products, employees, and processes. Both are critical, yet operate independently",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/simply-unmatched-truly-limitless-announcing-azure-synapse-analytics/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/ee753f4b-675a-405f-98b2-01d4a85034ca.png",
+          "width": 1024,
+          "height": 576,
+          "title": "Simply unmatched, truly limitless: Announcing Azure Synapse Analytics",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-03T22:00:41-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2019-10-29-new-in-stream-analytics-machine-learning-online-scaling-custom-code-and-more.md",
+      "title": "New in Stream Analytics: Machine Learning, online scaling, custom code, and more",
+      "excerpt": "Azure Stream Analytics is a fully managed Platform as a Service (PaaS) that supports thousands of mission-critical customer applications powered by real-time insights. Out-of-the-box integration with numerous other Azure services enables developers and data engineers to build high-performance, hot-path",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/new-in-stream-analytics-machine-learning-online-scaling-custom-code-and-more/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c9413dba-4493-451c-a062-aa6e7b82bbcd.png",
+          "width": 687,
+          "height": 566,
+          "title": "New in Stream Analytics: Machine Learning, online scaling, custom code, and more",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-10-29T04:00:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Databases",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2019-10-29-enabling-diagnostic-logging-in-azure-api-for-fhir.md",
+      "title": "Enabling Diagnostic Logging in Azure API for FHIR®",
+      "excerpt": "Access to Diagnostic Logs is essential for any healthcare service where being compliant with regulatory requirements (like HIPAA) is a must. The feature in Azure API for FHIR that makes this happen is Diagnostic settings in the Azure Portal UI. For details on how Azure Diagnostic Logs work, please refer",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/enabling-diagnostic-logging-in-azure-api-for-fhir/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/bf041372-c5c8-4b71-b2d6-52ed8fcf03d0.png",
+          "width": 1155,
+          "height": 681,
+          "title": "Enabling Diagnostic Logging in Azure API for FHIR®",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-10-29T03:00:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2019-10-28-customize-networking-for-dr-drills-azure-site-recovery.md",
+      "title": "Customize networking for DR drills: Azure Site Recovery",
+      "excerpt": "One of the most important features of a disaster recovery tool is failover readiness. Administrators ensure this by watching out for health signals from the product. Some also choose to set up their own monitoring solutions to track readiness. End to end testing is conducted using disaster recovery (DR)",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/customize-networking-for-dr-drills-azure-site-recovery/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8c343096-f652-47ef-a1a7-1451d4832dbd.png",
+          "width": 1423,
+          "height": 556,
+          "title": "Customize networking for DR drills: Azure Site Recovery",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-10-28T06:00:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_news/2019-10-24-leverage-azure-premium-file-shares-for-high-availability-of-data.md",
+      "title": "Leverage Azure premium file shares for high availability of data",
+      "excerpt": "This post was co-authored by Mike Emard Principal Program Manager, Azure Storage. \r\n\r\nSQL Server on Azure virtual machines brings cloud agility, elasticity, and scalability benefits to SQL Server workloads. SQL virtual machine offers full control on the operating system, virtual machine size, storage",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/leverage-azure-premium-file-shares-for-high-availability-of-data/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-10-24T05:00:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_news/2019-10-23-start-building-with-azure-cognitive-services-for-free.md",
       "title": "Start building with Azure Cognitive Services for free",
       "excerpt": "This post was co-authored by Tina Coll, Sr Product Marketing Manager, Azure Cognitive Services.\r\n\r\nInnovate at no cost to you, with out-of-the box AI services that are newly available for Azure free account users. Join the 1.3 million developers who have been using Cognitive Services to build AI powered",

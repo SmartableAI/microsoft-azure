@@ -144,6 +144,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "AKS-managed Azure Active Directory support is now generally available"
+    excerpt: "Azure Kubernetes Service (AKS)-managed Azure Active Directory (Azure AD) support is now generally available. "
+    publishedDateTime: 2020-07-21T16:00:56Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/aksmanaged-azure-active-directory-support-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Azure File shares snapshot management by Azure Backup is now generally available"
     excerpt: ""
     publishedDateTime: 2020-04-29T16:00:05Z

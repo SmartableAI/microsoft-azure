@@ -44,6 +44,33 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Azure Red Hat OpenShift on OpenShift 4.4 now available"
+    excerpt: "Red Hat OpenShift 4.4 is now available on Azure Red Hat OpenShift."
+    publishedDateTime: 2020-07-21T16:00:46Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-on-openshift-44-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure ultra disks are now available in the US Gov Arizona region"
+    excerpt: "Azure ultra disks are now available in the US Gov Arizona region."
+    publishedDateTime: 2020-07-21T16:01:51Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-ultra-disks-are-now-available-in-the-us-gov-arizona-region/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Shared disks in Azure Disk Storage are now available"
+    excerpt: "Shared disks are now available in Azure Disk Storage—the only shared block storage in the cloud that supports both Windows and Linux-based clustered or high-availability applications."
+    publishedDateTime: 2020-07-21T16:01:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/shared-disks-in-azure-disk-storage-are-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
 
 secured: "OYDttrBIJRHMtL5ERsSOTD8IS96Uk6zW6T/8SV2E/CNJI8jpY1AI2F3mzveijn12RVQEtsKq3Vm+IrWx4x9SmXqVfDCX4YZHKpY9bSVNitvHKf85K52KtDLWqgKRfCKPhkTiFXsiv/u6/eg0rYqH4E9v2lIpjmDrwCWi3NLA7oJZasAODff9kj61dJVa/cjiL1oxzJgXFAHTvyfmndx3IueDrEdrMcfo0b0i1qQGVOqAADe7LGNoUvIDSys99SJjiolwLKSCclbleaiOohaNqa28+7gsnFJrIvmWmm3wBEIpAKXkuaCl2OEo0fwHiuwJ4Vc3n+nRHDMZ3KFWqaiJKw==;GtOWaKaQ4hmNncBoQTPYPQ=="
 ---

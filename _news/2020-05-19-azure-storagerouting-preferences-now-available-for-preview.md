@@ -57,6 +57,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Azure Kubernetes Service (AKS) node image upgrade is now available "
+    excerpt: "The node image upgrade capability in Azure Kubernetes Service (AKS) is now generally available. It enables you to initiate an upgrade to agent nodes targeted for a specific node pool to pull the latest available node updates and patches without requiring a full cluster upgrade."
+    publishedDateTime: 2020-07-21T16:00:50Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-aks-node-image-upgrade-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Azure Kubernetes Service (AKS) resource provider on Azure Stack preview "
     excerpt: ""
     publishedDateTime: 2020-05-19T16:05:37Z

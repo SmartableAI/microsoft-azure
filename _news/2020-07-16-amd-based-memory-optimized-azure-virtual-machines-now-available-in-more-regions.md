@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-16T08:00:39Z
 webUrl: "https://azure.microsoft.com/blog/amd-based-memory-optimized-azure-virtual-machines-now-available-in-more-regions/"
 type: article
 quality: 93
-heat: 133
+heat: 193
 published: true
 
 provider:
@@ -31,6 +31,33 @@ related:
     excerpt: "Azure Data Box Disk is now available for preview in the China East, China East 2, China North, and China North 2 regions. "
     publishedDateTime: 2020-07-13T22:00:04Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-box-disk-is-now-available-in-china/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure Red Hat OpenShift on OpenShift 4.4 now available"
+    excerpt: "Red Hat OpenShift 4.4 is now available on Azure Red Hat OpenShift."
+    publishedDateTime: 2020-07-21T16:00:46Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-on-openshift-44-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure ultra disks are now available in the US Gov Arizona region"
+    excerpt: "Azure ultra disks are now available in the US Gov Arizona region."
+    publishedDateTime: 2020-07-21T16:01:51Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-ultra-disks-are-now-available-in-the-us-gov-arizona-region/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Shared disks in Azure Disk Storage are now available"
+    excerpt: "Shared disks are now available in Azure Disk Storage—the only shared block storage in the cloud that supports both Windows and Linux-based clustered or high-availability applications."
+    publishedDateTime: 2020-07-21T16:01:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/shared-disks-in-azure-disk-storage-are-now-available/"
     type: article
     provider:
       name: Microsoft

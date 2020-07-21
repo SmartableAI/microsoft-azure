@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-01T08:00:06Z
 webUrl: "https://azure.microsoft.com/blog/azure-firewall-manager-is-now-generally-available/"
 type: article
 quality: 97
-heat: 437
+heat: 457
 published: true
 
 provider:
@@ -131,6 +131,15 @@ related:
     excerpt: "Streamline your image building pipeline and integrate your DevOps application lifecycle with cloud native tools using VM Image Builder."
     publishedDateTime: 2020-07-20T16:00:31Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-vm-image-builder-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "AKS-managed Azure Active Directory support is now generally available"
+    excerpt: "Azure Kubernetes Service (AKS)-managed Azure Active Directory (Azure AD) support is now generally available. "
+    publishedDateTime: 2020-07-21T16:00:56Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/aksmanaged-azure-active-directory-support-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft

@@ -2,6 +2,258 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-03-26-azure-container-registry-private-link-support-preview-for-virtual-networks.md",
+      "title": "Azure Container Registry Private Link support preview for virtual networks",
+      "excerpt": "Azure Container Registry announces preview support for Azure Private Link, a means to limit network traffic of resources within the Azure network.\r\n\r\nWith Private Link, the registry endpoints are assigned private IP addresses, routing traffic within a customer-defined virtual network. Private network",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/azure-container-registry-private-link-support-preview-for-virtual-networks/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/0947861b-59ab-4b70-9986-14565a9521cf.png",
+          "width": 1203,
+          "height": 485,
+          "title": "Azure Container Registry Private Link support preview for virtual networks",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-26T02:00:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Networking",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-azure-dedicated-host-new-capabilities-and-benefits.md",
+      "title": "Azure Dedicated Host: New capabilities and benefits",
+      "excerpt": "Late last year, we’ve announced the general availability of Azure Dedicated Hosts. This blog provides an update regarding the new and recently added capabilities since we introduced Azure Dedicated Hosts in preview.\r\n\r\nAzure Dedicated Host provides a single-tenant physical server to run your Azure Virtual",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/azure-dedicated-host-new-capabilities-and-benefits/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/4b73c068-85c5-42f8-a604-28d872e13b59.png",
+          "width": 1015,
+          "height": 899,
+          "title": "Azure Dedicated Host: New capabilities and benefits",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T05:00:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-keeping-your-cloud-deployments-secure-during-challenging-times.md",
+      "title": "Keeping your cloud deployments secure during challenging times",
+      "excerpt": "As the world comes together to combat COVID-19, and remote work becomes a critical capability for many companies, customers have asked us how to best maintain the security posture of their cloud assets while enabling more remote workers to access them.\r\n\r\nMisconfiguration of cloud security controls has",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/keeping-your-cloud-deployments-secure-during-challenging-times/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/dbf0ab1b-ee96-4bad-87e3-24a8f81f5e8f.png",
+          "width": 553,
+          "height": 223,
+          "title": "Keeping your cloud deployments secure during challenging times",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T01:00:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-microsoft-is-expanding-the-azure-stack-edge-with-nvidia-gpu-preview.md",
+      "title": "Microsoft is expanding the Azure Stack Edge with NVIDIA GPU preview",
+      "excerpt": "We’re expanding the Microsoft Azure Stack Edge with NVIDIA T4 Tensor Core GPU preview during the GPU Technology Conference (GTC Digital). Azure Stack Edge is a cloud-managed appliance that brings Azure’s compute, storage, and machine learning capabilities to the edge for fast local analysis and insights.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/microsoft-is-expanding-the-azure-stack-edge-with-nvidia-t4-gpu-preview/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/1f6343e9-ac74-4c7b-8f27-8784133e6897.png",
+          "width": 377,
+          "height": 212,
+          "title": "Microsoft is expanding the Azure Stack Edge with NVIDIA GPU preview",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T07:00:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "AI",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-how-azure-machine-learning-powers-suggested-replies-in-outlook.md",
+      "title": "How Azure Machine Learning powers suggested replies in Outlook ",
+      "excerpt": "Microsoft 365 applications are so commonplace that it’s easy to overlook some of the amazing capabilities that are enabled with breakthrough technologies, including artificial intelligence (AI). Microsoft Outlook is an email client that helps you work efficiently with email, calendar, contacts, tasks,",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/how-azure-machine-learning-service-powers-suggested-replies-in-outlook/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/fc79bf49-2bc6-41e8-951f-4e43e946ab06.jpg",
+          "width": 999,
+          "height": 619,
+          "title": "How Azure Machine Learning powers suggested replies in Outlook ",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-23T02:00:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-new-deploy-to-azure-extension-for-visual-studio-code.md",
       "title": "New Deploy to Azure extension for Visual Studio Code",
       "excerpt": "Organizations and teams that adopt DevOps methodologies are consistently seeing improvements in their ability to deliver high-quality code, with faster release cycles, and ultimately achieve higher levels of satisfaction for their own customers, whether they’re internal or external. ",
@@ -1194,251 +1446,6 @@
         "Azure",
         "Databases",
         "Developer tools"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-announcing-the-preview-of-azure-shared-disks-for-clustered-applications.md",
-      "title": "Announcing the preview of Azure Shared Disks for clustered applications",
-      "excerpt": "Today, we are announcing the limited preview of Azure Shared Disks, the industry’s first shared cloud block storage. Azure Shared Disks enables the next wave of block storage workloads migrating to the cloud including the most demanding enterprise applications, currently running on-premises on Storage",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/announcing-the-preview-of-azure-shared-disks-for-clustered-applications/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/0c75bf54-5409-4ebf-b3c0-83b4f8b7cd14.png",
-          "width": 907,
-          "height": 768,
-          "title": "Announcing the preview of Azure Shared Disks for clustered applications",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-13T01:00:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-microsoft-connected-vehicle-platform-trends-and-investment-areas.md",
-      "title": "Microsoft Connected Vehicle Platform: trends and investment areas",
-      "excerpt": "This post was co-authored by the extended Azure Mobility Team.\r\n\r\nThe past year has been eventful for a lot of reasons. At Microsoft, we’ve expanded our partnerships, including Volkswagen, LG Electronics, Faurecia, TomTom, and more, and taken the wraps off new thinking such as at CES, where we recently",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/microsoft-connected-vehicle-platform-trends-and-investment-areas/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-11T01:00:40-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "AI",
-        "IoT",
-        "Mobile",
-        "Web"
-      ]
-    },
-    {
-      "path": "_news/2020-02-05-backup-explorer-now-available-in-preview.md",
-      "title": "Backup Explorer now available in preview",
-      "excerpt": "As organizations continue to expand their use of IT and the cloud, protecting critical enterprise data becomes extremely important. And if you are a backup admin on Microsoft Azure, being able to efficiently monitor backups on a daily basis is a key requirement to ensuring that your organization has",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/backup-explorer-now-available-in-preview/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f68dd946-126d-46ef-a94a-c336a605aa9b.jpg",
-          "width": 1024,
-          "height": 693,
-          "title": "Backup Explorer now available in preview",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-05T00:00:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Storage",
-        "Management tools"
-      ]
-    },
-    {
-      "path": "_news/2020-01-30-hyperledger-fabric-on-azure-kubernetes-service-marketplace-template.md",
-      "title": "Hyperledger Fabric on Azure Kubernetes Service Marketplace template",
-      "excerpt": "Customers exploring blockchain for their applications and solutions typically start with a prototype or proof of concept effort with a blockchain technology before they get to build, pilot, and production rollout. During the latter stages, apart from the ease of deployment, there is an expectation of",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/hyperledger-fabric-on-azure-kubernetes-service-marketplace-template/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/Images%20/blogpic.PNG",
-          "width": 839,
-          "height": 750,
-          "title": "Hyperledger Fabric on Azure Kubernetes Service Marketplace template",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-30T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Blockchain"
-      ]
-    },
-    {
-      "path": "_news/2020-01-29-10-recommendations-for-cloud-privacy-and-security-with-ponemon-research.md",
-      "title": "10 recommendations for cloud privacy and security with Ponemon research",
-      "excerpt": "Today we’re pleased to publish Data Protection and Privacy Compliance in the Cloud: Privacy Concerns Are Not Slowing the Adoption of Cloud Services, but Challenges Remain, original research sponsored by Microsoft and independently conducted by the Ponemon Institute. The report concludes with a list of",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/10-recommendations-for-cloud-privacy-and-security-with-ponemon-research/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2364b690-1398-4d7c-bbbf-57d4a90d979f.png",
-          "width": 496,
-          "height": 641,
-          "title": "10 recommendations for cloud privacy and security with Ponemon research",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-29T02:00:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Security"
       ]
     }
   ],
