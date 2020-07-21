@@ -8,7 +8,7 @@ length: PT43M
 ratings:
   count: 36
   average: 4.611111
-heat: 52
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Upload your project by using GitHub best practices"
 
-secured: "kOpNfXv2uaqLRCzw87u00f4DIzz09XFmy4r6TwNURyCYqxbo0ZWMuwiggbqTHQIcDM8z8R0oATVGfp03yu4dwTkBsKdftRF+5WZKRSSf2wRSJrnDlRxKjyuNlsatUcI3hKpZaqjVvaUiD9RDTT31Le2ih4vJ8hT8ay1KvmG327jzVDWabtZJ+qxMoCeh6Q1lNH01zABFz3kvTE/DtfKgKsCq/Vy9Ld1DM+F2FyIzby+MJXZjqAkIqI6H2C55uSp3B6Tf0/41c2bZBPL/V6xxsbCIBN3TTvp0iY0jgNPhAj/ry+TcH79llNrX8LmEwY5fe/C/uUWZCiJRRk/kBO9eVlpn+uypyGuamJDyjbrl/uaiKwJpyZKdXiID6MBnraSc5Lk+Zq3fDtG2+AgppnrHTw==;pnHupq5e++OwPAs4bWSoew=="
+secured: "KqQu+5mIzB2OfWPkLo67OJRZ4EAyCHkd0Stwshh56zkPnpqVqEglKNCB/kNtiNVSKjjyhcEkcFX09p4npjRcEZxUMlZ161FVAyajTkpPaELmWEWAErIMsTiQhnVDbHoEWAh439ksWkA4HrpC6p6UT241F2MSc5Ldb0t+YAcOuQv6GcS/dvAZ7tMQtNPme1Cp8Hp4XfAkyvsPGhtNf/8uPzbJTkYX8N1hUQfvI76VSxRyi7rv6/DV2HlC2oyG9p0wP2ZJ+bcXNBSlYifmafkCDqgvQki7nBbAS0UdmQOeCJTByEkt97f9zffeUDtFdqWbZjyfRsMs9rHSBLT6tAS1WzfK+BXFenjdNZkE9GqGoQ5d6H++OzbTBC4MQgip0QN7VXWy5H6Qj9xYkFDY/iD91Q==;fRA+WVk/yoSyG/B0J1YmLg=="
 ---
 

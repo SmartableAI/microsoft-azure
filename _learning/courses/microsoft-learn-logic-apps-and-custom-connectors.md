@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Call an API from a Logic Apps workflow using a custom connector"
 
-secured: "r5nB4xl7ycCIufXcDeKQoSkJUh1VKfsqZgHEWPYs/zcaIbCK1FGgqMfAFsQg0d+hg/Aqfr3lGSCgn/mcYA0xlTsi9PZolbPPzdpGM0EFgnTSiUaZA7bBNZXIZs2vaWo1Fwq1qVgTy2Huq0U2gKoKdnJCAsPMB1p+An6zxN7L4FHMrWhoGH7HW/yQYQDJwXAKlIvk5hVljsssw3KahHnKKcHprijfXzBJsZF0jaImlsG7kOqM34pdkT5y9pqvaLXeWUxfbr5Sfpub+dctA2xoCll1Jds7ubf+LJfr4opaeilmVGt9oOgbLVZBKg8pGcAMq+jNnICKisalOX58tmZ/tTA0IubHtccKLzD8MjztJEk2QFcD58A+UC51zPxl5xn6zCv3HIbIIUBIEE1DeKrFmg==;r+ZYnLeV0vKSjYgTo+QICg=="
+secured: "xFShdDK8eMnC++D5paBafegpB6oS/sISBSoLw7JlIOiZ25BjsAMKMhDtIWoUceaAot6hmubpcyL+DN8dRovldPwcNaxfSUPfLcUqtHfX1enOkya+z+pd0mnxQw2J7HP7zZC6nNr3lPZsDRzcdg4CO7v4vYqQtvOD2DoRD3kR0gaiW/5/ERSNHuLeihnZwR4MPjmq0l2dJge3IsS8fperxTn/U3WcJQ0JlZYIFLYsPvTHRrzwCZNZw1xh9ocKmKNFHuUKzrAFEzTn+1zHnJdOTXGrglkqvuscKDZ/1F+nx+QUF5upnZ5mP0lNi1Syr9UsYD1950EqvvJD0fNX7Z9huV4yEfDG7CpN+anSxSaTPNa+vnWTv6UCsMCgS7ouaU4x9AuJvupWnsbMCf/QBicWWA==;Oh4LN9+a5VgOjLyQTz8YUw=="
 ---
 

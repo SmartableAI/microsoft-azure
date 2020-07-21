@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Cloud storage overview"
 
-secured: "ZkvwaDYoOEZNMjpDGfcvofd0/GuPfBV5Aamydu3Wz/Fs/ooTX6TcfugP08xuzlcjShNInPhNiUW6ePxi3g96oLRflOORmyCzQaNv8xxswbix6/8NMBhzaaEs++p+yE39zrdN7xc9AGrzGZRZdfaDpphb1UGDc2MM2PeB8oC5wfoM00+50QntgGgeGiG9swU/i+KJ3tEqW0WB9lmW57ntTcyCp+0qxq46DLzfsUUwXGZrs4Zs8mko4nSo9Y9x7FqNghiI9AsirKBrArR6BKgrMyaPnnmbq20KC6yX4e5cO5Ncy8r49vDmv1hyFRpnYgiqsMMnaxiiYTz7mi2Xx+1tgmmF3vaNfBF9UV8Pu4gxETlJFRsDXaJegpUPj5d0uhy7/j3MFVf8+xQiMUIEBjzd6A==;44WK4lznRlybH69w0u+uRg=="
+secured: "OM3zk1dK51MMKG8zaLYzfToy5EkU/6u6ZGGaaQr2TkbZsGNLOb/PFSd4IzYigfUwhQTE4GJnMctqmItbdqxYK2xD/rhciZE+gB+LN6Cj0AG6R2cprc+/Miw7ZXvdRtBKBGTT3AHUEraFpXQ0Ao+A70H814gq93o1L/Kqz15NdFdOc+OAHIHRWgQEoWVtrH059Vm5n/3vN40/4ixgIak4HYQ2SlLpTHIsewMq/9v0v/DVUFlN8njjPv0KiZqM6x0Zk9EenHGfWQxyNn1EsqC9YNb3p5DXoNfzrZRv169+WHj5x77V7p+aJLJK8X4b8ABB2d4XpLBn0pRhDi7Bkw/SS8J5yF8nzunmbL2TKZM6fQfjvqKLluErJ/0NX0ICYfVtF8bkusiAx3MrZPVi8m/bkQ==;MkuLCWrc6E4KAC8Uge5gXg=="
 ---
 

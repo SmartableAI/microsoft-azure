@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT1H2M
 ratings:
-  count: 26
-  average: 4.730769
-heat: 51
+  count: 27
+  average: 4.740741
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Communicate effectively on GitHub by using Markdown"
 
-secured: "23U+iwHJheyPqwhbXWBaLICHXe6UxT79TO3lnUltjf2a9YS2tNR2+H8yuAPRWjJl+bpOBvxH+2QgF+3AlkU4ELYexr52S5P+KhskqibfiO7anZbH+C0LqpKuzBEYv94C+S5m48dUJBWzfyb6pCTvzFf5wllP7LYqwsV9yA7QHR73/bxgRkpZdjHxpa5B6XavBFfapAg+vN/IUyx1eLME55uoG1zYvShHIkL1yqfxak7RlZ8Hv7jdINX93Lshuc3VYu52+CW2DgYXL3nqB9cRfGSq1vK+3nMB1/p5kXvyKVbAPKedp8GTk2cbFThgaRVFLmneoOBANDT6Ge/hiu5Mf/pdAW5rJ/mswJ6W3SUnBtceRb+uxqUHzbv0nWZokS4YJjKD8Cnopv/O9+SR3H4rEA==;+gWzPl5n18AytjcodVM+pQ=="
+secured: "7VtVjBkmDFZRtLcat2FxqrKIELt+5pz5ojkFjskiyEgo5zW1D9/1jFImshbnKeGTKp7Db6sB7Hp9EcpkAdf6+zomyJbdeNtYwFkuN7GWddqWekleec8pMitfpZI90QBTY3ODw19pjpKdxEmkEkZJJGOucX5I01RmTwdDrWwc0QMK0MymM/4z6KuUNjShC+J1MXi7SHPK9sqPTWuM7NxmPwW55KQUgaaAReSr1lvFCNt0WZsRMa+DRJ6xh8L9dCJOiuJNlSCgW7E6RNX9TUt629N6muPxjH41S8wqJO1B01OsKbZmv0lA/NwPaonZ8y8Qwyl75vogpg27sUZxJdMhJinMD11Z464up97g/gC9ueIHwheKWsdHXtRyqvjofxKm8d+wsdKrHZjb8+WFb+1POg==;3+zV1fs+HjMHoBX+McVWZQ=="
 ---
 

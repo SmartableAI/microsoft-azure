@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 34 mins
 ratings:
-  count: 106
-  average: 4.773585
-heat: 52
+  count: 107
+  average: 4.775701
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Classify images with the Custom Vision service"
 
-secured: "ryG2fllpqyvM785imoyRZZxYuO1PxC7Xowu08H20uhWPgwN4d+C1+4Smrss4+/KBpUxHmBRpnvQ0csDnHpJzD+eZpS4EI+X6ZKjfH0u/W/33MIsYWxkbwc12dTuiEllaObXVJ9LyiNElgH/DHn3tOM4bXgbb23NAR0xf8YCqbuyvmrK+0DfhotjPV3OW9+UMDI+8aVvKpljPjyLnCDCRdWh3stwr8E4r1yxUjFAR7B00r0x0jJBA2tRcN1lwqWjpOOHi+Dj1RvNEBPiLAWdpZjZJICdBSYAP/Z4tumFHXXp+nHZo6/Zr9qGn18ENpi+VWx65rtmQJ8FhlQ9MvFhGpzZZU1oOcMq1H4kPmy3O/Apl2A1lRC+eFna06k9Yc1mSLKWUgQEbZ/zWIujZ5wvrnA==;TuvFHaMkHJQh+7guyCbQwQ=="
+secured: "7Ci+ol1c+qYjZSEI8Ee4k5vMELk4pUNVbdwli1XyryNZ4Yn3XJ+ykTrYf4b100e7qbYA5bEzT5W06X4D1SUF5pW/9oUOsZ4ixpPeTAGyLfu2njvNhBqOaZ0lXL8SVpmyYLn+Clk5gSQ5MgO6BBcyjKa2g9oA/lUrTMoXoKpFiZHYnfKEhtGn7RO+CVA0C70naPCNLeqrwZJ6pBU82+1Z72k3WQSfmjzZ8Lz3+a2KfaAKtvOfXYnFM3bC39K35UaEYXAmlnV4qlQgS2wKLnVpl3PhBEVTPZjL2yoDKyGviwEr4eNG9bgr/fs27jtKhoUKBpOOuVaxo9lCZTpVgDpkaYzziItFPth6QqzLoFf1jwbLAdlZDdJ623stbsgpDpOoFnWyGOsvHzo2Omv/smV/OA==;HDhajWCsyIBFb9VqRYxbjw=="
 ---
 

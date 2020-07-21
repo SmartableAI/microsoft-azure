@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT50M
 ratings:
-  count: 77
-  average: 4.6493506
-heat: 50
+  count: 78
+  average: 4.6282053
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Application types in Microsoft identity"
 
-secured: "q04kTAnL+jB3zZ1Rl3YSUZoF6QIJJG+3L9e7/8GZdzgnQjItkxtNlzhE4J+rV/g9TBazIOg/fohuw5/se7W5BJzF37UjStYzcSspzcw6aVbBfVhO57b1EiTR+PEj8UELyunUKcTG8adUgQzAgSWhzvKg0iK692gH7/s6oXgB2O+yzjJdrA9C9Porug2zXBbKv3KHFDUbqS+0cYpFCmpqrSJaxPhb5kNvo4bGUin+RM/uZQ9h1fUpNwcBxUGxAtjdKaFwyZ/nxYCRITnvvFdQMv0tHk87F81V7rfgyON3oNHjSuerE6ArzwnHba7hja0ePzfvwhQ8N9CmvZZljCKqm6cVZBmrZee5TCpM+TUh3D2LdnimPFdjznsec69K/G+g/OTLo1FTNWl8C+1IQagQFw==;KY5uN0PzaUOgGKCYm1E93A=="
+secured: "JJ6IGp+TuZ3b7AbQhv1DuQ+5GtgH+8ecRyJYT8E2DuUtrAT3D8px2iKwRc1lrdgURRukoNAZsPacRoVyFTvApUogtK4ywpGTkXJ3RjPEqtQ/HEmdZApLwFS8uVkdw26vmoiunykNlyzANRWzptu+E4DEHWv/G8mVtLf8OdATGj9HVRx4ESpPH3HkzGjEPeaaj+/Mo8yOwUpMy3j2RM6BGmUl/9YgAchb+J7qy87swcZ/i+RUFF6MHXtNGsfBAS9TH09b9lSgN7THpfhYAExjup4B0DD/XSdCuKibYKk3t9XrEJ86ioDtAn4YoakaPVnbKx8DYL8wyF7CdBkdEvKBxV9PA+0EWQ0VRrCMaaQgl/yJC+iChxyz3zahkKcSOenBPhTobADUU6fjl1R53xHCIw==;X1SUh8gZWaacJ2fZAwPz7w=="
 ---
 

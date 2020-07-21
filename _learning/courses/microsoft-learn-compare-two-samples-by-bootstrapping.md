@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT1H24M
 ratings:
-  count: 19
-  average: 4.6842103
+  count: 20
+  average: 4.65
 heat: 50
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Compare two samples by bootstrapping"
 
-secured: "FmnW6yG9cZvNcvZxC/DLSXPVGfMeh7d+MuB4/J5lIhJpNhX/IkBhx1AZifY3m8tDBZIpLkjnegHmL1sMHOZcDYBPNxK5cZwsu7qSXGCquSXLWZSczPI8b9B8zflyzb5ATir7wfSS2boSs98TtpVAkwn2Qqj2vVac8FRxG2obXXWoLc7KD6EyG1VYObmXzC35s3mft6OMu6LOu2XtP8Wgf7Ym2KUu4e6PgmHZxCK2aPwQFg4jqWqNSxhG3IYVKlYD0j6XzzMYpAPKPLmf5tSUg7hL+0dN5C62Je2LFUKyWlSNyaKq05huwVvElwA2IdfIOF00PolRv0RbNyIH/IA6QBifZek1MMXfldcUBykI5jT6A6HkQtQ4xBGoPfVPcOz7k8BrMzvEOIW49pIPhEmX+w==;TDylHEigX0zYCqlTaFkP/Q=="
+secured: "FpOLdJD3GT7NLoIG0w5JplqK3giIVbpLH11NwKxb2Ld/jmzdvJuZDPrQX4TPyNqWas8CLKdhqB6uymCUUboJkhtFli7LlrQexo5lfr6LFRMdDbgEtMOR21AMECv6VYEV1WqYGeXVSZMT3SbaEkg3FvxoDrpAt6vRHbnzs/WQFMNmsweWutgy2Al1VX+C/FREIAw+RMq9yoNiwMMG8BLWU5XAOuhCJUpfho6VZaTu+6F5tkPNYJqob7SMquP2vo3fnRtP0QjWAwpNPXVFL34cq7e2VzQ1gP1P1eenAUDGBE7gXkdmOiQ/7LtDDU6sGO3EP9lmhHK7Bc4FavzSG+sT/s0b2Gbh51IFnCvSJV8JNyVLnwhyXA3Dq30M0Cy2onnDXDlIrPfYkgvS8Q+ayRDD2g==;8Z8b8yVU7hdBMj9AO7oJHg=="
 ---
 

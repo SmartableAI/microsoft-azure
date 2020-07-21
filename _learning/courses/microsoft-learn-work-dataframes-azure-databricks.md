@@ -8,7 +8,7 @@ length: PT46M
 ratings:
   count: 60
   average: 4.7
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Work with DataFrames in Azure Databricks"
 
-secured: "nFqdR4NKCIYUwr1ZdJx9NVMWM0yZMfqrPL61DVlFW4p1UHPcrw7z43eO8sJ+krZkgjvmusutbjC9VfqiHxfFZA16O9x+Z7FYF+c5U6cNSgpfOFjA6Luu3mQ9AbEEP2Je5OGo+TDQBXIvK9mZP2Kqjk0cw9yaDeKZq7lIc4cQ8CCIrvbB5NL91iQ+1MRrTj+C7cbY5HDBUIElb8QXUSmCOZwZi1ECOzp5k2qjRBzwB3kAhWE3vvXur8DtZomQMPtUxSl4GLFpvzoM6/mXSKW+4M7rPuy8680SRI+GKKFdoGXFIbtvrL9wLL2VwD/TKKszC3Z6pGkhRqmsrM1f6LS0Mf24rdbbtJeUn24V/FhCTPGcVt6M+4uW07LOo0EmI3KkcmqOnlBQCVV/klwYUXZFSg==;En82bydK3chQQpJXXeR3kA=="
+secured: "dgBodOM1SUdQXR5LzDW6HndSMG6tUoPRf8IH4UJKjrtTnyIZQ5N/KZNdh877lmhYKd29rqtwHNUhZW9SpIszJd9boI0woKpnZaZCPxznBpZGVY5iM98Up75MTcOWZ++yszh5e9wHNOrb0ZD6n3ZbahTfGYUm6ss86h23IESigNcM7Uu55SgsPAXUeXKRaxllUxD+IqLdj1UDszDCy6JF/K0qLiDE1z1yEWbyz/wJL246cSndPGhSSr+Pt33nDi2Qk1anefO1p+qImfQVgIPrjYx/SiFxXWbpB1VrFc4nFYm6h6SWXMeSuGejsodAv3xUZ5bO+0rs7mAPRgBcY1p9MZdc56uDIrRn/0zOhQTRo47RcOq0IBKTFBniY9LdIvNPZaJG4fgVYQIGNQp1Py76Zg==;nfLzBzDV/nLh/h6no5uS4A=="
 ---
 

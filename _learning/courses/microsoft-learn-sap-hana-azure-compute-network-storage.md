@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 52 mins
 ratings:
-  count: 193
-  average: 4.720207
-heat: 51
+  count: 194
+  average: 4.7216496
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "SAP HANA on Azure Compute, Network, and Storage"
 
-secured: "OqxlEjygIgq0/o088FiXGRgG5lgORoDY2hqRU25U1UIolIEQZJCmRo8NEVt88lX5smMPWvYZZVStx9dQCySqF9KpngkoTKYrTlbpGpogNXTUCYA1BafO+uixhkQcD3Ps1Cp34T1a8vU2XPcuKxVujUxwr+JKXl02BI4r1X/baR+UrLSuVY0wOb5nk/JhmYXFTcJxFPN/wVBdQT57VHWNfunT8fpz7LBixN9AwqpxFhLkLMwkWvF1CdOyrnsR4yYFiGkQpcDvVpLAPzlZ0J0jYq64drSpbME+U/8p0kSiBR/NRw9kqIde69yhhgBpV4Gz7juH52G+d3ByZpJuSdWPf4zoSrdyQ9oamvKWRnU6JaNWIYyQdP/tnkshdr7q54MYyDvEsJUHsHN44OnNTcPOAg==;zL6jzXFcupbgErABAsQ31Q=="
+secured: "71ciKlEv2/5Y5yEpcC8BLlMGasjxCVoeUyzY5B8+CucyVSeMEiOgug6UvX1gP7iGneBSSqxes4Z7XCqZa+jTuiouqctqQOzYNJ+93bnR9c8xtXfHBUDMvJ4M/E/crTlgcIUAJfYL5yakIMpmf76x9TdGOQl3xAdhTZ9xkg69FQnjD5njkQnffVp2PY/LS6Niah+Z7AOTE0cTiBFiyZpT12CZHalXkmKT300lDSL2r/80DUM8te1ohDmVFYsmHmGxcnJuQqf83o+MjSqwxCN7IkXgVPwQ/46sLaypaOAif9tiUrJ6//qxP/iHhsIxznkvfqWIp9hUDa8iEHpyrKM+5QR4nZe4mNd+LRa6blOszeiQfE+3o1eDFw/9GR7NUfTbIt24TTn5dKmdMjJ7vG+4WQ==;9TpygvR3jkJAdnwJodY6bw=="
 ---
 

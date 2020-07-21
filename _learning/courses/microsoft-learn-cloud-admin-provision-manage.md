@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 41 mins
 ratings:
-  count: 131
-  average: 4.7175574
+  count: 132
+  average: 4.719697
 heat: 50
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Provision and manage cloud services"
 
-secured: "qbLcgoWSDsJWcS0kKTy7+CHu2gu4doE16VbJKI3+f6ropqh1aIW7pybXSb9Z/bEsF3Bk1ikmEG6YnWVKVPRS9Tg32Je4VkkaOAYGZdcyYLOSGaNYf2GiFHiPcVCuetkd2DLz3Eo+lRQwuJTjLHUOCdnZ1VIUEeYUvWACFCX+K/OQwyS9LkcJ3dHeKrBq7yN9TYNXDZNZ3AJKT/0lSyqMdvSsBY86N8vtfz8/Cnp9puDRuaDSAziTLHhMlNgXUHrafl04wIJmszHLB0EnNh9DvQ08bzf+4RWt056ww0qjzXVICexpQoUkR6pCH7m1wBL7PEJZaeIbcA5Y76pGb2AthPU0G6eOIHF7yu6lKi1NsCoeoTYdWrnX/YYsVX9197ASrobmNrzm6l6iLKkzf37e3Q==;MjluBEW04wcxqL4PkExIkw=="
+secured: "iFWEDtj9hjB4oNJbJQCWi4719VqGTRP5Zjxv0E0o1nESI0ibml5NcehQoENG2FQJ3Dy1oJaOrm7F+u9tIe8jdHabd37ExUXaISXag2SgTznOMLY/YQHhHMCyV9BorOo9xvTMqZ0rKlGvywGgg4wMvBTBQdK8zX5sbHIRWcVhvmPac7x5wE9czlkqHvUC6MhLSEnzAPYjj/u4RmK4ZN8sDkcNuU6uvsVc2NCqwTRmpORmHph2P5b21Y2oJloMd06dxdR671sFBcymtnIGxd1Muv7T5i8uLSW4z9QkV5Z6UjQ53kH/9zLOs8n6Af4jEyrmOGtvel/8Eq6C8t+QZiFBZWhXh8UcC3/r63WiY6fNPI+ns7Z7m2L8tp7bqt3ae+9byTAnDvBfW8M4vYcXxtMiSA==;bTDuOtAY0+F5KhzlL/mSQQ=="
 ---
 

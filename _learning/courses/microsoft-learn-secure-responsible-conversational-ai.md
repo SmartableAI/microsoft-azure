@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Discover Microsoft safety guidelines for responsible conversational AI development"
 
-secured: "qi5FT/6n+W7W5r3ehE1agEqP1aTDJwgAeBsX/qKloif+Jke9Cr2zVrYZIwR7gd433CPg2E6pf2INfzqN7udEIhvtUlqgdm8TzrqyDkwwyBsG+w5IJ2E7rU9wmS0xspDdagyGRrdXuwpX0dpLqGxhNJKGxT9q1N+e8kCODYOLxNidpNrit2AiZCEQUY8flshHbbej5Bzn1fXq454EH3mIG6BNykM2uR+d/lb/b8Cnk/pvf5jtXoXZuWHpTk4auMosOEpV5cbP4amZI6CUwwUD3t5wvjh0LYDBYLWPhwB/zxyT8gtvR0d+56yHCcNqzn3TOqUtG/PVE+4jVluw/kHmtrUoofUUSIhG/QUdIrxFkoMfheapGLfB867S/EDppM26hhTu3X0NLZcVMs5CA/xUZQ==;/mVU3O6O92LAU+zW4vcsvg=="
+secured: "jdmiDMHWBFC0iyy/KR+ybT/ph/IZOzhSdX3QaO0fQkIJvs/h9+4xIWX+BrroK0DdCj15mhzWYJm4wmnNBpsqR7wyS8KlL5BMaFXewD8SKF6GF/IV+JxMGVwWJWDvtP9IZ+eGQyscB5q7qCt73OAt3tKI/HHQ6tbBKCo5GgcaB3Ss8il1YLJ5Fq1L2oLXAPOWu8emVC4mOcIuCGVCuW1rSdihZO5VRuc6jy4zC6cchJoNw30MeteHVTHDvyOt/RlAk1HHPn7Y6FEsWv3fODA7vuMpry20v7M4NAtT+jYbEhx/J6qtJRtTghqOTsbMxbzsal99qJuSSHfH5gbc9QrCORY1/UPBC++q0YnNqRUS6Ews2qw0p9nrxEubBsUXFzqOkn0SuVuuBl1uwf181cwVtA==;wOYTnUrZLOfA8ukG+6Zzmg=="
 ---
 

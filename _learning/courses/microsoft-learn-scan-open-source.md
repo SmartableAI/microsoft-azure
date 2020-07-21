@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Scan open source components for vulnerabilities and license ratings in Azure Pipelines"
 
-secured: "tNyIxtBA9uqyU32cPqOjkoXqvO7ernAdSNCg+bjwhMubrjYWueva7dDshrurlyVzFQyxO8tez2nyPMFwWYlsQEMiOJ+dpAWjjuYhqwCFMG3yc1Rj9n3EVEZqiZQ5DpIEKKQVv4OWc+ZrgnpUXoBQYh+ZFd974tdN9ayKtkbPwyQyG0NCYqpP14zWsTh2Vn512mU/Jlzb7RgLKPzu9crOd+JfcTDBCnVYEvxYLld1sT+ZHp59EDoJEJa4DK1lXV5CBlIllWJ77EQcWYa1RoTiFY498nBbIGEeuxuF1RsQtY2M731GA6rs+VzWYt6/8dTqc7EB3ro/RzfYNPV4hFApL4ixSWz+qfCcBa90Wpiq8G10WTk8OveOnp/eXyp4cTULa6GkdvpfcR/t5Du//ESejg==;4ZlR64ITLu+SIolfr7radQ=="
+secured: "vIqvYvFvvGXc5islrgS+Xe5OeWZV0Qn3NV6NNNu5plpcHu5WCfkLnzewx92GODWjA1vyV8tWeYRrbIMtKDjic4I3+7/vZ+/zGdjeIJou6YzyysAw+AfTmsUACtq3YHOY82JhieQoPKgw+xQ7QdLEt+eTXJIl9JpyW14v7FwOdHSiOS2YeH9Fu652RM+EMwpYQNP7F5pOqekZ31+XZy7p4WKhDBbH+apOwxXz9whc0BS3JZQvYRkq6mxHWLpcg1OI4h0S1nrp5zU90pjSRsYVtnHcOTwPt/Ez+QhhwdmYpBptiWlrWnqN5BBjVXvacqR5173Qb8/X4qJ+Q2X24bu5N2zS2/mArSXKwob7EguVkM/7m4zmsUac1yfoZhwp01SrZV7zzvNlTvhJOaI/c8rf+g==;PlnW2Cp+8Wvfa1ObMxamVg=="
 ---
 
