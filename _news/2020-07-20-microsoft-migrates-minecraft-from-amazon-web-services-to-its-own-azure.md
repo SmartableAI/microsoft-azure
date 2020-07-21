@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/minecraft-microsoft-azure-193642521.htm
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/minecraft-microsoft-azure-193642521.html"
 type: article
 quality: 96
-heat: 136
+heat: 156
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://images.tweaktown.com/news/7/3/73908_111_microsoft-finally-moving-minecraft-from-amazon-web-services-to-azure.jpg"
         width: 620
         height: 348
+        isCached: true
+  - title: "'Minecraft' Finally Migrating From Amazon Web Services To Microsoft Azure"
+    excerpt: "After close to six years on Amazon Web Services, Microsoft-owned Mojang Studios is finally bringing \"Minecraft\" home to another Microsoft-owned company, Azure."
+    publishedDateTime: 2020-07-21T04:23:00Z
+    webUrl: "https://www.ibtimes.com/minecraft-finally-migrating-amazon-web-services-microsoft-azure-3014491"
+    ampWebUrl: "https://www.ibtimes.com/minecraft-finally-migrating-amazon-web-services-microsoft-azure-3014491?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/minecraft-finally-migrating-amazon-web-services-microsoft-azure-3014491?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 56
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/10/19/minecraft.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Mojang Studios is finally moving Minecraft's Realm servers to Microsoft Azure instead of Amazon Web Services"
     excerpt: "the game is moving to Microsoft Azure servers instead. Apparently, the studios has been migrating tools and cloud services to Azure for a few years now. It might surprise you to learn that Minecraft, one of the world's most popular and best selling games ..."

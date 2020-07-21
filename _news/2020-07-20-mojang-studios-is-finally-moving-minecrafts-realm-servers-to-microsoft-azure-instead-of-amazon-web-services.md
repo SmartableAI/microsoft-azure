@@ -57,6 +57,22 @@ related:
         width: 620
         height: 348
         isCached: true
+  - title: "'Minecraft' Finally Migrating From Amazon Web Services To Microsoft Azure"
+    excerpt: "After close to six years on Amazon Web Services, Microsoft-owned Mojang Studios is finally bringing \"Minecraft\" home to another Microsoft-owned company, Azure."
+    publishedDateTime: 2020-07-21T04:23:00Z
+    webUrl: "https://www.ibtimes.com/minecraft-finally-migrating-amazon-web-services-microsoft-azure-3014491"
+    ampWebUrl: "https://www.ibtimes.com/minecraft-finally-migrating-amazon-web-services-microsoft-azure-3014491?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/minecraft-finally-migrating-amazon-web-services-microsoft-azure-3014491?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 56
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/10/19/minecraft.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "UX801j5HB1QUw+3PJYkGW/zLmRhVg/xEEnza+lXAJx2E/F+dtxJlZh21BfkBk9nyeuktDfnEIOYalRK9ZYMd2Wzuh4ndRLejuNVLY19qx2bpy7+fhSgEzDV4j5UlIlBMUH8Ht2DrniSr0cO0v0VWQeIAW7UqQyRtVIjrz6sJTZ/DnlXEr+q40fW8Ci+BMVc6vl766gIsGeLzbtG+I70dsGulB0fSdTgklT2m6fgqN0eL++qGnFJCK/xkb8XIa0ko/2euu5gpZuKP5df/RBaaNhTfuy4OAjz6rUh2FwMYiWZbHQIPEWHk3j7OXnYlETxr3vJ64MyBNW0TmAocTM5C8x5FE1iW9P5eOeZvoJwaNURaMQ5GiuxI21DPol+kaqG/hu2V9/Mjq1TmHqj/ctKNRnUK8kQUPYQ+1J2IBG5IqmtU2PyOfLDB0s/gbysobmmmLEzfdw3IbrGroLcoDmEp54PbksA5oueZyCmTmivI8RwHYxAPR+q3/yuxDOthMrnD8j5uwfRTzOJrvFnQsK5Ggw==;lm/UkwrmsZvCosgf9/shbQ=="
 ---

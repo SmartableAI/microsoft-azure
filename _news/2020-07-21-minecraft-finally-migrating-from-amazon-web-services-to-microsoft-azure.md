@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Microsoft finally moving Minecraft from Amazon Web Services to Azure"
-excerpt: "Mojang and Microsoft are finally moving the Minecraft infrastructure from Amazon Web Services (AWS) to Microsoft Azure servers."
-publishedDateTime: 2020-07-21T03:20:00Z
-webUrl: "https://www.tweaktown.com/news/73908/microsoft-finally-moving-minecraft-from-amazon-web-services-to-azure/index.html"
-ampWebUrl: "https://www.tweaktown.com/news/73908/microsoft-finally-moving-minecraft-from-amazon-web-services-to-azure/amp.html"
-cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/73908/microsoft-finally-moving-minecraft-from-amazon-web-services-to-azure/amp.html"
+title: "'Minecraft' Finally Migrating From Amazon Web Services To Microsoft Azure"
+excerpt: "After close to six years on Amazon Web Services, Microsoft-owned Mojang Studios is finally bringing \"Minecraft\" home to another Microsoft-owned company, Azure."
+publishedDateTime: 2020-07-21T04:23:00Z
+webUrl: "https://www.ibtimes.com/minecraft-finally-migrating-amazon-web-services-microsoft-azure-3014491"
+ampWebUrl: "https://www.ibtimes.com/minecraft-finally-migrating-amazon-web-services-microsoft-azure-3014491?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/minecraft-finally-migrating-amazon-web-services-microsoft-azure-3014491?amp=1"
 type: article
-quality: 57
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: TweakTown
-  domain: tweaktown.com
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://images.tweaktown.com/news/7/3/73908_111_microsoft-finally-moving-minecraft-from-amazon-web-services-to-azure.jpg"
-    width: 620
-    height: 348
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/10/19/minecraft.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -41,21 +41,21 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "'Minecraft' Finally Migrating From Amazon Web Services To Microsoft Azure"
-    excerpt: "After close to six years on Amazon Web Services, Microsoft-owned Mojang Studios is finally bringing \"Minecraft\" home to another Microsoft-owned company, Azure."
-    publishedDateTime: 2020-07-21T04:23:00Z
-    webUrl: "https://www.ibtimes.com/minecraft-finally-migrating-amazon-web-services-microsoft-azure-3014491"
-    ampWebUrl: "https://www.ibtimes.com/minecraft-finally-migrating-amazon-web-services-microsoft-azure-3014491?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/minecraft-finally-migrating-amazon-web-services-microsoft-azure-3014491?amp=1"
+  - title: "Microsoft finally moving Minecraft from Amazon Web Services to Azure"
+    excerpt: "Mojang and Microsoft are finally moving the Minecraft infrastructure from Amazon Web Services (AWS) to Microsoft Azure servers."
+    publishedDateTime: 2020-07-21T03:20:00Z
+    webUrl: "https://www.tweaktown.com/news/73908/microsoft-finally-moving-minecraft-from-amazon-web-services-to-azure/index.html"
+    ampWebUrl: "https://www.tweaktown.com/news/73908/microsoft-finally-moving-minecraft-from-amazon-web-services-to-azure/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/73908/microsoft-finally-moving-minecraft-from-amazon-web-services-to-azure/amp.html"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 56
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 57
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/10/19/minecraft.jpg"
-        width: 1200
-        height: 675
+      - url: "https://images.tweaktown.com/news/7/3/73908_111_microsoft-finally-moving-minecraft-from-amazon-web-services-to-azure.jpg"
+        width: 620
+        height: 348
         isCached: true
   - title: "Mojang Studios is finally moving Minecraft's Realm servers to Microsoft Azure instead of Amazon Web Services"
     excerpt: "the game is moving to Microsoft Azure servers instead. Apparently, the studios has been migrating tools and cloud services to Azure for a few years now. It might surprise you to learn that Minecraft, one of the world's most popular and best selling games ..."
@@ -74,6 +74,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Ma8ZqVfGnVc1fYX2E2RmeTpkaAJJWjjqaQDYPijnpOgwQXFvftvyIIHnQ8y/qTk9ZZUL33umvcSGCgRf3bgtDbuZ9W7UWH+zhpytM/usyN23wXNwE/Sm99KlL/k+R0T58IMu2tUuRXnVRqwt38gHki6gUIBgxAGaTBR8LYt8ygeFtSzNFny9eMlPZ6y0Uvi+n0eUC1+YxiyYdBG9c/7s42y42B4RLKO2BIHgPaMjhK3C6iiJW9pJD9exG3Oph3Lz87WIeWp2wkINoz/8QxlOC6HPX/yOde6kcTq0y3luerQy/WW2J/2HIeB7j5aqtdwAwGbY96da2+mOyUXXX+2I6z/YS/PrIhJigLZHRq1kN+SUC4uo9HQQgLRmmk0bqB/yZ5ND519VkUqagkyh6bBggfqH3z94Y5RHej7ZwpAiJmi+HjCYZryevQSQwo2BeMyCnQ+01nMpkifShBDsITbw4m96bKJr4gYjKnY83ee06DDoPygV1xa8YyKY3MAGnKhlADlRJy1AQRC1H8jAgd6h1g==;n2171JwHuDu45Trc4eZ50w=="
+secured: "p8rP1H5lCDLuhVIPuoB1LXBgM0kxmtYK3hSm+Negd8iVUqRAK8zsIj2/M8EaR51/xEh6stAeGAVGawUeKrDj+bvHMue2oj+1d4vIqC95DnN7qgpNZi/7PgGAEEnOdQWfPT1BA5/GVL13uKNNCddTjtOu7jl5ZWJvC5EW1l51FvnflXcldFefdGWl3x5GyYsL9Z8zR+gA3PdVbw5O1Xy9wip3Zo+1wAl4qILmP0EtQ6maoFEsZ9Vn3oNB8TC1e5NUXnky/wvl+5+2ndgjHpalKyJIZRez/5cm+4fdLJRLs8eVOqvpr0Io4WiExdxAcwhmVt1mBo9hNtk7Bb7sQYFW/w==;F+Vf/buZs8ryJCjYLTl+hQ=="
 ---
 
