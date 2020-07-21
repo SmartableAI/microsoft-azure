@@ -72,6 +72,15 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Microsoft to shift Minecraft workloads from AWS Cloud to Azure"
+    excerpt: "Popular video game Minecraft which has over 126 million monthly users globally will stop using Amazon Web Services (AWS) Cloud and will shift its workloads to Azure Cloud from its parent company Microsoft."
+    publishedDateTime: 2020-07-21T07:46:00Z
+    webUrl: "https://www.sify.com/finance/microsoft-to-shift-minecraft-workloads-from-aws-cloud-to-azure-news-topnews-uhvh4Babiejfd.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 17
 
 secured: "bXCe3lo4nYjgLYWIAnRCpP9sPhZTNlMHSymIXqOXkQVYAliWqGel45KbL46YPDL2x5u6vr+B+p1ofPDSr0Fg3TvCQD7EZNzusxa6GFafYK+nQN3nmFUZ6kw+aeinONsQ6GlduDFZqnKH1j919oNBX0XQPsgjhj78YBJ9vOF1K54LCCjhLWnoOtXvNlEXVgGzigAe+moFAyaJb7vusXxz5vkDu/QJuLpBA1hOsvau4CRG7ula0YhHfwXTLjqnjvkEWHMu22GbcNcCylULyLEYYQk95ADCGRYol7w6TcJXxSSxs4eaeyi6J4f6DnDS+G2XD5lDHWaswPWTcCFY1G8xU+2T7tMcG5feV+y+OcN/05w6xg4V1QijxGgqzTJlIViLrCavHHvNavESzpp5YeLQ9iSif49k8Uvj5/tvd9MVvgJSKu8pcDBCueXZqrxCB9FHsNiNccO07hPSnAoT0Bk8rtrCd3jGr/5WzjIa9feyXzpLnhwdIt5COY5ekvsepXWJ;Zt3W+0mWZn3p+wMDf72XYw=="
 ---
