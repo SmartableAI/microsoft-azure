@@ -64,6 +64,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 51
+  - title: "Microsoft to shift Minecraft workloads from AWS Cloud to Azure"
+    excerpt: "Popular video game Minecraft which has over 126 million monthly users globally will stop using Amazon Web Services (AWS) Cloud and will shift its workloads to Azure Cloud from its parent company Microsoft."
+    publishedDateTime: 2020-07-21T07:46:00Z
+    webUrl: "https://www.sify.com/news/microsoft-to-shift-minecraft-workloads-from-aws-cloud-to-azure-news-education-uhvh5Jgjhgdbf.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 37
+    images:
+      - url: "https://www.sify.com/uploads/microsoft_azure_wiki_uhvi4Iggddceb.jpg"
+        width: 900
+        height: 400
+        isCached: true
   - title: "Barracuda, Microsoft Tout SD-WAN on Azure for Multi-Cloud Services"
     excerpt: "Barracuda CloudGen WAN allows companies and service providers to create a pragmatic Secure Access Service Edge (SASE) solution in public clouds, according to a statement from Microsoft and Barracuda. This could pave the way for greater public cloud ..."
     publishedDateTime: 2020-07-18T10:53:00Z
@@ -72,15 +86,6 @@ related:
     provider:
       name: ChannelE2E
       domain: channele2e.com
-    quality: 17
-  - title: "Microsoft to shift Minecraft workloads from AWS Cloud to Azure"
-    excerpt: "Popular video game Minecraft which has over 126 million monthly users globally will stop using Amazon Web Services (AWS) Cloud and will shift its workloads to Azure Cloud from its parent company Microsoft."
-    publishedDateTime: 2020-07-21T07:46:00Z
-    webUrl: "https://www.sify.com/finance/microsoft-to-shift-minecraft-workloads-from-aws-cloud-to-azure-news-topnews-uhvh4Babiejfd.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
     quality: 17
 
 secured: "bJOOTXpnaZDf51EiZI9mx0GtT0j/M4J0NuqcFlE5JydYUEpCt4kACQ7U/W2jp6KQV6gFQuvHWXip+KZYvUBzgf7aDdo+p9Rw3mcpvwMd/+HuBkoOOD4cCDzhDm/7uWfRdcSRMuWLTjEcKqTjDzwwqvMDn7jssI/DLZnmzTSBKV2HUJm/hUPR6LzkjtumC7Joz0KHQLXytrn/WOKIKXWtDXKJrzkyXFsLZpGFOkUP5+lU7LIX3hRW7ARACohMrufQ0noP34cB9ReIjGjJ7CFeTfIunMLUlIsLX/FJd37PXE2Dq8u+tQApPl9gu+J8LumtsVMXyyzfOxfBGhOKEAz5mw+0Rdbz6qgdJBRrV81ZKJ5pUwolqzWEWM1t424LMhZJIAtG3Im0D/uob0Ev/1gPTxfFIMSqECDl1oxu5dnTo7qxlUE/Nq1bY60kZVR7vLxmVAo2zxus9tZq9kbbn6Dqr4KW+8Zkq/OsR4NoT8+fs7IcJpSwTqvG6cxX80iZ3WpzYOn6VFfk2yVJXiDtAVAM0g==;Nw3SmlAp/GR4MA5AP/tfZQ=="

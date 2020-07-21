@@ -53,6 +53,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Microsoft to shift Minecraft workloads from AWS Cloud to Azure"
+    excerpt: "Popular video game Minecraft which has over 126 million monthly users globally will stop using Amazon Web Services (AWS) Cloud and will shift its workloads to Azure Cloud from its parent company Microsoft."
+    publishedDateTime: 2020-07-21T07:46:00Z
+    webUrl: "https://www.sify.com/news/microsoft-to-shift-minecraft-workloads-from-aws-cloud-to-azure-news-education-uhvh5Jgjhgdbf.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 37
+    images:
+      - url: "https://www.sify.com/uploads/microsoft_azure_wiki_uhvi4Iggddceb.jpg"
+        width: 900
+        height: 400
+        isCached: true
   - title: "Get Certified In AWS, Google and Microsoft Cloud Services — and Get Paid."
     excerpt: "digs into the specific features available on Microsoft’s cloud platform. The course also gets you ready for the second jewel in this cloud services triple crown, certification in the Microsoft Azure Fundamentals exam. Finally, Google Cloud Platform ..."
     publishedDateTime: 2020-07-20T20:56:00Z
@@ -75,15 +89,6 @@ related:
     provider:
       name: ChannelE2E
       domain: channele2e.com
-    quality: 17
-  - title: "Microsoft to shift Minecraft workloads from AWS Cloud to Azure"
-    excerpt: "Popular video game Minecraft which has over 126 million monthly users globally will stop using Amazon Web Services (AWS) Cloud and will shift its workloads to Azure Cloud from its parent company Microsoft."
-    publishedDateTime: 2020-07-21T07:46:00Z
-    webUrl: "https://www.sify.com/finance/microsoft-to-shift-minecraft-workloads-from-aws-cloud-to-azure-news-topnews-uhvh4Babiejfd.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
     quality: 17
 
 secured: "m/Xj/VaFW/le4+Ikry+yxDHK7C9lrqzBDcM7DhCM46WIqkY4bIRj78IQGaCybHP5AGsBJCrIxdFBYNLZb6MaEd+5Xk7x0JJwAYRiYkQWJ3VEuVfysthxEY8UaIQ9yjLgn7WseO8DWQ8mzMVu7enU2x+BQHDfTHvKgRmaZLWmhTJxsaXkh9lyvEtrUR4mKLArkM6oSi/yFVRCNQWnh8hx5+MxTUmppG0B9kSvBuie60KnkG1+dm5lZnYrs0W5FT4F5e1rE6PwC9dwGZDcPFtMmPnBfxYDccVvXMXBnb+S70YwcgeOFLudi14s/Kt9cIIqmUYxLrBoT1ECqh4YxBFoew==;OF+zPAL6D+MMPfTf+xUfPQ=="
