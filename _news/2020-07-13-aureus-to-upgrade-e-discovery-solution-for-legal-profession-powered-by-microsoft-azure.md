@@ -90,6 +90,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trend Micro Announces Cloud Solution to Strengthen Misconfiguration Protection for Microsoft Azure"
+    excerpt: "PRNewswire/ -- Trend Micro Incorporated ( TYO: 4704; TSE: 4704), a global leader in cloud security, today announced its Trend Micro Cloud One™ – Conformity offering is now available to Azure customers,"
+    publishedDateTime: 2020-07-22T12:00:00Z
+    webUrl: "https://apnews.com/PR Newswire/696b9c4821af9f21bf525b280a285899"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 3
 
 secured: "sPXdO4Hs7jcS8nxsNMB29/2p0QpC9buEjq6ANQT8CYP3jWDS+ZP4p76iVACB9t08YCNpG7x28Jyf7cpKd0qdu7x745mDHQRZogzaxeqOn6G7uqN39CRNfgz1vCOh4jTcQtbhWyxEKFA6xCwKeuEfNyOFAhDgCe/96/QvB7hFoPcYuW5SHWV1+10Aqcv9kwftuvf18HmVZPWMBRIfLVMdSxisqF3+zj9pknwckhD1b/is3T6S+IGxFAyEVlduwCcEfmbo+8Y2zPs/A5zK5hHkSV0nw02t2UaZ+CRxk2RHar/2q0k3mS1HAJavTnAMvakj7RaDC64mNBzOu/7Llc1PBw==;Jtw7v1Z7HLoapdJd4FdRSA=="
 ---

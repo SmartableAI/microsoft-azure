@@ -8,7 +8,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/alithya-launches-ai-fi-
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure-1029396553"
 type: article
 quality: 73
-heat: 173
+heat: 193
 published: true
 
 provider:
@@ -93,6 +93,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trend Micro Announces Cloud Solution to Strengthen Misconfiguration Protection for Microsoft Azure"
+    excerpt: "PRNewswire/ -- Trend Micro Incorporated ( TYO: 4704; TSE: 4704), a global leader in cloud security, today announced its Trend Micro Cloud One™ – Conformity offering is now available to Azure customers,"
+    publishedDateTime: 2020-07-22T12:00:00Z
+    webUrl: "https://apnews.com/PR Newswire/696b9c4821af9f21bf525b280a285899"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 3
 
 secured: "uDsX4x9dYy1Z0tYtLsU4p068fcd8kFUh6ZEFdcLB8DWKwBm9RBucGFKX7UVHaj8s8fTiRUNTY0v33XZyqxnykzwKIMxCvgrqyLSgC+y7XMJPPM7N7yK/WsuZafHwheV7tRpvTkSjCvfUnvUsDJ8a9EJvEHsTFnFIGLVNMKdg9Xh9ThK2MPhYkPodLppTqih+qC90sFfbvwu8nwu0ri/7ze/fRxPleA94LJBc+VKVvdEK3QWqeJt/v9ubBMuE4BzRqSLqpILmRKTkcoTKviI4MRgZs+/Ax+zBPZMGE+sM+8uZwXYVSaedsUb2/5zTRXqGRnmhVAaHYw5nQ2SVjP45cw==;xxMgOoY02H/SoDFRQR0oIg=="
 ---

@@ -35,6 +35,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Train to Become a Certified Cloud Professional in AWS, Azure, Google Cloud, and CompTIA"
+    excerpt: "Much like the last course, this one also prepares you for a valuable professional examination. The AZ-900: Microsoft Azure Fundamentals exam is designed for candidates looking to demonstrate foundational-level knowledge of cloud services and how those ..."
+    publishedDateTime: 2020-07-22T13:44:00Z
+    webUrl: "https://www.ign.com/articles/train-to-become-a-certified-cloud-professional-in-aws-azure-google-cloud-and-comptia"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 29
+    images:
+      - url: "https://assets1.ignimgs.com/2020/07/22/sale-31344-article-image-1595422739070.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "O1Mfz/zR3vWQLK3qbCrHkIYSiwgiEEbXt6f13gdj1BZWRYXMbTnJprbn+kXUtmIpn8p3e87KoAVCGJiq3p3J1wwm9D5hWLPMeQkXmRJs74TPCNFGIACgaWOxcCqoo3dkFnQ51YnQ60Y3DQFDf+aox+fCMN35tfUhEWqssUhuO0bdrGk898puU5ELW4AGURl6huvIF7dzYkCVwQXchWYloJ3W++5q57ACAAbAVwQZAc0kojbeE/zvFSsEqCPd40Jpm4Dv5DaAbI127vl1aFwRSNvA37GHZfcrWLGaDZpeS2X0YBpR0gDoFL0hlUmLWPoxrUwvme9dlVqTp/OsEgNxAw==;6Trmiuac5QfrSPJvAHBjfg=="
 ---

@@ -1,26 +1,20 @@
 ---
 category: news
-title: "Apptio Launches Rightsizing Recommendations for Microsoft Azure"
-excerpt: "July 21, 2020 /PRNewswire/ -- Apptio, Inc., a leading provider of technology business management (TBM) solutions that help organizations analyze, plan, and optimize technology spend, today announced rightsizing recommendations for Microsoft Azure SQL ..."
-publishedDateTime: 2020-07-21T13:04:00Z
-webUrl: "https://www.prnewswire.com/news-releases/apptio-launches-rightsizing-recommendations-for-microsoft-azure-301096563.html"
+title: "Trend Micro Announces Cloud Solution to Strengthen Misconfiguration Protection for Microsoft Azure"
+excerpt: "PRNewswire/ -- Trend Micro Incorporated ( TYO: 4704; TSE: 4704), a global leader in cloud security, today announced its Trend Micro Cloud One™ – Conformity offering is now available to Azure customers,"
+publishedDateTime: 2020-07-22T12:00:00Z
+webUrl: "https://apnews.com/PR Newswire/696b9c4821af9f21bf525b280a285899"
 type: article
-quality: 37
+quality: 3
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/82080/apptio_logo.jpg?p=facebook"
-    width: 2421
-    height: 1270
-    isCached: true
 
 related:
   - title: "Alithya Launches AI-FI™ Trade Surveillance Solution Powered by Microsoft Azure"
@@ -47,6 +41,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/Jenkins.jpg"
         width: 985
         height: 657
+        isCached: true
+  - title: "Apptio Launches Rightsizing Recommendations for Microsoft Azure"
+    excerpt: "July 21, 2020 /PRNewswire/ -- Apptio, Inc., a leading provider of technology business management (TBM) solutions that help organizations analyze, plan, and optimize technology spend, today announced rightsizing recommendations for Microsoft Azure SQL ..."
+    publishedDateTime: 2020-07-21T13:04:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/apptio-launches-rightsizing-recommendations-for-microsoft-azure-301096563.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/82080/apptio_logo.jpg?p=facebook"
+        width: 2421
+        height: 1270
         isCached: true
   - title: "Alithya Launches AI-FI(TM) Trade Surveillance Solution Powered by Microsoft Azure"
     excerpt: "PRNewswire/ - Alithya Group inc. (TSX: ALYA) (NASDAQ: ALYA) (« Alithya »), a leader in digital strategy and technologies employing more than 2,000 highly qualified professionals"
@@ -90,16 +98,7 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trend Micro Announces Cloud Solution to Strengthen Misconfiguration Protection for Microsoft Azure"
-    excerpt: "PRNewswire/ -- Trend Micro Incorporated ( TYO: 4704; TSE: 4704), a global leader in cloud security, today announced its Trend Micro Cloud One™ – Conformity offering is now available to Azure customers,"
-    publishedDateTime: 2020-07-22T12:00:00Z
-    webUrl: "https://apnews.com/PR Newswire/696b9c4821af9f21bf525b280a285899"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 3
 
-secured: "rgEc5XV0x8ukNAkQzBpAfC/h7Ba3zZxa0Qs91rJHQz14Ca49dhojBr6nUdCgQdyM+JhL1OtB75ulPyvNPvJ1nP3V+yhYortEkJyyP68UWQuOsmc7jZKmcIlb5oqF88AG5Qv+h0S7ex/VLCNjULug56XvD1/UfYgUSaPdtVc8TlKKA0w1WMYoMLhBJUliqcssQvOhNKkmRPs9cji4DdBqUeI/V9ygOzYXLaYBXRIMwBT/FzuA+NU/hczYclCLGPfamrxbPwJdQRMY+aQa+aR7WM8PvfKmDKSxaatnyaEH1wbvwUCKxz/vnDP0Il5RvZPIvlOssdy1Nr8+Sl0Eqlz8+L9gCBVKsIqIsfRmZIEiOMzfrEFZRw7Tgr4YSSGKe7quLY1D3vpuYrM+DEpgiifT0Csp/veCbjNmE7dItin/93eUKOaVK5j3sIBk7gT+UstpempO6dHdHu+NTbUXARHkkNyXm8c5G4LOil/aQtCgKLlXYUAibvEPabnjSgFpht3xVtXbQhhf9iPn0rg7/U4Xzw==;fkGVeVGmJP02RsT+63H3Sw=="
+secured: "MZtdxps49MCcZQCLb2rey4HFyBqU8zp2heWW0wUoJoLbQjau2nbk4FWeP+rLUk9bIc3keClAjMMiUvoghmr3Xe7N4E3mKwY4uw7rAUAbuBYSa21pMBTga+nvM7JzAMy1HuVEbh+AVBXQC4/qT/UBQ2JiLEjdDRWH+Ao5FF6EXl8Ypk/0FdYPEJyY8T1fx9YH7AnCjqVR73iiIxXtFi18AyVAS1eR5fHSZOmtSD8KOBlpIh1gCtJGhrmuKn1n1fzZBUL6mWC5cW4ANTctDVqBkqVU0CCdbB0CnkdKqOvhPXuCLLdLKeh8JpkgEHiEotluW242eTq6+Xneybo6Y+92cg==;JjPH5NGDJ88Fp6bZAgld8g=="
 ---
 
