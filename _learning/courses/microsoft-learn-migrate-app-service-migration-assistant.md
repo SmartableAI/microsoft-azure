@@ -6,7 +6,7 @@ type: course
 price: Free
 length: PT36M
 ratings:
-  count: 6
+  count: 7
   average: 5
 heat: 50
 
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Migrate an on-premises web application to Azure with the App Service Migration Assistant"
 
-secured: "U1ZkYjuZYC0GJh82+2FGXYM+aWFr0Othoj4o9IFmwY//yjBiFOIJHMGF5rDawcKGRPeUr8brlXUWBO7JG8YkGRFjOHnIfnw33O76A5uLvoFLmvNcUnPUJp+WCOVBW1BdG9fO1reBzdBL+sasRdzPwLtzFsVeeeQqR0LwKMmzh+/m9Mum2rxPR0YrHYlAJUrgQN5sHGaLDPmOVg+mOSzDqk59hq3a347vpA/OW8cQJLI87TJp7lvW0WRb6bx4hlBIHlT9Nb/GPPuXIlqvLtmI8UJ3HKxziGokYAw/j3eyy0QU4VvomCsWsIBAo/mb7BFQWSJM7cUKH0B28LroQSsyDcXBbfrsXpwyxJgyQFWUOSLHAQ2u43ji/J0kJk2swBxI+NwN557G2wTgAb4Pidnsdg==;KCzpkMbROdDJT3UHbu756g=="
+secured: "KWt+zqAuGvD4a5Tcu1WMaSo7ZGBgX4CXmKDdqUgOvCewOkK/Uyh/XsaG5Z9B2gi9wHmza+j/QIloCfDiCjz8OtOWBMJLp1mGpSg3CETz0avILfBTHvjlDp4m+NJJZy3dLCinjAyVbk/8KO2qP/ECcR1Rl7c0owHjSuK58g/wRWqM7AzY1ycbzszZfi60LVrU98EfLWIuEA2NHOOaU6bvIrDnCP6Ygtt3+57AMAfAIYb8IDLjw76L4N3iQgbsmdcCYbrtQpxpcRGrTbPOA1HuA9eSvb6oJdB631PNMVWSAMNFlo4mZMEXmHucUQRBgBH1uSF1/Y2bYmnTbt6AwFBx6Zm31KJ5X/47X4as+4O66CSIqRL1Vbra+Yq+3ycLrXZPJk0bjtSv2kFkj7HZouu40g==;Pc4uqUHFEm0Q/wJtHx+ZqA=="
 ---
 
