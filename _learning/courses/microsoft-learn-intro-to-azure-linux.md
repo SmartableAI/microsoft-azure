@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduction to Linux on Azure"
 
-secured: "+Y8T44MLuqf3YDN+c2fEivK+jDtYnpJ39m4zx3pugeEjzb5oFvlrdZXfhm6vlLjlqyQQtQ8b1WW3+hOtZkl2z1RSX4eCsV4fnZgkGdjoCwzOfJCcebPJnDZN5LK12+SHEsEDmkwO99x5pZZU955/R8XVT36nrL3H3KZf2oBQ+DTQ5qvxXf/5MeN0GnhB4rbf/nMFw2VoHxOfA59h9GO0ZQuX47mA7dooYiiAl+30sgfM3zL+w+xNI6qxrBwp6RLsb3OnvbcvZIl1s2LUI+HhDUW2HcRJg2olqVt6XiCVqjM81+uP+gbDa8lAh2aWDnVNn9QaemK/SNFkcF/e2StaMBduYfJF7aKazBxF/iqL4qek7ZKL9pjmp2W9ItT3yEEu7KCNp0FFw8qI6KUjbuxnng==;gjITEjiNxI8pygIN+AC6XQ=="
+secured: "NsyFKVGFd/BxNLlNyBxJKyADhXkChVt8V/u1p7dm9oTqq7s3eW+oA8FP/DUW3SgatzogpCKuEHBlOF2p+VLAB2HX5U9U+2IPd8dxnKqIwYChqRpA0tSTbEKd2AAwXJWFcyaGpGsWuSvnluhFags5QvJJh41zKD5AxMFZyBF9AOTikJK/iN6P8YLv2ENzgurh3z/vS2kuWUMrkYM6AqnVTACfyyX3gd9rHOEY276Y5189ksd5zUnLiDEdlJwT9kINLjYzBG0ncHR2jSL8woe2GhpMUEYVIDmDtEk/Ap7PDWKTg5J3nHaofUh8+iesLJqTYbYp4ZH43gYps+mxTbkdOlxr7mrq2YrOPPTaYEDAXkIi4E/NE3IeRVCxOI3EfbF3sJLMh0eDULNgwFhCzqIBpw==;m9+tIhlUI+up9nZ+nD8Vpg=="
 ---
 
