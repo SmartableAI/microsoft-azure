@@ -60,6 +60,20 @@ related:
         width: 770
         height: 285
         isCached: true
+  - title: "Barracuda introduces first global secure SD-WAN service built natively on Microsoft Azure"
+    excerpt: "New Barracuda CloudGen WAN is the first secure global SD-WAN service built natively on Microsoft Azure. The new service is deployed directly from Azure, works out of the box with smart default ..."
+    publishedDateTime: 2020-07-16T17:08:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/barracuda-introduces-first-global-secure-sd-wan-service-built-natively-on-microsoft-azure-301094835.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 28
+    images:
+      - url: "https://mma.prnewswire.com/media/324434/barracuda_networks__inc__logo.jpg?p=facebook"
+        width: 2696
+        height: 1414
+        isCached: true
   - title: "Barracuda introduces SD-WAN service built natively on Microsoft Azure"
     excerpt: "Barracuda released what it calls the first SD-WAN service built natively on Microsoft Azure. The new Barracuda CloudGen WAN service is the first SD-WAN platform that runs inside Azure Virtual WAN Hubs. Hubs can be interconnected through the Microsoft ..."
     publishedDateTime: 2020-07-17T12:43:00Z
@@ -69,15 +83,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 17
-  - title: "Barracuda introduces first global secure SD-WAN service built natively on Microsoft Azure"
-    excerpt: "With the new Barracuda CloudGen WAN, customers can deploy the Microsoft Global Network as their secure enterprise WAN backbone."
-    publishedDateTime: 2020-07-16T17:13:00Z
-    webUrl: "https://www.lightreading.com/sd-wan/barracuda-introduces-first-global-secure-sd-wan-service-built-natively-on-microsoft-azure-/d/d-id/762437"
-    type: article
-    provider:
-      name: Light Reading
-      domain: lightreading.com
-    quality: 8
 
 secured: "I2ER167WCwhKaqJ+xW6YLiT/FAfLZBL/I6rMeF+q+IySoa1JiOkpUQtg4fYpQjuCtUuWV4Gt4r0jG5UBaVe8ovOhtD3CrWGMl4wk/A/aZwTjbmaG6nnMpYULTRpybLRZs0M6AX6zfXn9zfghgES9mF+gKgpLVnZivHx+6UpV4OSPbkFMc7mNOQlz3TasO7P2QE8LmfgiNMzKgtsKZ50fyKL/XXDl9GV9wq6srkuGmsV6rBLl1OSP3LHQfGNB0wXtcawO2ylURfKM7NCt3dYEgT8Zu7R2c3RrAiedNo5lM78NghruddF+CUQuEKun5iGPAhP5C+E2sLX4xtPv3CeKy6uku/Yj0p1AqYJXVsV0L3oZ+6jiyGcUojsrspJC5TVQVYYAemJtKiAoeqHp4npKtevCUq6Q3sZBP+q2o2Y2q72yOQO9C1mnFEQrsx8NiSfzjQf45nXzKo4Lewzz64OWBjlDhcd79m48C+6k7TSkKW+Vkol28Cni42LLcBihA+kmeg1SAPF64tC7QUa6svxQ1g==;B7wyE+YkK11eunAVS53oww=="
 ---

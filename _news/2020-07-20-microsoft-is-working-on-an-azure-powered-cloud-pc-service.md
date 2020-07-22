@@ -117,13 +117,13 @@ related:
       domain: channele2e.com
     quality: 17
   - title: "Microsoft may launch Azure-powered 'Cloud PC' next year"
-    excerpt: "Microsoft is working on a Azure-powered Cloud PC that will be built on top of Windows Virtual Desktop and can arrive as early as 2021. The true virtualized Windows PC experience will help ..."
-    publishedDateTime: 2020-07-21T10:01:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Science/20200721/3595989.html"
+    excerpt: "Microsoft is working on a Azure-powered Cloud PC that will be built on top of Windows Virtual Desktop and can arrive as early as 2021."
+    publishedDateTime: 2020-07-21T05:55:00Z
+    webUrl: "https://www.sify.com/finance/microsoft-may-launch-azure-powered-cloud-pc-next-year-news-topnews-uhveOBfjdgbif.html"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
+      name: Sify.com
+      domain: sify.com
     quality: 17
   - title: "Microsoft to shift Minecraft workloads from AWS Cloud to Azure"
     excerpt: "Azure is growing faster than many other Microsoft offerings. Most of its consumer and commercial properties, including the video conferencing app Teams, now run on Azure Cloud. Microsoft would ..."

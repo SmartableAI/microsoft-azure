@@ -1,17 +1,17 @@
 ---
 category: news
 title: "Microsoft may launch Azure-powered 'Cloud PC' next year"
-excerpt: "Microsoft is working on a Azure-powered Cloud PC that will be built on top of Windows Virtual Desktop and can arrive as early as 2021. The true virtualized Windows PC experience will help ..."
-publishedDateTime: 2020-07-21T10:01:00Z
-webUrl: "https://news.webindia123.com/news/articles/Science/20200721/3595989.html"
+excerpt: "Microsoft is working on a Azure-powered Cloud PC that will be built on top of Windows Virtual Desktop and can arrive as early as 2021."
+publishedDateTime: 2020-07-21T05:55:00Z
+webUrl: "https://www.sify.com/finance/microsoft-may-launch-azure-powered-cloud-pc-next-year-news-topnews-uhveOBfjdgbif.html"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - Azure
@@ -130,6 +130,6 @@ related:
       domain: webindia123.com
     quality: 17
 
-secured: "B8YkHJ5GerIGIAjawSbWoQba4+XFGGzDDQYviAd4xjdIew125HYxhbEcE7ATY3NsDUF+npSSOe3svsDR7lUz4x5k4BFidSoStfX7BpKpVx90bc0VKCYygT2RS02McQipTJfpvuKTzG91WzwDOk124MMfjU5LvomtBJdIiexGTTBXEHaUEYXu6jMuYdr7jaaV0j84wcyKhcNdNTXrmNHFv6oXmxIQ1vkZhox3t0RCXa8TLu+auDNKQmFNu28OgD0NsjxszmFy9zaNBFlgiJvwEf2bMSO14lJc7b7lcxoxHljKEQXZuqMN2CkODWd5Au1Y19qtm9TxRsr6wvp8te1tdQ==;b1V7daZnkMTJMJsMLUZ+7A=="
+secured: "1/G3rc9qoWH3KDWU9v2O98yRXfuWMJ2LCJAOGpx/nNtTh21ylsNiTlmfnU83jllOJS4fTcsYXXYrBYI7kvpapnO4y3mfkx/GM+MkOdqTVZdPBGrZmJOMUZO+O7jgIOriIw/LmY78VeEV48IPKCFKGE+Z9XwnNL5pDgF5J8aJqMMAm6n9bxyXKwL3hxMR+MN6Yvabl0yAXjBUZ340Hud3lM6kA9H8jzAX5s+l8PUpacIgJnJak3xp0TWbhitpB9djexJ8VizWeEpPgI4Gt89FS/L4fSfzl31CNdgrcQrObrF/PfQfafFQI0jQXzR0FEBTPMpTWxspUnMtJCGShHBK3A==;qVoBOXppqbPWHp4B1kXsfA=="
 ---
 
