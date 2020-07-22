@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-16T12:00:41Z
 webUrl: "https://azure.microsoft.com/blog/azure-time-series-insights-gen-2-leading-the-next-generation-of-industrial-iot-analytics-solutions/"
 type: article
 quality: 100
-heat: 120
+heat: 140
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "Azure Time Series Insights Gen2 is now generally available"
+    excerpt: "Azure Time Series Insights Gen2, our pay-as-you-go IoT Analytics offering, is now generally available and features a number of new capabilities that are powerful, yet simple to use:"
+    publishedDateTime: 2020-07-21T22:00:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-time-series-insights-gen2-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Notification of upcoming changes to Azure Time Series Insights web experience URL"
     excerpt: "Notification of changes coming to Azure Time Series Insights Web Experience URL"
     publishedDateTime: 2020-07-15T00:00:18Z

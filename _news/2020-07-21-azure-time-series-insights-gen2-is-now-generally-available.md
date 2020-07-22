@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Notification of upcoming changes to Azure Time Series Insights web experience URL"
-excerpt: "Notification of changes coming to Azure Time Series Insights Web Experience URL"
-publishedDateTime: 2020-07-15T00:00:18Z
-webUrl: "https://azure.microsoft.com/en-us/updates/notification-of-upcoming-changes-to-azure-time-series-insights-web-experience-url/"
+title: "Azure Time Series Insights Gen2 is now generally available"
+excerpt: "Azure Time Series Insights Gen2, our pay-as-you-go IoT Analytics offering, is now generally available and features a number of new capabilities that are powerful, yet simple to use:"
+publishedDateTime: 2020-07-21T22:00:36Z
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-time-series-insights-gen2-is-now-generally-available/"
 type: article
-quality: 72
+quality: 77
 heat: -1
 published: false
 
@@ -35,16 +35,16 @@ related:
         width: 1024
         height: 572
         isCached: true
-  - title: "Azure Time Series Insights Gen2 is now generally available"
-    excerpt: "Azure Time Series Insights Gen2, our pay-as-you-go IoT Analytics offering, is now generally available and features a number of new capabilities that are powerful, yet simple to use:"
-    publishedDateTime: 2020-07-21T22:00:36Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-time-series-insights-gen2-is-now-generally-available/"
+  - title: "Notification of upcoming changes to Azure Time Series Insights web experience URL"
+    excerpt: "Notification of changes coming to Azure Time Series Insights Web Experience URL"
+    publishedDateTime: 2020-07-15T00:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/notification-of-upcoming-changes-to-azure-time-series-insights-web-experience-url/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 72
 
-secured: "LVF63aR2E3dzbtD/j6vtUhefZQTEM3qnk7yhxn486QQPejMf8Pb+jetEmyWnG2x2JwKWQ/faUOVyqzko3hmVVv3iVdo501APlwhgi3yI4QayR0RpggcsuQvrp+ko4jj/bng3nL3GQnObLkA/4AiNDE+cK7iUB39+cbllrfbR6xwERL1hFBvVpWPBTUMwrFY9SJDqoAnQTvlMAe23glu5wHbwTR3fC19aKAyNFKhhgR+aGCNZctz/N6X/A8LwDo/paKJptpEVjCTFdPQOskbtXPNAD3TJD2n0nMaLYggFGN5wDF/uiYMMp+IEHVFamQwx6I5ZXkASWBJgRHfS9hxLDQ==;Vw58dzzZpC1R+E9/hV822w=="
+secured: "yjw5PIgud5/dwTdg/TvNN4WCzE53sLLqylsnxhpFqErgGbrruiSWAQs9S3fxgkYatyoU5ub/YXsC06tkkEAS1zyey0emtVZ2qbr+MGk1gQu4utxiiD3ZrP4m+QrgRPaPXUibnBwj1AYT80dArjUMZUwGman8IG5GXjbbZGK87HQypEZfHuWXqgEbDpple5RpQvUau8vopY5sEuvpi4zI2Ww/wdquERhxzPGElZV/Efhl0YvRaWWxYxQDjNdnLzWUB59fMPKRrGY3dqet8F8gvzZY66OwPCytPZ7nj4BH2xKMCJNNv5McZGhdQFW2Cfo/kN4+qm4fP7e9yyE5et7lmg==;nRM61c3qAPyaFNCOD/jBcQ=="
 ---
 
