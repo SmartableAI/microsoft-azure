@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Protect your virtual machines by using Azure Backup"
 
-secured: "3o2OF8hBzaJ1bRJQggE2ijYMjHHrtW0BCOb+hpfaBs7Cujz+bxYIDlXlepuqlkUkEwCuiOGUtNNhJpNms+DewycYffnOF6uyopex6YFRRgaETqB++uiVg7f14+CMXgm/XKaGMNEwBhPzo+toXjiZbiRV2ZdgC9io/8pnR+YMssfKo88w8NIm2xnRW4q4/ciBtG2Lysz90g7aB6xMjiw9kBSJ4FJ6r4pkEIDq6pPX3IZlKIrJnhnUz24ZdA0mD04CC60X68iwXzh6W/wiPPvgDDe1OUgMzX/TA175yrkCbsWTbwVnRG4B1hYEnmnl2FKFpv+EA3VVLfMxlNXZ0UE+dIDK/v4cH4Cpqo2KPHfj3f1+8G5JhBjp3gYK9k7w4hB4uwkhvFEiUvdhi3753hbwiQ==;KS3sfwZ1GiTYPK8C1zAq2w=="
+secured: "6ZnOMxYo4nAntKEtXRgOSPxw7quFAVExKjq5NmTvxwL3ugHMu2Z/6M9MCXTsSGgFzi84HcyZa8JZxikFbosbVjIRrsgltSVGJbQaPnCB12VZfhd07+McOm34aA7zP5n16qhTmW6284t+G/l8SfZX7klbVKcd8jzBIBBydjQJyYUw/TbmOf1CsADgx8rFeLEza4rySDl4nBTOenLCLUL+CSl21DJ/QxSMIBS2P/hfRaH8eYchrJM1IP80m3m8j4QHDoaoL7ONVcwJBX0BTqCYFOaXIsDLLsqz73MwTlJ4mWr62HTFPZNNVbmpAyAIGaYCcsVnGzi/PDHENM/KCjFz5gXcqhgKtCv2Lha/8QY+qYXAoKUBTld1z2l8aNW/GcNS6EanyV0YBQ/Gkg4blWaHGA==;E8C80i/bhzUuXw/IvwajJQ=="
 ---
 
