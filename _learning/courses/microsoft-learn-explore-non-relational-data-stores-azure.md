@@ -8,7 +8,7 @@ length: PT54M
 ratings:
   count: 22
   average: 4.818182
-heat: 51
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Manage non-relational data stores in Azure"
 
-secured: "WFo/3QQPhKL+kSCBfrKvPxAEZgFYrAIBt//FZZw0U4pHMS1c0VpWsVuwvCU+DwCKBD0PPFNjaUAvKCwtnjz9wlgnB3WtPy6OF10kMCfqr43NMYV1sIAns16iF6TCd7cQ5Hroup5jcdiOqTZ7iRErzWh9j4ZZb9TD7UiKjnpKOInDMTWe+8JyZbXXNCYYITADv7+tRTwrAf50Y17uYM6WRW5UtyBG4oAvt+5r2oH8et+dMpsObFBbgrexLb5eidqYEPE3Ur69LsmW7inmszu17OIDoWsny0YiAR3Aoto/T9DbWD0esXDzUP0Sa5x7ynAz5dK2WNB7o/pGzpplmMhkLLmWNe4IXswwhTOmJVvB8LTbV4RRaJ/XES5IQWEQ5vCgKqRt3TodWICX6b4HDNt5+g==;T4L1Ef6s7TRAM25Nz83G6A=="
+secured: "IH/blaO603w1iuDpYMuxDr2+MY7TOyt2+mg57yTqdBLCK/7x3S6I2LYpjqxQojJTmEFMp1DqFXaowon9CS+9XhuX+iq/36pCLeqaQvEWCbCGhrRLAwwl06PIur4DUCS6j1xIjKYN+WMVKSJ3d17nsEUYvlMJw7Lr5CGkGiuOvWbX755S37+TQeWdjYD6t7NY07lAQ/kSHIw4WJG4s40ryZnl/PVlwQa/tzF4NPhm/DK/x8F6ssFLpbRRf3jsBUGsYpDmQQ6LTkvuy9cVIWx3wXIkFJVatxAqm5qQLHzkoIPcsyMIzE4wlOJ+ybtN1ljbsiK1+ISGmPvHnMNYHzGt1utHGXtx3ijofyf9FFhGKekReW/TEMZL28/4TAcAwk6mPM38fJodxrn3IYicIWRrwg==;jaOfdWjo1+rN7Hp1KyuCgQ=="
 ---
 
