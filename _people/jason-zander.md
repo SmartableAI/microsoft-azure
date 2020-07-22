@@ -16,7 +16,7 @@ affiliation:
 twitter:
   username: jlzander
   url: https://twitter.com/jlzander
-  followers: 7289
+  followers: 7290
 
 linkedin:
   url: https://www.linkedin.com/in/jason-zander-62780637/
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Jason Zander"
 
-secured: "D7v910M48We2VbOe9RyUSz7S9ExWRgtGM1E76nfVnJycp+2v56eIXOSEohLoja8DZT3uiwaJ9v2TvGTpgWjz1A/UJs5tUCBKc9UO72CZVAYhzdtIiHN6NGLlpLP8hO49oTxIghusMX+j/gb9kErNQp5WBbkfQ/Xp9uCQKEJEAmPzr16pGPxW9Qp55kN3xR2vvBUcu+QlnEXeoMr4OgZgRMleOmn5rWU46PHlySGpEIv774XzdRIAPbEOgdUnnO50Fw4gi800l1TNvwIZmGFEJjABw49Cv6w2LS1BB5GH7bMiLDYiCdHwYBhgHbuPv3Y7OkhsTzFqhK3KgEjUpaWMbIeQLMUwY/nm0HhhGgsPZG/Si/brO6v6OeCPRJE5nsEs;wQJfQJmDu3A9f9w/zw0DKg=="
+secured: "nRA+UYgigFHEKeH6CwVf2jmcpYC+T6Hiz59dmPpUpZsIpS1FVFJ0IJI+Bh3PikhnB0F+NhoOe7V6uv7PSBDSOykSHp18+/dn8ewwvZmifz7kz0EtoYOU1D9ue0PIrwqn9kRuBnHLrLTq14lKxWK8p39NNmXj2E3YfwnZJHNlkBcOwIdJb47tvFybFdSe1bVfljTzDCh90Qv37aoNbzwVerSCRXl4/iLoWP0It+uZI2rpj65RiN49kfC8hYTlz8yE94ojnY2rdN9od9Kq/dqhptFTblzEDFlECfOWGOlf2cxyUf/ftqSAG4JBJ8lA9N6Vv+uFedMeqiL/+2t8eN/R5z76qZD/dCcHDfIM7wRBVJvE7U4YUPAk1ZHF+94eLnAW;DrW5S5Wx/vapXNmCTmkPBA=="
 ---
 
