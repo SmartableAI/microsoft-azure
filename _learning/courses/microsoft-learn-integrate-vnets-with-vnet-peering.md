@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 42 mins
 ratings:
-  count: 1869
-  average: 4.7084002
-heat: 63
+  count: 1872
+  average: 4.7088675
+heat: 67
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Distribute your services across Azure virtual networks and integrate them by using virtual network peering"
 
-secured: "R0MshqQWY1l96pjDkBCTZpDecgeq5JxgxS5sg6RHTssn6DisQbBULv67FYfSlRh6GqAo35CrBOdVUI/dzRL8roZHEjxBpLP7/5p5v0ci4aL7T4GF7vTQcPE/dujDCvYWbFdT5+TTraaALp1Geg3hxIRweckXFQEmqx9pulrwN6q30upMj6nkra6XeJHV16bCD7kvLD5IfDfijwHBHRrVHZUmWPEreuSokLwTMEeoCvrPRAaFE4FrrvJdTkuEqlqnEYt3t0X47GOlq4z0s2isdZKk1yhWVoUl7V/YvzSC9FZWhGRbVODHkJx02jtlJBtWEt44Tm6KDznAVo6cZTwBpwSwrcqBZoQkATByUWXcAxXkDwVd89PKYU7EHfC3beVmfKJmx7qNmBL68/0O3Xmi4w==;KAuu8mXA8GosL48KrEusSw=="
+secured: "n18riDCPj/nOhYUXsM8gJz4Tjd74T9gWP5NOvwxzVl+YdV5fUV5emYS0fRPpo5dQuOk8ekLhw9zoY2+llX7p17Lk0R2Qum6mDg5njlpRFvbGME9cHnY9UC8JCdD1M85mcefUOW9vmBAvRp0KCX2B502hl8+Jzvkj4XL70eiQuv4aCzk+t8SmcM46TUYIUHR+ufd9DLD++CZMJtZYNtngJr9L8mlnz1sBHe1AEewtgiCQgsAnMzzWHpatcwcgv4+AK8AOTFYxg93NVMBDCpHbfSM74YmV/xXJws7ujspPd/b4P3pNDBw4QmvHMrB+VzgzLnPBANh5fE6uTjD+kV1A19putK+LshULGyCFEy2Df93Chqea/ObxtWyBDCUBHef1zarQDTAHYWebgtaCX3+CoA==;LbQK+7KCGlVf+ubI5npT3Q=="
 ---
 
