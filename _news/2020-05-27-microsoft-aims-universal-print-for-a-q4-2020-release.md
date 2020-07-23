@@ -8,7 +8,7 @@ ampWebUrl: "https://winbuzzer.com/2020/05/27/microsoft-aims-universal-print-for-
 cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/05/27/microsoft-aims-universal-print-for-a-q4-2020-release-xcxwbn/?amp"
 type: article
 quality: 42
-heat: 102
+heat: 42
 published: false
 
 provider:
