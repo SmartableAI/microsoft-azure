@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-22T22:54:00Z
 webUrl: "https://siliconangle.com/2020/06/22/epsagon-adds-containers-azure-cloud-observability-platform/"
 type: article
 quality: 37
-heat: 37
+heat: 77
 published: false
 
 provider:
