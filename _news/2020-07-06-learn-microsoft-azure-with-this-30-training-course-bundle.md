@@ -1,49 +1,30 @@
 ---
 category: news
-title: "Course 552241-A: Microsoft Azure Big Data Analytics Solutions"
-excerpt: "A is a two-day instructor-led course is intended for data professionals who want to expand their knowledge about creating big data analytic solutions on Microsoft Azure. Students will learn how to design solutions for batch and real-time data processing."
-publishedDateTime: 2020-07-01T21:48:00Z
-webUrl: "https://docs.microsoft.com/en-us/learn/certifications/courses/552241"
+title: "Learn Microsoft Azure with this $30 training course bundle"
+excerpt: "TL;DR: Lead your business towards success with the Complete Microsoft Azure eBook & Video Course bundle for $29.99, a 95% savings as of July 6. It's no secret that most industries have been ..."
+publishedDateTime: 2020-07-06T14:22:00Z
+webUrl: "https://mashable.com/shopping/july-6-microsoft-azure-training-course-bundle/"
+ampWebUrl: "https://mashable.com/shopping/july-6-microsoft-azure-training-course-bundle.amp"
+cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/shopping/july-6-microsoft-azure-training-course-bundle.amp"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 97
+heat: 317
+published: true
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Mashable
+  domain: mashable.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
-    width: 400
-    height: 400
+  - url: "https://mondrian.mashable.com/2020%252F07%252F06%252F63%252Fb36e08d8365d4d26bb30d80ce53619a5.7d439.jpg%252F1200x630.jpg?signature=bkqooSUHAbc-Ng2tbGWz95e7GsA="
+    width: 1200
+    height: 630
     isCached: true
-    title: "Course 552241-A: Microsoft Azure Big Data Analytics Solutions"
 
 related:
-  - title: "Learn Microsoft Azure with this $30 training course bundle"
-    excerpt: "TL;DR: Lead your business towards success with the Complete Microsoft Azure eBook & Video Course bundle for $29.99, a 95% savings as of July 6. It's no secret that most industries have been ..."
-    publishedDateTime: 2020-07-06T14:22:00Z
-    webUrl: "https://mashable.com/shopping/july-6-microsoft-azure-training-course-bundle/"
-    ampWebUrl: "https://mashable.com/shopping/july-6-microsoft-azure-training-course-bundle.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/shopping/july-6-microsoft-azure-training-course-bundle.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 97
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F07%252F06%252F63%252Fb36e08d8365d4d26bb30d80ce53619a5.7d439.jpg%252F1200x630.jpg?signature=bkqooSUHAbc-Ng2tbGWz95e7GsA="
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Become a Microsoft Azure pro with this $29 bundle"
     excerpt: "The age of the cloud is finally upon us, and this much-anticipated era has quickly moved beyond simple online storage platforms which reduce our reliance on external hard drives. The largest and most powerful companies in the world all rely on increasingly dynamic cloud infrastructures in order to develop and distribute various apps and digital information,"
     publishedDateTime: 2020-07-22T18:12:00Z
@@ -103,6 +84,20 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/04SMpjyONF9bbgB7e55Fws6-1.fit_lim.size_1200x630.v_1595319685.jpg"
         width: 1120
         height: 630
+        isCached: true
+  - title: "Course 552241-A: Microsoft Azure Big Data Analytics Solutions"
+    excerpt: "A is a two-day instructor-led course is intended for data professionals who want to expand their knowledge about creating big data analytic solutions on Microsoft Azure. Students will learn how to design solutions for batch and real-time data processing."
+    publishedDateTime: 2020-07-01T21:48:00Z
+    webUrl: "https://docs.microsoft.com/en-us/learn/certifications/courses/552241"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
+    images:
+      - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
+        width: 400
+        height: 400
         isCached: true
   - title: "Save 95% on the Complete Microsoft Azure eBook & Video Course Bundle"
     excerpt: "We have a great deal on the Complete Microsoft Azure eBook & Video Course Bundle in the Geeky Gadgets Deals store this week, you can save 95% off the"
@@ -189,6 +184,6 @@ related:
         height: 558
         isCached: true
 
-secured: "CUyrRsDa+/pdaRFQy2Z8Z/kFVhHwP+tiyt23oJZ06XWwBFRuFQxiid9ebKLWx5Ke74iGR07RHRXFno+xCEb4V2TY6XVkhRZBmQqciaLwMnXqUGPKbqSCCzlX/ZKN0CHnc43yMzFs/k+lbpRyLpe3ZWXPZbLTK1sKOeRWkCrO3pIYa6cK0AnPRoD3d5kWGUOHj6aNSwi2ceKQBM1kbbPATx332yDEiMys+OflfbjJpG3f9QUS39gPVxkFzgA0bVCHYRCuGnGHVbYI/BJJlWkgTPGzC4Jd2MgR6RVWjyTzFDlHM8usEIF3fLLR42wGAs2d/rFZ/ErClnbUF80Z3IcBrQ==;nkgCssbpYRZMIN1W2p/51A=="
+secured: "XcTV9Omj+UoV+HBPmZR6l0dMpgSG+KPBRLokac7XVyggUN2FV1MOd9tZ6OhOphGTULYIgD3JV4yRtkzBw3YO/8q6SEvxWwAORtot6Ffk2e1IH8dZZ1/9DIO9F4amDZQQu41DR/G6NduoBcJJsqEYI9nXdqtvO7szbpp39mb1BUq3d7n3HaFvb6+DwN9wAamMFThT/RmpWzDF0IBkkepGijzjUr23X8CGLucElAx9S2j8FtrtjsCV+rv7pfLTSR6pW3YT63XVxaepsFYIlpKjk+2DxZvHKTm4dg2x4du1VyMl4FPmIr1jGiVLkEC6k62IxiKk0d9V4BO4fqA8XOZYWw==;JcNr+nRJxI/8qObBt48LOQ=="
 ---
 

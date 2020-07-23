@@ -72,20 +72,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 77
-  - title: "Train to Land an In-Demand Microsoft Azure Job with The Help of This Bundle"
-    excerpt: "15+ hours of video content and 5 ebooks can help get you up to speed on this cloud computing platform."
-    publishedDateTime: 2020-07-09T20:28:00Z
-    webUrl: "https://www.ign.com/articles/train-to-land-an-in-demand-microsoft-azure-job-with-the-help-of-this-bundle"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 35
-    images:
-      - url: "https://assets1.ignimgs.com/2020/07/09/sale-29760-article-image-1594323751475.jpg?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Microsoft and Citrix Partnership Shifts to Citrix Workspace and Microsoft Azure"
     excerpt: "Microsoft and Citrix this week outlined the current direction of their longtime collaborative partnership efforts."
     publishedDateTime: 2020-07-15T22:11:00Z

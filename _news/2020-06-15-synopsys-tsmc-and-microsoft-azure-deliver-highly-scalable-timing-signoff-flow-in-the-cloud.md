@@ -8,7 +8,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/synopsys-tsmc-and-micro
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/synopsys-tsmc-and-microsoft-azure-deliver-highly-scalable-timing-signoff-flow-in-the-cloud-1029309118"
 type: article
 quality: 67
-heat: 87
+heat: 107
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - Azure
 
 related:
+  - title: "Synopsys, TSMC and Microsoft Azure Deliver Highly Scalable Timing Signoff Flow in the Cloud"
+    excerpt: "Considerable cost savings by optimal utilization of cloud computing resources for multi-scenario analysis Detailed whitepaper authored jointly now available on TSMC portal to jump start customers on running cloud-enabled signoff flow Synopsys,"
+    publishedDateTime: 2020-07-11T15:47:00Z
+    webUrl: "https://www.cnn.com/business/newsfeeds/prnewswire/202006151100PR_NEWS_USPR_____SF33772.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 47
   - title: "Synopsys, TSMC and Microsoft Azure Deliver Highly Scalable Timing Signoff Flow in the Cloud"
     excerpt: "Significant throughput gains with PrimeTime timing signoff and StarRC extraction for multi-scenario, distributed processing runs Considerable cost savings by optimal utilization of cloud computing resources for multi-scenario analysis Detailed whitepaper authored jointly now available on TSMC portal to jump start customers on running cloud-enabled signoff flow \"With increasing design complexity due to advanced process technologies,"
     publishedDateTime: 2020-06-16T17:37:00Z

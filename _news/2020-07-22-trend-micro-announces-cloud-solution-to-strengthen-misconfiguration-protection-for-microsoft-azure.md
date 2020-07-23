@@ -17,33 +17,65 @@ topics:
   - Azure
 
 related:
-  - title: "Quisitive Has Earned the Modernization of Web Applications in Microsoft Azure Advanced Specialization"
-    excerpt: "Quisitive Technology Solutions Inc. (Quisitive for the \"Company\") (TSXV:QUIS), a premier Microsoft solutions provider, today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization,"
-    publishedDateTime: 2020-07-18T19:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/quisitive-has-earned-the-modernization-of-web-applications-in-microsoft-azure-advanced-specialization-2020-07-14"
+  - title: "Become a cloud pro: Microsoft Azure certification prep bundle is 97% off"
+    excerpt: "Online instructional bundles like the Complete 2020 Microsoft Azure Certification Prep Bundle are great starting points for joining the ranks of these in-demand Azure specialists regardless of your previous experience in tech or IT. And this particular ..."
+    publishedDateTime: 2020-07-17T20:19:00Z
+    webUrl: "https://www.zdnet.com/article/become-a-cloud-pro-microsoft-azure-certification-prep-bundle-is-95-off/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/become-a-cloud-pro-microsoft-azure-certification-prep-bundle-is-95-off/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/become-a-cloud-pro-microsoft-azure-certification-prep-bundle-is-95-off/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
+      name: ZDNet
+      domain: zdnet.com
+    quality: 96
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/05/27/30b4c6f7-2493-46a3-a96e-036d37d7b5dc/2020-05-27-at-2-12-29-am.jpg"
+        width: 1432
+        height: 1070
         isCached: true
-  - title: "Apptio Launches Rightsizing Recommendations for Microsoft Azure"
-    excerpt: "July 21, 2020 /PRNewswire/ -- Apptio, Inc., a leading provider of technology business management (TBM) solutions that help organizations analyze, plan, and optimize technology spend, today announced rightsizing recommendations for Microsoft Azure SQL ..."
-    publishedDateTime: 2020-07-21T13:04:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/apptio-launches-rightsizing-recommendations-for-microsoft-azure-301096563.html"
+  - title: "Dive into Microsoft Azure and Prep for Key Certifications with this Training"
+    excerpt: "Microsoft Azure is kind of a big deal. The cloud computing service drives virtual desktops, communications tools like email, content delivery networks that ensure your files are always available ..."
+    publishedDateTime: 2020-07-18T16:12:00Z
+    webUrl: "https://futurism.com/dive-into-microsoft-azure-and-prep-for-key-certifications-with-this-training"
+    ampWebUrl: "https://futurism.com/dive-into-microsoft-azure-and-prep-for-key-certifications-with-this-training/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/dive-into-microsoft-azure-and-prep-for-key-certifications-with-this-training/amp"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Futurism
+      domain: futurism.com
+    quality: 54
+    images:
+      - url: "https://wp-assets.futurism.com/2020/07/sale_25748_primary_image_wide-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Halliburton to close its data centers, move to Microsoft Azure cloud"
+    excerpt: "One of the world's largest oil field service companies, Halliburton joins a growing number of companies that have turned to the cloud to maximize their ability to extract fossil fuels. \"The scientific consensus is clear."
+    publishedDateTime: 2020-07-17T16:33:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/halliburton-close-its-data-centers-move-microsoft-azure-cloud/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
     quality: 37
     images:
-      - url: "https://mma.prnewswire.com/media/82080/apptio_logo.jpg?p=facebook"
-        width: 2421
-        height: 1270
+      - url: "https://media.datacenterdynamics.com/media/images/FrackingHalliburton.width-358.jpg"
+        width: 358
+        height: 268
+        isCached: true
+  - title: "Train to Become a Certified Cloud Professional in AWS, Azure, Google Cloud, and CompTIA"
+    excerpt: "Much like the last course, this one also prepares you for a valuable professional examination. The AZ-900: Microsoft Azure Fundamentals exam is designed for candidates looking to demonstrate foundational-level knowledge of cloud services and how those ..."
+    publishedDateTime: 2020-07-22T13:44:00Z
+    webUrl: "https://www.ign.com/articles/train-to-become-a-certified-cloud-professional-in-aws-azure-google-cloud-and-comptia"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 29
+    images:
+      - url: "https://assets1.ignimgs.com/2020/07/22/sale-31344-article-image-1595422739070.jpg?width=1280"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "MZtdxps49MCcZQCLb2rey4HFyBqU8zp2heWW0wUoJoLbQjau2nbk4FWeP+rLUk9bIc3keClAjMMiUvoghmr3Xe7N4E3mKwY4uw7rAUAbuBYSa21pMBTga+nvM7JzAMy1HuVEbh+AVBXQC4/qT/UBQ2JiLEjdDRWH+Ao5FF6EXl8Ypk/0FdYPEJyY8T1fx9YH7AnCjqVR73iiIxXtFi18AyVAS1eR5fHSZOmtSD8KOBlpIh1gCtJGhrmuKn1n1fzZBUL6mWC5cW4ANTctDVqBkqVU0CCdbB0CnkdKqOvhPXuCLLdLKeh8JpkgEHiEotluW242eTq6+Xneybo6Y+92cg==;JjPH5NGDJ88Fp6bZAgld8g=="

@@ -8,8 +8,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/become-a-cloud-pro-microsof
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/become-a-cloud-pro-microsoft-azure-certification-prep-bundle-is-95-off/"
 type: article
 quality: 96
-heat: -1
-published: false
+heat: 176
+published: true
 
 provider:
   name: ZDNet
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Become a Microsoft Azure pro with this $29 bundle"
-    excerpt: "The age of the cloud is finally upon us, and this much-anticipated era has quickly moved beyond simple online storage platforms which reduce our reliance on external hard drives. The largest and most powerful companies in the world all rely on increasingly dynamic cloud infrastructures in order to develop and distribute various apps and digital information,"
-    publishedDateTime: 2020-07-22T18:12:00Z
-    webUrl: "https://www.engadget.com/microsoft-azure-pro-29-175557785.html"
-    ampWebUrl: "https://www.engadget.com/amp/microsoft-azure-pro-29-175557785.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-azure-pro-29-175557785.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 97
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-07%2F5f230920-cae3-11ea-bfef-778d07aa6eb4&client=amp-blogside-v2&signature=38826b0409ecad8de954a4e01e40c23407387c1a"
-        width: 600
-        height: 350
-        isCached: true
   - title: "Dive into Microsoft Azure and Prep for Key Certifications with this Training"
     excerpt: "Microsoft Azure is kind of a big deal. The cloud computing service drives virtual desktops, communications tools like email, content delivery networks that ensure your files are always available ..."
     publishedDateTime: 2020-07-18T16:12:00Z
@@ -61,6 +45,43 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Halliburton to close its data centers, move to Microsoft Azure cloud"
+    excerpt: "One of the world's largest oil field service companies, Halliburton joins a growing number of companies that have turned to the cloud to maximize their ability to extract fossil fuels. \"The scientific consensus is clear."
+    publishedDateTime: 2020-07-17T16:33:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/halliburton-close-its-data-centers-move-microsoft-azure-cloud/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 37
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/FrackingHalliburton.width-358.jpg"
+        width: 358
+        height: 268
+        isCached: true
+  - title: "Train to Become a Certified Cloud Professional in AWS, Azure, Google Cloud, and CompTIA"
+    excerpt: "Much like the last course, this one also prepares you for a valuable professional examination. The AZ-900: Microsoft Azure Fundamentals exam is designed for candidates looking to demonstrate foundational-level knowledge of cloud services and how those ..."
+    publishedDateTime: 2020-07-22T13:44:00Z
+    webUrl: "https://www.ign.com/articles/train-to-become-a-certified-cloud-professional-in-aws-azure-google-cloud-and-comptia"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 29
+    images:
+      - url: "https://assets1.ignimgs.com/2020/07/22/sale-31344-article-image-1595422739070.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trend Micro Announces Cloud Solution to Strengthen Misconfiguration Protection for Microsoft Azure"
+    excerpt: "PRNewswire/ -- Trend Micro Incorporated ( TYO: 4704; TSE: 4704), a global leader in cloud security, today announced its Trend Micro Cloud One™ – Conformity offering is now available to Azure customers,"
+    publishedDateTime: 2020-07-22T12:00:00Z
+    webUrl: "https://apnews.com/PR Newswire/696b9c4821af9f21bf525b280a285899"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 3
 
 secured: "83h5HzTVuhfR9+QTxUauV4TgPohxYff8m+eBykZlQ7ZopvuW419aFHNOf+sNfposzBYJgwHlVSPtDY36KD4Cs6WE9xyqNUWl5UUiLR02FGQ7/79S+Yc3Cwp7NchFN6mN3YQzwwiRL4w0Fx2CRuOmyP0mzguX3D37oN5RXwqhczBnKGRf81skuWnSz/XFotvoYg1kkZF6O7UrbRFd/dYJzq8Ff6ikP6u7+Rqm/8oc+iQdtYtawQ1t6oCAKjL0grPe59kh27bNl1yBhZMaJcyRf2MzAESe/md9FBYtVV8UaX2KFEvYPX2mc9vi2sqp5I1p2sx7SJqX+2RIqZPHxHXbh7gMRbjYgD0yrkJPznM1iVvjHLoWrg7N9oQeE1bmnhmxjUx9t2jJuqAHCqIrkt2lrG49TFakG+L4PTqpu3opTVtzqXVylxYvHbnCeuPS+ZR2LzGYioZe3VIeySsJCwe3YOD0wbj5x/8TemzTnpORMnCLcfY5S4L6TwfMZd1VchRaN/bBArdknTWYPsOihvNbkA==;m0fnjH3iZ6UvxF8tYDjS9w=="
 ---

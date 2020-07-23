@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-is-working-on-an-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-working-on-an-azure-powered-cloud-pc-service/"
 type: article
 quality: 97
-heat: 277
+heat: 257
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Learn AWS, Microsoft Azure, Google Cloud With This $50 Online Bundle"
-    excerpt: "Get Cloud IT-certified on multiple platforms with this class, which contains 160 lessons and has resources that will come in handy for landing the job and succeeding once you're there."
-    publishedDateTime: 2020-07-21T12:21:00Z
-    webUrl: "https://www.pcmag.com/deals/learn-aws-microsoft-azure-google-cloud-with-this-50-online-bundle"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 77
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/04SMpjyONF9bbgB7e55Fws6-1.fit_lim.size_1200x630.v_1595319685.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Microsoft to launch Cloud PC service powered by Azure, according to report"
     excerpt: "Microsoft will reportedly launch a Cloud PC service. The service would allow people to use PCs as thin clients for Windows, Office, and potentially other Microsoft software. It was recently revealed that Windows 10X will stream Win32 apps through the cloud."
     publishedDateTime: 2020-07-20T14:45:00Z

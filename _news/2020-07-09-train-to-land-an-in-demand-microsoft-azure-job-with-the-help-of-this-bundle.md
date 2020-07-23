@@ -23,125 +23,166 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft partners with Land O’Lakes to build agriculture tech on Azure"
-    excerpt: "Microsoft’s latest cloud partnership is with Land O’Lakes, the farming giant which will use Microsoft’s Azure technologies to spur sustainable farming practices and help farmers be more efficient."
-    publishedDateTime: 2020-07-15T18:08:00Z
-    webUrl: "https://www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/"
-    ampWebUrl: "https://www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/amp/"
+  - title: "Learn Microsoft Azure with this $30 training course bundle"
+    excerpt: "TL;DR: Lead your business towards success with the Complete Microsoft Azure eBook & Video Course bundle for $29.99, a 95% savings as of July 6. It's no secret that most industries have been ..."
+    publishedDateTime: 2020-07-06T14:22:00Z
+    webUrl: "https://mashable.com/shopping/july-6-microsoft-azure-training-course-bundle/"
+    ampWebUrl: "https://mashable.com/shopping/july-6-microsoft-azure-training-course-bundle.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/shopping/july-6-microsoft-azure-training-course-bundle.amp"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
+      name: Mashable
+      domain: mashable.com
     quality: 97
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/07/1.jpeg"
-        width: 950
-        height: 632
+      - url: "https://mondrian.mashable.com/2020%252F07%252F06%252F63%252Fb36e08d8365d4d26bb30d80ce53619a5.7d439.jpg%252F1200x630.jpg?signature=bkqooSUHAbc-Ng2tbGWz95e7GsA="
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Microsoft continues to build out its Azure Cognitive Services API family"
-    excerpt: "Microsoft is adding a new healthcare-focused text analytics interface to its family of AI programming interfaces, and it's making generally available Custom Commands and Form Recognizer APIs, as well."
-    publishedDateTime: 2020-07-08T15:01:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-continues-to-build-out-its-azure-cognitive-services-api-family/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-continues-to-build-out-its-azure-cognitive-services-api-family/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-continues-to-build-out-its-azure-cognitive-services-api-family/"
+  - title: "Become a Microsoft Azure pro with this $29 bundle"
+    excerpt: "The age of the cloud is finally upon us, and this much-anticipated era has quickly moved beyond simple online storage platforms which reduce our reliance on external hard drives. The largest and most powerful companies in the world all rely on increasingly dynamic cloud infrastructures in order to develop and distribute various apps and digital information,"
+    publishedDateTime: 2020-07-22T18:12:00Z
+    webUrl: "https://www.engadget.com/microsoft-azure-pro-29-175557785.html"
+    ampWebUrl: "https://www.engadget.com/amp/microsoft-azure-pro-29-175557785.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-azure-pro-29-175557785.html"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: Engadget
+      domain: engadget.com
+    quality: 97
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-07%2F5f230920-cae3-11ea-bfef-778d07aa6eb4&client=amp-blogside-v2&signature=38826b0409ecad8de954a4e01e40c23407387c1a"
+        width: 600
+        height: 350
+        isCached: true
+  - title: "Get this Complete Microsoft Azure eBook & Video Course Bundle at 95% off"
+    excerpt: "Leverage PowerShell to Perform Many Day-to-Day Tasks in Microsoft Azure Migrating Applications to the Cloud with Azure [eBook] Modernize Your Apps with Microsoft Azure by Moving Web, Desktop ..."
+    publishedDateTime: 2020-07-13T16:48:00Z
+    webUrl: "https://www.neowin.net/news/get-this-complete-microsoft-azure-ebook--video-course-bundle-at-95-off/"
+    ampWebUrl: "https://www.neowin.net/amp/get-this-complete-microsoft-azure-ebook--video-course-bundle-at-95-off/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/get-this-complete-microsoft-azure-ebook--video-course-bundle-at-95-off/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
     quality: 96
     images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/07/08/780add4e-19a4-463d-8d25-3a96f4f2afde/cognitiveservicesmicrosoft.jpg"
-        width: 781
-        height: 494
+      - url: "https://cdn.neow.in/news/images/uploaded/2019/09/1567329629_azure-6_story.jpg"
+        width: 760
+        height: 428
         isCached: true
-  - title: "Microsoft and Samsung partner to digitize building maintenance via Azure and smart appliances"
-    excerpt: "The companies will pair Samsung’s smart home appliances and devices with Microsoft’s Azure cloud technology, with the aim of improving building maintenance practices. “This collaboration with Samsung opens up new opportunities for further innovation ..."
-    publishedDateTime: 2020-07-13T17:12:00Z
-    webUrl: "https://www.geekwire.com/2020/microsoft-samsung-partner-digitize-building-maintenance-via-azure-smart-appliances/"
-    ampWebUrl: "https://www.geekwire.com/2020/microsoft-samsung-partner-digitize-building-maintenance-via-azure-smart-appliances/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-samsung-partner-digitize-building-maintenance-via-azure-smart-appliances/amp/"
+  - title: "Accelerating ATO in Microsoft Azure"
+    excerpt: "While your cloud provider manages security OF the cloud, security IN the cloud is the responsibility of the customer. During this on-demand webinar, Microsoft Azure’s Chief Information Security Officer for High Security Clouds, Mr. Richard Scher ..."
+    publishedDateTime: 2020-07-09T03:51:00Z
+    webUrl: "https://www.infoworld.com/resources/205509/accelerating-ato-in-microsoft-azure"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 86
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2016/04/IMG_9235-1240x827.jpg"
-        width: 1240
-        height: 827
-        isCached: true
-  - title: "Microsoft and Citrix commit to moving on-premises Citrix users to Azure"
-    excerpt: "Microsoft and Citrix have been partners for more than two decades. On July 14, Microsoft provided an update on its ongoing Citrix relationship, a week ahead of Microsoft's annual Inspire worldwide partner conference."
-    publishedDateTime: 2020-07-14T16:58:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-and-citrix-commit-to-moving-on-premises-citrix-users-to-azure/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-and-citrix-commit-to-moving-on-premises-citrix-users-to-azure/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-citrix-commit-to-moving-on-premises-citrix-users-to-azure/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: InfoWorld
+      domain: infoworld.com
     quality: 77
-  - title: "Microsoft and Citrix Partnership Shifts to Citrix Workspace and Microsoft Azure"
-    excerpt: "Microsoft and Citrix this week outlined the current direction of their longtime collaborative partnership efforts."
-    publishedDateTime: 2020-07-15T22:11:00Z
-    webUrl: "https://redmondmag.com/articles/2020/07/15/microsoft-citrix-partnership-shifts.aspx"
+    images:
+      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Learn AWS, Microsoft Azure, Google Cloud With This $50 Online Bundle"
+    excerpt: "Get Cloud IT-certified on multiple platforms with this class, which contains 160 lessons and has resources that will come in handy for landing the job and succeeding once you're there."
+    publishedDateTime: 2020-07-21T12:21:00Z
+    webUrl: "https://www.pcmag.com/deals/learn-aws-microsoft-azure-google-cloud-with-this-50-online-bundle"
     type: article
     provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 33
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 77
     images:
-      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/140813VRTCloudOrchestration.jpg"
-        width: 647
+      - url: "https://i.pcmag.com/imagery/articles/04SMpjyONF9bbgB7e55Fws6-1.fit_lim.size_1200x630.v_1595319685.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Course 552241-A: Microsoft Azure Big Data Analytics Solutions"
+    excerpt: "A is a two-day instructor-led course is intended for data professionals who want to expand their knowledge about creating big data analytic solutions on Microsoft Azure. Students will learn how to design solutions for batch and real-time data processing."
+    publishedDateTime: 2020-07-01T21:48:00Z
+    webUrl: "https://docs.microsoft.com/en-us/learn/certifications/courses/552241"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
+    images:
+      - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Save 95% on the Complete Microsoft Azure eBook & Video Course Bundle"
+    excerpt: "We have a great deal on the Complete Microsoft Azure eBook & Video Course Bundle in the Geeky Gadgets Deals store this week, you can save 95% off the"
+    publishedDateTime: 2020-07-07T12:10:00Z
+    webUrl: "https://www.geeky-gadgets.com/save-95-on-the-complete-microsoft-azure-ebook-video-course-bundle-07-07-2020/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 37
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/07/Complete-Microsoft-Azure-eBook-Video-Course-Bundle.jpg"
+        width: 700
+        height: 526
+        isCached: true
+  - title: "Microsoft Azure launches medical data-mining tool"
+    excerpt: "Microsoft announced July 8 a new artificial intelligence tool for its cloud platform Azure that allows developers to analyze unstructured medical data, including clinical notes, clinical trial protocols and medical publications."
+    publishedDateTime: 2020-07-08T15:00:00Z
+    webUrl: "https://www.beckershospitalreview.com/data-analytics/microsoft-azure-launches-medical-data-mining-tool.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 37
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/data-analytics/2.jpg"
+        width: 400
+        height: 300
+        isCached: true
+  - title: "The Complete Microsoft Azure eBook & Video Course Bundle (95% OFF!)"
+    excerpt: "Lead your Business toward success with The Complete Microsoft Azure eBook & Video Course Bundle, featuring over 15 hours of video content and 6 ebooks on Azure Cloud solutions, integrations, networks,"
+    publishedDateTime: 2020-07-08T04:02:00Z
+    webUrl: "https://www.geeksaresexy.net/2020/07/07/the-complete-microsoft-azure-ebook-video-course-bundle-95-off/"
+    type: article
+    provider:
+      name: Geeks Are Sexy
+      domain: geeksaresexy.net
+    quality: 37
+    images:
+      - url: "https://i2.wp.com/www.geeksaresexy.net/wp-content/uploads/2020/07/azure.jpg?fit=600%2C450&#038;ssl=1"
+        width: 600
         height: 450
         isCached: true
-  - title: "IFI Techsolutions Recognized as a Finalist of OSS on Azure 2020 Microsoft Partner of the Year"
-    excerpt: "IFI Techsolutions today announced it has been named a finalist of OSS on Azure 2020 Microsoft Partner of the Year Award. The company"
-    publishedDateTime: 2020-07-13T19:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ifi-techsolutions-recognized-as-a-finalist-of-oss-on-azure-2020-microsoft-partner-of-the-year-301092416.html"
+  - title: "Reminder: Save 95% on the Complete Microsoft Azure eBook & Video Course Bundle"
+    excerpt: "Just a quick reminder for our readers about the awesome deal on the Complete Microsoft Azure eBook & Video Course Bundle in the Geeky Gadgets Deals store. The Complete Microsoft Azure eBook & Video Course Bundle is available in our deals store for just $29 ..."
+    publishedDateTime: 2020-07-09T11:05:00Z
+    webUrl: "https://www.geeky-gadgets.com/reminder-save-95-on-the-complete-microsoft-azure-ebook-video-course-bundle-09-07-2020/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 33
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/07/Complete-Microsoft-Azure-eBook-Video-Course-Bundle-1.jpg"
+        width: 700
+        height: 526
+        isCached: true
+  - title: "Microsoft Azure Continues To Blow Up — So This Video/eBook Bundle Can Help Make You An Expert"
+    excerpt: "All together, faithful students could expect to spend over $700 for all this training. However, the package is on sale now for only $29.99, less than $3 for each video and ebook."
+    publishedDateTime: 2020-07-06T17:35:00Z
+    webUrl: "https://www.extremetech.com/deals/312405-microsoft-azure-continues-to-blow-up-so-this-video-ebook-bundle-can-help-make-you-an-expert"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
     quality: 26
     images:
-      - url: "https://mma.prnewswire.com/media/1213735/IFI_Techsolutions_Finalist_Microsoft_Partner_Award.jpg?p=facebook"
-        width: 2560
-        height: 1340
+      - url: "https://www.extremetech.com/wp-content/uploads/2020/07/sale_29760_primary_image_wide.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "IFI Techsolutions Recognized as a Finalist of OSS on Azure 2020 Microsoft Partner of the Year"
-    excerpt: "MUMBAI, July 14, 2020 /PRNewswire/ -- IFI Techsolutions today announced it has been named a finalist of OSS on Azure 2020 Microsoft Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating ..."
-    publishedDateTime: 2020-07-14T04:50:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/ifi-techsolutions-recognized-as-a-finalist-of-oss-on-azure-2020-microsoft-partner-of-the-year-830017699.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
-    images:
-      - url: "http://mma.prnewswire.com/media/1213735/IFI_Techsolutions_Finalist_Microsoft_Partner_Award.jpg?p=facebook"
-        width: 2560
-        height: 1340
-        isCached: true
-  - title: "Microsoft price target raised on Azure growth"
-    excerpt: "Citing ongoing cloud growth, Wedbush lifts Microsoft's (NASDAQ:MSFT) price target form $220 to $260. Analyst Daniel Ives says the pandemic-related remote work trend \"is further catalyzing more ..."
-    publishedDateTime: 2020-07-09T11:35:00Z
-    webUrl: "https://seekingalpha.com/news/3589771-microsoft-price-target-raised-on-azure-growth"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 17
-  - title: "Microsoft And Partners Bring More Hyperconverged Hybrid Cloud Options To Azure"
-    excerpt: "When it comes to cloud computing, there's little doubt that we're in a hybrid world. At the company's partner-focused Inspire event, Microsoft unveiled several new hybrid cloud-focused additions to its Azure cloud computing platform."
-    publishedDateTime: 2020-07-22T17:26:00Z
-    webUrl: "https://seekingalpha.com/article/4359924-microsoft-and-partners-bring-hyperconverged-hybrid-cloud-options-to-azure"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 13
 
 secured: "t+azbA6GiU+65eMvEndEcOfWTzYC4MLGpBmPLZX5/+mje+GD1PCFzp3ykwiOY65Y3xySjeklrLl18QjoezKwRwsz4QJuuWqTDpPHkFMb/NAgMr6eMSRojG02E9O+Mo6a09YmkTjHmXngMKUHgSz+UDt2xL/LBQXrfPWNL8wszs/eQe2cqd7RaObapIib84sDTGRk2HMKr8gOmmVNUnrWaKke2zTbpC3P4BYXGyW3AaT3PmyTkZ48I0nc52H8wenbLXPsUyvDZ2svI5glcvnXryThg+YqmjrBxUAAIhmSqFW2JOvwD8C/f7RwIWQhdvnXJXX81KYvyQO6hE/F5k4oZWuhTDqdbBInoVaio/5xpMXuy1bKfAXTJeEBOTojdepv8T3VgwZH9vMwTkc1UQJkQprmtBesHIbYgJfMtVV0ZoPs8RvWtvyN6qsItW0xoHRS/p0b0dHxMjApxwGOR2XHyaIGr0UFMKGOF1mFcOFlBJJ9O+bX/RJXwWk31j9GVl2ZDtH1em40VzDsVbWnbtd6Kg==;iARGjpUdxsNa1NjxSSooRg=="
 ---

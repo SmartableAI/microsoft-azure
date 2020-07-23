@@ -71,6 +71,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 76
+  - title: "New memory optimized and compute optimized hardware options in Azure SQL Database"
+    excerpt: "New memory optimized and compute optimized hardware options are now generally available in Azure SQL Database."
+    publishedDateTime: 2020-07-23T16:04:22Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-memory-and-compute-optimized-hardware-options-in-azure-sql-database-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 72
   - title: "New general purpose and memory-optimized Azure Virtual Machines with Intel now available"
     excerpt: "Today we're announcing the availability of new general purpose and memory-optimized Azure Virtual Machines based on the 2nd generation Intel Xeon Platinum 8272CL (Cascade Lake). This custom processor runs at a base speed of 2.5GHz and can achieve all-core turbo frequency of 3.4GHz. It features Intel®"
     publishedDateTime: 2020-06-15T09:00:47Z

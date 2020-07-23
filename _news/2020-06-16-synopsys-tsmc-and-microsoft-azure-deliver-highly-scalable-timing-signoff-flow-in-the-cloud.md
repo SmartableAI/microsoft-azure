@@ -28,6 +28,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 67
+  - title: "Synopsys, TSMC and Microsoft Azure Deliver Highly Scalable Timing Signoff Flow in the Cloud"
+    excerpt: "Considerable cost savings by optimal utilization of cloud computing resources for multi-scenario analysis Detailed whitepaper authored jointly now available on TSMC portal to jump start customers on running cloud-enabled signoff flow Synopsys,"
+    publishedDateTime: 2020-07-11T15:47:00Z
+    webUrl: "https://www.cnn.com/business/newsfeeds/prnewswire/202006151100PR_NEWS_USPR_____SF33772.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 47
 
 secured: "AThK368+w7TbKFDpLadUMYJi5ITH6N7rzmUIM9LIDYTva+eu8eo8wwOiVATOzryOi+644rf7nFeWXBnnFFOTFkWzGHanREWPwqOQGZTU70UMLJNLDfhXX+eaN2Op88JTaoJWAM3+UNSx+IT6rwlFCwx1JXMOkYcbHhyOwPnit7qUBiM3edszcSwDqHp1grBsz6XWTayZ4XoKbLcnpoT5l6aJy6ftEW8rBpzUZdQCDVDqfZV+KX+E6+Qgn7BMaXulgifId6caJHs2mGEsg6G5xUKzlXJEgoffiyBQOEhGdCAS8zgPlAESdT13fz6JukbNpbsF2lDtWvRywjB63M+P7A==;2nh5j/VLlXjzacVyefVpsg=="
 ---
