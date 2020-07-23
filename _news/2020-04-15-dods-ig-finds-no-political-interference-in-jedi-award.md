@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-15T19:26:00Z
 webUrl: "https://washingtontechnology.com/articles/2020/04/15/jedi-inspector-general-report.aspx?admgarea=TC_Contracts"
 type: article
 quality: 22
-heat: 42
+heat: 22
 published: false
 
 provider:

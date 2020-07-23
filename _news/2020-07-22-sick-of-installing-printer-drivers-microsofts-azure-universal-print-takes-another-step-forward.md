@@ -7,6 +7,9 @@ webUrl: "https://www.zdnet.com/article/sick-of-installing-printer-drivers-micros
 ampWebUrl: "https://www.zdnet.com/google-amp/article/sick-of-installing-printer-drivers-microsofts-azure-universal-print-takes-another-step-forward/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sick-of-installing-printer-drivers-microsofts-azure-universal-print-takes-another-step-forward/"
 type: article
+quality: 84
+heat: 84
+published: true
 
 provider:
   name: ZDNet
@@ -25,6 +28,6 @@ images:
     height: 675
     isCached: true
 
-secured: "AwJD2v+CZIvsHc1oO6qFlb4ksadPU87oDc1y41NZRf6nX4nP7NYr06nJnexkk1716jQ8Cj0wh8saX+rHS4cfJ8gluu6zR9Sl00k6kdnDKTwmFR6FiAriP5d1z3AKJecuJLbwDq+hqJdiILkRiErjTB5M1LnpT3HeKqRNP0j6KCdz+LY6cTSAwwhTJz3VWzQ1DhOppWt+Pevz2Jp3Mlx9vwdOwKX4rcXk1Qe3CKbeaWKDMJTL7deJlAv/CSg8X/LStfQkC/pY4O16QUd9S7BYJcDxL1tRjhggV/dDqKIfNhkunOoX1tKKnn3Mw8xN55SsojCWBPNXWEcF0Vi55HrcFA==;A3t3296k3nYjtbNuKK8S6w=="
+secured: "/ZfBFVW6wobIrSm8pTw/Vxf9jrpRykj1wYUqgn/os0ui44HHZnNqoYqrCUT7WCHkMb3HjhCKyGrUSn4Gi9z09IMekq5KF2m81rDnztX70pPAp9Zt8w0lbn8APowMNOQaGJtFK4GwudBg/U/Qgmm7aYutEhhS6m49XjYLbYSPqgVYVN9zF1O+6MwJdPgLlZg9fy3cuWWUwyPsvtE4oBjbvAwtWWz9vYfRIWaT4Dt56JjxTvMwO6tbKdHL9PoN5t+vEVEUJeGiC6ifAxeKAtakxybST4N229eMlMpXFJL44izHZKEoMs0UMN+yaUt6osKJLU96IZAN/qkxqSiCJjFAc3jHR8xey4Vii03qOk0O0AYGs4cGd8aBGb1kPfqRrX4qlp98sotCgMezCdtbdORQx0AcCG2VaVHOL6qrNWolk/w5kSasezppwaDPD0KMQd+nz3s7nnEIp5T1i6WR1RGtdgmMoFIN18EgVRP9HWIOGdBtmfwFfeLdvFiftkwafaq5/I2R1bbBTEjqsjQK2POqCQ==;ItVVIEesN9uXJdRwDO0++A=="
 ---
 
