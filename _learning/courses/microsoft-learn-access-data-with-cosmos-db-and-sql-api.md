@@ -8,7 +8,7 @@ length: 58 mins
 ratings:
   count: 2256
   average: 4.653369
-heat: 54
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Insert and query data in your Azure Cosmos DB database"
 
-secured: "SPsUP/3p2hAbHTVWsksqktSKtw5toIkD0mjcrqK4Mwyq7Ha35nBBDVg59raNnN9dY19HlctkC7Ii7kMlUD4eur/whVnpvEbZrnUfv3YJL+vCk2TsGg5F7TBXHApc9dLLqaU2DxQOuziHfd44mRfPjW8/fC2VjywcrgSW70QUjbuV9xLKCY/HYWy0ATzyOqe+do2GMf6MdbRv4HWHasOUc8G32v39dFx2tCVmOOBUqinXTvROZih7g73rD0vwyzn42BbWDgyAstDrQ45ABzEmPRZ1d8iuvHH3YC4ZkySRNYCgNJ7vHDDZsHFgIbZhyiJoWlqv1/r/dDfLrSz89ofOVZfkzbl8JQ548/tC4DEWR5GRgRUqVV4/j86N+olSfWH2FEeuqbTcliwAf4CKCg3bzQ==;Nev0g/KeqkU3hpTjBFWlzQ=="
+secured: "kC79/yrHwMgM/b7RCmEc9XzxKw6a2sl5hCVdCFVls6+WfpJzYvdjZun4TrwxXMJ6rB7AAdAOTCXluO1i2s1kwiPdnGcgY4WVIwSrHhTkv6wVaii4UTmiLLCgZfSFHblO2sULJRNtFii6citNJdlNQrcpZk9vd6UFT7KtysG6SRfsvLs+IqgyoRq0Pqlb3aURZLcG6Ca+79E6W0zmshUHCdSfzVYRbdWUMGU/4kFrukZEPxyPxg0ZkXvbqaDltvaRMj9GHOMF8zxWvF2cgf0lkMmPgo9hppC1UzRJXDFHL1GH36TUZFghaPa1GbeJNN2Nhlq6ronEiSLmmsK/v5D7ykcTqD5mxFC4sVOKDVsyaXqulo/f/gDh9F36KZ7HMM+IZUc86CafwhN60vE4MdSdAw==;gSc4I/h/f6mO0LhQMYuyZA=="
 ---
 

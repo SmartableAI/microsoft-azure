@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT1H20M
 ratings:
-  count: 4376
-  average: 4.742459
-heat: 62
+  count: 4378
+  average: 4.7425766
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Create a build pipeline with Azure Pipelines"
 
-secured: "ge9jY/lZSBfgKQHDwoQnj5IjvpwNQIK5u0j4vUATsbMvmwHECvWxEjxloZgzHVqO63BCKcQYYLatuEZXVmU1Msh7JJ/9Tu390WS3WqWPV6oMgf+JiBSZW3OUHwebnI6/3wguAiveO2A6KAcBWnEme/yoUWlVVjlnTfwiZTpA/MMvFnMTznmxvCLU+LiHD7YBoVuWq4Si7hmAbh9mlX2U6WsxTHrX69pWnaU+xhZzKUrZ+MyUpSuqWc/cYAz0aXqbMvICWYAWQX44Ve/GmK/EV1P6Tg/B+L0PU7cqIhPUjZkoPLDx3kxmtc31ckIYbyKb2gbmWoNvvCev6Uux+w9EeNuGpBT19OQSntMfrukhLOfxjX9slopFcRbYfiq9j7UFfcOHvliWXmcdainIfJ43/g==;TXhZvK1zTTCNdGI/CWRLDg=="
+secured: "/uZmrsGHPK1D10ydcRvwHNzl1ihgjoldToIDOotpWsJ90h9tBUS36t5puLC2OJXyuTqCjzwGohoeA3itzNv+PyS/ml9zHHgXlQjbLdUm9P5R+56xRbXTXXKRSqwRldYAF9CnsplDvWxmzpRDgXPWKWAHqPQR7nPS4M369Gdt526lVgrueZnQhcDyWSUnQoD1cvmyupphbb98Go7km4m7uAGQZKKxFN9bFEIFsQRH/uuoPKqsz9ujTzVgddncTqyZCSEvhUY67ibFFjUAVnVDysCKkn+HnMNY7tn+VosGl9pPDv/x9ufZ/G3kF/JzVNTOLZD22c2WBfjNd4jJcFUqLb2Bl7HWEdk+RG1JRXFiZB3C4WYw8lve75Vk7KA9FDapxSGsZIXmlDITVqGF45Xi1w==;1fWAsl3TnaQE68618FwEUQ=="
 ---
 

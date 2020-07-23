@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT42M
 ratings:
-  count: 52
-  average: 4.730769
-heat: 50
+  count: 53
+  average: 4.735849
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Monitor data drift with Azure Machine Learning"
 
-secured: "Xq53zqwzmhi3h9JQGLYgKOdlvTwE4+7VDi6WLKj41jQ5sLjyfbyBSV0DZgNJtQasJD7B+PGZOKs16GjKXKolUyzYV6N32ouhyPsD6FgTM2CSQxgNY37mVvoY+EQH40m4KCFqy4mSAUenioYb24ie3CoQ4veB8dT+OrAOBdFGtvFG4PZJFBhUtszlJr7Yf0Ic3/M9qxHzBvyywKLsZNOg+TK4tEFf5Mrd0IC4VA3djuEejNmOLSNuTTP8NjWEdmQpvfGUE5WN2Wjpn4OcfbnoSkN7UNX5qRlzkMl5pkDkL2HEhAdR/I5GTBFDzb33b92bpvO+VShjtqzFfipV/ffvDEtwcSvDWf7Et6ePHaRJHPw7+RtM36IZpxZFVdaGmMdygYIxSe0VYmKfYdq9I9BvoA==;bV6Ett8MzIXwCMFOQ4eGvg=="
+secured: "NfDKNMiJ3ck/r6jfKE4jMiPYkWgYZ67QnIHGeeu5rx4xVBaK4oIoUVBNkW95urWxaPausgoXgiQkCs97zH+FiOSSHIiCsv3HeBnT6ucboI7xM0LJXFy01rV3amU8aItu7L8PgyY/saCQkmiTUzM60EGCdJSFdxxt356ZDGVtK39nGuNg6YaTxmewvOAo4oXYcqOwOnLpEUmwPuz5/TLoQ5pf1t/D03ywDChzNkDfFCl6ojh2XQQ/edAyFfjBtQSvyUzT5EUiJ0rM9PV6TLsIuQFGbmyXgMLIik/VkfdWwClemaKnboMmlseZTPWodtxbCmGsBF+JDd3j4QgbYaiNCxqciYdOLf1SoeEfqYW6nxio+jOEu8EazT09x0LJxuQsXEjmn8JrrdD8ix4q2niQcw==;q5NmUmUCnkS2onk+S9Zq3Q=="
 ---
 

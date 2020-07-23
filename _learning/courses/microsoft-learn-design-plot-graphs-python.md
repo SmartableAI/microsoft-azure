@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Design and plot graphs in Python"
 
-secured: "968t5dtE+d24KlBwWcF6v6NQrQRufPPC0RS8tBWt2YTgoQyNorrKu0COoC6AVJTJMuQpU3z0tXmLosYbeWzF5qQRkTWseiDg/oHyx/NoeFJLSzi1oXHXhm6OUNR+lCudHQNoJxJYnhEf57mf8wb6qQh6wYzhYjOGrlQ+WgoWsuUwU4Cz5gEfNGILH9x4kr2rWMzYpINFrkY4DstMwEwBZ6Af4Z6Ex5lduR62Gx7i72oIw1MN9CdNLJq2XBaeDIzwXuQBhSeY2UYnSb5D4eQzZ4Tf5hte5zy4/Jy8WhGbKEt+FRA3TPqk+mNDgRvn6sRn56JTtwASGjb4nV1cOo+9iGlauxKTBuhYIIpa7I0C8dDuyjO0Tn0MLZ0aft4z+KgBWh21rQ+NGMZa0J2SAmvTBQ==;bBe4vd2G3I0n9unjU+80yQ=="
+secured: "PCVOUEiow3xVmCTohdkFyC98mYUuezz1/W/7exQA2cFfKeHnIkTl5zC1lVBzfO/9MLQXpZZvrAG4tmNgyplATvSzPIj+4CSMQ1N1KVjO1OYaWj1oOi/Fnt145QgCTb3uo1Aja5FcrKc8VwD/5AD2zJOzaw2pU6Vkl4je9cvsEbkD4KCL9u8UHCicmKOq+QRl6f7iLWv/V1c+DS6eJFj+kGGrcc/qLAz7+IEqD0bfKMbTeJ2bKni4k2grkxH8J1/YdfGq5M4iiKd8WS9MKCW2yWrntXb5kV5+EDvknozq8eFuDGNPznyC9sVwawKt/b7nE1+guYN7M/NHn7TKhd4OJ69JakZL2Uo6/l2gzPld+FyfkKskAkTTqkJ1vcslLDO6EpZU+hDKWsM+hVq0k8oDfg==;RSh6go4VGypeEiFb4D0MQQ=="
 ---
 

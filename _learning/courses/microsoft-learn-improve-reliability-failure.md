@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT34M
 ratings:
-  count: 28
-  average: 4.428571
-heat: 50
+  count: 30
+  average: 4.4666667
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Improve your reliability with modern operations practices: Learning from failure"
 
-secured: "J2ESYS5yDmcXv1NbgR8Qh7CehxDuD5xVy3evsSFFn+8bFqdybyir6glJYoEIYFXWKQK15K700EhaYU29yhwQkNQebcJxLRCXy2Vb0op7VmbFXcFrUpO8QUN+tpO6u5KP5R/yed71gyWyWU447mA7fKAgUVQpjBXqmK6SrSk9pSnprFIETcBMlVz+MKhsY4t/eo3VKaYah5kVdI1e4cRPHm7zVP1EevFo3tQzK5nlBQMkXmuNl1xV9KG3Luc4wUUwdDz2J6MkrhmufWlju74NgpPVEEwter4+GNZf3ii+FLx6z5tV5rPz+wcsouAf65xshB4B616wjxU+GKbeg6XRLJtMO48CnRnQoSlfcXnSWQCGLmN7mjhFFs6QOt+g4X4tjwjHMeAXJnJ6zwha6B26Dg==;3bglP1iixj7pRVz39SYO2A=="
+secured: "5h9lqOl9+ClkARE3Gu8tE4p3MdHkD+JExV0MP72xPNHBMLiXgewzKxate88uxsPWvxC4pF/oEST4fh5cvBtqQKwlrWmtXzGZHWLnLcij4gr1E9/pRM+CuCUDimeAxpNhgkGUd7BXN7RBcazgfdyQ5ih994xAX/WhSaYx0ltRfDMyPZe7HUy2oxWDekoNVQca4zcWvpl81bkNTQT0AjhBHo0VUnGsM2sFoBi+P88RXNng72r5aapg3aWzsx0eAOTWQHg3pRIZ1pvcsoIhTYyRS+Hb1DJmZ6Zs5CjMGJSCVwraFhfKWMGC3mSeqQG4JXn0aOmZuEa3vhG5zr5tcxI9POfsqX/ZC0uBFdH8s+CZA4vvqWk7Y/d+3MAAFF7kLGPSvQ/wMt9266D3eCW4G6w78Q==;DHzS+qXHuVng5XeHdFx6oQ=="
 ---
 

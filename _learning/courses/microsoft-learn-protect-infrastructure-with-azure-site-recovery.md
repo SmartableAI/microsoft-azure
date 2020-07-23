@@ -8,7 +8,7 @@ length: 59 mins
 ratings:
   count: 561
   average: 4.5151515
-heat: 55
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Protect your Azure infrastructure with Azure Site Recovery"
 
-secured: "WJXjbg847ynjJEEj1bFo3dmUrdGf7h8v84mmRnDRl5L7t1D6VrBx+NLiT4pwAdZd0WP7MCpbUJZ2PNLC0BlykGYNk3nIEZmByNl2lKhInbaKY/uapDeiPdYtChWHOXBaDOw5HKCTiNqi92vWrOpB7QiCKBwdtfyrQM77DKSW6+jYjcKfeys4GLqyUnHsKuH69Tavej7GCSZccjwTGbUoISWb7DV0/a/ANolkUKHqpl8hAQsvWluuH9i966iMdtk1Qx8V4rJjHKOvjrOzEF3w1/5nDzsgnYP9PIkswv0zP32VzZPcFsEMvcrx3utubG8M630pw0L9qmTMvbmE0o7ZMeShGuk2FtbZZKx+UKw7xVyc1KkOT6Pq4FYvyuUd0Ur33+wrpkBh2q9lKAnhGOACJw==;qwaucBNbQ+P/+Gf58UhIrA=="
+secured: "e+/StYqC862lXJaaadx/GO29b2ut2Qaqyp8093owumN2EywmJcGKVBog38+/1QsFrIZXFfyCXN/aCoQIcMArP1mXBn9tBoKkHQXp2j8ico+ZeYFbVHcFFbgfrWd7acbjN8EZ/FOPkaM2wqkaNJpWLC5stpLcxzZGOxk/kYTmT+D/tuXmzRcYP3B2b+4gncAqHkhnbRMD1EhZnb4SF5OwQ2cLcHBV4M4tK5I1kFj5fhQr8Sm+kqwnREfORiL7FVNV+aesTjSsUjpumwSq2eFslC6+1TXrXvdNi09b4GS5+yPJ/ZgnmEz9s4sVlZEHta5P8KT/IS7nteOzm2xhLEBvQM087vtboBcy2KcrfSihm0F25zxVfobCOXQH03jx2CtLxoUVFb3X5iC7h/c9NySvtw==;UcBwzoatPF0HgasDlI3K9Q=="
 ---
 

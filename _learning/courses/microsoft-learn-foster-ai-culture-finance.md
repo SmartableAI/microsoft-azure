@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 39 mins
 ratings:
-  count: 608
-  average: 4.8125
-heat: 50
+  count: 609
+  average: 4.811166
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Discover how to foster an AI-ready culture in finance"
 
-secured: "OQ44Lm7d/LU3PjsQiaYUKh3XPSNUa4aN/fD7Ke0+Zy0fH8AE9MxAE2O9h6jq9bm/FyGTfssBsdAdFR3V5XgVyp2mQiN8cYLwGknhfiZmq0ZsNmQMr5d/G4ffTv76TBL6/Yu0g7qRmMf6VR9ojJ0vQqRT/68r54+Q0rrUHVaZm+lCSQvTYzWlJ+MiBrmZ0lZWlHmhwXlZ/i5dXSq8EmrYXffjJoTIGkTgWkXjsG271kgitzmmBJGZFRt6JHZjnDP2Eq1HeF2kdcoSVGa87m6VYp67evlpQEe0BF7TThT3aaAvzwbT4oM8BN2Cq7Noad5fyKY3RmYndeV0VdVSJfrURDKKMnRmn7Q0MYMe4k9p859NKLPzOJmtQkXXMi64VfMP0/2v9mP2oCV/dL9VkIwFXw==;+7buINl4CpVsP82BJtIgnw=="
+secured: "A+08EbLbrvathaABj1ZEIccCOHduXMGC1LU4YzH55OCBNMo+8d4Ew18HEi0j6PSw/+PnqXtLRua3QfseDeHyuLrSsKxsMUtM/zRuATxoLSdmb8O/kF0tr0W4GVc9UXWuYnmPpnySvrdgFCGHgbE3PTN7+GACLLYmBieBeiSpR20tOifqMmwZFDZVGJt7BzSrq/Ey+kQkLjt8368jGyPYWi32jhFG5NE3RuZNF8hnCjT3bmV/6aBBMy8DpAuGMElwVQtMuNWv/hL8b0VXOICltX9RM8evTPLTmms25kV2RJSvzgCigqstwPI1UdYBmL8Rzj6ojikhHLjCHmWVr3KQxxZvDuiRuTxa/P0bOJpwugiKAAFaBm5zbzB9dewf/Q6le+Dg/o27seoQwnadrLoK7w==;J0E+RAVFfy/vSbQrG9+Smw=="
 ---
 

@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 8 mins
 ratings:
-  count: 1470
-  average: 4.7095237
-heat: 58
+  count: 1471
+  average: 4.709721
+heat: 61
 
 provider:
   name: Microsoft Learn
@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Azure
+  - Identity
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/introduction-to-identity-and-access-management-in-microsoft-365-social.png
@@ -31,6 +32,6 @@ images:
     isCached: true
     title: "Overview of identity and access management in Microsoft 365"
 
-secured: "eGQjDjwfZazdjjghxHVGrIfi/HvCWfPSQXvCwzx5IdVhO862aIjCXR7ib3yiYPjht85DyjCMO6NDAzYRjWanLOkfYiyPIlp5bKg1qY6l4VbEzq3J5/ixgRPJcrG7yChqJdJix34fOF5b10EyIUvS+Kd/hozAb40pjRScz2K/p1UVD5IxayDrB0M4Bl3fuNGrDQC6BQz0wp2phVrxejQu+i6wv4PVTvHQB0JUf6gyrbO3A0NONKvOivXIr0MxXnjLSEdEVK88TJ3hmrCwKgp0BnHjWR08D9StgS4jQY2XI4LIvtfBfdjJfDHt94UokrdoylZvIpTQkOAiYR+9HyeKi97tezg0ms0gr3zbVQtOI2KwIWTYMevOAtVOBFvnSEokj4oKaiqYXhLQUvUUait7oA==;zMs33SxVl2BdUqoIhFbdwQ=="
+secured: "tppmGpWctCh7OpG6dF+IvBqSOvqc/aTBZKmY5CexOP/99CAPf8Gx2btARuVtXSqpCjQZDQ1tZDVYRwONozkvbqL2Jr6XiW6qAuKwYNcFgj5y4aRDdu4eXGsmzyheR+VCioLuHP8xS+l28laNKTm5KOpIJD4OwGD8V4WAHlKWRnxC7/m8v6xk79qQAl606jS2fb+1XYDB1IczuOUdkiCgsxFkOgszkicPireGjzCWzu2N1EF2COnEH6VHS/6CFN++0ibAvUn0q353iChPctutMatfolL9xpcJxoYomPfovzmf5AABYDc7jou/+HvEd8pl+F0/4d6pfphSIeBi2iMx2VOtcgKWz/y+/pI6SeGymim57KCHcRekn1fD0QLVesMeiwvjNzfRvA7FuNXZMNhYCw==;pXCh/WspV9fbhkjQlwheWQ=="
 ---
 

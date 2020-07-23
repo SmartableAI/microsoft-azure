@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 26 mins
 ratings:
-  count: 147
-  average: 4.734694
-heat: 50
+  count: 148
+  average: 4.7297297
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Provide Context with the Right Depth Layer"
 
-secured: "Iv51YmuFBER6W4+uZnaq5FbT8wz/XisvESYpHOb82QYr33iiJhPlNfsmg25NGz1byAawhqCbnwTxbkPezQEMeZeFiNbqXR9HtfKxRGFtPwXFcJ9hZBmi9kZFAzagg8TIucE8iuy7diWWfO/2wy3XdLGtK6U5cfwHMrwPWTjaHs3xEjwZASo/+vUFNawb1nbYuNa7tA9ng+lkspC+sYZYjsBzwmSeujQED2rsy5kc6koVt76U53TgRSyhzcg0l4QnzpD8xx939L5dTjM++XSP65PqUpoURqlV9G0IR4YCcec/JjnmFczIP+rAh7G6W2DCaiVJW9n37goj6NonfwhRQ0QD7OcKAFl83TwqUOSM2JZMBUT5bKejl13zvjfwRUzdBOQ2dESqfhZ90SjSBSEZCg==;tS9eeK3C3vK1rYxnQDIwDg=="
+secured: "dZoEUTi2MzHiAMed8573/YgDlHY3L8JZS4vuafUfD9LamS0dH5keu0dx47vAdgB+xJNeALU+Jmj7T1d6UbZM9N5bEl6Qxzz0s1gX1anMH70Ri8v0xt8PwrZcPAaI5tBB4nH1+0AL/v2Osg8bFOUq1JVdgmz1LsQdf5V5cvHcr/Uqo3C5KCdQDEelWpsueODubXH/5ekNO46/pjzm91ewe401KFF6aoQaTk74NVDrv3vuiSNc8icefCjt3Y8HXvH7jpqxXGKXtMxVY91kxxDR4Jb7yLlPWc+g/HFcjL3UQegM8xr3XPSLaGmr/BVlcWrUhCMqzYdzqLieHSSk5aLvFL+sLgtbA+mby3bOai8d1/wBP3UhsvnKmT0VucIttKEAS32cwuZM8GLLXpqFhkQplw==;MunH/OV4UiAMRqFJZ5tcuw=="
 ---
 

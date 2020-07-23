@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 50 mins
 ratings:
-  count: 605
-  average: 4.6661158
-heat: 54
+  count: 606
+  average: 4.6666665
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Choose a compute provisioning solution for your application"
 
-secured: "+pzb6bMomsr26uC/uYWCK9H/BD/zrYlPd+mKkMSp3KXGxZ1CCD4SLJWbxb/LTqhTapIasgwlnjtOQEBvfKXYPJpr0OJgZ2zvzIlcFPFwxpkNEk+m5olwyJ1Usirqc/fXZubbzgJ03m/jnOPeJ5JLqpFJQMTHNjt3Fqq+A89I3R//LX2zr3VPq7DEWTtV01RlVxIsSNLjWE+MEhvi9YhGAp/1D1qoU8ZOQ9a2owj/UiPln1kfwfEAS0wnfA/lVzCvnKmPRRF6Ta9xESsYeuJraFLImJwZdQfAO91n2rbovcJK8rM3f+uXQe10xOIBnFd0s1bc3yQqgBL1MPKISQ4aB6kCibC0NZVj0iKVyA7UnezOjR7i/M0Hlnaj4NAKArzSmWKn4fbCiHQDZCfWK1PyyA==;y65FpU+VUDWo7sELmZ1s8Q=="
+secured: "LqUCjydz+/8M0XQfeD/VSxMdPjAok2/Y9VMTYC5WJ30/Dn1NLOe/jG8lhcwouN+QXTlxcvRA6Q8PxRV97jWQvoUpIBAt+HIm0fiBs+SA3lE6dd7gH2jqpNRUeLhai2bXf0+LTzm5dTYrXP+qQ05+rv5a3LkM9+ATTwwQ72y4WK+bO04pPpjM2k+jz7Xhcq2zDtY9cbgOXNjU1ZYKjQu/Nq0qoKV9qNzQzbMlBgGhLwyZy+A4+X9WOiEUAU3uI3zEijAyo/xMPVxw+JuMQzl2CrClfF9Hg58UMHo0+/fkd2s87sqK0cTlOxDQlgbWYvudmn6tblBrM5i3njTCFoSXF43uMAWfQbEBaFeMeykGaSdkBdnlzdul7I+mssDhgg5TsOp+17fHaognsl3YtuhCuw==;wuyKLocrW+KoMwRoke77kA=="
 ---
 

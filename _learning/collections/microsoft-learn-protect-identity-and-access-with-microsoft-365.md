@@ -4,7 +4,7 @@ excerpt: "Identity &amp; access management is the foundation for a secure digita
 type: collection
 price: Free
 length: PT60M
-heat: 59
+heat: 91
 
 provider:
   name: Microsoft Learn
@@ -18,12 +18,16 @@ items:
   - courses/microsoft-learn-m365-identity-overview
   - courses/microsoft-learn-m365-identity-provisioning
   - courses/microsoft-learn-m365-identity-authentication
+  - courses/microsoft-learn-m365-identity-secure-administrators
+  - courses/microsoft-learn-m365-identity-cultural-shift
+  - courses/microsoft-learn-m365-identity-zero-trust
 
 levels:
   - Beginner
 
 topics:
   - Azure
+  - Identity
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/introduction-to-identity-and-access-management-in-microsoft-365-social.png

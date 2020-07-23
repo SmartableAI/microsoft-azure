@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT38M
 ratings:
-  count: 1721
-  average: 4.721092
-heat: 51
+  count: 1723
+  average: 4.7208357
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Scan open source components for vulnerabilities and license ratings in Azure Pipelines"
 
-secured: "vIqvYvFvvGXc5islrgS+Xe5OeWZV0Qn3NV6NNNu5plpcHu5WCfkLnzewx92GODWjA1vyV8tWeYRrbIMtKDjic4I3+7/vZ+/zGdjeIJou6YzyysAw+AfTmsUACtq3YHOY82JhieQoPKgw+xQ7QdLEt+eTXJIl9JpyW14v7FwOdHSiOS2YeH9Fu652RM+EMwpYQNP7F5pOqekZ31+XZy7p4WKhDBbH+apOwxXz9whc0BS3JZQvYRkq6mxHWLpcg1OI4h0S1nrp5zU90pjSRsYVtnHcOTwPt/Ez+QhhwdmYpBptiWlrWnqN5BBjVXvacqR5173Qb8/X4qJ+Q2X24bu5N2zS2/mArSXKwob7EguVkM/7m4zmsUac1yfoZhwp01SrZV7zzvNlTvhJOaI/c8rf+g==;PlnW2Cp+8Wvfa1ObMxamVg=="
+secured: "gEbkZ17V2L5LYxz+BFb4pFdAuxk4p8BWOObgbzB4MRd8Ai3RcUqOa0+1STbWYwnTSY6E4rU0wKZhDLXur/nq5js7auxYMOiikMsiZ3oD2DO3s+689ZBn5lGcN/q+gDSbWzh8BGNQGZzaahoyx4nl7nWqoipuFEOlBLmW/fPSjMMpKd2bcUALHm+oZZJUKgj/AlhNPVV75H6O3fPeyMkEpOzMbM/yz1PTxtiHc6PdZI/ZE0VEWRjCxbw+oS0AhpLIxSDz3cPNTnIZ8a95w3qYeFnBclGFBAd+DuF+AszLeOkXn7FNpse4VqT1YlSptcG2WI+mFc1G1HKTneGc8axMskTxCZmHq9AlYKZTleBkPBJcQPhyI9+/qSwKOengqEAGhWK1wUnu62mtu0tgMM31Hw==;g+MxKXutxYj6XAkK4bU+Xw=="
 ---
 

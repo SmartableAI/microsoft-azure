@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT1H9M
 ratings:
-  count: 36
-  average: 4.638889
-heat: 50
+  count: 37
+  average: 4.6486487
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Maintain a secure repository by using GitHub best practices"
 
-secured: "briXfvWmBySFOk+D1ZlQ4HkLpBlx0EQtXM9XaO3wPR0YLUHucanDx/5p645Dd2ZoHjl5GnIpchIwuJRc0ydEopGzdBNx8KiFnAd1RnGBKLNGKyeXBcvA8YM2tQZgRlqZXqsu6U5oqECZv5rM1Evfkt1tDigmzwTGSufdoeBFUDmPAFFCZkVctjTwMjSdSmQdHyRFAoq0A+1Kazm1ogDmTONMm+Ul/LBcj4OZ32MDWLXJWRJ6PyQm/hxsbH8MXprBgC94voWPOuePVJgULK56aZyTaZmAZYLai8VZQa0p0A8sFnRyCut4PJUJNb+rCM0TmtW3uCQ0fFpqlYKhL2R/eisjLkPxusytXpty33s8FnjujLb8EBd26uuzlwVXibJV8Qf7rdNoQvWm9c+pSsW3eg==;WV2fjqihKdPIAsnDkq377A=="
+secured: "s1OBhSZ+WQgJBGPnWB9HEupCtwMse/WikDhe/Uotwag4F3h8TbYc3oFjwvGV1IH0jzUwrrfGAfwSzx+1kkGBq8OxE36sALeUQ4hPnKoPJuDsvdufDxXumwvE6mcOEh86laFmIkdt0HBVj6p/u1UG2kMvj3T9eRnx73RSnoedi3j61L76QsINwxYgYoPhAzhE4ffskJ8xNoWIqtFz0x1dmgdukbyvOBuZ+OnJS1R+eyu3ZiFebaT+sKnjz634UuntWwNZX0vZ6b/JQLl058tTaLW/vELBRr1OKAc0HhbDLg2+YvXvFiJmrXltBsOMUAleDeyyLY0ZLbs2fryh0p9FwexcNSwgpifvcIYEW6E0GPrqjbCcxQRC9Xcv58dS5M83RCi/8403N1bVcMns3/oQ6g==;XK82+QJZhXAiDWCC0U9qpw=="
 ---
 

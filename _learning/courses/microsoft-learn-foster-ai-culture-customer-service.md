@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 38 mins
 ratings:
-  count: 469
-  average: 4.7867804
+  count: 470
+  average: 4.787234
 heat: 50
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Discover how to foster an AI-ready culture in customer service"
 
-secured: "1mj8IJ6IKz9vH9/kVPqxQreNiL72fNW+QqZGiOupczPeQf9setJ0snl5C+6/FR6yZHL8AgIU4tVIMbNvj0Jksp6OCSZwrK98sTYHzc8B7jaEQxUcI5Bg477wZihFqcLGR+3S2oWmI3ThFbz7l8gUymKoDWTgWvawKGnAtLKaeJncbtAmJz81QRXL498dClWI2fLnjCLlb8zl18X6VGcsfTz7XnQlnd/5lrwRO8xLCs3btvSK7JlYZnxKG1Sh0WUWbZ21pvkZh/IrxqjCXmDZNKZxTx4GKYCa06IoJUQqTp6u1YUapKhBywCBbCh6hKp6OMXre6aajBC7UZYHQyNt2KQTknEakyguuyGgj5Go9jRRKyVFfpQZu+Ect6CGsCTKOakQNE1rPTRaXWupyg2tJg==;BfmwqOvdhYHZczVAC+XDIw=="
+secured: "l5QWwTAy0DEZfNiGs26lhS6MzjBWNJF+iy5OAmGDqXkVUIVbrxk/Aw5V+eYU3eK8RkqEg1KVLGdJY8oGcpchOdUkyJj9TBwf2hhR4/4m9lMNv51MPT/4iJTs7o4cVQvprL0w6rl1R6d2KM5vQkQg8auhk/iv9Aqk9NaJ01N0E1t8sF3aHmI6zz3djXUYzPxU9SRFNfaUhW2bo7snhXTzX01BCBj1WUMTmr55ESDiEngLKW+mt6uzBQ2W1dDxk3vppQ6qQNoxJaS8lt5ntWq+pnIKUYbP+9co0j1DVcKK4yMFLMe1MTdOUq3wfjG9hm1AdavTyvKjpgOh+c3jplDzMt4GbASKntGWY8l+blzaoaaEFB0bE5HAkXlZSK0q/SlCjf9OdvHXe7ZDa/vgJ12CyA==;4jh0Gzgw2K4pgkAG4OANGA=="
 ---
 

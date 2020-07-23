@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Manage software delivery by using a release based workflow on GitHub"
 
-secured: "3ZH9Qk4MH07zPSdzXaBjFkGY+RRkuc7N7d27/1IutFXIQVfxH7AQN1u89y5RSDa0iGJd5f4+FNfGYJ7SUrxwJcNEUbVI1Z0ga0OXMqdNAsG2+EGZg2QI3pAdQqNqL1xh+b7/OfoVzooi5/SIJP0mgbeZSjeNYElqQjHejrMSU92ojy5wMhkAb5VXkTUhu+/Vpu/s2T/SdEqCxVkm+dMBDpSiu0y+gVvCCiEA+6Npew5IsuTtnvtYpsSQrlD0CxIUFz1frJiQxa3BXWhpvil0FE1c6Q+N5xs39Vq1u4pRqVw5XkGJdhNWrbAm+0MEezyXvRNCod31zQY22B2CgIfnr7LH7sf9+TOg6NZxM4Aop2nwQ2efvJEryEhjvjNDt5EjIr/L6s3dTonAtfPjxPdwkw==;8Scm/CQb241Q8pVhV2iPuA=="
+secured: "R9OnuXDP0anEDqfTJO/Wygy47fUIsBHBM/FVVdypWEaABwRGbZVlUaESMka7M4B66ygjnz29xNm1mSSu/AhkGh5MTe/noiuohSWKqQyzXA0Vb/IDX3CjosX729A4NnoTkh2hTSHB/3ImrE8NWy7D2VeG+KvPYucJbXUkCcj62za+c7pxkMt2Iloc4VW1ccVe6Xu4FH9ae8SdsbK8DkzED83RBq9aDeGmr4eObeJDf5Bt6X2Ure+ybEIvA6p9aDJBRC0y8b1UUwiH/lOGwolOrJMHnuKrLFHEFYRbmoHX36oe/BG9gXJY72YLF/NQ3178RQEkle08sVVnJWCU+XbmG1gXzo4Yve+LIHo1VXnkJJcTUzZ4OmRy9aNpWkSQM/1JJWO0WL97WoHpV7EXFw84Eg==;3YPgojDUumek/54vk7P1mQ=="
 ---
 

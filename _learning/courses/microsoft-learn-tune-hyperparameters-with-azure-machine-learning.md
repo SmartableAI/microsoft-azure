@@ -8,7 +8,7 @@ length: PT46M
 ratings:
   count: 58
   average: 4.62069
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Tune hyperparameters with Azure Machine Learning"
 
-secured: "bOVLrusW0XHz9RXqVwT+gpWVtrUeI1Pbd2pB5oDvgd8vZACkP4/1Q3Iq4FGDEAE8vpYLGdVdLhlvV4J2uSHScJPogKWlXRbTOcT5ZRU+T/qLOhXXmPTlUadcVY7WTCRmRQuN0WHoNmGs2E+NJ5ChQgcx9tgyLLc3S0/AVrWv+7om1ccZ8uU8Y+f47a0pffI5ZF1tU1l32TysuHuTCQjAAUnzAYG5RvVUCxvgLKMPuB51MX0rz3gSRmFj8VqgDYH2alhE5NFMPMtZpRafyuzDPT/MyYzo9/3wpX2hVD31dLNhMqS54ehzTYAAo8ufi1QSGvJ18ByC2ouKcvbxoXo9dAoJIeCJEu6TIlWBooh5bQ+UcqfV27YF1o/Es/f4CeU9U9BQ5vTdsDQJhztduSmHTA==;+fQDUJaFvxuq7WzVaD2JEQ=="
+secured: "BOm35B83fp9IslmeOBZMaeHJQp/DTLRlwL9Z9hLEUS8zJ1MNrUoVenhvzquq6tT3hf7lvb+p9Ca0XZTULv2t83d+mX3pfPacibOgCFhGuvEFL1Y1UysKr98m4zrQfA00SF0Nc9rqMNwjm+NAgPFnOFW5pAbLqk7TkEw74vHKheSQrWxHBDd/OezUkJCeXA0tEeUlgrJuw/tH2aN4zQmjywMdVYV5NPKJpC3FTDbRFk5c7V0taI7HudrNUopCqDutym/cXiKGzbNttXSk1krGatUeQyD13DFCTwsBKufy83VsjhGO+kSJkdGRU+WI4YppZZBSm2HwN0r54EqDP+ZJGOmCDdSkCFFs9jC5JmsO4Ladkgenig8znUgmNLYrc6gn6d4HvgCPXrqtuJRsnjeJsA==;ubZgRgpgbqbMRyTLjvtQTQ=="
 ---
 

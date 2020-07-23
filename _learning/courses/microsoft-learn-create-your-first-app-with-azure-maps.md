@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Create your first route finding app with Azure Maps"
 
-secured: "BLA/CW2i42QV7rQ22U51ehkS8Lnrnm2NrdeWvAq600nmBQ/zCDlct+JEcKkArS6KXBW/p+JxE78jw0kQG41QMJDkeJTUfc/HVE0xoQX8vYPp6wmjCCl29C/klMuOCIcSKOzrn63pn4cYjIm5wFMMf9JZSLEZPmbhsXdPr+M3EPd+zfoWNIVPwQIniXiFQBEeAAZYTlqkhM04CzIUkjdzhKPdsv0IrpqwGVBD5q+tHvv5Cljw9r0u9aYrrkt7jXi+eDzCRzBO9b4snhLRfGk+SA6gBthCxSztBssk+T4qN8srI86Nij/EyH60aL9l4pSw+pkCM+L0CATlM+0mftx1TP1DO5MeRJDS0Svmeyb35BKdxUG3eKtGlaGvixjDt0V+p2Nq0Pa6MTOdqvrAdbyt1Q==;tFJdspGvdxin4SHcL8TEoA=="
+secured: "BgEC5zvDWTPxHbhgZVGzwRBveEmVdnond89q4mlvtpzuVwZyzicmHFjB32XGqYvI8mVe+UEjsb5eBV1nYD3INCrsSzciXjuRRB7Ns/WED+cBdRKIs+QmqZSfCAR94yAC+WXmnPOmMEjkhjJVOxLsAVb+Pub5l2FPvJKXRqc0gLmOrfM/b4I+Y6O8dHg8Td0CGNWTB4i/fenAW9qxncPrKbl8B+kKWb4ookkJOrXcuTuBYLlyRE2A2smNk+x7L/zAWerE5pZzXEvx3pJ/Tqv5FCkom9Euh6eUFmExtKqagE7W8gqGTh1bQ+rxJ2E2AKXNGV021CrIIAWIJBpfAgHTLp6I9T0O4qwzCaWVtOeFs47pPLRwYXJMl+lELCki3CZxsrXq7ZKIhDEcdCzNZViW1A==;/mRkznlTX/3qnmZDwGRPtA=="
 ---
 

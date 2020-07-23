@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 67 mins
 ratings:
-  count: 3610
-  average: 4.5296397
+  count: 3611
+  average: 4.5297704
 heat: 60
 
 provider:
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Secure your Azure SQL Database"
 
-secured: "7DRg4bxejfTxynw1jh9V6FHSj2xvgoN3YUjzI3A/iLNT0BY8p0qLMvzCl6ua2epl5WQjSpg/WjYr2PS9hjqPW73gsMQXYbkhg8dSpuNYAdSHULxJiwSb6LqoGt1VJGb0XTnhJFh5FLoIm4XnMj0tb76QjMcq1SMNE2bYS8Mbz4gkxtJR3NL5k1An2jqfL3xwH16NUsjzI8tBoC+YzhuXpgPaw/1E4MiWch/BaMms933D1g+4/IBa/XfZODQf3cuL3E7bkN2G9lZwOc8h9v+q9gcfgXGdPCXwn4bKjumeQKisnml6tnhgtwfKi3QCo0bYuHz+kQaFQG/YOaTRxo9EDr/FMdukmv1JDPQkuPljPBoFEFg+BeeOKPupxVCCnTEDyJAN1/gHQO9KhrQi1HJ6Mw==;Yy2q0+Id9RV3romBHxe8jw=="
+secured: "87T8OVJHssbUujYnBZMKDh2bZMhyb6vVQ+zxbPYQ/fNa1XvylAqGqKr3CoPMyI8MOybGIGx8wqyuJLOxpfbna9R583AderW5fpFOfm1nvvuKuScGFqi9KJcQ1Sr+kQge9/u2AstaXz9nb8XPUk55CIlwM1ryjbHSsB9HbjxYZ58NK/zK+XGpqnolXoLAJr4LUcxPf8iQbOM83KvdrSGmMfjdDZb86yboNOTO0eaFB6N8z0bOTK9t/zsXed7dDSlUqJ5PtqCFU/YdS+j9HpwIQbBVKu3wQJ3IQUqVy7j3tcC/qhBR4h5tAZ6QT3kNdrYIjmFNMH4uAXD20vqYOYfSi6nxo8COKacALC+DTt0TzjkzXo6gjUfvv6iNgkpC3EocZ22ulNky6ZGXebZcVdNqnw==;+AUzeZm6v5z0uM+Qy2iylA=="
 ---
 

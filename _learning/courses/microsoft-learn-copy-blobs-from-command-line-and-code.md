@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 58 mins
 ratings:
-  count: 128
-  average: 4.5390625
+  count: 129
+  average: 4.5426354
 heat: 50
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Copy and move blobs from one container or storage account to another from the command line and in code"
 
-secured: "h5umVmgt0ZmO/rd0YapxnzUEGKVBK2RFOvvD5PNPosZNtSzlTtpH1MrgXClBDkEDdnPpj8KRzufvnru8iHeAGvuvUZIXlxL8Jtjb4JVScRs37zQhPLBI8lI2Q2p0PMdhjSlpWPK4t6eKnp9C1HmxDAtY0JxyYCFdz2WW0J6gvWWkvUyK/P8A6134CLY/SDyawDQbxchIoKD2BK5l/uxAYwhE8MLUM8i4bv4iwfKZSvUSihRnXTRDneKr0AOZrPjrPKAUajsNhFPZVDbZRDCFh2ICmjBAinqwK8qiLD7zOyKwddjdaVp8pMBMZ9wb6MNmks1ddRtPkMxYZAK8f8POrhlXD0aamrWln3zmhI8GkDRBmtMvLnPoDBGHLOolBc3w0WA0OtsxhAN4oKKmg8wZtw==;F++XZaHWlwgu8j3DaWh35w=="
+secured: "2dqFAVfopfzkpmrQMTcsuv39GWoRpOlYAyLdJkV7YktFRT+Hsnmdvko/gvZsh6xm+PJ9FV+jTC76BiIkY1DWy4LNolS9sieflklrLyxB34Zmq//pwleKXQ4pPEa0xCKXhSejB/mT9g1hE3bQlsLHbXOjfdspsSNHhMq9BY/4WWVHRS4cKAI+pp0g6GmrHzGNPBJt6os7YcfV26x8joG3+xMDaeoMnAPl9f0Tiuz6H9IKp+qqTS6g5o3GYdoJRM2kbZr6/aQx2+hdyTKafZTOU9qmqwmZDVUEWX4Y5GtvlQ7voI9I4LcZCkCSR4so1RKczYTUeHU3DVOxjuWogowHnc4ndgVv5GVd2Kzm/W/2N4ybv0JTBf6VAMW+YoA53wQlHSdoqy0TJ3Axonwbst/uog==;arzqdRjRCQJ9Qqb501P9+Q=="
 ---
 
