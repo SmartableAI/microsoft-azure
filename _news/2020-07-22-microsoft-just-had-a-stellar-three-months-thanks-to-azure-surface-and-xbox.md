@@ -7,6 +7,9 @@ webUrl: "https://www.theverge.com/2020/7/22/21334725/microsoft-q4-2020-earnings-
 ampWebUrl: "https://www.theverge.com/platform/amp/2020/7/22/21334725/microsoft-q4-2020-earnings-azure-surface-xbox-gains-growth-profits-sales"
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/22/21334725/microsoft-q4-2020-earnings-azure-surface-xbox-gains-growth-profits-sales"
 type: article
+quality: 94
+heat: 94
+published: true
 
 provider:
   name: The Verge
@@ -25,6 +28,6 @@ images:
     height: 933
     isCached: true
 
-secured: "HpsixxfNp2/xjqv4gwj8aAdO3ldhNX7IGK4UWqM9BzaEP879E7Z3pGTieaY7b51zx4I6iUjImCoHUVXulvZtbyDczJXSo1IdvjiRzmpx4haUQBfz1zDJjFGJP/FGHqdkHqh1B6UK8JYGiXDVVu6JoWRra9njdWXCDhmb+rJhY4XgbYt81gGJpsSo+KdZU2HHp/WfWp8R9B0OwbgxnFf6jYnTfNXEMoX2udxbNwXn2xYY6bBZ4JN7qYir6bXA/61eLT8p1xniQdxHaeEDxOV4QdLUptD+QojgeBGT1U3b95dqV3GM1VlWRiKJNy2HqY5z/kGm010i/b5Su7NytjdqOg==;Q8WP5jCf7hBC4C8khmhWjA=="
+secured: "QNHh4of/d5Lwacn96D+8hXKqNX5Y49QTmcBz5mQmqLO8kOOis3mTaj4VERIrNl98wgbCVwR/vmIe7ZP6m2K98Hg4czcMaDovNHnveHp5nrnSPE+K/YI5jc7pZeuE4IrOZMHKyNFb3BRnZri+zLZaOt/67Sl4H7FYwqZ6ydFSdjKoHDtOUtFAOZTE/s9wHTRt/vatUncHMzVZjg/axW2m529lsDPqw50T/7SJSfDOZ/sBJZgwTs9TXzqiUopdu0utyXEL23XhWVCzKjCZsqA/R+KcyjHMmZBL2eM/6qLdaeLCdLRhz5ACZdGxQMHXYESDsjWOsO4CfF/BglLJY2ReqWRKm3nzJykzg3EcUwpVmpCrMESd2dXCFAkzfRx1IDJOXFsAnjp8totJaAodYHLIdp9WOAK4i9PCnlDzsXUuZpVItJcWfHlgAczEIiQwyWBFNAyErFboAILHtRkuh5c5z2an422MOylfFPsj71HHCwgaQoFqUuoaShIsX9asNiR/6SP0VGkx8QhpJrUIRlS13Q==;AzJl0SipTNr1ynkacGNq9Q=="
 ---
 

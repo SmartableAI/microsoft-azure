@@ -8,7 +8,7 @@ ampWebUrl: "https://www.geekwire.com/2020/microsoft-partners-land-olakes-build-a
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/amp/"
 type: article
 quality: 97
-heat: 257
+heat: 277
 published: true
 
 provider:
@@ -137,6 +137,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 17
+  - title: "Microsoft And Partners Bring More Hyperconverged Hybrid Cloud Options To Azure"
+    excerpt: "When it comes to cloud computing, there's little doubt that we're in a hybrid world. At the company's partner-focused Inspire event, Microsoft unveiled several new hybrid cloud-focused additions to its Azure cloud computing platform."
+    publishedDateTime: 2020-07-22T17:26:00Z
+    webUrl: "https://seekingalpha.com/article/4359924-microsoft-and-partners-bring-hyperconverged-hybrid-cloud-options-to-azure"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 13
 
 secured: "5Eog3zAp34+mSGmawb3s7VYGtiCWOjjCYdyxMu9eWqLcxlfaHt6IAFh1m6P+Jcf3KzyghCRpAgBu8RSiOfbRqSSCfrHUTGmlywWfOVPiQvTNFa2TvXi4X0mYWAS8t558c4NFer0Bqj1NhGZbGyqleMl4wZowCeUQouPMRtKAlmupuGJsU7l5dDBN1p0Bj3WzbmTBA0ArVq6d/Uqn2sImFNCd9LCqeHXQqtMsm9ZY0ePmWJMYV1T9IKmWY42/JUtzjCGfdvpEMyceyj9bDYuG3V/y7RUkwKwEncNyH/I5PndR9v5BhJttcj8hpMmNd1twmQOvOYXLX7HDlzVzRkd3YTKQx2LC0zcDe31IgBRXMgBDVbNe/qfXjtjIGxDC4VPih3ZVLA18WgRV4COcP97CwUeJgaanV/FedYWKjX7vk6lqQlfVujtVa0R4tAK7FA4F2DMfkKgpZN9t2caqPxyZyERbpHNBMLVGDNNyBfJOU+saCD2r8FOjLSzGoUFzhHaZ;u6k01Bw12xqpEbeA5ZE56A=="
 ---

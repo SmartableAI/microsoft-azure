@@ -133,6 +133,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 17
+  - title: "Microsoft And Partners Bring More Hyperconverged Hybrid Cloud Options To Azure"
+    excerpt: "When it comes to cloud computing, there's little doubt that we're in a hybrid world. At the company's partner-focused Inspire event, Microsoft unveiled several new hybrid cloud-focused additions to its Azure cloud computing platform."
+    publishedDateTime: 2020-07-22T17:26:00Z
+    webUrl: "https://seekingalpha.com/article/4359924-microsoft-and-partners-bring-hyperconverged-hybrid-cloud-options-to-azure"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 13
 
 secured: "Cu/M/Dhk288tlfqbml2IncDPzY8/AMOMjZQBmyAWKxpRlpbs7f0FgH+3ae6P3PTSewHP6diIQfAzmgBtGXWHm9IBSEP1OVuYX7H8l3FW1RY4tlEugk4wXYnMohEx0ucGCFA7IxndUGkPCkYaeTuBo2y8xglrMgaC30dIWKj4SK+HZcMnIXyYgDQtItdOxJmcsIOyoUjDk0KUXRsUUfaLAwUw3O12B/XcFXPp0NC81eI6RX5q8no1StBTNZYRK72JUUSfqwUBQi7zr6LIAAJUb0zXVbDBsPSapH+KQCRLTpnMQCyLo/5ruvvO4b+/u7xp6Z5Q098lNU+F45a3vXxq+yIByTQhe9BZcqBJg8wR72B1SZplvGYQjJQhKS3eA8TwGzJVh/mGgZ1FZimm98o0oCXC/P93srEMUx54uxPLT9DQ+AlFhANtcpt3qkleTwnH3Ux4W86F8aoiwg7QAmyBFxklnTcU6jXxtwnhDGcKPOjsGUKR8ib/spInXRat8/eRIN1HLW9kD0Pzi3RpQpVncA==;+V2oiWRoBZ5kTC1s1lM+7A=="
 ---

@@ -23,82 +23,22 @@ images:
     isCached: true
 
 related:
-  - title: "Alithya Launches AI-FI™ Trade Surveillance Solution Powered by Microsoft Azure"
-    excerpt: "CNW Telbec/ - Alithya Group inc. (TSX: ALYA) (NASDAQ: ALYA) (« Alithya »), a leader in digital strategy and technologies"
-    publishedDateTime: 2020-07-15T11:49:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure-1029396553"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure-1029396553"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure-1029396553"
+  - title: "Barracuda launches first global SD-WAN service built natively on Microsoft Azure"
+    excerpt: "Barracuda, a leading provider of cloud-enabled security solutions, has introduced a new secure SD-WAN service built natively on Microsoft Azure. The new Barracuda CloudGen WAN service is the first SD-WAN solution that runs inside Azure Virtual WAN Hubs."
+    publishedDateTime: 2020-07-17T07:11:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/barracuda-launches-first-global-sd-wan-service-built-natively-on-microsoft-azure/article32111482.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/barracuda-launches-first-global-sd-wan-service-built-natively-on-microsoft-azure/article32111482.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/barracuda-launches-first-global-sd-wan-service-built-natively-on-microsoft-azure/article32111482.ece/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 73
-  - title: "Apptio Launches Rightsizing Recommendations for Microsoft Azure"
-    excerpt: "July 21, 2020 /PRNewswire/ -- Apptio, Inc., a leading provider of technology business management (TBM) solutions that help organizations analyze, plan, and optimize technology spend, today announced rightsizing recommendations for Microsoft Azure SQL ..."
-    publishedDateTime: 2020-07-21T13:04:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/apptio-launches-rightsizing-recommendations-for-microsoft-azure-301096563.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 52
     images:
-      - url: "https://mma.prnewswire.com/media/82080/apptio_logo.jpg?p=facebook"
-        width: 2421
-        height: 1270
+      - url: "https://www.thehindubusinessline.com/info-tech/nozm6x/article32111481.ece/ALTERNATES/LANDSCAPE_615/BL17CLOUD"
+        width: 615
+        height: 384
         isCached: true
-  - title: "Alithya Launches AI-FI(TM) Trade Surveillance Solution Powered by Microsoft Azure"
-    excerpt: "PRNewswire/ - Alithya Group inc. (TSX: ALYA) (NASDAQ: ALYA) (« Alithya »), a leader in digital strategy and technologies employing more than 2,000 highly qualified professionals"
-    publishedDateTime: 2020-07-15T11:39:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/alithya-launches-ai-fi-tm-trade-surveillance-solution-powered-by-microsoft-azure/article_799b4fa7-7527-584a-b238-0f1c1f27756d.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 32
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Aureus to upgrade e-Discovery solution for legal profession, powered by Microsoft Azure"
-    excerpt: "A lot of insights will be hidden in this aggregation of raw data. The scalability of the Microsoft Azure cloud provides an effective way to collect and store the data—and Aureus' R&D on knowledge mining can help attorneys and paralegals mine key ..."
-    publishedDateTime: 2020-07-13T08:43:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/aureus-to-upgrade-e-discovery-solution-for-legal-profession-powered-by-microsoft-azure-828476315.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 29
-    images:
-      - url: "https://mma.prnewswire.com/media/1213215/Microsoft_PR_image.jpg?p=facebook"
-        width: 1706
-        height: 893
-        isCached: true
-  - title: "The Microsoft Police State: Mass Surveillance, Facial Recognition, and the Azure Cloud"
-    excerpt: "Microsoft helps police surveil and patrol communities through its own offerings and a network of partnerships — while its PR efforts obscure this."
-    publishedDateTime: 2020-07-14T19:45:00Z
-    webUrl: "https://theintercept.com/2020/07/14/microsoft-police-state-mass-surveillance-facial-recognition/"
-    type: article
-    provider:
-      name: The Intercept
-      domain: theintercept.com
-    quality: 29
-    images:
-      - url: "https://theintercept.imgix.net/wp-uploads/sites/1/2020/07/ms-police-state-final-theintercept.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trend Micro Announces Cloud Solution to Strengthen Misconfiguration Protection for Microsoft Azure"
-    excerpt: "PRNewswire/ -- Trend Micro Incorporated ( TYO: 4704; TSE: 4704), a global leader in cloud security, today announced its Trend Micro Cloud One™ – Conformity offering is now available to Azure customers,"
-    publishedDateTime: 2020-07-22T12:00:00Z
-    webUrl: "https://apnews.com/PR Newswire/696b9c4821af9f21bf525b280a285899"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 3
 
 secured: "2nBOd3WAdEXrYgEVVBI1sO+8NJW1nHRappvwz+MNHeB6qO4XIGIy9xSbjUf5DnYKOf8UuusmMOrFYiHE6Bsp72FsOjY8FehTnu4ncv0ia8/gNN/cM+lMK6m0xUSaeXifZlJEodcXj30xRnVXuAFAWF4ch8YZyMN9a7IbkzVerYswzFTSCkFLK1lPnhqGhT1SFbzkAexNabHbbDwbdPkEUnb2YeVpYOKbR/nkdhUQpuX+Q33KxSBh5MS9bBSYGTn0LtN7q3DkHIP4nvlF4fVC6+UvtSWMUJFyXcCJl2xQ8RWU9Zp+Cnz9eODCDwPz96tfwlnRS9MhFz9aX1C2jy4LNfbzJsg5C3goNiwYInzNrGfZGTqUsoqNvkF45KM+MCnPOYLX0NQJuUtDVCzvPdjww4Oz4aK1aGq/RAmIY7ZIdXXbxeXsFUy8LhC9ZAJGNuplaqqTPi8SvU09yE3viabq6kMg1J0KyZTCKo136dEXbivIW/jG2FLVoQOvQb19SnM4ivonWXzGE5GYKiZwPrAX4w==;foq+Bhj/T4TJlQkjnPlAQQ=="
 ---

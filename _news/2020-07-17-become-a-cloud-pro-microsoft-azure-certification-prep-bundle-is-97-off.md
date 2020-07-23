@@ -29,91 +29,37 @@ images:
     isCached: true
 
 related:
-  - title: "Get this Complete Microsoft Azure eBook & Video Course Bundle at 95% off"
-    excerpt: "Leverage PowerShell to Perform Many Day-to-Day Tasks in Microsoft Azure Migrating Applications to the Cloud with Azure [eBook] Modernize Your Apps with Microsoft Azure by Moving Web, Desktop ..."
-    publishedDateTime: 2020-07-13T16:48:00Z
-    webUrl: "https://www.neowin.net/news/get-this-complete-microsoft-azure-ebook--video-course-bundle-at-95-off/"
-    ampWebUrl: "https://www.neowin.net/amp/get-this-complete-microsoft-azure-ebook--video-course-bundle-at-95-off/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/get-this-complete-microsoft-azure-ebook--video-course-bundle-at-95-off/"
+  - title: "Become a Microsoft Azure pro with this $29 bundle"
+    excerpt: "The age of the cloud is finally upon us, and this much-anticipated era has quickly moved beyond simple online storage platforms which reduce our reliance on external hard drives. The largest and most powerful companies in the world all rely on increasingly dynamic cloud infrastructures in order to develop and distribute various apps and digital information,"
+    publishedDateTime: 2020-07-22T18:12:00Z
+    webUrl: "https://www.engadget.com/microsoft-azure-pro-29-175557785.html"
+    ampWebUrl: "https://www.engadget.com/amp/microsoft-azure-pro-29-175557785.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-azure-pro-29-175557785.html"
     type: article
     provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 96
+      name: Engadget
+      domain: engadget.com
+    quality: 97
     images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2019/09/1567329629_azure-6_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
-  - title: "Save 95% on the Complete Microsoft Azure eBook & Video Course Bundle"
-    excerpt: "We have a great deal on the Complete Microsoft Azure eBook & Video Course Bundle in the Geeky Gadgets Deals store this week, you can save 95% off the"
-    publishedDateTime: 2020-07-07T12:10:00Z
-    webUrl: "https://www.geeky-gadgets.com/save-95-on-the-complete-microsoft-azure-ebook-video-course-bundle-07-07-2020/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 37
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/07/Complete-Microsoft-Azure-eBook-Video-Course-Bundle.jpg"
-        width: 700
-        height: 526
-        isCached: true
-  - title: "The Complete Microsoft Azure eBook & Video Course Bundle (95% OFF!)"
-    excerpt: "Lead your Business toward success with The Complete Microsoft Azure eBook & Video Course Bundle, featuring over 15 hours of video content and 6 ebooks on Azure Cloud solutions, integrations, networks,"
-    publishedDateTime: 2020-07-08T04:02:00Z
-    webUrl: "https://www.geeksaresexy.net/2020/07/07/the-complete-microsoft-azure-ebook-video-course-bundle-95-off/"
-    type: article
-    provider:
-      name: Geeks Are Sexy
-      domain: geeksaresexy.net
-    quality: 37
-    images:
-      - url: "https://i2.wp.com/www.geeksaresexy.net/wp-content/uploads/2020/07/azure.jpg?fit=600%2C450&#038;ssl=1"
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-07%2F5f230920-cae3-11ea-bfef-778d07aa6eb4&client=amp-blogside-v2&signature=38826b0409ecad8de954a4e01e40c23407387c1a"
         width: 600
-        height: 450
+        height: 350
         isCached: true
-  - title: "Reminder: Save 95% on the Complete Microsoft Azure eBook & Video Course Bundle"
-    excerpt: "Just a quick reminder for our readers about the awesome deal on the Complete Microsoft Azure eBook & Video Course Bundle in the Geeky Gadgets Deals store. The Complete Microsoft Azure eBook & Video Course Bundle is available in our deals store for just $29 ..."
-    publishedDateTime: 2020-07-09T11:05:00Z
-    webUrl: "https://www.geeky-gadgets.com/reminder-save-95-on-the-complete-microsoft-azure-ebook-video-course-bundle-09-07-2020/"
+  - title: "Dive into Microsoft Azure and Prep for Key Certifications with this Training"
+    excerpt: "Microsoft Azure is kind of a big deal. The cloud computing service drives virtual desktops, communications tools like email, content delivery networks that ensure your files are always available ..."
+    publishedDateTime: 2020-07-18T16:12:00Z
+    webUrl: "https://futurism.com/dive-into-microsoft-azure-and-prep-for-key-certifications-with-this-training"
+    ampWebUrl: "https://futurism.com/dive-into-microsoft-azure-and-prep-for-key-certifications-with-this-training/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/dive-into-microsoft-azure-and-prep-for-key-certifications-with-this-training/amp"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 33
+      name: Futurism
+      domain: futurism.com
+    quality: 54
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/07/Complete-Microsoft-Azure-eBook-Video-Course-Bundle-1.jpg"
-        width: 700
-        height: 526
-        isCached: true
-  - title: "Reminder: Save 95% on the Complete Microsoft Azure eBook & Video Course Bundle"
-    excerpt: "Just a quick reminder for our readers about the awesome deal on the Complete Microsoft Azure eBook & Video Course Bundle in the Geeky Gadgets Deals store. The Complete Microsoft Azure eBook & Video Course Bundle is available in our deals store for just $29 ..."
-    publishedDateTime: 2020-07-14T10:04:00Z
-    webUrl: "https://www.geeky-gadgets.com/reminder-save-95-on-the-complete-microsoft-azure-ebook-video-course-bundle-14-07-2020/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 33
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/07/Complete-Microsoft-Azure-eBook-Video-Course-Bundle-1.jpg"
-        width: 700
-        height: 526
-        isCached: true
-  - title: "Microsoft Azure Continues To Blow Up — So This Video/eBook Bundle Can Help Make You An Expert"
-    excerpt: "All together, faithful students could expect to spend over $700 for all this training. However, the package is on sale now for only $29.99, less than $3 for each video and ebook."
-    publishedDateTime: 2020-07-06T17:35:00Z
-    webUrl: "https://www.extremetech.com/deals/312405-microsoft-azure-continues-to-blow-up-so-this-video-ebook-bundle-can-help-make-you-an-expert"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 26
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2020/07/sale_29760_primary_image_wide.jpg"
-        width: 992
-        height: 558
+      - url: "https://wp-assets.futurism.com/2020/07/sale_25748_primary_image_wide-600x315.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "83h5HzTVuhfR9+QTxUauV4TgPohxYff8m+eBykZlQ7ZopvuW419aFHNOf+sNfposzBYJgwHlVSPtDY36KD4Cs6WE9xyqNUWl5UUiLR02FGQ7/79S+Yc3Cwp7NchFN6mN3YQzwwiRL4w0Fx2CRuOmyP0mzguX3D37oN5RXwqhczBnKGRf81skuWnSz/XFotvoYg1kkZF6O7UrbRFd/dYJzq8Ff6ikP6u7+Rqm/8oc+iQdtYtawQ1t6oCAKjL0grPe59kh27bNl1yBhZMaJcyRf2MzAESe/md9FBYtVV8UaX2KFEvYPX2mc9vi2sqp5I1p2sx7SJqX+2RIqZPHxHXbh7gMRbjYgD0yrkJPznM1iVvjHLoWrg7N9oQeE1bmnhmxjUx9t2jJuqAHCqIrkt2lrG49TFakG+L4PTqpu3opTVtzqXVylxYvHbnCeuPS+ZR2LzGYioZe3VIeySsJCwe3YOD0wbj5x/8TemzTnpORMnCLcfY5S4L6TwfMZd1VchRaN/bBArdknTWYPsOihvNbkA==;m0fnjH3iZ6UvxF8tYDjS9w=="

@@ -7,6 +7,9 @@ webUrl: "https://venturebeat.com/2020/07/22/microsoft-earnings-q4-2020/"
 ampWebUrl: "https://venturebeat.com/2020/07/22/microsoft-earnings-q4-2020/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/22/microsoft-earnings-q4-2020/amp/"
 type: article
+quality: 83
+heat: 103
+published: true
 
 provider:
   name: VentureBeat
@@ -25,6 +28,24 @@ images:
     height: 601
     isCached: true
 
-secured: "sHJtRLig0TllfjO4zSTVEnpJ7B/mks+EEMAox5MtB5kFtvsCWs7zKGFFEX0p7J4VVpZJ4IzXWqGroK9tckvjgoUbp9OCym8IMODreF7G5TDa4eUgX3T0YUWRGpR6+CY2xblWPYmpoKTl4VSar5broRUeMMZNE+AOFzTvhdADhlkXAzNERMnr0Gc8OZp/9kFbA5+2RaH3Sr+TQPneLbhdCaO2oqSpznkN0R8qZrrgru7rvV7gjImvc917IJFka9qfLr035TgP1A5IsmlCn/s1nJVr4GRTmnXvamvETr+x5cNUBDdrPpBCsUs2bgykN0ZiQzOBWsLdXo0HkxuTA6N31A==;DmYozSY/7a1V87TnwGWjIg=="
+related:
+  - title: "Microsoft reports $35.0 billion in Q3 2020 revenue: Azure up 59%, Surface up 1%, and LinkedIn up 21%"
+    excerpt: "Microsoft today reported fiscal Q3 2020 earnings, including revenue of $35.0 billion, net income of $10.8 billion, and earnings per share of $1.40."
+    publishedDateTime: 2020-04-29T21:06:00Z
+    webUrl: "https://venturebeat.com/2020/04/29/microsoft-earnings-q3-2020/"
+    ampWebUrl: "https://venturebeat.com/2020/04/29/microsoft-earnings-q3-2020/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/microsoft-earnings-q3-2020/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 82
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2016/11/Microsoft.jpg?fit=2048%2C1025&strip=all"
+        width: 2048
+        height: 1025
+        isCached: true
+
+secured: "tRp1FnC1Q4ltOIQF/9QmGM+LrZeirDrkQpgNbueEXNG6CHcjO/qrfgxI8Q7peTvHrnJhmVyzlBBADInFIj4cLJZOQoM9udvZbWEj1Ot9LPLBFOUaNXw7eqiGYlEREuXXid9cKFfbT1kfw65nk3aAe0IsEm6wi7kugQBkBxo5yaaW22opSKnwdYPdSkU+4j+G4hsl6p9NBHqAumV7NhgdQgpIBGgtj5wmmXvGJGduPbYeCrtaOvk151iT6ZM5R553BVUU6A9vTNaGsBLFK7jxmOATGplrNEx84tQv67DZBvwk9iuSMC18HyplLSxbAfzE+pZGPuQyOGzCSC7rMmnRpaLPn9zl4UFL2QVslgQKDx2ZzZNiw/It9KqS/fJJgcJZnYjkWBZeibyAaxKvVFiiIv9dz/MXure6LmdXNyHgAgXD4CFl0w5B2cmmSfCLysYdqJZc3IJM8y6xThLjdhrXPv/zGaVQnWnXEO1jSejVGJqAZpcxxiucdbz5u6byfOSZmGhFL8ar/iScEmuQcCiQHQ==;58Lfq4L6C1VZdBb7bboJqw=="
 ---
 

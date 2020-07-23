@@ -24,43 +24,18 @@ images:
 
 related:
   - title: "Alithya Launches AI-FI™ Trade Surveillance Solution Powered by Microsoft Azure"
-    excerpt: "CNW Telbec/ - Alithya Group inc. (TSX: ALYA) (NASDAQ: ALYA) (« Alithya »), a leader in digital strategy and technologies"
-    publishedDateTime: 2020-07-15T11:49:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure-1029396553"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure-1029396553"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure-1029396553"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 73
-  - title: "Barracuda Networks launches new SD-WAN solution for Microsoft Azure"
-    excerpt: "Called Barracuda CloudGen WAN, the service is pitched as the first SD-WAN solution that runs inside Azure Virtual WAN Hubs. A virtual hub on Azure is a Microsoft-managed virtual network that enables connectivity from other networks with virtual VNet and gateways as optional components."
-    publishedDateTime: 2020-07-16T17:30:00Z
-    webUrl: "https://siliconangle.com/2020/07/16/barracuda-networks-launches-new-sd-wan-solution-microsoft-azure/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/Jenkins.jpg"
-        width: 985
-        height: 657
-        isCached: true
-  - title: "Apptio Launches Rightsizing Recommendations for Microsoft Azure"
-    excerpt: "July 21, 2020 /PRNewswire/ -- Apptio, Inc., a leading provider of technology business management (TBM) solutions that help organizations analyze, plan, and optimize technology spend, today announced rightsizing recommendations for Microsoft Azure SQL ..."
-    publishedDateTime: 2020-07-21T13:04:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/apptio-launches-rightsizing-recommendations-for-microsoft-azure-301096563.html"
+    excerpt: "\"By hosting AI-FI™ Trade Surveillance on Microsoft Azure, we have increased our flexibility in configuration, while decreasing implementation time and cost. The advanced security features of ..."
+    publishedDateTime: 2020-07-15T11:43:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure-301093861.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 37
+    quality: 33
     images:
-      - url: "https://mma.prnewswire.com/media/82080/apptio_logo.jpg?p=facebook"
-        width: 2421
-        height: 1270
+      - url: "https://mma.prnewswire.com/media/1214660/Alithya_Alithya_Launches_AI_FI__Trade_Surveillance_Solution_Powe.mp4?p=medium"
+        width: 512
+        height: 288
         isCached: true
   - title: "Alithya Launches AI-FI(TM) Trade Surveillance Solution Powered by Microsoft Azure"
     excerpt: "PRNewswire/ - Alithya Group inc. (TSX: ALYA) (NASDAQ: ALYA) (« Alithya »), a leader in digital strategy and technologies employing more than 2,000 highly qualified professionals"
@@ -90,15 +65,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trend Micro Announces Cloud Solution to Strengthen Misconfiguration Protection for Microsoft Azure"
-    excerpt: "PRNewswire/ -- Trend Micro Incorporated ( TYO: 4704; TSE: 4704), a global leader in cloud security, today announced its Trend Micro Cloud One™ – Conformity offering is now available to Azure customers,"
-    publishedDateTime: 2020-07-22T12:00:00Z
-    webUrl: "https://apnews.com/PR Newswire/696b9c4821af9f21bf525b280a285899"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 3
 
 secured: "sPXdO4Hs7jcS8nxsNMB29/2p0QpC9buEjq6ANQT8CYP3jWDS+ZP4p76iVACB9t08YCNpG7x28Jyf7cpKd0qdu7x745mDHQRZogzaxeqOn6G7uqN39CRNfgz1vCOh4jTcQtbhWyxEKFA6xCwKeuEfNyOFAhDgCe/96/QvB7hFoPcYuW5SHWV1+10Aqcv9kwftuvf18HmVZPWMBRIfLVMdSxisqF3+zj9pknwckhD1b/is3T6S+IGxFAyEVlduwCcEfmbo+8Y2zPs/A5zK5hHkSV0nw02t2UaZ+CRxk2RHar/2q0k3mS1HAJavTnAMvakj7RaDC64mNBzOu/7Llc1PBw==;Jtw7v1Z7HLoapdJd4FdRSA=="
 ---
