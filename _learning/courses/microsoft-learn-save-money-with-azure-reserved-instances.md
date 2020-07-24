@@ -8,7 +8,7 @@ length: PT34M
 ratings:
   count: 18
   average: 4.611111
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Save money with Azure Reserved Instances"
 
-secured: "C4KgzgBAqjpOO5pqZsacR9BIPvxB6t6H6n1NtcRK/yEXKAS14imEa/rToOI+H+lvmHXCnUpmURBfgQ6EdDo+1bsZNt4NuVcAAADbOvDqt7CZuLTSnOlnRkGuKTP5gDpkwolXQCWjnEIYK9e15IIUytfogO3jBURPVN306lCa2l0FMLhxJnzhW3VOtf2aes5x7mF12URy1D3p+mvaukq+RysSh2+QGsOGUCfpYwKrrIYY7mGdED8n+PZ+Ik34TZmMdm5XYC17ypUqzo+fhOfOwhDVVBuTiVaNJObW+q3kPD2Yk+ugdBkQ9u0IQUTriHn2P7kdnZRqqcsES0z7Y6pxbQUb9S//4WggvIGdK/Ityg/ZobiPKoJs36dbCEZYrGxGpLTYThLfHUvxbikNwHk1pA==;OSrdgr3owVjTwV262yvq7Q=="
+secured: "cnkHE7LQ9CwTvMlzOd+jZNQZv360HfYb8MX/5G8/qLUnI60i6xb5EKcsfiYfpqRlQxzm3mE18xa9S1jN++zqELHktD5J3AFwYrjKFVoDLNUo4XGFFM8UDFP++2j8o6kpvBgooYWN1spgE4cg1JaI2KS3KO/eBjIH64tZMbUcdM+QjonTvC22UELFLsYz0UG/gDoVtaPK7pCQVdBwugyghvxiAdHzA2k4Fcsf9PXdao3gGsGUfyLaJFTZE8W7ZHtV1vGZH6rTdy7uDPFsSt0ONYSLL+IS6U/07j1uP89WL3kwb8xBLeus+doFdsjN7C8bwC+dCU295PnO+PUHG2sJOLLKSYnD0Ut7ESFXlYJyLh0m8MfNLgFT66uIPCx1uX8Xgk32tlHUizBoJWBCGnqGjA==;K7zLl1mq3mxNXe7SJzptUg=="
 ---
 

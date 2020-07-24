@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Migrate an on-premises web application to Azure with the App Service Migration Assistant"
 
-secured: "KWt+zqAuGvD4a5Tcu1WMaSo7ZGBgX4CXmKDdqUgOvCewOkK/Uyh/XsaG5Z9B2gi9wHmza+j/QIloCfDiCjz8OtOWBMJLp1mGpSg3CETz0avILfBTHvjlDp4m+NJJZy3dLCinjAyVbk/8KO2qP/ECcR1Rl7c0owHjSuK58g/wRWqM7AzY1ycbzszZfi60LVrU98EfLWIuEA2NHOOaU6bvIrDnCP6Ygtt3+57AMAfAIYb8IDLjw76L4N3iQgbsmdcCYbrtQpxpcRGrTbPOA1HuA9eSvb6oJdB631PNMVWSAMNFlo4mZMEXmHucUQRBgBH1uSF1/Y2bYmnTbt6AwFBx6Zm31KJ5X/47X4as+4O66CSIqRL1Vbra+Yq+3ycLrXZPJk0bjtSv2kFkj7HZouu40g==;Pc4uqUHFEm0Q/wJtHx+ZqA=="
+secured: "1gOlpiQ5Fq4IH4AXOtcJuXRg03Ds2S3/03IzT+f4gOqHvi0razaM1PlORQZ56RHaW783VvFSLwNJNfY+gskIML+Cha4gujSikQKiQOZVAZ9bTUtSmYSfly9AUHW5jcQeyGkA/jKZ6Q1AebvoYDzkU0NClmxJ2YAPrnQKCPmVLRmCtF3mZAttEb+5acTvG7kEd41UVO/Nwz/uh02Ap5+n79afjRy6lxx3iTHYm2gW9g0nMgMASOq5LAMw8SjdAiPR6PlZcIc0qn0JqEEGJfqzSErToScyiHHN4VfsyEyPLxtOGQLUk2oAxb2gBp9gJIjsru6OqB3QlSVH+o9E5f/LoxsUaJYmp7/eqXodpdUC6+D5D0T7aMcQwcutNbbTb7ZDlYf7jGo3M5vkwrYryWoPuA==;NguQRjYIDD3PDDvr/gVDLw=="
 ---
 
