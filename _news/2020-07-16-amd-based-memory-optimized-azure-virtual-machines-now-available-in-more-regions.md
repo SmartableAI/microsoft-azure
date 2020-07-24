@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-16T08:00:39Z
 webUrl: "https://azure.microsoft.com/blog/amd-based-memory-optimized-azure-virtual-machines-now-available-in-more-regions/"
 type: article
 quality: 93
-heat: 233
+heat: 253
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
     excerpt: "Shared disks are now available in Azure Disk Storage—the only shared block storage in the cloud that supports both Windows and Linux-based clustered or high-availability applications."
     publishedDateTime: 2020-07-21T16:01:30Z
     webUrl: "https://azure.microsoft.com/en-us/updates/shared-disks-in-azure-disk-storage-are-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure Stream Analytics is now available in the US Gov Arizona region"
+    excerpt: "Azure Stream Analytics, a real-time analytics service that is designed for mission-critical workloads, is now available in the US Gov Arizona region. \n"
+    publishedDateTime: 2020-07-23T23:00:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-stream-analytics-now-available-in-us-gov-arizona/"
     type: article
     provider:
       name: Microsoft

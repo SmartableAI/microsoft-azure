@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-18T16:11:00Z
 webUrl: "https://www.sify.com/finance/microsoft-azure-down-in-india-most-users-hit-news-topnews-ufsvE8jjfihdb.html"
 type: article
 quality: 37
-heat: 57
+heat: 37
 published: false
 
 provider:

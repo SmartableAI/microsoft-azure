@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/info-tech/barracuda-launches-fi
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/barracuda-launches-first-global-sd-wan-service-built-natively-on-microsoft-azure/article32111482.ece/amp/"
 type: article
 quality: 52
-heat: 72
+heat: 92
 published: true
 
 provider:
@@ -39,6 +39,17 @@ related:
         width: 985
         height: 657
         isCached: true
+  - title: "HashiCorp Announces General Availability of HashiCorp Consul Service on Microsoft Azure in Collaboration with Microsoft"
+    excerpt: "HashiCorp®, the leader in multi-cloud infrastructure automation software, today announced the general availability"
+    publishedDateTime: 2020-07-23T15:59:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/g16754293/hashicorp-announces-general-availability-of-hashicorp-consul-service-on-microsoft-azure-in-collabo"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16754293"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16754293"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 13
 
 secured: "T4XxoXuOfQYMLLtN0seix5s/cWfx+Xo4FqYokSm6woVEqhHU9hqE5nGTdB2Zve6mNH/LvWmJ18oV3QBS9+IDzhSGUxpXSy1y4D+/aL2y9WWHeBVWu9HIJK4HsSqNklluzUd6oRhVn4r0cUIu3TVWikuacqU0JHoK+IPOgs88134U5jD03hbozfAdSPpTgHtT44zMqQ94KTpqAC4RM5wnS7w31XoVdxFy/vsOrVuX4uhTMR83VUYijNyKa2AG4EsmNiqbgwXdh7l+U0b4EZE9M9roqDYLxEmSqbw9jaLn5c8dcp/vn1p+j893QepihO/6EACasr9Tt3D8iYE5bzWSJw==;Z3DUhVgHSRLGnfjaonorTg=="
 ---

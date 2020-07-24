@@ -1,11 +1,11 @@
 ---
 category: news
-title: "New memory optimized and compute optimized hardware options in Azure SQL Database"
-excerpt: "New memory optimized and compute optimized hardware options are now generally available in Azure SQL Database."
-publishedDateTime: 2020-07-23T16:04:22Z
-webUrl: "https://azure.microsoft.com/en-us/updates/new-memory-and-compute-optimized-hardware-options-in-azure-sql-database-2/"
+title: "Azure Stream Analytics is now available in the US Gov Arizona region"
+excerpt: "Azure Stream Analytics, a real-time analytics service that is designed for mission-critical workloads, is now available in the US Gov Arizona region. \n"
+publishedDateTime: 2020-07-23T23:00:08Z
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-stream-analytics-now-available-in-us-gov-arizona/"
 type: article
-quality: 72
+quality: 77
 heat: -1
 published: false
 
@@ -71,15 +71,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Azure Stream Analytics is now available in the US Gov Arizona region"
-    excerpt: "Azure Stream Analytics, a real-time analytics service that is designed for mission-critical workloads, is now available in the US Gov Arizona region. \n"
-    publishedDateTime: 2020-07-23T23:00:08Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-stream-analytics-now-available-in-us-gov-arizona/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
   - title: "New memory- and compute-optimized hardware options in Azure SQL Database"
     excerpt: "M-series, a new memory-optimized hardware option, and Fsv2-series, a new compute-optimized hardware option, are now generally available in Azure SQL Database. "
     publishedDateTime: 2020-07-21T21:22:34Z
@@ -89,6 +80,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 76
+  - title: "New memory optimized and compute optimized hardware options in Azure SQL Database"
+    excerpt: "New memory optimized and compute optimized hardware options are now generally available in Azure SQL Database."
+    publishedDateTime: 2020-07-23T16:04:22Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-memory-and-compute-optimized-hardware-options-in-azure-sql-database-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 72
   - title: "New general purpose and memory-optimized Azure Virtual Machines with Intel now available"
     excerpt: "Today we're announcing the availability of new general purpose and memory-optimized Azure Virtual Machines based on the 2nd generation Intel Xeon Platinum 8272CL (Cascade Lake). This custom processor runs at a base speed of 2.5GHz and can achieve all-core turbo frequency of 3.4GHz. It features Intel®"
     publishedDateTime: 2020-06-15T09:00:47Z
@@ -99,6 +99,6 @@ related:
       domain: microsoft.com
     quality: 68
 
-secured: "5ESkj+fO29b7rSAdEhtSA7J4h/g4GaI9cbtzuMdBWcAf70wUP6g9jKbDS9sBp3eG45nBkD0ZrzGcD+iUPdEZ1/TsGywWA+aYYXG6B25LWVZDyQVZ5sSZKwTR27UnkdlNVNicV8EDq2ifQR3b0slZxXVBwrI/WRcVFeFLJB9W6aHYiImUDuFTd9ClrixHEU/1Ro/xb2h48cm5ENC2Nu1Xh2JNf46x4DsQiJoP0kr5JELqikdRrnIw4vmIrXHB34nHvjlFWDHc6f3OgmEDJEYY/P7xxNyvzU0pqDr6ptzlk1zZhDk2qgvEALMXd9DFEY3r3pVRDF+4zu3Yv+znhdAAbg==;xrXnEFaxDRcPM5nXHt5nrg=="
+secured: "AVSdUSbgNNCr6Nlw+D+jHFxCBZOP5sYGLMLAiqj6Xx3Cc/dgiuuBbXuTnxHcGtMEcpAZ7iY56tBzYUE8AxEsYwDfEz/U9f8tWvZNqsP9cf8P6zjyYyhmShy11ONTmTYl2148NJDh4y+2CLH2tDzVZIMgmFxyx4Eazv/ijs5TXAVKCmdy7FOmXppb8W17WiGl28F76V5R4GK0rO/sCM8EFcs+EIbhMeKUzjBjIOmh9RkmTNic2M8Boh06ZRF403jaXCDPVk6R0ecSAFIZdva0m0Fjxd/HbwoR+yxJOZuY5EZYu/x6vgdoC6wZNMbWzvLZYbKFbarSBijedA+KuNj55g==;ZF2IkNVvm6nurw94KvLW3A=="
 ---
 

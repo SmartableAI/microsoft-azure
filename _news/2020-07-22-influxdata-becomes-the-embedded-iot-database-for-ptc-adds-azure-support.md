@@ -7,6 +7,9 @@ webUrl: "https://www.zdnet.com/article/influxdata-becomes-the-embedded-iot-datab
 ampWebUrl: "https://www.zdnet.com/google-amp/article/influxdata-becomes-the-embedded-iot-database-for-ptc-adds-azure-support/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/influxdata-becomes-the-embedded-iot-database-for-ptc-adds-azure-support/"
 type: article
+quality: 96
+heat: 96
+published: true
 
 provider:
   name: ZDNet

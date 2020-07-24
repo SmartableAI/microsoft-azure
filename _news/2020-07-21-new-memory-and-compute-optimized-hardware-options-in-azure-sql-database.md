@@ -71,6 +71,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Azure Stream Analytics is now available in the US Gov Arizona region"
+    excerpt: "Azure Stream Analytics, a real-time analytics service that is designed for mission-critical workloads, is now available in the US Gov Arizona region. \n"
+    publishedDateTime: 2020-07-23T23:00:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-stream-analytics-now-available-in-us-gov-arizona/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "New memory optimized and compute optimized hardware options in Azure SQL Database"
     excerpt: "New memory optimized and compute optimized hardware options are now generally available in Azure SQL Database."
     publishedDateTime: 2020-07-23T16:04:22Z
