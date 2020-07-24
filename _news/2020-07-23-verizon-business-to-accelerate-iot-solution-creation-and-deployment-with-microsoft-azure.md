@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-23T21:15:00Z
 webUrl: "https://markets.businessinsider.com/news/stocks/verizon-business-to-accelerate-iot-solution-creation-and-deployment-with-microsoft-azure-1029424968"
 type: article
 quality: 48
-heat: 48
+heat: 68
 published: false
 
 provider:

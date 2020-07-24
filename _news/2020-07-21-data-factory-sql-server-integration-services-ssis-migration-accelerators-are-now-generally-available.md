@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-21T17:36:50Z
 webUrl: "https://azure.microsoft.com/en-us/updates/data-factory-sql-server-integration-services-ssis-migration-accelerators-are-now-generally-available/"
 type: article
 quality: 46
-heat: 46
+heat: 66
 published: false
 
 provider:
