@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 61 mins
 ratings:
-  count: 145
-  average: 4.7034483
-heat: 50
+  count: 146
+  average: 4.7054796
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Prepare to migrate SAP workloads to Azure"
 
-secured: "WYtIusffFbW7hAru0WspSKv5tFoYIWpIuJ3D/wFkJO8xLWHrrW8yRwCJgaNEcyql/5kTMd6lHkTtDvi2GRJ1iGfcjuWZ+WYzDyIlHjMSuCX0b1NXFdQILwnGiAdVeC+rR7ysYY/naeXAkVlC7f+adNTNC/LUN5YgbesqlBgLmY+EucVcZ1mvg1pQwrG1P+nqQA0NZJQDme5D2rl6CV7nq7GgZuveYFLg3ievZYQEap6mO1Gpqen1qmlPWj2s6re8bno0XMgxs2VbkrAqxgHx1+fCHvzKRN2hzolesUATvobtD8nZAdwkD5VZubbphIJManX2oa4sUIPUVRCkYGb7xxZHitL4i42v/Wge/Kt8Y6yDlAPBvmtW5LlnDKbk73wIVUHzP3p8+iWoJSJxHXKdQg==;VVd2KLNeUzrzP9wFOQgnnA=="
+secured: "RmVFKZEmIeTt+vAgJOBy8ITfC9DZSMT2rWEXiDuUF1pXCA/zXVd9GImtmNBNaI9i6lVg4usoIvWYrK5gAeSfVc3UQCy/J7dyHiYW3TzizJtQs61an83wFXzSI/d4HW50J8KxM70VMGeoHZHaevEd/BGHzUQoXRAv2tuE/hbOc9/x/LCvnBdQhpdA1nxcRdpDLfBOdUBTuIMbZMo/phWy29qb/C8RLNErljiJqZECR26hUPmUqL25QGSahqL9gdQagN/iQHbuRGuucDYzyPumMwcO74nwWIMTUw9wP4odAuvWHBIGAqx1VBD2osFgb+QE/b0YOOChqhL5AV3IVyvLldI1hGTsTa94h37OWFfc6CBx6Lxc6Zm6p32OlWlD7Ea3QRRPVCny07kIeBrpfC2vpg==;zVwJGI7oW5y/+Mn6rHCvvw=="
 ---
 

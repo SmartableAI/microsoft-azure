@@ -8,7 +8,7 @@ length: PT46M
 ratings:
   count: 29
   average: 4.6896553
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Process streaming data with Azure Databricks structured streaming"
 
-secured: "goheFJVDeIIZymf0b5BjUvVNaYK1Aexjgxbnq7gsrJdLWrvS89rWGi8OBKg5C4ndPlsJ+gfTbmdeCP46tFRSQkx17CovV4fSq8j7PXELT6kV5ThKvZruuhxfPqeP35fyvrH313VCH66biG3yisjrviGNaN/V5zgMSapKL3KCGlgv7TAiDfqfmckJZt21JE0s40c6fkxqMZUbXU+Vfz2T9HbXU+oRl819NaEhJO+aciJizzQhF4KwYcVYvAGsCqa4viY3GVw6XgKKtHG9s5trXkbsTFmGxJGHxoXUcdnLpeT4VCyhIO5DfACtuJgP6Yp18OQ+Xgiv/PxsLuvoYXuC58U9NACaBXbC41IKCYRQU6hs3K9+lf2TMuhpeJyHv/vGRq1maCUbYIaNPHcaJZywxg==;PFFdsriXSeVdFjgc0/2bMA=="
+secured: "gFjfuW2eigMXLcaiB3yMrn6eeob9CpT0RYwb/WNlXnc3BukvtT8QHBbYA1OcKasL8OjqPpmjzZaP3GhYc0YW53MMG2Pj5bxvLB8QvU/t4u4/rmuh4jHhy/P5KHXPzR810T80wJ58+AEZk5ERIJJ6H9l5Zu/f4BUtkOQUb5oqrsVwDQ8UQeDYE7MoiRnIf2/2lEZxt2q+aExO8BbV209o9OUlI0bWy+SnBG4qfV+q/j9drsmvGpGFDJFQa9QsIfXCY70kiPTpWhQt7MAPesTyX3eBKw6wUfhS6eeeOe5jFMz3+lTW8rRXK8MOnhhOxFZZiO8C7zM7E/exkoy+pRhf0sSLkx9tbL53kECsiQdDEnYhVqTQRtHXLMvNFAAgKibUzdKYjYVpbN92lC94vHvSsA==;LXYQteZ/vpveg1vQptNVSw=="
 ---
 

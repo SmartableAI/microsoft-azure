@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 29 mins
 ratings:
-  count: 593
-  average: 4.6357503
+  count: 594
+  average: 4.6346803
 heat: 55
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Introduction to Azure IoT Edge"
 
-secured: "asOqZ94aJX8RGKzookERYjrnWrF56F4iJmIEfO2f6mLyLjYNRrzlhBRN7Y733Ro/sBmXZIH8+Vc8nNgVwSoGzviFUNco/jPzCX0litYQsSCBzrvxiEOelHrt0DtVEhE9iI5HCds1qIvaeFajxoQrcKN1zIeI8c9qY9DUX4YC+EecRs2RKaYXM+4g+RILVzeTNsiSncAXPvK01HIBQfqmF5xNKLEakPCrsPWehZI7uGwFLAg3q2AZC9oSH4/NbKKpemZq9d8BF9cckeKVhhr54yl0WMksvimtDfMWvYpHZ38fWxZ0PtOS8C9OgK7cACPEojf/iQn8hPByOcUbKGJhf88Ll0pi6YLyvolOV3MIu2vZy4CK0Kq6DzWLxB6t8uxSRRsvloBnBKfUyBalnEI8uw==;fMJcgylWOli9IQlRVqXhVA=="
+secured: "nluhOFx0L+YyTyqJ3QYopFuWJixs7b3i0XZgoeXonvlar0O8+r4bt8L1h70Fuy0B9bfuBaXhqTNhcTyJ6wcpbY/BhnWoCVm7xFmn1XZ154a+FPiZ/zKL3HorywRu2iBX4gttdyWCY+3dEFzr5I9m46woxGeWYB5oaQqLyMG33DBH+FuOKiS9XEKhFGcRI18PUqBl5LqeveW/yMXQka9QTGY0kWK5LWOB5xFdRsICixNgFCnaQLE4jawLy4IyJ0FtOKowpmpS53nPX01uYV+wzRmILZlW0XX4NHf/3V66gKWco0bUg0NdCJGxA3ecFq9Rd6cDfLuIB3ulrMmXSdZpC8PvajzTebVY+pCCkXAyN30ZVchtLprg+9Th2Q7AMQxhRxs35DW+BFyp3fSyJ8zVSw==;zCDAAh4msHKAgOsE53oM1A=="
 ---
 

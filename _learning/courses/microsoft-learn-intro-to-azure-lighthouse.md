@@ -8,7 +8,7 @@ length: 46 mins
 ratings:
   count: 32
   average: 4.65625
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Use Azure Lighthouse with your managed service business"
 
-secured: "lgjAtXN5qcaFkdBDsVHtA1bZQ6pUX8MkPZaG1Q+g4MIv1d2eyIJYlySV1ag1Ab3/S2SWPG5lW//ETcNJSXRDqkrt5+e/vY6WeF28y+E3QdBqSI6vQA0qS0TtioYQvgX2OkX1sG6UTRACTLbJSkPIPZiPKOpZx1q2w0wZvU4/39GpQVZk2iNbwrjtE5dEJgqXNOhLBQ/6p+a377JFxnhooUeU7OBIMf4VH4GydvMuq9wkTKH6+3wh0k6JbrvIjswCcFLPDqu0rg9hYhyoTX3tGPgUoECYvn0hVs3WVfVaC4/NFh9G/cFCz8y/9dkCMr51TXgyif64K2d6jXCucAOX3r65JIk11nMoZ8ET/CKVOYPc0vXz5anNIXsaOTMqvwmU6kX1fcr7cJGhwrd/GQydjw==;DdSQcZmWnp20e3eLyrrxkw=="
+secured: "LZivbBJPMvjz/S2XTktwQX9aljy3GDWu9rXPbB9A/oOxlS2VCY7ylL6/0T0x6+fZhc/caQLq/0aK8FCN+ycJ+qJcomZ4EMjmAO088/VYTJh+9eqi0yCx4BpHfadvDQD6Q/Ua7hF7Borqc6afJXp25Y/szzGBytKf2fIQBxvFDIe6q2+8vUPhZCwBiVxxGVoQh4k3wjt7T0s2M6fNlV80w0qPM6wD7rRgDyR7ciBDTyeEOiOjNsXYR61aUKtd6lI85srhpd2BL75WAVLw5abFXVf9ygojOL65hCOBlbR6AtWF28y9E7es1QjS52/Iparcs3NzZzDvTKpHUnKiQh8g5Zf6VAZzqe4IDBPFndAsKmf5xVD2YL913iSDXFuhKo1y30DFCNIfSVZ3nNwJKVm/rw==;mBnbH4Z8w1hr+Q8Ez227tw=="
 ---
 

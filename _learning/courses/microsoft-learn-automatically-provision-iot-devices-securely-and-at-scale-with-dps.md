@@ -8,7 +8,7 @@ length: 57 mins
 ratings:
   count: 163
   average: 4.6503067
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Automatically provision IoT devices securely and at scale with the Device Provisioning Service"
 
-secured: "ZFDDusLyXpBVSuFZwpJ1saotT3qRccW2OarRmZQZf7/BWYKRuh99eTN6YPcb1u0fif7SjGLj/CSafwS893FkoXD/A+X22B/n8LrTlAvbYS3GCbpdULAKwTHx+xVr0ubg+wq1PoNaN+Khw5pOB1SLp2kGiDYF9GQTxumRlQsbsEhwLz4riDj6WgaOXgFJ6rXW60fXYqQvKqBTaUPgFix0lBitu5WO+Th1mywVinCv5EbsjCxihoRSpP1ngMltM3vYZyP3IMtnXvfKay6+F6MvHmkgZo4AiDMo+CXXN5sl5r5bbDftXy8sGEp2L/vkZNyGbtI68plsEWcD00XkC+wwZvq32LORxmKzst0T3fMvV2PV/LXtiMbtY3Y5tszpmzE4LqgirTPqZPwvLSoAYDFJTQ==;7yew7bwGDl3X2Zq9TL/CJg=="
+secured: "COHl3c9wJEey1yQ+hPH4QA/D6fDuSeVqAcIKTCMMenLXgzOIZdn+bD9fLdtWwligaVry8HKIO2bwur7CIXGgK780rwa1PTdYfFJAH7GX7eXQLNKq2jEdg278+2rjveC/qci9/9T+LVm9gLJbZTX/FEuifSmYqNnXWaFGtCMtrOylhCDIowLoDatrnW1zXGH0tdPe0zgxVRVluEdgSFnqNhH22+llIyslAb/XiTMGZkuvDO4r/yc+P8vvg5IyFd7iZvUQf0ue4JFvCYRbOr782arJVAp6DoVPejSSYcdIwf8UgHyE0ylpPcsuexdchP3LBTJ/pEu5b5dtp5cobaTUGs2VeVtph5RXSceg+rWSOPHzTrQd91VT16+zLS3cXubxm6Eszsz8Ql5Crt/cvLW6+w==;BBFwAX1GeJAeoxcn8lxTcg=="
 ---
 

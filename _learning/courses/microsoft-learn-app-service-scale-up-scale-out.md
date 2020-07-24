@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Scale an App Service web app to efficiently meet demand with App Service scale up and scale out"
 
-secured: "mhlT1YNivusJDo164Llekwn3o2Lf34GR7QXRxsa+qc/AtNJejFiIt/8gsyEmQwuD3CIiWN5NyrOI8nCVAr7WFWeVN1h1MUHT9tt+tZc2Uwh+/DMtIw5aailjVM+SbX0vwUlxQIlDOBLV2z0+gdjACijr1y+9yjTV7M8yaWDHEZN8n5dV9T/98QKmxwVLMbXKk/5pBqbJVIstYZhIVoWXqmoDdQy3I6YLK8hbYD1rhJd7OF5Dw7o84qPECCXFMAnCYPsUcTZ+M73E7PMsvx3vYm7E/oMoZqIseMeJVON3Egp96s2TzPLo1fTGhz8Gp075NagSLIgX13KU8ONlVo15aYgQzygFoZJZDHGlSfyXTQM/Zfl1cm28uLMJt89PLtcb+lgeLcbw+zbfj96axodPmw==;NNJW9TkYLthBOAKnOVXI9w=="
+secured: "X0QQI/t6XPubrIPHkmEpBHvHKJRzlFm1yj7aTE4uJz8QV9NABRyHWGoK/znbyiP5WzCvmzp6evdA0ldiPuUHZ/YCh8Mm+xE7kItCI091vugMNep5zUONTMUA3t/Lv5f7p+1BzFg7QXhyDtZXmHf/zxM8epnYXmRhHhy2+qomWBe0/K4msThzm9uhe+Hp2u8M209w0k0rfX5rrCgBDS8h171LQ+vtLD+QpuM3MatrfwvPtm6uRjZKV3CrCZPQtlZ08w5qdcNI/wKvf7qMHlglLOP4+fx0RpPvzMePh6N8ddh5KC2vS2K/XHPYLAZRn/JrwFRjFTtJcJdZCyWLJSN6n9ADGXpitNdCr7aN/TyYWh+hPEKtMCVAlf5RarurmaxMu/7qIHURviy7K8HFiNgLjg==;RCcw3V6VxA4ep2PVB9oxSA=="
 ---
 

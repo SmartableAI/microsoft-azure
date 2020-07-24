@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 145 mins
 ratings:
-  count: 166
-  average: 4.753012
-heat: 51
+  count: 167
+  average: 4.748503
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Azure Kubernetes Service Workshop"
 
-secured: "p9ufj9S1+f4yAa3ZhVx88SkjjSJ6zIiiA42ToytcHjCQwOlT9DNcugrrQQchuKOMZdwVogvzZBVMr0rH32OASSaejatGBDZze0MUl8MGfBog8v1ADeoGKlGB1IwNW13omaIp8JOMRiAEZ34jUQEvTctVnThFNR5U8a5MKj2WvSM4KtB6RHd52rV0RwG7LVhVEbC/VUhwu1Er7JlQQaPxCYNVqQoPnGDfPafh+W0RgeVB3ZV3Ge3SMwbqvRWl4cNHc2tG2Br6Wib77KS3BblJn5VZ1Akr1R1vNw8iEpaAkhEIhFzFOBYBR/A+t3q7vJt5cjbjZnTgTU6DOEaY3QB6iOVMEHBuI1OnowJ6RrNdNKU19MMkqOm2WSFZVQ12ETqnHWRLBTKQAdb0+ArW3INpzw==;asyMUrSWM5oB/nxEWh7Zag=="
+secured: "6tLaVJaJ9/LLWZ+Oe0z5iQObyonwlFXHJY9oJj9zE5is3akNHAK1CjktJwRpjURxAFbdHNx4/jmy4rssQlqBD1vuDsHs5Pw6VblF7TLw71Sb53CE28xv4xjhm2xbI+Tz9LueuKy11B1DG7q9xjX2Llc9b3s9G4CYLWzhY4tGh6sRuH3UOUBvjWUXSCQpqEVh2LKKdSF3czR/sZ5nHsHJwbXipij6Z6se1v1GZUaSRkN+UGN9kuYv+lo0mYZQYcdxUM9Qwr/afnlC+0OcRQVdWguDTIk3IQ38Tps4kRQ5Nub8SZpzyPVk9OzKJLPBkWdIUqutapE/YdhBf8n3YNsKeX/o2lG3Pyfzg6WzxEfsPTdQdm6zNg39pAb/XpNKhrWgFtTajdFdO7DJBt+THWWBQg==;DL++J1OTnfWTaoSVS95KzA=="
 ---
 

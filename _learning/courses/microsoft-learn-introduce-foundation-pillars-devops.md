@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 25 mins
 ratings:
-  count: 409
-  average: 4.6943765
-heat: 54
+  count: 412
+  average: 4.6917477
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduce the foundation pillars of DevOps: Culture and Lean Product"
 
-secured: "wEkjRMLH9NTr5mCecIPF6VatFDwhDBYA890mP6v1sIL+fZ0f9ht97xbQ54CwyJbtyBqiosE7w2gTYe+1BrN5OX7DtNLX01vYr8S+BqnT6pfKLZDTcBY6ZHung7x1c1FdACrB0wbG83rTTUl5GqZhBFh7tXggbd46z0Pjyd9uvtIl0AaqnLUJcp6P2T/Z7U+iwFAeUYPt4PlMadhKHkCLYDRpbDeA2V+izJavh3lMBt8app8z0uDLj2A53gNpQu6wskVhbWxDkoafBfYH665dZPj/ieFQs+ck7rz3rWJY/srfLUtJ/x37VxunU0vYzqautaf7uvelFM4UYoMIzsTsPXDdp+vZpn7HX9gHczLEqYPg9KrmzO4msJy3FQ6mFj0cFwVWbh/xr2TqmcXmvXftYw==;YxUEV9Cbyqn40RKE104giw=="
+secured: "YFpKHB/XMIRcdhmGn0+eGZ3oR5JrbU8LRVCPSK9MYiHolnSd/OWDQ4IjsCwu9On1Bu3PvK2T/30pzvI8g9kgGywebqNHvBOdmLYrxapdhSI6wx9/AjfALhsnA9u0dfpjpoNYTK6bwWNyW90A19J7kEQU7jom/f9XUYtqOWb7Und0AYD6SPPuLxEPg4sqvOwnxr9QOE2duLQXsSALAmPcPBiCGtCPPDNNY0PmyqelYP6b/eX7t19NDTM7ZtxxBokmPj5URS9O7qyPZthR1zxcU8eytqh6VE3hvEH/LzDFJcUCRKjIw7aDHPcv/ESnCPsxR2v5h9hJsgagujjokLqg5Y4B5astGJeilx8R1bvnqdVHqMfQCbY86k9OeJyAqVK6lB2Zz0tEH1CcmWz4xd1xwA==;DkZaFwzgMiuSAMz6pAjTVA=="
 ---
 

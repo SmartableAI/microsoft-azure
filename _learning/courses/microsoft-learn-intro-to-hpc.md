@@ -8,7 +8,7 @@ length: 50 mins
 ratings:
   count: 735
   average: 4.570068
-heat: 54
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Introduction to high-performance computing (HPC) on Azure"
 
-secured: "DxQ8QntZiTkvidSg6hyA1nuyUbYcf9tujz34Sfc8dL8ZKItYsDBYFLLH/rbX/+QbNx5yrqV6Ov2W3zMmqpIIG2ZrpOmyr+8sPBEAn8iB1iSGs2bOfxQ4nUXk8pHJ7Nv5gfex45OILsGHQQ+x77+2YQaoNSRRPMOyj5GujyrcRiMImd8HlJEaJQuu2kUkz9Nf67xKamIMPT5dVR0Fv81w01h6HZWC/Mxp1EvlXEPf+3JpOuFOz1cXSNwFNaoMxdRBzMDrAcSktw4F2KHfBiwPiqMcPyDcvnRxJj0TSVWGXVJL7njh1GOQjtKQ8b9gcrnjqm6WkDOjtg4MK28xRvxjauXvwskPpIeULnS+zj3+USXdLGqbbXaqp4xrFh0bl+XZFJ/WCABxht7M5a5B9gx0HA==;83VNhZLbd4zSqmUBu0j2RA=="
+secured: "8df9jfRF4DQrLECAnSdV/nug84YjbaV5W4Oi0XjIjdqozvmtX/wi++hCrd2bx64FfYhPuqa7SUwwlinCxgWFvrA/4GAd5kdqP+E34LY8bj3lGAsMDV3n4ohlRwIWufSsjKvaIIJvPt5quyajtc4bR5+qykiFhyULInUC3CateybxBMPGEFlu3OinoMjoNqwSzqA8Pgs4N4qWJ48WChISmu6Sky9wmGrRG1j4wlZpk7Zqy+7HvWE6j0UUYzpqfP1zGhJDF6YIK40VJYztX+SDLe0lIzmJsmUHOHznN1P0DCYFXQI5BQH142rSazznDlGoxo85oiekVisexI8Zv1ebWQPfsGSnUO2qpRPT9QFE94mFU9QQD7zgVmG3SqhMJufG+86EOofIPcRqj+chuPgKwQ==;/rpaMqQ7qoE2ld9mPzA/pw=="
 ---
 
