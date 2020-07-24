@@ -84,6 +84,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "ZwESwHo3+tFadne6f/6Ln3tk13UEqtIiPxeBOLJ7pvM0UzWfTNn1e1/fSm1EOoUuwQcWGQcQzKPzIVnwmE0ebvDIJrvy0GJdJ7ZcJoyLO9jozJlPNi8/HSwjKXNhlFh33pNzvbEkR3jnPaQZ7zp3a0DQZU9vY9hePhNdivQ7tUT310q27d307wD6Zhcx6/o43veyz+B7hhiiXYdFSo4lo3JiqA+ea5aDzVW/CmG971ysL2XuGfeqT8S7ewrZaqlaoq3Aqi/mLR7rYlyI8JKgKcQ5MRp/gvrzzHiGeRyPdlE/mvd+vj7k4ey5CSXN5fmd3Td6ld3VU16c8jJ4DZtIsw==;XZhLxlJmGtnJf+XKlpSvXQ=="
+secured: "cepRrzlSl8AgqqrgbtM3K+k82hlLWEpYxE1T+1HIbtVgaCMP25WrlImzek3TJcJ1Nd57bjo8XCDRqrJj5QJuNP1J7pXFHtRyW3VxBL85UOM3CdgVTyS9p84KrkevRMPwHPl2BiGj6AMNT8nM9UdMNNhw1PxCuGMpkiWXeZFXpVINQAwLAATEPjNc+v7rSIrPUIK0zyHrLtxrpQCcwFnc8S63wwSqrds9R/4kc6YbU7eJRs/bXW5r8iZVjSsuI1YNxXpBK+FYrHpU8n//W1MHo8lf10c0LBScqoPtCCKkdt5LKG/CE7JhwJniRmUZDB+KnBqCUHVzQZHgREmsl2VxEA==;6BWbcAgg3ldXAatG8F7vsw=="
 ---
 
