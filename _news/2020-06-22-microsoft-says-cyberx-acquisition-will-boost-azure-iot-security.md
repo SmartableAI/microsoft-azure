@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-22T15:56:00Z
 webUrl: "https://www.crn.com/news/internet-of-things/microsoft-says-cyberx-acquisition-will-boost-azure-iot-security"
 type: article
 quality: 37
-heat: 57
+heat: 37
 published: false
 
 provider:
