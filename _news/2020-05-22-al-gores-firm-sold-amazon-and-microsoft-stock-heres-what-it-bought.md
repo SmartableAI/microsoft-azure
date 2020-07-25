@@ -8,7 +8,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/al-gore-firm-sold-amazon-stock-
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/al-gore-firm-sold-amazon-stock-microsoft-palo-alto-networks-51590162874"
 type: article
 quality: 42
-heat: 82
+heat: 42
 published: false
 
 provider:

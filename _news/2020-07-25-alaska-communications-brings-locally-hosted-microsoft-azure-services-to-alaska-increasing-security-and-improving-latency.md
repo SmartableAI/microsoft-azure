@@ -1,34 +1,38 @@
 ---
 category: news
-title: "Microsoft is working on an Azure-powered Cloud PC service"
-excerpt: "Well, it's happening, likely as soon as spring 2021. Microsoft is currently calling the coming virtualization service \"Cloud PC.\" Cloud PC won't replace locally installed Windows (and Office) -- for the foreseeable future, anyway. It will be an option for ..."
-publishedDateTime: 2020-07-20T10:09:00Z
-webUrl: "https://www.zdnet.com/article/microsoft-is-working-on-an-azure-powered-cloud-pc-service/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-is-working-on-an-azure-powered-cloud-pc-service/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-working-on-an-azure-powered-cloud-pc-service/"
+title: "Alaska Communications Brings Locally Hosted Microsoft Azure Services to Alaska, Increasing Security and Improving Latency"
+excerpt: "Alaska Communications will bring locally hosted Microsoft Azure Stack Hub cloud services to Alaska. “We listened to our customers’ concerns about data storage, which led to this collaboration with Microsoft to expand to bring a hybrid cloud solution to Alaska businesses,"
+publishedDateTime: 2020-07-25T01:30:00Z
+webUrl: "https://www.nasdaq.com/press-release/alaska-communications-brings-locally-hosted-microsoft-azure-services-to-alaska"
 type: article
-quality: 97
-heat: 297
-published: true
+quality: 32
+heat: -1
+published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Azure
 
-images:
-  - url: "https://zdnet2.cbsistatic.com/hub/i/2020/07/17/b7e08eab-61e0-43b4-b701-277f2d271516/microsoftcloudpc.jpg"
-    width: 1018
-    height: 763
-    isCached: true
-
 related:
+  - title: "Microsoft is working on an Azure-powered Cloud PC service"
+    excerpt: "Well, it's happening, likely as soon as spring 2021. Microsoft is currently calling the coming virtualization service \"Cloud PC.\" Cloud PC won't replace locally installed Windows (and Office) -- for the foreseeable future, anyway. It will be an option for ..."
+    publishedDateTime: 2020-07-20T10:09:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-is-working-on-an-azure-powered-cloud-pc-service/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-is-working-on-an-azure-powered-cloud-pc-service/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-working-on-an-azure-powered-cloud-pc-service/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 97
+    images:
+      - url: "https://zdnet2.cbsistatic.com/hub/i/2020/07/17/b7e08eab-61e0-43b4-b701-277f2d271516/microsoftcloudpc.jpg"
+        width: 1018
+        height: 763
+        isCached: true
   - title: "Microsoft to launch Cloud PC service powered by Azure, according to report"
     excerpt: "Microsoft will reportedly launch a Cloud PC service. The service would allow people to use PCs as thin clients for Windows, Office, and potentially other Microsoft software. It was recently revealed that Windows 10X will stream Win32 apps through the cloud."
     publishedDateTime: 2020-07-20T14:45:00Z
@@ -79,15 +83,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 37
-  - title: "Alaska Communications Brings Locally Hosted Microsoft Azure Services to Alaska, Increasing Security and Improving Latency"
-    excerpt: "Alaska Communications will bring locally hosted Microsoft Azure Stack Hub cloud services to Alaska. “We listened to our customers’ concerns about data storage, which led to this collaboration with Microsoft to expand to bring a hybrid cloud solution to Alaska businesses,"
-    publishedDateTime: 2020-07-25T01:30:00Z
-    webUrl: "https://www.nasdaq.com/press-release/alaska-communications-brings-locally-hosted-microsoft-azure-services-to-alaska"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 32
   - title: "Microsoft Cloud PC is Coming in Spring 2021"
     excerpt: "Microsoft is working on a virtualized Windows desktop experience for thin clients called Microsoft Cloud PC. It’s expected in Spring 2021."
     publishedDateTime: 2020-07-20T15:25:00Z
@@ -144,6 +139,6 @@ related:
       domain: webindia123.com
     quality: 17
 
-secured: "dXwX1tBaA8utnC+1RS9vDZZe2lOLGUW8HD3Lxi+tpy/lAGJrTSCNw3Ju22bXDuo/4V5iTSVUsYSqSnIthgH4MNU7ek3FjaT4aCiGea9yOEFBgIXyTvscOG4SFBi3m16jwYp7VMypkmxvMowc5/C+4BhY23mkR8lE3/6bNaPQJQK+mrO9JXhbjGIz6Yr5AXHdwSS8r2W9doibBgkW5l1DOSrzOAth2tcWvBiIOgoqiS/OrKTTGS9yHqCHkbDjUs+Y9Cvl8tfuzhREEJkD7zLDvwfcky+MfMIupF29/wCy4/gji5IaJ+bZ2xccrGxdGasJX42DNVkSpmVVxfQDdAef3SbcZ+MaDfzpnNyVY335E3nrBagWgzE5G2YkcvLc4I3xcqypl09jiUc6A9WfiMFKgQ9djbfOqdqtPbdwPei0S3rJGp2fhF+JhmsMLpjjN4ttaHk0OMmHoDn+blPv/4nJq/1lRKyGpMR9sjyzmsCf2CPSrdTARtLZWOTpTT+oAJ6e;f2ygomiacISjKiufTNxLpw=="
+secured: "jl55MfAF2LxZ3FernhMxGaTLyXc6giacalXuD137CiujCxWn3u+Eskga+UAblZARtSFU8Jw4X+bxVI/JvCkLS+nVevo28m6I3D7Xr23bvLCh3yifui04w9ByJ8aUZQrqUNQWxY13Igguy0EbV8gTM3R34e2JtcqzdhQ6dVyCWl0H2vetG2XXjixhNgzOSihfSMsF0VPn0HvIT6g//UD6vxYYNHs69sd4U8VqUgOjAve4p7L8XgqegqdsICM9QkH5CeIrxVFm6aY+C66ht/rr1iueXhOjjq9s7wYe83xt3qR6l51eks7qjbl60au21rB91SuO7S3CNt7izoJ2wnrMfg==;BekrE00BRMVjgWGGo4qzbA=="
 ---
 

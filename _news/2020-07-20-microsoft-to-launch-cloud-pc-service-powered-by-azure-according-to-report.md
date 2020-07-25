@@ -50,6 +50,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 51
+  - title: "Barracuda has launched a new SD-WAN service built on Microsoft Azure"
+    excerpt: "Barracuda Networks Inc. has announced a new secure SD-WAN service built natively on Microsoft Azure. The new Barracuda CloudGen WAN service is the first SD-WAN solution that runs inside Azure Virtual WAN Hubs. The service allows the WAN Hubs to be ..."
+    publishedDateTime: 2020-07-20T23:39:00Z
+    webUrl: "https://ctovision.com/barracuda-has-launched-a-new-sd-wan-service-built-on-microsoft-azure/"
+    type: article
+    provider:
+      name: ctovision.com
+      domain: ctovision.com
+    quality: 37
+    images:
+      - url: "https://ctovision.com/wp-content/uploads/space.jpg"
+        width: 632
+        height: 422
+        isCached: true
   - title: "Microsoft to launch new Azure Cloud PC service in 2021 – Report"
     excerpt: "Microsoft could launch a new Azure-powered virtualisation service called Cloud PC in 2021, according to a report from ZDNet. The publication discovered a job posting on the company’s website for ..."
     publishedDateTime: 2020-07-21T11:37:00Z
@@ -61,6 +75,15 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 37
+  - title: "Alaska Communications Brings Locally Hosted Microsoft Azure Services to Alaska, Increasing Security and Improving Latency"
+    excerpt: "Alaska Communications will bring locally hosted Microsoft Azure Stack Hub cloud services to Alaska. “We listened to our customers’ concerns about data storage, which led to this collaboration with Microsoft to expand to bring a hybrid cloud solution to Alaska businesses,"
+    publishedDateTime: 2020-07-25T01:30:00Z
+    webUrl: "https://www.nasdaq.com/press-release/alaska-communications-brings-locally-hosted-microsoft-azure-services-to-alaska"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 32
   - title: "Microsoft Cloud PC is Coming in Spring 2021"
     excerpt: "Microsoft is working on a virtualized Windows desktop experience for thin clients called Microsoft Cloud PC. It’s expected in Spring 2021."
     publishedDateTime: 2020-07-20T15:25:00Z

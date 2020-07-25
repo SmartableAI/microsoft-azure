@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-14T18:28:00Z
 webUrl: "https://www.lightreading.com/cloud-native-nfv/microsoft-gets-serious-about-telecom-with-metaswitch-purchase/d/d-id/759668"
 type: article
 quality: 22
-heat: 42
+heat: 22
 published: false
 
 provider:

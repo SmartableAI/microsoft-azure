@@ -1,27 +1,25 @@
 ---
 category: news
-title: "Dive into Microsoft Azure and Prep for Key Certifications with this Training"
-excerpt: "Microsoft Azure is kind of a big deal. The cloud computing service drives virtual desktops, communications tools like email, content delivery networks that ensure your files are always available ..."
-publishedDateTime: 2020-07-18T16:12:00Z
-webUrl: "https://futurism.com/dive-into-microsoft-azure-and-prep-for-key-certifications-with-this-training"
-ampWebUrl: "https://futurism.com/dive-into-microsoft-azure-and-prep-for-key-certifications-with-this-training/amp"
-cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/dive-into-microsoft-azure-and-prep-for-key-certifications-with-this-training/amp"
+title: "InfluxDB Cloud now available on Microsoft Azure, Google Cloud and AWS"
+excerpt: "InfluxData announced that InfluxDB Cloud is now available on Microsoft Azure, furthering the company’s commitment to increase accessibility to developers. With this announcement, InfluxDB Cloud is now live on all three major cloud platforms — Microsoft ..."
+publishedDateTime: 2020-07-23T23:34:00Z
+webUrl: "https://www.helpnetsecurity.com/2020/07/24/influxdb-cloud-microsoft-azure/"
 type: article
-quality: 54
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Futurism
-  domain: futurism.com
+  name: Help Net Security
+  domain: helpnetsecurity.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://wp-assets.futurism.com/2020/07/sale_25748_primary_image_wide-600x315.jpg"
-    width: 600
-    height: 315
+  - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
+    width: 304
+    height: 430
     isCached: true
 
 related:
@@ -41,6 +39,22 @@ related:
         width: 1432
         height: 1070
         isCached: true
+  - title: "Dive into Microsoft Azure and Prep for Key Certifications with this Training"
+    excerpt: "Microsoft Azure is kind of a big deal. The cloud computing service drives virtual desktops, communications tools like email, content delivery networks that ensure your files are always available ..."
+    publishedDateTime: 2020-07-18T16:12:00Z
+    webUrl: "https://futurism.com/dive-into-microsoft-azure-and-prep-for-key-certifications-with-this-training"
+    ampWebUrl: "https://futurism.com/dive-into-microsoft-azure-and-prep-for-key-certifications-with-this-training/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/dive-into-microsoft-azure-and-prep-for-key-certifications-with-this-training/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 54
+    images:
+      - url: "https://wp-assets.futurism.com/2020/07/sale_25748_primary_image_wide-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Halliburton to close its data centers, move to Microsoft Azure cloud"
     excerpt: "One of the world's largest oil field service companies, Halliburton joins a growing number of companies that have turned to the cloud to maximize their ability to extract fossil fuels. \"The scientific consensus is clear."
     publishedDateTime: 2020-07-17T16:33:00Z
@@ -54,20 +68,6 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/FrackingHalliburton.width-358.jpg"
         width: 358
         height: 268
-        isCached: true
-  - title: "InfluxDB Cloud now available on Microsoft Azure, Google Cloud and AWS"
-    excerpt: "InfluxData announced that InfluxDB Cloud is now available on Microsoft Azure, furthering the company’s commitment to increase accessibility to developers. With this announcement, InfluxDB Cloud is now live on all three major cloud platforms — Microsoft ..."
-    publishedDateTime: 2020-07-23T23:34:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/07/24/influxdb-cloud-microsoft-azure/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 37
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
-        width: 304
-        height: 430
         isCached: true
   - title: "Train to Become a Certified Cloud Professional in AWS, Azure, Google Cloud, and CompTIA"
     excerpt: "Much like the last course, this one also prepares you for a valuable professional examination. The AZ-900: Microsoft Azure Fundamentals exam is designed for candidates looking to demonstrate foundational-level knowledge of cloud services and how those ..."
@@ -93,6 +93,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "f0wQ6hDOOOVzLuavcou60PafTJsI+aF280YmnNPXytlbE5azvOOSbljJJgUkXiqNjRu3JNz9KZ0SkGJc2nPncZ6zUtToPbZEHiqy14euU6cVhOx/AEK0Io4Elayp8J5UWE6RseluSc+gSd6Rw8KfSbZwIFIoSNYIH7xW3s9h6QelMCHffga0kYiFybyWxR+WQDh6gUWTaXXxkmBPX1NCmbjTywyVf0x6Pug1o9+3GibuOIoM+CKDr09ddN6Cc90cPMrVVN7FsIEh7/nL8iLOacqdRvxaRSGS7TF+ol4aowv/egFUzn6cdVGET6CCnlhepDvlNVVUQhX22Sj+QRgM3cYpd0fEfqfMfXVEIG8DX+PBhNG5+abMGzZRx1lUC7grnMN3cFCXs8r8nYWBIwDZwGunhl7N/Yl6L2ZBMoS41V5HrBAJchz9/s1qBaeGZ8McqQO/Jmq8fjuqY1k67/lGmtZaAsIy5Dkuq2zvW9P9pSYOwwBaNTuQi/x4d4A0BjMnm2QxhW0m2XtGSYDWLXN9SA==;I/8AfPv4zwjQ2CBhBms7gg=="
+secured: "bsi4GNVDgPr/2jk4/pZWAVyMa+4KxH2qMX36/17CiAXpIu6N5Z5dMzZKEDum7n7YOkjjVJhZHhjZka7eelj7T1kSHPTqqGIuD1yL9evcQ45T1VYWct/Hn+F+fECkVJXFZsKLEeMLiZlbGiT8CEZiKaJYPZwK0isv9ViEW7urXc9Rlql8gkiDOXXE0q3O/h7bfIVwx5/aDmkucA3ajW2Fl7uJK1QSOph+1EC2mGR49g4F1EucQC3T2kGjz2NS5aaLsmxLTHzMQK73ua7MnviJmlXzfFTis7j6+iU+GcltORKzyMCOcIXHSlNgaj28pgfA86eTBXN7km/y2h1QMJQPfg==;EUS+fMfKew8atGPQ2FffbQ=="
 ---
 

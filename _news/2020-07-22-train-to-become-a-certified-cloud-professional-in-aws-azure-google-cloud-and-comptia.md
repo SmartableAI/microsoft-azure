@@ -69,6 +69,20 @@ related:
         width: 358
         height: 268
         isCached: true
+  - title: "InfluxDB Cloud now available on Microsoft Azure, Google Cloud and AWS"
+    excerpt: "InfluxData announced that InfluxDB Cloud is now available on Microsoft Azure, furthering the company’s commitment to increase accessibility to developers. With this announcement, InfluxDB Cloud is now live on all three major cloud platforms — Microsoft ..."
+    publishedDateTime: 2020-07-23T23:34:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/07/24/influxdb-cloud-microsoft-azure/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 37
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
+        width: 304
+        height: 430
+        isCached: true
   - title: "Trend Micro Announces Cloud Solution to Strengthen Misconfiguration Protection for Microsoft Azure"
     excerpt: "PRNewswire/ -- Trend Micro Incorporated ( TYO: 4704; TSE: 4704), a global leader in cloud security, today announced its Trend Micro Cloud One™ – Conformity offering is now available to Azure customers,"
     publishedDateTime: 2020-07-22T12:00:00Z

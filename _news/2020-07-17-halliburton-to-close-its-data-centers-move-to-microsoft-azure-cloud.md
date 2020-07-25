@@ -55,6 +55,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "InfluxDB Cloud now available on Microsoft Azure, Google Cloud and AWS"
+    excerpt: "InfluxData announced that InfluxDB Cloud is now available on Microsoft Azure, furthering the company’s commitment to increase accessibility to developers. With this announcement, InfluxDB Cloud is now live on all three major cloud platforms — Microsoft ..."
+    publishedDateTime: 2020-07-23T23:34:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/07/24/influxdb-cloud-microsoft-azure/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 37
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
+        width: 304
+        height: 430
+        isCached: true
   - title: "Train to Become a Certified Cloud Professional in AWS, Azure, Google Cloud, and CompTIA"
     excerpt: "Much like the last course, this one also prepares you for a valuable professional examination. The AZ-900: Microsoft Azure Fundamentals exam is designed for candidates looking to demonstrate foundational-level knowledge of cloud services and how those ..."
     publishedDateTime: 2020-07-22T13:44:00Z
