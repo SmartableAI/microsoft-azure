@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bizjournals.com/washington/news/2020/05/08/jedi-case-bec
 cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/washington/news/2020/05/08/jedi-case-becomes-an-attack-of-the-blogs-between.amp.html"
 type: article
 quality: 42
-heat: 82
+heat: 42
 published: false
 
 provider:
