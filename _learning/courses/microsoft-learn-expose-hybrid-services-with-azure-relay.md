@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 44 mins
 ratings:
-  count: 156
-  average: 4.6858974
+  count: 157
+  average: 4.687898
 heat: 51
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Expose hybrid services securely with Azure Relay"
 
-secured: "4spcDjPYIURVciYFrX+QxFZVaG2IxrYrUU47pmr/d0NE0B01JrWi0VZ7nU7tDRZwyqv4uOljuvSFlIbEI3mWom6i9cXVgZ5dTLUbuBQv1XxoLtnrnQit7KYbv+JeCe2lq4bquYs7Rs8fcXg0OHZCb7viymhqybcCAe2X4iR5Xb4f5GbZODj1Y+Qnnw6Ghqnl7DDUBwCsHegmrJaZyqLkwtrGDIJP2rGjzJHfKSMcWVLnuuJkYRolAV0yAtBsWlKfwSaHaEaGkljqY20dPwVcRMymoFwfI8RGZEDiPV9PvmbCI/Vdh5w798XNKaF7EQC0RH2hbQHmT7ktzmg7i2q2D0hBMSOh4LuF2t66HyuqGIoHxMEbcsTCmCxSALAoH6ECjlBF18Eh4seLW7h3BD83NQ==;urwT94fC46TMfYnvnp8Nyg=="
+secured: "n9Wwnla+jBXAkerTRMG7bORLSP8HT1+U9nb0XvIv3m8QQ8QFiXv8ESQ/Fi4QZaqHA0XD5ub06OSoXI6l24JwQ5iWxlZA4H5PzAqCr+Ga1GmTvjwzvMTbTQ9JT1WBmeJrwISaw9RBnoiqZduFrMe3Jq0S3Uu9kOaQFLhwMUOQdTommLlwV+vpLlqSMiIwspLsvsASOCOuj3U4shfDJ+5k57IpY3S6fSz9fHUTw9hnyScUngdWDuyp/nS4tfeoOl3gNjbK5+KPSffXdPyzbzu2+6Z/vxRAlaDzx91eup1emRj3OPGNU6dXUWizX5/jG2Y47A+p4ki3/bq5N30fG0Hvr8jnb762ulT7dWRRyb7x54piV0f5doOzYl+6A/Z0wFkSOt+vZ2DsgNVMbbroYBu2vw==;xLUYXO9Dv3D4kGwQmZiPAw=="
 ---
 

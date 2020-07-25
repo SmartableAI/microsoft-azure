@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 55 mins
 ratings:
-  count: 399
-  average: 4.7192984
+  count: 400
+  average: 4.72
 heat: 51
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduction to Site Reliability Engineering (SRE)"
 
-secured: "Tj+uRHJCUVJHjV/kvUU/uVOYLQFR+ZyE4qKUb8m/SwLgrzpU6p892e5sJo7yHiq/iZByCHTwwBSjFucr+LHh6f5+p3bRRQvumIViO0kmqr/bQuIDBh0KF8KTxza20ZpW9t1IpaMurxfhi/fWbfrU1GMGurdbe7CsNNk5JJUQVEcI5LsmzrMITJOlvyg02cyFtqG9sakDVASXet9gW4WevMAwjI0effTT6g8uv22vQ6pITZLVvZynkO3F9GOZDrDwkOAJerrxkZwdeRoLPUR/dMWYLZ7SYhmmqtRNq30KFw1RViIz1iaPA86Itrkc/PM/EV0vS7eK0tAZI9mw3KrQLCMcL1lP8VEFePpPF1P08r2UuFrenvcaD5wy6XmyI5uo+Sdp/pV5CXii0WMGfrAiNQ==;JDX1N4tVsQM8zOBpmb5uPw=="
+secured: "JGcHzZtSC6TUAlQZOCJ8hVqlN3FFqPH7JnwKpthaZaK3Hl3I4m/lI8QTtCUjnDxZYphpzS2/u447svf2FM6LECLc+9v/7FXrWRvMWaQrAx8/uVCllmiq1xBskSCSKLbjya7+7Bw8twNLPa7gmNf4ZZvQd/Xx0hKMhm1q6Mlg024LZVq5cLNn8IPPK8dD5vVv0WpCn2f1pK8rE1VD6Ty2aHfzzZWlBzBQsd0ANNrRwnzmYg7TOmMiiG+zI+vyp+XlqdXXwsnXwrT1YyAAWlAoLune9hFNWgLD32qwXTb/z5yjajgj2qhQV99IpOnsxzrZHZ/WHeEdatBmhV7htdzgFqKqGsS7anAj3+3LEEOTSfmeu7/xADwreH4J5O+WsHDhs08TsI7d+0CZ8XxzJpHSXw==;hqzOhndmbW4pw9jUj5nPfQ=="
 ---
 

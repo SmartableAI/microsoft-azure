@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Migrate on-premises MySQL databases to Azure Database for MySQL"
 
-secured: "Lmfl1MVLMEY0ANddVwD+sqTj/EXD9ztLRou6Zsp/VxVdex/7qwCxnVQDrWvSra1bP+AbV60lFz929IxPcxqrB6jpbCHpu5qMmznqu8t9hW1hVbbHhMVKGh7D6vDF5zJofT68EAMx2F9Ke+FLhFgjJ4GwrJaQ19fnMMVgAPXIiouFEQjdub/G2QKAtlHIFmm/qJReTaJDpwiF029GwJgIFjWmFROUyq7VSLZnBac1v2742Wq1RZR0CGE5OogNNTuvkrT7G/ZnpUwCk6Gyr6ZCIHMMFS9yZdVqp2MrS/dGZF9jrom/ebiVtZ7uvmd+exCiY4lgWp/nzN0+4rzUqWoHQz7CtzKlDpUdYmcrd8lta3Y0QWod1kpQar+ktoZSWfktU8h8fBclIOH6tcSOre/Z1w==;4H+ulyB2lcXjfpo9vR6TNA=="
+secured: "ZXpI/PAK0LBxjqAmBfyUaRFVeNGCqPCueWMcOLttAcx5rLRKDS60FLNI916SoRi0kIZ2+EAT3IrT9j9+SL7UycBIQJXDQsHMBdPIUFFrIDiaNCCAhCG5zI/oaYkJGQMH4l+rONS56y+Sbr+cUXMpZpM/RwQmYSDuO2q9ChEo+DbWo4g3SMa2QuGVRB8BjkHoXwMBzeSPU/SAFPJQNNbhMNoKrt5AOVBDAVToWJhyN93lIPIDwfgxMHlWXkyA65d+VYub/3ecVFIPyYGEQQ4Bpqo/X/UkcngV4QGryjMhsPp1fAtKhvnThiBLI6Avc5j3yQz7Wkl+UgsB9dSFMv/zKg7bn9g93EN2hVPbbYwSkHYhcnpm23S/lDrXjl1xLWIQkSTJHGPbKq/Po7dCfKYyrQ==;Qc4WiqQEVx5OvlKB8FZAEg=="
 ---
 

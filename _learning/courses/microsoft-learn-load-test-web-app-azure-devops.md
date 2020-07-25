@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Load test Azure web apps by using Azure DevOps"
 
-secured: "JlXhUTwD4YaENcBZW9kmY6tcDGqs+KjiHK4jlGecRyFRwwTzgUoHebE1M5aXQSJnvGrZhkt/bwG4BXRmdvwqOELDalcUUyczn7hfnTkUlfL3IJ7ZvCquuZNFlVHC1RigUpkg+9hMXm/TicGuFs6ND4j1ohFmphmAWdN9+ecwor//0J7bj9SDMXiA35wnH1P+A/rJsKVABT/7Ze4YaYrzXtYwsUm5BzWrGzNp7pfZH/Q9k3nscrudQ7vcrNcwqsagTukaTBDf3etx93w/XBfL+royLq1qk5/7mfWbc0skFi+FFNpoUjEfcwCMo+zJOOD58SUJTgv0qdjzXefvdu94Q0TbN9CQE8elEYAgsdbFcyBuL1cKlzU8rEAMrTFSTsot45JhukCjRMZ2ymFQWJY5TA==;cF+VcqO0TzwBnGxzJrgN6A=="
+secured: "ycfcnSu7YfG5HctvWzycdHcblXhwv7Y3wv5v/ThtefG/NQdbuMpRZboz1Do8wQXdLRBA2Pcz49c9+xF+qVp7qApX9ql5kiK+zb+nOdR8MiXw0SrcUkryMwWIRtgXMPoWotNLIEZdNM+HOMUsyLr0UtCK9XsAs7Q3RIMLn++0F1Z6eNg7O+xQteA4P5GuWESiiF3CzPuzdwimxbYhT5x/DtSJ/9L9F0lBaVrchuZzj6Fr0nNtGfbPn5Mf44yZJMAG9MfzWLqD5zd+iskUGytZ2Vco+R3FBStK8wGB0SmlZEgAyGtbN8rXGOHj7Dc/NsfI5v8cIQlbm2nKLzzS+APpcyvRZvMjJOIs7FmKrQTfT1uQwshuuXTh2/JuWrdAiXJ3oJhHeoVnRHwI0hBlVupicg==;Iow9QFgbFGzvYKJei950Ng=="
 ---
 
