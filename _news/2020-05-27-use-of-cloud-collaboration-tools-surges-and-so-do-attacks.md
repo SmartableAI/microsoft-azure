@@ -8,7 +8,7 @@ ampWebUrl: "https://www.itworld.com/article/3545775/use-of-cloud-collaboration-t
 cdnAmpWebUrl: "https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3545775/use-of-cloud-collaboration-tools-surges-and-so-do-the-attacks-report-shows.amp.html"
 type: article
 quality: 42
-heat: 42
+heat: 62
 published: false
 
 provider:

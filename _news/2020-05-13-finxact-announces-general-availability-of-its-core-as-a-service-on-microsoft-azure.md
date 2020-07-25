@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-13T12:33:00Z
 webUrl: "https://www.prnewswire.com/news-releases/finxact-announces-general-availability-of-its-core-as-a-service-on-microsoft-azure-301058085.html"
 type: article
 quality: 31
-heat: 31
+heat: 51
 published: false
 
 provider:

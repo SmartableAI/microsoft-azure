@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-29T00:12:00Z
 webUrl: "https://www.helpnetsecurity.com/2020/05/29/upbound-alibaba-cloud-microsoft-crossplane/"
 type: article
 quality: 12
-heat: 12
+heat: 32
 published: false
 
 provider:

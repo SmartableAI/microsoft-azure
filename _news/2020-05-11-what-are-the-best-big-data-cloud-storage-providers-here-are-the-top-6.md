@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-11T04:38:00Z
 webUrl: "https://www.forbes.com/sites/bernardmarr/2020/05/11/what-are-the-best-big-data-cloud-storage-providers-here-are-the-top-6/"
 type: article
 quality: 42
-heat: 42
+heat: 62
 published: false
 
 provider:
