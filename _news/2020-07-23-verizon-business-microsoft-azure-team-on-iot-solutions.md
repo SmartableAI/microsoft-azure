@@ -18,13 +18,13 @@ topics:
 
 related:
   - title: "Verizon Business to accelerate IoT solution creation and deployment with Microsoft Azure"
-    excerpt: "Verizon has teamed up with Microsoft to enable the simple and quick creation and deployment of complete end-to-end IoT"
-    publishedDateTime: 2020-07-23T21:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/verizon-business-to-accelerate-iot-solution-creation-and-deployment-with-microsoft-azure-1029424968"
+    excerpt: "... to-end IoT solutions Verizon’s ThingSpace IoT platform and 5G/LTE network connectivity have been integrated with Microsoft Azure IoT Central to accelerate time-to-market and save significant costs for IoT solutions Cognizant is the first company to ..."
+    publishedDateTime: 2020-07-23T13:54:00Z
+    webUrl: "https://www.nasdaq.com/press-release/verizon-business-to-accelerate-iot-solution-creation-and-deployment-with-microsoft"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 48
 
 secured: "rzdPmIiCmuxP4pBcZTwKatwXEJXmRfqwrfuBZWSBpHey4oaWXDv8nasgMHI4nhzRicuVaR7KseDIk2nDZ6mwhV9qdlgdEk7N9wE1uwy1tdOtvF4mFEYSalNI5DcWGGsySJUATXUurQ9MLr2bUtSuTuBVasR311iJGuqRZ95FSFOSD6t9qjYLCXKQ6TSmHNaU3Uho4Blu0DPIJpprLoShh8+5rNjhz/EFbbEcX4tv+2vBDoLN/DvJC3IvgkaAv35L3tSLTHqHQe931pSW6RJDU/ko/YEDD4PWN5nKjVX3nIAF8ZGZ/Br7IqSqg0EPeHlSOZ/YU0IMQ0qIQD+ftKL77w==;cWIETGqDTS+nTgVLVToC5A=="

@@ -1,21 +1,17 @@
 ---
 category: news
 title: "Verizon Business to accelerate IoT solution creation and deployment with Microsoft Azure"
-excerpt: "Verizon has teamed up with Microsoft to enable the simple and quick creation and deployment of complete end-to-end IoT"
-publishedDateTime: 2020-07-23T21:15:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/verizon-business-to-accelerate-iot-solution-creation-and-deployment-with-microsoft-azure-1029424968"
+excerpt: "... to-end IoT solutions Verizon’s ThingSpace IoT platform and 5G/LTE network connectivity have been integrated with Microsoft Azure IoT Central to accelerate time-to-market and save significant costs for IoT solutions Cognizant is the first company to ..."
+publishedDateTime: 2020-07-23T13:54:00Z
+webUrl: "https://www.nasdaq.com/press-release/verizon-business-to-accelerate-iot-solution-creation-and-deployment-with-microsoft"
 type: article
 quality: 48
 heat: 48
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Azure
@@ -31,6 +27,6 @@ related:
       domain: seekingalpha.com
     quality: 17
 
-secured: "yRU/9UdYDrUNK1eJ8KO/9g/c6/D6q3hidrV0DEu/BvU5LNQ+4ruo39/I3iK5Txup7qNpNIBtsm3Hi3T0l1PWsyzrI/d10UgjciUig3+CQzHGBjO1QWJmKbM7vikTtd2MYBmEVuu3Azmd4cOzju7PkS+/eST0RN92xUHsI5gGYGVCbrFECruGK+l0i2bDCR29kNprOpJEhJIjD5pLHqNxHQIxAVd4kcCNGuPbe60G2vIl/ExUfn5SEmin5Ayaok5C5rkpQxlTloryUSDpIWSaImNiGIFpwy32Hl2aJjHZ26x49o3EImM9tA9aRmroaM9DTy8KbrPKHnz4vUnARgDCTg==;TbsneBWbbzlIvy6oBMxdTA=="
+secured: "9Lw6KF3USD1sR6pkSKK2ZkCxviQ+pzscvutJqtE5o3qc2U2nqFW7WBEWNW22j2euLaWC8K0Knn6KN78JfvQcNfxq2Z8c3xnkTyMjJZeWTiowIQ1/X3W9TGLrvaYvVvNIJn9UTEhUBd6F+HwKhV/wUEb2Cp9NSsAcmj/go6sTymV/wcLDcs5pOenEpL6LwjCz64EaAk/15OcDBDyPpE0+u41vGqPgtqvaJqwzGhSM0XYwouTCWainp9U9ztDftYS3new5vZInEWZRH6McS2Yyp+MCJ5JeD7WrUnLAkNbNPERtUOm+ZegwCoEjKhBnZDZIC0TA9BPSuRPsCA5ASz84JA==;B9KOAqKNjOwOQ6KoAXqI3A=="
 ---
 
