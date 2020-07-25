@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-13T01:32:00Z
 webUrl: "https://www.helpnetsecurity.com/2020/05/13/n4stack-azure-service-tiles/"
 type: article
 quality: 31
-heat: 31
+heat: 51
 published: false
 
 provider:
