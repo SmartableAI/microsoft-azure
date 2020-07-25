@@ -8,7 +8,7 @@ length: PT24M
 ratings:
   count: 55
   average: 4.8
-heat: 53
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Examine components of a modern data warehouse"
 
-secured: "KSykWTdxKgKpSfSt4jmnCwaI5REplr+cz+be2ZGo6W3WUf+VJu1CvC2NBNGbKnFZJFiFB8zAKjzz5/4RYNpgXPMig5ruCtOu8ZJ8BF412xy7TlwroUrXZI7tJssv4jGVOlgXRo4yLuup2B10hVN3s5r+MZxs4G6NB03BHcF1IHUsZAmkJ4jcQn7QZ4b+uzQQRYIHAJsu64gggdWyWp1bIR5on/e79Y/3hNdiFLReD4QtznGOktycUVPI/z7d1jJ+UZqU5Nhe3FBv62OzqutSr+QBl/1lVPzRO3H2Od1BWqAbifka4bjj81KaUenDk0RbntULyE1AkfZD0QqohSEnFanrgLfnZK2i9uHT5LdatI0QrhuaNVA8mDse+KeTMFyeXpu67tLgbBr75HSOcMscFg==;UG7kIaFeg4A/O1l6IFzuZA=="
+secured: "CqhpXZWTQJJil1OjhhNYZZSUmDMP2rSf1o+aKLjHF9UCND4TXOJ3NntN/rLhFLmw426Z0C+3a6+ykz9mVwl0zjUIvNJHTafsqUSiSXUCaS7/6WdOY8YKQWRmjcwmqn9Sk6Jhs1XOgdS7AmllRYE1lKdF8tZUqHFn747d5J7HXcXdDHiz4G15OGql3Tsg7d7H4ixzN//Df227yYP/IGoYHM7NN07/Ef2FFlGYIuZeZmALgIppJBmQyZnAPHD7W2RXmLEDEz3gvr60qN2yOE+p4bjE2wXbyst5cWkHTvQWER6hKjpzblKNPPGDL1n4ameu+tIIPwTlHmnpcETdgjMOeZ702EWyfPj5E1zgBvmg+Vsizy94uwUAzE55CBW0aXqOdgrFGgS8y3UbATRnT/CWGQ==;q0UAaIVPuSv9gfpz6Tb6mQ=="
 ---
 

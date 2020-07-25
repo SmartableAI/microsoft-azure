@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Set up rules and take action on telemetry data in Azure IoT Central"
 
-secured: "TlKJcOjo9s8/N5XC8uJngrPbLZ354tVc6mktOzU0fyeQXyuE/w/2sDiCIHhuAJcYfA+RNFWok5qjeYfU0talEqf12kqnUueslaKzcL2cOUrWOu1G2HAkvQbe4fJ86RZU2fIS7v+ILceSj3IzTJNQ1IJtqw4nSkARfrpqyG3pWbuypWoSTIkNLopvHHc64IUy9WNSlSYwISl+1D8c/kqEekbnYQVoyVvl0b2NtUROJqzlOYXS5JtQ9x6kEoFJXKAevFQ4z+e3L6+hcYdRA9TNRoyYTu64lY94zLyhRsixn3JGysDJt//JXcA6gWaIv3UQN7UrlG1vkhQdFmF2TM2mHtOHbliG6nyr9+TeFMcujnKwL8TQaazutPeVEO2EYNh13lYdGqdVWHd7nZsWAaXNAw==;ASfZmAQzjlfeYq6JrY1LPg=="
+secured: "WQ/w+Zl/IWzvfo4TlwRAhim7Xsv7rURYHguiAPuPw2uof/M+uC1YpdqAUVa5ikB0+5OrwX1zfYICsNxZ+UDEuULwdthToFTXmrillb6XL3/xucrarbs2M4TzD9s/Q5zMtsPvvF9uQ2Z+xEjQKKyuufS9VhqrEv+SVXDScVjkjg1NiBi9zS+VmfsGnhYVS1klimkdDvB3T79NobC+uL3o2kfOYpfAl0zc5FGFn79dIAPU+3wzQsv/GwRBmRyFN2OXGMFZ8Ihl/5oiQlEvj+omrANLp1v3oTj0K3cW60eQqp6N79SytbKEwRl7KMqoKFl/abRHeBWxHRt0JtY5LtRHw8wL7Bm1HS0iUSFhuVn8vy/Hu3HxWV+ABv2Y7oN21sr+w7mBvS4urTWTodzqru2PaQ==;zvYvJu7fA2TMVKqQzTU4MA=="
 ---
 

@@ -8,7 +8,7 @@ length: PT1H8M
 ratings:
   count: 24
   average: 4.6666665
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Automate DevOps processes by using GitHub Apps"
 
-secured: "yrqzS2AO8bWj3sYiMJfKYrpYwQ3KD9BPQf9NZriWlxW+AFG8dz5/uPGtR8v4DxIzvTX+w1KW3J9uN1X8AowEqLD+ozdpSSY65VQ/81jN+Dl8Vp1PqboZPELBCAOrTERyq8KDWRM0AjltYKUmdlj4kv0Lx1SVw1RBKL1SrPXJHzowBMVvX2X1bB1yTXM1nNLk6/J2SWjOmTVnBMEry7IQ+WhnJhMkZdQnkM24M6SBkahv5k43CdA7qfxfyYR6UcZFwRwnV5Qc73+fDBoZ+qXe4Yqr/JiUQjMxXgbwlfkk9feKRNz9a7NRX4Ivdgfc+hmJqKmkiDukdTQqnwUu3qftMkf4NPoYsFKCU/kOsyGRnUYRpfJBpp4Va7XeM1BcDdgySuilo0rnQL/aEF2iGY+6bw==;u6Hxl5TOjcX2ZcdP2ah33w=="
+secured: "+Voa8F/rTRNliCWAYixuXpRywN6Kbeju5L+vq6KON0bHMI6pd8jzAsrbUlC+clNFp8hcjnLvsz+MKou0lLSEEAstxtfbuRMQ5gOIe5baJzvrC09xvRiNoFex4mlMDSGzCyRO/sEr8jxHz0zxt1wimmQTEFIX0ZZMoAI6AvGkZX7S56AEcjp6vHlH1VajnBopPnSMuUlisBdwsqhpXCT3L51s9ImXLlCyaOsKyxkDGmXhYEtxQYmstTtUe3ixeLNNYl8kH3KdxeC0eLRxdjDGCEIV8eekgdU2rQdG6WY/ONgVkgjc79pcY98OymK4vXjLFH9o6cnehhgULaIbBWPpGPeafj/L8a7SFm5j+ltDnhermlhDDbrD6fwT2DTIO6EB4zBU07WWzyA/An8kwVZk9g==;bctDcP5wBQ2z+DYO01M+wg=="
 ---
 

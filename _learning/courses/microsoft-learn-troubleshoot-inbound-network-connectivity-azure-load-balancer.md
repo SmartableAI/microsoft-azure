@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Troubleshoot inbound network connectivity for Azure Load Balancer"
 
-secured: "J5G1oHCl/uLaTM64fqieFomKgXlf7QFA+hi8e/YVy1knjK7HXg9Ctfc0uPzOI6nq5nnUWxN/Yd9ForeYW7P04EDuZjiSZ87IUVynleXtYnTqPStkxro9mjhj4mMF7OyW9A/QErSDI+lGGmFzhOV0ZkafzvR2piFlYBuSmPbL1nrlQ/gtIsmFjdOTMe6opVrZjhhPMXKfGWZL8NffmTBgr1K4TTlvWt7zy8gM62X5GJ0XsBi7DItD6X5dfvfLd2bGRhOgNf/gGDqAAQDyVU47UnEt2MN49cF7UXurGzX1JeS7v6Q89PYgRCP/jcKlWyvB3t6VzeA+Vlw8zL2zGqgHspn4zPDLFkCmr1SOQ9a7jaqO9wnmDgp8v3JRAYSKz0HDv8l2X9bXx8YwZMv6LBOEPQ==;3vx223S5ZGHPT+nps0w2sA=="
+secured: "yuNVYmmdv3UHR9RBsWH66Mk8NBZ9xqcJEM5qwgoKApAPhY4CLc+O/HiCvOjwfj2S/ZY2XCM+sfwKJa2X5IXXPBe/LGJ4o0l5vo9HXoJ016e0xtmp/wd6Od+Rj+uehCREMXqScYbjCvmnHCQ0FsFEtxR1abl/KK/P2VHFHE1tm3wtiRA7DlYBCMkWJy/5yi/cc8MiIcNFgsTAx1SqPEUmG/E3CLzRCEam+EHEKCeYRHzc83jr4/71hErY1OC9bH6CVWNmBCa3n+xHg5V+XATv2+Zcx73o2sEw/h/0jKiUwwPZxo4R19fpvSOu/uKYUgv0ryrKl5okZZrbSsNvl3oaGT7Xtwv2/+3z2qWD+mHkK/Eh331IBhd55Yx1Aot6d6zdb1OUdLtBBBOEiANgRtrXYw==;1YCarT5elaDTd4Wopa+wpw=="
 ---
 

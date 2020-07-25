@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Develop, test, and deploy an Azure Function with Visual Studio"
 
-secured: "Vz9G112BhGUOr/VVzY9OymFBfXlqfzjK7ZvUf2iWnr7ySus75m2XjahuTcwa0gHke9VeqUb/wMbLbb3NnXDDnkDzuR0SuItk3s6iGFTO2K6tGnICn/hm+kpoED0ynn+/qHSi0Ri51lQETFE9OteneaC8Y27g5/oAYyLuKv2G7WGdQL5E+LQAGANc3+SsO6IRJQ9ERPs+v1tj1oL7LUaLJl7zQiQKIze5BUcY/IWecPIDdpZuYM5FILb3RumYGgI4RjWQ3Y+69ttT0eoQm91lhln9daUks+cinxRhB72L6NLJyRh/GEemoU7xKZNtEqxkTxWQPXBiUJQNhCl6aC17fukWJjzHEkUfhLxLD2M9HuOo5Hxu/vcQWM95McsrreYedI4mfjmIFfHhxbDRLsrDOA==;1t4AzxpjfvwIet6UJDCChw=="
+secured: "U5m+WSpolahG7C4Oe3ZZB2QPH81QfzVjEyIoYRn2/hk1R1++03k+IgdBTkstRjcJBuJcL8nksQTwG31JHqpyYWadM/8z4boXpXiSeG1XWdOL8OSCj4nqp1gLhytLALQbWwpFmv0OIo+A/XO1oNaU5iMO0QGS0xHz5J3KQYXvYlSRYeHCjiPO9t182f+BXH7QgPTvXRn3M5IczyMCFIgYsctlxV/gSwkOoLRTezW2x5zl3jcqnf3NseMxvvpa0luJ8P09wOsoqvnSXqY5PJ2XKjZZMHqs2aPNCRfyXamhFJ5TScX80dgIGJL3x+4jQg3xQjFy+4FjfNYPIwd5gErJxMEQEJlLQYmvTqASTf269xo9p0f4sAv6Jqy0s+uHnTrKp4gd86FHd9OGeJ0R9C/H+g==;s1N55mikWMzP81pvoybhEg=="
 ---
 

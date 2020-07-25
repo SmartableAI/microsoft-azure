@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT30M
 ratings:
-  count: 55
-  average: 4.5272727
+  count: 56
+  average: 4.5
 heat: 50
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Solve optimization problems by using quantum-inspired optimization"
 
-secured: "mcNviTLsf00yqi282uKpwg+iw8qyOk8pxCoTetvdmYd025o7twqCL+ORtThcc8AjH4jw/oFh3RyBBfXJdUtj+Kph7XqO6A8M0XePiSWo6hc8eUzlyA6OqPJ18zK/2GpZ+1Av3s21vbRShbDN9WVhtJvAhjH5taZHPIh1slQFb9qxI6vVkWDFXotGZtnTTDXfaycnnMKKeuiznFZ3GAkukhvnu+HN4E1PezuBQP69vZeC8vmZqvXxrDRPsUhERgYD90J0fAlTIags0Qu7RTyQ+ELKM2JJTJ51Saaj/7NG1uIOJfG7vVQSZe4k9tCc2rB5/m1ZptjNTz2nE3hUeQOtl0oCs3rfR7gRatDk76C3v8nAiIIExasn11gG/Os7EI0cZg0jSeJukAcDFB4T0ppvXQ==;j+/LdK3Q4+N0d256UQU7Vw=="
+secured: "cURaFew6nj1wycSvqL6L44HDEyvq1qfAwPZ+VXx4qbp+O3TYbVj9E3It6v84a6I2E7ezlHy4q6thbYZmmrD+bsTumEQPh2YW/3VtKlh+AFceW0fnvKdfAEcSO2ZSqYO+SeXKzgWPIL6YRF4EnySrDaQhuBBG/oKx2+22FF9uhuUFFhBmrwYSuQwe2bSAGYXgr1gd75ViI94H/Zg8zD0JWoOrFTHYXLiphSzQeByn9I0+hVImmoq2Rinc00mL4kpHw8T/oNRYbe3JNRcqQlLVtY2gAXRmZRI8wKOXmPQ0TkRmAPIpeKC8+5UQmASGQ2tg1PL0Z2bTBiTTdC4XW9+Dp8NL4r/jDNCm2rMC5nnpUiLQB4JbfE8uY8/MxRGIiWOQiTbSSsbevZd82RQVt3+Hgg==;HBpQlciPuQ3OeGuTApPQzw=="
 ---
 

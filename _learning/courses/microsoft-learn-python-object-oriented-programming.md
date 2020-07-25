@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 51 mins
 ratings:
-  count: 709
-  average: 4.6671367
+  count: 710
+  average: 4.6647887
 heat: 51
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Object-oriented programming in Python"
 
-secured: "aNogKWUdViSbXtcoh5YxgFlIRmw/zfKfscB0o2lK50XAfvcpBof0KaOyQqrhGfofb8JAEiDL+KiDSjHl5mxD4kx6mD1aNSNf0qc8sAC6sLemPTId/+hO5Te6ScdMmfe4tKVC+bU5Ewz+Wjbexb3QJGv1Hu751ESLWEiNwUnSVi+9lbY9J9vEmTq8NKSr/XGTeOtoNGI0bHYMH1O+rH1h4xPQfLUBngP844RbGnWjJA3t7M24yt44F2VBs58+p5U5bBW8FC8KwZl00efvNqthXJnUifigYuUqmygBHQm/+Ku+sjje0chkz735g962jPzS9goyqlJtBQ8A6ypUTzWkIUgAUMa4vXdnY/VKt7LH63mDhTG+gfs8kBkXv1IxouqQfi32GxHn46IP0Bxyu0SchQ==;QFvzgKNo5Pg0eLRtUyWDmg=="
+secured: "7vfYJenyLFbELuS+6XijeMgv2e8Ux5hzGEV+VgA3c1akt+0t23ua7qAnW1iYZueuy6ySC+l6KFnGZAuGlLjlUfxMa4Jn9Lyg0Zjj/HHCy4YIqDqOJNten+jHxyt9vkTHVuIQufUGxuySdJc7v6cW/9q3K5YynwkEWO6OpyYUuU6rjATvXmdmvsUYoeligd11isak6+QhizbBd4rmefKoOQFYx0Rjh8dzZHcTvQF3GQhD8/V9Mz8w+Hsnw2CQOec4S0HToomvjmajg06kzX85W7zLWvYBgBlFiZt5+WYnDRFm1+VSail+mV5ZtBXAOniACi7tp0eyMQ6ddNfggAQWtkXq+JZr0Vsq3xxuOPj9G82ppmk5xi0isf+bGcttix2tkX2+0sXeJOuwi78tNEO3XQ==;XvAIKToL38ia3IFv0D8r2A=="
 ---
 

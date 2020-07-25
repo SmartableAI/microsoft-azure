@@ -8,7 +8,7 @@ length: 44 mins
 ratings:
   count: 8413
   average: 4.563295
-heat: 85
+heat: 79
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Choose the best Azure service to automate your business processes"
 
-secured: "DlSSeeNegtoB47s0dvvphDSSbklSjdlMzNzsoA3lg57/x8/WTqeg2gKEe8Vvh/P7vdQhRxFtkvWq0oD8XWbVMQtiTyKIT7RF5VMN+LLCpDWMdefJyUtzi6HzHxhqfeedVIKjAzkPyq1w46S75RJfNSkzOmTSCB2hx2QF944nsz9G3VHircyOuNICY08Wnr9U1nRnnr89IBBCgDO54XOFmGEUmuJica67o/YlmMJ/sb/Obz1sXe4ysBWT4/ef29gSWVOeGwho8Gnh7OdZOwb7bUTeqqsg6G3UaE8x8Mt3YybF/y2P7SzZS5YRO+EhFk4ta6n7ckpj2UjsULatMZA9Cta2a82vZDnEJkbfCsdc8+4f2Thu1Iws7vOqej9SNCO/ZbFBtdJGJFrC6QFy5b5+ww==;dVc4r96y1XM1Hao+58C0og=="
+secured: "s21HPVJnCEkklrVkuOKSUf7YTr1PP3xD63ZfsfxJPYF86ZxVEhlt0Hhyb6MxNGUNTw/M9jreEjYTUOXtIarjTmqgOi9nA+R50goVT109ivET19FVX6xibwSK0yHYgOu7WGoP5ufXxZ5pCciH5pCgZHqTv8tAqpZ2lszStecWpctyIvZhSWQICZnSc2Wjzxs5ILsatx0m3hB9eSv1RqpgY1l47T8TbuhCNdyq6rz6nJuMq4LzcViVfx0aH95e48iXjHDvT4vfiOuIAA2X/XHbKv13h0qsKlKHyrrHbN4N8b1Ni7cec8Piy7jYa1xSwG7xzwax/fdulcQD0fOmmOCKkUAbK2eBjuCHfp82cu77dWZ6Tb20sFdyFRASSJulNXQpnKEnBDM99ev0JbgWeNd+qA==;ILudIDL35+An/yKH4ady6g=="
 ---
 

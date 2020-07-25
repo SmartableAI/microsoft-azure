@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 35 mins
 ratings:
-  count: 2402
-  average: 4.476686
-heat: 57
+  count: 2403
+  average: 4.4764876
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Keep your virtual machines updated"
 
-secured: "Mm1UnhOitfOlFImYvXg0+cj0NyTAXV3mLJWahoXYMehdYjI2jmov+dc+UqovwLR/dByAhrk1gCyr28YuttiJILUs/81yFBcGdMWiktzTWT+0Lr1uVLhluZbJKoT5g/rxozI7ej0EarEPkquMU4YYIyQM/9XRWfvo8Fh+kzwkj0e1U7OFoC90qhmhUwQ/Kq62IQGYoSSvJOUnYiBaiDaz2eeqvGYla42Y4j4jWJORxorgZx8BbU3D+qrpS+nDEkjWanW/EkwOAPhBeUhNDakiIE3zNKgPKINiGQ18YAsRsftbTMQ4NyzOy/KHnEboncXDdYrSEJowslhnVKuhxj31O0zGQSFukU4S2024JtjLqGYxFisRZBtVHQ1+syLJpl7N/Ba18Deu48hmVt7L12mm7g==;CsrIW/Iz00qOfeSdSqmUmw=="
+secured: "BFr2z0HQMbD6dOW6WwZN1ZBYxBRaVwxeTWzmHqDC8o8XUPORsZBGeNQHkbScfTXIVXFZ3LlPJ8pD2U198jwe/xrbhk0Y035ACRTIRiQYqLxNvUl8nYQjgcQIgX0R2UYj2nSmlynsr6E9ASMsZAxhPnxA2WuwdHxLOb4xW4+nvoWkHyw579H4hrqlGEyshTi9dDjv83L04FgDg5C840By2ZZmRLI2emOV9H71sTAwIyoOLyY/dQ74YZKqdTNESGJ+BAkCtI+ku0RwXsU0M+YsTQBYXQeh643vnf82SzM1IRQo9V7g1TIjMArnbh33J9SsoivfnVdOV4jPncQXJDOegJwZklqCfBsDafJLUTyPofVk5peECTegYVJXO8HKpB4GTNpcM7jJxlHANV4xiho4/g==;GzYMBrdtEs2+Hfklt0j00Q=="
 ---
 

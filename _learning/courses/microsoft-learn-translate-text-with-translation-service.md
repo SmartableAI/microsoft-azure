@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Translate text and speech"
 
-secured: "hox01VJ0/tqFL6TzKgyV+JGaKqEC3wWHHT0ZFAWQpBpU61mPMxaujt2l0QpHqhQ58e/j+w/IrYjF3Q+j4WjHBfXd6wfAZIRz2jazaNlLYd5CkVSforypLeheZgIx2PAstHOShWOJ1dKEcxVaUlcpHw9//63fR98ZddmFZ/JspPiWogbnkYzYv61nyPRxTjw84+BvKm2181WNIPRIsj0QZCtnDkED1R1gvFzAhxTYejuj8Hpv48dZwFhE/UZZYIuZ3mZ3KukY2H7A0RYl8qta47HKpcebjAXUdVWclUNx6rEDVzHThaL/hMpWeLpaI3+Xx0oCUfwT9s35PBxZIZfngEdtucSsMmjNFoLojNBgD9NUa/G06RgaTjne2Im79c061Ki4ykkGZEWIFhdREkS37A==;dXO7oXCXyJJTR3JsWOZzqQ=="
+secured: "MG2zeMEB5+Cf+k/F88dvFEAJWClDkOTUYefdg9NwCuxFuhkqg8sLrFoHDA/k/LPlCnFy4gGptgnNB4RjkWF2+AleApv0+LCo8prgGtcz6pvEbW9kdjF0+gpM9r2RB9ytPOqSeG8q2SPb98ZHULfll6MWo4x5bnMqZPvn/SJn9Ik9/mSH+WCXBlvx0QTLTk2KarzQSGTDsVweL6P+tTZOv5Un0i6G8TBkYIMRH0eYvrXGZF6iXUM2ViRXoIB9TsjJLkyhD++RCLpiUq6fspBnEqQ5fVjcyGRycyil1GYS7zlJGtc/LLutwmQk/cv79zTsiNqILvVOH+Nl5GANN6hD0Z/cAz9K0gp2RAFu9fuslfAq0j5Lzg9/czx/Sg8VeKALbivAR8i+t8sMonzKGLgzeQ==;S8nCL74llKpzeHzA/guGpw=="
 ---
 

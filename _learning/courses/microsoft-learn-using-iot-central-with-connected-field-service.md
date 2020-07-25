@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Using IoT Central with Connected Field Service for Dynamics 365"
 
-secured: "FyOfj2VQoIRk6S+P+o4kpHoGJlOdLQfED8YftJhK2dF0fqrt+mo24DtIMZd/uRyNaWMhm4h3iaPZJB09uolwSRR1PVxQzg5tqrH1Vn2tffZrkY+o72+8UXEea8PM7oLLi9uhrV5CuWZkxa+/6fsrFKjCGJSWWEtGTvgwuuOtnVs05NN592UTidhQDxdIc/4fmeaHTq15t2G+wub8uh4ABlkM2Q392MnUl1aQ+S85FBio/SIH0mLLPNAcDZlNvcTZ/f9x9uwjH+jAQbn5RN9OvTEZWEP+CBYnyBCs5lTVQFo+YN6yVeFXP3uweICc9jMlfYNYXNNIPjkQwsPnoDB2SLtIw0W7eNc4lJ/85mQQ696sH/bY/b8LGW7KgeZZwBwRE/N8kjRq7J9Pic/Mw00t8Q==;MEOhSlseWifHKIAwTFDX4g=="
+secured: "4Vg1vSqaKYfSDPiCQmOQk6c0/MFH+/JUMNCOI+MOBYkjuUAhQEK1QyIjNnVeStHpwhusxvytd4ZIwlanCWB+4aPInNiZeAWAjVuHhNSdCFXixlLVcQZ4kq39kgMQld5gdAevczu7RKUo6oC7wcrwdaLPj2JPXraka88i4xUs9WNV93nmUqtsID7Az502sFFpS/NpySH6d75pMx6JyFsv3hbMMH2FVH6wPg+l2n/Jjv/T+I5zXRLkjVolFp2KI/ZYNETeS5py9f1e4bfnYbJtl2IgoqylGI4i3r4BWxlxnOvDGlRSUIuysHc5K4AzIyjSWkqDc1mo5/VoLUuVf8s+pnjh5WlMVNOGNZlpqE8SYnfUS4iZjK3wer52xxZP7U+Al6lGZvKknOfEp5UAPLrEuQ==;M0jD8TpKgZNCb5OhDRfj0w=="
 ---
 

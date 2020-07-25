@@ -8,7 +8,7 @@ length: PT2H5M
 ratings:
   count: 4
   average: 4.75
-heat: 50
+heat: 110
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Run an IoT Edge device in a restricted network and offline"
 
-secured: "yCFlgUrpkHMVRtDz7DPyKFdOCQ+xfYFLJcJqw4Oy42raFjmFkLd0m4PeimVkhjjYgrGl2uu+lF9finVajKbNLG6QdtLRxX4h9JUl/ObXi/bxfbvIdobLkzIwRx704oQasHafEHXwbLnRKrvpvGDQ2IE+IouhM0IKjf8m3SxVISU7no555y7FLN7cnuNQRrLU5Ke7080RhbfPUOtbWWubtSCy+CBLrnpDpqVdNUlcqNPEDwidS4s7sgubFyLktOHsiBCrh01KfqbDWRghfk+xJL8aMGovjbpliqRDb/Tt/a2pblZta2usVCwjwOIAfvnN7J9vr5hUVD5nOeKR6pMTtvr6uVNNKSGCHziMKcDd6YpuTDH7wYDzb3a4x71jxEKF+uIZeVEbceCQZTRPMrEIMA==;JtvUHncLei1grEF8azbf1g=="
+secured: "GtuAlR3KNBImVYxOy/88Xkm+RdEd5i8k5iiDS+UFFDeV92iLpGNjUEShHTttYHx9Yt38k9MXZEqu1VftL7jReCmyt+E/weVLXnBlAThLFwbtoRHf9/tgnOEZthx3pAXz2sSGu12xx7kUTIRGof0fbqnOLGaxRVbqoS+H5yX8NGztn/uUN4CKXCOtwn4xZBgtgmd4HumtLP5NyHmyYWYL49e1ZfatZ+qEkcTaGTZikzoqIoD6fDEVSlaHTmCrNjwTlpD4R3v5D2vr+Xhr8xLHM0kgeXUFt+evpbzWLf0S5TSBYyXf5/MUuRYDyq2hJOjmCY9jjrtpR6twLoj1Cvmd4FZugwWiAiZRa1HDeQJLwaA5dZ3bHa0U6jutnjWbZe2KLtLe7kToGRFZpVbIRB2UgQ==;N2N3zoTuXgFzzE82BYOFPQ=="
 ---
 

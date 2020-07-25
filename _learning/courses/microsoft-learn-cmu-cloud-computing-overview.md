@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Foundations of cloud computing for developers"
 
-secured: "+7fHgaeL7rftU+pvPDQIOVeGXlULMv34vVs3wn8yTrOQtOy4iBwGmPOEvUwSmN5kjUQIYYk8YdDFCLUVU+wkxcFsa2VcmicMnDGZqeaQu/pFmANdq9AJguKelo+QABOH2X1k4Ol4KxCGzlFN8yE1SwdMXUdXaPrTZgegF7V/KwHZSrlCpRppE4ugJQQBaU3/Vgd/r6B3XhhuLPKQilqn1o35NaTCnBTiRv0uBzqrV2eI3ak+We80eF/YSRB4MCSACT1uLOVlpGFy6jhK0DGAUCJVQgYpDOOdX9KtFCmfT5TEYFs4AT33Vv6E8IS/RLOxqA0r6pGks8yFdlkqhfneqrLeSUl6fMyCAuDg2L+AnFlcGJBH+JUBX3wQVaDLJwlRXNPgOIetTGlIB+3fK0Wk3A==;bAkXCptMbuKQEhHJaVxWGQ=="
+secured: "bEr7b0lxqlI+o+Hka06fRLyh70UdftZbcPXxToWAD/iqyzfNa8WN9Yv46gtDwu9rcoEEYliicMBG/uSSLkHZDQqg4MX3UNNL8GDwnFJQsFqzXM8+ziHcGFG/2r+LR0suQrxC+XHa9hYSGQiFfE9VaMGiIe+zq9ptgjlMhg1Lmlg+w3xr2pa101QcL8m0lnwsZ3WNv90EQ34P5nV1a8WGk4tZ+qulHemTwOzxQw1PIPVVkNy+geQPfQ+MMRIDyP2/3hQ0sVKh/sp9xdY9CpGuxre5mGvNmG8fjftlOc28nbEpQ7XE1bqJP5qIvEt5Rpf2fEUUTtf08oxLAWkdyCirj3f63wOPFL7H4QyNgyLkyaw0m/zvnPVXJjw0+BNLnlrgYT21KpagTSKgdp1AX1g7DA==;OTx+z+Lxhp0zILj50xKM+w=="
 ---
 

@@ -8,7 +8,7 @@ length: 50 mins
 ratings:
   count: 1403
   average: 4.6029935
-heat: 54
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Upload data to Azure Data Lake Storage"
 
-secured: "oje7mefK/isJFqnyf/vRUvESLbz9U+N5mbZoXBghdBM2KPKaQKMReFNOCzvY/RkRFijFZKAMUviSguqRMduFSP1mbCcboWSTk2O9sp0g0vl3DCkvNovU6fNSnMQEQqWvctL4gCOhOZTmo/Z/FrPm2ApycY81FBTHNeU93kudNdY2gFBdJuYsDrmqAXYN1ld7MHC0gIOS5NoLLDr7wKMdyrNKWhWSWpxzc+d7crmP5MrIO8NKhV9hq+Md8+jFLdEAHJeORmLTzClOGBQUQdRmTE8BKGUplT10XDFP1q6a4+XeGLSYRHLZKKxzyvcAu367YWfZrMZlxxjBg7IXhFk/rnmbCxeMzZnzJQ6a8tv0cClnlQ1vxVOA2DheV3wsqWVc2lm1EAtfSFSyF4/31ZZelQ==;J5fLuh7xV4EiE8UFePyI8g=="
+secured: "ggzxBkc6HMM4Luk2oW+XuWc+NoznWb7f+wuzDhUlMjtllfEJJFiXQJQRj6OCdcf3kWzEj9ZF9ld5dNUUpJI2rQAuhN2Vh2cV7DD88DxEdcpAHN2Dmkm6L+2ZqVMu0cW25dt8BtBXcwZOFLPTVFT4GIA6bl7aMWSGV2YNXCQxuBKJPT30VHSPXVGW96C0CgJEVe1/5qtSxfjfQZPD8afg/TGxnWNYbz9hqLI7UuenMC/GjCdNamGoevJtukElapYyBduk9WiFCoqnio4+ffQZuHJOjcIlSzv+KwN7vW/OtC3mwMXU64ysO12DRTPI8Ab3GyYu0th+UOXv05XPTgAfAIJK+rW24mAGbYnrdPxis5Ln4Z7iSSpfAUNtHn90NJb49fb0cdvMXOUuajWQt/rBZw==;fT885ixEiUwomuZwZ1P8FA=="
 ---
 
