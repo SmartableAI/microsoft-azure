@@ -4,7 +4,7 @@ excerpt: "In this learning path, you see how to plan for a deployment of SAP sol
 type: collection
 price: Free
 length: PT3H26M
-heat: 57
+heat: 53
 
 provider:
   name: Microsoft Learn

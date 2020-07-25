@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Optimize your web applications by caching read-only data with Redis"
 
-secured: "+CHUidenrlX2DfgZE6oBLpMIzNdplgj5HCdGQVfY8FY05gKOAC/ai0Jn0mrJdPDwc36wVeZP7BoHrUTYCCVDLpgkuG+Daues+usgZ3d+v0Q1nZ0xM0BlD3aR+wJ2n0nRnYvy8xG2tpdwxKo3RQbLmIDBdBwjjFhw+UtQlwFQRjmKW3Whv9wvomXii8X8bL58DlHWlKqGwcyXFWXgoVx8ouu4ZHyKPu8CsmZujQDYrN9QG0kuWmQLWSx91HhlinfqKOurj+cIfJ8+/2Ieun8dv42+u1me4wPj5VIEl4Ok8sbjVgAXc1x0mw27XiuexDgYbXJM7rUNGiN8JwxkVg3Wmlvl7OThj5aMBRsdsBConP/49daREMnhtD9tWT9/kRIF9IIUJiRRYeQ73/0VhCcO3Q==;zLP2nTN5lFvgMsuKZoshSQ=="
+secured: "iowcRZjdxUjNYNom/guGkg3qjq9BWtSn8t/hgul3MBN10tbIyrRkfc+xbd+Ae3YHfprQVJVqE6k0nwECtA6q/X/76JAsgJq69lo87dE0ZpIab7GNxoIpz/MZCb3noK7VVjUszakC5mMoynHkBDXrhHuXRdD35DTQYFBBLxkhDapTlHbh+1B3B/kggpjbf/quNg1u/Dzw+a4AGSFxd9o3r5qlAVMxVnYXduVwnw6JS5rQwowcKz22262xA8ta2f6hs9m0lsPYwG4YSk6fYePGuHNZQqUpvC+uhBGYIwmdsN9kk4xiJIdQV2jTDO4bRegyHz/z++a3cC6PEdAwe1F2+owhB69v9ot7G5j8fmBCOoIcvI3Y6y9X7CWEJHT1QjoOg9eUwTx5iHrNbDYFPMnY1Q==;xJI7KNJVy/2Jut87WVaA7w=="
 ---
 

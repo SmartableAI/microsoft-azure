@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 28 mins
 ratings:
-  count: 4349
-  average: 4.6865945
-heat: 59
+  count: 4350
+  average: 4.6866665
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Prepare your development environment for Azure development"
 
-secured: "x/5pO1XJKgMT+en/85S4YXs7qCGiZE5pwn9QbPehJPfFTq0kJkw2MiZT96NJ37CFCaY5dpj82nIzx157pf3DSL4q9ikKmLoPqY8xGkGWtFTbHRDXr5Hqk20g9DMhjdmA1/t3acuSeN+9d7ZOwte/MkARmS1dEKhK8PrWRlEr6mufVb6vzlTggvtMkTWon5RrS7q8aSwPCWrJrtRmU6DVmNyYheXK1sGX8g7QhqUlNJsH9jQ6nN76nPQKnBgTJMS+gRVmsVt87QtKkPQRtLhoh1HQWmwv9QhlHOvQLzwK0b4QwRJwSIc6M+nLsV044Ht09zMoU1Hq4BQmfsldlRddI0hxMWXsKeib0M08sJ2kg9LM+bUwK7gVU7yrIt3/BS0bsFEOgemsGCHlhltufslDJw==;wg3uUrMv4DwMrxpqh76ntQ=="
+secured: "Hkd6rOAwdCQnY4Y3siSXL/KIgsG3kcVGIqQyjJJ2JU4tt+Zw69sxrPOkJg3om2XnvPElrZ16QPmE/nov0uPTX5OR7I6GNBhr+XqUtcsaR+pItv7aZsB3GlIqmo+Cq+lVKN8bYXeS9b2aMwsTCscYXGbTjoEd1ZX+bdhVoFVFdD9DlnJctzC/My9H3mqHB5DajHlsX1ZWTxXlCc7pBAFDshZNHRusRBm84wTvqNJHfa5urCasavjKQp3b6sTMOIkSd342zdbXP0G4ENzgD1FSSIMZA/5z4JOob02cElHNXVH7lWA+vOoityPCRLDhrWrN5g51WCRCXWmAW/YRdkujDPoEXFe92otnt9r6vt1StG2NF9e62p/euQf4wY+b4Qhm8co0lWI6NaFV3N3TY1HZJQ==;KeE/NDdI7VBnA25OLNJJ/Q=="
 ---
 
