@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Microsoft to launch Cloud PC service powered by Azure, according to report"
-excerpt: "Microsoft will reportedly launch a Cloud PC service. The service would allow people to use PCs as thin clients for Windows, Office, and potentially other Microsoft software. It was recently revealed that Windows 10X will stream Win32 apps through the cloud."
-publishedDateTime: 2020-07-20T14:45:00Z
-webUrl: "https://www.windowscentral.com/microsoft-launch-cloud-pc-service-powered-azure-according-report"
-ampWebUrl: "https://www.windowscentral.com/microsoft-launch-cloud-pc-service-powered-azure-according-report?amp"
-cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-launch-cloud-pc-service-powered-azure-according-report?amp"
+title: "Dynatrace Announces Enhanced AI-powered Observability for Microsoft Azure"
+excerpt: "Software intelligence company Dynatrace (NYSE: DT), announced today the extension of its Software Intelligence Platform to automatically ingest metrics"
+publishedDateTime: 2020-07-23T12:51:00Z
+webUrl: "https://www.marketwatch.com/press-release/dynatrace-announces-enhanced-ai-powered-observability-for-microsoft-azure-2020-07-21-81591442"
 type: article
-quality: 55
+quality: 76
 heat: -1
 published: false
 
 provider:
-  name: Windows Central
-  domain: windowscentral.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/05/surface-book-3-logo-profile.jpg"
-    width: 800
-    height: 600
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -41,19 +43,21 @@ related:
         width: 1018
         height: 763
         isCached: true
-  - title: "Dynatrace Announces Enhanced AI-powered Observability for Microsoft Azure"
-    excerpt: "Software intelligence company Dynatrace (NYSE: DT), announced today the extension of its Software Intelligence Platform to automatically ingest metrics"
-    publishedDateTime: 2020-07-23T12:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/dynatrace-announces-enhanced-ai-powered-observability-for-microsoft-azure-2020-07-21-81591442"
+  - title: "Microsoft to launch Cloud PC service powered by Azure, according to report"
+    excerpt: "Microsoft will reportedly launch a Cloud PC service. The service would allow people to use PCs as thin clients for Windows, Office, and potentially other Microsoft software. It was recently revealed that Windows 10X will stream Win32 apps through the cloud."
+    publishedDateTime: 2020-07-20T14:45:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-launch-cloud-pc-service-powered-azure-according-report"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-launch-cloud-pc-service-powered-azure-according-report?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-launch-cloud-pc-service-powered-azure-according-report?amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 76
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 55
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/05/surface-book-3-logo-profile.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Microsoft Graph Service: Retiring TLS 1.0 and 1.1 and preparing for TLS 1.2 in US Gov Cloud "
     excerpt: "Update your Microsoft Graph clients in US Gov Cloud (https://graph.microsoft.us & https://dod-graph.microsoft.us) to TLS 1.2 by 8/5/2020 to ensure that you maintain uninterrupted access to Microsoft Graph Service."
@@ -154,6 +158,6 @@ related:
       domain: webindia123.com
     quality: 17
 
-secured: "Xi118uxNs1tVdmaC1gUZjHxT9eXRsmcOI2QaPX1Wg+tQBrzCNiz/zzmdxFXc6tYVrjOCrn54RvrONfGxByjLPore4RIx5fJoXvZpSas5p+ThpuqxqrGMGtk/s2vTtFoT8bZUBeGbfw7+e6T7fGcpe0EgV9ga7ID+8f7JJ642RaKARaj5qlXmhyKWqLWwlMJpl84bHoWBJywSXk62hRh34KJMof5kAh7+bgbIpyN8pZJvcoHDi2nqulQJ3khsfyXElxwElbe0k7Jn/98dsRS+WXPF0fgx0hl/gZ3gHdlqcQNZCSfO5RP9NYc/RzahTGwIvd+LEiUI8/NcO3YgGZWMScAFbvM7rwSG6PG7eOZo0WHtq1je08aJc0yvByKjaYAZMQrziCNspMs/tT/UPX+KPvAN69ukBwzQ61KoPTyl3l9GLuwjR8rF7tW96gfgUuKg2yMuiawD8qaJbiUjLyY30m2zo10DT5X5I5JAElU7By16brV8q/guZNX8LavxlTdDvFDJ+WhPiA5YvR/za1XUhA==;ga/2ozRn7azWGFRjNftn+Q=="
+secured: "eL/smqpE1sp8ndv7Mi2PbILWMkayW/YohWCmk0E+XzLCub/Ljn6TKAj/buJ32p5UY1U9dysfqJQZ+nHZSof6uLNWf94YjBf/YUWOxKnLvEqZ6Q3ZSI2GDLHY6k8DWIJyyYu6W14MDIKnFXbE7KPrYuoKwq33G6vtWhB66+6wt62k2mifFx+V+w3FnrvGR3GRkmNKJws5KSX9VA/+W0rIkcQTbDOYa1mOGAl7v0yrED1G72BTrYovt9OpSjz7ZTY5zPQCm3KaDwqlucypdbRPAphm3nUcEQ2Tc4rY2kz9Z6Y1iojBb+w2O5BwZeye8hBfpwCf5DbVDqjzfb2F/6XXzg==;lRgUiCsEoza4B22KQ5R/dw=="
 ---
 

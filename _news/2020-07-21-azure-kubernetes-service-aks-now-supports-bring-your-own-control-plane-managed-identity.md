@@ -30,6 +30,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 76
+  - title: "Netreo Announces Release of Microsoft Azure Kubernetes Service (AKS) Monitoring and Management Functionality"
+    excerpt: "July 23, 2020 (GLOBE NEWSWIRE) -- Netreo, the award-winning platform for IT infrastructure monitoring and management leveraging AIOps, today announced the release of its Microsoft Azure Kubernetes ..."
+    publishedDateTime: 2020-07-23T18:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/netreo-announces-release-of-microsoft-azure-kubernetes-service-aks-monitoring-and-management-functionality-1029426293"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
 
 secured: "KKXkNUvnkIUJIVuzum47PlcUWFqkhyyLlS8yKGR2TQZx+P4UPJGL4jOLnYIcjfJCgEmFqTMsZF9z8YYaEK8LfhgRemS2udfNIjQCy3DO/WEdh3HeHJ240dCgtrUJigWomxSoq5koy3jy6BOIEoT0pj8rfadr7SanQnop/cbUsSv5RnwlyPXskJe/mVVGdX4KcEdnMA+4q0NZ9WgEk6zWHW5akalXW39BUNDDo4tHY+aqmbDSQLvzZxuMHeKNgqICqzTn+goDAuhI1uaMXi/dDDOUr+crSByhuXvexcg2M+PXvidM2END7JFgOrY4pZ+tv4RxQ+49757USd515ISQiQ==;mU3Hv6eDgM7Fu3o2uiwb8w=="
 ---

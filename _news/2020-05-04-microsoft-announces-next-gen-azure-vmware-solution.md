@@ -8,7 +8,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-announces-next-gen-azure-vmware
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-next-gen-azure-vmware-solution/"
 type: article
 quality: 97
-heat: 357
+heat: 377
 published: true
 
 provider:
@@ -140,6 +140,20 @@ related:
       - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/microsoft%20logo%20on%20building_0.jpg"
         width: 1024
         height: 663
+        isCached: true
+  - title: "Next-Gen Microsoft Azure Stack HCI Announced"
+    excerpt: "At the Microsoft Inspire event, the company announced the next generation of its Azure Stack HCI with a new OS and the ability to run on older hardware"
+    publishedDateTime: 2020-07-23T14:54:00Z
+    webUrl: "https://www.storagereview.com/news/next-gen-microsoft-azure-stack-hci-announced"
+    type: article
+    provider:
+      name: StorageReview
+      domain: storagereview.com
+    quality: 37
+    images:
+      - url: "https://www.storagereview.com/wp-content/uploads/2020/07/StorageReview-azure-stack-hci-solution.png"
+        width: 627
+        height: 515
         isCached: true
   - title: "Microsoft Unveils Next-Gen Azure VMware Solution To Accelerate Cloud Shift"
     excerpt: "Microsoft announced the next version of the Azure VMware Solution will be available in the second half of 2020."

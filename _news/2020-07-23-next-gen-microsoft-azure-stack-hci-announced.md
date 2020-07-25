@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Microsoft Announces the General Availability of Windows Server Containers, and More for AKS"
-excerpt: "Microsoft launched a preview of Windows Server Containers in Azure Kubernetes Service (AKS). Now the company announced the general availability of Windows Server containers in AKS, including the support of private clusters and managed identities."
-publishedDateTime: 2020-05-05T11:23:00Z
-webUrl: "https://www.infoq.com/news/2020/05/windows-server-containers-aks-ga/"
+title: "Next-Gen Microsoft Azure Stack HCI Announced"
+excerpt: "At the Microsoft Inspire event, the company announced the next generation of its Azure Stack HCI with a new OS and the ability to run on older hardware"
+publishedDateTime: 2020-07-23T14:54:00Z
+webUrl: "https://www.storagereview.com/news/next-gen-microsoft-azure-stack-hci-announced"
 type: article
-quality: 12
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: InfoQ
-  domain: infoq.com
+  name: StorageReview
+  domain: storagereview.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://cdn.infoq.com/statics_s2_20200602-0333/styles/static/images/logo/logo-big.jpg"
-    width: 1200
-    height: 630
+  - url: "https://www.storagereview.com/wp-content/uploads/2020/07/StorageReview-azure-stack-hci-solution.png"
+    width: 627
+    height: 515
     isCached: true
-    title: "Microsoft Announces the General Availability of Windows Server Containers, and More for AKS"
 
 related:
   - title: "Microsoft announces next-gen Azure VMware Solution"
@@ -151,20 +150,6 @@ related:
         width: 1024
         height: 663
         isCached: true
-  - title: "Next-Gen Microsoft Azure Stack HCI Announced"
-    excerpt: "At the Microsoft Inspire event, the company announced the next generation of its Azure Stack HCI with a new OS and the ability to run on older hardware"
-    publishedDateTime: 2020-07-23T14:54:00Z
-    webUrl: "https://www.storagereview.com/news/next-gen-microsoft-azure-stack-hci-announced"
-    type: article
-    provider:
-      name: StorageReview
-      domain: storagereview.com
-    quality: 37
-    images:
-      - url: "https://www.storagereview.com/wp-content/uploads/2020/07/StorageReview-azure-stack-hci-solution.png"
-        width: 627
-        height: 515
-        isCached: true
   - title: "Microsoft Unveils Next-Gen Azure VMware Solution To Accelerate Cloud Shift"
     excerpt: "Microsoft announced the next version of the Azure VMware Solution will be available in the second half of 2020."
     publishedDateTime: 2020-05-04T22:45:00Z
@@ -207,6 +192,20 @@ related:
         width: 2542
         height: 1331
         isCached: true
+  - title: "Microsoft Announces the General Availability of Windows Server Containers, and More for AKS"
+    excerpt: "Microsoft launched a preview of Windows Server Containers in Azure Kubernetes Service (AKS). Now the company announced the general availability of Windows Server containers in AKS, including the support of private clusters and managed identities."
+    publishedDateTime: 2020-05-05T11:23:00Z
+    webUrl: "https://www.infoq.com/news/2020/05/windows-server-containers-aks-ga/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 12
+    images:
+      - url: "https://cdn.infoq.com/statics_s2_20200602-0333/styles/static/images/logo/logo-big.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Avid Announces New Five-Year Agreement with Microsoft Azure to Bring More Media Companies to the Cloud"
     excerpt: "Over the course of the new five-year strategic alliance agreement Avid will continue to develop and deploy its cloud-based solutions on Microsoft Azure. Since launching their initial collaboration ..."
     publishedDateTime: 2020-05-04T20:55:00Z
@@ -217,6 +216,6 @@ related:
       domain: globenewswire.com
     quality: 1
 
-secured: "AZrPsE7gPpHCQGMLAKhaCGAW2eRtQTzQIVErJ9b83zdgDLTUQLLAvHa/XdPjdwjUUzB64lVPoRkdiRvWlEkEx9AzbaIalUNaweYfga2tMAsSR9OZEFc2QgMJgUbfB5oLzljki2AcTwK36sxxfm5skNqApbFXPWvMRnNB/OPF+jeyMoTaHQ9sqAyUXOpQ40WMuwNJrZo0lc1QkfBWSF5c4DXgyNGJQjlkoIYNFsn+inJuaT+3u7ISnq0PVyLSa019F1Eg42oyo9lLlkPCLnN+pBiir97/u323SJxrKXM3aOiR7OuOzsoidO8xwouz2v2z;JUwNkNiOUBEeYsZHtzV3pA=="
+secured: "Y2A5KotKTrpQ1P7Gll+8yegWkgHfIJRTPGEp4c1GGua8hGv2VBkJPjbITfsum7hTYycAMVtPiG75BReyFFSaRkP2BzGQ/iSx2RFeFCugdesVYKr6JYFQrbZpTslBfjqWMg+umUPiEB/9pPhZuea+iqD3B2OUoW3q/Cbn9kdcYytAzaTmKOIIGsrTiVPtuEQIZoAnZb8S0GSuRN3SzAmxYNXI5NWLngEjy+ch5YC4spOSso53YS2Yq8zdPS8QSaa8P5sfkXNsD8nr/cxCQ25qyZ4Uz0hReTZ4Oe2bvhvVN87Fqgu11HPIGrVPYNaWzckIMSoCRKwJc9lBlZqiS0cSTQ==;e8tkVEmZGUYYUa8+3XKV+Q=="
 ---
 

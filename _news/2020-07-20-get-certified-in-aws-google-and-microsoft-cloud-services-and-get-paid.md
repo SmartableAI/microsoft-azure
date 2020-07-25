@@ -39,6 +39,20 @@ related:
         width: 1018
         height: 763
         isCached: true
+  - title: "Dynatrace Announces Enhanced AI-powered Observability for Microsoft Azure"
+    excerpt: "Software intelligence company Dynatrace (NYSE: DT), announced today the extension of its Software Intelligence Platform to automatically ingest metrics"
+    publishedDateTime: 2020-07-23T12:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/dynatrace-announces-enhanced-ai-powered-observability-for-microsoft-azure-2020-07-21-81591442"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 76
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft to launch Cloud PC service powered by Azure, according to report"
     excerpt: "Microsoft will reportedly launch a Cloud PC service. The service would allow people to use PCs as thin clients for Windows, Office, and potentially other Microsoft software. It was recently revealed that Windows 10X will stream Win32 apps through the cloud."
     publishedDateTime: 2020-07-20T14:45:00Z
