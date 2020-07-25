@@ -2,20 +2,18 @@
 category: news
 title: "Netreo Announces Release of Microsoft Azure Kubernetes Service (AKS) Monitoring and Management Functionality"
 excerpt: "July 23, 2020 (GLOBE NEWSWIRE) -- Netreo, the award-winning platform for IT infrastructure monitoring and management leveraging AIOps, today announced the release of its Microsoft Azure Kubernetes ..."
-publishedDateTime: 2020-07-23T18:14:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/netreo-announces-release-of-microsoft-azure-kubernetes-service-aks-monitoring-and-management-functionality-1029426293"
+publishedDateTime: 2020-07-23T18:19:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/07/g16756904/netreo-announces-release-of-microsoft-azure-kubernetes-service-aks-monitoring-and-management-funct"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16756904"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16756904"
 type: article
-quality: 38
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Azure
@@ -40,6 +38,6 @@ related:
       domain: microsoft.com
     quality: 68
 
-secured: "/PZU26kcKMsNi5J3SigIG2j/bCH/v+8EwFlQROkoE3/S3EFu9XYcpIumXgdB2wH+Pq3ouYUb5u5dv3AxxFXfu+RCjDfzy350Ul715rc0XdYLbDfa6h631gSTVU5eX+oGVD31TKaxBwr5ftjfxMNgKjdtRy2g7KuD3bI7bqtMFQpuLH/wY7NuJDvoKRXionKNeJXHkk/Htuqvi+w//UGXbJ2lTvHp4BpbtIB13paU5KkzoJBvu8txMR8SZlEzGoOPt4tYHrv0c59hd5Fi1/B+5D980KtvuC15Tl4WunxEmUFRc82fcCmtZYC5wgcGi5a+kJs8iG+cSN6eO1prWaTYDw==;ylguB5sJLOUV8/euSzgqbA=="
+secured: "/GibB+dGA6PPlK9kPhsHFBnoYplyYKQD0qO/UYGuN82lu+hEHxt2/5aCLwRSixCheN07zrv4lkxhS1nXi7pVVzMr3kpc0PkoQS0mtiEyOnvsnENta3kKNdWz75NfcOrHuJjzzRhTFt+GxKRSwuzxcZveoeROAjZF0LU1YZxuADEvtMhYszTim37nsGAR/Lq4IyhYO0fYGxSkmb+kqIBXWUADNeWCScKKUlQJHUFKltGGKIMBWXCeARq8UdNcKnBK0lgHRdPG+olGwV3H2rSgWmF/+5nFEAIdpYQcEOULn8HJ9VtpmvFDcM/O0mSG8I6UtLehPi+kLAQATzMmgIml0A==;XRzQEiBtSgcu4FRnWF/k9g=="
 ---
 
