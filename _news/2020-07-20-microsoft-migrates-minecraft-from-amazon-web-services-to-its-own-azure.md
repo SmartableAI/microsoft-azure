@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/minecraft-microsoft-azure-193642521.htm
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/minecraft-microsoft-azure-193642521.html"
 type: article
 quality: 96
-heat: 156
+heat: 176
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/minecraft-enchanting-image-10.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "10 top Azure announcements from Microsoft Inspire 2020"
+    excerpt: "Microsoft Azure Tuesday released new hybrid migration, data, security and compliance, and developer offerings aimed at helping the No. 2 cloud provider’s customers on their journeys to the cloud."
+    publishedDateTime: 2020-07-24T03:15:00Z
+    webUrl: "https://www.crn.com.au/news/10-top-azure-announcements-from-microsoft-inspire-2020-550733"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 37
+    images:
+      - url: "https://i.nextmedia.com.au/News/20171030064417_microsoft_azurebigstock.jpg"
+        width: 420
+        height: 280
         isCached: true
 
 secured: "heAjcfIPT3Juc4PCtip92XKFb/ImnxhuiYghckopxULwjz83pmdx/8rUAMstqyBycqmTHhhwvuSp/iHxwJgEL4n9FKyKjb39BCjG0v8hhn4Yo6IbSCpsmpvBJNlfzJn4L1+bnDBG3FTsLlvZhIR81fvoKi3vsjDUJ1rnYu8f4QZ5BiPddgwS1njjM1Tqlk/VwSxz2iLg5j9EzSgQr2Qra7ngOxN3wwxIu/EvnMFV/Hz/PLdkcFp8itPbFTpE3mmPT9/hAXOL5D18HDaumQ9Io5AN+N6mxAJCPM94fi+xQLNc3MDL9uiS4VcB2wOCIev44Lyr2z+vfdXL+g7wtjW9AczzhWSAdd051hi/k6OskOeRRUCau4GWs8J4GGDohkIurbLNlXR+Dm5CTII2ZFEykquBgYfVoMYYIOyirDP50vGjrMDefhXQas2lO2vAS00B1adaW9E5860USwk4CwaC5MvL6any5+wIA1WKnwgEMqpCt5vm8Own5oTudWQeG8DF;bsLpCphcats4QoHZapgFKg=="

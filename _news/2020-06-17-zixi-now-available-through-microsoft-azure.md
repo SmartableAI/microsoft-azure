@@ -37,6 +37,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 73
+  - title: "Tangent Works' Predictive Analytics Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Power BI, Azure Synapse analytics, Microsoft Azure IoT, and Azure Machine Learning in forecasting and anomaly detection use cases in many industries. With TIM, customers can benefit from ..."
+    publishedDateTime: 2020-07-24T13:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-1029428765"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-1029428765"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-1029428765"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 70
   - title: "Adverity Now Available in the Microsoft Azure Marketplace"
     excerpt: "Adverity is a leading force in intelligent marketing analytics and business-ready data. Marketing data is a critical asset in helping businesses pivot, adapt and grow, but data complexity is hampering success due to the lack of understanding and ability to incorporate meaningful insights into positive outcomes."
     publishedDateTime: 2020-07-01T15:37:00Z
@@ -150,20 +161,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1201043/Nuventive_COVID_19_Response_Hub_Azure_Marketplace.jpg?p=facebook"
         width: 854
         height: 446
-        isCached: true
-  - title: "Tangent Works' Predictive Analytics Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Tangent Works today announced the availability of TIM in the Microsoft Azure Marketplace, an online store providing applications and"
-    publishedDateTime: 2020-07-24T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-301099420.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 30
-    images:
-      - url: "https://mma.prnewswire.com/media/1219270/Tangent_Works.jpg?p=facebook"
-        width: 2699
-        height: 1414
         isCached: true
   - title: "Foxit Document Transformation Services Now Available in the Microsoft Azure Marketplace"
     excerpt: "Foxit Software, a leading provider of innovative PDF products and services, helping knowledge workers to increase their productivity and"

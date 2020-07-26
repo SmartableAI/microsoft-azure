@@ -1,27 +1,25 @@
 ---
 category: news
-title: "'Minecraft' Finally Migrating From Amazon Web Services To Microsoft Azure"
-excerpt: "After close to six years on Amazon Web Services, Microsoft-owned Mojang Studios is finally bringing \"Minecraft\" home to another Microsoft-owned company, Azure."
-publishedDateTime: 2020-07-21T04:23:00Z
-webUrl: "https://www.ibtimes.com/minecraft-finally-migrating-amazon-web-services-microsoft-azure-3014491"
-ampWebUrl: "https://www.ibtimes.com/minecraft-finally-migrating-amazon-web-services-microsoft-azure-3014491?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/minecraft-finally-migrating-amazon-web-services-microsoft-azure-3014491?amp=1"
+title: "10 top Azure announcements from Microsoft Inspire 2020"
+excerpt: "Microsoft Azure Tuesday released new hybrid migration, data, security and compliance, and developer offerings aimed at helping the No. 2 cloud provider’s customers on their journeys to the cloud."
+publishedDateTime: 2020-07-24T03:15:00Z
+webUrl: "https://www.crn.com.au/news/10-top-azure-announcements-from-microsoft-inspire-2020-550733"
 type: article
-quality: 56
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: CRN Australia
+  domain: crn.com.au
 
 topics:
   - Azure
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/10/19/minecraft.jpg"
-    width: 1200
-    height: 675
+  - url: "https://i.nextmedia.com.au/News/20171030064417_microsoft_azurebigstock.jpg"
+    width: 420
+    height: 280
     isCached: true
 
 related:
@@ -57,6 +55,22 @@ related:
         width: 620
         height: 348
         isCached: true
+  - title: "'Minecraft' Finally Migrating From Amazon Web Services To Microsoft Azure"
+    excerpt: "After close to six years on Amazon Web Services, Microsoft-owned Mojang Studios is finally bringing \"Minecraft\" home to another Microsoft-owned company, Azure."
+    publishedDateTime: 2020-07-21T04:23:00Z
+    webUrl: "https://www.ibtimes.com/minecraft-finally-migrating-amazon-web-services-microsoft-azure-3014491"
+    ampWebUrl: "https://www.ibtimes.com/minecraft-finally-migrating-amazon-web-services-microsoft-azure-3014491?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/minecraft-finally-migrating-amazon-web-services-microsoft-azure-3014491?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 56
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/10/19/minecraft.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Mojang Studios is finally moving Minecraft's Realm servers to Microsoft Azure instead of Amazon Web Services"
     excerpt: "the game is moving to Microsoft Azure servers instead. Apparently, the studios has been migrating tools and cloud services to Azure for a few years now. It might surprise you to learn that Minecraft, one of the world's most popular and best selling games ..."
     publishedDateTime: 2020-07-20T20:04:00Z
@@ -73,21 +87,7 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "10 top Azure announcements from Microsoft Inspire 2020"
-    excerpt: "Microsoft Azure Tuesday released new hybrid migration, data, security and compliance, and developer offerings aimed at helping the No. 2 cloud provider’s customers on their journeys to the cloud."
-    publishedDateTime: 2020-07-24T03:15:00Z
-    webUrl: "https://www.crn.com.au/news/10-top-azure-announcements-from-microsoft-inspire-2020-550733"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 37
-    images:
-      - url: "https://i.nextmedia.com.au/News/20171030064417_microsoft_azurebigstock.jpg"
-        width: 420
-        height: 280
-        isCached: true
 
-secured: "6F0rIXzO01nhwJtmlUxJIpIoI6/jWV9FKlC1BkLNkqwGQcOnNGav1UnXPBUoBku1R1+F4ucqNcgI2ffxl+bK4fbttxcd5aRWDAp9kN4nGSuelAiwZ8RiP1hZvyL6Xy7FY2JVRAfhTXpgARi/psCgZ6uHmSogt+NivZkwjKFX/mQdCcv2N+lP4J3vqvZyL1Z4kD4uPU8tYVP82smd3hmWg9dYwFrGp7bi70WOmd+nLXadKsh4/q/VzIjoAI+jEWOwkxtG82OUhq+FVqpfx/oFbE+UjGX1LbbXP2bwAvttXVOwVXGzfCSpX1wgbZPjc/iq0QKcZ0v1c3BLCJdol7HcBSugUelS786U/sVhbeKUC/CfTynVxAEsXlsuWhm6DxkXMijUJeSpmk8F7x74noN8WKrZ0piIlVSr4bt9lNWo2eraXzsq0EpVkH+rlqj/48PcdX//pSeG2wkDXfLwSXty1pIedZp8BzuwE9ZUvgMwHKlnw51C/BkX2kZOFemMCInJg3r+ofUfL418GqFhyGFlwg==;3dqtOs2UoJ/3KYrvzrDrkQ=="
+secured: "cflzka8vcJC4uiZJqb4Iqnt+YSrk1UAV6Pt+1h8xCKy0ySOcdu/YADihp4lcuVerE/ger/fBvGojpMGs6aeBBUmAdEmB/nY/HfQtAowjrPbmbeqKDjLoFiEr6W9jP6DTGMuBSrksjN5vmNqmAWUfuNqUXZZyMU37IWeJq0L3zy+D+yh5Vmm8iVAhKkyAAnjKv6nqlxq6d/wM1ZzJqUjXSX1iaWJz59hv+rDOk0czpHwL8h2pXCR4cZ3URitntsTktQg5oP9vBzDSiD3zR5XmgXk/kGSPRINGa8mcFrM2Yl0R23GO0cYN+3mW5StWWye6ZVoYw9LN7oqgBtnniExHxA==;oHzkA2HGQTPCBKrm/2Jd/w=="
 ---
 

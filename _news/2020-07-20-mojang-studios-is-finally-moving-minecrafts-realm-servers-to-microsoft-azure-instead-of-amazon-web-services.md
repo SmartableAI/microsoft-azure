@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "10 top Azure announcements from Microsoft Inspire 2020"
+    excerpt: "Microsoft Azure Tuesday released new hybrid migration, data, security and compliance, and developer offerings aimed at helping the No. 2 cloud provider’s customers on their journeys to the cloud."
+    publishedDateTime: 2020-07-24T03:15:00Z
+    webUrl: "https://www.crn.com.au/news/10-top-azure-announcements-from-microsoft-inspire-2020-550733"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 37
+    images:
+      - url: "https://i.nextmedia.com.au/News/20171030064417_microsoft_azurebigstock.jpg"
+        width: 420
+        height: 280
+        isCached: true
 
 secured: "UX801j5HB1QUw+3PJYkGW/zLmRhVg/xEEnza+lXAJx2E/F+dtxJlZh21BfkBk9nyeuktDfnEIOYalRK9ZYMd2Wzuh4ndRLejuNVLY19qx2bpy7+fhSgEzDV4j5UlIlBMUH8Ht2DrniSr0cO0v0VWQeIAW7UqQyRtVIjrz6sJTZ/DnlXEr+q40fW8Ci+BMVc6vl766gIsGeLzbtG+I70dsGulB0fSdTgklT2m6fgqN0eL++qGnFJCK/xkb8XIa0ko/2euu5gpZuKP5df/RBaaNhTfuy4OAjz6rUh2FwMYiWZbHQIPEWHk3j7OXnYlETxr3vJ64MyBNW0TmAocTM5C8x5FE1iW9P5eOeZvoJwaNURaMQ5GiuxI21DPol+kaqG/hu2V9/Mjq1TmHqj/ctKNRnUK8kQUPYQ+1J2IBG5IqmtU2PyOfLDB0s/gbysobmmmLEzfdw3IbrGroLcoDmEp54PbksA5oueZyCmTmivI8RwHYxAPR+q3/yuxDOthMrnD8j5uwfRTzOJrvFnQsK5Ggw==;lm/UkwrmsZvCosgf9/shbQ=="
 ---
