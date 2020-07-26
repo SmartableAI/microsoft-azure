@@ -7,7 +7,7 @@ price: Free
 length: PT31M
 ratings:
   count: 914
-  average: 4.7221007
+  average: 4.7210064
 heat: 52
 
 provider:
