@@ -8,7 +8,7 @@ length: PT24M
 ratings:
   count: 43
   average: 4.744186
-heat: 53
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Explore data storage and processing in Azure"
 
-secured: "uoJQrwbnzUePEXIWE3B1rKZfFzJgN/EFzySjz2SDzSzDc8Zd+FJifO7xe+bOhf7N48WJwQyg2ntRHxH6bsS905nI/pGI7WRwHb8bJ4fXMIQrY04uWWm3F4HCAuLfv0MF/0EmNQYGbHqEncJZ2VJY9UhUNFQVoOMEU06hUChItW4BSk0QsCBh1EYOotQusPLz/i3CC4hn10i6p19UlMo51mvXOEfr2WsHPxEclkitdprxTM2GkQbNRn/fnaLr6n3zUJt2maiLglr0cg6b7raM48REcIxfjBjQGNpzQiq76nMHaG0k5wfrf6p3f+Xbfzu+bNWVk9ZHuZGLdVUqke/wnWUD/oPo9AaCe0PGnuCkWRk6Mvu8ka3Ax2kU1S4NPlb8gWBsQ/CE3ZC4Y2LKvvFv3A==;ZCGe6hBIgwvvNF7vHsge1A=="
+secured: "1vsMmCiucq6g5op23WNbLfXlNJX8fBYIR0YOTKphd985Pa38DBIkc0P5nXlP7CE9MBaxjEI6yhFJYKApE7Iq9UTJLqYD2irsHL7UmW+u3BggZ8etYz8amYGfhT8x7BsLemFp5yNKFK76jPnJOfHuGqxpKGw4JkKxUNuC6io8N9otFWNgGblDc9SMkt36aso3F6xkqS2rWOwe6gqWhSIEbm0IBAJlpc3+V7HAQt4G6Jq2opGXqXN689stCkJzsE0tNmyvrh3CXx41r9eZ9L8AGYhtYS5i6bK/k7KhlHQuy54TjaILFofK+20ukOkmUbXwOk10LkNRKzoZ1Ov5yxgHAng1eiJrcJpvO1bqNTb/Ir6TVfnCzVRGM5hHpakjLnJkzlBlt3BhXXWuXURGsknMXA==;TaBQ8jFH4fYRU6/6Uzwr2Q=="
 ---
 
