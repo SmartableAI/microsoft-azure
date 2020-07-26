@@ -98,6 +98,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 72
+  - title: "BitDam Advanced Threat Protection now available on Microsoft Azure Marketplace"
+    excerpt: "BitDam announced the availability of its Advanced Threat Protection in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. BitDam customers can now take advantage of the productive and trusted Azure cloud ..."
+    publishedDateTime: 2020-07-22T23:20:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/07/23/bitdam-microsoft-azure/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 33
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
+        width: 304
+        height: 430
+        isCached: true
 
 secured: "OYDttrBIJRHMtL5ERsSOTD8IS96Uk6zW6T/8SV2E/CNJI8jpY1AI2F3mzveijn12RVQEtsKq3Vm+IrWx4x9SmXqVfDCX4YZHKpY9bSVNitvHKf85K52KtDLWqgKRfCKPhkTiFXsiv/u6/eg0rYqH4E9v2lIpjmDrwCWi3NLA7oJZasAODff9kj61dJVa/cjiL1oxzJgXFAHTvyfmndx3IueDrEdrMcfo0b0i1qQGVOqAADe7LGNoUvIDSys99SJjiolwLKSCclbleaiOohaNqa28+7gsnFJrIvmWmm3wBEIpAKXkuaCl2OEo0fwHiuwJ4Vc3n+nRHDMZ3KFWqaiJKw==;GtOWaKaQ4hmNncBoQTPYPQ=="
 ---

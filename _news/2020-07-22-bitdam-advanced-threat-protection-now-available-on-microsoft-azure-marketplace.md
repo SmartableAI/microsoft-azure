@@ -1,32 +1,42 @@
 ---
 category: news
-title: "AMD-based memory-optimized Azure virtual machines now available in more regions"
-excerpt: "Today, we're announcing the expanded availability of these virtual machine (VM) sizes in new Azure regions and support for additional Availability Zones."
-publishedDateTime: 2020-07-16T08:00:39Z
-webUrl: "https://azure.microsoft.com/blog/amd-based-memory-optimized-azure-virtual-machines-now-available-in-more-regions/"
+title: "BitDam Advanced Threat Protection now available on Microsoft Azure Marketplace"
+excerpt: "BitDam announced the availability of its Advanced Threat Protection in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. BitDam customers can now take advantage of the productive and trusted Azure cloud ..."
+publishedDateTime: 2020-07-22T23:20:00Z
+webUrl: "https://www.helpnetsecurity.com/2020/07/23/bitdam-microsoft-azure/"
 type: article
-quality: 93
-heat: 273
-published: true
+quality: 33
+heat: -1
+published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Help Net Security
+  domain: helpnetsecurity.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/d92493a1-f2b7-43cc-aac0-2fb16327579f.png"
-    width: 600
-    height: 542
+  - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
+    width: 304
+    height: 430
     isCached: true
 
 related:
+  - title: "AMD-based memory-optimized Azure virtual machines now available in more regions"
+    excerpt: "Today, we're announcing the expanded availability of these virtual machine (VM) sizes in new Azure regions and support for additional Availability Zones."
+    publishedDateTime: 2020-07-16T08:00:39Z
+    webUrl: "https://azure.microsoft.com/blog/amd-based-memory-optimized-azure-virtual-machines-now-available-in-more-regions/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 93
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/d92493a1-f2b7-43cc-aac0-2fb16327579f.png"
+        width: 600
+        height: 542
+        isCached: true
   - title: "Azure Data Box Disk is now available in China"
     excerpt: "Azure Data Box Disk is now available for preview in the China East, China East 2, China North, and China North 2 regions. "
     publishedDateTime: 2020-07-13T22:00:04Z
@@ -99,21 +109,7 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 68
-  - title: "BitDam Advanced Threat Protection now available on Microsoft Azure Marketplace"
-    excerpt: "BitDam announced the availability of its Advanced Threat Protection in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. BitDam customers can now take advantage of the productive and trusted Azure cloud ..."
-    publishedDateTime: 2020-07-22T23:20:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/07/23/bitdam-microsoft-azure/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 33
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
-        width: 304
-        height: 430
-        isCached: true
 
-secured: "NOhmNNmFsJzcjCWb0DFyGCU60g7RrIHDGhm6lAIcp65kebY0RbTxvRk5ZYk8qDvA0GQZfJOkNDg5R8LqPsFVDq2bh5+vOiVRXXRrpswERnytghT+IjFhaSKk326u11G8PjoUHmfxzbAlP+6cRElz+mcPNwEU8HgkTGiIdpQmfC/AQJsXc9lSp/mE4QDJoYldqbnEXC857hDl/HRGeK9yHmVRl+Y6psBwp9V3LTeWCfmjtaBlKl0yZT2q+I/GEoFWjPtru2/Ai+pH0JfcAxzUdbOFb9Wbm/emh1osJlarC3e887u/jio+11r/YyHqc0KFjg4gYBYSfMggnI0lY2TwtQ==;9Vn20AnoOIGYOeppgA/F3w=="
+secured: "T4vJ+FeAUEzxQfMf7YWbj+3JpQJF+tFXvCeiJT8vpbMWPSiyLJKSPeqXUMtLrFtypqoA2/TAfQlpa3y+24YFTQ/4geS2f4DGhYiDVB1Q/kXCt9C1KazN9gAEfwsGwoKeqxHPZraHz7+vTR3RSmZnjxq6ZFU68YWQEX6wKpQFVLQ83SdKPTk7t1NpEmR8RR25EK2EOhLSkcjTtE8KNSmE4PiUb10J3U8RJ5H9i/+w0frLvmaR5ThhSFirRjfhSFkPUoI3CFMlGg7k5pmvXbZ0wwlSLJ17PIp+bmOebQHF4DbkXfUIYsQIbKd+u8f+sSR+9UOuv6oDzCEF9UcxuH+5lQ==;7dcC0j/q07JicT755WXziQ=="
 ---
 

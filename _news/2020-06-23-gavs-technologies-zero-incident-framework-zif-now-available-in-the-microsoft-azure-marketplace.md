@@ -165,6 +165,20 @@ related:
         width: 854
         height: 446
         isCached: true
+  - title: "Tangent Works' Predictive Analytics Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Tangent Works today announced the availability of TIM in the Microsoft Azure Marketplace, an online store providing applications and"
+    publishedDateTime: 2020-07-24T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-301099420.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 30
+    images:
+      - url: "https://mma.prnewswire.com/media/1219270/Tangent_Works.jpg?p=facebook"
+        width: 2699
+        height: 1414
+        isCached: true
   - title: "Foxit Document Transformation Services Now Available in the Microsoft Azure Marketplace"
     excerpt: "Foxit Software, a leading provider of innovative PDF products and services, helping knowledge workers to increase their productivity and"
     publishedDateTime: 2020-06-30T12:03:00Z

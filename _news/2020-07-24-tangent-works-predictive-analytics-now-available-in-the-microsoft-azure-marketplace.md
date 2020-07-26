@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Foxit Document Transformation Services Now Available in the Microsoft Azure Marketplace"
-excerpt: "Foxit Software, a leading provider of innovative PDF products and services, helping knowledge workers to increase their productivity and"
-publishedDateTime: 2020-06-30T12:03:00Z
-webUrl: "https://www.prnewswire.com/news-releases/foxit-document-transformation-services-now-available-in-the-microsoft-azure-marketplace-301077872.html"
+title: "Tangent Works' Predictive Analytics Now Available in the Microsoft Azure Marketplace"
+excerpt: "Tangent Works today announced the availability of TIM in the Microsoft Azure Marketplace, an online store providing applications and"
+publishedDateTime: 2020-07-24T13:00:00Z
+webUrl: "https://www.prnewswire.com/news-releases/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-301099420.html"
 type: article
-quality: 29
+quality: 30
 heat: -1
 published: false
 
@@ -17,11 +17,10 @@ topics:
   - Azure
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://mma.prnewswire.com/media/1219270/Tangent_Works.jpg?p=facebook"
+    width: 2699
+    height: 1414
     isCached: true
-    title: "Foxit Document Transformation Services Now Available in the Microsoft Azure Marketplace"
 
 related:
   - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
@@ -165,19 +164,19 @@ related:
         width: 854
         height: 446
         isCached: true
-  - title: "Tangent Works' Predictive Analytics Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Tangent Works today announced the availability of TIM in the Microsoft Azure Marketplace, an online store providing applications and"
-    publishedDateTime: 2020-07-24T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-301099420.html"
+  - title: "Foxit Document Transformation Services Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Foxit Software, a leading provider of innovative PDF products and services, helping knowledge workers to increase their productivity and"
+    publishedDateTime: 2020-06-30T12:03:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/foxit-document-transformation-services-now-available-in-the-microsoft-azure-marketplace-301077872.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 30
+    quality: 29
     images:
-      - url: "https://mma.prnewswire.com/media/1219270/Tangent_Works.jpg?p=facebook"
-        width: 2699
-        height: 1414
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "GAVS Technologies: Zero Incident Framework (ZIF) Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to ZIF to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies PRINCET"
@@ -226,6 +225,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "WageVMTqzjwzr5yTPo5oFbEuSukXKyabG1rKDc3z6/oRrLOqNJGRLqVONNcG8baZklhw2CBDeIOESl1/Co5yLoMhs6ZFnSe5fEMKVtlRK7QtiICsbl0sOTZqVnQJ+5onZRICzSFA7pg439wFSUhOswgT7dLq1+OgdFpYf2L3XH5NtacISip/qEJGDcW7H0zYapyCIxGBqauI9UU7jW0XVBxO0YPFB6We3/vWjcqwU0eExml+4FaIALDT9xUdowY4TxjIpsSOyEKrhA4OwYCrQnUNIbheL7LQFoR54fnLdpUFPFxZsw63glyU2AYCHMQmR7a9UmKHtq2RZG7TnDYPIw==;voVpn1/CEzCrxL6X8zap8g=="
+secured: "bIKDNUq0kJH9A3ltu7yX1zv/xgUY2hljgZWgNHBFBzEc4CaY7/zLk9BitKS3mkl9RL+JYIOlv/xxVHIrlRz1Y+2HPZsMvl5xqCRrojBsb8OwNIzSbvhvkhOn2Gh0IMBZ0Dw+n+in3bGUGlSK4U8JvUK+13KOmWAj2RWS0LTVNauRFHhl6owS6b8FYExCrQi5BEwJRKSDwUfUDe/k0WzLZcDtZDqEkhs9yEqqDvPbdJMQbHkZ5NxtaV9NQqMPwpRAXqTC7AWAytX0GqhOJ1WHzwgDfOpud61t37hAsYAj3UHZX1mDatyL9Ckj+9Opn2WISyevi25Q50bXGogdZsJZKQ==;IixBok2vVXwDtjhubBjo3Q=="
 ---
 
