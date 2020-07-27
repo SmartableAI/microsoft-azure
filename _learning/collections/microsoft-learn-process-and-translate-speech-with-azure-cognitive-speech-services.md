@@ -4,7 +4,7 @@ excerpt: "Learn how to implement the Speech services found in Azure Cognitive Se
 type: collection
 price: Free
 length: PT1H3M
-heat: 52
+heat: 51
 
 provider:
   name: Microsoft Learn

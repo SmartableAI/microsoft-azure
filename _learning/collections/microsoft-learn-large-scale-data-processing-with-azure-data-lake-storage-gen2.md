@@ -4,7 +4,7 @@ excerpt: "In this learning path, you will see how Azure Data Lake Storage can ma
 type: collection
 price: Free
 length: PT2H5M
-heat: 66
+heat: 54
 
 provider:
   name: Microsoft Learn

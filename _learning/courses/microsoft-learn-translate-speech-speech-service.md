@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT18M
 ratings:
-  count: 124
-  average: 4.645161
-heat: 53
+  count: 125
+  average: 4.632
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Translate speech with the speech service"
 
-secured: "z036yt5B06hg5HL3RvXz44i+Aphj1NfKUbZDKn69Rr8pfP35TJjACeyygibpqwxiSL4SejBGsf6DzEvgqdVr0Gz6rkoEYoIaqujuCWO5wmQ+My6mcdsgclfBKnGm7cbLTh5/1UMWlff9ZfwiEvpYeXwbkjlgWS79EAsR991NqtH8L8N72ziVGti7bgWWZqbVi7DKh2pY0/GPxzJDq/yVLMXbfO5CAVu15jjOSmisONnJ7h57aa9lenjQzduCZ3Y1n3OggOay2yL4BaIWES8dQatzR/c1DGb05rlD1T9QZ7S/biEzTm2VCYSyE5O35/KOeTEq306P6kLHGZ+xSXg/DUfVeCkUyJlVH9p/97I45YZQO865Vs5JZBhuClsHjopPZnbhP0Ayms7gtTF3dhUolg==;uDu3FanLIat+XwvhhP9N2g=="
+secured: "QSnlpOpZQgcR7EnfbZ6qEDWlwvrM/Wyqf7NNwIOtURyufIwpwZY1NHllHZ+uX5P3xZ2PGSDP8S5duU/YbjpYMY8AagwA12xzDAMijJVj0MCyEN7XszxbhrKcYAzoKegA2+vJDNl4umTS4+N4U+Ki7msdR3ubwOOCQY9+IgJa1UvvtALJCiblm2r2Hbb6Wa+oQXAlESr7bnZK4UZAluXfph9CLNxR3vzZSI+TvePgTKRQAhbEFeKT+7BUGufBrGodJrSW5Na27s9J+DuJLCq9rricgFUbsyyCe5ZDRkM3P6yvJuKCe8oEco5ClTXVKZ0yujrF45iKyhbwZ8LnpqjdpCJzUBEGRq4LCL/moW21kzsMncSvidpS3bZXIUnAuCxzawCsO+Gye9zVKrF6sLTgng==;IoyqDm53Vpe+1juwtUl9Nw=="
 ---
 

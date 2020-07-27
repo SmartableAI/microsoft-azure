@@ -4,7 +4,7 @@ excerpt: "Azure Container Instances are the quickest and easiest way to run cont
 type: collection
 price: Free
 length: PT5H10M
-heat: 81
+heat: 84
 
 provider:
   name: Microsoft Learn
