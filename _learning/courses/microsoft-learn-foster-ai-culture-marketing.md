@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Discover how to foster an AI-ready culture in marketing"
 
-secured: "tl9PT2pELEFlANjI3TqkInzHqNibh+mK33O+Jr3Nj1oWAlnCU+RSIlXkm0rTTEsCHfDBfxDXmu3cgpF9PYg3vACCfuV6uB6JRmYp3VUixjUQpLEBkPhn6yDcv5USWI4Dp6bzsnbidzX8GabuJHz1xaod2uAYe8QW6ByGPLsSS+Lo79/bDjB2tezU/AFY6qpblE8J0bw4CgPdbNgH3pH7pcsrnl3kWRzeWrgvbkIQMqjq/JzYuKxmRBFSfA9lXWW0fpiWiwON+s/JlEzhTNOOEvBpbJ4vsk16ooe9IyDyi3aeSGmUrCXlledSKqntjQ6vcSFo/6zNoZQTlMXOpiSxBxUZPsRTeBVwVvsNevOObEnqOQJcMqMI0bAMfR+jjOuAfJdGmdKqqFLL+l/F9QIqIA==;eFLrcxg4GQWLaqRS+StCRw=="
+secured: "0DCTPR3orZN+bqKYNDG/IaOH2UsVfohp1JxlceEhc/Zi7NAJD2XNwAMhzb9OoAFKyt/7VLSyROOCxSUlLyYZdLohQs8RRP2c6Qa82PihLq983SizPrvItAuBZ61rEw5Y6+bu8myXGe9C6QZ9+ux7FN2FBO7vz53lLM0/1WPoy5D+IuyGA+sEoBcAQxGw7fO9tQlVQB36GfkI3FoE9RuXX1VguccZ+gAHjsz3syzxM9To+9jPxKaERqsoxNCUo3v5iVEzvCDah8236Kzb4yVuKYqqxfvAYND5vaXKMH+RT66TR/UpsXTPquFFE1eq4KBfYTgjXHMvlsB9/nBwcxQG7eGlFucF/rXQZrC9W/ipENF3ED2rKoD0KU0q7CMicw5+kb5vpliiHQOk4mlQ9iC3CQ==;ITLj/cNKkfzh2C0sTYQi9g=="
 ---
 

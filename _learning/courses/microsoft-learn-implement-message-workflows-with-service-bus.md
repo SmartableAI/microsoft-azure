@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 54 mins
 ratings:
-  count: 1688
-  average: 4.6546206
-heat: 53
+  count: 1689
+  average: 4.654825
+heat: 116
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Implement message-based communication workflows with Azure Service Bus"
 
-secured: "G+NGhrFKVwqGF4dQ8CRWICbfpYRv0Zmmc+KwBUTWAHf6n099OEXpaQBK5eG1cYGbQw4dUYgnwShSAMOJWzYPsx+1CVpbBFyFH8MzDA9ZcbhSzqTeTsrH/++3c7h9niKC8WFLVAphdwdk6zlcMjv0SyfR+hifgYYh87oTGkvzqDYaB43IDG92bdMlL15B/58h0SKv9y40ZbkulBjAkGwk3hzdSZPRiLxihsgnRg1zwxqmxCHn3wxfoqkJmA89a8bfjmstM+kvcJWf8ChBv/S28c0GjvWMrEjRE4Whi8A82ZEHJjRxJTkdPppQy+eQ0Z3IdU7m1kvp9gcyE0o8TIAnOLRryi8gZBhpa2HoJIw0yWwQvjvwk2ELM2O9KVohMe1fcbVn39ulClGPy4BXN7ut4Q==;hTDdHBu1YGa2SuecWjNLOg=="
+secured: "LqQuikTZUO67HBntmqnPlm0NvQAdFenvp1k2YoKla4JppiQgm72cCbTkhbzczzi8KPSZ5Q1woazicQQ9RNuBZWZZ6FdiZlEoDDUUBNR9x9KaLrmwxxBkOHUaHatW3TsIYeT1lZGUtIFXoX8N0cCiPig0reUgFlOaGJGSC65fMdehPx9HCDzYC2EK4dG/uJ4VAvDeI6Xh3tFSMc6DOMebZfb8wEGNVEYgBOiN0rh1fQFZWUS3KAwxd0u8DTng44laQ7MTVydMLRAphICgVkmok4p+IqIBw7ZtDFtznTJBneRXdoj+050jBhv5W7SXzXuuBwNPIFg3+D1Tx5t/B3bLpBHGuXxwSnFsybSXo1zb09tQqnK16pIwp9wFZiFP4DdN5VrZC9H2J7yBWi4N36IrhA==;gvtV93x4MJxbrma3h+6uPg=="
 ---
 

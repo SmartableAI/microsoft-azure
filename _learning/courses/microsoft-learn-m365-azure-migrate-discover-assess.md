@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Discover and Assess your on-premises servers with Azure Migrate"
 
-secured: "EyPSKPet5A8bQ8Hsuw9aOErNPHgtlH8M6TyN02xBEXWOHogyVuzj10X81k2WG4tYos+Ol930OBSVDq8y61veGoT0lBothCNesDDyoQhHwgP2F7qNmKTKPRXU4M6dPidoTZA9EmGygEnLtg3yI+1CtpZP+3FIGdP9h23aTJechMi0EC68WB06um7AASaqvGaEi8K9v6pUyvR7yb4kr+EqZ5f1dAdjJdWZW6UI5CGe1ySvSyfrmb+BR07iFk2aa1ERqJmmZOgmftli+6N22o4nMepfV4j0GQSqfKT5bjtcdeey0nmdIJqI3weib+AUlKsyS28+HRfSi09L3ZXIE3ETURp+yOcDv4OxKJvwUFNde+mX+krxVsXsnguwvk1HHHyNey1DuG6t+PfYv3/AsrG5CQ==;ooBhsBkOimbpekL+kg5Uxw=="
+secured: "DefNSw/gXjiRhV6IYtaTrJc3+BE6oi3W3fKBKeZ89bGUgwJRq/EBu4dkih5Votcog7FgxPH2jZJ6SqkN+EbWR2S9lXhT+UaLkDOvlHwM4nxoUEiV44KizF/QGCq4i/cBZRWPpFHjoeWCDpC91sN44vj5/E+1jcIoouy1+riqIxFfrV6BlGFtyPrdqO0dKv31JG+t/VkfbrT+Zkl9em9L+ZrR/XozV+myYaowg3VpHAZZtu2+QDNghe6paShpRwK6jgc+nedNGmHNJxI/0ZW7114IV7CFTV3aa4oKLzx+s0wxM/KpTUDoAVSOjL2YCr9PXTV9cSCOhStuNCRiGwbhnzrmwIAjiGfXfa9/T951zg+42MLmjaaXGz/byEW3ks1nTi8pMZsAhCklw6QyEi8h7g==;UWhZzCiq48jZQSlPz4/1zQ=="
 ---
 

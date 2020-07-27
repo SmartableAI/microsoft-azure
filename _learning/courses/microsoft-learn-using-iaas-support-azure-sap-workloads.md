@@ -8,7 +8,7 @@ length: 44 mins
 ratings:
   count: 186
   average: 4.72043
-heat: 50
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Using IAAS support with Azure for SAP workloads"
 
-secured: "Xc7HlOiSr0ZhknERTB+kqe3WhtR8aMMRPwZ8D5oyFcWxAksd/UicvXWmDX+7RwUjqh/7HCB3z75qo1qn+DKy9KUIlHx/P7aaZg49I6b8DsfwHKyLGPW4n4SPwgGtSUsFpy8itGYxV997Cu+rdu1GBwAKrIFYjiyod0BJgRHvbQy0RoN7zedIAfNN4rThgxlSPW2UVLl5sw3lFPMlLmXtd18TCuGrso1T6Oe80sZkkUdJKfJQ6kID5EvSQu/nPnRUHBmOTPnT2vMb5BEYvVdKD9WsRX64dOBkClIsmgmEgEOk9wP6cfhU+ToXr5aMCGE5JuzI2TDy82YIIi/PGSXdLjKboWArtt5Kthk3or29F9QSCRDsy4Rq2swQPA+xVrQFEbGoZCNrx8F4mw7W7KUwqQ==;3ZdMxi5Mz1Pii6Wow6XxOg=="
+secured: "eyCNT1Hd+yje2UqnPAsZ9K5nTyux5D3Ffo3IOh5oXEpmUVNohpBPjXr9cAV7HHnDuUvarQrlPdJLlhO4Fu59c5sq10Tx3XQo5kPGFMiL4/tVpjQpJMYYT7FAXyibesHi9gB5r89RwAW/2GRsw8VIcn70Aj1A9eM9ISmKeMI9MOPy9kEqQKsQf89gZCiRtuvJ6vD39HiW1mCUlvl44DUFtlUUe07KkpVVIbON2e/Li2/LNYhaRW5oNbhRXhNgsycsHXnJiv5RF969Kj/asqRDrBUk87GQcUYhBQJhlXcVGxCanjT9cIzpt5ghkDffJ75yXdlOs4ydMPZhOxvf3UmQxP3mt7Q+1NIgos7SkK02R7M0BMBw6DI97uH3CgbxzsdyKRGqNgmcxlMxCxL0bvHp/g==;IErW2hzC9a4ZAbrJcogTDw=="
 ---
 

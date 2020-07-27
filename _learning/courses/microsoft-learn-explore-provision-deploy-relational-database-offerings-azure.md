@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Explore provisioning and deploying relational database offerings in Azure"
 
-secured: "mGUb+Vic2/oebZfXZZ08eb7T45R6AjkT6NNIFaTt6qs0bQRbU+D3ag7ym6vRYQ4veAGmcovIwn5cUV1sRyZzuaFmUEwIs4v6LPycKyIdDkXGPx6kDGussx0YMPC4MK4zQvEZ4NpOJNgf2H4j8gowpbJGN//FpcJ0MRYFFfeGmEDBhwEpgQDzxP/A5Kmf4Mbc/NvnFHwV/5rwpzUGkzv+GVeIrPcO+EQFGgE2UfhU7tn1pppPfB4Z/JRtM7pL0KJShFDv5mDLivlJhjYCzWFjktn+NbeIuK781qPHpGcqGr1TAdMJr08EzDH+E2eZicRAN3VYU+qvzyRP7mnJxvyWF59ytsJk1JzD+KfsUyVxW6rlTeAc4dfj8phZYGaZGVMzLJR2kfJuaM0PzXyI5EXvng==;VWWx0kbPxJA+Yr2f0HwAIA=="
+secured: "GVuzyfFwOFWpdumj3+HQe5O/HJxNnpbg7dAa73eD+/jiKbPUd6oSnqAmf3olBgWXT7jOroJKsaMuYzurNGtjRFBR7ue7eI2Zdp+faBIHbS1Pdqq92E0MjAXN2A6C91pfJPhfNNULcVz3NKjbJoniYx/p7rthjXn8w7L5JA6YAmvFf/2KpqEgRHdkyvbcNBHK/7ldESIJ5Ntg41j4chn+R4664rc5Ufvw/cb+ZuJnLmL4S+dHcWdjmTRHhKY1lJ8YuDwCB2Ddvm2URNzXPwX03RQRNmwysMSXd7HRWMSrP/7Bwq+e+ICarGdVlH9dK5X1gsO7vl0R0ePlIjNCcdYw0U3tv2UPNuHAFHRH2m/zUn3DsI+/S0UfKz0l4clTxVM73j9xKn9RDm3fwO4+ntyo4Q==;gySM3S/4PLrl6wphHRz95w=="
 ---
 

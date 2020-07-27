@@ -8,7 +8,7 @@ length: PT33M
 ratings:
   count: 39
   average: 4.5384617
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Describe Azure Databricks Delta Lake architecture"
 
-secured: "UD2XbFFGhgNBU1Untqrqd/TrCfvpiQ2GZVVrlIwkJUjSAc0d7hFWytSd5vuIDEyUPcRlZz4NAVImwUjeohwukYWz6o5i0/HIOGe16YPEbD139a+DccinVwdd6SMDT0A2rbGl6WoLMoqrNHjRhwzEXsbF2JpF8SnzZvLmRLW4U5j2QSThDAmPEs3qI/lNsGU0kptiCOhfvhERr5bM4uBcvuXXfFlk4WCvQ9I+zDzwuqyoXWkcxwkVzjN2mRALvJubV4ICgJpud148Q1VXalx0GjZ8oy4VlagDJmk2mLwWBNsaifIN8PbNNxq54aj0jA3zjxyZJI4BFSbHEcyHTzs+78tpmy8Nw/8ThmRuEfRtRFoUO1c0D81ozYXt6eU3dmAe3p4EdTK5EmeKrCPgipDUcw==;W/1o51wcV47uDslLNNFpNQ=="
+secured: "PzH5qCWKpZiQ6EdpdQqcBLc+H2TMIzuGZ04UaFuRanXCdHKLqH+DwTl/dMKl9a1BzBKpuOTTrtKnnSQt2ynSMnElQraEbLjjeiK41b61zzTf8675KUxRRtfwo0AEdAX8ojowk8Pm2TdvPI4s7O+ynBfi3bldC8tWf+8G2+z+EzVLTvmQf1TXoH1hQWmJ//bOVz52DbjXJa6i8+fCkoHQC2N0c4mvYH8049b9xRbd4aDrwApKuQ8dpHrFvwh7NX08iby19gQ/+0DwNepJ2BBp7R2WEKZnxO+kClMXf/QRVlplu9i05wiAV0AQuzFHtT3Gb4PjG4f77HNuNbSwR2D9PLTt84rwMXnG8MadQyYUhpLrc2MhauHQxrIQn7etAL+ep8CoBvwnx7Zv4RziOG5Hkw==;S8hKwP2vOOSWxyMkQ8HUSw=="
 ---
 

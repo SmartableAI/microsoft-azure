@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Creating and configuring a HDInsight cluster"
 
-secured: "uOfMOXMWkkd6VE332eAAYBTAgDtVqchn/cKSq5s2FPJoA/x2fCsPGZ/dX2xvxcuWN/BKf2oLjKEe+jCueQsVVMoznp6lV56JlIpwOYXDuaY3b/J5jPIG+zJDvLC20zryIw73DLDdi+4OO3gZUe6q488E/Y9GmQSKSYpXKzuckgXKz+BDlffYaCsq6akFXRUyP4aZ/mcj9gFFSQmivRoCs+ceMNQfemkCXMI5au0dSI3TGLKyUEbCHeko5aO5JMi2LNvP6JM0JjfGs3Z2iMZeR1t7hw9FR0fR9o+ksDvZj76dtGMOyPV+xhpppXLjDFDc89uKrR/AmAOra0uoygzxGd7E8J9Eyn71qG8c1Wq+BmTS55X/tXDmKu20qM9QzJN8Lm6DNy1f50DrQetC2e1jWQ==;5+Vo3hfrJTPbbH6kv6zgEQ=="
+secured: "uUJE2kMW9a0Idru+HTzDpCAl4O8iSSn5YElg/3iAvmZFp5jIXWppV05TS7rUH5gaYeptfxS31umR2pVGKe63H5/tCLrQe/N8SHwEAuQaxh2TNFoYK5+AcPMj9+O8ORCbv8QB2g9EvcpYnDVtAFEHLZwbuncAD306K0MC/eTyJFHWC3Oy4p3Jmg/+zXIS4YcpZujUn8RPBiiYmy6Zg9ULWChUiAzjgPan2j3yli0kZ57/PCnuMbVKPyJxNo71di72doXfOEGqNR4XHfHxhUm7ALlzJHiWtok+tnfJYNcpuaWaclNQYMumdgkTcL8/zRaQtjS/AUav0Bp/JwER+Kq/FziHGZiyQqrLMFmyFbvYtSd8p9ZFrQuEUPs6OImJ+Ip3r63Vvy2l5RJDsXjgCpr0gw==;QOHLkpIQzGJvCvgUfqEY8w=="
 ---
 

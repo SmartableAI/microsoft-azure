@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 42 mins
 ratings:
-  count: 791
-  average: 4.6169405
-heat: 50
+  count: 792
+  average: 4.617424
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -37,6 +37,6 @@ images:
     isCached: true
     title: "Automate machine learning model selection with Azure Machine Learning"
 
-secured: "a4WyhrGUZErW3vVHk9fQn3JkmuJyO/IpCgDcYscwGMvyeGdrU4BQ1gMFj6SV31dR7e7yBBebnPnpSblyGMIIXv8dbI8sQCJZn6VqYnhGtR9b9f3fJfCU4N2uF2VfeuSkTf8/OHk3AH8AtbYHJoK9x2a2NceUJ7bIY4z+Yob1Or59nXfknjeMqp6yYvMcgbiZme2BQs/adOqaTAw8DLQqAMaGZqYm4rLyyx1HKyqZuLhdYzFTF/reu7ycZcgsYZrZrJ26YQZyIstGCzOkuZqDOgWytO7fF0nOa8tF7NriZ9Uhd0sF40UovCqh0OONjQ1BDhSf2Y+QUycvrMcv+iHpl9lCHguM8tA8QXVZn/KAHNym/kA5HcO+OSkC6bFzxP0knqK890inm/nGt1LfqRkj8g==;n4o2YI2+QIlWiVJ5lgOOYQ=="
+secured: "zERb2DzdyaTCRjxki3S+tbBZx00V+rAodnWXWC7tQsbHDOcGz40kQVOe16vzWnuCuNrgQWAfGwaIBIBcK/NL+gYeEu9HSmEnflJFTpZb4TkQzSuD4fyOBkNDaSz7nMvt44VFg6XNOFi9mV3ZhMdVa/cKZ8pLGUokdHNcKuS1FdG0bGjFsv672YZNPOK8MKfJBt154yINtctlyNY9tsOY15l+5xJTJd+oRW4akfip7/sLWqNdk6dqJqt11mvs286irNJW521eHdxj0TClEPvfXQ8AIBkitosahFJjZmwOIwCWvmKUuDtluO+rYWX2kG7yL7s699HeOYYKOzTpfXwnoyFT5z+hIQUxGXEBWYQ7Dwt1xoiQkJuNhC98sga6X2f3ZPvtwFI+nM73t6rq0VKCgA==;bnVK9Iacjw09BSl0KM8rVQ=="
 ---
 

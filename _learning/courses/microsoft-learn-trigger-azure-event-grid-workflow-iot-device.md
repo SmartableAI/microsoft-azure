@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Trigger an Azure Event Grid Workflow from an IoT device"
 
-secured: "Efc6YkSaF/c7/2dGdZeJHGRoDhPZImpAssJ484vU6kQNnik+0n9Mh3Dfb3fr11eU3cZoXGoFjsS1mWogKkE+7wqtwvHXIuONfFfvcRrM4pYdkP4VucoTwdFMSiS91p96PrLHzXe4Lket3mhmbAsmZyCyHYUs5/fH8cMDxcdcuxgQTCXBzM53wa6SHoW+6wLDHdcO/uAJFyLNfVolJ4UuQq0tOrKh9mZFqOtUDhRFHihI3jdRGXKMfkkOkukfQ3jQOSotwlS28f5rrYpfpHHJk282+i42HmzMz56GzlQMOVN6yxdkZ+STGjtEp1PvKIpDofz+mzi+vnkow/D+nD3IZXk1Y/ZKI1L3Ez1RfmMuyrUgk0QGp/pw1LgPjDc23Issru/szngf58+x3v2uP1iP1w==;Qi4PzO/fCEh4rNByJHB4ZA=="
+secured: "fxK0Mv3kFc8jaqTB3Yb0FAKYgJ4Q4FG0DYcV/3u5mmClHzvMaH1h1tMv/nEQd/iy9kwNNJawV1ytMYa1POCgw4E+7LlCILrOiKrndq2npAabauvNmyT4ONkGFF1t5dijfRkcxgHmSuWXhi2tZH8w9LAJW6AWNYnJba97BzWd4pJsO+P+SS0X6gkInIurcU38UCwed8IJEnILodqODGMfebO9CeideVnZJLhk7i7kDhaqorpdiXBSfHrUsgT/mm6H4laoNvNEA8VwLTtSrJoOpWs1+Z118YDukLwiQn78Y6XLPx9RHqyI6URD2+A/UFFPx4N/xrhejjd44gnCXQd4aHjmTldwFy4X1C/fj0ok6+2hj6qjL+A5LN4OOP8OUAtaildeV644hYqDF1OpqU/SJQ==;V6L2zeJGzwTuuX6xl4zytA=="
 ---
 

@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 25 mins
 ratings:
-  count: 48
-  average: 4.5416665
+  count: 49
+  average: 4.5306125
 heat: 50
 
 provider:
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Migrate SQL workloads to Azure virtual machines"
 
-secured: "HNhTUkDG42rqCQ2z250bsJDQBkAeMgLEl1CjeoiQ3JwEj2A4VEU7ylmkVI/Al5eyuC60JMxR978roPIcMwbp675jc8++wCwzb044eKJYw1QPecGtYF0CoObIwRDBq1Ksy8zNI6YjeWjwUhzjHGibYSbhwGytZV8+CgcIGh7GrVj4fPk5MDGOJDZcy2DYlZ23TO5i3DCZuB9v+tcoOOKaAhJOf8TkNg7FgMy8DTrQGwHQnJc9vxduWEaQF8/VAHSpMVMzt7iM00cUsTYtLEgTydIZjXjsbut0Sm3VqbZc+N+ivaQO9OSkS2JR/+gm1MOf5FQ3dSev4qsXQX40In0BUIj++5E59Qk+v+DF7Pk+NSdkS5RO9x5SWx9cN5zmknQ0LFTzTBozbHMplmuo70yESg==;lSvpOb3XYrJWLYqYdCociA=="
+secured: "wlNPQoDHYxH8VYxjjInS8Zz1CpxMYy/xodUcf2jT3xwzBr6q+ymJfDiMiIO2OS5p5RlFW4aYIdtTfINrrzQj7TNxcqTQHhSvHoAWb14Lqw6QeU30lfajXff4qUvaJVpc550ECBKmqprk+yimPb5JfMrqnP67AoRBHc0hDdWrNxf84ReHGhxhu2j6pl5O+IR751OP1K1KvxMtHHTBdDYjOrQqXHdDBy9T/csPO2mc/QFZSKN4OZr3gNxGE5w8/j/egd87AKm9HLE8W/C+V04994DM9+Vr2ih5S7q11ApcHF8IM2WVwUxJPXltUcl1U/y8tjmxicddESxPPKR0LVxBOhEpdUxp8UQG3iU/JWE4Rjj/gMmXjKmo6Nutecstiiu0A0FR6zTvt0Fc6LI/70gnqQ==;+56mmUbmgN+i5b+UXeZylA=="
 ---
 

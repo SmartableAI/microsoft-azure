@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Make predictions with linear regression"
 
-secured: "m8J5ZPbamP5dAmWe8DiEN9iysWIeaSM1Th6WphV/gWdkpjwxthFQFtRRMAkUcrf/pSGh3Iblu62Y1P6CwxAijKn+zp8JzycDNTLzBF4Vr1Y+oKFg94YUQgJvyIo3C0yZKIn543q2/MKbV+f5T5Jle5KeXZIyQ5CSaChrjg4TeABYNyT/NqSkROcQzEtffrDuydHJxwFVv+MZzKaJPnWsHkaOvX8sw5idCc/38UhiWdZFfXpFtjcB5uisI2njKBMQPq4sXkk/hkBs/xgLCJLfIXrEVkl4EPTsF/BAL1O4iC5RJBSPWS3gEAwPiDeAh34tx+LVHdLMfoBCLCFXrS62p5POmXpxQn9zJ+p4+9dR4HEyjvhkiNI+CzdW8NqZYnaAvcD+yawF/6sW17phVWxxwQ==;O1TxJdewHzoYpv8K95hHqQ=="
+secured: "DceOV3YeE3rOINbAKqtU9R2QQ/fLbT2ROrftjrZ2npMlWp9WnjqPrxJB9PYq4/2Zzyr4gnr0n1Z3K16dzF2RHLu7aCDxgzM3zVJmW9Q63UZXDOjpACA/trhQqIeukk//9NXFFkACmhfLtDECdxyyX4a3aiecKv7o/aOHC6wYHqB+AN1UL+sVGY4fcL8pp4+WD+m/I5J/+70be5UgMg/EYDpBqhOK+htpVKmjPBjSUbwrNIPp78lS89eMk/rq5u6L8jpkMqa6CvQE2gCRrzT3NTCwUHHDi5C5PhPE+hfoxSISVrpkC3TU0cO+QumhTElc7K6utqtB3qQp7N4iuj0vMmDe0qVZrLrT++Z91MDpJ+CB+NmNIS2PP6jUSxNzJ6vmJiBwAOMBrjv5EjSVWGPJ8A==;yKWmmPMjJV0xU43/ngpMhg=="
 ---
 

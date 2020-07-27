@@ -8,7 +8,7 @@ length: 60 mins
 ratings:
   count: 1244
   average: 4.6286173
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Query data in Azure Synapse Analytics"
 
-secured: "DNFuXfnqaOK3hIq+TF5xPH447LUw8B8OSQvieKJxXKu8TX6w5o9HXITdQ9zsXqf0jL5qNHrvDVCB11EpOuk9wvPlif2BcftJcQYFivDtcKrGbF6J3r2yAYt9++UPnYJtQKCMg7KJevBnoGhmj8iRIt7rSYcVIxDC/nrcJJMdBtNlSqsyBZMx4wQYQwM7RWPUlnZ5yNWCm/7MkbH1NS+t5hdjSy3n0OgIipi5TH90UKA49jZGhm3F+MjEQqLkB/TXxbVx9veVm3apCyDQPXUrH9eBaLRhmSaU/zRxSYcyUqCAKgBU/V8zoy8TSodKQxG411CIIoCurQcPcle2xTqBL05VICBu0LZQRQ8NEqI2vOVzMv+LGZFbyln8cuFjWvjVvXj2Z2vyzqI02+6uBHgPlg==;6S0891q2VwSqXv35uXDZWg=="
+secured: "1E00wMdQLsDCt3CX/zrKCwzAZBBDzsSVePY4BNOBd3QKXKOuRdDDk+fLzk5WwSOIBgqLe8JukNAjgazn7Y/Gf2rOFB3QJs/sJ6UzIR7u8y2SRiq2XAqcLs5+FzCg5bHyPYT+S07oyR1y7gsePTq9wNdOvieHJZZi10L9zlEKL3mxF+krn0WzoT4ZvXjLJJ5V4NUCHSXVJ7V41xVYbb/iRWU/e9lsr+30xrwM0Rqk40WOD3aSMOD+DnDm7imUBi/lpYCN4Qdm0aeWFu+LYl2QzqNpSSljx3ueDpf2JcuuCKpXQ9IlPgoNRtzLEHh2Rj+e8yZJlQwPYmmu/SQitjToQjfiVsROl0f0/U1WSDrZnPSfYkbGQQdcTAGKRsyUNL5AAkGrrCE0ivRFkTiGq0k0Tg==;GKaBrWPgVZDqVa95y0gXEw=="
 ---
 

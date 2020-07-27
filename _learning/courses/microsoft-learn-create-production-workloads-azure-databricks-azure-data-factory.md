@@ -8,7 +8,7 @@ length: PT33M
 ratings:
   count: 53
   average: 4.5094337
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Create production workloads on Azure Databricks with Azure Data Factory"
 
-secured: "4Bolq31lF1mwePFG9kA3tWrmvtPdZIT544cKGSl3pkNgZGp4O0tUUJm5MFJJq0oxS7o8PC5xpbD1i01huN+gwXvuAW9bmbI+Ezr8H1e1akeJhhWGfHCIdT9h+eaQwVboau6/HfnwGEA4uUNLt7x3GfMrA9optN49ge+YzYBSDgNVHsW1BUtwvGL1UcxmwnV1yVWADg2vzj+EJBFCP5q2BxZR3OZwc0JOalqmTc76vOQeHJ+Ok4+l7iMmQzBHlUwD1dioMJIFHfAL8APgByHWpZ2R+qrRm0vTFH+3je0mDlrH7D3Z9TWD/M0bsq7saNkqfFcKEUyjOm2R9JwQq0/jIrNlHN/NT/RDVH1MxKpfX77cpDCIVMcuunfBnyiCt1utOAj69XCx6wf3xsQ+WtIztg==;tM/JHirwMhGUFhiOFJmrmw=="
+secured: "VXgBtVMw4Kc/ScsXiHepZ22GUyJhw3iZ4pU2FbIZRpRuCSTsjQn6O1y+1M2nFcZU8oUK+6yArcGvK7nNtmk2exOhWbmDW5oSNSi4SxHTK0ibcwUXOEC5e04ARLFnrkm6cgkicwzLiJwvz11RnvuFCPXOgKt4AD7lhe4HUi/xZvCkqbThvrG+s6+Shba5ZhQrr9tyc+I5UPWyJ4vE1QzeRhsdXC3RgSDoXFrEdAI3U20P+AcFzjQyo+sqCIJqiSnhVdG5QMx//sb4dqtRJV8krC7MhOHVg8pqPdxtki8Xhqy7myBtkFcdPC/uvsaKhmntWnuVILQxUKAhhArdJO4r0q/81cuBY3SocKgYPAtl+75NUIVeOWp3iYi1ir3+aUfZttW5EfLsBvBSGCSNEn3C+A==;mdR81zWtXj/X7rQyaEzHaw=="
 ---
 

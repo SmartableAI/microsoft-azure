@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Migrate your relational data stored in SQL Server to Azure SQL Database"
 
-secured: "e6N7CfEXZ1MG2xX0jzsP0XNtLNIUhUSOZ0pRKvpCKNOovc7SQc3urqsKEEJgxGw0zYzYzGfiXUf4TyRpmo/jMMIh0OLlfyDA7KNCABOrdcCHc6qQahJ5f2Yt9IfmOnthi3ms8vtzQzKCiQcL7/a677Eea9xGOSqaSbp2sq4317wOfLDkNcagmLYV8BzjOJKxdp68y0ZZb0xI/+TcE9kwvhG9mf5gdIg0O1nYoN9KEoAayytTDLap9DfZqKvRVN0/sL2o7Zl0trttUvvuuWKf/lic/MuiAnhmQfhbQyS3wqDslFUIIe6gWey5x1blemnspqBIWU50oZ4+WADNHH+Gdf41HVkILqEy6ZvP7luNW0XZSH15/ZV1KKKum+QSfMtv/C70ZJSIHDMjvWhEJ+R6vw==;l+gqCKnE6RXmWH+SkYEoNA=="
+secured: "fZRrZVy8RikM9ENB4qK6H28jGNdEI+M8dJpzN/aBvZVYYvNqX+YLMfCA9gXXiVh4O8hQqR6oc+S7htkxRsl8hGR0uFzGToFOLNTId/U+Ycflnn4/0lS1bD07EyDlmGok4Iyam0eAeEO6ClfN+mAJlV7mAzQb7CFgZzMqxWxOP/bOTqEsgckuyaw5ejPrFTj7VRTQYDnJlZMEahGawRBej5m3FgBID6/7GRJ4mE6m15Tn4Hls07bhHtAiDIoo28GxB4izV/0i1ZELqk1S+5F/QbakI2kHIfcbpIANI93lJMi6bHTvVlDHTTuBySuyu5uY3DDJgpSyDCzHpvvkvUgGUpMf6BKiFma6OXkJn7QBOTz81r8/Oon6UwvledWuYapnys2jHZZ299lr8ZGyw5l2Ig==;H5HWrLVP45OS8QpD5/TSbQ=="
 ---
 

@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 40 mins
 ratings:
-  count: 595
-  average: 4.784874
+  count: 596
+  average: 4.785235
 heat: 50
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Define an AI strategy to create business value in healthcare"
 
-secured: "Vq4bnzVxLI9loEIV2FX+LZOxFNLAKcsVsfnTd/qYLvosXYwlgmfyj9aXO8wW3UkGNTMXSFk3R8xpQXB3kzd3TZbFqEj5/j0Ypz6NSELIrod1FfIUZhSO6bfJREYAxDDoowkWWzgpWYlxZHJs+6nGp+2QCBuNUyGo5n1P/hz7NXxbzK736U7nkWYBhgnSdpR43KJMNlRLFA/MCRW8HKmsJzN9E4ln0cNkYDKFN6NL1ygw3euh9kBoYGilvsbc/mbl8+fNwi65I0/O04H6cUBxeQDvOGcd94P3IIziJ3RZZpuiMjtRawmhsQFM1Ur1yu6UpWspWyaG8NDWT6zCngTcTSNcCkJtOo399prFW/rBB3cwZA6mwO2MBAfOUhTed4VVsMtmQohxWEqu+t6+BBurOA==;ALcD8CXqAoBWCFMUzKaHKw=="
+secured: "yPjJNuOzEv2YzL6p/nYFU2eTOZ8en/67PErYCF2ndzDYeLqL8PGyWXiz2/4nG0jEqp6ndOv6j/lokmeXsmkFbVgV169KB1jP8kK9obqKPw805Twrdn4YPWsJbk0qh5IeK1D3I3uL/trZyE1KgN+Bsn8Evfu5WEmGV3cs5McgIQJoX5D8EAvTLe2AW1Sac/pQXmKM8bF/CtxbaANJLSsGO/PjkEVIbLeOJ/6Q6ewEi238unYp2YEeeTVyxZ4hpfjXGxwgHZw3QYV4BDKprpIGz5zbsKHaGR7xk8HWEM6SbuIjN+Edp1uNoaYJDlGzKTyyaNA72P3TBXTMHWIglL/ZMCGONJ5MuMaU87pVLgYQp/fmu1eFnL4eiUbUPIxB+bcuaIzAaqNgoge3LNmYLl85Yw==;/OFOijXjzI/8uSA5yFq0+w=="
 ---
 

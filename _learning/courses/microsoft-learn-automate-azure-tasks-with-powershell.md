@@ -8,7 +8,7 @@ length: 71 mins
 ratings:
   count: 4022
   average: 4.713824
-heat: 62
+heat: 61
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Automate Azure tasks using scripts with PowerShell"
 
-secured: "tvBuc99uvqPObEF7zhytp8vTU/0HzXl2UEWWoKn8bsP/WfZRcaLEKkc5VSABAFqH6IMbMYN41mlHucDlpqcPXr7NiITUvpvIFPs4YQKTa9+Of9QVacBYjCykJrAfBq8VZVuNDUusHvyN/HEkWfU54LuY8ZJ4+T02s1Wyr5nGeDzL2vRB/bOWauPGdyBMHmb75kJIj5Inbnd8CMWyuobVOy76L87JT9yUZW7otDpNPvPdNfKGvEOjR5azpVt+GS0OdQFlP9eg7SOhTpRG6kPT/6e65HPu0/bH0+EhD2/3bDVDlb9HmqvGaVwhnbubaZYFVDBGWpQGndgHzSL2Ux7VDMhFAU7QN7PC1H9XgjpK5Mv9uhEo8h5h3U2aJ3W+9/4NjH9IBpKmYG1rszAXV8iFZA==;uphCPXQPkYl+TD4AtSJHMA=="
+secured: "5sjZzO5rfupfbp0yow+Ci/AbTK8DSYkd9/dKknNhZ9gO7taYfDWdYiy0zQ5Srl83ecwNvPkXgu1Vgq8HP2hp9qz41FdKw3WN9+DYilVQKKxI/LwPnifXDNyqBHC0J1DwezcYbfPB61RJswY6W5KfrBeCjpSZY/OnJ75eilr9i9eSTtVFfrBFVwzPMev8RvlSLbanCqB/k7o1VAEuvzHCzH5ZILkS1AitTHlA61tmj+SDqpOxnpqyLzTVSLuIEF1Sfzoux8WO13lWOFnM8RiC36N9Fs3VZeeJGC+nu+Zt0u5OFe28NXaGvo7HnxOv9C63cYNnYtW8833UvubIw/AKDeEHIf5vuIrBgFNqHuf5xMHUQEP6yt9Fj1kIVlaopXveWNucz62D+EItDSxldOlkZw==;RiHiBZAOwr1LLdU70/n0Bg=="
 ---
 

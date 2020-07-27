@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 45 mins
 ratings:
-  count: 2531
-  average: 4.580008
-heat: 57
+  count: 2532
+  average: 4.580174
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Choose a messaging model in Azure to loosely connect your services"
 
-secured: "WqdTCgWr/f4pATKq+m/nGYlTerrrq8pLC5cHuA13mTlENiAjtuy+Lp/uqJ0ERLpHUpeZ66Tb1Tx/ahZvUR6/UGPkZc93StWLMiPRi5f/c7oSwJkHGSH8xWMDJpq8rp0R+83aFaob6iEqL5swAOMrTfJnoNBlW6Z7JSsL3zYBKvaif0xD9pBti6BlNtN45IMMHEtfS9FLLU+nucXrAXGnWdjqyw1y7ImGvJGNoKfRSBXvb6SUdvzQuv0zp1IIsDCsGEzUtu3gj/rj3y6T7LbqcGEopMNGhomvCJBeCVdzhw4UPo/IQMPzfMGIQU+vDk/Oe9LQ4CiSLVE65YjYhJOxTqX4wdfU/m5v5JVSH36zGsG2QRgij0erJIv1OhmkKvjvqrtx8WhAkuxUD70agV8v2A==;9BGsDD0GVudEk1a1IwK9UA=="
+secured: "E0Cez7MgaoYpuANAHvfmMHaqHvy/jvCnDDdw5JD1quX7pHFG2IZ1AHNRshOi1/pzBZ1aimcvtbYglp/6J0kAjpJtzWFOzLMOl80UjQP/fFt8VkrbmkWEXCIMS4N4mc07ewya/HwbH52ZdL1T511OA22nCdawQ1RJEvK/uoPClFd6hvGa7q0dAU7pS/VcfOkt0uLOuyNDfSpYv8Qh7R85QSorqgYzRb8QT/9CTzAUIfgu5fGJKIoi+opCjODEmM3OxWXaOCR9XLvtKwMvKqHt7xe43qK9ch6OKzYpjudr0Br/ONrAFl60sSZzPvBJzQ1ZBUdUBo2zcvXgAqpJFI6jR+AD17Z4zdgTYR6wiz2lnSc5SQ8s29obx5IBWuYSjH6Urk/mQ84hJzBwiQjPFzZ+ZQ==;URMgP6nJcxvzJ0AfQ8i+8Q=="
 ---
 

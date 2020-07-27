@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 29 mins
 ratings:
-  count: 796
-  average: 4.6306534
-heat: 55
+  count: 797
+  average: 4.629862
+heat: 61
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Build a bot with QnA Maker and Azure Bot Service"
 
-secured: "2BmKixt9gXrURafuUDvL7LXTeLQu4aWj+OGQH7zqZRoIG6vM9DiifCSLydsa2J7St86McQMKWz8f59fyR5k6P10wgGw+70xZauParr4F0ZrWCo7EReNCJm/IgAI8tBQeVb/4nIrsfVxCXkhWfSp6hnr75zyLVlGGOxNEGvuwjSzySZUv7kH2U8I7HHK+dX2aJhmAU9KxOH4YG7Wmeui23U6CTklOChpQ6C+xFvLLSBu/Rgda1rV8p4JE6X6FNKE6qGik1LL9/YOIGBOCn7GLWmwDEOzIoN239UprbZj0fKfDDiwzByyZzKTU0Ousq5clG8ygsSbq7stPPLaDclujUwP05XzBc0Ihy9BmWC5X/2BfQaShwnI3scWoOXQfxOzGPC0qD59H8/OGkrTL/Yl75A==;U6XwMl0WaRNqF6+KWt4Bvg=="
+secured: "YPU+m9FrZR5aNx3qKbbwc5QyBXSy/ebz9fh+TA/cY7p7ocdWtYowiCVIUet/VuUZ8joIp/cVBNUlDMBjhQBW4u/MYyTGZVPhh00elkZClg3zE1L1Xy+2FXhWHHn2/0NtVT61TguFDOsGBGeiHgEp2MWate6XiMkvcNPaurmYczr9IV5DO5Lb4uJDaOX4Di7CGZpScJ9G58LvDU7gi7v6F4bH2X3ItQ4fZBHRtDFAv+cCz1bRBTEEr5SglOi6+oDMvyccoDLD0UqgXIwtLBxhwJDlPkbQ5xrMU2PtGMN1zqzoEQpEfPNGYjLoWXFvpORukoYwQ7tsDQl7eR3UCZle8wIHAR0BiTu29RB5+rUn54m2tA9IAQ1ZzD4BOvFZxcI4rVuvB9NcT6VkvtQA6xL9HA==;SajXEdZqWsTEZ4koRvHzog=="
 ---
 

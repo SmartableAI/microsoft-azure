@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 49 mins
 ratings:
-  count: 820
-  average: 4.739024
+  count: 821
+  average: 4.739342
 heat: 52
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Understand the importance of building an AI-ready culture"
 
-secured: "/RMwu3cW6IffvCW383sbd8v6MBu6poOpMYIuiLjNQncH6hBMzE+FykdnS/Ihi7sa2oklPbln+M3TzpdZbNuxOxZo6uMixYj8Ph9GUjwElcZkqsl3oeJCLCCEFcSS89CGaFYCAtoOvcPMuc0JcAPkUKUlhPI8wECxbNmVap7s613LEHxhSsb/dJEjmvL4fESlP+XRciNj8SlKEATPaqhHlAu9tDcHHzcqqz0VBe2jVjpnZON7y9I1I7GUwtH7+52UkLQJATfp7NiZ1ozAtK7mfGXgG1O5xrYEFMx0gAjoaG1BwT3SXXwaW/MvEsK7pW9Hc4FOukJW0Pxy1Y0rBlrf2BWsBqPpfHbCacPxkfb7vaZA80eEG1YAqy9yErMY+ST76TFZSMfxU9eDxSFlKYyTjg==;om7AMAuPJK9jB+3uBj8XCQ=="
+secured: "8AFg2bPOfGe6s63IsfTYkspPKIzOvGnlVLgZZX859MNN0KIcyqwrPKPaXoxGXKywfrHAv7aZqcucpPdzOWbakseoKlleBdse6qOY3L9BzcqmBdc/+DB5c2OwY3qQlH0hsxPScpwdgOeYM0WbTv+N+ni5dCqRGY7CDNAfVN6cAX/L/NaCC3Mzt81O/nyDzZsjdcb3QebliPeN2RPOdGmdfG8Nn2KCosGGX0lN2H7h0XNwYvOiPCtWdG0M7y6KK9oUsx71tSTnSECWpluKSLO3WKLxfUlE6c7RuwYfcD8vyThOkXhhe8CBHXhSm4x++kOfooI2jliOvPYOxXvCHvezgrZDdK8h/fQ7fhL/TiR0geKsyRMv7SnQ7WGG9m5xBSAZOO27YPgFDYtsdI96b7bwFg==;0vP+EH3kt0J8AfToAue39Q=="
 ---
 

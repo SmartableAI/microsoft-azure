@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduction to open source database migration to Azure Cosmos DB"
 
-secured: "O2m5sm5qxrPW7oG3mPbMq2sKj9o0/MI8YXyQyYmRwFAOWoAdvLxoECYjPe0z1j16oouXQVzNzvQd7JIaX1v3IGc4FF9scj5hgYOy9QUlIq/a6blClpe+0Uesfl55aBkUSrOmg+nIV/ftuyMaRgOsHkU6vFxrGCNEqc+AP6dW8b9Xl2UAobOG8EASr3cFTVkrV4ATj15fCvgLjrlxUMFkm1+C+3HUzrpvfY3djnDaHqbe51y1V9eU7+7nEie2beUoB2LRc9+fRwFym/62s1eqpcOX+IF87olyWtGYlr1saEvju+e1sxvDkp+Zym6W+Of11+KeFAgPJMmBg4IuSOiAsw7C3MBJd9X1IRpdfYBDKay4viYY8P+Bf0nDIuFyaWSTy0C6bkOOeaZX1QM1y6T15w==;uzlmqrPdN1v4bLeqFn7+Vg=="
+secured: "+TXerwPAaTLTvjT78Pn86831gEDzV+yKUGvA/z705KulXKAtoKoguLoIl5e0/BMb2HcNyqzKe1xpsEGGctK0mj8NaNZ00eCdodAgQ6VeWVTY/eIWpj+YoGztm0fjn+KJF8hBgJgCrYOUj6n3TFuw0faW9o01lxD0HV//CSMrMP4qKy5DlUSrxw/ebnHe/J+FWw756X6Dj2LL5hXHFYyQ7/+6eOo53z2yFXqUW4pDt3Efyl22TfOOErxts/skfJbiREoEn95yXMBvYx1uVp54UvMI4BS9Vji08Iu7bAjPC/3rgMEETjknzt9AUGP95TaYNl0Gm0CHh8Boh364ULBTz1sl0tGqK3zwAng/Wlri8b5FITnnkv0TT+EAhp21ELDTNlVFASbX98mL0nL4g2xOHQ==;hNehogJ3oMij0Sm7djWvZQ=="
 ---
 

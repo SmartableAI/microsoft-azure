@@ -8,7 +8,7 @@ length: 50 mins
 ratings:
   count: 4176
   average: 4.646791
-heat: 59
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Provision an Azure SQL database to store application data"
 
-secured: "AvjbKROa8zOe3cRbyIBupFIUI/V8C09s/QzSes9n53CN+MHBr0C02xC1uEzl52V/BUa3S5SE8beWLAiZpOFeQteWOthAfT1ruaGGcNI7U1eZBIagnOPAisN1o1Faer4LeyaKq1mltH4yPh8+7vI3lplPckBYZ5gEaPjy76bmOt6hn/vJhuBATSbYoijtVGGTaZaOhT4RiWt8bNX3DH3UQHaDJ+nb7FeFAcEnTkbR+xrZN2pSNWXo0ctam/y5NJw8R0Wqm4zS0VWEG1C1v67hV7UkA8AOUjtiIDsnSADAxF8ySGZ4sVIBSMxatoRU4hb6nLd4ucv4xPj/Uu85z2UTUveVvEQ7NdftXdUR6hVOfs+IwMStdwq9KamDI0d10jiTrwbdBy13bVqKuUHbi8s04Q==;3VNBXI2+RTRaM1dfwfVxVQ=="
+secured: "bLENE7lZ4NqNzHpoYbIBt2m0LJGmxm6QXsH8T4HigRNHD7ccaULjOr1MU+PKJys+CitlSbj/+lqcXAlonyqFo0KAP5ehyLJBdf2iZKRq9qZQ78QXcoNg+7wz9snKFOs1xh1PN6e8RMOqIbBcW+msgOyG2nQ1hQ9qpmox9ZgHaXae7Cb8PQfP+0janVFLRKvXr5ZweojnXMoFScwm001v8eZqP9TzuTxyzPjkgzutNnGFt4QYUbTCKoIWVQRQvsR/WlfH7fly96KAPvJ9VxbTMdUs2KcYnS6hV3WOKoU1HHJj4oFvxPfqPW8hmyJA2cT3/IECmelosF4sEp/pZwLBwndi2ZhzMdXvwRsGshVEPyvF6mjUVp948B9NcHsQPW1saWc3JlrjV6LO4YrgUQz10A==;W1wWmmQzXWgTWGjCuKELtQ=="
 ---
 

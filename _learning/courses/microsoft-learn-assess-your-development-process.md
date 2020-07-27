@@ -8,7 +8,7 @@ length: PT19M
 ratings:
   count: 6295
   average: 4.704845
-heat: 64
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Assess your existing software development process"
 
-secured: "owSUyBeJ6FV5qmtQ1g5qMNFquar1szkzSYy3zz9ScFYy5cINqSMpdSbaWxDM6C9fH5X8LghL0/OAOm2KlynW/AFwTbZ8RYl6PboUCxDHIFyDwQG+qpOQcSnXLihVzDpLisIUTkPtcYZeGN0UCWgI85tOiNKu/osZzSaeAw4uWT+552FZDGo6xQXfRnAnQGVsNFRX/Vs+ZxpU+gHVXO7YdeOJ6M6tDTg3QwiBua2vMqpl+mggpmlFllISfN17FiEeAvrEFt8Zw4LwI0eVmGKk+gc04zP88ZAMFUtcaC9sKpcmpISj2t0Pdl+H7gJablrF6dScgBG9r2o9wUp15bfK/wX2Rj0Cr1QnZR4lCN9WbnF/dZh5Ma4+DXlPSnetFyMU3XG+9cbSZNmb3fE3KyuJIg==;1NKb+C+vTBAF5tAObPaC3g=="
+secured: "RiqjEcsRrWeqtwM78btCkVT2UESwNj/jLcONl3l4BD8KriqF9ebwVlLDkf132xwGwMTpYLmN8TESfcdx/Ye/fKMY6HjEMRFEFWPz9jXl2yDmRGUFpJMyTRk5rQrBvMEAqhVXPamsz6KqvNcLg0iTYoRBFTRQI4aVTHem3AP7luEhJUyX5kFqXKw0QqQ6/rxptp5riRY2EgQwAyjPmj6TEnsM+nCJZa31RUXIdRsf/0OC74AyCXc/HV/fdx78+b6eHc3TD1et/fWpjOSrosr6HwYMr0WnLFu1/h/5H7cCjyxIGABBFxPezUOasw83vfYdR9KbrlsWJ/xzkSEenpxPdj94CpyvzybFvF7QHg2l4nOOZKb0RNq8oc5Hb9EN1F0nFps126xamsRoFmFwV4fbVg==;PcJCR3KETVPXocdoHv96kw=="
 ---
 
