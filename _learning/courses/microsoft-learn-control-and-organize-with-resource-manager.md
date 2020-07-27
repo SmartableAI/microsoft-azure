@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 46 mins
 ratings:
-  count: 34962
-  average: 4.711773
-heat: 93
+  count: 34971
+  average: 4.711761
+heat: 104
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Control and organize Azure resources with Azure Resource Manager"
 
-secured: "00Qzo2L9vrMLXOnDPjwAg3T7pnDcjRqV68AaWT8KVtN6+v0RiT4GimnZ2C7p0A7O2nFA5acYlikHtmuxMzQ5YArtzH0/w5vqzjh8w7Nb/n4fARttP+QJ5bqjT/NPx+WWCnxxb0eDPpjdRvVP9HKr9V6pqUybMT0piB7AzbK3xWG9RM0yi2IOpsSJhb1O+kw9GHD0kmjdFs6C0G4R52rKkPY35vjVa8mvyg4kefw3KxtZ8814nGwxzNZcwKXJ32Yh4/SeMtAbWKBgfjo7Gg03nlIZlCS652QxFr9J9tx87/ObLdyVu9W9g8Q04HA6k7+3VIbk4MbRIp6WLgmb7UbMzE17tYILqOyakQOIFRAanI7qJDzknEmBpe125NkK9D4GnDDEyuEvczoqe5j+3LgUDQ==;pUZO0VSt/YeSsqHzcxL/dg=="
+secured: "EGSzXmgIs9rZsWmKGP32IWspWfK+65dAxYwlwhwvJUIDIiofTTFfEp7vWw9Mg0YOMrQQYLP0NaDW9mQDXpZJBVRna84VhfoDio8oSTMQs6DQYPe97JCIUkKJtdTB2/aiO1WD3YEMo9gHp9Gc8r3C2goD2k0eQyi2cRnkZ9IzMy6HoRXnb8zyoOif2sCrPnnOmuYPdZspFIba1HUaZ01iatd/CokAiyfNewkwR5MCTulFbm3ji8BIPXVpDpiunT0yvUkEW+uN1VvVNxGeNXaHGu72tVgdK5Fg0HMpgCg1+RGAqNCHVI8UHtLQD0umj/PXhOYYPMKf+ur+3zVqcuD0BHPXL4yZ3mXkNvSMeHf3dNTy7XZp873uAzcm4GsI5SgDI6MhMmxn7CV+VTzPukI6wQ==;kslMg+VmM1L0n/hFtT0mEg=="
 ---
 

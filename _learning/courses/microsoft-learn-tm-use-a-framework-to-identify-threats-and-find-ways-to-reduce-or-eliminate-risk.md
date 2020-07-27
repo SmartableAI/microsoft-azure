@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 57 mins
 ratings:
-  count: 125
-  average: 4.704
+  count: 126
+  average: 4.7063494
 heat: 50
 
 provider:
@@ -38,6 +38,6 @@ images:
     isCached: true
     title: "Use a Framework to Identify Threats and Find Ways to Reduce or Eliminate Risk"
 
-secured: "V1TLhxMyaoHildSKSPX/TedMDO0iGh56hLAliMV8n8zJWzKBp+vVlk4tr+Y95W2jN/Nl6w3569BNcgl66Sx4gAPF8NaXeB1UAM5HWgQP5OJ68cKS1Vv6xC8ffQYS9SJWJjggXd3om0hQyrF7k3/KMIk18yFqqVnfBjGxwruO0tkmAEHQjaTi0FcHGd9rKDko5xF0vXOS+HHASVCXuESRdgEvdD1BFB/KL7ik+kGU5opoMwAfiIMfLOPGwvNJXOPT0XqmdHpd4In0Op1ABqyLLen8W4C5vNSNl/Oj6pWWYfnbyANzinreLI8W+6VLopKezgM9cuFA0k9zBLdcupoRsmky49KYUsP4Qicqp2i8axUbcWGRxt3AjUMYKnfpAHWMC8CWbT+G7bzUEx1+rXyWSQ==;knuBPiOV/C6QZmKbMLin+A=="
+secured: "dcoa7KRwhAQrY9VawulEtzZzTriKtJdtgK18Y0YCMBi+ZkDFkgE+g7z4SmPcuGJ8ZqueNZ4aZDTHhXDOnD1fUw27c6WD68DI/8Fdx1Cb1kmYeOUqMB2jCSmbDGilFtbfHJLAOl4IxETtGcPqai7BRcE1g1gUdLZIFiK5AiF7yvaYN7J5v1k+39HoPLS57DvGlc/ebPDK8cTqiJbztgkHTse/OLE5kXVXeZNytTPvzDkwFmUOEjktsW/jPIF2Gz/BDhgsrWFMmRFutARed3p4rof5grbS+2Qzg7ySaSp+jeGnX12aBWoH7/k+LV2T+xJshEsw1EJ1Mv87UaROtZVn9eqam/ySF0M9w2kg7rIl/84DQuycTsY2CyWbEZir+3Wx1Eh+NVJeO5KXhd7iBjVydg==;pduaUNJk5ha/n0yywwMFdA=="
 ---
 

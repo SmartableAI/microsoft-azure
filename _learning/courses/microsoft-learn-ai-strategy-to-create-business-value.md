@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Define an AI strategy to create business value"
 
-secured: "WtIog/+gQ7b9hNyYKq3yi5sXFFcEsfwAL7vr3gZ4mzsJC3z7iF9pgQnR1FHcL/8FALgO9Ht8Vv+IckZcVvf+1FsrLAbHHcfI9UhoIUyfxXsN+u4b/vz6xUfM0wkAOLlDpbsnby8SB1A+ZCjAsoTEErGTK/Blx/fGfrt7dtUXPHe9Ep9bf9w7lkR+Dh+Z1OaOKlBg/K1bbXewOAVhAhwCTYPWA4kW4jVEUPiAbZ3EHB3p31cOiAHwZo6v5HmkWZHQLYMEqjkF/ZqXz69UnOfN0fw5w9sxylVpIcHqd7ULCRTf0yESSAveX08eXJQZbdcVsd6yS3voPTEjITIbvX9GAVhLR4M3zi1NQeUFwHGrXDnmyYNRsLMua9zWMpijrjJl8oAF/0quy+buUjrNhkxVGw==;fpG79dh9PAZMa0DiRcwgug=="
+secured: "6nzmAjkFVzu0f60tyLULNv4HmtqLJtDOdXzOSPdtmqsyVIe6FMrSO9WoUBCcIGieF/vB/9csmgCf/TZ+Z2dxm8mUsid2ZXhaj4z+bb6gRCLHk0BI+eHaI/clPuYdkwUswJI333U9YOljCGbXBoLe4lJv61NX3KHToHk2Ifl9a2tDAH2iD8eTW7TXB5sk3p0g60sKt1hMnSRj5v+/2QHtjudwq5iIXum8YE51mMVUizrdY0U5Zsr4l6EA/buouhq4Py4xCPE0Di0REtoFh0xitb88+Fblt1/yLnQwQ8zeD0iWUbyldTms4sb0DBeC6gWtRPvyxRpMdoz8jtUwVWgqoVF0VrZd/7lvz4PQDuFskHiQnwtqFdqic/8WktqjaPdh/IN5edc0c1DpybSaZcvvQg==;pcoyiOJyr6iRKI0aHNrPyg=="
 ---
 

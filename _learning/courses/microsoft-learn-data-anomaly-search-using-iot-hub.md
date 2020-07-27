@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Identify anomalies by routing data via IoT Hub to a built-in ML model in Azure Stream Analytics"
 
-secured: "p1ow4us4/qtM8DcbaB9CayhDQnxw3VywKj3oJ0svzhs0BrpQp15owzy1o2icVYD/hKbha2pocwrhUYDFCPonngEKaZzz/gq0l7ihwKLnJrwudIh2IRlsYn1LgHSioPjtKdOOOwvGuES0pj2kBTg3tHyvLJ24dzHxve3apU9RihITHW+Bcm5CjvBRSdtNsug+FaXk6yy7DMwmS8KaXu6xTGmlDSFqM7FeqWhR18Sqdv+5jMxmF+sYaF/3w2Wkh+iT12M1V5ADUpE5xbpgJpUKLHdhwk/++cZy0+VUifNxIim67olVF540nfVKMXwHIO2k7vP3Hi72odot+igQLEE5vaP8QEY4MV5x9vLRReqVDRYiGUnVeAokZnKbjNPT+ZpfVkihCFuuy2L6Inna08fgzg==;fpwMVRwClonRBNNS29VwsQ=="
+secured: "G7Odnhd/OteJMufnpc0WKnr2Gf+vc3tNWy304ZndOQ+oFKHIyQQOEvedB7r82ngB8wVOuecMc0XMtjQkrudP1lPRho91Of9iC/AWdnSNw2HR3dQwq9gx71wsYc14RgiPEDFKV1n+5GrAWqccVlBBaHimvaz8nPHj7oi807wnRdliZlWHrRUUIMhUlWyiSLSf/p9llEqJ5yg/qs/bvbd61oKmfbaCWmuN0edX6x+vhxFrUGKs+YR7kmngXel6/1UlYnFbV/Z/zhWjruRxhRsjg83yIRug4SnwgdI4JyDoObVkG4ResfKLwocx3wRj1RzsDB/fxYOdAbM4tBZlnLYAyBBQKyf8k6CeYIfKU4P/yTz56Nht/RnIhUH7EI9PNp2kuXjDdet/7I4flzp/SdYdQw==;HtFLkwicmaKllZ3PkcucNg=="
 ---
 
