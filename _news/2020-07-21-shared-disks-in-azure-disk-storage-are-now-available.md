@@ -75,6 +75,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 75
+  - title: "Azure Blob storage—Network File System 3.0 protocol support is now in preview"
+    excerpt: "NFS 3.0 protocol support for Azure Blob storage is now in preview. Azure Blob storage is the only storage platform that supports NFS 3.0 protocol over object storage natively (no gateway or data copying required), with crucial object storage economics."
+    publishedDateTime: 2020-07-27T20:30:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/nfs-30-support-for-azure-blob-storage-is-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 74
 
 secured: "X72/2lKjZhfhcmvEfwOwPCkqtYKY5JXvC4yQ3FAKkbtaR5Pv4t+dIl/4FiIuXLIQQTRR7tcxCWJkVcud+k0ZLrfKczbaZdx1c+aq1ezen9evrIUCtCuTHsDtCxLTYSgDCAe4415+qz2WyVPIH/leOEmnxg5J+Tv4o0FsI3SdFkW0p9GHc14HuPvGJjz1HoboA3c/8g6biUODzCvKL5GIva6s7uiXrjIPj/+QNfhwB+kHKyb/zIypywO5OUStWzOruhivZkffXY0bQp620FMk8I0G90CM7U7Ai8OyMJaZDpwL+kelBW2+OytVDFBbXOwHAslMkjdzuJ8/MS8CuDbGHQ==;dwpvW1Vo7KDdL3jqQ8+c9A=="
 ---
