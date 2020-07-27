@@ -2,6 +2,46 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-05-13-optional-uptime-sla-now-available-for-azure-kubernetes-services-aks.md",
+      "title": "Optional Uptime SLA now available for Azure Kubernetes Services (AKS)",
+      "excerpt": "",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/optional-uptime-sla-now-available-for-azure-kubernetes-services-aks/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 197,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-13T09:00:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2020-05-13-how-to-access-the-microsoft-whiteboard-app-and-share-your-projects.md",
       "title": "How to access the Microsoft Whiteboard app and share your projects",
       "excerpt": "The Microsoft Windows 10 Whiteboard app is fully integrated and can now be accessed by all users. Learn how to use it and share your whiteboard projects with others.",
@@ -1147,55 +1187,6 @@
       "topics": [
         "Azure",
         "Security"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-microsoft-and-intel-project-converts-malware-into-images-before-analyzing-it.md",
-      "title": "Microsoft and Intel project converts malware into images before analyzing it",
-      "excerpt": "Microsoft and Intel have recently collaborated on a new research project that explored a new approach to detecting and classifying malware. Called STAMINA (STAtic Malware-as-Image Network Analysis), the project relies on a new technique that converts malware samples into grayscale images and then scans the image for textural and structural patterns specific to malware samples.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-and-intel-project-converts-malware-into-images-before-analyzing-it/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2019/04/20/932ea1cb-d0e5-4b88-801e-c33b6433469f/resize/1200x900/350c937a9c20ed5d4994987051363f4e/03-optional-features.jpg",
-          "width": 991,
-          "height": 900,
-          "title": "Microsoft and Intel project converts malware into images before analyzing it",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-and-intel-project-converts-malware-into-images-before-analyzing-it/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-intel-project-converts-malware-into-images-before-analyzing-it/",
-      "publishedDateTime": "2020-05-10T18:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
       ]
     }
   ],

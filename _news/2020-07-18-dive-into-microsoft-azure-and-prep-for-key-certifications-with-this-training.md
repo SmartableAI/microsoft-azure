@@ -69,20 +69,6 @@ related:
         width: 304
         height: 430
         isCached: true
-  - title: "Train to Become a Certified Cloud Professional in AWS, Azure, Google Cloud, and CompTIA"
-    excerpt: "Much like the last course, this one also prepares you for a valuable professional examination. The AZ-900: Microsoft Azure Fundamentals exam is designed for candidates looking to demonstrate foundational-level knowledge of cloud services and how those ..."
-    publishedDateTime: 2020-07-22T13:44:00Z
-    webUrl: "https://www.ign.com/articles/train-to-become-a-certified-cloud-professional-in-aws-azure-google-cloud-and-comptia"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 29
-    images:
-      - url: "https://assets1.ignimgs.com/2020/07/22/sale-31344-article-image-1595422739070.jpg?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trend Micro Announces Cloud Solution to Strengthen Misconfiguration Protection for Microsoft Azure"
     excerpt: "PRNewswire/ -- Trend Micro Incorporated ( TYO: 4704; TSE: 4704), a global leader in cloud security, today announced its Trend Micro Cloud One™ – Conformity offering is now available to Azure customers,"
     publishedDateTime: 2020-07-22T12:00:00Z
