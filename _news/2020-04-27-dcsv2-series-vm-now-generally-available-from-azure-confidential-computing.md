@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-27T12:00:29Z
 webUrl: "https://azure.microsoft.com/blog/dcsv2series-vm-now-generally-available-from-azure-confidential-computing/"
 type: article
 quality: 78
-heat: 198
+heat: 178
 published: true
 
 provider:
@@ -22,15 +22,6 @@ topics:
   - Compute
 
 related:
-  - title: "Azure Archive expanded capabilities now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-04-23T16:00:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-archive-expanded-capabilities-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
   - title: "Azure Security Center—Dynamic compliance packages now generally available"
     excerpt: ""
     publishedDateTime: 2020-04-28T23:00:42Z

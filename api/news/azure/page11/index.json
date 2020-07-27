@@ -2,6 +2,109 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-04-30-azure-cost-management-billing-updates-april-2020.md",
+      "title": "Azure Cost Management + Billing updates – April 2020",
+      "excerpt": "Whether you're a new student, thriving startup, or the largest enterprise, you have financial constraints and you need to know what you're spending, where, and how to plan for the future. Nobody wants a surprise when it comes to the bill, and this is where Azure Cost Management + Billing comes in.\r\n\r\nWe're",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-april-2020/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/099b92eb-591a-4ea0-b7b4-78f34f6e8f57.png",
+          "width": 1506,
+          "height": 872,
+          "title": "Azure Cost Management + Billing updates – April 2020",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-30T04:00:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Databases",
+        "Compute",
+        "DevOps",
+        "Management tools"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-azure-container-registry-mitigating-data-exfiltration-with-dedicated-data-endpoints.md",
+      "title": "Azure Container Registry: Mitigating data exfiltration with dedicated data endpoints",
+      "excerpt": "Azure Container Registry announces dedicated data endpoints, enabling tightly scoped client firewall rules to specific registries, minimizing data exfiltration concerns.\r\n\r\nPulling content from a registry involves two endpoints:\r\n\r\n\r\n\tRegistry endpoint, often referred to as the login URL, used for authentication",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/azure-container-registry-mitigating-data-exfiltration-with-dedicated-data-endpoints/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/65527b4a-84d5-4864-92e5-78da3ecba512.png",
+          "width": 640,
+          "height": 214,
+          "title": "Azure Container Registry: Mitigating data exfiltration with dedicated data endpoints",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-30T03:00:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Developer tools"
+      ]
+    },
+    {
       "path": "_news/2020-04-30-cross-region-restore-crr-for-azure-virtual-machines-using-azure-backup.md",
       "title": "Cross Region Restore (CRR) for Azure Virtual Machines using Azure Backup",
       "excerpt": "Today we're indroducing the preview of Cross Region Restore (CRR) for Microsoft Azure Virtual Machines (VMs) support using Microsoft Azure Backup.\r\n\r\nAzure Backup uses Recovery Services vault to hold customers' backup data which offers both local and geographic redundancy. To ensure high availability",
@@ -1144,7 +1247,7 @@
       "webUrl": "https://azure.microsoft.com/blog/dcsv2series-vm-now-generally-available-from-azure-confidential-computing/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 198,
+      "heat": 178,
       "tags": null,
       "images": null,
       "type": "article",
@@ -1306,95 +1409,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-04-25-is-nvidias-cloud-gaming-platform-already-dying.md",
-      "title": "Is NVIDIA’s Cloud Gaming Platform Already Dying?",
-      "excerpt": "Activision Blizzard (NASDAQ:ATVI), Take-Two's 2K Games, Bethesda, Microsoft (NASDAQ:MSFT), AT&T's Warner Bros. Interactive, Codemasters, and Klei Entertainment all pulled their games from the platform, and others could follow suit in the near future. Does this exodus indicate that GeForce Now will fizzle out before the cloud gaming market gains ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/04/25/is-nvidias-cloud-gaming-platform-already-dying.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F569248%2Fgeforce-now-key-visual-1280x680.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 637,
-          "title": "Is NVIDIA’s Cloud Gaming Platform Already Dying?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/25/is-nvidias-cloud-gaming-platform-already-dying.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/25/is-nvidias-cloud-gaming-platform-already-dying.aspx",
-      "publishedDateTime": "2020-04-25T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-query-acceleration-for-azure-data-lake-storage-now-in-preview.md",
-      "title": "Query Acceleration for Azure Data Lake Storage now in preview",
-      "excerpt": "",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/query-acceleration-for-azure-data-lake-storage-now-in-preview/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 157,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-24T15:00:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

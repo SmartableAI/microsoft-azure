@@ -30,15 +30,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 78
-  - title: "Azure Archive expanded capabilities now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-04-23T16:00:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-archive-expanded-capabilities-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
   - title: "Azure custom role creation in the Azure portal is now generally available"
     excerpt: ""
     publishedDateTime: 2020-05-01T16:00:17Z
