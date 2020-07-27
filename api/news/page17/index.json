@@ -2,6 +2,56 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-02-27-azure-hbv2-virtual-machines-eclipse-80000-cores-for-mpi-hpc.md",
+      "title": "Azure HBv2 Virtual Machines eclipse 80,000 cores for MPI HPC",
+      "excerpt": "HPC-optimized virtual machines now available\r\n\r\nAzure HBv2-series Virtual Machines (VMs) are now generally available in the South Central US region. HBv2 VMs will also be available in West Europe, East US, West US 2, North Central US, Japan East soon.\r\n\r\nHBv2 VMs deliver supercomputer-class performance,",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/azure-hbv2-virtual-machines-eclipse-80000-cores-for-mpi-hpc/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f9585259-dc32-431e-a5f3-a1272c2e9bf1.jpg",
+          "width": 631,
+          "height": 409,
+          "title": "Azure HBv2 Virtual Machines eclipse 80,000 cores for MPI HPC",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-27T01:00:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
       "path": "_news/2020-02-27-accelerate-your-cloud-strategy-with-skytap-on-azure.md",
       "title": "Accelerate your cloud strategy with Skytap on Azure",
       "excerpt": "Skytap on Azure allows businesses to innovate with the cloud faster, while minimizing impact to traditional applications running on IBM Power.",
@@ -1126,47 +1176,6 @@
       "topics": [
         "Azure",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2019-12-16-better-performance-with-bursting-enhancement-on-azure-disks.md",
-      "title": "Better performance with bursting enhancement on Azure Disks",
-      "excerpt": "We introduced the preview of bursting support on Azure Premium SSD Disks, and new disk sizes 4/8/16 GiB on both Premium & Standard SSDs at Microsoft Ignite in November. We would like to share more details about it. With bursting, eligible Premium SSD disks can now achieve up to 30x of the provisioned",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/better-performance-with-bursting-enhancement-on-azure-disks/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-12-16T00:00:01-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Storage"
       ]
     }
   ],
