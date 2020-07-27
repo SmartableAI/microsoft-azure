@@ -39,15 +39,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Azure Kubernetes Service (AKS) support for containerd runtime is in preview"
-    excerpt: "Azure Kubernetes Service (AKS) now supports creation of clusters and node pools with containerd, an industry-standard container runtime, in preview. Containerd enhances pod creation speed as well as stability. "
-    publishedDateTime: 2020-07-21T16:01:09Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-aks-support-for-containerd-runtime-is-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 75
   - title: ".NET Core support for Azure Analysis Services client libraries is in preview"
     excerpt: "In response to customer feedback, .NET Core support for Azure Analysis Services client libraries is now available in preview. Start building .NET Core applications for modern cross-platform and cloud-oriented environments that target Analysis Services and Microsoft Power BI."
     publishedDateTime: 2020-07-10T00:23:39Z

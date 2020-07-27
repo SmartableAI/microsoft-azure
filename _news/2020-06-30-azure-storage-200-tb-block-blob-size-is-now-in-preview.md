@@ -6,8 +6,8 @@ publishedDateTime: 2020-06-30T17:00:34Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-200-tb-block-blob-size-is-now-in-preview/"
 type: article
 quality: 77
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -19,6 +19,62 @@ provider:
 
 topics:
   - Azure
+
+related:
+  - title: "NFS 3.0 support for Azure Blob storage is now in preview"
+    excerpt: "To enable customers to run NFS based applications at scale, we are announcing the preview of NFS 3.0 protocol support for Azure Blob storage. "
+    publishedDateTime: 2020-07-27T10:00:03Z
+    webUrl: "https://azure.microsoft.com/blog/nfs-30-support-for-azure-blob-storage-is-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 96
+  - title: "Firewall support for Azure Relay is now in preview"
+    excerpt: ""
+    publishedDateTime: 2020-05-18T21:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/firewall-support-for-azure-relay-firewall-is-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure Data Lake Storage immutable storage is now in preview"
+    excerpt: "Immutable storage for Azure Data Lake Storage is now in preview.  Set time-based policies or legal holds on data so that the data becomes non-erasable and non-modifiable.  "
+    publishedDateTime: 2020-06-30T20:00:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/immutable-storage-for-azure-data-lake-storage-now-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure Disk Storage with Azure Private Link integration is in preview"
+    excerpt: "Azure Disk Storage now enables enhanced security options for export and import via integration with Azure Private Link."
+    publishedDateTime: 2020-07-21T16:01:46Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-disk-storage-with-azure-private-link-integration-is-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Shared disks in Azure Disk Storage are now available"
+    excerpt: "Shared disks are now available in Azure Disk Storage—the only shared block storage in the cloud that supports both Windows and Linux-based clustered or high-availability applications."
+    publishedDateTime: 2020-07-21T16:01:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/shared-disks-in-azure-disk-storage-are-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure Kubernetes Service (AKS) support for containerd runtime is in preview"
+    excerpt: "Azure Kubernetes Service (AKS) now supports creation of clusters and node pools with containerd, an industry-standard container runtime, in preview. Containerd enhances pod creation speed as well as stability. "
+    publishedDateTime: 2020-07-21T16:01:09Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-aks-support-for-containerd-runtime-is-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 75
 
 secured: "kgeDoOk7AqdWFZ1VFqhZIavRqcyJWChYXMYUeCgLiaPOhBspSIsZ7PmLRr4G0evsWO4EeQnrn0c1RtQqT+L7ixCYkO4ZRr9kS2FrMYbQhGVwzpWgluN+rTc6RKOXuurrteCvv+TU/+/nEMsMmsqlSFs8N3YpugUnGbtk3pvQPxdGbWvxcJ0wl14XA+hmVla75c7ajbMnd+Cqjhgg/BtLCN22KAT3FGXppXL2+V6HanZMblfBBQRr+f1vtOhNTH8ZTgOgJff50vQZYTD5KloDE65l+0RRUBmhBGPDcVDTrqJjEcTp2FyWh1JYTfN1MGSYDzELIhLiQPUdkOUFqyn7cw==;Mym+skNO5S4ts4aLkcYODQ=="
 ---

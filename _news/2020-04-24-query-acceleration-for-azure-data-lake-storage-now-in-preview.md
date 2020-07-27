@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-24T22:00:07Z
 webUrl: "https://azure.microsoft.com/en-us/updates/query-acceleration-for-azure-data-lake-storage-now-in-preview/"
 type: article
 quality: 77
-heat: 177
+heat: 157
 published: true
 
 provider:
@@ -34,15 +34,6 @@ related:
     excerpt: "File snapshots for Azure Data Lake Storage is now in preview. Use file snapshots to take an unlimited number of snapshots of your files so that you can have a copy of that file at a point in time. "
     publishedDateTime: 2020-06-30T20:00:36Z
     webUrl: "https://azure.microsoft.com/en-us/updates/file-snapshots-for-azure-data-lake-storage-now-in-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure Data Lake Storage immutable storage is now in preview"
-    excerpt: "Immutable storage for Azure Data Lake Storage is now in preview.  Set time-based policies or legal holds on data so that the data becomes non-erasable and non-modifiable.  "
-    publishedDateTime: 2020-06-30T20:00:36Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/immutable-storage-for-azure-data-lake-storage-now-in-public-preview/"
     type: article
     provider:
       name: Microsoft

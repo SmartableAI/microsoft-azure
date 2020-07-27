@@ -2,6 +2,55 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-27-azure-log-analytics-saved-searches-functionality-is-moving-to-query-explorer.md",
+      "title": "Azure Log Analytics saved searches functionality is moving to query explorer",
+      "excerpt": "Azure Log Analytics saved searches functionality is now available in query explorer. ",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/saved-searches-functionality-is-moving-to-query-explorer/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/5693d9d5-fd5f-4037-8747-aca13db4934b.png",
+          "width": 925,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-27T09:00:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2020-07-27-6-ways-alibaba-cloud-challenges-aws-azure-and-gcp.md",
       "title": "6 ways Alibaba Cloud challenges AWS, Azure, and GCP",
       "excerpt": "From storage and network innovations to eye-popping AI solutions, Alibaba offers a number of advantages over the leading cloud rivals",
@@ -48,6 +97,92 @@
       ],
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_news/2020-07-27-nfs-30-support-for-azure-blob-storage-is-now-in-preview.md",
+      "title": "NFS 3.0 support for Azure Blob storage is now in preview",
+      "excerpt": "To enable customers to run NFS based applications at scale, we are announcing the preview of NFS 3.0 protocol support for Azure Blob storage. ",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/nfs-30-support-for-azure-blob-storage-is-now-in-preview/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 216,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-27T03:00:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Storage",
+        "Management tools"
+      ]
+    },
+    {
+      "path": "_news/2020-07-27-advancing-resilience-through-chaos-engineering-and-fault-injection.md",
+      "title": "Advancing resilience through chaos engineering and fault injection",
+      "excerpt": "This post is designed to get you thinking about how best to validate typical failure conditions, including examples of how we at Microsoft validate our own systems.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/advancing-resilience-through-chaos-engineering-and-fault-injection/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-27T02:00:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Storage",
+        "Management tools",
+        "Developer tools",
+        "DevOps"
       ]
     },
     {
@@ -934,46 +1069,6 @@
       ]
     },
     {
-      "path": "_news/2020-07-21-azure-disk-storage-with-azure-private-link-integration-is-in-preview.md",
-      "title": "Azure Disk Storage with Azure Private Link integration is in preview",
-      "excerpt": "Azure Disk Storage now enables enhanced security options for export and import via integration with Azure Private Link.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-disk-storage-with-azure-private-link-integration-is-in-preview/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-21T09:01:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_news/2020-07-21-secure-azure-kubernetes-service-aks-pods-with-azure-policy-in-preview.md",
       "title": "Secure Azure Kubernetes Service (AKS) pods with Azure Policy (in preview)",
       "excerpt": "To improve the security of your Azure Kubernetes Service (AKS) cluster, secure your pods with Azure Policy (in preview). Users can choose from a list of built-in options and apply those policies to secure pods.",
@@ -1232,86 +1327,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton.md",
-      "title": "Microsoft (MSFT) Azure to Aid Digital Overhaul of Halliburton",
-      "excerpt": "Per the deal, Microsoft’s cloud platform Azure will help Halliburton enhance its customer offerings and drive digital transformation. Markedly, Azure’s advanced cloud computing capabilities will be leveraged by Halliburton to support remote work ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20?amp",
-      "publishedDateTime": "2020-07-20T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-microsoft-is-working-on-an-azure-powered-cloud-pc-service.md",
-      "title": "Microsoft is working on an Azure-powered Cloud PC service",
-      "excerpt": "Well, it's happening, likely as soon as spring 2021. Microsoft is currently calling the coming virtualization service \"Cloud PC.\" Cloud PC won't replace locally installed Windows (and Office) -- for the foreseeable future, anyway. It will be an option for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-is-working-on-an-azure-powered-cloud-pc-service/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 317,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/07/17/b7e08eab-61e0-43b4-b701-277f2d271516/microsoftcloudpc.jpg",
-          "width": 1018,
-          "height": 763,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-is-working-on-an-azure-powered-cloud-pc-service/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-working-on-an-azure-powered-cloud-pc-service/",
-      "publishedDateTime": "2020-07-20T03:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

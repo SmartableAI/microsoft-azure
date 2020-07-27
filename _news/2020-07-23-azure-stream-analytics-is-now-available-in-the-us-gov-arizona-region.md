@@ -62,15 +62,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Shared disks in Azure Disk Storage are now available"
-    excerpt: "Shared disks are now available in Azure Disk Storage—the only shared block storage in the cloud that supports both Windows and Linux-based clustered or high-availability applications."
-    publishedDateTime: 2020-07-21T16:01:30Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/shared-disks-in-azure-disk-storage-are-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
   - title: "New memory- and compute-optimized hardware options in Azure SQL Database"
     excerpt: "M-series, a new memory-optimized hardware option, and Fsv2-series, a new compute-optimized hardware option, are now generally available in Azure SQL Database. "
     publishedDateTime: 2020-07-21T21:22:34Z

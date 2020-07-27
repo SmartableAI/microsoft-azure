@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-16T08:00:39Z
 webUrl: "https://azure.microsoft.com/blog/amd-based-memory-optimized-azure-virtual-machines-now-available-in-more-regions/"
 type: article
 quality: 93
-heat: 273
+heat: 253
 published: true
 
 provider:
@@ -49,15 +49,6 @@ related:
     excerpt: "Azure ultra disks are now available in the US Gov Arizona region."
     publishedDateTime: 2020-07-21T16:01:51Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-ultra-disks-are-now-available-in-the-us-gov-arizona-region/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Shared disks in Azure Disk Storage are now available"
-    excerpt: "Shared disks are now available in Azure Disk Storage—the only shared block storage in the cloud that supports both Windows and Linux-based clustered or high-availability applications."
-    publishedDateTime: 2020-07-21T16:01:30Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/shared-disks-in-azure-disk-storage-are-now-available/"
     type: article
     provider:
       name: Microsoft

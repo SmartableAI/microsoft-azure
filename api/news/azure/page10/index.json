@@ -2,6 +2,55 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-05-06-companies-hit-pause-on-digital-transformation-despite-spending-more-on-cloud.md",
+      "title": "Companies Hit Pause on Digital Transformation Despite Spending More on Cloud",
+      "excerpt": "The cloud market has seen back-to-back quarterly growth in recent years as companies seek lasting changes to their information technology systems by renting infrastructure and applications from cloud providers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/companies-hit-pause-on-digital-transformation-despite-spending-more-on-cloud-11588757402",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-183911/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Companies Hit Pause on Digital Transformation Despite Spending More on Cloud",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/companies-hit-pause-on-digital-transformation-despite-spending-more-on-cloud-11588757402",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/companies-hit-pause-on-digital-transformation-despite-spending-more-on-cloud-11588757402",
+      "publishedDateTime": "2020-05-06T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-finance-cloud-market-outlook-and-opportunities-in-grooming-regions-edition-2020.md",
       "title": "Finance Cloud Market Outlook and Opportunities in Grooming Regions : Edition 2020",
       "excerpt": "Global Finance Cloud Market Size, Status And Forecast 2023 May 06, 2020 Xherald -- The global finance cloud market was valued at USD 12.22 billion in",
@@ -1400,58 +1449,6 @@
       "topics": [
         "Azure",
         "Developer tools"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-cross-region-restore-crr-for-azure-virtual-machines-using-azure-backup.md",
-      "title": "Cross Region Restore (CRR) for Azure Virtual Machines using Azure Backup",
-      "excerpt": "Today we're indroducing the preview of Cross Region Restore (CRR) for Microsoft Azure Virtual Machines (VMs) support using Microsoft Azure Backup.\r\n\r\nAzure Backup uses Recovery Services vault to hold customers' backup data which offers both local and geographic redundancy. To ensure high availability",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/cross-region-restore-crr-for-azure-virtual-machines-using-azure-backup/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/b8495529-cdab-454f-ac29-78f63339532e.jpg",
-          "width": 755,
-          "height": 385,
-          "title": "Cross Region Restore (CRR) for Azure Virtual Machines using Azure Backup",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-30T02:00:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Storage",
-        "Compute",
-        "Management tools"
       ]
     }
   ],

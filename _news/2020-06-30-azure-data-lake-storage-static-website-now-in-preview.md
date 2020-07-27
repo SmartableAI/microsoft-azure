@@ -48,15 +48,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Azure Data Lake Storage immutable storage is now in preview"
-    excerpt: "Immutable storage for Azure Data Lake Storage is now in preview.  Set time-based policies or legal holds on data so that the data becomes non-erasable and non-modifiable.  "
-    publishedDateTime: 2020-06-30T20:00:36Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/immutable-storage-for-azure-data-lake-storage-now-in-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
   - title: "Optimize cost and performance with Query Acceleration for Azure Data Lake Storage"
     excerpt: "The explosion of data-driven decision making is motivating businesses to have a data strategy to provide better customer experiences, improve operational efficiencies, and make real-time decisions based on data. As businesses become data driven, we see more customers build data lakes on Azure. We also"
     publishedDateTime: 2020-04-23T10:00:10Z
