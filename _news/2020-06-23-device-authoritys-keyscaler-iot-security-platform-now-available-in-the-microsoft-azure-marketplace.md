@@ -28,17 +28,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 73
-  - title: "Tangent Works' Predictive Analytics Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Power BI, Azure Synapse analytics, Microsoft Azure IoT, and Azure Machine Learning in forecasting and anomaly detection use cases in many industries. With TIM, customers can benefit from ..."
-    publishedDateTime: 2020-07-24T13:19:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-1029428765"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-1029428765"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-1029428765"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 70
   - title: "Zixi Now Available Through Microsoft Azure"
     excerpt: "Zixi Broadcasters will be deployed on Azure using ZEN Master, a control plane that enables users to manage large-scale configurations to orchestrate, analyze, monitor, alert and report on live video streams and devices across the Zixi Enabled Network."
     publishedDateTime: 2020-06-17T14:56:00Z
@@ -168,6 +157,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1201043/Nuventive_COVID_19_Response_Hub_Azure_Marketplace.jpg?p=facebook"
         width: 854
         height: 446
+        isCached: true
+  - title: "Tangent Works' Predictive Analytics Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to TIM, a predictive analytics solution from Tangent Works, to take advantage of the scalability, reliability, and agility of Azure to drive ..."
+    publishedDateTime: 2020-07-24T13:17:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace/article_b03fb881-eb63-5744-99a6-90d2c9aa5c01.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 30
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/2f/c2fefe6c-c0e5-527b-ba10-0c9af861210a/5f1ae2bbc1ad0.image.jpg?resize=400%2C300"
+        width: 400
+        height: 300
         isCached: true
   - title: "Foxit Document Transformation Services Now Available in the Microsoft Azure Marketplace"
     excerpt: "Foxit Software, a leading provider of innovative PDF products and services, helping knowledge workers to increase their productivity and"
