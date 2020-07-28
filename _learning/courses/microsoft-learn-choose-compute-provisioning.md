@@ -8,7 +8,7 @@ length: 50 mins
 ratings:
   count: 616
   average: 4.660714
-heat: 50
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Choose a compute provisioning solution for your application"
 
-secured: "bPrgR09zLl+AY9VYKQPMq9pl2Ym+VD7+aHDE7fxog4CR/dcDQBuj5FsBW6FxvI5jjRrOaPbN68JBKU7PioFV/iYPZjNQbqWkGT+G5ZKQHcC7Uj/TRGSh3Q0QvvDySeIaNlG73u8IpBgCaGp5rZ2Y+urs8AVHlRyE4117anCKh5b4EnAtT0b98zGfHXN77/iPvUFx9wEHZ9ABXyQNaHWP2kskHOO0K8s8LcgJAdHmSMQOLMonCrb0aMCMeN7BHmgU/6hHIDALqk8G4IpRkCte/z5vjUARJw9cEgjyQ70pADC2+Fe0cgQzh09MT+VEb0/OIKy6MovrYmRIbGXqUIMRtyw0tFN7kdfC9g2Hu/YUSH0tUds+tU/6ZAVUrUe3Tw1MODHKhuOzrkcEYWIYbPViUQ==;P4E0me+U3smh8gySfU1sAg=="
+secured: "btcQ0l2gkPvfa53+kPfohnIqILhO4wllCyIrikKYuUuewhTSN4KObFLFrMR1fGHbW0WWbPLoV0mw3QdEx/oDwfptyYF3dIMbXF30el19SlpI8kPCi6ZnZt/P0rK8kcCNMaKSk+ASv9M3VNlI1lUjHMOy32v280hj8JgLZgUJ63l3idFYCbN0MVJT6buFlrX35XAz+QjcbrGoU4p1V2eUV87vKkPQyiYlT5JQZQ0KmYZ7RZy3Uo4WBWdV/b64OVb4s4DLYb3DqYkDuSj3SiA7bINst5fRuezDc4b0brYwidFzfJld+jdt9YTHJ32prKeuQXjNAoFPXzt9r1ResDYpQtVCoRwfwkQFit2YNuWHegWoZ8Upa6Hg7gLctxk5Ldt66QpcZHlFjIbFsbpqDYuIxw==;y6In7M/iLSVJ2khiikyxMg=="
 ---
 

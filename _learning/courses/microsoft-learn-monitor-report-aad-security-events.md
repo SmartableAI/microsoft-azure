@@ -8,7 +8,7 @@ length: 35 mins
 ratings:
   count: 84
   average: 4.607143
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Monitor and report on security events in Azure AD"
 
-secured: "qnKtQOePNmlKclwLLpcQhUPNeblgI80GizCeLNh8AFJz6bQ7o+jSbTas3uju5xN8C6R4LWwYAy+9A6Dld4raD51UVIsugsIofnUo15dq/7GDvrup9NDonOlT6Dq33aShyjcyYVOoU/5l4dEgXbWJNR8vzcRjMwhxRUz0pjcqXKl852uG1eT9Lv9WfCqte2ltGPY2bsSsNE12pKLAeHJmWPD4uYsuQ49uzXZcHrjIpG2R+XAVg1KRFJ0iHS3ptfn2YjcWSFejAX6rqE40IwrwKKRqTNXajCInUeO+t5x9yjHZNiuwaVQ0xSP4YHgQVqrWbxLEkmmla4rctvZFgB4W59y30Bbg9HkorrIjHk7oEoRiePOBvpqVZokfJYVfTzgLb6v6tL3slrsujPL/Edkmmg==;IYjsw/VxbMnHlPm5itfEng=="
+secured: "arjjwjIsfU0VcZMiSeyEUP42BnZvy1nI5tLbZVX5Uwm8hCrMe6LLZGDQXyPL2HrNdL73VW2Q1Hdn2mmBKNu/E/59RGUVsQwwnDqH+WrjB5w5f9DmE/ENbGPzxVUvSJBCst4fewS111WimStV/+IXncsmjWWlMG4CSUU8I65UWUx4ao77xQ7wL4SuXr+G6RJXE6f6Wdn7t4DAgZSLZfqBiMqMUKMVMdY1cRlUcNMZzlciX41AWDfzKSCuHIRVgpybqe70ygaPfk9SM1ZULjReQmP31RcGvlofthqt8KOgdHrUPHFYJGkKzyuCNTyrHCYme/Ym3p2Clz4zd1fg/m9YZDlF9/qyn7mlTqRoUPZ5eucP/OOHv062Tu/mouuOX9hcluVwoszIT8tavy5OHQhOpg==;1fOHbEJ36uRHsqzvmw1eoA=="
 ---
 

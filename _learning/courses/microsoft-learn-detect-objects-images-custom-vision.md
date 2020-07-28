@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Detect objects in images with the Custom Vision service"
 
-secured: "8GOZ0rQz2n/Xw/5UtsScZ2LhBC/XqZsnUZzU1PZJ2SQcEOhUK0CgJo60TLCxk4qzb8V0gYWA3qI4fkPYZvz98VgcIdTM5wYZz4a60Az05dC9X64TXAlDGs/926Eb+qOAevolqeHHfX3JElo4Ub0IYRFKzlTZLyX8cuh99kFT+7F3r98wzSfRvhy03MZlh5DBw9CVW2kbDuVjQCHD5NGWGTBIKMcIpcZBcEjf4j87py8/VmUVBBCt0rN4vzD4ljx6+90SrjwiMQFG0LLgtY4HxF0k0tMvdUT2X46OuLVF1aSbLti11/zzlvBmFF7UfsbrfqEd9XrA/FU+9sNhuXiXEDz+19EbEA4Px9Cl+A+wDxctxWsUsDjFBUWtdn0T77H5bwkV0x2eF0r/THCQspTQNg==;uFpT64Tmlj/VwmtbqzQfaQ=="
+secured: "LbcG8WE6RU25UEa8pKxnClHAg9vKK1tYW/1plCldxcR1b2PbujyGirNudUKuTVqRiar+eFUc0DAne1SPvEWyPnFqAQ4V1u4RxX7XUxUdzLFvb8/RMWpzk64+Y0/s4BVIWLLq5pFHdt/syPJSza2dQP0duPDiVsZ5CzV9JZwZWjewcgvytUy+7/exMjAAFgTGIwbg6yiKdBOVbkaSKpn5syMc3xxc+/gdbh+K9CwOgfhRNWfDJEb8QHrL8BCJlsOYI8J5HT873ANArKK8s2ztfJrTX7mp9PQlEiJb3NVfvE9n6Y38vIhlpkZA9jFrfcEczDvmaUH6qwM79GuoOybVQAuShCN848VRgm80/AbhiFa5kDwGRWaScvCd7g+elVh0cnv7JR7Hi+V3ikOvmrMWOQ==;wV/9q2aq0dnGwc58InfBRw=="
 ---
 

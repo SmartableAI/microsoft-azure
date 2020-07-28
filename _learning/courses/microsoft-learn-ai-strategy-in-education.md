@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Define an AI strategy to create value in education"
 
-secured: "rAOihHGi7I4hoh3hjm110mJZn+axcPB9WkK1wMzVu69uypXOX96RzU6kpZax5ButvD4R2v8SGRNiCa0m5vb4gDY4cajJLIgtwNiWaM97az93v6Se/phJRz45YrnJdKJByKN+DRZhiOSCv/YXGzP2k9H7OvBb3T6l/xMH7FmufFhs8SvSUSvLFnr0GNdXYbMHt3VFIv/dyZM8oJHuvGEzNZ+sFOOawLStwn5rFcF+XXIEpsCcQli7tji6HJs9+7UOmCSY68MNup5DDpjjOTgUkHzsdmTsB0/3w/pxyB7UFGcF5X4zCy07aMvMw4/s5QVkKx9rOU+bK39KyXqLMd7t905T0MD+ttvn2FjCg3gCaSFPyrycASnyxRtkafwz+QEhoSQAdqVdAIPb+ZYN7fQEng==;GL0b4KzGg2f8ZsfLVoTnxA=="
+secured: "N5bVztz9om89q8jkMtcgtVGWVEuAzpu+redx5cuM7P2G7qGMRyWxvVGSQ4G6dLOxYCuSa3+4TFfeim5h2buNk+6E8Bcn4Y2u9vU4wssXbswH3eQ6IYUN+11/ZoTihjsxbfmydxe559SRXFSvwR0DcfxfFCRHF2AERCQfT+dGCKeSCHcUV/9FU9OFMGjA9sSXcw29gocud42UUjrsW8UibOOmciheXGZVA/vReWdTN8reXr+f4IG4Qy5mLEoZpAHUT3bBmFdZzlBJ1YKYda2SkJ5uNe5I5BunfySRPXv6q+iKJdBPm/8XRQ9MEJ/pQQEWrosFEe46tYtp1beFvlUarM4QK9zS40Nf4O2g/U6Co8PIFVR2j9E0S2vzpzlJWfazAbuI/R02fCbviSjLK3Ow9g==;BNG9g/xiypgTzN0uPSHgGA=="
 ---
 

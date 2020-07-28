@@ -8,7 +8,7 @@ length: PT1H27M
 ratings:
   count: 20
   average: 4.75
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Make predictions with linear regression"
 
-secured: "DceOV3YeE3rOINbAKqtU9R2QQ/fLbT2ROrftjrZ2npMlWp9WnjqPrxJB9PYq4/2Zzyr4gnr0n1Z3K16dzF2RHLu7aCDxgzM3zVJmW9Q63UZXDOjpACA/trhQqIeukk//9NXFFkACmhfLtDECdxyyX4a3aiecKv7o/aOHC6wYHqB+AN1UL+sVGY4fcL8pp4+WD+m/I5J/+70be5UgMg/EYDpBqhOK+htpVKmjPBjSUbwrNIPp78lS89eMk/rq5u6L8jpkMqa6CvQE2gCRrzT3NTCwUHHDi5C5PhPE+hfoxSISVrpkC3TU0cO+QumhTElc7K6utqtB3qQp7N4iuj0vMmDe0qVZrLrT++Z91MDpJ+CB+NmNIS2PP6jUSxNzJ6vmJiBwAOMBrjv5EjSVWGPJ8A==;yKWmmPMjJV0xU43/ngpMhg=="
+secured: "+EKsCIO8Zw+e4ZzsS6pr/s3F8X17bYlWlC/0VryIMAQdg9P4+T04VGWcPABvfnRLsGQEOGrurbAmwqiFGO/Vm5C1xxW6LFoKThLkrtX0+9YNP4G534ZMMTrfVAmKqm+2Ic4VkdeWrRuAYyVL+iU5+h4INXN4HotcP2tyaB+8wGazl7qn7qP/zeW/fxSoWWdVoG5jt39PjLIttxRwZRdV8Amnk/Z/oXpfyldVFjFXDYHk8yIK3eiIxAwDobIL2rRj4OQgy/y36JuwPWnR9CJxcNPk7CKUBW2sS3xmM3Un1rn0Gx90ScsSolRBjS7WeXixsPOejroUX5AGLg7NAMx1gKC/9IVmj06KXoxOr8+yy4vg1K0VM4dENE1Hx0MQnS2CkjGFKg2HP4cC4BfrI6PsLw==;Iw1/WXhP0MbQiTh8hYHMDA=="
 ---
 

@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 34 mins
 ratings:
-  count: 180
-  average: 4.6222224
-heat: 51
+  count: 181
+  average: 4.6243095
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Instrument server-side web application code with Application Insights"
 
-secured: "UgeFngszRO099TJfvjw0v9clw4E2OyGw4UKEhv18Fn8YJNUvn2hPhnQglcoOqo/9J/8YzMs9ZZvVNjXZBxc2d+RhacKesY5YuvLX4dhHOZ/G49fEGJ4q836G18X3wDeYdtVDL91PKtir1MmrXxl20eJisXdA0p0S/FSRvQSy67VurJ7w36YG2RM5rKRLrNTbVcW9g6Mg51wGjq3+2bNKyykexCW9+eOZ7HqjjT4HC7perkQPN0Vueq2geXeBdK73CCN6oBpm5Ha1EbQeGeBfbtpw6G8Bk+Ftzm6HazUErRQFs+PNzpBGRwljLulyTPC5OP+Za7hMzh3dXn6mEhz/sFlu0eHZpNjQJNXZeUFQr3VRXGEGhmtlkLyhF4UlSzipOq+x6i7FauQmZZMQrmq/kA==;dgtInU8ecrPCCyddrumvgg=="
+secured: "T1px/IfEKlYegGF95snru77qdfgJL7pnQkIgp4zh9IWUtQpmsMQzh2elIaYDrYeDVToiTwVub3gHd1OewMnOZpb66gCrj2m3GBRpzeqziI3ZSK/S6jj67rgWKJDYY84BDe8XT3NC5KxZFJhU1FfcUM8ao/h7DDiErUht3lv3DHyhHs0GRPfU22zbJ51r6ojtmRUgNx0rYES2jblWiIuET43kjUHvd9cGs1ursbCZAHNGBOJskK6EC04MzPq2fSdzHdOOHs7WrvKAtCESu9OWgYco4K0ygIEpfCvZCUeffpeFTzCtBjoLSwSyzqIm5/tlC7HMWkW9gCqEDzUYCHWEWdZ5wYXbfrg+amz0Z+32ylZpgfMw1OSXhCMBP0OvJGiO+dAV0Bb/ynYDkvRDMIhZZw==;dQ4HVRSP+Y00d88lsy4MCg=="
 ---
 

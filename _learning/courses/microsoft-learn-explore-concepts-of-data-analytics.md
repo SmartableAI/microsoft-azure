@@ -8,7 +8,7 @@ length: PT16M
 ratings:
   count: 131
   average: 4.7938933
-heat: 57
+heat: 63
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Explore concepts of data analytics"
 
-secured: "nd1kA+ONoBeS1yp3eCp/G8EaGtgBBmnxCKvwbepoRYb2VnYsdz1MwNALmWVnjJ9uHObMZjwUNE8i3g5ywEbDJlGwFtjtTh2IjzHxSMsFqgSf0SfwQk/E09JEUmhyqAHW4crjgaq6dSj8PNv+JV0C/apnF4sepa8hdDZLuOc4Ce26C+U8bEAG7/4SwH5G7WqxdaL/p6shceNiZ+s5r82F0GrP9eVx52lajYvpJXMQLX2tcdnsbqK+2duRSSELMjUsL1GdkooVU3t1+35kkBjpff0Qibv9cz3QSGR1HQ2TuRMaMsjmpiTcOTw6PUMi/qkngIF7OMR/YnB+hC47ZLshsvt5uZ2GzaZmyI+fJxpeTLAAxw8mGUBxXnDBw0jCocm7tZE056VpNX8WNYhx+Se26g==;qAs2HaGZtrpQwhDi1tZFEA=="
+secured: "NIi6uWSDsBFaUO4KYl/av0P2ftivK/uIqmavdaKgxwBSGd5JhBotBnbWDg/9HGiPcc0KnK+f3eSgeV6ZnllOuSkP09anKvOphFIF+H83J/RHnY3T3RYlEzmi+yQ3/nDFa/Q82CB/irS0eCAHdcgC6SGIq8x2b+qTTt5zLeCeJpXOzbaW9phOdQ1ZxYQ4TbmYrVEOH/GPf5ZjljQDT6625ixqaccyH9Teg6xue/IYuoXroBfjIS6VSZGjNPZDWYmDDG1476GfOqeUjPh86hOQBKONa2QlpQ/qua/9h36zwFM5H+1R3ETU8jQJJ3cKP5LpF8UvOGRdvH+WIDGUFPHNjWcwL33ZsZI9FUiFbRz6jqft7Sod7I0RsJ8eoRkcWA6Lx3OxBBHwUJUd1lN9OegSGw==;b8+X/KBS0qUztQvlsgAC6w=="
 ---
 

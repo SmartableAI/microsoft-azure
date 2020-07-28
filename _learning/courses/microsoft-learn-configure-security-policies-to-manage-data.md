@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 39 mins
 ratings:
-  count: 1771
-  average: 4.592321
-heat: 52
+  count: 1772
+  average: 4.5925508
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Configure security policies to manage data"
 
-secured: "D2YNY2Pez8jWJ7zm0912bbKzoSfqoQsUwuObDvmUVz6kOZxdtNcaA2fvpN5Wp7NYztMv/Ht3ohZaPLfRvNnTCpdd12Hyyz1KwBV3BucUsm0p7jzEVy7J50r/5IaP7afb17K5maKKojxGfvNN7qIvFaIW2nSgv2FN5kIeQwQIy/lfP0wlugHzLwksqcwXizc0Hvh5xZe0wtBj4uWl8CMkFKCs2NlvFjvP09eKhWtir8IGT+78U62oKEvwnkluXARFYjP7RQpX0FZbfmMwqixb2d3YyWBZjhhUy5+oNLwKIATmR+xqZJRADgDNX+i5xQHt4dCmb8H5BVcSmZj7MSv6Zhyx2XE23tW8lWtoujEqyjRZakBd5pCCTMHmN3cf1VIynqkU0o1FThXMKiceKyG0pw==;0EeDa9tSZM0zMsKnua64tg=="
+secured: "DXu7jqsxKaWgz0lyHh0BIfF4bUPUYi05fPG4kiz4BTKKzqb7LpgxXWgdeizzG0glYl5laOQEH3RyVqmhUbljBS55xJ3t4KnxoWZqKaAle6piDSnvKwzoMZUNgqvCdgqWF4r0RLdMsIBHVqJAhOK1DbmVrw0IwJczvUV4CefpbNKQHRacGu3FPv3TI4NWpUqpngEsi2j9FmhcHmeagZDfEQWEYsq+56lOx+ZLGMbl9jmUAsATCDmmtQff7XkTzQoGh2H7rkx2Ka09BVnXls4r4RuZWNNv84g0Q3oo5vqB/Z0FhkcMtXce3nxNMxcTkMJWXBnDyJ21clR4R6/AkUr7WUGGkXP8fGAf05e2vm5+RZogPPkV7rjEJ9EDtCe4CRr+imowkmNSqngHVdG711lW1g==;nwzH/1JdCAqZut8z6Yjy5Q=="
 ---
 

@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Migrate SQL workloads to Azure virtual machines"
 
-secured: "wlNPQoDHYxH8VYxjjInS8Zz1CpxMYy/xodUcf2jT3xwzBr6q+ymJfDiMiIO2OS5p5RlFW4aYIdtTfINrrzQj7TNxcqTQHhSvHoAWb14Lqw6QeU30lfajXff4qUvaJVpc550ECBKmqprk+yimPb5JfMrqnP67AoRBHc0hDdWrNxf84ReHGhxhu2j6pl5O+IR751OP1K1KvxMtHHTBdDYjOrQqXHdDBy9T/csPO2mc/QFZSKN4OZr3gNxGE5w8/j/egd87AKm9HLE8W/C+V04994DM9+Vr2ih5S7q11ApcHF8IM2WVwUxJPXltUcl1U/y8tjmxicddESxPPKR0LVxBOhEpdUxp8UQG3iU/JWE4Rjj/gMmXjKmo6Nutecstiiu0A0FR6zTvt0Fc6LI/70gnqQ==;+56mmUbmgN+i5b+UXeZylA=="
+secured: "Ulo+Vyn21MHdcE/AU8NVp4o0dSsqGEhM3y2TtxVEpPYKZ8nwPk9e7aZPZWtNLLWaju59QT8uSH7HCHuDIXT42X23v/Xosf6T9QPSjn0lE1pb8QkIXgmnGlSP5K6CM31wZvi/HA4VjLKeTa4CxZk4am71+I/HPWO9ZaP1w2EuyFTq8D5BxH3n5tk1epRiPPYX+bvz+czI21Pjc6WmakkLb9EKRQYvxObOISOIgReZLpLZibEgIquZYJ/Uz/jy2MfFPXziumExzUA/PFnFpakhY10Ktd1M2/+fgPrbQhfL73VI87PTSQFZszGwznRHbxUFB++GzRay2hfjKa+w1hdlBv5jzmMWILFg2mSFkeQycMNmYGsFEe8HAQJkWTzI5l6NjId2Gq8RVYgGJdq1usjs/Q==;UoJTrVhCgX8ixva1HVhPaA=="
 ---
 

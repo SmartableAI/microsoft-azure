@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT48M
 ratings:
-  count: 205
-  average: 4.6439023
+  count: 206
+  average: 4.645631
 heat: 55
 
 provider:
@@ -39,6 +39,6 @@ images:
     isCached: true
     title: "Microsoft Azure Well-Architected Framework - Performance efficiency"
 
-secured: "ALMJbfOzK40p4fZGYQgd4ZNnXFp2CFpqXXUtMucZhPJycGGXiJuP41bhnkqSENKf78x65aSv8OWuh2NWOzZUH2PaQvolDJEKiw8wwc30jU8psOIPAQXd7a2rNOVT5l02qK/ZkQJ4QwKC8rPF/3VbqZxlzLUBSXq1DOhaWO3qivBi6RoF3ZZ5dSz0XE1I+KFaJc9EMRC0Mzeq1FRvSDQR64wUAByIHiQI7k3EQPlS6xVenotQy8R+IHaSsTeoU5A75iWz10s7+RRZifzBNtXUxJsW/BwScEzyUJurie2uygBINoV3hOv4NcFWdlfvvD1jPBf94EQkLd64BLW4jjRq5YuWtZGMvItGyrJT1XvqWoRfp3gkw7FszPs8zGf+gCpEloO8E8JaD4OS/S5IeXlB0Q==;le/iIEQ2nsD+PFnIyW/vpg=="
+secured: "4uYFT414fNY8Pr59xkAIdcXYLMAshA0qqo5SApXYJZ5NCzj7Ml4oHh7aWH9UGeCVL2gxLqVCvVa1zE70yHbcdxuUTj6A705dcWmZGM9i6r9IH8Oze7oVehoYWucj+2aSuCUeuz6TQZZLy9uW3hHJ37cz8v3ok7MDJu24Z41knhJ5TmsT6klj4/RJYGqmlJmhEXUmLzSsnpoQFF8otCb5Dy1kpWNQHgGdHRjFJbZJu7QVfHQw/Ke/lcd04eeMAAcqvbwppADtbBols3xDZ3pZYB7u8gqrRg8ZBav0J7cmvOyHBopYYICh27XcygThAA0dL6/WXtq7WTjuOfVBRAUVdK8i7+28gSfkkBm+BLXA7OzODj3yHIqFC/Eq/E03Lf5tFp+c6gCWytmuo1e5MlKNuA==;RnfLI5aUhVCqKTkYWT2EQw=="
 ---
 

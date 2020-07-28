@@ -8,7 +8,7 @@ length: 33 mins
 ratings:
   count: 185
   average: 4.589189
-heat: 50
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "React to state changes in your Azure services by using Event Grid"
 
-secured: "5qzNC1/eBnX9gs0domxin9jJUoXWKodF30T5e9nt0J3FRsKm/dVNw1ccqi8tkSsau1wuHWVoSFrjHv104HRzUAg+EgWE7tQK2Nb7tca9iN/ESLAQoAwcmXWVXqFXHdDQAVucMV9kAs9b7UCSgtH0XspzoKAGsvbWa0FRf1GSkDNl3SweHCteal9W0hRuTL1kNQcezeu9uMcdg2t+4yqcZIwpuddBnUORZgFDktFAQs5AYtBgHZp9NEJ0dpC5RbHgBtLGDNU0fYBbB9fXkOlc9SMWwqFWq7iQKuFA2FzCQg0IFuCUL7fY5l4JexTGRXsOZUOxKcaSqvpFnf0bNcgznugLhrZe02/dWRZmLYr5nmOq5an2MYEaUe4oKdcXuR6Pd6iaARv9p5e3ZSaq9L8jog==;A+qN06c+j9f18qzdGiTDAg=="
+secured: "GYktjfTr4R6ARD29kGfWehb0j5KcsTfYbx/ltZWgUWEdYNoFFp7mk3vhdTfnTIQlMi4r/jv5M61Y9IcS7BNegBZ2vMF9HHrYZP5D7XFWZt5/h5dnagIq6z8wVtAvu/hnDovNs3sXHy94S3Kfojztv+4Z4AleD0swdXMKpKEHB5qB7oJdfGkR+PnfkDcGaNUL270KFwrgDLKcvFsh+WKvH2ha0ONFdvC+XX7uKGS1vGvf8fty790S1JrPi6TS3bUYQJ9paQPbT5n1ux4JOE/mPYxCHx705buGEtT6Nn+kmCHklVx261ud3ylc5e5SrA/9RxSYo+n3to6mG85MRXWvvIFwqxoHjdaXYlEqXn8+WOfGHngaY2Qu41fEd216H2kFsy9f17gziAWlxWGOPd0Seg==;2Fcpdwi2BeThUEfaBcbPTQ=="
 ---
 

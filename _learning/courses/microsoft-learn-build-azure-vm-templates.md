@@ -8,7 +8,7 @@ length: 37 mins
 ratings:
   count: 3062
   average: 4.525147
-heat: 56
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Build Azure Resource Manager templates"
 
-secured: "EW6h0lj0OZUjkT0SnHbyrKK5Scvv9QGvg+pozQAuVWiLCvdzqem85TNwI/wKsSq/0Ei4B16RcLwElaNpHm+V/S7DnncnYhCbw2pp9ADPJlFN9Q0BY/PAnKJt9MGDmOy6c76cdkMh5m7RRLgk5LIRruppefXmupygZosu1pMR4XFDSqjpDVdoIoFyj5Z9aYlEim+z4l+PDKlcqZTT7s5avVwwsPj6QJcUPNy3KVMeoIU4WutOMfrxtgH9BjHHAWB1GaImxJPe0+Nv8GtBm3BIt2eY89fhNwT/M8U23tBRkqHZrOinj9G5QW10YhX4UXwKxG+Ofko+Kbl0kUWaA1U3+N7hke56LuCnm8l5uUqDtpvA1KXWJy3Y4LNVzCQJ+tKuPq65Ik8Ai3EjcXaOGWx/EQ==;l/whpPuHWaHxT7MQbMHhOA=="
+secured: "WZINk4ZITTu1zIsYWFh64mUItkJMY2e0lmOMy7zygwMyao9/c2xA1txyN8itsxIuB47xGv+gc/M7f0Q/cnxp4Qu8A87uKHvEvkvuzzGaLfR4HyavODSi+nXR4FexmIZMRGZ5PI2LK/dL8buFS3GXy1FJAlkKaZhCoC8oOaR8ht0G+P99tj5lEVyCKhdrGSQ33wzne/iLhaoOoC8aw7ugOtI5Tp0DSNU9uki2e2UQiIbCwMdWI81+fzdG19ILF1rlGCYRIjd7+NtMjPkpMFhDR4B1EWkGFTx6u3+jpgp0zkYfSJAngLU9FgIIGxcwPJZxJGVt9V8xKra+7M1zyDC9n3JxnryRvuMW01gapJBedJ0obhpWwpa3A8aGlVNqdiC8AhJ0FJUcdiY3mXLDopMUZg==;4qfV7SYCR7Bpt0u488N4Zg=="
 ---
 

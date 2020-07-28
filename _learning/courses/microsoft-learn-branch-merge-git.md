@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Edit code through branching and merging in Git"
 
-secured: "iCsjOkOA/4p5MAVp3NpmF9dU0nLXiQ9fgbxOtek2hYLevi3hOCmdaXkaxnrXb3z/fOXioA8YRdibGkqCgLOfcRRX9UpmtA/su+ZEPxQOuX2un9ctvBtXzEv6h+ssnRhzkhv/4pWVgR1s5yWIH0hqmBxKVp23li9BTiv98Iy52JNmfgd+Nlb3B2mICZ1ojEkBWJXMvSJW1IfzbYBPC4XFuiiRCPm+H1C39vO0nB2VZNDLcDx6xxwj2wWdMMAlsjMiCHLCVsh90iFdlFlx6C/zUPtshHw4aaLEK9LnML2cmOKHDNe/qPNLFnVN0tLlkEr7PDoVzFjnYQeWK9+wrR4KaR50/gSXgp3j69bvo+L9UE9Ojyy2JVjEsRkaIpyI3Gv4gQ+354B3y+UQsKqS5ZxxAQ==;ehB8I9CcFycMyNnKNwvNuQ=="
+secured: "vUussBJBWPmg0OMt+Sw3/lD+ABfU5E4+BDlL2kth3+YfnH2+a/aH/sk9/yfzdt9s35N0QQeDRToVDFuWVEhnfSPa+Q6dFPDOx+ejCp+UdlWZ0uU0cFZnt3utFKlYX7pIGeupAvYNlELhuNqPnrj/jy/JsHMVyEOgvuZufP2nvmICyg68DELT9bOCgy3NMa6YMiz/haGQviRR644mQC0G/BIDJc00HQLmHmttVzfVHzEj0YKgEM/IyXZeMzYeDSo4BBK9e46Ig3rIDZybDV5ij+HuJGf95KNtzZXbXslvLXnUCeZkqmkHTqP3WK8ubpgbPUruITnsa/e1wnl7Hw1avlHyGtuDcRukX7rdxZE2dN1prOWAyeM60YQbXh7a/zNBrEYNWAtZ//3lZH4iVSw8ZQ==;ciMYEWxcFH3EJZeuQpwQEA=="
 ---
 

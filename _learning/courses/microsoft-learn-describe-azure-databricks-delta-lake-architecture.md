@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT33M
 ratings:
-  count: 39
-  average: 4.5384617
+  count: 40
+  average: 4.55
 heat: 50
 
 provider:
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Describe Azure Databricks Delta Lake architecture"
 
-secured: "PzH5qCWKpZiQ6EdpdQqcBLc+H2TMIzuGZ04UaFuRanXCdHKLqH+DwTl/dMKl9a1BzBKpuOTTrtKnnSQt2ynSMnElQraEbLjjeiK41b61zzTf8675KUxRRtfwo0AEdAX8ojowk8Pm2TdvPI4s7O+ynBfi3bldC8tWf+8G2+z+EzVLTvmQf1TXoH1hQWmJ//bOVz52DbjXJa6i8+fCkoHQC2N0c4mvYH8049b9xRbd4aDrwApKuQ8dpHrFvwh7NX08iby19gQ/+0DwNepJ2BBp7R2WEKZnxO+kClMXf/QRVlplu9i05wiAV0AQuzFHtT3Gb4PjG4f77HNuNbSwR2D9PLTt84rwMXnG8MadQyYUhpLrc2MhauHQxrIQn7etAL+ep8CoBvwnx7Zv4RziOG5Hkw==;S8hKwP2vOOSWxyMkQ8HUSw=="
+secured: "wwE6VtygrdC/P8aoca70X3vGYw5l73KXA5cSHWFAcAczPlu74+bEgBW2nmRuHeMEYMfcmT9bDCMh+1mLuVK1UWJzXHJM2E6gkk1Sq55Je0rduAz7ymo+9vmkXfl4nl8dZBqlx79LayUIBMYkRL6rJ0BxmY0nOE1wnmNbaFhDRzcHdMvhcEXkGtXRkYnlZ+TV8qrqDRuhS93OEfZZJ0EqVDot3Jy1YtgDkKAaAYh2QXOw40yXOMTNxduEF/ssLaw0ppDbP7540fdae0LEQWODz8dK20Cw24Rc2/7gdkoJr+7g5wU+srFXtN6+jYvbHOYAeRN3Qx+3V/SeORij88F2K1aAGkYe+lqgckJPl7MUd95XkQOBDwrH2BoxaNwG5u4hILQKCoFkJYA/0tnwZ92DsQ==;1HM/7ttZiVNPJETj8eZIng=="
 ---
 
