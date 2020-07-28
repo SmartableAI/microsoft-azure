@@ -17,6 +17,20 @@ topics:
   - Azure
 
 related:
+  - title: "PAF Process Mining Software Solution Can be Offered Via Microsoft Azure Marketplace"
+    excerpt: "PAF Process Mining Software Solution Can be Offered Via Microsoft Azure Marketplace By CIOReview - Process Analytics Factory (PAF) announced today that its flagship Process Mining solution, PAFnow, is a certified"
+    publishedDateTime: 2020-07-28T18:12:00Z
+    webUrl: "https://www.cioreview.com/news/paf-process-mining-software-solution-can-be-offered-via-microsoft-azure-marketplace-nid-31696-cid-20.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 31
+    images:
+      - url: "https://www.cioreview.com/news_new/sliderimage/u5ddc.image300x350126564.jpg"
+        width: 300
+        height: 350
+        isCached: true
   - title: "Verizon Business, Microsoft Azure team on IoT solutions"
     excerpt: "Verizon Business (VZ +0.4%) has teamed with Microsoft Azure (MSFT -4.1%) in order to speed and simplify deployment of Internet of Things solutions."
     publishedDateTime: 2020-07-23T18:50:00Z

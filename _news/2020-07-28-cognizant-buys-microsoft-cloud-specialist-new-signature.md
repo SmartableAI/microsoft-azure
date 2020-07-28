@@ -33,6 +33,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Cognizant Acquires Microsoft Azure Cloud MSP Partner New Signature"
+    excerpt: "Global IT consulting firm Cognizant ($CTSH) is acquiring New Signature, a Microsoft Azure Expert MSP and Top 200 Public Cloud MSP, according to ChannelE2E research. Financial terms were not disclosed. This is M&A deal 304 that ChannelE2E has covered so ..."
+    publishedDateTime: 2020-07-28T14:04:00Z
+    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/cognizant-buys-microsoft-azure-cloud-partner-new-signature/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 37
+    images:
+      - url: "https://www.channele2e.com/wp-content/uploads/2016/03/judson-althoff.jpeg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "GWZiJrznPb8bMO0E6Zf0IlZFt7tq9KULwGwav5oFsmS3FvrLAaCJYb0HYL30adkfqaEqM7/h8QGoKvZwjW0p2vf8cycKxWk9Pr4paLv9tyZyVdICnHS4ex3HtxSiLR7963pNZf3Wa385Tc+MzsS6Yb4GuM+xV8DntGYPGulbmDih5Mb8JXO7o1oD1s90wVQHuVExxhDny6yJFJQWamTwprZXlAkI35FYaOwC56Jvr3RV3A4AEuggHtr0T/xz9t55rMMCja1NejTcgctT8f4wzXtyJpWhLSj7tUo+ORUtWzDoLM1N1MCTndsF/UkHUepqY5rkuZaY86jvkWQu9Pc/eQ==;dDBlMaLqGVMlUtormKyyyg=="
 ---

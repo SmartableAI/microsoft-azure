@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-21T16:02:26Z
 webUrl: "https://azure.microsoft.com/en-us/updates/updates-to-azure-hdinsight-2/"
 type: article
 quality: 77
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -35,6 +35,15 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "Migrate to the new version of the Azure Time Series Insights Gen2 APIs"
+    excerpt: "Read about the process for migrating onto the new generally available API version for Time Series Insights Gen2. "
+    publishedDateTime: 2020-07-28T18:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-tsi-api-migration-process/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
 
 secured: "DtTXViES46KhH96siS/oaQfUfRHVLvNOpDuyUVJHUFmwgidKJZczOR/DbUeMGmsYRGOsQRAQpxYjwQWMOSTIDj/ns3hx4KHgr2d8VujumNqB7t5WEOns77XcGJJRNYw4DEBhbxen3RfZaPqTZ548/W0enj2Fg6+ITSOPFqqE6hBoFAzyjn3Byps2h8YUDdpC1qZPK3TQ39B7M29ZqkMDgGCNtSv/dVQPOhp8e83g+hbTNe+QOVqqAztdfVRbQ+UD1vJG4N2iL53wjxVnIEbG1MWy0wi9U7jbzRF9CXNxM5EkEqYbwiH8Ciw5UQlDWEL6BS5LwBJYO1gSPutvP2IYig==;6WxkwYeQIDDpdkdoKH/Bkw=="
 ---

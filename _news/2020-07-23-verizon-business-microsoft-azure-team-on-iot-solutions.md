@@ -26,6 +26,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 48
+  - title: "PAF Process Mining Software Solution Can be Offered Via Microsoft Azure Marketplace"
+    excerpt: "PAF Process Mining Software Solution Can be Offered Via Microsoft Azure Marketplace By CIOReview - Process Analytics Factory (PAF) announced today that its flagship Process Mining solution, PAFnow, is a certified"
+    publishedDateTime: 2020-07-28T18:12:00Z
+    webUrl: "https://www.cioreview.com/news/paf-process-mining-software-solution-can-be-offered-via-microsoft-azure-marketplace-nid-31696-cid-20.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 31
+    images:
+      - url: "https://www.cioreview.com/news_new/sliderimage/u5ddc.image300x350126564.jpg"
+        width: 300
+        height: 350
+        isCached: true
 
 secured: "rzdPmIiCmuxP4pBcZTwKatwXEJXmRfqwrfuBZWSBpHey4oaWXDv8nasgMHI4nhzRicuVaR7KseDIk2nDZ6mwhV9qdlgdEk7N9wE1uwy1tdOtvF4mFEYSalNI5DcWGGsySJUATXUurQ9MLr2bUtSuTuBVasR311iJGuqRZ95FSFOSD6t9qjYLCXKQ6TSmHNaU3Uho4Blu0DPIJpprLoShh8+5rNjhz/EFbbEcX4tv+2vBDoLN/DvJC3IvgkaAv35L3tSLTHqHQe931pSW6RJDU/ko/YEDD4PWN5nKjVX3nIAF8ZGZ/Br7IqSqg0EPeHlSOZ/YU0IMQ0qIQD+ftKL77w==;cWIETGqDTS+nTgVLVToC5A=="
 ---

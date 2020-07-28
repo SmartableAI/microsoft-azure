@@ -36,6 +36,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Migrate to the new version of the Azure Time Series Insights Gen2 APIs"
+    excerpt: "Read about the process for migrating onto the new generally available API version for Time Series Insights Gen2. "
+    publishedDateTime: 2020-07-28T18:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-tsi-api-migration-process/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
 
 secured: "Q4SGu6OxXIfekpgX0/GWIAfR7dFWejBaf1OMlRaW1tapiQj8dAKDdxcuPhyEZpgvhl3c6Z6dBRKcNxHYqXP/epenOW2Zg5v+bCvLKEOx1CLMywDctgvPN5HyENLs9FEUIecj5NuZUau2wDktIWKZtDBIqxVooJKnREB+QmBSKji3BG7XIqIU0+GKc4vbXWOUnuVtYObGjbdFEWuVrPeu4HaW0B6Bre5CwvwvyEWlUo/GUs2KDyzpmgUaHe2qm/cUJY3NggUEeI1Y2u3ZAesv3U4GJWHRhQGeQE0dzJzNPaIPfuLad/BgX71OeB1NcFQN37UwOca5d2QRr/PkFaaH8g==;gvdjUyAa59EIRXfP9GcYnQ=="
 ---

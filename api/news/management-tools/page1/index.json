@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-28-monitoring-azure-arc-enabled-kubernetes-and-servers.md",
+      "title": "Monitoring Azure Arc enabled Kubernetes and servers",
+      "excerpt": "Azure Arc is a preview service that enables users to create and attach Kubernetes clusters both inside and outside of Azure. Azure Arc also enables the user to manage Windows and Linux machines outside of Azure the same way native Azure Virtual Machines are managed.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/monitoring-azure-arc-enabled-kubernetes-and-servers/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c4c6ac0f-ea43-458e-a4e7-cb971720a491.jpg",
+          "width": 1024,
+          "height": 714,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-28T04:00:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Management tools"
+      ]
+    },
+    {
       "path": "_news/2020-07-27-nfs-30-support-for-azure-blob-storage-is-now-in-preview.md",
       "title": "NFS 3.0 support for Azure Blob storage is now in preview",
       "excerpt": "To enable customers to run NFS based applications at scale, we are announcing the preview of NFS 3.0 protocol support for Azure Blob storage. ",
