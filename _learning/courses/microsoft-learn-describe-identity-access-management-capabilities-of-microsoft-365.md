@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Describe the identity and access management capabilities of Microsoft 365"
 
-secured: "vHTYOXjZBmkptHZkAyLHoNT6Jaozr7xyDQh/WC5jVpMG9tsS5PdSBrKbf/U4kVtczr4UJSennimEnGckOw9kDtAveT32JrWfzlOSzQAvcXd+ZtbafENrYF6LTTf+uEayE09Da16GbLvHAsO60KtVCD//3OcTjWDAgoiwScYq8I4C+96xo2yimAW4AwXe6wAx2Mnr6b7Gwa7aHrDgUxrMJS2uHD3Xa8P3FRYcG16ud3ghd2ppZe1ofkGeXx3stpNm6XOC1UhCoCLp5e7623A+6p30ylEZJLglzFcryjCc7snG2OAO71idzUCxhZYIWjw+wzetbtbZ9BoHrKiIYOrphxpycGq/FrZC3NJjpusTE4Y8NjT+wTEx/NltAxD9eTC+evyn/Tn+07L4p6x1/BX2Pg==;ySZID/8v6q5NKNKbsxnZDg=="
+secured: "OPVlR6phgfZWd4DLBA5GfLwwvnCcY/ndTBPJtRLPZ6C2A9ZYznQmqRwgb3bXSknw8lBx3zQ+vY17eurv+dz/KfFME4ZIHFkkoJXtL7yo0RTZgHLq3IaAjrYNk4XjTDZmFd3HUcpnaIIpzZFmZUUq99C1BYzfYu0joBH1Oc6e9VcvgCC82GVN2cePiI/ghEx4yiBle+1/RI+LgjGs8oN/k9wUAsxDIyPCQZurxoidy/VcZD0rOrLv9lCKVZlY6mKF4CKmTYNN5Zwe1wN2o+YAbrD67C7HmbbDPp6JYgZ21wV0BESMgO3m/on05EjI7FhxJKEU38RuQ1vlmccXbEjLkmPPFbWr8KEDywP725iOwN7uAZ+Eg5eE46Cmt54V0XnDeBsF1V+oGHGFj44/+9gOWA==;otz8cWuSDlia+zdZX5GtYw=="
 ---
 
