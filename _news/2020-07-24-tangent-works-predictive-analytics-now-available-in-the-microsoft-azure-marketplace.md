@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Tangent Works' Predictive Analytics Now Available in the Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers worldwide now gain access to TIM, a predictive analytics solution from Tangent Works, to take advantage of the scalability, reliability, and agility of Azure to drive ..."
-publishedDateTime: 2020-07-24T13:17:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace/article_b03fb881-eb63-5744-99a6-90d2c9aa5c01.html"
+excerpt: "Microsoft Power BI, Azure Synapse analytics, Microsoft Azure IoT, and Azure Machine Learning in forecasting and anomaly detection use cases in many industries. With TIM, customers can benefit from ..."
+publishedDateTime: 2020-07-24T13:19:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-1029428765"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-1029428765"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-1029428765"
 type: article
-quality: 30
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/2f/c2fefe6c-c0e5-527b-ba10-0c9af861210a/5f1ae2bbc1ad0.image.jpg?resize=400%2C300"
-    width: 400
-    height: 300
-    isCached: true
 
 related:
   - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
@@ -164,6 +164,20 @@ related:
         width: 854
         height: 446
         isCached: true
+  - title: "BitDam's Advanced Threat Protection Now Available in Microsoft Azure Marketplace"
+    excerpt: "BitDam's Advanced Threat Protection Now Available in Microsoft Azure Marketplace  - BitDam has announced the accessibility of its Advanced Threat Protection in the Microsoft Azure Marketplace. FREMONT,"
+    publishedDateTime: 2020-07-27T14:48:00Z
+    webUrl: "https://www.cioreview.com/news/bitdams-advanced-threat-protection-now-available-in-microsoft-azure-marketplace-nid-31683-cid-145.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 32
+    images:
+      - url: "https://www.cioreview.com/news_new/sliderimage/2g2rf.mag.jpg"
+        width: 300
+        height: 350
+        isCached: true
   - title: "Foxit Document Transformation Services Now Available in the Microsoft Azure Marketplace"
     excerpt: "Foxit Software, a leading provider of innovative PDF products and services, helping knowledge workers to increase their productivity and"
     publishedDateTime: 2020-06-30T12:03:00Z
@@ -225,6 +239,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "qDociBtJFIuiDOz0LyH7nHb2xCYfAgWh8AZliWKEVWYiPZ1jnOzS2x7wk91Zfs0w/BiP6iE92uDlHDw15xnemUKn8QJXLd9TI7w79Y+EpXlkfU7ThXAyzhmMDSEjrgiylo3f2f0KwqIGDXqqk7qROVA9LPDy+Qy7/52XV9EjiU/zX7ddJgWjzd90zaGBsZb/KIDo757KZtF7L4JmjmJhToug+QytwFmSsfAilOgVkGaycUZ9LNi7XIiGyYC5WHmsSwAbsukRTkKzlNUOYP/t45/Mc7DFngQDW0Q9RxmhEEwUoTNFRAINKpriXM8lpmnBaIbFxb6Dt++czJjIJsugxw==;CRW5RYugX3sg9ebrBU+C9Q=="
+secured: "CH8XR1lwQ/BYCkWfikFl0lbWqdVHzYRacCQSMgeLer5mXA87HyUC+i6ajFoh9s0i4nMAzmFlqN/Ke1WAg2x5I+jZY2/Bs9vhUOAcBfHgqFUdjhBuNIYDR/6/M/qGw3w9Os78MP3CnkfGH/anpqDoIjTZjsdSz4h+vViBBsvrB5nW8NEzu2YIlEHkmSh9kTUACVmu1YxbN/05nbtpBfAxZsJFxwMud2vL5jTTORRIByVesdGg50yBVLx7Z8VG31FOfG1oRuiyrcDAijfHGXUiQGiUk03g/W6SbuyGxes2HreYueOrQi0tby8bKRX7ke43iouDWFztD8GvHZX+5DRRXQ==;0xOJ4xEp1UjTHfSejc9tEQ=="
 ---
 

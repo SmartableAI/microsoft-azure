@@ -31,16 +31,14 @@ related:
       domain: microsoft.com
     quality: 68
   - title: "Netreo Announces Release of Microsoft Azure Kubernetes Service (AKS) Monitoring and Management Functionality"
-    excerpt: "July 23, 2020 (GLOBE NEWSWIRE) -- Netreo, the award-winning platform for IT infrastructure monitoring and management leveraging AIOps, today announced the release of its Microsoft Azure Kubernetes ..."
-    publishedDateTime: 2020-07-23T18:19:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/07/g16756904/netreo-announces-release-of-microsoft-azure-kubernetes-service-aks-monitoring-and-management-funct"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16756904"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16756904"
+    excerpt: "Netreo, the award-winning platform for IT infrastructure monitoring and management leveraging AIOps, today announced the release of its Microsoft Azure Kubernetes Service (AKS) monitoring and management functionality."
+    publishedDateTime: 2020-07-23T18:00:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/7964710/netreo-announces-release-of-microsoft-azure-kubernetes-service-aks-monitoring-and-management-functionality"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 18
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "gvGlnLRpzyP9N+mnKx2DFsiwRtEXqXIsEnVqCSumb01hkNWuP8fYgLj5brqHHyo2VWpDuwt8jrdlJvToK/Rean49XKt8ugnjrQ7jLnlX0w0x1fiS19HJbPVP3RH79W/JJJm2Fs1Fu8yfAk7YtWWTHkqTGHrnMUQuQdFx3dHV9n2dy+h5pDlM2HXpnCZzQzrriVNNQV9EcqN6Z0PGXFDa+ztkVyztRpAUgLmI2iIIUUANOnZctuOjlngYrKv9siVqTIKNKRctag8Ix2pbNugkUWfnl5VbKBxrZcHHRZhmvaJ6lnwCuU2HXidIkonSYy9FTtRrMKWb4oF/o1UUPQ6A/w==;9SQ8OtM8jTJGbP5GSFzN2A=="
 ---

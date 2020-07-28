@@ -1,29 +1,26 @@
 ---
 category: news
-title: "Zixi Now Available Through Microsoft Azure"
-excerpt: "Zixi Broadcasters will be deployed on Azure using ZEN Master, a control plane that enables users to manage large-scale configurations to orchestrate, analyze, monitor, alert and report on live video streams and devices across the Zixi Enabled Network."
-publishedDateTime: 2020-06-17T14:56:00Z
-webUrl: "https://www.tvtechnology.com/equipment/zixi-now-available-through-microsoft-azure"
-ampWebUrl: "https://www.tvtechnology.com/amp/equipment/zixi-now-available-through-microsoft-azure"
-cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/equipment/zixi-now-available-through-microsoft-azure"
+title: "BitDam's Advanced Threat Protection Now Available in Microsoft Azure Marketplace"
+excerpt: "BitDam's Advanced Threat Protection Now Available in Microsoft Azure Marketplace  - BitDam has announced the accessibility of its Advanced Threat Protection in the Microsoft Azure Marketplace. FREMONT,"
+publishedDateTime: 2020-07-27T14:48:00Z
+webUrl: "https://www.cioreview.com/news/bitdams-advanced-threat-protection-now-available-in-microsoft-azure-marketplace-nid-31683-cid-145.html"
 type: article
-quality: 57
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: TV Technology
-  domain: tvtechnology.com
+  name: CIOReview
+  domain: cioreview.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/b4pDwTCQEtLC6nRcpfpfYB-1200-80.png"
-    width: 752
-    height: 423
+  - url: "https://www.cioreview.com/news_new/sliderimage/2g2rf.mag.jpg"
+    width: 300
+    height: 350
     isCached: true
-    title: "Zixi Now Available Through Microsoft Azure"
 
 related:
   - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
@@ -48,6 +45,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 70
+  - title: "Zixi Now Available Through Microsoft Azure"
+    excerpt: "Zixi Broadcasters will be deployed on Azure using ZEN Master, a control plane that enables users to manage large-scale configurations to orchestrate, analyze, monitor, alert and report on live video streams and devices across the Zixi Enabled Network."
+    publishedDateTime: 2020-06-17T14:56:00Z
+    webUrl: "https://www.tvtechnology.com/equipment/zixi-now-available-through-microsoft-azure"
+    ampWebUrl: "https://www.tvtechnology.com/amp/equipment/zixi-now-available-through-microsoft-azure"
+    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/equipment/zixi-now-available-through-microsoft-azure"
+    type: article
+    provider:
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 57
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/b4pDwTCQEtLC6nRcpfpfYB-1200-80.png"
+        width: 752
+        height: 423
+        isCached: true
   - title: "Adverity Now Available in the Microsoft Azure Marketplace"
     excerpt: "Adverity is a leading force in intelligent marketing analytics and business-ready data. Marketing data is a critical asset in helping businesses pivot, adapt and grow, but data complexity is hampering success due to the lack of understanding and ability to incorporate meaningful insights into positive outcomes."
     publishedDateTime: 2020-07-01T15:37:00Z
@@ -162,20 +175,6 @@ related:
         width: 854
         height: 446
         isCached: true
-  - title: "BitDam's Advanced Threat Protection Now Available in Microsoft Azure Marketplace"
-    excerpt: "BitDam's Advanced Threat Protection Now Available in Microsoft Azure Marketplace  - BitDam has announced the accessibility of its Advanced Threat Protection in the Microsoft Azure Marketplace. FREMONT,"
-    publishedDateTime: 2020-07-27T14:48:00Z
-    webUrl: "https://www.cioreview.com/news/bitdams-advanced-threat-protection-now-available-in-microsoft-azure-marketplace-nid-31683-cid-145.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 32
-    images:
-      - url: "https://www.cioreview.com/news_new/sliderimage/2g2rf.mag.jpg"
-        width: 300
-        height: 350
-        isCached: true
   - title: "Foxit Document Transformation Services Now Available in the Microsoft Azure Marketplace"
     excerpt: "Foxit Software, a leading provider of innovative PDF products and services, helping knowledge workers to increase their productivity and"
     publishedDateTime: 2020-06-30T12:03:00Z
@@ -237,6 +236,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "L1mKw3SQNkLdLPk1PaLX9ULLcWvqg70fwPQc5U9muEbIH5teFG7EEmB/DkHDABcfviXHYY6mBqm1LSDSS0XI+LelHbUIxSi4xMRPtw+8loKt/+v5Wawu237q+DArFzSdJYYFnfKUvBJIWJvqP7MH3FUGSnJlATAj6RApsUJcBAU9XzB2dhDSlNEH6etVMKkP+efQbLSbO0tw0Os1/lbKXeZsYgTMNErAyHpcQoExYMH1dJibO6LT5IYj42p+klAN9sdDokNH5RhA7EAA794QqIvSYTs/kicU++O+4AKeWAPo7wsYFvbcBfqin689yUINkTe1V4sMbwAS8SAZYawLFs3FEzpWm2BOu9LztQQGmXKgO+KlO5uJZksEdlzOqwj2aeiJs++FPRBdZe4O9+jikWAFIk2vWYwpxgMg2F3qNaq3A5ihpZEnrKtb+iZsrZt13eK+UjA+E5EbsiE/eqnsrRPB4tIo9/iMVWx8EDFDYvUa9rcdYuTN6OtsKZcXROa/TaGdBJ/M8c65YxBc7ZRSmg==;T+8AEWQ4Tss6kM/6BXlO3w=="
+secured: "9hDe/8W8Ud/dDV3YRSlQCd/wuv0PkRimmOHPRHwxrxtQUCOBEs4zkXgjhE7Q1eKQuspQI0BBffVBJn85EWF7UXQwNpmDJCYAjvXIcoBM1mVDweISo0ZaXaFyMhfifpAG5NYIACdKvRg4rRdWpGh/HZIaWPUyoeUrxfy6iMXQMBx1yXdJEdtkjw2qGtZ1hv0Ca4Rx5wA7VPJB4ROdynL343JFay2duCZQz9+YrCwr/E9qx9BOcdISjD2E2heu6krTIMogQZsygA+JcDMK4O90TOd1ydyGmwzF3b+LejIJV6bLzqA+nztbxpz3mTdJBoH6sTLK3oGxRbL2FkVe6cnsHQ==;gs3NyBT4ZKHg/4zgKQKeZA=="
 ---
 

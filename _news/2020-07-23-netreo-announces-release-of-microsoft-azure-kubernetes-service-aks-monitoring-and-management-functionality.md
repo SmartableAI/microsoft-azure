@@ -1,19 +1,17 @@
 ---
 category: news
 title: "Netreo Announces Release of Microsoft Azure Kubernetes Service (AKS) Monitoring and Management Functionality"
-excerpt: "July 23, 2020 (GLOBE NEWSWIRE) -- Netreo, the award-winning platform for IT infrastructure monitoring and management leveraging AIOps, today announced the release of its Microsoft Azure Kubernetes ..."
-publishedDateTime: 2020-07-23T18:19:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/07/g16756904/netreo-announces-release-of-microsoft-azure-kubernetes-service-aks-monitoring-and-management-funct"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16756904"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16756904"
+excerpt: "Netreo, the award-winning platform for IT infrastructure monitoring and management leveraging AIOps, today announced the release of its Microsoft Azure Kubernetes Service (AKS) monitoring and management functionality."
+publishedDateTime: 2020-07-23T18:00:00Z
+webUrl: "https://www.morningstar.com/news/globe-newswire/7964710/netreo-announces-release-of-microsoft-azure-kubernetes-service-aks-monitoring-and-management-functionality"
 type: article
-quality: 18
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Azure
@@ -38,6 +36,6 @@ related:
       domain: microsoft.com
     quality: 68
 
-secured: "/GibB+dGA6PPlK9kPhsHFBnoYplyYKQD0qO/UYGuN82lu+hEHxt2/5aCLwRSixCheN07zrv4lkxhS1nXi7pVVzMr3kpc0PkoQS0mtiEyOnvsnENta3kKNdWz75NfcOrHuJjzzRhTFt+GxKRSwuzxcZveoeROAjZF0LU1YZxuADEvtMhYszTim37nsGAR/Lq4IyhYO0fYGxSkmb+kqIBXWUADNeWCScKKUlQJHUFKltGGKIMBWXCeARq8UdNcKnBK0lgHRdPG+olGwV3H2rSgWmF/+5nFEAIdpYQcEOULn8HJ9VtpmvFDcM/O0mSG8I6UtLehPi+kLAQATzMmgIml0A==;XRzQEiBtSgcu4FRnWF/k9g=="
+secured: "aJd8CwNzHWB4sNv2Kv7ZT368TDyb4hzlFBbLmrk+18y43lvR0mT0JhUV7771ddKE41COjxh6Zpi43HpVMn2r9sibG43cEk2RplimB+GvsiVcqiJ46C0Yns3mzldqalI1auVuZsRS77KrU8AnEuFVhsWGibbTHXWvy7OHY2XWKUOrMY2FFz4szhYNM6Z2AJI4jn87J+azhBuBiQGz7CWBJcpXLNmMb+DHjEp6ZdWBcQSDgq30C/Xg5YCq4CYqGb87WrfNVNXKFW1Txard0pRD3Mee3X8E8xn+m4lCIinCkyg1h8XITwqy+//Q+9YtMtbvbCTpSw8ngEGhraoFZWYYXw==;MMr6PWifDETOMghSwewvhA=="
 ---
 
