@@ -71,24 +71,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "New memory- and compute-optimized hardware options in Azure SQL Database"
-    excerpt: "M-series, a new memory-optimized hardware option, and Fsv2-series, a new compute-optimized hardware option, are now generally available in Azure SQL Database. "
-    publishedDateTime: 2020-07-21T21:22:34Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-memory-and-computeoptimized-hardware-options-in-azure-sql-database/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 76
-  - title: "New memory optimized and compute optimized hardware options in Azure SQL Database"
-    excerpt: "New memory optimized and compute optimized hardware options are now generally available in Azure SQL Database."
-    publishedDateTime: 2020-07-23T16:04:22Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-memory-and-compute-optimized-hardware-options-in-azure-sql-database-2/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 72
   - title: "BitDam Advanced Threat Protection now available on Microsoft Azure Marketplace"
     excerpt: "BitDam announced the availability of its Advanced Threat Protection in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. BitDam customers can now take advantage of the productive and trusted Azure cloud ..."
     publishedDateTime: 2020-07-22T23:20:00Z
