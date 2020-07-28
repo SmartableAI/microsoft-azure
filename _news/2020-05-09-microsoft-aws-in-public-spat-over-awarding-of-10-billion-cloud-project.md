@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thenewsminute.com/article/microsoft-aws-public-spat-over
 cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/microsoft-aws-public-spat-over-awarding-10-billion-cloud-project-124232?amp"
 type: article
 quality: 41
-heat: 141
+heat: 41
 published: false
 
 provider:

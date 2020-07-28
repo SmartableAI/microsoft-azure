@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-23T13:54:00Z
 webUrl: "https://www.nasdaq.com/press-release/verizon-business-to-accelerate-iot-solution-creation-and-deployment-with-microsoft"
 type: article
 quality: 48
-heat: 88
+heat: 48
 published: false
 
 provider:
