@@ -61,6 +61,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "6L51jOLB7GqXx58HVIb8ITEDw+NfFnTIpVNmgRGLDni5pZp41DxoFCR/GSC7nBiA2CG94d85r9IUinljQalgObAeObcsgajwDffq2SxoC2HKTxojNA/UCsJtjMS6qt7gRjD+nP+gxh4Abw1F4ycJF5oIbNMoHhPEBMDYjnCO1a30oUwhr+t7bNz7xd7lf+r3GdTi4Ti/yCUl97XB5ljkIFtUyix9RLyJa3asatN2VdyB03V+8JGp1khlCYXU6Ik5p6v//w2ggUoNFQMZ7m1EG49JxLN2G7xJT6rhi6FNN8MVMLaNKekUrJOelFmKgogn+5v7SmGNMmTTudmo+Bmaiw==;hzNu8gzCp930B0fv/k8k7A=="
+secured: "n7ToEzowN0RCZ19Aqj622bniDYsHneOzOApTgh4w3GhneQuQMY3cu2MKXqoUsMhln+BjirGgRRCJuYZXC94mt8llhOva6OXKw55yT6gVExMQWl3gy+vMsZgKZCJlHS6DXM1GnnhDeiHRm9x+9FxetAWtZ3J6QN2FIfBZuD4yNn2gh5x9z+GUyuELzBsulHvrPmA8J+t7RHM+Uii+JlBywaUG4E/n2FzKPnnwcGuPJBLx3RKf14TBEEZoVhVXRpHRNXWDaBn4GmlAM59+Drb5YWmoKYygMrPsQn+dqhX/2fU7RaRLzd56JLqn1QtOWYbq/V6Ps0Z9pRJP1THQL6/5Bw==;uMRdI2pKdO0jP6LbbbN9ow=="
 ---
 
