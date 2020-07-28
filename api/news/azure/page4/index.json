@@ -2,6 +2,46 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-06-24-wildcard-indexes-in-azure-cosmos-dbs-api-for-mongodb.md",
+      "title": "Wildcard indexes in Azure Cosmos DB's API for MongoDB",
+      "excerpt": "Wildcard indexes in the Azure Cosmos DB API for MongoDB, a popular MongoDB feature introduced in MongoDB version 4.2, are now available.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/wildcard-indexes-in-azure-cosmos-dbs-api-for-mongodb/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-24T09:01:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2020-06-24-case-insensitive-string-functions-with-azure-cosmos-db-now-available.md",
       "title": "Case-insensitive string functions with Azure Cosmos DB now available",
       "excerpt": "Case-insensitive support in Azure Cosmos DB was released for the following string system functions—Contains, EndsWith, StringEquals, and StartsWith. ",
@@ -1287,56 +1327,6 @@
       "topics": [
         "Azure",
         "IoT"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-advancing-microsoft-teams-on-azureoperating-at-pandemic-scale.md",
-      "title": "Advancing Microsoft Teams on Azure—operating at pandemic scale",
-      "excerpt": "“The COVID-19 pandemic has reset what it means to work, study, and socialize. Like many of us, I have come to rely on Microsoft Teams as my connection to my colleagues. In this post, our friends from the Microsoft Teams product group—Rish Tandon (Corporate Vice President), Aarthi Natarajan (Group Engineering",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/advancing-microsoft-teams-on-azure-operating-at-pandemic-scale/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c229cba7-597c-46dc-8545-7f42706d8c55.png",
-          "width": 640,
-          "height": 426,
-          "title": "Advancing Microsoft Teams on Azure—operating at pandemic scale",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-16T01:00:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Developer tools"
       ]
     }
   ],
