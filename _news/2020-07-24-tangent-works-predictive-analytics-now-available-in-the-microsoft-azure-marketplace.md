@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Tangent Works' Predictive Analytics Now Available in the Microsoft Azure Marketplace"
-excerpt: "Microsoft Power BI, Azure Synapse analytics, Microsoft Azure IoT, and Azure Machine Learning in forecasting and anomaly detection use cases in many industries. With TIM, customers can benefit from ..."
-publishedDateTime: 2020-07-24T13:19:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-1029428765"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-1029428765"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-1029428765"
+excerpt: "Microsoft Azure customers worldwide now gain access to TIM, a predictive analytics solution from Tangent Works, to take advantage of the scalability, reliability, and agility of Azure to drive ..."
+publishedDateTime: 2020-07-24T13:17:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace/article_b03fb881-eb63-5744-99a6-90d2c9aa5c01.html"
 type: article
-quality: 70
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/2f/c2fefe6c-c0e5-527b-ba10-0c9af861210a/5f1ae2bbc1ad0.image.jpg?resize=400%2C300"
+    width: 400
+    height: 300
+    isCached: true
 
 related:
   - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
@@ -239,6 +239,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "CH8XR1lwQ/BYCkWfikFl0lbWqdVHzYRacCQSMgeLer5mXA87HyUC+i6ajFoh9s0i4nMAzmFlqN/Ke1WAg2x5I+jZY2/Bs9vhUOAcBfHgqFUdjhBuNIYDR/6/M/qGw3w9Os78MP3CnkfGH/anpqDoIjTZjsdSz4h+vViBBsvrB5nW8NEzu2YIlEHkmSh9kTUACVmu1YxbN/05nbtpBfAxZsJFxwMud2vL5jTTORRIByVesdGg50yBVLx7Z8VG31FOfG1oRuiyrcDAijfHGXUiQGiUk03g/W6SbuyGxes2HreYueOrQi0tby8bKRX7ke43iouDWFztD8GvHZX+5DRRXQ==;0xOJ4xEp1UjTHfSejc9tEQ=="
+secured: "2rMDBPfUIexLpnGEElv2TEs5Sdj0jw9t3fRIecwREwQH2uIVoiAlJw1J8iEE5noETXhC4vCwX9lM8kqzCn2q77mP41BjMiFBMKhtc+hvz5y4VQZwyvo+OyUVzUntGTx7J9mbRqsjDGyNHDFU6bUqNVHnUkozX++etYxrS1DYZkpMzd5ttuXKMd5nKvwAw0Q7x2QRNjDiwa1q1OmFcyg0K945uDslUH5kXrh33Cj/DjlYC1PPOda4UYea4vXhBLvFbWA91l+0QkukIZYZfcK4tjj+wdYZ6py3od7Jakk9X8xf+wt+apfgTDdWPSjp1xJgP2y7kPw/Ol3HthNqUNAUIQ==;p/TmtKtfSqK3nN6j/l5Zlg=="
 ---
 
