@@ -18,6 +18,7 @@ items:
   - courses/microsoft-learn-intro-to-docker-containers
   - courses/microsoft-learn-intro-to-kubernetes
   - courses/microsoft-learn-intro-to-azure-kubernetes-service
+  - courses/microsoft-learn-aks-deploy-container-app
   - courses/microsoft-learn-aks-optimize-compute-costs
 
 levels:
