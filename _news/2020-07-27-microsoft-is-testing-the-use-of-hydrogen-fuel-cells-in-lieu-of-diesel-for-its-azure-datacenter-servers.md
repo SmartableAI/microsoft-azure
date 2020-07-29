@@ -45,6 +45,20 @@ related:
         width: 1280
         height: 800
         isCached: true
+  - title: "Microsoft Azure Stack HCI"
+    excerpt: "Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here. Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here."
+    publishedDateTime: 2020-07-29T19:17:00Z
+    webUrl: "https://www.crn.com/2020/07/29/microsoft-azure-stack-hci/4rB6NDMQd1Vug6GrJ7ZOU/index.html"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/025b-0eff6361f68a-29cd08758548-1000/1azurestackportfolio.jpg"
+        width: 515
+        height: 305
+        isCached: true
 
 secured: "bAPI9c06TBVHDOELr6k5lPe+/1K6rYMSPgYOGBqjXSa7RuhMQznVJaYNxjBliLrWVlwk+ZtYIHOV9dbgr4aV0pkxjLEZgxtzs3kubYak1otPcG018V8ugLjplBm/4dg0QpdrdX3764NVde2iqERiKfSNc7pCCBsYWNEZFDn0Tq+MetLy9uMdIL3Io9bO9XkeSByZs3nnBu+7rM14bohjcIOR4re4Z3A63Gm8YFTQH5BYQRbdy45FSM/6jZvLRk9kizgmvvT006RTvmYHThEo0U8kwC5x7lRjS1lajTXV9C6RXBN15tgrzAFk/doFtBUySdIw9BObrPKtDAuYAhSAeGG5X8+ktzlzsVUbFwZKqozGtlWc5tn/zE/NXzxYnAPyhRUz0ubSkUoCayVR1Wig2UKl1uXnP5P14i+Mlmdr4I9cc0mUIpgWZfo2aYKO2ax/XA7kbMytQWNFqQTtWBdIrYYmueOqwIud9Yz4vlASkKhwqzuqbiJA1Z6DEXRJUE03C0tTgg/gZSYhubSPFPNfqg==;8K4bq7AGZFF5vSfYG4oVZg=="
 ---
