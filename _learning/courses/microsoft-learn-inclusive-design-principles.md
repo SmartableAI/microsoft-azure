@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT33M
 ratings:
-  count: 13
-  average: 4.4615383
-heat: 50
+  count: 14
+  average: 4.5
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Design with inclusivity in mind"
 
-secured: "gW/oHScFKhehBnDS2tmk6oWuGksUevEjq6qLNl9ru1VgAfo8CKnSS8MLhDTZsiHj1rg7oO7sHu1UKGryfQDkXMckve8nmEL/uLlBhqXhMZM28AZBPcbEqsrJ+gpxLxQt2ZNiOCujl8s0hXeWHzZdCFNFj1worRv6T1IxSq0k+LvCA6uN7iq0k3gjlJTI+Ny5lul03dFJo9ZyPpKDDKXYJAO3OtsumA0RX0dzKL1n7t3gxZ9vhJ5XPJZJ2K/ARfAIfoPN7elDYz4GXZr0XbGVqazhvDoUPlpM8pIROMgG7kuN4veGJ1Ts9y8P9Z+tAeIBDAYr49vRkj8+UNSXC9/SelnvGKjfpW8UKCCiTEZhufA4YbJhjLbaSwuSeHLI4ae6jH95JU33OEE0wmJ7osto8A==;IUj2p+busfytk/pK2Viuzw=="
+secured: "kxkXPaMi62EMrDaO3iro1pM96pfmEudNQqT6z12PW33pFGJ1GC0g52AHni8jQ11Bpg88aUOteIxtplhEYmGe8Jf3avEVgA4PvOS2t+0NdOwxTqMVict5o00tSvNehs5MrTPZb7QWXuiEa922Fw2KQYFsH63stp4cDekF/bjm+wYh0DjJbXia0A0KIGrUa9vkBVjMdcvvugmYl2u6WvJQt9WOwo2gLGsJIMb8f70gD6GJQRUNfwnIeL/9gb+rSDSFOM0pWO7Z9zl9UDp/V9RFWdGyVEplhlqXVw0EkU/av1uyvGGm4GlQxdf56fEKrkyoK8NxhaRRCeqoCH+FyEOrgrRPTXWlryek9rZl9creleROolo3e8sZVtGqOhyxERkS1vuM4DXRKq/NYAUZu4oe/Q==;R7e7AdVVNszr/aRj1DTMDQ=="
 ---
 

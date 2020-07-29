@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 82 mins
 ratings:
-  count: 14
-  average: 3.9285715
+  count: 15
+  average: 4
 heat: 50
 
 provider:
@@ -36,6 +36,6 @@ images:
     isCached: true
     title: "Build a Web App with Refreshable Machine Learning Models"
 
-secured: "E9UlSgF3QuJnSkq+AGbACSs5lVOfSJL4P61CHFUIRjgHDKpyHV5p0MCjGNLj7jDYf+qT5Yr0iDQlYrNuJTkicVzYjc8N/Ye57bFEmSpPemGh9LvvhSCuiraQooDtSVc4jlOtgEyauJDB1uKO6pkAvzmx87cxNc1UYlIUQtCqZKk/2yd5VKLAWtar10Xtc0EDi1tvI1tvOoP71jQpxJdDsQXwJkAlxmAQuSHIJbX1JLMQxFkilJ3aVYT0ZG3grTCUDEHwmMmvO4eIRQL61oaq7G9XgSfURHt+HDJZDdhcGtHshhKa1Lp8Dc94vnnW3Gd4MeopM1kS/YM9Q1FKBDD7oJIe0tRqpm/TYiA5ocQFrvaY2vewIo3zonEUZY4h3MTlVLyr6FPzLJ9orU3bZ4P+1g==;d72shFJKCjkq1Qh1hrrjyw=="
+secured: "uYar5oCRJIXGnMMR3+Ut7pMzCEt8/IDF81Cdl/H7teGIysXzBKof+bw0FHx50m0xFEJlBQ4EAnTEsZxNMo3RT1bPfQJEMygjISCidrQBaJacpvQ6tWIxklFQOEwV2T2RqH7YX6SKZ5hFeF7pXulIG81nAs2jAshtq9c/m5puTu0E9TLsUqW5oqMnbV11Vo8a+6gLihZHSwRqW1wnTV3nOIseA2TYJK1RbN2yTByHr1myrQc+8jYYmc60CCVj8NQJyrQYk2Jo0khJKH3rNWgPixXaqlLAvehysZ5x6pwKwInVm18yP5Dtmr4NS7Jrj+MUNLxPKcuIEhrTO7w3NRF8TU39aic5vZO+f4nGAjiWzx/aznRaEVp1qUjg62S8lM3r0PPXOyfbusOVNJq4ZCXieg==;OgMqVaPtMhVpFfApJ1LWew=="
 ---
 
