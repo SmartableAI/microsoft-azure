@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Tangent Works' Predictive Analytics Now Available in the Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers worldwide now gain access to TIM, a predictive analytics solution from Tangent Works, to take advantage of the scalability, reliability, and agility of Azure to drive ..."
-publishedDateTime: 2020-07-24T13:17:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace/article_b03fb881-eb63-5744-99a6-90d2c9aa5c01.html"
+excerpt: "Tangent Works today announced the availability of TIM in the Microsoft Azure Marketplace, an online store providing applications and"
+publishedDateTime: 2020-07-24T13:00:00Z
+webUrl: "https://www.prnewswire.com/news-releases/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-301099420.html"
 type: article
 quality: 30
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/2f/c2fefe6c-c0e5-527b-ba10-0c9af861210a/5f1ae2bbc1ad0.image.jpg?resize=400%2C300"
-    width: 400
-    height: 300
+  - url: "https://mma.prnewswire.com/media/1219270/Tangent_Works.jpg?p=facebook"
+    width: 2699
+    height: 1414
     isCached: true
 
 related:
@@ -225,6 +225,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "vw6pJ3mj0lvT1Qn4GOVerwNtiTpwK40eKY+WK/PVtWPjFyQd/Zwn5Mb25pb5z/YaJ1n/5QlPRhh66GAAWvX/qGoNxhCJRpAH6qegzELUZ7IENKbzDDl0EKUiaFaD8IxBj0P47VQXk96vW612yT6TDcFo9XEkV2/2gDcHiYGZdK3gW0+474drOISo9Vig1u7XG5V59IZRRFBU/U2ptQnxbz8VE0U2pFyclwRIajxpzOEzP5gV27dqOvHvNPVbGqcV3fVi3L4XiltwTUtguGeZnK/yBSMEAv3NKGGw0F92pEdv+Va7fyVUUJEyEfpxrU+Y5TaTiD6Kt2XtWVdR6RL4jA==;paWh2FA3S4LsD3hoRmhShw=="
+secured: "yWWxM/IW/biqLrCG/bMuGzgbMtqX3BT0UyXcuDKFTLFKHVltqgCxpSbFsMHQ92NUkeAAksmwV4F72f0gTgbhemTVV8T5HCZFPqeZtjSJ4KhLsAp/0jTBdEhxs06azbdxKuJGUhXzFvAWjrX9yCiT/wcY/lFKeQbpZyA9Agy77OiD5RyppRh0RU3LSSqualUERAkGWLpCZs6XcSM9dR5SDs6y/mhVQUaA/j34MEimTrxu4gzaF91gZ8usroYmLX9RCCYNNcowrnyLNrc+2m6HMCfYfaYmCiIInmPCqZ9pXn9+J6XoL5clIohgNL67nD4ayhgblbDvni3Ue57Z+gHFOQ==;/chkEq/N2xLCme2W1yIUiA=="
 ---
 
