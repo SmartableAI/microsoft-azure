@@ -1,27 +1,28 @@
 ---
 category: news
-title: "Microsoft Azure Continues To Blow Up — So This Video/eBook Bundle Can Help Make You An Expert"
-excerpt: "All together, faithful students could expect to spend over $700 for all this training. However, the package is on sale now for only $29.99, less than $3 for each video and ebook."
-publishedDateTime: 2020-07-06T17:35:00Z
-webUrl: "https://www.extremetech.com/deals/312405-microsoft-azure-continues-to-blow-up-so-this-video-ebook-bundle-can-help-make-you-an-expert"
+title: "Learn Microsoft Azure With 95% off This Bundle of Premium Courses and eBooks"
+excerpt: "With 90% of companies now reliant on cloud services, anyone who understands the technology has a big advantage in the job market. The Complete Microsoft Azure eBook & Video Course Bundle gives you a head start,"
+publishedDateTime: 2020-07-29T00:06:00Z
+webUrl: "https://crackberry.com/learn-microsoft-azure-95-bundle-premium-courses-and-ebooks"
+ampWebUrl: "https://crackberry.com/learn-microsoft-azure-95-bundle-premium-courses-and-ebooks?amp"
+cdnAmpWebUrl: "https://crackberry-com.cdn.ampproject.org/c/s/crackberry.com/learn-microsoft-azure-95-bundle-premium-courses-and-ebooks?amp"
 type: article
-quality: 26
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: ExtremeTech
-  domain: extremetech.com
+  name: CrackBerry.com
+  domain: crackberry.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.extremetech.com/wp-content/uploads/2020/07/sale_29760_primary_image_wide.jpg"
-    width: 992
-    height: 558
+  - url: "https://crackberry.com/sites/crackberry.com/files/styles/large/public/field/image/2020/07/sale_29760_article_image-3enn.jpg"
+    width: 1200
+    height: 800
     isCached: true
-    title: "Microsoft Azure Continues To Blow Up — So This Video/eBook Bundle Can Help Make You An Expert"
 
 related:
   - title: "Learn Microsoft Azure with this $30 training course bundle"
@@ -99,22 +100,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/04SMpjyONF9bbgB7e55Fws6-1.fit_lim.size_1200x630.v_1595319685.jpg"
         width: 1120
         height: 630
-        isCached: true
-  - title: "Learn Microsoft Azure With 95% off This Bundle of Premium Courses and eBooks"
-    excerpt: "With 90% of companies now reliant on cloud services, anyone who understands the technology has a big advantage in the job market. The Complete Microsoft Azure eBook & Video Course Bundle gives you a head start,"
-    publishedDateTime: 2020-07-29T00:06:00Z
-    webUrl: "https://crackberry.com/learn-microsoft-azure-95-bundle-premium-courses-and-ebooks"
-    ampWebUrl: "https://crackberry.com/learn-microsoft-azure-95-bundle-premium-courses-and-ebooks?amp"
-    cdnAmpWebUrl: "https://crackberry-com.cdn.ampproject.org/c/s/crackberry.com/learn-microsoft-azure-95-bundle-premium-courses-and-ebooks?amp"
-    type: article
-    provider:
-      name: CrackBerry.com
-      domain: crackberry.com
-    quality: 54
-    images:
-      - url: "https://crackberry.com/sites/crackberry.com/files/styles/large/public/field/image/2020/07/sale_29760_article_image-3enn.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Course 552241-A: Microsoft Azure Big Data Analytics Solutions"
     excerpt: "A is a two-day instructor-led course is intended for data professionals who want to expand their knowledge about creating big data analytic solutions on Microsoft Azure. Students will learn how to design solutions for batch and real-time data processing."
@@ -200,7 +185,21 @@ related:
         width: 700
         height: 526
         isCached: true
+  - title: "Microsoft Azure Continues To Blow Up — So This Video/eBook Bundle Can Help Make You An Expert"
+    excerpt: "All together, faithful students could expect to spend over $700 for all this training. However, the package is on sale now for only $29.99, less than $3 for each video and ebook."
+    publishedDateTime: 2020-07-06T17:35:00Z
+    webUrl: "https://www.extremetech.com/deals/312405-microsoft-azure-continues-to-blow-up-so-this-video-ebook-bundle-can-help-make-you-an-expert"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 26
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2020/07/sale_29760_primary_image_wide.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
-secured: "elXbqFCV+DdYZs8lp9GxpBnF4ktR2lFmd4JPX9+iuCBnCKhsdehwFcz6MMJw8Vgs4lwsy18SBWF5v7O/9Tsp5KHInRGA5PSNSi4h1CybdgYj1YOgLeXk9cONO3CwCIYUM9PavOej2z1LULJVfSJ5/UWc6JljlB4n89XeUYIVNe8yYJv89Vm/mjRKooA9Yx/emUtt5JdekHCzYEsV8aww4HDvyCDQ3XNkn5zF4SEbbRiWjnUGiIClmiYxRYIW5azIUdniGnIkuLe3cZFUmP2KS2V/gf/KG5V8XVtVgOIm7k/UVp4XPwRsL5cuUm/TQFVeZmKJ2ZXw6RXNtFQ4p7wpX7mgUCJ5x3XB4+zLOUEGUZweOdKpc1M4EgfMlhvofAcVY7vcHCT0jghmVIJGK+Ru74sybUEERNdYdoNsBJAuQlESqPlsJEJdDX7Dha/mJI4t41Yo1h+Jly0eRHnK4L9VJ+DX6NF7JbaW41ipb98swjVO5tnXCe75F0Uj+Hl1Ou0whz88nDe9mbLa12oRecbnQA==;1PV3iaTM/cqjgDXsA06RSg=="
+secured: "Z9i1krnEAKYdZFAwe8jKdEsbwuDKxn+IvUXHPdGMqgyxFgWwuLEf078aEJWI7wCrAh6rkC+pgywgTtFG7Ob5RbnA250OAd2gWmNeYx3OXcRlVw/WWcUZEfTmJgQJHTtFiBWkgdWuVblftRqCGWACcmY1Lg/0/AQPpuOGwA8GlAJH85Ry59iZDrJvktAGfDjSi7dX3jKwTVoDDGZLv62jUUr94lcLhhaR1me+bajJvhvgoMSj9pI+XZlvfLeoEh3Oe0cZeXP/g4xVgded+ERGC+IhfGP0WdXPEG64/X/DrVDZBhr/0BRYsmy/Zrpvzc+mWSuZxyv/YKADWPoOzEwLsw==;UKn7mFW1NR4zBbEMi89D9w=="
 ---
 

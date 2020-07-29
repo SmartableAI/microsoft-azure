@@ -104,6 +104,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Learn Microsoft Azure With 95% off This Bundle of Premium Courses and eBooks"
+    excerpt: "With 90% of companies now reliant on cloud services, anyone who understands the technology has a big advantage in the job market. The Complete Microsoft Azure eBook & Video Course Bundle gives you a head start,"
+    publishedDateTime: 2020-07-29T00:06:00Z
+    webUrl: "https://crackberry.com/learn-microsoft-azure-95-bundle-premium-courses-and-ebooks"
+    ampWebUrl: "https://crackberry.com/learn-microsoft-azure-95-bundle-premium-courses-and-ebooks?amp"
+    cdnAmpWebUrl: "https://crackberry-com.cdn.ampproject.org/c/s/crackberry.com/learn-microsoft-azure-95-bundle-premium-courses-and-ebooks?amp"
+    type: article
+    provider:
+      name: CrackBerry.com
+      domain: crackberry.com
+    quality: 54
+    images:
+      - url: "https://crackberry.com/sites/crackberry.com/files/styles/large/public/field/image/2020/07/sale_29760_article_image-3enn.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Save 95% on the Complete Microsoft Azure eBook & Video Course Bundle"
     excerpt: "We have a great deal on the Complete Microsoft Azure eBook & Video Course Bundle in the Geeky Gadgets Deals store this week, you can save 95% off the"
     publishedDateTime: 2020-07-07T12:10:00Z

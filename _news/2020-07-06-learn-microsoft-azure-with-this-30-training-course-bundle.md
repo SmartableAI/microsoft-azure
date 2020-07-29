@@ -8,7 +8,7 @@ ampWebUrl: "https://mashable.com/shopping/july-6-microsoft-azure-training-course
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/shopping/july-6-microsoft-azure-training-course-bundle.amp"
 type: article
 quality: 97
-heat: 317
+heat: 337
 published: true
 
 provider:
@@ -84,6 +84,22 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/04SMpjyONF9bbgB7e55Fws6-1.fit_lim.size_1200x630.v_1595319685.jpg"
         width: 1120
         height: 630
+        isCached: true
+  - title: "Learn Microsoft Azure With 95% off This Bundle of Premium Courses and eBooks"
+    excerpt: "With 90% of companies now reliant on cloud services, anyone who understands the technology has a big advantage in the job market. The Complete Microsoft Azure eBook & Video Course Bundle gives you a head start,"
+    publishedDateTime: 2020-07-29T00:06:00Z
+    webUrl: "https://crackberry.com/learn-microsoft-azure-95-bundle-premium-courses-and-ebooks"
+    ampWebUrl: "https://crackberry.com/learn-microsoft-azure-95-bundle-premium-courses-and-ebooks?amp"
+    cdnAmpWebUrl: "https://crackberry-com.cdn.ampproject.org/c/s/crackberry.com/learn-microsoft-azure-95-bundle-premium-courses-and-ebooks?amp"
+    type: article
+    provider:
+      name: CrackBerry.com
+      domain: crackberry.com
+    quality: 54
+    images:
+      - url: "https://crackberry.com/sites/crackberry.com/files/styles/large/public/field/image/2020/07/sale_29760_article_image-3enn.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Course 552241-A: Microsoft Azure Big Data Analytics Solutions"
     excerpt: "A is a two-day instructor-led course is intended for data professionals who want to expand their knowledge about creating big data analytic solutions on Microsoft Azure. Students will learn how to design solutions for batch and real-time data processing."
