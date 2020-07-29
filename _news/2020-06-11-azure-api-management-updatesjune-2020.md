@@ -63,6 +63,20 @@ related:
         width: 1583
         height: 858
         isCached: true
+  - title: "Azure Cost Management + Billing updates – July 2020"
+    excerpt: "July introduces new options to drill into your cost data, save on Azure VMs and Data Lake storage, as well as new videos for even more cost-saving tips and tricks. "
+    publishedDateTime: 2020-07-29T10:00:28Z
+    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-july-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/11de86e7-4e6f-4cb8-bae6-8e6f6de9f9c5.png"
+        width: 1385
+        height: 831
+        isCached: true
   - title: "Azure API Management update—May 2020"
     excerpt: ""
     publishedDateTime: 2020-05-07T20:00:12Z

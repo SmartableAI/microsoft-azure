@@ -70,6 +70,20 @@ related:
         width: 1583
         height: 858
         isCached: true
+  - title: "Azure Cost Management + Billing updates – July 2020"
+    excerpt: "July introduces new options to drill into your cost data, save on Azure VMs and Data Lake storage, as well as new videos for even more cost-saving tips and tricks. "
+    publishedDateTime: 2020-07-29T10:00:28Z
+    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-july-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/11de86e7-4e6f-4cb8-bae6-8e6f6de9f9c5.png"
+        width: 1385
+        height: 831
+        isCached: true
   - title: "Azure Cost Management + Billing updates – June 2020"
     excerpt: "Flexibility was the main theme for June, with more customizable budget notifications, a way to monitor your cost recommendations, and automated subscription creation for Azure Government. And of course, these are just a few highlights. Don't forget to check out new ways to save, a new video, and our"
     publishedDateTime: 2020-06-30T09:00:33Z
