@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 45 mins
 ratings:
-  count: 790
-  average: 4.570886
-heat: 53
+  count: 791
+  average: 4.571429
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Run parallel tasks in Azure Batch with the Azure CLI"
 
-secured: "wkMecptLFXgXqi043iODBYR4cv3nRGQRenEyFB70cpeNbKZMoOTIIG+5+2cXSkCqmqD3ug+yp0x7pcC0FKAce8tRQRAbqr/e/I/yQElA0Z6fOc1AjETfU80ostusww8GUJ3SUvcOPIs3xRfTeRJqtfZXJZ0jK1+Qym4+VelwXSfRCFCu8Tq/G2GX9ILV5vO84jWBFcqbz9RQqRS+PbGz0wJkJEpO6/5qCVi8AMOzxhrQWCZSSd7xZnKxUBhzLPHODeH718wpPX9thLgaL5KZrjI6F5x6jyX4SUK8rqKPnI3k4ItR8SK3fBcVPsPl89zsc9gaan94BJnbcdyw+dAYcD2Hp2hYcKi/WYw7HTIziOqhFkLF5oUbiQyJoc6Cz3vrnlK3yMe1aHIMnZZ/D+NwXA==;aTH1rwDPb/rnPiQo6sPPPA=="
+secured: "pvxQP9FylzaU/cylpPsLRg8Y7ZnGxNlpojK5QfmHlK85cUVV8wuFrfM+omYjdX7IR7qXTzip7mBaU9FupbA5EVf7d5rzH0wb6k9XTmdhXQnlM93svabT0tZDlqE5N+lURObGjQU6U2xb/Te8/H1Xv+lmOivnWLnsM/GxTgsml4lTeTjFEsIx4IykcQrYG5hFHm2QX7FTK94M7w7czY2VChgYix6MMhRwcF6LnYve3In10MrI4egQO/Kmyg3DzJyqfSAJrnFj1Gecbc7358NYxs9roRJaiUd3EWkILLt4EJf7hMaKlLALPCvivyOE55wwyR6yG0QLUVnY1CmH0jhwl6xuX1JgoJo0qmO3vTsi64bRZGnbay56r3UWa29TPo8Uosz00ye26DwFcSdBtTfEEw==;81afLuItbzf0gbZ24t8NBA=="
 ---
 

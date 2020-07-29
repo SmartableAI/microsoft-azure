@@ -8,7 +8,7 @@ length: 47 mins
 ratings:
   count: 2357
   average: 4.5706406
-heat: 57
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Design a data warehouse with Azure Synapse Analytics"
 
-secured: "eYZbq4mY6M+ezvyjelMXo1/F1IK0C5EnJMgg0P24OoXzkYIxR5WTUcCIcPNbBCneySbtl+iXVvJdIOgciDB2bPr8BQKDP/yW67UK6r1Y+3jwPjFHgSZWOhkbC1nuQ+Gl+fxNajLYdlTGgtEHHBzZc59OQKT1RSNX9qSEI8POP8O1MJiwAZcqT//QllPv7Xl7v3n5q+vDxDdT3TfAjFlBYQNYV5s5jZ/s2ADPQIkyLHvI38iWCs2uDtXZGju52mlyQDeighA2f95SY0N4PowfDemosVF43tzPiLdC0/gj29ygtlghGgjIIe3Z2MT1pT2KuF/orPpVDe9Q28lXmnHjMsxgJSEiMs7KnKB7d5WXIrmMCI0ADrQdmPYAaCUqCjEWWcM6HzCwtOqR1TeWm8piOg==;1PTIP2WlKUCI3Kp37nLIpg=="
+secured: "XZvWc4WLAELWfSTtxs7FaeaEml6pkls5heHQi9Ye3ZMh0BIAKeE8zQJQ56EoUUvpJ6SaPfiLtkOnRTHpjyrc2spUzTbsf5F4d/f7YPJxEKprrNGqdBWlf6moYzkHke8x3kLtnmZJOXXrlJ6ERxpAjNMT8ir8IKCvo/PnOslUyXt1urVpjTYSOWBPqkilSCwY8IEoW+dus/EB7R0Cu/4lM4tFN7L7u13yYvyfn2x5IgGTMpdXtrfw82Chv7R5wQl/CXvzuLFiwb7ey3MRJI63UaZGURhlgF81SM9ZodRg699vjirMgbIsOi9zGWy/iAOxqER81Iw5z3bXjHS1stPjKtwLzyKB9mc1qWTC42Ctx7dgaGrR5GKQgcWw+WErU4zTP0XvnMsYWswPvJobqeI9RQ==;0ZnsvDs5h/inE9YsJVjMmA=="
 ---
 

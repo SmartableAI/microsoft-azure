@@ -8,7 +8,7 @@ length: PT1H22M
 ratings:
   count: 2834
   average: 4.7254763
-heat: 57
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Run quality tests in your build pipeline by using Azure Pipelines"
 
-secured: "Re1CHhlqngz1SOrGoUXlakFVKhbcv5RasHziDlDKQ4UOT1UdCChb7Nyz7qmlU/28QdBe/qmo5zlEpNxNzQqfC/QEYTsGv3hPxHL7+a39pqstrfZPky7D05/t29VKsMaPHxYKoF2zcGj6jM2EiQWtGITrNZ82A1c402lRC5s04F0Dk1RGalNCwFmAwq/9JeQ3c3RS0lUhjocsoyjK68Ik0IWuhAaiJRNqHKcBBmMo7Sc6C23xeJ3ibIbWW1jGGV8KuG+DnKz6lonZZeDxO4adwhnpgPZirD7XMUW4ypxHB4KggkB+NtVsU/P7Hzw9FvZxsDfpIagoHte0gCATVXEoUiKRWeaFqUXPNhCEWM4rbSY13lZqyvOfmIjycJEJSBaG+4EZ67+h1UNaQR8bQWAb0g==;8drmGn1RO1+jpWadvT/hVg=="
+secured: "Jljn1F7Ap5kDCo9zPCTROzYkoQ3YEXjPz7YMlY0xfh28f30NVpPsDnWa+Bq2GTG3mIqIUojXyPXr2/DDlWS2XB3dfysNUQ/BCqgXTdvbnc/WnEo2mxNxhvm/YCHAy3R+540KUFc3ch13SrKjeRMIqfrE/+e9gR4P87vwLB6pNf3waky3AoA5CkT0weI2XU0nDKAXDHdqbjKyK+c7CK6VlRw4RVB1/R0FQg4UACBULtS/q8HxGiRlkJyhPGWdMJUThryC6RmzFs1UW+tcxZzpnLM4LvlA5TlitL7X8dmFMAPmHisMdNdakw5wf4gNrc5NOp45SHsHJpICaD9Y7C/EI/IVJor6lcP9UYtPACR010fvnydzMMEbRQyVlzvPY3SkqL0EBuRtHqQQ79qF92/Q0g==;083GDZ1htjN8VeNVGcLmfw=="
 ---
 

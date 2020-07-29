@@ -8,7 +8,7 @@ length: 45 mins
 ratings:
   count: 96
   average: 4.5208335
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Manage IoT Central applications with the REST API"
 
-secured: "FM3O3uU1ZdtGud+JPUXEii7xv9Nv4lA/560oSnvyfyUvrut/bvwDkFv6fBOw57yS5xTT5xZ4qpHWI8pkxUAdM+5kWfBacwiivaPh4nKl3G1hmhCIunpnMUhFa6QO6hFycxS2ZPjNMH+/ISyEgY2ZcV3r3tU+o52u/oANTMheuxWIJdyNMPkv7V5cPxoPkMij9z9Cts6oS+wK98nlVF1iI5XjVTLroI8Ms58J5EUUhZSPPDyEa4ppb0Eq1ok6bu4/cLvu/wtnUgEd7WLoDoUaf1InmHXduNfLTTlUgJyGuNx/KoyAK3PA03XPAKvDQMR4wIdKn0tK81Q/zDPHvyaouBpjGIs9QRucZimD4kX2Uy76ZGPl+Cqj0OhuzRepGTDmjKq/0x2ixLh/zlceA922Tw==;kLRuRH8ODuFyavKe0enEiw=="
+secured: "dRZ4DS/jUWBpXw+0EWBAPTO7+AOATptJQl7xZ2ahjaZhWtNZteRNuQ4LtlFb8KcfdCPDR9JPiS7D5Lzqj5D2kpx+Z5GRLJe8Z5DgF5eM78fJsWCGlqf6RHLcc6C0JpYpUC+jq/B3U4zYL0tt99IEXkoQcZ9yAAkl0MqFiRyY+TjBlYu0eXIgFvagH0katnjUBEWfv/wNse1ASvzmRcE8gTLATdMPgkkmvUbH7MGuWQvmXlq2VcEkreDaY9rZwkt2frTr6KJzndurmXl6XbmG4ZAJLjrKpUaerALp0xYNllDQ+KOZaJmSE8CV2Chl5+UD/DIysgu8ge2VFsex95tN8AN7hbL0zRb787OXvuFESNBs3lu8bEYwhEwN2YBgjCAhtGm7skeshLMbY2d3Xxj3PQ==;y33bNyQVm7RIh786459OtA=="
 ---
 

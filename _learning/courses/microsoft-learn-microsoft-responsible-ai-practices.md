@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Discuss practices for responsible AI at Microsoft"
 
-secured: "3k/XWwHW/sLzV28WNyx09mO385MCMs8WxOEATTHethaLsvxOo7OnWKoAeQxSzFrqmDaE/4CGOMAantzhJrnqFB81s28QR8X8E5RZ2sCS+mCXIVHAZ4+VunwaArqC7qvZO7pG5bvZlEf6xqkcg4tkxOyjFlC+DbGf7E0dVXLXat8yk9WIS8Q/n+lU9lvhRxA4vg0e2PWZoRWIilV5vjTqbWTY0tsyelJ8ikNN0cwFaSiuMK6XxtRmhaY/PowSXyY0tW8iahdZWPYNVCqTu28pkqXuIdtAIjbylysDX9ys4mVuiOOjCpXgjxePZ5j/xNw7gx9UT9xhWEINTCDge1dbs7V0FsWXUdznP8y5uzUluysZ686onPIXCLdDNPVDM9h7Gy4okLc9JUt3WL/z0ehs6Q==;jY09vJZGtIdh/OYt6RJNgw=="
+secured: "lW2Kt629hrPYBvUHkni3dzUPkAsOclPgXoWOBdRLnkmlFoG9/RYqXDN2dGPxRSO3EXSlpcfItelrZ0YkDO1Do2bjVY2dCk5AipN8UaOMfPZa/8LBC3GA2DzqOk0Gu/O6EDIdd4KJ6BdIqnPtjkjIRh42G2QPs3b6h1LrFD3Stdyg+ufyV9jmHNozpKfQOA5nam8kGrA+rTn7UujzoNaduoNHhSsJ/3+FAdduHFGANARG49g0d1FuhUWW+6zaHf8hFw/wSGTInpd08ZlZMaj+TI0NsWHcmVWeieXE1mD75pzQwcvhQe5/0Jgm/DEL1Up7+x8FM202+TkZT/FYQntvWQ+Sm9qCbjWXX0ZWhVf+pgUS3OkyH9bOKv16521hSj1iFlQR7Z/P+ZUm7+lqJynsuQ==;lKdXOjIdKvZeD7/j8r31Mg=="
 ---
 

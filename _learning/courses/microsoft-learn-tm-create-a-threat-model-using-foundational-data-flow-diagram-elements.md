@@ -8,7 +8,7 @@ length: 42 mins
 ratings:
   count: 185
   average: 4.708108
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -38,6 +38,6 @@ images:
     isCached: true
     title: "Create a threat model using data-flow diagram elements"
 
-secured: "EDhcXmiZGiwSET6x7EhVX6onw75YvSwn+XApJo24RUFg4xNmTiaRP8lIJYeJznvB4nx6AgleAkfUjgIVDNoLPbTq6tTP/lhUZJkWHYKqOfCYBsTGiJHlXRxpQKqfDs2gLTAYGGkyn0Nd04YEsD0txOiFK5We1pIlYglxs2jE2vgsAzwFOBLdjIpa1N/H1xN4PhwVda3eR4TE7T9N8mV5lfy0wLnmmcVAWDyPbmtDHSFfJxrVPPNZYuQuoeb710GxF7iMa//4H2kUIlwdfMqOSkDLpIF6nDb61ssOkj6JxvS8yreqIU0CBw95r7RhHNP2MktTQ+D5tf17517ZBpj2x3snzD9zF5+xcA8Ylk4cfYCmIg4BK8j9pXtIhnqxI+Cv+mTzA6+H110aBupi6Xz3YA==;jaggiKp1aWVEuRi1jCx/Mw=="
+secured: "cX+TLZAT2N+KzUKCaHE3QpBekUD0VzBdLJs6m0GhgreSJN2Vjv/IMSYpLswzX+VOGkJJyy9AwZLB/fDVLwWbgcwES1JK4piWiH9GFHdaff99f72Y5PnSibFHyu0xMx2/CBH3kkE+OhtAGL4VHSxL1JMJLFIaqge5wpY4qWkUfiqdwtqebGmDSj2y1mptws79TdElVugYS4APP+2sa6LyfyltiIkrLLm3azhsGN5CWygMwOWV7GW6gifh2CZtQeeyFyXVHtpwYgeQQuubQ2eRfZc0X4aEaB8iH4OPk9e4KKLn4Vny9FgiMrvIOvT7phoaUmrKyN0Mib5NGqhq9oQeS90KBBlJ7G7Ps3l75HFIEBJwgBGiotTHzSZ/aPuQ+vGRvG07X4Q0RZzeHZ9A+tFhcA==;OGB0VV5wdVXiLL+A7XmZvA=="
 ---
 

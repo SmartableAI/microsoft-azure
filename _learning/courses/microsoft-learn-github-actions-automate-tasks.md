@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT36M
 ratings:
-  count: 77
-  average: 4.5454545
-heat: 50
+  count: 78
+  average: 4.551282
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Automate development tasks by using GitHub Actions"
 
-secured: "RNWRap1nkBK2yeJEFnB5MTESp9PYs+zgz0PMigQEyhyWA670Qzm+CbakcAjNTUOdeAux+l5LpiRWDiW/IM1l0H0GBsBMwY8w+bM2walS75OH0RG3zPhAcuei0gjVkQONuyFigU7hNVnrRQk++7MBQpFMO6IbvuXCuc41dqKSbReqdydJ4DFGw33yZ+YUPfwDFies2W4kSQm60l50xTmuCzJrNwJwhBEANvyNFoJh4bVJ5NBQJ65mPmivYxxhxyzki7Yb3UZ20Zfbpzoe12SMycQEenQ9lL9I/uuhPIGzssR+DsD8t5WBBpgh85zqyKi54xjXkqxgslPegyZyCjpFNgpTvc5jrq/PX6+3Qe1LP32eavws8FCRwnm6jWVeIsYK1toWoow1yzNnnJ/sgebX6A==;xqLCBxobtjwmdfM7mysPjA=="
+secured: "FfaFJvbzIdQeR6Fuy4J7fAvOREH6uuh495npidj+40yd86Nikz3UCpKpJ7bpvkkQeqYeecVC68x3WAmB5RpkLivN5gM4e3Peg7U+czut2spP1U9qArPCKE9eYebk/2H7CfdJY00bjBATWh9xtBjCo47tiLtFiBLRjoSKCZkn/6qgYhoySq9CkcRapCiN5NWakTfRo0nzFgddNdmEjDZQXEreeOkN6GdDPDxVvN+uJCnQFEh9Pl0UvxJkrQDzd4Ad8WMBHNBG9zp20XgfkYAjvBagSYq6aNotqyOD/9Q/AOZbtJp781+3HiZf0kaLPkCmAbTVc2rHE+PcrqEjvAiPYtwuhTUm7FBy7Ute9cjegG8ZMc9QLERFYkFQnV2b3+y3yNqUYkhRAPWFXr40btVvFg==;4Q3v7JiGfABodfu8ZBEb5g=="
 ---
 
