@@ -1,20 +1,26 @@
 ---
 category: news
-title: "Cognizant buys Microsoft Cloud specialist New Signature"
-excerpt: "Global professional services group Cognizant has announced an agreement to acquire US-based New Signature, provider of Microsoft public cloud solutions, for an undisclosed sum. This will be Cognizant's 5th cloud-related acquisition in"
-publishedDateTime: 2020-07-28T14:23:00Z
-webUrl: "https://www.telecompaper.com/news/cognizant-buys-microsoft-cloud-specialist-new-signature--1348247"
+title: "Cognizant Makes Microsoft Cloud Bet With Planned Acquisition Of New Signature"
+excerpt: "Cognizant is acquiring Microsoft-focused solution provider New Signature and building a new Microsoft Business Group around it."
+publishedDateTime: 2020-07-28T22:33:00Z
+webUrl: "https://www.crn.com/news/running-your-business/cognizant-makes-microsoft-cloud-bet-with-planned-acquisition-of-new-signature"
 type: article
-quality: 2
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Telecompaper
-  domain: telecompaper.com
+  name: CRN
+  domain: crn.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.crn.com/resources/025f-0fff997472df-38096c37d68c-1000/100461653.jpeg"
+    width: 398
+    height: 398
+    isCached: true
 
 related:
   - title: "Cognizant to acquire Microsoft cloud native company New Signature"
@@ -47,21 +53,16 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Cognizant Makes Microsoft Cloud Bet With Planned Acquisition Of New Signature"
-    excerpt: "Cognizant is acquiring Microsoft-focused solution provider New Signature and building a new Microsoft Business Group around it."
-    publishedDateTime: 2020-07-28T22:33:00Z
-    webUrl: "https://www.crn.com/news/running-your-business/cognizant-makes-microsoft-cloud-bet-with-planned-acquisition-of-new-signature"
+  - title: "Cognizant buys Microsoft Cloud specialist New Signature"
+    excerpt: "Global professional services group Cognizant has announced an agreement to acquire US-based New Signature, provider of Microsoft public cloud solutions, for an undisclosed sum. This will be Cognizant's 5th cloud-related acquisition in"
+    publishedDateTime: 2020-07-28T14:23:00Z
+    webUrl: "https://www.telecompaper.com/news/cognizant-buys-microsoft-cloud-specialist-new-signature--1348247"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 19
-    images:
-      - url: "https://www.crn.com/resources/025f-0fff997472df-38096c37d68c-1000/100461653.jpeg"
-        width: 398
-        height: 398
-        isCached: true
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 2
 
-secured: "GWZiJrznPb8bMO0E6Zf0IlZFt7tq9KULwGwav5oFsmS3FvrLAaCJYb0HYL30adkfqaEqM7/h8QGoKvZwjW0p2vf8cycKxWk9Pr4paLv9tyZyVdICnHS4ex3HtxSiLR7963pNZf3Wa385Tc+MzsS6Yb4GuM+xV8DntGYPGulbmDih5Mb8JXO7o1oD1s90wVQHuVExxhDny6yJFJQWamTwprZXlAkI35FYaOwC56Jvr3RV3A4AEuggHtr0T/xz9t55rMMCja1NejTcgctT8f4wzXtyJpWhLSj7tUo+ORUtWzDoLM1N1MCTndsF/UkHUepqY5rkuZaY86jvkWQu9Pc/eQ==;dDBlMaLqGVMlUtormKyyyg=="
+secured: "bR2l5/3w77XaXvEZt31T43qvh4WzyK5FeQ7MFm+qkiSJ1QwEarW0IItYma59oY/Xe27ecfrrf5jbc5t8g5GRF27ZarlNjcOndmpzcvajnUpOKCScOdTOmDQt1FeAyxOKrTmIZ6hqy72jzc6Z4FsGcLAdCYbg9VarJoDjb8+puGQelKwy47pHrQRdIh+6AWFwWXeyjq2SKHtlU2imteKJBg3nj0EXov38OcfqD/jNJ+PoCrHcw0bEHw76UDSWK6Bq0wv4N34CD1L8PgYEWnn6oIsCIbQCls4A28lvib3aLvO7L8CChIgfyyH5A6gzjBhlcC/QgSI91ZYnoaFbix7a2Q==;Us0n+7NM6sYorGWEnjo+JQ=="
 ---
 

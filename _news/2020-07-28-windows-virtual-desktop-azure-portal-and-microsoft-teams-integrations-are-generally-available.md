@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Azure Archive expanded capabilities now generally available"
-excerpt: ""
-publishedDateTime: 2020-04-23T16:00:13Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-archive-expanded-capabilities-generally-available/"
+title: "Windows Virtual Desktop Azure portal and Microsoft Teams integrations are generally available"
+excerpt: "It’s now easier to deploy and manage Windows Virtual Desktop as well as provide seamless meeting and collaboration experiences through integration with Microsoft Teams. "
+publishedDateTime: 2020-07-28T22:14:54Z
+webUrl: "https://azure.microsoft.com/en-us/updates/windows-virtual-desktop-azure-portal-and-microsoft-teams-integrations-are-generally-available/"
 type: article
-quality: 77
+quality: 66
 heat: -1
 published: false
 
@@ -35,15 +35,15 @@ related:
         width: 1024
         height: 641
         isCached: true
-  - title: "Windows Virtual Desktop Azure portal and Microsoft Teams integrations are generally available"
-    excerpt: "It’s now easier to deploy and manage Windows Virtual Desktop as well as provide seamless meeting and collaboration experiences through integration with Microsoft Teams. "
-    publishedDateTime: 2020-07-28T22:14:54Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/windows-virtual-desktop-azure-portal-and-microsoft-teams-integrations-are-generally-available/"
+  - title: "Azure Archive expanded capabilities now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-23T16:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-archive-expanded-capabilities-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 66
+    quality: 77
   - title: "Windows Virtual Desktop Gets Azure Portal and Teams Client Support"
     excerpt: "The Windows Virtual Desktop (WVD) service now has Azure Portal integration, plus Audio/Video (A/V) Redirect support for Microsoft Teams client sessions, Microsoft announced on Monday."
     publishedDateTime: 2020-07-28T23:20:00Z
@@ -59,6 +59,6 @@ related:
         height: 450
         isCached: true
 
-secured: "nXfxUIJnmnXHr/DJrtCQfstK+UnsA+HHXX+zkI/QJRLM2jFQRhz0bYf9UhqQP6xOfRAL80ySzSmTySYjc4CO7LapIJRdwBQVc4iT03hbJVFs+ilLMIdrmz9CLzLhPF0xdvddmEabxANZFzUBCy7lQ8xASNvuu4PqlqJhzU5Fk1NS4D4N6kSLiMU/EC93tSNbIjABMER0liSeRqWANXRa/9bbJaplrEbwNOmnxFVcFy/fo5QcI1OAX3/sDr+V8Z4da5187+1MOhkvqf4FD71sfnnWA+PXTGtAj+YBa2BDNRclxDkMxDCEP2wERc2ibr9GKPLLUuVmNsDVxnLheGLjtw==;T+elEvnpneDYFz1+FKj0tA=="
+secured: "2/GNjsFW0XkwZnUShiqDSOl2/Ef0bRDdIySAax6hUK1EcVrQw43n8fQBWMXYaEcWvTQi2bYgWCSNPDgNu4z/DZfdX0yYrmP1PzfxFuVqEfccwd5D5pem7/RSkMSq8VwdyJCTSDLiEa/NfTMMZoxopVUvLwIXEOhuWdvPRTylLXjh6jpA01RsdR7MiwkFkc8sqycT/u+LjAjk47wFPG9nVB8q02G5XKDIhTXMHD9BvzOzIVI9jTgRDr1IJsIDWOrrSy33ZaxFS0JV2qa6lPip+611ncft4IiGY0z6KudYbeP3vltNSAX7RotyyBUz4MS2x9bRm1ij2ibLFRBVXlZahg==;wKoxBuFWw0lSUJwDy4In3Q=="
 ---
 

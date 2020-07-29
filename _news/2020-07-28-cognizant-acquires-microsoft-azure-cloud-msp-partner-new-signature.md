@@ -39,6 +39,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Cognizant Makes Microsoft Cloud Bet With Planned Acquisition Of New Signature"
+    excerpt: "Cognizant is acquiring Microsoft-focused solution provider New Signature and building a new Microsoft Business Group around it."
+    publishedDateTime: 2020-07-28T22:33:00Z
+    webUrl: "https://www.crn.com/news/running-your-business/cognizant-makes-microsoft-cloud-bet-with-planned-acquisition-of-new-signature"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 19
+    images:
+      - url: "https://www.crn.com/resources/025f-0fff997472df-38096c37d68c-1000/100461653.jpeg"
+        width: 398
+        height: 398
+        isCached: true
   - title: "Cognizant buys Microsoft Cloud specialist New Signature"
     excerpt: "Global professional services group Cognizant has announced an agreement to acquire US-based New Signature, provider of Microsoft public cloud solutions, for an undisclosed sum. This will be Cognizant's 5th cloud-related acquisition in"
     publishedDateTime: 2020-07-28T14:23:00Z

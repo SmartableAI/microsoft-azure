@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-27T16:00:00Z
 webUrl: "https://www.prnewswire.com/news-releases/c3ai-selects-microsoft-dynamics-365-and-teams-to-power-the-next-phase-of-growth-301047370.html"
 type: article
 quality: 17
-heat: 37
+heat: 17
 published: false
 
 provider:
