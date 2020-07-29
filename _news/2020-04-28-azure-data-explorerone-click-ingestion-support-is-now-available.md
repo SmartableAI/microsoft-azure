@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-28T23:00:44Z
 webUrl: "https://azure.microsoft.com/en-us/updates/how-to-ingest-up-to-10000-blobs-with-autosuggestive-schema-definition-and-continues-ingestion-for-new-blobs-with-less-than-10/"
 type: article
 quality: 77
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -25,6 +25,15 @@ related:
     excerpt: ""
     publishedDateTime: 2020-05-05T17:00:14Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-update-2004-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure Data Explorer Streaming Ingestion is generally available"
+    excerpt: "The Streaming Ingestion feature can be used when you need Near Real Time (less than 10 seconds) ingestion with small amounts of data and multiple tables."
+    publishedDateTime: 2020-07-29T18:00:29Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-explorer-streaming-ingestion-is-live-in-ga/"
     type: article
     provider:
       name: Microsoft

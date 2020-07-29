@@ -30,6 +30,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Azure Data Explorer Streaming Ingestion is generally available"
+    excerpt: "The Streaming Ingestion feature can be used when you need Near Real Time (less than 10 seconds) ingestion with small amounts of data and multiple tables."
+    publishedDateTime: 2020-07-29T18:00:29Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-explorer-streaming-ingestion-is-live-in-ga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
 
 secured: "pQ8ZtzPcufH0cbPKXKOojaqpLRdFVX/EZfdyxWWEBH6iuLGgExkLCMDiJmgJamWmu+BT9xcLdeuatM3aWcU5bq+PsEXf3yZepzNKi5M2qprCbSyEOTjmO3erzLn6A1co83SDYBOE09Cxp01M1xym8t10GFr7Qdu549MgJDKsWVS8LiG29kP3R0LtR3Aa0QIov8vkMgNIQ+LiAeDNbhH3VwManAZR0Y+jKPHmvf+8EGuEjtolFMMtlx0rEzBEDtdpX9Ih30pVT3VD8DgFiAxyiiFitkODbBSl+qBCsdDGQGGooRx8/QLuv0MX4nW8WzwGWR2i80xdu/EP4nDcJer6eA==;QwCdrRRDRJeOv7xcdca/XA=="
 ---
