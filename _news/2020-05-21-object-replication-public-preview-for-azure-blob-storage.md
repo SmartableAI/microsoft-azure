@@ -30,15 +30,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Azure Private Link for Azure Monitor is now available"
-    excerpt: ""
-    publishedDateTime: 2020-05-22T22:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/private-link-azure-monitor-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
   - title: "Azure Blob versioning public preview region expansion "
     excerpt: "We have expanded the preview regions to include East US 2, Central US, West Europe, and North Europe. You can start previewing this feature on any existing or new General-purpose (GPv2) storage accounts in those regions. "
     publishedDateTime: 2020-07-16T21:00:44Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-15T23:00:32Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-update-2007-is-available-for-compatibility-testing/"
 type: article
 quality: 77
-heat: 97
+heat: 77
 published: true
 
 provider:
@@ -19,17 +19,6 @@ provider:
 
 topics:
   - Azure
-
-related:
-  - title: "Azure Sphere update 20.07 is now available"
-    excerpt: "The 20.07 feature release contains new features for application development and tenant certificate renewal, additional promotions of beta features to long-term stable (LTS), and enhancements to improve stability and troubleshooting of device connections on Windows platforms."
-    publishedDateTime: 2020-07-29T23:00:32Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-update-2007-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
 
 secured: "PC+/r1KLOeBuVLDGvffPeB2LhekTNlbUs+nhsPX/8WuKZpqvRPLu9C3GhGlEOdCJFkGpG2u90z1RYP335H1xNnSyQFterrAWi4viP3dbWrBdJ3PYKs6oHNbe7vW0hrAmN9z7gwbZJy7VR/BXSrRFgIipDZ0esklX7G0Dzv6/jXrAvMh1Q55zyJhy6JKj9Htl3yvBTlHS7UwthJGiyRrC8bumS233XOv5EBAAk71jySRvkB8/7ZyXn9S92TTef54Q+pbNcfeoIX7W4icgxk/TJ9dMdFhlSKb2L4sB7k8ptqJ0yX8M3dqpnoP+igdBKH2UQnGN+aZeM94yt+ojTR9+pg==;+OiqOcLobwZWDGj16QyEjw=="
 ---

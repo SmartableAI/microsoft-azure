@@ -53,6 +53,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "New Zealand's largest company plans to move to Microsoft Azure"
+    excerpt: "Fonterra plans to shift most of its workloads to Microsoft Azure, when the cloud company's New Zealand data center opens. The nation's largest company, dairy co-operative Fonterra exports products to over 140 countries - responsible for approximately 30 ..."
+    publishedDateTime: 2020-07-30T15:10:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/new-zealands-largest-company-plans-move-microsoft-azure/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 37
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Fonterra.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cognizant buys Microsoft Cloud specialist New Signature"
     excerpt: "Global professional services group Cognizant has announced an agreement to acquire US-based New Signature, provider of Microsoft public cloud solutions, for an undisclosed sum. This will be Cognizant's 5th cloud-related acquisition in"
     publishedDateTime: 2020-07-28T14:23:00Z

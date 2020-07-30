@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-15T18:00:20Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-versioning-public-preview-now-available/"
 type: article
 quality: 77
-heat: 137
+heat: 117
 published: true
 
 provider:
@@ -25,15 +25,6 @@ related:
     excerpt: ""
     publishedDateTime: 2020-05-21T15:44:37Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-object-replication-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure Private Link for Azure Monitor is now available"
-    excerpt: ""
-    publishedDateTime: 2020-05-22T22:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/private-link-azure-monitor-is-now-available/"
     type: article
     provider:
       name: Microsoft
