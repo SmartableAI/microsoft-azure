@@ -4,7 +4,7 @@ excerpt: "This learning path deals with securing your Azure resources. After com
 type: collection
 price: Free
 length: PT1H59M
-heat: 50
+heat: 110
 
 provider:
   name: Microsoft Learn
