@@ -1,23 +1,17 @@
 ---
 category: news
 title: "Insight Earns Advanced Specialization in Four Areas of Microsoft Azure"
-excerpt: "Insight Enterprises (NASDAQ:NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all sizes,"
-publishedDateTime: 2020-07-28T13:33:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure-1029439088"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure-1029439088"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure-1029439088"
+excerpt: "Insight also fields more than 1,000 Azure-focused engineers, developers and technical consultants, plus more than 2,000 Microsoft-focused services and technical professionals, maintaining more than 3,000 technical certifications combined. “Insight and ..."
+publishedDateTime: 2020-07-28T13:15:00Z
+webUrl: "https://stockhouse.com/news/press-releases/2020/07/28/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure"
 type: article
-quality: 77
-heat: 137
-published: true
+quality: 17
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - Azure
@@ -51,21 +45,7 @@ related:
         width: 2421
         height: 1270
         isCached: true
-  - title: "BitDam's Advanced Threat Protection Now Available in Microsoft Azure Marketplace"
-    excerpt: "BitDam's Advanced Threat Protection Now Available in Microsoft Azure Marketplace  - BitDam has announced the accessibility of its Advanced Threat Protection in the Microsoft Azure Marketplace. FREMONT,"
-    publishedDateTime: 2020-07-27T14:48:00Z
-    webUrl: "https://www.cioreview.com/news/bitdams-advanced-threat-protection-now-available-in-microsoft-azure-marketplace-nid-31683-cid-145.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 32
-    images:
-      - url: "https://www.cioreview.com/news_new/sliderimage/2g2rf.mag.jpg"
-        width: 300
-        height: 350
-        isCached: true
 
-secured: "gITgP4Dk2lx4UbKAY0BkveypV6BHfyzRmaOTBX5C2xjNEQAX9kzkS/V0jq7U9U7V9tAxWPNaarhaiVhRjCiYD6XbKW4q5gNtSQWBwM0BD8WMZBKWh5RsphX1FYsg6z1NvluCFbs4DuBCAtSKHyZ0SFhCGbrjMEUc2sMQtI604O0IMFNcKMrtsGvUvO4kXSHce6dR+B1e1A9UGyiBakL7tb9TrSP6ee9nFpFX/SXpL168EM1zKuSqJBGTh+c2oacewpn7TTd8DYkuI+kcd+8/4LZ8W4zNAhln2cU0h1ee0X446A9AfAJ0YhiCEXe9t9uqR5KviHZawI7fDl590+RpwQ==;/pjy6P6EhEAI7KfKdKCETQ=="
+secured: "LiLO76o32S8CgnFdxWP48LRgtbI3TQdCm3xQ9SLfUbyglWpiasp1Z7GLjmN3otN9Zje9EieJ4CA5L/THG1N1WQq7ICBgb6h0UKB6vNpKAXLCdWojT8tFJImvUgdgJEDht8pMOpDKmj+QUUjAuhfMCLOIVAeTj4xcOm/YWd5jSWGbkb/wLvrW0Syn3+x+puO/IldnGpd35Th/TRKICJb+eX8GLqg1UJ2nKCIzcXeFbkmqbUn6d4rb0Od26TAewW0uJmyd1pJK/DxuJNQ7actM/XFngK6zTiElqQLnqFksGk4mzwF2dNsCOqTczYAAkThcFPDapvpiizcIEhL71E8G3w==;SyH0OwFMsTArpagoPMgxlA=="
 ---
 

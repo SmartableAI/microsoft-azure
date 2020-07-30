@@ -23,17 +23,6 @@ images:
     isCached: true
 
 related:
-  - title: "Insight Earns Advanced Specialization in Four Areas of Microsoft Azure"
-    excerpt: "Insight Enterprises (NASDAQ:NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all sizes,"
-    publishedDateTime: 2020-07-28T13:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure-1029439088"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure-1029439088"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure-1029439088"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
   - title: "Quisitive Has Earned the Modernization of Web Applications in Microsoft Azure Advanced Specialization"
     excerpt: "Quisitive Technology Solutions Inc. (Quisitive for the \"Company\") (TSXV:QUIS), a premier Microsoft solutions provider, today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization,"
     publishedDateTime: 2020-07-18T19:19:00Z
@@ -48,20 +37,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "BitDam's Advanced Threat Protection Now Available in Microsoft Azure Marketplace"
-    excerpt: "BitDam's Advanced Threat Protection Now Available in Microsoft Azure Marketplace  - BitDam has announced the accessibility of its Advanced Threat Protection in the Microsoft Azure Marketplace. FREMONT,"
-    publishedDateTime: 2020-07-27T14:48:00Z
-    webUrl: "https://www.cioreview.com/news/bitdams-advanced-threat-protection-now-available-in-microsoft-azure-marketplace-nid-31683-cid-145.html"
+  - title: "Insight Earns Advanced Specialization in Four Areas of Microsoft Azure"
+    excerpt: "Insight also fields more than 1,000 Azure-focused engineers, developers and technical consultants, plus more than 2,000 Microsoft-focused services and technical professionals, maintaining more than 3,000 technical certifications combined. “Insight and ..."
+    publishedDateTime: 2020-07-28T13:15:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2020/07/28/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure"
     type: article
     provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 32
-    images:
-      - url: "https://www.cioreview.com/news_new/sliderimage/2g2rf.mag.jpg"
-        width: 300
-        height: 350
-        isCached: true
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 17
 
 secured: "rgEc5XV0x8ukNAkQzBpAfC/h7Ba3zZxa0Qs91rJHQz14Ca49dhojBr6nUdCgQdyM+JhL1OtB75ulPyvNPvJ1nP3V+yhYortEkJyyP68UWQuOsmc7jZKmcIlb5oqF88AG5Qv+h0S7ex/VLCNjULug56XvD1/UfYgUSaPdtVc8TlKKA0w1WMYoMLhBJUliqcssQvOhNKkmRPs9cji4DdBqUeI/V9ygOzYXLaYBXRIMwBT/FzuA+NU/hczYclCLGPfamrxbPwJdQRMY+aQa+aR7WM8PvfKmDKSxaatnyaEH1wbvwUCKxz/vnDP0Il5RvZPIvlOssdy1Nr8+Sl0Eqlz8+L9gCBVKsIqIsfRmZIEiOMzfrEFZRw7Tgr4YSSGKe7quLY1D3vpuYrM+DEpgiifT0Csp/veCbjNmE7dItin/93eUKOaVK5j3sIBk7gT+UstpempO6dHdHu+NTbUXARHkkNyXm8c5G4LOil/aQtCgKLlXYUAibvEPabnjSgFpht3xVtXbQhhf9iPn0rg7/U4Xzw==;fkGVeVGmJP02RsT+63H3Sw=="
 ---
