@@ -1,25 +1,29 @@
 ---
 category: news
-title: "Windows Virtual Desktop Gets Azure Portal and Teams Client Support"
-excerpt: "The Windows Virtual Desktop (WVD) service now has Azure Portal integration, plus Audio/Video (A/V) Redirect support for Microsoft Teams client sessions, Microsoft announced on Monday."
-publishedDateTime: 2020-07-28T23:20:00Z
-webUrl: "https://redmondmag.com/articles/2020/07/28/windows-virtual-desktop-support.aspx"
+title: "Remote Desktop client for Android now supports Windows Virtual Desktop connections"
+excerpt: "Access Windows Virtual Desktop from the new Remote Desktop client for Android."
+publishedDateTime: 2020-07-30T00:00:32Z
+webUrl: "https://azure.microsoft.com/en-us/updates/windows-virtual-desktop-client-for-android/"
 type: article
-quality: 37
+quality: 76
 heat: -1
 published: false
 
 provider:
-  name: Redmond Magazine
-  domain: redmondmag.com
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2016/0916VRM_Take5.jpg"
-    width: 647
-    height: 450
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/3358bb18-b443-4c0d-9823-f95637177398.png"
+    width: 1080
+    height: 2280
     isCached: true
 
 related:
@@ -46,20 +50,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Remote Desktop client for Android now supports Windows Virtual Desktop connections"
-    excerpt: "Access Windows Virtual Desktop from the new Remote Desktop client for Android."
-    publishedDateTime: 2020-07-30T00:00:32Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/windows-virtual-desktop-client-for-android/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 76
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/3358bb18-b443-4c0d-9823-f95637177398.png"
-        width: 1080
-        height: 2280
-        isCached: true
   - title: "Windows Virtual Desktop Azure portal and Microsoft Teams integrations are generally available"
     excerpt: "It’s now easier to deploy and manage Windows Virtual Desktop as well as provide seamless meeting and collaboration experiences through integration with Microsoft Teams. "
     publishedDateTime: 2020-07-28T22:14:54Z
@@ -69,7 +59,21 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 66
+  - title: "Windows Virtual Desktop Gets Azure Portal and Teams Client Support"
+    excerpt: "The Windows Virtual Desktop (WVD) service now has Azure Portal integration, plus Audio/Video (A/V) Redirect support for Microsoft Teams client sessions, Microsoft announced on Monday."
+    publishedDateTime: 2020-07-28T23:20:00Z
+    webUrl: "https://redmondmag.com/articles/2020/07/28/windows-virtual-desktop-support.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 37
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2016/0916VRM_Take5.jpg"
+        width: 647
+        height: 450
+        isCached: true
 
-secured: "qieGsQ9b99BPBMgtIHTj76NZRVmdOvM9iQGHmSuRpklV5aK68vZScXtaF+fT9Sfe+cYcFUEfanjiopZ1NePtp5S6HSbca8AqRyUkYhLXHL9OgWR3HrqbWYonqJWBT+t5qOK5PwChEguLtBhL33ZdaorZmn1KsteYC+1GfG1Ifo6s+UHQzxHpC0R5J6rxgOEuuZwsmr9x/e9nzab1CigdM6knByrQp2bfmlRmQLHrQIv8IFOflM9sgb41o57pQ6y+34ha70hVsMRH799cLql/XYWN0T4z/tz6FW46f2WoSlh4Yt1alE2FbfD672lJ/WxWvpz2+AU10nx+3h44+qLIWg==;I30Ze18s2bjL+5CHEwu2Ig=="
+secured: "iHf+jRpUXP6/a4Bnm3T9PvdHsxla9LN5kntKuwqRu1m53cXx18XlJQZ4uU/EyQzaM/3EFWhItB2tzzJMFK8TxqN7Uli5gRhK6Mcaqgut3QPPk6K0zvjCf0gJB6CX46HnAbAjXY6CHHx0QyoVn/7ojhwFNv6m+WFoUuLaRzpD+PZHFi7lc53IFwFui/OXYFio4f2zY670Bj/0liWQjpHuHyrVH+X1CcE8yMFnKEngo1J1ra9MZNvJV551l6007fM+vW22MskAYzwsD72tlNIuvjAzHeAhBacX0InuPDT4Is8+WJrQsEkxdTEBeiu5BSyNZ3ak3QknzrQz6NU6i5oGaA==;EUuAy1quNSqJSqw3Hghs7A=="
 ---
 

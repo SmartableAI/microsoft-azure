@@ -44,6 +44,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Remote Desktop client for Android now supports Windows Virtual Desktop connections"
+    excerpt: "Access Windows Virtual Desktop from the new Remote Desktop client for Android."
+    publishedDateTime: 2020-07-30T00:00:32Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/windows-virtual-desktop-client-for-android/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 76
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/3358bb18-b443-4c0d-9823-f95637177398.png"
+        width: 1080
+        height: 2280
+        isCached: true
   - title: "Windows Virtual Desktop Gets Azure Portal and Teams Client Support"
     excerpt: "The Windows Virtual Desktop (WVD) service now has Azure Portal integration, plus Audio/Video (A/V) Redirect support for Microsoft Teams client sessions, Microsoft announced on Monday."
     publishedDateTime: 2020-07-28T23:20:00Z

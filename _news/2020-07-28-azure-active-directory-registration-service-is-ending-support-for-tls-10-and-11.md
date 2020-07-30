@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-28T00:00:06Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-active-directory-registration-service-is-ending-support-for-tls-10-and-11/"
 type: article
 quality: 72
-heat: 72
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -19,6 +19,17 @@ provider:
 
 topics:
   - Azure
+
+related:
+  - title: "Azure IoT Device Provisioning Service VNET ingress support is now available"
+    excerpt: "Azure IoT Device Provisioning Service (DPS) has released general availability support for Virtual Networks (VNET)."
+    publishedDateTime: 2020-07-29T21:52:47Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-device-provisioning-service-vnet-ingress-support-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 75
 
 secured: "CAI5bifaB3bx8Cz9hIA0l/BP5jWuG98JqdkvjK5eYDB6heUZYr7JYItYXQA0kQKXf38iLMKv7q9NxZQO7UOvvJ2JP1ELGgSuQ/G4ROoFj+vB8gMykrbIkh9sgWxzOsQHQTRGkhou7AztWmDpilOfHv1tE7EqoDtgTwH0bly/45n2isdpaAFH917cgUQYkVmAfivh2/b+uflXUiAT21j+kbuYnK2QLx5BFceet24sQT3zelzjNo069hLPjcsE6ecIFyI9CXWJD2q0TbkbMjEIdTD5JbR0NhyHvlypNgdub+vSCQ8ZO/ioD5CrmKrbkfsrxfglQY/DGxE4vuEsDBWvCw==;InWM8szNJf+yHpFhTrW9wA=="
 ---

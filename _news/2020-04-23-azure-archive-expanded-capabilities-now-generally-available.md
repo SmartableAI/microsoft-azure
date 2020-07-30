@@ -35,6 +35,20 @@ related:
         width: 1024
         height: 641
         isCached: true
+  - title: "Remote Desktop client for Android now supports Windows Virtual Desktop connections"
+    excerpt: "Access Windows Virtual Desktop from the new Remote Desktop client for Android."
+    publishedDateTime: 2020-07-30T00:00:32Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/windows-virtual-desktop-client-for-android/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 76
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/3358bb18-b443-4c0d-9823-f95637177398.png"
+        width: 1080
+        height: 2280
+        isCached: true
   - title: "Windows Virtual Desktop Azure portal and Microsoft Teams integrations are generally available"
     excerpt: "It’s now easier to deploy and manage Windows Virtual Desktop as well as provide seamless meeting and collaboration experiences through integration with Microsoft Teams. "
     publishedDateTime: 2020-07-28T22:14:54Z
