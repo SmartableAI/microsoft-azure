@@ -8,7 +8,7 @@ length: PT55M
 ratings:
   count: 66
   average: 4.681818
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Build continuous integration (CI) workflows by using GitHub Actions"
 
-secured: "fOdoHnsWVE75RNZJQZTbbILrM1odgpFHvCaUH0yBuVOF/a5buN7J3t+BuXAZ8QOPFzwJR6xLBAXmUZJYn5xhl2GKaiKSZ7ghiOowY9/jxVbQUdEAb4zFAI2w5x571Vv2FgIth5klc4yz+LZ+zB0UdSwhKqOvgbz0RBCbc9dQmN2I3xbkHsOME2W7xZjYHQF+2Nz8pRqByicaOA+L82p31umj0bDANDDWs8NRwAILTqCHeXym1Lb3NwuVNz5Kh+g5hnKiCvEYj/B+q8o075tCvROq9QydXBhUYgC7n74HhTmKYuGlf1wl28HjLw4trioFNYMB7Xp8O1cSOWBQq7Cv/Ij7N5SRDmZ0Hmlw7ipK0o351mgmdc2cYuD7G0I705BLGFeZ+0JOoCqH5Iv0IQVqOg==;XTe4n7cSQb6np9dph8FoNQ=="
+secured: "lzltJWIZRKQ0ngnjcXYXKmhOfj593YzuIE8eQEBHZ+gzvS0Vr8hJK+dOcjnZHEA+Lt8hGMM8PkIT4XK3TW22cSVfu4jqskX4cE349ZwI/pV3vtGct81AFbvZ+ROftoMYeVGvkpuf26YNcLcL0+Tm/T1pfiINtAehCJYpNWCdHZpDtziKPDvdfjF0dQ1nvyyBkFZsJdfE3Jptdoz8NlgoZXgYP8JuFY6BpgiANpMERY6qnwM5O8NSTgnK+3i5dd8jor6cGqgO5eKJCD8r+rMH3OexQgzo45baB79H87N/svDPqXeFysKmxcVP126HqyplbaMp4VFi/EAMjNehZBmURGZSLwgjeae2YjLJOQ+6nM3iXqts0B7ABH/0nR/8eZFsdKneS4zTyf5nOWLDlEd71w==;Iwus8E0tqt3aBTZqX5PcqA=="
 ---
 

@@ -8,7 +8,7 @@ length: 38 mins
 ratings:
   count: 486
   average: 4.707819
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Discover how to foster an AI-ready culture in sales"
 
-secured: "hrLF/8F9j9fG+FrjQjphGjPnUZFYto24jfe+IFr8ggc6T1e8HVXJohFm0OvE4ERLV5yD/b9VRdM2ImFpQIp8Vq6u9ZSy1+se9MzwS6wPYj8eNv+paMznA7sB2HDV612IOZMEd+/1Z6sYCHZANPMsgNAa6UZX1Ghvw54xpPGvq0IVCloJu61uNjxX4NGzSepGVHZxgL/H8u981N+nHM+9v0unRSC8mwG9Tf8EkS0SkzramY/1o3h6Kg50WVMQZzt8jSNvJATlAjmg+6TqxweAgio7UpCgrWZsV+bHlep9Zl9qqYDq7yt4sMlvSDcfvEbIuxydnke/uKtFFnoYkXDtOuWTy7TPGK46sgqc0nkaOXcV9y5aw7Vyb573CaGJrpHB/huyxabOBgmloxmSQfnpZg==;svPaPlb8oIX3mETpM8wsuw=="
+secured: "9m/6n4cVrMuS44uuIMRhiJ5j7kfco95EVTRdE9fAUYgYUF38/hEnOlCwmA4HNwibsl+9swgVQV918boJkaoO1VV3inL2AZUndibvRoG9RqmIo9hibYVj9NHEzozNc9oCkVo0V7RLSoNr9qQcm4olwZ4SVBHtOR+q3sNQCBSj/M0rHG0fibm/ZKdNz1RTtBLGjhYgDz2bF1MllY8Tw6GgPkivyzs/jXLivSOPt7766NTd7LCyM7fRnW8uwiNt6otmO/wjHf63jKpji1PLXRMw1z+mPZ7Eyj/ItwBuD1sOy6Dvu4LF+5W0s8+qVWul50VGgQrLOO575tNkWTKOXqksidLZm7fFwpnzIwY7znFXO77ANTMxefYvEho9OSHKavmBZd3Jrowvv0zC4GbkatQzQw==;Sj8yfUgOLXGEErWFIwqsMA=="
 ---
 

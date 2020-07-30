@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 76 mins
 ratings:
-  count: 40880
-  average: 4.701712
-heat: 108
+  count: 40892
+  average: 4.7018
+heat: 105
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Security, responsibility, and trust in Azure"
 
-secured: "QRAGxldewei032OQVCw+VCq5aXT/Pv1e8sC7Q2soCRc1lmzPmpjU6CpiVFjpjUtWYZJBbkSXzZChHVYtxIyvaC229o0/md9p4JCU7UET26Bt9nJzldFVs8UhqiVhZaoKoCfTy0XzvSEUd/nHtguo9gyDmQnQdNUgqzl0v858lhavstTZVoFScCFKmeDOqO/O9sNvVtBJnhOaP0/EyCxMSzX9tOX9TflxGIeC9Cbp9ucCUH3G4PlDzQSJymZF4tRjoeaXRgjS9kWQiIT3+FLEj4PxdFYibcz46DitnZJ6vHB8Z77C271NnJDamEB1G77vvHudOPsvPNNH4GgNJ4rSCu4LRGqzVpUw/BgwslkD6VfNHfFpswdZOXxLL83WuBQ3b7nghqLV0rSDF0Lu6Ct8pw==;WQwgoYEqBLFAfLgUr6eK4g=="
+secured: "39e/cBTortrNZUZeZgC7SkynMm4tr56C5U4PZ9WYrHBYC/a9X6jXXfD/TA683gCvN8dxc/R4rLw+alK5+aXbRryDq+LxZO6E75c5phj6w/iD2W6AJEbQQ0CAu0/wOdFdWZpM5coKbAWlr45UlLG+R/WRGvc+TMcZArfyBeJVvfIjzkEvD+86AL5w9lI5Bo9Fec6BP8MUHtXd1iIGHHYDHiTyeTZdHgmCGBaAxSAle73zfmU5ZCarGMoy6gJky8jNJ43lPI8CjTAu4+zgBtvCnAlHm/C9HREqq0bv2W37zajiaH6ZorArhCqUxTgvkE7/IDKs2bIKLlE6wN2tWxofs9yKjnyUd3va0YA+5fkRIsLDwMrqUQbfKrXaZSsFc+9MEhHK10bj/oI4UOPoOfo7OA==;6sgQGU9kfLlad+GKZs7drA=="
 ---
 

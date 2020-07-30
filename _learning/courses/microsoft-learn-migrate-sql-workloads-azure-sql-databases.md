@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Migrate SQL Workloads to Azure SQL Databases"
 
-secured: "jpTdutIJggs7YfqurIZve6KL+LwPqvbCIkPHPx5JgJY1eAbpEKoPm47qOleFP+LBiTyEhMp/l/oyuIYgxeBuD01F7MaD7itc5iu+9XbBEP9EeKu2RVpQVkdkp8Q11zihCXSOir6wQjNmbtFLSlLNmqnSkG44Ch25WYuooG5nGKFACOA+wFF+ov2+npS4hE2n7VWx0uqcEpBNjILqgan4Biy1Ws1wQbxNy3U4hEpUJ+ZDpR/hcfCzGK1OxPYw9x+dyQ0DVWhEb/zr/gKy1YPdLwbovEYJ42HoQQm3HOD1GeWUzpq1XZxWD+VWINQypLxSE6dgxSiqPF6T2c6I5wTCjKlxYz+S72yA6noBJ4MHgGR62m3UkXz3AaZuY+V8iDISBb+CsdjG+8gUc7TooW2FbQ==;9QVdX530STCAi1ieL4RWrw=="
+secured: "y0PwZNwUrUCl0cpT+oowT+ULlyd41Sm0oS32Y8oAVZT3Xpbb29iZptYCv4XkN/MTXAZRy8sYfHefYVJnICReFpe7W8Z5ZTsyVusdsgM+KZczUDwLS5xegui1aF6BqX/YEVhp8P+s0RvgwPEuaJ6QNl3u8x3MbQO0Dqdws+CHRlPufRHFsqcm7Q70t9ld0oBFKGWEcXyiv/21Lv+SXdsqHz0bovx7Wx16ZNilIFBWdQ0kY6Oiv1WNWNh6Ae3j55MgcSXLPnlkz4h+LCE/nK9KgN08ZlmTgdnfEGnQXJO2YMHJh2KfnVXEfqhVGshq/QNS86o8G7Rbce6TSh5NPR4TxN++EW3EsSRjapTDRaHyRoWDSr7JQXi5ytjG7Qzf976AalToa8XAwdx4BtnSl1uhUg==;tdzoF8MLJmQsrbjwgmS4oA=="
 ---
 

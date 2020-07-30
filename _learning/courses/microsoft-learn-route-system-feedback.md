@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT22M
 ratings:
-  count: 206
-  average: 4.6165047
+  count: 207
+  average: 4.6135263
 heat: 51
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Route system feedback to development teams"
 
-secured: "P3Iklnazj3e4Zb9vALqTrpYN5It6i+YB4Jpqc766XjsZ8WsaRiJt8E893FsSPr/1cXa3f68zj+ypnfvDF6e7vLTHLs9EohzIQOuOiSVOu4r6MZY/Mr67cjTd9K1ZszAt2ev7Cl7LLLGVeWUquAWNdaygoZYfJkFwB6Xi0M/dLDazLlGPh/mMZHebrp8WnXKvc07eGNL91a7eYOVkSJyxfm928Nyo/rX0ZBSmeEsO/76X9uVzGN5S0YL6NergdoIEbxTKM6cm9HFj2mPgV4kjXnFyPnUXnde+mWE3aftcmL6DbXpGKRn3CyW8/LrvfKYr4nNRao3P1FSauHSCdXrUrQMwaMBesYpETxeQnMlZiOmYDFDKlLTfsiaruSV1ZBBM3jxWIydfx0vKgVN+E+5QUQ==;WFKeirMbTroaqXUlB8w0MQ=="
+secured: "L31W68qeme6lv8niVbdxHGbXRbAqyDH6EbgxadlQzJcYVwDjfhX46dJAooGzr4DnTob8PCNXZAY3XcSPs4puKwMUgLeQoP4FUyWiq8KXTdV9MNMW83jOBFGI8iA5f8ozaBykqe3iy3bdM5J+GsmAZaL3tzbE42mdO4EwMODTA+DL+hJQBul2hjSzpMDPr/QqfgIs74j+bhpNeo9JvKL32IVcjzjYcg8/BFgHpU+zXIT1+mqbzKYW7HwGrPUFScs+G0pv12ek4SyfSA0A1IGqrQWCDnRKClYA2SdSuDzvLFsJzRZktta5I7l9v8LLG2t1I+4KF7Mwq3VnFcdt2jtbnzEmimxdC80ui7LYpIkxjp/UQFEcC4q23Yp6GKfdL+BmW+MKaT6/hzqv7apqenRm1A==;rtMzv008+9ENegyGeJg7Lg=="
 ---
 

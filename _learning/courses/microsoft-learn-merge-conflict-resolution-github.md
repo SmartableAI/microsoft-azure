@@ -8,7 +8,7 @@ length: PT52M
 ratings:
   count: 35
   average: 4.7714286
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Settle competing commits by using merge conflict resolution on GitHub"
 
-secured: "61xW0bao7Pth89OPoYgwiZo0nGLiKjpBonlyxiMXNtQMdq+R35t3f+aIiUcvO8FZWdQg0BB3ed1Nr5gFhRACoUCLO+PzSgPkK9Tt4JpFdhF6GNk8hjQ1LJz2kpeJ3e4m0miUwyUNddDpT6AfczQL8BlfgEq/Rt5AMY4FQbb3L/okGMlmt0vlM8GgqOt7pJj2ylTIhmveTHn4MnB3s/Iz5X6EVLFVaolbcJOHg3H/wVHGonAavqpskUrHfFhrxfe8rxgn3B2bkPjs1fciZMOaLpvQJwK1TEBlagVSYmIkzg6LFdPhRF6O7PTZTn3l1AZoaOXhCpgD+XG8SoLnjP9MbKjEitKLQUL0CEPtc5lda1vDznizUzCDNDrjz68yQKhjrrYHsXXz0vPB1XKiR7QzOw==;Kvz0IFpMxt4AXyNPpthTIw=="
+secured: "fvz+I8UAvYuTUwQCwnkzEnK8qmU1wtmrWN4ckEJCWSyS97RJZ92oxOpUtqAbge/7dnPq7+ClcATlXzBHnGyAkPXSCd2MKh6O6mPW7giE83BAMjjX5mYBbTwOZTNa4/t25Qq/vbt0KLY59Z7IdUY/bxtkZem9DhjEyd1p0AFZCv6OeExUVu0fI284HoCYnkIcAc5s4vveKMojiSrGMzjDsuxTm9lxmDdjr0g/4ZG5T1OOl5AV9NpCOpjQ7ALYbE5Mbw+NXXmFqu7GccHurzcT0oGdPRj628YPFC+uwvlUpSDpz+/UMUfOt5eVp5FKbsMT6S+1ZT72yt6jZOLHD3ZEIAC6oq6CurHfqM/gKtgUmFXaYgMRkBoGUAZ4N3uqPrFXTf12HCfQeM4Lor4laHbjUA==;VKwfFHvBoQ3qEnk0pu+w4A=="
 ---
 

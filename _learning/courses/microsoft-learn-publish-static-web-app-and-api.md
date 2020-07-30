@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT38M
 ratings:
-  count: 233
-  average: 4.781116
-heat: 50
+  count: 234
+  average: 4.782051
+heat: 83
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Publish an Angular, React, Svelte, or Vue JavaScript app and API with Azure Static Web Apps"
 
-secured: "LOr/gYDRZa2kUseoU5sBCusvQW4pqO+kTxz6OfxplFZ6wa9ToJfMZn32m/PNRaxboyM9xnd66x1aM0ltvdKW/k3e520YJQobMon3JbpRo19NdGQmquR4U82ZZL5JuUjJQ/VhkJY9oP3roQXBL89UuetTCHgr801e7qLpW/6sDHZ/Mt4LSIq1ymK+mLzgvmWUDnk/sfFgbHXv4H33tax1h6sBsN4y2E24gFvVFSanF4xjoTNIy7J7cumJwoDRAamc6fu3hoqs/SkJLdVG/3RFF95tViqKUE4DbpDnwIMyNOD6WZihxUkwd/th4wmCxWKgeXAQw+Vndx8WpzA4P+tXHLmE8+XYpr/Cn45vBX0lBeAtvzZAu+lWGVM1+XnEPpvjhfxer8vDKIkjMXZ8gq0AgA==;u1xLhtRhDj33g8+R2VBbkA=="
+secured: "QfUTrROgd56nyNJTvGvegmIb9HFaDuNQNWv/lVa56lK2Ji1e/VZ1zENFycw5RXumSVQVQP5YH7Tlam6S3oNhOZJ8JcEd3XR1/MThRfQRapntzaJTx429cEvDUOnu3pST41BjI3cLZGhg3MX8Ax7GAdyeOPgrlT7kJttQ++D08zbrnzpDmw2jAePUZOJ6L/nYMVvfUFhIoDv2SHUVf9FJsiLoJdQ0zMZaxqAWcrZGSd+wdjNT6XYkDQ/42TvfApgPQndvpyrUIO7Ctlwc4goYT4uqkm4EEetLpdNNb0UKkcwIr3wDWEIDF2f4rXjk1KAS86eBhDwnLurgtWdRrttiL0rTyavRlZK4V1HG337o8KYzkBzhmyl2oyfbe79oYL4QOBpL2IqVA3r0KDFzLU7KqQ==;FRjP1T+DmH9VLDox68DXrA=="
 ---
 

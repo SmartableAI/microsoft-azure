@@ -8,7 +8,7 @@ length: 60 mins
 ratings:
   count: 93
   average: 4.7311826
-heat: 50
+heat: 110
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Core Cloud Services - Set up CORS for your website and storage assets"
 
-secured: "arntY5tMvGYk72lGZspZxfSGlqwJTcCFrXVUHHNIWwPT5SIkaSiHyCkAJzjXsemo8S84UiwtgDds4BDQLXw5hW1A2SXTeIj2Cyhg375S950+3gN+uZ/PhmRtlCTWbfK1gbwov6JI3A5yvcYvUpIfc/KqPctNXoS2CGV818plwUwm9UnszAVyPfBmq6INYF7Kxw6Nrr14jgfsowwUMZIkW8r4AzEk01HF1xJFSdcIi5wrtRbnpZjVNz91lD+KDBFsrTUtFN86PfsEl0aKUNPJ+vgTUvEp03klWnzQ6ixUPfVOB4++9yUV5yYXe808hK46gufLkQIs6TqN/QBf5f1DGm3NMJ94cb0aLMAgpOKwWfv3wku+E1yhLjeH3E/ZZP70+Qra4+x7ilywUq6YoZJUkg==;zubRd7npqp25nx1XSkqsCw=="
+secured: "AiWmgVIvpBpYAt8MgfGfCKTLLoEyckEVGcMDyPP5EYKng25ctXFnW/TDe0x9zTfKLws1s3og+QOsIZ52gaRFJdm7lUzrBIKMgKMReD2JIrEs0H+kCL6Xmg92q9gYZRgHFZ7moAKXhfMPtOMZK/f4adN3BGURj+83wYc+QrywNgTHDbOxZNsANPJAvNYOSa2vWHpvPYNBeuwUdlBllh1WvUfzt0rfH7kdFzdH8Q1UvRQmxyBIp002DwCuNbFOIqvskcJN/z9nONH3FSqq7/A05/illfrWhGy2XssveH/WGJiLpTg0od1bpQtTgNUepXRPBmBt3RoUNFDLq7g4Ef9jJ8j2hcHj5tsE8vfLs0CRb5syDfWucC7sFwXVhmOHJ8TunQbDZrrPBmCXHePVsMOlNw==;nTN/1RwuPEhlUY42vDfY6w=="
 ---
 

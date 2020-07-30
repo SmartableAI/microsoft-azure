@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Work with DataFrames in Azure Databricks"
 
-secured: "FO9zoedkpbb7EVSgRKqrMRb/Kdf5XHP1vafD5ooIEQSrZKuGliVrwT6rY/v/wHT7lOyPe0L/8FW1Nbbat8wfpHAKWfxmuv03A0NT5W4UdCN7VgpAhW6JJXbRae+YdZ5lPMdNhHON0vIeRt1miV0hqABIihDHs/92o/uGgwVBLQUy+kTzE82D0U9KmajfjdOHpBoaa8B7fVdbmzuwCmOTUc0BmRTpn9ZRcPXM5z+5CH9T6e+eRsMb7ty6/ewBYEpHoZuoNqKwv2hzfsNNSjAQmRTnsI/qUqmlOMngM0xZjix/AdUZNI028w7QSz6NK929YPkiS0JNAFb0Zff7xiH35KdA9Pjv/ZPAN54H9Xj7fKZd1gEUxY6gYcDuJ9uzDkfCj/a7aFsU+tPNapAov6XA0w==;jLoNt4vQwF805lL70Hqp0A=="
+secured: "a5pg7SFjYqAorU1/gU7ilKCK8zhjV5URDSzX/tNXIwrHx1wh8FxalR+NzG5GJ4nqdnOK8t4vZlKmchd/wDBVxcWxL/I+uUAhHIAW2fSKkMCXXWYhEOpAM7mZ1ZbTchnnwkJ1xeKw0EyhBtJPaFjOLU5f2/VmSRsYqjsLAOmKftKnAcQW79a8I4ULRSUK1OS7/su9jvK5LdPKrjHf/vqG4/GhKCVSSed2TtuaFj7GVf8ODh4NURaXqGcvUo/lv26ve7ZrTyMCcPkMUTC9lrow3veZ/0nBBMayj+F5acMOg/upagieJtn8/Qhl8JZhWd+MG//KyBcH2phZd5CrXGHsS1+8Q9ayNHf5Ey3iMZCUZdnjXQzuYthACjPfPkoxRlKArjzRZG7TWCyCNNRdCRGbig==;SMJ6hBHcCtB9QQ/BXfI+2Q=="
 ---
 
