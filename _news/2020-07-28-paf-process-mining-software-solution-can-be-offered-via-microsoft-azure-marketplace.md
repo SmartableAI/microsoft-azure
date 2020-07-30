@@ -41,6 +41,20 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 17
+  - title: "HashiCorp Announces General Availability of HashiCorp Consul Service on Microsoft Azure in Collaboration with Microsoft"
+    excerpt: "HashiCorp®, the leader in multi-cloud infrastructure automation software, today announced the general availability of HashiCorp Consul Service (HCS) on Microsoft Azure. HashiCorp Consul® is a multi-cloud service networking platform to automate network configurations,"
+    publishedDateTime: 2020-07-23T15:59:00Z
+    webUrl: "https://apnews.com/08471f0ba40d59f2ab2b0a1c363722b5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 13
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "UFfI6YaFb7bIek6Wl+KGok4Z/teV/HDuRz4JqE1Ve7h7yn1EKj45sJUMO7+Zz0L6BSDLnfehM7/sShjQKAWXCeuRARuwLGpFxZhSPX7qe9tiuVHU9NKDPqStR9ysoGXX13+n4BofU84W6cEzYYQBMVSaWsXKpUdGhnFMEourv1UDShpbeSxAnvEd3UJAhzE163dC1YEDxWzsfk4TB/fD7RJuxlMqucc7DMYV9cp4O4mfP1hSTX4VVYqPWME/sMM/5GbNanA/yPxz8uUXbUL5yiyR5UC/hU+TM9I+EJ7vvO/Dx70mZAHP/0cp+PeA3fEhg3LdrbFQhUAyWl+TuF48Bw==;nw1UU4/hRwuVxtImd+HZZQ=="
 ---
