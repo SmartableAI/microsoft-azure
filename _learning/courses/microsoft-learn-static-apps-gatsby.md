@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT41M
 ratings:
-  count: 51
-  average: 4.8235292
+  count: 52
+  average: 4.8076925
 heat: 50
 
 provider:
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Create and publish a static web app with Gatsby and Azure Static Web Apps"
 
-secured: "SFZsH/pGTed2Q/BnetYcVMVQ17o2mLSIkqhd0cn9e27eWGmUFXhYB1yqdh0WC79/OBQ7uwM4tdxXBHT1JpJOi/Ul/ZDCu8kh9BqpSelBoZ6Mm5gqdCEis/ODwoLD2hHI2HFSM2hNwjCEuyauqSVAJS4uDYmr2j8DEoey2QzkERN0dPu75AyWgE2q/stmaNZxWUiAV6KQj8/5wwUEd8jnFNLf44mNwiFcnBVtaCAl1844702HEYQo+yu1jn1U/Cl+5ysS32jd/+BFbtSYcgvCaP785EA1QNeeIvtD5Cvyjc4uPzQ4z/8TSMLCxe86KOslmVbpAtq7pOeaz/sISk5Q69IjklnHBl4cZMNZ85ZIOgP9HSEr5QRVy2HYuvDDS5vWjUwUsaTBlnv3y1gNFXEVIw==;kejTFx+G7PHri06nN2mCYQ=="
+secured: "0PgJJeLojxgI0Pwn6IvXK8SNRzHVZAG/xke0I9Pi3+bbhagvRxIgvC6wxgSFtO4YVsoUQnnhJKljlUKolehV6lqc5udVi7pPAHjKvZUBPJQcGBcp37KePQ4EO4C9hU7TILoX1EHauzmX0/FRIdZjtXSUudomUIM8q/nlN3iK6Llt7K1RFxDxnHggeKA7KiXBHlgpUsFSIR2aRV5VH8KmjcU9oJ7295O7ZmIXLvaqnIVwCRDfq581pQj4Dj/p3Yr/C+5VZI9sDigAfeViqGhEaBxbqSd61ADVSJr3/42I4GtVT0wk9Zv1T8Kgfs+CjnLs7E4zvYbjVrZt+fUy2b3mmznWiOmo+cQ7nWDcNzTsiODkaYGqkFkpQawtTLaWYEoQviJJnUdOGU8mW2AzkD7LHg==;Orl7+P6P6UxIE4/IrOnoCA=="
 ---
 

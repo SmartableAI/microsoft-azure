@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT41M
 ratings:
-  count: 14
-  average: 4.928571
+  count: 15
+  average: 4.866667
 heat: 50
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Implement AI in your organization"
 
-secured: "6RTAQ/polH3emNzt/uHFOD7+3zmZbgrJ3H0p5X9nD7JZ+Y7r7+UiwNSJMheg/FPcF2suqSt4t9uc997fnDbSrcCTripPK7soMwFC7tq+i1tGuC6F+jaDIMChqwwULwW0cnkvqLzEPQdgzTe0D1kdBQnNo/JXcAdLAFlrsuybcMpIlTY4ZAnIX53nWJpzqQu9S2xdad/3XKBe0T6GKTOXYqDyHsYwFrcdcDjS7E6I+FiGF4HYrKkNXXacTv5K/YSAc07j6O0XUG8L4iR26ur1Id/GbpLm4eU57wkheG55laWLNQN0KXEUruLydIipP4NE4TFK2beNbe3RB2cTf5K/jW0vgRwhmkBYE5Kd7w/iqhrj5mfO8Pcv7abBwqlmxoWNWqBB5xiuhk2l3pA5Lc+g2A==;rlFGMioskRdi6XVsNa3lUw=="
+secured: "rF7w3IVxhameuwvUFb5EfIP+0Ab5JsVUniLirTnGDAjoq7cmFtVN42DUEGdCD4wNRhaW18fRaAvSGWrsLwueGfk6sb40KXjUftuS5Hla1wHM53xqKLaC3UREvYt8enx7oXdEjIAAk/baEUG/6+aUSeOvez6x4jOlPsBuBRIaHyw1Ce4fFZ4l0BlxO1Tdze6FDOP/qmFlWRobhzAuYQM3nkf6vMs5RcGhWt9i9WghuD0EXikaAk235i0xA/Xm7PijY/ZzcFfTvucqfus/D8Jq7A0zTl2sEPr60mmEQ6g0F0qVBJf0ZHS8UHAqsL57Yq5XdZntIVjAvY48ZGyC0bBCG0DqJcTCuwMQYe+7SaC0gJnahWiVmsPC9+pjDG8m5Kha9lGOmY+EMTXC9JMmdNA8hw==;B4IV2dsQJqAHBpsb2U6v6A=="
 ---
 

@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Perform machine learning with Azure Databricks"
 
-secured: "rcVGntNL44dN3LyeWuVmsqo/iKC/k0xm8uGnmHrjfAv/WZv/SKyEDZUk93+4mqSbbmS+f+KTOL6v/GIZcJWuloCpeVpUwfVr4ujJ1NOQ4FmRgNOaCD20zyDOyBJ32l86QWl3arsd1FaZqYxd4qxco5zU0g0pm+V0d6vqQ082dJ+ztD7dU51ZC3ghKbVrz9agPV9l+5jxywAjUBuNpf9ibXUvEYc3P0KL1kFTU1XrPH10wxf3+yksX4neaUNMcFEGODiFG/BvrGiJY23GugJgxkp8HY5rthnY5WJuZecXwhdQDlFYUDkRaiAIa6SGl7k8w0KSrn8iynNZegY7LvsH9CGb2mggWpdwfA2LoYPE/L1bT6ib2CLWdVwo8hRcRqNlNoXYY8/QDfOTJyDBUXc7vA==;QIw6dqxcUwKwXt5KJvjzKA=="
+secured: "sdlhy6GwLBWgP2VwWGXfeUKLQexQt2W4tS/+7ehAAV3u4WUdOE6bZk8Irmjxk+jqK4Mv2GJr97qSVQkyVWSr+kOMVmtQGpPxmwlwzajvi/IxLZO7F1AFHfJteMp8Axzsp0OW7oVqqjpImgh11z7Fp20oN/Btw4cd1LI6yvsSqBWjSX9uJVp12l+ds9dNmEuUiMgaICMpJJLQlyvzcZHDgf0/RkfDwn8DJJ8QZIEKlXzjxXtzyLx2tCqHVX+hcP7icyz8m9INYYiJc5nfuc9BxQW33/AimukCXoFtfqsSyNhzK+/lEXHlVjzYp1l+DQ1tIcVvPbVJQn1EobIslXVM+tzgZzJ0F8IM4pfFoOA+w89kf5qphKS+wzev3Z8AUvC/Hqc5MaiQBCH0BF2539EbLA==;xXDh4+duMAi/cw9B3OnOqw=="
 ---
 

@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Introduction to MLOps for IoT Edge"
 
-secured: "uXlwqLEQXYKOEcv/yvlvhv5xQTG/Koljbsd0W/AFD/I6uC7xz8gfztSftB8Hvt+/yajfvCgEBn8Zin6uiuqoRwKa9amp2BKIN2qr/cdajngh4kW49tWzzDMgJPkRmRHOoRy0KsMqSL8KiHhCGaYD/lk3CNN9TifDBVwjmFd3Ne7IUA65g3e5UbdThozf13YgMbdJvGxryb87Ig0HMCHBqMNn6ipPH+jumfgSquGxZrsSMLHota9KkFyOzreI3IEruJgLpdLHN+25pvdLRovIDX7N69UAIzAH6rOLgB4kcWzN5iZofmNcluwk7i8M1iXHSDEA6skuZLvc8VD94wI4KwWRFHtZRvf4R8T+cJ0E/4KmdYl5HsOE+Nzz9mCJdITMocjK8xmd1x1/E/axXjLuLA==;ggeBuBNTvSPR4Lld/pg7wQ=="
+secured: "Bp1QaLc+L0W6VZPE54Ha+4lZLXSv5zECnMg3p0RXsT5GQAZjf1ws7prwNHAo2faQXKhSJbw65e1+xpKY5f5CW4rMWTdE/HNh8PabL18frJb4icdJRLwLtHCEJgAGxD5KbdXexgkxbO3xluou6evfpr6iH5yt2VIVoAOoYY0aZNv/9RhA//mPcki+olGko3X/Q5wM4WYI411cc9RSv/OMPDxXDalx5yscDGgY1wbql/QdquwrwIp3TwT7TQfOH2V6LCMEkt1QAdjL7V6R1FKfnP9dzjoF0WvmXTuWKCaHn18k5JqfRHX3RMDTuGC9QPE8G8XnTfSJ9GvesBsqDn78tQX6cJjLmJuPrBLI3bqGgnalEv22kbEWdRDQkcM3Bi/5itL5oWoG+XrB38zA7HREQw==;MqV/tw+/41Dm2b/nbjhYkA=="
 ---
 
