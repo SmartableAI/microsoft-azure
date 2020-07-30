@@ -8,7 +8,7 @@ ampWebUrl: "https://www.slashgear.com/microsoft-azure-datacenter-servers-ran-on-
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/microsoft-azure-datacenter-servers-ran-on-hydrogen-fuel-for-2-days-28630860/amp/"
 type: article
 quality: 97
-heat: 137
+heat: 157
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 515
         height: 305
         isCached: true
+  - title: "Microsoft tests hydrogen fuel cells to backup its Azure Cloud"
+    excerpt: "New Delhi, July 30 (IANS) Lowing its dependency of diesel-powered backup generators, Microsoft is testing hydrogen fuel cells for backup power at its data centres and the initial results are encouraging."
+    publishedDateTime: 2020-07-30T05:06:00Z
+    webUrl: "https://www.sify.com/finance/microsoft-tests-hydrogen-fuel-cells-to-backup-its-azure-cloud-news-topnews-uh4eOBacddfaf.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 17
 
 secured: "VnmtACfM3qcIcH4orCCYfW/QTrOImUpuGkU9fFU5RkOMufRTJun/cS7yTFPpv0uzAr2zANNeV5SUXkSXF009hwDd/1QP8rjyKXWcigvqqD4LVLTxVIBy9/aF96yI1wOeWlJ7dQBSgP/uEDq46uSU25QxpjBaAI0kAoIM/XXXJzuHlJzXEaQd3lciB869zLVrnWSZNywCd6yJ21rdk0posIUayZm1BZ1NWM3hcuiq10se3V10HITja6aTIBa4tx0XY+E4StH373Zm0HT2ELhjmnU0+zVGzUd4J2iHehn0FWdcmQmQvqUBNikwRmQ6uvitdOgyd2aOqMqYQw+IvjaRYfQAAo3uAFxiCr7Iewa8Fa75hmA0P0nJMSgx3sYQCmsIh8OuPRgQQMnCo19Jhtc1IWefV4SFQrAB3N2ji152jZ1Qxbp3UITIt0yGXpM9L/wD6giuqZWp4RYJTcU1hwUaf/MnHwC4TrFBX3yNz3USsY8iIpz/SAIGUliRldHb7HqS;efrYOnnTR0HvIoSA2b+y5A=="
 ---

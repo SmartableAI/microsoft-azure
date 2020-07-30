@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/info-tech/barracuda-launches-fi
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/barracuda-launches-first-global-sd-wan-service-built-natively-on-microsoft-azure/article32111482.ece/amp/"
 type: article
 quality: 52
-heat: 92
+heat: 112
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/Jenkins.jpg"
         width: 985
         height: 657
+        isCached: true
+  - title: "Barracuda introduces first global secure SD-WAN service built natively on Microsoft Azure"
+    excerpt: "With the new Barracuda CloudGen WAN, Singapore customers can deploy the Microsoft Global Network as their secure enterprise WAN backbone. Barracuda, a trusted partner and a leading provider of cloud-enabled security solutions, today announced a new secure ..."
+    publishedDateTime: 2020-07-30T04:55:00Z
+    webUrl: "https://www.cmo.com.au/mediareleases/134723/barracuda-introduces-first-global-secure-sd-wan/"
+    type: article
+    provider:
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 28
+    images:
+      - url: "https://demo.idg.com.au/cmo/cmo50/2020/cmo50_promo.jpg"
+        width: 620
+        height: 254
         isCached: true
   - title: "HashiCorp Announces General Availability of HashiCorp Consul Service on Microsoft Azure in Collaboration with Microsoft"
     excerpt: "HashiCorp®, the leader in multi-cloud infrastructure automation software, today announced the general availability"

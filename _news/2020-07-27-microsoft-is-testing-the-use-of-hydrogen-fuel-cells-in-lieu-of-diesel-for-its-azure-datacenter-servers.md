@@ -59,6 +59,15 @@ related:
         width: 515
         height: 305
         isCached: true
+  - title: "Microsoft tests hydrogen fuel cells to backup its Azure Cloud"
+    excerpt: "New Delhi, July 30 (IANS) Lowing its dependency of diesel-powered backup generators, Microsoft is testing hydrogen fuel cells for backup power at its data centres and the initial results are encouraging."
+    publishedDateTime: 2020-07-30T05:06:00Z
+    webUrl: "https://www.sify.com/finance/microsoft-tests-hydrogen-fuel-cells-to-backup-its-azure-cloud-news-topnews-uh4eOBacddfaf.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 17
 
 secured: "bAPI9c06TBVHDOELr6k5lPe+/1K6rYMSPgYOGBqjXSa7RuhMQznVJaYNxjBliLrWVlwk+ZtYIHOV9dbgr4aV0pkxjLEZgxtzs3kubYak1otPcG018V8ugLjplBm/4dg0QpdrdX3764NVde2iqERiKfSNc7pCCBsYWNEZFDn0Tq+MetLy9uMdIL3Io9bO9XkeSByZs3nnBu+7rM14bohjcIOR4re4Z3A63Gm8YFTQH5BYQRbdy45FSM/6jZvLRk9kizgmvvT006RTvmYHThEo0U8kwC5x7lRjS1lajTXV9C6RXBN15tgrzAFk/doFtBUySdIw9BObrPKtDAuYAhSAeGG5X8+ktzlzsVUbFwZKqozGtlWc5tn/zE/NXzxYnAPyhRUz0ubSkUoCayVR1Wig2UKl1uXnP5P14i+Mlmdr4I9cc0mUIpgWZfo2aYKO2ax/XA7kbMytQWNFqQTtWBdIrYYmueOqwIud9Yz4vlASkKhwqzuqbiJA1Z6DEXRJUE03C0tTgg/gZSYhubSPFPNfqg==;8K4bq7AGZFF5vSfYG4oVZg=="
 ---

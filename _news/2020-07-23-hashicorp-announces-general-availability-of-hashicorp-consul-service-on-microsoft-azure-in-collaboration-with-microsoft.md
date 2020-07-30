@@ -49,6 +49,20 @@ related:
         width: 985
         height: 657
         isCached: true
+  - title: "Barracuda introduces first global secure SD-WAN service built natively on Microsoft Azure"
+    excerpt: "With the new Barracuda CloudGen WAN, Singapore customers can deploy the Microsoft Global Network as their secure enterprise WAN backbone. Barracuda, a trusted partner and a leading provider of cloud-enabled security solutions, today announced a new secure ..."
+    publishedDateTime: 2020-07-30T04:55:00Z
+    webUrl: "https://www.cmo.com.au/mediareleases/134723/barracuda-introduces-first-global-secure-sd-wan/"
+    type: article
+    provider:
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 28
+    images:
+      - url: "https://demo.idg.com.au/cmo/cmo50/2020/cmo50_promo.jpg"
+        width: 620
+        height: 254
+        isCached: true
 
 secured: "TfsBPXl1Q9pwcIajf88tpLZLB0fZ0Pxwci06fBO/lIw2Hc2QLxCLlHGckOXxElWDtwrdbXNK4a0VSF/zS7XeVSuaRfhPHl8qfLFUESxT6LUKGGALoPh68xhet7tfpjNuUDn329qVIKvO9culIVXMS6C9vWhX4MKyNhBrhvc53foH96/7fpUbx+afjJRc083XjzAiRrN76mCTQEMmt5M8j9Ztt5LxMfgZ7B/E8i+6Q4oeBWKU+R5Xtd0+WlBMC4KcJPQVV7ljavpkrfyGTDUiRSLsbr68sABLhfiVYG/E/aiVg1WX45yCdT6nqzN7BL2PxEOLsQYhXKF9Z5NgSP83M82UapEAwWyWx31eBdm+ZGmh7W7mU/eqA2WwUYGGLmhYO6tuav/em4fDYgAGtPRAlDtY0lZMF2EFLq7uftd6c5+uCr9BX7ibjjqKedlX2ipHCIRN14APV+3J/2hyQ3ZvWDTIie2jmKhJVCZ2lj7iiVczXsjU7OXIf1odRSGcmzOT;Wi5jh16FPtS+zwSe/Pqmkw=="
 ---
