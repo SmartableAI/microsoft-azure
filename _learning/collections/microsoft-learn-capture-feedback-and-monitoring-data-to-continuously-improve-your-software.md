@@ -4,7 +4,7 @@ excerpt: "Learn how to recommend and design system feedback mechanisms, implemen
 type: collection
 price: Free
 length: PT1H46M
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
