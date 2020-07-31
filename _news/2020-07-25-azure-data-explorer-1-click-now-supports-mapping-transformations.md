@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-25T00:00:27Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-explorer-1click-is-now-supports-mapping-transformations/"
 type: article
 quality: 77
-heat: 77
+heat: 97
 published: true
 
 provider:
@@ -19,6 +19,17 @@ provider:
 
 topics:
   - Azure
+
+related:
+  - title: "Azure Data Explorer LightIngest now supports actual creation time for historical data migration"
+    excerpt: "LightIngest is a command-line utility for large volumes of data ingestion, and for querying records on the time created, rather than the time ingested."
+    publishedDateTime: 2020-07-31T16:00:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-explorer-lightingest-is-now-support-actual-creation-time-for-historical-data-migration/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 65
 
 secured: "rLYE0nqWT/ro+GUs5cvbed4Yfjm+S24Nm9m3RKB6pG3jLt//ApoB/znhqoHWDdHzNw01gzKwsaQnqsgzkdx4VFSnDavhhn2+dWi7GyCNBzg1x1LmnOyBvUIzNXkF1C0ihw1ocE4PKpCIoSXPGo5YrsL4bhCjiEGELv1LKtM+R67JOiIv/fvgamdTzUpntnr+8aRuJvvO7IzSabGi/GaZroZIuSalDPow6rMyEWK4a56lRnziBsE4USyDCTekLxMUboXJHWj5OwmgIVPnGF+AcH/dRVmYKomYoPc6ak8TiWOxGQf5J8maaFMNaBNMZ3estZpT2muWkyhBimfxm3fYzg==;SLSp9YEsqn8/YxPwsA6Jjg=="
 ---
