@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-01T08:00:06Z
 webUrl: "https://azure.microsoft.com/blog/azure-firewall-manager-is-now-generally-available/"
 type: article
 quality: 97
-heat: 457
+heat: 477
 published: true
 
 provider:
@@ -140,6 +140,15 @@ related:
     excerpt: "Azure Kubernetes Service (AKS)-managed Azure Active Directory (Azure AD) support is now generally available. "
     publishedDateTime: 2020-07-21T16:00:56Z
     webUrl: "https://azure.microsoft.com/en-us/updates/aksmanaged-azure-active-directory-support-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure Data Lake Storage lifecycle management is now generally available"
+    excerpt: "Lifecycle management for Azure Data Lake Storage provides an automated solution for tiering down infrequently used data to cooler tiers, allowing you to easily optimize your data for both performance and cost.   "
+    publishedDateTime: 2020-07-31T20:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/lifecycle-management-for-azure-data-lake-storage-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft

@@ -75,6 +75,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "New regions added for Azure Blob storage object replication public preview"
+    excerpt: "We have expanded the preview regions for Azure Blob storage object replication to include East US 2, Central US. You can start previewing this feature on any existing or new General-purpose (GPv2) storage accounts in those regions."
+    publishedDateTime: 2020-07-31T20:00:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-regions-added-for-azure-blob-storage-object-replication-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 75
   - title: "Azure Blob storage—Network File System 3.0 protocol support is now in preview"
     excerpt: "NFS 3.0 protocol support for Azure Blob storage is now in preview. Azure Blob storage is the only storage platform that supports NFS 3.0 protocol over object storage natively (no gateway or data copying required), with crucial object storage economics."
     publishedDateTime: 2020-07-27T20:30:04Z

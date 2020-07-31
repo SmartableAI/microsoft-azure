@@ -8,7 +8,7 @@ length: PT50M
 ratings:
   count: 84
   average: 4.6666665
-heat: 53
+heat: 
 
 provider:
   name: Microsoft Learn
@@ -24,12 +24,6 @@ levels:
 topics:
   - Azure
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cmu-virtualization-social.png
-    width: 800
-    height: 400
-    isCached: true
-
-secured: "wfynI+wxjk1vZk8pHQSKt56gMj9009Ow+Jug784P89CGPHkfs0i8EMMNIXzCEzsdzE8RldI+Ty7zisWgkJ0ltaUBSxx7nLuMhHQLJanAuxsFgatUQp9Uj/QnSnKix0ZfNHfyJ2kBz3d3tC4uCQYTif/nk/UrotDiniNniFt7yv6lizGtp4Ga6a261gt0tdlUJMjZadhs1fM+l11baSEAeOT1ce7HAej9b4RQJH4kgA+XIOF5qqu2LjwdD1rQpe4sfSaiCbd3uOoSU6O8Up3obI8gs3EemxBWaoTQPidbnny/Um3EcjKZpZX1OPCmxo0nZrdMCbY5Y25xVNU+crcHRUI7cqnTikYDL+gxBgdac8w=;RystKTDynM1KoMzPv1DrZQ=="
+secured: "DESGfFy8n104PB/6k0BiKbHEuU6rMVGIOQNEDFzuPY/h0506sMdsqjzBEsaulSiCFWJUftzX1fE1YBHO4dtVOnWu6r/ltJ6fLkWdMfqZH4S2URE+L+EzDgd+6svWU29JfYfDJUz/MsrFA9bSIWiQmB32P+va7g7Q2x4+lxXxa8pQN9WZpjpTZY2PZNrYRePq+fmultdG5b/i/+773lCRvA9+RfY+g5ykSS47u9m53hg/8xHcYrwk3F7mXTPPe+Baatb+BFnKtpwSxiEtw+7Mb/lxFlqyBreROAwE84eXp6W4Z7W4XffjCS+F6hQtIxLKw4KeWe/Va93IVeKuYWe4rQW+O6yk98UoY26dk6nmdRc=;U34K6MTRhymbTgzgD3SkXw=="
 ---
 

@@ -84,6 +84,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 75
+  - title: "New regions added for Azure Blob storage object replication public preview"
+    excerpt: "We have expanded the preview regions for Azure Blob storage object replication to include East US 2, Central US. You can start previewing this feature on any existing or new General-purpose (GPv2) storage accounts in those regions."
+    publishedDateTime: 2020-07-31T20:00:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-regions-added-for-azure-blob-storage-object-replication-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 75
 
 secured: "QL9hSDHNAu2/FAYuKRDRXpBQBUckWneabTP12SZOEbQSfv2unbmTQkVDIv1OZrj11BxmV45YD1PL5WWZGb6heFd69b4Mv6BfoEmjKpAwRZg91oH7euk2p7VtKjMOTe0ODJqjbT6ce8LvKDGSXKPTKVEB6DiKzDkRYbmBrwkLT2R701WQOtYCyXNCavBkN/1sNe2AWnz5dDdAmwuoFOPr39snD1zXyeY2xAxMWUWe1lYektHfJngIloTUWJvMb+Am1RSXno13poysqEIX6ThjCS+lh3uIX+h2woI9fzEgRCnnH+Ve7uZLoXAiyvffXiK6mer6PAQt16wMrLMT9cPriA==;HR81vxl655T4ef7EQIBf7w=="
 ---

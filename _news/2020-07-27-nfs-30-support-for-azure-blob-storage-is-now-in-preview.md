@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-27T10:00:03Z
 webUrl: "https://azure.microsoft.com/blog/nfs-30-support-for-azure-blob-storage-is-now-in-preview/"
 type: article
 quality: 96
-heat: 236
+heat: 256
 published: true
 
 provider:
@@ -72,6 +72,15 @@ related:
     excerpt: "Azure Kubernetes Service (AKS) now supports creation of clusters and node pools with containerd, an industry-standard container runtime, in preview. Containerd enhances pod creation speed as well as stability. "
     publishedDateTime: 2020-07-21T16:01:09Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-aks-support-for-containerd-runtime-is-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 75
+  - title: "New regions added for Azure Blob storage object replication public preview"
+    excerpt: "We have expanded the preview regions for Azure Blob storage object replication to include East US 2, Central US. You can start previewing this feature on any existing or new General-purpose (GPv2) storage accounts in those regions."
+    publishedDateTime: 2020-07-31T20:00:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-regions-added-for-azure-blob-storage-object-replication-public-preview/"
     type: article
     provider:
       name: Microsoft

@@ -1,9 +1,9 @@
 ---
 category: news
-title: "AKS-managed Azure Active Directory support is now generally available"
-excerpt: "Azure Kubernetes Service (AKS)-managed Azure Active Directory (Azure AD) support is now generally available. "
-publishedDateTime: 2020-07-21T16:00:56Z
-webUrl: "https://azure.microsoft.com/en-us/updates/aksmanaged-azure-active-directory-support-is-now-generally-available/"
+title: "Azure Data Lake Storage lifecycle management is now generally available"
+excerpt: "Lifecycle management for Azure Data Lake Storage provides an automated solution for tiering down infrequently used data to cooler tiers, allowing you to easily optimize your data for both performance and cost.   "
+publishedDateTime: 2020-07-31T20:00:18Z
+webUrl: "https://azure.microsoft.com/en-us/updates/lifecycle-management-for-azure-data-lake-storage-is-now-generally-available/"
 type: article
 quality: 77
 heat: -1
@@ -144,10 +144,10 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Azure Data Lake Storage lifecycle management is now generally available"
-    excerpt: "Lifecycle management for Azure Data Lake Storage provides an automated solution for tiering down infrequently used data to cooler tiers, allowing you to easily optimize your data for both performance and cost.   "
-    publishedDateTime: 2020-07-31T20:00:18Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/lifecycle-management-for-azure-data-lake-storage-is-now-generally-available/"
+  - title: "AKS-managed Azure Active Directory support is now generally available"
+    excerpt: "Azure Kubernetes Service (AKS)-managed Azure Active Directory (Azure AD) support is now generally available. "
+    publishedDateTime: 2020-07-21T16:00:56Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/aksmanaged-azure-active-directory-support-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
@@ -208,6 +208,6 @@ related:
       domain: microsoft.com
     quality: 59
 
-secured: "x3Gw44s+w+nBRbWur2f4lTwvPJ89Kq/M3hGnM/wpYYW/Hyr666PRb4pnFvVdO9Wu0Kp4zp3sf/WNpyM3l+bW+QwHZJzHI7R71FnoMM1CApBZljfMj/20OQhxndLkxAHvDuT5LeM/kiXvHdAtVMD0bjRzoFvTSx++oNDzK/+aRDnJDRGt9Dw7rv87tjOdYpXuiSRuidAlFVw7UGemE4EmuIpEmKnnAWhsyv4uN7i4QYoYZVEwhUkV61dJqR879vsBuytZ1wViDMP5Mfy1CKjahzYYXZ2ndDkTgoHJwcgQMLmZgoX9a2W6T8i+L/QbBhWBdn0mr24khraCbjrtQRlDhQ==;j5K4h/ye9bzF8kEA1hyqSA=="
+secured: "2tRkkQ3Fl8MVYYVRCHEKJATBsG1v0UkkG4YuwmJIM9Bz9vWyXbiuT5BbxuWKzC74za4Qc4s8ROPfIIIKRG89cfVAlQ1gSGsot5ZX5YRDY6JzzccpFYOPKhaVcQKUMlUjJaOfe1HtFtO1YcBInjTMus1uSr+WxxqylYopthDxmKJtE6DsnZ54nXFph7gDNRJSMVdWsRifZ0PzXzCgXgG2xx2f1YkdR23W1T5WaDrHPjOFFmZRA73eKiBeSXTU1MpnqGhtUDICzhWDywWijVHOo2r1ciplUiqPvLh76c/szUxPXkmkAJWIFuwcsw4Gvqf5wSYbwIzklSLkwWdoEIuyww==;ev7IN6zGSK4sZI064tq5pQ=="
 ---
 

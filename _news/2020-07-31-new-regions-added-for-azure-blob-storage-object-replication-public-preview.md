@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Azure Disk Storage with Azure Private Link integration is in preview"
-excerpt: "Azure Disk Storage now enables enhanced security options for export and import via integration with Azure Private Link."
-publishedDateTime: 2020-07-21T16:01:46Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-disk-storage-with-azure-private-link-integration-is-in-preview/"
+title: "New regions added for Azure Blob storage object replication public preview"
+excerpt: "We have expanded the preview regions for Azure Blob storage object replication to include East US 2, Central US. You can start previewing this feature on any existing or new General-purpose (GPv2) storage accounts in those regions."
+publishedDateTime: 2020-07-31T20:00:27Z
+webUrl: "https://azure.microsoft.com/en-us/updates/new-regions-added-for-azure-blob-storage-object-replication-public-preview/"
 type: article
-quality: 77
+quality: 75
 heat: -1
 published: false
 
@@ -57,6 +57,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Azure Disk Storage with Azure Private Link integration is in preview"
+    excerpt: "Azure Disk Storage now enables enhanced security options for export and import via integration with Azure Private Link."
+    publishedDateTime: 2020-07-21T16:01:46Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-disk-storage-with-azure-private-link-integration-is-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Shared disks in Azure Disk Storage are now available"
     excerpt: "Shared disks are now available in Azure Disk Storage—the only shared block storage in the cloud that supports both Windows and Linux-based clustered or high-availability applications."
     publishedDateTime: 2020-07-21T16:01:30Z
@@ -75,15 +84,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 75
-  - title: "New regions added for Azure Blob storage object replication public preview"
-    excerpt: "We have expanded the preview regions for Azure Blob storage object replication to include East US 2, Central US. You can start previewing this feature on any existing or new General-purpose (GPv2) storage accounts in those regions."
-    publishedDateTime: 2020-07-31T20:00:27Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-regions-added-for-azure-blob-storage-object-replication-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 75
   - title: "Azure Blob storage—Network File System 3.0 protocol support is now in preview"
     excerpt: "NFS 3.0 protocol support for Azure Blob storage is now in preview. Azure Blob storage is the only storage platform that supports NFS 3.0 protocol over object storage natively (no gateway or data copying required), with crucial object storage economics."
     publishedDateTime: 2020-07-27T20:30:04Z
@@ -94,6 +94,6 @@ related:
       domain: microsoft.com
     quality: 74
 
-secured: "WwCwDqFIpEAf8jM9gveVH1aNi74+Eo+BqGeennUgFm/p7G8o+nfd+YKJYYmPcLJ5burl7YhWfcHiF5j99XIFsfrbGI3wIbEpFJKf/MuFCPyrMmgGnqCjH9nXfj9TZAKt1lhXHZT645O0VuwBAlLYZakLiOCaVRlGOysfJnBY/jfztnksjP0tTsM0C1LBZt71CyyciXYZentjOwaH98fkEdboRSFd4OI4s6YE4TMYdbwOaNju7KJ+hkiY3w/PMinyv7t08ikdQ2no4PkcG+Oig76kVoDww/Y0QCymGLroa7xXnMTgh8YpMGPLA+eA58RV9ZG83UTe50jQXk+pI0tkrA==;pp1jxM3Dg/4J/sQ+WOaopA=="
+secured: "0sOSQ3OHfDZ1vl2LAhK4WbVmXm8MZHesURGCUZ6zrQeLKr3MVfrJ7mtmeFehaY08TGpikDNnzJIsWOjpYYkBg0vycNeXcprAwSo1hSaDWym+ZypFyAaXZZ6BOe/VPFxdck7bSOdS6QK1z4Ob8q1iSp8ooj8hZsMP1+lglxYgIqKSRxhtD2lV0nJWbLEoviQ9n0lf9LxR4k+UmWLMcmY2QxH/yM9/gmC0ahcU1iwbQAtAQ1OxGTe/voR4pVWfetBOGC3EXwYg4NtiazMIOLjDvGOZU3kgt/pJ5ykDI14IVBgXHgDCSwTxICXOdm6GpkUnyvVxZwjB310aBVFVKcxi8g==;i/bAYkJPf+LvjtUHoaRwJg=="
 ---
 
