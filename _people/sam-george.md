@@ -3,7 +3,7 @@ name: "Sam George"
 bio: "Father, Husband, Ferry rider, Road cyclist, Woodworker & CVP of Azure IoT"
 location: Redmond, WA
 type: "profile"
-heat: 42
+heat: 58
 
 affiliation:
   name: Microsoft
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Sam George"
 
-secured: "b9eEwlLGQk/UuihCeYwrGZWfKuWHtbe0T8oHlwTXnfFk9URRFWKv5bzv0rItMXYGnpDs2NLMbSxhu285ZOjtCaQvy3AURxCzo8fw6Ohtgpv7imMojBkYJLUPvmunbwD7x3W2UR+SlJQxqHoDarkGHDzdCDxl/h3hUFUBwMu+L1O+ht8D3hvReG1hAx7lXtoiD1YzlW2+5CbBtewbfVYlfJ8bV10D8R7X+BBNq6qqli8Et7OBjcp3nVVqoswSW9Nd1NrCeBAFJLjZ6SwHi/m0rLQnNeSB4vQ5laaj/wMTnycPy9muX43AGjl3o1kgRmYbKslfFRIm0MBEZxLSlAgIQsT3sYAsT7inTPMsI/kFEKb2xVMBAuiAJ/t48H7HH1gl;E9M8oDid5Osg4jqLmVaEeA=="
+secured: "6MWIGNhbTS1kj/GK219yiID42KETudHxldDxv1XRf0R4C3FzwGjOu0L3uH8kS588EB1Te1pu/WbDXs7keZfuVRrEJoWAx0/qqO8N2lbXkpnsENqD85xS1Xa/b9urNoIc/Wc7TWG2UOyWsI79f8vGZaSZT3WFyppaKt2wSiZK1wsp50w73o9efxYVKPSDLMd5hM31OomLY0HUA+0YDz3Z8BsXVbvmJionnWobG+40y6QE5efcTiKMimjzd6YkhWRIzpRgGNWbwc77kp4U1lHbKU2iRd3T1C4AGAR6WnflZFe61kTm1CyrkN55FObruvtGbcQHb0tDNkmFNvr6o2wcGp8CNVKEkOL+dooPjLEwNmEn2wqPjWqYLT06V0cVNn3O;X3dd9w7mOmhpGclNtSmgjA=="
 ---
 
