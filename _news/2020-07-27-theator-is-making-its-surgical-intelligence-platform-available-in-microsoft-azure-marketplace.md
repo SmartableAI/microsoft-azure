@@ -1,38 +1,24 @@
 ---
 category: news
 title: "Theator is Making its Surgical Intelligence Platform Available in Microsoft Azure Marketplace"
-excerpt: "Theator, the first of its kind surgical intelligence platform, announced today that its AI-powered platform is now available in the"
-publishedDateTime: 2020-07-27T20:00:00Z
-webUrl: "https://www.prnewswire.com/il/news-releases/theator-is-making-its-surgical-intelligence-platform-available-in-microsoft-azure-marketplace-301100033.html"
+excerpt: "July 27, 2020 /PRNewswire/ -- Theator, the first of its kind surgical intelligence platform, announced today that its AI-powered platform is now available in the Microsoft Azure Marketplace ..."
+publishedDateTime: 2020-07-27T13:24:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/theator-is-making-its-surgical-intelligence-platform-available-in-microsoft-azure-marketplace/article_a9fd22aa-66a8-5f4c-9ec5-7fc6c9640713.html"
 type: article
-quality: 26
-heat: -1
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
-related:
-  - title: "InfluxDB Cloud Extends to Microsoft Azure Cloud — Now Available on All Major Cloud Platforms"
-    excerpt: "InfluxData looks to accelerate IoT application development with PTC through strategi"
-    publishedDateTime: 2020-07-22T13:04:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2020-07-22/influxdb-cloud-extends-to-microsoft-azure-cloud-now-available-on-all-major-cloud-platforms"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 46
-
-secured: "P7Lfpad3irzx9o5DO9ISrCNiqNVJvHr/+psb2Qi/Ip6WfU1QZi4LiEmq9meM5pTjde0VRl/9m6hUwcwcxsLjO7n5MDSeuXBilEBcS9FJiM569y/TutWoVP2lL3D4RSCtBnPeUdlIHtOq9ORRcY5Hu2GEv4mZn2kvzSqFS53YYWc7BfbAcvyuS9K0YWzIw8PQDfTFA2IE1WhbsVPp9VbKHC/3S/FE3PO9YjgeZW8roAYZKfpZ4RgFkZW7Mpu6Q32Mk7ZUKE0m0KY3BpMD5GDjLnbMR6sFYOUcUAnvD2zVyWDk9cvmQojFR5/tGErdJy9hrgiwVx6aj01ulObL71R1Tg==;LaNif45+ZaqykyTXNbl4lQ=="
+secured: "1RL23HkDWg6mZJnfyzj6RX9DbdW7Yzs/O4FYjXVq/LrsGRO4EJQkA5BRbJ/SSdfIw46L40de2lJjOg5Vd4P3XZhDQ+RywyUlHyBOQLuurvBogQTWMdpsPBdb6RAPi1Q/zrOe5kQruvs/jRkowwA2NHv8YXHNmhnNhwXPSQar0ID9GJ8HguojiM5KjnnrCw1fZRQp6iZB/Zl+XdnrU41kdoFIaXstwiBWzk5xPYVIVhHDBA+328fDPQ/nrrVU4ao6Sr0mLK4vBjOaf6pk2f/NDR5aKyQ8NOzTdkwzd/P7Wv2wnXtVLwJyBzoy2ef2V5+vKASBuuZelEjUTBpk74kHVA==;LFVp6iCEAa37AKnl+00x+w=="
 ---
 
