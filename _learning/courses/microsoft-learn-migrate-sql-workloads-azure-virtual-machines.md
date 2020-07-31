@@ -8,7 +8,7 @@ length: 25 mins
 ratings:
   count: 49
   average: 4.5306125
-heat: 110
+heat: 50
 
 provider:
   name: Microsoft Learn
