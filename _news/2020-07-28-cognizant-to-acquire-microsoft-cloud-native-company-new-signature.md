@@ -8,7 +8,7 @@ ampWebUrl: "https://www.livemint.com/companies/news/cognizant-to-acquire-microso
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/cognizant-to-acquire-microsoft-cloud-native-company-new-signature/amp-11595950292958.html"
 type: article
 quality: 42
-heat: 42
+heat: 122
 published: false
 
 provider:

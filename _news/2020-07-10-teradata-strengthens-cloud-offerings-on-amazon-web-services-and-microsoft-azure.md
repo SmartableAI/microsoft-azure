@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-10T12:02:00Z
 webUrl: "https://www.businesswire.com/news/home/20200623005192/en/Teradata-Strengthens-Cloud-Offerings-Amazon-Web-Services"
 type: article
 quality: 13
-heat: 13
+heat: 33
 published: false
 
 provider:
