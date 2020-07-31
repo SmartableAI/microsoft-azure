@@ -8,7 +8,7 @@ length: PT33M
 ratings:
   count: 41
   average: 4.609756
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Improve your reliability with modern operations practices: Incident response"
 
-secured: "kvpfZdT1En7ljQn6OcTPTzrAZpL2EP+oXVRmSK4aanKAeFLyiaBt08Ge74lW33oE4f8d4RxZOMoyPRXFx6CpBKh3+F0Prg+Yl2tUUMzv9viDC4eY8h38Dnz/WfGz5fgW4PR4Q3B/PmHmKJibKhaNYGU8Zv5+En2fOI35GG2ItMeyi9BX7ZJRcLbh1cd8HVSZszzdb1gpWdv4biIkSvxC4Lq208rX9VNIqWxR03T03R3GtdnqtR9xVeTSMMuxGUQLzxQEhAp6riYL91XIjlMB1Ilmb2Bp2+D8yCkEqZVWharWbVajCI9ZrMHah/ljEMzYuvFuhQHa2x4PSa++swbro5tTQ5NqpwYzZtVSz1zTFxQj5HCGCZNkT+WkdFW48qLjHxkRIiUXug32hbjayAbE1A==;leBns620f6KpnnprDi7Z1Q=="
+secured: "qXnLBGK9leSPhKjiUAuu38h5CHLmhvSeDNJCGBOucvl6vayzLNl3eI3ag+rl/Uqc3vi+1bCkmUPBMafvw59o8PgNEI5WbAM1dMX6FzIgJ3JwbIdKmWrX4E76O/FfHU9Abwy5S4uuu9LwcZdZqozEfPj8ML9TC52ylXpGHiD4Co+pfUpHSVMWBDDapf3KdjgCObCUrIWXuSBj/wTxqTbGVBuinpRqmp+2LKOL1Nfz4sjI1rSTRfHdKp4kwlHt+tqiqAfhrRfeHKdEo6bgEENmy2B6kLuPWw2CO5cim6zsoMmt33gniaweJdOOsBM8zP8X3VhOcnnXM4A6Kl40FVY2dPiolPbOIj36h3KI4pXnNAixa7G3Fsdav5oM1Tz0KauIwwPUXa5Do9eZ2PYodbicNQ==;KycI8T1rFE6ENN47/okCNg=="
 ---
 

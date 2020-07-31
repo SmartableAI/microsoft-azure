@@ -8,7 +8,7 @@ length: 82 mins
 ratings:
   count: 17
   average: 4.0588236
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -36,6 +36,6 @@ images:
     isCached: true
     title: "Build a Web App with Refreshable Machine Learning Models"
 
-secured: "uYar5oCRJIXGnMMR3+Ut7pMzCEt8/IDF81Cdl/H7teGIysXzBKof+bw0FHx50m0xFEJlBQ4EAnTEsZxNMo3RT1bPfQJEMygjISCidrQBaJacpvQ6tWIxklFQOEwV2T2RqH7YX6SKZ5hFeF7pXulIG81nAs2jAshtq9c/m5puTu0E9TLsUqW5oqMnbV11Vo8a+6gLihZHSwRqW1wnTV3nOIseA2TYJK1RbN2yTByHr1myrQc+8jYYmc60CCVj8NQJyrQYk2Jo0khJKH3rNWgPixXaqlLAvehysZ5x6pwKwInVm18yP5Dtmr4NS7Jrj+MUNLxPKcuIEhrTO7w3NRF8TU39aic5vZO+f4nGAjiWzx/aznRaEVp1qUjg62S8lM3r0PPXOyfbusOVNJq4ZCXieg==;OgMqVaPtMhVpFfApJ1LWew=="
+secured: "WPrizGxw3KNpDryjbpdLiOrILJHh2VnngZU2AB5Wb+KXo02PYVJbaBfuymh1LocwetYIoSvYgerRwQudHJEv39FBQqDLhbc5p4cdjn/LuFFbEcFl8BGfZEtF/+1UCugm+0709mvZyBdncF/vcUgDg2c+zXVTuQLZGiBdLdADZC9ka1zLSzjFoOH0trVYTm3V5j9ptj0GKkEziHDRIO+IVIAQ5WuwSacvqRyyIvC//r88GHsV//BlYoZbWsZUQZIaTOvRbbOtVq8vd73iWQN036Acz0Y7jnb7h1nfUAcL0As27PgaQAo6UhNDUp3vvGJhJ22ATGQJGSsYej7WtrbrfOCQ6VP/tudA0kqifPkGXyPnYShGwD5WVUBCZCnqOM+/3vcl2BOAmP9pfofTFYxcLg==;fONcmiDV9M07rCXbUctHQg=="
 ---
 
