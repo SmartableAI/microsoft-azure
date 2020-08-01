@@ -45,6 +45,20 @@ related:
         width: 2421
         height: 1270
         isCached: true
+  - title: "Ukrainian Azure Expert MSP Partner strengthens its Azure skills with achieved two Microsoft Advanced Specializations"
+    excerpt: "Cloud Services has earned the Modernization of Web Applications in Microsoft Azure advanced specialization, and Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s in-depth knowledge ..."
+    publishedDateTime: 2020-07-24T10:12:00Z
+    webUrl: "https://news.microsoft.com/en-cee/2020/07/24/ukrainian-azure-expert-msp-partner-strengthens-its-azure-skills-with-achieved-two-microsoft-advanced-specializations/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 14
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/566/2020/07/Ukraine-768x512.jpg"
+        width: 768
+        height: 512
+        isCached: true
 
 secured: "LiLO76o32S8CgnFdxWP48LRgtbI3TQdCm3xQ9SLfUbyglWpiasp1Z7GLjmN3otN9Zje9EieJ4CA5L/THG1N1WQq7ICBgb6h0UKB6vNpKAXLCdWojT8tFJImvUgdgJEDht8pMOpDKmj+QUUjAuhfMCLOIVAeTj4xcOm/YWd5jSWGbkb/wLvrW0Syn3+x+puO/IldnGpd35Th/TRKICJb+eX8GLqg1UJ2nKCIzcXeFbkmqbUn6d4rb0Od26TAewW0uJmyd1pJK/DxuJNQ7actM/XFngK6zTiElqQLnqFksGk4mzwF2dNsCOqTczYAAkThcFPDapvpiizcIEhL71E8G3w==;SyH0OwFMsTArpagoPMgxlA=="
 ---

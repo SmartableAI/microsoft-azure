@@ -46,6 +46,20 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 17
+  - title: "Ukrainian Azure Expert MSP Partner strengthens its Azure skills with achieved two Microsoft Advanced Specializations"
+    excerpt: "Cloud Services has earned the Modernization of Web Applications in Microsoft Azure advanced specialization, and Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s in-depth knowledge ..."
+    publishedDateTime: 2020-07-24T10:12:00Z
+    webUrl: "https://news.microsoft.com/en-cee/2020/07/24/ukrainian-azure-expert-msp-partner-strengthens-its-azure-skills-with-achieved-two-microsoft-advanced-specializations/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 14
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/566/2020/07/Ukraine-768x512.jpg"
+        width: 768
+        height: 512
+        isCached: true
 
 secured: "rgEc5XV0x8ukNAkQzBpAfC/h7Ba3zZxa0Qs91rJHQz14Ca49dhojBr6nUdCgQdyM+JhL1OtB75ulPyvNPvJ1nP3V+yhYortEkJyyP68UWQuOsmc7jZKmcIlb5oqF88AG5Qv+h0S7ex/VLCNjULug56XvD1/UfYgUSaPdtVc8TlKKA0w1WMYoMLhBJUliqcssQvOhNKkmRPs9cji4DdBqUeI/V9ygOzYXLaYBXRIMwBT/FzuA+NU/hczYclCLGPfamrxbPwJdQRMY+aQa+aR7WM8PvfKmDKSxaatnyaEH1wbvwUCKxz/vnDP0Il5RvZPIvlOssdy1Nr8+Sl0Eqlz8+L9gCBVKsIqIsfRmZIEiOMzfrEFZRw7Tgr4YSSGKe7quLY1D3vpuYrM+DEpgiifT0Csp/veCbjNmE7dItin/93eUKOaVK5j3sIBk7gT+UstpempO6dHdHu+NTbUXARHkkNyXm8c5G4LOil/aQtCgKLlXYUAibvEPabnjSgFpht3xVtXbQhhf9iPn0rg7/U4Xzw==;fkGVeVGmJP02RsT+63H3Sw=="
 ---
