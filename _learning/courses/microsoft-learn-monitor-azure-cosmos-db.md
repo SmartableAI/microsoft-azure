@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Optimize the performance of Azure Cosmos DB by using partitioning and indexing strategies"
 
-secured: "acIIXTZ5++Esjabvt+hvzdVFJZZUUW19yW9HcNxjqAPP4rrRWgTnCBiYez9Frzu6Vhm2kv21V7cwEeDbhQz0O7kaqX3apMTdqpBYOKRi4BQh6OvtMsp20c+a27C6PfMSJcVDRnmrPb9lg/xpQA76ZcxBoKI4IeK7wX6X5aa0rP1oU2+P1pR+6hFe8ymn4v5yvFWCU+a/lc1BZzCQl1SrAvCWog39868IJhC5njJeuBGITR/688siawkqy84XRfiqJD1BZe4Lo5snhO+wsRXTebFVxYqF53KmHXEtNo0yoTIfHSkkPIO2++Yy8yU4DhFCJELPWAPlW9vhVpEkqA1Ifma9PsS/uDTNI/ltUsJ2MA+5Russ87Q9is74rR4k9TxOtD9ISj5d2wpwAduHzC3NYg==;6FU5T+NtUUsoRHuzHnbytw=="
+secured: "nqfCW5AAEVnv9gBinMQ+EKf5bcANnIIJw7YNXozZENcMc7RN+F2RqZm+SKPC1r6Ubkz92+UvOTPlu/pv4GrDf4ymd0+cyPw05ry/kHhnyKWZINePqqq7fa0UKY3NvP8g3djup/jetUYVZHKgnnW5YS2LjOlqzrm6+g2jP+fu4/cWVzxQWFHIbULc656oAzUTDuLf8fTmnaPONv+WVb2Ie+1Q88MnOsoWfWaIxo7lFza5gg0/b18i5xkDgjUKdznQRqs/1q5PsV9nBugdLhVmYR+4i+CwDcCiwunlfy50VqWgAbPFtvCD3f+iIoBIbMH25NwqVFrU7xCtjeRIn5NQfw5itZ/941894EqCbVYULQSADpOk+ineCCAC93BQujxcvCd5IZeiF7sUdsxm5STTTw==;9mfQbo6PQfRrSZ+WSkrTVw=="
 ---
 

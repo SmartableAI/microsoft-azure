@@ -4,7 +4,7 @@ excerpt: "A comprehensive review of deployment and management of Linux on Azure.
 type: collection
 price: Free
 length: PT10H6M
-heat: 96
+heat: 87
 
 provider:
   name: Microsoft Learn

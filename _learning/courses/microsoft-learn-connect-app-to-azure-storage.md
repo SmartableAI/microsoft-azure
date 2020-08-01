@@ -8,7 +8,7 @@ length: 75 mins
 ratings:
   count: 4188
   average: 4.6289396
-heat: 69
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Connect an app to Azure Storage"
 
-secured: "oP5uZMgBL4HeS1nXkAATT76uFAHPrlB8J6S47kUunaqmKip5xDn9bokUTsA/HJfeEcgvGI5BFQKidL6nl2KafBPdLBE9ElgzTqNxsN5iPswatBbAEGQ0vb6yBr3aGK8xwDCmnyPqxG8h/60Lz62/50TOjpU313LE+lZ6HI5l2aybclAk0HWa/CfV1NE5EqP4wQ1J8rpSb1QyxJJiGesszuLb4cVyxJwVGGFRTdHvgfSaX+RJqRSgj8a7nNLs3bwvCHw/xy/EgDwKmr8aPv14ujTRyEX3B9dWxXXiNw5lGVn/L09ixgtA8AJiSRfD/POuEQAYlN88s1yYN2/PwjiK8MShqyewY4HNF9MiP+lpr0Ffl/qdYTq1uN0WwA/2EZI7mKRGK6LEIlx06LA8wnAQCA==;4ZxCbH9LHsrXNx6AaZMi+Q=="
+secured: "ZE6QGrPS40NecUq95kUsyjWxGbUZEFeVrhpLHE93j+iYEuHz4c3aw3qI79kEwMl6nhixca9VtsRrE0HzCpFASA9JuTh1oNEMPFK3Yh0LVrHx+x2+4tsSUdXRYBljglxp5Eat9OoxfZgVl+P7IeNXRVCIzeafoJpKw9/WEpc+9CWDy0jdb9/KeubDMATpAcwfvaRLUMVoRAXWV5uMz6e9+3BUO15Mf6s2NZkbUwN1ImHjqoeuF/h+rqQH86IlDIool5HNTnUkdDlUaeFkwLQ8dsVmmUfzQyBY7w4s6Pqk2CoT3jtDXvZAihJmhziWuJUuptho+v5ifA57vrPYxtWqO74YAA/NJbY0HHDa+UVMFMUWsfFq9/nnuvbB1zG62aYJtzfumfrXuqhd24LDbAVmdQ==;oh7F2TI3OrD0Zywh05YNPw=="
 ---
 
