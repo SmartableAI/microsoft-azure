@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Work with Azure Machine Learning to deploy serving models"
 
-secured: "DBzPCq14QiDIaNL6Atpcv8B+bcHq//n4WLKG9M7Qn+/7odN5yUKhtW3DaMPeK2xyKLnKyg7fRiLLAgh2xtVNyFCW7seupY6o+0OtQWW6K6jXOV6Bt2WWyptfAch5whZi5dWs378aOOQzQ6SpSTnKOC6/JbVCRC31e9bO74yYDZxpEkafh87y2ffRDNa5eDQ0LjHYG76dqNhdYYQBL63qVRkQ7V8aZ55Mn0Wgl6u3ybIjdcpTAqxZzxm0Y6KK6hRwHB7sjs2d4ac6MPhj7TqX0VQSTfDiOCub8UBUjzPEbHHV3nzS5HOHCUj7Zuh+mOaiDwt13fEV9UIBWsNIw7kTuGUghw/9+GuK/b5WGykl1q/jnINB2s91EUDQhTE1QcJOjXoXNEBbiE/n9gcxezga8A==;XKsqJB//6fCxqqeK/8wbIg=="
+secured: "0vqQo0eh4//2lWg4FUG9ENE7n3CFBPmARqnCRNqMJVGl5OqiZGuoKzUHbTiw3PYOAuTSAN60aOZhFRB4o/orH6kwkPGNKmNCWlXgCLSqcFloORlcU4hFxb9ghFUwB+sKheBovwviEjjgE49JDRPgWXx8w6neAQ0Uix5uCYTuvo5mpzxL+qLQmA2mZzSOhClrIqW3rZA8GlWTKgKIdY///f1u+7q9PTe75B0xTTqsP28+/X0TJjdwOWaJiYZTsAZmZVaJk52gAUK1351PFlSik7OAQHLAqOBiKp1xE8irBWfi/1xjXftZwbtGDXYiXb6Uk6KUBNdECzjEZJnl+k4PkNaX33VWfUiFGejS/suGi2JgoiIkeJv2j+NMjlz8+Q/KC5v0oYFVsNpe+05SVtPiwA==;A8M1vi6imE2sGZPhoD3/Cg=="
 ---
 

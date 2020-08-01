@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 55 mins
 ratings:
-  count: 691
-  average: 4.603473
+  count: 692
+  average: 4.599711
 heat: 61
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Capture Web Application Logs with App Service Diagnostics Logging"
 
-secured: "ooedPwGKrYKFDzpuerjIQR3igJ3wzURNNW99G2sQnvdyQvedHFKoRlbQFkypcHCAnMiY46sKG5w58xyxE3kfE0Yv1gWj3m6EUAU6qYp5CtXvZzEdttTqRbggxwKI7R01dQADukdq3iamsWUJs8KTGZLhNYkqSVEJ668VCk5BhCSuwPKbF6zfsJIwYw9JB+SIP5kd3/3EMCzMDE0wepLuswTttVfrodkg9k9yzRdpGyQEf2/SOsJkJZs7zUlvDa8HW7ABmjVHYotreXqickng9d97eM+sDT1zWr6/rgd+cNzTL24a3s15fdcoPnjnKHu6VKsu6fd+xqtae4WsOKHDjEdNQiD2Uta6Sr5/IWb3XQ3FbjKavkKUK8eRZi74bgsav9BL0H8FMCgG0afFjguGKg==;XYUXvk+98oC/cbdblQg2OA=="
+secured: "5/3qoprIMvR/VBGjkfSZPmt2IXqMHZrZ8ig5z9ghttA1foqgPY/RKrFeSBRWoj4GxStWdEypnD+XrX5xQBIyGUhR9JXPeFaGitEO2JqXhMzrQAvKF6Op7UaOv3sSXEippBDtsf1rKunRbrzFAzUDGJarOKmIVrZqDnvbE/L4KTuBP8M2Mtv3y+tjyDDUijMgIKX61el8QdfG/eiOKBNQQbC3jqkwPzk+iksq9mr6tb0cjLKj+iHwjeB1ZLdD1zmsz+2N2oJq7jhSAem8xV0BVGvU8SdI4rvb7WqPmEDvUUH9qK8bE19D6QBjdfPeppwtoXFCgdwSFSi3K9g2iUUgS+O3JEuMPeA9EDsYVgoexqOJStLD8fgpoizW/hrqqN3tR6X9QYPUrBqVh4wJjqnvyw==;+0ujQLIFSjBkCPRUk2IRkw=="
 ---
 

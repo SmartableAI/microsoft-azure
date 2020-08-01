@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 81 mins
 ratings:
-  count: 56
-  average: 4.571429
-heat: 52
+  count: 57
+  average: 4.5789475
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Build applications on the cloud"
 
-secured: "gkliHxjhNEulyZ6x/n74X7jdXBnaJQgyPGNo5FKHZEbP/ZGiPj12R9lzzCfn2IBJ5QT0ljSp5NdCZWRuuL3Ns7qXJV/3KaqKX+p9CNcGuUOnj+UOOeR5ylu+HTAidiLMnAZZ2qAKcAa63tZl2SuQQwcgpJPBAcuUrz/bSoN+CQIaMEJhy+rWTReLB5X/t9lNNZAZNDYu5AaGZtLol/IGTatemLk8cPPNReRu1lCOtXyHLkxZ7Is2vwIjWAwlaAEpSbGoPHv0IFx5UYcVH7OuwU0PbBf+8tPelJaSA4K8+akm1mB0uEj6IC/Hz4w/68AVR5KGOSm2AGCEXz+xLmjZQAGOjRgvvcQUtifjS8kVOvubwVlPnOODKQn2dWlH9btd5kWoa7C6zKBtRceifLJa+A==;IMVjTy+TwgDi1OjV/RXCWA=="
+secured: "zPvToDDG7mqn/LX0rYE7Ti23dTxCvu2XbqYadM2yDNkQ9PrN/whXbMpb8Pismo22MEudNXJw1imo8D5Rkd4nMWnK/3URjI25RUR9LzTkdqVaRX4Dll87VxT8xDNVxciKaPjPWY7uzN2tiLZTYDgQYEJu8c5Kbt7bspcnBpOXi5OS6V9hTjVKYfrEGpgT3BoXBfY/VC+Su/6F3WXn/YwseI8/EDLzsivIboHB2Y56AB5rMpSDRcDz/xwED+eob7w7sOOT8nL+5u1u1MMDjqj4EJMcpZ+SzDEBkwnkwtPmyCIQJCA98AB/E+FiBzkpRNQ6a3zRJ77rF3t+B697kDKbic9wpMtLJCVMXei49NOxcveMmFXcubbMsdx06wP57gahdrbOYatdp8rOi9zUZHS0sg==;Kzij/sGoIB8DKMacStoQ9g=="
 ---
 

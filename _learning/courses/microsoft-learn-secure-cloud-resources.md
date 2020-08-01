@@ -8,7 +8,7 @@ length: 40 mins
 ratings:
   count: 145
   average: 4.6413794
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Secure your cloud resources with access control"
 
-secured: "wzkjMr6b1Gl5P2H2Nhoc06I9nALj1qchNBpJicr3Lv4T+Fbbohw224pfd+4ujFe2ZrlIPv/2gxWRkLf30piap88mduHytZpGPFMQWJhd9DcgjPnYV96105kXml1aMrJFP1IgyIW34GDmJvnrlimMiOEq7L4U+19hiWJhBP+5wTfzn8RGvXCkkYn+IoDf7PHzmsi6yCDqEmcoUBCCqARbvwzUpIQaAavAuUhL0QwJw6Q/Ib/uI4WGU5OcVLVI7JP3mra5N1RNSaMV2O6i8ucTRht23N9u3s2SUWYLtnR2AbdL0W6jxxUes8UoqUehn0jKVxl8vOA8Dm4zEzp06yuigJpHpCdv1eHTxAID2hP2MEVYyhdoih/dmehOa/JnMOPujotbXylYdBj6o8KhbsiDew==;z546xaUROUqVWhqi/TKIOA=="
+secured: "qcy+flnkM93Qoxf1j9dua9JFMpaZTBA3ShcyxDWdQSkJYSuc42jnRI55/b+Fd+N4ZYrSVPw1K6DQy3J0EA8bs+U7yFSHf2IAN+RFVA7eTf86zjxf/znqjHllolpvHpHAq/+ondNJiyiYkttP/fFBZJGjIu+zxMaFkIgR1lGnFO3EVgBYWPmZt/lCc21k1iwGaI7X8SpJEj0BWJAt4xQclrZnKb4ho5G421JSSl31itVya8yxSazk/GaZ01o8O7IA5wofc6pkM26oOa7jKjPJxwIRWlPQ8EefiXg4Aqg4KlinWwSMyPuwfozm2wV2cAb46ZyoOiRYZh5nRJ8ZT4SCea26Mf3V4fKfqXhyckl6UaKWOEJvSHpSlsroZ2UddOfoaUB5qWwy426q9xH4dx+lEw==;uq+qK4P5aeAAZxoIC233Jg=="
 ---
 

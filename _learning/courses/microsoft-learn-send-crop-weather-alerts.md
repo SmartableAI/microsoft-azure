@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Help remote farmers protect their crops with text message weather alerts using Azure Functions"
 
-secured: "+TgaUMhgGkeBZiFXqCzk6QpJfhVltCro58B4V/byPb45kz97o81STLKYwH8cwYDvOaOXDLEvs//GwdDvmXuu8pKuusrLTLx0gLAGTvUJD0u6V5AvBnGSbM0Mk8HVPG+vEYiWiL+d0wxLHbsmlIrk9xorDHQJLut0TqIjEb9sJADPjyjBAm8KUXfMaq+VdTCVRnsoPtURBhOtukdpj+7wcuY9LmkqQs1dq2wMUvz5BWMFTdHpOfUW2Ne2IzX+JxYzuLR2a63a82vnxsT5j++lhEVI73uxJsWr/oYtX/4HxR2qa5o70DI4oeoGUBpSHSpA4UVNlrN3DKPOE61oJ9+lRd8lYfHH4YN4r2NumQi1QBek19ISGd/xN61IubeUj2P6K1fwm9RpwJ7IU0XJFCKqwA==;MQxchexUeRBDVJpoBXxV2A=="
+secured: "WQKokLmESC0ugE/lLIctF6f7hKbnOLSKHPzq/yIbSTlglpw77q+kTRjxVwGu5OL5V1aGS8dHBLcmxRfT5ptN+euhuUsgANFsKKqh05P9rYKkqefIxDxQ2VsmHhr/viyOYZf4LxHJlhGApidbu9KUanGceHbOlwJtOcIS2Gmk6lQ+SrC4UqMTXjgovPWStzAj/ybYwqxO8FzP9vp8szXzKX2oVx/H56pksCanekygbd8PfH/GQO09bFC8sTIhqT6u/niQkBIV0I8DZbhk6DMHJlmJ8qcAHMZu9aW6+TPnjKDKMquSrF7WmfUfsibzGL9PeQx4J1qkgi+9+XwgD3o/ly6jGQzlIaHO0KK8g4zUMlqpUT4pt8HGQGa88EvSjUG/A98DB49fYmCkeNV1S5/GAQ==;dixmsVRYAYT7nnnCfjTFzA=="
 ---
 

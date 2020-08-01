@@ -4,7 +4,7 @@ excerpt: "Determine a migration approach for on-premises workloads and databases
 type: collection
 price: Free
 length: PT3H14M
-heat: 81
+heat: 84
 
 provider:
   name: Microsoft Learn

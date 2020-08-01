@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 100 mins
 ratings:
-  count: 126
-  average: 4.5396824
-heat: 54
+  count: 127
+  average: 4.5433073
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Set up an IoT Edge Gateway"
 
-secured: "p/rOIDI93vX/jbWQ7erZyyUPlu1Rf2NvPp8ohSGvSgW6ozl7rENHB5NXB5xXxHbX9+Lcla82nwjculWRqom23eIzNr7mWsdqYmSo0gprcM9/E8t8rV0RtSyQx/v2uEdxDgiLvHNPVM/UviVzZ0wsyrT0Y5f41OpxEzhqt+S+4YVCr8SbHtKgUgT/6MTyRfDMsu4ygIlxWH/T7hnIjF+d9L1JMBJMC8mdE/2I+qiYh0N85AOxpwfngFL/8M3KMxY/BzfCAqQHoCXvHpLWB0kzb52/0xdQQwWl+TlK0uioAxCBxPTVFrOoRLwrhGLZI0ddL8DmEBQElMNu7ateIB+00rlVpWnNaK6eRHHGHozC5h35RgDGQlcNyhBkIS9NxEhLVe5qzBTUiwWRud7Kud+akw==;5uc3M7stT+qYhV4e0oaQDA=="
+secured: "3epwFZltAbicnY4YSP9q8/KoTL6LZ0I+8JYpfN5aju1QXe0xHphJvMHPNPFKWuT8+H+CHuoA9fCo6mhoqC4cBdl30KRiO2FEo+qQnMKO4czCitwCXhIXj+6y5oyOWup2SOS0O2QGAMwPsnF71xlPNlUtfj90qsBY3qK/mWyyZEcdJHzSryaoxHKVvoae0LjA7Ds+cj5j+jPrlijqeqHa/GTI6+iJHBVHNcS5SoSvnVjVDjWUyBVrY04UefM943v6FuVgLxvR+IE6rx5aQ5BXx0b5GnpLIFJke1FddBUqhr26s7J3JR2U/iMJStW9VVDLdrjwGx8S2EoJZocPjJ12NdVZhibRs5xthoHhmtmtNEhDwJgXXO7BTKb1UYXvMeLKrnLTAmsGTLGyu7kpqN/yvQ==;zqAcZfTNqibwJw/tZgALkw=="
 ---
 

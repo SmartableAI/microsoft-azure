@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 54 mins
 ratings:
-  count: 1346
-  average: 4.643388
-heat: 53
+  count: 1347
+  average: 4.64291
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Add conversational intelligence to your apps by using Language Understanding Intelligent Service (LUIS)"
 
-secured: "6vZySMNXBn5uAzDHSc2uzIf0RXPlpSRfG31JAWhfOVt/LSgA3ULSrQgxyFY5z2No05SRTUo4l8KGkvhmKnd06xvOyEpJrjjwA/ItrUlG/a8Mv2s+Ab3X3V0EITGJiT8pWxSorXbTTuyOoKckTrJP/h0wHhRSik6UwGAMh2bUwoKbop0YDjDdYJxgaU9wggFge/tGlhT3HCayW6mStVziUIb7H3/TMc6b/hbPzvZsHP3xxznlZ3z603TyIxu3FS2jmfRoLwNlMwEvx9Yf9L+/nJKp6/JK/L7XZqnIra8dD6qRl/U3siutK6GSuc1rBy8bTRIgQ80Bc4Q4/+hYIlVIKr8zsFD8GXBVFQXSHG6k5shE4d5aIR9zIo4mrgjhLv9y3fq44Nam40GfSUxFBuGkQg==;Y8mpyiK7EHUMrL8LkNGP7Q=="
+secured: "iEz92tCSgu7OR2421QQieBypbAV5hLoD6QoFB/1ZVG2U8/jkEJHwVY07uC1PAhqHp+sMz4NcOljLKBuOB3NuQe8hYab8elsGIwH16ErJ3noQjg/E67QqZfqUDX7OrnTW9qL/2mFvWtDi7ujf6I0cSB/yc8NEpTEqNsUySvLMjKdmisAWzjbalcDJp+jfIPvDThmoEk+gi0vLt9LH/DeD3iRW22zduxLes7ene3AnbtM+Cd80E17Dw0dESaYHMp+Wqi9/lb8A1R5ujP2Odu63FlY6vV80ocWqspA1PWJ8Gq8gMci+izd2XHwEADty/tCHgbVcHelEoLQOOVh9PaSOTLG7waUSIYLg474wYEqkGr7zkEcc01QGn2p97zWU8f/r9lYULXSqLBtmczYm67Wb8Q==;C13aIo/0tZpdAN/xlGRLAQ=="
 ---
 

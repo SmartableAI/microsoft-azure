@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 53 mins
 ratings:
-  count: 130
-  average: 4.7
+  count: 131
+  average: 4.70229
 heat: 51
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Manage your Azure IoT Hub with alerts and metrics"
 
-secured: "7x+vcGN6R8cMq2DZJpqNkpeLquZfeiiZ4lBvjDCS2sJBIALjJB9gOYQ/mAxo4rXTbnuDltQYPQ1p/QVMaWEnFPZDahmO8vKZtw+j0f/DGYiQs4qxVVhB4f4hzrVbXaEH3KRx6nMYtlEW7omT7F/8Pgp7hE29383FGdS8iPi2xerkTIM2RXNnPJm586uz96LpuNcLKW6S/YprPwMfGW4BT6oIdQf35f0KSDEA3GR4bfJ67fXOn9mnQ3ID6IIopl1BwnvBq3z1ouOta1oEeqDQcejBeeCn+dbPZqQmOaA230mIYC8vBMFvpreqywJ1kNlLAOzowqUcikcW1wgnW6fA6EZXVMmQpjCFp9KHHb0DyaODxbZnsAxNxAL9XgzZVFCh8iGyf1eEk8sG5lxFyCLPKA==;H1fuL+wTWX2UgaF1scLfSQ=="
+secured: "oMkIA4hAZGJVlzILdCQVW+89zFbHmzP8Pfk9FJFRspJLApmFgmG5RWRdbqtl6NduwC/8qdKNHI9ci1SP9CImyUZI2OJBvvqgPFZDkmeYDqVc9Q1wmBngSJJ7OPzudaEsG0jPkX7/CzcLdKb1RFv38wgtudu+miUBrKxyMYq1D0Z2/wN8Zzn2tZWbjmZ8+BtpGI7R0VuPnAwQ/z56KmKvdXQNRZSj6gWFUpY6IJQ1NXUBgCZl1M8xpCWGN9J44PE6m6CgsuoI70Jsf0ZGzxE1eZSEyR5nZVw2nnUYS8iVN9X37+nRS/psqRZdj3Z6lswXIw+f7bvcPdQVOKON7MAIvmeE+Evs8Hz90ejQld9DWrtRT/7tUHA/HuI+UX40wQs6hwlNSRS5WbxUaZbu0qdrQQ==;gUFWjtcR7gj+TLwBRw12YA=="
 ---
 

@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Make your application storage highly available with read-access geo-redundant storage"
 
-secured: "VUp36+gDBojz7vZmqNbsxayYu+JQvrEf/kosfp9O5+5E9/s6dZ/esEor2NegpfS/e6ip2KNVPz1I8U9+QlaOe25QqJn19JVqBbUMcW/o02yuEI7rp9xab7pHplLmiTuiTKePHg0SI1xdBYs5avM52+efUDACAZs1NzQI+mvzeknMr0S4H6Ko7ZetxgEgdE+u47/4GNd+jd3OPEQNBL57+rU9EXqWNf2mC+d6sZjOGf/foNY56ue2IHl682A49phCZ935zDgFn8CsEflULEOsFstBWcSgXltc6XnLx4HKMNHZQz1b3cwHQuBPiePX+B0DVLT4GG6S19+tfLTVTE2n9Bvkd1My/m9osovW6yRPoG4hSvroEeT16ULc+jCVjDae/tqAowgvxoJV60uuVGhLcg==;7y+R8x/PDUkVAtdFL1lGCw=="
+secured: "HGlenszdSx8n+BQ2xzLLB2o6tut2X6P2FYakPEs5IEKfg2bf7MKIBKTq9sxYSZ2du+BOQrHgVHMcBLS3HxkxoRpRZT7yliRKMSsfrzWMt8lwXBnSmvkK9tuPihGepBptxztg4Li7NRKA0mpq1XUpitwlxow9q/+T4Yo/A2Py93qV+moTWMWAMllgJ3Bn/zfeUyTMGVHOd0ZnYDRFVhaoCaPzoSrkEYGSVdMWeAkNvYbDCwzmt0qkou0or1E/A+Bw6WJ8oULkbg+48PMPcEe0PVgCUKzbqSmfAQYbsHhvBt3lSxy3nnJ0O2PlAA3/aX+OSgKc5dLEWBgVKwnrifCs+Yz8GYQze9tFnMt+y9JtSJiOKq5uzo/Nyz8QrsuPOkiamHkaq8lkMRnDt+gZEKmZug==;Z4IMsnCKrRxTHaBuj3a2Hw=="
 ---
 

@@ -8,7 +8,7 @@ length: PT33M
 ratings:
   count: 71
   average: 4.7042255
-heat: 56
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Explore relational data offerings in Azure"
 
-secured: "L4q26odibL9Qe5oWadwJplivDixfxZlliUIOXON7NsRzEvIuydG2hEheMSIrMP+/O/P0zFu6f0bmfoxcQPVc4xTz8pPNqwlFtbJne8NUC4B0rgveoZPdBT+UhjqQb6vA1EiakaRTjmQLyWZPEzAgkYKX8gRhn5qnijJ9JQWSEi8I5ZtXO/SPFn05KACujy2tqhGGbfXweg+NDhSSStVyq7ZYht8lm+9fOPJ1mZ5utOh/V15sMumIlJ4nNz/25jehz9CcucSk3d9ljPwbm0EPzau8JMV93/DMyGLWQ+UPlMo5mvStY4qUGGOQB+y3PC1qtm2zKpQuyij+gDIEExz17RA3n0inzDQi7G+IgVq7MOTUhrhEaKRXFgsHnjQDX8rVwSF6obBsjGdAlAJuAI0TYA==;iV+wyrWMTD5lTXNLZmhs9A=="
+secured: "nKLDgbCL6xsLSTwTnbkFS1i3kHYrVkudvKfeoc1B3E7yIfSAeKiON/g6liWSn9DsJql9+NcxSC+eV7cIyZTWLPpLG96DcdMI3rFcRycC+bPnB9jNLuHynTSNJFoFCmG3EVx5IlbO8LhzYpYzgGvr5KFnfgbE0EJNs9C+qcMMhYTfXk+22M4XKpUME7myRQ7u8VmXimu/EUBhmB/VTbTVxpJ/KFzZDwJmtY2whmApA+IBy/5QRH7PFGtJzr5ZLLpueAU73hfES5UTDp6PREfUrGtWNMiT+9Fbvhu0BQ2JzZubXRYaTItWeZgG98IdkWhOh6OkeWCgaNluUOsBPaKy5pBQYADJ+VVzH0/C0ia2//GPb6TdxMgWMPLHjTK01Xy5dOkVa7Xzvy+HOJ2XU2XRbg==;od7ypMwdXLeC5J5fDM5NLA=="
 ---
 

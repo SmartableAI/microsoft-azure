@@ -8,7 +8,7 @@ length: 25 mins
 ratings:
   count: 248
   average: 4.669355
-heat: 52
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Move large amounts of data to the cloud by using Azure Data Box family"
 
-secured: "UldjZQjc7CVkIb1y8bAOA5aQjy1wdmRhKzsCar6inF8tzrZodVzltRAmMs33A9/dD54f9DyVYXBUygli6hTN+FCWj4XsK0JGFFb+nQo+u87K7A/L+ss9ZEdPWo2A22T0Y5JakbM19IZkZ5JOoF1Iwmot0F9f3rKvzf6KQlzbM32AuHYR5r9fD8boQynjI6AGeIyGSd6AmtYkaXVjOaaPLNAXm6fd2BquD8oM7o4e7PeX5HC9VU5QygxDq9x7f6kbnnnY6wC5t6qUs/mm2RAB+HlgIYNUJvbtbz15yAgMdJhv8TpJmR1+es8U8ZNxcKJ8V5U9PIxKN2ODiDUYygXjLYVMo1agv68CPJ6sTnyGHBb/tfM5it51X1XZMFq3TiscPYQQon1mDuiq4oGjux/2PQ==;OcwwXl2YC3a5Jsk43Ip1Gw=="
+secured: "FF+j3qPER+BlMbNYQOp97PSKW5AAgLl+tuspuFX9kIrWb2YFmS6Ody+4LkdurZ98t7qwL6DaAr9Edq4HTFCJ0V8/1P7Z4q6I1WJ1HBtI7OB3ixiRjTNKbIhCSaCx4s70bybUq/x3mrmJpGEAGd+MkW1vw6543KkSFtzcgx9wlK/8pQEuv8x5BvgEaoy0pXaRDgcSFSxlqmY+p/XpG+XIWAtvXjMMvDKeGDcvMsVC62Wjq2F/AbOJ+6VT1cYj/3gCaA4Wt9F33KLL4gHBfOvBkdSA9sH0tuxfWOb5UWDAH6Bs0MnI6Ht2HAHZWQvdhOOLZM4p8pDLD+ZWWGzy6CK5Z75aH2ZLvb46n0MMAO3mwycb1wIB15z+vPqY+qcay6oNGunRaivl8/UYJ1EEBQOkgA==;Ei1RVsoncwJvUNgP4AIcjg=="
 ---
 

@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Core Cloud Services - Set up CORS for your website and storage assets"
 
-secured: "AiWmgVIvpBpYAt8MgfGfCKTLLoEyckEVGcMDyPP5EYKng25ctXFnW/TDe0x9zTfKLws1s3og+QOsIZ52gaRFJdm7lUzrBIKMgKMReD2JIrEs0H+kCL6Xmg92q9gYZRgHFZ7moAKXhfMPtOMZK/f4adN3BGURj+83wYc+QrywNgTHDbOxZNsANPJAvNYOSa2vWHpvPYNBeuwUdlBllh1WvUfzt0rfH7kdFzdH8Q1UvRQmxyBIp002DwCuNbFOIqvskcJN/z9nONH3FSqq7/A05/illfrWhGy2XssveH/WGJiLpTg0od1bpQtTgNUepXRPBmBt3RoUNFDLq7g4Ef9jJ8j2hcHj5tsE8vfLs0CRb5syDfWucC7sFwXVhmOHJ8TunQbDZrrPBmCXHePVsMOlNw==;nTN/1RwuPEhlUY42vDfY6w=="
+secured: "x58Lj0qLiSk2owo9k3GZSgZThu+isGEnH5WjrcA3gEjfO26CiLxGsDTrBMfmncjzQa7+rlI/jsL56GijVzoaLTSvE55ptoxF4fXFJWY2RhNpdK/2CkghHWqraK5rjJzTwJNOxnap1JXPAgBH5EG9ZALFsoBhKwz7l03q8WJRElAhiR9ujhXF1Doqz8DW0SyjRjHwr6BEbNsyiNzjNbHg9v/45VMAwn+fISiLxJ2BiaZYgLU49fu1Zh+CYctXyIr2rzbwid+4biWFxNCXEpYZ9/+X54/z/vhKAaKLwncCotoMrzHNjAUz56n6JYV/4z1wQWngtftqxdo3YD8i+t+SC3gt1XlEae+ApycyjtZ2A12nZ82vj4aq0hlHKJsNGpr8Hft4zE/uaSTxFzNjoCxaoQ==;67/IglI7GVsVgorvR+zmbQ=="
 ---
 
