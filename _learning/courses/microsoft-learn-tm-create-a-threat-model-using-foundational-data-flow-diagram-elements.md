@@ -38,6 +38,6 @@ images:
     isCached: true
     title: "Create a threat model using data-flow diagram elements"
 
-secured: "abwvsIGn6+rMNybmwurCChzjigXiUFLag+YxHE2wO4VVrB4MJL3tEdJNNiu+Bv3FFD2PZBItKu6RQ9msSChzVx/1bDCelfZExg9Q65YdNtLuBQvAeQ4NDi2mJwH/iHltY0N6LVtQGrQISuVq9/xB6ravYk/o4+FPNz9lC219yiTGr052Z77FmCjtnbdw/dNqDIZQP9hD3J4yIKdm+6Z0WRWFePMZseDB3dtKC6zk+UI6b80rCU6eNT55WSoDEZRFeavG+6GM9PUZ29cveb2hl3SPgw9AabRWEoBxbus8TigFlRzVT5kEa0ptpAIxM2fiwkRPY+gntzH78DQ35mZs1Eu2ZshXwp1wZfVx9d+oXVsI/NqwzXSmUUmYRBfzsnGxsu7BQj6nI2n3+4dPmwAZKA==;5KHGbgKPc8k3YOg/u6AcBg=="
+secured: "kCc18tBlz1uZc2/ipk/pyUEJs8jMTyD1Jv9qmDSX8KoXX3a0ZmjnoaUw4iwVYBzg8eJKBeVOle2N5+HZsqQBScJHghKpHdtBfKN014JUKr3ME/zvaps88t+7SYAEf+N2TL7KMA6SdLIVPj9lcSU9a8jurrGBTzCVTe3FsS3QydoKAMAlRHMv8WpbYGE8a6fPFogYNgX41Ri1IOuHkAN6YLLdIgiB08sJwVtfhr9zfRrONxWdnj96TEkBouRSjK/vJnIqSCxoS1VPzuNyH+ZfR1E6awf26uVKKYvGYswrhh3v60hRAZE3lCuMJ+8z8DuGW0k6lGVkUrYWfqzoPG+A3msp/6Xt35qwy7Ns1aAfsV6KOn6X6aSOFv05XBln0/P+1jlqVBL/Qx08nM2khl73kA==;Pk04PVrGvLgCX1zI6pRWtg=="
 ---
 

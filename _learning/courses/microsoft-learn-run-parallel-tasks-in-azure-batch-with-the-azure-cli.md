@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Run parallel tasks in Azure Batch with the Azure CLI"
 
-secured: "8995IRg4c/INuicCm9z1pWY00inDOrywQpFitq0y50zdVbBaZIE0sbE6stZFNbq6Zb0seQfk9gpGbDi36ADPmqqlRqbVupmrfEa8H58bct1NYe0y+tb3FiXKhJEuCMOvPjk6TMmgiawV+AHU91omqHbyQBMgPITw+CvZ/Vvwtyih1BQAjucWE67N9UAOx6PI2xEcy0jcbC2638m9IzGtg1Cu9tbtZn+95OCiUFtf7sViwTi7t1i9NJKAm7ka7578IEti+c88UrAP5w21RsesCSVl5Nw5rzepaAmg58h7C1ORWN3r6ewNUDLavZATrOpPTDP10o482Ct7jSoEWpV7eJd73GY1tp5d4t+qMLS9sk4Gq4LHYulW6szk3o4rfcn4j8joNrjOAngM19Ki5Ju/5Q==;lC30/IJl/J7QAJqYt5U/NA=="
+secured: "3bl/3PXWuPZEs8qkQmivASLPPEBWGSwj/vlb8+P4RwPexB9tjCPzj7L1As1QpHnFzC7Pg5fm+sKh/LUSh+VUdUj6FiC2eI3IOAICdNP3+zzIcUvySX24gSxLhwxinTFWNZVkLRZmk+/JGWnsidXJv88yGjGnMj7GNCLuvbzlGSCSb4Q/d4Bh/uc42EyVdFPntebrZN/NTnnkZQAY15n3OBg35Mcbu6eypg0Lt11OV4M1/A0KhOKzIR2ztU+62k/8/BWhl/nOH1RNYw0VBT+REoJ7Eb8dCc5e1F7ztxCWcifevBfgGOqRiX+li+fnvFX8Io5hgbP/wBqs/fEF+6X+j3hfhYp9renHypnhIbd+7C8uwrHlr/CZmIF4AGFh12oC9xMIxv+5o0yJFAlV77KKOw==;ewljuRqptAeKYF9mk40+6A=="
 ---
 

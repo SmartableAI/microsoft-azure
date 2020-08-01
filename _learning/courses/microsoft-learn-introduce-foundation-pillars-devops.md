@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 25 mins
 ratings:
-  count: 449
-  average: 4.672606
+  count: 450
+  average: 4.673333
 heat: 54
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduce the foundation pillars of DevOps: Culture and Lean Product"
 
-secured: "7M+kEAx6zXNwre8yCK0cjsAJQmFkIRVCobaZu0YvUeNrpWJ5CG5dtS5Im2LTIVjviS3fbNxtEjTlNaU5CjpEw38qIoKUkn2ITHGcN37S09KgH8Ts84KxLIe6JI/at6D/fFg/3QnJBeqsGnWotXxf6Pc24akf9O8akMTHtDsUUy/6fxQRaYsexSOGSfEEebkeKyaorO4j1SofO4wHUUDyFb4eQ1wddaSUtVPP/UZF3cb0OtJ+cISvvnp2KmgUy88u2nlBnbs4IE1BRqNeuafA4147bKs695gQ9xs+CPmfIKmTMSvzJuv4l+pl9Rz8My9x4pnwI/gUvD5KHP4X1L+lgtwTfC+30r6OYQ+Rzw9273vZyu218nsnl8+Pib7VImCrFqeVQ6WmTvAmkleGBYcdRA==;KN8/YrRL+EnwQ5Ih7LRf7A=="
+secured: "5ke0ZTNHtGxFC572qa9NmDs0B2gd3v+BHVpFm4xl5+mONTrnUkKbP7NUG7IsEejsBwBQakfxJOMuhaG25A0CuYM+4EgdQe2Q3LScLtQfIU7nwbRuevxA6Nc7ZW/n0DqZNIobWveDZjDlihkMPe1MTw1mUgvRbrgj2sM8syGl38ZTgtYMyxJsSQvG91QkVcvJdv4qe+MVoGEtV3/h7ojHureDNpeKCJ/1ubluDzPlIvSwuqzdEbMbbPmOnHU93f9yAwBMu92HCGcvxaPTa+QipcBRJrjI4/wLL1KIKO3jLc4Ag42h8QaFsjoE/6GU1KT4F0Mn+zK7PuYWX1My2JBsS33k7vwCCgg0XM44D/1S/obQBz7Url+oeTdgt6ySghSMJnUbSFx40nmw6prRNsA0Nw==;vCQ015H+KzkzDjbUErrJow=="
 ---
 

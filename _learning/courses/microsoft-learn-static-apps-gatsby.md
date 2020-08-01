@@ -8,7 +8,7 @@ length: PT41M
 ratings:
   count: 55
   average: 4.8
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Create and publish a static web app with Gatsby and Azure Static Web Apps"
 
-secured: "0PgJJeLojxgI0Pwn6IvXK8SNRzHVZAG/xke0I9Pi3+bbhagvRxIgvC6wxgSFtO4YVsoUQnnhJKljlUKolehV6lqc5udVi7pPAHjKvZUBPJQcGBcp37KePQ4EO4C9hU7TILoX1EHauzmX0/FRIdZjtXSUudomUIM8q/nlN3iK6Llt7K1RFxDxnHggeKA7KiXBHlgpUsFSIR2aRV5VH8KmjcU9oJ7295O7ZmIXLvaqnIVwCRDfq581pQj4Dj/p3Yr/C+5VZI9sDigAfeViqGhEaBxbqSd61ADVSJr3/42I4GtVT0wk9Zv1T8Kgfs+CjnLs7E4zvYbjVrZt+fUy2b3mmznWiOmo+cQ7nWDcNzTsiODkaYGqkFkpQawtTLaWYEoQviJJnUdOGU8mW2AzkD7LHg==;Orl7+P6P6UxIE4/IrOnoCA=="
+secured: "/GT3W0R/4vDud8Hzx6diQygbLcIh1at7LhB2f2St7yIlD7Tp6+oB+gijXGAa1Xa2IHraqxJKBcOUsTzd/jqIZaPc9GuQYOjQFIX4AU3oDlVU1GGWwg7U9amW/xQmid4ZNTWAS3BzgvvbOSFrlSUd21WwTjtrS+Q8J+PjRee4RNJMNKlbPocT5tlD8oQAadr1BPoEwuDNrkE4tlw1+8qgvB56dbToqqaaxM2ut8kE8X6EH2Yt8NmEbYc+Tcgj74Ds0eVT60fG2lP8GpW7tB7xI52k1W9WV5THGAZQlw+OVICAS2SVfrNO6C891X8XS7ksH5YCc4/X4pK5uE1dnmUsqJAnQUNeKeb6FAuEKmuhwjDXB3QuEhqVs7O4W+NESjeA+bggwzIvTqsA1VTZj+yR5Q==;K5WtaS8zINWG1EcC+6zNGQ=="
 ---
 

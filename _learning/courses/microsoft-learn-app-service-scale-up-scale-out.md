@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 46 mins
 ratings:
-  count: 1791
-  average: 4.558347
+  count: 1792
+  average: 4.5585938
 heat: 56
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Scale an App Service web app to efficiently meet demand with App Service scale up and scale out"
 
-secured: "1ZTHEosdcFdY5CI4Ke181H2scVVD7Hlqs6hEuPd9NYeuUS4/ynEVTmt0xwFk+UpXXKDTVJC17AErtRlMliwlKY9c4BVqICf0ZuYkqeyTsFyMDu09Dv1c+ZcUCQhiVs0+GftZaUWgbn/TdCC+tpQuEmAajoDfVvu4JLe1JfTrcRBFxRzXmwF6w62iTaA79J+LehDzlH15bRuQ9aGzPR3Hjf3DDOF/Q0CscXT5U/HNnFQ1SmKWsEgSgjeHocfnTRNpevj2gog0zhDRQ4XO0iT1xTTWOIWVgiXw2V0T0+kzPwnnBrUsKjcF7vswgFqX4x3tdT7kSflMytsSFEFxo2oG5D13WMv9xKLE33IwFNo490HQ3KSCrJqKnKI+HUbi9Dn2DmqLqYbteP8DuBUj8QWGFg==;g8rCcf5Y5ODQxT5pHH5TcA=="
+secured: "5DOWyp5h6AveVvcJyzyZusdcioTPg4SF4Ep58EItw+FGz8kNvToXzMoTfHo84KGbyCsC3mGrl5TxVSkdsFLw3ZEMy9InT2bJZzJO275kdCkgnvSlYb6rVDeGvGrTvO0APlJniIaRLsKWuDMZN7X7xOKU0w2CYMz7IWGj7GuDphdb2ADyfPRm0KHyb8/C9DRRV27+clVC58sWbUkFu8WjQ696Wft03eZLM7jo2WfHtQMc7Jdn8veiySalnimGvlrIaqvko2h9qpg3n84lr4cEOHKzRjJRcEwa7ySRlB36Zh8VXM89uvqlrCFaPAWAnEieTzglZTGYJluCLPkynrx6FLuutLgw0QH8tHyCxhf/oXD+Q5FNlSPDDnByqrMs4oz6uAovcgGI52q2/a2efHLHwQ==;k0sUAVfY8bmMtfJEVTEQMQ=="
 ---
 

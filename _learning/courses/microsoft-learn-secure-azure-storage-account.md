@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 45 mins
 ratings:
-  count: 6741
-  average: 4.6353655
-heat: 72
+  count: 6742
+  average: 4.63542
+heat: 70
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Secure your Azure Storage account"
 
-secured: "gHIClC+nfDyBqtBTrvsLnS7g+tqwZg6Cv2qZf27SEAukrqKfweTooAfudc6SUyeGiPy6vtRMjeF+3SGHWiw2+pZ6R7OF9zvkJq2SZHtKYo7Zt1Zvo1zuvCX9rzf0mLOpFXDGD2I2YkEDZGNoQWKblGXU+Zig/Rj+vUq8VxKwcB41zi6+G+9vBmFb23fJEN2Eo8QqqBtT3J19w1eYR8lV/Z/i0EjIheEEKrfma4M+PlNF9gnuHBAqn6yHFfU4D1m8iwN8knsCDcd7gU3lrr16JQ8Qs/KWVd3VcAQ4g4mDfBQbCzT4Ybzmiuj9pLd6dwUhrEDHtFLRTYq6hqWFWh2DTh1yMTvjoUGKIb46s275h4Mym5vrzHspERbEr5NNt1rN52mfl+Ryy9myTQSrxYKbug==;Lj8nVBhCBRza8BfEV8tD+A=="
+secured: "MMsVBVwb+HeIFgBwu2wsgkVpFWtwzRWANd2SdobOj9axy+QrKosSx0Rxg5saDH/i66vrn4LzJEihiTyi8VA/qRtO1D+aBfc885uzL3BiabAkGvIlPuH91WGnQvPYq4FqKUI/jNFVteuCldUpf5VU9AgMtruKpgDQ8JeTUE0CLjqrq4hiPcpC+vMM92qkv8WSNNHOsVIKa0GVbNK+eIkHHois6wwVX9CRlz37wJPPKpwfbD9a4ExcCIGO1g1OQWU218YGgHuDvPKiKEuA7uZ+eLJwTD3Qgz9cwPpr8G18Ohr+tWMZ0K7fW0gVOOmOw+Cz26sK/P0XF2vX1sleaEu55RXBaBF+yQleDBN9QJDzvGIirhuKzG/ZJl+O8+DQ9KFYw8MigrasZWF+MndW52SZEQ==;TQ2f7qTLLYppEd5u+MelCw=="
 ---
 
