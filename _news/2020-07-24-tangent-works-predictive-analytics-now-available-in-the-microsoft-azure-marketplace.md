@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Tangent Works' Predictive Analytics Now Available in the Microsoft Azure Marketplace"
-excerpt: "Tangent Works today announced the availability of TIM in the Microsoft Azure Marketplace, an online store providing applications and"
-publishedDateTime: 2020-07-24T13:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-301099420.html"
+excerpt: "RANDOLPH, N.J. and BRUSSELS, July 24, 2020 /PRNewswire/ -- Tangent Works today announced the availability of TIM in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. Tangent Works customers can now take ..."
+publishedDateTime: 2020-07-24T23:16:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace/article_b03fb881-eb63-5744-99a6-90d2c9aa5c01.html"
 type: article
 quality: 30
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1219270/Tangent_Works.jpg?p=facebook"
-    width: 2699
-    height: 1414
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/2f/c2fefe6c-c0e5-527b-ba10-0c9af861210a/5f1ae2bbc1ad0.image.jpg?resize=400%2C300"
+    width: 400
+    height: 300
     isCached: true
 
 related:
@@ -239,6 +239,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "vuQP7YUjebxAz/r81RzeKZy/rG9PGPEjYFzsD/C16w3ncoE9aVyk8A8G1KNWm5owY1zFK1KbobwLXPYpJe3mfi1j+0HYs6m3DNtQexrNiLonEMYhFzOUR8wggU899tgodYS935Z7YLH2Ew1Rc/0JTf7bAL5jzOjz3Cb9hUSWv8wewqNJVr5B8uwXxqQmzDdPhiOW6Czn6gISgYLPozi1eYvH95wPZodGip24J7lFs3TLcpoUIYURjbDREmdUnraehmsqDCnxkez6lmpvEfFzw0Ac9SlwJCQrQ8wqQ/faDJ3Br047rQfrouVzxtxXjMPy9QwRl5YWMt5QxqmwexKxjfL4H1SMiIT3r1bKauyWZY45J+LbIgLEa1IKS53kElXR+dp1Rx20xAA4WiFYjwEvaI64fJ/3xpkEQb2gTK2eImVC5dJyPkJCBACoKi07Cbno0vGFRlH8dDOAYGyczYEGj6E6ND82aV8/l4xWAnlTgSysCZR9p19OnyzwoT7QFLxfm2cYM8vmwTGz0gr3vnYuHw==;10d0/ZXUi56WNR7617h9Mg=="
+secured: "iB6Q6Nu2LquzsQP+1hPilfaqit4i9Blj1I7FbTXbdVt0lDoNggsJbSWdolQrD1Ds5j3pW4Oejqqr+ChSyo7TDxequRfS47WXVR2LQAWQKvf/LKtGP5V5qhXLYxX761SsTEUAp3Ocw14jHmT9sbTVkfRfDhpQfmOuS9rSm7pMzf6E1yKWC3oP4gR2mMWT6n/JR4wQpgCXbZhoZqTtr+IPiF8T1ctkHCeiRl6cWpwZkiJvzfSwazHd8Swi3W453AWiEubbJ4zWwYXjRAji8Ss67jzuA9k9wAGOdRfTTuXXfSvGyk41vUd2PRvQEzayvr+R1OeZOUY+TZqSiqDzbvKYYA==;7fm3fHbVRUlEQTfUyJM0tQ=="
 ---
 
