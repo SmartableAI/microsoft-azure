@@ -2,10 +2,10 @@
 category: news
 title: "Dell EMC Integrated System for Microsoft Azure Stack Hub"
 excerpt: "Dell EMC Integrated System for Microsoft Azure Stack Hub provides a fast and simple path to Microsoft Azure Stack Hub for digital and IT transformation. Download the Solution Overview here."
-publishedDateTime: 2020-07-28T23:21:00Z
-webUrl: "https://www.crn.com/2020/07/28/dell-emc-integrated-system-for-microsoft-azure-stack-hub/4rB6NFMxtoUOqC8jADm48/index.html"
+publishedDateTime: 2020-07-29T21:02:00Z
+webUrl: "https://www.crn.com/2020/07/29/dell-emc-integrated-system-for-microsoft-azure-stack-hub/4rB6NFMxtoUOqC8jADm48/index.html"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
@@ -15,6 +15,12 @@ provider:
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.crn.com/resources/025b-0eff6856eada-a01ef253a5ce-1000/3cloudimage.jpg"
+    width: 269
+    height: 256
+    isCached: true
 
 related:
   - title: "Dell EMC Integrated System for Microsoft Azure Stack Hub"
@@ -33,19 +39,14 @@ related:
         isCached: true
   - title: "Dell EMC Integrated System for Microsoft Azure Stack Hub"
     excerpt: "Dell EMC Integrated System for Microsoft Azure Stack Hub provides a fast and simple path to Microsoft Azure Stack Hub for digital and IT transformation. Download the Solution Overview here."
-    publishedDateTime: 2020-07-29T21:02:00Z
-    webUrl: "https://www.crn.com/2020/07/29/dell-emc-integrated-system-for-microsoft-azure-stack-hub/4rB6NFMxtoUOqC8jADm48/index.html"
+    publishedDateTime: 2020-07-28T23:21:00Z
+    webUrl: "https://www.crn.com/2020/07/28/dell-emc-integrated-system-for-microsoft-azure-stack-hub/4rB6NFMxtoUOqC8jADm48/index.html"
     type: article
     provider:
       name: CRN
       domain: crn.com
-    quality: 37
-    images:
-      - url: "https://www.crn.com/resources/025b-0eff6856eada-a01ef253a5ce-1000/3cloudimage.jpg"
-        width: 269
-        height: 256
-        isCached: true
+    quality: 17
 
-secured: "X4+V+PLgdxDSXuJQ8o5UsqDn+E6oZ9Og6ao6u3393UcactlFmIJ5ytqKsVsLt6u9ijkKcLf3Qk5xAeHPVH+POu06yVbgm1ESpySH0fw/CgJfMkSsG5v9xNCY00Qhgt3Hq20tjNtIsOmhvMxebKjnWitp6Bhvv5vXZXvBGcvCbukI4wFIUvSvuWVs4cpRh3w7sdWtSqYRCjQUhyiWuHw+7q4VtD53b7aXFitcUSZAVenFFVlUjVSpl5pzP1HUAmLhaR7cSHX8TxTV+79vFEkE3rjxWwW9CAfG9300IW9/grgeE8JAjry6f4yyBe5zeZVpZ2H2g63DYU1t9F1BPmLy4Q==;f8yK56DZZgTuTZfQuTTwEg=="
+secured: "Zcnq4OeDi+ln/kerbSMComizSjX1fpdKGWcO/kPnG1QMXBoNWV4R2GtESStGBs7izraZjB+6eJt6bhniusGRMUHlm/Tw03cxHem5BfyTPMw50UeD0/GFPRyifJyEdIKwnlAfAXdrTPfo/1Xu2jEyTLa+blGYIX6tm8jeOqWGImBCmLFrNr4wR1TQLvQl4uqVHdFN8V+s9VDhy54zJFTz/JjcvKC2bUZ27gi+sjp0PTHh86s0AZKuqnu2ye1cJ89nCG5aB5SnmsubdLaPi2+971mKdzt0GmtPatGHPkVCJCMrsbFDHR2/9Au5vwqH+4LlSySrGMp/SB7f9FsTxfVUBw==;2MRSAMbilpUvypsR//i8ig=="
 ---
 

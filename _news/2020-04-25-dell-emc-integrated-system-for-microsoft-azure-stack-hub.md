@@ -26,6 +26,20 @@ images:
 related:
   - title: "Dell EMC Integrated System for Microsoft Azure Stack Hub"
     excerpt: "Dell EMC Integrated System for Microsoft Azure Stack Hub provides a fast and simple path to Microsoft Azure Stack Hub for digital and IT transformation. Download the Solution Overview here."
+    publishedDateTime: 2020-07-29T21:02:00Z
+    webUrl: "https://www.crn.com/2020/07/29/dell-emc-integrated-system-for-microsoft-azure-stack-hub/4rB6NFMxtoUOqC8jADm48/index.html"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/025b-0eff6856eada-a01ef253a5ce-1000/3cloudimage.jpg"
+        width: 269
+        height: 256
+        isCached: true
+  - title: "Dell EMC Integrated System for Microsoft Azure Stack Hub"
+    excerpt: "Dell EMC Integrated System for Microsoft Azure Stack Hub provides a fast and simple path to Microsoft Azure Stack Hub for digital and IT transformation. Download the Solution Overview here."
     publishedDateTime: 2020-07-28T23:21:00Z
     webUrl: "https://www.crn.com/2020/07/28/dell-emc-integrated-system-for-microsoft-azure-stack-hub/4rB6NFMxtoUOqC8jADm48/index.html"
     type: article
