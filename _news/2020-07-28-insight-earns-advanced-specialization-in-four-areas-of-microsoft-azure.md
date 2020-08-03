@@ -65,6 +65,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Insight Earns Advanced Specialization in Four Areas of Microsoft Azure"
+    excerpt: "Insight also fields more than 1,000 Azure-focused engineers, developers and technical consultants, plus more than 2,000 Microsoft-focused services and technical professionals, maintaining more than 3,000 technical certifications combined. “Insight and ..."
+    publishedDateTime: 2020-07-31T08:07:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2020/07/28/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 17
   - title: "Ukrainian Azure Expert MSP Partner strengthens its Azure skills with achieved two Microsoft Advanced Specializations"
     excerpt: "Cloud Services has earned the Modernization of Web Applications in Microsoft Azure advanced specialization, and Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s in-depth knowledge ..."
     publishedDateTime: 2020-07-24T10:12:00Z

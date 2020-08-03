@@ -83,6 +83,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Insight Earns Advanced Specialization in Four Areas of Microsoft Azure"
+    excerpt: "Insight also fields more than 1,000 Azure-focused engineers, developers and technical consultants, plus more than 2,000 Microsoft-focused services and technical professionals, maintaining more than 3,000 technical certifications combined. “Insight and ..."
+    publishedDateTime: 2020-07-31T08:07:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2020/07/28/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 17
 
 secured: "bv818Ea39g6zBpv1yYbajlrHGHgfkKgk0C9RJoKzUltG+FMipP2ErbFuJ42MlDGULc9PR/75pf3/SmEVX5sn3Pv1jfoLb5j30gdkbPuyCbLSTCAtY+GsHDql6kk7Ymu5i74ItlFODOey5GBhr49wdh4TwxFBJXpO3omE2lKQYhTrS/WmxHZKGLVdlIJUS/VpJtrcnGgexhGq+4uOiIdaeFT8Db7TdcBZWZdp7j2iyIjR8yAQyCvv+HPcyAjoDkchcgUpX7VvOSFormGvLb3ClWuUt+zbzkjehzfF8+yrK3AmFYlCAo/A4TLl9EMOBzYBqZlObthK+Yu87WPo+fqeJg==;/7JfLEuV53+bpkJvC6WNxQ=="
 ---
