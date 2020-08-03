@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Case studies: Distributed file systems"
 
-secured: "dUb/a2wK+2N6Phy1aUdRrbObChavdwdjlFzSHPEsqW44mhA3DOBqfJNOpwGHVQonRHlZcjNhQ8A7YUreBVhT05T+7HS3vTzeR6+q4lYrgC0fcIxcSCJbkfuv1Wp/Rl9ZIzARYrdScl8Ebfnrr4ADULVN5tKOTgVlFCpVDTUp4Cq9W2AES0ftL3kEmbFxQy+tvbbETncJfYXCNFcdoLen2tpLJB6thc8N0n7m1m1Xa2ybc+8+ewvXLnjHambYRqUi/Y77Cp/lSPiB+UO01nbNq26tD7M868Cf5rDCnt5aotpml+BRr3+W/ue6fOWAZmM0RM3orMYNxYCSbO/Y8kdBMNPFMIxsr7ZcSfxr/uMq+hrbCz9XySp0lez3CCrvEaGtVmuZFKdgl4RAVwo/BQFBvg==;THbaTnLshkjnUdLwvsQHfQ=="
+secured: "hCWNxAtUmtD6ZDaou7gb58FF9+AIWz2MQQelkIw7fX6nkopvYAC7hje4bgxJcWX+1Bvd+JvZKDzYPM/nJLlBA5lK7IfaRxSLTWmp9kN6In1Jvt7FaL5bZi7KkEXRcccm+S9HAmgRV92EdBCRvhM0IJee9RTV4k+CDJdagMO+rBonUaVeMQZMtJCirkDN5LwvykKj7XThs9dKp0U7pxV3QSuDMn5fYOm7po2vaa//S+W4nsCSczrtGmsQB2UwbaqoBeHZt7zEfS/J/OfioN2D4qLYSORb7gfHSHlyXJIDFOrfgAxSqphoRxFNFFEBCqEji4GvOzBhKudvlZjJc2y8I+Whj8kUtJzrFfmvfqfcgDWK3u5jXrrt88mgzLEZCng3l8ETg+OwMvWRJeaGMwC+pg==;S6xKjY/KZFgGJg5FZtKfDQ=="
 ---
 

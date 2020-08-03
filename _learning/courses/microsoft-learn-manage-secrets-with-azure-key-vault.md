@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Manage secrets in your server apps with Azure Key Vault"
 
-secured: "ROPmqrSQflOnrdzRVwcAyBZMovPWdW+khlUh465Ml9IeIzmyv3igk8ZX5eMzF6yhuzeT4+C7rCeT3EDvYHJvq4coAWk7HVsorCcGxOrA7hi8JQmCdQ83rqwXZGXv1fjwoO/hkYreohFWQIkLKF64qKITpFS2liyzz2ibrLzRNsSAJXEf67uqvEIiqXS73hez7aTxZpLohhTXTuKTO2CYwpkqH4hzOxQueJQg0j087xEm9CUhySm130UEZeLRCUX53WQs/VhX/NKuNJfXAJQHnBwCfpMo7fqv1Ix0aapZ1br5ARts/y0i1AMHE6Iu/jodwbuW+VA+FL6GLB3qgqX+G8cVcpTChQAd2YJDC/+68RV0cjLJs63vHJYPJTwME5PEa6jp+NGk1Rz6Ik7r5hK9Zw==;a3IF/Gkmqb984v5O8XmGBQ=="
+secured: "n7JAN7izfTK27h1ZGLOnJmukwEzcT1mKVQGEN/szywu260jB7zZTQ9pHBujUhSYG+nYa11eyODRVOWWCocqomHAMlscfujuGwuW2D/DroLIAGaEGcKB5bSmSjiWoEKKRrLG2fpRjwJhbO8FNuBU7AmPWDE7SwGvLT1ISYT3JF/B+msulKx5EJ7K/+up0n/y8KnC+ISTlgr4YObq9eGTfkNcKxt1LSRHuiOAD+1HnvTfUWeXY5vCyvjNuf1cJYdECN4hbNHBnwgadpTW+v6dZLXi6wsvS5jQgHasUncULxM75Okqzv+DvrCbOXSAYgXela9vsejGse010eXmFGS0D5Ar0H6LU9V4msiqXXbJp/laQzo7lcOYkOcpVy/+v+Mfv7y2NhRttYwB00zCyCpdSbQ==;VoZO6jCSEl9rbTQrIiFRYw=="
 ---
 

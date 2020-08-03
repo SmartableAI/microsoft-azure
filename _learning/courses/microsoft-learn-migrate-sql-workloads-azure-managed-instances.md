@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Migrate SQL Workloads to Azure Managed Instances"
 
-secured: "zqVAwfLBwUltHL9Zc7J6GbUnRxGHOWoveTLzXlxl/K4Wz1wQVC6+Bhiq7dKVNtkJ3GLb9ekeaKWWmqIsbUYYXDbo/WuxFQIfH5IT+ag20JBCzZxUz4r7arTvvlhDJRz81Ejorvi0tpiHZA6jBAaEwOUy/o+hoacV+zXTHzJrG6k6SlRVvqVovEYi72g+H+skbBpdBdul8YllCbl0EB8spGKPdg/nZAtcG2a8wp80QOE47K7YelBJna8SSi7m3c32sPYJJUkVFerAupdrTJITb6+Zg7+39od8yAUItB4zivFQ+TuYiAfoUoZir5DgqmPJdT9LxS2qfAB9qCJnDYZ1/JxzAfds5HCOj3CRcAyIvGdeNsPr9uFu91rgCNfyOrznvP8s7dDqwnP+y173IUPK6w==;PVUdgD7mbAM45XNE4f6aKQ=="
+secured: "Mbw/AyZew2GbHUp+CrrrZFmoNaDMgks5546iF5WZB64ZDs1lpL7sm7v6SfBWoc+rpRRQJUwgZTgp3wYKnk7ks6vIVq49LtMfj8f+qg+o/GXyJqPucIui/Rm4XU7plrbrN9V1V63btGYmaRGRKTJCHwZ5h6ZSW3+QJcAzcvmR8cLSJmtWiwDtN4KdQ9CsvN9iB/rfEfUgt9mC9zTt8/VRp/2dZbYhgcezLP6XOk11MVNkxw8Evb6h0+jJdN5mmBIviZ/JgZNF1r6+pELxDIMGXmuHaqIHmGLxDgRdn06rN0CLxNA6/rNc8NJ9ODSRX+FE21ZqkaciEX8i5pDWOBCIg3SnM0XGkOBclcLObP9nsrufTpmukMynlo/FiXwEDUYWHNw9C0YjZBFcYuw9ESqJaQ==;qqdJQL+yta4TNQ//Kk2ylA=="
 ---
 

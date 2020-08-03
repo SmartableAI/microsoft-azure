@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Automate Java container deployments with Azure Pipelines"
 
-secured: "VKFIXumT4+ThunYsA5EiCa59eYwuhxsijmtuC5cdye8CrnKehCyUU2Fj540B/d/qWSmQYORTtQcWUCqN2FQLzSwOzzHCZq6vrBBl18Yq8DynnuukJPQVuvwIWMZ6U0j5ReFIETS5hGY3T8ElzwOBE6/5vdiVOBNeaG+4f7e3m/7J/dA2UspbdbV/jPlBUGWWSVBt7r2lImmomHFFrr7xFuYCtZ9hYx96uH6Ov1wT1Reb64nILfrOdgQ8DyaXGy+nC5K82gLcJxNz8gWMGqD2mLT8FroP5owL1Ub9QCLHAvt3mSIdqsJAkDSqdcYr96fbt160NQi8UPuQTLNg+1kd0SJ9ab/b/OpFquqv7J4JlhsXS0E3+bVz/+1jC7L/kNb2gJJ2QDgjyv+MLF8wuRnLPw==;hnJexHFXAstAKDzyLzglGw=="
+secured: "CgngT6VzI7uiZ5M+G+x++z7J2XVIyOUAO1BboUbBF+DZjZGiY6G63RR7QqrpW1127RDmY423EssskXR0K5Obq9s1uKdIR9g74ssC03XHFekgdzcN+gbMSjlHHuYcTJxD9hB07lEDS4nKLdh9u5/TNDLM6LIR+nekHvIF+iYT4DzOn259MwyWHON29oRcNKHreC+zQTp5SrODSy0dlir36CsM4+rFMMyuuj+6bcZcNVDjcKahNprmZqi2sUfygsqWL8/InCRMsuVxcJx4r89uV3lhShjuUt+4T6OjIXSKiuIyguMYfhUgGpU3L06EfcwNOjnE0znyJUkxZqv/FE6K4l1fab7ZVMRqLjSVRs93BnR2vuWn7RWLFs75G1gK/o80AKH22VCAipblIdpuvau8Ig==;EHNxJv6dQ4MWTuV0OcIqag=="
 ---
 
