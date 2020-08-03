@@ -69,6 +69,20 @@ related:
         width: 620
         height: 290
         isCached: true
+  - title: "MSRCosmos Has Earned the SAP on Microsoft Azure Advanced Specialization Status"
+    excerpt: "MSRCosmos ( today announced it has earned the SAP on Microsoft Azure advanced specialization, a validation of a"
+    publishedDateTime: 2020-08-03T14:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/msrcosmos-has-earned-the-sap-on-microsoft-azure-advanced-specialization-status-301103856.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 33
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "bv818Ea39g6zBpv1yYbajlrHGHgfkKgk0C9RJoKzUltG+FMipP2ErbFuJ42MlDGULc9PR/75pf3/SmEVX5sn3Pv1jfoLb5j30gdkbPuyCbLSTCAtY+GsHDql6kk7Ymu5i74ItlFODOey5GBhr49wdh4TwxFBJXpO3omE2lKQYhTrS/WmxHZKGLVdlIJUS/VpJtrcnGgexhGq+4uOiIdaeFT8Db7TdcBZWZdp7j2iyIjR8yAQyCvv+HPcyAjoDkchcgUpX7VvOSFormGvLb3ClWuUt+zbzkjehzfF8+yrK3AmFYlCAo/A4TLl9EMOBzYBqZlObthK+Yu87WPo+fqeJg==;/7JfLEuV53+bpkJvC6WNxQ=="
 ---

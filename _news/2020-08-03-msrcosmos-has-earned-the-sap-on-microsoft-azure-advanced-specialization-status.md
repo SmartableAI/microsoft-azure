@@ -1,32 +1,42 @@
 ---
 category: news
-title: "Quisitive Has Earned the Modernization of Web Applications in Microsoft Azure Advanced Specialization"
-excerpt: "Quisitive Technology Solutions Inc. (Quisitive for the \"Company\") (TSXV:QUIS), a premier Microsoft solutions provider, today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization,"
-publishedDateTime: 2020-07-18T19:19:00Z
-webUrl: "https://www.marketwatch.com/press-release/quisitive-has-earned-the-modernization-of-web-applications-in-microsoft-azure-advanced-specialization-2020-07-14"
+title: "MSRCosmos Has Earned the SAP on Microsoft Azure Advanced Specialization Status"
+excerpt: "MSRCosmos ( today announced it has earned the SAP on Microsoft Azure advanced specialization, a validation of a"
+publishedDateTime: 2020-08-03T14:45:00Z
+webUrl: "https://www.prnewswire.com/news-releases/msrcosmos-has-earned-the-sap-on-microsoft-azure-advanced-specialization-status-301103856.html"
 type: article
-quality: 62
-heat: 142
-published: true
+quality: 33
+heat: -1
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
 
 related:
+  - title: "Quisitive Has Earned the Modernization of Web Applications in Microsoft Azure Advanced Specialization"
+    excerpt: "Quisitive Technology Solutions Inc. (Quisitive for the \"Company\") (TSXV:QUIS), a premier Microsoft solutions provider, today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization,"
+    publishedDateTime: 2020-07-18T19:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/quisitive-has-earned-the-modernization-of-web-applications-in-microsoft-azure-advanced-specialization-2020-07-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Apptio Launches Rightsizing Recommendations for Microsoft Azure"
     excerpt: "July 21, 2020 /PRNewswire/ -- Apptio, Inc., a leading provider of technology business management (TBM) solutions that help organizations analyze, plan, and optimize technology spend, today announced rightsizing recommendations for Microsoft Azure SQL ..."
     publishedDateTime: 2020-07-21T13:04:00Z
@@ -55,20 +65,6 @@ related:
         width: 620
         height: 290
         isCached: true
-  - title: "MSRCosmos Has Earned the SAP on Microsoft Azure Advanced Specialization Status"
-    excerpt: "MSRCosmos ( today announced it has earned the SAP on Microsoft Azure advanced specialization, a validation of a"
-    publishedDateTime: 2020-08-03T14:45:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/msrcosmos-has-earned-the-sap-on-microsoft-azure-advanced-specialization-status-301103856.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 33
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Ukrainian Azure Expert MSP Partner strengthens its Azure skills with achieved two Microsoft Advanced Specializations"
     excerpt: "Cloud Services has earned the Modernization of Web Applications in Microsoft Azure advanced specialization, and Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s in-depth knowledge ..."
     publishedDateTime: 2020-07-24T10:12:00Z
@@ -84,6 +80,6 @@ related:
         height: 512
         isCached: true
 
-secured: "DF42b/0XX5FiKQyWdSxdp3rJL+lpSBaFel8hCj04WfPfuVsWwPhgisJqIQm3gfGEaJpDYMujnvNeMtBD38GwjNUG10GLDcKXUyDZiSaqmNOa/27+UHdKuYxOIV9H4hHu7Hjmd9YcWPoFjQIVtCb6nX5ZJLssTPMlYT7Ec4O72+UuCiPHM9ksosSIBjxySqumt/D9DeqCLrf7HyQF4sszyOTLIqRgudzWsQ3j/ExMHddHZFtk9VbMR/iCdCwpsBXKRKvDG1EY/oB4jtcnjuuUK5aiLm0gu4CQRmpSJFe6RqdopRk+i8DWUKrueAb+X4SiikIHHbyTN86kS2gc1dULZw==;72Co4ydV8wRJCXpiLqGm6A=="
+secured: "Wfdh6wtjx77ovVP/AHBRKhMraRSVwbpDzYpQvGJyGfq+yh1R3prFu9lFxXrCa2DzTltwQIq/oHu+SgSOsWOE2+RysvLyybxFz+ICZe75DgyB782UAhEKNXy+etabqBjwiCswWAHuiaWMp5icW8mgJHzNNRaf1eiV25nwkOgFXADOQEZDJ/bkf+s6aiyJEAkvKHl0gVyfxbAYHJbGu62CmeiwJBgXhJtDQK5Rh0M9gpIVUv24D670Bf0Rcv8Ah4R8d1LDRR/O7Qi8v8FUMizpV4NOhz7yJTF36LMqujIDXOgExUWo0iJ1grUNoOXxp4i8RZqdEaZVCYDqz1Di55X+lw==;rP4d6AekCYSFwvPgYmz/yA=="
 ---
 

@@ -51,6 +51,20 @@ related:
         width: 620
         height: 290
         isCached: true
+  - title: "MSRCosmos Has Earned the SAP on Microsoft Azure Advanced Specialization Status"
+    excerpt: "MSRCosmos ( today announced it has earned the SAP on Microsoft Azure advanced specialization, a validation of a"
+    publishedDateTime: 2020-08-03T14:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/msrcosmos-has-earned-the-sap-on-microsoft-azure-advanced-specialization-status-301103856.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 33
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Ukrainian Azure Expert MSP Partner strengthens its Azure skills with achieved two Microsoft Advanced Specializations"
     excerpt: "Cloud Services has earned the Modernization of Web Applications in Microsoft Azure advanced specialization, and Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s in-depth knowledge ..."
     publishedDateTime: 2020-07-24T10:12:00Z
