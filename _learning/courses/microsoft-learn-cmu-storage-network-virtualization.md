@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Storage and network virtualization"
 
-secured: "tWsbfH6hChP5y2ARkM4WVJ32bbI+HNqrGSeheCaaElRbVljz2b3mzqzwUy3hQZO1N40j4Ut+2BLvt5lDM0+kDLPkRNVxjB6XjmZhlQRPxC+MoB7vK/cSyfmwTi+cmcLADo6sLnsn2y5kVQ8iq2fmWD2P0QKB3+zNmyyKwVgjdl1oTKTaaY8PsblkrnxwJCnbFkpeK4sDcM8khYzvR+AvnH+w8V5uxtzkhbHxOru85T0PDquc3AzzPOSH6vJbp8knUwY8rzOw2n77fnX894qOr3qj6ulhXrPyE448U2CwFcfVFQ2JGTnLep/Z1PX+80zlyH3WY/G1luU0AWHUhgoI91XT+msVtc3A6SansZ2cZJpYrPZEbTrl+5cfGy2H1t/eUgYLwVthuaNTPILVPuW66g==;vGXMaCltXHZOqGmq5BUO7A=="
+secured: "FsGrL9okm/XftT+en8Edq1uhnEATiNCC/TlcG+5Sx9CG6HDIbZk2g4XWyy9pLd3Ujg2BgjAkjEN7aQWpE6Q653LN1Xw/YocQ8/1F3c95meZgbMy22JVbxNU815X8kv8ONbS3NLf50kUPTqxfhgZn1F2K+i/ccT4WqbKIWvCc+wV9CT/puLnXkHkUyrTzrJBkDLDqY8HVz+R1AFw+45pdpaSz394KW6ZaykFdP4As6jREeMvJSm8ZTwMKs22F5Do1bkpjFsxawwDlD3mPVmIKGMKrX1C6ao1f2EpJW7/attjiyz4EeO8B/L/fhzSGJzCIjaGHvHwCP7UxDjyHPA5dRz/KK6h/wSMTXQkSLkB9j2Dfqklg4e+ePtG8NKwyaXeMPSRfTsHLedDLu6IMe/7i1Q==;v5Fa38r57yWEYO4pZdirCA=="
 ---
 

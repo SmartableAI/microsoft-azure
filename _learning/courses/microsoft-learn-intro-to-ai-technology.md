@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 37 mins
 ratings:
-  count: 1370
-  average: 4.6956205
+  count: 1371
+  average: 4.6958423
 heat: 52
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduction to AI technology"
 
-secured: "mSFALrpEDXxyKjzekbv7JaD6zlZHcT7EkMkkEJfj0sZsdodG3+xwJ+n900yXAmGabscxYYprG/an51YxAW8FcDott1BGHb9hTl4kzK9rEN4NkuuU3eI0jdNkUCwaDdQR+5tLGUlOpQy776kgC4tvDmkivDZ5ef7rI0OAvZCiq2QiO64rjGzymQtkZpLO8WAVjpcRE5R+MnVvVWQJEJh2hSCimdvBKt9ksFQSVu1UIV6C/5SnFs7QZGpWVqGcYD2y8mLkUfUMq1vTNbhgA4HKPqGPT9DNbJPW5lb8CWSORkXnb/Vh41s0j2FhzDE9qNUUTA75DOD9BlgnUEMQyyqxt888vgGZEogG4KEDfPk23dGqby5RkAbi5DVa5km8bu1Dda1o17OUcnvH91CWEC+t7A==;X6/R2WZ4C3mmPfigoUnqLA=="
+secured: "AV4nx/oEFABaFDY2LFeS1JR7UaV1BJH7H6qUY8Il+Z4K9tIYOzjK1OIuWZIRipnYI0SAfuLW9FzeZYzhIDVTnPD/zrL2nL03utZ/IMT5qxa2reu3nTVanhQqp+hQfVUTcyfspxrf4yg+BFfkHfXlhyFQ2oWV4U/nlecQ+icqqbKIhFE3s9S2cWpsUqsE515GcSrmcAxBd97WUnf1wLo/AFOyP6aJFNyWx8OYP+a+COLoq78+UfOlSVpddG82lSMkvLbaPQZseImiEh4JecVIIq/0jsv34ERVsTpzu24biNus/LkyHKnmYvCYXXeqf7C95rrKlwkTWnxGncwpKlCbPIBdqo7AaL5Rxh6pWI5zqIB0q8ZP3FAaoYY/IpmJLOX2047x3dsGHxNY+fNTJ5Hciw==;GRblcUr09rVyQ6CuTtAeSg=="
 ---
 

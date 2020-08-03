@@ -8,7 +8,7 @@ length: PT24M
 ratings:
   count: 172
   average: 4.8197675
-heat: 56
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Describe concepts of relational data"
 
-secured: "lc1ZfigPKpph6UxWxB0rvonHPzFeltU0kpmaQ/qCB8hCkfBzZsXLg1IKGZIorwTl/+gI6qMi0m97b+cmjzqxB8Qbbkrx40sPTDKQbipZsHzVvC9aFk6jITLVq8sX9EfWpC1M6oN1LS9xu5Z3jDYmayIGd84VaZO7+AGmEG63d6XOhNfEdgyk+gn3x5u5ip4ebwNqf07Q9vzkK+99bZVlh4yLMeCEaWd1ldWGkPnXlgVLNvDUJDd2R9JxK98S/M7cF7o7Tc7VNU1+fYqtzJOhXmiZA8p/Nc7OiMBQwLoCqJGPMdkealQJxeHdgha8ckDT08MV6QQo26V+9opzvPyrVpv4mwKyUYXmQeFjk6w3TnXT5zY+BgwZI+XXgez/UHCsgcWCD9KspMaGvBFmc7Uo1A==;/5xTLypTo8UNGgjUkAItqw=="
+secured: "O/CCiA0jPzsYuGvBI9T+XObnjH22ccrmN/pqoV+mQJlhw86f5l/JrD04EvXatATuni2Hptl9sdK0O90MZ8cf9xYR4k4QH6eKzdaDhZhv42/SCueAxG2q1R0GCOIXqTfT19A87av8Dyb+8kXiyDsUyCePrjCv4B89bz5kp2aEjECwffuvmXeXK7XJ3MoOcsaCdlHeFHLPdWWagTDM4LITBkehMfRvGcu3ADXfrZYaqlxUHOoX5dcaXUpR9ev42pw8z7Ied6IVvPvuChUHDN6+QMeTwG3WXKnst5BtSPVSIglHP/7wrxVc78ZIvpjwbMfT76hXNLRCGYnigrz65AfKyWjrmf8+cQYi9Q94bA6WiIr26MRpmQWacXCmO16OmdE8Cpyv0HY+vVst9xaL+H9s3A==;QrtEzRTYr+WAhRRfxcdf3Q=="
 ---
 

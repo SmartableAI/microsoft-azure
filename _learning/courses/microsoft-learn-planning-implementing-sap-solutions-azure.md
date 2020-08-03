@@ -8,7 +8,7 @@ length: 81 mins
 ratings:
   count: 144
   average: 4.75
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Planning for implementing SAP solutions on Azure"
 
-secured: "Lkk3XvF5d1nS17bpEQL2OMOyvqhuHvxfE65SszqUBgo73y50pIt5WUBNYs/ZHhz2YDH57SYFLn1RPNooybfQlIxRMHdppS73gKz5ZSPf+NvgCl+YePpVN03xqIe0R04gKFQwe3G4MexJzYvPjEHH14fqfjYmvyMo3FXNIc+4ZhVpgMEbEOu0yxtqw1IJbHuyarXAwqatJTFYow8spAqNZQoasa8C2pQ+34Po6y1irCYMN2jLKwJzy3wNRTW2E9aPWPFUrJu0ZIa2aE+Gr4UJ4O4GhNehfl1AduSJq2rdyXktOroy+7jPW3NFXwNN03rl0ARbSj4fjRrrz6xu1akeqM8wQyOZPtYwTXqp7oVDIeKxL/sMRT3tBsT60LKCLpj0oMEU6pvgvNLro4bi1jgnxA==;WmquzVJzpgp/q9Y5eusnlg=="
+secured: "NzDczO7kF6tA3XBQgtXdbG1ya8Hvae+a2iEGxW3eVblT+xjQanQ2hYDq8sc4UTYrPyONU4LFpTAZhnElq/0H1AysgXzajQ2HkxH1PrabZHfnmnvGE4C8kSGnO5Gw+Y/UIrIw3PJm8qihAlLuf5Oo9fyqQO+OJrjM5NU/KkZWazn+sg0UD571niLLiT8ZXNzbcnZTnigjNU0rH0ULHqitzVM6sV1MmcmxjwX2UCnJL3AmppBc2c8ylZc3tM5fPkxd7NFV6Ui3CDhwGbYDa4VuscV63xC/7Jukxc8V3L2kXK3YiJoPIEMa6VeEcTOY9GbMPha4LH737JK4xUWgyP03GmY5rH0cGvOfILd1/oG2oW8PqTe6c/Ofz4GkuQ6lXNCx1MK8716g+oa8J7YJeAXIOg==;sEh0WnGzHcshT0TL1KwgOQ=="
 ---
 

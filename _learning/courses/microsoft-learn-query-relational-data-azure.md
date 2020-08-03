@@ -8,7 +8,7 @@ length: PT40M
 ratings:
   count: 69
   average: 4.7971015
-heat: 53
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Query relational data in Azure"
 
-secured: "9oxH+WlQ3qX5GpZPtKvaAtuLxd5SLIXdsVHTdB4deIXlJrzOZlZNHl1FQcRdgAp2f4kuwGl7tuAr2qM1/K0m7wkN/njD48lj/3Bo0tCkjGJve/tvs2wUg2GCmq2CV9/vrV7IfKXy5AUJW/o+mrmuHrRE7Ox7FGekPna+FzEjPIm1bMo437EydwGEsvSnFqnU2kVaSttH/+Ed3X3Y4QYKgrkVU9K93G+LdgDb6pH+huC3ayPDeLBUHM9uYevJOkRDIqow/GjOCN+Hp5oo2Z2N2F/it1c7aF4e8ZKrKQNw4lm0qyVB2Z9l98yfGTOwsLs/K8KALgd02+amehWR28LVVfVQUMQuXUsIHF92I52SXzLzKQkDpLbr0VrQpU43YnASeomiQU2ZqMxOUlqkPIXLWA==;zZllzyZVPJ1RGkiUaRlpag=="
+secured: "QAUGxpNEr1z9SQ4BSzeohrwZ34jpP94650lT3pfKnrrnRznfw79zQMevX+MGojJcp+qpWVI20k/BovcWNgBT/UT0S7WRBmyr7UOpXuuBHv8U9BkLPczm/uBix4bQ36s3FG+zIPYqrLOoF2D/o8/G64Ot2d/moXIlsCj0wDjH/bCIE/UfpZd28l2kjnhhPLjBOk+hXxVvZXnnPPVj/TGDSnwO4IWZ+kipa/gykYNzFlnJX25p+EN/F0eXNcKpN8BHZf5Q49tYu5QLkaTt/Skhy3mzGR9wnOACZn2GoysNmw5DoxStsy3gQKhUmx0MjoYo/BK7NbC607hWQqYaX0LorUaOzkxXLQK28bxPb8jpzz3bN9ZzZBsjO2hT33MXJ16JFCvzcLtF/lpNnUZdD7kHgA==;kK9eBJqpRq9OqyyYFHyBBw=="
 ---
 

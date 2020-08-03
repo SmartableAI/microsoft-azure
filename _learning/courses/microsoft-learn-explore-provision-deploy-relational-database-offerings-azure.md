@@ -8,7 +8,7 @@ length: PT38M
 ratings:
   count: 63
   average: 4.84127
-heat: 53
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Explore provisioning and deploying relational database offerings in Azure"
 
-secured: "JjhkcGOJ6YdO3FvsG8R3+huAfZ/MfL3q/Qy92FMA/bMbAeyzxMZaCFl9ulF009zPTnlOc+1X24frHeIwGCXEU+wMC3+MddYyyAB4YiMogBsZt/6SqpySLjDwMGWO6ECOEfZorWahQnWwi+ywE8/YQBrMGoqlmBpDDua19vCfmuntqgSECAXryOCq7lrCF0Nf8oHUn9FwAGX/GcQOj+7bpbtvMRvyGXwJYSnPDr5fh1EhqVZTR7seS83yr2+ccUGKaxLTAao8HKNF9NpSfimkVqTXYsV18M6OmJrW8E9M+wc4+l+YG6dw3QS7oQPsDaUlbcV7mxw7xc8QBGMpf2vEZMHMJ9T9MhCoR5nS7SRBDhbeiuxfaltkrLCSD0YctjuvI09hidPdQnUy7wLDtkukFA==;icdGZz/duAVXQts1cbjVmA=="
+secured: "xPeQfRAZGlQczxI0zj1C5c2Pz2/Ui+bwnBZUyypQCILZ3WRcTExAbNOmTUrkjWKCPdFO0UNbDTlXToR52JQct0LW8N6lTD8PjJluDu3agmSyxGgnx1TVgk/gP08KzZiSbMA5bNL+AMM+piS6U8/cqhpn1w5b+Gcr04YJW/BcDIn8pKHzXE5p9XgEGyqQ2+U7XJEf7YX27SIAH+hCowsJrZtc7FnfK7EokhcwC6vDWGX0ctRV/AyehpM+l/amsfABsvt3ZrpX27ETDms+MfK11mdRvKE5ah4gqALwwsZ2DK/XO1YI78YsJugA3QdfXSm4qytUae7WWbxiyKYHDjo4DDrHx1i3Eh0guQGo58SrAa6jQ2yfHIhfnAFUY+N0BrVEWNm33WdbVau8REWGzLnFdg==;KHYgXXYXr7nElmvyEVQWIw=="
 ---
 

@@ -8,7 +8,7 @@ length: 42 mins
 ratings:
   count: 800
   average: 4.6125
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -37,6 +37,6 @@ images:
     isCached: true
     title: "Automate machine learning model selection with Azure Machine Learning"
 
-secured: "aYMNgqOm9mj2EmVl2w8FOvrza/wxM7BztFthIFv0hhFOopR96EJooV+GBO7bvjEpDec6ocOdL3TeSFseOukmX7aSq732XUCREEERWphSM5Q61VX1ypiHJ9qPqjvMCo6T3YMZt+1P+pduR0R6kc5GzsTxeK4DEzq1HFEM2Y8/Bj4wRrFcVMrZ+s76e5IjUtyGFQ6ed4RLXxYzs4Q/YzgqIu/tFcFysY1iojrcxmIYF8XeKmTXF3ztKnGMUnUnSw4NnNomADvmQkm0BGIZKId64tL2SO7a+33+VgzP29NW2fe8qW8ylnHijBjOMpbh7CcBuBgPO14qZo+UFQEIK7uucBcq66IYQ1ZTMWzwF7194Dc8uoYdt85cuE4mPvPKwNz088Wv+nnjF3k1i6X77F3A/w==;BUYnpLDGt5w/PBYuOv8WAw=="
+secured: "wqo0icrZmTUCWEPO2NLL5xfZLq+5/8JhTZ1TUBKLJXL3O/kuIpYtcrc7AhGXSdLgcE7ELI21wCaOnSXWCsEcwLeM4vwxH39hpnDC6/WbfhooPaxNR06RdvrCTi7qvX5rb6bDTzIvKN2hCyMlvo59NX3eTGbZFcqvRPVdewB4d42D7uLKPAHhkC2Ch3Y8X5yNmJ9/11DS2flJwAxhcn78BhpcSoqPvg7TcOGynQHUTR1nvyQlVn6pNjaf7Ra8pHKsDeQHbfVe4Zs1jcftqFroNRpXvOPYvoDS2wj5NvTh7ZGUL2aCuUJCcT5nf/JE49X8LWnMN45WWQ4/EzWAPX4lC08KZIQxdAMpEn6A4Roqe4Xd4/7YrcabFysI8naFSrgEIBtjN+QhBEC9sAiOW5+Rcg==;IKkELJZ1FxPyED03gc2exg=="
 ---
 

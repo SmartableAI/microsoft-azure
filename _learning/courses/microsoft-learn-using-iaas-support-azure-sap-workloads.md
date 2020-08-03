@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Using IAAS support with Azure for SAP workloads"
 
-secured: "3YDcFV8Kohg0vl3Rh6zrcSKObnbKpo0IvQ+dCwOXo39GppFtb65fc79Dxmh7GcSsQAV53iX1SD9HmVc5UGqmqmf9g0bLI/iTAmztxgbsBjrRsxZgMsN9dFQ/eDzHxXcwXdTQ+pRin/caRGghnNE+//TgkgqWPVVQhG3kh6ItP8bsofLlAnCSzUddkjIWE+QK7JrgpVYr7wEbakn0SyvlVSf44HlLrcz4Q2YgBHaOPhpSxsVLMIkuHHfobPXo+gbrtqb4XC2dzcl7ZbsQmO10q5eaZp7Ez+o9zRavFRm0g/svvHYWTbP+ukGvHoaqI4N0HL0pj8q12Cqsv6io3sKgcl8o7rTP7jFU6XVXLN3zFANWZAhtVJOYqlYs0oMlC6M5B5PpTOxj5NOSKu0pgcrNUg==;/27L1qm+I2ap37uHkh7i/A=="
+secured: "IwtTQ6toWO4mwiEDWrxYKvv7WkoJwxa7wy+t0GCikZHpaRf3YY2w62NrqxdZ/080DdUnurbhmbWi+Bfs9XA8fDgy1YJs5+4lwwrqysbBqMkdfB5lwyk64lkybhCgGuwrtIG/zCAP/JVguI6g5ZUs/vatHleVIzikw5/K95/zsbb//v5B17fT7jeWvOfDDSmTknshv+xDJTJv6uZb/5J2sCDpLncSWJ0QLV1DT6AJB6UaJqUBrfbnIZXdCalm4lmSrcVlZ1ga7hpjlmJhurizf2F6pmnnlyYzxw7bpm+1j+HS2E4wtZE6VN60ZVXrfoLQEZMa4FtY4kXoSp2EYEKrWKRhDhn5DNcQkf79cLhSYzYVTt+8YRXFnymkHM2IXCqZ1YMCUNuj4gPgBthwfwgH/g==;A0wVbtIek//gfyU/yumy/w=="
 ---
 

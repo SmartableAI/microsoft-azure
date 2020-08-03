@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 27 mins
 ratings:
-  count: 864
-  average: 4.658565
-heat: 66
+  count: 866
+  average: 4.658199
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Secure your identities by using Azure Active Directory"
 
-secured: "/4h7DVEydUjVMZ89z7mW9NaOodtkJ2DaIHygbg4ZexYIcoHB5FFhuO2uGbgAc9yY057JmYMPWwlXRlcyr7YtVWbwHdQsH4sa1+fYAse+3T5ecsEH4d+NpO2pTxUy5nEGnrtihbtE21CGFTSZmHYq6RT+ltvSssZBbZTqadBdBQ/3uC8A7FafRooDo1AZviT2pjDOXHOgoAn9L/mL4Sj1k+yz0h3zwi5i6D9E7u8PT2pjuMno4yH9US2T1uVcCKlxkNZwCkoKq43i6eaE6778rlfHfuzIhKLLL7pg0bIS4ntuu+S7eG3cJay79VR7umahM18kROe7QTS1iLh2d6o74q0/a5VbrqqewW3zg8wO/KgU8ZU9qqgsqa+zlCR65x53mbrsdhf/p3ieNcBxk160aA==;N1sTjHYRaBc45f5dgBzgow=="
+secured: "P1cb0OZzz9LZ4d0F5mOqxb/yk0lplFTEaDgQ5bn6qSvInFRjkdolvTxY+qjXe26iH4k0bnmtWAAhzxWKS6YU4cPa6BJ+Fto44bqPafMKIIdTjqFjXbeF9cMSwZhDgtonBHz2dXzNzT4tTKqx9VBd7C7QPQhb9ZNTvCyYiz6Ld0dsja3htsvkNiIdVWf1BKZrw0+jKzUSmnoObEMV3roynTZehUckMnzGhZIFG9r5v1mXdiS/BrRXEOH5HFndzhMDKjiKiExXDCyogNbmHgSBjKYufBQuI067NUnJ0nsBj654D0Q+FFFChIe76ziet10dkrEhQCQYW3IXip0LcbvuZqc40t1CGLqFw9O9dsZDwUFIm4ceoDhq38ne473Ue2/MIsKCWoFGt/RMgY2azY5gGQ==;lEjzFbfUA0EKSp5eWyoxRg=="
 ---
 

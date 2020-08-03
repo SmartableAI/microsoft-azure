@@ -8,7 +8,7 @@ length: 44 mins
 ratings:
   count: 1595
   average: 4.677743
-heat: 55
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Caching and performance in Azure storage disks"
 
-secured: "iarVNXQw9PrNc7vkilG9UwQ/eCsHWFRn3pbt2OFWjY8VbA6tlR1Ysn6BtgaBo59g0Tfn0R9314oR4q/XXJdVD2re8FZBwgsWZ6l8tuJ3x7bcSmuaAQI9CH0LBKKFJGQSlozOLDNCDf+W7WN1Arzalc0Bf762yX8mppj+JwIencrtCb8WYj8r3YsCh7clcUYMjf04quxAG8nEhzzPuZNn/TyU7/bmOPTzUF0vzO7LuIck3FXxWiWMt64/zdmxnUEtaJc7Z7HIgLA3J5sQOkJum+ZodDDuuc5rVW9IGShkmX6e1VRnDlP75CHuh8m6wdQOzaIipI3hMA7/JrG/PB66qv8FaEjlk+uNU4WstRcw6t3IjDOojf6j89hn0Jlt9eCi/2DyHAM4hvrokDXDdIGMkw==;/UCOwD/ULHKlKhFytzVK3g=="
+secured: "ySiWDp9wjWhahDEZZfFpzPwzeAOvTtcfhMhV6/lRI6JPXB8/gPou0by/t5D0Z2x7athWRFc2JMp1JJ7/YN9BJMnaKeAOom+1M9C2D+TsAx/JawuO2D9+Umv87zOisylPcVoaug7teJy5f7QFo3373XxDbjwJwwX4TPFSNY1xUESmcpOJYCCSv/NKtpjHVUmVHr6I8+UY29JZyzThqdiOEpK+lhJccdPCS9WVQ6F3j0W51/PSW2TIb/hLeMY7pcnER3f9ooB1q7Yz5nO83yM/Llsxn7vVuYcFGuKgaLrdt9w0ResvQdOKXa+5/fT94v1rzD/AjxLNCwjjVUQGyCvT9n5Em/9Qkx0prwIRQLvyLFjNe3SDN19ZUuS8ddrz+oW6Nbp71vuzK8wnI2QQDVbKMw==;jDweY3TlcBdFqVoiCH8tAA=="
 ---
 

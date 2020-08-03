@@ -8,7 +8,7 @@ length: 43 mins
 ratings:
   count: 568
   average: 4.727113
-heat: 51
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Protect your APIs on Azure API Management"
 
-secured: "AHfOcmUbAa4j37BWp2qr6u+MKQTMwodh0deeTTkPRGeK2vZqqVCUweJNnI5j+mvHfqE8L5EWPQx8URZFJjsdHV12gDDEXSwnqshSCGYm2nagwRgE1iAOiW8M4ESpk78yg5nP7U7KjM9OAbeGHURtu3kkHiiQj7T5v3y+J/ByWPh+cBvyL2gnLuHDD7mHW35wA/ljPw/0NHis+dJSbuYQtEgH566mcRD83XBizsnHfwsA45bSXmY5ff4xT1ZySw+sqEEyjqIhD91gRxIlutx6zgA+v0Qg2ZevzphTBsWDsxGlXTVauJ1FDRZJRQzCoGYt6sT1L2CRwz/yJhTAt4t9pjaUlAz49ZBvxIIpQWVLknmTaHjgwxHeUzef/5L4U3G+akq8ZAP0Cv8GvzVtlFyUnA==;Wiqsl27keCNGP7yc9hTnrA=="
+secured: "uVExrWw5h56/nLm0dTw81cMAp3qis/1GZtLud7X+m6CdSLPR2fEIr2OAoOR7Dl4COic4mGRbyX3tIGaON5n9vilI0WkgPLiZu7cTAz5f0BDbqnB3HEMPb5F9fH7kug9l8fyP3ws4oS1+xD2hg3lmlG6SKIvtk1lCdY9JiJJruOSNOeBulXnjjkwlAdYmS2xvPdQbc0zok8Ef5TScznF4eE+ayKDsVuTA6Mn7nT7JHh71/otz+erZXQyOcuk17MylZzIOeo/a3zvovAcYX/bGgaD2lCNjq+k0ZAwvB4LYeJ56KpB6rONVXatjnFoqbvMDdKGHMc5aU7iIWE7E1st9g+EB+LLyc+smQpA3G9n6dgGzvDDhA5S1cW/BHo836C/t0mRP/tylvXWFi6kcwC0PKg==;4KfNARzk09InW22VbOScNg=="
 ---
 

@@ -8,7 +8,7 @@ length: 30 mins
 ratings:
   count: 8764
   average: 4.6587176
-heat: 84
+heat: 80
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Choose a data storage approach in Azure"
 
-secured: "qAbLXl0qDO26Ws9GTu8x74ze2HHmVWylSYXo6gyt8R/Dq/PDiex1x2lVgkUoYHrr0b4Q92YNIDP/nVGnGLulYAVYt810KWxQe4aF173LDSBKVbXL5xsZf2drRPvj5Cn+u86vXxTwaDj9hkKfXe+cJreQXKLsPQtS2bNo1R96ku+Iyh7MI+ZrSt71PGcRZHiATaYlOqC8WcEKl9BhDyE99lEBMzJGMeqFog75UB9cBBccLhrJiNrSEKCIyt8oOpB0RKODCU8EftegSzwuz9nL5a7vGoX5keFXZxDdBT5H9IHDYv2s5+/pziPyTaX4+I5uKXTj4GVrXDz9+qs03UWQd1aIpvqVJab4j0l6rHlF/79Nm4pFyi6qxp+0olRNw08DZ4u24L+q9bciKYR++ZbFwA==;IBTLk699kcaxt9X2mbqZ+g=="
+secured: "sMiyr6m/dfHeWPpPpyOnqX3ZtLB2XfVk/Iaccdyk3vtSVMWHqWxpM/njegqzgiHYJBjjkIHuY7RagQITKjBNp4bQu1DtS02sv9QCF6lX5yBsJ6wzE/RuRVUCqnMubbRX6rP6j2vnUZNyBtPwRcy/5hS+jIM13TANXEXfHqR4GbOa7H+a9BLpLLJyXIBP+O64h/UyJldCFN0ngMWqvas/IneV56Wnk/udt9vf1cJKC1mCEPo6nRFZMO3xgCKOtGGOSpovb0ywpG8gDOinHePMEcsPC4KByy50BeZE9Lh2UrZl+1SfgBmFKkYnifQ54M74a38X/FuXKZLFTEILnuNfeIMIpwBrUffrIE27MCyu1Bg68Ld0YpGEQWjvWkvNFoqI+G1CT+fR7KgwPEEQ49TPJA==;SweeSutZFLhe2fSMhnqhVA=="
 ---
 
