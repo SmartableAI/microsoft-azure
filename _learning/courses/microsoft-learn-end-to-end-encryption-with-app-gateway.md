@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Encrypt network traffic end to end with Azure Application Gateway"
 
-secured: "RF6bpkmjbptta4+xN4gKG0YkuKCNTYmOC39bvge/ORAg3OufQFnAAn0JPjBcp7khXGyx5WyXxKboQDC6MjkQtESfKG8c1k4Nxe0vsW3WRBYsoLNhVC2RDnk5/eT9Mn8G5/a7HBE6gygwj8OVc+/Jj7BR4n8lr9V5Sox5X3VxdHfhK6pP/Og0kcuRTf4FcSxDHct3pvqU4zQhfAe/H+wnI7i1hmuQEO7bb7oePPHgsErkeBPDgrhJ+k0fTMF3+CeuwDZ9RaUqRhlYInsdmOz8G1KnsHV3/p8dMk48wdy9ZdQp+S2cCNmjbLy1Qm4T42/f6W6SxN8h47PzZqK1Qek0aifJBeCMYdA3OpUQ3hcFNx21ApqAsxnV5rrgqH5jdB9dqmx0lc1dciSGB0L0jG7ssg==;fpRyhbQakMceAy+wP2j6tw=="
+secured: "2BD+43rYlgqTIfAKvkKbbezO+bih4E4OqqC21FrB6QiBWIniP5C12yXOVaCTWCqpv0gnawrtkES2V2ihuDDQqn+yRrrpXG0UBQLSgezr7ZZSwcWeew6/v+8bNEZ87AurNETtAXEp/K8VSdXV9U6Pdm8kSFKCkPB2/pw031nETmCIBTlGv+bB9HprCGlg3wZSBCRkJxvkChdPW/GgmObZAKXUxiVeZRHuCyjTTS4kleVdeFe7WWVt2Oh7tRZ1tC1hXoEubHk5NbHGgI8s5+BaPqTtxNZrPpLY7xQZvbYhT1cSjVuNIvs/NpGUrZEUGGZ/u+uuZ/in2CYJVMIzzy5ZbJ2h08ZjY9p4cQGaHhTb+1iBL6pP8NWvkynu8PW5gOP9YUW0UDPx6VQWS0P+2a9chg==;T2yNhYYlhxDdNj09zrYc0A=="
 ---
 

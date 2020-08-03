@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Publish a web app to Azure by using Azure Toolkit for IntelliJ"
 
-secured: "jw6dF5pp4T2L5WAj4yscZ2qBhQdbC0GHvr5+WEBHCHqJhUO1MBuSxQVwVqfla3hfLwbiwUlGHsO/V+3qSpvnS/jCUru4VtxgHj/3QMVH9vsqqg2I/rCQlcVbkFEUdW+MgwEcSJ6OGBWIQQSS+qUMSl2EHNaNggxbY1mPl4+QqHK3om30Nf4FMBwA9DvsvCpurjQvsHEkCM8xgDj26MrWIg6TkUK6tUV0hCprRFNtQaSWFJ0W8K1mBYlgf4x4SULsWDnaVnY+hQ+ZYv3cRkMxXtIuQiifuK/R6ZBFIUhISTe+3FJYPJwtMRJxjzrSwhzN1GSM/6pMTURIeQCjZmo6k5FUX9KozgPprP53HNufwgTMsDMfwR7EsYwZHGmYxp9A1hMw38sYoln6ObwnJFMq3g==;6F+6Ahxg7lyzWEws0pTttA=="
+secured: "xpCsVGWOCCLRTvv/4aNoBtt/7YoeuT5QqkBugr++UWYzRix7lWZMSO/68O0z4xVVZrJWu1119afwwMM7v4E0xUKGYSy5izpfA6nPIYsLVa3TAfrW3pZOcGhvCos7KwQlT8s8Pt4kKbDWkhYtFV9FNYPDqJGMpRaZs67ns2zAikU60ddGLEPKloMczfzreXIS+qOWNMxx/bTR4x3wzG7oev0hiBszcXp46z6PJBoGA4oetY4ncR/07Fac4+nLs+oVUYnG4hB+5ULa9YU+2Bi2CcKMLEWjHAhykb2jr5i/JxH5cyGS/PY02zRsO/8tLFmAlUbKmn0aMNsx7q3V+SrAAok4LiSYRiHw2eWx9wY1j8SE9qu3yMIo1QDk1kByLCsgABuWFfVPvke1VKTfwQjkdg==;Lh3nnl3lM1EPZurf0Ibe9A=="
 ---
 

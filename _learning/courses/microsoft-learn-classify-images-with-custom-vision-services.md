@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Classify images with the Microsoft Custom Vision Service"
 
-secured: "pHHZuKbmD+3Yv1NrBSPehjFEvXLlLE2lF9zurOUEO6D6NJCx3t9Wl6FSDri9BlZfyiRQJ5vJC89vsbDmLKQX8WHOZVfYWgkASL6fPuh20Di6ZMXgHdCNZZgSG/JeZ0o4LB8wDTf/yEgLmoEE1oCwSs8AuVm9dc/X37nmpT8QsPBm+OUvyZ+4jjN1ARsNkkBmVjRt2fIps5mzsKP6wmddZOq/+DC2ZCALy0z+j6YOiwQ96bqJFhVsv7EQ3HZxkBGDNRfHKIBNzGTYgPe4cyu2f44CPXf0BtMzs1jUD9GHdHHzAmUbf5Q+z5bVACkc2+WeH8WYjsqHbyFWmQmRf6YHDK6iSNJh7CY9pvafN52npFRHIWHEulLJ4U64oaR0+jp08l6DuuEE+k/Wqar+lqAGZA==;8U1k22e9PvT81r317/1k4w=="
+secured: "RH18N8LmRbuTS99j64KZDeFsPydrVMDuGQu6kKxB+CloQaxH3JfOYhMiClRpxfNeCteZTO/PPBryKiVuccpGO+46Lkryy/D351KFsUqgABhmMIfzziV/rBfvjwPyJj16eMX2w6wuFYPDCvf49LyjJI5iaAXrC0o8MW0ERNdusvHvlyMVwYP+0OS0z0ihsR+Xg+j/jCYekmnO39OJiN0b3xJiKHkSWMz+RAm2xdLJQrE+7rILE/6omjLoVsd7biJgj8L5TGmC0Ve9xyxyRi4W8LiPj+4Sibuy5ycI+rwTmHrK/gVUAqUJVvu/nr0q//T5/snJ5xPKKjORaZ22HdVnEZqAwjvplllLaKPRbmYFKSvCqmXV7iNp96sQ47VlfOCU/2GLw4wcV1gw3lNI738tKw==;/S1smH87YFl/HEO6l+p5Gg=="
 ---
 

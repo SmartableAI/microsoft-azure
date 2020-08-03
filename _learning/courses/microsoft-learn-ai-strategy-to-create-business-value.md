@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 70 mins
 ratings:
-  count: 2038
-  average: 4.6957803
+  count: 2039
+  average: 4.6959295
 heat: 52
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Define an AI strategy to create business value"
 
-secured: "nDB0n1C7XZ4/5Ium2l1vL4HZjytPu+5oqmPX6FspCrmkuJoupan9LFy47LNb0JeFyCje/890sGUpr/AJ2IxI0JrCwp3jDQUnU7f8naXTxqzOUTW+0yueV2PLZABg2sbyi7OIx/pzFkAZF42WxR+H0aw1kF1ryqpNlHvcDyOlOMrNmBtiXikiGdVjFBR/0cX3rJdqB/u5EDzyL4TowxWxthg0VoS4/PYP/esT6eSdc2xMNNSWiWINttGgfHq1VaACaxhnZ7dlEcpxb7V2qqRZcYOxly/gJtFfdthLSFeFaQkgU3hqpycR+diHIb8tx17hwQj/fh/4KqjwtBWoRqatoTqLr/FdKzq5QwT4uG5q6if8zSgthUYIEoUD/hGTfT68Gkd1qbsaIThp7UxJqYybtw==;MzrpcF6yyirXoYR1rT3YjA=="
+secured: "VBpEkMZ9f6lzjPIIYAmlP5j2uksK456nt1hMgWGkgVNsoJZC9iFO/aaFhq4p+TpEQ7yyozk+Hulp6rEvVl2CxKoAzg6flECfZ4tg907PpSLGKUYustFB5fal9AwfRIFO/8Ce/JIC9KL9Ggj6CUOhQ1npJsdsEcw1Pz4c0A4kjCI6cB5GamGbpGzg6eC7H64srZf7GlxOfi8xo5vh0lAPeLZ2aLH6FiNCooFiTg/qnVcqdFn0RQvtdOkzwZGqMf4IV87tc7MK7gJ7H3uteVGFLcOYrN9ey97YjS3yUd/YfdWVQ0d06zu2MQrkPM7HkmQbah3cgeOW2lItZYYaN7iBXQCMXsJHd7cB+g5vttHvT4jIiDrToKAEHoYLjjmK40MkzozTKCk1WRemgrNpQXZPWQ==;yV4I3akZHtB7zsgXGcSFtQ=="
 ---
 
