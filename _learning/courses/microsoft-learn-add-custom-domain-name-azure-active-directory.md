@@ -8,7 +8,7 @@ length: 18 mins
 ratings:
   count: 678
   average: 4.6504426
-heat: 56
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Add custom domain name to Azure Active Directory"
 
-secured: "Dq8QvSFJtmoJLyjdLlciq5cq8+GZnraqpYlhe2lgHt5FoSg4uR9YcVw4vnuWuDTJf6ogsYgwWWRF/iNkx1I407rmlX/SND7OGmEwpzNdHeqj+al5KPLeqNEY9orBInYAV2LAgFWqy6LyrQ3EENu7wm33it7oa31dGeaQdVJAnnW0iBrJtAQxXA761YR9HP1JJgTTK37emx5/F5vA8xTXWhtfnMtTOfSXuTJhYrK5TkX5cGysGpZoSLhvCZoowL30x0O2BakppO0+1cTtdZEp2L5NZTNDCKGRhMvzH4+SJvDkCtlmIDphE6noR0iNpjGe++1r4KqWRr6nIr7GzQ9k31xTMnBTNq0LeDLVM1J3BOYr/Q2u+GJud3Ew1d5cdyAjqgn8RZ1kGkV1c5Mb0o9SSA==;aTufaaSlu+NtfLq7ubQ9pw=="
+secured: "9SQClcQ4t4f33zX3JpkXAd5/r/QfD102+XMhOoz3CBb2N/YC49yUktgjrGAsfUPhypd9gcXaO+94KcHh40s3eu5o9buS5YqyblShbAjy5hrGPktqb4bp4lHYrtCWkeFirFwAOfvPaTp4qjX4X6faStf5thqAAkiTYD1utO+GxkQeli3mKgzmpBRvVMlg+9mFg7I8NdJgQDKf6KS4e+tY1ghEdpAdsOdVHbuAxFLNh1boHzuJMSmppDvLSvnon1+JQKUK9BrYpq4uX6lijl8UtB5baJvufxXIkCD1B9sNxy2AZ7HkewLyVewygNkUzjCx7y3E2iEnLy/s0tHmF2FAMQjjaSXHvcK0g6x88nwpfoVsW1a4W3TpZ3CXKFYDxNmRidkRubh6anrIsqzDKAQeyw==;IgK7C/eXxQO5eFWAVA3n0A=="
 ---
 

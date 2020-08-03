@@ -8,7 +8,7 @@ length: 49 mins
 ratings:
   count: 1122
   average: 4.5650625
-heat: 54
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Transform data by using Azure Stream Analytics"
 
-secured: "Gl36lGbuTm7LczlkdwgbYG338Wsw8i/YY9LNw6p4xXJdkuiZYr8VmLYMWP0ZFllVgAloEPvKpKslahzr+Tdpk7PdsdkHd3IpIWHk9mvFmfquHVv3iGbbHJnkJF23ys5SR5wBAAww0bs+sWwylgd4GzCXCfnUmUYJuyqlpw3PTyRtRI472Cerjsgf+H4L3ss5sZrGrWJwCxXY5PFejS8WcVmWI7tbWkK+T2QxlivXfPsCakqCT9oQ716/8J2CxXShjIG3qQjUtF2orvnZar5zBxZGZSX/m2prpa+ABUCIRVvbg3gDApMXXikGepghhld08mB1i81cZFVOBuSm0jHvUS1evFROzzNza8+L2YjIMzXpNUdYbAKcyL+CYSwG1ETurYWiiSMJrjd3nr1kxmSXqw==;nCENxbIQbWrxh7t/UhkJPA=="
+secured: "VAUrRK8qmDnLeO0s9cey10G6IjPaYfB6Wb0j/V6UZzrhRN9BllZYQ8rfQG+68geaL/vUF7VBDha1A5r8s9OjAHUe7jgUrlXnTQrZhm5EiVQrBX7QAmDB7plCv7dhLjMA5GOGxD4YtvPPAULbIrsAyInEbyOX6AAUpJkKMylz6evGtQ7IY4sO4pCxBUEkyU92McQ+Aab7FIi464qmWP69J/hzjXDn5bfEWjx/NggiHjdaCuXkJaqllEjePp1IvEcLTsziMhSKxaqhO4EJnjdWrBVfoiFYFFyYBQD9tMKuA7RvPOugR6Q8QDUsMmMcYLrluhvlTGGvtHrBt0w7xDD+CFGWdTMaJElOynzJDoXADogiLp313h4+Od0xJ4GjEQIoGlKBVwV+YQMoSLNYTVIZFg==;seaGJu6A1egVZ1WnbyzA6A=="
 ---
 
