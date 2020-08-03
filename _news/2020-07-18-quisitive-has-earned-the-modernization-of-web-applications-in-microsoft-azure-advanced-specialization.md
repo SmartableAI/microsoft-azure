@@ -42,14 +42,19 @@ related:
         height: 1270
         isCached: true
   - title: "Insight Earns Advanced Specialization in Four Areas of Microsoft Azure"
-    excerpt: "Insight also fields more than 1,000 Azure-focused engineers, developers and technical consultants, plus more than 2,000 Microsoft-focused services and technical professionals, maintaining more than 3,000 technical certifications combined. “Insight and ..."
-    publishedDateTime: 2020-07-28T13:15:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2020/07/28/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure"
+    excerpt: "Insight also fields more than 1,000 Azure-focused engineers, developers and technical consultants, plus more than 2,000 Microsoft-focused services and technical professionals, maintaining more ..."
+    publishedDateTime: 2020-07-28T14:06:00Z
+    webUrl: "https://tucson.com/business/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure/article_88eb5653-7cf8-5650-a7f8-8b0ece08820f.html"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 17
+      name: Arizona Daily Star
+      domain: tucson.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/custom/image/80e87ada-cfb0-11e7-b59b-a75438cf81bb.png"
+        width: 620
+        height: 290
+        isCached: true
   - title: "Ukrainian Azure Expert MSP Partner strengthens its Azure skills with achieved two Microsoft Advanced Specializations"
     excerpt: "Cloud Services has earned the Modernization of Web Applications in Microsoft Azure advanced specialization, and Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s in-depth knowledge ..."
     publishedDateTime: 2020-07-24T10:12:00Z

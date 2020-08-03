@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Insight Earns Advanced Specialization in Four Areas of Microsoft Azure"
-excerpt: "Insight also fields more than 1,000 Azure-focused engineers, developers and technical consultants, plus more than 2,000 Microsoft-focused services and technical professionals, maintaining more than 3,000 technical certifications combined. “Insight and ..."
-publishedDateTime: 2020-07-28T13:15:00Z
-webUrl: "https://stockhouse.com/news/press-releases/2020/07/28/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure"
+excerpt: "Insight also fields more than 1,000 Azure-focused engineers, developers and technical consultants, plus more than 2,000 Microsoft-focused services and technical professionals, maintaining more ..."
+publishedDateTime: 2020-07-28T14:06:00Z
+webUrl: "https://tucson.com/business/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure/article_88eb5653-7cf8-5650-a7f8-8b0ece08820f.html"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Arizona Daily Star
+  domain: tucson.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/custom/image/80e87ada-cfb0-11e7-b59b-a75438cf81bb.png"
+    width: 620
+    height: 290
+    isCached: true
 
 related:
   - title: "Quisitive Has Earned the Modernization of Web Applications in Microsoft Azure Advanced Specialization"
@@ -60,6 +66,6 @@ related:
         height: 512
         isCached: true
 
-secured: "LiLO76o32S8CgnFdxWP48LRgtbI3TQdCm3xQ9SLfUbyglWpiasp1Z7GLjmN3otN9Zje9EieJ4CA5L/THG1N1WQq7ICBgb6h0UKB6vNpKAXLCdWojT8tFJImvUgdgJEDht8pMOpDKmj+QUUjAuhfMCLOIVAeTj4xcOm/YWd5jSWGbkb/wLvrW0Syn3+x+puO/IldnGpd35Th/TRKICJb+eX8GLqg1UJ2nKCIzcXeFbkmqbUn6d4rb0Od26TAewW0uJmyd1pJK/DxuJNQ7actM/XFngK6zTiElqQLnqFksGk4mzwF2dNsCOqTczYAAkThcFPDapvpiizcIEhL71E8G3w==;SyH0OwFMsTArpagoPMgxlA=="
+secured: "VV3rYSHsHIEU8gOB5ZqbFQy65OoZQJIXAWHrd/xIom77jxLSL54ph5SXxWQgfV6ke52+OMyk/7A1LxzCC8jNQaV3n8o2py2P62Zftj4c1sqgR2nmWvhIbC4Y8+8XBVdAgJ36dZYKZfpxZPQRDREx37GsDR8+3AX2ynrazCvGPiSXfZxVrmdZ5ylX1YGs+pvVjRLsXAtskKimhkv1FlwNAL8flSwJkx7rAV2TOrrU43YyAwpO2pxSBHFd+jUqjBHu5WXlVZQFmnybUrDrzogwEmhwP4TCRUCWKaK6GHYPzUiep8uVx28rMtrSHc6vDz+UzSykE8iYLw0mXbf0L/vrSA==;OWERmAUJFoZAVdRKRgSCyQ=="
 ---
 
