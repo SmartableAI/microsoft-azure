@@ -3,7 +3,7 @@ category: news
 title: "Azure Data Explorer LightIngest now supports actual creation time for historical data migration"
 excerpt: "LightIngest is a command-line utility for large volumes of data ingestion, and for querying records on the time created, rather than the time ingested."
 publishedDateTime: 2020-07-31T16:00:15Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-explorer-lightingest-is-now-support-actual-creation-time-for-historical-data-migration/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-explorer-lightingest-now-supports-actual-creation-time-for-historical-data-migration/"
 type: article
 quality: 65
 heat: -1
@@ -31,6 +31,6 @@ related:
       domain: microsoft.com
     quality: 77
 
-secured: "fG+19GEC6tRwXFqlBEdI6Pb8P3g8xk02lvRPgaxyNS+vr+elpzD7ojAvwrZjcZtjEYNcFVekbY2iCpNcbfu0R8LYmo1GEfKK33rFpQapyY2BjymzpIgjvwzDQjQiK/lf8TBFYlMdk8w21P5E+K9UfUg3/gl5OXlZ1zDzxiUjVyIt+If+snGObJdA6pZx0ZjROQ8c5RUG9BZ8+iwgZNaj7VILM2/b+xClC4nUMeEEXiZSEqiv4C2QtB+7pqSd5jqD8CO2eFgGFO81Lf/wu3C/5ALOmRBrUgNqerZKVxPDoNoaVXO2hxr2we6nbHkB2GQaukD6OFoqhn/3HzqtT9ReuA==;8r7JlM2FQ4fLizaLB39N4g=="
+secured: "w7yvoZEXOZbPqjMCLoDJM6Arst3LZXCCM5R1uErfT/Uli//Z759O+czmoAV+MOltf5Fiwamr+DBEBiwbGYXcwgFFwAPVgwiiOwFZmL+1jN2rxoWdqBGNFJtgh88/mwZT12JoiHnE1CaRGFKhaIP3UPTvADrqSB469EhnE90Ht/Ky+cnOgCeZKUVEWLUt6N2CH5wFkGkwK+TIipjoONUu8GnOBmqmdK3x7zaEt5cgtBOkoE7WknDda8sqSKtxtHMKr1XMnRMZojLcDlgWRBKbJnr5NIPpS133TSUYp/Qqph1gAXtjYrddhE3kzuwS5otpWXSAdADolZuWcgC145/zrg==;50Nkqa/CJCRQqzBszP3QXA=="
 ---
 
