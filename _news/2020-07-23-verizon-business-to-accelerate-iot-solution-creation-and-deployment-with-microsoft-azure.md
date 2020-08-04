@@ -31,6 +31,17 @@ related:
         width: 300
         height: 350
         isCached: true
+  - title: "Verizon Business to accelerate IoT solution creation and deployment with Microsoft Azure"
+    excerpt: "Verizon has teamed up with Microsoft to enable the simple and quick creation and deployment of complete end-to-end IoT solutions Verizon's ThingSpace"
+    publishedDateTime: 2020-08-02T00:33:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/g16750169/verizon-business-to-accelerate-iot-solution-creation-and-deployment-with-microsoft-azure"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16750169"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16750169"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 28
   - title: "Verizon Business, Microsoft Azure team on IoT solutions"
     excerpt: "Verizon Business (VZ +0.4%) has teamed with Microsoft Azure (MSFT -4.1%) in order to speed and simplify deployment of Internet of Things solutions."
     publishedDateTime: 2020-07-23T18:50:00Z

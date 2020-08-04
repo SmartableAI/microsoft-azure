@@ -7,9 +7,9 @@ webUrl: "https://www.zdnet.com/article/master-azure-this-complete-microsoft-azur
 ampWebUrl: "https://www.zdnet.com/google-amp/article/master-azure-this-complete-microsoft-azure-course-bundle-is-just-30-right-now-over-95-off/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/master-azure-this-complete-microsoft-azure-course-bundle-is-just-30-right-now-over-95-off/"
 type: article
-quality: 66
-heat: -1
-published: false
+quality: 86
+heat: 106
+published: true
 
 provider:
   name: ZDNet
@@ -21,6 +21,12 @@ provider:
 
 topics:
   - Azure
+
+images:
+  - url: "https://zdnet2.cbsistatic.com/hub/i/2020/07/31/06cb64b9-7582-4e6c-a3c7-29179249a735/2020-07-31-at-5-02-01-pm.jpg"
+    width: 1756
+    height: 898
+    isCached: true
 
 related:
   - title: "Score $700 worth of Microsoft Azure training now for just $30"
@@ -38,6 +44,6 @@ related:
         height: 800
         isCached: true
 
-secured: "q4uqbh7u06g0nGbNoLQCn2tTwi+keKsB7g/S9roVbKROmY9h4cWPfVk5VdgxFg4m6SL6E4mxfh8KnjCL9dLBzFIAlyn/GkILV4kCMUTECfNROmsAQofTqZEblKO7jtM9UXXPJSTZVPAvDYbcPcHTczaI1+t9DPN4iPRkS3SyuO4FfOE4klUbzvd+kCXLsOEujidnqq+wUdpURlT4DCiIvsVC6sxV47mW9G60O6JW/uP49Ho0AVmkuOICul8vYMK+pFWdJ6j1T35g1fucgLks0V3QTlgHEXgSX3gzyjIXzMA5tw3IO83NkO5A3QzwAC8OUZXMV0l+y0EMdi+vY6cbSg==;nveoZoECdWhyPGnuLfwZ7g=="
+secured: "75CADy/WKJFtKg+beukJ/ZbK4oCxgn9cGVj4y16S7JBWtMrvo25fPZ3bu/fv+RR3hfE4J3DadYcT1Kw5hH0z3ISJnDZoggoJ1q/Ms0+9SYJq3hogXx7nS/rIMd9yHtlt+pMGXGV0CWkiBOGFs5lmj9bW9TcLf2cwDjrBIXEC/J4ypDeRk3WgW0AURvMthASoI0blveTLT2txeFevgjlV2O8OYA4iZq2rmyngnAyOu5gS+UdIimtfxPl1i+DqqNdFQ38gkN3hmZYApg9UwcD+yOfIZfOo3b0rCS31bT5JvTAFRW6gfv0b4Nf/8S85KVCe3rrls8iMUcQrq8ftkmF00w==;cuLHjcOBs+tM88tZSKk43g=="
 ---
 

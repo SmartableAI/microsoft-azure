@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-27T18:38:00Z
 webUrl: "https://www.pcworld.com/article/3567953/score-700-worth-of-microsoft-azure-training-now-for-just-30.html"
 type: article
 quality: 77
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: PC World
@@ -37,7 +37,12 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 66
+    quality: 86
+    images:
+      - url: "https://zdnet2.cbsistatic.com/hub/i/2020/07/31/06cb64b9-7582-4e6c-a3c7-29179249a735/2020-07-31-at-5-02-01-pm.jpg"
+        width: 1756
+        height: 898
+        isCached: true
 
 secured: "CsbGf5K6dkA4bLl86HDxiF1aSwt7LEBE0qynPZeKnv/6Afn/JelmX+yhSWXK0Q6jb63VzGsgf6aiqYw2xP3F1IOk0TrfrwdF/b520CXjeB9lMr7FqL1LrYwGrUpHO0t3VWT9gp42JkpvQwLOxVXAOefItIB1+BwGCrQeQGNlk0DyQ+lxELvUs8KGIrXLDAk2u4S6llXP2/AGQQNQ20kUuVvWhJKBDro2DJTncSjB6XrVYV2as90C63iXEOjk+2E9Akd/wUgeirt6qCHMdV8Dv6RvYzHc1nvUCDpvpM/2xuqWaoXPBL+vZDaQjnZhWkipi/Z5GEgo2K/+n0TwqNL17OTCgWKL9LYWOQHliLgdiwW1oCvacNkTvL5ETDowUlzDDMSbpJ3AHmNyNVWgwYoIWNQd5V9U/Wt8U7VbB6B/W976FqmBAwNo27lpKFWFyb9nuAPD59Y6D9bTvLEwCrAeFJlQq1TU0eT8E6R8Fs6YZT7RMFlNRN+wAGnBsCz1vCK+YzaoPrgdnZQmgL919qHfnw==;5SpBcQjCZKLWuHlGRG0GDA=="
 ---

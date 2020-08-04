@@ -1,26 +1,22 @@
 ---
 category: news
-title: "PAF Process Mining Software Solution Can be Offered Via Microsoft Azure Marketplace"
-excerpt: "PAF Process Mining Software Solution Can be Offered Via Microsoft Azure Marketplace By CIOReview - Process Analytics Factory (PAF) announced today that its flagship Process Mining solution, PAFnow, is a certified"
-publishedDateTime: 2020-07-28T18:12:00Z
-webUrl: "https://www.cioreview.com/news/paf-process-mining-software-solution-can-be-offered-via-microsoft-azure-marketplace-nid-31696-cid-20.html"
+title: "Verizon Business to accelerate IoT solution creation and deployment with Microsoft Azure"
+excerpt: "Verizon has teamed up with Microsoft to enable the simple and quick creation and deployment of complete end-to-end IoT solutions Verizon's ThingSpace"
+publishedDateTime: 2020-08-02T00:33:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/07/g16750169/verizon-business-to-accelerate-iot-solution-creation-and-deployment-with-microsoft-azure"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16750169"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16750169"
 type: article
-quality: 31
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: CIOReview
-  domain: cioreview.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.cioreview.com/news_new/sliderimage/u5ddc.image300x350126564.jpg"
-    width: 300
-    height: 350
-    isCached: true
 
 related:
   - title: "Verizon Business to accelerate IoT solution creation and deployment with Microsoft Azure"
@@ -32,17 +28,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 48
-  - title: "Verizon Business to accelerate IoT solution creation and deployment with Microsoft Azure"
-    excerpt: "Verizon has teamed up with Microsoft to enable the simple and quick creation and deployment of complete end-to-end IoT solutions Verizon's ThingSpace"
-    publishedDateTime: 2020-08-02T00:33:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/07/g16750169/verizon-business-to-accelerate-iot-solution-creation-and-deployment-with-microsoft-azure"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16750169"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16750169"
+  - title: "PAF Process Mining Software Solution Can be Offered Via Microsoft Azure Marketplace"
+    excerpt: "PAF Process Mining Software Solution Can be Offered Via Microsoft Azure Marketplace By CIOReview - Process Analytics Factory (PAF) announced today that its flagship Process Mining solution, PAFnow, is a certified"
+    publishedDateTime: 2020-07-28T18:12:00Z
+    webUrl: "https://www.cioreview.com/news/paf-process-mining-software-solution-can-be-offered-via-microsoft-azure-marketplace-nid-31696-cid-20.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 28
+      name: CIOReview
+      domain: cioreview.com
+    quality: 31
+    images:
+      - url: "https://www.cioreview.com/news_new/sliderimage/u5ddc.image300x350126564.jpg"
+        width: 300
+        height: 350
+        isCached: true
   - title: "Verizon Business, Microsoft Azure team on IoT solutions"
     excerpt: "Verizon Business (VZ +0.4%) has teamed with Microsoft Azure (MSFT -4.1%) in order to speed and simplify deployment of Internet of Things solutions."
     publishedDateTime: 2020-07-23T18:50:00Z
@@ -67,6 +66,6 @@ related:
         height: 450
         isCached: true
 
-secured: "UFfI6YaFb7bIek6Wl+KGok4Z/teV/HDuRz4JqE1Ve7h7yn1EKj45sJUMO7+Zz0L6BSDLnfehM7/sShjQKAWXCeuRARuwLGpFxZhSPX7qe9tiuVHU9NKDPqStR9ysoGXX13+n4BofU84W6cEzYYQBMVSaWsXKpUdGhnFMEourv1UDShpbeSxAnvEd3UJAhzE163dC1YEDxWzsfk4TB/fD7RJuxlMqucc7DMYV9cp4O4mfP1hSTX4VVYqPWME/sMM/5GbNanA/yPxz8uUXbUL5yiyR5UC/hU+TM9I+EJ7vvO/Dx70mZAHP/0cp+PeA3fEhg3LdrbFQhUAyWl+TuF48Bw==;nw1UU4/hRwuVxtImd+HZZQ=="
+secured: "jnfmX4QPqrEypeMs/o2oSFWCKeYzI3WGMRLtWsyaMrtkvoU8rPBztIK2I3aiXq2RVx6UVdIR0R0PSXIbROZ2g4iQPuoqs23ukmKFPXsRvjuDhhXtT5nZCn58RSZhuINMykOzdJmhnH55ujNO0wB80Xp2xFHh+i0DrFkWUfwsSPaw8XsIddDAO0geAbC0jfYTAJA4tX18snwhjrCtH6SB/AKwVgVgrtSv8t/g3AXvXev0oarPBFiv4urJPfksvJfkjakV+VQHbmFaW7YUnNDkUCM2J2JhLT4J4aGOEVstRAVe1onWz/6B/RqcYT9mcDMrK6Dx713lHxJtUzOwwA2TTw==;QP7aC1r1Xe+z2iU9MkK8rw=="
 ---
 
