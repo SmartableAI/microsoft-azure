@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT55M
 ratings:
-  count: 28
-  average: 4.821429
+  count: 29
+  average: 4.827586
 heat: 50
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Predict  classes with a knn classifier"
 
-secured: "KqnUDKTXZ/0DL8sA2eDpzWCFwJPj0m4OX6g7XAZrwuqSBB2M1XilPL/IW+aFCGpEUZXake8UN4ONDIIVNTKAtjwdgNP252iMNOznS9YsFoLD58pAGlzIAranbn5QB40gsEQ6LZmCLPdOsjUu2V38pnUdqS+8CLuQAMQOCVV2cqS0qqMJ8mDaWyVILCtxXMlTqKGrm+fvKUO+IkiHD5PCjWk3PoikcQMl5lV227rKOxtR2ZU/yDGP8bAfivX0QVxsCUN5X6IzcwrNBW+MEkgv2j0tm/QmLP6ikD1zFP5Odg0YsHXibijdSI5VWvvlED9nlMzsabnnT2APIPQhE9/bZ6FtpaYcuuUj5FuKLLchVS+hUTbXBDflpVbR+xdD5UXMv6tm7KtlSXyzyGVHEF57tg==;YOZZl0Y9oS7BEr39gYfoTg=="
+secured: "O8N1IMvalDxFs9t4wujSBuQAFPK27/8TyivP55Ew0JY6lSE8EqmBrf+hd0x1euHZYFaAoBMHQ6eSHPkDA1WXtOrv+jvSsFQkx2OG9N3u6MZFeGRaO9PDiN2OdbwkUWmFGsrQjou+JIpy8O2cns11Sk9tl2+IRXKH21AJ3s6mDFNcwbJlILv+erBOl4AOlozimpyf/KjJPmuQqJ45Q9aujnCGFZB/iyOo1602krde1gomIptmA+/5KIqpHRvlj+hT8xzEyTOuiPEVaeLso+f8bAgOf1j1cHG2T1B2oL8Pg5TMPD9WmHyjtNy5P4IOygLAec4tjHzQUi/2fPzkI0fROxh3/ETnxXUezN/iszjNOniXw6y9Piqq/jkNH3wbvLHSIIhl769L73SBy6VpOQoeDg==;bw/yBzkrmw8/UGWcGeZTUw=="
 ---
 

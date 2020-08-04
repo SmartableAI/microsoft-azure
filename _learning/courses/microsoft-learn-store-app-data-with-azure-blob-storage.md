@@ -8,7 +8,7 @@ length: 50 mins
 ratings:
   count: 2489
   average: 4.584974
-heat: 53
+heat: 63
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Store application data with Azure Blob storage"
 
-secured: "tAB5MKUsaoxjpCKuh5DoW+OlwoTMrhowsGKebEfV+nEVJfykTCm2dLB5zesblctQwU82e9oAMy2qCMeSF6FtXBKdidh1wl7ehoeVaQ9m/UMJ5W/48TmR5nCOj/pYzB999QFXhKje7/kYmJKGTVSUynZHIQUemT98DAL0gfSdPutJJq0uvpnG2pnNcv/lM5UurbcpblB85KRM1edMMD00CTvL0+n1opQnogmbzVw8TsbhlvoxAkgVQgLwHamsXL4wYYYwEBqUGLRvvRoZHom1Qd1bAcYJhMYWCO4cLreRZNK4917wjYzZg4X14JlLyjcAyODcA6ezI2m0jgmQ09Z9/qnUOxH1rGVd8aXhDlZl9QHH/N4ZfnGLh3U/wqpf7zi/BYr4a5cPgusp0DlIj9bLPA==;gQBMTLlP5ijrcZkq6ykLXQ=="
+secured: "jA9JfqNaOGICPo3Hvgn2N+h9eEVQcZxbHzl3HH/5UsDyr0tzot4Jdtf5mar10qUcEnpuNzpn9bWOdUwhBdUIHwVmGQy0qGIbzP4/2uu+N2+Gaj5KVH+/NxapLDVK5Wjc0QQV/78Y+5zasvYiK0CkgREk10HzMGevE4QuePX4UbDtBjxB2rJ0iHMRSWNrJ0N42QEy0uGIXP7Ja29IC8jANNISfWfWiYlxEM6yeXmeJ9cTj4rmo6S8gB/umL8+LHE9RJmQnhXijLKL1hTqnNizubc0OK7UrQKMNefdHx/hlFRhDC2EQlhjSjI+pBM76ErIWGAGKfGLqkJ9/Fe2iSjNHSlRHTOqF2hvDQZAhyPkDYkWLdej6Mrh8O7DK7OGLuMlwUkV7uhG61zpzxh0P9G0xA==;AoZRB0tv/EqZlFil3v2Ubg=="
 ---
 

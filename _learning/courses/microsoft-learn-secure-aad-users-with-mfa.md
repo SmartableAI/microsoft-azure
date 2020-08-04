@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 38 mins
 ratings:
-  count: 1137
-  average: 4.6693053
-heat: 53
+  count: 1138
+  average: 4.6695957
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Secure Azure Active Directory users with Multi-Factor Authentication"
 
-secured: "W99bc+cP5MtI+aavCU+wdC2skCv/0V/b/scsPpqrGUlRbiNBXVWtyz+doFYVFXeRxmXG4hvQjKLcLOUvO9TXUeGPmhr2m7HAncB1qRIuBFg5VxSB+bpaeKCmIw/z67mE2bshNG23Mlqn6G15G15sLOiI6zEwE/miGcDtGG7qC3obtMQ51au3HuDDUgLDxY1soby/8JuRZlj4tpQ9y/WalVjMF7izCtE9c7ybylEmV3F31+gFVnApgWCuymUntNOHeC3CckdHnqlEjtryNXXBKi1+PupPVsRatZ+CAAEieu1MSI/phBTQPno1C6o/DL4eTzcLoFDQQQsOzSCHC69/sIMCjplO5xnoVFZU9bYKCR7NiAq0BByNJw9M3auyMJOQ5BvH8ckNrZOPA+GApuGBKQ==;TKtgNUmUvdOQ98S8RHDaZw=="
+secured: "XPp5NFhX7VMBOAFI7+t6irpNq41+I1+UDCS72j6GKpiPotUVejPXN0KHyNIuX1BUGriv8FrbxbWd8/B0scZbR6a3+qdP4TlNGXIBLEdqNFAJpxjnhIWIwCZ+tIW7EhkQei2vefbHgvIuxklDjzicn6KiyFIbze+6rKzV0VUEWrl1KwA18kSoS1KZT8gp+MgZ/R2txSoUi2r/WkYy36HIoIAUJfsopO0JStOQXuwSQLlYG9gishkgt02uaHCcVfh3XFDUH14gIJeGuPzYqJDc0hjGEZZ7CZbFvX6hAbSckRRx7ORXNnbX0XSzfvfJMW4UwgkKOWA6TQ4Iwb3piNEVqMjRtH0HlWkKugEg6ByBFM7HEy1RBFozP3K2ISgHitpXRlfMA/utGtsPe659RWiHSg==;TG95c37KQL+grZDueFetyw=="
 ---
 

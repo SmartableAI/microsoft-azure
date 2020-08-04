@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Distributed computing on the cloud: GraphLab"
 
-secured: "OBnwzGiJ+96bxWW3Ci6cFAwZBp3jOoghr4B+ORAXgdUGDveb6bA5doU/lM2HekgthhnBuLUQ3G6lMqnkKEf6WqOyFB3OziYDHf92MyJgFtfe9y6D8lkh+IgrTosjrZy9pn5BV/esD3go0cvLEhttjy/fOfPC5v+O11lFEkbefq5an6/R47KbcArK+quJWHGqfCvLd0IqzB3uncRKnEdw9LZ3hd+vmyPl2Rfaz+qAniTn0z8EXduZp948+P3RFQEkguZLb/pqcq9yx8LgIeEDI7+FFKWYrHSsn2ixu1tBsUKMGKzBZIpmZS8q1/G75uK3RWCGV6r3Cc/VEpB+MX+L97ZGdQn3H3xb2EDLF2KC8QBe2XEtq/y3+xgvw9oCFQQWgVd2WPveAk6SKzY5nWmpkw==;jAtCVQPMDGn5sLoPRDn4CQ=="
+secured: "mjUwT5GYis+CGx/TBpQR43phVJsZmi9VN9/Hn1F1p6A5lI4BVTJeM5akQVrhyCbYjZjcSG90XL3FGWIDvbJObhJNRYKjiGhjrsr+EMQ0/609QXYoNA669GB8wuPJbE2JU7cH/51WhpHjzLg6z/Yg1jPbgGC74EpPg+2jSGVH87hpd+zjC+utF4TywugXJ7ooNOpoY6loAQ7ECRXdWQeY18uHfNijwoaDLVQ/gQkT5ribZMUN5m9Par3w3fVv3jESKaMuHdShbn3vhiXDaqrSWYgp83lA/SOOTJDmSqSZ4txlmir/5mgLNVdp3chr8ejdKotd5kfqdSq4H4vD+8X3wIKIc2lMMi4eqqLjW28f8lhbho2DXmcyFre+qPLMKyZ3KsZnOyYl+nn0/iLB77JV1Q==;X5HzKpxyn392K6YW0/Gzig=="
 ---
 

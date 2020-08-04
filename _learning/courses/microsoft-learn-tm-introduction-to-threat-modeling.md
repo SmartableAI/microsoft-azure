@@ -8,7 +8,7 @@ length: 27 mins
 ratings:
   count: 268
   average: 4.7350745
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -38,6 +38,6 @@ images:
     isCached: true
     title: "Introduction to threat modeling"
 
-secured: "jBOdEeOpRcIZpFEyV90h4n1RLT//pgRZQ/MlylB0YmxEcgfSFvwZQ6cXBArvdi1XesTljo3eWPl9YYYDahGVmivfcnCIagFrXqXJq99G1E2LNU7OG20gpHiUaUta8Te9LDtD8zijUkt+gHXMzyASqitMk25yuQXPmgbNT+6q/PKgBS9J8lOQV19OUJSkC6brppqV+0RnvjBfqc+wOPW9WNdz1T+fJPfIhI/3WSg7s5dcGWQkQXifRMJ0+7+77+tzpwueJ3TgHMEeSFpZ1wTN7ZfdO7eVb9n921YYna6uBkbxSAu5vudur02w47QKParT7ejqWHIc14GysaeFQzd5Vrbhjo7ew+N1Kydi4QLoupIvBqYo73NtHH/BjtKVYpcCv2iA0i0kjB00aw1SKGK5gw==;g9yX5ejNlpBSFrG2NvXgMQ=="
+secured: "eetUW6AKr6Ns1z9hzLcdcFW7xSExtzm/zUVW73+kS6/t+XtaSbkhLwvqecBBWlPFT80ALLr5WZlwwyMdEyLiDB118NUhUpvd6/VuKHm69SwskZKK6c0x8w71+W94oe66ri+Z0WthgYFXl0BVNBqIcjfdN+QKTx3JbhwlaQqLWCpNQ0aouda95vayjiTWmisoPsoN1dxmxzQv/8Uv4Bf+eBM4StoWmPVPfQaJEwe/zwNHY36NsI7p6egTkg+Ph3EDt0Adto/O/G/lrIFZX+NMRovGOAyQ94y//DGx7gD/5Iwzp38X+Rn1GePeVJZRGqwP3NRTABNbShlw0bUkP4e7I5/61Gc7DedKUtZOM67BfEz2Cu2uHiXBa0hIOJjsrp3ZkgswGL6zzXnefW4DpGdMXw==;Matr4lepsuuobTWbSOKbOg=="
 ---
 

@@ -8,7 +8,7 @@ length: 43 mins
 ratings:
   count: 779
   average: 4.653402
-heat: 50
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Monitor the health of your Azure virtual machine by collecting and analyzing diagnostic data"
 
-secured: "j6808+2feBAUdZ91djoYTp2gisQqfK3wanpDaFMIUWV5jPxoG64usb2X2DZn0IMdkl0KXX9ISnNggh5WBl2vCNZt0cgdk1Ai2TH0hM0j3Lx97CKi3Y+z77tD00teDcXvOIMSG7OD6BcAqks5F7lbUQzxM15lXP5Yo8lxSi7xxoIoYGmHMdx0k0PmpwNcY0YbRBQh5/Iw4CpGnfB1y74A92XpQY1oD8TsNoBOlML9DiFD6sLR+naA+uMh+Ku347hRoY1V+ZhV/giUY6YrXaz3oivCc6Y64cyOR4JWicvR1xcJ/qMnPa6BKgA6iso5Jv/+3uvgSYGZ9erUggb7JXbF2xYBW7v87odz2CGahNYqU/Qntwt1pvS0PiHUHSbe4Pg7Kzd1xlm7CGMcmpIyggOP/g==;oFm5+BCPxQ7vX4QPbJDh7g=="
+secured: "KowU8CEagx7cRK5lisBP2I5fsBkd4gGmDLFhsKLGS57ac9YcDV+IA8sPPaSNTE3lW7+cL1QD6KOPB+pG6MgRVsJT7z8sw5grDzIz0Xp3legj/WKIltAEz/7++I7/+es+gdO+nYznCM+jK2ynBTMVya7W5W1hCHnU8TnhS4oH2bSZIoe/36GEPgHMq9vcaGsFqpOiCW1S3vkcAArJrQCZhwDcvNZXJHXmL4JTZNOC/7tBGBVFnL0OGGzpDrmpjvY/F6RWCr4RSTF/Xmw+EZXFPM0bKc5SfA4w/xNo9DLvt7oYUSi6PnUvcIuGw//JOl9ZbGIL3F1ji08Vr8AWZnIXaKMOSBW0Cr1ITSp7XdTscPDsvUviIO/2KNdonSXXCHPq/o2VX1t7hm0lEOWe3WGiEg==;nWJf/D/zytVbljpj/vC/OQ=="
 ---
 

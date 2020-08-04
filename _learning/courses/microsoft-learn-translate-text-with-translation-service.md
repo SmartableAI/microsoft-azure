@@ -8,7 +8,7 @@ length: 29 mins
 ratings:
   count: 87
   average: 4.678161
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Translate text and speech"
 
-secured: "SQ36bv2curEB7nQRLbnMXkxmf2oIVXTynH7wUjNgUaQB1bUuDO/Yl8PpwOrrkJtpdBa7Hg1Te4tpiDP16HnKfWzB4k4t9XUinJCRaS/8qc3Yi1UqOYwVkporlL8uTkYiKuuq8Zt5GQntNYOAgHfkzffs2/tziGgNglJ2H31lLZUD8xF+bCATy7+0HwtOblmj7yrPfkVH8hkjzzI+Gl72vHVXFoyzs4A2BX08np/MensJcPGPDw2tNv2sfbEgy2uIUqpkYc1sUvj+MZ3Gmcp+PsvVdenazl87HmQxOKtCv/aVSBCYDTH1zxvrVTW5HT5+X0Zpi3gQU5rZC/ZrZMLvHMmuEOLL2p38PBxL6lA8Fecp5ZQBQiPDAmAm+CjI3YRDf20APLYZQnXTOqRylp7SSg==;4LS41NMUGNtsaAzGF3baTQ=="
+secured: "05+Cw03OC88uAhnuQanpqqjBIoK5pS5H6MztfXpQBH3trinR3gJM+ZINHoXuuT1m+Pe4DM73f89KQDXyM5oN0lk5AqJ1RCYZ5RqA2/0xZVk4nJPhX63zGd9gYd4P+je/pAd8DxWLUTlT/OIoGKOYICP0w/Mm+dn5Vn+HFpJCEiuYQnl7VJyDy1S0UuCZi9G6LL/Fp5olHmYIwvXgEZSlX27WDqHr58cvk3Z03WoizAZEh4EXHb+mtzXlfciH+SXspK5hRps5rNKYZJnhte/cMbeYN9lC70FSNZKetNlWtpxtEc/gnNr/XKLdRMRHRb3zV1kn3cm9b83p6Seuo7r7gnldV59CAG0Zg5Y2GUVfJ06b9c3+kKnrMsnHlrIETC2RJZZTBE9tytCExFKgb0Okbw==;Ao+ynX0ou4AXeT/l+CpfGA=="
 ---
 

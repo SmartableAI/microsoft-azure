@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Design and plot graphs in Python"
 
-secured: "vsF4uFsxBzbtE9aaH7KKmVkfkRvnoNRZ7GBCdBICy/gkBQvzm7j93OH/KlFdScI+DdhjqZDbzCWucBIEN6oBygntIbI2/MqBKgEITcmpnYDlEj4s1PxHTTQWy8UkXzbd1oYnQIhGd6YUXDT/F0waed6Dgr62a/kVR3qOXuaj29Gsm9uTnWiEOYYCVNrztEaydRO+L4udwhKsEugg7pYHnsWIDd8Ppmpdh3D9VUg27a/M+4avvlFOF2u6fkixmfYLrBl5R+sv9wYdLOleiqags8lEP0Jl0g/YBjUSuk8P8uwPf7Jn6XKC4Y59XkXSoI4SXmLpuUyP7Xc+xTpryUecb723EAt3j9TJk2sHYK6lqV2J4YELy9uOVATKalhkYlxoasSk3gnvzxlIx78Bxpc69Q==;nMdk7lFuc7CuQTX+h6BuHQ=="
+secured: "BwyZSVLPb/zKpX8Eiy2yUc6rp7lPlQxpaTmY+57Ao/8VHgLuW5dYC6xdhMQIy1Fva6G3BVbI5S+OKpS443EnkdBm7YEqnU6tlSeaAP54U/JSCCX40kgG+1gcwdU8Z5xp5qAim2b6Zhi4jGJedD88NT3iSek6ZZ2zwqC5gxE8yVpVlt+Qf52jjVMwF04mMLn0fyxqgKt0ZB1sAL4/ORXEeoFhdFjbISjN+yX+8W6WmprzEGwafi4pYME9ZBQ+OQhtiw6IDn+kLOFv6PO2uZKg5VUD2WtzUwLhf7DbqMtrp/VGgdjtHBx9e6rtIWRZjGndLxOpbCBQipURrGZg9E6KOD8RmQICxrrzZGQi4RYXKBgGtQ+MIf/vgY//EmUbTol9D9Cr/HPDVos0f9EIsUXi6g==;fVg/9siIWv9a854Cngzf+w=="
 ---
 

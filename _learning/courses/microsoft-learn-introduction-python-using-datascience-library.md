@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT1H28M
 ratings:
-  count: 78
-  average: 4.6153846
-heat: 50
+  count: 79
+  average: 4.594937
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduction to Python using the datascience library"
 
-secured: "X9eHnsBmG1z1+zwFXNhuI8Iz+lxKFY15KyN21aTBwzVRRXVVNmftXKQYtWLtIZWEs5fBmPQP8ke6wZq46ir7sunBHNHZKIG4MIHhiWOPyXgXRPtFOwLZRliefacxdVj7kcJBHxlhv+QKKfndxChixlr0jsiAYNsysY4CV7/9Zxo5N9oVoQygDt2AvuCKFDvk/vnVXqpryiQtY8Hzgx21UPKGqjex7Dh1RWGkZu+KrGXnpTPIVqsg8HZULAFGNWnW8U/L0FK7kIbK6qw7rxW57QiYssHQCkYzQ7MkGUOt35XRPRGi0eiTh+5JounG7lHleq5EZqnyOuU+0HCSChSDq7v/5+oWVuDnDvHlrbemNJH03pO+Cj9EP1cI6pDbGOmL5prnnqsyHmGQf5ILap68oQ==;6aOwX+nLEeY/Wz4lWjEzig=="
+secured: "DSLMX4jqmeE1hYJVBElTlEz9SAfaCngwDS9SWRmci5lBiUnor8dOUb/3zOK5srcTvQMJLY4+rMQcGPlnb1d62Rcr1V8BynFh5m8XoLdu4Cj4c9BlS1iLg+coDT88HeEJMJxlVVO3IazY2Fp5IUacUZDdAJXAjAJ8O5c5/SF+TcCKvi2lvmObkE89zbknLK3hdzogA8NIRpIWUZIxyBkL+MzOeVbyuFyjlGjcY94B/7I9UbgG3JzzdJoYiArkve8WLYEZi6l7+OsVpzu41Wn5xDP+tXMCDHy3+gwTyMRrZLNv8Za7+1dqRjQI4AF6fAvOhx1GdCnWJMT9gCnHvrcGV15U/fvsEfAtHBXyD46BYQDBBngfb/sOHgsd9nnt5DtMos3dkOlPpD4Z8b31pKcV1w==;aUrGFqIp6BTUIBCDguar9w=="
 ---
 

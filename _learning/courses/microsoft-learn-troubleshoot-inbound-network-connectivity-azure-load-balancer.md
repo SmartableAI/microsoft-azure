@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 98 mins
 ratings:
-  count: 131
-  average: 4.664122
-heat: 51
+  count: 132
+  average: 4.659091
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Troubleshoot inbound network connectivity for Azure Load Balancer"
 
-secured: "PLJvptrPpH7d/8kwGMW5DAYM5QvpKHDZctCbA+G0Dhl4UuFA6hK9xY9Ah16jEkaC3tQig5JCrURE8iZQwZQD448OCx3gcBWSQttS4IWr0/BsJnUG3+ooEXcDIGiewRRnjT4F9tegDMRLeNeIRKViY/vknER1mGvT0SpR04sgcaHEjWLzifkMo3sw5mQi2YE+hWS9VUQVt3lv1Z7t9mvZQEy86uP00HkXG9tWmnVe0lGrIgS/tpBZw9VikfoxfykQdyeiWr/wVOvNkPb0+WhRlesyjkOhSlgWS7GNsxdyZuZTLFAboRNeaewdHVze4SHk2/4bPfQq4lI8kJ2Ol+RAHZb+DFZLH3DOeXoMGvO4QkPPPBh1WyQ18eGnJapTX3VmwBqbAx10AwdpopyOYiqTCg==;a/JVyzt/QsYVH/VZPX8Cyw=="
+secured: "ppoyutrHS2UEuE/ks8tA6uhVHqMP3njnoThfsDSquslYKIAcuoddkJTJ2T0WEAk2Nu307SXxhvyHvTdzvMUaC+KfUTDUu9UEHKV9FQ65weCEr+JpkfBkRVFWv25eyHZYP2FWiskidPtNeie/TNz6VU3EzxT8uDcxIfqJtyLCeCQSflGfR/O2AT6tLgBWObRLDY9Icx4JC8ASCR9ZtA4KtNO9QOSUIbqW72TzFJ1hu2dJ+sCUUsp94hGjnS5FGbgYqD8ZSLUNAOFE3vLTZfc4llfbYTWwJUf/ypQXlPcGmXhpaQjQEAGIMN0owJkFh9c1Z0F+3oDpIoR9zBoSRlC+zCkQvcz9pPqBzD+fS/SKdTHwaX2Dhc912aNSTa2ri2SUPO+/+ym2F9/cWUjnpHxXCQ==;lMY3+/iKU9xtKO9yZkAABQ=="
 ---
 

@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Migrate your repository by using GitHub best practices"
 
-secured: "K1uwMTmo8HEOpOagcn2PwLYN/0yC0Njr9uXbZDdKo2o50UH+dYXUfC7GHOwNnjnjSXd4+dpooyDNDPfinnO/9LCWx0xqTePiVz+0A8MW4VVPqtDOt54oOKyJOijIZriRezoVvZ1I9tlm/yEQK1mfPsE99JMDPZL6+tWhw36CV6V8QEk7djmpt8YAn/2eaZpu3jsAJoL7SSxdsaZWnZXd2jDJc2O8BNN30+4BN9X9l4GAyQRdSfWk66o3rnfYJlq4QA4uJgvSZeV9vxRYJZ/JD4/qkuC8mo9B76RXF3sjYt2rUOAkpoOmr4RB3+Ck47cN/O0KJJ5sQjgB0OoVIRRhQklwJrmuKypkS/HlGlxleE22TqoKC5AWFaFj9GMkRJrmG33tHrugqCOygYiXyYmbag==;jEjQTYin/DZSNlZ/fUSAgg=="
+secured: "ibSCqTcU9d07IyAz2Cw2eTsCOQcZxGf8w0KsgdapE1bos55DzYy9Bu9WnoQ1vimO1th9espqPBgkHsaUd6ZhO/CKat5rskdzMM+VpGQcJNI3L+y0Z+UE1CtwAnhT3NcPSrWt7OXD28zWDy0WPsx9W8rY3doictwX1Kr/cnVTp09w3JzPDIsfEpjvzXIRaVVeTOIjpj3TNsl/+P4aBsfSeTAQtimlK1Dv0Llg09/lyWNntjF/Od4jrsnRKbHYAgBUDaYmj2U/oPL4FCwCtES7mVhcbsy/LHVH/N2Xmyv7CN4SnUkmnIXzzfmEMW2apRQqnO58t2YDR2CLUl+mLRBWMnXB5/rMm+VZlLcH7UHH3kQPO2T1APaVLWNofA/9ghqLhzDyrUyPCPmcYtaJ49t4aA==;JT04kNuQonirbvLC8iWUxA=="
 ---
 

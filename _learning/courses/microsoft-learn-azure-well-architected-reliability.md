@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT59M
 ratings:
-  count: 256
-  average: 4.7070312
-heat: 52
+  count: 257
+  average: 4.7081714
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -38,6 +38,6 @@ images:
     isCached: true
     title: "Microsoft Azure Well-Architected Framework - Reliability"
 
-secured: "NOGsSlde3WLcmWyqXrGFasgXSObShk3dKahOjVSAXgwcq1tAXGTlFgraz0Q6ezfrLfH9uqf0IV8MgtUQ0Gbn1SHPFPqSo8vcUrYW0RA0uP8vcrqXBK/bHCkr16KPgS+xnPBYX8rXoixSgpy+MOmMTUiY3ZfbTCcJdthhGj+lZtE44poeyEGHagqIpc3HnVNcclsj2PGpPJ5H/0viTLAjiDnuGMnySZthJ7Hujtbm2flsO9VxzVqpyLd49XFKE2osg33KrcQBWKpuQIH7YRhnP450EPrO61sI2R2F04UAJsGwaGhsZ3a+tnyobd3pf4Q6ilQxif46Pqz1KXsG5Pe2K60rhEcPlt0M+GC+MPX2fiqcb2vuk5e827mqtx2CxHDlIwnKZWKVgXOHaXW3Y1Xx5g==;uLeVxDMHLCfWAog4OkaXOw=="
+secured: "O9GcMbf9NFQK3l4+TxgqcU6LNLWAW71oBLNB5Mxkh074bTE/P6/1XmRv5pSs3fWNvyeG+YNuc0gQrFPfZaO9R2xnGmR2bqP815t0lDXYZPHjffCecN3CZmJE9XA7EXrFxZ7cFcXaYbJnIXCIRZ57DIHpvEdZICiBdnWIabBC8Rv8+2t+/s98UNA59VHoFqCiaw5Hos6kuXqGH7pbIaxNuLl5BHhXYFfhsOu26jkvLuNTnMdmWcT0I3KGSdgmcr+Esxr1xbO9rJBH318TAliS65yQGjU3nD+t4gODQ6ASuPwe0K1CIh7biK+JdYrwd/sFcu1L8TbdWHmQKbOMp6+nPDFC6yQ3YZVl0dNHead5FWA2PrGvYzdgaw9xWla39YZlpXurfqy/CrqGAWZxhJjG2Q==;pfjSUum8TFi3w7D4Ev2cDw=="
 ---
 
