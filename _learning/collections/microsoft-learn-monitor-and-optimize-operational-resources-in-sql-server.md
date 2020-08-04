@@ -4,7 +4,7 @@ excerpt: "Configure hardware and server resources for optimum performance after 
 type: collection
 price: Free
 length: PT2H40M
-heat: 75
+heat: 79
 
 provider:
   name: Microsoft Learn
