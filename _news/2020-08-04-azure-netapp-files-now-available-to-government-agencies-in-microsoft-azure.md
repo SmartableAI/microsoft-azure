@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Kyvos BI Acceleration Platform is Now Available on Azure Marketplace"
-excerpt: "Kyvos Insights, a cloud and big data analytics company, today announced the availability of their cloud-native BI acceleration platform,"
-publishedDateTime: 2020-04-28T13:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/kyvos-bi-acceleration-platform-is-now-available-on-azure-marketplace-301046746.html"
+title: "Azure NetApp Files Now Available to Government Agencies in Microsoft Azure"
+excerpt: "NetApp (NASDAQ: NTAP), the leader in cloud data services, today announced the availability of Azure NetApp® Files in the government region data centers on Microsoft Azure. This expansion of Azure ..."
+publishedDateTime: 2020-08-04T13:07:00Z
+webUrl: "https://kdhnews.com/news/ap/azure-netapp-files-now-available-to-government-agencies-in-microsoft-azure/article_b65094f6-10f5-580c-b47d-a173c3d7184f.html"
 type: article
-quality: 37
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Killeen Daily Herald
+  domain: kdhnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1026738/Kyvos_Logo.jpg?p=facebook"
-    width: 993
-    height: 522
+  - url: "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/custom/image/d24d118c-8888-11e9-94c1-a36b64682479.jpg"
+    width: 1200
+    height: 630
     isCached: true
-    title: "Kyvos BI Acceleration Platform is Now Available on Azure Marketplace"
 
 related:
   - title: "Azure Migrate now available in Azure Government"
@@ -192,6 +191,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kyvos BI Acceleration Platform is Now Available on Azure Marketplace"
+    excerpt: "Kyvos Insights, a cloud and big data analytics company, today announced the availability of their cloud-native BI acceleration platform,"
+    publishedDateTime: 2020-04-28T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/kyvos-bi-acceleration-platform-is-now-available-on-azure-marketplace-301046746.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1026738/Kyvos_Logo.jpg?p=facebook"
+        width: 993
+        height: 522
+        isCached: true
   - title: "Azure Databricks Now Available on Microsoft Azure Government"
     excerpt: "Databricks, the data and AI company, today announced that Azure Databricks is now on Azure Government as a public preview. Databricks is"
     publishedDateTime: 2020-07-14T13:00:00Z
@@ -234,20 +247,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Azure NetApp Files Now Available to Government Agencies in Microsoft Azure"
-    excerpt: "NetApp (NASDAQ: NTAP), the leader in cloud data services, today announced the availability of Azure NetApp® Files in the government region data centers on Microsoft Azure. This expansion of Azure ..."
-    publishedDateTime: 2020-08-04T13:07:00Z
-    webUrl: "https://kdhnews.com/news/ap/azure-netapp-files-now-available-to-government-agencies-in-microsoft-azure/article_b65094f6-10f5-580c-b47d-a173c3d7184f.html"
-    type: article
-    provider:
-      name: Killeen Daily Herald
-      domain: kdhnews.com
-    quality: 35
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/custom/image/d24d118c-8888-11e9-94c1-a36b64682479.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "CognitiveScale's Cortex Certifai Now Available in the Microsoft Azure Marketplace"
     excerpt: "AUSTIN, Texas, April 27, 2020 /PRNewswire/ -- CognitiveScale, the Trusted AI Company, today announced the availability of Cortex Certifai (Certifai) in the Microsoft Azure Marketplace, an online ..."
     publishedDateTime: 2020-04-27T12:01:00Z
@@ -263,6 +262,6 @@ related:
         height: 315
         isCached: true
 
-secured: "vcowZdaTVc/ztoj6NDa3PU3BQjiy28AeNfZTm8qNieADbWa547YB3/pyl324U/sczKGweSbGSFwyA3+DEAMXjXj6lQWqZq9de0Tr0spHnnjxYHlUiTaReKDi+ZpKTha3HyU9Xofn7oCqE0C2H7I5MDHYz9Dh05zCEi3ApNWXvK/dX1np7zF6sEylt73FSSTnopGPvRTIhmQRSDBCt59yRGjX7bnleBiBR1dRfEuPw3RM52GC99lgxXCjuKbJ8scUTSvSlALBmWDxmXCJensIxUb8nRufljQO4dg+VrH3259+Oe0XhhKIxBjoZAWnw94t;EACNdG9JiszahrqBqcKCSw=="
+secured: "TdKKwUIaMtmV7m6aXgQC1zBFskKxQk4yIl+5QlA+Wfedp3hJdt7zRb5t22MyxMj46yTkqQlrZR0LK95qkelCNtcAcQTG0QX25JoGa8iUNfEgTFQ3AUKzXuvAg28gdLAWssAFM0DjBhsgXxn2p4PRIB4gLUEIZeNdIIONZwayxBrC667Xrf+Rs3ZLpmH248di/eRKIaix2c0j7hCGSdzt6MlIbMXDNE1iVKltwWp/wVYz4Y46v0cRd01tVFapNyN/3n2d5YKe7i7kZIPeijVsZ97mih7PiGVywGf75TjzBpOIt57OWTaVF5LDg1l9jf39v51JQYYALJ3Ux3OBMx2F1w==;YXgXue2JOZS4tr9Bvk6KCQ=="
 ---
 

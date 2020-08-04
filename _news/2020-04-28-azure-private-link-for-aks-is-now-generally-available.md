@@ -208,6 +208,20 @@ related:
         width: 1094
         height: 576
         isCached: true
+  - title: "Azure NetApp Files Now Available to Government Agencies"
+    excerpt: "Today NetApp announced that its Azure NetApp Files is available in the government region data centers on Microsoft Azure. This means all of the benefits and savings of the service can now be leveraged by federal, Department of Defense, and state and local ..."
+    publishedDateTime: 2020-08-04T12:02:00Z
+    webUrl: "https://www.storagereview.com/news/azure-netapp-files-now-available-to-government-agencies"
+    type: article
+    provider:
+      name: StorageReview
+      domain: storagereview.com
+    quality: 37
+    images:
+      - url: "https://www.storagereview.com/wp-content/uploads/2020/08/Storagereview-Netapp-Azure-Files.jpg"
+        width: 850
+        height: 496
+        isCached: true
   - title: "ThroughPut Inc.'s ELITE Now Available in the Microsoft Azure Marketplace"
     excerpt: "ThroughPut Inc. today announced the availability of ELITE in the Microsoft Azure Marketplace, an online store providing applications"
     publishedDateTime: 2020-04-28T20:30:00Z
@@ -221,6 +235,20 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Azure NetApp Files Now Available to Government Agencies in Microsoft Azure"
+    excerpt: "NetApp (NASDAQ: NTAP), the leader in cloud data services, today announced the availability of Azure NetApp® Files in the government region data centers on Microsoft Azure. This expansion of Azure ..."
+    publishedDateTime: 2020-08-04T13:07:00Z
+    webUrl: "https://kdhnews.com/news/ap/azure-netapp-files-now-available-to-government-agencies-in-microsoft-azure/article_b65094f6-10f5-580c-b47d-a173c3d7184f.html"
+    type: article
+    provider:
+      name: Killeen Daily Herald
+      domain: kdhnews.com
+    quality: 35
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/custom/image/d24d118c-8888-11e9-94c1-a36b64682479.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "CognitiveScale's Cortex Certifai Now Available in the Microsoft Azure Marketplace"
     excerpt: "AUSTIN, Texas, April 27, 2020 /PRNewswire/ -- CognitiveScale, the Trusted AI Company, today announced the availability of Cortex Certifai (Certifai) in the Microsoft Azure Marketplace, an online ..."
