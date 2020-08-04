@@ -1,25 +1,25 @@
 ---
 category: news
-title: "Insight Earns Advanced Specialization in Four Areas of Microsoft Azure"
-excerpt: "Insight also fields more than 1,000 Azure-focused engineers, developers and technical consultants, plus more than 2,000 Microsoft-focused services and technical professionals, maintaining more ..."
-publishedDateTime: 2020-07-28T14:06:00Z
-webUrl: "https://tucson.com/business/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure/article_88eb5653-7cf8-5650-a7f8-8b0ece08820f.html"
+title: "MSRCosmos Has Earned the SAP on Microsoft Azure Advanced Specialization Status"
+excerpt: "MSRCosmos ( today announced it has earned the SAP on Microsoft Azure advanced specialization, a validation of a"
+publishedDateTime: 2020-08-04T00:15:00Z
+webUrl: "https://www.prnewswire.com/in/news-releases/msrcosmos-has-earned-the-sap-on-microsoft-azure-advanced-specialization-status-863201932.html"
 type: article
-quality: 37
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Arizona Daily Star
-  domain: tucson.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/custom/image/80e87ada-cfb0-11e7-b59b-a75438cf81bb.png"
-    width: 620
-    height: 290
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -51,24 +51,24 @@ related:
         width: 2421
         height: 1270
         isCached: true
+  - title: "Insight Earns Advanced Specialization in Four Areas of Microsoft Azure"
+    excerpt: "Insight also fields more than 1,000 Azure-focused engineers, developers and technical consultants, plus more than 2,000 Microsoft-focused services and technical professionals, maintaining more ..."
+    publishedDateTime: 2020-07-28T14:06:00Z
+    webUrl: "https://tucson.com/business/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure/article_88eb5653-7cf8-5650-a7f8-8b0ece08820f.html"
+    type: article
+    provider:
+      name: Arizona Daily Star
+      domain: tucson.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/custom/image/80e87ada-cfb0-11e7-b59b-a75438cf81bb.png"
+        width: 620
+        height: 290
+        isCached: true
   - title: "MSRCosmos Has Earned the SAP on Microsoft Azure Advanced Specialization Status"
     excerpt: "MSRCosmos ( today announced it has earned the SAP on Microsoft Azure advanced specialization, a validation of a"
     publishedDateTime: 2020-08-03T14:45:00Z
     webUrl: "https://www.prnewswire.com/news-releases/msrcosmos-has-earned-the-sap-on-microsoft-azure-advanced-specialization-status-301103856.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 33
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "MSRCosmos Has Earned the SAP on Microsoft Azure Advanced Specialization Status"
-    excerpt: "MSRCosmos ( today announced it has earned the SAP on Microsoft Azure advanced specialization, a validation of a"
-    publishedDateTime: 2020-08-04T00:15:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/msrcosmos-has-earned-the-sap-on-microsoft-azure-advanced-specialization-status-863201932.html"
     type: article
     provider:
       name: PR Newswire
@@ -103,6 +103,6 @@ related:
         height: 512
         isCached: true
 
-secured: "z6g3Biyh7qkoUo2dJMyV8a/BH3Od55XLx0V8adTemat+5pMhb88CdpvsI2q7GonBRTLDjdlweIAwTk91Tpu3eoGYv+2kNNHhaV8Xmy0TMdUGw1+dx6+3ZOND4mBdv54mouGKEfP3E3v6GYTASdrp8QgrA3zVDX9iasSyER4q8pYQjnvafu1UfRUEAFUUgQJq6ywXe50LLwGLx4CNwQNVZ/uhW0TCe8IrbRLLymgqBCL5WoRnYPiBVcOqXW0Y7gZVZtrpgXJL1GpYYD66aAicMhTcDMubQMXwBBkqgdOJbYqmc5OccUFAXdcoCldb8D5pml0ozsBJUewR5mVKN+V4Kg==;gd9k28WlB5nW7XcZL7Mrvg=="
+secured: "b8OafESyQwhm/gMW5RQh4+HnxYETbkn5rxHXI84KhD/mWRleLlDQszBoSr/C76NV5jan1NttKYnj4owsy+BKDjsdQTEBOESj0XNkGcI0Aa4OBe3WbAsj5UgmLFrq4bUjL+5IaBy810/ZeJptYnOCJDRsMx01RFcMjFd8Qu9+uSat8yMxM8AP3+iZ4tZY/7m0qCqyjt4zaUhg7jN7CAwJCQZwoYjNLaWU+V4WQAO3c6UTohtmQcpudTg0pC3XX7bOxuND16uKp3UX4sQSjFnR5+5J92hlzt08CafnzzOlQ89Gtgj6AUMDZ4q2Sr800p/HIGlUVRXvS4xasYOGV+e/8Q==;iW9AsEnqjGoUswMJexVG4w=="
 ---
 

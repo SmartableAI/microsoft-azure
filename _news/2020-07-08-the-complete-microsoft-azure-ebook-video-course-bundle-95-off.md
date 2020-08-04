@@ -101,6 +101,22 @@ related:
         height: 630
         isCached: true
   - title: "Learn Microsoft Azure With 95% off This Bundle of Premium Courses and eBooks"
+    excerpt: "The Complete Microsoft Azure eBook & Video Course Bundle gives you a head start, with 15 hours of video tutorials and six ebooks for $29.99. The shift to cloud technology is happening fast ..."
+    publishedDateTime: 2020-07-28T18:07:00Z
+    webUrl: "https://www.windowscentral.com/learn-microsoft-azure-95-bundle-premium-courses-and-ebooks"
+    ampWebUrl: "https://www.windowscentral.com/learn-microsoft-azure-95-bundle-premium-courses-and-ebooks?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/learn-microsoft-azure-95-bundle-premium-courses-and-ebooks?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 54
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/07/sale_29760_article_image-3enn.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Learn Microsoft Azure With 95% off This Bundle of Premium Courses and eBooks"
     excerpt: "With 90% of companies now reliant on cloud services, anyone who understands the technology has a big advantage in the job market. The Complete Microsoft Azure eBook & Video Course Bundle gives you a head start,"
     publishedDateTime: 2020-07-29T00:06:00Z
     webUrl: "https://crackberry.com/learn-microsoft-azure-95-bundle-premium-courses-and-ebooks"

@@ -39,20 +39,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Apptio Launches Rightsizing Recommendations for Microsoft Azure"
-    excerpt: "July 21, 2020 /PRNewswire/ -- Apptio, Inc., a leading provider of technology business management (TBM) solutions that help organizations analyze, plan, and optimize technology spend, today announced rightsizing recommendations for Microsoft Azure SQL ..."
-    publishedDateTime: 2020-07-21T13:04:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/apptio-launches-rightsizing-recommendations-for-microsoft-azure-301096563.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/82080/apptio_logo.jpg?p=facebook"
-        width: 2421
-        height: 1270
-        isCached: true
 
 secured: "2nBOd3WAdEXrYgEVVBI1sO+8NJW1nHRappvwz+MNHeB6qO4XIGIy9xSbjUf5DnYKOf8UuusmMOrFYiHE6Bsp72FsOjY8FehTnu4ncv0ia8/gNN/cM+lMK6m0xUSaeXifZlJEodcXj30xRnVXuAFAWF4ch8YZyMN9a7IbkzVerYswzFTSCkFLK1lPnhqGhT1SFbzkAexNabHbbDwbdPkEUnb2YeVpYOKbR/nkdhUQpuX+Q33KxSBh5MS9bBSYGTn0LtN7q3DkHIP4nvlF4fVC6+UvtSWMUJFyXcCJl2xQ8RWU9Zp+Cnz9eODCDwPz96tfwlnRS9MhFz9aX1C2jy4LNfbzJsg5C3goNiwYInzNrGfZGTqUsoqNvkF45KM+MCnPOYLX0NQJuUtDVCzvPdjww4Oz4aK1aGq/RAmIY7ZIdXXbxeXsFUy8LhC9ZAJGNuplaqqTPi8SvU09yE3viabq6kMg1J0KyZTCKo136dEXbivIW/jG2FLVoQOvQb19SnM4ivonWXzGE5GYKiZwPrAX4w==;foq+Bhj/T4TJlQkjnPlAQQ=="
 ---

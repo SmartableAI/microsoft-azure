@@ -23,35 +23,84 @@ images:
     isCached: true
 
 related:
-  - title: "Barracuda launches first global SD-WAN service built natively on Microsoft Azure"
-    excerpt: "Barracuda, a leading provider of cloud-enabled security solutions, has introduced a new secure SD-WAN service built natively on Microsoft Azure. The new Barracuda CloudGen WAN service is the first SD-WAN solution that runs inside Azure Virtual WAN Hubs."
-    publishedDateTime: 2020-07-17T07:11:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/barracuda-launches-first-global-sd-wan-service-built-natively-on-microsoft-azure/article32111482.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/barracuda-launches-first-global-sd-wan-service-built-natively-on-microsoft-azure/article32111482.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/barracuda-launches-first-global-sd-wan-service-built-natively-on-microsoft-azure/article32111482.ece/amp/"
+  - title: "Quisitive Has Earned the Modernization of Web Applications in Microsoft Azure Advanced Specialization"
+    excerpt: "Quisitive Technology Solutions Inc. (Quisitive for the \"Company\") (TSXV:QUIS), a premier Microsoft solutions provider, today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization,"
+    publishedDateTime: 2020-07-18T19:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/quisitive-has-earned-the-modernization-of-web-applications-in-microsoft-azure-advanced-specialization-2020-07-14"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 52
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
     images:
-      - url: "https://www.thehindubusinessline.com/info-tech/nozm6x/article32111481.ece/ALTERNATES/LANDSCAPE_615/BL17CLOUD"
-        width: 615
-        height: 384
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Barracuda Networks launches new SD-WAN solution for Microsoft Azure"
-    excerpt: "Called Barracuda CloudGen WAN, the service is pitched as the first SD-WAN solution that runs inside Azure Virtual WAN Hubs. A virtual hub on Azure is a Microsoft-managed virtual network that enables connectivity from other networks with virtual VNet and gateways as optional components."
-    publishedDateTime: 2020-07-16T17:30:00Z
-    webUrl: "https://siliconangle.com/2020/07/16/barracuda-networks-launches-new-sd-wan-solution-microsoft-azure/"
+  - title: "Insight Earns Advanced Specialization in Four Areas of Microsoft Azure"
+    excerpt: "Insight also fields more than 1,000 Azure-focused engineers, developers and technical consultants, plus more than 2,000 Microsoft-focused services and technical professionals, maintaining more ..."
+    publishedDateTime: 2020-07-28T14:06:00Z
+    webUrl: "https://tucson.com/business/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure/article_88eb5653-7cf8-5650-a7f8-8b0ece08820f.html"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: Arizona Daily Star
+      domain: tucson.com
     quality: 37
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/Jenkins.jpg"
-        width: 985
-        height: 657
+      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/custom/image/80e87ada-cfb0-11e7-b59b-a75438cf81bb.png"
+        width: 620
+        height: 290
+        isCached: true
+  - title: "MSRCosmos Has Earned the SAP on Microsoft Azure Advanced Specialization Status"
+    excerpt: "MSRCosmos ( today announced it has earned the SAP on Microsoft Azure advanced specialization, a validation of a"
+    publishedDateTime: 2020-08-03T14:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/msrcosmos-has-earned-the-sap-on-microsoft-azure-advanced-specialization-status-301103856.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 33
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "MSRCosmos Has Earned the SAP on Microsoft Azure Advanced Specialization Status"
+    excerpt: "MSRCosmos ( today announced it has earned the SAP on Microsoft Azure advanced specialization, a validation of a"
+    publishedDateTime: 2020-08-04T00:15:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/msrcosmos-has-earned-the-sap-on-microsoft-azure-advanced-specialization-status-863201932.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 33
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Insight Earns Advanced Specialization in Four Areas of Microsoft Azure"
+    excerpt: "Insight also fields more than 1,000 Azure-focused engineers, developers and technical consultants, plus more than 2,000 Microsoft-focused services and technical professionals, maintaining more than 3,000 technical certifications combined. “Insight and ..."
+    publishedDateTime: 2020-07-31T08:07:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2020/07/28/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 17
+  - title: "Ukrainian Azure Expert MSP Partner strengthens its Azure skills with achieved two Microsoft Advanced Specializations"
+    excerpt: "Cloud Services has earned the Modernization of Web Applications in Microsoft Azure advanced specialization, and Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s in-depth knowledge ..."
+    publishedDateTime: 2020-07-24T10:12:00Z
+    webUrl: "https://news.microsoft.com/en-cee/2020/07/24/ukrainian-azure-expert-msp-partner-strengthens-its-azure-skills-with-achieved-two-microsoft-advanced-specializations/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 14
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/566/2020/07/Ukraine-768x512.jpg"
+        width: 768
+        height: 512
         isCached: true
 
 secured: "rgEc5XV0x8ukNAkQzBpAfC/h7Ba3zZxa0Qs91rJHQz14Ca49dhojBr6nUdCgQdyM+JhL1OtB75ulPyvNPvJ1nP3V+yhYortEkJyyP68UWQuOsmc7jZKmcIlb5oqF88AG5Qv+h0S7ex/VLCNjULug56XvD1/UfYgUSaPdtVc8TlKKA0w1WMYoMLhBJUliqcssQvOhNKkmRPs9cji4DdBqUeI/V9ygOzYXLaYBXRIMwBT/FzuA+NU/hczYclCLGPfamrxbPwJdQRMY+aQa+aR7WM8PvfKmDKSxaatnyaEH1wbvwUCKxz/vnDP0Il5RvZPIvlOssdy1Nr8+Sl0Eqlz8+L9gCBVKsIqIsfRmZIEiOMzfrEFZRw7Tgr4YSSGKe7quLY1D3vpuYrM+DEpgiifT0Csp/veCbjNmE7dItin/93eUKOaVK5j3sIBk7gT+UstpempO6dHdHu+NTbUXARHkkNyXm8c5G4LOil/aQtCgKLlXYUAibvEPabnjSgFpht3xVtXbQhhf9iPn0rg7/U4Xzw==;fkGVeVGmJP02RsT+63H3Sw=="

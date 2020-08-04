@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/info-tech/barracuda-launches-fi
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/barracuda-launches-first-global-sd-wan-service-built-natively-on-microsoft-azure/article32111482.ece/amp/"
 type: article
 quality: 52
-heat: 92
+heat: 72
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/Jenkins.jpg"
         width: 985
         height: 657
-        isCached: true
-  - title: "Apptio Launches Rightsizing Recommendations for Microsoft Azure"
-    excerpt: "July 21, 2020 /PRNewswire/ -- Apptio, Inc., a leading provider of technology business management (TBM) solutions that help organizations analyze, plan, and optimize technology spend, today announced rightsizing recommendations for Microsoft Azure SQL ..."
-    publishedDateTime: 2020-07-21T13:04:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/apptio-launches-rightsizing-recommendations-for-microsoft-azure-301096563.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/82080/apptio_logo.jpg?p=facebook"
-        width: 2421
-        height: 1270
         isCached: true
 
 secured: "T4XxoXuOfQYMLLtN0seix5s/cWfx+Xo4FqYokSm6woVEqhHU9hqE5nGTdB2Zve6mNH/LvWmJ18oV3QBS9+IDzhSGUxpXSy1y4D+/aL2y9WWHeBVWu9HIJK4HsSqNklluzUd6oRhVn4r0cUIu3TVWikuacqU0JHoK+IPOgs88134U5jD03hbozfAdSPpTgHtT44zMqQ94KTpqAC4RM5wnS7w31XoVdxFy/vsOrVuX4uhTMR83VUYijNyKa2AG4EsmNiqbgwXdh7l+U0b4EZE9M9roqDYLxEmSqbw9jaLn5c8dcp/vn1p+j893QepihO/6EACasr9Tt3D8iYE5bzWSJw==;Z3DUhVgHSRLGnfjaonorTg=="

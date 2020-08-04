@@ -1,30 +1,46 @@
 ---
 category: news
-title: "Learn Microsoft Azure with this $30 training course bundle"
-excerpt: "TL;DR: Lead your business towards success with the Complete Microsoft Azure eBook & Video Course bundle for $29.99, a 95% savings as of July 6. It's no secret that most industries have been ..."
-publishedDateTime: 2020-07-06T14:22:00Z
-webUrl: "https://mashable.com/shopping/july-6-microsoft-azure-training-course-bundle/"
-ampWebUrl: "https://mashable.com/shopping/july-6-microsoft-azure-training-course-bundle.amp"
-cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/shopping/july-6-microsoft-azure-training-course-bundle.amp"
+title: "Learn Microsoft Azure With 95% off This Bundle of Premium Courses and eBooks"
+excerpt: "The Complete Microsoft Azure eBook & Video Course Bundle gives you a head start, with 15 hours of video tutorials and six ebooks for $29.99. The shift to cloud technology is happening fast ..."
+publishedDateTime: 2020-07-28T18:07:00Z
+webUrl: "https://www.windowscentral.com/learn-microsoft-azure-95-bundle-premium-courses-and-ebooks"
+ampWebUrl: "https://www.windowscentral.com/learn-microsoft-azure-95-bundle-premium-courses-and-ebooks?amp"
+cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/learn-microsoft-azure-95-bundle-premium-courses-and-ebooks?amp"
 type: article
-quality: 97
-heat: 357
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: Mashable
-  domain: mashable.com
+  name: Windows Central
+  domain: windowscentral.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mondrian.mashable.com/2020%252F07%252F06%252F63%252Fb36e08d8365d4d26bb30d80ce53619a5.7d439.jpg%252F1200x630.jpg?signature=bkqooSUHAbc-Ng2tbGWz95e7GsA="
-    width: 1200
-    height: 630
+  - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/07/sale_29760_article_image-3enn.jpg"
+    width: 800
+    height: 533
     isCached: true
 
 related:
+  - title: "Learn Microsoft Azure with this $30 training course bundle"
+    excerpt: "TL;DR: Lead your business towards success with the Complete Microsoft Azure eBook & Video Course bundle for $29.99, a 95% savings as of July 6. It's no secret that most industries have been ..."
+    publishedDateTime: 2020-07-06T14:22:00Z
+    webUrl: "https://mashable.com/shopping/july-6-microsoft-azure-training-course-bundle/"
+    ampWebUrl: "https://mashable.com/shopping/july-6-microsoft-azure-training-course-bundle.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/shopping/july-6-microsoft-azure-training-course-bundle.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 97
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F07%252F06%252F63%252Fb36e08d8365d4d26bb30d80ce53619a5.7d439.jpg%252F1200x630.jpg?signature=bkqooSUHAbc-Ng2tbGWz95e7GsA="
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Become a Microsoft Azure pro with this $29 bundle"
     excerpt: "The age of the cloud is finally upon us, and this much-anticipated era has quickly moved beyond simple online storage platforms which reduce our reliance on external hard drives. The largest and most powerful companies in the world all rely on increasingly dynamic cloud infrastructures in order to develop and distribute various apps and digital information,"
     publishedDateTime: 2020-07-22T18:12:00Z
@@ -84,22 +100,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/04SMpjyONF9bbgB7e55Fws6-1.fit_lim.size_1200x630.v_1595319685.jpg"
         width: 1120
         height: 630
-        isCached: true
-  - title: "Learn Microsoft Azure With 95% off This Bundle of Premium Courses and eBooks"
-    excerpt: "The Complete Microsoft Azure eBook & Video Course Bundle gives you a head start, with 15 hours of video tutorials and six ebooks for $29.99. The shift to cloud technology is happening fast ..."
-    publishedDateTime: 2020-07-28T18:07:00Z
-    webUrl: "https://www.windowscentral.com/learn-microsoft-azure-95-bundle-premium-courses-and-ebooks"
-    ampWebUrl: "https://www.windowscentral.com/learn-microsoft-azure-95-bundle-premium-courses-and-ebooks?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/learn-microsoft-azure-95-bundle-premium-courses-and-ebooks?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 54
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/07/sale_29760_article_image-3enn.jpg"
-        width: 800
-        height: 533
         isCached: true
   - title: "Learn Microsoft Azure With 95% off This Bundle of Premium Courses and eBooks"
     excerpt: "With 90% of companies now reliant on cloud services, anyone who understands the technology has a big advantage in the job market. The Complete Microsoft Azure eBook & Video Course Bundle gives you a head start,"
@@ -216,6 +216,6 @@ related:
         height: 558
         isCached: true
 
-secured: "XcTV9Omj+UoV+HBPmZR6l0dMpgSG+KPBRLokac7XVyggUN2FV1MOd9tZ6OhOphGTULYIgD3JV4yRtkzBw3YO/8q6SEvxWwAORtot6Ffk2e1IH8dZZ1/9DIO9F4amDZQQu41DR/G6NduoBcJJsqEYI9nXdqtvO7szbpp39mb1BUq3d7n3HaFvb6+DwN9wAamMFThT/RmpWzDF0IBkkepGijzjUr23X8CGLucElAx9S2j8FtrtjsCV+rv7pfLTSR6pW3YT63XVxaepsFYIlpKjk+2DxZvHKTm4dg2x4du1VyMl4FPmIr1jGiVLkEC6k62IxiKk0d9V4BO4fqA8XOZYWw==;JcNr+nRJxI/8qObBt48LOQ=="
+secured: "72BMv2xCOVp3NEy3BYSZIRwbunaz7bhjquWSPoPff/ldOPjijyJd+N2+PyHwW5wxDQHnRGXfIQu5XAjNUIOwr4Bj4vddP5scQ475NLY53fDJrRFbglDwp5BGMJUreHKgdRx/JEdnXc2Tbi6mULC3gYq8uub1RpNF/evuqcreH4/tGLXLb73uTMs6a7L7KDxaxUu5NsAAWnPmUaSeVgZXM9rprF7/rjfYxTNWMiA7UiUhTQDQ0ipAgwKjDvuC+OccBFyBttW3W1oDfq2WuBiVI6/4WxkjV3Gp+QqxrRNdB4RSejQK/dMR7BQZLk6izCKFzugUexxE5NRKpf4RKD7ViQ==;uMw0hrLcAspNel7/NvAsbg=="
 ---
 
