@@ -2,25 +2,25 @@
 category: news
 title: "Insight Earns Advanced Specialization in Four Areas of Microsoft Azure"
 excerpt: "Insight also fields more than 1,000 Azure-focused engineers, developers and technical consultants, plus more than 2,000 Microsoft-focused services and technical professionals, maintaining more ..."
-publishedDateTime: 2020-07-28T14:06:00Z
-webUrl: "https://tucson.com/business/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure/article_88eb5653-7cf8-5650-a7f8-8b0ece08820f.html"
+publishedDateTime: 2020-07-28T13:14:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure-1029439088"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure-1029439088"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure-1029439088"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 77
+heat: 177
+published: true
 
 provider:
-  name: Arizona Daily Star
-  domain: tucson.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/custom/image/80e87ada-cfb0-11e7-b59b-a75438cf81bb.png"
-    width: 620
-    height: 290
-    isCached: true
 
 related:
   - title: "Quisitive Has Earned the Modernization of Web Applications in Microsoft Azure Advanced Specialization"
@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Apptio Launches Rightsizing Recommendations for Microsoft Azure"
-    excerpt: "July 21, 2020 /PRNewswire/ -- Apptio, Inc., a leading provider of technology business management (TBM) solutions that help organizations analyze, plan, and optimize technology spend, today announced rightsizing recommendations for Microsoft Azure SQL ..."
-    publishedDateTime: 2020-07-21T13:04:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/apptio-launches-rightsizing-recommendations-for-microsoft-azure-301096563.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/82080/apptio_logo.jpg?p=facebook"
-        width: 2421
-        height: 1270
-        isCached: true
   - title: "MSRCosmos Has Earned the SAP on Microsoft Azure Advanced Specialization Status"
     excerpt: "MSRCosmos ( today announced it has earned the SAP on Microsoft Azure advanced specialization, a validation of a"
     publishedDateTime: 2020-08-03T14:45:00Z
@@ -64,6 +50,20 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "BitDam's Advanced Threat Protection Now Available in Microsoft Azure Marketplace"
+    excerpt: "BitDam's Advanced Threat Protection Now Available in Microsoft Azure Marketplace  - BitDam has announced the accessibility of its Advanced Threat Protection in the Microsoft Azure Marketplace. FREMONT,"
+    publishedDateTime: 2020-07-27T14:48:00Z
+    webUrl: "https://www.cioreview.com/news/bitdams-advanced-threat-protection-now-available-in-microsoft-azure-marketplace-nid-31683-cid-145.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 32
+    images:
+      - url: "https://www.cioreview.com/news_new/sliderimage/2g2rf.mag.jpg"
+        width: 300
+        height: 350
         isCached: true
   - title: "Insight Earns Advanced Specialization in Four Areas of Microsoft Azure"
     excerpt: "Insight also fields more than 1,000 Azure-focused engineers, developers and technical consultants, plus more than 2,000 Microsoft-focused services and technical professionals, maintaining more than 3,000 technical certifications combined. “Insight and ..."
@@ -89,6 +89,6 @@ related:
         height: 512
         isCached: true
 
-secured: "VV3rYSHsHIEU8gOB5ZqbFQy65OoZQJIXAWHrd/xIom77jxLSL54ph5SXxWQgfV6ke52+OMyk/7A1LxzCC8jNQaV3n8o2py2P62Zftj4c1sqgR2nmWvhIbC4Y8+8XBVdAgJ36dZYKZfpxZPQRDREx37GsDR8+3AX2ynrazCvGPiSXfZxVrmdZ5ylX1YGs+pvVjRLsXAtskKimhkv1FlwNAL8flSwJkx7rAV2TOrrU43YyAwpO2pxSBHFd+jUqjBHu5WXlVZQFmnybUrDrzogwEmhwP4TCRUCWKaK6GHYPzUiep8uVx28rMtrSHc6vDz+UzSykE8iYLw0mXbf0L/vrSA==;OWERmAUJFoZAVdRKRgSCyQ=="
+secured: "VGuUZ35o77r/kSndqreY08jZh2ts9ZwE96LOLALad9mNWG5LSt3BLIsf0QFOIhJy2khmmDDn/R6CdEoAlw4ZD8nnAZX6g1quel7dhRxXSQ6VpGh/W7uiin93JJz4YqEfs+K5kCdHoKlqiVc8HcEhSVkH1cUhXhDFpi1gWidGq53pidgq4Lw8Ua+MsQq3Aj0GhS/QkJ+7eeMGJPrv7oOwv2LEDjg5+iS1GX38GmQJro8lSovJ7zK+vPtEIGQgSKUIJTbQwW8aTttGr/6T3QuIYZkRIma5yOAZYtaH1X0rH7xTJujLeCS5ROHYrZHLlaPjAFHNVmuc/kgV5xURoYU8Bw==;hev/HgAy6mZRwOkjtEvXQA=="
 ---
 

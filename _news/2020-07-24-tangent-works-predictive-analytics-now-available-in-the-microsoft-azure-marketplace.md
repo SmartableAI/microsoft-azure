@@ -164,20 +164,6 @@ related:
         width: 854
         height: 446
         isCached: true
-  - title: "BitDam's Advanced Threat Protection Now Available in Microsoft Azure Marketplace"
-    excerpt: "BitDam's Advanced Threat Protection Now Available in Microsoft Azure Marketplace  - BitDam has announced the accessibility of its Advanced Threat Protection in the Microsoft Azure Marketplace. FREMONT,"
-    publishedDateTime: 2020-07-27T14:48:00Z
-    webUrl: "https://www.cioreview.com/news/bitdams-advanced-threat-protection-now-available-in-microsoft-azure-marketplace-nid-31683-cid-145.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 32
-    images:
-      - url: "https://www.cioreview.com/news_new/sliderimage/2g2rf.mag.jpg"
-        width: 300
-        height: 350
-        isCached: true
   - title: "Foxit Document Transformation Services Now Available in the Microsoft Azure Marketplace"
     excerpt: "Foxit Software, a leading provider of innovative PDF products and services, helping knowledge workers to increase their productivity and"
     publishedDateTime: 2020-06-30T12:03:00Z
