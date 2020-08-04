@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-21T08:00:45Z
 webUrl: "https://azure.microsoft.com/blog/introducing-the-microsoft-azure-wellarchitected-framework/"
 type: article
 quality: 97
-heat: 137
+heat: 157
 published: true
 
 provider:
@@ -51,6 +51,20 @@ related:
       - url: "https://www.crn.com/resources/025b-0eff6361f68a-29cd08758548-1000/1azurestackportfolio.jpg"
         width: 515
         height: 305
+        isCached: true
+  - title: "Microsoft Introduces the Azure Well-Architected Framework"
+    excerpt: "Architected Framework, which provides customers with a set of Azure architecture best practices to help them build and deliver well-designed solutions."
+    publishedDateTime: 2020-08-04T11:10:00Z
+    webUrl: "https://www.infoq.com/news/2020/08/azure-well-architected-framework/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 37
+    images:
+      - url: "https://res.infoq.com/news/2020/08/azure-well-architected-framework/en/headerimage/Azure+Well+Architected+Framework-1596364025620.jpg"
+        width: 1505
+        height: 1585
         isCached: true
 
 secured: "a3S428tuALHL2e3+odWhBuE9nhhAjkvj1fu+NxOLdxPamGU8EkZKpm5zVnAcbuhdcfzt2njeuG/Voj/1XgToE3dxuMU+bi7/pSK4wnTbHv7BGdxLSGRD+o+74Cnhmq4/8js5IlA3OM40dxf6gnj1U0DepzGg0gD9LJTg+nofXtiLcEyJbzqD1euSptp6cllhn+aFVgga4t05I9pp3ZU1Jc7jJoWM78gandN/EDffJ3XEnOq0vBwH0F1NwAg9Ma348Pg/A+ThyVgQs8RKnaFY5y0HoaFLuJ3NX0wvo2JKyNFMUXP+TAdCyzE7We1E/eC+sEk1pCiYhtG7LgNQA83GZA==;qKWHYPIeMBbOpW2oSzC5Xg=="

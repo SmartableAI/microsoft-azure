@@ -1,25 +1,25 @@
 ---
 category: news
-title: "Microsoft Azure Stack HCI"
-excerpt: "Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here. Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here."
-publishedDateTime: 2020-07-28T23:28:00Z
-webUrl: "https://www.crn.com/2020/07/28/microsoft-azure-stack-hci/4rB6NDMQd1Vug6GrJ7ZOU/index.html"
+title: "Microsoft Introduces the Azure Well-Architected Framework"
+excerpt: "Architected Framework, which provides customers with a set of Azure architecture best practices to help them build and deliver well-designed solutions."
+publishedDateTime: 2020-08-04T11:10:00Z
+webUrl: "https://www.infoq.com/news/2020/08/azure-well-architected-framework/"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: CRN
-  domain: crn.com
+  name: InfoQ
+  domain: infoq.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.crn.com/resources/025b-0eff6361f68a-29cd08758548-1000/1azurestackportfolio.jpg"
-    width: 515
-    height: 305
+  - url: "https://res.infoq.com/news/2020/08/azure-well-architected-framework/en/headerimage/Azure+Well+Architected+Framework-1596364025620.jpg"
+    width: 1505
+    height: 1585
     isCached: true
 
 related:
@@ -48,21 +48,21 @@ related:
       name: mynewsdesk.com
       domain: mynewsdesk.com
     quality: 37
-  - title: "Microsoft Introduces the Azure Well-Architected Framework"
-    excerpt: "Architected Framework, which provides customers with a set of Azure architecture best practices to help them build and deliver well-designed solutions."
-    publishedDateTime: 2020-08-04T11:10:00Z
-    webUrl: "https://www.infoq.com/news/2020/08/azure-well-architected-framework/"
+  - title: "Microsoft Azure Stack HCI"
+    excerpt: "Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here. Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here."
+    publishedDateTime: 2020-07-28T23:28:00Z
+    webUrl: "https://www.crn.com/2020/07/28/microsoft-azure-stack-hci/4rB6NDMQd1Vug6GrJ7ZOU/index.html"
     type: article
     provider:
-      name: InfoQ
-      domain: infoq.com
+      name: CRN
+      domain: crn.com
     quality: 37
     images:
-      - url: "https://res.infoq.com/news/2020/08/azure-well-architected-framework/en/headerimage/Azure+Well+Architected+Framework-1596364025620.jpg"
-        width: 1505
-        height: 1585
+      - url: "https://www.crn.com/resources/025b-0eff6361f68a-29cd08758548-1000/1azurestackportfolio.jpg"
+        width: 515
+        height: 305
         isCached: true
 
-secured: "yLbO41MHFNYk4uMIBTUhoXxn6gOeDfmMPBrLEyNsA4fIeSAaJFRWePwGayISOWbvZCT6lgn9eHfnXmR7S7/ZJTvz4C10v2FrVfaLwiiUVEncWlmEz/Q4Df7rP2GAG7/DCEYpLJdrOteGPnB3hL2qf+5BCTw63J+hkDa4IMJ+hPswOp98qAY2qCQzjR0PaJmOKvHN0Vu5hz9cqxNy45AGVxEU8gFxwlWjeYgyZNQ1V8ty7InCSn5SXqafcUNQsmiZYySSoTmtzKKI6sWwIu4ZtE12NEsdEx3ISEzU/C05MxMI+9jw5Z2LUeSjcWhw/XfFwfzzLx/9iP52XO0DghmQNQ==;+ENf8TnCS/HCiE0QZvmxpw=="
+secured: "0mZDKq/AnH88oekOQulm/GhxEwqy/vUsyztoy4ETd8whi7hAoi0tiYmRVbfDg7qsC1ecJ/htFmfygu5yJ6W76QsoqUYvqP6iLoqffA+w+Nx11tIcmZOWLiqu3Pe0jnu0NmQOSL4rZsJ8lmSP2JKmIlqiB6edOfBXl1j+WmPjuyMDTeA67nvl23x/k5d917pvQZtbccT/ZB2gn4jkoNPLU1L6Crwq+1nV5HacDydPvaQapNyUigC3wY2D7DOPwgYoTBIkoMsp6ol0rwzF9+0Rzi5Jvx3yfDek3saigar9XOtEdzOvBCmn6X22kvoVwAoRt4pDL8F9u93uJrzU+afsyQ==;t0ba/tyvUOOyKOsIs3qyTw=="
 ---
 
