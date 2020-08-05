@@ -8,7 +8,7 @@ length: 61 mins
 ratings:
   count: 30
   average: 4.7
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Disaster recovery and backup"
 
-secured: "ukd36WfakQGyS6YszjNaffRp2fEy+hjTInnSgz9YKv71zuvpZXsPc9yLCMbYTuPGwh5LbnqCSrDG4DF+JKr7hf1RnpOs/7Xno8ubpJIbic2nLoE/XZQtEmcBlBAR4sfFXwkXcB38TwG08VYMRJfbnkweVjwJ9tjLEwMMIrF0YRN+vOp5mwM29TCYHxV3ME5P9bRx3WpYjiks5hfVjrwx79BIQosf8q7uoXL4AX8yZ1juKHkzoLlbOzwvzCD9oBUBMsLvxu+HBLTcFhPfjJ6LF2iwcqTmdaGzaGUx0gzj64f1W2GOPbSdkLalkObBwDcKgnhzVk2lSmQJg+ZD0bLGXCZzvhfJR/SlYiSwl6dwfHDczo6KSyX3u4TBXBBrXFIr7u4gD12/8kTEyhzKJpXuWw==;NCyzueR6QYInqCFcQLehIQ=="
+secured: "Ovpk3Tdy1+j84Jh6otMn2YLT44Pn4C5K/urJQevz5fqW2z2zNGmBq2PVDYvIXWVORfdueAedNwvtqh74LZORynYZ7vrjAdMznbuDzluukKs46XY/l0Evg49fSkY9sFv5KCpy6VJVDhRwxFNIoM4hOZaaErVSUnKO4Wejg7rgiXN0GjSxQJyWkXfpHyzjEJnfbdxOw3QYy1BDnuJ0qfB5auZigy6EaekaQZ6x9injDe6dkoqDQ9oARw5Djcw1fenq4P3nPv17nLFnZtcx+48IYu8grqZG6Dit0ea7dDJL8JXcHD4ioR1hlwUSEwaiN+t60BIpSSXI7L/iJwAZ7ivxFyvv7hr3v2b9d2RSFjV3cT42RxvxjBtf88ENmPXLAFKtQ6S4ICDxGqfzWl4IURp3kw==;sBxg3uL+2KCddylpr/TGlQ=="
 ---
 
