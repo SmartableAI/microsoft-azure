@@ -1,14 +1,14 @@
 ---
 title: "Build applications on the cloud"
-excerpt: "Learn how developers write programs that run on the cloud, including how to deploy, be fault-tolerant, load balance, scale, and deal with latency."
-webUrl: https://docs.microsoft.com/en-us/learn/cmu-cloud-computing/cmu-build-apps-cloud/
+excerpt: "Carnegie Mellon University's Cloud Developer course. Learn how developers write programs that run on the cloud, including how to deploy, be fault-tolerant, load balance, scale, and deal with latency."
+webUrl: https://docs.microsoft.com/en-us/learn/modules/cmu-build-apps-cloud/
 type: course
 price: Free
-length: 81 mins
+length: PT1H21M
 ratings:
   count: 58
   average: 4.586207
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Build applications on the cloud"
 
-secured: "SynBMZvR6p8ppXPMY2924d3ukBKsDWguyptw7rZhMybkMxUYon6tSjmDlK8zAGMFsU1uciFBJXn2+4v3vjsL/RUGgs8Q97qAtTRVD2xNAfg5BhJGx1P/p+l0PVaU1zgYbjOM602yk0NKbTm8/xbAKMBOi81gW1AxUEQGamTpYM/hRTtN9MqpuKoWIpDILOI7r93QfskuAgwYY2T6c/NnN6A/Mt1kRaxymkNdJgBy7mKPWyMzSTP5DGPNmNbvjKO8Kd0les2F78yE8SwNTEJAwDrtbyNMmJmj6NyS2KeVOg7JhObofCsZsy3TwuRdmr1Lxs93SzmweIkKb1EnbMcqWhLYsTvE5VrnhHT0xZOFMAU/1iOFOUQugL8le8M4jKU8tW3C6UbI7ITNojlGfcEP7g==;k9exOYF8pkBuX7AXj9NCeA=="
+secured: "kjxlwoITy6qCA5+sYcVM2yBBEhQDA3Gt7JC4b+Gf9rlg4H70QWHI1fgl4c/zBpr1iaS9VRWypL+e0bQqUkSenuvr9Lzufg8aN3n0lqpLhlsq4HAQHwJ1vjt2rNs/Hmw+bcD1LHUQ7rLKAULXEuxPt7Y2h2aoIbAvIFF890wnNSI6hr6SJqnzPMHE/2diJK3bGcyU5KjMlNCdW7xBbLhmJzVB+JKH2ApC0ZIVyx1CQy8H2N+P3/TQYZ50GiLYz/ZQYIwO68d5SGXLIaTTELvaT3G+kvQCiTSN61IKhAesIQ/bPXNslodGNvU0FYY4gywCknZcpx4nVxOZuGK4Jstmd0/vIuIIr5+0mXXasIGXefk=;XGXl6RGlYa7Z4cR8+kyH/A=="
 ---
 

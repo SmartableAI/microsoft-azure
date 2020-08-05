@@ -1,14 +1,14 @@
 ---
 title: "Virtualize I/O"
-excerpt: "Learn about how computer input/output is virtualized. Covers I/O basics and a case study of virtualizing I/O."
-webUrl: https://docs.microsoft.com/en-us/learn/cmu-cloud-computing/cmu-virtualize-input-output/
+excerpt: "Carnegie Mellon University's Cloud Developer course. Learn about how computer input/output is virtualized. Covers I/O basics and a case study of virtualizing I/O."
+webUrl: https://docs.microsoft.com/en-us/learn/modules/cmu-virtualize-input-output/
 type: course
 price: Free
-length: 21 mins
+length: PT21M
 ratings:
   count: 31
   average: 4.677419
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 1000
     height: 500
     isCached: true
-    title: "Virtualize I/O"
 
-secured: "pSuydKzp2lnk48Y+oRshSLF8IBkOxRH/3xaJpkAY/e3fH1kT8PgDEOwdOug9TJobcm34kMyYd4w4n7kEJaCz0EZutwKMKC+m6M73tFHB+BiKcZE3x9mvGTMxaz8caqcvFjzOd4jfkUtsf+2yGgyRmxCqqItEA+nsfn9RodpFRnL/G7OOJr1zbbaMUXpK5+FofNqwKE2EuQCycTTUkjLk/3ktHRgg0rL9eBLn4k8aTojnKAom5WWS/GoxmeFqYlDMcjnISaKlqYe/0YfQZ+Y12rxHJkUofIY2PA5pAop2jtQKZGo7OMTAFhIjnjD0l1vRAPhLVjGfd9J+79D8jGLImsrajCrzvNJbBxtyeeKsxEyIEAX1RaByqOmnXuB0yWM5NUWIwCqTpoeXf22xv1P3ww==;62wa+wHJz90tXbUkEOsXwA=="
+secured: "sJV5G7GqLbkwCg+1twk7LEENtJSec7lOGvlqb9KpjpmZHL+I8OGf39Uk1UF/E2FH3IHzG6DBm1YerB5YslDLzA3mnrfVfcJySyHUm2DhZvjW/+WZwDxkYNsiTpExb7hJgdyW3/e25HGw/qo/Y13XaWg7edeWgeIrff5fRFjimUxbdyjoLsVq9iGTO8Gqa4UuywdG+tDZBdRlucWfy+S7J5vvLF+8VGGSA8SFqrpZosWLfUSrQCD/m/1TLv54wGgpmBfcneGmaVolprl4dasq1tF5B2Ox5JUaHdQiHQaYt/qmToH8AUVUyK+anlxP62VfOUSntuqZL/Btp81JmwbjYKsm5DysryZKlT0BmWatn3s=;3YseKb11UK8f9RPHob9VIg=="
 ---
 

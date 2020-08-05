@@ -1,14 +1,14 @@
 ---
 title: "Share cloud resources"
-excerpt: "Get an introduction to virtualization, one of the many technologies that power the cloud. Learn what virtualization is, its benefits, and how cloud resources are shared."
-webUrl: https://docs.microsoft.com/en-us/learn/cmu-cloud-computing/cmu-share-cloud-resources/
+excerpt: "Carnegie Mellon University's Cloud Developer course. Get an introduction to virtualization, one of the many technologies that power the cloud. Learn what virtualization is, its benefits, and how cloud resources are shared."
+webUrl: https://docs.microsoft.com/en-us/learn/modules/cmu-share-cloud-resources/
 type: course
 price: Free
-length: 54 mins
+length: PT54M
 ratings:
   count: 63
   average: 4.6190476
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 1000
     height: 500
     isCached: true
-    title: "Share cloud resources"
 
-secured: "nEcgrYyig/E+FIZKJcpsjdmWrrNgegFwMbSWBh6ZgwtjLq3oLohwFZm6aDtSHzisGAT9kQX4tPxfY0lOpplhuAkJn/XdR1ON77HneyZ7AJksM9w/ShjXv5vFXoA3GFFqtvnoyJe+icbRfJTZ4L9Oopql6JL/7EPFbodJI4eb1Mz2ILsLNYGsjyreqZ5m+PCdudZkTKai3hJihUlbdEiodpRS+VUlrHuSXBgrXKIGfzPfKX3Cxuys9Ctwa+2FPZHVQ1KWoKQ0B7IebfViQ1JRzmpIugx0SGze1zYr1p20BPieu0PScvDHtDvGdsurrPY5XmZ6y9ELB53BPNee2a3zg4bmic8Robqu+CI3nZd/ZIqqKJwJfAJw2Pin770c0d3i7NIfmH9dP7/ff/aALXDIbA==;0KNcZ2cpNLI9tgWZ2yC+Pw=="
+secured: "TBBVUv5I9gWjh0IybjyJvghrcysH7OBxb6v7ywX6/eDrfpwjjoPGzRWkNHNbJZKxsJ+wQD8P2eyUyNKyujSWfolGZ8A49PjcPocHKfRlmHUXdzSn70P3Kxl2+JVhFMxE/eUQkauR3rerPNZCXoq89C8ix5/oKQXIzB570/7V/1cyKLYlIlSnWZNVnyzeH+84X18GAZEHmbZuYeoBGnYe8eFGg6Spod9+HLuEem1fW4Y8VXO0khRbYpbX5Ca58k9YSb2E1EMc/BOYTtsDDdQdnjJzQfDX3j+ygxo/NDgU4TyJlfgmQMDNySytJXR/oHoAoIqAXhkJWUIkhQf+We/PXPVPCZ8woHCiicqvV0dhDrg=;nX/IVOIlR8R3HVBXloo/ig=="
 ---
 

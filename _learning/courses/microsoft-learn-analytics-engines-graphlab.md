@@ -1,10 +1,10 @@
 ---
 title: "Distributed computing on the cloud: GraphLab"
-excerpt: "GraphLab is a big data tool developed by Carnegie Mellon University to help with data mining. Learn about how GraphLab works and why it's useful."
-webUrl: https://docs.microsoft.com/en-us/learn/cmu-cloud-computing/cmu-analytics-engines-graphlab/
+excerpt: "Carnegie Mellon University's cloud developer course. GraphLab is a big data tool developed by Carnegie Mellon University to help with data mining. Learn about how GraphLab works and why it's useful."
+webUrl: https://docs.microsoft.com/en-us/learn/modules/cmu-analytics-engines-graphlab/
 type: course
 price: Free
-length: 63 mins
+length: PT1H3M
 ratings:
   count: 17
   average: 4.882353
@@ -24,13 +24,6 @@ levels:
 topics:
   - Azure
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/distributed-programming-graphlab-social.png
-    width: 320
-    height: 160
-    isCached: true
-    title: "Distributed computing on the cloud: GraphLab"
-
-secured: "mjUwT5GYis+CGx/TBpQR43phVJsZmi9VN9/Hn1F1p6A5lI4BVTJeM5akQVrhyCbYjZjcSG90XL3FGWIDvbJObhJNRYKjiGhjrsr+EMQ0/609QXYoNA669GB8wuPJbE2JU7cH/51WhpHjzLg6z/Yg1jPbgGC74EpPg+2jSGVH87hpd+zjC+utF4TywugXJ7ooNOpoY6loAQ7ECRXdWQeY18uHfNijwoaDLVQ/gQkT5ribZMUN5m9Par3w3fVv3jESKaMuHdShbn3vhiXDaqrSWYgp83lA/SOOTJDmSqSZ4txlmir/5mgLNVdp3chr8ejdKotd5kfqdSq4H4vD+8X3wIKIc2lMMi4eqqLjW28f8lhbho2DXmcyFre+qPLMKyZ3KsZnOyYl+nn0/iLB77JV1Q==;X5HzKpxyn392K6YW0/Gzig=="
+secured: "wSVizYQXmyMm92opnRTYBmXZFupVMih0mSwERV/0uzpyBvrkObvjsNaRJeigsjqwk4XDd9P4rT388h2mt0ktTdxkrLteP6SxMyBq935a+C+Iq6JxW++ccZb0wbi8865Zb+6luhjK7BA2HWietu7eRgZ5VaybW0bBF5xOavNGAt984X9IBKa097Bs0nTO1nEJy61uGDLCzaWC/YvNc9NSnszy+IDqIHQh8O3mtngu2BWmPXs+xV+GidSQeSa8Ksxe9ax3FLzUrdKtSRydGLESZRgtlOARVqfupn64o+TBiCfFTo4gJaVmvxfB0MkT9Sz8g8sptuMsO61znnUvemlXmXqefF7Ujsb1ppfpU2r0fIk=;Dh6vl5Wu045hp9y80zeySw=="
 ---
 
