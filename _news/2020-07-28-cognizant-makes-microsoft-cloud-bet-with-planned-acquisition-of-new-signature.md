@@ -67,6 +67,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "3Cloud Acquires Microsoft Azure Partner Applied Cloud Systems"
+    excerpt: "Microsoft Azure services partner 3Cloud has acquired Applied Cloud Systems, a Microsoft consultancy from Pittsburgh, Pennsylvania. Financial terms of the deal were not disclosed. This is M&A deal 312 that ChannelE2E has covered so far in 2020. See the full ..."
+    publishedDateTime: 2020-08-02T14:19:00Z
+    webUrl: "https://www.channele2e.com/investors/private-equity/3cloud-buys-applied-cloud-systems/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 17
   - title: "Cognizant buys Microsoft Cloud specialist New Signature"
     excerpt: "Global professional services group Cognizant has announced an agreement to acquire US-based New Signature, provider of Microsoft public cloud solutions, for an undisclosed sum. This will be Cognizant's 5th cloud-related acquisition in"
     publishedDateTime: 2020-07-28T14:23:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-30T17:00:17Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-community-repository-is-now-available-2/"
 type: article
 quality: 97
-heat: 157
+heat: 197
 published: true
 
 provider:
@@ -54,6 +54,24 @@ related:
     excerpt: "The 20.07 feature release contains new features for application development and tenant certificate renewal, additional promotions of beta features to long-term stable (LTS), and enhancements to improve stability and troubleshooting of device connections on Windows platforms."
     publishedDateTime: 2020-07-29T23:00:32Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-update-2007-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Audit Logs of Azure Monitor logs queries now available"
+    excerpt: "The Azure Monitor Logs service allows you to collect telemetry of all types across their entire infrastructure and query this telemetry to collect insights. We are announcing a new capability to collect audit logs about query execution."
+    publishedDateTime: 2020-08-05T16:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/audit-logs-of-azure-monitor-logs-queries-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure Advisor Quick Fix is now available"
+    excerpt: "Remediate Advisor recommendations at scale more quickly and easily using Advisors new Quick Fix feature. "
+    publishedDateTime: 2020-08-05T16:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-advisor-quick-fix-is-now-available/"
     type: article
     provider:
       name: Microsoft

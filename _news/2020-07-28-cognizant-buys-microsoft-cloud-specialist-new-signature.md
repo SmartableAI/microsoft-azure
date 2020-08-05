@@ -75,6 +75,15 @@ related:
         width: 398
         height: 398
         isCached: true
+  - title: "3Cloud Acquires Microsoft Azure Partner Applied Cloud Systems"
+    excerpt: "Microsoft Azure services partner 3Cloud has acquired Applied Cloud Systems, a Microsoft consultancy from Pittsburgh, Pennsylvania. Financial terms of the deal were not disclosed. This is M&A deal 312 that ChannelE2E has covered so far in 2020. See the full ..."
+    publishedDateTime: 2020-08-02T14:19:00Z
+    webUrl: "https://www.channele2e.com/investors/private-equity/3cloud-buys-applied-cloud-systems/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 17
 
 secured: "GWZiJrznPb8bMO0E6Zf0IlZFt7tq9KULwGwav5oFsmS3FvrLAaCJYb0HYL30adkfqaEqM7/h8QGoKvZwjW0p2vf8cycKxWk9Pr4paLv9tyZyVdICnHS4ex3HtxSiLR7963pNZf3Wa385Tc+MzsS6Yb4GuM+xV8DntGYPGulbmDih5Mb8JXO7o1oD1s90wVQHuVExxhDny6yJFJQWamTwprZXlAkI35FYaOwC56Jvr3RV3A4AEuggHtr0T/xz9t55rMMCja1NejTcgctT8f4wzXtyJpWhLSj7tUo+ORUtWzDoLM1N1MCTndsF/UkHUepqY5rkuZaY86jvkWQu9Pc/eQ==;dDBlMaLqGVMlUtormKyyyg=="
 ---

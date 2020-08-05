@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-08T16:00:17Z
 webUrl: "https://azure.microsoft.com/en-us/updates/simplify-and-modernize-your-java-and-spring-workloads-with-azure-service-bus/"
 type: article
 quality: 74
-heat: 74
+heat: 94
 published: true
 
 provider:
@@ -19,6 +19,17 @@ provider:
 
 topics:
   - Azure
+
+related:
+  - title: "Simplify and Modernize your Java and Spring workloads with Azure Service Bus"
+    excerpt: "In order to provide Azure Service Bus to more customers irrespective of their application stack and application ecosystem, and in keeping with that vision, we’re announcing feature parity with Java Message Service (JMS) 2.0 over AMQP."
+    publishedDateTime: 2020-08-05T16:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/simplify-and-modernize-your-java-and-spring-workloads-with-azure-service-bus-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 74
 
 secured: "OPr5vPvecOuRSNBnaal9h48H5aS/7GYeOnOH+a9HkzRo3fFldEwlQWfwfOLKe+kGNvGz5OCJLl9cOfvLP9+gxIKbK43KLdzHYASq51ErDVn6vETjRKM2oWBbtAyYgMrMCvkFb5h3qsNO6J9Fpwdh7lcA4qMtg0YZ+fXbRAFjzhxbaaAJq0idRX1I9xXgzRZug/uAZLYsLLAnW+BP/+QoXKQfEzj8GYUejtX4v4+ZsHICB/rDFwjcS6ivbfnIkhYfFjFs32yrUtLYH871nNUKd/4i/qhB7s6K7yUUfPjZK5f2ryZgh9WeJqqIem5KD2xmsxmraAmDKJAhbI5dwJr/fA==;JyPjxpsezHAazxDZZIL6Mw=="
 ---

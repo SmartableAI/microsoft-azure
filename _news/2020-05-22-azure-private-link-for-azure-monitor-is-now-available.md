@@ -58,6 +58,24 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Audit Logs of Azure Monitor logs queries now available"
+    excerpt: "The Azure Monitor Logs service allows you to collect telemetry of all types across their entire infrastructure and query this telemetry to collect insights. We are announcing a new capability to collect audit logs about query execution."
+    publishedDateTime: 2020-08-05T16:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/audit-logs-of-azure-monitor-logs-queries-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure Advisor Quick Fix is now available"
+    excerpt: "Remediate Advisor recommendations at scale more quickly and easily using Advisors new Quick Fix feature. "
+    publishedDateTime: 2020-08-05T16:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-advisor-quick-fix-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
 
 secured: "gnUc7Xz+oQtPYOFfnAs+FUPQwcK1l1xumD7Y00DSeVX7cUl2ESgHiLi2jS2XV21eOsuFYd6Mv4WaZIoj51xYAWWaDbASU9ssrYUOAQgvkEPkOj/a109Y6ZQymEsHoTEpucV8lXdSWK21/Ai9TB++tRCN2/V2nN9szTYYvTEswfWgm4idpnG999SDk6SiL0ETW/RzIRsO5erJM/m6NydscfKqidgXJOQfcVOwy1dZT38P7MsD8OQ96lrJd3DrvNRH3FgKk+TCdtCVrQ4qQ8LjFnLg1fIPdWcrfkf6ixAdpQqkuoXybt376OaV+nrEfjWbdAlW5fXTq6YnTvFAkj9TGA==;K/cUHmZi6KGh48KpNk2MLg=="
 ---

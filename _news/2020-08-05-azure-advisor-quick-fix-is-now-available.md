@@ -1,11 +1,11 @@
 ---
 category: news
-title: "A new Power BI component for React is now available"
-excerpt: "A new Power BI component is now available for easier integration with React, a popular open-source JavaScript library for building user interfaces. "
-publishedDateTime: 2020-07-27T20:00:04Z
-webUrl: "https://azure.microsoft.com/en-us/updates/announcing-react-power-bi/"
+title: "Azure Advisor Quick Fix is now available"
+excerpt: "Remediate Advisor recommendations at scale more quickly and easily using Advisors new Quick Fix feature. "
+publishedDateTime: 2020-08-05T16:00:02Z
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-advisor-quick-fix-is-now-available/"
 type: article
-quality: 82
+quality: 77
 heat: -1
 published: false
 
@@ -19,12 +19,6 @@ provider:
 
 topics:
   - Azure
-
-images:
-  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/8b48b085-0d0a-43b2-a856-ce5947f0938c.gif"
-    width: 1920
-    height: 970
-    isCached: true
 
 related:
   - title: "Azure Monitor Community Repository is now available"
@@ -40,6 +34,20 @@ related:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/95c103a6-ea66-448a-9cfd-b36191a0ccbc.png"
         width: 1028
         height: 575
+        isCached: true
+  - title: "A new Power BI component for React is now available"
+    excerpt: "A new Power BI component is now available for easier integration with React, a popular open-source JavaScript library for building user interfaces. "
+    publishedDateTime: 2020-07-27T20:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-react-power-bi/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 82
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/8b48b085-0d0a-43b2-a856-ce5947f0938c.gif"
+        width: 1920
+        height: 970
         isCached: true
   - title: "Azure Private Link for Azure Monitor is now available"
     excerpt: ""
@@ -68,16 +76,7 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Azure Advisor Quick Fix is now available"
-    excerpt: "Remediate Advisor recommendations at scale more quickly and easily using Advisors new Quick Fix feature. "
-    publishedDateTime: 2020-08-05T16:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-advisor-quick-fix-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
 
-secured: "t9SmWclZHarEODKQrR/rZ8vFIiJ/e7cWrO0tvFUNxbqCCxUWnWR3CNqKt7uVrFpHKBhGLlQXP3rFHJM7HQtmYcmUq1/cbH7Ji/a6GpI5cHlWIPMjztKO636wW+YtNlb/pb23aGy2xbj1QhQqiVBEMawfMnIfESVoFHmjZNzOKfmBQ1+hzOEZwSMSBULrDEqYFOD+rg1s6lQkJSfmykVvBchAdpvwhgqb3oDrKt9GxVihq7rF8TVeYiHpYLg0eA2c9hlJEHyyg9V9q3ddPzwiDdVJVVVNFawieGQitxbExKwdkdWsgY/f3qodVWIlL5Vp01fpdUrirEM0X/p/TcL/4w==;fGBA9B+K1wFvXIn05b1BdA=="
+secured: "JSUeSEm8ZhBwZPebVUISpge+ZMgWYRWUtEYJ+GSemF5SKh7n9mNwGyeKgKh6aQWVET7J1cy4ykyLpPFYxo5tzjbctFKIxVyaNYQhHh91T1Tvq7ITMj0pcmDH17Mcdteciuw66bKKUTnPriZJUupwzSIWSpVZS4v501jl/AQQOy1yBcuazoiZxRkXY4mVOFOlE1N8XLh90UPnNy3z+G3E0LVOFOo2+miPjLhELpeCdAD9Xr3XKgUv0G+KbLFCCNi5Q0EIJThLTYqi7y1HT9P6rTw9ii5w5RAD/TbNssWzl0LhQREg9pY9TdKxYN5g8upFUrKojn7+lDqRKNfB2Y1WwQ==;o9b3IH6KIrKnpMDcpHrzrw=="
 ---
 
