@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Distributed computing on the cloud: Spark"
 
-secured: "ykEuRB7vzmihJdajiWPWEC3JFG41WvBzPsA1OEVwSfJgPcuTJuA2yKDYSw9b1Xt2EvgmdST03pOQqRVnRvHeON+QzeHdXilB8hm7ukbzA/QUV42dnmGvk0QRkEReZ+UB75dF3aeY0tXkdVg7i18jDuVmpmyDiJaAYzVhsQ8uIcxVM/QalDrL1a18u/S+o5zh61iE+nRjGE/4nu5kPgpDsbavasWc+lfVopD3N5n1i6GFx2aU7gqAXwcYAHep2z0dfFNXdjtbVxMKCXVUpWgkl0uTc4FC1Wmu+VszqJmNYLBAqNClYsj+bW6o7oeyVPkwMBrCW7V5io/nRpjJYZ7C0X+LDUZuQXt20SIzHLHQrlqglPR3hT4pNDKtY62tPhGw2SabIFWee6XesJ1q/HN/ow==;QA3j0w+2AvOvzQ3BYzcykw=="
+secured: "/Kyywe5wpvxaGzmQJ3St4+/zTBtsk8cQjlJRhsARLMlMZiG23YB6DYbxwFmGnkZ7V97H6NnSJ4FT3AXwoHW928ddJaKbj+Pg6sQPQoMvbprIQeC0b6RWHZTF9bMF5tSw1M84B/I2XKWgF/+YzEzJxSQnryTE+8jG+c0mSBTF21lTT96D7hfXr0RHFERupT4ehHByG9tBndyNXOF9wyGPvtVghCmnrLtjugmlrv5+tpEEV8pmG3DAKvUUlDtOE+cEXi7gPveKUHofrKt0QIJd8aEg+avEtGQ9+Iv0hhvhryJ0bQENo3ZRPYyHzzzi3o9uca4uLpAhLYCA3/2xhmcc7zCV2QmPYQboJSglCNu1sVhB3vmhxq7EPGi0jDRBgvMgSCgz9f0eSOosOVeEK/Htrg==;+aFJnOPDpeWFkXImbQ0heA=="
 ---
 

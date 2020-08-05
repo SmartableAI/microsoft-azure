@@ -8,7 +8,7 @@ length: PT28M
 ratings:
   count: 36
   average: 4.75
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Implement CI/CD with Azure DevOps"
 
-secured: "msb661RqQURng8OE6Z3u3DDVh8Ta1j1t195MHU5sGC5Uo7KBvZnD3Q7rdKpbcFE3YXnN2pmaH0ppTrs7XbrlJtyZmEmh1E9VvKFDK1EcALf4LwLYnyX6TUt5OMtBGG3oKd6GrZ6kNhHbV+ywbyCuZbHsbwX3b1bgqTDlMxUBihJmwGc/GoB/Lx4AHUMDHDc4dmawzWis+u813UzOK6MKSLTRVrzuHmMC4Df9UFZlQeoxb98mmwox77crlcif8wnHutESFCErabJtPYmWOCtNQ58r/jXs/zpBYy6qR++YO6BVazXZoNG0LT5I99umzCAnuGKy+K1OkeeqHbWEdg8FrfoX1hUhutEE3azP9Lfl2RHuFUdt2yUsLDvFCFxtsshP6leuq25NGVifT1uwIEZ0OQ==;MJHJtZ2f1SQZl4sg0F0FZA=="
+secured: "amJ8lN8+1X+27F1uohorOxV/9FCPXtnhC1tNO9RJl1R8YqeObg3GRhP5VL0hdJtfX61llFytz6W+NP1wUrjs2tY229Y+P2dY565RkCNfwiBRMIjMPUrQdSmOLUgLWiNzRW0wVpah6lwNhpNJIGLtNH48LngoO/7IiiLiU/+7fOiHi9iRf8WA3yuSv/3mRnZ6rocejwUMjQ64psszbKuAErr3Z/OpDxMW8PSrQd2ZMjzIlk5903jxRE65/58+wGo5F4OiJWfxa8mLaYHqUTS+ohdstXedrZRKLnroSzffdCCjGfNVCR/WzirQ915SJHq/jP2LgT0q9HeZU+0WQ4vwy+p699nFg3SWFx+gjhaIW3xMehVXIwFBupolsvlibZtYllsJOoehsJ5cJQcV89noMQ==;u/mnCTS7fo0Up372Owpg8A=="
 ---
 

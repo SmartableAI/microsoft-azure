@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Understand the normal curve"
 
-secured: "jVtYfZtjVYVd62fRcNR8FkvVag6HsCesfCN3RCExE+IWjx1FRzKXIkN087MY1nvuhPGThPbU0m+g1pQ43Rl9Z5HEJFBdOVHP4wjAW2ApV3YcPPdPKzzwzuSgZPKvBtn3wkpvuR4WrejR4HwXp7Yh+L1bx0tm3sxNe7+c5f7RqhT+NI0lrB6Fdbs1NDHo6HuWEhG1wx4XhPyF+qdqKs/5Z7blVKBDQx1OxBUbvjGx6JYbru02qUbWr2RLDcxVLyRa14xT5gILFzbf1+D+5E7iwnDaKZPqiy4NgnrWWVZ6tiGMw7jTGZrMtk5iytOa6/Lcg42yIL8I10+mM75zvll2bveU4/2gh/qkakJQyvsqzXZGBiGZBNWaNv5vBw16IhpY4KoeBuAVs+TvX75GmQI4eg==;sQXzLBpckoC89AGJxuf74g=="
+secured: "bCi30jdUarCgDvBRHMk6k/mTBQWzyZFUu83q2g4HGZd5ZWhDAczbqXf3mrOt9ubI78w2Hg4rgKzwePYnx//ZPBjcF/JrmZdmP1dRxLsssVhRTChXOr//tZoi/60FzI0h1A/sD7ndP9CUAJf8B8mpHpOtXtip7y/+GgcvWnBlbcWGs7t40J413fO5wT88G1YdsGXj4SWQk+P6pt5JXcjNYQRgX4xxMmDdz3GLEjbDNWVVGNChIKPcu8l9TGgQgpphVTQLYyGSbUQhzUqWPPeL0Cf9jgoJ/nz6mx5/k8o+/b9yUaaKFilI0sT1CAzDm+fi1dKq42wWyAjBUaKau+Ad8Tuy/nQYNTQCnB4PCZMJCw0f1L/J0LThwL4mq1WpJDNbFhaFSYxxCcZ+MDXyGvMBoQ==;bHjFXbxS4CMavey++N2Fug=="
 ---
 

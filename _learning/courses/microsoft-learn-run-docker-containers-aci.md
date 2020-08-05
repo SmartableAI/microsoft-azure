@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 48 mins
 ratings:
-  count: 2172
-  average: 4.627072
-heat: 54
+  count: 2173
+  average: 4.6272435
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Run Docker containers with Azure Container Instances"
 
-secured: "Sz9xJhX+LD4oyw0rgfP7klrrUIEKGqSovzsPYvb2AWF5MZofZdxWqU+NKwLT9r1QArzChLoXPodwCI3Uo093qPG9M9utIYg0ahE2abF2eTiJXnDRK3/SqjFEA/nliQtUAwsJXaRYFomfijb70kEvoX5BGu1sUcwV3B3o9Gb2MKCc8hUT/qBnHMXo3FaaI8BMoz168LMzyyZzSnNwk5GXa0MmB5OUi1i/oiDk+QQl4Hspcb4bFfUXS0yc3xSbtaqzs9voFtuhZVCVkM0cnm4QsEvK5NlmomoNecVVHhVtjmyw3UA0aAzS6vx2OtsO2fJ06f1iEoSAb46wK4iTPEy6au/sm7BwoiYkzT+I+7pciLMbn8MHhy8bv9x3mkgqVLw5lzzPBqzJIsXqjE9QdygWsA==;jJDcdvQwxup7Kp/BP78fsw=="
+secured: "UL2HYrza3xhCq5Bye37G5aX7GQB1ltUQfa/tbCvH2OST1/a+VF5tjDsjIEwpit1XvnWj13xYcNE4LNOTf5MRNUBxZmgCs8OVH2q9cUa5wj3iGfRaPtOcKP7t700TqZoaDDE4lwOfR+Nu5opPYTVBNvhGp2H3AA1eHn/j35K0XVQLFpHeW/p1iXEyWuqWQfoPZFl8z+hqWJB7O0814LYca0SY6O1tXdraXvbFVEhxXxtWKWzVlHWMznb5zIAQfKcFUk77KVCpP7DGmLeMLvy46cyFzgeVm61Oqn2Pjg/rHn2U0lrJgiC0RM9PbkWYozODVH2rOZjWYBB9QlXxaW/18op1TJMWW9FogNIPqCsRJyMkU0UfWS8mdkpIL6fS/Ef1yieISRBVkVNInid0YhFTwA==;m+3MnbZtrgKbv6rq6olNog=="
 ---
 
