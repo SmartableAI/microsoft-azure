@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-15T23:00:32Z
 webUrl: "https://azure.microsoft.com/en-us/updates/ci-recommended-alerts/"
 type: article
 quality: 77
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -21,6 +21,15 @@ topics:
   - Azure
 
 related:
+  - title: "Azure Monitor for containers with Azure Portal now supports Kubernetes resource view"
+    excerpt: "Azure monitor for containers with Azure portal now supports new Kubernetes resource view. In this new view you can diagnose the issue by drilling down to resource types including deployments, pods, and replica sets & see historical data trend and overall usage over time."
+    publishedDateTime: 2020-08-05T23:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/ci-aks-resource-view/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 70
   - title: "Azure Monitor for Containers support for Azure Red Hat OpenShift 4.X & OpenShift 4.X in preview"
     excerpt: ""
     publishedDateTime: 2020-04-29T19:00:03Z

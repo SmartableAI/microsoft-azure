@@ -30,6 +30,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Azure Monitor for containers with Azure Portal now supports Kubernetes resource view"
+    excerpt: "Azure monitor for containers with Azure portal now supports new Kubernetes resource view. In this new view you can diagnose the issue by drilling down to resource types including deployments, pods, and replica sets & see historical data trend and overall usage over time."
+    publishedDateTime: 2020-08-05T23:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/ci-aks-resource-view/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 70
 
 secured: "UzILw02iLMIqtv69+1MAfhu7cRi4O9ClWQuli1VRBbTXzJne6mqFmBfN34lrEEAixyZ211M6F3Nlmfnph6pxj0O63BeIODD9uNV7B8ApymfAWKnsGob8PGXbKXmp4ALV+u9HTZJ+XfQLEOIq0WGfJoyBWKMr3poiV24qlsQB6CeGqdltKKI8OcacALrFi2DJoOChhtFrBVgCZsSSfYNwgP8TreAf0nCuh7pQ9bNLTrS8/94xRt4jKye5MiVrvRO91AcEiNQlHnhbIt95j3QjZCBmPI1h0k4j7NSbnBmsREHAiozfKpLEXYzQv32tIo1YjZonx22jnRnrOG/KfdNT4w==;h7LBv4HRShoFac/uVSxNMA=="
 ---
