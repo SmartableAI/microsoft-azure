@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 43 mins
 ratings:
-  count: 5133
-  average: 4.7469316
-heat: 52
+  count: 5136
+  average: 4.7470794
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Applications and infrastructure migration and modernization"
 
-secured: "rn3wvEHSS1dp5cJuz1DV4bM4zkvEAfYCz93h4dMGEmWErd5pvi1Pe0oeHKGAEHQ3k0DZp18enFWe3h6zsC9A5soVihOqfBGb06x4D7vtfaQmfeQOWbYAHuEtlqqArEvMeYnGDgKGfmBsoCgqWEdSFkNLqNOKYGX4b3xx/xjQ80hcWEq5qobdR0GbLKfgUVyZjMx1l1mirAN5iU+5oCmk/YSLDvLMUtLLJWz7p7ZNMpvaUXk+lu3/+GIV/+NKd98vh6OVyFRbsQ9BGTnmsz1BxuQbsN4v45Fo3/A/bswAjSl/JOlSNQIZSf2rXmCU7n7hvK2IQeXLAZJnQyH616j77fzaNx9oYeQ9/0r1mxi/cMSOVQZNM4fV2VoXNSFYmkqI05eTO5gN3A4pU4uJ+of4/g==;JBA8kpVT7QFuxQberlYBzA=="
+secured: "t76HRgB9SpHbMawBEEF/vRynOzH5K+J0GidKEU1w87VphxnaZKtytdvPtNCAz7cCwE8KR5P4Ou62rUWTSggc5iF985AvYlGzfxoN3s4InqfKZAPMIlCAaeh0pjsOMslGigT8W1w7gbto0dTFcNuc7rHbQ8x/2WJ08ZMqBCjhiCe8S/QhJhkTOCym5uHyqdtRuupHrguq9UFiBur0u4Tmaj9gYTPKkArTN3KX9H6PTrHIk62Pg2wDNu0g7tx2PgkmShgCAySZn54qxcwsQZCnpOKiUOZG1Bur9XXPkiyK1X2Q7R2Irz/2GcP+zDYOfIa42xaJyHFHpxUXyovCQYyCSiHxs+S1la2ZNud233UJOA5W+Yo44XqDUGA6ODilQlF3ZO3VKhjtCeu5A4JAzuNcJw==;cUtS560BmfrvRWqt6/7JMA=="
 ---
 

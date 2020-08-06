@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Create a long-running serverless workflow with Durable Functions"
 
-secured: "BKPERIF2vNfju6N68lX2t1VtSk+lhUM0DZvC+JUZ0odpEKoD9BzQxNXfEVX1bA1zg6BiRly7dK29poWlNR5RrajGbwnQ+vbIOZX6Wos/tsuT2/Xji4bO5B32X4sbCP+i0zDiocUV7+M4Cr7U3BEGEVg8OMcuxvEM9RryVULLYcwMrD/0xjx9ojsRmxUcFA/Rh7WmfvAff3B0Yz+9STMruc/qeQkAQFePipKerl276+b8PuQEx596pLHEmuDsFmjAHKIGeGsPqgRg81srec2ita2wXOtbduB1PZrGyRoh0q3ELqWAbbHe06Povz5bmpHCQ3Vf1eZ8LQ/Voe4VH8LS27Zsegv1MZMaGT0dOi4/5EVHK16iiB7KE4Hj74HsC9Dvu9U/hYVtJOYpRYPKhn9MZA==;zXKQt/++VG3d2MyFzINICg=="
+secured: "ycleMK2m82tPCz2gNEupNyOUfdwQfIDPw0+wsJSuAFU4XwF0hWOoteqOTpkfLltYY7bEW9ENEGZx2HJTR3MxVn4THfzZ6eUJ3oCYx5CWMKhTgkrEIYrRUD2iZw5Pp4Nth3+9R+IGjaPETGGKucaL9/uvqTVpbCwWhbeGRmw/Rk8gwf7OI+Jlhi7h0v5RoDGM1ucPY1aX+Z2FbR+GvUwMmAMY2jPyG3R3iGeZRcMV9K7l5oZIGKBuvH3Ff4e+QPgO+datln+F8HdIHhq1nv6qAGmQLjPOOGpeODN1lT750gIn7aoX540veeD1k/k4Zl3PhF8qtL1CW0kY8Pn4/DFoU2b/UjUAnUKhgbpm3Ad5k4v261DST5ishBkyiWShChexUNwB5E7/Z1blYq0z2gIl4A==;rBtsGYOll5HnV8WEMWa9FA=="
 ---
 

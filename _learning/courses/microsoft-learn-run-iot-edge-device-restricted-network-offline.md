@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT2H5M
 ratings:
-  count: 5
-  average: 4.8
+  count: 6
+  average: 4.8333335
 heat: 50
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Run an IoT Edge device in a restricted network and offline"
 
-secured: "BX6PLubNBy7OBFFf984zxGP2pS6I6aXwrppSvkKnORRnfxpNc4hc70A9DC1WUFV0rc08t1KVa5wfgBvePI6isVOoXJI08gFPU/Df2f+IClSERtN4eUdYJtau0E/1lABJVl9542dGUyPCXuHb+S04znGZXblNYikxucvh8t8pS920E/DC/K+SN0rnY/+R21XA3WHqPkOdXZTkjLeR3fm7i+b5BkBOHBznjvJtmYDeL631gZLeL1qwKz0t9wA0+35hNqNHEDpU8ZEXGmRPr+S3N9s77jIzc/4Q+DrkaPDWFXypBQNdLBz7gzwBOvH57i0TfAJgK+PIJSkALW7nrUeEYr/jYVW+qrIi5+Snsgp2WhLUSTVSN6eaFnzDXu+FLIBWaBgI+PM2U9bEL8podDPWhA==;4pXMpl/qh6lSHiJRG2prNg=="
+secured: "i7oICOkrx0liJ8OXC06ms5sLe5z9y9Hi2k5xuLdq3VOBjkYqGvO50rRz+UhrA59wcEkFB3q7NRTsAvMo0o5LfFSsVbJWLzCLRojVcZlbUSdDGDUaeBeGLcRy2FaFw+KgOnV2x8NPw8kp6xVe992wi6TY1moC/Z8GA2WOLCgIJEuITMSikOySiMILVdD53TrMIStS06ETeqBuaSUKSstAz3DVXsCipSoWHh1j61OO1msxGVE8+zAX4ExstvDY7eSo0OsT/8MeG0aSEr/Eu8amitU9JZz7p2JK7rHkx8tWBnn+/jcybpOunwekh6TiwdjnGoJ/CxE8Jmk3MZkvV82bxAtmGiS2lGW/ajQ2Z2LBTu0pdojv/fSzX/b2hetodJ1W5liHitd4QFcORZM+J62FSQ==;rHpND/rMS6SotCzLuMOLUQ=="
 ---
 

@@ -8,7 +8,7 @@ length: PT34M
 ratings:
   count: 163
   average: 4.6871166
-heat: 51
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Learn the data science method"
 
-secured: "IRCuwU/WjDuUBdih931XJ3OGSJlUc5U/+OcUNQy6TNJIwAEg0uiEAxrOseTR9evuRumwNPdLsjKufGCCVXSs+gVJOHE8v+kOl6mKYzh+xEq4h4Upp4JumjjhFgW5LmN53UoLDbRFgV6toe6di7i4Qq0Vctyf8/yKKMgXn8d7VM5BLC3pc+77qeS0BYjDdy+EYQpYcsIFWQpAPXCdlEzBZG4n7B5PSVs+G3VftqJajkjEdIT5zU0Vzq8PcEEz5gss0kMXKKgZGnEPcHPk6S0wi27fLBE8LuW9ufuKF1b6UHig65VzHTmYk4IhNuzhz4kh6BFgV2nqIlzPWF5NAqIr2AuDDL0P693MsPLOPISE7Ts2xODBUL79VExL38g8aOHb0PTehmv+mB6N4cqhrGT1FA==;BOeXk9S013a3sfqG+Kh0lQ=="
+secured: "URIupSspfKi6JS8WZMr9ABLIpDktl2w6dZcu/EDt4PJqeOKQtN9whJOJHwIXlgoPaI6KUJOeX+kdISsHUyigQt3PvsSnsafCZb9p2QXB7mgFV3LgB+5Pohdtu3LWFnxr5WgDi4CPMPHABLyZIGvDW79NfG7Y9HZtko5SeE9yWtQIg1vHo0iUP4KAKvZdovAaZDcAMHJM1pyokPxe3zu8q86smLeY6jirbyk9WzZ4/TdcY/Ukpl7EoHq7/O2ff47AhcuxJ41xE/4tmWFFFDImtY9CL0ol4ThQpuDhbe4qKBvqFNenaTJyYvpqWl/ayfWlOWwG/V4gZzgj2PeQ3waVqx+L60yS8c6JhS1fqoMO88HiPCsUijgeuKM8DImD8ZQzNYUnCm7jgqNJwAMc1X4DHw==;LnR8alk++cAPrprZ90bChg=="
 ---
 

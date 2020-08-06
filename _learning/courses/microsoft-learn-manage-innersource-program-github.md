@@ -8,7 +8,7 @@ length: PT50M
 ratings:
   count: 39
   average: 4.6666665
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Manage an InnerSource program by using GitHub"
 
-secured: "oiAWjUSDuiN+dt5oiXLR3Ryv975RPd1up7gRgA/VMmjyaGntBYn24WvWj6OZ4pkZQ30aBbnizgoTsNK6ecdCJFtgT/H0oCIjGHAOrb1dk2o96NxbCEF23acl+zhvtVYVtUWabg99aJd5z8qoWtiqiZmg5aE1RVJQd1gLadG5JWtmUmYxFsuranuzMN1mxa+wze2rsBR4FDos6HDgoXHhQEODr1FLQSFEK81zO7sI4GnB7p2iyQcV9cqev2wJ+MdlpBwN1cRFXhZnyDzQh8z6qSd8wMhQK9Yku9S4yotLidaYhwFlw3P/IyyNVVjIWiPeROShGWJvjbrR8amxL/mwJxSTei1LxYGzhnU6wcEdfBoFe6Vu5M6Z0JP0ihVlqD44w1WOCnozT8BA4I+oUJwQNA==;XieQQx/9a4rrjBMd1xE8Ug=="
+secured: "1s4mEGC3FRSZnvspxWIr2AY/iuO6Io+akEpY8Uiqsnj+fW9idJ9xl+q4L0kiE/0KyjOQYfKEnKlQseIGtQkdZMrqQk8JMGYAS4/qwymvsoCHC7ovJmudL8Q/rAofx+vQ8twbAf7kboy77B1Dt9jdBMnAiOGeqJdnqfifmf21tODieHQO88nAu22UdGTwoKtJnd3LCEmW1TrnFfodocsx5S8t/FtNuFl3Dh9YxQgfS3dcpcvYsVTb2JiuFpSn3BRmtcKcHoB0TsxCU9xb3q3jYAFJ+ky2F1RkQkHIc1lBXmAkBeUO33iMCeo1fnr3RghzME8PeDKWS31GDJr27u5dv8d5euwqd2xSfvn+2wxSsgwB+21CBZ68fYa1uT4GZeSWpPnXYTZ6+Kv/QvboM+i0rw==;N5siPxDOqj5GY554NuCxAA=="
 ---
 

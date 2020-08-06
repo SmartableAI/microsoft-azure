@@ -8,7 +8,7 @@ length: 29 mins
 ratings:
   count: 120
   average: 4.8
-heat: 53
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Analyze text with the Text Analytics service"
 
-secured: "LVAxpuntsc6e2HHWxdGd99bQ6kJOplC/HUGfvPQBmQIibkTpG6iDSGqt7cxa5efwakP/hzR1KP/ARHfBXWyjL8uJ+qPgYUnhuvOvFnhS2nv9yXPy5T2P7AR10oYRgaWW1Fe3dBNAnMUZ9QGbzE6ljoW8PfJHsdLOL4OKanxDhPeYcWZ/pT9UY1X9W8mpp++37Ed9CL946uib007thrNCmPPW8rFuFwXpdMjNaF6IpAl69O7lj+DGjSIh0m8ZnBRqfxcMFo9tg+PafqTberS0Jme4vbfj8K7+DXHplbjLBq9zO5U2s39jWo3QJeaJFL4cJxTf3ZbYboqJy/H8OrvDBxTCRTIxbBMxxBga6wFysIcBihLd96v0ZE0SVDHGmqBTfUuz1pESdA4PWRQUaIusgw==;TLWcTv1nSYgGB8CwTQ/oPA=="
+secured: "whFRTh/FKr2KJ2fD1+dOhIFPlCPJlV0r8sS8A4xvZQrKe6lacmQP615Abjj64Pqm8Fu4ibVV/a0aqWlYgq0tlHBcp4yyo17O/VIxvSDpCMMe6y0ar+KQerpssExC58WSNlcZCkULAqRDvcbmQ/q0Sy77rjlywatQCgm2xYG7o9T+M789qR3cRGHS7ksX4uDTU0QXSKivfdTHWhc416vbgnlDTaYwNqDEA0hkk7f0Tpfn0pF6ZMWjwzYdlcgWRg9mh0HN000cC5GG7zssCZ/YHtJBkKHISfYvxSdrTH3chu3iUr7IbrNqe3n4fu3Nj94k5f9T9E19qRk2fvb6K/emgRMH6cwKyQxXS3E6bRro4LjITaUkOjZ8Ic95sS1qLCu0MtQL8ZfrwzHLSYNp4oTYBQ==;yQeaU2ugDRpYU3WXXwoXPw=="
 ---
 

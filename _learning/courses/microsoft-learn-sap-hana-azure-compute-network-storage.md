@@ -8,7 +8,7 @@ length: 52 mins
 ratings:
   count: 210
   average: 4.733333
-heat: 53
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "SAP HANA on Azure Compute, Network, and Storage"
 
-secured: "menwMGd3MIe4rjyF0hgq5rjIx63nphkwyGC5ryIMFLBUDYTUVq5mw1quA3v1440EyMrOMAjb9n80Tn3hRhPxTyWug5HCjgv1xDUrWJuEhpRgJ+85PneuZWYmjg8hzPbA39PpYwES9IGn6UiVsgwuT7XD1rukN6nzQQHMUxvBbseJ2AFNHvoUexitm35j4uHemt6E3XECknKtW5CEaHhRNPv0Qh9I1caRgz0T62zd6aPJ43ploaZ0qJSO7PsucrJjKnHqwENvyRUrwFl9lmsBv5kuH+C4svsF/UDgYhxKtqEAy9U2egdCumiibN/GLbuXXzS6ChBrJ1DmKnjr+nkHNUa8jqpVEsusFanCbbOwPp1Pnos46tjxSqEQ89QWYA2w5H4rOUN/66hRVjcb7N528w==;upYVHh87p3/Q9GSfTY4bFg=="
+secured: "o/y/ydgwr+5uRxMq38b5tGQh7IBRajkOvuAJWQdJso+3YfmcCEzSE8UvWcec5EHOW2yFbU1CT/UazW/bS2RNj3UN84Keuy+6NCbvWu+mCn2zpCsPa1jKqGk268gRwGoKNldRcnxO/f6r2gROrRPtlDu4QJAEp1fjAjtUGh1NFuTL6JGkbE4JV6d2wo1N1r+8bhX6aYyK7qtnlY9w0KxtxzZsZGjOpm9ykFwmCJegOEBXmiH8AIVTHXDDTJ3qNZAc1wfBchGVO4skJx00ttkMXz3ITSTNJyUCIIGPmcTHZoMuw01FsFz4bagqGlu20K6jRtN5clkv80Zu1pG/r6MxBw8MffhRkd6PNsOaZX6+OCT3Zlo5FKVYnymdVfu9KxgVTlOsdgdzXBKS+ypltvRqGQ==;nUIRE+Rum9NtWP6GQqcotw=="
 ---
 

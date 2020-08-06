@@ -8,7 +8,7 @@ length: 47 mins
 ratings:
   count: 524
   average: 4.6011453
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Dynamically meet changing web app performance requirements with autoscale rules"
 
-secured: "INBJqH29SQs4LYbfabrA1V8oniaqn48u/cWJ1YFPW1WiwJ0rAbet8YRBTreA3qvTDiyFOU3iN9JLsg/KCWHwJk7lrxd7SMkmjgH0a+otUadfwe0dEPyekPYFXH6dn05/Vg8cIKwxI+EMYz00sED++EyRxdOYn9STRaeUgEjbdhO/3JWBiFFd1+OoGyN2Sz5s3c4secAwrmpFPsqQk3MwkFBW7Uvqmacbsd2Yo7IlJB2j79JjchyOXQensxRv82zEjYyVaKzzmBzI3QyWmTzzepJBfTSJhmZ9i8Nb0RttEcdO3MHCqP/dTx9fVKYoj9FSX9zeN6jLrcsXugIffj+z9ua9/DCCOcDvxi/VSgo1YdM5VQF05JTFzP8ni3P62e0oyqgKhTtZzgjYtBkl5aJqOA==;sDyAwrG4/54da4JMpTrQCQ=="
+secured: "+Ux0Jpxd6QpfqbGAiIu+DNqHYgNOnUHSRwFy+JebgecoKjZogV9lngRazXmkQ5GzNpW6HBdfuY0IlVBD8pRK4uwbx2AIiCXm3xn9a8IDhRAcnc6QxKSXubyzwRTi6bUid6i7s2wvH1Cdojto7Bv4vPRtw1aM8apxsbUZwkIkMHT5h1l6DoMSSw46D2Z0LQjXlUmqT6zBp1hWrQ4B7k34HErdaJFpqTKrVp7zoqWpYBOumJE9KYBi/iDL+v5zbMnxkgNrxuZgybBeUqYP5I0Q6nXNQtOess6v8GdOf1dLLMqXbCXo4TN6tOlzJra9QOHanBQ4GT/pkIiPuS/C3lewZ+Xks5quS73NZEZLxkxHF5FRV+RpRoioq9TO/FPXemR3oHWbB2EQctzZk2xyY8dErQ==;iLWHVRG80W0hCy60y5VLYw=="
 ---
 

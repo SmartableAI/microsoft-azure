@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Create a multistage pipeline by using Azure Pipelines"
 
-secured: "qZO54G5nFcePB5J5MKJ9+4F5KmQPyWdklPHmcBiSZ2idpzHrZrwupAi4IzdVNky92NOgf7gpADJworm0nKy7zH48IJ4Y6YfGxilDRQXsuNl+IXCPHov8mpgxYuPEbUsZ6TPDx+FKBzrWQienTJqs3RUBAT4YlzrT1fHEcKhkMO/eyy2HjN0jurRLa7ZUAB2cD0JJ4W77gr1WIgNepw9xo4NOViOaDWSvaloARq9//4TQ+CURYqnJiKbWz3iOgO5u/UR/gK3+777pZBEAGmckBv6THjGusQY81EyyEl3b1F6B/wU2ex3F/2YGOinWYtIKcTZnVUOsyF2U94R0ayoAej68izm7LfNocsCKjVXG0o+Luo+HvEUGqs3Mk+c85BUQh0GTtIi+ojB49BTDWxJIyA==;1yqwxnOn2aLzngBYf6EeAw=="
+secured: "mKyiuJS5zknPkowmSjgV3q6bIagADJCRfl/21OP4qCMupiGmcTcondlaDzJCLnLXyIL3Uo/W81R+to37s/zg4XeQRdztIWh6FojFgsdrciFbxGttv/TfnE140fPc0QyUxDSDwX/yfTVZC+O/QpgerqZnRNhi4J+OZIQjFy6ssBdTAqytxC5tipBw1G1e9bkioIxBuAC+8hC/+9VLjnKnAcvWd9GogdGTL3KQFxR21j9DgqZVrIFxe3sQ38xF528vowwxkZ8haHxu03TqJKlB/li+f2IFygjOKjFPPn9SYy4kH0xAy1nGIlJ7ueDQw7I1UU0H4qjqTYH6B3LhTT66CpsFZx41gJPUMfTq/iud9a3qfae4xHhKRAZQ5KNkbP7J3YjMR6yfaOacor2o9fbFWQ==;YdGozJtF80E+DJ97jhJvZw=="
 ---
 

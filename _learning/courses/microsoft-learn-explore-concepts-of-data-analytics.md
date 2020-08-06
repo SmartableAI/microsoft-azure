@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT16M
 ratings:
-  count: 186
-  average: 4.795699
-heat: 60
+  count: 188
+  average: 4.7978725
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Explore concepts of data analytics"
 
-secured: "a1dWC6U45EASlCrA5EvcLOQqcl1KzSueMT9RZa/kJq68q3FKM6rNzpXMpaPBffb1qon7iNlcQ3do+0ltwQFqBElD5cSgkk4aj0Ls2Hx0oXWfP4Hc54Ud4G1g56wH/bAbKZmA1dfl36+hHRlMTs1+anrCA2fzlwu8GX3lmUtUGEeTSP39Cptj1ab9uvHyZBCqQrHwtEZHgRByuC1oHYYa+SvF7V+GVmBR3muUIlDoMzyGZMaizWvYh085pGbR75B6AUh36DmJGRBimkDKUadrEgFtDlFC+g/XQ5zRxuEX2ZXMNI/kzwjIoO7x/7oPXTv2pZdxPJu/nShILALL6NQmjkLgBmRzwmFKqMHLcvMvK1Lu0O2DKO8esyaAHZfQklNPpRA7Eprgtjc9e2xS/rqLIA==;6CXb16BPXTulnc9X3mwJ7w=="
+secured: "HE8HTtmP0ZjratT15Cjypbafoo57+aBQBbTbteydHatSHCHAWoC8pOb93jGynmRQAD5wAUW4PLUVaFfAF8UlOmpK+27uXxyG9G2MPPamP43XgRxl4fTGoELXaHhXWMNZJwepHx45efA31wjXRCDcxrbx9c6KoMdPp7c+Gg+nymC2T46OXn21O7OZNAGOKaK8j283k+2nDPc31MXlNi1nKLDzrJH6IpWmZ3XsWxPCjWfdTVGNVpYlIONwPHdNCJ4wOO9FCmvQauLuv5OKKJDypVNiAtD9KUqukqoaj/hgyVg2TOVtzuqda/MdcaOor6iVNIg4711+4vTBgwjTaQdra86RJQmatx/wNzhlK+/2HseON9hC1E4tgE4gOM/0WZWBUO81aWweO+qCPBZJx7tcOA==;9R6444P4KmKBcIdUw84FHA=="
 ---
 

@@ -8,7 +8,7 @@ length: PT1H28M
 ratings:
   count: 86
   average: 4.616279
-heat: 52
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduction to Python using the datascience library"
 
-secured: "DSLMX4jqmeE1hYJVBElTlEz9SAfaCngwDS9SWRmci5lBiUnor8dOUb/3zOK5srcTvQMJLY4+rMQcGPlnb1d62Rcr1V8BynFh5m8XoLdu4Cj4c9BlS1iLg+coDT88HeEJMJxlVVO3IazY2Fp5IUacUZDdAJXAjAJ8O5c5/SF+TcCKvi2lvmObkE89zbknLK3hdzogA8NIRpIWUZIxyBkL+MzOeVbyuFyjlGjcY94B/7I9UbgG3JzzdJoYiArkve8WLYEZi6l7+OsVpzu41Wn5xDP+tXMCDHy3+gwTyMRrZLNv8Za7+1dqRjQI4AF6fAvOhx1GdCnWJMT9gCnHvrcGV15U/fvsEfAtHBXyD46BYQDBBngfb/sOHgsd9nnt5DtMos3dkOlPpD4Z8b31pKcV1w==;aUrGFqIp6BTUIBCDguar9w=="
+secured: "4o8OBG0kOldcVy+SJC1oSaCeKUBogwYO/VEu/ULETdEqF+5u5biLgJiE6/iDU+2wgLF6a90blvi1lpZlg+vvCo73XFEgVvP0NsYr+JEOGlDcK8SMfbfx+ef2c9E+9/0LwsBo5H2y9OPkau1xHCwR9YfCxK5u9rt5vl3C140yXWQ7FxYAnhXB1sCn8m2q0Se94pTLJkf+j4ZJwZcIG5IUBhrxekCECWBjdvvIGsvA6jEM65oIzWP7xYjGjRwhRW924ZiMgHzeyugLxVdUEViC1MBBOJJwz8HTdpX0LbU5ZBvvirUyI+hXrQsGqe24qPyXKj+LSW+VXQGr6XxvHXqLiBB23ah4uRe/adRdaVOlrQXhWn3VQaoM18U2H2Gn/0HTJwzjC7Dm9z1nocJqR2RuXg==;lSSgggrV/8sgvCQ/bZGZtQ=="
 ---
 

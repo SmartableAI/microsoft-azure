@@ -8,7 +8,7 @@ length: PT48M
 ratings:
   count: 133
   average: 4.766917
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Create your first Q# program by using the Quantum Development Kit"
 
-secured: "GbigdDnV4FuxjwfsGcD6Yeca/88EYTAWuLOrK32oGBQpmeEsCTwseHPz2ucJSm66svr7mOLf/5MQFf8cvlb+nuSHGZTZWmQU0XhJDFgr5irQ56Nn1rwAVgE/6VkwOEUVKGPJOYjYA/+++5otqWP2S4nWpGC89kIfHBrXGEvTQgmmUY3joUXxOlN/jaZr5Vrq5yoxVB35f8DouOKdPZxNFo8n+AFpbK/uzTujsL2K9HkGAfRptnrllvHvcI4gUZUWatcgHc0NgNY6746metO0HtXFH3Yj/woL3jbPM9fUM9tGC3fKayjMnLz6s42vooOv4kdFiuCyEcH38SMGsAneT211PvPyWkcEfOHxI1sM7WpzJU95k3tjE7GW010ZbwV9SQ9eqtHVMZq1K6yypm7Mkg==;Oskn5j0evR/gJ9Oz1E5m0A=="
+secured: "CWqD6GWG9lnU6pp4pq/0JeAryIcOqtPJy9IrleYkklIuWzb96Mucrx/vGFkie83AXuS2lMjYVRC282aqtCynDFzF6SJ7OGIEa3c5H/j7BJjFwq7RNxtFD1nL/iliQroHrkcmMZfqYh2ayYnQbhDUXceRF5zrtPxtBpa+PAnwOKSnutcf1ddOSTN3j40GiTeTXGS00VLW/+VUtaSFxCZ0NsvSlpV/Tls9kIOsadc9GEuuk87nTmpuBOj2hTlxH8V+ISuXqrakXc31Zbz/xyvk/zKEvCcbNDlzQ9GmkJNCU/bV80WhYNdmjwa1XjkMalljfEofQ9yek8AtTvFIIMHSDb7JSNJHnmQrzYbGc5gG6sYgEceH5VSIRNH7lJW76r4VTRddw87xgTmc0cfw5Gd20w==;sUqD3oV1/u9odT4d20biVQ=="
 ---
 

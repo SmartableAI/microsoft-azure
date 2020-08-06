@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT19M
 ratings:
-  count: 56
-  average: 4.696429
-heat: 50
+  count: 57
+  average: 4.7017546
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Introduction to Azure Migrate for server migration"
 
-secured: "NyChy2eOwxoWkGL/prV+UXqFm3psVmsV66FQDUAutS0UAxY9Y3H8M8x8D4Yuizsss+SwwiW2Xhn4VnosIGuCP7tzzyP812/l6yjbTa01LMyF9a9EcnUuTtNfLiVoxBBLV+XYDds5Qv8N0u/0Rl2sWV41rjoi4LXyFcMbAljDbOX4wpJd5BGm5WVOOMPB2dVd2QsShIO7vrMjLn9Vj+qsKlLyXIZB7rveWS9QG5mtQYy28WwgIKLMMuePPM462MagvW7qAHtBfGv+teFvKsNty8OHSRvV+q7iCnLgrhc5GhCdAJ6NYqnFVebIc/qaI0rmaTZkcVTBq0peyj5V1xIOUHN5vPSMi1xymfgzIYlWjHeLyouIKTGdbCXTlabKd2IFo271RzwA44y47pclpqoZ6Q==;srqTyPfGiW/mUrqXIBRFAA=="
+secured: "TbAIyfL4DgNYBF4HYYvZjcv/SFNzwMWD18KgkKi9qOBR6yPDV/rmGqOSIPBOpNW6lketGdJQzOV2/7DfY6Mf2DXfoq7Ow3kgBNx0XRoAjLvbPmiDLfF+g5O9mXsu+6d2RqLXxFcmIWLx83MnFj5lrMOM33PhvFJaussQNEx4pu5zKMTOf2QzFebnZP+SExdn9Qs8pXqWAonnuNqzw0W4SySwayBj7KI58Ap/uWmcOWNQ7E2lVy6Bq8xP1/Fq18/jGrczHMXp5XGrgMb2g6JnTXjIXSdpBIFrMdDcRHANu0puM629L7u6KIj1P6dcphElQBj/SBAXFPEasKCX8Mu9Rld+bu8SZxqOpEM7xzoi2jvspE+LOEFupUqZdGz23ACRBN/YtoSOyZpKHUwUcKxmZA==;2VL4jg98TnwziokzITgsRw=="
 ---
 

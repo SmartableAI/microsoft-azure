@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 44 mins
 ratings:
-  count: 8724
-  average: 4.564191
-heat: 77
+  count: 8728
+  average: 4.563932
+heat: 83
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Choose the best Azure service to automate your business processes"
 
-secured: "mfq9vcj5oVR3S3rA+ElApDVBZ4KplIG3yc2WCDanz23znuJblMfzhNTvmAADFh6RY1BePvUFqn4SDyMuiEg6boeefI5Pi/zQ1WumT/5vNwnU4CKdCoiNum/VbC8Llw/t5R6IgURoovCdZYp5NUYv6qdoZg5Cln0wuixQtY/MRNgkTVnKxMufTCNANWp6GWduJgMLHWCP3Re1wXk6+8I3ldeSw4gYRXTcKP4Xv77bZdQsC6aVKv7ekuYDx8jeMi/Tf5rfFyEPttdSFBPbwjpH9X3aO96wOZxLi3q7/RdMLRnUmjpa3l/HP3vDZ4NYpRSoIecdfgRau9JMqckTzao3h1oniGRbbzLjwOTWVJtrS0OMCuy+ib4k2h+Hn9+WlcgSTlXJOoyVcmvyPJFHgBxiDQ==;9YlDiGQM9nHiue7HAeyJQg=="
+secured: "uiFdrcmV/583RtakZY9HUI/wuL14C3MPTtAKWKBDKaalnQUFbjjOfLMa3X5Gk6ioQqQWSUmKj0HB0ff6Vv5/gG5LmstI91czdo+Slabx2TMLD8JcGULc2FoCrQeqgRyLphP3LuEPfalDnEtjpuBauC/patCevUID4jkIKR4vb+N/NHl45DspKNAOgwYscwaRbS3kA36v9stJln5AbsN302x8FwPc+LtpdsrZJskXU7bFs0HE7QSBZpMjjZs8/YMULAimiYqPKQoagfYqzMFU6GNTfcwHrw6Lv6Qc6yXgVXXy3T5w4RyN6TvCloz4H6Weqs/3PxOk5aOpd7EI/GibZV+qCto1CLNLkLbxneAsuq8BCCpHEaMNJ8S9yPSCEIbImY4qYTHnFY5DlrqE36pcKA==;ERwMqMvslMMtCL1QXQ8iXw=="
 ---
 

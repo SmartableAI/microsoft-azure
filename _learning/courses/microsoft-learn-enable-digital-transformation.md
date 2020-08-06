@@ -8,7 +8,7 @@ length: 24 mins
 ratings:
   count: 7908
   average: 4.698154
-heat: 64
+heat: 66
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Enabling digital transformation"
 
-secured: "OJczSuwizUmWxM8VdVyS34kMtcd8dqejmYozwOL0snyct9+qPdSWObX1QudXbb8bx6sqLczZ6aNoD8IxMsEFLf+P3Y3OWGfPFLeFK5aoWdvaRFMwbMGe/36VaCf+H6X4VEM/wzdxYWKPM9TMuc8NxS/gjy7YMle9kMbK1pCAqtOsNKsPX4Rta5F+ihm0admtlveuTDjJ0Kqb8Nnt6odmqQ3MzmMmJ+EvtPNOxS5/wfCKWoaLZPRvk8sfCpUn4g11FcCTc+2p1Y+3K1mT6pMOzL9ESApwUTpVWEeY7FvuneRXLtav5rdEKoM1WUBJfz6SgJ77bzdN2F1DwflDw1KzxzN9OIhfV/6uZXGTKW7xdi/GWYacTCgtJHvb36rTGTuwpYkxmD/E0SLPhhPJ9nU8Eg==;VK33cV0/wErnHhArbyP4RA=="
+secured: "ULH69TjM22Ma+vdkgZhaf0x+Mrqdig36ePOhlk7sg29qccAYhjahKSE+z7FciYAREl6G4Nxt2CxpRrI3sWCBnoXDHyVbXAxlhII9a9dMVnhK9dvZm51cyw12BVZ8vIgRG49pyvePdDNMDncb5n3aPMLV95ha5P/NNL8Op5bkTWqeIuV414tqtowJcpSyUr7UsaOdLJYnXf431LBpJysCqXDtH/h1H39ytAFhod2c3vi+8PcKTii5sAkSbRyg7ST8G2n+tYuGqA3Uv/YhCuqzkI70vVIKZtf5w9cWqqigtcFVXl+S+8wLUG/QdCVPkO4ID3UcBNTt6czCmZOM+UrNZp540j9ASs5zEarYNlOhA7TTOPqQw6aOJqRYDh5gi3s3w31lHnK2FMGvycdpmiW2QA==;ZEcGvI6V6i1ujp+rybr90w=="
 ---
 

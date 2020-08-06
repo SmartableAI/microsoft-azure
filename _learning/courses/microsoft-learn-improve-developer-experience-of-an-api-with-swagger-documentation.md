@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Improve the developer experience of an API with Swagger documentation"
 
-secured: "n3v+rWvm2bL+5xrwciGw8FGhhGqgc3P33xD3tECBGdX9zX5uo0llVGu2qW9TeBYSd4ysMS/U69GU87ZIds6dGDgYlTTm9H1f3oDf7b1+aUID5x24gIOArwY9yv/8YyELGtYrwjrdd7Fz2AO64U9ddhOsPM/Bzab2OkCTPz1+lb8sxuyfpdZDfkiCKfwPYUi57RjL6ONIfdzEyDBMQkyY85dikgC833+FKLEy7NGDcVEI/zr11GzczDJx8CpOt4dSuTr68LBJUr2JxkvFEV17mClJm8y6tLZGmra5X3CIvsPGuY0ekmfsFXjWD1Be70QjCEYy02YHPpM/e30FA+L04tjlcYyIdetLzUAgHGKOBs3eTxbeSHmyO0/AoLgTw92yOIEKrvB8CxIrHGwEjcmCSg==;VZAM4U5j/viZ34Ing4P+Ww=="
+secured: "zoLtEApvnI5DgdzKCcrIYy6P8r/OcBMBTwnHgW/y1TZVUJuMNEEKUgHKvze+GzrF131UMMBJT8QyzidGwd/bsl29Cr+ViY9b74p+zJkjvBT6rtvtMWkFvYyGXDwHrLlFQtbfcZ5dcKyocJcMi2NKDeRiOachgM+LRGOR7pNb+/VaXfCjCzAMXecgQ8pdkQugLnZbLYUNLblJLrpRJKu1+WAUvbRrk7axr0hma8JPUx2HCLKNKLFcJc4cX6/UuJG0RnaCftXzbkO+9hS20S9I3WqUrkcd6cZBJ7pGEr93pfbaxYOkd+qnjS/s71LNBHITIzBAWbfb/9fQpJay1qo0IYeCoVHJvT2J/7+hAMYt7WAzAg6ADyXc1oFpcxhlhQgMYU61W8/QMeTpBwTCMx7FOA==;gJZsye6OF4Df2YquKM1CHw=="
 ---
 
