@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Improve the performance of an API by adding a caching policy in Azure API Management"
 
-secured: "BtsR4MLjfuSUpqjtIXrNWnvcG4wf55i3k3XFm1UmI0DVRqzXOeldkLYgyJs358dkFFOJz9U/KdJRbK9KjW7CfCRjkaeKRP6DJAcniu25nY5FmpXjOBa9v1uXo1ZNqLF0VYo/YvSBKaYkn17aUpCnVwtPi2FWKydYTAdjH/wDBgJB691v1br740qrRbuiQzHVhTo1uz5xaDy6vnGEK1ONIPQsQBH8PDkjHkGN1y6+4yCHyrPQknSJSZSfpt6ZORjYruubBWqJIm3SVmHOYxba4o34HOcXyTLYAKB8nCRmOyvIdVK8V7AFs+alnHmFTtELjobksJXottqAYO0A1FKt31DMwQlyrMg5AvggXLW/96GcUjcderlfuR5PWbxvUBlB1EIaIlHIdwJX/r2NrkFP+A==;UczXwDLDh/Lf/u4W586ZTQ=="
+secured: "ZiU+2qqI4tbXZYZY5s04JVG/JxaEb7hJkfrYRm/jVofyVCmwtjxW8Bikxb1VtZ/jWSRPLbAm5sdUHB+qh9driQhQXhMl5UWCHj1OPb8S4/olplEyFHS7ZcWmMcyWTLsxUitVBNGcG9vrMQz2Ms/xZVuG9UZt/G/lETxls5TsqESgdRHQeS8HWUaq9PIOZToNZiB+S13RU8HNp5OTWrz/Zk3DEAJSwinzfJc/ng8+1ghlD9VzGkP8KVabUO4YzM8Zt/Vp5qOZWb2oSIMjY19/4JdGCbkujN+uezbKIl0YGdniTkTFZc+JYooj/FAiAGBLTqWbaTz4nOj6l0h+6cYuGrj3HIneGLrI+zwmfcsy+0m7V9ZHNJiwssXAuOK+ebSza5tHjzYGobSpnrH+HqoGAA==;LHWXqV0R5nv0I3EEhZ/Sdg=="
 ---
 

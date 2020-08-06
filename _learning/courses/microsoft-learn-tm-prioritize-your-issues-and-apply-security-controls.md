@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 14 mins
 ratings:
-  count: 152
-  average: 4.7105265
-heat: 50
+  count: 153
+  average: 4.6993465
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -38,6 +38,6 @@ images:
     isCached: true
     title: "Prioritize your issues and apply security controls"
 
-secured: "wlI6ZfWMN2G53Qa5ai8j5graZhqE9GsQXAePgGnPObV5HIFzLSzqKaeP6Tz6x0/IinBrZBXKh9Owxr8ypm2gRqjSww0KPyRcWbT9jnBJ5PKqg6LoA868fUUfjR43GkHE+wkKbaFYawk64pT1tF0HxsSc7KktQIzt3P+c4hW456F7XwHqT54rzlh5WIm/KTKvD7BZyQazeCpauirC5MEb799TIyoYDUsKPGXIBXUNGMBFMw3EuGw5pEH7tQTdGVOBU4gBGvJA6NFs39PLRQYKuXKhXGPCwHa3wYZszfmq2Y53OkNZ7qz0pWr+/GM69mUnotlSjUsPGvmixfej854FejO0Gm/iiuCxSCKFlDOm+AYjCHvOJyiB3FBbYsVp9MtOolNfh6+EXHF2KTP9tK+wlA==;Ocn4JTQp7EbubpHs1Pjolw=="
+secured: "ANWiuwcLG6Qtvn473Xn8S7diiVCKno/4vaZoEjtuYIkrYxxgLpRDSu+XA/klmRwjM/3YRDcVs46EYU3xKB5ZMtrtlo2GpK5VNI0Ue8IiDF222QEWyXoNBzeYq9NXxFZ/yQX60JRXViQJ0M2c0tq9hQ0A2gBzqA1S1cw9Hx9Ao8ooHYMQaIHsT08svArF8KwHYfNzBerh4HaehjM8Si1kfcrsfnk87XosG1VoWydhq+7h9lQxM1N2VgJuypJHDr16WBy++FZmJJKK0Ecy1ZpJit0+naqDA4kh11q9jFeLVXeVYejFIELMkbTu+OurKDudDMPL5RQ1Ue6eMgNCU7fnzpK1qExbD7POyEc5lhG/TpAerZp11pwFSL8ilp8E6wqorG6LM7HBah04kePBBdNeoA==;CUEJEllulXvYh36do/PJgQ=="
 ---
 
