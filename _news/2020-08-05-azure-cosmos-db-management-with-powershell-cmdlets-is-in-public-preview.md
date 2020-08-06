@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-05T16:00:03Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-management-with-powershell-cmdlets-is-in-public-preview/"
 type: article
 quality: 77
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -21,6 +21,15 @@ topics:
   - Azure
 
 related:
+  - title: "Selective disks backup for Azure Virtual Machine is in public preview"
+    excerpt: "Optimize your costs and enjoy faster backup and restore operations by selectively backing up a subset of the data disks in a VM."
+    publishedDateTime: 2020-08-06T18:00:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/selective-disks-backup-for-azure-virtual-machine-is-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Kubernetes resource view is in public preview"
     excerpt: "Kubernetes resource view allows developers to use point and click navigation to see live, in-depth details of their workloads."
     publishedDateTime: 2020-08-05T16:00:01Z
