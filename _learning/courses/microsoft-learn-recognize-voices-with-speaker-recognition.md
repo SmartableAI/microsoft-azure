@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Recognize specific voices with the Speaker Recognition APIs in Azure Cognitive Services"
 
-secured: "wd1Ep6aR/IWUL+WrCwti99LwFkb2iNrDFNgCC4WCDwWHXRwPDKBo6vJXWh2qsOROoEef4ObSJMuPMuYjmJYEpVASOxK4fJJEPqp/dIaK9U+EBKNippnYIXw/pamD6XBr0lyFwTJSBDJpx8HXD5Vvrq8WRZIhMNHbPIp+NV/RmtAJNFOIjqCepIyDuQCaCTc7b1WQYu2uYYCNouss/jJdjP9CQgTMq8i5fl0RGdpeNZ/dQRr956QkAsr0jpA9SV0oDI6rxiBhv0KWFIkCi5tBCJU+3LGuBf5/nHZ1U3rjKdBkby9e/ye8o0ipAycvbtLpHx5LmFCFRuCnKzBUO2XOzCX8Q4cdAp9hsXxny8ImXPp8+7XqOy/5yDcmda9CKLb+AT+aUZoooUopUbk/w3rgVA==;KHsJWB+wNM6vBkBWPlhQ7Q=="
+secured: "vErPdgWWZCbE8sIiNzmumTIpBTTWxOvSn03T/dglQcX7cdb0lyRUvqYr8qs4Zmgb/p9bE5AqG9hI0dxVwZcHX+Xu2GikzEEWxnMyPY0GOIxOjxTlGo0qhTx2Rw6s++/ZmPR/LF6CfWPIaHeQB8ZL119Rs6m5rTJhkXoT1au8EGXdOmaryNMc/VLMTwmVOy7s9lVG79zpETne4cpKhHBs37RlhbmQqONlwRm2hQFhNfGP2FXYLq/ztv7s16Wtsoh95uAT87XZKREyysESx1aHtFnoxruQnezgzcGKyC2jfuYbsSwbh3w3v4IEhyrJAzTKkJpO2jH9oFb9kHKhyaEotemsn0I+158zZgJyafCS5Ocw2RYIBrwk+6r+8/glmE/8mgxyl2/00Ifxf1xD63cwtQ==;ztBP+2L4msRDBmOX9EwREw=="
 ---
 
