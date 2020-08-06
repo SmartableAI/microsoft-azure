@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Connect an app to Azure Storage"
 
-secured: "kjmiThEntSP28rHFUZCh3TxHOUYqrsHIPlAk8QZI0e0nJPl9OEpMkzvrilpV1TXxK+5CprTn5i3a05hVCft6ZKY/bKXSJQWNbhHQWjFLPE4pQhLH7ovBHLiiYqNDbQ7TB3hX8sWjC2KJdtTJLnlKgCv/dmXzE+w/xr9VD1eTMIX0U5vutmaKJjz/f8vVTha9ayVqnjtUzRLHdxl8paFWo5sixmRP62gJWRUDuY1oEHt2uey0ypBTYxcBgaRybJhOiGjNEB2d9CBIrUALrTUYcLIzEFJAFVNQbH21G/d/EXMRNqr0h0ld1SCrri3IF5G5w8CD2x28fE/CdVHukYc6IpE1abGy+j0ka35upJnbfkl+l1+RbDKUtKAyej03lRmjmb9xmNBaqF+NNtYaKcJXLQ==;xbVkpAft4uX9EBnnk7j/9A=="
+secured: "YnKi0n+8dSWhEVBfoyt6Qcl/xe5QhYxF3goocpietJoYMudZLiMWYdxt2hdC7/r+c/J/Jy3bfSfnuS3RlzrWsJW51MJtu+HU28kFea5SD0ZUHGhxrmRmAYvBO8zrVv+i4+cvaIbqhYO5NP2CtHt9ceXYo5CYH1FHlXTnB+Sol7RA8ZE4o0SyrFBAZM/QVyjEvvT3NLhRnNf+8cuoK0wBkCH6VrO0KCYvQJ+c6MAySBj2gIolf9GqS0PkjvCUG7wr1dFJVAt+eCYGAeQ1QBMz9a8+gkxIw3Gtw4Gyjnb6Zw+m9FbDb608H9aSYkEUQjyOAK/YWNRdpsypHcEDFkJIN7rGbbGTlMyVf9/hRcHzd5SpiY4cOYM0KJWK9ayJf1AnI7gYYxSdZIN05qpivB73hQ==;snIc73yqj2dYwNfD6JVyrA=="
 ---
 

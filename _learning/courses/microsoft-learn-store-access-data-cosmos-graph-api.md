@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Store and access graph data in Azure Cosmos DB with the Graph API"
 
-secured: "H+0mpSNX825HEYoZpidwbyIzuWGZ+YNCf3Wtg+s9M5M+oxcT7tesdb5fE96FoQsVb8USD+QdYseQ2VYK3ci589IojNhC8Jk1VZvmYsPXd2hS1yBxFrNyGB3p9Ucp1SPBBu+l8SZr9jxd2Dg8vTheSpsQIycm/l3EGIe+D9jNOli53raegy4PCqBYDIZMRgtG1s8HWtB40kLbXyg/BXMPuOwPo+3TxZgejMEpSi+mqRGWOwY8IFBCSYClNgLPR/tDG0SKQiwbplnnRhEdOEIywRIqIue1+gHHz1Wav9YSwI7yZVJEEQZvj82i5l8nh6VZXAvJwZgVKik70Ci409zrOGA/uJ+6WpQRvLQfZFao/lQDswM/cqmfSvs89BzoDDlFA6U4rHKj+OF+aNCFsSJICQ==;hRAROi+UIiLj5YAXJsrZyg=="
+secured: "dPqfFmgEp6++ZVq7iw/361c1PezZdQ7+wmr89LV/OnqGERhYzoVMlhYHL82MZGtWG3k7G1CbKypupWdGzIDeY8m9vTo4aBzIZvQAGLyvVps1JmgwBVLdbCxseTLeUddijCsjz+blc163KJCIw+pgT7InK1DjHjAn86Sykhjd1SMdNRDrb/IQdiiEB0gI38eXCD7UpkYkasQNPanpI/S5+zwN/x1Jy/9GiikgxHmgO9AZiOVpFkvUfCVaLq7clxgZbQL1TfkdRpuuEk/QD6mYrfv6ojJFZ9UrbqjiYaj7w553iL8/BX+BJNd5Io1NAXZf08xpHBhVM8RX3L0caq+dOX+V1QEJjUyG6fpKFtGvOgIqlcn8h0NDx1+2SJPDKs6NJUn11e0mtEGKFOX1ZAIq3w==;dH/msUQ7lGi7DD9VcdRRMQ=="
 ---
 
