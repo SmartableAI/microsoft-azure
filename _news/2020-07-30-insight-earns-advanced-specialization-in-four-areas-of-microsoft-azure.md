@@ -1,26 +1,20 @@
 ---
 category: news
-title: "MSRCosmos Has Earned the SAP on Microsoft Azure Advanced Specialization Status"
-excerpt: "MSRCosmos ( today announced it has earned the SAP on Microsoft Azure advanced specialization, a validation of a"
-publishedDateTime: 2020-08-03T14:45:00Z
-webUrl: "https://www.prnewswire.com/news-releases/msrcosmos-has-earned-the-sap-on-microsoft-azure-advanced-specialization-status-301103856.html"
+title: "Insight Earns Advanced Specialization in Four Areas of Microsoft Azure"
+excerpt: "Insight also fields more than 1,000 Azure-focused engineers, developers and technical consultants, plus more than 2,000 Microsoft-focused services and technical professionals, maintaining more ..."
+publishedDateTime: 2020-07-30T20:05:00Z
+webUrl: "https://www.businesswire.com/news/home/20200728005589/en/Insight-Earns-Advanced-Specialization-Areas-Microsoft-Azure/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ%3D%3D"
 type: article
-quality: 33
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Quisitive Has Earned the Modernization of Web Applications in Microsoft Azure Advanced Specialization"
@@ -67,6 +61,20 @@ related:
         isCached: true
   - title: "MSRCosmos Has Earned the SAP on Microsoft Azure Advanced Specialization Status"
     excerpt: "MSRCosmos ( today announced it has earned the SAP on Microsoft Azure advanced specialization, a validation of a"
+    publishedDateTime: 2020-08-03T14:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/msrcosmos-has-earned-the-sap-on-microsoft-azure-advanced-specialization-status-301103856.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 33
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "MSRCosmos Has Earned the SAP on Microsoft Azure Advanced Specialization Status"
+    excerpt: "MSRCosmos ( today announced it has earned the SAP on Microsoft Azure advanced specialization, a validation of a"
     publishedDateTime: 2020-08-04T00:15:00Z
     webUrl: "https://www.prnewswire.com/in/news-releases/msrcosmos-has-earned-the-sap-on-microsoft-azure-advanced-specialization-status-863201932.html"
     type: article
@@ -79,15 +87,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Insight Earns Advanced Specialization in Four Areas of Microsoft Azure"
-    excerpt: "Insight also fields more than 1,000 Azure-focused engineers, developers and technical consultants, plus more than 2,000 Microsoft-focused services and technical professionals, maintaining more ..."
-    publishedDateTime: 2020-07-30T20:05:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200728005589/en/Insight-Earns-Advanced-Specialization-Areas-Microsoft-Azure/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ%3D%3D"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 17
   - title: "Insight Earns Advanced Specialization in Four Areas of Microsoft Azure"
     excerpt: "Insight also fields more than 1,000 Azure-focused engineers, developers and technical consultants, plus more than 2,000 Microsoft-focused services and technical professionals, maintaining more than 3,000 technical certifications combined. “Insight and ..."
     publishedDateTime: 2020-07-31T08:07:00Z
@@ -112,6 +111,6 @@ related:
         height: 512
         isCached: true
 
-secured: "Wfdh6wtjx77ovVP/AHBRKhMraRSVwbpDzYpQvGJyGfq+yh1R3prFu9lFxXrCa2DzTltwQIq/oHu+SgSOsWOE2+RysvLyybxFz+ICZe75DgyB782UAhEKNXy+etabqBjwiCswWAHuiaWMp5icW8mgJHzNNRaf1eiV25nwkOgFXADOQEZDJ/bkf+s6aiyJEAkvKHl0gVyfxbAYHJbGu62CmeiwJBgXhJtDQK5Rh0M9gpIVUv24D670Bf0Rcv8Ah4R8d1LDRR/O7Qi8v8FUMizpV4NOhz7yJTF36LMqujIDXOgExUWo0iJ1grUNoOXxp4i8RZqdEaZVCYDqz1Di55X+lw==;rP4d6AekCYSFwvPgYmz/yA=="
+secured: "odTQKRMPfycLTE5giS/zcU+dTJR24e1YneaBQGohZLAyITp1g5cVs4Abs1+nRr4x0n96LFxw2LaiojYQ0uGnCHUyjoP9axOYlTOqnJzDCNWC6ApiES3ZtByGUKvL137lhoU6UfLiwiZiCHsE1UPdX+CYj2JgVNsRWUIrubzZMS/utrOjiDb1MQ2p2ypGBWr8wlVDvMJnDrOu/Jf3BpWy2TliufyKWDhFkbTKYYEI0CJARbRzNHZMyzoDL9h9rWRXzIFFMOkmpBsCKfvcue+oLzkWKmZAc9hjRtFoGhHz2s5Bjzt+wCSlYBPyVrADyK+jCU8S/WTlRuYY6KWXRwWQLA==;CoOloB5vyHCc872luszQ7w=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-18T19:19:00Z
 webUrl: "https://www.marketwatch.com/press-release/quisitive-has-earned-the-modernization-of-web-applications-in-microsoft-azure-advanced-specialization-2020-07-14"
 type: article
 quality: 62
-heat: 182
+heat: 202
 published: true
 
 provider:
@@ -83,6 +83,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Insight Earns Advanced Specialization in Four Areas of Microsoft Azure"
+    excerpt: "Insight also fields more than 1,000 Azure-focused engineers, developers and technical consultants, plus more than 2,000 Microsoft-focused services and technical professionals, maintaining more ..."
+    publishedDateTime: 2020-07-30T20:05:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200728005589/en/Insight-Earns-Advanced-Specialization-Areas-Microsoft-Azure/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ%3D%3D"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
   - title: "Insight Earns Advanced Specialization in Four Areas of Microsoft Azure"
     excerpt: "Insight also fields more than 1,000 Azure-focused engineers, developers and technical consultants, plus more than 2,000 Microsoft-focused services and technical professionals, maintaining more than 3,000 technical certifications combined. “Insight and ..."
     publishedDateTime: 2020-07-31T08:07:00Z

@@ -87,6 +87,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Insight Earns Advanced Specialization in Four Areas of Microsoft Azure"
+    excerpt: "Insight also fields more than 1,000 Azure-focused engineers, developers and technical consultants, plus more than 2,000 Microsoft-focused services and technical professionals, maintaining more ..."
+    publishedDateTime: 2020-07-30T20:05:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200728005589/en/Insight-Earns-Advanced-Specialization-Areas-Microsoft-Azure/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ%3D%3D"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
   - title: "Ukrainian Azure Expert MSP Partner strengthens its Azure skills with achieved two Microsoft Advanced Specializations"
     excerpt: "Cloud Services has earned the Modernization of Web Applications in Microsoft Azure advanced specialization, and Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s in-depth knowledge ..."
     publishedDateTime: 2020-07-24T10:12:00Z
