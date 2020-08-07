@@ -8,8 +8,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/master-azure-this-complete-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/master-azure-this-complete-microsoft-azure-course-bundle-is-just-30-right-now-over-95-off/"
 type: article
 quality: 86
-heat: 126
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -29,33 +29,55 @@ images:
     isCached: true
 
 related:
-  - title: "Score $700 worth of Microsoft Azure training now for just $30"
-    excerpt: "The Complete Microsoft Azure eBook and Video Course Bundle is perfect for beginners. Through six eBooks and four videos, it introduces students to the concept of the cloud, the foundations of Microsoft Azure,"
-    publishedDateTime: 2020-07-27T18:38:00Z
-    webUrl: "https://www.pcworld.com/article/3567953/score-700-worth-of-microsoft-azure-training-now-for-just-30.html"
+  - title: "Microsoft Azure: A cheat sheet"
+    excerpt: "This comprehensive guide about Microsoft Azure includes common use cases, technical limitations, and what to know before adopting the cloud computing platform. The rise of cloud computing provides businesses the ability to quickly provision computing ..."
+    publishedDateTime: 2020-08-07T00:22:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-azure-the-smart-persons-guide/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-the-smart-persons-guide/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-the-smart-persons-guide/"
     type: article
     provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 77
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 97
     images:
-      - url: "https://images.idgesg.net/images/article/2020/07/sale_29760_article_image-100852511-large.3x2.jpg"
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2016/03/10/094493b1-358a-4ef7-92db-663e6b745668/resize/1200x/c51ec9da1ef26e61c5713906a2fe515f/microsoftazure.png"
         width: 1200
-        height: 800
+        height: 744
         isCached: true
-  - title: "Reminder: Save 95% on the Complete Microsoft Azure eBook & Video Course Bundle"
-    excerpt: "Just a quick reminder for our readers about the awesome deal on the Complete Microsoft Azure eBook & Video Course Bundle in the Geeky Gadgets Deals store. The Complete Microsoft Azure eBook ..."
-    publishedDateTime: 2020-08-05T07:01:00Z
-    webUrl: "https://www.geeky-gadgets.com/reminder-save-95-on-the-complete-microsoft-azure-ebook-video-course-bundle-05-08-2020/"
+  - title: "Microsoft 365: A cheat sheet"
+    excerpt: "SEE: How to build a successful career as a cloud engineer (free PDF) (TechRepublic) Disclosure: TechRepublic may earn a commission from some of the products featured on this page. TechRepublic and the author were not compensated for this independent review. Microsoft 365 is the de facto productivity suite for many enterprises, and it is the ..."
+    publishedDateTime: 2020-04-22T19:19:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-365-a-cheat-sheet/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-365-a-cheat-sheet/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-365-a-cheat-sheet/"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 33
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 82
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/07/Complete-Microsoft-Azure-eBook-Video-Course-Bundle-1.jpg"
-        width: 700
-        height: 526
+      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/04/21/11808789-c9c7-406b-8f59-a9d365e5dff2/resize/1200x/57748433addeb346b5fb4d54d1c8eac2/microsoft-365-business-version-prices.jpg"
+        width: 1200
+        height: 858
+        isCached: true
+      - url: "https://tr2.cbsistatic.com/hub/i/r/2020/04/28/94ed1119-e8cd-483c-8fd5-9e0e7a3ce8e7/resize/1200x/6efe13dc43b36944bb610bf63785d13f/a-microsoft-365-breakdown.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Cloud Market Share 2020: Amazon AWS, Microsoft Azure, Google, IBM"
+    excerpt: "In the cloud infrastructure services market, Amazon Web Services (AWS) continues to be the market share leader, followed by Microsoft Azure and Google Cloud Platform (GCP), according to Q2 2020 research from Synergy Research Group. Not by coincidence ..."
+    publishedDateTime: 2020-08-03T13:54:00Z
+    webUrl: "https://www.channele2e.com/channel-partners/csps/cloud-market-share-2020-amazon-aws-microsoft-azure-google-ibm/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 37
+    images:
+      - url: "https://www.channele2e.com/wp-content/uploads/2020/08/CIS_Q220.jpg"
+        width: 800
+        height: 381
         isCached: true
 
 secured: "Ipk9bV3Wqj58vfpDvs0BNQKpjs92j+MycyerXcTSWrAB1Ub4qzcCEp0MNuYmRI2PMcJvukRly6HEuuXYUDyshSUKo2L/5sh1i1VcvLPwV92vJCelg+Cs7/wGEAaMMIlqGrA28RKgH2uTHqR4bLo8YwmjdVoV4vpOdY+912yVJ53RQLpSYCHP5rBkGRpDgPrWu9IXvc4OqlCC/cqVyvNqxNNvaSjVq2HOO2VRO3JG5Bz+E/gbyK2s1FFqo+0zP5Kc0Cz2hr2O4kmjtDGcE6x8rtR6bAJOQ41ATEKF0M44azdnmDutV8xvf9IQMydG5nMjWqtKua/3lCKVQa2WiIjKKZTVKBZC419eJlsQv/LRwOMaClHhY2TKDKo6t5HLCvVrBZLx1OoPLCt6V/GHi2aG/FcP6zhTMIYyWXSWh1YTyCWzK8wwpq1o20hm4UGkX0M4H6HLQ7CpN7S13xXaZNPqBpoNwPZBA3tGAH3qRVal8RvOO0ZIe8pyacdTVBQkGIA/;NMaz8NumKR7CcKCqxHKEww=="

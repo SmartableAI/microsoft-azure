@@ -1,44 +1,34 @@
 ---
 category: news
-title: "Cloud Market Share 2020: Amazon AWS, Microsoft Azure, Google, IBM"
-excerpt: "In the cloud infrastructure services market, Amazon Web Services (AWS) continues to be the market share leader, followed by Microsoft Azure and Google Cloud Platform (GCP), according to Q2 2020 research from Synergy Research Group. Not by coincidence ..."
-publishedDateTime: 2020-08-03T13:54:00Z
-webUrl: "https://www.channele2e.com/channel-partners/csps/cloud-market-share-2020-amazon-aws-microsoft-azure-google-ibm/"
+title: "Microsoft Azure: A cheat sheet"
+excerpt: "This comprehensive guide about Microsoft Azure includes common use cases, technical limitations, and what to know before adopting the cloud computing platform. The rise of cloud computing provides businesses the ability to quickly provision computing ..."
+publishedDateTime: 2020-08-07T00:22:00Z
+webUrl: "https://www.techrepublic.com/article/microsoft-azure-the-smart-persons-guide/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-the-smart-persons-guide/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-the-smart-persons-guide/"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 97
+heat: 157
+published: true
 
 provider:
-  name: ChannelE2E
-  domain: channele2e.com
+  name: TechRepublic
+  domain: techrepublic.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techrepublic.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.channele2e.com/wp-content/uploads/2020/08/CIS_Q220.jpg"
-    width: 800
-    height: 381
+  - url: "https://tr1.cbsistatic.com/hub/i/r/2016/03/10/094493b1-358a-4ef7-92db-663e6b745668/resize/1200x/c51ec9da1ef26e61c5713906a2fe515f/microsoftazure.png"
+    width: 1200
+    height: 744
     isCached: true
 
 related:
-  - title: "Microsoft Azure: A cheat sheet"
-    excerpt: "This comprehensive guide about Microsoft Azure includes common use cases, technical limitations, and what to know before adopting the cloud computing platform. The rise of cloud computing provides businesses the ability to quickly provision computing ..."
-    publishedDateTime: 2020-08-07T00:22:00Z
-    webUrl: "https://www.techrepublic.com/article/microsoft-azure-the-smart-persons-guide/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-the-smart-persons-guide/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-the-smart-persons-guide/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 97
-    images:
-      - url: "https://tr1.cbsistatic.com/hub/i/r/2016/03/10/094493b1-358a-4ef7-92db-663e6b745668/resize/1200x/c51ec9da1ef26e61c5713906a2fe515f/microsoftazure.png"
-        width: 1200
-        height: 744
-        isCached: true
   - title: "Master Azure: This complete Microsoft Azure course bundle is just $30 right now, over 95% off"
     excerpt: "As one of the leading cloud computing infrastructures in the world, Microsoft Azure offers a unique blend of power and simplicity when it comes to distributing apps and services -- making it an ideal choice for businesses,"
     publishedDateTime: 2020-07-31T21:03:00Z
@@ -75,7 +65,21 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Cloud Market Share 2020: Amazon AWS, Microsoft Azure, Google, IBM"
+    excerpt: "In the cloud infrastructure services market, Amazon Web Services (AWS) continues to be the market share leader, followed by Microsoft Azure and Google Cloud Platform (GCP), according to Q2 2020 research from Synergy Research Group. Not by coincidence ..."
+    publishedDateTime: 2020-08-03T13:54:00Z
+    webUrl: "https://www.channele2e.com/channel-partners/csps/cloud-market-share-2020-amazon-aws-microsoft-azure-google-ibm/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 37
+    images:
+      - url: "https://www.channele2e.com/wp-content/uploads/2020/08/CIS_Q220.jpg"
+        width: 800
+        height: 381
+        isCached: true
 
-secured: "ZW1cZ7aZAHYuAg/ZihqpFjw88wTN/MWkeQsfd1+TahmzS3NuV3vN7cSywLBt/zlzDWRnHhoFPttTQIzTV5UQ/AFuZFn3xqcOQkCNfTQN93Q2Kb+GdasJI+1080lNQgrKbLe6NFlMDlqkG7b/gdP0ugONIwdtPBP58tcmFaa1G7yyv/klv0S32m+nQ4qPpfv7pZABDN9y01OxU1OEDgjSuVvwogGY1nuKAmE4KK378kQQb+cdomLOLgA8mUStGR2Wt6T6cmURFFKPdF5mIzWGWSX/cY/YsQC8iGd/n7B36g97GLr5FNDFNVDt4A+GEefgnqr7MlrD6nOAwIW+0pa0Eg==;JYIYEaEEK1m8UxvEZYX/Xg=="
+secured: "/e2oN1KzDwDCiu6n/qAqpYzRM1ZAPJuu3Tw2t5/IfItliDIqjtf1WSVmWNooVwSiAEnMNj+6jZ7tvZlSVQWZCkTkxhu1ztwkYXTeH5idoKiwg1HFVgkIw9IvJd9gWReL35Yc6fGrBz2dTSdcphMiVfTLZtu0/isdu+Ep1e4JuLggczJe6P5y6AYtz0ASvdeAe3GACs5zv5v63OchdneQr2d2s2nsBEZf6nl6bAVEaYvF384gYCqxw2cMQlYn/+Rxd9piSei4ciaXhaFZr4dgEY9j4/NPSRZAoWbnVOh2ndfWh6pWTj9AXhylETHpaHQIrta5cgPCQf6aKWGt40AsWA==;SY4LgqnYDzxcIW9T/dq7Pg=="
 ---
 
