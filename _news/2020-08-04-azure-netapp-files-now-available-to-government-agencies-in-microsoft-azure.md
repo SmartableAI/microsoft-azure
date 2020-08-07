@@ -2,7 +2,7 @@
 category: news
 title: "Azure NetApp Files Now Available to Government Agencies in Microsoft Azure"
 excerpt: "NetApp (NASDAQ: NTAP), the leader in cloud data services, today announced the availability of Azure NetApp® Files in the government region data centers on Microsoft Azure. This expansion of Azure ..."
-publishedDateTime: 2020-08-04T13:07:00Z
+publishedDateTime: 2020-08-04T13:04:00Z
 webUrl: "https://kdhnews.com/news/ap/azure-netapp-files-now-available-to-government-agencies-in-microsoft-azure/article_b65094f6-10f5-580c-b47d-a173c3d7184f.html"
 type: article
 quality: 35
@@ -262,6 +262,6 @@ related:
         height: 315
         isCached: true
 
-secured: "TdKKwUIaMtmV7m6aXgQC1zBFskKxQk4yIl+5QlA+Wfedp3hJdt7zRb5t22MyxMj46yTkqQlrZR0LK95qkelCNtcAcQTG0QX25JoGa8iUNfEgTFQ3AUKzXuvAg28gdLAWssAFM0DjBhsgXxn2p4PRIB4gLUEIZeNdIIONZwayxBrC667Xrf+Rs3ZLpmH248di/eRKIaix2c0j7hCGSdzt6MlIbMXDNE1iVKltwWp/wVYz4Y46v0cRd01tVFapNyN/3n2d5YKe7i7kZIPeijVsZ97mih7PiGVywGf75TjzBpOIt57OWTaVF5LDg1l9jf39v51JQYYALJ3Ux3OBMx2F1w==;YXgXue2JOZS4tr9Bvk6KCQ=="
+secured: "B93nsWvWjHagiqyzfGyw43Fw21Xt/wRiWRAfSfZ4xdNicMrE8WoM7LolG5wjm7L/msowb2PdJxe2gfp/+AAks/VImHMVzj5RehwZkCEh4bMIFbKcLu30qeshHknbYe6jt6g0tf9PSBZI56227LlLOkdsx4PoHTS4a9/ICfNP1I6aDuEqiWacnK2AdVFeNoAEzGh3cXzLMTUhpQ1H+oQRWpBr8Xnb2WITvc7oFM8yvA5hoEYWgkziWES86BoN9DeGLXDhnMMlqgEyOIhzGCVM42VzRchVzrqvAL5bhLBGfNgUOjqUah24t9E88yhUc1OFJRuJcOQQGeW6a4gN2uJF8w==;T2XUUJLOwDZm83A/Joa0yg=="
 ---
 

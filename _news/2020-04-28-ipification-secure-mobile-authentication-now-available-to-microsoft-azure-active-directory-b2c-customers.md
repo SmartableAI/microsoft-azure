@@ -240,7 +240,7 @@ related:
         isCached: true
   - title: "Azure NetApp Files Now Available to Government Agencies in Microsoft Azure"
     excerpt: "NetApp (NASDAQ: NTAP), the leader in cloud data services, today announced the availability of Azure NetApp® Files in the government region data centers on Microsoft Azure. This expansion of Azure ..."
-    publishedDateTime: 2020-08-04T13:07:00Z
+    publishedDateTime: 2020-08-04T13:04:00Z
     webUrl: "https://kdhnews.com/news/ap/azure-netapp-files-now-available-to-government-agencies-in-microsoft-azure/article_b65094f6-10f5-580c-b47d-a173c3d7184f.html"
     type: article
     provider:
