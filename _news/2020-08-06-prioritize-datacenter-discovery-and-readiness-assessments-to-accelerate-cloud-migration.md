@@ -5,8 +5,8 @@ excerpt: "Cloud migrations are an effective way to drive operational efficiencie
 publishedDateTime: 2020-08-06T09:00:11Z
 webUrl: "https://azure.microsoft.com/blog/prioritize-datacenter-discovery-and-readiness-assessments-to-accelerate-cloud-migration/"
 type: article
-quality: 74
-heat: 94
+quality: 91
+heat: 111
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - Azure
+  - Migration
 
 images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/fcfb71e7-01bf-4430-86c5-80a5d02c167f.png"

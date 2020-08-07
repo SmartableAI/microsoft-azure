@@ -5,8 +5,8 @@ excerpt: "As you move through assessments and plan your migration, it is critica
 publishedDateTime: 2020-07-16T15:00:43Z
 webUrl: "https://azure.microsoft.com/blog/preparing-for-what-s-next-financial-considerations-for-cloud-migration/"
 type: article
-quality: 82
-heat: 102
+quality: 99
+heat: 119
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - Azure
+  - Migration
 
 images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/34de3c76-bc80-4ae8-b91f-8092df9ad65e.png"
