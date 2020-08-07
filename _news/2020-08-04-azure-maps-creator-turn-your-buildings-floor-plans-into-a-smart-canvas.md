@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/azure-maps-creator-t
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/azure-maps-creator-turn-your-buildings-floor-plans-into-a-smart-canvas/"
 type: article
 quality: 96
-heat: 97
+heat: 96
 published: true
 
 provider:
