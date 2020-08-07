@@ -5,7 +5,7 @@ excerpt: "We are in the midst of unprecedented times with far-reaching implicati
 publishedDateTime: 2020-06-15T10:00:02Z
 webUrl: "https://azure.microsoft.com/blog/be-prepared-for-whats-next-accelerate-cloud-migration/"
 type: article
-quality: 62
+quality: 79
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - Azure
+  - Migration
 
 related:
   - title: "Preparing for what’s next: Financial considerations for cloud migration"
