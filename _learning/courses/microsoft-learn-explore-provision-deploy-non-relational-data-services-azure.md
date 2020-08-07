@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT1H2M
 ratings:
-  count: 46
-  average: 4.826087
-heat: 54
+  count: 47
+  average: 4.8297873
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Explore provisioning and deploying non-relational data services in Azure"
 
-secured: "fvsy35Lm42UuNlTAeirH7SdWB0yechbwTklnNQjybHgS0E4wpc3F1VDT5eDb4CVlunFczkIlIojIufkwXze3WMIu1mliGgcfJNguBiJEeqguwneGql/GAdq74upI0LCPwwQFrSFoF9DddAzigP4ndlg3tdtYx9wq2Mkp6eiINQrD7hFoFvFiJ6vXUrcIzDDi11CVXcMWOEfU2VVxrfXxeH0Ut/HxLzlaR2LjHyRbrvyO6IpHDBaCaosgLQh5MIBqZamvGoiQyNTMdd0VC1KAzkikOpgPfqgM1z4F5yVbL+vGontwXJFUNejDgd44kPZnhwuJt3nyvtA2FvjSDZSV7RCaBp7sTEArl7cLvoVxhmYDbvMznniRSUwWBSLoQYd4xf2EgsjHA1BWweI/IObQYA==;kUdHzD3LjvyfwZ/DQVEwyg=="
+secured: "e8SaBpPJE2SE9swj6HCK2LqqACW5c3zpDKMPSLZZOCrHOqISR/+0l7a3teqbc248AjPsNHmeUUnX3lkO6nWcmjXgpTsYPAnXIHZFuhwKiQWIFoxCAlwUaXpLUld4S/6TrZN425VWMHxzm5AS9ZugHPQ2rSXLp5EvlaHw0c9g4r7gwLf+JbtuKzra/GYD2YK8jzDBY/b71FS1aJFWuuuT14XKjH3NyT/au4TwZnS0dPxTl48jMZnC69VWIEHR2pBJRXAO8q8EGxtFTGFA5kE4G+9o4hCFhyCenKGytj88I5vnd/JvErOsGo9IgyrFXxgR19EqQgiyXQUN/fbMeFTf2h3FehqampGpEy1ZVliup8zEhaLBVb61GmCS1F2aF8GHNX3PIorLQ7S9V7nPKNiQYw==;gk6DHR7V9fekmblubd1QZw=="
 ---
 

@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT54M
 ratings:
-  count: 49
-  average: 4.857143
+  count: 50
+  average: 4.86
 heat: 54
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Manage non-relational data stores in Azure"
 
-secured: "jCYkfob98Ia/EQY2NM7RwJemHLFlCh4FaJlO+Cb/HWTYhKWHojeoCc71rhEI9AzM+GGZC5p4S/yh0a6jw5c6RZIiBtstv5+BvUQQkI5TesnCvY4dJ6mDbVreeA2R4IfDrYQc2EPa7urp3FQLxJvzbt0tTlX0C16sYtVSKpyZz0CiZ1hmAtTWeHUusFFPdOwltX5Kx3kFTGeucziY0x33YtlwYqlmGcORaccnLWkP3mQwilGUtXr3oWNNTkR9VOCC+FuRypxeqXI7uVNbQn7r5YKyfHhXHLnJvTMTVgWExPVC0pKLTFA4jTEFKx8n4bIHh30XkQT+qqgQSHzSvENOoXhnRU1OfMhiQmoKWuypY/a+YSdTcFcY+09xqUeS/bMK4JnWFwLJGaJZLbtWYxTSjA==;XWAgpPBbpcOZ3Ejhma6Cfw=="
+secured: "ZGbkW3sygsydUy55+qC20JFCTCRrTxthi2ItW5QlSgKdhse4REnHVPqOKA73MAELexO87xBACbNJx97uTJw5hxbFCJXhK97EHlODh0xZXe8HSOx8Ud1yaZ6aIeT2YFQWHnwS2Eeb7HzbLEmku4EwQM3Dpvb7lpI5L5hDF1auKKQ1vqx8qgvgDsIG6WmIa0Iw91BwLoEYeL6vta+9exVdRUYYm0z0UGpydLG2ozK013URih+2NE2PSUgUdRb4BAEMroceEaJsD2FihiL3abUgzCu9lmLV0og30m83GUOIAmi9ize+i+wQVCCZzk1X1QGU7yu9qOMiIRRaWGTi01JW9Uh1ZqR22cOU4NXBs4nSpfvYlAEnshidFfp0al88RASvEoI3s7rd22q3ayeMBeturw==;7RpnSTIqq4spqwkeg1pfeA=="
 ---
 
