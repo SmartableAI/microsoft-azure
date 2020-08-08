@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT34M
 ratings:
-  count: 166
-  average: 4.692771
-heat: 58
+  count: 167
+  average: 4.6946106
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Learn the data science method"
 
-secured: "URIupSspfKi6JS8WZMr9ABLIpDktl2w6dZcu/EDt4PJqeOKQtN9whJOJHwIXlgoPaI6KUJOeX+kdISsHUyigQt3PvsSnsafCZb9p2QXB7mgFV3LgB+5Pohdtu3LWFnxr5WgDi4CPMPHABLyZIGvDW79NfG7Y9HZtko5SeE9yWtQIg1vHo0iUP4KAKvZdovAaZDcAMHJM1pyokPxe3zu8q86smLeY6jirbyk9WzZ4/TdcY/Ukpl7EoHq7/O2ff47AhcuxJ41xE/4tmWFFFDImtY9CL0ol4ThQpuDhbe4qKBvqFNenaTJyYvpqWl/ayfWlOWwG/V4gZzgj2PeQ3waVqx+L60yS8c6JhS1fqoMO88HiPCsUijgeuKM8DImD8ZQzNYUnCm7jgqNJwAMc1X4DHw==;LnR8alk++cAPrprZ90bChg=="
+secured: "L9U+GQnCRx33/x2LJns9eL1PGDoYUBqvwOhmpNOTZdImBbschFQy7XlQ3q1A1ohFQWGySddykqE5ILGU+TnT/dsCaXDljsN4gzZbeIaIV7LrgQ417EARkpXNKov5kenosV4+thwPZYWriekvK9Q9yDcFut/PKsCv5+PaBasZGzq5pk2vA0h0UEd6V+bC74c/crXdjSvBe0m8X6Gjzvj1uh72qHHOvWbg5a6JGXAkmL527rrGk9BY3S3HF7UPd4RcV/KtXYog5hfhE6v6a92xXHeG9JeLzxYNeg2WUeTMhILELlIcBQZR8qcFdozMLs+/k9fd0DFEhh3PFNk2tS1rCMgiskPGNSv0LT+4V64jXRJ9sOlqSYmYApgFXY1KmFsf7X+0A4vEndxFEnAJKkaoQA==;2edBm3R30SD/T7g+OqeYoA=="
 ---
 

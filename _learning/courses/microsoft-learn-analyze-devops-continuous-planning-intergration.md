@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Analyze DevOps Continuous Planning and Continuous Integration"
 
-secured: "EV8MkOMFGkUTG8DXoYDKgURjYnzJuRM4ss4VhFTESOpKauBHcg/pNC5uRQ+TYzeCnZmUYCVO9v9Czzr6Iet7o0/oGh4X9PW9CZ+WaqzRRRIZ2ehasLaNkPcjtOj4Mb110LmFYXQxJsCOuKkE6/INUqfBY292kE1Q5UdbOu5Q1F4XsVb0u7p/AcT573MF97NhioEqxrPUMNzKDGrxhB/pySMdcoJ/sHCDE3ko7V61e54HguFlMd9QUNheMeoum7Z5mpwpnjddRSq/2dUuCcPO37fTu3K8DJ+XZB+LDd0S9IKvSwEaAn34RY0wehrJt4K8eTWivyTzhEZX7JuP9Nn6CS4woooqPBj2zf/Hdkn3tqPMEjxdwn2fOdYd/Hvb5+cl2C3+k1cYznJPowk5XTM7Lw==;WDT88ntxzAIJ0CxyeJBrJw=="
+secured: "Dles8+ylHb3jkSI/MbVbhmC5hcCuO2Id4oob5XxecTBostCB4PXelQEvqZzJoofTrFQPDR+G0/dHTg5KWGHhmySZJLGgNkb8hesdiC6XRUEbyIFejPJS1FuSg80y/Ns1Km7ikBy+o46LA5z+oB5sm/gQUiUbY/0r4gz76Q4mZ43bFGsxmR03Z3m8jy3nNRlz9XAW77Tn1U9LjoRMC9wHvtvZw9yrE9xUl2CJXzRD4UaINgdV4B5yQw+F4nweHK31Q96AunIoAe56bTqIA/9A/NQBhf+OhSwQGvYuQrpHt7jihuXpDDyLTMpHmlDXgZK+dWiNkXDlF2KjkO7RrG52l4qNAu7PHQzdGyGXrhvvCO9BKbWvavtcReJ+Tpp6ue/dkPN/Y1Yed+PVl1kcgUoBaw==;LMWvlklWyvyFb/Z5lw407w=="
 ---
 

@@ -8,7 +8,7 @@ length: 48 mins
 ratings:
   count: 74
   average: 4.6486487
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Maintain Azure for SAP workloads"
 
-secured: "uZhOWzVcCY86qJU8AdTMnsHgpxkedNIuNy8fZ4jJgtO5tE75md2NCEOAzKJFz6hYHTwEHK8TWt/9Ns8OzcCCgXi+Cn1346N6tf0mVaARvTZeSYQYbJzFsfUG9V+KGfiterAViTqp/354kcjojh8GYDW7OwdV3Rp3+gL9t6QMGkw34JyD+9hbWIvwFGD2fWEk20lEBesjSR1h7Lz1Vswj07WP86y1AJVCAD6CDV1NbTVs/o9o15sVjnlS0AG1qbG5bbhRfoZaHCWcoIRX8yVsfjBEZzDUXwBfYbbtsxPioa0bacnSFT9wpViHRu4Ietv/O1K6oUhFRt4PY/1wcSoRk2pZUBVKdu8NPzcZ7gPrbj22WHWupSX0zKVvwmUFPRfui/6mQiOlyBqDLWuVjsRytA==;Oj5rRJnO7FYGrEsjDt+YoA=="
+secured: "PgQk30cvzkw3e/g52JtG84USWGhfTNlcJX77HJtaS1OXo7Au4shP4ft3qysl9yDooW1ceDimC/KfhLohO28v96X9W9voJx/jtU6XSjCJOqORDziiStPhzqjtkeYSAzjoBe6ia9+sfKfgJ+LK5EyGYeiBFWRHSISqzrxDSUrPTCRHhqR42brkJZYM0ZuACgZk7X/VQjcQONsNV/i3xCXS1mI8FhQxeScRP40f001/wxkHup2UunnlgdmQzZemkfSzISVnB1T2N5pBCNvquiNi3w57mRizGs5AxsLL69slgYhdeOii+AHuA3litLfLox7fPLL2NH//0jXyxdTgzJCtWQPsVh8SS9VlEQ2nLLidx1KBbiIz0AEsVfuBPyfMxOjdunbHDxaEmus2tEHPuO5jyg==;n+1zXxsTa4No5LyCTh5Q3g=="
 ---
 

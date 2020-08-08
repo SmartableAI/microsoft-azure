@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 92 mins
 ratings:
-  count: 1616
-  average: 4.581683
-heat: 60
+  count: 1618
+  average: 4.581582
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Load balance your web service traffic with Application Gateway"
 
-secured: "6YHO//Wh5owVURkGJNJ0h9cTpqKLbSj71J5sIDmIEphrb/4PesNoWihOEeJN/Lw3BlJfomUpKLjtcZOKdJ5DNI+WK2QRlD1pL5CjmhObZ/YCU2heud+ArOxEiuIECvxyAuUL8TcuMnHZZ24h8A96Jt2JdW5PrngZG7zd9R4ENv3UlNh9RoZVxZHpGkmGpC/1PxzitEEXs9bo0Yqw46AdJfh4W5+TwX/g3NflrGpC+6bC69dqAzO972Viu8w80anSqopsWXCO9MLv2m401n3BJ3sANYoWcUTY3MVaKS+X7RU/CVGLYtOHa7en/rjjeUSuSRzEJvPN2Ovc0AC/2nvRs8/LfEWxJD+Sqjtfu6qQjaf0kGD4eI4MrNZC3Bh57AmhEA/YPIdGm3Vc8tA4mEc9Iw==;QgOsDSiRR1vsp4rSrQ0qhw=="
+secured: "+1UsEwe+Dm+uRhGRLriH0yB/uze/kKa0vuYAhxAkO/aZSUR8u4Pzql95bfZgdfdDRKSzbXBaKQce3W9HR0SIu4r99snEz6XzdQjf013bdPacmiWayLADFwPZcUtpzO2Ps8e3z9zkSeZT0fxr58G4kRGHbls53TDpZEW5goLEd/KsPEZeswZIu7ctlVaTP58HAwg2D3yDQAngqmQRpLEAvvPUWrRPg4Ag95uekVPRryujQo0Qlp7Qj0daloO056l4e7PtwDePTR6oqS5F7+W53h/TSK6MkCIMrzcSagv3py6RNHaHOq31M1TNU+IDM83nFbS5vKBclZuOI0Ee0XrgHRUkxWp9+honR1FDK4o59iO0LaPGw4TK7kDjsz+Z/NTdMIEWgLpJ5J0iiuIiums66A==;SjHYkZW6MZiJaTyDfBoUfw=="
 ---
 

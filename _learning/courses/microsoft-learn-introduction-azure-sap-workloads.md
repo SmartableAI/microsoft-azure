@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduction to Azure for SAP workloads"
 
-secured: "o53QRTB/dczIN3Tw33DyjBzzyJmaj+PK3nQji+SvlAwAbO7f450Jzc/vxNC6l9+8JTic0EN4bmvR84u2NqPHfvK6ewQh+zLb5YsQIt3I7C0Zj5X+Jd7+yZaLce2eoNleQH/9vheYYCZ+50K2CRTTk+RAD9IFb9sFSNbuk66h8dTMHvq43Fy0mu1/JkLXLANTGW8EZKfsg0e7+M+D3Z/Q/31y34lm6Z+nmaZMxdObhjpTknO/wAA0dMNVUFwKEmYRgvym0U+a8r0DfsnY3C03akGRQdSlN8wQZF8X/A34nwk0ZJlfEu8/1ygiITs94Y8tLFuUVKN/0lXUvx2yeATqTM9iI01sOgWnYDrotChHYIEsM7aIlrdC5Q4+pk755GX+g4KsDYYrI3su6Wz59f3IqA==;0NdMjWhDwdN3kF/RAAcZ9A=="
+secured: "du7/hXpe82gBXvjuPi5JyrKrwZEObX6qTZJv1hP4vcf0n8Y4YcTXdfSG/+48GyOuNrTqCBe6gfKfN3ku22KNBnPk/6cN5Z6y0YvB3JfqXO/cBulXFOur+z17Nv96Wgk0cQ9twYGBDtdB3v7qYwosJahhGFegnTEDrXfEna/+FnQgz/vTTwU+ExtTCO+9INMUv9l/vY9gEfr7OhwZzD2pqORCcHn07rIKpf/oG2AQKFySCLs2xEDj/EKQGH9V0EftIWuKZ67t8vqTProLWv6rP1w7qDIHrNsZZpz0kRVJONgKvNzXkPgDDFMCs1BtbY+GamqTu56xgVvwhA4b8BwznpHFwsNQPZIHvmr2wUU13sU5oOaETmJce/Z6tL3tZTos02I2UsofEx8HYStS4mI6AA==;OvKVdxIcjqhcfjYnMMoXeg=="
 ---
 

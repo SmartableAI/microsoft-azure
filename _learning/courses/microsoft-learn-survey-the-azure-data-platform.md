@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Survey the services on the Azure Data platform"
 
-secured: "PFl4GiWCEpjep3Vno/iieEVdIS6E6v7F7Mzzr2xleaS7nvSyqE1W0xafgF+rH20D5Yeyqnr5jWd0S3h6/FqRCUFJJO/I1xuTTQKsRDRDbAQUMuY1iH9E2jKYGuEev7cxXdOLOH1AKUga6NiSqDnve8fUwYu+UlDLu9wK9O+3jSyKmuNCn5ftaY1Twdk+gBTN78tC734UU9fbvME5s2+a9GsReMwvKb8uo9Vgw9J4ytiyxE8OO04nGTqT4RxC+ekhDM1hzlkSNg0fzkBeoncPI+O0hsKRmP1anhf1rJgbTR+25JdSudeXo0akR08t+r9GGD6CraD5Z4uHZ1fFX6Fz7+Zm+/lYtjTebcbhD7LEGkxjrhAEcKd+IcOIsWZ2vpMH9oFhRuTJi9wcVy7WVbX0rA==;1FwxyTl1SmdHgD6PvtZtFg=="
+secured: "CJE3eYzyjo5utoMcnrAuKFWRmCr/ulA5Gx03EQWQkSURXiMI25zb7+CpBAEx1fjsWnEPo6mMQGLt7J9w5iHa0l2RpwAdTMqyRAS9l2xZc8yMdeOcXErYtARD7Fh9UkuHKYKcOJSXaPHgsXmvN1ysBOpvcXTl7VDG+3ELq1C2Oq6Sxm+m3qMWujIRkoBvReaxmzF6+Gqzma+r2HQFw756K7YO+OxLfgKqP0I6Oem+NGqlHDzTHi136Hzb+/qQnNAPZRBNMEKgbsfkX3tHuSpA0VAu2hh/rwo2AqkOkrUeNuZbnfTh//UD3xnITcEzBqBy4Xnpotx+yt+5bAuXPcRD5SRQBOVH0QtookHS7pBWqQRHnmgaAGWPSF40VoryDqW3w1wv80JmWIwqwyNMCzWljA==;KcXvqaeiYRA9zwI7xh2udA=="
 ---
 

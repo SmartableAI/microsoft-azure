@@ -8,7 +8,7 @@ length: PT1H12M
 ratings:
   count: 14
   average: 4.785714
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Create and host web sites by using GitHub Pages"
 
-secured: "hiiXdStVZLV2PTzRkqSzRYIlHMYkD9b/c2i1ts5kNDI6H11hoLzgHqkjs61HT1EdrZ7RQ9PNrBXcG1dnftkbAFadyzFOZsUsWZQDY/CzCedqdg349Ssf3w+l3+WGEnI0eBctrpu+6XpAMt4ATkgQX1jO7JihrpRZaVC6i3nqM/Et2CYDkBgVhwv3s92+LWUT816uDE69a7RzFvWL/JgkgQ5la6Iv6EE6Bn87+ZyR/w3cERwX0kBuJXgOLY6BH7mSyceatrHJbBUJqURkNC9bAWnXyDD0BUt0nv3mmlggkwiNQRIUsvkhmvpp1DQVqOqBOmFIu6nScK5UYxL+DF3tT+Rq/uPHYjnAWZ7OKt5tD7c+zWj1vfAP+dGHX6QCooWNG87TNCimwymVvEJpBeSlsg==;+EoR4xceO4OO/B9bkXpyhA=="
+secured: "waL+e76rKYs/1oMrIPoG2qyPapjv1P7L2fDV/TCFWZrOu3L35AI1W7nR9oZalxkcpQHClHQPJ0cOhVPOjIUbRNVdvyIuG10Dp2CROkAngUI0Zkocfclgcpc9NDKc5B/EVA8oqSxRf5ZpgM7OGJ6U10M08Mys+hMxOoL6D8UsXs5x/AGhkQtMJ1aZkqSmFefYl28824iQ4M9eHRWydSmszu5TW2nHsryW5DbOV9bQRM4m6pmEh/ErFtjtkCBPAjlEoPBJD7Ci9ujsJRlLJFb6oMRql6NbFUZgqnntg+3W6sRykaCkreglSpy0x3UsgH7vY3gTWml/HE47mYhOlTrSaSaox2Skuh1venStWrH1ykkOYLYGPzL2SxJl91Hagkat/suzqEvXzgwe/C8jzWFjeQ==;KLSvynCdoySHLH9W4wXz3A=="
 ---
 

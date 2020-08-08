@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Get started with Connected Field Service for Dynamics 365 and Azure IoT"
 
-secured: "kTAS5yLnt8zKTYyqG6PAo86ydEyU2s//AILw+luV+NE6/Jt+GCPrNddnELQletlvRtkTS66kxu+VEeQ6f6xybJfXx4r0B2DAY+80J9NtmrAWHvk70joYt14mwgd8pOkB7hVdyl7nMSMrSuAdqExeaPUahAgrAQ6/jfGn3EOeIKZvkQgzxmTimCO/uO78s3MvNmFgfLlKMKqaEq8cJNYRKmtvC9ukM9u/uz9uDcB5cC2AylrQDV+vWqXXvcQPvXsyTY0bI9hetFP6WQgRChoE1f6Gtu+k67lRJ09Dw3yo/ywjsq59bZEt2qjg8JUbP/I17PlVro/lZh1i3PBfb/TYqav1UM0GmIACp8SPqB1zGhKMliwKXyhLa+vKs9JKMjmhU6RRo0Hxwxj9V0uBLclQCg==;4Ec1K1LsD/9/THsdSreBOg=="
+secured: "L4C47Bptc4Rwdq8L/RaEIYnjFuQuglM9OELWTPJulkh3IKWUHryYyNuNuvfAW1CUjPZIvF/Enc2bds2nJBkXkMNQSo045PcSSSXx/ouRi8js58O1N1fuuqw2582RAP5b1HUGIv/6PE7wMoUt4P3jroTcqKIjJ2681nXlUaQ/cjYsHAx//Yg8SBGK9S3ZObAtEr/MVKfZn+ui3cWuaqzVwuNsqw/od/EveNmBWYPWP0KoblO2oJp/o9Uxu9BpUZYaHbrjOS2lm6xn+AbFMZhgEWUOhakvWqr3z9v7K9v87pY5Yyk7LbM7NktBIK/mJIqWh2JdnePoCe95J/H1mb2fDmxPo/hpW79kPrbUotXmq8cbVMSm04pVGeRzCPuBK7CV4wWsXmFza4NA3wEVIURlCQ==;4W50lgW6eS18lT11HPrCRQ=="
 ---
 

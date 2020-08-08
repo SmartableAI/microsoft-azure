@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 94 mins
 ratings:
-  count: 3302
-  average: 4.5481524
+  count: 3303
+  average: 4.5482893
 heat: 59
 
 provider:
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Configure the network for your virtual machines"
 
-secured: "6MKIE/BnU9K02/xcUZ5wwj8SJk0NCmjLQw12pWpVcTAY/G6MoX0W6ygweIsaX8PljFUkkuVJTM1ypGBvqe1nL6Ff941jv/uU+zfFftvZbUAgOq0naeccNDtpl4lTkJghruXeZyrsIVmRBbMjm3SPzo1/z4kYoryBo/92wZNXuD0x7hHmfB1LJTRJSy8mPofpe2fEYoPXB3kpYcO+Ba80hLIivcQy1teAemZnYFnIWsQSxpsB48tXENa/uC7bhejJDhdc4oBdGYz/JyWmQlF36rJbs1Pp39JRj/BkZ1uYmS4C6qOwTqJX89Xf117kkdYF3Ve7An5ZdzGIMQzMXOmB0A+0k9E5prEsKfayfYd0lr1mwPZ91TB5dGrGIM+MDFl2R/T9OinffEwCt03LxdW2Vg==;eY2A/51WJ0qSPHV+mUO9bw=="
+secured: "tgBAa3IHHX+668C9Vu2Ll7kFiiM8lTGSdFbU3CEbBgnQHFIxsn1w0ossVb8nl7qJHCMfCjC1pwMJlhsqJIe2XrDmFjg7wyhNYlzQMve3X8XB7sLJ2gTvee5y5J+L48SZ2kMZyaKwLuQGA1j9s+GW0hChgugLFSvuS2zxLKV3KCuDoyj0V5lLXktihdYmwUviy9sKRVpA6mCLr6aNwKbiGt+/tWFbXvV0SNGSy/jPKxZ4DjnhIO5z5RgvLn2QXY4x6DscZ5R7vrnnvBmFr45Mj0WKM/EE324srncsKhzPi1wCA8icPPYlL5c7Lt/WI6/CDDUWv+O8rd79Eb9yG6wsfaOMzIGADiXrk/05Kkr8aZ5QFvuy2Q958USknC8am1/qOfu0/+ZKo8XoqXFMlLfckA==;mvudJ5GjGl/rqYJPfUfiTA=="
 ---
 

@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT35M
 ratings:
-  count: 214
-  average: 4.6728973
-heat: 51
+  count: 215
+  average: 4.6651163
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Manage site reliability"
 
-secured: "gfF7MYv6PreT1va7V0XAuUc2/+Y/n38fRdunIxXUABYcQUZgBQAYrR2XbvZhLbm7cE5xTD6i519kbYBQ4NPgV2GSzem9ycFVpCIsRXAMMqlZUTIkdKhQ4RjZKn6vBxyMQDzHhYhJ7EMlHAYyKBmvX5Q8vfXKKK1asAprR7urdueLEVtJGggKVn24zGQXX8A/g7rs4ZOgGAop4+T/CXGAQHqM7NeHuITKnZEwWoXNbbHjHjpxhluvt0dXt6XKW3R53BoYypTWzfp1beZf6w+cwGvV/7dX5Zi2yftmHPYW45TKrl/GvU168oFwbelL2U+MgCylh2M5uT9U2ANkJ764Aw2jFRFXsE3LlYPg8RFbsKtQElchn0pNpBYP0wqu9GQBmvL3ONqaqCXs+B3++GwHWA==;6FvlEJDF5puViK7HVsGyKg=="
+secured: "hfSr6f117lB5qnUwiIhWTJWQXpIKLGVm9Zgql/GQ1+wnQ6vr+e46+APEaONM6yDOiTgJmGYYJ7vAXmSSRbLcSKSspRa2IVi0+XryoH84QnOgY/N7Stu3J2pEcvBXT4LtKKUbN3XKVuXGKePMBHwGp2MAVVobV6bBol+4nn8nlmUTgeTA+HVjQYg7Xhk3ixPoQu6Aq0urZLUWkpdR0S9jDv7CmBKECC8IVm7koSfkxlL254AH7G7bI7eSMkCmYHJd3TPknpyCTN/Jhw82OEZJG/xcKSxBbaeCdCEO/h3hnH07u7KbZvzG4Eh5wI/hmKYFB9l2FO9OWz8g1IpiOZO1Wpj/69BbqUJ3ZcEv9YNdCvcxTyknJSfRMiIwhFvrWdrAfdU7lWc3+dJ22198mPFXBg==;WoXDNAf96oyIV5P57npkoQ=="
 ---
 

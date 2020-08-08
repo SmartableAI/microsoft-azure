@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Automate GitHub by using GitHub Script"
 
-secured: "IvJ7ReaUbWQW7tlQbGtt/bGgv/c5fLtDUJpk9KwdHeZYFIRvgBble5oylCDlHWPbhC4bmbIDvyVS9Ktc3VZ8vAQkkwh4cB8gfQz/PEGubdFlP+JYQgl1fP4HXKFi4owYqPKlU9Cy0pKAqPAr1kIMyk3ewNae3kMbScfx3AFphKiKH9BYSDH9IwMSV6D+dQ1YeaCucx5NBuglPWE2SdbG/jV5CBInwTwT8/81TO4QE7uLUodDN+2hzlmLtC9aJaqzWWxOdOpk3kmj+tNax0rZX+4n+FlOipzBHQgjt1zaqR6XI7zWDTHOabz8iOL+jNVnXnNFygPY1xRW3CnYF4N/Pf1U/Td6FJxbRs+4Wuv7YMhtjhoITHLqf+Q+WtkeVSx/GjSISFa/QUU6VHaSsKM/kw==;xq6Vuv7wKtfNc2sUofYpMA=="
+secured: "/Qnn8PpNXn/XtRdzI0rcFmGrubddB6mfPK66wZ2UlJ7DlDoMUDVYs/lqz3C34BoI6wV/ZZV+VDJfBVYcdM6zC8+VnEENhPuvi0rl4pt3df8qF3am05lhHtUrgwpMsYKQOwzVntFd7hJaEzZh0N0DTbO50E2qWe1qChc8iRH6Q0Dyu+qWdP4Q/W9eBFnUU4UxiCZF4nPllCJCJxw8YEY3bawI70ZMXx9/kH4BOvzgxbitnDHYaE+N3IrqPBdr4G3gQZk9Z2MeNFMC5M0m6lainuKrl4SM4zkd7dsThUWHoftttyW5lQzfylxsJ9a81WlRArP3V134IuSvu+yxhQ6/pfVZKG7HC70QakH8QUNyj4dk8PK6n1yBGO+Xvz3AT30bAXYmihcCd7BEi6uts5cwUw==;frCZWUL61bEVh+Esj4Vhkg=="
 ---
 

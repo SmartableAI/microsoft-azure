@@ -8,7 +8,7 @@ length: 61 mins
 ratings:
   count: 73
   average: 4.6986303
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Implement Azure VM-based SAP solutions"
 
-secured: "VztGYgUdgYTnuL3ByrIdbJMJUSsN4WGnwAYJo2xcQGnHjYAtyfXX1PPLzaW32CjF/mlIgtYc9bai21UgZdNTlXxXLigFgO/EPFgov/G27Bz3TdUEwYWTxjGW3zSSjaEG3b+qDV4cxErpV1oggpTg0Uvl6q8SOk6vtDbhEH+Heiy9VQgk6IL2E/C3C1NLUq1KSeIYfP+QQ3XHDASDVO3qpoFJnLyKlkJuHzeajCd6iR2N9+n8mlhhZtcu/T2E1x5+ViQAUHSb6bV4mYU/75D2GCxAXWn7BkK34eCyfOp0iUtVjWfXlToRHBh7C2HE7rlgolO5EtRbW9RDYmRvqEZKrJFK6vJlPo4bQFDD1dq7ISpT83SgFwvk6dqO8IYSebqFY3R34tKbpiHZJjCL7tkKtA==;pt/Om+OQnCxBlUwiN1iO+w=="
+secured: "ccJGjlqWvq0ZRmpjZiFOBfXfQg9wOkVRfxLgkgZiuA9hsMdm+7svFmjhpNjxIOkwM0awDQjb6tMJqxXGD8wWL93lF3AKWQcIEgd/1FRMRjgyDOW1ce3fZy03gRC/tXgYmm0C/lRzjVEVLtgUXvTy5tu/Z1ESg7mFTrJqhwTroOajpduFlH45V5CGFRiO+kg5NPN9TZI02Iw+95l9W5uEf8ObuotO/ZukuVU/FBxFbcoM+w8h1weK7bPblAZMTZt2wozEnhdsTZhCy35EeUH4xBDDRtaK4trLkC7D7442d6f1N1pzDqg15KxpsjwEIQI5oj9orYqiEclWQE1Zuc+AxS2KdbeWyI8Yk5vnuC6KOliX/qHFIo+sDOqeWNHkaOQT4bEWiYKO2qE8midrzuXsug==;cpquCH67Q5tIoGXzwh1Qrg=="
 ---
 

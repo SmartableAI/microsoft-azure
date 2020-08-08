@@ -8,7 +8,7 @@ length: 46 mins
 ratings:
   count: 3449
   average: 4.6369963
-heat: 59
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Deploy and run a containerized web app with Azure App Service"
 
-secured: "g0LEC1BWWzRlpkjBV6BHDH20ut3ZN42m95eAqX6Tc6G9VxLpihV+cZ7x6UZ1c3jRXT26IOTKFBJhL/NuuFOYxVRv2bVyakxgOzsLLIxIA4kLfcOM97CAIiEemuGp8to+n6WJ7jKlG/LyCkbxeUQUC7PN60d2de0pbu4qoEp1ra10qO2PnGjfFurF2kHWZS1uoIv0ZiuAL8CM27HhYQ/Bc/jf/QsLVK6qON+VCam+BbrYfx3CpaMK4sYTDzFY52GkKr4zL1lei8FWN/3g0DOz4RLMKgBIw1v4L2qVMUCo+h2nmN/mP859YSJsNbcp5YUC1rwe/xhK7AyjqMMnwLaGUr3SghNniFdjfcXWLm0rqp2Y79vNpMfeGb15lGoe4n8i8oU4o4XIRVYKh4flTZfJXw==;cJtM6gwOQcPIzQi6dBaLSQ=="
+secured: "tPR0k8nkv8013fzUWhJ/9xJQRkdFjYyS0hl5ivIWxPz8hDUq9a+3W5/by4nbeWrJH2xsNGvOS94X2XxydZGXQp/OEmOOiGvmEsYME1zktHMoKN3hD8bW6Cxyx7r1X9k4vnIR8YAtYYAxUe3kqnDBQS4m4Wtg8niLGhSRdDmdnukWcibi1lOzpQ1+LPZIwgtq2gqAhc36iqfhDqTciNwoEFdzoacheStX+YGaLO7WLp5uEuLjoqbGxOI0iHCf9x856sP07kZeAi33/7cCc2+FeVp8WrSjAbXSIHMgqwx6wCzWMWlSsLDZJVMk9PNa0XVrbdB6m1FF+aYV1tnoyXXV7swimGCQ2j8o8s7ZByVBVwyNhg3rEBZkM3ZjhJhSfbmn8OAhtnsUSuAp+RnHI60IfA==;12Dd+dhLU87semNJlNxvaQ=="
 ---
 

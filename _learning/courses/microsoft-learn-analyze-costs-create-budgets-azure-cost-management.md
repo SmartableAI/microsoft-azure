@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT40M
 ratings:
-  count: 495
-  average: 4.6242423
-heat: 55
+  count: 496
+  average: 4.625
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Analyze costs and create budgets with Azure Cost Management"
 
-secured: "AZy4ci963W5UzyCsbmnw+ObGVHnxfhU2iR6If93Ay/7WgfreaQmQP22qH6IDW8rnQYTaGiKAZ2FMetqRDYwkLV7WKRgIT7IraOWRwlCuh/xSxk1mc7ctfx8TE6RpXJPpcvupbA6MmZ7lTPHkc0/eNSWtBuG74EXSxyEnoQ8JlL1kBo0CzSKjino/8HeeQDJdY7j9x3KfvLe8CCAYSoQ9sKqjoQymCiNhZztXkn/WRBUzrb7WCnEdYRhR9Z4YV+r6ZBBaBsI6nPQFpjjVy+XVwrnyvyMQqFBNhsddbR7dr9Q1p4afPeiUQPCVztx6qMjlYD9Gv/lXp375VSjmItbyLt715Tz7/MwSOGBt6Z87uIwtS3x1BJT+8jUo/1/s8zTpD1yzT4QeyndrYaM2DDXWjw==;9k7Jv97rJFZ1bsAdoccc4Q=="
+secured: "GKvHYfGMVnxb5fo4h2x56Iq+I0P9SXDyD7Opp1CD5FT8yoQuMrkT1F3O03v0pA7oPW2j9XhQvhpKJdIr5XZmJX0oxeDFahQcKg3zEdKklrYI2Ph7fZUcIi3gnOWt6mriBS2dTcK6uy+vpPLRMQm0GBMafBaltSPTHX1bCTfncZVhCcCcCicvUnebE5gMG3gFCzwQRasyHlO3UCZNzQlV/tQXESfCjUV4lWTkmDgetwT/yeoBR5Jj3gJ7KoBEj/5SxYu5LCPohYDvELC0RnJ0QSE6WiWysLWvykF76TK5meTl19NcID4b5Q3sw5FciyQ0y7yXrz+mRaw+PvVop9dF8rAU4bGhIgkrOLgs3SucYQEsaFyorNJMU1XIjbZHEHMnB4YHNHUsMKG7miUYz7l/Gg==;BDR9QPwJh+QtqqXRmSMSRw=="
 ---
 

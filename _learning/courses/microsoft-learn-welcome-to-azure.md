@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 36 mins
 ratings:
-  count: 62512
-  average: 4.7992706
-heat: 105
+  count: 62513
+  average: 4.799274
+heat: 102
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Core Cloud Services - Introduction to Azure"
 
-secured: "kXMRCUdBwpKardMuADxFK6z7pcswS/X2Ljn7ZYH0mMN78xIAL7yf472/bn67M6YHXBkVcDsbvKmn5D7C654hqz3eRSPd+LLC/LIBclzfpdpXtrotKgNc01x5zD8pmfAmYTHdWqVBo0nDilWPUFC7e8rMUyjYBDtm/7zoScfMA/zj7mE7nbpCoPnDBHgzjUh5DNlCUfTGbdFMnBdZ35osf6dKYhfdSyrQqkA4ViH7NNn8nZhMb9KGni8+CfAagOj5jqjauSf33MLaVz9n7yplyKvMB7aZd37gg0JLmITeZz/OB5HGDptqNoLBNTFZi5OXVVwPAv9VTL/SE2uYGnVrKSE93+SmUHxkfhshQk/EN7w4tJNWkPc+6zQq096ZIcOdadykkyYMXYvuYg7gyhbD4g==;FWzUqQaBrSpRwXoWyc1wHQ=="
+secured: "K6rsbPsMxM2aBIIlOVF7ZrkweQthxNetnOyptzZER9BLriWQ4WlQbZsKuTsXnPPCq6git5nhCJdFuogB03NCRbK+Pr03jcCpzqCFEx28Ne0ObgOsgiIq4JOo0Q9T1kf5Mn1/JDau4mRWoTg+ZzlymTkdUwlm8uPp4PiP4rTtW7dRbMMd//yLnp63n2D4qycsSZeXoj7pvX+GiiVZpC5Anfd6t4OpktNZdjO8bd/H6nlgP+3rXvjdZD0smwsXbjqIk3H+j3duR3uq6PbneR5QHjOuMet97QbHuVQJs1Shfn7LJBj8ZmgmMeSD6+5iA7bPEVvsNdyJ1RbY5B8empn+UKVFywA3Z21LykBFtYqVg4ofHwlg4bqSafvruI4V17lv77gxtR8enoGYmU6ukzr4+w==;PAQqLUgaI17FpdfHqg48ng=="
 ---
 

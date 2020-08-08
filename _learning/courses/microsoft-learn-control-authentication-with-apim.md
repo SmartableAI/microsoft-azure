@@ -8,7 +8,7 @@ length: 55 mins
 ratings:
   count: 1256
   average: 4.643312
-heat: 58
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Control authentication for your APIs with Azure API Management"
 
-secured: "xmgG0/hmFe+7x6SzuyiMhvTPC3lxI70+EhLHey8z3aBqHP6Yimwxx+KpetPiVv2gCT1UiWEY4vmficBQwQwfOPJueLGxJh22f1ckKQDYFs6fIHH0cMd1Koob9a6Nz6xQzzvuevhXYXnqAPUsRS69lqiGrjOOQSA46vbOEVdInMdJRfO4t9RWziC/fykZOxYIl8cNOtjb6G4ayxHHAcbPv1KQ3PHR8A2gjNI5aTsz3sAwHdBr/7lrTNH/4yCLyhGPWEC+AA1V3XKzMwvADZeE1PqUlxlrihM1nmkfjybUbeQpzUMTWrXJowBOq7kQpMqiyOqpJxVv66AlH0R3o3+9x9lGLmZtXIT6SdM4NGZLxtrQkZYDj7NHgkhmPHpdjSORYUgaY/bY7TXq3Lxyqvc0Gw==;QGmrANNwJs+a5VWXg8QKww=="
+secured: "GMN0FXp+R2c935lpVuPLjTJWgjAcG0AlRPSOe2eo/+fkX/qEM0goRYMl/k7uKnOfliCWhGqcCWaD2TumifCl3iI90DPI6mNngTlWIlnqm3sshI7/waYzeRnTQrycClDCXVYOpluiWDgESWKMYlCfgIrKv//xKhHarjYInRTT+oDXmY9L+3UTdNXXaEmCPdWHxQXdiaw00OWV2ZHWgFcoScM/S3EI87j9bfbmcKtB+XDq3VQCuXexT+A1BaMxg1z0yoApNXYCnAp0kyCDC8MDVaDTKMs2kpVX22fxVwmpJyiUMVSjG0pPyuhc8t9U5GMzvQuuf4Kn6iange7yPQr7wuC31eCN4ILgUV0lPJcz+QkhXvwGJmtBxyCxr+rQldHP7rSJ41y9buuQboE47rMquQ==;ioJI7rFz70VrMOnYmZqYEw=="
 ---
 

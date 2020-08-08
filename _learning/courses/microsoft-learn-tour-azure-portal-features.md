@@ -8,7 +8,7 @@ length: 73 mins
 ratings:
   count: 47022
   average: 4.705861
-heat: 89
+heat: 87
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Core Cloud Services - Manage services with the Azure portal"
 
-secured: "vYtS//j2BwEAlys8erZ0DCQqTjzVcGJV3fYH2r4285sc/cHhVxwRH+mrWvVPnX3cCTKB8laNixtS7wI2+1X6xGf56Tex/91QEvXTvs0LKHRUXoR8Jn02tXimOOsYm9JQorX0rCoc+a5G8wtYyzqaKEXKKRrRdOhbFHSQ3Tbq2/jcGcPna4a9un9/YHoYQwYe1z+BdQHBlr5pzDP7YUM+6tJmWXyQhQHSycBCVRc+PA0t7n7S3EXmBXvKv/QBK8yU3U/o14Kbc+hGsX9pBwmoAtwO46ayA7Yts6bMbGQfas/KnRCU2N1gRbvX0dvRVCcogggxTdpIBXPC6sgUS6CIx8SyFv9t+XYx1Hym12LYnee2amsi7N625qtQNg3wxCYxzn4zzp0aetoq7yUTsgSxOw==;6m7s0Zza9Xh6PiHYPqMDQA=="
+secured: "mNbDSPvvBqF6v0R7qzSVGebbml3svy1biF2l5QIpqNFN7RqbqAsgVVPOyAhKbhM96Xo6Wm8xbEGU8ZEh8vsNyrRcBjlFjt3J0wnMsoEJhSZTPpYSzRYtpOVlzDZaa0LfFbhAYC8aZ8Pu+sj9V67HzpKO8t2/XihSNxMNv1rXD2UVEwtbruDYNA+ORKZ/kf8WCGa2ut5pbqFRkKm6g3LjKLC4kwxzbgH1FrD9Fb0ZO7BVJAn92SpFThelWd6A6uwxRRHTtAnTwMjNDL689ISLpAx3WvMtBnFMBol2A1lvUd8j96+jYmkWabHZHepC3J0Vt2GM/4+24JasPGFVdJMSAVtnc6L96BoZ1gb5tSQcSAwuzVsTTX1bStJb9voptCfuNNXRcpyKy+qdd3Je6h9WDg==;0KFYvUUcFct9nLuNcTp4Og=="
 ---
 
