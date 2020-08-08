@@ -18,6 +18,22 @@ provider:
 topics:
   - Azure
 
-secured: "5DplMXUrIsS4BLLzfVxNIJ0yNJFPKd9WdQF5DP/lLZwwsfQTVAxZNqXghClIRymPj0MkwIo5lHUGXM53TUPd9VWZnrv5Nx1u/ECYKBro0nl0kll1J5KsKXUq2sgahAqohECXZn5flmFNu7wmJsZ1bovsxNYgs6hXvxNNvecDFxrGM/u3/NRSAtajQvH8j2WIR/LKGG5GQdNQn1FJV7KuH9OS8hX4OGCKOBVr6e3R/XDNYd+p4ZfPcavH8tBYY9jGih8dXo4NuWgrTi3as2KTqdLNn0LyqtWJyjMqkT/dCth4zeuGD1ygOxj3rRWDRBBdb/4IIRiDxH0aNewZD39oAg==;S6hrJngO3w8nmd5Tj3MacQ=="
+related:
+  - title: "Cloud Services improves Delivery Auto operations and realizes 30% infrastructure savings with Microsoft Azure"
+    excerpt: "With over 400 warehouses, Delivery Auto provides domestic and international shipping logistics across Ukraine. The company retained Cloud Services to optimize and scale its existing Microsoft Azure implementation."
+    publishedDateTime: 2020-08-07T22:11:00Z
+    webUrl: "https://news.microsoft.com/en-cee/2020/08/07/cloud-services-improves-delivery-auto-operations-and-realizes-30-infrastructure-savings-with-microsoft-azure/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 18
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/566/2020/08/1270085408941310155_1270085408941310155-1600x842.png"
+        width: 1600
+        height: 842
+        isCached: true
+
+secured: "IR5/zajGkETFKcW7FKhdjECy0tHkLc3RSVWM2pYY6CrpY6Bjl6UtUEML6wFcdcrKGnAf0XZi2IK0Chq/MGf4y11A/pk95jNH5f2ZoBaK6z1s7eSWz8TYga/yNktDiTPWZ96bT7p3/i3/GIGFRdKWxpIcW95RnTPp74aiL68L4/ztLCE4Hj5/+Kp4MLWPp3RooCl91yUIpbYCg/vBbiXhP5L+nDzJCTCdJ/xp4bWAEduenK2cywxfHxnVhoVUlJ7B0mwAWNag0exz0RFPrnWOCFJsxCR3Cx0E9FfiDwML6J+FGkgogupZoyW//szlCOopl+a13wrxre3DNZirDb6Bbg==;ilEZfLuB1Jtgb3A6ULguvw=="
 ---
 
