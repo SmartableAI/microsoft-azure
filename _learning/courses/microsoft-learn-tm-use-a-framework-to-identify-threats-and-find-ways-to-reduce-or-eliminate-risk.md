@@ -38,6 +38,6 @@ images:
     isCached: true
     title: "Use a Framework to Identify Threats and Find Ways to Reduce or Eliminate Risk"
 
-secured: "5XBy/1/P8qkxTpcaDpsg0wkPzikWxL9YpLBo9X0ZgRtQEb5VAupDgh5SMK9zauIQ5K1IklJLwZpe+GRKwalXY9T8iG4J8RLs9pcZ6lRrR8fheqj5PQk/+gxj37XKxNNavq/A5p7hfhhsMVAg2UZ9FTYkQci1A8VhXGDg8NlgGeuZsCPPxITosKrVlsAn3JnDfOHGKY6UBaEaId+T+4XEmqCR1sJSUNRlPZMXvnUbb/9bUSPasJlxk8xYNkoU95pWzhzJX+2/LLprhxpo0GgB8k0Oi6/2XxEpwfpBPB8pIFhr+LJO2ZIHUnHwib3qBoRze9/zuibO7H1I95o/u+HrrOCcG6kQOKXUQu/NRmScUe74U6ALWhBojo6myc8f+VM/saxHYGfALsrahCsrRZ/guA==;Wgn4VWiADoyNzD6VpCGquw=="
+secured: "8WNgg+NRFbUTEyRnuAbaaj50KbOQGoKg0H/uAW/ItopkBGpjv6NKr82b/J7G+X7I25tdP7WPEF02nu/ujwmFctQvCbZXF+eq8HT0MUpANYP5E4ZFZ8gFyx5k3le5KIPBZV0qa12TsbpRlYs0OI7WvQsdJEQbdlOJwOHmxogT+0CwTve6rSKCdewa1rF8H/egDCm++IETgdTChoOKBUVO3WK7Od2ypctdtk3yjlh/0/9juI5XRV2NBscymI+wqV4OSBRy78TdDqu2O7C/0zxuGXqHTRF8LHxu++t9NBIz7hmA5Su8fRkHgiGlfiT66+x/gEJg+r/IgQ4qwbUSlDPuA8qJCWYORTZ5d8hixzdm+WvJTE49Uy5F9uuEJs0+isZFK0OFxspq0XLcW+76A8mK9w==;6sraKwS/ZXRXZgFDWCQw0Q=="
 ---
 

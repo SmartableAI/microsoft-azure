@@ -8,7 +8,7 @@ length: 77 mins
 ratings:
   count: 336
   average: 4.797619
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Discuss practices for responsible AI at Microsoft"
 
-secured: "hSb5qvqMMZSds/TQleEKZYCqmScBU0eS7HsT4OdSl4RXvuK/BxWOT/DE036XE/l+4VAZjzvxqlANFMRX2Y1Un+1+bgMY0FZr5j1aqtTOQ4YE9jEfJ7ff4oQ3fTbsQZlzb7QF5S66Bss71znN6TbR87PA54CoF3jmOdBaBIGwVzW/zrtUnXrPqvYXKpFuHpcAqVZtpBKdqYYO4S6u7EaHLwAsmSNISp4XRoAlUinlR+1tlumuOJ/1jmYzFOX9lrQIH2CyNc9k8x0UEEpYHbDjFj+rLde7HUsqz3er3E9j/44FGfxlubD3TXptlOoZt5o8UryuhosCTmIcTL67/PaeP/Mp+x0hYm7a+zSjoFvTP+TrfoxNEpwCc5noTNp+k/jRiozAsRPDJml+fQPHMuIBjQ==;pCrUd7wRGl+gqkJ/68WeeQ=="
+secured: "spZdT31m94r61kOOGPZtxPunDFelo1bVJGmvZ/GBuu9jTbJxkDJ6+MkHSIxdnb+cG7gX57WWWkvEwGUVjIK4y3tTBYG0bV2ygY/oxc4mUdOUxLoZPL81FHIgWEv32MKRBbM5er7wpd5k9p5S1fHN2fs4OcpZMMVZohFpsgN4/FaEfFzqsWgnIz1hUlCJHLVHEu19r9brDsZBBPicsFjQvzzzJR55tnaDU23fKtAnTVlkIt1gTj5gPzPriOthTj+pY/tuI/QntbepaOHsy5gXFfoGFH/shuhCObsZPVIgzbzMn/uhARJ1ruyCXfmjf3J2ZOH/qLXKWZGzzJ4eVFtj0LUz3lg8UJkIAAn/2QMB9j1zNwWdxQEEC57wHtJHywkAf2EhC1Ti3UGWCgEeSutBzw==;Nu8NpXWMzFBcG2l6TuwcYg=="
 ---
 

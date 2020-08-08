@@ -8,7 +8,7 @@ length: 23 mins
 ratings:
   count: 5447
   average: 4.736736
-heat: 66
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Microsoft Azure IoT strategy and solutions"
 
-secured: "mELwg4VMAfXKQN36CXTj0Rd72R6HHI+dPaEldSE9e2kfGarTFgrNAoXS9HHxOT0ODSN3Rvpa/g3KoAKQh37XuYhpG1SmIHuLzSB3yk1BD//jKcN+AWgksUYfjom1XGIRMnhUyTVLHx8dtnuAu6RBZZ2ma8crNvNBV1xDrxZRSZjyBccYo5e1ci47gLdq/GInGulwH/+UurgiLsAwV22STO6T/vI3QmUXqw90BUUKXZexv48KTrq0rvZnUW33AcNcVsiLTeQKBLQAwM6nMl4O13noJOIWDr+ivnpXo5MyNo5/DwX3xsdn6ee4CqUjoRL1KsXASAfNYKBniG0d3YavcbJu8Z5IJx/gT4ar2TCV+i52mRMm2aFbbnO9S81Z/oEISlALPeM+7t/Extxo1j5dTQ==;BpwgIUkYnxBjIFAo6ZBhCg=="
+secured: "c6+ayB63MAUKbFAUJTIiM6WEuci8AB817tt/ssRwVPc/oI2+hrG2AtbqmoxGzWZSAKjSULreS4WEbe8Bfh4xcbpk6mO5L+dykOlpLjcYjW8e7ihxYqLOQ1h/aEzSjwaYkzNwrswm2W73h/6tWJSreFL0PjFSDxevNXNMbmm96xusGAkIolQHHJb8ohSksy1/BcqQjUsdYrAG5MMOx6rd1TiBNOQgbmlUFPXuytACY+8w/rg8CJZKP8gdDjh/Nkji4AXjhGDAWanC4MjdtCUq5BFDrRbEmRGW/MJikeZn1IHLg3CegV+oiCxVy1KMJf8a+owVkEBiVQXe6iXlXXAN3QBR+dhHzfLtvpVqCEGBDzf0yz6Vqq5GUNNvdhb+zey6xmUkPbG4Lu/fJ+QSeKgeew==;5jx7+dhCnxmGYqBVpkrm+w=="
 ---
 

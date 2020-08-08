@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Improve your reliability with modern operations practices: Monitoring"
 
-secured: "smYOXmoFyZzXXsLk16vrbul4C1qFsKA5YNjoKK+FnxRt0906m12ufj78zBWdMY1UWU48KpH+CPgUmO0Ry4CLAgaw8AwgeEZsvW8VcWEJia8fq8TEl4xeioCnAAYsJsivozp2QHXU4dQRygn4fv/wuqzHfgOyfO++N6f7/MoomoJ1B9Wd/9DZ6AQ4JV6qcSwVjLGVn38jKMsBR4Wn81wfTcnQ3lNvUygy6VK1ufaH8g1QaAZqLzRczcREFFYvxEnDqNVQ+/bQecLGEMEMzPYn+eJlOxM28rL6tTNFVlgIrF5c/P1nf189Iw7LpAU7xdfZoGLKs9c8rmdsoDr9jHAD26XhXdBtTNqORAcXt+Ye9i44w9C2d/lsNHOcAt8hZztsILWypk0LQYGCVhrCmPfmQw==;mPzBi+eHuISFWM+N5BxtAg=="
+secured: "boBHDdfRn/s1yERorfY/F9h9S9IDvq0IfEMmfyGhboiA93ZDddpj+xLHTyb58Qbcn+ZhUfp1Y7YkPX4xn1DL0izf4rqIzjM6hOEE5rPmCfezvS94zszh8T7eOukvHgcjtwUI/4wPbx+HnGWlhxO3xTgkRoYgx3tKlJxEMsnHyf3PqTHcdRlZDp3xsU0NumzP/9xhgX37bkknlJxBdYYDL/tRBYDbVcCWccmdOLGasLBOdldx9D74golE/BsIzPyTm/Qzf8vnEAZfNqxDGv9b4RsDhklWePr7ttX/rA/twwEAMQnJMlipVPNkjCmT6K2/hAlCbFkxdjFT3y+YUE93mfflvqE19QcGG7q1wqpfpHrLyoZ3fGaI00Ank/3QePTL48Gm+LTqq9613y1EZKkfwA==;rUCIBs+kFl0UONSenxmy/Q=="
 ---
 
