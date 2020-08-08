@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Protect your servers and VMs from brute-force and malware attacks with Azure Security Center"
 
-secured: "uuBDLNWU0e/Nnk7DTnnSHNqI/u5yTILLgZOKLvlno5kY8yxGfsVXPyOfQqlTqdHoggXzvwyiNJaxT03/w6DXDLj0gvA9f8hpZm89X7eYjQ3JGhGb0AKGOU51II+tBjzhv58SsqC/NbMZ+rzZkPn1vH1cJGNcKvQPxthu2mA3gEcRVxGsHQjSqKvYy0sZp5Qv2lge5JRWNBsb9aVyaAt95KnVwKhXrpK0VUIwChLAoGLfV8v63M8qWMLd9phc6Kb1VZMDhGEwviPb/WWPL5joX7zZGzZ2H5ARp+i3EXz8XGctfqWQ0k4MSj/KmHXj/VQHr+LlApM/gPH0z0K8MLxItXoSSa1MJeP/60ZVsROaer8l9R/JF8kpWG1/iuZfZKe58GChDVg/bsnwrsKI5OJC4g==;rVdblFH0t5uK0pAiLZHrpQ=="
+secured: "xktpiDA62mVeW7hu4taccMgCzhiSfdzod9Ukv7XEGsjEAxH7/3dPm92gqoqLncA01Nskut82TdlDMFBvZbyu1nS1pMB58VqLHyV8Bf9U++GALASAldaDyzBKO5nwky0Q5TNI0YZF9u8ApmeXGjRDbVrK+C1VAdOu3PdwC/r2QvZ1rrvG4nHcsYbawYJR+rJo/sP4ic7VErSEaxWrhJHN/dE8kUYNtIQNWQmqPdTAXPJHPPwwK6OTA3VcfFrOmesVMppnWzY3u4hzcBS1QpODH4ZDu3+c/WszSdaeOPpQhDYButH0K/TUds1XqeUPpDprfVY9d1ITVJKIIy38mGm+NewwFKLu7r/NAreTVOOhn8bYj7U/8hkPIDiDgorys5IRjCZatpnSzN4DgGvkcAclQQ==;xBDzVQdS+EyXkHNcSIUVlA=="
 ---
 

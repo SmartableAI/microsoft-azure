@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Deploy SAP certified offerings on Azure"
 
-secured: "dPtaTUdcUg0jwcxyGO6uuAIQYBAefER+hC91YXxtuNyY0F50KIdofGbDuEmiGZBUCBJZZv0muQYHW3cFPXWSrSB+/NSz1enuuvVGPEJKts/PPEYRLjp15+5jJNwHHB86LvDRPvtsK9BtJgE4K7dxJUFBK2Qmcjp7hXJW4FsSSKSA9jv8TmBkugjXtmYx32gBFCtj/iU6VRD7vPNd6riJm4H80hx+GJhx7zGJzRTcJb87YOq64TZPEJIEnbyd5BKjqYigekao2x8gnnQQfxsYmGNQ4VfXpPoxSaxzu2xM1DDwJVRJq9RBXEUI2fYB/Tb0Srkwk8nxE5le7LUoX1/wY8ldeJXGox7pqaNsvDw4ZMSQ/+9tCY5Nd51DwKzRzM6455Hb+3HqCiWrMIT2uENbQw==;bi54/iHKm9RteAOFWTKweA=="
+secured: "wp2lz2hZlAn9uYM+RDXCPDkLsFlBXqLnHXKismE1wxAD57OR0RFT+KmHv+WiTWtSklodwCvqEUL7ckQOHY1EM2rhiug1d5VCBRtij/9yaKqP9SAJwIz+e4JLwhx1jpr7M4orjJwXzTQ25XYN6GadVnGcLmnaEMj+8nbKsHDm1qOcwXeK6XnpfjxFK6Hb28JjnHs4OH60hJhfZvCT9TSs84xPd8oiCgDhbbOk2vr37/R+gAzSoItn4TQ7PcnHPCidj44OIbkX9vLrMmcmMQY/B/ScLHruDjC0PpjGpQu+XHb+rzDDTDNqNX0Y2PzlIr/yt+guY9jJL76n2hk4wnB0h9ovWHlgxxf+/U4QO+6Wb0UXHJX+SlVNhuz6b5WlFGOnBczz3w6kjlKCKKQqrRJtaw==;CNanzvSF+uOaMhFFqiqc+w=="
 ---
 
