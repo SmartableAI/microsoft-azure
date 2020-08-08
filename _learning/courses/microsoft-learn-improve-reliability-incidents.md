@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT33M
 ratings:
-  count: 49
-  average: 4.571429
+  count: 50
+  average: 4.58
 heat: 51
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Improve your reliability with modern operations practices: Incident response"
 
-secured: "/q5oniE/MPyaJTeIzmFt9BHLT8UoS3jpBrbbQnEAfQ9pujBxKWORGqB9fthNlut5Pp1VgdoeaS8FxvHdR5wuMvLt99k4kQNVEChCPEGDag/ovU1Dy5/OvoDMVK8XznRDyZBJhTKkTKpktiDfo1k1sK4KYSkHB+FA5bwAPjMTcjArVIEOT7rIZP8QsAKyCEn6lLYn01zH6SJHa8stJsln2NccWDM4PJ7g9Qaen/bfyxvbMwoWw76P87Skr7xY/0OwzUbjvP4ic6Z54tFkl77jnf32crKdANBx459be9PvQLTmPYg1kpHK0pgRuwxxmmViRsSqHumKEBz8ydkD4rH8/TddY4MmN+JDWi0zjXnpTYYk0VBgOcGEKHR8itFp3fPEbUhuzGk+8tOG/YLyF0GVIA==;UTLyGc4yzql50HoMUCvbFg=="
+secured: "RH8ofXg1ETXPG2crZWE1iJZt8nu9ouS+j7+Muj9ItLC9bltCcY8T76EmzFaJiJ4Ei+LKO90WvMeuL2JnpEcZRHlIT/eQsciwTncjspG04pj+WLe5R4fLXAS9+QuBzRjovwl/rCBBNKScRW1hAp3hwfQW9Xq3Q2IY6XhJ01PyATfq0KnTrNKL7xgOFEMTYMWyKx1TXtQfjRNTVyXqrXtwsdvDMheW1/3r8vXb3i9GrlNE7tF+RHWL/lMQlA5zJLNBTRw6apf1cgwdbay1gXVz3mVo6Pf4wE3LSFZtlUsmabIHMSSDv+4uaWceJ0IH9YSkyeg6T3yYWGLR8gLeUodQ4bio5qmH+n2K0XKkFAJsCk9zbt20phC7j9Oe7kCUI6Wue2atk8eN+xKuO7rpYRvi4Q==;KGnxfIHHgxTba3Mgfju9ng=="
 ---
 
