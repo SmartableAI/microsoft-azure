@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Learn how to manage IoT devices as an IT admin"
 
-secured: "OiVCGggo7FaWKAWnPg+b40kj75Nikumxqe5w2a1CmxnoDyLNQ1bYoDaksmy+kmKtmajs9UqT6niKHP/nsxOHoFKsF1a5z/si7Vjdjp70cNM70Gh6F+lilHBaUH8YXoF2QnsGsRv34TkeFWhrl2Wgk/ygBs3XlNzXCU3gyvW/Ex16BdenQOn+LYqBEZ7CXZw7d8RMidJDIXggevk6z/FcbwHN2W80sDatJd1d4pXTzjKfv4FDz2T+J31z5rLx9Dna9HzNAO4j/L8kmnfyeV15361vuOOenG0Cd3eByG4B8we9yxCOnyrkfUoT3uSaZ5WVvTUCeqWh2VuXGoU9yeJSvLsVZqjkpR2V/tnQlDAlwdLd1mjuFFTnvbgIqzoixT42ew7tF08qP112Emg1/FHcJw==;clNMkYjbty3evSmLjNn6aA=="
+secured: "FeIY+KVTncZtfhf8RoZG2zqac1bxxONkJ5IRWO+KYqzroMzXDT2+ZAi7uEiuGoosdpc3+QXZDtB2EM+5fx8AnQePKCX83Mzpk8/97pOuFYKw2l+Cmt7P2MCUtT5EZIC7F8nrTlxKXz2UV5EtlmGV/TftdPkVZeZ3Yd8+cKgIFSb4/SiD+u2eFLklBmfSHaB+TDV++hMZxlsGi0VnF1+LdXzJLqY53AW1XUwtP8+H+x812VfCB56R/sT0nJTnVfWPzJlNEpmzA92ikEzM+4wv4lZvRg6oQLxBcxM6NOAWoWZ+ULqOH7lUmweXZNTQE2ozTagLJGMyC6peT2HN+CYwbENUfKsMRYy3+0dZHDjjrM76qZVqbAlUE0kSNBf+aQftMw0cTvEYLqKUmLByxViCRw==;/YajYeBimZ26TFq+4ACoeQ=="
 ---
 

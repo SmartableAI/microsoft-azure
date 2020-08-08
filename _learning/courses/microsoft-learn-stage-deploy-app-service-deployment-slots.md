@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 44 mins
 ratings:
-  count: 1556
-  average: 4.521851
+  count: 1557
+  average: 4.522158
 heat: 55
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Stage a web app deployment for testing and rollback by using App Service deployment slots"
 
-secured: "Thkrk0HYb2EgeUalps9jo2Rt9iMOuT1c+LOLFrG4FiUgqoBu4d4VgSap8eLBrzjWHqPRbJoeW/0B4LZKRXfh2aPV3WQ6+BVIdCFwTMbKkxycosswFEU7kg+ywzKE0NcAPwgyzlNFg43FOZ99KRfq6BhPm8nKnjJPAGzMXLmxL+TMWQeX0qkudJ0GQppoRVD9G/suRFIYfH4d0gJ52RaDhRc2H+d+bjNfIox5uFVBlcLcstHyh7D/Qz076UEvloOleOSkUYuhLbFA2AF1WGmDGPGAnu0crxzQ9qj5AuSaXo0RhXoHaofdqIJkPvxuWP2nk5LUO3VwL5+fK59Jn4HJtOMBBfXV+o6ZzTd4AAS1alWDUOR0pm3mmbKv/LSWgwn1FlPQqZ07azzz8/8eNSnldA==;aix7BSwVWbCnOWWSCIULOQ=="
+secured: "HnhfN3YUMj2xP5R6do/fxL5Lrwg+hDzawRCoH4+HZNwOUK//p5TnF3XUyXcDmi2nnnyesqDA2uFUg3TkfxVrijYBw6sq434XugB7LGK5vaD8rXYrptA7LTmTeMAI5qJcFSziTE5PLTVGI8YQyYTu/zRFNG0TVjOAbBayiuEUo6WSPcE6bb3S+HEagbvOHMirTzp9Jgkfq4NAJ4Ypq9Vsr+M9tEpBezlP1iJyPykcDAT9rIFINOGVdTVaf5s6uMviBK5U5W/FHE/y6c+O4u2vLsPBzgMHZujsQ9aBIf0bcTm1N33DEA1zjGSnC66p2+N2v1Zy54GCgWkgpS+cAG0I5roAOLVqxYSX/XBu5qrAmg7cBIubTGn4x26wjAowCJASf0gsOhZ2ItCvyGdkFFDTyA==;CQAy4ieCP1/zMwSfMPh2rw=="
 ---
 
