@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-07T22:11:00Z
 webUrl: "https://news.microsoft.com/en-cee/2020/08/07/cloud-services-improves-delivery-auto-operations-and-realizes-30-infrastructure-savings-with-microsoft-azure/"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -25,19 +25,6 @@ images:
     width: 1600
     height: 842
     isCached: true
-
-related:
-  - title: "Signal Sciences Announces Advanced Protection for Applications on Microsoft Azure"
-    excerpt: "Integration Makes It Easy for Azure Customers to Protect Cloud-Native, Legacy, and Serverless Applications with Signal Sciences Next-Gen WAF and RASP \"Protecting our applications on Microsoft ..."
-    publishedDateTime: 2020-08-04T13:47:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/08/b16919429/signal-sciences-announces-advanced-protection-for-applications-on-microsoft-azure"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16919429"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16919429"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 32
 
 secured: "LHps8Ta9CCqs7PkKCyYQrFfiRo95O3gK9l8pXCsC5lWAdIGcX/Yox+/XvfseO5uTu/s4ZktjnI+fgVqGLm9RdBuuJDWXIQ5gxsJMvj+mQTqyQaIhx3A9TYpUymvKAzNHwkfE3zcewqy0Huzk27pgGZCQ1m618ewHjS1sJ3jGiq6B5sjsz603JjzVZYcL9mdUb596+vvzFLAwf3fIjihIxshBvGXAjLbPtlyfZeR+wZrMWRoPnJfGDjlMCIKXME608t+n0fWhgmRuaK8AmuevKTfC/4A8r+5SCW/bgqh1RhNKa0bx/Vf9YiInmbK75/yvZN30UuTlm9kYxmg30f5XRg==;HGBVRuFxjPz4ZZqGgkf6tw=="
 ---
