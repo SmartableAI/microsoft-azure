@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-readies-its-aws-o
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-readies-its-aws-outposts-hybrid-competitor-azure-stack-fiji/"
 type: article
 quality: 96
-heat: 96
+heat: 97
 published: true
 
 provider:
