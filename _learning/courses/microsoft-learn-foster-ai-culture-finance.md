@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Discover how to foster an AI-ready culture in finance"
 
-secured: "6bbgsr7N9PaWBrK6YBdOhMYgEQrlb0LDXrfPUli8CqjNOhj86IZzM0TkQQojwaB//3FsnpnxvOtC2NYfgbm+savHWStm+GFLSqeYh+TFXDuX/Jm8mFb2SgE84q00UABFEcaFORmkpdIotmMqWhQ5pfJZRhfYtKVHiOijbHUgvyj4ZSoM+QDICHnE6cAKJzqO8ClqbTEt1gThAycml0LRf455tNB4612weq7MCrIGmKVGin0dlg5TYr/BcFycfl/6hIv1Gr1QlEbOjwEI2ilmTUYx9YihYKmguo+b+GihBgc+l2dWhMZ3qLENkFYoAg1Jng1xlMB2FxcQxHON//mQXJhScxZ0IAQOSIcoNlsMLb+8XtsO2/p5nI1JLzV2x2bPFrNDvp9Go4iSuL+L50VNNw==;4AMVRQ+mfZOuIOpZIxccnQ=="
+secured: "yF6+PISoKhDMRJw27gQk6MDw7CJTYQSACezpCLgcdoCCfRcX1NMejEJUT/jnUzAeuzGEc953pgV17lb6xnJSDwNjy/Cob4PNnbOox+Kjmdjwd8yk8pbaySzNDaYuGOFrRycOnrONaZQtuR8Jk0XUGuA0lZbNpagLutNg47syvfNUKuj3yUZKjS5oMBHWfRI+/qLWYtAWjbi1nTse+sQ08kj7WD1qERUkmrPoOhPVVnHdxpol7JEew0T5bx1NB3A8itZgonV0EeabRacMsWaLQZd7UG3/Si7mP3GuHFbH8KYyWDCQ71MRTRwacc0l9gfbZgKOLbcIlFSUkPIHkqAs+YgqJmtNJTjGKAMIz1noRIo6yothrz+4uAjjgjuVFC+3EtNUHmp/hK8s1IRNp189Jg==;ihLMWVTFoQzaWIMipcibbA=="
 ---
 

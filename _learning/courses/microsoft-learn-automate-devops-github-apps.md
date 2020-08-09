@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Automate DevOps processes by using GitHub Apps"
 
-secured: "2JSeBZGk88y+xYmmUm44I24lcQAOk2zLn1kgayQ7w2sCcyqmH9Azao0zuMn8QZiJphyOBBkW1flEl8v9bhhksToZTfN0PcZQlb6A9T3SAC4xM7vf8LuZaP6zKXKxubu7WEtlnT52K1ChGtWTc3nul5MKdEUiyEd9Yn663FUfH9/97/5bz2/k/+s17XkmOXu+sMHqCctAEUcVkp9ubajQHYmAKSzWVpJ69KkPwCD/gjc9cGqoAr/yk8ocdlt9kEYT4QFuXwTJ5WQIaCtCl9D9zM/c2pPKmxvByN+IrLzAHX6+k/XEBvF1qDNR95OIWNwjTFHVnl0E1+6v+q7sJHJSfif+fR1pg0iM3oQy4XSPsg1ah95GxlnBzg8zZ6/8Mtro8W6uQ/uk8H+ls29cVuxmow==;cMdOGuLshxevveCKjJgjOQ=="
+secured: "bk+bSnxX/3fOLkWjVMVSo0+KW7t/O3KTQCR7riGJan4M2Petfz13fE/5RkWV5xEznoJ5/vICuefx0WnwbnMA6ZXjmKD2SVRdOVSBlwJ+3/V3b+Z5+BQ/TG5F+GBp2jiTi1k2X59UVAZuRZhYypOykZY8+LecH8e6pPyYPrPRqMWm8Zwre5zRxcvMwXDdBTpelUZcj0IgWkHEu5R58rklleX/CwVmjOhJF7BVGJeZvV8P3zgergtqdi6Lp5d4ZdknND9KOPbKzSRBRpIEmVwGbXHWdjh9F8gF7fvzcwfv+n/SpyUFjrO70sehabc/LWjnDcxNVblbYRRN7I0NHyfxpU4U757i2rGGiZgsZekV9ArUoqMzydzO2tt3rj2PyJEG4CVYkwX2HJQiz2D9L2MmyA==;ZUwRaSFAJkZ3zRx0PZ64AA=="
 ---
 

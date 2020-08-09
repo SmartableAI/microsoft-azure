@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Align requirements with cloud types and service models in Azure"
 
-secured: "AJR1UbWXGq28vz0q8gqrGh7latXmwebhP7wZFYuBOVHqaSJYmA+j/YvhHckVeq3xH0URb6TyvDb+ACWUuy3XoHTb1y78p6S4c5/fipoETB1H335eDf8/j8ncxzQ4QQX3vJsNm8oeEnNMdJgKhTqsFDKRJymKbthbAhyhZ5zRHMxehq/GSEx5oY9Gz644SK51/si2hH4COCSKkxNRFu2/tmW0uMqNMBcAxkiGbxh9PQTwHAgbh4NKRCx5cycZf3U5f3r2Xhz/7X1Oe6C/jfGcJyZ/QvKEoZP4xhCo3DfTT/Kpp+dJlQD31MiDktSi74k6LhUzvZ3bIwDPOH6kL5XvEGQ2BC6DqRG1vxfaewRZouzdgC2vl4yUocrRSbPsT6rbWh1KdXFXqiQCtswt0+0ZGw==;eMcIbaA6NxPHwPNHvD+vUw=="
+secured: "UQj2Lby/RXTXStyi4QU2vffxjim/WjBCnjeHLmn1MTKVvmZrywB6cnOfbLhw271Dr30kFYVSduPb/RaJKoLvQuRI+YP0qSEB69T2++sbaS8csM0+AZKm9FMSpCkYNU8M+F7sMMtT/FlNeAaa8aYQnd3SkvBk2Yp/VUQlr+fehfQ67R6D9nyDtRCoFp4lzPenpoooIYfUT4HEMSpTAlumRoohBl6YmKgsElZctBMWWm7oSGaF2i+3vrmQhldaEgKXHZHTMT4+/bx9mvNz+oD8WLsgekJbRkrwafDbEAOhbyalI0mXKyxTnKFzVeuv7Lj6V65dT1/zcqRrWOZqiBbpHemm3RXe3zWvtPBudaEG7P5KAQ3g2oOwM1U2Y2p+rs2HuM+mgf0TcgxPybcA6F4biA==;M4V+DaS13XzLuEk0g+NPiw=="
 ---
 

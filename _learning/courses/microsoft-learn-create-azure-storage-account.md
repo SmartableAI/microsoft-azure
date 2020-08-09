@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 30 mins
 ratings:
-  count: 5176
-  average: 4.7536707
-heat: 69
+  count: 5178
+  average: 4.753766
+heat: 64
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Create an Azure Storage account"
 
-secured: "iqBBu3RmeK5H0GhMgA2CqHwDwHIbGyCFlh7XQsds6YI5QYeZ1N/Whjn9VWCd/pfPzf7gr+MQzcKl2vF4XQrCeNiMMHnoMrkwbOFFdiIGdD+VEt3SdgrBqwmGE/B6QZb/vcBBFQQE/u+VYhoIDiaDAo+hZ283Q5P03WummKlkcmuNaYIUMRosDOXRcfsEEpuyVefmpiQKM3YWkt0xvJqBms/oNMFxyFq/mmnGVd3l5/o3jRcsRPzRhRjJL/FBfDOle1lbglPB0ofsO+mYRmgW+LgAaqMWHc82NTZeIoIdzx0CWeJNexa43hvr90uj4Y4391u3AIksL4QfFzFzeXQTTbSN8XHeeTjemppewvYj4SFkLk/M0NcK90rs1GJDSLoHTnQngekPTLvVqBZ0QBA3aA==;szlpYniw5Z0Rk2yJsva16w=="
+secured: "7pOSMWc9aGcezoTrAjqGIeyTTwm6zb8sNq7zRISK5BwEywFJJPp5tc/+pCEhjFxPgrFcjeO5CcxpSKaOfymTU17JsnERMgFtHTqHg40j8eFKXmpJPTKnchZvIw+kkFssW76zBymmr4VMugiQM/FTtzUJU6ZEwg1d1hLRvGbMPFlowCmVPplikuwMyT+tPfp0HUYHZF9XjfzW3qz3tS5R2O24zOsBr1itOhfpa3pz8Q+YylNPX5CHMQDa2l27fHu9JVJSUUWuWLDjm98J6upoe6ZCZzUnJtbsAhhCGxZpwuTAF9BUi+IVqFNngDSyl7CvUYOmmUPEmYZC/E/b5C3CZsnPf5u3KTNXfty3Nh9MbWCRDMN0pSlWRygUB2qv3DA9LghPCoPdE12GZ/KeCJhJpQ==;cU4RhlMdEG2D0f42C/PqOA=="
 ---
 

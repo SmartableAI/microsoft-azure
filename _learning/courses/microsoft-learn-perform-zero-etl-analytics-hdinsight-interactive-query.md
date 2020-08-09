@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Perform Zero ETL analytics with HDInsight Interactive Query"
 
-secured: "k4mlfkqUejgzTxEvkGc1by46mANRjVewdJWCqiyQdKaH0aPj/QGqQSPZv/xetKCozKD0SJUJwJCjagjj1dP1ovkEzO17xHn5W6EcrAY4/oIxSLVU+R50NZahLqJ8VfHB+uwbvwR/aAxZkqk4ZWYdByYt+3kGCsfxZt4D+PSrHZYklZ3aO8j35t9xiOVca6+y8+7OxwYMCag+G+v6u506lBw09A0hzluBSOLGlT8nngVvo+uVrtccqPtzu4LdKcPF3N0jx1Ol2yYL++y6ofUtR2phEqj2UZHLN/RS9OT036VYki/ccKeqzrishhriJOnSLuOqNq4o7/cX1+KyFWben9l9+mqsCYrYQbIE/jfoN3Tox7MrUPQZ0vFJkrLYHVLaIUUK707FoY6fvnfLPL+pIg==;A8S/EF1g5ULU4hZhbw3kRg=="
+secured: "V2sEsjyOBZ+6ilNNZ1gLQeySUA1setfqorHs/awXi0u36yGRMgZO2V4jWWyTORegXORnnQYAuzGwrnnVDBYQ3d6xrt6+ANTLlTIQ6GCca9BYFGEtEZ04CPlOE1iNtdm/ugf0PZa46As56wk1QiFYmhk4tYjT0BP6/V9CVXHkvxTrlOc37FdjxtLKK98KOGIOGvJ/A+XbfZyV5ChqTSyGxTKmMpiAKLtj6IKoSJaBxH6Ejgx3WNCuWdTiyk8nz39ucYClwDx9hA5Cl/EUpepbFVeRsjwlXrx4ab0ITo1onVXGYd1MpxZkKV7f+yKj+RdMFhl6sAG2GGf8gHkq32MHJSZzvBR4xwJnPMS+TxnEYcKLzPEXTtw35RyeQn7VsWMIfFgZQxKTnBy3f0xtoSdxWw==;hBV0B/32oyK6ju2wSRStcQ=="
 ---
 

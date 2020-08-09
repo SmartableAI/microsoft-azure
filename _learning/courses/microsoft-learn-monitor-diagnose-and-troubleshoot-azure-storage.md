@@ -8,7 +8,7 @@ length: 41 mins
 ratings:
   count: 1009
   average: 4.555996
-heat: 52
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Monitor, diagnose, and troubleshoot your Azure storage"
 
-secured: "YviIoFDfUAFvF4Wa+5k1DgFllRGjiOeoHWXyaCkWid7wkJmJvweTT1kv/VpiN56+dAtOp9kpDKqgIZqjkDG4/UwrnY7q65kMgAXOLSGn35z3IlL6f2qMjOos+R3svO7JwBp7RfsEFaFZ3V4SDb6vE79ymqt54AnwdOk+UmjEUUFWOPe+J7sK/ZMOt5wTRWrmtep97wNruFsxyDbkqt9fBDrJq21kDU3RScZGwHEDBO1Fug9fiHfd/T8iNV/0eeBhaEcYLa2FVToI6VNimesNTcdBLXPgxzFin3FrXegMuH7iqMufZwNoH2HP7jI15bRv5qeqoSfF7rV2827v40gkisKwuFxLIZScrcrRyV8lrQBtvczd5NY1IKFtilT9ubaoNx2tuTCEmlDxhV4NHk0A7A==;Y0OHGrZeubARsslHQBVRiA=="
+secured: "NPIgtp4GRRt8xbfkIObTeG2fHOjpAmJZeZt3hqFVBbX+q6MFfMV2wvAazcbHuXnVir1KPV3iBJmvGgSOaf6hybE/Jqi79wNSRYpCT5U59Fn3Tin4VfutTehqWFpNntaYD5gz+Y2AAO2JNR5uNtoOWLaNhd1LAM6bfdAUHlC8Sd6S9eaSOuL22CR1/QBddZOWiHag5st87NC50cZQAIHmEzjOQY+qMd4Jf4wr9R1FZOE3aa+m9IsnG2fnnYUpLLsEpOTsItx6mwBWv9RHBfM3RDe5Y6L3wry66gSNtW24uiIEgAlXrZT4XfovpJrAqpjUp1FnJ3bG/iCIPwJ/QLiQ0ZVrp+7er42ZBBeGzZwwEh2ZCNt+tH682gKNUFSGmVGwWi1k7P3SV6KSIZq5fbtllw==;/zi5O3bUThJCwTsNzC+q7Q=="
 ---
 

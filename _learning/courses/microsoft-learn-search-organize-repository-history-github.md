@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Search and organize repository history by using GitHub"
 
-secured: "wolxKLTzZwf0rxrpYMlb59idPjZzkuyMlPvU7Wv9Rq9AHHbIUSkcMMdr/XK1+gohKZtP96nVbmYcGBGXbLaerNca6OyzrY0/CZ8J9AX5pd/Hc2ZNbsJRB5lRjcOlYyiecg58A3qgjwQDV1/oFTwWVxIir6KWXpfKaLFGIaDciYbvj3XEsPj1QtZngd5XOWD4443SUJguZwjiD6f/m3dc5FnQVUK+nwiL6omEMZ4NuOxEYIxa9FK9w1DR+3gbLzf1MHWNFmxM1GoZeA/donWMJ1MdRuyDDh1G/4KruI7VwNZqXtY8bGqVEhyyL+7QxymKcRvy2jnoPmisx0XorPBzG+3e8s+Pa+iN5k50rG7096lzDTu29cuBzBU7cGnsTvkc8xEDT1LtzJpa/0AjDRwVjA==;1Rc8Eb2YgNwRAgPOfEL7VA=="
+secured: "7jb906+qzH4UcRBXG3uzyOyEZ3NvdZ7Tomor2V5N5jMwaNawySa8WCDpEluMl+hnLzSWXj9e5PZ+mywe/jkwZYj9ojOMHfUf8s/YE7TJ/kDnRggRcKE9no7rY6H4qXGy6Li7+qhvhm/pdA29WuyjiiayIwn1a6t5YYu0YayKr5tezqY3x/2RAwh+iT4wWz0oJCdKaUuXai5d5zk4RzLAB0q758dgTYK7mdhTaAUusYOP7dt2J5TNg669tH2O6fcNhaMiHhBXDL2PAcsOlXrvB6Bfr933/iHu8nU8cLwqxtW6GOjW5vvfiBj/U7pDxu8zg4iyqRn7vqEtiJ4cRBMsxXordCcZpZZykvj8IICe/b/5WHxu/+vo0dL+EZ7l9rNjw4p47B7ca5EwOLPHygIlrw==;/JPDkUdPuOVGYmdqUKhnNw=="
 ---
 

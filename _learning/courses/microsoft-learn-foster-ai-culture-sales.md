@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Discover how to foster an AI-ready culture in sales"
 
-secured: "+ug4LeqCIhy6Xk+idYu8w2QCS70/U7Cor0qcp/Jg2yFCj+d5c68opMCn7M/2qW1rk2dqp/amNdqmk/kC1vLPXyNap8Hu8AzkXZrKNwq9955g6AqJKlcRVh6z+zn7QQpANspVFc9SD3b3deKyLNhOJh05wst5qqPg9+0rPgJdPWutlNCbNsUw9JSdlIrqHJvnre1kMG3ka/veXdoohYr42wOaC7qtrR9wx380f9D20ILQEHal+Ow0ACaaKv1amCdcKvty92lokBR4BhEch+4wcqnLzp5lJgKhqDqOT8Xn96v2XPtk3ne+vATuK/jlj3RCQxkDtjLi/Qf7eSjfJ8Fs6X1bBQnI4I67Rh15RO60QoFgEtvFpT8ir0zT+Rei0/i74fzo3B2imiss6C0suR+baA==;sqC9jS6ibN7IaV5uJo7qQQ=="
+secured: "nqnY/2jJ3j0C8iC4jMFJVRdvV+y0kdrCKEHeFk+p3zEKEVLshzZfLvJq3H5z4PfkSD0cKYzh1FPVhCRvFKzgIi0LK92FxiMs+G3rhq7YuLl4r5ekmFvYyZyMOZzm9U9n4IlWna/zmnJ/6nB2TOnA4cg7Cxfk2OiQ1yft3bFkrboIpbI3NaaI+B4HEQBi8Os5XZAuKgPv5GiGR8DgUZi1eDofbjF9icR2UysjHJkMEObjp90/Sl6aABJ7Rvd6+M1G5vD/q9CY/9ze+kkl+OpKg1Kbystd1ZELXyS8sKtw0TlrUwFiXtzkIf6wNeLObuRakrCq3QzOCZER85Us+11b6KXACH8pfrYKRs+sTxy34S4NFnuPuQsSjIJKt3wsx5QoK8bKCtTTlqAzc9xDWEkEKg==;WNhgLZS1bHG/EPReRvMhGw=="
 ---
 

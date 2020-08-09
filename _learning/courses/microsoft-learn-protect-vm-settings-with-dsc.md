@@ -8,7 +8,7 @@ length: 54 mins
 ratings:
   count: 751
   average: 4.665779
-heat: 53
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Protect your virtual machine settings with Azure Automation State Configuration"
 
-secured: "Dr3+sose/WJlIC/1jgMq4aV1dGoE7pAUrFQndnsRbD0Xi7ZeqU6bWWgX0aiwTvlivNoyOA0/4yl4ZBUvTX9X6lJi19OPXlDDM+drm4occ7GVeFrauEmc+jo5RUKEyy28EHIUc8XrH/EBbn4rTpaXv+GPWYuep4WBFGassJ9OqwlA0LUodUmtD4R4k8XIvHsG6MA02jOTRjrFCEXN174S7I8+aR0JXA4zx3yI/a0B4kWiMbz6AA/A14OfQk97WvDHrOwhe4nA+2H8N8OP97a8BO5hLCf7/Ps5ciaOYfXrbMMB55qnWZe6s6zPjPuOZ/sAHQTiPqUr4b5xszGnV2e4KqvP2w9GQgGvb571O9J7Vl3h6iDv7wUN3zylRGKpJ5qeiHbtEIolCY5JeFLkrDoAhQ==;oP0u9D4V7YU5IqG50R/x9g=="
+secured: "LYXVlYfV//U4qAbF5i7Y8mWmvkx7/dGudggNX3PD9Y7Jb+KZ1JZKuR73DDeuz8AVTAFUkXnvcTqgrBzZ1A/sdHBT73kOxmNgRyJl+j3tWHUrgBHAZdUjO8JgnJSk8fdZcQLxmlhyvbu8gSMzqImqMfd1rqJ9+AhiQgD0lR2jmTq6Zf/xmkq0c/DVyusxhnb2Mr4I1dfU0MgBQnJdaxT+T9ZcjyLM6ynf4/RCbVX+BsKvy/f2dIJ7hUGAAEXYQ82If3CAKxdpgwXqhmChjIhlCtsVk+l8AXDOgapqagGWljEuVSuZvR4XARrzEl2znbLusK9zVNljyV3bvBKdtxrRIYaI/DTcfpgLH+OgYgMhNehqtakqVd0Pj4ZoWn5Nk8PnEnEVNZZ8SAvcZa4cUZoOFg==;1Ej883yDl3g7wQR2zXLD8Q=="
 ---
 

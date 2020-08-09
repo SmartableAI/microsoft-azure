@@ -8,7 +8,7 @@ length: 31 mins
 ratings:
   count: 1491
   average: 4.6304493
-heat: 53
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Classify and moderate text with Azure Content Moderator"
 
-secured: "tZP882P1G1PEVbFYdCRPLDoLFDwn77XmrjznOOMmbZ0i4MRORKog/sVeXM+Fz7VRQWSrrsxun8yjt2w0QxTzKZgbEG0dvibsV+VSXr4EKBbZnC/Nm2rMvpDwavqMpfSCWUFJPQEenlqdGQZr6R2nuz06B+nhko0F+sCQCJkibJyp2VT2YEekfBu7xs4mF9h4SSe0AF7Mov2jmpq9rL4aIk66Ow0oWc9vgga8e29pOXt6bkqgqH2DPc6QHroGNwbmvaDD/I7JBhzV5PpTZhsXrf7PBvHo5/CGSIsg6/72Bw3ArmgJseg3/fF/zuspJzgLNGNStl8bBCf41Q2HwRrSC27SP+87pALa6YmP6iwvAqaG38LgoL9mu6uBKJTs4UCC4yCFnzGTXw7G6UtY6m4c/A==;VYCE3opSrdikCH822q/YaQ=="
+secured: "pMtH+QeDwFXc6lUmzj0u9xsLS9eAyx8jE4Q5EJv6d9wz54UmQWR7pOl1H3jRnj9WLhFuX9Ywi4y8geCgFXtGkc3uFP2fbz8oM9OszzTqxVjHhHMbt/JOLTT5A6O7obXVdq6bfVoidm4E1LYKf7daBGBfxtvYth91kdPFBQzw1Q/gBwTWy9YfiAwURMdAttW8p/9wKHTWDrDFizVAdWs+iJT4imCIQDbn6Wrbf8RfiMkzol5QVMfCsoEcs7JsTELvuae9/61R/l4vXkjg6liOmh7cRInZ4qipsD8/7OAu+HiHNPVpR7odWhfAucXGOXFWnipOD2CCrRKxHdjZQFeKlQ03pCbb9ld6jQYdvz9eUrFUHaXp2lhefP1eFLSkrY4NXtKlpjwRBmJ9uI34Z6rCDg==;HhUKWxj0uxYpLaMbSZIkFw=="
 ---
 

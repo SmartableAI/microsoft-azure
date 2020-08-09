@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 22 mins
 ratings:
-  count: 321
-  average: 4.7009344
+  count: 322
+  average: 4.7018633
 heat: 54
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Analyze DevOps Continuous Planning and Continuous Integration"
 
-secured: "Dles8+ylHb3jkSI/MbVbhmC5hcCuO2Id4oob5XxecTBostCB4PXelQEvqZzJoofTrFQPDR+G0/dHTg5KWGHhmySZJLGgNkb8hesdiC6XRUEbyIFejPJS1FuSg80y/Ns1Km7ikBy+o46LA5z+oB5sm/gQUiUbY/0r4gz76Q4mZ43bFGsxmR03Z3m8jy3nNRlz9XAW77Tn1U9LjoRMC9wHvtvZw9yrE9xUl2CJXzRD4UaINgdV4B5yQw+F4nweHK31Q96AunIoAe56bTqIA/9A/NQBhf+OhSwQGvYuQrpHt7jihuXpDDyLTMpHmlDXgZK+dWiNkXDlF2KjkO7RrG52l4qNAu7PHQzdGyGXrhvvCO9BKbWvavtcReJ+Tpp6ue/dkPN/Y1Yed+PVl1kcgUoBaw==;LMWvlklWyvyFb/Z5lw407w=="
+secured: "ao4MlvN0R43IjQ1xRJqJ51qdShR2W8A7JmZHO7FrBVIxQQRiUr2BPv9v2tUAcUc3W4/KR9jyf9Z1lIrCZOYfyP6gvvHfwBM/WSd2TtHkRGtsua2LtP2yHew4jKW5bKaJwLOLZocCkPgVs9wyRnxyfB3cn9UIBc0e1boI9tYwk7YakmT1OgOCTq727LCuljZ43ugg4DmcoQQbejAZLVWgK3ZmgNiJGZ/nmKz7Idrm6qiUnSx0y7qeAw1iM+l4FvrvUGGEkQExw46zSF0OZtOlO9Thig2zWt0Fzkf9BCh617GCe5QANWwnJGA2R5OmjyFlmGs4pR7B4kqv2JTZx3poVCfRLLLwwbcUEd/We9ujJbxfZbPRCykkfS/WksPny8aFwFV9xLiPw3jAfgUZrh7+ig==;4Is9PnTmNKThocdgV8l3xw=="
 ---
 

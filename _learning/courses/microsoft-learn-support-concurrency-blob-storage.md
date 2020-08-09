@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Support concurrency in Blob storage apps with ETags and blob leases"
 
-secured: "NfrMM1jZxXcLDGz74aa3MVCi3vEzT5CndgwYpq8VozY+LAF95hM+/nKwgHzHjthWwvQhqW+Uj87m0Od7jOPIdCIWIfmVzclEJYqdQgCaX0ylB6gzssJUUIRtrp+Z4GeIkNqUAsAs0Lu6hs8sBgySc9rytF2p003/6oS15Oi6ywtUGEM65K9JRZIcbdH+2vuow2fiy5iUZBG4PT/BtH8JCe5Bx9X7+5JCbKZ8OG4iEhZr5nZAtiIu0qaUbAE002d5OQyUxHx19Ebm2trNuvFQSDuBNU5JiRVlxlhHwW3BP16dDIbU2BqWdzPC8lbsJPHmcs7BlCLJvJ/ybqrC+YNg/8OG524uFZtSwKqK3+V/EzuyfUHAEKl6dTLSVaSClBuyuevNUcdc2vOUlplytiZ3gg==;IkkDQl3f7lVdBewjdQVdyg=="
+secured: "SQMNNurvlfQ4Svl5xSQ8P8q1Cgihsb+V+1FMzF6Z0XPKSD+vxBHqLtLxnQYOD6GP5CAbj+8p5aCA6leim2tttTwjiLaM662KfDQwPUZps3R5zWAUvhyVEcETqRuKoSiv2KzGEOMrEDyIa92naf0bnv3ylDlqfDgmBknTd6xvveaciXqSvfxP8UemdTSjIdMa1LlBDABQbvmyneWafPSzs+/QMA5gLROqke/CPfAtLJ/qOOWaa0+z6qL0b2zklc0f2lsnLxVP6+edFCWZiOrcnHIqxxP7ySHaIwmGtNrGuG103sG+J52yJX/qIcccOwKxH/lfph1Jn0XE7e0fnpBbW+vQpXBaEjC++7v0+RkrFBZcv9+IL1Lq83Goi5HBtQAoY1EBlZbwGdTVus71IiHg3g==;G4OiAmTKxLu+OjrXoddpsg=="
 ---
 

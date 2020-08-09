@@ -4,7 +4,7 @@ excerpt: "Azure includes a variety of services for designing and deploying machi
 type: collection
 price: Free
 length: PT8H28M
-heat: 78
+heat: 79
 
 provider:
   name: Microsoft Learn

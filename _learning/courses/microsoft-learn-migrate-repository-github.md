@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT43M
 ratings:
-  count: 59
-  average: 4.661017
-heat: 52
+  count: 60
+  average: 4.6666665
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Migrate your repository by using GitHub best practices"
 
-secured: "fX9sAs2aAQiqZG34Elrwb+akXRs2R2UyIlxy9HVL1LCUZL08fnzrJ56uxntUbHUVV0N9LT72fzpaqMhqd7jcnUsltWWwb0gvIyGc4syx4os56QSKcKLPjWO3aUJ7lnhXDsmTM3RZcLz4DFSARg60pJfOsuYX3mXtXpUZK/g5T7vvQw8zLxOc23wn+jCfMtL/YTjMqEP48vzP/75zOvbmPM1Qf9ZNvmGlnqfJb5cijJhYVH+4lyX3gn9voKqu7jCgFJtdzqvRwgoQIvV+ICUlOf8geokyGO7KFrU4f/i9BfME9+QNCm8HCzaQlNAyVLNfrlwDYzEmXEHd2JKOmMek88fTzydgWPOJ65ZrvQJMc0cCB36XfNMZ1k+Dg3zJGpmTXBG+7/DNuLUtSFSKsokLcA==;x8XikJXaBeYpg9UXbj3xFQ=="
+secured: "ZBrN5sBM5WuDF+HeeVSxDB39JMR8ZSdxAAKd6wWF6MisvFfJRRSMR+gT8pRqvrzwavR33VYFY8MO4cORYzUln2tmwSt6pokLY/PFLZTRgISNbE9MyGvflqm76uEGMcElnk/ltr4RnIqP4ExE4xOJOOo1enibPbtTWj2e7ZLKhVH1mqWR3qJPB494Gc8oNo9yYw0t2gVHcPaWWQds5JCdGW43d0zaX5x2Ys5ryAi709lS+NgAzAO9/tpzB2TTkz2dv0PcALgw/nA3XlilmO7yc58hjmU76e/3yHDpxLVVHV7cndzVSNPBsv6LQeVVtOl/JUZRnsqlaq7Kj93roGDfIgRcyswTX2YJ3Nwduw4STaLDqz2HGHoRCMY3MvS5mdysei/X1vmDXH4QCSHUNn68Nw==;nBq5NfGdbPftKCLxDGmgig=="
 ---
 

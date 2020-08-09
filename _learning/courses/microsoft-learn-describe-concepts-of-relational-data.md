@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Describe concepts of relational data"
 
-secured: "ANE9+R8PcLWFIbHZMEOAkX7171x1TXaWEszvC0+isjtOeOpEJ62D+QrUSwLzcBW2K53ccPnIsW+wWgIeGp2J7B7+v9kloNgzME/CaqZk5UEQJC0qmPWDgoG3EI9bKe4qIBNvzLu2A4+4/65IXELMUASWxmEPflp98v1iYnrnCJ/xZg6k7kYC3GbIJGxgrbREhNpbzVPOiP1l76ZZ2+/ngfa3yXOPMyGaZtqsxXh8BRV4P8noKCkGdHh+mrogC72jkWlti8ItX3w2bDV0/6AAJnXfJTiRtp3wYIvMDyZvwukdY7rPKuxgdGBKXPzUZSf8H+4zlqmw1KnfOktny/oXARVS9OCaxSy3j14gEfC1T09sZhcfWCjxANLkn8pH4i/PcRM+skLSQIdIiZ++KUvggA==;vwm6fYk/18JLzo2ozsPl8Q=="
+secured: "IN42Y1+fgNc2I04UYwCR3kR7z04WKlmUrm/a3TvHEvYqRrfwMURMeicxp1yzQRm3IYnXlBVUblc/24yz46y7RFOnBK/ZawP+Fvu98C0wP9PK1MKnoFk+j3NECL+feArV0U4WnFweoHk8cZ6tzgZXUvb7Xf1eYQcPtYVxbDGYGP7PLbDNtz5TjpIcoaQnc9NmTIIqTA17sTYDJq8tNy0Clcg9r8wB8IQqIIvg3A4bLobIw5RJ2ATifZr4VpK53+1U1eZXwvYamyakWCjVvTylv6dCGPw8H8vqpaL21BoQNK7fBSuw7mL2EOJ/hj6LO32MxhfGJtyL+fGWnqSsaSNaf+ChF9IYbUbY8NgTPcPGv/SN8th36vZVurjBLPBo2z+o7v+s/UbBvQfE1cNku3MkgQ==;wQRCZgk8yfP0tHSA4WbmkA=="
 ---
 

@@ -8,7 +8,7 @@ length: 43 mins
 ratings:
   count: 172
   average: 4.7093024
-heat: 52
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Host your domain on Azure DNS"
 
-secured: "HwK+x1tdvDFan0pvvnPtmjPtr10SDIG9xUXikA1xrgiNDlTn/vMOvlRF8G7A4hNEgt+J7D0Il71t5ZhQ41yvWfcvP+ImPvw1Dz0U3t+MH3BVjt34jRv8l9Umc872VDMdU5pjvvCfGEd+I/68xeSSdtA16Pv6Hr7r58YJdhW/fTwcQpWdQ+NsPaj2wUZMRKGDHO1KCEU943dvleWQMcm2HFkGLJ/2YdMMdNqLM9JvAiAgIsy1v6NeXOT5NobasMJEknjB6f8C8PUs0jvkNK0FXz6RT8L+aXgwS4pqcdi3qJJ3/IWIV7i5RHBlZJjlgmsqY4PDpyybaXsWd7Jv5HvAaQ+KsBrEvPbztEii5iiwMR/uzcO6O6YfEzjC61Du9eVMJStb145dHjuttTlyxU285A==;3LujFA64NKLmy0BnVQhPDg=="
+secured: "TejeabBHyIgd1mXfYjCg7PoGvge+QEoIC4eOxumDnjbv77W6rGfi8SlWa5+gu4owgJvOV6jfxwc4HdAK/TTIuNE1tuPM/sMjFOHMd2XGZtysnhTrfXf2Fg+JnNdlUib8L5sI1I7X55QLlTDKvwRSESXsUU5Ybn6Do02i4LVZotmdn1QE8dqTM9O43whPhifs125pMJDJpADTBbKQxQtoiCiV8/pArYAjUBJW52mSwgvD6eHymr9ssUOlProGa8cvMw4cTUA6oxdZhkZQaI6ygLQcMNRASsSoTiBOZVSJZWzSQj7LMtmpViwMX7+ppifps2rGp2U+i2VS8xw99UstIMf/zYrwDT2n/iUo4saFqRmYlnOi73ibuYS+eeJGNK98admGo2jrMIpBEymZg0QGBg==;/Ten8iQ36mxaIIzKlOFi+g=="
 ---
 

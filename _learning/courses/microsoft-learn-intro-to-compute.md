@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 38 mins
 ratings:
-  count: 58294
-  average: 4.7066765
-heat: 135
+  count: 58299
+  average: 4.7066503
+heat: 120
 
 provider:
   name: Microsoft Learn
@@ -38,6 +38,6 @@ images:
     isCached: true
     title: "Core Cloud Services - Azure compute options"
 
-secured: "lDSREnaoUDiSFLC2uxjtEpmuP4lKVzOpj6a9L3BPpErJE3ANu9jY6nvoa0K79/UfblPwXm+Rl/Pd2aJTqm62FPc5VascpXcD7/tEYAwQVthrls1E9vIUjTyqm37HRMW7KBI2e73uBWqH/mDS+jmP0U3hR5BAu6ySPwlrSYu5aFChy/mZdwrMSmQZdE6aLfEPSa6pnTZgevH84reS7g23vpNLs1pv5Hh/qf0rfEEOb6D6QcFiqdhuOrpWibBeBQG6ftyFss+H7dQ4CyzC5jeMnKaQoZcQxEQ0swV94Y3kbs1iEvZbmul/wzTuMbq08x2XNQlFmctGGVMg7lSBLoOB8uKbSJy889oYOickcm+dbqB+BgvscKCCIfFj0umL8KAM+M9QLrgKxI6NUWpcS04ibA==;JqUk2T9whDWuNRv09wu0IQ=="
+secured: "ofouxCJF5czNv4Da6Wt4z20hKFo10BcUyEx8ssTWPoE51NZb91oYYUA0jS8HL5Om1Nl5lAPnI21BbLkdXd+rlW3WwaTlLiR2jzv9g4+gs0bwRMmoygPuFXsN88gd9MFHQ4c+3kRi5b10BfqfX+R3Q3+YG3k6yz2gYMiQYX/cUYBfokw7T+mDf3aBlCo0U1Iv+8AXNTIFv/3TKB5m0Rj2X/Q2Zfd6dysw9CbytLRSEODlKNKT99BD1nW7m37AMG9oDKsbMQHZstt2J+4lq3dw0kpXCUnwuhoiW8d8W0yI5Vt4qe8iLtwB7omvcIBSF4ktvTs9pwCVm/wx2RCL0Ndh/kHoYnJdcmokV4FfCh7jYd3RTPYhzjAuDhLSTRgaAgd2xOiPXguoKx0/+QZRkZDexA==;jASiZapOd0BJUl6HKwEmUw=="
 ---
 

@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Settle competing commits by using merge conflict resolution on GitHub"
 
-secured: "9ccLu7msjzqB/o/oqYoR5FtduXyJzCBiWqDvPSoLhwxfKp19xQHvB0KBLfsTqzKvEL0SSUDRyHBgDuzDPbDq/39PfVTM0Pi2vxy/HWeH39cd6FkW49G07CEbCf9I3vxQLI3oUX2c1+Dix0aWgAEBxHcSpIdj41eDrgJruYo5Tl1bi1Xbtb6zH0S/cy1neBG0a06T/KX2b9v4nNz4tNafN7FSbNq/tH9PHJvMjlkvgySH/XYe0N1HjII89gBhpG/BnQJ2tAFKPRytn+ac7iHx9rnLnMuzX4AKa9InqjgdlWEDE612RCpkVAZuRHziY/ZOF8hSbtHQBuRkfG2q4cZRCBYgqjmn0V1nKBhXlCFttI/pyqFmvc/5iYGs5yElPLmCBf/3or5FNqwfuIi+r+964g==;47OdSbeAzYGjaRCAwv2AZA=="
+secured: "3JkBBmhOcWmB8vlzqOciAgcFQS49m1eump1+2HR5PUF6a2VpWkyefYDshYsXrq0AUHxWX74olx+O/XxdXObt1QzHOBaWAvE1e9yEH+EMEuAecPwyQ91MvHnYBBBdde+Vbbg2nIwzBxBgEc7Tt6YOXncwePoZFjq0d/V3WRsFYTmSpWAFcTXeOF39WblkkvwUfR788FfZOv4g+WmRtTPcb3cGkF+RKJMAhCMbvWMW8QQNjPMClVrATLwe6PYeHRW4vwNnFZamm/ArLE7I8RlEZqyme4P2MoK2c+To/BoOm+UM+22pk6ZUDSL/xG6VclEUekOX9zDyVpQRZVnD/pdAaQTIO91vmF7H+0ujJVIIgsKsoCnWd2iBKi0E52RgTdBCdxMbN7itoSQqgbo/3yMWVA==;smUkPv16ee9WTlhnpxzTrA=="
 ---
 
