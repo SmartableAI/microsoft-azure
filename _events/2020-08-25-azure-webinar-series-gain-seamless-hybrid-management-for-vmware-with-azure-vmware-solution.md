@@ -1,5 +1,5 @@
 ---
-name: " Azure webinar series: Gain Seamless Hybrid Management for VMware with Azure VMware Solution"
+name: "Azure webinar series: Gain Seamless Hybrid Management for VMware with Azure VMware Solution"
 excerpt: "Join this webinar to learn how to centrally manage and secure your VMware workloads in the cloud."
 originalUrl: https://info.microsoft.com/ww-landing-azure-webinar-series-gain-seamless-hybrid-management-for-vmware-with-azure-vmware-solution.html
 website: https://info.microsoft.com/ww-landing-azure-webinar-series-gain-seamless-hybrid-management-for-vmware-with-azure-vmware-solution.html

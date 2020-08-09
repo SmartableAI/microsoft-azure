@@ -18,6 +18,12 @@ provider:
 topics:
   - Azure
 
+images:
+  - url: https://info.microsoft.com/rs/157-GQE-382/images/EN-WBNR-Headshot-sreeSRDEM35840.jpg
+    width: 314
+    height: 314
+    isCached: true
+
 secured: "fxtfEcv22PlZk/LJXzhp+3S8PeLUgg24f9pHsQw03Gd5/wrVg9qBrZr1n+9MOhEkStiVvc3AhyIkjk5TbIT36ZTdMYIO6US4vB9OEYyoUW5RFryZW58CPNSyENmhHJZBUeqE2uVNLobxmxMQRMvHs5Lb1JWHve5Hea64vijOft2p0O/5unWBIV+1KyxfRoc1fbdJqvZVJ6J/KyPNdlwPvEQNQ82UKIPo4GNuY84e1aS1pCXKCJup66mhP/33fgeJNCwsA4YYxbgRiB7tnK07yKfP7LzKKXyn9qlXVtLwTZPj9NU8SGj91wbKyjSGiHfPjRhme4IKfEZHLQPyPl4DsA==;biJQ73uhPshKqE+jhnsAyg=="
 ---
 
