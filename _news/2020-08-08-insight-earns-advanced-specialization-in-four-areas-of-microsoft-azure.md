@@ -1,17 +1,17 @@
 ---
 category: news
 title: "Insight Earns Advanced Specialization in Four Areas of Microsoft Azure"
-excerpt: "Insight also fields more than 1,000 Azure-focused engineers, developers and technical consultants, plus more than 2,000 Microsoft-focused services and technical professionals, maintaining more than 3,000 technical certifications combined. “Insight and ..."
-publishedDateTime: 2020-07-31T08:07:00Z
-webUrl: "https://stockhouse.com/news/press-releases/2020/07/28/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure"
+excerpt: "Insight Digital Innovation services demonstrate deep knowledge across Windows/SQL Server migration, Kubernetes, data warehouse migration and web application modernization Insight Enterprises (NASDAQ:NSIT),"
+publishedDateTime: 2020-08-08T18:57:00Z
+webUrl: "https://www.morningstar.com/news/business-wire/20200728005589/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Azure
@@ -97,13 +97,13 @@ related:
       domain: businesswire.com
     quality: 17
   - title: "Insight Earns Advanced Specialization in Four Areas of Microsoft Azure"
-    excerpt: "Insight Digital Innovation services demonstrate deep knowledge across Windows/SQL Server migration, Kubernetes, data warehouse migration and web application modernization Insight Enterprises (NASDAQ:NSIT),"
-    publishedDateTime: 2020-08-08T18:57:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20200728005589/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure"
+    excerpt: "Insight also fields more than 1,000 Azure-focused engineers, developers and technical consultants, plus more than 2,000 Microsoft-focused services and technical professionals, maintaining more than 3,000 technical certifications combined. “Insight and ..."
+    publishedDateTime: 2020-07-31T08:07:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2020/07/28/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
+      name: Stockhouse
+      domain: stockhouse.com
     quality: 17
   - title: "Ukrainian Azure Expert MSP Partner strengthens its Azure skills with achieved two Microsoft Advanced Specializations"
     excerpt: "Cloud Services has earned the Modernization of Web Applications in Microsoft Azure advanced specialization, and Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s in-depth knowledge ..."
@@ -120,6 +120,6 @@ related:
         height: 512
         isCached: true
 
-secured: "zgtzGoh0n5HsftIGLQtbRsYlmCZqFEA4f4iyHBCjbdv2F68KTk9q9b9BbYfyr4QUZZk+MuU4QgED78nD8XhWb/OtEDs5NHedrUpgtUGTzsIjjxmSd6Syh0/antkwMA1LZEgK4QKEEHt0j+Cnryct1723+LyBvayZUxdqx5N2cpRZvx2D993oeNWKClbj4Wq5/fNfEf4rbVJeEWlUpHdw7KC2FeqxkwlCJmwTWH1ifaMiIzUqyC17AUHpOExctBAPqayVym3HxSRLQr+L+oaZESwCT19lHwxz0JzNPpaj8PorVLrbsDVyzektwMbfaEeEt0NJnHTwJKOU2D5rM3tTZw==;2CxovIwbx4BTwE+gxirSFA=="
+secured: "vzZvE499HVjxPtG0ZOVoBbvpW7o3AaCYGGeb+pg3IdI5+hSTlX18+qpISTiUGYZIZSHhMU1/0INPJth0QCsltB9ktPr7l4t0QNpgHlHuJH+MJ9wB55ZFuOc36arpzXh8CxwXqxwmErZXCLdTnjsLtGXZMPvl2VAW7SXJ73au6YFMuDl9lV4P6bzOn6/bqbcJWG2rLh0TGNnqksKOUIplEm4kHjW+gn288QFN+3zgBIPi9Uz2iEmuDcza3iy1TeSc3vGsyYOoQvQ/5n+RQLLM7DcmBoIMkiMsDPwiWSLLwlqH34az/sBQDRxdRaqNsax2PzUWALzzlPNGPiY8PpY7lQ==;uPqgjGcilkrcoZLKEWTtzA=="
 ---
 

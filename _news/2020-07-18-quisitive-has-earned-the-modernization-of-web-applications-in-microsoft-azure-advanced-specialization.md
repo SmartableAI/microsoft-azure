@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-18T19:19:00Z
 webUrl: "https://www.marketwatch.com/press-release/quisitive-has-earned-the-modernization-of-web-applications-in-microsoft-azure-advanced-specialization-2020-07-14"
 type: article
 quality: 62
-heat: 202
+heat: 222
 published: true
 
 provider:
@@ -100,6 +100,15 @@ related:
     provider:
       name: Stockhouse
       domain: stockhouse.com
+    quality: 17
+  - title: "Insight Earns Advanced Specialization in Four Areas of Microsoft Azure"
+    excerpt: "Insight Digital Innovation services demonstrate deep knowledge across Windows/SQL Server migration, Kubernetes, data warehouse migration and web application modernization Insight Enterprises (NASDAQ:NSIT),"
+    publishedDateTime: 2020-08-08T18:57:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20200728005589/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
     quality: 17
   - title: "Ukrainian Azure Expert MSP Partner strengthens its Azure skills with achieved two Microsoft Advanced Specializations"
     excerpt: "Cloud Services has earned the Modernization of Web Applications in Microsoft Azure advanced specialization, and Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s in-depth knowledge ..."
