@@ -18,6 +18,6 @@ provider:
 topics:
   - Azure
 
-secured: "G8Lj1uscLy8EnziwtvpaWu3MBEUjyrc5FGryEMBtJmoW0IYxtkbBqUh4NWJEZ6HnLH0rZ6BcZ/9d0sBNduuxA2Sld4e3KaxQFpianlGhinQXzZWfu95nXipZ0WL+SDGuC0NHeDMwaVwu7GmDUmohTrK3aA6lA/qBjL0NZcaCnjyFlI1af2kaK/A7evYYFQAVQf/7j/uk/FK6LB+SonBY4rnJ5KgPgYZVrbBCm/LAnQM2AD4N1p6PvdgtBglJfsOC09K+OOPV+TocOEG6XHHAU1Ww/JdDU9jHyllk//wPQ6oEKtdbR5ThwOOeLwThaTazSGkbwLmhE1mYl+p/ev47cg==;Fg0t2j6YQhlV8gFRubORhA=="
+secured: "L7XHEEc2LJqsPMzIHXXJmdqyVv2h/5NmRSxHDEgEDolFhArHtkiGcm+babgJEl1AUQAkaaHl1TNkvp7CMePe+L32//sq1gCGae0Tz1TJnP/NaudsNsU8asY9uJI36iyVDCc5X81/43F4uWLRadMNqhxq5Kr5DsBvmXjk2C8ai8ygY+nO4rGDcU2CoQxyOrnLaEmZoEt0BXAj3dxSZvwMhdHbZwjSVU2yajm5SActS5/TzRI8mYaCCY5Or4xxGU7WY+sitWh7K4D8bCLbzm6oGN5KvP6QWyD1YICurWPa5Sf1eP6jZ/O0Dnqvi7UN+X/ykdMhk5cmI8UAITZkgrpY8w==;QOo0smIEhFwlmBEgkDgxFA=="
 ---
 
