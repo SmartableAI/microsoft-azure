@@ -1,5 +1,5 @@
 ---
-name: " Authenticate to Azure services with Azure AD and MSAL.NET"
+name: "Authenticate to Azure services with Azure AD and MSAL.NET"
 excerpt: "Learn to build sophisticated applications that connect to Azure services or the Microsoft Graph."
 originalUrl: https://info.microsoft.com/en-us-landing-AuthenticatetoAzureserviceswithAzureADandMSALNET-none.html
 website: https://info.microsoft.com/en-us-landing-AuthenticatetoAzureserviceswithAzureADandMSALNET-none.html
@@ -24,6 +24,6 @@ images:
     height: 600
     isCached: true
 
-secured: "IofoaClzTR9ioNh4FpkAYm3gL31sqIKW5J16l3mNocOsa1wEDVVhdPg6J2PxU+IhrDCIZ+VO142TkdO9mPvr01rpUKhrxkmaYCPlTpvrAarlNiSlunAF+dccPL3KSNfgTnJLkvuhOuB5XgiWXo4kBm1eOaofxUjKsXhQsEsIqSd7Z5dg2NKMbtalQYZpBCHdDUq01Wdx/Yhay8mx7ss5QBXTxVb7hzEX3pG8iH5+P+ta/FByIGaafbmvlKWYB3kRCqOfGqEWNeR8WPaCPTMxuukGqR/yTwkej+nuvNNJqxKZ2i24nRbCsRB6iM0WSjuNRBfwUB2tH+VLXYmzQ44DdQ==;BZbvpSarLn2ji7RsU6y3eg=="
+secured: "QqDjd/HAedMbHDflFf5r7U8AcnM1PtOjSbHTCCSP5aC77orlYVp5agTY/S7n1QcW4eDjAlvUo87hgDAOwMgK79ijPNZXYFJWOTq2epgnvqe08UalBfpWJ6mmmf61KK7SQzkdM21ElWV/vXSGevm2fW4DNq07ICg9nujOc9/TCeX1ihuvg4JdAmfolU2/M+UPSBPV40Zo76o2Q47gScqDL37M92WibNm9wYG9ZRyFrhwWZubmcNpipmhIbCJrlXkh6WuP9QTtMmMKy3r8PBMvJpfjb44qGB864KC+jEjOSgWWsoYYP9INXKUd3G6n3wGQ8djjGNL+osSET7xj7O/1XQ==;e3LDhL+QfldJPcU7mp+NYg=="
 ---
 

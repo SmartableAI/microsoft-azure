@@ -1,5 +1,5 @@
 ---
-name: " Bring identity components to apps with the Microsoft Graph Toolkit"
+name: "Bring identity components to apps with the Microsoft Graph Toolkit"
 excerpt: "Learn to build sophisticated applications that connect to Azure services or the Microsoft Graph."
 originalUrl: https://info.microsoft.com/en-us-landing-BringidentitycomponentstoappswiththeMicrosoftGraphToolkit-none.html
 website: https://info.microsoft.com/en-us-landing-BringidentitycomponentstoappswiththeMicrosoftGraphToolkit-none.html
@@ -24,6 +24,6 @@ images:
     height: 600
     isCached: true
 
-secured: "OZpywriOaFAjGNIhy43IGyg10b3mVmbN9fxxU9UIM4tRbrii8y8q5yswMwpfoiFiVexYvmvmQyUeUP8pEb7nnkxWwQZ3uXtxDZKrrA0enyS1mlUTq493IU3mizDT0B3DMdwvJUBsPFZSEcEZ0bFtwBSa52/vNTv8Tr9mHL1pWsPHdgfE4Jx2lrqJdl+nR1dO4KnzAbUnW3cK+oAossPpnL0W2mYVWwFw5V5H2AuOw5RtLGC74bRHUHamrWuzSHt2VPa74BXKuPJZuts2nBd3a00m6cIF3ZI0MYKtP1Md1ttX/QEkae7blJSxyovj8lRLHlg72gFdUqJqTDTo7HMAKA==;BPga/RJE2jh0zLL8uOQgbA=="
+secured: "FFICpZM41bLTE03W9ZgftJaKsTdH/b/5IdgXI7bY5NkVf/Dm31txZh9+OSQC3vIa+zfCyFn9VVijFa5MY56h1weLTFRQ1+jUDgOJriUVFpq4ttC+WEjFz9XrnIgyPQ5xtQUzsqakRGz2yUzSaQtcRdDsCR7M6cTo/tZft1khQsjRscAgX3m68qZpkDHlztWIGZAgRHLFinTRm2y8dS/uoHd8P7ZH3F4cNsklwW63QoGp4Ti714eFTI/6p+/im6UyumnFMV58GJRa+0gAd+sAKL/kJbQsql5EmFK21uOVatUgakDvdIivjUKiLr8RQpZLRyg/7P1uViUjtKa0KJhteA==;oZJn9WQ4+gsvNZ6qUAq/fg=="
 ---
 
