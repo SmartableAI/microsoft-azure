@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Describe Azure Databricks best practices"
 
-secured: "XJIzofZuKSTsVxClgRzC+puLOwC1/cKz5zQtE9PAmBJJFtqlMJ0CZ4GGyWiZocoDNGdkahOiVqeUGyjXgC9+Zxvx2fh/yJ8juXbKhN/y2IN2G1aedHKuuyHh5Jn56MFhVwBuavcvWiNw18qNd9mWcpK+ZHr+eriJ8hLGmTkkGlJfqMRh9bMzX8r/LP9B8PEUAn2ME5kpkvEx+8hPI9KEbqmO0G37PfPrcuabPnXwmfNANBHh7PXLAEQyqwpdnjm+BbIoo60Who9QQ5y/J/6vB9aM2JYvTyqGyo2I0929oZkMKulb6e/0ysjvWb672UMw/IBC++/tAR0YJ8dBdwQ0cd9RUkt7tIS9u5zEqSMdpEfg+fX8+5ken9sUDADYNnwuLzMPc0qvNn/RDP8FnAv4Dg==;HNsUryngFIfzLnUrgp+nCQ=="
+secured: "miQEMJTEB1BcopRMu+vdWHRhXDI7Y7H+GBp9m6G6NduTsjeccRYa89KvA+Qk27dOzkaErZfubDJKaNDG7Wu/+Nas5Fue2rAeUQ1l//FSXVn3zzfD1rmMi6eQZ16sYJx5x7Lt5PYNcaHwWpv1CTV7tNRQ+wqmAUBqPt2w3dFfTgh9Vp2XIl+2wvnzY5etkQS9Kq5d4WN+Omy/XktkZgoYXNGeGacBMhjYjNkFIyUR1eJA1TjTZDqd6haR/JGdMqFEjFUMUnbgufa3O1csAYqz8L4qnjG17BGhJW9f4DvpYEV0Q63b7Qo5bDcjOAtB4h4OsENwaoPakmeiyc2byd9Z8c9nBjRDjGSidIeVVB4lexKH1R8lP+5VoaQL+AfM0rejftMS5Nev9ZonWcvQ3AAYiw==;pkZYdkevYMsa71QMLX7Pqw=="
 ---
 

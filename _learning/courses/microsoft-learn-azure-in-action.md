@@ -8,7 +8,7 @@ length: 30 mins
 ratings:
   count: 2059
   average: 4.7042255
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "See Azure in action"
 
-secured: "99EyAVzJL0SW3uYomM/2QQWPfZP4L3HWlJuPlN03y+nZZz2y8P/On1VZuSIgtyShfhJlkOFqaXgw0AY1YHGF+DZa6x6M1vGrwXDdsnucEUxqaHgbMOxwDaVbBipCi9T84uPGQ54fV9HodBY4kGVWJan7HYBoz1OTA+yvxsizCMHaVIuovt2cL59eLMAV6NkpWq9MjB4xR0SAVwju4hqUNglo0ntEmKAyL+Wx1XFJsbQ+KU6fbEZmcxbX7HJK3fTYM0GRqV4aGo4eBlkSZxMhucO93Icozl8zZI733VPV53TqYzWceBaBQt9rS2O0KWSI/1m00OkzbDbptl5q42epuCCTTlIPF6WmN+q86kzUSNmE+hF3e7l/NzQVjGNGtYYyavCjV0toibEZqvXba/2SRw==;z7qy+1gz0evBuox8yrSaNg=="
+secured: "hdAJd5EQyoobNAbAiEFZPsUr3/ifdMgQK+BX8YofVfcR3MSNWFDaxgV0GcFbbgzLXJ6W1VHgiM8hukM/IVnhHpAwLTnUhyL7AQm/AZK05cdbZ4DynxF+dd5LJCkR4xdvehL5lYY2r35bkzDS5IylcIUBwuyBH76E4WWOkjTQCn78T2rvqPN1/9fZTX+3JRUhchU6iBFflR4XdVCTagDqU0GSBcDd3BBNAMJrlUBac6okAaQHmifS1PD2n0jdQH0RkCWVb8j7oHZaWeNrFaZ6JGCpimajxWSh6SX1sKaIBmlZQon+5entHtIQ1HbTEvxaLzJ7z11RixbMgvpD0RuJLs5O8Icgu4tVH3JXK7N195/+zZFxRKaOs9sb/d3zD0m6PTK3gufKKkM5tcaRzcA5og==;o6nimbfPJ1aaMN94PuMQxQ=="
 ---
 

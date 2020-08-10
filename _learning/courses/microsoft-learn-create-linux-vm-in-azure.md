@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 86 mins
 ratings:
-  count: 7222
-  average: 4.6844363
-heat: 60
+  count: 7223
+  average: 4.68448
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Create a Linux virtual machine in Azure"
 
-secured: "uuUMm5MVmSq31YSaZm6ZR2+JUnmFEaOXxGakPeZPFWeFu0/XasiEliiepaLvZs6aeYBNHc1mG4OLUqcmq9Bo2sWvbodK9GjpyCQSQzx3ErfTmgkd0Ud41Shk0bQ6p0HHSHPdbebxM2/a5TAEF9fJHirsdqcVL6kvQ6x/gVTw+HZ30WfYl0wrdquC2klpRJuFSoeCaLULjUHFZghckJxE2/WVY0VHpcBO4GUShRZfZd3zp3blaaRwiFjeYbm2MoTcz9Gq3DZE/iiy0VMKIClkTKiEvhdXdBiNHeneWAVXLrPDZsWMpBEfTt7CjkjYREUS1dPCS1Mkhmtn0iL1gWBaQzzbUQ8pvVmMH9P00iJ5mWvUG6uhyWNGAbBuE5TbWRPPm5Q6Y/AE2cjFSsIBqB86HQ==;dbuRKNA4vcp+vN08KhCBVA=="
+secured: "jC+ScNMKi2PpWV5Y+/Naf3eNgFoN1SO3JLY8MvatWH/UXAb5Yr1UgaWHZ1/pjTP/t7+Ol1A5+KtRF42RSKOwUGtU1bYtg5skKYDtxsWyXjUOzA1Vyue85AV5/vqpopo2v0Knlklxh//OmJ52YRARCR11gq1PS65VAL6JUD75LCGSytTWyhTFLEEuN8qtOA8nCRCejhsMVIMiWPoiBGsXlASMBvzUget5fxuWtYlGzD3q3UWtB2Or/v8ECK7BnM1AJpa5Vw57KlF/2T5dFwBSt2BrH8BMqWSZx0AutR5pCJLJAZx4Q59jr1XLZ8OiN/sSokI8zhh0KkLKf7AVWdlq0denCU8kEOgkRuRyhqHlUErGS9h7wlB8PMt2jGl+VG/g8RsyJydzKRAheEiGmKoDyw==;HvPjMcMiK6t/NnEHCq4EjA=="
 ---
 

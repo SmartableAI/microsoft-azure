@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Create an Azure Cosmos DB database built to scale"
 
-secured: "6RFB/f3MGD+MZbKYTvn9EW6NrUlngnrptv/mEvLGDyjX6TRdF+s+rBy5L34cgqdT//f8iqRGXZdlIGrvQulWBp1KtKz1lgyKzyyAo7flF4iNqVRh+WTFi9GHM97FHkMz/oxdcazLCxGRqDV0p3oPfSbe5CL54k+GA4EtwaFtjTRhz21idwYQYUL8t2M8yKVuLZaY8z0CNp7cjrOHQ5mdnRgTMgKSW3ZQ5Mdm2grqAFfOGJP4UR0v+9nFjzjAfybeFv6xZ5OHnE+zal7UbFShXj+XsNlNQOeKwZ11kEKmcGVjor8zlMugje83b6A5IAsb19csp5Aq0XOIR5psGf8owSWnc9k41pLZbT+alPtMkVufXtbqk/Tf+Io+77SkD6pSSWWt4NC5sfG8j+9qpj8WDg==;LE1hbIxoJ2Cl377OGuxDjg=="
+secured: "zAb29uE1nShavIxBTteMd24KtMr0BD/033VmAgvPPLa/fI8RuNgiCzhEQN6xOV0mYoCDR9qK8mHXgc2cVF8ZFGRpBXtGlzqCSklAHpQPwGMEDH5c/p9/2Hd2vy0DKyvRiEiz/5AvPnfZby9H8mZNjNwcVXit4EHjEO/8rEH0pWQ/Mob4gaoYq/KDoDkXrDoYoy6h8d2pRTkLsV4Cw/iUiQiGObiVyQipFz+GD7/BRunLB32r4p96VR5enZVIkt1ddt/kZkSy+N8BlcOC2KNFOJpkEVoD8e1pIX2qh4e8k2v5rVYLLdQ0mPZDcvHmQLV9sxOPYLAhSdBwBoVHwcYauAc+w53pGfJU/mFkQ6GSzSRJTuEFOLHMh6Fr3AKjlnDwcSGHPKHla+Wv9titBlprkw==;YpjxMYrN1wTsZ6YAxkdNCQ=="
 ---
 
