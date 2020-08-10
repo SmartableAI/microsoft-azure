@@ -157,6 +157,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Azure Functions: PowerShell 7 support is now generally available"
+    excerpt: "Develop and deploy Azure Functions Apps for production scenarios using the latest version of PowerShell."
+    publishedDateTime: 2020-08-10T20:39:42Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-functions-powershell-7-support-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Database engine auditing for Azure Database for MariaDB is now available"
     excerpt: "Azure Database for MariaDB now provides general availability support for using audit logs to record database activity and events such as connections and queries."
     publishedDateTime: 2020-06-24T16:01:15Z

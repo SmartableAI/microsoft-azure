@@ -162,6 +162,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Azure Functions: PowerShell 7 support is now generally available"
+    excerpt: "Develop and deploy Azure Functions Apps for production scenarios using the latest version of PowerShell."
+    publishedDateTime: 2020-08-10T20:39:42Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-functions-powershell-7-support-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Azure File shares snapshot management by Azure Backup is now generally available"
     excerpt: ""
     publishedDateTime: 2020-04-29T16:00:05Z

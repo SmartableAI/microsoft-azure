@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-01T08:00:06Z
 webUrl: "https://azure.microsoft.com/blog/azure-firewall-manager-is-now-generally-available/"
 type: article
 quality: 97
-heat: 477
+heat: 497
 published: true
 
 provider:
@@ -149,6 +149,15 @@ related:
     excerpt: "Lifecycle management for Azure Data Lake Storage provides an automated solution for tiering down infrequently used data to cooler tiers, allowing you to easily optimize your data for both performance and cost.   "
     publishedDateTime: 2020-07-31T20:00:18Z
     webUrl: "https://azure.microsoft.com/en-us/updates/lifecycle-management-for-azure-data-lake-storage-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "Azure Functions: PowerShell 7 support is now generally available"
+    excerpt: "Develop and deploy Azure Functions Apps for production scenarios using the latest version of PowerShell."
+    publishedDateTime: 2020-08-10T20:39:42Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-functions-powershell-7-support-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
