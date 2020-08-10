@@ -39,10 +39,28 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Data encryption with customer managed keys for Azure DB for PostgreSQL-single server "
+    excerpt: "Data encryption with customer-managed keys for Azure Database for PostgreSQL-single server (generally available) enables you to bring your own key (BYOK) for data protection at rest. "
+    publishedDateTime: 2020-08-10T16:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/data-encryption-with-customer-managed-keys-for-azure-db-for-postgresqlsingle-server/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 70
   - title: "Azure Database for PostgreSQL support for encryption at rest using customer-managed keys"
     excerpt: ""
     publishedDateTime: 2020-06-09T19:00:01Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-encryption-at-rest-byok-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 68
+  - title: "Data encryption with customer managed keys for Azure Database for MySQL is now generally "
+    excerpt: "Data encryption with customer-managed keys for Azure Database for MySQL enables you to bring your own key (BYOK) for data protection at rest. "
+    publishedDateTime: 2020-08-10T16:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/data-encryption-with-customer-managed-keys-for-azure-database-for-mysql-is-now-generally/"
     type: article
     provider:
       name: Microsoft

@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Azure Database for MySQL support for encryption at rest using customer-managed keys now in preview"
-excerpt: ""
-publishedDateTime: 2020-06-08T16:00:20Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-encryption-at-rest-byok-preview/"
+title: "Data encryption with customer managed keys for Azure DB for PostgreSQL-single server "
+excerpt: "Data encryption with customer-managed keys for Azure Database for PostgreSQL-single server (generally available) enables you to bring your own key (BYOK) for data protection at rest. "
+publishedDateTime: 2020-08-10T16:00:07Z
+webUrl: "https://azure.microsoft.com/en-us/updates/data-encryption-with-customer-managed-keys-for-azure-db-for-postgresqlsingle-server/"
 type: article
-quality: 63
+quality: 70
 heat: -1
 published: false
 
@@ -39,15 +39,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Data encryption with customer managed keys for Azure DB for PostgreSQL-single server "
-    excerpt: "Data encryption with customer-managed keys for Azure Database for PostgreSQL-single server (generally available) enables you to bring your own key (BYOK) for data protection at rest. "
-    publishedDateTime: 2020-08-10T16:00:07Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/data-encryption-with-customer-managed-keys-for-azure-db-for-postgresqlsingle-server/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 70
   - title: "Azure Database for PostgreSQL support for encryption at rest using customer-managed keys"
     excerpt: ""
     publishedDateTime: 2020-06-09T19:00:01Z
@@ -93,7 +84,16 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 63
+  - title: "Azure Database for MySQL support for encryption at rest using customer-managed keys now in preview"
+    excerpt: ""
+    publishedDateTime: 2020-06-08T16:00:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-encryption-at-rest-byok-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 63
 
-secured: "qry0pMBDvN03xVwcfKF+eo6omMS/AyKiFRXGeNAz6/26Jp/59X7hONbv/x3hCP3PgStlbqrf0E6tM9eo5WMD7xABn5tGWVqbNWNixWYmv+XkFRYb6moMZdj6RdMl8axplHVfkQjQHFab+LGx25vqMQQ+5JMgQ8cK/A9ZSeRenbT1UjYbBYCFFlxNoAEYSOXRIs8+JvcDnF1E9VIPosSHBoY798fu14KNjc9E6k8Q/SK90iXtudNedK/tT+r1H1MIHI/lgJQ6d87XZYzdftZOPGC3rGSbD3EOFLpFkdy4/7L6Z+wHD3o3ySOeS7sIqHaWuOT5XdR6nuDd1f/EA1nq7A==;eAqwBKohF+4a5h0aao/x2A=="
+secured: "acUGuLGTDaxoRnvtObjrCWhc1K2XSA/kPe3eZ2Mev0XuT5lLr4oMtCCFsvMoCEIyA3lePOCu33CIj9SxvF19lEnmmujNPjswThCYQXnY1orDellgpnqwzjYvE1DEgh2X4PRDx2pfbonk24S9K0Ka5Fhs5t4eKbdyLQ4szm+8ZqCJYbZLVL7BhK4YEzWR4RC9Zjz1gZAxjwTYBbv1LsYeX47DMwijjswUJg9EUXkQ41LCkl2So361WnKGXkJsBvao8Se5fyvT6FyhJJ2xClAH40HlU76igElFASlSQt21ETwEN0Zyl0B3O4P/I3fIUFHHaWUvdXkKs/ycGP5q0xhfFA==;nKYd4ntBbRA+FSi2B9lPJQ=="
 ---
 
