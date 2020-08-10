@@ -8,7 +8,7 @@ ampWebUrl: "https://www.slashgear.com/microsoft-azure-datacenter-servers-ran-on-
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/microsoft-azure-datacenter-servers-ran-on-hydrogen-fuel-for-2-days-28630860/amp/"
 type: article
 quality: 97
-heat: 158
+heat: 157
 published: true
 
 provider:
