@@ -8,7 +8,7 @@ length: 41 mins
 ratings:
   count: 684
   average: 4.760234
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Define an AI strategy to create business value in manufacturing"
 
-secured: "t+3r3+b7PisXpKOkOwV7LOUOxbKiivUJ/Ep/tEuzD7znvK2AD2BvFj94Suh4q3M4XZVnJNX2zb6UMVL+pAAgaUc2AUiZVy9sRENFJALST0wfA0yZSRRdteQy8z5Q77w6sOU5TJvZoS5+it/l6GSljASYTggfOQuJAoiBi3PAjdQpfBqKoG0/WY5Az6DlX6uXYrf3dlDRZwUGV9YWv4BtOnfE+xt7+MtZJpiwp+Rew9/Z2yjg3f/7Dl61L5++7066TAOH66zyyCRi3CHyyGHXNgTYwoYfu8lT9Wxb3g+c77/fDvdpNLGa1BbQ+8HntVXpur136RqnkibsrulVo87MuOORCuT3MsQmGc90kuCT3GOaB4/KPPRXlND0yg4rbV2RU3ulXwEFztFrjD1uLY0a4w==;dUVyho0BjUA9EHBOfLbV6w=="
+secured: "X2yt3YRF57oU3ILOjaGiXHAYWxyVfLxfdIaDNAxZv87NwLU53sHUIYFjjCUhsh7CN/QGc/sedK682yvQ1rMPCldEOdUzkusotNk7YuNn9IB/r3/EZwvEwe5dNXfCoCnf5m/g7e+SkE6kOUFxJxe7ZG5eNMKQXZPsqxyBC7nzXFPZ2soHbBESHTD4Z0mljnJXK7cAL43jL4IpKhh9MK7uPOgzv/jcGzkXvN8Yv6FQR+XaCkIzapO2hcJxao26cvgYoKKDi523UnAl9yBKQqRRrqDBgBOb131pZ8x1CD2NVczpM0WWQ1YxR/MRcpQg/V6qEi//UaUxMvyEdG7c+t0KKn+40HmcAZPzIzNSIJYRWPc39jJ4YFT5J4aO2Y8zdy6damQLZNbvBeNgPL9ha7SzEQ==;BWOH7j4kQo1fZtGzI8sLxQ=="
 ---
 
