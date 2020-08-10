@@ -4,7 +4,7 @@ excerpt: "In this learning path, you’ll get a high-level overview of how to ma
 type: collection
 price: Free
 length: PT1H11M
-heat: 50
+heat: 110
 
 provider:
   name: Microsoft Learn
