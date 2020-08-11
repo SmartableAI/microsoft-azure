@@ -8,7 +8,7 @@ length: 33 mins
 ratings:
   count: 494
   average: 4.611336
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Improve the developer experience of an API with Swagger documentation"
 
-secured: "0eZ0WbDFZ9geVzRn5D6vvblwkT325uzSugw7TUfIl+jKiznzOR/eCE0r1uQiFj3N5hrD67l0h8gvzIfNwFUXKOWOGB2Cx5apVxXE2dEXvWmbmuhuwiJcyZice0dLQIwZ1wTiGmZLSmig8qMZ35x7OmET2uyTnZ06oTwW8JIafdh83eUu/1kZcBmrGFcyXQQwnGrURzahmV34PeNNF3gIaYdrOpr4oM8f/yDJdjfLpT7MQtQ1Hr7tLhmyEuaLUkDzrEAlxKkfCG5iI7moutPrPOPETOwgQ85odqiI8F/IaoRp8wNpWrXPhY7EpqwdHw47NkryMIa/307QZ+iag74h+t9xuMWBPfRr2dfQjHrFydX9U51x1k8QcwXAEj005G4fXrogKSAOAfdldLUpyZdgoQ==;/jshtPEDBlBl0VPMkBdz+A=="
+secured: "a6j9uqmVgH1TpiEHZ5vUIvh0Ob3myhKPUUGmGaaFL7lkYrrbVuZw4JU+QXhPnSzasoNGhFaOoWoslaYbjgApnGc4OQqt9QVqnQL1OuUeHm5lmcFTKiwsvjKYXLn4zVLawGoeO5qhhd9TJTWuGWOUKPrd68s6EI7owc+byP4MqFfWbfWZ2R9vaKJVEWiATEM2QebtOa1ba+5yQl/7sFwIpyWdzG1I7ssW3Mh9bI+umkttNsK7E9glY5LyJ+pmjjlOK+zbBRaG6Q/sE8ecW/o97Lr27PgsgBL601+7TX7bAj8fE2KUOkffu0bS+/Sw9OoPF7qLynhrFP5v6hS7miuLnVZ09Xazjhc3+9Y5RjPoxa8togVHkagTBuQjvFnD32PgGSyuvaF1P2muNh6JSD79bA==;E7DSzeKIp46nd5x1wISZlw=="
 ---
 

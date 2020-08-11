@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT49M
 ratings:
-  count: 214
-  average: 4.6121497
+  count: 215
+  average: 4.604651
 heat: 50
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Recommend and design system feedback mechanisms"
 
-secured: "sAoHx3ovTMDjf24lm5gnhbN4IjY8sgMOCthbfFRv1lLvJWd8o6d5A3NeOhHQ2Z/ZkKuVd1QqAnTmUduxP/GimL4rShqmiHVaZNOyBLtm9FwIeKVD0pS/QCSAwYS1bjUnd1Se5fd7MnGTk1cwNO3Rcsx4OlN2eiA3MNvKXFzvDnxhvlgM1LSr5J9bjuG5f1sht1q4vPpUnWT0svmiTYjhZse+3thRkKpszJb4fsQ/kbiIjgWnN9tBn9gyahr8+/Zkan4RRwXgu1XR6BaX7VmdxFno7lBB5SvW3sWO+PjU3UmXWNNxyxEz5DSWBVDjV+Z+AWMzJRzLBRX3RaD114AFtZ/dorqCyVRCZrHwvK8Jj5eAV8yydBnkv82+tZM0h3n1nH0/M0rGfM6F6f846UUZow==;GpYREW0llq4zs0MAiFHZrA=="
+secured: "YM4+yilimllbNwaOUzjpzFXtPm08A+BRgDLNoZdpdZiT2kv0JNKAdzza5OS65bgh3sb6Pg1z2hBRFb/x2bdZWTJMZSekMp7IENkjgve823qntnqaclBixNDdV7FMQRX74Zp4hPWvo9S/k9cJ8fD4oCJSvIdVRo6o9P+HHNQBQqiiERRcHaaIGt9a/gZQKcvBrOlhjPZn6866VJIp1hWbQXPsfILMRjb90SYurb9qpuuwmoZ7gSxH6CRcZVmUwMBE+jyOZl+D3e60CJ20+cYiZeVIbSJFgtnjMg75GeYAkQOlRe4S61FFDEeWSmoOp8YET5pvMp+4alU5hj9RoaXi081og+p8mdr/FM2GuAJDu9CqA9WAEtefTRAj5Scmf9p8VnjRXSGHBtCH9U/3HIIrSw==;GqwTGCdcq6CLXdv5XxUfeA=="
 ---
 

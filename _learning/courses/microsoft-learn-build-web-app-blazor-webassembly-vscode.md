@@ -8,7 +8,7 @@ length: PT45M
 ratings:
   count: 1067
   average: 4.6897845
-heat: 53
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Build a web app with Blazor WebAssembly and Visual Studio Code"
 
-secured: "RX592Z28O7Dj8M0rialOU6LgYXJgU3f0JRnKz2YyVgOxU0E5kJ4Whfxv/gSJgtWgoHTdAWcdSYwvuXc5gcgQhItQmEPdK3Ez1yf/C3ltKze5/r1AkjGB/pF9ZQjZpqPT7bq6w/kumgi2QwXB4ZYFYYoSRNwhp+PoMiNE+okafcyESpUN/+ZeG5RDV2VAi/ENujXpQkdTFXN/4HuZipINvNgQJN7pgCllEe+8tae700/i51IlziJmh3KC6pg0hjHCKMkvyh2KckJXvI7d1BWskeNJjJSgEhXm95LJberElogY5tpxitbBNxl85srpDo2SPLpveGuSaND/qgN8uzWCYcJtq8XWR3asUMdCCP5GM8LFa4rv4e2aOesaAV4wfqgtgFxqNC0byp+6663iHSUPdQ==;y065Kjc4DUTUKx43odcQDg=="
+secured: "HrpydVONKTSY2dSHy3vq/0JHgyYvXjwjshyUrZb+YW0Z5fqJ64WqI0H1yf5F3H+T4nQJW380VB3qXJwkvMFzy29oU5/ImD/aXZBQDa1MHX3A9cnhU8lEiRox3Nu7WySKPQNB040qlyQHs5j2I+TS2RVwgGPFy7v8TJSFo1V7bc8dDQOqF6Erhy70mEJ2JZKx0fhO/iix5Z0HEng4cMyT/7Vpt1HbCnl4uGTWeQi2ASgCSt2Gq78Az263i8+RrtGlHtFeBJ3SjyjRKiSagM1Oz4jcWiPv7Myt72Ms3Z+6e7ayu85oDS2Nb9Ky1QEA/iBM/Z4BNot0FiYi7l7njt7n97h5NFda+exvrEVvfMcRLbFponH0yhkljyoTWYMUU9brptomTJ2tIxMyaUj3vyPCjw==;FRgk6IPyHJXgYayKzggHtQ=="
 ---
 

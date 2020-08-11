@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 27 mins
 ratings:
-  count: 272
-  average: 4.7389708
+  count: 273
+  average: 4.739927
 heat: 50
 
 provider:
@@ -38,6 +38,6 @@ images:
     isCached: true
     title: "Introduction to threat modeling"
 
-secured: "SvN+bGlvGGJSFhkDvXZ1THbYf37m7RTICPsmlXgXxD/t4ttg62OKXRSQX6w+297xj6NL9pba1wTps6hK52ykxKjYxNQXvh4jcjO5DecLi2pBHCM7WeI+QM1fxJHIlfECfX2tzcKiq87XV5m7bwAhEipCetzLAuQAhYKcCZd+kRiS52YaC0xrWfNQGW6DOu5xHhBAOyDhjfO9/rMt6l3k4cwFoeNn4pZwCMdbEwvjymy/csyEPdAOSRFqrVOFdEir22BxSYrjFvrhqXuU+Cv4UsAS1Io6u6uf74mkIO/dZbkg7jkAlLR3V8UQrqOzjSCZc+sJLXJk4ylNtJPacAdtkS2gIuBdrPNGGYFuZZfN47vRparG0HwXhlAsPgPqh4KX4aZLfqdWozyVuZJcvOFnCw==;h0wg1cb8N+dfZ1yT2fqTbg=="
+secured: "YekHywEaM2iQBooK3hPQjxlK7SLrIu9A/d1DU7nkwKzN5SaSYcrR6/g3Kr0sNO1ebw2fcz1gGGv5d6Svh/y1o7r+L+nRWkvCIsMrdIPL9joGqH6/bOOJ7KQHCk9TwWvvzc8tK7uXp3xeYO3xhKqZxbYm4fnVWWxlVBuj2HDQkK1Z8Hr4v0WALth8Y7QIY9qYPPrzpHvMJ66N/eJQHJ9ykEKfuWAvF4t0+ojV7uH4BDkVIg5yxhZyGq30phSp9K1bhnRCzTBeQfL6fCBnxjxsta++Zp1RYCSBYK9JeeIbrNS07BfO1809wUsNqqblMpYrBEQOQ+wculhilwjDLRKRf3azE5WB6f1fjexyKTRE7QF36Ufd3RzHVIz4s3UXIfM6L2+RIuf1RF6fVaH+iMQjig==;IqBCXqtc5IaD9BWnW+TzNQ=="
 ---
 

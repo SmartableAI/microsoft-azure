@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 28 mins
 ratings:
-  count: 4218
-  average: 4.673542
-heat: 56
+  count: 4220
+  average: 4.6729856
+heat: 64
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Understand the evolving world of data"
 
-secured: "cg+CyjFMwxxud/JGCI7p+ItNrNBPTz+/KP9NZzM4ZuZl93OUAOKcb7CsKbHyg5atoBvy6czV+py+tqyG3X4tW5M9NqBipGlywwztTRcCqwlQR0cPRVLzgc1EJfuQBQbbglolzUIcHqFwKl9C8GxW8/f+wygoTOqiFY4gZG9R1ZR/OgAjXS3P4Uu9Ec2EHXzwf3WPSb7DVnnD9bay4sdIk+Ud7i+vioN0WF2+jDZwqK3lCctr/iel0l5NfmQf9wMJz21mfLnrb9aQsI+rh8Hurr6vnHfZhW4GRHDC8iRewXX2V6n7bxnOcWgimutMROnRprsm0y4SK2TODXidC4TBq5qeDOqL5e2wnlRlx1mX2PmTnaVIU4fyidczUjO2iK0woOfYLnGKRSCDg7l9Yj2FWg==;m2qMivK0SeU+p+fKuZtaIw=="
+secured: "aMbOYgTRh3z1CvXBmXGq26UM7uUasr0TrW62y91pvNcqer+4QY3usWbwZcWPeFg7Vd1lpC3eDnsBoUetlTeepOfvjFWDdHvnbSuQ222YvNstv8s1SWjnq4SsOaaPyJQ1osrp5I6s3stE/5TXe5yzA/3CRcRBHdU4QQcpcqKzY18Lu1/7FGp+3ZVDm4XlN5NxQPvJWv79c2Uq5x4NZmve+LQMPaRjOGDObxGh4anXseC/t+l1f8Cezmvd+gPA/E2MNBQA/LJJzl5K6ZuyHGIhfqohnKAXGvagcrGPDtvmCQBCxhc2xupRrA6G/9qQYcs/jf4EDxofZiMlMI+kufhC+rm+SBOXxEeXSse1X0wXITzY9hnironcZAjWVgOWnrv78nAIhk8+nhUYYk6Tob2IoQ==;IJCbuBIL70In5mEtM3062A=="
 ---
 

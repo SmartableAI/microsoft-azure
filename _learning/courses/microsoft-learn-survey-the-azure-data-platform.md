@@ -8,7 +8,7 @@ length: 58 mins
 ratings:
   count: 3901
   average: 4.6821327
-heat: 59
+heat: 61
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Survey the services on the Azure Data platform"
 
-secured: "CX5XXr14JiShZ5JGgY+UoIxWVs7ohHXCvYKvfk7AdDmMdA+5YdLUm7nQVGkM3H7gC5D1q7leq7F865DSHUrV+CmfV+vwl7S0SdIBVi4rJX8oQQlCMtrUfsN/6MDRo1ndA5JX3N7BKPHZjWilGEiGHCHqRLJXuGEaXu3EkQv59z4IUaGAA61hyEQ+VHzkiwkRTliHV263gEzCeVeOtE8KAtDUfLVQSkhZpJIIICiqauoeXA4tp0qvCU6nPQgORHPYLymOq0OavbZjvHKwxy74fg1xeVMWU0d03DKsnFzKdGHbEAl3XENeGI69j1jtbbLjwkh04abblCWo/dxsEG/fyTKpnf0vY4c0bGOzuZz4Rwg5S8TFWmeGqjhOutohGqDRFd8yu2rwIoVsjO2tISHeWw==;FI36unAYGfmWhQd9VK6a+Q=="
+secured: "GtvKQ0hIfA/IuTLgDwhHjLDzDt47M+YWyElhsZ310lRapRgQHMU9LpzvVHvl+IGQn68sS1z8u3CQjlfljqNqXSBT4TuF5uY7E060YDMBVBoou36+TWszTWOXP5nO5Ldf/UC1y5NHf3vTeLtW6numlY4ukHdsAFjLyF22UYB3Z3L/TizNcsYs99Ew7oBcqGezKwwtPz47KR5OQ16QBlXldSxRBZ0YIge6l81y2JYgjsEkP9VXHbJbBBg95KiYUMoIOKh6pEahl7G4cV+eHUlqNMGPz7aQ741RfWzOzxBsdqixtsShMxeF7QWY9huzyh7tlJHDwvg6P3poC5QGG4B7CvcPRrsTCcYVY5W4EcNIqDvc8p7336FBfECokwFkscqfYyMWizpAhuUw+yvf6ReNMQ==;Yfks4g+sASM9MCSo7qoKwQ=="
 ---
 

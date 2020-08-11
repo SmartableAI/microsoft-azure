@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 50 mins
 ratings:
-  count: 2405
-  average: 4.6702704
-heat: 58
+  count: 2408
+  average: 4.6702657
+heat: 64
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Manage users and groups in Azure Active Directory"
 
-secured: "QdUIclTB9BCDnGVts5XP3GYdxzuCmzDovdE21uJH9U5C8wAkNOMTTb0s577WLXG2AUKSbWYlnhYKq0yeFEexEJbDzvtVfxZYTjl1JgVSfUZOOvL2MFeCbTJIJrIShdEfdrGk5CNx8VJGQ8WUhEzjVnd+hpc5BDITg/b6c8Zbi7w9MWcgPfE6EzUXKeu5N0xRWaor9UHlwEtYopQXePAJ34cAQFpNZtXoafXsR7lsmMJHkUPxQelextZKlbbzL+JrzS7pIByxTLjXYMCdT5mfAgbUyKuXdncQlqedDbvS+8j9Yxg9Cb+gfxu9suBkKOO4Ci9/oPY/TG5dvkZxUU4KY/iayvV0VztslZvtRzb+BqVrxt9Bjnj3ZFDf5IH6XCZaVIOwtlyotPag7bxRvoViaw==;7i9am8DY12q142YfevvfIA=="
+secured: "r7sWpFmr9Uyqvo+lGuNhJOW4i3lb9QxU8s7K4yf36rY4CIGe0VUESxu3EV5ujnBoX0Wwf2fvWyUT+Sn27xaynLFxxm4B+iBYqxsWjDvGNspC0VxYmkcN8oxEnTqTXviNA73PT9A4nvF7Qc+jK38Cyj/TuC9rDbsRqwO1I2XoinN9fQiuSiLBxEcqKDRzoTS7FRSTgLH5COJqhu2tg9Jn31PsQl383+PUE0cm1iSqwFjsMEYC39CWjuGLGTc9cfOZotsJqaQqzJT/rwqKtYF8XQj4R9SsyGyru4eVolBasMTTecCknqozwkywvSxNkP9DRKicxO1VKsJpcuI4TXpWAJM2WUX8TQI5FB+e8OKfIOOH73IsieALboJkUMnSqb3U5wHLY42cIXS31uMazuILrQ==;yl9+KT8zhHj/Va2mIbjWpA=="
 ---
 

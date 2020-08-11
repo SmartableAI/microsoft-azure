@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Build a bot with QnA Maker and Azure Bot Service"
 
-secured: "1XIg653vagwHnkDrMWKZM9gWgysQlOp6a9+BHwerK44I+8h0i2dMKD9GsQ7SXq+sQwIiZtjatKR54KkhQP26kqhgOAR+yk8ua+qSgF3x4K3C5fQbRTglCxA4YZIEnTvoloCHTowslJO70b3FcbaBkdYHV8dvYHhNFfbYYV7NWtizxc+8Cb7EDAPzvATwXYEyqqs4KBpLkpMWsbl8qPuiEuvpp8yW5SvdY9bnn6bRi0N0QKUaLOXxapYl02Equ06wvjGVsNEh3k8dhUCpsK5vODtvbFvkcnk9vw8hE9atFhMwfDlGMw9eQ1Z0eF+YPHkgA6QC4H5xWHFL+8GUjW5A4jWkCTL/3smEME/2+lOEHBcQJPkTviAbiAkoMNRzMkJrrq0b49GPIMA39/6zmKdn1g==;ajSbBTo+J4Q2ec+YAlzLAg=="
+secured: "Whu3bpKpKDeRv0e3YQtqfL/o4xCWfUii+HnRkz2kO2BQnBzHrnszdadM900Wkx8dAljqkKrVVOQsSVzvHZ2vILYe/Gv8R00mN0IlKnvu4M82hsTPnAKhEIK13lkvETFwn0YBDaXHO8Jrw2gmMyb2j4o3FF6GXAU9k9L29aLEAA96Brydx0E6x+RNHnRrMuQYwyGxTRFMEIWEWSSkm6lfYn6U7JXCueVT71JzI87+CslSSBcqVGiU3L+wvb0IQkUtEn09sd+DE5x0GtsFFW5fV/xETJdR/S+nnDd7BjCyuki5CNkTkTsmad6vTsgwrRdL//8hyNT1fL+xJS6Fsz/lKHA0QcaYfSh57y6ZMCSR+C6WHiq6HXCwAc6d70njWw//01joJqsANw+BH804ye6ozQ==;4OCgvw2AmQDdh25I0SnGaQ=="
 ---
 

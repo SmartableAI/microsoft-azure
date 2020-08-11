@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT1H32M
 ratings:
-  count: 48
-  average: 4.875
+  count: 49
+  average: 4.877551
 heat: 53
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Create and manipulate tables using the datascience library"
 
-secured: "Ytt1zwAvtFTRgPNS/A5eVZxy3AqfPiOY6ukLMTQgr2bYenicE2DWioLedh5MGgDc8dPhFdIXPRfMIqm49TlkJNd/Y00cLhhcEGLVW5hrBckeoUilUTuZgpbYqraqATnADbasI9hoS3SncKeGKfAYuh97OPG/UG7jqrpfuPgZbDmZDnykms9E/CBjcFLSh+IrGRvEkdjG+eP5qhHBtiTbO02Lsata8I5IcA3WXQpuQ8SZRX4BChnKObd7cNZD/thGp17UtikDB0NptxxHUtcmWRnpciGx/zNnVq2xHXHATzSGgMyOZ0xU2H8S14o8Ga5gNV0Fo1sHnI/5Tvmi9unySTAFjFIrYea3tQ2iGoGw8eHQKd7hMhtVdjgeRcBP73uZIlTXY+FYbBJcalYQl7UBkw==;gNvtghYSOA9vQZb2NPb03Q=="
+secured: "WJDf+DEiuhmwowClw6yvuZYwevfzN3WybOpREWXgw6BoQjGf1sBK72fJMAdi3mGE1NE1wQ8OakGML4UJuob4ODJV6K7PGJupbayRc+tgtLw7ExFYxWtHFi6K75cTfEqKfyV9d3+I5riq1lOT/jGePnv3v0XvJw/T7HO5ky5L+MWtqbvdmK6ekO/PRJxiwzIpmaP4Vfi1slIqCiryuWd7OIV8ymRr1l+/jvYivtP3+bYmwBoAhMJ3zPFMncdnRK6gSUVR+F3ZBhr/4MQpAE05PSa47Ck3/taXke5JN4oDfpHjb9/j0AhjWSoV/N9dc5fLV2fnibdch1+kcDHdTRc3EuT0yKSYciofHRWQCQlLVjn8v1fM3RfFyIQDTknOnXLRfToqUh9YNJxWwfaYzWHpjw==;7W8VcOncRP4KTn3SOtKF1w=="
 ---
 

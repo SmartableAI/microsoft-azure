@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Host your own build agent in Azure Pipelines"
 
-secured: "4Wswifzd3xZ51sBW20adgU3ln3uO+MEhocgk+D1SK9mCVLXW0aOqeOpCaBVWWR+twN2aj1KPOI6LGgfJfK8Mt4G9XnJmV6CeSpYVSquQIqbje2SYECr9ukszYjSzW4P6zXB0YGGpzos93Gmdh7b/7UstGQNVsrSbe5a6UwVGLgtxs6GR+IPSXtrHiq43YUOZN6gPw6dgNHUPlcNloL5bnu006HJeJpWkI+iUCc+8jbHAfJuv57etGy47mi1XodWBIs1vzQbxJrGIXi0sWC17xc9MqeHKQqWKcRsCzoCN+O0kMAbhTPy9R4xrYTuINf+M8YkcfIlvJcZePIXQnlcD4LkvO2OtyJMnWNMGiFbDCtjUCI0CvssVpCYi6vsAqDZ9MHnG73sXzbLZyVre/q1Paw==;ZhSP+InMRvhu92qfYlivUw=="
+secured: "s7UH/EFqpvSSKX7CLYOe6PeO+lppD8aMaCHW/htl1fpQsAVgmXjvhAdpmwrOPT74ArKl++k93+XU/wfVpnc0WTix/na4Kcc+DOKPb/jAJjGhh6Te+1NZ/Gvo8oeDmALNeoUM0r2rTm3xIcbm+i8DeOjV5vrVgWwrZRLdJtcpfSGgwXRDm9u8qNio9E+E7Pi71hzHG87lOYxdTfbbCR9Yv/wcFQ9G/5ouq/u44AGZQRHOxXn6Hq9XAXuFyx8E7KVfDwJFkll4Tmx58f5plReC2s91m3+Nni3RD5f1fSDXbqlcdPb0iBptIsOKZbCPPZCmHs2Tu7Vhw48qN04ILCXaboYcxWHtbFQ9motZeofi4PumTHaPFC6GHenaJD+eQfO61JVA05pUYWYTbLRYQd3R/A==;nJzZofQpUHewnWsNCfpEoA=="
 ---
 

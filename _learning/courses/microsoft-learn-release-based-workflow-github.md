@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT1H44M
 ratings:
-  count: 26
-  average: 4.769231
-heat: 51
+  count: 27
+  average: 4.7777777
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Manage software delivery by using a release based workflow on GitHub"
 
-secured: "W8884oTUHaluWtBcWEW0+s2YSv51QVih8Zfw0FywjjdFxcUSuwuHCWp0cgnDKcI4/4vrPuW0mVze0+NRx6cBVBAJBJsJ+pbeNh/UOx8+7fm2T7rQy6EkSVS9lGxVJUKroVG2TqL5tbuVJ9B/dZJvN+T0waZM30uB0MWu4A6KQp9GGSF27QNxgDyJxQ6PCId/fkZmi5CF5+4OAFsLsi44ZT5JCOMcJqdAD2h79NYtsGiDkjL21Uc1/egFyNEH+zdOxYpBsV9WCLXg+Nuu438RiotT0E5fJDRFAIJxiAqEOhT1AH6wepuGsV8FQ/nE3MeyPK1EAFY/iPVpdveSO7Klis3mlUZZ+WPWFwwEXtH6DTDT0qw/bpkn959aivTPC6tlmh0rglA3n8f+RxdHuJJwhg==;L12cXIy0go55u8fZ7RubSw=="
+secured: "3Gl3YI0iRD10bJnpyjTm0MbKu5XWPOOzN6HdWQXhjZ0oOhrmRMSA39ipeWTsa0A2ys8rAcgPypBEeFTpnQnQ76N+/CXBb55U0Ir43bZ1CDLlCbC2lhqJOiKjzqhqR0xBoCNlL/aI5QHN846a/jFd4Qw4dsXWPZjvccHRPrptFlOiLdLpMOBbADrgAXccX+NAClkFiVGxgtzD0lqwOxXUfnb0FBGiinHrPaYujE00D/mWdC2RFLl3Q1CT/9IXJ1s/yWp+Y/angqqIDMMgAaky9CgB7RyOQKQAhk5riN5bpC3s6xevy18O9Ks2TPXT6lwhMRnTW5lttKlZZkWFkgRmXVrtvc7UpjK3tnuyWOn+pNqG1FD/suyryxos0S3t+9rO8YC7QBBaf0RWacQpDrAl8A==;JpT9G/RdObtXX0CN4kdqrA=="
 ---
 

@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT35M
 ratings:
-  count: 215
-  average: 4.6651163
+  count: 216
+  average: 4.6666665
 heat: 50
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Manage site reliability"
 
-secured: "VO+bcPfSmPQUlzfh0PCF5EwRq77dR6rzQ5B0rC0MiRB/XAdzXkPmYmGA12Caf/+HlCoBfrcIy2F6rF6x0GxbEiYSyAqi8Wok0KQoRloNmqSOAyyhr50cuzfprCkyeENkuEfVCFkhbTQEUqXjFV6L0+4hjF0cn8i/j+hyWjkQqub/yWW410BgzEr2dsXFxU5pIMHtPcpP0z7gDMnJQ3iRUZ9RJQQynEWe5xqiRlkITURK+qV4WTiT/yW9QZOXm/E0ZqvB44Enl6RVrGQ/CO38UGGHWKwySrtBoDLPyECZ54C4djc5EPJWxQv5WLMgMgNUbAMXdYTAFLKD1arMVaZe3VJGXttj56PUaeOVLo21T3KsFpLu8WXska33BeJbxtIGYs7vRu0xEhzw7OL2lupokw==;AAs00rl+jyFSvpU/Zy96Qw=="
+secured: "xJHl4ItvHRi/g+4AP1Swoe1Br7PS5RA5w6joEk6cGYE2mYg7WpRS/UrSXSwlaZl8vCNtrgNj2MsVoT9zJBrm5i4ROWzHT8X6Dz8TeMxZ3Z/TY5CIU0/Gb9Tx8/IbUdE3R1u7Hb4t6f6s8ZBuuexM7yivsvOt8tgsMRo1sjTF5mO1FAOVT8vqOdfb3/3zHL2xPGkGC4fj5cqukIBIu0z3TaL4jgMLuqE7wfSRzRX5onmMdEOs85A+6ypLDNjUvLfaqGWfk5tH6nFL3J8i7NdbOTEwpOZCGFqmPXktmIhF6/quwnJa2s/r4uiXZJZdaMwknXSiJQwNBF7pLabN48QCD3AmzJc/qfPhMvnpPBlJH7NcbX20FeMSwd7bseYku4EgrxrFP9/eT8w0LRlL9CBccA==;uhDwDrO3j3y0OWMzckGcDw=="
 ---
 

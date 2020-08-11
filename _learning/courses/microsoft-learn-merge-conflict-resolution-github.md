@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT52M
 ratings:
-  count: 42
-  average: 4.785714
-heat: 50
+  count: 43
+  average: 4.7906976
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Settle competing commits by using merge conflict resolution on GitHub"
 
-secured: "3JkBBmhOcWmB8vlzqOciAgcFQS49m1eump1+2HR5PUF6a2VpWkyefYDshYsXrq0AUHxWX74olx+O/XxdXObt1QzHOBaWAvE1e9yEH+EMEuAecPwyQ91MvHnYBBBdde+Vbbg2nIwzBxBgEc7Tt6YOXncwePoZFjq0d/V3WRsFYTmSpWAFcTXeOF39WblkkvwUfR788FfZOv4g+WmRtTPcb3cGkF+RKJMAhCMbvWMW8QQNjPMClVrATLwe6PYeHRW4vwNnFZamm/ArLE7I8RlEZqyme4P2MoK2c+To/BoOm+UM+22pk6ZUDSL/xG6VclEUekOX9zDyVpQRZVnD/pdAaQTIO91vmF7H+0ujJVIIgsKsoCnWd2iBKi0E52RgTdBCdxMbN7itoSQqgbo/3yMWVA==;smUkPv16ee9WTlhnpxzTrA=="
+secured: "YF9sqDCZs6BOmlGkzZ30y28uNVskzxIWEWRkha0O1Jpb9RmRY123Ttn8atCQ9uVNirxTjiCY91gusA0nrFoWMVywm2PFIsdEK+v6durwFCHgc4D6ebwU7n6CmB1xOqjZGAtCKFb4GEaVeIkX/DejOsb+IA9Fx/25gJ5EUi6WyJ0WkivfN/XkPJHodONHtN2SHpJOS6E11Rc/DzAjbiOeOPOmzJp/DxSxk95gFEyBxsSSCar38eV5+Sp5BXaTSN3fYzzPfENMNFrSL6NxByB9iQn41wZURw7HoyMaLNkeeDoUtPz2YBwa63KITYKuP5fXrFtdzAlECz8/iehMnE/LK5nN0e9hfy/eSXVPfjVIP7Urf02CrIWLBBlVMWfZa9KedxoEsatrznC/b1In/NGSEQ==;X/w+vhhJt7eOEfDNF0C9lg=="
 ---
 
