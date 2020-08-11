@@ -1,21 +1,57 @@
 ---
 category: news
 title: "Signal Sciences Announces Advanced Protection for Applications on Microsoft Azure"
-excerpt: "Signal Sciences, the fastest growing web application security company in the world, today announced an integration with Microsoft Azure App Service for the Signal Sciences next-gen Web Application ..."
-publishedDateTime: 2020-08-04T14:46:00Z
-webUrl: "https://www.oaoa.com/news/business/signal-sciences-announces-advanced-protection-for-applications-on-microsoft-azure/article_03283fdf-d27b-5f05-92c6-d90c2a0945ad.html"
+excerpt: "Protecting our applications on Microsoft Azure could not have been any easier,” said Chris Lopez, cloud architect, Qlik. “The new Signal Sciences integration with Azure App Service makes deployment simple and straightforward,"
+publishedDateTime: 2020-08-04T13:30:00Z
+webUrl: "https://apnews.com/8d229d1722ca4391931709616ec33065"
 type: article
-quality: 12
-heat: 12
+quality: 32
+heat: 32
 published: false
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
-secured: "Zxaa6rTY1gpbnVgqYXCikth0/MNyiCIEEJbR38gnXIQIIhCh+VLYyeSR8NZ5C54p2afnekYpdpIGape/bndlki4zLKPcSu0WPYw47H6dTioZSCn9uGoK01Z3EGMsfzScShvnJA+SNc47DgibN7M6cAAllDW3bL2K7h61KdDZrSVCrc8gXXuoRLpRxwOmW8Vpi+7TWdm6mj6a9/BFW7tCvalZ68lTVMqj/o8bzQCmEayml4ntpxa8xahE7A3PD82NmXVQVV38ONl5YReeSvl3t007zm6Rt0rsebxjYr7sfci9OFn8bG0TkMWEuePAk4B/nrzxA/rTnLJHtFZjiaQWCA==;lfBCiASgQKfQ6+4CAXhC7Q=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+related:
+  - title: "Cloud Services improves Delivery Auto operations and realizes 30% infrastructure savings with Microsoft Azure"
+    excerpt: "With over 400 warehouses, Delivery Auto provides domestic and international shipping logistics across Ukraine. The company retained Cloud Services to optimize and scale its existing Microsoft Azure implementation."
+    publishedDateTime: 2020-08-07T22:11:00Z
+    webUrl: "https://news.microsoft.com/en-cee/2020/08/07/cloud-services-improves-delivery-auto-operations-and-realizes-30-infrastructure-savings-with-microsoft-azure/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 18
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/566/2020/08/1270085408941310155_1270085408941310155-1600x842.png"
+        width: 1600
+        height: 842
+        isCached: true
+  - title: "Community Brands Announces NetForum Enterprise Cloud, a New Version of NetForum Enterprise Built for Microsoft Azure Cloud Services"
+    excerpt: "Community Brands, the leading provider of software solutions for associations and nonprofits, today announced the upcoming release of"
+    publishedDateTime: 2020-08-10T11:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/community-brands-announces-netforum-enterprise-cloud-a-new-version-of-netforum-enterprise-built-for-microsoft-azure-cloud-services-301108867.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 7
+    images:
+      - url: "https://mma.prnewswire.com/media/550289/communitybrands_stacked_Logo.jpg?p=facebook"
+        width: 597
+        height: 314
+        isCached: true
+
+secured: "yoJdawN6onE4jkR33iD4DesFuSMm/GyJxPxB2dCibjvZtGhRokDptpBiHztR1HHtw6oqgvy+i8CUKzGO4iFymfN3I0CdBwViE0a2p57ucgqiFLlDqyD9up57qNTqsVo8Y07tn5MY8uA8aDj2NGAQLMWo744smYpe/S1/tFALYFcy+LdmVUJqKK6LAxshtwMx3jtVaASWphmDpQr5MHW4W1GIfrRBryBPGwjyqxNHQ9U2S71NccMi90mOCER8ZDpMqyu//hFcPCGctFCsE/DBM2+N97fZb9w3rrwDd6AZlS+ec5EReNeB7PHdm9U1lfyEIRaWVmPiRwHrcaJ4aqpeGw==;0aHvvX1hTQkWy6EnU4CDAw=="
 ---
 
