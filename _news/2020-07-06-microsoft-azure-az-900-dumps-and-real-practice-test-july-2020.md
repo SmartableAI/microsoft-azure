@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/16509774"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16509774"
 type: article
 quality: 57
-heat: 77
+heat: 97
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Newly Launched Microsoft Azure AZ-303 Dumps as PDF and Practice Test [August 2020]"
+    excerpt: "online practice test to enhance preparation for the Microsoft Azure Solutions Architect exam. Success in this exam is very beneficial as it leads to Microsoft Azure Solutions Architect Expert."
+    publishedDateTime: 2020-08-05T11:41:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/08/ab16940078/newly-launched-microsoft-azure-az-303-dumps-as-pdf-and-practice-test-august-2020"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16940078"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16940078"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 51
+    images:
+      - url: "https://www.abnewswire.com/uploads/b9311731db8bd72c3326b1c9fca19038.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Microsoft Azure AZ-900 Dumps and Real Practice Test [July 2020]"
     excerpt: "Microsoft has updated the content of the Azure Fundamentals AZ-900 exam and you should prepare according to the latest changes. Candidates pass this exam to verify their basic Microsoft Azure ..."
     publishedDateTime: 2020-07-27T01:17:00Z
