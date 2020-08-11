@@ -8,7 +8,7 @@ length: 57 mins
 ratings:
   count: 1102
   average: 4.5689654
-heat: 55
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Design a holistic monitoring strategy on Azure"
 
-secured: "2AtqHWp57oPQy7vnOA/0nfnqAcRQxD9xunTgpX6QK4DJWy0sF2ELEOtoA0cCqL0CsvgMc/R+1Xu41Pblcwwg5ikC+O++JdJzAI4Quhnm4Ty4wwGmIGMUMEBS98pJ3LKL2zIJnHURPuWURAz9DrelWP+Zy10nxs46+Ce0Jmny+OFYk2b1+eQjVTPF03YzR34u8766hFg/MJYdi9IJL11ixha54TNO/rfP75mXEm7GolG8wMVkkxXUuobD7lEliv4rC+luH+0ntpGF81C2fKLRuQeIJBqzRjUvpTI0VNXvEr866THKuTvvkCm8/yrofyFAZ/qWcBxY8XPtbsUqYOH8QxD1/MD4tL/dsWsRtUvGBARdPgpHvH1rlYKLyoBzlIBYqMbgMmYr2WByqTAnRd54zQ==;0hZt618dz2SauIdM8WVfQQ=="
+secured: "Zb3jYArjp8QA7C/k1LcDiDk4O+e/0Ms2d6GvCTJATmjmHAQ1UpKf3CQfpU8t015meJ1h0Oc5DSZaKh1huZNqdxOse9oSQG4Pyab2WgrretSWHdAoaEXGIOuedcHs5iO0Vtvo5XQA7R5w5WQ1d+CsHk6GQkBhdvONs8ZjNhS4AYSw6aURWcZfhPVzxLE6Jr8hC5oLc8dadrDqhC0mVkMHk/JijyqtAgSFX2s2XqK52OmfVa+Jq4wo6aJ0XJEIWnFPSWCqhOkvY1ZdCipcgHlcPcD/IKPu+IM6KAxAT9Jt8Vi0mfrb6cpF0hsGsWBXsdYAN86IchaOC+lq5Nq0fzIyoOIkHlCQGGJW0f4X8rqadJRCkBSs+Rw5zvBrrUPPn20UiEqDqo19iFpmTMOzgHAlzw==;IOUhGo1hAKfZxTywfsYF+Q=="
 ---
 

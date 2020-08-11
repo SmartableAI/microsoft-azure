@@ -8,7 +8,7 @@ length: 42 mins
 ratings:
   count: 837
   average: 4.5902033
-heat: 54
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Deploying machine learning models with Azure Machine Learning"
 
-secured: "NU4Q+e2YTeuywjukEuTKV/bEl5zK0vsJp0gDUHwfC7lppWEw+nfJb2aeIUGCFtOlfu1Q0AXvTrAVvySLRm5s+b38MtpFefIX8BWW5c5stWadpQHpMvdJCMwwqdCfI/EE2LQZApBN5CxUQXsCS4dIBwDYQxwwNGHBiqaW+8fyxVrV+ocwJzayZaxQw4w255XeaZdjlzmvpfFxrlFEw+PPq6EOKl/M1Z3I8PS8nnYYxLPX35ilwZyuE+8bDNyYboqLvTwadSAeeYARbkaqfYoRVTUk6yZWFc/Id4gUBYzAMa9TiKpMeIBfIorwq/pcR9ESkrFN72baCh358np59rae4lOFvW6uoPHkzZFmErda/ANCvrvG3bW+dO1wSVOxcITTa8Vl350Q13ziFD9jfqTZFA==;gYyZgj8kbQRc6B28kpRMyw=="
+secured: "RDohUh+GalbfSVOzMIi4ZkcjBwkosW6eCUAEGvKngP1B7HGLZlrVoGiGZICUJ46VK1iwvjr7dWwrtQXu9MWHtc/xjJF9mPsRDna0TVzt1JXWicfN85mDFbuOAVQmc9pdtgVeeImhNX35qxzsRvvW67/Frm/MDkCtmfI6aC8kuhmT/WrhoLyKny9m9ciLMOg9O8ovK/lxZtjt/Uh3NAO4h0Ba1Tz7wlM7otUjua2MmSaz/oFyyxH7cfcK1V2ypojFwO4EHW59iDCv+RMZyl7edhnEmZrfd9awxUmI4b/2pBw/6XuAOEwBIPEkwr8YaNIW+qtD7EWuSQeGid2uIElouetoACbXxx2LQ/3jaXCJ8mpSo/9sHlkeVjQRDe6R/TYoEdFxgXnZnu3FvuZK+f8bvw==;K3/0sh6LvyNqiulqPcvbKw=="
 ---
 

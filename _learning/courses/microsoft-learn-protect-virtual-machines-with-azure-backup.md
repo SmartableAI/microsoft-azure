@@ -8,7 +8,7 @@ length: 35 mins
 ratings:
   count: 815
   average: 4.592638
-heat: 54
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Protect your virtual machines by using Azure Backup"
 
-secured: "OSh/8g840SRmjTNrJus3R0hBoVCTnkmc91No3IQZWSVsXGouoocSYNVr57y6QPwjRmght+KnUTWQqcvpVbQQbbU6GETySb/5GA8hz8Wn+70VmRFIjSZu4cdjgEC4cwnumP7dB/h8gqkdDgt3O9BJ0yt6alJDNF6YZ8myFxn7BeZ1WeKUMd3sBfj5Ap3qNYpjG99YWBZHI91Wkyu2zV6PxnabOYyuRrXRBhLOzHyYGqOZXoSmp57sziWg74xBcj0brtHPKwYGK1g3nUpyDsYmmZBFFHmDvYCGWIaUYt0uvzU6iC5qB6H3Kxu6aWhq6DnQgg0OokENO86hKde/oNdEjkreN3fxwPI2ssv28UIdUFsZREPRrWLVmnfF6OVe2WYVqpXQRn3pRjgCviHMQ+NJeg==;g3XB5de07X75oKv6fEGxbg=="
+secured: "dF91TVPKu2U2BiZU6n5i7S1LeFHhHSh8kbFsf3FqH6062jMpyM2D1V1O8D5IBwqlOrZj99ggjMoKCvfDLzZpETEZtzF3ReGQw2+NHswAvzF1f27B+NzM8SoWfdd59Q6Twb1beCj6rNnIf+xMLUDg8rlS+N4c/5ENXon6wAlWSQ4iL4IwHdDhL1y1sp3o7/1c8hO1w9G9zljGaxCsD4N/GdIP/iqbLNVGraOTKGqPN1x3+N9i/aG+rmSX6QgR2TISt9nws79N9iQ8F59GdTIjt+4GDkEEeclyy6QNE6wWuTN6cX+2v0WrvAcEkmosIFvdhvSfGPQl4GfZFogRVVYw+RPkqjgkMs85kTsoU2D33ok4rvYif+bLpBM1ScXe9Q8TX0TDm3SGOxalefXEi9z66Q==;+EHl1U10Qm9VAvgFtnT7fA=="
 ---
 

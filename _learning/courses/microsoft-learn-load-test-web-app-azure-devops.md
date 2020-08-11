@@ -8,7 +8,7 @@ length: 54 mins
 ratings:
   count: 124
   average: 4.556452
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Load test Azure web apps by using Azure DevOps"
 
-secured: "kTjUFa4LZkmmOxz76YEoIb2V8PbOKYq8bZHj3CxsFP5ChxZQMGw8Mq4Ki3y0xxP5k3Z6Tyiu0eTeHfDlr7HROy+4KHsbB7vBwQlmJ1iv8wzqVQwyphdkUrOQ5ZUpwaeQVnN/Y1I+5bZ8YpxKtMqD8JN0w7ctbs+gmOaYH5vWTlSs6DI/D7vXc+rvBb90zZ3Rn6rqmSKeehTTxc9vUamZQ7dpGLuhZ43izTqmDcxk88R90vmnC82FOPqFCRpAGOdPMJQMZq/6+P+u5We+zRa64C/oI4v/Z7q96pKMsMd1qHxQh/bdrDcDSrcZI1Yu04h3DNFdCaYMVdqxo1TfgxsbzTW/qzzI/U0Pk0beIucedCMr5j/9R7nSUdQKdS2Z/SyeTzM8bkOgAjHmxUOYX76Spg==;nfPhNIBvZcyqjZorWnft0A=="
+secured: "0lR2yOwVeN7ulOFqJV8HpGg7Cg2tCyUGWQpmcRNM8EZqr7y9Di6za205WQQrMhQDvhWPWv8+gCb97galKNDqlS3NySc2JK+l5M9MAmN+LlACaLphR+RGUVu6eLFlhgZJURvtS741L5jiTRajX7/MVbFd9FLE3lmMZ2LMtanlkAw/py96JuYUpfmJTXiRbE5FXDNiXJCo2GEC++Vbch366in6RJF0F/q6nQgGmOLJlAJlf/JTVmMjvPwsgezw7+wjT2O//fqWeEAL43NCOOu3s/hc9A6GwaQev67YLeML79sa17vrQky/YboQcgtxdGO6IzzGMftRdmMFE8F+tqdlMcRh1COUhaHo+cX8Jrt7e2Q6sLdkFftwRhFqjYrkQVnlTc9jFc3Hh8SwBZPdsyd3xQ==;KesDeJhqHTCWeHWvVhhtTA=="
 ---
 
