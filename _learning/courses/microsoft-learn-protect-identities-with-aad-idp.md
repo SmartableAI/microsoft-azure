@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Protect your identities with Azure AD Identity Protection"
 
-secured: "jO8b27EBiJmbMZ6gxhKwmsPbBSRVb230M0NQuympqkVQlZ3HSwEK6xvw/2/T5YEglaCSZANCtWx/J6mIzJpgya/m+7Zyfc4mR4+kdx0ghvkExYkuA1Atl+hKMXI+areXPIieZPFavtF+STBtTpNwYGpY+v24ILMC6UpsprEE8vreDNgAjETHDfiTU1P3rGs0jhcLAvSgbSPUjwnpxqbz0XhbVDUOAnf1zKuu9k4AA7cNGx+n5Gwbm5PfVW2C9UOlEQnFaCS1FAAkE62zaWcZTRbyWjdjBWPMdC54za2yI4dM0W/8brW5MAWrZAnU1OSjwgxduW1OW76gzcQWkiPpGvt1qt/ZHG/RdTtGR55uNbHxZsFkQJiMRGAjashrxOpsVPi1cQGZyvAeU/2m0ILCoA==;HHP+P44XH90EMDa9zyoH0g=="
+secured: "wSfpJ0NAwHDyswQQs+fqfA5tSpQ2V7Gb91s7RK9EqFE9TvNI8uw2rczFBjpQ7F/7EX/tk8HgnnqgABAqSZKVogLVZUDvzSshn5gkGYV5dNN/0EWt8yOxKBN9Oo3A/i/sCMPwW4nOiCRbCKPYr82+YdRUIVwBztKYh4JWp/+n00hcDrFQRIaRc1iZfMeoAarLw3/C+k+9pTDdoZo1z1ODCkjwh8AO47sadjY3hrVgP4niGK7un13CCHMwn858/zcyP2M4Dnm06fG+GCchkh2PGBjJla3HqsQ+RMKsqHANPXgnZOILLzOS5Vyi6/WmkKBgY8r5s5Pzt2h2gQQD9rNgE2K3Dn8xQmi14H8W6HW+yVW5ar5fgbumTOddkIORkjxQSZUpVWZgnU9fZAb3LpLqaQ==;zBdKTma/P39PClN2hMiqmQ=="
 ---
 

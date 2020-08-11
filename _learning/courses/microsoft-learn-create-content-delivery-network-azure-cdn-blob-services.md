@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Create a Content Delivery Network for your Website with Azure CDN and Blob Services"
 
-secured: "JGNxAp7+7LFK57jnnEc24BoVlHr9NtdB+ZKhZtlEnjBQhComPU3ZWSDtLJG6MxwJnylgzcmOyTEPregV0+fP6YEAOxto4d/Oox8FAVi1Tbc5AenPOZka2fEPtJeMNUsWcV7nG8slpW1AcQW7vAWYftu15JrESkG631oCswGh9ybmH5NFOsHk/lFfexcKe4AtfjqDOLKoHPyubAqJdbjy2/Sem3scMXy48/RDkxtwYjdBMf13hoq8goE/o+GK5fJ/PFtm0YT9sKGJl27GVjw/StInpHmkzk2lQfW7hHpF6fytsxx9gkE4k+nw4hyWIVY7TgZJyf6f51PV1rlYpZDvTfFnqA6wH2Vv7y9ISzWXrPyzk7tXiqRE6ZOj237x5ZcDWnRUauRFTW/wBiZcLIjZFg==;+WYVLKJvNK4Uh4MaaTDmGg=="
+secured: "SahzwttgAQ+3wLdEvAbBReFXnxC3x6ixCk926vPDzM2W+Fo3s6wG7wnuV7IB3bkrozzw1l91c5TvyZcHNFVfAwSmRp1bGdkn4ULbjuW5XrcAjGWuIQ2Sd9uZdO3a0awJ/N9oK25l09TFEJOnoEf4flsRz3mrn8uPpCRj7tk0nlHddGcKT/jkghbL/Dlu175WTiaN6+gy4cYRDGvpMt/Hx5mJ4B/oB7+n7z1nchC+NPx+SFeGhDy62A/p8oCU1n7XI+XG6HVV6NeHC8wM3AXYoEHzIGc1sxwoB+wifMxLjhes7absrePbnRYTh98Pt+iZiH736dUWrf4pWdXHJqh/84YJi0Jq+LqEILGCgscA55CM4U/RXdr/1m7v3qWCoqhXyO8X/NGvW+QumN5AcowtGA==;TT81KOngDbOBmbMHv92OZw=="
 ---
 

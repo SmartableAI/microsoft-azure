@@ -38,6 +38,6 @@ images:
     isCached: true
     title: "Prioritize your issues and apply security controls"
 
-secured: "MA4ovuKuWO3/0Rg/km3ARNcF2H4lN0KskY1pX/DMs/gu374euZhBGLLkY10mGSRtBfKf4OY4WihkuyiPdQIIp9kxQSGoAC7O+tHDgsQ4KQe7xsH2bQ3hSfwNaRh4G8Ri66dnq9iYka0ziy+u1pK8PGSAbVTxxP7QPjLUjNzrauA6ZronBsPY+rOIpL9L737hVq/hJoCtz//Hm+2eGHk24+/Bnw+9UqHEx9YLyd2mFOagzfwDG2Y8mM9QlYavtH1fmM3VFpgjM9naHJHpWlf2MqsvAJw5eSgO+KN/o20+DOnpkrXMkvrQz/stayG/qc0YtMivOoMlWZ2PpwH35+mFhPKR3FTLqVY+UqawXsCZck5wFf/zASfEpBfaqD+MtQ2+EHgbgmfbnKiJgJbFqGUO6Q==;+YQJeat1dXJI61SBLTTDrQ=="
+secured: "syLOzIm/ziIAUnzmXG74iBtdfdD8Dvsu7tb6crbcMYPzYdeSVvWZv7RdmLeFZMWtBeNU1hyW2mIgwSm0A6DFPg2N3RBW7HMGYXe6C9g3mLyKO8CmTychezkMwOGaMnTDhBHvckJVcAY0Gtn/VqkJV+0dwP8AFcUjkqlUNe5WHkFoCoU73UucXt+zuf3wC8F/iIbaDfb+Hn73vZvAB59E9JdlkyW7WHu31wGfJ4Bf7Ht2by/mXKdVBfmvg7k+hgrJft4Y6pvFFVKASkjuJmjBuTs5sJXe3ulnkte9RV8Lzqq1WTIuZZXR0ypWnEvJswQ1+miYT8bTtZ8FXVga363MTC4BnHyJb889Xq73lzMDUFvqVbostKYOiU4pPAjuuDSGWQc7DyQ9A8a22JHso+mE7g==;47JJGiGzqsaeDdpCBnc7gg=="
 ---
 

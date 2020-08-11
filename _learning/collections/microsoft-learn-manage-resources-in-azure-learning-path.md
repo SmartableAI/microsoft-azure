@@ -4,7 +4,7 @@ excerpt: "Learn how to work with the Azure command line and web portal to create
 type: collection
 price: Free
 length: PT5H2M
-heat: 100
+heat: 153
 
 provider:
   name: Microsoft Learn
