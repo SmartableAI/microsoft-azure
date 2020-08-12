@@ -39,6 +39,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Encryption of backup data using customer managed keys is in public preview"
+    excerpt: "Use self-managed RSA keys stored in the Azure Key Vault to encrypt your backups and maintain full control of your data. "
+    publishedDateTime: 2020-08-12T16:00:29Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/encryption-of-backup-data-using-customer-managed-keys-is-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 60
 
 secured: "w8A9X08ppM+qV4vg0hJuY2+Al51Gt/SBaKBYwbSPEpp3IjyS9pXRHfuN43keIgbVbh72zXXs4x1lA6m7UodOomiJ1B7GPYefNUcNY7pYDFa6ca4XOqRxfsKa/fRBHSnL8g/RAuZXVQmUzsYvBaILdPL+LZ0fzI3Dif3c1cHux7RUN/B1A36+ZQ5L4fd7QvOpE1t36QY7IZnD4G/j+4SsMDPL98HWCXugalqXvKaZkbbkXZnvxqiHvfSeq/wM6AzdWBe9uH4rJx+yaRAgWuSCHFrP3ycCPn/kU4C0C9veglsOpqA7jB8FWqPVu081qwcKhi3y1NPVKGFPMxsowaG79Q==;Tw3dwIVUXGLWx8dG2pT5/w=="
 ---

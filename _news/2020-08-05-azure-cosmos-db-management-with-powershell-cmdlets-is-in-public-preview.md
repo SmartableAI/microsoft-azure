@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-05T16:00:03Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-management-with-powershell-cmdlets-is-in-public-preview/"
 type: article
 quality: 77
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 62
+  - title: "Encryption of backup data using customer managed keys is in public preview"
+    excerpt: "Use self-managed RSA keys stored in the Azure Key Vault to encrypt your backups and maintain full control of your data. "
+    publishedDateTime: 2020-08-12T16:00:29Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/encryption-of-backup-data-using-customer-managed-keys-is-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 60
 
 secured: "t8B/RKtmkBvPrko7wgxuHgi0Adni+ed93MGpywYdN0PnYi8rCnqjrJlR+uxTgbZGhzoqRiv23ut5PhYvvH8tvojBDNyYpuyMQqZLZwX1FEBM4Wuk5AJx2nVCxzeHVNeTkVJNb7oF6bEohqFAC3yuMpDcJbu4gZ9BsLlE+4UMPVjGmfoRXzZwhktYMa+kR4Kf7I1xx4RU67OFFX8uff3VYGLwa8X3no2JfBXqLhpTUX8ekKGly2Uiqq7Ieskudop9P+Sbv02ngJUppr5lGbkIT99iR5F/goQCBBK41IcIjGXQ5JBtmOhI+xUM9hBSG9cxs1mmK1/6eViBRx0EdIRniA==;FwdK5oxi1otoFwrzNAeFyA=="
 ---
