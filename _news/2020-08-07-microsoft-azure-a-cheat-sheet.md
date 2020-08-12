@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-the-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-the-smart-persons-guide/"
 type: article
 quality: 97
-heat: 157
+heat: 177
 published: true
 
 provider:
@@ -79,6 +79,17 @@ related:
         width: 800
         height: 381
         isCached: true
+  - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
+    excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
+    publishedDateTime: 2020-08-12T07:06:00Z
+    webUrl: "https://www.voicendata.com/standard-chartered-bank-partners-microsoft-become-cloud-first-bank/"
+    ampWebUrl: "https://www.voicendata.com/standard-chartered-bank-partners-microsoft-become-cloud-first-bank/amp/"
+    cdnAmpWebUrl: "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/standard-chartered-bank-partners-microsoft-become-cloud-first-bank/amp/"
+    type: article
+    provider:
+      name: Voicendata.com
+      domain: voicendata.com
+    quality: 36
 
 secured: "/e2oN1KzDwDCiu6n/qAqpYzRM1ZAPJuu3Tw2t5/IfItliDIqjtf1WSVmWNooVwSiAEnMNj+6jZ7tvZlSVQWZCkTkxhu1ztwkYXTeH5idoKiwg1HFVgkIw9IvJd9gWReL35Yc6fGrBz2dTSdcphMiVfTLZtu0/isdu+Ep1e4JuLggczJe6P5y6AYtz0ASvdeAe3GACs5zv5v63OchdneQr2d2s2nsBEZf6nl6bAVEaYvF384gYCqxw2cMQlYn/+Rxd9piSei4ciaXhaFZr4dgEY9j4/NPSRZAoWbnVOh2ndfWh6pWTj9AXhylETHpaHQIrta5cgPCQf6aKWGt40AsWA==;SY4LgqnYDzxcIW9T/dq7Pg=="
 ---

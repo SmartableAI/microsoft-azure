@@ -1,26 +1,22 @@
 ---
 category: news
-title: "Cloud Market Share 2020: Amazon AWS, Microsoft Azure, Google, IBM"
-excerpt: "In the cloud infrastructure services market, Amazon Web Services (AWS) continues to be the market share leader, followed by Microsoft Azure and Google Cloud Platform (GCP), according to Q2 2020 research from Synergy Research Group. Not by coincidence ..."
-publishedDateTime: 2020-08-03T13:54:00Z
-webUrl: "https://www.channele2e.com/channel-partners/csps/cloud-market-share-2020-amazon-aws-microsoft-azure-google-ibm/"
+title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
+excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
+publishedDateTime: 2020-08-12T07:06:00Z
+webUrl: "https://www.voicendata.com/standard-chartered-bank-partners-microsoft-become-cloud-first-bank/"
+ampWebUrl: "https://www.voicendata.com/standard-chartered-bank-partners-microsoft-become-cloud-first-bank/amp/"
+cdnAmpWebUrl: "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/standard-chartered-bank-partners-microsoft-become-cloud-first-bank/amp/"
 type: article
-quality: 37
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: ChannelE2E
-  domain: channele2e.com
+  name: Voicendata.com
+  domain: voicendata.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.channele2e.com/wp-content/uploads/2020/08/CIS_Q220.jpg"
-    width: 800
-    height: 381
-    isCached: true
 
 related:
   - title: "Microsoft Azure: A cheat sheet"
@@ -75,18 +71,21 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
-    excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
-    publishedDateTime: 2020-08-12T07:06:00Z
-    webUrl: "https://www.voicendata.com/standard-chartered-bank-partners-microsoft-become-cloud-first-bank/"
-    ampWebUrl: "https://www.voicendata.com/standard-chartered-bank-partners-microsoft-become-cloud-first-bank/amp/"
-    cdnAmpWebUrl: "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/standard-chartered-bank-partners-microsoft-become-cloud-first-bank/amp/"
+  - title: "Cloud Market Share 2020: Amazon AWS, Microsoft Azure, Google, IBM"
+    excerpt: "In the cloud infrastructure services market, Amazon Web Services (AWS) continues to be the market share leader, followed by Microsoft Azure and Google Cloud Platform (GCP), according to Q2 2020 research from Synergy Research Group. Not by coincidence ..."
+    publishedDateTime: 2020-08-03T13:54:00Z
+    webUrl: "https://www.channele2e.com/channel-partners/csps/cloud-market-share-2020-amazon-aws-microsoft-azure-google-ibm/"
     type: article
     provider:
-      name: Voicendata.com
-      domain: voicendata.com
-    quality: 36
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 37
+    images:
+      - url: "https://www.channele2e.com/wp-content/uploads/2020/08/CIS_Q220.jpg"
+        width: 800
+        height: 381
+        isCached: true
 
-secured: "ZW1cZ7aZAHYuAg/ZihqpFjw88wTN/MWkeQsfd1+TahmzS3NuV3vN7cSywLBt/zlzDWRnHhoFPttTQIzTV5UQ/AFuZFn3xqcOQkCNfTQN93Q2Kb+GdasJI+1080lNQgrKbLe6NFlMDlqkG7b/gdP0ugONIwdtPBP58tcmFaa1G7yyv/klv0S32m+nQ4qPpfv7pZABDN9y01OxU1OEDgjSuVvwogGY1nuKAmE4KK378kQQb+cdomLOLgA8mUStGR2Wt6T6cmURFFKPdF5mIzWGWSX/cY/YsQC8iGd/n7B36g97GLr5FNDFNVDt4A+GEefgnqr7MlrD6nOAwIW+0pa0Eg==;JYIYEaEEK1m8UxvEZYX/Xg=="
+secured: "qAYnLOAlo1mKgajArHa3/vD5MiWlPSjmJ0hyumDSI+8f2EtPRuk1tnFaJHSXie8ehpeUxBU5LFnqT3ElFYg4ri+I+qJP+865xgtdWr6rhI12A9BWQo8kwZibvdclCHD27inpbpDT3i7LM6MOK2Wpc05pKfzXN6G9Z3PJ2Q28uhGHP+X3A2Xh6fIvo5nkClviM25Vj4Lp9hMsfQLYA9pmGucdpRCVGZrg2sICLzlfzCn/mahkCg/7PvnU3bcWmVsBovMrlQHYgcu6xjldWw3bEpOd07+EOLaShDXxPdyQlvPKgasVMizmFLkm8CC8i2mOfaCcnOku552jbsHk1GTPcAKWDBgVlPq5FGIYSflz/oQUX/PHAM/4/R4SFCBzmOV9kdOhLEN9ErmFd5y3rfoXlwSJ6I4ycJLUzGyAWz+4Kxr69EAbFHOea/atcrEGIG80EiyJNNUNJYaNZgsNscqVHKmPM+HutQ0frNd4UEka9yCurOs+OVfdu7xPnmC5+Ahph980ENOyrtQFZs3TCYnFzg==;lPPAKrkVCRKhvNf6Jg61oQ=="
 ---
 

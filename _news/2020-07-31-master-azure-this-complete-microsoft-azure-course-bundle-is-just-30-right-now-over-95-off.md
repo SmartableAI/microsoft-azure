@@ -79,6 +79,17 @@ related:
         width: 800
         height: 381
         isCached: true
+  - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
+    excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
+    publishedDateTime: 2020-08-12T07:06:00Z
+    webUrl: "https://www.voicendata.com/standard-chartered-bank-partners-microsoft-become-cloud-first-bank/"
+    ampWebUrl: "https://www.voicendata.com/standard-chartered-bank-partners-microsoft-become-cloud-first-bank/amp/"
+    cdnAmpWebUrl: "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/standard-chartered-bank-partners-microsoft-become-cloud-first-bank/amp/"
+    type: article
+    provider:
+      name: Voicendata.com
+      domain: voicendata.com
+    quality: 36
 
 secured: "Ipk9bV3Wqj58vfpDvs0BNQKpjs92j+MycyerXcTSWrAB1Ub4qzcCEp0MNuYmRI2PMcJvukRly6HEuuXYUDyshSUKo2L/5sh1i1VcvLPwV92vJCelg+Cs7/wGEAaMMIlqGrA28RKgH2uTHqR4bLo8YwmjdVoV4vpOdY+912yVJ53RQLpSYCHP5rBkGRpDgPrWu9IXvc4OqlCC/cqVyvNqxNNvaSjVq2HOO2VRO3JG5Bz+E/gbyK2s1FFqo+0zP5Kc0Cz2hr2O4kmjtDGcE6x8rtR6bAJOQ41ATEKF0M44azdnmDutV8xvf9IQMydG5nMjWqtKua/3lCKVQa2WiIjKKZTVKBZC419eJlsQv/LRwOMaClHhY2TKDKo6t5HLCvVrBZLx1OoPLCt6V/GHi2aG/FcP6zhTMIYyWXSWh1YTyCWzK8wwpq1o20hm4UGkX0M4H6HLQ7CpN7S13xXaZNPqBpoNwPZBA3tGAH3qRVal8RvOO0ZIe8pyacdTVBQkGIA/;NMaz8NumKR7CcKCqxHKEww=="
 ---
