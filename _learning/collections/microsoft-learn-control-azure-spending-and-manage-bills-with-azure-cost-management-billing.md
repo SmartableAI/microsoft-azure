@@ -4,7 +4,7 @@ excerpt: "Learn how to monitor and control your Azure spending and optimize the 
 type: collection
 price: Free
 length: PT2H45M
-heat: 87
+heat: 153
 
 provider:
   name: Microsoft Learn
