@@ -1,20 +1,26 @@
 ---
 category: news
-title: "Device Authority’s KeyScaler IoT Security Platform Now Available in the Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers now gain access to Device Authority’s KeyScaler to take advantage of the scalability, reliability, and agility of Azure."
-publishedDateTime: 2020-06-23T11:50:00Z
-webUrl: "https://www.businesswire.com/news/home/20200623005500/en/Device-Authority’s-KeyScaler-IoT-Security-Platform-Microsoft"
+title: "Commvault's Metallic SaaS Data Protection Now Available in the Microsoft Azure Marketplace"
+excerpt: "PRNewswire/ -- Commvault (NASDAQ: CVLT), a recognized global enterprise software leader in the management of data across cloud and on-premises"
+publishedDateTime: 2020-08-12T12:30:00Z
+webUrl: "https://www.prnewswire.com/news-releases/commvaults-metallic-saas-data-protection-now-available-in-the-microsoft-azure-marketplace-301110682.html"
 type: article
-quality: 3
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://mma.prnewswire.com/media/1010127/Commvault_Metallic_Logo_RGB_Tagline_vertical_Logo.jpg?p=facebook"
+    width: 1500
+    height: 784
+    isCached: true
 
 related:
   - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
@@ -200,20 +206,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Commvault's Metallic SaaS Data Protection Now Available in the Microsoft Azure Marketplace"
-    excerpt: "PRNewswire/ -- Commvault (NASDAQ: CVLT), a recognized global enterprise software leader in the management of data across cloud and on-premises"
-    publishedDateTime: 2020-08-12T12:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/commvaults-metallic-saas-data-protection-now-available-in-the-microsoft-azure-marketplace-301110682.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 27
-    images:
-      - url: "https://mma.prnewswire.com/media/1010127/Commvault_Metallic_Logo_RGB_Tagline_vertical_Logo.jpg?p=facebook"
-        width: 1500
-        height: 784
-        isCached: true
   - title: "GAVS Technologies: Zero Incident Framework (ZIF) Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to ZIF to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies PRINCET"
     publishedDateTime: 2020-06-23T04:20:00Z
@@ -251,7 +243,16 @@ related:
       name: Autoblog
       domain: autoblog.com
     quality: 5
+  - title: "Device Authority’s KeyScaler IoT Security Platform Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers now gain access to Device Authority’s KeyScaler to take advantage of the scalability, reliability, and agility of Azure."
+    publishedDateTime: 2020-06-23T11:50:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200623005500/en/Device-Authority’s-KeyScaler-IoT-Security-Platform-Microsoft"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 3
 
-secured: "rBOMNxERV4AF88zeDMTUujZ/s8v9DEK5BG1HGSj90PfVULLVocskoVZoYJE8XfwXEMDk3iXPHINDJeGmbIm/YJoDdLdY29+2+ndq1/uUQU4MrksYfDPqqChHDlKFnxzM9AAGUKPzPasOJeie2q1D0d2FRZXFN5asE8oxTZ1y8fp6ArTFqs5zrGWWCsug4f97V1KAUQcK9B9qIZGXey/XD4wwrLSA2Q4lhadk8mrLYJwDUh4Grrym3SEKng452EHDPVv0OOY8HxQqs5rztz8HpINLIq/mTkgt7ah+CADbAenO9ddSFppQeM41Smmuul1WUmAPUf0vBpmh697g//8NuQ==;FYcdHLlLeJjKK65VLb0OEw=="
+secured: "YQNZttzs6ndDchDwfiuiEzIk77BzC3/jyyY6uMxnvm0xadcpjtaYiGC3ejW35/ilLh3/gb0LJqe+O2+ttPGn+yOlJ8uvSxXYhjBVEwxr56cXm+ZB/t17F0GqDkrZTdPlhWsqejVKvB8Un/wd9BprZV+syIraf4Jcc0vbHPtUfu2vQNAS4UFNyfqbuJ+mOgk7PwYqdgSqJYcyB0FaiqaFGZXLWYGLZGkVmpUFSIMkdq8b5AXpzSe39+0MjJfog3VIfCpqBgROasgLGSu9X25dejgpbILdtTFM6fLo6YN21aIS4NO6W4v2OjBC4mM+mMeTBPVp+5KbSFqxZ+8uxomk7w==;iLyBOixjGwu/G952mQNw5w=="
 ---
 
