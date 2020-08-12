@@ -7,7 +7,7 @@ price: Free
 length: PT49M
 ratings:
   count: 44
-  average: 4.681818
+  average: 4.659091
 heat: 53
 
 provider:
