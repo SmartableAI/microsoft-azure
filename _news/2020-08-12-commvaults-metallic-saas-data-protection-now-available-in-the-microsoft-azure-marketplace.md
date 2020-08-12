@@ -1,25 +1,25 @@
 ---
 category: news
-title: "Commvault’s Metallic SaaS Data Protection Now Available in the Microsoft Azure Marketplace"
-excerpt: "PRNewswire/ -- Commvault (NASDAQ: CVLT), a recognized global enterprise software leader in the management of data across cloud and on-premises environments, has announced the availability of Metallic’s Software-as-a-Service (SaaS) data protection portfolio in the Microsoft Azure Marketplace,"
+title: "Commvault's Metallic SaaS Data Protection Now Available in the Microsoft Azure Marketplace"
+excerpt: "PRNewswire/ -- Commvault (NASDAQ: CVLT), a recognized global enterprise software leader in the management of data across cloud and on-premises"
 publishedDateTime: 2020-08-12T12:30:00Z
-webUrl: "https://apnews.com/PR Newswire/3e2eeb6df72a20273c39aa8b9c8c7cdf"
+webUrl: "https://www.prnewswire.com/news-releases/commvaults-metallic-saas-data-protection-now-available-in-the-microsoft-azure-marketplace-301110682.html"
 type: article
 quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1010127/Commvault_Metallic_Logo_RGB_Tagline_vertical_Logo.jpg?p=facebook"
+    width: 1500
+    height: 784
     isCached: true
 
 related:
@@ -253,6 +253,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "hY5zNAd+/+sTeqLIrKn01SkxP4II/E6n42kfo4FU71q2M9m6qddtXhqhyWkfe8yUhMHQ1crYRWf7qIue23GVEqUd6V9tIg054TaXUfz9zR7MqZxjIBv5gTAzcMsXtBbEWtLNcp0S+uvjCM90+RUC/9CXmaqGEufg+/w60B0AuXym3heONinv/oqzR7760TJ85NHt/bNgFpXtMB5l574UwoJr36/gMR0OFRnllmvorHEDnxvFPpgx0aXYd0Zs19BXf8HLfKFQb1R5LgmJlu0/YR+TpYiMwY+o5hkNIzFJHk5gAs/30FczY2lIBlWLYCA7kVOmJ1B7U/IlybXzn18jYA==;KDBcYG2FS5EO60PIDKIGAg=="
+secured: "zUM3zWgA/A0Hjy1ml4wtNojwqqkufeMiFuRV+pAPq1mt2j49Nytw3HYn6wYj4McIuwqMEtrpWb0jDkigEkuTM4hermhAu6GFJn6GaN30SJtHi03hnuBKMQmItq8aXobUOwZYH8xoGQ43z/K5HU9jB1112aIutbUHLOCJ4wliy155Xo9n7I9qNXZigHtiowRqI4Ns+jJTZmmn98V5wWX/dXpOBCpFaNO++MwYb6s43wwpya9bJWcsJWbjxCHVDdT1SeVvKXQHgeGEyzo7xHBAGReNGU/1R9nD8/8sP3iO9uSa1pvAjHuTlUCPhgPMTuKNc7NNXsWwHbp1SKwOfCBiTw==;zLTlLMaSynb+nxZyqZP3tg=="
 ---
 
