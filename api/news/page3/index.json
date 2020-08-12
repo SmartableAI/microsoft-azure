@@ -2,6 +2,46 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-21-azure-application-gatewayurl-rewrite-and-wildcard-listener-are-now-in-preview.md",
+      "title": "Azure Application Gateway—URL rewrite and wildcard listener are now in preview",
+      "excerpt": "URL rewrite and wildcard host names in listener for Azure Application Gateway are now available in preview. Use URL rewrite to rewrite the host name, path, and query string of the request URL. Use the wildcard listener capability add wildcard characters and configure up to five host names per listener.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/url-rewrite-wildcard-listener-preview/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-21T15:00:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2020-07-21-machine-learning-services-on-azure-sql-managed-instance-is-in-limited-preview.md",
       "title": "Machine Learning services on Azure SQL Managed Instance is in limited preview",
       "excerpt": "Machine Learning Services, a feature of Azure SQL Managed Instance, provides in-database support for R and Python scripts (in limited preview).",
@@ -1077,46 +1117,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-07-16T01:00:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-azure-monitor-for-containers-now-supports-recommended-alerts.md",
-      "title": "Azure Monitor for Containers now supports recommended alerts",
-      "excerpt": "Azure Monitor for Containers now includes recommended alerts. Use this feature to enable alerts in one click on your Azure Kubernetes Service (AKS) clusters. These preconfigured metrics alerts enable you to monitor your system resource when it's running on peak capacity or hitting failure rates. This",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/ci-recommended-alerts/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 117,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-15T16:00:32-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

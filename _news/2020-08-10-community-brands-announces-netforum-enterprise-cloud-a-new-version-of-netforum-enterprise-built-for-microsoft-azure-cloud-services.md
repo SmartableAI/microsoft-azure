@@ -23,33 +23,19 @@ images:
     isCached: true
 
 related:
-  - title: "Signal Sciences Announces Advanced Protection for Applications on Microsoft Azure"
-    excerpt: "Protecting our applications on Microsoft Azure could not have been any easier,” said Chris Lopez, cloud architect, Qlik. “The new Signal Sciences integration with Azure App Service makes deployment simple and straightforward,"
-    publishedDateTime: 2020-08-04T13:30:00Z
-    webUrl: "https://apnews.com/8d229d1722ca4391931709616ec33065"
+  - title: "SimCorp A/S: SimCorp completes next phase in cloud transformation, offering SimCorp Dimension as a Service on Microsoft Azure"
+    excerpt: "Before it's here, it's on the Bloomberg Terminal."
+    publishedDateTime: 2020-08-12T08:08:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-08-12/simcorp-a-s-simcorp-completes-next-phase-in-cloud-transformation-offering-simcorp-dimension-as-a-service-on-microsoft-azure"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 32
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 50
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Cloud Services improves Delivery Auto operations and realizes 30% infrastructure savings with Microsoft Azure"
-    excerpt: "With over 400 warehouses, Delivery Auto provides domestic and international shipping logistics across Ukraine. The company retained Cloud Services to optimize and scale its existing Microsoft Azure implementation."
-    publishedDateTime: 2020-08-07T22:11:00Z
-    webUrl: "https://news.microsoft.com/en-cee/2020/08/07/cloud-services-improves-delivery-auto-operations-and-realizes-30-infrastructure-savings-with-microsoft-azure/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 18
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/566/2020/08/1270085408941310155_1270085408941310155-1600x842.png"
-        width: 1600
-        height: 842
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "4mbznsE2JzOJU8SWQV4DgT5G5ergoVd7sHN9TuvAv6e21wkpfSZtN+YIjOOI4gb/YxuhcB+8IOEAhRbnfzMmhi6cToPqScpgd7WnwP55UxUQiTxsMJhbRMjwtH2/EVaHU2cuFzvVjRllweyapRWfl1xqGMWsg3g1UofVKv3qYs4RLfCGD0EQcz/QwMGKqAqGDjNWFccHlzLTE+z0e+ppPDWcNfpfXeVSmOf/Mwjsyre12+6XXqgpyjyJ748O8euPm7+ByyCPwtOvho7o6GZ/Bjppn5Sl7QSMtFWK0mvhcnwGjQnyaZf55C4ABJDV54SgWH02y9qM3/61BQb7MCjGLw==;wu6It9NcnIk9p07pkZwRzQ=="

@@ -41,20 +41,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Community Brands Announces NetForum Enterprise Cloud, a New Version of NetForum Enterprise Built for Microsoft Azure Cloud Services"
-    excerpt: "Community Brands, the leading provider of software solutions for associations and nonprofits, today announced the upcoming release of"
-    publishedDateTime: 2020-08-10T11:45:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/community-brands-announces-netforum-enterprise-cloud-a-new-version-of-netforum-enterprise-built-for-microsoft-azure-cloud-services-301108867.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 7
-    images:
-      - url: "https://mma.prnewswire.com/media/550289/communitybrands_stacked_Logo.jpg?p=facebook"
-        width: 597
-        height: 314
-        isCached: true
 
 secured: "LHps8Ta9CCqs7PkKCyYQrFfiRo95O3gK9l8pXCsC5lWAdIGcX/Yox+/XvfseO5uTu/s4ZktjnI+fgVqGLm9RdBuuJDWXIQ5gxsJMvj+mQTqyQaIhx3A9TYpUymvKAzNHwkfE3zcewqy0Huzk27pgGZCQ1m618ewHjS1sJ3jGiq6B5sjsz603JjzVZYcL9mdUb596+vvzFLAwf3fIjihIxshBvGXAjLbPtlyfZeR+wZrMWRoPnJfGDjlMCIKXME608t+n0fWhgmRuaK8AmuevKTfC/4A8r+5SCW/bgqh1RhNKa0bx/Vf9YiInmbK75/yvZN30UuTlm9kYxmg30f5XRg==;HGBVRuFxjPz4ZZqGgkf6tw=="
 ---
