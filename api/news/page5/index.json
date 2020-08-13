@@ -2,6 +2,96 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-07-08-simplify-and-modernize-your-java-and-spring-workloads-with-azure-service-bus.md",
+      "title": "Simplify and modernize your Java and Spring workloads with Azure Service Bus",
+      "excerpt": "Seamlessly lift and shift your Java and Spring workloads to Azure while also modernizing your application stack to take full advantage of the benefits of cloud computing. Azure Service Bus Premium tier now has feature parity with Java Message Service 2.0 over Advanced Message Queuing Protocol (in preview).",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/simplify-and-modernize-your-java-and-spring-workloads-with-azure-service-bus/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-08T09:00:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-azure-ai-build-mission-critical-ai-apps-with-new-cognitive-services-capabilities.md",
+      "title": "Azure AI: Build mission-critical AI apps with new Cognitive Services capabilities",
+      "excerpt": "As the world adjusts to new ways of working and staying connected, we remain committed to providing Azure AI solutions to help organizations invent with purpose.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/azure-ai-build-missioncritical-ai-apps-with-new-cognitive-services-capabilities/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/6c142214-bbee-499c-bf07-e565fcbc4294.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Azure AI: Build mission-critical AI apps with new Cognitive Services capabilities",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-08T01:00:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-07-azure-load-balancer-support-for-ip-based-backend-pool-management-is-in-preview.md",
       "title": "Azure Load Balancer support for IP-based backend pool management is in preview",
       "excerpt": "Azure Load Balancer now supports adding and removing resources from a backend pool via an IPv4 or IPv6 addresses and virtual network ID. This will enable you to easily manage the containers, virtual machines, and virtual machine scale sets associated with their load balancer. It will also allow IP addresses",
@@ -1044,96 +1134,6 @@
       ],
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-durable-functions-now-supports-python.md",
-      "title": "Durable Functions now supports Python",
-      "excerpt": "Durable Functions, an extension to Azure Functions used to define stateful serverless workflows, now supports Python. Developers and data scientists can now orchestrate complex data processing and data science workloads in Azure Functions using familiar Python language constructs.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/durable-functions-now-supports-python/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://acomblogimages.blob.core.windows.net:443/updates/UpdatesV2/Open-Live-Writer/durable-functions_data-processing.png",
-          "width": 1135,
-          "height": 639,
-          "title": "Durable Functions now supports Python",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-24T09:00:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-stay-ahead-of-attacks-with-azure-security-center.md",
-      "title": "Stay ahead of attacks with Azure Security Center",
-      "excerpt": " Now more than ever, organizations need to reduce costs, keep up with compliance requirements, all while managing risks in this constantly evolving landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/stay-ahead-of-attacks-with-azure-security-center/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 114,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-24T04:00:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Security"
       ]
     }
   ],
