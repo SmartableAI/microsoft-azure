@@ -20,8 +20,8 @@ topics:
 
 related:
   - title: "New Recorded Future and Microsoft Azure Partnership Brings Security Intelligence to Cloud Environments"
-    excerpt: "Recorded Future, the largest global security intelligence provider, today announced that it has partnered with Microsoft Azure to"
-    publishedDateTime: 2020-08-11T14:00:00Z
+    excerpt: "BOSTON, Aug. 11, 2020 /PRNewswire/ -- Recorded Future, the largest global security intelligence provider, today announced that it has partnered with Microsoft Azure to support security operations ..."
+    publishedDateTime: 2020-08-11T14:04:00Z
     webUrl: "https://www.prnewswire.com/news-releases/new-recorded-future-and-microsoft-azure-partnership-brings-security-intelligence-to-cloud-environments-301109868.html"
     type: article
     provider:

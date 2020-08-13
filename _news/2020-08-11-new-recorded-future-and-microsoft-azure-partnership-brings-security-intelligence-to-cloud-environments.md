@@ -1,8 +1,8 @@
 ---
 category: news
 title: "New Recorded Future and Microsoft Azure Partnership Brings Security Intelligence to Cloud Environments"
-excerpt: "Recorded Future, the largest global security intelligence provider, today announced that it has partnered with Microsoft Azure to"
-publishedDateTime: 2020-08-11T14:00:00Z
+excerpt: "BOSTON, Aug. 11, 2020 /PRNewswire/ -- Recorded Future, the largest global security intelligence provider, today announced that it has partnered with Microsoft Azure to support security operations ..."
+publishedDateTime: 2020-08-11T14:04:00Z
 webUrl: "https://www.prnewswire.com/news-releases/new-recorded-future-and-microsoft-azure-partnership-brings-security-intelligence-to-cloud-environments-301109868.html"
 type: article
 quality: 21
@@ -35,6 +35,6 @@ related:
       domain: benzinga.com
     quality: 21
 
-secured: "QrPw57Xe7lHRhSTTRPqrHhX4og4yA6YQZaKUL+gG/CHTMlZWCsq4WPJtil/KpV7z6Kr+SKXX4c3IVmZ5JTplRpKz+EQqJbg9JJ2nan7HX8TzCvpMTq+r/CXBVfTnWHGeaF9dRLJweu5YWaczIliLeP/asjsIc2BgQ457UrNdyVK4TfcV1bL4ZHPiVk+JP4HV0s8shMKsZ200n/4yKEcADvdcR6gsy2/C4WyeE7qq++Haenofkn4I/lVoigf4n0apFB9LQ9TvAjAEuG1ntk/+HMkSZiXZ3toqnVfWPrXFNZgmrxa11Z6/c7s8riGe7uBvfAvlku4/rn4QsNZZoy64zQ==;Hx3Ki/qCbmq27CRNjzogQw=="
+secured: "UT0yhuApZu3XhK8X+klDmAhL0gch4QCYxwrYCmPoQ47FBkS4SUgWuT5U7OzwoTQm+5mECatDrk+qKS76AIyi8Lf904Bnpwf5xdSQvPRkYvR2NbKZ9JkaVR+dRRKAsYyqK+LyXbkWN6H+jSJwaxSEbSEZ5EB8DhWtceE3uhUyCaVdUSkduS0QOgFLo+H0GY/s1Au1f8x63eDqRkO87tB0/5wntc3/xFM/5flQIdp1fmNyFzS63q3Flkj2zLI2dWqoMApSNIGfFkmPsJ1MFxXiHRiIDG9ev2M4haUJX84gfHHPmKBDub22Wh3dsRJKpKr2/tVekvgBFQRxbgPpDJ/P3g==;KtRNufJGO1ws2Q3KHX+P2Q=="
 ---
 
