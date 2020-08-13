@@ -8,7 +8,7 @@ length: 49 mins
 ratings:
   count: 181
   average: 4.513812
-heat: 52
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Introduction to App Center"
 
-secured: "dwbbmDgc9wQ+hX9PUxDd52YFoyBfPTa7OJ0FX0xc+llVom+qUjq6Fim6jKLZlSAk03vZKYwQOX29Mxo2jFkPeXB9zzEg/AltQNNaRWjGPl+K00WM4oBf9nsKOwm8F120e3K1t67xDkyUKSqOIdsEtBuOiF8w4vHLZEoevnDsiNbTr7uotAlZ66vApQBZFgV+bNN/DYOyQ37AulorQ+AFDxyC7GPnAmMPzMMm8SyWas6iemqoafkCBQRoWBkSXHFI37tdeNNrUN5Y6iO0ONxGIrurC6xoedVmFGV8aFYenwQaED5jyLpJtkfR4d7e/SX3TyFIg4LsKUQd2SRP/+T/tH72ph62Evxm2xqwu3B52vtwiC9QlfcKT6huBr2Z1KDBhL/7emNO9ifS3YsUfimdCA==;tJaGTKJVO7ShgD3J//kQ5g=="
+secured: "oUuJtXtdBADCZalDz11HXawBYQfZS1ceHedwL7HsRktkX0X3vQnxc/XWieXbF7iPXwSlIWYVnpBK/ZIlC09JkSKUVPfk3jWTMLuD3O3WCWrGdCkJjkagx+z1MquvzegRdcRQpzq/dCBKaX4C4r5F7xb3KAIeR87afeJbVXzWLUcndCCs1MTPSB09qsTLrgM4EufVj/Jqcpru9BkWWbkZZ+EL9OqBx4+0DnGtljALXna9x6dtisFtzetcxsp5PEjTDzIb6bEcSLu2uXjFuulwtuJ4mGHbl2YhLXgkHR3FrVKyxUs0y6bsyIgeSqsmBisnvYYGAARKR9940jSKg/Wbkhf84+hiQASFMFJUCB6KxnXywUXZOLAjjzAPNzpY1s3qerOI/uY7o7+2iBQLeRWD6A==;oYdJS1uKSzlooYhoPU2uow=="
 ---
 

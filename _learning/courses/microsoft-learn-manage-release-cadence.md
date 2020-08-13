@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Manage release cadence in Azure Pipelines by using deployment patterns"
 
-secured: "L/ghz1p1vn4pjxJxHJ9yXmMQ6+ELJdEZRfA+TF2LVMfdpi+aVocldpi7wOcDKXGG7RkiXJaspOvE5uEyOC2BpOnF6kZOpKICZbUnJjPSvuCE88kXssNcsS6xyH//Le3LqKcVe2jOmFPZvfuSDF4PYdUiyZo+DDkZixoAqRU3svKAeYRWTrAQrAtGqG/j+kFRe4g0c5QdjW4WXqpUyBIDJkHt7p613M5KBL7uF9sapmQ9rOwSr43q3CwPys+faWRNSnjr+9YaaXO+0Wiaq/6rurHr1syGnr+Bqv5doS98Iui3YwjqdZ+Hv+ybQjqcnw/mCQR5vWWalke8KoCnnoBO3+TiZx/miDLkwSXXywOWgFK6b/b6SBVzXj7taVlseLtXC0YyBLPLUNejde/XpQMYPA==;fOyyEbhlDRQPS750uO/Vqg=="
+secured: "ssWLiXsIwIVkCTKAbLI5u/S1v65XSs+z6N4ZX8njDSNotNoldk/5U5zVUGDJSv+X9xGAxG53l1lRdB94WCm8u0COu37JBCeWhFVOZVJJoFNBPjS61zv/W7UFtcekIufJzKdT/YIhssiOsdJipmPhH1ViTmHlcaRtPKx45CAs3UAoQmHaLWVSaTyCHCYFhvNFoMTK3SFW3YhBm9VNOp8NhkwjJiPLz4BY5NDwmgghEGrnPBEf8dERrJKTBObswM1PuVlR0A6k83JEqBwaxOLSlZRYq8UmkkHnK62buc51G9QDQT0FqXiHF6//mRdyGv5E61JtqMiABdiv0Zs/bDjuPJEDmvf7GwfByd9e4fswIludnT7X4EmWcWLkLoPc42Bl4xx8IQPeG/bex235ozIgBw==;VdsMqTCFKK7ycsAKNmlq4w=="
 ---
 

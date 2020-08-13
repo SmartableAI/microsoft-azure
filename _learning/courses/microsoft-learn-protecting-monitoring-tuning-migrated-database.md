@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Protecting, monitoring and tuning a migrated database"
 
-secured: "We7BcDOwyODOOfRRH69Fe5kVMwHhctSMC/ywRHJwflYAmk2AS1HQuXjCf31uZVrzL0/dpszSdD7I6jw5MUevtkPFYkB8Bs/SoqrTPstBvv0LcGHJVpS2GY/oLUmPdn+oWvqZH6NgY1208byB5l/L0BGsSJ9MdCUTkRdsAni7frxljI9x85s0zsaLLlLnrGERddgHdx6Xl2nb+ueirLGhuhi+v9oUy/Zrer8Bp1katrNgwgOpMhi1KBm62qqjcOn25xf73oFEfaZTVQ3c7XpqKYqNI79+7Vf0iEgqRSG7wPxaFhawAF1Oe3X9SK1djQ8/mIfmVeUnwVmsbMV79BE65JgspKokai7eTteGCEJeLHR/tPU73cMHd/q1xUdJ8jFvPY6gmCzR4wL7ZoGJixA7oQ==;DiasdY5aT6UrBhQJIDLzqg=="
+secured: "PF43Fz9/YybSw2sAWsD96cu5ifUyNhufQbhRgjiCZB7+K1eKfOYuyrMpufzEn/z1/WB/1AJw8sHyQLDPwGA9jFFaRNFfpeM5lOG4hazohb0OW9TZnbcUOLvaAJQu0Q1UUa6sGKt45SGxS+GNi1F4i64yqGrL1J/mNIQc1N9U65muC/9gyEMMkdK0be3FZV4c4LnLPayVqALaR/jntFN7MPaRPOQPVmuo2m/ZOOSEs/oeNt5bgtNtfz1HTYY9D3dYcf4ghQbYAWRzhLf9yHozjaAl/fsySPafv/zctN1ktKKKIYwaNd8Jg1xBgNjMJvUVu19powLqDedS/P/NE9EKTl406omWJybPEHNOU8+G04QX6Lb6nb5S+Ys8f0FHYTKJEEhNpOir0A4lq+YXrO0Opw==;DQpDe8+mPUBwzYZ5MlWovA=="
 ---
 

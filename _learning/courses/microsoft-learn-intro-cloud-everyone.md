@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduction to Cloud for Everyone"
 
-secured: "K9WyyJpZQ7KIhjUqUHiLbVdQJTyzAvHYhSvbYxm3DZZN7dDU178dJAKBrD9sGQ+qouyn5DzZLB6nlIC5jntmeA/GS60yYdIqBpMqtTNYRr5zZTtx+Bng/+HdosOQpycoKuoHPVmAKPb7IAoF2nUXKXQ0CNa7/lWWt+XgyB4VW3VW++HadSJCc36b+QqfYDw5mbtq2cAhpSuoIaHILn1NZIxj5++BGUuUsC7F0pyh6dgzlnc4iQx19alFdAekDul/N3s7s1nZfVeyyJt7BrpoWUDLAOBhzPWOYOlSy4CahP32DwbCoKd44BrYb3mlwS43FB2S7nktykoORbJK/jRBNfcER2Prn8hH2KWIohuuJauj9o+LjiAJX/zeG5z4WlvwKlIETS/afxp/9/I/kZW50g==;ha2u7Yx6tYv0TWzJuFQFag=="
+secured: "1UZHib9yp+x9dSSp1BW2yd5+0pIFFYrgiTnZdfHS6EIEYdDUcINSiPwjlEp/8jQgVEJD8Neq75/K1P5DGNe/BioPapYUy1V/4SpCAdNHhxVHxmKYOx/p49EyRv9WVg/v12GbzUN/XgI3hGl1QEbzA+OKTU7O8kXeHWBwRXHe7hD7rN9Ou+Z9YrxiMSeYcyMyamjXoRlTJ3Jl0MS1svq2VWu69drm5ISjmZvlpreut+066EwntAyoU1qwd3bXBFeT9vqaAtDAq2VxjbCWGXKZq8XfObJkQtSEZRje6wJw3RwXmf/MCwiDycsxf/azNKzREqlx0AfYaZOlEzh0dC7NMo1CPamXPGeFQ+/UAaCdnBeGYTi8spkwjKAR3z9ITFXCkQM8G6yi3JHcP5S2U6Ezgw==;p4cyVF24DKABdFIpGb1uMA=="
 ---
 

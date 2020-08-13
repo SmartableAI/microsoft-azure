@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Design your site recovery solution in Azure"
 
-secured: "T4dl/fiB3pxpS9E2dpeTb9UTY4hOQ7l+yJ2MdT3ZlBttj6TeUPzN4pmj7YyOPkG3yTt6NalnId26lXj5mPHmNam+YyY1ULkfIOiqv509tx9G+HbuAR5DGZoxyS0NjUi/sr9Fey77VTGZsQhJRO6iQ4an77JJTzqGNQriCwGwZNf8Bv4xNAU1xE5uDa3RchTGhnWqfMiDTCZFO9rLTrd3SfuS2xdznsjoFLpkS3eSl61JgMltEapHub3HXLc3YFT/PYLtwjMQyyZT/kN0xoRYn+4u/9aozN3V3P0MpEHd/LmHDcDHOSQTElqFThZ5+Y5YcMj5m3zodobM29p1q5oOQtu3cxxjmItba3jseBj1XBgIZHtLa7ZLFYnM7ZDVCcBviNYE+i9lSTfkgs3dIArTvg==;0EmoG0GPVHBBZ8C5ipR9qQ=="
+secured: "VURz2mkH/Ur5RGG2VBk2vxfGW+BfNPuArjSaVmkV3h4haFCU1/VZSzkV+2wqkEn+WKsGBepkQj13uDNh9uP61DlR4RSe0JP41YqvEBK1klve1ROi/LXWQw/f8mrESV+BkccgGeFpb2gQibEDKbQnx/nt9j23sEHvOXLywtRrbkNuX4cF+lWjwLHphZ8WHb8XvqIed9qmllbphxMZIQ93DJqjIMd6USdkd/AcxOKSxHyV0AlD+TmwP14QZ+fl5cFPDlORJyKjxdvHGZRbh3Mo+JxNXTBu9wuSPJpCPu/DfOIdfInGPJrkZFQ3PUnlbw1lJS37gTt+YGX9qn88HW30jMGsszHO8Emju5IH/bNo7dhjthQrtISJg7+D9k+V2eF/X0piRj7BDibG3RRBrQE21Q==;jiCjBLI+NN6Niqpg9faT5Q=="
 ---
 
