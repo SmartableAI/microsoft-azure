@@ -8,7 +8,7 @@ length: PT59M
 ratings:
   count: 290
   average: 4.696552
-heat: 50
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -38,6 +38,6 @@ images:
     isCached: true
     title: "Microsoft Azure Well-Architected Framework - Reliability"
 
-secured: "KdnV5sUTVQzvZgxHHvBgyOJ9Fe+O/KNuvbgS5Z6dD1vXLmuFXcESvj2B61zs34yNSsJk8vFVNlfJBTsG2rje9VzCA/oq88ELKqHIEEQVTtbdpWG/gob4kA99EB0mwX/mr3pCKYD38u/8XCGjGrtXfEe643vT8eZZLnKf1uejAqXWG+q9EP//I2siVtWPBaD0V2zNimvgHuJLhcwlTEydPEqXSh+e8Qd0A7vVB5Flz16zmkQ31LoVDhRDFsHORMZ9DSmltHLgMLCPwidSOVBGYxiZMkkdDUSA2kW7dhHpyGKnliI6f+UWLtvVeVMhv7hyT7Tki/JnzRhaxb5MbcmeQSLI3YBgaDLr+2Pt9ngid2LpXXdnIbeKrH0CJVNAGJ9DY61j4E6RrY1EAfuZhqzNKw==;B0/WOeuTghRZ2cnHGO3azQ=="
+secured: "SBIaPgag/fk8OarwDVvV3kNkn2NEmR1GVtUlVmN318/KP3rNE05hZ4G9WtkVbVEiHnrVfe0Q3UVqZlmbDmXx6eltuvct3h/4wVKK7xXOzlNAVFXzucFFut4V+8NNDByMNNIikRB5xMnPeaAZQrSNgOhH2bIfH8CTOSA2PHUnC6Mc4lSqDdS+p/PnkP7ogJiKliWwbzK4xdCZT0r9jZ1pclJI2Ru1VpvcNbD2vrDjqj80keSPo3MhEmfMePIfRTHldRElwy1/4NGkU8/TMqsRkIGLN7lUJRLddkHSsLr/76GWnT68FL/Oe4PPweQ6MPUk78+AEKQ3boiy73Cz77nszHOx+MKeN97O/ttcVCyiARSYw5UxcoSI1qmK7d7H8s+xthOA0YvaIe+5yJx3gq6grA==;4tLASpuJ8JXixBgzK1uHzw=="
 ---
 

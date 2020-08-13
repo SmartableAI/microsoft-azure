@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Publish a web app to Azure with Visual Studio"
 
-secured: "1ilrzRi/ouywiXTW6onehI/vsYtFWkmDij/8jp+o68YY/g1iRWktYYrfZTZVlLF8YNjx8GXc59jhnfigdD7lIPXN6NTOazVOCn/x6hG55pVw7gpFQZ93RYhJMxFJb2qz11UTpKQ1E5vy7nI/F0jyHfuENxrYu8v222DVriLyUxr4fHXn7OJ21YRN+rUQuH6t6i9vhjZ1aFAaYuP2tBf6CUfOD+NXIuFqusdvEM+hLhKOXatf42f5+Mi8y/7Rl5na935vkTHitOg/awz5x0iYW/5aFKOjrcAwQtn4SEtHniYz2tWt48uV+yflc3/s7grGqvLHtuvd9+LKoAXvsfQjrtatqPdU0fEKHVnRsEGcYxk0TfP45BQLBMc8rOnoq9AMSL7sbuLaMHgJGnxBqzadMg==;xmOG07heS103rCPsb/5e2Q=="
+secured: "b0kEsH4w5lADxtQd8YMknu+KZDjoRiaKeltX20fJ5EeRKJs5f5ZlFZ2N2u7u2AxeS1nyJN59mhoAZSlBnPOtJb4IfC5bM1S8CXPIC59lc5Zj3AFMyedjCLF5KCoO1jvGF3LOf+IEX9TgLbxqPAd6DVehdjOuYT+M7yCewfWdcaD94XtA/VZFK2lZNkWA5DNYUI+z1Y12K/ae9NQtbO6CXZW983jkydbYHl+EhpDnUmboOk2r+/0J+mO6nqpdX38oFzguCcZk/elfNPaPvJsgNOEksxOe/dwFI1sJg45AxlVB+YaLyEnSGXpXqr0YVLxRg6I3CwjHHh3qNd6WFRAfNmrzrtueJGa84gnluxCEx07IOGYlkfBd6IAldy+8xgUQWbst0uKEtVf+KgF7lamVGw==;c3A/0DYQmbg+GJKhFrvmRw=="
 ---
 

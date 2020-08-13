@@ -8,7 +8,7 @@ length: 75 mins
 ratings:
   count: 65
   average: 4.5538464
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Build an AI web app by using Python and Flask"
 
-secured: "aLJ+QEGwbPtxNrYxFOzKMrec5sK4pcOi6laAapijnVgBIYLZ6INlAYl7u/5zSae3Myw5ShFuKu0+0H5kdrFSmzmDEec093AwqVlboDWaDXM107FhCAhfBeKqTvYf26yrOtIF74Oa42VOJh1rrEMNm8wHNkBuAh4c5iPygCj3/o1oPnSbeTSrFT1tT2K9j8nogX9rKP1Lo+iJnDgri5CtQA9wMLw+xg+cSpj1XwrmkxnJ1wcrBZ5w/pAEZIbOzNYj+hHomzHCuyYToaLQt9UIlshMu4g+ORtVmTqYvXDYedqFfGpHL5/mjJqM5gYVyTJTtY4/JGYWGbRtLD3GaPbCnOFHObJiVCxnSfR58fsnSUSOv76IEe/bHfuNQMAqDxH+3DfMejoFfBoAQAJtsejAuA==;b7D2Q285kZtn5o7DMLJF9Q=="
+secured: "OqTOce3Myv6DAuFr5yXlI2WPkSIleFRSy2asrKoaaSR8XsDY7+6PKwBqBlYOCeOLDsKWIOKD82G/qKs6aK3L3gp48jOdHkpoHrQiw9EhGHBCCR6SFXeRhcK4ihB92788cZtHVkvCY+2/OIXime5e/2h1XD0zk7LEUpDeyuCSePBVzStxjpgsAPx6ZCx51GemAe/635tP+vRog197DfmYjro4IXLn1iuT6rtWUK9fQeSO2aHA/mIjdXkOOZfdYFrN5PRTQ/h+KDxJ/MLr/67tLfu0YAoagu1DrIoJEu64+ZIr5+R4F9VnhwZIiohYj4IzuZwzD6wsQS7quIS8wa63CJTk0K4FRaw1k4a5PUWXNjia+YYroaawjEIcwIZ0tP7gEpbgyKUtaWF0LW6sOAVwEw==;PjYsKKWmjlS4bi/JLwMF3g=="
 ---
 

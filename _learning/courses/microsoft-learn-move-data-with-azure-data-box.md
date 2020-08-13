@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 25 mins
 ratings:
-  count: 277
-  average: 4.66065
-heat: 53
+  count: 278
+  average: 4.658273
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Move large amounts of data to the cloud by using Azure Data Box family"
 
-secured: "9vEBQMZo8omHOtmcCiMwEWvh/jRpg1dYApdXqkQEiRBg9KQHQeA0MPLV30dBJ9MThM9PUnPQPipTYbMe28ngpjPShd+Q9eOk38WEYZ0tTuLemESPcfUv0+aqVOTxF0RaRDc7DMMU0zLxlP/iqqwq80Q8QPLSDLURB++WeXSvIXAnU9mp0t6oee+329VdYSg2XeP0ESD0vXZMJp3FsgY1cosX/AIoqUpwBZ6d+6iwTb9uIlh9n5dDLlhgOnX3Yg5Xmq5dP2nU1zxEk2f/a85k4q7RXsGMw95t+UEm0rJCOGaBXyyfSza5CjI6ida/0RZbfrU34JTk8+r37eev7PfsLiDDeyeuNO1Adp3bwd77nyQ3UB+4AGQZEPEy6zJLCknIUJcf660W7BnvQq91G0RJ2g==;Jq/wPJ5rYxnPmS4fxTRDGw=="
+secured: "FOkXIQ6Ftve/DSgeie+I4HeDhEms1BiG+UwwYUxImEQVxDECnSux2ytOh5Tyz1RTFv7Q6KRuyglUQp/4UAv9kaZbDfpgfGIs4ql432fQpH+HJoVjY7cUome73d82LhcaduWRWwuneaR7kmP/c8CRnmQwCQ3ZnQi6hM2LzYWdGqJffDXX1QxwEzn81AMCOr79FESdTO31BOonV/Y47Z4JtJiffLepAXwfOIK7N8W5z+fRe87L+k1q7/qQz3Mm6/MPvoB5ROmVLStSGtuBOIrk5m3LyGUE5ged/Fjyn2e8EnYrLarVimGzthRoz+21UWuS+XRbd+hLqs5DzNugt5LRhBKUWYmK4Z2oUP58Bp0n3VNmLFjCP8ek87I8r7z2/QsWX2fRK175OgHvxOsZCHbQ0A==;GfUqABCA1zVJ+VOmWCWd+w=="
 ---
 

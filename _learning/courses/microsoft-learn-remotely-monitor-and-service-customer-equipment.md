@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Remotely monitor and service customer equipment with Connected Field Service for Dynamics 365 and Azure IoT"
 
-secured: "EOwA617PL6atGIoS38CDVaOGGIDGmU0N+tQz+eRUANGvs4Hflq0QWwDRfvIDqm8V+JuR/WCf9s25OfS+XTY0Fjp0dQ4ujHnPxZYh5FJEor6Z3v6Q9Bz//KFFug9nfvJmqVsegPKE6qkgnE2ipE/Z2xUhLV9YuYaJZ0bEwzGaU+Ik9X9vWgGJXaOmAFvd9zt4H2gfjv/ubwEKTrnbvdGt00ua4m+z1Nkd+ZQyhCYtRmMnwM5MtymM7I3e+bVCHmFqWV7OdyUThViXxJPyDNgw32vQ9NIG6Ea+IzsZroGY2I4I1kkI172+ry9B1tUSwjcJVX/eUOBOWi07izrobjpZiUwLayNY7t0Ty6uJdnetHnypqH7DX/t+2iAa+xFHwMp+1h8LlKrY0WKVzdKeTWXENQ==;Tadb2Tpdxeq4CGxjAUlV6g=="
+secured: "e0pTh/P+ryZz+HMGWid8FnoRTIoHZm48Afvh/W6vA9gv2yoX9g7k/eAC1n0BthWdoRUEyU37AgkSkiZrHy+mNmYXE7ZH0kzjfPCyGpppJBoyJ20vggrjggBJXiwWYJR3a535zoZkC63IjlA3H8wiFOBy9dWr7baSyL+2tcEpHOs0fXJ3jBZcsVBlfVYuQXNkSeHMc5HZk08nA8FBSi8svWfyfQIyK4FEH4vu1AxGA/J6uaxH+Jp5wErp7czp4Enpgf0LjVLUYoBukEWayi5tNvsW4RwzOIwCWYlzJ8ncKrDinLIsatj6xBnTEpHY4+5Wer7AYuJVnKEvkZN8JhFGO7KnMz7wpk37RKQQS7sxK1yCyOKcxBp45L5trdbnJ/tq3iS3kqHa7Sn9q4mmP/HJrQ==;rQCSRtFhD2ufQKk/Kglj2A=="
 ---
 

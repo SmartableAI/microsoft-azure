@@ -8,7 +8,7 @@ length: PT1H2M
 ratings:
   count: 45
   average: 4.822222
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Communicate effectively on GitHub by using Markdown"
 
-secured: "lgdBEk4y1v89x+clJ3sYoV5yFR15H8ua8hRi9sRaI+Sshs/VILQeCYcvZzIZNIj/iZxfXtmo5fbrd4b+EiffYeeQlUjEl7fqV/vvCdCBpaqhkmIkpwaiizdHRtrwkgFQMUKhRvifbPfHMqW9YBcdkjNuzr3zGVK+keNORGn8GKhe3/kujN4xF/IPTPUJiqcaluO7OftIfZrWg8RA3EHMlu39AcvddDG1HPYkY5roIrraQvJkHScyezzD6rAPpzEkOyaws3LyAcTW/HV0yTDf16nO4cif5MShVWyJAoXuE9MiTCb+YYHbc5jJ1jcwgLtuSf1H9Fr3YtbejSJocKi38BL9bVEDGiBv9DSAnhv1lxJbaHAf4e8nh2+PKBMDdYMgdHvQe71tcI/vHIkC+TvQWQ==;UJgr/wyW1Y9PTfmZyUyOOw=="
+secured: "C2fJ+pezl2Q0p0hnN6X18WJ9z05+i7mHDYcEmxm6TDW9NMoqdvCXwpgztRNTuUUclHPBCGblUuUtlehQuwgV/rRvNgcB1+h6phg+RFRiOjhbaORZGCLQ3PaO31rEML+dCp9lfUY01IumxeJ3KLeVBq8mBtCoi3DwNWtpXbvvyBC2L4zV28yc9VAtLWNgMxtVX9g9L2vAXNsoxd/Rl3SUr/rtLpO/mIslSGSANPXGEK+G5YXItQnatvgYfmenpfi+UbVinOnCbubKZ9f63ePFkJN3QqZw3IkWLNi/P3QQRlGSLR+3A1r6jrDWCvTwN+OuoL9SLrr/OJNn5I+csPDl8Kq79yLRwf3tjIBp+gEm8EcqOdCE0weyF/xx3Nv2i9iwnuUe9ecORZVHm+tut5Xdkg==;eURLGT7LAom6hI9dkUVpJg=="
 ---
 

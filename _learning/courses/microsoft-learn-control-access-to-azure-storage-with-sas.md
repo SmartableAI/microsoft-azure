@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Control access to Azure Storage with shared access signatures"
 
-secured: "pk8l/9TH/Fm8yJL+rNZTakK+pxlXu5UpM0FVALFLE56Jd+9vza5UeoKPDnGTKh0peXPT60We4iPWqyKwFz/4OjesMeZe7yKe+sigd24dCiOfnRCcUAeZe+Td2zRNr+xaZpKLPdvO/X5Ub3eHZVqGmJl9KGaH5+SRaZGkHqdnYOeoarsXSER17IfgCj9WNGg2NeTcfBDL6uBV95TxeGamTPQABkIyWZLuao+spl5gikXzw6de84nj+Hgr7u72m0MG81+SSU9WBXkzj+4LCayraIFQoXMOg61F4L78D+2QapDFb/ZB2WQbfOY7h8i2jYUNDE3UKEwO5q/AxE1fUx+K4la2j7nachqAg+4ZlDjGMaCmrg1vIdMqvLn9Zu2S+FAbM401hHz1pabHWK5RbARTpA==;mTbO7Kgra9vSi7rlNES+2Q=="
+secured: "JJMVrl5nAZFQK9tbo9fCMIG2lVMA1e2BbVpCyHR9iAsOwWmG7BwbgoHvxpcDmNdT6LWVYbDv1s34D4zYrZH11JepAQyH0QmmQhCFWWtoGRSYirXDvywW4RClbrcJITXhu+z8gIYNppq8PK30Q/RRZmoZVhH0bDGvZiLNkZ4EJUiVlcQkIcjUlpEJ/OcRolgTR8lAyBxxPaKPSLBbxdPtcvR0IR4CvsDXqV7R9LSBrezEQ2XUX9VPgJMqrmgK1mAJA8ZFXo3pPts6X6ifl0HlWl7lQynoRBW49/gP67r+sKvob3RNpsxtzNFCaSHKqu6IrEo/yxX4ZwCZgwZlQpr0mRGMHYXf9VMyb8ofCoBVzIpiebqoXraRPoU2mE62eW3F2juEZCNFFr3kZsd+TZl8Pg==;r/JJX/3wWG5/CeYb7zWsug=="
 ---
 
