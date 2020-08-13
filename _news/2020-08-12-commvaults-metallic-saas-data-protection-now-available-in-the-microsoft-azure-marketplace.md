@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Commvault's Metallic SaaS Data Protection Now Available in the Microsoft Azure Marketplace"
-excerpt: "PRNewswire/ -- Commvault (NASDAQ: CVLT), a recognized global enterprise software leader in the management of data across cloud and on-premises"
-publishedDateTime: 2020-08-12T12:30:00Z
-webUrl: "https://www.prnewswire.com/news-releases/commvaults-metallic-saas-data-protection-now-available-in-the-microsoft-azure-marketplace-301110682.html"
+excerpt: "Availabiltiy in the Azure Marketplace gives them an easy entry point to their data protection solution, using Metallic to safeguard data across their hybrid or cloud-native environment.\" \"Microsoft Azure Marketplace lets customers worldwide discover ..."
+publishedDateTime: 2020-08-12T13:04:00Z
+webUrl: "https://www.trentonian.com/news/state/commvaults-metallic-saas-data-protection-now-available-in-the-microsoft-azure-marketplace/article_c4018b3d-b1d3-59b4-b7af-ca7dfefdc6cf.html"
 type: article
 quality: 27
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: The Trentonian
+  domain: trentonian.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1010127/Commvault_Metallic_Logo_RGB_Tagline_vertical_Logo.jpg?p=facebook"
-    width: 1500
-    height: 784
+  - url: "https://bloximages.chicago2.vip.townnews.com/trentonian.com/content/tncms/assets/v3/editorial/0/bb/0bb12925-3cb7-5b42-a919-66ca7d5c7473/5f2aa9ff7a502.image.jpg?resize=400%2C275"
+    width: 400
+    height: 275
     isCached: true
 
 related:
@@ -253,6 +253,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "tHv4GXkGBQvoajAM3/weYW0fQxM0MUe2Ff8mTkKggsBQxLr2YWPKjp9SW/o3YUVImeF414wKypNyhBXos+xIFDoyOZS/+cQtQMllg9KguMzCTNJ4kxQgNUzNN6Gf/M6cqapPhroys9R7+zr4PaeEWLy/UOIml3L+tBuLr1W+OMIJ6jBkSCR/HauYNX3IrxLo2BtdyGmqCf0AV9fN8AfaoIavPxVnKGmuKn30tTtKPrgfcPefdaI78wh7CnYi4pvF9UXSrBalNZKAmD88Lskt+74v1fGfZ/OsB044T3FCcP1RamnovrHwzccgOgAlWc9zqai4qlPKaCMclV7WVNdCK9cT3iH2dcKbHLgzc4mint3u/FhJYlYE+EoRrStiDKRBHpMtWbCUBVgrt/i8oYA1rwQsGDzd0rxPezWYm/mb8B7J5A97iaRvig+8lU48HgGN7EHNo/RpUGk1p0YCUIEDLvmsZMcZCrObpNvWpsdoaPn4aZvxUHOO3mfJZFx5TXzLR2Jau1qnMbyET92N4jMvfA==;SrCysvtmSOqiwRyd3FIjFA=="
+secured: "sY/94ZjJQad8OkwTUCcT7m+mpaDekXm4z2ZGrdzfIPUXF8QZibxSHKjKolSic1NhMcOWPtA8QyVZOaH5V+M//aWdY5r46Rkbl+L+4CEVMQ2D80E7e6Gm10DruE61IJZLHo3eVBzOFVHj0tITaeJ5afpCLXYYBPESWUVlY57uA/xU4n6JCn2JnqIuA4L3Xbtjj4KuRBvIeJRqOa/6g1f16Sz7HYQT5xuX5OgxszE8rntQQafeBGrFZi9+rbhxZC3AkVhYVMRqBuSDeCcJlZuaXGtKYYuhsr5Z31Kkcng+bMbVfpHndf42602bTTCcndUNQ0Yf0RKl+sCoa9uku1YU1A==;rjCqp6sRqMAZa9pFL3Eu4w=="
 ---
 

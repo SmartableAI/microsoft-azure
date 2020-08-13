@@ -1,45 +1,41 @@
 ---
 category: news
-title: "SimCorp A/S: SimCorp completes next phase in cloud transformation, offering SimCorp Dimension as a Service on Microsoft Azure"
-excerpt: "Before it's here, it's on the Bloomberg Terminal."
-publishedDateTime: 2020-08-12T08:08:00Z
-webUrl: "https://www.bloomberg.com/press-releases/2020-08-12/simcorp-a-s-simcorp-completes-next-phase-in-cloud-transformation-offering-simcorp-dimension-as-a-service-on-microsoft-azure"
+title: "SimCorp Offers ‘Dimension as a Service’ on Microsoft Azure"
+excerpt: "Scott Guthrie, executive vice president, Cloud + AI, Microsoft Corp adds: “By bringing SimCorp Dimension as a Service to Azure, institutional investors in the Financial Services Industry will better serve their customers. SimCorp and Microsoft will ..."
+publishedDateTime: 2020-08-12T18:09:00Z
+webUrl: "https://www.tradersmagazine.com/xtra/simcorp-offers-dimension-as-a-service-on-microsoft-azure/"
 type: article
-quality: 50
-heat: 130
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Traders Magazine
+  domain: tradersmagazine.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-    width: 1200
-    height: 630
+  - url: "https://www.tradersmagazine.com/wp-content/uploads/2020/04/Depositphotos_10301431_s-2019.jpg"
+    width: 1000
+    height: 667
     isCached: true
 
 related:
-  - title: "SimCorp Offers ‘Dimension as a Service’ on Microsoft Azure"
-    excerpt: "Scott Guthrie, executive vice president, Cloud + AI, Microsoft Corp adds: “By bringing SimCorp Dimension as a Service to Azure, institutional investors in the Financial Services Industry will better serve their customers. SimCorp and Microsoft will ..."
-    publishedDateTime: 2020-08-12T18:09:00Z
-    webUrl: "https://www.tradersmagazine.com/xtra/simcorp-offers-dimension-as-a-service-on-microsoft-azure/"
+  - title: "SimCorp A/S: SimCorp completes next phase in cloud transformation, offering SimCorp Dimension as a Service on Microsoft Azure"
+    excerpt: "Before it's here, it's on the Bloomberg Terminal."
+    publishedDateTime: 2020-08-12T08:08:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-08-12/simcorp-a-s-simcorp-completes-next-phase-in-cloud-transformation-offering-simcorp-dimension-as-a-service-on-microsoft-azure"
     type: article
     provider:
-      name: Traders Magazine
-      domain: tradersmagazine.com
-    quality: 37
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 50
     images:
-      - url: "https://www.tradersmagazine.com/wp-content/uploads/2020/04/Depositphotos_10301431_s-2019.jpg"
-        width: 1000
-        height: 667
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "SimCorp launches Dimension platform as a service on Microsoft Azure cloud"
     excerpt: "With Microsoft Azure, SimCorp has rolled out its Dimension platform for buy-side firms as a service in latest cloud technology development."
@@ -79,6 +75,6 @@ related:
       domain: bobsguide.com
     quality: 0
 
-secured: "HeAC9ab0ST/YcxS5eOEhuIrt+Pmsihggf8PUTJOPSM4ixAoeOZ2XJn6yLJduV1ZAZ7U7bkEKVxshhGonKX9DS1xlrM3fXYUa3lQQO7cTtszumtMIdq7aHA0CUux7wq5aIxPhMm6NFnXgnPIwISgxg/BvWGIn6inHIzxI85E7U/NM0v+xPG1Ujh9PuxLf0KeLcAhsXVk2P7Or1Gq6rAqPwjJn3x6pR90s3qAHrQ6B0HC/jmoTup2wgCl6Vm5EtHRMuL96QJ+YtFA4K7Q+dpvFeKuWCo94hkNeybS9CM6YOH55L7aOE/GOMAdMoAGPEViBF/kvb/uucby7EYnXahonWw==;sBPTifrJaQAlyTmFiYDdkg=="
+secured: "rRpgMuKJiLxQ5WaSRg4d8I3yPZR9E7hTV7hTGJPtJ77gGBGMCtrUFeKgRvkGuoozDk2UrqeysUiXp4i/22+i1tM0wgA8944dkGm8ofmLFKodPShIh97zpo5Gm238IEeu2csY3pLB6OM3+n1NF5iN3OLu4uxVjagJj3PwOLsgGOW12EhVEy0wd+YVMeCtzjfkmhclv3+ccrC1W2maVLBF7BL+2E8WDV+bY/kR1cI4b0ROKBoLm0kI2YdD3CTkF3qY7CKnhGePrV4CO261cZqNAzw0qw0kjcKP1MuEYG7UPPzbFbILnHN2ZUpckLvRA+cSXayJctqS2trLc4brdLuPQA==;C5EOhtBw0AYV0E3CtXhIaQ=="
 ---
 
