@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Use Azure Lighthouse with your managed service business"
 
-secured: "ovH6/6itWp5cJ5Xnrl83ZyTaCIopudN2xdalbUzjgN9MpCsb5Uz8ddGjl/gOrEe/1zhwQhhKMQFgQIKmTB3dIfPKnFHkbPMXpgZkxRKEqNFNv2OreJMRxEa2Q4IkSIJUPTj/PBQYXkq+KMy7k5osl+38vbadzlE/94QTVZu0uDndMlAi8DrV0M/uuixY74InvCJjBGcZU4++G+zma2TReCwaJG1qVPsCJs+uCK94PLkrYEkitBK+jqdeWtmGl9OGdXwmsEEiotcCzqXreXSSpp1aJ7x8FZTTyWDWmSATHK7pUfPfSk1eFG7DENEmeD7RJAcRKxoU+/UhLxc/dEmb3dNyaOL1vBbn7CjsC8aDb1xxmlMdvwchv/pC7sl9l29fR16zkEk/wXI8CuP+XtGCLA==;AwuBq5Ke6dApdx2oTf/Zjg=="
+secured: "sKrlEjNimifvA1GWqw4Zee2hRwbOuZbtwPxFuhUFIOZUJLsJqiBjffolyRWYnEVduG6/RVlfRrOhFotc68fuQMeZBxlPFYL4PYH6AQ71COiLOD8SG9RGb8cAnCWjnqGSOhtiA821dguaqQV+GZMX2JkbBvMq++ybcDS06iNoILH0UPgCD480hz/7YlZtlraubgtF7LtrVuWep8eBh3d4uw3A82UK7DEbyzlwS+FR1bP+gsSxpUMhtAjYt06OTWoTf3fxEz4U6qcdzyfEXfzrMmb8ziCQn00ygsqua/c/ZV8Z1cDSRAcNAkJyfaq/D8EoNfowpkRCf6fpQz6zm5gO2EyIW0+zYNKvKAeEs8QyoVTNRVLs6YZ2t3ZZOenlASMqV8k2PWIEYUuenC/0/fqckg==;i4tl1E+XRLG9hM5Ap6hIYg=="
 ---
 

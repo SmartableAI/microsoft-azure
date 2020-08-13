@@ -8,7 +8,7 @@ length: PT54M
 ratings:
   count: 304
   average: 4.6480265
-heat: 54
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Microsoft Azure Well-Architected Framework - Operational excellence"
 
-secured: "4ovG9y3ksxxqb7iAiIKtcmVW30A2vISGtHNY8q+cJ3E4zUovXr71pVNiFzQ9wgtO+GK9O6DYROASNJ/agoYybXpwqrylYWuUjVTMb+ynMh3VfbsjzLQangk6dtjHIxZdY9gsiLZTrDOHZfiHJcbTrmpMxqR/vDe9rHv2Y18BEugLU8df2ki61Sa+zaWby3Q7WpQ3tEWOkvP280CeEhFJ2iu7mvOCuQNijH1JZzhDNJ8PQ4WDENIEpYZug7eTGLlFy9emSDPYtWCO37f+GGejrHHcOolK0rogknO/F9icMgfp3Ax1dbTZIENgEDxjILU4ufR5FHSug5yjKWKjz604HNiEKOoM8i0qFNCne2JGN6L5boRNkjcp9/myFcjmZgbf/qx7N7Y/QkO3ZZXlgqJduw==;fnqkXkIJ22033WSi3/3iew=="
+secured: "LHvxcMtJQzUY6MdzwmQ9xi01lO0STSBW4fERp7EuP7UN98wY1kyOFsNj51/tdNRp/WryMJrkkNnaNpoVG0YV5EzwSJItDmPy9bP3DmK8X95g518/jPCGSimGPgW0h/obqSDkbgfclWqfAIf4tjaofETyhXSak3DE0G//6nd7XfHQVublJMvP89bUtv5HKvJ+zyGf4RVIPQ0xDwgs3J86yHzP9LYPwZtL6h0JPRPC3dVHIpeKUEzJ2F5HZUv9KTqGN8zhfGj2YIhIFBY5/zciGTo9zxUXLUZjh2xT7id64woYKd8xXJrlH3ZBAozmzyzD0K2+5kx5ipKO8ZU3lviRLrJCIOc1IGkgEtnd4Q62sXBavOY5Jf5VQ072lNIogUjoLv+9m24S0Zy0gzXOGDs9Gw==;Lztka/thwAG7+daw0jZejw=="
 ---
 

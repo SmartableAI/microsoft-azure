@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Improve your reliability with modern operations practices: Deployment"
 
-secured: "t0R/6OPsIh3+6mlm+3Phc935jjafzgbt/H9PbAPfsb5aJMtsHchDu73bzhnBd+t/VAYuW6GkivlSAiOAHW/S1N+zD6BXq6vcWrW8qexYKwNrZ+/u5YUVmZ1Qqu3Tk8aUx8x5ocMIzCitG4TK8rwSsQy98/QPtLKUiURMQlNFIS/MjqqJIF2gxyQ314qv7p7IC72hAqfB/cawg0WMIyGFdYMY6UDG/5GrDyhKW+4d8sKKmymE+YAK0801KMuKybuls9mG5mrwpWrggAQUX6MtuwqzLcelQ0j9T4ir5BGG/rUipgDeGeT72//Q/UCuEwtd8nIS49cblKWzpJNr0+fdqzNVWfFwSBDAv/WOAr+CGNY9tRkXR/ymSOqGsbRLCR+HgBtAKlMWhHlDkOAPMIEGpg==;H6PQqfcL2XTpCjxSUuQgHA=="
+secured: "ID/FuSLzxTqp/3cUCYGoEC+p23JkJN2sShI8nV5jH5kgf5hRIGJj3ZpSWfhfqdDby6yKy5xZOYF45KGn9PGrqWph8a++sFyAWhKvK15Q6J3ORvnYLTyyDyRRXgAt/RxIUIECyUTz81VEZRONxY/KGQM79jdoY/WK2X7iRPZXfEUvXd/8qaBhDmtY7F2sRXMmshvNiosjuNAfR1uWKwb5nRsoRKk4zGrSythwaoA1yoqaz4Hge01GyXXbzMfKJ94l4jccjteWqVoO0U/4fo+pyAQC63dw33HlXlPpmhRefQ/Q/Z+rXfBZFdK4pANuwccMOgkPCs6xM5FwPkxmkFpKCrIqBY4pa8Qn8fuEA+kXO5MwiS5COI3n0iUpSydkezVegujY1aktnFmCyYzDM/juTw==;2pCEEiAuJY5xDCTrQPaJsg=="
 ---
 
