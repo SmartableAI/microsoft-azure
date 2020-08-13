@@ -8,7 +8,7 @@ length: PT36M
 ratings:
   count: 20
   average: 4.65
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Track global air quality with Azure Maps"
 
-secured: "1X0wHTQ+1KArVU4KuY+2eQ/muzeBMF+6VdUsyQrbw1QUFvVaAa+CthlJIL7P9L8QFpttdf8PxxhAXpQYIBOgvaR++lVDbmFemRf/DB1BzO1XQkC5toyV2+BssR/uOA78IL1oGcVhC1CtbAMyeAi5SvtW8CenXuArUC5IJGXdEd/iev5BA6cWc7sh1mXBOMmahTtS76POIoElC2epeKortSNVxGg4rc58mi7xCkwjniY89d+nJ3xShtlp9CbIm+gPzX41weaW0L88u7GojWDE85ZKd06U+49R5hmO19MybMEG+Zme8TaEvc5oHrXcNFUm/QHpGD8d5AqfY4xyNAEad/UQsTHNdCy3cesM+Tx/ISweF9XR3xM3y4EQjwmRSBl19AJo7wCoTt9zgfLz2fzEbQ==;3C6VaWuxfwgiRqo4N76skQ=="
+secured: "KogzR5+nfMBbanbsvawxie2JmgT6fP4O5JUEaXLi7BVrqU9TVpHhe54w2IijhFPN2wkd9NSmOJVvATE5XXElrIrrmv01wtNC04685As4/lEmdkmdNK92reQmqbuUMZsNQMp19/ldVlce2Wcv0dn/x5p6K1NT7gKecLUd1GPgYwC9HfrF6ldo7n0WOU8tuEus/AKrAG+U4NBw0jLtRAtpTNcO9HvMr39zKC76qva2gD2konjJNN3CSKXYXj14r7gjr7440T6/elciWSxWGYtrqk2Ag8P4CX5zI5VLm0laUC8gLwxO4USj2SQDdori+V07HKuDtPeTrylK433eMonM4UGlbEh5g/Epi7335Lm0Xtx3tfNCmT8AxuZFbAdo3c3ppt7GEnxK9ahovtfPJg1bmA==;1ZHIABofcNuJcYdSV4o7rw=="
 ---
 

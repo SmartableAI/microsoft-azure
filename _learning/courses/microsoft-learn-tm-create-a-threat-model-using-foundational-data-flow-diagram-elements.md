@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 42 mins
 ratings:
-  count: 189
-  average: 4.693122
+  count: 190
+  average: 4.6894736
 heat: 50
 
 provider:
@@ -38,6 +38,6 @@ images:
     isCached: true
     title: "Create a threat model using data-flow diagram elements"
 
-secured: "aSFVRncSLJcjb+Db3u/yomwGq4BlNBXBypg3zN7k3SWbpqQYbC5ggYLzuQeI2hEEnPRbI0yr1/B+aCGjtkuDjOMeKdFCCmuts4Vi9e6XHem7VcteWbIo9qyLMQARvv8GzREMdiLmBJ7MCPv2HsWRDNowJyL/dzVkIKgdFWDlx2FL4i1BcneqB85NgRN2DF8xwwpfgsZqJkvJA1BMqeMCUUXg/3nMlr+dRwgLuSZrMzUJ55epFXQN7FsScbc98VqSWwWOdY1EgfuI8QZLMqvpHArgLZ952cRZvSqbSsyawJDgxH4tVCWbi77kIWi7HYD1W0Z7mrqTfnrmiibte010EJZnAtbvhtIxXz+5tI4XlGavsfRvj1zAPcMdbVku55PDVb7brr3wugu3wJJ9nsz+iA==;FbOnXToHYB127PGuzWUX7A=="
+secured: "ubaFI/dK9p7F8AeXlzpdOmxnRJ2+5Ex4orkzhAFfCRIFuBva2BSTgxOetyJmzD3iZ6apLN9z7A7jT2RIl9bDWpQP2ZMcq0WatYU9lRhipK+RMhp+UMmjRfNc2OlsOZfsj2cZAQTCdmuQTZvfU6VsF+nO67dRaXZ91hAR6Au32pTCJ+WI2bfNtdpRkzhineFwgjaXKIjbIEUGxZrykyODUcWXHgADqO0tYdkNryym7O4v5mmOWlS4y2+d4wMeZoZDgdbP+We30hUHnRhGvEZmDhW4x4TNp7gh5JbtXvwOc8NloZSWood7xoaEa500srkCI79Kna9x6HNbdL8Nn1ppD79LHS6GXF9wzkoiPlHfK3UibmkLkZB0IET5hDFarzeYKFH+GQoeELvEms4A4AJ92Q==;1f63DgX8KvVWvtyaUWMbdQ=="
 ---
 
