@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Community Brands Announces NetForum Enterprise Cloud, a New Version of NetForum Enterprise Built for Microsoft Azure Cloud Services"
-excerpt: "Community Brands, the leading provider of software solutions for associations and nonprofits, today announced the upcoming release of"
-publishedDateTime: 2020-08-10T11:45:00Z
-webUrl: "https://www.prnewswire.com/news-releases/community-brands-announces-netforum-enterprise-cloud-a-new-version-of-netforum-enterprise-built-for-microsoft-azure-cloud-services-301108867.html"
+excerpt: "\"The introduction of NetForum Enterprise Cloud offers customers the extended scalability and power of Microsoft Azure Cloud Services for serving the evolving needs of their constituents.\""
+publishedDateTime: 2020-08-10T11:54:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/community-brands-announces-netforum-enterprise-cloud-a-new-version-of-netforum-enterprise-built-for-microsoft/article_6c0d1bab-f5e2-5653-8aef-2b6ca9044394.html"
 type: article
-quality: 7
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/550289/communitybrands_stacked_Logo.jpg?p=facebook"
-    width: 597
-    height: 314
-    isCached: true
 
 related:
   - title: "SimCorp A/S: SimCorp completes next phase in cloud transformation, offering SimCorp Dimension as a Service on Microsoft Azure"
@@ -75,6 +69,6 @@ related:
       domain: bobsguide.com
     quality: 0
 
-secured: "4mbznsE2JzOJU8SWQV4DgT5G5ergoVd7sHN9TuvAv6e21wkpfSZtN+YIjOOI4gb/YxuhcB+8IOEAhRbnfzMmhi6cToPqScpgd7WnwP55UxUQiTxsMJhbRMjwtH2/EVaHU2cuFzvVjRllweyapRWfl1xqGMWsg3g1UofVKv3qYs4RLfCGD0EQcz/QwMGKqAqGDjNWFccHlzLTE+z0e+ppPDWcNfpfXeVSmOf/Mwjsyre12+6XXqgpyjyJ748O8euPm7+ByyCPwtOvho7o6GZ/Bjppn5Sl7QSMtFWK0mvhcnwGjQnyaZf55C4ABJDV54SgWH02y9qM3/61BQb7MCjGLw==;wu6It9NcnIk9p07pkZwRzQ=="
+secured: "Zup/hbKuM/UFsOrskJzQdgf+Pah5fR1lQV+FyoFx4wxDWQpAOxwzEnsS0sv77bcwREq8lDybzLqSlZdUorD5ix968H0TKvNwB8fgjgnSuHMNpgcGisOBhwFFJWP2gl6kpoFoSPpc6HGQIMRb2f7c0KChrkvSHyS32qJCSuETMh2R/Cwa44B4pb/vbkjLsZ24j9E5aIf+GEbp12gv4Zjh7Q59byehPJQGkhqU2TMUwBOso65oWi9sMt/cIQypT8H8LV0U/XoJc829gKFHQZxh58MR4XKsYiyO582v/0zogY+bhHGyOUWpd0l+AUtjLV7/xATSKklEzwzgSzjItvTBQA==;F9trAtazhSOzxJdBD74aiQ=="
 ---
 
