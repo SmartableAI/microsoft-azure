@@ -8,7 +8,7 @@ length: PT16M
 ratings:
   count: 374
   average: 4.7700534
-heat: 55
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduction to Linux on Azure"
 
-secured: "v/PVfqecxiBMhWAhY7OIa+rWPAprNxzsLOHmnQxwtTCEAIF5nISO35hXg3O8hBpYzhJFJIWdHsKwsqI5laY5XFclCZRLLcXUgSCnWwdBaAGlv+EN9fdcqh33GYJ8ohjPdLOSRLYWbxqbmHHZ1UKiC7CVCy5/dsa5XbxiN6G2tTjdX2BfnDJS++SIbM8zJ5wOPnoex2qmseiJBzo9iMPTBW1//tvEZMgbL2EzJ9JPPT3zkOUErelWJU7LChvu9kUzrGC/UYP/zv84hR91i+67jbndOq/7ja05miMAY19cdXL/Fi9rKTbttw6ITcH0ZOZeihMIeUxlUDeOyYVq58k8+yRF5uIqC7acaDJqI/zZXPMEtPjN0lACIs316e+KbqUrRGvrY/d0mqLN9cVJtV5uWw==;ZgllHB+GsUWsDCVDa/5M3g=="
+secured: "tI9ClDGzowzOxGjDRg+P9S93wkiQ4fmBxIHl+tVB8O/i759lyYj+LXquBA9za7pCLWtx9vqMfIGNfk3T1K9ug3oU721Zi5bGb2+9cR04yOreMKnZpJlhRf+WG63SfDkNyqHpkuzZgwIohP4JyVcTQZiFREZaU8SuwJLTsowjWzAUGzsAy76FRAxZ4yQUi4PCNsmRW9REe+kXEDFlbpfzS7PnqtrnpapzRQNgUGxPc1uo0DfaOLDdRBk+ZtLrycGTXWXV3p1zlWnXm/bWIrxuWZ2aOnnsrdUIIYV/Tci8Fyae4QFiyA9hOlGORYWHRkk6zgqZIiTsBmEDscSLhQwd1f5GPfFmxTld+3dXKbAooKqsDLhwgwzBTJfizyK6+ozsrTQLimYngmyzvjNZQ4FcqQ==;gKJKzRW5/7DJgSqO79lehw=="
 ---
 
