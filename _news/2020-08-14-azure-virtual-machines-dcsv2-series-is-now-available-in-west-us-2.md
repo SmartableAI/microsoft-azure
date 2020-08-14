@@ -1,11 +1,11 @@
 ---
 category: news
-title: "HBv2-Series VMs now available in Japan East"
-excerpt: "HBv2-series VMs for HPC now available in the Japan East region."
-publishedDateTime: 2020-06-15T23:00:00Z
-webUrl: "https://azure.microsoft.com/en-us/updates/hbv2series-vms-now-available-in-japan-east/"
+title: "Azure Virtual Machines DCsv2-series is now available in West US 2"
+excerpt: "Confidential computing DCsv2-series virtual machines (VMs) are now available in East US, Canada Central, UK South, West Europe, and West US 2."
+publishedDateTime: 2020-08-14T03:11:14Z
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-confidential-computing-available-in-west-us2/"
 type: article
-quality: 62
+quality: 77
 heat: -1
 published: false
 
@@ -30,15 +30,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "Azure Virtual Machines DCsv2-series is now available in West US 2"
-    excerpt: "Confidential computing DCsv2-series virtual machines (VMs) are now available in East US, Canada Central, UK South, West Europe, and West US 2."
-    publishedDateTime: 2020-08-14T03:11:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-confidential-computing-available-in-west-us2/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
   - title: "New Azure Virtual Machines for general purpose and memory intensive workloads now in preview"
     excerpt: "The new D v4-series and E v4-series Azure Virtual Machines feature the Intel® Xeon® Platinum 8272CL custom processor, which can achieve up to 3.4 Ghz all core turbo frequency. The D v4-series and E v4-series virtual machines (VMs) don’t provide any temporary storage. The D v4-series and Ds v4-series"
     publishedDateTime: 2020-06-15T15:00:01Z
@@ -48,7 +39,16 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 66
+  - title: "HBv2-Series VMs now available in Japan East"
+    excerpt: "HBv2-series VMs for HPC now available in the Japan East region."
+    publishedDateTime: 2020-06-15T23:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/hbv2series-vms-now-available-in-japan-east/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 62
 
-secured: "UAOgNpSIc+mkSJJHtGR11yUKW9WToxi+QBIHDfT8FjptF6KRNxedQDl6KMZXJZljexJDDin7+Xi5LqTBpv+fYGIWGIBRvA58skP2vW22xWm0SGAe1Vzvq5b+aTW7LLLiKUTLZqkIp5eSYRXxhN0yCRaiHCV1GNR9Gqd8ybSKQiAgLxIV/qhfoAFrARjY74hwkxvXHAwfTF/INdMhHG5YRUrqF8Do+epQysCQvgROdWvXni6W3YRILA166+vhPl+p8D6ssdgoxEuzRqs4lo72GsZTNMEI9Ewsnc3j+S0SttG8m7mXOB3SbvBzgSfQTr2Oj9C2UE1+ZesfWYyVZqSLqA==;NZ/B5E5gb250St9wnljr5w=="
+secured: "W2pW1hNgsfY31wYIoQnNM6GhsFJx3wpV7qrvftFW5DRpEljjKiOhQ/UujCaD0EQjDMShXzM6/R57BWKTJwT6hlEKJM1TRG+vPVP7qQ4WCkvwY2jbVd8ZMzKRTv0In/hIzpZlQ1/WyOy8rP/pr7hlegWqcW/oV3K3xmg8QI73qV+TikzAJTb4KdfUwhiwTduGA/9vQkQolWT8oT71F9FFecuGcidD33WLBK93YssgwFIRuGE0PEsqgs50XJpT1Q8jBa/zvQi0OT5UGme/RPgxwSMc+bX5hodw1dT6gcNM0At1N2Kbe6P2Ab0ezFe3lhiKRicnJt8EEjDQYkNW/D034A==;7iqUnCo56kJ7ayz+YJauYg=="
 ---
 

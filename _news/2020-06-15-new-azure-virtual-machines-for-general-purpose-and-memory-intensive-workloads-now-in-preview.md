@@ -30,6 +30,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Azure Virtual Machines DCsv2-series is now available in West US 2"
+    excerpt: "Confidential computing DCsv2-series virtual machines (VMs) are now available in East US, Canada Central, UK South, West Europe, and West US 2."
+    publishedDateTime: 2020-08-14T03:11:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-confidential-computing-available-in-west-us2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "HBv2-Series VMs now available in Japan East"
     excerpt: "HBv2-series VMs for HPC now available in the Japan East region."
     publishedDateTime: 2020-06-15T23:00:00Z
