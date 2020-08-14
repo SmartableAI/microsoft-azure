@@ -145,6 +145,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Azure NetApp Files Now Available to Government Agencies in Microsoft Azure"
+    excerpt: "NetApp (NASDAQ: NTAP), the leader in cloud data services, today announced the availability of Azure NetApp® Files in the government region data centers on Microsoft Azure. This expansion of Azure ..."
+    publishedDateTime: 2020-08-04T18:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/azure-netapp-files-now-available-to-government-agencies-in-microsoft-azure-2020-08-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Azure Databricks is now available in the Azure Government cloud (in preview)"
     excerpt: ""
     publishedDateTime: 2020-06-09T18:15:11Z
@@ -232,20 +246,6 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "Azure NetApp Files now available to government agencies in Microsoft Azure"
-    excerpt: "NetApp announced the availability of Azure NetApp Files in the government region data centers on Microsoft Azure. This expansion of Azure NetApp Files, one of the only Azure native, high ..."
-    publishedDateTime: 2020-08-04T23:01:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/08/05/azure-netapp-files/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 35
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
-        width: 304
-        height: 430
         isCached: true
   - title: "CognitiveScale's Cortex Certifai Now Available in the Microsoft Azure Marketplace"
     excerpt: "AUSTIN, Texas, April 27, 2020 /PRNewswire/ -- CognitiveScale, the Trusted AI Company, today announced the availability of Cortex Certifai (Certifai) in the Microsoft Azure Marketplace, an online ..."

@@ -1,25 +1,29 @@
 ---
 category: news
-title: "Azure NetApp Files now available to government agencies in Microsoft Azure"
-excerpt: "NetApp announced the availability of Azure NetApp Files in the government region data centers on Microsoft Azure. This expansion of Azure NetApp Files, one of the only Azure native, high ..."
-publishedDateTime: 2020-08-04T23:01:00Z
-webUrl: "https://www.helpnetsecurity.com/2020/08/05/azure-netapp-files/"
+title: "Azure NetApp Files Now Available to Government Agencies in Microsoft Azure"
+excerpt: "NetApp (NASDAQ: NTAP), the leader in cloud data services, today announced the availability of Azure NetApp® Files in the government region data centers on Microsoft Azure. This expansion of Azure ..."
+publishedDateTime: 2020-08-04T18:29:00Z
+webUrl: "https://www.marketwatch.com/press-release/azure-netapp-files-now-available-to-government-agencies-in-microsoft-azure-2020-08-04"
 type: article
-quality: 35
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Help Net Security
-  domain: helpnetsecurity.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
-    width: 304
-    height: 430
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -262,6 +266,6 @@ related:
         height: 315
         isCached: true
 
-secured: "J6INxRXhgYy1AM8SQbFB50uLGbZQ3mjypop2/a99TXZgtEeOxUqcuSALZKezKtnsSA9izRf9UJxCp+XZtuVS2h2FNMzE8kmNzCS7RFBPhKzVvVaBpLT+FPlFCaZjHoQVR/vjeujt5TwjrPj6Iv/AvgjB3h3qQ2Q4QaYw1OSMDwRnO5I2ZHRNiJ9zBBgDmDM5Wxc8w0JXJedN4psfRkmgd+0ipgt9p0DYbq1XMU0E4iDVXuDV9pKiDrKYYw6XUpEPwqbsFiwBQm0BZk3p7Gp7upRYjASWSlsGr+UgJEu5Fh49Wn64CHo0v39w0RKc/4eIpcwHXLGLjdylVQ3e47W/UQ==;pqoWv/hF+syZIlmsuQwYyw=="
+secured: "tNB1ZIWN/Fg+Mn/MEH4FySaeVJHzp+ZBREw1bu7It49XjL8GCLfwRgoHGbS1z8QEMPTFGpvhl7BHwWeZGzXRmw593Se3jGmkaPxcju1rx/oikZvAUYcdlpXVtIhJhYAlrkZ76ggUv/fi40UdULsWPHXy0FEzGixcWbdbBjQERyIkUv0h2IiRzzQdQT67a2L/HBAJ+lyfw0o4l2mxbW2OPMFXxmbqMwhbk4Utagy0uICmJecPgduwYajPAua9LIoQMigWornZAE9fuOdJ2KXWqCK21O2rwUtOph82XuotCTRit3xiGw4CQULVppT1BuYvH1AeWJ6sdf54yHTZGVRxdg==;TYXMnn/HcOQP8erDaL6Ovw=="
 ---
 
