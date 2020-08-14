@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-28T08:00:14Z
 webUrl: "https://azure.microsoft.com/blog/creating-cloud-ready-environments-with-azure-landing-zones/"
 type: article
 quality: 99
-heat: 99
+heat: 100
 published: true
 
 provider:

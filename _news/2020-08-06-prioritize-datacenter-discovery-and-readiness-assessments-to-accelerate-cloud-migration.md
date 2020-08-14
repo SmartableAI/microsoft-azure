@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-06T09:00:11Z
 webUrl: "https://azure.microsoft.com/blog/prioritize-datacenter-discovery-and-readiness-assessments-to-accelerate-cloud-migration/"
 type: article
 quality: 91
-heat: 111
+heat: 112
 published: true
 
 provider:

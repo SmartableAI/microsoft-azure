@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-27T11:00:03Z
 webUrl: "https://azure.microsoft.com/blog/new-windows-virtual-desktop-capabilities-now-generally-available/"
 type: article
 quality: 82
-heat: 162
+heat: 163
 published: true
 
 provider:

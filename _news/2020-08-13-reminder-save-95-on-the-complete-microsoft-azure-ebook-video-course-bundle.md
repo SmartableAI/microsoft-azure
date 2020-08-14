@@ -2,8 +2,8 @@
 category: news
 title: "Reminder: Save 95% on the Complete Microsoft Azure eBook & Video Course Bundle"
 excerpt: "Just a quick reminder for our readers about the awesome deal on the Complete Microsoft Azure eBook & Video Course Bundle in the Geeky Gadgets Deals store. The Complete Microsoft Azure eBook ..."
-publishedDateTime: 2020-08-10T09:02:00Z
-webUrl: "https://www.geeky-gadgets.com/reminder-save-95-on-the-complete-microsoft-azure-ebook-video-course-bundle-10-08-2020/"
+publishedDateTime: 2020-08-13T06:52:00Z
+webUrl: "https://www.geeky-gadgets.com/reminder-save-95-on-the-complete-microsoft-azure-ebook-video-course-bundle-13-08-2020/"
 type: article
 quality: 33
 heat: -1
@@ -55,8 +55,8 @@ related:
         isCached: true
   - title: "Reminder: Save 95% on the Complete Microsoft Azure eBook & Video Course Bundle"
     excerpt: "Just a quick reminder for our readers about the awesome deal on the Complete Microsoft Azure eBook & Video Course Bundle in the Geeky Gadgets Deals store. The Complete Microsoft Azure eBook ..."
-    publishedDateTime: 2020-08-13T06:52:00Z
-    webUrl: "https://www.geeky-gadgets.com/reminder-save-95-on-the-complete-microsoft-azure-ebook-video-course-bundle-13-08-2020/"
+    publishedDateTime: 2020-08-10T09:02:00Z
+    webUrl: "https://www.geeky-gadgets.com/reminder-save-95-on-the-complete-microsoft-azure-ebook-video-course-bundle-10-08-2020/"
     type: article
     provider:
       name: Geeky Gadgets
@@ -77,6 +77,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "JbzAwSWOU9CmzxNaHzdutADMdfCIKYG3XwWuoY9rt9z/sobeH/WzDeu4vInUBkbXo27hYphZTvg2ZLK6gnrYC1/87eBclHII1gyPAbJlgrMwP6sr/JhbX4i9MZaocyM+Kgdi+newK4iLaIACPYu/Ry87UaCXXBoEC+3QWrhBWL4MdsjNrSRfJeCWIxZes7JsYfxWAyMw1gpzY550hPCQSSsKP8elHq+a6w3Z8I9czry5tEcuXolQhGiBD9W+/W/ov5EaY/bRwM+1L/96oF661UVOeL6yj5uG4mx+F9ugEX1VccnpjM5dLXtKXYZBBFhJgF82m/l95CCOQo+atVEmJA==;WaqIm0959+7uv+dUtdL+KA=="
+secured: "6H7vcQV5YnyXY2WPPvwHxzU3vcSbQ2Os8dRRShUMXZBxXFeMLGgH3Bdowzbd9eMWXtN10pTTw2C5FaPzjDCqjdCsx8LdsDc1PO8ZELfW0MGEb+Si5mlPaW+ptlFni9Ni7XCp+u6ldCWvwVkvznzC1sgGXv+3BLTpJOPgMMzPRUkO9yGSmK5DN/DH/GomeG/+lQAVzPs0eTQRr1nW03HMXACzd87aCfkflVDYEGjnZgGZVW9e9HS980pPFQajNn8kOoJ7KQY8ThnBLMiEFC8Z21pPxjg3KIzWStcPpHiOtzJNyAavc7L3MUzmz8dzGgHyPSb1ysCKWoi7LkKWxKCupQ==;OOkvpH4AIe1jUyuD6cTYHQ=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-13T16:00:06Z
 webUrl: "https://azure.microsoft.com/en-us/updates/line-numbers-in-log-analytics-query-editor/"
 type: article
 quality: 82
-heat: 82
+heat: 83
 published: true
 
 provider:
