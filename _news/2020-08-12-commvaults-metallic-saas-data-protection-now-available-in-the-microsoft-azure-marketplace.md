@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Commvault's Metallic SaaS Data Protection Now Available in the Microsoft Azure Marketplace"
-excerpt: "PRNewswire/ -- Commvault (NASDAQ: CVLT), a recognized global enterprise software leader in the management of data across cloud and on-premises"
-publishedDateTime: 2020-08-12T12:30:00Z
-webUrl: "https://www.prnewswire.com/news-releases/commvaults-metallic-saas-data-protection-now-available-in-the-microsoft-azure-marketplace-301110682.html"
+excerpt: "Availabiltiy in the Azure Marketplace gives them an easy entry point to their data protection solution, using Metallic to safeguard data across their hybrid or cloud-native environment.\" \"Microsoft Azure Marketplace lets customers worldwide discover ..."
+publishedDateTime: 2020-08-12T13:04:00Z
+webUrl: "https://www.trentonian.com/news/state/commvaults-metallic-saas-data-protection-now-available-in-the-microsoft-azure-marketplace/article_c4018b3d-b1d3-59b4-b7af-ca7dfefdc6cf.html"
 type: article
 quality: 27
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: The Trentonian
+  domain: trentonian.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1010127/Commvault_Metallic_Logo_RGB_Tagline_vertical_Logo.jpg?p=facebook"
-    width: 1500
-    height: 784
+  - url: "https://bloximages.chicago2.vip.townnews.com/trentonian.com/content/tncms/assets/v3/editorial/0/bb/0bb12925-3cb7-5b42-a919-66ca7d5c7473/5f2aa9ff7a502.image.jpg?resize=400%2C275"
+    width: 400
+    height: 275
     isCached: true
 
 related:
@@ -253,6 +253,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "X4qwYsFLU59ZnNsNUIb0JN+uZrm6hMGNha1rznCtIJXQZsa8fiL3DjzCcchsG86UFDsCXMnl/ZUB6opRC6p43AYM7HCSvw37XiZiXO57F43O9/2rrFKx3LH6dpRsUD+t2tPZZnt4boBJLWA/WL0wDOCRP2qfel5uOCclPx2SihtMcZT6pxxHfsGqedphzSE2NqQc/FLU9FZ8Q32gJYp+I+Fb2bUN1xKmifEhZ/832n355+PwT70cetzBWbLsMhurjgGLJBP8urv8aqQ4gfLnebYuVcOuo/FTNdOsCp7HWewby1DwtrRWYgq5uZCQBazKTPAzipF+DE3MNNUO2pI7WQ==;2I3568pRDVwzfB9uvxtg6g=="
+secured: "SZKnmj+ygyxD5yYcFhAJeNQMd8GBFCrhZdecwVRuCKMz9DNuW70HJCzrhyipu8OjjwZYbnkvoqZlhAmvYkx9p0kgQl7QXhm0JR8fAt5JMQPPuErIwCGzXHhX6b8SNINjbCwUoT2RjvubgFld25sJ3YByodSpi7D+0TIJ2E8NhH/0cs+U6N4h6rlPP/njx97hu0LCk5aLF6e7VXS4TpPXwrnS0FYb2v8wDEuNGwXUHbq6Dn9CKoIxXfkbmVcJhfa5ynwtqLGpG2P+vKcevq8KPgYzLNSCxy+63lCXTnR9xr+ovLKWkBRTiHKBUUOI+3HMhNxRrxF2LoJl1HQZQc89dw==;MrGijrb1QlJ8anCraXrLKw=="
 ---
 
