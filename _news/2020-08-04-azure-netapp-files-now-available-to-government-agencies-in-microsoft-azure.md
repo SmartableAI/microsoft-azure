@@ -1,25 +1,25 @@
 ---
 category: news
-title: "Azure NetApp Files now available to government agencies in Microsoft Azure"
-excerpt: "NetApp announced the availability of Azure NetApp Files in the government region data centers on Microsoft Azure. This expansion of Azure NetApp Files, one of the only Azure native, high ..."
-publishedDateTime: 2020-08-04T23:01:00Z
-webUrl: "https://www.helpnetsecurity.com/2020/08/05/azure-netapp-files/"
+title: "Azure NetApp Files Now Available to Government Agencies in Microsoft Azure"
+excerpt: "NetApp (NASDAQ: NTAP), the leader in cloud data services, today announced the availability of Azure NetApp® Files in the government region data centers on Microsoft Azure. This expansion of Azure ..."
+publishedDateTime: 2020-08-04T13:04:00Z
+webUrl: "https://kdhnews.com/news/ap/azure-netapp-files-now-available-to-government-agencies-in-microsoft-azure/article_b65094f6-10f5-580c-b47d-a173c3d7184f.html"
 type: article
 quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Help Net Security
-  domain: helpnetsecurity.com
+  name: Killeen Daily Herald
+  domain: kdhnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
-    width: 304
-    height: 430
+  - url: "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/custom/image/d24d118c-8888-11e9-94c1-a36b64682479.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -262,6 +262,6 @@ related:
         height: 315
         isCached: true
 
-secured: "MeoQUymtJVj2qtleKYiJSHnoyvjytp5k2pHdyO1wbwwaX0v7lr7EuX+2TIzB7ieDT0NbhcLU4TMfo9XkkmOxyjNzP1wppM2Ackq4nbAGNNKd+bTFGmYjJz+Kovw83rLB1ZjfSmo5psOoLjm3FXR0dfeCh2dg2vqqi7B8o3MzhPbPVvN92DLDZFkJcI8xc1v4jus1FeyFZYRF/vAY+R/2MKl1f7YQQ2k+1wnICzavdjwSHsf1Jf6KpFLRlyQuGfTrcc9WdRxwgxBAHQfZB6/K8Uvqw3RMbL49QDhflRgCbDNp4nJMfYzu4sVfOL+Nj1gI2CWDhJi4jFFRhFAreV5d/g==;QeX/+tMUGCEM4gVO6tqUgA=="
+secured: "UUk6oKUL2+nrZGrI8l1oL5p9QVQDzHHICg/DxyVnau0Duica3zoYm5MJgfxPBciljxXmnHIm2DS6i1AfXKC5WwS28D95AvyvMxX5pYYcZpyXRNXT4yrvxgXu4zJO/jRDQ01rAkWvmXJSbpDr4A8JvVJMwOniXcKkTMq5tayU31I0t0xh+4cGnME/fV+UMdiq9dzMGtV7X28y1xKOxT1T6ky4o4kKwfabl4+i5EK7FuPKvPb+yVputS/4TnHEf1cDwTtC317hWzTYo2NPvqmIJhlm9T3/T4avMxkfuxmOMvxi6xWeLFpp3VzmVn4nf0y0kOvn1i3KGE/EuP5VR9Znog==;olA4kTtvmqyY2kXzVB+8Dw=="
 ---
 
