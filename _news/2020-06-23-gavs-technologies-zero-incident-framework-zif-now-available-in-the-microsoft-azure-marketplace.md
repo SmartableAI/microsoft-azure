@@ -208,18 +208,18 @@ related:
         height: 315
         isCached: true
   - title: "Commvault's Metallic SaaS Data Protection Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Availabiltiy in the Azure Marketplace gives them an easy entry point to their data protection solution, using Metallic to safeguard data across their hybrid or cloud-native environment.\" \"Microsoft Azure Marketplace lets customers worldwide discover ..."
-    publishedDateTime: 2020-08-12T13:04:00Z
-    webUrl: "https://www.trentonian.com/news/state/commvaults-metallic-saas-data-protection-now-available-in-the-microsoft-azure-marketplace/article_c4018b3d-b1d3-59b4-b7af-ca7dfefdc6cf.html"
+    excerpt: "\"Microsoft Azure Marketplace lets customers worldwide discover, try, and deploy software solutions that are certified and optimized to run on Azure,\" said Sajan Parihar, Senior Director ..."
+    publishedDateTime: 2020-08-12T12:31:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/commvaults-metallic-saas-data-protection-now-available-in-the-microsoft-azure-marketplace-301110682.html"
     type: article
     provider:
-      name: The Trentonian
-      domain: trentonian.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 27
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/trentonian.com/content/tncms/assets/v3/editorial/0/bb/0bb12925-3cb7-5b42-a919-66ca7d5c7473/5f2aa9ff7a502.image.jpg?resize=400%2C275"
-        width: 400
-        height: 275
+      - url: "https://mma.prnewswire.com/media/1010127/Commvault_Metallic_Logo_RGB_Tagline_vertical_Logo.jpg?p=facebook"
+        width: 1500
+        height: 784
         isCached: true
   - title: "Parabole.ai announces the launch of TRAIN™ 3.0, the Automated Machine Teaching Platform on the Microsoft Azure Marketplace"
     excerpt: "Parabole.ai today announced that TRAIN™ 3.0, its MACHINE TEACHING PLATFORM is now available on the Azure Marketplace. Parabole's unique"
