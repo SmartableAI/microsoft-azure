@@ -71,20 +71,6 @@ related:
         isCached: true
   - title: "MSRCosmos Has Earned the SAP on Microsoft Azure Advanced Specialization Status"
     excerpt: "MSRCosmos ( today announced it has earned the SAP on Microsoft Azure advanced specialization, a validation of a"
-    publishedDateTime: 2020-08-03T14:45:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/msrcosmos-has-earned-the-sap-on-microsoft-azure-advanced-specialization-status-301103856.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 33
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "MSRCosmos Has Earned the SAP on Microsoft Azure Advanced Specialization Status"
-    excerpt: "MSRCosmos ( today announced it has earned the SAP on Microsoft Azure advanced specialization, a validation of a"
     publishedDateTime: 2020-08-04T00:15:00Z
     webUrl: "https://www.prnewswire.com/in/news-releases/msrcosmos-has-earned-the-sap-on-microsoft-azure-advanced-specialization-status-863201932.html"
     type: article
@@ -124,6 +110,15 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 17
+  - title: "MSRCosmos Has Earned the SAP on Microsoft Azure Advanced Specialization Status"
+    excerpt: "SEATTLE, Aug. 3, 2020 /PRNewswire/ -- MSRCosmos (www.msrcosmos.com), today announced it has earned the SAP on Microsoft Azure advanced specialization, a validation of a services partner's deep ..."
+    publishedDateTime: 2020-08-03T15:08:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20200803la79280/msrcosmos-has-earned-the-sap-on-microsoft-azure-advanced-specialization-status"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 13
 
 secured: "bv818Ea39g6zBpv1yYbajlrHGHgfkKgk0C9RJoKzUltG+FMipP2ErbFuJ42MlDGULc9PR/75pf3/SmEVX5sn3Pv1jfoLb5j30gdkbPuyCbLSTCAtY+GsHDql6kk7Ymu5i74ItlFODOey5GBhr49wdh4TwxFBJXpO3omE2lKQYhTrS/WmxHZKGLVdlIJUS/VpJtrcnGgexhGq+4uOiIdaeFT8Db7TdcBZWZdp7j2iyIjR8yAQyCvv+HPcyAjoDkchcgUpX7VvOSFormGvLb3ClWuUt+zbzkjehzfF8+yrK3AmFYlCAo/A4TLl9EMOBzYBqZlObthK+Yu87WPo+fqeJg==;/7JfLEuV53+bpkJvC6WNxQ=="
 ---

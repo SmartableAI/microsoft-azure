@@ -1,26 +1,20 @@
 ---
 category: news
 title: "MSRCosmos Has Earned the SAP on Microsoft Azure Advanced Specialization Status"
-excerpt: "MSRCosmos ( today announced it has earned the SAP on Microsoft Azure advanced specialization, a validation of a"
-publishedDateTime: 2020-08-03T14:45:00Z
-webUrl: "https://www.prnewswire.com/news-releases/msrcosmos-has-earned-the-sap-on-microsoft-azure-advanced-specialization-status-301103856.html"
+excerpt: "SEATTLE, Aug. 3, 2020 /PRNewswire/ -- MSRCosmos (www.msrcosmos.com), today announced it has earned the SAP on Microsoft Azure advanced specialization, a validation of a services partner's deep ..."
+publishedDateTime: 2020-08-03T15:08:00Z
+webUrl: "https://www.morningstar.com/news/pr-newswire/20200803la79280/msrcosmos-has-earned-the-sap-on-microsoft-azure-advanced-specialization-status"
 type: article
-quality: 33
+quality: 13
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Quisitive Has Earned the Modernization of Web Applications in Microsoft Azure Advanced Specialization"
@@ -121,6 +115,6 @@ related:
         height: 512
         isCached: true
 
-secured: "Wfdh6wtjx77ovVP/AHBRKhMraRSVwbpDzYpQvGJyGfq+yh1R3prFu9lFxXrCa2DzTltwQIq/oHu+SgSOsWOE2+RysvLyybxFz+ICZe75DgyB782UAhEKNXy+etabqBjwiCswWAHuiaWMp5icW8mgJHzNNRaf1eiV25nwkOgFXADOQEZDJ/bkf+s6aiyJEAkvKHl0gVyfxbAYHJbGu62CmeiwJBgXhJtDQK5Rh0M9gpIVUv24D670Bf0Rcv8Ah4R8d1LDRR/O7Qi8v8FUMizpV4NOhz7yJTF36LMqujIDXOgExUWo0iJ1grUNoOXxp4i8RZqdEaZVCYDqz1Di55X+lw==;rP4d6AekCYSFwvPgYmz/yA=="
+secured: "ctF3yUFSywHC96Bpeov7UyyiWAU+JJJLCEZK2oIYW0l7dPx5VxDb+WlXhVrdsrqgeg7eiTVx06hSxMkUI7ph1qHq83AFIRADYwlicZt5Ykf+NPl1cRwhgbsftAHiQERjHaLb5xX581vq/tZe7PBsEtL3XDMs/BMoFFzP6FbazK/61sAqsXtMa+k1s7wpyuIE9jjq4bvcUxMrNM/UaHGVPtHI+lmNiYIOkFa3oxdMXibbKrCW0U0Njre2TviMj9bEX6en5r7kVos4mNK5wB/P1PHvgRXA9/7NgWehihI8xc0LztX+n8hCALTrYiVAgcQXTbL9gN8V1LeaAZFrYtfDAg==;ri8haAdY8HR/NA+Zeu/m1Q=="
 ---
 
