@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "Community Brands Announces NetForum Enterprise Cloud, a New Version of NetForum Enterprise Built for Microsoft Azure Cloud Services"
+    excerpt: "\"The introduction of NetForum Enterprise Cloud offers customers the extended scalability and power of Microsoft Azure Cloud Services for serving the evolving needs of their constituents.\""
+    publishedDateTime: 2020-08-10T11:54:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/community-brands-announces-netforum-enterprise-cloud-a-new-version-of-netforum-enterprise-built-for-microsoft-azure-cloud-services-1029486826"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/community-brands-announces-netforum-enterprise-cloud-a-new-version-of-netforum-enterprise-built-for-microsoft-azure-cloud-services-1029486826"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/community-brands-announces-netforum-enterprise-cloud-a-new-version-of-netforum-enterprise-built-for-microsoft-azure-cloud-services-1029486826"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "SimCorp Offers ‘Dimension as a Service’ on Microsoft Azure"
     excerpt: "Scott Guthrie, executive vice president, Cloud + AI, Microsoft Corp adds: “By bringing SimCorp Dimension as a Service to Azure, institutional investors in the Financial Services Industry will better serve their customers. SimCorp and Microsoft will ..."
     publishedDateTime: 2020-08-12T18:09:00Z
@@ -55,15 +66,6 @@ related:
         width: 300
         height: 225
         isCached: true
-  - title: "Community Brands Announces NetForum Enterprise Cloud, a New Version of NetForum Enterprise Built for Microsoft Azure Cloud Services"
-    excerpt: "\"The introduction of NetForum Enterprise Cloud offers customers the extended scalability and power of Microsoft Azure Cloud Services for serving the evolving needs of their constituents.\""
-    publishedDateTime: 2020-08-10T11:54:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/community-brands-announces-netforum-enterprise-cloud-a-new-version-of-netforum-enterprise-built-for-microsoft/article_6c0d1bab-f5e2-5653-8aef-2b6ca9044394.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
   - title: "SimCorp completes next phase in cloud transformation, offering SimCorp Dimension as a Service, on Microsoft Azure"
     excerpt: "SimCorp, a leading provider of integrated, front-to-back, multi-asset investment management solutions and services to the world’s largest buy-side institutions, today announces a new integration of its front-to-back investment management platform,"
     publishedDateTime: 2020-08-12T11:41:00Z

@@ -3,15 +3,21 @@ category: news
 title: "Community Brands Announces NetForum Enterprise Cloud, a New Version of NetForum Enterprise Built for Microsoft Azure Cloud Services"
 excerpt: "\"The introduction of NetForum Enterprise Cloud offers customers the extended scalability and power of Microsoft Azure Cloud Services for serving the evolving needs of their constituents.\""
 publishedDateTime: 2020-08-10T11:54:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/community-brands-announces-netforum-enterprise-cloud-a-new-version-of-netforum-enterprise-built-for-microsoft/article_6c0d1bab-f5e2-5653-8aef-2b6ca9044394.html"
+webUrl: "https://markets.businessinsider.com/news/stocks/community-brands-announces-netforum-enterprise-cloud-a-new-version-of-netforum-enterprise-built-for-microsoft-azure-cloud-services-1029486826"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/community-brands-announces-netforum-enterprise-cloud-a-new-version-of-netforum-enterprise-built-for-microsoft-azure-cloud-services-1029486826"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/community-brands-announces-netforum-enterprise-cloud-a-new-version-of-netforum-enterprise-built-for-microsoft-azure-cloud-services-1029486826"
 type: article
-quality: 0
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
@@ -69,6 +75,6 @@ related:
       domain: bobsguide.com
     quality: 0
 
-secured: "Zup/hbKuM/UFsOrskJzQdgf+Pah5fR1lQV+FyoFx4wxDWQpAOxwzEnsS0sv77bcwREq8lDybzLqSlZdUorD5ix968H0TKvNwB8fgjgnSuHMNpgcGisOBhwFFJWP2gl6kpoFoSPpc6HGQIMRb2f7c0KChrkvSHyS32qJCSuETMh2R/Cwa44B4pb/vbkjLsZ24j9E5aIf+GEbp12gv4Zjh7Q59byehPJQGkhqU2TMUwBOso65oWi9sMt/cIQypT8H8LV0U/XoJc829gKFHQZxh58MR4XKsYiyO582v/0zogY+bhHGyOUWpd0l+AUtjLV7/xATSKklEzwzgSzjItvTBQA==;F9trAtazhSOzxJdBD74aiQ=="
+secured: "/omEoXg9hINJQ9IHC5ifLJFnLgd8NQlV/2vKo6XG7B+0uTTzOFkYPIYl+q96cLzM49/M8Xef2YKyl8w36YGeWjzLOrdTsFsJqW+UGXfP/lCejbaBaEdabLlwOgyCh6bGmQZUtLvFPcYJypY++Qo+ZnGBuFosku8j0u+GHjEaIgiPq8WgvlHKmIRVAKhpmAsXwaz7PA0a3+qfh99i/xNhWMjPRsgJpQx8EM6rnuBRo2TQH5mtdpo2Si/O6OC8/ZfJYGbt7GpLY/LUdc5rJk/RV4wGpNT2h3t5en2oY/Aj3vlPhsalJt9VayMzfZqgYjmorcGuzJWZ+bsyxFib7i6v7A==;2If6yCyr9yqYH1A5x+yX/Q=="
 ---
 
