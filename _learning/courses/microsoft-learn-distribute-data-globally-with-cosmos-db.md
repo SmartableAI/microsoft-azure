@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Distribute your data globally with Azure Cosmos DB"
 
-secured: "YukkdcknJNU3+Q+HvEYLsMfD/2zvCa/VR5+ocl06Oi0vKRTLghjPa8VTzAfXI3OcRjz8zHIjnqnxMpUEYKLz/pH5ibEdH+i2yXfutAIeGZ9Vsngm1/b3yN2egnbA41ISE4T+aI+LdKlNA66gGmHJyT2jlqDsdS0NPsm+Z5yFfkzoU5eWAvY06QimyBAyK0cEmZI8bDtHdCe0NX+LpURG5K3SlStN0y0Jtl1so3dVkqKDirddYWbMFvNB4L+uSzUiq2O2+UjnNC5GohWwvbRyD2SAmrSJH0lH8O42ZbFd9/XZLoKCM78L4iEfUbr/bFUEWwL+cAWpWQyV04pzdxIAZS1nWB/9JhjMEKbI4qJnB9+7eSHf9UXaJEMfChhpS/stB1ueyp8+0TztLPwcmelf/Q==;TMvX44lUQ3KOh73vXaN4iw=="
+secured: "QUw7jPuWxLsYchle1WXZUBuhxemFoyrigAjC6LIHN3RdcivDU4LLnQcsYXZZ2gSR2uLrOujX1N6jEjHilv4+ZiZ2wFKPhdf+3kfH/jiKoPT9mW6r8SL2uz7AuqHLiyQbQLlcrp+LrNpmLLu73i+ed/P8GCYd7kG0zTFZzfHk3s+I9k3x/cn9DJAl0WfPSvTIZ49iVw69D1W3/BikFSERMTY/Mb1Yy6h4gsz+9/jZw6R/mMmisq0TKj/Ss6rcVHsvLkVcTFHlfsoDZ2BVsor+B1bKmoXt80R2/a9t4WIRqG8hyQv9OWAKPyL9mthcp7T8P1b8jkBSXsxiK52/+JYCwtUgo5YkQpfiDhEvRC1AyKQbCipb1mB3C/GV43AdFoo9Lz/Y/3PqRlL940glB/h/+w==;Q2wuAT+SbGpWYYQbpJJM1w=="
 ---
 

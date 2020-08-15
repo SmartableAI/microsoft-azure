@@ -8,7 +8,7 @@ length: PT40M
 ratings:
   count: 151
   average: 4.602649
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Choose the correct HDInsight Configuration to build open-source analytics solutions"
 
-secured: "f2ArMt4ir6r/rGl6SJF3yPPKPlIeLnvG6qYLogUOWqSd0iI4Nb1nGGUQqhpt+5w3w0izUadHkwCQ/px30PaKp56Yevo26NxG+s3PjFzXYrHz6oTDLCtem0j5xAblqlkjY1CnVxmpRVNviNC1oq8iRKM4POdWkEl53jg4o2VXPcGP/KaYz8t0qOGXpSjlmyqcfU0ioVA3prVusEAEGHc56U6WtWFjHcjJV4iSezwwBknlH99NMrCfz/NFzj+XSrhd6snXDPzrGuopV/vOjuCj/AO7ruUxZcE9ewkz4ykHwVsIp/C2GiTs0vUheqLihFPRdEnvIy0UDvdO2vBXCX4+aG0X8dBk3hzCcH5Jyc156on37lYXfEJULHkth2YBZONLQn+1hB36alyJf4GiTe0DhQ==;SJZle2Hi2MIv4faZl+W2jg=="
+secured: "jMtMODLsVF60hjL8Dmm2iwrdG60LtcBkEJDMqeWBKKXpnDy+j2qp6LFt5dujIWBXfKK2vu0Re+RX2/xxXpyBJmu2rzBq+CSl+IcSKqF2poD+sVAl2Fv6i1Dg+uL3U8ecm0dIuAeaTC3S6WpT8IJ8oIfz2a1ktAN1TgA8kZBhnYdr0L8rlP0YZ6G0BHtf1S++QbL3US+qrQK8jFHJWGBTffIsioYAy+l7yU1LR8gc+2G1quaW29zTcdFj/6D78oAmI99XQFnWAfNeremJZRY10+nRkLsMv2tNU0H1UQojiISyYRgI2mmNdBtzHSgBQUQlm3Mb/JOnxpKGPwtOedrYirzYB7yBGCnPazKP4iMVCeuwEjV+6M7stbjrSEk4DK1gZJYJN7ntsxVvoOQANIMijw==;IjsyY4r7bNyyHLXUrLVMkw=="
 ---
 

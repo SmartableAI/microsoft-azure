@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 31 mins
 ratings:
-  count: 397
-  average: 4.6876574
+  count: 398
+  average: 4.68593
 heat: 51
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Introduction to Azure IoT"
 
-secured: "+U7rLlO8Rtpp1+9o3vCh+EALfNEXAR4A6F6WYpTHTGxbZ3/Fr0L9DrdUnek+sSRag2kB4D3DzQVStwmPdsvnDVXN38qURDhxp/i6ptRmm+NPCG18ec3UGNCGZzlg7FDWtzj3rd3LIVC3sCbuXV1CkXhvqrO7JvEaiq19nzR3YonV+elwV5nrgULMcEhVhmkETohxB9DU3Q03Pt5rq/z+IL2n6lL4Gc7OhrW6owDFTP6DawIe68F1yDkAEtPq6mKyy75aJ2/1TusZh9GSLFAoaSSYPYmlKONkbk2WfjVUbkBlk2zqndA6RpTzGuO4mRJtO3O87C3CAshOhLu7YsD/mvzEIdbbC+0cSidHK+QL6Z2VSn0ry22+pLD+bMgk7rOtJWiUlwVt/m7AVlBd2iB05g==;6HAbpGzPtxLO1FFbvhy4hQ=="
+secured: "JBMb+DN/wG8Dmr+0QcGvwaoWCmbxvzZiiAm7IB7G9j3OlTvq967zSx2pIONHDPWc8H3zqvkSXQ+76PUEYdSu0lRdrztVDgml9tx8OfPQSnRqS9IpFiYHZm5JJNppoh8L/2OhhQuzSIEocHXBMbW0Rjehel3L1miu7JMZKUqXIjcNReFDtJZM3Kmq/e3e/jUpvBkcQXm8A8O80+W90x8aFdU9oWyWOkkfDXIuORD+N1vj48VC4gNMakVs2ykaLj4+sPF5NilK/LUsoWtnIYijQY0Aefu8sK2b/ALSyTh8hLypsXkUhg9TIQNglO8wmlRY95i6hPqg/A9PVKq6kFbxR4PTN8luowzuce9kQtWgMLyjzmEQAAmeOCZ2aPjhGCLejrGf6UNEYQFdFM+Dw+mceQ==;/+jX5UmcVMer2lFIIi6ksg=="
 ---
 

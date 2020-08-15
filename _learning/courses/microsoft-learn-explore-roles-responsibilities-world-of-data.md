@@ -8,7 +8,7 @@ length: PT17M
 ratings:
   count: 311
   average: 4.8102894
-heat: 56
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Explore roles and responsibilities in the world of data"
 
-secured: "wkh7vNPcFokyodJyzIgXIj9cpqxZLP18zw2SCie/ktUjt9i2+IgvG8iltz+DDOExfkWpoOsph0N1tNCTczm0Wde+eNetBskwJOaGpaPI+Rw9e7c0HNa9t0qXFcnYQ8zHGLyOjZqm6SWO+YvKChj1d5AxnvjIXhnxmc2zZpz5Qhxf+yffbKCKg3o5TpgpJcqHmFAI1hLVVTqRGhCmwwyFQ0IBOMsNkLe1CDp/BbC4BTPhupyDjT/k6K1MOn+m78+EpzZsgZyHm11Lu7bXBBeIcX9cmmhA71oFwPCCAzrhLvo86lDZjaj8kDAwWcbj5j4r27iLWrT7gGFcYT4wq4mLIy9MDZ2rkFmKy5cRHW+2BtE1VDkJwig79wjab9Q5P2x2jEjMKVB+T4xUnLe6fmplWw==;q+fnxh2OXFcXGGXXg/nVEA=="
+secured: "+5RzJpjzoo4NQN0S+RlxmBDitusu6wJsx4+4ORtz5yKtBnWR4MhbDK15X9g+X9Xbzhb9mq3EAFWbbBXv+CC4cX1at1Xk3fq57+QPvj2BCSPm6b5QuJcRISc4qGMtCBIMM3PcOkJCUaFEENHjk8P5XmL9NSCAYpPPHzujTnoFvTb1//QwLndbwgSLUaE9Z4V5nVKFup4eO9hDLMOwaxmprQU7TlUaoI0aeQNc6oa2/3YULTm2Ir5a/Bsmgty8DDH/HGAxayFJ55CvknB6wnarpnvpGYkTmnp74GHjz17oz6Pwerr9pcJ4KWCT69g48tWf5iWGPFSZvylkV6nK9Zlo8Ap4Xb/RluKlu2ItcI5eNeZFS3fzK/Rzh5FjY9EdUX891UbSkBYRMYHYHdHfCDUPHQ==;E3orGxJ5tE5oVbSH62wH9A=="
 ---
 

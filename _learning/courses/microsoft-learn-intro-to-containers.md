@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Build a containerized web application with Docker"
 
-secured: "6/hSG9pJBdcTFVBhetF2MqFm7zZXV5orOUSU5K0uPCgG12h02Avtt3mgWWlcC3tSXBbT1PSLO3XG4EmA+NXkvhJ1+TguPHy5WQNSUSfcbrZ5JRBkuwZmJ5aR33qwbVXzOJ8hrZbgjm5uM/+cxsKG1DDIxMQOwxoXUQD4Q6H3AGDQC2rogClrC/n52ndFyzns+OZbCHjYSB0xYLzJPvnsipu7myQNTFUwLFWFoHaM1pHMheDv3VWqsWsz3368l6bj5MKfnqBGn7c+oRtsNFj/Cm/SWzcDG5NCfjM5OBnHrdouU5Li3/zwmzZJFCKVyVGiK3x2EYjVPZPhn3npCe6KR7FQd6DxdXad1+fL8LPy0SfDBfc+32UC/hvxJmaRwHuzYIRN+3/kf2cd+SqQwaa4Qw==;ldvI0c8JesvzTm/R9TqAVQ=="
+secured: "oWgbABQtYfFZRN6+73bzHvbi/LMf/aYWqMZWVuLgiom+HtvrmWAhR7BCl0LKSmGazAwW38vzjrI3aMngtLa1ly+gCwSgfl4da0iARAxrk75IPH4/t3YqhJ/PHRcotd8zax3SuqcXXROl4RUqO0bJihdo1z0Hu/pkJ74hHGTP+7kWrThRtjab0RAQ1HPATJiFSHIQNQYhzTe1hpQDtnBhtr0gKtxNoknV8wC4wfpLwrW2wb9uR0JFbnTQcZFJgmU/uYzxpt0eHGwaU7UU2JnWD2MmlsxvrnVPxV+ER6/EAtNkx32zaBM8NT/5sTlvyUoKA2JMiwplv//7TAfe9wm/jSPmlWzMTb45Vg+XMmd8WSabmPtrRMAC2NNppY2HsWo2Tn47Kao3Mna7kdP295JK+Q==;tynPsP54cqfoY1A49ltZZQ=="
 ---
 

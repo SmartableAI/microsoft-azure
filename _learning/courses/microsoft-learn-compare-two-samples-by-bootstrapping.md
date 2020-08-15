@@ -8,7 +8,7 @@ length: PT1H24M
 ratings:
   count: 31
   average: 4.7419353
-heat: 53
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Compare two samples by bootstrapping"
 
-secured: "MS2PGv0Z4dO1mXZAhRscjLDxZow1mmaG3pFb0LoUmcp5YndyxwT6H5k6n7wqjSF1/oUrwR5PFDOGZyCevN7sObrQjWCB7M/CmDvWRhvPPIXzjQ0uFx5yFtgbevL9tUdAdisR+wcnGGDc4lWgEp9ZK8eMIHu3cFqFGMbEK7GZK1Y84ASxUsN6Rhlvx56se2KvYeIejmuwRz+DZ8Vv8Du6X1CM12IkQT9sp+9Qz7TZrfYbBhUI7UyXFYF+XgvrS1P+POnjMszcttWY/Ho5a8iUKnhgvheo1+759ny/MHC2YGujZE24S3YGGpRqpX7bcSTntcd1/+s1iE39Dvhfpl3zPbVY6eMwbEzNE2aHnGiXkBaOS1Tu7ubp/ljLzBQJ97XqJOWVkR7Gq9qL3FWfIJU3ew==;5t26NduxdyqKk51H0EL9Vw=="
+secured: "VlKdQvP+9vcfDWTTz69m6DiAJ5JADEf/KkPzNwHqHm1uhDwAsVqLpiykFB5b+H15vn5S4nGRZfTPaTKDX1xIqiPtEWdHfBxKMVI+YBe3peDRDYuqb8smT2MnUimigHAJo9D5o+j/sXQTl9GPLRDVwi15QkwVfl14AEMHF5hYEKCR6/Rv1Pi/xBHkQ5YeJNUn2S3mUS2HKQGMygwWMfzw7+sbRVXSLlEhfB62IJoO2HrLUfTxjDXe1LyJtPZarpeysYlX3PA2ymCh5ZYoUkS/i/MCg4tz/dfco0rsO7LbPJzLQJyMPH3NJuZfNwZdJcxBliDc5t0WAuEOG6+4+fJbQIN8Fz0/aUkwwt/3Mfc9qpRPPUXHnXDJtc60HB+Ii9vt+F/mr5FH/UgYVpeCeglSsQ==;qq7NZ9PZZOUYfCRnxbDUQQ=="
 ---
 

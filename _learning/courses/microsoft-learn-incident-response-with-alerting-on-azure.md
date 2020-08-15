@@ -8,7 +8,7 @@ length: 53 mins
 ratings:
   count: 1406
   average: 4.64367
-heat: 57
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Improve incident response with alerting on Azure"
 
-secured: "1M6vf0EXjDD7dwzm/CWndJIDJ1QzbD14tjeOQWdYw+U0lm8UKlIDPiSR+Db6LSXDhM3RgHWNV1Z5vEVJxeRDw05ZSnI/FzmV3AvdK4rNrhjgAQuHY3wI46gmUkmHqCBKjAGBfYm7TflkoZr4Fq6CS8grwBc9UKWYJBGbbc41XdORGC5NJlzj0QCJ6jY5ZQB7sBHyJYl011Yt3CNM/XNdoQFFvJc4ircNdR2hxF0pxnA5jSb/JktCP3rRJUfktp/XoFTDZm8CzhModo7kT3oIDeMK7o5B1kzTMdHttycLh+Rm1hqfXF/iWBn7Trc5ACojD7rvV7XAFLLbyQr9wKT66stqg+BNFeV7sy2TCB8mMDNZ2onSvFHoXUh+DGxzsjdx0rXMey+XmKQzcSn1z2YDEg==;YKl26eBjRc6KmsYcSnPHFQ=="
+secured: "bKO5SKXYnwNMGvxL/8HSHYw379r8PBnJ/BP3pz1tAF02ZWWFRPH7t8L/6Vnb1XOPfY0U+VG2rmlHVYeLMEhHyHbGG7e1eTmzbZQL1+WIaci4BUNxv4rPo+xYpvTu+Qh8zHO1e755F59U/U1UgHDM7pU9Cb7s6NSuvgv94MsGbvki8Xvn5Czh8qjyDIIMQumdrBGXhJ3MH6PO/ri0GfsS/QJHkZOZJcO1RdBwUdV6ZT7tpiSprexIC+3rZLNftk8jDBQjmEqAgXjvFQY//6vgyAuHmU+9ZIMYj4uL+9kOAZC3HpVByPzPHq/xH2/rJYlcykZcK6B5tFaHTzNjohiZNFibQOBNl/rfGsjoNTH24sc0ocUUu8kgrY3AHPrB/UOFxhdPnHVsxxD43WaSQPfWRA==;E+2x5e8HxeDgYeNTCJ6HgQ=="
 ---
 

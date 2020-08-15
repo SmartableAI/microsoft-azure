@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 57 mins
 ratings:
-  count: 1303
-  average: 4.578665
+  count: 1304
+  average: 4.5789876
 heat: 55
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Build a scalable application with virtual machine scale sets"
 
-secured: "v86GWsGFU2KbGxxqPJygCnz2DuWsNNitJT6O5YdA4G0qYATpxiQBdcHoe+Jc6d0z1N+gCyGKNa8HtBbhs0f38XKTGDxWxrh8z0IsDPhbgu6RSn3Cdy5ewlnSIdh+i7D55/XNJO01RJubZ7jtQP/aElu9Z8LMTNue2t5p9roiV+/AmfqqrR2z1yA9NawMiQyKiKhmPXtm9NjiS0YxS2dhNbd9i+wqinr764uKMU0b3M4NrQrBJSLqeGrrTL5N+qFgD7UydNjnnsvQXgCyzTwsrnD5Q6p501QcvcBK84g+Rg2imGEc/Aj1psUNMzKW5O9LhryZvqcat8ek4UBcjz1scG2IrWlzIZx6m4Ej9oz5ezmLBEdIC88pOdWckLzSUIKtqUsJPsLPN48KOxjDtI05qA==;ApwItWf/PlWtbACt9AFeEQ=="
+secured: "hAGvddJQf18pXwN37sx1VQn7s2K5rZwpR61JFZlkLa8zrSc2GrsEz3Mh/LOcaat3AslhRZdnSb3ohwh45AM6ri2dlwtN3GuYUFjB6ZvuEm4UWjJ1OoObNAckTrzah5acQ5ewnUaM+9UKRiXQ0GUi3WlDAwvR7a2cLphWULX1Vj0X/LBO7aZZVa8AYYyBOEiyS44uWMUZ7k6jx3A3vn9gAqBUxvtR8TDffhj69J+wWrhINrGIrdOPMm5rZp2J86GDU94A/sjxbrBuADQUry8WT/8VdMN5+2jz8B2ajTCebDWZkqSV1axatT/el0Bb4l4GkUmtYnT929bk8OX5j4MmN92Rvn/PrEOzwXwttR2p6DzbVmcCcU68ZVkQIhasYm/NqEczY9h6f8hvzKDQE4Ngkw==;thXL6KdRg5iK84dLy+WCXw=="
 ---
 

@@ -8,7 +8,7 @@ length: 28 mins
 ratings:
   count: 179
   average: 4.7597766
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Analyze images with the Computer Vision service"
 
-secured: "kKkEkYYKVn1ZOp8g4x1A1TJ3Jp/nPsZL5cxdofAoP+kdJ5JxkQ4mz4IGO8SmcbvxBAMBf6ZShGGT+rgLhHOFa68mbHkMQ4GAjs1azR7BgaAkj8cqSkYso5LCq87/LQJ4aZV/l/Uv75d4DTiZHkL8dk5LD9r9Dye5FQbmdSybMLkB9m+JRZBxhoQy0bPO8qCDOr0YI9i5RhMOvlgihdZoWsUeeIOlePdRKMstKdXhR1BwK7t2G+0BLZMbAWsv53MZ1BgZWsPczmBk2kD0KEHaqKqx0CmjwufpPystjxzwHDXexH9OiowBnKvSGGqeBqH5uBF3Nl7DLNPIys0xT/MsXtZgacJBeLYhX0oTc2NTLRMpzqYNo0Y0w9U0v9Kt4M0V7ABhSCP6oYhhVeT1zYzbKA==;RrP8GP97GB7PnmMihG6GNA=="
+secured: "BibiRELpUb5hvqkDf8eKoVyMjwj48umhXHB7H4hEtHz/+jBIf3A9x10vUydiJB0lNKhR9yQcoACiG1n36kj9WW9OETdpkPPawtYBxkaUB/RFvs2ok0ne8VxWQxFLDgmy1wZmbDHW2a1OU43wV8bm5JQGddP3U+p3LaIE7dv1jXsXCPH1f3mDI/7vwxtKl6Do4OejKweb4zosgHqBE/dc33pv0rczWosu78M+wNfqk2VVajFWHk4OgsoEsc72alqSB52seKlTlSxif5D4Ni0EfC0UuP5DuO2Duv4Mf3NlHPoF12yX67mEEa0jWgjDsrb3cpJ1vD+eMYXqmBzLVmmtRcCsdVmDfXWZaKaUNSFRphy1qkF4BNv0MiRJZGNABE5CsH1Ldb9KMpinVG9PX7y35w==;zu7C0cznecoqYvlEZ87Cpw=="
 ---
 

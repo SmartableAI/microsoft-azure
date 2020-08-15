@@ -8,7 +8,7 @@ length: 54 mins
 ratings:
   count: 1788
   average: 4.647651
-heat: 54
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Implement message-based communication workflows with Azure Service Bus"
 
-secured: "jK0nJp2bSwSq4qjySZ0eEj7qKNOEryFHd9i3/yWaaKVxhvIM0xg56GcrJaCnZ8TEGc1QUw78BF1tfFyB/TtqfTgFGP0Xfuvon1Wgz3YbMi4YUB5GK+HO5WAjGCd+7jt+yzREcrUU6ksqoCheccSbUG+2MM1IXScfB5enHEtf16U4GFVGz0QJkKRzZkNpyMCzLOd/0va8epxAb5hACCwZVgifeIVPMReS/JvPxi1XXEVVLTQH5zgyWkAL10uJpOSs7oIoOOOKYv2560ELiaVDVadbcqhuHnFf2nr5CmgctZTf6ZbJ6nRTKw2ECUdNiJiOlJ4rQ1cypGjl69Zq107y2nOu1bfZmKTGjlHAB6RFIW6Qz6pHV/VnqhYIVfU94WT6JtJ6C4KTgAdMNVFqfQGEDQ==;QkMJyMrdKJ59xJwgQbRQnw=="
+secured: "BZF/iVMXhMOi94OWjKm1vp8nF78iT4k3FtRERt5TJgPtC3kGoTIktz+xJF8IOXwBRh7nXPtuL2l5gODYlVg1xB2Uz+wEp+5pnnhj+Rl0enG3CxlCLzUfdu7rul4cKG+cZbl/X2ff6760eVDXl7FWCbM8oJpm0yJgz+Zj5vQb42x21OHF2jqoctonPyp9C+Jy4r5Kv7PuI1d/eqs2KCQQCi1yguuafT3jWW9NgA4aNV3jEA+N5AtcJFj6QwCiklDmOJ5uGxK/DEusGnjgcRJe46R2ppjDSH8ct0Qti4upzrUXqP8UMloTkBgL/ztXbFjmqNKP85lQX4yjx0uMpodKieiu4ICBWugVcnaeKdkyAVdov7rLp98lw22SQ1GmsXKn93S0xStIIRE1vEnoBXaerQ==;rL5kvJetzYbiTvPVDt5eEA=="
 ---
 

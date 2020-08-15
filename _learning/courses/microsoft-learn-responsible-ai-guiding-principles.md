@@ -8,7 +8,7 @@ length: 56 mins
 ratings:
   count: 673
   average: 4.716196
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Identify guiding principles for responsible AI"
 
-secured: "GMg+2XvEKb3pSmPzDWfsqiwa4mq4K5XShsteUo8uCA11Vqv4arVFSLnBJLRUW/0yLYCDoQxD4dnxqCQNELrIoYibb9BSNdLKx9NTO+AZKGSvq5X23daatDpDg+n+GzXe+3x/hG4lJIg34mDEVxDJFF/ggCCvmII5eNCFYucxiLoXJuJgTdSpK5cH5KzU/0oWv+M8YT9c9UF7CST258mZvFAC62Iu0L4A6rZmG4PZGli4f160ZvZ24ZZm3niHd0wp6wRYpEardyfsvaX2ixYo/bqyWby7Iibt3zelqCq7y/DhwzAja0MHNm2xjGbUsMQ4d9i36Tl4AR5IaNUuqjnHW2GTFjIRjLbFe2axjk+/VLYeFDY2sayHMictS24W9nIgZdFh14/elPYBvdIvrA/JFg==;kjuXTIv70dls48uj0gnXGA=="
+secured: "5pf6uEjAqk2Cx95Lo+fv9c5RZLmNpsaN1qvWO7pqHz0VKxld840SlNlGCJWEqxmzpjy+73O9zVVFFWmW+uIn+szHReUkNOS2jQsT8gI7KLa+dvvgEeW5Oq2ZDlpLkYpyNGro4ou1Eya4nhaIw1mD15Vx3b+jDasaVIK121JYrNplN+niIydVHAsKW77um1I9iJ09Xo7uaRCF2MNyx2Fvx1HzOY3pJ0Ue5FHxZsnfzFSUGeXxH2sP0xfFAvvUYWlQYwY91QG2Y+Xv70Y9goqVgXMvIMPbWGoSMW040IR80PTqCjj4THnTYKs7Hluu3lbNiMhL5EzxKzmby8kF/BtY6FtEs2fah3tysITFS6m6A/sY2Svxj/afPEZb+Ug2bxr9b6o/dJAo2xuZoGiv6hUCgQ==;+wIx0K0UdReULHg/H/440w=="
 ---
 

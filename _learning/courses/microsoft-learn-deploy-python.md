@@ -8,7 +8,7 @@ length: PT46M
 ratings:
   count: 11
   average: 4.6363635
-heat: 110
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Automate Python deployments with Azure Pipelines"
 
-secured: "QhMvPZCNhtSchZyzRjxtmHmOYhFDFC5Wpc3/8W3BPziKRQNA6Nl+aFg0Pa08Mj1+5iNEiQ9noNX3Mgrt40nOiuGMFMp8rj3ULOQK5BVLmXj8EKghxlcomfYsOLfJLbK+zDOS6T3XP+zChdRqDj7WYwVbymh3K92AnEqINFjuMqQFAoArAZbdO0MpjK5j1QJp+gxvXxUM/liGeI2W+jRzTkCN+t1//HmxLfFb66JqeeqYqi/NipFeCOjhilNotwRQFS+aXaTV3Vt8c9aZH0LrAl/Y+SYQAlXr2fkBOS/x/aps8LKYcBJLbF1VgnuhrQH/YOqXCH9FOERMqLEfviaGEnY+Mu1a0kllHGdk3v7A59BYzF95z1WoyEWTbj9TEFQN5SviUXlLQ3ZG3GqfzBSfag==;oIZkwTKKrFYKZGZZragkIQ=="
+secured: "8Q/m1jOFeIjSLoCJHS7Iv1kB75ZNHLbacel2wYC/9hB40UzTsQrKMHGbcK8XLjJVojrcsJcHyKJ9qnWTulbW2KUsm524tYjutjfhKwQ+9mQFzGeTEnnq1oRWWNtoSGfsSlAgdNc8cpER8zefIFqlqcYXjU7F0YFYAduTpM1PHtuxxOhcPRldCV79xqM7Y9wSf7j7Ld1P5/id+6Y9R0fzB8Xn/It6sutjQEaZsgWjsS0PsLIP+j2cB/xSPB+9EjU+lPcAOZLuTtsr3UHitdI4xqCYIxMMgWltfjk3pIWPYEQIMhGgvKDAzj0d6TesCcBezq6Px4BVADbptOkOI9bc8HITbL3A7j+0sG/gyOsM4iQfxPN3GV7HcrS8F0WOb8X1g/rdByN+isbqmJFQSwu9GQ==;k3h6fZ0s9tzuTQ4AhZzUOw=="
 ---
 

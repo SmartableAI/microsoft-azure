@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 22 mins
 ratings:
-  count: 344
-  average: 4.712209
-heat: 57
+  count: 345
+  average: 4.7130437
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Analyze DevOps Continuous Planning and Continuous Integration"
 
-secured: "uIpj3K0n7vyxxxokuStYt2BWXppHXmmqD2CWydGVPrJaef26VJAFL35yQRPr1mDMjbYtYORT6Gf1MVeNYuaS6cbcIsDXhX9ddp4bObqcXUhwvbydnSnZoAGhDMlasa00vHBZVscCawLwBLrqI59ypXQHiTf+NW1iBXBVw7ToQth04Uz7TokRTPSU5Aepbc9mqjQzZigGQhW5yAk97mGheZFMkCfp+P8LUHGygF5gY+A9O9lh9CR/8AL0tFaa+k0uA2kBJmDdn/aeAtLhcqvPZO/+I+HkM88hy54zZky6AlTQwpNOxRGx/5C8cQySTx3JOJYGPP1svytetj9iZrEn17QqhKzCT+VELed0BBu9+BgNEXfdEbcCX0UgmmBpzGIjOzjK7Q3RfULoQsT0h/fT2g==;+RvC9pMt983ltsGG66rQHw=="
+secured: "tJc7e2IjQ5VJGb4DgcTMV5zfNyHoGa1G3Z21ptqPiU+30pLz7PtWRjk7e6YTZZnvAe+6Wvgyl+IcQ9DTK8b54Ty8Fsdd15GRdGHY93qnKexzH1ERklQyxZlr8I6Ihv35fgO9vBIuHjF1qfxU+A/oqShF4sL37RWQfwUTAwxZWzb5gOSk8rnLMEJLhudFYmbk4vJU0CwUYqt6Z+3imdCTs9Oi+Fuur8l95IOOFQPSlMP8tR/jHCKvXa0tSSKx62duFG7cyDREZyfmAbuCgBUAriRTU0OVpUT+532xbq41YzaoFzeMd8LJBaW4IBsLA7tXqn2WIERjXBw9zsoARscJ7up9aTCuAqXELpS1vLoklGuKMMs/6hrwAzqjODFJSONCmhsUmb2ZZ6o6W/jonDjpgw==;nfkhKFSLJg6TF2u6viCIkQ=="
 ---
 
