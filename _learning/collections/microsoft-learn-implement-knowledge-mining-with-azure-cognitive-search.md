@@ -4,7 +4,7 @@ excerpt: "Do you have information locked up in structured and unstructured data 
 type: collection
 price: Free
 length: PT2H35M
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
