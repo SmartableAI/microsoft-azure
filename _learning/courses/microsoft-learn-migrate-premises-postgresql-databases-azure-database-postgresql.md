@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Migrate on-premises PostgreSQL databases to Azure Database for PostgreSQL"
 
-secured: "B/p0NaDs5RiTXSvdf3kWRQRorD7alymDo6xN3L1U4UABeM1OBl/O0ZNJJVP6pAadycej4HvZDKNHoyqanN45Le6ms222DpLOLL4ubp9wBztei0hgWIoH8yms1wWmwOBpm+dKBCsg9QUtu3afniGmmhEr2jAeBZv78xJ+2lT2K34t73/klEWlX63L0qa2GzZfN7ma7cK7QqRiyTWitoGGRWC/jVI0Tk/5MFwDNIm98FYoMWxxC4ZZQgOU1vK489Qn9zJXh4UY+bcnt3KRVjBNuVKfNTpU8dKXxsZrPm+jy67+WW3G47Wmuh3UVScTqhiM9jIygXMTE0W+ubapq0A02NmAb9yOarMLvcxwp+PwBKDvjv31/xmqgPe2Fs1WR/E2HFEZKkezYUJyN5HH/U2dfw==;jGyPAYgOfZiC19J2aOQqpQ=="
+secured: "5sxD4zPlcW7XuHPZ8hGBcYkrUkPiTTtn+TNKJzrj8sPrtclPDqtPLY8sK4wkKOQ+Yah/0UqqksuZB+8eJCWZ3Ucv41L6qFW4a+h5vKo5e2nsk2Wjq2jgjDptZVfmuU2Gois6M6ui2eIMF7k2KY+blWmQjvicMqaavmesQn0Hpq8wfIclh8Hw2EW9LnQ7GX/7czOLdKuoA+ffgT6HujhyeLio7L55v/quCtlQJN1Kf+bPqNvweWNk5/i0K//Kqaa5ZvokL47mI17s5gL6CuVn94cWK2WfKqDFXsojM+auu1txI33FdMHYJxczlTos9ZAe+RN819a6XHuYx4lyzIiuzfhXePV3oNmrHkYOKvQO9Gtmh4iSTotomcH+t8N0T9HBqM4bMI6ZMRce/JXR0DCmmQ==;HxyQuZeJJnKdyVT5sHeGyQ=="
 ---
 

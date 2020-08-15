@@ -8,7 +8,7 @@ length: PT32M
 ratings:
   count: 23
   average: 3.7826087
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Classify endangered bird species with Custom Vision"
 
-secured: "HS3woAEddjZOxhYcFq6uBapO3KWpBHwlMbdBUvcvvHIfIDB2GvYy91uAobSx/GFd2JxYJcpyE673h0CAi2iZEA+67y5cm5Of4qUNXGOI/mZ/D2c4WUDoxh0lgIs1+oRFZytberaSYuHowjMmxKq674ZitboFLTPNZOyybnmc4lf+fojpSWoPZiCnoV/UiWETHPlIg0436qKRDBVJ/+uHwzGAqWGvxpaolUxSX26YyBPUJhuPUh04oDXoKUl42pXfsavIiDdb+fZzj7KLBz1/iQhoPHCpicydspQWxcj442ATyMcT9O68IKcXipgfEtq7/NXoMifMCJzm5YJVcHyf+1fwqxSjm/iMAp4A8cbGnx6G6jESXoWx/pkOg7tdsOf5JJDFeYkuoGXbBrlUnNSedg==;6yYQ6CMSVE+DyKeztKOQAA=="
+secured: "1kmShmws/m0fFD02oqK/hqC+SXF3jjF5qmsc2fNg1EQkE6XPX7XtMR3fse0bkPqqb3ahJJ4Bu7ZPH8/f01n7wbpCxhovblLSp7Qqr7dfBI0CarLygfYOJCgtRCYJGzQ6HFIM9frEjdyZ3cPfHKJMX8pRPH5mGQUiakGjUKdPPTLZ4BJQ/OqyWWbIxF0WerSYEwtERJtccfKceEiLkbRhwyIAKoVsntthX+iE4qBv+FdVWOBP7DPQp01S8NIu6aFPRCuk6BuvKPuyXeqD5zK+CY0HuS7IIJuKyTmG7VsUW4BaKB2xy4d2pR08O8KVAGuOfnNHXZk82hnyDJlAeRVNXG0uOeDSccEboXkI6FIa6U1yQbiENgT7ugGYHAKrwPHIm5EcDfWgVM/UQYHrUeW7PQ==;n5ys9Itlcrat345rYsyLdw=="
 ---
 

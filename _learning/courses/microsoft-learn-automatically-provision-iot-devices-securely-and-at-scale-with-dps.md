@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Automatically provision IoT devices securely and at scale with the Device Provisioning Service"
 
-secured: "W8gDpb5Z5D5albRpU9vgbBG0inJXrNPH6DQPpG+EE+Z3z2yV/3bIL/FotnVtSt/Ns/JUEq599KHcAURZ6U58oxt8RH0ejQUN+Vbbskb5XkM3VvKi1qmNY9gQJdqRymoOYIXONG3ez5akhgDCEpvFQlJoNEI0ViQf50kILkC9UqY441BEsAv0+OBjVuOpwZqp2nLRlYXX8zU8sMSj8rD8tqcYmqVmbMWAiJXm4okODHXW3bBtiP/zRThbE/Z3muee8SGssD7tenyHCVBxeI1fjVZmd2th+B0MRvnQPn9O8023ir1h7WW/DLpduvYym7K7BlBOkbQTpoB9i83jnJH9W989m2fk8BSObrdQpPEILlr/SgmpGDDKme3QHbM5k7fsYnJ2LQSZ48tqXz7lmR6YoA==;11CUUuOch7Jz2CSZskqLKA=="
+secured: "yvjl4r9PKjnEvYbKIeD5IxYypctpRbQ5/nhQajZpOEhqtl43eGPSHKepLBrfHo8/efaUj0BDFLsky3jpfvB5i6F2/Y4zaK6ntDb4Y+eP8u6XyYYGiMcyAQOtmujB+2J5kTA9w+k7rIU9snUzO+rQcLEbZX7nDawc0dN3hXt+JYTvY09VMa7+hGJB3kqEgyC+XnfhiwPSAsDEtFooWYDiHsmsBdHV+vi+FbLMN6Istpr9aQHZasuPbnv/PUfZ9tRF8ghijjUsi9A06aMqhcTgrEh5Ty1uNRsCLoaXjMJdo5sI/KuB92zuDs/UUg7zoBnM9CBn4BfSbVprKNnMcMSp61Nk+Cstxh/XbESH1KTgXeO38ArX/Bcth+AOkE4fBxmeCIR8/ri+YTX2P+smkcmghA==;Ip/xxWJpZe31aWgprirmGA=="
 ---
 
