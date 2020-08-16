@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 50 mins
 ratings:
-  count: 1477
-  average: 4.5985103
-heat: 54
+  count: 1478
+  average: 4.5981054
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Upload data to Azure Data Lake Storage"
 
-secured: "9uqY3qnjijGO0/iTpn+loxTKL8jkH4Xhzt46LribKz0Z3175j6XRJeqR2Z2/OthLhReMfS9hxBNeuYPwPbYtALUldziUWFbCit3wj7W0qiftRyNBZdZsOoCRkuPcI/Uwd/pl6CWoYojtFl6EYFFzXQ3+w0TJwPswQm10o/dhLBKsLg6IQ3vCgGPPXH84uqRowQY4u6/Kld6i5c3wt+Ib2/QRHp8d1hBKgmBsM6UYB0KMdT9xsbxcLvPTUy9Ux1M/u2m8s5dq4fyO/cdsNGMNMs5xYmTAq+BuZxkYmjmrzVDSNXnsjlPxmL3dRkxwdkSXfoTIiAZr3HLJ75PdWuc+e+kzW5GuBG/AlZYjsiQMojsHdE/pROAtBw8/0WlHBF1PGcaLyZn/vx92rduMrATgyg==;DoNxDpJyPOE1jGlHOzPb6A=="
+secured: "/NWsXcVb3M1Nstwt860d6+Mcz1O3Ia/dgVd+Z+VL5NUaJMKsbVHQe7keDsth+NJrz9eJ/wuiwj6NCSUwD8veopMb7YsbPUfV8B/4pdVJvfUzVkoovFvxeT362FzK5U+WKrVpWNR4RwR0ttrMPoZWjof6jAB3s2PTrwAfdDoUa9ABCnIG4a+acL1mJrrRxpxCpV3gxho6BaQDfon8QozICrxW3EaoGjAZnuwDy7SM3hhro1gKnYokHk6nUSZ9j5NUEndFaxIyde+sjyMmQ5qZke31Plw7fdnOLJ8NmLz5XwdMcbHBA0JITpEsHTTnui8MZhAC5uZBHOOHzrWKqVx2eQLBUDzDU1F7IAUKW3W6Dw8NFuC+qM3Xp6hkTq/HVOvsfMvyJLfs1rXcnMPgiMVhcQ==;/LbTAMbfZxM7oStRUF0/uw=="
 ---
 

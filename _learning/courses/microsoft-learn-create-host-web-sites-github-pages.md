@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT1H12M
 ratings:
-  count: 14
-  average: 4.785714
+  count: 15
+  average: 4.8
 heat: 50
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Create and host web sites by using GitHub Pages"
 
-secured: "2K88MVJ88xD+4qKGL4yHK65Bm+0ALOjESbhC2KF16iFp5sr7snNpz+/ZlczoDg+QkkRavmNLLzBhY/csAUjepZfPCMw9kq2LNbxQ1CbMc1yjw9fGjHzPfcDICSxWWiZiKhT06fwxxI0rMte2BSS4tED2w8Ezf+XoaGoN0+oZRNEAK7GZOtADcd6cnRBlXmPkAY1IK4SeaLmUilVihcLAGQ2Xo+XkCnbztOyqaDkBL8oA1ujAlbWrSTcPs4IxNGKFzD/iZNiAZIZiLZnp7FCt5nX1ilQamDIHTctpwIhxBPNd1lLu/etUPqXDGg3nkIDR9mJJLufNISGAVsZ0dy2d6z2ZnaEtN3NAQDmdfL1DTgZF01bUMn+1PFSf9gSVV8fDPAHY4BcUjpHhe3sVuEU7jg==;xuiTHIAXZLJZA2ZF10MiFw=="
+secured: "td80LN0DbuA03EmP+BbnSsRTGYRd7I/WeGiKQt4LWzsPt/YysmyaM2+m2u7wFri8P+93FNaIMNUvH9H0RCrCqX1yFsihWercmQN+xQkjnUdKjDkhXhIXwDwuj1y5ZkItipAZJuQ7EIjJRMuGKw9DRCaKMTxmCXL0RMesEQNTimoSLQ6Tv0W2u5OssXm2LhI7adqjGJyBhf06ItfkL34DhpB/4oz2FyfG8cThZ1l19Z/x+AqsW43ZFXHRLeIJqmUBL+Byud9jTrGio8ZsTNJ5mYsgQww+r10lHNH2IobuqTwUOVFC15QHHVmMh/8ZVSDBg9TxLQC9ZT67+LMO/QPIPn8CkQd71qvobXVfK9hIMTzNtKPdiKTx9kDNnS5aGv4z7ENMM6iz1k5szXHio3jUww==;XmPXEHYY4T0UvLgsB6w5Gg=="
 ---
 

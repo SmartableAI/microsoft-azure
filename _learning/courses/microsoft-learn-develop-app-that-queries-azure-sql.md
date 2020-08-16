@@ -8,7 +8,7 @@ length: 50 mins
 ratings:
   count: 2339
   average: 4.528431
-heat: 57
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Develop and configure an ASP.NET application that queries an Azure SQL database"
 
-secured: "829ASfvtSZSeOLVWLSrNCl+pYxbnLduxwcq9CK4TMx5nDQL3rCSpgb8JtH4pARTpoJl07yYh39mofsSszeT7NqjPqlYliptBIICDpLu5T6YziiIes3tRlAhTqDWxG7FoTI5P7+E6+WAczuuI+kYczlQt7ihcGWehFk8j/oEGetX/NrCuSKT8TTt+pu3gSIyZ/ED8aGRWvXAG/tixzZELUzKdxT/4EnJZjKPBqtUF2zihoRa4zLZyaglZ6CSxI5SSBohHamS5EQNFoz6V4bbOs2QoDi7jn/544ZyPnQDB4qUvpfTL/ZeHn06uyF/FrHnoJHDADHI2DAp+doRUAsm4ROMPoomGAzwH/p8jVLNUH3aanT399Q+74ctdZiKmLRWBomSgVd23Zy8NrECZHUpapA==;DJmku+bE8I/FoVrZg6YuWg=="
+secured: "IeM27DHgYC/iKl7Svsp0EhHA+MI3LYGRJWIUJ4eZG9locRFeAuK+WilMotgCKdLnUuNUb1dBf2zR7HneymCmg4aUyF4rTI3txiVN+wP9dVec/R4aARV0dW2sNhV6J8WuKdWYoMzb/kBwWC5eiOVBilEGS5vuaYmHS29glL41nw+9PoGPddpE23FR+zD0/yPoOyTaiyrRidAtR5e3SbV0i5y1lk7r/Sb6lco+Idy2QdsEUbNsDO6xEPA60XIdTxRZ4dwzkocK5mFEDuDeck5WYeNqTRiqZJmZpLnx+3x2wRN7cUELViPWhQK1AnGWxl6maLG205mmY5c06/nRsh4EJgW+l8xL2yWIjGGHsa9zlgf1Fszu6dODGzlJ4v2mO49jb0JwmsBXd6n4ko4tlNuNKA==;KgjRKD1dFvAiVF2UOuo2wQ=="
 ---
 

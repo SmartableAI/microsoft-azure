@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 29 mins
 ratings:
-  count: 145
-  average: 4.8068967
-heat: 52
+  count: 146
+  average: 4.808219
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Analyze text with the Text Analytics service"
 
-secured: "GXCD/vqoRVAdZHewf3d0C0rzugMesxi4jce/qw2IcVPHdbZ4xVDQKjREZB6X5K0HeuOacUS4Gqf7LAixx2zf/YETW7eMxpwji4sfQ/IWuS+BPqdMY1lb+ux9kO/QzreAAsPNtnU02VPymWDfaYn1CIhAFIL6ZjWlwqPDlM95WIXva22PzcrFpHqqRyrR1tulc+5+bVLDS/hHU72NVJUqBv/59FM69RyLqUNVIvViKLyG4sMNdVLMhHGXVlYi2ovLwYoNmPj9Gy0jgMhw8uuQcJ8Eo0W75PcoBwNh3IvJzLd8HBeaFKZc7yH/ikexSvlRHOHuZPlLqVXbYqywiRatsbkJAuMWsRvPnycwZvsfi1tm1A3mm+tW47UqFl4UHKUn4ibw/OF1cmapb7pEQKZUEA==;mr0B737RV0aRe9Fy7LbFjw=="
+secured: "x6ZdSVgSAhEPCOFsd/NMLSwH8aXC1Qy0xc733YcNJPwn3Yp8roPtOj6uLsXOnwdmQDbsSkm85C967RYwM/6CwS/Pxn5qpSdiMVGxXqLWxQTihGv/pR0c0IUMahTkT54DVcm5wAWAwnOJepc4LHoMzr+MHLDYScIluDa3uEjs0fDF9umg+/a2MH4yWPIN7WqXvcqHUiosi1ZlhOX+mv1K1uIvOAVmaaFpxNiYiH8m0XM7A2Gd87ahcKa+7Wf5dM8RDZNjqvOwZW3+jOft85NnmNbLsI0LgfU0YmcCaph/KUb14uZ/dToTZKJDujNgTSvyzGCkP+6CuhoRkbVE/Pu825YQiVNcZT740mq3q6irvqqNuOZums2EE8oNi8auEKMCC1YRuPu93mj+3I4dhMx9/w==;bL3hkBbwdrPVzptUXX2Aog=="
 ---
 

@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Choose a messaging model in Azure to loosely connect your services"
 
-secured: "jr1E2esOWjD1jCOUynKAit/KEdtVdGWe+XcLCMeFlRDb2l5kPVVxKDqbTNwcQ0Te5q/EupZod6B9uljogXbzwftuO53DGnEFy+Rqyinf1MwLln43vE036cyjIDTcePdj3zzL49ZNES5Ia+BcTq1H7SRKHxnFFK9acm5FlK0x+POYKG/GCg3G7JPprUzohCmE0b6vXiUkpU9RjHjoYFCmlmImuWU+G/vIycAg5HLGdMlpYhXJvx97r8v1oyrvOB7XAyRTusbF3RLtnEqxsjWgnHKK6+W6XaCcZ/ktDtrEZ/apiwbH4E4Y8HXERBrq3p1U/4IPZIthyx6Mn2DFqeEWpahYVjTxwTU4ly7Q+AQaRHzQmw34HwSOuH6/sd5NOp6WyW2FVpPY0HvGB6Vj7Tx9iA==;YWGgJV2C/39fBN1sejM/wQ=="
+secured: "+B1WRz+GoWo+FTzXrEFhSFyoBXVvWNVtizA5BBGXTBB/wGr9CSev9jKFOEqxqkXB4g2kUDihGcSCn8P8fHDPFu2/FEvZFXc9QYr0AGGALON16aJCv1qzxEo5ffJrjQ8ES87deV1JEFvgNqwYLb1mUiGAS4VN7bIP/UoTcDnxg9kuMdb5xSj4AWYMJ8xpWqXlA6B+Ups2Fs/2rvftoiwfJPEAHaTu28MnMU+9+0ZAnYov1P+R0iSwQVCa1HT4ig5qQcZM11FCXPt8tNun2IQi8LfnA2+cjUGUXxqdZNaSgS6ru9n+j+nuoNvPyemr8UiyloPj5Ne+b4b3d8wscUB5p+F7XEeUrnWWrgwDz/Knv1LvRxNz+lGxGFz88jqGOsSJj1AnlUlXIvqP84kAycl3Tg==;Eh2QquVcurHyBTmQV/CUVg=="
 ---
 

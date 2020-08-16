@@ -8,7 +8,7 @@ length: 61 mins
 ratings:
   count: 2301
   average: 4.650152
-heat: 57
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Secure your Azure virtual machine disks"
 
-secured: "eb5BuhvqZqKcUrPxdjlbnK5Q5uMXp3fQ46QcZV88Yw44r92bm21XXzrvaBY4goKn3vTgZvZZ2MNm3pjJ9O9PGgi6esaGamzHrw1kjRlcat4K0vOfkDJ1KJA2aFA23HS87QqzeBu7IyjfF1qkpbAf/632Ay79bbxx/vGAjhPaXMgd6b+W4qxWhIdjSjJbtt6foBVc3Zbpu6BYaYcBIv8NaVqyKUVnw2PnpA5VAF2yjxu5T4rVQ9/8veJCaa/zKaKhBanN0wSeaxwWeqrKM90iER0/XBqiNgtALwMgqz7j1KNal0oJGsZ/ag/r4SYVejnaKqjKNiKYMd7fDsVA/seG5ARCH8uxzq3VTHxhgE4QgtVotkMF8r/hOD/F4LQeI9QFql8GDOvg56P/hfo/+U/Wuw==;jE3XBQZRV2W/vnalTxGmbw=="
+secured: "jGQ4WkJqAZ6NWq+AS82Ej0iLT0AxSVFgtb+yju6GcGl/ulWDtfesmqus+J8dV14RvOhILiLxl5hd0eR0fWDbO+dgnrbRBzRSHZW6jlHfS30zg245BVXriLtVsyOIhKfyyjXug+pmgvDU25pVu5T9vq7Z7pEVqz1iqE7EZpwcBVih4ep/UJ1Q5CWvoSXiGzUgBSpeIzBAcTc3VuYb213H98E4JJ0ga5FXkpwHcuF+PAVWukLY/YPtN4Sr9bm45fqYDP4lvx2BxtKmmAxNFXAFVLogE0MxRUOPpLFH7O8e8+o/1HV2jg/dFTLccGOX29CvficBz0sxM/xw5oOf9iY32e2fTW9hIV85/CYKqQ5eGZY/8M7PPCmf+H4/oVuPAzEoNSnwmT5lMWD1f73DHHotQQ==;Whjqo3hxJYzGj6Z2LR4jvw=="
 ---
 

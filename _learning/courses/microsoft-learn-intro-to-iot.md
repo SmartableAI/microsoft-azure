@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 31 mins
 ratings:
-  count: 400
-  average: 4.685
-heat: 51
+  count: 401
+  average: 4.685786
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Introduction to Azure IoT"
 
-secured: "JBMb+DN/wG8Dmr+0QcGvwaoWCmbxvzZiiAm7IB7G9j3OlTvq967zSx2pIONHDPWc8H3zqvkSXQ+76PUEYdSu0lRdrztVDgml9tx8OfPQSnRqS9IpFiYHZm5JJNppoh8L/2OhhQuzSIEocHXBMbW0Rjehel3L1miu7JMZKUqXIjcNReFDtJZM3Kmq/e3e/jUpvBkcQXm8A8O80+W90x8aFdU9oWyWOkkfDXIuORD+N1vj48VC4gNMakVs2ykaLj4+sPF5NilK/LUsoWtnIYijQY0Aefu8sK2b/ALSyTh8hLypsXkUhg9TIQNglO8wmlRY95i6hPqg/A9PVKq6kFbxR4PTN8luowzuce9kQtWgMLyjzmEQAAmeOCZ2aPjhGCLejrGf6UNEYQFdFM+Dw+mceQ==;/+jX5UmcVMer2lFIIi6ksg=="
+secured: "BD8MBjYFX9G/VJvZWxoz63HLDkmwbh2cl8E2LpxIdDE1orai4WiLDoOENG4jDl0fhsdSEU6bCfFMdVw6zQQgi2f2K6KjQErutwuOknw+hNym9rvIbFFdPcUeaOd8RgKuCBAli64vW0IBwYVOMG9NI/54GLzKXrNH8ZBr2133KwL5yM/ZdP9N5iHxjqyhjr7KHrP7940XCQ6YqrROtG5aWxASRxKM0u36X5RhXWSNFAz83IxdMgkMsHKEVKrTSNfSCbqy44FA50OE9ekRJ8xajh9bvM5Jdy82blJ3AubCDKUYAm07GnEzckScHTcERRp9GxZ0IeSO2OGWjDcdxDn25h0aciOwQXW041B0R8fDhYvSzeduWkHagjPznAIZ2M40SBoJNu2FhdbeT+sH3vMJGg==;Oju15K4zU73saj07C1wqUA=="
 ---
 

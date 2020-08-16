@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Create an Azure Database for PostgreSQL server"
 
-secured: "sa0hWTTbzTorgrwmv8h8003GCcgUq26AN87aI/zQ/R5NwwlCDJQBne7dgoOpMLZy10wyp+B6g/4IXfzyyUUC68dg7kn1hv31Cl/Rf/EzMPdIPoXV/wJRlyFGhaiGsZOZ8uiASdfWUZKfIt8QKnLM41YeNugMDTT67B5MliI7y0SuaOWkPq4bPINvA1/I+ECpyv8muc9dVt7/lUdd6jXd/1ogJwWtznJx/9dp/yoSovh5kwmoTrcMCQIKP9T10fQqW6bo07ZsObgK+2IdxDmD++AbttuDMZIDG2jGUd0lqrKScpLx8Vm2hmvSJJtzrxSZm8sTztaIqi6PaeUWQiEm0sQuWxHY3ztB2iNkbF2NBGzraxAs/+/8sICZ1JjMLvyavQAS1HdL6e3fima38Pnlww==;Qq3myQZmT21V8h1ErxFUyA=="
+secured: "I/0PuIA+gBVCtMZbhDbPcRPDbKFD/EaydYKli3IsJ2inuW262lMkZ+TG8FQ0XAtlzB1AmXHW01GwGA8NrGRDwTTOejT0gdTq2MRRkRHjIdB/8/pn/FljTddWJLhY5bsLGylRBEvKeAjqntd74UljZ4vhDKmuVTK8VX4gJwnQWIt8Dyc5yNCHFjZIvVSts8S2cWR+eW6bQSjH0bKM4BG9yuOyxg9DnvKsPGLBihxBfV/kwkxgp+Hk6ecAqeU14oNeeG2qJYZJfauvV0ctZpHNHBN5kUv9kz1R3jNKxeTQSDWx8L6y5f+jjso5yGaeQyaJkqSnRcs+jH5DNWQDxOYWmK6sA/6HFBqJ5b8smqBjvoMiZQKgqzNKN6nkdJetAx8SuCjLCksrABxhYl3r9R84cQ==;oWyIPM4lg1aYZ0f0rTMqEg=="
 ---
 

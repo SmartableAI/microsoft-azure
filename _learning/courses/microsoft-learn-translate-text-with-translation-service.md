@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 29 mins
 ratings:
-  count: 117
-  average: 4.717949
-heat: 51
+  count: 118
+  average: 4.720339
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Translate text and speech"
 
-secured: "osU7IkmyTYtQzpLuCGPyu20nm1LZVrcqXgLO1AGXpqpm9AbHnqJ53rYUGumdlU1sKWm8HN24T6gXXKFZ90tUTghDzT2KOWiq9lomAdxs14/50VtkRDycFI/ake5XT/G8psNSRsmJD9eBiZiYnjzo7sR6QYBTqAQGs4zQFGn+xfVvGvmfhalVYg37di+n725l3DSr1A5F8drQnRYza2iX8Cwen+s4Y+CEfSC7vzZlvwDhVIoZlkmaeNFt5N5X58M2Qd3r4b+whe/TZkGlczbiFbSFkG2VhL2i8mz8JnZc7ZTEM2UFLCWT5weIulM6GL5ssYKsSw/M3Hv7tAiqRTJNwJqlsCi/cHYUFMIYutMkRxrm9ukLo3NHb15wesq8+4pwJ2P2zX12FfAMVk+PxwF6YA==;d8H693l1KEtRdJlgTbrzXw=="
+secured: "TWm9kXxwot4+AFLQV25kbax38SMFqBCDzNyM5XXUQxgnt9ZKF6ZMjRi02qFNlvIKQcwriI+gfo2yaKhYW14Z5GB0PFt+VtNrKNZqxh8y1MuQUW4WBY8JcAjfpjuJka4KXzNE+RE9QzGSxzcihHsE+1zwIXiv4qSuL+9ijfdej+y+3ypASF5bHHQOSxbPpZcSts/UEFOiw5mTf+Jj9DqCo/iJWy925e94PGuWN3LPww2vFZSFMfBIpS+Qpgdp/DXIhDiRNefD8yypcFrWsjS0uUk0THGvmo7Y5KPjbSGAhWiRPHdMcLu0OVamw+DoDRighDjKe06RPBtPB5LABWqtXSTiRoetqD6sjPZpqR+tqCAAc0SxaK+dk7tHi+CXe6wWF6CsALb25hMlwYgCApbERg==;Lgnbv3iatidPx/68kvZO7Q=="
 ---
 

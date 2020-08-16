@@ -8,7 +8,7 @@ length: 39 mins
 ratings:
   count: 3894
   average: 4.5970726
-heat: 78
+heat: 66
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Connect your on-premises network to Azure with VPN Gateway"
 
-secured: "HlQlz8Yq0zez4EeE5mCs4gPD0gq2vB1Evxhurv27ltwRTdhSoaXvu3G2JJAoL+xfD2K4LqCkWHWDNk+aDtj3Bs998NqxQUsjCBUkQGksV1q4ndf4Ne2HtycVULpJcbnR9cYi1tSYzmK6PWhxWf+LNpOsD4WYf3xJfoMvkBCAOvW8L8cRtFjYzr1olUkjjkTtyVujzlQ08QabfzEVZuxe6DO8ajp3kZGKV10icuDzJ+kyeAMaxtwuBBxBzk0ValkpT64kfQ0Q4fA9Ot5fAhFUA+19Nr24xdQUi8ZweTt2U8XQjH3MK9CX1Wm93GVQ1/JTBk3Mo1jeFs2QdsMPiYjTvRLaV0ka9fXXgi8hq9LgfHrcoAq7Mg3lSvZTw8rnrPaAml9/8TInH79zbdYRnQgV1Q==;dyFnBvrqY3JrTbk2Gr3Fuw=="
+secured: "erCH77nd+zP2G7M/HLONTlh3RYqaxNFR9lcdiw+32E7UarEGVQc6ZP0pNMPXvQf1s0Em9n3wJpPDYFmWd7nyksMdm56Ym1KA28mxwGdPiKpYX65nvlvEJjs8kXd4plvPKFkegW21BLcAbhb0YkvMoZaQzwnNdqZqRGJ87e3yxqiTCsziIawsPLZA92vp8EdJ6VC+yx4hxQwxzwM2DuJ5/p2V03FlmBIBkwCCLkVNtPPeIhycKGnwFrnqxEtQKTlE6BBCkEpVgr+534QkOO1UG9awzf2L6UKJWGBqV8Zftnmz5pUVijUR1aqy28qIdOZHA6iKkLgUFPtZcl38ne9tbuG85C5IVeM+VplMIDsrMjY8sXEx+CN65iJh3H6mZE80iDrbMAf37U/IGNcvT5AmZg==;eiKrqF4iOpwKkyEWv2pEAQ=="
 ---
 

@@ -8,7 +8,7 @@ length: PT41M
 ratings:
   count: 80
   average: 4.8
-heat: 53
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Explore non-relational data offerings in Azure"
 
-secured: "jQwvek8EiCgU8uB/y6rsTulz9vw8PMMVEZcuIBJpyACfBsfAnaJdYNQwBv+4O3DFvX0e0H4f+z6Ie2O6rY6rTFvxqHg6MCHUXaav6tmtW5SKpFwjkjboMhilGRXW4XEAyrItJP4FjgYajKKeE4sD/Va4qiDCF2WqpYwmUlh2QE1Ak64Yrsx1m9SYZQBuQB3HSG28v/SQ7I32QnIDTQ2Ap3MYMVOLo5LfxyW1CgRFzWVW2OS04xIdHQrrrzD+3T2yjiSAJUB6J6DutQo6Cz9z1lTpDGonlYyEgwuJcp4qpXwf8/zIWw0mcIBHOh2/fwEykw/xJKIvAKNo/+R0tbTh+0s+g23tF8FyeORObRkTFD5HLdeGpRXgaO84NxBAY5+p6yqVhz0r0CCr8abBpGfHIA==;qI6BJ/BH6qnJa+57Xq27YA=="
+secured: "xMTsipTwqQtAq1fhcALuydXeWCT5kFjxVf8RVqKyxQ+cv6BqFE9a7Ldo7BvhJka6Xj5i+roq34xgm4C0mhdMM/+zbNclVkFHIIsDQ1RfJFCalkVtWETO823GNxWcVu9YAqXEYrlbW5XsS6+Cpxzonb8TDI3w2KkdGDTHg2lDzuouuyu042Bse7k5R+Aslbfyk9zaGWePjyGzg3dmVqPYJKgXrKnMCjmdoyJdhe3kJPzQwLKSoWqS6PMVRA25L3YgWA8z/CnWBaOT+0HAcXqK7w7ZVa0OI+Y+191R7l6z6GmdvD1RTSdJimvJwHBvsBUcSv4T0RrSFncmKFB17Tp6e/TPggvZ85l8D1vpq1p/swjtfuNhzsR5awbG+o+11by5LNnk2pPn6dQvz/hEmskqRQ==;zxvi9xCqUhUn9ecWE0uTlA=="
 ---
 

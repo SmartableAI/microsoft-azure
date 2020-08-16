@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 34 mins
 ratings:
-  count: 206
-  average: 4.6310678
+  count: 207
+  average: 4.63285
 heat: 52
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Instrument server-side web application code with Application Insights"
 
-secured: "KhO9Yunl2zHSUwHJkpueMuUrUgHfC3XVWazIoGpxTwqqvXQOHLvFMeuLZiq8D9QL4KGghK4W7eN6JpMTT0kjWW0Wv7/MVJbCdWm/Mk57AlN0kQyPRdxG2qpI6+ThNdq+J4On+MorCPJhU1NbK9AVSwyKrNEv8NqYyvrCxFrGWEORkCZIDhuOYUNrv6SsxGBRbBndiBaQUFzwmSJnYGVPa8u2z5M8Bp0px0h1SodYE62pfC0TbtFi3stmkTXMsCkL2HYGvMTL6Nz1EqYLjiPkOs7rxGUZw76F4o5ab+yGAR6XHOGYLwr4phZELl9sq8nMadoSirfv6qY9DsqAm7LpZFQm2U64qu+cLW7o6jrGWBBPCYTiC7hvDt0dZ/FH4rrdGXfoUhKt+NpWvHSWzL8Rkw==;pm9nEJB/QmitDh7zzpuYUg=="
+secured: "/mWxoFv7TT/ikmgvqSgXeBTJtoD2tMR2ZSZaX9yhYXFuWgDJP26SS0Ni4IHH2+sz3IUuUIHNYYVl+VXOUXl8s/BPruQ/wxrhH81D9SuEMVY0gZSRBClGHOo/gBLABmdRR+q/mdy2g2BN7zdoW9Hvs8d8Bw8xJI18jc7VF0FMW5xR+93yRehSJFfx1/7RLH9pmsG4jQCyH6bYM8Y3l+e3WLa3SDL5nL75veU0o9d95NzsoCwnxV6PPYK0kAeM3TpeNgzJY2JX07HNlTzxmAfei3/YZEwVqj3ExtkaEDsprL4IGUqwoa7z4ZUWuBKfAt6bZXXQ+Gkygb5sRqWBHwWe2T7ZTH/YhZg430LZRYjH7gXDBuLDssiDQFdqM1ZGzgZBF8pFoVM25kfZoJ0UWhykSg==;PD0wPe2gy3joXePs/Xu7aQ=="
 ---
 

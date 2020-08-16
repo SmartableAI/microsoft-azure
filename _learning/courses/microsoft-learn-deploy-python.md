@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Automate Python deployments with Azure Pipelines"
 
-secured: "8Q/m1jOFeIjSLoCJHS7Iv1kB75ZNHLbacel2wYC/9hB40UzTsQrKMHGbcK8XLjJVojrcsJcHyKJ9qnWTulbW2KUsm524tYjutjfhKwQ+9mQFzGeTEnnq1oRWWNtoSGfsSlAgdNc8cpER8zefIFqlqcYXjU7F0YFYAduTpM1PHtuxxOhcPRldCV79xqM7Y9wSf7j7Ld1P5/id+6Y9R0fzB8Xn/It6sutjQEaZsgWjsS0PsLIP+j2cB/xSPB+9EjU+lPcAOZLuTtsr3UHitdI4xqCYIxMMgWltfjk3pIWPYEQIMhGgvKDAzj0d6TesCcBezq6Px4BVADbptOkOI9bc8HITbL3A7j+0sG/gyOsM4iQfxPN3GV7HcrS8F0WOb8X1g/rdByN+isbqmJFQSwu9GQ==;k3h6fZ0s9tzuTQ4AhZzUOw=="
+secured: "AThny/RkjILRifS0JyloSGZa2soXSW0mehkdKNz+a5wn+KL/+8IcN1/BA/UcG6zdcWaGaj1CmwIjQZAq/nIvlulSTVaLsL337XzVBC2YhthYzYcBune1Rr36Ia6Dnim0K/dALfwUI9ovFeVxHQz6pPFBrkwLSIXEIM/DE6qee+CPzqWL67tRI0jCYQy0Z4MxnTLhUPKuMd1ho8YCzNlazTAiXZrJ/GzMmHXnBccnzKpjeR/jFriOYJhPg/UEeW/9cRirbnyi8gOLi74JjRaDQXuN3yfVENGu438bv6OviWaeCKeXlyQlpb+voDY+vvL+iDBZ9l8/I9M7s7pVaco/gtqzC2Afpv21HJmQC810eDSs7ETIQZtCgNGAAaTZPq6jstHj/9enpQkj+vOtDe396Q==;lwCm69uFAC/51VpFLFKa5g=="
 ---
 

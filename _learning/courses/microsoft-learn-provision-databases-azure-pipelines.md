@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Provision databases in Azure Pipelines"
 
-secured: "CoSPkZCS+G7S39ZeNC4KApTZV81zfZafkXhNyDpgm4jnPrgheDz0VDB1toXDqI/6rLdI7YWmlZXzAWENmrLlyHjXqO7T7yuoym78HV26/7KR45eZtN0SSawA8dcW1wjPezVuEVfirHhK16IoR5jPDUvW96PvDixRQzuay3psU8ioreeePeVtGh9oucd//Ijw/Ecp5QaOBGD4f4d/9Wqiw1S5o8bf9gCA415gvfOpc3d7aFDIccq+JgVa7uU3fhysRUiN+fbg1QIlRsFPI+i/cRVmypvZOv9tcUjoYnMCBE1EteVLZv+0XX7H9BhcbH9SFNU+SVT3WPLlIGXC/wX4+defNzoyKV0glGYMSl895o/ttD7ELeSAjJsBHMkSXuFf+eznhx8l3kKdf5ftGQEnFQ==;7JoP8RvAxlBBEk1Ap1xXew=="
+secured: "qMiWvnkUz8hhNKGa3gI59E+sosn0YJImdR7nO0ef6Osdh+drSjS0CW7H+/rKdt8zGHfIvRoffJtW5BGIY8e98L6RDq7JSrGJ7h6jsIWehE5rxpEa+ebf0jiDje/LP9GZOgwoW/bo3QNV3Wv8qKYywZdKazurNLPDL5NmQoNroSe7/+4YYgWplAVK/c5yyxmlXfIPMIW8i/ffTAGpSFhFy0JGUsTHdc5knefv6nzrksAccvmZPdsVS6mSiQ7Pq4e1eIuxbz0qJwOymCUYtczPsGkmWeGxGacVbF/t6+6tbO+/WOFFQ91inc4lfnoMD/MMboQ5TLSMkNoAcc/mL3LZv9jtRCRukhcKzkEzAwbBNZid3AQHejgUe2KsEaRE64eA66L3vEXSdK9u9FJ5aTPkcQ==;qJHBVSOImdN8X4IIk577bQ=="
 ---
 

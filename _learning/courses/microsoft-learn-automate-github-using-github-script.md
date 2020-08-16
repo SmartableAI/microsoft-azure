@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT25M
 ratings:
-  count: 35
-  average: 4.7714286
+  count: 36
+  average: 4.7777777
 heat: 50
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Automate GitHub by using GitHub Script"
 
-secured: "OxhbOn3xQfpywfs+AP9wOq/tofRLhWAubCLIgUeVGsjPwSEJ9PSsaHDk9RnVqxj/VzX1pERoNGB5kop1FdWMt/7BnP18ZDSVt9BlaZKS8Rrnw/JH17ob3bRm4NU4F4Q10JTRcBMQuenZMXqSwnCbx7jG8EgCofKSsj5Q9cxpLM3XuBl9s7oF3fp9hI5sWTXpCMG9pREr3syUYMWmCnSylO+HLnRy6Ix3Je0SaLiHd1qR6hNmLbyMeVzW1FuHC0Vt+puhTZKaWwXP166O25YVByclhtbr9kE969nx3uTAS5+dFBTs5R0MfcX/SXQpog3vF3n5EbHsNcIZCJEjwAuoPvYg1erR3yjxuk6jy1XcozPRkN9xPSc319khChAXdcDDvD8SSM06uDd5+jUuiOZn9w==;K2sS6aw/YEjvbTG15T41kQ=="
+secured: "NFZMk/DMyqaZTBJv18wB0Q4AiPogvd/3NRkBs47zmSFqPCEaoACJaaiRNP4IxoYCmNb+cTHN73PGaAIg0u6dqqswXeIAtUm1pQg5QTVuEi4881FlAwyNtw0pdW2mNOAWDdVAy1DaO2NZz6S8rn2BGq4+GQT4s/7qmuIyNoA4n/CHQo1QeZCSc+lKETH6jFB82yPnFyfjYBCmI4KhrcU5wxrgpO1V3dQr22a2Gub5rEoSwq5ZHFOKU5qujOIoKMCFnvYnas+ypxX5dY5LbZ6W6iYU02s2wTW8VStGjOLR6QCcFvw5u1lYaXPeHejOG/A+XAV03mJYJKKx9S1Itcj8EamRLGLvgcPJccdBwHQ+TdC/wS7Fvy8ef86f326r8BVcxmLaZyY4JUETKtOaaq5y1w==;/+yO95GG5S7skIaA0VxmlA=="
 ---
 

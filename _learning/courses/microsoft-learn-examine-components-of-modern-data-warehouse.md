@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT24M
 ratings:
-  count: 119
-  average: 4.7394958
-heat: 52
+  count: 120
+  average: 4.733333
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Examine components of a modern data warehouse"
 
-secured: "sRkjpHeUctYgGBJJV1PxUK+vYY4zfK2ktahFG7cJRAgptjQMZF6dt0DOyTSfNQfSgsfp2b8lGOfb4IyxgvsgKt8NSro2SGzn0de/odx5qziV96vESYNyc7wya0OaB5s1jlgZZF6OAhTs8FueWHINCdD7zokdZf7PhyC1seKses0q1X3sTgMhoPRIBhzIcjPMRP7ZPg+Ob9AQAG7OvFAoY5LapeIZDB+7z1uT5Ue9jPMqSlogCa1HWcSqrv0Sc0eO7UKzqjpjCF7qIAxlEuAAXchlLdfHcaJMSIG/vUAWqyT8HWe4A6ZJPN1JfYpxH5ZW69wMArLO2PKjfrJ3DxRT1Qviwkzb9tjBcQXzoRhw9ltgqeWEoeSG1cHnmKrqzOI4BSPxaB3hdW/tGCdKtoAVRQ==;lNlje1FaRcXTKhViyPliJg=="
+secured: "STT9CSeE/Ew2OoiB2Ia/C98VRTf8VWXHhzfdFC0QRKPzjZbpwgi1iQR9O33RdbHWBU6ApwHLm9kJ7n9X7SQy9DsCmG55TNH7tPitq0FzEMFdUfhslxhayRt/N6eL+L3fditd2s6/WRKPgzyB19VCr79fBkuPwjoW2KqNhlclD1LBVbs7GjPK+pbmDMA9iO3jgv3DIFpdAP8/YMAIPEpVD86cohwBYcQA7ZNP608XdrwX2qCWHJKKR6+gj7mHVIeY1mNYQlTWqk1hlAfRjo0updD969L9u9tuN09VF/HER7dPOlwdI2r1EY9nQAuk9abRB54UUWeF03skisBjURqHfY64yuZj3Xa7Vr1H1AMbViDlkMYYYaLVsD3wbG1KiwZ4EYU/0o/s1l5QgdQUkTpojw==;FMFhpuMxALfMTRoSpISWeA=="
 ---
 

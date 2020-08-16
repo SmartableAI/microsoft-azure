@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Move large amounts of data to the cloud by using Azure Data Box family"
 
-secured: "Wl8Y44ut6mDET9O+WrPQYVGYFHd/TDKbINAJtOEUXtG1WtJw6igD+uoz6uu0pYOIwcEu4rtIoyiXFzO1Rcr8OspLO4Cs9SjJfeGLKCYafHEi2noUdJh4PWU1fAI0R+EaIAds1JixaV3dgC7lT/WMo96S/rlxw1dIgcFgnmGXvrEZg+kbgRBXr4MdR6/7og87yQ8d/gQyyBeV+Q2HBBb87Go4Q1gW8gXi1Ii7z/5KqzAzxAoZmMpWpW91/Qt/vGZV3X6CWuL/5+yOO2athMMWH5hdahv/CIIyorDBk/irpluoRwKQBCJJbbpljbNt8sMpV8lsFGCbLfOG6hZ0+E3sVInqkoNzaaPt3/+1+hl8EgsVLJhyP/tZXs9ZT8etfCm3Awn3r6yNob7nlUlQ5VgkFw==;hylzoyg5V4CdFF5tSrBLgQ=="
+secured: "0VGIWOxoEzSYKInW90ii7OqcLwgW06w3IcX0Q4l+FCTUHNJVbB1f0PSs+fMW6svEb3mHDgyXK/5TPTvYMCliJ0aZ7JAOsUE7TL20akvqF+OetMdvqtYwbr5cWobAezJhB7ABrdoe1cHKTMTlfH7Tk2KEXiTIV7JP3yLMj5KnqZqd7c5XPvrLy9JOx4wczL962RXuZe4ehdDCeVq7FiOa0HDCSPgpSSkSiWKmOYkjj4hm6PMYoGx+z/7eZJZ2HPZ05bd4x2kOnnj7kBglWk/YW6Wkl1z3Qv/ykzgEPezYZ20sLJrIJ4B/M4ajeCutqxWJED2FdXddwM+cLFRsUw2wtvCEsUe3bDdp/bIwTKglID7QdhLB6pTbIVS8iL53RhTBMOlWiNkfmEXfjbf4eEnwSw==;bjFlJRq+VOFsebwYB3ra6g=="
 ---
 
