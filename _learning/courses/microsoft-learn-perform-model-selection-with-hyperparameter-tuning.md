@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT33M
 ratings:
-  count: 15
-  average: 4.733333
+  count: 16
+  average: 4.6875
 heat: 50
 
 provider:
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Perform model selection with hyperparameter tuning"
 
-secured: "Y5CqiL60KNRxFFquvWkBw3mZZoSreJI5COkk+yQ5AnsvceNQq8bVTmJ7ufP65OWxRoGsquKUiS8T29sb/yAT9K8QxvbO3+vJqAnQeCT38v1cPrQFmmL2qxL//+7+Q3XpriAAYp34ESfJ3BOxdynHTnLeLZutOxoiPIflIcD3kAj3kUsT+TFGTr97Mv4CAWeWnAwOYnR1PFAWUwBtX+1GoAcFNBkoUewI+5lNt/BUxA8akPA9aQpYeNTjYYIE9x1t7/vtkG6E4ngR7tx1AuseZAhrRchwPZo48PpwDekVF5A9Lt6CHQl9xltXa1DgoxfhKY9U/+SR3b6Tpj57qDBp7yEf0u6sSOH2ADfXKjH8r9T+xgDzIs0Yai3PKQNCYkQNP2mm6GMIxR2fBEmSXO978g==;/32uiDZq1krrVJkZ30M22w=="
+secured: "fX6Je+xRsFW8Nl7sYlfuU2qc2Xs9L/4g3Bz9dsIuKVeZb9CCP3Sox+EIyyCSQcgwB3z3e24GvZSZhfKhOSWyjF2PhTxJMySf+t6+EJ+UE5jb1oeiFB9Y86c6UWxtb+O6ul4CJlydm49of3Tjawn0uVGahGBEfx1SK22gkjNEcK8HVFA7dA5GNo0/HnCrGYK9bhV4hBwIZH3MKNE2WKRWDpajJwV/LiYP3MjS86WpEjDaQywCBXNI1hQyZJkk+rqIM19gxBUDsDepotB70u9+3DLYti2wRMF2swiKVwjHoaTp6E6R5wnSkv5quM3ueUxAUtlf/v34fy/3cL3js+SbrO9kgNax1wD/9dxfnwv1dJ/n7SJ4N8OjoNOUCCH9Z+m42pFxWuVicWTZVQxgWhjW0Q==;G/LYTRg48GcVfMK/Vqcwvg=="
 ---
 
