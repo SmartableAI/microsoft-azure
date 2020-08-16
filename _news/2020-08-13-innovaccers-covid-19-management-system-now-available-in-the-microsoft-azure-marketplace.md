@@ -1,25 +1,25 @@
 ---
 category: news
-title: "Innovaccer’s COVID-19 Management System Now Available in the Microsoft Azure Marketplace"
-excerpt: "Innovaccer, Inc., a leading healthcare technology company, today announced the availability of its COVID-19 Management System in the Microsoft Azure Marketplace, an online store providing ..."
-publishedDateTime: 2020-08-13T16:19:00Z
-webUrl: "https://www.healthcaredive.com/press-release/20200813-innovaccers-covid-19-management-system-now-available-in-the-microsoft-azur-1/"
+title: "Innovaccer's COVID-19 Management System Now Available in the Microsoft Azure Marketplace"
+excerpt: "SAN FRANCISCO, Aug. 13, 2020 /PRNewswire/ -- Innovaccer, Inc., a leading healthcare technology company, today announced the availability of its COVID-19 Management System in the Microsoft Azure ..."
+publishedDateTime: 2020-08-13T16:17:00Z
+webUrl: "https://www.prnewswire.com/news-releases/innovaccers-covid-19-management-system-now-available-in-the-microsoft-azure-marketplace-301111911.html"
 type: article
 quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Healthcare Dive
-  domain: healthcaredive.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.healthcaredive.com/user_media/pressrelease/company_logos/20200813155131602/zez9iqg8lghajcaq65ai.png"
-    width: 256
-    height: 256
+  - url: "https://mma.prnewswire.com/media/1228171/Innovaccer_Logo.jpg?p=facebook"
+    width: 600
+    height: 314
     isCached: true
 
 related:
@@ -267,6 +267,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "HZtX36z1UQPmNLYsG8IkZW31oSr88ME8MpbB/OTrAThZcIkwiRCvfWHpi9RWPr7QVccYE9bNb/YG8j3BfrsxBq5vOgXSSmWeIqGiIRNgYSG/vEXETsM4G8vyOs4qF8PKSQlhiL3sV18TUItQ/M/Yg8f0mYS6dE1s/Y2x4BXQgmCZJpqFqWOYwQGQUWN5Tzf9dBvTtxDoLCRz6N9nguLVhiIi1mBDhR6yX/Er27oXLBHGcKx4otkjY7EwOyyW6ajxi/thRPwHyo+TgrCAbQs95KshcwZ3f1ZXgUa2GprrhfMdcMswafL9DKEvE8iFSHwXgU6Y8GILxcpx8b2QgNeCqg==;i0Po5/Zl5q0EmD0l2Ir2JA=="
+secured: "ng///ugXrd6BPy0j/gD2GwvbG3dEurWNoYmIn7rNzOkVb0iQ3S/SwDba97Pbng4YPxMhCeY6N0QD/QkrZ7z7zlgbiLmRCVdKJAlsHEERhPj2y5ytn/AlcbuQkIJ3LTlXEaZXc+eOm83z31ogG8Wm8J4KANubYdfc+dVQJqPK3dL5Jupq79ruoIiq1CLd2IpMdK1rxQwpeXgwyjjkAMyXo1Ub9lDD2MHwPUlorMF44waxkvmbipu+YJDU417eqChVqUsRDHxq4+8RJYWh163g9qVrwXCwD8+sK52YRmZTndzpHOfUnWH147oelLdMMCqNXEkKnmzaWlo4N9pDv+bIiA==;aaNsnEhfd9cwQbdK2qzUJg=="
 ---
 
