@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-the-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-the-smart-persons-guide/"
 type: article
 quality: 97
-heat: 178
+heat: 177
 published: true
 
 provider:

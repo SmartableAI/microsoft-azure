@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/azure-synapse-analytics-a-p
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/azure-synapse-analytics-a-progress-report/"
 type: article
 quality: 97
-heat: 118
+heat: 117
 published: true
 
 provider:
