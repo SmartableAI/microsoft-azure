@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT20M
 ratings:
-  count: 95
-  average: 4.673684
+  count: 96
+  average: 4.6770835
 heat: 53
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Explore data ingestion in Azure"
 
-secured: "JqQa0N9nEUzpLzjHBI91jEHKUjZlS8Cx+27DdrA38nWAy82nXX90l4idNSmpdMsVpU3s+GoI9LDsFeGb0xzy7YhSYX3Fl34Srvdp86RsI+lNXVu6BYvMeVDo8rb0O9KRikC7YlLaV26P7a9HQAMBg0FWWnfoo/6Fl86IoKfZ0HCp7hamSGVzOijGHY7sZNA4x/0uHHCNmkbau+VlL/AE7Q1ntxD/UdUH7vZqEqxnDDIa6R4AQh6Qf/a9vDX604hsvipf1yfoA17kmbI7Jl1oOMxHwjWX4/d24wu2lvnc6q7EFsRT3Vbn2HK0VrjydaDFfkdZM/x+nS7+RPvg863EIimP3pFMrY/Qprb5UvTYGx+X1xBstlf1/QLuiXOwjaqmDeQKL0+wChGYm9f1JwhiRQ==;03wuCUe4PhGP0TlPSq+nlw=="
+secured: "CDzjZ67G9RXv3IFQZdRJyCVcuy5JQlMRmjf0Ba5XlC9UYidrTpoWGydAMXukXLbNouCYc0GDFo5Uq1AFjeBcFQsrlKvPovnZeMovLwG9OGnMTvN3giCx2UqIp9wSmk6EIb5S9iEL45jhAUZtkF/OK7GqSU7xlRgPWOsUzj9rpFaesbZ3HvdGku7+jC94bEcda8gNGL3ydL0rcMAB8Raq+lv3zJVSYYbS5975qyLQS/fhJ/s4sLafqFvXaK7gB/PRlbo+MBHLldpcp82sGWz7ZNj90g0/UJy8njIZvesyP1c5qRcaH6wLB/w2dMgbwVgdM+2lDSsKz04UWhdjYCTH107uahC6rSQ9jRO8Arg45R6cPFCE9lm6hmTTATdSRNw6oVQbK1cpsyQLyc8uPAuvDw==;j8cNSIuJ2amdHmWgS6+9TA=="
 ---
 
