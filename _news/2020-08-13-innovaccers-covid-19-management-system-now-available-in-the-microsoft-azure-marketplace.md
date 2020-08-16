@@ -1,31 +1,26 @@
 ---
 category: news
-title: "Qore Technologies' Free 3Months Usage Plan for Qorus Integration Engine Now Available in the Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers worldwide now gain access to free use of Qorus Integration Engine to mitigate the business implications of COVID-19 PRAGUE, CZECH REPUBLIC, April 15, 2020 /EINPresswire.com/ -- Qore Technologies today announced the availability of a free three-month usage and consultation plan for Qorus Integration Engine in the Microsoft Azure Marketplace,"
-publishedDateTime: 2020-04-15T11:11:00Z
-webUrl: "https://www.marketwatch.com/press-release/qore-technologies-free-3months-usage-plan-for-qorus-integration-engine-now-available-in-the-microsoft-azure-marketplace-2020-04-15"
+title: "Innovaccer’s COVID-19 Management System Now Available in the Microsoft Azure Marketplace"
+excerpt: "Innovaccer, Inc., a leading healthcare technology company, today announced the availability of its COVID-19 Management System in the Microsoft Azure Marketplace, an online store providing ..."
+publishedDateTime: 2020-08-13T16:19:00Z
+webUrl: "https://www.healthcaredive.com/press-release/20200813-innovaccers-covid-19-management-system-now-available-in-the-microsoft-azur-1/"
 type: article
-quality: 52
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Healthcare Dive
+  domain: healthcaredive.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://www.healthcaredive.com/user_media/pressrelease/company_logos/20200813155131602/zez9iqg8lghajcaq65ai.png"
+    width: 256
+    height: 256
     isCached: true
-    title: "Qore Technologies' Free 3Months Usage Plan for Qorus Integration Engine Now Available in the Microsoft Azure Marketplace"
 
 related:
   - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
@@ -70,6 +65,20 @@ related:
       - url: "https://www.exchangewire.com/wp-content/uploads/2019/12/adverity-logo.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Qore Technologies' Free 3Months Usage Plan for Qorus Integration Engine Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to free use of Qorus Integration Engine to mitigate the business implications of COVID-19 PRAGUE, CZECH REPUBLIC, April 15, 2020 /EINPresswire.com/ -- Qore Technologies today announced the availability of a free three-month usage and consultation plan for Qorus Integration Engine in the Microsoft Azure Marketplace,"
+    publishedDateTime: 2020-04-15T11:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/qore-technologies-free-3months-usage-plan-for-qorus-integration-engine-now-available-in-the-microsoft-azure-marketplace-2020-04-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "eBaoCloud InsureMO is Now Available in the Microsoft Azure Marketplace"
     excerpt: "SHANGHAI, May 20, 2020 /PRNewswire/ -- eBaoTech Corporation today announced the availability of eBaoCloud ® InsureMO ® in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. eBaoTech's customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined ..."
@@ -197,20 +206,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Innovaccer’s COVID-19 Management System Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Innovaccer, Inc., a leading healthcare technology company, today announced the availability of its COVID-19 Management System in the Microsoft Azure Marketplace, an online store providing ..."
-    publishedDateTime: 2020-08-13T16:19:00Z
-    webUrl: "https://www.healthcaredive.com/press-release/20200813-innovaccers-covid-19-management-system-now-available-in-the-microsoft-azur-1/"
-    type: article
-    provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 28
-    images:
-      - url: "https://www.healthcaredive.com/user_media/pressrelease/company_logos/20200813155131602/zez9iqg8lghajcaq65ai.png"
-        width: 256
-        height: 256
-        isCached: true
   - title: "Commvault's Metallic SaaS Data Protection Now Available in the Microsoft Azure Marketplace"
     excerpt: "Availabiltiy in the Azure Marketplace gives them an easy entry point to their data protection solution, using Metallic to safeguard data across their hybrid or cloud-native environment.\" \"Microsoft Azure Marketplace lets customers worldwide discover ..."
     publishedDateTime: 2020-08-12T13:04:00Z
@@ -272,6 +267,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "66Z/75mLqBCAsa9RIwaQmxTv8rUpIF9V69GEEEPhpvhX8xW7HBVb4XRAU/81FIyinZYQsG73vllePg6d9H+vpD3Y5DI1FUXFkLB8P2gL1AkaZgJ7SF0ZmsUN5dSacXDuYvEUv8Jql25T0OVbZKdMVO+XsqMugiAWpwO3roLsZkwOOG1IKC9b0WgYIMYwnmmFkRXaLjqnn4VU8w/WO7K/+E+3qkN4a2KvWoHSSuZxeef26bHIsYvblgS+1pKw/GgUSt76Zz2gUOPkOHf3S+1J88ZYCSbopLK0/U05gMBKCPIORojOzh1uqOYg69Xcp1uh;jT10CtPNckkJRNluDOLfCQ=="
+secured: "nmT8glEUvs/h60MEkrYuMwUNgmaU+/5AMyoQ7KmUAj1somNoNgwxrFIY7ShheTRe+Vi4P/1/ukwqpEsgj5TLQD9qeKsODZCFWGoxBEfGsBQKmRENLPmAsQqHheOqgDs7eGGoXzyVk5jChq7SqK3zy9PL8ruD2CMGByzm+4SI/fXjzhVykuHuUAHn59ZUydbdwdZ3F3NdAr62bjha4EQ0gKwfum4m5XLyM5v531aynjvJ0I9mdbuXT+gqSo14V+JUP/wjh8WvOlEZRPHghSBNh3kHbdBuEiWRcVakuic55N3thunyh247PeigwTV9xRPiFNo0qs+7JizLp+k5q6LJDw==;gxV1VG5sKCxDPz3vAp0QOA=="
 ---
 
