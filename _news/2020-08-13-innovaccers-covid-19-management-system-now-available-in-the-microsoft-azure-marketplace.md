@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Innovaccer’s COVID-19 Management System Now Available in the Microsoft Azure Marketplace"
-excerpt: "Innovaccer, Inc., a leading healthcare technology company, today announced the availability of its COVID-19 Management System in the Microsoft Azure Marketplace, an online store providing ..."
-publishedDateTime: 2020-08-13T16:19:00Z
-webUrl: "https://www.healthcaredive.com/press-release/20200813-innovaccers-covid-19-management-system-now-available-in-the-microsoft-azur-1/"
+title: "Innovaccer's COVID-19 Management System Now Available in the Microsoft Azure Marketplace"
+excerpt: "\"We are delighted to have our COVID-19 Management System available in the Microsoft Azure Marketplace. Amidst the COVID-19 crisis, it is our duty to make a contribution that assists the healthcare ..."
+publishedDateTime: 2020-08-13T16:22:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/innovaccer-s-covid-19-management-system-now-available-in-the-microsoft-azure-marketplace-1029502354"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/innovaccer-s-covid-19-management-system-now-available-in-the-microsoft-azure-marketplace-1029502354"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/innovaccer-s-covid-19-management-system-now-available-in-the-microsoft-azure-marketplace-1029502354"
 type: article
-quality: 28
+quality: 68
 heat: -1
 published: false
 
 provider:
-  name: Healthcare Dive
-  domain: healthcaredive.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.healthcaredive.com/user_media/pressrelease/company_logos/20200813155131602/zez9iqg8lghajcaq65ai.png"
-    width: 256
-    height: 256
-    isCached: true
 
 related:
   - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
@@ -267,6 +267,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "nmT8glEUvs/h60MEkrYuMwUNgmaU+/5AMyoQ7KmUAj1somNoNgwxrFIY7ShheTRe+Vi4P/1/ukwqpEsgj5TLQD9qeKsODZCFWGoxBEfGsBQKmRENLPmAsQqHheOqgDs7eGGoXzyVk5jChq7SqK3zy9PL8ruD2CMGByzm+4SI/fXjzhVykuHuUAHn59ZUydbdwdZ3F3NdAr62bjha4EQ0gKwfum4m5XLyM5v531aynjvJ0I9mdbuXT+gqSo14V+JUP/wjh8WvOlEZRPHghSBNh3kHbdBuEiWRcVakuic55N3thunyh247PeigwTV9xRPiFNo0qs+7JizLp+k5q6LJDw==;gxV1VG5sKCxDPz3vAp0QOA=="
+secured: "xfh5EMy9By34GeyG9EHEt6uCTH7Ppct81xErzdlwCB1qmPwmxClKpZPlXLer+BGQRuCrhXVWQ5YwOBYPPQxdPsK45B6KkwGpT15JI6vnNtwMrB/VpEp/6ZknFnRLoY/fAkHlL3TFuxLV3Muy3M8W8UBcQ5hHop8U13Stvel0bNyTlkx1GtMU5eEcSDWz0l9f3FrC/UsRSgiULBN/qp/EtMlDvgl8KsMCjR7l6XcjdxxfemYOLeajGprvYsRhMRQITGByoeXWXUc3su76JdKlcdsCm4iaoSq2haEfO+ngZ8SuS5OpfZUwWkYxZeysKScEsUaHmFa00dQQwNK0F/J+Zw==;i9lNwnXRdHX+7gwYty43Kg=="
 ---
 
