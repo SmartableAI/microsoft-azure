@@ -8,7 +8,7 @@ length: 65 mins
 ratings:
   count: 4798
   average: 4.597332
-heat: 62
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Host a web application with Azure App service"
 
-secured: "aglHfftHg6/Ma3kojrc0SrxUaBiLAjI6QTqI3GfirOOIVGOBTaPyU93leharhUi2b1IHDlpA9M0P1cUqQqvrt526/OVJJ1qCI13s1ij63AAuZ1YocIWeBbN2KjmxgTs3W6GuwgS+1Nz1teqbaPrfA3qyl+VCx9v+KD2MlS3YAro7OggmsrfMqi81PsBHDtkxv5Ll47aYZIyr7Vp96ovUz3ib6YUCsLuXAC7h0LTcdqtFFNxO28ka//8afe9gT0zjiwbvTnW+xuEacxJdOr4KW2wat4+bgbdZKBgge88Wu4fB7kaDRx/iHgS8K+AQ3JzE2H5ejVdy9nhvwXAQBrjbOyu/UQNKQvUXWwkYkPKsZte7qPhpuAPSpKKq5hwPkvlG8Ni22PGAjKHSRF9fzpv/pQ==;cXJp1llQgEaa9MghW8EuuA=="
+secured: "/2Mkb+rKVhDN2Ecu66QSINX7o9m6Kmoaua30VctlpxCl+JjZFeEu3Uszjlho7FFPkO2qsSngJgczsBogN3lxNt+8rvrcOXecyHZVBaVez6n8DNODeuLzeyM9w6/+qNZZ+xlqt4I0bIRobE7ysOrvthzAflkaiQKo0g0e6yT8wvty6DHRgyMHhQZ1HcyfhP211uhU74LFn3sIizH1BtMIMcytOh06XkEh9GqknIvZCiELRmddfj+MWCqcH1PVS9OndAqoMQhQxtwAddijKLR/Jh6pO5NEtIjLZ98B0HPSIvpbU3Ic/DoQKfiU/aRpc/GJpFEfXWMw74+HwGhloTJs8wJ3lkLEq0GRYMmXGpzhdoMn91i7OP+h0p9ywg/FGyTctj7fg7OHE4ErXj6jjiD6IQ==;DnMH7ln/Mxei1wFhNab3OQ=="
 ---
 
