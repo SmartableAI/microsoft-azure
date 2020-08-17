@@ -4,7 +4,7 @@ excerpt: "This learning path deals with securing your Azure resources. After com
 type: collection
 price: Free
 length: PT1H59M
-heat: 50
+heat: 75
 
 provider:
   name: Microsoft Learn
@@ -15,6 +15,8 @@ provider:
       height: 50
 
 items:
+  - courses/microsoft-learn-audit-security-of-windows-server-iaas-vms
+  - courses/microsoft-learn-manage-azure-updates
   - courses/microsoft-learn-implement-change-tracking-file-integrity-monitoring-for-windows-iaas-vms
   - courses/microsoft-learn-implement-windows-server-iaas-vm-network-security
 
