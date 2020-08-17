@@ -220,6 +220,20 @@ related:
         width: 400
         height: 275
         isCached: true
+  - title: "Mimecast® Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
+    excerpt: "(GLOBE NEWSWIRE) -- Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure Marketplace,"
+    publishedDateTime: 2020-08-17T09:30:00Z
+    webUrl: "https://apnews.com/4710425f0bbe81da97cd4d269601accc"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "GAVS Technologies: Zero Incident Framework (ZIF) Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to ZIF to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies PRINCET"
     publishedDateTime: 2020-06-23T04:20:00Z
@@ -267,6 +281,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "mAdaVGR1OQuc5UlyhdbueFliiY+Ert8HzZfHmGhKM5Ob5aPf3Nxtk3MLOvRabfIKO9HhUxEA0ZwE0I3xunMhW8g+SIq5JzRTb1zDmtbSAPgMReYsdw8aG27xSbhGMZpNjhWVhehVYKd9A8QVQq5d5qx7tQouUHhLcg4Jq3wbLS22k5o9xlqyjjkCKI+S6lmZw0ELPcqXk/psx4c0phbcqY1k7IE6wYA8xh6xa9rrcwsrS7SWtS0p/eTgGsjOzWZGiL4W9wXE5vZWO7B6sH48stkvzJj7sWDGXcIBJpOxae2gKFBfFDa1sAb+cni4JwNfy2i0zbCe1kFeu0KoFGnpZA==;PhODj3Zwkc6Uhf0lAbVVZA=="
+secured: "vbiYwcklw2xZQLyURyKOQG1WyHPI9T9qnSpGCDzbF0V7lkcrA9y1chuL6cYWlupLg4JSNAfspMEarQ04aEcvsCyFpTDEKARCco+KYyce1inxKfBUtrwjmX8e8xoVcioCe0/EJxOhkJgPPXJvfHb8tDkRjXH0DMqp1tSYPuXho+Wgw9+Kse2pLnIiJ02gdv5H85WDIWNgV4adkjjoR8o/Ctvudz/iFG5MSNAx24sexOoYelSnaeo3AQORFsNP4PB8EBzx2O4Xh6uuJBs4n9T+pjFBr+Ki7l8jAAOtMblZ3tK8CwDfZqHwl51NiICEBjiAcCKba3lb4Td04OMI6ZSgpw==;fTJ+EH/AOpaWUaoMMWTenQ=="
 ---
 

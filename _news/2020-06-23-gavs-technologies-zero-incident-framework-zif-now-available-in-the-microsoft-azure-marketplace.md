@@ -235,6 +235,20 @@ related:
         width: 400
         height: 275
         isCached: true
+  - title: "Mimecast® Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
+    excerpt: "(GLOBE NEWSWIRE) -- Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure Marketplace,"
+    publishedDateTime: 2020-08-17T09:30:00Z
+    webUrl: "https://apnews.com/4710425f0bbe81da97cd4d269601accc"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Parabole.ai announces the launch of TRAIN™ 3.0, the Automated Machine Teaching Platform on the Microsoft Azure Marketplace"
     excerpt: "Parabole.ai today announced that TRAIN™ 3.0, its MACHINE TEACHING PLATFORM is now available on the Azure Marketplace. Parabole's unique"
     publishedDateTime: 2020-06-03T13:12:00Z

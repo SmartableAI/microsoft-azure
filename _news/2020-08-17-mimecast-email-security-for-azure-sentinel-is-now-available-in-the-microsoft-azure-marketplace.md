@@ -1,29 +1,26 @@
 ---
 category: news
-title: "Adverity Now Available in the Microsoft Azure Marketplace"
-excerpt: "Adverity is a leading force in intelligent marketing analytics and business-ready data. Marketing data is a critical asset in helping businesses pivot, adapt and grow, but data complexity is hampering success due to the lack of understanding and ability to incorporate meaningful insights into positive outcomes."
-publishedDateTime: 2020-07-01T15:37:00Z
-webUrl: "https://www.exchangewire.com/blog/2020/07/01/adverity-now-available-in-the-microsoft-azure-marketplace/"
-ampWebUrl: "https://www.exchangewire.com/blog/2020/07/01/adverity-now-available-in-the-microsoft-azure-marketplace/?amp"
-cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2020/07/01/adverity-now-available-in-the-microsoft-azure-marketplace/?amp"
+title: "Mimecast® Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
+excerpt: "(GLOBE NEWSWIRE) -- Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure Marketplace,"
+publishedDateTime: 2020-08-17T09:30:00Z
+webUrl: "https://apnews.com/4710425f0bbe81da97cd4d269601accc"
 type: article
-quality: 57
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: exchangewire.com
-  domain: exchangewire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.exchangewire.com/wp-content/uploads/2019/12/adverity-logo.jpg"
-    width: 400
-    height: 400
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
-    title: "Adverity Now Available in the Microsoft Azure Marketplace"
 
 related:
   - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
@@ -52,6 +49,22 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/b4pDwTCQEtLC6nRcpfpfYB-1200-80.png"
         width: 752
         height: 423
+        isCached: true
+  - title: "Adverity Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Adverity is a leading force in intelligent marketing analytics and business-ready data. Marketing data is a critical asset in helping businesses pivot, adapt and grow, but data complexity is hampering success due to the lack of understanding and ability to incorporate meaningful insights into positive outcomes."
+    publishedDateTime: 2020-07-01T15:37:00Z
+    webUrl: "https://www.exchangewire.com/blog/2020/07/01/adverity-now-available-in-the-microsoft-azure-marketplace/"
+    ampWebUrl: "https://www.exchangewire.com/blog/2020/07/01/adverity-now-available-in-the-microsoft-azure-marketplace/?amp"
+    cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2020/07/01/adverity-now-available-in-the-microsoft-azure-marketplace/?amp"
+    type: article
+    provider:
+      name: exchangewire.com
+      domain: exchangewire.com
+    quality: 57
+    images:
+      - url: "https://www.exchangewire.com/wp-content/uploads/2019/12/adverity-logo.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Qore Technologies' Free 3Months Usage Plan for Qorus Integration Engine Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to free use of Qorus Integration Engine to mitigate the business implications of COVID-19 PRAGUE, CZECH REPUBLIC, April 15, 2020 /EINPresswire.com/ -- Qore Technologies today announced the availability of a free three-month usage and consultation plan for Qorus Integration Engine in the Microsoft Azure Marketplace,"
@@ -221,20 +234,6 @@ related:
         width: 400
         height: 275
         isCached: true
-  - title: "Mimecast® Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
-    excerpt: "(GLOBE NEWSWIRE) -- Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure Marketplace,"
-    publishedDateTime: 2020-08-17T09:30:00Z
-    webUrl: "https://apnews.com/4710425f0bbe81da97cd4d269601accc"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 25
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "GAVS Technologies: Zero Incident Framework (ZIF) Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to ZIF to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies PRINCET"
     publishedDateTime: 2020-06-23T04:20:00Z
@@ -282,6 +281,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "FIkHyjWsmZ5iJgVQgNiHaKkbV7/AxQxPcVeESOyCNqFRaynmkDj2Wz/OUR7BYHW3zQKS742RAic8DQh3rn3+SMM/oRb9M5sz8WoRQNA1ZhEHfnIOLIebtX6sC5em2QMtv111zzNG6Fh+GYinWICCn9fDrQoavz1C5Wh+F71Yut5z+fIKudQFpkXzJwE6z9TrLbfRnl/KTMrCiNhWWXIGbYMuJwX0mzRfEqc6XNraD+ByRR+j8fPMnOukhC5c8WP4UcjCsugIWK+KSfzoBkDU9RQtCX4layYliwDRD18E7IGh1K64/6lSWpIknlr2E2VHxHQp7D610cqBkjAbmE0kNlTYaSXch8hbzzjhN3B1X33ThTok/d9buIrY7jnUmHiv1Rob243Mepy0dD43t2uXiVoajN3o6ORKp2Driwc2K1dAZYBRvURyJ9N0g0nzLsK72CGWblnyL+C+P91orqJSSYYIYsEsyroTknQGHK82HTaamztU9V1B/xnU53i801xtWgtPGc06kHP9npZS2RxCaA==;1hsjF0sjDy4yyV3neTDnxw=="
+secured: "PtT3yX6dM7Xfm70xyVxxCGk4FCICnTVH2vOTNevxSkuSKIdUV/It3pJouqW75XsQZdGCV2cP0X4zC2jy/BMGalW/YHzLNswdkgAtAViSkSxpdfT5Q8E6RLCq9rDxVehD/3AGWRITnmqrc5TzAZyLMvQwCImu4vnxnrgUhqWbQWhYI3kyZKb77gWk9VkoRt6zhTqiR1SKu0BrjpY/cmQw0NtMFEsTtI5vq0Bfk695reE3EQ4NXwlB55WckCwf39+HBvCBuFdoAQEjKj/iyZN1pQdj+7DqZM1ogUPop0Oi6mmeDm8R4hQbRlRoOm00MXb/x2ks7mJC+v0dU1odeYkJug==;jc33eATFyx6UdTEc57kd3Q=="
 ---
 
