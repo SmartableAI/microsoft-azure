@@ -4,7 +4,7 @@ excerpt: "Learn how to monitor resources by using Azure Monitor and implement ba
 type: collection
 price: Free
 length: PT6H25M
-heat: 81
+heat: 84
 
 provider:
   name: Microsoft Learn
