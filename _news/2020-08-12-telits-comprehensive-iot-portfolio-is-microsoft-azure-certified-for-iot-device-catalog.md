@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Telit's Comprehensive IoT Portfolio is Microsoft Azure Certified for IoT Device Catalog"
-excerpt: "\"The new Azure IoT capabilities in Telit's industry-leading modules for 4G LTE, Bluetooth and Wi-Fi enables customers to rapidly integrate their devices with the Microsoft Azure ecosystem,\" said ..."
-publishedDateTime: 2020-08-12T13:03:00Z
-webUrl: "https://www.prnewswire.com/news-releases/telits-comprehensive-iot-portfolio-is-microsoft-azure-certified-for-iot-device-catalog-301110436.html"
+excerpt: "Telit, a global enabler of the Internet of Things (IoT), today announced that several of its module families have been certified by Microsoft as"
+publishedDateTime: 2020-08-12T13:37:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/telits-comprehensive-iot-portfolio-is-microsoft-azure-certified-for-iot-device-catalog/article_0a2f2a9c-4e2d-573c-a5ce-abfefb58b1bd.html"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/519755/Telit_Logo.jpg?p=facebook"
-    width: 2699
-    height: 1414
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/d1/2d13a01e-75f6-58d5-9811-61261eb5fa94/5f33ef747e9d5.image.jpg?resize=400%2C232"
+    width: 400
+    height: 232
     isCached: true
 
 related:
@@ -66,6 +66,6 @@ related:
         height: 473
         isCached: true
 
-secured: "OfDKRZKDhIBXHeIDHP9WOPFujORmRjupYxsOnM1XExHxGuGZbAhJD1fJNnvSfN+MeX/DNrlw1ZHRIZMuXcKIhJaE9m+oZ+jExlcKN3+2dKQJpCWWE+dhgfSpi5vDbva0o6i61GZOsnIeWoorgQCHSoU97ta3A4NeO9D5E8J0OTNPT/I8GF6s82VHqS1E7CEXniUN3+PZSQ1VpCmzRIuDT1ZjIzd8w+UQypkx98ogMunRi4eFUKUWuxBXvEgmsPD82SkTFUgBOoLC8GLi5/5nXS10A8TgLyyul2dwSH91fj1ybDLIrS6EeCXOMkGJkjlm3oZdyvdbmMJyNCRVoxdT8A==;0aaR2eTP5Rk7bRXHUD3+KQ=="
+secured: "ERQM/srKt/a26HNd8pgCooLb4A1ghQxxLNPEO/1J1BHELpc5ulSXWnOU2ol1Rb7EkS0isuJAEDQk5HZkn5pDssa05fKty4qTKn4VEl4zJotBsiLstVmIc0xlZs1DMmGu/razZ29n+NPBiOLd+VwuUB1e0rPqqp9jnYo7dg4CboiUNVlMLY/SR7cwOzhbtuYXj96hrA17BQs7GJi29L5P8EnpydFN4fz8zUrDtNnHynGaMSK9jIbtcinZ04ngA3/PUh1JPH1MImZIwhNQ/4mnkHxapUXD2rAvyvhWxPEMyaKOzaDxdoewnKw//3wTHV32u2Cv8CoJZCqXxe/Br007/A==;Vmz768O41EVX0p8G7mrxuw=="
 ---
 

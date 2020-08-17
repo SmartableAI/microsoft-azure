@@ -1,27 +1,30 @@
 ---
 category: news
-title: "KlariVis Now Available in the Microsoft Azure Marketplace"
-excerpt: "KlariVis customers can now take advantage of the productive and trusted Microsoft Azure cloud platform with streamlined deployment and management."
-publishedDateTime: 2020-06-09T12:09:00Z
-webUrl: "https://www.businesswire.com/news/home/20200609005152/en/KlariVis-Microsoft-Azure-Marketplace"
+title: "Mimecast(R) Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
+excerpt: "(GLOBE NEWSWIRE) -- Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast (R) Email Security for Azure Sentinel in the Microsoft Azure Marketplace,"
+publishedDateTime: 2020-08-17T10:21:00Z
+webUrl: "https://www.marketwatch.com/press-release/mimecastr-email-security-for-azure-sentinel-is-now-available-in-the-microsoft-azure-marketplace-2020-08-17-51843038"
 type: article
-quality: 37
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://mms.businesswire.com/media/20200609005152/en/796737/23/klarivislogo-black-registered.jpg"
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
-    height: 627
+    height: 630
     isCached: true
-    title: "KlariVis Now Available in the Microsoft Azure Marketplace"
 
 related:
   - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
@@ -35,20 +38,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 73
-  - title: "Mimecast(R) Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
-    excerpt: "(GLOBE NEWSWIRE) -- Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast (R) Email Security for Azure Sentinel in the Microsoft Azure Marketplace,"
-    publishedDateTime: 2020-08-17T10:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mimecastr-email-security-for-azure-sentinel-is-now-available-in-the-microsoft-azure-marketplace-2020-08-17-51843038"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Zixi Now Available Through Microsoft Azure"
     excerpt: "Zixi Broadcasters will be deployed on Azure using ZEN Master, a control plane that enables users to manage large-scale configurations to orchestrate, analyze, monitor, alert and report on live video streams and devices across the Zixi Enabled Network."
     publishedDateTime: 2020-06-17T14:56:00Z
@@ -108,6 +97,20 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "KlariVis Now Available in the Microsoft Azure Marketplace"
+    excerpt: "KlariVis customers can now take advantage of the productive and trusted Microsoft Azure cloud platform with streamlined deployment and management."
+    publishedDateTime: 2020-06-09T12:09:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200609005152/en/KlariVis-Microsoft-Azure-Marketplace"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 37
+    images:
+      - url: "https://mms.businesswire.com/media/20200609005152/en/796737/23/klarivislogo-black-registered.jpg"
+        width: 1200
+        height: 627
         isCached: true
   - title: "MinerEye DataTracker™, Now Available in the Microsoft Azure Marketplace"
     excerpt: "MinerEye, a leading data protector company, today announced the availability of its innovative DataTracker™ via the Microsoft Azure"
@@ -296,6 +299,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "ZSKnnJXpQDrLLxh2hJSZp1lL1Zh9eSwo5A1hwC/gnSYb+UtEi/NEoidJwoYSuPzG7bRKu8kHAxLTmzdePAvFaQD2PvAdpR3450xvlPL/F8ETRJsoGrHyhy/u/s+2zYwhCLmvmSsvHqL+Ps1r2zPr4XWHEgHY/RxYjlaPZy9WVD7ATPvEA0pYxF4nl/7RNoHzPTOnDTu7gh3UJwnlbJ5r1xxSpJVLRDdtDpLx+X5ML9sWffTqGfn+/ctZbSAdejareaLSLLRqjbHkiXwFQoUsvYXldnhlflypPsJ/gHSSnBMTOKxJP60gCokMB+pNjZrkmjLDf20sNWfA2zOL60LC2JVxa+whRDjjMHBrzosyfkH8M2TnplNJ6VS76yf79TMROd7qPJLHCZkN/0GonD44s8znNS2JI3yj+wKL5SZwt6gBzfvyrpTvyZThz2YG60EfGZ3cklK0x5QTR35d2bPAoVp+dehz5fkU6Z5ftOPVk67FllX0AHcILmr+2zOqbnyU;lbKqTDD10cN/2A+sGKNFMQ=="
+secured: "5Jr1HgigV8k8Nwc4kxMpgsuvGFik6SM0bH+f8wIIlY3hvA/3zSSv1rTmWn9lfviVAljwOirGe1ujgtoTLKzrdDbmNMmn8Gh5FTf1+yZyiMdHYPuzJA9kiyJvelvtBUBQZYbFomMB+ynv4JUzBMxm3fz7hDoyfxYupmx5HnsiL4pQMJjQnYvYWnZ7CGTvE1kdqHiRfvAQcDFaV+OHXeWDkoa5dBHWw4QzVCHB0VRDuKUkFcvYK14uXK5QKqUHQ/ROEfKsPxEz4wUxvFWjbZGef8kTPgu6ZjQkCqDcm+Fh0XJ9W5Wl7uV5WlCxzncjaING5/Lg+vDTrNQpe7lgzUC3CA==;8pfDJr5vzPqCjmnsut3DqA=="
 ---
 

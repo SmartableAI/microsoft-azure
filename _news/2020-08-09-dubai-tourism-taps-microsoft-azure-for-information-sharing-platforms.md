@@ -52,18 +52,18 @@ related:
         height: 473
         isCached: true
   - title: "Telit's Comprehensive IoT Portfolio is Microsoft Azure Certified for IoT Device Catalog"
-    excerpt: "\"The new Azure IoT capabilities in Telit's industry-leading modules for 4G LTE, Bluetooth and Wi-Fi enables customers to rapidly integrate their devices with the Microsoft Azure ecosystem,\" said ..."
-    publishedDateTime: 2020-08-12T13:03:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/telits-comprehensive-iot-portfolio-is-microsoft-azure-certified-for-iot-device-catalog-301110436.html"
+    excerpt: "Telit, a global enabler of the Internet of Things (IoT), today announced that several of its module families have been certified by Microsoft as"
+    publishedDateTime: 2020-08-12T13:37:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/telits-comprehensive-iot-portfolio-is-microsoft-azure-certified-for-iot-device-catalog/article_0a2f2a9c-4e2d-573c-a5ce-abfefb58b1bd.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 29
     images:
-      - url: "https://mma.prnewswire.com/media/519755/Telit_Logo.jpg?p=facebook"
-        width: 2699
-        height: 1414
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/d1/2d13a01e-75f6-58d5-9811-61261eb5fa94/5f33ef747e9d5.image.jpg?resize=400%2C232"
+        width: 400
+        height: 232
         isCached: true
 
 secured: "Iug7XJ6tFwVQB/e+vm6Rl2mXiclyBAmI4rmPOGdLHiXX8tjioA14/RBQlX1G13OBA/p1rQBP0QuwfdS0HyB4nzpo7Aqwu30PsY5fm3JxUPArek0bEv0e82iBLRpfVB0XaZWD3t6ZkAKMJ5LKNkCTwGg0vG7j+VppHpzHxdDvyJw1TDV1jsLdaBADJnyG52fKRePgI3i0WbQ8wixtRNBTADHAPV2UUAmxRENC8+Ia7S+1Lc6C62k1jTqG0ZDcpLG+yAio6q4xosCGdI5i0xqsgRa0qCoxzzkqY1JAKQSniGwvUgFIXbjuCyx25urGpdYIYR/5gUHgA9KgbPlA6Wp9xQ==;xsKTzTVGFKU4i7SutJCmVA=="

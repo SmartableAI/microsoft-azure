@@ -1,25 +1,25 @@
 ---
 category: news
-title: "Innovaccer’s COVID-19 Management System Now Available in the Microsoft Azure Marketplace"
-excerpt: "Innovaccer, Inc., a leading healthcare technology company, today announced the availability of its COVID-19 Management System in the Microsoft Azure Marketplace, an online store providing ..."
-publishedDateTime: 2020-08-13T16:19:00Z
-webUrl: "https://www.healthcaredive.com/press-release/20200813-innovaccers-covid-19-management-system-now-available-in-the-microsoft-azur-1/"
+title: "Innovaccer's COVID-19 Management System Now Available in the Microsoft Azure Marketplace"
+excerpt: "SAN FRANCISCO, Aug. 13, 2020 /PRNewswire/ -- Innovaccer, Inc., a leading healthcare technology company, today announced the availability of its COVID-19 Management System in the Microsoft Azure ..."
+publishedDateTime: 2020-08-13T16:17:00Z
+webUrl: "https://www.prnewswire.com/news-releases/innovaccers-covid-19-management-system-now-available-in-the-microsoft-azure-marketplace-301111911.html"
 type: article
 quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Healthcare Dive
-  domain: healthcaredive.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.healthcaredive.com/user_media/pressrelease/company_logos/20200813155131602/zez9iqg8lghajcaq65ai.png"
-    width: 256
-    height: 256
+  - url: "https://mma.prnewswire.com/media/1228171/Innovaccer_Logo.jpg?p=facebook"
+    width: 600
+    height: 314
     isCached: true
 
 related:
@@ -34,6 +34,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 73
+  - title: "Mimecast(R) Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
+    excerpt: "(GLOBE NEWSWIRE) -- Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast (R) Email Security for Azure Sentinel in the Microsoft Azure Marketplace,"
+    publishedDateTime: 2020-08-17T10:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mimecastr-email-security-for-azure-sentinel-is-now-available-in-the-microsoft-azure-marketplace-2020-08-17-51843038"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Zixi Now Available Through Microsoft Azure"
     excerpt: "Zixi Broadcasters will be deployed on Azure using ZEN Master, a control plane that enables users to manage large-scale configurations to orchestrate, analyze, monitor, alert and report on live video streams and devices across the Zixi Enabled Network."
     publishedDateTime: 2020-06-17T14:56:00Z
@@ -281,6 +295,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "o0YM/3zuPxul8wP477ciaXhY3Q34yEaJduIvpFxV2HSGNUkKOPcCcRqEqbvyfQkwo/57b1WXsHIE82d5AaOoQlGmCJGGAnTR0J4pHSRF2zGSvscgZxM4ZKcR+PFR51hyaBNuYCshuqhJUyYEA2cguTP2JRvb6Ocj6hui2sPSoiU9mgBsZAPpobcHfoxZQCSFqKloDFuRkLLOdC8rvehJHeImY+HfqysDr07mpHRlbFJP0OsyLxmsXyhFKm0Dgk28+YTxYemL08DCfeJkWa+4npSMNosmIS/3ihigcJJ6ZMmivaFAoiqM0fB8wIKvigL8GxouoP/94fidEOp4EEPR3g==;MysNA/hvv9JLGNT9Y8LNIg=="
+secured: "sp+zG60q+7mJsgPIg/tydobIUyJg+SWYou4bvWHseNB1Q75NHlU8xerxAMaplxT9i8y9V7dK1+yPNqqXxs9jgaP7VnyLQ6KHG67HRd7MG+Qm/FIScHKlzas3F8MViNiDrxcNPVxM7qXbbi1hAaVg71xLnO6m0vsZgaxjqhc/EPnMsFHsjJqAyuOlRTSv/wL0+cbuGr1cM/XvdctG/xQM6aUcygqwis1haYSwEgXXUZXKcuBWDTLvAar2Hl08zK9piqRiG6Sw9+DuiVNd8aUqFVXUtZYAjIXz3EsKvhwomRl3LnDeSXPHZctC0+9cADpbT0/EBVAk/UaPJPWsAG5Jag==;x85GXP9zHS4t9FBLt6wlxw=="
 ---
 
