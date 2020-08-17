@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Innovaccer's COVID-19 Management System Now Available in the Microsoft Azure Marketplace"
-excerpt: "\"We are delighted to have our COVID-19 Management System available in the Microsoft Azure Marketplace. Amidst the COVID-19 crisis, it is our duty to make a contribution that assists the healthcare ..."
-publishedDateTime: 2020-08-13T16:22:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/innovaccer-s-covid-19-management-system-now-available-in-the-microsoft-azure-marketplace-1029502354"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/innovaccer-s-covid-19-management-system-now-available-in-the-microsoft-azure-marketplace-1029502354"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/innovaccer-s-covid-19-management-system-now-available-in-the-microsoft-azure-marketplace-1029502354"
+excerpt: "SAN FRANCISCO, Aug. 13, 2020 /PRNewswire/ -- Innovaccer, Inc., a leading healthcare technology company, today announced the availability of its COVID-19 Management System in the Microsoft Azure ..."
+publishedDateTime: 2020-08-13T16:17:00Z
+webUrl: "https://www.prnewswire.com/news-releases/innovaccers-covid-19-management-system-now-available-in-the-microsoft-azure-marketplace-301111911.html"
 type: article
-quality: 68
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://mma.prnewswire.com/media/1228171/Innovaccer_Logo.jpg?p=facebook"
+    width: 600
+    height: 314
+    isCached: true
 
 related:
   - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
@@ -267,6 +267,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "hoGbwx7IVC2l5Y2lbGZqtwsaq554EeNVL4G8/1sP1pLOZ05N2u0YcQuOO68Jz/nksH8GaNGii+tNyTrDCWNm6XeDlEUb53XfJTHDgDiJlEckRxv9Q0noQF3f8dnZZaIb5KHPzdkgUOZthBnbSvYIyhGzz7F+jAc0OUpbR7Cd2M9cR/kxxcz7wA4jOHAUBfez/lBxI6bLRXNqq7tvXnT8oWUC35+Es0RMlymqlIgh9NT6vxT6W5Kgbu2jHW9OrACbWo+GqhTLl6Of81QQN1CFLn9UJtwQDnRSEQgMNKwSn98WWC05aZ4lBUbpVVZR9KDQpClK2+v6WmlOBOV4wUOQmA==;FZv/O5byq+Z6DraJ+DB5xA=="
+secured: "mAdaVGR1OQuc5UlyhdbueFliiY+Ert8HzZfHmGhKM5Ob5aPf3Nxtk3MLOvRabfIKO9HhUxEA0ZwE0I3xunMhW8g+SIq5JzRTb1zDmtbSAPgMReYsdw8aG27xSbhGMZpNjhWVhehVYKd9A8QVQq5d5qx7tQouUHhLcg4Jq3wbLS22k5o9xlqyjjkCKI+S6lmZw0ELPcqXk/psx4c0phbcqY1k7IE6wYA8xh6xa9rrcwsrS7SWtS0p/eTgGsjOzWZGiL4W9wXE5vZWO7B6sH48stkvzJj7sWDGXcIBJpOxae2gKFBfFDa1sAb+cni4JwNfy2i0zbCe1kFeu0KoFGnpZA==;PhODj3Zwkc6Uhf0lAbVVZA=="
 ---
 
