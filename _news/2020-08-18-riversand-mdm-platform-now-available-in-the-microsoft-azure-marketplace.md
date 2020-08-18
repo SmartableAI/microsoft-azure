@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Parabole.ai announces the launch of TRAIN™ 3.0, the Automated Machine Teaching Platform on the Microsoft Azure Marketplace"
-excerpt: "Parabole.ai today announced that TRAIN™ 3.0, its MACHINE TEACHING PLATFORM is now available on the Azure Marketplace. Parabole's unique"
-publishedDateTime: 2020-06-03T13:12:00Z
-webUrl: "https://www.prnewswire.com/news-releases/paraboleai-announces-the-launch-of-train-3-0--the-automated-machine-teaching-platform-on-the-microsoft-azure-marketplace-301069421.html"
+title: "Riversand MDM Platform Now Available in the Microsoft Azure Marketplace"
+excerpt: "Riversand, a provider of cloud-native Master Data Management (MDM) and Product Information Management (PIM) software solutions, announced today the availability of Riversand MDM Platform in the Microsoft Azure Marketplace and AppSource, online stores ..."
+publishedDateTime: 2020-08-18T11:42:00Z
+webUrl: "https://www.register-herald.com/region/riversand-mdm-platform-now-available-in-the-microsoft-azure-marketplace/article_a728d417-9d67-5209-8fa6-ddef7f578f24.html"
 type: article
-quality: 11
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: The Register-Herald
+  domain: register-herald.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/963377/Parabole_ai_Logo.jpg?p=facebook"
-    width: 2697
-    height: 1414
+  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
+    width: 600
+    height: 600
     isCached: true
-    title: "Parabole.ai announces the launch of TRAIN™ 3.0, the Automated Machine Teaching Platform on the Microsoft Azure Marketplace"
 
 related:
   - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
@@ -151,20 +150,6 @@ related:
         width: 1497
         height: 785
         isCached: true
-  - title: "Riversand MDM Platform Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Riversand, a provider of cloud-native Master Data Management (MDM) and Product Information Management (PIM) software solutions, announced today the availability of Riversand MDM Platform in the Microsoft Azure Marketplace and AppSource, online stores ..."
-    publishedDateTime: 2020-08-18T11:42:00Z
-    webUrl: "https://www.register-herald.com/region/riversand-mdm-platform-now-available-in-the-microsoft-azure-marketplace/article_a728d417-9d67-5209-8fa6-ddef7f578f24.html"
-    type: article
-    provider:
-      name: The Register-Herald
-      domain: register-herald.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
-        width: 600
-        height: 600
-        isCached: true
   - title: "Greater Than Make Enerfy Loyalty Now Available in the Microsoft Azure Marketplace"
     excerpt: "Greater Than, today announced the availability of the cloud-based loyalty program Enerfy Loyalty in the Microsoft Azure Marketplace,"
     publishedDateTime: 2020-06-11T10:01:00Z
@@ -291,6 +276,20 @@ related:
         width: 1223
         height: 476
         isCached: true
+  - title: "Parabole.ai announces the launch of TRAIN™ 3.0, the Automated Machine Teaching Platform on the Microsoft Azure Marketplace"
+    excerpt: "Parabole.ai today announced that TRAIN™ 3.0, its MACHINE TEACHING PLATFORM is now available on the Azure Marketplace. Parabole's unique"
+    publishedDateTime: 2020-06-03T13:12:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/paraboleai-announces-the-launch-of-train-3-0--the-automated-machine-teaching-platform-on-the-microsoft-azure-marketplace-301069421.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 11
+    images:
+      - url: "https://mma.prnewswire.com/media/963377/Parabole_ai_Logo.jpg?p=facebook"
+        width: 2697
+        height: 1414
+        isCached: true
   - title: "Greater Than Make FIA Smart Driving Challenge Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to FIA Smart Driving Challenge provided by Greater Than, to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies."
     publishedDateTime: 2020-05-05T13:06:00Z
@@ -310,6 +309,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "1pa75HQXb5i0ItdrSxyGUjWjWjb4Ef7ZsVekpS4WUA2KE3aGvIrl67u4N/ViYlFgxagy3Eq3XrN2+5LLQs/2h+LMlWTBc+USWO8vaodq/Bv+aI8AySOAu+Cw3N97jSb4Y0QtrCR5wNRX5tjEEcvuMCGzac5CT2ZKV+2fal6n/DCfd+nV/EA0DVk7NOOoN8GwCqNLKPow0NU8Bo1aFiLRo46iuD44atfSVjR6dwOq450R+ciK4ySgCuoWIsHNchA/EjgGfmBqvcKDz2W/slTTe0sx5H35lnmWHq1u08GVLTEelMfcjxP35e56IjemWwXfzWe7QEms1S4+Hyze1Gnp58d9lBH6BFAVkf/a4kRtQ1EYLSiKH4ofQRByt+zSMTQrn9/babB80LGgeTCf8B6TxceOc0RDSoOQlmz0J0rDC3eC2tCdSEy4xpOdqnt0J3jOfIQSIrvImmsybKNN0Ayb15CROJyirXHDIXyCNKTH8Pk=;Fje+ZsdYYdBuLYUS+P2ZWQ=="
+secured: "gXHGv3mYE4JO6QxeaWpJmJPvI6yNZdNzCGRXw1t1kToMQXdN2FVl8877tbqZX6LfUt4XXodfOABgxV9IDAteZZCu/c7dw2rUYsV5W+Q3yXeBaBwh82IHRFBWGMrmkRsN6coBeVm+BUccCCyCeSw/FcRqBNaVViYWRYqB4qU3VXRWdPtWorlbeg5AwGJSsZWfrAfu0cuHLytahsFH2BbHGatHSPE0uSEnTQuvE2rXAcU4+5d5Kd8u/KS45TBi0OqSm8fxknCQh0PATAiBNGG16iLlm6Clsx1UyBJaPCLFnanidAl0yucEES+Rzb86Luo73ANEMSWhGlApUT5A1wLhkQ==;iVqvBw1gv7a0F71SeskMUw=="
 ---
 

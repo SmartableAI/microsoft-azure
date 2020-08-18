@@ -150,6 +150,20 @@ related:
         width: 1497
         height: 785
         isCached: true
+  - title: "Riversand MDM Platform Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Riversand, a provider of cloud-native Master Data Management (MDM) and Product Information Management (PIM) software solutions, announced today the availability of Riversand MDM Platform in the Microsoft Azure Marketplace and AppSource, online stores ..."
+    publishedDateTime: 2020-08-18T11:42:00Z
+    webUrl: "https://www.register-herald.com/region/riversand-mdm-platform-now-available-in-the-microsoft-azure-marketplace/article_a728d417-9d67-5209-8fa6-ddef7f578f24.html"
+    type: article
+    provider:
+      name: The Register-Herald
+      domain: register-herald.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
+        width: 600
+        height: 600
+        isCached: true
   - title: "Greater Than Make Enerfy Loyalty Now Available in the Microsoft Azure Marketplace"
     excerpt: "Greater Than, today announced the availability of the cloud-based loyalty program Enerfy Loyalty in the Microsoft Azure Marketplace,"
     publishedDateTime: 2020-06-11T10:01:00Z
@@ -295,6 +309,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "cbqAIblAfOMGv0COYQTOexiXRylXJ9K8zovmUfPeqKvs5q2GF8y23fHAWnUyktlbLcnNSY6+IduqL9PcgEuZ83astqpgntsMTWYWQoFxD7J10LegbPvrD3dBixUXD+EeOqmjSaZ0p2gH9HmBdta+pkXHPCnuk4WYZGeTVozRjEk49vmpv98U3yXiuqZG/+Wg9XB71Z0FY4WlNB9CRLyJLUlh88ZBmmarXJyCk3LgM2Aewdg1/9+54YwB8Fifa+gvAkySurNOul8RGiwcYdcUhulKA+Jrl1LfvvxJj1CQx7X0KzRFzS1a3Dk4O5VQSnaFZbQ3hODjXD+czItjxDu28A==;ANhwqwi9WSDW43qBCkcHsA=="
+secured: "DeE2fevpPL0Dun56CwLgDdyB7srdyL9Uzfbd6QHodAqga0hcwXx1lvwS9yPmTXEyYOs6nwVP3YPm/NCsfjPYMAhLOSNNPihqSQCjzRe44coyEVFVrxyzVUumMq3pmrcXT+z2Dym5riAaqyNdXKkm6qrixONSMR+SpDjaS6ilByYdUaOn2kMvuLmSqVkceDwU7qwUIKUY2/EHfTBHhZW4VFJQJimDyjoMyLQ2+2P8tx+Es3RaprOj801p1vCrE6PNphyb0Ad4lUxkhyo4NJA3XdtVD+uUv3kOKrhTutIgw35xbq/v4AVnwDP4+7UaBbqKHveZYk5ZIbgY14NxWXIiXQ==;XojA7GqstaFBRiBlsrlj2A=="
 ---
 

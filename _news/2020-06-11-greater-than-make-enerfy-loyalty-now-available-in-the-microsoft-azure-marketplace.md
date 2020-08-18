@@ -151,6 +151,20 @@ related:
         width: 1497
         height: 785
         isCached: true
+  - title: "Riversand MDM Platform Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Riversand, a provider of cloud-native Master Data Management (MDM) and Product Information Management (PIM) software solutions, announced today the availability of Riversand MDM Platform in the Microsoft Azure Marketplace and AppSource, online stores ..."
+    publishedDateTime: 2020-08-18T11:42:00Z
+    webUrl: "https://www.register-herald.com/region/riversand-mdm-platform-now-available-in-the-microsoft-azure-marketplace/article_a728d417-9d67-5209-8fa6-ddef7f578f24.html"
+    type: article
+    provider:
+      name: The Register-Herald
+      domain: register-herald.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
+        width: 600
+        height: 600
+        isCached: true
   - title: "Nuventive COVID-19 Response Hub Now Available in the Microsoft Azure Marketplace"
     excerpt: "Nuventive today announced the availability of the Nuventive COVID-19 Response Hub in the Microsoft Azure Marketplace, an online store"
     publishedDateTime: 2020-07-07T12:00:00Z
