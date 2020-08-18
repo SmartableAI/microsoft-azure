@@ -8,7 +8,7 @@ length: PT59M
 ratings:
   count: 13
   average: 4.769231
-heat: 110
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Perform machine learning with Azure Databricks"
 
-secured: "7NI6tG4fgdRp1G1+ZvPpclhv/Mhc2oqLMx+m5O/VVKCGCSEt9iumWOizIRMQwRCjYMXx4Cfi5zBrRdGmdc/LhQ3UDWupaq6RWwC6g0z87IyM45gQtPVVc2AiHMFc3u1gwyccARj5ssGPF3hYtdrFQXyPZfLrKaqr31jk9uT2wRJPxDzHxpHyYV3J/5WpACUzVQZXwIpbMh/8AcQKWSHM+nILVzHJ0YvnK0UGq7hE7jPbo6a8euZVFrpKUa8Uwoo2e0qSPOKY9SqO6j8/zcGHVhyGSTv2MVJMC+d0AUk+WVYslD8RRGMdubbgMXYcZkWeGQdlMsXJzXn+YXeD5CwxloGFHIs3j/6EIXypttMa+eU8C+tbIHszpGBgKk3rH0z0AoMhXbz+9P+S9vy5T5uEQQ==;OyA08rF/7fUBKJfip0P/OQ=="
+secured: "eC+PPiubkivtuiAzrNQn8AqpRqzxgDRpP0JgiU5jBYwdeNn5i/479AaP3/HWo1oblD4aNDKWC7Twy4KZpeirN/Gsh7K3KPprlPhmmzB16GQtCyCvOuBarf7k4c8ARqRgkPhPeMc4JnM9jW335WZY5eIxj8yETT1mxW5eDLg3bR+iVaYmdeAuMn5MIG5UByrDtEUfjqR4/g4NsDem0uvlNoeODnaH3MJwdiEzI26ehhJzaW+x57ro0a0hACega0YMFzu6+rW9kauZ/wYsTOZIeR/ER/K07CdLlG+EBKcTeH51Eh20ukenUQF39c98OR7013eZm549x5BWjVNTTJitVfrvHwqSq5iwX6Ev2R7KAMHGmob0y+628EiXgZFS9J9PBXguz5OPlEapuA2fNrb/lg==;hi3QTWioEIEdiE1/uKNjHg=="
 ---
 

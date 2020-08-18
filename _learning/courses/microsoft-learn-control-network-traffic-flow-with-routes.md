@@ -8,7 +8,7 @@ length: 50 mins
 ratings:
   count: 1443
   average: 4.6139984
-heat: 60
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Manage and control traffic flow in your Azure deployment with routes"
 
-secured: "XbMloypzxuvtz5rMvFvNmwIjexMNw3mqJ1K7tERO/ft2ITzy/h2WVsJKV2CPfGByXBMVFi7Pd8WplOTqSyfx80CE4kQEKAQWyQBaWDektzLq5HPr819CLOu4QkvucddVcDl21yb3s1OFf32J6qwSZopD4gtaj56dZL7A3DYNUIuAKwXrRjRYoYLrb48JjUf8Mz9BHWN/yETldn/BMePuK153hJRCpJq0DDQzSssyqRz0atTIatoPbslAMU9XbCah5KmFeyclEgcrKdauhEERmCY6zra/Rge5QTtKUB9h6cpjRYsw2z7ErPJAbT6CQI8QDUrhfOrmQo5EAAykfdADScn9a6F8K2N/6EGGwiOapkCSQOmsLWN2kRSm5Y+euJPgAFR/cAvEtIFErh4UWfi9EQ==;HjKCHUpwbScmY0qXmAimkg=="
+secured: "F/csnyXClB3Y83BPFrwsMRgLb5Kh8IceBQCR9If4rf+KTIxSzZnyoNEpYvw5/qsDAl9BqcGorKBLeKcGJmjoxFir86qtFWFkOpeJIc7cbtYRnN+xCSl4qSJRwOjM/zzCgu05KEuAjvbHYM6gEIq4Hoxmt7NsXWxCwoeh6//ate39+hRPa6NqIGzI7ZMHtF/L5isUX38+ZvEArKfuD0yEwSeBBhJMbi4h+2kfANP5gALYG8R+DyKMQyzuau/ZQid7ISuaUhpSWL0IssU664lIFfL/oPlzZ/wFIySqdIWaUKc85IJSBmDUXeaufi6DJmPZE2Lp9JsPZnZPx03DdWT7+3S0KRRBOxGJ1yrCuIXDxRX5PB82iSv/5K6T5R5nbTMrkUL6AM2kFlvI8CkC0mtnBg==;JDAYOEsknClRoOWMo6yYoA=="
 ---
 

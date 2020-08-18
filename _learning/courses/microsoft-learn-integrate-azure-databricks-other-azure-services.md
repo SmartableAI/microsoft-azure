@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Integrate Azure Databricks with other Azure services"
 
-secured: "3xXmq0H/AV5LEUbGY2v8NxbaZE7BcGuxzNvim5VzjTgZxa8r4jmfnSnCfX7woCHc2+RYzIQSOmwtQ+g3cXVd8wvjugx+Vdo8ZxLlZWTHTsx7eg6tgN/Y/+1JZ/DnbbFZ/mICsL4TuoYFKSwFQX2N77ua+/SNG/Y4AL4ql92aShxERYv1nrbIsqW0qqY1siBnBa5mem0qPQueC1VbVx+WkkYvnQJVaztMJfYffaKpDSaTNXx3tOLc9nciqTgLIYLVSxJUWQKiG9o9+rDoMbGc1DdI2yspstMBsDJifZvlH4fieHgCOicI486zqN9UwEl0h/FjE7TRMM37H6vRH6QgjJ//JcsDM/TAtsvb7fa79I9tojn1SSSRX0RWGsLXQ0FwLLE+80t+Rz0/D2/gZkui6w==;38+RFVFnrCPWI+rQ4ml6xQ=="
+secured: "bFv10skb2VgbIuV7sqyHRCKc+vlsmvwBOVJP4qkXWQSP/pNj6rtjBf0L4NY9l/rllU69i6GWjh1+Gyyv2YfhJEUWHN4uI+ECMWcioKQEAqWbqkXeSmlzLk6kccBzt9s+6rnBfq+r2UJz7IYtdE7b8h9ss765FznlhR5rJrJLfh1CoceUDJ5cDuZ8EDwJPJnXVceiLZEa6DJAeeBsDrow6QIGac5ZRiIwIyHNItORD6nKu2NfhvO6FETaZjiTMqY4L7ELAROOJ4iF6JQngsfOz359/L8M2RCPmnnE60LrIx+ZWNVSlnTDf8yMPLefIucoS5USsGzfI2iFCY7JSjh8cw6x2vNbYuwjQEbpuIK8Q+yD3p5a6Mbaz4h1saQNFs7tF5pxXp0C0Yb6uMCZfww2Lw==;W8wvvZ9MSInJXaZaVszdwQ=="
 ---
 
