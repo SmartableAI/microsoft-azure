@@ -2,26 +2,26 @@
 category: news
 title: "Cybrary Releases AZ-500 Certification Course To Expand Its Industry Leading Azure Cloud Training Catalog"
 excerpt: "COLLEGE PARK, Md., Aug. 18, 2020 /PRNewswire/ -- Cybrary, the world's largest online cybersecurity career development platform, today announced it has released its new AZ-500: Microsoft Azure Security Technologies certification course to further ..."
-publishedDateTime: 2020-08-18T13:15:00Z
-webUrl: "https://www.prnewswire.com/news-releases/cybrary-releases-az-500-certification-course-to-expand-its-industry-leading-azure-cloud-training-catalog-301113846.html"
+publishedDateTime: 2020-08-18T14:46:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cybrary-releases-az-500-certification-course-to-expand-its-industry-leading-azure-cloud-training-catalog/article_6e051518-9477-5fad-9d8c-130fa91c99e5.html"
 type: article
 quality: 20
 heat: 20
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
-secured: "qw4vEYW0HyuEXPMYT7+pw14qeAD53f+EIdLazlQBJY8kEHGHdeBq8mV7lfij3j6xQEY4olXyKEdyXSNIJCT1oAG+ts89TLugMujvaHv4mQPWjO6LL0daPqLtUIqIg8w/RicDFwUxJxgBKgT5y5FgZ+Sm5eL5zknjmVG5Q9u0jVCwZHn0vbG4ThEoNVIq/r6g6aPYaW7tCW79KEkcTER88IlNr1VMpBaXLBK6Lo6ENXNd+UR2zf4O5FV0afASNN7BLzB5ovcHhhlQ132mLySScVi9Fv90g+r5gr65yXzCCU4Yxw+aIrsyJ51xI1IuTTjAQz1EJokrNzXtwtRNY4CrDA==;iFUgyJkvBxLZKvQ/VvmJMw=="
+secured: "M09Iq9PTfiqfOzgPdiC5zYQKfHJ31ROidXFoPlXJniThQnH7m+J9bX0NGWdTSpi7P0EkQdOFABB9yv5x8lS7MoVhf0TSIkC2/ptcahBJLi4/BudcV+t51ZwwyYS6DKLrYfE7gp7c8JqqPPS5EYaVUi89LIiS1Dok8Z2qVCbmz9EEbNiHZvGo7s8YVi5Bj4viFRfmOaOQIAPG0vP700DzMgDloz7AMHiqigLLIHfwRh+1sxtVCjb45SSyHhGE+BSHACNVHvpW+RZFigROQXgPWMaKlf1odew4br4Z6uFupkyrEFL0dolOVb+Mh/oYL7T/2ubrNd8ly4Xccn7/ghuSIw==;Kj2vD9Hcp8KQmimEGPfvwg=="
 ---
 
