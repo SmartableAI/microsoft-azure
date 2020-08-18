@@ -2,24 +2,24 @@
 category: news
 title: "Riversand MDM Platform Now Available in the Microsoft Azure Marketplace"
 excerpt: "Riversand, a provider of cloud-native Master Data Management (MDM) and Product Information Management (PIM) software solutions, announced today the availability of Riversand MDM Platform in the Microsoft Azure Marketplace and AppSource, online stores ..."
-publishedDateTime: 2020-08-18T11:42:00Z
-webUrl: "https://www.register-herald.com/region/riversand-mdm-platform-now-available-in-the-microsoft-azure-marketplace/article_a728d417-9d67-5209-8fa6-ddef7f578f24.html"
+publishedDateTime: 2020-08-18T12:26:00Z
+webUrl: "https://www.oaoa.com/news/business/riversand-mdm-platform-now-available-in-the-microsoft-azure-marketplace/article_b58fe46c-ae7b-5911-9185-d3a396508bad.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: The Register-Herald
-  domain: register-herald.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
-    width: 600
-    height: 600
+  - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+    width: 576
+    height: 288
     isCached: true
 
 related:
@@ -220,19 +220,19 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Innovaccer's COVID-19 Management System Now Available in the Microsoft Azure Marketplace"
-    excerpt: "SAN FRANCISCO, Aug. 13, 2020 /PRNewswire/ -- Innovaccer, Inc., a leading healthcare technology company, today announced the availability of its COVID-19 Management System in the Microsoft Azure ..."
-    publishedDateTime: 2020-08-13T16:17:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/innovaccers-covid-19-management-system-now-available-in-the-microsoft-azure-marketplace-301111911.html"
+  - title: "Innovaccer’s COVID-19 Management System Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Innovaccer, Inc., a leading healthcare technology company, today announced the availability of its COVID-19 Management System in the Microsoft Azure Marketplace, an online store providing ..."
+    publishedDateTime: 2020-08-13T16:19:00Z
+    webUrl: "https://www.healthcaredive.com/press-release/20200813-innovaccers-covid-19-management-system-now-available-in-the-microsoft-azur-1/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Healthcare Dive
+      domain: healthcaredive.com
     quality: 28
     images:
-      - url: "https://mma.prnewswire.com/media/1228171/Innovaccer_Logo.jpg?p=facebook"
-        width: 600
-        height: 314
+      - url: "https://www.healthcaredive.com/user_media/pressrelease/company_logos/20200813155131602/zez9iqg8lghajcaq65ai.png"
+        width: 256
+        height: 256
         isCached: true
   - title: "Commvault's Metallic SaaS Data Protection Now Available in the Microsoft Azure Marketplace"
     excerpt: "Availabiltiy in the Azure Marketplace gives them an easy entry point to their data protection solution, using Metallic to safeguard data across their hybrid or cloud-native environment.\" \"Microsoft Azure Marketplace lets customers worldwide discover ..."
@@ -309,6 +309,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "gXHGv3mYE4JO6QxeaWpJmJPvI6yNZdNzCGRXw1t1kToMQXdN2FVl8877tbqZX6LfUt4XXodfOABgxV9IDAteZZCu/c7dw2rUYsV5W+Q3yXeBaBwh82IHRFBWGMrmkRsN6coBeVm+BUccCCyCeSw/FcRqBNaVViYWRYqB4qU3VXRWdPtWorlbeg5AwGJSsZWfrAfu0cuHLytahsFH2BbHGatHSPE0uSEnTQuvE2rXAcU4+5d5Kd8u/KS45TBi0OqSm8fxknCQh0PATAiBNGG16iLlm6Clsx1UyBJaPCLFnanidAl0yucEES+Rzb86Luo73ANEMSWhGlApUT5A1wLhkQ==;iVqvBw1gv7a0F71SeskMUw=="
+secured: "iExvapZBpUmvcWcjJ9ysbemPcxa2d83zm2SbUC/JRfxdygSvUkq8F+/WgeMfT5/NFoIYsjMA4O23GEKCfvQmg+yiEqOa6p8sR8r4U4fo/YyKYyHU/Lx8/Gm8z6kcCLyu3eI/dJRr/6oSGD03es5MG7It3MbzhM/tp2taFDK3mlgrrgrO0vW5BUJJIuBf2xkS4zpFYnICUaRXfFkqzzkf811L7RAcBCGqL1E+D0aTR1HNmmh7/dBL4ftPGQqyaSk4Up6e6bnTq5LgK5n90q7uD42b9SVuaJTx1gw5glQSdRcUsuWAFjAGjoRPul0hGK6QLg/KQhvY9e+q0++MDXEEPw==;pKIYh0e1zSL8/Gjloe2L0A=="
 ---
 

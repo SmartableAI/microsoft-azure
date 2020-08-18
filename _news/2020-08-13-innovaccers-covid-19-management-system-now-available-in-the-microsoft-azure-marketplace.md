@@ -1,25 +1,25 @@
 ---
 category: news
-title: "Innovaccer's COVID-19 Management System Now Available in the Microsoft Azure Marketplace"
-excerpt: "SAN FRANCISCO, Aug. 13, 2020 /PRNewswire/ -- Innovaccer, Inc., a leading healthcare technology company, today announced the availability of its COVID-19 Management System in the Microsoft Azure ..."
-publishedDateTime: 2020-08-13T16:17:00Z
-webUrl: "https://www.prnewswire.com/news-releases/innovaccers-covid-19-management-system-now-available-in-the-microsoft-azure-marketplace-301111911.html"
+title: "Innovaccer’s COVID-19 Management System Now Available in the Microsoft Azure Marketplace"
+excerpt: "Innovaccer, Inc., a leading healthcare technology company, today announced the availability of its COVID-19 Management System in the Microsoft Azure Marketplace, an online store providing ..."
+publishedDateTime: 2020-08-13T16:19:00Z
+webUrl: "https://www.healthcaredive.com/press-release/20200813-innovaccers-covid-19-management-system-now-available-in-the-microsoft-azur-1/"
 type: article
 quality: 28
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Healthcare Dive
+  domain: healthcaredive.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1228171/Innovaccer_Logo.jpg?p=facebook"
-    width: 600
-    height: 314
+  - url: "https://www.healthcaredive.com/user_media/pressrelease/company_logos/20200813155131602/zez9iqg8lghajcaq65ai.png"
+    width: 256
+    height: 256
     isCached: true
 
 related:
@@ -152,17 +152,17 @@ related:
         isCached: true
   - title: "Riversand MDM Platform Now Available in the Microsoft Azure Marketplace"
     excerpt: "Riversand, a provider of cloud-native Master Data Management (MDM) and Product Information Management (PIM) software solutions, announced today the availability of Riversand MDM Platform in the Microsoft Azure Marketplace and AppSource, online stores ..."
-    publishedDateTime: 2020-08-18T11:42:00Z
-    webUrl: "https://www.register-herald.com/region/riversand-mdm-platform-now-available-in-the-microsoft-azure-marketplace/article_a728d417-9d67-5209-8fa6-ddef7f578f24.html"
+    publishedDateTime: 2020-08-18T12:26:00Z
+    webUrl: "https://www.oaoa.com/news/business/riversand-mdm-platform-now-available-in-the-microsoft-azure-marketplace/article_b58fe46c-ae7b-5911-9185-d3a396508bad.html"
     type: article
     provider:
-      name: The Register-Herald
-      domain: register-herald.com
+      name: Odessa American
+      domain: oaoa.com
     quality: 37
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
-        width: 600
-        height: 600
+      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+        width: 576
+        height: 288
         isCached: true
   - title: "Greater Than Make Enerfy Loyalty Now Available in the Microsoft Azure Marketplace"
     excerpt: "Greater Than, today announced the availability of the cloud-based loyalty program Enerfy Loyalty in the Microsoft Azure Marketplace,"
@@ -309,6 +309,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "DeE2fevpPL0Dun56CwLgDdyB7srdyL9Uzfbd6QHodAqga0hcwXx1lvwS9yPmTXEyYOs6nwVP3YPm/NCsfjPYMAhLOSNNPihqSQCjzRe44coyEVFVrxyzVUumMq3pmrcXT+z2Dym5riAaqyNdXKkm6qrixONSMR+SpDjaS6ilByYdUaOn2kMvuLmSqVkceDwU7qwUIKUY2/EHfTBHhZW4VFJQJimDyjoMyLQ2+2P8tx+Es3RaprOj801p1vCrE6PNphyb0Ad4lUxkhyo4NJA3XdtVD+uUv3kOKrhTutIgw35xbq/v4AVnwDP4+7UaBbqKHveZYk5ZIbgY14NxWXIiXQ==;XojA7GqstaFBRiBlsrlj2A=="
+secured: "2XHDdODKS+0ov1khzK5grw6eDPpHet9HdIgj8mu0Wz3cOeAd53ti17KM6japRZXwV+jlQMNrUeiCmLqqFWrcGgG57420ePZCgUtCN0YjMhk2opGv8Ztu8DWXnfooIVSpMSsdODUGtCmgwgoCDyHsRVMpuYn9OHKzhtL3OImxCE30yw7+3rFccGYHgDCSUL1gzlJ27kjd7zhJFBDtHOnh9OrbZieOMmqLd31EyA2iIvwU1b9qXE4iUg4ni7Cn9xHNFZkuLSI2sKu1rTNlgTat0/hXUxZD4BQVyUib4Mum4UzO1sdms3rflOPP3izCdPIjv1F+8aFzYvnRL6HZfikIOw==;osOeoN/VnLJgyYausmyZdQ=="
 ---
 
