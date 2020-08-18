@@ -23,17 +23,34 @@ images:
     isCached: true
 
 related:
-  - title: "TekLink International Inc. Is Now A Microsoft Gold Partner For Azure Cloud Analytics And Data Analytics"
-    excerpt: "TekLink International Inc., a respected leader in Cloud Platforms, Business and Financial Planning Solutions, and"
-    publishedDateTime: 2020-08-07T18:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/08/n16992431/teklink-international-inc-is-now-a-microsoft-gold-partner-for-azure-cloud-analytics-and-data-analy"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16992431"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16992431"
+  - title: "Standard Chartered to Adopt Microsoft Azure to Become a Cloud-first Bank"
+    excerpt: "Standard Chartered Bank and Microsoft have announced a three-year strategic partnership to accelerate the bank’s digital"
+    publishedDateTime: 2020-08-18T00:39:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/17809-standard-chartered-to-adopt-microsoft-azure-to-become-a-cloud-first-bank"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 21
+      name: Deep
+      domain: thefastmode.com
+    quality: 36
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/90cacb6b7e5b5d2906c25a9b819d4d51.jpg?t=20200818_001650"
+        width: 752
+        height: 408
+        isCached: true
+  - title: "Standard Chartered Bank goes multicloud, with Azure as its preferred partner"
+    excerpt: "Standard Chartered Bank plans to become a cloud-first business, adopting a multicloud strategy - but with Microsoft Azure at the top of the list. The two companies entered into a three-year strategic partnership,"
+    publishedDateTime: 2020-08-12T16:39:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/standard-chartered-bank-goes-multicloud-azure-its-preferred-partner/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 34
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "PtI33og6U2if9gYvfzQ0mKLjiXDEVSP4Pu85F1T58CLVilHEkaim9s5VyDgWyUDSSXJxjLojVIO4sn8zGj2R5UUlj6S6Xk4CY145Pg4PSHUrNnrCZ+8CNEmAXRZIJEArAqRHFcFMlgHuTfzHpvGR+wc9e2j1QSV+D6Lq8aHpoh40yKhvmsPgFk4An/EBOj/0Dn6RVt7BswegtciqAf9j3gL+BkBhs0zpVdPa1qi6ttbZ3mMVF6S+BAHZLAq4J4vdo61xAFA53Hfk9Ij0eidX5Ik03pAe7cMBW54pkTolrpdHgDrDL0y2c4l0UJxE1n8R3D8AIdnDzi8Y+5MEcHie6g6qvpWH5rIf0EV57QXZslLIg+AQjpbvSuP62YWDxuXqf2BELxN6ed9MKJ83qMId9KD27CP3XxqBD6HiE+EiD1FWyHmDgAtmPMETFR3f2XovhyLspAiPpTz/2jrhzjOXP9bvUpRFU3C8Z7ZQrZHd2sHqIFk4Us/y/ZEjooyg9z3R6Fz7pSimMNcTzncvpYAihA==;f6F3FcQyGUoN2p19nl/p5Q=="
 ---
