@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 47 mins
 ratings:
-  count: 1308
-  average: 4.64526
+  count: 1309
+  average: 4.644767
 heat: 52
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Identify faces and expressions by using the Computer Vision API in Azure Cognitive Services"
 
-secured: "48GC6lZftLKmUX4vainTvpgXDhHQPdSeBkt3waUeoxt9yif2GuNb9RLp/8OUXJW3cU5vnjStez1o3MCCXYK5XFGUYZ0reCcpOHxPJ1r/vnPhJ09BhiSQew8944csOTYb/BW8uOJMGalyFQioId+5FhDEJUqsAVFPe8762HyFHtMJnjhiV0P8OZf02fqcPhHNxFdQnppsHOPbkSjAW0bUdVyXPnZtwRbT3QPcfOcug5W/+Z9W7ZleWTJmOaohLwXpsVNvID7ywKH3LWTutzdwy0vsUCRVmSibJqUcWy2T39L98uXSoNeZd9IUV/9EsmbCsIZnYfGd6RkoBUMn42ygRc12LPzNcUREHfvAcIC0WO6Y0QbSXOK/lxILYJSd6LhZKS3ZT5NS38Kryw4SWRGfXQ==;S4LtOv+yofc+6fuDrlWXQQ=="
+secured: "EITslbl7+UlJWLyTwFarD+K/jLKXMySYSD9c+MC6ypX8BPrrEHT4I1+pCiiejaNHSkbZz4o8C61L26Ih3VWjTiyPxVpi8u5zEIGa2f4pzVpP3flEcm+/03MenOKLNQq5Tq2FwAp+XuthuV3MT+7hu+8yGSgEfeWpSnjgaGrf7RkwUrD6SK5sd541SuxEtB/yNNtQkarKfuFrv2c05d23yUkOc5AB+WZ8d8PI3iltcqdyCQ3jUvoI+sSnYudSzih9ry3Wl3AWzq7Cwaax+laP09V+JAKJP1WVw6Mn9jt3UTK9A8FbVZxue0nCAoatOoNOtBoGEY4sb7xXmzpDtfxru/ddoEG0I443HxetsdXFnJ+ifuqp5RqQFvvfWkb1Mi43vL0CBchEWy5u9JYjcac0/A==;b5ZniGebOCsgnmsy/IMj8g=="
 ---
 

@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Prepare on-premises workloads for migration to Azure"
 
-secured: "PKcj+nX13WA3t4S3kXatpyVpR9jQcZaN1okY/UN/TQ9mLYEDB9aU861ai3w2MYskhwOaOw8E6jlr18TqWUmXzybB9oFyAWnx3Qi3rsVO8qctwR34UquLHjk3ft99docW740b2w7iUmOxnu+jy9LMRZO6w75B0iEFjXde/5AUThP0OiPzxmdtxnaYqES+rZpPClxopPg+J6uVQENOuzaTbUKwDzHJC2yjd20+czV+GFFCUw5C5M7PSgVqv2WvBhu6UlOnw1sMIFGBiWJRuuIvyvCeDrUaf5/f8U5sc2yi62BkqzKtTMAi2BfPMY/MGoVuqRV8n6iLqtfa4IFJRSU5yQlOJANifKEvoGC0dPYFEtP2uHIlvrppS9o+wmmfh1Ub896Ip46OmEMDoDAlHQAScA==;EGVIhZTIkf/aUOSmC0cToQ=="
+secured: "0NI9Ut4VErAurfqa0fT3eWzKEYG4d1nFyEqasLZTT2P5Qk9c/VDd6hieDQycxZed4MadA88khaH3r+r/Bd9GqDSq54F4HMYyiyi/iI1F/gDYmcGVcXIKOn9seyMyPRENU7CG0TN6OOBaZwfXoeshXOKjOf6KergS/QSE/v+5hQ9PBmLIwsmbx0zOgWZUpYj9Xittd0sNFU8EfRzdjguAjGDxj7mANBQkMl1QyWJsjLGUrW3rnvZ6HD1+Vb6JGKZEds9KlMQL8BsZfVYfuL3pt/j2kCYSCXYwCmm+G936mNV9sjSitobzZ8tkEzVt+JO0+Cz4xvwzoIE22GiYO9gYqRrbAmG8//TTUb3gwIu+/Bh+SxJc3m0IaCR3rXiLcsxsdn4Bkoq++TFkyj4DR3kDEg==;KD3dp0E7GCP5Sy+E0vNDxg=="
 ---
 

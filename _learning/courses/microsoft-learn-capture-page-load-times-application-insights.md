@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 45 mins
 ratings:
-  count: 299
-  average: 4.535117
-heat: 52
+  count: 300
+  average: 4.5333333
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Capture and view page load times in your Azure web app with Application Insights"
 
-secured: "HqucJ9qouZfyHAUwDUlM0sqvNIHUqC3QbSi8LsZgWixiQoyKv18m3vNVDsYXa2GvxHFCxEuZof9Cl4z3gDeQA/Y21Si5ro4eKd5GAXdh9QmOynWHjPZEXAEmRM8TCLnRZNk6izpovX/i0K+pEjBE12ZV18b1w55MnPaSdCP+lW3OYOa/T0oH+swXSXUPkOpmbnqIWMmgX000YjdCVoy0KdpLeBPneTTqmYfhtHlqeBI4Xs+On5o1LLz9yExiR17IRj8muZsBbcG4sHU1+XorCsRrID7GoUZRViWXnGmgQfS/O0mm4SMMLabZobFXrFUuBPL4dTBOp1ADvs7A4dFGNenbvcRki1u6N5MBM8LkEP9KJ5/kaLtNcYD3JtjFDy4tm2uK3YwlXGK8fBBgZCYD8w==;yKGXzts99/qkIuIV83ZhgQ=="
+secured: "d8tlyI3WRJuwHHziL8eXD0AnLmVD5uSvGie3TYwE6KFAodOFnrFfwXGk/js3JYbXQ/Krhwg0riLaADGrIiYgpgfzItnbB8LoCx6jLcb4n+eFFN9OM1oJPGGQKZf/B6l5vTmhzm9PjOtWlGaMS07LS7YFegwC2GFp744ZmLglY7SGieDJn3RwjABK5sVvLu39X6a9hGqb0wtLZWfW5CMtVpW0PebZF7DXVz2x6K6VwwFjrJH15SsXNBFUcfSH8Z1cBsao8Z+bYj/oK5pjoywsipMWT0wqqZtkdcPK5fAq1mbgvCKHUKPin7N20XJUkhsdeJnJy8HRQZoE9z4k0lQhc/VROStNZdo5GR9j3sYkQNqHu3UpNb8HqzPmjB9BQ2qNy1B4pinYB+tuLEVbLuXl4g==;VB/Z3tSWPmk50tNbb3/m9g=="
 ---
 

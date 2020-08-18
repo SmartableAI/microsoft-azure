@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 46 mins
 ratings:
-  count: 1341
-  average: 4.5824013
-heat: 52
+  count: 1345
+  average: 4.582156
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Manage secrets in your server apps with Azure Key Vault"
 
-secured: "RE0RQ+9JGquJqTtODqg4+HxmR9xcnv8tj+3sSXrqMUi3ZvJzIdPAFzY2GpdWAe2x0XfpyQar+FORXg4fR45nf0ZOlByonpAeMTz4pE0CqGa1iHStVK6GqR+T8EkwJhUzHJN5wldpYGeEtvR+2jcTsgyQQgxKWeZHaIAT0FqPTplrTa40/Fu4qWNVO0WRCxLSzU+Sjca/VElSrhK6hcr5G4SJCr3vMPLpxOqZKbXf0Y1mY89hfep+031nvYzJwloovKb93+FBSj5dXU/E1xXAp7j3z7UyEPwNifhPsOsKbpirvXDdv2K1at/s48TB6g6/hb4X6yRquT+DT6AjxtQa/Kl0S8lXP0Ac940K5xAqVB+AMDlBq/aqByNeAbx8XG7RY72viExwx2E6PKEnAJdlvA==;cdUDDXchfO9L1PcHUCHYBA=="
+secured: "mtKwhoBhurHbJKDTMPe6lvu6PhP+VOJlo5gr8HJZVj3DnLqvaeI8x404GR+h84SfzK9SjrrtSj3bzeDQXaBRhiNzmhIKy2Z2POl2KH/s32rxZrO1nSeoEa19q38AZVyQw6XIOEjd/T7z1zt9CxYVhD4krvBa54IVDMNOd6zJBl9XDQJY+mgCf4AKuzivFWu8v2QJ77jYT0vB9tGHAWe55Jgfv6+IcNiY6e91osafvRAlfOrJdxXikgyc5/0Te0WZXqXk6FQqLQDGFUm8S27t+R9+QqOv6MaWe5pAxeuKaiAnhpUmesTQDRVmuXK9FA8GeOGimlYVLXcZO0S0qzBEXO6RNhvDxuQ/sudmDCi9fYrO+E6Qvj2QNqU5yrgWODo4vFa6erfLMHgu+xAK1awYaQ==;yQubBAAu9m0nj6a5Y0NZlw=="
 ---
 

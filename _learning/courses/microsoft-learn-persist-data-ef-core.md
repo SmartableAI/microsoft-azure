@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 64 mins
 ratings:
-  count: 893
-  average: 4.6718926
+  count: 894
+  average: 4.6722593
 heat: 50
 
 provider:
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Persist and retrieve relational data with Entity Framework Core"
 
-secured: "H6p1pt8SAVhHx66ju+LduwRxWOL9AbhGi2exoWm777ohdm0oxHeQL+UUlt9fgBWmADEswaIx0ZVyrurLegNlIbhg2MxZBOu6HWOqAJgsfpcNjjO9R6i28fhwjZivTFtpTr5xuWKOpZnlwefkMX8z15BHZbJ+CcK2r2wzHHb82lHwYrmIClbRsLAdjTymAn36Tz7qbM6zUmwuLatd2l49DcOZopkcsM4ylHO5b/3ex34bHzI2Jx5B1trnlYJatmho4Tx7/VxhEhgK3jmIMWVoUadDWS0gYkBGdG8tmSQmNSPi08K458Vmv1OMTgC5vdlwNekFb8vMxg+tCeiKwVQ4F5gUZfTqvqSVeyy0kdRHSxXRKmX1vxMnb3+RQUndN+BB1SAI0dVBjFlUJ/M55dJLZg==;2bvzuTiQlChcPeEs0MG0Rg=="
+secured: "EEKvTD9IN+s5v491+GsIjrJ0b7BwmmvLVGB3AcY8Huh85ojXDjbxJCiFkA128QkxZ8HsQf1ZnlMGku62luIHnl5gKXdJ/tZcSkkSagzUAlEy4VYvFLJcAtBMQTIomd03yos//7pWeOVHQLwqRJkLwFKjjLAu0bp6Uyt+gCEmjQoOJPycsOxnDwgSASpz8NHp7N1mwC8I4mwEYHfNxctlZN1J30iX3v/v96KkQHlbq1J1V8ymIDGxPamyB+7/DTXkADez1j8s83cxPZ+SPFo8zDwMxBctm7YshkcKkiXOz6+v0HxddULAcTKrXKjlfN6zY9wmhoHAzYQU0sh2v3XZgroyV1oWR1+X1mOnWATNAB/0cPc5w7qjKPFYo/PVX829C3a9e/aXSB+6sB1MAaM1kg==;xYaWHJFPB975eEICsyXCdg=="
 ---
 

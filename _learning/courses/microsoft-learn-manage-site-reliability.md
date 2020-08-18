@@ -8,7 +8,7 @@ length: PT35M
 ratings:
   count: 225
   average: 4.671111
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Manage site reliability"
 
-secured: "CYsNnN5JSMIreZ+4VzdfkBiQfFytEByEoyfWys8LSuz2ugcDmZAHs3oFrUpXkJStMA3IBojyQvWX31UVtbKYjf9ZM5cSVZ2CAj1HHI6rnYpzn4RI2WytRrSO9CkFNh+selfKIxy4MkhKv8l5nHfv8tKTSOOQYtK/4JuL46uRCKKz1XckVLQiCQ3tVgU1ZkA0rneo0Z1jdMXmq2CznjjFr/Vfixqj8xChroAT6jF8UnbxzMzmNsPSnQPzIRht4GcD89sshlnZtOiHO5CiCCiuU06RBMmfx4tpPXM09Cb9Xept7UEAqtjwua/kc1pAaQNBMeAPeunQtnAazOH/OIbJUqqJpQ3hLDmKjbt/JEzRztCKfBy0cADkZ+DY12ZEjrkjYXfVja9My+9YtkIS7VmFFQ==;0X404f8NgJPhuJ/4DfvKjQ=="
+secured: "/gHjvVwPI81bl4jBTpp7sCpCDrmgAuzeMsYeB8KY9tfpQaSTtZgneftcdRBP4PKzHUgiFFJpQU6avtXiypaVQq/AclAOeCgT24gjWsc1e5/O5QlPPPrW7/ERGZw9+nwnQsGYxQBICtVPuBsBME/+rbFaSKL64mR4qlo8p8EjRIxDj6da6Rqz2b7c5bkdGBKjKzU2U5apOhUWF5XAdS0z66O83/CCiJobYuJydP/9pCEhiDtqRm5JktmViz7x2s1LeOgkAknehZ0cbxmpZJhJaSAKsB8NtbiHcHjR0PNPkCkVX/HZQTBtbYwOX9aMKJVeg/OWhXEnE9LQO4iiTBAPzd2xkV81vIZoTFTYkNqhJB1ozpeSQ1+PocsuCx9JpVhpnDz73bc+rAutLCHBCAqXWg==;pcasmWc8+MZX3il65g0+dg=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "Learn how to create, manage, secure and scale virtual machine resource
 type: collection
 price: Free
 length: PT10H59M
-heat: 79
+heat: 84
 
 provider:
   name: Microsoft Learn

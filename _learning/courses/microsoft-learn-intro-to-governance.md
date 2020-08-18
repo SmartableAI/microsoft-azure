@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 46 mins
 ratings:
-  count: 35712
-  average: 4.627632
-heat: 87
+  count: 35718
+  average: 4.6276107
+heat: 107
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Apply and monitor infrastructure standards with Azure Policy"
 
-secured: "jFGufARYq12aCb2eqkByBNUU7hPjZHSJo042mrSbVIWS4Bp9C8l35pbVKDjSqsruRzcHCdUc4djTrN7SZzmerVXLB5Xnx8278WDx7GLS08nQWPsVd3fnQsHtjccleBdl2l7SM/n+LrPtKMuuhcSNhHaQivKbRGxK2uEVgE6XNYPTb4ZYurvdutuaR2XiZ19FVgjrMos8Fu1B5O0+lAkijPUrA088y9dutxacqjCvnzRflyoVr10aZefVuEP2kh0gguiYonH7DCKJ8dRZ79sFzBP+H5iBj1qhEC6Ca/8w7BW47NrvsZvhzA7lwGd1GWeaI1iFQWUJbp4xFe4wJrFvidH7gfsA4+Gvrv/wXCgzPgw0u2sLA1fYtirFFJwttveZ1FQhbMjZ7eIYP2f5H40Xlg==;AtYxbk53gUDq6Lwhb5pUqA=="
+secured: "4IJnAd9xM9ebmh8kjr7O8sQkUaFSyLZuKh50o2hn67Ur1vEKsdt39OHA93kBpLG2NScK5okdAYqp/Oc4nFOrUQfNcxWndPxJuaaNPTKibNHqWkYmA7VoK1Nnu36FKmziSefg7OWITGaOB/caq51SByWsdSScd8qMuuMqNuaJpkkrm2YVdLFrZw2YFERdORqP3AS9k/xNsDFPdemFTcVnfzf1X/N0375evH1C8PgRYrFRgj/sxjghQcjL5VF/Uzfjl4T07Gfpjc2DmEVTBmGO/J0SF6ZjBRQUZXlXcaIAdp8wrVx1vN3xEDakSd2CWl5NxZAkhKOW+/EK4605Li6aXSaGN0u7/VA1aoYB45+8PJ56eovBppi4/RHnsnZELUz+dQkKEbMln1nf/7jhoOedcw==;nvagf5Ib5FVhodP5eMNFDw=="
 ---
 

@@ -8,7 +8,7 @@ length: 67 mins
 ratings:
   count: 4386
   average: 4.713406
-heat: 56
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduction to Python"
 
-secured: "OlVILTGrsEoEM1wqMyFAOEzMfrTXHtW5sTYANScLPrnzPtLXYg+6HNBn/GAoqX2gKhW9FOLcSbe9fzv16p7RXnhTC7MNO3lgGDEBF26gwMnyOukGKrnX2wtnVAdtozFYPz/TzOZspW7y2owcwlXyVfJ9HzTwG+57rgCFOfuCQ5yaUgCxGNeMKXzAsH0xM3cA7KTxKhDo121wt37YO8xCcvSsMAGwL03cLyQJyHLZMrXm19LBSW9mimqkmKvLsTj94aoRbgi/x9bS0YvovL8n1RgNym+Asr/87wRCEUMDh9EfHQS3WKqArgEZhm/aZZGwZ8MMERh/BXLj+5rilihV4KteE+DFbfIxwl8hUZQkqjn7U6C1EFgPGqA+d/j3+GRseBvWM+ERqSO0ykVidkyR3A==;OLB5P8lW+wa+Cjfver6kvQ=="
+secured: "xCg982170P5mXA9cOT/KASGhJlkTfaKaZqKh9aNHNjTEyVGuFYsI2QL+OPvIAs8ISLS56kwzbguhmXRPr1N2cHEZra7e+fxPsIKR95ut61CISgDLUxlZ5LkRy0zDgZl/QdcTBPpXm6HeeTFliET1mAyXNeQT45uC1dn5vJhB8Z0thaOsWIt9FzkjE4MF6QD3NR/HthxxaRpvb9J9wubGYRYv92dqrfMzCKK/c1axUAG3H7DxzRPLEp7PveepbkHEzQoMpM+2ZW3jLnsGvvmE7YBuK3ARQa9/F/nVRlwg0ih3tDDu+9cFDwEaIANPc6YNE+MejZLKYF9pzO0nPVZ+ycgg9oeAwNaq/2+CXtxBEQxa86b+6zYZR/wFEU8/mVVSsGDq5u21EsN5RZW4W7N5wQ==;8nbMD7noEFtFReu7toA0kA=="
 ---
 

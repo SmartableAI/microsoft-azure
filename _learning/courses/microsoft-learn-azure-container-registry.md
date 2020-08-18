@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Build and store container images with Azure Container Registry"
 
-secured: "F8XKNspgUuKP4HyKXvx6J4RJDc8jf0OB88lIo6z42fuPa6a9OMJGjwR/zTfiG+QXLGDSLCTBe3EjnD9BQH5LTUbyKoG02eGrkko4HzHELpHQq/Y2Os6oNWEe3AT0QJJaAk2uN/aQz/4TITPrTn/OfiTBRsQhzZGL1MM23royZdOu/mfFt+YTcUlBqnKWuXvLqW/gH90MvKHj7q6aPhBUg+/+qD66+XUhUE3ksiYqQk6Tbwwe+fMwfAqtvzefS+5EpVOn4WfgJpoHSpNSAZIx8lmHzbPLx/CsT0fxhtAmCvcE7pKSvv+wFz6nS6qSfL7InrdIrC6W0bsx0AFojSidzFhmnUq5M8ZYGet9gQATpHPiAx21CtiOL8NlSE8zRY1AinRHhSVgqmMi3pPtbFT7RA==;D7KjPU0VmZD3dX5GA4A16g=="
+secured: "CqDs1G58DP+e9EqPXU2U9bgUjpwGbrrC2sRGGv5zpFh6FsylHUitT0UV56hNcoL0i9MoHcBJxy+vPTomztbnjdpbaYAnzqNFAPrNfMj/nVJbSCCQJdZ3Juu/Hc6hlAJuGTxilJt/iNrcRyeNJ/GkoZ+hjyKy3HnSk1cFMfSNehX5p9RRde0SBHRuXmqIEJwzYW++fSjKTlIx+tO5XcmvXxVoHVMu2RDp/A8M47DAXhPPErsKm4M86A2vLZiPk1BVZU/8U2wWYtX/4xdLa9aJJqu6/ROb6ZAgAgBTsCaNoPmdNlTb4NQLw9FakSaGDDdN6TLvM9Bt36Eo/p7+1KIUHv/AxXXbfebT14slNQZHyix15D3a4DjEz6UpMoii9HZHbsfQ0r3l+9lAxOsgPbXQoA==;uWCu0cnmGFVibPP6wkc1PA=="
 ---
 

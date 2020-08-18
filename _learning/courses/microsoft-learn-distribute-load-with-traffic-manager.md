@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Enhance your service availability and data locality by using Azure Traffic Manager"
 
-secured: "RDJjsTq8N/Vd49dKfacAG4eIo/ab/nLu0IFZ2VYHaRDUy69McDzcW+PsvXWwZ3ccITeH6COXJys5XRlyr5tIzwkeb8Ay4O1nup/OrwiTBmj1akFscP2GMPqSlUyHXotSaPgKQEBFO70l2YZ4K1zNpd6hcGS47kwWh2QhCnSG6Eko/26PMn3auQ3IIe53R6Jbm0HEolQbJ6OFywVxBCPREGtz82e2fteOz4F4T9vFCtSLWWIvDWDkRvgR+Ch0qYC9fooWTOjMtgVzZBQl+++w5Dylaedb2nKeLsNhvYleIKj+GVJNrXyjXLxWMwGkxkYuBo5WfP4wP5u16TgI6jFd+RAaxCZGgUrp0xZxMHVJRJhPHGfqk+0cf1fwQEPUK2dTL1ug+kaRZgkFl3XEvJQq1w==;AzCMztCGGUtrk8lRGx8PMg=="
+secured: "zHO+tuqPhADCiz4QdkD5i+ACpIkggPn9hKQi/r2ExF5G7uUMSj3uyzuogE6yXgQEslq+byTHoqLaNmCVlyIQQKq6Gbsyb3KqnwkBmYdA24mRRAtdh2Nr9JqHPlbIwvpLhcVw53VCxRTWSmUJufzXd/a6FmX78ul7GkkoEdWEMaORbRzA5+vQo4Pl341riko8n0Pohp+iYgjYFaXN93EQ327/8wc7WCOjOvutxnw+p997geGPT/z5bDjQuEPL7JDe1M/9A9sXIIeR3a76+dwu+0LLj8PbV1KuNKBzlw2z7I/xOLCNf1EhupMgbDkqQNlKgJyG0ePmCCD6AMfVoXlRTV/7ATwyN25OT8ETVGibw8b3D/yB4zapy068T2850QpffB+VO9+9rKRjqPE7iH4kcw==;SMkiBi1Xd1tVAxeezqZOcQ=="
 ---
 
