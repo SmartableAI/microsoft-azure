@@ -220,19 +220,19 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Innovaccer’s COVID-19 Management System Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Innovaccer, Inc., a leading healthcare technology company, today announced the availability of its COVID-19 Management System in the Microsoft Azure Marketplace, an online store providing ..."
-    publishedDateTime: 2020-08-13T16:19:00Z
-    webUrl: "https://www.healthcaredive.com/press-release/20200813-innovaccers-covid-19-management-system-now-available-in-the-microsoft-azur-1/"
+  - title: "Innovaccer's COVID-19 Management System Now Available in the Microsoft Azure Marketplace"
+    excerpt: "SAN FRANCISCO, Aug. 13, 2020 /PRNewswire/ -- Innovaccer, Inc., a leading healthcare technology company, today announced the availability of its COVID-19 Management System in the Microsoft Azure ..."
+    publishedDateTime: 2020-08-13T16:17:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/innovaccers-covid-19-management-system-now-available-in-the-microsoft-azure-marketplace-301111911.html"
     type: article
     provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 28
     images:
-      - url: "https://www.healthcaredive.com/user_media/pressrelease/company_logos/20200813155131602/zez9iqg8lghajcaq65ai.png"
-        width: 256
-        height: 256
+      - url: "https://mma.prnewswire.com/media/1228171/Innovaccer_Logo.jpg?p=facebook"
+        width: 600
+        height: 314
         isCached: true
   - title: "Commvault's Metallic SaaS Data Protection Now Available in the Microsoft Azure Marketplace"
     excerpt: "Availabiltiy in the Azure Marketplace gives them an easy entry point to their data protection solution, using Metallic to safeguard data across their hybrid or cloud-native environment.\" \"Microsoft Azure Marketplace lets customers worldwide discover ..."
