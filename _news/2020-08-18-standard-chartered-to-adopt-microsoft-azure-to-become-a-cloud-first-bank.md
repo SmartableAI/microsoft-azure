@@ -39,17 +39,17 @@ related:
         isCached: true
   - title: "New Recorded Future and Microsoft Azure Partnership Brings Security Intelligence to Cloud Environments"
     excerpt: "BOSTON, Aug. 11, 2020 /PRNewswire/ -- Recorded Future, the largest global security intelligence provider, today announced that it has partnered with Microsoft Azure to support security operations ..."
-    publishedDateTime: 2020-08-11T14:04:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/new-recorded-future-and-microsoft-azure-partnership-brings-security-intelligence-to-cloud-environments-301109868.html"
+    publishedDateTime: 2020-08-11T14:00:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20200811ne88035/new-recorded-future-and-microsoft-azure-partnership-brings-security-intelligence-to-cloud-environments"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
     quality: 21
     images:
-      - url: "https://mma.prnewswire.com/media/705622/Recorded_Future_Logo.jpg?p=facebook"
-        width: 1920
-        height: 1005
+      - url: "https://mma.prnewswire.com/media/705622/Recorded_Future_Logo.jpg"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "FYyYEgR3Db2Kv8rXOfYz5aO59EeWySsIwONlVMhw9nU+qwi+5YgOG4BC3K48qqZJrbtRjQaXqYzcUqbXBb4OUzuZMrENcSWOjlTWQKqwQzmEllD4/82mX5eScFiukkap7yegCcOh+PsaMFklG5TwElubVwk/VhsceQUGbCfVLsYJw4sFpi73D4HY5zOX3L2o86ZyDbLXaAmlJT9OAPzSiO5wA5Kplvz4/EjqECtsbgaeyaL4kbxnUUBmpR267l9+3hoiacV+4wmtcxyGzuGO4y4X19zr4Bmuu6ubCnvPjNgQ7/ENE8nZC30wVSf9SoAmIQAE7a59OoUgqI6nuNMO1Q==;N3Goi2lruVEqvicrerp6yg=="
