@@ -5,9 +5,9 @@ excerpt: "What 2020 is teaching us is that the world can change in an instant. I
 publishedDateTime: 2020-05-19T08:00:13Z
 webUrl: "https://azure.microsoft.com/blog/azure-analytics-clarity-in-an-instant/"
 type: article
-quality: 97
-heat: 117
-published: true
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Microsoft
@@ -36,7 +36,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 74
+    quality: 14
 
 secured: "2Ua40ZseQrnrFojXDkGnZXLYAPMWPdZ38rsWLB5V58sa/9rorqxFYZFztY//XWiDoKGIY6R6Yh25CPdrDOTSn/wiGwQd6E/0vRvvIVMp0vPyzCRymmv718iVsO1EP8SBCOSWx622rHU3LnUIYwZ09ytU7zfRSOtSJMuDUEHCloUUbXtsV9RgLxiw+gx9QAvj2cd0LQFjgB8Ms6FIyzJ6Bf3y/uDvOIMSRyBgG1QGCcVAkNVY7H49XJeoasHq3ASREAmXoS7dti3IEawJKVw/76holaCZqPWEmiy8OYzB2+RycnEeqiIY2vqEXUY+Jv4y7XAHdoMhJeYbljwrYO383w==;DPrTeDnP5uLJqfomDYQ7ew=="
 ---

@@ -5,7 +5,7 @@ excerpt: "We have expanded the preview regions for Azure Blob storage object rep
 publishedDateTime: 2020-07-31T20:00:27Z
 webUrl: "https://azure.microsoft.com/en-us/updates/new-regions-added-for-azure-blob-storage-object-replication-public-preview/"
 type: article
-quality: 75
+quality: 15
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 96
+    quality: 86
   - title: "Firewall support for Azure Relay is now in preview"
     excerpt: ""
     publishedDateTime: 2020-05-18T21:00:04Z
@@ -38,7 +38,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Data Lake Storage immutable storage is now in preview"
     excerpt: "Immutable storage for Azure Data Lake Storage is now in preview.  Set time-based policies or legal holds on data so that the data becomes non-erasable and non-modifiable.  "
     publishedDateTime: 2020-06-30T20:00:36Z
@@ -47,7 +47,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Storage 200 TB block blob size is now in preview"
     excerpt: "We’ve increased the maximum size of a single blob in Azure Storage from 5 TB to 200 TB, now available in preview. The 200 TB blob size is available for preview in all Azure public regions with hot, cool, and premium tiers. "
     publishedDateTime: 2020-06-30T17:00:34Z
@@ -56,7 +56,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Disk Storage with Azure Private Link integration is in preview"
     excerpt: "Azure Disk Storage now enables enhanced security options for export and import via integration with Azure Private Link."
     publishedDateTime: 2020-07-21T16:01:46Z
@@ -65,7 +65,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Shared disks in Azure Disk Storage are now available"
     excerpt: "Shared disks are now available in Azure Disk Storage—the only shared block storage in the cloud that supports both Windows and Linux-based clustered or high-availability applications."
     publishedDateTime: 2020-07-21T16:01:30Z
@@ -74,7 +74,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Kubernetes Service (AKS) support for containerd runtime is in preview"
     excerpt: "Azure Kubernetes Service (AKS) now supports creation of clusters and node pools with containerd, an industry-standard container runtime, in preview. Containerd enhances pod creation speed as well as stability. "
     publishedDateTime: 2020-07-21T16:01:09Z
@@ -83,7 +83,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 75
+    quality: 15
   - title: "Azure Blob storage—Network File System 3.0 protocol support is now in preview"
     excerpt: "NFS 3.0 protocol support for Azure Blob storage is now in preview. Azure Blob storage is the only storage platform that supports NFS 3.0 protocol over object storage natively (no gateway or data copying required), with crucial object storage economics."
     publishedDateTime: 2020-07-27T20:30:04Z
@@ -92,7 +92,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 74
+    quality: 14
 
 secured: "0sOSQ3OHfDZ1vl2LAhK4WbVmXm8MZHesURGCUZ6zrQeLKr3MVfrJ7mtmeFehaY08TGpikDNnzJIsWOjpYYkBg0vycNeXcprAwSo1hSaDWym+ZypFyAaXZZ6BOe/VPFxdck7bSOdS6QK1z4Ob8q1iSp8ooj8hZsMP1+lglxYgIqKSRxhtD2lV0nJWbLEoviQ9n0lf9LxR4k+UmWLMcmY2QxH/yM9/gmC0ahcU1iwbQAtAQ1OxGTe/voR4pVWfetBOGC3EXwYg4NtiazMIOLjDvGOZU3kgt/pJ5ykDI14IVBgXHgDCSwTxICXOdm6GpkUnyvVxZwjB310aBVFVKcxi8g==;i/bAYkJPf+LvjtUHoaRwJg=="
 ---

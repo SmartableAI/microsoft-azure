@@ -5,9 +5,9 @@ excerpt: ""
 publishedDateTime: 2020-05-13T16:00:42Z
 webUrl: "https://azure.microsoft.com/en-us/updates/optional-uptime-sla-now-available-for-azure-kubernetes-services-aks/"
 type: article
-quality: 77
-heat: 197
-published: true
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Microsoft
@@ -29,16 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
-  - title: "Azure Sphere update 20.05 is now available for compatibility testing"
-    excerpt: ""
-    publishedDateTime: 2020-05-14T21:00:08Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-update-2005-is-now-available-for-compatibility-testing/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Storage—Routing preferences now available for preview"
     excerpt: ""
     publishedDateTime: 2020-05-19T17:00:16Z
@@ -47,7 +38,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "New Azure IoT Central features are now available"
     excerpt: ""
     publishedDateTime: 2020-05-19T16:05:41Z
@@ -56,16 +47,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
-  - title: "Azure Kubernetes Service (AKS) node image upgrade is now available "
-    excerpt: "The node image upgrade capability in Azure Kubernetes Service (AKS) is now generally available. It enables you to initiate an upgrade to agent nodes targeted for a specific node pool to pull the latest available node updates and patches without requiring a full cluster upgrade."
-    publishedDateTime: 2020-07-21T16:00:50Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-aks-node-image-upgrade-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Kubernetes Service (AKS) resource provider on Azure Stack preview "
     excerpt: ""
     publishedDateTime: 2020-05-19T16:05:37Z
@@ -74,7 +56,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 76
+    quality: 16
 
 secured: "kzhsDFxK75fAg0gjUj2oTvLv4ktWsCcOGUwRuaXK33r+74IPVkh2VA6z35SYJr6oRlDgBzSHfvOYnSWcnkKdvoI2e9Vlt+hcaYYKEr/xbkrQfdSEUx5Sp2xcfvUYIJL5+8PQAcgTjBdSJhYGAXGpIjNE1LNEK7IAD/7yiZ5AOeSvftrouJkKlptsruHzHILSNTCcJmmoOIhClSGtIkVqGP4eXqRM0xvp8QYwtES325IPGDp12CabAnOyIx/te/CUfbR8lI8/j7HBdr1G9sgvlu0AI5kKtCEofHQcQzDPfAI9iXebCZhA49lSteQereQRIYWc6H5b7YvtSWONXG8mSA==;itk0tIIuGtbaOlBp8T90NA=="
 ---

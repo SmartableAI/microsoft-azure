@@ -5,8 +5,8 @@ excerpt: "IoT Plug and Play new features in Public Preview to continue simplifyi
 publishedDateTime: 2020-07-29T16:00:28Z
 webUrl: "https://azure.microsoft.com/en-us/updates/iot-plug-and-play-public-preview-new-features/"
 type: article
-quality: 62
-heat: 62
+quality: 2
+heat: 2
 published: false
 
 provider:

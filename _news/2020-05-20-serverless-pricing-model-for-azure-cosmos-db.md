@@ -5,8 +5,8 @@ excerpt: ""
 publishedDateTime: 2020-05-20T16:10:28Z
 webUrl: "https://azure.microsoft.com/en-us/updates/serverless-pricing-model-for-azure-cosmos-db/"
 type: article
-quality: 77
-heat: -1
+quality: 17
+heat: 17
 published: false
 
 provider:
@@ -21,15 +21,15 @@ topics:
   - Azure
 
 related:
-  - title: "Point-in-time-restore (PITR) for Azure Cosmos DB"
+  - title: "Change feed with full database operations for Azure Cosmos DB "
     excerpt: ""
-    publishedDateTime: 2020-05-20T16:02:28Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/pointintimerestore-pitr-for-azure-cosmos-db/"
+    publishedDateTime: 2020-05-21T04:00:35Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/change-feed-with-full-database-operations-for-azure-cosmos-db/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
 
 secured: "1Ty0bx9YyUAunlMDCMlxdGljFo4RtbQG3kJKlOaD/Tceu/UZib5LoGrUiSODVsU25pBdSeI9kZ0KwIU6+I3OuplBWVdtIQyS5KmJD+Dp3Wh/6TdN9DnCLn7CG9hwAovu4qJIayrwK6oFEPfP1TRoTRxxggrLBXY1P+Qn/uGXYU8VDpbZXXs+Kd6pUySDurwISN7b9uy2CrH3+LxfVnt11I4UecMAh2omB1kYaxX0vQKKjGLN2KETKV5fzNuaPbZNJc9YIGGyiUXG9xqCfLFKlBEIQDM3ZE/e6aNxZfZZioalGd8HVi44YC2BSk+YUHMjyHYN5KzkU59UWxWfRD+Gyw==;iTmqqk5/LNyJm8vLaS8FoA=="
 ---

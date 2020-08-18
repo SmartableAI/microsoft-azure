@@ -5,8 +5,8 @@ excerpt: ""
 publishedDateTime: 2020-04-15T16:00:42Z
 webUrl: "https://azure.microsoft.com/en-us/updates/sql-server-2019-iaas-images-with-linux-distribution-support-now-available/"
 type: article
-quality: 61
-heat: 61
+quality: 1
+heat: 1
 published: false
 
 provider:

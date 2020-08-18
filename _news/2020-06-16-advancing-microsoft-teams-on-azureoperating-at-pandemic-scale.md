@@ -5,8 +5,8 @@ excerpt: "“The COVID-19 pandemic has reset what it means to work, study, and s
 publishedDateTime: 2020-06-16T08:00:11Z
 webUrl: "https://azure.microsoft.com/blog/advancing-microsoft-teams-on-azure-operating-at-pandemic-scale/"
 type: article
-quality: 99
-heat: 139
+quality: 89
+heat: 129
 published: true
 
 provider:
@@ -58,6 +58,6 @@ related:
         height: 3000
         isCached: true
 
-secured: "dpU2M/nRpLPsFNRYynz19wS5gVvb3atTBLW9fvcAbM51pR8nS47GV2a/hfNDCWLqdt1c5h/+wnWo29x0I75x3wiWOQ84bZCOJ3CDtKOp+tktLe+3K146q6UauWYoVyAFRRarbPjTH7ufu7Y8Pd6MO+qgfjQhxz0/W8krQCok5em59dkTImDYxiRlLIMcjSDcNU6DpavP3BzcZrxYsxRvXdW24ROnxI/4lm1xOVqAX6q28pUK3DV2+Ab7zmJ6Nt2LTA6Y/uKWaXvCdb86MNeiCpzUEk6H2PzyOz63ATcXBrdKGLMaS7CqjoqmukyStlTvJASZSNvz/t5F54RSBEhbxw==;puZYvEPNiUGJq+uDmZ1OGQ=="
+secured: "ocXvmWlpbJfBZ0q6bPDH4gI+G6RAjQYLsosfYlnRI6BQcfxlY2Wn5d8Fbna9gDSBpqMchfwKjLvFtnfiL//DOrHx+NlAbIxZoS7qxM+30iPkjpefLGzldqkK5a3MVcoXr2vUQh6tBQwYKXetODyTCLEJcjmDCPvuuEPAcALiBpYBFt6junL4YNh7M33lo8k+oJmc4OWiwFpIBi7covt2JbAe/aLwYyrSqYaoVk4GgBslK4hHTpfbtJHBIxb7P1lZT3zoVTnqh2bqrus0B7GZGCn6OsnsBL4VlRGntDkkeQf8Sup8bJdan60FJWluugjwEdkS5zRxoprGj+n88ITxuejWJKbOh0/WYZEYyGEC2wU=;9MFgu+lVYW9sRhch85O2VA=="
 ---
 

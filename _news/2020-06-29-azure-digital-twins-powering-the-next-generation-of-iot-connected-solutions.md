@@ -5,8 +5,8 @@ excerpt: "Last month at Microsoft Build 2020, we announced the new features for 
 publishedDateTime: 2020-06-29T08:00:35Z
 webUrl: "https://azure.microsoft.com/blog/azure-digital-twins-powering-the-next-generation-of-iot-connected-solutions/"
 type: article
-quality: 111
-heat: 111
+quality: 101
+heat: 101
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Azure Digital Twins: Powering the next generation of IoT connected solutions"
 
-secured: "PQ2sz/yaOLF0W9BPpk4AtreA8NJ4XFjUK1iqXs6tIxtuJA2yfH5+uUmuPMN3/slQAZqC2Y0oo0LqXrpLiwoOQ7hiB2QK0CIQ8fcVwn6HXgE9dc7CEuWCG8KDS3vB+lbsyJglSeIBftRRHe0VvVm+exbhCtCoe+Laa+/EEB8PLM/uiJb87mqycsUGcdmtEHX/QfUsbEFkszKUPERLh67+1dulrBDMU51A/8ZH1Fl9nmZGgdNluziXkNp9DJT4/L05IptreGxZySqWsNXmh2G2Ti3j6ButuDPCwSSqUgCEZfI9zzMS1+1Ywx9fyOGOAK9UEI4WCYKbQT2rnXa5ACUhgw==;mBFmWIoevD+eHXBCxq7l1A=="
+secured: "jyw0kmY5cMAOXc5Up2nst4mh3MfJKMi5GdW1ZnQByXYtjTb0ErI/HZrpnoZxcmgW5kJpjyhFQzCVyMGoGBCnHvS40kmPZiuDHyCQvNJnI4vyMeba824+d4TNagH8JsrM2preio7VTICrqYv2UIFgU4ASx0zzJJQOr/rb/pNBQXnQQrrVPY0c95/KippqLuc3oV/yiJMC3fi/PocBUi80Yl8Qi62WJPjh0mZ89XL6WuxDcJYWmSoBYWJbmNsRbd5ottYxOCPT9L6VS1DN7QR8bwdSUYkHOUzE+sNtTPuFQhUkiJrkvpLYs7poYfKTkUBjyas0D2UsEugtJl3KkLkP3yAE9Zuyyq1TeyMe2iBxA00=;B2vWfz8GTM8iy6P+GCrYxA=="
 ---
 

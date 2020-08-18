@@ -5,8 +5,8 @@ excerpt: "The Azure Security Benchmark v1 was released in January 2020 and is b
 publishedDateTime: 2020-05-12T14:00:22Z
 webUrl: "https://azure.microsoft.com/blog/monitor-your-azure-workload-compliance-with-azure-security-benchmark/"
 type: article
-quality: 114
-heat: 114
+quality: 104
+heat: 104
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Monitor your Azure workload compliance with Azure Security Benchmark"
 
-secured: "9lp3jDMrmo34JkiQ4NJXAxBwHxXC0gKaIT/aZC0+DSzDPnk8RZ62yokPSdBIGXL/XLWV5c7eWvWpj75oEj/TgJ/YhAnplP5WKSxEEx7SP7aEpGLCbZSPJApBTXBI2h7enEc+DrL37Pd4m4sFewEI9S7jKta/hVoktI1QVRTbazzzgpR+VGIMki7Y/9S8K+j/7S6ILaMxxU626wPq74spCKmQcnD6o3Vwm/SS08g1inUOz5DcSLLkGYxmbrFKmRQSIr/7T38vMRrTwHYXTjzNh0iNtd23Pu6gxuj88AhbHYedhiIyp9b1LUac/SzC0f/9ru1DSTIydsJw1XLAme67Mg==;Rqke2YUvjudyF9fGw/xrLg=="
+secured: "bnkuoizGh5ncTlh42L+JOO2T8H9lR8mMIcKywD1KwWfba9D04Ra/TAP6JoXAZ2X+JRJ3cD1MpWUl01/yKI2iq9RCp8td81X8vMq7MoF0irtvtsNmbARU9n8qwlkiQrwWSfwl4RSPQ7I0APgpXOGy1uOGz+LtGGdyfB8HbTn7jWS6EUeEwlOFBFUPiJVX3NLmdP4I1aGcnXfExHXykxfiF2vW1rm1yCliMg2jtUWIrXdz6nyWkLHIJgHc+HmVCu41vjbuMW2A8lUBTQuDDOH5eMGi0mBlJO3Vuak9Yy4K7mzZy7FqMpciv/bf9FzU3e0zitLo16wFzLPREZ/zyPoF7m1AhwuUjSNH6cyTfdUud0M=;KKdYlLGjnp+42wskhUyOkA=="
 ---
 

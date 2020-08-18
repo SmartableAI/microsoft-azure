@@ -5,9 +5,9 @@ excerpt: "Use Azure REST Quota APIs to manage the service limits (quota) of Azur
 publishedDateTime: 2020-06-15T15:00:01Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-quota-rest-api-to-manage-service-limits-quota-are-now-available-in-preview/"
 type: article
-quality: 71
-heat: 71
-published: true
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Microsoft

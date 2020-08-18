@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-is-working-on-an-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-working-on-an-azure-powered-cloud-pc-service/"
 type: article
 quality: 97
-heat: 317
+heat: 337
 published: true
 
 provider:
@@ -59,15 +59,20 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Microsoft Graph Service: Retiring TLS 1.0 and 1.1 and preparing for TLS 1.2 in US Gov Cloud "
-    excerpt: "Update your Microsoft Graph clients in US Gov Cloud (https://graph.microsoft.us & https://dod-graph.microsoft.us) to TLS 1.2 by 8/5/2020 to ensure that you maintain uninterrupted access to Microsoft Graph Service."
-    publishedDateTime: 2020-07-14T21:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-graphservice-tls12-enforcement/"
+  - title: "New Barracuda SD-WAN Service Built Natively on Microsoft Azure"
+    excerpt: "WAN offering that runs inside Microsoft Azure virtual WAN hubs. With Barracuda CloudGen WAN, companies and service providers can create a secure access service edge (SASE)  in public cloud. Hubs can interconnect through the Microsoft Global Network."
+    publishedDateTime: 2020-07-16T19:33:00Z
+    webUrl: "https://www.channelpartnersonline.com/2020/07/16/new-barracuda-sd-wan-service-built-natively-on-microsoft-azure/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 51
+      name: Channel Partners
+      domain: channelpartnersonline.com
+    quality: 37
+    images:
+      - url: "https://www.channelpartnersonline.com/files/2019/11/CPaaS-770x285.jpg"
+        width: 770
+        height: 285
+        isCached: true
   - title: "Barracuda has launched a new SD-WAN service built on Microsoft Azure"
     excerpt: "Barracuda Networks Inc. has announced a new secure SD-WAN service built natively on Microsoft Azure. The new Barracuda CloudGen WAN service is the first SD-WAN solution that runs inside Azure Virtual WAN Hubs. The service allows the WAN Hubs to be ..."
     publishedDateTime: 2020-07-20T23:39:00Z
@@ -157,6 +162,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 17
+  - title: "Microsoft Graph Service: Retiring TLS 1.0 and 1.1 and preparing for TLS 1.2 in US Gov Cloud "
+    excerpt: "Update your Microsoft Graph clients in US Gov Cloud (https://graph.microsoft.us & https://dod-graph.microsoft.us) to TLS 1.2 by 8/5/2020 to ensure that you maintain uninterrupted access to Microsoft Graph Service."
+    publishedDateTime: 2020-07-14T21:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-graphservice-tls12-enforcement/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 0
 
 secured: "dXwX1tBaA8utnC+1RS9vDZZe2lOLGUW8HD3Lxi+tpy/lAGJrTSCNw3Ju22bXDuo/4V5iTSVUsYSqSnIthgH4MNU7ek3FjaT4aCiGea9yOEFBgIXyTvscOG4SFBi3m16jwYp7VMypkmxvMowc5/C+4BhY23mkR8lE3/6bNaPQJQK+mrO9JXhbjGIz6Yr5AXHdwSS8r2W9doibBgkW5l1DOSrzOAth2tcWvBiIOgoqiS/OrKTTGS9yHqCHkbDjUs+Y9Cvl8tfuzhREEJkD7zLDvwfcky+MfMIupF29/wCy4/gji5IaJ+bZ2xccrGxdGasJX42DNVkSpmVVxfQDdAef3SbcZ+MaDfzpnNyVY335E3nrBagWgzE5G2YkcvLc4I3xcqypl09jiUc6A9WfiMFKgQ9djbfOqdqtPbdwPei0S3rJGp2fhF+JhmsMLpjjN4ttaHk0OMmHoDn+blPv/4nJq/1lRKyGpMR9sjyzmsCf2CPSrdTARtLZWOTpTT+oAJ6e;f2ygomiacISjKiufTNxLpw=="
 ---

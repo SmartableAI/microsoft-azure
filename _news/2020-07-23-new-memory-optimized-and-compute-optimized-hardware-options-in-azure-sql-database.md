@@ -5,7 +5,7 @@ excerpt: "New memory optimized and compute optimized hardware options are now ge
 publishedDateTime: 2020-07-23T16:04:22Z
 webUrl: "https://azure.microsoft.com/en-us/updates/new-memory-and-compute-optimized-hardware-options-in-azure-sql-database-2/"
 type: article
-quality: 72
+quality: 12
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 101
+    quality: 91
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/ca2b2a4f-0ac3-45a8-81e1-c8af06bd8518.jpg"
         width: 709
@@ -43,7 +43,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 76
+    quality: 16
 
 secured: "5ESkj+fO29b7rSAdEhtSA7J4h/g4GaI9cbtzuMdBWcAf70wUP6g9jKbDS9sBp3eG45nBkD0ZrzGcD+iUPdEZ1/TsGywWA+aYYXG6B25LWVZDyQVZ5sSZKwTR27UnkdlNVNicV8EDq2ifQR3b0slZxXVBwrI/WRcVFeFLJB9W6aHYiImUDuFTd9ClrixHEU/1Ro/xb2h48cm5ENC2Nu1Xh2JNf46x4DsQiJoP0kr5JELqikdRrnIw4vmIrXHB34nHvjlFWDHc6f3OgmEDJEYY/P7xxNyvzU0pqDr6ptzlk1zZhDk2qgvEALMXd9DFEY3r3pVRDF+4zu3Yv+znhdAAbg==;xrXnEFaxDRcPM5nXHt5nrg=="
 ---

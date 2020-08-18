@@ -5,9 +5,9 @@ excerpt: "Azure Load Balancer now supports adding and removing resources from a 
 publishedDateTime: 2020-07-07T20:30:06Z
 webUrl: "https://azure.microsoft.com/en-us/updates/previewlbip/"
 type: article
-quality: 73
-heat: 73
-published: true
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Microsoft

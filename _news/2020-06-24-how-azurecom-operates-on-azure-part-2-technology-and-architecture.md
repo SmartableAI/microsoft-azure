@@ -5,8 +5,8 @@ excerpt: "In part two of our two-part series we share our blueprint, so you can 
 publishedDateTime: 2020-06-24T09:00:15Z
 webUrl: "https://azure.microsoft.com/blog/how-azurecom-operates-on-azure-part-2-technology-and-architecture/"
 type: article
-quality: 97
-heat: 117
+quality: 87
+heat: 107
 published: true
 
 provider:
@@ -36,13 +36,13 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 96
+    quality: 86
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8b74e0e5-4422-46a8-ad91-38cf23689b6e.png"
         width: 1024
         height: 719
         isCached: true
 
-secured: "MJR2qGZcT/UNaNh5Riu3SGlpTTs5NLzJu0UHjK/IL3SflDzpRguIx3gtOtuRheQdRMH9iQZrSeYbH/Z3uzoMCHl56ETG5jOdMXcbsZMZOywNdGlxSQIw2ruYmdnYWXO9R+aet5Eixl9wMp4I33n3yQnUvyBf0zAYAvONexRHRE/gqRygZpBYK4W3Dt8uqiusakX67rfJsTyq3663IjlI1l4Fohb2ton6rSDNj/zmqlJaYd0eu+0AQprQCQZbMjs2Y/oIKoHE9IdDEirXpBnLh9SJRutFyDFPe4533dQJu8R0MyJdP8z4WfE8SI0qd/EvVI0oLLEHVNUIwstRES69QQ==;b3lQtAobRTnaSt1d5WyI1w=="
+secured: "wcurmTroJDh1TrD1qdY6qbu72tsdMGw/Alp+CP52W0BTZUO2hrWLCfOSD9daatXHiQdkqVCJAo8Hdg1xsqFjkKt4Bqw3PM6PcwPos80h9w5tJXU0OjBd3LDZBh9oaMjoByK44HggPpXxV6Hgn3DytEwbTlHHMjm49hy9Y6Gj9MS0JmdAzog2oF1fFMCSDDzMv87Oi1FaU2pLa0OjAzPRG93vz1fwdPmECc8VLMdM9+61+GZ3cXPNZXaIQmfpAXQSqbsewRQPwShiIW3pWqCioOKDBlaup4VeNOXDpwj5/CRbRiRbdlo1iggCcDTQ+uQyOiMfrIO3GfvR6Dp6KeqH2hJe6UPg4MAo5pfX638UJiA=;H3ezjqpXovGxy1rQX+qgCw=="
 ---
 

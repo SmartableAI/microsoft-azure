@@ -5,9 +5,9 @@ excerpt: "The global health pandemic continues to impact every organization—la
 publishedDateTime: 2020-06-16T08:00:10Z
 webUrl: "https://azure.microsoft.com/blog/azure-responds-to-covid19/"
 type: article
-quality: 79
-heat: 79
-published: true
+quality: 69
+heat: 69
+published: false
 
 provider:
   name: Microsoft
@@ -21,6 +21,6 @@ topics:
   - Azure
   - Developer tools
 
-secured: "jEsjU3y12J/KYg7uT5ySV4lMW2zIYO2dIf03GyGYhJoeGUyvL6NkbHKWTO+NLH/qbfJz1g8Cv+ynje1BNLZNMJLzwtdmu9gUVYP80AunZSSmV+4qbptSUWKp0PA2fLXDIAa+Ah+AN+QLDpImvFQSGcDdwsaJVsk5ImpaLMGBEbcQ1YQOCjb3eX5vsCXmvzFVr4Tb8uOm1+7rEdGqU1Mwt2PEOXzZiFIcNQ6xBi8RPUD3uAhVhFEXdF4fwSZIGGylbswcqTGlxKt/mhzQTsxdaDnqDe6Q7OcJvmYIUHrOdDfyMiKGLYFGvN7RvNHhL69yxlQvj1oC8HSf9eqLWN4wXQ==;QalkilLVM9N6tLHqRASJIA=="
+secured: "iwWaTWh2IaZwlk64YoHQ8XDZn0zeTK3lk6y3dUMPCGk91ckIXUF01oLdMym+AYgUC1bNMn3l8ie8TY666IpPvBHU1DZjBdvJ8GqCil2Jy8etox8gAPSZuje84dI7+di/A2VQBRk/U1IOe25tjB9+cG5V2gFcVKFNyDSb5wEtk2/oKpIWTmv1Z3oB+3lv/nuJ5wvnaY64lxCZXS4wo/bsPi4llk1HzH9M9M3nUS3Zxdh8z3ra1Kz4mx+yYLEr8FYtO0N2DvRiCZsdXc2w7cNG5psEHDT+u5ImRwjrpOZoh51lzqrs8BsGXWQnLxs4IGz7yx4i+YmP/xt8MScOo2HXm3LxtfTtDyDjORM57LGUYaE=;jMETP3FakXlJVcoSpd3owQ=="
 ---
 

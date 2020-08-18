@@ -5,9 +5,9 @@ excerpt: ""
 publishedDateTime: 2020-04-15T16:00:02Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-spot-support-for-azure-kubernetes-service-is-in-preview/"
 type: article
-quality: 77
-heat: 177
-published: true
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Microsoft
@@ -29,25 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
-  - title: "Azure Kubernetes Service upgrade improvements are now in preview"
-    excerpt: "Two new AKS upgrade capabilities that will improve the granularity and efficiency of regular Kubernetes upgrade operations are now in preview."
-    publishedDateTime: 2020-06-10T16:00:24Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-upgrade-improvements-are-now-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Public preview: CSI storage driver support in Azure Kubernetes Service "
-    excerpt: "Azure Kubernetes Service (AKS) now supports Container Storage Interface (CSI), a standard for exposing arbitrary block and file storage systems to containerized workloads on Kubernetes. This offers more flexibility in exposing storage systems in Kubernetes."
-    publishedDateTime: 2020-08-17T23:02:45Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-csi-storage-driver-support-in-azure-kubernetes-service/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: ".NET Core support for Azure Analysis Services client libraries is in preview"
     excerpt: "In response to customer feedback, .NET Core support for Azure Analysis Services client libraries is now available in preview. Start building .NET Core applications for modern cross-platform and cloud-oriented environments that target Analysis Services and Microsoft Power BI."
     publishedDateTime: 2020-07-10T00:23:39Z
@@ -56,7 +38,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 74
+    quality: 14
   - title: "Azure Kubernetes Service (AKS) support for proximity placement groups is now available"
     excerpt: "Better support for latency-sensitive workloads in critical business scenarios."
     publishedDateTime: 2020-06-24T16:00:42Z
@@ -65,7 +47,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 69
+    quality: 9
 
 secured: "L+hM4JI5Yh9IGKdLWHS6y0MlEk0e6+8btrvf7JN5jqmPyVJfMaFfmrXoXslF7cc91ievVVVmY9O404o2cRkbbK0AOL2vP47TSer4C+kVIETjfI7YkCAsqijDPJDb40h9sPkCly+jX68onUVXH5C51VTHpSEIPCsSho8xXY6Frp69PPy7XziGldMZvGGa17MxhbytAZ/AZNNZ1s9bYwVwpBYO7cD5GLAP7PCU1fIcV328ZbEORIBZ52VPHwlgT2BHYDerk8rqEnllzL7CK05xwTzEYHH3zQ1TqwuuN4Cd5yms/H8HmVD3vVoF6Lkbq9UK6XPAmbFT42zn3FKYDNk9WQ==;3XJl5Hyb8FUwnjFgK3XW5Q=="
 ---

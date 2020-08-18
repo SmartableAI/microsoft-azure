@@ -5,7 +5,7 @@ excerpt: "Windows Server containers in AKS is now available in Azure Government.
 publishedDateTime: 2020-06-10T16:00:25Z
 webUrl: "https://azure.microsoft.com/en-us/updates/windows-server-containers-in-aks-is-now-available-in-azure-government/"
 type: article
-quality: 77
+quality: 17
 heat: -1
 published: false
 
@@ -29,129 +29,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 99
+    quality: 89
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a69c6248-11fa-477b-81e0-17d56596895a.jpg"
         width: 1024
         height: 489
         isCached: true
-  - title: "Azure Migrate is now available in Azure Government"
-    excerpt: ""
-    publishedDateTime: 2020-04-18T00:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-migrate-now-available-in-azure-government/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure HPC Cache –  Express Snapshots is now available"
-    excerpt: ""
-    publishedDateTime: 2020-04-20T16:00:23Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-hpc-cache-express-snapshots-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure Sphere 20.04 Update 1 is now available for compatibility testing"
-    excerpt: ""
-    publishedDateTime: 2020-04-20T22:29:30Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-2004-update-1-is-now-available-for-compatibility-testing/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure Advisor integration with AKS now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-04-28T16:30:50Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-advisor-integration-with-aks-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure Private Link for AKS is now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-04-28T16:30:49Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-for-aks-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure Red Hat OpenShift on OpenShift 4 now available"
-    excerpt: ""
-    publishedDateTime: 2020-04-28T14:00:37Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-on-openshift-4-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure Service Health security advisories are now available"
-    excerpt: ""
-    publishedDateTime: 2020-04-29T16:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-service-health-security-advisories-are-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure Sphere 20.04 update 2 is now available for compatibility testing"
-    excerpt: ""
-    publishedDateTime: 2020-04-29T20:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-2004-update-2-is-now-available-for-compatibility-testing/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Spatial geometry in Azure Cosmos DB now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-04-29T16:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/spatial-geometry-in-azure-cosmos-db-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure Private Link is now generally available in US Government regions"
-    excerpt: ""
-    publishedDateTime: 2020-05-14T16:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/privatelinkgagovcloud/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Private AKS clusters are now generally available in Azure Government "
-    excerpt: "Azure Government customers can now use private AKS clusters for additional security."
-    publishedDateTime: 2020-06-15T19:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/private-aks-clusters-are-now-generally-available-in-azure-government/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure Databricks is now available in the Azure Government cloud (in preview)"
-    excerpt: ""
-    publishedDateTime: 2020-06-09T18:15:11Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-is-now-available-in-the-azure-government-cloud-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 74
-  - title: "Managed identity support in AKS is now available"
-    excerpt: ""
-    publishedDateTime: 2020-04-28T16:30:50Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/managed-identity-support-in-aks-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 62
   - title: "IPification Secure Mobile Authentication Now Available to Microsoft Azure Active Directory B2C Customers"
     excerpt: "Benefit Vantage Limited, developer of the IPification seamless authentication solution, is proud to announce that we will enable global service providers"
     publishedDateTime: 2020-04-28T14:00:00Z
@@ -264,6 +147,123 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Azure Migrate is now available in Azure Government"
+    excerpt: ""
+    publishedDateTime: 2020-04-18T00:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-migrate-now-available-in-azure-government/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure HPC Cache –  Express Snapshots is now available"
+    excerpt: ""
+    publishedDateTime: 2020-04-20T16:00:23Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-hpc-cache-express-snapshots-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure Sphere 20.04 Update 1 is now available for compatibility testing"
+    excerpt: ""
+    publishedDateTime: 2020-04-20T22:29:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-2004-update-1-is-now-available-for-compatibility-testing/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure Advisor integration with AKS now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-28T16:30:50Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-advisor-integration-with-aks-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure Private Link for AKS is now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-28T16:30:49Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-for-aks-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure Red Hat OpenShift on OpenShift 4 now available"
+    excerpt: ""
+    publishedDateTime: 2020-04-28T14:00:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-on-openshift-4-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure Service Health security advisories are now available"
+    excerpt: ""
+    publishedDateTime: 2020-04-29T16:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-service-health-security-advisories-are-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure Sphere 20.04 update 2 is now available for compatibility testing"
+    excerpt: ""
+    publishedDateTime: 2020-04-29T20:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-2004-update-2-is-now-available-for-compatibility-testing/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Spatial geometry in Azure Cosmos DB now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-29T16:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/spatial-geometry-in-azure-cosmos-db-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure Private Link is now generally available in US Government regions"
+    excerpt: ""
+    publishedDateTime: 2020-05-14T16:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/privatelinkgagovcloud/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Private AKS clusters are now generally available in Azure Government "
+    excerpt: "Azure Government customers can now use private AKS clusters for additional security."
+    publishedDateTime: 2020-06-15T19:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/private-aks-clusters-are-now-generally-available-in-azure-government/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure Databricks is now available in the Azure Government cloud (in preview)"
+    excerpt: ""
+    publishedDateTime: 2020-06-09T18:15:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-is-now-available-in-the-azure-government-cloud-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 14
+  - title: "Managed identity support in AKS is now available"
+    excerpt: ""
+    publishedDateTime: 2020-04-28T16:30:50Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/managed-identity-support-in-aks-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 2
 
 secured: "J7fxLb5sHsvz/QSOX7OoiLBnWLt4+g7thH0oQHCI7KniwkVDIkzQ02EM4ix4fxnAWyQP5m2cLIu7glbEHaQ4f9zw5fx//1yx6YmVxvHfYnYmLtmqU4bfL5cfkub1bFxB5j31jpWKA0QEMUOzRYaalPWhtHR8Q9kfWltkgVKUsDUYCbghUBPOMGnbYAvshOHDR36KTkF24pdZ/56QCYfO6b5/Adz0jlTlCC4Yve0mDaFP/mpy/3w1576SYKja197s0gTn5qnv7IeLKSKClzcQq6Itvu8UZh/FPlXBGWIBHlXKAJ/904vDNuknNkVW31f4tUyM9zGlkwCFB2Pyekz8nQ==;pKnpdkdLZFa6AWLwfIt6Zg=="
 ---

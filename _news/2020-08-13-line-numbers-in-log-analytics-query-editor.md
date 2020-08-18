@@ -5,8 +5,8 @@ excerpt: "Log Analytics query editor now show line numbers when composing a quer
 publishedDateTime: 2020-08-13T16:00:06Z
 webUrl: "https://azure.microsoft.com/en-us/updates/line-numbers-in-log-analytics-query-editor/"
 type: article
-quality: 82
-heat: 82
+quality: 72
+heat: 72
 published: true
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 271
     isCached: true
 
-secured: "Y006j0p7iKk8phnRoH4m/zdoHzHuoeXeOqeXiaal9AuxmjWnJpqQIGyMDFL4YA35x8vwWErY2ATe+YsST06kgtCSV4Mld9sVAQv1GSN4InWjPhHtAfruMOE6aoXt6U+jmKGeoG1DzjofyDJQZlDlT31hL44WNU/wjFGlnGoFp6SnlokuDtqCWrqyNCJ8iiTr4Ip4rzw585pKpL4W6Cg7QAPBemJmLDKNGYh0bD9cgAnBXsG5OHRtm4LXIRHNV8uxZR/D2OlLPnR239pNeXZBFcItE6yOTGX7OmWvAbUHvheOu6CyjIHrex0mbNRqEKfw7rpO5tm1HCITM0Vx1xC43w==;WTAFOFwudaY53xW7GmPvAg=="
+secured: "22Jw11+K6UIO3iH4HZbLRzhJFztmRHfXXC9bi2TQyUVxL9+Cin+tzz2yP5ceL8D2K0REIRcrgovm6NDnWVqPtVb0ifKEI5cM/nPCqGc3789+v2Sf5fNWEL7Vh/eN8o89pCq4y1FRZrkNxicu/UrI8kw/amjYePyH6ktAec1X85S4kt1K9g/Tx1ukatNwV9XQvkdBrytqtvzoAo8yYFUJJUmaIGDxKo/HnqyIGu/8TKAsUVkaxMcER9uKcnM4zTmnMFushvzMta1HOqEJJxx/UvXTAGBjbn6fQbn965/dz7MFAFfMiJ+wUqB5b6ceutMcAMQ7SXKRFgVfIYJz6ze8aV8oigDeFnUDPgVk3HS/Luk=;U+hoTFXUE3Kt5Car7mVhiA=="
 ---
 

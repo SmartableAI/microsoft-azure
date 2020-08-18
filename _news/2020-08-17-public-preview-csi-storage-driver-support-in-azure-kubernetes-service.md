@@ -5,7 +5,7 @@ excerpt: "Azure Kubernetes Service (AKS) now supports Container Storage Interfac
 publishedDateTime: 2020-08-17T23:02:45Z
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-csi-storage-driver-support-in-azure-kubernetes-service/"
 type: article
-quality: 77
+quality: 67
 heat: -1
 published: false
 
@@ -21,24 +21,15 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Spot support for Azure Kubernetes Service is in preview"
-    excerpt: ""
-    publishedDateTime: 2020-04-15T16:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-spot-support-for-azure-kubernetes-service-is-in-preview/"
+  - title: "General Availability: Azure Kubernetes Service node image upgrade "
+    excerpt: "Users can now initiate a targeted upgrade to agent nodes for a given node pool to pull the latest available node updates and patches without requiring a full cluster upgrade"
+    publishedDateTime: 2020-08-17T22:59:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-kubernetes-service-node-image-upgrade/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
-  - title: "Azure App Service support for GitHub Actions is in preview"
-    excerpt: ""
-    publishedDateTime: 2020-04-29T16:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-app-service-support-for-github-actions-is-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
+    quality: 67
   - title: "Azure Kubernetes Service upgrade improvements are now in preview"
     excerpt: "Two new AKS upgrade capabilities that will improve the granularity and efficiency of regular Kubernetes upgrade operations are now in preview."
     publishedDateTime: 2020-06-10T16:00:24Z
@@ -47,26 +38,17 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
-  - title: ".NET Core support for Azure Analysis Services client libraries is in preview"
-    excerpt: "In response to customer feedback, .NET Core support for Azure Analysis Services client libraries is now available in preview. Start building .NET Core applications for modern cross-platform and cloud-oriented environments that target Analysis Services and Microsoft Power BI."
-    publishedDateTime: 2020-07-10T00:23:39Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/net-core-support-for-azure-analysis-services-client-libraries-is-in-preview/"
+    quality: 17
+  - title: "Azure Kubernetes Service (AKS) node image upgrade is now available "
+    excerpt: "The node image upgrade capability in Azure Kubernetes Service (AKS) is now generally available. It enables you to initiate an upgrade to agent nodes targeted for a specific node pool to pull the latest available node updates and patches without requiring a full cluster upgrade."
+    publishedDateTime: 2020-07-21T16:00:50Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-aks-node-image-upgrade-is-now-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 74
-  - title: "Azure Kubernetes Service (AKS) support for proximity placement groups is now available"
-    excerpt: "Better support for latency-sensitive workloads in critical business scenarios."
-    publishedDateTime: 2020-06-24T16:00:42Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-aks-support-for-proximity-placement-groups-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 69
+    quality: 17
 
-secured: "wC45VuZt0WHfDroHnsPV1IKVyC2ANtN826AIYN4Fy9GyZrWr0bHowz9N66Eiz/XZofnjpKsu3Gf9Qu1OrtbpbEkzgwCfJ/hL5sMZIjrdssvSTGNmtSQ8gFYbuosCUlnj0Wn9WfxLBCH5huDdK/7vLBZUdaHWuSRUOC0DPmHRym1lxM0Tcwc5CHIb1Ei23wNvycxKksXBbFLLwQK0+rhbc2ziz/2auNWsqfJ9GfbXkPxbBfb/Mc9HFx6UC5uuamnHTeN46moFHoZ2fSd3paxM8gae9ZICVz/rNCHhSV3CW9Qa2umBrMb9wxuKtLsryhyaEkwaoXu4CSh4qBKy/Zhttw==;4x7zssBlxvIsbJ70g0apsA=="
+secured: "2orLVsxynGOzL+pDdqfGZyr/PJknQkW7o29w20OzOFMW29Vs5Q+O6J4RlDvICfQBDQdA9EynnsVcoOE4FxZr7OP/XR1r88u7+oBmfSWJOdOKFvddjoSecoWfyZiXdn0viGOJjV1YCrdjrfxCOXZ3mVYbHSg2wijvw7HGRKbrxObM3PgdurMxdv02Iby9UNqcVUjCfvlZBTx4URwyVkuL5RvoGg/Bjv3lUnxHpOeKp0gfOxvV14dwDuj6pZlQkaE8sxn63TOfet6190PBwUXolpwZ2FmMWgGPsYdv1t1SMirmszEnCr4/9dU7XIpx0k/pFGeBICVe6UCm2Qr0YLe68XkDWNf/kSFWKKgW7p18CLo=;SC8va9r8TofzRJehS7mIoQ=="
 ---
 

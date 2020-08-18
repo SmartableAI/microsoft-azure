@@ -5,7 +5,7 @@ excerpt: "We have expanded the preview regions to include East US 2, Central US,
 publishedDateTime: 2020-07-16T21:00:44Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-versioning-public-preview-region-expansion-2/"
 type: article
-quality: 77
+quality: 17
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Object replication public preview for Azure Blob storage"
     excerpt: ""
     publishedDateTime: 2020-05-21T15:44:37Z
@@ -38,7 +38,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
 
 secured: "iSXIOrPIyUkmG+HMxTdHTuKnMa3aL5QfY0mf6gpKf6p0SExRYuhYaOsJllrKeVqv0CaGeDM9GqHJgnqcLCDbZ8+pcJy9NY0Byaw6qYoUn+wfOlgqACXAFPVS6/zLGCCbj3UI1XKDPsi7Uj57SSnMe8ONhokRr9rgOJHYhVs/ug7d1cC0NAXFrrcmNlFpj/gRAnK2oEK0ol5h+7AwMkPK7l4mz4HjHJz7l+aQREgBDBgSGmnIbp8xSENPkuEmioeoRj6H9kCgPIDbaiUX/U3fEAUb5RphyrxPU56P8l4aUcGxOOEWJZVsS58i1SIN8SFMO9Yrf/wptu1kiChchdsq2g==;W51ksOmgapmGuHyYzj58YQ=="
 ---

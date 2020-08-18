@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-27T10:20:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-cloud-testing-market-emerging-trends-and-future-opportunities-till-2023-2020-04-27"
 type: article
 quality: 58
-heat: 198
+heat: 218
 published: true
 
 provider:
@@ -125,6 +125,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Gartner: Threats and opportunities facing cloud service providers during COVID-19"
+    excerpt: "Tech leaders need a thorough understanding of the threats, opportunities and forthcoming events that will occur as a result of the coronavirus pandemic."
+    publishedDateTime: 2020-05-04T13:57:00Z
+    webUrl: "https://www.ciodive.com/news/gartner-cloud-csp/577125/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 17
+    images:
+      - url: "https://www.ciodive.com/user_media/cache/12/e2/12e2858c5eb8a7668a4ac74e3c216843.jpg"
+        width: 770
+        height: 364
         isCached: true
 
 secured: "YzThU7+XCBVseA3AurMd38MDfyw9LZf3SL2F9khmEd19iYm7sXM+KJcwoTjQD8CryV/dbIrKFr+KPCopISGSYpJD8/7ewCByQo5srrObWSvFvQqy153jkaMMGGBG06ojX8QgaWLpQcxZ91uXImQFH2uE/3HfUCm6KKWeXuwwvjAZ7LRz40+2jk1+vzwM9E5P7s44upqAORjjhebg890OxPwCqIYYP9dcA/eo22LvgqPZwT9vVIsptVnbfr1UvggKAUHcH4XOZukJs/GxZ8kdBBGgyWpVkQTP9BdXSvNBt4Fzm5nR8eRc2t3N1UVAx2hV;FXiqnpgNLski/fnzD2+kDg=="

@@ -21,229 +21,117 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Maps Creator now available in preview"
-    excerpt: "As enterprises continue to evolve in their digital transformation journey, there is a need for augmenting Azure Maps content with project-specific and private business knowledge of places. Today we're launching Azure Maps Creator in preview to extend location intelligence to indoor spaces.\r\n\r\nEnterprises"
-    publishedDateTime: 2020-06-01T08:00:09Z
-    webUrl: "https://azure.microsoft.com/blog/azure-maps-creator-now-available-in-preview/"
+  - title: "13 ways Microsoft Azure beats AWS"
+    excerpt: "From Visual Studio integration to powerful machine learning APIs, you have more than a dozen reasons to choose Azure over AWS"
+    publishedDateTime: 2020-06-01T10:13:00Z
+    webUrl: "https://www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.html"
+    ampWebUrl: "https://www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.amp.html"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 103
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a6153b4c-6ec4-4b09-b1e7-dd8f2be265dd.png"
-        width: 780
-        height: 768
-        isCached: true
-  - title: "Azure Monitor Logs IntelliSense improvements are now available"
-    excerpt: ""
-    publishedDateTime: 2020-05-26T16:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-intellisense-improvements/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
+      name: InfoWorld
+      domain: infoworld.com
     quality: 97
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/bc9fd2f5-bd17-4f4e-b1b5-c02c035f249b.gif"
-        width: 1730
-        height: 668
+      - url: "https://images.idgesg.net/images/article/2019/02/cloud_comput_connect_blue-100787048-large.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Azure Monitor Logs—New experience for agents is now available"
-    excerpt: ""
-    publishedDateTime: 2020-05-26T18:00:22Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-experience-for-agents-in-log-analytics/"
+  - title: "Migrating to Microsoft Azure"
+    excerpt: "One of the first things cloud architect Bill Zack did after moving from Connecticut to Nashville in 2013 was to form a Microsoft Azure User Group. Launched with just four initial members ..."
+    publishedDateTime: 2020-06-06T00:00:00Z
+    webUrl: "https://sdtimes.com/msft/migrating-to-microsoft-azure/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 97
+      name: SD Times
+      domain: sdtimes.com
+    quality: 77
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/480ae3b3-08b3-4078-b20f-83bb10f1d10c.gif"
-        width: 2554
-        height: 1323
+      - url: "https://sdtimes.com/wp-content/uploads/2018/06/migration.jpg"
+        width: 660
+        height: 371
         isCached: true
-  - title: "Service Bus Explorer on the Azure portal is now available in preview"
-    excerpt: ""
-    publishedDateTime: 2020-05-26T18:00:30Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/sesrvice-bus-explorer/"
+  - title: "Backup to Microsoft Azure with Veeam Direct Restore"
+    excerpt: "Of the cloud solutions available on the market, Microsoft Azure stands out as an excellent choice. Created by one of the giants of global tech, Azure is an all-encompassing cloud platform that is ..."
+    publishedDateTime: 2020-05-27T08:16:00Z
+    webUrl: "https://mybroadband.co.za/news/industrynews/353659-backup-to-microsoft-azure-with-veeam-direct-restore.html"
+    ampWebUrl: "https://mybroadband.co.za/news/industrynews/353659-backup-to-microsoft-azure-with-veeam-direct-restore.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/353659-backup-to-microsoft-azure-with-veeam-direct-restore.html/amp"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 97
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 57
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/ccedbcf5-8321-460c-a9a3-b0730caa96fe.jpg"
-        width: 347
-        height: 549
-        isCached: true
-  - title: "A new consolidated API version in Azure Monitor Logs is now available"
-    excerpt: ""
-    publishedDateTime: 2020-06-08T16:00:33Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-consolidated-api-version-in-for-log-analytics/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 97
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/55f9101b-07a0-4e94-b8aa-802abda1d4df.png"
+      - url: "https://mybroadband.co.za/news/wp-content/uploads/2020/03/Picture1-2-640x359.png"
         width: 640
-        height: 386
+        height: 359
         isCached: true
-  - title: "Azure Monitor for VMs is now in preview in US Gov Virginia"
-    excerpt: ""
-    publishedDateTime: 2020-05-26T18:00:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-for-vms-is-now-available-in-us-gov-virginia/"
+  - title: "Microsoft and Oracle to interconnect Microsoft Azure and Oracle Cloud"
+    excerpt: "Before it's here, it's on the Bloomberg Terminal."
+    publishedDateTime: 2020-05-31T18:14:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2019-06-05/microsoft-and-oracle-to-interconnect-microsoft-azure-and-oracle-cloud"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure DevTest Labs environments are now available in Azure Government"
-    excerpt: ""
-    publishedDateTime: 2020-05-27T16:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-devtest-labs-environments-are-now-available-in-azure-government/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure DevTest Labs is now available in Switzerland regions"
-    excerpt: ""
-    publishedDateTime: 2020-05-27T16:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-devtest-labs-is-now-available-in-switzerland-regions/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure Service Health—Emerging issues now available "
-    excerpt: ""
-    publishedDateTime: 2020-05-27T16:00:06Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-service-health-emerging-issues-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure Ultra Disk Storage is now available in more regions"
-    excerpt: ""
-    publishedDateTime: 2020-05-27T16:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-ultra-disk-storage-is-now-available-in-more-regions/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure Text Analytics—Opinion mining is now available in preview"
-    excerpt: ""
-    publishedDateTime: 2020-05-30T16:00:19Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/opinion-mining-is-now-available-in-text-analytics-in-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure Database for MariaDB  is now available in the France South region"
-    excerpt: ""
-    publishedDateTime: 2020-06-01T16:00:11Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-is-now-available-in-the-france-south-region/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure Database for MySQL is now available in France South"
-    excerpt: ""
-    publishedDateTime: 2020-06-01T16:00:11Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-is-now-available-in-france-south/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "The Azure Sphere OS 20.05 quality release is now available"
-    excerpt: ""
-    publishedDateTime: 2020-06-01T17:00:10Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/the-azure-sphere-os-20-05-quality-release-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure Shared Image Gallery feature improvements are now available"
-    excerpt: ""
-    publishedDateTime: 2020-06-02T01:00:15Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/shared-image-gallery-improvements/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure Shared Image Gallery—New features are now available in preview"
-    excerpt: ""
-    publishedDateTime: 2020-06-02T01:00:16Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/shared-image-gallery-new-features/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Machine Learning on Azure SQL Managed Instance limited preview available"
-    excerpt: ""
-    publishedDateTime: 2020-05-27T16:00:07Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/machine-learning-on-azure-sql-managed-instance-limited-preview-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 76
-  - title: "Minimal TLS version setting is now available for Azure Database for MySQL"
-    excerpt: ""
-    publishedDateTime: 2020-06-04T17:00:27Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-minimal-tls-version/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 76
-  - title: "Minimal TLS version setting is now available for Azure Database for MariaDB"
-    excerpt: ""
-    publishedDateTime: 2020-06-04T17:00:49Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-minimal-tls-version/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 75
-  - title: "Azure Database for PostgreSQL—Single Server now available in the France South region"
-    excerpt: ""
-    publishedDateTime: 2020-05-27T16:00:09Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-single-server-now-available-in-the-france-south-region/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 70
-  - title: "HBv2-Series VMs now available in West US 2"
-    excerpt: ""
-    publishedDateTime: 2020-06-03T17:00:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/hbv2series-vms-now-available-in-west-us-2/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 62
-  - title: "Windows Virtual Desktop media optimization for Microsoft Teams is now available in preview"
-    excerpt: ""
-    publishedDateTime: 2020-05-29T21:00:33Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/windows-virtual-desktop-media-optimization-for-microsoft-teams-is-now-available-in-public-preview/"
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 57
+  - title: "Microsoft and Docker collaborate on new ways to deploy containers on Azure"
+    excerpt: "Now more than ever, developers need agility to meet rapidly increasing demands from customers. Containerization is one key way to increase agility. Containerized applications are built in a more consistent and repeatable way, by way of defining desired infrastructure, dependencies, and configuration"
+    publishedDateTime: 2020-05-27T14:00:04Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-and-docker-collaborate-on-new-ways-to-deploy-containers-on-azure/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c2dfbf4e-3ca4-42c1-acec-cd89fd674efb.gif"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "NXP expands partnership with Microsoft Azure RTOS"
+    excerpt: "NXP Semiconductors has expanded its partnership with Microsoft to bring Microsoft Azure real-time operating system (RTOS) to a broader range of processing solutions from its EdgeVerse portfolio."
+    publishedDateTime: 2020-05-27T15:40:00Z
+    webUrl: "https://roboticsandautomationnews.com/2020/05/27/nxp-expands-partnership-with-microsoft-azure-rtos/32528/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 37
+    images:
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/05/microsoft-rtos-netx-duo.png"
+        width: 954
+        height: 541
+        isCached: true
+  - title: "Microsoft Azure Heads IoT Platform Research Report, Edging AWS"
+    excerpt: "Microsoft Azure outpaced perennial cloud computing champion Amazon Web Services (AWS) as the top Internet of Things (IoT) platform in a new research report."
+    publishedDateTime: 2020-05-29T22:11:00Z
+    webUrl: "https://virtualizationreview.com/articles/2020/05/29/cloud-iot-report.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 37
+    images:
+      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN1BlueSquaresWhiteSpotsAbstract.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "RapidAPI adds Microsoft Azure Cognitive Services to its Marketplace"
+    excerpt: "RapidAPI has added a dozen Microsoft Azure Cognitive Services to its Marketplace including APIs for Vision, Language, Web Search, and Decision."
+    publishedDateTime: 2020-05-29T00:36:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/05/29/rapidapi-microsoft-azure-cognitive-services/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 37
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
+        width: 304
+        height: 430
+        isCached: true
   - title: "SepioPrime Now Available in the Microsoft Azure Marketplace"
     excerpt: "Sepio Systems, the leader in Rogue Device Mitigation (RDM), today announced the availability of SepioPrime in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
     publishedDateTime: 2020-05-29T13:00:00Z
@@ -258,20 +146,43 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Microsoft previews Azure Maps Creator to enable indoor location apps and AR"
-    excerpt: "Microsoft Corp. today announced the preview of Azure Maps Creator, a new tool in its public cloud platform that will enable companies to create custom indoor maps for use cases su"
-    publishedDateTime: 2020-06-01T18:50:00Z
-    webUrl: "https://siliconangle.com/2020/06/01/microsoft-previews-azure-maps-creator-enable-indoor-location-apps-ar/"
+  - title: "Cryptomathic ports key control to Microsoft Azure"
+    excerpt: "Cryptography solutions pioneer, Cryptomathic, has today enabled its client banks and other security-sensitive businesses to leverage Microsoft Azure’s platform while retaining lifecycle control of critical keys,"
+    publishedDateTime: 2020-06-02T09:32:00Z
+    webUrl: "https://www.finextra.com/pressarticle/82734/cryptomathic-ports-key-control-to-microsoft-azure"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 35
+      name: Finextra
+      domain: finextra.com
+    quality: 37
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/hololens2-768x512.jpg"
-        width: 768
-        height: 512
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
         isCached: true
+  - title: "Microsoft Azure Active Directory (Azure AD)"
+    excerpt: "There is no shortage of online forums to help troubleshoot Azure AD. Virtually limitless integrations. Azure Active Directory is a cloud-based identity and access management service that covers a broad range of authentication scenarios, user types, and developer authentication abilities. Its single sign-on makes for a seamless end-user ..."
+    publishedDateTime: 2020-06-02T08:35:00Z
+    webUrl: "https://www.scmagazine.com/review/microsoft-azure-active-directory-azure-ad/"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 37
+    images:
+      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/06/Microsoft-Identity-Mgt-Image_June2020.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Europe’s Gaia-X Counters Amazon AWS, Microsoft Azure, Google Cloud"
+    excerpt: "X, backed by European governments & local technology companies, seeks to offer open standards alternatives to Amazon AWS, Microsoft Azure, Google Cloud Platform & Alibaba Cloud."
+    publishedDateTime: 2020-06-05T15:28:00Z
+    webUrl: "https://www.channele2e.com/channel-partners/csps/europes-gaia-x-counters-aws-azure-google-cloud/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 17
 
 secured: "OVrdWryJYaShu24VxDcc6CUPl6gmSvb36Nofwc/OUvUsKCyf3J8XRKdV45PiRSRt/gAAhbQ0kS8FQpaBzLhOsyfDEoqfjfAj16pfdRZKlIAp66HP7BaVTZIUsg1zYZla6YyzftTqV2nOY6zmy2UyKDEO4si8N+V4S4E0P79Yj6Yj2Q4mEMeynI1EYOMLbX/3AIXpTSmJAj5D6Wcaq8+Qf9fkg26pM8ckfQCli2xSd9Ht+8XvOAmuBXdVfV0UBDlJzSGOd2gf4x8Mfeds7wyVQN7IPBOtDSRGw5JDcdpfvTrC5n6LjM+nRn9JdhWVh/v8;ye6JAAfFHEaagV8+sJHL1Q=="
 ---

@@ -5,9 +5,9 @@ excerpt: "Case-insensitive support in Azure Cosmos DB was released for the follo
 publishedDateTime: 2020-06-24T16:00:56Z
 webUrl: "https://azure.microsoft.com/en-us/updates/caseinsensitive-string-functions-with-azure-cosmos-db-now-available/"
 type: article
-quality: 77
-heat: 77
-published: true
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Microsoft

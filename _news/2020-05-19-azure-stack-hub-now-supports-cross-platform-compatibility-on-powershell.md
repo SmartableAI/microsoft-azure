@@ -5,9 +5,9 @@ excerpt: ""
 publishedDateTime: 2020-05-19T16:05:32Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-stack-hub-now-supports-crossplatform-compatibility-on-powershell/"
 type: article
-quality: 77
-heat: 77
-published: true
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Microsoft

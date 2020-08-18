@@ -5,7 +5,7 @@ excerpt: "Notification of changes coming to Azure Time Series Insights Web Exper
 publishedDateTime: 2020-07-15T00:00:18Z
 webUrl: "https://azure.microsoft.com/en-us/updates/notification-of-upcoming-changes-to-azure-time-series-insights-web-experience-url/"
 type: article
-quality: 72
+quality: 12
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 100
+    quality: 90
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/5f45b0b1-c717-4967-b855-55833068b919.png"
         width: 1024
@@ -43,7 +43,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
 
 secured: "LVF63aR2E3dzbtD/j6vtUhefZQTEM3qnk7yhxn486QQPejMf8Pb+jetEmyWnG2x2JwKWQ/faUOVyqzko3hmVVv3iVdo501APlwhgi3yI4QayR0RpggcsuQvrp+ko4jj/bng3nL3GQnObLkA/4AiNDE+cK7iUB39+cbllrfbR6xwERL1hFBvVpWPBTUMwrFY9SJDqoAnQTvlMAe23glu5wHbwTR3fC19aKAyNFKhhgR+aGCNZctz/N6X/A8LwDo/paKJptpEVjCTFdPQOskbtXPNAD3TJD2n0nMaLYggFGN5wDF/uiYMMp+IEHVFamQwx6I5ZXkASWBJgRHfS9hxLDQ==;Vw58dzzZpC1R+E9/hV822w=="
 ---

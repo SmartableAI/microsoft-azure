@@ -5,8 +5,8 @@ excerpt: "Azure Blob storage is a massively scalable object storage solution tha
 publishedDateTime: 2020-07-15T09:00:26Z
 webUrl: "https://azure.microsoft.com/blog/run-high-scale-workloads-on-blob-storage-with-new-200-tb-object-sizes/"
 type: article
-quality: 101
-heat: 101
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 502
     isCached: true
 
-secured: "tEnI8utqPV3VTuG1xZ+suBNdPzAiZ2gOFGmHfWQrWcR8dzdtdgY2Lq1rRyxdFYppD4HfmjDuUCxMciMBXLYISj01oE4eha4cp5zYw6zq0Fwkmu97H2wJyCFEwXosy9PyvEs2gl5biAm/r4F6QSU0q4nyFfPQe67BdOnDZjn5xgAiOr14ZvHY4fs5YmVqLX5MOVkQagCiDpBfO0g5p/cAITw1SrSpE1wxmOJUY+38HLjv2xztW1aKUKY3OzaA9tp77tnwJ9ECEioW9OvEm7hI2eZ5BXLF13Ev9esldaeM02l3GNUPzm8M/a704rwqQpStZpdb6oCrNN0/11NV2ncxrg==;h6A97JTTynibzQsXHcTxpA=="
+secured: "/18vNw7NB3V20dxJiVEBtFW5oBb3Dxu1uIQjbjX99vedEkKnYY74NyIhwlegIA16z7Axb0DB5csgBS1rxX7PU2B4+WUGgF36MLcPlwKdEnMqKgI9oldNxg3sOTkCbom/Ha30fsY+cXMs5PjRytz5rz93Afasgu+ZOdvFIZm2yXjPoXGOdYI6GhzlIKzDzXQF7brkzwhlUrcQexXbcoqR9INJCfrvLSGVhAbyXTJwjVpZebJFl1P7pYfvysJyCJi2EDHA8nEVPlVstbvDMSqv/O+M1bYc8ppbovAUASd8yfr/QN7jSamVD4Cq3BDetp0SYNSDTTEZL8VcOx1VS1qNKbgzVJU0t08o8Ri7qaRuJNQ=;8WMy1kjzMdPQ4bbZJlSGVw=="
 ---
 

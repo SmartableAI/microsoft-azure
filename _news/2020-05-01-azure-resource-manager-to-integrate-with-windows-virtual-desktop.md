@@ -56,15 +56,6 @@ related:
         width: 875
         height: 557
         isCached: true
-  - title: "Enable remote work faster with new Windows Virtual Desktop capabilities"
-    excerpt: "In the past few months, there has been a dramatic and rapid shift in the speed at which organizations of all sizes have enabled remote work amidst the global health crisis. Companies examining priorities and shifting resources with agility can help their employees stay connected from new locations and"
-    publishedDateTime: 2020-05-01T10:00:20Z
-    webUrl: "https://azure.microsoft.com/blog/enable-remote-work-faster-with-new-windows-virtual-desktop-capabilities/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 62
   - title: "Windows Virtual Desktop Improves to Address New Needs"
     excerpt: "With COVID-19 triggering a massive uptick in Windows Virtual Desktop usage, Microsoft is responding with improvements and new features."
     publishedDateTime: 2020-04-30T13:06:00Z
@@ -93,6 +84,15 @@ related:
         width: 1066
         height: 600
         isCached: true
+  - title: "Enable remote work faster with new Windows Virtual Desktop capabilities"
+    excerpt: "In the past few months, there has been a dramatic and rapid shift in the speed at which organizations of all sizes have enabled remote work amidst the global health crisis. Companies examining priorities and shifting resources with agility can help their employees stay connected from new locations and"
+    publishedDateTime: 2020-05-01T10:00:20Z
+    webUrl: "https://azure.microsoft.com/blog/enable-remote-work-faster-with-new-windows-virtual-desktop-capabilities/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 2
 
 secured: "c6OxLSjqUyDqY7mCEg48obqi1IlOKoy2Jm/e+NxNkJDTqgqo0zznLK5NKFaNxGHrXEU+/bBdqdmPGxEDBK2FWUmzx17Vf99nAdLNAKTE/qvMbVBkgJx30FDKPJ4tI326S5kQcYIP1S+yLxPcWjbFPB2FvhAGUh7FxZg84sSsJSEHzt/C6DBhh3o4p1P4tclLX/B91uqZG+Vf59JoElbf+1Z+lHTjkRArqqTxPdHG8uc1PonmMr5YklvdZsRf4NK48rZhvgxChriz2fIX5GPaS6fSVxZyTrlUuXbGNrGRFzJOBt1EQlyQaAmHjpV9UKb7;HcQbqfOAKGWlHSr0m9Aa+g=="
 ---

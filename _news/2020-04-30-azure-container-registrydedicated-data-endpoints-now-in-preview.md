@@ -5,7 +5,7 @@ excerpt: ""
 publishedDateTime: 2020-04-30T16:00:04Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-dedicated-data-endpoints-now-in-preview/"
 type: article
-quality: 77
+quality: 17
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 92
+    quality: 82
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/65527b4a-84d5-4864-92e5-78da3ecba512.png"
         width: 640

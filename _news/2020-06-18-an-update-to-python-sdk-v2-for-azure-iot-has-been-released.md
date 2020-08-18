@@ -5,9 +5,9 @@ excerpt: "A new release of the Python SDK v2 for Azure IoT is now available. Thi
 publishedDateTime: 2020-06-18T18:00:30Z
 webUrl: "https://azure.microsoft.com/en-us/updates/an-update-to-python-sdk-v2-for-azure-iot-has-been-released/"
 type: article
-quality: 77
-heat: 77
-published: true
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Microsoft

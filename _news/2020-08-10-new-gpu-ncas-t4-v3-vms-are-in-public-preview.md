@@ -5,8 +5,8 @@ excerpt: "NCas T4 v3  Series VMs are now available for preview in US West 2."
 publishedDateTime: 2020-08-10T16:00:02Z
 webUrl: "https://azure.microsoft.com/en-us/updates/new-gpu-ncas-t4-v3-vms-are-in-public-preview/"
 type: article
-quality: 62
-heat: 62
+quality: 2
+heat: 2
 published: false
 
 provider:

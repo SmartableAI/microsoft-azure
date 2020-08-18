@@ -5,9 +5,9 @@ excerpt: "Since the general availability of Azure Data Lake Storage Gen2 in Febr
 publishedDateTime: 2019-12-03T11:00:12Z
 webUrl: "https://azure.microsoft.com/blog/extended-filesystem-programming-capabilities-in-azure-data-lake-storage/"
 type: article
-quality: 79
-heat: 79
-published: true
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Microsoft

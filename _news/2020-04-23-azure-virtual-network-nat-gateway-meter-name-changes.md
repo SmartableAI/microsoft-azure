@@ -5,9 +5,9 @@ excerpt: ""
 publishedDateTime: 2020-04-23T18:00:14Z
 webUrl: "https://azure.microsoft.com/en-us/updates/nat-gateway-meter-name-changes/"
 type: article
-quality: 77
-heat: 77
-published: true
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Microsoft

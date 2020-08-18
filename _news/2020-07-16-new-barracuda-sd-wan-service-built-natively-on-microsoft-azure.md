@@ -23,66 +23,150 @@ images:
     isCached: true
 
 related:
-  - title: "Running SD-WAN virtual appliances natively in Azure Virtual WAN"
-    excerpt: "Today we’re announcing the preview of the new ability to deploy and run third-party Network Virtual Appliances such as SD-WAN natively within the Azure Virtual WAN hubs."
-    publishedDateTime: 2020-07-16T10:00:40Z
-    webUrl: "https://azure.microsoft.com/blog/running-sdwan-virtual-appliances-natively-in-azure-virtual-wan/"
+  - title: "Microsoft is working on an Azure-powered Cloud PC service"
+    excerpt: "Well, it's happening, likely as soon as spring 2021. Microsoft is currently calling the coming virtualization service \"Cloud PC.\" Cloud PC won't replace locally installed Windows (and Office) -- for the foreseeable future, anyway. It will be an option for ..."
+    publishedDateTime: 2020-07-20T10:09:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-is-working-on-an-azure-powered-cloud-pc-service/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-is-working-on-an-azure-powered-cloud-pc-service/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-working-on-an-azure-powered-cloud-pc-service/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 99
+      name: ZDNet
+      domain: zdnet.com
+    quality: 97
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/861ec5e7-1837-4e5f-b7ba-8721cc802554.png"
-        width: 911
-        height: 513
+      - url: "https://zdnet2.cbsistatic.com/hub/i/2020/07/17/b7e08eab-61e0-43b4-b701-277f2d271516/microsoftcloudpc.jpg"
+        width: 1018
+        height: 763
         isCached: true
-  - title: "Now install network virtual appliances directly into an Azure Virtual WAN hub"
-    excerpt: "Several new capabilities for Azure Virtual WAN are now in preview—including the option to install network virtual appliances directly into a virtual WAN hub as an option for SD-WAN connectivity. "
-    publishedDateTime: 2020-07-21T16:02:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/now-install-network-virtual-appliances-directly-into-an-azure-virtual-wan-hub/"
+  - title: "Dynatrace Announces Enhanced AI-powered Observability for Microsoft Azure"
+    excerpt: "Software intelligence company Dynatrace (NYSE: DT), announced today the extension of its Software Intelligence Platform to automatically ingest metrics"
+    publishedDateTime: 2020-07-23T12:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/dynatrace-announces-enhanced-ai-powered-observability-for-microsoft-azure-2020-07-21-81591442"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 74
-  - title: "Barracuda launches secure SD-WAN service built natively on Microsoft Azure"
-    excerpt: "WAN service built natively on Microsoft Azure. The new Barracuda CloudGen WAN service is the first SD-WAN solution that runs inside Azure Virtual WAN Hubs. Hubs can be interconnected through the Microsoft Global Network."
-    publishedDateTime: 2020-07-20T02:02:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/07/20/barracuda-sd-wan-service/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 35
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 76
     images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
-        width: 304
-        height: 430
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Barracuda introduces first global secure SD-WAN service built natively on Microsoft Azure"
-    excerpt: "New Barracuda CloudGen WAN is the first secure global SD-WAN service built natively on Microsoft Azure. The new service is deployed directly from Azure, works out of the box with smart default ..."
-    publishedDateTime: 2020-07-16T17:08:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/barracuda-introduces-first-global-secure-sd-wan-service-built-natively-on-microsoft-azure-301094835.html"
+  - title: "Microsoft to launch Cloud PC service powered by Azure, according to report"
+    excerpt: "Microsoft will reportedly launch a Cloud PC service. The service would allow people to use PCs as thin clients for Windows, Office, and potentially other Microsoft software. It was recently revealed that Windows 10X will stream Win32 apps through the cloud."
+    publishedDateTime: 2020-07-20T14:45:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-launch-cloud-pc-service-powered-azure-according-report"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-launch-cloud-pc-service-powered-azure-according-report?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-launch-cloud-pc-service-powered-azure-according-report?amp"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 28
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 55
     images:
-      - url: "https://mma.prnewswire.com/media/324434/barracuda_networks__inc__logo.jpg?p=facebook"
-        width: 2696
-        height: 1414
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/05/surface-book-3-logo-profile.jpg"
+        width: 800
+        height: 600
         isCached: true
-  - title: "Barracuda introduces SD-WAN service built natively on Microsoft Azure"
-    excerpt: "Barracuda released what it calls the first SD-WAN service built natively on Microsoft Azure. The new Barracuda CloudGen WAN service is the first SD-WAN platform that runs inside Azure Virtual WAN Hubs. Hubs can be interconnected through the Microsoft ..."
-    publishedDateTime: 2020-07-17T12:43:00Z
-    webUrl: "https://www.telecompaper.com/news/barracuda-introduces-sd-wan-service-built-natively-on-microsoft-azure--1346958"
+  - title: "Barracuda has launched a new SD-WAN service built on Microsoft Azure"
+    excerpt: "Barracuda Networks Inc. has announced a new secure SD-WAN service built natively on Microsoft Azure. The new Barracuda CloudGen WAN service is the first SD-WAN solution that runs inside Azure Virtual WAN Hubs. The service allows the WAN Hubs to be ..."
+    publishedDateTime: 2020-07-20T23:39:00Z
+    webUrl: "https://ctovision.com/barracuda-has-launched-a-new-sd-wan-service-built-on-microsoft-azure/"
     type: article
     provider:
-      name: Telecompaper
-      domain: telecompaper.com
+      name: ctovision.com
+      domain: ctovision.com
+    quality: 37
+    images:
+      - url: "https://ctovision.com/wp-content/uploads/space.jpg"
+        width: 632
+        height: 422
+        isCached: true
+  - title: "Microsoft to launch new Azure Cloud PC service in 2021 – Report"
+    excerpt: "Microsoft could launch a new Azure-powered virtualisation service called Cloud PC in 2021, according to a report from ZDNet. The publication discovered a job posting on the company’s website for ..."
+    publishedDateTime: 2020-07-21T11:37:00Z
+    webUrl: "https://mybroadband.co.za/news/cloud-hosting/360757-microsoft-to-launch-new-azure-cloud-pc-service-in-2021-report.html"
+    ampWebUrl: "https://mybroadband.co.za/news/cloud-hosting/360757-microsoft-to-launch-new-azure-cloud-pc-service-in-2021-report.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/cloud-hosting/360757-microsoft-to-launch-new-azure-cloud-pc-service-in-2021-report.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 37
+  - title: "Alaska Communications Brings Locally Hosted Microsoft Azure Services to Alaska, Increasing Security and Improving Latency"
+    excerpt: "Alaska Communications will bring locally hosted Microsoft Azure Stack Hub cloud services to Alaska. “We listened to our customers’ concerns about data storage, which led to this collaboration with Microsoft to expand to bring a hybrid cloud solution to Alaska businesses,"
+    publishedDateTime: 2020-07-25T01:30:00Z
+    webUrl: "https://www.nasdaq.com/press-release/alaska-communications-brings-locally-hosted-microsoft-azure-services-to-alaska"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 32
+  - title: "Microsoft Cloud PC is Coming in Spring 2021"
+    excerpt: "Microsoft is working on a virtualized Windows desktop experience for thin clients called Microsoft Cloud PC. It’s expected in Spring 2021."
+    publishedDateTime: 2020-07-20T15:25:00Z
+    webUrl: "https://www.thurrott.com/cloud/238023/microsoft-cloud-pc-is-coming-in-spring-2021"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 22
+    images:
+      - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/07/cloud-pc.jpg"
+        width: 1066
+        height: 599
+        isCached: true
+  - title: "Get Certified In AWS, Google and Microsoft Cloud Services — and Get Paid."
+    excerpt: "digs into the specific features available on Microsoft’s cloud platform. The course also gets you ready for the second jewel in this cloud services triple crown, certification in the Microsoft Azure Fundamentals exam. Finally, Google Cloud Platform ..."
+    publishedDateTime: 2020-07-20T20:56:00Z
+    webUrl: "https://www.extremetech.com/deals/312963-get-certified-in-aws-google-and-microsoft-cloud-services-and-get-paid"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 21
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2020/07/sale_31344_primary_image_wide.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Barracuda, Microsoft Tout SD-WAN on Azure for Multi-Cloud Services"
+    excerpt: "Barracuda CloudGen WAN allows companies and service providers to create a pragmatic Secure Access Service Edge (SASE) solution in public clouds, according to a statement from Microsoft and Barracuda. This could pave the way for greater public cloud ..."
+    publishedDateTime: 2020-07-18T10:53:00Z
+    webUrl: "https://www.channele2e.com/technology/multi-cloud-management/barracuda-microsoft-sd-wan/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
     quality: 17
+  - title: "Microsoft may launch Azure-powered 'Cloud PC' next year"
+    excerpt: "Microsoft is working on a Azure-powered Cloud PC that will be built on top of Windows Virtual Desktop and can arrive as early as 2021."
+    publishedDateTime: 2020-07-21T05:55:00Z
+    webUrl: "https://www.sify.com/finance/microsoft-may-launch-azure-powered-cloud-pc-next-year-news-topnews-uhveOBfjdgbif.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 17
+  - title: "Microsoft to shift Minecraft workloads from AWS Cloud to Azure"
+    excerpt: "Azure is growing faster than many other Microsoft offerings. Most of its consumer and commercial properties, including the video conferencing app Teams, now run on Azure Cloud. Microsoft would ..."
+    publishedDateTime: 2020-07-21T13:26:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20200721/3596115.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 17
+  - title: "Microsoft Graph Service: Retiring TLS 1.0 and 1.1 and preparing for TLS 1.2 in US Gov Cloud "
+    excerpt: "Update your Microsoft Graph clients in US Gov Cloud (https://graph.microsoft.us & https://dod-graph.microsoft.us) to TLS 1.2 by 8/5/2020 to ensure that you maintain uninterrupted access to Microsoft Graph Service."
+    publishedDateTime: 2020-07-14T21:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-graphservice-tls12-enforcement/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 0
 
 secured: "dWFGHpddJfS7wv3ZjxWd5WDdGgrYWnodoQ8z1TSLIWhPtWjKDnYKr8G2tome3I5BkLT/1CKtxDhBCSKMx4wr9hPp8Am0b1Aus8i+qNYiwsshxzx22VkD5k6LpRuukQf1TOfGy0IfY3iawKI9X4qXZFR9eLHySKfn4sZQOWmIj6GBQ3UglRiXwVUrITjRy5Oxr82B2fuKKPB9WmAEFTt1fQ3x3gONlJLmCQztkI+o0C5kbBqcb1AB/HX5zhErsuhWiTkbyqGDGMuDz3Um80Z9wY+BVFC3yzn8FESr7EEFMHVoR4RNUrGw94XpPnw/ZlMlU4qIOkoHOWLX+ouO4Xm1dysUTUC0Q7MUmKh6Zhrt7GlvWA5IvfzvyY3DzygDZHHuEAdKefaYHi9ZgCz90ouhWzfioqQ2kC3CJ9/jIs0RbXiMP2ppwqLUvJ3N2lQg6YUCoUFx93IlJQg3zs4/47Xxgikf1pgDTVgkrYxRu1SUbMWX1Ll+JXtnKkFrpckI+M/sCbqdS4DB7uxow1E04FEB7w==;R3u55k6FkAHzYOXvX2rKjQ=="
 ---

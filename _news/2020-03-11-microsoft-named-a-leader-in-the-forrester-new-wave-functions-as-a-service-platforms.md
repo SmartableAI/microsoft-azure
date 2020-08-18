@@ -5,9 +5,9 @@ excerpt: "We’re excited to share that Forrester has named Microsoft as a leade
 publishedDateTime: 2020-03-11T09:00:16Z
 webUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-forrester-new-wave-functions-as-a-service-platforms/"
 type: article
-quality: 77
-heat: 77
-published: true
+quality: 67
+heat: 67
+published: false
 
 provider:
   name: Microsoft
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Microsoft named a leader in The Forrester New Wave: Functions-as-a-Service Platforms"
 
-secured: "KBoHa2wU6SApQUp/e2vz6052P8iratmZT+MUasd0rV6kMY7c4wgWUaG1i3mISOuVHOUAugnYJKKNw8YuZPHArvPfU2ul9q46CV9AF2ajMDX8dT4DsdkYVj0CQ5fYB8INytD/hcDeVEr29SikrgyLohLoQeQJLKVaK8b1My4/vWLdf6rlPOwNPeOQhVE3X00lY/bNrOmieuA80y+5lD3JCJknnopIdOJ/EFmD+uQ8Tvt+q0FjaLUb/s/D2Bju5BPYBL17COX9fF5bKQteoaPvnhA7tKxMCWu1eMoNEOzwxZkPzom/Wrj93Zc4UZ+hHHfradpkmEWw6+CjsyU4hpZKnw==;5so6n9U+HZbDDEFEZ7Qx7Q=="
+secured: "hdppSNsikF/44OAFZBapJAqDKln4Fa0Op3K+iBzToyHied/dMrosknBYKB4gyxrUu635Cx8YACDVYMAiYMjFzf6yZsqxV+gzT9FGRFtsTsU85uSlEywYeCBf6Qrvojvo2sehVTYssFCV2WCPyjRR/w5OzWq/h+5ZCy5gS73wzfkYP5M1eKclgzAXApWLYvIwhYL1L8nLYFGV4iBaa/ibtt3vC8HgKZay0XRKjKnBG+ISR1ZYEh+JJOttnBkTZz9gd4O1I9RkPYtKphoBbozNPDBZ9eyWH/0sps6i/hQ4NuiB2ed0OBGUYZVc8Tv9LtwykkvF6EfLysTp3ODxl+8rg5wfUPcNLFdgYysFyrqAMt4=;wjHm78wEd3oV8Oa/fQ//xA=="
 ---
 

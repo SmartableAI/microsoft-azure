@@ -5,7 +5,7 @@ excerpt: "Starting with agent version ciprod05262020, Azure Monitor for containe
 publishedDateTime: 2020-06-04T18:00:27Z
 webUrl: "https://azure.microsoft.com/en-us/updates/ci-windows-logging/"
 type: article
-quality: 65
+quality: 5
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure App Service hybrid connections for Linux apps is now available"
     excerpt: "The hybrid connections feature of Azure App Service, which enables access to resources in disparate networks, is now available in public regions."
     publishedDateTime: 2020-06-11T16:00:15Z
@@ -38,25 +38,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
-  - title: "Azure Sphere OS update 20.06 is now available for compatibility testing"
-    excerpt: "The Azure Sphere OS quality update 20.06 is now available for evaluation via the retail evaluation feed. The release includes an OS update and an updated Linux SDK."
-    publishedDateTime: 2020-06-12T20:00:24Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-update-2006-is-now-available-for-compatibility-testing/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure Monitor for Containers support for Azure Arc is in preview"
-    excerpt: "Azure Monitor for Containers is now extending monitoring support for Kubernetes clusters hosted on Azure Arc. This support is currently in preview."
-    publishedDateTime: 2020-06-17T21:30:19Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azcoinarc/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Cosmos DB Java SDK 4.0 for Core (SQL) API release now in general availability"
     excerpt: ""
     publishedDateTime: 2020-06-10T16:00:14Z
@@ -65,7 +47,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 71
+    quality: 11
 
 secured: "jkl8XuD/2CAL0bdPjkiGB4z4JC0nVPBWs4C3bnOYjxf2AKKtDU7OOp1BYVpG7q4ygzc1HblHfmmMFhXxGITYkNKAfSUpXdaakDPDhyS8iqDu5bQgN8VBBj1iX35LS6TA5CEWZcANQ+Uyh0JOyXIVpBKE6v3REGYaBmsC1+6aKNqqYwjQFs5381YiL5ZzZ8Olan8EZLG2IWcq7RccmtJF8BxGSGCrhd0+nQK5PSt16y40aocW4lRQFo9YDttSjxtIy2bU97C2tGw/wxQmEAYtMO9MTNQ+Lh1sIg7KhtruzbYnHkJpm6o7F0febOh71JwJsfqq7yzALCvojD3XPhCIag==;VNUGUZi9MlG6IbDSaFGlEg=="
 ---

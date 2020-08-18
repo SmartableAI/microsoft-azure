@@ -5,9 +5,9 @@ excerpt: ""
 publishedDateTime: 2020-05-19T16:05:34Z
 webUrl: "https://azure.microsoft.com/en-us/updates/cloudassert-multicloud-management-solution-for-hub-now-available/"
 type: article
-quality: 62
-heat: 102
-published: true
+quality: 2
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -21,15 +21,6 @@ topics:
   - Azure
 
 related:
-  - title: "ManageIQ (formerly known as CloudForms) is now available in preview"
-    excerpt: ""
-    publishedDateTime: 2020-05-19T16:05:31Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/manageiq-formerly-known-as-cloudforms-is-now-available-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 62
   - title: "Cisco fortifies ACI for Amazon, Microsoft integration and multicloud management"
     excerpt: "Cisco has upgraded its core networking software to include better support for multicloud integration and management as well as tools to help telcos or hyperscalers tie together large scale data center networks."
     publishedDateTime: 2020-05-23T01:09:00Z

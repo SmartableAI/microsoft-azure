@@ -5,9 +5,9 @@ excerpt: "Providers, payors, pharmaceuticals, and life sciences companies are le
 publishedDateTime: 2020-03-06T08:00:23Z
 webUrl: "https://azure.microsoft.com/blog/reimagining-healthcare-with-azure-iot/"
 type: article
-quality: 114
-heat: 114
-published: true
+quality: 54
+heat: 54
+published: false
 
 provider:
   name: Microsoft

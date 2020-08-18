@@ -38,6 +38,22 @@ related:
         width: 628
         height: 246
         isCached: true
+  - title: "Microsoft Azure Synapse Link brings operational database services and analytics together in real-time"
+    excerpt: "To solve this issue, Microsoft is today announcing Azure Synapse Link which brings operational database services and analytics together in real-time with a single click. Using this, customers can get insights from their real-time transactional data stored in their operational databases with a single click,"
+    publishedDateTime: 2020-05-19T15:01:00Z
+    webUrl: "https://mspoweruser.com/microsoft-azure-synapse-link-database-analytics/"
+    ampWebUrl: "https://mspoweruser.com/microsoft-azure-synapse-link-database-analytics/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-azure-synapse-link-database-analytics/amp/"
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 42
+    images:
+      - url: "https://mspoweruser.com/wp-content/uploads/2019/11/Microsoft-Azure-Synapse-Analytics.jpg"
+        width: 1134
+        height: 737
+        isCached: true
   - title: "Microsoft Announces New Azure Regions in Europe to Accelerate Digital Transformation"
     excerpt: "And at the same provide a high level of security, data residency, and compliance. The new region will provide Polish businesses and organizations with Microsoft Azure, Microsoft 365, Dynamics 365, and Power Platform. A few days later on May 8 th, Microsoft announced a $1.5 billion five-year investment in Italy. The plan is dubbed Ambizione ..."
     publishedDateTime: 2020-05-15T13:13:00Z

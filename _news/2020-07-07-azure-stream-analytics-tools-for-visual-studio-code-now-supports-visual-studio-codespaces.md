@@ -5,8 +5,8 @@ excerpt: "Azure Stream Analytics tools for Visual Studio Code now supports Visua
 publishedDateTime: 2020-07-07T15:00:03Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-stream-analyitcs-tools-for-vscode-supports-visual-studio-codespaces/"
 type: article
-quality: 68
-heat: 68
+quality: 8
+heat: 8
 published: false
 
 provider:

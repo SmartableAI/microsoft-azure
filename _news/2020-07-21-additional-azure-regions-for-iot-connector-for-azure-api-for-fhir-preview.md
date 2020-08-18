@@ -5,7 +5,7 @@ excerpt: "Azure IoT Connector, a feature of Azure API for FHIR, is now available
 publishedDateTime: 2020-07-21T16:02:12Z
 webUrl: "https://azure.microsoft.com/en-us/updates/additional-azure-regions-for-iot-connector-for-azure-api-for-fhir-preview/"
 type: article
-quality: 75
+quality: 15
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 114
+    quality: 104
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e5a083c8-5be0-4b4a-8878-bf65fbf877f9.png"
         width: 735
@@ -43,7 +43,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 103
+    quality: 93
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8546d591-93c0-45ce-81a9-993caa2d22ea.png"
         width: 822
@@ -57,7 +57,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Monitor for SAP Solutions is now available in preview"
     excerpt: "Azure Monitor for SAP Solutions is a new Azure-native monitoring product for customers running SAP landscapes on Azure. It’s now available in public preview in US East, US East 2, US West 2, and West Eu regions."
     publishedDateTime: 2020-07-21T16:01:22Z
@@ -66,7 +66,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Monitor Logs connector is now generally available"
     excerpt: "Use Azure Logic Apps and Power Automate to create automated workflows using hundreds of actions for a variety of services. The Azure Monitor logs connector is now generally available—use it to build workflows that retrieve data from the Azure Monitor Logs workspace or Application Insights component."
     publishedDateTime: 2020-07-21T17:31:27Z
@@ -75,7 +75,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Java 11 for Azure Functions is now available in preview"
     excerpt: "Java 11 for Azure Functions is now available in preview on Consumption and Premium plans for Windows and Linux."
     publishedDateTime: 2020-07-21T16:02:46Z
@@ -84,7 +84,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Performance tiers for Azure Disk Storage are in limited preview"
     excerpt: "Azure Disk Storage now enables you to set performance tiers (in limited preview) for a specific duration of time based on workload demand."
     publishedDateTime: 2020-07-21T16:01:37Z
@@ -93,7 +93,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Private Link support for Azure Automation is now available in preview"
     excerpt: "You can now use Azure Private Link to securely connect virtual networks to Azure Automation using private endpoints (in preview)."
     publishedDateTime: 2020-07-09T23:00:06Z
@@ -102,7 +102,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 75
+    quality: 15
   - title: "OpenID Connect support for Azure App Service and Azure Functions (in preview)"
     excerpt: "A new capability (in preview) allows you to configure your Azure App Service and Azure Functions apps for login authentication through any OpenID Connect provider."
     publishedDateTime: 2020-07-21T16:02:33Z
@@ -111,7 +111,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 74
+    quality: 14
 
 secured: "/lbbGET+knt9bauE2TXC7kRdp+1u2xPE9PbejatcNLz4H1C/MM5e6Kd2rtK4foew5GjS18UD+vYVro7GQKn6ZVHjJ6GWM6p7deutJrDZMhKbE77aE9N32g1r5VlNhWWfVrfxkwU2KzPZD/XGr9o/LQgEsWKq+Wl6/EUXj2TFxzEyyIgK2bviRK1O878W2rbzW4Vclt5Of/H4z0WG6WyxN5v+dNixxOIkc+xiYp4Jdd4UlWNPOJXQgjjJcflNuVpPMmC6tZAuuTOYNg7mkLpxfY7pAfCoFo1Pul/jv0iReakRYqkndgjFdQOWcsHDTXwTSwCRe/NB1rnL2riS5VnFdw==;NT37OCdLkwgnAe6rqIJRDg=="
 ---

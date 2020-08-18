@@ -5,9 +5,9 @@ excerpt: "Confidential computing DCsv2-series virtual machines (VMs) are now ava
 publishedDateTime: 2020-08-14T03:11:14Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-confidential-computing-available-in-west-us2/"
 type: article
-quality: 77
-heat: -1
-published: false
+quality: 67
+heat: 147
+published: true
 
 provider:
   name: Microsoft
@@ -21,6 +21,15 @@ topics:
   - Azure
 
 related:
+  - title: "Azure Monitor for virtual machines is now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-15T16:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-for-virtual-machines-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
   - title: "Azure Virtual Machines DCsv2-series is now available in West Europe"
     excerpt: "Confidential computing DCsv2-series virtual machines (VMs) are now available in East US, Canada Central, UK South, and West Europe."
     publishedDateTime: 2020-06-22T16:00:41Z
@@ -29,26 +38,26 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
-  - title: "New Azure Virtual Machines for general purpose and memory intensive workloads now in preview"
-    excerpt: "The new D v4-series and E v4-series Azure Virtual Machines feature the Intel® Xeon® Platinum 8272CL custom processor, which can achieve up to 3.4 Ghz all core turbo frequency. The D v4-series and E v4-series virtual machines (VMs) don’t provide any temporary storage. The D v4-series and Ds v4-series"
-    publishedDateTime: 2020-06-15T15:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-virtual-machines-for-general-purpose-and-memory-intensive-workloads-now-in-preview/"
+    quality: 17
+  - title: "Selective disks backup for Azure Virtual Machine is in public preview"
+    excerpt: "Optimize your costs and enjoy faster backup and restore operations by selectively backing up a subset of the data disks in a VM."
+    publishedDateTime: 2020-08-06T18:00:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/selective-disks-backup-for-azure-virtual-machine-is-in-public-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 66
-  - title: "HBv2-Series VMs now available in Japan East"
-    excerpt: "HBv2-series VMs for HPC now available in the Japan East region."
-    publishedDateTime: 2020-06-15T23:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/hbv2series-vms-now-available-in-japan-east/"
+    quality: 17
+  - title: "New DCsv2-series virtual machines are now available"
+    excerpt: ""
+    publishedDateTime: 2020-04-27T19:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-dcsv2series-virtual-machines-are-now-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 62
+    quality: 2
 
-secured: "W2pW1hNgsfY31wYIoQnNM6GhsFJx3wpV7qrvftFW5DRpEljjKiOhQ/UujCaD0EQjDMShXzM6/R57BWKTJwT6hlEKJM1TRG+vPVP7qQ4WCkvwY2jbVd8ZMzKRTv0In/hIzpZlQ1/WyOy8rP/pr7hlegWqcW/oV3K3xmg8QI73qV+TikzAJTb4KdfUwhiwTduGA/9vQkQolWT8oT71F9FFecuGcidD33WLBK93YssgwFIRuGE0PEsqgs50XJpT1Q8jBa/zvQi0OT5UGme/RPgxwSMc+bX5hodw1dT6gcNM0At1N2Kbe6P2Ab0ezFe3lhiKRicnJt8EEjDQYkNW/D034A==;7iqUnCo56kJ7ayz+YJauYg=="
+secured: "N3POsgIyBb3SoqRVyno+mJYju5kkWV7N7C/21HYLgYqRHC8NLmefFjZAQkihoFFrc5EguidQMVakmzQLCFmFN09UmaxLcIYy82BYWTtG3JbdasQDW0+B8+LpRreshUTSzzl2xH/u3XdZIACEj16lEgX3C85wGlEFPGyVEWLb+t2YfDuguHauvxnzlb9btUAVap4A27DLIS5mx9LctIhh2k0X/yp9MZUsYBm/fWj3oeL9CwF9C7EqTbRY5sSB6Tt9/ZjR6b0wtxxp3NPn8kXK2WDhp4hSGmzp2d5Xz4bfAHhp/LL5ITcux1k5PHfKU2vUGhtkiRScYrZcpCmgmyE2+Qn8mU6qxxC/0o3VYa7wXPo=;hrVw/8NhPDLZfzbIW03cQA=="
 ---
 

@@ -5,8 +5,8 @@ excerpt: "Learn how Bosch Building Technologies, Bentley Systems, Schneider Elec
 publishedDateTime: 2020-07-09T08:00:10Z
 webUrl: "https://azure.microsoft.com/blog/making-buildings-smarter-with-azure-iot/"
 type: article
-quality: 114
-heat: 114
+quality: 104
+heat: 104
 published: true
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 671
     isCached: true
 
-secured: "9yrx2XOAj5dlnAplit5hM1GvCHZLpV/fmtWYvpW2LFWn2RwVZ9kM3HzTrXz5/B+t19O4NPEWiRV45T0msQolvlG6LJC2H8MfmY9v7dXZPpH0hTzivi81fBL4xZfL0UJMPChQkvjBdqNvsKkcyWIGnr2o74P5ZV7+p1HsM2FAR7vShxWhFxz/pamUe7ddfOUN/vuy7wavjao1KgRkaVUJfqiGPuhyrVqp+XQZ00uFxdzidnNMcnxl6YeHHoNIqSwikR++8sOCt7FDMSYjQzaanB9cgZTZuEdhTHf26QtPerIVgs339+nqdkPEMYjDk/7O6j+4MzO4Uo4TtG4EOOfmNw==;npA+c6kXYRca0TnFPUH1KA=="
+secured: "+fE83FXjKwGMbYkPdvljJfn5RjT1RM3ruExIljDxX36DGVuppjEbTJL8o2qkhxktQZXoQ+oh6C0X7FwGPfz2+hh3zoHHOEIK6+ITcESdPEQO5U1CkA04s78Xcuhn4VvL6Z1JTfvqZn0ZTa3Y2EB63g3LIAJuQxD5WPWsQ37J4uIWUnQWvDema5X4WffFbrAbDfjo3h1BOIoUMc2ch9uryjq/LvyxUA4tlNZWk6aWQ+3ldMr8s33XaHYODMgoNesiMRL0X/jPfHDHr+JIezEF0wd8dr+flLWNqULWjOTK4fRQQMoUKz8ORlYpEeliUghywtodSzEMNLKwllvtdsTWv4T8obCqnS+qpkVPInS3sKQ=;0+p6Qkkp0b7TBlzfpXa6xQ=="
 ---
 

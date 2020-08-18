@@ -5,8 +5,8 @@ excerpt: "Organizations around the world are gearing up for a future powered by 
 publishedDateTime: 2020-06-25T13:00:30Z
 webUrl: "https://azure.microsoft.com/blog/the-next-frontier-in-machine-learning-driving-responsible-practices/"
 type: article
-quality: 84
-heat: 84
+quality: 74
+heat: 74
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "The next frontier in machine learning: driving responsible practices"
 
-secured: "pxic3ptIfhDaXtcesa8jCCD4Pc71eMSFE4VD0RDWOiAEJBBnw5z2MDYdjC2YPQLCO3gg+ahwEnxXu91EMMCwDAG8YTNUL+WXQADWVoD5dyOATlwJzn/qEcFgRDv39iN5+FhnFP84d5cf/T65q0aO8WIX+vLzbI1kvrrMskoZHkadpqndTVfuEm0WQlAEqBqzBOLgeGR8JVC0/qc/WOa77jEX9sTV1n2uayBAtppVbXoPtKIS/suRgpeo19xe555WEq4E3g3xqF+JB+mmWL7VkYqYeX1h5hlLYPeSFSPID1SY29vsCK1Cu6+YdDTvIZG9XwANBk8f+qpfzQlOIxEWdw==;RDfrWAih6evF/TMnkrSUTQ=="
+secured: "Fctb9adnwW0EzBoj33JjMtCUOTD24G4xDzSRjc6Bsxmcpddx23QNmLd/kVRk8nF8oUAZmfqBn1HJP50d4vBpwgjq2NrhInrhfjK27flVtLuvkcgyQBq2RTfrbqvjKFUOTQ0f8eU+IukLL2tYLW5IeGWIAFTTMUUhLBXt8jUMhgBSBpomeObmeFgtJhQmavivZcp3ob7r2V2UqB864gWAQAGbWvdZ3FaxaFYGQGMO9HBVaim/T/SJ4/C3koxCKuAtV9SO/T/ztGOV2Op3BzilUL3e9BnouQJzUR/G0Rmxs+Kx2MesKblORJYJ5jMfa+9y/+7ojYUlMUx77RTKhhS6waGSCH5KMSxudnd9G5SiplQ=;dkyp+TyUNTi01O4Bmq8r1Q=="
 ---
 

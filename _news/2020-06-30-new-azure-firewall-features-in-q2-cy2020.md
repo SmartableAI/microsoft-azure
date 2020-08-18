@@ -5,8 +5,8 @@ excerpt: "We are pleased to announce several new Azure Firewall features that al
 publishedDateTime: 2020-06-30T08:00:33Z
 webUrl: "https://azure.microsoft.com/blog/new-azure-firewall-features-in-q2-cy2020/"
 type: article
-quality: 99
-heat: 139
+quality: 89
+heat: 149
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     title: "New Azure Firewall features in Q2 CY2020"
 
 related:
+  - title: "New Azure Firewall certification and features in Q1 CY2020"
+    excerpt: "This post was co-authored by Suren Jamiyanaa, Program Manager, Azure Networking\r\n\r\nWe continue to be amazed by the adoption, interest, positive feedback, and the breadth of use cases customers are finding for our service. Today, we are excited to share several new Azure Firewall capabilities based on"
+    publishedDateTime: 2020-02-18T11:00:15Z
+    webUrl: "https://azure.microsoft.com/blog/new-azure-firewall-certification-and-features-in-q1-cy2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/df728987-e4aa-4082-9467-cc35731bd2be.png"
+        width: 575
+        height: 746
+        isCached: true
   - title: "Azure Firewall July 2020 update"
     excerpt: "Custom DNS, DNS Proxy, and FQDN filtering in network rules are now in preview. IP Groups and IP Groups in Firewall policy are now generally available."
     publishedDateTime: 2020-06-30T16:00:33Z
@@ -37,7 +51,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Company branding feature is now available on your organization's Azure AD sign-in page"
     excerpt: "The enhanced company branding feature is now generally available on your organization’s Azure Active Directory (Azure AD) sign-in page."
     publishedDateTime: 2020-06-30T15:00:33Z
@@ -46,8 +60,8 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 69
+    quality: 9
 
-secured: "ZTDVumMirZBYP6+n36gOEgVP8t3xzK9V45VU/tsjnzqIdpIwGk/THsh28bzyKrmIjRNGZk2AubIAcMWk0HHe+YaLCs+Z0OrbZc7J5DhB301livWjNhb0qvi2hStPy7mdIPn1iQlyb0r6jih4xwu5Bj+nXHZPWSAPQZ0TlN9kzCE1AhGhMxpFvoyl0J60LlBD1UCaVEriYJyCG2jLTp8KcL8v9bw4gJnicg1v17/KCqIC1XMuOBCgzI+ApZcKl0IkPkfjuDFKl1T4z+SSNtkdr87UB89EIGRAsQ7SQQUCvuTOVbaI01WPXm/MAtS/ug3M/9MaECrO8016uVBrCMHc2g==;Rp/MwZH0+sKyQLpfFIZ+RQ=="
+secured: "rKmdfOvARstYaXHiXsVPGrk/Nbrqysp/lCqZ1zRuWT6+p3rhqQ2VtzjhLr9qbmANAiu6rknAiyj96w+5VUOTrQT0lV5dr/m20Tpn1LsQnJmf+0OUW3/ZiVh6+gRN2EP/vUJ/it7sSKa/ZMhUBicCHWtLRXkTP9N6dgO6YTZXHi2/Ad138DZmtWZY9YXQwPKs5QJ2sVBO58loewLZRxtHWgTpwacrixnNKEa/9T++xnZnXtqw/C+b8gNoPwMiPDA6o+GfYh9WL0EgfrGMyjo2p5QdUyzLyKk5w2q6iXSxFnR4WmnHFuF1mgreaioQfTwOtq5GpfE+PEwYojALLKqRxeJ26beUv5OQdkY2/e+c/NU=;K0X7naE6pK5wnS7CSlv1PA=="
 ---
 

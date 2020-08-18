@@ -5,7 +5,7 @@ excerpt: ""
 publishedDateTime: 2020-05-19T16:05:37Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-aks-resource-provider-on-azure-stack-preview/"
 type: article
-quality: 76
+quality: 16
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Private Link is now available for multiple new Azure services"
     excerpt: ""
     publishedDateTime: 2020-05-14T22:00:17Z
@@ -38,16 +38,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
-  - title: "Azure Sphere update 20.05 is now available for compatibility testing"
-    excerpt: ""
-    publishedDateTime: 2020-05-14T21:00:08Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-update-2005-is-now-available-for-compatibility-testing/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Storage—Routing preferences now available for preview"
     excerpt: ""
     publishedDateTime: 2020-05-19T17:00:16Z
@@ -56,7 +47,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "New Azure IoT Central features are now available"
     excerpt: ""
     publishedDateTime: 2020-05-19T16:05:41Z
@@ -65,16 +56,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
-  - title: "Azure Kubernetes Service (AKS) node image upgrade is now available "
-    excerpt: "The node image upgrade capability in Azure Kubernetes Service (AKS) is now generally available. It enables you to initiate an upgrade to agent nodes targeted for a specific node pool to pull the latest available node updates and patches without requiring a full cluster upgrade."
-    publishedDateTime: 2020-07-21T16:00:50Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-aks-node-image-upgrade-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
+    quality: 17
 
 secured: "kgzGOMfzGd5vMeU0F1/+05qF36xbc90gp4VasdKOuXMFZrnHG16p8aOJnti3QfLOqMgbBUHcHrae2Ux1XjQGuWaNrMc3QiUiV8AstdZah8kyOFWgEfsHcgWqfJOAS4Y79G6bEwRaxNpr1QjevKv6EWZp0ODZGZgePMN4Mp2SPWX0WzKLhfhvXMOKtTuj9R211C6h4Qt90TmvasdZWh6JgOPGOIVWWvzIW9SE/UC2PjeFKPKY5vETmkZSFi2pxSkZAfDhXCOJd3fUyL7Ory5Ryb7SV+iBHIQLE74kycpB0vx3BG8BRJpE4V46j85w6T1JDjrDUm494FV5yh4uwKTLSA==;7717OpqqmAt36Xl/pAbgyQ=="
 ---

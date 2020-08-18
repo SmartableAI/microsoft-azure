@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/16509774"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16509774"
 type: article
 quality: 57
-heat: 97
+heat: 77
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
     quality: 51
     images:
       - url: "https://www.abnewswire.com/uploads/b9311731db8bd72c3326b1c9fca19038.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Microsoft Azure AZ-900 Dumps and Real Practice Test [July 2020]"
-    excerpt: "Microsoft has updated the content of the Azure Fundamentals AZ-900 exam and you should prepare according to the latest changes. Candidates pass this exam to verify their basic Microsoft Azure ..."
-    publishedDateTime: 2020-07-27T01:17:00Z
-    webUrl: "https://www.wrcbtv.com/story/42327221/microsoft-azure-az-900-dumps-and-real-practice-test-july-2020"
-    type: article
-    provider:
-      name: WRCB
-      domain: wrcbtv.com
-    quality: 37
-    images:
-      - url: "https://ftpcontent.worldnow.com/professionalservices/clients/wrcb/WRCB_BrandImage.jpg"
         width: 600
         height: 338
         isCached: true

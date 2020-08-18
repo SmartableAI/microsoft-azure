@@ -5,8 +5,8 @@ excerpt: "We understand that with Azure’s over 200 services, advances in archi
 publishedDateTime: 2020-06-18T11:30:28Z
 webUrl: "https://azure.microsoft.com/blog/making-your-data-residency-choices-easier-with-azure/"
 type: article
-quality: 99
-heat: 119
+quality: 89
+heat: 109
 published: true
 
 provider:
@@ -37,13 +37,13 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 99
+    quality: 89
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/d99e9e63-e1cd-4699-a0a1-21f92b2a6e4c.png"
         width: 1030
         height: 796
         isCached: true
 
-secured: "twSPc4xjVB4/r6BiLP0OH6lm6qrRWO3kl4Lx3WNCEGJEmU4ciZStnENSB6/2pklRp0l1p8eFmhXIn8QI6l1NS/Q7/Zj5aP8StYIAApUitL4BJe4LtIGjAJJH9MXERZkU02FeL/ye37GkeFEhOKpvDo5opOBBQCpLb13jyWnKdPeBmH4+yhbi14R8paYIpEVVysOosxTlaRNBs5woEjhyTas4Kzxc/qHphMwIF2EacDABCZ5i0UE7/Dmzt9bFaNKpD4+OrhEob4NtA5ePPx3tOPZBRraXyKNpo7DLPU5QNpYkzXO5sgxOpRXeKCb0krZPEL5Cbe/0r5tNQ3NOBn7Iug==;pIDogeOrwtCmZ5LAexVcrA=="
+secured: "CIoM9uJxPt3FUn+ssqQiI7I4IjtsX4QoAqeSDfG7tp/Eivr1eMCwX7dMa/U0QN+dDfW/ayrXSoE2hxD2qAk1A+8v1w+etAid7DS/n46/8RDY4sqo/dKNMIFmEWdMVu4V3Oqo/rfOvbkh6yHSS/1+4pbL9Ni+pZmq8bR2qdnUPd7QKtZCERxX/Bm+M7P5vB4s3zTE619WHskQC0oyFWpN3E2/eoU9Wl/K4/wRveSD2AwadFec0JS5ZAGmJK09o+wCNZZaHxr3RXAYatE1FuN4N5oYPbFzJAd79VykzqrTFYBiC1I8FSWNwXTkL+NB9p5hodartuOgFtuZ5o/cZ2r+XLGClB6jsLnvyovc7kU3XlM=;Yok/iAX7HK2qVdZkQjSaqA=="
 ---
 

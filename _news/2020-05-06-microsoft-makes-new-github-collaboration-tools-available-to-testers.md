@@ -30,15 +30,6 @@ images:
     title: "Microsoft makes new GitHub collaboration tools available to testers"
 
 related:
-  - title: "Microsoft and Redis Labs collaborate to give developers new Azure Cache for Redis capabilities"
-    excerpt: "Now more than ever, enterprises must deliver their applications with speed and robustness that matches the high expectations of their customers. The ability to provide sub-millisecond response times, reliably support the demands of enterprises from small to large, and scale seamlessly to handle millions"
-    publishedDateTime: 2020-05-12T06:00:09Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-and-redis-labs-collaborate-to-give-developers-new-azure-cache-for-redis-capabilities/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 65
   - title: "Microsoft-owned GitHub just launched new features to help its over 50 million developers collaborate on, secure, and write code in the cloud"
     excerpt: "GitHub collaborated with the team from Microsoft Visual Studio Code, a popular open source code editor, to build one of its new features Codespaces."
     publishedDateTime: 2020-05-06T16:34:00Z
@@ -53,6 +44,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft and Redis Labs collaborate to give developers new Azure Cache for Redis capabilities"
+    excerpt: "Now more than ever, enterprises must deliver their applications with speed and robustness that matches the high expectations of their customers. The ability to provide sub-millisecond response times, reliably support the demands of enterprises from small to large, and scale seamlessly to handle millions"
+    publishedDateTime: 2020-05-12T06:00:09Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-and-redis-labs-collaborate-to-give-developers-new-azure-cache-for-redis-capabilities/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 5
   - title: "Avid Technology Shares Up 10% After Renewing Cloud Collaboration With Microsoft"
     excerpt: "Global News Select Avid Technology Shares Up 10% After Renewing Cloud Collaboration With Microsoft . . May 5, 2020 11:12 AM UTC"
     publishedDateTime: 2020-05-05T11:12:00Z

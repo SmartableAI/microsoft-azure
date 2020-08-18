@@ -5,7 +5,7 @@ excerpt: "This blog post was co-authored by Chad Raynor, Principal Program Manag
 publishedDateTime: 2020-04-20T09:00:23Z
 webUrl: "https://azure.microsoft.com/blog/azure-maps-updates-offer-new-features-and-expanded-availability/"
 type: article
-quality: 103
+quality: 93
 heat: -1
 published: false
 
@@ -39,13 +39,13 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 118
+    quality: 108
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/ea5e5a7d-10fe-4475-b6dc-c4499235fdcf.png"
         width: 979
         height: 602
         isCached: true
 
-secured: "mtaxEvwQ1VF/zpW7aMpUPJXVpq8hFHtKZinum895T/crPk84T/FLTS+l/R8/NS8mr2+Qtie7wCTL20BS6YzFWBYDcv8o2RVwYPQWarn90zRcqoads5Vx6fLtaP05CElHfK+RWDgKiEYznWvDfTAgmneO71JFI7IaP5X5/EgJyzSgRhuVWt5xAl0JdPZbqtvUWLZ2OI7A0LmjcfioKcUAlLBsd4yEAMURFsBSebrWY7wgPd6nECiLYYE6yTxb3FehTtsgixG3tWq2umj3nE2LX6/bmI2MSHNL58eG+8Nu1G4DMCKJJEibz+Q2OG5i90lv59lgKWJGmhefdAJRenNQcQ==;j4cdHIW/+DASCPl6SPmFVQ=="
+secured: "u0jVek5kB8w1OYZlp007eDn75ckF83EzW1nn9eV2CbIndMauXkhDeiNFKpHUpHEw/C499x/LecF/vEx16vlagInen5N1d++Pda1zBlsiGN55aK3QGEuqYshgXHCuuDnN8a4CQ8YwCDKV3R0T3HplDx8TF1qjj/lFToFgCgGmp5Uyt0qs5IIA5ERPVDKUsqb1szm8fBou/NUkici7JFefY4LZ3bU5v9UPK1T3UafCCeDLUDRW4Gm/RwzU6NlHRVtxz73fJL0gdhvGHgIYmFVr+YiQwTzxkaAaJ6tPiBGziUqdWpYAPVkv/Eag4G7+KhLgm1xd8Og/xzIYos7rT2ALmLjf13UJRWGJtwa4G+1oZ2I=;pdoih7HSSJp+18ZOaK0Ung=="
 ---
 

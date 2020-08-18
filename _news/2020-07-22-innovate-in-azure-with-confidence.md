@@ -5,8 +5,8 @@ excerpt: "Customers today are innovating in Azure more than ever before for thei
 publishedDateTime: 2020-07-22T08:05:11Z
 webUrl: "https://azure.microsoft.com/blog/innovate-in-azure-with-confidence/"
 type: article
-quality: 77
-heat: 97
+quality: 67
+heat: 87
 published: true
 
 provider:
@@ -29,8 +29,8 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 64
+    quality: 54
 
-secured: "J0pJxmNqyJSKeJXLKd5aM3P5Zw/5uHYZo8tpoYcvr8Y/S0S83AhElU8xIPfh9hpMoZ7Uws1q4jks07HqtVKKgJphFKMecqQ22fiHeQiCSSCdG2AFe5PLPPDsyEjaYiRbrBhujNFdqFZZHGXX/lXaQAP2IP8r8eiqL5q04dAplocIqKjYG6UUdCFDLzZU16NxfzBR6mCk5NqqeavrqQPGGE+fgZyoIw9Ibm1zOQcS6cMdnDeFdcu4SARopNvu5Xj60omskCxSR4mW9twONEoB7BFB4wu8OoPTWmH+vkXpKK4blvVR8ONihI+sEtArqkskvNlrgpIJHskzn3xALLt6ug==;93/DQsJa2j/2ZudEl2gDig=="
+secured: "WYsc+sCJRGXHMDM8eRERF5Nerjl4PJ/lFsodGnG6Kzk+4+qsTkKyRxtCSLZwE6S4gbzz9rvluvNBLR4oUs0cDCie89FZgbr7UyAjcUcSJxhEW/4249qXO1FAnqcWXLHaWhrjMR1vVd3PqwoRlVw+PrQp9uxpqrAbpyi2FLH2l5Xq1QM49DcGCseFL3afQvVOrlhJQguqfU/muyMiSqTtGeX6ZxpjVBLVNbQrEU9gzzGXprEd8oISCFEGhONZT4eBJJ0Epq5pDu+o+M9xYnaQ3sDnbz27LLISgDh7pa4u/8hI1BcV+BpWrZmTF6KHDMiiBMxslTC4Z9gR8amNYkmcG2U5CAKxkbUeSYKhy3w66eg=;pDizx+7b8tGxcGelRHpZiA=="
 ---
 

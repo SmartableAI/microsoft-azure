@@ -5,7 +5,7 @@ excerpt: ""
 publishedDateTime: 2020-05-04T18:00:05Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-for-azure-database-for-postgresql-now-in-azure-government-regions/"
 type: article
-quality: 70
+quality: 10
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 75
+    quality: 15
   - title: "Private Link for Azure Database for MariaDB now in two US government regions"
     excerpt: ""
     publishedDateTime: 2020-05-04T18:00:26Z
@@ -38,7 +38,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 74
+    quality: 14
 
 secured: "5m8DEwiQsT8ojVj+KgYHSeJm9geyDyqj2o5ySMvuw2cvJ1vGS9xTeroomVKPI6xiBg3tGIO8tPnBcPCvRpECj1AUiHj6Pds/QelKGk40ENfWinyHPzw6cKU1VMxRpXrf5GghgAWlI1/GAbMlKEZ0qKTcw1a5LMrmCH5GHrYaULR/1ktaHIMxEDQRdtw3I5r2I9vPO/BA1y8x9gA0E2eFD2Oa9LqFITjbIZvR5OYSJ89PO6PaFm1giYY/kysJw7aScCs4oEVcMFCYGRKVol5Xpsaf+C7EmweSQtikGgeIobUA3xC+Z7xvxrRgJhTd9J4VPxxxXY1PUSe/I1fCvO0DqA==;HGqSNnO91Y2zc9GEBChIuA=="
 ---

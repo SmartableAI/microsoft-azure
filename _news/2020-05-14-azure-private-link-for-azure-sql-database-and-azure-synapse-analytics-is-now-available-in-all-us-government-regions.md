@@ -5,7 +5,7 @@ excerpt: ""
 publishedDateTime: 2020-05-14T12:00:02Z
 webUrl: "https://azure.microsoft.com/en-us/updates/private-link-sqldb-usgov/"
 type: article
-quality: 55
+quality: 0
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Private endpoints for Azure Storage are now generally available in the Azure Government region"
     excerpt: ""
     publishedDateTime: 2020-05-14T16:00:17Z
@@ -38,7 +38,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 65
+    quality: 5
 
 secured: "UBkwd9OTN8tNeOWWJhDdshiNGkhqnzEQlG14FEj3zrCjMcOVUGijxqYjfZKteP6BPmsQKkQ0YUAzgS93OhblnI3wTWATmGMi41mtL2q5h/ewXrGjgSRSs+Y1eYoyantfx0I+wXPbaPo4q2ZMMkmNKhG9KjfQsvU4LeCLXAHQG37h7JZlgnpsyzcsVhYyyQRE+k7PVeBYIhre7zu4ckZ3ln4vIB5Xu9/yeuhJqmxfp9qjUt+8Rb4Bqzedm4xCfOu6wbN1gZewIRsgQFc0hA1jLGyzvzPr5HwS0URQSqCugUE43dC4Ube8KKRfslloGG/3+rsoT+iLgZOn887l66a5Kw==;ZTZkDAt4ls62ldc38banxQ=="
 ---

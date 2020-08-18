@@ -5,7 +5,7 @@ excerpt: ""
 publishedDateTime: 2020-05-14T21:00:08Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-update-2005-is-now-available-for-compatibility-testing/"
 type: article
-quality: 77
+quality: 17
 heat: -1
 published: false
 
@@ -21,60 +21,60 @@ topics:
   - Azure
 
 related:
-  - title: "Optional Uptime SLA now available for Azure Kubernetes Services (AKS)"
+  - title: "Azure Sphere OS update 20.08 is now available for compatibility testing"
+    excerpt: "The Azure Sphere 20.08 OS quality update is now available for evaluation via the Retail Eval feed. "
+    publishedDateTime: 2020-08-13T22:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-update-2008-is-now-available-for-compatibility-testing/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Sphere update 20.04 is now available"
     excerpt: ""
-    publishedDateTime: 2020-05-13T16:00:42Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/optional-uptime-sla-now-available-for-azure-kubernetes-services-aks/"
+    publishedDateTime: 2020-05-05T17:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-update-2004-is-now-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
-  - title: "Azure Private Link is now available for multiple new Azure services"
-    excerpt: ""
-    publishedDateTime: 2020-05-14T22:00:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-is-now-available-for-multiple-new-azure-services/"
+    quality: 17
+  - title: "Azure Sphere OS update 20.06 is now available for compatibility testing"
+    excerpt: "The Azure Sphere OS quality update 20.06 is now available for evaluation via the retail evaluation feed. The release includes an OS update and an updated Linux SDK."
+    publishedDateTime: 2020-06-12T20:00:24Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-update-2006-is-now-available-for-compatibility-testing/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
-  - title: "Azure Storage—Routing preferences now available for preview"
-    excerpt: ""
-    publishedDateTime: 2020-05-19T17:00:16Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/routing-preferences-azure-storage-preview/"
+    quality: 17
+  - title: "Azure Sphere OS quality update 20.06 is now available "
+    excerpt: "The Azure Sphere OS quality update 20.06 is now available in the retail feed. "
+    publishedDateTime: 2020-06-26T19:00:42Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-quality-update-2006-is-now-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
-  - title: "New Azure IoT Central features are now available"
-    excerpt: ""
-    publishedDateTime: 2020-05-19T16:05:41Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-iot-central-features-are-now-available/"
+    quality: 17
+  - title: "Azure Sphere OS update 20.07 is available for compatibility testing"
+    excerpt: "The Azure Sphere OS update 20.07 is now available for evaluation via the retail evaluation feed. "
+    publishedDateTime: 2020-07-15T23:00:32Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-update-2007-is-available-for-compatibility-testing/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
-  - title: "Azure Kubernetes Service (AKS) node image upgrade is now available "
-    excerpt: "The node image upgrade capability in Azure Kubernetes Service (AKS) is now generally available. It enables you to initiate an upgrade to agent nodes targeted for a specific node pool to pull the latest available node updates and patches without requiring a full cluster upgrade."
-    publishedDateTime: 2020-07-21T16:00:50Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-aks-node-image-upgrade-is-now-available/"
+    quality: 17
+  - title: "Azure Sphere update 20.07 is now available"
+    excerpt: "The 20.07 feature release contains new features for application development and tenant certificate renewal, additional promotions of beta features to long-term stable (LTS), and enhancements to improve stability and troubleshooting of device connections on Windows platforms."
+    publishedDateTime: 2020-07-29T23:00:32Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-update-2007-is-now-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
-  - title: "Azure Kubernetes Service (AKS) resource provider on Azure Stack preview "
-    excerpt: ""
-    publishedDateTime: 2020-05-19T16:05:37Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-aks-resource-provider-on-azure-stack-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 76
+    quality: 17
 
 secured: "84jfu4cKpszNaevO7VfAnmEtE4J9CnLBfMmH9LQSfgUqACoWITlVHlzK9d0BSIS61EJ/rX+Fjv/49C77mTHgosju2yCK+iSu9lFyL1DvvweccPKdu8qbNehVTFTUfFj7/U4/dpE2LschuB0r52VLcMLZTmgmTvpORKHLNwD3zm8X2RS8ik+akLoFga9Ljp64tzmwCQBXv44dLCgnGyLA170IXGwDR74QcspeGXa59aHfvD/d6nrOg8pt41xlpFnZnNrYjFis16icgsC+IRb/m5hVZpypJuNiCQuJUQ/phi58Qc9o0U+rMfMIy19n+PWJUQeeDjQxCXUJfkTBcqDUMQ==;RnsXq3htqpCD9vKiOxjqyA=="
 ---

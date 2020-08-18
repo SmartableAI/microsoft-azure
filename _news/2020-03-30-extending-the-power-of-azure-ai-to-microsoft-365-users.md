@@ -5,7 +5,7 @@ excerpt: "Today, Yusuf Mehdi, Corporate Vice President of Modern Life and Device
 publishedDateTime: 2020-03-30T08:30:32Z
 webUrl: "https://azure.microsoft.com/blog/extending-the-power-of-azure-ai-to-microsoft-365-users/"
 type: article
-quality: 99
+quality: 89
 heat: -1
 published: false
 
@@ -37,7 +37,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 101
+    quality: 91
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/1f6343e9-ac74-4c7b-8f27-8784133e6897.png"
         width: 377
@@ -64,6 +64,6 @@ related:
         height: 1708
         isCached: true
 
-secured: "MAs6Rtnxuh75TXx58c7tOc9BXK+5TBokgBRdjZDzl9jsUPYzUH2iS1g03EI/JPgaGHRiVSOCgZLor25l1N64oXB1V4tHhu3OK7fwOl4TDZfcDvsgPPtFlyyElGWnjUYgN8N+jpelBLjYSNr3aUnNTuixrvXDqyRqCI6n/HJGYzcyX1hA/Fck9tH3g/x1l5tnjcYSPLDDd8bK1K99evED+oNwDEg6Hv5EB5jm1IGhMYTcYtwOcGJNYIwBaGttvWORzq4Xxi9OIfg3lhxlyofNzEhLSzS+3OKDA0S6lXI5eEzglvkLkf6Wx/pAqXjcMeZ7inEYp6uapzCYT3duxAnUXA==;UP6E+INM2kUQYt6fg7ZgPg=="
+secured: "XCe9U0xem7Mi9xMcRpxvt/iDlV3n3apjS6PQzCoLK0DrCysykZOCJzdtM4AVWtM/P2aIhTUXHcbhikguYDpoX7TrIud6zUHm7C5IFuf5ni/UyPDWu+wgmUJ3dDjesI/VQHpqMttkTVUwimCKB2HCn3FqphHfIGaXrkWrojl/5Lnz5eHahiBxsXqjVGrm48jjLAUDWNifdxxn+x2oD+56sZknE6DQUw50eU2Qlj4Sm9/SXtqkji60pbIufDMkR2BnL7RcUozNIjhqCo0nZXnQdliWoG7DNTqfYENEVFyhhuhWwTVmXHs8DccO6JdgkSEIesP/wseG9tW/sqCg/xZZGAAaSRt/pChp6cwOtI0SsHw=;ajPEvXrPq8fs4hdxqYtqVg=="
 ---
 

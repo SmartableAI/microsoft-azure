@@ -5,7 +5,7 @@ excerpt: "Virtual machine scale sets now provide the ability to automatically de
 publishedDateTime: 2020-07-01T15:00:02Z
 webUrl: "https://azure.microsoft.com/en-us/updates/automatic-image-upgrade-for-custom-images-now-available-for-azure-vmss/"
 type: article
-quality: 56
+quality: 0
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 62
+    quality: 2
   - title: "Automatic instance repairs for virtual machine scale sets now available"
     excerpt: ""
     publishedDateTime: 2020-04-17T15:00:33Z
@@ -38,7 +38,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 62
+    quality: 2
   - title: "Replace existing disks is now supported for virtual machines with custom images"
     excerpt: ""
     publishedDateTime: 2020-04-13T19:00:06Z
@@ -47,7 +47,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 58
+    quality: 0
 
 secured: "9cTJTbIr8o1wuLSMh7BWnWgtT4AXInJCA4sFIy9tmEea8wArALbE4m7nlS85MFCBJ8ei7Xf1JBMuxYB/SZNgnEr3LzngsncwnPDe1npxDPdUz4PZ4oCd8fQu3TyjPbPXK0lP70X4VlNZBSkI9bZwaJoYP0B046yKAoEGcATYzLDHqcWFhQK2u5LUn9soc2Dof9Ocf30AssEOPqKEF09/P5nv7Q4a3+AcumOOC4c0LErN2ApHJwjXPR9zDh8VAzaGNStl84GudhnNF5Sye4Vu9Fp4vNqZvMxsbsAeAmieMRSJfj2Zbmge5QayzOPgmnTdIRiEHZhLkCvRnVH8DqpB8w==;y61J1Fjl2vxjVwiAJ3xyYA=="
 ---

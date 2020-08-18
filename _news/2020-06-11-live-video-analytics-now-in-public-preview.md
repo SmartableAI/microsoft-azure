@@ -5,7 +5,7 @@ excerpt: "Live Video Analytics is a platform to capture, record, and analyze liv
 publishedDateTime: 2020-06-11T20:00:11Z
 webUrl: "https://azure.microsoft.com/en-us/updates/live-video-analytics-now-in-public-preview/"
 type: article
-quality: 62
+quality: 2
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 98
+    quality: 88
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7ca46f3e-646d-4280-8e23-ff4336ba416d.png"
         width: 642
@@ -43,7 +43,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 71
+    quality: 11
 
 secured: "HsYs0eW0bfFcOucYG/8ubOg6AHFiczH9zx2AVygQ0kYR0dhkuDRteCQ9ZNGPI0SQZ3+q9Z9PstO9aCWC3aKy3++5iwYjUJ9bgkdQ30B98P51Hv0E2LHBq1cbN8B7yI8WjkSbaIHjC/22RIcCUsL8dvNI4Suay2m9HjJHaCfEcjjMXbSEqgi/0kucnpTXCFC2JhB6qTLkiGElq21LrSDOQTnCzQnfY2FLsefBL+gayQ5UPFxpfIaX3ASxAFbIp+4xAe+9xryN/gNuDc7BVU+iJLGKLvFkZMmt/oHVTBcp1lTGp+LiY/qIsn3U9ZO7ayDwre5DxmWh4zA0/h+ZDcp+lg==;5PDnYG9aWWcEqfYZjj0nNg=="
 ---

@@ -5,8 +5,8 @@ excerpt: ""
 publishedDateTime: 2020-05-19T16:05:38Z
 webUrl: "https://azure.microsoft.com/en-us/updates/static-web-apps-single-page-hosting-option-available-in-app-service-now-in-preview/"
 type: article
-quality: 56
-heat: 56
+quality: 0
+heat: 0
 published: false
 
 provider:

@@ -5,7 +5,7 @@ excerpt: "Azure Application Gateway ingress controller (AGIC), a managed, scalab
 publishedDateTime: 2020-06-10T16:00:23Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-integrated-application-gateway-feature-now-available/"
 type: article
-quality: 74
+quality: 14
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 99
+    quality: 39
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c1d791d2-98c0-44fa-a2df-44cfabf7f250.png"
         width: 748

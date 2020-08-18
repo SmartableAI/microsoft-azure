@@ -5,9 +5,9 @@ excerpt: "Now in general availability, we are announcing Azure CLI support for a
 publishedDateTime: 2020-08-05T16:00:03Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-azure-cli-support-for-autoscale/"
 type: article
-quality: 77
-heat: 77
-published: true
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Microsoft

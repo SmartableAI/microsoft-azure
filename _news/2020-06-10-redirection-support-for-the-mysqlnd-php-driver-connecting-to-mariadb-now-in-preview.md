@@ -5,8 +5,8 @@ excerpt: ""
 publishedDateTime: 2020-06-10T16:00:16Z
 webUrl: "https://azure.microsoft.com/en-us/updates/redirection-support-for-the-mysqlnd-php-driver-connecting-to-mariadb-now-in-preview/"
 type: article
-quality: 56
-heat: 56
+quality: 0
+heat: 0
 published: false
 
 provider:

@@ -5,8 +5,8 @@ excerpt: "The global health pandemic has impacted every organization on the plan
 publishedDateTime: 2020-04-08T13:00:01Z
 webUrl: "https://azure.microsoft.com/blog/solutions-and-guidance-to-help-content-producers-and-creators-work-remotely/"
 type: article
-quality: 60
-heat: 60
+quality: 0
+heat: 0
 published: false
 
 provider:

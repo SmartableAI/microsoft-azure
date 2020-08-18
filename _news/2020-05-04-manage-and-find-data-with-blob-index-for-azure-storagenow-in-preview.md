@@ -5,8 +5,8 @@ excerpt: " \r\n\r\nBlob Index—a managed secondary index, allowing you to stor
 publishedDateTime: 2020-05-04T10:00:03Z
 webUrl: "https://azure.microsoft.com/blog/manage-and-find-data-with-blob-index-for-azure-storage-now-in-preview/"
 type: article
-quality: 116
-heat: 216
+quality: 106
+heat: 206
 published: true
 
 provider:
@@ -38,7 +38,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 96
+    quality: 86
   - title: "Query Acceleration for Azure Data Lake Storage now in preview"
     excerpt: ""
     publishedDateTime: 2020-04-29T16:00:06Z
@@ -47,7 +47,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "New Azure VMware Solution is now in preview"
     excerpt: ""
     publishedDateTime: 2020-05-04T18:00:35Z
@@ -56,7 +56,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Blob storage—Blob Index now available in preview"
     excerpt: ""
     publishedDateTime: 2020-05-07T01:00:17Z
@@ -65,7 +65,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Premium tier for Azure Data Lake Storage now in public preview"
     excerpt: ""
     publishedDateTime: 2020-05-11T18:00:02Z
@@ -74,8 +74,8 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
 
-secured: "6v02+g4U2bsAUUYaJKx9t4VngAtUJS6WgXNsX6EzK4Qgg6+I5ely5WX13p7jUz+H/JR0y7D0cAUQufMVC6tBlsgS/7imS7drm89BS13A1NezQJmNPC6+UlcV3Saikt/0Baw74VChon+tP95Re/rGj9L26H7623W5tQ89wQR8kxoZTsTjJzUo9npx/N+K8NJ6SUHgF/EHNT4xSdeRJ5CHB1MxCNE2DO3Bo7mVK9srwiunFnPkoB7/obLyT3UBOtZ799CkACzyvj/qLp/B2/ucxXVvnUYGEwFRWffkqo3Jx5UP2mdcOxUfD2muMIadzK8x0aYVZedL6jQTYm7K6zvv8Q==;EJ8uP9D5VmOv9/aiqZDE8w=="
+secured: "VJsoMTYWF2POJ+1L1gWah5kRTLBxN4zKoJBiRkrdz+6cQz00uLP7SmwFHABVTOoDEw603NXmYl0BnMoreSXsb3O1WhNn9VeICWGOlTBw2xyMc9nvSxPyvL3y6p/lcrvTMoa5XMTelQygTZZwSi6677qBr5mic8dDkaVbB+5kUTX4oQhQSotxe3WLjNX3EgDYWHiFidDvSkcdcPjQ9pqPLyYXlS/Mw+qT0O3LlN1eN2IGq54+ys5/jhAm+Hp0q+5i8Ju9R5VWSj6prHJ2uedPUVDEaOD9F6DzLUQxbBecRFvoNbxEJvNAYArnTBdzUKa4PvqCNBg03zBbtGNO25luAtlvAQy5DUKihwp0SqzBaqo=;sI9UiclT75jNjy2wZIb9lA=="
 ---
 

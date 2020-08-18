@@ -5,8 +5,8 @@ excerpt: "Microsoft 365 applications are so commonplace that it’s easy to over
 publishedDateTime: 2020-03-23T09:00:07Z
 webUrl: "https://azure.microsoft.com/blog/how-azure-machine-learning-service-powers-suggested-replies-in-outlook/"
 type: article
-quality: 114
-heat: 134
+quality: 104
+heat: 124
 published: true
 
 provider:
@@ -37,13 +37,13 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 114
+    quality: 104
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7c8dd258-92ed-4919-8642-bec180798130.png"
         width: 1463
         height: 746
         isCached: true
 
-secured: "sCKY4d4T1dKgzRb56hZBERPuUixNcaZlyVVTBFtuc3oP8/bwR+Eqb3h06ZRAktfm/DnRP8QzqAHl0HdLm9pwat5JFbnck78NqxuiSI89s0c9LrKx53ARlnMTx+lkdKptWcFkcyvYfb4IMrw8HZlj6oxBcsFemkoJUbLnrDBzljWPuSwGRlU3OxubWPk/TSQvY8BB0UGGRt0vO3JsfwQYTAeIym/h6Dato3KCTyDEyjrtwebDC1Qtp8vwpk/UvWOEkDQMUpXgWatNGtzgNDCL0HkR20CcWPMFgSNYULLmWA0azcEWRLz0ejkGgsgQqlggRXMM0pyNg2sV9HlkwAhCGw==;9Um6qwI9ByaTZoNCJWF4ww=="
+secured: "tQUK2c+eyJg1eJ3fXCknsdXbsXRmxTTBzjwZymw+h3Q7ii7wSuO3Aaq3lXE/IlRRhB1Z43frd9YvILU+VGPx1aMKFnmBK9JD5JpjNZYG99L6iY0ONpQPAZz8fMzlguJdfUNS/bZ7mJtYvhnpWbXgUlJqBYn76AQW8othbni8iQB8lu2N7FiTwhQNFOTMAhivxb6rZixyflTu3cJbbWs7ZHHGg6y6/jyM44TFEK+2TeOkOokKsRGLINc7c57VpxUNIAIurPwDNqZitmFdCJRDfKQsCkKEfGQ+oxEM8L9MJZl1ADSwB8SAkVD0ah6330wizngiqvZPO6U1cvB5WAhQKxUGPF5wcZJK11p1QgXND+M=;8RvJCgrqIkLH/kikMZq6NA=="
 ---
 

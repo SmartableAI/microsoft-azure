@@ -5,9 +5,9 @@ excerpt: "How businesses respond in times of uncertainty is as varied as the bus
 publishedDateTime: 2020-05-27T10:00:02Z
 webUrl: "https://azure.microsoft.com/blog/the-azure-sql-family-innovation-and-value-in-the-cloud/"
 type: article
-quality: 97
-heat: 97
-published: true
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Microsoft

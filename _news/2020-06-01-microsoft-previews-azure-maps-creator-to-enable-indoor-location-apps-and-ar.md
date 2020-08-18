@@ -32,7 +32,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 103
+    quality: 93
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a6153b4c-6ec4-4b09-b1e7-dd8f2be265dd.png"
         width: 780
@@ -46,7 +46,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 97
+    quality: 37
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/bc9fd2f5-bd17-4f4e-b1b5-c02c035f249b.gif"
         width: 1730
@@ -60,7 +60,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 97
+    quality: 37
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/480ae3b3-08b3-4078-b20f-83bb10f1d10c.gif"
         width: 2554
@@ -74,7 +74,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 97
+    quality: 37
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/ccedbcf5-8321-460c-a9a3-b0730caa96fe.jpg"
         width: 347
@@ -88,7 +88,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 97
+    quality: 37
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/55f9101b-07a0-4e94-b8aa-802abda1d4df.png"
         width: 640
@@ -102,7 +102,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure DevTest Labs environments are now available in Azure Government"
     excerpt: ""
     publishedDateTime: 2020-05-27T16:00:03Z
@@ -111,7 +111,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure DevTest Labs is now available in Switzerland regions"
     excerpt: ""
     publishedDateTime: 2020-05-27T16:00:01Z
@@ -120,7 +120,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Service Health—Emerging issues now available "
     excerpt: ""
     publishedDateTime: 2020-05-27T16:00:06Z
@@ -129,7 +129,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Ultra Disk Storage is now available in more regions"
     excerpt: ""
     publishedDateTime: 2020-05-27T16:00:05Z
@@ -138,7 +138,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Text Analytics—Opinion mining is now available in preview"
     excerpt: ""
     publishedDateTime: 2020-05-30T16:00:19Z
@@ -147,7 +147,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Database for MariaDB  is now available in the France South region"
     excerpt: ""
     publishedDateTime: 2020-06-01T16:00:11Z
@@ -156,7 +156,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Database for MySQL is now available in France South"
     excerpt: ""
     publishedDateTime: 2020-06-01T16:00:11Z
@@ -165,7 +165,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "The Azure Sphere OS 20.05 quality release is now available"
     excerpt: ""
     publishedDateTime: 2020-06-01T17:00:10Z
@@ -174,7 +174,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Shared Image Gallery feature improvements are now available"
     excerpt: ""
     publishedDateTime: 2020-06-02T01:00:15Z
@@ -183,7 +183,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Shared Image Gallery—New features are now available in preview"
     excerpt: ""
     publishedDateTime: 2020-06-02T01:00:16Z
@@ -192,7 +192,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Machine Learning on Azure SQL Managed Instance limited preview available"
     excerpt: ""
     publishedDateTime: 2020-05-27T16:00:07Z
@@ -201,7 +201,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 76
+    quality: 16
   - title: "Minimal TLS version setting is now available for Azure Database for MySQL"
     excerpt: ""
     publishedDateTime: 2020-06-04T17:00:27Z
@@ -210,7 +210,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 76
+    quality: 16
   - title: "Minimal TLS version setting is now available for Azure Database for MariaDB"
     excerpt: ""
     publishedDateTime: 2020-06-04T17:00:49Z
@@ -219,7 +219,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 75
+    quality: 15
   - title: "Azure Database for PostgreSQL—Single Server now available in the France South region"
     excerpt: ""
     publishedDateTime: 2020-05-27T16:00:09Z
@@ -228,7 +228,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 70
+    quality: 10
   - title: "HBv2-Series VMs now available in West US 2"
     excerpt: ""
     publishedDateTime: 2020-06-03T17:00:13Z
@@ -237,7 +237,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 62
+    quality: 2
   - title: "Windows Virtual Desktop media optimization for Microsoft Teams is now available in preview"
     excerpt: ""
     publishedDateTime: 2020-05-29T21:00:33Z
@@ -246,30 +246,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 52
-  - title: "ScientiaMobile’s WURFL Microservice Now Available in the Microsoft Azure Marketplace"
-    excerpt: "ScientiaMobile, today announced the availability of WURFL Microservice in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. Developers can now take advantage of the productive and trusted Azure cloud platform,"
-    publishedDateTime: 2020-06-01T12:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/scientiamobile-s-wurfl-microservice-now-available-in-the-microsoft-azure-marketplace-1029268289"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
-  - title: "SepioPrime Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Sepio Systems, the leader in Rogue Device Mitigation (RDM), today announced the availability of SepioPrime in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2020-05-29T13:00:00Z
-    webUrl: "https://apnews.com/PR Newswire/f5b85ffe40d0191068bb0e60ed78df05"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+    quality: 0
 
 secured: "ZsECpjBXZNt92Wi+REO8hKPNhyKYs06QaN25JhIZYN3g9fsAII33uaZXwaeZlievC0REy9dHoOq19Hkl8mHpkHX64jMPKiGMQdNW+GSeogkS3nCjq5XoyPfVTybYxRH/FFpjU1rfpjE+6SuZTZfa8SGQ6rbMKO6N2x2qlIA0AGCJvMhGB92JUjeqwcrwzmf17be7sxhQzVyF2s2pd7yuobZPgGeOqdSGd4qwUUXHLBNfuk0KpoCMVP4ds/C+3OnwUEDfGhv0LC4nkXIHkZyd7KOwjG961sxcmTEqreZvpqH8WCdE+fMsSM9JQ1fODQSdxnIX843cqh1DCHF9LyLzuFVSVe9erhI5Ah+4OTsb/CfopekOANPWMx4YecAioTV1+zD1IeBnoJiRVtWmQiBqZXey1O8pz6baUF2I/oVHdGn4yfDttHmy8VRBf2QGEl+oxhF7EWVTa5cROL8ApXt7wiEk0qKjhTbfhSMh8h7bF78=;725brw88l1EMbI6Iq1RpTQ=="
 ---

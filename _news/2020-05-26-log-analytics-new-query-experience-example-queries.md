@@ -5,9 +5,9 @@ excerpt: ""
 publishedDateTime: 2020-05-26T20:00:06Z
 webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-new-query-experience-example-queries/"
 type: article
-quality: 82
-heat: 82
-published: true
+quality: 22
+heat: 22
+published: false
 
 provider:
   name: Microsoft

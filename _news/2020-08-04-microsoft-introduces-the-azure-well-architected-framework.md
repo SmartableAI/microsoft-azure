@@ -31,7 +31,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 97
+    quality: 87
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/79af1977-3f85-46dd-8ebf-d516d15585eb.png"
         width: 858
@@ -48,20 +48,6 @@ related:
       name: mynewsdesk.com
       domain: mynewsdesk.com
     quality: 37
-  - title: "Microsoft Azure Stack HCI"
-    excerpt: "Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here. Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here."
-    publishedDateTime: 2020-07-28T23:28:00Z
-    webUrl: "https://www.crn.com/2020/07/28/microsoft-azure-stack-hci/4rB6NDMQd1Vug6GrJ7ZOU/index.html"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 37
-    images:
-      - url: "https://www.crn.com/resources/025b-0eff6361f68a-29cd08758548-1000/1azurestackportfolio.jpg"
-        width: 515
-        height: 305
-        isCached: true
 
 secured: "4onf5Lwqfl6iwMvTOv3UUSsyhae74LU3dswuqbZ7VpQ58r4e4BDvpe3GIWuiw7g5UOTPrDCwEO5IOr1pJnhkpP2fKVUdl0DbFYI+wqekMuR01uUpbLXSy3ZnMwE4xXUgOEKeoDbwvuOR40bYaOfgj/FSj7JjtzImubmlszNZ22pTZ+swBeKCT8mn2jSj9gUiQGxXcTHnKgwKi9saDn9BaoVflGPxz2IeKvCfEgEPr1imNa44BDMhiHONJQbAuPeeTWZziuNRhEik5ss20Ygqo43+gxrLYNtBFCTk3yWyQWp+0uweToH94MUr8tSP6C3NFVp9M6L6LwhnqkyZ3GoETvbB+fqiJ19Ox05BJ9uUSewEwcVlrE5q8mNLJDLc5Xau+wYU2I+HZdtIMAiCCXgHfwjR0lhhNAuyAlUxnUuQR8IxTiwoK3G62sLkTwByCtkinh1Zy65ltuiiyQnSKulu4azX6mvzgfaWbCWPEbWo3cCsj94FtxdTIo39ICKUkV+a;DbdEEDFy66hQIiTeSKJAMg=="
 ---

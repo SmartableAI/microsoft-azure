@@ -5,8 +5,8 @@ excerpt: "Machine learning (ML) is gaining momentum across a number of industrie
 publishedDateTime: 2020-06-10T12:00:14Z
 webUrl: "https://azure.microsoft.com/blog/azure-machine-learning-what-s-new-from-build-2020/"
 type: article
-quality: 114
-heat: 114
+quality: 104
+heat: 104
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Azure Machine Learning—what’s new from Build 2020"
 
-secured: "2p4dksWMr2fHPOB2ES6Rw0c0yCVYWWt6Z+mdAw+N70e9WoG0orm4Hntqb8kUyKgB8EIWMOzi0XK2pPoXKG47ha4IeyJ70c3r6mcAatDtTcEmRSmw7KdqauJQzw6q8kdHIkCnILUfmBYbYn2+cTJyJypDN1FFqSDn4eVq8CRoTOl0TyIbD42l5b6P3duYoqt8TnDZQbWLLCb8GCtmOSRwovjUdRpbr0Bxlyekap0NauCtMuziqLOKrDyv/LOYHwDTEcY38AujmYpSr/rcxrie9QOYvDPWslpm8N4L82Rw9o2FxIeScbuq/631OKHyHO4V49CH1Oq9gtHpAprKpioVpQ==;NMBhB47/cqh5bAjyhl00wA=="
+secured: "qokpSreEcFd+lnDdQ7urMIXW/r+Ro+td4Vcg/Op57B90JqJXnKg9obksSWb6HYlUoKnW6EG6ijtizuQjFOB4mFXTCk3I+T38rttXeNd5ctcoRiuy2W9G2skjDGV4zJ6YW60zATOZLeOT54p7aZgMDmG23/tTQ4Xf5aTWZ0AyhbtY+vXZRTq67QnJyhHy4pIuSR8yXjjGF2yQGnt9F9DNx9EoPa2tXCxzw61uT5zw7LRUH11cRPS39Z+TJ1yxLHyDMGTmLn2JBM1A66BUPyEs+FzRlUx49GeNGKPte8Amyy2HECbTug9vJNe5s6CK2Nvp/+TeeGIPkaQ7VA/euCuH/qhXMsmPuJqZBaTLL38Oi8w=;GaSksSyMwiMkrr9xuXRQlw=="
 ---
 

@@ -5,9 +5,9 @@ excerpt: "Azure Log Analytics saved searches functionality is now available in q
 publishedDateTime: 2020-07-27T16:00:02Z
 webUrl: "https://azure.microsoft.com/en-us/updates/saved-searches-functionality-is-moving-to-query-explorer/"
 type: article
-quality: 94
-heat: 114
-published: true
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Microsoft
@@ -35,7 +35,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 93
+    quality: 33
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/b8e6e1fd-2a10-4f2e-9340-17ed9a7c5556.png"
         width: 791

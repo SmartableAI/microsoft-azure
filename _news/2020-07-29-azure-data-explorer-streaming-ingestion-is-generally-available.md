@@ -5,7 +5,7 @@ excerpt: "The Streaming Ingestion feature can be used when you need Near Real Ti
 publishedDateTime: 2020-07-29T18:00:29Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-explorer-streaming-ingestion-is-live-in-ga/"
 type: article
-quality: 77
+quality: 17
 heat: -1
 published: false
 
@@ -29,16 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
-  - title: "Azure Sphere update 20.04 is now available"
-    excerpt: ""
-    publishedDateTime: 2020-05-05T17:00:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-update-2004-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
+    quality: 17
 
 secured: "BvqaH05l6H5wWBJ1UHl0+TA31QUbcV2xrUkivkIQjGk+r2rpkiOlqJg8FKJtk8QVGwdoXqMUAtSJMML5CtSVQv/vuRyOe+g8lvDLY7/L/LCLc3CNqsmUtIV9OcMuJYS2ERGAM+W5srXwEVQOcVNcI78LwlUnE3afXodQWfPjv/GqcDFRJjweLtKVb2OKTHz8ZaNGMCV0MWDIKzEGzmxgpon55mff4ypBJBpQOSDOC49RHMmEMTFPlbm0eoWYfCYMi3nJgVUkiIUf9tL+235Itul8xW44dksNHc/TcjGANT7IHUcAfeqqJ/VBHMBPhMvHL3x2/0rurVzd7HZWZo1MIw==;q8obJfopRzwhM4QORCXmqA=="
 ---

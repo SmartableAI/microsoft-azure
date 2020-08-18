@@ -5,9 +5,9 @@ excerpt: ""
 publishedDateTime: 2020-05-19T16:05:36Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-stack-hub-fleet-management-preview/"
 type: article
-quality: 77
-heat: 97
-published: true
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Microsoft
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
 
 secured: "Acj7bqjO2kfdC/Aj3B0FMRai2KQ2MzhPkeE1KIBCJu2B74RqxGvFJUDdidpPw1fQceo83xz/mGhsEJKknUw4L1adr/t59NiFVZzRbWoIgk5UshDshJhQbcxJ7WGahop/KGNpBhZeIPIa/WFAZi28AjIFfPCU4+oBUOFlkdGKMpS5NaEtpccwU3wZGeywqEPvbklWqkQ8Gg24JZim833KBHR2sSenwV1g5g6JAmj3ScccokfrDMedyzIsdvHt/HB7byv0jFZq+b5uREjDqkxyZhYisHwGRIIlobczs/GJaH3eKlnYEcUPH21iqY/+NZdgH9xgbif0bX7lMkhHzQ/IwA==;QS+tiuQIvxxSe7vPNBnCrQ=="
 ---

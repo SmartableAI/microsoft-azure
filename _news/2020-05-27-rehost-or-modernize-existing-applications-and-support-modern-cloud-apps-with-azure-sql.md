@@ -5,8 +5,8 @@ excerpt: ""
 publishedDateTime: 2020-05-27T16:00:08Z
 webUrl: "https://azure.microsoft.com/en-us/updates/rehost-or-modernize-existing-applications-and-support-modern-cloud-apps-with-azure-sql/"
 type: article
-quality: 69
-heat: 69
+quality: 9
+heat: 9
 published: false
 
 provider:

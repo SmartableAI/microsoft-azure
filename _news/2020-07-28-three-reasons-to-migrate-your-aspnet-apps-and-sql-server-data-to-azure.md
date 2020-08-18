@@ -5,8 +5,8 @@ excerpt: "The way we work and live has changed. Over the last several months, en
 publishedDateTime: 2020-07-28T10:00:15Z
 webUrl: "https://azure.microsoft.com/blog/three-reasons-to-migrate-your-aspnet-apps-and-sql-server-data-to-azure/"
 type: article
-quality: 83
-heat: 83
+quality: 73
+heat: 73
 published: true
 
 provider:
@@ -23,6 +23,6 @@ topics:
   - Developer tools
   - Web
 
-secured: "91k0gfkqJiuc6EgqNpksGcDLCz/VJyoRcr+jdYr5jrrgOf1lHroTFu4jIhHH7lQpHAhq8m/by2wLvE+nPOL+guWhzAsWMpmUe5J3eBDBVakOh/4jNER2bSeR5eCfUheLw1OrkLYrbD20B+pr2/tBzQMcMYcXgI7C9Ve0+MB8Ou8JqKWA66sgY6g7wk9POehzHhpptgd0E3glKqzVbieWekWHDoGDKojhvS+Em1vc9vZh4H47VhyVtR3PkUPe6trSjfhmdxLq63nppFdBQ0urWGGrgUiQfe3YOpsKkn1R+IurkWgcgJPCiIfg9wjG8gaKqtJKi6TzSakrnAJj7AOigQ==;Qn0LWcxje1tKSy0ew5P+sg=="
+secured: "WhzXacQqYkl3trLdEBjenXgVzpX1whD13t7IK5eGs7OZxJqmpQxHXrOW2DjBvHHoxRwmyP3S/4j/YE/ag3kpqOSOn+QG6nIYz/SNnD0vtfdIhDhAMkJC1hwGH698uwai/V2tE1njK1g1dJnyZ957baEXyQ5K6kafLCVYEwo9SmqUZsHH5IcLXcIigWBpa+kUbPBOO9ORdYvZIK3G2YxYP8Ws82kP9GnkS4YIElTTyL7o9q17zW6ppv4CAdZJ8tTYDk/bU7jMi1EtJWw6lVcsSbDxKq5ZOrLqzlhvmo3SjFmNj4KuMo3biAW4BGJDaYerkuYUuKrakhTm/D14JYQfsJeQYCvHr/75AQ8h8w12+SI=;N/k65RRCet4M2X+ZUlZsTQ=="
 ---
 

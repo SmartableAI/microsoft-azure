@@ -5,9 +5,9 @@ excerpt: "Azure IoT Device Provisioning Service (DPS) has released general avail
 publishedDateTime: 2020-07-29T21:52:47Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-device-provisioning-service-vnet-ingress-support-is-now-available/"
 type: article
-quality: 75
-heat: 95
-published: true
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Microsoft
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 72
+    quality: 12
 
 secured: "gImPTkB1TtvEe/bnVxwOT33Vngk3BslvZ2Dx5VgZzIS9668NYqtQuttFN705vtPantXs6JpxCvgFCRpcF6zt5qPyuzpQkyfQfpnBOqwl/ITrGSEsKltB/sZjFTsj7dUl8oMZNJd4ZOAS7X++QeLLHi6fWkn/kVvu5rVEWjVSwUMpeqjLh3WzjdVWeoM3spoYO73xJDjIsllxh1v6fFs+3Lld1dMG/Vd4ujyfcKYI6WwOxUESd1yPWtls3xYmK9rJAKaUjIoarrbe0CdfOL2VfXEsOVit/0q67EJt/REpRwv24LWWf0IKGYI4LT384kCx31dnns/ZEW37izUVF1+BjQ==;0QaEyFvmn7Vn9//186FqFg=="
 ---

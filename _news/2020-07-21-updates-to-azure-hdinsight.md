@@ -5,9 +5,9 @@ excerpt: "HDInsight now fully supports distributions of Apache analytics project
 publishedDateTime: 2020-07-21T16:02:26Z
 webUrl: "https://azure.microsoft.com/en-us/updates/updates-to-azure-hdinsight-2/"
 type: article
-quality: 77
-heat: 117
-published: true
+quality: 17
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -35,15 +35,48 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Migrate to the new version of the Azure Time Series Insights Gen2 APIs"
-    excerpt: "Read about the process for migrating onto the new generally available API version for Time Series Insights Gen2. "
-    publishedDateTime: 2020-07-28T18:00:16Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-tsi-api-migration-process/"
+  - title: "Microsoft adds MFA, identity management to Azure Lighthouse"
+    excerpt: "Microsoft has introduced new security features to Azure Lighthouse and new “playbooks” for channel partners to help manage a cloud practice. Announced ahead of the virtual Microsoft Inspire conference, the vendor said the enhancements were a result of ..."
+    publishedDateTime: 2020-07-21T15:05:00Z
+    webUrl: "https://www.crn.com.au/news/microsoft-adds-mfa-identity-management-to-azure-lighthouse-550706"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 37
+    images:
+      - url: "https://i.nextmedia.com.au/News/crn-14_microsoft_iStock-1191485295.jpg"
+        width: 1400
+        height: 900
+        isCached: true
+  - title: "Microsoft Azure AZ-900 Dumps and Real Practice Test [July 2020]"
+    excerpt: "Microsoft has updated the content of the Azure Fundamentals AZ-900 exam and you should prepare according to the latest changes. Candidates pass this exam to verify their basic Microsoft Azure ..."
+    publishedDateTime: 2020-07-27T01:17:00Z
+    webUrl: "https://www.wrcbtv.com/story/42327221/microsoft-azure-az-900-dumps-and-real-practice-test-july-2020"
+    type: article
+    provider:
+      name: WRCB
+      domain: wrcbtv.com
+    quality: 37
+    images:
+      - url: "https://ftpcontent.worldnow.com/professionalservices/clients/wrcb/WRCB_BrandImage.jpg"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "HashiCorp Announces General Availability of HashiCorp Consul Service on Microsoft Azure in Collaboration with Microsoft"
+    excerpt: "HashiCorp®, the leader in multi-cloud infrastructure automation software, today announced the general availability of HashiCorp Consul Service (HCS) on Microsoft Azure. HashiCorp Consul® is a multi-cloud service networking platform to automate network configurations,"
+    publishedDateTime: 2020-07-23T15:59:00Z
+    webUrl: "https://apnews.com/08471f0ba40d59f2ab2b0a1c363722b5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 13
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "DtTXViES46KhH96siS/oaQfUfRHVLvNOpDuyUVJHUFmwgidKJZczOR/DbUeMGmsYRGOsQRAQpxYjwQWMOSTIDj/ns3hx4KHgr2d8VujumNqB7t5WEOns77XcGJJRNYw4DEBhbxen3RfZaPqTZ548/W0enj2Fg6+ITSOPFqqE6hBoFAzyjn3Byps2h8YUDdpC1qZPK3TQ39B7M29ZqkMDgGCNtSv/dVQPOhp8e83g+hbTNe+QOVqqAztdfVRbQ+UD1vJG4N2iL53wjxVnIEbG1MWy0wi9U7jbzRF9CXNxM5EkEqYbwiH8Ciw5UQlDWEL6BS5LwBJYO1gSPutvP2IYig==;6WxkwYeQIDDpdkdoKH/Bkw=="
 ---

@@ -5,9 +5,9 @@ excerpt: ""
 publishedDateTime: 2020-05-22T22:00:02Z
 webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-workspace-recovery-in-now-supported-in-azure-portal/"
 type: article
-quality: 97
-heat: 97
-published: true
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Microsoft

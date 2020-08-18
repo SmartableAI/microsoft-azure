@@ -5,8 +5,8 @@ excerpt: "Digital transformation in manufacturing has the potential to increase 
 publishedDateTime: 2020-04-09T09:00:12Z
 webUrl: "https://azure.microsoft.com/blog/accelerating-digital-transformation-in-manufacturing/"
 type: article
-quality: 86
-heat: 86
+quality: 76
+heat: 76
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "Accelerating digital transformation in manufacturing"
 
-secured: "dL4COyi3gY/PT0AbffG+y2VVCjmsJZ/PLUwiWjd8xwJOZUCQ3PIsLCInkvsdxQ8FzG3/tObEmbZHZ6wCM2Zsz+/McH+3c60FpaxIYJ2Fj86i5y6vakTw60DS08EPpjY3MeoPH+PW5gViG/+NGxgghK4wylyWIC2emC8OfM7FKtnE58DYQlrgpPw/U7wS5dCclVVju1ykqU9aADuTaP8wHh1QBHd4kgsJuFS9FCEi5DD/fegfixDnRDw/k8TxkjnVbYFj68aYsIkt4f4OclQGRoVIyc1vbNsPFu6kihB7UwIc3dFt6pUCFNlri1pQ+ozCEOQckbgQf75bd3PiCzC3Iw==;sklPM7vcaEHM9FxRmEHi9w=="
+secured: "6MSgjZsyhtPkZw/e8oV79CMhcpy7JOS1X6GzDMgyoCDY8Rs5kE25aUXfnggU91YMvf8UAScj5ypKQ9dLN2+07re3B++1/qlsXKs8Gs2NqwEGNVhXKJ0Vnc/5UemAqw0lKuesy+TT69/Xyik//SDWyCM50JOTWsdelmSwLQeTm122Ag+kgr2nrhV0gRvdzQKVdG+rMHSrf8+z1UcxhywPkDI7BVBzBazCMwkY9I+nz/4ijI4KbwB/byL4tpyDU68FKhWJ7YztQyDvuGQ0QWpYmtZLC/9aLFTuKcOK0yuAZJ+CIcvGZm5OBS9jzC8kR9A3AzbF+Am1MJ44OOMzpE17+SFES8FnPnFlESKRapBukyg=;RTpmEcoywGNJFE8l65691Q=="
 ---
 

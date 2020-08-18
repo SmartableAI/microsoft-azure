@@ -5,8 +5,8 @@ excerpt: "At Microsoft Ignite 2019, we announced the preview of more than 15 new
 publishedDateTime: 2020-04-20T08:00:23Z
 webUrl: "https://azure.microsoft.com/blog/azure-security-center-enhancements/"
 type: article
-quality: 114
-heat: 154
+quality: 54
+heat: 74
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     title: "Azure Security Center enhancements"
 
 related:
-  - title: "Identity recommendations now included in Azure Security Center free tier"
-    excerpt: ""
-    publishedDateTime: 2020-04-20T22:00:27Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/identity-recommendations-on-free-tier/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 76
   - title: "Advanced integrations with export of Security Center recommendations and alerts"
     excerpt: ""
     publishedDateTime: 2020-04-15T16:00:24Z
@@ -46,7 +37,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 58
+    quality: 0
 
 secured: "OG8OfxQWL7CdXm+Q3CtzCvXPbRXnNdZWU0wjbfcEbOGdBPxEn5cW/n+MEgZrG9z1kGgmCrPId/dT0AMij1CkAL2a5YC7ExVZAL3t8qEYfGfGEtJmD0oykqGQ6xCeqfbEbG01nauRnRgiMysPv9lqlSRxsuPDQjhKDQwvIBe7Bk2xwcsTY/V3lBTzjvX3QQTbNKGv1ngXHDksVC0WrmzuJlqlMrtAdM3TkBzQEe+m35wNJk9y6Jrv/iYDrnURF0Wy7evnTWwuLieCUTPy8/lE3eT7HcUpR1X6F1mPbiVyGnKm0wpHaSetvDtXE+kCGTM3tF1k/YhKHLPHS9E/Ezf7BA==;go6HP7VVwrar0fPibRjLgg=="
 ---

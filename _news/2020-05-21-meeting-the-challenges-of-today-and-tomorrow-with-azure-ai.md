@@ -5,9 +5,9 @@ excerpt: "It’s inspiring to see how customers continue to reimagine how they w
 publishedDateTime: 2020-05-21T09:00:42Z
 webUrl: "https://azure.microsoft.com/blog/meeting-the-challenges-of-today-and-tomorrow-with-azure-ai/"
 type: article
-quality: 79
-heat: 79
-published: true
+quality: 69
+heat: 69
+published: false
 
 provider:
   name: Microsoft
@@ -21,6 +21,6 @@ topics:
   - Azure
   - AI
 
-secured: "K8q4v4eNg/SYqUOE3lw7ugxbXizCeHAl6FBqlyrStCIS6yZ6Up2bRQ/bJkoFnvJv/N0pA7lgN9bmlc/hCGerFZjDLQFUemnr/QGxYfxKbHIXBK4nfTzJKTt0v+S8VFxPIrZ34yBhh3Hsk9x6Y9z6oNkdxUiWsdrg2U/7muf6pvWJ4BrXBiDsrHZIbJZ0DYnhfpTMM9dVYIxek7+UK/LADBqPaqP1Qxo2WfhZP/F86MKcyoZBYiNszHszOBsE1PaTnoqbbjOboYk4RqodwANW4yxhIwUaHjXNYpO4uINtjHTNaItL4INYHTYUuh4JkG3iQimOgq1yFmulnO7Robe4ug==;Czlcjk+uENFG1i9duoZ98g=="
+secured: "OnnLCRP1OsFh0l3dPOhMZhTxQhcHBPaNjV8fK8xlEm4v4qT4ZcrGacA4NhuzD5JYsTdEQt+eTuzCxjwBCSimKMg97HH+z4dPnc22OhkdABJzgYlUEPIpuxifUuWp0a+unm8h99AvLGKxse0wH4Hblx8LDi/Sa1ZT1DO1S1klTt+FsvcnavxpSEH6VEkxJkaD6JJUuvWMDsxmx0vWY1iCixRWO9tixIvZ39YTSy3wpW6tdQYWMOWhHDX+UdnJjWYdKKLUTmtBhPGZdLMNxFCmECB14Td2KNTWTNCEXTiYAkyHBB78I6iZK2J2zxNWOryx0CE+O4NVseUrq+k02+X0SoANGimLrr3AIXnC9Z4aRr8=;s+2WzcovysToQQNeqPJZbQ=="
 ---
 

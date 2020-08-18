@@ -5,8 +5,8 @@ excerpt: "Welcome to Microsoft Build 2020! This all-new 48-hour digital experien
 publishedDateTime: 2020-05-19T08:00:17Z
 webUrl: "https://azure.microsoft.com/blog/code-collaborate-and-ship-your-apps-from-anywhere/"
 type: article
-quality: 84
-heat: 84
+quality: 74
+heat: 74
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Code, collaborate, and ship your apps from anywhere"
 
-secured: "xxUR3O4G9weTz/cztK5O98s6ahk48zu85MSn02YRkAKCX2MB4ciq41WWYVJAzeS+GAV1jmI2nWmFDF9a9UxqKB0daYUHZq2e5qw7cs7/hbowU3jtjyHRSAfHhgTfn4HSvvlSwFU9BaG6RtOaXIQZ3bauKiGZQyD6u7MrCp0ypdjyCb74HEIxoHI+XadoHWZqsf+9pFHzwVF5H0j95N8stjBEfPmLhuLvmTWTu9CaLKxKQPw6YzCXJdLlgvh5L0yRFUzXveoyhFV4vz90n8E+/juv3+ZKKL67l1w4ONsLAUPBHWYZuh698UPn/FXXusZ+O8HVoHWe90sc0aJb8ujSWw==;jP/U9MZ5EhoMr+Zqg4dcFQ=="
+secured: "gEmhGzfBcw7usdZG325CwV5akU2yMOPRFz+bCSSa6MZo7/hdpPu783YXNI7AzblHgrBSt9esv1uxyFbmEOfKBmSXxwzMfROb2iCIDrAZJOGIQ/t2Is3pbihspvmsryerN8uRNbj8yDEM0PVua8qkJFr6f4TBILoSi3BteD/PP1eZ18dbiY8sNAL/1lIhDQ/8lswcTyYLC9yIpMw0ZARuWCHfUIXJi5BIZqdXbGzNRrrzrEfm8oQkXWlRC7Rh3HG8FT/1UZOP76Dt90FDmNz6ixL+fm0ZkXAEFEho8YZQ/BY/g/VSf5b7tSx8DiWCbWzmaW0GqAhdXgdxsnyKMyYB0Y4Oz8AymKzIDwk7gEz9844=;v6NQJ47aYw7LitJM/IdDkg=="
 ---
 

@@ -5,8 +5,8 @@ excerpt: ""
 publishedDateTime: 2020-05-02T00:00:22Z
 webUrl: "https://azure.microsoft.com/en-us/updates/data-factory-adds-new-hierarchical-data-handling-and-new-flexibility-for-complex-joins/"
 type: article
-quality: 54
-heat: 54
+quality: 0
+heat: 0
 published: false
 
 provider:

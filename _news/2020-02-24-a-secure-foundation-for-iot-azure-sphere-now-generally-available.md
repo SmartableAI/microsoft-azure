@@ -5,9 +5,9 @@ excerpt: "Today Microsoft Azure Sphere is generally available. Our mission is to
 publishedDateTime: 2020-02-24T09:00:14Z
 webUrl: "https://azure.microsoft.com/blog/a-secure-foundation-for-iot-azure-sphere-now-generally-available/"
 type: article
-quality: 79
-heat: 119
-published: true
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Microsoft
@@ -30,7 +30,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "State transition restriction rules for Azure Boards are now generally available"
     excerpt: "State transition restriction rules for Azure Boards are now generally available. This update allows you to restrict work items from being moved from one state to another."
     publishedDateTime: 2020-07-15T18:00:28Z
@@ -39,7 +39,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 73
+    quality: 13
 
 secured: "GXNae8oXaZIPqrxcrJ4TLaEqnJlssFYo4PSFFBP4pNqtdxK7w6o9xaXvBN0CQcB3Zmoy4n4rOEjRQ+UMKWawxitkDX4YKiuddRSM2CRxnDTIi2HWStIFdi/aql8kkslbRN0uUsPPg4Nnsw5y3ZI3We2CUf76daridkg22ZFmtCbkagPr7Ru4A/kKRrPIIWxpcSN2cr5TarZ1s86urEAz4D2y2q64cG8xr32g2F1T0KpA0UZfUXVra3AqOXRn2bvLLnfNVX85B+tsgTCnRmrVO0AnxW8jnsPVT9zNqRw4aiVqG5CqQJE7haPAb8GZsfTGIgXrai3Y7UD4AXCTtz2E+A==;VPExqV3c9Q9aZ4xtcoDOqQ=="
 ---

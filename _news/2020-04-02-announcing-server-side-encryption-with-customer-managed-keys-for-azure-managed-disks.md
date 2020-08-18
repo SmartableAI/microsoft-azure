@@ -5,7 +5,7 @@ excerpt: "Today, we're announcing the general availability for server-side encry
 publishedDateTime: 2020-04-02T08:00:22Z
 webUrl: "https://azure.microsoft.com/blog/announcing-serverside-encryption-with-customermanaged-keys-for-azure-managed-disks/"
 type: article
-quality: 74
+quality: 14
 heat: -1
 published: false
 
@@ -23,29 +23,60 @@ topics:
   - Management tools
 
 related:
-  - title: "Announcing general availability of incremental snapshots of Managed Disks"
-    excerpt: "We're announcing the general availability of incremental snapshots of Azure Managed Disks. Incremental snapshots are a cost-effective, point-in-time backup of managed disks. Unlike current snapshots, which are billed for the full size, incremental snapshots are billed for the delta changes to disks since"
-    publishedDateTime: 2020-03-26T10:00:04Z
-    webUrl: "https://azure.microsoft.com/blog/announcing-general-availability-of-incremental-snapshots-of-managed-disks/"
+  - title: "Data encryption with customer-managed keys for Azure Database for MySQL"
+    excerpt: ""
+    publishedDateTime: 2020-06-10T16:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/data-encryption-with-customermanaged-keys-for-azure-database-for-mysql-in-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 81
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/28a170f1-dbb3-48c7-94f9-6a58f943615f.png"
-        width: 1427
-        height: 840
-        isCached: true
-  - title: "Announcing the general availability of Azure shared disks and new Azure Disk Storage enhancements"
-    excerpt: "Today, we’re announcing the general availability of—enabling you to migrate your existing on-premises Windows and Linux-based clustered environments to Azure. We’re also announcing important new disk enhancements to provide you with more availability, security, and flexibility on Azure."
-    publishedDateTime: 2020-07-16T09:00:39Z
-    webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-shared-disks-and-new-azure-disk-storage-enhancements/"
+    quality: 17
+  - title: "Large storage for Azure Database for MariaDB"
+    excerpt: ""
+    publishedDateTime: 2020-06-10T16:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/large-storage-for-azure-database-for-mariadb/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 68
+    quality: 17
+  - title: "Azure Database for PostgreSQL support for encryption at rest using customer-managed keys"
+    excerpt: ""
+    publishedDateTime: 2020-06-09T19:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-encryption-at-rest-byok-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 8
+  - title: "Transparent data encryption with customer-managed keys for Azure SQL Database Hyperscale"
+    excerpt: ""
+    publishedDateTime: 2020-06-10T16:00:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/transparent-data-encryption-with-customermanaged-keys-for-azure-sql-database-hyperscale/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 8
+  - title: "Azure server-side encryption with customer-managed keys now available for Azure Ultra Disks"
+    excerpt: ""
+    publishedDateTime: 2020-05-27T16:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-serverside-encryption-with-customermanaged-keys-now-available-for-azure-ultra-disks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 7
+  - title: "Azure SQL Database Hyperscale—Transparent data encryption with customer-managed keys now in preview"
+    excerpt: ""
+    publishedDateTime: 2020-06-01T20:00:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/sqlhyperscale-tde-byok/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 3
 
 secured: "5X/R/yTq/LW/99Q2DPyRDsu8JOrhFPg3ZlgzwBYxXgfyeDsgFivApKuZhfJ9wm+f4Izc/K4KYhy3CnfxApieJ77OC+oY5RvsxkDat1nWeIsU5sk2NS1diab/tc/seYKGfjLEGRkX6m7T3tVEeSRAflzWgrqloNG7WC9kWA/tEmDKDgL2sdml0sCpydXPs+sXSVMEZ2YkVLfiubf/orxjjqV329NWLPqAhzN8gNsU6qbwcbYVzMyBdB+SlHh03Itz6Bgmr954sUPTHK4T8DufUH3vJmu3MttsngNzghU1Q82Y7XNJ6aV3MId3V5p8zvb7qTusijfpA/HYnCbnDEsWFw==;BZMVEQnlQeU6aBtRWFw0Zw=="
 ---

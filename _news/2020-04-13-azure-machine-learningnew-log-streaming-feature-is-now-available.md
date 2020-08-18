@@ -5,9 +5,9 @@ excerpt: ""
 publishedDateTime: 2020-04-13T16:00:05Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-machine-learning-new-log-streaming-feature/"
 type: article
-quality: 97
-heat: 117
-published: true
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Microsoft
@@ -36,7 +36,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
 
 secured: "EuH3W1VsJTIzuAitQGFaoxLEVv0XTvrKOmZv+tGBn4SE3ku53+VOwasoZ1INjHSo00yX2u9mvuNyUWkmCfGX7e2yiMQXOXKx02rRgBM++npyB58iTmJ7vUgrnS2x2tx9ka9ugn9SP4NAQ18fNp0aF2+iuAd+8sNDw8+7EdkP7LH3ufmyehkC2WSxPNLJOOZwfLvXqyUxOLpa16MhOsPIkvm86A56U8TH9pqS/yJP7+6hct6IZFye43RI7nHS9Q1/eDmMwRGUdg+iST/kHoXgdoA0LLsptFTGVydHG745ZgP3QHRJBrE2vSKVNBA/Ppyie+nraG+43lS+7vbWdpPLdA==;FuppfTT0+p4X5jX5fJDwAQ=="
 ---

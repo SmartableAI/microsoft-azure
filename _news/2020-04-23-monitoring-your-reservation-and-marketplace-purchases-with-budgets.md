@@ -5,8 +5,8 @@ excerpt: ""
 publishedDateTime: 2020-04-23T21:00:16Z
 webUrl: "https://azure.microsoft.com/en-us/updates/monitoring-your-reservation-and-marketplace-purchases-with-budgets/"
 type: article
-quality: 62
-heat: 62
+quality: 2
+heat: 2
 published: false
 
 provider:

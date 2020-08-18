@@ -5,9 +5,9 @@ excerpt: "At the recent Microsoft Ignite 2019 conference, we introduced two new 
 publishedDateTime: 2019-12-09T13:16:31Z
 webUrl: "https://azure.microsoft.com/blog/networking-enables-the-new-world-of-edge-and-5g-computing/"
 type: article
-quality: 84
-heat: 84
-published: true
+quality: 24
+heat: 24
+published: false
 
 provider:
   name: Microsoft

@@ -5,7 +5,7 @@ excerpt: ""
 publishedDateTime: 2020-05-01T16:00:17Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-custom-roles-portal/"
 type: article
-quality: 76
+quality: 16
 heat: -1
 published: false
 
@@ -21,15 +21,47 @@ topics:
   - Azure
 
 related:
-  - title: "DCsv2-series VM now generally available from Azure confidential computing"
-    excerpt: "Security and privacy are critically important when storing and processing sensitive information in the cloud, from payment transactions, to financial records, personal health data, and more. With the general availability of DCsv2-series VMs, we are ushering in the start of a new level of data protection"
-    publishedDateTime: 2020-04-27T12:00:29Z
-    webUrl: "https://azure.microsoft.com/blog/dcsv2series-vm-now-generally-available-from-azure-confidential-computing/"
+  - title: "Azure Files share snapshot management by Azure Backup is now generally available"
+    excerpt: "Microsoft Azure Files offers fully managed file shares in the cloud that are accessible via the industry standard Server Message Block (SMB) protocol. For users of Azure Files, share snapshots have offered a read-only version of file shares from a previous point in time. Share snapshots are also incremental"
+    publishedDateTime: 2020-04-29T09:00:53Z
+    webUrl: "https://azure.microsoft.com/blog/azure-files-share-snapshot-management-by-azure-backup-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 78
+    quality: 36
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/202fa2d1-fc33-41eb-94be-957327f62b0d.jpg"
+        width: 1024
+        height: 608
+        isCached: true
+  - title: "SAP HANA backup using Azure Backup is now generally available"
+    excerpt: "We are sharing that Microsoft Azure Backup’s solution for SAP HANA databases is generally available in all Azure Public and Gov Regions (with the exception of Germany Northeast and Germany central, France South & US Gov IOWA).\r\n\r\nAzure Backup is Azure's native backup solution, which is BackInt certified"
+    publishedDateTime: 2019-12-02T13:00:29Z
+    webUrl: "https://azure.microsoft.com/blog/sap-hana-backup-using-azure-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 19
+  - title: "Azure SQL Managed Instance management pack is now generally available"
+    excerpt: "System Center Operations Manager (SCOM) management pack for Azure SQL Managed Instance is now generally available."
+    publishedDateTime: 2020-07-15T23:00:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-managed-instance-management-pack-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure Data Lake Storage lifecycle management is now generally available"
+    excerpt: "Lifecycle management for Azure Data Lake Storage provides an automated solution for tiering down infrequently used data to cooler tiers, allowing you to easily optimize your data for both performance and cost.   "
+    publishedDateTime: 2020-07-31T20:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/lifecycle-management-for-azure-data-lake-storage-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
   - title: "Azure Security Center—Dynamic compliance packages now generally available"
     excerpt: ""
     publishedDateTime: 2020-04-28T23:00:42Z
@@ -38,25 +70,16 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 76
-  - title: "New DCsv2-series virtual machines are now available"
+    quality: 16
+  - title: "Azure File shares snapshot management by Azure Backup is now generally available"
     excerpt: ""
-    publishedDateTime: 2020-04-27T19:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-dcsv2series-virtual-machines-are-now-available/"
+    publishedDateTime: 2020-04-29T16:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-file-shares-snapshot-management-by-azure-backup-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 62
-  - title: "Maintenance control for platform updates now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-04-28T17:15:39Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/maintenance-control-for-platform-updates-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 62
+    quality: 12
   - title: "Windows Server containers in AKS now generally available"
     excerpt: ""
     publishedDateTime: 2020-04-28T16:30:38Z
@@ -65,7 +88,16 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 62
+    quality: 2
+  - title: "The self-hosted gateway feature of API Management is now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-29T16:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/selfhosted-gateway-feature-in-api-management-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 0
 
 secured: "BQyEqvWKJ7wEs5QovdB3q9059q2xCv5UTy1EhGPVB+TA5kS+Hqs/2cuCx07HMewjLhUG4jPLGOyqzQtPIilScRwB3tF9fswceUM4AJf8yRj9c6OGpF2itA34YtKJ/NTVZgpCwnrms9CADeoAmlgLPlOBCliLwX7OSeFsFZYgSNU8oks8Awpkiajco6ffK+tgIqFScTpv2RprimVD7L+VFBrIbaP8b8l7HjaqS+aG9NwV+f1iQUdLhZhGibaFwrlpbPcpj8r5wE8OhDY6F/HQhJEyQticksD5c7dW+4zJ3ccfAw0Jg2qkSsNrmf7irJgSVEIEafLLHDvTbldofJaCgA==;4d5iYpESXp8C1HBqNHGZCQ=="
 ---

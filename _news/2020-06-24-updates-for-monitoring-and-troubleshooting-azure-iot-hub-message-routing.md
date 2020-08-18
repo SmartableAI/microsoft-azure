@@ -5,7 +5,7 @@ excerpt: "More detailed monitoring metrics and diagnostic logs, plus a new troub
 publishedDateTime: 2020-06-24T00:00:06Z
 webUrl: "https://azure.microsoft.com/en-us/updates/iotroutingmonitoring/"
 type: article
-quality: 76
+quality: 16
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 100
+    quality: 90
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7bdd4241-7b7e-43cb-8782-dd60032480a4.png"
         width: 978
@@ -43,7 +43,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 76
+    quality: 16
 
 secured: "F35AX+xyh0bx/cl9mKQyCuVDnTuVnPJqogpwdl9UQz0AP2H2XzVH3lL9ppPH+ArvkZl0bRfMOFwGSUxhbN0nZsLncMAQ7tYSpuxpQTuGdlDOJlOfpdEF0AwlxZT0YqS487TraiwJgT2y7TyLYu0zbVwjrpzZ5J5BLbql6N8op5Inle5YX+J5MxrVxunAVyyoFTv+0OX669ln7VwJdpUWr5HS7Dfv63FhiWewmmUszB9YVirUI4c6aTAA+T3n/GZpshqnmGq1KO+qAmkYyGAkPUkvKWhhX4PutmCgh5G4iVmb3RF7oGHoJvyuaIaOWN7I5oiPaIk2683FnUErZFN9kg==;XBlIGOcBF10qmuoTscy6Qg=="
 ---

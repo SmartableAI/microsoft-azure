@@ -5,9 +5,9 @@ excerpt: "As people around the globe adapt to new ways of working, the Microsoft
 publishedDateTime: 2020-05-26T08:00:10Z
 webUrl: "https://azure.microsoft.com/blog/virtual-build-spotlights-iot-updates-and-rollouts/"
 type: article
-quality: 79
-heat: 79
-published: true
+quality: 69
+heat: 69
+published: false
 
 provider:
   name: Microsoft
@@ -21,6 +21,6 @@ topics:
   - Azure
   - IoT
 
-secured: "tgKuAtq3N8yllxgED7663EJj8Sd1mCQYnCu1uJA4Mmw/ZuCFR7wnXKRw6vKxSaetkhtd+JQTi28fjFFNoGnU8zuV5eKkfpEaejZwNJ7l0Rzj6JtuMw2s7J/NrgZAZEih+d36eAsVxcT1JVKGAyccBnAZlRfNkJ3nbbH6gdzHqY4rSw8WEKYIKCgN73PifEyJQfxS9cXWEoojlkcWVMvYKzaTPyufI4b+TnFBDJ0/xZWn88Jg+adOZp1YyDmqfxPW/lE2zaordOS0ODJUnYMNO2B0Ku5Ik6LkYLoe0JYdbvgK9nQ/Vpd/IMEvMjik8KtvWbVaXpMfF1oeNKK4D/wyxA==;GPuliBXzU1qUS/7ZrjdtFQ=="
+secured: "Vdu8kNi5h3or7VxWye84Ygx+9ThfAm7YTj5o4Z6u9QTUfGTVWMtlOKE4OdNIuLdVkmrYz0l2reyqKnUBI5ncUZylqMpn1hvnP1RMzKNYSyHWx6idNWqANbJwac+fRXp45CM+d31x41bFIR3GEVE/0oL2T6Y7L9uMKODXcnzmDYVnQYTWvX4zdjEJLKohpPkdUV4mL/FSmj8WALNZvhbTPXWnW6Er/q0Z6ZKfKhStLjIWapogjRo5/1aeO/evM+syaCYmpwSfohvuHuvH7t8y9JqwTv0xYgJmausxBy8BndmPOgelaL6z2XuPCV6XjdE8qBvUvNE7t9JIO4HX/+YVQVr98ogdBXR+3FygjCmMAzI=;dBJ2Vve2fRL1qtsTjBvT7A=="
 ---
 

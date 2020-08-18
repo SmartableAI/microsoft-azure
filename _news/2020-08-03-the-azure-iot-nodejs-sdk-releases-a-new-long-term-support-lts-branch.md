@@ -5,9 +5,9 @@ excerpt: "A new Node.js IoT SDK LTS branch has been released offering customers 
 publishedDateTime: 2020-08-03T16:00:04Z
 webUrl: "https://azure.microsoft.com/en-us/updates/the-azure-iot-nodejs-sdk-releases-a-new-long-term-support-lts-release/"
 type: article
-quality: 77
-heat: 77
-published: true
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Microsoft

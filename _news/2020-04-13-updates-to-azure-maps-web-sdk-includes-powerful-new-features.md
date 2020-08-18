@@ -5,8 +5,8 @@ excerpt: "Today, we are announcing updates to the Azure Maps Web SDK, which adds
 publishedDateTime: 2020-04-13T10:10:05Z
 webUrl: "https://azure.microsoft.com/blog/updates-to-azure-maps-web-sdk-includes-powerful-new-features/"
 type: article
-quality: 118
-heat: 138
+quality: 108
+heat: 128
 published: true
 
 provider:
@@ -39,13 +39,13 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 103
+    quality: 93
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2497143f-4350-4d51-af0a-ee3b68c17cb7.png"
         width: 1200
         height: 407
         isCached: true
 
-secured: "s7WcD92DXIqg4stSZNmFitIGf8kU+tG+VPmMrM1kLvaAlOO6E1SlI0k6iu0MsOml5Acd/wiWUq+uL2w/0tj/nr7wK3AspaBgxU+CgWEJjQdwGFN69RCzcVjkKTdF22Vh8dHMaWi1uK0jagTwTWZoEFVB8DA2xE5duYbV32qE1WaDlqlb2ryGNFt2Hs+hoSnPbzlBu7d+mcjDMc0oZH9+QfT6cqoFTjzN/hAkaUnguNcaJ3gPbcxV1dtbPiGSJ3jvMGsLGB6ci0G9rM8q7YzFjnID8rgVaRGZo1LQ/IhlZlCz1mamyLoKbN42Ur/99+di1XTSBkb8IjQTP29rcMso1A==;lnVoskJtViSLa/EuQGOe3w=="
+secured: "H5e0z1yb8lxmergAwjFSQu/9lfiNKaEYuuMMEEn1nDEMtn1G/ChGOO/a+o+GdWyW6s2hFnGXS+7MrQHkb4tgii7vMWY+Uin1eufM1JM9o05r94NTQTNcHCI/X8aW1wnHrBU9b5L4ripX5Js/X7jgu+gd/1fn2CryPim1bOFPf8CJyy6f4QEZ0MWAcz/4UQZiNMIZPN5rdltBWIB3QWSG0Zde1EBBGnOhwpjOb73DS0PSrrHULE2PiDD0/j7H/jQUDZ6Vb2WUCeb/lWCMrzR6L8jAwvoWA860cJlMymv696ZrWL5+R3A88M6Nj3KFlcdwloSC9pEAiTE55IKeK4yFvekXMZc1/+rJZ10YZrBmU2Y=;AJtb0OgNE99aL+qBZnMDNQ=="
 ---
 

@@ -5,8 +5,8 @@ excerpt: ""
 publishedDateTime: 2020-05-01T07:00:13Z
 webUrl: "https://azure.microsoft.com/en-us/updates/mtp-auto-enabled/"
 type: article
-quality: 56
-heat: 56
+quality: 0
+heat: 0
 published: false
 
 provider:

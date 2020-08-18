@@ -5,7 +5,7 @@ excerpt: "Azure Migrate now supports assessments for Azure VMware Solution (AVS)
 publishedDateTime: 2020-07-02T08:00:02Z
 webUrl: "https://azure.microsoft.com/blog/plan-your-migration-to-azure-vmware-solution-using-azure-migrate/"
 type: article
-quality: 114
+quality: 104
 heat: -1
 published: false
 
@@ -37,7 +37,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 116
+    quality: 106
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/b1ef990c-46e2-4a1f-b878-3c9a016d9b97.jpg"
         width: 1024
@@ -51,8 +51,8 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
+    quality: 7
 
-secured: "Rxo1c5oYAxGoBxxqyNEC3MXi8AF81dau4iLfEOUWRfE96TSYMLw1hl7T7uLQDB16pCdsX2w7IAA6rI3k2GbVKNZXrMdkWZUP2p8i3o0q1yJOnWIZFNCu+yn7DBw5PR40elfd3SdJjvXuiRK20jTPJ32BvcbVGE0WRcxijiILvmXV66AqnIzeIC4FyjgtWsc9UwEIJRBhzAX1/6VYA7Srh7hRrADtvSY5A57FVdwXC13mhfvfd+HALsciBfwYrfGe35CXf1mQGTuvveBxloWbGDZeq21BJSPa/LAyM5VNPRcgpSGaam/G4Jd2qiDfURrX0TNz6WzRDNE/+z6oaj9fIA==;SeoU23FJgw4sVsLI4dZfSA=="
+secured: "V4iVgIFfBTmS6vya5c0J8dbiISm9U4YBtkJwTm3y5SOfqwAW+SbEggsxG75N8Eg8NFbA4jBLfDThFp6hxq5kyuZ4QRivRYamCje6hP+ia+AbWaCtNR3flLwXhBpeeIRrAbiiUt88PxSwivdd0c0Zpjim1XBt7M+p7dDI0Cf27blDykP2FCtnko2sZ5al2MYBBAJgadjHe5lKFWV3dCyzQjtgkpdACwY0+QYBP2J+TS5Rqt5SAn1A/GXhNUQdL5rSXblM4Ez1uiAC6ZJwyvKdNMN6vtj/YtpCL792VOHTeCNWbCuKtSCaHX6jBLa1r6246b9L/yqNyVWFrnz6ZShBl7+hZjAMOWPpbUDWySVyvow=;IjtmAvKJBgEvmPsZ1P/WQw=="
 ---
 

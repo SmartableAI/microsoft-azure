@@ -5,9 +5,9 @@ excerpt: "We know that many of our customers are facing difficult decisions abou
 publishedDateTime: 2020-06-17T09:00:13Z
 webUrl: "https://azure.microsoft.com/blog/optimize-your-azure-costs-to-help-meet-your-financial-objectives/"
 type: article
-quality: 97
-heat: 97
-published: true
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Microsoft

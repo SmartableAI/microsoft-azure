@@ -5,7 +5,7 @@ excerpt: "Today we're announcing the general availability of Azure Files support
 publishedDateTime: 2020-06-11T10:00:03Z
 webUrl: "https://azure.microsoft.com/blog/general-availability-of-azure-files-onpremises-active-directory-domain-services-authentication/"
 type: article
-quality: 65
+quality: 5
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 81
+    quality: 71
 
 secured: "WCivv/l/pGk9Tg65dkjPOXp56t3Q7G19umWPiSo+Ucy5r44mJSwZ+p82+yzYeVgzGb2oX0bGEK5qM5/of6oVsVm0qfIwJaq4BSNB+O8Iktoo1bEzwRMm6KA6R6GKur9dCmuRJ20pqYyEod1gG/QfL22XINk2k91uuFo79DUp4fn5gs9AnyakvGgb8R6eoCasrgpxGdTLNnfFrSZZG5ZN64DXtVN6w6ATqL8a9KO+ycjv/EpI5Uxmr3WD/mCWg8G6x7YmYi6CMtuW4SCAOwmmKamrRBEVlY2AC7iLwfPQj6EOG+pKlI8nhAmV1ZqWOhqbNu60F0219LC1QjjymPXCdw==;9jfBlYXNM+vRIzD4o3Spww=="
 ---

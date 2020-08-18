@@ -5,8 +5,8 @@ excerpt: "Budget evaluations in Azure Cost Management now re-fire alerts for the
 publishedDateTime: 2020-06-12T16:00:08Z
 webUrl: "https://azure.microsoft.com/en-us/updates/budgets-in-cost-management-now-accounts-threshold-edits-and-alert-limits-above-100/"
 type: article
-quality: 56
-heat: 56
+quality: 0
+heat: 0
 published: false
 
 provider:

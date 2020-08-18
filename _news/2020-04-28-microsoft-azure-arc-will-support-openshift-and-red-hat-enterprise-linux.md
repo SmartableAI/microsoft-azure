@@ -8,8 +8,8 @@ ampWebUrl: "https://mspoweruser.com/microsoft-azure-arc-support-openshift-red-ha
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-azure-arc-support-openshift-red-hat-enterprise-linux/amp/"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: MSPoweruser
@@ -26,29 +26,6 @@ images:
     title: "Microsoft Azure Arc will support OpenShift and Red Hat Enterprise Linux"
 
 related:
-  - title: "Azure + Red Hat: Expanding hybrid management and data services for easier innovation anywhere"
-    excerpt: "For the past few years, Microsoft and Red Hat have co-developed hybrid solutions enabling customers to innovate both on-premises and in the cloud. In May 2019, we announced the general availability of Azure Red Hat OpenShift, allowing enterprises to run critical container-based production workloads via"
-    publishedDateTime: 2020-04-28T08:00:39Z
-    webUrl: "https://azure.microsoft.com/blog/azure-red-hat-expanding-hybrid-management-and-data-services-for-easier-innovation-anywhere/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 86
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/312759ad-1010-4449-98f4-308ec63ec078.jpg"
-        width: 1099
-        height: 618
-        isCached: true
-  - title: "Announcing the general availability of Windows Server containers and private clusters for Azure Kubernetes Service"
-    excerpt: "Today’s application environments are often heterogeneous, composed of both Windows and Linux applications. Using Kubernetes to host containers on both Windows Server and Linux not only saves costs but also reduces operational complexity. Many Azure customers have demonstrated this with their usage of"
-    publishedDateTime: 2020-04-28T09:00:40Z
-    webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-windows-server-containers-and-private-clusters-for-azure-kubernetes-service/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 57
   - title: "Microsoft beefs up Azure’s Kubernetes features and Red Hat integrations"
     excerpt: "Microsoft Corp. today introduced two updates for Azure, one focused on its managed Kubernetes service and another on Red Hat workloads, that should allow the cloud platform to better accommodate enterprises running a variety of different application types."
     publishedDateTime: 2020-04-28T20:09:00Z
@@ -63,6 +40,29 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "Azure + Red Hat: Expanding hybrid management and data services for easier innovation anywhere"
+    excerpt: "For the past few years, Microsoft and Red Hat have co-developed hybrid solutions enabling customers to innovate both on-premises and in the cloud. In May 2019, we announced the general availability of Azure Red Hat OpenShift, allowing enterprises to run critical container-based production workloads via"
+    publishedDateTime: 2020-04-28T08:00:39Z
+    webUrl: "https://azure.microsoft.com/blog/azure-red-hat-expanding-hybrid-management-and-data-services-for-easier-innovation-anywhere/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 26
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/312759ad-1010-4449-98f4-308ec63ec078.jpg"
+        width: 1099
+        height: 618
+        isCached: true
+  - title: "Azure Monitor for Containers support for Azure Red Hat OpenShift 4.X & OpenShift 4.X in preview"
+    excerpt: ""
+    publishedDateTime: 2020-04-29T19:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/aro-openshift4update/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 5
 
 secured: "RCzcqDptGcsFiAEq6+oNV7DzdFIvo7yhmM63k6eryFRtorlNie5yrtPZ/IErfkj2TpUUTs5iyc2lNbkgvD+vIJzE78BpPf5/ObY3szNFPzYlSa4foO5rUA9JrxRhFdYRHhfxq5sW1haq9kCfqaqeLWBAQ/BuPwn17Bj0hAda5OwOaZ3bTXigxwhRf7PZFPXT1AF7C1qTOC8dqqtD9k+/62Pn8OZ+7pazkKIvxWquUoQym0bxAA17ZSHgnJ2IHEKlMZZeRkULyT51Sd9PXS3k1BqrO2vkpJC+6qr9foPiaTUc1p80knxPwoFSXEyNlcgVnLeIJkdo+Tn7uo+m5KXbw9+sDrVXyWcOAGtK3iDeDfKyKfskcNQtelQPVfwP3DD6nrU3sOZkrraf7hGvY7nC+ZpqvAGGFa0/ua31X0uZSetGTlZhLbiJnqMvcQTXceJt9wl0b4QhWrd49htkygdotW6MYn0VQQd6xKUU9iYClwI=;Ld21Y5/+iDdx6zhUsjF9HA=="
 ---

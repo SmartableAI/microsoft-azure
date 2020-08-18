@@ -5,8 +5,8 @@ excerpt: "As you move through assessments and plan your migration, it is critica
 publishedDateTime: 2020-07-16T15:00:43Z
 webUrl: "https://azure.microsoft.com/blog/preparing-for-what-s-next-financial-considerations-for-cloud-migration/"
 type: article
-quality: 99
-heat: 119
+quality: 89
+heat: 109
 published: true
 
 provider:
@@ -36,8 +36,8 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 79
+    quality: 69
 
-secured: "+1Z6WfMr8QCP9QUG6K6lgwgc1sc8Sr3R0whcpBmNh4gHX3y47CwJXTSrPMbpuXFQSfqvNqJDKSGm0GJB/LOE/sOysGHwdkRtou528cmfIF1eYP33+XypYjgEt6ABrkFb7fz2okUrHtLZq5uJKezkkFQSLzhxTNh6KqlmrkPG78LBcMnpjPJoKBs9BWBzsVkaE3BUjMYzUjJN7jrxAcQmGwesLFehI1bixvNnh+Dv7DolObLNfdtYdBZm7pmDz51hY3QCaVGcKYSKtuALkkwHmG9sNWppwSnR7zzojHcMb/ymZqE2SofkVEgO2CW9fddjdB6ut9LJIB1H1AEd0VjYyA==;ORHR7k9KmI8L2slh7+7Qfg=="
+secured: "JibOFhbm3/lEjdNO4dxeO0XfchASHNSJ7qoW5ymr9DHnhWxo3+5bY2nxX0QbumhjPktuYG/A5LO6SEy+PgSmnlncvEpO05+p9NfjTcCRC6XJQIXSdP3jyqqS58VFySQxIJq8+ykXxUmvk73e0UAUGeW65ry2aMEP1HIpCa2ITFnzVDebPyCysuFhOP1sJS3X5H2zKsfD9DNIeNpGC0Av6yEH+Dq/i6/cxJwweiI1H0/2yMM67wAnBjdZQh4v9SUFA7LTVClhwT2QN+LFVoH+9HSB0akFFY6kCXOX0pyx0Ems6wxv/Y897ukgQK48dFPaiNZnj8ZeA7/ZGb/QCXbYkpCRhvNGIVDVwxdrn2UbyTc=;PRnse8i49FGUGj321P2DVw=="
 ---
 

@@ -5,7 +5,7 @@ excerpt: "General availability support for up to 16TB of storage and up to 20,00
 publishedDateTime: 2020-08-05T16:00:04Z
 webUrl: "https://azure.microsoft.com/en-us/updates/large-storage-for-azure-database-for-mariadb-2/"
 type: article
-quality: 77
+quality: 17
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Configurable backup storage redundancy option for Azure SQL Managed Instance"
     excerpt: "More flexibility and choice for backup storage redundancy with the addition of LRS and ZRS storage options."
     publishedDateTime: 2020-08-05T16:00:04Z
@@ -38,7 +38,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 74
+    quality: 14
 
 secured: "/o5h2WY6ObAgEARylnA25rOxBR8S5USeTyXDT9eEszp6mRxAFCg/6zeKojQXw8hjqKpRiEK/o2gXDvwND946OQrhdIQ4S7tS5PXjQj0v58QSD2GigbQV3ue+L29ObkoVJSP6XGnpzRk9i5VH+MQkT1JW+rD1TeQuJ8LqM6e9Sr92wwNawcUL0dYsA5Q+KsiyTntdpc2uSOvfkLyG85SkijyYWsdm40fxllPViX5uYG9MXZrciRCy0tJ8669If0+YTvkC8/qpwbV/t4rfG/bwqaS1MxQxX7wi+pUIuRV0Teoftco1MAVoksy84PvsKiNp5Qz6MHCMOoWvF9SAinZ5Vg==;Pxm07yBbjj/PhlHLudDVtA=="
 ---

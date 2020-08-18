@@ -25,7 +25,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 99
+    quality: 89
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c4c6ac0f-ea43-458e-a4e7-cb971720a491.jpg"
         width: 1024
@@ -39,7 +39,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 97
+    quality: 37
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2547e7a5-284b-4f2d-95b9-54e5200b3931.png"
         width: 1024
@@ -53,7 +53,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 76
+    quality: 16
 
 secured: "aJd8CwNzHWB4sNv2Kv7ZT368TDyb4hzlFBbLmrk+18y43lvR0mT0JhUV7771ddKE41COjxh6Zpi43HpVMn2r9sibG43cEk2RplimB+GvsiVcqiJ46C0Yns3mzldqalI1auVuZsRS77KrU8AnEuFVhsWGibbTHXWvy7OHY2XWKUOrMY2FFz4szhYNM6Z2AJI4jn87J+azhBuBiQGz7CWBJcpXLNmMb+DHjEp6ZdWBcQSDgq30C/Xg5YCq4CYqGb87WrfNVNXKFW1Txard0pRD3Mee3X8E8xn+m4lCIinCkyg1h8XITwqy+//Q+9YtMtbvbCTpSw8ngEGhraoFZWYYXw==;MMr6PWifDETOMghSwewvhA=="
 ---

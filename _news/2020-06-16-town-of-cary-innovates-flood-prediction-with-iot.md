@@ -5,8 +5,8 @@ excerpt: "This post was co-authored by Daniel Sumner, Worldwide Industry Directo
 publishedDateTime: 2020-06-16T09:00:10Z
 webUrl: "https://azure.microsoft.com/blog/town-of-cary-innovates-flood-prediction-with-iot/"
 type: article
-quality: 99
-heat: 99
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Town of Cary innovates flood prediction with IoT"
 
-secured: "55wIZl7P5Cou9Ys7YZxriDQQ/lzawW8KJqt+FPZ5CtcB2uKnWWaQLfs8KcnYT42nkQHaO55LQa9HHVRov4jGFgPEhcKJfyp82R/fuFxkp9WwiDt+4HT3HvDOubw3K5dn0ewE3bdmtaEJXFJIzPj6Op5OqIavC+/nMks1l2OylEBi9XKqGCoqQew37hyyDP9gH53OOKWhOJtduHRRhXuL5FeABLUdtf+Ue0mvztam44PgXEhxB5i0nxZaMstqwzK+wMB981OE2MILbRNzHyKT9pLzLfEe6drQJiPsf2vVXrzYOprZZDJ8GqN/84bgDVFuCBi250JKL+RvRWf+j8r2Sg==;kWLaL2BzFGSCXGMu6k4kvQ=="
+secured: "NHn8wvp0l3DBJ4llXViP6UAGq9IBLveCou8t4RilwA9+tiI+iQhAOaA54Fys64w9GyxZMYuZ7+MY54QlKgZZrLYIhmx6nC7oBAYUz9lJbWTszDcj+g9lu7f+qVQBNVV9tDHte45vhXNHPAFdbH+9hpCrR/rpa4PdyEUZSjBSZByEANSGX2irJt/VSoNBUAvkQeAc62k8XGddT6xf8mHt1cI4ysQVekZz+r/qNWcxO2UhLRkyvGrszxa/2a5L/kW64hFtmkJRRlKx1/qe4BCaFylhY4DEDgtFEahSbmfpRYHVlGH0I2ocuWIo4SSU0zE4pm+lSejAH/PiUY5oA2wKEUe/8P7kbiEJoytBr3vDbqA=;G77ma3if+7bfnM+WQBSwlQ=="
 ---
 

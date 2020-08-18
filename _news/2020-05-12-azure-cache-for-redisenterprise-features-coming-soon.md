@@ -5,7 +5,7 @@ excerpt: ""
 publishedDateTime: 2020-05-12T13:00:09Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-cache-for-redis-enterprise-features-coming-soon/"
 type: article
-quality: 77
+quality: 17
 heat: -1
 published: false
 

@@ -5,7 +5,7 @@ excerpt: "Run your data integration pipelines in an isolated and highly secure e
 publishedDateTime: 2020-08-13T16:40:50Z
 webUrl: "https://azure.microsoft.com/en-us/updates/data-factory-managed-virtual-network-support-is-now-in-public-preview/"
 type: article
-quality: 62
+quality: 52
 heat: -1
 published: false
 
@@ -29,13 +29,13 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 97
+    quality: 87
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/5676f52b-6929-47d9-bfc1-b9a2825193e2.png"
         width: 624
         height: 303
         isCached: true
 
-secured: "BRN5qNQESFTuwYzD0UsGCr/JMQtzoYHflXBVFG+z9A8J52TxEUX9sauUxkAt8Fwo6oDFC8MAxkNeX2lFHdWCwNm/rDmO+KnWXQ1CHc09H27m25eyp4XCnV4MEqkmZqx8PXq/aO70OoU8xl/eKTGjPgapowc3DCjuqiAa3r1rtRwXLIzai09NOTnsf2y8gJlXYq6pHvPETC/IHIotEAcRNhnlNaxPlAiMXgBUuV17z4pTltfoeExYUqoAUBc1lT3PIfMaMhZb7W7Dsrijxp+TZRLyqDBs7Ypta9lWOzdUTRAxXT3Vxrf3NlLixlDCfbWXlpNdercbFb1VTbLfmKZ2Ew==;kW0JuWF+kB2QylOwa6SgeA=="
+secured: "W1ncuZ2Q3BlVbm7MKflCRouIS0nwNfFXPfJhoMRI/ccOIldXQvRmz2bDFSlDbxt/b3v8h26V+sOBwxf71uleMV85Y8ULOezEuwA2ZYkIAf/goxEu5rCQQozmcMR5E0YylJTZk5QRGFoAST3rfaNM6XQlzvd8QUXpqS3WYgHygWp8UXZWDnOo2jL/iU03V8q8/lndR/6/kLdi1IJ6LJRhb3QQ5ad2mXyJEPpQoe1//cOoLsmfNRVG8X66tEb9QtTd/fzXc8SoxPDsT/lgHX0PVSAgfvZx8c4CxOqMp99etSH0gYKyQ/EXr3SPFnzuBoqq/M2aIv388LWxR3kw6ZkxzokpvsPaHXFBgNkPgjec9PU=;bpzWpxZN3NIsothSqtS8YA=="
 ---
 

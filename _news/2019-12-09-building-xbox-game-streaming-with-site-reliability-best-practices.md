@@ -5,8 +5,8 @@ excerpt: "Last month, we started sharing the DevOps journey at Microsoft through
 publishedDateTime: 2019-12-09T10:00:30Z
 webUrl: "https://azure.microsoft.com/blog/building-xbox-game-streaming-with-site-reliability-best-practices/"
 type: article
-quality: 64
-heat: 64
+quality: 4
+heat: 4
 published: false
 
 provider:

@@ -5,8 +5,8 @@ excerpt: "Azure Load Balancer customers now have instant access to a preconfigur
 publishedDateTime: 2020-06-25T09:25:34Z
 webUrl: "https://azure.microsoft.com/blog/introducing-azure-load-balancer-insights-using-azure-monitor-for-networks/"
 type: article
-quality: 100
-heat: 140
+quality: 90
+heat: 130
 published: true
 
 provider:
@@ -38,7 +38,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 76
+    quality: 16
   - title: "Introducing Azure Load Balancer Insights using Azure Monitor for Networks"
     excerpt: "Azure Load Balancer customers now have instant access to a preconfigured solution for health monitoring and configuration analysis enabling rapid fault localization and informed design decisions."
     publishedDateTime: 2020-07-08T16:03:49Z
@@ -47,8 +47,8 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 76
+    quality: 16
 
-secured: "UGbq8MvAEceZjs38NvthJsMwPfV6CuBRs4TXvyzm0a9EEwFHZKo8AKpypLjXs4ypFuQlNkNUO9/vlkhpjlh32FqCwEkDrur8E3W3MwNR5B5zhDm2vQdQk3EIaw5DacwOM8H0MXStUX7jOWNDaEDmgMyeTPWzwFrdvd5go5TidodKO71Vut1pblQeQDQxJFh92QmnaqgyCqx0QVxTsvaCX/DwEq0XcKG/kZM4e6iPlWA431X2TmLAxNP5d43114huTJHa0L0+CCV3lcQIiNKRsuZUwvNqIPDHNmDfDl0UECcR26qCcmv/LXS5a7BPxL3eaDLjiq8hAih+6HjxJjw1Zg==;n0oFNr4HNU3cI3FRvaiF2w=="
+secured: "1CL10ewYxc2PH3+fsPnJPREM+rzvMqE9X6HsdTlAjDvoqFNmjlNhGw1vxiGfrt/Hqi9mNWUW9nLqetGe0O0HofnpJrdAk4I9SxBim452+imvLfzRmZsIgglw7W8znOzPa+pDnJTOZl+aHfPQPGrnrJk80/Hx3Y52Z6++a13tgNr3G0i4GuG7cPop+oeXOjMWCEHgzI/95MBNGejHVu4gxdl/IQ1sM3gl6TwYTEY6wgnRABoYmPt7uSTHFXpA/WnDSRJb7BjuEsyaHkAgc4xAPaVn461ML7fbgfZasS3D8hMPm6DLASy9EN9iyxdUx0oA/WLPE2ASwh86VM0OK6XLsLmMVpb/pvChRcGlItAPGKY=;FafNillE/MZc8cilbYGofQ=="
 ---
 

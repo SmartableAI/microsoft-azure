@@ -5,7 +5,7 @@ excerpt: ""
 publishedDateTime: 2020-04-14T22:00:22Z
 webUrl: "https://azure.microsoft.com/en-us/updates/announcing-general-availability-ga-of-manytomany-relationships-in-azure-analysis-services/"
 type: article
-quality: 92
+quality: 32
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 97
+    quality: 37
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/0f9f89b3-100e-4d95-b715-e3b3f4e20492.gif"
         width: 1290
@@ -50,7 +50,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 94
+    quality: 34
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/2eee66bc-197a-4a22-97b3-a23d469d3f97.png"
         width: 604
@@ -64,16 +64,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 81
-  - title: "Azure Support API is generally available"
-    excerpt: ""
-    publishedDateTime: 2020-04-17T17:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-support-api-is-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
+    quality: 21
   - title: "Azure App Service—.NET Core 3.1 is now generally available"
     excerpt: ""
     publishedDateTime: 2020-04-23T16:00:29Z
@@ -82,7 +73,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Text Analytics v3 is now generally available"
     excerpt: ""
     publishedDateTime: 2020-05-29T21:00:32Z
@@ -91,7 +82,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
 
 secured: "/CIigA9IsouwLQ5sZ1yhz6QZh21FSBA9dUhTB6wq4OgLbQ+o7mt2SKsFer97rJiOatJiOzygyCtdkgzKrbtHWaa7AeP1kWTkKvqTe90+0jLL7SiF/dfT8xewTdy7t2qejd5JMIPlwFKoI2GdkxMPYRQ0k9TVSo0mgNf/PZSj4Zl8FPRe7E8swATyFEpZSEIQrmqt4LmRpWZdUNiVDEFjI5XYC7Z7I9T1lpjd7O4elEyoRcUtRokD1gXeQfTsp1EFoDpbxHIJ2rQGFPWVmioguPbBWkpqYu1LF2yAuHafd2/WHeNEBes1br4/eBD2UmzR8TILx4WsfYLQ/0J3e3ESiQ==;mApP7yuBp3MBtFl1LwiY4w=="
 ---

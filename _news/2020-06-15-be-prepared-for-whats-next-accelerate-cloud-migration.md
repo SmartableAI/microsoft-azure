@@ -5,7 +5,7 @@ excerpt: "We are in the midst of unprecedented times with far-reaching implicati
 publishedDateTime: 2020-06-15T10:00:02Z
 webUrl: "https://azure.microsoft.com/blog/be-prepared-for-whats-next-accelerate-cloud-migration/"
 type: article
-quality: 79
+quality: 69
 heat: -1
 published: false
 
@@ -30,13 +30,13 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 99
+    quality: 89
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/34de3c76-bc80-4ae8-b91f-8092df9ad65e.png"
         width: 827
         height: 496
         isCached: true
 
-secured: "E1xe6j5QQyJEUp2u/nuOF5vabNm4WaQdcVP4Oo5sB6xe1CMwoyaPRwYaXWG3UbNsUminwttX/DUhIYhx/pairC3Z6bTt1CibQmle3RWf8jsgkHpam8dK1XeX/x5lPPYTv01Bi2lufOrD2dfW4G904RCctmGVveeWROyyLi4F5dCZYtKTKmD0kr+0rpML7m6d0AYD7DtMq1PoV12SsnnguRZ15J1J3z3EYKWXPQVmMcJp0ch4Sdi6R89iI+qWod/vb5h2pUHbi6QOKtDp53iwU1ZnvCTmdd5NH1fqgpO8QN3RLqM1akx1mL/GxuLe3ga0kCFNocO7btULwx79HvNdGw==;dyD91oV2GZ/ttwd99IboHQ=="
+secured: "1JD1x3PPhG2p7YJ5/HcAFLX3TwywkZPrsryVra1o7gyoOiucsPqpqOHprQCOJUGcaPMQN0mkZWh2vXThrxAK6KN8FNy6HdJ+DT3aqyENl3pQoZGSVvEqV1tqdpVnQ34Nfz+aU3UVsKw5cUbIIGcvfMJ06hN8AaJghdpmHcx7eHIMRfwCD0KLQA8dm+QYLBc9dBOda3U9BPUpQVWGL/tYDSxhMr4YQSjGziq0YUtEYFf51Ez1wqJI+J1WAE1MJNGW3zjVFq2eaYsnw8kuLLgPFaR2rK8dXrDwZI/hxN1GO5XJ/iEr4m0+mI4yhWwB6HfhbfR/qZqx8nbHtXWkXYuVFgqmlMNdumGtR7R0jXUO/FE=;52t08fZAGqpJjEnj8e3yRw=="
 ---
 

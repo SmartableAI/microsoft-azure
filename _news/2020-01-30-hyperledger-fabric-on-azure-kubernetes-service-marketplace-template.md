@@ -5,9 +5,9 @@ excerpt: "Customers exploring blockchain for their applications and solutions ty
 publishedDateTime: 2020-01-30T10:00:00Z
 webUrl: "https://azure.microsoft.com/blog/hyperledger-fabric-on-azure-kubernetes-service-marketplace-template/"
 type: article
-quality: 99
-heat: 99
-published: true
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: Microsoft

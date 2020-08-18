@@ -108,6 +108,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Healthper USA, Inc. Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Healthper to take advantage of the scalability, reliability, and agility of Azure to drive well-being."
+    publishedDateTime: 2020-05-20T16:53:00Z
+    webUrl: "https://www.pr.com/press-release/813120"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 37
+    images:
+      - url: "https://img.pr.com/release/2005/470793/pressrelease_original_470793_1589990219.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "KlariVis Now Available in the Microsoft Azure Marketplace"
     excerpt: "KlariVis customers can now take advantage of the productive and trusted Microsoft Azure cloud platform with streamlined deployment and management."
     publishedDateTime: 2020-06-09T12:09:00Z
@@ -163,6 +177,20 @@ related:
       - url: "https://mms.businesswire.com/media/20200818005296/en/813376/23/riversandlogo.jpg"
         width: 1200
         height: 627
+        isCached: true
+  - title: "BitDam Advanced Threat Protection now available on Microsoft Azure Marketplace"
+    excerpt: "BitDam announced the availability of its Advanced Threat Protection in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. BitDam customers can now take advantage of the productive and trusted Azure cloud ..."
+    publishedDateTime: 2020-07-22T23:20:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/07/23/bitdam-microsoft-azure/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 33
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
+        width: 304
+        height: 430
         isCached: true
   - title: "Greater Than Make Enerfy Loyalty Now Available in the Microsoft Azure Marketplace"
     excerpt: "Greater Than, today announced the availability of the cloud-based loyalty program Enerfy Loyalty in the Microsoft Azure Marketplace,"
@@ -276,6 +304,15 @@ related:
         width: 1223
         height: 476
         isCached: true
+  - title: "DataVisor Now Available in the Microsoft Azure Marketplace"
+    excerpt: "DataVisor, the leading fraud detection company with solutions powered by transformational AI technology, today announced the availability of dVector a"
+    publishedDateTime: 2020-05-19T12:37:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200519005042/en/DataVisor-Microsoft-Azure-Marketplace"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
   - title: "Parabole.ai announces the launch of TRAIN™ 3.0, the Automated Machine Teaching Platform on the Microsoft Azure Marketplace"
     excerpt: "Parabole.ai today announced that TRAIN™ 3.0, its MACHINE TEACHING PLATFORM is now available on the Azure Marketplace. Parabole's unique"
     publishedDateTime: 2020-06-03T13:12:00Z
@@ -309,6 +346,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "2XHDdODKS+0ov1khzK5grw6eDPpHet9HdIgj8mu0Wz3cOeAd53ti17KM6japRZXwV+jlQMNrUeiCmLqqFWrcGgG57420ePZCgUtCN0YjMhk2opGv8Ztu8DWXnfooIVSpMSsdODUGtCmgwgoCDyHsRVMpuYn9OHKzhtL3OImxCE30yw7+3rFccGYHgDCSUL1gzlJ27kjd7zhJFBDtHOnh9OrbZieOMmqLd31EyA2iIvwU1b9qXE4iUg4ni7Cn9xHNFZkuLSI2sKu1rTNlgTat0/hXUxZD4BQVyUib4Mum4UzO1sdms3rflOPP3izCdPIjv1F+8aFzYvnRL6HZfikIOw==;osOeoN/VnLJgyYausmyZdQ=="
+secured: "qPn8ZtTLI1dzZtET2k9gsyIemC/3unx3/iq8SO+8jyOAsw74lVOCF9HlYg/bD4+0VU5CXW+5KeZZGhdrcna/wC5qdcqhfiwYXaylERfKQ2HyRLEQPha8LiT86v16mhTyNw5PEOGQVEAY0ZY+wu4iHMvRawF0/8hniFz+EvKpfPfVkYB6zZ9v+rw/Io+zqQ5M50iR0dXxrQwhhQfKfEDmQk+oJJRqNaxpSbSOrPXZ24LwRVQR5DJuMhsp8W14I8mLANhERtsMNZb6qaaULkFjHs6DxaleLXxE8Mre/E96CqIWUWTW++WSEAqU6Tl1FF4DPZNH1uXHosKpsLgijTFTwA==;340xwJbAQkxopvTdLInmew=="
 ---
 

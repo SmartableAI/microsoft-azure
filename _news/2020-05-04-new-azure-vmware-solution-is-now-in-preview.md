@@ -5,7 +5,7 @@ excerpt: ""
 publishedDateTime: 2020-05-04T18:00:35Z
 webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-vmware-solution-is-now-in-preview/"
 type: article
-quality: 77
+quality: 17
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 116
+    quality: 106
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/92cec444-9b04-4e3c-9250-2af9a918d97d.png"
         width: 1024
@@ -43,7 +43,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 96
+    quality: 86
   - title: "Query Acceleration for Azure Data Lake Storage now in preview"
     excerpt: ""
     publishedDateTime: 2020-04-29T16:00:06Z
@@ -52,7 +52,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Blob storage—Blob Index now available in preview"
     excerpt: ""
     publishedDateTime: 2020-05-07T01:00:17Z
@@ -61,7 +61,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Premium tier for Azure Data Lake Storage now in public preview"
     excerpt: ""
     publishedDateTime: 2020-05-11T18:00:02Z
@@ -70,7 +70,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
 
 secured: "65iB+eSS5uC9wz+wLMnIrl4u1v80uUnwWsT1iYC7JAvTg4qcet4XS/GfyzHJXx4KyxJ/W5GWz9lkpFvE/+qXEaKklmgfpJSYhsS9TPspqVloODLX+YEqVzxZIsGY0jeErhH+a8J2M3bQKQyYPw709Ni10zz+DdBEU+wMjwZ7/MBEDCQ3eJn5e6qg9UAFTBYqCEjhkVARTZ4j9pr0GKaN4SpBrdnydeKw64d3aViZTCono0ZpDLWPxlSo1K+zsbTyihUX091sV+7+uEm1p4YcAnJdvRJiPYYkRwsY6Syr3lF3ZW63ULMBYEj5CxxuN9vT5xldIebDxJoWGbb7JKp+Pg==;xwfvxB34EU6Z7uhcTqRUIQ=="
 ---

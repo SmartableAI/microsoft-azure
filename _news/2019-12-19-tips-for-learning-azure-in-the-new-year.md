@@ -5,9 +5,9 @@ excerpt: "As 2020 is upon us, we typically take this time to reflect back on the
 publishedDateTime: 2019-12-19T08:00:17Z
 webUrl: "https://azure.microsoft.com/blog/tips-for-learning-azure-in-the-new-year/"
 type: article
-quality: 79
-heat: 79
-published: true
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Microsoft

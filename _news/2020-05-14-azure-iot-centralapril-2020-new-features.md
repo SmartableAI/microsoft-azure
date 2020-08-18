@@ -5,9 +5,9 @@ excerpt: ""
 publishedDateTime: 2020-05-14T21:00:40Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-april-2020-new-features/"
 type: article
-quality: 77
-heat: 77
-published: true
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Microsoft

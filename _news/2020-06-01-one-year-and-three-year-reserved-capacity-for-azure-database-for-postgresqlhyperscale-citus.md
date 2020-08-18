@@ -5,7 +5,7 @@ excerpt: ""
 publishedDateTime: 2020-06-01T16:00:13Z
 webUrl: "https://azure.microsoft.com/en-us/updates/oneyear-and-threeyear-reserved-capacity-for-azure-database-for-postgresql-hyperscale-citus/"
 type: article
-quality: 65
+quality: 5
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Data encryption for Azure Database for PostgreSQL—single server"
     excerpt: ""
     publishedDateTime: 2020-06-10T16:00:19Z
@@ -38,7 +38,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Minimal TLS version setting is now available for Azure Database for PostgreSQL"
     excerpt: ""
     publishedDateTime: 2020-06-04T17:00:39Z
@@ -47,7 +47,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 73
+    quality: 13
 
 secured: "mposjju3ERkLctd117i/DNGk6WOUrq4ZytoKieQB6Fi/QD/rFGxaC5pE6gsR7fcUE4njLWOpDVq1QQfQPGzuFeJRGa6iDjvgBb4DimhQiiak23lxlAmzfKNq7woQfhCha4Sa78QYuYk6S6/AxKcvt7LqjGvK3kmVKcD4Qx/fRrLTPODBISCESbL47WX3AvJmM+oXJNgOKvxfY+eZ6SoBidumGuyspB1r0ZbUpJPLbS4kZQTby/YtfOwYPRyBXCj8X8LyDGqckvDwjzn0ZoN9bkY7IbmYyVjJaa0pfbpKcf8VAGvA2Rl2XFhmsBbsKpmCPcJcWhtglCQ53R0Fb8rCfQ==;qTSyfun0USBTidBIa5Ppog=="
 ---

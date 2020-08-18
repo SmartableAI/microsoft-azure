@@ -60,15 +60,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Azure Cache for Redis—Enterprise features coming soon"
-    excerpt: ""
-    publishedDateTime: 2020-05-12T13:00:09Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cache-for-redis-enterprise-features-coming-soon/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
   - title: "Redis and Microsoft to deliver Redis Enterprise as integrated tiers of Azure Cache for Redis"
     excerpt: "Redis Labs announced a new strategic agreement with Microsoft to deliver Redis Enterprise as new, fully integrated tiers of Azure Cache for Redis."
     publishedDateTime: 2020-05-13T23:48:00Z
@@ -83,6 +74,15 @@ related:
         width: 304
         height: 430
         isCached: true
+  - title: "Azure Cache for Redis—Enterprise features coming soon"
+    excerpt: ""
+    publishedDateTime: 2020-05-12T13:00:09Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cache-for-redis-enterprise-features-coming-soon/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
 
 secured: "mQ4SeS8wL5NEYWmzbA+B1drduO+027cYH6CATUsFcOICR9MBmJRt2c88Xsqkr+oSROVDbR7yIwt0nJxhgNkALGBG7/2r5GNsmh8uHwr77I/99fGmZfsztQBUZWGsEDUyDsGkqSqNPLifPmUe03HfI791gcmtlDRHnXSwswXvgIhmMIQu73kvtHrmMyvxGtT37u3hxuHbWmuNkGTcYRmBTCb+crJHbkitU11ssFX/8i4ZO4myEH6UUnK4KwCkmszbue4N0/WAn5doUasIydvmIB7uBJOAGwfzmHzF2Bnty8YdAw7yOjprzDJATSzukdOXI3PjCCsv5PzBr5lX2KVLQ6y9Hd149JZzMqXKoCEnJ9kn0/D5qwq32iyyh8EtsJKz5ZFF3q4rvswRS+Nu/T2WnqQuFt3tqnye0E79sW8eSdIULiw9OcaScN6SnrTDx28WQkMKmILIVx3F6/DzL3oaJX9gtLE5fFfpUYDC/Kq88Nc=;SXgptcXU6WJSVruGVf30Aw=="
 ---

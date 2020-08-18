@@ -5,9 +5,9 @@ excerpt: "Azure Security Center's threat protection enables you to detect and pr
 publishedDateTime: 2020-04-08T09:00:03Z
 webUrl: "https://azure.microsoft.com/blog/detect-largescale-cryptocurrency-mining-attack-against-kubernetes-clusters/"
 type: article
-quality: 82
-heat: 82
-published: true
+quality: 22
+heat: 22
+published: false
 
 provider:
   name: Microsoft

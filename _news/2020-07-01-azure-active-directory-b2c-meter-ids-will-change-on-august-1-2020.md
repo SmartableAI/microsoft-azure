@@ -5,9 +5,9 @@ excerpt: "Effective August 1, 2020, the meter IDs will change for Azure Active D
 publishedDateTime: 2020-07-01T00:00:38Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-active-directory-b2c-change-in-resource-guids/"
 type: article
-quality: 77
-heat: 117
-published: true
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Microsoft
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Visual Studio Online meter names will change on August 1, 2020"
     excerpt: "Effective August 1, 2020, the meter name of Visual Studio Online will change."
     publishedDateTime: 2020-07-01T00:00:38Z
@@ -38,7 +38,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 62
+    quality: 2
 
 secured: "O0DWmHRU3Dy5MIhmGr4GsSzqiLhi1soknJ9I5FzB8IXGpurCsCi2NKzk+yA/319TPzMHCD2aXajnyTITt0eos1QAl3F8Fw34IMDoSB3pF9fd9kU2KEmocDVjhTZuLuGR0nmRxTYbq5iN0VFJK6RS1i60AUG4+lUBpvpT3OYDkLbuV/L/8JxYPr3BBQzieDznK8z/5zHHrApefT4LjIKvvvoRffGwZ8l47wopXUuJlae6f4PDEoU7AMUW15HYQePqYSLZeikE7ccFcjOL4BVrJjA72iEWB5pn6mg+iS2dufrI1dPRyfy1UJ6nJWurERupRamwUzZEy5YaQaeucm3qIA==;R3PeEhuc3zPvi8xWjIgLkA=="
 ---

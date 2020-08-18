@@ -5,9 +5,9 @@ excerpt: ""
 publishedDateTime: 2020-05-13T16:00:59Z
 webUrl: "https://azure.microsoft.com/en-us/updates/app-service-is-now-an-events-publisher-on-azure-event-grid-in-preview/"
 type: article
-quality: 77
-heat: 117
-published: true
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Microsoft
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 70
+    quality: 10
   - title: "Private Link is now available on Event Grid"
     excerpt: ""
     publishedDateTime: 2020-05-13T16:00:54Z
@@ -38,7 +38,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 62
+    quality: 2
 
 secured: "g50eNBnK3UNq/4o4OCmYze2yq1ttGwgFqSuOANVv1U5ClR/ovPzG5XzJtygbybAdzBY7R72fN3DI/yTLRDP6s1IOzPf7j/Dk67kQ2Y10uWm4fxfghWgsu3sYMa3Vh+7DSaotqToqLBrkpdC/IpnjUMDRDpVXhytLhDukLapldMQDxGoeg1BNTaBDwRfDQYjusd7Pfq2MdQa35tL60SmXtn5HLBwdqoX0zOFLfyF/Zv42+yksv7ryiyL82L4houdoViLIcwzigx9ra2LOnZ/iNEPJxlalfKaunZMqyDEBb10OYpJy1U2hxdL+x8cROlVY/546z//Q0En1KKFr+T9V0w==;j8k6hHG/5lr7oN+N+IonJQ=="
 ---

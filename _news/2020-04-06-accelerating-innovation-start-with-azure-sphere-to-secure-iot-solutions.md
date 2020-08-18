@@ -5,8 +5,8 @@ excerpt: "From agriculture to healthcare, IoT unlocks opportunity across every i
 publishedDateTime: 2020-04-06T09:00:29Z
 webUrl: "https://azure.microsoft.com/blog/accelerating-innovation-start-with-azure-sphere-to-secure-iot-solutions/"
 type: article
-quality: 113
-heat: 153
+quality: 53
+heat: 73
 published: true
 
 provider:
@@ -37,21 +37,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 78
-  - title: "Microsoft Azure Sphere Security Overview"
-    excerpt: "Microsoft, using its decades of experience in hardware, software, and cloud, with Azure Sphere, aims to provide security solutions for IoT devices. Another critical reason to be concerned about IoT data is its integration and management with numerous ..."
-    publishedDateTime: 2020-04-01T18:33:00Z
-    webUrl: "https://www.storagereview.com/review/microsoft-azure-sphere-security-overview"
-    type: article
-    provider:
-      name: StorageReview
-      domain: storagereview.com
-    quality: 37
-    images:
-      - url: "https://www.storagereview.com/wp-content/uploads/2020/04/StorageReview-Microsoft-Azure-Sphere.png"
-        width: 979
-        height: 456
-        isCached: true
+    quality: 18
 
 secured: "h58WrqUGfszyBzTOuXaNAMRt/GSoDqy0aNx18nNXK4bmwk+HDwYHQ+3ZgCgbLrfI0i0h/ErdbxtNqg1daCVm+wA0BreulFn0GZE7kjXJC+j7pGIlT7tf7pFPe610SZfZ4L/YfaXTgM8qgGYpW0+CkKgebcUbhcKsGpj++xJNBkDRXxSC+5+nFQgbgYWgA6zhJx5rt8qYr8lsHU7Ouyzskq6p0mUrtwIWdHNidwiiNTODq4fHVsHBNd0h4yh6urOLQzEUNO42E6wGjawsGilFk+szphgBRJba+jZwsrMdm1J2duyySRBzVavkWoVtrmenk5YvN5Kc2ghKDh0ulZYNnA==;iRRDZknayPfLvl0psSRT+A=="
 ---

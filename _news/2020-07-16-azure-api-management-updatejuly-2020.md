@@ -5,7 +5,7 @@ excerpt: "A regular Azure API Management service update was started on July 8, 2
 publishedDateTime: 2020-07-16T00:00:31Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-update-july-2020/"
 type: article
-quality: 97
+quality: 37
 heat: -1
 published: false
 
@@ -35,7 +35,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 97
+    quality: 37
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/60860f53-51d9-40bc-b1a9-889af6a986f9.png"
         width: 827
@@ -49,7 +49,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure IoT Central—April 2020 updates"
     excerpt: ""
     publishedDateTime: 2020-05-14T21:00:32Z
@@ -58,7 +58,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure IoT Central UI new and updated features—June 2020"
     excerpt: "June 2020 feature updates for Azure IoT Central are now available."
     publishedDateTime: 2020-07-15T23:00:33Z
@@ -67,7 +67,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
 
 secured: "bhQ118cTnMC3mWy3r5hS1+7RHowF87nX3j1NwVbVnu3EewIgTLdg+ExRMqXN7iD0yoEN+Dp75rgoXuE1erKLTI2yrD81jbedKwdGeuuQI7amojI/nBWHP/iqslC+hvb2XJsBTMpnDLY4OlzR0Cxedy9/ogzJ0x0f8kBvo8rOFfMEqWNm9ebMKeD77Ueyc+4E0hMmiN98wkNEodanallZciBYDLvdARxv1LhE1ju7MZCw6on44T0ujwfyMAroCCeakoP1nZNigovLPzTdjht96pW1HU4UyAXxbZ2fVMO44241KObtSm/24fZPsW6SqQmATPvKxSqZ/YgbyoR4Z9L6HQ==;zqE22688mu0dH9ZR/qcF2Q=="
 ---

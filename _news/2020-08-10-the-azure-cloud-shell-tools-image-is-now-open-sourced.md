@@ -5,9 +5,9 @@ excerpt: "The Azure Cloud Shell tools image is now generally available on GitHub
 publishedDateTime: 2020-08-10T17:00:03Z
 webUrl: "https://azure.microsoft.com/en-us/updates/cloudshell-github/"
 type: article
-quality: 77
-heat: 77
-published: true
+quality: 67
+heat: 67
+published: false
 
 provider:
   name: Microsoft
@@ -20,6 +20,6 @@ provider:
 topics:
   - Azure
 
-secured: "6+ldA22Q11lvRA6WSLHaVBRU2s7beInOtW/W1q263MkOBPTPT+tIqo6N9JqgiYAuCjis2k87yCdDTNgOCgAPIgV1BEg4A/EC0QIo4v98BfF7qFdGpb8huQTqvvj9mL0NWcgdM7/3YoYJi88zZ88+hj7x7VchJ0LsRKR+3N5vxqs/9yOY8ieVpRq1LqAdIsn/aRi1jjpcwOFcYtsskBiR+850hZeYS7Z+pLCIOqfSrddOA5PfZQ3CnJ9AAJctVfvgppZzE98pXCzq2Uut1FZcdHugsrdHkgkl7HKmitWajww2XunnElmu+uQ6scaPYS5Zj7qAFbDaMwMnklNBFspaGQ==;pUFl5ny/OKb2n/3kal8p/A=="
+secured: "pIIPT/G0hMRaVlKmhiuKZSnNeWYDJNLjpi72TsxShJH2dqqW/meqqHP0tl0kwX1Nbx1zQRSkfCK647fDkqSw7F+LTwfXa20EiX9CJyOYJ8Pskb35Rp7OKe8X+3yqAcwCV74MOWhYB6FxrOTXw/GhQ8HpUgdC7DBEvGB8Gr7ZeOn91BCsGqBEtHZi2POvBXrPI2QZZrXQE0hwn3JKBp+gWuVpy1KVw27sHwrXg077isWlfhK56SDqJHeTe+Vgz4ffaEmJVX4a9RCIvykZSTfd2Jraj49C68L/S7OnFD2ukn1r9XqeepVJfbuKPkwf8YTzbcGa1oICMdjuV5sXLZI1Je1ko+/u4Por12iEAosMiNg=;2WrJpSGt6wEfs2qua/FRzQ=="
 ---
 

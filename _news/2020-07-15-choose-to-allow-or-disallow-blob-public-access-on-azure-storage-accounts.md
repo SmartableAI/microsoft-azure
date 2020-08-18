@@ -5,9 +5,9 @@ excerpt: "Azure Storage now supports anonymous public read access for containers
 publishedDateTime: 2020-07-15T19:00:28Z
 webUrl: "https://azure.microsoft.com/en-us/updates/choose-to-allow-or-disallow-blob-public-access-on-azure-storage-accounts/"
 type: article
-quality: 76
-heat: 76
-published: true
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Microsoft

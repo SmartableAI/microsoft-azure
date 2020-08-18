@@ -5,9 +5,9 @@ excerpt: "Use self-managed RSA keys stored in the Azure Key Vault to encrypt you
 publishedDateTime: 2020-08-12T16:00:29Z
 webUrl: "https://azure.microsoft.com/en-us/updates/encryption-of-backup-data-using-customer-managed-keys-is-in-public-preview/"
 type: article
-quality: 60
-heat: -1
-published: false
+quality: 50
+heat: 190
+published: true
 
 provider:
   name: Microsoft
@@ -29,16 +29,52 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
-  - title: "Selective disks backup for Azure Virtual Machine is in public preview"
-    excerpt: "Optimize your costs and enjoy faster backup and restore operations by selectively backing up a subset of the data disks in a VM."
-    publishedDateTime: 2020-08-06T18:00:12Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/selective-disks-backup-for-azure-virtual-machine-is-in-public-preview/"
+    quality: 17
+  - title: "Infrastructure double encryption for Azure Database for MySQL is in public preview"
+    excerpt: "Infrastructure double encryption adds a second layer of encryption and a different encryption algorithm which gives an additional layer of protection for your data at rest. "
+    publishedDateTime: 2020-08-10T16:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/infrastructure-double-encryption-for-azure-database-for-mysql-is-in-public-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 11
+  - title: "Data encryption with customer managed keys for Azure DB for PostgreSQL-single server "
+    excerpt: "Data encryption with customer-managed keys for Azure Database for PostgreSQL-single server (generally available) enables you to bring your own key (BYOK) for data protection at rest. "
+    publishedDateTime: 2020-08-10T16:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/data-encryption-with-customer-managed-keys-for-azure-db-for-postgresqlsingle-server/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 10
+  - title: "Data encryption with customer managed keys for Azure Database for MySQL is now generally "
+    excerpt: "Data encryption with customer-managed keys for Azure Database for MySQL enables you to bring your own key (BYOK) for data protection at rest. "
+    publishedDateTime: 2020-08-10T16:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/data-encryption-with-customer-managed-keys-for-azure-database-for-mysql-is-now-generally/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 8
+  - title: "Infrastructure double encryption for Azure Database for PostgreSQL-single server is in preview"
+    excerpt: "Infrastructure double encryption adds a second layer of encryption using a FIPS 140-2 validated cryptographic module and a different encryption algorithm which gives an additional layer of protection for your data at rest."
+    publishedDateTime: 2020-08-10T16:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/infrastructure-double-encryption-for-azure-database-for-postgresqlsingle-server-is-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 5
+  - title: "Azure Database for MySQL support for encryption at rest using customer-managed keys now in preview"
+    excerpt: ""
+    publishedDateTime: 2020-06-08T16:00:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-encryption-at-rest-byok-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 3
   - title: "Kubernetes resource view is in public preview"
     excerpt: "Kubernetes resource view allows developers to use point and click navigation to see live, in-depth details of their workloads."
     publishedDateTime: 2020-08-05T16:00:01Z
@@ -47,8 +83,8 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 62
+    quality: 2
 
-secured: "7euD+PCbbg16r2oAt7SrTQk/PDgU1yuxPTcox09ahRtIXpv5Wbm2x4pX0WBQoN0wsa7ujzyztXOswAfEDIttHQN74sInRKaH5gTW0DRky8kRTAXsJkokj8+NZdZ2ppfxohEuit0EQk4+SPpiAbFJNRDCedC5+4rraxZ6WWP6LbXLeyo9grKUFpsq/GDE7O44EBExi8mp4mgnMaeFiAO7NOBG+b5JTg6IZkfTpQQneW6LMAkh8t17kfrDh4yB4H0GSfHB6ww+vA2M8JYVJm1dewzaa2ZB/OtKvii9s/OpyoIm3JBxBNFEes6W/YVs13RKpOHSgNt5PH44ySKPNAyfrA==;qSseGwRsSaj7p5CCAC6QJA=="
+secured: "UN1uYiXTE90swXoqSq8z2H03YKSxgpHeFdrpTVj2f02SjrfwhiFt2Hv4ST3o6lzTLd2lpo6UUsvHNkIm36XhoHaqJqOODuHA4ISZlJEqlDI/WRm88TRKLgy0PEKA1bgFbrhK4jmI8kAwTMmzxbQ+/RWkWAHOevxOdR/rk1nDnTD6Zs6v+VVsaWbOcyPdl7LNBy4xT7FheEDlllpyCxZDQWgOJYjEja0d6eeyOQBfAcGxVabM4Lk9PwfNgDKdxuG7uwn7z9whBTo5EUmUkTgjs3xhOu7PTvz0768y0Z5aqm4HP8ul+Y9oH0bm0WZ49+PjjgdMdM8YAZu7Vxlz5Py0deBnWaDQZsVOkx3XGH3ZeVY=;Mz7/Ik4ouCyTRP7829xx8Q=="
 ---
 

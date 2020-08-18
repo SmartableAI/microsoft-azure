@@ -5,7 +5,7 @@ excerpt: "LightIngest is a command-line utility for large volumes of data ingest
 publishedDateTime: 2020-07-31T16:00:15Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-explorer-lightingest-now-supports-actual-creation-time-for-historical-data-migration/"
 type: article
-quality: 65
+quality: 5
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
 
 secured: "w7yvoZEXOZbPqjMCLoDJM6Arst3LZXCCM5R1uErfT/Uli//Z759O+czmoAV+MOltf5Fiwamr+DBEBiwbGYXcwgFFwAPVgwiiOwFZmL+1jN2rxoWdqBGNFJtgh88/mwZT12JoiHnE1CaRGFKhaIP3UPTvADrqSB469EhnE90Ht/Ky+cnOgCeZKUVEWLUt6N2CH5wFkGkwK+TIipjoONUu8GnOBmqmdK3x7zaEt5cgtBOkoE7WknDda8sqSKtxtHMKr1XMnRMZojLcDlgWRBKbJnr5NIPpS133TSUYp/Qqph1gAXtjYrddhE3kzuwS5otpWXSAdADolZuWcgC145/zrg==;50Nkqa/CJCRQqzBszP3QXA=="
 ---

@@ -5,8 +5,8 @@ excerpt: "The default maximum degree of parallelism (MAXDOP) option in Azure SQL
 publishedDateTime: 2020-07-25T00:00:28Z
 webUrl: "https://azure.microsoft.com/en-us/updates/sqldb-maxdop-updates/"
 type: article
-quality: 69
-heat: 69
+quality: 9
+heat: 9
 published: false
 
 provider:

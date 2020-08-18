@@ -5,9 +5,9 @@ excerpt: "June 2020 UI and documentation updates for Azure IoT Central are now a
 publishedDateTime: 2020-07-15T19:00:30Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-ui-documenation-updates-june-2020/"
 type: article
-quality: 97
-heat: 177
-published: true
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Microsoft
@@ -35,7 +35,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 97
+    quality: 37
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/22268971-76ec-40e1-9ca2-890b6850038e.png"
         width: 1211
@@ -49,7 +49,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure IoT Central—April 2020 updates"
     excerpt: ""
     publishedDateTime: 2020-05-14T21:00:32Z
@@ -58,7 +58,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure IoT Central UI new and updated features—June 2020"
     excerpt: "June 2020 feature updates for Azure IoT Central are now available."
     publishedDateTime: 2020-07-15T23:00:33Z
@@ -67,7 +67,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
 
 secured: "H8TKdX1SAag6v05MeacFQlNk6+2RojJ6NFMq3kPuJz9ww4i7IFshAvYcaJFxD3XUdXlLZqDF5wFq8gH7sQfFd84S98HnhnuSTzzewhYbJpm8XhnOSOgqZDegmsw7CW06fpvXVCNgBwyMDKyZjaztXb8nOoRBBxr/zLmuDKTaUn9rUgq0Te5U5skiqpgsksZuEzROwcrSAUU3XSgvRLH0JeoIxPIL9GNi3niPT4aPXBEHsq9/nQkIeBGhN7gi4VBY01WzhNkb3Du5o6NDk7IKxyxn0NzEciN3wMnjEnyj2kyWS2b3oCNF+8cSxM5KGVU8Qf01c7Kq3L2PLoINjr3NAg==;OQBAZbvf09ul3ojFX4rz7A=="
 ---

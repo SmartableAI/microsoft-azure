@@ -8,8 +8,8 @@ ampWebUrl: "https://mspoweruser.com/microsoft-azure-cosmos-db-serverless-cheap/a
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-azure-cosmos-db-serverless-cheap/amp/"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 157
+published: true
 
 provider:
   name: MSPoweruser
@@ -26,6 +26,34 @@ images:
     title: "Microsoft introduces a more cost-effective way to use Azure Cosmos DB"
 
 related:
+  - title: "Microsoft Azure down in India, most users hit"
+    excerpt: "New Delhi, May 18 (IANS) Several users of Microsoft Azure in India reported problems with accessing the Cloud-based service on Monday. User reports compiled by Downdetector, a service that gives ..."
+    publishedDateTime: 2020-05-18T16:11:00Z
+    webUrl: "https://www.sify.com/finance/microsoft-azure-down-in-india-most-users-hit-news-topnews-ufsvE8jjfihdb.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 37
+    images:
+      - url: "http://iansphoto.in/web/photoimages_new/400/2018/03/07/2492f3e275f2262e1d7ceadf5c16e03d.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Microsoft Azure down in India, most users hit"
+    excerpt: "Several users of Microsoft Azure in India reported problems with accessing the Cloud-based service on Monday. User reports compiled by Downdetector, a service that gives details about live outages, showed that some users faced problems Azure portal loading,"
+    publishedDateTime: 2020-05-19T04:55:00Z
+    webUrl: "https://www.dailypioneer.com/2020/technology/microsoft-azure-down-in-india--most-users-hit.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 37
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/microsoft-azure-down-in-india--most-users-hit-2020-05-19.jpg"
+        width: 1000
+        height: 800
+        isCached: true
   - title: "Build apps of any size or scale with Azure Cosmos DB"
     excerpt: "During these uncertain times, building apps with agility and cost-effectiveness is more important than ever before. Azure Cosmos DB, Microsoft’s NoSQL cloud database, is introducing new ways to affordably scale performance, launching features that enable rapid application development across teams, and"
     publishedDateTime: 2020-05-20T08:00:27Z
@@ -34,21 +62,35 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 97
+    quality: 37
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f5bfc52e-3a1c-4356-968c-9858e49b7711.jpg"
         width: 1024
         height: 529
         isCached: true
-  - title: "Change feed with full database operations for Azure Cosmos DB "
+  - title: "Stairway to Microsoft Azure SQL Database Part 3 : Purchase Models DTU vs vCore continue"
+    excerpt: "In the last post, we have discussed the DTU purchase model. Azure also provides another purchase mode which is called vCore. vCore purchase model available with all three deployment models ..."
+    publishedDateTime: 2020-05-26T00:00:00Z
+    webUrl: "https://www.sqlservercentral.com/blogs/stairway-to-microsoft-azure-sql-database-part-3-purchase-models-dtu-vs-vcore-continue"
+    type: article
+    provider:
+      name: SQL Server Central
+      domain: sqlservercentral.com
+    quality: 29
+    images:
+      - url: "https://1.bp.blogspot.com/-GOsdS8LjLuo/XsD3DyJAy_I/AAAAAAABFHg/IYt3jKUFXFsMcqVGmuRmDTq4fCoHA5ssACK4BGAsYHg/d/Serverless_billing.png"
+        width: 1181
+        height: 665
+        isCached: true
+  - title: "Point-in-time-restore (PITR) for Azure Cosmos DB"
     excerpt: ""
-    publishedDateTime: 2020-05-21T04:00:35Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/change-feed-with-full-database-operations-for-azure-cosmos-db/"
+    publishedDateTime: 2020-05-20T16:02:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/pointintimerestore-pitr-for-azure-cosmos-db/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
 
 secured: "PO1kUmrMFhGyMq+X8K7Kn7nYESkirrtXFttducOgLaolIKlWydMfS31F+TVu+nEy6xI37n4sSDS+T8QsfZN6PDIus4aZr7NsSscY+kWxb2hOh+CSpoWQG3wa2tcPgf/C2T3RcmRYXWrguvikqQApz1xQNjt3x1EZrEIoAyI12SsYmTMroaJuDBWAOZkrejPU2yIIj0lfV6+sM31XhXptrF4QgD3w/8d37eiXz1zDCBM+wLaaoWh1HK1QQsF8hmSakdjrkdzBVX/z+x7C0ZBl0GWyTEdhX1OYasfu4rOjA7nQetQpdx2nfPAWZRbTOl60;Eyr8Q3oqq/ubWI/Zd5DbXA=="
 ---

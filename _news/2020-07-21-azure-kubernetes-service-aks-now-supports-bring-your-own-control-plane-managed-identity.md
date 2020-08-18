@@ -5,8 +5,8 @@ excerpt: "Azure Kubernetes Service (AKS) now supports bring-your-own identities 
 publishedDateTime: 2020-07-21T16:01:03Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-aks-now-supports-bringyourown-control-plane-managed-identity/"
 type: article
-quality: 68
-heat: 68
+quality: 8
+heat: 8
 published: false
 
 provider:

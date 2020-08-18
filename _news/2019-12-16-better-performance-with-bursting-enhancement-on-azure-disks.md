@@ -5,9 +5,9 @@ excerpt: "We introduced the preview of bursting support on Azure Premium SSD Dis
 publishedDateTime: 2019-12-16T08:00:01Z
 webUrl: "https://azure.microsoft.com/blog/better-performance-with-bursting-enhancement-on-azure-disks/"
 type: article
-quality: 79
-heat: 79
-published: true
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Microsoft

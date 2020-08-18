@@ -5,8 +5,8 @@ excerpt: "Today, we see a huge shift to remote work due to the global pandemic. 
 publishedDateTime: 2020-06-23T11:00:04Z
 webUrl: "https://azure.microsoft.com/blog/streamline-connectivity-and-improve-efficiency-for-remote-work-using-azure-virtual-wan/"
 type: article
-quality: 91
-heat: 91
+quality: 81
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Streamline connectivity and improve efficiency for remote work using Azure Virtual WAN"
 
-secured: "QcbOM67+k5ZqfATYLWjemkXHwhJlqIXE1ko+xBBBhoqDHHJRLGL66RFC6hB7Xt38al5n6PZHcMlRDOJzwi9pDNgjh7AFEvJYqTP42LYRZHIOomeMOrHJQS2mFANtq+LqzdGMILw6MyWXM8fuRmz5SV86PDE599aDKkuH9bW/ehlmWz86wAq+Xe+Fd/bTq3zMZZbeM12kwxZsHDG0rS35qBYFBk5zvtkDGsxsXIQJmPJeInNw2C4u7okVEGMez+4blciVoJ+RXYp2ux4MPolEtfp+g0DJ8m9vPPK+dEmgN9gabm/o8NqLaM2d0FMZjeDqNkmeO4uUBP+9gEwXsrzXgA==;+JrdMI8ntZBoug/Am+Vgkw=="
+secured: "ganlzenNSdzL2WiDUnSKwOCFokvQYC7/d8LbvAoVCa9CzbErC40f5Nk9OmO7dttPsUJGSeptVstUuYRIFp0oIKSmcMadiGXpujNE5/4n2EJjNFeBe5BGcT8rq1yW9tPra4WPDWklLDHHWkLhG9tcgirHkZdDtRmGyrJCYjttR0VlubozJoec7BTxbphFuRysRA3Qgfdpu4D6OVZ1Oey2GMLJJAcx3+HvVLWlvOtzjrr8wPZvuNNaisbxjkqjKOCA7WmtXgkpK11PuBS7bhCNw2QgEhdMr7iOFwswX+oSe9vV6qrwoBay7ML2of7We5jciAHOCYuMfGt1Hh/79jgHVNqbBa7aJGvWsjdZrL00PyM=;0iM8QPjuwu/c1gy4+zUnlw=="
 ---
 

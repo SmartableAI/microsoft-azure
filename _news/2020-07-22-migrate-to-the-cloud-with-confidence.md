@@ -5,7 +5,7 @@ excerpt: "To support your cloud migration projects, we are committed to solution
 publishedDateTime: 2020-07-22T08:00:50Z
 webUrl: "https://azure.microsoft.com/blog/migrate-to-the-cloud-with-confidence/"
 type: article
-quality: 64
+quality: 54
 heat: -1
 published: false
 
@@ -30,8 +30,8 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 67
 
-secured: "UT88hY9Srs/bQRwAWOo3xjaCFBT9cyHv2R7SmWWREv5FLGcG0Sp+kCwO17VjHQzbcvDDOiAmj6unUWXSKeFFv8AoPshR8jvTrarJQSEzOVAi0pH2z/eRv1k89s6m/108FpQCy8PYRHm8NoWQ/Sr3YtxLt4YNiAV0Z3su26oArI3CfhTZo2Ali8vGKvxVLnH64HcnGd9aElBOYgDuJqF+xtCThY4e4K90dD3PqaPsk63CW/dsvGaPzdxcl9QvliYR+oP9Tbnu0/kSDSfIrsA8rEto9lYSw8EWT0n36HNML9R6saOY5gyRnwQhJxrUCRMHPU5too8i1lWFDDUqGYpXug==;JHxVbbaElOhHwIk/73zCYA=="
+secured: "vBD05KTXDkZRLto2ULhL0off5tPGUATW9zmSDaaZmZ0heM7VJqqhdkczrPO/np0qk4mn1xeLbiybq9UAk4+szyv0xbPbXRLK5SRdMbMIl0XQFigPYdzA1amhRSPhGp64p5sV6e36FaABVw8NUuzutODzPj0q7PlO7JhMPtuoH2vylGcXdS8gw52n1ZU3pSrkX9t7iq6QMDncdFTPn18YjYp3rlRixEyJSf7AEvZdrXq3ZsUcRxQgqoeYRUqi8Ur8ltJCRfNDW1T3t1MlD9a89DES+0XuMabnC83awLOqtUxlFJnmtPbgsLAS/AMSvdp/xsz83csONkYqwrL++F0xNOd5nVM3+2lVpPjGruVvTFg=;F9GHqTlT7kFYaX3vjsTXTw=="
 ---
 

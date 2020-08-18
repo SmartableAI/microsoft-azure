@@ -5,8 +5,8 @@ excerpt: "System center configuration now has it’s own dedicated blade in Log 
 publishedDateTime: 2020-08-13T16:00:06Z
 webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-new-system-center-configuration-blade/"
 type: article
-quality: 82
-heat: 84
+quality: 72
+heat: 74
 published: true
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 264
     isCached: true
 
-secured: "mnP9a4PtlNbDdRSYt5rQhg9cOzxC7Ohxw+pW71uN+GtXqt+o8H1PFhAnlpJij15SNyf6AYcFEu7/TRQB3VVQGZELqlabD2r8hXW2N0IOGj5tEreS0pr0Z3dLtsVcChGDbBXge0IlqgwJPbaxAwXO4uJcwcHkKGOMCZiSUcIfZCGKgyni5mo4I2m7qCqrvVDO3L/dqJlRQY0nqkyAQmZRWaFjXdgedPu8GVFV2XWMpI2gyk9CZtQyiY8PcfIVftEG4zyF6U8wJC4BeEl+rZO5o+LyLdlhIO1zZB2Pz5nWYGuCEbHNZyCTKgVsmqahgoE0yWXePy0oiXznil6O6gRgWA==;0FWs6Ul28apPzYZ+huZZiA=="
+secured: "iuYGYqx4WjnMujVUxkUT8SfCMCjOTJjnP2Po8UlsnS+oTI9PMwBu/IyKhzlaoZtjw0qjF4GfUEJb4yd/15u5WgXvduzlc8ZwiETAJK8Juip8B5R4rxfbJuJTSQ6PCbkzeVuq4aNz0UO8zJuNzW7foTZuo35Ci5se6FXm4Vwg9c2oQdbuujd26GIiyu6kgimuV8Cm2dg3oPXSohshXWT0EMkgYu7SdJhEZ48OR5cjUYftMC2TBIh90PssBzqBMLZ6/8Yz2XvNp386rQ3UHC+Ptn5VCY4qkhp23PYz+49CGtK+ABIEQiGhvBJwSd8z2fcE0ccYtQpsTSlwToQzWfH4LzamhWcVpqQ7cQbv5BhDrGs=;3u0spAVgwikJL4vtJKFfnQ=="
 ---
 

@@ -5,8 +5,8 @@ excerpt: ""
 publishedDateTime: 2020-04-15T16:00:33Z
 webUrl: "https://azure.microsoft.com/en-us/updates/workflow-automation-with-logic-apps-2/"
 type: article
-quality: 62
-heat: 62
+quality: 2
+heat: 2
 published: false
 
 provider:

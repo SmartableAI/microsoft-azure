@@ -52,7 +52,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 65
+    quality: 5
   - title: "Avid Technology Shares Up 10% After Renewing Cloud Collaboration With Microsoft"
     excerpt: "Global News Select Avid Technology Shares Up 10% After Renewing Cloud Collaboration With Microsoft . . May 5, 2020 11:12 AM UTC"
     publishedDateTime: 2020-05-05T11:12:00Z

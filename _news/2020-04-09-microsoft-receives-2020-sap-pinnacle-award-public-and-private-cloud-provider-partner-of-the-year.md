@@ -5,8 +5,8 @@ excerpt: "I’m pleased to share that SAP recently named Microsoft its Partner o
 publishedDateTime: 2020-04-09T11:00:13Z
 webUrl: "https://azure.microsoft.com/blog/microsoft-receives-2020-sap-pinnacle-award-public-and-private-cloud-provider-partner-of-the-year/"
 type: article
-quality: 48
-heat: 48
+quality: 0
+heat: 0
 published: false
 
 provider:

@@ -5,9 +5,9 @@ excerpt: "Today, we're excited to tell you about even more capabilities that can
 publishedDateTime: 2020-08-17T02:00:30Z
 webUrl: "https://azure.microsoft.com/blog/build-resilient-applications-with-kubernetes-on-azure/"
 type: article
-quality: 77
-heat: 77
-published: true
+quality: 67
+heat: 67
+published: false
 
 provider:
   name: Microsoft
@@ -20,6 +20,6 @@ provider:
 topics:
   - Azure
 
-secured: "OmlBXTICPusA/dapxS+XBskHZ6DXohY6arnKdnHyGKU2hln3dBhnJMGmD35BCbTenSRncW5/G0gU+4KrYiYPbwglQRdxd0KGPAQMq7npqwYu66B61XT2ktwj9/dyZ6lmOAcWeQRgt0n7jRX7rsQ1Yrd0BNtF5WcZUMVKRK7CIo2PXRfhxLOYc6h2MLM0SpQmtOZ/G7uYPTeDnkD4EkrPkcBT5G9g9YG1eco1L+3G+njIIelsp7VtwCDgLH5UmRBt3+LZ75nL/OLSkKYYzWfMfaasJ22MEuXrwG7YjDlrjgFu1HOjxtGMgEojJ+DD1nBgYmZCwI4QDM9ZaFRM6kYRzA==;x9VluXJXYq0LFtn55Q04kw=="
+secured: "9M5hPc4oGNAd18C2ovIXN35P4SskLkb+94uA4uS0uY4ab3NORIvUOucUYzp3I6Ges6q2ovS8pI/VYP1RmLqSnEXx3uLKbJjHk4ulnFDyUaJWMAoJEQBHxO695bVeh99LZEqdXEudTN/FFiIWcLo9SQEpqZqP3hxnnrkcZ04aSi/R8qj2odngsEumKMBcyHmrYz6cCcA0SPWMbBwKnE2tVlBfshRV+OIpqd3SSRX5Tiygj22IfVQHOpXFYkoWk5K8bf6xRNRXSLRM5LQWovZgH7aYDH5BjL2Axj7eWYniikna/ycUSuvYA8gxC9cTwGQPMHvH9+tBE1GaYBXBwDlC6iM3UIZTIG+Vgm1JbcrJybs=;ZWWSnoa00C4xWM8PQhYgxQ=="
 ---
 

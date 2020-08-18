@@ -5,7 +5,7 @@ excerpt: "In part one of our two-part series, we will peek behind the Azure.com 
 publishedDateTime: 2020-06-24T09:00:15Z
 webUrl: "https://azure.microsoft.com/blog/azurecom-operates-on-azure-part-1-design-principles-and-best-practices/"
 type: article
-quality: 96
+quality: 86
 heat: -1
 published: false
 
@@ -36,13 +36,13 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 97
+    quality: 87
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e5be3fcf-fcf4-46ac-8dd8-2e85399a3716.png"
         width: 1024
         height: 713
         isCached: true
 
-secured: "Lc6EgcWhxwYMxU0I9DuEZ7eFMEr5jT+korcRPsJkja4+UbuZ55SmDUYRwjafrv8ae4tNAEXHvnisdUCOMwA4NjIpZWGASLQr/Z4NfNXO4yKzSKfGmdlBO5AL6tRcrgHjJKoWn96DND9AO4xMQKp2oeg6+W5TSu1IKR175y8UdcpKsF03Y1Jy9Kb7IoLHPtcDWRFFa5q8WX8lWiiS6TGsnyjB+HKWA4Z+Ky/63lv0Jm/f+eH6ghe8Halfcgjj5pj7gQ1KpR1zY6qM8SK3I6ShA3mzZCWnUs61Bu0g5/OpWABAagrCzf8p2ABR8ur41eoRsRYnQzdmLtn03LcgVVevUw==;RuBIc28wZIN1KIuxuqabHg=="
+secured: "Xb/gAW180achjVs4tRGqnHF0OR1SPbwqpDY3YAyU+OGZt30PlFZQDnV4SLub+11iJBcb9xd0/WZ4xmtaFc79zTvdaQ8kcQ7Cf2BixbUIDtDdbpWxBfyLQ6wLg46RNkoyoHsGjmexPuJ8CeEGI+f7bFWkq8681zvDtLKt4AmbwHDVYJJpq8O9LOP6WjKO+dS/FgGy2lBDjnt5V9jTXzOwcJhiuRzNaclkylSqfndh40nyHevbvh6rsNkYGXDLMJKn8lv8chI5CSZ7F0OaSbaijVmMUSYsu87VT06GQHqp3smvYvpi1P9lKnw+FaDLdJOwbDaLMocJAYDovmJt7UVZIBZNWVF5uX4aghRO9a7UFns=;LqQEHiHIWEHp78gGPpJdDw=="
 ---
 

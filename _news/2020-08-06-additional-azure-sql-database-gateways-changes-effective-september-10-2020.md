@@ -5,7 +5,7 @@ excerpt: "Additional SQL Gateways are being added for Azure SQL Database in West
 publishedDateTime: 2020-08-06T20:00:13Z
 webUrl: "https://azure.microsoft.com/en-us/updates/additional-azure-sql-database-gateways-changes-effective-september-10-2020/"
 type: article
-quality: 75
+quality: 15
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
 
 secured: "1VOFKu5owo8jkl+k3q85mW8+Kb9BEZbeMOgHZ8fq9IF2DBTFDauv9cFfstYlHcW9ydpTHqnZMLqNX3P3/ZLJ5BPCcxO+dJL5saKQspvt6ztEOf32rRx21wFVu68vvhP+TLsAiR7/o1i98Sv+QwttWdkNwyX/13iAzsPSDuP7Y56SNKWr2OdjZlFp3qiuIeKNSitZ0hY/OfDA90jE7cB7y2orGHicOC7m9N2EwON+oXqjFUS2/X8eAZidrtj74/d+xrzg7CEIcdEoV/AuFdYxZQF+hnH7VrIAnqpO86M3CgYDK3hlnUXLv9FVC7rarCwXlQrn7wAOgSG0Dz25sVOn2Q==;fkkvGJH4DF2d2og0fUuUtA=="
 ---

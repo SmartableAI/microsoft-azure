@@ -5,7 +5,7 @@ excerpt: "Azure Time Series Insights Gen2, our pay-as-you-go IoT Analytics offer
 publishedDateTime: 2020-07-21T22:00:36Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-time-series-insights-gen2-is-now-generally-available/"
 type: article
-quality: 77
+quality: 17
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 100
+    quality: 90
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/5f45b0b1-c717-4967-b855-55833068b919.png"
         width: 1024
@@ -43,7 +43,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 72
+    quality: 12
 
 secured: "yjw5PIgud5/dwTdg/TvNN4WCzE53sLLqylsnxhpFqErgGbrruiSWAQs9S3fxgkYatyoU5ub/YXsC06tkkEAS1zyey0emtVZ2qbr+MGk1gQu4utxiiD3ZrP4m+QrgRPaPXUibnBwj1AYT80dArjUMZUwGman8IG5GXjbbZGK87HQypEZfHuWXqgEbDpple5RpQvUau8vopY5sEuvpi4zI2Ww/wdquERhxzPGElZV/Efhl0YvRaWWxYxQDjNdnLzWUB59fMPKRrGY3dqet8F8gvzZY66OwPCytPZ7nj4BH2xKMCJNNv5McZGhdQFW2Cfo/kN4+qm4fP7e9yyE5et7lmg==;nRM61c3qAPyaFNCOD/jBcQ=="
 ---

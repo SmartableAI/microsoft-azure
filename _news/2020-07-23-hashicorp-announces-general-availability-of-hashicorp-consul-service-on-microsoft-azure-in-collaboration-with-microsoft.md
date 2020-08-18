@@ -23,37 +23,56 @@ images:
     isCached: true
 
 related:
-  - title: "Verizon Business to accelerate IoT solution creation and deployment with Microsoft Azure"
-    excerpt: "... to-end IoT solutions Verizon’s ThingSpace IoT platform and 5G/LTE network connectivity have been integrated with Microsoft Azure IoT Central to accelerate time-to-market and save significant costs for IoT solutions Cognizant is the first company to ..."
-    publishedDateTime: 2020-07-23T13:54:00Z
-    webUrl: "https://www.nasdaq.com/press-release/verizon-business-to-accelerate-iot-solution-creation-and-deployment-with-microsoft"
+  - title: "Inspire 2020: Microsoft announces updates to Azure, 365 and Teams"
+    excerpt: "Microsoft has announced new updates to suite of offerings including Azure, Teams, and Microsoft 365. The new features, which were announced on the first day of the company's virtual Microsoft Inspire conference, are aimed at providing businesses with ..."
+    publishedDateTime: 2020-07-22T10:40:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/356536/inspire-2020-microsoft-announces-updates-to-azure-365-and-teams"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 48
-  - title: "PAF Process Mining Software Solution Can be Offered Via Microsoft Azure Marketplace"
-    excerpt: "PAF Process Mining Software Solution Can be Offered Via Microsoft Azure Marketplace By CIOReview - Process Analytics Factory (PAF) announced today that its flagship Process Mining solution, PAFnow, is a certified"
-    publishedDateTime: 2020-07-28T18:12:00Z
-    webUrl: "https://www.cioreview.com/news/paf-process-mining-software-solution-can-be-offered-via-microsoft-azure-marketplace-nid-31696-cid-20.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 31
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 77
     images:
-      - url: "https://www.cioreview.com/news_new/sliderimage/u5ddc.image300x350126564.jpg"
-        width: 300
-        height: 350
+      - url: "https://media.itpro.co.uk//image/upload/v1589991053/itpro/Microsoft_apps.jpg"
+        width: 2000
+        height: 1125
         isCached: true
-  - title: "Verizon Business, Microsoft Azure team on IoT solutions"
-    excerpt: "Verizon Business (VZ +0.4%) has teamed with Microsoft Azure (MSFT -4.1%) in order to speed and simplify deployment of Internet of Things solutions."
-    publishedDateTime: 2020-07-23T18:50:00Z
-    webUrl: "https://seekingalpha.com/news/3594431-verizon-business-microsoft-azure-team-on-iot-solutions"
+  - title: "Microsoft adds MFA, identity management to Azure Lighthouse"
+    excerpt: "Microsoft has introduced new security features to Azure Lighthouse and new “playbooks” for channel partners to help manage a cloud practice. Announced ahead of the virtual Microsoft Inspire conference, the vendor said the enhancements were a result of ..."
+    publishedDateTime: 2020-07-21T15:05:00Z
+    webUrl: "https://www.crn.com.au/news/microsoft-adds-mfa-identity-management-to-azure-lighthouse-550706"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 37
+    images:
+      - url: "https://i.nextmedia.com.au/News/crn-14_microsoft_iStock-1191485295.jpg"
+        width: 1400
+        height: 900
+        isCached: true
+  - title: "Microsoft Azure AZ-900 Dumps and Real Practice Test [July 2020]"
+    excerpt: "Microsoft has updated the content of the Azure Fundamentals AZ-900 exam and you should prepare according to the latest changes. Candidates pass this exam to verify their basic Microsoft Azure ..."
+    publishedDateTime: 2020-07-27T01:17:00Z
+    webUrl: "https://www.wrcbtv.com/story/42327221/microsoft-azure-az-900-dumps-and-real-practice-test-july-2020"
+    type: article
+    provider:
+      name: WRCB
+      domain: wrcbtv.com
+    quality: 37
+    images:
+      - url: "https://ftpcontent.worldnow.com/professionalservices/clients/wrcb/WRCB_BrandImage.jpg"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Updates to Azure HDInsight"
+    excerpt: "HDInsight now fully supports distributions of Apache analytics projects in-house. Plus, in the coming months, we’re launching the next generation of HDInsight with new and improved features."
+    publishedDateTime: 2020-07-21T16:02:26Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/updates-to-azure-hdinsight-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
     quality: 17
 
 secured: "oNPCpcwWrxD3pyhUHE+2x1bW/D2jBbm4oVBzQyjFppyoTK95tNT6PI+cPuT9FQLljUfqxicuBU21AI+7BksC0W4w7cnq/6B8YCwQmzKXmge47a8I2FRvXexhJNZp92WH0MMS8Hqu55lYXPcFOr4h0aFlIXFxNsZYAcuppMAcN5BVe2idBhX8Um6DIx8DhWxrwG/ueRHyHz1QScpaYLZCb7J7qquWmzT4eiyd8dT6aSkUzPW0YKYVYjUoFy6xOxtacDdbiE9ZWWU7otQFy8rWM967O8805MP0aBBORzfb3QG4f9mYUIYkE+J/LNP+9TVGeEfyEi8zZQFn4A6jqVs4jQ==;FNkM8H8RN6TysmiN9gxEJA=="

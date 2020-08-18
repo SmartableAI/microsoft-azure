@@ -5,8 +5,8 @@ excerpt: "Azure Service Bus simplifies enterprise messaging scenarios by leverag
 publishedDateTime: 2020-08-05T11:00:02Z
 webUrl: "https://azure.microsoft.com/blog/announcing-preview-of-java-message-service-2-over-amqp-on-azure-service-bus/"
 type: article
-quality: 74
-heat: 94
+quality: 64
+heat: 104
 published: true
 
 provider:
@@ -35,7 +35,16 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Simplify and Modernize your Java and Spring workloads with Azure Service Bus"
+    excerpt: "In order to provide Azure Service Bus to more customers irrespective of their application stack and application ecosystem, and in keeping with that vision, we’re announcing feature parity with Java Message Service (JMS) 2.0 over AMQP."
+    publishedDateTime: 2020-08-05T16:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/simplify-and-modernize-your-java-and-spring-workloads-with-azure-service-bus-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 14
 
-secured: "bodY7GVFLtaoIL/BAOPo4GFIidqff1p60Uri+7M3e1zY6X+7jS7C7ZbKjrAmdcba+Mygj9jO0QjWJaXIhBn+08WisUSvNaOcL/m4oKp2c7VoYKva1DSmgnWTiIHUHFPQfw6mY3w4YlKxZtVPk3wxCH2wsUVnXjbvATETVUjN+SszvYgEVUySXUAld5PSAquzasYGF6zWXrC3vg7NJ1wxu2JbHBp1GihrUPHoc1S8k9eEkpYe9OOD3EtiAOwIwVBHEr2JF0w1Ji+/ZADIj5MD4oSLmKvk+fEEPimB3GaU9kqhNSxhudnR1gvu5rLeLzL28lGrVkqUMoinUMWKgrZRtg==;Dv86gLD1WAqV3HCjhLC6mw=="
+secured: "89d4+kcSTyaCHoX+D8AKobR6EX3AsZgCl7G5Pbv2PAxx5Wc0GgMtDKZdWIq/yd4QjXPpXPKg853oQrV8hEJTLUXmw14gGWsGnAKOtd8KDvd6OodBF5uwNLWVrRTR83RSvCqtRonXG+lIGh8E7ZaTT7EJc+QpuDAUzjw/UmFerRGbH3QeZ0SJl7OYL0PDlDVtFmRmB/p0n+NuXIxN90F3PGFN9bLWqygJz4gD+FtCVn2bGFu7+LR9ncUv/RfPulh5LJKmAZZ1PHHjeNQmQUI+OHCZhBX31+FUBfkBjbRLkCOVmU1KGSat5c2u6+812Fe2JCEQSNPmc1i3s2UvkOscQJfDzbIDa+fxDxNWAlJ462s=;uk1JWI6247jIXH7z4fM8Bg=="
 ---
 

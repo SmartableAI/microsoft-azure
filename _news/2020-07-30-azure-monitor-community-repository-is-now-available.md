@@ -5,9 +5,9 @@ excerpt: "Today we're launching the Azure Monitor Community Repository, which pr
 publishedDateTime: 2020-07-30T17:00:17Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-community-repository-is-now-available-2/"
 type: article
-quality: 97
-heat: 197
-published: true
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Microsoft
@@ -35,7 +35,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 82
+    quality: 22
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/8b48b085-0d0a-43b2-a856-ce5947f0938c.gif"
         width: 1920
@@ -49,34 +49,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
-  - title: "Azure Sphere update 20.07 is now available"
-    excerpt: "The 20.07 feature release contains new features for application development and tenant certificate renewal, additional promotions of beta features to long-term stable (LTS), and enhancements to improve stability and troubleshooting of device connections on Windows platforms."
-    publishedDateTime: 2020-07-29T23:00:32Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-update-2007-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Audit Logs of Azure Monitor logs queries now available"
-    excerpt: "The Azure Monitor Logs service allows you to collect telemetry of all types across their entire infrastructure and query this telemetry to collect insights. We are announcing a new capability to collect audit logs about query execution."
-    publishedDateTime: 2020-08-05T16:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/audit-logs-of-azure-monitor-logs-queries-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure Advisor Quick Fix is now available"
-    excerpt: "Remediate Advisor recommendations at scale more quickly and easily using Advisors new Quick Fix feature. "
-    publishedDateTime: 2020-08-05T16:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-advisor-quick-fix-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
+    quality: 17
 
 secured: "WBg2U9xUA5KCfKTt9XhVThDoOfuXiHYY3/ezdSz91AOyXdl0bLMw8AHVTCZoyK+Eyoxj+/Q3O5Zjr9/a8Iu+gbOLBKyrDnpnAfzb+tCzY2pXdifbxTeAuox1Kq7ZJ5ePr0Mv3SuiNssrF1vdtvF83XAZRhBfY5qjbSWrrluMF4TnN21J/I94cncnPiXiYw1IdTH+HQGbFRjl5ezvYH1nAViNbDTArdAjrU40/k4Qdy8PKqE1QYWDkzxzSn1QII2Vr268Kg9tJ5qgKeDdOKdsvHXYEnOCJyk8DuipBCM7QeaIqW5N9cnbEhWqmMdW/22ZkLBNEJcvaQbefsjFciK0qg==;wANcGcRyr7UQIOeNib7oMQ=="
 ---

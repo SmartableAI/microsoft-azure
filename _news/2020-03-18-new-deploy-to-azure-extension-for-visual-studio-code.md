@@ -5,8 +5,8 @@ excerpt: "Organizations and teams that adopt DevOps methodologies are consistent
 publishedDateTime: 2020-03-18T10:00:05Z
 webUrl: "https://azure.microsoft.com/blog/new-deploy-to-azure-extension-for-visual-studio-code/"
 type: article
-quality: 101
-heat: 161
+quality: 91
+heat: 151
 published: true
 
 provider:
@@ -38,7 +38,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "New Azure extensions for Visual Studio Code"
     excerpt: ""
     publishedDateTime: 2020-05-19T16:05:40Z
@@ -47,7 +47,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Databases extension for Visual Studio Code"
     excerpt: ""
     publishedDateTime: 2020-05-28T16:00:15Z
@@ -56,8 +56,8 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
 
-secured: "oL77pFz0K/WcCoCeSZ7ivGAInm/TNMt7tg6NDpbprytIe+lfh68lVw9W9HJABU44/Kwoo0IBHW4dteO05t8NLtaf23eo6qZ8pAXIETJwTI46VJCR6Nbo6TyZtDHMdey0DOTG4KHiwZbqMpHX6xNsPTMVPvy6UR5U0IKO9H2OBcd+h7P8Wrn6B5jaFPnbPj5sswyfQqHLdIMFHeR7Olgy55Gj8CveTBg0yDKl87a07nLc8ZFMSiAf2ALzih0E8qbKOH8N3cMOSRQX7HMpbDNKikJol1Y9Qi+bG8n4r96nwSo4Z8rCz+53p9SrSRPaqUZKGqJkF0szWn+lf6dANQrCpQ==;lqbmWQqIP6V6KK+ezM5dcQ=="
+secured: "5DnkYAbGnLr4Q/M9Oz3pLTK5bwyiIYPzj14thGhSXKNZOBecGm/I6MSRDNRngTltlbnBvIfgpClhbd9pGPeuVx/to3GNTgSMuSCWXw51ofk3Cgl6BdvIV4B4iCGM3PvT0pgbig7X5nVzo699tXN5QZw6W2Va9QKgXhGnwfBeoky9qUc818DjeqTusOHmjQnuI7A8tDjWRJXAcwwCrq6Q8q6x4SH18YYhFqYh3VEVjijBX6755pe723GC+26lFT31Wh25S2WU/b7kiFM3LWoZTh5liiwfuO+zIa8ePGnq4p4Aft0B82dndCd1l8qIsa6Gr0z/khYNbm9Y+fklwD00dsAT3JPc0cASeG2DgDN7ed8=;3yZuG2O0IY9r7vyOwI/MdA=="
 ---
 

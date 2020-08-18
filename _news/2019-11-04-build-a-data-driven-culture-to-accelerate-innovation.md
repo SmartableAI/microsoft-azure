@@ -5,8 +5,8 @@ excerpt: "Organizations today must embrace a data-driven culture or risk being l
 publishedDateTime: 2019-11-04T06:00:18Z
 webUrl: "https://azure.microsoft.com/blog/build-a-data-driven-culture-to-accelerate-innovation/"
 type: article
-quality: 66
-heat: 66
+quality: 6
+heat: 6
 published: false
 
 provider:

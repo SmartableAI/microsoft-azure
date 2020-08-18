@@ -5,9 +5,9 @@ excerpt: "Today, we’re announcing the general availability of—enabling you t
 publishedDateTime: 2020-07-16T09:00:39Z
 webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-shared-disks-and-new-azure-disk-storage-enhancements/"
 type: article
-quality: 68
-heat: -1
-published: false
+quality: 58
+heat: 78
+published: true
 
 provider:
   name: Microsoft
@@ -31,22 +31,13 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 81
+    quality: 21
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/28a170f1-dbb3-48c7-94f9-6a58f943615f.png"
         width: 1427
         height: 840
         isCached: true
-  - title: "Announcing server-side encryption with customer-managed keys for Azure Managed Disks"
-    excerpt: "Today, we're announcing the general availability for server-side encryption (SSE) with customer-managed keys (CMK) for Azure Managed Disks. Azure customers already benefit from SSE with platform-managed keys for Managed Disks enabled by default. SSE with CMK improves on platform-managed keys by giving"
-    publishedDateTime: 2020-04-02T08:00:22Z
-    webUrl: "https://azure.microsoft.com/blog/announcing-serverside-encryption-with-customermanaged-keys-for-azure-managed-disks/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 74
 
-secured: "68Rc1vDFgiFkGnnpRkktwS6BwFe+Wb8N8TZnCS4Lxn+AhD/toWbjKCMXGwnY3z1exwR4pkPzaCk3NK8ohw2p5qc6GAzup2lC2B/OWci20b+TFSIlDW+fkJjJu/EBTMzrApDlGUDhXZ3Wnl4Ir6HazlsPULIBWw8K82I3zKbZ8Zcsz77pOBoe/clsr0xm6Uo9FhjmQeIEShwb/JS/ZX8dZOgHXiDERl0hX8JL/hRBpPJi8zFaqBa4d/o4PC76qwWDnNVCMa35Qaiqviw5mhTR/OIKXoeV3w/qxc64pFmcGBuLHMD1GNod5jwqgQVVeXRC20Xrf/b1MoxrdFrWPJdRvw==;eOsKLQg3INzQfaogmZO+EA=="
+secured: "OQlBqqkjO5h6EhRaBqVCOBaWVKRjY/vV8eCdt8TVuGXPQYRoraD85agNzIvjMxOxPVNM3kMDG4WcmFarXNUFj9znloVF32mtt8ohifqbHYXmzcNjSp2YuXrP9mHsNerIIOx0+kz4i8g90oypmgi4K+/5UcnIRkoHjCVxUtS/jUZRY4AMMV4iyt+lRfc3I+L/sFduwRz8LpTtC7Nah8C5f2UW92LpDxIZ3M50zBUkp2EhGD0neRbhmrGgM/XfzQGIaPDNNvWSHiiAQknYLGufKWJrz1OUNfQJPYn2ErBPfkrJV6O9d2Uir9p4knrVYCRsKT2IblF2PERwgUitgEADdH73RffWOMfJh6qYa1kQSx0=;AzFntdVUyNrj+ZKMwCzxBg=="
 ---
 

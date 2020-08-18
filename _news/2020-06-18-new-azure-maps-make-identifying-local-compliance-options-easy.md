@@ -5,7 +5,7 @@ excerpt: "Countries around the world are placing more compliance requirements on
 publishedDateTime: 2020-06-18T12:30:29Z
 webUrl: "https://azure.microsoft.com/blog/new-azure-maps-make-identifying-local-compliance-options-easy/"
 type: article
-quality: 99
+quality: 89
 heat: -1
 published: false
 
@@ -37,13 +37,13 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 99
+    quality: 89
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/9475f076-c845-48ff-85ab-3ee29228207f.png"
         width: 381
         height: 480
         isCached: true
 
-secured: "CHDMwOyn8MFwNk+wCWI24oUU1UEnDe4ePn1hnKsDYsWhUKmPThn8ESZG8M9rNdCt4Qod+QYZObGDe7DRLpRtRuY8Na59noiszg8i41drNasKT5vQCrbPfZzAtgjky0t33ZeL7iGsIre4o23Fs5wE+rgv5+J5Hln62EP0tBnw1gVqilP75PpjI3hNXyXm2SOWbKxmS8cEMVPcXR+NVIYsGNJZwMMqrfArkKopZ0NuB/QfDKY0rH+dHGk8a59C7cX7ggUKy5bPbx6YOEdGDQEn+NLMU/i44QFlLLD6ydcBI/XS6fJNJix5D+Be8DFriZUTaDyH3AdoJGIurQNn34BLog==;RCNJZFXuzw1K85GlrBxo0g=="
+secured: "VjKl1L43g2BRIevTOmaKNpu6xeSkj/URHqUvWeeeFpzZWvK6Tn0dTx++nz34hWn3Rb7c8FHO6AEulso3JYEb8ktK928zCMs62o/Ope8jY7tT2NsVAtBT4h1/ZBQHJJbSFKOM1+Pt7w1zBTvGvK1ytin22GzvZWgcw28EUlfFoOuxhc6f6PTX1AQLgIwxL+1NqcbW2nOo5cAoIeCt9KVeA32ofr4g9cuMOINbcXnK2U7hB84mvPPJs4dvwrFYld7NTA5VnuiW0Y5FzNzzoQhsKFIWPCno0Xp7L0EV1YNAgH5m1a+Qcm6bicoxUHi/y8WIR2LTcGDE/BgPCdCzCK2FMSJa0mWSI0+NXisqGmR2Y0g=;hBjResRV9sTrBZ/7eNL6Jg=="
 ---
 

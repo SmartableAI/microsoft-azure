@@ -5,9 +5,9 @@ excerpt: ""
 publishedDateTime: 2020-06-09T21:00:02Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-service-fabric-71-first-refresh-release/"
 type: article
-quality: 77
-heat: 77
-published: true
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Microsoft

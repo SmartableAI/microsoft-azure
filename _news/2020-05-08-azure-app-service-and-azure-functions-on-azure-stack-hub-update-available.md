@@ -5,9 +5,9 @@ excerpt: ""
 publishedDateTime: 2020-05-08T22:00:12Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-app-service-on-azure-stack-hub-2020q2-update-released/"
 type: article
-quality: 76
-heat: 76
-published: true
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Microsoft

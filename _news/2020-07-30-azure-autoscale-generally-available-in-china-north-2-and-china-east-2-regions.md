@@ -5,9 +5,9 @@ excerpt: "Azure Autoscale, which allows you to automatically manage your resourc
 publishedDateTime: 2020-07-30T23:00:03Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-autoscale-generally-available-in-china-north-2-and-china-east-2-regions/"
 type: article
-quality: 74
-heat: 74
-published: true
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Microsoft

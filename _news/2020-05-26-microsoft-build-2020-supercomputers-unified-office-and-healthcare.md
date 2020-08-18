@@ -44,20 +44,6 @@ related:
         width: 732
         height: 435
         isCached: true
-  - title: "Microsoft Azure Active Directory (Azure AD)"
-    excerpt: "There is no shortage of online forums to help troubleshoot Azure AD. Virtually limitless integrations. Azure Active Directory is a cloud-based identity and access management service that covers a broad range of authentication scenarios, user types, and developer authentication abilities. Its single sign-on makes for a seamless end-user ..."
-    publishedDateTime: 2020-06-02T08:35:00Z
-    webUrl: "https://www.scmagazine.com/review/microsoft-azure-active-directory-azure-ad/"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 37
-    images:
-      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/06/Microsoft-Identity-Mgt-Image_June2020.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Microsoft Build 2020: Highlights"
     excerpt: "Microsoft held the 10th edition of Build, its annual conference aimed at developers using Microsoft technologies. The online event included multiple important announcements and releases, such as the general availability of Blazor WebAssembly,"
     publishedDateTime: 2020-05-27T10:07:00Z

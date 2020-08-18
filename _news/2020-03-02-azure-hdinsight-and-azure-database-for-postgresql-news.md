@@ -5,9 +5,9 @@ excerpt: "I’ve been committed to open source software for over a decade becaus
 publishedDateTime: 2020-03-02T10:00:11Z
 webUrl: "https://azure.microsoft.com/blog/azure-hdinsight-and-azure-database-for-postgresql-news/"
 type: article
-quality: 79
-heat: 79
-published: true
+quality: 69
+heat: 69
+published: false
 
 provider:
   name: Microsoft
@@ -21,6 +21,6 @@ topics:
   - Azure
   - Databases
 
-secured: "wk/bVX2Qjm2iW0W6awSYPqamDw68oN/cg37C3HjYu4mrCOujx13k1osJ5odSgHjYp51bO1E76TpFDMRj4EzMhe47Ude6lL71V9GogDjM1L+i/ZwEdvix1ZNK2yfu3hjSFHVazRR38TZV1gQDHNxkAlvYG9yySdup5JQEJT5yZottnnqnC2F6P+LoDw+WPHdUbqPKpgQ6pdcosnnCUlFvaTHC/3BlZrNlTelBqnx8if4kQmgxTGLsOgF9VoqC+47W60nipb/1yWxUWMKbz4elAsh+VmGYruJbEcq636LbyedzeW3B8XW0CbOeXQyIV+wTT5CVOjK1UqGW96YfMOWeEA==;uNJOUms2/xBIQ2g/+w4KgQ=="
+secured: "xvCdSzgvJzIxCBv1XOcbPNPnhNJyTNMfXmg6d/fOKcL4p6NH5vJPH8Ldrp4/GtQ/T5aP/T7mQAsKxuQc0oVDyKxehyxGTDSWN5XjCXTKEZXsxR3PU3Tn6k/K04KBUlFEU3SOmZXn+bfYWT4c/PytF8bECERoDJ8BS2BFdB/ZCJS4rE3manNZwz8FT0RWlPIYzCMrSHyqsN8ldg40ctR4PVhSbJt0bVQm3b+X1srcg6EvraTKD1g17z8k0Vu4MfqAVwD9YLnO2LhvQv6Z1uxlHfGaZ9GiKcMCmUXEOWhdubUoUglwpcZdc5o5JyoRK3KKxYT5s8MFowDpWY89c30YZUXpbnCeZPIQIA7p43AJFw8=;aTfNTMbuLBBE7EBnYV6qKg=="
 ---
 

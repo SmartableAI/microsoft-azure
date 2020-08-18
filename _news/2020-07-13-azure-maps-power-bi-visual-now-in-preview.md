@@ -5,7 +5,7 @@ excerpt: "The Azure Maps visual for Power BI will be releasing as a preview this
 publishedDateTime: 2020-07-13T09:00:01Z
 webUrl: "https://azure.microsoft.com/blog/azure-maps-power-bi-visual-now-in-preview/"
 type: article
-quality: 103
+quality: 93
 heat: -1
 published: false
 
@@ -38,7 +38,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 114
+    quality: 104
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e5a083c8-5be0-4b4a-8878-bf65fbf877f9.png"
         width: 735
@@ -52,7 +52,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Monitor for SAP Solutions is now available in preview"
     excerpt: "Azure Monitor for SAP Solutions is a new Azure-native monitoring product for customers running SAP landscapes on Azure. It’s now available in public preview in US East, US East 2, US West 2, and West Eu regions."
     publishedDateTime: 2020-07-21T16:01:22Z
@@ -61,7 +61,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Monitor Logs connector is now generally available"
     excerpt: "Use Azure Logic Apps and Power Automate to create automated workflows using hundreds of actions for a variety of services. The Azure Monitor logs connector is now generally available—use it to build workflows that retrieve data from the Azure Monitor Logs workspace or Application Insights component."
     publishedDateTime: 2020-07-21T17:31:27Z
@@ -70,7 +70,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Java 11 for Azure Functions is now available in preview"
     excerpt: "Java 11 for Azure Functions is now available in preview on Consumption and Premium plans for Windows and Linux."
     publishedDateTime: 2020-07-21T16:02:46Z
@@ -79,7 +79,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Performance tiers for Azure Disk Storage are in limited preview"
     excerpt: "Azure Disk Storage now enables you to set performance tiers (in limited preview) for a specific duration of time based on workload demand."
     publishedDateTime: 2020-07-21T16:01:37Z
@@ -88,7 +88,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Private Link support for Azure Automation is now available in preview"
     excerpt: "You can now use Azure Private Link to securely connect virtual networks to Azure Automation using private endpoints (in preview)."
     publishedDateTime: 2020-07-09T23:00:06Z
@@ -97,7 +97,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 75
+    quality: 15
   - title: "Additional Azure regions for IoT Connector for Azure API for FHIR (preview)"
     excerpt: "Azure IoT Connector, a feature of Azure API for FHIR, is now available for preview in additional Azure regions. It enables remote patient monitoring, telehealth, and clinical trial scenarios by ingesting health data from medical and non-medical devices in a secure, scalable, and compliant manner."
     publishedDateTime: 2020-07-21T16:02:12Z
@@ -106,7 +106,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 75
+    quality: 15
   - title: "OpenID Connect support for Azure App Service and Azure Functions (in preview)"
     excerpt: "A new capability (in preview) allows you to configure your Azure App Service and Azure Functions apps for login authentication through any OpenID Connect provider."
     publishedDateTime: 2020-07-21T16:02:33Z
@@ -115,8 +115,8 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 74
+    quality: 14
 
-secured: "ZF2Wcoppw/KgeZudiHx/aqlObAE7Nb9+qTZJQZzWTi1DVfJ4dhX61VmmJlZCs9oU4aBiwbPGzxuiX5x18znknjUwxmd2P511qlRM6Nokqmv4WbxjFta31g4gSuS0rRuOiA98VB+qcmJp/lkEFsyeC/T8XfFpc1u8lZidlHV7elaZg+cQGtVNDFINAWMNkJQ3gXofxCMamrutNkZdNCT2ZAheIZsXUIGQSGoOpRl1ChYJFP4scxcJFrCnHdGchw+c1aCwFlJsqJguL9+xKZ17ltrLpYx+AR7psbpxZH6PCa2oS/q15aNVIA/Jkt0M8LjtOOwEBq5dVuSQ4p4lxRZ/Fw==;OvJ3C9RUCqpcuDh74c0klw=="
+secured: "JTY0qRTCm21YIN8lrGTYWozVjcij6gm67enNQqhFm802XRjONKMul4rJ6nKfyOaS/xaxo3NjTYVU7CmjHNXMXkTJaNKE9lOIERmodEMsjnysDNJ10VIWwSFvOP8nHjs8iaRdrXT+whGyaM5Gnln6gKjoYaGW6T9vTI+lZByOJ3ljnJzTt7BYm6Cp4f8rmulsTsRTDceopPfe7JvKVSbdiov0ICdi9Ie1vU8xcRL+Er+5XbMTXIwSPHxCp/67ajaYx2dFGcG2AD+h86U9lt98NRnjXjRkZPmEMRKz9fZn+tlq/wwIZ24bjVlObxwTLpOlXsmaCOIXeaVM6TCSZtHSCf6qJohXuECeqvKDBpzeDOY=;nuP2hIRdqyQhkCrWMO37tw=="
 ---
 

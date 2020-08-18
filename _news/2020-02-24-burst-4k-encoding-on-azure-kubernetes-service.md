@@ -5,8 +5,8 @@ excerpt: "Burst encoding in the cloud with Azure and Media Excel HERO platform.\
 publishedDateTime: 2020-02-24T11:00:15Z
 webUrl: "https://azure.microsoft.com/blog/burst-4k-encoding-on-azure-kubernetes-service/"
 type: article
-quality: 103
-heat: 103
+quality: 93
+heat: 93
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     isCached: true
     title: "Burst 4K encoding on Azure Kubernetes Service"
 
-secured: "3i6V8QtI3OdxNp3cyoy6LOKQlxnpGDCtRDlF/srp+rkRIbZNphQjDKTcfVPW9HhMB1PlhVSbfXeZJCtXgpO86XT10AvW7/FI8/5F1kw24Mi+wRk6vEp2VRthH/bLJb1qVmgb81eCnR8IN8HIaLeidORzDbKU9+L7XbGoF5nHk6vI1D7R1T5mm445z7b3OZF11MM/g92mHfW2zwp/VCosZN99NeInk20Jw3nD++ueQAvGXMtR/7D1OyeuGeSbY+L11p96xTj6nRM96hCkBcQ1cGjdYpTX1XMcgJKBcLlCIHmSXpIPCFMzKoAvGmlYL2zK9xQEOmlMg0vRoObVdenB4A==;eOyhmRN06AfKcZ1tp38vLA=="
+secured: "p8B4ylIOa2gFOMDB0M14GvcIWOsEIs3UCQRtd0yzzb2rqzGlOTFtnQajMcekaPMmfsiypNWkvhbYkxUj8A6M8x8uJAtQqLJXz0qLKKXzls1Ht8Q94q9swf27yql7dNJc/x9NLYrBLTKUGxeNRfCUKwyT9JniVYBJUUrajFPUoGPbEQvU+ayX/5Jl+b1gGZKY+S0tfaJTAhaC09jaEdw5gRSNzX9rRen7/U1/RSanlC1/jx0o90i2WwRlCarr1IxtzLHzD7b86a80OvgXtlcps26L5FCwHqGjH46gP1ytASJQRfLoTbHHHBJlsggzdZhMpYVbm6m+Z7WVk6ZwFCVPWMopiSJxSecAzvCF5ODxbJQ=;G2e3Vu5g/5k5vgwY/17IrA=="
 ---
 

@@ -5,8 +5,8 @@ excerpt: "As the world adjusts to new ways of working and staying connected, we 
 publishedDateTime: 2020-07-08T08:00:52Z
 webUrl: "https://azure.microsoft.com/blog/azure-ai-build-missioncritical-ai-apps-with-new-cognitive-services-capabilities/"
 type: article
-quality: 94
-heat: 114
+quality: 84
+heat: 104
 published: true
 
 provider:
@@ -44,6 +44,6 @@ related:
         height: 1365
         isCached: true
 
-secured: "EWIW8VD1T3vO6r0xfIsY1rD3ZMwn3OqkZbYFXT+ybc1YAcLNYPLQHERUoaWCfOyCsVY2xDCM2Qpd4sd23pH6hZ7G6CjYsImre031ZFtO89LnDOcNBwPTp0Ln9U6EaX7Eyh2Y6MePmODoweCLsucbZOgPyshhEj1Rs3NIJ0fqkvb3AWcSS1VDPCcioMXumkuabtskoavmZ+UOh8vcSCSJ4PzPlUMYkmLE35aCBcnGYrUk7ghcALiFwcEGl2EGX922oa1Vb56gGUpNTqRPzOxpd/k4xpmVq+83rrkTr5p42C/UKJJcychKXmnlQkVNmViEglm/QVbzEGrgeUqh0vaTUg==;/8RCDULVVMFmfZ5ILJAzBw=="
+secured: "fuE0vl9Sj5M33Uv/feGmoxXurWXf3uJnB83ARmMB8S6btODlUMOnLFj6dK0GFYjqGnAbr3SBnz3ewbzpT/lpMB/LrSUsg80bJK7YDZ+jiCYASe0Ab3/Z3P6UZtdS0fVFhJI0H2cH7WrtJOGowpdeiEfkuLIS2/YUeg+HTSbsoR8K6y7aPvMhjRcBMO+1w55QRe0f2OEw5VyF/3eiUjL/1Vi9TMTYM7uTx5HoNwMa9KeXKrpaNKVKvsiJQe2FqJM3G4E3XR8PYcNd/o1ELAs49nGdvqfL9nCulBreaM5jFq8M2pcMD+cmmSTuPdSdwRUOLjJ082vnNR6lELRVpYlngguarcfxKLwrSl8e6Gnoxm4=;xb69cWOStGO3d9swf3EwcA=="
 ---
 

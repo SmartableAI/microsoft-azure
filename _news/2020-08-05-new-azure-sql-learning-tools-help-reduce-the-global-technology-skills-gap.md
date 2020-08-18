@@ -5,9 +5,9 @@ excerpt: "Across Microsoft, we are helping a new generation of technology worker
 publishedDateTime: 2020-08-05T09:00:41Z
 webUrl: "https://azure.microsoft.com/blog/new-azure-sql-learning-tools-help-reduce-the-global-technology-skills-gap/"
 type: article
-quality: 78
-heat: 78
-published: true
+quality: 68
+heat: 68
+published: false
 
 provider:
   name: Microsoft
@@ -21,6 +21,6 @@ topics:
   - Azure
   - Databases
 
-secured: "AMbRpYsj2XERSO2xnzwIgP6NAeNshDktufkZQo6oVv50v2AVdNhkLBTdBO7/G/nDvj8mmtKF3zQzNzyHgZRvyeK7vHiko09tluaK91RjPRBvMc4IvOjU4b3g+H7az1KcLKv+/phaQzUVDZkTBNHfJTwM+M491qvT938OFTtnPSs9Hq3KR4D8U3Yfgm9HfX3PTzBKmokPYsgUUZfFry9R7HQlSkWUWTsaxvRCh/NcmJVBjd5trTIZ8MZB7oKGvUqkFyguWsP9/An8IQy06M1KodRny3/OpTJjWdRXePZkD7yaxS4Fz32T4HHu1FX0My8VGSX8+K+iQbZeWrZUJiLLVA==;Qp7G6K5LSNP3aOXl0eGDfQ=="
+secured: "SsYHekpYFuV+oeguRP/Txh08KcM8dIDXr5TU3BB9dyKsqdhrJfCrTskR62tMR/A8mSZ/aDuNkAzxlDsiacuP72/WtjpIH/r3fTF3L9F+n7TzbrJ/QdNHEBGNZ1tUsvO2QmBNfrFiamMUUzel60Lk9F3h0LOn8X7yXDCUzWDE35GS+dOTYt4v4RsF9/zx/KhmIgn7GYJOYYPAf41RZ3SKfpe9+Uevsv0z0hFAepgSkOhbtJ88iziKwqFJuAa+srb5dvJ8YVb5rxcTNmf1KgtoOFiDR/pS0oNShwF+yL1rWTWeIpXn6BM0XvairHK+nN9rzqr7fasqmmW9XTkJ7bo8+BOvMZJUXW6X5huzUQGSy6s=;GQzqvWxNDOclma8+3l8JNQ=="
 ---
 

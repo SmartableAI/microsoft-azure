@@ -5,7 +5,7 @@ excerpt: ""
 publishedDateTime: 2020-05-20T20:00:30Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-stream-analytics-now-supports-error-codes-in-activity-and-resource-logs/"
 type: article
-quality: 74
+quality: 14
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 97
+    quality: 37
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/849b9325-2b7b-4f90-9aee-4ff7f5e66354.gif"
         width: 1600

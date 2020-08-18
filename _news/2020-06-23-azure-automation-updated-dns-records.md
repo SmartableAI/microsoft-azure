@@ -5,9 +5,9 @@ excerpt: "To support new features in Azure Automation, like Azure Private Links,
 publishedDateTime: 2020-06-23T00:00:37Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-updateddns-records/"
 type: article
-quality: 77
-heat: 77
-published: true
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Microsoft

@@ -5,9 +5,9 @@ excerpt: "Today we’re pleased to publish Data Protection and Privacy Complian
 publishedDateTime: 2020-01-29T10:00:05Z
 webUrl: "https://azure.microsoft.com/blog/10-recommendations-for-cloud-privacy-and-security-with-ponemon-research/"
 type: article
-quality: 99
-heat: 99
-published: true
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: Microsoft

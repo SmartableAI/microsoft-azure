@@ -5,9 +5,9 @@ excerpt: "We’ve released our newest Azure blueprint that maps to another key i
 publishedDateTime: 2020-01-15T09:00:03Z
 webUrl: "https://azure.microsoft.com/blog/new-azure-blueprint-for-cis-benchmark/"
 type: article
-quality: 79
-heat: 79
-published: true
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Microsoft

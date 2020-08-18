@@ -5,7 +5,7 @@ excerpt: "File snapshots for Azure Data Lake Storage is now in preview. Use file
 publishedDateTime: 2020-06-30T20:00:36Z
 webUrl: "https://azure.microsoft.com/en-us/updates/file-snapshots-for-azure-data-lake-storage-now-in-public-preview/"
 type: article
-quality: 77
+quality: 17
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Functions—Java 8 support on Linux is now in preview"
     excerpt: ""
     publishedDateTime: 2020-04-27T15:00:24Z
@@ -38,7 +38,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Data Lake Storage static website now in preview"
     excerpt: "Static website for Azure Data Lake Storage is now in preview. Directly host static content from Azure Data Lake Storage, and view that content from a browser by using the public URL of that website.  "
     publishedDateTime: 2020-06-30T20:00:35Z
@@ -47,7 +47,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Optimize cost and performance with Query Acceleration for Azure Data Lake Storage"
     excerpt: "The explosion of data-driven decision making is motivating businesses to have a data strategy to provide better customer experiences, improve operational efficiencies, and make real-time decisions based on data. As businesses become data driven, we see more customers build data lakes on Azure. We also"
     publishedDateTime: 2020-04-23T10:00:10Z
@@ -56,7 +56,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 72
+    quality: 12
 
 secured: "R0qQqaG8kZQ3rcFuukddB9KWT0J7wHEhowNjFWNjjzW+r8cc2ntKii7mNWDB8uigNdZn+HMZBkEtVg7i/Y5MmWjIuelP7UC26nxNigUC9JWmCyJPW9anFmKeoCxcGNDSCUBzIT5z7HpxwpBIRJ5eyjp7iejdEgu6qW0OHY20XuOmMgEFTs0DL4vkAloKp21wMRe/zHTxzXWXMzuek29KwHWmJVTzGlderZI9MbXLgVmRCET9HjOS4rF42UEbDOO6ObGTs2Xfg3LbvEVWqLRTK70U9MrWcNolmkkQ4S7YqauebaXphlZ2uTU3sIRoa0NRkqbVvL3U/zHnpVAgkxbNHA==;4Z67MPJnZAObOXtXHgur2g=="
 ---

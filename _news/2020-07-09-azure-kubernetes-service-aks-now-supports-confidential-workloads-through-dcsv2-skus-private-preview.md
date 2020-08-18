@@ -5,8 +5,8 @@ excerpt: "Azure Kubernetes Service (AKS) now supports confidential workloads thr
 publishedDateTime: 2020-07-09T21:00:13Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-aks-now-supports-confidential-workloads-through-dcsv2-skus-preview/"
 type: article
-quality: 61
-heat: 61
+quality: 1
+heat: 1
 published: false
 
 provider:

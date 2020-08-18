@@ -5,7 +5,7 @@ excerpt: "Enterprises, partners, and IT professionals store business-critical da
 publishedDateTime: 2020-05-11T13:00:00Z
 webUrl: "https://azure.microsoft.com/blog/azure-blob-storage-enhancing-data-protection-and-recovery-capabilities/"
 type: article
-quality: 96
+quality: 86
 heat: -1
 published: false
 
@@ -31,7 +31,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 116
+    quality: 106
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/92cec444-9b04-4e3c-9250-2af9a918d97d.png"
         width: 1024
@@ -45,7 +45,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "New Azure VMware Solution is now in preview"
     excerpt: ""
     publishedDateTime: 2020-05-04T18:00:35Z
@@ -54,7 +54,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Blob storage—Blob Index now available in preview"
     excerpt: ""
     publishedDateTime: 2020-05-07T01:00:17Z
@@ -63,7 +63,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Premium tier for Azure Data Lake Storage now in public preview"
     excerpt: ""
     publishedDateTime: 2020-05-11T18:00:02Z
@@ -72,8 +72,8 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
 
-secured: "aC2Vq8wCrMd7GTQv/NpN4FgwZvxao95d8HkZ9PtZYaYze4tgMNHb5O7yboWh7iwj9hK2FymsVdfRttoArt4TbjKXVUHUaNAvCcRjHouNIgUPkt6zx43OdS4pp6pPBK/hf2lAKXdGdrvPFaUuhJLkGwmv1kH+U5dqe9zRIz1KuzArlU8EISa4O20XXYYrLeEXQrZE6DdinakjNS83TL5iMzy3ZDVzwYynHMKCuQWh0iUFmeZSBGWFcG0M8NurkR8RmsdbkBPKhsBXgAeSAsFrynUKOE4GweQyfuUlN8uYKpm1K25727yrEv9gg5zJSSAnxAiEj/YgNUgD3Ga6x4ZXRg==;5KOj3yfAxeyKJvmOo2rqHA=="
+secured: "jRysOosDpgSOJ9DBf4oWz2vzHcVnQ7OHk9GkmsuRJVHY6aEp7vQirkuAPVJ17lCDDSo6bW8MHjhLdNJOVaLnODLMd/KlbhTIAs5S4rLbi//FFctCa2U/9E59vN4Mq2eNRACzL+rIuOscKRavXCvgaXHHgqvz1iBp4rR9jXkTpTQ7J9vUkeerQtc7MfJ+gQiHegwqW7MFLx4iYZVAE1oHiQXSEwvw2Z2b6IDoKUdSDr+MobKo16D7TUV+CRPqd/MK+vt5nIJ7E13PKx+rmqITc8OpgDKS+AIQlmVmjZJGkHGLS7oz7SUwRycncEL7lGyM04jnU3M3MtWLPuSw+VXfoVosqlGTBxJ0j4cap/OZR/8=;eSXlrlJ3dywaqjZOSM7bxA=="
 ---
 

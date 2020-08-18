@@ -5,9 +5,9 @@ excerpt: "This post is designed to get you thinking about how best to validate t
 publishedDateTime: 2020-07-27T09:00:02Z
 webUrl: "https://azure.microsoft.com/blog/advancing-resilience-through-chaos-engineering-and-fault-injection/"
 type: article
-quality: 70
-heat: 70
-published: true
+quality: 60
+heat: 60
+published: false
 
 provider:
   name: Microsoft
@@ -24,6 +24,6 @@ topics:
   - Developer tools
   - DevOps
 
-secured: "jsG+D8jiR0vkG7zzKaTZ3M2DavRddYN2xxOvvIwSfoL9Vh9zzwIsuC9Tfq9IGbvx5o40rMvsQDWingrWt0zfgZGzWynLPzYY2Hg33Cr/J+u2yWxLB5+swjVI5vLISNzL8CGU8NoUpDo/pt/4u/cW2jYatN9ah9UA8BP9nvr9nAea4M6qRArDyKVtcvgxzC9+OQp63KozIw5X3/LjBlGkuotvT3Xb7MByE6wsSxmMdIygz8buWw5VrlwAZrz9AlX/K3NOCMl+gvSNFHUwrVSsuZOUH0du20VYYSWeqI1GWVhZxZRSHF9E1PGlZVBhlOBu0aXHx2MZvOjwC1yGILjCrw==;UX/MZ8ERkJvIcqXtFvdgqw=="
+secured: "kfSDqQlb3dJCqIfue46ztwyKPnmTIcGJCJ1yiGl5RE/sA4+kqOL0dnVqethjQe6mbuPzEBBfvz4Pmpq4RK9HcLNeUO4Epop3SrFs4PEd1qiWT74nVHv5Msbn7vcmy5zJ9mFCuh0Ot71HQIHqoeT2rCrZ0T0ilq1b3WvtMQ9OgqOPXg73KRFk9scgWNvdN9kE2mZsp4qm5yCrk+hQ/4NYse9QK86D8CQJlXVMYglLoinRfAtnnH4f44rpwMR691ZytLYfwxES9nREC9wgSwmZmZ0MtXfAyZpiCXimInXFug2zry12MBOsR+M10v0xvUkTH4jPXq/Id1nsrWFcWYKZ+6VRAEzFecUNYUTpGysJcUo=;2aZtO0aqx71P76uQDYc8AQ=="
 ---
 

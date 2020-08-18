@@ -5,9 +5,9 @@ excerpt: "This post was co-authored by Mike Emard Principal Program Manager, Azu
 publishedDateTime: 2019-10-24T12:00:04Z
 webUrl: "https://azure.microsoft.com/blog/leverage-azure-premium-file-shares-for-high-availability-of-data/"
 type: article
-quality: 79
-heat: 79
-published: true
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Microsoft

@@ -5,9 +5,9 @@ excerpt: "Today we're announcing the general availability of Azure Monitor for v
 publishedDateTime: 2020-03-16T10:00:32Z
 webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-monitor-for-virtual-machines/"
 type: article
-quality: 115
-heat: 155
-published: true
+quality: 55
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -38,21 +38,86 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 114
+    quality: 104
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/333076bc-4f9e-4461-9ba7-810752e19173.jpg"
         width: 800
         height: 468
         isCached: true
-  - title: "Azure Monitor for virtual machines is now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-04-15T16:00:16Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-for-virtual-machines-is-now-generally-available/"
+  - title: "Azure Virtual Machine Scale Sets now provide simpler management during scale-in"
+    excerpt: "We recently announced the general availability of three features for Azure Virtual Machine Scale Sets. Instance protection, custom scale-in policy, and terminate notification provide new capabilities to simplify management of virtual machine instances during scale-in.\r\n\r\nAzure Virtual Machine Scale Sets"
+    publishedDateTime: 2020-05-11T12:00:03Z
+    webUrl: "https://azure.microsoft.com/blog/azure-virtual-machine-scale-sets-now-provide-simpler-management-during-scalein/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 100
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/985df91e-de4d-4c27-a28b-f3ec9be164e3.jpg"
+        width: 1024
+        height: 696
+        isCached: true
+  - title: "Finxact Announces General Availability of its Core-as-a-Service on Microsoft Azure"
+    excerpt: "Finxact is responding to growing market demand from its regional and super regional clients and prospects to support Azure. Finxact chose Microsoft based on its unique strength in accelerating ..."
+    publishedDateTime: 2020-05-13T12:33:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/finxact-announces-general-availability-of-its-core-as-a-service-on-microsoft-azure-301058085.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 31
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Qualys Delivers Vulnerability Management to Microsoft Azure Security Center for Virtual Machines and Containers"
+    excerpt: "Now, Microsoft Azure developers and customers have real-time visibility to secure and remediate cloud workloads at a click of a button with built-in orchestration as well.\" \"Security is in the DNA ..."
+    publishedDateTime: 2020-05-07T13:06:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/qualys-delivers-vulnerability-management-to-microsoft-azure-security-center-for-virtual-machines-and-containers-301054791.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 17
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Virtual Network NAT now generally available in Azure Government and Azure China"
+    excerpt: ""
+    publishedDateTime: 2020-05-07T21:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/virtualnetworknatgovchinaga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 13
+  - title: "Microsoft Announces the General Availability of Windows Server Containers, and More for AKS"
+    excerpt: "Microsoft launched a preview of Windows Server Containers in Azure Kubernetes Service (AKS). Now the company announced the general availability of Windows Server containers in AKS, including the support of private clusters and managed identities."
+    publishedDateTime: 2020-05-05T11:23:00Z
+    webUrl: "https://www.infoq.com/news/2020/05/windows-server-containers-aks-ga/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 12
+    images:
+      - url: "https://cdn.infoq.com/statics_s2_20200602-0333/styles/static/images/logo/logo-big.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Azure SQL Auditing to storage account behind Virtual Network and firewall now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-05-13T16:01:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-auditing-to-storage-account-behind-virtual-network-and-firewall-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 4
 
 secured: "5KFKWaC1B7s62sRd7Ga+0/1l5iQRmX5qG1W2y3PssIv29pJ74aXuNtTxIrwtMD4xt1cXhh8Vh+Aerg3ckbBtjb6Fy2C0hUdG/P80jC2BC0qdbOqYqM6Snivh6jV3MhAAOl4STUD7CP+BhgvZ+0rQJF/1W6Z8JlohW2RPiJYcifZFVODTCqrTGdvhcpCnBYGGlk/trCDZfrFM/6pNfQMbxDtdwBO4KNL6syxvGJD1QQlzC2ME1eAhHHRn194xJXWWuvgGsAnQfC5+BaZ3rAyIoZ2L9eEA7ig+mLGT2LWmeOo7yvf21tudbY1unZMnsh6ggOV/l/SNtWZU5ZApvuXZUw==;JRxLW7Kk8B67k1fHOLXm5w=="
 ---

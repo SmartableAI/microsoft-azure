@@ -5,7 +5,7 @@ excerpt: "Azure Data Box Disk is now available for preview in the China East, Ch
 publishedDateTime: 2020-07-13T22:00:04Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-box-disk-is-now-available-in-china/"
 type: article
-quality: 77
+quality: 17
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 93
+    quality: 33
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/d92493a1-f2b7-43cc-aac0-2fb16327579f.png"
         width: 600
@@ -43,7 +43,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure ultra disks are now available in the US Gov Arizona region"
     excerpt: "Azure ultra disks are now available in the US Gov Arizona region."
     publishedDateTime: 2020-07-21T16:01:51Z
@@ -52,7 +52,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Stream Analytics is now available in the US Gov Arizona region"
     excerpt: "Azure Stream Analytics, a real-time analytics service that is designed for mission-critical workloads, is now available in the US Gov Arizona region. \n"
     publishedDateTime: 2020-07-23T23:00:08Z
@@ -61,7 +61,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "New general purpose and memory-optimized Azure Virtual Machines with Intel now available"
     excerpt: "Today we're announcing the availability of new general purpose and memory-optimized Azure Virtual Machines based on the 2nd generation Intel Xeon Platinum 8272CL (Cascade Lake). This custom processor runs at a base speed of 2.5GHz and can achieve all-core turbo frequency of 3.4GHz. It features Intel®"
     publishedDateTime: 2020-06-15T09:00:47Z
@@ -70,21 +70,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 68
-  - title: "BitDam Advanced Threat Protection now available on Microsoft Azure Marketplace"
-    excerpt: "BitDam announced the availability of its Advanced Threat Protection in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. BitDam customers can now take advantage of the productive and trusted Azure cloud ..."
-    publishedDateTime: 2020-07-22T23:20:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/07/23/bitdam-microsoft-azure/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 33
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
-        width: 304
-        height: 430
-        isCached: true
+    quality: 8
 
 secured: "sdYriCOS6nn23Z03IQpAxC1ET8ZfP/5kEELWbwA82DvQyX54nnK4fKyaFt1Ay/AQ3udWEI6ll8d1IsuIopkdR4KPja1nMXaaYPjt45CQSM66FOw/y097q2KiHno3t13LgrQGFFklYyM+Jyz3EnxVvetUWvPamTLHW9nbYuISg0KySePUMz5OOoUj/8V4mRSnWernbJ4xarKkwdSBueYDYITJXvLGkQGe3/8KnUVLys4R7LmQp7/VhfLAPWn6kHohvUgbFQL8U87it6ehDYrg60dpBxRvm1lzXYn5Ci+avYZ9r/bigbWNm1Djpe+Qi2cJRSh3ANA/Cdo7vipx07rpmQ==;UFhjX9b8IcUy3foXtV6PMQ=="
 ---

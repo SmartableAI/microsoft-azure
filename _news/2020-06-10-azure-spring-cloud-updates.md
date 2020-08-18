@@ -5,7 +5,7 @@ excerpt: ""
 publishedDateTime: 2020-06-10T16:00:22Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-spring-cloud-updates/"
 type: article
-quality: 77
+quality: 17
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Monitor for Virtual Machines is now in preview in US Gov Arizona"
     excerpt: "Azure Monitor for Virtual Machines is now available in preview in US Gov Arizona. It's also available in an additional eighteen public regions around the world."
     publishedDateTime: 2020-06-16T16:00:02Z
@@ -38,7 +38,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
 
 secured: "vz+WZxZsXqBNNY61YBK7tF9r6yE8beVM7q+f8uFIl4n/XigBwcE8o7a+ibs2TaYjmTU9ozenUDGJLFGYOoct7Ce0C9Nioj27PRbVlW/H21Vdodiioo2YoH89xAGznB2T4/Qr3txo4/L7JFDsYmn8MAB30LVFmkxygZTKHbOc/PK61f/BYO++mt1yfz17TCZhdB0lv/BmRa6F9LH8M3JwFsQD6NKDmZSRaSumOxlUBg4p7ycgnHytCPKG3kA6sM7EAg5baCUilP2FLpBsKhFU3fSy2omkyqCzUm2kzu07uEaDsS0fycn+85UyZwzRTB9p1q3JXcaCrESOXzwZKRGb1A==;OtFnOVNQaDD5pRfjXU7JZA=="
 ---

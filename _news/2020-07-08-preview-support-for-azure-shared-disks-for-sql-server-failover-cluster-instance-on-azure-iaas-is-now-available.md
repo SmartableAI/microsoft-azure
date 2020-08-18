@@ -5,7 +5,7 @@ excerpt: "Preview support is now available for Azure Shared Disks for SQL Server
 publishedDateTime: 2020-07-08T16:00:18Z
 webUrl: "https://azure.microsoft.com/en-us/updates/preview-support-for-azure-shared-disks-for-sql-server-failover-cluster-instance-on-azure-iaas-is-now-available/"
 type: article
-quality: 57
+quality: 0
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 59
+    quality: 0
 
 secured: "EB2iSW2PPF5LTcUlXlGlMp+sS1tPbdpZHZ1MViGeBy8zFqRr+AQByKM8kQdPt9E6pyUddcPjPK/KWdCRSn3nf4yUQtqThXUAJuBLzzoCyY8w8pUPjYQ9EqC7XjA5qXqW0hnY55qK79WqtI++WmyM59XzD5NqZmMrUxVsdPQXRcI8r5R86dUuOr3avBYxqIfwwdtdEa+sWXltGwd9U+l+3Ou/AmCx6hT+Xk23Udp61wevlHNgB4wk5KmVm/eGJkr5H9MxjllsAgMvXUjDM18dXkYoHl+7uH4/W9I68vqFVgRyisMMCkW3hCPzoimP4N7Ldlss4gxv0nRdcPV3FD/Seg==;BpjQ+8Uk/MlNbFHr0G+3eg=="
 ---

@@ -5,9 +5,9 @@ excerpt: ""
 publishedDateTime: 2020-05-19T16:10:14Z
 webUrl: "https://azure.microsoft.com/en-us/updates/learn-tv-daily-online-program-to-provide-developers-with-education-and-skills/"
 type: article
-quality: 57
-heat: 77
-published: true
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: Microsoft

@@ -5,9 +5,9 @@ excerpt: "We announced the general availability of Azure Security Center for IoT
 publishedDateTime: 2020-02-20T09:00:27Z
 webUrl: "https://azure.microsoft.com/blog/azure-security-center-for-iot-rsa-2020-announcements/"
 type: article
-quality: 94
-heat: 94
-published: true
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Microsoft

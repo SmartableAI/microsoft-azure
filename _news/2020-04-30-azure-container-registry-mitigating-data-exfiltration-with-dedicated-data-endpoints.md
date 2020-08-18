@@ -5,8 +5,8 @@ excerpt: "Azure Container Registry announces dedicated data endpoints, enabling 
 publishedDateTime: 2020-04-30T10:00:07Z
 webUrl: "https://azure.microsoft.com/blog/azure-container-registry-mitigating-data-exfiltration-with-dedicated-data-endpoints/"
 type: article
-quality: 92
-heat: 112
+quality: 82
+heat: 102
 published: true
 
 provider:
@@ -37,8 +37,8 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
 
-secured: "fr412S5F1qJJVXSv4k48o9xKNVxN7Y1o2j2pwI6YE2GVasC5HLHZ0jktDK7feqen80X8kGUn03470BLBbi7Y4TKgKrrmosL7b/rB8mUtCCIb9J8YnW6V9W3Qo0DsrbT5gEG+IamYq3dEin7vhtyIH15Wy5JiB/V/UFVIv2V028Oc6+1h/Z0CHhyUDBoekInjybliP42OYicqhtyDr002C69l3tDNzKgJQzKX2ayyJ6MC9kykEGheLMMmPBGIXx00iLW3K+4X5qlw9jeILOKt2e9310rzG20RFBo21mRSpvYG60cv8EDgT+45Nxn3vNnRc7QCmkdatmGwQm35cUjF8w==;JjkfFJIp7qf1uIaOhtGZDg=="
+secured: "X8UEo/UGbwvdoQgoMYpTvYyLcGugoBJ+pcvgEu6XjRG6d6P2EWshsXn07co0iwrccW1vfRPCHGqrkkgYPggVPDH2PVcWiDn+0ZCP3PY8ynuG3l1a/zVly6gFX9wGlovrsjn0vIgOH8/3tK4tWfm2qmiwZh4SV6XSH4eVVUqzWUzf1MxCrSvad1pWbeOv5AmisVgoT0ZfPSikYm1L9l/vU9nB53OvenBfGoj+sYXTIzhXHBmOjN7ROX8xiDpGNotAc82zS9gYhZ8CllkTQgbUB150+u1r11Bn2/Gx1F7eYi0WEtj092u8UeBP3+J7iBuCtX9zZ49H1fnPoVFVGSOGExl0LPlk6ORoIiaPe4OCtsY=;ASvOkklRatlBD2Fh4LsVbQ=="
 ---
 

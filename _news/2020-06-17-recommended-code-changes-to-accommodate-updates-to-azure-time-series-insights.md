@@ -5,9 +5,9 @@ excerpt: "Upcoming changes to numeric data storage and query behavior in Azure T
 publishedDateTime: 2020-06-17T21:00:18Z
 webUrl: "https://azure.microsoft.com/en-us/updates/upcoming-changes-to-numeric-data-storage-and-query-in-time-series-insights/"
 type: article
-quality: 74
-heat: 74
-published: true
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Microsoft

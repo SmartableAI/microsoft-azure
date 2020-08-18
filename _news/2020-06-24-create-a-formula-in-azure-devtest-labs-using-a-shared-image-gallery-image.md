@@ -5,9 +5,9 @@ excerpt: "Your customers can now create a formula in DevTest Labs using a shared
 publishedDateTime: 2020-06-24T16:00:36Z
 webUrl: "https://azure.microsoft.com/en-us/updates/create-a-formula-in-azure-devtest-labs-using-a-shared-image-gallery-image/"
 type: article
-quality: 76
-heat: 76
-published: true
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Microsoft

@@ -5,8 +5,8 @@ excerpt: "Recent reports detailed Certificate Authorities that were not complian
 publishedDateTime: 2020-07-15T05:00:21Z
 webUrl: "https://azure.microsoft.com/en-us/updates/certificateauthorityrevocation/"
 type: article
-quality: 60
-heat: 60
+quality: 0
+heat: 0
 published: false
 
 provider:

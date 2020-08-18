@@ -5,9 +5,9 @@ excerpt: "Azure Monitor for VMs, a monitoring offering with out-of-the-box perfo
 publishedDateTime: 2020-06-18T19:00:30Z
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-for-azure-monitor-for-vms-on-arc-enabled-servers/"
 type: article
-quality: 77
-heat: 97
-published: true
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Microsoft
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
 
 secured: "PQx69hhEieVnPXX4aGt7SEEPw7MqJVELZUv3np1HvhLTI0BeRUpQgEkxLteki93+7NaVFb+u+s/aJBzU2KXDGC4FbqBHKwcJtoW4iLpvxudgAkL3YfH9cIuATbzwgFeWmCV6S6/9HfHqTI7iV3fJNDZMd8PiQOhQH3OLia9KS6MzMehMCjurBIUzg2nG+2t46N67TTUTuAGngYGaSThMNCaIRao4Y3CTVomu7z9nKVPjqU9OT0Rsm68iQEmUME0pjLUVbrRlIMExzgk4V93bo+/waVkKh1mEJKTGJEinEYuHxvcFKZBji+H7HRMDBLB/NNFB8f+Ue+JsI8CkonUIdg==;Jze+z4gaNjHXEJTQxoPgeQ=="
 ---

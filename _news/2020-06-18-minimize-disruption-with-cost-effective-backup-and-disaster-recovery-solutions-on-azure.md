@@ -5,8 +5,8 @@ excerpt: "Azure provides native cloud solutions for customers to implement simpl
 publishedDateTime: 2020-06-18T12:00:28Z
 webUrl: "https://azure.microsoft.com/blog/minimize-disruption-with-costeffective-backup-and-disaster-recovery-solutions-on-azure/"
 type: article
-quality: 73
-heat: 93
+quality: 63
+heat: 83
 published: true
 
 provider:
@@ -31,8 +31,8 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 62
+    quality: 52
 
-secured: "Msd+Hzl3+bLG8uxWoi1lk0EGYnoJzVXHylB/fZaSwMDlextvg2UHOuO2/kYVtOVx56LRyvkUQ5UXE09sv+9TNiQb2Iv5ftxkKhv2mZ7h8RMF26iGRn3gYu4F/MDoVWE3jIxvjhiTvzrbwSY2t+h4wzB+qqOOXEHF3x+UdW+aFojsMvT6qwxn8oz1pGnlJ3R3w+u37s4Hr/z7OoxHkV8zr/9ET49u3t7Bt1RAHX7kUN1FGuW3o4XGP6LBgRpj8Xv6qB0kx5A9ZgIunxX/UVBQE7omXdxeq2MGBlUnMG3As4uYD2W4YoTpEpFH6SG2iHy4IG64ZrQyWbkKejS6idPSJw==;fNwyraV+3VwoHQJpB2FXSw=="
+secured: "OVI1mw1GHqFJBLY2Zzvkhfk0n0Be+JlOEFO8GfuFdWaEWmKD4MWkC0ZkSlyMvH2ZNhKdLOTrJqmbPbPfe9S0zM7/EcRb4hyc6P7KEQpkeMTtaFPdRmYmUPavxbRO0HDwZSyEp5O+XNg5h7BaVRxkUbLcL0TzQK6xlifdW1+m+vyyolTFxX/5eVmbN40L0chTg0VUyNZY79iOAWVS/DcEambiBjlZD7mJs1AIhm299ASb32a74HB/fvxiDAMc/pX9JboCtplhfWppA37PNe7AHdoi3R1fqCnvxUjNvaA56+ucRyQlr4j2I6B+Z0T34IhuRyvoYuMV2VCuc+YmoS2MJI1eULbvyVUyAZfOZDtm0F0=;02VP5zp9jrZW+yqwBAuCaw=="
 ---
 

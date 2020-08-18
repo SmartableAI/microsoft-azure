@@ -5,9 +5,9 @@ excerpt: "Data Share is now generally available to Government customers"
 publishedDateTime: 2020-07-21T16:02:18Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-share-in-us-gov-arizona-and-virginia-regions/"
 type: article
-quality: 77
-heat: 77
-published: true
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Microsoft

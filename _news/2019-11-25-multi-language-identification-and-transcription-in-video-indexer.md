@@ -5,9 +5,9 @@ excerpt: "Multi-language speech transcription was recently introduced into Micro
 publishedDateTime: 2019-11-25T13:00:19Z
 webUrl: "https://azure.microsoft.com/blog/multi-language-identification-and-transcription-in-video-indexer/"
 type: article
-quality: 84
-heat: 84
-published: true
+quality: 24
+heat: 24
+published: false
 
 provider:
   name: Microsoft

@@ -5,8 +5,8 @@ excerpt: "This post was co-authored by Pavithra Thiruvengadam, Program Manager, 
 publishedDateTime: 2020-05-11T11:00:02Z
 webUrl: "https://azure.microsoft.com/blog/use-azure-firewall-for-secure-and-cost-effective-windows-virtual-desktop-protection/"
 type: article
-quality: 95
-heat: 115
+quality: 85
+heat: 105
 published: true
 
 provider:
@@ -47,6 +47,6 @@ related:
         height: 820
         isCached: true
 
-secured: "k6jWIS4PYU51pl8Tdx2nbmZqpsPp5JZnWGoj/JWKJuyYyuq43K8I5Ccu8+/zvl+0Sg0a5sevm5fO/nmFWMn7y+4s+g9N2nhtuGKs6UuE0p2/M16eQEGupn1TZRAh4uX5CbzOTD3N8R9jayQ3a/xMR83E0VhydDJMxjbUTjFFD73NBrWKVnuJWImX+CDOP+fC79b5leKkNGn3D9b8dyr0DKk/TlJi3uQzg7xZ43bGXjhq4X+NakvAAEGyp7q+7Zr3lwBVQRtMfgL+ACwxs0mKeNCt7qpozc4DWuomi4ougtrSemvr5U6cqPQH5ssCwq+anTGVdYw/hr8csFYYPEhojA==;pVWSYhMnt+dSKmKYmffhiQ=="
+secured: "NtAE2TVAkoAO4rWAdYyGxELURUttFwxlRBOHG+Kruqcqrj/L+IgAVfmN16kEIP7hQP+8xXBLJWmHhiYu6Q5sSi085BhJCytejI+ZDd4Ozo5gAUDXIQnFUhpLEfgbcgATsdDF6aVZCST2ur+yq9sV5NI/c8S9Iydl4LNrlN8v32zLuCPuNZo/HpxTW1jRYx7tNZKOAaer6QDklByJm2+zEpv+ddhF8HPnKEuWMMcC5PH0JMNldfGpGS1UNNRUgUDZyUt1awTEuanBha07ZWfwwRRf1lfSbUrBSnIPd7u1SoNr+WXEQnLBewq2shOR27k6200mcsFoE3h+liCPSJ2jjnGa/AtAqt7QV4QWaYSUJTg=;FWst5ELkzquga59EB69NKA=="
 ---
 

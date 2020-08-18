@@ -5,9 +5,9 @@ excerpt: ""
 publishedDateTime: 2020-05-08T22:00:13Z
 webUrl: "https://azure.microsoft.com/en-us/updates/zone-to-zone-disaster-recovery-now-available-through-azure-site-recovery/"
 type: article
-quality: 77
-heat: 77
-published: true
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Microsoft

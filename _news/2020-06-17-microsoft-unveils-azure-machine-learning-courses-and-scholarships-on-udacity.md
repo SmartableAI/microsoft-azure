@@ -8,8 +8,8 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-unveils-azure-machine-learning-
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-unveils-azure-machine-learning-courses-and-scholarships-on-udacity/"
 type: article
 quality: 94
-heat: -1
-published: false
+heat: 134
+published: true
 
 provider:
   name: Neowin
@@ -38,7 +38,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 94
+    quality: 84
   - title: "Microsoft and Udacity partner in new $4 million machine-learning scholarship program for Microsoft Azure"
     excerpt: "Applications are now open for the nanodegree program, which will help Udacity train developers on the Microsoft Azure cloud infrastructure."
     publishedDateTime: 2020-06-10T12:00:00Z

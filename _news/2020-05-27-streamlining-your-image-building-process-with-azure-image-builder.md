@@ -5,8 +5,8 @@ excerpt: "Customizing virtual machine (VM) images to meet security and complianc
 publishedDateTime: 2020-05-27T09:00:01Z
 webUrl: "https://azure.microsoft.com/blog/streamlining-your-image-building-process-with-azure-image-builder/"
 type: article
-quality: 99
-heat: 99
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Streamlining your image building process with Azure Image Builder"
 
-secured: "pYxPEGRM3IhRpaQ9shui+BN5vB4VhO3pwDD7nZL4tnV3xkTdmuyWwaxk91O6Jx4FZKwp3bDiZWhrzPXRx3d2E9wG/Kjv5IefD9Ii+bDEXVvfubnUSRNsZchLHCYA5fMnqBsNEFJzAQrRI/QEDl+nM65XvFo1VOfdEwpO+I20weTrYxs4bJcgpKHmC+72GdDuD1iLwA7ZYS/0KNCSzd3ILZqmlzCnlNq2UBVHcp4SaZEoSB7LlVgwRAj63r7wZ1EtrZDv/tkCeVMIm/sDkL2I5cKg3EDALxwthP2y19zewX80VmKJeGWXPVfwDJmu8716+6r1qczm7qo/rXqYTYKD/A==;KG3xUko8rvVGtKKeXWOvQQ=="
+secured: "MztfHPxohPl/bsNx7MHeDAsLoNXN0CWNPS2sFksdQQvjFcT+KoFfWRv/IQdfc5jpRNVrgxKivvedLjnLcnum8jEGn3U4s1Mjf0xLp8h9HUKrAM4qm/JPtALVww0ja9dHxvnQWja7I4OQa3Ht7PxZju+Zsa5yjEutHg3ac0Yy8y+sZBOFNsm8r7PFFj+uTy9UUAV3rkX1qKBNZ0r28u70icp3bqlpfQBlhDiu8EryH8zWXZ5p0kQa/r9U7PAkB+fs7r6QgY74g7bEzazC6xJuV01+F45o0uQaOt/7bWYzRPFdq5xll8Un1L+BgDMM5VZL+Ho/XcL3qvG9VjZL1ofbh0Vu6Jsg53T2TqGKSPhQbBU=;1vMlsom7cpxNYQWorE7B+A=="
 ---
 

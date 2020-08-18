@@ -5,8 +5,8 @@ excerpt: "Enterprises and teams are adopting DevOps technologies combined with p
 publishedDateTime: 2020-05-27T08:00:01Z
 webUrl: "https://azure.microsoft.com/blog/deploy-to-azure-using-github-actions-from-your-favorite-tools/"
 type: article
-quality: 101
-heat: 101
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "Deploy to Azure using GitHub Actions from your favorite tools"
 
-secured: "SAnpOO1Qpu0lq8W7D/gEGUjb+OHP+X2SYOlRyaGZbDCjITODvX2K0EKy0tNnwZx+4Z0pvq5lNBxG/ivckhiPAVClZRlIXEKam29cxxchkf/c1viPju/1R5cegSSoiXTKE6HnhBMfSvEpgypBxtN7ryw4e1xE9aGOoJ91IwC6Pe+JWJb1dmqRvWguNzDMnCX5d6patU8TjEoVOkVYcWsfacjOlsXzdLYhOg4cYZU+lYvU1OabIDGSyzQYidC2rSX4R/ryU1DHgqIHU2MZOlhk+DpONdJumxALU6L1fhdJXsbwvvrRm4fVDlJlk7gIonxiyviHcApvn5qWDs6jNxDT8g==;G9iUk9mVX0lDbhbxwt1pJw=="
+secured: "qMGP0Wa2WC3FVVDaBE/yHllFkcYGgvRKkIfhPS5Y85XtaVPY7qrihmBXUiapq1dbXM03fS1uVUiYLBPDD/FYMEqYtS6AH2Gam/91fNDfm5fnP1MxtSV9LeIxWPn5KX3QYVYDeDjCkHdDvGycc+sp8w66bAc8rrjOPsQCrck7IGpOpfah+EgRLZCCKEBivl5lcxrV6U2wH0r1B2FaRZXH0VehloUIfg7trduP792Rj1GJs+pEcUfBMe6xPHLQdcK7P6FCtQvsvGqP04WUrpyiPDfFLl49P8O+SYOOJP7CKeKJtrnGI5nSzMXXLZfrUnGwiD6sZg2vrRIm8ODGnKsweDRUlhk97Gz3UE3/mwlUNSw=;nqjUn/99qDwkrtjzwUG1xg=="
 ---
 

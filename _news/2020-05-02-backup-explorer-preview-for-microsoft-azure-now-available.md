@@ -24,20 +24,43 @@ images:
     title: "Backup Explorer Preview for Microsoft Azure Now Available"
 
 related:
-  - title: "Backup Explorer now available in preview"
-    excerpt: "As organizations continue to expand their use of IT and the cloud, protecting critical enterprise data becomes extremely important. And if you are a backup admin on Microsoft Azure, being able to efficiently monitor backups on a daily basis is a key requirement to ensuring that your organization has"
-    publishedDateTime: 2020-02-05T08:00:05Z
-    webUrl: "https://azure.microsoft.com/blog/backup-explorer-now-available-in-preview/"
+  - title: "Dell EMC Integrated System for Microsoft Azure Stack Hub"
+    excerpt: "Dell EMC Integrated System for Microsoft Azure Stack Hub provides a fast and simple path to Microsoft Azure Stack Hub for digital and IT transformation. Download the Solution Overview here."
+    publishedDateTime: 2020-04-25T23:05:00Z
+    webUrl: "https://www.crn.com/2020/04/24/dell-emc-integrated-system-for-microsoft-azure-stack-hub/4rB6NFMxtoUOqC8jADm48/index.html"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 86
+      name: CRN
+      domain: crn.com
+    quality: 37
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f68dd946-126d-46ef-a94a-c336a605aa9b.jpg"
-        width: 1024
-        height: 693
+      - url: "https://www.crn.com/resources/025b-0eff6856eada-a01ef253a5ce-1000/3cloudimage.jpg"
+        width: 269
+        height: 256
         isCached: true
+  - title: "Dell EMC Integrated System for Microsoft Azure Stack Hub"
+    excerpt: "Dell EMC Integrated System for Microsoft Azure Stack Hub provides a fast and simple path to Microsoft Azure Stack Hub for digital and IT transformation. Download the Solution Overview here."
+    publishedDateTime: 2020-07-29T21:02:00Z
+    webUrl: "https://www.crn.com/2020/07/29/dell-emc-integrated-system-for-microsoft-azure-stack-hub/4rB6NFMxtoUOqC8jADm48/index.html"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/025b-0eff6856eada-a01ef253a5ce-1000/3cloudimage.jpg"
+        width: 269
+        height: 256
+        isCached: true
+  - title: "Dell EMC Integrated System for Microsoft Azure Stack Hub"
+    excerpt: "Dell EMC Integrated System for Microsoft Azure Stack Hub provides a fast and simple path to Microsoft Azure Stack Hub for digital and IT transformation. Download the Solution Overview here."
+    publishedDateTime: 2020-07-28T23:21:00Z
+    webUrl: "https://www.crn.com/2020/07/28/dell-emc-integrated-system-for-microsoft-azure-stack-hub/4rB6NFMxtoUOqC8jADm48/index.html"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 17
 
 secured: "zllCxogyI17VKKAOIvE9IyEVXiLI063HhmeYTrcsCvlgRuadoIsFn/NiOCnEOWjb3rr+zfzus5Ax+moLpvYMnKXH6LH95rPPhov3v29rzBKYB7f3YVm+0qRm1IW4wThbXFIaLkYmsQ5/xLcFmjW76RIpwRMBKYpVwkWUd5WuF9qDS/vIc8KkHeFjmhPaCWc1BWerexEJSUk1XLK34QxtQbnbfyvFMz7KNsU8h+X6tAuDYfhfoUj8gPPKwchjeFkp1OsgWibHMNR2oIT27lNteCtXcZnCylIWUgTxhFiXnO4b09MfpSwXQMuJrifr0c1W;43Grn4jOIzqa770UW0h6sg=="
 ---

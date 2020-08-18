@@ -40,34 +40,6 @@ related:
         width: 1000
         height: 666
         isCached: true
-  - title: "NXP expands partnership with Microsoft Azure RTOS"
-    excerpt: "NXP Semiconductors has expanded its partnership with Microsoft to bring Microsoft Azure real-time operating system (RTOS) to a broader range of processing solutions from its EdgeVerse portfolio."
-    publishedDateTime: 2020-05-27T15:40:00Z
-    webUrl: "https://roboticsandautomationnews.com/2020/05/27/nxp-expands-partnership-with-microsoft-azure-rtos/32528/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 37
-    images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/05/microsoft-rtos-netx-duo.png"
-        width: 954
-        height: 541
-        isCached: true
-  - title: "Microsoft Azure Heads IoT Platform Research Report, Edging AWS"
-    excerpt: "Microsoft Azure outpaced perennial cloud computing champion Amazon Web Services (AWS) as the top Internet of Things (IoT) platform in a new research report."
-    publishedDateTime: 2020-05-29T22:11:00Z
-    webUrl: "https://virtualizationreview.com/articles/2020/05/29/cloud-iot-report.aspx"
-    type: article
-    provider:
-      name: Virtualization Review
-      domain: virtualizationreview.com
-    quality: 37
-    images:
-      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN1BlueSquaresWhiteSpotsAbstract.jpg"
-        width: 647
-        height: 450
-        isCached: true
 
 secured: "g3jXt18cjeooVRHLFKlQJdx/PBkTZMK0UAHQL+sCmMcNzQoOey/QVBTWtD/tItK1BUr/MUPv806Q6YHt7EOLPMrriyVJwUpYFrEIcj0KUGJsZp9wNS85BNMbry2wFqVi6Z+SnHUkS5GvHt+ZkA2HXF9yp8urpvdl9IkKURkW7vqTIA0drU6JsQb4grNXd50eN0x9pb8UdrxOHzFzp7rhe4fNwVGBrjzqgnNDu8wDlUI+o+iRE1BI3IuM5YLmm12JMeKLldMbCmfvFB1cwH8akUJbo3UsCWWoschQsmJbvxikAbFlRMzW0mmHRNqEXE/Z;betMAckgqxI7TPzM+fUCMQ=="
 ---

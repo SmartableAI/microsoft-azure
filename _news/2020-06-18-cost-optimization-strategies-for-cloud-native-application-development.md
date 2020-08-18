@@ -5,7 +5,7 @@ excerpt: "Today, we’ll explore some strategies that you can leverage on Azure 
 publishedDateTime: 2020-06-18T11:00:28Z
 webUrl: "https://azure.microsoft.com/blog/cost-optimization-strategies-for-cloudnative-application-development/"
 type: article
-quality: 62
+quality: 52
 heat: -1
 published: false
 
@@ -29,8 +29,8 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 73
+    quality: 63
 
-secured: "SxQdgBjY4oMqwdzt8+Z415nuapDEVpOQY+GYNr4w/2zj36OFZ9df4GTnLWDwO45JBua0baxdiJS4xdCmlrwuaY0GnDNLMSC4wbkMNVFnXJyfYu8oWA/VuNRsSt3Tja2A3nJ5xIXKPSGQ0YEqSMz6irri9efxFyxsTMGBFZVq60k+sYGLnMMNqi8pCQ5zBun9ILTRVrfEdHoy4KLQF+ua3yY/W4Bi04eMzA+FLpJvyM+6Cw2GsKphYbvL2HKTrhtWN9WpnfszMlc7kEE4Ol2ugk2WUE0i8ejm2RQWmj1g7plg3a7Mgba3opZ5H+5XYtPLEuai5cTxtaCjHlT3dm47xg==;CZdtTWRsZely52ZgxiLdZw=="
+secured: "GDkNYdOiqtug5drkj8wI6a8oNlQDvdl5QUCyY+mrBSnSsEVc/D1OZR4cSOvby/Gs+RUG27erIYJQR4FQfnTc3mJ1zJE80u+4HyMxUxJpUzRpyBZnaTM2OLkf5Gu+a12adz1PDceGMF+YHhLkx00fTtfHPx3r/ZS+uEf3Y9wHtQ0xerrd8TmH1/kJRXzFpr6fdnI0eOV+Qxia7+/rUiL3If9KdflSReyrFHCr1oGYMpis7TalyvndDcCryIJH0iuTKxztvP7qQoNyb9+rJ7cZyyXE9BiWk4Dt1/VSi5ki9CMDX8idM7y3fp2bMlgCtfOjSNrln+4Zgey6E8D2N18pDO69ogmxE6ohK+czqzTGJxw=;wKMpu/r+zJ38nEJVy5Vlkw=="
 ---
 

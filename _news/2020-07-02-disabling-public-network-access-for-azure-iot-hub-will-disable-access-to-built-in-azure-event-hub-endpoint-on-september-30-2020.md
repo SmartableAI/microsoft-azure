@@ -5,8 +5,8 @@ excerpt: "When public network access to Azure IoT Hub is disabled, the built-in 
 publishedDateTime: 2020-07-02T05:00:08Z
 webUrl: "https://azure.microsoft.com/en-us/updates/iot-hub-public-network-access-bug-fix/"
 type: article
-quality: 48
-heat: 48
+quality: 0
+heat: 0
 published: false
 
 provider:

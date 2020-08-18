@@ -5,7 +5,7 @@ excerpt: "This post is part 1 of a two-part series about how organizations use A
 publishedDateTime: 2020-05-11T14:00:00Z
 webUrl: "https://azure.microsoft.com/blog/office-licensing-service-and-azure-cosmos-db-part-1-migrating-the-production-workload/"
 type: article
-quality: 90
+quality: 80
 heat: -1
 published: false
 
@@ -32,7 +32,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 108
+    quality: 98
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/dfd8c989-e0f7-4554-8e02-d4fbc1046c4f.png"
         width: 634
@@ -46,7 +46,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 108
+    quality: 98
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2e4a9658-d476-4845-aae6-ac59a0d7b2d8.jpg"
         width: 640
@@ -60,8 +60,8 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 86
+    quality: 76
 
-secured: "RgctuNewEdu+mAnuDUXYyIb0DfijS2rqiEOtGFWCDlRV1H0jq9gyKn46n7tR5f8L/0lidZi1TnPZyh5dGeaLwS5mu6JWBtSuSyyXEDA1aQutvfcGWbU1nJSenTW6zWNq6oSr5LAHk87rQQGdwSamm+zKXTQ2R9gHzryd1uXhWrwmposTm5gzYL3JcW7r5tlg/lf6nAo4uhIGX61wdO1UP1c1FL4bmPjAI61Qb4GLJE0hTp2d6CDoTBSclSngP8Hg6h/IK3+mh/uL9k3Vuo9IzMhbL9AzH4ZBC7HqmLbOtbgS1pCfhn7c+7JDHT4b1HOXyDgnvkpU0pjg1sS0baDudQ==;00fuCcDOHu6oWmP6oqaXGQ=="
+secured: "ip9nKjASqoHh03o6a7ZssZftEGekvNWPkNIvj12YVU0b2oh4h2xzr+XPztsk7DQ9V3cHvesXvhjF2l7qzTufo37nbMg/AkjU1/4lgBpV50Q4olnl1TxThy6fpkgSmzAOVOhiQlxRNRDV0eSsm6lLhJ5JWU7sEAOkO/ugs9/81sKe+lpm12jbU88DkkGmESwtZKzgb5W9c+DW0lPkCrgye3muEKP/KPNTOiSzSDD6Ut+FDYJ7xvUK0rMg498doXmdc5OdMbqQzRql4G/FHwclofg+T+ihl2+a8+a0fCZHLfvTMYV/P4mI8zBGXqommdNOhAQJZJgHuw5nARON0Xo0FwHqDhiMq+58cU1vdfQMYKg=;iJfKUowsZRIuXMYA4IHdKw=="
 ---
 

@@ -5,7 +5,7 @@ excerpt: "July introduces new options to drill into your cost data, save on Azur
 publishedDateTime: 2020-07-29T10:00:28Z
 webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-july-2020/"
 type: article
-quality: 99
+quality: 89
 heat: -1
 published: false
 
@@ -36,12 +36,30 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 105
+    quality: 95
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/099b92eb-591a-4ea0-b7b4-78f34f6e8f57.png"
         width: 1506
         height: 872
         isCached: true
+  - title: "Azure Cost Management + Billing updates – June 2020"
+    excerpt: "Flexibility was the main theme for June, with more customizable budget notifications, a way to monitor your cost recommendations, and automated subscription creation for Azure Government. And of course, these are just a few highlights. Don't forget to check out new ways to save, a new video, and our"
+    publishedDateTime: 2020-06-30T09:00:33Z
+    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-june-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 73
+  - title: "Azure Cost Management + Billing updates – March 2020"
+    excerpt: "We're covering the spectrum this month from improvements to help you stay on top of all your pay-as-you-go (PAYG) invoices to 4 new ways to save money and a wealth of new, quick videos to help you learn how to manage and optimize your costs."
+    publishedDateTime: 2020-03-25T11:00:12Z
+    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-march-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
   - title: "Azure Cost Management updates – January 2020"
     excerpt: "Welcome to a new year, a new decade, and an exciting roadmap full of cost management updates based on your feedback. With January coming to a close, you can now schedule automated exports of your Microsoft Customer Agreement billing data, use custom RBAC roles for management groups, and more."
     publishedDateTime: 2020-01-28T11:00:34Z
@@ -50,7 +68,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 99
+    quality: 39
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8a62399a-7122-4c8e-a669-46c5f20b3034.png"
         width: 1383
@@ -64,7 +82,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 99
+    quality: 39
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/d0e2a218-4fc3-4dd2-a7f0-49caf05f17ae.png"
         width: 1583
@@ -78,30 +96,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 97
+    quality: 37
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/be59ad04-9d29-4851-89f0-285e7d1aea26.png"
         width: 1367
         height: 678
         isCached: true
-  - title: "Azure Cost Management + Billing updates – June 2020"
-    excerpt: "Flexibility was the main theme for June, with more customizable budget notifications, a way to monitor your cost recommendations, and automated subscription creation for Azure Government. And of course, these are just a few highlights. Don't forget to check out new ways to save, a new video, and our"
-    publishedDateTime: 2020-06-30T09:00:33Z
-    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-june-2020/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 83
-  - title: "Azure Cost Management + Billing updates – March 2020"
-    excerpt: "We're covering the spectrum this month from improvements to help you stay on top of all your pay-as-you-go (PAYG) invoices to 4 new ways to save money and a wealth of new, quick videos to help you learn how to manage and optimize your costs."
-    publishedDateTime: 2020-03-25T11:00:12Z
-    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-march-2020/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 79
   - title: "Azure API Management updates—June 2020"
     excerpt: "A regular Azure API Management service update was started on June 10, 2020, and included new features, bug fixes, and changes, along with other improvements."
     publishedDateTime: 2020-06-11T17:00:01Z
@@ -110,8 +110,8 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
 
-secured: "8EYNfobQeMlrExxFb8JoXWguEhtPNx4q6IZ9rim46mRg6MHqDQp7uQVdI3qykVHAVi0wkgvbClcaK1ZmZWGFdMXt1dsnC0IeiU8Vn3rXi3oHYBgqEgyOby6VL8x7ekwAylPGKbMFq5DCJEjn0kW9g6htKGROFu7Va5vrBJWxDk4p+b2jhbC2opHZHkw3nOahZMUI9g08MIlTIYYB7zn5OH5ST/A2m5CBKTU5Fmgfmd+aIXia5d9zknc/pPENQQiMKWs27i8rfwRr2AXEIQIkRG2nLGNMB/EcGLDR2gCGKwEno2755IdW2FZVFTgFyV5XC8ipw2NH7KAfKMyLICaCbw==;JjjASyiWMA+zfFBYM6yOeg=="
+secured: "Ry0E02pi623zjgbi44O5zpv3gvLtDiYpj0yK7VhalbIxrVMaVdEHidbvhDyjZVnK2+aF5ok60CveyoBoJCQqVciGV4UjRRmoFEio211rcc28kH65Q64959Rwd7JnouBvouP7IQrEUuoDGYuKakDlwbEnuAuZCgtnjCgnBHPlCIBz2YwyR3xPrTHLIxrjMWYRxUaH8AaaITPty53J8sP5GiYw1S6MVIa8IfMMj2t3JluapxHLjSRnD2p7k70HT2KrpJKkh+WKvprC8Q7J9dFFBP32URdFTXjbOjSF+kXsHPkOK3QmOZT5iEFMCSGCfs9OJB++u/spfpVqnODdKrVHkTeNFa3npw/ssu638IZVji0=;ok4Y3lFPtbsRf8MByqFuhQ=="
 ---
 

@@ -5,7 +5,7 @@ excerpt: "More flexibility and choice for backup storage redundancy with the add
 publishedDateTime: 2020-08-05T16:00:04Z
 webUrl: "https://azure.microsoft.com/en-us/updates/configurable-backup-storage-redundancy-option-for-azure-sql-managed-instance/"
 type: article
-quality: 74
+quality: 14
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Large storage for Azure Database for MariaDB"
     excerpt: "General availability support for up to 16TB of storage and up to 20,000 IOPS in Azure Database for MariaDB enables you to run the most demanding, large scale workloads."
     publishedDateTime: 2020-08-05T16:00:04Z
@@ -38,7 +38,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
 
 secured: "59i9weGrW+bWkQlgq9cxtKGzPoZvy5yCWwvOcPCP4NIl0mD99wLknHLeAcGpFZR7iaNTqwX/EcniAkEr3GmSj1NBiWgPnfjWYUjp/rmUsMy6LEV7At584ai3fjkJEqCXE3wuK7eChL1jg/Fh4iKCP3hcxIIo97EPzLPg6XklQNLIspDcplOdLonI77StVC6aeupTTgRDKPOvSTw3LyzS5WsDvii++tInX/JagW6ULpMZjLBqYYUHXU50md7mbfCy7rtoBRxUvTpchvDQ47HiC77Okidjio6jrRg3mNlerDWi7wifiM4qn/diNcDATEE9aBBQXtvyeskYBM2TQl7qUQ==;ayQaYL5mgwUY/v4r8Bmk4g=="
 ---

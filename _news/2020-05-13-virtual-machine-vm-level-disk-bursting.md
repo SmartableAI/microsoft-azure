@@ -5,8 +5,8 @@ excerpt: ""
 publishedDateTime: 2020-05-13T16:00:58Z
 webUrl: "https://azure.microsoft.com/en-us/updates/babanisamicrosoftcom/"
 type: article
-quality: 62
-heat: 62
+quality: 2
+heat: 2
 published: false
 
 provider:

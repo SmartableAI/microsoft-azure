@@ -5,9 +5,9 @@ excerpt: "To make it easier for customers to modernize their on-premises Spark a
 publishedDateTime: 2020-07-15T08:00:28Z
 webUrl: "https://azure.microsoft.com/blog/now-save-up-to-52-percent-when-migrating-to-azure-databricks/"
 type: article
-quality: 79
-heat: -1
-published: false
+quality: 69
+heat: 89
+published: true
 
 provider:
   name: Microsoft
@@ -30,13 +30,13 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 84
+    quality: 24
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2f43204b-76ea-4b9b-b1cb-18a606a9fbea.png"
         width: 1008
         height: 563
         isCached: true
 
-secured: "ZDLEoHa7Q+pW/B65J9+Sc3eFtBZI1WetjqziLYAUDPnciHMTPy5z8iT8R0dszA3TA+S6/BIoDvbZjQUjeiCfne7k5oLoMT99nN3mpcHHIPE75d+ZtneGxSE5CUjc+JrJ9cFYawv4sBClMMI35fjpgWffmCqrE2hiOB653LjVPc5SpIQtAZX8HxruIekZfspWUDyhzZZSvIvUEPD2DVY8gApXxcoGPnGHLwwIECytDP2AsWF7mIh9umb3m1Oi6VilA5Gv1WcdMaKVnvor8Lw+iReysOytmHiiG9T6EqN+TzfMmnY3fO7tv8ZzlGfFV5Pq3H50CR3BoIKI8z2e5Ob1fQ==;1oJd/9I3dIzcwlyf18xa/g=="
+secured: "3fKWX+afk/mjzeNPz7pLxrzYzhGKmQsOE29BnazIih3+3mDQFhccPS4qz27994UAY48uvU4rFpNvhldY2FMgWGFQ5y2SECUXuzCZR+fsba9ku9KGelIG4SPjh+P/zEy5iSdkuaWmM/8JSucwkc5I//0WoGZrODFb6P3Jyf6AlNd/CMx4G8URxNnEsvpxsM3WGNHxFwUBVZn5FaFKQSw5y6GCJdmvzaWSPza1tBWsxEnAkgQWQtLi0ruIUCVcSn+tV5+D+HIUfcUcouqkSQdW+B3vpE4wDoHtZpmSjG84FK5Wg1/uHlaFPOND791rkS8LI4cal8aLyoorDtXae5FdPSmlT2J13+csy+zLJgS4DKo=;KzEyG9POShtjhtd5pUVbjA=="
 ---
 

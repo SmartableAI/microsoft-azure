@@ -5,7 +5,7 @@ excerpt: "Red Hat OpenShift 4.4 is now available on Azure Red Hat OpenShift."
 publishedDateTime: 2020-07-21T16:00:46Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-on-openshift-44-now-available/"
 type: article
-quality: 77
+quality: 17
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 93
+    quality: 33
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/d92493a1-f2b7-43cc-aac0-2fb16327579f.png"
         width: 600
@@ -43,7 +43,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure ultra disks are now available in the US Gov Arizona region"
     excerpt: "Azure ultra disks are now available in the US Gov Arizona region."
     publishedDateTime: 2020-07-21T16:01:51Z
@@ -52,7 +52,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Stream Analytics is now available in the US Gov Arizona region"
     excerpt: "Azure Stream Analytics, a real-time analytics service that is designed for mission-critical workloads, is now available in the US Gov Arizona region. \n"
     publishedDateTime: 2020-07-23T23:00:08Z
@@ -61,7 +61,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "New general purpose and memory-optimized Azure Virtual Machines with Intel now available"
     excerpt: "Today we're announcing the availability of new general purpose and memory-optimized Azure Virtual Machines based on the 2nd generation Intel Xeon Platinum 8272CL (Cascade Lake). This custom processor runs at a base speed of 2.5GHz and can achieve all-core turbo frequency of 3.4GHz. It features Intel®"
     publishedDateTime: 2020-06-15T09:00:47Z
@@ -70,21 +70,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 68
-  - title: "BitDam Advanced Threat Protection now available on Microsoft Azure Marketplace"
-    excerpt: "BitDam announced the availability of its Advanced Threat Protection in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. BitDam customers can now take advantage of the productive and trusted Azure cloud ..."
-    publishedDateTime: 2020-07-22T23:20:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/07/23/bitdam-microsoft-azure/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 33
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
-        width: 304
-        height: 430
-        isCached: true
+    quality: 8
 
 secured: "3++j9lVqWEKOiQ+CH8AuUscEeaSxdonor6lte1cTDWx3cUR5FdFlq8rzDvXCNugXKrCn9edT7ENeolgayD8cfrTGGnDtLldJ2BdsyndWO5vks4n+qqU+nQv/+2Sm1aNdzzG7eQkoV3QhN7uHeSC5WeMM4Np14btndQjZNx/YpbLTRjxhPwqf2+6lpQway1xiNJr4NXT5XdtWv5pEteUjigZtBW+Ey2cAHEZBoDlWSsjP5+gx6ltPxjiKYfzmNYEbChoD7NWq9jXxExvtVCUuULMTd5Q9Al5zknlyEWfStN//9KIjBN8aKcf6x+HH9ObHlemp6IWiU7tGtWud7VjbmA==;TO+BdOET4Xlf3QjnJyo4gQ=="
 ---

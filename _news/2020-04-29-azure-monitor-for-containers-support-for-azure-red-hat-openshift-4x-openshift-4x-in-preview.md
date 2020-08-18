@@ -5,7 +5,7 @@ excerpt: ""
 publishedDateTime: 2020-04-29T19:00:03Z
 webUrl: "https://azure.microsoft.com/en-us/updates/aro-openshift4update/"
 type: article
-quality: 65
+quality: 5
 heat: -1
 published: false
 
@@ -21,24 +21,50 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Monitor for Containers now supports recommended alerts"
-    excerpt: "Azure Monitor for Containers now includes recommended alerts. Use this feature to enable alerts in one click on your Azure Kubernetes Service (AKS) clusters. These preconfigured metrics alerts enable you to monitor your system resource when it's running on peak capacity or hitting failure rates. This"
-    publishedDateTime: 2020-07-15T23:00:32Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/ci-recommended-alerts/"
+  - title: "Microsoft Azure Arc will support OpenShift and Red Hat Enterprise Linux"
+    excerpt: "During Ignite 2019 keynote last year, Microsoft announced Azure Arc that brings Azure services and management to any infrastructure. With Azure Arc, you can manage Linux and Windows servers, as well as Kubernetes clusters on any infrastructure across on-premises, multi-cloud and edge. Azure management capabilities like Azure Resource Manager ..."
+    publishedDateTime: 2020-04-28T17:50:00Z
+    webUrl: "https://mspoweruser.com/microsoft-azure-arc-support-openshift-red-hat-enterprise-linux/"
+    ampWebUrl: "https://mspoweruser.com/microsoft-azure-arc-support-openshift-red-hat-enterprise-linux/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-azure-arc-support-openshift-red-hat-enterprise-linux/amp/"
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 57
+    images:
+      - url: "https://mspoweruser.com/wp-content/uploads/2019/11/Azure-Arc.jpg"
+        width: 1156
+        height: 649
+        isCached: true
+  - title: "Microsoft beefs up Azure’s Kubernetes features and Red Hat integrations"
+    excerpt: "Microsoft Corp. today introduced two updates for Azure, one focused on its managed Kubernetes service and another on Red Hat workloads, that should allow the cloud platform to better accommodate enterprises running a variety of different application types."
+    publishedDateTime: 2020-04-28T20:09:00Z
+    webUrl: "https://siliconangle.com/2020/04/28/microsoft-beefs-azures-kubernetes-features-red-hat-integrations/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/microsoft2-1-1.png"
+        width: 718
+        height: 400
+        isCached: true
+  - title: "Azure + Red Hat: Expanding hybrid management and data services for easier innovation anywhere"
+    excerpt: "For the past few years, Microsoft and Red Hat have co-developed hybrid solutions enabling customers to innovate both on-premises and in the cloud. In May 2019, we announced the general availability of Azure Red Hat OpenShift, allowing enterprises to run critical container-based production workloads via"
+    publishedDateTime: 2020-04-28T08:00:39Z
+    webUrl: "https://azure.microsoft.com/blog/azure-red-hat-expanding-hybrid-management-and-data-services-for-easier-innovation-anywhere/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
-  - title: "Azure Monitor for containers with Azure Portal now supports Kubernetes resource view"
-    excerpt: "Azure monitor for containers with Azure portal now supports new Kubernetes resource view. In this new view you can diagnose the issue by drilling down to resource types including deployments, pods, and replica sets & see historical data trend and overall usage over time."
-    publishedDateTime: 2020-08-05T23:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/ci-aks-resource-view/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 70
+    quality: 26
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/312759ad-1010-4449-98f4-308ec63ec078.jpg"
+        width: 1099
+        height: 618
+        isCached: true
 
 secured: "UzILw02iLMIqtv69+1MAfhu7cRi4O9ClWQuli1VRBbTXzJne6mqFmBfN34lrEEAixyZ211M6F3Nlmfnph6pxj0O63BeIODD9uNV7B8ApymfAWKnsGob8PGXbKXmp4ALV+u9HTZJ+XfQLEOIq0WGfJoyBWKMr3poiV24qlsQB6CeGqdltKKI8OcacALrFi2DJoOChhtFrBVgCZsSSfYNwgP8TreAf0nCuh7pQ9bNLTrS8/94xRt4jKye5MiVrvRO91AcEiNQlHnhbIt95j3QjZCBmPI1h0k4j7NSbnBmsREHAiozfKpLEXYzQv32tIo1YjZonx22jnRnrOG/KfdNT4w==;h7LBv4HRShoFac/uVSxNMA=="
 ---

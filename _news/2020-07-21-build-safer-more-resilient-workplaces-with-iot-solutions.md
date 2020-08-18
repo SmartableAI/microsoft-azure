@@ -5,8 +5,8 @@ excerpt: "How do we make it safe for people to return to the workplace? And how 
 publishedDateTime: 2020-07-21T08:00:49Z
 webUrl: "https://azure.microsoft.com/blog/build-safer-more-resilient-workplaces-with-iot-solutions/"
 type: article
-quality: 99
-heat: 99
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 427
     isCached: true
 
-secured: "a4Q4ngDpH54qTj9lRpXO3xjX+n0MFzLZlSSmZ7Bn0daOxXf0xXGjXRkZ/VDh2OOF6AZN/TlNuyHGIhfgmFdLMe+KWGN2evv3GcEjVSU3HzYF8Mdp9JPmJLJS7HkXNdeg1HF3UpRSwrcUR2DtADmtwj2POYFhjbdcj/AfMrr0guaA9q787tWAjLZheF8lGoGd3I//8fZb91kQ89zIq1fWJ/6yRv60NMjVmHlNgaOQP2MQ7oG9kCAhU4Y/1E/5445KLYmYYtH4OS+Qq7cRfJni/P4rijfBic7db75dsFdWMLrVo04QxFiqj+5oiyM3ecVCoT2nFlOYTDueFhdo/HZlGg==;sMAUlinqWqlGVSosm1dzqQ=="
+secured: "mJTIT6/72KfWdYurCv/kO8dSeoBHZXGEoMSn9OttCgbsxPmhMuGh9EEDzVTR0s5vhenzKGvQfoSajfulK4DMv8Zofm9ln7LA0l8CWxml11ra9f+3kvJPv6zRVK9B0BbZa6UzENOYhYFPO0x4IUZm8dW83zqCjzqC83TfayXPEYtTO3sh4/XgTR4j/cL2xuMLmXqDAoBbqgl/sipAdcULLczdxnVtB45WBoGqnaBh2DzVveoL/8Cbv9P1WXYqkkony2+S7uldvlOBmKg0lQRiyjI6WrFOF30QihoywRlXG1jwA6IlY4V7AV3xGMjxHXrucNVTCLFdvdBcNzqkkmT5iueqvdXNjVB/H5VdRWgjsl4=;cBDtEDazPgEGXQhGG0ZYow=="
 ---
 

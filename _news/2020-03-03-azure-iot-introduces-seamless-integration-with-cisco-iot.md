@@ -5,9 +5,9 @@ excerpt: "The pace of technological change is relentless across all markets. Edg
 publishedDateTime: 2020-03-03T09:00:05Z
 webUrl: "https://azure.microsoft.com/blog/azure-iot-introduces-seamless-integration-with-cisco-iot/"
 type: article
-quality: 94
-heat: 94
-published: true
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Microsoft

@@ -5,8 +5,8 @@ excerpt: "Cloud, edge computing, and IoT are making strides to transform whole i
 publishedDateTime: 2020-03-31T08:00:10Z
 webUrl: "https://azure.microsoft.com/blog/microsoft-partners-with-the-industry-to-unlock-new-5g-scenarios-with-azure-edge-zones/"
 type: article
-quality: 92
-heat: 92
+quality: 82
+heat: 82
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Microsoft partners with the industry to unlock new 5G scenarios with Azure Edge Zones"
 
-secured: "G2ixy0RwFFqgqgwZwV0KrwSV8BLQoKJG9MLpGznQnKkyq84mBJS0VqYTvktfVZh+brpZ/rUf61aVsD7btVc3booO5Wiqgvo5daxMGpRSZd8JQA8unXvKYIJieleh4/I6PkU1AFtYFRDEZMzNoZunknFs70DZhSpUgMvzJy0h/IdtIrqYqlZy9ZrS3vQRIg51jwHGYSkwgFfIJWba2XotBITslkAPNvbLi6LtlAwT9tA40gv8eGk9k48oX9D7NIeICWV8jrMi5SFGZVaMIzJEyIVdi+X6mtj0TL6sgiXYXdMaNHAoJ6UM6JC5O+0J2da6NoSxkA+Gku028a5O5D3kkA==;8igWPORhkO1wP1Nxa7GsvQ=="
+secured: "mnB1BwYD0RAoQnQQKT6oqvPH69XQnFqQJL/MX9kYMo8HswUyffv0BgYaONw7AxlHYdr3h7s9wky1o61zNjZlJmqHXoGez6UJMzmvMRYLy/CgF/El3ZwFW5Al4Pynidzd9B70TSzRbmg6qHi03gyENKOcmK2BKmXnq/Pfmg8TyFGCsVgXFird2P/O/uYXINfldI6lz4aUzbNAVQb7FmkzC3KcxkidtLkgZPHOqZU/7aTlTEQeXhrO+IeIu0etov9uEK0M0SKKPQ9EFFbw0JS4eH3Bk2nWwDI/Z0zkKHmwtqoMN8zN4ehEKqdqNYs2phASzLYR6zKllhqeMCkFfQTo2tVdEOKf4RTDevBqhIpcoo8=;JmgvL3R3JCWQPpxzvpVifA=="
 ---
 

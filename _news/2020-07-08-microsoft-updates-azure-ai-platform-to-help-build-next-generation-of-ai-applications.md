@@ -8,7 +8,7 @@ ampWebUrl: "https://www.windowscentral.com/microsoft-updates-azure-ai-platform-h
 cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-updates-azure-ai-platform-help-build-next-generation-ai-applications?amp"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -33,21 +33,21 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 90
+    quality: 30
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/806e3cf2-c447-44e8-99b6-ab0cfee38544.png"
         width: 626
         height: 293
         isCached: true
-  - title: "Create virtual machines from Azure Shared Image Gallery (SIG)"
-    excerpt: "You can now enable specialized images from your shared image gallery (SIG) for lab users to create virtual machines."
-    publishedDateTime: 2020-07-08T16:45:56Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/create-virtual-machines-from-azure-shared-image-gallery-sig/"
+  - title: "Snowflake Achieves FedRAMP Moderate Authorization for Snowflake on AWS and Microsoft Azure Government"
+    excerpt: "Snowflake, the cloud data platform, today announced it has achieved Federal Risk and Authorization Management Program (FedRAMP) Moderate Authorization"
+    publishedDateTime: 2020-07-08T17:32:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200708005692/en/Snowflake-Achieves-FedRAMP-Moderate-Authorization-Snowflake-AWS"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
+      name: Business Wire
+      domain: businesswire.com
+    quality: 2
 
 secured: "+xaL0raz0b/fGXUVHOgfioC0ZLQNDzRou64+olKzGFMzgAL1nO3HeFDfpRibQKNjQZEq6ooLZ40qzPGf7eHtNkbjcHLSZ632HW5NGA3ximRW7wCSgnmc31povTUDOZ7QdY0AuexgLOB7j6a2WFOzDM01fR/Z+5wF4hEzIt2A7mvnP2aNwuW6GtMjbTtbAy2Q5M8wYgJlKVdqgPU7X2l7PAxzkD/Wfe+ethsZ1SnBGj2pna0Avh18KmN+lvLjl85EeSRNcL/L45DTeSewm/xdy9AT0DVsnFhA6E/mEBVu4fOsEBLA3z63jFdIG64J4K1679mkIFOHhrZNi9tFpFNT7+HYwOd2qBu83JKazX5E6c/ewcBky+KN0VS45vOxBUvNghVVY0z93V2v4Vq3Q6NRwmJ9DmUsJwgvBxP59Z23qq4sAKEi7rHIQ4m3dIA6CGQ6f73ShS8I3rC9om0DHlAeGNvJg2tnGOJVlcmZETpNf7sMk16xHX8uELQgHzwtwoVdccPWPVbrWlYqCyQeleq9Rg==;g8iG3O/RR6vlPwLeUs5Ing=="
 ---

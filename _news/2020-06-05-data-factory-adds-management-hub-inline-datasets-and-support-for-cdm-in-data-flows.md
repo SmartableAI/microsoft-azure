@@ -5,8 +5,8 @@ excerpt: ""
 publishedDateTime: 2020-06-05T17:00:05Z
 webUrl: "https://azure.microsoft.com/en-us/updates/data-factory-adds-management-hub-inline-datasets-and-support-for-cdm-in-data-flows/"
 type: article
-quality: 55
-heat: 55
+quality: 0
+heat: 0
 published: false
 
 provider:

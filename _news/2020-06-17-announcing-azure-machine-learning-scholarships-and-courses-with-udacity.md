@@ -5,9 +5,9 @@ excerpt: "According to LinkedIn’s Emerging Jobs Report for 2020, AI specialist
 publishedDateTime: 2020-06-17T08:30:13Z
 webUrl: "https://azure.microsoft.com/blog/announcing-azure-machine-learning-scholarships-and-courses-with-udacity/"
 type: article
-quality: 94
-heat: 134
-published: true
+quality: 84
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -55,6 +55,6 @@ related:
         height: 894
         isCached: true
 
-secured: "w3aj4eUX80IWfJ7X1dI+MFUXqTVMUN+iFubVPMGqraIFVZZS61K4CgY3vc5QLrzHi4MNe715Oso1kmRoDidagG40GpeE7abEoLr67IQVtXSAy9aUUFblDcZ4pnu6uggQYRRcoDZ+nWs8zuicQsQJWv4VQUWLxsuzvXRA2TeWoku0D4rJo4XblmQTQKfk9mlXOKkXLuqZsh+07UqP3IOc8tJ59B/Xq1AyHCKSY8Eoqn+4kC3amqOHIvhB8MwTUdToPfjAYy8wxcAscKNmHpnnRO336kYszBrnh4oKBRYckeVByqvDfFzZ6EN971ZESggl2Rva65c1S3ZDjSJz/tJqmA==;mC3gx09LUxuXfmIkpcuiRQ=="
+secured: "hTrHJiGU5tTrJVILoDeQFt0ntuf78zG6JYc8TRlb8PeGPY6afCzwROOLt9kFesr/8ayCUhCoFzZmMEamWLrBzlr/1JZvfuWgarE4HP1l9E3KmNOtvbyk9/M48Tr59/MxBvU0o2dzH6nfDJ4SRDkZiD6N62NjWx2zVuzSBCpb9aR6EQG1fv5TbgfsInt4TezwdsLt3O9KO1uWuZqn+kkTEt4qItv2C4oiGkjv+AkbxN+UHLU6YirOrori7bwslg8O1YZkZQcwDNO6gUPCIbGcgOz8eF2MIdc2aYzWQB9OlHAuiBhFsrIMvbpLYz+TSBZ8UVwRq5cRu9WIkUBwK5H8GuDvGL9K1ebwEZO0Dwm7ykc=;CFhwAoKK6WuwXXCAV6OvpQ=="
 ---
 

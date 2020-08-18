@@ -5,8 +5,8 @@ excerpt: "Today we are announcing the general availability of the Rules Engine f
 publishedDateTime: 2020-06-23T09:00:03Z
 webUrl: "https://azure.microsoft.com/blog/rules-engine-for-azure-front-door-and-azure-cdn-is-now-generally-available/"
 type: article
-quality: 92
-heat: 192
+quality: 82
+heat: 262
 published: true
 
 provider:
@@ -22,42 +22,6 @@ topics:
   - Networking
 
 related:
-  - title: "Azure Automation is now available in the USGov Arizona region"
-    excerpt: "Azure Automation is now available in the USGov Arizona region."
-    publishedDateTime: 2020-06-22T16:00:33Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-generally-available-in-usgov-arizona-region/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure Content Delivery Network standard rules engine is now available "
-    excerpt: "Take advantage of new rules to further customize the behavior of standard Azure Content Delivery Network to best meet the needs of your customers. Use the rules engine to modify request and response headers or dynamically override your existing route behavior based on incoming requests. Now generally"
-    publishedDateTime: 2020-06-24T16:00:29Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-content-delivery-network-standard-rules-engine-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Database engine auditing for Azure Database for MySQL is now available"
-    excerpt: "Azure Database for MySQL now provides general availability support for using audit logs to record database activity and events such as connections and queries."
-    publishedDateTime: 2020-06-24T16:01:16Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/database-engine-auditing-for-azure-database-for-mysql-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure Private Link for Azure Batch is now generally available in select regions"
-    excerpt: "Azure Private Link for Azure Batch is now generally available in the West US 2, East US, South Central US, US Gov Virginia, and US Gov Arizona regions"
-    publishedDateTime: 2020-06-16T21:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-for-azure-batch-is-now-generally-available-in-select-regions/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 73
   - title: "Trifacta Now Available for Direct Purchase and Activation in the Microsoft Azure Marketplace"
     excerpt: "SAN FRANCISCO, June 25, 2020 (GLOBE NEWSWIRE) -- Trifacta, a global leader in data preparation, today announced the availability of Trifacta in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
     publishedDateTime: 2020-06-25T13:00:00Z
@@ -72,7 +36,79 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Azure geo-zone-redundant storage is now generally available"
+    excerpt: "Geo-zone-redundant storage (GZRS) and read-access geo-zone-redundant storage (RA-GZRS) are now generally available, offering intra-regional and inter-regional high availability and disaster protection for your applications."
+    publishedDateTime: 2020-06-17T20:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/storage-gzrs-ga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure Storage account failover is now generally available "
+    excerpt: "Customer-initiated Storage account failover is now generally available, allowing you to determine when to initiate a failover instead of waiting for Microsoft to do so."
+    publishedDateTime: 2020-06-17T17:00:26Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-account-failover-ga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure Automation is now available in the USGov Arizona region"
+    excerpt: "Azure Automation is now available in the USGov Arizona region."
+    publishedDateTime: 2020-06-22T16:00:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-generally-available-in-usgov-arizona-region/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure Content Delivery Network standard rules engine is now available "
+    excerpt: "Take advantage of new rules to further customize the behavior of standard Azure Content Delivery Network to best meet the needs of your customers. Use the rules engine to modify request and response headers or dynamically override your existing route behavior based on incoming requests. Now generally"
+    publishedDateTime: 2020-06-24T16:00:29Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-content-delivery-network-standard-rules-engine-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Database engine auditing for Azure Database for MySQL is now available"
+    excerpt: "Azure Database for MySQL now provides general availability support for using audit logs to record database activity and events such as connections and queries."
+    publishedDateTime: 2020-06-24T16:01:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/database-engine-auditing-for-azure-database-for-mysql-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure Data Lake Storage archive tier is now generally available"
+    excerpt: "The archive tier for Azure Data Lake Storage is now generally available. The archive tier provides an ultra-low cost tier for long term retention of data while keeping your data available for future analytics needs."
+    publishedDateTime: 2020-06-30T20:00:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/archive-tier-for-azure-data-lake-storage-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Database engine auditing for Azure Database for MariaDB is now available"
+    excerpt: "Azure Database for MariaDB now provides general availability support for using audit logs to record database activity and events such as connections and queries."
+    publishedDateTime: 2020-06-24T16:01:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/database-engine-auditing-for-azure-database-for-mariadb-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 16
+  - title: "Azure Private Link for Azure Batch is now generally available in select regions"
+    excerpt: "Azure Private Link for Azure Batch is now generally available in the West US 2, East US, South Central US, US Gov Virginia, and US Gov Arizona regions"
+    publishedDateTime: 2020-06-16T21:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-for-azure-batch-is-now-generally-available-in-select-regions/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 13
 
-secured: "aSnDbyaqzq70z2B/Vuew2DMa29OFusSdhvIfRkwNFaUeJDmPMGVGWSQ/gE6BH1DV4PSjs4zYd6NIkzab95/cz+TiUopTRaVS3YTzDzjWHAg4q3d/N0hIBekYMITspUMLOVMM27yLkmZqmyA672/e9vBTxMo7fN5L3hDIusgCml4vYAeR7e0YQo8aq2WKT1+eyvEAueolT2MeSAG7PphfaSOR46k4kjQqVdLG1vMvjE7m9Vc7yKZY+ueghZeac3R2DO830OKErWTX+ZVgvJDAxY+h0DgEI025cz52SNeo6lhPkCLbCx1NI5SXO5HRAHu+iZbVEzzJbgD44vrOXLzkjw==;MPXndT8gbW/+8OFzHrvlKQ=="
+secured: "ULkvrejumh/Dc80CpFbWACK7vkl4g5flzPkyaaKGnCxgAOYZiQuP3rx51ftvbeFMknAWLHl5/prWsOeM46sLjRSZMtyVPdJcHU8VdpKFYddECpK98nu8MJYoxlPHhebBXT1ASXB8Mgb56ii7mE1476kophHWnu5gYbHmdYlpI3S7CWIKpowTRN2ZpqSoD9HTKj3IZS5r88ot1WmTWXT5lPSiUUhHiblh3G5VXwsOHDW1KYajGOnAIRELDxw6aclDjM3NTNWP1r/h09W8UZxs5yoIf3ApsWsa0Bp87PPnvw4cRj/lI+5bFa8YXTvUfAJLcsWI/hJR1znOmbkS7a7bdwim2x0L/GQ2MQM/87iQyn8=;8yGwNtrqo5vAHbWMw3fE5A=="
 ---
 

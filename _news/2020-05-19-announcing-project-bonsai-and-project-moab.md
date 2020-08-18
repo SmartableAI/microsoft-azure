@@ -5,8 +5,8 @@ excerpt: ""
 publishedDateTime: 2020-05-19T16:10:15Z
 webUrl: "https://azure.microsoft.com/en-us/updates/announcing-project-bonsai-and-project-moab/"
 type: article
-quality: 62
-heat: 62
+quality: 2
+heat: 2
 published: false
 
 provider:

@@ -5,8 +5,8 @@ excerpt: "With the global pandemic, customers are relying on remote work more th
 publishedDateTime: 2020-07-27T11:00:03Z
 webUrl: "https://azure.microsoft.com/blog/new-windows-virtual-desktop-capabilities-now-generally-available/"
 type: article
-quality: 82
-heat: 162
+quality: 72
+heat: 212
 published: true
 
 provider:
@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Azure Archive expanded capabilities now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-04-23T16:00:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-archive-expanded-capabilities-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Remote Desktop client for Android now supports Windows Virtual Desktop connections"
-    excerpt: "Access Windows Virtual Desktop from the new Remote Desktop client for Android."
-    publishedDateTime: 2020-07-30T00:00:32Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/windows-virtual-desktop-client-for-android/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 76
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/3358bb18-b443-4c0d-9823-f95637177398.png"
-        width: 1080
-        height: 2280
-        isCached: true
-  - title: "Windows Virtual Desktop Azure portal and Microsoft Teams integrations are generally available"
-    excerpt: "It’s now easier to deploy and manage Windows Virtual Desktop as well as provide seamless meeting and collaboration experiences through integration with Microsoft Teams. "
-    publishedDateTime: 2020-07-28T22:14:54Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/windows-virtual-desktop-azure-portal-and-microsoft-teams-integrations-are-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 66
   - title: "Windows Virtual Desktop Gets Azure Portal and Teams Client Support"
     excerpt: "The Windows Virtual Desktop (WVD) service now has Azure Portal integration, plus Audio/Video (A/V) Redirect support for Microsoft Teams client sessions, Microsoft announced on Monday."
     publishedDateTime: 2020-07-28T23:20:00Z
@@ -73,7 +41,66 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Azure Archive expanded capabilities now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-23T16:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-archive-expanded-capabilities-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure VM Image Builder is now generally available"
+    excerpt: "Streamline your image building pipeline and integrate your DevOps application lifecycle with cloud native tools using VM Image Builder."
+    publishedDateTime: 2020-07-20T16:00:31Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-vm-image-builder-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "AKS-managed Azure Active Directory support is now generally available"
+    excerpt: "Azure Kubernetes Service (AKS)-managed Azure Active Directory (Azure AD) support is now generally available. "
+    publishedDateTime: 2020-07-21T16:00:56Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/aksmanaged-azure-active-directory-support-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Remote Desktop client for Android now supports Windows Virtual Desktop connections"
+    excerpt: "Access Windows Virtual Desktop from the new Remote Desktop client for Android."
+    publishedDateTime: 2020-07-30T00:00:32Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/windows-virtual-desktop-client-for-android/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 16
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/3358bb18-b443-4c0d-9823-f95637177398.png"
+        width: 1080
+        height: 2280
+        isCached: true
+  - title: "Azure Virtual WAN: Multiple capabilities and new partners now generally available"
+    excerpt: "Today we are announcing the General Availability of multiple enhancements in Azure Virtual WAN, including hub-to-hub, custom routing and transit capabilities."
+    publishedDateTime: 2020-07-06T17:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-virtual-wan-multiple-capabilities-and-new-partners-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 12
+  - title: "Windows Virtual Desktop Azure portal and Microsoft Teams integrations are generally available"
+    excerpt: "It’s now easier to deploy and manage Windows Virtual Desktop as well as provide seamless meeting and collaboration experiences through integration with Microsoft Teams. "
+    publishedDateTime: 2020-07-28T22:14:54Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/windows-virtual-desktop-azure-portal-and-microsoft-teams-integrations-are-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 6
 
-secured: "avlp8emNIqtt+bFe45Y3l/7XnS/eseJYAUF1PABi1EetLydv6P0Cr66IEllGfj0wdrSQOrmAacB2aXK/y/lIQ+fDzHuTcOAj5uHECAsypJD78trKLaEs+hHKI8dhVqq4VBOOoyFEqs8GIfEWIInkiVSSxQd4UqEo4znOPd+lFxhFjWBQ0lwhRtH0eOhXcDkmwTfcK5VbhOQVbB7ZYt27IlIZ0Lfefpwp0wvH4iG2OCv0YOPmtND80bBH8BPWZbqSvteM58OmlSrHS7uCDqqQ0/ZxAc9d1O9qsgz+I8cwI5XONUOzKLDe03nGLFwLoulwOL4R5nSG+ewESfwfPt+7GQ==;yLKM+lJM7hK00oYCyy7CPQ=="
+secured: "gEokwEJy86VO/BOgyttIYsBAAgXoZwQ+QWJ1gADsoouDddHVJv/l3fB8eYP3GxNj18G6HNa6Fu23hHissM+0xUr+CTzTieTVdLVwuCdIeeY4SiJKMelQwmIvn/BF410TEZhzBX87Al2CXAcg3ItP5gLUm0F7RPk1ik1bxwlLOrMqqTt2H62YPf68AkjkCNKURsuiyKY6TyNLQKpt6uU4HUt/tbwp3UruxGQyNkuYbHSkBBnfoUA/kaaepwj0S51g6IWCX+HlJc9XpUNqiErunJv2JF12vWJrYy3RtnA1r50aFL5fxr0mm7vuRAAqruWPd325If+lN5g2XK1PE2WqXmTfnh5ySvLhu88VjR1+xTI=;bzZ1Vsbjsb4qQpv/AixhTg=="
 ---
 

@@ -5,9 +5,9 @@ excerpt: "Updates to log alerts in Azure Monitor include new links to the Log An
 publishedDateTime: 2020-06-24T00:00:20Z
 webUrl: "https://azure.microsoft.com/en-us/updates/improvements-to-azure-monitor-log-alerts-include-new-links-and-added-dimensions/"
 type: article
-quality: 93
-heat: 93
-published: true
+quality: 33
+heat: 33
+published: false
 
 provider:
   name: Microsoft

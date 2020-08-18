@@ -5,8 +5,8 @@ excerpt: "As AI reaches critical momentum across industries and applications, it
 publishedDateTime: 2020-05-19T08:00:15Z
 webUrl: "https://azure.microsoft.com/blog/build-ai-you-can-trust-with-responsible-ml/"
 type: article
-quality: 84
-heat: 84
+quality: 74
+heat: 74
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Build AI you can trust with responsible ML"
 
-secured: "RYAzBNMoWMtR72rlx1JnRUFfEY2/hhAbR//nGFGQ8n8ZXVXMhMx2NUqmsQ4KGyayEHEXFQOjc8tPDAQAAjC3GLYDUuSDaCxFcMOjJAUViAdFNCJq8GcAeNJ7TULnn3nrLfi+wrnUCOK0PvewiWhkeEjk0eIsG3B+CXynlejJr2MBTJ0OSnennoHv26VIeDShLy5ECOmqQ4Kr3HEhdb3C+jOpEA/UlekJQKQ04qnHSlhHFrI1kG+aw3smQqf1lmSJZoxh96yRkaXuCFzuRJkZ4QB7jaYaUKRNRAg8Gk2qqrp5hpohoP22Uydq75BnFkOLPaEbYkLhh0wnTiDjbfe0AQ==;za0u+ox92QULj9y+AE8xHg=="
+secured: "GLYKx0pIv4vNxWzc05grzqfKN1PnxkWy53uUzsIwm90WXHUQXFOw4+foxuAX7QRyjHBSLYHCqfxz4fThYyBKGSnLYV+P9rgmQaRFJ7o3teuNxdhPyNxT9pK08gUSt+7xHZ1y4w76CPhvGVYDq+EYFuAgLTGJIVSBPaoHyDpL7b+UhvGa7A5FdqE0pjbdGCcWcOnJM8kl7v0H+MifJtM7V8ho7UlSJ1uzvdvqqtluPKVQXC5694Mk2jlUz4toE0LNsr9Qm/v3ccBRjPw1N2Yh75KWwsh25MBnQ3Hl8/D4w1mgWuzE7i+wBiP4ud6AlDwM7wjWxXre2n/vdPZVMpFwA9vayJAzRbtFPH0TDeOcv7g=;+1FlgIxnClzRlrZv+3ycxw=="
 ---
 

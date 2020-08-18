@@ -5,8 +5,8 @@ excerpt: "Custom Translator team is being upgraded to V2 phase-1 to take advanta
 publishedDateTime: 2020-08-03T22:00:08Z
 webUrl: "https://azure.microsoft.com/en-us/updates/ctaug2020/"
 type: article
-quality: 62
-heat: 62
+quality: 2
+heat: 2
 published: false
 
 provider:

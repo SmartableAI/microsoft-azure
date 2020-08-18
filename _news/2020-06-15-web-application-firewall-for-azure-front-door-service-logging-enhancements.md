@@ -5,9 +5,9 @@ excerpt: "Azure Web Application Firewall for Azure Front Door now has a match de
 publishedDateTime: 2020-06-15T22:00:01Z
 webUrl: "https://azure.microsoft.com/en-us/updates/web-application-firewall-for-azure-front-door-service-logging-enhancements/"
 type: article
-quality: 75
-heat: 75
-published: true
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Microsoft

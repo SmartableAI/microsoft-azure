@@ -5,9 +5,9 @@ excerpt: "This post was co-authored by Jamie Reding, Senior Program Manager, Sad
 publishedDateTime: 2019-10-22T09:00:03Z
 webUrl: "https://azure.microsoft.com/blog/gain-on-oltp-price-performance-with-azure-sql-virtual-machines/"
 type: article
-quality: 79
-heat: 79
-published: true
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Microsoft

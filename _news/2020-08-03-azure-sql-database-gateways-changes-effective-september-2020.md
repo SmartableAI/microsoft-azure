@@ -5,9 +5,9 @@ excerpt: "Beginning September 1, 2020, new Azure SQL Database gateways in multip
 publishedDateTime: 2020-08-03T15:00:04Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-database-gateway-changes-sept-2020/"
 type: article
-quality: 77
-heat: 97
-published: true
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Microsoft
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 75
+    quality: 15
 
 secured: "t5CqFTr6sV793c8CfnzfjYC7rADddqpP0qn1mEWlhN9Lpmj+RJ5DW6O66TCJZhcrpFOUr52yY9rYS6aq2AyoieVs3w4SbwOnMy64HZeJC3Sp69AqZoSlFf2wswnK+DFIGWGU84w8bxz+o/TuIqFZ95ykdP11wdjZDn2oCaUjg1FOeJjbHN3SSqa09EkktZsa110+PQCFd+/sKzzWkEJo79Zm6iRXsuKUBNxocp9okW8ybmO2kJYJlpLKoU2X7pVG6OsvhjWzWP62E3OiYYr2gNGIcYEk7D/MMP4O7LSkkG2pCmOHKh+uyF8VhpGQjPCBSGYo1x2O72icHEVz4iqCXw==;fc0ookxDnEkqbe2h6rJvtg=="
 ---

@@ -5,8 +5,8 @@ excerpt: " Now more than ever, organizations need to reduce costs, keep up with 
 publishedDateTime: 2020-06-24T11:00:16Z
 webUrl: "https://azure.microsoft.com/blog/stay-ahead-of-attacks-with-azure-security-center/"
 type: article
-quality: 94
-heat: 114
+quality: 84
+heat: 104
 published: true
 
 provider:
@@ -30,8 +30,8 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
 
-secured: "IClPo/8vJJPLisrgJtfC6E6FqaLoqDln/JLHHxUeFmF3WTkfxjM3W07mlLKw8V6/33p9zy8OvT0NpkAKBL7cYJ83aWcKWGxZDhao+ecSm08SsNWhbU8Aw0VFpgorygJKyaTrrF21VDkoZkYH8Furm8m6L8WPwFVUdljLMIIEDc3ZVb05tQRcYAE9Yo7hIngwdSyxIKgLLzqng5I8SrdSZufvLuBQk25vodP+n4rul5IE9MbQCWQZwNV91gJ1Bd4OpJa6LCKh5YZjLhvgLLb7ixnNDDe5b4p81SDS53v18tYRKzTN36WJbe2SIBiWcRh9WydR6wtYm/Bb5xJQ47YHCQ==;MYizRUBcGcc1i1eXTj5y1w=="
+secured: "B5WOHXZPdZO2kYHeeANrJlhsRf0tkvl7gThoXqHlnkB75Cedat2FFz6NMCUk8qE75erpvwDVxlo0OVCdixlrWi72T48uMmvRWXZT4zEOX4nkYs/qSIe9IS6DYsImSxodaxtmuhICgC1+MSUnq7mnuBJyUk+2uBMOjyy0usrb5K6xQ0cu5jozkUYXOL/DwenrIx7kjaJGlvPpK6ifhXz9D3oQv12KbW2QRRqofX0dGS7AQhFU9GYBwKhfFDEM0vLbkZYoaalbpE1uaYtVjetuaBGmFRhPhIWNUm7X45Y62Sf1srecUyOgHp2gOaeyFqO9XI7wsubK1BeiEgrMrfd1ATxSz5vb+gkzR3sKY0DSHz4=;Fzjk7SRBLf6EJKDpVHTz8w=="
 ---
 

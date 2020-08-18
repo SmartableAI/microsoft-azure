@@ -5,8 +5,8 @@ excerpt: "With massive workforces now remote, IT admins and security professiona
 publishedDateTime: 2020-07-16T14:00:42Z
 webUrl: "https://azure.microsoft.com/blog/protecting-windows-virtual-desktop-environments-with-azure-security-center/"
 type: article
-quality: 112
-heat: 132
+quality: 102
+heat: 122
 published: true
 
 provider:
@@ -43,6 +43,6 @@ related:
         height: 627
         isCached: true
 
-secured: "6tbVL3geEDAASR+27SzX11t74C/zLWCfTs3HXgIHQIgjxXk5rs4WFdYAZXSosNwOdYol29AO5gAQZpbHEirKlQsGkRvX/zfzkB5Qq/Wl1GS4GEcAnTYfoAKOs4hp3CP81LmC3JKDeK0UMtl2q2ai5EW7jxk4WhZdn5cSP8zVUlQ/pV0Dg81J2GKRa+5dgSXRDkOxnWPAjAclOzqkjSQ0sjbF9cpYNJ6lqwYZtkjmYbOLWQXEss81aQ1FcPQtM4+Set1gAFei9JHHk0DIkvpH3BQwa9neziQS8peeNj6B7naauCwbG3Zp2wdXC2Gj+SMYJHqoFlZ97GBon9FDKu8n+Q==;Fl0/CkO3cIEkPWtnIpBdfw=="
+secured: "sbmX9p2YSXjwfQe+eYPp3iNV0ZhF8OEKsmVqfiB4oKkzFWvxuUsrC/bzANn4ydrs8h+HxqBxOnhuwOftowQK+BIaTa0y284jWtAJY5+CfVqp1UWa/FqjW1OhBukN/oJ9aJNgbhewbzZxq5wCo4dBz13pFwUaAvnrhWDOvTzMJCX58OQ3hRk3KOVBYxB/wlaKldEvrahc75FvHL/apzluoXgpqG6ZyGf9K1pkGCmeCrDYGEexQByRscpr/Ng0lFh13YQVLAF27nw3lY+4m7aGNitsJwzYMpczeloFR+PLl2BKCpRjMCmeS/WMx9+Syj5Q5/H2l17CKRs+bKawCtCYpghQBvq0qHfyt2YxgtUF4wc=;7MNPex7/2oTJ4zopD7CKKw=="
 ---
 

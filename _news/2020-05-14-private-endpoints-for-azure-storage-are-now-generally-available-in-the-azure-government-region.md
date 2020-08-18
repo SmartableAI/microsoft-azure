@@ -5,7 +5,7 @@ excerpt: ""
 publishedDateTime: 2020-05-14T16:00:17Z
 webUrl: "https://azure.microsoft.com/en-us/updates/private-endpoints-for-azure-storage-in-azure-government/"
 type: article
-quality: 65
+quality: 5
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Private Link for Azure SQL Database and Azure Synapse Analytics is now available in all US government regions"
     excerpt: ""
     publishedDateTime: 2020-05-14T12:00:02Z
@@ -38,7 +38,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 55
+    quality: 0
 
 secured: "CIL5n0uqRdX3VK6p2hbEWC8q6a+q4qc4C86ZU+p+xaReth1A7WhKbNPbAruJWkWcSaBWucVFlvhtNluxSOjwmyFseMzAhDovNuVcx2v4NEG0lqcp2bMOPzR+z/5yvVIQkrQc+sX1BMZaEQ/Hwuj5zEsaQazTvHI4fcqfISlIKqCQZAOAWWSOpwXUfr589g6sD9G+Wu8jIWAyXKgobbV23CvRv1XWTIqTSSTFTBHxov/qBxQja3ICM7C1gdiMn4IvUUDj/HJJ5wAo1ipatPa5unl21JJZiqq1fLahz/nL6+N1mwZ2z3ZeB5VhsOH5MkLfSb4X85/ZQbaFn+USc1Hy1Q==;KDaqN4POKg7EwC4IogRRDg=="
 ---

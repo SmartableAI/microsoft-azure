@@ -5,8 +5,8 @@ excerpt: "Azure landing zones in the Microsoft Cloud Adoption Framework for Azur
 publishedDateTime: 2020-07-28T08:00:14Z
 webUrl: "https://azure.microsoft.com/blog/creating-cloud-ready-environments-with-azure-landing-zones/"
 type: article
-quality: 99
-heat: 99
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 423
     isCached: true
 
-secured: "M+Ysk0mgu+lDAPrFt7Ycixuq+5pev6SIzJqLcTyWM18oE2DIcBKgnT0HOXlmSYdb/8sHS/eZeb4jeu2DYiBpZRxZTGwHBvD5Sa8rrjtl+d3Yf7rvaHUguhwUMWolOlBUBJaX28Cb9pz1SrKe8zc77wc0U89vIXHX9DXGSdq9/qh4uAr8Yi/N6n+DhgtcRdNguyBXJUi0knMhyPN0QU9IF51yrxKa2HghCZzzijDcaZrlQR4TmAUWJIEjMdulwereOfuuWEL0Q9sHxX3K/RFm7tP3g2J+oeDEptsoFqgHL1HcomntpB4cN9py5kgtKTlQEJbRUTVC6+yDEMN4WYsYuA==;zF2j4hlBO/T5t9nQsEEuEA=="
+secured: "LaZXm3BQlzcgwE0i+7jTsRn1Zl8kf+n+R6BLFIFKLhaEQLov4i/lZZ4T+5XE5D0a7gBRc6v+ZOEz+ssdT/yJYY42zYyZPm9evgrXd/BwxncbitaN8ZplJM7X399eZbqtPEggeJDrpNdWAZPS4ySG0HcgS20jhdubbsA9C2DSjxgZRX0D7l+3pzGYSjAXf44F44tppB8aDgEby7AvZibcP6ZPsLE9GwjK+PecDNchOQBdclMmSYWn0kk6AAP0SnKw2MBrV3ZKwwrL8kyWge2mR4feAt5hvzEkthTZ0m/+hq5kIvEMnIITbIpWhi4TnrMPbFazCDBDHHjNP4Cn/ziZCFoLik4vNZu+MPsrmV3jKoI=;zEpkWntAn93Szb6x21bZ8w=="
 ---
 

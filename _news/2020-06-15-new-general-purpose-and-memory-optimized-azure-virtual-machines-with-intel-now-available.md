@@ -5,7 +5,7 @@ excerpt: "Today we're announcing the availability of new general purpose and mem
 publishedDateTime: 2020-06-15T09:00:47Z
 webUrl: "https://azure.microsoft.com/blog/new-general-purpose-and-memoryoptimized-azure-virtual-machines-with-intel-now-available/"
 type: article
-quality: 68
+quality: 8
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 93
+    quality: 33
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/d92493a1-f2b7-43cc-aac0-2fb16327579f.png"
         width: 600
@@ -43,7 +43,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Red Hat OpenShift on OpenShift 4.4 now available"
     excerpt: "Red Hat OpenShift 4.4 is now available on Azure Red Hat OpenShift."
     publishedDateTime: 2020-07-21T16:00:46Z
@@ -52,7 +52,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure ultra disks are now available in the US Gov Arizona region"
     excerpt: "Azure ultra disks are now available in the US Gov Arizona region."
     publishedDateTime: 2020-07-21T16:01:51Z
@@ -61,7 +61,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Stream Analytics is now available in the US Gov Arizona region"
     excerpt: "Azure Stream Analytics, a real-time analytics service that is designed for mission-critical workloads, is now available in the US Gov Arizona region. \n"
     publishedDateTime: 2020-07-23T23:00:08Z
@@ -70,21 +70,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
-  - title: "BitDam Advanced Threat Protection now available on Microsoft Azure Marketplace"
-    excerpt: "BitDam announced the availability of its Advanced Threat Protection in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. BitDam customers can now take advantage of the productive and trusted Azure cloud ..."
-    publishedDateTime: 2020-07-22T23:20:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/07/23/bitdam-microsoft-azure/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 33
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
-        width: 304
-        height: 430
-        isCached: true
+    quality: 17
 
 secured: "OYDttrBIJRHMtL5ERsSOTD8IS96Uk6zW6T/8SV2E/CNJI8jpY1AI2F3mzveijn12RVQEtsKq3Vm+IrWx4x9SmXqVfDCX4YZHKpY9bSVNitvHKf85K52KtDLWqgKRfCKPhkTiFXsiv/u6/eg0rYqH4E9v2lIpjmDrwCWi3NLA7oJZasAODff9kj61dJVa/cjiL1oxzJgXFAHTvyfmndx3IueDrEdrMcfo0b0i1qQGVOqAADe7LGNoUvIDSys99SJjiolwLKSCclbleaiOohaNqa28+7gsnFJrIvmWmm3wBEIpAKXkuaCl2OEo0fwHiuwJ4Vc3n+nRHDMZ3KFWqaiJKw==;GtOWaKaQ4hmNncBoQTPYPQ=="
 ---

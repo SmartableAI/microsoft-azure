@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/05/30/microsoft-expan
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/05/30/microsoft-expands-azure-iot-central-to-edge-devices-including-azure-sphere/amp/"
 type: article
 quality: 95
-heat: 155
+heat: 115
 published: true
 
 provider:
@@ -30,34 +30,6 @@ images:
     title: "Microsoft Expands Azure IoT Central To Edge Devices Including Azure Sphere"
 
 related:
-  - title: "NXP expands partnership with Microsoft Azure RTOS"
-    excerpt: "NXP Semiconductors has expanded its partnership with Microsoft to bring Microsoft Azure real-time operating system (RTOS) to a broader range of processing solutions from its EdgeVerse portfolio."
-    publishedDateTime: 2020-05-27T15:40:00Z
-    webUrl: "https://roboticsandautomationnews.com/2020/05/27/nxp-expands-partnership-with-microsoft-azure-rtos/32528/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 37
-    images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/05/microsoft-rtos-netx-duo.png"
-        width: 954
-        height: 541
-        isCached: true
-  - title: "Microsoft Azure Heads IoT Platform Research Report, Edging AWS"
-    excerpt: "Microsoft Azure outpaced perennial cloud computing champion Amazon Web Services (AWS) as the top Internet of Things (IoT) platform in a new research report."
-    publishedDateTime: 2020-05-29T22:11:00Z
-    webUrl: "https://virtualizationreview.com/articles/2020/05/29/cloud-iot-report.aspx"
-    type: article
-    provider:
-      name: Virtualization Review
-      domain: virtualizationreview.com
-    quality: 37
-    images:
-      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN1BlueSquaresWhiteSpotsAbstract.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Enabling secure IoT devices with Microsoft® Azure and Mentor Embedded Linux®"
     excerpt: "This white paper provides OEM developers a fast, proven, secure methodology for delivering embedded IoT products that achieve increased ROI while speeding time-to-market."
     publishedDateTime: 2020-06-02T18:06:00Z

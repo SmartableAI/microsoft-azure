@@ -5,8 +5,8 @@ excerpt: "Cloud migrations are an effective way to drive operational efficiencie
 publishedDateTime: 2020-08-06T09:00:11Z
 webUrl: "https://azure.microsoft.com/blog/prioritize-datacenter-discovery-and-readiness-assessments-to-accelerate-cloud-migration/"
 type: article
-quality: 91
-heat: 111
+quality: 81
+heat: 101
 published: true
 
 provider:
@@ -40,6 +40,6 @@ related:
       domain: benzinga.com
     quality: 28
 
-secured: "8BEI02w1G7LZMS2kv9o8V+Y2C41ZY4k5tCT9fuc5C6dhJLqqI5vikQSEQVUnsAABWl+uzFWvmnLsi0ywBQEkHKArZzCGqdKuMyBQCNJdCuhjOiGqk26dMvhYzgsARLuy2WIw01tOB3IJisG7SFG9U6z8WtOqgOFRHKRY+FeakZpNcwdasYoxzyX5J1zrf0xmqschtot7HD5G8Tr9mdma0zq06DPE4A1BproYUn/gBfJd3EJ7zQr/DfKD4KuceHH+/BtpSz+VDoehd6YlhTFIIRXPoctkeMjtcGaAVFE2p0OANuwPeK+ZXuJxQ5T1wv/QTzPtXAttLTtgGPWC9cWPCw==;WS42DVDrb7PQfjNDiSmKsw=="
+secured: "wzpx124AnMdaWuqSaP3irthLam+EUqXtEO7YSxi0yRE6vh4viTIlPZrs2jmmKuTZPhsYeH7/PdpnMp9OMmuVQ919pJ/NBSCqeLviFwDPbj6nDnyh2d1XLB7Bp3WZ0qpe1FYerjF+gz3Rp33TEsdbtr8iUv6OFxY0daGCPhCVElJAR0v0MbLFxTPohqGUO4t+t4qfUhUJWhrRrDHtoa5bDF+ZrJJmq5gVJA4A1CUguMdAsML5yieexmYlTSLj5npSFAmVJ17X1agcRpRY+KMmObUzrABjHlGy51bFrwvZ51/+wDZgXYGRQzAhUtY4Hps7uPhX9fFN7J5pig/sHqicN/epupt66sfLlluO463Ggsg=;a9OZgbOmgciMjGcVYPeivw=="
 ---
 

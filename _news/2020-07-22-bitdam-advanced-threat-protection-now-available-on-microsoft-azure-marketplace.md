@@ -23,65 +23,328 @@ images:
     isCached: true
 
 related:
-  - title: "AMD-based memory-optimized Azure virtual machines now available in more regions"
-    excerpt: "Today, we're announcing the expanded availability of these virtual machine (VM) sizes in new Azure regions and support for additional Availability Zones."
-    publishedDateTime: 2020-07-16T08:00:39Z
-    webUrl: "https://azure.microsoft.com/blog/amd-based-memory-optimized-azure-virtual-machines-now-available-in-more-regions/"
+  - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Stock quotes by finanzen.net BRISBANE, Australia, June 10, 2020 /PRNewswire/ -- Codafication, a software start-up that empowers enterprises to digitally transform at scale, today announced the availability of its flagship product Virtual Assist in the Microsoft Azure Marketplace."
+    publishedDateTime: 2020-06-10T23:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 93
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 73
+  - title: "Mimecast(R) Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
+    excerpt: "(GLOBE NEWSWIRE) -- Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast (R) Email Security for Azure Sentinel in the Microsoft Azure Marketplace,"
+    publishedDateTime: 2020-08-17T10:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mimecastr-email-security-for-azure-sentinel-is-now-available-in-the-microsoft-azure-marketplace-2020-08-17-51843038"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/d92493a1-f2b7-43cc-aac0-2fb16327579f.png"
-        width: 600
-        height: 542
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Azure Data Box Disk is now available in China"
-    excerpt: "Azure Data Box Disk is now available for preview in the China East, China East 2, China North, and China North 2 regions. "
-    publishedDateTime: 2020-07-13T22:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-box-disk-is-now-available-in-china/"
+  - title: "Zixi Now Available Through Microsoft Azure"
+    excerpt: "Zixi Broadcasters will be deployed on Azure using ZEN Master, a control plane that enables users to manage large-scale configurations to orchestrate, analyze, monitor, alert and report on live video streams and devices across the Zixi Enabled Network."
+    publishedDateTime: 2020-06-17T14:56:00Z
+    webUrl: "https://www.tvtechnology.com/equipment/zixi-now-available-through-microsoft-azure"
+    ampWebUrl: "https://www.tvtechnology.com/amp/equipment/zixi-now-available-through-microsoft-azure"
+    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/equipment/zixi-now-available-through-microsoft-azure"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure Red Hat OpenShift on OpenShift 4.4 now available"
-    excerpt: "Red Hat OpenShift 4.4 is now available on Azure Red Hat OpenShift."
-    publishedDateTime: 2020-07-21T16:00:46Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-on-openshift-44-now-available/"
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 57
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/b4pDwTCQEtLC6nRcpfpfYB-1200-80.png"
+        width: 752
+        height: 423
+        isCached: true
+  - title: "Adverity Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Adverity is a leading force in intelligent marketing analytics and business-ready data. Marketing data is a critical asset in helping businesses pivot, adapt and grow, but data complexity is hampering success due to the lack of understanding and ability to incorporate meaningful insights into positive outcomes."
+    publishedDateTime: 2020-07-01T15:37:00Z
+    webUrl: "https://www.exchangewire.com/blog/2020/07/01/adverity-now-available-in-the-microsoft-azure-marketplace/"
+    ampWebUrl: "https://www.exchangewire.com/blog/2020/07/01/adverity-now-available-in-the-microsoft-azure-marketplace/?amp"
+    cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2020/07/01/adverity-now-available-in-the-microsoft-azure-marketplace/?amp"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure ultra disks are now available in the US Gov Arizona region"
-    excerpt: "Azure ultra disks are now available in the US Gov Arizona region."
-    publishedDateTime: 2020-07-21T16:01:51Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-ultra-disks-are-now-available-in-the-us-gov-arizona-region/"
+      name: exchangewire.com
+      domain: exchangewire.com
+    quality: 57
+    images:
+      - url: "https://www.exchangewire.com/wp-content/uploads/2019/12/adverity-logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Qore Technologies' Free 3Months Usage Plan for Qorus Integration Engine Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to free use of Qorus Integration Engine to mitigate the business implications of COVID-19 PRAGUE, CZECH REPUBLIC, April 15, 2020 /EINPresswire.com/ -- Qore Technologies today announced the availability of a free three-month usage and consultation plan for Qorus Integration Engine in the Microsoft Azure Marketplace,"
+    publishedDateTime: 2020-04-15T11:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/qore-technologies-free-3months-usage-plan-for-qorus-integration-engine-now-available-in-the-microsoft-azure-marketplace-2020-04-15"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure Stream Analytics is now available in the US Gov Arizona region"
-    excerpt: "Azure Stream Analytics, a real-time analytics service that is designed for mission-critical workloads, is now available in the US Gov Arizona region. \n"
-    publishedDateTime: 2020-07-23T23:00:08Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-stream-analytics-now-available-in-us-gov-arizona/"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "eBaoCloud InsureMO is Now Available in the Microsoft Azure Marketplace"
+    excerpt: "SHANGHAI, May 20, 2020 /PRNewswire/ -- eBaoTech Corporation today announced the availability of eBaoCloud ® InsureMO ® in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. eBaoTech's customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined ..."
+    publishedDateTime: 2020-05-20T15:30:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/ebaocloud-insuremo-is-now-available-in-the-microsoft-azure-marketplace-800602677.html"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "New general purpose and memory-optimized Azure Virtual Machines with Intel now available"
-    excerpt: "Today we're announcing the availability of new general purpose and memory-optimized Azure Virtual Machines based on the 2nd generation Intel Xeon Platinum 8272CL (Cascade Lake). This custom processor runs at a base speed of 2.5GHz and can achieve all-core turbo frequency of 3.4GHz. It features Intel®"
-    publishedDateTime: 2020-06-15T09:00:47Z
-    webUrl: "https://azure.microsoft.com/blog/new-general-purpose-and-memoryoptimized-azure-virtual-machines-with-intel-now-available/"
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Healthper USA, Inc. Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Healthper to take advantage of the scalability, reliability, and agility of Azure to drive well-being."
+    publishedDateTime: 2020-05-20T16:53:00Z
+    webUrl: "https://www.pr.com/press-release/813120"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 68
+      name: PR
+      domain: pr.com
+    quality: 37
+    images:
+      - url: "https://img.pr.com/release/2005/470793/pressrelease_original_470793_1589990219.png"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "KlariVis Now Available in the Microsoft Azure Marketplace"
+    excerpt: "KlariVis customers can now take advantage of the productive and trusted Microsoft Azure cloud platform with streamlined deployment and management."
+    publishedDateTime: 2020-06-09T12:09:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200609005152/en/KlariVis-Microsoft-Azure-Marketplace"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 37
+    images:
+      - url: "https://mms.businesswire.com/media/20200609005152/en/796737/23/klarivislogo-black-registered.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "MinerEye DataTracker™, Now Available in the Microsoft Azure Marketplace"
+    excerpt: "MinerEye, a leading data protector company, today announced the availability of its innovative DataTracker™ via the Microsoft Azure"
+    publishedDateTime: 2020-06-24T13:05:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/minereye-datatracker-now-available-in-the-microsoft-azure-marketplace-301082797.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Nasuni Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Nasuni®, a leading provider of cloud file services, today announced the Nasuni file services platform is available for purchase in"
+    publishedDateTime: 2020-07-01T13:03:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/nasuni-now-available-in-the-microsoft-azure-marketplace-301086812.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/391402/Nasuni_Logo.jpg?p=facebook"
+        width: 1497
+        height: 785
+        isCached: true
+  - title: "Riversand MDM Platform Now Available in the Microsoft Azure Marketplace"
+    excerpt: "HOUSTON--(BUSINESS WIRE)--Riversand, a provider of cloud-native Master Data Management (MDM) and Product Information Management (PIM) software solutions, announced today the availability of Riversand MDM Platform in the Microsoft Azure Marketplace and ..."
+    publishedDateTime: 2020-08-18T11:07:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200818005296/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 37
+    images:
+      - url: "https://mms.businesswire.com/media/20200818005296/en/813376/23/riversandlogo.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Greater Than Make Enerfy Loyalty Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Greater Than, today announced the availability of the cloud-based loyalty program Enerfy Loyalty in the Microsoft Azure Marketplace,"
+    publishedDateTime: 2020-06-11T10:01:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/greater-than-make-enerfy-loyalty-now-available-in-the-microsoft-azure-marketplace-888514598.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 32
+    images:
+      - url: "https://www.prnewswire.co.uk/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Nuventive COVID-19 Response Hub Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Nuventive today announced the availability of the Nuventive COVID-19 Response Hub in the Microsoft Azure Marketplace, an online store"
+    publishedDateTime: 2020-07-07T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/nuventive-covid-19-response-hub-now-available-in-the-microsoft-azure-marketplace-301088804.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 32
+    images:
+      - url: "https://mma.prnewswire.com/media/1201043/Nuventive_COVID_19_Response_Hub_Azure_Marketplace.jpg?p=facebook"
+        width: 854
+        height: 446
+        isCached: true
+  - title: "BitDam's Advanced Threat Protection Now Available in Microsoft Azure Marketplace"
+    excerpt: "BitDam's Advanced Threat Protection Now Available in Microsoft Azure Marketplace  - BitDam has announced the accessibility of its Advanced Threat Protection in the Microsoft Azure Marketplace. FREMONT,"
+    publishedDateTime: 2020-07-27T14:48:00Z
+    webUrl: "https://www.cioreview.com/news/bitdams-advanced-threat-protection-now-available-in-microsoft-azure-marketplace-nid-31683-cid-145.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 32
+    images:
+      - url: "https://www.cioreview.com/news_new/sliderimage/2g2rf.mag.jpg"
+        width: 300
+        height: 350
+        isCached: true
+  - title: "Tangent Works' Predictive Analytics Now Available in the Microsoft Azure Marketplace"
+    excerpt: "RANDOLPH, N.J. and BRUSSELS, July 24, 2020 /PRNewswire/ -- Tangent Works today announced the availability of TIM in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. Tangent Works customers can now take ..."
+    publishedDateTime: 2020-07-24T23:16:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace/article_b03fb881-eb63-5744-99a6-90d2c9aa5c01.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 30
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/2f/c2fefe6c-c0e5-527b-ba10-0c9af861210a/5f1ae2bbc1ad0.image.jpg?resize=400%2C300"
+        width: 400
+        height: 300
+        isCached: true
+  - title: "Foxit Document Transformation Services Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Foxit Software, a leading provider of innovative PDF products and services, helping knowledge workers to increase their productivity and"
+    publishedDateTime: 2020-06-30T12:03:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/foxit-document-transformation-services-now-available-in-the-microsoft-azure-marketplace-301077872.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 29
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Innovaccer’s COVID-19 Management System Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Innovaccer, Inc., a leading healthcare technology company, today announced the availability of its COVID-19 Management System in the Microsoft Azure Marketplace, an online store providing ..."
+    publishedDateTime: 2020-08-13T16:19:00Z
+    webUrl: "https://www.healthcaredive.com/press-release/20200813-innovaccers-covid-19-management-system-now-available-in-the-microsoft-azur-1/"
+    type: article
+    provider:
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 28
+    images:
+      - url: "https://www.healthcaredive.com/user_media/pressrelease/company_logos/20200813155131602/zez9iqg8lghajcaq65ai.png"
+        width: 256
+        height: 256
+        isCached: true
+  - title: "Commvault's Metallic SaaS Data Protection Now Available in the Microsoft Azure Marketplace"
+    excerpt: "PRNewswire/ -- Commvault (NASDAQ: CVLT), a recognized global enterprise software leader in the management of data across cloud and on-premises"
+    publishedDateTime: 2020-08-12T12:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/commvaults-metallic-saas-data-protection-now-available-in-the-microsoft-azure-marketplace-301110682.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 27
+    images:
+      - url: "https://mma.prnewswire.com/media/1010127/Commvault_Metallic_Logo_RGB_Tagline_vertical_Logo.jpg?p=facebook"
+        width: 1500
+        height: 784
+        isCached: true
+  - title: "Mimecast® Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
+    excerpt: "(GLOBE NEWSWIRE) -- Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure Marketplace,"
+    publishedDateTime: 2020-08-17T09:30:00Z
+    webUrl: "https://apnews.com/4710425f0bbe81da97cd4d269601accc"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "GAVS Technologies: Zero Incident Framework (ZIF) Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to ZIF to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies PRINCET"
+    publishedDateTime: 2020-06-23T04:20:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-06/49985840-gavs-technologies-zero-incident-framework-zif-now-available-in-the-microsoft-azure-marketplace-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 24
+    images:
+      - url: "https://www.accesswire.com/users/newswire/images/594875/image-20200623114459-1.jpeg"
+        width: 1223
+        height: 476
+        isCached: true
+  - title: "DataVisor Now Available in the Microsoft Azure Marketplace"
+    excerpt: "DataVisor, the leading fraud detection company with solutions powered by transformational AI technology, today announced the availability of dVector a"
+    publishedDateTime: 2020-05-19T12:37:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200519005042/en/DataVisor-Microsoft-Azure-Marketplace"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
+  - title: "Parabole.ai announces the launch of TRAIN™ 3.0, the Automated Machine Teaching Platform on the Microsoft Azure Marketplace"
+    excerpt: "Parabole.ai today announced that TRAIN™ 3.0, its MACHINE TEACHING PLATFORM is now available on the Azure Marketplace. Parabole's unique"
+    publishedDateTime: 2020-06-03T13:12:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/paraboleai-announces-the-launch-of-train-3-0--the-automated-machine-teaching-platform-on-the-microsoft-azure-marketplace-301069421.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 11
+    images:
+      - url: "https://mma.prnewswire.com/media/963377/Parabole_ai_Logo.jpg?p=facebook"
+        width: 2697
+        height: 1414
+        isCached: true
+  - title: "Greater Than Make FIA Smart Driving Challenge Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to FIA Smart Driving Challenge provided by Greater Than, to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies."
+    publishedDateTime: 2020-05-05T13:06:00Z
+    webUrl: "https://www.autoblog.com/press-releases/greater-than-make-fia-smart-driving-challenge-now-available-in-the-microsoft-azure-marketplace_23004/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 5
+  - title: "Device Authority’s KeyScaler IoT Security Platform Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers now gain access to Device Authority’s KeyScaler to take advantage of the scalability, reliability, and agility of Azure."
+    publishedDateTime: 2020-06-23T11:50:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200623005500/en/Device-Authority’s-KeyScaler-IoT-Security-Platform-Microsoft"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 3
 
 secured: "KvDvGJ4CDn1PsoGzvrwIDpgNmPmblSh/EQalRjtOnMnd9hLU000V0xUbsD+dkiwGdnk6ezTtVy7VCi8+Bs9XhhDozoekANh6Fzci4QFspTYGqdKBC+2qQaU3HBZfNHsYtxMaBoYmP+wGZmbPVBIE0Xq3zEpWZhkHSuJFbo+BZgoxvh9bFL42RKPGdGxwNHNVzDeTAe/3y4/JQhwsF2bUXOlPWLOVh3957d85yvtaRLm+nEMZbDX/7+AK78zGJs17cjRAdtu4lfG+pJNum/XXjl3x8Nvl0C1L0vR+pdHvQTWzjRyO0yZkYSARGw/kkg4NQ9XQ3IV9b1i0dAhlV7Mad+rmnu3YhXcr9fkRyj2Q5248jV86QFqkbaADg1zrlGg7MMEfZAXVNLHQZVpbc7ZCSOyxlXFYV/GP7fxhsy9AaSO4UF9NP2cx91RU8hTVKmYvxhel8Mh/niYjFcIr55kVHWrmZRP+xsLn0xYfHpXtWIZHW1G4NqKbKp2kWHTeRvECG6Bf8WFsx3YvtskcoyJ8/A==;9m7lPDfQz7Rv8NzPgr2Qhg=="
 ---

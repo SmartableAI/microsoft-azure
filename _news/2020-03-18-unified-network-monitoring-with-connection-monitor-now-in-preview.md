@@ -5,8 +5,8 @@ excerpt: "Azure Network Watcher’s new and improved Connection Monitor now prov
 publishedDateTime: 2020-03-18T09:00:05Z
 webUrl: "https://azure.microsoft.com/blog/unified-network-monitoring-with-connection-monitor-now-in-preview/"
 type: article
-quality: 84
-heat: 84
+quality: 74
+heat: 74
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Unified network monitoring with Connection Monitor now in preview"
 
-secured: "c0jbgbwVh9ePaYZLNihkZ8FejPUDl2FFXKD/Katkwp5XHbrmH3yI5x/PQBgXgT6gnWUEUIPT5PuBYXrg4Jtxh5ONQbDkBpfRPBINSOGySoqlQDZNAUMbey8nHLNS2sPC0aEHDeGYoZMeeQ1pTNGdncwm6s2Q3HlNianteQGXinILYFJg9Thog5QwWhXWXFWJ2tu8hg+XL9JNjCb5eHcg0DHqqSIhBgZoUmJiL7BCG5cJcUiVfcpAwzM+0Eu7sgHdVzTJ5H/LGSnfiJKrL0uu3csInIRU8XVEFdJOHvKgBM56FUGNGqvG86nkdkJth9CsunUlyz1WyoJfUoWhkeNIrg==;qSH+9kBT5PoE5YahhuykOQ=="
+secured: "W98CCYaM0q6iiBMfJ5YIq0nYvucNrIZVENcqjEu2eggf7oJHE49W9VbghqAppPZcFmWXqjbfRujYvYhcZHXiiKiN+LMbmIvKtWD0C5DTzxRq6C+YxaTyjxVV3/+tK4z9kXgpOwmDYSnZIodPCyPpMO7Fee5rchKLAQ8YzeA1BkykjwITMt9yWfTpqBjcflP3MC343ZhknFqk1IyFRHaL8CzMXscwhjw7OJBbeLWU5s0oH8O0v/vGoxnpEWYUoKz3acrgb+c51VI/08hP//5D1V+vlvsUJ7cXNBI6PhQrhDWGIyx3F0toPPuhrmtpKOMkUTfuIT0gLqmFx6fzZFjz7ZaYGDTr8sDhrhN8uK3uVp4=;CFC/91wRjfHKv/c/Qt6GwQ=="
 ---
 

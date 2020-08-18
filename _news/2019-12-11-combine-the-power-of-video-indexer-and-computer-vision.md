@@ -5,9 +5,9 @@ excerpt: "We are pleased to introduce the ability to export high-resolution keyf
 publishedDateTime: 2019-12-11T10:00:23Z
 webUrl: "https://azure.microsoft.com/blog/combine-the-power-of-video-indexer-and-computer-vision/"
 type: article
-quality: 84
-heat: 84
-published: true
+quality: 24
+heat: 24
+published: false
 
 provider:
   name: Microsoft

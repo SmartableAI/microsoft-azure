@@ -40,6 +40,17 @@ related:
         width: 1199
         height: 798
         isCached: true
+  - title: "Rapid7 buys cloud security firm"
+    excerpt: "Boston data security company Rapid7 is making a big move into cloud computing with its $145 million deal to acquire DivvyCloud Corp., a Virginia-based firm that helps companies secure data or applications running on remote computer systems."
+    publishedDateTime: 2020-04-28T23:05:00Z
+    webUrl: "https://www.bostonglobe.com/2020/04/28/business/rapid7-buys-cloud-security-firm/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/04/28/business/rapid7-buys-cloud-security-firm/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/04/28/business/rapid7-buys-cloud-security-firm/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 22
 
 secured: "sAcgjstowES0LXxdTKeO9saJ1gxHFcA2yLkE/JOboDolSrw2Svq/ywbMfJR3XVf9VEiy3oMfq2Akyaj7rV//DvUuKfYJNjJ8SkA7s4V7hTfMO22WoaKsEFarEiQs/Vd4/BcAiMZ+d+kzmNM9Sb73OB/gtZvHYwdfL+Yd2bE0MmX2oHvicNxJ4t1z+DP3iJe6YpacqocU3oLFtxWOEVRotmJJrur63rj3tGxoOjwBiG5XWZRPsyOaO9ab6L31dX7J55ZSMM9ZXlnzX0Ix8k9GVLMWcTF77O9/Xb7w8jhibkgdjTM3bl/rXpd1jGn7ZfvA;lFN3x9Ecli77Ei5U3U5qNw=="
 ---

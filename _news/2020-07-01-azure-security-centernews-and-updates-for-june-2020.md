@@ -5,7 +5,7 @@ excerpt: "New enhancements and updates were made to Azure Security Center in Jun
 publishedDateTime: 2020-07-01T00:00:38Z
 webUrl: "https://azure.microsoft.com/en-us/updates/asc-june2020/"
 type: article
-quality: 77
+quality: 17
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 94
+    quality: 84
 
 secured: "kCEVkehcRGdrNnvDXy0VioVrCtFfNCYTVTgM6gUuzc2fVctRlSMygd0/tKk7hKPxynxDCvTVubPoQDywn8DYVwGLpPhalU7isK/0HB+77WXL0aU3i5pigZ2NNIJvx4HkYvlDazxztpRkpVOFPrTjpGMMfFdQobA7M76EGGcyV0Ha5EdUdT21UET5HhwCvcelqD3h39M/le70ui/bUVP4vqIok1FV1XrEUM1WLH9sjSD8HCL+yh5MxfQPDjhg3u0C75SgJ/MAhFyyp9K0o2+utIclIcAHvaGkBZcDa3xAlHtnBXvfrQSRokU67hdP3t+nXQpOWVG/81XMOAegwyuKHg==;/Zj86dMkCQgeUkBu+sPuNw=="
 ---

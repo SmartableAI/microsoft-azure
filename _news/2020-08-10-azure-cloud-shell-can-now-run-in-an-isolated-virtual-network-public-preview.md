@@ -5,9 +5,9 @@ excerpt: "Cloud Shell now supports virtual networks."
 publishedDateTime: 2020-08-10T17:00:04Z
 webUrl: "https://azure.microsoft.com/en-us/updates/cloudshell-vnet/"
 type: article
-quality: 74
-heat: 74
-published: true
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: Microsoft
@@ -20,6 +20,6 @@ provider:
 topics:
   - Azure
 
-secured: "wLt5kW+RvqeZfG81cBXG1Ywu7EXagePbV9j2mFwBCPqdK3bd04aLhfqwvoAxaUjc5xBWEUV74hcoa/LkJtgunsvpXSJx+7ZokHuytVKOfrf1r6A2ObjD0t8tQJ43PQWsJ77aF6pMbj02wy+qV2HM2DanZnN96gJO3PMbT/FW6+VitLJmoXDPzpznTI1DYqu+cC37zKTGxTA/6ehsC+CavP7nZn937ux6iuASM0j5tfhG26PRwB8blng70d0lmasWxpfqwtiLTf/OEu9eWFjEA5K5/YoyjQLEOHmK6Q9IMDm76ka9eFOq9UwG0R6g5eChSQUVF/ez0vLCt3jSkqVZUQ==;AQVcmT4neUrY3oOtB+Up6Q=="
+secured: "wqNTKynPFtOxbYN4hIpngV/0UvWBcxcBYvRgiSY/1lFtjfwpTmvGeEVi6nlEKFWqNOsPaWeLLJU/9wVYI4gWexmI1D+fGRQWZfkfF9Bv5ABTMz1mYHebQCYs8Q4qr67FfCa19fQdJYEviEtwqoj3BzlfzGf9dsWsWb3Xrbd21lLbbeoNrCx5yXXNOT9CXQ7gXcWpQ4crZHGuPtckNnFz+bSpsk0vBnH8EXTWjou7HcCvG2B9yU+7H4OVshrPzrZ5if7ZUpa0WDH3aPzWips7+4RHoIrt9nVAwNKjVAOofPgR5VXXxzcB9fTBmD5InYvVnNXS2OTc1Fdu7qwvxumgWlNME/iMm9HwmKblXb2mu9I=;yCzvLwquvLJwGGf2yFO+ug=="
 ---
 

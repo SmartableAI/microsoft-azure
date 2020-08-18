@@ -5,9 +5,9 @@ excerpt: "Azure has added an important compliance offering for telecommunication
 publishedDateTime: 2020-08-06T17:45:57Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-france-has-achieved-gsma-accreditation/"
 type: article
-quality: 77
-heat: 77
-published: true
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Microsoft

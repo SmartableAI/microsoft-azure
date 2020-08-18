@@ -5,8 +5,8 @@ excerpt: "Azure Shared Disks for SQL Server Failover Cluster Instance (SQL FCI) 
 publishedDateTime: 2020-08-05T16:00:04Z
 webUrl: "https://azure.microsoft.com/en-us/updates/sql-server-fci-on-shared-disks-for-sql-server-on-virtual-machines/"
 type: article
-quality: 62
-heat: 62
+quality: 2
+heat: 2
 published: false
 
 provider:

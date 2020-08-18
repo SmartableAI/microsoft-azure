@@ -5,9 +5,9 @@ excerpt: ""
 publishedDateTime: 2020-05-11T17:00:02Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-log-analytics-agent-for-windows-sha2-signing-date-has-been-extended/"
 type: article
-quality: 75
-heat: 75
-published: true
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Microsoft

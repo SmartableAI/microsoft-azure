@@ -5,7 +5,7 @@ excerpt: "State transition restriction rules for Azure Boards are now generally 
 publishedDateTime: 2020-07-15T18:00:28Z
 webUrl: "https://azure.microsoft.com/en-us/updates/state-transition-restriction-rules-for-azure-boards-are-now-generally-available/"
 type: article
-quality: 73
+quality: 13
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 79
+    quality: 19
   - title: "Private endpoints for Azure File Sync are now generally available"
     excerpt: "Starting with Azure File Sync agent 10.1, Azure File Sync supports private endpoints in all public and Azure US Government cloud regions where Azure File Sync is available."
     publishedDateTime: 2020-07-09T21:00:12Z
@@ -38,7 +38,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
 
 secured: "z3E2JinZvijI4N2pcSuF+5iypvGClqvDbyzzgFGJq+55eG4UCEaETLX/AhX6MBhtKB6D9iWNLrMwQUheA2J5Rg5NoyorA29f22DXQAhxwVfzhqmtCdFu1WFscUPii3yaSIKYndAVthZicMyIHo8+2bhM5mCiZt80qJi5Me/DYpCeZ6yiDOYCWGz2b7/GDiGdBW+gJ8m/5i2ojsrx/jguqoEdRxT3gtiBaLmYkQXtxeqBKrY7uUCFy6+D7CPEPjpWUs06KQgru88zH8jM2yerI/Rq8A5aUY/SHHplC9OyKPzvg8SP1Wl272CT/S+ussYJR8XMUf6vpVJCMSFYY6du0w==;3eRHB2nGyLzPAwftO9ayPg=="
 ---

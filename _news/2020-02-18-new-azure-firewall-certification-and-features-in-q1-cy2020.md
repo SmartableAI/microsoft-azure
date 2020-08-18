@@ -5,7 +5,7 @@ excerpt: "This post was co-authored by Suren Jamiyanaa, Program Manager, Azure N
 publishedDateTime: 2020-02-18T11:00:15Z
 webUrl: "https://azure.microsoft.com/blog/new-azure-firewall-certification-and-features-in-q1-cy2020/"
 type: article
-quality: 99
+quality: 39
 heat: -1
 published: false
 
@@ -29,29 +29,38 @@ images:
     title: "New Azure Firewall certification and features in Q1 CY2020"
 
 related:
-  - title: "Azure Firewall Manager now supports virtual networks"
-    excerpt: "This post was co-authored by Yair Tor, Principal Program Manager, Azure Networking.\r\n\r\nLast November we introduced Microsoft Azure Firewall Manager preview for Azure Firewall policy and route management in secured virtual hubs. This also included integration with key Security as a Service partners, Zscaler,"
-    publishedDateTime: 2020-02-18T10:05:39Z
-    webUrl: "https://azure.microsoft.com/blog/azure-firewall-manager-now-supports-virtual-networks/"
+  - title: "New Azure Firewall features in Q2 CY2020"
+    excerpt: "We are pleased to announce several new Azure Firewall features that allow your organization to have more customization, improve security, and ease your management experience."
+    publishedDateTime: 2020-06-30T08:00:33Z
+    webUrl: "https://azure.microsoft.com/blog/new-azure-firewall-features-in-q2-cy2020/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 99
+    quality: 89
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/35eac5bb-b137-49ca-b783-a4321ac7ffbf.jpg"
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/130879a5-e5a4-4b5d-9fe1-b6389a099db8.png"
         width: 1024
-        height: 471
+        height: 577
         isCached: true
-  - title: "Azure Virtual Network now supports reverse DNS lookup"
-    excerpt: ""
-    publishedDateTime: 2020-04-14T00:00:09Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-reverse-dns-support-in-azure-virtual-networks/"
+  - title: "Azure Firewall July 2020 update"
+    excerpt: "Custom DNS, DNS Proxy, and FQDN filtering in network rules are now in preview. IP Groups and IP Groups in Firewall policy are now generally available."
+    publishedDateTime: 2020-06-30T16:00:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-firewall-july-2020-update/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
+  - title: "Company branding feature is now available on your organization's Azure AD sign-in page"
+    excerpt: "The enhanced company branding feature is now generally available on your organization’s Azure Active Directory (Azure AD) sign-in page."
+    publishedDateTime: 2020-06-30T15:00:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/basic-formatting-on-the-sign-in-page-text-component-in-company-branding/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 9
 
 secured: "04iGgyGSnr19w9tZ0Dg+3vtFYe8pxQLYPwg+/r01qmwr4e4LBMfouecvQCcZECKlapHwjdgi8/kxiEnFs3HMbvsdZ6h7E4Ga0snqB6a09cWCa0eRtziDFz8l0d5MwRtdSRneg3RAF4fL2nB3f/ljoDKzPOOidOIN1XFfhJFtLa03PhV/dXYwRvCXbPG7z+7o8ukIWCr/nH9gDKE8UZ4Geai3wqb2UOji0zw8pq105eevIHRg2w2zx25EyoWXrnTmlZA0zpTNnbruhCq+I5dtriMXuX4bIKqQHvrmAbQx7jK4Fz7OmzrsiiimuwxJ6/M19GQy1m6r0IwX6VF8Sf/Nng==;TuHO/mOz1HD5AtGolAO8cg=="
 ---

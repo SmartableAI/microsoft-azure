@@ -5,7 +5,7 @@ excerpt: "To improve the security of your Azure Kubernetes Service (AKS) cluster
 publishedDateTime: 2020-07-21T16:01:16Z
 webUrl: "https://azure.microsoft.com/en-us/updates/secure-azure-kubernetes-service-aks-pods-with-azure-policy-in-preview/"
 type: article
-quality: 76
+quality: 16
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 99
+    quality: 89
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c4c6ac0f-ea43-458e-a4e7-cb971720a491.jpg"
         width: 1024
@@ -43,7 +43,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 97
+    quality: 37
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2547e7a5-284b-4f2d-95b9-54e5200b3931.png"
         width: 1024

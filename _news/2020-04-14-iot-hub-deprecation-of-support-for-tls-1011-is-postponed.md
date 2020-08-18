@@ -5,8 +5,8 @@ excerpt: ""
 publishedDateTime: 2020-04-14T23:00:21Z
 webUrl: "https://azure.microsoft.com/en-us/updates/iot-hub-tls-deprecation-postponed/"
 type: article
-quality: 62
-heat: 62
+quality: 2
+heat: 2
 published: false
 
 provider:

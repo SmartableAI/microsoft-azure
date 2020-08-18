@@ -5,8 +5,8 @@ excerpt: "Protecting your production data is critical for any business. That’s
 publishedDateTime: 2020-06-10T11:30:14Z
 webUrl: "https://azure.microsoft.com/blog/azure-files-enhances-data-protection-capabilities/"
 type: article
-quality: 101
-heat: 141
+quality: 91
+heat: 131
 published: true
 
 provider:
@@ -59,6 +59,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ieD5fgJwgG5tkDCrHv08Ozmz1fhTBK/nYZNTbUMx/0elUBPEUCaGx0W0kWVKRxIVmkSf1g1t/wYkiV3PoqsjojNbWl6GSCJusBE/HHeKASa7BA4G/9dYeaJNwgLUvhVuK7HaI7nLaeicp6kbxCWIrdrLglcMz7ckkVZZBK8aJjii0TIu3bSM8CweCAD1MJUDThg9JAWhy+VkRFTtmhjK1B40ASKgt+UCXX2v/Sp0s/FyY3nQH2bNq3FNrJ/Grf7b4D2hjzTjMTFvlMmaxAcl7xOsbmxIKoJ5jPtA7+uXRL+5lFLYIPHNjYPSacvYQDhy4crFE7NV+UYnqvDWQXdatw==;VSXrSVjtedx9y1NYQeEaDA=="
+secured: "Fx0fLDV9hN4Uoln97xoXNkOgANL5uXleSoDdHC6KrsoMqtKbh2Aum1h0q0BWuiLnkkNRTUYdvsuh0Y1tAGZ3x6pNgxcT+c7r3fz3iSsBKvytxoTM4/WY/RrK6h1Ecl7oLxQ1Qb7FSZauIHGtVyAEXLxsWV39yAdhzjHTadlgDV6YDCcBf/At6r+idnha3HHaASbkYp1LciKNz++lotgPgJuhz6qTxz8ggA10jOCZsj21VQJQzBqUXZcEy/ZAHxOY8JhyFZOgprwZ9vIIcAnasWjzeLPh6Uo5aWi80zMdkDkyDn3AEBdBN6OCguOC4z3ax6ei045Ek8zz+jvhIpR0Oc1ZDWEzGnYqATsFKWQm0d0=;M70K3/+rjgn1xrkGlv3UlA=="
 ---
 

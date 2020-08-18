@@ -24,6 +24,20 @@ images:
     title: "Dell EMC Integrated System for Microsoft Azure Stack Hub"
 
 related:
+  - title: "Backup Explorer Preview for Microsoft Azure Now Available"
+    excerpt: "Microsoft announced on Wednesday that its Backup Explorer tool for Azure services is available as a preview. Right now, Backup Explorer is just available for use with Azure virtual machine backups ..."
+    publishedDateTime: 2020-05-02T00:00:00Z
+    webUrl: "https://redmondmag.com/articles/2020/02/05/backup-explorer-preview-for-azure.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 37
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/Cloud3.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Dell EMC Integrated System for Microsoft Azure Stack Hub"
     excerpt: "Dell EMC Integrated System for Microsoft Azure Stack Hub provides a fast and simple path to Microsoft Azure Stack Hub for digital and IT transformation. Download the Solution Overview here."
     publishedDateTime: 2020-07-29T21:02:00Z

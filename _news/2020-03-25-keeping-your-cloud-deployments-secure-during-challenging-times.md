@@ -5,9 +5,9 @@ excerpt: "As the world comes together to combat COVID-19, and remote work become
 publishedDateTime: 2020-03-25T08:00:12Z
 webUrl: "https://azure.microsoft.com/blog/keeping-your-cloud-deployments-secure-during-challenging-times/"
 type: article
-quality: 84
-heat: 84
-published: true
+quality: 24
+heat: 24
+published: false
 
 provider:
   name: Microsoft

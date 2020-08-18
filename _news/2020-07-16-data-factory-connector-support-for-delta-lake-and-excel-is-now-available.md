@@ -5,8 +5,8 @@ excerpt: "New connectivity added to Azure Data Factory enables managing your Dat
 publishedDateTime: 2020-07-16T16:00:39Z
 webUrl: "https://azure.microsoft.com/en-us/updates/data-factory-connector-support-for-delta-lake-and-excel-is-now-available/"
 type: article
-quality: 61
-heat: 61
+quality: 1
+heat: 1
 published: false
 
 provider:

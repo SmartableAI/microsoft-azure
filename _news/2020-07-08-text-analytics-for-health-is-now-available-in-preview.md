@@ -5,8 +5,8 @@ excerpt: "The health feature of Text Analytics uses natural language processing 
 publishedDateTime: 2020-07-08T16:00:19Z
 webUrl: "https://azure.microsoft.com/en-us/updates/the-health-feature-of-text-analytics-is-now-available-in-preview/"
 type: article
-quality: 62
-heat: 62
+quality: 2
+heat: 2
 published: false
 
 provider:

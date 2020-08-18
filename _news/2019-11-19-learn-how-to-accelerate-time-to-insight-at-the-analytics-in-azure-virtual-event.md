@@ -5,9 +5,9 @@ excerpt: "The next wave of analytics is here with Azure Synapse Analytics! Simpl
 publishedDateTime: 2019-11-19T09:00:03Z
 webUrl: "https://azure.microsoft.com/blog/learn-how-to-accelerate-time-to-insight-at-the-analytics-in-azure-virtual-event/"
 type: article
-quality: 75
-heat: 75
-published: true
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Microsoft

@@ -5,7 +5,7 @@ excerpt: "This post is part 2 of a two-part series about out how organizations a
 publishedDateTime: 2020-05-06T10:00:11Z
 webUrl: "https://azure.microsoft.com/blog/minecraft-earth-and-azure-cosmos-db-part-2-delivering-turnkey-geographic-distribution/"
 type: article
-quality: 86
+quality: 76
 heat: -1
 published: false
 
@@ -30,7 +30,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 108
+    quality: 98
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/dfd8c989-e0f7-4554-8e02-d4fbc1046c4f.png"
         width: 634
@@ -44,7 +44,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 108
+    quality: 98
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2e4a9658-d476-4845-aae6-ac59a0d7b2d8.jpg"
         width: 640
@@ -58,8 +58,8 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 90
+    quality: 80
 
-secured: "CryhzbM6mxAu4rhHdVRtXjfK0yIuNAIBHywt7gpersoJo4ZD2kEsoiTdRhncFuppQVn4sxeifvksgctZFwJbdZkCNy1KexStep2g5REVM74Aio7tvrCkcQdp9nfDpXflTOgeYl8QWJk4SVNly3yP3LsOKSqQtjDWx45szVCoa2psUkhBz0xytmisCnjxXnaKuZrliVmZpOMf5MnfM25XQcziljPzelTVkiFfQCORKx0F2EOrHmIOs9mCP+jVMkl5cZVV5w5+1mlKkcsHI6PKCBeEKI7neL3y9nCGDXe1rUwp522WHoVL9rBV4gr2lyjnzKy2YzV8JSbH3HgT9VtZrg==;dy8V5fUviTvszcLIzPFC/w=="
+secured: "571o2LDVVEMNinJpWse0hC+XJxzqBY10/00afia7Mntgx24jkkedbVJwY19QcSPHl+irZHVhq5SSAr6iDK+p5rMykTpYGICq2248z/zhsVH7c50DQe0qc9Z/W/QIrvNUeTfh+EwhOKU9PwF6P+/LKASJT4P9Pw+fIcES8tYh0FiqgkGt0S+ccMtmoV8WvmFFZqi+z0yVAqeOoaKc0DmThoSreQEE2+WwV7zPqqQOJgOG48UuDAwpy6T5JPR1wh9sg6PgUjKhos/ZuJrOUQ6YQj35f6EpihtgevlPuazGitK73SfJqQ2dLhNG8vhyc/dcheBJQGWVGX9AgEsPvRrgsWjChsNWOXNpTARwZdz0QGY=;iodSSRIJyDvH9ddAq+dk+g=="
 ---
 

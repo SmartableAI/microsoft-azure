@@ -5,8 +5,8 @@ excerpt: "Effective September 1, 2020, the meter IDs of Azure Backup—LRS and G
 publishedDateTime: 2020-07-28T17:00:15Z
 webUrl: "https://azure.microsoft.com/en-us/updates/backup-azure-files-lrs-and-grs-data-stored-meter-id-changes-for-za-west-and-za-north/"
 type: article
-quality: 60
-heat: 60
+quality: 0
+heat: 0
 published: false
 
 provider:

@@ -5,9 +5,9 @@ excerpt: "Providing our customers with choice and flexibility is central to our 
 publishedDateTime: 2019-10-23T08:00:05Z
 webUrl: "https://azure.microsoft.com/blog/introducing-corda-enterprise-on-azure-blockchain-service/"
 type: article
-quality: 94
-heat: 94
-published: true
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Microsoft

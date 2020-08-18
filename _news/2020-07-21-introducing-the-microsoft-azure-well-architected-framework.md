@@ -5,8 +5,8 @@ excerpt: "As the technology requirements of your business or practice grow and c
 publishedDateTime: 2020-07-21T08:00:45Z
 webUrl: "https://azure.microsoft.com/blog/introducing-the-microsoft-azure-wellarchitected-framework/"
 type: article
-quality: 97
-heat: 157
+quality: 87
+heat: 127
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: mynewsdesk.com
       domain: mynewsdesk.com
     quality: 37
-  - title: "Microsoft Azure Stack HCI"
-    excerpt: "Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here. Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here."
-    publishedDateTime: 2020-07-28T23:28:00Z
-    webUrl: "https://www.crn.com/2020/07/28/microsoft-azure-stack-hci/4rB6NDMQd1Vug6GrJ7ZOU/index.html"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 37
-    images:
-      - url: "https://www.crn.com/resources/025b-0eff6361f68a-29cd08758548-1000/1azurestackportfolio.jpg"
-        width: 515
-        height: 305
-        isCached: true
   - title: "Microsoft Introduces the Azure Well-Architected Framework"
     excerpt: "Architected Framework, which provides customers with a set of Azure architecture best practices to help them build and deliver well-designed solutions."
     publishedDateTime: 2020-08-04T11:10:00Z
@@ -67,6 +53,6 @@ related:
         height: 1585
         isCached: true
 
-secured: "a3S428tuALHL2e3+odWhBuE9nhhAjkvj1fu+NxOLdxPamGU8EkZKpm5zVnAcbuhdcfzt2njeuG/Voj/1XgToE3dxuMU+bi7/pSK4wnTbHv7BGdxLSGRD+o+74Cnhmq4/8js5IlA3OM40dxf6gnj1U0DepzGg0gD9LJTg+nofXtiLcEyJbzqD1euSptp6cllhn+aFVgga4t05I9pp3ZU1Jc7jJoWM78gandN/EDffJ3XEnOq0vBwH0F1NwAg9Ma348Pg/A+ThyVgQs8RKnaFY5y0HoaFLuJ3NX0wvo2JKyNFMUXP+TAdCyzE7We1E/eC+sEk1pCiYhtG7LgNQA83GZA==;qKWHYPIeMBbOpW2oSzC5Xg=="
+secured: "nyXqBOleztiZaL5H2iIvzZAOfQK6oKeSdopFrHyx1NTXhQ4C8FP4qLXeuHY8JnNFOpgezycb0EqGR9qocFnU3eSk4OW1aw3RZPVkv1v9Npo8SHEE1LiLvWjloaEkr4rnbPeLDtmwfshKCk0mSQIJvZCcO/HPNKekGruz53M3Oe3RuORbHmVQhrRgefWIryI7yu4jQ5Zus6Tk0lCJ+KWEJJWclLluUXoxLMTQ27WrcxvqgTLtZKWwrg6cAnI8pHgNuyryhuPo/WEirsKAbK456LHuYAZiUlG1dNoXfPw0cyz3EykA2G54hsfD5n4C8SmqFKj0uIjaHaBNBQW4pNSw598vFb7evbxFS1PEtUAfUTo=;UvnkmrJDPwHyJzr1RNp3BA=="
 ---
 

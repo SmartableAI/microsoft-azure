@@ -5,9 +5,9 @@ excerpt: "In addition to the new web experience for Azure Partners, engineering 
 publishedDateTime: 2020-07-14T10:00:14Z
 webUrl: "https://azure.microsoft.com/blog/azure-partner-zone-brings-new-resources-and-special-events-for-partners/"
 type: article
-quality: 77
-heat: 77
-published: true
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Microsoft

@@ -5,9 +5,9 @@ excerpt: "On a rolling basis throughout September 2020, we’ll move Bandwidth t
 publishedDateTime: 2020-08-01T15:00:06Z
 webUrl: "https://azure.microsoft.com/en-us/updates/upcoming-billing-changes-to-azure-bandwidth/"
 type: article
-quality: 77
-heat: 77
-published: true
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Microsoft

@@ -5,7 +5,7 @@ excerpt: "To help our SAP on Azure customers effectively monitor their SAP appli
 publishedDateTime: 2020-07-15T08:00:26Z
 webUrl: "https://azure.microsoft.com/blog/azure-monitor-for-sap-solutions-is-now-in-preview/"
 type: article
-quality: 77
+quality: 17
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 114
+    quality: 104
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e5a083c8-5be0-4b4a-8878-bf65fbf877f9.png"
         width: 735
@@ -43,7 +43,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 103
+    quality: 93
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8546d591-93c0-45ce-81a9-993caa2d22ea.png"
         width: 822
@@ -57,7 +57,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Monitor Logs connector is now generally available"
     excerpt: "Use Azure Logic Apps and Power Automate to create automated workflows using hundreds of actions for a variety of services. The Azure Monitor logs connector is now generally available—use it to build workflows that retrieve data from the Azure Monitor Logs workspace or Application Insights component."
     publishedDateTime: 2020-07-21T17:31:27Z
@@ -66,7 +66,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Java 11 for Azure Functions is now available in preview"
     excerpt: "Java 11 for Azure Functions is now available in preview on Consumption and Premium plans for Windows and Linux."
     publishedDateTime: 2020-07-21T16:02:46Z
@@ -75,7 +75,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Performance tiers for Azure Disk Storage are in limited preview"
     excerpt: "Azure Disk Storage now enables you to set performance tiers (in limited preview) for a specific duration of time based on workload demand."
     publishedDateTime: 2020-07-21T16:01:37Z
@@ -84,7 +84,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Private Link support for Azure Automation is now available in preview"
     excerpt: "You can now use Azure Private Link to securely connect virtual networks to Azure Automation using private endpoints (in preview)."
     publishedDateTime: 2020-07-09T23:00:06Z
@@ -93,7 +93,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 75
+    quality: 15
   - title: "Additional Azure regions for IoT Connector for Azure API for FHIR (preview)"
     excerpt: "Azure IoT Connector, a feature of Azure API for FHIR, is now available for preview in additional Azure regions. It enables remote patient monitoring, telehealth, and clinical trial scenarios by ingesting health data from medical and non-medical devices in a secure, scalable, and compliant manner."
     publishedDateTime: 2020-07-21T16:02:12Z
@@ -102,7 +102,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 75
+    quality: 15
   - title: "OpenID Connect support for Azure App Service and Azure Functions (in preview)"
     excerpt: "A new capability (in preview) allows you to configure your Azure App Service and Azure Functions apps for login authentication through any OpenID Connect provider."
     publishedDateTime: 2020-07-21T16:02:33Z
@@ -111,7 +111,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 74
+    quality: 14
 
 secured: "uWCIFt44MscYAs+nF+xqABq3mgeepw4l3N/3Wgd9wPmYq651nFkk4lrfasC5Y8u6TMcnHjY9cYWthEQP2FULydgfLWEAAQSzoX03NifjLYTXxFR8PEvjgMZjA0OisVBIMjDPP3DRgxllqpSn22W9+ykLcvh3G8ZZFmSz+NLJshUZRzPI1pLp59ZhlE78iIpUiRTl0uyYE7aMFkXGWGJe2nMGHX6mjPt0HvMQKtAp4/UI2HqOnodTFWoVWwmTCYEqvaeDC+WQCXNDFjcCAxA0ZckvvIYxHyiUlTwEFYjlxO1adMAuLeo1+L4HHwPsiIN4tsJFTWpx+Zmh8zXg2hoo/Q==;7ceOqHUJsPrSZ2gjebhpCQ=="
 ---

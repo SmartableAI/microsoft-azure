@@ -5,8 +5,8 @@ excerpt: "At Microsoft Ignite 2019, we announced general availability of the new
 publishedDateTime: 2020-04-09T10:00:12Z
 webUrl: "https://azure.microsoft.com/blog/next-generation-sap-hana-large-instances-with-intel-optane-drive-lower-tco/"
 type: article
-quality: 83
-heat: 83
+quality: 73
+heat: 73
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "Next Generation SAP HANA Large Instances with Intel® Optane™ drive lower TCO"
 
-secured: "h6mU057nwynx3x8EKsZQQM2kFpN124ZUAIlRqlbPjSboWTSBRlN9RIKR0QNeL/yisKyJEOp91Pa3SMsJaWl0HVkDTe6lp/VvBTHil7bP3cQWk5PJRiLKYA9Tm7rcVbqFKs7XZrJRNfhg83K7gfa1XEy/dXLISHXymkjSUAZZNfDf6uoYKAa3vLdsM1IDaQpWoz1G/Jn6rZfyyH2A90jf8jf4t678ypazV2tSEni2iD9QXagKMX2ZPwn/tgxb/rOd22FKJ59KEiFl+fhucIp0YHIzxo5Bw5/ziZBtXMuYuRZfA1XO7W1YvMyaotyRyl44y2zSRk9Zo180O4owvlundw==;swjDYcLPPKn9i4a/ULoPSQ=="
+secured: "awzcQo1OOwNdrja0TQhHr6IYS7f8vJzp6/9GZFAwokCoJZMFiyg6gUMZqTZp88LkG92pD6j1mQER17YldLpsCg648Zv6c9WSwucmOeM7D6Sj80O3Nalqk38QkklZhualQ7wVEMwarBOaman5TlTXfVR/cFshxsItD8cZR7zXdauuqrp3xxoQBs6OlG2g3FiYROktgwXbZYwZdasQtgBMquUQdpkYiZv11tkXfup9cKQDq5d0MD/vNLLWi11nw5aiBF5U87J4n6JIhIYFaXXoH2Xpbzeqcb1RL7NbY4HVBEaOqfyLwTX0fY6mp9i3/BXe97AZWHyRY6DTtUTiRy6pRGT5gCYP8hkY2msBQLf1OcM=;ajf8nST0VOLb9GaLQvAwMg=="
 ---
 

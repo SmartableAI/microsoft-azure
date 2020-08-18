@@ -5,8 +5,8 @@ excerpt: "You can now easily see when your AKS resources were unavailable due to
 publishedDateTime: 2020-08-17T23:01:22Z
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-resource-health-support-in-aks/"
 type: article
-quality: 77
-heat: 117
+quality: 67
+heat: 107
 published: true
 
 provider:
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
+    quality: 57
   - title: "Public preview: Ephemeral OS disk support in AKS"
     excerpt: "AKS now supports ephemeral OS disk for AKS agent nodes in public preview."
     publishedDateTime: 2020-08-17T23:00:03Z
@@ -38,8 +38,8 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 62
+    quality: 52
 
-secured: "tYOOPMCkuBY8oNH2NGX68bF7JtjC3EkLbiOCW3WuaK66AqbwUI4FglzBfzVToX1Khb+3S/bl/TJLDIQcgIWfiKKkDfJim5IwqIq4+J+5cXYhgQ9kXTXVnbiLst4vOiet3a+joaPRLIJa/9PrbxPkRFKssshCdq8AMx/Mo7vm2jveu5ySomhyDCGVT4zx5URodN2p9J0CX8meQ9H7dSfpYhnPeTQWzEsINIOUMs3thwMToDg2M/yPEV09xRExvvta8E9RW0jsUTdOWCmYI55nUKn19nasXzjza0xoOSp2XGRWXlFKUl3B/PJgiEP+uzFIGHFXDzrjLC0MCYdbs8C89g==;uARAKfdTPI3L1kSQVrT/fw=="
+secured: "APn87P7nNWUn8xKHNfLzFprzZis3lGSFxrcdUjWsJFN3jj8M/jCMhhjd/SZSH2XAdGlufOfgvhiwRHUr0up1oxhJIXV3vXMbTCySTwNpD/6cUXFBQ0n0Sxfl16iTyXsOguOldvEwFZKk0BLfLPRUJapg5WeWCtO+5ymGWURN29iL/gYE4Qt8tz0OmPvM9HNv2C37/dlnXLGcPJ/Onzx/QVpIXDSV0cX6XIRWDBcDjIgtQoa6fcoUnJZNBXar+XkLXlroX8676bPyfgfzntR7Uo2i7NHaRmxvlh/qhRRgBU2CH/tgWRXRhK2POO9Dp8DYFcRhiisiHbYgfERo72c7tqzuHhYPL+ErNJDRtkcZSA0=;HkLenfiFhzCpCcCHsdNOyg=="
 ---
 

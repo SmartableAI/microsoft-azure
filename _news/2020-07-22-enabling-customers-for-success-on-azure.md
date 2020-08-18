@@ -5,9 +5,9 @@ excerpt: "The cloud has surged to the center of the recent digital transformatio
 publishedDateTime: 2020-07-22T08:00:58Z
 webUrl: "https://azure.microsoft.com/blog/enabling-customers-for-success-on-azure/"
 type: article
-quality: 79
-heat: 79
-published: true
+quality: 69
+heat: 69
+published: false
 
 provider:
   name: Microsoft
@@ -21,6 +21,6 @@ topics:
   - Azure
   - DevOps
 
-secured: "dOmoy9r8dROlLCOIeVQzHwNb31QgHNlqKsF7PYesOHY60WhaLUUtqnlH2KpzwLQ+H3svPtyiwZWL16c5kmG2lAn0d9vlBbha06m3CNKx8WvyHDZkxVp0hJvxbESPoQW/8jQk9YMgZSBcwZuuDzvbUNVDmR6FCri/8WS2eh5XqQ9We+JsTZk3jp71x3tYaPUkO6kS/OIQlz+P2ybGntcJqSeB7gZyl+vZGEkRfupCfUYC8dZqT+JhvKYsBKP2VAlN3Ntkb3VdIucogC8d8qP9zZIhpj7w1Ox0YP6mNWnp7eMw7WQaD3G6LxD196x825XPAlBxMRl1myKDB/x5qZH0iw==;e09vrPOQyM3Q1uj37iuqKQ=="
+secured: "cBUqs9cps75JRiN/1XEZG1JGjkjIYwiYt5FPNOhZsX+WKCyj+cjVZ+lNjPoAHeLWVqL2DbHyYteAk2/MdxkGN2jUc7c5rGoYJ7clzwQ8hduNHMoqiJiUIVwgYLQMhcgu+29acSK3eFOIogdBZXbHtEPbl6O27lP/5p2Sh3yCS2cGZQbdwydu4Na0Ds3Z9Qp3MFx6EXdf8oF+Ix8KEipRsYuTe4nhN6VWkTmjb1N30XwY8DuKe6cWJsT1WlCz/hMLgUWnWxE77D6jWMVWBu/JCfz14ml7fAT5aKfQKJyFQ2rQw0jKIxvALIWX89RYtSq4RK0RtIFY57A4XXXWOSkfjmBs6paMr8yeJvp5o1Y6vMk=;CabpOQv+8i6fcDniiDCaCA=="
 ---
 

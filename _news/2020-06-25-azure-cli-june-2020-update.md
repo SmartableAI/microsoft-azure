@@ -5,7 +5,7 @@ excerpt: "The Azure CLI continues to expand with support for new Azure services.
 publishedDateTime: 2020-06-25T16:00:28Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-cli-june-2020-update/"
 type: article
-quality: 77
+quality: 17
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
 
 secured: "lpjWTLiUEWZIhkRAKBl0EwRdMWqoMRFGRq/r399Z5BNVi2VwdcWO9wd2/HaNkpmHwArTNJdeorCM7mdXvCyDLqN68TfAENUxSNzgQmK82Ffwx+qnNq7vwZQFSFxErkd8QICGV8Z2+Mo31lbBioyRCnFcV/+72wB7vH6B+kciIVn4XFYJ9iV/H34I42bLZRulBgPRvRl3+refdPGQFLmfpmsyEewPC8ya6eY8wV0J2hsYegi8v2Xf0swJpnG7TmyIxJ8E2UvzAEBIi6R1KdTO66eT72HJCOFv3YriAd/74VOXbBt3v5MwiH476kVG+NVmRmeCXxADIhmyK4DjAtocAw==;+ZnrdiCwdUf9418E7cxEOw=="
 ---

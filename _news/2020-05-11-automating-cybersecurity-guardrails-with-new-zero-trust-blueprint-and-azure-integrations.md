@@ -5,8 +5,8 @@ excerpt: "In our day-to-day work, we focus on helping customers advance the secu
 publishedDateTime: 2020-05-11T08:00:01Z
 webUrl: "https://azure.microsoft.com/blog/automating-cybersecurity-guardrails-with-new-zero-trust-blueprint-and-azure-integrations/"
 type: article
-quality: 85
-heat: 105
+quality: 75
+heat: 95
 published: true
 
 provider:
@@ -37,6 +37,6 @@ related:
         height: 801
         isCached: true
 
-secured: "hefd+ztxsnO4BgvNcO9J6lxVw+lIGc2EP1CAr/8mhaQGOxgv+lj5EXoxmZ+yDrnGzpgPplNLQiUAP88MnrE25FwIbggmCA1SwR5+vZrXNLvbl245bPNw63Ai4eXhBji1wMu/GpgWF/ljiA/qvElPbV8cu1RCq7EgNBJ7MlM6jE0LX6Orunbg4zIUM3N0SNX5zbMFBECKDKJ0G1dekMQHEvHPzbIeEVg2fVUUSLbWMqts30I8LSAYA2m7Z7WeGY+2M8cNyVI5ziz2xDZaiiGrv0cRfZWP/VdcfLqWncNK5w3QQ+dp2geFzzCa0SXzLN0FD4P/smdbJr2OGJ3luQmVvQ==;3+yjF7ArLVEXyCJFM/+uEA=="
+secured: "2lIisYQS/rFLGo5X0l6CI9SvkP9+jN2Kz38v6AYyKGqrmGRzq7lA/LMHg1W643ouDeNWQmqNQAyQclNzsD9iI3bvn9ihl5N0MBt4IwC5oR/0EfmGTi5WMLPs2tiFQlv/Fj5VjOp+rxiYM0bvTdREBepIeFmj2TUouLqUyTTJsloELGAjzfylaHSpyvwlms/dqxriHWS89KVbUcLhUUZI1qs53nous+Dlb+I0/8tUSs26yqVE4hNw2jLgI+N3iRzBCMjoQMdRMU8l1SJYQIdDNpgHxvWeNWNDVzlJZerQKAcTDRrdTQ1QqmiwHR4mnXPiQJgEBOCDkVhmCnZnwUnv9QW03n8Y5KnbOyo2npsd1Qg=;KHqaCSgNlxbNZr8igrw0bA=="
 ---
 

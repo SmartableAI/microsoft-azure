@@ -5,8 +5,8 @@ excerpt: "A new feature in Visual Studio Code that enables you to debug Azure St
 publishedDateTime: 2020-07-16T15:00:39Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-stream-analyitcs-tools-for-vscode-debug-query-using-jobdiagram/"
 type: article
-quality: 66
-heat: 66
+quality: 6
+heat: 6
 published: false
 
 provider:

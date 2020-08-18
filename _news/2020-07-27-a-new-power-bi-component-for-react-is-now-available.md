@@ -5,7 +5,7 @@ excerpt: "A new Power BI component is now available for easier integration with 
 publishedDateTime: 2020-07-27T20:00:04Z
 webUrl: "https://azure.microsoft.com/en-us/updates/announcing-react-power-bi/"
 type: article
-quality: 82
+quality: 22
 heat: -1
 published: false
 
@@ -35,7 +35,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 97
+    quality: 37
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/95c103a6-ea66-448a-9cfd-b36191a0ccbc.png"
         width: 1028
@@ -49,34 +49,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
-  - title: "Azure Sphere update 20.07 is now available"
-    excerpt: "The 20.07 feature release contains new features for application development and tenant certificate renewal, additional promotions of beta features to long-term stable (LTS), and enhancements to improve stability and troubleshooting of device connections on Windows platforms."
-    publishedDateTime: 2020-07-29T23:00:32Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-update-2007-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Audit Logs of Azure Monitor logs queries now available"
-    excerpt: "The Azure Monitor Logs service allows you to collect telemetry of all types across their entire infrastructure and query this telemetry to collect insights. We are announcing a new capability to collect audit logs about query execution."
-    publishedDateTime: 2020-08-05T16:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/audit-logs-of-azure-monitor-logs-queries-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure Advisor Quick Fix is now available"
-    excerpt: "Remediate Advisor recommendations at scale more quickly and easily using Advisors new Quick Fix feature. "
-    publishedDateTime: 2020-08-05T16:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-advisor-quick-fix-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
+    quality: 17
 
 secured: "t9SmWclZHarEODKQrR/rZ8vFIiJ/e7cWrO0tvFUNxbqCCxUWnWR3CNqKt7uVrFpHKBhGLlQXP3rFHJM7HQtmYcmUq1/cbH7Ji/a6GpI5cHlWIPMjztKO636wW+YtNlb/pb23aGy2xbj1QhQqiVBEMawfMnIfESVoFHmjZNzOKfmBQ1+hzOEZwSMSBULrDEqYFOD+rg1s6lQkJSfmykVvBchAdpvwhgqb3oDrKt9GxVihq7rF8TVeYiHpYLg0eA2c9hlJEHyyg9V9q3ddPzwiDdVJVVVNFawieGQitxbExKwdkdWsgY/f3qodVWIlL5Vp01fpdUrirEM0X/p/TcL/4w==;fGBA9B+K1wFvXIn05b1BdA=="
 ---

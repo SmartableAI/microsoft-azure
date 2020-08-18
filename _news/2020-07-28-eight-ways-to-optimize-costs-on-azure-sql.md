@@ -5,8 +5,8 @@ excerpt: "Across the globe, businesses are emerging into a new normal, eager to 
 publishedDateTime: 2020-07-28T09:00:15Z
 webUrl: "https://azure.microsoft.com/blog/eight-ways-to-optimize-costs-on-azure-sql/"
 type: article
-quality: 101
-heat: 141
+quality: 91
+heat: 131
 published: true
 
 provider:
@@ -37,7 +37,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 76
+    quality: 16
   - title: "New memory optimized and compute optimized hardware options in Azure SQL Database"
     excerpt: "New memory optimized and compute optimized hardware options are now generally available in Azure SQL Database."
     publishedDateTime: 2020-07-23T16:04:22Z
@@ -46,8 +46,8 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 72
+    quality: 12
 
-secured: "QLARfSmepb36MpfPFge6a43F/2oHJUtr5PjaAqfw56tI0hdLkEe0/HI2MXEEpziMjeD/vBcB6B1K6s3/HmNSPRiEXRKglnBfaHOj8jjpwulIipj1Ap6/1IMntXMiPQxW/RJw4jcUaKoWFDizDGLYjnXDGc1fs7T2uF6DEvvdIIO39pND1eEggrRQSflmpRA+LgUMk6o3XpJg1FtsPFSDmPGKEf2nICeEhAkGpv2QlWqeDYDs3p4voW/kb6AdU7dmgyrIxalWcdm8Qu110SjZWFZMezvHSGsYUHsr2v9gDP/duv0DQgC/tp+QlD6tWDh8/LEacBRT+LaETqNv377LKw==;ExdB8mwDaFoS+/BRef0y9g=="
+secured: "RiDZT6RJ+w7xcXOLD5gPYUp0ioSFgWZB5k2NTW4fAqWHusLyERlaFH3x/BHQcFhNE4pGyCnEqfP+NQQ8O2ubOiahttavIp8k4F97H4n3pwp9LYAnVigZIlLfEiDRiNvzPZg6+mL9m+ewewYSkMfLeyKgj0Uh3DAvYQE7ZK6tzMAWXvld0KaHwFMCc1mecYUMlvaRRVPTljZPuOW6cVw31Jk4NzxBjoYl0KpAMrV+sgqZJgTYvI6HDMGki5K29ynHCbVIdi5G4aEPkQL5HXe95Ok9UTGFcRmc/weZkV8A0DZ8kDDhGEHUIpiB0PsJv/6Y8j3Cz7yWtXWKgmgZ3hEJCHcL112mmfpvYGq+8s4pBCA=;Xbpfw42QmS6VbvoFPBXZpw=="
 ---
 

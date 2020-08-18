@@ -5,7 +5,7 @@ excerpt: "Today, I’m excited to announce the preview of the next generation of
 publishedDateTime: 2020-05-04T10:30:00Z
 webUrl: "https://azure.microsoft.com/blog/microsoft-announces-next-evolution-of-azure-vmware-solution/"
 type: article
-quality: 79
+quality: 69
 heat: -1
 published: false
 
@@ -126,6 +126,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Microsoft Announces Azure VMware Solution Preview"
+    excerpt: "The long and winding road to run VMware virtualization tech on the Microsoft Azure cloud has taken a new turn with a preview of an updated Azure VMware Solution announced this week."
+    publishedDateTime: 2020-05-05T17:21:00Z
+    webUrl: "https://virtualizationreview.com/articles/2020/05/05/azure-vmware.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 37
+    images:
+      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/IntroImages2019/BlackWhiteDotsWavePatarn.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Microsoft Azure Adds Another VMware Option to the Multi-Cloud Mix"
     excerpt: "It’s called multi-cloud deployment, and it gives operators options even if they don’t always need them. Up until this week, these operators actually had one option from Microsoft for extending their VMware virtual machine environments onto Azure infrastructure,"
     publishedDateTime: 2020-05-06T18:44:00Z
@@ -196,20 +210,6 @@ related:
         width: 2542
         height: 1331
         isCached: true
-  - title: "Microsoft Announces the General Availability of Windows Server Containers, and More for AKS"
-    excerpt: "Microsoft launched a preview of Windows Server Containers in Azure Kubernetes Service (AKS). Now the company announced the general availability of Windows Server containers in AKS, including the support of private clusters and managed identities."
-    publishedDateTime: 2020-05-05T11:23:00Z
-    webUrl: "https://www.infoq.com/news/2020/05/windows-server-containers-aks-ga/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 12
-    images:
-      - url: "https://cdn.infoq.com/statics_s2_20200602-0333/styles/static/images/logo/logo-big.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Avid Announces New Five-Year Agreement with Microsoft Azure to Bring More Media Companies to the Cloud"
     excerpt: "Over the course of the new five-year strategic alliance agreement Avid will continue to develop and deploy its cloud-based solutions on Microsoft Azure. Since launching their initial collaboration ..."
     publishedDateTime: 2020-05-04T20:55:00Z
@@ -220,6 +220,6 @@ related:
       domain: globenewswire.com
     quality: 1
 
-secured: "qpBU9ojq/gKm6d7I5laTYYUQmAxR2k2+HynnHJ6a6A9xJDUmxKn1Alh0eyiHGMwZDC7bXdcaGWIfJBwlQn5ivVLBSjX2ac8WVfsNdV/6OFZ2/h523kVRePVRSfWvfIv1JihYsQH+RvUVhNJ8/XCUR8bVKj/jQ6vKSBzgAqVcn1Z75cYWT4AywTwbWQc9t+g+bg0UeJ7pdilK3zi1odgBuVx7EPLHv608wwo3NRS87aTkfiD4lJhWTsL2GcsFvZHIEsYKDGZnFJuOSVIt8xTZ6++rhNPedwyuDzAWVHTA6/1wslZEihkW/X457Uh5jlgY7ZfON5Rley6F4jMBi/JZEw==;lIDuUvb0mTWVViF+svM0ow=="
+secured: "3G+6aZsVM1z26NXIRhSkZze+uBcSJupt0WUEYodLmsKS1C+xf+1a+QlVuN28T0w2ifoyHIn4vIxg//mfjoHAH9ji0Te8qOx5C3/AlPgmD7JmFYDAeUnhkJVxVJadpI4l+Ku7EpnSFAtk68OeKQOr3pajIOp1Y2v/MU5HvdExCJIg4uXY7OJrqCVRaruy67LP7l7rUDcq4mafYMsSe6cDhVvkMNlHMLFJ/bxYLc1Yba37nMoNKkIA+bSzWN4qGDwhEmuZoA7wFGcqSEoVuWrLSjzJym5pI1o5Y+rqyrzD72OEBj2HdEUhVes0rwnbN6jkRdFi1wCYBgN36TBTYNTpIeHb5xps6mTMCmI5B1zJy+I=;VFDVg5EErxNAn48Cgf1ENw=="
 ---
 

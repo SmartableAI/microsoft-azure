@@ -5,9 +5,9 @@ excerpt: "This post was co-authored by the extended Azure Mobility Team.\r\n\r\n
 publishedDateTime: 2020-02-11T09:00:40Z
 webUrl: "https://azure.microsoft.com/blog/microsoft-connected-vehicle-platform-trends-and-investment-areas/"
 type: article
-quality: 70
-heat: 70
-published: true
+quality: 60
+heat: 60
+published: false
 
 provider:
   name: Microsoft
@@ -24,6 +24,6 @@ topics:
   - Mobile
   - Web
 
-secured: "ky0XCZCZqtJmdE/WTQTG42pKaBI++9AKKx5cLnHNyMFDqKdlrdBODRi0RTlGr4xQbutkiK/c7j+X67oBLrfGi7bJEjtI6dU/efQQSLqXWdxdas5/+veK5iRNEkBErSl9HlK2cY8dFFMdS4RP8Dxwu4Ky3UC/TNAm8rb0a2CkXAhy6+K3QpM/Oti4kLvTt+qZ7K+dtfupFIOQ/Yu8SaCnk+b+/zbPG/4u5Lu+wsFVhSvxEzHJ6mhiUNyS3ia7Prae77ThyvHS7boAIkPxBottsuX/mnHaPsmO0LPXDus/SUxz2/JrL88Ra/RLmkSNnCkvKxkB0MMtnBT6sAxAeZDAbA==;ZFDuEn4/CAW5hakyIsulhQ=="
+secured: "wbxfPEpFfffXNMDhdAHi0hp8GBo+gz5gEuhjYrxakAKDZKXbSriXynDhrZZDJocDvIuHjQrQsmizNz1QtLiM+pcPXJ19fDGtQB54I3j8V3rnOyRNgme1uzDG6EGFZkMzfaBjPnRcXWWDQs/rrpl2IiarwUTCklu2Vkus4e1o16nDOKpXSSb6jvutxynAZgaTPcdgB+ZOxgXj+qTTPLjx2hdNrJzgZ3YyecPqnUpdGxa0bt/B2QBo09hksgfgQsylQml2keAA3tmCvMh7N6Nt8ZKmofCyqcYVOkKiN/XhbzNvunRGzjBvFiA0c7GPUwk78HtW3YjPMrmeKd4zrO6mclXRrznEzkvEh3IH/+ATnzY=;pWQkv6ex+223zvcuhQfGXw=="
 ---
 

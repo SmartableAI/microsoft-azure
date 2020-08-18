@@ -5,7 +5,7 @@ excerpt: "The explosion of data-driven decision making is motivating businesses 
 publishedDateTime: 2020-04-23T10:00:10Z
 webUrl: "https://azure.microsoft.com/blog/optimize-cost-and-performance-with-query-acceleration-for-azure-data-lake-storage/"
 type: article
-quality: 72
+quality: 12
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Functions—Java 8 support on Linux is now in preview"
     excerpt: ""
     publishedDateTime: 2020-04-27T15:00:24Z
@@ -38,7 +38,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Data Lake Storage file snapshots are now in preview"
     excerpt: "File snapshots for Azure Data Lake Storage is now in preview. Use file snapshots to take an unlimited number of snapshots of your files so that you can have a copy of that file at a point in time. "
     publishedDateTime: 2020-06-30T20:00:36Z
@@ -47,7 +47,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Data Lake Storage static website now in preview"
     excerpt: "Static website for Azure Data Lake Storage is now in preview. Directly host static content from Azure Data Lake Storage, and view that content from a browser by using the public URL of that website.  "
     publishedDateTime: 2020-06-30T20:00:35Z
@@ -56,7 +56,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
 
 secured: "Yo8b/euReyiYNSgR1PXtglNaTjlosvHc1PLVQqqqQTS0AV6KMdO8B5LMhGpG00ZwrfwO/kBMM9iNFgDDTtI0p0E9o9WViDgOVCxcNac0AZNC1nkRWkRujRamMEhpCcSwRY9ZgGm2KnaNf3nFqPwuDPuEyKpliNetK5EBT78D9TP3k6W3DFM5MgaFT3JTGHyNzNfFZF0uqbABfv6oDLbD1+BY3sT6Wf2Eir5tGI4c6cQqAQ2CkZXZpZ/qQiyIteE7N++44xvdtJeXUBGiTK8EKn3shHNiO0qHlRetuXzMsTa9xnKpfqMmZiHxuPvnoucBJqGVIWmo66MenKVYeci49g==;JnhXXOJiYYflwTWXip4fEg=="
 ---

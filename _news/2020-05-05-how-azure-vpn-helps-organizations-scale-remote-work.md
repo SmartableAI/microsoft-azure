@@ -5,8 +5,8 @@ excerpt: "In the weeks and months we have all been grappling with the global pan
 publishedDateTime: 2020-05-05T09:00:09Z
 webUrl: "https://azure.microsoft.com/blog/how-azure-vpn-helps-organizations-scale-remote-work/"
 type: article
-quality: 99
-heat: 99
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "How Azure VPN helps organizations scale remote work"
 
-secured: "wqPsyL0rTEt4RLNonClVJrkz5Uff10CilFX7V4fnZUXprFA6HflUEA0MnbxdGBmUA4ZCQL7mrJdM1N12kf/wHwi3PqjDhWey5BSSdb8Pbqp24tjoX2NGLijll7+YYKiI1GdAI0wTxqzhss6vpUXnz/SBDne9DoVr2P2NtsTTYiX/6XfauqEyKnGm+dP5XCwESJFoIitKSR58fftkUuBE1xzK9n0yLCY00KPgroEhdZP1EFo+OBh15Coj5bNV6mHYlM6TnMk1xv3jd2KUUmABcpN30LGHrq0aEcVNPUOk9CULqJ2tAxRoqPda1Mb9V0d4Qgaz1fFH/Uvd/HDHjrZ7ZA==;Dfa+Am3+gICELP2+DsQa8w=="
+secured: "NCGKgPEZwN2vo3U/XQmKbKijYamboOnjHSLJdZJtekFCs2PI71nQNbrdSjh/OGxYMHWsrP6cro1lPFHfpdOdAQ1Ja9chUTyzJgHWcV4YNtj6XmEef0NTWXLqVdS03ukCkYMEoPgjMGyq5J8bbBGj0t/ewSV0MShsNHfCk/90Kkd/SZA2uDo6e0DP2bxABObTn/GQ6hTVIj7YnZ+ErcYDoLt0R2/i7NuTxTk9eMUkeuXPZXRJkbF7vKZT5DKhyqXQmcUYXdJutEy5ORuKmFx0gS5C6IkiNP74E5t7fHRA/OXhYAldaFp0ZThLiNfEf97C/QXl0Vmv8F00D/ZG9hd4Bz5zdLUCkKT1urHWqUEEMlw=;DQHL1ga8Y6WvJ68E2axj0w=="
 ---
 

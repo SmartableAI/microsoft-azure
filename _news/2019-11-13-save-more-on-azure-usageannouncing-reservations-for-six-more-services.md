@@ -5,9 +5,9 @@ excerpt: "With reserved capacity, you get significant discounts over your on-dem
 publishedDateTime: 2019-11-13T13:00:16Z
 webUrl: "https://azure.microsoft.com/blog/save-more-on-azure-usage-announcing-reservations-for-six-more-services/"
 type: article
-quality: 79
-heat: 79
-published: true
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Microsoft

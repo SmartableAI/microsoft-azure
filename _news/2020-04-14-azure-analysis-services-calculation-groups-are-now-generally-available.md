@@ -5,9 +5,9 @@ excerpt: ""
 publishedDateTime: 2020-04-14T22:00:21Z
 webUrl: "https://azure.microsoft.com/en-us/updates/announcing-general-availability-ga-of-calculation-groups-in-azure-analysis-services/"
 type: article
-quality: 97
-heat: 217
-published: true
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Microsoft
@@ -36,7 +36,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 94
+    quality: 34
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/2eee66bc-197a-4a22-97b3-a23d469d3f97.png"
         width: 604
@@ -50,7 +50,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 92
+    quality: 32
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/938e404c-6b8c-4d87-8795-119109f5f43e.png"
         width: 553
@@ -64,16 +64,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 81
-  - title: "Azure Support API is generally available"
-    excerpt: ""
-    publishedDateTime: 2020-04-17T17:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-support-api-is-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
+    quality: 21
   - title: "Azure App Service—.NET Core 3.1 is now generally available"
     excerpt: ""
     publishedDateTime: 2020-04-23T16:00:29Z
@@ -82,7 +73,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Text Analytics v3 is now generally available"
     excerpt: ""
     publishedDateTime: 2020-05-29T21:00:32Z
@@ -91,7 +82,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
 
 secured: "y9WCM+7n/R6Fia2K+UVxyKBVtI9nVYJiB/yZbzV5Lsa1bALn1m946nvPWHJw3j4OtWVfeEnqss0P4/T3cVT7HNyNttHLgzYl+5KYE+CI389Km0ETh1+YQCePjbt8qf3iLvtW82jcXP3IRyDApAGXR+32480Ua/8U+OmVEdi23Sz2fEk7eyQvuJJVDaUQQyO9LTQ4pXAzODla4dSmtjY1g3j54AuhgxG0dP+O8eaz0CKx6mSeWRom8L6a+JPuq7uX0VVjhJrM4+8lCFjQ8ZRL2HqfdiVtTsR05YYfUuJOfy1oOuHFn328rG3NjiiH1H1NM7gzEeXBlic8Tgif86ojgw==;oQNpNx4jpQQIz3wPeS0AoA=="
 ---

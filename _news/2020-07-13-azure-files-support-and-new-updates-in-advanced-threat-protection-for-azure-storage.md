@@ -5,8 +5,8 @@ excerpt: "A year ago we announced the general availability of advanced threat pr
 publishedDateTime: 2020-07-13T10:00:01Z
 webUrl: "https://azure.microsoft.com/blog/azure-files-support-and-new-updates-in-advanced-threat-protection-for-azure-storage/"
 type: article
-quality: 93
-heat: 93
+quality: 83
+heat: 83
 published: true
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 515
     isCached: true
 
-secured: "PbnVm071VOgrjrKcBI+ulKqHCICDaCbVWZikWgLJSHt36/pQlD8bce/IipIDWK2mh0D3RiSJVwXeQafyU0PlgxCk8KBAVIBri9/P4IgcP8oIksWsflBWuoqhOLlp0VOsost2ZO/IBMCiP5GUX/+Em9lc6mLIxLlSAwlCM85Hx04e1W0M7N6IrGjpH7st/fCMjPsMBsW2idb+Y5H3fu44KxKE+ljNwjjt3Y1gRJoqV+UR3nfbr+jTrVo4jprADRfnJvMr+qAtArQxSh4FFnE4CrkvNn44vbgbbiqj8MwlQYnBvPW7l5x4pSlH2c/zSpKjQV0JueWYlzMIM28KNyhvKQ==;bfUWnGaOAaSalmNF9dD1iA=="
+secured: "MiLOt8FVsnnVfEh8VAa9pscZwwg3+QM6acOdOf3YlWi89z3qnmecIKUydi0aOEg+eM/UVhP8wH5t552s4ib3Uusg3DhVjTImu7mgahPvDNhjD1yzvFy0lWzrKt7GcPHMDgJsmvKxEps5B4dVn2l842A+/zLSXe+/Db6VoZdRwwVlTJVu11KUsjvWy6pnLnl4ioDlKmd4oAG/YrFgnfT7GOYZaADNM/XN6JIJpx2hKdvfm4YwzbVeiYAKbfz3mftqc1OsYt9FQZ1/8l0J6Z2X3NF8sPr8mfpm6TiSGvlU+57OgsK5ojEUZfDmn7VZeFOvfMADitdWKHBS7J4KoxlnsicaIMDyrX42CvUy75wxt4I=;A3KSnxE/9g+Q5OKaoDCfEA=="
 ---
 

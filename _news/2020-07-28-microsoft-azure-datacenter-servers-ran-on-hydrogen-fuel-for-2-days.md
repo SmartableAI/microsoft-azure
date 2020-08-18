@@ -8,7 +8,7 @@ ampWebUrl: "https://www.slashgear.com/microsoft-azure-datacenter-servers-ran-on-
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/microsoft-azure-datacenter-servers-ran-on-hydrogen-fuel-for-2-days-28630860/amp/"
 type: article
 quality: 97
-heat: 157
+heat: 177
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://zdnet2.cbsistatic.com/hub/i/2020/07/27/f015d565-bc8c-4d6b-8bcd-0da60cd82fbc/azurehydrogencells.jpg"
         width: 1151
         height: 675
+        isCached: true
+  - title: "Microsoft Azure Stack HCI"
+    excerpt: "Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here. Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here."
+    publishedDateTime: 2020-07-28T23:28:00Z
+    webUrl: "https://www.crn.com/2020/07/28/microsoft-azure-stack-hci/4rB6NDMQd1Vug6GrJ7ZOU/index.html"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/025b-0eff6361f68a-29cd08758548-1000/1azurestackportfolio.jpg"
+        width: 515
+        height: 305
         isCached: true
   - title: "Microsoft Azure Stack HCI"
     excerpt: "Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here. Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here."

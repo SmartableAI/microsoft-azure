@@ -56,15 +56,6 @@ related:
         width: 875
         height: 557
         isCached: true
-  - title: "Enable remote work faster with new Windows Virtual Desktop capabilities"
-    excerpt: "In the past few months, there has been a dramatic and rapid shift in the speed at which organizations of all sizes have enabled remote work amidst the global health crisis. Companies examining priorities and shifting resources with agility can help their employees stay connected from new locations and"
-    publishedDateTime: 2020-05-01T10:00:20Z
-    webUrl: "https://azure.microsoft.com/blog/enable-remote-work-faster-with-new-windows-virtual-desktop-capabilities/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 62
   - title: "Azure Resource Manager To Integrate with Windows Virtual Desktop"
     excerpt: "A so-called \"spring update\" of Windows Virtual Desktop (WVD) that effectively turns it into an Azure service is now in preview, Microsoft announced this week. Commercially launched back in September, WVD is a virtual desktop infrastructure service for ..."
     publishedDateTime: 2020-05-01T00:09:00Z
@@ -93,6 +84,15 @@ related:
         width: 1066
         height: 600
         isCached: true
+  - title: "Enable remote work faster with new Windows Virtual Desktop capabilities"
+    excerpt: "In the past few months, there has been a dramatic and rapid shift in the speed at which organizations of all sizes have enabled remote work amidst the global health crisis. Companies examining priorities and shifting resources with agility can help their employees stay connected from new locations and"
+    publishedDateTime: 2020-05-01T10:00:20Z
+    webUrl: "https://azure.microsoft.com/blog/enable-remote-work-faster-with-new-windows-virtual-desktop-capabilities/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 2
 
 secured: "Br+p6s2yFtEeeoGNi1b/MAMhx4AI3niA+kLEjOVtohpUHUbirIJWg6fberRnFXiDLlHabUuN2SB8i6np3wbtsRBu1gpmxR09x1mGYSOe/qMvquc04UP+4djm6IOq14MapUhRz/b0SzLYXbkgd65T30hK/p4hdDumJLNlp38krc5F9hLO9xkdTfVCCJW8mYOy7jVBVk4mc3faNJ5z3PwvMxHAuIf960ZwAkaAxl+eGLtWY5sFJYa6sxSOzTBCFqdqYP7a5JPaFUoovZGEyLClgT4exO22EsZHk2IbyyZYHryRqPPf7ph8PePSHU7sPRsarFzIdO4+A0DY5Lj7WeS/MmvpExWT7dkLzSh9JidGJs51nbLY7jUsmCjQRQ19h1hHDnIVKSy1RMqk6Kuvm5tB/RgQYpaudISrn4bUUv+6H5hUZZOXzD/qDysXXHLhgbHbBw6pPHBDqVsOh6v8ogwPjeQr8aKCQP0Cv2xZIEOmlZ8=;ykfUXR2J9Irk7Mc6pNmqPw=="
 ---

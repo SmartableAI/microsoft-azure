@@ -46,15 +46,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Enable remote work faster with new Windows Virtual Desktop capabilities"
-    excerpt: "In the past few months, there has been a dramatic and rapid shift in the speed at which organizations of all sizes have enabled remote work amidst the global health crisis. Companies examining priorities and shifting resources with agility can help their employees stay connected from new locations and"
-    publishedDateTime: 2020-05-01T10:00:20Z
-    webUrl: "https://azure.microsoft.com/blog/enable-remote-work-faster-with-new-windows-virtual-desktop-capabilities/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 62
   - title: "Azure Resource Manager To Integrate with Windows Virtual Desktop"
     excerpt: "A so-called \"spring update\" of Windows Virtual Desktop (WVD) that effectively turns it into an Azure service is now in preview, Microsoft announced this week. Commercially launched back in September, WVD is a virtual desktop infrastructure service for ..."
     publishedDateTime: 2020-05-01T00:09:00Z
@@ -97,6 +88,15 @@ related:
         width: 1066
         height: 600
         isCached: true
+  - title: "Enable remote work faster with new Windows Virtual Desktop capabilities"
+    excerpt: "In the past few months, there has been a dramatic and rapid shift in the speed at which organizations of all sizes have enabled remote work amidst the global health crisis. Companies examining priorities and shifting resources with agility can help their employees stay connected from new locations and"
+    publishedDateTime: 2020-05-01T10:00:20Z
+    webUrl: "https://azure.microsoft.com/blog/enable-remote-work-faster-with-new-windows-virtual-desktop-capabilities/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 2
 
 secured: "X35PTLCMwe3l5GAMPbxSDQRBcXNUQDT72Di66j5JKzdd2g6Ks3bFjzG6DfMTS5z+BJ7jzM1WXVaaqYumySyBK5CG9nlbzmYNcNzWexb45rhMohp6pwyJuxpjCjpXFBCLNbWSoS1CNsAm0xPmxg69TTGSAZOOXLvKgYc9pzW8ABL1vEs0LETNXQxy3JxTCC+FT5teWZE2xnfquVpamIKklLkdjQLeyXMJclf2v2WuEbTxRRbzroZfaZFJt1B6ACX+zoBLJxvTMkCC2eT2ZBhlxgiycAlHWfhcvsL6NCcyPyf/5yEg30L5Hx13dYp28XTQshAoi+gPmvoBfVjFOASV1c5PG3Fo0IZe0d8tM32yHS4OwhzqP09vpJL/E7qEET2Q6AjdTDe5n0Qk7lUW/rhKBjRKjt/4nIkVNj6AZ32TTT9XWxENO8SZ9aDc+kyG3rdU4FvFOe077MclFXaVVWeeFTDHHOjl9Iq+LT9d4q6gCds=;Ff6r1f96vLvB7QIcaJC0SA=="
 ---

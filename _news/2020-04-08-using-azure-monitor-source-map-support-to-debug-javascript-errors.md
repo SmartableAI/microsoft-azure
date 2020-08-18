@@ -5,8 +5,8 @@ excerpt: "Azure Monitor’s new source map support expands a growing list of too
 publishedDateTime: 2020-04-08T10:00:00Z
 webUrl: "https://azure.microsoft.com/blog/using-azure-monitor-source-map-support-to-debug-javascript-errors/"
 type: article
-quality: 99
-heat: 99
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Using Azure Monitor source map support to debug JavaScript errors"
 
-secured: "6af3YErZD5dW3lkeP4v4XwcZZSitBsE7xmt6L0YsI03AFqMpbAqSJAjP+ERsSzvi8AxOLfCRwDItyf+fFS74DAy37t0YwHV3aNFROx65s0dYjpl3E/RXUyfFlM2bNMW89Pl+Thl04+X4FpQMLv5HeDwDlnR2hY+Pl8YJgbUAoaEvFwFGpLr2eQ7/ALceEefkEvxt8vJfnFKWt3bFXuQp5qwzc+mWt52lrgRwNrGFXsZzic0OiccpGNxj6m4wu6c/pTJmTZk57LiDDcYpSrDQ9XwDv0hpqRsnHt560f208ptU7VSZfj9HIAiaTj4MYuhgFqJ0OvM67KdpObP8HufX9A==;qnCxPTFelLRb7EeoFSoIog=="
+secured: "B2aSSjnaiIcCV1O/eHx+nxFPrnomPcCDfKXt/ozUCosf1l4BVlnmltLDgulQQ1hE7Uz9ex6mEcQ+ANNqvlk7yS9OMg9EM/qc8Kbt7P+trwyvlK3Y89wPmjBJLivd9c74+wcWAhVY5o0y4ewjr8lNZ2ittasm7QYB9OgSGz/vgoz3+zkhcx9V0O1hgmKG+P6E3MJMJJWropy+clXmPtlTIbGeA82DM0J/gMg7XCrtkEevjLgPerHgpLSmzIavrjFSp+PP9H742aa5Db3e1c1Nd5Tg7QoK4HhNK6ylRJejrPpE4WPNmpuuVuy47HGRy6h0f5stms5XXSzwLg05vbZu9e9Us1j1crxPhXarx6iiY7Q=;50VCDIip61EN4P9a3CNaaA=="
 ---
 

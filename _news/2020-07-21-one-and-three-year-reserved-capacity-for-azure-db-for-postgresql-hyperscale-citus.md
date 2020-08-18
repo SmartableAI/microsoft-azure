@@ -5,9 +5,9 @@ excerpt: "Azure Database for PostgreSQL-Hyperscale (Citus) reserved capacity is
 publishedDateTime: 2020-07-21T21:17:07Z
 webUrl: "https://azure.microsoft.com/en-us/updates/one-and-three-year-reserved-capacity-for-azure-database-for-postgresqhyperscale-citus/"
 type: article
-quality: 70
-heat: 70
-published: true
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: Microsoft

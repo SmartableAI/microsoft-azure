@@ -5,9 +5,9 @@ excerpt: "Cloud computing has opened new paradigms for enterprises to reach high
 publishedDateTime: 2019-11-06T06:30:18Z
 webUrl: "https://azure.microsoft.com/blog/serverless-for-the-enterprise-with-microsoft-azure/"
 type: article
-quality: 99
-heat: 119
-published: true
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: Microsoft
@@ -37,7 +37,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 79
+    quality: 19
 
 secured: "xVWnurOkBFAvArRwBP+Z6sL+1PiMzUgEnRrhZpdSVlfk+BwmXec3RlC6H54BLDdkd4lyZmwyGVDjlNRmF9ES3vz29ck1xJxqbdHvJWV/JzMwhYytVfikwit5EGMbiBbLM8OvTjPRc4Bt6sUME+szBbf/opQd7fn1oEeXTpo6GRA8WFzkNmLGsoNw0MfwsrJCFXMoL1ReZ31s/hxKmWnZK6V13ighVayBOIqk+2NBzciH3SZemA9C67bs/Gl/fqG7dNTUDxjll79lOxt+YKMZlkQbjWQmsJy1VVopVx9yPGvAAHkB9IKq+6AL3HCI5YQ3Rqdwld5qPLhvMn146VoEnw==;h6YbY/SJDUf8eUjcwS/bAQ=="
 ---

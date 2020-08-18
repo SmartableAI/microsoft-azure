@@ -5,8 +5,8 @@ excerpt: "Neural Text to Speech is expanding language support, with 15 new natur
 publishedDateTime: 2020-07-08T16:00:19Z
 webUrl: "https://azure.microsoft.com/en-us/updates/neural-text-to-speech-expands-to-new-languages/"
 type: article
-quality: 62
-heat: 62
+quality: 2
+heat: 2
 published: false
 
 provider:

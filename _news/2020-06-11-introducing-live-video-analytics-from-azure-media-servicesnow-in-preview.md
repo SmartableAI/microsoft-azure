@@ -5,8 +5,8 @@ excerpt: "Azure Media Services is pleased to announce the preview of a new platf
 publishedDateTime: 2020-06-11T11:30:23Z
 webUrl: "https://azure.microsoft.com/blog/introducing-live-video-analytics-on-iot-edge-now-in-preview/"
 type: article
-quality: 98
-heat: 138
+quality: 88
+heat: 128
 published: true
 
 provider:
@@ -37,7 +37,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 71
+    quality: 11
   - title: "Live Video Analytics now in public preview"
     excerpt: "Live Video Analytics is a platform to capture, record, and analyze live video and publish the results (video and/or video analytics), enabling intelligent video applications."
     publishedDateTime: 2020-06-11T20:00:11Z
@@ -46,8 +46,8 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 62
+    quality: 2
 
-secured: "WXVkz7W6tQt6enYK2YJBR/YTzWJhTdNfKbNNB+YqlcBvW8vQ8ivTaA2yD11UpP54ZAHCo8x/hlTAlTEfJ7M+TOkTsPtMeQICH0ldFRvClHkDai/oy2yRXNfS97LsPKPsVsQZAdS7X5Q4QGHi6HHIhSPhF+GiQ1xrWA/BTPQr4YrJiJvc8nCnFl55mPacnWYanvy9LNyhlKTZGOAJqFWjmQiaT0Y2hpP/MYAxLFEBD7xmudTrBulLczvf14RyWkpt4aGT+2/8wKFbtBI6H/NOsU9cA+wuubdJQ683mBCHd5n9KoFigjZEMsqJIVaVEZJLYorksbY/NMZWFhuh+kRqaw==;RdoMKNP0RLFfxv7MvVSHxA=="
+secured: "ubnYFz919X1mYLPgdX0ZLLHNahYj9bio5Z9IOR5u5SHG1tJlENEwn7SKJnBlbYmySyP+hiuWF81IhmtLMBDcsUrL1Gc8ufThdXRv6mm5QW1QwiNB0UM/PVFawc48OtA+PzijMMcrPk2s+PNXUc48dLzZvjxk46G8FC0HT7H/oROApSxwSpujKwqkuSAU3AOEyRAF1IwwBFSDnxILJLP1VaUsJEpT99AqxIsmLaP26317YPe1SpJ05SnwoVrJNVLRH3qPfO7/XyuH4KduCJ939sVkuG/46GL2ut+wIaWRYx62AREGiK2tQlQ7Xj3O3/dz1HCCXdT40exycRHkB53O5vTO8f5YhIKVekeFdMq0zcQ=;nbHvHUesOXtEZZNMniCl6g=="
 ---
 

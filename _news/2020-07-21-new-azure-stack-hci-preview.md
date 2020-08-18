@@ -5,7 +5,7 @@ excerpt: "Integrate hyperconverged infrastructure with Azure and hybrid services
 publishedDateTime: 2020-07-21T17:35:20Z
 webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-stack-hci-preview/"
 type: article
-quality: 77
+quality: 17
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 94
+    quality: 84
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/3f16ac9a-64ac-455c-b96e-4a3570f26025.png"
         width: 640

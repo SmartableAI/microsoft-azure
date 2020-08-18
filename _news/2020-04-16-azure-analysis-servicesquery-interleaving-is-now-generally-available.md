@@ -5,7 +5,7 @@ excerpt: ""
 publishedDateTime: 2020-04-16T23:00:21Z
 webUrl: "https://azure.microsoft.com/en-us/updates/announcing-general-availability-ga-of-query-interleaving-for-azure-analysis-services/"
 type: article
-quality: 77
+quality: 17
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 97
+    quality: 37
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/d0ede978-fc61-4ae5-bcd7-dac3ef5c3f9a.jpg"
         width: 752

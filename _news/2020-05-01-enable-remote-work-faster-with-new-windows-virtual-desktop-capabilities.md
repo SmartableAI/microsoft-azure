@@ -5,7 +5,7 @@ excerpt: "In the past few months, there has been a dramatic and rapid shift in t
 publishedDateTime: 2020-05-01T10:00:20Z
 webUrl: "https://azure.microsoft.com/blog/enable-remote-work-faster-with-new-windows-virtual-desktop-capabilities/"
 type: article
-quality: 62
+quality: 2
 heat: -1
 published: false
 

@@ -5,8 +5,8 @@ excerpt: "We’re expanding the Microsoft Azure Stack Edge with NVIDIA T4 Tensor
 publishedDateTime: 2020-03-24T14:00:25Z
 webUrl: "https://azure.microsoft.com/blog/microsoft-is-expanding-the-azure-stack-edge-with-nvidia-t4-gpu-preview/"
 type: article
-quality: 101
-heat: 141
+quality: 91
+heat: 131
 published: true
 
 provider:
@@ -38,7 +38,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 99
+    quality: 89
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/9657b8e1-a355-40b6-ae91-6285753322d9.png"
         width: 1187
@@ -65,6 +65,6 @@ related:
         height: 1708
         isCached: true
 
-secured: "K1EhWmXf1Miqsj8SqAfE576vun4PQgGNyxSgR3xBs8km5QTwNwaVrq20wWZTps7ZwqlKNPdjuxT15UKRmR5RD/fj7Lt6GE2uKdBQ7AhNtiJ9YG/Y8eSOh1CBwP6CA7NGZrOBrbuEy06exItXjwy5zCJlGVdVV8LGQNoHzaWul2xWlQY4fBT6F0U2b9NZFAPrzcIaLRQis0XtZnCb9o15JnVUB8+sUsfhyKI/9BUGMb8HYHbDE81tP9Y2nJ+bG35LJkIMSyxAJtiUjixlS7cADGzo1hBNDijgFXTwyNYAis/aL68z66KXPWwuoIkZyN3+h/rgxh8D9lBsRSl9WyuCbA==;rDle3pHkai0f6oS0YUbk1w=="
+secured: "3AOPqmxNSB3aTLdCHWr6l+gagMto/o2fNxJhrmluWjS4rN2UZljNDM1e0vwkbeJXyb4/4Dq6VMluZ7Qs6MOOt0MyvOnGYspk71dCidh2pwQ6rL1LuSxpVfrB9USwOuKscoBjeOMhaLe4gAwysX1avb4poFAi7aqzZZHUONotqG1Ai/BtFlvvxWN4XXXTeQxEN7UH0gDnUtooK7Ap2851iAg/ctCdSLdbmOTK5aLfaEXXgzCyXey4mmHZW3NvrMZhHy1phn5pI1MwxtzjkiRPUp6bUkINOFTxoGdbNRuMhGhutIRti5UaZgPNeqlKuTqUN5H+/MsK2oxb3GZOjjOqLT6j5xh7JLwjr3lB4UMj+o0=;xStIC9IqBrmI9ivx81Uupg=="
 ---
 

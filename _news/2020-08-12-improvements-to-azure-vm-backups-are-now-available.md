@@ -5,8 +5,8 @@ excerpt: "Azure Backup now supports restoring unmanaged VMs/Disks as Managed Dis
 publishedDateTime: 2020-08-12T18:00:30Z
 webUrl: "https://azure.microsoft.com/en-us/updates/improvements-to-azure-vm-backups-are-now-available-2/"
 type: article
-quality: 97
-heat: 98
+quality: 87
+heat: 128
 published: true
 
 provider:
@@ -26,6 +26,26 @@ images:
     height: 467
     isCached: true
 
-secured: "6rofotN0MBFE/2eCvwOeVrU+nwmjOdvSmr23miX4kmBpu8W92owPDBzkf4827KU0SpJQ8LHGxB97ctsxIRDhT1u6p68TI/4DcHHL+maIqLk52F0xn650eu+ht1oULZwc3tro5TFLlqOoXQmWOMJIfM/T+vBEGJFp7RMfZWiCMX8J0J442Ub/XEaWtibpbVkh2dnpyOEjYfaB8RI80/9ZXrsIUgjLe504X2Dp0khuO86SJQkuKqmB35NQXOVzuEQW8YT5oTmSYWMrtaFt/O0hXDZbp5Q9oHn2xLw2vEhkyQS59f0572JfXpj69xer4DLpExrsvZLkKAIBwcOTv/gbZg==;Ct+ltvURr3DaWv9xhLkfEQ=="
+related:
+  - title: "Audit Logs of Azure Monitor logs queries now available"
+    excerpt: "The Azure Monitor Logs service allows you to collect telemetry of all types across their entire infrastructure and query this telemetry to collect insights. We are announcing a new capability to collect audit logs about query execution."
+    publishedDateTime: 2020-08-05T16:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/audit-logs-of-azure-monitor-logs-queries-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure Advisor Quick Fix is now available"
+    excerpt: "Remediate Advisor recommendations at scale more quickly and easily using Advisors new Quick Fix feature. "
+    publishedDateTime: 2020-08-05T16:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-advisor-quick-fix-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+
+secured: "eN/qmF2hRygle0SohYP0Wv61HI1u65CP5s+3l+g7Adc7QLYBSaSB+H7GUSc4rmm4O1yeMA0fto1iclpcNGIdfThLhlMlnvs6eNq/rxX0eBYLzXmwBfbnVL5xE/3Ejs2Vt18NrkH6WsMfWMLHnix/lI1YHYaqBiOJ4YfJT8OObukBPg3Nnyy023SCpzJJ9ngDy7kXQBVS+8otO7ftI6H+/uJhy+RbA0WxdApPwgStutVFCDAg0J9lTOXhMtkBUiSZE8gV97Yv0IcGumF/uZHIck5CKSFj7uyHPvz6xBj1DDij+YdLSxcGD0FsvV/S6cCeKGAYDEhRJlu8DnB2Ha4YQNBSHxavpkqu14pJeodrhSM=;pIUZ8yURZ8gqb8YBHUtrHw=="
 ---
 

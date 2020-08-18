@@ -5,9 +5,9 @@ excerpt: "We are pleased to share that Azure is the first major US cloud provide
 publishedDateTime: 2020-01-13T11:00:04Z
 webUrl: "https://azure.microsoft.com/blog/azure-is-now-certified-for-the-iso-iec-27701-privacy-standard/"
 type: article
-quality: 79
-heat: 79
-published: true
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Microsoft

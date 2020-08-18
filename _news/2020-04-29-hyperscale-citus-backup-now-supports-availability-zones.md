@@ -5,8 +5,8 @@ excerpt: ""
 publishedDateTime: 2020-04-29T16:00:03Z
 webUrl: "https://azure.microsoft.com/en-us/updates/hyperscale-citus-backup-now-supports-availability-zones/"
 type: article
-quality: 62
-heat: 62
+quality: 2
+heat: 2
 published: false
 
 provider:

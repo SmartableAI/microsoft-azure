@@ -5,9 +5,9 @@ excerpt: ""
 publishedDateTime: 2020-04-15T16:00:49Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-database-hyperscale-change-tracking-support-now-available/"
 type: article
-quality: 77
-heat: 77
-published: true
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Microsoft

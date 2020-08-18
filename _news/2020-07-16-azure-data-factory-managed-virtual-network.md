@@ -5,8 +5,8 @@ excerpt: "When you create an Azure Integration Runtime (IR) within Azure Data Fa
 publishedDateTime: 2020-07-16T13:00:41Z
 webUrl: "https://azure.microsoft.com/blog/azure-data-factory-managed-virtual-network/"
 type: article
-quality: 97
-heat: 117
+quality: 87
+heat: 107
 published: true
 
 provider:
@@ -35,8 +35,8 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 62
+    quality: 52
 
-secured: "4GMMXx4Ynl5gGW73itS/D97S7LIEabv0T429P3L9FMngsGFJUa7N7ZkB4A87O75wj9ciuJmSms658QfVMfPsRs92+chxyz564ulWqjN1F156boBloh70W8RUzptpImiBc4uy7F+G2/82V9DE8xik+OsbUGst1p7eu/mK3aYWRlmS6o4EsXvMYlvj0XkVg05PUr4P0Y7SEnyM2pBMdqkgiab9SBFWd1yewI4FnXhp+Al9tu1KexZOnonSl2k78aeu5bAWspjexCgqqBuibwlMGctvbkNStOLn07GNBsO7aAUvj/vpm0vYoaFVhl4+3pp3Hk2q2sltCAvMLYgNrja0EA==;zFIcY8QhbJvAKWdMN5mmzA=="
+secured: "uvFSzqSChpxRWb0DfHLpSSF1Wn0Ypv+d+hm6DetD54UtHlJtnCcAkicMnt6SoJ/JJTZtGNj6oGQjjGPp7yqhztXCfhZYPtGSE/1MXe6RQpgVJinfXV+7l/CZPa1kxkB9qHWyVQvPVxXtblD8Uo+JoK/AYNx6TkVlzkZo5hBc+QlzPe8qwVItkqg6Xsq6VUL2HL/zO6w8F6TXTO/ivlJ6CgaDMeE6KqOj+nJHNT4HlTI1oJ0bpNlgJdTLs7hoYCFyRWE+9trxin0bxLQBeIKBBUWYvM5DwOTd+1JetnabJitMGYJN0sZhrLAUQhgjpW4yGicPnGnSQ/MAx9jx9FfgHFXlivHVSjrvIzutvMwrLiA=;RXaFK0llNizch5J/anstmw=="
 ---
 

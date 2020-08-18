@@ -5,9 +5,9 @@ excerpt: "Azure provides customers a simple and intuitive way to declaratively p
 publishedDateTime: 2020-06-22T08:00:20Z
 webUrl: "https://azure.microsoft.com/blog/simplifying-declarative-deployments-in-azure/"
 type: article
-quality: 97
-heat: 97
-published: true
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Microsoft

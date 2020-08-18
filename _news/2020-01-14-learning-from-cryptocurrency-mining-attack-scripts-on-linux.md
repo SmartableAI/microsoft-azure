@@ -5,8 +5,8 @@ excerpt: "Cryptocurrency mining attacks continue to represent a threat to many o
 publishedDateTime: 2020-01-14T10:00:02Z
 webUrl: "https://azure.microsoft.com/blog/learning-from-cryptocurrency-mining-attack-scripts-on-linux/"
 type: article
-quality: 66
-heat: 66
+quality: 6
+heat: 6
 published: false
 
 provider:

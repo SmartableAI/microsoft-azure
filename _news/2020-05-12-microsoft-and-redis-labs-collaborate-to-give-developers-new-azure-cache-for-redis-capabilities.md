@@ -5,7 +5,7 @@ excerpt: "Now more than ever, enterprises must deliver their applications with s
 publishedDateTime: 2020-05-12T06:00:09Z
 webUrl: "https://azure.microsoft.com/blog/microsoft-and-redis-labs-collaborate-to-give-developers-new-azure-cache-for-redis-capabilities/"
 type: article
-quality: 65
+quality: 5
 heat: -1
 published: false
 

@@ -5,7 +5,7 @@ excerpt: "In November 2019, we announced the preview of Azure Arc, a set of tech
 publishedDateTime: 2020-05-20T08:30:28Z
 webUrl: "https://azure.microsoft.com/blog/azure-arc-enabled-kubernetes-preview-and-new-ecosystem-partners/"
 type: article
-quality: 97
+quality: 37
 heat: -1
 published: false
 
@@ -36,7 +36,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 99
+    quality: 89
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c4c6ac0f-ea43-458e-a4e7-cb971720a491.jpg"
         width: 1024
@@ -50,7 +50,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 76
+    quality: 16
   - title: "Netreo Announces Release of Microsoft Azure Kubernetes Service (AKS) Monitoring and Management Functionality"
     excerpt: "Netreo, the award-winning platform for IT infrastructure monitoring and management leveraging AIOps, today announced the release of its Microsoft Azure Kubernetes Service (AKS) monitoring and management functionality."
     publishedDateTime: 2020-07-23T18:00:00Z

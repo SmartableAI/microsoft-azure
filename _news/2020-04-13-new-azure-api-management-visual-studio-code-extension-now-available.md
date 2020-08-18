@@ -5,7 +5,7 @@ excerpt: ""
 publishedDateTime: 2020-04-13T16:00:06Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-vs-code-extension-update-april-2020/"
 type: article
-quality: 77
+quality: 17
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 101
+    quality: 91
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8fd83624-c140-4bcc-9bbb-b48b7cfd44cf.gif"
         width: 600
@@ -43,7 +43,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Databases extension for Visual Studio Code"
     excerpt: ""
     publishedDateTime: 2020-05-28T16:00:15Z
@@ -52,7 +52,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
 
 secured: "GI3eli/D7ognbSHy/dm/rVEwQJajjZeXVlEWc9D40kO5g6trBgdp7UGwCoOMWe3Uf5LYcTkQdlMjPND3f2nkYTe7jHLpqtzdNjO+gPR91ZNTyE1klvLxHdSE3fSskLNH8Q1+dOQiLgwAqhkp0fwfJ9cd3xqqQCJQO0Vv1dVTdVege2ICMq6LyUVUePwYouWBudB0BosKve9ITp+iQKK/AmThhVCsUINo3QLRQgf4ysULO73T4BXycgEP6gqQcrISJYXQqDh3k+jaFxrN2G3i88MzH47yEKdls999CKGe2QiJkYV8uyOWl/mO+at+jM6bQgEsdCDuuCutJuHmoVVX+w==;3h6qPBx1yRaWW5Us8vcNAg=="
 ---

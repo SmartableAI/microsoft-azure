@@ -5,9 +5,9 @@ excerpt: "Skytap on Azure allows businesses to innovate with the cloud faster, w
 publishedDateTime: 2020-02-27T08:00:00Z
 webUrl: "https://azure.microsoft.com/blog/accelerate-your-cloud-strategy-with-skytap-on-azure/"
 type: article
-quality: 97
-heat: 97
-published: true
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Microsoft

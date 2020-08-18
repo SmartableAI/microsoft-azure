@@ -65,15 +65,20 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Microsoft Graph Service: Retiring TLS 1.0 and 1.1 and preparing for TLS 1.2 in US Gov Cloud "
-    excerpt: "Update your Microsoft Graph clients in US Gov Cloud (https://graph.microsoft.us & https://dod-graph.microsoft.us) to TLS 1.2 by 8/5/2020 to ensure that you maintain uninterrupted access to Microsoft Graph Service."
-    publishedDateTime: 2020-07-14T21:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-graphservice-tls12-enforcement/"
+  - title: "New Barracuda SD-WAN Service Built Natively on Microsoft Azure"
+    excerpt: "WAN offering that runs inside Microsoft Azure virtual WAN hubs. With Barracuda CloudGen WAN, companies and service providers can create a secure access service edge (SASE)  in public cloud. Hubs can interconnect through the Microsoft Global Network."
+    publishedDateTime: 2020-07-16T19:33:00Z
+    webUrl: "https://www.channelpartnersonline.com/2020/07/16/new-barracuda-sd-wan-service-built-natively-on-microsoft-azure/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 51
+      name: Channel Partners
+      domain: channelpartnersonline.com
+    quality: 37
+    images:
+      - url: "https://www.channelpartnersonline.com/files/2019/11/CPaaS-770x285.jpg"
+        width: 770
+        height: 285
+        isCached: true
   - title: "Barracuda has launched a new SD-WAN service built on Microsoft Azure"
     excerpt: "Barracuda Networks Inc. has announced a new secure SD-WAN service built natively on Microsoft Azure. The new Barracuda CloudGen WAN service is the first SD-WAN solution that runs inside Azure Virtual WAN Hubs. The service allows the WAN Hubs to be ..."
     publishedDateTime: 2020-07-20T23:39:00Z
@@ -152,6 +157,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 17
+  - title: "Microsoft Graph Service: Retiring TLS 1.0 and 1.1 and preparing for TLS 1.2 in US Gov Cloud "
+    excerpt: "Update your Microsoft Graph clients in US Gov Cloud (https://graph.microsoft.us & https://dod-graph.microsoft.us) to TLS 1.2 by 8/5/2020 to ensure that you maintain uninterrupted access to Microsoft Graph Service."
+    publishedDateTime: 2020-07-14T21:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-graphservice-tls12-enforcement/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 0
 
 secured: "Q9dynT6nYHQ8jG1a527M3uwLlXnFXzy1HkKln+kTxSaxhKBJH173hN+80E2Iv4NNzBZFFI7reTkbaIAzR+6FD1cV1N3nHSg9YtfEZhUoVxjK1yKNJ6motaaHwZjIB03Jb73sdXuXpxbsmGnTavS12kb1ADvtmDWEJj7bzJ5kjfRAnHYxFmuzuQhcxkUeO8l6F2td80KBTtakAYVjCVfl4vY5PPpa0iH0Tw0BAtJ49dbM2niWZv8kMGOrXZSlb4IJeUpHogFMnMlhvkssOxncIBcWcEZ78gb53JWA7RlaeSv1pWWp4Yb6+BaHmUSPEek03usPI0MJP8m5XuEfnmvpGDrD+87mCTM2IiM7C69ueOIxJifhNmCVM4RKgmkRhEZ2D+cyQ84nt2i1RwqF2KNhllMyML66+br/hO1NxS2lUmat6+Xo42gdarK0+uaKZ9bwAxtrkDboh/1Ax7qTGfO3YnKjzQfTYTrCRxEjgp9tGpMaBDDzQEP16UyTGN8JiHLDM0IgEIFqkLpTWhEu7vdacg==;n8ZBqXHBFq8wjsI3+bS8OQ=="
 ---

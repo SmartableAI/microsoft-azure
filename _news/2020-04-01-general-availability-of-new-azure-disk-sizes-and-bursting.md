@@ -5,7 +5,7 @@ excerpt: "Today marks the general availability of new Azure disk sizes, includin
 publishedDateTime: 2020-04-01T09:00:06Z
 webUrl: "https://azure.microsoft.com/blog/general-availability-of-new-azure-disk-sizes-and-bursting/"
 type: article
-quality: 79
+quality: 19
 heat: -1
 published: false
 
@@ -30,7 +30,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 99
+    quality: 39
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/4b73c068-85c5-42f8-a604-28d872e13b59.png"
         width: 1015

@@ -5,8 +5,8 @@ excerpt: "Azure Arc is a preview service that enables users to create and attach
 publishedDateTime: 2020-07-28T11:00:16Z
 webUrl: "https://azure.microsoft.com/blog/monitoring-azure-arc-enabled-kubernetes-and-servers/"
 type: article
-quality: 99
-heat: 159
+quality: 89
+heat: 149
 published: true
 
 provider:
@@ -36,7 +36,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 97
+    quality: 37
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2547e7a5-284b-4f2d-95b9-54e5200b3931.png"
         width: 1024
@@ -50,7 +50,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 76
+    quality: 16
   - title: "Netreo Announces Release of Microsoft Azure Kubernetes Service (AKS) Monitoring and Management Functionality"
     excerpt: "Netreo, the award-winning platform for IT infrastructure monitoring and management leveraging AIOps, today announced the release of its Microsoft Azure Kubernetes Service (AKS) monitoring and management functionality."
     publishedDateTime: 2020-07-23T18:00:00Z
@@ -61,6 +61,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "n7ToEzowN0RCZ19Aqj622bniDYsHneOzOApTgh4w3GhneQuQMY3cu2MKXqoUsMhln+BjirGgRRCJuYZXC94mt8llhOva6OXKw55yT6gVExMQWl3gy+vMsZgKZCJlHS6DXM1GnnhDeiHRm9x+9FxetAWtZ3J6QN2FIfBZuD4yNn2gh5x9z+GUyuELzBsulHvrPmA8J+t7RHM+Uii+JlBywaUG4E/n2FzKPnnwcGuPJBLx3RKf14TBEEZoVhVXRpHRNXWDaBn4GmlAM59+Drb5YWmoKYygMrPsQn+dqhX/2fU7RaRLzd56JLqn1QtOWYbq/V6Ps0Z9pRJP1THQL6/5Bw==;uMRdI2pKdO0jP6LbbbN9ow=="
+secured: "Gp4o8xraCEwBs1HpcL+a5/OvYzEbiLqjVmeCtNt6jn/7dfsmVXN61zV8b31q1Bzra+glCiYuvaShfJpUNR0MXSEH9C+ZZs5ITxkEYtWAYALjr1nEvkI1WMYI9O9IlW6fe2ELEGkpkWzF9A/zgLTVgfFnd7/Pz49+ZVQhkMNro8m86+jgSHeTIXGH6NbtuMhEobRhUoNFDWpPAb8+TCZD16V6MzBrzhj924xRosSJLZExlffdy3KGJl9Ac243sxf7WRIJN8Ptrx7YS9DZey/K5pQBROOR/esYCpSnZM/9hgNT7IsClr2H8oMhwf1JF2/sR7hXIHcpvPGokEaeZvI4BLLo2P/w3/ydB0Z0wyZicQY=;ssS5Zd4KfY84mPIrvsUvyg=="
 ---
 

@@ -5,7 +5,7 @@ excerpt: "In order to simplify and streamline Azure Monitor Logs, we're moving a
 publishedDateTime: 2020-07-30T16:00:01Z
 webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-quick-start-content-is-moving-to-the-overview-page/"
 type: article
-quality: 93
+quality: 33
 heat: -1
 published: false
 
@@ -35,7 +35,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 94
+    quality: 34
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/5693d9d5-fd5f-4037-8747-aca13db4934b.png"
         width: 925

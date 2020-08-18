@@ -24,33 +24,117 @@ images:
     title: "Gartner: Threats and opportunities facing cloud service providers during COVID-19"
 
 related:
-  - title: "Microsoft Services is now a Kubernetes Certified Service Provider"
-    excerpt: "Modern applications are increasingly built using containers, which are microservices packaged with their dependencies and configurations. For this reason, many companies are either containerizing their existing applications or creating new complex applications that are composed of multiple containers.\r\n\r\nAs"
-    publishedDateTime: 2020-04-28T11:00:41Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-services-is-now-a-kubernetes-certified-service-provider/"
+  - title: "Global Cloud Testing Market Emerging Trends And Future Opportunities Till 2023"
+    excerpt: "Global Cloud Testing Market Research Report, by Component (Services & Platform), by Deployment (Private, Public,"
+    publishedDateTime: 2020-04-27T10:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-cloud-testing-market-emerging-trends-and-future-opportunities-till-2023-2020-04-27"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 82
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/087e96ea-eb9f-4dcb-9d8b-22fa817b94bc.png"
-        width: 1024
-        height: 586
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "TimeXtender Discovery Hub is now Microsoft Azure certified"
-    excerpt: "With this certification, Discovery Hub is now a trusted application that is available in the Microsoft Azure Marketplace. The Azure Marketplace is an extensive catalog of products from independent ..."
-    publishedDateTime: 2020-04-30T00:00:00Z
-    webUrl: "https://sdtimes.com/msft/timextender-discovery-hub-is-now-microsoft-azure-certified/"
+  - title: "Cloud Network Infrastructure Market : Global Business Growth, Size and share 2018-2023"
+    excerpt: "Cloud Network Infrastructure Market: By Component (Hardware, Services), Deployment (Public, Private and Hybrid),"
+    publishedDateTime: 2020-05-03T15:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-network-infrastructure-market-global-business-growth-size-and-share-2018-2023-2020-05-03"
     type: article
     provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 77
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
-      - url: "https://sdtimes.com/images/sd-premium.png"
-        width: 628
-        height: 246
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cloud Testing Market Report Region Market Size, Outlook, Trends,Share & Forecast 2018-2023"
+    excerpt: "Global Cloud Testing Market Research Report, by Component (Services & Platform), by Deployment (Private, Public,"
+    publishedDateTime: 2020-04-27T10:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-testing-market-report-region-market-size-outlook-trendsshare-forecast-2018-2023-2020-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cloud Migration Services Market Global Trends, market Share, Growth, Opportunity 2017-2023"
+    excerpt: "The cloud migration services is basically a movement of infrastructure, data, business processes, and applications to the cloud. The increasing demand for cloud services among IT"
+    publishedDateTime: 2020-05-04T00:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-migration-services-market-global-trends-market-share-growth-opportunity-2017-2023-2020-05-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cloud Manufacturing Market Size Growth Analysis, Outlook by - Trends and Forecast to 2019-2024"
+    excerpt: "Global Cloud Manufacturing Market Research Report: by Component (Hardware, Software and Services), by Deployment"
+    publishedDateTime: 2020-05-04T02:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-manufacturing-market-size-growth-analysis-outlook-by---trends-and-forecast-to-2019-2024-2020-05-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cloud Backup Market Analysis, Evolving Opportunities Studied for the Period Until 2025 +CAGR of 23.8%"
+    excerpt: "Global Cloud Backup Market was valued at USD 1.7 Billion in the year 2017. Global Cloud Backup Market is further"
+    publishedDateTime: 2020-04-28T11:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-backup-market-analysis-evolving-opportunities-studied-for-the-period-until-2025-cagr-of-238-2020-04-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Cloud Gaming Market 2020 (Edition:2020) Outstanding Growth - NVIDIA Corporation, Amazon Web Services Inc and Microsoft Corporation"
+    excerpt: "Global Cloud Gaming Market (Revenue and Volume), Type, Application, End-User, and Regional Analysis, Import-Export Analysis, Industry Analysis, Premium Insights, Intellectual Property Analysis, Market Attractiveness,"
+    publishedDateTime: 2020-04-29T09:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-cloud-gaming-market-2020-edition2020-outstanding-growth---nvidia-corporation-amazon-web-services-inc-and-microsoft-corporation-2020-04-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Public Cloud Application Services Market 2020 Emerging Trend, Top Companies, Industry Demand, Business Review and Regional Analysis by 2025"
+    excerpt: "A market study title Global Public Cloud Application Services Market Growth (Status and Outlook) 2020-2025 added"
+    publishedDateTime: 2020-04-26T21:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-public-cloud-application-services-market-2020-emerging-trend-top-companies-industry-demand-business-review-and-regional-analysis-by-2025-2020-04-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 24
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "n6O/nqu+QVhG/E2vxZ/Eke7LcEJKVvZ94n7qZhe9KgvjHkhRzOaUzBAMTKkDIMQqLA1q1dh9w4rF57NTGZyPL9PL8WuMJW2QBHu5uuJFW72Gf4oXE3O2k/M6KXZf4aWf9HlxVr22/cnw+Wio3ePmTGa65eTvbNEA2jzXE+PbJDemR8mC4IBZmQTerxzjGg8hi6xOaRHZmly7cI/PQfCKCwUgRRIqh6yNSF+92Rm+X9gv1P5+qPBWfmlE5oI4PAY69sFqAuA3e0SiuXOCtHP2cODQ3RIkcxzprvA6OlsBmZFdC88qN6felsFawck/KSTM;FklrgKuhqZ0BADCV+Rb6Kw=="

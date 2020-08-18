@@ -5,8 +5,8 @@ excerpt: "Many companies are reaching for net zero emissions, but we’re taking
 publishedDateTime: 2020-07-27T08:00:01Z
 webUrl: "https://azure.microsoft.com/blog/aiming-for-more-than-just-net-zero/"
 type: article
-quality: 84
-heat: 84
+quality: 74
+heat: 74
 published: true
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 768
     isCached: true
 
-secured: "aEk/spFYLz6WbcLxPa/bNKv43AgUB64R048EnN6ttWBaZuimL2Un2Tfc2/yiGFvgty0+B8BijYPLx3Xx36Ankig+NWA68j0h/QErkY5mbKiQS1hoo3nGTP4fyMCSsTSDqMRpAqBPvY/1Ew9JRuJTrDNEA7Ofdd1FR5w4dKQcCHwFx/txLHF4ncc73GVxqEJetCLH0iptsatOc8HdWqNSsDTCNQUDEWOlC5ppx2bwNcjZvqKW6+/7/IkPVfpTkflh6Ibs8yW9P5ehBhpkX9EMEA2s7nq/gtNObrBZqSzZcjWHDxUjEpa02Did01hllnytNh9djEPAePAjC2AwZJPNJw==;jUw0vxfpP0H5j9GkiEhyUg=="
+secured: "l5QI81wqyfTa9KfxPG+oOjyr6VGNIUPGRk6VPBkjkpRKqMslC4rHnNj7WLGODiMVFMFMU4iS+5kFglMz27MgQzug2gS7naX9fGVC9kUOeDyZE2aKe1ftLA4nIVahzE9ARa7Vt9pFOQ565i3LilDV1WdPZZaUtCWJzMbzq+S4i0AJgYzpKbZU/oZeVpVBEnLcOcn1B8rNCBr062FEi2JP/2YAdC034WlLwMduVrINdSY5ucRkGwzhHIpoeS1snflK+gfPYQGpw9Kwbeulwr2TAa/UZt27gU9E6RbPyKpeSCst/D30XNc1LYoG5jCB0G/uDl4iz+5RHk396OZNEgJX9j12rwFgZ/NPekFr3P8E2us=;1odJNbN9Gbyvi4yw6lKVCg=="
 ---
 

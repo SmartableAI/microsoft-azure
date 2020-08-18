@@ -5,8 +5,8 @@ excerpt: "We are excited to announce the preview of Azure Files Active Directory
 publishedDateTime: 2020-02-24T08:00:14Z
 webUrl: "https://azure.microsoft.com/blog/preview-of-active-directory-for-authentication-on-azure-file/"
 type: article
-quality: 81
-heat: 101
+quality: 71
+heat: 91
 published: true
 
 provider:
@@ -31,8 +31,8 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 65
+    quality: 5
 
-secured: "wbCNhjpEybmG/xWrx38uS+DKXx1YfnUzOggEB7eJa7fmVxFwlwJxu34c17rLPzn+/g8oH/C11biOnB/PYZvNQC5EL1I9R3tWSobBR2zFzNwBKemsKeoMouL5vIBS/gtyn0Vig/OqV47O9Enoyz0xXIRN30UdGU4YycGdnrePt26/YKahiyX3xByD9OeLTgafXd8M4bMur3QX4AXbU7xBW6tEiytyWCgPX/mEmVYHC/HvYAuR2mwQzgfwNwUw8AGm7P+ac8Tf9VLNpkdy0YGfrijujSbuNHMnA1u7LUGCY4MirN1YIBJ5A/DkQoNkOQi78vIYv8q2oVeLnlYmfTE6ZQ==;1x4BljnD2j/S6kg8bl6Wtg=="
+secured: "t1Ftc555qZdLn6FWlCXaCq1L/UVcFRHO8Vrqj4rs8FJpwBbbRXekPdKX1jvXpxW+wRpqBGcypjTPZjiN37Z77S4StZBkVep6o5S+xn95DQUS/HG5SQItxdoT4iPYhZHH52oMiYLbbKaewP90ueIvOGypGexB29JbnLn1ky84bryhEESU2H7sNjo9kKb2uP+ebx78IVrpCctzNhw6ukHRps957PAootxecvDghMLF+eJ6gzUj0lQJ8WBmI5VyEfSE0FTPVOYNVFBtqzMeiiNSL9aAgMuHZpW6LkQr46Oq68BDILQhC3eN2EuhjqlvHTb6U/7JPTr6MxJDZ+cpKf5EyWpelizbZiZ6ZEtMUXEmlHU=;ZbF2e525YCJ+wOJmAXYzkQ=="
 ---
 

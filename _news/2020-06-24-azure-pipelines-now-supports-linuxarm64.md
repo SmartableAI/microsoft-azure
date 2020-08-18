@@ -5,9 +5,9 @@ excerpt: "Azure Pipelines now supports Linux/ARM64, as was highly requested by t
 publishedDateTime: 2020-06-24T18:00:16Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-devops-pipelines-introduces-support-for-linuxarm64/"
 type: article
-quality: 77
-heat: 77
-published: true
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Microsoft

@@ -5,8 +5,8 @@ excerpt: "Extracting text and structure information from documents is a core ena
 publishedDateTime: 2020-03-17T08:00:45Z
 webUrl: "https://azure.microsoft.com/blog/new-features-for-form-recognizer-now-available/"
 type: article
-quality: 84
-heat: 84
+quality: 74
+heat: 94
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     isCached: true
     title: "New features for Form Recognizer now available"
 
-secured: "B3NyO13ZueReceDN+WEpOSEN6mes1ttkqXrU3JTzlp/JrsvNd+nfNRLCaE7N6PMQh0MjPziiAQoQna1HG9ZpuC4w7ytht5iZOoq0DahVKksnzuwyysW1kkdZCZang1O4HkoLeYZO+oICE7hwdaOMkh/J0kY7XDEyGPk04slcuEItgNEKuszhg55TCytdoORKzJ+vaIdesGdQrYwRsKWMerS8ltmHfQ2olVYst1fuCUK2h13dD44Uji3TT1u0SnM2N0c2Gg+tK7ZKXWumqg8b0RQMO2ISV0rmJ79AKdjJZGyn8UF8FgjuV87/tCFpsqT4pJtwJ8IM8YBO0oLUd9JK0A==;gq/8Cv3FiPfJ6s/mQTa7OQ=="
+related:
+  - title: "Form Recognizer is now generally available"
+    excerpt: "Form Recognizer extracts text, tables, and key value pairs quickly and accurately from documents, both-on premises and in the cloud."
+    publishedDateTime: 2020-07-08T15:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/form-recognizer-is-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 2
+
+secured: "WFvErXltdV+AFgvno6ZWeDpCD6DIv60VXxG6bkc4OJVvNZN/JuBGi8OSX9tjuyyVSEsldaIaLktP5UNPsUzeZX6AtoBsZnpTYWWTjOHVN+lgxglp/tqI82sjluz7tlyEDyQ2LVIo9NEKkphsbNFofOrmje3tjm6q+gZMcFad3Bele9R2kuNWsufNiG+KbtT2o8/vB3SrOZLOZA2L8TPh/9rJZYJnoSSHsk+amHbu/7qG6qM3ZDE4t3Bsi7LLYhy6uLsc5KxjRWuXJSd8npPA+PyVlx1mAoBBTD8wfD5hxd8J0Heyr2b/fEHPLae3Wa+3qRkP0BBfQyteFZijiq7gksUr5d3HCZs8slbrAkf8pew=;cX1drZHcl7u4OYeait06xw=="
 ---
 

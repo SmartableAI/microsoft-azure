@@ -5,7 +5,7 @@ excerpt: ""
 publishedDateTime: 2020-05-19T16:05:41Z
 webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-iot-central-features-are-now-available/"
 type: article
-quality: 77
+quality: 17
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Private Link is now available for multiple new Azure services"
     excerpt: ""
     publishedDateTime: 2020-05-14T22:00:17Z
@@ -38,16 +38,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
-  - title: "Azure Sphere update 20.05 is now available for compatibility testing"
-    excerpt: ""
-    publishedDateTime: 2020-05-14T21:00:08Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-update-2005-is-now-available-for-compatibility-testing/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Storage—Routing preferences now available for preview"
     excerpt: ""
     publishedDateTime: 2020-05-19T17:00:16Z
@@ -56,16 +47,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
-  - title: "Azure Kubernetes Service (AKS) node image upgrade is now available "
-    excerpt: "The node image upgrade capability in Azure Kubernetes Service (AKS) is now generally available. It enables you to initiate an upgrade to agent nodes targeted for a specific node pool to pull the latest available node updates and patches without requiring a full cluster upgrade."
-    publishedDateTime: 2020-07-21T16:00:50Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-aks-node-image-upgrade-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Kubernetes Service (AKS) resource provider on Azure Stack preview "
     excerpt: ""
     publishedDateTime: 2020-05-19T16:05:37Z
@@ -74,7 +56,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 76
+    quality: 16
 
 secured: "s5ohdTS1BRJxzCvEt5/ja+qdxlFuJUrjTY2A0xFRgtooZcr6KwBMyMjJVQbxlUw7BO5YIoZyrOZDMdXoUWCXJ6Vnkcz6VR996Jkbm/SK7ScaFpdLWSKQ+MyxuiyB9Rc9SUXRd/YfCOE9qFS6Awljisgr4Np7CyNTfQKJaWmmQnTQ975B3nRJbcLFObxn6AgcbHUmB2rSKNlmd25QQv+91TmCm8k0Z5TBTjemT+FuZuFSO8cCOVkkXCneMBQ8o1NJ9X1M4CP8wxNCsv/6LmYiDmCwsnZIicopx9af39FPunUYZ/WEvHIkTUHsuyg5MKxfk32CmpjTeHXb9QjPzYBYfQ==;QGzMZaJMb1S/zCbegi27/w=="
 ---

@@ -5,9 +5,9 @@ excerpt: ""
 publishedDateTime: 2020-05-27T20:53:43Z
 webUrl: "https://azure.microsoft.com/en-us/updates/backup-your-sap-hana-databases-running-on-rhel-using-azure-backup/"
 type: article
-quality: 77
-heat: 77
-published: true
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Microsoft

@@ -126,6 +126,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Gartner: Threats and opportunities facing cloud service providers during COVID-19"
+    excerpt: "Tech leaders need a thorough understanding of the threats, opportunities and forthcoming events that will occur as a result of the coronavirus pandemic."
+    publishedDateTime: 2020-05-04T13:57:00Z
+    webUrl: "https://www.ciodive.com/news/gartner-cloud-csp/577125/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 17
+    images:
+      - url: "https://www.ciodive.com/user_media/cache/12/e2/12e2858c5eb8a7668a4ac74e3c216843.jpg"
+        width: 770
+        height: 364
+        isCached: true
 
 secured: "+OQodjt7vmBk0Bniy5mlaX1zpAayPrs5FdiW+WobZIozOBM5jkqapKxOw16+9wv+M4xJl4+E3sg/b5wyoH6NV112VYLoFTTnSbnRsx/OaWMiF7J0XOsUtV7RdBQKv/HWis0b1iQTSeC7w1vtVSAqMA1PkS19vu/xUFdcAwAj0oEp1UfGJ+tJqXM6KUXb4oDF1i3lNU5+RuBkEh7JFpEbMazPq41/QgFzCCfG/7xL3hx8viEbEVyIqRg5Nd+HDm8MKWq47UOyff0zDTEhL1a1A1cAgwIkx6G3No9JO5Plf/lgtKUlk8cRS2Ij8acRn3St;75ueH7/nGnxFBueRsfqq6w=="
 ---

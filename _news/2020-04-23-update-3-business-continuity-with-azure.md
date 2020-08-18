@@ -5,9 +5,9 @@ excerpt: "Thank you for your response to our cloud continuity blogs; many of you
 publishedDateTime: 2020-04-23T13:00:12Z
 webUrl: "https://azure.microsoft.com/blog/update-3-business-continuity-azure/"
 type: article
-quality: 77
-heat: 77
-published: true
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Microsoft

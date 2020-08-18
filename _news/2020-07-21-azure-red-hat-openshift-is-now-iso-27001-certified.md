@@ -5,9 +5,9 @@ excerpt: "To help you meet your compliance obligations across regulated industri
 publishedDateTime: 2020-07-21T16:00:32Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-has-a-new-certification/"
 type: article
-quality: 77
-heat: 77
-published: true
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Microsoft

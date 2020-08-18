@@ -5,7 +5,7 @@ excerpt: "Update your Microsoft Graph clients in US Gov Cloud (https://graph.mic
 publishedDateTime: 2020-07-14T21:00:00Z
 webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-graphservice-tls12-enforcement/"
 type: article
-quality: 51
+quality: 0
 heat: -1
 published: false
 
@@ -66,6 +66,20 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/05/surface-book-3-logo-profile.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "New Barracuda SD-WAN Service Built Natively on Microsoft Azure"
+    excerpt: "WAN offering that runs inside Microsoft Azure virtual WAN hubs. With Barracuda CloudGen WAN, companies and service providers can create a secure access service edge (SASE)  in public cloud. Hubs can interconnect through the Microsoft Global Network."
+    publishedDateTime: 2020-07-16T19:33:00Z
+    webUrl: "https://www.channelpartnersonline.com/2020/07/16/new-barracuda-sd-wan-service-built-natively-on-microsoft-azure/"
+    type: article
+    provider:
+      name: Channel Partners
+      domain: channelpartnersonline.com
+    quality: 37
+    images:
+      - url: "https://www.channelpartnersonline.com/files/2019/11/CPaaS-770x285.jpg"
+        width: 770
+        height: 285
         isCached: true
   - title: "Barracuda has launched a new SD-WAN service built on Microsoft Azure"
     excerpt: "Barracuda Networks Inc. has announced a new secure SD-WAN service built natively on Microsoft Azure. The new Barracuda CloudGen WAN service is the first SD-WAN solution that runs inside Azure Virtual WAN Hubs. The service allows the WAN Hubs to be ..."

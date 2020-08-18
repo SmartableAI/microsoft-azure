@@ -5,7 +5,7 @@ excerpt: "Since the general availability of Azure Data Lake Storage (ADLS) Gen2 
 publishedDateTime: 2020-03-19T09:00:12Z
 webUrl: "https://azure.microsoft.com/blog/filesystem-sdks-for-azure-data-lake-storage-gen2-now-generally-available/"
 type: article
-quality: 80
+quality: 20
 heat: -1
 published: false
 
@@ -31,21 +31,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 84
+    quality: 24
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/b83238b4-dba1-4651-8eac-217459a4b753.png"
         width: 1024
         height: 471
         isCached: true
-  - title: "Azure Data Lake Storage Gen2 PowerShell and CLI are now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-05-15T16:00:19Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-lake-storage-gen2-powershell-and-cli-are-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 75
 
 secured: "AGUMnaLLiVGG+wrtRYC0U9SGvhH91X5YGe8wVn2unP686BIko3qHkc3bNUzyhJ956PavoyQuGF9nsAKHdMuNrC3pRn/82pRZNhWyJBXwtE9h/4OSy6RCKJQhmFVTTBusGdPL6kwVBPn9JIRCVjF1Lh+xer9/fqfoPowpGyurWA/7B9J+vFpr2yMTHNW4p10qQPcbtJC1sjPimiNGAYm0uYL9MGkLHcu1i5h2j9XBaGLlkf3EjnaFcqZ/+k7IjFR7Ktty8Aj5GDI96Y+v7LxNdNRcnNWMJow7/fCPW2MU5ixFrnysJZ0yA5NAWZdrbA0gKwvlDws2XATxKSP7o3MB/A==;R10d1qpgUdWgGVqukiKnDg=="
 ---

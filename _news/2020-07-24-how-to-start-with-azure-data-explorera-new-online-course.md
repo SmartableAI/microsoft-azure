@@ -5,9 +5,9 @@ excerpt: "A new online course that offers a comprehensive overview of data analy
 publishedDateTime: 2020-07-24T23:00:33Z
 webUrl: "https://azure.microsoft.com/en-us/updates/learn-everything-you-need-to-know-about-azure-data-explorer/"
 type: article
-quality: 77
-heat: 97
-published: true
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Microsoft
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
+    quality: 7
 
 secured: "dzWFZBuTb9uJhapbcB8E4X1Xblww+3knMBqp/HaHzRwZkytb29WiDRd+8qxe4aG5VZgIigwL5GQ24XETgg2y5wZv7osGPnDIH3G+aGxM7jc6rNx2H/FtMdYsrIGW9l/7u+tct+q4t9DLQgeWV2u651yp0/AcEiUzR5VHbcAguQuZHwn0UG+i/5HrLKqXmFwwD+D1IqIHbAapE3WICjIBmJ5oyL3rREHYlBgC45qamaaKb6hCLHDn7NW3YzmGTpdnmxAydX+NfcF6al78mXpQDtz5FCCC6bvxlhU9daXT7nimUDoHlTroO18ZjydyZMhEZThuFoZ2GQXZIh21EBomQQ==;9WsH14Ig5iYe9UzWelk3Jw=="
 ---

@@ -5,7 +5,7 @@ excerpt: "The hybrid connections feature of Azure App Service, which enables acc
 publishedDateTime: 2020-06-11T16:00:15Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-app-service-hybrid-connections-for-linux-apps-is-now-available/"
 type: article
-quality: 77
+quality: 17
 heat: -1
 published: false
 
@@ -29,25 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
-  - title: "Azure Sphere OS update 20.06 is now available for compatibility testing"
-    excerpt: "The Azure Sphere OS quality update 20.06 is now available for evaluation via the retail evaluation feed. The release includes an OS update and an updated Linux SDK."
-    publishedDateTime: 2020-06-12T20:00:24Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-update-2006-is-now-available-for-compatibility-testing/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure Monitor for Containers support for Azure Arc is in preview"
-    excerpt: "Azure Monitor for Containers is now extending monitoring support for Kubernetes clusters hosted on Azure Arc. This support is currently in preview."
-    publishedDateTime: 2020-06-17T21:30:19Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azcoinarc/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Cosmos DB Java SDK 4.0 for Core (SQL) API release now in general availability"
     excerpt: ""
     publishedDateTime: 2020-06-10T16:00:14Z
@@ -56,7 +38,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 71
+    quality: 11
   - title: "Azure Monitor for containers now supports log collection on AKS Windows node pools (in preview)"
     excerpt: "Starting with agent version ciprod05262020, Azure Monitor for containers will collect logs (std/stderr) for the containers running on AKS clusters with Windows node pools."
     publishedDateTime: 2020-06-04T18:00:27Z
@@ -65,7 +47,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 65
+    quality: 5
 
 secured: "C8D+0Ocp/mY6wXG4KyfeLoOKwziNXAKxhT5Zwz/xzLwIvaIBjGE2Br8shZuqtkQEN5v6aARGS65eZUKqtzg60oEiB/dGy3wdelmrgqyIq9dRPAih5rQroJ5r9tL1VIE8fRLsc7eBMmBhL5K1np/jdQ2V3Vp1PWlopxNbh9RSYV+1fmD7zFQ8UwoWzOgyZmrwy3s9zfj866qJkuSWoCN75XQGaZLRhsOddPUerpXYFV25ySh2P+zEXVfEx6NqPg1x5OJBSvfoXLQ/F6wf2UMr4l0OmlXpPV5rjwrkLSf5IhqvpiyQOB63SrJ32Iryl3ovZTREQXgKjy1GjkAWCvHVwA==;slziN3GFd0lC9Bo18HZ0AQ=="
 ---

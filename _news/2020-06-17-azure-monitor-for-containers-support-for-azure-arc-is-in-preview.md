@@ -5,7 +5,7 @@ excerpt: "Azure Monitor for Containers is now extending monitoring support for K
 publishedDateTime: 2020-06-17T21:30:19Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azcoinarc/"
 type: article
-quality: 77
+quality: 17
 heat: -1
 published: false
 
@@ -21,51 +21,20 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Policy support for Azure Cosmos DB is now available"
-    excerpt: ""
-    publishedDateTime: 2020-06-10T16:00:15Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-policy-support-for-azure-cosmos-db-is-now-available/"
+  - title: "Cryptominers Found in Azure Kubernetes Containers"
+    excerpt: "Images from a public repository contained cryptominers that Microsoft researchers found in Kubeflow instances running on Azure."
+    publishedDateTime: 2020-06-12T20:36:00Z
+    webUrl: "https://www.darkreading.com/attacks-breaches/cryptominers-found-in-azure-kubernetes-containers/d/d-id/1338083"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure App Service hybrid connections for Linux apps is now available"
-    excerpt: "The hybrid connections feature of Azure App Service, which enables access to resources in disparate networks, is now available in public regions."
-    publishedDateTime: 2020-06-11T16:00:15Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-app-service-hybrid-connections-for-linux-apps-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure Sphere OS update 20.06 is now available for compatibility testing"
-    excerpt: "The Azure Sphere OS quality update 20.06 is now available for evaluation via the retail evaluation feed. The release includes an OS update and an updated Linux SDK."
-    publishedDateTime: 2020-06-12T20:00:24Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-update-2006-is-now-available-for-compatibility-testing/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Azure Cosmos DB Java SDK 4.0 for Core (SQL) API release now in general availability"
-    excerpt: ""
-    publishedDateTime: 2020-06-10T16:00:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-java-sdk-40-for-core-sql-api-release-now-in-general-availability/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 71
-  - title: "Azure Monitor for containers now supports log collection on AKS Windows node pools (in preview)"
-    excerpt: "Starting with agent version ciprod05262020, Azure Monitor for containers will collect logs (std/stderr) for the containers running on AKS clusters with Windows node pools."
-    publishedDateTime: 2020-06-04T18:00:27Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/ci-windows-logging/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 65
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 37
+    images:
+      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
+        width: 600
+        height: 600
+        isCached: true
 
 secured: "gvC7tt1vwnA7hwoJ/jpoi2s5Q7b4jZPupQzpxykCzFjvJvbCW3UGb5xPgHv5fxuBmqyAHChgmDNo72ANEd8GVO4evGXocae1Ea5xpnD+MVDLfbb0b2C+9E0+tY7ximXa8TSAdxep9ZOQT5OZv6kW64/6yg3ayaPxTxhydV3eZb+EbcMc9JABD35GenxNh5aSAHIsz92rPv2EyQiXYAn5g7AX6Ku4fgSRz1lAsOQ+iN9R948GR55WJ2dz+U712To890jm5mwjueOk4jwLGl9KZ57F8uFiatO8tcbmkTxDQrPIK3uwMRvj/lWllllhNKn67PxSIFjHH7e7aNHXCrPR+A==;UlW516ee01mWOKiVje97AQ=="
 ---

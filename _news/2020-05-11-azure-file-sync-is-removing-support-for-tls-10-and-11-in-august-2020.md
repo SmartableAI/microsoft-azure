@@ -5,9 +5,9 @@ excerpt: ""
 publishedDateTime: 2020-05-11T21:00:00Z
 webUrl: "https://azure.microsoft.com/en-us/updates/afstlssupport/"
 type: article
-quality: 77
-heat: 77
-published: true
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Microsoft

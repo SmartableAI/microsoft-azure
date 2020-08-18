@@ -5,9 +5,9 @@ excerpt: "Azure Data Explorer 1-click now supports mapping transformations as pa
 publishedDateTime: 2020-07-25T00:00:27Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-explorer-1click-is-now-supports-mapping-transformations/"
 type: article
-quality: 77
-heat: 97
-published: true
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Microsoft
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 65
+    quality: 5
 
 secured: "rLYE0nqWT/ro+GUs5cvbed4Yfjm+S24Nm9m3RKB6pG3jLt//ApoB/znhqoHWDdHzNw01gzKwsaQnqsgzkdx4VFSnDavhhn2+dWi7GyCNBzg1x1LmnOyBvUIzNXkF1C0ihw1ocE4PKpCIoSXPGo5YrsL4bhCjiEGELv1LKtM+R67JOiIv/fvgamdTzUpntnr+8aRuJvvO7IzSabGi/GaZroZIuSalDPow6rMyEWK4a56lRnziBsE4USyDCTekLxMUboXJHWj5OwmgIVPnGF+AcH/dRVmYKomYoPc6ak8TiWOxGQf5J8maaFMNaBNMZ3estZpT2muWkyhBimfxm3fYzg==;SLSp9YEsqn8/YxPwsA6Jjg=="
 ---

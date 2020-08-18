@@ -5,8 +5,8 @@ excerpt: "The world of supercomputing is evolving. Work once limited to high-per
 publishedDateTime: 2020-03-24T14:00:24Z
 webUrl: "https://azure.microsoft.com/blog/microsoft-powers-transformation-at-nvidia-s-gtc-digital-conference/"
 type: article
-quality: 66
-heat: 66
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -22,6 +22,6 @@ topics:
   - AI
   - Compute
 
-secured: "hQ8O+rTn12PYxPz00NRyN8L8CB7W5yQ8bn3RWGEc2g24WDxFAp+Tjcco0OuTpUJg1wrT0RlNwMelLZaz5LRq9xRUItOM3eoFrHNdLGpsTlPIgFjvs8xY7CwwFOlpvvXgs/G+s7F0WisaFNPYsOpmk0cGFy9geASB8FDCvxcpZYVzVewE61Pl64PzXy7nH3zwlrXugGb74MAyfoAFdi7tfpWOjPS4Gl8mm9eq31z8fCJwZm1y/vVF/mkNWevbTGXOaBuhkkGJ+ZHzRC5tyYWKmKJ83Yyr581anJ2tXHWlYdmgnx/hzebtOelOkfAi1VwezE/q/LQ8Xrki5TWkdDiFJA==;e8PjObjztScHQgJiUpG/bw=="
+secured: "PN9WmMwtkX5kFGHe+L5iDVEKGrYpjyNOJFcQg+mgsPZvUlsAbtk1OQlAnASFCWpB2YcMB923lj7KU+x0Iiw3krHWgzWIkvAx9jHYai8f6vvqC8gtKbqYHk4i3r4NHXqdnjMTrVnBmBpHH4VqBUM8FAxQNW1vtQjIfOzszPt9NwPhXp+/Z6fJ+xtseRZBUOQKk9UI076oyWgeiPeSmVO9SMvzZh/oPsqhnt4yx4sfLh8PiOiiDzejFF+vUCxqtZ1bbEZXHQ0cCTR8DeExbJx+LD2P0zCbHZAhpnUcd6NyV7yUL+G/mGQb08wzfVk7ZjV5WHivw2M8k/LLVD8EW3KgRZLJUgPgMFiDXWf3IbCcF5k=;79KNJgDZWhGyDOG6AnJjvg=="
 ---
 

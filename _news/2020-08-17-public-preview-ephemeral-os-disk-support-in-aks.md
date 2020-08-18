@@ -5,7 +5,7 @@ excerpt: "AKS now supports ephemeral OS disk for AKS agent nodes in public previ
 publishedDateTime: 2020-08-17T23:00:03Z
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-ephemeral-os-disk-support-in-aks/"
 type: article
-quality: 62
+quality: 52
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 67
   - title: "Azure Blob storage—Network File System 3.0 protocol support public preview region expansion"
     excerpt: "NFS 3.0 support to block blob storage accounts with premium performance public preview regions now include: Australia Southeast, North Europe, UK West, Korea Central, Korea South, West Central US."
     publishedDateTime: 2020-08-13T15:00:05Z
@@ -38,8 +38,8 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
+    quality: 57
 
-secured: "S9hWUzQ+DdvYLp75oDtb/yv9eHJYhgrkF/cNGo4nju2ejxAEKkhjTPDffKHm7JohDDZ+8MH43OUQGPWcVaHvWbFwGUGWPA6IM26SjTLoaOykSwk8UHnrueHpk2tM9WF76x8R4Va2d6ODyriulxxVsUJmKKDfLjS2H/ODQ/ZCJ06qWgU0btFQtG2urFSinqD25xpT7wB2YG/ptbYXctKQ1ix7ymoDSjPNp9YRjqV683bHB3Cnf4eotzhhIpcvJbVRLJuqNni2pax+CAF8dkxZJxR7FGPc7tcTmbQPG4gd6aH88f1nnzn+il6scbD6iK7AanbESueSygyw4p4LY+pXtw==;wrjn8APvJ/IKVmdabFf6Ig=="
+secured: "tQ+aeImWtek6oasDQN20qkXkNI/R3ma9QetOOXFsdo1rGGnM6CwaDiBV4SDrJfnXlV+XcGayS2DDP9WmEXvhGZYhyl8YgtsSzcbnTW8n/E4i+JAQoJzuw7Zl77u/3jlJWT6B1QpMzZsnLWEqA55m+AbwXRUpg6SVx2TLhbUtiVs9ukvdbpwLs7s1Hp1QD/39YlDCFrR3CBeEzKZNnRlXjKQhW3PRD0bjDyEPS42lfR/L0i8aw6JRknNE1a3gryXcXnNezcQjZQYn+SnnIXsSiNQmlTglORX/wQjDuNyAH8nqx8e1eEfM4kXYvqsJnKGZ7JRXbwYI0Syw3uqdlcfNaLKMtuVJ7pGdL0Z59oJ8Dbg=;JrbDn6TA/9nqWAF/cFECyA=="
 ---
 

@@ -5,7 +5,7 @@ excerpt: "Since launching Azure Archive Storage, we've seen unprecedented intere
 publishedDateTime: 2020-04-21T09:00:40Z
 webUrl: "https://azure.microsoft.com/blog/enhanced-features-in-azure-archive-storage-now-generally-available/"
 type: article
-quality: 81
+quality: 21
 heat: -1
 published: false
 
@@ -31,7 +31,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 97
+    quality: 37
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/0f9f89b3-100e-4d95-b715-e3b3f4e20492.gif"
         width: 1290
@@ -45,7 +45,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 94
+    quality: 34
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/2eee66bc-197a-4a22-97b3-a23d469d3f97.png"
         width: 604
@@ -59,21 +59,12 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 92
+    quality: 32
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/938e404c-6b8c-4d87-8795-119109f5f43e.png"
         width: 553
         height: 259
         isCached: true
-  - title: "Azure Support API is generally available"
-    excerpt: ""
-    publishedDateTime: 2020-04-17T17:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-support-api-is-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
   - title: "Azure App Service—.NET Core 3.1 is now generally available"
     excerpt: ""
     publishedDateTime: 2020-04-23T16:00:29Z
@@ -82,7 +73,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Text Analytics v3 is now generally available"
     excerpt: ""
     publishedDateTime: 2020-05-29T21:00:32Z
@@ -91,7 +82,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
 
 secured: "OaEDNiMYZjca9s/yQExOE8CPL0jlkxLTpttFt0CNfZo1YSaBfZYOuOYdj4i3S5oH4SaMUXZvwbWMrGu52H6GK4haV7pcWPbW4Y9phMtmosHQGpb/Dw67llMXYPnZUbTLUYVnKl36hhmjQovArFwHeeCY6zTqTKDxP7nzm8sJS0NaKb3IEI8pxl4Zgmztcwi9PSp/p84fn56bs7NF7vPp+t5h5+9DJjXxX+gxusPmDAtnFVBYpJAsDti/4WE+6xFBw+J3QxzDJwJZ3tz22GjxugavdatoHkjaBj7yqKZcryvZ1C9r+ujqCsJaUmDQRs5K3PVBMQ3lNAGQPMDChurhGQ==;oIfp9gMOqIx/DTwZN5vGsQ=="
 ---

@@ -5,9 +5,9 @@ excerpt: "URL rewrite and wildcard host names in listener for Azure Application 
 publishedDateTime: 2020-07-21T22:00:49Z
 webUrl: "https://azure.microsoft.com/en-us/updates/url-rewrite-wildcard-listener-preview/"
 type: article
-quality: 73
-heat: 73
-published: true
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Microsoft

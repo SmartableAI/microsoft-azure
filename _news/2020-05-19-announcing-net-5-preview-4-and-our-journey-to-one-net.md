@@ -5,8 +5,8 @@ excerpt: ""
 publishedDateTime: 2020-05-19T16:10:18Z
 webUrl: "https://azure.microsoft.com/en-us/updates/announcing-net-5-preview-4-and-our-journey-to-one-net/"
 type: article
-quality: 62
-heat: 62
+quality: 2
+heat: 2
 published: false
 
 provider:

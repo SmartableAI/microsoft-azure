@@ -5,9 +5,9 @@ excerpt: "Support for distributed network name (DNN) for SQL Server failover clu
 publishedDateTime: 2020-07-08T16:00:18Z
 webUrl: "https://azure.microsoft.com/en-us/updates/distributed-network-name-for-sql-server-on-virtual-machines-is-now-available/"
 type: article
-quality: 59
-heat: 79
-published: true
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Microsoft
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 57
+    quality: 0
 
 secured: "lVv7K4WB739d4oPWdaTfM7UsqGamqeZVffIEBpfO8LWufK5L+huOj8eng3x1l3sl4N1lMsqLTwFaG0+DTMdcO3wcw4pQZqtJHvgzggQUHBcpITmInQBl//rgo4cprBgmnYvdYjR9M8jGhcqfb7rs+g53x8Ja7e/3MLqTBj0UqxU7IGQe1AmGCDV1fk22ZuhUIfh/J2d300pJsCV+m9sORBLDHWX4N0xnhXg2FuIvRkAhjrNd6x+1s+MeZOBo2WDHW4i7eNzFuxYM/l1ngiGu5cYMUpMHjMNUsfbn3zlsGh2RlLJbYp38LyKvYXf7HI8g0CAUr8a9c3LlpHocxRH6Zg==;wbqnCd6qGK5jYQ+SPpuyaw=="
 ---

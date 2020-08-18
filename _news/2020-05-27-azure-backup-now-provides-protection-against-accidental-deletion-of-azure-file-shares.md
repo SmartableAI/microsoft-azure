@@ -5,9 +5,9 @@ excerpt: ""
 publishedDateTime: 2020-05-27T16:00:03Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-now-provides-protection-against-accidental-deletion-of-azure-file-shares/"
 type: article
-quality: 70
-heat: 70
-published: true
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: Microsoft

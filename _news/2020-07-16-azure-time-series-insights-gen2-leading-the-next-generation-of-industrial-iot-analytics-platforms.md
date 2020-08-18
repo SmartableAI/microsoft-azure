@@ -5,8 +5,8 @@ excerpt: "Azure Time Series Insights Gen2—a fully managed IoT analytics platfo
 publishedDateTime: 2020-07-16T12:00:41Z
 webUrl: "https://azure.microsoft.com/blog/azure-time-series-insights-gen-2-leading-the-next-generation-of-industrial-iot-analytics-solutions/"
 type: article
-quality: 100
-heat: 140
+quality: 90
+heat: 130
 published: true
 
 provider:
@@ -36,7 +36,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Notification of upcoming changes to Azure Time Series Insights web experience URL"
     excerpt: "Notification of changes coming to Azure Time Series Insights Web Experience URL"
     publishedDateTime: 2020-07-15T00:00:18Z
@@ -45,8 +45,8 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 72
+    quality: 12
 
-secured: "uo9lfzkg1jtitRqJl7/3UEiKYIyXGpTa/TzqiEhZI8Qnty0fJuhbCEwlDfD+cg7Ig1wSPbLF0r1zHmzcuhpxe1CzuiECaTimzEF48M69qlA8zQYKOPUCBjd3IWSsVvkNLM6N2qqaxFnWBXJtag2wXRVfCVPBHqabfmNqRcHWPdoIwa4mDBGDENSFc2qqr/bD0xVozeCvLByNgiJlfaIyvkBXLUdhcR/lo6gNgKVe+NYAfdY3keohQSk1zFnbpDeB7ZIaeoOJFElOJSquPStLu9f/4/mjv2CDnQWgT+gzv2KL9nHnS2VfTbMvi8dz9IUhPyoYx4rEXzbRMzmQStBVpQ==;Bo8hWIA2PBDsRVXVAgkQ1A=="
+secured: "wak5z3iYbOo01zUbSrxLziDPD3YfGtnPagiHQIinD0eVsxwGs+0WJJ04rzOGqjVQYxZ4M3LBaIG6q7GT0p2qTtBy92TTdDr5kKlRzZxhwMlaD6xaS0FuiTsdEfv99+8ItnqX12Q44Yr+Fa2gM00e/F3HIfoIHJEYlbhHbPNoUDJpVJBMhT3MgX1ecXj4nMz0tUASLeluNeWqA8tujMv0a1nA7360Js65pxyz+52ThngcuONOasi0YCm5Pv7ZUJ4m7dMVRUABod/n8AEUxVwE1n6zFPsQs7GIJUueQ4SSPPnVTt6jRJCxrVtQXRMTUd2gzD0Rh/ukeZBp4EQ4KAnW2gThfRNzQ0JS81zWpxgs0rs=;lU5yBiaza1CLoCQbMTW3tw=="
 ---
 

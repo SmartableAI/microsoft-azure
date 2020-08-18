@@ -5,7 +5,7 @@ excerpt: "Azure monitor for containers with Azure portal now supports new Kubern
 publishedDateTime: 2020-08-05T23:00:02Z
 webUrl: "https://azure.microsoft.com/en-us/updates/ci-aks-resource-view/"
 type: article
-quality: 70
+quality: 10
 heat: -1
 published: false
 
@@ -29,16 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
-  - title: "Azure Monitor for Containers support for Azure Red Hat OpenShift 4.X & OpenShift 4.X in preview"
-    excerpt: ""
-    publishedDateTime: 2020-04-29T19:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/aro-openshift4update/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 65
+    quality: 17
 
 secured: "STcEZggYf7zukQtpsM2QZjsRKEsQgEGmLQZOZv6sRad7R/4iRHvhN1WM0dtz6j8ymMXJFxnrKSNl/KzsZukyWEDF8UBU1YDJf/J3UxCUGVB3dSh+slw4CaybQ8DR3igAWkO9761/Ws6SJ0GaqaDh3CkiGO3B0fCA0W9W47ryI+iOmuOZBEIk+hND/R9KkpRZrUuWn4XL+jsBV7kovWxwVu6zRO6pJ6elkJIDM8WimjA1ElDX7eAxnwsz1ERclkVRW6vZRI8sJH9Whd9VIBpbbGOuBIqtYGopMIJgpoQ3ip38K8OIKxgxSFcIphJUUxEY/Nrbn4zev7PoZ2VYW2K8bQ==;MEjhuu0RAwiXzjih0uRa1w=="
 ---

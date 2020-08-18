@@ -5,7 +5,7 @@ excerpt: "It’s now easier to deploy and manage Windows Virtual Desktop as well
 publishedDateTime: 2020-07-28T22:14:54Z
 webUrl: "https://azure.microsoft.com/en-us/updates/windows-virtual-desktop-azure-portal-and-microsoft-teams-integrations-are-generally-available/"
 type: article
-quality: 66
+quality: 6
 heat: -1
 published: false
 
@@ -29,34 +29,11 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 82
+    quality: 72
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f55af93e-678e-415a-9906-f3bdba2f1933.jpg"
         width: 1024
         height: 641
-        isCached: true
-  - title: "Azure Archive expanded capabilities now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-04-23T16:00:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-archive-expanded-capabilities-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Remote Desktop client for Android now supports Windows Virtual Desktop connections"
-    excerpt: "Access Windows Virtual Desktop from the new Remote Desktop client for Android."
-    publishedDateTime: 2020-07-30T00:00:32Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/windows-virtual-desktop-client-for-android/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 76
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/3358bb18-b443-4c0d-9823-f95637177398.png"
-        width: 1080
-        height: 2280
         isCached: true
   - title: "Windows Virtual Desktop Gets Azure Portal and Teams Client Support"
     excerpt: "The Windows Virtual Desktop (WVD) service now has Azure Portal integration, plus Audio/Video (A/V) Redirect support for Microsoft Teams client sessions, Microsoft announced on Monday."
@@ -72,6 +49,56 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Azure Archive expanded capabilities now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-23T16:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-archive-expanded-capabilities-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure VM Image Builder is now generally available"
+    excerpt: "Streamline your image building pipeline and integrate your DevOps application lifecycle with cloud native tools using VM Image Builder."
+    publishedDateTime: 2020-07-20T16:00:31Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-vm-image-builder-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "AKS-managed Azure Active Directory support is now generally available"
+    excerpt: "Azure Kubernetes Service (AKS)-managed Azure Active Directory (Azure AD) support is now generally available. "
+    publishedDateTime: 2020-07-21T16:00:56Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/aksmanaged-azure-active-directory-support-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Remote Desktop client for Android now supports Windows Virtual Desktop connections"
+    excerpt: "Access Windows Virtual Desktop from the new Remote Desktop client for Android."
+    publishedDateTime: 2020-07-30T00:00:32Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/windows-virtual-desktop-client-for-android/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 16
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/3358bb18-b443-4c0d-9823-f95637177398.png"
+        width: 1080
+        height: 2280
+        isCached: true
+  - title: "Azure Virtual WAN: Multiple capabilities and new partners now generally available"
+    excerpt: "Today we are announcing the General Availability of multiple enhancements in Azure Virtual WAN, including hub-to-hub, custom routing and transit capabilities."
+    publishedDateTime: 2020-07-06T17:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-virtual-wan-multiple-capabilities-and-new-partners-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 12
 
 secured: "2/GNjsFW0XkwZnUShiqDSOl2/Ef0bRDdIySAax6hUK1EcVrQw43n8fQBWMXYaEcWvTQi2bYgWCSNPDgNu4z/DZfdX0yYrmP1PzfxFuVqEfccwd5D5pem7/RSkMSq8VwdyJCTSDLiEa/NfTMMZoxopVUvLwIXEOhuWdvPRTylLXjh6jpA01RsdR7MiwkFkc8sqycT/u+LjAjk47wFPG9nVB8q02G5XKDIhTXMHD9BvzOzIVI9jTgRDr1IJsIDWOrrSy33ZaxFS0JV2qa6lPip+611ncft4IiGY0z6KudYbeP3vltNSAX7RotyyBUz4MS2x9bRm1ij2ibLFRBVXlZahg==;wKoxBuFWw0lSUJwDy4In3Q=="
 ---

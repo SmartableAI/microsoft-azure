@@ -5,8 +5,8 @@ excerpt: "Securing any environment requires multiple lines of defense. Azure Con
 publishedDateTime: 2020-06-23T10:00:03Z
 webUrl: "https://azure.microsoft.com/blog/azure-container-registry-securing-container-workflows/"
 type: article
-quality: 99
-heat: 99
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Azure Container Registry: Securing container workflows"
 
-secured: "gnaWDBFMD+wutflP/xgif+JRxN3HhrAotQUEpMsy1JFmJ9NZOqCC5QDY/ZlP7pwON3aH8ooFYi/O8uCSb8oNSw1tXQnIG8n1ZKcAL8GXg68rYFgBZRLHBz1JS0exYRvbNCnltbddFtoNza3oVT1CHHvVBF7GNIaKI2RaXUQQSa7FGa9fEpLmlj9xb4Q7fPpRxdVFR2XC/22rehuMjx1phKcZIKst2RXNKQp7dJgub+1cRdkiPCsJM6JFlaBaIypCu2xMosbI6AbxyMPkCa+FRBZqHg4vXUgQMbr6FZpPtSVGY246bO6152QL6+oKo5JoYXwFbAQbFemSmrwSyO9j7w==;Dl1gvxPHHWc1FdJs7igy2g=="
+secured: "seG9n6EDX0buuYVERtrOvLJ114qzokddv7ASC2MdDWHC1NOhxMy/kF1z4IBFAeHUkt27wP8bDtKO0rWMaiYi78Ezqd1ADDa6tJsKiDFUkknGfffXiBaUVDdcUuuK1F/pPtyT3IE5tWfNMpqm8Wuc5rtsIndgBMCiFmEPXe+U0tP4w0UL9VGvvmAO66WnVCWPV8Dxtj7rBOncpxxyzZA8CCRUuR5fwy6R618eT6PqhOHZ45ginLGZDUEij9mp+3XwmxYqomIYO33gTCy1sZs8lMYHDHafgMluEJAMVGQfPG6Xhj+wLCtZWbwZ+JIFKxUEfwY93XMnHHeptyp48oBARWNerbvHtBYnLyuXVET/OyU=;fxuTIXBDeO/WOCvmJudWOQ=="
 ---
 

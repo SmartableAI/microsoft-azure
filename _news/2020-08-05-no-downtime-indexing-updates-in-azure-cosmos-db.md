@@ -5,9 +5,9 @@ excerpt: "You can now confidently make indexing changes without fear of impactin
 publishedDateTime: 2020-08-05T16:00:03Z
 webUrl: "https://azure.microsoft.com/en-us/updates/no-downtime-indexing-updates-in-azure-cosmos-db/"
 type: article
-quality: 77
-heat: 77
-published: true
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Microsoft

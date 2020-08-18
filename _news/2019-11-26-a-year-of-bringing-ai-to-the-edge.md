@@ -5,8 +5,8 @@ excerpt: "This post is co-authored by Anny Dow, Product Marketing Manager, Azure
 publishedDateTime: 2019-11-26T09:00:31Z
 webUrl: "https://azure.microsoft.com/blog/a-year-of-bringing-ai-to-the-edge/"
 type: article
-quality: 64
-heat: 64
+quality: 4
+heat: 4
 published: false
 
 provider:

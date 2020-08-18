@@ -5,8 +5,8 @@ excerpt: "Azure Time Series Insights is making changes to JSON telemetry data fl
 publishedDateTime: 2020-07-07T16:07:54Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-tsi-ingestion-rule-changes/"
 type: article
-quality: 65
-heat: 65
+quality: 5
+heat: 5
 published: false
 
 provider:

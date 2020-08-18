@@ -5,9 +5,9 @@ excerpt: "Access to Diagnostic Logs is essential for any healthcare service wher
 publishedDateTime: 2019-10-29T10:00:15Z
 webUrl: "https://azure.microsoft.com/blog/enabling-diagnostic-logging-in-azure-api-for-fhir/"
 type: article
-quality: 99
-heat: 99
-published: true
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: Microsoft

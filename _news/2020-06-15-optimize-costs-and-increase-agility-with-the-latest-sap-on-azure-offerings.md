@@ -5,9 +5,9 @@ excerpt: "SAP SAPPHIRE NOW is an event we look forward to year after year, as it
 publishedDateTime: 2020-06-15T08:00:02Z
 webUrl: "https://azure.microsoft.com/blog/optimize-costs-and-increase-agility-with-the-latest-sap-on-azure-offerings/"
 type: article
-quality: 77
-heat: 77
-published: true
+quality: 67
+heat: 67
+published: false
 
 provider:
   name: Microsoft
@@ -21,6 +21,6 @@ topics:
   - Azure
   - Compute
 
-secured: "9/7+wMwMK9cKoeYnLQBBsVbXKIv13wnQH21RKRgDlTQJJq549Ri4FOKGvsyRkCKGLMJUk31j/xQqisqpyqdtB0ciXsfco1vlAGmkNgWwwl5L44IQxysgJXae0LzMbP9HwZWQstE3qcmwQ8KnPj24DqjyZO4pq/UNOhWW13OVWBQ1Njj4LVJZgUVV/bk/Mns1VVx/v2KnXN4+LtS5Cpv/O7WG0IC7Ts+zbjjMMt/CKA3QCuB/JfAgryAVH8Zsj5uwxADYpLEuA7puxbRhomNxKLFu3ZQjI6kboERRyACKti0rxKvGIUc+CwoZeSxC3PKP6a232wTc8hM5aPEGWYltEA==;qkizXUis59jKmCm+F+oskg=="
+secured: "rE0BQYfNYrEGGQ9ApAlh4D+irHNMGusziOcN6NzdrZvDqvAIo0IqBQB4ACTGdT3xU9GGIR7ejXyF/ymq0Qd0X/0TTExOFLjllU/527OCSBV4KrvpCE6RyI3A7AhDvJyvglZyeZaTVcvT5EZLfsjCegHhSKEUZKqOjMIuilHbYdJ4FinsqOn9V9jV2VS0K6FtqbGoyQ8+n3rsxVyInT3j4E65uxrzCyZyu6m0OvrNLMfL9nASxzuOdmbOLMuNWGNO7FlK/oOdBshLBpw0V46gjP4aEVvgPKW/LsmhAFjkVBO3ewl29AirpGw7lzAP2osyRYLWOnNAditm5On3wLmcAbQ+ToV4TQLVmpz5GU5cb6A=;wfpgsgFUjIN1q6XzBCTplQ=="
 ---
 

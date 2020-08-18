@@ -31,34 +31,11 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 99
+    quality: 89
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/861ec5e7-1837-4e5f-b7ba-8721cc802554.png"
         width: 911
         height: 513
-        isCached: true
-  - title: "Now install network virtual appliances directly into an Azure Virtual WAN hub"
-    excerpt: "Several new capabilities for Azure Virtual WAN are now in preview—including the option to install network virtual appliances directly into a virtual WAN hub as an option for SD-WAN connectivity. "
-    publishedDateTime: 2020-07-21T16:02:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/now-install-network-virtual-appliances-directly-into-an-azure-virtual-wan-hub/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 74
-  - title: "New Barracuda SD-WAN Service Built Natively on Microsoft Azure"
-    excerpt: "WAN offering that runs inside Microsoft Azure virtual WAN hubs. With Barracuda CloudGen WAN, companies and service providers can create a secure access service edge (SASE)  in public cloud. Hubs can interconnect through the Microsoft Global Network."
-    publishedDateTime: 2020-07-16T19:33:00Z
-    webUrl: "https://www.channelpartnersonline.com/2020/07/16/new-barracuda-sd-wan-service-built-natively-on-microsoft-azure/"
-    type: article
-    provider:
-      name: Channel Partners
-      domain: channelpartnersonline.com
-    quality: 37
-    images:
-      - url: "https://www.channelpartnersonline.com/files/2019/11/CPaaS-770x285.jpg"
-        width: 770
-        height: 285
         isCached: true
   - title: "Barracuda introduces first global secure SD-WAN service built natively on Microsoft Azure"
     excerpt: "New Barracuda CloudGen WAN is the first secure global SD-WAN service built natively on Microsoft Azure. The new service is deployed directly from Azure, works out of the box with smart default ..."
@@ -83,6 +60,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 17
+  - title: "Now install network virtual appliances directly into an Azure Virtual WAN hub"
+    excerpt: "Several new capabilities for Azure Virtual WAN are now in preview—including the option to install network virtual appliances directly into a virtual WAN hub as an option for SD-WAN connectivity. "
+    publishedDateTime: 2020-07-21T16:02:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/now-install-network-virtual-appliances-directly-into-an-azure-virtual-wan-hub/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 14
 
 secured: "I2ER167WCwhKaqJ+xW6YLiT/FAfLZBL/I6rMeF+q+IySoa1JiOkpUQtg4fYpQjuCtUuWV4Gt4r0jG5UBaVe8ovOhtD3CrWGMl4wk/A/aZwTjbmaG6nnMpYULTRpybLRZs0M6AX6zfXn9zfghgES9mF+gKgpLVnZivHx+6UpV4OSPbkFMc7mNOQlz3TasO7P2QE8LmfgiNMzKgtsKZ50fyKL/XXDl9GV9wq6srkuGmsV6rBLl1OSP3LHQfGNB0wXtcawO2ylURfKM7NCt3dYEgT8Zu7R2c3RrAiedNo5lM78NghruddF+CUQuEKun5iGPAhP5C+E2sLX4xtPv3CeKy6uku/Yj0p1AqYJXVsV0L3oZ+6jiyGcUojsrspJC5TVQVYYAemJtKiAoeqHp4npKtevCUq6Q3sZBP+q2o2Y2q72yOQO9C1mnFEQrsx8NiSfzjQf45nXzKo4Lewzz64OWBjlDhcd79m48C+6k7TSkKW+Vkol28Cni42LLcBihA+kmeg1SAPF64tC7QUa6svxQ1g==;B7wyE+YkK11eunAVS53oww=="
 ---

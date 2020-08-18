@@ -46,15 +46,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Azure Cache for Redis—Enterprise features coming soon"
-    excerpt: ""
-    publishedDateTime: 2020-05-12T13:00:09Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cache-for-redis-enterprise-features-coming-soon/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
   - title: "How to Reevaluate Microsoft 365 Licenses for Your Enterprise"
     excerpt: "We offer five steps to take for evaluating an organization's M365 license strategy, how to realize hard dollar cost-savings and gain a better return on investment."
     publishedDateTime: 2020-05-20T00:33:00Z
@@ -83,6 +74,15 @@ related:
         width: 304
         height: 430
         isCached: true
+  - title: "Azure Cache for Redis—Enterprise features coming soon"
+    excerpt: ""
+    publishedDateTime: 2020-05-12T13:00:09Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cache-for-redis-enterprise-features-coming-soon/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
 
 secured: "2qLGU/IQqt5BUsoIC4jY5g6UIdjQ18zvAObxhdT2EGP/GbbuPyHKgCm/CXBXd/goQ3v5zQR44iby6n4apqv/6sWg3chbmsCyj1xQhCUOeouOXqBCe9MY3hUroMAZyY42E7486QRjb/IyY3cteCa6rg+e2HZPfWleq207w26M04smeVNp7rcix5FlXSPjvIEvkIdEM5RSKtIbiEtoW2rT23M322aa8jTj3ur5HobXF/sEYBM0nafw6u2QI+SqomyZIm4HU/PPjp1iofXCoUZGoekqnRXHyZnuyigEy5ATT9OU1C/TJcr+hmIZuj1rVpMo;8pCVxRfaQ6BhtlVWuIY2Lg=="
 ---

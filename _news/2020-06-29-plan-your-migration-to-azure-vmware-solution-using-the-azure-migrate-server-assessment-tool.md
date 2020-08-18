@@ -5,7 +5,7 @@ excerpt: "Azure Migrate now supports assessments for Azure VMware Solution. Plan
 publishedDateTime: 2020-06-29T23:00:24Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-migrate-azure-vmware-solution-assessment-preview/"
 type: article
-quality: 67
+quality: 7
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 116
+    quality: 106
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/b1ef990c-46e2-4a1f-b878-3c9a016d9b97.jpg"
         width: 1024
@@ -43,7 +43,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 114
+    quality: 104
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/5e1ed9d8-5fd5-45d0-9a03-1a6c9a8b2da0.png"
         width: 1024

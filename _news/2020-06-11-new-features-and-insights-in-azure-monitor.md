@@ -5,8 +5,8 @@ excerpt: "Customers need full stack observability for their apps and infrastruct
 publishedDateTime: 2020-06-11T09:00:02Z
 webUrl: "https://azure.microsoft.com/blog/new-features-and-insights-in-azure-monitor/"
 type: article
-quality: 99
-heat: 119
+quality: 89
+heat: 109
 published: true
 
 provider:
@@ -44,6 +44,6 @@ related:
         height: 400
         isCached: true
 
-secured: "C6aReoJ/CwlZm/8FOFIaK9C0Bzq093GFv/IJvgvKeFjMLThX+JznnTPkBbH/pD0pokP3GYu4BM8KKtB8khtCBBw/VdwYMjUohL8eDsAw9M5BvEW1K8oPTW+LRobfKb2x3ugM7oh7IfFk7lD34eUoEK1clm4zhLD18mcukydWYN+XIfxYu6xbxatIijddNd6uxOZrNJGCtV3wihie0i4pkMdEwxSgt3ZGS35aJWfHDyeagzHZN4vBFZQsMw6DtA63OxAjOmMn6UoGo4GyVEiegESkbi43OqfQYG2bBiW4mLncQDmuafNNnj4cg6NI3aWt93fPxettD64nE1478snrCg==;HmdVv11Z7Y9IARUbOVw5zA=="
+secured: "/3wInhKY/QAFG83nb8YgxCMDKbhO0gIeBrZbdmgfyTlor4dH0yv3LoAk1mH+WqcYyupkwQ0on9Rn4aFEnr7NJ4yC9whsYLpCc3hBdT5VHSu0jXkaZe3TO9FywQ5G5kS40ReCSJ2sGxTYod+9JDmpreGp7hXbbg6zV9yLMXuYrOI4lUl1cWCLJ0MToqrgtvCNCJ/E+JBtTRh3DNA/F05xhpxBovIHqHul+K3vobGUgYI+5oR6QHrxw5K3a/LGYrYh/KLYnmPW8LGWmRdOGQ/7WtbgnLHSb/WLiErWDtZN2qci5rMETb4Hu/mrzGQAlBIH6nuK3aqQHcrJ9Ayt4tGcLy/gt7PF+dgPVnVTwiCvEGg=;t/S5Cdl5XxLI+tAzs7qpXw=="
 ---
 

@@ -5,8 +5,8 @@ excerpt: "This post is part 1 of a two-part series about how organizations use A
 publishedDateTime: 2020-05-06T10:00:12Z
 webUrl: "https://azure.microsoft.com/blog/minecraft-earth-and-azure-cosmos-db-part-1-extending-minecraft-into-our-real-world/"
 type: article
-quality: 108
-heat: 168
+quality: 98
+heat: 158
 published: true
 
 provider:
@@ -37,7 +37,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 108
+    quality: 98
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2e4a9658-d476-4845-aae6-ac59a0d7b2d8.jpg"
         width: 640
@@ -51,7 +51,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 90
+    quality: 80
   - title: "Minecraft Earth and Azure Cosmos DB part 2: Delivering turnkey geographic distribution"
     excerpt: "This post is part 2 of a two-part series about out how organizations are using Azure Cosmos DB to meet real world needs and the difference it’s making to them. In part 1, we explored the challenges that led service developers for Minecraft Earth to choose Azure Cosmos DB and how they’re using it to capture"
     publishedDateTime: 2020-05-06T10:00:11Z
@@ -60,8 +60,8 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 86
+    quality: 76
 
-secured: "3j6hjXKx3ailhwSJYw1hBvjkZa9IoDKgipR1sUEtQP2bcxaosK49cs4ymvUNmhdh0D5BKEKgiBStAeqjnfV1hf/fioYBHs6onFWGABmDnGK+z1sDTz+5nAEJf+guAjxH5X1KzWjly1exCaXF+4V21XUHkxpQ0akUKVMFj0PevFurUuJZOkGIqeV76j46sUX61r9aVkbaH/ZLmSjsg2LxFnT/4vfJCCOr6yGh8VFsw8pJiaSEQQ0v1Ju4ZLtXLaRCv+7DpxgH+LaBmyggvuNMRTFwchNHkTffgKCz/DpWtZUMiZ7HOaBziZrqRNPaAQwCQErqq3BCvACC39cpYuM46A==;4oa/TRY6BjDyS3A4s3llbg=="
+secured: "Fc7Upoq/fr80ZQbDFcmMyExIPmoIIEVuv/YssKa2kkkkDP46+k4oa3fD45gjZADm6fJ4HAzXVqQpOHUL00WT2bas+NI0min+AH4xDeheFOvhf019Qet4a4HhM4FNmJsY3CUNFevzf57W8pGZd9Y8WGnKEU1wKDq3ES5I+I8opprKzksAE/NkSJ1CPUgDAZpcf6iDh9PYYKN43MYuTB0xn8bRq/qToPDfa6ixusNvSTiV1YTePZF6c9kttnpz/OkNMpMkoUUu+bl/aoJmHTCypv9h896mHBmophmp0r5NYL+ULsXOBsGY3JlbedyefEEmer/NJvRZzD11351v8XSnYDouOqZLqgV8WAmEXUx70Ys=;WCBQRSPVlJgBOxMpIC139w=="
 ---
 

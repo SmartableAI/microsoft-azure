@@ -5,8 +5,8 @@ excerpt: "At Microsoft Ignite, we announced new Microsoft Azure Migrate assessme
 publishedDateTime: 2020-03-10T10:00:09Z
 webUrl: "https://azure.microsoft.com/blog/plan-migration-of-physical-servers-using-azure-migrate/"
 type: article
-quality: 116
-heat: 156
+quality: 106
+heat: 146
 published: true
 
 provider:
@@ -38,7 +38,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 114
+    quality: 104
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/5e1ed9d8-5fd5-45d0-9a03-1a6c9a8b2da0.png"
         width: 1024
@@ -52,8 +52,8 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
+    quality: 7
 
-secured: "kTfwVrkKqSPoc/ytwW2VLWDNRtH4195UHaqE5xiecHs0yQ081RSy+T0EBs2qjm5tevD6N/5UvGEKj0HXXa6lDiAlOObFQiO6s3pPjocpg4wpUaegYEWIiISqbbIQHUSBXW7BCCe5cTIv8g6tpgdLWeNh8GrJBxKrPYvjl7ga9WCK1NKJWHOZ9udjYVcGe2IqGX6nToGsDgn/U0tTmhwF/SGTUJn0Lt2psFPQIxotypsMfSAI+B3fBK0MpNoNB3/bE20VbpllrgedPYtSGufkpSgWSVF1ec8B+SJCBmjvmpfyldMr3OlQP9kJzxRvDireFBJrm2xSTVHJ7/bjPMd0eQ==;k8HTdm4Yr7yb/OcCr5vStQ=="
+secured: "bWyEgCwm23YS6V+iXlhmqWKkcjfqvLV5TP1xzORiYKA6/VelHNxpFxYQmW70QCdPlCc58NcjWqTpfzObwZQcKGj+0cqXiYykIX5jVZC6jqOIzuTwvdRx4bEKsAS22x84gB11IY5ApEtE2qQL5bKgkb7iCrZLQj6LhtDx0WWzxodg2r0Y1ktUuRhJzwy/l+GFEE1Ejz7sSvptl8pOvaOdLMaeGi7aXcG8bjw/QdlZqebgULW6QbfRGgt9Fo0qz53MhXL2mGGxELaKREQwf1WAnSSF6OVyPBDCFcPjUIfF1u9umgKqbijno5TlpO/isUSvofSEAoZrEZeol48ligGlbw4MRvfUU8TAhlKEyIHhuAw=;Po8OIXU9Z0NqYYY4mmVCww=="
 ---
 

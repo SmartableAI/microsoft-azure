@@ -5,9 +5,9 @@ excerpt: "The global health crisis has transformed the way we work and live. Rem
 publishedDateTime: 2020-05-13T08:00:39Z
 webUrl: "https://azure.microsoft.com/blog/migrate-to-azure-save-now-be-future-ready/"
 type: article
-quality: 79
-heat: 79
-published: true
+quality: 69
+heat: 69
+published: false
 
 provider:
   name: Microsoft
@@ -21,6 +21,6 @@ topics:
   - Azure
   - Migration
 
-secured: "IH4hiAFtcyOugKKZM8Qss3+9tjfPFh6vcuoBgFBqIQ4JRlXP1l9NAtWQEH7vfXBRiYfrY7/ZbydQP7oIH73XvCRZgMa1yrC87n8fH/YrqPA0Bwex5E4UcZKvb4lYc4i+FMkgyxdsI18Qa4A2xcYXf1zNajaZ+dDNGL0DVEzvsY83e3QXPCKdhszhTzELyCm0jSNO9Eb+YgHI4JeMMyf4tnr08qWOb+4ycxLt7rRrVSoXVVdV8vB/9SSKvn02hmM0cQwGkm8DZb0iaPuC2TMQlmXiwt5CvBFS0c0FTHUDK2CcypTtNwtC1eCG3edJ6+ZwGlLKt4MJm8oj1a1YxAMoIw==;BiTZYFhJqh4mfIJy4xxFHw=="
+secured: "yd+qC4Sos1nulq0Z6EZTtvNynkQiuuTIk1SE7digKhyi9OX/9Frxwir51WQkeMqcJ1dQo4X+b3jY8rN2UuYRDOYOo5BsyRCzpzy2Q3lhmtC51BOXxmAW8TjvcqOxOJBm8If+WE5TUEMnKUQS9F6ErKwQHvXEy0BdpTKOfJEIspHhpxNdhVp6P9NiSNr6JlzEfjXR9EnlYvAXh/7X29FZZDwjtZl3TO7VITdpqVlrYaSCx4X35NQAXQQsFPKszj0Lk9PbzG8Prwi9h3RumGlYSA/dV8r4wFzx5LNtbtrGkA8fGUqFDUwVBDK2OIiAEtzBOuZIYdT6/Lanv7FrMsCoOBKTZACp0IP/omzjYlbxcks=;JJ6X+E0Q3x6+eDq5wmqIQQ=="
 ---
 

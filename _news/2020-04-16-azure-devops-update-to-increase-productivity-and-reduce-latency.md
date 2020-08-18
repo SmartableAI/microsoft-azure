@@ -5,9 +5,9 @@ excerpt: ""
 publishedDateTime: 2020-04-16T23:00:39Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-devops-update-to-increase-productivity-and-reduce-latency/"
 type: article
-quality: 77
-heat: 77
-published: true
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Microsoft

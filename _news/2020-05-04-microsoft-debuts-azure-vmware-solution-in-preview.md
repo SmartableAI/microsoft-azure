@@ -48,7 +48,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 79
+    quality: 69
   - title: "Microsoft announces next generation of Azure VMware Solution"
     excerpt: "Microsoft today announced the preview of the next generation of Azure VMware Solution which allows you to seamlessly move VMware-based workloads from your datacenter to Azure. This is the official solution supported by Microsoft and endorsed by VMware."
     publishedDateTime: 2020-05-04T18:41:00Z
@@ -123,6 +123,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Microsoft Announces Azure VMware Solution Preview"
+    excerpt: "The long and winding road to run VMware virtualization tech on the Microsoft Azure cloud has taken a new turn with a preview of an updated Azure VMware Solution announced this week."
+    publishedDateTime: 2020-05-05T17:21:00Z
+    webUrl: "https://virtualizationreview.com/articles/2020/05/05/azure-vmware.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 37
+    images:
+      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/IntroImages2019/BlackWhiteDotsWavePatarn.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Microsoft Azure Adds Another VMware Option to the Multi-Cloud Mix"
     excerpt: "It’s called multi-cloud deployment, and it gives operators options even if they don’t always need them. Up until this week, these operators actually had one option from Microsoft for extending their VMware virtual machine environments onto Azure infrastructure,"
     publishedDateTime: 2020-05-06T18:44:00Z
@@ -192,20 +206,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1154590/Research_Solutions_Reprints_Desk_Logo.jpg?p=facebook"
         width: 2542
         height: 1331
-        isCached: true
-  - title: "Microsoft Announces the General Availability of Windows Server Containers, and More for AKS"
-    excerpt: "Microsoft launched a preview of Windows Server Containers in Azure Kubernetes Service (AKS). Now the company announced the general availability of Windows Server containers in AKS, including the support of private clusters and managed identities."
-    publishedDateTime: 2020-05-05T11:23:00Z
-    webUrl: "https://www.infoq.com/news/2020/05/windows-server-containers-aks-ga/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 12
-    images:
-      - url: "https://cdn.infoq.com/statics_s2_20200602-0333/styles/static/images/logo/logo-big.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Avid Announces New Five-Year Agreement with Microsoft Azure to Bring More Media Companies to the Cloud"
     excerpt: "Over the course of the new five-year strategic alliance agreement Avid will continue to develop and deploy its cloud-based solutions on Microsoft Azure. Since launching their initial collaboration ..."

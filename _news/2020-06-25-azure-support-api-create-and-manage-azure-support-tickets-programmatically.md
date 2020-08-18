@@ -5,8 +5,8 @@ excerpt: "Large enterprise customers running business-critical workloads on Azur
 publishedDateTime: 2020-06-25T10:00:29Z
 webUrl: "https://azure.microsoft.com/blog/azure-support-api-create-and-manage-azure-support-tickets-programmatically/"
 type: article
-quality: 99
-heat: 99
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "Azure Support API: Create and manage Azure support tickets programmatically"
 
-secured: "vqTnNrbVQiDOctJsn04tKZ8+QZB8blT+I+XZ6YaKIRtdd5YZ0RkQT8FdpziJduvN9X39c8WvZTHJ1FmmmbCLlUnF/WhTxfTv34o8wbu7WwttbN0iPo+h//1aOAAbh2SfN34jSDrdBrS62q/R6rUSWTPC2XO1BmoS/R/Vj0e5jun7Pzpz0WABax6jO6LKOAMeZgehAt8DrEuvM2b3nIkjJT8s2Uqmwur57vMg46t8tFJOrdDTCcPZUepM208hJqp0j6BiKED/QhJhQs+9LRzJVXbRefNgHa65OJNSIFXTxHqq6k3PfcsiyBofSoOkOMLVsdHyV8WEHleIKI4PVeMfvg==;qVQyKVLbYUdJYjpzqkGvKw=="
+secured: "8OZanQOkEUYGIQi09jw08NTqBIwhrjh4PKe1CIMqkXoC5yTyocv1OpaQ+Th6CjPObf0U+kxeS2Jn3yNaYAo1RarKVEodLpD7htJbRVv6ynu4WQqSiyqfI5VxijTXg/5pUIJPKE1Qw4WQKyzTga+NBIkFDaz+oZrbTu+FYgTUBIyA/qpdW7S4ClPiNhgfyhmgE2X/C/Xn7j2tsXa+BqOsV97nV38cpj0yeH6UTEygqIL+neq+ojP9zovoZCAhaIq+fh4L5LguLQcysZUfjRDT4MsDY6CFFJ4oU8cUDlAmr4PinVhhcQBQhVi0CKvYluKYhUl6gQHfEjcQozECH93pvvd8Kw9bJHv+SUI1weLri9k=;UZDHZHIkJh8IudUEPEVhSQ=="
 ---
 

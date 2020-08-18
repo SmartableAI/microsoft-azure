@@ -5,9 +5,9 @@ excerpt: "The maximum vCore limit for Azure SQL Database serverless has increase
 publishedDateTime: 2020-06-10T20:00:15Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-database-serverless-increases-compute-autoscaling-limits-over-2x/"
 type: article
-quality: 70
-heat: 70
-published: true
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: Microsoft

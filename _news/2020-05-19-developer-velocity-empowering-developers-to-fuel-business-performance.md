@@ -5,8 +5,8 @@ excerpt: "Developers have been drivers of innovation and transformation for deca
 publishedDateTime: 2020-05-19T08:00:16Z
 webUrl: "https://azure.microsoft.com/blog/developer-velocity-empowering-developers-to-fuel-business-performance/"
 type: article
-quality: 62
-heat: 62
+quality: 2
+heat: 2
 published: false
 
 provider:

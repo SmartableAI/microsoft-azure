@@ -5,9 +5,9 @@ excerpt: "The Azure Sphere OS update 20.07 is now available for evaluation via t
 publishedDateTime: 2020-07-15T23:00:32Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-update-2007-is-available-for-compatibility-testing/"
 type: article
-quality: 77
-heat: 97
-published: true
+quality: 17
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -29,7 +29,52 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 67
+  - title: "Azure Sphere update 20.04 is now available"
+    excerpt: ""
+    publishedDateTime: 2020-05-05T17:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-update-2004-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure Sphere update 20.05 is now available for compatibility testing"
+    excerpt: ""
+    publishedDateTime: 2020-05-14T21:00:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-update-2005-is-now-available-for-compatibility-testing/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure Sphere OS update 20.06 is now available for compatibility testing"
+    excerpt: "The Azure Sphere OS quality update 20.06 is now available for evaluation via the retail evaluation feed. The release includes an OS update and an updated Linux SDK."
+    publishedDateTime: 2020-06-12T20:00:24Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-update-2006-is-now-available-for-compatibility-testing/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure Sphere OS quality update 20.06 is now available "
+    excerpt: "The Azure Sphere OS quality update 20.06 is now available in the retail feed. "
+    publishedDateTime: 2020-06-26T19:00:42Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-quality-update-2006-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure Sphere update 20.07 is now available"
+    excerpt: "The 20.07 feature release contains new features for application development and tenant certificate renewal, additional promotions of beta features to long-term stable (LTS), and enhancements to improve stability and troubleshooting of device connections on Windows platforms."
+    publishedDateTime: 2020-07-29T23:00:32Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-update-2007-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
 
 secured: "PC+/r1KLOeBuVLDGvffPeB2LhekTNlbUs+nhsPX/8WuKZpqvRPLu9C3GhGlEOdCJFkGpG2u90z1RYP335H1xNnSyQFterrAWi4viP3dbWrBdJ3PYKs6oHNbe7vW0hrAmN9z7gwbZJy7VR/BXSrRFgIipDZ0esklX7G0Dzv6/jXrAvMh1Q55zyJhy6JKj9Htl3yvBTlHS7UwthJGiyRrC8bumS233XOv5EBAAk71jySRvkB8/7ZyXn9S92TTef54Q+pbNcfeoIX7W4icgxk/TJ9dMdFhlSKb2L4sB7k8ptqJ0yX8M3dqpnoP+igdBKH2UQnGN+aZeM94yt+ojTR9+pg==;+OiqOcLobwZWDGj16QyEjw=="
 ---

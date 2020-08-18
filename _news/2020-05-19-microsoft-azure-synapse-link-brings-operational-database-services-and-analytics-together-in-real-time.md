@@ -26,33 +26,61 @@ images:
     title: "Microsoft Azure Synapse Link brings operational database services and analytics together in real-time"
 
 related:
-  - title: "Learn how to deliver insights faster with Azure Synapse Analytics"
-    excerpt: "Today, it’s even more critical to have a data-driven culture. Analytics and AI play a pivotal role in helping businesses make insights-driven decisions—decisions to transform supply chains, develop new ways to interact with customers, and evaluate new offerings.\r\n\r\nMany organizations are turning to cloud"
-    publishedDateTime: 2020-05-12T11:00:20Z
-    webUrl: "https://azure.microsoft.com/blog/learn-how-to-deliver-insights-faster-with-azure-synapse-analytics/"
+  - title: "Matillion launches Matillion ETL for Azure Synapse empowering users with data transformation capabilities for rapid access to insights"
+    excerpt: "Empowering enterprises to achieve faster time to insights by loading, transforming, and joining together data, the release extends Matillion’s product portfolio to further serve Microsoft Azure customers. Enterprises that use Azure Synapse to merge insights from data warehouses and data lakes need a data transformation solution that can pull ..."
+    publishedDateTime: 2020-05-14T12:08:00Z
+    webUrl: "https://sdtimes.com/matillion-launches-matillion-etl-for-azure-synapse-empowering-users-with-data-transformation-capabilities-for-rapid-access-to-insights/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 97
+      name: SD Times
+      domain: sdtimes.com
+    quality: 45
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/0adb1254-ac39-4dcf-8405-8a453b2ff566.png"
-        width: 1024
-        height: 576
+      - url: "https://sdtimes.com/images/sd-premium.png"
+        width: 628
+        height: 246
         isCached: true
-  - title: "Azure Synapse Analytics: Insights for all"
-    excerpt: "In November we announced Azure Synapse Analytics—a limitless analytics service that brings together enterprise data warehousing and big data analytics. Despite the massive disruptions occurring throughout industries in recent months, we continue to see a high level of excitement and enthusiasm for joining"
-    publishedDateTime: 2020-05-21T08:30:41Z
-    webUrl: "https://azure.microsoft.com/blog/azure-synapse-analytics-insights-for-all/"
+  - title: "Microsoft Announces New Azure Regions in Europe to Accelerate Digital Transformation"
+    excerpt: "And at the same provide a high level of security, data residency, and compliance. The new region will provide Polish businesses and organizations with Microsoft Azure, Microsoft 365, Dynamics 365, and Power Platform. A few days later on May 8 th, Microsoft announced a $1.5 billion five-year investment in Italy. The plan is dubbed Ambizione ..."
+    publishedDateTime: 2020-05-15T13:13:00Z
+    webUrl: "https://www.petri.com/microsoft-announces-new-azure-regions-in-europe-to-accelerate-digital-transformation"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 97
+      name: petri.com
+      domain: petri.com
+    quality: 30
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/19cd7b32-501a-4032-8fa8-ed2bd9a28d03.gif"
-        width: 1600
-        height: 900
+      - url: "https://www.petri.com/wp-content/uploads/sites/3/2016/08/Microsoft-Azure-cloud-hero.png"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Open Systems augments its cybersecurity capabilities with acquisition of leading Microsoft Azure Sentinel expert"
+    excerpt: "Its \"SWAT team\" of architects, engineers and developers enables enterprise customers to securely achieve their cloud automation, strategy and migration goals with the Microsoft Azure cloud platform."
+    publishedDateTime: 2020-05-20T22:11:00Z
+    webUrl: "https://www.lightreading.com/security/open-systems-augments-its-cybersecurity-capabilities-with-acquisition-of-leading-microsoft-azure-sentinel-expert/d/d-id/759821"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 16
+    images:
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
+        height: 600
+        isCached: true
+  - title: "Matillion Launches Matillion ETL for Azure Synapse Empowering Users with Data Transformation Capabilities for Rapid Access to Insights"
+    excerpt: "Matillion, a leading provider of data transformation software for cloud data warehouses (CDWs), today announced the availability of Matillion ETL for"
+    publishedDateTime: 2020-05-12T15:21:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/matillion-launches-matillion-etl-for-azure-synapse-empowering-users-with-data-transformation-capabilities-for-rapid/article_7b962a36-a426-5aed-ac9e-04ed7242d321.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 5
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "xiVthWT8SlKl4un1RnRriB+41n5D/BdGObMYsbMIhzLC5qntoIy3t2pG89kMgVX7KNftIXQI2piB7AlXkqNQKiQ4AI/RUzBGZ46Ss0/AwT7NnBD6apEejymL+KzRWH38tmGyXLabcofExCwHTYT9mSEnwJjjdfeo/foMX02+Lpw+URvGw2p4M8i2bnJ/5QoaaA1alrGa2X0IUmGHNKDb61CgRdEILbV34Sv0o7srpdaP1Y6t+5oCznGB8Dvv0K899/pe+UEOlrdKmexjjV1iPH61lbAdmAE5HZvfPsw0jB9VBpcr7K6iQUJ5sDhu2Q9y3d5u7ZUSG3k+oYZAfFRbtX6C1OdBnML0lKxsccy8xl+aDzdL0zexiICsusWqnixFhCqDx1d0kO2ePHoF2Nt91npezjFoM1te3bQA8szVoSaKfJMWMT7YqsOlKV52X+m1KvMSJ1ML72ugYTcl0CoSu2C4UTXqrEhk08Sm4MgckP4=;I00VVGYnP2Rw0wj6F+0p+Q=="

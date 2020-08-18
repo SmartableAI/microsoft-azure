@@ -5,7 +5,7 @@ excerpt: "In response to customer feedback, .NET Core support for Azure Analysis
 publishedDateTime: 2020-07-10T00:23:39Z
 webUrl: "https://azure.microsoft.com/en-us/updates/net-core-support-for-azure-analysis-services-client-libraries-is-in-preview/"
 type: article
-quality: 74
+quality: 14
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure App Service support for GitHub Actions is in preview"
     excerpt: ""
     publishedDateTime: 2020-04-29T16:00:01Z
@@ -38,25 +38,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
-  - title: "Azure Kubernetes Service upgrade improvements are now in preview"
-    excerpt: "Two new AKS upgrade capabilities that will improve the granularity and efficiency of regular Kubernetes upgrade operations are now in preview."
-    publishedDateTime: 2020-06-10T16:00:24Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-upgrade-improvements-are-now-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Public preview: CSI storage driver support in Azure Kubernetes Service "
-    excerpt: "Azure Kubernetes Service (AKS) now supports Container Storage Interface (CSI), a standard for exposing arbitrary block and file storage systems to containerized workloads on Kubernetes. This offers more flexibility in exposing storage systems in Kubernetes."
-    publishedDateTime: 2020-08-17T23:02:45Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-csi-storage-driver-support-in-azure-kubernetes-service/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: "Azure Kubernetes Service (AKS) support for proximity placement groups is now available"
     excerpt: "Better support for latency-sensitive workloads in critical business scenarios."
     publishedDateTime: 2020-06-24T16:00:42Z
@@ -65,7 +47,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 69
+    quality: 9
 
 secured: "aKlpymCPPxnT7c1AtkLAHx5CA1fgnh+WbbY5GzB/pCygGyN+lFxfjRhRBOMYsFbj3oMeGfD1csxvhnr4/UOqOnmtO+RXmsQl1bBGXO3NJtLzUjjZJ0T1AhqBxi21EYPm5YacM4w+xvaiXcj12DQ7QBvsp0CHoRQFAAhVJMAriq8fgEx+JSN5mzsz3TSeK+uyIDBx/XMsKiZthONNisHOko/d3fpiaqtnv+PsIzwSKFTGvOA296pmtIgxl7HGrhL3iL4DgWK7mdGJ7HmMgipoDrwzyHAIijP95+kjkeq9ra4KqYQ6hw1VKSx5b3WaHXLqg86LDQpOcu1aPglTMeKeXw==;YecyKpbDbGpwqrnmkrz22g=="
 ---

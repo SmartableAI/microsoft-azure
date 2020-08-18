@@ -5,8 +5,8 @@ excerpt: "As Mark mentioned when he authored the Advancing Reliability blog seri
 publishedDateTime: 2020-06-29T09:00:20Z
 webUrl: "https://azure.microsoft.com/blog/advancing-azure-service-quality-with-artificial-intelligence-aiops/"
 type: article
-quality: 99
-heat: 99
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Advancing Azure service quality with artificial intelligence: AIOps"
 
-secured: "MUateBh5o5FNMGz4MyTMMBuEUnkLTtXnWoD5b1nf8q/QWKi3AyMVAasXkVnbmyqSmz4NIvOkskClAJ0TbQ+5uolkyw0txyYz0A64kmNRA11wiXNquNPSHbD3tTxQ07LOI4dultwOMhdttU9eTGY5Wv378cAuttbYjqi9tExNZRumr0mg9KeeHyQSg69DDNUWMyz7oKA6uumNXU87HbedgAIJKyjhPjwiOp/7QXaoBHNya/zFo0Ps4zvweu9rfWq51U12hivIB6Xn8305lr4ng+ySwDZGZKJtDNv6fIPSx66j6yvdGmXY0aawVuQoG2QXwBHxmfSOS8bqofb6qcXaCA==;6i0rfezbTet9CLHEKAejlg=="
+secured: "GagmHWk4ElKR61cXyAlWrJ7jOmv3ORAAc8Y8puTM2Ql6/h3nyxXVfxewPFr3sv7vm6iiARXZejFX1YCEdi4Wq5JKDvl2an57ETq7wUw6kb+T/Sprrq7pAmSMJ1o25HHAabSlDBoTZILQOJWSjoxqf9SRxtR1xFlmHzi6gEedm3L5FjHwTACb+4ivJ5tVXHgamzNTQ6JMBT0Ra/tvJRICafRFuJF/EJhH+fMtOJhmVgwzxnzU7KflBr1K0FsuVw4kq+Vn5sErHKWwGG5IbIn5P0Qu/paMCJ50u/u1YYICJbSloKJcGpe7Wzs1rvIarIS/fMmh+uvr55XkrYlWX678Jw/zk6MgGP3PxXCt/mU+8eg=;GPgs1g/vCFsw56+mDnGYzQ=="
 ---
 

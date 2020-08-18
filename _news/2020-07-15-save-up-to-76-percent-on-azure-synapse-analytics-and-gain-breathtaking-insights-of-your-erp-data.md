@@ -5,9 +5,9 @@ excerpt: "To help customers save on data warehouse migration costs and accelerat
 publishedDateTime: 2020-07-15T09:00:28Z
 webUrl: "https://azure.microsoft.com/blog/save-up-to-76-percent-on-azure-synapse-analytics-and-gain-breathtaking-insights-of-your-erp-data/"
 type: article
-quality: 84
-heat: 104
-published: true
+quality: 24
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -35,7 +35,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 79
+    quality: 69
 
 secured: "U8xEShXOvYmG9mrYLxMhALdneQC4Y1rJZKrcCH2fraBtBIURVjHTEwkmz3y00R5spnUSpgRAvVo5gV51BjPOUMPsS6xZfAJ+LRKC9RsCmBzB/9UvHAw+Oph3pXvjsPShM0g0WwIfnAUfBkhCWsjy/fO94irHQOheTOgDlHPqzYxcWeDZHiIjsocNIBfFaGsNnQKM2FoqrM/Og/tcKPQUYq1GLenrx9+CL/zLlDq/5Xqml2sUgUi1G9pWUSt+kHM4X9MMQwOgn5JNQH9qMHIHWsE2J5utuh3u+ZyCQqcqIZeNiKfE7wFsIoVvnvnne83FEy+312gIHkZvphDKXztTKg==;zxWCEHvtVOlZzOXyW2151Q=="
 ---

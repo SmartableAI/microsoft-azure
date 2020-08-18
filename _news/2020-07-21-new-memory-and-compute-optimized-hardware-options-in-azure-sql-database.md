@@ -5,7 +5,7 @@ excerpt: "M-series, a new memory-optimized hardware option, and Fsv2-series, a n
 publishedDateTime: 2020-07-21T21:22:34Z
 webUrl: "https://azure.microsoft.com/en-us/updates/new-memory-and-computeoptimized-hardware-options-in-azure-sql-database/"
 type: article
-quality: 76
+quality: 16
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 101
+    quality: 91
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/ca2b2a4f-0ac3-45a8-81e1-c8af06bd8518.jpg"
         width: 709
@@ -43,7 +43,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 72
+    quality: 12
 
 secured: "sK5wpAbtZ9NoWR6Am8Kgd6wkU4k+9A73IaEYZ5h2uL4bYkEBFCgB8yvQ09Jnz0Exl+YRJ46qOHyRQpLz9/AHwp2LRHA04JnvRcSvhRK1AEiptrc5O8AW7cLXmNne9LKnJ8oVYpaPRrkQfQcQ0wsw2NCTiik7GYvRjDnUItsUrwXf+8/n4I8ybM2AdT1dGIprS2/HdNzToWTi5zOYMpOKvU2pV577kcNeyjYMJfzVCp7wN06BtGlT+2HBSj6lqObrY29BWtdTS3ZTTAw3Ku13dH5hvPzMKM5+APFYEaQNTQJToGRFi1EJzkOJqwxRUmi9I0Bj8ul1yTB3WbU5ZcMQhA==;1jtua94vWBtgVM+0oSWayQ=="
 ---

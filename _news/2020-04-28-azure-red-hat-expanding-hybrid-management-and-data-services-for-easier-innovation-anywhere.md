@@ -5,9 +5,9 @@ excerpt: "For the past few years, Microsoft and Red Hat have co-developed hybrid
 publishedDateTime: 2020-04-28T08:00:39Z
 webUrl: "https://azure.microsoft.com/blog/azure-red-hat-expanding-hybrid-management-and-data-services-for-easier-innovation-anywhere/"
 type: article
-quality: 86
-heat: 146
-published: true
+quality: 26
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -28,15 +28,6 @@ images:
     title: "Azure + Red Hat: Expanding hybrid management and data services for easier innovation anywhere"
 
 related:
-  - title: "Announcing the general availability of Windows Server containers and private clusters for Azure Kubernetes Service"
-    excerpt: "Today’s application environments are often heterogeneous, composed of both Windows and Linux applications. Using Kubernetes to host containers on both Windows Server and Linux not only saves costs but also reduces operational complexity. Many Azure customers have demonstrated this with their usage of"
-    publishedDateTime: 2020-04-28T09:00:40Z
-    webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-windows-server-containers-and-private-clusters-for-azure-kubernetes-service/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 57
   - title: "Microsoft Azure Arc will support OpenShift and Red Hat Enterprise Linux"
     excerpt: "During Ignite 2019 keynote last year, Microsoft announced Azure Arc that brings Azure services and management to any infrastructure. With Azure Arc, you can manage Linux and Windows servers, as well as Kubernetes clusters on any infrastructure across on-premises, multi-cloud and edge. Azure management capabilities like Azure Resource Manager ..."
     publishedDateTime: 2020-04-28T17:50:00Z
@@ -67,6 +58,15 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "Azure Monitor for Containers support for Azure Red Hat OpenShift 4.X & OpenShift 4.X in preview"
+    excerpt: ""
+    publishedDateTime: 2020-04-29T19:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/aro-openshift4update/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 5
 
 secured: "DJNeSWcjRjRtKxjJpqms+526kb+WRivyiUSJ2TTDzpWPtXBgZicWqrPP+RYtf08y2ld6CVKpQEZTY8em45uVAErnh/LbcTBg72N++jIT/vfv8ogXyTgNNFJL1Y6MEPXM3jkznQanP5XRCTP76kNY7x8DLzDEocltlUVxsxet85agbcJz283u3CozzNe1T4yHcQKJejj8oG3wspKDnb7nB/BeGYSx6gOkjWY9CXMf3uikTQvE/ol6F9QZAS0FZK0luMQoGjIiQL86Dod5D/NJThnvqP5SABSEmJiC4SZpNa1hXRBdDxD9P37hEnqWXSJ6yhppN48rNuvBp9CATBp7jA==;V3rk7fj9kP1KDP3oY8r1Gw=="
 ---

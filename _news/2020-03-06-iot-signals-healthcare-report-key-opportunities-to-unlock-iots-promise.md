@@ -5,9 +5,9 @@ excerpt: "The cost of healthcare is rising globally and to tackle this, medical 
 publishedDateTime: 2020-03-06T08:00:16Z
 webUrl: "https://azure.microsoft.com/blog/iot-signals-healthcare-report-key-opportunities-to-unlock-iots-promise/"
 type: article
-quality: 78
-heat: 78
-published: true
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: Microsoft

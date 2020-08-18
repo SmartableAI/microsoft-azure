@@ -5,7 +5,7 @@ excerpt: "Effective August 1, 2020, the meter name of Visual Studio Online will 
 publishedDateTime: 2020-07-01T00:00:38Z
 webUrl: "https://azure.microsoft.com/en-us/updates/visual-studio-online-meter-name-change/"
 type: article
-quality: 62
+quality: 2
 heat: -1
 published: false
 
@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
   - title: " Azure Maps private atlas meter names will change on August 1, 2020"
     excerpt: "The meter names of Azure Maps private atlas will change on August 1, 2020."
     publishedDateTime: 2020-07-01T00:00:37Z
@@ -38,7 +38,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
 
 secured: "vcjY2HNjGXAGN4BoLvY1WBpqVQILJRTFrVLq9w9aN4WXzhUNa8cHOl0nH7nm3QAeNaNE02MfgBhTVoNwnkdQuhuOXvlYusiP57Fx98gedjf3WX9YMtispeVwOq4Emnnm0Rz6vAjM+02PhtzAz/9axfOZsx48b8p6voZ2BzLdFDRY3k5dZBbe8Dein9mopIczD2QgPkHZsPMbnbtGc8LPos3gmM6j5FOS5BoQdin1NSOHYNuPDaZ3MeVdb578Q1SlQgtcTe6Nyisos9Nza2ERIVMkQUgr35e/weWclob41EXb/3VvRwwdzWPoDhym95VPPTwjiJAcqeNigvnW0W6Q3A==;/L7NBuguuP4RJ0XVd5Snqw=="
 ---

@@ -5,9 +5,9 @@ excerpt: ""
 publishedDateTime: 2020-06-10T16:00:17Z
 webUrl: "https://azure.microsoft.com/en-us/updates/data-encryption-with-customermanaged-keys-for-azure-database-for-mysql-in-preview/"
 type: article
-quality: 77
-heat: 237
-published: true
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Microsoft
@@ -29,16 +29,16 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
-  - title: "Data encryption with customer managed keys for Azure DB for PostgreSQL-single server "
-    excerpt: "Data encryption with customer-managed keys for Azure Database for PostgreSQL-single server (generally available) enables you to bring your own key (BYOK) for data protection at rest. "
-    publishedDateTime: 2020-08-10T16:00:07Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/data-encryption-with-customer-managed-keys-for-azure-db-for-postgresqlsingle-server/"
+    quality: 17
+  - title: "Announcing server-side encryption with customer-managed keys for Azure Managed Disks"
+    excerpt: "Today, we're announcing the general availability for server-side encryption (SSE) with customer-managed keys (CMK) for Azure Managed Disks. Azure customers already benefit from SSE with platform-managed keys for Managed Disks enabled by default. SSE with CMK improves on platform-managed keys by giving"
+    publishedDateTime: 2020-04-02T08:00:22Z
+    webUrl: "https://azure.microsoft.com/blog/announcing-serverside-encryption-with-customermanaged-keys-for-azure-managed-disks/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 70
+    quality: 14
   - title: "Azure Database for PostgreSQL support for encryption at rest using customer-managed keys"
     excerpt: ""
     publishedDateTime: 2020-06-09T19:00:01Z
@@ -47,7 +47,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 68
+    quality: 8
   - title: "Transparent data encryption with customer-managed keys for Azure SQL Database Hyperscale"
     excerpt: ""
     publishedDateTime: 2020-06-10T16:00:20Z
@@ -56,16 +56,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 68
-  - title: "Data encryption with customer managed keys for Azure Database for MySQL is now generally "
-    excerpt: "Data encryption with customer-managed keys for Azure Database for MySQL enables you to bring your own key (BYOK) for data protection at rest. "
-    publishedDateTime: 2020-08-10T16:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/data-encryption-with-customer-managed-keys-for-azure-database-for-mysql-is-now-generally/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 68
+    quality: 8
   - title: "Azure server-side encryption with customer-managed keys now available for Azure Ultra Disks"
     excerpt: ""
     publishedDateTime: 2020-05-27T16:00:04Z
@@ -74,7 +65,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
+    quality: 7
   - title: "Azure SQL Database Hyperscale—Transparent data encryption with customer-managed keys now in preview"
     excerpt: ""
     publishedDateTime: 2020-06-01T20:00:12Z
@@ -83,16 +74,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 63
-  - title: "Azure Database for MySQL support for encryption at rest using customer-managed keys now in preview"
-    excerpt: ""
-    publishedDateTime: 2020-06-08T16:00:20Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-encryption-at-rest-byok-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 63
+    quality: 3
 
 secured: "0QtbF6tP/GkY3KVM7jITPuDbHcx4NObsroo9CPghokO70Pn7ZkzrAWMZB6ku/yi/rt6UKjz7zZalBI9gNh+RPj68nXdSQpqFHbK9VklTPVa7yXmT8HcfNP2EeF+py6Wd9HEOn+Re9GpgbzPG3C9CMDb9NSgD+bLPzH8Rp1+714CtpOpAkhI/nj9GRIvlLvdcKyaWfrto6YVdWKszmsKHfWC/Mhcs9y1wWUYGW3IfL36Dkbdna6y/kyXUb5s732INoRgS6nHRm3ULFOJ1Rht8grIkV4zTNHxdjwFVPJ4gyhRXIcKch0go/aeSQOqatov/G/SRIioKndzQzw0gkEox1w==;3icd720wfzGAp4wjADPvbQ=="
 ---

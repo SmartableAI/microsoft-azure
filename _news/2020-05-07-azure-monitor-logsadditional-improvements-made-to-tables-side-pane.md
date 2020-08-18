@@ -5,9 +5,9 @@ excerpt: ""
 publishedDateTime: 2020-05-07T01:00:15Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-log-analytics-tables-side-pane-additional-improvements/"
 type: article
-quality: 97
-heat: 97
-published: true
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Microsoft

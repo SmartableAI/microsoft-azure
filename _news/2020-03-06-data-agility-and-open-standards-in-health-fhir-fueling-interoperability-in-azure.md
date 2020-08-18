@@ -5,9 +5,9 @@ excerpt: "Data agility in healthcare; it sounds fantastic, but there are few dat
 publishedDateTime: 2020-03-06T08:00:29Z
 webUrl: "https://azure.microsoft.com/blog/data-agility-and-open-standards-in-health-fhir-fueling-interoperability-in-azure/"
 type: article
-quality: 74
-heat: 74
-published: true
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Microsoft

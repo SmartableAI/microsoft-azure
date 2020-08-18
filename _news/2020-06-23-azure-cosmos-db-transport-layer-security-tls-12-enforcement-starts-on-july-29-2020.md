@@ -5,8 +5,8 @@ excerpt: "Azure Cosmos DB will start enforcing transport layer security (TLS) 1.
 publishedDateTime: 2020-06-23T00:00:56Z
 webUrl: "https://azure.microsoft.com/en-us/updates/cosmosdb-tls-12-enforcement/"
 type: article
-quality: 69
-heat: 69
+quality: 9
+heat: 9
 published: false
 
 provider:

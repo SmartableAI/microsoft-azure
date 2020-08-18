@@ -5,9 +5,9 @@ excerpt: "Machine Learning Services, a feature of Azure SQL Managed Instance, pr
 publishedDateTime: 2020-07-21T21:19:04Z
 webUrl: "https://azure.microsoft.com/en-us/updates/machine-learning-services-on-azure-sql-managed-instance-is-in-limited-preview/"
 type: article
-quality: 74
-heat: 74
-published: true
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Microsoft

@@ -5,9 +5,9 @@ excerpt: "HPC-optimized virtual machines now available\r\n\r\nAzure HBv2-series 
 publishedDateTime: 2020-02-27T09:00:01Z
 webUrl: "https://azure.microsoft.com/blog/azure-hbv2-virtual-machines-eclipse-80000-cores-for-mpi-hpc/"
 type: article
-quality: 114
-heat: 114
-published: true
+quality: 54
+heat: 54
+published: false
 
 provider:
   name: Microsoft

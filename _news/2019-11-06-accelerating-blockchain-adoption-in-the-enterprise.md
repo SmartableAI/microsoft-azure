@@ -5,7 +5,7 @@ excerpt: "\r\n\r\nThe mission for our blockchain investments has remained steadf
 publishedDateTime: 2019-11-06T07:00:18Z
 webUrl: "https://azure.microsoft.com/blog/accelerating-blockchain-adoption-in-the-enterprise/"
 type: article
-quality: 79
+quality: 19
 heat: -1
 published: false
 
@@ -30,7 +30,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 99
+    quality: 39
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/77b8d4b9-ee3e-47f1-aed3-55a42d4385af.jpg"
         width: 1430

@@ -5,9 +5,9 @@ excerpt: "Wildcard indexes in the Azure Cosmos DB API for MongoDB, a popular Mon
 publishedDateTime: 2020-06-24T16:01:02Z
 webUrl: "https://azure.microsoft.com/en-us/updates/wildcard-indexes-in-azure-cosmos-dbs-api-for-mongodb/"
 type: article
-quality: 77
-heat: 77
-published: true
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Microsoft

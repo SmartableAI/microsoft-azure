@@ -5,8 +5,8 @@ excerpt: "Today, we’re delivering the next generation of Azure Stack HCI, an A
 publishedDateTime: 2020-07-21T08:00:33Z
 webUrl: "https://azure.microsoft.com/blog/deliver-hybrid-cloud-capabilities-with-the-next-generation-of-azure-stack-hci/"
 type: article
-quality: 94
-heat: 114
+quality: 84
+heat: 104
 published: true
 
 provider:
@@ -35,8 +35,8 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 77
+    quality: 17
 
-secured: "R3NbnItivO2fukqUOmaF38b5MzsO6+VjekYBMsj5wWXN+MFCfGPgFrO9ne9/lsqqKB13/4Dw/qrp187kxOcBzRJfx6h41LjLh/RwPOA3LfmL0zhrZloOp25L27yC6Mj4t+Mh0jd49drQoSW/+Oy3jhxOgM6rrAM7y45gVEdT3SwmgsRx//uLwUQcumOiPG1C1OIj1cFU8GiAnU1rSDCanxDqKAlZ/c1vIt63/7LH1PVzEjrWEGXV2fD7Duqtrxk5Wym6KJpLC/GYbjG06Nb7ZzY9qV5KutHA17qNQEfV9SJ1LMAy9k6RvH3FtD23N3Ful1zUn6awfNCtAzHvBswmLg==;WutObCqidJoyQjwU0RIBuA=="
+secured: "NFAhgBQb/4MIzljuiuBXMjr/HzLOCixxjUcI5J9RQR3JbM1rJJw3HqgQ7VLvriO41kWYZg/KZbovQvncuxp2GDLhVcVziQwyf0Q6jQHoUlvhcKMYZiFAcKMR4DwZDU1C+U78uxFONoGoMV9BnvIWLUWpbi2t/s3jYvSnaYdBHYAqLU2AMCTtHftUUoD83lJ9UZibH57CMq4io/s2mve6FHqZ+gM6VdYeHIsOYd1f+iy1xtJU4wwfOsbii9yyNDrXVmS9pHOjQGKDiaDsYI0CX3sHQpDMKtQ05YRmr1kwHAhdgMwIYqpdGIrJJGF65raTVsQ18gaPMZWjsS6V2k+Bb961uDryrbBGMULq2izRlok=;rgx3EsglosOPZah2ERcTvw=="
 ---
 
