@@ -8,7 +8,7 @@ length: PT1H32M
 ratings:
   count: 58
   average: 4.827586
-heat: 53
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Create and manipulate tables using the datascience library"
 
-secured: "/HjwGsnJMSPZsT66oLEl9vp6mSTRf8JBgKKyu+qKCZgfmTcHn3QBeGzdyNDlJZtHxgw3E2AXN4+AmlTt4qSZF6hlJBZYTob+eZ2LN5aPb8TIDDku4dj1oUcRc0m+qP+ffdYrSlH6xQLxIXv+URV7FYkOoJ4vZavW+yHJhzQ3PFdZ0JEJRywcYgQlgL4k/EqQrp/bvGY4gu9U195PFQkrVROSJAIuZezmqZF4tKVS3QkPrdvHWfuWVB1+ONaXDKQLVjO48IQNBSM8bP904pQIxJXzQ9ry4DpjJzVHPzoN/tC6foNr/a9bFPElyodNfnsdY+s4JM/Y62gKV9Gkuf+/zdxEhIyBTTJXsAwB/vFdwlmI1N1BqvgxfJXytpQHaiAaZ3sBKqE0wd+SelQFgW6fmg==;QsRuNhgSbnV1YUB96Q1vvg=="
+secured: "z1+DP6rrfPr5u1Gv6c0pMer+KhkJQlbtVP6Tnt9SvNSzHeMmH8TOdg6g3KEYjjM37rWdjmz/daZrmQKoE8B27pvSg1L+/yi4I/z8M9CfPoBYc21HOe3OP5lhTDM2+lw/3jGsMWO1Cc+QRa8gUVF+PERC+4KwOz7jXzSM5x68qeMTkPv0A3KQ4cv9NKntqkzS5r0oCcn7zhoOAShYtVv8i5VHSz+jGMEP9Ox9v2QnOp6OPApL7f8oQ2k4V+Mc9vwe/HrHUedq9wv9ABmYjz/jvKY1rzYrAnDLTax/8VtWvA72VL5FKvDfntU+QCUjQ2IHbpyzq4PI8JVfA7v5FzSPnHFhgIHAdIq2l8hzj/cQWa+991WxENM5Fmaqrauh4/J4daoxoPrlVl2pKDPSGZEKVg==;pxay5qA8LpIaFKFTUcDSmg=="
 ---
 

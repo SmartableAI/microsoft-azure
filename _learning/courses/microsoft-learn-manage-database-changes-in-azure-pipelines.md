@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Manage database changes in Azure Pipelines"
 
-secured: "DoCszbwr89wjOkgc0nkm/QstCGMOuITi9WDkNbJgCQ4hefpGsQaRA4otuYlDDJWvQmH1vwu8YBjI+E5/9/4+GTa9WIFuFL1DTV/e//gdqS1O0w9wWMf9yR7oiMc0juDlz9a+aUCjQtgBHjUXU3CjFEP74KEB6O+4PI5rf7ScJ5NVyP4ocNEAmsBYWCHC+cWYtHTHUNJGgZ8iOMOAbL5/eL87mtN9aa/mNjBz51VV/I/soheDn6vjwHy18+zA/Lg+0kz3Lz/VqOnF5RTl/5lNe6XLfCzzgD7+urb8TbXATzda/LRw67BwYpPq8D7d1mTKJrMbwWU8Nr/Wd2qiWLML7m1O+odsMh2ODMFl2Ps+STgSMZG9qSj2PngZb9M2rd+IxYLoziAJmgNjWAn/r9lrpw==;NuA5MCxlyvqJL7k1woVvSw=="
+secured: "TrL6dmHjuAg3tWR48xL/ssFiuC/V+i2xj8nrD55YUPzLd/IV6DhODJGJ0XHWG/MshfPb7ikS0d6uaenCAiieZk5cjW6YvWwDfMR4AuLjBpxKtt5O/pd+GBQlzXSzVxh09EEnDmpABwWORSP59yDoaisawiMnfIpAK3PbCIf7+xNDF+kmJFda35hF9muaZcGM6G/YnMgI9GEnmoiviGiV30lPoKTEYRTTxt9DXbRicE+5BYqtqvXzk6KV83YqMZSw4MvoGT+F0w9O+mCu0kTIzlpjoZrSiD9IY1Ry00qhz4rF+dBV256B6+q9iYuJiPD75GviRBokTWbR1bl1jMJMk2N1tZkVNXcSRHtU6p3ZBPhEujKIntY7Hz3nr8h+TDwyOR18Pk+TqUmnZbBWEyQUdw==;ZFDU0o2LKH9H1Tb6pqY8Lg=="
 ---
 

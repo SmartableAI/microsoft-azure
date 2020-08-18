@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 51 mins
 ratings:
-  count: 504
-  average: 4.781746
+  count: 505
+  average: 4.780198
 heat: 52
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Define an AI strategy to create value in education"
 
-secured: "+6ab6nTtEce434FonZrblvlRST/rKfKU7A5N2URsi86AXREblxDZg9vNaEwpFeGqXQIHmqKXHl95GhEHB3WxMztlr13fczC0y9kKZOgEoQk27r3Fv52JoX8CpHr7CDBGUXcX527jV3vWH2BWjDH5KXySSiriOMp/vMzzGE8TajqzfBvHHdg8b/NZ2ARQPqO2p8TXcKzjUHHxpRxLtN6oWZX8fwfvcSqxfOxGKZke0JnDiskCtI7q22UOkCfkmAYFB28jOso49bCiUOVsAPh6lFuriMmlUmHFq7lOWmqcRxLV/vJHCHC9l2luRB+C4l9HK5X+uYhtV0a/Kqw+/2A0EjhWqrAjsgNQLukLU0brSCdVYuEG9jDdKw/1sSanLK3kSZmRBGK51W8LabwUdxhX2Q==;1ErFDq/ZJQAd/eVCHpcBRQ=="
+secured: "Z0ZFewuOg3QHVvqhhc3FQCuJhp1w3bR8TKGiNZ4D50f63Wv4rkFwLF6yQSFt9aiOlv/jaRPasaDyu2qPkT+3teTR2VnuwBoxh92vrB1j1iKBcj2U2uTEefAy9MG/W/crFcqxq6pfZtG3qKNwbA2/FkNizfkmLqoIkKiV8ueu/sKMepgq/jB2SU934QA0Ylc6Mo+IadCyViYNpG8Gft7XwVTW9ZmoMvvLdIcBlwDksJI569/3F0myZ8OkFglBheEth6H9xGcmG7iTf7h9ARiAZdnt7/IyX0gBVxYQ3ETtQwqdCS9Q29NK6oCc2qcC6JtoYVGfUDqR4uAwxKNbQEM1MqX6kgcfgTVNs9QsITaYtJOo6LRGfH9rHcdo4hr/89HF2DFiFGJP7dnE4W3ieVbydA==;mPFZyY9beMCmyx1zm75pqg=="
 ---
 

@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 50 mins
 ratings:
-  count: 4375
-  average: 4.6477714
-heat: 58
+  count: 4376
+  average: 4.647852
+heat: 61
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Provision an Azure SQL database to store application data"
 
-secured: "6Tv41RcMt+yZGfwgUK2gXEzS5cUDTmA4EXJNr3LbWDBzpuuKBT79Z/qiDPrs2hk8aCiLxBCC+dv6kDWpSTVlqTVeATELQTSpxJBKnkggvLT91a9nPiq6Iu5+i5q7RnXOy4DmthnHa2uVEGf4yumlmj8W/u1ndeF+rzmBeeq2YzLqFz5BvJ2oi05uRGKg5CpDBf3rkDWEkMH91t9dySAVgXXiCjc+pV01bgfI9BVDwMNUsvb/K3Btc8D+aWxgWCQq2o81XlAcwgjIzhjVSJ4Zch9hE0JQ3YI4MCFBtCrskIhYFInGJKROl50THmCA4glPNFKXuVytRklza1E4t52C9MQHmas6wicvitq6FOlFphJNgFgi1Fwdg2i3vqsn4LJ7ha59Qd1bzQt8+Z+6tmIkCw==;Na3xcuy7KEpz8bJc7/5kBQ=="
+secured: "g0amISOGl1PCZDd3TXt/Pv/CJ2vVCDCR77VumJ62wa9vOBo+yAoQD3+SJveR2gjGclDmkdd8YZqL8AcJJKNieXgvRKGi7TczBEIUj+5cGbNBW0P4L8/VLslD1rNdXfGt5WF+hDnyauHNy03n0TNug9oJ8IEKV12RNS7kYeGDfbcjGjLGZP1v6qiZL5mZOIuku5WNVnbE70gOrOUqtKjZw5Lk3LieCu583o0eX4tX4tYi9/a1+qxrdrX4d497ewCZccpncsKlizlGz7oA9z9vaqqurvqd3hnIfxG0kQRam9kdyx5X0Az52vLLYm/0R8j/rqReCq1Y2S3hNvSSBBVix0QW/PbBpAF9p9WhmvIIV3w8I7XMuiF+j81cWjjXJtNkvsZ3mNzMds2TkIokM4vuQw==;wiE4Cd0MFIyKexZpZsaCkg=="
 ---
 

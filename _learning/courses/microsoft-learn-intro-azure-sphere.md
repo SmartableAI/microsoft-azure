@@ -8,7 +8,7 @@ length: PT30M
 ratings:
   count: 32
   average: 4.65625
-heat: 110
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Introduction to Azure Sphere"
 
-secured: "IoaSBBiAH62QrmB3eQQBS9ghOxvoYFaGlGhtBbgF4x7m/fJmGznLq/ZjfYDy3rhCky9b5DFYGuRXKGM+jGGhizwGXUzjfoyubYceEqk+cl7BN1xJ1nFj4MPIvF1tiGyOeRoWnkjCP23ppUzEgvHwDWRMQJiMWPkLNOiZ98rIZtfM5+FccrQWjL5Qd2C+aSxIxZaPxxJgqsBvMKWdijkW/aqnLPDXQbpEVTGDMpDwkXLkf28Vhv+daL4wF8lfcbzJue2kO83LT5USoytBB2ie1aT/qixrKHMxotRgRF0tPBJkq02SoJKJEMO92BfjwTvLbFX0+RQOpFIN3+RPuQ9goI8SlSn1z0DzQTgFrHq/H4mVEKoidlrZFO2fuqYtIQSJ8oxeg9ihOJqSRNdAGlpI5w==;eDI1vQVwifO0Y3T3pEIYnQ=="
+secured: "bIYctRm4QdAOjQXd49st0+mExIWTceWxTfxFuJHhECSawDYgW9xo/C3p6nBMy1wmH0WrfIjXJ2KZniNtEu9t9jPtZRvHe7+eu3cx47TTveA9I7TfvyYNtqQ73IjJvjN9WbCHuT4Ozd1YQmvg5E33lAgs6/D9J206HUsBUsUbwjGTXRDv7hzt4QXUvHrmpgmWEBjKiWzRv3S5Wurl9IZmVGHUsx1zISh18yn1o0gonaBHfvc7tDV1zpAoj/Uswao21vzKbVC5oobuVgdBnas/8HR0rivEwrjPsTIo+yjgor9Bx3ar2O4sZ49yJ/3ipUEIDcW64mhK3e2IalOQM/Dixe+u/gD0G7Lzr5SjhrhTrg7/RmyjmC1FJkACOqmWci2ck1YzOoORTf+SsTV9Nt1ZWw==;8zKHVsF3i5C3lvQKZn24lg=="
 ---
 

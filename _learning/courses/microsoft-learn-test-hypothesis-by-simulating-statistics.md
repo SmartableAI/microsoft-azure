@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT60M
 ratings:
-  count: 36
-  average: 4.7777777
-heat: 51
+  count: 37
+  average: 4.756757
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Test hypothesis by simulating  statistics"
 
-secured: "w6KuDrEe6B2BUm/F85ZEzvoZ+3NgSfNrw55JV6Hey72+J2N7+HzMWiImh2p2UjSbNF5dPdwgHtOvf5lMBcbE2HsKLBU9PRzjvslNCw+12SpQZDLip/VetGmwtCTXJtUTGR1E3LiNXjrX6vk+kPBD7faRovyR06CZopsCjplJcgvvmj7FkrJvnPH8naT3B8L5xukRAQHTNvwsYEF6pFUU45vNFJFpVbFAlid6DZFYMZfPb/f4oxL1ywxjsZqmzT5HkrhQUcwO3VCa0+9zyZCm1s+myOoSY3K5N9u46GlyirUzt7BZ1Ls2vpZwiJ8bTTpGCAgbR5VneuYLGmJvz6gGiOwsL55E3TStkMCafzrJhR5d0xXL5EFpghaKIJdsUeEyR14YBwE/qXw0vfglqYJ5Dg==;EaDAcnmmkxyaegn9Nn5UqQ=="
+secured: "ttD+5frqVvv3CZi3f2Uh4gYHDu8SFGDyEQhprJ5O2l12fdxJCMuVNFYqo8UcPLEERRWA63kizSMoorv2XZepnwCBK/TP8CWFpz/bYrCPs3xatI4BkN2MqH/JxKTrX6qNMaV4J3zGMXWA2pETivD3Rr1sLvV8sU8TP8YOc7CePldjOf4IiWEIeatNZuqv2/AgWs164fbOE7AJ0QOfeMf6dCnFj/X1xBR3iHsCkytgWbTF95WkjtJ6ZoJD19CCE4+mfesEE0LzhW66u30F8DrowoCp/Fdqtple29riyxAkNSFU92mO8/oq4nOZXgQ+3DbDHfzy8eUK3RGZzpCdPHEspDGEoduAAvOtv3e101an3MxW2K8AI5p4pe8zvm8KN5sx5Ex307E/Rs3BOpp0hXAUVA==;IaV3WKzvQmdhzl4rfMVkWA=="
 ---
 

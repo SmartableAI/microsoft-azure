@@ -8,7 +8,7 @@ length: 86 mins
 ratings:
   count: 120
   average: 4.45
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Train and package an Azure machine learning module for deployment to IoT Edge device"
 
-secured: "n/DnNrCCCxnOyDGErM/a/xunrP19S+15mbz7hXinTsqxJwNjpG2zMichCaevsuEdBbjTNacVJuNBWT29Lhgfs+/Lw1hWo1EC6ZGA+TjEsvlCDbnOt5YA/4+AKtJ4NKLU8H13FNGU2AjUo97surgAbDRpSUYwFJPimP2SiGZL031TD2DYh+06svXPadhz9gsFCZJ0+ECx9IMezZnVsSnJYH69o8ddw4EaNyG5yuZqFIoxLkbu2JxIz8MpQZtvpikUxqqfGWaGnvy2faVJcf8a8YOq1OJ2r1Oy0yY/TINwTO5w0FthbF7CbRG/76iLnHWmEPSW4ofdaoVjW6R12o+/4unOVb/kAOJUoQNoCpxnh3YTI8MeIoDLomMdEjmlMDOhDLn4c+aB5FQfjFVBl1Evcw==;IRFdc3sLo/DlJ/JdKVCcOw=="
+secured: "TkiHBZK3cHfP4xsIXGnLs65d2MvrZp23JquQNI/NOeQvZBZMEyNyo5gVxnWtGBX6KGfX9a2DUxP54385boyfAcgVBOa7ukqD7HRSBTksJd/+860ty2QLv+ihFMy8e4gHBE5PZil5L8dmEnm06dRpOr4gHHSSZ7NgmVX/6B93tfM3J/iuT/KMmdTu8rPGcIOaicv+6Rn8NGNekvqrhI7X19hI350We8ItTdLsU85O5SpYZBbuPmqo3QmxXXne7HxWZUkYOD9tQ3Dr5NouUX3Hb0jPhPrCRIzW9sZzTKESb8wX6NYNY0u/DD6Vy6PKv+a17RWtkTHxLgYS5TN6shh5OlMZNsyLw4/X7TxPgXVMmYG0PlDFKyIpf6ruLLc67hdrTSKTw3B/oMEdkst6e3nK3Q==;rqYGEgJuae+fZtiB41JzlA=="
 ---
 

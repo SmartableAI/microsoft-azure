@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 37 mins
 ratings:
-  count: 1192
-  average: 4.6300335
-heat: 57
+  count: 1194
+  average: 4.6298156
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Upload, download, and manage data with Azure Storage Explorer"
 
-secured: "7MOqkbIEmbSkJ/ng2H/WBr+BpaJgPHSkrckBXhZbgLGg72AcNQWMoMPogO9JCsASORQgeQyMQCa0kaCUVpzC3OPegRAkxyNfknN9FMWOjHPJdkjYrUrb/la0W+UxbVsoawcLgL2jOr/FPewnr1OYssFHWvb1HkABjTsbu3u2TQ1L7Hj+ogSIJNd+dm7AMQ+FOO91lhBWNc/VPSfa8i54JSuZMFRpGMbiDYcJC5neSJ46V36WYRWbYIpSmNCmaxDOxSmw2Tzf8RnRI5xK0nGyb3rxotKB8Gkc72fpn9ZpnUmglrjxsfb6R2GVgfGjSDK/++MGDcummy1mY+JdMBSLt2aekSXM21nHy18fqlJgSXCsL/SuYpLgFzaNQF1ll0Nor4F5+Wr6uBP63TprSHvTRQ==;1hAEQfzLre2AFUtFGTgksw=="
+secured: "llVGRK8Ai2+hE9vCJXVJTQikyj76oej3ZZVVWqQJyd65tqHsMNdwmiGgUlERByflQ35kbude9zSJeNk3R1q2AL8cl0ZQUfcRsxVg30xhC9JX/s8fb8OnvM716sm74Kh73tUOwgdwD2DmQEpjv6u7GlNtEJqbLSaZqP9Eb1nWhvUrvxSKfKjsww2kH2tQQdjwxZter6RmhHA9exduv7whiSpj7R0q85znOUa52z6TypvwtjN5mEEs+BWAjZxIPlih/JWiAvlwzrJ4nhfhvK6FnZkqUrkZ3fC1v5aub4uUr4wHWU6K3POHR6UILYn5Thpj0cnSL1W5kqDjFZQDKioKMEL9otjpETz6TAQV/u/4oFCrvUBFuHge+Uqv0vUL31S/kjPAv/HACFdFGJTJYzE3Rg==;DnEK2Tn1OJoyUCO45DFSFQ=="
 ---
 

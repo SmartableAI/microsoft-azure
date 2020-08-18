@@ -8,7 +8,7 @@ length: 39 mins
 ratings:
   count: 142
   average: 4.7887325
-heat: 50
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Create a language model with LUIS"
 
-secured: "0LvaQPVQCazhltCVJ9h849HS66ZLoZvuZrhKkQeRVH44YZd7oVvyx5Pzb1yNgP8SSWYIz9eatX8jn81GJ2HljXcvg4amnMerm/7zzV05KzKsnuRhUboDehhyC8ud6UPZ3XkJnScneZIeQwWJWcAe4pAQ1xzMP4/nEKNo0BXGRA5z1/wIiCRuAXm69X8EMBfTiLZ34LYkyvXhx51a6OibZLUwQAhKuuibmmqQ9PFr7FydVvnswtR38kbU4tUJQCnc+1ytb3mXsTzIILalYt/raeYnrtXnipEsg8OfnyS1n1ve26G7pZJ2Wyzxa07Yv/zv3u1Xw2noEdqnO0xarSqzFTxXCTE/vKam7hEHXXpmvW3X4tr4ndBCVZVei/EW0vNcrTXbQcAxttbsrxSWDu5+Yg==;R6wl7vVpVoq7CfVYnQHTAg=="
+secured: "yxDVYwFpAFz0NFCA+4J5amE2K9mFW7cA0m02a1hKzw/73gha3Ap2cuv8bw3gNnUjDR/s6w3r2Bu3HntYa/OaviAuupusW0ofSqMHOSpE/iGXHh6/oqXq9TWmC/3Z5tSqTML/2uuJJ+pD7inVKcLFPusfcVgFapyuMduykUbH3XP+sa+cN1VlS367hC5UKfgadnhU/0h70Ro3ZrhtDzUJsVrleFfbdOy9+yrwuBMAxMrHFSYxdLeQfagxWThPnLXYiiYU2rqYm/OxdIco1JbQm5ZdDDdfYbDO1FoTyt/k8Qx5b2eQo3GHdbdG2n/yyPgQa+eznxZepqxVSfeQnetZh0zy6RDRF7v2BDlr14DJoZz5f2e+yODLeGHCcRrh4NjQucUWH0HV7Le+sBSiGiG6wA==;A/ZNKl/UaVFpx+XW8Z5vWA=="
 ---
 

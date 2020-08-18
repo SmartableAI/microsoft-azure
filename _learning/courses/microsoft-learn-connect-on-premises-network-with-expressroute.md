@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 40 mins
 ratings:
-  count: 2722
-  average: 4.6576047
-heat: 64
+  count: 2723
+  average: 4.6577306
+heat: 66
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Connect your on-premises network to the Microsoft global network by using ExpressRoute"
 
-secured: "iUiNroe5FZSegkUoM1Jw0pZV5Ruo2X8tEjqFvoy+48yCPIPa8Pwbsvb3YHghVWwii3wL4sTXfebkqB40L7DUbGiIFgD1tSWAo/Avob6Sgd28HolJO+4P78j+y/uWsj8i3d5ZYNIB8TYr7lzq4bxn9nyVWJD7ofsyP15+kzShIOzQ+Atwvm6cZQOzKPe23Bv9qCPAjHcUjGoyY7hKsg/Ny/BLm+zuyad64GqMFIevm1eF+jDEIgPhRR/7AE9MNq68TB7NIZpvq1+YXx487BH4mo+KLMBhoLhOwUEsS2WPcx4HfG/RLufmZ4Ty7SVxTY4mS0z8UpCWMbPL7FTAxNKQ4b+WNpZWmVhV0+Es6ziEhQRt4h+01dkA4yK0gY2Xk8n3XMEZI09doWLtsWFd1acFbw==;QUAB1c+X5y79H2TJEWaXtw=="
+secured: "NCAL5lBEqkAwTWiPm1sFL4SOKuZDZLstEZkLQ4oqpTR9cgXt+RMm1QVhHFIF7mQ8JxlcOg6gf+tGrHEI7/Nw1iPyyuIxd3W/7+eaTP3QH+b69uJSFok6BlKK/AzLvF21rQu+QRKTrhppx7DCJotVco/mqLaS7DzGmmopAMTclkvFHrGJp4G0P4J8OG4Yj9bZ7WhqO6SFqiaOlk8ZtjzpPmCk4byufThP8Rv+Ygizaj+zpDpWCrpQgTlDKW2DEClavFq2TxnMcygpDd8oIMc+Vw3hGtZ47tK+uia8HhgrYEjviJrxZqJAUDAQ+2gVU5OIhSZPnVrSOrFyLKZcLyZiqXLxE2x7/GbPEYZN23OOSKFcLqft5qm1e7B4c5P12JqWb31dVLi06+QIIK/uu5F13g==;gceotBcOV+QkvkqQrfS4cQ=="
 ---
 

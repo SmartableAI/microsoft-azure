@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Build and query a Delta Lake"
 
-secured: "W3NFE2g08vhrEZ578nkigio/6SKmb449vyPLoBjFF/Pqe75S2QX4O3dHNZhR/yd83dxZFyVjboAmHGZuQz/yLizY+kIJWruaqzDrdzAiAVUsUvkZAMIGqju7MWWMhYSLT8k2CwGlNnit/7E5su6YlMXeuesqz32Rftkuo2gSjRWobC/SIv0TqzUBlNqoXQRd5XdrWI1QcoVKrUEsgdMiKIe6PUtCYidfLeEL3i1gXR+T83PfO9xS0rdE8jzHr5vaN7m2xExEuSOFjmX0DFKFCcM7VTZvSuvT/IeJFI+T5c3ObOu+e92MET9MU2A9+ShDM0m1BX8UYkrjGW8NG8xE5ncVZWTCZadll8HmvWh9ukIaGEH2lNDzfoogu2aBZaFfeZ/lClpDyMUiSGJrz45WdQ==;roFd7e87GcRmNfUzi47cfQ=="
+secured: "Ac7ZBlFxsgJqDqSuG/fqBjPc82xS+3j0TZlqKmfxJuBdeWQpMRVypYKUlhf7HGYG+QB6lkwLXCp+reqaBiopcPNx5ibX01lb3t0q+Rgacbe0Mv3CocK8i5B62XJY1WzOCI+qs8gRzSgc1vl1CHH95/iOdSArY38hjY5bwC/w+h2b+PLea1UpxfDEyHXKx+33ILnQFo0LzJXdnHoYX+B1dSNMCMcct4IWCU7WCwGWZW642Nwq3zgzeYCjnS7zjWpXA2ogMYNzJbXEJqG7NTQEvXVWeR+oV+Y8uiNOmBdDdwdWhCVzHa5lVenZYSL0avOGEFM8Ye9xN0YRneZ9exRdRMZYYEUGlz+yC2MpGfvdTDXgpyLknaUyDA5g3bhESYYk1D2c+9ZfHP52n8Zd+yGi9w==;1RcH5+XbkxH+biVfaB6ubQ=="
 ---
 
