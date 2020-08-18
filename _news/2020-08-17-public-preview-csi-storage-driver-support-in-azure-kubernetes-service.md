@@ -1,13 +1,13 @@
 ---
 category: news
-title: "Azure Spot support for Azure Kubernetes Service is in preview"
-excerpt: ""
-publishedDateTime: 2020-04-15T16:00:02Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-spot-support-for-azure-kubernetes-service-is-in-preview/"
+title: "Public preview: CSI storage driver support in Azure Kubernetes Service "
+excerpt: "Azure Kubernetes Service (AKS) now supports Container Storage Interface (CSI), a standard for exposing arbitrary block and file storage systems to containerized workloads on Kubernetes. This offers more flexibility in exposing storage systems in Kubernetes."
+publishedDateTime: 2020-08-17T23:02:45Z
+webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-csi-storage-driver-support-in-azure-kubernetes-service/"
 type: article
 quality: 77
-heat: 177
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -21,6 +21,15 @@ topics:
   - Azure
 
 related:
+  - title: "Azure Spot support for Azure Kubernetes Service is in preview"
+    excerpt: ""
+    publishedDateTime: 2020-04-15T16:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-spot-support-for-azure-kubernetes-service-is-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Azure App Service support for GitHub Actions is in preview"
     excerpt: ""
     publishedDateTime: 2020-04-29T16:00:01Z
@@ -34,15 +43,6 @@ related:
     excerpt: "Two new AKS upgrade capabilities that will improve the granularity and efficiency of regular Kubernetes upgrade operations are now in preview."
     publishedDateTime: 2020-06-10T16:00:24Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-upgrade-improvements-are-now-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Public preview: CSI storage driver support in Azure Kubernetes Service "
-    excerpt: "Azure Kubernetes Service (AKS) now supports Container Storage Interface (CSI), a standard for exposing arbitrary block and file storage systems to containerized workloads on Kubernetes. This offers more flexibility in exposing storage systems in Kubernetes."
-    publishedDateTime: 2020-08-17T23:02:45Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-csi-storage-driver-support-in-azure-kubernetes-service/"
     type: article
     provider:
       name: Microsoft
@@ -67,6 +67,6 @@ related:
       domain: microsoft.com
     quality: 69
 
-secured: "L+hM4JI5Yh9IGKdLWHS6y0MlEk0e6+8btrvf7JN5jqmPyVJfMaFfmrXoXslF7cc91ievVVVmY9O404o2cRkbbK0AOL2vP47TSer4C+kVIETjfI7YkCAsqijDPJDb40h9sPkCly+jX68onUVXH5C51VTHpSEIPCsSho8xXY6Frp69PPy7XziGldMZvGGa17MxhbytAZ/AZNNZ1s9bYwVwpBYO7cD5GLAP7PCU1fIcV328ZbEORIBZ52VPHwlgT2BHYDerk8rqEnllzL7CK05xwTzEYHH3zQ1TqwuuN4Cd5yms/H8HmVD3vVoF6Lkbq9UK6XPAmbFT42zn3FKYDNk9WQ==;3XJl5Hyb8FUwnjFgK3XW5Q=="
+secured: "wC45VuZt0WHfDroHnsPV1IKVyC2ANtN826AIYN4Fy9GyZrWr0bHowz9N66Eiz/XZofnjpKsu3Gf9Qu1OrtbpbEkzgwCfJ/hL5sMZIjrdssvSTGNmtSQ8gFYbuosCUlnj0Wn9WfxLBCH5huDdK/7vLBZUdaHWuSRUOC0DPmHRym1lxM0Tcwc5CHIb1Ei23wNvycxKksXBbFLLwQK0+rhbc2ziz/2auNWsqfJ9GfbXkPxbBfb/Mc9HFx6UC5uuamnHTeN46moFHoZ2fSd3paxM8gae9ZICVz/rNCHhSV3CW9Qa2umBrMb9wxuKtLsryhyaEkwaoXu4CSh4qBKy/Zhttw==;4x7zssBlxvIsbJ70g0apsA=="
 ---
 

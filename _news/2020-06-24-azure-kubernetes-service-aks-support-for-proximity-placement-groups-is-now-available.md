@@ -48,6 +48,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "Public preview: CSI storage driver support in Azure Kubernetes Service "
+    excerpt: "Azure Kubernetes Service (AKS) now supports Container Storage Interface (CSI), a standard for exposing arbitrary block and file storage systems to containerized workloads on Kubernetes. This offers more flexibility in exposing storage systems in Kubernetes."
+    publishedDateTime: 2020-08-17T23:02:45Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-csi-storage-driver-support-in-azure-kubernetes-service/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: ".NET Core support for Azure Analysis Services client libraries is in preview"
     excerpt: "In response to customer feedback, .NET Core support for Azure Analysis Services client libraries is now available in preview. Start building .NET Core applications for modern cross-platform and cloud-oriented environments that target Analysis Services and Microsoft Power BI."
     publishedDateTime: 2020-07-10T00:23:39Z
