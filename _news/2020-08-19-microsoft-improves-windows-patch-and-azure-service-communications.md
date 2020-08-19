@@ -1,25 +1,25 @@
 ---
 category: news
-title: "Infoworks DataFoundry for Databricks Free Trial Now Available in Microsoft Azure Marketplace"
-excerpt: "Infoworks.io, leader in EDO2 systems, announces Infoworks DataFoundry for Databricks is now avail. as a free trial offer in the MSFT Azure Marketplace"
-publishedDateTime: 2020-08-13T15:44:00Z
-webUrl: "https://www.businesswire.com/news/home/20200813005239/en/"
+title: "Microsoft Improves Windows Patch and Azure Service Communications"
+excerpt: "This notion was explained in a June Microsoft announcement as \"infusing AI into our cloud platform and DevOps process, becoming AIOps.\" Apparently, the AIOps term derives from analyst and ..."
+publishedDateTime: 2020-08-19T01:09:00Z
+webUrl: "https://redmondmag.com/articles/2020/08/18/windows-patch-azure-service-communications.aspx"
 type: article
-quality: 26
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Redmond Magazine
+  domain: redmondmag.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mms.businesswire.com/media/20200813005239/en/812388/23/4118036_Infoworks-logo_.jpg"
-    width: 1200
-    height: 627
+  - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2016/0716vrm_Take5.jpg"
+    width: 647
+    height: 450
     isCached: true
 
 related:
@@ -39,20 +39,6 @@ related:
         width: 320
         height: 220
         isCached: true
-  - title: "Microsoft Improves Windows Patch and Azure Service Communications"
-    excerpt: "This notion was explained in a June Microsoft announcement as \"infusing AI into our cloud platform and DevOps process, becoming AIOps.\" Apparently, the AIOps term derives from analyst and ..."
-    publishedDateTime: 2020-08-19T01:09:00Z
-    webUrl: "https://redmondmag.com/articles/2020/08/18/windows-patch-azure-service-communications.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 37
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2016/0716vrm_Take5.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Amplo Global Inc: amplofly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
     excerpt: "PISCATAWAY, NJ / ACCESSWIRE / August 18, 2020 / ???Amplo Global Inc announced today that its AI-powered platform is now available on the MicrosoftAppSource and Microsoft Azure Marketplace - their online stores providing applications and services for use on ..."
     publishedDateTime: 2020-08-18T17:12:00Z
@@ -67,7 +53,21 @@ related:
         width: 320
         height: 220
         isCached: true
+  - title: "Infoworks DataFoundry for Databricks Free Trial Now Available in Microsoft Azure Marketplace"
+    excerpt: "Infoworks.io, leader in EDO2 systems, announces Infoworks DataFoundry for Databricks is now avail. as a free trial offer in the MSFT Azure Marketplace"
+    publishedDateTime: 2020-08-13T15:44:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200813005239/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 26
+    images:
+      - url: "https://mms.businesswire.com/media/20200813005239/en/812388/23/4118036_Infoworks-logo_.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
-secured: "ufo6Z22+OYG3WJB4JSskeMaRO7dSPK5sItAOMt6BieuWlMI1+RWX3PG2BR0EZ3eDJO2xJYYMU/S701vplKR7lb60UM+l1zfYVsLm0e6L91KaaznhMCGSgnv7vnHhuUwvidrNELLJX/gNoUraQtcjJ3lgdvUe8Su5oORRE+HL7wGvahyDa3WByi7lvzmB373tG+4L4Ve9lW+kO6rX6+XIqEEnWtZuTlopcs2tYgEhnzrdhX+dwcAq1sUXpiHNkAUWCW6Bk+NVGzIEA1Dq124Jp/pLOC/w1L7/1JxW9SFGvC+OUmexyB58LJ68fruoTf/vgPMuBzziCHcterLIppr2pQ==;ZZqJJIR7Wj4TAYmsUcy5Fg=="
+secured: "gaUi91S7yrNvThgyy3yi+gSNfuC0d/T8dp/gH/Vaatjknp4fLirrgnizeXzFbSAoJjFKEv6ELRM+vdHxRfoKaAW0/Y9uYBEc9XvYTRf9pV3VGxHtQ8o4T2LAjA/zxVDpqyM23rzwpzUTgzWY6zy7v06sHEu8vjyCM6IRHiEe3/WHQoiqPmj1JxCQLjZ+QplBBXWuSKWuzET8zrHLGhqeHwZ3Xgmz4kmlmuizCF42DjiwMI9LY/CiLmx9h+k5ERaLtDchhz3xz0Di559UvznZ6DUQ23llxMVswIWdHijJZXZIZ72ui4Y70kOP5zYWNELw4XiZFJGpyjkajespRDHMjw==;t4H6djN2oTcl1BdpnfTTVA=="
 ---
 

@@ -39,6 +39,20 @@ related:
         width: 320
         height: 220
         isCached: true
+  - title: "Microsoft Improves Windows Patch and Azure Service Communications"
+    excerpt: "This notion was explained in a June Microsoft announcement as \"infusing AI into our cloud platform and DevOps process, becoming AIOps.\" Apparently, the AIOps term derives from analyst and ..."
+    publishedDateTime: 2020-08-19T01:09:00Z
+    webUrl: "https://redmondmag.com/articles/2020/08/18/windows-patch-azure-service-communications.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 37
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2016/0716vrm_Take5.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Infoworks DataFoundry for Databricks Free Trial Now Available in Microsoft Azure Marketplace"
     excerpt: "Infoworks.io, leader in EDO2 systems, announces Infoworks DataFoundry for Databricks is now avail. as a free trial offer in the MSFT Azure Marketplace"
     publishedDateTime: 2020-08-13T15:44:00Z
