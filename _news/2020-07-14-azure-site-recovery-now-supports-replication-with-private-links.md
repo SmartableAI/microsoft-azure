@@ -30,15 +30,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Azure Site Recovery update rollup 46—June 2020"
-    excerpt: ""
-    publishedDateTime: 2020-06-04T21:00:29Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-site-recovery-update-rollup-46-june-2020/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
 
 secured: "OyQ6KKy0jH8s9tZD+DTi213EWgVmDbJcN/NzxMBQMDjOanuqLI3Oqi5A4y1Fn5tBMYYDaIVAcCF7Ik/9HXGcG7yMxhEis9OpstOfZ+ym5e6NowuUB8EQzu/NC0o+czYz5hNa1Bbh0wl6kgpuXPq5zOSUdNlwsrS4BSKP7z6iiYDCtIqVReTjFQOJfQkfjWzAR0iaoSIyjdFsYIOrw0vcHt3pMfho5l4HjqPDpHqTodhMUoBR+y+RCHA3Juf3MIx4w4F+FCfC6M1PRth3O1CVDRrmG7sb+rFh7usankOMQOEJslB+9gc8LTEHYlRotaO8VGZaZj8HIOzm18iyOZpyfQ==;G2Yuq0/qbWI+iHY6yqrZMA=="
 ---

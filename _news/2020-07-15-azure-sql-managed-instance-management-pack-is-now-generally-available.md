@@ -35,15 +35,6 @@ related:
         width: 1211
         height: 752
         isCached: true
-  - title: " Azure Site Recovery update rollup 47—July 2020"
-    excerpt: "The latest Azure Site Recovery updates provides fixes and download links for Site Recovery components."
-    publishedDateTime: 2020-07-10T21:00:25Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-site-recovery-update-rollup-47-july-2020/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
 
 secured: "DGD0exgc7AR4vMY8OkYIRfq8dDGzyArU9SWARwP+7pWLSGOONBwt+RLl8YCxqUuy0Q89D5Rmjmx++tn9f6Ik5PhkWITHvdywmmBPa1iclDKrgQ286zhS5FFp7CMD31OiIKVlY5Xl61u7orU5/7UJ9MXB0qAVuLkiWPIyC3Y2XBPCNTTNeSjPzHGlQuJ6wd07foGxqy8EAEQqF/Fo9DQieLIL8VjgFC9LPKbiBHTqV9bs/zzzESibJ7W7ZSj+nYhxSk4nXk8BjePW4eXCKGz0KkSvAUALWXdM8D2T0xP5hiirpQvOV9WdCyMWYiu4gmfSeqo4fdpIZ6OJzVGA15np5Q==;qdGORDE0LwzrQEukDTzuzw=="
 ---

@@ -21,15 +21,6 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Site Recovery update rollup 46—June 2020"
-    excerpt: ""
-    publishedDateTime: 2020-06-04T21:00:29Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-site-recovery-update-rollup-46-june-2020/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
   - title: "Azure Site Recovery now supports replication with private links"
     excerpt: "Ensure a secure channel for replication of your Azure and on-premises workloads with the help of private links capability of Azure and Site Recovery."
     publishedDateTime: 2020-07-14T17:00:14Z

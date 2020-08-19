@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: " Azure Site Recovery update rollup 47—July 2020"
-    excerpt: "The latest Azure Site Recovery updates provides fixes and download links for Site Recovery components."
-    publishedDateTime: 2020-07-10T21:00:25Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-site-recovery-update-rollup-47-july-2020/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
   - title: "Azure SQL Managed Instance management pack is now generally available"
     excerpt: "System Center Operations Manager (SCOM) management pack for Azure SQL Managed Instance is now generally available."
     publishedDateTime: 2020-07-15T23:00:30Z
