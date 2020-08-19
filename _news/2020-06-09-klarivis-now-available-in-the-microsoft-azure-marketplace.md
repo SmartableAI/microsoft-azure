@@ -263,19 +263,19 @@ related:
         width: 256
         height: 256
         isCached: true
-  - title: "Commvault's Metallic SaaS Data Protection Now Available in the Microsoft Azure Marketplace"
-    excerpt: "PRNewswire/ -- Commvault (NASDAQ: CVLT), a recognized global enterprise software leader in the management of data across cloud and on-premises"
+  - title: "Commvault’s Metallic SaaS Data Protection Now Available in the Microsoft Azure Marketplace"
+    excerpt: "PRNewswire/ -- Commvault (NASDAQ: CVLT), a recognized global enterprise software leader in the management of data across cloud and on-premises environments, has announced the availability of Metallic’s Software-as-a-Service (SaaS) data protection portfolio in the Microsoft Azure Marketplace,"
     publishedDateTime: 2020-08-12T12:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/commvaults-metallic-saas-data-protection-now-available-in-the-microsoft-azure-marketplace-301110682.html"
+    webUrl: "https://apnews.com/PR Newswire/3e2eeb6df72a20273c39aa8b9c8c7cdf"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 27
     images:
-      - url: "https://mma.prnewswire.com/media/1010127/Commvault_Metallic_Logo_RGB_Tagline_vertical_Logo.jpg?p=facebook"
-        width: 1500
-        height: 784
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Mimecast® Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
     excerpt: "Mimecast customers can now take advantage of the Microsoft Azure Sentinel's scalability, high availability, and security, with streamlined deployment and management. By logging email activity in ..."
