@@ -4,7 +4,7 @@ excerpt: "Machine learning is at the core of artificial intelligence, and many m
 type: collection
 price: Free
 length: PT3H24M
-heat: 94
+heat: 87
 
 provider:
   name: Microsoft Learn
