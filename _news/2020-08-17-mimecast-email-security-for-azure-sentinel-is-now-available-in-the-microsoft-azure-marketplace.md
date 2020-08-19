@@ -1,26 +1,22 @@
 ---
 category: news
 title: "Mimecast® Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
-excerpt: "(GLOBE NEWSWIRE) -- Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure Marketplace,"
-publishedDateTime: 2020-08-17T09:30:00Z
-webUrl: "https://apnews.com/4710425f0bbe81da97cd4d269601accc"
+excerpt: "Mimecast customers can now take advantage of the Microsoft Azure Sentinel's scalability, high availability, and security, with streamlined deployment and management. By logging email activity in ..."
+publishedDateTime: 2020-08-17T09:50:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/08/g17115771/mimecast-email-security-for-azure-sentinel-is-now-available-in-the-microsoft-azure-marketplace"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17115771"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17115771"
 type: article
 quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
@@ -293,7 +289,7 @@ related:
   - title: "Mimecast Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Mimecast to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies"
     publishedDateTime: 2020-08-19T07:34:00Z
-    webUrl: "https://www.zawya.com/uae/en/press-releases/story/Mimecast_Email_Security_for_Azure_Sentinel_is_now_available_in_the_Microsoft_Azure_Marketplace-ZAWYA20200819070435/"
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Mimecast_Email_Security_for_Azure_Sentinel_is_now_available_in_the_Microsoft_Azure_Marketplace-ZAWYA20200819070435/"
     type: article
     provider:
       name: Zawya
@@ -360,6 +356,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "PtT3yX6dM7Xfm70xyVxxCGk4FCICnTVH2vOTNevxSkuSKIdUV/It3pJouqW75XsQZdGCV2cP0X4zC2jy/BMGalW/YHzLNswdkgAtAViSkSxpdfT5Q8E6RLCq9rDxVehD/3AGWRITnmqrc5TzAZyLMvQwCImu4vnxnrgUhqWbQWhYI3kyZKb77gWk9VkoRt6zhTqiR1SKu0BrjpY/cmQw0NtMFEsTtI5vq0Bfk695reE3EQ4NXwlB55WckCwf39+HBvCBuFdoAQEjKj/iyZN1pQdj+7DqZM1ogUPop0Oi6mmeDm8R4hQbRlRoOm00MXb/x2ks7mJC+v0dU1odeYkJug==;jc33eATFyx6UdTEc57kd3Q=="
+secured: "P+hSKTMeqTlXQxIIrZLWKPXa8w1Ur4coCFVmRaJ7AN9zaoXHnEzRfXKvKA5yhTZf6XkM99AmqHVW9f04VKxAgz4FhRRI94rG3+eXbgwvCbmX9nATv58nys25IaId/KQ+tXH308/OZ5RG9yyHMcPqK8HZhJLX/k5mal9gRcTrER5W2yEFtdxOTluOem+K0eRAitaltv6uKBdHlMxmRjAJ94dwYFb9ozmew2USoe5fqAt4YmFmbPkdau9pUn6XXNpsi/yyR1CW4tLn6YjFNgGxavc7ts2y8/ci3nFTj9R22pbgC32xoowRuwFKkG0yASN0axrY1xhPSG93J2/DAnd4jg==;+Fdp5aRlNWvFG1OmS92NeA=="
 ---
 

@@ -3,7 +3,7 @@ category: news
 title: "Mimecast Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
 excerpt: "Microsoft Azure customers worldwide now gain access to Mimecast to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies"
 publishedDateTime: 2020-08-19T07:34:00Z
-webUrl: "https://www.zawya.com/uae/en/press-releases/story/Mimecast_Email_Security_for_Azure_Sentinel_is_now_available_in_the_Microsoft_Azure_Marketplace-ZAWYA20200819070435/"
+webUrl: "https://www.zawya.com/mena/en/press-releases/story/Mimecast_Email_Security_for_Azure_Sentinel_is_now_available_in_the_Microsoft_Azure_Marketplace-ZAWYA20200819070435/"
 type: article
 quality: 25
 heat: -1
@@ -291,19 +291,16 @@ related:
         height: 784
         isCached: true
   - title: "Mimecast® Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
-    excerpt: "(GLOBE NEWSWIRE) -- Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure Marketplace,"
-    publishedDateTime: 2020-08-17T09:30:00Z
-    webUrl: "https://apnews.com/4710425f0bbe81da97cd4d269601accc"
+    excerpt: "Mimecast customers can now take advantage of the Microsoft Azure Sentinel's scalability, high availability, and security, with streamlined deployment and management. By logging email activity in ..."
+    publishedDateTime: 2020-08-17T09:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/08/g17115771/mimecast-email-security-for-azure-sentinel-is-now-available-in-the-microsoft-azure-marketplace"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17115771"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17115771"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 25
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "GAVS Technologies: Zero Incident Framework (ZIF) Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to ZIF to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies PRINCET"
     publishedDateTime: 2020-06-23T04:20:00Z
@@ -360,6 +357,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "yNyg0kp6yycPnSj/pSPLUCjTTnJxdM3T3mKP+mDY3dwOhD3L+USES8Wa9U2p8b/rX7v3m2eaYR0fksaPS+JP6gS33uyqpwEOI2xtLhbtyyBG1u5G5VL7R0gYDxuOtlsKYCUz7hwN+lSrvTruW+LGBNX3LR9Gzx/GhQ1co/LgeW54QKOGPapGsL++Ok/o0iUo7U5at820Ekmr/q6bNiRA2Ur5i5BMZituRMCQEC6T9EpIdghjnV57XTjLheKZMbB3T/nqZfkXydI762bp7o1Go0tECUc99oP3JsVgQFlNTa8ArTlGRiLxdcqXOLiC644tdKBluLxXSQ8ps7lljgxTHQ==;JqB/5T/xuJXT5E/i4mkq7g=="
+secured: "DmRJ7nBO8n6oxCCW2dK60f/nzTTVcJJo8wwcllrp9UJs8o16HAVsWlcX8we64iQGTh63Hu/mbWXArXOXJfROMtfC3YERNCri2JooJ/jHcRdYKxXexN95yOde3N5mcj6YguE0kiMA3HaYt0rAoE4YCFFQ8VswCnqzLUrLFtM0w8Y/+xq+MGlHVet3s3Xx4GM8NLGvL5YYEbyPqYuVO7FYm/aqIrvcL65vjpQ9zl1CEHfOdRvwZ4RAFYSvAEePiG/TPnGcUH5xu6wxGlSKS0dYAT+dGSnDyD2JsUjC9uEqmhK0dOW5S0mwn5VY1eHaZYd/dOEINh+Px+DPW/HgySOV5w==;gFmQQLQLeVLU3FZlGAkVaw=="
 ---
 
