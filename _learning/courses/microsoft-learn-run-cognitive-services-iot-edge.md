@@ -8,7 +8,7 @@ length: PT1H4M
 ratings:
   count: 10
   average: 4.4
-heat: 110
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Run Cognitive Services on the IoT Edge"
 
-secured: "vhmZ1yQAabkzixIfp2fbcj9e06gnq1xfl1ztPIniBzZxCAYz+mF6z8kneo1QO9w0CCy3hS7/AX/m1tO7CDKUoP19stgk4QXIGxjUj8ORdmJ1A/1hEj08QJKqzGWtOChiVnqYIHqPeiU2ZAGedDxj9ajut7teZHHXLkmFBVfRxYuHaSV4JWfeJ5Kp9lpA2ljAsju7XjK/fy2SxO6Y9tqYL28yJLC1k3PdyRAMW/ltkl8lXmtJpjo/JJaF01JvzNTg1QSL3oUknseM69PBsuwp2iXmbNsxMWW7fltj0OruC3KYbDDhGK7RpUVuJMQINMKTUYBpndlsNI93fWwPgbYhORNxKG981wIhFpWq0c8bAGVzx8CUXGqyNVjILuUeEjv4tzAy+5nwJrhRo1MBTXQZgA==;3ZMmxs75oqj+p9q+3XVMQw=="
+secured: "auDp16Tl9WvPhWt9o8voC36+R46HMsl+pgzbEtVGea7HQE9leYAfcy/eXvMvsQbbfnAOPbBoN946LI+7E9uf+AA1jE2pJb6rYUfW8saGwBqPi1v5dhS9gme4xbkK1zHy0/Zoo/vjl9dy7c81N+1YcIweV5uxmgM3dXaIxYOJjAnwPrq1L/Nd04GxAFAfvmHd5T1q3jnpwN7LjYKqavqhEv1q/C4tnEqxQRpHaEPjxknLPWNiSZELn0kCuxoTZbRMUEaywCeVNznvbEO8PFlmF2auYrYVRIQxepkYdq1dwCI8h9wQiAxWDuXtUWPBByM+pdn6QDICw5YsS9lRIewPggrJkxMkwQ+eRpR5tnuurdin/jn650AChrFQdi1wFpU7+xQ7skc7kKwsXclSOm62gA==;uTJX31YVzQb81/pB72FDow=="
 ---
 
