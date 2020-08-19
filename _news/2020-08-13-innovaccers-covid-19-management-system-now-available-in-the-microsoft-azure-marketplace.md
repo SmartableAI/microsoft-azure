@@ -1,25 +1,25 @@
 ---
 category: news
-title: "Innovaccer’s COVID-19 Management System Now Available in the Microsoft Azure Marketplace"
-excerpt: "Innovaccer, Inc., a leading healthcare technology company, today announced the availability of its COVID-19 Management System in the Microsoft Azure Marketplace, an online store providing ..."
-publishedDateTime: 2020-08-13T16:19:00Z
-webUrl: "https://www.healthcaredive.com/press-release/20200813-innovaccers-covid-19-management-system-now-available-in-the-microsoft-azur-1/"
+title: "Innovaccer's COVID-19 Management System Now Available in the Microsoft Azure Marketplace"
+excerpt: "SAN FRANCISCO, Aug. 13, 2020 /PRNewswire/ -- Innovaccer, Inc., a leading healthcare technology company, today announced the availability of its COVID-19 Management System in the Microsoft Azure ..."
+publishedDateTime: 2020-08-13T16:17:00Z
+webUrl: "https://www.prnewswire.com/news-releases/innovaccers-covid-19-management-system-now-available-in-the-microsoft-azure-marketplace-301111911.html"
 type: article
 quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Healthcare Dive
-  domain: healthcaredive.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.healthcaredive.com/user_media/pressrelease/company_logos/20200813155131602/zez9iqg8lghajcaq65ai.png"
-    width: 256
-    height: 256
+  - url: "https://mma.prnewswire.com/media/1228171/Innovaccer_Logo.jpg?p=facebook"
+    width: 600
+    height: 314
     isCached: true
 
 related:
@@ -290,6 +290,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Mimecast Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Mimecast to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies"
+    publishedDateTime: 2020-08-19T07:34:00Z
+    webUrl: "https://www.zawya.com/uae/en/press-releases/story/Mimecast_Email_Security_for_Azure_Sentinel_is_now_available_in_the_Microsoft_Azure_Marketplace-ZAWYA20200819070435/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 25
+    images:
+      - url: "https://images.zawya.com/pr/images/2020/Barclays_2020_08_17.jpg"
+        width: 450
+        height: 300
+        isCached: true
   - title: "GAVS Technologies: Zero Incident Framework (ZIF) Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to ZIF to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies PRINCET"
     publishedDateTime: 2020-06-23T04:20:00Z
@@ -346,6 +360,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "Ivd8udLx1LySbnMf04K4i9Ms7CMi2fE4PwgYJnWpeb7wHbXZXzgBiEhcspQBIeKbfa3KGQhuFA7FCP2uSDg2e/UOO9emJbHwk2sPY5czkOi3WLUnYDY//pwnKpRdzSZ+aXOvZuAg2wcmlTWQnwMh9giU0qP4Yp+bteC3llsqyRGKWOK5OZoCAo/c+vkeDnp6KAE/QGJojX4iDSyhWpYKIi3imju7tapWLzqtL3JTNzTHCcTpY+pv8qp/2CMWMZ3yWjzkdTI+Sejf3sklTD1UgXiuWp0kwQbls9VyWm39GDwJzuo5G1nuIOGnEwVcJWZ6BWwvrfHu2ABsYSVHE/x+7g==;BEEzmmDsgjlcDzIhiOC73Q=="
+secured: "oBkwWivIkiDCwEXLV19c/w+EurvTTQWY40YY62SVd43Bj0DkqKn24nWQRaeU/T/X6Pmqf4y8FQxkdNL/DANV60rgJnsLdPYmbs9/hjJgocZRSWX7uWDJop3uygKl2BFLW7B3oILJNG0I01jybSvCJXlAC73r1iNsZ25991AK2/pKCVUOviR+HXWzYfiP6YvXpbP2zWh+2IuGZ2cFAnV7P/O5MHu9wXh18x7vQpYbpcg/+6cdv3GgP3XN2x2Q520Y+KoL5ma0S9XfiUoAWlaIqEptDDScSH7/3s4Zm1mzdCf982Q/4jCikb5IEPVu9QoZldQ7/D0MBACWoG1/uUY8jA==;gNRe1xHIPPFFZ3+gOgTuoA=="
 ---
 

@@ -1,28 +1,39 @@
 ---
 category: news
-title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
-excerpt: "Stock quotes by finanzen.net BRISBANE, Australia, June 10, 2020 /PRNewswire/ -- Codafication, a software start-up that empowers enterprises to digitally transform at scale, today announced the availability of its flagship product Virtual Assist in the Microsoft Azure Marketplace."
-publishedDateTime: 2020-06-10T23:35:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
+title: "Mimecast Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
+excerpt: "Microsoft Azure customers worldwide now gain access to Mimecast to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies"
+publishedDateTime: 2020-08-19T07:34:00Z
+webUrl: "https://www.zawya.com/uae/en/press-releases/story/Mimecast_Email_Security_for_Azure_Sentinel_is_now_available_in_the_Microsoft_Azure_Marketplace-ZAWYA20200819070435/"
 type: article
-quality: 73
-heat: 573
-published: true
+quality: 25
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Zawya
+  domain: zawya.com
 
 topics:
   - Azure
 
+images:
+  - url: "https://images.zawya.com/pr/images/2020/Barclays_2020_08_17.jpg"
+    width: 450
+    height: 300
+    isCached: true
+
 related:
+  - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Stock quotes by finanzen.net BRISBANE, Australia, June 10, 2020 /PRNewswire/ -- Codafication, a software start-up that empowers enterprises to digitally transform at scale, today announced the availability of its flagship product Virtual Assist in the Microsoft Azure Marketplace."
+    publishedDateTime: 2020-06-10T23:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 73
   - title: "Mimecast(R) Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
     excerpt: "(GLOBE NEWSWIRE) -- Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast (R) Email Security for Azure Sentinel in the Microsoft Azure Marketplace,"
     publishedDateTime: 2020-08-17T10:21:00Z
@@ -293,20 +304,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Mimecast Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Mimecast to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies"
-    publishedDateTime: 2020-08-19T07:34:00Z
-    webUrl: "https://www.zawya.com/uae/en/press-releases/story/Mimecast_Email_Security_for_Azure_Sentinel_is_now_available_in_the_Microsoft_Azure_Marketplace-ZAWYA20200819070435/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 25
-    images:
-      - url: "https://images.zawya.com/pr/images/2020/Barclays_2020_08_17.jpg"
-        width: 450
-        height: 300
-        isCached: true
   - title: "GAVS Technologies: Zero Incident Framework (ZIF) Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to ZIF to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies PRINCET"
     publishedDateTime: 2020-06-23T04:20:00Z
@@ -363,6 +360,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "/hISVyc3CYTNjS0FPVDpgMbn8UdeKxD0flBrwKbVNN5sQ/TAk7Gb7s5gusabeYBFdUXZdxUNAw5+VlMl65oLBD1LLSEixEe1JHN1kEep0pdll+p/c5LC7OKEN4lsOzqlrdRfIJSBTvcskBmzMSh7Z8Tq45UT0J15TEnxV0XvsoieA3NolYycR1WBbmNBImkcx5bgoWLDLYBMUVOOu8kT/P/KYa1HOR1EpsKmPe8MpJiS38JfOVgrYbqzhHDQIg0Qf+WVU+/Gpz4IN32YDsMbIyrm04LsGDH6QSBZtLp8iiwkLcB6vhwhnVm1GTYTsEQI;Hksodcc4AXtkQX1pqflbRw=="
+secured: "yNyg0kp6yycPnSj/pSPLUCjTTnJxdM3T3mKP+mDY3dwOhD3L+USES8Wa9U2p8b/rX7v3m2eaYR0fksaPS+JP6gS33uyqpwEOI2xtLhbtyyBG1u5G5VL7R0gYDxuOtlsKYCUz7hwN+lSrvTruW+LGBNX3LR9Gzx/GhQ1co/LgeW54QKOGPapGsL++Ok/o0iUo7U5at820Ekmr/q6bNiRA2Ur5i5BMZituRMCQEC6T9EpIdghjnV57XTjLheKZMbB3T/nqZfkXydI762bp7o1Go0tECUc99oP3JsVgQFlNTa8ArTlGRiLxdcqXOLiC644tdKBluLxXSQ8ps7lljgxTHQ==;JqB/5T/xuJXT5E/i4mkq7g=="
 ---
 
