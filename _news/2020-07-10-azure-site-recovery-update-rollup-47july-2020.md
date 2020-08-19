@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-10T21:00:25Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-site-recovery-update-rollup-47-july-2020/"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -21,10 +21,24 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Site Recovery update rollup 48—July 2020"
-    excerpt: "The latest Azure Site Recovery updates provide fixes and download links for Site Recovery components."
-    publishedDateTime: 2020-07-25T00:01:58Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-site-recovery-update-rollup-48-july-2020/"
+  - title: "Azure API Management update—July 2020"
+    excerpt: "A regular Azure API Management service update was started on July 8, 2020. It includes new features, bug fixes, and improvements."
+    publishedDateTime: 2020-07-16T00:00:31Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-update-july-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/22268971-76ec-40e1-9ca2-890b6850038e.png"
+        width: 1211
+        height: 752
+        isCached: true
+  - title: "Azure SQL Managed Instance management pack is now generally available"
+    excerpt: "System Center Operations Manager (SCOM) management pack for Azure SQL Managed Instance is now generally available."
+    publishedDateTime: 2020-07-15T23:00:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-managed-instance-management-pack-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft

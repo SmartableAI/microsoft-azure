@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Audit Logs of Azure Monitor logs queries now available"
-excerpt: "The Azure Monitor Logs service allows you to collect telemetry of all types across their entire infrastructure and query this telemetry to collect insights. We are announcing a new capability to collect audit logs about query execution."
-publishedDateTime: 2020-08-05T16:00:02Z
-webUrl: "https://azure.microsoft.com/en-us/updates/audit-logs-of-azure-monitor-logs-queries-now-available/"
+title: "Cost optimization enhancements now available in Azure Advisor"
+excerpt: "New Advisor cost optimization enhancements help you optimize and reduce your overall Azure spend."
+publishedDateTime: 2020-08-19T16:00:31Z
+webUrl: "https://azure.microsoft.com/en-us/updates/cost-optimization-enhancements-now-available-in-azure-advisor/"
 type: article
-quality: 17
+quality: 67
 heat: -1
 published: false
 
@@ -35,15 +35,6 @@ related:
         width: 521
         height: 467
         isCached: true
-  - title: "Cost optimization enhancements now available in Azure Advisor"
-    excerpt: "New Advisor cost optimization enhancements help you optimize and reduce your overall Azure spend."
-    publishedDateTime: 2020-08-19T16:00:31Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/cost-optimization-enhancements-now-available-in-azure-advisor/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "New Azure IoT Central App Template - Video Analytics is now available"
     excerpt: "Microsoft and Intel have collaborated to build end-to-end video analytics solutions using Azure IoT Central & Live Video Analytics. IoT Central application template is removing the complexity and challenges related to Video Analytics solution development and deployment."
     publishedDateTime: 2020-08-19T16:00:39Z
@@ -62,6 +53,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 61
+  - title: "Audit Logs of Azure Monitor logs queries now available"
+    excerpt: "The Azure Monitor Logs service allows you to collect telemetry of all types across their entire infrastructure and query this telemetry to collect insights. We are announcing a new capability to collect audit logs about query execution."
+    publishedDateTime: 2020-08-05T16:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/audit-logs-of-azure-monitor-logs-queries-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
   - title: "Azure Advisor Quick Fix is now available"
     excerpt: "Remediate Advisor recommendations at scale more quickly and easily using Advisors new Quick Fix feature. "
     publishedDateTime: 2020-08-05T16:00:02Z
@@ -72,6 +72,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "PueWVqSrtwcYMHa5sLyBnv/S6t+nfNU0IFbBXSAxRM14WXnPwAIIi6iy3A4lcDr376I+3fWXl0jA07AQJUxZBBMuRxNYnpSWtgcnfpGZsW/uYcIln13JvVJ7jb3mqf/FirOU3saKt+METslwALf6bfOi5+bbK05H32/vboBJAN8qJC6s4l4aDMuMMljriFxtJjywsV4xJ9dMGUkHIMgYPrS5tGpdTPc0T9A7yYEnEOF7KulP1TrvLRzdU6D5MRaqY7Xjhz4HIqYV/m+Z7TJ5FtzOaTOf+F35IJdKObtO9d4eI3wFh259OXcrXRxQS0DrGdk9PS9yk8E5/iRHQ7jKww==;ioOvmpWCspLSnDszYL4tuw=="
+secured: "b6+sBJUuY5+pDQ6sFrxuerf/+Vz73dDHLElvPc1ND4xLMOQPLPz/EUsvlE4nVpYoHYiXkYy/nROguu6u7op4chiaouhaClravCIbGeOWU3jbOBstUsIAA+LC5Bja4aAI+8vVa2yCOBdKdLvLAIr7szCpRdkXE/6d67Opj/4OrUcPz6tahM/6pxT5UZSbKGE80v5s37i8KpCl7TJZe9I6ttGKSAqRv9hQmxsVc4MsCiE95yxxQTu7jmeLPXofKJVCLvl940IdQ2I9R2y8zGf5O//ElBg4rbZVsTPlReMv0pwgQf662m4aGMp8qUlkpTrftYeeET/nj9RgKGe5VLPeLw==;DT0QbGFuZwu84ljsahJ3DA=="
 ---
 

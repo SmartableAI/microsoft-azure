@@ -21,83 +21,29 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Files share snapshot management by Azure Backup is now generally available"
-    excerpt: "Microsoft Azure Files offers fully managed file shares in the cloud that are accessible via the industry standard Server Message Block (SMB) protocol. For users of Azure Files, share snapshots have offered a read-only version of file shares from a previous point in time. Share snapshots are also incremental"
-    publishedDateTime: 2020-04-29T09:00:53Z
-    webUrl: "https://azure.microsoft.com/blog/azure-files-share-snapshot-management-by-azure-backup-is-now-generally-available/"
+  - title: "Azure API Management update—July 2020"
+    excerpt: "A regular Azure API Management service update was started on July 8, 2020. It includes new features, bug fixes, and improvements."
+    publishedDateTime: 2020-07-16T00:00:31Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-update-july-2020/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 36
+    quality: 37
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/202fa2d1-fc33-41eb-94be-957327f62b0d.jpg"
-        width: 1024
-        height: 608
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/22268971-76ec-40e1-9ca2-890b6850038e.png"
+        width: 1211
+        height: 752
         isCached: true
-  - title: "SAP HANA backup using Azure Backup is now generally available"
-    excerpt: "We are sharing that Microsoft Azure Backup’s solution for SAP HANA databases is generally available in all Azure Public and Gov Regions (with the exception of Germany Northeast and Germany central, France South & US Gov IOWA).\r\n\r\nAzure Backup is Azure's native backup solution, which is BackInt certified"
-    publishedDateTime: 2019-12-02T13:00:29Z
-    webUrl: "https://azure.microsoft.com/blog/sap-hana-backup-using-azure-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 19
-  - title: "Azure Data Lake Storage lifecycle management is now generally available"
-    excerpt: "Lifecycle management for Azure Data Lake Storage provides an automated solution for tiering down infrequently used data to cooler tiers, allowing you to easily optimize your data for both performance and cost.   "
-    publishedDateTime: 2020-07-31T20:00:18Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/lifecycle-management-for-azure-data-lake-storage-is-now-generally-available/"
+  - title: " Azure Site Recovery update rollup 47—July 2020"
+    excerpt: "The latest Azure Site Recovery updates provides fixes and download links for Site Recovery components."
+    publishedDateTime: 2020-07-10T21:00:25Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-site-recovery-update-rollup-47-july-2020/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Azure Security Center—Dynamic compliance packages now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-04-28T23:00:42Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/dynamic-compliance-packages-ga/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 16
-  - title: "Azure custom role creation in the Azure portal is now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-05-01T16:00:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-custom-roles-portal/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 16
-  - title: "Azure File shares snapshot management by Azure Backup is now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-04-29T16:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-file-shares-snapshot-management-by-azure-backup-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 12
-  - title: "Windows Server containers in AKS now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-04-28T16:30:38Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/windows-server-containers-in-aks-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 2
-  - title: "The self-hosted gateway feature of API Management is now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-04-29T16:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/selfhosted-gateway-feature-in-api-management-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 0
 
 secured: "DGD0exgc7AR4vMY8OkYIRfq8dDGzyArU9SWARwP+7pWLSGOONBwt+RLl8YCxqUuy0Q89D5Rmjmx++tn9f6Ik5PhkWITHvdywmmBPa1iclDKrgQ286zhS5FFp7CMD31OiIKVlY5Xl61u7orU5/7UJ9MXB0qAVuLkiWPIyC3Y2XBPCNTTNeSjPzHGlQuJ6wd07foGxqy8EAEQqF/Fo9DQieLIL8VjgFC9LPKbiBHTqV9bs/zzzESibJ7W7ZSj+nYhxSk4nXk8BjePW4eXCKGz0KkSvAUALWXdM8D2T0xP5hiirpQvOV9WdCyMWYiu4gmfSeqo4fdpIZ6OJzVGA15np5Q==;qdGORDE0LwzrQEukDTzuzw=="
 ---

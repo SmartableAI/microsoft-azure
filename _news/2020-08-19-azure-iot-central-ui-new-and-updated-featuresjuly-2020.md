@@ -1,13 +1,13 @@
 ---
 category: news
-title: "Azure IoT Central—April 2020 updates"
-excerpt: ""
-publishedDateTime: 2020-05-14T21:00:32Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-april-2020-updates/"
+title: "Azure IoT Central UI new and updated features—July 2020"
+excerpt: "July updates include jobs improvements, CLI updates, documentation enhancements, new REST APIs, and a new mobile gateway sample."
+publishedDateTime: 2020-08-19T16:00:48Z
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-july-2020/"
 type: article
-quality: 17
-heat: -1
-published: false
+quality: 67
+heat: 207
+published: true
 
 provider:
   name: Microsoft
@@ -21,15 +21,6 @@ topics:
   - Azure
 
 related:
-  - title: "Azure IoT Central UI new and updated features—July 2020"
-    excerpt: "July updates include jobs improvements, CLI updates, documentation enhancements, new REST APIs, and a new mobile gateway sample."
-    publishedDateTime: 2020-08-19T16:00:48Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-july-2020/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Azure IoT Central UI and documentation updates—June 2020"
     excerpt: "June 2020 UI and documentation updates for Azure IoT Central are now available."
     publishedDateTime: 2020-07-15T19:00:30Z
@@ -57,6 +48,15 @@ related:
     excerpt: ""
     publishedDateTime: 2020-05-14T21:00:40Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-april-2020-new-features/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure IoT Central—April 2020 updates"
+    excerpt: ""
+    publishedDateTime: 2020-05-14T21:00:32Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-april-2020-updates/"
     type: article
     provider:
       name: Microsoft
@@ -90,6 +90,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "su2P4mx3YRARPMZxegjGSYAShkKzsENazI2pqba/A7kAhEFg4lfpxhX4c5cg7Oo3BLrT8B5ywrd1YCiocKK9ooaBvEvnRu7I+AUdf67z9Lh5brThFw7tVkxj401fPHoWRGOZRxhYyO5Gc3p1DMXfHOrk9Bpv+pH9IlY6nqnifCgUPf7SXA9h+AsD6bQxZQEVPcv9eA+opb+gXqnI3gZAM0/rR4HlXS0eymIV+l3+MWOMBeLUPnHBkvEMQMRBIeNiXzy8s2JNaiHE4o0H2Gh7vyywvCeuIzww47o+f9i9U+X/m1la4R208ph7qYDngBW28jhrW6/gTBhi21E3EJQyUg==;3SQ2ColgtRmbfYEb80O3Xg=="
+secured: "2sQIvvs2U29+U+IdIsbr7eYKxW71fTN7RXHwVmXdxldDPO9pfs2Z98XDCJC03P0zNBUv5Y/Ui/Q/j4L80TXyzV9h8ArPC3/kQVtfrEt+l2XaynEHt4SK2nsYqpt/mq5H2/90wHc9xBmiYoWkPiaJi0HhZY/ntxIEdvtrvBZ/RDv6/jOyQiF80nq0TnYwLSCB2dY5LJDm21rvKqtc5Xg/keSDmBwijeXS7hXNqalJuK4DoMOYaaeOy9jm3ceOSbF4s127o96hmHaJW+mfQk9U2NY+zZkr0MrRBOXvtzrg9q0zvHpfm5SPYVFFOBXD+OkH8Gg6G8zvAB3Q5u6bp5UbBQ==;IkXFxwBT9lRQJEqNRGUrMg=="
 ---
 

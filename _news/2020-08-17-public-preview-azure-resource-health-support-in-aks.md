@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-17T23:01:22Z
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-resource-health-support-in-aks/"
 type: article
 quality: 67
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -34,6 +34,15 @@ related:
     excerpt: "AKS now supports ephemeral OS disk for AKS agent nodes in public preview."
     publishedDateTime: 2020-08-17T23:00:03Z
     webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-ephemeral-os-disk-support-in-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "PowerShell support in Durable Functions is in public preview"
+    excerpt: "Developers can now orchestrate complex automation workflows in Azure Functions using familiar language constructs in PowerShell 7"
+    publishedDateTime: 2020-08-19T16:00:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/powershell-support-in-durable-functions-is-in-public-preview/"
     type: article
     provider:
       name: Microsoft

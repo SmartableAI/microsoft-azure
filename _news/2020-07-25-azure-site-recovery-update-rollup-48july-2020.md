@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-25T00:01:58Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-site-recovery-update-rollup-48-july-2020/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -19,17 +19,6 @@ provider:
 
 topics:
   - Azure
-
-related:
-  - title: " Azure Site Recovery update rollup 47—July 2020"
-    excerpt: "The latest Azure Site Recovery updates provides fixes and download links for Site Recovery components."
-    publishedDateTime: 2020-07-10T21:00:25Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-site-recovery-update-rollup-47-july-2020/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
 
 secured: "vbRcRj4L80z8n/XMPJiaMer5s1aBpZEm2iMD1eK76B3D31vxkVKgstpLF1Il24ghLNP62i3/NnSaM7zIpON4jjwSRUbtmiTL0nH5gBJtRVPBqMafhZSlAg4NGjA4Sv70qIOfFEbrj7Zb/bRqEWRBR/PpYVlwrmyUZV5YSI3IwqLADcYtj6ESPwIck4a3UmaUEqdPyMLKuCZe3hbtF5YHsYIUXr3GW7iLtzI3Ge9X0gWA90Q4hibrkOYvDmLQ+FBaINauO7uCAQmtLEX2AlA8fcU3ibisxByM09Z3fOrdyT+/DiiRONh2LQ8wsmy8Hnsd2rYs2RkpRD17ygYoUVjMZw==;N2kX3PapgHl0tD2joS4LIg=="
 ---

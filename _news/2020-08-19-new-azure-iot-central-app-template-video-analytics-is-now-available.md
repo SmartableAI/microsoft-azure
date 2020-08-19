@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Audit Logs of Azure Monitor logs queries now available"
-excerpt: "The Azure Monitor Logs service allows you to collect telemetry of all types across their entire infrastructure and query this telemetry to collect insights. We are announcing a new capability to collect audit logs about query execution."
-publishedDateTime: 2020-08-05T16:00:02Z
-webUrl: "https://azure.microsoft.com/en-us/updates/audit-logs-of-azure-monitor-logs-queries-now-available/"
+title: "New Azure IoT Central App Template - Video Analytics is now available"
+excerpt: "Microsoft and Intel have collaborated to build end-to-end video analytics solutions using Azure IoT Central & Live Video Analytics. IoT Central application template is removing the complexity and challenges related to Video Analytics solution development and deployment."
+publishedDateTime: 2020-08-19T16:00:39Z
+webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-iot-central-app-template-video-analytics-is-now-available/"
 type: article
-quality: 17
+quality: 67
 heat: -1
 published: false
 
@@ -44,15 +44,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "New Azure IoT Central App Template - Video Analytics is now available"
-    excerpt: "Microsoft and Intel have collaborated to build end-to-end video analytics solutions using Azure IoT Central & Live Video Analytics. IoT Central application template is removing the complexity and challenges related to Video Analytics solution development and deployment."
-    publishedDateTime: 2020-08-19T16:00:39Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-iot-central-app-template-video-analytics-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Azure Ultra Disk is now generally available in more regions and Availability Zones"
     excerpt: "Azure Ultra Disk is now available in Australia East, East Asia, Brazil South, and Canada Central, while Azure Ultra Disk support has been expanded to the 3 Availability Zones in US East 2 and Japan East. "
     publishedDateTime: 2020-08-19T16:00:23Z
@@ -62,6 +53,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 61
+  - title: "Audit Logs of Azure Monitor logs queries now available"
+    excerpt: "The Azure Monitor Logs service allows you to collect telemetry of all types across their entire infrastructure and query this telemetry to collect insights. We are announcing a new capability to collect audit logs about query execution."
+    publishedDateTime: 2020-08-05T16:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/audit-logs-of-azure-monitor-logs-queries-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
   - title: "Azure Advisor Quick Fix is now available"
     excerpt: "Remediate Advisor recommendations at scale more quickly and easily using Advisors new Quick Fix feature. "
     publishedDateTime: 2020-08-05T16:00:02Z
@@ -72,6 +72,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "PueWVqSrtwcYMHa5sLyBnv/S6t+nfNU0IFbBXSAxRM14WXnPwAIIi6iy3A4lcDr376I+3fWXl0jA07AQJUxZBBMuRxNYnpSWtgcnfpGZsW/uYcIln13JvVJ7jb3mqf/FirOU3saKt+METslwALf6bfOi5+bbK05H32/vboBJAN8qJC6s4l4aDMuMMljriFxtJjywsV4xJ9dMGUkHIMgYPrS5tGpdTPc0T9A7yYEnEOF7KulP1TrvLRzdU6D5MRaqY7Xjhz4HIqYV/m+Z7TJ5FtzOaTOf+F35IJdKObtO9d4eI3wFh259OXcrXRxQS0DrGdk9PS9yk8E5/iRHQ7jKww==;ioOvmpWCspLSnDszYL4tuw=="
+secured: "H6DZ8OohiwHJqinW7PdTjek2puVmwnWIxt1fc4mq458XPtBmTksZnaJme1hzveCubjQAZqygpAJNpO5VTS/oXzO3gOAnSmrRlxEwPpg7EwWga3tYOq47zUQ7wnJktiVo+dtBog6Vz+VMksi25Wm+lpxURo02o54x68A7eFxmHy4/A4Pf0dECf1n7YdF2r5pWt3KhG3tk5xBjO+V2p6k+Kvc1KdSYDKOrJ4wFLErJDjXiocO7Lof2RqprZlTee6jHCSggNIm1imUwv86H3qVDnSZwRwVuKM2hoEIQURC0XIahhAd8i7y+nTwlK/xXH34QPDWROAaE1KXBFtCIR3N5vg==;asJaJ/FkrdfXmvLDgk9Cyg=="
 ---
 

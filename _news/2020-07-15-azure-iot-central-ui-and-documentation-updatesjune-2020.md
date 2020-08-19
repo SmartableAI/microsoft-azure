@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-15T19:00:30Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-ui-documenation-updates-june-2020/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -27,20 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Azure API Management update—July 2020"
-    excerpt: "A regular Azure API Management service update was started on July 8, 2020. It includes new features, bug fixes, and improvements."
-    publishedDateTime: 2020-07-16T00:00:31Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-update-july-2020/"
+  - title: "Azure IoT Central UI new and updated features—July 2020"
+    excerpt: "July updates include jobs improvements, CLI updates, documentation enhancements, new REST APIs, and a new mobile gateway sample."
+    publishedDateTime: 2020-08-19T16:00:48Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-july-2020/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 37
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/22268971-76ec-40e1-9ca2-890b6850038e.png"
-        width: 1211
-        height: 752
-        isCached: true
+    quality: 67
   - title: "Azure IoT Central—March 2020 updates"
     excerpt: ""
     publishedDateTime: 2020-04-28T23:00:43Z
@@ -50,10 +45,37 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
+  - title: "Azure IoT Central—April 2020 new features"
+    excerpt: ""
+    publishedDateTime: 2020-05-14T21:00:40Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-april-2020-new-features/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
   - title: "Azure IoT Central—April 2020 updates"
     excerpt: ""
     publishedDateTime: 2020-05-14T21:00:32Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-april-2020-updates/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "New Azure IoT Central features are now available"
+    excerpt: ""
+    publishedDateTime: 2020-05-19T16:05:41Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-iot-central-features-are-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure IoT Central jobs and metrics feature updates—May 2020"
+    excerpt: "May 2020 jobs and metrics feature updates for Azure IoT Central are now available."
+    publishedDateTime: 2020-06-12T20:00:10Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-jobs-and-metrics-feature-updates-may-2020/"
     type: article
     provider:
       name: Microsoft

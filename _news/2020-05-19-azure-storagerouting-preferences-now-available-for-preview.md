@@ -39,15 +39,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "New Azure IoT Central features are now available"
-    excerpt: ""
-    publishedDateTime: 2020-05-19T16:05:41Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-iot-central-features-are-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
   - title: "Azure Kubernetes Service (AKS) resource provider on Azure Stack preview "
     excerpt: ""
     publishedDateTime: 2020-05-19T16:05:37Z
