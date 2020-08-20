@@ -1,25 +1,25 @@
 ---
 category: news
-title: "Commvault's Metallic SaaS Data Protection Now Available in the Microsoft Azure Marketplace"
-excerpt: "PRNewswire/ -- Commvault (NASDAQ: CVLT), a recognized global enterprise software leader in the management of data across cloud and on-premises"
+title: "Commvault’s Metallic SaaS Data Protection Now Available in the Microsoft Azure Marketplace"
+excerpt: "PRNewswire/ -- Commvault (NASDAQ: CVLT), a recognized global enterprise software leader in the management of data across cloud and on-premises environments, has announced the availability of Metallic’s Software-as-a-Service (SaaS) data protection portfolio in the Microsoft Azure Marketplace,"
 publishedDateTime: 2020-08-12T12:30:00Z
-webUrl: "https://www.prnewswire.com/news-releases/commvaults-metallic-saas-data-protection-now-available-in-the-microsoft-azure-marketplace-301110682.html"
+webUrl: "https://apnews.com/PR Newswire/3e2eeb6df72a20273c39aa8b9c8c7cdf"
 type: article
 quality: 27
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1010127/Commvault_Metallic_Logo_RGB_Tagline_vertical_Logo.jpg?p=facebook"
-    width: 1500
-    height: 784
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -357,6 +357,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "F3LGYuiRPzEhTeGxnZUnimtfYmaq+tLMst2nYGWSKB3pCGrQ7TuFC0fpjNYAjC40JcYlGhQj+qNQNULQXuZMTSf0Zjui4TuUjh//gMzM9TOL39nLOZ59KXAI/88ObKAenOeDL0mdvjoLWi2a1wd5ZzP58d7jATJsiXockQCSptEe+lWxZ0BwqsGn1EI5wwXiHnYQehBavlxVil2rHu5tA+Iy7lhJkJHoybqPVXdwsBa4bg5JRVsM09ZqJn0GwbWDIUS4PCJZu/mnysBu/d2gGJ9u1ePZtgdvnmtfLhgCDDsRbcl40usn83cYAcbgDVmwOFbbi/d0gl4HEQz1s9Pv2w==;FoYCYbe2mKFVEGpY6yC60Q=="
+secured: "/vyR7Oj/tGqxAhXO9nkegYR8klSxsGE0YnOtjV/Ulzs4ifwcb3fa4xnvN45E15dFLYk5ySQr/9jiRC22OmwP+tGpapCbi1t33hmPR8rqgEEoXCBW9uiPNd160DL4Y26UwiL0295u90yppewz8SowJp2zRFaTh5R2H0kX75Z3OJdfug3MCl1OHjmn09d7ayU+OHw8mvccTmETl8wUuvpyzblY7hK2L5GXUy7+X8k8FTVX/646x8wsUbU/he71Ebao47eM09ijPdY4JxI9DVrbu9YHN9gnm9S0kqf/YmqME7Jw9mF6ZZvD2MSy34/mBsk9SYI0dvVXKZjcLojlEnHVZw==;DaTyEnlYGwZPrw/wpcvPvA=="
 ---
 
