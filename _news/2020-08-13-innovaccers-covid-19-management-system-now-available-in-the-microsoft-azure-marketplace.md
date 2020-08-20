@@ -1,25 +1,25 @@
 ---
 category: news
-title: "Innovaccer's COVID-19 Management System Now Available in the Microsoft Azure Marketplace"
-excerpt: "SAN FRANCISCO, Aug. 13, 2020 /PRNewswire/ -- Innovaccer, Inc., a leading healthcare technology company, today announced the availability of its COVID-19 Management System in the Microsoft Azure ..."
-publishedDateTime: 2020-08-13T16:17:00Z
-webUrl: "https://www.prnewswire.com/news-releases/innovaccers-covid-19-management-system-now-available-in-the-microsoft-azure-marketplace-301111911.html"
+title: "Innovaccer’s COVID-19 Management System Now Available in the Microsoft Azure Marketplace"
+excerpt: "Innovaccer, Inc., a leading healthcare technology company, today announced the availability of its COVID-19 Management System in the Microsoft Azure Marketplace, an online store providing ..."
+publishedDateTime: 2020-08-13T16:19:00Z
+webUrl: "https://www.healthcaredive.com/press-release/20200813-innovaccers-covid-19-management-system-now-available-in-the-microsoft-azur-1/"
 type: article
 quality: 28
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Healthcare Dive
+  domain: healthcaredive.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1228171/Innovaccer_Logo.jpg?p=facebook"
-    width: 600
-    height: 314
+  - url: "https://www.healthcaredive.com/user_media/pressrelease/company_logos/20200813155131602/zez9iqg8lghajcaq65ai.png"
+    width: 256
+    height: 256
     isCached: true
 
 related:
@@ -285,6 +285,17 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Mimecast Email Security for Azure Sentinel now available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Mimecast to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies."
+    publishedDateTime: 2020-08-20T10:37:00Z
+    webUrl: "https://mybroadband.co.za/news/industrynews/364426-mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace.html"
+    ampWebUrl: "https://mybroadband.co.za/news/industrynews/364426-mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/364426-mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 27
   - title: "Mimecast Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Mimecast to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies"
     publishedDateTime: 2020-08-19T07:34:00Z
@@ -355,6 +366,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "ooPcoS4+kSwAaxknbfKQAG/DGiOLvFriptxy9jR+2I4/GDdUEQSISL9zBlTWXV6CS5GkDJS3S7Pw8aPh+XpZsZNCyBA718rBSVhYnZ6/bKv54NS2S6TbSuStn8struvAV3mOmYQl8wAPQMZfWiN+S4M6Yys6UBjhY1yEz0FmyuDr1FarghUr8jFvLHjnLeoj6ugAA4r9+Jl+2hSTanca+QEE4Nxwz/sM/9ja6859h+a+gNpeb8x7w7FlPVmNH3WCVVIjhLl9w5+GGZicbnjJM8aIg7w10IgkmwuLIWiqGzNkZFmmS/+yN3LPoiw4HeoViM2g2AmMV5lowJEOUWmXCw==;mARM6liVthK/yAjkSDsUOw=="
+secured: "vctnrP9ZYa1N12rmXJALVY5I5nSy+nYdePrUHLEgE7M2DZqPTD8WxQCjgA2XnlNEs1WAlWZX8QNZzMHgMD1p6VHu0L5N3F8Z+td80S2Qu9d2HYPO0+iB9y3RFiYOPCpSU9BVYMrGO/Lbf7nQ9DH5Eq5frpfRxgRljqLioUc8sUzP5pZrElK3YLaKfCwhPT7eaZF+JN1anERN9dKXT65uQlIIfTq4TfOatVaCVkeLErlhMvRgpCGoiozLVVijg/J6Edp4B8zc54Iji+JtywtTIAvPrP0vEosD+ZD5Vb332lDCtQCoZ3p9MpFpgyWnWkKg4tOoZV6WsVcvdets1CFeZw==;psOMgy3JSL9j6u1PyZIxzQ=="
 ---
 

@@ -1,17 +1,19 @@
 ---
 category: news
-title: "Greater Than Make FIA Smart Driving Challenge Now Available in the Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers worldwide now gain access to FIA Smart Driving Challenge provided by Greater Than, to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies."
-publishedDateTime: 2020-05-05T13:06:00Z
-webUrl: "https://www.autoblog.com/press-releases/greater-than-make-fia-smart-driving-challenge-now-available-in-the-microsoft-azure-marketplace_23004/"
+title: "Mimecast Email Security for Azure Sentinel now available in the Microsoft Azure Marketplace"
+excerpt: "Microsoft Azure customers worldwide now gain access to Mimecast to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies."
+publishedDateTime: 2020-08-20T10:37:00Z
+webUrl: "https://mybroadband.co.za/news/industrynews/364426-mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace.html"
+ampWebUrl: "https://mybroadband.co.za/news/industrynews/364426-mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace.html/amp"
+cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/364426-mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace.html/amp"
 type: article
-quality: 5
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Autoblog
-  domain: autoblog.com
+  name: MyBroadband
+  domain: mybroadband.co.za
 
 topics:
   - Azure
@@ -293,17 +295,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Mimecast Email Security for Azure Sentinel now available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Mimecast to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies."
-    publishedDateTime: 2020-08-20T10:37:00Z
-    webUrl: "https://mybroadband.co.za/news/industrynews/364426-mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace.html"
-    ampWebUrl: "https://mybroadband.co.za/news/industrynews/364426-mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/364426-mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 27
   - title: "Mimecast Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Mimecast to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies"
     publishedDateTime: 2020-08-19T07:34:00Z
@@ -355,6 +346,15 @@ related:
         width: 2697
         height: 1414
         isCached: true
+  - title: "Greater Than Make FIA Smart Driving Challenge Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to FIA Smart Driving Challenge provided by Greater Than, to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies."
+    publishedDateTime: 2020-05-05T13:06:00Z
+    webUrl: "https://www.autoblog.com/press-releases/greater-than-make-fia-smart-driving-challenge-now-available-in-the-microsoft-azure-marketplace_23004/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 5
   - title: "Device Authority’s KeyScaler IoT Security Platform Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers now gain access to Device Authority’s KeyScaler to take advantage of the scalability, reliability, and agility of Azure."
     publishedDateTime: 2020-06-23T11:50:00Z
@@ -365,6 +365,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "oOc4PgaML9gx53k238UYbQiacg13sJlYxFGgOSoouuRAITNdsFs+0qvb8gYCkrMPYOUTta75LrFa73JNAw59JF2K1zo+rtHj5jeUKuBeoK86XCet30g3Jh8hzSGVGRZEKet8fRrPZ/3IG0QG8usoR94tWJNbLKx6LpoJO1VWDXsg2OGBpyMeyAsE4i2gbOnLXQcENdAJMF2FeZx2ja9okIePNC+0zlZ7erBf7Kwbpe/uX2ESa1L/+iOdSLhzbjJbANOvYNnDAdxXRc9hvIfyrJOMTi94y2680b53/HmQvMEklvbVk+wQCPjrMalgLV0U;Kd5R0ut3ZajebMMjzkqmDA=="
+secured: "L7TDW59NzQEb1pMcRVT5QdqReBrwHULQHnbQjb57psTziHN1Kyc6RLX7EfVDQtMqCui0S12hyBgXGLGBQx4NNlVeUVaLOh5GQQdpxAAIuUNpcb7VhvaHRo+6QbaAF/qoSQYQT8LB/+AEw0HPPTy0NB/iN0wBQ8B+c6gYmhx1iEwa9cUE8yLGW4gh0C1THknoaVSCXfzU4iRbPXNGyD9jRn6wYLzfKK92wD5xtdyJgU1v7//wa0zk4E1wCD9tBaszs0XB9QABc2dshn1I2TNTxYMVc4/eUuCOB8abGfmV+AhC2DHLWTWiBs+zfi7Lzz+75MzfnAFkGBDu/qrJ35GCyLYiBJRWCWxSkKOEr/hEyF9nEH3CxlVwmSd5uOSW1T6cRGTlD2GVa0SAQhLxVjBZxrOueWKCi9ysSN8r2YarPdBmu4v27i2+y3oCsVGi9n/YUvKAovvGSOexdnO0pQOQsMcaoXT7d82hyFc/g4+wPkl87o2QAl+VCvT3fUyAlPdDEF/CkdS6fZqJ5BE0CBLG3A==;Yt8r6eqyy6pleqe5ehTtog=="
 ---
 
