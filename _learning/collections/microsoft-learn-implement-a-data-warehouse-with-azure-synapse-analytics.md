@@ -4,7 +4,7 @@ excerpt: "Azure Synapse Analytics provides a relational big data store that can 
 type: collection
 price: Free
 length: PT2H53M
-heat: 55
+heat: 56
 
 provider:
   name: Microsoft Learn

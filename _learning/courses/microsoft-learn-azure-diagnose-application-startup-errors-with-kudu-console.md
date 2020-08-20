@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Diagnose startup errors in your application using Kudu console"
 
-secured: "vIDMtBbRh3ydMOqPE16AoJhQrY4/6Qm/xfJDTJ+ZJjpKRccnBhIzDJWEX3w/N/Lkgar4wNNSP194T+rm9ZWXfDfTODL0AhWsXsbxy1ROvZSM6ndM5+snUz2Ol8PNIiBGlI1rXC/NdCN5ctGiiJJi6jjBIEjIfalzEqKSCipd5WtUd5iyS32Pv55gWC7bi6j7UBMWwUTVkK4eeAOhMG/wG+a+7Zwii1UZrfiWiLgOXz40dfEoNbT6iVJk3O6pMPs/HkVDNKpw3FglKvAelov8uHZundKG+lHMsEjSUYCpIOsRK8tdzyiSvU3WagJ9y9DxtHe3lQLB96DtX39ZKc+zbxbSog6LLJvYGpGYa/4BwDljQFPrnqiq5/Y/MD2PGR0QSq06lQ8gqRGijir1hwTiVg==;KbP6oeFXO5th+JGH5A7s7Q=="
+secured: "03cAsUVyNkJQvi/tthJTZrKu66T3Nm+WV4GRanQVGwFWumzbP+1MIgqYBsoUtKkFpnHTomA/Haf4GT2jTdxaOVFDebHezkZhy6d3WYem+1bRhD9JDEVZNT/iatWLtpcRF7lWCs/PR65jPhGv6ilN6hWXfCj+eI8710OLmV1QqCWvzcK1/gxArNcOtcAb9DMdQJgBGDpBSi6uC1P7Kdi1/KxcTMrCtWgbX4QFqEHBrF1l/n3wMj23myV9sk9QH/2AN6E8D//P+AwLJt7hPH5L4bqKqU61ZjS3acGWB4U4aAy119MBJjH3mZfpUHK3elqqOHb8u6S7CagHhHIlvauP2OKybwL5iWbgbA0TETm0nHPcC8vtfkO688WchvebMRZdEZwHn5JhekZMqhZ+c/WSjA==;K1QmN/9RqW9QHux2kjQ/Uw=="
 ---
 

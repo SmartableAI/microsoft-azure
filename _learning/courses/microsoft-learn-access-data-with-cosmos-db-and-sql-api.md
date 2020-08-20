@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 58 mins
 ratings:
-  count: 2364
-  average: 4.651438
-heat: 54
+  count: 2365
+  average: 4.6515856
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Insert and query data in your Azure Cosmos DB database"
 
-secured: "pr3wirme2tx0XojPdHhlWffh663zQo5abzP9z43IbJtNkoZSv9s+8ZArQyO1xy5cAeBi1fKZp1GCycKPvVg2AB5oYmOmgI424kM8U8NMgEgiTD6CNRzEfm2IKJuhuiMFUQ71NBA1tBq+XKWwG4wfh5hbJNO/HsvF5CnowaLDl03HL+Z2+NTgLmK2CB0wDXKkMDhE1c3xGl0u+7tCYIbMPiGliUz5PZEvlLli6guV4GxrRtaho6MeQ4Dbzvc+tq4sysZhXGNppMeNVj+Ivo9eTkhasbYCFyeYuRICwovNwBSyCoSNtrWuGh/GIC3nUZy/eIXNad+u9gp2A+gj+TPJAH04lha/NxH4l9gF5nclL4N02rItuG+KK87BoqyUo9GSjfdVBL+85Me3jslpr05myg==;SAwON/pj9vacnaShlgY+Sw=="
+secured: "PL/NHA3JEIYtayqdt+jpDs4fTTUSzF0Lgzkja55XO5ULdRJI/VytMwcJjSxwouFnwvt21kEnnOZkvv7bFiuhtdYva3YaE+GAo/z9CDUobUof0NIz111jmzrxcxyeVy2VVyKMEU8OkykN/qzSc4IERIPgQuUronWlYBKmcoZYfAwRx0epfcq+ZjdNRf5xDKkAVfddQi5qHTQqNLLge1Wpx5EEPI2dPn3578XfEEr+t2kxnJm5osz+Nemftb15fEW51nw8EHoG+znqBR5yd1GFHrM1XOrqq8iZvpWa38QGCgokk51iEiacWv34S8lmfPbICeESafgXUoFwo2CvFEOg0g2YqJRKbHSqw+TsUzI/DvkBt8glY5r7XdaKTkqGXl6+CzWZ8PpiKTQhvxfMkX5kYA==;WosaWb9WRYhVCtVyT11Xtw=="
 ---
 

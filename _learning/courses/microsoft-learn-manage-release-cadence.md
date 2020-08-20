@@ -8,7 +8,7 @@ length: 60 mins
 ratings:
   count: 493
   average: 4.709939
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Manage release cadence in Azure Pipelines by using deployment patterns"
 
-secured: "K3m4+bIEzjJ20oDMfz4qyY+5uNI3uc2K/e5dH82oEVlpARdaGOCWQoHM+WDbI0LlmJlKHSNivGRbqoXqQ8JO01m6gzvPKsPFfpgXRT1/MpcowEiThZ8yys9AujruQu4n4CocG26YrOUC+RmIIJnxnQC++3OCvUGs2x1xUnFMAc8lAmGlpwS+bpYRDcoZcB00EDLe47Oe4efgo8Eah8aaXKA4FV55m3jQfdgfDs7nifCfd8rguThf+9tLdJPL2mK6WGvBW8R8M3kw5Ri3Q49jfkDV100IevPKWtzcdhS9MTXce5VfP3/FcwWk+XqL93tfigMA8tzymkJhC0uGjW/bmB5AgOed+O6IHEc/0kFRb7I1XdIaWOeQcGOZQcDMwC/TywzNFEHA19c64ZKe+hzySQ==;iV/ATQQnuD+JSsGKV8Abhg=="
+secured: "Vc+ojOQvTIUn9a9MB6qnUAIsZA/vXlaq9anLZv9cX3wt+X0d4Ltj+KiBGc/JfugLlHcjcwXYAb7qa3rBpxuEbY6basQvPnebIFJoxf2CiIxMgYxOsYlvY1CEi8z7zdnEW4hwP7YEVXIHel5aT34bx9q17VbPCNTQnckwtiNsy5SKYgTVXdf1PGLcE0kvQiyWMJ9FolXtlFjDUP0zwDCwi773z3kEGDYTd+bbtpzmLxan5+zfW/gByzGi9QXsCx8P/AfYBcU8VTK4HQDVadhpnQw8vzE7OZh/iBZNF7zBe5QEKXSayGGEGYcVX5D63W1A1xlkONJQWXZJqooZm/6/P04qpsPYkCpY8jPIGHJ1jUeBuf98F5oSm3xXZF/ObQZbZDTytsX3IV29KOnhbTXJqg==;z4HwyjAX0ghOD0Q/g8wlGg=="
 ---
 

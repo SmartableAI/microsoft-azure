@@ -8,7 +8,7 @@ length: 39 mins
 ratings:
   count: 623
   average: 4.8089886
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Tour the N-tier architecture style for your application"
 
-secured: "7fMmoMwsI1hgd/H32TMi/VHhrBbsp3dP324cdR0c3rNrAizs7Au96mmrTlyiDepA8EvJkWrSymyQenQ23rUgy0qNdVkURcvZXUzSB/5I7wyF+y51PQcR/Gm/603O0pt+YekliCpFc1WmtStt3a64aIaOR9M9jJfVFaU6w60tQGoMQCx7FSsN3KCvz7OsdpRujVwgmBqNLYBY9Pzrnelee81pWg7TfPhwVE7HgxOPl8c1B9FHoHCWmsLKMbyzgPfWip8N2SlYFBvfhwBWES69HpuXmys5NPR2Bci/SQMGNdC5be00TFpZllKOTSQJ4xc7Gavf02ECboUSNZaxVkdgI6nndfjlBFH7oDuTPjmTdNgJ+32m8vHRn4jEY2IowTHudwLtba6/FgaqGReCAISJkg==;5SLXLNFx7AUpxqONfS3N7g=="
+secured: "fy2Kw8LxDBPFQQ2/Ic9MhsjP83DbD+z7juPtpQKrn+9qhfn6En9rzHBMZ023r/Y6FVc+KjpcLxtfDgGhbFN5IY7foi6QUilJIcVdm0HLDeRfMiVHmH161qlXiANjizxJZl0txQXi1RIyWhDHUY12/+qAp0RbXjeUykRsLKyJ6LSH+cd+8E3RT8us4RN7RTw/kGwUxcDQDy/YHVOZGWJabKXinpnA8QS+IHKtpGvOBZvfvkj83X+YjsC9LBseI4pJN67eG/7CjyJszLI5STI6qfIdDgys+fuQRuRj4CeeRXS/treMjjjqiaIrKOev6JynN7d3w4x9vFTifa9aSOCGt2GVCvXKtcfypHW78UAQF1r2ftMbxSIbv8gHE7t4NqBw12ZM75js666H5NjPnMGaRg==;zLQxDTwSLsgRIe5430kidQ=="
 ---
 

@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT42M
 ratings:
-  count: 53
-  average: 4.754717
+  count: 54
+  average: 4.759259
 heat: 51
 
 provider:
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Work with DataFrames advanced methods in Azure Databricks"
 
-secured: "KCerdV2ixVpoo6QewLDd666h/Q9rIiHEGVupJthNAa4GcGrZqmMrgUTpVJH1KUSMcJ1vfPDNQdQJQcwCs/uCXJRemPu07a753ss+MhNGszOcL/JLH6SK3pGwmqK9zO2rZGpv5TZLGdgepHcpRyhQZrKEiyD7Zy5eiukKUKGlBiO3NzULoIUm2t1i1X5LW0W6l03Wj86vBKhjjm8EDCLc8nBWl2uwTSYSxi2FBpcLkZVWdyh49RxuMGqoe3D8wFkfWqd8gG3xYrgobn2jIwbbYThJAQ9QFT2DgYlZSFw6doXDzEThj1x5K4jB8rmADf03/hXYz37OfWm9cMMsh0YfoyOVY/WHElyAkhBzQ38straWhBeXZKVxRwg0BMTyGcJUvgBe5QTyUznedkcnfIfsLg==;ew7nGEjOHXDfmd07D9NorQ=="
+secured: "6zjfrlSl7gNbfLhWdgYwHyUnF7mXY5AEh8eGueRFEE6wYWH96P6ovz8c32Rry5qkTghblx+xp/BtePhAfz52Zi49xpX9iW2CYL5bShp3BiiqEFXcjqYyIG/8RxTxoFhhUTb7LJwFzgImRSuVNv/o3LOhz8MuOwJGFVp2NP0Y7atvq95nzvBcCxOMD7GHTTnWGDCziLDfgQhlclZ8uAq0ZA0Fz1MwOx+6uzf604W8l761ZadQx9XALZuWd1b+V5+8MRW6x5yaYDIwygIpXAeU+tnopYrVd6T4fFvxX3+YR4wvNHuM5ASPrYpzXXTRPs0HD0TUU0Ngzi78X/U/LwuQRO3SCDIphoS97njYzUN97WFsg76Wy3OApa9ELNq00jGIIsE/f/IjXyrvKFZzLXKdUQ==;Sm7znQgYn62vM6CFp/uJSw=="
 ---
 

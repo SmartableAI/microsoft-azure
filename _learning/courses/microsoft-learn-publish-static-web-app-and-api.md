@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Publish an Angular, React, Svelte, or Vue JavaScript app and API with Azure Static Web Apps"
 
-secured: "n83erLdi67Sf3s7to9YM8APJyh+alOeQ4N6wo6bsV/eghZDbxNG+m5Y6j/Xc6o0xdEZDz9vAFr20LETR8/X0KtPIa/oeMwgBXB+LSppOCfKxGP66ISSq1/80xzi4Y86qB56Jtykw4vw7iFFEPACiYvRLvXwNudYUYl4IegOEk9kb9drtoNijO5tV5DUWOAX8I1sK60SrOsxyQ4c2kIUsnzMnhwQy6Ku1XPSGhze+0wMwvs4sARbTaC0hdXY6Qtz6lNTivYWpu2eaFYPj+CR4KT9nrB0Ee/jHa1haC4T0+dD9k3znIFjDb9jOxSXuVOLsy49QPx5GeJghn/GEyCtnEpCU2qinwNBK7iHwY0m/M0MSnzGAUV1erWKaux5dV8PKEshlwvsAq3OHg2N527YkyA==;vHclUR7WnHnLMzuu9hm9Ig=="
+secured: "lT/2JlJts4qugy4O5AO1Y/ClNZ4tLSxondLZ6dDqRwVTG372yzPSmryxN7npSn75HgDKbVRic7oW0MZFC8WKRYRZNbSPHLu3OavCbv1i5YaWf5R3o5zL7876s88q+0OUrfmu2chngEHaq555OjtTDkL/OnQrLNM6PbEQk1fqLwI39z7x2t0VDtv/8IP5U6KKt7J7Z4QV8N+et5Bi32EbmM5dqvLLtPpshOspr4Q/lP4dIikHf5L0T3Yg00Hpl0bwf3pNiYqdQmmNnV18qlqlwtO3hD2p6xC5C6Ypl/tHlElAZNddyDVKpWYi3IcDIxPthF/GWWQhTc5sKBJh8ZVTqa8owTP3kR9zmtd0eqcD/kHzA4qWPtXhc+1Rs6GuuCd4CeVc4OAoKGRYPb0HBMOP2A==;dyYETSXZzlt6jXdLaMJ84A=="
 ---
 
