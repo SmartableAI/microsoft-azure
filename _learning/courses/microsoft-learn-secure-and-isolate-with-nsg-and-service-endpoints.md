@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 43 mins
 ratings:
-  count: 3062
-  average: 4.5653167
+  count: 3063
+  average: 4.565459
 heat: 61
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Secure and isolate access to Azure resources by using network security groups and service endpoints"
 
-secured: "wj/Uh5+wSI7yP3w7Ks5hZadJsnyyM6j46FpdhYzXVrajalK+JTwNsPHz+RmRB09vq2MBNbmy+ss0rhrJzyVcOJUaVK/aLI86/6bJpFuPmcDO/eyNEd5HhvbL9sQEQ6Y3+RS9rabkSqyjMw3k75SRA3dD+G+ZI6TCPBJzDeEwwnjWakRqpoy8rVWEBHElWHWwkiz8Se4jNth/fqBEZqEJi8em1t1voTiOBXdlA8o5TiHn24FOFM3AtabwCTtcPfVUhwH3//qmIpDf5PMXqZObLFqul5oS+ic5pd5uyFFN5tGxC8Qx9jfPL2sDXMet6T3lgF++HuqbDpYdM4YNpSkAbCHL09viV6nOdFlZDDJaH6Z6pTQ4nyz5qS2OJynqXXWhr4VV98nj3LG46kjQCNAj1w==;7JgaZ3TXlKvNedwoW4Crxg=="
+secured: "bUGTsLJmx4WQH1MFw9wd5dbtfLqfmUJga0FbVbpFlo21HXy1XW5eIuzyX/GE+++Gbv4+3Qpa1+5jH/KhvZiZTR3RSFTnDlhUeeZYChf1CI5HLJV92BixXvzh2SQ2e4VbOWi7oM76XvlQNoyustzwDulx1t6/rReldjplogUl3HSG/DUWIgdwO57Z9d6/tsBu+i0mRsqo/FxdAFMiPE4zk0QdfaIysOFCMTdoAq3ViJnogfT9RsYS62rxrTwZMIZC2sqDRIUsnaOLLwpaGdMxWkgabsqS0w/0+ITH49iakYA0Xi+5R41qFdPoAr4lWEi6QyEX9sEsNAlucfpLeXegFiGjQ19qvFhbW5MXu8pojphEkLxUXDF9Z9OnNelF/eDlAcrm+hnm4mGqowTRgp0wJA==;w/sBJ/zRznZqLBpHc11rpg=="
 ---
 

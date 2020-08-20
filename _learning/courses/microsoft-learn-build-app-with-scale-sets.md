@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Build a scalable application with virtual machine scale sets"
 
-secured: "a7bLOKxbX2qdjk0NKYxuo3eoBtKwVyMEwp7Q39zeNdQi2hFiQ11amcGkiTLag9Q+0mjMmkXHQUzbrKAkG8BfMJgqUPG86BgYQWhT47OpVC5tWg+rASLT5E94N4odB7oqqUHJtixxb5A52PGR4ClTbQEpQoQciJP0DKKFUbKAIxmHoM5tGvFZukdwccbgNFWtyQ7n20ISW5oYZsrGm9O6UKqbldl4UC36ykm00Ck1/jGzYicc3aQr0XIwjXFFwaet1auClrNxG9TuqAJi8emcqDbKw4kd6+i9X334848+K8a5G//EfhJxGAJUaXlFJxTAv4HHt8Akfocg3bu3QBYma6jKiKwPY+hTSq556Cv8fjxRmbHMO/2IZUz/lJczdeDXgDdSls0HpSDR28w5yy5wyQ==;00708HfUqeygrIbZzYdnDQ=="
+secured: "8Z6bVrCDiiKp+V7iE2ChBXNY6ojUrae6y7bgk5YMIXpwrnrFQGXkEvqfAzU2a//c1+r26gp/T/1V1RF89zFBQIi8S5R+d0vhE9V/xOYWdzm6R+SJQBV/MTe1+c5ZJworixbixnxI/muJ4t9Ap+9sKOeCHxrhBnvwTeluxWPviXEv7aJ7SnikNCB+Ue8edWxp1eZ8WklNQisIgaA85m/ej3Iv6U0JoaK0ti4AI7Vn32mlAcO+jbp42nKdUXQViQRmPekVkc+CFnCjmr0lYrHAxcv98W/CcmQntlL1bW78m1FGwg9maqpcYcoIqztx5UQUlcCkVpPLsRFRqIUUHgzjj5NeqGQSbpDZtTxAGfx8urNAwbOL+R/HB387dVOq8d3+WUGZ6h2f3bZyrgxsDDCSOw==;W4x+KNVgkkzWQHEA/e2tnQ=="
 ---
 

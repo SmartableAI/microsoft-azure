@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 45 mins
 ratings:
-  count: 63757
-  average: 4.711436
-heat: 122
+  count: 63767
+  average: 4.7114654
+heat: 132
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Core Cloud Services - Azure architecture and service guarantees"
 
-secured: "EOk0j1KElbGye7o5xSoThB1s5lZWd8SVPYuU3jRM1r/H3jdpCYtBLhaeqgfR89kjaRFI5gBzRx7b3F6jQO1XDbzSgwYhXYMvMRxppBQGjBKGS4B81eYdVY4SMnmYLJjWFiC5zUiqS5CTOHvkLCLaEV3ArZiKX6qgCtctudizw8KRj6GfEZCpNV1Fus7FQAlLmkYdOC5MSKGLkK+je6BD+R+/yilDZiWKHRfjEGWJI/MDlYwkjwBeSbTk3fnlIvAlgwaVdAb6q+8EnTTXxTDlaP8Ot2vWvIb3CW7z6O/R/IA6ib4KiFurxQa4Oc6SK1KK21blg4jWEFUP2CFGvDW+JD63FKBUofpzjdF/ReHQzsD+FtlsnYEC804YyuQiYj+8h2tk9poZ+Pzbccs4TlqyhQ==;aW92Cka+w/dYKGJceke5Dw=="
+secured: "1eFD6xyY/KZ9kyWmvglhnuVp42bKGj+ItGcheP2UHPui4DKq9Ma1QqaZEhPgdEmB3wjo3/8ME1uhiknbGYgr+dfmKZDU/MbH/ocyWiW2V8HqOZlHwcAY5nJocTTQPFSUta6bReOa01RZ5/bWswZAz3Vm+6aayZdqhd7Cjj7lkHWAKrj99h2KLR7qPX/Cehzbymh5AltCEUhBHhI2sOY3u5fD84N6M/aRzA+kJHQy6AII1pHOTFmeCosOaEzkkt0HeFXcYV9eRdWL5zoeISPkhHe8QUUJeBcUbJWX95LdEtARwpjgf+UtB99EvtC7uNw3/h2yM7Mgl07mBpMhDROEcMbV9tckVtI6I8hkmVFUXC/mSDpuzb2p21QoK0A8aQTnRqqV5VS5w1dX6nNRN+v4qw==;4sSxgiPCU8RdajbYqY+hZQ=="
 ---
 

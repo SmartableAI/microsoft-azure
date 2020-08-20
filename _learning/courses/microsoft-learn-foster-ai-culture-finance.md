@@ -8,7 +8,7 @@ length: 39 mins
 ratings:
   count: 633
   average: 4.804107
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Discover how to foster an AI-ready culture in finance"
 
-secured: "pWGnF3cgPp1v411sNZN6kEAImDMaj5e6SdhM+EB9Xkvss1+WbaGLGQjcdLc7UnVOoW5vws//KGCk7F5RoOyBO7o3d2mS5F8B+0W8hLZvx4ZQ9+A1HYlMxBfp5gSlBFGlvWJzfFnBGKCgiPKqj/P1LtI88C/Lq1IVN+TsvsIwg6XHwn7+ToxxryXMuMX4BOCVqBr9T9l1AQg8OOV8Br5Jlur2Bc0ywdCeVrcZjAAQ8i46y5+5cyJM2ssLtqPDPEAXYWWcfnO8tBGlgRYJ3UBZJcKK1QBH4JGSuv3W18mw7vRPKa59avSYdWsz73trBYq+i92T1Jzt8PZjd8P5qUShup2SUFs1pQChy/H9Tof2m4C+ag5V8SBlc9KWonowvDWGxV1Avjg/LqyoJZIbO7rjrQ==;5D3dd67Prhzc0raJT+p24A=="
+secured: "qhz/Dc1/gNSVuukVAneVWB14bYsDsib1y2zb93OFk20URytpoHP5kvhR6dDr+9ikPBlIVSGc62FXFl+wNdBfaOCNNzZA1iZiyXaMDXXejabexyGS5X/rLA29/Zd2ohzIiQiZ+HJkkOwoHgdWZ8v3IXO+3RkM2y5KeQJ9f/YwZemB4XjNHzq1LcwuHNNJi74N19z44VrrFnZYk/RS2edbs9cafB470miWJ2fc0miYrTR9RE9UmBPLoIqEN5dUTQSYQTloQiBk064vSqV69N54Fc62HYei3ru9tZVWhCcGftIQFjllNJ+rTnJm5CK7+5psKzUeqZb9R3JRSqwjO6c5pJoTZDkCIiL36B2iPc2pZUeoCf38TSXjlRPK1HssFDBlQnLdrBS3cOPyDl1jaXCqiQ==;mQZqlHBc/rz42mWlrROeNw=="
 ---
 

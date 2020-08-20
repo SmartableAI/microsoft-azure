@@ -8,7 +8,7 @@ length: PT53M
 ratings:
   count: 72
   average: 4.5972223
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Create and deploy a cloud-native ASP.NET Core microservice"
 
-secured: "fD4kZuZ59ybZf9VvYD0+oihlETdjPJMssol6M+fD8DbPSp4uwJwqv6EUuddwVTt/w9/jmSLxxdkx1tQFdpygbjeuatUvM7rKRtt2xqpwOxnh9G+p/v/rPIYRPT2lAtjM14XmJ+MF88dDDxeqKxAvhNZvc6vLDzOMRABXnk8ByUnBIjUTxu8i+Maeoy0cJxwc0J7XaKU10Jl87PfJPyV3e5M3dcN30fzEBtv6pTZX8czZ08e87tZxldF09Cty28WZ4LiNckuw0Xp71VRt4kT2P0kaRnBbtcco+V4XBLzesMkJoz40iSo3IIktSiPltbtsXmYSGbUHPhkxlDIfmzZ0dQsFHpyDiHUHqicsudg5Z6GdGo573DNFeeb5wi7MHRuYLhuSLW2IC/7QCFHn87XttA==;y28Irc4yIbAjmv04eqMT1A=="
+secured: "x3Lnr8ApKDTuk9rVg/BCL8qAcPRow76WF9JNlV50YkodOdlISpiwzRB/Qg8lO/2ebryxswhLLqYQ0T1C31AuZLwY0gkMUPr6ltKOYKD05aprxLJjWopGyE7dAEGSlRMDR9xwemKLJSf6ezJp3bS2h2NNdvwMFCQBpYQ6SRTMKhAbbUt80WMvq+hY60+rXUZx3eNi0MpNz1dDH2KME5FyK23+jW26fH00YkZobx1aopEWYOpraRfulDilURJj2Mqsv8YzNXNRq2J4hWGpwCAibL6n5FpaBDVena+HCTXFglv9gO1N+5E7+RvrxEqYGt/0s0xnGw7EXLSjMc4dRpaoNlFCJGvjjlq8h/nqSH9lxg/OhixaNBPANeXIsze3SvrIap4iiGS1UKtYDTP2rcbleg==;IzikdMUWG6gjq9KeT2sOhw=="
 ---
 

@@ -8,7 +8,7 @@ length: 41 mins
 ratings:
   count: 144
   average: 4.7291665
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Provision and manage cloud services"
 
-secured: "MXcABNF3QNWo6+YhwWt5wtYFPZPn3dJDRMTHSa4OIbpUVjt6/KsNyhhiEogGlpSuVXsw4y/egsnhJWu3OEak7JpEf+Ro4AYQ8YrWvyLZCZElNxPyEksUzIzWvD8PXGTd2jKV8pGYlNwINBzqSX2eTmkqgxhyk46dCacEDB0Y4GH/vZlBptt+MwuVKYoyKpp8amSEeVgGd7pY+efQh12dF5AU65XUmY5ZpkYucZ98fQw8Kk9f/NVbRWSjoFsWITR/K16m7Zy8jHFZz/JP1IBGD+O33MgGWRjk0krB1LCYfdwm072BDxjD04tylx9wQOTB1HvPh9rpc57RoQCfyy/eZpPm0aZSmxgNDf2QefE/ACd3xDB8dojPxbrdqoqx+rfBOmobHtPxAAFvLY68NV24JA==;VhaB/dD3jyvnPnSc2dBxow=="
+secured: "HzXUJiAVZf4zUrYkcH7Nv5T6/gT1f15XtyVhsL4egTXDAM5l94AUdtWmYtarCQ82PALRf7e7Z6yNgLwcHtYLsPR1KVuOO8fjO6j36WnLlVATg47iqdO8ajp8lCrrwiSgbwkTiJuyx68csTpLp15b9DGXbRa1exNsTDW912onf/+TVBt7TUInv46ynrBvG6kZ6FaWUzdSQDnkhaUq77ROec8SrKg1CIqszx6/HYR80w2gUYdb57u/oXowFWcba0V2cg8erFL78xxQMGQtd00d+hWM85irxUWTHxIZSKpGf7cyoYKz6ZAcXxsXoX7NtM6rC1wS13KenbsVmjY+1MDPNthqY4tLhZc3ccxdGJse2AzzM2p8n+ruY3Z1gEK/7c5eVq/ZBjMef7kDvd2HE9Su8g==;JUpg2EpWqowJJ1rMsYd0qQ=="
 ---
 

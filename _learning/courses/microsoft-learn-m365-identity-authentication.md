@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 8 mins
 ratings:
-  count: 1008
-  average: 4.698413
-heat: 55
+  count: 1009
+  average: 4.6987114
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Strengthen authentication with Microsoft 365"
 
-secured: "ZyggWp3T+0aryEKT8Hkg9Stw3NxmqfMhRh10HzaalC+UddXNi74QeBUdf+XmD/i3sizcq9/2NKScb/YjcpuJNWpYQpyULlGqgJHNgCTszlbR1MfEmc30RLHCHZmKixcgiq/5yhyLGhdmgTq0MirqTY34x2SR/C8zHHWO0OIYd2cJxwtMV063rPmzsLJvaMaGoQSTSUIxBHiJeGhLhm2NstHF8M8VP+VRpeSnua/t7GRjv1r/+/SoFaJg00zD9wKtW9G+sq9FclzJ7bRF3TQsTSfPc23Of1FSn22fvvIxqFyKm9wquec4z7ZMeyz1ZeajdUCSjXCvIbwUqCV71uDZ7yQlQXZ/XSnXRkXYMi2g9t3vTOEXF2O1NXWbT69PPk8osC5B3jgKafEP287V8HYzeQ==;LhjvBvKfxn/rHyirGKzWrg=="
+secured: "VQ4cWJ+OXHXb8yh4LjZnur5/g8oDHYLlFtF3pxVzPfNz9EVXs7Zoor0hX3wRxo6MfLKCzBjz7Wbeibxft4IahiZTuc1zwyyknMjXRa28cNVRCh8VO4Mz8EV+PhYdi0F213yFgLudtcsHyuL6QxDBmFw3xorN+/03FV3SvFYXAJa18/y08KUHAEeNp9GkKn/x0FnSiG/WJ6P5X8bTSgtOavB/c5ERmB6uK5n2uri2GsJ/tHjMpZVLWwmBIK/+3XMSq5dYrdV6GcRtMW7iIoqTulwEKwqyY9mOc0Qnc+7zHIwmOFvt2lN/PEOPiseFW+w1wqNrmKbrSvYjYR/C0/uGsVOmhFaIaK+8JX0+JDGMMoqnProEbmZw3+tdxe1FwGn8gno+Pczx4vKBgLw5eUD4gg==;olVo2EDt4/dbm7pU5vhxrA=="
 ---
 

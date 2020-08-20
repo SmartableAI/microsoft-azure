@@ -37,6 +37,6 @@ images:
     isCached: true
     title: "Automate Docker container deployments with Azure Pipelines"
 
-secured: "3qc42+GtepXnvhTKfCTrg/lz4IFTLOFM7AY2MS6DRYbvPZAkknMQNZXKEKi/3U5qqvRtodurdd+8HWmulJcjw52E4PbeanyEkBuL1CPvmQx6zZSZI5Nz6iPYOKxf6XA5gm2fI9S86SPvrwWUH/x9m904xe0tmBruPi86XavbXxDPQnrFIZHxJo8/izjugKIGUMyhK5dT2coXl7HCUDHbw9n/6yqSWJts7K8w8qtaC5OrVEfN2y09J//mgLAltw2bESuy7fv7ngNDzse2cbs4PvOg67AIps5Ts/N7/IF60PSy+zMaWqPi0atxecttCqmJloGI0oVXRCdo6ia80k74EtKRRTUiepQd4LzH+UCCeJBIQE8op2mL2keV9NhTE9WVaIopC1y1pRddcA8NbW56MQ==;Vz3t+1D+L96st/l6F3IWuQ=="
+secured: "WlqhdrwsaAt5nS/lXACSLLszdD62vzlU1nxcwjHPNTrOq3Nv04wa7thyUbGdy6+NfAaXIHVndgN+vShjawZUj6ar3aqaiyDEv6ZixZz+SxEjR9Vsg+msq9xBNEoX2KJPmA8UJqR1RSLaaUA+4mR+A+U+U9FVn4wdJPIS1T6u5KNq3YyYFUQikyEMExYUi7knlgvx4b6dKcl3sAFTUGSyS1sj9D7jAHzSHn///wjmmDsJS1rVI6ow3sAXjubXbZYAMSpMVOZallXWsSYjXi7iMPkSQWmVaJS9SxVTthwILuFJJIACLpuz0S//mH9Hubx9CvLMkk7sraCqnDCSPgMnwQ+a/2Mxk8g11XznxEBd+TV0XSFZXaS5jwvxOw1akGH+iRRNLd4Jv5LS33f1iFxyfQ==;wQNU9iiUOBJw1Vj+bFc5Vg=="
 ---
 

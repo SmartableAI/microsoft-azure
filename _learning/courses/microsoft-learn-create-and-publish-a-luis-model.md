@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Add conversational intelligence to your apps by using Language Understanding Intelligent Service (LUIS)"
 
-secured: "65WdASavoIDhXLbEdVZO/JEocG4DUldG6Lz2VVcb1W0S9p9+79RWrAH2bwJW2/+jFHcT50tfk3DVQi391oGUS8HzW636uLsdnc0nc0re5LvdjNsfUSD+IdCMoU/87hpYIoDER3RDCqRss3MrMlgOsUVekuDZyc/WpwH5n7cyhmcwy29XMFG5poD1kM5P1+6QDxt8OrARvZ58k69pxKwjxdPcpWxzyw+59/ehr+328mtWsxHXuaK2T+OggT18uMkhDcNGbhtC/TOsnZEWe84HcL8bPjbSQValwS4tUKm2/SbQn+doHNUkLPippapg0xXQr6dhvBRKJIQY4QWdOh4SsH6xRJIAgCnwIFI7u0KjuzhrKERAVAr1pSLxmQ6P1vuMFcmyyd4sFs+l6K8cz2vLuw==;tyoB4qC5IENXmJRYr0yUTw=="
+secured: "XeC4FY//JptAIBQHD1wPfrMXAxVyxWW4OIv8oCq2sdbBZ/mQMqkjTL5JETbRSoxBOHvZ4PsMFC5mEXY394ipHpjRolFYO+vTn1bd3/V0h/jgGMwgExRytkSNB8r1NRoIrBlYry7jd2zI7TDsU278gkRsiau62nGZMwJsqKlN+cUGBPKZPS3s3KC+Lpco9KhnWOB11FrgZ/xNSA6+iiM2MNN2jr78fztS3MAeTkwW7ngM3+O+jzag1Cu7Hh6O81o7gGwRM2+uZiJHyay9yY7JcAx+tE02QMdR+EdQz/09/Mr/SjI/qVv0znJ0BH5mEwCReVOjkVjiShiXy2VRRKbYPnVQrSLGt+4LoZHEI+lZyqMSv4ooIf2MHjoqy11qduPlCv5D24XWB9nX4n+WRnQWNw==;Sd2JWKL/4L4i4FUc863/KA=="
 ---
 
