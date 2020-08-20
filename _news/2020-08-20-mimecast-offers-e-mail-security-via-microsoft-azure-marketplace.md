@@ -1,30 +1,38 @@
 ---
 category: news
-title: "amplofly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
-excerpt: "PISCATAWAY, NJ / ACCESSWIRE / August 18, 2020 / Amplo Global Inc announced today that its AI-powered platform is now available on the Microsoft AppSource and Microsoft Azure Marketplace - their online stores providing applications and services for ..."
-publishedDateTime: 2020-08-18T17:30:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/08/ac17142440/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17142440"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17142440"
+title: "Mimecast offers e-mail security via Microsoft Azure marketplace"
+excerpt: "E-mail and data security company Mimecast has announced the availability of Mimecast Email Security for Azure Sentinel on the Microsoft Azure Marketplace. By logging email activity instantly and making the information available to Azure Sentinel,"
+publishedDateTime: 2020-08-20T12:25:00Z
+webUrl: "https://www.telecompaper.com/news/mimecast-offers-e-mail-security-via-microsoft-azure-marketplace--1350913"
 type: article
-quality: 57
-heat: 137
-published: true
+quality: 17
+heat: -1
+published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Telecompaper
+  domain: telecompaper.com
 
 topics:
   - Azure
 
-images:
-  - url: "http://cdn.newswire.com/files/x/26/69/1756aa85fe2bddc31a756e61b382.jpg"
-    width: 320
-    height: 220
-    isCached: true
-
 related:
+  - title: "amplofly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
+    excerpt: "PISCATAWAY, NJ / ACCESSWIRE / August 18, 2020 / Amplo Global Inc announced today that its AI-powered platform is now available on the Microsoft AppSource and Microsoft Azure Marketplace - their online stores providing applications and services for ..."
+    publishedDateTime: 2020-08-18T17:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/08/ac17142440/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17142440"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17142440"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+    images:
+      - url: "http://cdn.newswire.com/files/x/26/69/1756aa85fe2bddc31a756e61b382.jpg"
+        width: 320
+        height: 220
+        isCached: true
   - title: "Microsoft Improves Windows Patch and Azure Service Communications"
     excerpt: "This notion was explained in a June Microsoft announcement as \"infusing AI into our cloud platform and DevOps process, becoming AIOps.\" Apparently, the AIOps term derives from analyst and ..."
     publishedDateTime: 2020-08-19T01:09:00Z
@@ -67,16 +75,7 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Mimecast offers e-mail security via Microsoft Azure marketplace"
-    excerpt: "E-mail and data security company Mimecast has announced the availability of Mimecast Email Security for Azure Sentinel on the Microsoft Azure Marketplace. By logging email activity instantly and making the information available to Azure Sentinel,"
-    publishedDateTime: 2020-08-20T12:25:00Z
-    webUrl: "https://www.telecompaper.com/news/mimecast-offers-e-mail-security-via-microsoft-azure-marketplace--1350913"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 17
 
-secured: "CxL6hpOtj5NNzSejnGIBaJq6RdXZD3qsya8qOm8qa1iwEyiMxtleU9i9dW2Z1Bm+N1scYO3aA/R+CC4JsRYPBlEC7k9wckBgIWA1lo9QUQPAj1B4Sqb9AkUtTNcDNraMWqKrNFMXMzF4g5uT5qLTTM+hGmFMUGs13zPfhcTNDCKAi36bsmvElv3HP0QIhX4X9D9f1JHODbxkj8NtSr3aga/XbLP/f8Up6cAf5k8qR/B/1XNpZNkJkYRCjIZnTcbXO984hp080YmCCeA77pHLpqFEVJA0BlsIVo6fD2cHQxtEE8xPFwOMd3TlBdBvYO8kr74wlq3FGk+WWER4McWo0ECsL8L1hzrsP9zQUqajc3TM5fyHBmlzKl1ftvt/g2tzv7G78RJdcJFFI2lvuTpv0t/FWy0PhKfkXPD8fey5zezdLk+IW8zYhwXIu/zDNmYmedC0aYLLyAfBCLJ7ni9AMPFIfgJX/e8UCZaSCXG32Kmw2EBhLZFcRXhWzya7UsT7;PiScGs6pb4BMFYbcfOy4zQ=="
+secured: "T5gDAMreKgCVVRRc44AHG3uH4sY2z6zXAfPkoHoTkzWDFWNm4VYB6NlbJo03/jkJmep3J//ot7rDu5/9/whwIvlh4Ks/asRN9Bc+BAL+0t8SN5kzv5G7nbPjgncHKL2EY2WS8fX021KkpUDfPaOxEm+zuGEBPDdfWW7JgmRATlpXXF5D147Mjlh9FZI8WvQjck7UNUgPAMvKS8g1xonR+752IvSz3texLsCs+U9dHzDLYjziXxt7n9f6A7ehLVhtnFj/erelZgajb+1TsxgKJURF8A9vmGgQ8kbwyBqmNH14yKxY7W7AtJe0P7ryuKDcmGEi7bw8P/ZgUghtSRc86g==;u8gR4UW2TSce7DIJRKTI2Q=="
 ---
 

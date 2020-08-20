@@ -67,6 +67,15 @@ related:
         width: 320
         height: 220
         isCached: true
+  - title: "Mimecast offers e-mail security via Microsoft Azure marketplace"
+    excerpt: "E-mail and data security company Mimecast has announced the availability of Mimecast Email Security for Azure Sentinel on the Microsoft Azure Marketplace. By logging email activity instantly and making the information available to Azure Sentinel,"
+    publishedDateTime: 2020-08-20T12:25:00Z
+    webUrl: "https://www.telecompaper.com/news/mimecast-offers-e-mail-security-via-microsoft-azure-marketplace--1350913"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
 
 secured: "ufo6Z22+OYG3WJB4JSskeMaRO7dSPK5sItAOMt6BieuWlMI1+RWX3PG2BR0EZ3eDJO2xJYYMU/S701vplKR7lb60UM+l1zfYVsLm0e6L91KaaznhMCGSgnv7vnHhuUwvidrNELLJX/gNoUraQtcjJ3lgdvUe8Su5oORRE+HL7wGvahyDa3WByi7lvzmB373tG+4L4Ve9lW+kO6rX6+XIqEEnWtZuTlopcs2tYgEhnzrdhX+dwcAq1sUXpiHNkAUWCW6Bk+NVGzIEA1Dq124Jp/pLOC/w1L7/1JxW9SFGvC+OUmexyB58LJ68fruoTf/vgPMuBzziCHcterLIppr2pQ==;ZZqJJIR7Wj4TAYmsUcy5Fg=="
 ---

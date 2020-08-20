@@ -1,26 +1,20 @@
 ---
 category: news
-title: "Innovaccer’s COVID-19 Management System Now Available in the Microsoft Azure Marketplace"
-excerpt: "Innovaccer, Inc., a leading healthcare technology company, today announced the availability of its COVID-19 Management System in the Microsoft Azure Marketplace, an online store providing ..."
-publishedDateTime: 2020-08-13T16:19:00Z
-webUrl: "https://www.healthcaredive.com/press-release/20200813-innovaccers-covid-19-management-system-now-available-in-the-microsoft-azur-1/"
+title: "Innovaccer's COVID-19 Management System Now Available in the Microsoft Azure Marketplace"
+excerpt: "Innovaccer, Inc., a leading healthcare technology company, today announced the availability of its COVID-19 Management System in the"
+publishedDateTime: 2020-08-13T16:15:00Z
+webUrl: "https://www.prnewswire.com/news-releases/innovaccers-covid-19-management-system-now-available-in-the-microsoft-azure-marketplace-301111911.html"
 type: article
-quality: 28
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: Healthcare Dive
-  domain: healthcaredive.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.healthcaredive.com/user_media/pressrelease/company_logos/20200813155131602/zez9iqg8lghajcaq65ai.png"
-    width: 256
-    height: 256
-    isCached: true
 
 related:
   - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
@@ -366,6 +360,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "vctnrP9ZYa1N12rmXJALVY5I5nSy+nYdePrUHLEgE7M2DZqPTD8WxQCjgA2XnlNEs1WAlWZX8QNZzMHgMD1p6VHu0L5N3F8Z+td80S2Qu9d2HYPO0+iB9y3RFiYOPCpSU9BVYMrGO/Lbf7nQ9DH5Eq5frpfRxgRljqLioUc8sUzP5pZrElK3YLaKfCwhPT7eaZF+JN1anERN9dKXT65uQlIIfTq4TfOatVaCVkeLErlhMvRgpCGoiozLVVijg/J6Edp4B8zc54Iji+JtywtTIAvPrP0vEosD+ZD5Vb332lDCtQCoZ3p9MpFpgyWnWkKg4tOoZV6WsVcvdets1CFeZw==;psOMgy3JSL9j6u1PyZIxzQ=="
+secured: "j24nqLvnJxLaHLaIT6axIRe2DqmvQeuQERBtBr/PlRbp0NXxNRMS2vB/vU+MWE+6MSaZ16fgKDaqCkAO+ke6u2LxijIU+vmIMgrtKjbVW+mvwP2YY+HFfuyJwqid77hM4HljqEc7KF3Ea+Vj4yRu6DMPAimqfjhksExElTNDzoGuZd8yxREfZ89cMx+wPJjtQ6oqqZn1SXZKQgO6/JrAGYnXHp2o+Zkk7GYlYG3kyGkmSqLoCtjaJgp1c8ylEBc1ILWpb3xT9YBwxt4K9rH9gpqVkW6Pw5Ze9d/EfnFQXHLsKfPuN2kDJhodeq0Z8z2wigkBt5lCSdHMM6dvoUZUTg==;zkSB2Mfop6EjFzSrHmvP6Q=="
 ---
 
