@@ -31,6 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 63
+  - title: "TypeScript 4.0 is generally available"
+    excerpt: "TypeScript 4 is the latest major version of the TypeScript programming language."
+    publishedDateTime: 2020-08-20T16:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/typescript-40-is-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "Backup your SAP HANA databases running on RHEL using Azure Backup"
     excerpt: ""
     publishedDateTime: 2020-05-27T20:53:43Z

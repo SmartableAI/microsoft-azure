@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-19T16:00:41Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-for-sap-hana-databases-running-on-rhel-is-now-ga/"
 type: article
 quality: 63
-heat: 103
+heat: 123
 published: true
 
 provider:
@@ -21,6 +21,15 @@ topics:
   - Azure
 
 related:
+  - title: "TypeScript 4.0 is generally available"
+    excerpt: "TypeScript 4 is the latest major version of the TypeScript programming language."
+    publishedDateTime: 2020-08-20T16:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/typescript-40-is-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "SAP HANA backup using Azure Backup is now generally available"
     excerpt: "We are sharing that Microsoft Azure Backup’s solution for SAP HANA databases is generally available in all Azure Public and Gov Regions (with the exception of Germany Northeast and Germany central, France South & US Gov IOWA).\r\n\r\nAzure Backup is Azure's native backup solution, which is BackInt certified"
     publishedDateTime: 2019-12-02T13:00:29Z
