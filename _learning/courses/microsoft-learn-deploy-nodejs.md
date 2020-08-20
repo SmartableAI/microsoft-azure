@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Automate Node.js deployments with Azure Pipelines"
 
-secured: "RrQcseNkVEIDRmmJUJmFwLwVJeg/eqGqWAhL1MFjUYnoP1WNeZ6qQkJuccYdVasnmPhV+CqCxpaFIrLbJ/BX++WVGpqzepIo0n4FxQyJ4hgs22GHjYOKeziU7F/tucF8n/WaSQ1nYwy6KC1LiFxpnVe4weHquEdKf1d8ivgNAPPOiN8vcegP/yukUDoHnIvjXGCJsk+SIILLYyrzENCNXY8Z0aaOM6GZirMquLStGNcjq4HW9kITXADFqnP5+TlnsNIKFotTdTr8+zz5cpLfOF0C1/ND+ZtL7MvTsZD18T7AM5b/NRAX3NhdZ/we73bY69d0zHfwXA9U70yxwAqg78w+68tES8BGrpNGHnCCy3ZIqwSe2WgX96L33SbEcE8dtqHJdO+Y0pk9/0Dj+8IQaQ==;NbINL2sP2hLiLchRsWuyaw=="
+secured: "JrRnULF3uxPjYuQcXKkWCv+M5jCm66zUKhusCnXZBOki9omPnPC1MTBpX2noVKC+eFY+qzG5j9gdalrQG/riWGqdX9vYCoF2equ6dLkQ71AyPOpxixNHu4Q5QhzA/aDW3GePiD/c4Mb5x8uKJIfCgGwj0n1NZ607aZSyvAERtxaKrie1dZkXmkUKJnA7zY7I3E6bWJAgnBa22CpO17jJ3d/ubjpuzSSlfpml0wHZx8a9VwqpY4xOK+qayfx7AftjXZx5VXvKDp99/YOXi5MuvqX4z6R7x87HVGE54lDk3+GwwPvaOBPWctzfSKokr6HUcWi1CTbMlzbENgXgvo9kBKyGfKjMKNrGZNYah+ZIjIgF3gA00eysAn+ttD+VvKFx+J/a5OAOfI8Bvad1Nuj7AQ==;weppSAaX6Q85oxb0m9P5vQ=="
 ---
 

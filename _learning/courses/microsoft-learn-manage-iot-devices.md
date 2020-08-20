@@ -8,7 +8,7 @@ length: 44 mins
 ratings:
   count: 796
   average: 4.6771355
-heat: 54
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Learn how to manage IoT devices as an IT admin"
 
-secured: "kQE/eKWFCQYvjciDV6wKbolB/wB60QeO5LhUSQTP+l7g8xYDCbOhSZStlg+euSMt0VF9lPSnzfypm7sisM5OG90k6lAufE40J87Pbq1/EmMnMuKdVFaY3f2gOfa5dHr7AP42jvvCbeqoq6h+rZAPN2NfXHVAbbEyS/YN0rAe2WwBgO5YxTvLu4KyltsJ9sMtYx5hVmEh5IhOVEiAgK8ygAp7/o0q040AG1tSbsq2KPOXBViIDQXWmlxO8aiu/4jbP40r2lmxQwvkSB5x+uFs7ssM8/4OT9IBAWuk6dLzrbNvG6e6Rg2xx345fsNRl7ouDzyD9146pXnOGCIQ/smq1gDeQvhLOtZKfVXnXhGkIOZ15HMCsTTsVUXnS7liJivL/r1+/2FpSOiCnZrpOaFL6Q==;ijhTiQdUp+ne6Zw6xs7bdQ=="
+secured: "jNg6HpZtw7nV2gQ77E9tB4yvSaKpITdUMh/a5wJmAtBFuiG73MK9HaQ9uxgfds2fLUF8uN1a0UtELU9ofJZVx0Dlerx4pzmvN/Kd8sBOSQyi2de449oiLbbpYe3Zm3PTrfQpavQk1a0W7PIEL5TsA+wq8Y1M4dq8JFqo9B7Mdk4QjE/C/xWLhxrhkqY0Pk5Fi6qjhnv2qudRc8hnPaX8W73bTas2hgFE0OtwZYGwn/aCW9+lhK0N6XM1JyCDcsZln68q9OfeGOilzlYRihQyIZ4CFMg3G1yKxSwUf0BkyvhLtmfWAcrNx526ziiDrJN5a0K8g2je8LjxKDKBoJ2rGp58yi0iUb8W4agTQkQTBkJ74DQ9dPezJZBkieCBNzZgn7/q4tPqPPlnN4O8HbNUNA==;UX23k1k8DAWMe7+WuNOaAA=="
 ---
 

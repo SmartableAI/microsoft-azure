@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT1H3M
 ratings:
-  count: 39
-  average: 4.769231
-heat: 50
+  count: 40
+  average: 4.775
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Describe platform architecture, security, and data protection in Azure Databricks"
 
-secured: "f82Pxn5o1lsE4/TYLwn+Y8CwPqZSbNoZ0VY2+tVi0xaNqYKCKARKm7C9Pf7Io5XGpJ77REFExOJgPoNwUoTu9808gwExQz2MtPyLXTQ89oApbCaNhkNAMlXXqsuWtgSaw2T9I8ykpK+cKBK1TyQnGiaHvT+brhpUSp80YGQfYflWL0LSsX94MgdecK2MTIoflHADAB3wnKC4w/wGQ2u3X/MC615QvZgh906+Hmj3M/WwpYvafUUT1gfYE9n1fKU3Lu8YDycFEi2DytOmjZEeIa1Mtb5pRNpABB7xuioKZaH2apjkOGl4oNtGIPr02sSM70tf39eF52GUHUzbLg77B6RmXZAc2+r2R4p0YNhVXxOWucg8fjetXIn95AQUGDR1iy8qYEwwAeFFP27J1ggyNg==;LbP6zVv/EXEok2l4Ah9MPw=="
+secured: "hgrlrIHUi9TmUUDCjn4z5mO7cgpVW/qCII2UNgg8ZYP/fpOmg82Xi/+kEXOMshthzdFslV5BQUGBhA4XLMUrJ4NJ7Gu2FQfn1rzk2kjaoygtt10pNgKRZGRNli0Zb2yOysO7Bo0eM9ZmldcE5u9dsy6bo409Y91+cgRAUFWWH9cyf/RDTvUo2D7EAxINRjrTzXtUBeN5c5fxRBpzAU5cQrsvwymfTYLjYlNofDsDbpIW/ontCfDSLXFsd7XlARKFznvDbfmjXuLl5x4iOoySo9Nkm1k+22c4La5DvWrfXJhvQ6S9t6ye946FkNZ6du3BQ/ZPWoTHoTyn3t1ADI82d7qy7HGD5Cr5vy7/HcYCITZ7mG7k0xUIk650CKovsk5uwkVVXRtJHgfWKqxdbXgjag==;A8YqVXj7C7vpire7p5IOfw=="
 ---
 

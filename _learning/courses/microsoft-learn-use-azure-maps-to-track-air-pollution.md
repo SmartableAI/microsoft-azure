@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT36M
 ratings:
-  count: 20
-  average: 4.65
+  count: 21
+  average: 4.6666665
 heat: 50
 
 provider:
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Track global air quality with Azure Maps"
 
-secured: "/z+5biMsgLG6vGVdT39c1gGexQsx0oTRvKZ6Eb/ZnaBuMxYUYsnxvVK29V74PfrRTTLI163WCbLKxyOxsCrzhFhwKB27Z8WhCg9Lyg6jOc9ZGejURVDO/v2WgkLu+EICDqUw4RsUYpxUAeP9m+jEJwnvENXe5MYfZcAbr2it7c0zDj77BEQYX77wEP84SokGg9YtTtO7xIk/UwzL5XvpvOf5jV1A0ylf+FEtUOiyRRpHTQd4bEfVmFIkqSHvBuQT9xfvn5178LDCrDyD0xWy43+0GXS8wRUNo8wC2DcgsR9c/MoDhElxWvoK8BFAFk+v9j4dlYyw/VuTPDP7WLRAGJG94QKiTTjPnR+/b4qYG4kgu4wmQF4Fx+LxTSLGe7l6aNGJGz/q1he0bLC/apgvVQ==;4Y4yjw77x6KebcjUpzlFRA=="
+secured: "nQhK0Vrts6aSwMcbJ2OHtBF+bwDZ31mcfg7yF9bzbCesSrQ6OucHsIwECJvh/sxFIeTmyAwaRwyvLQGgfACH+Bc6uzeBY45ce4WCf6hkkYvakAw1/qmd+Cz6Ph9NV259lrBLAZJJuj95Z7O9EU038spU9L0EbT7QfvJXOQtTzefYH4GT47U5AWhYLtXFwm8LSucCkhRmdCXB5hNwoDFEFc2ekvFyjlV6pykzcQea9apQlsggW6EBhpFslqmz1TLvf71Bni9itWn1Qo1BVcjIPL4zoqok0hgRXVY6XmCVzkFcquQBhZjWyV72/qrxiBVUsUB8my1m8XDW18FNYvRyasgZ8BWBjU9VOkYLW0k08hmgIdqeV53/Tr6wb5Ft1g3itMrPDGT+0LYaNnpGkKDYPw==;+XBkKpQdsaWPUJok/x8HgQ=="
 ---
 
