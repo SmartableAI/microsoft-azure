@@ -1,22 +1,26 @@
 ---
 category: news
-title: "Blackbird team give demonstration on the Microsoft Azure stand at the 2019 NAB Show"
-excerpt: "Oliver Parker and Huw Dymond from Blackbird Plc (LON:BIRD) discuss how they work with Microsoft Azure to enable 'lightning fast workflows for sports clipping and highlights production in the cloud'. This presentation was filmed at the 2019 NAB Show."
-publishedDateTime: 2020-08-18T14:29:00Z
-webUrl: "https://www.proactiveinvestors.co.uk/companies/news/926955/blackbird-team-give-demonstration-on-the-microsoft-azure-stand-at-the-2019-nab-show-926955.html"
-ampWebUrl: "https://www.proactiveinvestors.co.uk/companies/amp/news/926955"
-cdnAmpWebUrl: "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/926955"
+title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
+excerpt: "Universal Filmed Entertainment Group and Microsoft Corp. on Friday announced a strategic partnership to cloud-optimize live-action"
+publishedDateTime: 2020-08-21T15:00:00Z
+webUrl: "https://www.prnewswire.com/news-releases/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-301116222.html"
 type: article
-quality: 31
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: Proactive Investors
-  domain: proactiveinvestors.co.uk
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://mma.prnewswire.com/media/24227/microsoft_corp_logo226_9217jpg.jpg?p=facebook"
+    width: 2695
+    height: 1414
+    isCached: true
 
 related:
   - title: "Universal & Microsoft Azure Team To Accelerate Live-Action & Animation Productions"
@@ -51,21 +55,18 @@ related:
         width: 1016
         height: 571
         isCached: true
-  - title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
-    excerpt: "Universal Filmed Entertainment Group and Microsoft Corp. on Friday announced a strategic partnership to cloud-optimize live-action"
-    publishedDateTime: 2020-08-21T15:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-301116222.html"
+  - title: "Blackbird team give demonstration on the Microsoft Azure stand at the 2019 NAB Show"
+    excerpt: "Oliver Parker and Huw Dymond from Blackbird Plc (LON:BIRD) discuss how they work with Microsoft Azure to enable 'lightning fast workflows for sports clipping and highlights production in the cloud'. This presentation was filmed at the 2019 NAB Show."
+    publishedDateTime: 2020-08-18T14:29:00Z
+    webUrl: "https://www.proactiveinvestors.co.uk/companies/news/926955/blackbird-team-give-demonstration-on-the-microsoft-azure-stand-at-the-2019-nab-show-926955.html"
+    ampWebUrl: "https://www.proactiveinvestors.co.uk/companies/amp/news/926955"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/926955"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 8
-    images:
-      - url: "https://mma.prnewswire.com/media/24227/microsoft_corp_logo226_9217jpg.jpg?p=facebook"
-        width: 2695
-        height: 1414
-        isCached: true
+      name: Proactive Investors
+      domain: proactiveinvestors.co.uk
+    quality: 31
 
-secured: "xtkHw86lQfJNw+8NgFNeAcftzTrON3hcn4c8HloWH8uiLOUcDi2iQxpdl0y58E9cFuQrBqPD6dXKHZQfjnpr5QqLjWBHh7ufWv+JHjjpjN8xRKryzLgSVuNHXXdnSbjcHLSDgh81xF1B1RlCCOic8cME5/c+cKXiz4D+pfdqosXfAGKLW63zAFBWOfBvA6RmdBnLEpp7fa/r41fdzvm3bhRnPv7OmkD8gSkcwkqDETWRgyqNoqBzcaxmkwOwXB3koV/Ic0swOYQW2xPEckj5lqq3xC2mrZnnyHKwSop9FJdpBD9gS3jN4Rc/k7AnWKmFo2Z4TF9ifuCQZCeRyG9HTw==;XcttB5YDrAHBYiP0jBGzsg=="
+secured: "SaEQigqaa7LBGxys0kDzaFbxSpW5uqeDTWOPFLHSOAYiVEaMaxg7lsfYgBwAZWc3Shwg1snPRKxpvTFfRNzBb4JVOJD3JGDsNSltw9ApJdQCNuMzmu+qz3wstqG4UlYN8FpkBr4n73sdgnBoe+y3NKPtUDNhCSexXb6ExkGBjG8ZdC63M11cv2m/HkkYDw0BkGGbYAulL3DKkZj9J7KZyVyZZkYXdTS/cIrbJgwz4phOR/V86oceNsucm0thrXMqWms4WUuddWuLj/8QvnuGux9BRldRLzmbBRll1QtyusK/1DGMKreRaxm1lR5qTh4cyfQxcVkLN0yS0xQd9A0Ilw==;vIE7WpAY8dRFhF2twI99qg=="
 ---
 
