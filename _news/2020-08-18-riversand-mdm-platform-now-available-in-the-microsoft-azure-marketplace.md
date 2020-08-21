@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Riversand MDM Platform Now Available in the Microsoft Azure Marketplace"
-excerpt: "HOUSTON--(BUSINESS WIRE)--Riversand, a provider of cloud-native Master Data Management (MDM) and Product Information Management (PIM) software solutions, announced today the availability of Riversand MDM Platform in the Microsoft Azure Marketplace and ..."
-publishedDateTime: 2020-08-18T11:07:00Z
-webUrl: "https://www.businesswire.com/news/home/20200818005296/en/"
+excerpt: "Sajan Parihar, Senior Director, Microsoft Azure Platform at Microsoft Corp said, “We’re pleased to welcome Riversand to the Microsoft Azure Marketplace, which gives our partners great exposure ..."
+publishedDateTime: 2020-08-18T12:26:00Z
+webUrl: "https://www.oaoa.com/news/business/riversand-mdm-platform-now-available-in-the-microsoft-azure-marketplace/article_b58fe46c-ae7b-5911-9185-d3a396508bad.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mms.businesswire.com/media/20200818005296/en/813376/23/riversandlogo.jpg"
-    width: 1200
-    height: 627
+  - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+    width: 576
+    height: 288
     isCached: true
 
 related:
@@ -368,6 +368,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "ij3loeS8ngd/BreTrU+hpjD63Vuj06qblkeH6FRuGs52SKVEHlK9dQw648ifazRvAFu2nRIwPBUq+K7rCfKe+wCxnqlpPZbmVIVUZneRpm5tW5Xf23jQDDwlJi5TZhWXAdE9qFmXsZuajESe/JIiP8r2sfy7JxAeVqcbvwIX6wNtQ3n+W+luDwxKFO8q3c9XzY5Mcs6Zxp7FGUikonpLLwltBvCkEXAhEdw16pgydFk9vZsSR8IVH+ktNum4rMdKE+cA3nRqgGcOwuSyDJtd2I8qGuF+1p41GsP9GbCHgSDwFOL3hVOb5emkUuXr+LEVVOvRVNs8zOM4mO5bYFtTwQ==;VStUuRIO42w6dfI9lq0QaA=="
+secured: "0s3kUmRlCxSERxfDH8C9cWmfG3Y0qki6BfxAKVKxIbEts5/79H1aPt1VmxidEMUD+AuZIq8jYbO0n0bO7E6F3ZP4j54dF7eEl5NXyYMSKPARxhsNWb007jjZ1W2hKrdy9l22TBv+MZo86ODC8OY/VGbjayOU6V0Y2RIU8fJ3GaiiCzyHd/LUxR4Oj6H5n097w7D7jsoylf7gX9zHJFPTY/mqqj367kDjzw/0/zce7ju8dcovh5+r9RZQKYJnvKJY0paWeA8YXqiYZpoi8DiMvOkS1VnxV0MUNXgOPgCK7EZ1nJ4FDwbqGaZZFe3Aya5fMcvypw5etkJCDhtUJN8g7w==;t1WXHsyGK8U9ulxbVfCvUA=="
 ---
 
