@@ -30,6 +30,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Sphere OS version 20.08 is now available"
+    excerpt: "The Azure Sphere 20.08 OS quality release is now available in the Retail feed. This update includes enhancements and bug fixes in the Azure Sphere OS including a security update that represents a critical update to the OS. "
+    publishedDateTime: 2020-08-20T20:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2008-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Sphere update 20.05 is now available for compatibility testing"
     excerpt: ""
     publishedDateTime: 2020-05-14T21:00:08Z

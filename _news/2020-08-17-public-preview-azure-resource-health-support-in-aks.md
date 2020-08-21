@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-17T23:01:22Z
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-resource-health-support-in-aks/"
 type: article
 quality: 67
-heat: 127
+heat: 147
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "Simplified Chinese language support now available in Azure Cognitive Services Computer Vision public preview"
+    excerpt: "Computer Vision Read API v3.1, part of Cognitive Services, announces its public preview with support for Simplified Chinese language."
+    publishedDateTime: 2020-08-20T20:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/computer-vision-read-31-public-preview-adds-simplified-chinese-ocr/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 48
 
 secured: "APn87P7nNWUn8xKHNfLzFprzZis3lGSFxrcdUjWsJFN3jj8M/jCMhhjd/SZSH2XAdGlufOfgvhiwRHUr0up1oxhJIXV3vXMbTCySTwNpD/6cUXFBQ0n0Sxfl16iTyXsOguOldvEwFZKk0BLfLPRUJapg5WeWCtO+5ymGWURN29iL/gYE4Qt8tz0OmPvM9HNv2C37/dlnXLGcPJ/Onzx/QVpIXDSV0cX6XIRWDBcDjIgtQoa6fcoUnJZNBXar+XkLXlroX8676bPyfgfzntR7Uo2i7NHaRmxvlh/qhRRgBU2CH/tgWRXRhK2POO9Dp8DYFcRhiisiHbYgfERo72c7tqzuHhYPL+ErNJDRtkcZSA0=;HkLenfiFhzCpCcCHsdNOyg=="
 ---

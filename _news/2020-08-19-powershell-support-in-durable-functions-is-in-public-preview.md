@@ -48,6 +48,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "Simplified Chinese language support now available in Azure Cognitive Services Computer Vision public preview"
+    excerpt: "Computer Vision Read API v3.1, part of Cognitive Services, announces its public preview with support for Simplified Chinese language."
+    publishedDateTime: 2020-08-20T20:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/computer-vision-read-31-public-preview-adds-simplified-chinese-ocr/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 48
 
 secured: "bMt23xVxaf/BX3T1ZBTyznW2BPBzp8a94Y7qxwXqYEgut9PbpqIDqyXgAcNI9ihmJXBjq3YYuxJiYABofb7aew9wtV4/+YJDP1CyAys9YPKdEGhvLHeggRhkGyXzzOhM8uO4peZPDvdF5fXqdrdb2pu8PTL923ikZB8yVuibBo/rqcguqsD74BRWauyYG5Mz1mtiCUJIqftRF5eZreYH9mHFEA+t9gQVHOq74+ZPXqeolEhCNneZoT//l/KlwkEldBh+l3zY0yOrDIwfE2rjacRQU+zBrnKf5kfb3G1ln6xzxs9+DV463geO7pqPzbwli/olOKQsJlxhIfJ23U46gA==;k3veOCtZGmBmQC1SZTTWhg=="
 ---

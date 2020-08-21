@@ -5,6 +5,9 @@ excerpt: "With the new output datasets capability, write back to cloud storage a
 publishedDateTime: 2020-08-20T21:23:12Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-machine-learning-announces-output-dataset-preview/"
 type: article
+quality: 67
+heat: 67
+published: false
 
 provider:
   name: Microsoft

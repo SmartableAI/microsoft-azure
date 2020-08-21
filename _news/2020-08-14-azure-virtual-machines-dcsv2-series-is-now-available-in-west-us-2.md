@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-14T03:11:14Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-confidential-computing-available-in-west-us2/"
 type: article
 quality: 67
-heat: 148
+heat: 147
 published: true
 
 provider:

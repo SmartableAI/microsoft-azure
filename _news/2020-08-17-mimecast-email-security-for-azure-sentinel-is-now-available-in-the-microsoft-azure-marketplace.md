@@ -1,21 +1,19 @@
 ---
 category: news
 title: "Mimecast® Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
-excerpt: "Mimecast customers can now take advantage of the Microsoft Azure Sentinel’s scalability, high availability, and security, with streamlined deployment and management. By logging email activity in ..."
-publishedDateTime: 2020-08-17T09:38:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/mimecast-email-security-for-azure-sentinel-is-now-available-in-the-microsoft-azure-marketplace-1029508037"
+excerpt: "Mimecast customers can now take advantage of the Microsoft Azure Sentinel's scalability, high availability, and security, with streamlined deployment and management. By logging email activity in ..."
+publishedDateTime: 2020-08-17T09:50:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/08/g17115771/mimecast-email-security-for-azure-sentinel-is-now-available-in-the-microsoft-azure-marketplace"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17115771"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17115771"
 type: article
-quality: 45
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Azure
@@ -260,6 +258,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Innovaccer’s COVID-19 Management System Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Innovaccer, Inc., a leading healthcare technology company, today announced the availability of its COVID-19 Management System in the Microsoft Azure Marketplace, an online store providing ..."
+    publishedDateTime: 2020-08-13T16:19:00Z
+    webUrl: "https://www.healthcaredive.com/press-release/20200813-innovaccers-covid-19-management-system-now-available-in-the-microsoft-azur-1/"
+    type: article
+    provider:
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 28
+    images:
+      - url: "https://www.healthcaredive.com/user_media/pressrelease/company_logos/20200813155131602/zez9iqg8lghajcaq65ai.png"
+        width: 256
+        height: 256
+        isCached: true
   - title: "Commvault’s Metallic SaaS Data Protection Now Available in the Microsoft Azure Marketplace"
     excerpt: "PRNewswire/ -- Commvault (NASDAQ: CVLT), a recognized global enterprise software leader in the management of data across cloud and on-premises environments, has announced the availability of Metallic’s Software-as-a-Service (SaaS) data protection portfolio in the Microsoft Azure Marketplace,"
     publishedDateTime: 2020-08-12T12:30:00Z
@@ -336,15 +348,6 @@ related:
         width: 2697
         height: 1414
         isCached: true
-  - title: "Innovaccer's COVID-19 Management System Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Innovaccer, Inc., a leading healthcare technology company, today announced the availability of its COVID-19 Management System in the"
-    publishedDateTime: 2020-08-13T16:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/innovaccers-covid-19-management-system-now-available-in-the-microsoft-azure-marketplace-301111911.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 8
   - title: "Greater Than Make FIA Smart Driving Challenge Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to FIA Smart Driving Challenge provided by Greater Than, to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies."
     publishedDateTime: 2020-05-05T13:06:00Z
@@ -364,6 +367,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "3sZ33ylK8dCSLpvR4la8Sl1fp2lPtT689btoOE0XnJmJlWFUGM7nMKImdX9Iotre4ErLAK33EIzTS1zRQu9MRWhKufYpZRqECQmcNVIcSpYVHYt4SCD5hF0jKJfhDyDHjEuZMkucEd77z3pVQe7Fzf2ig9/yUIasgoltmlbxUUYOUquKvh/6NtMYQ7Nxwh7WYxIs44Yqt96sCl2y0D35gM/1CGD5aILmbAKoRoqCINSAQjlC0q+89sWXX2s/TBzrsLRrCNq0NHl0G5Sr/kELSPggy21wcbkJxAUyy+R+IHCJTn57ijvlFHOwmtPxnQ1cfe5OoqCntd9mwYKhRVLNoA==;xVqwnjTb43KqnGrRS4MHIg=="
+secured: "vwbGu53eAPkMuHqBQsXzSn8yWSGRo/+ZYo0TSZCSd8KNWTfRbDcwuocNPn5X1+wd8S+mIVeq7Sd3JP+kiGR5jml5e1NdNT70G4Br72I9FDt5QPxyjgqlp6Sea1FlqNu2IlbToM/+J6P4vqww3OgUgK+kmhNVGCl7fLVtTu05ll6598gxZ+huT0abqtCYR0DoAwn8X/kSf56iyrW07NBQ1wMBnUofQ5WBOgFHoGZMTQVpFbUe2esr3mYTREcIJ9SVBg1r8OAhR9jXwvuoEpAtohqEuuRX6B6PKARo/kO7ZErFR2Kk36JZhPDPe0a1m0bEa6rZbqmKfG6jEFcqMBypeA==;61ecTQnOBoDvCvE4WX/GRA=="
 ---
 
