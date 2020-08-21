@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 75 mins
 ratings:
-  count: 65
-  average: 4.5538464
+  count: 66
+  average: 4.560606
 heat: 50
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Build an AI web app by using Python and Flask"
 
-secured: "rQip776aH0k6QB65WyZgE3feEKRL1+aRDaHFQyQ8O4zGylrTW012232arB5cAw3TNVPoIiBo5C5GhoVHoxi9MwDz4Ul6Ct76nwevp34RWqs1RbMNddgXSnGv5YJcuZ5O+wXMkssqNCSbQIrj7zjix+nw/KYBp2/IkNpYtWCw4WXakXtdEkeEuVlFs+BMR38Eu3r9hyaqV/Y7UKOrXWFcnHaLn4LZwlBafl325HSv7Aup4HS8RHN/hlCnM5vcytbK//NG2nsQheV2+7nsOVAz5h8oW8/YUucrSh6mn7otmf2+nvLc9O2uhLYF9h5+8JYUmJM4ohwS4LXww3jJQOgaJ8O8f1wjicptvRyCQxEfuzXO44RV6vhwBxDZNSPTNtF1vb4K4yetWK64r9gVjGbTnw==;4d98+6ZyV9jf3EbClsoKXg=="
+secured: "rVpgCF0HsPyDGYS0IYqsEy5zVjI6+1nPq2L31tPBECUS2NLBKUks/ZS8ccZn1W47mQ6bPDqPmb4sh7PDeS+TsaETcnUiRKj7bcWBzLHF9TQYvdN2gEi27qGizhSdwycdBufsysaEdlY5xR9vVAqd3Yd4lXm27DnYlFyNQDpRaE/PL6DA4ylGkglyJs/ljpH9VltV/XqTm+ZAeYoQedERoxExno0Z6kdthCp4oDQ3TNLNKDorBlESbH3CIL8hKaMyAWSvsUJwJFgA84Mk/j6vv70y2Wh6LGR1sRoOkPUZ+/LRMApJ0NU+Lu6W/I85hJKys7kZUJG9Z0By3Gl95iy3upL4UsXD3vSFpUDLjPIzSEpJnefK09tXW5NAqS4BeuE8H8MRfB+ywg1W7ACUgF8UKA==;dhTZslSuswPBknZGSAv92A=="
 ---
 

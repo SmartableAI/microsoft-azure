@@ -35,6 +35,6 @@ images:
     isCached: true
     title: "Route and process data automatically using Logic Apps"
 
-secured: "2tpGrMmgRL4XGQLChZ+2a0t71CgqnjaCGac2VFALL2ezxA/8o+YWgArjT6IvS/lyKjMzoOXGb8IBrRkL4A1vxiKKnj/6j/t7/04Ekxo7r4gA0oGAQEO+TZ7hLuy7d+4Lc6L+81bEcLaF2vcufwMCd14Tnfbk/8o4UsM1L6i0TVY6qTjFLkXWd9WIWttt91SPMMXA3chIKZEm0FR2tLj8P/w+h/H5KogH+Fgd270AvpcqQt/cPzf0X4/2q9u771jkpxzACBuUI0enxGjqwCGg3cDQfqMSlLFJx8sLI1bF6zB5lUFmt0qjQ/ukPAlOTSrmRQ7wApaVBxtV10ZP3VVUGf5huSpbfAP93ZsDqbP6vxNInEXipV6ljQbl4FDXUZ5AYy5JjReToWyjOLdQ4cUygg==;W6SQRsepmCg3T9r5fgjEyw=="
+secured: "zUCPgrHlAAAEiiQXu+JKC5ajgP6s7wSuXqXSWlDllvBAb0efxCCo4B+Cf5huL6jRnSs3EMGUQ31KTq8dr6MPip+P+LYnsaBfAx6/sUN2ClNksTh3mQkAHNhQJX3DHM0mZ8SPIbKEuwfJnd1Aff2U1DtkVbAKhD56N2SIS6MU1UYytW2au2L58tOAxzYd4fEWcU8WBagghb4scMg/TtdAqFId7OROA2XENgMvaxK5eCIuezBx2IGoPGERxGbZ4Qn17yFGncwFZ1OBB1/yzWa4YSHGEF9EyrlnnXzlJGRaNW6JoW9gvLQ8xG6vXGF+9aa7TlINp2FXG/8+PF6ogq+kcuZj6uQfGTQOJBWW/KWgl2WJa7SMuYwpDL4CAa72sbrw3YldNGb+jvcZ/mpFggSo2w==;5ot3A/S0+Ta06XlJOasB6A=="
 ---
 

@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT33M
 ratings:
-  count: 216
-  average: 4.638889
-heat: 54
+  count: 217
+  average: 4.631336
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Spark architecture fundamentals"
 
-secured: "WIN8knidbMui/CYYJjU8KCAc0Wm7C2P9NT3GD8ECq8k61cxR5qGPdLEGmyk4NPfJVjgR3Nu5M7NTjxtUNQr8iimPf3UseA2IZjBbNevJAc6ACVW+Lo0/qpxnHQRzP8bKHfLuC+gIU9HMHfpbqPuuRIGB83eDvbq/myHjKWqe4LhBq6AmUcLRbIv+xliE4+/GMg0V7dXiK95dZr0EmB4XkpNf54dEFc2if6eg05fuzbY2z6Gv98AzxEsniFinPnHXvZd6WdpTdilBoEGlghA6sDhCVYvTgPG7M0ETQpZ+WnyNrIuhxqkM5y9S3ZsD/qEv32kN7byjrmWEEHzXHun32wkTWZXoLBqVAFR000piiLW5qmDCwtZlddrQk9HitaavXV2wCgcxOvKLQO7p/8vlrQ==;UCeiiXO9ENu5HGD1M4zL3w=="
+secured: "/bo8gak9DIP4+vxMLYyxFbb1Ja+FsJItX68m1KxvVKmEsZj3MSau2E807Y1TPVCno6JPMTvoc2XXDFY6u0oFSe7jmkILZZGMgTrEItlycLsqWdEtz3W/1fPSVLDfFo07qx4TuEN6wzDT1L64euxebcgcSIIGEJOOgOCuuKyrf+FNkjtC9auQNQu8z7jFLYLulEOfbruynKo8hg8/6K46rabKc1p1ryTJRjiXresEZJovQGGL3163G2EjzWhfjHe990OmEmzV78pwqpYogQiNFFEcd355nLpGhc1MxGndXfW4tRF7Q3boAl53a6QVXCppBHCJ63NH4xk9G1ZmJ7+yyQ7O/OE2iOrN7uRLbsnT3QIyL3NgguoNEU5HupwPo6gUeTBieHlchquAY0Qi0sfuwA==;obRTuSShMgAcRaYiAYTO+g=="
 ---
 

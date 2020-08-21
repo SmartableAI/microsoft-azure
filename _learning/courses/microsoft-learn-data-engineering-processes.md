@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 25 mins
 ratings:
-  count: 3810
-  average: 4.7036743
+  count: 3811
+  average: 4.7037525
 heat: 58
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Identify the tasks of a data engineer in a cloud-hosted architecture"
 
-secured: "AArmu9ii7abTZ8EYvCNCITQpR4A/pideoA2axUD0SkfdmF4364k3pM8xkIPtK50KKfVOyTU/J0NcPSU6jR01S92WR0FoP6u2eB7gyS+0psUDvLKjWKh4vmN1qofvudIIdFeraxVHYtdkWQocpX4XBCZ/ABQvtLFeuGZJtjbrO8bIAHviTtzqz9SIOoPTvHyHw1L8MNCGYtTCHSMh2GypAwlfdVg6xlVswowPgtWC0BvFABv/clp1NcvIHYEslQCo33bYJPuXyal1SCA6woaiX70UAD5nZhQgtZCi2C5NKLe8mg69jOTTHkDKkDn6FzN1440ZMOicnQiVfnsoOw4Dsi9ndJIohe73Ipt628D+l0l3qtWIVJH3OUHRr5VYMv40Si4qeh9btAunGjphl3ouXw==;pZsUXTFafpRXwkvjWlNWrw=="
+secured: "Dhv0ct/HD6Sl2jVBb7lt6xnwcpRD/GPyzwJdhANvbnFGnkePsreaO6e3Ho1WNQy7nE6cfyq6NhBR3jWxOLMAB20zfKRhtYAxm4ppJFU0O1ZQzkdYlLwAA7fNW7IjwttDPN3n8QAa+KtAvuv0IyodHQMyM0r1hdww/BEQIMNiR6dhdyz6qg5WGuspKnDNOTSx3YuwwluoTgdhL4N4RmReRqA2Zb8JL6IAiafu0AFqguCfI7Hp+Rw59zQgI+FXeAmFgU7i13OoueCKIwZO1Y/OS3hqcrEBof4F76YS//ZB0IP+a9NkHSHGSkHY5328SZozjzBY1/NAHqX9853WOUUCQDT9uucjLHXYJxqFus8k6PYchlW8F5Q3Z1+IEoR9cM37sqodqNsEXgfdiCDxV09xCQ==;0lNiguIz50dTYkY6XVaLPQ=="
 ---
 

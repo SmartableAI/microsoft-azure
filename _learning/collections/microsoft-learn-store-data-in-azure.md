@@ -4,7 +4,7 @@ excerpt: "Azure provides a variety of ways to store data: unstructured, archival
 type: collection
 price: Free
 length: PT3H50M
-heat: 103
+heat: 97
 
 provider:
   name: Microsoft Learn

@@ -8,7 +8,7 @@ length: PT52M
 ratings:
   count: 51
   average: 4.7647057
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Design and plot graphs in Python"
 
-secured: "D5kHWqR5JXJENQv3A020LQfoBoXIkY5BWLDlnHRSibw7cYbbFtcNtzjAbR+hU8O+oD9rg1RxhJX8WeG+LJIUKO+t7Fk/EglnrGQ8e4cuLRLGbcNdGilzzhK86zD7L0Lws/lKatMn651LcF0GZ2zYewneEvFJbnqGEM8QRKCtVJoRfwCcs94u6LxOYfOfZmtYX65VI7J9KuyKDeYqA6xgam1YfIgRQr/J4dK66fJfFlobhU52CpSjrARu+QaGjfUjil/2DayVyLrw/WG9S6wihi3IDozrYfJhzZtj6u5+9CpwqRZKLp+HK4+30LrNbKrysLOlokJM/D5jdxcPhEKuy2s0cNKhjfd8TXqf2BqYFo5hKdt5nUGtcoMij1QwPQDYDtn4FoFGTTZzpNaz0+KWRw==;t+9W6S93RwnhMp/Ags0sYw=="
+secured: "Yrn3wFQ4RZkiRiOgu7h6lEk2Ikcj4G/ZKb+s4mit0sQoTim3Yhhh39ltbU/r0Y9GAxbwLqELlWy4wmy3cQbA/S5bguRV4gBxTJ5CzBxgpd0B7Umjy481N6l0wszDMjrvOGCfd/QCyEohXnFUf+tuLCuOjlItNhdsHe7K8+zL1NZ26AvTiRxP9IzSfKtTwFx5fJerD51Tmwv7O8rpSKsIfLWIs0zhS2iRsPzft6BzhF9yNGmYCzIUWEsKeD/i1dJOIWQa5r2+NdXM34fLqMpXwIXbSnsrTrkG0KKGJJesC2YZntS/41By6k1SGm6RYkqr5WO98aGXprmPfyLkjjXNXJDA/mcFpihkfeU6hHQwQj6dFP9Cqiry0fXXNZ6Hkro1kAi20lusfxXpto8adpmFYA==;d0R6yv/R3DCzv0fXEoeSlQ=="
 ---
 
