@@ -39,6 +39,20 @@ related:
         width: 320
         height: 220
         isCached: true
+  - title: "AmploFly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
+    excerpt: "PRNewswire/ -- Amplo Global Inc announced today that its AI-powered platform is now available on the MicrosoftAppSource and Microsoft Azure Marketplace"
+    publishedDateTime: 2020-08-21T21:32:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace-301116528.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1232052/AmploGlobal_Rocket.jpg?p=facebook"
+        width: 1198
+        height: 628
+        isCached: true
   - title: "Amplo Global Inc: amplofly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
     excerpt: "PISCATAWAY, NJ / ACCESSWIRE / August 18, 2020 / ???Amplo Global Inc announced today that its AI-powered platform is now available on the MicrosoftAppSource and Microsoft Azure Marketplace - their online stores providing applications and services for use on ..."
     publishedDateTime: 2020-08-18T17:12:00Z

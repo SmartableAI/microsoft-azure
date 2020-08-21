@@ -53,6 +53,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "AmploFly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
+    excerpt: "PRNewswire/ -- Amplo Global Inc announced today that its AI-powered platform is now available on the MicrosoftAppSource and Microsoft Azure Marketplace"
+    publishedDateTime: 2020-08-21T21:32:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace-301116528.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1232052/AmploGlobal_Rocket.jpg?p=facebook"
+        width: 1198
+        height: 628
+        isCached: true
   - title: "Infoworks DataFoundry for Databricks Free Trial Now Available in Microsoft Azure Marketplace"
     excerpt: "Infoworks.io, leader in EDO2 systems, announces Infoworks DataFoundry for Databricks is now avail. as a free trial offer in the MSFT Azure Marketplace"
     publishedDateTime: 2020-08-13T15:44:00Z

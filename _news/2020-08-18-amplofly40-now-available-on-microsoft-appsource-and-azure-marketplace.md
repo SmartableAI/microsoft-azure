@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/17142440"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17142440"
 type: article
 quality: 57
-heat: 137
+heat: 157
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2016/0716vrm_Take5.jpg"
         width: 647
         height: 450
+        isCached: true
+  - title: "AmploFly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
+    excerpt: "PRNewswire/ -- Amplo Global Inc announced today that its AI-powered platform is now available on the MicrosoftAppSource and Microsoft Azure Marketplace"
+    publishedDateTime: 2020-08-21T21:32:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace-301116528.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1232052/AmploGlobal_Rocket.jpg?p=facebook"
+        width: 1198
+        height: 628
         isCached: true
   - title: "Amplo Global Inc: amplofly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
     excerpt: "PISCATAWAY, NJ / ACCESSWIRE / August 18, 2020 / ???Amplo Global Inc announced today that its AI-powered platform is now available on the MicrosoftAppSource and Microsoft Azure Marketplace - their online stores providing applications and services for use on ..."

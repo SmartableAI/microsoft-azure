@@ -1,25 +1,25 @@
 ---
 category: news
-title: "Infoworks DataFoundry for Databricks Free Trial Now Available in Microsoft Azure Marketplace"
-excerpt: "Infoworks.io, leader in EDO2 systems, announces Infoworks DataFoundry for Databricks is now avail. as a free trial offer in the MSFT Azure Marketplace"
-publishedDateTime: 2020-08-13T15:44:00Z
-webUrl: "https://www.businesswire.com/news/home/20200813005239/en/"
+title: "AmploFly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
+excerpt: "PRNewswire/ -- Amplo Global Inc announced today that its AI-powered platform is now available on the MicrosoftAppSource and Microsoft Azure Marketplace"
+publishedDateTime: 2020-08-21T21:32:00Z
+webUrl: "https://www.prnewswire.com/news-releases/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace-301116528.html"
 type: article
-quality: 26
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mms.businesswire.com/media/20200813005239/en/812388/23/4118036_Infoworks-logo_.jpg"
-    width: 1200
-    height: 627
+  - url: "https://mma.prnewswire.com/media/1232052/AmploGlobal_Rocket.jpg?p=facebook"
+    width: 1198
+    height: 628
     isCached: true
 
 related:
@@ -53,20 +53,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "AmploFly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
-    excerpt: "PRNewswire/ -- Amplo Global Inc announced today that its AI-powered platform is now available on the MicrosoftAppSource and Microsoft Azure Marketplace"
-    publishedDateTime: 2020-08-21T21:32:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace-301116528.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1232052/AmploGlobal_Rocket.jpg?p=facebook"
-        width: 1198
-        height: 628
-        isCached: true
   - title: "Amplo Global Inc: amplofly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
     excerpt: "PISCATAWAY, NJ / ACCESSWIRE / August 18, 2020 / ???Amplo Global Inc announced today that its AI-powered platform is now available on the MicrosoftAppSource and Microsoft Azure Marketplace - their online stores providing applications and services for use on ..."
     publishedDateTime: 2020-08-18T17:12:00Z
@@ -81,6 +67,20 @@ related:
         width: 320
         height: 220
         isCached: true
+  - title: "Infoworks DataFoundry for Databricks Free Trial Now Available in Microsoft Azure Marketplace"
+    excerpt: "Infoworks.io, leader in EDO2 systems, announces Infoworks DataFoundry for Databricks is now avail. as a free trial offer in the MSFT Azure Marketplace"
+    publishedDateTime: 2020-08-13T15:44:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200813005239/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 26
+    images:
+      - url: "https://mms.businesswire.com/media/20200813005239/en/812388/23/4118036_Infoworks-logo_.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Mimecast offers e-mail security via Microsoft Azure marketplace"
     excerpt: "E-mail and data security company Mimecast has announced the availability of Mimecast Email Security for Azure Sentinel on the Microsoft Azure Marketplace. By logging email activity instantly and making the information available to Azure Sentinel,"
     publishedDateTime: 2020-08-20T12:25:00Z
@@ -91,6 +91,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "ufo6Z22+OYG3WJB4JSskeMaRO7dSPK5sItAOMt6BieuWlMI1+RWX3PG2BR0EZ3eDJO2xJYYMU/S701vplKR7lb60UM+l1zfYVsLm0e6L91KaaznhMCGSgnv7vnHhuUwvidrNELLJX/gNoUraQtcjJ3lgdvUe8Su5oORRE+HL7wGvahyDa3WByi7lvzmB373tG+4L4Ve9lW+kO6rX6+XIqEEnWtZuTlopcs2tYgEhnzrdhX+dwcAq1sUXpiHNkAUWCW6Bk+NVGzIEA1Dq124Jp/pLOC/w1L7/1JxW9SFGvC+OUmexyB58LJ68fruoTf/vgPMuBzziCHcterLIppr2pQ==;ZZqJJIR7Wj4TAYmsUcy5Fg=="
+secured: "xebJoydjwPKfr0VvgIUI3LhNLsiI4s5XJLrtiRrQ+kgdnxgms2tc+6T65BLIFlmmCPPuCqzOUGRyO4tjhhia0UrpaVezyzO5ujH+BGVG+/b6a+MnmfdL767zWFJbUIJLpjMMhAcm2rE5C2CTvRWTJGaMb0e7DwIcuzJySkLkUA/OWuDCmKlGH+DvxMTjuLMgFLoJNK8Bg8++RgTFdGCXHw83dK1RFhq7Hq1xSYjxnt3hb9NsJ0PQt59Xb9HPydlM09m9w1gkqZ056iVvSR/Gd31s7x4eeByPOcmHnSPnE7eRvq1ugsf+mejW4Ik/GgwOQKer1RtsPdXETK/u/oGnNg==;SsVHHRDU5fvjUk+n1RbFuQ=="
 ---
 
