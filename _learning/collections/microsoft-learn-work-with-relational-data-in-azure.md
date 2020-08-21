@@ -16,6 +16,7 @@ provider:
 
 items:
   - courses/microsoft-learn-provision-azure-sql-db
+  - courses/microsoft-learn-migrate-sql-server-relational-data
   - courses/microsoft-learn-create-azure-db-for-postgresql
   - courses/microsoft-learn-azure-scale-azure-sql-dbs-elastic-pools
   - courses/microsoft-learn-secure-your-azure-sql-database
