@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT24M
 ratings:
-  count: 96
-  average: 4.7395835
+  count: 97
+  average: 4.742268
 heat: 54
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Explore data storage and processing in Azure"
 
-secured: "q5XC8vSety6JTgni8gnYrpu0QUckPJRPXMQfA6x5UZRNUntkx59RVspCCykfiqTEDvn3HERDhrI1XBK48HXmJBY6g7TvzaQGGjFahdt6EtmN+8m7kY0z2ZaScNwAhwhHuQcyAL+3fWGKc1uwkGw5gzMbDUeYWijhedKsWBHYDH8TdEk80ShMOYxTm3kw1aamyT/njqX7tYiz321zlWTxCOw6NOE6k4S6WQvUAT/WEAnB/0L7Yw2cBOPEKhegDPtFRs00mSJlVm5HSVEikqOLe5sPvR7snK1MvsZVOvnB6fFL8e5kiaGP1nSsBg1knMuLiG+afR82QNqmgKS+aTqiCSVzrtys/nmWl+do6cdknXSWMhclush+F5rIGo6Hrc5l6CcYoL5dP80Mljbvzyd8nw==;KvCcKUSv4QmyY5kl0GELcw=="
+secured: "hst+Fax3ilTRs725g0s1zVQagrmqZ1V5ZbN7LKwEou71jKOQYrFkjqzei4nFDFFSfOOAYMvfp0v/7Bz9LbnYwv08LvL2W25xaB7i52/09RRk8YYFz4SCaxKKg8wcgAUXtFAimno1lnVSpQTRetAZ2DAt9eKZRSy/mRG/5OWdLUZEBVWn1jChpg2uedyqG0XROcpxxU8uiyuxZvfErjgDwktw4Q73I9KrJlyGeU5WFrlw3ej6ejCLMe+d2yRT50dESVBfcyHnVYOe6AcUdaz68/WgIA2GwJjbnzjF7T7BOD+i5Jyo0f4n4V/YVAQ0iCCe9Akj98RPQYodcUEdolsd3j8c2BBiZMc8rQs/y4Ae9gEpdFVFgv2wCqW5g8VfyClPZBJbRht29IMQxfvXzBFtbQ==;UjCppbjZ0eUTlnPon7W0Gg=="
 ---
 
