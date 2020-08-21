@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 39 mins
 ratings:
-  count: 4017
-  average: 4.5947223
-heat: 79
+  count: 4018
+  average: 4.5945745
+heat: 74
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Connect your on-premises network to Azure with VPN Gateway"
 
-secured: "HfXDBt/UoJ9u7NWaIv2z9rNYvYApNv9GOO3DHekOPDc+zNbVmQTFgp1riGckS2ktZOfs5cCreBTnaoxDv1c5T6L0dWl6DbAemyd6FPES6S9h/ZD60KBuX3Jt4E5hQJ6mXWriQdzU30dHsp4O2sL6H6fmvGhqQqS72xVyoicQQqlpGuKsTyHFGjTUoCvgQ9+21pe97/KzqWzgIeFX4qzf5jhWHzz7hioNESZzBoYMyGiheB6+OVQVzWYLT2jpU5JOlu1oQWfEEG6WkE7f8U6OyxM5hcJJep2BTH/y16hQVGh4b/px7+XIf4GlasC7lX6+7gp1/6O2Z+KGs+83cW7zjFHjA9fAg9IWDGykTSWrz8m5v3TnLV6CDum9Ji1juF7hE7OvMbsO6UaUMcAChUYolQ==;GeOL9eLYNG9jDqqnsIizBA=="
+secured: "2JUshEt48C9lFIu3iRxEQaHtmARwhYqdaaKcXnMAAa6XJfl8NpAsr/4G2b31qMv0O7GF5j8IfKLNlvrpAAWZzbvD5JQCQsxe5dFG0XfsA9t+1EC6Uv/l27ByUB6yclWPRQITdslPeYro8j+VE3tRDqigZk1gaZXMpZkeTiHvU+vr8ZuuqEVpLmPWknVuMcyLNeX64BMi05pSrVuKlCnmIHOIThkv7Q2sjSlU6cqKHi6BDYdeu2jz/oFecYOH24q1wsR5hoLBtPNcsYvbS+dTGwMeKivecsMR0e5PD9RAZTlMXTvu9HTScSXqVZzFCRvKtu88D+i8lV9+03XZrlbfUwmOeACyvwZhvdIYGgcsIJqFL3diIM2X7mqgyS4rB8b81kxPLs+XNop/8oFMjCgp7Q==;+mWSyv4vhVLRgjzZbOgNgw=="
 ---
 

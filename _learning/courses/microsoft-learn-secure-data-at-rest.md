@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Introduction to securing data at rest on Azure"
 
-secured: "QJ4sSN+MZp9v2KKUMFFH+e9GQ8h+iP+YkUiKlydBoicVg3cg3KRgom+46p0DKBuzg/6jRfsqTXu9WkDj7lu53UCOyGsxs1K310yfp2ck4oH1lmo6YygEOAf18bgPdto0/zvWs8LQPaepdaDFYzztOi2Ih6aJ185m/wUbb6mg9zvj6tpz/E4JwkHqe0LbQVm/sEn7Hy+sbT31NzIQturN7ZytQlrWszU28czCwuVPFWJGD/v9Yg1GJtgjhALABTN5chewf0LAPt4gXaNkq/ZSHehWNnXnEIHnGtLhbP+wIQgrRycjay0V7LVoe0VuU85FUJlDXbsNDEIbnSXO/KLR9I1KLl5C/7nQw64w+hJHtOmqzmxyoSTjRiOHYw9w1qQp4nTbKiCl7TnM+kdNC/iTIQ==;qWoPcMKOAbhRTJWvFhB1HA=="
+secured: "QcsvzdKvWTJtx+PfUcyEFcB1vg0QtVRDgW0N7CUFgnzbMKYfAFrX2nYMp3oMBudp7ybAwykmuPShVZi0eBQJEm8VUN01sOrtZZr1M2Z5IKO/1Hv2Ifcroens50Kxt5Zu6bxJdYBwEucYUfprFhSaVMS71sMgeYPTtypAwFD8DmsJaHA+jg9WCvar7lvBQxXQ8/iKEyUY3URAZBx9Fvw8h/zeUfPZx8uNhXGrUhHzfibo7BWN6rGOvYbwC3JGjM4N9HCpc7DOPErNC/ABXmBIku7bALFUl+Asa4gBgvuHqh3czQx+DFDD5zU/tmYQDNAwmpgRe3xcuCKnKyL1uh3tWAiE/210iUzidLO/+8yrqNMLwDJsGSPvCI3qGQXUls6AJr2SfsP6luanKbeqyBVQsg==;3o5M5/E9aTWASeGYSTf4fg=="
 ---
 

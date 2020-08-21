@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Choose the correct HDInsight Configuration to build open-source analytics solutions"
 
-secured: "1pXkYW6sNDWYFD+ZqTcB+ICjIQgRZ0AKGF0bfD2fmSpEv0W2IxjCgB2HBSl1WynzJl85CxbCpZ/HzdAvWUCH3C52MLuhN9xl7GWTRQGzdIp6UP/o/8hPbZnYkx0FBGurev1v9jtN9zWatG5uYEWaw4eL18W4CHy/DZVOZ0zsabZyRw0iB2ycfqLXpYGgQtW5I8hioeGai4cu1O1+obPwF1Ksqw7XbNI1NOJoEXIdC8ML6TenpEdtA1AEoOHHdc3LKK/KFSq5842AdcBYQvqECr3+Oj/3C6/bP613TasFpaj4tGGJYCP+8T/+104CmLFTrardMAEYBPUun+mFEEH9uSd82fxkeT6OH289SzepLeXq1NSxqNqxZeYAU6nOKi7lamIv6OJ7lcmtmrGGv9gnog==;+waxBWlIh0KDK9kEHWHzMA=="
+secured: "imJPkMxNfIg6JdOoXrd9L9oYOygn4zcnAGyKN3thC1IBYmW3ccCS+WwH6jnaAKSGd4LPx+ZQI85CXpJ4m0PORRWj68izU+UqgkU5Z3Lnva2sMEH5rPKbzNP6L3E+OwbnWg2FtYW8djx6slQtyOuHFssc4j9yEWoHYG+i7TFSdN1G2vecGXv29M+hAoKC4jNWZBhIiYZJiX+rO7K+B07Gk8b2vUqjzTxRE/B54qslhGhC6Plr2L9mMujfMmr7FxwzCnXyLNZLiq+bfsbdnvb/zeIsE2/JhNx/S1CttwdgcOTxTdt49GPCM3GcmwqrA/O5kWMRf7dSlQHaSbEmcPfAexREUhYIjhizg8Jk4AffKUoNQBAn1c94v2n0V87JlmBulip+Ug4YCQomUR5s7IiI/g==;6zbm/gWifT5qr0jwHieI9w=="
 ---
 

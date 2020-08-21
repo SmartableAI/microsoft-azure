@@ -8,7 +8,7 @@ length: 47 mins
 ratings:
   count: 2745
   average: 4.675774
-heat: 56
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Publish a web app to Azure with Visual Studio"
 
-secured: "NSnueCqet0KvLodZEQbfk7vCdB7jLxlWl7M99Y2OLjOTTcfwE++4Ztkq7LHd5zKCff6Bfxfc7nJxNfo1FYumXUtuADZeqSCXBmRHbt0weuHjzYCYHAOktBm9C4MIe7l7IjH8aoeHJ/5O+vzjJhtkxXZQryLQDFlv/4oJQhwSQbsr7ubl4aYVKu8qQ+PPXIGj2TT6LBtty6xz/SrHSdZDmas2dgX0f1LDvwtl5YHoWGhqL3Q27Ra3j7Mbj6OtRovDYGSz9PYkse9E+pzkva/cmCiL3AxRkOkAUp+qkDaP6H2KHouNYG9RmTzeBWTTYRLF0jFOGzgpKBPx5BYK4VwBloT5FxZXkN0M+HfaN1fkOlRjfQD2MKyzwQhQ+i1pgWlRY7ARsNumQs4yYI5Txitq6Q==;cxyuIkJmlINFqUKBmA7QDQ=="
+secured: "dr94VcD5dOvSXt2PK2RsVNHTBLC8AckkoPtSVR257TsqumbTzSdmQRzCPVx/RoJyODv9v6eQljTLGxqfaiIFmQ0YKIFGlTnnewP8ZRvB1wM9tvrMqRv2k155rCtUVCN/Mq2PAZXMXXemVK530jM6YwCHon0kbznlf0dkx8BpnfNH8hr2E+n8JNoFqY+0AkINcNbNpF1FjQRnqAQviCpMfde+kGx/eULp9RoYiuL0FTlEd04UP3C6Q9Aj4mRrhj40r463lZmfITsiYQU34MGezTMgP2+J3tCZhkIkp8nhb6a5k0zZ+eriAlOuIy49OBOMLTa38CrJTVFJH3wi18W7DFY54HApLCBEqsEkkjQvNGLrmdEHjBJaAPFGgS/ePHwU+HgmddowTxCwLTMMsxD+Sw==;tL3JPbXq1N14SeYQo5PVqA=="
 ---
 

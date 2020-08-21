@@ -4,7 +4,7 @@ excerpt: "You will learn how to address problems relating to the migration of on
 type: collection
 price: Free
 length: PT7H10M
-heat: 75
+heat: 76
 
 provider:
   name: Microsoft Learn

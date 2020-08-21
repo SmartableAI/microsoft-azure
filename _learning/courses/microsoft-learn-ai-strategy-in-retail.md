@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Define an AI strategy to create business value in retail"
 
-secured: "GK6Lzdaj286w8TooqM3E1HL/R84RP8oOEd/3FEJlZxf2l9cFfyvGiZNeUzalYHqEl0Y2D/RBNyayDhvvle5CDlKGdogmXLSRSfK9pPPrjiBBMcC2Rh7cgPNFICHdfxODdH3s34JQjO1rQICAfFqH3VTmnsb5u0+8uLH4ul8/n/ZeQWOFxTwQZJ03j+y2TXdV/Y7AsuQLmOaW7KW2/UDe1YUekhj1gHEU+ryCGa6AcGHeS5l3Ik0P4HRG4aHJ2vTPWeX269WwvEywVTF2RqN5O8fPdGZg0jg55FDy+K9k3xdUQjOY7+oeqe2+0xWDdoFi7Cb8cyB0F+fTOE5kXcn5NBSbVxn/1yVpy7L3KKCVeGRwUhudVoNuhehNn+OF8QR6ZgCBXr5fd9IELy4oGBRjtQ==;ZhwuZ0eNn0jh+yIjG8UNiw=="
+secured: "xJ3fW/fg+eVpMo5leYFXDNEfjpgd9zzC0T5BJVhvS+c6qsO3CPUqXoNHVshDH8XCTwHR57K05P4FFZ7QlerahOPvTFh8UsDaHXYtGP2vEo8N3jlQiqn5s01BzlYi6lCBGnNH1CVcVnnwuvmERhaz40+stjHTBIMIe2x5ikhZDasjJWtZhIDCpgwfsB6DF5fLFiXAc9v+yM23JDg1sqiyMQw0zI64FrC8ijogFJKyhJYpQTPOJc9b8V6xA3msnta094axuzmMKPgNarj71PoMewUbsN6s67gGtUDc+DXsV44J6rajo+hZegsZeym/3/9R11iWvx24mDl7WxmyC/O/nE3E7VFqaHd75Qe/g3Y1t98BTa2fC+Z6DZh9SvcJksG7dPTfquQsdttHDhiNB0rY9A==;pVjpxlFABFbVfO7U/Y++iA=="
 ---
 

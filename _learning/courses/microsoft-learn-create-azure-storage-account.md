@@ -8,7 +8,7 @@ length: 30 mins
 ratings:
   count: 5376
   average: 4.7513022
-heat: 70
+heat: 69
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Create an Azure Storage account"
 
-secured: "W0eb0z0PfHVb2ZagschHGFrHnUJ6IPO4AHIT3/hJ0pTVMPdh5/2f6W5/s8fAS5N6TredpIFXSybZf1idNX7aP3EZ9F5VehvjltbgytsOS3/enk6bmtalEriO0K4Ke5yEgAoYHXRy3yo62jnNpX2QRh09tyX+S+ZML2M7EFXKQ1SA6sZCn3iENupHeABnxqa4inJKgyzbZ4S9Sp8VCWsVFZd82Z5lvjuXL09egOdREmmgF+r9rjIai3qZNyH36OZWFr++3tL4+XHvT5CTLLD295BdxvWsT7Qcj6dSBBjUCSPHgXO4/jDWcpfpWb/5fRiQV+z+H2I9k9gQNW6SEeqfUsqYbIxCgXcxlAmLU757qGKqmfbAA/gDiABk2orHrSBDfKg2bIQnP99vQl+MQllTRQ==;vXac3tDwgJVh0/5Edtg3zw=="
+secured: "S0k8gDwQsrqWdJ5G/s+gZXbOs2jkkzERLDOBoy2oOQWkcxiNsrvOrfHVyKSqmenKqbVTR0I66/bdPoIaTZDCtD84qvQzYEuki14CJqDA1NaxnxBfC5k+KvQ1KEZxFMzd4p1xyCBURV/DZWvCCuK8kpN2p9Csa8tl2BCXbh0w2jMolhOwFaqM9DuKnto6nhokSEPuLZTPv32R3IqEXjpg48PPi33IrDBsTXb5Hiihqw1XwB8xHNkacNpZV3CYVSn2D6jCsA3kGaTEb+SGreXY5Czrl/eQd0ML/xAqUZcF7POoXqw8hjQ3W0+z65b7KteaAEj2wA6C7Pr6PQVGabWCySzHl0zsZLVkjef5YWyWYFoqIYKvDdCQkjYzQCxKUNfn7cJDzt5wApfJqGvLRS99Iw==;5WGHK4nEurtyi+Uqhq9SeA=="
 ---
 

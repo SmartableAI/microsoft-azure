@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Manage an InnerSource program by using GitHub"
 
-secured: "OQJRD8zxeEyN61bdV8St+/K77uQovrG98/R9DL8iUd2ftKqf6A6Z+/blhJR+ixIvb0brPgqpn7Z3E+vajjChg+vJosIIkM6Uf4/p5tCQ7ApCNIL7fOWUTFvS2NisqGmgjqyAW/uyOiPN67wv91GZUbT6gko6lhE7H8kBKpDwd2YWa0MvM/LSuOeaVU1Wt1CUE9nS08kL+R5vqo9k4QpbcQw2OHGRYu5u/kZGrkzRFbYp7dYIpYrFS/omC3re17d1hHEWuj53+LfzbLH9FWzhmKqlJO7ApC0kgy11WaszIJObtKsS+dojf19Lekvjhnj7lAPjkwU/T6vgkoqmowwX33torfW24VfrXszO1wB3wD/dZOBDEXW2Yh4NAXngmtSo+exKK6jgkTCJV2tUX65IgA==;lV7XyTvrh7El0R3TUvQsmQ=="
+secured: "ERckvr/3IM2fDygPFxutWBG/hL+QMhyv5shYmSsrkkcM9tgY6yQ0iUR4RdrRSfHeW0z/x7ubDCJ+yMgLnSGi7IDHwf2YJ4nLX7EXPlHrRuGrlbwqPSJjqcxCHn/WdlzWEH1A2UunOZeHO/MeBsdAdHgfHTLA+YOVzdi2wEAmodqHD8N28IXcEcYgK9DfqiD5s7SQaNhKrl6xsuzjqFPc/K6ky9ZS2/AhO67rPDskl7MhdLKpm9zipDpmfe/RV6cPjPED2Z777nLFm6645Sp4hdWxItBQ7qb19UKMH8DNkv2IT0EtLCWmxvNG90tVLosmFdncOeHHarURKlywD5J7xYu+AIRGbFu/HRyLznWS2e9LPCRxaZE0BdiLtKQEZwzEVrxESBoX/mplftN+heqc4g==;mQW+6IBJUES6DFuQJojN/Q=="
 ---
 

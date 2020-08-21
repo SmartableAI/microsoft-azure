@@ -8,7 +8,7 @@ length: PT38M
 ratings:
   count: 24
   average: 4.7083335
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Learn inclusive marketing principles"
 
-secured: "9CdsK/h5pXDykJ3cE+peUJCyaJR59GnLOhTQXlzPHGnqlfFJgscu+sL3MyVvSVz2s9KWoI8cuJ8iDr/ufaYYaNZvfz/jUyja2TPHpTaxwD5wjyOARigFgAPHKH0Ms9fal300OOKrV+xZ4RU4P4lMY5A051MdQGMbkv7wKpcjv5Wsrnz6JPf4KhZ25jh6Cja5vudAoDkykm1nIlTHngs8VFOl1k1ANUnpV2zROVB/oi5jSOjSVlfCSfKXi92xrkz82DaHvuli2VgF6rGuqUNOuihDgVeD42mylb8QmORRRKs5rJouhxq6ADt/q+K6TFiXuOr09jNG9gSx9rrD3U8yGCI0uY4p73RtYQ8PGWwbepKN5hV5MzSe2CHFFptN+8trWL+0e5edulfiPHdhYKDYow==;HHFhdfN40SLY3VrmueP5fQ=="
+secured: "9mpjQyK+6SlphgxGSUhc1lYz6VzjVm+iOHrmFv2OLqguNHb35HXVD79NdbgEL9rbf2o3pEq30AeMNY54mJlZb/VWSnbsjMTaj/OItMFf2yFro8P/tc0oZRyy1ne83VnCTiSxJpHo9v1dLCFRQ3qny8iNTPebZjq/nCZ74UzjQGdee1iHr4vYRxrXXKfweuzyEgUG8XXst8O7L5+/Vram2mJjAZ4t5Szqk2gjHjTdVmpYCEs54OB88EL0YZ3l1psib6S/e/UMu7jyzqTpxYRoq9+KqLonfRoF953H2dT/hE5PcnoOQ4gHmvff0klMGzclaptm/WTyjqDaqVRD04KZm8vpBTLml2YaMK5Avi25Hysb1tygtvMnxhbLw/K8kqb9+HR5pCTRSfEYBKisNGnmLA==;Hsk3Es9D5ryhvPdAleT+Ww=="
 ---
 

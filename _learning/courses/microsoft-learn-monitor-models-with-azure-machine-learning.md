@@ -8,7 +8,7 @@ length: PT39M
 ratings:
   count: 85
   average: 4.7411766
-heat: 53
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Monitor models with Azure Machine Learning"
 
-secured: "OeXkxq+tIkBCjr1J9GQrcEf/LQqth9vd9aENcwTsaIV75+dBqEwjPbOGXIpa2PXOw0HXOvfEUsCTo7KOvxTFquhX8+oo0WWgkHN5J6SVgAuGbvFoD9ZPGT7mAmkyz7nz2cZILpPglGjFXpFIAx3hHuZy6vl8o10TAEVzNUo6plJgNis0ln36HzXDLa9+7ZXX+fUuLg1FBemAGhKOHbnkL0ZP3JsJkxFT3fSGJX3aKU8kMzqKFKjyH79mEjvXasOf600baBnnk3R0kwP97lsB3oruUAQXbESTce7xSGPS6GPrG5fUwKoEHlH41Ce1Akzpb/GvV97lRCVH4elXHjQTNS3/BLFdMaS5IlprMGa6nYUp9xX7HQQdtpKLAeOvjwhauvJyTTTJ3m2Qh3zSJPIzwg==;BU1GxsVcvazqJhqTNDjkwQ=="
+secured: "uDDO3+Z10LpiL38n/g+2FxCiPo7XbFo/tuoFzXmudGT6wSfAOPy/x6JhePBdL67tz/Eyo/3ZOhTNP1KvnXfXTNawhjgeVlXdXNoW4r06RNgDnWlAPb+Og2IKkRqmD4fCqOlkNxlMOl1CngohfNkNBvN0zCnyPJ0cy5wjYQXbnD9FzOciWSD3QZJsBe5d6pLRXY/k7ztdKGcyCHtRdmztY+goQL8ddZWlC3uzV9qPCvSFg6/cGLt/GMEeCTuLdZgDILpOvmBw0+f5oK4GzjR2Ec+vY6LMcFJ/LT+28sx3tfnr8mJsCU9gvU7WLkMbP6NrmunE+rbf9t0jTMGnV2+asta8yzg7A25b5w9EQ3DltcGZiYbtujEl3NrUk3YKrpUXo9pjB7HFpUr0xOqZ8F1VEA==;WptjFuXSn9fWPpacb2rDnA=="
 ---
 
