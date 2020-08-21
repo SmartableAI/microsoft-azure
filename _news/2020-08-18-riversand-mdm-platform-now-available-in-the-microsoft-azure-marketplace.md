@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Riversand MDM Platform Now Available in the Microsoft Azure Marketplace"
-excerpt: "HOUSTON--(BUSINESS WIRE)--Riversand, a provider of cloud-native Master Data Management (MDM) and Product Information Management (PIM) software solutions, announced today the availability of Riversand MDM Platform in the Microsoft Azure Marketplace and ..."
-publishedDateTime: 2020-08-18T11:07:00Z
-webUrl: "https://www.businesswire.com/news/home/20200818005296/en/"
+excerpt: "Sajan Parihar, Senior Director, Microsoft Azure Platform at Microsoft Corp said, “We’re pleased to welcome Riversand to the Microsoft Azure Marketplace, which gives our partners great exposure ..."
+publishedDateTime: 2020-08-18T12:26:00Z
+webUrl: "https://www.oaoa.com/news/business/riversand-mdm-platform-now-available-in-the-microsoft-azure-marketplace/article_b58fe46c-ae7b-5911-9185-d3a396508bad.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mms.businesswire.com/media/20200818005296/en/813376/23/riversandlogo.jpg"
-    width: 1200
-    height: 627
+  - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+    width: 576
+    height: 288
     isCached: true
 
 related:
@@ -35,8 +35,8 @@ related:
       domain: businessinsider.com
     quality: 73
   - title: "Mimecast(R) Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
-    excerpt: "(GLOBE NEWSWIRE) -- Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast (R) Email Security for Azure Sentinel in the Microsoft Azure Marketplace,"
-    publishedDateTime: 2020-08-17T10:21:00Z
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. LEXINGTON, Mass., Aug 17, 2020 (GLOBE NEWSWIRE via COMTEX) -- LEXINGTON, Mass., Aug. 17, 2020 (GLOBE NEWSWIRE ..."
+    publishedDateTime: 2020-08-17T09:33:00Z
     webUrl: "https://www.marketwatch.com/press-release/mimecastr-email-security-for-azure-sentinel-is-now-available-in-the-microsoft-azure-marketplace-2020-08-17-51843038"
     type: article
     provider:
@@ -368,6 +368,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "vFqteMpta87emgyjcWgPpyS3++1g/IIAMakrq72zfIupLO9NdxMjDDePLWPceZVJbrKyJcmzM1SRsDKo9RqLLq0F5uxjwSy2Sx191/5iB3DyDKKZJCHp7Ikk7pdQzlCCq+1XUQ1+8OiYtteZNOjjWa0iPKYGzAKK2Vq0ZpJKljZpnVucAck1hCrD/nNkuH/SiPKgo9ws/MiBne1KdqtwK3N/NR+icJNWxHfKK8hddqb+1WqdTMuW0OR5DNTgjOcJUG2uK4emuQSVX8Hn2BPgXd6t0TEfqK4lqnxJtePkHPxeJOVmC3yT3Y8W9zwl/n3K8LhAxu6HgrpcWhRogC2Jrg==;axxZ8e1wC7ePPoOAH/eLQQ=="
+secured: "+HTPzb8loMxvf+dqdFiUGJHmVox2Mq26fcQaj4h0rdnTdQ4Ix/vKWWLnV5ZgWS3VXEMKPzcFS5mPMl1n2aQQHlt99esCsILqu0/9F4YymDjcaf0h+JUzvNXW3X5J37hCMSl078+Yxng5YTWGBAG+lBbhIz+PybomxApAixGVEXNuTkvQNRZKInDS0dxmIaUZcMUZ5j1Gtvgc4lZQA3FsyVxEmPdZp3Ttn1ekxk45W9D7FU23kpf3VN80ZPQP/9EZkd3lRsJSZsqYRqHiSECfSNMzsqnr0ZfqT8O0kqn6bB19tz1RDKJwgxbDmR/dOeKlJtRKoasfKZH17ugrqUFcoA==;G/kv4AaRyefSQvcq+Vqwcw=="
 ---
 
