@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-30T11:46:00Z
 webUrl: "https://www.prnewswire.com/news-releases/corrata-announces-mobile-endpoint-integration-with-microsoft-cloud-app-security-301085864.html"
 type: article
 quality: 18
-heat: 58
+heat: 18
 published: false
 
 provider:

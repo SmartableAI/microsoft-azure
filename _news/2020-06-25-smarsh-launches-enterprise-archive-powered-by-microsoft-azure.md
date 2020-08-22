@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-25T13:00:00Z
 webUrl: "https://www.businesswire.com/news/home/20200625005068/en/Smarsh-Launches-Enterprise-Archive-Powered-Microsoft-Azure"
 type: article
 quality: 37
-heat: 57
+heat: 37
 published: false
 
 provider:

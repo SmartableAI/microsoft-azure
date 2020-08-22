@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-02T16:00:06Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-dedicated-hosts-now-support-additional-azure-virtual-machines/"
 type: article
 quality: 17
-heat: 37
+heat: 17
 published: false
 
 provider:
