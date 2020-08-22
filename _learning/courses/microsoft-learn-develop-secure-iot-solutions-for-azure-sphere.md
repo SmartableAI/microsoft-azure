@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Develop secure IoT solutions for Azure Sphere with IoT Central"
 
-secured: "NrkFRF4ON49+hc8IyQU1Qh6gUPZ3LhX8+GwJXWsO/r5sVxHYv5EXijIYRpdRmOFVi/0rVsX9mjBhAw+TKFAI6sDMZss4mztu9aiD3SyVlkSfZLUtIsNT+Eus8j15J5Y8KoO83ceCbVQ22H4TpgS2XKtKh97vwqG+0eBwDzu/WL2TxOyyzPiHaHxkqJgT+ijlSfx3A4XYG6e2x/1KPAnxpORBUT+B81LiQTQ7zpJmwGbr1BJ5wsWGyoUaE+yARN94SXvA0aMHGYJ0q7sNrUa/1emSj1AeohOD/UXiP4scAiH/22ceIbIXZfdzmwQf/847W+aooj+8jlbMBU9HFWvPrwy9jUhDKkkuWp2fZ/VWy4eJ1G4pVk64bwNpKB4GxA9hMCNEY3R6CVzBhrMCkhXS0Q==;afX/IwZb1JKAxes3awv5ew=="
+secured: "vEDp7O0xY3LIkDQrBawu1iSW6ARGmQN3tZRG6gNl6wge6K30mRaaw9eByfyOX4OohxqC5pi8WisPqHEoHObEmNqibb5W9GGRE/tg6clcO4y4DYIyQsuDT5h8rPOLtgKg/Gkvn+zKoi5Yxhob1d8UPiNfS1kSp0LdyHmR570P7GgkImZX6GpmAnBNPA9t6wsc9SKz1PWutVh0czEKRfy3OyfkSln8Q7CUljuO5noTGKxYBDaDIst2BhV/uo32KxDmP1O4aeLr6pPFUdi7SNAF8jyeP5kIsOjG51xB6i3vd5F8+Ak/kvUASs7nAOILru6hetwxFq9y7wGv2NLXakEg23mZOa2c76+2AG+eV1Ep5kQ0HaCXBIuRuQV/UIGYeq4zTdiupHyJYRj84FKGtcbV3w==;Mwj/f+CK18dGEEagsPR4uA=="
 ---
 
