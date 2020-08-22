@@ -8,7 +8,7 @@ ampWebUrl: "https://deadline.com/2020/08/universal-microsoft-team-on-cloud-based
 cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/08/universal-microsoft-team-on-cloud-based-storage-system-for-animation-and-live-action-productions-1203019703/amp/"
 type: article
 quality: 51
-heat: 111
+heat: 131
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
+    excerpt: "UNIVERSAL CITY, Calif., and REDMOND, Wash., Aug. 21, 2020 /PRNewswire via COMTEX/ -- UNIVERSAL CITY, Calif., and REDMOND, Wash., Aug. 21, 2020"
+    publishedDateTime: 2020-08-22T01:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-2020-08-21?mod=mw_quote_news&tesla=y"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Universal Shifting to Microsoft’s Azure Cloud Platform for Live-Action, Animation Production"
     excerpt: "Universal Filmed Entertainment Group has its head in the cloud — and now it’s going to push its production teams there. The company has embarked on a major multiyear strategy to move its"
     publishedDateTime: 2020-08-21T15:03:00Z

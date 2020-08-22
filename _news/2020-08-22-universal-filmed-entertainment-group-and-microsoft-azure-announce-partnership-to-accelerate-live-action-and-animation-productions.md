@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Universal Shifting to Microsoft’s Azure Cloud Platform for Live-Action, Animation Production"
-excerpt: "Universal Filmed Entertainment Group has its head in the cloud — and now it’s going to push its production teams there. The company has embarked on a major multiyear strategy to move its"
-publishedDateTime: 2020-08-21T15:03:00Z
-webUrl: "https://variety.com/2020/digital/news/universal-microsoft-azure-cloud-production-1234743076/"
-ampWebUrl: "https://variety.com/2020/digital/news/universal-microsoft-azure-cloud-production-1234743076/amp/"
-cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/digital/news/universal-microsoft-azure-cloud-production-1234743076/amp/"
+title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
+excerpt: "UNIVERSAL CITY, Calif., and REDMOND, Wash., Aug. 21, 2020 /PRNewswire via COMTEX/ -- UNIVERSAL CITY, Calif., and REDMOND, Wash., Aug. 21, 2020"
+publishedDateTime: 2020-08-22T01:48:00Z
+webUrl: "https://www.marketwatch.com/press-release/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-2020-08-21?mod=mw_quote_news&tesla=y"
 type: article
-quality: 46
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: Variety
-  domain: variety.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://pmcvariety.files.wordpress.com/2020/08/universal-microsoft-azure.png?w=1016"
-    width: 1016
-    height: 571
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -41,19 +43,21 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
-    excerpt: "UNIVERSAL CITY, Calif., and REDMOND, Wash., Aug. 21, 2020 /PRNewswire via COMTEX/ -- UNIVERSAL CITY, Calif., and REDMOND, Wash., Aug. 21, 2020"
-    publishedDateTime: 2020-08-22T01:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-2020-08-21?mod=mw_quote_news&tesla=y"
+  - title: "Universal Shifting to Microsoft’s Azure Cloud Platform for Live-Action, Animation Production"
+    excerpt: "Universal Filmed Entertainment Group has its head in the cloud — and now it’s going to push its production teams there. The company has embarked on a major multiyear strategy to move its"
+    publishedDateTime: 2020-08-21T15:03:00Z
+    webUrl: "https://variety.com/2020/digital/news/universal-microsoft-azure-cloud-production-1234743076/"
+    ampWebUrl: "https://variety.com/2020/digital/news/universal-microsoft-azure-cloud-production-1234743076/amp/"
+    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/digital/news/universal-microsoft-azure-cloud-production-1234743076/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
+      name: Variety
+      domain: variety.com
+    quality: 46
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://pmcvariety.files.wordpress.com/2020/08/universal-microsoft-azure.png?w=1016"
+        width: 1016
+        height: 571
         isCached: true
   - title: "Blackbird team give demonstration on the Microsoft Azure stand at the 2019 NAB Show"
     excerpt: "Oliver Parker and Huw Dymond from Blackbird Plc (LON:BIRD) discuss how they work with Microsoft Azure to enable 'lightning fast workflows for sports clipping and highlights production in the cloud'. This presentation was filmed at the 2019 NAB Show."
@@ -81,6 +85,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "aFIdAp/9ltzL/NrkO5AtJDGPJQAMIKscFcO9fTlCYVEl7PD8ONKaK/cPiLdNC9SQ+LbFrBFneRZeuoBk9FyNq/yWW5ONeMNZWqqG9BIGieSlZr8qqTPQjjvV+8gD++8xVhJm+zZZATFV8IGaGeYmKssrgaefzEyaGqa3x01wGDqr2UPJFwZgipxJ/gjJadzDRDmxUEBCjrBwgedA0tKWGHH2yW0rP3Toa274i3sk/u9tkv1aHQWJQY5ewX42I5rjldVCJljZ5ObI3YmJCGyp0r3fz0eW/ImQogP9FzvPhYqP2j/HrF5HU6l0FHSwubw2LYo9YM45LJJfI5NwM8nTSakRYdGctwBEVV2rfY5uzdD/UbJr3I2Lu9Hl/vGSaB70zzQ05yOiK0w3xSA+exAexonBKi2cYLF0HGomQgXVnKFmkMxUpm8RdpLIOk+ZY4Ttpn/Pk4oGOzjXOj0II/93dQAtFHHg33LjhvVXJWZBSeB3665QQyDjNNsooaCn/gSRPwkYerrHUvsQA3vZSBInCA==;vP+OU/JzFdHyG/4OsLSpWg=="
+secured: "5RnvrlZ7Alj3Ir+Ljki8AAJkGR5cx7h+SdmQqQyX+DAWHHMO2JZbIK5dIGSrjl2KYRJbSEKbsZH4hB7MvakVR/LdFEp3Rp4YTdGRQ2jeRtHmpvYnXGSE3tQ3ASVErEzY6HDT3Lg3M614A9jF4ofSFWr5V9u/35dN70pDHXOBFEascqS1xOKEho2qb+kS9jE2lp7h9+C8xY+Cz0M9Unrk+oIW2daaBrUblmSwMaIp+voLvK4lXeUgU3C5qKfLKcFmda9GfYri5IQu9kod/IY8ci9xYVvvaXR15erabs7NEfd7pWSQxfLiYXPoRSpqvcaCUeqKuHCavkyIOCyrZj8CTw==;KdOuknHwQwN/V2zuZZeP/A=="
 ---
 

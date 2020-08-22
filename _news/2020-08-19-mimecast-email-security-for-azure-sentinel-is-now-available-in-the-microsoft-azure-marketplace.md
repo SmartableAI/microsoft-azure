@@ -1,28 +1,20 @@
 ---
 category: news
-title: "Mimecast Email Security for Azure Sentinel Is Now Available in the Microsoft Azure Marketplace"
-excerpt: "Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure ..."
-publishedDateTime: 2020-08-19T07:08:00Z
-webUrl: "https://www.albawaba.com/business/pr/mimecast-email-security-azure-sentinel-now-available-microsoft-azure-marketplace"
-ampWebUrl: "https://www.albawaba.com/amp/business/pr/mimecast-email-security-azure-sentinel-now-available-microsoft-azure-marketplace"
-cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/mimecast-email-security-azure-sentinel-now-available-microsoft-azure-marketplace"
+title: "Mimecast Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
+excerpt: "Dubai, United Arab Emirates - Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure Marketplace, an online store ..."
+publishedDateTime: 2020-08-19T23:13:00Z
+webUrl: "https://www.zawya.com/mena/en/press-releases/story/Mimecast_Email_Security_for_Azure_Sentinel_is_now_available_in_the_Microsoft_Azure_Marketplace-ZAWYA20200819070435/"
 type: article
-quality: 45
+quality: 5
 heat: -1
 published: false
 
 provider:
-  name: Al Bawaba News
-  domain: albawaba.com
+  name: Zawya
+  domain: zawya.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2020-08/Christina%20Van%20Houten%2C%20Chief%20Strategy%20Officer%2C%20Mimecast.jpg?itok=MPnsRrNr"
-    width: 960
-    height: 540
-    isCached: true
 
 related:
   - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
@@ -370,6 +362,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "sQ4AOvxGf5Wo81JzQHkrf2iG8Yc4jzpC3k8HjK2lSjGF9VSJuNFdJlOMEY+qVlO2hFiKZpT646gDKag7h+ymur2C8cwXb6CVVB76TROQeCAAGqHHHuaoOwI0dE1x8+ZwRU9IeYc2DGYbHzlyKlTJR7aL5KctnijeFZ+KbpwvZchTGrmF3zjJL+rJk7UrF0Gx/OWInoXcgZvWrLYFlm6JggQ/RoilldymE6rOCcof16wndza3WiGq37iCA8lfW8xHGGiFwpYPSZyuLX491y8OJqpfxj73nckZB5H6H1MjxIqvGgBCkV+e6JleSj2sLelFG/FUDiuEkM+vm32pcnqFnQ==;mKIfaAmzdepG5+lQeKtnkQ=="
+secured: "oymFkC/BXpJfUVT6Dd5RBvwriaLSbl2yIUvbsjnykVN/tjyRoqUe9oLzkhJ2JXjWy1cVyITchJl/uggMg1ZnyHJ8TbgkJaPkXn/qFTZPRi4rreWbT4gUi0/4s8DeyUikTAp8CLimY/fcP5lfq5q+19JZdz8LkIrY4zU5Zksavm3BsWcyNk9MpWkQCCyXhr00sgtQbnTDd9B2raSnm6jYpsUPJ68oNgHvMJEEOxB0wBrgoPqquIiQIeOi41j+7qpOz6GFIYOKEwV0fEgZMbHe6Q+zHlotku6plGIhGOEBQg49DIxfsiEVv4xlCoG4Jw/VjzzM1fKZaU1Hbz6l6w/ozw==;yQbcq91cWEDK965UXvbP3w=="
 ---
 
