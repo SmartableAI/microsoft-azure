@@ -3,7 +3,7 @@ category: news
 title: "Microsoft Announces the Preview of Java Message Service 2.0 over AMQP on Azure Service Bus"
 excerpt: "In a recent blog post, Microsoft announced the preview support for Java Message Service (JMS) 2.0 over AMQP in the Azure Service Bus Premium tier. The support will allow customers to modernize their application stack by lifting and shifting their Java and Spring workloads to Azure."
 publishedDateTime: 2020-08-17T11:39:00Z
-webUrl: "https://www.infoq.com/news/2020/08/jms-2-amqp-service-bus-preview/"
+webUrl: "https://www.infoq.com/news/2020/08/jms-2-amqp-service-bus-preview/?topicPageSponsorship=1affdcd4-e9d5-432d-80ae-f9e5b551db61&itm_source=presentations_about_Devops&itm_medium=link&itm_campaign=Devops"
 type: article
 quality: 27
 heat: -1
@@ -17,7 +17,7 @@ topics:
   - Azure
 
 images:
-  - url: "https://cdn.infoq.com/statics_s1_20200804083819_u1/styles/static/images/logo/logo-big.jpg"
+  - url: "https://cdn.infoq.com/statics_s2_20200821055107/styles/static/images/logo/logo-big.jpg"
     width: 1200
     height: 630
     isCached: true
@@ -42,6 +42,6 @@ related:
       domain: microsoft.com
     quality: 14
 
-secured: "u+hIhfk7IQfDV7rQcCmmE2j0ezZrt/8Nd8LKgDukrgJk2xk/gfFY5/n2p6ma4GGp5qsok/mDRLIb2vLb6YL3aJ30vAigXkDbmwOluTlt/9WmAot8mkA5wl681bWv2g+ZoElvSBj5jXFlsfAbDHbu3KdXSpDoCjiemCyNAjXrL/km7k4ZSyujxPgbLzfhB9yl8ZYM/VY2gDR4WApq4XtngSKG0Y7R7Kohx55yfeyqk8TzLN5d24SvkkJKW0+WtixxYdFkxfM4MbFOooU2YXJ3Lp2StYRIIyqOP++66khGquBZvP3vmFJbeDumqef3m55DQqqPftr08IwpZGU1Wm2bFcgn7gFdewjwblVg/TKZ1GU3TMIiiWmWo+R7u/iFQEgSadNfVQaYvo6Gui2/g0yoNI9tAAdEfyPM+Hq/7d41ryMIl/Dvx26lza2G1R/hK5yYmmDiHC3HEWGl1RXHIxAEgDBrLGf4r5IHZqZH2r8j3r+LekHBjIuHZgJBMxjT33K6Y6em64x5dbgIv2aD75mIaA==;o+3Cj++Vrl5t+GRCvkam3g=="
+secured: "cof6QYKOSiJUd/Js6bDU0oGnk8LBBMNtTPg7pHODYGWnqxQpDendRdp+QTNE29UkLEnHh5lQwtxZHFBCkHu+KFEJ+nLeMlI+WDjJez4xAt8+LsGaNfbBBqfZE/qkwrqx5dqCWsaQ0QxvemnlunT3sGWE5J1kThB8mcATMnAAv/08SdjJpg2MomeH0eGiTfyiDUNl6X7+/dHBjNKJeLRhlKfpshm+9tR0HwZ9XZ+S5Me/cM8M/OanjL9RSAn2uF6Bo2hndBO4y+A8pamygqUKqNj+tRDu2oRr02LGhqwanu9dAuNermki9hG4blXwD2qToTXt8nVXtR9FmtcMBQvSDw==;GRyjAVpFIVDd1p5w9xHBPQ=="
 ---
 
