@@ -1,20 +1,28 @@
 ---
 category: news
-title: "Mimecast Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
-excerpt: "Dubai, United Arab Emirates - Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure Marketplace, an online store ..."
-publishedDateTime: 2020-08-19T23:13:00Z
-webUrl: "https://www.zawya.com/mena/en/press-releases/story/Mimecast_Email_Security_for_Azure_Sentinel_is_now_available_in_the_Microsoft_Azure_Marketplace-ZAWYA20200819070435/"
+title: "Mimecast Email Security for Azure Sentinel Is Now Available in the Microsoft Azure Marketplace"
+excerpt: "Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure ..."
+publishedDateTime: 2020-08-19T07:08:00Z
+webUrl: "https://www.albawaba.com/business/pr/mimecast-email-security-azure-sentinel-now-available-microsoft-azure-marketplace"
+ampWebUrl: "https://www.albawaba.com/amp/business/pr/mimecast-email-security-azure-sentinel-now-available-microsoft-azure-marketplace"
+cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/mimecast-email-security-azure-sentinel-now-available-microsoft-azure-marketplace"
 type: article
-quality: 5
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: Zawya
-  domain: zawya.com
+  name: Al Bawaba News
+  domain: albawaba.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2020-08/Christina%20Van%20Houten%2C%20Chief%20Strategy%20Officer%2C%20Mimecast.jpg?itok=MPnsRrNr"
+    width: 960
+    height: 540
+    isCached: true
 
 related:
   - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
@@ -160,17 +168,17 @@ related:
         isCached: true
   - title: "Riversand MDM Platform Now Available in the Microsoft Azure Marketplace"
     excerpt: "Sajan Parihar, Senior Director, Microsoft Azure Platform at Microsoft Corp said, “We’re pleased to welcome Riversand to the Microsoft Azure Marketplace, which gives our partners great exposure ..."
-    publishedDateTime: 2020-08-18T11:07:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200818005296/en/Riversand-MDM-Platform-Microsoft-Azure-Marketplace"
+    publishedDateTime: 2020-08-18T12:26:00Z
+    webUrl: "https://www.oaoa.com/news/business/riversand-mdm-platform-now-available-in-the-microsoft-azure-marketplace/article_b58fe46c-ae7b-5911-9185-d3a396508bad.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Odessa American
+      domain: oaoa.com
     quality: 37
     images:
-      - url: "https://mms.businesswire.com/media/20200818005296/en/813376/23/riversandlogo.jpg"
-        width: 1200
-        height: 627
+      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+        width: 576
+        height: 288
         isCached: true
   - title: "BitDam Advanced Threat Protection now available on Microsoft Azure Marketplace"
     excerpt: "BitDam announced the availability of its Advanced Threat Protection in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. BitDam customers can now take advantage of the productive and trusted Azure cloud ..."
@@ -362,6 +370,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "oymFkC/BXpJfUVT6Dd5RBvwriaLSbl2yIUvbsjnykVN/tjyRoqUe9oLzkhJ2JXjWy1cVyITchJl/uggMg1ZnyHJ8TbgkJaPkXn/qFTZPRi4rreWbT4gUi0/4s8DeyUikTAp8CLimY/fcP5lfq5q+19JZdz8LkIrY4zU5Zksavm3BsWcyNk9MpWkQCCyXhr00sgtQbnTDd9B2raSnm6jYpsUPJ68oNgHvMJEEOxB0wBrgoPqquIiQIeOi41j+7qpOz6GFIYOKEwV0fEgZMbHe6Q+zHlotku6plGIhGOEBQg49DIxfsiEVv4xlCoG4Jw/VjzzM1fKZaU1Hbz6l6w/ozw==;yQbcq91cWEDK965UXvbP3w=="
+secured: "KeGqAXk0UznLPqqGAHRR/nHU3EGVn5va2Qd1k6dhXnEQgMsrIxtwxpN7jj/9hZZOMRE4bz1FLmILY4chYUzWI0slYhzJUKzPd26oXLTXj4SixxJeu2mXw2EIXTjecXXjWG/qR1imaokDrjvf26SPPOD2TvIzBAoOihxPXiNktCD/zdFIOgvR3bgDZVWAwrlHnGna3BIv8JQ7u0rjiWm8SJPQbx15q9MrQrnwxv4rp0UtniVMHDTVdjnmTszIS45n7lYD52/ZWPBA1R2DN0+yCTkxjlP1fHQzmwMu35bv+Zn6z/UbGuL/qLLCFXpAr0ZP26P24J69jkgHQDGi3BbP/A==;dAq2NM1zcDHWoWSSuIIgGQ=="
 ---
 
