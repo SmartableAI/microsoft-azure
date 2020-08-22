@@ -8,7 +8,7 @@ length: 44 mins
 ratings:
   count: 177
   average: 4.638418
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Expose hybrid services securely with Azure Relay"
 
-secured: "K2vXbaPFw4L4a51CUBFtq0fE2nF5L7Oe7sY8WEuT9VQZH4CeKvaMy2Si1WLACwT7LKDnlEpHQHrK+jPZngWUw7FXqNH4PnOhg0HDjtIMe0Jclv4JbQ96kCtg/BUM1QbkOWOl6hfViXB0CX9sU3YpniNysvPNL1jX9XnD1xwjr1sZ/ihIUwPqRFDCIm+0ORXQ0Rb5hdC/DkQt5MDs81nLn6P6jW7BaaaIO/2esX+/HypIZ5TEKXU5ximNomCGtfBVJFRmNzzXIG8Vdo+Wv4glE27kR0X/vYNlWLXNQvvBC9GGM1CojDKe2UIez9ODltiMViXFXmlT8sP8QvsQin/USLoUa3Wb4YTsEp7k5Cbc8m70ob9lAFGr1znEjhMpIY0EYw1VCHjOkfHusXyRC8+p2A==;jClSsudr2Sv9cLwjvFS3Fw=="
+secured: "i+6utQovgEevaZVSecQCfVW/y/gso2434GL08RUJvZwtVSJG03BVB5YA0o7pJ90rIPvQssppeXcXrwpFPc45KDMriXlF2ONBQ8QSBzP/4gJcJ3tvB7+KsbVy6XVX2aG3YEdwVuBw8hidwwNmgeDnsTkpSHLs/DaywO6qAjLjJeJL/MhMKj5pQcPy4fN+wj1RuBHQ6k07rVRuo4/ZWW67JgFk2KBiqnhNY2qcrVb+9GkBXTHGPbQaA5OdnCHF9RGy50ktabFZ0LJUrIjj3mQC3AATbb1yuE7tPxeQSZA60V2FFQ77L7bC9TYXWe2yAUch4KbI5WJmI8yzTnAZDhCiGXXrUJ/ylVnYJZ6K+gzNx9VpTA+LpurgLtRAllyHDT4RlBr92oF2FlsbwDAsg3wYcw==;JrxumDDuDqWZax39mbnHCg=="
 ---
 

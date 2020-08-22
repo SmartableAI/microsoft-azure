@@ -17,6 +17,7 @@ provider:
 items:
   - courses/microsoft-learn-audit-security-of-windows-server-iaas-vms
   - courses/microsoft-learn-manage-azure-updates
+  - courses/microsoft-learn-configure-bitlocker-disk-encryption-for-windows-iaas-vms
   - courses/microsoft-learn-implement-change-tracking-file-integrity-monitoring-for-windows-iaas-vms
   - courses/microsoft-learn-implement-windows-server-iaas-vm-network-security
 
