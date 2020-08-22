@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Run Cognitive Services on the IoT Edge"
 
-secured: "BFYbKYgBsbDyZxlLLWkx89JBYRCiX3cwIcpF6VdzHrE39ggmTbIx4sqgPKq4gfVS1hz+Ihsx/4ZkkBR8FoYwGc+euX1BtAzwhALesp1d8mABnBFP7lbm3B43GaTBwp5Xj1hdvGQO7ftwGSuZ//yX+VTGGEG10r0XkidIw30zeWBKIoQC6a2qxjKptqU7jDZY70b1kMWatbShKKwWHXnExOCAbT3rHIHVibm4I3AOdCF4IC57ky5lCJmkTKQ111tsG8CxFWBTI0R+9L6EqK8GWK8Th2U/g+V4O0BfxgoHkvsWL4+C/qThYCmzrlwQ5cRKt9E0eGvleO5Wp+UeuIQ8f6ZWITTkRH37KWY/o7j5mwwW9NTQjPzULyeCBSYZ5TGj/JIInTbRCO1HCtw1S7Wg7g==;oaz6LywNUn6+TuCtEm1jxQ=="
+secured: "jGyO/4fLzVTQbp0xu9S/GsGgWLHx/v+yC8bwF+zu5ihhyd2uBWQ10pg9/3g5OgTkXPV/XUyV+lso94+xZjz7V41qoaq/o4t+fuNYNHO+UYM7s3XOrVufT1re6/uoRjc4dKrW3/VzLevtNOLZWtZpw+pJgzEodi2XDSo3pjma78vdv93IMUBYuM4zV/D30KJyXBPIxJOhx91pQmo/El5ErRM9E2sHjG540A6h2CEpndFuEHANc3K3Ngx64n+/osrjA2Oi8Yy8dc+ccpJKUpYaYp1zGOP8fJCrtrtbN/INeMfxvAmm3lSuDNWuKy/3iSBOpuN8DR1zRkscL5ZlQt/SEVUzbtGUfZFr1ZaKIktjq44rGv4Ez7hVQy7BvbdFpSR7WzzNY/uFzHXpsWaBske9nQ==;xxKVsuCSpBDfE18FYbBiEw=="
 ---
 
