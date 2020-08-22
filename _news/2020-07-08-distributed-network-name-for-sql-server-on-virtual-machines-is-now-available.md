@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-08T16:00:18Z
 webUrl: "https://azure.microsoft.com/en-us/updates/distributed-network-name-for-sql-server-on-virtual-machines-is-now-available/"
 type: article
 quality: 0
-heat: 0
+heat: 20
 published: false
 
 provider:

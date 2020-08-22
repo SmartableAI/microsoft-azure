@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-03T21:52:00Z
 webUrl: "https://docs.microsoft.com/en-us/azure/virtual-machines/troubleshooting/vhd-not-supported-vm-azure"
 type: article
 quality: 37
-heat: 37
+heat: 57
 published: false
 
 provider:

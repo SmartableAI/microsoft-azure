@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-05T16:00:04Z
 webUrl: "https://azure.microsoft.com/en-us/updates/backup-storage-cost-savings-for-azure-sql-database-and-managed-instance/"
 type: article
 quality: 17
-heat: 17
+heat: 57
 published: false
 
 provider:

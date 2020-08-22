@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-29T01:00:20Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-site-recovery-now-supports-proximity-placement-groups/"
 type: article
 quality: 17
-heat: 17
+heat: 37
 published: false
 
 provider:
