@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Stage a web app deployment for testing and rollback by using App Service deployment slots"
 
-secured: "CHY9dt9iWOnG46dYQLB4YKPYrZSq1wJKDjndAK0YdDyQNAPXW/bUihIgu1Kl/CIaXab+Fe5ODHMj1n7MHW7FedLo5ntgkzH0c0HCdaoEmwOusPT0sjihkHNDnUe6jMHxpOSfbqz6+lsuNKKeSjasCn+va4a7Mn6O7w2v4QLnN/4pe3iRNAEjUUQ2b9jPBCPzU5eKQj3vEkTu+hMqBdJeUFVoNSXokyIAhQRTIhY+cxT+K3j0yY5mUaCQ/wQPXQCCvu48zpO0rTvOC5p7YD6GxrGigQgI/HW2kXU1no528LBTwvOb3TeJIk6dH1ZqIbAXDlQNKEvhA9DaGquxfE4Sv8bRI0w+iWvV7nXgfZDTnvddJYSu1jspX4sKQ5oNi/kTwbBwRtldnxSNquFnZU0t/w==;AJH55DY+/wR8NjGLS7h+vw=="
+secured: "ywIRJLDxKHx2itIhnmcUxNjCzZZ3BsRLFksV0v6lf4SttXBBJ1bmGmBjnQMQAWFMNwFaQ3+G2C8h65/rVxtQ/tV4IWWsAdEiivQcw4a7+Yib08borV8/RvUMNQpvM2suYIPMcebz5PvDePwfmfHxV1Nv8TsUqLgtuImbFfn9Ad/GuCn8J1w03Br/4iZ+gxJS/HABXJZhDl3swqPV1qvEDbxa/uNZD/p1bu6ZRcTc17qNYNjCmqVeFJEMkGhnAdLIcj5O+nVNJed6GFSIZhq27IUzK96NodMdFG0KcXeekQwInfC4FMq+MT9oGG/FPL+qWysmm/8iTiWRpxiEX8dPTdh9347ORCr6/Z9Ec0fNO2gg9Wqz96FUlOu/LAer0fT9cxyfdSBIIcabZtGq0WihvQ==;Y+IkxddIruPDmuUw5vReGQ=="
 ---
 

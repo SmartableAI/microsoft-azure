@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Manage IoT Central applications with the REST API"
 
-secured: "rud0WQPcBWcZLIse99AgvPc3JDW/ku+XLCInBe+PZwGe5MAHy7SGBzV0NO+S/22GgqOdgL+I4c0NvbHWomwzwbXgSLtPvBILiYWRxJA3U6qlm10TgFCkDUYv3gXuxR/7u6IuXncrHdgnYpR+W0t5djswn3zA1LOX+D60zJgGIrGpRoWyOhtEJLQE8lTQqMBUOJDnYptmPk+fVXSv/JDvXku5EKIEKw8yNAWcdpf3zFb7+TWgM/8aDEgd8liRjyOcg9IzQEV/9niiqUnOav6TFTkNymkf5kd7F1GgVcpW6TolTe1jBE2CXuogIiU5+y++tDw70WM+ipskRmD7bVhhyXAlOIw6M/rf1TDqqwbm7OYIjtUzAZ+TeZMLiiOWr7jzotQL/SBprw7eWFahFfBnbA==;oWzYnD6CN6r0tZNl5rpJNw=="
+secured: "wQ+QS3ywuxWaLg/tDYL3khUXUl2HKpp2I9yXAqdSq/PikXLAZNxXeJbH14PFYfFi8tIfJsNvaPlZbZhZkm1v4+4Y/GTWfwheOfMto5/qGqW3hj2JeuLy9J9GMMAgjymumEasYFV1qiR3oTAZzVBufzIb941TkkRyixqHGLM2/s314e5Rvqisx/OZ0y4hzpUXHW/N7ixqTlRwgsJ9El7b1Ytu4YSBbDA3pAo3h1JPOO7c2mvvFL5Yi/supOHigImq98Na9hFXfVdsgcf9XYOR2GHgNRSlyn3ppZaAs+4hsbt37WA6+oN88ZOlZe58NsVXiD4aDf2g8PESN0z4vXXNrDPPnMDSfx3iHVLnAerJCH5LemnZ6U0x6FddmB+/XOYSuhuEMDg2crxSxgMEjgWNjg==;qQcd2ISv3nhSzFoyVbtRQQ=="
 ---
 

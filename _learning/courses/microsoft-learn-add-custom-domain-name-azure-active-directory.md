@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 18 mins
 ratings:
-  count: 731
-  average: 4.658003
+  count: 732
+  average: 4.65847
 heat: 55
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Add custom domain name to Azure Active Directory"
 
-secured: "69Ufh5ScyM8uCHlUsYdQ2lDBH6bb1zmypdSHa4nvNp5zRZb7kQkBpfgoWglqn/EwHGPLYqrQCvHIL5iL14Kyo9s2GWOlHNc09G6Gm0dyWqf79YaSGkjfZvXuRjVeX3N5qaYtnVFGOV86T2RCkJV53CTI2mNaiPB+BssvkxYga3wB67HPAj7Dgq7k0XoU+96TLapYNaoVI797vrd7BNjJsyBW6JWfSwo1viHGqoGcQxjne6MDmwmZfzzpbsHeEnsmCm/FyL7aV+fKEkDKggdTl9J55nrnPEDcXDO3h2lTDu1FP3DzIRFTbybJFDpUPSGiaGuqoUoIJGl7lSaBiktNw2757K32JQ20MwMMzbwmeVTZ9P4lfCgx6nsXQbn+vDX8rNpC/H5HebPoRvUPd/W3Ig==;b098mTwVdLuB53OWWWiRsw=="
+secured: "j/muraIcdK4wCXi2ODfLcfB/vpZvyP3uzltPbUdYm4car6jL7aZCgwcYLste9x9v27fwFlOKYyJ4V11aSjv1vXgOSaIwY+tXQrgnxPaHZ94PiWzukdleCtW7wzcm0+8siQEYQsV1q2HO5YgUeBUM/EooDfXfSxnJcS/abygA2M8LA1BTKEz+E0Wthz6egL1VrH3woU2QefU2fpTZ+J5lDNUQovh9GQSilHi/mMAsAfI6MqItvULh89OPUje1VWFfGC/gXvJOC/zf0fk1RoHDq21f5t1GlbG8AkEpIfCnyZhmVdCqatT22VcbV+UHKItLElK2S+JkhBRXrsSmKIFHEPoj0gsH/qhA6qblaUZttKoBVABKnBrvcy73lvR57o+pL6JNeoHHxsItygt5nPrJBQ==;cxgA/Uyp/5k5lLalt71xhA=="
 ---
 

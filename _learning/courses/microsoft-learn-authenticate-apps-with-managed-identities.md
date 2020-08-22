@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 66 mins
 ratings:
-  count: 89
-  average: 4.5617976
-heat: 50
+  count: 90
+  average: 4.5666666
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Authenticate apps to Azure services by using service principals and managed identities for Azure resources"
 
-secured: "iwp4kM1LttPcFShsW0NiHp9NLzwMIiHGSP6C7gUIrBUdTKjq/4dTVZ5S+c2FfBftMSGvzyvd9VSxQQvkAqXMYOpA3Rg2GsHco1L05vT4ZaK93RflsKL98ZJTy5aCM+kdzgj3StBDSfOPzx+E0MeXodVYb5tVsQ1QP532FnKdWsE4ysBx29EvKa1LigHJ5U22N/uvZDpEIma2uCgKRiG3aEBMd6lri2ZWJzAJ1ue+Q1pWN2lj7Qoi8gHlevNjIRNWxz6HfoLhjjkBHg9ukW17wqKb4Nh2KWoZ6UXfm2Cm5fyxwCQQsVa4fhKnm9FZmDHc/hfj2XWDZgQu2wRv8aUwuh8AaSQf7TyZz+fOa6Ubgrv8aTQ+ie2+ffcyxly6qEwZztR0Xyh65rmO94J4M7rkRQ==;V1cBgRCafdw+c3aZfl5jSg=="
+secured: "CcbfV8v7qg7T1YyUOexc80od8mRysQyZcdIFKlIQ2zVWUL6E80LDYCus3uomeTB8/+xT19UPG9pHVfTApiDAp2M5ci1Z/D1SG4zMDMxP8FXvbSBqqyObo0NLhBUMOtUGEoFvqsQxj9YNKTY7jhsJjz0rqwi8aLztQ5k59OqeYDd8QvnzFFEfmWFRpHFhwq5QdsrZoCyOzM3rlxRr6YR2xEvusMnP+GmnfV5L1mqCSsxo/MIPTsJ3He429N9OOkK/VvgmnIZrU7BhpzWf6/TodYTOyDbTSv5ETKm4Gaa9hkN6/9JzBfoJlZqnYDPsR37+1Hho+dWI2NHJToLEhmwTM+FmuDegTbPeZoJNOERVGBgdnbkpl6xdEtyuUz1NNfP2ygP2MFl2x3MI3PB7KJt3tg==;dLR6TjmEk0aKAd4glNtJHQ=="
 ---
 

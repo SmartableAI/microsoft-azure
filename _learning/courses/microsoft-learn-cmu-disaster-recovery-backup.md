@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 61 mins
 ratings:
-  count: 33
-  average: 4.7272725
+  count: 34
+  average: 4.7352943
 heat: 50
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Disaster recovery and backup"
 
-secured: "ru5gALeADd/YITr6SKzB9VkteHj2q9KyXn52LEq61imxFX+c0Q4Y/WzJS1sAyaWu+LmevFnsxCIEEsDMDSMB7kmEX9mGfbEi7lQ4iqHWWDED+Axn9jrd+D/VWKBxEu7qXRnYGibuwpMK11ZFQzUkfBsygdTV3HBQOJxNy4sIqz5dU0xqRHIt+0PUKo7Q6fiuFKL8+IFGMGR4AjpaZtM3qKnqalXOr26rjtHdFdlZX9KeLBmOdtr/mYvzlAacNxcrmEkM6TQjLkGbuc8onhOYdfjA5fBaDd84hXNkMH2QcLyNw1hMyGsBBxKIxBqrog/NObVSFieJLZNE/PIiNj8FSmgyhcmHAuWhI4UlM44n1ydO9FseWlQVh8c09XrpDEdOUdAtPEfA93F4Y6bxb6A2uw==;cSz4R+zxzXpklu/aphO9/g=="
+secured: "wQ9ymery1l3MhW1xscyrww895VnzimLp6/qCDJ5GWSWDydjx11lAKygd6pyc8It6ii478Ji0ZTA+Bp5fkUWqhfqGEkp1QKB19VnEVis4r0YopviXkKRE6CH6WUiWMEOwZbcelEDjkQAr+TITfnVXL206aW7+CLcyN6musBgP3pSUFMprtRU70OegGTCFr3aOfN+YMFV11FPwrAeptQoau4yLdbaN19s7LKtdJN6D+sty0WtAP+tUu6btwbqZO8ua+JBVg+bdymDDcNDHeS5XV4ZfkhBECONt9Slj3xNmse72+hj9I1HJmnTLB9tLzf/EJMulSFkJExQqnkBZMzqPHcfDfta+XHf05PX472vfEmvNyykYECbils9gkWu6eII1jCRP/2e5eXdR6TjGttcumA==;1KkBEgtPGqsCn3eBKv9cCA=="
 ---
 
