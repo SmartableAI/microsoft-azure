@@ -35,6 +35,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 73
+  - title: "Commvault's Metallic SaaS Data Protection Now Available in the Microsoft Azure Marketplace"
+    excerpt: "PRNewswire/ -- Commvault (NASDAQ: CVLT), a recognized global enterprise software leader in the management of data across cloud and on-premises environments, has announced the availability of Metallic's Software-as-a-Service (SaaS) data protection portfolio in the Microsoft Azure Marketplace,"
+    publishedDateTime: 2020-08-22T09:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/commvaults-metallic-saas-data-protection-now-available-in-the-microsoft-azure-marketplace-2020-08-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Mimecast(R) Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. LEXINGTON, Mass., Aug 17, 2020 (GLOBE NEWSWIRE via COMTEX) -- LEXINGTON, Mass., Aug. 17, 2020 (GLOBE NEWSWIRE ..."
     publishedDateTime: 2020-08-17T09:33:00Z
@@ -183,17 +197,17 @@ related:
         isCached: true
   - title: "Riversand MDM Platform Now Available in the Microsoft Azure Marketplace"
     excerpt: "Sajan Parihar, Senior Director, Microsoft Azure Platform at Microsoft Corp said, “We’re pleased to welcome Riversand to the Microsoft Azure Marketplace, which gives our partners great exposure ..."
-    publishedDateTime: 2020-08-18T11:07:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200818005296/en/Riversand-MDM-Platform-Microsoft-Azure-Marketplace"
+    publishedDateTime: 2020-08-18T12:26:00Z
+    webUrl: "https://www.oaoa.com/news/business/riversand-mdm-platform-now-available-in-the-microsoft-azure-marketplace/article_b58fe46c-ae7b-5911-9185-d3a396508bad.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Odessa American
+      domain: oaoa.com
     quality: 37
     images:
-      - url: "https://mms.businesswire.com/media/20200818005296/en/813376/23/riversandlogo.jpg"
-        width: 1200
-        height: 627
+      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+        width: 576
+        height: 288
         isCached: true
   - title: "BitDam Advanced Threat Protection now available on Microsoft Azure Marketplace"
     excerpt: "BitDam announced the availability of its Advanced Threat Protection in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. BitDam customers can now take advantage of the productive and trusted Azure cloud ..."

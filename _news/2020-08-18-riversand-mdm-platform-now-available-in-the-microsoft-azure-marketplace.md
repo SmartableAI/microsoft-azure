@@ -2,24 +2,24 @@
 category: news
 title: "Riversand MDM Platform Now Available in the Microsoft Azure Marketplace"
 excerpt: "Sajan Parihar, Senior Director, Microsoft Azure Platform at Microsoft Corp said, “We’re pleased to welcome Riversand to the Microsoft Azure Marketplace, which gives our partners great exposure ..."
-publishedDateTime: 2020-08-18T11:07:00Z
-webUrl: "https://www.businesswire.com/news/home/20200818005296/en/Riversand-MDM-Platform-Microsoft-Azure-Marketplace"
+publishedDateTime: 2020-08-18T12:26:00Z
+webUrl: "https://www.oaoa.com/news/business/riversand-mdm-platform-now-available-in-the-microsoft-azure-marketplace/article_b58fe46c-ae7b-5911-9185-d3a396508bad.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mms.businesswire.com/media/20200818005296/en/813376/23/riversandlogo.jpg"
-    width: 1200
-    height: 627
+  - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+    width: 576
+    height: 288
     isCached: true
 
 related:
@@ -34,6 +34,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 73
+  - title: "Commvault's Metallic SaaS Data Protection Now Available in the Microsoft Azure Marketplace"
+    excerpt: "PRNewswire/ -- Commvault (NASDAQ: CVLT), a recognized global enterprise software leader in the management of data across cloud and on-premises environments, has announced the availability of Metallic's Software-as-a-Service (SaaS) data protection portfolio in the Microsoft Azure Marketplace,"
+    publishedDateTime: 2020-08-22T09:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/commvaults-metallic-saas-data-protection-now-available-in-the-microsoft-azure-marketplace-2020-08-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Mimecast(R) Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. LEXINGTON, Mass., Aug 17, 2020 (GLOBE NEWSWIRE via COMTEX) -- LEXINGTON, Mass., Aug. 17, 2020 (GLOBE NEWSWIRE ..."
     publishedDateTime: 2020-08-17T09:33:00Z
@@ -370,6 +384,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "f5boAg0BF1ckWDbnmgqnQrtHXhoY0oHmyizXjNBdGwvX6s+HVUXgS2oDgByf2CfxOC39dYz4n2ibvIiH8i/sh/cpm+cutlcj3Xt+7QZLKlTFKnfs6l9xb9L6mOD6lkvyta498/TD675x3Z4zNAXqG4fkyBx+1qO/aIsLR/Ex/Z7q53P6AEutZqfeyv4B17aYWj+F0mHdn4zmFAiqMu3Xz+pB+RSV547fWidqIh97ETPtfq35E1rZL4Y+6LjKW1AQCMPnsaiDh0WzQ4RpzPYFGoFDaEoAi1KkK1BBDcMi58nKGLp7FHfHKyMs932A2u48uvNwq3JLLknbge52CJVrug==;O362ojcL4NUTuS/qgnEp/Q=="
+secured: "ZK0ulylC1DU151dHCFv8PXyRtiZ+fLmphEBCd8g5wBk4ucaIGW/gUHmztTPG/HZdagHhM68rDnMfIiS7InV+ec7Qpat2zjlZpLeY7QePx4K1oAKZlPJAPRT6lE/sne9bdpKLZ2n7djAsVSbq0hLEaDmiJ9oqyiRrfrrhuq2Dnbrtg8mPw5FdZq/CuQeSHZ19wzCVo8gIta1gu2+18Y+BaZr5vBgp9fPakCOPmr+qc06SOLBXzvDUGhzPM6R03/6/zaEX2ADQm85bk9BUOZGj3jZ3uPCsn0AkNa1mZRTNAt5gZ1FPVgaSdGwFOEKkbIk6KR0WkS4lJRPUzsS+FcK5hQ==;10+bMYCuoP9og/yOPN6dlw=="
 ---
 

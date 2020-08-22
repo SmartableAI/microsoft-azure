@@ -1,22 +1,30 @@
 ---
 category: news
-title: "Mimecast® Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
-excerpt: "Mimecast customers can now take advantage of the Microsoft Azure Sentinel's scalability, high availability, and security, with streamlined deployment and management. By logging email activity in ..."
-publishedDateTime: 2020-08-17T09:50:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/08/g17115771/mimecast-email-security-for-azure-sentinel-is-now-available-in-the-microsoft-azure-marketplace"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17115771"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17115771"
+title: "Commvault's Metallic SaaS Data Protection Now Available in the Microsoft Azure Marketplace"
+excerpt: "PRNewswire/ -- Commvault (NASDAQ: CVLT), a recognized global enterprise software leader in the management of data across cloud and on-premises environments, has announced the availability of Metallic's Software-as-a-Service (SaaS) data protection portfolio in the Microsoft Azure Marketplace,"
+publishedDateTime: 2020-08-22T09:05:00Z
+webUrl: "https://www.marketwatch.com/press-release/commvaults-metallic-saas-data-protection-now-available-in-the-microsoft-azure-marketplace-2020-08-12"
 type: article
-quality: 25
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
@@ -30,20 +38,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 73
-  - title: "Commvault's Metallic SaaS Data Protection Now Available in the Microsoft Azure Marketplace"
-    excerpt: "PRNewswire/ -- Commvault (NASDAQ: CVLT), a recognized global enterprise software leader in the management of data across cloud and on-premises environments, has announced the availability of Metallic's Software-as-a-Service (SaaS) data protection portfolio in the Microsoft Azure Marketplace,"
-    publishedDateTime: 2020-08-22T09:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/commvaults-metallic-saas-data-protection-now-available-in-the-microsoft-azure-marketplace-2020-08-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Mimecast(R) Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. LEXINGTON, Mass., Aug 17, 2020 (GLOBE NEWSWIRE via COMTEX) -- LEXINGTON, Mass., Aug. 17, 2020 (GLOBE NEWSWIRE ..."
     publishedDateTime: 2020-08-17T09:33:00Z
@@ -327,6 +321,17 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 27
+  - title: "Mimecast® Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
+    excerpt: "Mimecast customers can now take advantage of the Microsoft Azure Sentinel's scalability, high availability, and security, with streamlined deployment and management. By logging email activity in ..."
+    publishedDateTime: 2020-08-17T09:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/08/g17115771/mimecast-email-security-for-azure-sentinel-is-now-available-in-the-microsoft-azure-marketplace"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17115771"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17115771"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 25
   - title: "GAVS Technologies: Zero Incident Framework (ZIF) Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to ZIF to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies PRINCET"
     publishedDateTime: 2020-06-23T04:20:00Z
@@ -383,6 +388,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "vwbGu53eAPkMuHqBQsXzSn8yWSGRo/+ZYo0TSZCSd8KNWTfRbDcwuocNPn5X1+wd8S+mIVeq7Sd3JP+kiGR5jml5e1NdNT70G4Br72I9FDt5QPxyjgqlp6Sea1FlqNu2IlbToM/+J6P4vqww3OgUgK+kmhNVGCl7fLVtTu05ll6598gxZ+huT0abqtCYR0DoAwn8X/kSf56iyrW07NBQ1wMBnUofQ5WBOgFHoGZMTQVpFbUe2esr3mYTREcIJ9SVBg1r8OAhR9jXwvuoEpAtohqEuuRX6B6PKARo/kO7ZErFR2Kk36JZhPDPe0a1m0bEa6rZbqmKfG6jEFcqMBypeA==;61ecTQnOBoDvCvE4WX/GRA=="
+secured: "zvdixhizmBLuBHbTDX4LHIf3O6DAjKHK/1YpqFTHO4JXSv1fl/xogniAGksrlL7fT9eoyuh3zLftYYcb2wxD0kBRW1zWMfXdoBB2UbIOSYIoK45IwzzX4c1bjPPcokx3dI4zJ06KvesAGljcdY1gSAEOMNKBCi20IZ8dtTag/aD0VEuWF+JgEhuo1tnrbvR0vxRRQTZtA8ewMIjQKMbfSJm9abHx/QjNetBd1Q9JhLZ6HomsEj5J4o2lujUJABpsbT0ay0OvrqffgnIYFwXP9PyNeY+SYgLg3sCackaeVKcMh18qlxKLj8LwjIQ2wCCm7gP8k01xeIKsqsKz2FXEpg==;Xb9BJxacoJfAywxqgEiLrw=="
 ---
 
