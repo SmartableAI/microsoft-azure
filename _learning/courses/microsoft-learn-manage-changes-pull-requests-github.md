@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Manage repository changes by using pull requests on GitHub"
 
-secured: "s/0evXJExKx8jTBJwSZKIhbTXrO+ddeh+cOMPqwnO7AWYNwQzzBKPbdCAoj45FauxYecIAdWa8S/F1EvtbuHu8gwCiiDSbYh0Q6hoB4q/JNZdfaUwxkXivIphdpoR78qAXeG5C+Kmi51Md5M9mFHzwmNs9qfzYsm5iqelEspGeEv799hdFnrD3+5uF0+MJHRVxWzN7JW8NvlFuOZgjZen/t9B3JsY9dDJNQa5XIsk+LFzzXqyp8O5YibIAZOdCz7mj80n/bzYhj1i6Ck8X8+Pe/vEIKkxJbeiRd3+2fM5e4GmxPKmO8x5qXSPVKlR3h0RyN75hI52MVc0NV+Xq350+yzTR8EndLO+Ep1s7k3s8py7acjrrw6JWKvIpnfKiHVE+1erarF1Pt7iQHwrZeFDA==;JbNwTHOLUJxF8MY+EzV1/g=="
+secured: "oS5Ks2Ah1gncpCAepM+AfJ39VY64AjtKugYkTkcpzw6Ah78dpDjG/ZhX8SzOCvoHzpGRYwWIx6wL1rqpRVUgZ1ZMf0qRR+nrXWRVo5yBpxlyipNotu5L5KUwDIrDJE7md4T2A0TYWZkuMjprI50SYNahcyjjXxeP7EdWs/qwI76jEJ8slxnHNvmFYE4PnEvnQ1a3b8JuP/dBm58QD4mGaNVR+Lmz03WB6rIRazFYrFnnaaAuXT/TQhO/MdeTGCXymg15sd/4iuRuQfj52aczQRrArZcDo52pnVvGqe616DZmN6BMoFbh6swsNUjkokFgJEfWRQVvD4T8nzInuoNPT4e4r2huInoy+gvurPC09R3yAi74z8GFflNYZDe1KuVFX9GWqErn5qPOqH3QCz/gXQ==;xEpCMuZtwT+G7kaFDpRYyQ=="
 ---
 

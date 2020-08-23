@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Automate Azure Functions deployments with Azure Pipelines"
 
-secured: "MT/C5Jb2xOGXJh6Onr8O1cmwjpCIL87gGmGFX1lb7+SwoaAm+22qC+MwHiuoHoL/62Htgmt5Wq1S0H4+uaKCOIbbYOJrUyuhQx1rEIu5fpylNXeJtFRGlHHkfmogctSmrih84mURLTu1aXgH5ESvYv/oZyShF/g8RNycgcs++KmaYCrfYaqCph4gmfyyPY+rpIIqm5T6iOHr1aMaqOAmPKcwLfmfQ+7+H6itErxBib//6MzCW2JExobvkcvhH98TsApbkGeXqDu9FVzJIadcqcPkQOLp/qC3QBQccg9kxfXddm/7VVmXkQvExhXv+txoNo4wTjHci/eI8fIj8mMfM2tp3xy5pzhkxHsQFNcKzDspjviWRzl8r+XjqtW7wHln1+TJ16gf/fIoWCw1hX6+pw==;hMrmklhXrExn32NsbtjEfA=="
+secured: "rFcUqZXTld1KcRUnLmOD/gfCBgKjKVzrP38ZoUp60lBjvNytML4u/CAiYLdPCG7hlSQnP2JOMEQK8hplHdHwrsmQorGPrY4EyGHPOPAfKDDuqm2LCLyWneukJxf+TvkoNw7WEY6BfLQEZy6nObeZn/8YOJKSCIt3iKqMO8bWX2K9AcmWqqfma8Y7ZffGD58ZddoIt06mX+nwMAT88Ok9/wI5iipHls5s4dq55Y+LKUjR/IrM130x73C8XErHj4/1zHgX9eZIa5ZG/yNshuBQMERLKtgR+6FFSIFTtClGqtPNOK2N1FfBJbSHUoKQM8ZG1d5S8DVFe5tKC+2VEwlOw0rkbXYlSP9PKofRmztOekpekjOaZCSCiLMM9r6iTSvBcu3lpObV3mzSlxTJhUMapQ==;AlME1rMVCbU8DAzfRW0E8Q=="
 ---
 

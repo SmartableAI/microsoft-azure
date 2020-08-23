@@ -8,7 +8,7 @@ length: 51 mins
 ratings:
   count: 976
   average: 4.609631
-heat: 53
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Store and share files in your application with Azure Files"
 
-secured: "BuU0jDMWU79qHY0PDpw1FEzctJCBeuNwTv6dDWNwMGOQ2c495qh7tbzUfrh5gOp1ml2xBSLm2fgHydKHZI6xPexzKprEqKyzOORTHYgAIk4RsmPRlHBQaPuBI7odhn4Sp4V0hKUq5/iJieYCuOsMINGF4O8TmWip3WmbMK2pA0wRFShiFtKrPdDxV9L7pygVq+75iBlR7Qzo54mzBRaSMqCcdcqtqZ4ezyRMxJut2219gb1hl1x26AR94vx025fW2sywFIZLRNVYEF5GMUrU2UGANAoKVq8ef1zdaq6l8gwXvlRs+qaOHBQHswie6ZctIz8KF1eXgzpifxJmIUEYJsXZy0d+rvrMGTjyu9TMCWgg/FS8PpVt2WZ5YODwDS3nzGpXB5pMVA50dwe0VcPDFg==;z0ynYs3KbKQFa0CL/FGpiA=="
+secured: "S7nQ6aioc+Vr7UaQtfj805ceGijpBLm6mVCuD+7FWT0KAi3HQId8WaACCNiwWaAKcfxndLOc0QSlS94Nx0mrKrjZcAAonE4Of8QsaIGDgzwiwiua2Ni/xmxe0R60fkmQ17h/QNlSJ5GOA+uIN9hZFC9lCMDebBi+eeAWmucMdcQsdsPqWljcBUJsqPO8IJgUwi5wEZSle2ppwzc+UfwBArjlMJLueDPXCQqpyl+JuE+f2CGN8VF/DYGTGNYncL1fXzGe7I6yD/9D8/vDw3O9aUH0FqkHSL5Tvs8J7wDqMNBVXrBmkPq7p+RQgEPawDpjekwS7bfh3ltPqeosBGno/sMSH4hdJZcZlcAeBhSeJqI3WlOmWeSCruRsrMiqP4tFmMTvL7GHqHIIE9VLQZbj6g==;iJy3y0LpgXqJb9BOsks90g=="
 ---
 

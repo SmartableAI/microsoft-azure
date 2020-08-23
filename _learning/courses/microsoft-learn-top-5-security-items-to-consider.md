@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 45 mins
 ratings:
-  count: 5778
-  average: 4.643475
+  count: 5779
+  average: 4.643364
 heat: 59
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Top 5 security items to consider before pushing to production"
 
-secured: "nEz+8gvIt8Jyo5/btttSMdwaamIXrglvBfWsDy8KZpj49Sgcm3D75/M+Za4639UAMA9+3hB7EL8zjdSaFQ3S9qWBCu631WTZ0o09F51+rSAwqggsKWiNKzf/3gQQfLwnJQNyKJwd/E8mV8XuDaQJGX1/Cwz8lvoORO+HbFDDY4FGtFXywlWIrFFyJFHV94W+VJvDtWcGzKN7qXy8D55aDmIKyPgoqzwmRb6Z170Z0p/r+yZ4QzoqXkX4q32yQk5GrtGG/nruPfyFXghIJWW2eph6kOgQlQS81vEfD5DVdtqpwfsy5Sui1WZRgqA6VBjlIqDn9TD+YVMhDt0gtDy50qgaBYANPnOO+Jh3cgnn2gDdVu8PtuuXoS6ruTvdKPGZBiRons5tSbZhFatebsIE/A==;Al369KeyhXFEIw1mmoPSEw=="
+secured: "Z4H/QmENAu8UxqaCnHy9RZLOhzne7oY+Xgh7EYw8/cwtWyiHKT5LY6UhnBC872EwHIBIJnT8EjBL+K0QI3R5v1qKEQn6xPMglesc173Kh8KnIsUCBH8gOUS3f7mGDAgdy+VdD4Y/KDPGLPBFe5pPNLysNjniMwdZ1UITsQEnA/o/v62PqSWUf+ZK67ayWc7MQp62CDC0nGpXm1rLAeyEERTGigDkCLaG/pS2QrzjsP7RPXv6GSdZMQtJc9PuLZE0UpqADfFsHTus0VRMlrYFNQVQ2Sh/DXFqMEg1qApK1Z8JR2IOXXL5kCXIv5DdgVyY39NQMYBcuSR2i1mBytgsa9KyeBeAtTjlphGRCj1rhXKsgCTlst49JQPUrpDXE+doP2eewgI+E/kir+CZuwHPcA==;Tn9e2LIEI2Ye6STD61F0ZA=="
 ---
 

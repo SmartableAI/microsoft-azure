@@ -8,7 +8,7 @@ length: PT33M
 ratings:
   count: 22
   average: 4.818182
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Work with user-defined functions"
 
-secured: "u9/5w7ML5BSp3r7nbhu5JHZTE/oDmasf0AfkRxHZPBaYgm4QzOe0IAtx3FNuTyf3R5irgQME0r6QOmr0261N0pUu9M1nFlPBUtWyE/kOYDCyTpD/E/+I+FDf1YdyqLvMF+5mZpaxQ1FGnM/BSdMpxbIlFKsK8gz/utH2z25wVRAlsCirqW2gsnS0uIMdRXhzwKIWkyNKtFGWJWRDkc87XIqFAnr0Xdk7o+rhtaXU+fF9wRCxCLK+twsu0I4sP9nM4CE86H10P8idC9P7P0iIw375rBKvN1lPnrftL9+1PXKLD918QbxDGmMDTzBn+aWrbnxOKHniWFyJKVJGHVD0ntNHbEc5MZkjDsoNcBS+MTepCvlSaMr8kxr05FCDALMqbqSu+Ai+W28CEGWkJ+obsQ==;aj+O0B/bm0ofE7eO4CUPDA=="
+secured: "kXDtgy0On5B2sNk4UG0JkmkeofT9DDkp2EdMtxQLBXOUm81F6+JFdeI/g3ZjOO5bH17kuI4xbVUVAAvc1xhrbVBtpak6y5FxfC/A0iIsjlf9RCXvWPdljeg+Kgs6EF3Ro+rYszhCQn2Kar31lDyx7iUbnGwZ09n2D7bPFoxhQpRnm1RHg+EGw5/TTXikYNII0XcShA2AvCIPVSgDzntGJUyiv59q+aS60yP2coUoPAyHY25DqNAxDU5CSwuc3IifZNd3a51jCsTq2lyBBEQz5U23AIDYC8f4HDvU4ETc4AdM7YNenWOql+wgdhA8UfTSJnUPGWwolkjeL8UOUh6v4Dg1oYzxYs6HRxEu68+y0PjXZjNDi9kAfPo+SoH5sMyMqh8+1+NcuwjaOsCDyj/paw==;22HoMLGPlgc0qIGj7aXC2g=="
 ---
 
