@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
-excerpt: "UNIVERSAL CITY, Calif., and REDMOND, Wash., Aug. 21, 2020/ PRNewswire/-- Universal Filmed Entertainment Group and Microsoft Corp. on Friday announced a strategic partnership to cloud-optimize live-action and animation productions."
-publishedDateTime: 2020-08-21T16:00:00Z
-webUrl: "https://www.nasdaq.com/press-release/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to"
+excerpt: "Universal Filmed Entertainment Group and Microsoft Corp. on Friday announced a strategic partnership to cloud-optimize live-action"
+publishedDateTime: 2020-08-21T15:00:00Z
+webUrl: "https://www.prnewswire.com/news-releases/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-301116222.html"
 type: article
-quality: 28
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://mma.prnewswire.com/media/24227/microsoft_corp_logo226_9217jpg.jpg?p=facebook"
+    width: 2695
+    height: 1414
+    isCached: true
 
 related:
   - title: "Universal & Microsoft Azure Team To Accelerate Live-Action & Animation Productions"
@@ -75,6 +81,6 @@ related:
       domain: proactiveinvestors.co.uk
     quality: 31
 
-secured: "al4AtJT7pYUgiNi7GhGD3An6N1EdVFzvQc2ERw5IpRRJFGid9NK3eHpDJAnu+B9uvZPOgWnGlGQq2z8rU5qpSKZwzH9ZYFYuR/0/ivw6mzHaTVg6+KSX4JvMR6L95uCJdsbcpw+KIRPs+Z1MGL1fLmcGPLsELaWeUhBq3HY3qTCA93uWKf3UVoOgp2UbVNi4+DCuR78WkOMxrQHs9rXJFGrBY/BaKxbHwbX+PlnZUmKVChnE6MYDlJGNmyLsojVqCTngX9cKsB7TJtq0sS9CpXjiDOnK+aMdpBKZTAsADfQxmqFF9NbZ7oZhM5DhWpoI+th1cHvnNsOpAQFq15xQtg==;WX4/7Fug+8eo1FTbVGLVFQ=="
+secured: "KULKkGbgh31a3+9723qU/XGJ1q6cKr466BkpuhdtiOY/RM49AaM6b0bSpdqWDn6vn5GVCxD0qFTZ8OmXHfaeVT8DTyD71Y+/w3LrFGCkwfbtkVUT7rGv+aZJqqfS6vLm6WJKvQ1j23Ky+Yveb1RVSNEOJ/SMEd4eyAS1+0g8DujDn5OAW/uKz5DZOK4/DO0ZmDgki0+FIk2pM4s4+LeULgOrMngdzN0o5Q+xOPDngeQ0e4A6m5+hTznX5Ni+LS2/8dmm0sjHq/XOQ68o7troV1RHu9RBbTzh7EKim3Jtc//Qu1omS0FcO+DwfQ5pVSuzdcxQ8CYFTetQlk5eJ51PxA==;Q6YbTbiic5PESdyuWA7UHQ=="
 ---
 

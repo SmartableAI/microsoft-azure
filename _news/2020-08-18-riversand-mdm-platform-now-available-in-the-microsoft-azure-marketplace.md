@@ -2,24 +2,24 @@
 category: news
 title: "Riversand MDM Platform Now Available in the Microsoft Azure Marketplace"
 excerpt: "Sajan Parihar, Senior Director, Microsoft Azure Platform at Microsoft Corp said, “We’re pleased to welcome Riversand to the Microsoft Azure Marketplace, which gives our partners great exposure ..."
-publishedDateTime: 2020-08-18T12:26:00Z
-webUrl: "https://www.oaoa.com/news/business/riversand-mdm-platform-now-available-in-the-microsoft-azure-marketplace/article_b58fe46c-ae7b-5911-9185-d3a396508bad.html"
+publishedDateTime: 2020-08-18T11:07:00Z
+webUrl: "https://www.businesswire.com/news/home/20200818005296/en/Riversand-MDM-Platform-Microsoft-Azure-Marketplace"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
-    width: 576
-    height: 288
+  - url: "https://mms.businesswire.com/media/20200818005296/en/813376/23/riversandlogo.jpg"
+    width: 1200
+    height: 627
     isCached: true
 
 related:
@@ -34,6 +34,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 73
+  - title: "Innovaccer's COVID-19 Management System Now Available in the Microsoft Azure Marketplace"
+    excerpt: "\"We are delighted to have our COVID-19 Management System available in the Microsoft Azure Marketplace. Amidst the COVID-19 crisis, it is our duty to make a contribution that assists the healthcare ..."
+    publishedDateTime: 2020-08-13T16:22:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/innovaccer-s-covid-19-management-system-now-available-in-the-microsoft-azure-marketplace-1029502354"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/innovaccer-s-covid-19-management-system-now-available-in-the-microsoft-azure-marketplace-1029502354"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/innovaccer-s-covid-19-management-system-now-available-in-the-microsoft-azure-marketplace-1029502354"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
   - title: "Commvault's Metallic SaaS Data Protection Now Available in the Microsoft Azure Marketplace"
     excerpt: "PRNewswire/ -- Commvault (NASDAQ: CVLT), a recognized global enterprise software leader in the management of data across cloud and on-premises environments, has announced the availability of Metallic's Software-as-a-Service (SaaS) data protection portfolio in the Microsoft Azure Marketplace,"
     publishedDateTime: 2020-08-22T09:05:00Z
@@ -107,22 +118,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Mimecast Email Security for Azure Sentinel Is Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure ..."
-    publishedDateTime: 2020-08-19T07:08:00Z
-    webUrl: "https://www.albawaba.com/business/pr/mimecast-email-security-azure-sentinel-now-available-microsoft-azure-marketplace"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/mimecast-email-security-azure-sentinel-now-available-microsoft-azure-marketplace"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/mimecast-email-security-azure-sentinel-now-available-microsoft-azure-marketplace"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 45
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2020-08/Christina%20Van%20Houten%2C%20Chief%20Strategy%20Officer%2C%20Mimecast.jpg?itok=MPnsRrNr"
-        width: 960
-        height: 540
         isCached: true
   - title: "eBaoCloud InsureMO is Now Available in the Microsoft Azure Marketplace"
     excerpt: "SHANGHAI, May 20, 2020 /PRNewswire/ -- eBaoTech Corporation today announced the availability of eBaoCloud ® InsureMO ® in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. eBaoTech's customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined ..."
@@ -278,20 +273,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Innovaccer’s COVID-19 Management System Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Innovaccer, Inc., a leading healthcare technology company, today announced the availability of its COVID-19 Management System in the Microsoft Azure Marketplace, an online store providing ..."
-    publishedDateTime: 2020-08-13T16:19:00Z
-    webUrl: "https://www.healthcaredive.com/press-release/20200813-innovaccers-covid-19-management-system-now-available-in-the-microsoft-azur-1/"
-    type: article
-    provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 28
-    images:
-      - url: "https://www.healthcaredive.com/user_media/pressrelease/company_logos/20200813155131602/zez9iqg8lghajcaq65ai.png"
-        width: 256
-        height: 256
-        isCached: true
   - title: "Commvault’s Metallic SaaS Data Protection Now Available in the Microsoft Azure Marketplace"
     excerpt: "PRNewswire/ -- Commvault (NASDAQ: CVLT), a recognized global enterprise software leader in the management of data across cloud and on-premises environments, has announced the availability of Metallic’s Software-as-a-Service (SaaS) data protection portfolio in the Microsoft Azure Marketplace,"
     publishedDateTime: 2020-08-12T12:30:00Z
@@ -328,6 +309,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 25
+  - title: "Mimecast Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
+    excerpt: "Dubai, United Arab Emirates - Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure Marketplace, an online store ..."
+    publishedDateTime: 2020-08-19T23:13:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Mimecast_Email_Security_for_Azure_Sentinel_is_now_available_in_the_Microsoft_Azure_Marketplace-ZAWYA20200819070435/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 25
+    images:
+      - url: "https://images.zawya.com/pr/images/2020/Barclays_2020_08_17.jpg"
+        width: 450
+        height: 300
+        isCached: true
   - title: "GAVS Technologies: Zero Incident Framework (ZIF) Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to ZIF to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies PRINCET"
     publishedDateTime: 2020-06-23T04:20:00Z
@@ -384,6 +379,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "noeit6Jpf3kizEYtUPjFONM4whw+5YMf+NvSHofUHBHwoEtikk18IiM8ypGK/U6JFcQTOmK9bE4Ai9vmFBhSKAxFx9AxdniDBO4EQzvy/Lme951yWsxyk6SebnsKK1pME9kPkO39ChStmdOpSHVMh2RbILuZdUe1jEWNc7rhY0FaR8oXXO6Qf4PDDvoQGpFoAHsJOa7fS+puQvMVrDieI5R2SDLFVf3It2FWm/2mNZGWNIY3RhU0/vuwN5BEMOOoCdgoD/KcJ539nYt6Vu9EgFHRmDHlIqjbj6pI8TTfcNJ7eIb+Np//yu6RVevWess78U9S9khXaHcYcWnBkYbmHA==;lRO40rg6IS1GXjenH/sBWA=="
+secured: "eV8BH0Ks/ICTY66aP/f9Nyp7xnrENJRJy5CTtz7k4leukecGIjsE7u4etzArKRAj0eQZEo1OE8PiX1ZZhtNozWrDMMlE6ua5JCg/YqOoOgsRkeHf0sqvsPq791rPRbw0+vxPo7Yk4c2xk2lNhk6JKl8CVKuDmAu0RIa30hoFAIbHkapcw9kCKQh79XA2uUT0x1D/4VmRkjKkcWFcpWBhzGjmu4HeZd1b6yBgFoY5yPEJ6yyaRJGKw5Ak1ezDwhARCMzwK4+qu+glmdVXt/w7ur+SvApDBGScJsgtYey+DCZHk2kQNcm+TZTxG1vDdSJypClM03YQVZMIHUDoRydfyw==;NAHXdYREYCK4QXXKjnwaDw=="
 ---
 

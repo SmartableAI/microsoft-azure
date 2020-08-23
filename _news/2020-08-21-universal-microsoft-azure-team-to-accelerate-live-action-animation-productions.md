@@ -67,14 +67,19 @@ related:
       domain: proactiveinvestors.co.uk
     quality: 31
   - title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
-    excerpt: "UNIVERSAL CITY, Calif., and REDMOND, Wash., Aug. 21, 2020/ PRNewswire/-- Universal Filmed Entertainment Group and Microsoft Corp. on Friday announced a strategic partnership to cloud-optimize live-action and animation productions."
-    publishedDateTime: 2020-08-21T16:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to"
+    excerpt: "Universal Filmed Entertainment Group and Microsoft Corp. on Friday announced a strategic partnership to cloud-optimize live-action"
+    publishedDateTime: 2020-08-21T15:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-301116222.html"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 28
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 8
+    images:
+      - url: "https://mma.prnewswire.com/media/24227/microsoft_corp_logo226_9217jpg.jpg?p=facebook"
+        width: 2695
+        height: 1414
+        isCached: true
 
 secured: "i6k5EBqtlz8rEZHADnojH/S8+iK5BG26wA98ovguBFwRTrWb9v/V2OjaAOR2kMGD9cY1ls6i/8fXHe6qthP9EWCY4JTIF2MlPDTkXT2IFwKThsbRaxluCsh60OQF6CNaFRrbZvWth80ygnkKvQYniGrY2VrNQzilzWUNaAu4bDSTq6dn17PdIk7xtkuclL0NY6ZuTVPbP74jjqp7hqy1sV8h26Rmr1VNhVQJMUhpjH3K3SIuky4yCPhn6cAGUaxrDRvM+SxxZtzlFDqtqOamIxhU/mswcPlloTmOyA6KuKC5yHTIGgOmWl485wQhqSPdJE/ZI8aIIrxTJlThvvXkke7Ksf+NGfYMe++YEltQYeFaOKCnxNIGCB5NulmufyLcSiRKTsQ8dJeh0ytC3C/8cIvmvyaZ/GhPg390ah42jivhIdZhs39JHNelFzqRVl0g+n3LTHeD5iF41elR15SiV5T8YimhGYrAKlFMuL46FhlGUbBpQKfOubrqHvlObELC;BTZCFAAeYovXrw1kkmuJ5Q=="
 ---
