@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Riversand MDM Platform Now Available in the Microsoft Azure Marketplace"
-excerpt: "HOUSTON--(BUSINESS WIRE)--Riversand, a provider of cloud-native Master Data Management (MDM) and Product Information Management (PIM) software solutions, announced today the availability of Riversand MDM Platform in the Microsoft Azure Marketplace and ..."
+excerpt: "Sajan Parihar, Senior Director, Microsoft Azure Platform at Microsoft Corp said, “We’re pleased to welcome Riversand to the Microsoft Azure Marketplace, which gives our partners great exposure ..."
 publishedDateTime: 2020-08-18T11:07:00Z
-webUrl: "https://www.businesswire.com/news/home/20200818005296/en/"
+webUrl: "https://www.businesswire.com/news/home/20200818005296/en/Riversand-MDM-Platform-Microsoft-Azure-Marketplace"
 type: article
 quality: 37
 heat: -1
@@ -118,6 +118,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Mimecast Email Security for Azure Sentinel Is Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure ..."
+    publishedDateTime: 2020-08-19T07:08:00Z
+    webUrl: "https://www.albawaba.com/business/pr/mimecast-email-security-azure-sentinel-now-available-microsoft-azure-marketplace"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/mimecast-email-security-azure-sentinel-now-available-microsoft-azure-marketplace"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/mimecast-email-security-azure-sentinel-now-available-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 45
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2020-08/Christina%20Van%20Houten%2C%20Chief%20Strategy%20Officer%2C%20Mimecast.jpg?itok=MPnsRrNr"
+        width: 960
+        height: 540
         isCached: true
   - title: "eBaoCloud InsureMO is Now Available in the Microsoft Azure Marketplace"
     excerpt: "SHANGHAI, May 20, 2020 /PRNewswire/ -- eBaoTech Corporation today announced the availability of eBaoCloud ® InsureMO ® in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. eBaoTech's customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined ..."
@@ -309,20 +325,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 25
-  - title: "Mimecast Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
-    excerpt: "Dubai, United Arab Emirates - Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure Marketplace, an online store ..."
-    publishedDateTime: 2020-08-19T07:14:00Z
-    webUrl: "https://www.zawya.com/uae/en/press-releases/story/Mimecast_Email_Security_for_Azure_Sentinel_is_now_available_in_the_Microsoft_Azure_Marketplace-ZAWYA20200819070435/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 25
-    images:
-      - url: "https://images.zawya.com/pr/images/2020/Barclays_2020_08_17.jpg"
-        width: 450
-        height: 300
-        isCached: true
   - title: "GAVS Technologies: Zero Incident Framework (ZIF) Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to ZIF to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies PRINCET"
     publishedDateTime: 2020-06-23T04:20:00Z
@@ -379,6 +381,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "bmlLYdFLSD9yfcryHLtauNezJl3+UTph0IM2KFSvxIs2fUz7QmxxT4ogYQqTdmPaHd41Car7mBJpr0aM22ex4sxZjl6rnG7c3n4KMiNsrrhSLD5ZZmYFrtcN2h8njVcXbVOSkvjv/5rIL0RWzSEB2kJr4+v9bCUw0qMZzOEZIT84901dxQrfRlPal7eJQ2Z84FlyQXiJEmNO5pT7ZxXMNQ2dZo5B+4SlDcP7bMqkJg6JpSV5yw9l29s58HuZKpZp6GSFMVdahlDjp+hMbA2ZKm4ZqD46gZXjeHDeNwTfdRG/4d0LY5Oh4sslDA72Iw7HNN6lN+kKsK5owomz32/Xvg==;3iNgkI35C0MG70F9Cd4y/g=="
+secured: "HTVJKa9eDH+iqTvzD5Qi5BRzHTqO5ALBOK5XNEDqUlOocyyj3knqeAAr0s6/EHdZELaKAwUnEotN2tcTnk6KH2LrFQbCKL0CxIAfdAXhVCRD0lNbl4RP/fpcS5pxx0ATmnQ3pj1o1I0TbzzDCoWOZGt/FewVoT3H5+ScvCAmgJjnUf9BAUaRzgWZV2tJ3cXvthMAFwirnEujjCMlZuxXjHQ1nlf4iBKrEOXUqnMcjRIMjKHfcQD1l7iLZAwEQeD5EbQShiDhAwRoflUiN7AAOGwXa4HUgAMKa1+fMf3Pw5oiM5PA6a//Liof8b6jjEf8IfnSdPRrYk+A5dWQZQbmUg==;vCi0PngqPKvOCLu+cxxH2Q=="
 ---
 

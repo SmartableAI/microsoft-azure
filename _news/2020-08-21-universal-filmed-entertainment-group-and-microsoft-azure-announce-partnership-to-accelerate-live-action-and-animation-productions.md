@@ -28,9 +28,9 @@ images:
 
 related:
   - title: "Universal & Microsoft Azure Team To Accelerate Live-Action & Animation Productions"
-    excerpt: "Universal Filmed Entertainment Group and Microsoft Corp. have formed a strategic partnership to cloud-optimize live-action and animation productions. The team-up will streamline workflows, and"
-    publishedDateTime: 2020-08-21T15:10:00Z
-    webUrl: "https://deadline.com/2020/08/universal-microsoft-team-on-cloud-based-storage-system-for-animation-and-live-action-productions-1203019703/"
+    excerpt: "Universal plans to leverage this new capability on Microsoft Azure to enable easy remote production collaboration, asset reuse, and ubiquitous compute and storage to empower creatives to do their ..."
+    publishedDateTime: 2020-08-21T16:15:00Z
+    webUrl: "https://deadline.com/2020/08/universal-microsoft-team-on-cloud-based-storage-system-for-animation-and-live-action-productions-1203019703/#!"
     ampWebUrl: "https://deadline.com/2020/08/universal-microsoft-team-on-cloud-based-storage-system-for-animation-and-live-action-productions-1203019703/amp/"
     cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/08/universal-microsoft-team-on-cloud-based-storage-system-for-animation-and-live-action-productions-1203019703/amp/"
     type: article

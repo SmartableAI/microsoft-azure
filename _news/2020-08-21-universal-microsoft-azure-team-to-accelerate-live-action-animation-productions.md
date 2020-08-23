@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Universal & Microsoft Azure Team To Accelerate Live-Action & Animation Productions"
-excerpt: "Universal Filmed Entertainment Group and Microsoft Corp. have formed a strategic partnership to cloud-optimize live-action and animation productions. The team-up will streamline workflows, and"
-publishedDateTime: 2020-08-21T15:10:00Z
-webUrl: "https://deadline.com/2020/08/universal-microsoft-team-on-cloud-based-storage-system-for-animation-and-live-action-productions-1203019703/"
+excerpt: "Universal plans to leverage this new capability on Microsoft Azure to enable easy remote production collaboration, asset reuse, and ubiquitous compute and storage to empower creatives to do their ..."
+publishedDateTime: 2020-08-21T16:15:00Z
+webUrl: "https://deadline.com/2020/08/universal-microsoft-team-on-cloud-based-storage-system-for-animation-and-live-action-productions-1203019703/#!"
 ampWebUrl: "https://deadline.com/2020/08/universal-microsoft-team-on-cloud-based-storage-system-for-animation-and-live-action-productions-1203019703/amp/"
 cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/08/universal-microsoft-team-on-cloud-based-storage-system-for-animation-and-live-action-productions-1203019703/amp/"
 type: article
@@ -90,6 +90,6 @@ related:
         height: 512
         isCached: true
 
-secured: "i6k5EBqtlz8rEZHADnojH/S8+iK5BG26wA98ovguBFwRTrWb9v/V2OjaAOR2kMGD9cY1ls6i/8fXHe6qthP9EWCY4JTIF2MlPDTkXT2IFwKThsbRaxluCsh60OQF6CNaFRrbZvWth80ygnkKvQYniGrY2VrNQzilzWUNaAu4bDSTq6dn17PdIk7xtkuclL0NY6ZuTVPbP74jjqp7hqy1sV8h26Rmr1VNhVQJMUhpjH3K3SIuky4yCPhn6cAGUaxrDRvM+SxxZtzlFDqtqOamIxhU/mswcPlloTmOyA6KuKC5yHTIGgOmWl485wQhqSPdJE/ZI8aIIrxTJlThvvXkke7Ksf+NGfYMe++YEltQYeFaOKCnxNIGCB5NulmufyLcSiRKTsQ8dJeh0ytC3C/8cIvmvyaZ/GhPg390ah42jivhIdZhs39JHNelFzqRVl0g+n3LTHeD5iF41elR15SiV5T8YimhGYrAKlFMuL46FhlGUbBpQKfOubrqHvlObELC;BTZCFAAeYovXrw1kkmuJ5Q=="
+secured: "wKof+W+oHud0YVONSPOp/QcPhDMED79iqcJy6Qi98ZR1XYx0uez00IyP7fcNrQMRVp5h4vOCVr16JowJ1AhFI/AG53LQsP5hDj+6z0IjJcJ5yC8zKdNr/3ePJ27QdnROU3zyFQCDJeJHfAKt8YC3+db1dKzqbUuVwXnV8fYCTwpZL61KcdH6l6rcdDmUvj6dW3Y8ezEQYk9/CcEZjZIaiir5MU8nbXxTupy22Ch43GZfVSRC90TKem7W/N217/23Ft8gy8nUWIaA6I6jpL+4wZIRljJx8y78SkHQpjWpXdOK6Yc3KWOydvysiVfXRAZ/3l4c1WMNe6io4O2unaxDlA==;v0j1Z6OgrPOCncaL03D6zg=="
 ---
 
