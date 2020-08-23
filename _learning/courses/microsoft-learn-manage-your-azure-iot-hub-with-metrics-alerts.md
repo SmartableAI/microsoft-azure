@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Manage your Azure IoT Hub with alerts and metrics"
 
-secured: "243V2tbBUb51Hr4CYT3nq8CjHUDGn2yW6GoOXQjyok8kcpAiyK40B3xSwYKNKSr5qSru2U00qkdpiY1hFHt7IytLLgXiMZSG+D0b9n5XqhWppW2MTx8KmZ0vCsrnuORJQM6zkcY/UDYa1yyGhGZ4sl63dnAhmRfLB9j/OIk/V7mm/p+MiaJDcEVHhCGzj+xfm8lCP5wUpRun3M64LnpX+ulWOUVzZBMuHB/V/DqL8qWvXF2cGcsexTH9a/cPFUEv4neAdl7WmYF3xZ+VB6mLZy+xViHIwfigfmC63/TJ/edOMGOruE3cbEJBX67kvi1oKD9fJ6viGI8hMgFAYdX/gnH4HCdzqeQMwCYI4LgnZZ8UKiT14k8JClNzZfiN/wqB6Say5kcnnd8KwP68lUHYaQ==;XZSVOegm+vGHjUkca+f0SA=="
+secured: "PVd22o1PjDug7evWzPc3YEDcu8TxhJpQB+6RKX5Opc0Ah+v4BRf7+V+oXMNX+vwwu4LmOsX0d5chIeJv5W48iZ5i+cZ6N+ath5bD4krKiLcwGOzwLSNj8p6B89dQ+rAMw2DictusRZj1cxzN37M2yqDp34vkKn7icdybAF0lQJRCd43/QZ7GdH7I2RIHWyFBT81rwaUYfi8ekI6o0kzar2TXlaSuM5EL1826SdGj8jIK6pG6/IGoK+nrYMieoK0qF9gVTWqjILiYL+hNjISs2fF0o5JUgw0KM/hcV1UoDAfUTSfRcq4LpCwFWZmLr26mBU8C2CnDEI32yyw/qXjoBRhTcSKlckt4c43+VJ/eSE0871sKcpZgcbrsp6NudQ3LawI50M3jnw/3FsaGywnThA==;+dtoa0boOjjP7gcH/Yrq8g=="
 ---
 

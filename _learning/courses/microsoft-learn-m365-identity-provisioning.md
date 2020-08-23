@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 17 mins
 ratings:
-  count: 1242
-  average: 4.727858
-heat: 54
+  count: 1243
+  average: 4.7280774
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Simplify access and identity provisioning with Microsoft 365"
 
-secured: "2Fo74YlyKUw9ZBirRstvLsnSvmJBIwtc6SCRcNvN50sPtRVTwXVFBgnM1tSLp3B6BC6We3b+aTSy501P414ECP2NdQNzp5N4ztwuoeYnJnmUU1ioPHyBf4rW3PArG+gg4tJBWDEh2OY4ctimO6T4cgIfItLeJZd30sf0BpGdwe+Gfn602IoIi0mYIzCyEr8j88XbmPg6WNmFXw2sMkvvFmR9cJBpPfk00szsqEA4ZB+zqybV+/qBcQLL0OvPQtiT9I01h47lo9vecmo4WES4voRkzzMvvMz5cIYLmMhTp43UkINYpVwfoFNNu6nZa+xUBVVsr51msqDvS0Us7lq4YqbYjZSmwNM81q/Z4N6px29RKhQ+GPHLLDKS6TjUVly+Z9217ePOXbOZxvSCOy4xQg==;clBaD/icDVt43q4Fz6Cb2w=="
+secured: "4sjOM2oL6eYjZ/uk1YXQdA5bvCEetI05RRQDu/RH1MSVBLN6Tb5OdDLA5pVBKewwqsnCHi6+j26IMrvKVhSBR4kFWBl7HkS52n78392xrOk7G/lweF5prNLT5IQW8mxwqwjfnn/6ao1ORCJK4KxyqJu+NAMFuApRGJx/+qmbPYABCXN7tliM8hjxV2y5GvbMxf38c7ROmA36f56VWXA/c73QHb4UGgz1Yxo3PrBqAUg8lCuhdWGK34ry8XrDzCNQMGua7lNfUux0Dp0fAoF5RlN/QYy2uNtl5DDcZQXBB2WOEfcUu+nU8jccnDt36SknJrHyknNjd5zcWw8x4RVZ4hFsdPC/3sauRjMIPz4mBxCR+/tDRD7Q/aY+mnEfsikbwurIEhv2XBw82vrMGEB6/w==;RPk3GqcVY2OeLBy8im6SHQ=="
 ---
 

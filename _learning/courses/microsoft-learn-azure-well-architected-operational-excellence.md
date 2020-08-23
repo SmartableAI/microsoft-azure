@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT54M
 ratings:
-  count: 337
-  average: 4.6557865
-heat: 54
+  count: 338
+  average: 4.6568046
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Microsoft Azure Well-Architected Framework - Operational excellence"
 
-secured: "C1QDOdqm3D+HHtUWYZae4JfeEaMSLMBEAfFjMp7U0LQGAWenI1s2Y6SXhSB36yfQjtgnAIfKw2RJfUroy1pG52BiOt72T61P4cA6nb0cSdQteDxd76WqFBryH/yBKgOKqmXiC0yj86/dtkwDfYw0y2LmipDejeIPiUIElDjkNdY8OvIoZTfJXIXWColgkwA2BNEBfV4rviWap7tnVOyDW6MWUpQIgNaTM1p2DMCM3oWeSmjAB3nsGXc4OSJISlTezrg0H6pj79fXBZ74AGx45tkA7Bv1aSDmggBA4C7q4dSFafj79JfdMcmGrqJFA+3qNAks5WLCbLPirFrFKHvcsFMUTd6Ox+624Jq8oe6XTy020gvQeYBdjn692gtiG7xrCDh9Gi7ppms/T0xfVJ41MQ==;CvQ0NI8CLfh03NbBiJ+tjg=="
+secured: "RiaS0y5DUPRZGqFmzA5xrCHhnC6DlVaHYKRVsQxfF6PFw5JtNJt6PhFnXoorFgyLbrhf5yuFU266cEDESfl/nrhc7UHqYWeqL13GUz8Vt3gEVC07fKl/Ap51EBmrw5KaiSXc83UIkXgMPyTM0KUEGsDcSUmYJRGDMPHnlf1YC77/Klmh8T8rNRNmxLxjgQGfXGmTUv2b5etH1pbCBrknGEw8uLxyPfaeTKRd345jKsV6aGYk1hmynTErWVyjUYa7FiMRB8e6zzfPv+788PsMSP1Pj+Aa44T9hlJn827n8d85MQqtFJGPEPl7U8+yS8Tt1nlL8biNa8B0BwXnFXbnLrbEm2LCO/APeBnnLCNAQMfKDzqZDPJIMlbwPxGx4CpXC0gcGp8UfDkHuDvbfSbKTw==;zoMdm7c4WLcsTLDtefo9Jw=="
 ---
 

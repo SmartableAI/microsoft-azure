@@ -8,7 +8,7 @@ length: PT60M
 ratings:
   count: 42
   average: 4.7380953
-heat: 52
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Test hypothesis by simulating  statistics"
 
-secured: "Qk89z7E8EI8qoNORHmBGBs3aZyTK2WHS2r0/2RJvNVAxyrg5u6CzklUqH+6p0QZ+XwuykFD0jCKn4KXfkrwqiPSEpNUrsFOUvSAGr7MLgjsHXNaTFg2NYdy+tPK+8AUc7m37nzNNJxOWRrnLBbu2yHNSKXack9G4gpfI218vZcBpSKYDF6qhUL5kYjKpbcwdy47nZa5VYWn1cWPvx4X+5LXLptcyaAYgzRZd7Drfkh2WM0gmDWwXcOZ5bwXu1JqLrKCfkD9Og7HZbbbXbsVOJmukmAHbvWk7JefgRi7iLqQF6eGS7pK8mZhq75jWaa5cXXGHLDmBBZFi0PkFDsaFOhxmdueRDjHPKAKafqFr94+tHAP0TVHPgLMu5JAXQ1ulBOrLGjwpZXVNE1rCKLddvw==;TgJlrzQIsA7VOzj/OUU/TQ=="
+secured: "NJp2q9DbterJRq3hZRrsnPDqZ1ex8FGuRNEWypltK/H3MPM2JZc3vTIa47mekSq1HdduD2St9FQWvm6zA0FpbG95KKS20qARkcl5e883kC5xC9ULDnJ+RfP2mAn9x5pFuHkhDBV+FhFA4fwV74p8hNsMqUZLksuTEdImroKZvrG534tec6ADJZTQRc97nu0eR6mOs+IXE3uuS4l6zu/oY9BOnyKIjpUFR0xASEVVxnKUX/ugrgBCADeLj1W+dxImjwXR3CK0Fe1ULR6K67A9ZtWg6TfY78PnTgOzlZEjOr7dTpcX+OIgEi39fATiNeiaHWqI4ncC0mpWWIqUe7yvFVLWJgETpYhAw1PhQqNDC1VMrRNLpBRfnTOjRMK8oechOvt2y4xIhw7O/s39tdrT/A==;uXTBGn8fqCmORg3TNe7o7w=="
 ---
 

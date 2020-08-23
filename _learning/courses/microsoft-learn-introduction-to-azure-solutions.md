@@ -8,7 +8,7 @@ length: 26 mins
 ratings:
   count: 0
   average: 0
-heat: 50
+heat: 110
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduction to Azure solutions"
 
-secured: "9wcf3MLgQy9wQZq6vMF8mJwGH27jubmLCo9zQsGIMgIz22CwPbKgecyGDcHuQTzfdpsEX6DnW/y0GT8z09mRbo9tVpMu9D7PtNPi52Bovk8aXCzzWZZz/HuNZkzt6jhuZicygV9PaDxU8pu7ySCsgzWdCh7jUuIXcBW1gs1fog4V02LgUyjIHX6aj8gKpFD1lOUSGiNvlGdtOqJSzVQqsick9j1D6XT62N3Oh4FTgoksPDOaUz9H02bMpOLvkdtCTgu3g35hELVxhJ6aoFxk6IT0RXigiF2unMlE9znBsuvUDqTev02Ph/QiVsR0qXh4dhVbKm7tImCirREyNDrCYULO49GSjTIJSTBnK2IDU51EPELPoQu+e+abReB078iNzMwqiZ8SAahTGBwLK1sLgQ==;jUiGPU9bBqCrnBUM70rjLA=="
+secured: "rwtEFXK58lihRvCSwzhOxKEzFsK6gfEYO1i5se4TwIxiDwsbgOywPqzU7t4UwFFedruZtFwwaTzGFOIKMflrep1xP5Ib69vQ9pTLv2qn1aicuJ+o5Zp0G+onrQN0de/lWxvDVh3GKy2vPenCo0aQCFeSFeAGLK0uP7ZDnDclg2jkKt/cZtJqcDL1kCYqGsWC4hrBqIvkXPktn+L2b2grALyB1lf7x7sBG8HnlN7hJIiRlt3UDcL9fDw5gvGyDVeMH960Hj2dBzw2ywT7el99Ne4UsDAYlMPwhissfbjxMKzDiNAdCJBvupWpYoCdOIUw+KM+Mu1/iA9DGJE9efFPFRIZMHrw5DzSxuj2wKDnLFs+xLmb7NB/FhPrfq2F+ovelVEPK5+c6DMZ7m9w7N326g==;YP2XDYLADOdxwTdR3Fykww=="
 ---
 

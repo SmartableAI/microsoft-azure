@@ -8,7 +8,7 @@ length: 34 mins
 ratings:
   count: 22
   average: 4.8636365
-heat: 110
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Enable secure external collaboration for your applications with Azure AD B2B"
 
-secured: "v82WBgj7/kgrctYwf0PxdH8ejRvpKdKpDJR66vf+FZQCK93umKHPRUjTW8M9gmL2O8DpvxFG6Z2w2JJWwv0VRJIbFkLldeX1fPlVB5npZlJoHTj/ZCUP19ZpNAqq0zCbdAAtSGpGPTvBbPDkmESbG66ccT525ww9KD0JV+BqYna0JXyOEeeKnF3E++OGeDTw0rV+l+k+wptqvmtfG+28DX3fDgn/L4TySSAaW9NKmtlDsgdpE/NS+UVvxFY2cawCeZNL/nWGrSz3JSU6UcUn3mCV6tQ2D3tzbOKeGIhuFsINCRQktUmcDo3Htc4S7bxYvK+UcW7lgSFtw3kmbdHgLtfrhw1yd7KmA+MsJ6vRbPXynMTvyCrU5MXq+l6BhQ1XiBKONtg4+pzQqqCnHuAOnA==;/WGPSsTPnNmoP/BnXx0kYQ=="
+secured: "haFD690zZ+tFgXIjzfz3QYUu38x5GuYJBFwlXfU64dhBguvT4ckcszOsODapgZezztpRFnqAm1Dv5kL2VbONTcmUDMpGWsLTSUydnossxjJrUJ9MAr041BhG78sEww2A908l+ZYu8jtLbBSmothJJwprF01dn0OoflnIKoqs/Ldt2Lin1rOt/gkr+Utl4BRVBXe/3309QfJOxwYIGduRLGMg0eD2PncWxsWpxBLPWe3tYmMqyiC01o4CWpF0GJcFpcz6jFm39JUwv6rIzoISA29hn0TNSecYw+a55fySaqexxzJqX54zQ7HljWduzqIYwsMQ94Bxt6roeVpXkjTo1SCb/NeKBVnnNYBClGiUoCIJdpdE+vbRdABFt4S2c+e7Sq0RsTM4WEepRO6JjCsEFg==;N85hATFFyk38TAqsHqAfvQ=="
 ---
 

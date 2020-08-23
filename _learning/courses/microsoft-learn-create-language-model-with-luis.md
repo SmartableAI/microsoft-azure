@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Create a language model with LUIS"
 
-secured: "KCcbp6931/K6/p1ms+b1rHnpP7Pow1bLnCBPEsDZrWjOHUsdMeqHWHfJ1tppw3wVPprc2m6fJVdB5UPdmdM42y0fiiP5tLGWJtYM4xjRKDRfPFcMGLOZgYruS/U7elwwxYfAxqJOhUvwwm4k8qPf+i4PcIooanLb+vH2cL7hOixUx5Ft2YqtGlxFKC/SASnX9OVMTKFSZhJ0XPs7LQcJ0oX4mSqRxupWgag8h0VTt+Xn5GGl91yAvEq/c2IthWh4hybH4TIzEJrgHOhOWcqdCDV8RyH/mWjpaG47RIE/Jfj7bdIAb1oM8X8A3iNMPqi8kuSavTUdo7PWpIH+pRtaI96OdzC92MG97/kyoyvl/igrXviIXMXBp+G0ZivCwxnHQBzt1BEvB9935jjzY8+1rg==;6K2vjCEA06MrHKpC88vL4w=="
+secured: "+HE9qDIa7OeV0rEY/Fn56d3YFLaPVcAaTafCTGDIOQgbBkJwNUDmU/9wZZxo2Z4FD9vMTJCXIBv4MVb7TaNHkqdPpZJzR1Oz9sEwND4aeB2V35upsuNA6yPen39IOOgjmNUkCPTuHFzY5+CLq/no/eyKzMBy+Ezyd++PBJPj14zvrINxrh3YImcjQYiuhliX/IfDmD0tSYbpKCHRd0vgU/b5luNHAVUe0yAU/Xmmw/AbCvQV7RuWII/sDSd/0iOyKEdR3EtKuYaR2ZY4FgYhOqmShytm0sZWjmMUFFri+YjqEBvAKYag9YXYcEPmgmiYVrR8K51fl5aLgoXfAeYI/vixiE7YtJ04CF/gv/Ld/oyaXa82E8mZR7Azms9XR+8/BG3siC2m2MBu3cVE6K9gWA==;ZuypRaCAJPClEGNr5hcd7g=="
 ---
 
