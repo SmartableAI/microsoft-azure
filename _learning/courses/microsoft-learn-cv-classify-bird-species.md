@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Classify endangered bird species with Custom Vision"
 
-secured: "xGFS8aIyvTylQxEn7EjxIFfYG0l+Qe0r1COLul0RhRCg7mWV27FNceXYJZFxr7XEo5jOhVaj4YkRJvAWiKF4Sh0pubhmICSwOa5Zs1T2gN8N5mTrOSrZV1Ccu+E+hRWPCAvr+373YY/2uI+EA3AFSFUVlrdAvioqgxK+gG5Smyes7l2ll4Z6AtcT3X1/mJc/JE/mic3/ClOBkQPZRbKn26wmAr/w6vrsnYOAqr7BIjXErXZV+ciAIediIrDK/xPsy4rAJXTf+4aB2bhWePpbMlEj+s7ztaeqTRi1SIRqM5hx9SBaJcsOUmRgfGn3al5z+TA49yqfnHCeJgJ7Q4Ec7QpkLQpkFYLffiMI0XhMPnfL0/xtCMqdD6eSYwXb81K6QDzEFpSDcc5zKTvkDJ3cRA==;BdY6M9ISA62Fxoh9PThIWQ=="
+secured: "jbZapWSfxn8Q17STv2kqHG/EZ3lz5+msjIrCtoX0DZkOSBqayyyGDTm1QyR2U5mwWMou/mdjCrzdULIBfE6UNod/phOjkvUI8qm4709pioIziJTK6mM3grdz4dy3y9g3tp2mEIOWsQKyBd/8zb//axC9YfqZFbw4QNmXVh+52FbjZAUUeUtju02nzWxhoKhadzmNq/zBGWivXP1oY80H9fJEDpP6UB2+vh9IMj4t2lFggeadbihs0ds1/WpH7zqszXzQTa9uiwnv3evdMKXET54+LygCKWOyyItheKaGCJOHdTd53MGL/6ZhVQcKZxVtdL60rPVYX1Xgvmr8n+0WIh78Z4fpJcnyGYqu9BX4QVUJxaWZDiVU6rwu2rCotju4GS8Hc8eevZHaoAKiJ/fcXQ==;5J96iQZnmG1W4ZWn/20qZQ=="
 ---
 

@@ -8,7 +8,7 @@ length: 52 mins
 ratings:
   count: 894
   average: 4.5033555
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Recognize specific voices with the Speaker Recognition APIs in Azure Cognitive Services"
 
-secured: "oT6BN5XUuU5J+VKjmLw2L/omjMYufEClfFgib8vzlW5/HGUvdFZ+fuByYiWxhP59mICExSGTGo5Y9BpMMZq5mTuxTEH2srXrgyDnIKEXQa11cj4RfRWp2mZSwaU6h7Cc+ESeJvbM+YocDt6V16Bje/lwVirFDxgWEz7hRP2lgogKiecLB71gLcmrKELFj8/xC+0+ilz587dvv4fyaWYB0tu7WWRWbaZwam7C5VQms9XNo+YvRQnXUceHZj0IkmVDYx/Nc6Peo24jF7czfXOCWlAbbooYojRGWZEXu9A8QK5zo4SZstmyghgyn67IeTMPScKwr2808kyoZy+aTFlXMShc5kh4IMq6vbW0S73nyNS1Wiwb4bTTISGzAvpBPqvCAArQBImdP417CPs4Q155AA==;n0PWG9Te6csCYfsUxQtPnQ=="
+secured: "yMq1fazolyXrM4x3Prtsd3yIdhverlu3txLiKc5nCdnY647o8zDI2/EXarkENoBaW7px9VQQdLVcyGnyskeMZo5BqFXLXFQ48qo0MXePfzEmKLKLpaPFPj1uQw8qaqi3b9E+QWEqSx6/5QcW7TuA2evrmdo9eF1CkhWXSFnvLwgMQTfJNgzY8mijgSen2hZAgIDfciUW2jrzzkfUqOFzaK2Z/afQTdXZ0om+TSuUNOE5Y6/XR/X/Hxq4Lmf2ElR9XfrP5VjsDuGiMD2DoDAZKSp0DiQ5iCFTuewh6T34XqwWgdEq1Wlq6J0S0m4zfkCwMWbHjvjn6u8MmEDKrpYL78QuKPjCccwUtAK29LB28gynJ/TqUA1hzkTc3paE9aJpIz3Xr6v0HsujAeA27fcabg==;g/+pyoI1UKpduL1t/LiMfA=="
 ---
 

@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Describe platform architecture, security, and data protection in Azure Databricks"
 
-secured: "QE2C9g45dVOzCICrxntw/NOVC7wiVWiPm1HcRf3tGYEDTEv2MVNmSjttuMAA31ydeKI68txVLjxE2VnYL2vBFKaadNHo1SDWZtV9jRiHxRX53SBY0pU7C0s7pW4X2cQxDZfTsFYMm+mEXxerv4FgAK3DjVS5ZRsiDJUm8l400UXCMRFX/LCTdHuQZTgP6B7eWF9C+HBFiqbTUhfQUL+qaJGxf0sSHhVH1XMyowSRAgwB72haNEWRaQHUciMjAS1TOVxP+ZiHnWwrBG4kXCgw7awUem7OszJjHWrF3o/UCGTUrILlueApyM1UdWxxcfi0aqi1IrB6Rx2E+84M2j0BX+TeQ9VTU4wq8hJd/qvXBQGT/2Gk6+9jtZSrZ8iwzPpY+yy4iwYMmXmp4lP08bdCdw==;dl6LLH02Tv1XHIZk3KuGaA=="
+secured: "/Sb/jRWAA0oMSYG+IEgnewc5XbBMZtiXsew3qqTCVB3uq/M7sy8Yy9fmFnz03dz/GnWDStyY533FtogENKNFsYjCaR1D/tXLABzj3wW9Rw/I4cghGKINABzewAhoU/5FlF5v+WDkaIgmDCkHZ0Isg22DfbJqPldYMXDWY9ImJe7UmJPbZ7QTJJb78Dv6KmkSl8K8vjssXlQv41WsWPHaWWTfn8TxOVTU9z61W60YZrRA6v3O2dTVZHDaIFcGjyjFlw4c2r4Qn/vAimPYov5xd+2TkJguint/BS8IImnF3l4HfWvGMkg4ulhkGvjBvmKJRRFn2jHeACFu/mImSZe+qMPrEBhPACE16Gugefdy7aOroVQMU0l69P4abN80rXgKwc8CzT/TDVEiTItoVHISkA==;/d+EkmJc77aKPHaV5/Y5sg=="
 ---
 
