@@ -75,18 +75,18 @@ related:
       domain: imdb.com
     quality: 11
   - title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
-    excerpt: "They will bring those workflows into Microsoft Azure and ensure Universal’s ecosystem of partners can connect to them in open, standards-based ways. This partnership will also enable the development of near-term solutions to accelerate a return to ..."
-    publishedDateTime: 2020-08-21T15:05:00Z
-    webUrl: "https://news.microsoft.com/2020/08/21/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions/"
+    excerpt: "Universal Filmed Entertainment Group and Microsoft Corp. on Friday announced a strategic partnership to cloud-optimize live-action"
+    publishedDateTime: 2020-08-21T15:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-301116222.html"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 8
     images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/prod/2020/08/NBCU-MS-Logo-Lockup-MNC-1024x512.jpg"
-        width: 1024
-        height: 512
+      - url: "https://mma.prnewswire.com/media/24227/microsoft_corp_logo226_9217jpg.jpg?p=facebook"
+        width: 2695
+        height: 1414
         isCached: true
 
 secured: "xtkHw86lQfJNw+8NgFNeAcftzTrON3hcn4c8HloWH8uiLOUcDi2iQxpdl0y58E9cFuQrBqPD6dXKHZQfjnpr5QqLjWBHh7ufWv+JHjjpjN8xRKryzLgSVuNHXXdnSbjcHLSDgh81xF1B1RlCCOic8cME5/c+cKXiz4D+pfdqosXfAGKLW63zAFBWOfBvA6RmdBnLEpp7fa/r41fdzvm3bhRnPv7OmkD8gSkcwkqDETWRgyqNoqBzcaxmkwOwXB3koV/Ic0swOYQW2xPEckj5lqq3xC2mrZnnyHKwSop9FJdpBD9gS3jN4Rc/k7AnWKmFo2Z4TF9ifuCQZCeRyG9HTw==;XcttB5YDrAHBYiP0jBGzsg=="

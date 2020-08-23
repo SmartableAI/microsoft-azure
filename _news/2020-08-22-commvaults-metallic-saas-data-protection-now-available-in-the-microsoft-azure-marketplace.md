@@ -109,22 +109,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Mimecast Email Security for Azure Sentinel Is Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure ..."
-    publishedDateTime: 2020-08-19T07:08:00Z
-    webUrl: "https://www.albawaba.com/business/pr/mimecast-email-security-azure-sentinel-now-available-microsoft-azure-marketplace"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/mimecast-email-security-azure-sentinel-now-available-microsoft-azure-marketplace"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/mimecast-email-security-azure-sentinel-now-available-microsoft-azure-marketplace"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 45
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2020-08/Christina%20Van%20Houten%2C%20Chief%20Strategy%20Officer%2C%20Mimecast.jpg?itok=MPnsRrNr"
-        width: 960
-        height: 540
-        isCached: true
   - title: "eBaoCloud InsureMO is Now Available in the Microsoft Azure Marketplace"
     excerpt: "SHANGHAI, May 20, 2020 /PRNewswire/ -- eBaoTech Corporation today announced the availability of eBaoCloud ® InsureMO ® in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. eBaoTech's customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined ..."
     publishedDateTime: 2020-05-20T15:30:00Z
@@ -196,9 +180,9 @@ related:
         height: 785
         isCached: true
   - title: "Riversand MDM Platform Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Sajan Parihar, Senior Director, Microsoft Azure Platform at Microsoft Corp said, “We’re pleased to welcome Riversand to the Microsoft Azure Marketplace, which gives our partners great exposure ..."
+    excerpt: "HOUSTON--(BUSINESS WIRE)--Riversand, a provider of cloud-native Master Data Management (MDM) and Product Information Management (PIM) software solutions, announced today the availability of Riversand MDM Platform in the Microsoft Azure Marketplace and ..."
     publishedDateTime: 2020-08-18T11:07:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200818005296/en/Riversand-MDM-Platform-Microsoft-Azure-Marketplace"
+    webUrl: "https://www.businesswire.com/news/home/20200818005296/en/"
     type: article
     provider:
       name: Business Wire
@@ -329,6 +313,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 25
+  - title: "Mimecast Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
+    excerpt: "Dubai, United Arab Emirates - Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure Marketplace, an online store ..."
+    publishedDateTime: 2020-08-19T07:14:00Z
+    webUrl: "https://www.zawya.com/uae/en/press-releases/story/Mimecast_Email_Security_for_Azure_Sentinel_is_now_available_in_the_Microsoft_Azure_Marketplace-ZAWYA20200819070435/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 25
+    images:
+      - url: "https://images.zawya.com/pr/images/2020/Barclays_2020_08_17.jpg"
+        width: 450
+        height: 300
+        isCached: true
   - title: "GAVS Technologies: Zero Incident Framework (ZIF) Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to ZIF to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies PRINCET"
     publishedDateTime: 2020-06-23T04:20:00Z
