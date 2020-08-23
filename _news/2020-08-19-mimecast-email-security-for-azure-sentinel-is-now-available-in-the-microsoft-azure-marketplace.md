@@ -1,25 +1,27 @@
 ---
 category: news
-title: "Mimecast Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
-excerpt: "Dubai, United Arab Emirates - Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure Marketplace, an online store ..."
-publishedDateTime: 2020-08-19T23:13:00Z
-webUrl: "https://www.zawya.com/mena/en/press-releases/story/Mimecast_Email_Security_for_Azure_Sentinel_is_now_available_in_the_Microsoft_Azure_Marketplace-ZAWYA20200819070435/"
+title: "Mimecast Email Security for Azure Sentinel Is Now Available in the Microsoft Azure Marketplace"
+excerpt: "Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure ..."
+publishedDateTime: 2020-08-19T07:08:00Z
+webUrl: "https://www.albawaba.com/business/pr/mimecast-email-security-azure-sentinel-now-available-microsoft-azure-marketplace"
+ampWebUrl: "https://www.albawaba.com/amp/business/pr/mimecast-email-security-azure-sentinel-now-available-microsoft-azure-marketplace"
+cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/mimecast-email-security-azure-sentinel-now-available-microsoft-azure-marketplace"
 type: article
-quality: 25
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: Zawya
-  domain: zawya.com
+  name: Al Bawaba News
+  domain: albawaba.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://images.zawya.com/pr/images/2020/Barclays_2020_08_17.jpg"
-    width: 450
-    height: 300
+  - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2020-08/Christina%20Van%20Houten%2C%20Chief%20Strategy%20Officer%2C%20Mimecast.jpg?itok=MPnsRrNr"
+    width: 960
+    height: 540
     isCached: true
 
 related:
@@ -190,9 +192,9 @@ related:
         height: 785
         isCached: true
   - title: "Riversand MDM Platform Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Sajan Parihar, Senior Director, Microsoft Azure Platform at Microsoft Corp said, “We’re pleased to welcome Riversand to the Microsoft Azure Marketplace, which gives our partners great exposure ..."
+    excerpt: "HOUSTON--(BUSINESS WIRE)--Riversand, a provider of cloud-native Master Data Management (MDM) and Product Information Management (PIM) software solutions, announced today the availability of Riversand MDM Platform in the Microsoft Azure Marketplace and ..."
     publishedDateTime: 2020-08-18T11:07:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200818005296/en/Riversand-MDM-Platform-Microsoft-Azure-Marketplace"
+    webUrl: "https://www.businesswire.com/news/home/20200818005296/en/"
     type: article
     provider:
       name: Business Wire
@@ -302,15 +304,15 @@ related:
         height: 450
         isCached: true
   - title: "Mimecast Email Security for Azure Sentinel now available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Mimecast to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies."
-    publishedDateTime: 2020-08-20T10:37:00Z
-    webUrl: "https://mybroadband.co.za/news/industrynews/364426-mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace.html"
-    ampWebUrl: "https://mybroadband.co.za/news/industrynews/364426-mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/364426-mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace.html/amp"
+    excerpt: "Mimecast Limited, a leading email security and cyber resilience company, has announced the availability of Mimecast Email Security for Azure Sentinel in the Microsoft Azure Marketplace ..."
+    publishedDateTime: 2020-08-20T10:36:00Z
+    webUrl: "https://businesstech.co.za/news/industry-news/427380/mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace/"
+    ampWebUrl: "https://businesstech.co.za/news/industry-news/427380/mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace/amp/"
+    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/industry-news/427380/mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace/amp/"
     type: article
     provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
+      name: businesstech.co.za
+      domain: businesstech.co.za
     quality: 27
   - title: "Mimecast® Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
     excerpt: "Mimecast customers can now take advantage of the Microsoft Azure Sentinel's scalability, high availability, and security, with streamlined deployment and management. By logging email activity in ..."
@@ -379,6 +381,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "rnR/Tj/NlwtgsVRWNK0fyNtaM3njdjDx3mHcbItK723YYALHtXNqjSplUSqrMgzL0Zhko8gV8e7U6IHCoRB7LnBQV+6V7di4cRGsKuynediYFbBwiwARiBXDc9UG2NKNd9gZrzhmbC0Ucgo7Vux9ys0mtYIP11F03qR/nbVUQC6suCPjpJrU1fcw+l072xC/FT5u/Zzj7hDUanGjU7OLAPkH7c2RSwSyYvu71arzGDxlMW1OCVTI1WScQAMuNgZxIEQ41jSzIy1MpOFPcoUguwtCePeoFnFbb1Tjw9wYmRiDc7lzgis/Dji+VvytAvI6IGdi2bnFiPFlDQ8xyQqSMw==;tuI/aUs31+UT+dEmaXBCNQ=="
+secured: "Y5HpCmhKw9Ea5V9ARC9vaSh1bv9E5Kikrg1XJY29rdCf05yw4I+DP6Zl+EfsDMWGQEaKnrnn3uyMp+znVr2iw5HWIPTUuqVMCarbIIjRAEJnjr3nJNXd5Dm/z6ZqT2eAE2h5eMtktUwdkj3HMWWjG5BG0d34aws2tOrTit7rlL/o1WAqn7X0O5v9npRjvGkWSou30xJyPgECsxW1AObT67x5MqQQbtBKg3jAxJTscl1IzOyIlM+DTNEQmN6MKXLd5VWZhC+J36lfrqkIlp2d6hKl33I/b9O2gjCjf9ZkuWo6ULULPmtW1T2FYfZ3TJZWIS7lYrMKooDRuEtpGVpSlg==;Ai8MjZX7HCqgLgnOGHkIzA=="
 ---
 

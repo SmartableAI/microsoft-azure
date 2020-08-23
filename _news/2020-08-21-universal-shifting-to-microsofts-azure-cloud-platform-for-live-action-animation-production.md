@@ -67,18 +67,18 @@ related:
       domain: proactiveinvestors.co.uk
     quality: 31
   - title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
-    excerpt: "Universal Filmed Entertainment Group and Microsoft Corp. on Friday announced a strategic partnership to cloud-optimize live-action"
-    publishedDateTime: 2020-08-21T15:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-301116222.html"
+    excerpt: "They will bring those workflows into Microsoft Azure and ensure Universal’s ecosystem of partners can connect to them in open, standards-based ways. This partnership will also enable the development of near-term solutions to accelerate a return to ..."
+    publishedDateTime: 2020-08-21T15:05:00Z
+    webUrl: "https://news.microsoft.com/2020/08/21/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Microsoft
+      domain: microsoft.com
     quality: 8
     images:
-      - url: "https://mma.prnewswire.com/media/24227/microsoft_corp_logo226_9217jpg.jpg?p=facebook"
-        width: 2695
-        height: 1414
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/prod/2020/08/NBCU-MS-Logo-Lockup-MNC-1024x512.jpg"
+        width: 1024
+        height: 512
         isCached: true
 
 secured: "aFIdAp/9ltzL/NrkO5AtJDGPJQAMIKscFcO9fTlCYVEl7PD8ONKaK/cPiLdNC9SQ+LbFrBFneRZeuoBk9FyNq/yWW5ONeMNZWqqG9BIGieSlZr8qqTPQjjvV+8gD++8xVhJm+zZZATFV8IGaGeYmKssrgaefzEyaGqa3x01wGDqr2UPJFwZgipxJ/gjJadzDRDmxUEBCjrBwgedA0tKWGHH2yW0rP3Toa274i3sk/u9tkv1aHQWJQY5ewX42I5rjldVCJljZ5ObI3YmJCGyp0r3fz0eW/ImQogP9FzvPhYqP2j/HrF5HU6l0FHSwubw2LYo9YM45LJJfI5NwM8nTSakRYdGctwBEVV2rfY5uzdD/UbJr3I2Lu9Hl/vGSaB70zzQ05yOiK0w3xSA+exAexonBKi2cYLF0HGomQgXVnKFmkMxUpm8RdpLIOk+ZY4Ttpn/Pk4oGOzjXOj0II/93dQAtFHHg33LjhvVXJWZBSeB3665QQyDjNNsooaCn/gSRPwkYerrHUvsQA3vZSBInCA==;vP+OU/JzFdHyG/4OsLSpWg=="
