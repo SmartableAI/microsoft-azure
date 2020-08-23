@@ -8,7 +8,7 @@ ampWebUrl: "https://deadline.com/2020/08/universal-microsoft-team-on-cloud-based
 cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/08/universal-microsoft-team-on-cloud-based-storage-system-for-animation-and-live-action-productions-1203019703/amp/"
 type: article
 quality: 51
-heat: 131
+heat: 151
 published: true
 
 provider:
@@ -66,6 +66,15 @@ related:
       name: Proactive Investors
       domain: proactiveinvestors.co.uk
     quality: 31
+  - title: "Universal & Microsoft Azure Team To Accelerate Live-Action & Animation Productions"
+    excerpt: "Universal Filmed Entertainment Group and Microsoft Corp. have formed a strategic partnership to cloud-optimize live-action and animation productions. The team-up will streamline workflows, and enable frictionless remote collaboration and content creation though a cloud-based production workflow,"
+    publishedDateTime: 2020-08-23T12:35:00Z
+    webUrl: "https://www.imdb.com/news/ni62994097/"
+    type: article
+    provider:
+      name: IMDb
+      domain: imdb.com
+    quality: 11
   - title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
     excerpt: "They will bring those workflows into Microsoft Azure and ensure Universal’s ecosystem of partners can connect to them in open, standards-based ways. This partnership will also enable the development of near-term solutions to accelerate a return to ..."
     publishedDateTime: 2020-08-21T15:05:00Z

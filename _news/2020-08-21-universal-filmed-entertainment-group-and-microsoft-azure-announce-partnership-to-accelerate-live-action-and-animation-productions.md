@@ -84,6 +84,15 @@ related:
       name: Proactive Investors
       domain: proactiveinvestors.co.uk
     quality: 31
+  - title: "Universal & Microsoft Azure Team To Accelerate Live-Action & Animation Productions"
+    excerpt: "Universal Filmed Entertainment Group and Microsoft Corp. have formed a strategic partnership to cloud-optimize live-action and animation productions. The team-up will streamline workflows, and enable frictionless remote collaboration and content creation though a cloud-based production workflow,"
+    publishedDateTime: 2020-08-23T12:35:00Z
+    webUrl: "https://www.imdb.com/news/ni62994097/"
+    type: article
+    provider:
+      name: IMDb
+      domain: imdb.com
+    quality: 11
 
 secured: "W5u2SPHNH5I8z8hO37sLKJxOinLXaGQDBqZft5b/RKh1DGIV3MOqfaIN9+QZRAbN83ODD97PHM5QcZJKBo/jLHgm3NnOzQN3x5GPFwR0dYvMZ6hAQ5oPnjNFCa04oZQmCCFCl0NXyaThOYDc4yq8LZD+Vlivi5UBB3SJyZ83KjpaZX3SX+l+oSwCvc6CFlQj06yiTqcadjItaq4Gmik94DBKytSaHQE0mVhbW/9DeQDX+SygmalUWQlhqzLxrBFhGmKgt82qtNXlLwMFfE7+XA+g5Wld2BJU5EduBjXzlh/nhwQIfIyMC1TXo0Yq3oOKKky1TH/RyggKky8UrpDdHA==;FhWVSwa4BZ689OQj/CAO/g=="
 ---
