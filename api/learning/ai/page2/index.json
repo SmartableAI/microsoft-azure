@@ -4,6 +4,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-monitor-data-drift-with-azure-machine-learning.md",
+      "title": "Monitor data drift with Azure Machine Learning",
+      "excerpt": "Changing trends in data over time can reduce the accuracy of the predictions made by a model. Monitoring for this data drift is an important way to ensure your model continues to predict accurately.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-data-drift-with-azure-machine-learning/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-data-drift-with-azure-machine-learning/",
+      "length": "PT42M",
+      "ratings": {
+        "count": 93,
+        "average": 4.709677
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Monitor data drift with Azure Machine Learning",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-train-local-model-with-azure-mls.md",
       "title": "Train a machine learning model with Azure Machine Learning",
       "excerpt": "Learn how to use Azure Machine Learning to train a model and register it in a workspace.",
@@ -500,8 +544,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-and-moderate-text-with-azure-content-moderator/",
       "length": "31 mins",
       "ratings": {
-        "count": 1536,
-        "average": 4.6347656
+        "count": 1537,
+        "average": 4.6343527
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -751,8 +795,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explain-machine-learning-models-with-azure-machine-learning/",
       "length": "PT47M",
       "ratings": {
-        "count": 102,
-        "average": 4.7156863
+        "count": 103,
+        "average": 4.708738
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1611,49 +1655,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-analyze-text-with-text-analytics-service.md",
-      "title": "Analyze text with the Text Analytics service",
-      "excerpt": "The Text Analytics service is a cloud-based service that provides advanced natural language processing over raw text for sentiment analysis, key phrase extraction, named entity recognition, and language detection.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-text-with-text-analytics-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-text-with-text-analytics-service/",
-      "length": "29 mins",
-      "ratings": {
-        "count": 155,
-        "average": 4.819355
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/analyze-text-with-text-analytics-service-social.png",
-          "width": 320,
-          "height": 160,
-          "title": "Analyze text with the Text Analytics service",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Azure"
       ]
     }
   ],

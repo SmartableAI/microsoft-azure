@@ -4,50 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-monitor-github-events-with-a-function-triggered-by-a-webhook.md",
-      "title": "Monitor GitHub events by using a webhook with Azure Functions",
-      "excerpt": "Webhooks offer a lightweight mechanism for your app to be notified by another service when something of interest happens. In this module. you'll learn how to trigger an Azure function with a GitHub webhook and parse the payload for insights.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-github-events-with-a-function-triggered-by-a-webhook/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-github-events-with-a-function-triggered-by-a-webhook/",
-      "length": "53 mins",
-      "ratings": {
-        "count": 1492,
-        "average": 4.628016
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/monitor-github-events-with-a-function-triggered-by-a-webhook-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Monitor GitHub events by using a webhook with Azure Functions",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-add-and-size-disks-in-azure-virtual-machines.md",
       "title": "Add and size disks in Azure virtual machines",
       "excerpt": "Understand and create the different types of disk storage available to Azure virtual machines (VMs).",
@@ -55,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-and-size-disks-in-azure-virtual-machines/",
       "length": "36 mins",
       "ratings": {
-        "count": 2004,
-        "average": 4.6626744
+        "count": 2005,
+        "average": 4.662344
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -99,8 +55,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
       "length": "55 mins",
       "ratings": {
-        "count": 1283,
-        "average": 4.2868276
+        "count": 1284,
+        "average": 4.287383
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -136,8 +92,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
       "length": "70 mins",
       "ratings": {
-        "count": 2509,
-        "average": 4.5687523
+        "count": 2511,
+        "average": 4.569096
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -182,8 +138,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
       "length": "94 mins",
       "ratings": {
-        "count": 3413,
-        "average": 4.5523
+        "count": 3415,
+        "average": 4.551098
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -226,8 +182,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-vms-from-vhd-templates/",
       "length": "42 mins",
       "ratings": {
-        "count": 1441,
-        "average": 4.680777
+        "count": 1442,
+        "average": 4.680999
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -416,8 +372,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/keep-your-virtual-machines-updated/",
       "length": "35 mins",
       "ratings": {
-        "count": 2550,
-        "average": 4.4854903
+        "count": 2551,
+        "average": 4.485692
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -644,8 +600,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-reliability/",
       "length": "PT59M",
       "ratings": {
-        "count": 320,
-        "average": 4.696875
+        "count": 321,
+        "average": 4.694704
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -875,8 +831,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
       "length": "46 mins",
       "ratings": {
-        "count": 1367,
-        "average": 4.5837603
+        "count": 1368,
+        "average": 4.5840645
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -920,8 +876,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-spring-cloud-workshop/",
       "length": "84 mins",
       "ratings": {
-        "count": 89,
-        "average": 4.3146067
+        "count": 90,
+        "average": 4.311111
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1097,8 +1053,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-azure-vm-using-diagnostic-data/",
       "length": "43 mins",
       "ratings": {
-        "count": 812,
-        "average": 4.658867
+        "count": 813,
+        "average": 4.6580567
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1696,6 +1652,112 @@
         "Web",
         "Security",
         "Databases"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-migrate-sql-workloads-to-azure.md",
+      "title": "Migrate SQL workloads to Azure",
+      "excerpt": "The objective of this learning path is to educate the learner how they can migrate SQL Server workloads to SQL Services that exist on Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-migrate-sql-workloads-to-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-migrate-sql-workloads-to-azure/",
+      "length": "PT4H1M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Migrate SQL workloads to Azure virtual machines",
+          "excerpt": "Learners will be able to demonstrate the benefits and processes for moving a SQL Server database to an Azure virtual machine.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/migrate-sql-workloads-to-azure-virtual-machines-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Migrate SQL workloads to Azure virtual machines",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Migration",
+            "Compute"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Migrate SQL Workloads to Azure SQL Databases",
+          "excerpt": "In this module, you will learn to demonstrate the benefits and processes for moving a SQL Server database to Azure SQL Database.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/migrate-sql-workloads-to-azure-sql-databases-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Migrate SQL Workloads to Azure SQL Databases",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Migration",
+            "Databases"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Migrate SQL Workloads to Azure Managed Instances",
+          "excerpt": "Learners will be able to demonstrate the benefits and processes for moving a SQL Server database to an Azure SQL Database Managed Instance.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/migrate-sql-workloads-to-azure-managed-instances-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Migrate SQL Workloads to Azure Managed Instances",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Databases",
+            "Migration"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/migrate-sql-workloads-to-azure-virtual-machines-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Migrate SQL workloads to Azure virtual machines",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Compute"
       ]
     }
   ],

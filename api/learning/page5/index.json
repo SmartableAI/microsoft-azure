@@ -4,6 +4,133 @@
   "page": 5,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-architect-api-integration-in-azure-learning-path.md",
+      "title": "Architect API integration in Azure learning path",
+      "excerpt": "Learn how to architect API integration in Azure, and provide secure, scalable API access for your applications.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-architect-api-integration-in-azure-learning-path/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-architect-api-integration-in-azure-learning-path/",
+      "length": "PT3H44M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Publish and manage your APIs with Azure API Management",
+          "excerpt": "Use API management to control who uses your APIs, to enforce usage policies, and to present a professional front-end to developers using the API.",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/publish-manage-apis-with-azure-api-management-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Publish and manage your APIs with Azure API Management",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Integration",
+            "Web"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Improve the performance of an API by adding a caching policy in Azure API Management",
+          "excerpt": "API Management policies are configurable modules that you can add to APIs to change\ntheir behaviors. Policies can do things like cache responses, transform documents and values,\ncall webhooks for notification or audit purposes, and retry requests after transient\nfailures. This module will use policies to enable caching in order to improve API performance\nunder load.",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/improve-api-performance-with-apim-caching-policy-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Improve the performance of an API by adding a caching policy in Azure API Management",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Integration",
+            "Web"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Protect your APIs on Azure API Management",
+          "excerpt": "Protect your back-end APIs from information exposure and implement throttling to prevent resource exhaustion with policies in Azure API Management.",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/protect-apis-on-api-management-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Protect your APIs on Azure API Management",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Integration",
+            "Web"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Control authentication for your APIs with Azure API Management",
+          "excerpt": "Discover how to protect your APIs from unauthorized use with API keys and client certificate authentication.",
+          "heat": 56,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/control-authentication-with-apim-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Control authentication for your APIs with Azure API Management",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Integration",
+            "Web"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/publish-manage-apis-with-azure-api-management-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Publish and manage your APIs with Azure API Management",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Integration",
+        "Web"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-architect-api-integration-in-azure.md",
       "title": "Architect API integration in Azure",
       "excerpt": "Learn how to architect API integration in Azure, and provide secure, scalable API access for your applications.",
@@ -2063,8 +2190,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/app-service-scale-up-scale-out/",
       "length": "46 mins",
       "ratings": {
-        "count": 1935,
-        "average": 4.556589
+        "count": 1937,
+        "average": 4.5560145
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2150,8 +2277,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
       "length": "86 mins",
       "ratings": {
-        "count": 7397,
-        "average": 4.6833854
+        "count": 7398,
+        "average": 4.683428
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2194,8 +2321,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/",
       "length": "28 mins",
       "ratings": {
-        "count": 4353,
-        "average": 4.6742477
+        "count": 4355,
+        "average": 4.6743975
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2848,7 +2975,7 @@
           "path": "",
           "title": "Create a multistage pipeline by using Azure Pipelines",
           "excerpt": "Design and create a realistic release pipeline that promotes changes to various testing and staging environments.",
-          "heat": 50,
+          "heat": 110,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-multi-stage-pipeline-social.png",
@@ -2971,7 +3098,7 @@
           "path": "",
           "title": "Create a multistage pipeline by using Azure Pipelines",
           "excerpt": "Design and create a realistic release pipeline that promotes changes to various testing and staging environments.",
-          "heat": 50,
+          "heat": 110,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-multi-stage-pipeline-social.png",
@@ -3045,135 +3172,6 @@
       "topics": [
         "Azure",
         "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-develop-iot-solutions-with-azure-iot-central.md",
-      "title": "Develop IoT solutions with Azure IoT Central",
-      "excerpt": "Interested in building end to end IoT solutions with Azure IoT Central, but aren't quite sure what it can do for you? This path is the place to start.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-develop-iot-solutions-with-azure-iot-central/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-develop-iot-solutions-with-azure-iot-central/",
-      "length": "PT2H58M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Create your first Azure IoT Central app",
-          "excerpt": "This module builds an IoT Central app to monitor and command a refrigerated truck. The first unit creates the app, the second unit defines a device template for a refrigerated truck. Then, create a programming project, add code to simulate a truck, and communicate with your IoT Central app. The truck is monitored through a custom dashboard.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/iot/iot-central-refrigerated-truck-module-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Create your first Azure IoT Central app",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "IoT",
-            "Azure",
-            "Mobile",
-            "Web"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Set up rules and take action on telemetry data in Azure IoT Central",
-          "excerpt": "This module builds an IoT Central app to monitor and command a refrigerated truck. We build the IoT Central app from a downloaded JSON file, defining all the device capabilities. Source code is also downloaded for the device app. The focus of this module is on creating rules and actions, to respond to certain telemetry input. Rules and actions enable greater automation of an IoT Central system.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/iot/set-up-rules-take-actions-telemetry-data-azure-iot-central-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Set up rules and take action on telemetry data in Azure IoT Central",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "IoT",
-            "Azure",
-            "Mobile",
-            "Web"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Manage IoT Central applications with the REST API",
-          "excerpt": "The IoT Central REST API lets you manage applications programmatically. For example, you can add device templates, create devices, set device properties, send commands to devices, and manage data exports.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/manage-iot-central-apps-with-rest-api-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Manage IoT Central applications with the REST API",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "IoT"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Set up continuous data export from Azure IoT Central to a Power BI app",
-          "excerpt": "This module covers continuous data export from IoT Central. You use the scenario from the &quot;Create your first Azure IoT Central app&quot; Learn module, where you control a refrigerated truck. This module adds continuous data export to both Blob storage, and an Event Hub. Then, a Power BI app is built to read and display the telemetry data on a mobile phone.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/iot/continuous-data-export-from-iot-central-social.png",
-              "width": 640,
-              "height": 320,
-              "title": "Set up continuous data export from Azure IoT Central to a Power BI app",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "IoT",
-            "Storage",
-            "Analytics"
-          ]
-        }
-      ],
-      "size": 4,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/iot-central-refrigerated-truck-module-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Create your first Azure IoT Central app",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
       ]
     }
   ],

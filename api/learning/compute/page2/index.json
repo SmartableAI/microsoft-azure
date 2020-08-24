@@ -4,133 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-architect-modern-applications-in-azure.md",
-      "title": "Architect modern applications in Azure",
-      "excerpt": "Learn how to build modern applications using PaaS services for applications, caching, containers and Kubernetes in Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-architect-modern-applications-in-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-architect-modern-applications-in-azure/",
-      "length": "PT6H27M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Build a containerized web application with Docker",
-          "excerpt": "Package a web app so that it can be deployed as a Docker image and run from an Azure Container Instance.",
-          "heat": 55,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/intro-to-containers-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Build a containerized web application with Docker",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Run Docker containers with Azure Container Instances",
-          "excerpt": "Learn how to run containerized apps using Docker containers with Azure Container Instances (ACI).",
-          "heat": 56,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/run-docker-with-azure-container-instances-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Run Docker containers with Azure Container Instances",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Containers",
-            "Databases"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Build and store container images with Azure Container Registry",
-          "excerpt": "Azure Container Registry is a managed Docker registry service based on the open-source Docker Registry 2.0. Container Registry is private, hosted in Azure, and allows you to build, store, and manage images for all types of container deployments. Learn how to build and store container images with Azure Container Registry.",
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/build-and-store-container-images-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Build and store container images with Azure Container Registry",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Containers"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Host a web application with Azure App service",
-          "excerpt": "Azure App Service enables you to build and host web applications in the programming language of your choice without managing infrastructure. Learn how to create a website through the hosted web app platform in Azure App Service.",
-          "heat": 59,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/host-a-web-app-with-azure-app-service-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Host a web application with Azure App service",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Web",
-            "Management Tools"
-          ]
-        }
-      ],
-      "size": 8,
-      "heat": 67,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-containers-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Build a containerized web application with Docker",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers",
-        "Compute",
-        "Web",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-az-104-configure-and-manage-virtual-networks-for-azure-administrators.md",
       "title": "AZ-104: Configure and manage virtual networks for Azure administrators",
       "excerpt": "Learn how to configure and manage Azure network capabilities like connectivity services, application protection, application delivery, and network monitoring services. This learning path helps prepare you for Exam AZ-104: Microsoft Azure Administrator.",
@@ -523,8 +396,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
       "length": "36 mins",
       "ratings": {
-        "count": 5979,
-        "average": 4.667503
+        "count": 5981,
+        "average": 4.667614
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1335,8 +1208,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
       "length": "86 mins",
       "ratings": {
-        "count": 7397,
-        "average": 4.6833854
+        "count": 7398,
+        "average": 4.683428
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2009,8 +1882,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
       "length": "65 mins",
       "ratings": {
-        "count": 4854,
-        "average": 4.5970335
+        "count": 4856,
+        "average": 4.5969934
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2258,8 +2131,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-long-running-serverless-workflow-with-durable-functions/",
       "length": "46 mins",
       "ratings": {
-        "count": 2380,
-        "average": 4.457143
+        "count": 2381,
+        "average": 4.4569507
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2302,8 +2175,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/",
       "length": "41 mins",
       "ratings": {
-        "count": 859,
-        "average": 4.569267
+        "count": 861,
+        "average": 4.566783
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2348,8 +2221,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
       "length": "24 mins",
       "ratings": {
-        "count": 1394,
-        "average": 4.660689
+        "count": 1396,
+        "average": 4.6597424
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2391,8 +2264,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-network-traffic-flow-with-routes/",
       "length": "50 mins",
       "ratings": {
-        "count": 1482,
-        "average": 4.6174088
+        "count": 1483,
+        "average": 4.6176667
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2435,8 +2308,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/",
       "length": "46 mins",
       "ratings": {
-        "count": 3561,
-        "average": 4.6295986
+        "count": 3562,
+        "average": 4.6297026
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2567,8 +2440,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-azure-vm-templates/",
       "length": "37 mins",
       "ratings": {
-        "count": 3235,
-        "average": 4.532612
+        "count": 3236,
+        "average": 4.5327563
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2646,6 +2519,50 @@
         "Compute",
         "Serverless",
         "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-monitor-github-events-with-a-function-triggered-by-a-webhook.md",
+      "title": "Monitor GitHub events by using a webhook with Azure Functions",
+      "excerpt": "Webhooks offer a lightweight mechanism for your app to be notified by another service when something of interest happens. In this module. you'll learn how to trigger an Azure function with a GitHub webhook and parse the payload for insights.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-github-events-with-a-function-triggered-by-a-webhook/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-github-events-with-a-function-triggered-by-a-webhook/",
+      "length": "53 mins",
+      "ratings": {
+        "count": 1492,
+        "average": 4.628016
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/monitor-github-events-with-a-function-triggered-by-a-webhook-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Monitor GitHub events by using a webhook with Azure Functions",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless"
       ]
     }
   ],

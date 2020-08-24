@@ -4,6 +4,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-create-multi-stage-pipeline.md",
+      "title": "Create a multistage pipeline by using Azure Pipelines",
+      "excerpt": "Design and create a realistic release pipeline that promotes changes to various testing and staging environments.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-multi-stage-pipeline/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-multi-stage-pipeline/",
+      "length": "73 mins",
+      "ratings": {
+        "count": 752,
+        "average": 4.756649
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-multi-stage-pipeline-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Create a multistage pipeline by using Azure Pipelines",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-architect-infrastructure-operations-in-azure-learning-path.md",
       "title": "Architect infrastructure operations in Azure learning path",
       "excerpt": "Learn how to monitor, analyze, and manage the ongoing operation of your infrastructure in Azure.",
@@ -2001,7 +2044,7 @@
           "path": "",
           "title": "Create a multistage pipeline by using Azure Pipelines",
           "excerpt": "Design and create a realistic release pipeline that promotes changes to various testing and staging environments.",
-          "heat": 50,
+          "heat": 110,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-multi-stage-pipeline-social.png",
@@ -2124,7 +2167,7 @@
           "path": "",
           "title": "Create a multistage pipeline by using Azure Pipelines",
           "excerpt": "Design and create a realistic release pipeline that promotes changes to various testing and staging environments.",
-          "heat": 50,
+          "heat": 110,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-multi-stage-pipeline-social.png",
@@ -2623,8 +2666,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
       "length": "57 mins",
       "ratings": {
-        "count": 1177,
-        "average": 4.575191
+        "count": 1179,
+        "average": 4.5742154
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2668,8 +2711,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/assess-your-development-process/",
       "length": "PT19M",
       "ratings": {
-        "count": 6496,
-        "average": 4.7059727
+        "count": 6498,
+        "average": 4.7057557
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2710,8 +2753,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
       "length": "PT51M",
       "ratings": {
-        "count": 749,
-        "average": 4.7089453
+        "count": 750,
+        "average": 4.7093334
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2754,8 +2797,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-an-agile-approach/",
       "length": "PT40M",
       "ratings": {
-        "count": 5111,
-        "average": 4.744864
+        "count": 5112,
+        "average": 4.744718
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2796,8 +2839,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/",
       "length": "PT25M",
       "ratings": {
-        "count": 6712,
-        "average": 4.7207985
+        "count": 6714,
+        "average": 4.720882
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2894,51 +2937,6 @@
       "price": "Free",
       "topics": [
         "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-troubleshoot-inbound-network-connectivity-azure-load-balancer.md",
-      "title": "Troubleshoot inbound network connectivity for Azure Load Balancer",
-      "excerpt": "Review multidimensional metrics for the load balancer in Azure Monitor Metrics, and check health probe status for the load balancer.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-troubleshoot-inbound-network-connectivity-azure-load-balancer/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-inbound-connectivity-azure-load-balancer/",
-      "length": "98 mins",
-      "ratings": {
-        "count": 164,
-        "average": 4.634146
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/troubleshoot-inbound-connectivity-azure-load-balancer-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Troubleshoot inbound network connectivity for Azure Load Balancer",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking",
-        "DevOps",
-        "Management Tools"
       ]
     }
   ],

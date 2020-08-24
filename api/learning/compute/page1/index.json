@@ -257,8 +257,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
       "length": "38 mins",
       "ratings": {
-        "count": 59939,
-        "average": 4.707486
+        "count": 59949,
+        "average": 4.7074513
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -296,49 +296,6 @@
         "IoT",
         "Blockchain",
         "Integration"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-publish-azure-web-app-with-azure-toolkit-eclipse.md",
-      "title": "Publish a web app to Azure by using Azure Toolkit for Eclipse",
-      "excerpt": "Create a web app in Eclipse and deploy the app to Azure by using Azure Toolkit for Eclipse.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-publish-azure-web-app-with-azure-toolkit-eclipse/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-azure-web-app-with-azure-toolkit-eclipse/",
-      "length": "49 mins",
-      "ratings": {
-        "count": 8,
-        "average": 4.75
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/publish-azure-web-app-with-azure-toolkit-eclipse-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Publish a web app to Azure by using Azure Toolkit for Eclipse",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute"
       ]
     },
     {
@@ -1369,8 +1326,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
       "length": "51 mins",
       "ratings": {
-        "count": 11820,
-        "average": 4.7080374
+        "count": 11823,
+        "average": 4.708027
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1412,8 +1369,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
       "length": "67 mins",
       "ratings": {
-        "count": 13265,
-        "average": 4.6826987
+        "count": 13266,
+        "average": 4.6827226
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3483,6 +3440,133 @@
         "Containers",
         "Compute",
         "Web"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-architect-modern-applications-in-azure.md",
+      "title": "Architect modern applications in Azure",
+      "excerpt": "Learn how to build modern applications using PaaS services for applications, caching, containers and Kubernetes in Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-architect-modern-applications-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-architect-modern-applications-in-azure/",
+      "length": "PT6H27M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Build a containerized web application with Docker",
+          "excerpt": "Package a web app so that it can be deployed as a Docker image and run from an Azure Container Instance.",
+          "heat": 55,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/intro-to-containers-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Build a containerized web application with Docker",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Run Docker containers with Azure Container Instances",
+          "excerpt": "Learn how to run containerized apps using Docker containers with Azure Container Instances (ACI).",
+          "heat": 56,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/run-docker-with-azure-container-instances-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Run Docker containers with Azure Container Instances",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Containers",
+            "Databases"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Build and store container images with Azure Container Registry",
+          "excerpt": "Azure Container Registry is a managed Docker registry service based on the open-source Docker Registry 2.0. Container Registry is private, hosted in Azure, and allows you to build, store, and manage images for all types of container deployments. Learn how to build and store container images with Azure Container Registry.",
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/build-and-store-container-images-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Build and store container images with Azure Container Registry",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Containers"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Host a web application with Azure App service",
+          "excerpt": "Azure App Service enables you to build and host web applications in the programming language of your choice without managing infrastructure. Learn how to create a website through the hosted web app platform in Azure App Service.",
+          "heat": 59,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/host-a-web-app-with-azure-app-service-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Host a web application with Azure App service",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Web",
+            "Management Tools"
+          ]
+        }
+      ],
+      "size": 8,
+      "heat": 67,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-containers-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Build a containerized web application with Docker",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers",
+        "Compute",
+        "Web",
+        "Databases"
       ]
     }
   ],

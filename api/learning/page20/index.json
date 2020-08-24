@@ -4,48 +4,6 @@
   "page": 20,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-describe-performance-monitoring.md",
-      "title": "Describe performance monitoring",
-      "excerpt": "Compare Azure and on-premises tools for monitoring and measuring performance. Determine critical metrics. Understand the purpose of a baseline for comparative analysis.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-performance-monitoring/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-performance-monitoring/",
-      "length": "PT42M",
-      "ratings": {
-        "count": 15,
-        "average": 4.866667
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-describe-platform-architecture-security-data-protection-azure-databricks.md",
       "title": "Describe platform architecture, security, and data protection in Azure Databricks",
       "excerpt": "Understand the Azure Databricks platform components and best practices for securing your workspace through Databricks native features and by integrating with Azure services.",
@@ -97,8 +55,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-sql-server-query-plans/",
       "length": "PT54M",
       "ratings": {
-        "count": 16,
-        "average": 4.8125
+        "count": 17,
+        "average": 4.8235292
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -875,8 +833,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-components-of-modern-data-warehouse/",
       "length": "PT24M",
       "ratings": {
-        "count": 139,
-        "average": 4.7410073
+        "count": 141,
+        "average": 4.737589
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -917,8 +875,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-analyze-time-series-insights/",
       "length": "37 mins",
       "ratings": {
-        "count": 287,
-        "average": 4.6585364
+        "count": 288,
+        "average": 4.65625
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1036,8 +994,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-ingestion-azure/",
       "length": "PT20M",
       "ratings": {
-        "count": 117,
-        "average": 4.700855
+        "count": 119,
+        "average": 4.697479
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1246,8 +1204,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/export-data-with-azure-import-export/",
       "length": "24 mins",
       "ratings": {
-        "count": 376,
-        "average": 4.7101064
+        "count": 377,
+        "average": 4.7108755
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1279,6 +1237,49 @@
       "topics": [
         "Storage",
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-expose-hybrid-services-with-azure-relay.md",
+      "title": "Expose hybrid services securely with Azure Relay",
+      "excerpt": "Securely expose services that run in your on-premises network to clients in the cloud, without having to open a port on your firewall or make intrusive changes to your corporate network infrastructure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-expose-hybrid-services-with-azure-relay/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/expose-hybrid-services-with-azure-relay/",
+      "length": "44 mins",
+      "ratings": {
+        "count": 181,
+        "average": 4.6243095
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/expose-hybrid-services-with-azure-relay-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Expose hybrid services securely with Azure Relay",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Integration"
       ]
     }
   ],

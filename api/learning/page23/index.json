@@ -4,42 +4,6 @@
   "page": 23,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-introduction-lambda-architecture-iot-solutions.md",
-      "title": "Introduction to implementing lambda architecture for IoT solutions",
-      "excerpt": "An overview of the concepts and resources behind storage technologies used in IoT applications on Azure. After completing the module, you can determine when to use Blob storage, Data Lake storage, CosmosBD, and Time Series Insights.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-lambda-architecture-iot-solutions/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-lambda-architecture-iot-solutions/",
-      "length": "28 mins",
-      "ratings": {
-        "count": 334,
-        "average": 4.6077843
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Storage",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-introduction-open-source-analytics-offering.md",
       "title": "Introduction to the Open source Analytics Offering",
       "excerpt": "At the end of this module, you will learn that Azure HDInsight is a fully managed cloud service that enables you to efficiently process massive amounts of data using the most popular open source frameworks.",
@@ -174,8 +138,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-python-nasa/",
       "length": "PT23M",
       "ratings": {
-        "count": 8,
-        "average": 4.625
+        "count": 9,
+        "average": 4.5555553
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1139,48 +1103,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-manage-language-understanding-intelligent-service-apps.md",
-      "title": "Manage your Language Understanding Intelligent Service (LUIS) Apps",
-      "excerpt": "Learn to manage LUIS apps through versioning, key management, handling data, and improving predictions.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-language-understanding-intelligent-service-apps/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-language-understanding-intelligent-service-apps/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 7,
-        "average": 4.857143
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-manage-release-cadence.md",
       "title": "Manage release cadence in Azure Pipelines by using deployment patterns",
       "excerpt": "Choose and implement a deployment pattern that helps you smoothly roll out new application features to your users.",
@@ -1264,6 +1186,84 @@
       "topics": [
         "IoT",
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-message-queues-stream-processing.md",
+      "title": "Message queues and stream processing",
+      "excerpt": "Carnegie Mellon University's cloud developer course. The increase of available data has led to the rise of continuous streams of real-time data to process. Learn about different systems and techniques for consuming and processing real-time data streams.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-message-queues-stream-processing/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-message-queues-streams/",
+      "length": "PT1H2M",
+      "ratings": {
+        "count": 19,
+        "average": 4.8421054
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-microservices-architecture.md",
+      "title": "Decompose a monolithic application into a microservices architecture",
+      "excerpt": "Improve development agility, deployment, fault tolerance, and scalability by modernizing your application with a microservices architecture.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-microservices-architecture/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microservices-architecture/",
+      "length": "52 mins",
+      "ratings": {
+        "count": 266,
+        "average": 4.62406
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/microservices-architecture-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Decompose a monolithic application into a microservices architecture",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless",
+        "Web"
       ]
     }
   ],
