@@ -4,7 +4,7 @@ excerpt: "Are you interested in learning about the cloud in an easy to understan
 type: collection
 price: Free
 length: PT4H57M
-heat: 75
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,16 @@ items:
 
 levels:
   - Beginner
+
+items:
+  - courses/microsoft-learn-introduction-to-azure-solutions
+  - courses/microsoft-learn-app-and-infra-migration-and-modernization
+  - courses/microsoft-learn-data-estate-migration-and-modernization
+  - courses/microsoft-learn-azure-ai-strategy
+  - courses/microsoft-learn-azure-iot-strategy-and-solutions
+  - courses/microsoft-learn-azure-in-action
+  - courses/microsoft-learn-microsoft-cloud-adoption-framework-for-azure-v1-1
+  - courses/microsoft-learn-microsoft-runs-on-trust
 
 topics:
   - Azure

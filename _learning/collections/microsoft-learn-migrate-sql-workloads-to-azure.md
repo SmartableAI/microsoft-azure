@@ -22,6 +22,11 @@ items:
 levels:
   - Intermediate
 
+items:
+  - courses/microsoft-learn-migrate-sql-workloads-azure-virtual-machines
+  - courses/microsoft-learn-migrate-sql-workloads-azure-sql-databases
+  - courses/microsoft-learn-migrate-sql-workloads-azure-managed-instances
+
 topics:
   - Azure
   - Databases

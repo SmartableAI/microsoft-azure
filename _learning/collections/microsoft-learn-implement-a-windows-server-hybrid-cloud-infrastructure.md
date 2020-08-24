@@ -4,7 +4,7 @@ excerpt: "You will learn how to address problems relating to the migration of on
 type: collection
 price: Free
 length: PT7H10M
-heat: 75
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,14 @@ items:
 
 levels:
   - Intermediate
+
+items:
+  - courses/microsoft-learn-implement-hybrid-network-infrastructure
+  - courses/microsoft-learn-implement-hybrid-identity-with-windows-server
+  - courses/microsoft-learn-migrate-premises-windows-server-instances-to-azure-iaas-vms
+  - courses/microsoft-learn-implement-hybrid-file-server-infrastructure
+  - courses/microsoft-learn-implement-hybrid-backup-recovery-with-windows-server-iaas
+  - courses/microsoft-learn-implement-scale-high-availability-with-windows-server-vm
 
 topics:
   - Azure

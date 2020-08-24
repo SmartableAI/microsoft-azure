@@ -4,7 +4,7 @@ excerpt: "Learn how to architect storage solutions for your applications in Azur
 type: collection
 price: Free
 length: PT6H7M
-heat: 87
+heat: 81
 
 provider:
   name: Microsoft Learn
@@ -27,6 +27,17 @@ items:
 
 levels:
   - Intermediate
+
+items:
+  - courses/microsoft-learn-choose-storage-approach-in-azure
+  - courses/microsoft-learn-create-azure-storage-account
+  - courses/microsoft-learn-upload-download-and-manage-data-with-azure-storage-explorer
+  - courses/microsoft-learn-connect-app-to-azure-storage
+  - courses/microsoft-learn-ha-application-storage-with-grs
+  - courses/microsoft-learn-secure-azure-storage-account
+  - courses/microsoft-learn-store-and-share-with-azure-files
+  - courses/microsoft-learn-choose-the-right-disk-storage-for-vm-workload
+  - courses/microsoft-learn-monitor-diagnose-and-troubleshoot-azure-storage
 
 topics:
   - Azure

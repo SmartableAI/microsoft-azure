@@ -4,7 +4,7 @@ excerpt: "This learning path introduces you to Azure-supported SQL-based enterpr
 type: collection
 price: Free
 length: PT4H10M
-heat: 79
+heat: 66
 
 provider:
   name: Microsoft Learn
@@ -23,6 +23,13 @@ items:
 
 levels:
   - Intermediate
+
+items:
+  - courses/microsoft-learn-provision-azure-sql-db
+  - courses/microsoft-learn-create-azure-db-for-postgresql
+  - courses/microsoft-learn-azure-scale-azure-sql-dbs-elastic-pools
+  - courses/microsoft-learn-secure-your-azure-sql-database
+  - courses/microsoft-learn-develop-app-that-queries-azure-sql
 
 topics:
   - Azure

@@ -4,7 +4,7 @@ excerpt: "If your web hosting requirements aren't directly supported by the Azur
 type: collection
 price: Free
 length: PT4H6M
-heat: 111
+heat: 88
 
 provider:
   name: Microsoft Learn
@@ -22,6 +22,12 @@ items:
 
 levels:
   - Beginner
+
+items:
+  - courses/microsoft-learn-introduction-to-azure-virtual-machines
+  - courses/microsoft-learn-create-linux-vm-in-azure
+  - courses/microsoft-learn-create-a-windows-vm-in-azure
+  - courses/microsoft-learn-build-and-run-a-web-application-with-the-mean-stack-on-an-azure-linux-vm
 
 topics:
   - Azure

@@ -4,7 +4,7 @@ excerpt: "In this learning path, you will hear from Peter Zemsky, INSEAD's Eli L
 type: collection
 price: Free
 length: PT5H34M
-heat: 75
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,15 @@ items:
 
 levels:
   - Intermediate
+
+items:
+  - courses/microsoft-learn-ai-strategy-to-create-business-value
+  - courses/microsoft-learn-ai-strategy-in-financial-services
+  - courses/microsoft-learn-ai-strategy-in-government
+  - courses/microsoft-learn-ai-strategy-in-education
+  - courses/microsoft-learn-ai-strategy-in-retail
+  - courses/microsoft-learn-ai-strategy-in-manufacturing
+  - courses/microsoft-learn-ai-strategy-in-healthcare
 
 topics:
   - Azure

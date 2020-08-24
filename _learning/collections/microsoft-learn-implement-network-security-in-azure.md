@@ -4,7 +4,7 @@ excerpt: "Learn how to configure, protect, and isolate your networks in Azure."
 type: collection
 price: Free
 length: PT5H27M
-heat: 85
+heat: 75
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,13 @@ items:
 levels:
   - Beginner
   - Intermediate
+
+items:
+  - courses/microsoft-learn-introduction-to-security
+  - courses/microsoft-learn-configure-the-network-for-your-virtual-machines
+  - courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints
+  - courses/microsoft-learn-end-to-end-encryption-with-app-gateway
+  - courses/microsoft-learn-troubleshoot-azure-network-infrastructure
 
 topics:
   - Azure

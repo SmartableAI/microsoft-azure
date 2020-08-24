@@ -4,7 +4,7 @@ excerpt: "Azure supports several popular SQL-based database solutions including 
 type: collection
 price: Free
 length: PT4H10M
-heat: 82
+heat: 72
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,14 @@ items:
 
 levels:
   - Intermediate
+
+items:
+  - courses/microsoft-learn-provision-azure-sql-db
+  - courses/microsoft-learn-migrate-sql-server-relational-data
+  - courses/microsoft-learn-create-azure-db-for-postgresql
+  - courses/microsoft-learn-azure-scale-azure-sql-dbs-elastic-pools
+  - courses/microsoft-learn-secure-your-azure-sql-database
+  - courses/microsoft-learn-develop-app-that-queries-azure-sql
 
 topics:
   - Azure

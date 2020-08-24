@@ -4,7 +4,7 @@ excerpt: "Learn about the basics of the cloud, including the history, building b
 type: collection
 price: Free
 length: PT6H53M
-heat: 76
+heat: 61
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,14 @@ items:
 levels:
   - Beginner
   - Intermediate
+
+items:
+  - courses/microsoft-learn-cmu-cloud-computing-overview
+  - courses/microsoft-learn-cmu-cloud-economics
+  - courses/microsoft-learn-cmu-data-centers
+  - courses/microsoft-learn-cmu-data-center-design
+  - courses/microsoft-learn-cmu-data-center-cloud-service
+  - courses/microsoft-learn-cmu-build-apps-cloud
 
 topics:
   - Azure

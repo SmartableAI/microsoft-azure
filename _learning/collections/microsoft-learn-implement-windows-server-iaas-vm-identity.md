@@ -21,6 +21,10 @@ items:
 levels:
   - Intermediate
 
+items:
+  - courses/microsoft-learn-implement-hybrid-identity-with-windows-server
+  - courses/microsoft-learn-deploy-manage-azure-iaas-active-directory-domain-controllers-azure
+
 topics:
   - Azure
   - Identity

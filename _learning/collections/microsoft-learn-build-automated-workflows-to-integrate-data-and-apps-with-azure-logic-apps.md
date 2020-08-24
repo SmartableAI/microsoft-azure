@@ -4,7 +4,7 @@ excerpt: "Azure Logic Apps is a cloud service that automates the execution of yo
 type: collection
 price: Free
 length: PT2H49M
-heat: 78
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -23,6 +23,12 @@ items:
 levels:
   - Beginner
   - Intermediate
+
+items:
+  - courses/microsoft-learn-azure-intro-to-logic-apps
+  - courses/microsoft-learn-route-and-process-data-logic-apps
+  - courses/microsoft-learn-logic-apps-and-custom-connectors
+  - courses/microsoft-learn-logic-apps-and-arm-templates
 
 topics:
   - Azure

@@ -4,7 +4,7 @@ excerpt: "In manufacturing, decision-makers must take into account specific indu
 type: collection
 price: Free
 length: PT9H32M
-heat: 76
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,20 @@ items:
 levels:
   - Beginner
   - Intermediate
+
+items:
+  - courses/microsoft-learn-ai-strategy-to-create-business-value
+  - courses/microsoft-learn-ai-strategy-in-manufacturing
+  - courses/microsoft-learn-build-an-ai-ready-culture
+  - courses/microsoft-learn-foster-ai-culture-finance
+  - courses/microsoft-learn-foster-ai-culture-marketing
+  - courses/microsoft-learn-foster-ai-culture-sales
+  - courses/microsoft-learn-foster-ai-culture-customer-service
+  - courses/microsoft-learn-responsible-ai-guiding-principles
+  - courses/microsoft-learn-responsible-ai-governing-practices
+  - courses/microsoft-learn-microsoft-responsible-ai-practices
+  - courses/microsoft-learn-intro-to-ai-technology
+  - courses/microsoft-learn-microsoft-approach-to-ai
 
 topics:
   - Azure

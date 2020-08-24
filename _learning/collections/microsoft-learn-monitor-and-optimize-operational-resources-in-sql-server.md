@@ -4,7 +4,7 @@ excerpt: "Configure hardware and server resources for optimum performance after 
 type: collection
 price: Free
 length: PT2H40M
-heat: 76
+heat: 61
 
 provider:
   name: Microsoft Learn
@@ -23,6 +23,13 @@ items:
 
 levels:
   - Intermediate
+
+items:
+  - courses/microsoft-learn-describe-performance-monitoring
+  - courses/microsoft-learn-explore-causes-of-performance-issues
+  - courses/microsoft-learn-configure-sql-server-resources-for-optimal-performance
+  - courses/microsoft-learn-configure-databases-for-performance
+  - courses/microsoft-learn-describe-performance-related-maintenance-tasks-sql-server
 
 topics:
   - Azure

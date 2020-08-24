@@ -22,6 +22,11 @@ items:
 levels:
   - Intermediate
 
+items:
+  - courses/microsoft-learn-configure-database-authentication-authorization
+  - courses/microsoft-learn-protect-data-transit-at-rest
+  - courses/microsoft-learn-implement-compliance-controls-for-sensitive-data
+
 topics:
   - Azure
   - Databases

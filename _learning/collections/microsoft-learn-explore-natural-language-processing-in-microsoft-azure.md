@@ -4,7 +4,7 @@ excerpt: "Natural language processing supports applications that can see, hear, 
 type: collection
 price: Free
 length: PT2H6M
-heat: 75
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -22,6 +22,12 @@ items:
 
 levels:
   - Beginner
+
+items:
+  - courses/microsoft-learn-analyze-text-with-text-analytics-service
+  - courses/microsoft-learn-recognize-synthesize-speech
+  - courses/microsoft-learn-translate-text-with-translation-service
+  - courses/microsoft-learn-create-language-model-with-luis
 
 topics:
   - Azure

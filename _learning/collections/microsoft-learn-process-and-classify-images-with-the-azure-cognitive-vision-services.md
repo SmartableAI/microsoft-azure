@@ -22,6 +22,11 @@ items:
 levels:
   - Beginner
 
+items:
+  - courses/microsoft-learn-identify-faces-with-computer-vision
+  - courses/microsoft-learn-create-computer-vision-service
+  - courses/microsoft-learn-classify-images-with-custom-vision-services
+
 topics:
   - Azure
   - Management Tools

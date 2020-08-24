@@ -4,7 +4,7 @@ excerpt: "Learn how to configure release pipelines that continuously build, test
 type: collection
 price: Free
 length: PT8H51M
-heat: 75
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -27,6 +27,17 @@ items:
 
 levels:
   - Intermediate
+
+items:
+  - courses/microsoft-learn-create-release-pipeline
+  - courses/microsoft-learn-create-multi-stage-pipeline
+  - courses/microsoft-learn-manage-database-changes-in-azure-pipelines
+  - courses/microsoft-learn-run-functional-tests-azure-pipelines
+  - courses/microsoft-learn-run-non-functional-tests-azure-pipelines
+  - courses/microsoft-learn-manage-release-cadence
+  - courses/microsoft-learn-deploy-azure-functions
+  - courses/microsoft-learn-deploy-docker
+  - courses/microsoft-learn-deploy-kubernetes
 
 topics:
   - Azure

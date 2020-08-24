@@ -4,7 +4,7 @@ excerpt: "This learning path takes you through the four main phases of threat mo
 type: collection
 price: Free
 length: PT3H12M
-heat: 75
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,15 @@ items:
 levels:
   - Beginner
   - Intermediate
+
+items:
+  - courses/microsoft-learn-tm-introduction-to-threat-modeling
+  - courses/microsoft-learn-tm-create-a-threat-model-using-foundational-data-flow-diagram-elements
+  - courses/microsoft-learn-tm-provide-context-with-the-right-depth-layer
+  - courses/microsoft-learn-tm-approach-your-data-flow-diagram-with-the-right-threat-model-focus
+  - courses/microsoft-learn-tm-use-a-framework-to-identify-threats-and-find-ways-to-reduce-or-eliminate-risk
+  - courses/microsoft-learn-tm-prioritize-your-issues-and-apply-security-controls
+  - courses/microsoft-learn-tm-use-recommended-tools-to-create-a-data-flow-diagram
 
 topics:
   - Azure

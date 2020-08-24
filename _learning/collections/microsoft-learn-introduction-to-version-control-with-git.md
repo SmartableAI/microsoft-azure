@@ -22,6 +22,11 @@ items:
 levels:
   - Beginner
 
+items:
+  - courses/microsoft-learn-introduction-to-git
+  - courses/microsoft-learn-collaborate-with-git
+  - courses/microsoft-learn-branch-merge-git
+
 topics:
   - Azure
 

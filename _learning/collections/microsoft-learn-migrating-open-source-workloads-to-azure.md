@@ -4,7 +4,7 @@ excerpt: "Learn how to migrate open-source workloads from PostgreSQL and MySQL d
 type: collection
 price: Free
 length: PT3H8M
-heat: 76
+heat: 61
 
 provider:
   name: Microsoft Learn
@@ -22,6 +22,12 @@ items:
 
 levels:
   - Intermediate
+
+items:
+  - courses/microsoft-learn-introduction-open-source-database-migration-azure
+  - courses/microsoft-learn-migrate-premises-mysql-databases-azure-database-mysql
+  - courses/microsoft-learn-migrate-premises-postgresql-databases-azure-database-postgresql
+  - courses/microsoft-learn-protecting-monitoring-tuning-migrated-database
 
 topics:
   - Azure

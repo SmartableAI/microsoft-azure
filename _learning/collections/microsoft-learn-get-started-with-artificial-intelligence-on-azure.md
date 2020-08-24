@@ -20,6 +20,9 @@ items:
 levels:
   - Beginner
 
+items:
+  - courses/microsoft-learn-get-started-ai-fundamentals
+
 topics:
   - Azure
   - AI

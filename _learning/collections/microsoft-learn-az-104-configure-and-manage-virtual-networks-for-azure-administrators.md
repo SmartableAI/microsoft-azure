@@ -4,7 +4,7 @@ excerpt: "Learn how to configure and manage Azure network capabilities like conn
 type: collection
 price: Free
 length: PT11H2M
-heat: 87
+heat: 67
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,20 @@ items:
 
 levels:
   - Beginner
+
+items:
+  - courses/microsoft-learn-configure-the-network-for-your-virtual-machines
+  - courses/microsoft-learn-design-ip-addressing-for-azure
+  - courses/microsoft-learn-host-domain-azure-dns
+  - courses/microsoft-learn-integrate-vnets-with-vnet-peering
+  - courses/microsoft-learn-control-network-traffic-flow-with-routes
+  - courses/microsoft-learn-connect-on-premises-network-with-vpn-gateway
+  - courses/microsoft-learn-connect-on-premises-network-with-expressroute
+  - courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints
+  - courses/microsoft-learn-load-balance-web-traffic-with-application-gateway
+  - courses/microsoft-learn-improve-app-scalability-resiliency-with-load-balancer
+  - courses/microsoft-learn-troubleshoot-inbound-network-connectivity-azure-load-balancer
+  - courses/microsoft-learn-troubleshoot-azure-network-infrastructure
 
 topics:
   - Azure

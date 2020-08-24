@@ -4,7 +4,7 @@ excerpt: "This learning path teaches how to create and customize Windows and Lin
 type: collection
 price: Free
 length: PT10H59M
-heat: 82
+heat: 88
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,20 @@ items:
 
 levels:
   - Beginner
+
+items:
+  - courses/microsoft-learn-introduction-to-azure-virtual-machines
+  - courses/microsoft-learn-create-linux-vm-in-azure
+  - courses/microsoft-learn-create-a-windows-vm-in-azure
+  - courses/microsoft-learn-manage-vms-with-azure-cli
+  - courses/microsoft-learn-keep-your-virtual-machines-updated
+  - courses/microsoft-learn-configure-the-network-for-your-virtual-machines
+  - courses/microsoft-learn-build-azure-vm-templates
+  - courses/microsoft-learn-add-and-size-disks-in-azure-virtual-machines
+  - courses/microsoft-learn-caching-and-performance-azure-storage-and-disks
+  - courses/microsoft-learn-secure-your-azure-virtual-machine-disks
+  - courses/microsoft-learn-protect-vm-settings-with-dsc
+  - courses/microsoft-learn-monitor-azure-vm-using-diagnostic-data
 
 topics:
   - Azure

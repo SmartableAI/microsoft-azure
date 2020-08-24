@@ -4,7 +4,7 @@ excerpt: "The reliability of your systems, services and products has a direct im
 type: collection
 price: Free
 length: PT2H50M
-heat: 75
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,14 @@ items:
 
 levels:
   - Beginner
+
+items:
+  - courses/microsoft-learn-improve-reliability-introduction
+  - courses/microsoft-learn-improve-reliability-monitoring
+  - courses/microsoft-learn-improve-reliability-incidents
+  - courses/microsoft-learn-improve-reliability-failure
+  - courses/microsoft-learn-improve-reliability-deployment
+  - courses/microsoft-learn-improve-reliability-scaling
 
 topics:
   - Azure

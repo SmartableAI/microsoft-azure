@@ -4,7 +4,7 @@ excerpt: "Azure provides a variety of ways to store data: unstructured, archival
 type: collection
 price: Free
 length: PT3H50M
-heat: 96
+heat: 81
 
 provider:
   name: Microsoft Learn
@@ -23,6 +23,13 @@ items:
 
 levels:
   - Beginner
+
+items:
+  - courses/microsoft-learn-choose-storage-approach-in-azure
+  - courses/microsoft-learn-create-azure-storage-account
+  - courses/microsoft-learn-connect-app-to-azure-storage
+  - courses/microsoft-learn-secure-azure-storage-account
+  - courses/microsoft-learn-store-app-data-with-azure-blob-storage
 
 topics:
   - Azure

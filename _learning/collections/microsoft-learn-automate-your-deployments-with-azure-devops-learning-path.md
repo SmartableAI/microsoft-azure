@@ -22,6 +22,11 @@ items:
 levels:
   - Intermediate
 
+items:
+  - courses/microsoft-learn-provision-infrastructure-azure-pipelines
+  - courses/microsoft-learn-configure-infrastructure-azure-pipelines
+  - courses/microsoft-learn-provision-databases-azure-pipelines
+
 topics:
   - Azure
   - DevOps

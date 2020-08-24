@@ -20,6 +20,9 @@ items:
 levels:
   - Beginner
 
+items:
+  - courses/microsoft-learn-build-faq-chatbot-qna-maker-azure-bot-service
+
 topics:
   - Azure
   - Management Tools

@@ -4,7 +4,7 @@ excerpt: "This learning path introduces you to connected Field Service and Azure
 type: collection
 price: Free
 length: PT6H13M
-heat: 75
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -23,6 +23,13 @@ items:
 
 levels:
   - Intermediate
+
+items:
+  - courses/microsoft-learn-get-started-with-connected-field-service
+  - courses/microsoft-learn-remotely-monitor-and-service-customer-equipment
+  - courses/microsoft-learn-register-and-manage-customer-devices-with-connected-field-service
+  - courses/microsoft-learn-using-iot-central-with-connected-field-service
+  - courses/microsoft-learn-identify-exceptions-with-connected-field-service
 
 topics:
   - Azure

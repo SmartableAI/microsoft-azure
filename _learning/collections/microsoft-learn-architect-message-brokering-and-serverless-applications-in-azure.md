@@ -4,7 +4,7 @@ excerpt: "Learn how to create reliable messaging for your applications, and how 
 type: collection
 price: Free
 length: PT6H20M
-heat: 84
+heat: 73
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,16 @@ items:
 
 levels:
   - Intermediate
+
+items:
+  - courses/microsoft-learn-create-serverless-logic-with-functions
+  - courses/microsoft-learn-route-and-process-data-logic-apps
+  - courses/microsoft-learn-choose-messaging-model
+  - courses/microsoft-learn-communicate-between-applications-with-azure-queue-storage
+  - courses/microsoft-learn-enable-reliable-messaging-for-big-data-applications-using-azure-event-hubs
+  - courses/microsoft-learn-implement-message-workflows-with-service-bus
+  - courses/microsoft-learn-react-to-state-changes-using-event-grid
+  - courses/microsoft-learn-expose-hybrid-services-with-azure-relay
 
 topics:
   - Azure

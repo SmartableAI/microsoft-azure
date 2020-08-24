@@ -23,6 +23,11 @@ levels:
   - Beginner
   - Intermediate
 
+items:
+  - courses/microsoft-learn-cloud-storage-overview
+  - courses/microsoft-learn-case-study-distributed-file-systems
+  - courses/microsoft-learn-case-study-nosql-databases-object-storage
+
 topics:
   - Azure
 

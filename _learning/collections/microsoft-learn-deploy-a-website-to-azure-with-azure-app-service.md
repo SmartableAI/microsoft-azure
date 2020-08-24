@@ -4,7 +4,7 @@ excerpt: "Web apps in Azure allow you to publish and manage your website easily 
 type: collection
 price: Free
 length: PT4H30M
-heat: 88
+heat: 70
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,14 @@ items:
 
 levels:
   - Beginner
+
+items:
+  - courses/microsoft-learn-prepare-azure-dev-environment
+  - courses/microsoft-learn-host-a-web-application-with-azure-web-apps
+  - courses/microsoft-learn-publish-azure-web-app-with-visual-studio
+  - courses/microsoft-learn-stage-deploy-app-service-deployment-slots
+  - courses/microsoft-learn-app-service-scale-up-scale-out
+  - courses/microsoft-learn-deploy-run-container-app-service
 
 topics:
   - Azure

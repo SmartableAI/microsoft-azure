@@ -22,6 +22,11 @@ items:
 levels:
   - Intermediate
 
+items:
+  - courses/microsoft-learn-create-azure-cognitive-search-solution
+  - courses/microsoft-learn-create-enrichment-pipeline-with-azure-cognitive-search
+  - courses/microsoft-learn-create-knowledge-store-with-azure-cognitive-search
+
 topics:
   - Azure
   - AI

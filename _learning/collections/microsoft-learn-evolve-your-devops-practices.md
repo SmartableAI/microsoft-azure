@@ -4,7 +4,7 @@ excerpt: "DevOps is the union of people, process, and products to enable continu
 type: collection
 price: Free
 length: PT1H57M
-heat: 82
+heat: 66
 
 provider:
   name: Microsoft Learn
@@ -22,6 +22,12 @@ items:
 
 levels:
   - Intermediate
+
+items:
+  - courses/microsoft-learn-assess-your-development-process
+  - courses/microsoft-learn-get-started-with-devops
+  - courses/microsoft-learn-choose-an-agile-approach
+  - courses/microsoft-learn-manage-delivery-plans
 
 topics:
   - DevOps

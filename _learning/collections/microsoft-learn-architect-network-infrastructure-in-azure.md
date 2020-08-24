@@ -4,7 +4,7 @@ excerpt: "Learn how to architect a secure, flexible, network infrastructure in A
 type: collection
 price: Free
 length: PT8H59M
-heat: 87
+heat: 78
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,20 @@ items:
 
 levels:
   - Intermediate
+
+items:
+  - courses/microsoft-learn-connect-on-premises-network-with-vpn-gateway
+  - courses/microsoft-learn-connect-on-premises-network-with-expressroute
+  - courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints
+  - courses/microsoft-learn-integrate-vnets-with-vnet-peering
+  - courses/microsoft-learn-distribute-load-with-traffic-manager
+  - courses/microsoft-learn-improve-app-scalability-resiliency-with-load-balancer
+  - courses/microsoft-learn-load-balance-web-traffic-with-application-gateway
+  - courses/microsoft-learn-control-network-traffic-flow-with-routes
+  - courses/microsoft-learn-design-ip-addressing-for-azure
+  - courses/microsoft-learn-design-a-hybrid-network-architecture
+  - courses/microsoft-learn-hub-and-spoke-network-architecture
+  - courses/microsoft-learn-troubleshoot-azure-network-infrastructure
 
 topics:
   - Azure

@@ -4,7 +4,7 @@ excerpt: "The AI edge engineer learning path takes an engineering-led approach f
 type: collection
 price: Free
 length: PT6H39M
-heat: 75
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,22 @@ items:
 
 levels:
   - Beginner
+
+items:
+  - courses/microsoft-learn-intro-to-iot
+  - courses/microsoft-learn-intro-to-iot-hub
+  - courses/microsoft-learn-intro-to-iot-edge
+  - courses/microsoft-learn-deploy-prebuilt-module-edge-device
+  - courses/microsoft-learn-train-package-azure-ml-module-iot-edge
+  - courses/microsoft-learn-intro-iot-funtions-iot
+  - courses/microsoft-learn-deploy-cognitive-service-iot-edge-azure-func
+  - courses/microsoft-learn-run-cognitive-services-iot-edge
+  - courses/microsoft-learn-intro-mlops-iot-edge
+  - courses/microsoft-learn-implement-cicd-iot-edge
+  - courses/microsoft-learn-intro-azure-sphere
+  - courses/microsoft-learn-image-classification-azure-sphere
+  - courses/microsoft-learn-develop-secure-iot-solutions-for-azure-sphere-iot-hub
+  - courses/microsoft-learn-develop-secure-iot-solutions-for-azure-sphere
 
 topics:
   - Azure

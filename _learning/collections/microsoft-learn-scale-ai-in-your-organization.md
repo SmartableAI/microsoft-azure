@@ -21,6 +21,10 @@ items:
 levels:
   - Intermediate
 
+items:
+  - courses/microsoft-learn-implement-ai-organization
+  - courses/microsoft-learn-start-ml-lifecycle-mlops
+
 topics:
   - Azure
 

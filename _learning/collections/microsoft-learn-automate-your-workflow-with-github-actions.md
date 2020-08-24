@@ -4,7 +4,7 @@ excerpt: "Learn how GitHub Actions enables you to automate your software develop
 type: collection
 price: Free
 length: PT2H25M
-heat: 75
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,13 @@ items:
 levels:
   - Beginner
   - Intermediate
+
+items:
+  - courses/microsoft-learn-introduction-to-github
+  - courses/microsoft-learn-github-actions-automate-tasks
+  - courses/microsoft-learn-github-actions-ci
+  - courses/microsoft-learn-github-actions-cd
+  - courses/microsoft-learn-automate-github-using-github-script
 
 topics:
   - Azure

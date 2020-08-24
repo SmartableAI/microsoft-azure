@@ -22,6 +22,11 @@ items:
 levels:
   - Beginner
 
+items:
+  - courses/microsoft-learn-introduction-to-azure-data-lake-storage
+  - courses/microsoft-learn-upload-data-to-azure-data-lake-storage
+  - courses/microsoft-learn-secure-azure-storage-account
+
 topics:
   - Azure
   - Management Tools

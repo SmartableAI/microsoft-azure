@@ -4,7 +4,7 @@ excerpt: "In this learning path, find out how to customize NoSQL data storage an
 type: collection
 price: Free
 length: PT6H3M
-heat: 79
+heat: 64
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,16 @@ items:
 
 levels:
   - Beginner
+
+items:
+  - courses/microsoft-learn-create-cosmos-db-for-scale
+  - courses/microsoft-learn-choose-the-appropriate-api-for-cosmos-db-storage
+  - courses/microsoft-learn-access-data-with-cosmos-db-and-sql-api
+  - courses/microsoft-learn-store-access-data-cosmos-graph-api
+  - courses/microsoft-learn-store-access-data-cosmos-table-api
+  - courses/microsoft-learn-cosmos-db-app-with-vscode
+  - courses/microsoft-learn-monitor-azure-cosmos-db
+  - courses/microsoft-learn-distribute-data-globally-with-cosmos-db
 
 topics:
   - Azure

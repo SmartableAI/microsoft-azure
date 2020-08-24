@@ -4,7 +4,7 @@ excerpt: "Learn how to deploy and configure virtual machines, containers, and We
 type: collection
 price: Free
 length: PT11H15M
-heat: 84
+heat: 73
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,22 @@ items:
 
 levels:
   - Beginner
+
+items:
+  - courses/microsoft-learn-create-linux-vm-in-azure
+  - courses/microsoft-learn-create-a-windows-vm-in-azure
+  - courses/microsoft-learn-manage-vms-with-azure-cli
+  - courses/microsoft-learn-add-and-size-disks-in-azure-virtual-machines
+  - courses/microsoft-learn-secure-your-azure-virtual-machine-disks
+  - courses/microsoft-learn-keep-your-virtual-machines-updated
+  - courses/microsoft-learn-build-azure-vm-templates
+  - courses/microsoft-learn-deploy-vms-from-vhd-templates
+  - courses/microsoft-learn-build-app-with-scale-sets
+  - courses/microsoft-learn-protect-vm-settings-with-dsc
+  - courses/microsoft-learn-deploy-run-container-app-service
+  - courses/microsoft-learn-app-service-scale-up-scale-out
+  - courses/microsoft-learn-run-docker-containers-aci
+  - courses/microsoft-learn-intro-to-azure-kubernetes-service
 
 topics:
   - Azure

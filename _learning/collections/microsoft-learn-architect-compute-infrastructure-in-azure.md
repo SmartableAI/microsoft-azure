@@ -4,7 +4,7 @@ excerpt: "Learn how to architect compute infrastructure and solutions to automat
 type: collection
 price: Free
 length: PT6H54M
-heat: 84
+heat: 68
 
 provider:
   name: Microsoft Learn
@@ -27,6 +27,17 @@ items:
 
 levels:
   - Intermediate
+
+items:
+  - courses/microsoft-learn-intro-to-compute
+  - courses/microsoft-learn-manage-vms-with-azure-cli
+  - courses/microsoft-learn-choose-compute-provisioning
+  - courses/microsoft-learn-build-azure-vm-templates
+  - courses/microsoft-learn-deploy-vms-from-vhd-templates
+  - courses/microsoft-learn-build-app-with-scale-sets
+  - courses/microsoft-learn-choose-azure-service-to-integrate-and-automate-business-processes
+  - courses/microsoft-learn-intro-to-hpc
+  - courses/microsoft-learn-run-parallel-tasks-in-azure-batch-with-the-azure-cli
 
 topics:
   - Azure

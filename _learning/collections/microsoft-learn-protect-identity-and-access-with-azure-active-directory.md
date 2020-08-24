@@ -4,7 +4,7 @@ excerpt: "The **Identity and Access learning path** covers the latest identity a
 type: collection
 price: Free
 length: PT2H52M
-heat: 81
+heat: 64
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,14 @@ items:
 
 levels:
   - Intermediate
+
+items:
+  - courses/microsoft-learn-m365-identity-overview
+  - courses/microsoft-learn-m365-identity-provisioning
+  - courses/microsoft-learn-m365-identity-authentication
+  - courses/microsoft-learn-m365-identity-secure-administrators
+  - courses/microsoft-learn-m365-identity-cultural-shift
+  - courses/microsoft-learn-m365-identity-zero-trust
 
 topics:
   - Azure

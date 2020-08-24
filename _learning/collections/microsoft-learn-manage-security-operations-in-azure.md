@@ -4,7 +4,7 @@ excerpt: "Learn how to configure security policies and manage security alerts wi
 type: collection
 price: Free
 length: PT6H49M
-heat: 87
+heat: 64
 
 provider:
   name: Microsoft Learn
@@ -27,6 +27,16 @@ items:
 levels:
   - Beginner
   - Intermediate
+
+items:
+  - courses/microsoft-learn-introduction-to-security
+  - courses/microsoft-learn-create-security-baselines
+  - courses/microsoft-learn-identify-threats-with-azure-security-center
+  - courses/microsoft-learn-resolve-threats-with-azure-security-center
+  - courses/microsoft-learn-secure-vms-with-security-center
+  - courses/microsoft-learn-analyze-infrastructure-with-azure-monitor-logs
+  - courses/microsoft-learn-incident-response-with-alerting-on-azure
+  - courses/microsoft-learn-capture-application-logs-app-service
 
 topics:
   - Azure

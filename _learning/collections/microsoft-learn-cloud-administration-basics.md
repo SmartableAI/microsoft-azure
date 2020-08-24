@@ -22,6 +22,11 @@ items:
 levels:
   - Beginner
 
+items:
+  - courses/microsoft-learn-cmu-cloud-admin-overview
+  - courses/microsoft-learn-cloud-admin-provision-manage
+  - courses/microsoft-learn-secure-cloud-resources
+
 topics:
   - Azure
 

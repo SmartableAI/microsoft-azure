@@ -4,7 +4,7 @@ excerpt: "Azure Container Instances are the quickest and easiest way to run cont
 type: collection
 price: Free
 length: PT5H10M
-heat: 82
+heat: 67
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,15 @@ items:
 
 levels:
   - Beginner
+
+items:
+  - courses/microsoft-learn-intro-to-docker-containers
+  - courses/microsoft-learn-intro-to-containers
+  - courses/microsoft-learn-azure-container-registry
+  - courses/microsoft-learn-run-docker-containers-aci
+  - courses/microsoft-learn-deploy-run-container-app-service
+  - courses/microsoft-learn-intro-to-kubernetes
+  - courses/microsoft-learn-intro-to-azure-kubernetes-service
 
 topics:
   - Azure

@@ -4,7 +4,7 @@ excerpt: "Computer vision is an area of artificial intelligence (AI) in which so
 type: collection
 price: Free
 length: PT2H53M
-heat: 76
+heat: 61
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,14 @@ items:
 
 levels:
   - Beginner
+
+items:
+  - courses/microsoft-learn-analyze-images-computer-vision
+  - courses/microsoft-learn-classify-images-custom-vision
+  - courses/microsoft-learn-detect-objects-images-custom-vision
+  - courses/microsoft-learn-detect-analyze-faces
+  - courses/microsoft-learn-read-text-computer-vision
+  - courses/microsoft-learn-analyze-receipts-form-recognizer
 
 topics:
   - Azure

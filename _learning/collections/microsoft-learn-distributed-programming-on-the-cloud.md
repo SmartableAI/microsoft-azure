@@ -4,7 +4,7 @@ excerpt: "Learn about how complex computer programs must be architected for the 
 type: collection
 price: Free
 length: PT6H54M
-heat: 75
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,13 @@ items:
 levels:
   - Beginner
   - Intermediate
+
+items:
+  - courses/microsoft-learn-introduction
+  - courses/microsoft-learn-analytics-engines-mapreduce
+  - courses/microsoft-learn-analytics-engines-graphlab
+  - courses/microsoft-learn-analytics-engines-spark
+  - courses/microsoft-learn-message-queues-stream-processing
 
 topics:
   - Azure

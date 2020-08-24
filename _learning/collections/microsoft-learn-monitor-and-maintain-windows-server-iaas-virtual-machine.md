@@ -4,7 +4,7 @@ excerpt: "In this learning path, you’ll learn how to implement remote administ
 type: collection
 price: Free
 length: PT4H7M
-heat: 75
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -23,6 +23,13 @@ items:
 
 levels:
   - Intermediate
+
+items:
+  - courses/microsoft-learn-administer-manage-windows-server-iaas-vm-remotely
+  - courses/microsoft-learn-monitor-windows-server-iaas-vms-hybrid-instances
+  - courses/microsoft-learn-understand-windows-server-iaas-vm-cost-management
+  - courses/microsoft-learn-implement-scale-high-availability-with-windows-server-vm
+  - courses/microsoft-learn-implement-hybrid-backup-recovery-with-windows-server-iaas
 
 topics:
   - Azure

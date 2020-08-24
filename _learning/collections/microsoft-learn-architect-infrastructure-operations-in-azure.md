@@ -4,7 +4,7 @@ excerpt: "Learn how to monitor, analyze, and manage the ongoing operation of you
 type: collection
 price: Free
 length: PT3H56M
-heat: 90
+heat: 108
 
 provider:
   name: Microsoft Learn
@@ -23,6 +23,13 @@ items:
 
 levels:
   - Intermediate
+
+items:
+  - courses/microsoft-learn-control-and-organize-with-resource-manager
+  - courses/microsoft-learn-intro-to-governance
+  - courses/microsoft-learn-design-monitoring-strategy-on-azure
+  - courses/microsoft-learn-incident-response-with-alerting-on-azure
+  - courses/microsoft-learn-analyze-infrastructure-with-azure-monitor-logs
 
 topics:
   - Azure

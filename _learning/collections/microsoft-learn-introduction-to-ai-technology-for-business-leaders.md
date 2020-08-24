@@ -21,6 +21,10 @@ items:
 levels:
   - Beginner
 
+items:
+  - courses/microsoft-learn-intro-to-ai-technology
+  - courses/microsoft-learn-microsoft-approach-to-ai
+
 topics:
   - Azure
 

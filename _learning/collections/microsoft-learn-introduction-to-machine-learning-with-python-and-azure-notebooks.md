@@ -22,6 +22,11 @@ items:
 levels:
   - Beginner
 
+items:
+  - courses/microsoft-learn-analyze-climate-data-with-azure-notebooks
+  - courses/microsoft-learn-predict-flight-delays-with-python
+  - courses/microsoft-learn-analyze-review-sentiment-with-keras
+
 topics:
   - Azure
   - Management Tools

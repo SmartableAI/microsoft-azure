@@ -22,6 +22,11 @@ items:
 levels:
   - Intermediate
 
+items:
+  - courses/microsoft-learn-recommend-system-feedback-mechanisms
+  - courses/microsoft-learn-route-system-feedback
+  - courses/microsoft-learn-manage-site-reliability
+
 topics:
   - Azure
   - DevOps

@@ -21,6 +21,10 @@ items:
 levels:
   - Beginner
 
+items:
+  - courses/microsoft-learn-introduction-to-regression
+  - courses/microsoft-learn-neural-networks
+
 topics:
   - Azure
 

@@ -4,7 +4,7 @@ excerpt: "Learn how to manage storage accounts, data in Azure Storage, and Azure
 type: collection
 price: Free
 length: PT5H56M
-heat: 84
+heat: 73
 
 provider:
   name: Microsoft Learn
@@ -27,6 +27,17 @@ items:
 
 levels:
   - Beginner
+
+items:
+  - courses/microsoft-learn-create-azure-storage-account
+  - courses/microsoft-learn-choose-the-right-disk-storage-for-vm-workload
+  - courses/microsoft-learn-secure-azure-storage-account
+  - courses/microsoft-learn-store-and-share-with-azure-files
+  - courses/microsoft-learn-upload-download-and-manage-data-with-azure-storage-explorer
+  - courses/microsoft-learn-export-data-with-azure-import-export
+  - courses/microsoft-learn-move-data-with-azure-data-box
+  - courses/microsoft-learn-extend-share-capacity-with-azure-file-sync
+  - courses/microsoft-learn-caching-and-performance-azure-storage-and-disks
 
 topics:
   - Azure

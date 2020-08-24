@@ -4,7 +4,7 @@ excerpt: "Learn how to deploy, secure, monitor and troubleshoot Azure SQL databa
 type: collection
 price: Free
 length: PT7H14M
-heat: 78
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,14 @@ items:
 
 levels:
   - Beginner
+
+items:
+  - courses/microsoft-learn-azure-sql-intro
+  - courses/microsoft-learn-azure-sql-deploy-configure
+  - courses/microsoft-learn-azure-sql-secure-data
+  - courses/microsoft-learn-azure-sql-performance
+  - courses/microsoft-learn-azure-sql-high-availability
+  - courses/microsoft-learn-azure-sql-case-studies
 
 topics:
   - Azure

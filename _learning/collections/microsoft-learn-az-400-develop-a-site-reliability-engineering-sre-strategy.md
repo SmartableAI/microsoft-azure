@@ -4,7 +4,7 @@ excerpt: "Learn how Site Reliability Engineering enables you to sustainably achi
 type: collection
 price: Free
 length: PT7H46M
-heat: 79
+heat: 69
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,16 @@ items:
 
 levels:
   - Beginner
+
+items:
+  - courses/microsoft-learn-intro-to-site-reliability-engineering
+  - courses/microsoft-learn-incident-response-with-alerting-on-azure
+  - courses/microsoft-learn-capture-application-logs-app-service
+  - courses/microsoft-learn-manage-site-reliability
+  - courses/microsoft-learn-cmu-cloud-elasticity
+  - courses/microsoft-learn-cmu-build-apps-cloud
+  - courses/microsoft-learn-troubleshoot-inbound-network-connectivity-azure-load-balancer
+  - courses/microsoft-learn-monitor-azure-vm-using-diagnostic-data
 
 topics:
   - Azure

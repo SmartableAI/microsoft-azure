@@ -4,7 +4,7 @@ excerpt: "Create automated pipelines that continuously build, test, package, and
 type: collection
 price: Free
 length: PT11H40M
-heat: 75
+heat: 61
 
 provider:
   name: Microsoft Learn
@@ -29,6 +29,19 @@ items:
 
 levels:
   - Beginner
+
+items:
+  - courses/microsoft-learn-create-a-build-pipeline
+  - courses/microsoft-learn-run-quality-tests-build-pipeline
+  - courses/microsoft-learn-manage-build-dependencies
+  - courses/microsoft-learn-host-build-agent
+  - courses/microsoft-learn-create-release-pipeline
+  - courses/microsoft-learn-create-multi-stage-pipeline
+  - courses/microsoft-learn-run-functional-tests-azure-pipelines
+  - courses/microsoft-learn-run-non-functional-tests-azure-pipelines
+  - courses/microsoft-learn-configure-infrastructure-azure-pipelines
+  - courses/microsoft-learn-protect-vm-settings-with-dsc
+  - courses/microsoft-learn-github-actions-ci
 
 topics:
   - Azure

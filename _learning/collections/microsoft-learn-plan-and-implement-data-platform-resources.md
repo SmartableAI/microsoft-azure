@@ -22,6 +22,11 @@ items:
 levels:
   - Intermediate
 
+items:
+  - courses/microsoft-learn-deploy-sql-server-virtual-machine
+  - courses/microsoft-learn-deploy-azure-sql-database
+  - courses/microsoft-learn-deploy-mariadb-mysql-postgresql-azure
+
 topics:
   - Azure
   - Databases

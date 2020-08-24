@@ -4,7 +4,7 @@ excerpt: "Build strategies around security and compliance that enable you to aut
 type: collection
 price: Free
 length: PT8H31M
-heat: 81
+heat: 66
 
 provider:
   name: Microsoft Learn
@@ -29,6 +29,19 @@ items:
 
 levels:
   - Beginner
+
+items:
+  - courses/microsoft-learn-intro-to-azure-ad
+  - courses/microsoft-learn-create-users-and-groups-in-azure-active-directory
+  - courses/microsoft-learn-authenticate-apps-with-managed-identities
+  - courses/microsoft-learn-configure-and-manage-azure-key-vault
+  - courses/microsoft-learn-control-authentication-with-apim
+  - courses/microsoft-learn-introduction-to-security
+  - courses/microsoft-learn-monitor-report-aad-security-events
+  - courses/microsoft-learn-maintain-secure-repository-github
+  - courses/microsoft-learn-intro-to-governance
+  - courses/microsoft-learn-improve-reliability-failure
+  - courses/microsoft-learn-improve-reliability-incidents
 
 topics:
   - Azure

@@ -4,7 +4,7 @@ excerpt: "Familiarize yourself with DevOps basic concepts and principles."
 type: collection
 price: Free
 length: PT2H0M
-heat: 76
+heat: 61
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,14 @@ items:
 
 levels:
   - Beginner
+
+items:
+  - courses/microsoft-learn-introduce-foundation-pillars-devops
+  - courses/microsoft-learn-define-foundation-pillars
+  - courses/microsoft-learn-analyze-devops-continuous-planning-intergration
+  - courses/microsoft-learn-explain-devops-continous-delivery-quality
+  - courses/microsoft-learn-explore-devops-continuous-security-operations
+  - courses/microsoft-learn-characterize-devops-continous-collaboration-improvement
 
 topics:
   - Azure

@@ -22,6 +22,11 @@ items:
 levels:
   - Advanced
 
+items:
+  - courses/microsoft-learn-utilizing-azure-sap-workloads-reference-architecture
+  - courses/microsoft-learn-planning-implementing-sap-solutions-azure
+  - courses/microsoft-learn-preparing-migrate-sap-workloads-azure
+
 topics:
   - Azure
 

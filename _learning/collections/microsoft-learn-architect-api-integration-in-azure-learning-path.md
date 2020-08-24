@@ -4,7 +4,7 @@ excerpt: "Learn how to architect API integration in Azure, and provide secure, s
 type: collection
 price: Free
 length: PT3H44M
-heat: 76
+heat: 61
 
 provider:
   name: Microsoft Learn
@@ -23,6 +23,13 @@ items:
 
 levels:
   - Intermediate
+
+items:
+  - courses/microsoft-learn-publish-manage-apis-with-azure-api-management
+  - courses/microsoft-learn-improve-api-performance-with-apim-caching-policy
+  - courses/microsoft-learn-protect-apis-on-api-management
+  - courses/microsoft-learn-control-authentication-with-apim
+  - courses/microsoft-learn-build-serverless-api-with-functions-api-management
 
 topics:
   - Azure

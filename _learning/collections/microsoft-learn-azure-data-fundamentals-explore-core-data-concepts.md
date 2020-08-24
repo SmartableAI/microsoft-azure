@@ -4,7 +4,7 @@ excerpt: "Learn the fundamentals of database concepts in a cloud environment, ge
 type: collection
 price: Free
 length: PT1H48M
-heat: 88
+heat: 74
 
 provider:
   name: Microsoft Learn
@@ -23,6 +23,13 @@ items:
 
 levels:
   - Beginner
+
+items:
+  - courses/microsoft-learn-explore-core-data-concepts
+  - courses/microsoft-learn-explore-roles-responsibilities-world-of-data
+  - courses/microsoft-learn-describe-concepts-of-relational-data
+  - courses/microsoft-learn-explore-concepts-of-non-relational-data
+  - courses/microsoft-learn-explore-concepts-of-data-analytics
 
 topics:
   - Azure

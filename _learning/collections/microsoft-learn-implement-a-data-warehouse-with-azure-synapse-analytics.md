@@ -22,6 +22,11 @@ items:
 levels:
   - Beginner
 
+items:
+  - courses/microsoft-learn-design-azure-sql-data-warehouse
+  - courses/microsoft-learn-query-azure-sql-data-warehouse
+  - courses/microsoft-learn-import-data-into-asdw-with-polybase
+
 topics:
   - Azure
   - Management Tools

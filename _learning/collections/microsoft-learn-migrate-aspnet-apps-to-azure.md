@@ -21,6 +21,10 @@ items:
 levels:
   - Beginner
 
+items:
+  - courses/microsoft-learn-migrate-app-service-migration-assistant
+  - courses/microsoft-learn-migrate-sql-server-relational-data
+
 topics:
   - Azure
   - Databases

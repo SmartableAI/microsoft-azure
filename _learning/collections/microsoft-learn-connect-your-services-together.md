@@ -4,7 +4,7 @@ excerpt: "Azure lets you create applications composed of various components: web
 type: collection
 price: Free
 length: PT3H31M
-heat: 85
+heat: 68
 
 provider:
   name: Microsoft Learn
@@ -23,6 +23,12 @@ items:
 levels:
   - Beginner
   - Intermediate
+
+items:
+  - courses/microsoft-learn-choose-messaging-model
+  - courses/microsoft-learn-implement-message-workflows-with-service-bus
+  - courses/microsoft-learn-communicate-between-applications-with-azure-queue-storage
+  - courses/microsoft-learn-enable-reliable-messaging-for-big-data-applications-using-azure-event-hubs
 
 topics:
   - Azure

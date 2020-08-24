@@ -22,6 +22,11 @@ items:
 levels:
   - Intermediate
 
+items:
+  - courses/microsoft-learn-implement-windows-server-iaas-vm-ip-addressing-routing
+  - courses/microsoft-learn-implement-dns-for-windows-server-iaas-vms
+  - courses/microsoft-learn-implement-windows-server-iaas-vm-network-security
+
 topics:
   - Azure
   - Management Tools

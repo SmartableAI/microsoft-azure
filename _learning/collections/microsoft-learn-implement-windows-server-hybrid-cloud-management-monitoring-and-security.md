@@ -4,7 +4,7 @@ excerpt: "This learning path addresses problem related to managing, monitoring, 
 type: collection
 price: Free
 length: PT2H55M
-heat: 75
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -22,6 +22,12 @@ items:
 
 levels:
   - Intermediate
+
+items:
+  - courses/microsoft-learn-manage-hybrid-workloads-with-azure-arc
+  - courses/microsoft-learn-monitor-windows-server-iaas-vms-hybrid-instances
+  - courses/microsoft-learn-audit-security-of-windows-server-iaas-vms
+  - courses/microsoft-learn-manage-azure-updates
 
 topics:
   - Azure

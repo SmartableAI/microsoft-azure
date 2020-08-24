@@ -31,6 +31,20 @@ items:
 levels:
   - Beginner
 
+items:
+  - courses/microsoft-learn-principles-cloud-computing
+  - courses/microsoft-learn-intro-to-azure-linux
+  - courses/microsoft-learn-introduction-to-azure-virtual-machines
+  - courses/microsoft-learn-create-linux-vm-in-azure
+  - courses/microsoft-learn-control-and-organize-with-resource-manager
+  - courses/microsoft-learn-design-your-migration-to-azure
+  - courses/microsoft-learn-introduction-open-source-database-migration-azure
+  - courses/microsoft-learn-build-and-run-a-web-application-with-the-mean-stack-on-an-azure-linux-vm
+  - courses/microsoft-learn-host-a-web-application-with-azure-web-apps
+  - courses/microsoft-learn-create-serverless-logic-with-functions
+  - courses/microsoft-learn-intro-to-azure-kubernetes-service
+  - courses/microsoft-learn-run-docker-containers-aci
+
 topics:
   - Azure
 

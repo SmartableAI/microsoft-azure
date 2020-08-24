@@ -4,7 +4,7 @@ excerpt: "In this learning path, you will hear from top Microsoft executives abo
 type: collection
 price: Free
 length: PT3H22M
-heat: 75
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -23,6 +23,13 @@ items:
 
 levels:
   - Intermediate
+
+items:
+  - courses/microsoft-learn-build-an-ai-ready-culture
+  - courses/microsoft-learn-foster-ai-culture-finance
+  - courses/microsoft-learn-foster-ai-culture-marketing
+  - courses/microsoft-learn-foster-ai-culture-sales
+  - courses/microsoft-learn-foster-ai-culture-customer-service
 
 topics:
   - Azure

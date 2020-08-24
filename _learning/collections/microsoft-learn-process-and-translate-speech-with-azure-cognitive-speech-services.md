@@ -22,6 +22,11 @@ items:
 levels:
   - Intermediate
 
+items:
+  - courses/microsoft-learn-transcribe-speech-input-text
+  - courses/microsoft-learn-synthesize-text-input-speech
+  - courses/microsoft-learn-translate-speech-speech-service
+
 topics:
   - Azure
   - AI

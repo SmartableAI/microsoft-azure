@@ -4,7 +4,7 @@ excerpt: "Interested in building end to end IoT solutions or about Azure IoT, bu
 type: collection
 price: Free
 length: PT5H0M
-heat: 75
+heat: 64
 
 provider:
   name: Microsoft Learn
@@ -27,6 +27,16 @@ items:
 levels:
   - Beginner
   - Intermediate
+
+items:
+  - courses/microsoft-learn-enable-digital-transformation
+  - courses/microsoft-learn-azure-iot-strategy-and-solutions
+  - courses/microsoft-learn-intro-to-iot-hub
+  - courses/microsoft-learn-manage-iot-devices
+  - courses/microsoft-learn-create-your-first-iot-central-app
+  - courses/microsoft-learn-intro-to-iot-edge
+  - courses/microsoft-learn-introduction-lambda-architecture-iot-solutions
+  - courses/microsoft-learn-explore-and-analyze-time-series-insights
 
 topics:
   - Azure

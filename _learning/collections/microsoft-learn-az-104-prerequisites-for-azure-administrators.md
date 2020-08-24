@@ -4,7 +4,7 @@ excerpt: "If you're an IT Administrator that's new to Azure and need to prepare 
 type: collection
 price: Free
 length: PT6H30M
-heat: 93
+heat: 88
 
 provider:
   name: Microsoft Learn
@@ -27,6 +27,17 @@ items:
 
 levels:
   - Beginner
+
+items:
+  - courses/microsoft-learn-intro-to-governance
+  - courses/microsoft-learn-introduction-to-azure-virtual-machines
+  - courses/microsoft-learn-network-fundamentals
+  - courses/microsoft-learn-network-fundamentals-2
+  - courses/microsoft-learn-control-azure-services-with-cli
+  - courses/microsoft-learn-automate-azure-tasks-with-powershell
+  - courses/microsoft-learn-intro-to-azure-ad
+  - courses/microsoft-learn-intro-to-docker-containers
+  - courses/microsoft-learn-choose-storage-approach-in-azure
 
 topics:
   - Azure

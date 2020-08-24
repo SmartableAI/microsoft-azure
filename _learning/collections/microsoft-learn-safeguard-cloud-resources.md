@@ -22,6 +22,11 @@ items:
 levels:
   - Beginner
 
+items:
+  - courses/microsoft-learn-cmu-monitor-cloud-resources
+  - courses/microsoft-learn-cmu-cloud-security
+  - courses/microsoft-learn-cmu-disaster-recovery-backup
+
 topics:
   - Azure
 

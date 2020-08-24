@@ -4,7 +4,7 @@ excerpt: "Interested in the cloud, but aren't sure what it can do for you? This 
 type: collection
 price: Free
 length: PT9H48M
-heat: 153
+heat: 172
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,20 @@ items:
 
 levels:
   - Beginner
+
+items:
+  - courses/microsoft-learn-principles-cloud-computing
+  - courses/microsoft-learn-create-azure-account
+  - courses/microsoft-learn-welcome-to-azure
+  - courses/microsoft-learn-explore-azure-infrastructure
+  - courses/microsoft-learn-tour-azure-portal-features
+  - courses/microsoft-learn-intro-to-compute
+  - courses/microsoft-learn-intro-to-data-in-azure
+  - courses/microsoft-learn-intro-to-azure-networking
+  - courses/microsoft-learn-introduction-to-security
+  - courses/microsoft-learn-intro-to-governance
+  - courses/microsoft-learn-control-and-organize-with-resource-manager
+  - courses/microsoft-learn-predict-costs-and-optimize-spending
 
 topics:
   - Azure

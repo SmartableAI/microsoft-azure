@@ -4,7 +4,7 @@ excerpt: "Machine learning is at the core of artificial intelligence, and many m
 type: collection
 price: Free
 length: PT3H24M
-heat: 87
+heat: 69
 
 provider:
   name: Microsoft Learn
@@ -22,6 +22,12 @@ items:
 
 levels:
   - Beginner
+
+items:
+  - courses/microsoft-learn-use-automated-machine-learning
+  - courses/microsoft-learn-create-regression-model-azure-machine-learning-designer
+  - courses/microsoft-learn-create-classification-model-with-azure-machine-learning-designer
+  - courses/microsoft-learn-create-clustering-model-azure-machine-learning-designer
 
 topics:
   - Azure

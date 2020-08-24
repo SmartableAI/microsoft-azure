@@ -22,6 +22,11 @@ items:
 levels:
   - Intermediate
 
+items:
+  - courses/microsoft-learn-describe-sql-server-query-plans
+  - courses/microsoft-learn-evaluate-performance-improvements
+  - courses/microsoft-learn-explore-performance-based-design
+
 topics:
   - Azure
   - Databases

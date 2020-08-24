@@ -4,7 +4,7 @@ excerpt: "Learn how to build modern applications using PaaS services for applica
 type: collection
 price: Free
 length: PT6H27M
-heat: 82
+heat: 67
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,16 @@ items:
 
 levels:
   - Intermediate
+
+items:
+  - courses/microsoft-learn-intro-to-containers
+  - courses/microsoft-learn-run-docker-containers-aci
+  - courses/microsoft-learn-azure-container-registry
+  - courses/microsoft-learn-host-a-web-application-with-azure-web-apps
+  - courses/microsoft-learn-run-web-app-background-task-with-webjobs
+  - courses/microsoft-learn-deploy-run-container-app-service
+  - courses/microsoft-learn-intro-to-azure-kubernetes-service
+  - courses/microsoft-learn-work-with-mutable-and-partial-data-in-a-redis-cache
 
 topics:
   - Azure

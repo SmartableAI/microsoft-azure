@@ -22,6 +22,11 @@ items:
 levels:
   - Intermediate
 
+items:
+  - courses/microsoft-learn-aspnet-configurationbuilder
+  - courses/microsoft-learn-aspnet-logging
+  - courses/microsoft-learn-aspnet-session
+
 topics:
   - Azure
   - Compute

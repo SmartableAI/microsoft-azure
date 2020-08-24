@@ -22,6 +22,11 @@ items:
 levels:
   - Beginner
 
+items:
+  - courses/microsoft-learn-explore-non-relational-data-offerings-azure
+  - courses/microsoft-learn-explore-provision-deploy-non-relational-data-services-azure
+  - courses/microsoft-learn-explore-non-relational-data-stores-azure
+
 topics:
   - Azure
 

@@ -4,7 +4,7 @@ excerpt: "In this learning path, find out how to collaborate with others to cont
 type: collection
 price: Free
 length: PT6H45M
-heat: 76
+heat: 61
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,14 @@ items:
 
 levels:
   - Intermediate
+
+items:
+  - courses/microsoft-learn-create-a-build-pipeline
+  - courses/microsoft-learn-implement-code-workflow
+  - courses/microsoft-learn-run-quality-tests-build-pipeline
+  - courses/microsoft-learn-scan-open-source
+  - courses/microsoft-learn-manage-build-dependencies
+  - courses/microsoft-learn-host-build-agent
 
 topics:
   - Azure

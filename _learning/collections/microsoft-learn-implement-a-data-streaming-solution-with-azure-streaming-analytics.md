@@ -21,6 +21,10 @@ items:
 levels:
   - Beginner
 
+items:
+  - courses/microsoft-learn-introduction-to-data-streaming
+  - courses/microsoft-learn-transform-data-with-azure-stream-analytics
+
 topics:
   - Azure
   - Management Tools

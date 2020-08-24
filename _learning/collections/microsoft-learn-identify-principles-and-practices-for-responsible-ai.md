@@ -22,6 +22,11 @@ items:
 levels:
   - Intermediate
 
+items:
+  - courses/microsoft-learn-responsible-ai-guiding-principles
+  - courses/microsoft-learn-responsible-ai-governing-practices
+  - courses/microsoft-learn-microsoft-responsible-ai-practices
+
 topics:
   - Azure
 

@@ -24,6 +24,11 @@ levels:
   - Intermediate
   - Advanced
 
+items:
+  - courses/microsoft-learn-intro-to-iot-edge
+  - courses/microsoft-learn-deploy-prebuilt-module-edge-device
+  - courses/microsoft-learn-set-up-iot-edge-gateway
+
 topics:
   - Azure
   - IoT

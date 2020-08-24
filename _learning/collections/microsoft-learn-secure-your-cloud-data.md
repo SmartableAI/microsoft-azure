@@ -4,7 +4,7 @@ excerpt: "Azure was designed for security and compliance. Learn how to leverage 
 type: collection
 price: Free
 length: PT5H38M
-heat: 85
+heat: 73
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,15 @@ items:
 levels:
   - Beginner
   - Intermediate
+
+items:
+  - courses/microsoft-learn-introduction-to-security
+  - courses/microsoft-learn-top-5-security-items-to-consider
+  - courses/microsoft-learn-configure-security-policies-to-manage-data
+  - courses/microsoft-learn-secure-azure-storage-account
+  - courses/microsoft-learn-configure-and-manage-azure-key-vault
+  - courses/microsoft-learn-secure-azure-resources-with-rbac
+  - courses/microsoft-learn-secure-your-azure-sql-database
 
 topics:
   - Azure

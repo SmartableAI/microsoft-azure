@@ -4,7 +4,7 @@ excerpt: "In this learning path, discover Azure Functions that create event-driv
 type: collection
 price: Free
 length: PT8H11M
-heat: 87
+heat: 76
 
 provider:
   name: Microsoft Learn
@@ -29,6 +29,18 @@ items:
 levels:
   - Beginner
   - Intermediate
+
+items:
+  - courses/microsoft-learn-choose-azure-service-to-integrate-and-automate-business-processes
+  - courses/microsoft-learn-create-serverless-logic-with-functions
+  - courses/microsoft-learn-execute-azure-function-with-triggers
+  - courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings
+  - courses/microsoft-learn-azure-create-long-running-serverless-workflow-with-durable-functions
+  - courses/microsoft-learn-develop-test-deploy-azure-functions-core-tools
+  - courses/microsoft-learn-develop-test-deploy-azure-functions-with-visual-studio
+  - courses/microsoft-learn-monitor-github-events-with-a-function-triggered-by-a-webhook
+  - courses/microsoft-learn-azure-functions-and-signalr
+  - courses/microsoft-learn-build-serverless-api-with-functions-api-management
 
 topics:
   - Azure

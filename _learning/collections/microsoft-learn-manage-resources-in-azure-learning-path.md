@@ -4,7 +4,7 @@ excerpt: "Learn how to work with the Azure command line and web portal to create
 type: collection
 price: Free
 length: PT5H2M
-heat: 93
+heat: 74
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,14 @@ items:
 
 levels:
   - Beginner
+
+items:
+  - courses/microsoft-learn-align-requirements-in-azure
+  - courses/microsoft-learn-control-azure-services-with-cli
+  - courses/microsoft-learn-automate-azure-tasks-with-powershell
+  - courses/microsoft-learn-predict-costs-and-optimize-spending
+  - courses/microsoft-learn-control-and-organize-with-resource-manager
+  - courses/microsoft-learn-move-azure-resources-to-another-resource-group
 
 topics:
   - Azure

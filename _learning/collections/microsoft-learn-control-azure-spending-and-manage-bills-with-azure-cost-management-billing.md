@@ -4,7 +4,7 @@ excerpt: "Learn how to monitor and control your Azure spending and optimize the 
 type: collection
 price: Free
 length: PT2H45M
-heat: 82
+heat: 66
 
 provider:
   name: Microsoft Learn
@@ -22,6 +22,12 @@ items:
 
 levels:
   - Beginner
+
+items:
+  - courses/microsoft-learn-azure-well-architected-cost-optimization
+  - courses/microsoft-learn-predict-costs-and-optimize-spending
+  - courses/microsoft-learn-analyze-costs-create-budgets-azure-cost-management
+  - courses/microsoft-learn-save-money-with-azure-reserved-instances
 
 topics:
   - Azure

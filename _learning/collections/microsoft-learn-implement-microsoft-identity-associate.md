@@ -4,7 +4,7 @@ excerpt: "The Microsoft identity platform is an evolution of the Azure Active Di
 type: collection
 price: Free
 length: PT5H42M
-heat: 75
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -23,6 +23,13 @@ items:
 
 levels:
   - Intermediate
+
+items:
+  - courses/microsoft-learn-getting-started-identity
+  - courses/microsoft-learn-identity-application-types
+  - courses/microsoft-learn-identity-permissions-consent
+  - courses/microsoft-learn-identity-secure-custom-api
+  - courses/microsoft-learn-identity-users-groups-approles
 
 topics:
   - Azure

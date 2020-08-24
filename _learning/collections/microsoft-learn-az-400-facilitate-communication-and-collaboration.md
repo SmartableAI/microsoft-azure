@@ -4,7 +4,7 @@ excerpt: "Learn how DevOps capabilities such as continuous planning and continuo
 type: collection
 price: Free
 length: PT2H13M
-heat: 76
+heat: 61
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,14 @@ items:
 
 levels:
   - Beginner
+
+items:
+  - courses/microsoft-learn-analyze-devops-continuous-planning-intergration
+  - courses/microsoft-learn-introduce-foundation-pillars-devops
+  - courses/microsoft-learn-characterize-devops-continous-collaboration-improvement
+  - courses/microsoft-learn-explain-devops-continous-delivery-quality
+  - courses/microsoft-learn-review-planning-managing-costs
+  - courses/microsoft-learn-route-system-feedback
 
 topics:
   - Azure

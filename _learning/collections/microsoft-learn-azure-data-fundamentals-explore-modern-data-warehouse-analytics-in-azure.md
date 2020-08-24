@@ -4,7 +4,7 @@ excerpt: "Learn the fundamentals of database concepts in a cloud environment, ge
 type: collection
 price: Free
 length: PT1H55M
-heat: 54
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -21,6 +21,11 @@ items:
 
 levels:
   - Beginner
+
+items:
+  - courses/microsoft-learn-examine-components-of-modern-data-warehouse
+  - courses/microsoft-learn-explore-data-ingestion-azure
+  - courses/microsoft-learn-explore-data-storage-processing-azure
 
 topics:
   - Azure

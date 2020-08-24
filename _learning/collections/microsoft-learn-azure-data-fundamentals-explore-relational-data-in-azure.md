@@ -22,6 +22,11 @@ items:
 levels:
   - Beginner
 
+items:
+  - courses/microsoft-learn-explore-relational-data-offerings
+  - courses/microsoft-learn-explore-provision-deploy-relational-database-offerings-azure
+  - courses/microsoft-learn-query-relational-data-azure
+
 topics:
   - Azure
 

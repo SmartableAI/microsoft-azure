@@ -4,7 +4,7 @@ excerpt: "Interested in building end to end IoT solutions or about Azure IoT, bu
 type: collection
 price: Free
 length: PT5H29M
-heat: 75
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,14 @@ items:
 levels:
   - Beginner
   - Intermediate
+
+items:
+  - courses/microsoft-learn-manage-iot-devices
+  - courses/microsoft-learn-automatically-provision-iot-devices-securely-and-at-scale-with-dps
+  - courses/microsoft-learn-data-anomaly-search-using-iot-hub
+  - courses/microsoft-learn-remotely-monitor-and-control-devices-with-azure-iot-hub
+  - courses/microsoft-learn-automate-iot-devices-management-with-azure-iot-hub
+  - courses/microsoft-learn-manage-your-azure-iot-hub-with-metrics-alerts
 
 topics:
   - Azure

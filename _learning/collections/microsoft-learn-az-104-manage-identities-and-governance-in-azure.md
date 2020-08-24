@@ -4,7 +4,7 @@ excerpt: "Learn how to manage Azure Active Directory objects, role-based access 
 type: collection
 price: Free
 length: PT7H17M
-heat: 81
+heat: 66
 
 provider:
   name: Microsoft Learn
@@ -29,6 +29,19 @@ items:
 
 levels:
   - Beginner
+
+items:
+  - courses/microsoft-learn-create-users-and-groups-in-azure-active-directory
+  - courses/microsoft-learn-manage-users-and-groups-in-aad
+  - courses/microsoft-learn-allow-users-to-reset-their-password
+  - courses/microsoft-learn-manage-subscription-access-azure-rbac
+  - courses/microsoft-learn-secure-azure-resources-with-rbac
+  - courses/microsoft-learn-create-custom-roles-rbac
+  - courses/microsoft-learn-control-and-organize-with-resource-manager
+  - courses/microsoft-learn-predict-costs-and-optimize-spending
+  - courses/microsoft-learn-analyze-costs-create-budgets-azure-cost-management
+  - courses/microsoft-learn-move-azure-resources-to-another-resource-group
+  - courses/microsoft-learn-manage-device-identity-ad-join
 
 topics:
   - Azure

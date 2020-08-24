@@ -4,7 +4,7 @@ excerpt: "Learn how to monitor resources by using Azure Monitor and implement ba
 type: collection
 price: Free
 length: PT6H25M
-heat: 79
+heat: 70
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,16 @@ items:
 
 levels:
   - Beginner
+
+items:
+  - courses/microsoft-learn-design-monitoring-strategy-on-azure
+  - courses/microsoft-learn-monitor-azure-vm-using-diagnostic-data
+  - courses/microsoft-learn-analyze-infrastructure-with-azure-monitor-logs
+  - courses/microsoft-learn-incident-response-with-alerting-on-azure
+  - courses/microsoft-learn-capture-page-load-times-application-insights
+  - courses/microsoft-learn-protect-virtual-machines-with-azure-backup
+  - courses/microsoft-learn-protect-infrastructure-with-azure-site-recovery
+  - courses/microsoft-learn-azure-well-architected-reliability
 
 topics:
   - Azure

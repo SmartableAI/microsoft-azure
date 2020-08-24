@@ -4,7 +4,7 @@ excerpt: "Node.js provides a large set of built-in APIs that help you build vari
 type: collection
 price: Free
 length: PT2H44M
-heat: 78
+heat: 63
 
 provider:
   name: Microsoft Learn
@@ -23,6 +23,13 @@ items:
 
 levels:
   - Beginner
+
+items:
+  - courses/microsoft-learn-intro-to-nodejs
+  - courses/microsoft-learn-create-nodejs-project-dependencies
+  - courses/microsoft-learn-debug-nodejs
+  - courses/microsoft-learn-nodejs-files
+  - courses/microsoft-learn-build-web-api-nodejs-express
 
 topics:
   - Azure

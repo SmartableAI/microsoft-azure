@@ -4,7 +4,7 @@ excerpt: "Building Open Source Software (OSS) Analytics Solutions with Azure HDI
 type: collection
 price: Free
 length: PT4H36M
-heat: 75
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,14 @@ items:
 
 levels:
   - Intermediate
+
+items:
+  - courses/microsoft-learn-introduction-open-source-analytics-offering
+  - courses/microsoft-learn-hdinsight-configuration-to-build-open-source-analytical-solutions
+  - courses/microsoft-learn-creating-and-configuring-hdinsight-cluster
+  - courses/microsoft-learn-perform-advanced-streaming-data-transformations-with-spark-kafka
+  - courses/microsoft-learn-perform-zero-etl-analytics-hdinsight-interactive-query
+  - courses/microsoft-learn-manage-enterprise-security-in-hdinsight
 
 topics:
   - Azure

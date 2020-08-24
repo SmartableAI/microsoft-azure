@@ -4,7 +4,7 @@ excerpt: "Determine a migration approach for on-premises workloads and databases
 type: collection
 price: Free
 length: PT3H14M
-heat: 84
+heat: 67
 
 provider:
   name: Microsoft Learn
@@ -22,6 +22,12 @@ items:
 
 levels:
   - Intermediate
+
+items:
+  - courses/microsoft-learn-design-your-migration-to-azure
+  - courses/microsoft-learn-prepare-onpremises-workloads-migration-azure
+  - courses/microsoft-learn-migrate-onpremises-workloads-azure
+  - courses/microsoft-learn-migrate-sql-server-relational-data
 
 topics:
   - Azure

@@ -22,6 +22,11 @@ items:
 levels:
   - Intermediate
 
+items:
+  - courses/microsoft-learn-describe-high-availability-disaster-recovery-strategies
+  - courses/microsoft-learn-explore-iaas-paas-platform-tools-for-ha-dr
+  - courses/microsoft-learn-backup-restore-databases
+
 topics:
   - Azure
   - Databases

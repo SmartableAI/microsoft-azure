@@ -4,7 +4,7 @@ excerpt: "Learn how to design and build secure, scalable, high-performing soluti
 type: collection
 price: Free
 length: PT5H38M
-heat: 82
+heat: 66
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,14 @@ items:
 
 levels:
   - Beginner
+
+items:
+  - courses/microsoft-learn-azure-well-architected-introduction
+  - courses/microsoft-learn-azure-well-architected-cost-optimization
+  - courses/microsoft-learn-azure-well-architected-operational-excellence
+  - courses/microsoft-learn-azure-well-architected-performance-efficiency
+  - courses/microsoft-learn-azure-well-architected-reliability
+  - courses/microsoft-learn-azure-well-architected-security
 
 topics:
   - Azure

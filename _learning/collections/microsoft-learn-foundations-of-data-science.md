@@ -4,7 +4,7 @@ excerpt: "This path is intended for beginners that are looking to learn the basi
 type: collection
 price: Free
 length: PT12H53M
-heat: 75
+heat: 61
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,20 @@ items:
 
 levels:
   - Beginner
+
+items:
+  - courses/microsoft-learn-learn-data-science-method
+  - courses/microsoft-learn-introduction-python-using-datascience-library
+  - courses/microsoft-learn-create-manipulate-tables-using-datascience-library
+  - courses/microsoft-learn-design-plot-graphs-python
+  - courses/microsoft-learn-introduction-probability
+  - courses/microsoft-learn-simulate-generate-empirical-distributions-python
+  - courses/microsoft-learn-test-hypothesis-by-simulating-statistics
+  - courses/microsoft-learn-compare-two-samples-by-bootstrapping
+  - courses/microsoft-learn-understand-normal-curve
+  - courses/microsoft-learn-make-predictions-with-linear-regression
+  - courses/microsoft-learn-simulate-distribution-regression-coefficients
+  - courses/microsoft-learn-predict-classes-with-knn-classifier
 
 topics:
   - Azure

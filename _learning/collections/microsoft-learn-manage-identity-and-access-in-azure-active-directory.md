@@ -4,7 +4,7 @@ excerpt: "Learn how to work with subscriptions, users, and groups by configuring
 type: collection
 price: Free
 length: PT6H8M
-heat: 81
+heat: 117
 
 provider:
   name: Microsoft Learn
@@ -28,6 +28,17 @@ items:
 levels:
   - Beginner
   - Intermediate
+
+items:
+  - courses/microsoft-learn-introduction-to-security
+  - courses/microsoft-learn-create-azure-account
+  - courses/microsoft-learn-manage-users-and-groups-in-aad
+  - courses/microsoft-learn-create-users-and-groups-in-azure-active-directory
+  - courses/microsoft-learn-secure-app-with-oidc-and-azure-ad
+  - courses/microsoft-learn-secure-aad-users-with-mfa
+  - courses/microsoft-learn-manage-device-identity-ad-join
+  - courses/microsoft-learn-allow-users-to-reset-their-password
+  - courses/microsoft-learn-add-custom-domain-name-azure-active-directory
 
 topics:
   - Azure

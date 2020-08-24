@@ -4,7 +4,7 @@ excerpt: "Learn about the tools and services available on Azure to ensure your r
 type: collection
 price: Free
 length: PT6H37M
-heat: 79
+heat: 63
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,16 @@ items:
 
 levels:
   - Intermediate
+
+items:
+  - courses/microsoft-learn-resolve-threats-with-azure-security-center
+  - courses/microsoft-learn-secure-your-azure-virtual-machine-disks
+  - courses/microsoft-learn-manage-secrets-with-azure-key-vault
+  - courses/microsoft-learn-secure-azure-resources-with-rbac
+  - courses/microsoft-learn-end-to-end-encryption-with-app-gateway
+  - courses/microsoft-learn-secure-data-at-rest
+  - courses/microsoft-learn-secure-your-azure-sql-database
+  - courses/microsoft-learn-monitor-report-aad-security-events
 
 topics:
   - Azure

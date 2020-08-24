@@ -22,6 +22,11 @@ items:
 levels:
   - Advanced
 
+items:
+  - courses/microsoft-learn-implement-azure-vm-based-sap-solutions
+  - courses/microsoft-learn-migrate-sap-workloads-azure
+  - courses/microsoft-learn-maintain-azure-sap-workloads
+
 topics:
   - Azure
 

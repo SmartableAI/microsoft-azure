@@ -4,7 +4,7 @@ excerpt: "Dive deeper into how the cloud works by understanding virtualization. 
 type: collection
 price: Free
 length: PT3H22M
-heat: 75
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,14 @@ items:
 levels:
   - Beginner
   - Intermediate
+
+items:
+  - courses/microsoft-learn-cmu-share-cloud-resources
+  - courses/microsoft-learn-cmu-virtualization
+  - courses/microsoft-learn-cmu-virtualize-computing-power
+  - courses/microsoft-learn-cmu-virtualize-memory
+  - courses/microsoft-learn-cmu-virtualize-input-output
+  - courses/microsoft-learn-cmu-storage-network-virtualization
 
 topics:
   - Azure

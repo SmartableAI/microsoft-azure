@@ -4,7 +4,7 @@ excerpt: "The Virtual machine and app migration using Azure Migrate learning pat
 type: collection
 price: Free
 length: PT1H35M
-heat: 76
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -22,6 +22,12 @@ items:
 
 levels:
   - Intermediate
+
+items:
+  - courses/microsoft-learn-m365-azure-migrate-introduction
+  - courses/microsoft-learn-m365-azure-migrate-set-up
+  - courses/microsoft-learn-m365-azure-migrate-discover-assess
+  - courses/microsoft-learn-m365-azure-migrate-replicate-virtual-servers
 
 topics:
   - Azure
