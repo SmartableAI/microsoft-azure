@@ -1,42 +1,32 @@
 ---
 category: news
-title: "BitDam Advanced Threat Protection now available on Microsoft Azure Marketplace"
-excerpt: "BitDam announced the availability of its Advanced Threat Protection in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. BitDam customers can now take advantage of the productive and trusted Azure cloud ..."
-publishedDateTime: 2020-07-22T23:20:00Z
-webUrl: "https://www.helpnetsecurity.com/2020/07/23/bitdam-microsoft-azure/"
+title: "AmploFly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
+excerpt: "Amplo Global Inc announced today that its AI-powered platform is now available on the Microsoft AppSource and Microsoft Azure Marketplace – their online stores providing applications and services for use on Azure."
+publishedDateTime: 2020-08-24T07:06:00Z
+webUrl: "https://www.marketwatch.com/press-release/amplofly40-now-available-on-microsoft-appsource-and-azure-marketplace-2020-08-21"
 type: article
-quality: 33
-heat: -1
-published: false
+quality: 77
+heat: 497
+published: true
 
 provider:
-  name: Help Net Security
-  domain: helpnetsecurity.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
-    width: 304
-    height: 430
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
-  - title: "AmploFly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
-    excerpt: "Amplo Global Inc announced today that its AI-powered platform is now available on the Microsoft AppSource and Microsoft Azure Marketplace – their online stores providing applications and services for use on Azure."
-    publishedDateTime: 2020-08-24T07:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/amplofly40-now-available-on-microsoft-appsource-and-azure-marketplace-2020-08-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 77
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Commvault's Metallic SaaS Data Protection Now Available in the Microsoft Azure Marketplace"
     excerpt: "PRNewswire/ -- Commvault (NASDAQ: CVLT), a recognized global enterprise software leader in the management of data across cloud and on-premises environments, has announced the availability of Metallic's Software-as-a-Service (SaaS) data protection portfolio in the Microsoft Azure Marketplace,"
     publishedDateTime: 2020-08-22T09:05:00Z
@@ -195,6 +185,20 @@ related:
         width: 1198
         height: 628
         isCached: true
+  - title: "BitDam Advanced Threat Protection now available on Microsoft Azure Marketplace"
+    excerpt: "BitDam announced the availability of its Advanced Threat Protection in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. BitDam customers can now take advantage of the productive and trusted Azure cloud ..."
+    publishedDateTime: 2020-07-22T23:20:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/07/23/bitdam-microsoft-azure/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 33
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
+        width: 304
+        height: 430
+        isCached: true
   - title: "Greater Than Make Enerfy Loyalty Now Available in the Microsoft Azure Marketplace"
     excerpt: "Greater Than, today announced the availability of the cloud-based loyalty program Enerfy Loyalty in the Microsoft Azure Marketplace,"
     publishedDateTime: 2020-06-11T10:01:00Z
@@ -306,6 +310,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "KvDvGJ4CDn1PsoGzvrwIDpgNmPmblSh/EQalRjtOnMnd9hLU000V0xUbsD+dkiwGdnk6ezTtVy7VCi8+Bs9XhhDozoekANh6Fzci4QFspTYGqdKBC+2qQaU3HBZfNHsYtxMaBoYmP+wGZmbPVBIE0Xq3zEpWZhkHSuJFbo+BZgoxvh9bFL42RKPGdGxwNHNVzDeTAe/3y4/JQhwsF2bUXOlPWLOVh3957d85yvtaRLm+nEMZbDX/7+AK78zGJs17cjRAdtu4lfG+pJNum/XXjl3x8Nvl0C1L0vR+pdHvQTWzjRyO0yZkYSARGw/kkg4NQ9XQ3IV9b1i0dAhlV7Mad+rmnu3YhXcr9fkRyj2Q5248jV86QFqkbaADg1zrlGg7MMEfZAXVNLHQZVpbc7ZCSOyxlXFYV/GP7fxhsy9AaSO4UF9NP2cx91RU8hTVKmYvxhel8Mh/niYjFcIr55kVHWrmZRP+xsLn0xYfHpXtWIZHW1G4NqKbKp2kWHTeRvECG6Bf8WFsx3YvtskcoyJ8/A==;9m7lPDfQz7Rv8NzPgr2Qhg=="
+secured: "ZGpYZfb+rX8SF1gyWTwKxgX4z7yQRrI7IIjqfhcSMV+e0S5TUQxPt5mNbgd+ABDXJOSD1KXMWDopdMlHNhGlPoAs/E7asVlWQjhIg/kwIvLADkDuiWx4eIpgkk7THxn3QGyGqjOMGTg/T6MbEK509T1l5sBGiMXYscJ/gbkgUweQ9H/zSZ7pqTi3/evJj045M01RKaumUUpHvv0xNeGiO+gsnjPEo73Bmf+7k1df2A5CPA+xJoWm/QsEie1YTCPSgzEzYbe39Og4scHULgheMeT0mdtaTmYtFUZLv9aBjLia0hRmomBjibQthGh1NHJramHmpWkdh6CCWgUzZgrZxw==;Etpoj9rONTMDqs4mOZeQQg=="
 ---
 
