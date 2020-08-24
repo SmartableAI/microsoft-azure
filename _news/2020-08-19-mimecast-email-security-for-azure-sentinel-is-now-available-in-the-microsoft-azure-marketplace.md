@@ -168,9 +168,9 @@ related:
         height: 785
         isCached: true
   - title: "Riversand MDM Platform Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Sajan Parihar, Senior Director, Microsoft Azure Platform at Microsoft Corp said, “We’re pleased to welcome Riversand to the Microsoft Azure Marketplace, which gives our partners great exposure ..."
+    excerpt: "HOUSTON--(BUSINESS WIRE)--Riversand, a provider of cloud-native Master Data Management (MDM) and Product Information Management (PIM) software solutions, announced today the availability of Riversand MDM Platform in the Microsoft Azure Marketplace and ..."
     publishedDateTime: 2020-08-18T11:07:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200818005296/en/Riversand-MDM-Platform-Microsoft-Azure-Marketplace"
+    webUrl: "https://www.businesswire.com/news/home/20200818005296/en/"
     type: article
     provider:
       name: Business Wire
@@ -306,6 +306,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "QB6aPDkoQnq/I8x7i32xREUeyfhIKS/YPnx/Q6VDN36mCz4ye2/aHwJ2hwokGMzxusiA6apR1XFjgNmE/Tx6G2vJNkwUm+//5nHdy/xJx4eyHzUflxVm6fReG8BLiR02l5StGjciflU9CgDOvxj8HwvqJxjlGgOEFVHL1Wmec/2myaNat3HkeUE97z1SigPiIiis7/PvchPVSqxcFbbA2RwQGfyElP8WusGl8UQWzF9ZFgA7rDpvnNzbdiuvhPY0E/MEHvYkPMyHZvElbEjzhBuf20uH7wcLJ8Y4w07FmlJNLS8pQptPc+XZcldnUZhw83v+FqQtSYVifzLYtaHUdg==;gxxovInH6XC/8kPJfWzQMA=="
+secured: "AJ9CGts+YmLrkJCdxXxexMVUDsZYo+GBwHrdOBMEBNZ4eYB2z4YgU75Emv3sYWXdhoXUufaQn8KXM8jKnoj2NdEiVdlli3TRUrZJr805ovy5vl0zviPp9aGHhU9z8ODRZRiF0MfEsUiYoHbvVKBfjAfqeRFpoIz/uDYRvGCfSm3eiEtQPmft4vinrTm/AJtlYyAj4bKPLa7PVr4d+yPWQIc32+cnX+iEJjOZLaCRI6X4en4lgZ006alJKAHEtV6M+7nRyY5QY+824t9IPlBUZ2lVLCQdasv3ImLZl26V9BcygOs6OXPbtDQnaL48iquBwwuAjJSvBSKbkY3uJCnpqg==;zHKaJ6DWryPKirWObE250g=="
 ---
 

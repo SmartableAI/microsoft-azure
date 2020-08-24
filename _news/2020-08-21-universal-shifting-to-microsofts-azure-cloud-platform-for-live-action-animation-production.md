@@ -3,7 +3,7 @@ category: news
 title: "Universal Shifting to Microsoft’s Azure Cloud Platform for Live-Action, Animation Production"
 excerpt: "Universal Filmed Entertainment Group has its head in the cloud — and now it’s going to push its production teams there. The company has embarked on a major multiyear strategy to move its"
 publishedDateTime: 2020-08-21T16:00:00Z
-webUrl: "https://variety.com/2020/digital/news/universal-microsoft-azure-cloud-production-1234743076/#!"
+webUrl: "https://variety.com/2020/digital/news/universal-microsoft-azure-cloud-production-1234743076/"
 ampWebUrl: "https://variety.com/2020/digital/news/universal-microsoft-azure-cloud-production-1234743076/amp/"
 cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/digital/news/universal-microsoft-azure-cloud-production-1234743076/amp/"
 type: article
@@ -90,6 +90,6 @@ related:
         height: 512
         isCached: true
 
-secured: "Q+9upGniFg2MAunepgtDoC7RwW4as2rJhR6R6+Hh4AkaYgBLXIqzvPBLbqk1pgP9F1foMPkO1OZiQFkU49AvdGbFyMQKH6WMZtK7VujyBZbs/MvmDUZY9orO8axxGMumT2Z0lyQhBVm64CbbBuMnWI1XZhIlfPl/QQxNKso8mXWW1w3t9Oe7AKRzjO6udEbFXclYUlnw0a3ZOGBCi6K0uJNvJ1McDyAvAmnjjIyQ6OgLb/wMpznEA0OQCDU4FJSPt/r7UazApEa+275rAsrwN8MKd3g53iuQ6koFKZMUDG63Yf68Hxe4SQNEdQNQQGzWco4fJrpcaTsGvEPToXtshg==;HogX48aprnYaHo13ZE4V4Q=="
+secured: "MqXSPW+ygTZ6fICyeQgSzippiUkmeL35jqHxOfJEz1YrmiadWyZuAJP8h7fBjKKPYcXkMqkvI1K9/b8PLS7tzwbSDX+C3E4T+z/3kN1+hZLNhE5sjfdLMk+gzfGWztmgcNh5sdRXrn7XAp1qxV8KDWFZq1s+mRiOgwyNhv2cPjoerc2TMtTeTk1XMZ5vnvlbZvy5QOdP2KlsU8rqhnQHCA5iwQKQJYM20UUeuxwHbVWLY9MgdMeh2zJoiPuS+CVWQBTfuR2Q1+Lpwdfxw2unst4zCBhSfEvXPKOsQ3jwkshu259wWKtAloFtqJwf5AmWiZPB1Gc7+2DHEfhgjy5BWA==;wBZjfR4PNuYJDIdX2zassw=="
 ---
 
