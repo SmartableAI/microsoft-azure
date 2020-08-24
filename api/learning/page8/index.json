@@ -4,49 +4,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-troubleshoot-azure-network-infrastructure.md",
-      "title": "Monitor and troubleshoot your end-to-end Azure network infrastructure by using network monitoring tools",
-      "excerpt": "Use Network Watcher tools, diagnostics, and logs to help find and fix networking issues in your Azure infrastructure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-troubleshoot-azure-network-infrastructure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-azure-network-infrastructure/",
-      "length": "37 mins",
-      "ratings": {
-        "count": 1816,
-        "average": 4.572687
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/troubleshoot-azure-network-infrastructure-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Monitor and troubleshoot your end-to-end Azure network infrastructure by using network monitoring tools",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-ai-strategy-to-create-business-value.md",
       "title": "Define an AI strategy to create business value",
       "excerpt": "AI has the capacity to empower the whole world to achieve more. From empowering technical development teams to mobilizing an entire organization to unlock the true potential of AI, enterprises need to think strategically about AI – and they need to start today.",
@@ -54,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
       "length": "70 mins",
       "ratings": {
-        "count": 2100,
-        "average": 4.6980953
+        "count": 2101,
+        "average": 4.698239
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -97,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/assess-your-development-process/",
       "length": "PT19M",
       "ratings": {
-        "count": 6493,
-        "average": 4.7061453
+        "count": 6496,
+        "average": 4.7059727
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -139,8 +96,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-azure-tasks-with-powershell/",
       "length": "71 mins",
       "ratings": {
-        "count": 4366,
-        "average": 4.7111773
+        "count": 4367,
+        "average": 4.7110143
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -181,8 +138,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-app-with-scale-sets/",
       "length": "57 mins",
       "ratings": {
-        "count": 1344,
-        "average": 4.575893
+        "count": 1345,
+        "average": 4.5747213
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -346,8 +303,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/",
       "length": "37 mins",
       "ratings": {
-        "count": 1025,
-        "average": 4.72
+        "count": 1026,
+        "average": 4.720273
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -432,8 +389,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
       "length": "56 mins",
       "ratings": {
-        "count": 1645,
-        "average": 4.44924
+        "count": 1647,
+        "average": 4.4493017
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -520,8 +477,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-github-events-with-a-function-triggered-by-a-webhook/",
       "length": "53 mins",
       "ratings": {
-        "count": 1490,
-        "average": 4.6275167
+        "count": 1491,
+        "average": 4.6277666
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -557,6 +514,47 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-principles-cloud-computing-dynamics-365-deployment.md",
+      "title": "Principles of cloud computing and deployment",
+      "excerpt": "Principles of cloud computing and deployment",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-principles-cloud-computing-dynamics-365-deployment/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing-dynamics-365-deployment/",
+      "length": "PT45M",
+      "ratings": {
+        "count": 1693,
+        "average": 4.6881275
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/principles-cloud-computing-deployment-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-run-docker-containers-aci.md",
       "title": "Run Docker containers with Azure Container Instances",
       "excerpt": "Learn how to run containerized apps using Docker containers with Azure Container Instances (ACI).",
@@ -564,8 +562,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
       "length": "48 mins",
       "ratings": {
-        "count": 2254,
-        "average": 4.624667
+        "count": 2255,
+        "average": 4.62439
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -608,8 +606,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-and-share-with-azure-files/",
       "length": "51 mins",
       "ratings": {
-        "count": 980,
-        "average": 4.609184
+        "count": 981,
+        "average": 4.6085625
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -758,8 +756,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/allow-users-reset-their-password/",
       "length": "31 mins",
       "ratings": {
-        "count": 1286,
-        "average": 4.705288
+        "count": 1287,
+        "average": 4.705517
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -968,8 +966,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-introduction/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 738,
-        "average": 4.7181573
+        "count": 739,
+        "average": 4.7185388
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1053,8 +1051,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
       "length": "70 mins",
       "ratings": {
-        "count": 2508,
-        "average": 4.5685806
+        "count": 2509,
+        "average": 4.5687523
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1099,8 +1097,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-an-agile-approach/",
       "length": "PT40M",
       "ratings": {
-        "count": 5106,
-        "average": 4.74481
+        "count": 5109,
+        "average": 4.7447643
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1141,8 +1139,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
       "length": "56 mins",
       "ratings": {
-        "count": 1501,
-        "average": 4.5789475
+        "count": 1503,
+        "average": 4.578842
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1184,8 +1182,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
       "length": "94 mins",
       "ratings": {
-        "count": 3411,
-        "average": 4.5523305
+        "count": 3413,
+        "average": 4.5523
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1228,8 +1226,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-vms-from-vhd-templates/",
       "length": "42 mins",
       "ratings": {
-        "count": 1439,
-        "average": 4.6824183
+        "count": 1440,
+        "average": 4.68125
       },
       "provider": {
         "name": "Microsoft Learn",

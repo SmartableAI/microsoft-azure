@@ -4,6 +4,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-intro-to-azure-kubernetes-service.md",
+      "title": "Introduction to Azure Kubernetes Service",
+      "excerpt": "Determine the types of business problems that can be solved using Azure Kubernetes Service. Describe the benefits of container orchestration with features like deployment management, automatic updates, and self-healing.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-kubernetes-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/",
+      "length": "25 mins",
+      "ratings": {
+        "count": 3143,
+        "average": 4.604836
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 115,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-kubernetes-service-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Introduction to Azure Kubernetes Service",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-compute.md",
       "title": "Core Cloud Services - Azure compute options",
       "excerpt": "Review the Azure compute services and explore how they can solve common business needs.",
@@ -11,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
       "length": "38 mins",
       "ratings": {
-        "count": 59911,
-        "average": 4.7075996
+        "count": 59924,
+        "average": 4.707513
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -553,6 +596,119 @@
         "Azure",
         "Compute",
         "Management Tools",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-introduction-to-kubernetes-on-azure.md",
+      "title": "Introduction to Kubernetes on Azure",
+      "excerpt": "Learn about the basics of Docker containers, container orchestration with Kubernetes, and managed clusters on Azure Kubernetes Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-introduction-to-kubernetes-on-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-introduction-to-kubernetes-on-azure/",
+      "length": "PT1H50M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Introduction to Docker containers",
+          "excerpt": "Describes the benefits of using Docker containers as a containerization platform. Discuss the infrastructure provided by the Docker platform.",
+          "heat": 59,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/intro-to-docker-containers-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Introduction to Docker containers",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Containers"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Introduction to Kubernetes",
+          "excerpt": "Determine the types of business problems that can be solved using Kubernetes. Describe the benefits of container orchestration with features like deployment management, automatic updates, and self-healing.",
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/introduction-to-kubernetes-social.png",
+              "width": 640,
+              "height": 320,
+              "title": "Introduction to Kubernetes",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Containers"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Introduction to Azure Kubernetes Service",
+          "excerpt": "Determine the types of business problems that can be solved using Azure Kubernetes Service. Describe the benefits of container orchestration with features like deployment management, automatic updates, and self-healing.",
+          "heat": 115,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-kubernetes-service-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Introduction to Azure Kubernetes Service",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Containers"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Deploy a containerized application on Azure Kubernetes Service",
+          "excerpt": "Explore how to create and deploy a containerized application using Azure Kubernetes Service using declarative manifest files.",
+          "heat": 50,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Containers"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 70,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-docker-containers-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Introduction to Docker containers",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
         "Containers"
       ]
     },
@@ -1185,119 +1341,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-introduction-to-kubernetes-on-azure.md",
-      "title": "Introduction to Kubernetes on Azure",
-      "excerpt": "Learn about the basics of Docker containers, container orchestration with Kubernetes, and managed clusters on Azure Kubernetes Service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-introduction-to-kubernetes-on-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-introduction-to-kubernetes-on-azure/",
-      "length": "PT1H50M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Introduction to Docker containers",
-          "excerpt": "Describes the benefits of using Docker containers as a containerization platform. Discuss the infrastructure provided by the Docker platform.",
-          "heat": 59,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/intro-to-docker-containers-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Introduction to Docker containers",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Containers"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Introduction to Kubernetes",
-          "excerpt": "Determine the types of business problems that can be solved using Kubernetes. Describe the benefits of container orchestration with features like deployment management, automatic updates, and self-healing.",
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/introduction-to-kubernetes-social.png",
-              "width": 640,
-              "height": 320,
-              "title": "Introduction to Kubernetes",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Containers"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Introduction to Azure Kubernetes Service",
-          "excerpt": "Determine the types of business problems that can be solved using Azure Kubernetes Service. Describe the benefits of container orchestration with features like deployment management, automatic updates, and self-healing.",
-          "heat": 55,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-kubernetes-service-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Introduction to Azure Kubernetes Service",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Containers"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Deploy a containerized application on Azure Kubernetes Service",
-          "excerpt": "Explore how to create and deploy a containerized application using Azure Kubernetes Service using declarative manifest files.",
-          "heat": 50,
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Containers"
-          ]
-        }
-      ],
-      "size": 5,
-      "heat": 66,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-docker-containers-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Introduction to Docker containers",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-ai-edge-engineer.md",
       "title": "AI edge engineer",
       "excerpt": "The AI edge engineer learning path takes an engineering-led approach for the deployment of AI to edge devices within the framework of the cloud. This learning path helps the participants to learn skills in AI (broadly covering machine learning and deep learning algorithms), IoT and DevOps.",
@@ -1474,8 +1517,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/",
       "length": "46 mins",
       "ratings": {
-        "count": 3559,
-        "average": 4.629671
+        "count": 3561,
+        "average": 4.6295986
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1519,8 +1562,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
       "length": "48 mins",
       "ratings": {
-        "count": 2254,
-        "average": 4.624667
+        "count": 2255,
+        "average": 4.62439
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1553,49 +1596,6 @@
         "Azure",
         "Containers",
         "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-kubernetes-service.md",
-      "title": "Introduction to Azure Kubernetes Service",
-      "excerpt": "Determine the types of business problems that can be solved using Azure Kubernetes Service. Describe the benefits of container orchestration with features like deployment management, automatic updates, and self-healing.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-kubernetes-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/",
-      "length": "25 mins",
-      "ratings": {
-        "count": 3141,
-        "average": 4.6045847
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-kubernetes-service-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Introduction to Azure Kubernetes Service",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
       ]
     },
     {

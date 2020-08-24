@@ -4,49 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-deploy-prebuilt-module-edge-device.md",
-      "title": "Deploy a prebuilt module to the Edge device",
-      "excerpt": "Deploy a pre-built temperature simulator module to the edge using a container. The pre-built module will be deployed to an IoT edge device. You will check that the module was successfully created and deployed to the edge. You will view the simulated data from the deployed module.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-prebuilt-module-edge-device/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
-      "length": "56 mins",
-      "ratings": {
-        "count": 311,
-        "average": 4.4726686
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/deploy-pre-built-module-iot-edge-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Deploy a prebuilt module to the Edge device",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "IoT",
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-develop-secure-iot-solutions-for-azure-sphere-iot-hub.md",
       "title": "Develop secure IoT Solutions for Azure Sphere with IoT Hub",
       "excerpt": "University of Oxford",
@@ -634,8 +591,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/logic-apps-and-custom-connectors/",
       "length": "40 mins",
       "ratings": {
-        "count": 484,
-        "average": 4.566116
+        "count": 485,
+        "average": 4.5670104
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -669,6 +626,49 @@
         "IoT",
         "Blockchain",
         "Integration"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-iot-central-apps-with-rest-api.md",
+      "title": "Manage IoT Central applications with the REST API",
+      "excerpt": "The IoT Central REST API lets you manage applications programmatically. For example, you can add device templates, create devices, set device properties, send commands to devices, and manage data exports.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-iot-central-apps-with-rest-api/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-central-apps-with-rest-api/",
+      "length": "45 mins",
+      "ratings": {
+        "count": 100,
+        "average": 4.5
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/manage-iot-central-apps-with-rest-api-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Manage IoT Central applications with the REST API",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
       ]
     },
     {
@@ -1258,8 +1258,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-provide-context-with-the-right-depth-layer/",
       "length": "26 mins",
       "ratings": {
-        "count": 157,
-        "average": 4.7261147
+        "count": 158,
+        "average": 4.727848
       },
       "provider": {
         "name": "Microsoft Learn",

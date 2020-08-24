@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
       "length": "38 mins",
       "ratings": {
-        "count": 59911,
-        "average": 4.7075996
+        "count": 59924,
+        "average": 4.707513
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -50,49 +50,6 @@
         "IoT",
         "Blockchain",
         "Integration"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-manage-iot-central-apps-with-rest-api.md",
-      "title": "Manage IoT Central applications with the REST API",
-      "excerpt": "The IoT Central REST API lets you manage applications programmatically. For example, you can add device templates, create devices, set device properties, send commands to devices, and manage data exports.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-iot-central-apps-with-rest-api/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-central-apps-with-rest-api/",
-      "length": "45 mins",
-      "ratings": {
-        "count": 100,
-        "average": 4.5
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/manage-iot-central-apps-with-rest-api-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Manage IoT Central applications with the REST API",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
       ]
     },
     {
@@ -1020,8 +977,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
       "length": "45 mins",
       "ratings": {
-        "count": 2786,
-        "average": 4.579325
+        "count": 2787,
+        "average": 4.5794764
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1255,7 +1212,7 @@
           "path": "",
           "title": "Manage IoT Central applications with the REST API",
           "excerpt": "The IoT Central REST API lets you manage applications programmatically. For example, you can add device templates, create devices, set device properties, send commands to devices, and manage data exports.",
-          "heat": 110,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/manage-iot-central-apps-with-rest-api-social.png",
@@ -1720,8 +1677,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/",
       "length": "23 mins",
       "ratings": {
-        "count": 5553,
-        "average": 4.7376194
+        "count": 5554,
+        "average": 4.7374864
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2454,6 +2411,49 @@
       "topics": [
         "Azure",
         "IoT"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-deploy-prebuilt-module-edge-device.md",
+      "title": "Deploy a prebuilt module to the Edge device",
+      "excerpt": "Deploy a pre-built temperature simulator module to the edge using a container. The pre-built module will be deployed to an IoT edge device. You will check that the module was successfully created and deployed to the edge. You will view the simulated data from the deployed module.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-prebuilt-module-edge-device/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
+      "length": "56 mins",
+      "ratings": {
+        "count": 311,
+        "average": 4.4726686
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/deploy-pre-built-module-iot-edge-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Deploy a prebuilt module to the Edge device",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "IoT",
+        "Azure"
       ]
     }
   ],

@@ -4,49 +4,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-top-5-security-items-to-consider.md",
-      "title": "Top 5 security items to consider before pushing to production",
-      "excerpt": "Secure your web applications on Azure and protect your apps against the most common and dangerous web application attacks.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-top-5-security-items-to-consider/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
-      "length": "45 mins",
-      "ratings": {
-        "count": 5796,
-        "average": 4.644065
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/top-5-security-items-to-consider-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Top 5 security items to consider before pushing to production",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-azure-for-the-data-engineer-learning-path.md",
       "title": "Azure for the Data Engineer learning path",
       "excerpt": "This learning path guides data engineers through the evolving benefits your organization gains with Azure cloud data platform technologies.",
@@ -382,8 +339,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 1629,
-        "average": 4.689994
+        "count": 1631,
+        "average": 4.6897607
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -425,8 +382,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/",
       "length": "41 mins",
       "ratings": {
-        "count": 858,
-        "average": 4.5687647
+        "count": 859,
+        "average": 4.569267
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -471,8 +428,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
       "length": "55 mins",
       "ratings": {
-        "count": 867,
-        "average": 4.596309
+        "count": 868,
+        "average": 4.596774
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -581,8 +538,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
       "length": "25 mins",
       "ratings": {
-        "count": 3828,
-        "average": 4.704284
+        "count": 3829,
+        "average": 4.7038393
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -623,8 +580,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/",
       "length": "24 mins",
       "ratings": {
-        "count": 8141,
-        "average": 4.700405
+        "count": 8143,
+        "average": 4.7002335
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -837,8 +794,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/",
       "length": "37 mins",
       "ratings": {
-        "count": 1235,
-        "average": 4.6267204
+        "count": 1236,
+        "average": 4.6270227
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1055,8 +1012,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/",
       "length": "46 mins",
       "ratings": {
-        "count": 3559,
-        "average": 4.629671
+        "count": 3561,
+        "average": 4.6295986
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1188,8 +1145,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/distribute-load-with-traffic-manager/",
       "length": "29 mins",
       "ratings": {
-        "count": 1817,
-        "average": 4.515685
+        "count": 1818,
+        "average": 4.5159516
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1273,8 +1230,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/",
       "length": "54 mins",
       "ratings": {
-        "count": 1839,
-        "average": 4.644372
+        "count": 1841,
+        "average": 4.643672
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1316,8 +1273,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-python/",
       "length": "67 mins",
       "ratings": {
-        "count": 4432,
-        "average": 4.713222
+        "count": 4433,
+        "average": 4.713287
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1402,8 +1359,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
       "length": "37 mins",
       "ratings": {
-        "count": 4323,
-        "average": 4.6453853
+        "count": 4327,
+        "average": 4.645251
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1436,6 +1393,49 @@
         "Azure",
         "Management Tools",
         "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-troubleshoot-azure-network-infrastructure.md",
+      "title": "Monitor and troubleshoot your end-to-end Azure network infrastructure by using network monitoring tools",
+      "excerpt": "Use Network Watcher tools, diagnostics, and logs to help find and fix networking issues in your Azure infrastructure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-troubleshoot-azure-network-infrastructure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-azure-network-infrastructure/",
+      "length": "37 mins",
+      "ratings": {
+        "count": 1816,
+        "average": 4.572687
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/troubleshoot-azure-network-infrastructure-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Monitor and troubleshoot your end-to-end Azure network infrastructure by using network monitoring tools",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
       ]
     }
   ],

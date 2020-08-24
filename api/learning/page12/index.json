@@ -4,348 +4,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-cmu-cloud-admin-overview.md",
-      "title": "Foundations of cloud computing for administrators",
-      "excerpt": "Learn about the cloud, including the history, building blocks, and types on your way to becoming a Cloud Administrator.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-cloud-admin-overview/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-admin-overview/",
-      "length": "125 mins",
-      "ratings": {
-        "count": 248,
-        "average": 4.645161
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cloud-admin-overview-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Foundations of cloud computing for administrators",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-cmu-cloud-economics.md",
-      "title": "Economics of cloud computing",
-      "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn how developers pay to use the cloud and how cloud providers are able to charge for their services. Get an overview of how the cloud is kept secure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-cloud-economics/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-economics/",
-      "length": "PT54M",
-      "ratings": {
-        "count": 60,
-        "average": 4.65
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/economics-of-the-cloud-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-cmu-virtualization.md",
-      "title": "Understand virtualization",
-      "excerpt": "Carnegie Mellon University's Cloud Developer course. Take a deep dive into virtualization by understanding its formal definition as well as the different types of virtual machines.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-virtualization/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-virtualization-developer/",
-      "length": "PT21M",
-      "ratings": {
-        "count": 51,
-        "average": 4.509804
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/understand-virtualization-social.png",
-          "width": 1000,
-          "height": 500,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-azure-db-for-postgresql.md",
-      "title": "Create an Azure Database for PostgreSQL server",
-      "excerpt": "Azure Database for PostgreSQL provides fully managed, enterprise-ready community PostgreSQL database as a service. Learn how to create and deploy this service and connect it to your applications.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-azure-db-for-postgresql/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-db-for-postgresql-server/",
-      "length": "44 mins",
-      "ratings": {
-        "count": 1749,
-        "average": 4.619211
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-azure-db-for-postgresql-server-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Create an Azure Database for PostgreSQL server",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-computer-vision-service.md",
-      "title": "Process images with the Computer Vision service",
-      "excerpt": "Use the Computer Vision API to analyze images for insights, extract text from images, and generate high-quality thumbnails.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-computer-vision-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-computer-vision-service-to-classify-images/",
-      "length": "32 mins",
-      "ratings": {
-        "count": 1253,
-        "average": 4.6480446
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-computer-vision-service-to-classify-images-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Process images with the Computer Vision service",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-customize-windows-server-iaas-vm-images.md",
-      "title": "Customize Windows Server IaaS Virtual Machine images",
-      "excerpt": "You'll be able to create new VMs from generalized images and use Azure Image Builder templates to create and manage images in Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-customize-windows-server-iaas-vm-images/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/customize-windows-server-iaas-virtual-machine-images/",
-      "length": "PT42M",
-      "ratings": {
-        "count": 4,
-        "average": 4.75
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-debug-nodejs.md",
-      "title": "Interactively debug Node.js apps with the built-in and Visual Studio Code debuggers",
-      "excerpt": "Learn how to efficiently debug your Node.js app using Visual Studio Code to fix your bugs quickly.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-debug-nodejs/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/debug-nodejs/",
-      "length": "PT37M",
-      "ratings": {
-        "count": 81,
-        "average": 4.716049
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-design-a-geographically-distributed-application.md",
-      "title": "Design a geographically distributed application",
-      "excerpt": "Build an application that spans multiple geographic locations for high availability and resiliency.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-a-geographically-distributed-application/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-a-geographically-distributed-application/",
-      "length": "34 mins",
-      "ratings": {
-        "count": 511,
-        "average": 4.655577
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/design-geographically-distributed-application-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Design a geographically distributed application",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Databases",
-        "Networking",
-        "Web"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-detect-objects-images-custom-vision.md",
       "title": "Detect objects in images with the Custom Vision service",
       "excerpt": "Object detection is a form of computer vision in which artificial intelligence (AI) agents can identify and locate specific types of object in an image or camera feed.",
@@ -353,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-custom-vision/",
       "length": "39 mins",
       "ratings": {
-        "count": 148,
-        "average": 4.722973
+        "count": 149,
+        "average": 4.724832
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -396,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/end-to-end-encryption-with-app-gateway/",
       "length": "77 mins",
       "ratings": {
-        "count": 655,
-        "average": 4.583206
+        "count": 657,
+        "average": 4.582953
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -692,8 +350,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-app-center/",
       "length": "49 mins",
       "ratings": {
-        "count": 211,
-        "average": 4.492891
+        "count": 212,
+        "average": 4.4905663
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -735,8 +393,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-python-using-datascience-library/",
       "length": "PT1H28M",
       "ratings": {
-        "count": 132,
-        "average": 4.6363635
+        "count": 133,
+        "average": 4.631579
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -863,8 +521,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
       "length": "46 mins",
       "ratings": {
-        "count": 1365,
-        "average": 4.5831504
+        "count": 1367,
+        "average": 4.5837603
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1251,8 +909,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aspnet-core-identity/",
       "length": "68 mins",
       "ratings": {
-        "count": 692,
-        "average": 4.4653177
+        "count": 694,
+        "average": 4.465418
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1280,6 +938,571 @@
         }
       ],
       "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-train-local-model-with-azure-mls.md",
+      "title": "Train a machine learning model with Azure Machine Learning",
+      "excerpt": "Learn how to use Azure Machine Learning to train a model and register it in a workspace.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-train-local-model-with-azure-mls/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-local-model-with-azure-mls/",
+      "length": "42 mins",
+      "ratings": {
+        "count": 1311,
+        "average": 4.5842867
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/train-local-model-with-azure-mls-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Train a machine learning model with Azure Machine Learning",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-transform-data-with-azure-stream-analytics.md",
+      "title": "Transform data by using Azure Stream Analytics",
+      "excerpt": "Learn how to create Azure Stream Analytics jobs to process input data, transform it with a query, and return results.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-transform-data-with-azure-stream-analytics/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/transform-data-with-azure-stream-analytics/",
+      "length": "49 mins",
+      "ratings": {
+        "count": 1184,
+        "average": 4.566723
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/transform-data-with-azure-stream-analytics-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Transform data by using Azure Stream Analytics",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-translate-speech-speech-service.md",
+      "title": "Translate speech with the speech service",
+      "excerpt": "Perform speech translation tasks with the speech service to translate spoken text to different languages.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-translate-speech-speech-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-speech-speech-service/",
+      "length": "PT18M",
+      "ratings": {
+        "count": 158,
+        "average": 4.6392407
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/translate-speech-speech-service-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Translate speech with the speech service",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-unsupervised-learning.md",
+      "title": "Use unsupervised learning to analyze unlabeled data",
+      "excerpt": "Use unsupervised learning methods to predict groupings in data. Use variations of k-means clustering and spectral clustering to analyze and visualize difficult data sets.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-unsupervised-learning/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-unsupervised-learning/",
+      "length": "27 mins",
+      "ratings": {
+        "count": 249,
+        "average": 4.6787148
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-unsupervised-learning-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Use unsupervised learning to analyze unlabeled data",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-azure-data-fundamentals-explore-non-relational-data-in-azure.md",
+      "title": "Azure Data Fundamentals: Explore non-relational data in Azure",
+      "excerpt": "Learn the fundamentals of database concepts in a cloud environment, get basic skilling in cloud data services, and build your foundational knowledge of cloud data services within Microsoft Azure. You will explore non-relational data offerings, provisioning and deploying non-relational databases, and non-relational data stores with Microsoft Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-azure-data-fundamentals-explore-non-relational-data-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-azure-data-fundamentals-explore-non-relational-data-in-azure/",
+      "length": "PT2H37M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Explore non-relational data offerings in Azure",
+          "excerpt": "Learn about Azure Table Storage, Azure Blob Storage, Azure File Storage, and Azure Cosmos DB, and explore situations for using them.",
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/explore-non-relational-data-offerings-azure-social.png",
+              "width": 640,
+              "height": 320,
+              "title": "Explore non-relational data offerings in Azure",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Explore provisioning and deploying non-relational data services in Azure",
+          "excerpt": "Learn how to provision and configure Azure Cosmos DB, Azure Data Lake , Azure Blob Storage, and Azure File Storage.",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/explore-provision-deploy-non-relational-data-services-azure-social.png",
+              "width": 640,
+              "height": 320,
+              "title": "Explore provisioning and deploying non-relational data services in Azure",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Manage non-relational data stores in Azure",
+          "excerpt": "Learn how to upload and retrieve data held in Azure Cosmos DB, Azure Blob storage, and Azure File storage.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/explore-non-relational-data-stores-azure-social.png",
+              "width": 640,
+              "height": 320,
+              "title": "Manage non-relational data stores in Azure",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/explore-non-relational-data-offerings-azure-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Explore non-relational data offerings in Azure",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-capture-feedback-and-monitoring-data-to-continuously-improve-your-software-learning-path.md",
+      "title": "Capture feedback and monitoring data to continuously improve your software learning path",
+      "excerpt": "Learn how to configure release pipelines that continuously build, test, and deploy your applications.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-capture-feedback-and-monitoring-data-to-continuously-improve-your-software-learning-path/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-capture-feedback-and-monitoring-data-to-continuously-improve-your-software-learning-path/",
+      "length": "PT1H46M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Recommend and design system feedback mechanisms",
+          "excerpt": "Learn how surveys and application analytics create a feedback loop that helps you understand the voice of the customer.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/recommend-system-feedback-mechanisms-social.png",
+              "width": 1000,
+              "height": 500,
+              "title": "Recommend and design system feedback mechanisms",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "DevOps"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Route system feedback to development teams",
+          "excerpt": "Learn how continuous monitoring and dashboards give you insight into how customers use your software and where patterns of failure occur.",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/route-system-feedback-social.png",
+              "width": 1000,
+              "height": 500,
+              "title": "Route system feedback to development teams",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "DevOps"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Manage site reliability",
+          "excerpt": "Learn how to manage site reliability.",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-site-reliability-social.png",
+              "width": 1000,
+              "height": 500,
+              "title": "Manage site reliability",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "DevOps"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/recommend-system-feedback-mechanisms-social.png",
+          "width": 1000,
+          "height": 500,
+          "title": "Recommend and design system feedback mechanisms",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-capture-feedback-and-monitoring-data-to-continuously-improve-your-software.md",
+      "title": "Capture feedback and monitoring data to continuously improve your software",
+      "excerpt": "Learn how to recommend and design system feedback mechanisms, implement a process for routing system feedback to development teams, and optimize feedback mechanisms.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-capture-feedback-and-monitoring-data-to-continuously-improve-your-software/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-capture-feedback-and-monitoring-data-to-continuously-improve-your-software/",
+      "length": "PT1H46M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Recommend and design system feedback mechanisms",
+          "excerpt": "Learn how surveys and application analytics create a feedback loop that helps you understand the voice of the customer.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/recommend-system-feedback-mechanisms-social.png",
+              "width": 1000,
+              "height": 500,
+              "title": "Recommend and design system feedback mechanisms",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "DevOps"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Route system feedback to development teams",
+          "excerpt": "Learn how continuous monitoring and dashboards give you insight into how customers use your software and where patterns of failure occur.",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/route-system-feedback-social.png",
+              "width": 1000,
+              "height": 500,
+              "title": "Route system feedback to development teams",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "DevOps"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Manage site reliability",
+          "excerpt": "Learn how to manage site reliability.",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-site-reliability-social.png",
+              "width": 1000,
+              "height": 500,
+              "title": "Manage site reliability",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "DevOps"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/recommend-system-feedback-mechanisms-social.png",
+          "width": 1000,
+          "height": 500,
+          "title": "Recommend and design system feedback mechanisms",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-cloud-administration-basics.md",
+      "title": "Cloud administration basics",
+      "excerpt": "Learn about the basics of the cloud, including the history, building blocks, and types of services, in preparation for real-world cloud practice on Azure.\nIn this learning path, you will:\n\nLearn about the history of the cloud, and how it was built\nKnow the major cloud providers and cloud types\nUnderstand what types of resources are available through the cloud\nRecognize cloud service modules\nKnow the economic benefits of the cloud\nUnderstand digital identity, and how digital identities can be shared and secured\n\nIn partnership with Dr. Majd Sakr and Carnegie Mellon University.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-cloud-administration-basics/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-cloud-administration-basics/",
+      "length": "PT3H26M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Foundations of cloud computing for administrators",
+          "excerpt": "Learn about the cloud, including the history, building blocks, and types on your way to becoming a Cloud Administrator.",
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cloud-admin-overview-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Foundations of cloud computing for administrators",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Provision and manage cloud services",
+          "excerpt": "Learn about the different types of resources available on the cloud and the technology behind how they work.",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cloud-admin-provision-manage-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Provision and manage cloud services",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Secure your cloud resources with access control",
+          "excerpt": "Learn about digital identities and how they can be managed and synchronized within an organization.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/secure-cloud-resources-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Secure your cloud resources with access control",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cloud-admin-overview-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Foundations of cloud computing for administrators",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
       "price": "Free",
       "topics": [
         "Azure"
