@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-08T16:00:19Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-digital-twins-enhanced-features-are-now-in-preview/"
 type: article
 quality: 17
-heat: 37
+heat: 17
 published: false
 
 provider:

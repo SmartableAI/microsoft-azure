@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-14T10:04:00Z
 webUrl: "https://www.geeky-gadgets.com/reminder-save-95-on-the-complete-microsoft-azure-ebook-video-course-bundle-14-07-2020/"
 type: article
 quality: 33
-heat: 93
+heat: 33
 published: false
 
 provider:

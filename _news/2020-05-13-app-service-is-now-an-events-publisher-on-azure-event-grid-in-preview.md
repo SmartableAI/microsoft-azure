@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-13T16:00:59Z
 webUrl: "https://azure.microsoft.com/en-us/updates/app-service-is-now-an-events-publisher-on-azure-event-grid-in-preview/"
 type: article
 quality: 17
-heat: 57
+heat: 17
 published: false
 
 provider:

@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-14T03:11:14Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-confidential-computing-available-in-west-us2/"
 type: article
 quality: 67
-heat: 147
+heat: 167
 published: true
 
 provider:
@@ -21,6 +21,15 @@ topics:
   - Azure
 
 related:
+  - title: "Azure Virtual Machines DCsv2-series are now available in Canada East"
+    excerpt: "Confidential computing DCsv2-series virtual machines (VMs) are now available in East US, Canada Central, Canada East, UK South, West Europe, and West US 2."
+    publishedDateTime: 2020-08-24T17:05:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-confidential-computing-available-in-canada-east/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Monitor for virtual machines is now generally available"
     excerpt: ""
     publishedDateTime: 2020-04-15T16:00:16Z

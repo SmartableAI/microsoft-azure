@@ -8,7 +8,7 @@ ampWebUrl: "https://www.networkworld.com/article/3545396/cisco-fortifies-aci-for
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3545396/cisco-fortifies-aci-for-amazon-microsoft-integration-and-multicloud-management.amp.html"
 type: article
 quality: 38
-heat: 58
+heat: 38
 published: false
 
 provider:

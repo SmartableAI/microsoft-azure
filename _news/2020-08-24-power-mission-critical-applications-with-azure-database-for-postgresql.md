@@ -5,6 +5,9 @@ excerpt: "In our current environment, organizations are increasingly looking tow
 publishedDateTime: 2020-08-24T10:00:16Z
 webUrl: "https://azure.microsoft.com/blog/power-missioncritical-applications-with-azure-database-for-postgresql/"
 type: article
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: Microsoft

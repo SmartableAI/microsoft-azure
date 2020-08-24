@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-10T11:00:13Z
 webUrl: "https://azure.microsoft.com/blog/azure-firewall-forced-tunneling-and-sql-fqdn-filtering-now-generally-available/"
 type: article
 quality: 33
-heat: 53
+heat: 33
 published: false
 
 provider:

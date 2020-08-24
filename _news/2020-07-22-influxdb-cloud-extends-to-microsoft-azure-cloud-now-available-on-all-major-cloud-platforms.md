@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-22T13:04:00Z
 webUrl: "https://www.bloomberg.com/press-releases/2020-07-22/influxdb-cloud-extends-to-microsoft-azure-cloud-now-available-on-all-major-cloud-platforms"
 type: article
 quality: 46
-heat: 66
+heat: 46
 published: false
 
 provider:
