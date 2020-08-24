@@ -4,135 +4,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-develop-iot-solutions-with-azure-iot-central.md",
-      "title": "Develop IoT solutions with Azure IoT Central",
-      "excerpt": "Interested in building end to end IoT solutions with Azure IoT Central, but aren't quite sure what it can do for you? This path is the place to start.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-develop-iot-solutions-with-azure-iot-central/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-develop-iot-solutions-with-azure-iot-central/",
-      "length": "PT2H58M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Create your first Azure IoT Central app",
-          "excerpt": "This module builds an IoT Central app to monitor and command a refrigerated truck. The first unit creates the app, the second unit defines a device template for a refrigerated truck. Then, create a programming project, add code to simulate a truck, and communicate with your IoT Central app. The truck is monitored through a custom dashboard.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/iot/iot-central-refrigerated-truck-module-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Create your first Azure IoT Central app",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "IoT",
-            "Azure",
-            "Mobile",
-            "Web"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Set up rules and take action on telemetry data in Azure IoT Central",
-          "excerpt": "This module builds an IoT Central app to monitor and command a refrigerated truck. We build the IoT Central app from a downloaded JSON file, defining all the device capabilities. Source code is also downloaded for the device app. The focus of this module is on creating rules and actions, to respond to certain telemetry input. Rules and actions enable greater automation of an IoT Central system.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/iot/set-up-rules-take-actions-telemetry-data-azure-iot-central-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Set up rules and take action on telemetry data in Azure IoT Central",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "IoT",
-            "Azure",
-            "Mobile",
-            "Web"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Manage IoT Central applications with the REST API",
-          "excerpt": "The IoT Central REST API lets you manage applications programmatically. For example, you can add device templates, create devices, set device properties, send commands to devices, and manage data exports.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/manage-iot-central-apps-with-rest-api-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Manage IoT Central applications with the REST API",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "IoT"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Set up continuous data export from Azure IoT Central to a Power BI app",
-          "excerpt": "This module covers continuous data export from IoT Central. You use the scenario from the &quot;Create your first Azure IoT Central app&quot; Learn module, where you control a refrigerated truck. This module adds continuous data export to both Blob storage, and an Event Hub. Then, a Power BI app is built to read and display the telemetry data on a mobile phone.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/iot/continuous-data-export-from-iot-central-social.png",
-              "width": 640,
-              "height": 320,
-              "title": "Set up continuous data export from Azure IoT Central to a Power BI app",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "IoT",
-            "Storage",
-            "Analytics"
-          ]
-        }
-      ],
-      "size": 4,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/iot-central-refrigerated-truck-module-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Create your first Azure IoT Central app",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-discover-ways-to-foster-an-ai-ready-culture-in-your-business.md",
       "title": "Discover ways to foster an AI-ready culture in your business",
       "excerpt": "In this learning path, you will hear from top Microsoft executives about a framework to drive the key changes that are necessary to become an AI -ready organization. You will be able to identify the successful implementations of AI and articulate relevant scenarios. You will be able to discuss a line of business specific and relevant uses cases in finance, marketing, sales, and customer service. And finally, you will be able to identify  AI solutions to implement in your organization based upon its maturity.",
@@ -608,7 +479,7 @@
           "path": "",
           "title": "Implement hybrid network infrastructure",
           "excerpt": "You'll learn to connect your on-premises environment to Azure, implement subnets and routing between your on-premises and cloud environments, and ensure that workloads in the cloud and on-premises perform DNS resolution to locate each other.",
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -1503,6 +1374,129 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-process-natural-language-with-azure-cognitive-language-services.md",
+      "title": "Process natural language with Azure Cognitive Language Services",
+      "excerpt": "Process natural language with Azure Cognitive Language Services",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-process-natural-language-with-azure-cognitive-language-services/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-process-natural-language-with-azure-cognitive-language-services/",
+      "length": "PT2H51M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Add basic conversational intelligence to your apps by using Language Understanding Intelligent Service (LUIS)",
+          "excerpt": "Learn to identify valuable information in conversations with LUIS for interpreting user goals (intents) and distill valuable information from sentences (entities).",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Manage your Language Understanding Intelligent Service (LUIS) Apps",
+          "excerpt": "Learn to manage LUIS apps through versioning, key management, handling data, and improving predictions.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Use containers for your Language Understanding Intelligent Service (LUIS) Apps",
+          "excerpt": "The Language Understanding (LUIS) container loads your trained or published Language Understanding model. As a LUIS app, the docker container provides access to the query predictions from the container's API endpoints",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Discover sentiment in text with the Text Analytics API",
+          "excerpt": "Learn what your customers are really saying about your product or brand when they send feedback. We'll create a solution that uses Azure Functions and the intelligence of the Text Analytics API to discover sentiment in text messages.",
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/classify-user-feedback-with-the-text-analytics-api-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Discover sentiment in text with the Text Analytics API",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Databases",
+            "Compute",
+            "Serverless",
+            "Storage",
+            "AI",
+            "Management Tools"
+          ]
+        }
+      ],
+      "size": 7,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-sap-certified-offerings-for-azure.md",
       "title": "SAP certified offerings for Azure",
       "excerpt": "As an IT Professional experienced in SAP solutions, you need to understand how to leverage Azure resources that include virtual machines, virtual networks, storage accounts, and Azure AD. These modules will provide the basis for running SAP workloads in Azure.",
@@ -2182,8 +2176,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
       "length": "42 mins",
       "ratings": {
-        "count": 2204,
-        "average": 4.713702
+        "count": 2206,
+        "average": 4.713962
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2225,8 +2219,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
       "length": "84 mins",
       "ratings": {
-        "count": 584,
-        "average": 4.410959
+        "count": 586,
+        "average": 4.412969
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2269,8 +2263,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-your-dev-environment-for-azure-development/",
       "length": "28 mins",
       "ratings": {
-        "count": 4592,
-        "average": 4.68946
+        "count": 4595,
+        "average": 4.689445
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2356,8 +2350,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-visual-studio/",
       "length": "43 mins",
       "ratings": {
-        "count": 1618,
-        "average": 4.608776
+        "count": 1619,
+        "average": 4.609018
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2442,8 +2436,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-roles-responsibilities-world-of-data/",
       "length": "PT17M",
       "ratings": {
-        "count": 389,
-        "average": 4.8174806
+        "count": 390,
+        "average": 4.817949
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2484,8 +2478,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
       "length": "65 mins",
       "ratings": {
-        "count": 4856,
-        "average": 4.5969934
+        "count": 4859,
+        "average": 4.596625
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2529,8 +2523,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-app-scalability-resiliency-with-load-balancer/",
       "length": "47 mins",
       "ratings": {
-        "count": 1708,
-        "average": 4.7101874
+        "count": 1710,
+        "average": 4.7105265
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2616,8 +2610,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
       "length": "32 mins",
       "ratings": {
-        "count": 2571,
-        "average": 4.623882
+        "count": 2572,
+        "average": 4.623639
       },
       "provider": {
         "name": "Microsoft Learn",
