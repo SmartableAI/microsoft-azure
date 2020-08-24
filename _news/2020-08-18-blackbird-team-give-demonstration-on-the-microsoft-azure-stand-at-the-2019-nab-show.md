@@ -19,10 +19,19 @@ topics:
   - Azure
 
 related:
+  - title: "Microsoft and TSMC announce Joint Innovation Lab to accelerate silicon design on Azure"
+    excerpt: "Right now, every industry and every customer is going through a massive transformation, and cloud computing is often a central enabler of this."
+    publishedDateTime: 2020-08-24T14:00:18Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-and-tsmc-announce-joint-innovation-lab-to-accelerate-silicon-design-on-azure/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 59
   - title: "Universal & Microsoft Azure Team To Accelerate Live-Action & Animation Productions"
-    excerpt: "Universal plans to leverage this new capability on Microsoft Azure to enable easy remote production collaboration, asset reuse, and ubiquitous compute and storage to empower creatives to do their ..."
-    publishedDateTime: 2020-08-21T16:15:00Z
-    webUrl: "https://deadline.com/2020/08/universal-microsoft-team-on-cloud-based-storage-system-for-animation-and-live-action-productions-1203019703/#!"
+    excerpt: "Universal Filmed Entertainment Group and Microsoft Corp. have formed a strategic partnership to cloud-optimize live-action and animation productions. The team-up will streamline workflows, and"
+    publishedDateTime: 2020-08-21T16:00:00Z
+    webUrl: "https://deadline.com/2020/08/universal-microsoft-team-on-cloud-based-storage-system-for-animation-and-live-action-productions-1203019703/"
     ampWebUrl: "https://deadline.com/2020/08/universal-microsoft-team-on-cloud-based-storage-system-for-animation-and-live-action-productions-1203019703/amp/"
     cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/08/universal-microsoft-team-on-cloud-based-storage-system-for-animation-and-live-action-productions-1203019703/amp/"
     type: article
@@ -49,21 +58,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Universal Shifting to Microsoft’s Azure Cloud Platform for Live-Action, Animation Production"
-    excerpt: "Universal Filmed Entertainment Group has its head in the cloud — and now it’s going to push its production teams there. The company has embarked on a major multiyear strategy to move its"
-    publishedDateTime: 2020-08-21T16:00:00Z
-    webUrl: "https://variety.com/2020/digital/news/universal-microsoft-azure-cloud-production-1234743076/"
-    ampWebUrl: "https://variety.com/2020/digital/news/universal-microsoft-azure-cloud-production-1234743076/amp/"
-    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/digital/news/universal-microsoft-azure-cloud-production-1234743076/amp/"
+  - title: "Drones, data science and innovation at the Microsoft Azure Virtual Hackathon in Asia Pacific"
+    excerpt: "By Ricky Kapur, Vice President of Sales, Marketing and Operations, Microsoft Asia Pacific Innovation comes when developers tackle challenges in new and creative ways. And a hackathon is an excellent opportunity for them to think outside of the box and flex their problem-solving skills."
+    publishedDateTime: 2020-08-20T07:44:00Z
+    webUrl: "https://news.microsoft.com/apac/2020/08/20/drones-data-science-and-innovation-at-the-microsoft-azure-virtual-hackathon-in-asia-pacific/"
     type: article
     provider:
-      name: Variety
-      domain: variety.com
-    quality: 46
+      name: Microsoft
+      domain: microsoft.com
+    quality: 26
     images:
-      - url: "https://pmcvariety.files.wordpress.com/2020/08/universal-microsoft-azure.png?w=1016"
-        width: 1016
-        height: 571
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/43/2020/08/drone3-768x576.jpg"
+        width: 768
+        height: 576
         isCached: true
   - title: "Universal & Microsoft Azure Team To Accelerate Live-Action & Animation Productions"
     excerpt: "Universal Filmed Entertainment Group and Microsoft Corp. have formed a strategic partnership to cloud-optimize live-action and animation productions. The team-up will streamline workflows, and enable frictionless remote collaboration and content creation though a cloud-based production workflow,"

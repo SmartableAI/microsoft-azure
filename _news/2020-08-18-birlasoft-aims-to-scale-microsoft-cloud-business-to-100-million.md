@@ -8,7 +8,7 @@ ampWebUrl: "https://www.financialexpress.com/industry/technology/birlasoft-aims-
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/birlasoft-aims-to-scale-microsoft-cloud-business-to-100-million/2058804/lite/"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 660
     height: 440
     isCached: true
+
+related:
+  - title: "Snowflake files for IPO, taking on Amazon and Microsoft cloud database businesses"
+    excerpt: "Snowflake said in its IPO prospectus that revenue in the first half of 2020 more than doubled to $242 million, while its net loss narrowed slightly to $171.3 million."
+    publishedDateTime: 2020-08-24T21:19:00Z
+    webUrl: "https://www.cnbc.com/2020/08/24/snowflake-files-s-1-for-ipo.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/08/24/snowflake-files-s-1-for-ipo.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/08/24/snowflake-files-s-1-for-ipo.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 77
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106660668-1598305641096-snow.jpg?v=1598306191"
+        width: 790
+        height: 527
+        isCached: true
 
 secured: "eXpe5ZM6mc+mohDRCWAMsDP7stwkRPzRrcXeAPIKAfJzXHgpFDzogJKn8M8zPOgzVGan4CrrxAkvwzuv9sE/7fM8raKl9PXxe1B+GOno30at+miRyxgP33rQ/1gNHQql9yv6L9PLf/q4Ip5MV+uIW6Y4252ioA1vKSOoXAGieGNb1PYmFQ78lsNbdl+fIeMSnXx5ni0JZfR3BDsB35HuViTWnf6xSwzJQ3b2PVZd8wh5a0qEh9+l3ur0xiotokRDK3XR5tIjmlH4BsQjZUvAHNLZ9AZb95zJIrKmE8SeYrXsZLG9lKtWfdleW8A41QWHKaU5rlxsBEX4IoH9Vin8uQ==;ksdau4C+EdSK+xTcOwy8TA=="
 ---
