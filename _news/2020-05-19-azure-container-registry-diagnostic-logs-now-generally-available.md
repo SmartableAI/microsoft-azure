@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-19T16:05:39Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-diagnostic-logs-now-generally-available/"
 type: article
 quality: 17
-heat: 17
+heat: 37
 published: false
 
 provider:

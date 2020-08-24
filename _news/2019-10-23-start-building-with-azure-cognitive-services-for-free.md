@@ -6,7 +6,7 @@ publishedDateTime: 2019-10-23T14:00:15Z
 webUrl: "https://azure.microsoft.com/blog/start-building-with-azure-cognitive-services-for-free/"
 type: article
 quality: 34
-heat: 34
+heat: 54
 published: false
 
 provider:

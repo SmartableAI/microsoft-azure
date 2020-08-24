@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-28T23:00:44Z
 webUrl: "https://azure.microsoft.com/en-us/updates/how-to-ingest-up-to-10000-blobs-with-autosuggestive-schema-definition-and-continues-ingestion-for-new-blobs-with-less-than-10/"
 type: article
 quality: 17
-heat: 17
+heat: 37
 published: false
 
 provider:

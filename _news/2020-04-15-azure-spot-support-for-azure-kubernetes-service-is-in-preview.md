@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-15T16:00:02Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-spot-support-for-azure-kubernetes-service-is-in-preview/"
 type: article
 quality: 17
-heat: 17
+heat: 77
 published: false
 
 provider:
