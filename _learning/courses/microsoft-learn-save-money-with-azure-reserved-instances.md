@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Save money with Azure Reserved Instances"
 
-secured: "S912u3RqG1QFLWgcgo+dtKU69jqQoQgmvv0qf5WB8scyxSYua8tU6CBtRUIOsyIP+g/a8wKgG0pgNfJVBm1tmXB3mFYmbCrlpdMlvh7d/omD5MmjTtpq+SHOJiqcwY9ZIUS9i1ej9Z7ztbseOF8YWfKjQt85Z2kTuPBp/yUAUvsCuKyOLDKu/R3hGc5gIFayASAkF3ldoUvltniPkSYhwTSTLzJ8tPhhspFX3KxgfiKUpaLoFwqa00wDoMtFCyz0J24P7tBf3BCXKPJddkgK+KQK5NnXsbgU2dv3NriiWUPH0lk3RlbSY4z+lnlyLAtGhRgyWoimZMkNvqIbEX3XTmhEdBk9KigAAvBSabk+w+N5W0Hkq07+pfiJ+b68zCINHgvQL2DXsooWkoNROzBUaA==;c08mTllCzwrQgw03jXuoeA=="
+secured: "jDfaZq2nKGwziFgaRZWoNKbvTLoKXzXIssoHfc5/P3k5LMFSm7pHs76xobNAfkbgYpq+kUuP5LsheFH5n0hkHkcx2c9vgFoj+XrpqPWuBQBydR+h/juLoLT4J/G8k5sNY12YfIDlPLt0uqFtqevtwH7rJhe3LIggE5q6YqxaxHmuWqisNZNib4rf3GWvdhI/p1T+OBbyv2hvVa32n2AIM9JwtgtfsMfOfgA18DOLTAkicAaUcmM2Q2VlgxrZ+EQ+W8ZxXBtLAXLm24GuhVda5zzmHMm7LFi99LAkh5LQfEqZ8/CvnoZxdi6uuDJ1IsUhwBfSD+MHFvxQAENCB+Awu9/ym//4tJGKBjtOHbAZm5sSypnHdZM21/48hzqLiZslem5/89MqTjScaIxjmBMF/Q==;5LChsXa9VMo+bdGZwHItzA=="
 ---
 
