@@ -257,8 +257,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/",
       "length": "62 mins",
       "ratings": {
-        "count": 157479,
-        "average": 4.7718234
+        "count": 157493,
+        "average": 4.7717867
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -300,8 +300,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
       "length": "39 mins",
       "ratings": {
-        "count": 126381,
-        "average": 4.694891
+        "count": 126394,
+        "average": 4.6948667
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -467,8 +467,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
       "length": "38 mins",
       "ratings": {
-        "count": 59903,
-        "average": 4.7076273
+        "count": 59911,
+        "average": 4.7075996
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -509,15 +509,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-m365-azure-migrate-replicate-virtual-servers.md",
-      "title": "Replicate and migrate virtual machine servers with Azure Migrate",
-      "excerpt": "Learn the process for replicating, testing, and finally migrating your virtual machines into production.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-azure-migrate-replicate-virtual-servers/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-azure-migrate-replicate-virtual-servers/",
-      "length": "PT28M",
+      "path": "_learning/courses/microsoft-learn-analyze-receipts-form-recognizer.md",
+      "title": "Analyze receipts with the Form Recognizer service",
+      "excerpt": "Processing invoices and receipts is a common task in many business scenarios. Increasingly, organizations are turning to artificial intelligence (AI) to automate data extraction from scanned receipts.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-receipts-form-recognizer/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-receipts-form-recognizer/",
+      "length": "24 mins",
       "ratings": {
-        "count": 47,
-        "average": 4.8510637
+        "count": 158,
+        "average": 4.702532
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -532,37 +532,35 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
       "heat": 111,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/replicate-migrate-virtual-machine-servers-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/analyze-receipts-form-recognizer-social.png",
           "width": 640,
           "height": 320,
-          "title": "Replicate and migrate virtual machine servers with Azure Migrate",
+          "title": "Analyze receipts with the Form Recognizer service",
           "isCached": true
         }
       ],
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure",
-        "Compute",
-        "Migration",
-        "Management Tools"
+        "AI",
+        "Azure"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-trigger-azure-event-grid-workflow-iot-device.md",
-      "title": "Trigger an Azure Event Grid Workflow from an IoT device",
-      "excerpt": "Learn the basics of integrating Azure IoT Hub with Azure Event Grid to trigger a workflow when a new IoT device is added to a solution.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-trigger-azure-event-grid-workflow-iot-device/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/trigger-azure-event-grid-workflow-iot-device/",
-      "length": "42 mins",
+      "path": "_learning/courses/microsoft-learn-manage-iot-central-apps-with-rest-api.md",
+      "title": "Manage IoT Central applications with the REST API",
+      "excerpt": "The IoT Central REST API lets you manage applications programmatically. For example, you can add device templates, create devices, set device properties, send commands to devices, and manage data exports.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-iot-central-apps-with-rest-api/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-central-apps-with-rest-api/",
+      "length": "45 mins",
       "ratings": {
-        "count": 17,
-        "average": 4.8235292
+        "count": 100,
+        "average": 4.5
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -582,20 +580,18 @@
       "heat": 110,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/trigger-azure-event-grid-workflow-iot-device-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/manage-iot-central-apps-with-rest-api-social.png",
           "width": 800,
           "height": 400,
-          "title": "Trigger an Azure Event Grid Workflow from an IoT device",
+          "title": "Manage IoT Central applications with the REST API",
           "isCached": true
         }
       ],
       "type": "course",
       "price": "Free",
       "topics": [
-        "IoT",
         "Azure",
-        "Integration",
-        "Blockchain"
+        "IoT"
       ]
     },
     {
@@ -606,8 +602,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-data-in-azure/",
       "length": "25 mins",
       "ratings": {
-        "count": 52177,
-        "average": 4.732315
+        "count": 52181,
+        "average": 4.732278
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1026,8 +1022,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/",
       "length": "45 mins",
       "ratings": {
-        "count": 64081,
-        "average": 4.711521
+        "count": 64087,
+        "average": 4.7115326
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1068,8 +1064,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-networking/",
       "length": "28 mins",
       "ratings": {
-        "count": 41357,
-        "average": 4.7636676
+        "count": 41358,
+        "average": 4.763649
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1111,8 +1107,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/",
       "length": "36 mins",
       "ratings": {
-        "count": 63558,
-        "average": 4.7992387
+        "count": 63560,
+        "average": 4.799245
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1154,8 +1150,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
       "length": "76 mins",
       "ratings": {
-        "count": 42168,
-        "average": 4.7018356
+        "count": 42170,
+        "average": 4.7017784
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1197,8 +1193,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/",
       "length": "73 mins",
       "ratings": {
-        "count": 48041,
-        "average": 4.706605
+        "count": 48048,
+        "average": 4.7065644
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1240,8 +1236,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
       "length": "46 mins",
       "ratings": {
-        "count": 36516,
-        "average": 4.712345
+        "count": 36518,
+        "average": 4.7123337
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1283,8 +1279,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
       "length": "46 mins",
       "ratings": {
-        "count": 36056,
-        "average": 4.6277456
+        "count": 36058,
+        "average": 4.6277666
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2201,8 +2197,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimize-spending/",
       "length": "74 mins",
       "ratings": {
-        "count": 38450,
-        "average": 4.7137322
+        "count": 38453,
+        "average": 4.7137027
       },
       "provider": {
         "name": "Microsoft Learn",

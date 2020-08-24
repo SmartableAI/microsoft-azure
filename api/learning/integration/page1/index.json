@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
       "length": "38 mins",
       "ratings": {
-        "count": 59903,
-        "average": 4.7076273
+        "count": 59911,
+        "average": 4.7075996
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -50,51 +50,6 @@
         "IoT",
         "Blockchain",
         "Integration"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-trigger-azure-event-grid-workflow-iot-device.md",
-      "title": "Trigger an Azure Event Grid Workflow from an IoT device",
-      "excerpt": "Learn the basics of integrating Azure IoT Hub with Azure Event Grid to trigger a workflow when a new IoT device is added to a solution.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-trigger-azure-event-grid-workflow-iot-device/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/trigger-azure-event-grid-workflow-iot-device/",
-      "length": "42 mins",
-      "ratings": {
-        "count": 17,
-        "average": 4.8235292
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/trigger-azure-event-grid-workflow-iot-device-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Trigger an Azure Event Grid Workflow from an IoT device",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "IoT",
-        "Azure",
-        "Integration",
-        "Blockchain"
       ]
     },
     {
@@ -1656,8 +1611,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
       "length": "45 mins",
       "ratings": {
-        "count": 2785,
-        "average": 4.579174
+        "count": 2786,
+        "average": 4.579325
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1919,8 +1874,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
       "length": "55 mins",
       "ratings": {
-        "count": 1334,
-        "average": 4.642429
+        "count": 1335,
+        "average": 4.6419477
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2008,8 +1963,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/route-and-process-data-logic-apps/",
       "length": "56 mins",
       "ratings": {
-        "count": 1370,
-        "average": 4.5335765
+        "count": 1371,
+        "average": 4.533917
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2142,8 +2097,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-manage-apis-with-azure-api-management/",
       "length": "38 mins",
       "ratings": {
-        "count": 1033,
-        "average": 4.663117
+        "count": 1034,
+        "average": 4.663443
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2342,8 +2297,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/expose-hybrid-services-with-azure-relay/",
       "length": "44 mins",
       "ratings": {
-        "count": 178,
-        "average": 4.6404495
+        "count": 179,
+        "average": 4.6312847
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2466,6 +2421,51 @@
         "IoT",
         "Blockchain",
         "Integration"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-trigger-azure-event-grid-workflow-iot-device.md",
+      "title": "Trigger an Azure Event Grid Workflow from an IoT device",
+      "excerpt": "Learn the basics of integrating Azure IoT Hub with Azure Event Grid to trigger a workflow when a new IoT device is added to a solution.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-trigger-azure-event-grid-workflow-iot-device/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/trigger-azure-event-grid-workflow-iot-device/",
+      "length": "42 mins",
+      "ratings": {
+        "count": 17,
+        "average": 4.8235292
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/iot/trigger-azure-event-grid-workflow-iot-device-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Trigger an Azure Event Grid Workflow from an IoT device",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "IoT",
+        "Azure",
+        "Integration",
+        "Blockchain"
       ]
     }
   ],
