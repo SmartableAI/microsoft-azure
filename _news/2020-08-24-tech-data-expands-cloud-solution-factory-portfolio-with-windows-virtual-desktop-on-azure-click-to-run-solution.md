@@ -3,10 +3,10 @@ category: news
 title: "Tech Data Expands Cloud Solution Factory Portfolio with Windows Virtual Desktop on Azure Click-to-Run Solution"
 excerpt: "Tech Data today announced that it has expanded its Cloud Solution Factory offering with the addition of a new Windows Virtual Desktop on Azure Click-t"
 publishedDateTime: 2020-08-24T12:43:00Z
-webUrl: "https://www.businesswire.com/news/home/20200824005324/en/"
+webUrl: "https://www.businesswire.com/news/home/20200824005324/en/Tech-Data-Expands-Cloud-Solution-Factory-Portfolio"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     height: 627
     isCached: true
 
-secured: "orrXAZ8JpdIoG5a+Arq5DEkyA9kh2BnQuSl8OqEhne0ivuxNfEbe1pMrrljCWTCc78VLQap0bPTTUoqxLQuv+lYaQ5aniNNfhbTfjjqCKrakI5TF6tLOcTnEwaKdSyqGRbyPGSepFBFlH2Tusi8pjIG3vS9JM8DujmCfVodq7VHfYhxA33ufNS/aPE3SAPJq82jsz8QzvBE4JSTlTs4q4Xe8De6upXN/bu3BVK6HvYSbQJd0GCkEwocG7Meaye6ylyRy6sBLY/CEV02sj5m1lLO8Ab1F7wvg5jQOQj+gqN03b+9o4j1p1aNHor22/t0TTa3bJB2E9YiGXqYo+5zFWw==;J1tXcyH9wiWVo9OZ6wJTZg=="
+related:
+  - title: "Tech Data expands Cloud Solution Factory with Windows Virtual Desktop on Azure Click-to-Run Solution"
+    excerpt: "Tech Data has expanded its Cloud Solution Factory offering with the addition of a new Windows Virtual Desktop on Azure Click-to-Run Solution."
+    publishedDateTime: 2020-08-25T00:34:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/08/25/tech-data-windows-azure/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 22
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
+        width: 304
+        height: 430
+        isCached: true
+
+secured: "d8VXfldMRW1it2bmbPs1VZ7CaZluts/kUWVTrTmTazqeiDZKzFb9pYM1UpU8gIb9GXVFqJdP5dbEmvufTuz5+zdrkkezp66m8UZWQzcVo4plUTcii4A/5qVYhuvMyV3B9crKDqKd1tHSSLJA7UYM6wUzk1nHs+yqveJYMwUCRMmEsAHUWEJ6OG7Qa11SnlE6pOXfVQTKLajN978QbV8kxoF0LKC8YenWyuyvU3+IJugyoABLzowYLgzeIGYws8sT1HtaNRocnV6uj7drZ256z9Nb/eWc6JigDy2N79tOYnIsoI0o+e4oKedlTpS+tKz5LgqEg4twCXEd56s8UkyBtA==;CzzwN9/QFvqxJ4b6eaohLw=="
 ---
 
