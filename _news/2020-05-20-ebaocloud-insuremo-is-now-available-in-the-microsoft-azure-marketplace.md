@@ -98,6 +98,22 @@ related:
         width: 320
         height: 220
         isCached: true
+  - title: "Mimecast Email Security for Azure Sentinel Is Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure ..."
+    publishedDateTime: 2020-08-19T07:08:00Z
+    webUrl: "https://www.albawaba.com/business/pr/mimecast-email-security-azure-sentinel-now-available-microsoft-azure-marketplace"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/mimecast-email-security-azure-sentinel-now-available-microsoft-azure-marketplace"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/mimecast-email-security-azure-sentinel-now-available-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 45
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2020-08/Christina%20Van%20Houten%2C%20Chief%20Strategy%20Officer%2C%20Mimecast.jpg?itok=MPnsRrNr"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Healthper USA, Inc. Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Healthper to take advantage of the scalability, reliability, and agility of Azure to drive well-being."
     publishedDateTime: 2020-05-20T16:53:00Z
@@ -274,20 +290,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 25
-  - title: "Mimecast Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
-    excerpt: "Dubai, United Arab Emirates - Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure Marketplace, an online store ..."
-    publishedDateTime: 2020-08-19T07:14:00Z
-    webUrl: "https://www.zawya.com/uae/en/press-releases/story/Mimecast_Email_Security_for_Azure_Sentinel_is_now_available_in_the_Microsoft_Azure_Marketplace-ZAWYA20200819070435/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 25
-    images:
-      - url: "https://images.zawya.com/pr/images/2020/Barclays_2020_08_17.jpg"
-        width: 450
-        height: 300
-        isCached: true
   - title: "DataVisor Now Available in the Microsoft Azure Marketplace"
     excerpt: "DataVisor, the leading fraud detection company with solutions powered by transformational AI technology, today announced the availability of dVector a"
     publishedDateTime: 2020-05-19T12:37:00Z
