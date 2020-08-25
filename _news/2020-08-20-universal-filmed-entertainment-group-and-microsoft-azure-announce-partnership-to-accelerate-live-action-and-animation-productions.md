@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
-excerpt: "UNIVERSAL CITY, Calif., and REDMOND, Wash., Aug. 21, 2020 /PRNewswire via COMTEX/ -- UNIVERSAL CITY, Calif., and REDMOND, Wash., Aug. 21, 2020"
-publishedDateTime: 2020-08-22T01:48:00Z
-webUrl: "https://www.marketwatch.com/press-release/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-2020-08-21?mod=mw_quote_news&tesla=y"
+excerpt: "They will bring those workflows into Microsoft Azure and ensure Universal's ecosystem of partners can connect to them in open, standards-based ways. This partnership will also enable the ..."
+publishedDateTime: 2020-08-20T23:59:00Z
+webUrl: "https://www.marketwatch.com/press-release/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-2020-08-21"
 type: article
 quality: 48
 heat: -1
@@ -53,9 +53,9 @@ related:
         height: 563
         isCached: true
   - title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
-    excerpt: "They will bring those workflows into Microsoft Azure and ensure Universal's ecosystem of partners can connect to them in open, standards-based ways. This partnership will also enable the ..."
-    publishedDateTime: 2020-08-20T23:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-2020-08-21"
+    excerpt: "UNIVERSAL CITY, Calif., and REDMOND, Wash., Aug. 21, 2020 /PRNewswire via COMTEX/ -- UNIVERSAL CITY, Calif., and REDMOND, Wash., Aug. 21, 2020"
+    publishedDateTime: 2020-08-22T01:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-2020-08-21?mod=mw_quote_news&tesla=y"
     type: article
     provider:
       name: MarketWatch
@@ -115,6 +115,6 @@ related:
         height: 512
         isCached: true
 
-secured: "5RnvrlZ7Alj3Ir+Ljki8AAJkGR5cx7h+SdmQqQyX+DAWHHMO2JZbIK5dIGSrjl2KYRJbSEKbsZH4hB7MvakVR/LdFEp3Rp4YTdGRQ2jeRtHmpvYnXGSE3tQ3ASVErEzY6HDT3Lg3M614A9jF4ofSFWr5V9u/35dN70pDHXOBFEascqS1xOKEho2qb+kS9jE2lp7h9+C8xY+Cz0M9Unrk+oIW2daaBrUblmSwMaIp+voLvK4lXeUgU3C5qKfLKcFmda9GfYri5IQu9kod/IY8ci9xYVvvaXR15erabs7NEfd7pWSQxfLiYXPoRSpqvcaCUeqKuHCavkyIOCyrZj8CTw==;KdOuknHwQwN/V2zuZZeP/A=="
+secured: "NT/hXmcyTl9Vn78VaHq2PjsEybac6rOYBfWtBkYESQ0IjWiXIrnOppjmt56FnYr09fr2R+mneB7vBfh6ymSeD8SLZlWzVd+MlzXL8zBVa+lvUVD4Wt24hV3EN2sz2p8yWUfiKX3Yzb3C/51vmW5LVvEl2Mwy88yFv9qu8lIVBzsYC/QzIu2qaR0eNmQmCtFOmZBqzKJmUuOd8ET3UQ9+vdvt2qYnbIkwHg7yoyo6Q0l4E/4tXX8fWAU4Yq5Bgce+Druj26f9nIlhWNyiwDC89ePaAAs/FyjXnYOqb6F40UTr0F+r0Ro4QuppSuE9m3e2Q7YGukcYJGnPN3UX1vz8wQ==;6r5WBjwV9QJ3NotTuI0YRg=="
 ---
 
