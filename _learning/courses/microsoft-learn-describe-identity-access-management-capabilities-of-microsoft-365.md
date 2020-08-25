@@ -8,7 +8,7 @@ length: PT29M
 ratings:
   count: 63
   average: 4.7619047
-heat: 51
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Describe the identity and access management capabilities of Microsoft 365"
 
-secured: "Rh7Uurs4QrO39JYh30R1T1e4LsoJk/WInqH4N7B9bzz0sDhOBInPtH8iCV5Xb6nSfMI0TXC6Zv9ffJUtkzD5V31XfBdcaWE5UcridwkqKEy7o/GNBzM7jNdEl1ok3G+7a1hYRcFhQ6ZrFRI8nEGo0xe8syIq68YahtUyicLGDwIyeIPvLdAVa+P9wSi9scuBDiJL/YGR1mZk8rTiIbAsbjxqtNIGdzppxkqUAK8DSUmgeZNc2+g3DEen26fasHP4oSJthywxooWpUKW22ddhhMLbp2RgAgsw3BPd5jfeDfsrxxLPMFG8fCawS1IxvAdcbwQMz895UsypXY/MkesUO4bfHyIymbxbk0CWZUmN2mz5SxUp5AbKdHpAAVSeNYVjn6Cofv4euMvYCOJBhPd9hw==;uJTQNZUOY0m/IF5PZ2Rsrg=="
+secured: "nD6uGmIlXkQwcnonDG1JkbMLe6JtPAHakX2FDIKfiYc1qS9boMJ+/2FDwwxUOG64hEitu64Ni2/pr4kNCD6rse/OgWIMBAvMI1Nd/owe9dQJwss+9daVV9njCbPQRUUn2f1SvsYxI0Q6o47GisgrrtgXibB5NIXHH3WTrzXr9VQtoMX6EQRRZYOS1bdSdFQ15bciL0wusSeBJ4qoVBMiH7rGFsMexiGqo25rms2zd7tamGm5m6rsGe20t1T5KMOevE0aiXiw9dhLQNK1+3qNGLQSGOvYLV7HCpgZYOIsEUmMqtoR0r3pR1synV5GM4gnOSLeURxF65Z37EwqBF/gUPS9QzD3w7kDctULDc7IgktdyyX49uTe6TdlUMPd4QGbOw1I9Zt+DAvuJSdG1T2vew==;Rur47yMByCC2mbKyZkvQmg=="
 ---
 

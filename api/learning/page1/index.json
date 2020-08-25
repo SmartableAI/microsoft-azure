@@ -257,8 +257,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/",
       "length": "62 mins",
       "ratings": {
-        "count": 157795,
-        "average": 4.771767
+        "count": 157810,
+        "average": 4.771776
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -300,8 +300,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
       "length": "39 mins",
       "ratings": {
-        "count": 126571,
-        "average": 4.6949224
+        "count": 126586,
+        "average": 4.6949506
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -467,8 +467,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
       "length": "38 mins",
       "ratings": {
-        "count": 60010,
-        "average": 4.7074323
+        "count": 60022,
+        "average": 4.7074738
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -509,15 +509,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-azure-db-for-postgresql.md",
-      "title": "Create an Azure Database for PostgreSQL server",
-      "excerpt": "Azure Database for PostgreSQL provides fully managed, enterprise-ready community PostgreSQL database as a service. Learn how to create and deploy this service and connect it to your applications.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-azure-db-for-postgresql/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-db-for-postgresql-server/",
-      "length": "44 mins",
+      "path": "_learning/courses/microsoft-learn-capture-page-load-times-application-insights.md",
+      "title": "Capture and view page load times in your Azure web app with Application Insights",
+      "excerpt": "Application Insights is an Azure service that you can use to  monitor the behavior and performance of a web application. If you run  a web app in Azure, you can take advantage of several benefits provided  by Application Insights simply by enabling it, without changing any of  your code. When you complete this module, you'll know how to enable  Application Insights and client-side monitoring and view metrics in the  portal.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-capture-page-load-times-application-insights/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-page-load-times-application-insights/",
+      "length": "45 mins",
       "ratings": {
-        "count": 1752,
-        "average": 4.6192923
+        "count": 318,
+        "average": 4.5220127
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -534,34 +534,32 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 112,
+      "heat": 113,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/create-azure-db-for-postgresql-server-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Create an Azure Database for PostgreSQL server",
+          "url": "https://docs.microsoft.com/learn/achievements/capture-page-load-times-application-insights-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Capture and view page load times in your Azure web app with Application Insights",
           "isCached": true
         }
       ],
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure",
-        "Databases",
-        "Management Tools"
+        "Azure"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-aspnet-configurationbuilder.md",
-      "title": "Externalize configuration for your ASP.NET application using Azure Key Vault",
-      "excerpt": "Learn how use ConfigurationBuilder to dynamically configure an ASP.NET web application to retrieve secrets from Azure Key vault",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aspnet-configurationbuilder/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-configurationbuilder/",
-      "length": "PT24M",
+      "path": "_learning/courses/microsoft-learn-implement-change-tracking-file-integrity-monitoring-for-windows-iaas-vms.md",
+      "title": "Implement change tracking and file integrity monitoring for Windows IaaS VMs",
+      "excerpt": "Implement change tracking and file integrity monitoring for Windows IaaS VMs",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-change-tracking-file-integrity-monitoring-for-windows-iaas-vms/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-change-tracking-file-integrity-monitoring/",
+      "length": "PT50M",
       "ratings": {
-        "count": 6,
-        "average": 4.1666665
+        "count": 10,
+        "average": 4.9
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -591,11 +589,9 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Security",
-        "Web",
-        "Compute",
-        "Containers",
-        "Mobile"
+        "Management Tools",
+        "DevOps",
+        "Compute"
       ]
     },
     {
@@ -606,8 +602,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-data-in-azure/",
       "length": "25 mins",
       "ratings": {
-        "count": 52275,
-        "average": 4.732262
+        "count": 52277,
+        "average": 4.732234
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1026,8 +1022,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/",
       "length": "45 mins",
       "ratings": {
-        "count": 64176,
-        "average": 4.71159
+        "count": 64180,
+        "average": 4.711592
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1068,8 +1064,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-networking/",
       "length": "28 mins",
       "ratings": {
-        "count": 41416,
-        "average": 4.7636905
+        "count": 41422,
+        "average": 4.763725
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1111,8 +1107,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/",
       "length": "36 mins",
       "ratings": {
-        "count": 63639,
-        "average": 4.7991796
+        "count": 63645,
+        "average": 4.799167
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1154,8 +1150,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
       "length": "76 mins",
       "ratings": {
-        "count": 42236,
-        "average": 4.7017946
+        "count": 42240,
+        "average": 4.7018228
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1197,8 +1193,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/",
       "length": "73 mins",
       "ratings": {
-        "count": 48099,
-        "average": 4.706522
+        "count": 48100,
+        "average": 4.706528
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1240,8 +1236,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
       "length": "46 mins",
       "ratings": {
-        "count": 36557,
-        "average": 4.712285
+        "count": 36562,
+        "average": 4.71227
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1283,8 +1279,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
       "length": "46 mins",
       "ratings": {
-        "count": 36116,
-        "average": 4.627561
+        "count": 36121,
+        "average": 4.6275296
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2201,8 +2197,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimize-spending/",
       "length": "74 mins",
       "ratings": {
-        "count": 38490,
-        "average": 4.713666
+        "count": 38495,
+        "average": 4.713703
       },
       "provider": {
         "name": "Microsoft Learn",
