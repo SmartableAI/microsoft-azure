@@ -257,8 +257,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/",
       "length": "62 mins",
       "ratings": {
-        "count": 157776,
-        "average": 4.7717714
+        "count": 157795,
+        "average": 4.771767
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -300,8 +300,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
       "length": "39 mins",
       "ratings": {
-        "count": 126563,
-        "average": 4.694911
+        "count": 126571,
+        "average": 4.6949224
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -467,8 +467,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
       "length": "38 mins",
       "ratings": {
-        "count": 60005,
-        "average": 4.707424
+        "count": 60010,
+        "average": 4.7074323
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -509,15 +509,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-explain-devops-continous-delivery-quality.md",
-      "title": "Explain DevOps Continuous Delivery and Continuous Quality",
-      "excerpt": "Explore two capabilities in the DevOps taxonomy, Continuous Delivery and Continuous Quality.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explain-devops-continous-delivery-quality/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explain-devops-continous-delivery-quality/",
-      "length": "18 mins",
+      "path": "_learning/courses/microsoft-learn-create-azure-db-for-postgresql.md",
+      "title": "Create an Azure Database for PostgreSQL server",
+      "excerpt": "Azure Database for PostgreSQL provides fully managed, enterprise-ready community PostgreSQL database as a service. Learn how to create and deploy this service and connect it to your applications.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-azure-db-for-postgresql/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-db-for-postgresql-server/",
+      "length": "44 mins",
       "ratings": {
-        "count": 298,
-        "average": 4.7080536
+        "count": 1752,
+        "average": 4.6192923
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -534,32 +534,34 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 111,
+      "heat": 112,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/explain-devops-continuous-delivery-quality-social.png",
-          "width": 320,
-          "height": 160,
-          "title": "Explain DevOps Continuous Delivery and Continuous Quality",
+          "url": "https://docs.microsoft.com/learn/achievements/create-azure-db-for-postgresql-server-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Create an Azure Database for PostgreSQL server",
           "isCached": true
         }
       ],
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure"
+        "Azure",
+        "Databases",
+        "Management Tools"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-analytics-engines-graphlab.md",
-      "title": "Distributed computing on the cloud: GraphLab",
-      "excerpt": "Carnegie Mellon University's cloud developer course. GraphLab is a big data tool developed by Carnegie Mellon University to help with data mining. Learn about how GraphLab works and why it's useful.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analytics-engines-graphlab/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-analytics-engines-graphlab/",
-      "length": "PT1H3M",
+      "path": "_learning/courses/microsoft-learn-aspnet-configurationbuilder.md",
+      "title": "Externalize configuration for your ASP.NET application using Azure Key Vault",
+      "excerpt": "Learn how use ConfigurationBuilder to dynamically configure an ASP.NET web application to retrieve secrets from Azure Key vault",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aspnet-configurationbuilder/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-configurationbuilder/",
+      "length": "PT24M",
       "ratings": {
-        "count": 19,
-        "average": 4.894737
+        "count": 6,
+        "average": 4.1666665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -574,13 +576,26 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 110,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure"
+        "Azure",
+        "Security",
+        "Web",
+        "Compute",
+        "Containers",
+        "Mobile"
       ]
     },
     {
@@ -591,8 +606,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-data-in-azure/",
       "length": "25 mins",
       "ratings": {
-        "count": 52266,
-        "average": 4.732235
+        "count": 52275,
+        "average": 4.732262
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1011,8 +1026,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/",
       "length": "45 mins",
       "ratings": {
-        "count": 64174,
-        "average": 4.711581
+        "count": 64176,
+        "average": 4.71159
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1053,8 +1068,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-networking/",
       "length": "28 mins",
       "ratings": {
-        "count": 41412,
-        "average": 4.7636676
+        "count": 41416,
+        "average": 4.7636905
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1096,8 +1111,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/",
       "length": "36 mins",
       "ratings": {
-        "count": 63636,
-        "average": 4.799186
+        "count": 63639,
+        "average": 4.7991796
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1139,8 +1154,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
       "length": "76 mins",
       "ratings": {
-        "count": 42230,
-        "average": 4.701752
+        "count": 42236,
+        "average": 4.7017946
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1182,8 +1197,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/",
       "length": "73 mins",
       "ratings": {
-        "count": 48098,
-        "average": 4.706516
+        "count": 48099,
+        "average": 4.706522
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1225,8 +1240,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
       "length": "46 mins",
       "ratings": {
-        "count": 36552,
-        "average": 4.7122455
+        "count": 36557,
+        "average": 4.712285
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1268,8 +1283,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
       "length": "46 mins",
       "ratings": {
-        "count": 36111,
-        "average": 4.6275373
+        "count": 36116,
+        "average": 4.627561
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2186,8 +2201,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimize-spending/",
       "length": "74 mins",
       "ratings": {
-        "count": 38488,
-        "average": 4.713677
+        "count": 38490,
+        "average": 4.713666
       },
       "provider": {
         "name": "Microsoft Learn",
