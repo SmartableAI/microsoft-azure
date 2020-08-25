@@ -1,27 +1,25 @@
 ---
 category: news
-title: "Mimecast Email Security for Azure Sentinel Is Now Available in the Microsoft Azure Marketplace"
-excerpt: "Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure ..."
-publishedDateTime: 2020-08-19T07:08:00Z
-webUrl: "https://www.albawaba.com/business/pr/mimecast-email-security-azure-sentinel-now-available-microsoft-azure-marketplace"
-ampWebUrl: "https://www.albawaba.com/amp/business/pr/mimecast-email-security-azure-sentinel-now-available-microsoft-azure-marketplace"
-cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/mimecast-email-security-azure-sentinel-now-available-microsoft-azure-marketplace"
+title: "Mimecast Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
+excerpt: "Dubai, United Arab Emirates - Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure Marketplace, an online store ..."
+publishedDateTime: 2020-08-19T07:14:00Z
+webUrl: "https://www.zawya.com/uae/en/press-releases/story/Mimecast_Email_Security_for_Azure_Sentinel_is_now_available_in_the_Microsoft_Azure_Marketplace-ZAWYA20200819070435/"
 type: article
-quality: 45
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Al Bawaba News
-  domain: albawaba.com
+  name: Zawya
+  domain: zawya.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2020-08/Christina%20Van%20Houten%2C%20Chief%20Strategy%20Officer%2C%20Mimecast.jpg?itok=MPnsRrNr"
-    width: 960
-    height: 540
+  - url: "https://images.zawya.com/pr/images/2020/Barclays_2020_08_17.jpg"
+    width: 450
+    height: 300
     isCached: true
 
 related:
@@ -269,14 +267,14 @@ related:
         isCached: true
   - title: "Mimecast Email Security for Azure Sentinel now available in the Microsoft Azure Marketplace"
     excerpt: "Mimecast Limited, a leading email security and cyber resilience company, has announced the availability of Mimecast Email Security for Azure Sentinel in the Microsoft Azure Marketplace ..."
-    publishedDateTime: 2020-08-20T10:36:00Z
-    webUrl: "https://businesstech.co.za/news/industry-news/427380/mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace/"
-    ampWebUrl: "https://businesstech.co.za/news/industry-news/427380/mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace/amp/"
-    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/industry-news/427380/mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace/amp/"
+    publishedDateTime: 2020-08-20T10:34:00Z
+    webUrl: "https://mybroadband.co.za/news/industrynews/364426-mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace.html"
+    ampWebUrl: "https://mybroadband.co.za/news/industrynews/364426-mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/364426-mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace.html/amp"
     type: article
     provider:
-      name: businesstech.co.za
-      domain: businesstech.co.za
+      name: MyBroadband
+      domain: mybroadband.co.za
     quality: 27
   - title: "Mimecast® Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
     excerpt: "Mimecast customers can now take advantage of the Microsoft Azure Sentinel's scalability, high availability, and security, with streamlined deployment and management. By logging email activity in ..."
@@ -308,6 +306,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "90pJrzgISqJyUedPp6AFJnTyOHKSBOtv36K1riNtB3duGVmA38bA0nDCm7WBdqB9ST0GUAXraBTd88zWigxhSisK4P0ZOXxRGDfPqo6OMx3Z1fQmoqby+IHX3vOBzYJvKdNnV89RPLA3BnKiGd+3GQmmo/YIJi1RyyoGPQ5ldgwq4xRwyWABGhfxHubRvV0IwedYj+eAsbfK4oTAmSE8L3ogTfGpT/ZBNbQxKQX1oWz5vlCsBs8d3Dy79s5TZ9BXPJVGJqCiZ0PajoCoK+172P+/IdWwJjDXhvtRpMnb7fKw2U9Pv2R6grLddVYOGTIimAfF8PVvZcAEk7+riUPU5w==;LzRUE5AtRCTIrUgp/XDlxg=="
+secured: "kNjGF7B1H6JjdtGihIXxFi1Yf8PPamhMAarZLskm7udm1IunTjiEVI4UAxVpelNEzQfO4C+KiJQzE8Y08fiykudqT7qMxxUyKpbn3X+7XN3z7juhfXwlY/tB5us7o4Sj5EjDXQzTkinWLlCNk+Cij5clVyf4Ne9m15xWXIo6azwKtZXRSKjm/jr2dnkxoGgwzXyDHilNmtI72ToRkCsvESikGJuWUhNBou58cUBNAgvw8lNo3KDtVJWkivg72gOGqjaca5hfavaDSZEUikCAe5Ooe4lNnwZp0hCJpOcoXyoIVdSajKRU7AlpAlohorev3c0hlQmUEutk/lgjyAahkw==;Kgch7DYDqNzkFNeYNm4JEQ=="
 ---
 
