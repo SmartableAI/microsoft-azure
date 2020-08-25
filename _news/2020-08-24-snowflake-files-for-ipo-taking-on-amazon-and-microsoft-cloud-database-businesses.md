@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/08/24/snowflake-files-s-1-for-ipo.html
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/08/24/snowflake-files-s-1-for-ipo.html"
 type: article
 quality: 77
-heat: 97
+heat: 98
 published: true
 
 provider:
