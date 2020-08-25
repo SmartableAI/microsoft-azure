@@ -3,7 +3,7 @@ category: news
 title: "Microsoft Announces the Preview of Java Message Service 2.0 over AMQP on Azure Service Bus"
 excerpt: "In a recent blog post, Microsoft announced the preview support for Java Message Service (JMS) 2.0 over AMQP in the Azure Service Bus Premium tier. The support will allow customers to modernize their application stack by lifting and shifting their Java and Spring workloads to Azure."
 publishedDateTime: 2020-08-17T11:39:00Z
-webUrl: "https://www.infoq.com/news/2020/08/jms-2-amqp-service-bus-preview/"
+webUrl: "https://www.infoq.com/news/2020/08/jms-2-amqp-service-bus-preview/?topicPageSponsorship=1affdcd4-e9d5-432d-80ae-f9e5b551db61&itm_source=presentations_about_Devops&itm_medium=link&itm_campaign=Devops"
 type: article
 quality: 27
 heat: -1
@@ -42,6 +42,6 @@ related:
       domain: microsoft.com
     quality: 14
 
-secured: "yJGNRojMjn3afPxJmVw2y3Bo6bH64OiMSypC2c8NMvP8YDhWj+rf5enYadLAWfPQf9WRB3F5AoHkjZGVmt3k3EjSWMrze4GEStMtXoQ37I90OOO5V0i7AXjPFQvqYwiTFx7uYG7pCJ2/38Dp0StuiM5Fuqewh6SiwiPxeGFpemNl6y8ZRuKDBaCveV7wGp/CxRvoZfgoShsvAvUfTDun9LmZS+SSWAUPmeKxAsj2EUlUdg2NbQeBF4z2uAdN/udm2sxoqd1id7woHsdCPSssxOZXV4J2gtKhNtg0V9DXvZ73cKYk4VZp18BnxFci+B1qlro739QN/4WzNP4qsVm0U90BmHSqxEMuGX6XEqdGY1yDfV1Ngx/qOJwXZrQMeptFbXxHkTGZOeJ0Qhe23Qql7cdpWGlu4k2qqvQgXttAyAijSImjdTHoYeeSjfwaWDhtLu374fWDQ6um9kMOwvysLtW0kTw9wESGh17p0Uv/KCeSUt5hIqkYKf+KO0mJAt0+oe6ZR4IPvsjLP5aU6GhttQ==;A88y/ASC+Ngeq+eFHEyC8A=="
+secured: "KQ1kl6Vlc5aoUJqXBoExkwPvhBegYRV00e2KCh9/iVhycZtAmJT/EVrhLaPpRgkYZvyTIB1YbrqfP0WdCibsg8JUWQDQbOT6YDqJ7J7ea0lU+YzRwitUFl+H+6gYKl6Az76+LoUR+TSwRtucz8Cc1PgK8+gSxP32aaQmca7ftobfHH70ILg4UoKPU3GJ3sDWs6859t2XvSvmF6eZjCheQYASJmR/pb59HgPE04Tx66fmzIrjoFo6F3FH8GJyf6v9odCE3OecFWnzAU1OiAchz0GGNvlzltOKby2hxYbx2gDpMTJshtxRSlVoiNI5g/qCjvOoUlbf4Si+2VV4f6KN7g==;O2ENQgo0tCaHXU/QEU4+7g=="
 ---
 
