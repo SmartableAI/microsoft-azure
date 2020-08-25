@@ -193,6 +193,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Microsoft and VMware Team Up to Offer the Next Evolution of the Azure VMware Solution"
+    excerpt: "The latest evolution of the VMware Cloud Verified service enables enterprises to seamlessly extend their VMware environment, workloads, and applications to Azure."
+    publishedDateTime: 2020-08-25T19:37:00Z
+    webUrl: "https://www.cio.com/article/3572625/microsoft-and-vmware-team-up-to-offer-the-next-evolution-of-the-azure-vmware-solution.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 30
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/08/istock-180866301-100855525-large.jpg"
+        width: 1199
+        height: 815
+        isCached: true
   - title: "Research Solutions Announces Addition of Article Galaxy Platform to Microsoft Azure Marketplace"
     excerpt: "PRNewswire/ -- Research Solutions, Inc. (NASDAQ: RSSS), a pioneer in providing cloud-based workflow solutions for R&D driven organizations, and its"
     publishedDateTime: 2020-04-28T12:30:00Z

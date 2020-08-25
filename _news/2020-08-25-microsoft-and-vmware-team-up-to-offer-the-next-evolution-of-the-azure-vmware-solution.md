@@ -1,25 +1,26 @@
 ---
 category: news
-title: "Microsoft announces next evolution of Azure VMware Solution"
-excerpt: "Today, I’m excited to announce the preview of the next generation of Azure VMware Solution, designed, built, and supported by Microsoft and endorsed by VMware.\r\n\r\nWith the current economic environment, many organizations face new challenges to find rapid and cost-effective solutions that enable business"
-publishedDateTime: 2020-05-04T10:30:00Z
-webUrl: "https://azure.microsoft.com/blog/microsoft-announces-next-evolution-of-azure-vmware-solution/"
+title: "Microsoft and VMware Team Up to Offer the Next Evolution of the Azure VMware Solution"
+excerpt: "The latest evolution of the VMware Cloud Verified service enables enterprises to seamlessly extend their VMware environment, workloads, and applications to Azure."
+publishedDateTime: 2020-08-25T19:37:00Z
+webUrl: "https://www.cio.com/article/3572625/microsoft-and-vmware-team-up-to-offer-the-next-evolution-of-the-azure-vmware-solution.html"
 type: article
-quality: 69
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: CIO
+  domain: cio.com
 
 topics:
   - Azure
-  - Compute
+
+images:
+  - url: "https://images.idgesg.net/images/article/2020/08/istock-180866301-100855525-large.jpg"
+    width: 1199
+    height: 815
+    isCached: true
 
 related:
   - title: "Microsoft announces next-gen Azure VMware Solution"
@@ -38,6 +39,15 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Microsoft announces next evolution of Azure VMware Solution"
+    excerpt: "Today, I’m excited to announce the preview of the next generation of Azure VMware Solution, designed, built, and supported by Microsoft and endorsed by VMware.\r\n\r\nWith the current economic environment, many organizations face new challenges to find rapid and cost-effective solutions that enable business"
+    publishedDateTime: 2020-05-04T10:30:00Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-announces-next-evolution-of-azure-vmware-solution/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
   - title: "Microsoft announces next generation of Azure VMware Solution"
     excerpt: "Microsoft today announced the preview of the next generation of Azure VMware Solution which allows you to seamlessly move VMware-based workloads from your datacenter to Azure. This is the official solution supported by Microsoft and endorsed by VMware."
     publishedDateTime: 2020-05-04T18:41:00Z
@@ -196,20 +206,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Microsoft and VMware Team Up to Offer the Next Evolution of the Azure VMware Solution"
-    excerpt: "The latest evolution of the VMware Cloud Verified service enables enterprises to seamlessly extend their VMware environment, workloads, and applications to Azure."
-    publishedDateTime: 2020-08-25T19:37:00Z
-    webUrl: "https://www.cio.com/article/3572625/microsoft-and-vmware-team-up-to-offer-the-next-evolution-of-the-azure-vmware-solution.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 30
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/08/istock-180866301-100855525-large.jpg"
-        width: 1199
-        height: 815
-        isCached: true
   - title: "Research Solutions Announces Addition of Article Galaxy Platform to Microsoft Azure Marketplace"
     excerpt: "PRNewswire/ -- Research Solutions, Inc. (NASDAQ: RSSS), a pioneer in providing cloud-based workflow solutions for R&D driven organizations, and its"
     publishedDateTime: 2020-04-28T12:30:00Z
@@ -234,6 +230,6 @@ related:
       domain: globenewswire.com
     quality: 1
 
-secured: "3G+6aZsVM1z26NXIRhSkZze+uBcSJupt0WUEYodLmsKS1C+xf+1a+QlVuN28T0w2ifoyHIn4vIxg//mfjoHAH9ji0Te8qOx5C3/AlPgmD7JmFYDAeUnhkJVxVJadpI4l+Ku7EpnSFAtk68OeKQOr3pajIOp1Y2v/MU5HvdExCJIg4uXY7OJrqCVRaruy67LP7l7rUDcq4mafYMsSe6cDhVvkMNlHMLFJ/bxYLc1Yba37nMoNKkIA+bSzWN4qGDwhEmuZoA7wFGcqSEoVuWrLSjzJym5pI1o5Y+rqyrzD72OEBj2HdEUhVes0rwnbN6jkRdFi1wCYBgN36TBTYNTpIeHb5xps6mTMCmI5B1zJy+I=;VFDVg5EErxNAn48Cgf1ENw=="
+secured: "dOOUGLx9acvyZR3VF6td3A5KGltQ8Yz1LBPpTgdKKd9nMJ86ljznlKy9Xo1fKeql+xW61SgEi5p4dBb2arjq+f4hMX0RW9B1VS6QCldYNckcByQgDj5wlNh/nR1eq7N9FZrt2qquTY5+4A/YzkBuQpgP5mQ34NG/jJFUS03vd8dc+taq8Ts/1iKv22x/QD8L/9m/rBl43bT1fXtA98Kpetxm9Vaa3Fuk1gvOffcf5EJjcLW91UdQayojEyIB/As6RsgLX7VHesMKlJuaDH1aLPzUEKyYGWcgbg0fstxRVEH/hMCNSrktjtRRnN4Vh9IEA2P28XR1PIegzuO+V7U6pg==;T/Tx70h5xRjwQXYMxGDe5g=="
 ---
 

@@ -207,6 +207,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Microsoft and VMware Team Up to Offer the Next Evolution of the Azure VMware Solution"
+    excerpt: "The latest evolution of the VMware Cloud Verified service enables enterprises to seamlessly extend their VMware environment, workloads, and applications to Azure."
+    publishedDateTime: 2020-08-25T19:37:00Z
+    webUrl: "https://www.cio.com/article/3572625/microsoft-and-vmware-team-up-to-offer-the-next-evolution-of-the-azure-vmware-solution.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 30
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/08/istock-180866301-100855525-large.jpg"
+        width: 1199
+        height: 815
+        isCached: true
   - title: "Avid Announces New Five-Year Agreement with Microsoft Azure to Bring More Media Companies to the Cloud"
     excerpt: "Over the course of the new five-year strategic alliance agreement Avid will continue to develop and deploy its cloud-based solutions on Microsoft Azure. Since launching their initial collaboration ..."
     publishedDateTime: 2020-05-04T20:55:00Z
