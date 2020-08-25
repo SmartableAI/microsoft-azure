@@ -8,7 +8,7 @@ length: 40 mins
 ratings:
   count: 87
   average: 4.551724
-heat: 53
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Monitor cloud resources"
 
-secured: "H3/TYGLMY5wqp/x9CTaG5gXCLLo5dGru9mrxwfO6a8RgF18MQi2OyKmnPHX9EWqdN1+BgOZQzKo5ISQCHSVwd3S5vk1sBDXGqtmy1saPe6E8sFU8I+JP+T+5pwKPxOS8NAoz7kO6IpS/4XK9ACnEwgaMI4tz1Sz0wayYX4DET80DYGX/e+YkTgbxZXVxG51wYcDL7FRbtxXVfEUcurnRWMpWlbCoGd6nAuSM27ewlacVNQHGM1tJYED51+cfQfqCRJFNIMPenxSO4pHpyIzcnPagivy8ZdS6DGedIcb20PbsL9DdxyNiJUSfcgcY6XrsYpF8WJWM59qMsC8b0cyP+e1JgnsHpzUpH47IN/HCUQSe0UpKgFDAotr55ODVQDFG2Y9etR93WVSVlWqfaQxIxA==;RS7fWQj6st4kjeQ86dEokg=="
+secured: "BMA5j7MQFa23bmm86OdboKVngmFf3OR/irw+b06Tgbz1+4KDmJ41DhPScz17bvApn4GqYram/UY4pYqoKVegRm6M8AJa5XsGtGB1t8KQc/nnz88ESldZag49XN+xJDuBe9G+eaFYxrnu3ebbSh0/DesiAl4FbiFhfe7md8+NItMd9cO1H3g9X38q2r0J9ahFptxYHlsg1/4DVMnnm5fdqOCy01kGv+1FQLgtyMGFMGawPgZwnQfxEgO/RewtcRRFfqJ0XM7zEqlZgD4yjHStCLimskqU7Ycim/yH1ygk5E7HB3P5lUvrC27d1IwzRsuaUd6FT03ANQyMWORBAHoMCWd1e0qUo/T003DRxeVuwhAnNPsJEUXAu9XYkSC5k4rOvzBKRAViTt6kkZvqDnYiKw==;QW51I/2s7w38kKijxtEWJw=="
 ---
 

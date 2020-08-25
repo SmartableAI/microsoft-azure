@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Define an AI strategy to create value in government"
 
-secured: "9sJODhUTjh+T7kIhgOyh9qlQyq1cmdt0Sb+42Q2qboseYlv3ftV6OLSEM71jLo6ArmfFR2dTJFxjoIXCo2ev5902X/YPFIz9H8Dgkqi6J9vESj6R63tSpFcspEbIOmXe/8GsLDXliuTtl8IsFAW1WnNz4flLOrrKUm3N0NEZC6C8f+4gTyLeeQ0PBORRagWfZmg8CI2SesuNLSVAGgI0OOW7YyYci5HQQlzss/odXRYChlc1V+Q6zuFeV2+2T6XvAyOtXP1rf/P7TlJwQQO3RD+EFGEXx/9czk42PXHW7xN2yIEiGiHdexMqaymP0v9BP/IELS9tpENFGbgzwQPsKocClqGcjPJEEd0U1KvslYN336IWnh+iQnydDMZNlEoXa1pIQyYHYTNNZ2i4PhAOQw==;0nWMqQ1TA7TvTL42jW+WbQ=="
+secured: "QEcDjyJxu/RWQng2RuMGZwkSkzW/u/ACIav2et8SFfcDVfXwofDLTSN1WUBE4M2P3nivmVRe5TeOQiyDp801iAb1ozDlnBFHcyF937WwhOP5dQruAKgZVi8fPHIeytcl5d2l39vdAvMJYVVr/Lwk6jKwlXKGLxteDV+oYB/ytC1p4xWldBzMgemjy8LWUWlAYS7c5Vl84/SNMt0Sdq3v9iNW/sKY/eloeyv1kEOeV1SaqUZNOU4MOTDSP9jKjU+/89d2gXgPjki/rnyBL1obtcllm+n5IlgHgM+YHA+fznw/cFeWtVhHw6HU1VFM+tGHr4M7iDWvQ0nlYtbZN5ZFo3klXDNQUqWmNhrFJWaUMGTzxxXtTnioHavjmHzXclc1U5Qh4Xiu5qrYWns5mzt1Ow==;dQepsRlg8znohG+XEfA0QA=="
 ---
 

@@ -8,7 +8,7 @@ length: 46 mins
 ratings:
   count: 233
   average: 4.690987
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -37,6 +37,6 @@ images:
     isCached: true
     title: "Automate Docker container deployments with Azure Pipelines"
 
-secured: "FKgEdxjezw6Sqcz2/YORbwcrindpxjLPvlA99MZsnGhUiHWWFSdLRWrntnjbYCAyIceJrazCgHZbSYUvu+cpKYVEg3nKFPdWPYL0YN4NMMwKNHh2rJ+JKRqMJQHobLHjQ+IrRQwDtBocA+wWbTH68dYbXIxaX+B8iVIEjYyCGmym7Kae495YlPVQ9dfcgUtImxYqbASdg6643wGMKIw5bpl4xV1olSZcFFga+yB28lwWiz4gMu+fwbOI9FkIQx3TDWhrGB+ur0iEXLdAKRyNiB75RhjfGIuXBKbVAF1Z1b3ieQx3FnAH923+TDZJ1ob1JimTs2Qse/0yjGRDGOfekmRQH5cMPAthWwD2MRuZ9itMEBEKNGdsMFX+L4JMtB1EmNy/aHFSdQjVatqIoCN3NA==;F9JyzINiBNRe/J3KeLNQ8g=="
+secured: "qorWGJ/FdX1ldV99tJopTxqXQ0Sy6syy9V4dqFqnVvquESlswoaLWwQVYg7vBNbrIoB6PnwLhY/YRq7y0b8AsuoH/fLuUNgbSXrwIBQOup2p1vw7Onm1O3qTsNxhBVv1RK7B1QXzr+SiU92fIpDb/wWnl0RaBBPDokP5xHFTgReT24J+HZjQ5efjgRQXe8I0i7YD+zmvS3EUn8WZDoyFLTeqftNBBZSyiCO9qsJYgFRQVd6eUPyhAhLp6UGcMJv0OaD9hhZ5kohy+422SX/4+qwho4GXCFSsH44gVVGk3D0jTCJkHiot4WVnW0ANB/hYzIIqAZhG3iMXz4e0Sqzslo/eg5odAvBKJbonv55PIe/dXutd6xJAmNYfGu2pPDOOOvGxNRC13IvTCawmqHpvFA==;M6q/3YDng8jy05HJ2LNzpw=="
 ---
 

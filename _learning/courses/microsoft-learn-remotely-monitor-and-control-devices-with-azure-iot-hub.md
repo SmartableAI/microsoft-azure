@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Remotely monitor and control devices with Azure IoT Hub"
 
-secured: "1Duq271jvOSgVh5KlrjxIK3UfoA5JbBEyEIycSPZrNOWxUG+eAkESjvhphRlgobpYYxEEjd3C6BlOn/fw8I7HiAMXWGKHyK/+hjMMoTtcXBsQwcNDRz6SxoD1lIiEih90N064TyuSaGEiq2A/QBQ5yAb4a3m9ayaGsmB1Jhp85nZDeu+KE/6zRnUdONhsbd+fbkE2IGdKTyjx3zICuCJiinTlcDYDpwji+J06EDJmFGaXmn+fVG2V6sQN2fs8VMwk0eHqHwaIF9CvRKo4Z5BJ146lbOz1c9G0UfAioHIyXx1eO0bcdCxJUctp3AYfxv6JyCNr0/2Hv2MJTdLz+mBfXIeEQZZaFnSrX2rC9sZA/pkKiyTae/JSaLQVyoHkvLWZM9Zb5Audoom3VNR0SYRgg==;1v58z1bBdZzIcu5vGcDfQg=="
+secured: "y5m/GmbdVNWDdJD2BpOo/WcqF7L3srnJ0DhtAHC0pOnnaTRossni5diPQZ4HSn3ez0GASjvnAhKuEueB9+eiMNIbGxIeSl8jWZ9kjXeU/hJG3vbq56jyGjsOF+GwbdeVVyJB25/+7AM60KRjw3ZekdFcUmEpCvJGs/H9VDbIlyfsop+Nu6F1WRMWFK+mqqEbg5Wm3ens6Ch7rCa8hn7jJG4JaYsOONzdCFsLHCYmaeWdk+E/QbXXGkZVZAesd/aKgxkgMAFYTP72c2OI5ECR+pOXO/MUeMTKDYFcPAOIRiWdEXggxyQxu+hGfhmd++yXZvRHZiD7H/yCeLHt/vdV05fkQNdXIxTMgsiRDflV5d1VjHw9CThed/gAuArrFOfUwgpeWQx1XyW0Pcwyrz+3hg==;bhGUMNzTWiRgkxHUY6Kx8w=="
 ---
 

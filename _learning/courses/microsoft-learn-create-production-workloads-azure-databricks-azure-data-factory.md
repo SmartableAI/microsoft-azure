@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Create production workloads on Azure Databricks with Azure Data Factory"
 
-secured: "UScm+r9MpgGcAmZxy7xbWcetZPCjjBqAcbOhVw94ko6r1D/xPqfKY23cD6R1TcVQCsp3CKpCXpAKRsItBx+h6nr+wknUMAnpgg8cefWE4kA3xXsFZX0Y8jvJlY0EhVqrtCJBpGO08Oc/4oxOqa8ltiMDPkC/OgcciblG8cOm4jhnmTkTddZ74q9PfX8Z1Faz+54jHVzemIlw8q9ny0Epn+0Ha1UJ31Yjgi7RmR/RD44CgA/kxCKRdUKSDvyzyDFAydXFZEDXqqibUGw0VyRN8rIn+0yGhBxiMSdz+iJdw83orASvy2gEgSCyxkBmnucEs+4prRK/53ewB/zV2oBlrEgmYmyefj23ZvrxHc0HQNYRV+grVB5CYBdWazdH3kvdSvK/EbyFOJygnmZz15vFCA==;5VLjbLwyuJ0YLU4bcnCGjg=="
+secured: "TnTdnPY5RpcF9L3+THkuLMCDTES3yClVCKQevJcPU8zXwDm+LQge6cvPDauLizRZRueSOO9FLLrINqpBc1Dux8ZW+eAj7yZbG4LmO391dZf9LieXj6VOcrX+yIiH/0urGhAsuuBHj5guikO0ckhGuNc51ZFTO6s9twjhU04a+Pp7jkspmUlZHesJhBPbzg19mVGxYohC47TLMB5/t1LE/g2gynb7RaLam3dosLSW+ypSWcm/zT/RD83IcO6+8LCjhGdlv+mw29m4TPcbH/Q8Z3CVrclUVLITwCyMfiSoat4ouwvPgPoaGp3FhAB0S8tA1mFOMkizKar7a+4EqDjNS7JBwP14o4fGBBdfq+DDeuaFT/SdfYdKvK+X4xhj1jQAxPldP0XS2RjgxuUq8EBfjw==;QPm+XIZhvVI77+A90o9eyA=="
 ---
 

@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 35 mins
 ratings:
-  count: 3599
-  average: 4.6407337
-heat: 57
+  count: 3600
+  average: 4.6408334
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Create an Azure Cosmos DB database built to scale"
 
-secured: "Yk0J0cNOhMgA6xYIzpFih1kfIxK0eoOqIu3h586GrGVNVd/ctqc8zp1Lx5klXXQZv4u2pAdZsQyMYOEMyFwLGsJvTOGIe0Q5FR5eeb/BxpqnFzPgnI2aszkJm9/K1kO8i5JQ5qNjWf9Yjjoyc01VQai7QbqgToRg2ZzsBq+m/cP4VjFNP9yVObYsUSahYGo2gi/JbslyBN3WbtvNFt7taHpeVjfgpnrCglA9OyWnbHaFESqLpoHM17DPCtozSyqwROkxb1tOHfpHRtpU5MPVxsM1izlIPdPiIcaX7FKXlP6b5zeW1XrGKXr0kqkSsjtNZcZ69Pg/q+GQcUz++LzVhJq2j4ZN4g540INUwi+DYyyNtsDaInE0+MZb1858Cr7MQ/YCGQklCKnwnkFaoDrdWQ==;3XT9+p65W/PQuDk3Gp/o5g=="
+secured: "HX5daSYB/UT+KexulQpcGaGogkF5gpmoxxCQgZOMwTDXjzfR4st5urF/Dl7GxPQvp0CqU+Q4jJhdx0dDf8RBlm+DWroZW+pBCdnQasaydXbpp+aT8Cmosw7WSaEKuPVRIOK+A6wDDN6rZ9bxpVhsBpRVGOwXocq+Fr62eLMK8M+IcShS6ohKg4cDotf41KaF+M7Wsz/8ov/cTY8xBOqpnWpX8iuYJuuux9lCkwD0Of3y0yg9zcXLRxVouWx2FMXKmI39oAEc1hiIkUPS4B/EqANV2H3myZsvOg/yluw/d4GbTJLPcHuOT3+QgLaKZ0k2Fambg0P0URa718OoJp0Ty6KgfvUyfexjZHmKVa1qFQM2BkiR3AIHWFIqTPpZzuN2hh72HTAQkYH67OWEYoQkBw==;zV9IQcO0cpE3u22JC7Jb8w=="
 ---
 

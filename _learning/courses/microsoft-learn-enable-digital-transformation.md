@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 24 mins
 ratings:
-  count: 8162
-  average: 4.7001963
-heat: 58
+  count: 8164
+  average: 4.7002697
+heat: 68
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Enabling digital transformation"
 
-secured: "qllkp1aJFLAchXjPWWocATTWfA8G/If4uYjlSe7DZ4f24Rj2P9Y2oumXrA2TQ+rgXr8UNqT4Gb/Y4cNWW0xpPu9JHIgT0v0LIXhFUTemTgtYxMZPnfPCJrDzJPeOSwL7+/kJbnPO2BrSXuViBonayV1e7B5NvC0MJfPnCS43Cu8bkuOf2D1MiHzGSvSLFcMCoIX33bybjVDLUwLmvQCtPEvR77Jj5ptsj+ELnDqiHdEHKEiW33pDwbQ9ngETq5KcdoyGzg3yd7Sf5GmKamAmVYXNMRfTuCn+xmRyhwE5bcysYd7rrePdqnuyZ92uYew4ULFlIL/01gns7h0IKWOdzMzTKT1cq4DXvXgzEoOysSvR3wu2mFekX97KKJGH7EgqEJ831RFfDPlJi9v0uqaz8A==;4/RPfqd8bEEvR4MhtgTqyQ=="
+secured: "PGsxvN8T/vRLLtH6lHGpS1WZ/g9sSWMaRmE4p4XcjA30vOCAeN/U1giMJ9kuRUBBhFb16rrICW5h8smw5ZLieczUlCHjxfqGJOaBjZ7/rs1VLXyFRu9XkX9GEORkgh5NEe7l9VVQQeaj0+UPgzCOT1R/cJl6n6PFzumroOJ67qGRzVedWZGvkqFgEb9kTBuR9bD0yc+Uyyzlp7pVZif6QiX+QdF/RxcffjxStPnYRbfF7fPNcWi/PcCqyH244DL4gQU0LjbKMZswPirjko0li0Kxjgjq68xB+q4u1dsW120Obx08p/RkMNvnrVelIerKQyy17ej+XQcZy2wG8a99FiK34iDbmW6HPoSnp8hK2vD5bQ8DFY/Z+osUWvybQvk737GJmh2xg0U3yZrJq/0nIA==;9Kax0EB1XBMsF37RB0l5Pw=="
 ---
 

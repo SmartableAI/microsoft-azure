@@ -8,7 +8,7 @@ length: PT55M
 ratings:
   count: 46
   average: 4.826087
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Predict  classes with a knn classifier"
 
-secured: "ZRW309WG0H+DGgjLZ3h4IJnHk0WdmCAg7YtrydWxODt53QvqH5gkHopbQCSyWGUUhTotJ8bAcLn1pxrL6DnGULwb+yGfdAMM62gbKcWI2jx1JT3LIN2BloPNi2k5NIT0iqrTzWtwuDGfpOTIAiKI+/RtBm1AjfukM3rWr+h5eCVR2KHOxpjHzvfaUxnLhz97+HQ6/8DPNZZPAn6gc+4UoqRfFhP2PLLmTHAmEUJf434AtZIVjKMv1dSQgFa3rY22XbWCDLLjloQDyjjBpiRbpqz5pdbLQhYEmF675ga2BK+6z8RtUNZ/A5tf4ChoVv1YH0EcTOk17bx/INPPkmSOO6qjWrDCxdNWlDDBlJmuR+uAGMRQBYMsaEZur4LUAkKcNUiOcKn87/RcZ6K3VyAx2A==;u7j9nL3wXAeqy6LBIMxr8w=="
+secured: "mkY8ZACxH2yYdeO8PSFH3vVJtOIqkv+2ghLB09YvGPW6a1p++zE/7eVMyhcMsMINHlpByYUm2yjl2u2Asg+cstg0LCqrtXgPvT/+qQiaSkv9iU4KOOsdYmO1dreY4aGR/LPrurDxYIdo9YR7R9r/HclmguuRFu21/aVBCtjNBRouGQysTGJjEGanQ5XzXZhZYXDEmQqdLs8yJ8FFZCWfQ4bSEIkt526srguC4F/nCJ0t8XdXiabZiIPwsgpCxz4LS08Mmsb8meZEt0lWdu+T0BPN+JaxAo6QQyunU92lRlYJRwdY3VQxF6afTFo3Dg9ei+mO81qd0f3lvarsyKeA9Mx44siL67VuOw40NUiMz4Oop+S6BoXx+TYxAMtT9dUiGDjmwn8tfVCXeo/PPzMDew==;KuJ6hEiDD/b2vBq7si8sCg=="
 ---
 

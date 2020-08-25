@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Microsoft Cloud Adoption Framework for Azure"
 
-secured: "rmmMImsyrUhfVoSZi3KUUGCNEdO25H0/Bfaa+c8cB7H3ogvowL2Co/rbkTlbLMGWfSKth/ls3m6nYawcqKf/0AKffKOdjRsYXFkiEuc7PfuKBHHxvk32KWY3zB/4jMDovj2s2pWUxvUPfr+V7YImlNli2xTYSaLLk0wJWmr0pDW2t4Rup42YOqLwC3RHoaC2lUo2+d/HNrWoH8WEbh/mBUXtpMVOtBbH1h2NovuhcmVYFV56zXlrUrGZSp4Mun/0XLPz5JYGB9Cloa7UWIlMVClT4sMnqgpYVJ4X+D7JpsR6D0QufNzvDZV1dhG+iuiSuskBn9/5UrH+6woz/hGD1KE29rvGHJYQxou0/Jzw+5ca341j9NTlrQuEweAejNhLKsBXuaMqg8/BB1EUxmqz8A==;YnwcOgZ5zzN9+wl5/3edVA=="
+secured: "/iSx/Cx+FcBA944n0SBhCkSvb5e/wfV9yqsWjyY1JVE/jNhGz5HOtJvMsNFvJ2QPzKzrTtEZ0uNj98KDMjMiEppnXpCjgwFJUYL7ks/twl7mQRWBkH/Jl03HNPwT7Cp5cC1QmL3z5R9dHvHOOccgEIGJBJfKz4zY8Z8535uuf70zQp+C1IjoiXyWNdLuSqFcfoQzVpzDwWsp5NbMZEhO51g8wThzZWVP6XhyEbeQOWLIkKT52VtjDcdRkq4ToOCSn/azzkPvOiJ/kw0Asob+Q+3b2ouYegJuGaZba3lq/+a2ClYuyxs1qZW1Mw7KTHDn7V/Z8VCGL+4ZJ/sSYnr9TKY1LGkRAIrMym6O2bV4v64flbDi2L5VlUrxE0VFmQkXFTuMdqG2Gybzi8E/iimQbA==;EgVBVk5O5hRjVDe+Kah4VQ=="
 ---
 

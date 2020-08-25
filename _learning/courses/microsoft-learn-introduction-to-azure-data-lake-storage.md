@@ -8,7 +8,7 @@ length: 30 mins
 ratings:
   count: 1614
   average: 4.698265
-heat: 54
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduction to Azure Data Lake storage"
 
-secured: "u6olBzDU+v66bAy3diSW6Br8ZxKq1EXtT1fZbWwAjurjFk22A5EndLr6bhqkQKgesLSCwwkhU1xXe4W9bTMyYgs0Rkp7mQiYTLFrT02qJ1FOkhb+SwCz/cwpjZJr312dsV1X/P6XBfYa5hEVHRwJhzFtY2caLhRR1XcVEs4teYpoOkPkEJOVLckVNMndwAmMgF7xebYKJRA+9sCA/RLEeyGc2Sv3MLtsUgyNkFEqyYix9oa2M13ACyYoVImrecv9VTLQ4xISPTJy4BNRnQwB1qHwVEDkBpER//asWaQM4jQCfl7FwZJCXRHj1+pUuEtuRdZ9CYGWH/gF7PKU/ZvsowQrimJcsFxwpTPMAdHrhFzX/ekXafFykzORNxDKKJRxLlwh1Lk57qfTSyrCIwQyOg==;5flY2R0oshYMHm833T2JLA=="
+secured: "K7m0JO8kzMfV3poGM7ZVActNLWT7Scy2wI8bBE1t7HS8z0gxz2AGj/oCEON9Y/ziso5gYOMkU55uVuoaeqEZDPtBcd2ok0iiqspG0jqWM/PI/uLQQzrHalKt3EmRBw92YhIYBe+VsXgBHRH+pfOTo4y3N/3VDbyaQigyejNSYuSim9sK//Fkh2NYO2DmwpaST+VYgwDBeXiXT1wA7gSJayVtWjzP93T6E9m1O7ie7oLsPLbdRG0jKyhPg8gW7PipnY0FzdHUOA0dgOg2F0zdQ78hjL5fWPL0y/SEkHzKLabLPjhJzh4lCzowRomEDfWEsuCe7rocSo1TjEvk+VWDZAJrmvvtHs1ohISqzDcrxjqYuFzH3rPjpfixouqKb9ImsIrnDoJ0ol0Qb1Xwz6jU8w==;A8pLb+3YTkqLR0gx8HBaOQ=="
 ---
 

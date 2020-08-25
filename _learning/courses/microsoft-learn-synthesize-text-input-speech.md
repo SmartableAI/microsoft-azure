@@ -8,7 +8,7 @@ length: PT18M
 ratings:
   count: 164
   average: 4.5670733
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Synthesize Text Input to Speech"
 
-secured: "j/5qFcFZOhWkJ6H5V9LthmfkmajUL9fR/niO5Tx0hMO3gjf3V4hqX0FVXM8Z5VkA/87BbJFU0oMtR6jDBTqAQK5u4CrdYQ9oCRTWyfWjEL7hGI+Sw0ZdAw8PYc1fFLvZwoigBEffVChivk85pDsDz/IF3NbeaYLfYbD5N1kEsDsBFlgXSiLckOmQVxkw8UxZ4wo+3fLu8myWgwGXosfVq8eJmovm1cjBQujvJKbbaqzifXhMiVwXRw6jMJIYuAO/2YEygXNqozJQTbeuD2cM5S2LjVOZCQ0WlQwMCXkNFDowZtImQZb35QPC/vT253BeVcwvpi1W9cfVDAW71ZL058j5na2ov2owCORU0EffGqoHpml4grhCZY0I759/VdwBWNNdhoHnNzMAuVpXz1n4vA==;PlMxHw4y1EDqfRQv6BfXgg=="
+secured: "8JA2VnrV9PwZ0Ph/4UhpIZ2dAtDONGkMuXF4m7G4y1lRS8Ao8kwAhrWslFVRkZo/g46Y8z/df5o9tu8zr/0CveCZCvcEeR3HFDXNsbxUUwBphyaA37J5DTSy5MFlq8wJKFGHg80smW5Qk7A+1uaUvVwyyv0UNsrmRrSNEaZzKsiFxusGiLvM2QSOoLZcIEkIm/Qlmn53nstSIIH7J8DWtIgUFrImXFKAyiikzaJpYlIqJqDQGJDKTMrCoIIzEN/lMdP5NvzwZo6N6D5nT+niDZrI6UCX6VgfZwAcqSVzpXS88paQeNz3NuZTY5fDGhfOwdCXUm3Dz4q4xzLT28bS3/RiIyC6vtxcCQipS45ThsKnGBcELP+IlR2SA5yVoJNkhjQhY/MRCrBTOpnmgc3coA==;6TAO3MkwjIgbOri1+HC4PQ=="
 ---
 

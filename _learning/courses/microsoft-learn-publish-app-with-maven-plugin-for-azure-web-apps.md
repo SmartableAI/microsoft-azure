@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Publish a web app to Azure by using the Maven Plugin for Azure App Service"
 
-secured: "bjkWsd+rEOTmm5WnLPvWc/KZCQoeovh52ZaqEYfWjFuGQ8D0zK3N3mw5A9f+959agaUnlIRkzZ6qzJUC99CXInvj7Or0klRaCMLCzOywE/s/4CKedIL/QYtgryU3yEoYvPbmfsk9U66gY18AoUMxVkC2tZzr5ihDcTNQFtwdO3L704U97UYvvUPspr22mja8EtUCwzmUNZ9vfShlxiNxLCc3d9UG00Cb/7xQTx9/DspOs0VqciGTkOuTQYwQNCfmoXz4VYTdvW9ZN/UfTZkBQZQg9MBmhUZt4TqfhhTROq9owxE4sFxMRG0yf+8DsI6v4K6aEvmjyx53eCXYONxfWTclWwcUvTAwvGv3aYV/jBmiF6hLoU1kP0CfftS4Xo0fFofOgjhadIYccUrQQTD5Dw==;U95XtojI58ZFX0zqDOq8aA=="
+secured: "bnXHcYDEoNzb5Cgef+0172ziFoLFFPWITYuq9RQ2mZFqF1B9WehWqVN7fVr7uGKPXN//DXitGXy1h4iArPC6+j9mMd7xP5GJw9dRQk+H6uXpbcs/FMf7r3RhFW9CLAblMGLfNuLwEnnHHBLP7OgT7Vw1eqIDRpE8ESwnC8uI/k5hgfgBKB9hynFtdqphXGpqs5pMydr/JcoqFxhh38aY/Gtco+SNAZWX4VVKiZWYeoJDS5cg+4598+HVLXLePvASoKmW/cv4O9d2pG1/pHzF7H214bUW3sxZn4IeCxYpu6FjVpMsFsHHwK9iurCSuFGwVDzBXJElvgJsU6mz9xoyYjbgh9fUHZjp09Cp1YAJ5NjsHPo/y+ZCzzUje0CytNHZ5yQqOhZA3Sjmia85RB3jRQ==;lLNqrvbgzPy9rZd+eY49eQ=="
 ---
 

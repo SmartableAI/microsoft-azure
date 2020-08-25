@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Application types in Microsoft identity"
 
-secured: "seP8jz9ddMC31r5QL4qJ0DZWICzkSVVYvDsrJ2LTeEfwrIRgL0oGj/nrvzDujE/jO5xlx3nY+dpy9y0fsB7havC9h3k+kSgC9lgASYX7eYzWTpK5ckgBe/2dFmLb8JMnS6E6QjUZP6pJTPd+JttDY0/HNXFY1qZed3agxCeXr+8G1Vvw4HgjOnW7QUouxNBQJLunVBaKQtUdVGYD5gpKsJBpixkDKCjPg+W85oruTvddL3bjtAjKwYpWBWSfUxLY/4zKNFFXGohk7WDPCq5Vy7koIkufCVWazPMu+48DxQSPGM4LiRhg6P3mryK/k1Ewoayqbged0c8aVURJK5s1/4ukBSd8PhVyieFtChD5OWdWA/wfDeMrH9A/PxlHxTgmcDXtN+B23KCzuPIkEdt/Zw==;6D78rGlj1ushHs5hIN9Ifw=="
+secured: "/8dAN+WwoIgYrsDG69kyJ4Mwdt2Liiq64w3d43wjqz1nyYiI8jM4L981a8TIPvm/Cr/6BNCgENUsawWtGaP7tEYK3VarexuAvJnnGU5Fzyzx/u+imca7UYYGnwvk+JJtWOLsD0G3tcQxqEoeHiUaqW9ShvrW+l9LE5uHzwR31xbaXJEYHWXT0PIT9oPI8V87mQ2jjTw+/cVRLXOFyHC3eLHgHIn2TE9jVS/9Jj7mJyd4yzSMqdE4CPZ/JTg0zFLQIWTWE2K8E/Wa4ngF8GdJIU6GLH+lGJkqwKnG+MPUay8dQrz3YFLK9oa3sYSI9+NezffA8ga+WDdjQV6qN2khiA5YaTXZ7KQn81t7CIV8gPTb2uBd9UPgw2qmQ/iGHfZDNE2rnEJ7127Z/ZeYCxzvJg==;xx4qS78tFG5cdYYP8ZZt5w=="
 ---
 

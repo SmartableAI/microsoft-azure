@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT55M
 ratings:
-  count: 87
-  average: 4.7011495
+  count: 88
+  average: 4.693182
 heat: 50
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Build continuous integration (CI) workflows by using GitHub Actions"
 
-secured: "4UTRkO7Pq1G9B3EQUSkJsJFh4emUXNqQy1OLGQhotq3h/9GzPHZHUlZKB5XnOrYhp9OdvIfQpQ93hVIYweku8QXlKCL3H+9CfgfRg8kuzU4PZp0u4DEuWEfMaXe55lrefs4OS4TtlSH297TXDZnd1HrNKiQ4hGMhDQGoN7qBiwy2pmv4DyUmq1aROGZFGttsg+hw52ZR8+YHnlV2elPIfW/Fl89HDnUVoDqTwk6gCnusF9ZEJM5ZMXM+HGhcF2my7wuzRUr+VhawGhBrdereEYrn4N0cCS1MPg+hvFMa6AoccFspZkGWxcCIYluhMvAQE+DUvWDY+0QxqmUTQzIKnSIDC0TMRlpDUf8V83GenRVf4vX7Ptxb6OsfvrtPD5/L1Pt2H1zn/9lJW+vKqELCbA==;wFsDhY05VGoznpvR2zzirg=="
+secured: "HYXvxcQhpV1A6CIKWRLdI2F9cbwP+gInkc2xfLA00g4txC1sA6Z1NNrG698juCkU/NRMQKLMN5lCMnubyn3TyNt+gEPzwHWm225/jRA+L/jw5Y3WrUwBGxuLKlm6Db9T+dxifiCxtWK6VnzgrMRFBL9fSEGKfiZ5rhW+yPrcc0mTVNqo1PNrbvXV4VfEpRNMJfL7/S673adj/O61c8wBjmMgjXiAkaWq1y7e4t6UCVbVEYjNRZLP0qWLmI15AzT2ON7ske/bfKvtffb57S0QQcHUOsaezZ9p143wKm3h3SGMZpepoEbeeqxzvd98w2acc2UxIXZZTgbvK6QUtsVhVgY5cbjZnRBG1ex6tg2c2D6BNRyp+NygL4RvD9xT2xexXo3TryZMsI+UX4sS1RPvpQ==;ZjJBm/XA0s/Wq995H3UKVw=="
 ---
 
