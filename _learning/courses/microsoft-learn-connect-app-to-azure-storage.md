@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 75 mins
 ratings:
-  count: 4460
-  average: 4.6287
+  count: 4462
+  average: 4.628418
 heat: 64
 
 provider:
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Connect an app to Azure Storage"
 
-secured: "j/yAkhpruVCkogkvVxd670+zcseJlPE5z9l0bVMFlxw23Mx14UqSQzAaKux4KUu3QmZzd+SoeBYVLP2DmrZj3LMJne9dzMxQ1ZhAZHFemmcpsDEp94sT5SHDc9YyUtGTEwLFQGd80d3SDpFmr6beVFPjEpHyn38/TZqVJ0a9vDWq0W7q4GfAQemLhYsuJc09B6VwSMMPF+09spxv3ut9UNIXP+Q9lspJN00f9gf36quVP/NXCEZv7+KsGoTMkdMEaDSD+ogC6ilOHyC24gd02Tk1Z5leuB68KsgFgPqHF5yUL6gf7Xsr7qCb0CUtQJ843TTUkgk8BX5OZPXPlQ56mR51ymmpWQacDdRH21cvOLpHHuAJBGEJYleDj0lJ3iToyuNWLKRbwCaWTmYCEn41Wg==;WdPTXu9QRCdhKHW251P/QA=="
+secured: "3l0E/3Ge3nJnlQtpjsURyEJ6WodB4nsslrxNCixdTbD5q6rPztL/h5fiTG7etM+n9q4+8+gIZEGXz4DL0ms8dSGM48VlUKKJRjNkf7YyLkJslUqwFAB2lxowbzozk21SBLxYJ6y7Dbjy2YvXDjI43Qp200ues4e3HiykB4gCgsAR3G0P4DCoEZFSmhk6U0DlpTI/FpBdsB8Ti1HtGVcYcQFpN/k42okARANNV+rkfy4j1nfvH7DPUBJMWCOU9subpZVFk941e4toGkN7m3YFCVGWRGB3LyzdNflOtBnuwAZchLiAh2RI2yuCXbNnL+i+d3pL/1N412xOVon7pkzhGdj/QwqjZypp9zf5cwGfiuHsxXpMh/JeW4Pxq5fimiotEzkCbvPCx1hMzx3G6KH9wA==;eQ03uzRkYcdAp1BIEmVdpA=="
 ---
 

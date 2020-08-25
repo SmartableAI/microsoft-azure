@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 55 mins
 ratings:
-  count: 261
-  average: 4.6819925
+  count: 262
+  average: 4.6755724
 heat: 50
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Collaborate with Git"
 
-secured: "FNqzbwUZ4bQWqs+E3OYEYUFLXiAktAgHQ0KJsLrkiFsIroHz0Z72EE1luuhLLYBX0WMSK0wwkKnQErWU44+tGF1bQ7ONVKGhvhtgRgkBjkS4S3UNXSok74r/82A/Xr7rVzxlWV4wScplZTV9K589NdYejrCf1kW0I5sLpjnTlP+pHEvAo/zAEgRMlzUNmaz1XXcQr8yFLK7S6R5YnNNR95x4CS4KqXrVcc2qL4azm41yb71MzQESmap0T/rsMfhUOgvLYVhXN6nB0xLI7AoBs5ST8FiN9QgFrdxBDtXYbmPJ3ogBsotfUASReciWL1yA8wBQtoKRB6cwdxZUGY0FoHzC7Yq4yaYH2OavQ3NH/6Pctk6coqa4F6hHL0w5rhxpYLleLgd/x4RmkREE4hM95A==;ag8qD7Fb3esnMU3b8mUk2A=="
+secured: "YVdoKEfIVFH5bqrUHqNAzGE1/QVB1gNDOfhQTRriT76MGYQX0YihOMK5mRHuXkTiuM82rwNWsnUuf3ra/oq1WfZ6fpl9scR8+UqtJjTXW28U9o7/vFS+jDRVDjv4Rc1GNUr801kLrP1NeLJxTcQQIfsIgudvOhEEQYOQmLHmzcUi4yuG+QsImOVQAjbXwnmx5x0IOgkp6dGAWrtKdyeH1v9jeWuGU0iCJJnuQanXUCWhX3majyvt437N1cnpjf6kinGl2mwOsiyc/xcWcW4/iivIdfLShJkx2v515Hx8FGCfj+RXX+o3KeABOD39pFPBTEILvKi5q20j5tl/qcLWH4Tj5AdMsxNWyYJ8aZSDVfczHUrlTpVW0JaYy9G591kmmD57JDgoPnwVolGAl7SpBA==;dY46XcyW/La3gN7ZVp5Gqw=="
 ---
 
