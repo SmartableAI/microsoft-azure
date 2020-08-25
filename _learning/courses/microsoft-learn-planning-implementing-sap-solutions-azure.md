@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 81 mins
 ratings:
-  count: 160
-  average: 4.7375
+  count: 161
+  average: 4.7391305
 heat: 50
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Planning for implementing SAP solutions on Azure"
 
-secured: "2RM4mTYLSWjo6UKYotezBcfy4cqkDVi7S8QEhDncp289dbdlbCSPIvkzaey+87sHn7fui98W+XGbvVux9e3MjttefbEPVxbeZVfqupD6Xp/8Mip+63GTTqU2PA7E756UeFOJYEocQCSjwcLox28hH7J4pbKaojzPyQFUOWKmhI0EECoAxeaejFFCryKmgha2WE8dOOQW0qx3qwbNmMqM104iQm43Jx7N2SxWNDFtUflKzfynBPz+K5Ig6i+6DmMres5E6+POSjUQdQzFdyYpi3ocQyczb5S71AUfy+h1/6Pfaa9JcT6XsHMcZFx36lwo02sF4SodV8mq0Y6/kvaQfSMzZsJwsBChv3beKTky/RRTi+MSEcRzadTtCQ0FygwLrKv1hRhdrpg2DXd0REso/A==;UfVBtr2otmGiKUQwrYJCRQ=="
+secured: "h7e/cfSV6oDRc9KuRtJ/2Ffhg0yHnUGA8ocw4/QDVyMexUAKjkTsgE7jBIcym0VIEamn0C9AJvSBEHEF/JsDBf20iTkaWEvJAhuVlCZmaeZimXb2DRidaZNoiwppGJEjAi90xe3RuPKw3uBSvCozEfYDTfmOt0U/keYjpkMdZPq6h0SsdR78aSBfvW7IpIQeHN6bzABFQSrYGi8kbGyZvUH4wqHssIX0S/WpqlJqpl8B3C/qvjlLYN4HjepX+M1lZh0AfGOSaaY1xZ6J8QUM0Sc3Agfsba5b9MqtW/aHUeIzLVfaV2BqfxdXzA/BcXLWRU+xdAGdRMTa43gCrgaqc1CHraDkKpCVB5jwRLg2FDM/bBLf9m617YTMNLxTVT8ZuSp40kV8rb/eYB5+uCSZJQ==;cpTWDalEuUOXAWOKxJ+T2A=="
 ---
 

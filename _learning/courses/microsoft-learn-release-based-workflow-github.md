@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT1H44M
 ratings:
-  count: 40
-  average: 4.8
+  count: 41
+  average: 4.804878
 heat: 50
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Manage software delivery by using a release based workflow on GitHub"
 
-secured: "G7KukZWWEvYKQHlcJt4lVBvoyubjhEZ2DPJv4oxrKMYt61zqzXKvnbNvQMGKP5jiel38UiMJOa+2yGEChGgx9UI3tig52d1vOWDjzCJIRUljEGFVu7RFXOT3U1OC1P9vWJyjkKUQFC7uoVzBvWfgy6l5R/rTzjE238Xkz2iFKf1XjDx3WERCWW8MlC1bP1FaRbOBN0HWcEyLMZIKUd2G8HczBEjak3I77u3qRmazdVGi1hkOQBhwgh+shlpRyaXA3aQZ0WiyWNIG/KojA/zQLUhe5n7s0f8bY4RPSvjC91vezimFkqKEMCJ7aLnm591jF84Awx9kYnzmkITlcf16haf/D5hFhkj+1G2Gb5z/rlBQ7DJ3x77nmt9BTrxOBxLVzOpINFh5LdA3dCckCsQhlQ==;koTfwFXyCKfZhWlA16w12A=="
+secured: "JNhcbVKeGZZ2LoTp9y4ZLyPt+vTK6XPP69q4KiXe0jCtkes+qeaM9JFmQEtqt2aWVSVzmzIEbi98R3Sb96+28h3pUArsCmE//GVyoiNDNhMnYd3BfjCGfKSRenLEgp2mwcbq16fowueRQcuhkKqbO1iZwpjOZDP60oeT9+4d5ZnqboO1oa9HE1d+n8ZPSOLdlcDSd2bQLnafSMKIyATJdjpn9+CaWoKkvwKzP6HBHHO/O5XpMpZF6mveLTIbCxsiFQcokfAOS3T/qWV6vhydDbq/wREpSZN5srfVJGHYIXy4VIR9l9OKJ97Ie+FYVbw5Rz8O8DnQj3co1dQ99nNZsdIr8YXkJ1y08ETYR2vII54TRBf2R9Je0SVe2hmyv3SEwHRhz0SIKc6+dl9gj51sdw==;1K6ChgTaHWspv2yXcPNz6g=="
 ---
 

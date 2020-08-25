@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT1H9M
 ratings:
-  count: 77
-  average: 4.6883116
+  count: 78
+  average: 4.679487
 heat: 50
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Maintain a secure repository by using GitHub best practices"
 
-secured: "612uTE2Ih6pVWrDV3greXWB2jJT9gqJdbe0xe0WW+7xhM+056SyeSE0ScwAj15kqKRjwfIJlrhaMO1se/q5EzKRpyPba2oQypoCRAo/FkrRFCIrPrvU2eQWyGscCD7b6RWxOPfNUNGJTzcXXsGeADH2cilvXI+nlfgw92+UWar3LPyS1lsOq/Qj4FUj7Wi/MJ4dXCCWBxeQ5IRramitWS/eVx+MxuRNgRkGGEY3ouFE5dHu6ZYTapYI4vY+RQm/GQCqBKQknn4b7mJm+NCWqbyCHIodvBLhhcRUAMaMhhNMspsModRhQKno/aeKPJx6EGzeqgRq5GmqcV9Z9BP9VdQ3+Q21M/bM3QJU8KMNo16Sswjs3Gh9xP0KbW+NqRViI3SNvZGhURxrHwAalMGIDfw==;qCYcjiEf8C8jvfR+3dIUiA=="
+secured: "pNgwgZWndUpQD0cu15YywKfPnWv9NZ2z7+9KFlBCvB35e+0jeiTMXnWGi0uOHxmJNGoAXwWJWri4SH+TExeMO08i11I9Q3szOjDFT/acsh4THhEMJ2hxYmSzW5Ui3TRnTRJV0lCBfd5tnDWfBmC74fhXxY59stYaQq/R36I6VA/WE6SoU2nKVHsXxtFEHuGSSIqIpvUh2Hd94WjeWVghkIy3amoUL6rKzck9j7BMeO6GphbkOulbHOhLG0Yk+zddRmXi1zzUpnsy/IkOMjfJJp5NHVixoF8ues5D8JKdlBzOSzyQMVMkVRclJKr9FQJ0QPBdg5VCd807jaJUx6EFBxhPqFtHPrMduZjgB2tOLhsNR1TZkpwme2mZMWtAOYoOgERhCp820ijiT3plNLYL+Q==;YNgVi2NTEBJMUcA56NPSiQ=="
 ---
 

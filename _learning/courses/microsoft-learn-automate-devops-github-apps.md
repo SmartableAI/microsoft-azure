@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT1H8M
 ratings:
-  count: 43
-  average: 4.744186
-heat: 50
+  count: 44
+  average: 4.7272725
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Automate DevOps processes by using GitHub Apps"
 
-secured: "D63xSYEmPn80hQVmRWdbQyGtaHntn5J6lSWK294iSqk3WMns7sHWBLFMnz2x3AqgflRB8vExlu1QGx9wiPqCOBowWk+3WpO4ogOf7czND7R+rhtUKo4WI3T7Dg3e9Lws8LIF2iJKeraoIpE3aFVSB9bLBPKSdu7nLrjOg995XtU1DbxrnJpLon2UPi4++vjsD6PyTesslQxIMTH+sC6FrED1Dm2M+HsEPsogAjQgtwejvSEJ5tbc+rNNx9F6Vfwf8qITLBYGp/Qrd07vEaRfMb4vSs/GgiqYe0EvClM85UhZVhClNvd+2phNyjqyDIhXwDPQbKFlTgIlUSs8LfCzjGAOx+CFz7gjW6qXNNKVsr4ZMkRFsGdOXvrWvQD5jbGFeabI+tSo+6wch8PHTZpfpg==;SIv2/CUtsNisMAJLRGuPGg=="
+secured: "OoQO/9kxbfQEweb23uAJ3ag8GLpvfRiKHSUzIU4ZD9XscIuRY9afjFK4zCVinkPhNSSRWdacAJHp8gctcDgfaEoW0YtdnW8xSTBDxUYMYpZrTSZ3LHZo0aOjHln1JnxZe8rTo3ut1pJTIFuSwZPti+uBGhJKKRnqyjolaCrJmgaXtue6Ihbps6OM5L++GkLpV+v+V0GZ6WtadB0XAZFl0ehlaMSJz7H+CrCdp2mnhGoL6cWTTWXVxAON4Nu2c/00RjZBDK5ekTy4wvb8xo7s6CJz+5LNinC/vYXeAdXiifCyoxlk6IY0sfwj+47YdkqW0kMBTDDRJDqCRubj0F04tQFtRqwJBlSkRgZJZC8vZI+r1WglX6ou/FLXPqJHmva3+XRyEzM4VYLdbZDzd9GotQ==;n0QNPsW6GYI8MiYvea+C/Q=="
 ---
 

@@ -8,7 +8,7 @@ length: 34 mins
 ratings:
   count: 1172
   average: 4.4769626
-heat: 54
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Make your application storage highly available with read-access geo-redundant storage"
 
-secured: "SE2LgryRusEFlMRwNXYrt8uKmRsSN+PCaM+dhd/IM204sKJXgy9cTENLyR3J3+3n6uLPBcr251yfkGSy+gZ77TsTT0PEswBLJSbTQR1AeojZYIVLpnH6+QQEMar1hz00pYEik6ht5T3wNHN6fz/OSbsgHnZyMFqIta1ZicsDqEjGhPzfvXCo7i8JAOMA1da44tMmFKn/RGdvaYSdNwdXOjVO07/F7l7k17/rh/qHzfgmKm1EwoCa3FekxXkPot1iclBVD92Wlh5NDxw2MWMWmv9g8/ranaiDoBSpLvZaZwcG6jFozAcvn4HKGgH6UV6xlQvf7A2I+cvfc2qqwjufbcVZa0JOK1GKpkhzynTxpR4MS2ZT301ZlqnGrXnmZeFVoBDI5QmB+aWkvqOwGZLxiA==;iiD8HTEfb/cbP1Um7BaFkA=="
+secured: "zVbKbpryy1v7D7aouVBZ6xgrBjGBKse3kAl/HJXSAdv/1QgO/x2RPMO8in/RvO9MaddPI7fNwGm806aLfFoFczEBmU/QOiVPahrx9aEmjXBcYnn7++olFkCPt1GdrkO6YTEaDDH+/BhmEzg31VdqmQOoTRdQLnUrQUHMUT9BUDfiAHf1H7K1iworScSNCY2elJ5uQ9BwLi5w5WvTteqaZ7jFJ1rUGyygAGrdeM4tJU/sFpJImtFZ3cuTy+JzRUd4N4KfubIgQTVlZjaQTvZexKyMd9PkQ6iX758kpqESutjcEfolCCnGnT3IPe64n/q4/o87RFxM7/N+pENqACoNMvBqgigq5Y31Ifq4f2rmnTGXPBrvz0dVUsdC87jaj3BMmY5bSEm+RFgRar5AiaKrWw==;1zTD+8XbAMtvWYCfU+UkGA=="
 ---
 

@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 47 mins
 ratings:
-  count: 543
-  average: 4.596685
+  count: 544
+  average: 4.5974264
 heat: 51
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Dynamically meet changing web app performance requirements with autoscale rules"
 
-secured: "FRrU2dfCPdAzo8uRKCl5fqjRBT2C0KFkOcmc2IkjdaU7q+V24D5a9a8BoeGcMXV0vyr9BHF9jbbG91yB9lNqbhHI73HBHaJkbA4/G5xK0TbXJNnLfNJC33f7eNMy2BPQpJi/f7T1gf0jfb1N0Fhar2OyqZTHXoWeipGKz7YlFIccjVHzhtCKxEiKs4B7nVwcJ1VKRdPWtzzkEaqB/0QwPM0Xb+1Wow5Cnao/IcYK8ZD9kWXIA74My564qG6WHTIzQy8/LUNDFJ+h0+cqFJ6UA+PQTzdawtING6tnrszWatM5a77CsBWkkduM4uWWxP/1X9O+VRYLwFWScLN8EDy2k3IKGD+8qDIYQOoH1tlYc4MZEYeBt+numAakPB17kvFmSBv83N2D/5zLyNqGx/tMFg==;ynfmPigKs7FH1VJCKJiCUw=="
+secured: "OjgkjX66OqHii9IKZ6hwOI79jP6JJTs9sRiWkKxMgy5+61DCUmoAidsURBjMFph70Y262WaPyO+bnEG20w0Ga12bKmJN5cXNYdE1AWBE3jCV644KTavKojvJuM8RSnMdIE6Iv1tzfcHbeckrjOp758RdqNpp50+7YUPnAoeipeoFqmyYuFkXqcC+pQUXcBq50AI2S5Rqle+wbnuzBT+vk9/0xyi9IoqAGOli0SSEYH1HyaNueOAAvVCGMMD1VW7vjBs/PrTktZaXuSnLX2OPiBOSVrYHD2FLrS7woos3sXqxXgKelTc2UiPrxtqhEx/ODIlNFmQi4sN2jlY9MPZCe8ihloaMGEBRnSzzopNxfejE5Hv4QVDaQfzwgU150wgzmp5MlyncPLJBNJ/l6RS8ew==;8BOl20L0RPrEElhYVMPAKw=="
 ---
 

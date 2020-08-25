@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT26M
 ratings:
-  count: 266
-  average: 4.8609023
-heat: 57
+  count: 267
+  average: 4.861423
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Explore concepts of non-relational data"
 
-secured: "Cf0Msw9TtMganM5E4v0lJEwhalgdIg083c0u6F6yzzwdT25OmG+xQnWC8mlYgskZ6hJTkc1hIOXAIEiXRgX9AjvCvzM+7rIFYqTGkDDCtGRuw+XNsDAApVP6wi68DoAg2pZCDlmyLAZGPLsPd3ekZvlBVy3fV9KAbar/dyk1c6yMtwy5Ii9Ds0Ep0iAAAAt5RRpemoocfEze6sV/QbLXv1jhVEGgugCEEXAB6Pn8D3WdV+zXpdF2VvjToa8rxgAbBW8/M692njRVUq9J7EKTphlNntWxBOVVZhyDQ0olxE4V3izd58kxBxoMNVpM6skbyB84R+B7+58GjuSgCpHT1n6kT/JZboWLwMFkJmQrJyxq6N7jjHzZf89GqLAstTA4uxM1oWKjMa9xQQfv4dVIQQ==;iL8qdSEOgWLbEeAuoaZMFQ=="
+secured: "UV5VFo1H3lrDG5tleXFvbYyoWhno8Fh+rUUMBnW6+LLb8a0VjktVDiauKsxcU2Lm016Sm1NwCw7jIit9We9hqnBQyOvScA+hRGJXMWSfEKEF7JvPZKj7u3+LQCL8A6A9Un1aQ3F+CoQ7CWNO4mjg44/5RkAGAWqT27ia7DjyGcBWT79cfm7V1LzWJawYvUvD0Lw7NWXZo+bxybe5FOS8kQeU0krba7MjxPbJuxUxT4/V3YNWoB0yHxkN2WMYAI5HECRvku4KD0Kmq/rM/0bY5fX+Kb7KczVzdVNd+DuLoNKOs8thz7rBG2DuInCwDFORyxwgEO7hHNYR63bZnOCYXdf5dVFimLGARk9o0in1HMJ+qVwUOyor5IkBdW0bHaeq4RVkmKB+BAbaYZsxMAPSRA==;BizQRFY2xkVYhXEix6idfA=="
 ---
 

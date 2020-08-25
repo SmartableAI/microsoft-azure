@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT41M
 ratings:
-  count: 101
-  average: 4.821782
-heat: 52
+  count: 103
+  average: 4.815534
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Explore non-relational data offerings in Azure"
 
-secured: "ZxHF02YLwOOOYzXeYmVmVJK53kIe8phxaOzfLcozPvV79nmJeM8Mzk2xsHGuKFDRd/TawsO+Qq3ZF7s1QkZ6+i/itxeC+QKMV4FHf8YC1iVho7il9YgLJQGkalQbwWhUuc8i1bWYl+8S/w48+CXbsoC9ucjyxnaydqKLNnAJalGkNLz8xIJvY2FHwdFA9H2uxhZNxjetfacaK65QQsw4kUbj+LSl940Bhcgp14HzU4r9L94ALB5DIMilbonD7ra+CoJ7KPpOVmS9rIcsX8CT0dIDKYX9tuWmNVo2AKqOZmXjgLJYeI5LocWXnd5WSDsKmR/D2KHGl/o60EfxIxmfGVAwe01XC0NUZMtkshpMk4azFoWt60NB8J02vEwRswpjRi07C6HyEXnRGZbZ6gYJrg==;ZpPWd8ajhTIpxWLaYMXm3Q=="
+secured: "eyPL9iZFj4qerkqZ0gmV+VFL/Ca5YP28w7T4Xy5rRdZrd5WikL9HKlQIzhQPYgWrQbaGwfRJa2vP43ZzGLRBp/BTWZWe7u4OGmNZ4eq3O5rj9ceTA4ezO24J4Gn9XQGvIczq0+Po6ld52zPMEsBFum58LWGi69BVoJXx3V9yI2rlZC6MEM89Jmn0fCt6qj19oxbhqt8ENb/x4lMzYV0iycAcM6+X96dqsYAIiFUkzUeDTB8gEak5bXw8G1/WOP1XYQhnQZkoj5VzS+ifuowzhNrtXUG7TLDC1IEaHIowRjx5mAvdPmj/JR9SoLwQPpsZrjNCl4oq42KNW0lzegvRoHt2FMFrMbEYRC/Rno+IeeF0OD4lxOeHbFN3G/jOHQ+gLD+meMQTdYnwVnXKX54LOg==;+uI6a0knpLB9GdRxojYP4A=="
 ---
 

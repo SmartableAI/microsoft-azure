@@ -8,7 +8,7 @@ length: 43 mins
 ratings:
   count: 5170
   average: 4.7471952
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Applications and infrastructure migration and modernization"
 
-secured: "KRztil3L3xgg8yuAhn55xtJDFPQUCJSiFYkguuwiT0gAjjABpdiLy+/ZVFlXUFAKKxi6HH7zOZmpE8uNpoZYHAL0qvVWPIRExkFspCVjk8VoEoKSjGbCgH9mHt9hbpzB/q73YLIewK+s9rz5uMeRVgtq19RjKJX/QWQrPBK+zHnpm+d8kQ2b3UsWbIgi7c5F/TzkbBarNFj8QY1UNdho5kCxpua5OBbr1nRiQgowALRnJtCuL6cf9HSkGhwBmhtBDtIuPDMtfcA3pBUZfteiNTrM160Gc5howIOApdWcF6zPon2BrdC++LqdsevBNQA/H4nFSdjV2NtBZ+KXMO+ZD1Ae607w1ebyv6Eo5eCx793UFouZTgLuQRLk/qvUmWa3bEak2F2R8uCR+RII3bz3iQ==;T5pLcwtXekMpgdIGnDsVnA=="
+secured: "OvX6Oli4oql2QBDDpVV2Hx2rpGQv6W/6D5Lyrudo54Lcce/D+ruXmAn2kFRWH/vVdiJvQJaVGqRrNf79kRmtL68XVga8vBTZjqKe5r4NbbruQdQi1njl5yjqucqolgeQY1A3k+xbK5NZvl7PHj1ABuSp6C3KL2Q5AmemoQ9McMXKXnbtXLqV1fCM3F3KrAFo9MRnnNzXgOwf8K+NCY+8qoOx/Q1QsRhckbXP0bF0g9L46MDkQ1zf2luJhKdtuqQrvppxmoGBOcWzZr+SeP3+gtvrcf621h/TC2TddcSSzX2tn568jSLaLbOhdA+XTcyNxLJCW5FEZI40YH0U9KtQmFYWMguqCCMuzpGO1Xv3lOjfSVhXHC52wRRwurGfozFwQQykTtEtoMwCY5ywL0Iblg==;fQS6vortbH77XSLuSeFN5w=="
 ---
 

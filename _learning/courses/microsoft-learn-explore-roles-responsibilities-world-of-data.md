@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT17M
 ratings:
-  count: 397
-  average: 4.816121
+  count: 398
+  average: 4.8165827
 heat: 59
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Explore roles and responsibilities in the world of data"
 
-secured: "YEbi9UicUib2bwiBaHt01i7DU7fREXEh8QXQFJKl0GwTaJ6Jy6IUYg7GIPyCCbIZJ/q8rdVW5aSxphYZMAdRSCW+8VleLrVbR+inTZTivc1hTjT9kyQwOsa4GO4OAZXVIGEyEoqr3nAMebhluEc/7uZqVY5YM7Ce1pQ5emi3VYPe7EHIdXj6hOmzdpK62Wk9DeZB3Ut6em7iT/1ACfKcCt8zLdLhuKve5Cy1HBqNjhhtHAN52P8Sj93GmnDfDbeq6vb1ZNuW+HNvO+zwHdONAu4rBb2w4T++Giy1iwDwJ1ohyn1LOFU7DsIZQLWhhcz1TR7fnzPa8L462dbEwTFvpCU1TCe8K6+SUGIj+8uulFitc0r2PECumnFbOW5P0KciGLkLH/w659LCDSKVDMC25w==;yisQmf880k3yvwHsPXnmiQ=="
+secured: "Zet6QgAerhzn1xDTPzb0IMNTD0HwgivaAp42/mLVOXo+Bwkw2p2xFlMrITKNV9xpSWQEsS6w6H6WtLhqEwngVG5E1sjrbwr9DGJtu7IFE8MUEzXBM1jg8Ong+e1Y2AFQZHOiqhNiR3SaJuQxev+qfOucy8ylb3NIqlOgSBLIopGMsaPpvgqwOkk97WJKZ29uwUQ0uK37rcx4eV+z0Uk9iBt3tVuOmhmNddYx6YnE3BO6Z2tVhqbYN3ELzpviGTcqy+ru4tooQkfgKTS8NWd9ZV3ZowM7jT/Jn3kUSLmn6hn3Izh9fl3/nOX27fuowxH46nvPWy+u/LoWS6zyeUCxLYYVEpFlVbbg9ozTEiqxt4m0/H3c0namwT7Zba9hcN+e+UI+h+Ack9G7CgzIDK8mMg==;wU92m2zsQkydad+YRaR0rw=="
 ---
 

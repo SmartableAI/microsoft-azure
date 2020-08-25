@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Copy and move blobs from one container or storage account to another from the command line and in code"
 
-secured: "voo87n8kKNZCPamzPvA8fkUHqqUFNyi4QKk1nPFOW/qHg4pgxqsdeuxO4hGypYlkneHMy1B9YnywseqCp++alzWQNDHLHl4rI44oDvWm06g8H1MxmjdBwBOKMgKwH1Gc5aqLcRRDIl5owFqvPtlcMIdtS4Nfcp5ljKcSgyxIHiTyFDfl+UP0jlQ+JoEv3aUw3UShq2+hsjzSSxVjaRqxV90QKXvrjIyimp37uupmPfpKmwVPZigVFYoSOBcKXFXdTMAllSeGBAn7w+taQa9mXQ+qhdp+xMJOaoZN4J/k8HShcyQKQO7YR8KaKvcWzUDq6/Xepd9HR5lPy9pSPW0DREoLa/7bQ2DUvV2Sio+ypI3oxAmqXGjkZbjIEfVM70gI8dNwrXHvuzSIe6Jh2dt0DA==;hyNL/Zs9Mk6aa/XDZPJ97Q=="
+secured: "FluUx5EP7OGQfAQd8Xpg4lihhoQyZu/+UtV4OMKebrKiyhFKiKNOY1DjL8eBxdUdHKkbvNe0/8Z0QvBqD0AQynOMciBNES2PwqfOL1I1h3qEdJ04hiv0HxyWCx95iISf3DrIwlyEwRkExZNQNdJoUDoPxNwsf0OaKg0+lOU5Wk2uOhqQzKHpbBwalaDoEwjfh1K1YFdhb+WZ6VGsebaa1vXdTg5eYUMZ7WmOGSGn/rBP0UiavHtvqD25sNbXkxKImu+xuGEdFPvprVC6I/4hHk/H1FqsCOErI47Cyk0LsHfHgL6aNm2rFkowP+14yvsZQ69E2oAtD6B4gb3oGSywkwDDNo679Hr78zNVWj4f4c9nXPKZA8Ad5BfsqjPxEaXR/rBYm5OZMEbWkFlT9XmAfw==;ZmKCrhzFrGZYWaW72ZcMRg=="
 ---
 
