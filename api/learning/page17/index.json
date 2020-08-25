@@ -4,105 +4,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-analytics-engines-graphlab.md",
-      "title": "Distributed computing on the cloud: GraphLab",
-      "excerpt": "Carnegie Mellon University's cloud developer course. GraphLab is a big data tool developed by Carnegie Mellon University to help with data mining. Learn about how GraphLab works and why it's useful.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analytics-engines-graphlab/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-analytics-engines-graphlab/",
-      "length": "PT1H3M",
-      "ratings": {
-        "count": 19,
-        "average": 4.894737
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-analytics-engines-mapreduce.md",
-      "title": "Distributed computing on the cloud: MapReduce",
-      "excerpt": "Carnegie Mellon University's cloud developer course. MapReduce was a breakthrough in big data processing that has become mainstream and been improved upon significantly. Learn about how MapReduce works.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analytics-engines-mapreduce/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-analytics-engines-mapreduce/",
-      "length": "PT1H47M",
-      "ratings": {
-        "count": 19,
-        "average": 4.6842103
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-analytics-engines-spark.md",
-      "title": "Distributed computing on the cloud: Spark",
-      "excerpt": "Carnegie Mellon University's cloud developer course. Spark is an open-source cluster-computing framework with different strengths than MapReduce has. Learn about how Spark works.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analytics-engines-spark/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-analytics-engines-spark/",
-      "length": "PT1H5M",
-      "ratings": {
-        "count": 18,
-        "average": 4.8333335
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-analyze-images-computer-vision.md",
       "title": "Analyze images with the Computer Vision service",
       "excerpt": "The Computer Vision service enables software engineers to create intelligent solutions that extract information from images; a common task in many artificial intelligence (AI) scenarios.",
@@ -503,8 +404,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-github-using-github-script/",
       "length": "PT25M",
       "ratings": {
-        "count": 42,
-        "average": 4.785714
+        "count": 43,
+        "average": 4.7674417
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -665,8 +566,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-and-store-container-images/",
       "length": "49 mins",
       "ratings": {
-        "count": 2219,
-        "average": 4.604777
+        "count": 2220,
+        "average": 4.6045046
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -829,8 +730,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-logic-apps/",
       "length": "28 mins",
       "ratings": {
-        "count": 1546,
-        "average": 4.706986
+        "count": 1547,
+        "average": 4.7071753
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1002,8 +903,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/branch-merge-git/",
       "length": "50 mins",
       "ratings": {
-        "count": 220,
-        "average": 4.577273
+        "count": 221,
+        "average": 4.5701356
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1224,6 +1125,114 @@
       "ratings": {
         "count": 48,
         "average": 4.6041665
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-build-web-app-blazor-webassembly-vscode.md",
+      "title": "Build a web app with Blazor WebAssembly and Visual Studio Code",
+      "excerpt": "Learn how to set up your development environment and build your first WebAssembly app with Blazor, Visual Studio Code, and C#.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-web-app-blazor-webassembly-vscode/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-blazor-webassembly-visual-studio-code/",
+      "length": "PT45M",
+      "ratings": {
+        "count": 1088,
+        "average": 4.6911764
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Build a web app with Blazor WebAssembly and Visual Studio Code",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-case-study-distributed-file-systems.md",
+      "title": "Case studies: Distributed file systems",
+      "excerpt": "Carnegie Mellon University's Cloud Developer course. Discover how distributed file systems work, then learn about Hadoop and Ceph.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-case-study-distributed-file-systems/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-case-study-distributed-file-systems/",
+      "length": "PT1H7M",
+      "ratings": {
+        "count": 21,
+        "average": 4.714286
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-case-study-nosql-databases-object-storage.md",
+      "title": "Case studies: NoSQL databases and cloud object storage",
+      "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn about two more types of storage - NoSQL databases and object storage - with case studies from industry.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-case-study-nosql-databases-object-storage/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-case-study-nosql-databases/",
+      "length": "PT1H22M",
+      "ratings": {
+        "count": 23,
+        "average": 4.826087
       },
       "provider": {
         "name": "Microsoft Learn",

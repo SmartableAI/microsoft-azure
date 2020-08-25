@@ -396,47 +396,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-cmu-build-apps-cloud.md",
-      "title": "Build applications on the cloud",
-      "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn how developers write programs that run on the cloud, including how to deploy, be fault-tolerant, load balance, scale, and deal with latency.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-build-apps-cloud/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-build-apps-cloud/",
-      "length": "PT1H21M",
-      "ratings": {
-        "count": 77,
-        "average": 4.5584416
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/build-applications-on-the-cloud-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-cosmos-db-app-with-vscode.md",
       "title": "Build a .NET Core app for Azure Cosmos DB in Visual Studio Code",
       "excerpt": "Learn how to build a database app to store and query data in Azure Cosmos DB by using Visual Studio Code.",
@@ -444,8 +403,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cosmos-db-app-with-vscode/",
       "length": "54 mins",
       "ratings": {
-        "count": 1381,
-        "average": 4.475018
+        "count": 1382,
+        "average": 4.475398
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -531,8 +490,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-computer-vision-service-to-classify-images/",
       "length": "32 mins",
       "ratings": {
-        "count": 1258,
-        "average": 4.647854
+        "count": 1259,
+        "average": 4.6481333
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -618,8 +577,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-core-tools/",
       "length": "20 mins",
       "ratings": {
-        "count": 1589,
-        "average": 4.6985526
+        "count": 1590,
+        "average": 4.6981134
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -792,8 +751,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/export-data-with-azure-import-export/",
       "length": "24 mins",
       "ratings": {
-        "count": 384,
-        "average": 4.6979165
+        "count": 385,
+        "average": 4.6987014
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -835,8 +794,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ha-application-storage-with-grs/",
       "length": "34 mins",
       "ratings": {
-        "count": 1177,
-        "average": 4.478335
+        "count": 1178,
+        "average": 4.4779286
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1006,8 +965,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-machine-learning-service/",
       "length": "42 mins",
       "ratings": {
-        "count": 1946,
-        "average": 4.6109967
+        "count": 1947,
+        "average": 4.6111965
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1098,8 +1057,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/keep-your-virtual-machines-updated/",
       "length": "35 mins",
       "ratings": {
-        "count": 2555,
-        "average": 4.4861054
+        "count": 2556,
+        "average": 4.4863067
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1142,8 +1101,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-authentication/",
       "length": "8 mins",
       "ratings": {
-        "count": 1019,
-        "average": 4.6967616
+        "count": 1020,
+        "average": 4.6960783
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1184,8 +1143,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-provisioning/",
       "length": "17 mins",
       "ratings": {
-        "count": 1248,
-        "average": 4.72516
+        "count": 1249,
+        "average": 4.7253804
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1300,6 +1259,50 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-monitor-github-events-with-a-function-triggered-by-a-webhook.md",
+      "title": "Monitor GitHub events by using a webhook with Azure Functions",
+      "excerpt": "Webhooks offer a lightweight mechanism for your app to be notified by another service when something of interest happens. In this module. you'll learn how to trigger an Azure function with a GitHub webhook and parse the payload for insights.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-github-events-with-a-function-triggered-by-a-webhook/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-github-events-with-a-function-triggered-by-a-webhook/",
+      "length": "53 mins",
+      "ratings": {
+        "count": 1499,
+        "average": 4.629086
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/monitor-github-events-with-a-function-triggered-by-a-webhook-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Monitor GitHub events by using a webhook with Azure Functions",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless"
       ]
     }
   ],

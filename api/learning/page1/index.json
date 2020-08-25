@@ -257,8 +257,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/",
       "length": "62 mins",
       "ratings": {
-        "count": 157977,
-        "average": 4.771726
+        "count": 158027,
+        "average": 4.7717223
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -300,8 +300,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
       "length": "39 mins",
       "ratings": {
-        "count": 126682,
-        "average": 4.6948895
+        "count": 126714,
+        "average": 4.694927
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -467,8 +467,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
       "length": "38 mins",
       "ratings": {
-        "count": 60066,
-        "average": 4.707455
+        "count": 60085,
+        "average": 4.7074313
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -640,8 +640,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-data-in-azure/",
       "length": "25 mins",
       "ratings": {
-        "count": 52316,
-        "average": 4.7321467
+        "count": 52333,
+        "average": 4.7321577
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -684,8 +684,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/",
       "length": "45 mins",
       "ratings": {
-        "count": 64220,
-        "average": 4.7115073
+        "count": 64231,
+        "average": 4.711541
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -726,8 +726,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/",
       "length": "36 mins",
       "ratings": {
-        "count": 63681,
-        "average": 4.799108
+        "count": 63691,
+        "average": 4.799124
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1021,8 +1021,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
       "length": "76 mins",
       "ratings": {
-        "count": 42264,
-        "average": 4.701874
+        "count": 42276,
+        "average": 4.701864
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1057,58 +1057,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-extend-share-capacity-with-azure-file-sync.md",
-      "title": "Extend your on-premises file share capacity using Azure File Sync",
-      "excerpt": "Evaluate the requirements for Azure File Sync. Deploy the Storage Sync Service to replicate files from Windows Server to the Azure file share. Test and troubleshoot file sync between the file shares.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-extend-share-capacity-with-azure-file-sync/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/extend-share-capacity-with-azure-file-sync/",
-      "length": "PT1H16M",
+      "path": "_learning/courses/microsoft-learn-configure-bitlocker-disk-encryption-for-windows-iaas-vms.md",
+      "title": "Configure BitLocker disk encryption for Windows IaaS Virtual Machines",
+      "excerpt": "You'll be able to configure Azure Disk Encryption for Windows IaaS VMs and back up and recover encrypted data.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-bitlocker-disk-encryption-for-windows-iaas-vms/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-bitlocker-disk-encryption-windows-iaas-virtual-machines/",
+      "length": "PT35M",
       "ratings": {
-        "count": 0,
-        "average": 0.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/extend-share-capacity-with-azure-file-sync-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Extend your on-premises file share capacity using Azure File Sync",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-protect-data-transit-at-rest.md",
-      "title": "Protect data in-transit and at rest",
-      "excerpt": "Protect data in-transit and at rest",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-data-transit-at-rest/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-data-transit-rest/",
-      "length": "PT25M",
-      "ratings": {
-        "count": 16,
-        "average": 4.625
+        "count": 3,
+        "average": 5.0
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1138,7 +1095,51 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Databases"
+        "Management Tools",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-implement-cicd-iot-edge.md",
+      "title": "Implement CICD for IoT Edge",
+      "excerpt": "Define a solution for smoke testing for virtual IoT Edge devices. Your solution will employ a CI/CD (Continuous Integration/ Continuous Deployment) strategy using Azure DevOps, Azure Pipelines, and Azure Application Insights on a Kubernetes cluster.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-cicd-iot-edge/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-cicd-iot-edge/",
+      "length": "PT1H11M",
+      "ratings": {
+        "count": 9,
+        "average": 4.5555553
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/implement-cicd-for-iot-edge-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Implement CICD for IoT Edge",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
       ]
     },
     {
@@ -1149,8 +1150,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-networking/",
       "length": "28 mins",
       "ratings": {
-        "count": 41443,
-        "average": 4.763772
+        "count": 41452,
+        "average": 4.763751
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1192,8 +1193,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/",
       "length": "73 mins",
       "ratings": {
-        "count": 48127,
-        "average": 4.706485
+        "count": 48134,
+        "average": 4.7064447
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1235,8 +1236,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
       "length": "46 mins",
       "ratings": {
-        "count": 36154,
-        "average": 4.6276207
+        "count": 36162,
+        "average": 4.627648
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1278,8 +1279,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimize-spending/",
       "length": "74 mins",
       "ratings": {
-        "count": 38514,
-        "average": 4.7136364
+        "count": 38518,
+        "average": 4.7136145
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1692,8 +1693,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
       "length": "46 mins",
       "ratings": {
-        "count": 36589,
-        "average": 4.7122087
+        "count": 36594,
+        "average": 4.712166
       },
       "provider": {
         "name": "Microsoft Learn",

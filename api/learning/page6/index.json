@@ -4,50 +4,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-control-network-traffic-flow-with-routes.md",
-      "title": "Manage and control traffic flow in your Azure deployment with routes",
-      "excerpt": "Learn how to control Azure virtual network traffic by implementing custom routes.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-control-network-traffic-flow-with-routes/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-network-traffic-flow-with-routes/",
-      "length": "50 mins",
-      "ratings": {
-        "count": 1491,
-        "average": 4.6183767
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/control-network-traffic-flow-with-routes-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Manage and control traffic flow in your Azure deployment with routes",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Networking"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-evolving-world-of-data.md",
       "title": "Understand the evolving world of data",
       "excerpt": "Learn how data systems are evolving and how the changes affect data professionals. Explore the differences between on-premises and cloud data solutions, and consider sample business cases that apply cloud technologies.",
@@ -97,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/",
       "length": "PT25M",
       "ratings": {
-        "count": 6721,
-        "average": 4.7210236
+        "count": 6725,
+        "average": 4.7211895
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -130,8 +86,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-app-scalability-resiliency-with-load-balancer/",
       "length": "47 mins",
       "ratings": {
-        "count": 1715,
-        "average": 4.710204
+        "count": 1716,
+        "average": 4.710373
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1471,6 +1427,119 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-cloud-computing-basics-for-developers.md",
+      "title": "Cloud computing basics for developers",
+      "excerpt": "Learn about the basics of the cloud, including the history, building blocks, and types, in preparation for real-world cloud practice on Azure.\nIn this learning path, you will:\n\nLearn about the history of the cloud, and how it was built\nKnow the major cloud providers and cloud types\nUnderstand what types of resources are available through the cloud\nCompare the economic benefits of the cloud\nDesign a datacenter and use a datacenter with a cloud service\nBuild apps on the cloud\n\nIn partnership with Dr. Majd Sakr and Carnegie Mellon University.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-cloud-computing-basics-for-developers/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-cloud-computing-basics-for-developers/",
+      "length": "PT6H53M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Foundations of cloud computing for developers",
+          "excerpt": "Carnegie Mellon University's Cloud Developer course. Discover what the cloud is, the history of cloud computing, what types of clouds are available, and how you might use the cloud.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/foundations-of-cloud-computing-for-developers-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Economics of cloud computing",
+          "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn how developers pay to use the cloud and how cloud providers are able to charge for their services. Get an overview of how the cloud is kept secure.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/economics-of-the-cloud-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Datacenter trends in cloud computing",
+          "excerpt": "Carnegie Mellon University's Cloud Developer course. Datacenters are what power the cloud. Learn what they are, how they work, and challenges in managing them.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/understand-data-centers-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Datacenter components",
+          "excerpt": "Carnegie Mellon University's Cloud Developer course. Take a deep dive into datacenters to discover how they are laid out and how computing resources are provisioned and metered.",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/design-a-data-center-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/foundations-of-cloud-computing-for-developers-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-define-an-ai-strategy-to-create-business-value-across-industries.md",
       "title": "Define an AI strategy to create business value across industries",
       "excerpt": "In this learning path, you will hear from Peter Zemsky, INSEAD's Eli Lilly Chaired Professor of Strategy and Innovation, about how AI is driving business value across industries and companies as well as Microsoft customers and partners. You will be able to discuss how technical teams are bringing AI into business applications and how business leaders of different industries are thinking about AI for their own businesses.",
@@ -2452,7 +2521,7 @@
           "path": "",
           "title": "Configure BitLocker disk encryption for Windows IaaS Virtual Machines",
           "excerpt": "You'll be able to configure Azure Disk Encryption for Windows IaaS VMs and back up and recover encrypted data.",
-          "heat": 50,
+          "heat": 110,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
