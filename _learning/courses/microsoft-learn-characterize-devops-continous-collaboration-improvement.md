@@ -8,7 +8,7 @@ length: 17 mins
 ratings:
   count: 247
   average: 4.676113
-heat: 51
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Characterize DevOps Continuous Collaboration and Continuous Improvement"
 
-secured: "1aasu2cP+A5/f1w+ygAKcWJjhTPQ9oAab97yjTfRe0F/X721dKBCSxYbfnuaWhKDPsMl93rKnmTnStIstjbPbWMBRSOwssIMfPUgiu5g/h1ltM9Ft9YEyBIaSwJEc6mgwgabVzadqCEt7dqy8No9I6yyZWskupVLhjCde+B0PSX+CxYUDAklGW43FQNqA+r/o8mG2+cAn+HBsndeCrD5Bnpxlvq/V+W6XJiCHgWhGCY7K1TvkSMc5U4KA1W5PZmOWLDsdJ5c2+A33TICwHYWO/+HGe7HfGsmh3BP/uZOGpHJtqmj3g1kw4hZ6AJy57fI7tGQgmOhjMLDNz7dLP1r/3n5xl2+HD1KzbwnG9I9/MpbMrWezRUvt1wobSTTCWrR0QlFy9JrkmGcLFrQCfU7Nw==;UId9/xdQIMFg6xlyL195QA=="
+secured: "Q7moTyenj0DYy2iw4yM6dD0c5LhObvg8JtDWffoiodQAN7BQNQ3n9MMHvYPJTTxR9Zlp7luENqpJb69RWYNjnJLD6P1ewXSw5uZKXC8AT/JkHxQApufuLs5qlwAM6Y7+KG0rdO35KcMQ+AxJI1vmFgTOoFLNVnECLB26dGh2bxLc08XKoebu9DurOUJ+3MnHcOisCxdSbFQgR74M2rDLY4zhAIvV6Z5XeWIlaRyGvSWSMg/IltcR4xD5Het99QDvvibv45ohumXLGW2YK2giMggc3pyU/4ypqsx2gevf5LAyzyqKZeayj1wZ4b6fI3/+TeoEISx4oh8xemts7p8VjOw9NC+jShUAmA+OSkRqWnzuB+3SAzn4cbzw4lZztc5hgZie/jdvvWfr8jCtuIKjWQ==;WFYfLV0wXsnCzJXx0DiZNA=="
 ---
 
