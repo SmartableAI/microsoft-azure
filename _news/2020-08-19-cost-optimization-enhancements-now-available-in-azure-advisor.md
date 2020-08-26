@@ -3,6 +3,7 @@ category: news
 title: "Cost optimization enhancements now available in Azure Advisor"
 excerpt: "New Advisor cost optimization enhancements help you optimize and reduce your overall Azure spend."
 publishedDateTime: 2020-08-19T16:00:31Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/cost-optimization-enhancements-now-available-in-azure-advisor/"
 webUrl: "https://azure.microsoft.com/en-us/updates/cost-optimization-enhancements-now-available-in-azure-advisor/"
 type: article
 quality: 67

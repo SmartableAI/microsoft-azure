@@ -3,6 +3,7 @@ category: news
 title: "Wasabi Tripling As It Siphons Customers From AWS, Azure In"
 excerpt: "AWS is growing more slowly than the industry. It doesn't help that storage cloud rival, Wasabi. charges 20% of AWS's price."
 publishedDateTime: 2020-08-25T12:46:00Z
+originalUrl: "https://www.forbes.com/sites/petercohan/2020/08/25/wasabi-tripling-as-it-siphons-customers-from-aws-azure-in/"
 webUrl: "https://www.forbes.com/sites/petercohan/2020/08/25/wasabi-tripling-as-it-siphons-customers-from-aws-azure-in/"
 ampWebUrl: "https://www.forbes.com/sites/petercohan/2020/08/25/wasabi-tripling-as-it-siphons-customers-from-aws-azure-in/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2020/08/25/wasabi-tripling-as-it-siphons-customers-from-aws-azure-in/amp/"

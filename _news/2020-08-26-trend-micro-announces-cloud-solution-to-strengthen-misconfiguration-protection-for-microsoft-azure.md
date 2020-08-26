@@ -3,6 +3,7 @@ category: news
 title: "Trend Micro Announces Cloud Solution to Strengthen Misconfiguration Protection for Microsoft Azure"
 excerpt: "PRNewswire/ -- Trend Micro Incorporated (TYO: 4704; TSE: 4704), a global leader in cloud security, today announced its"
 publishedDateTime: 2020-08-26T01:46:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/trend-micro-announces-cloud-solution-to-strengthen-misconfiguration-protection-for-microsoft-azure-1029533684"
 webUrl: "https://markets.businessinsider.com/news/stocks/trend-micro-announces-cloud-solution-to-strengthen-misconfiguration-protection-for-microsoft-azure-1029533684"
 ampWebUrl: "https://markets.businessinsider.com/amp/news/trend-micro-announces-cloud-solution-to-strengthen-misconfiguration-protection-for-microsoft-azure-1029533684"
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/trend-micro-announces-cloud-solution-to-strengthen-misconfiguration-protection-for-microsoft-azure-1029533684"

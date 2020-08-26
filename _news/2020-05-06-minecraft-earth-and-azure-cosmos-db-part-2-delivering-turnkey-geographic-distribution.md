@@ -3,6 +3,7 @@ category: news
 title: "Minecraft Earth and Azure Cosmos DB part 2: Delivering turnkey geographic distribution"
 excerpt: "This post is part 2 of a two-part series about out how organizations are using Azure Cosmos DB to meet real world needs and the difference it’s making to them. In part 1, we explored the challenges that led service developers for Minecraft Earth to choose Azure Cosmos DB and how they’re using it to capture"
 publishedDateTime: 2020-05-06T10:00:11Z
+originalUrl: "https://azure.microsoft.com/blog/minecraft-earth-and-azure-cosmos-db-part-2-delivering-turnkey-geographic-distribution/"
 webUrl: "https://azure.microsoft.com/blog/minecraft-earth-and-azure-cosmos-db-part-2-delivering-turnkey-geographic-distribution/"
 type: article
 quality: 76

@@ -3,6 +3,7 @@ category: news
 title: "Microsoft Connected Vehicle Platform: trends and investment areas"
 excerpt: "This post was co-authored by the extended Azure Mobility Team.\r\n\r\nThe past year has been eventful for a lot of reasons. At Microsoft, we’ve expanded our partnerships, including Volkswagen, LG Electronics, Faurecia, TomTom, and more, and taken the wraps off new thinking such as at CES, where we recently"
 publishedDateTime: 2020-02-11T09:00:40Z
+originalUrl: "https://azure.microsoft.com/blog/microsoft-connected-vehicle-platform-trends-and-investment-areas/"
 webUrl: "https://azure.microsoft.com/blog/microsoft-connected-vehicle-platform-trends-and-investment-areas/"
 type: article
 quality: 60

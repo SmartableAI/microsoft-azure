@@ -3,6 +3,7 @@ category: news
 title: "Advancing Microsoft Teams on Azure—operating at pandemic scale"
 excerpt: "“The COVID-19 pandemic has reset what it means to work, study, and socialize. Like many of us, I have come to rely on Microsoft Teams as my connection to my colleagues. In this post, our friends from the Microsoft Teams product group—Rish Tandon (Corporate Vice President), Aarthi Natarajan (Group Engineering"
 publishedDateTime: 2020-06-16T08:00:11Z
+originalUrl: "https://azure.microsoft.com/blog/advancing-microsoft-teams-on-azure-operating-at-pandemic-scale/"
 webUrl: "https://azure.microsoft.com/blog/advancing-microsoft-teams-on-azure-operating-at-pandemic-scale/"
 type: article
 quality: 89

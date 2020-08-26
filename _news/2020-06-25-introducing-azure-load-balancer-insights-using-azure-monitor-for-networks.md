@@ -3,6 +3,7 @@ category: news
 title: "Introducing Azure Load Balancer insights using Azure Monitor for Networks"
 excerpt: "Azure Load Balancer customers now have instant access to a preconfigured solution for health monitoring and configuration analysis enabling rapid fault localization and informed design decisions."
 publishedDateTime: 2020-06-25T09:25:34Z
+originalUrl: "https://azure.microsoft.com/blog/introducing-azure-load-balancer-insights-using-azure-monitor-for-networks/"
 webUrl: "https://azure.microsoft.com/blog/introducing-azure-load-balancer-insights-using-azure-monitor-for-networks/"
 type: article
 quality: 90

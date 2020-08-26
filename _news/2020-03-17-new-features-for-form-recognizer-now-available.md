@@ -3,6 +3,7 @@ category: news
 title: "New features for Form Recognizer now available"
 excerpt: "Extracting text and structure information from documents is a core enabling technology for robotic process automation and workflow automation. Since its preview release in May 2019, Azure Form Recognizer has attracted thousands of customers to extract text, key and value pairs, and tables from documents"
 publishedDateTime: 2020-03-17T08:00:45Z
+originalUrl: "https://azure.microsoft.com/blog/new-features-for-form-recognizer-now-available/"
 webUrl: "https://azure.microsoft.com/blog/new-features-for-form-recognizer-now-available/"
 type: article
 quality: 74

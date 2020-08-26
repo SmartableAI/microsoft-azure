@@ -3,6 +3,7 @@ category: news
 title: "Introducing incremental enrichment in Azure Cognitive Search"
 excerpt: "Incremental enrichment is a new feature of Azure Cognitive Search that brings a declarative approach to indexing your data. When incremental enrichment is turned on, document enrichment is performed at the least cost, even as your skills continue to evolve. Indexers in Azure Cognitive Search add documents"
 publishedDateTime: 2020-04-07T09:00:45Z
+originalUrl: "https://azure.microsoft.com/blog/introducing-incremental-enrichment-in-azure-cognitive-search/"
 webUrl: "https://azure.microsoft.com/blog/introducing-incremental-enrichment-in-azure-cognitive-search/"
 type: article
 quality: 91

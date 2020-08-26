@@ -3,6 +3,7 @@ category: news
 title: "Code, collaborate, and ship your apps from anywhere"
 excerpt: "Welcome to Microsoft Build 2020! This all-new 48-hour digital experience is designed to help you and other developers around the world come together to solve challenges, share knowledge, and stay connected. Here we’ll cover some of our latest innovations in developer tools and cloud platform technologies—to"
 publishedDateTime: 2020-05-19T08:00:17Z
+originalUrl: "https://azure.microsoft.com/blog/code-collaborate-and-ship-your-apps-from-anywhere/"
 webUrl: "https://azure.microsoft.com/blog/code-collaborate-and-ship-your-apps-from-anywhere/"
 type: article
 quality: 74

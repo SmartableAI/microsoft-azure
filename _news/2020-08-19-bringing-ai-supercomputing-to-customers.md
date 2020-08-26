@@ -3,6 +3,7 @@ category: news
 title: "Bringing AI supercomputing to customers"
 excerpt: "The trend toward the use of massive AI models to power a large number of tasks is changing how AI is built and applied to enable powerful new capabilities."
 publishedDateTime: 2020-08-19T08:00:23Z
+originalUrl: "https://azure.microsoft.com/blog/bringing-ai-supercomputing-to-customers/"
 webUrl: "https://azure.microsoft.com/blog/bringing-ai-supercomputing-to-customers/"
 type: article
 quality: 56

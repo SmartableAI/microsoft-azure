@@ -3,6 +3,7 @@ category: news
 title: "Azure Maps updates offer new features and expanded availability"
 excerpt: "This blog post was co-authored by Chad Raynor, Principal Program Manager, Azure Maps.\r\n\r\nUpdates to Azure Maps services include new and recently added features, including the general availability of Azure Maps services on Microsoft Azure Government cloud. Here is a rundown of the new and recently added"
 publishedDateTime: 2020-04-20T09:00:23Z
+originalUrl: "https://azure.microsoft.com/blog/azure-maps-updates-offer-new-features-and-expanded-availability/"
 webUrl: "https://azure.microsoft.com/blog/azure-maps-updates-offer-new-features-and-expanded-availability/"
 type: article
 quality: 93

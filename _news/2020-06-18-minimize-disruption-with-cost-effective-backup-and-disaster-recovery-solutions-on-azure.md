@@ -3,6 +3,7 @@ category: news
 title: "Minimize disruption with cost-effective backup and disaster recovery solutions on Azure"
 excerpt: "Azure provides native cloud solutions for customers to implement simple, secure and cost-effective business continuity and disaster recovery (BCDR) strategies for their applications and data whether they are on-premises or on Azure."
 publishedDateTime: 2020-06-18T12:00:28Z
+originalUrl: "https://azure.microsoft.com/blog/minimize-disruption-with-costeffective-backup-and-disaster-recovery-solutions-on-azure/"
 webUrl: "https://azure.microsoft.com/blog/minimize-disruption-with-costeffective-backup-and-disaster-recovery-solutions-on-azure/"
 type: article
 quality: 63

@@ -3,6 +3,7 @@ category: news
 title: "Preparing for what’s next: Financial considerations for cloud migration"
 excerpt: "As you move through assessments and plan your migration, it is critical to get buy in from your CFO and other financial stakeholders—even more so in today’s challenging macro-climate."
 publishedDateTime: 2020-07-16T15:00:43Z
+originalUrl: "https://azure.microsoft.com/blog/preparing-for-what-s-next-financial-considerations-for-cloud-migration/"
 webUrl: "https://azure.microsoft.com/blog/preparing-for-what-s-next-financial-considerations-for-cloud-migration/"
 type: article
 quality: 89

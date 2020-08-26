@@ -3,6 +3,7 @@ category: news
 title: "Monitor your Azure workload compliance with Azure Security Benchmark"
 excerpt: "The Azure Security Benchmark v1 was released in January 2020 and is being used by organizations to manage their security and compliance policies for their Azure workloads. We are pleased to share that you can now track and monitor your compliance with the benchmark across your Azure environment in Azure"
 publishedDateTime: 2020-05-12T14:00:22Z
+originalUrl: "https://azure.microsoft.com/blog/monitor-your-azure-workload-compliance-with-azure-security-benchmark/"
 webUrl: "https://azure.microsoft.com/blog/monitor-your-azure-workload-compliance-with-azure-security-benchmark/"
 type: article
 quality: 104

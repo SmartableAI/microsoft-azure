@@ -3,6 +3,7 @@ category: news
 title: "New Windows Virtual Desktop capabilities now generally available"
 excerpt: "With the global pandemic, customers are relying on remote work more than ever, and Windows Virtual Desktop is helping customers rapidly deliver a secure Windows 10 desktop experience to their users."
 publishedDateTime: 2020-07-27T11:00:03Z
+originalUrl: "https://azure.microsoft.com/blog/new-windows-virtual-desktop-capabilities-now-generally-available/"
 webUrl: "https://azure.microsoft.com/blog/new-windows-virtual-desktop-capabilities-now-generally-available/"
 type: article
 quality: 72

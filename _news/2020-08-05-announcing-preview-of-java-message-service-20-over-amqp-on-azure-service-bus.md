@@ -3,6 +3,7 @@ category: news
 title: "Announcing preview of Java Message Service 2.0 over AMQP on Azure Service Bus"
 excerpt: "Azure Service Bus simplifies enterprise messaging scenarios by leveraging familiar queue and topic subscription semantics over the industry driven AMQP protocol."
 publishedDateTime: 2020-08-05T11:00:02Z
+originalUrl: "https://azure.microsoft.com/blog/announcing-preview-of-java-message-service-2-over-amqp-on-azure-service-bus/"
 webUrl: "https://azure.microsoft.com/blog/announcing-preview-of-java-message-service-2-over-amqp-on-azure-service-bus/"
 type: article
 quality: 64

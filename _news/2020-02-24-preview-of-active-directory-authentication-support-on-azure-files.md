@@ -3,6 +3,7 @@ category: news
 title: "Preview of Active Directory authentication support on Azure Files"
 excerpt: "We are excited to announce the preview of Azure Files Active Directory (AD) authentication. You can now mount your Azure Files using AD credentials with the exact same access control experience as on-premises. You may leverage an Active Directory domain service (AD DS) either hosted on-premises or on"
 publishedDateTime: 2020-02-24T08:00:14Z
+originalUrl: "https://azure.microsoft.com/blog/preview-of-active-directory-for-authentication-on-azure-file/"
 webUrl: "https://azure.microsoft.com/blog/preview-of-active-directory-for-authentication-on-azure-file/"
 type: article
 quality: 71

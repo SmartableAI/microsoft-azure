@@ -3,6 +3,7 @@ category: news
 title: "Microsoft powers transformation at NVIDIA’s GTC Digital Conference"
 excerpt: "The world of supercomputing is evolving. Work once limited to high-performance computing (HPC) on-premises clusters and traditional HPC scenarios, is now being performed at the edge, on-premises, in the cloud, and everywhere in between. Whether it’s a manufacturer running advanced simulations, an energy"
 publishedDateTime: 2020-03-24T14:00:24Z
+originalUrl: "https://azure.microsoft.com/blog/microsoft-powers-transformation-at-nvidia-s-gtc-digital-conference/"
 webUrl: "https://azure.microsoft.com/blog/microsoft-powers-transformation-at-nvidia-s-gtc-digital-conference/"
 type: article
 quality: 56

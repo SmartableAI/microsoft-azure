@@ -3,6 +3,7 @@ category: news
 title: "Azure responds to COVID-19"
 excerpt: "The global health pandemic continues to impact every organization—large or small—their employees, and the customers they serve. Over the last several months, we have seen firsthand the role that cloud computing plays in sustaining operations across the board that helps us live, work, learn, and play.\r\n\r\nDuring"
 publishedDateTime: 2020-06-16T08:00:10Z
+originalUrl: "https://azure.microsoft.com/blog/azure-responds-to-covid19/"
 webUrl: "https://azure.microsoft.com/blog/azure-responds-to-covid19/"
 type: article
 quality: 69

@@ -3,6 +3,7 @@ category: news
 title: "Innovate in Azure with confidence"
 excerpt: "Customers today are innovating in Azure more than ever before for their applications and their analytics solutions. Here’s why."
 publishedDateTime: 2020-07-22T08:05:11Z
+originalUrl: "https://azure.microsoft.com/blog/innovate-in-azure-with-confidence/"
 webUrl: "https://azure.microsoft.com/blog/innovate-in-azure-with-confidence/"
 type: article
 quality: 67

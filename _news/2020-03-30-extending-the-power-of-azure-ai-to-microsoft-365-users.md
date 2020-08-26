@@ -3,6 +3,7 @@ category: news
 title: "Extending the power of Azure AI to Microsoft 365 users"
 excerpt: "Today, Yusuf Mehdi, Corporate Vice President of Modern Life and Devices, announced the availability of new Microsoft 365 Personal and Family subscriptions. In his blog, he shared a few examples of how Microsoft 365 is innovating to deliver experiences powered by artificial intelligence (AI) to billions"
 publishedDateTime: 2020-03-30T08:30:32Z
+originalUrl: "https://azure.microsoft.com/blog/extending-the-power-of-azure-ai-to-microsoft-365-users/"
 webUrl: "https://azure.microsoft.com/blog/extending-the-power-of-azure-ai-to-microsoft-365-users/"
 type: article
 quality: 89

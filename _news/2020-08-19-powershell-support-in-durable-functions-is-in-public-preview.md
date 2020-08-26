@@ -3,6 +3,7 @@ category: news
 title: "PowerShell support in Durable Functions is in public preview"
 excerpt: "Developers can now orchestrate complex automation workflows in Azure Functions using familiar language constructs in PowerShell 7"
 publishedDateTime: 2020-08-19T16:00:12Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/powershell-support-in-durable-functions-is-in-public-preview/"
 webUrl: "https://azure.microsoft.com/en-us/updates/powershell-support-in-durable-functions-is-in-public-preview/"
 type: article
 quality: 52

@@ -3,6 +3,7 @@ category: news
 title: "Azure Cognitive Services Translator Text— New languages now available"
 excerpt: "Translator Text now supports the Odia, Dari, Pashto, Central Kurdish and Northern Kurdish languages."
 publishedDateTime: 2020-08-20T16:00:05Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-cognitive-services-translator-text-odia-dari-pashto-central-kurdish-and-northern-kurdish-now-available/"
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-cognitive-services-translator-text-odia-dari-pashto-central-kurdish-and-northern-kurdish-now-available/"
 type: article
 quality: 67

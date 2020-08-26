@@ -3,6 +3,7 @@ category: news
 title: "Use Azure Firewall for secure and cost-effective Windows Virtual Desktop protection"
 excerpt: "This post was co-authored by Pavithra Thiruvengadam, Program Manager, Windows Virtual Desktop\n\nWork from home policies require many IT organizations to address fundamental changes in capacity, network, security, and governance. Many employees aren't protected by the layered security policies associated"
 publishedDateTime: 2020-05-11T11:00:02Z
+originalUrl: "https://azure.microsoft.com/blog/use-azure-firewall-for-secure-and-cost-effective-windows-virtual-desktop-protection/"
 webUrl: "https://azure.microsoft.com/blog/use-azure-firewall-for-secure-and-cost-effective-windows-virtual-desktop-protection/"
 type: article
 quality: 85

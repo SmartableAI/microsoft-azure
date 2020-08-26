@@ -3,6 +3,7 @@ category: news
 title: "Running SD-WAN virtual appliances natively in Azure Virtual WAN"
 excerpt: "Today we’re announcing the preview of the new ability to deploy and run third-party Network Virtual Appliances such as SD-WAN natively within the Azure Virtual WAN hubs."
 publishedDateTime: 2020-07-16T10:00:40Z
+originalUrl: "https://azure.microsoft.com/blog/running-sdwan-virtual-appliances-natively-in-azure-virtual-wan/"
 webUrl: "https://azure.microsoft.com/blog/running-sdwan-virtual-appliances-natively-in-azure-virtual-wan/"
 type: article
 quality: 89

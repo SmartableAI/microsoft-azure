@@ -3,6 +3,7 @@ category: news
 title: "Advancing the outage experience—automation, communication, and transparency"
 excerpt: "As part of our Advancing Reliability blog series, we're outlining the investments we’re making to continue improving the outage experience."
 publishedDateTime: 2020-08-17T09:00:03Z
+originalUrl: "https://azure.microsoft.com/blog/advancing-the-outage-experience-automation-communication-and-transparency/"
 webUrl: "https://azure.microsoft.com/blog/advancing-the-outage-experience-automation-communication-and-transparency/"
 type: article
 quality: 52

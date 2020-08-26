@@ -3,6 +3,7 @@ category: news
 title: "Azure Container Registry Private Link support preview for virtual networks"
 excerpt: "Azure Container Registry announces preview support for Azure Private Link, a means to limit network traffic of resources within the Azure network.\r\n\r\nWith Private Link, the registry endpoints are assigned private IP addresses, routing traffic within a customer-defined virtual network. Private network"
 publishedDateTime: 2020-03-26T09:00:04Z
+originalUrl: "https://azure.microsoft.com/blog/azure-container-registry-private-link-support-preview-for-virtual-networks/"
 webUrl: "https://azure.microsoft.com/blog/azure-container-registry-private-link-support-preview-for-virtual-networks/"
 type: article
 quality: 89

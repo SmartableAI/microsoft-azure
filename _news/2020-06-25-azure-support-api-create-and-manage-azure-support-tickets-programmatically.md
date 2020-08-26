@@ -3,6 +3,7 @@ category: news
 title: "Azure Support API: Create and manage Azure support tickets programmatically"
 excerpt: "Large enterprise customers running business-critical workloads on Azure manage thousands of subscriptions and use automation for deployment and management of their Azure resources."
 publishedDateTime: 2020-06-25T10:00:29Z
+originalUrl: "https://azure.microsoft.com/blog/azure-support-api-create-and-manage-azure-support-tickets-programmatically/"
 webUrl: "https://azure.microsoft.com/blog/azure-support-api-create-and-manage-azure-support-tickets-programmatically/"
 type: article
 quality: 89

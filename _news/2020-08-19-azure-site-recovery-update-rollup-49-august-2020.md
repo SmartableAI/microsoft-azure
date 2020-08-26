@@ -3,6 +3,7 @@ category: news
 title: "Azure Site Recovery update rollup 49 - August 2020"
 excerpt: "The latest Azure Site Recovery update provides fixes and download links for Site Recovery components."
 publishedDateTime: 2020-08-19T19:00:04Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-update-rollup-49-august-2020/"
 webUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-update-rollup-49-august-2020/"
 type: article
 quality: 67

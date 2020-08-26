@@ -3,6 +3,7 @@ category: news
 title: "Azure Time Series Insights Gen2: Leading the next generation of industrial IoT analytics platforms"
 excerpt: "Azure Time Series Insights Gen2—a fully managed IoT analytics platform is now generally available today. With Azure Time Series Insights Gen2, you can explore and analyze billions of contextualized events across millions of sensors."
 publishedDateTime: 2020-07-16T12:00:41Z
+originalUrl: "https://azure.microsoft.com/blog/azure-time-series-insights-gen-2-leading-the-next-generation-of-industrial-iot-analytics-solutions/"
 webUrl: "https://azure.microsoft.com/blog/azure-time-series-insights-gen-2-leading-the-next-generation-of-industrial-iot-analytics-solutions/"
 type: article
 quality: 90

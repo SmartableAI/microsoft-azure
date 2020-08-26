@@ -3,6 +3,7 @@ category: news
 title: "Virtual Build spotlights IoT updates and rollouts"
 excerpt: "As people around the globe adapt to new ways of working, the Microsoft Build 2020 conference took a new approach as well. Rather than gathering the developer community in person as planned, Microsoft shifted gears and put together 48 hours of streaming content for a virtual event.\r\n\r\nDespite the new"
 publishedDateTime: 2020-05-26T08:00:10Z
+originalUrl: "https://azure.microsoft.com/blog/virtual-build-spotlights-iot-updates-and-rollouts/"
 webUrl: "https://azure.microsoft.com/blog/virtual-build-spotlights-iot-updates-and-rollouts/"
 type: article
 quality: 69

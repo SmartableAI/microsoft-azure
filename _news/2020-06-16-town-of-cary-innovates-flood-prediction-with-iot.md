@@ -3,6 +3,7 @@ category: news
 title: "Town of Cary innovates flood prediction with IoT"
 excerpt: "This post was co-authored by Daniel Sumner, Worldwide Industry Director, Government—Smart Infrastructure at Microsoft.\r\n\r\nAccording to Flood Safety, flooding is the most common type of natural disaster worldwide. It affects tens of millions of people around the world each year and causes, on average,"
 publishedDateTime: 2020-06-16T09:00:10Z
+originalUrl: "https://azure.microsoft.com/blog/town-of-cary-innovates-flood-prediction-with-iot/"
 webUrl: "https://azure.microsoft.com/blog/town-of-cary-innovates-flood-prediction-with-iot/"
 type: article
 quality: 89

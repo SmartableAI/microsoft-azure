@@ -3,6 +3,7 @@ category: news
 title: "Azure Maps Creator now available in preview"
 excerpt: "As enterprises continue to evolve in their digital transformation journey, there is a need for augmenting Azure Maps content with project-specific and private business knowledge of places. Today we're launching Azure Maps Creator in preview to extend location intelligence to indoor spaces.\r\n\r\nEnterprises"
 publishedDateTime: 2020-06-01T08:00:09Z
+originalUrl: "https://azure.microsoft.com/blog/azure-maps-creator-now-available-in-preview/"
 webUrl: "https://azure.microsoft.com/blog/azure-maps-creator-now-available-in-preview/"
 type: article
 quality: 93

@@ -3,6 +3,7 @@ category: news
 title: "Introducing the Microsoft Azure Well-Architected Framework"
 excerpt: "As the technology requirements of your business or practice grow and change over time, deploying business-critical applications can increase complexity and overhead substantially."
 publishedDateTime: 2020-07-21T08:00:45Z
+originalUrl: "https://azure.microsoft.com/blog/introducing-the-microsoft-azure-wellarchitected-framework/"
 webUrl: "https://azure.microsoft.com/blog/introducing-the-microsoft-azure-wellarchitected-framework/"
 type: article
 quality: 87

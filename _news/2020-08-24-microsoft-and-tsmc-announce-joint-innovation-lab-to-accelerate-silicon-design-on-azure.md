@@ -3,6 +3,7 @@ category: news
 title: "Microsoft and TSMC announce Joint Innovation Lab to accelerate silicon design on Azure"
 excerpt: "Right now, every industry and every customer is going through a massive transformation, and cloud computing is often a central enabler of this."
 publishedDateTime: 2020-08-24T14:00:18Z
+originalUrl: "https://azure.microsoft.com/blog/microsoft-and-tsmc-announce-joint-innovation-lab-to-accelerate-silicon-design-on-azure/"
 webUrl: "https://azure.microsoft.com/blog/microsoft-and-tsmc-announce-joint-innovation-lab-to-accelerate-silicon-design-on-azure/"
 type: article
 quality: 59

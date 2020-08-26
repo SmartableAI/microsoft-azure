@@ -3,6 +3,7 @@ category: news
 title: "Streamline connectivity and improve efficiency for remote work using Azure Virtual WAN"
 excerpt: "Today, we see a huge shift to remote work due to the global pandemic. Organizations around the world need to enable more of their employees to work remotely."
 publishedDateTime: 2020-06-23T11:00:04Z
+originalUrl: "https://azure.microsoft.com/blog/streamline-connectivity-and-improve-efficiency-for-remote-work-using-azure-virtual-wan/"
 webUrl: "https://azure.microsoft.com/blog/streamline-connectivity-and-improve-efficiency-for-remote-work-using-azure-virtual-wan/"
 type: article
 quality: 81

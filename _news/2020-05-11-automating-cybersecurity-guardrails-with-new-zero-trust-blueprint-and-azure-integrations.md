@@ -3,6 +3,7 @@ category: news
 title: "Automating cybersecurity guardrails with new Zero Trust blueprint and Azure integrations"
 excerpt: "In our day-to-day work, we focus on helping customers advance the security of their digital estate using the native capabilities of Azure. In the process, we frequently find that using Azure to improve an organization’s cybersecurity posture can also help these customers achieve compliance more rapidly.\r\n\r\nToday,"
 publishedDateTime: 2020-05-11T08:00:01Z
+originalUrl: "https://azure.microsoft.com/blog/automating-cybersecurity-guardrails-with-new-zero-trust-blueprint-and-azure-integrations/"
 webUrl: "https://azure.microsoft.com/blog/automating-cybersecurity-guardrails-with-new-zero-trust-blueprint-and-azure-integrations/"
 type: article
 quality: 75

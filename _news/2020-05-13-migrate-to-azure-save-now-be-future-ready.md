@@ -3,6 +3,7 @@ category: news
 title: "Migrate to Azure: Save now, be future ready"
 excerpt: "The global health crisis has transformed the way we work and live. Remote work has surged across industries, and the ability to scale and manage your business from anywhere has become essential. As our customers are moving beyond resolving immediate crisis needs, many are thinking about the next set"
 publishedDateTime: 2020-05-13T08:00:39Z
+originalUrl: "https://azure.microsoft.com/blog/migrate-to-azure-save-now-be-future-ready/"
 webUrl: "https://azure.microsoft.com/blog/migrate-to-azure-save-now-be-future-ready/"
 type: article
 quality: 69

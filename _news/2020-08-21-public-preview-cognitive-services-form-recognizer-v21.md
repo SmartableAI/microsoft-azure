@@ -3,6 +3,7 @@ category: news
 title: "Public Preview: Cognitive Services Form Recognizer v2.1"
 excerpt: "Form Recognizer v2.1-preview.1 has been released. It includes support for new languages, checkbox/selection marks, and the submit multiple form types to a single model Id."
 publishedDateTime: 2020-08-21T17:00:18Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/form-recognizer-v2-1/"
 webUrl: "https://azure.microsoft.com/en-us/updates/form-recognizer-v2-1/"
 type: article
 quality: 52

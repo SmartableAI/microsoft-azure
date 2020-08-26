@@ -3,6 +3,7 @@ category: news
 title: "Azure Blob Storage enhancing data protection and recovery capabilities"
 excerpt: "Enterprises, partners, and IT professionals store business-critical data in Azure Blob Storage. We are committed to providing the best-in-class data protection and recovery capabilities to keep your applications running. Today, we are announcing the general availability of Geo-Zone-Redundant Storage"
 publishedDateTime: 2020-05-11T13:00:00Z
+originalUrl: "https://azure.microsoft.com/blog/azure-blob-storage-enhancing-data-protection-and-recovery-capabilities/"
 webUrl: "https://azure.microsoft.com/blog/azure-blob-storage-enhancing-data-protection-and-recovery-capabilities/"
 type: article
 quality: 86

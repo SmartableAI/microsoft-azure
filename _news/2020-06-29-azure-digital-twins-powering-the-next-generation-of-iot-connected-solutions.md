@@ -3,6 +3,7 @@ category: news
 title: "Azure Digital Twins: Powering the next generation of IoT connected solutions"
 excerpt: "Last month at Microsoft Build 2020, we announced the new features for Azure Digital Twins, the IoT platform that enables the creation of next-generation IoT connected solutions that model the real world. Today, we are announcing that these updated capabilities are now available in preview."
 publishedDateTime: 2020-06-29T08:00:35Z
+originalUrl: "https://azure.microsoft.com/blog/azure-digital-twins-powering-the-next-generation-of-iot-connected-solutions/"
 webUrl: "https://azure.microsoft.com/blog/azure-digital-twins-powering-the-next-generation-of-iot-connected-solutions/"
 type: article
 quality: 101

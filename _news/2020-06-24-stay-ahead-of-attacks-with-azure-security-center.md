@@ -3,6 +3,7 @@ category: news
 title: "Stay ahead of attacks with Azure Security Center"
 excerpt: " Now more than ever, organizations need to reduce costs, keep up with compliance requirements, all while managing risks in this constantly evolving landscape."
 publishedDateTime: 2020-06-24T11:00:16Z
+originalUrl: "https://azure.microsoft.com/blog/stay-ahead-of-attacks-with-azure-security-center/"
 webUrl: "https://azure.microsoft.com/blog/stay-ahead-of-attacks-with-azure-security-center/"
 type: article
 quality: 84

@@ -3,6 +3,7 @@ category: news
 title: "Aiming for more than just net zero"
 excerpt: "Many companies are reaching for net zero emissions, but we’re taking it even further."
 publishedDateTime: 2020-07-27T08:00:01Z
+originalUrl: "https://azure.microsoft.com/blog/aiming-for-more-than-just-net-zero/"
 webUrl: "https://azure.microsoft.com/blog/aiming-for-more-than-just-net-zero/"
 type: article
 quality: 74

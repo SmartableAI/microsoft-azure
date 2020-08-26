@@ -3,6 +3,7 @@ category: news
 title: "Manage and find data with Blob Index for Azure Storage—now in preview"
 excerpt: " \r\n\r\nBlob Index—a managed secondary index, allowing you to store multi-dimensional object attributes to describe your data objects for Azure Blob storage—is now available in preview. Built on top of blob storage, Blob Index offers consistent reliability, availability, and performance for all your workloads."
 publishedDateTime: 2020-05-04T10:00:03Z
+originalUrl: "https://azure.microsoft.com/blog/manage-and-find-data-with-blob-index-for-azure-storage-now-in-preview/"
 webUrl: "https://azure.microsoft.com/blog/manage-and-find-data-with-blob-index-for-azure-storage-now-in-preview/"
 type: article
 quality: 106

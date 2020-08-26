@@ -3,6 +3,7 @@ category: news
 title: "Accelerating digital transformation in manufacturing"
 excerpt: "Digital transformation in manufacturing has the potential to increase annual global economic value by $4.5 trillion according to the IDC MarketScape.i With so much upside, manufacturers are looking at how technologies like IoT, machine learning, and artificial intelligence (AI) can be used to optimize"
 publishedDateTime: 2020-04-09T09:00:12Z
+originalUrl: "https://azure.microsoft.com/blog/accelerating-digital-transformation-in-manufacturing/"
 webUrl: "https://azure.microsoft.com/blog/accelerating-digital-transformation-in-manufacturing/"
 type: article
 quality: 76

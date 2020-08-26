@@ -3,6 +3,7 @@ category: news
 title: "Achieve higher performance and cost savings on Azure with virtual machine bursting"
 excerpt: "Virtual machine bursting, which is enabled by default, offers you the ability to achieve higher throughput for a short duration on your virtual machine instance with no additional steps or cost."
 publishedDateTime: 2020-06-18T09:30:27Z
+originalUrl: "https://azure.microsoft.com/blog/achieve-higher-performance-and-cost-savings-on-azure-with-virtual-machine-bursting/"
 webUrl: "https://azure.microsoft.com/blog/achieve-higher-performance-and-cost-savings-on-azure-with-virtual-machine-bursting/"
 type: article
 quality: 85

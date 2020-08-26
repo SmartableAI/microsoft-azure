@@ -3,6 +3,7 @@ category: news
 title: "Microsoft named a leader in The Forrester New Wave: Functions-as-a-Service Platforms"
 excerpt: "We’re excited to share that Forrester has named Microsoft as a leader in the inaugural report, The Forrester New Wave™: Function-As-A-Service Platforms, Q1 2020 based on their evaluation of Azure Functions and integrated development tooling. We believe Forrester’s findings reflect the strong momentum"
 publishedDateTime: 2020-03-11T09:00:16Z
+originalUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-forrester-new-wave-functions-as-a-service-platforms/"
 webUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-forrester-new-wave-functions-as-a-service-platforms/"
 type: article
 quality: 67

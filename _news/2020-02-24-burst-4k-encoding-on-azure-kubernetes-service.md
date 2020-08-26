@@ -3,6 +3,7 @@ category: news
 title: "Burst 4K encoding on Azure Kubernetes Service"
 excerpt: "Burst encoding in the cloud with Azure and Media Excel HERO platform.\r\n\r\nContent creation has never been as in demand as it is today. Both professional and user-generated content has increased exponentially over the past years. This puts a lot of stress on media encoding and transcoding platforms. Add"
 publishedDateTime: 2020-02-24T11:00:15Z
+originalUrl: "https://azure.microsoft.com/blog/burst-4k-encoding-on-azure-kubernetes-service/"
 webUrl: "https://azure.microsoft.com/blog/burst-4k-encoding-on-azure-kubernetes-service/"
 type: article
 quality: 93

@@ -3,6 +3,7 @@ category: news
 title: "Prioritize datacenter discovery and readiness assessments to accelerate cloud migration"
 excerpt: "Cloud migrations are an effective way to drive operational efficiencies and to flip capital expenses to operational."
 publishedDateTime: 2020-08-06T09:00:11Z
+originalUrl: "https://azure.microsoft.com/blog/prioritize-datacenter-discovery-and-readiness-assessments-to-accelerate-cloud-migration/"
 webUrl: "https://azure.microsoft.com/blog/prioritize-datacenter-discovery-and-readiness-assessments-to-accelerate-cloud-migration/"
 type: article
 quality: 81

@@ -3,6 +3,7 @@ category: news
 title: "Cost optimization strategies for cloud-native application development"
 excerpt: "Today, we’ll explore some strategies that you can leverage on Azure to optimize your cloud-native application development process using Azure Kubernetes Service (AKS) and managed databases, such as Azure Cosmos DB and Azure Database for PostgreSQL."
 publishedDateTime: 2020-06-18T11:00:28Z
+originalUrl: "https://azure.microsoft.com/blog/cost-optimization-strategies-for-cloudnative-application-development/"
 webUrl: "https://azure.microsoft.com/blog/cost-optimization-strategies-for-cloudnative-application-development/"
 type: article
 quality: 52

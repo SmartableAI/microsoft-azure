@@ -3,6 +3,7 @@ category: news
 title: "Azure Maps Power BI visual now in preview"
 excerpt: "The Azure Maps visual for Power BI will be releasing as a preview this week. Power BI is a powerful analysis and visualization tool. Azure Maps is an important tool for gaining geospatial context and insights that can be used in decision making."
 publishedDateTime: 2020-07-13T09:00:01Z
+originalUrl: "https://azure.microsoft.com/blog/azure-maps-power-bi-visual-now-in-preview/"
 webUrl: "https://azure.microsoft.com/blog/azure-maps-power-bi-visual-now-in-preview/"
 type: article
 quality: 93

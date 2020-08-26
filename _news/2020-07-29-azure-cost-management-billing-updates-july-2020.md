@@ -3,6 +3,7 @@ category: news
 title: "Azure Cost Management + Billing updates – July 2020"
 excerpt: "July introduces new options to drill into your cost data, save on Azure VMs and Data Lake storage, as well as new videos for even more cost-saving tips and tricks. "
 publishedDateTime: 2020-07-29T10:00:28Z
+originalUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-july-2020/"
 webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-july-2020/"
 type: article
 quality: 89

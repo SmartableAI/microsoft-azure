@@ -3,6 +3,7 @@ category: news
 title: "Meeting the challenges of today and tomorrow with Azure AI"
 excerpt: "It’s inspiring to see how customers continue to reimagine how they work with the help of AI, which is more important today than ever. Our customers are finding innovative ways to deliver crisis management solutions, drive cost-savings, redefine customer engagement, and accelerate decision-making.\r\n\r\nHere"
 publishedDateTime: 2020-05-21T09:00:42Z
+originalUrl: "https://azure.microsoft.com/blog/meeting-the-challenges-of-today-and-tomorrow-with-azure-ai/"
 webUrl: "https://azure.microsoft.com/blog/meeting-the-challenges-of-today-and-tomorrow-with-azure-ai/"
 type: article
 quality: 69

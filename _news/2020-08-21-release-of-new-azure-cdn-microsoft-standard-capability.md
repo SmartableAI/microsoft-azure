@@ -3,6 +3,7 @@ category: news
 title: "Release of new Azure CDN (Microsoft Standard) capability "
 excerpt: "The Azure CDN service, a distributed network of servers that can efficiently deliver web content to users, now supports multiple origins."
 publishedDateTime: 2020-08-21T17:17:14Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/release-of-new-azure-cdn-microsoft-standard-capability/"
 webUrl: "https://azure.microsoft.com/en-us/updates/release-of-new-azure-cdn-microsoft-standard-capability/"
 type: article
 quality: 67

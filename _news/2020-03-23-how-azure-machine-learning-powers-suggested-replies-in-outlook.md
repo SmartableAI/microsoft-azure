@@ -3,6 +3,7 @@ category: news
 title: "How Azure Machine Learning powers suggested replies in Outlook "
 excerpt: "Microsoft 365 applications are so commonplace that it’s easy to overlook some of the amazing capabilities that are enabled with breakthrough technologies, including artificial intelligence (AI). Microsoft Outlook is an email client that helps you work efficiently with email, calendar, contacts, tasks,"
 publishedDateTime: 2020-03-23T09:00:07Z
+originalUrl: "https://azure.microsoft.com/blog/how-azure-machine-learning-service-powers-suggested-replies-in-outlook/"
 webUrl: "https://azure.microsoft.com/blog/how-azure-machine-learning-service-powers-suggested-replies-in-outlook/"
 type: article
 quality: 104

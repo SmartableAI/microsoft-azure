@@ -3,6 +3,7 @@ category: news
 title: "Updates to Azure Maps Web SDK includes powerful new features"
 excerpt: "Today, we are announcing updates to the Azure Maps Web SDK, which adds support for common spatial file formats, introduces a new data driven template framework for popups, includes several OGC services, and much more.\r\n\r\nSpatial IO module\r\n\r\n \r\n\r\nWith as little as three lines of code this module makes"
 publishedDateTime: 2020-04-13T10:10:05Z
+originalUrl: "https://azure.microsoft.com/blog/updates-to-azure-maps-web-sdk-includes-powerful-new-features/"
 webUrl: "https://azure.microsoft.com/blog/updates-to-azure-maps-web-sdk-includes-powerful-new-features/"
 type: article
 quality: 108

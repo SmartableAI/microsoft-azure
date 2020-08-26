@@ -3,6 +3,7 @@ category: news
 title: "Azure Container Registry: Securing container workflows"
 excerpt: "Securing any environment requires multiple lines of defense. Azure Container Registry recently announced general availability of features like Azure Private Link, customer-managed keys, dedicated data-endpoints and Azure Policy definitions. These features provide tools to secure Azure Container Registry"
 publishedDateTime: 2020-06-23T10:00:03Z
+originalUrl: "https://azure.microsoft.com/blog/azure-container-registry-securing-container-workflows/"
 webUrl: "https://azure.microsoft.com/blog/azure-container-registry-securing-container-workflows/"
 type: article
 quality: 89

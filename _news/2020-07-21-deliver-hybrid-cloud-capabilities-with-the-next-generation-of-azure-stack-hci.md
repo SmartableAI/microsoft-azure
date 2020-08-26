@@ -3,6 +3,7 @@ category: news
 title: "Deliver hybrid cloud capabilities with the next generation of Azure Stack HCI"
 excerpt: "Today, we’re delivering the next generation of Azure Stack HCI, an Azure service that combines the price-performance of hyperconverged infrastructure (HCI) with native Azure hybrid capabilities, all while letting enterprises leveraging existing skills."
 publishedDateTime: 2020-07-21T08:00:33Z
+originalUrl: "https://azure.microsoft.com/blog/deliver-hybrid-cloud-capabilities-with-the-next-generation-of-azure-stack-hci/"
 webUrl: "https://azure.microsoft.com/blog/deliver-hybrid-cloud-capabilities-with-the-next-generation-of-azure-stack-hci/"
 type: article
 quality: 84

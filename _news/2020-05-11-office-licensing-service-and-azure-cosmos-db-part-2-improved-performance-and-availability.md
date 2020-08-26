@@ -3,6 +3,7 @@ category: news
 title: "Office Licensing Service and Azure Cosmos DB part 2: Improved performance and availability"
 excerpt: "This post is part 2 of a two-part series about how organizations use Azure Cosmos DB to meet real world needs, and the difference it’s making to them. In part 1, we explored the challenges that led the Microsoft Office Licensing Service team to move from Azure Table storage to Azure Cosmos DB, and how"
 publishedDateTime: 2020-05-11T14:00:02Z
+originalUrl: "https://azure.microsoft.com/blog/office-licensing-service-and-azure-cosmos-db-part-2-improved-performance-and-availability/"
 webUrl: "https://azure.microsoft.com/blog/office-licensing-service-and-azure-cosmos-db-part-2-improved-performance-and-availability/"
 type: article
 quality: 98

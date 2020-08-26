@@ -3,6 +3,7 @@ category: news
 title: "New Azure maps make identifying local compliance options easy"
 excerpt: "Countries around the world are placing more compliance requirements on organizations of all types, and customers want to more easily understand which compliance offerings are available in their…"
 publishedDateTime: 2020-06-18T12:30:29Z
+originalUrl: "https://azure.microsoft.com/blog/new-azure-maps-make-identifying-local-compliance-options-easy/"
 webUrl: "https://azure.microsoft.com/blog/new-azure-maps-make-identifying-local-compliance-options-easy/"
 type: article
 quality: 89

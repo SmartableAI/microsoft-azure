@@ -3,6 +3,7 @@ category: news
 title: "Simplified Chinese language support now available in Azure Cognitive Services Computer Vision public preview"
 excerpt: "Computer Vision Read API v3.1, part of Cognitive Services, announces its public preview with support for Simplified Chinese language."
 publishedDateTime: 2020-08-20T20:00:06Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/computer-vision-read-31-public-preview-adds-simplified-chinese-ocr/"
 webUrl: "https://azure.microsoft.com/en-us/updates/computer-vision-read-31-public-preview-adds-simplified-chinese-ocr/"
 type: article
 quality: 48

@@ -3,6 +3,7 @@ category: news
 title: "New Azure Firewall features in Q2 CY2020"
 excerpt: "We are pleased to announce several new Azure Firewall features that allow your organization to have more customization, improve security, and ease your management experience."
 publishedDateTime: 2020-06-30T08:00:33Z
+originalUrl: "https://azure.microsoft.com/blog/new-azure-firewall-features-in-q2-cy2020/"
 webUrl: "https://azure.microsoft.com/blog/new-azure-firewall-features-in-q2-cy2020/"
 type: article
 quality: 89

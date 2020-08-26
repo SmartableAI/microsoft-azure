@@ -3,6 +3,7 @@ category: news
 title: "Announcing the general availability of Azure Spot Virtual Machines"
 excerpt: "Today we’re announcing the general availability of Azure Spot Virtual Machines (VMs). Azure Spot VMs provide access to unused Azure compute capacity at deep discounts. Spot pricing is available on single VMs in addition to VM scale sets (VMSS). This enables you to deploy a broader variety of workloads"
 publishedDateTime: 2020-05-12T08:00:18Z
+originalUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-spot-virtual-machines/"
 webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-spot-virtual-machines/"
 type: article
 quality: 104

@@ -3,6 +3,7 @@ category: news
 title: "Announcing Azure Machine Learning scholarships and courses with Udacity"
 excerpt: "According to LinkedIn’s Emerging Jobs Report for 2020, AI specialist roles are most sought after with a 74 percent annual growth rate in hiring over the last four years. To address this demand, we're pleased to announce our collaboration with Udacity to launch new machine learning courses, for both beginners"
 publishedDateTime: 2020-06-17T08:30:13Z
+originalUrl: "https://azure.microsoft.com/blog/announcing-azure-machine-learning-scholarships-and-courses-with-udacity/"
 webUrl: "https://azure.microsoft.com/blog/announcing-azure-machine-learning-scholarships-and-courses-with-udacity/"
 type: article
 quality: 84

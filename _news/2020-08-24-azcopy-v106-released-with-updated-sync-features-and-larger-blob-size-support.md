@@ -3,6 +3,7 @@ category: news
 title: "AzCopy v10.6 released with updated sync features and larger blob size support "
 excerpt: "AzCopy v10.6 sync now supports access control lists (ACLs) and properties as well as larger block blob size and blob versioning."
 publishedDateTime: 2020-08-24T18:11:45Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azcopy-v106-released-with-updated-sync-features-and-larger-blob-size-support/"
 webUrl: "https://azure.microsoft.com/en-us/updates/azcopy-v106-released-with-updated-sync-features-and-larger-blob-size-support/"
 type: article
 quality: 48

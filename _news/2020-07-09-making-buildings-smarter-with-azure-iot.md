@@ -3,6 +3,7 @@ category: news
 title: "Making buildings smarter with Azure IoT"
 excerpt: "Learn how Bosch Building Technologies, Bentley Systems, Schneider Electric, and ICONICS use Azure IoT to deliver the benefits of smart buildings."
 publishedDateTime: 2020-07-09T08:00:10Z
+originalUrl: "https://azure.microsoft.com/blog/making-buildings-smarter-with-azure-iot/"
 webUrl: "https://azure.microsoft.com/blog/making-buildings-smarter-with-azure-iot/"
 type: article
 quality: 104

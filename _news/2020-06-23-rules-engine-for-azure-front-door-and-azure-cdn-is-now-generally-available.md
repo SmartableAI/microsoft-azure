@@ -3,6 +3,7 @@ category: news
 title: "Rules Engine for Azure Front Door and Azure CDN is now generally available"
 excerpt: "Today we are announcing the general availability of the Rules Engine feature on both Azure Front Door and Azure Content Delivery Network (CDN). "
 publishedDateTime: 2020-06-23T09:00:03Z
+originalUrl: "https://azure.microsoft.com/blog/rules-engine-for-azure-front-door-and-azure-cdn-is-now-generally-available/"
 webUrl: "https://azure.microsoft.com/blog/rules-engine-for-azure-front-door-and-azure-cdn-is-now-generally-available/"
 type: article
 quality: 82

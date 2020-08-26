@@ -3,6 +3,7 @@ category: news
 title: "Support to assess physical, AWS, GCP servers now generally available"
 excerpt: "The assessments offer Azure suitability analysis, migration cost planning and performance-based rightsizing."
 publishedDateTime: 2020-08-25T17:00:07Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/support-to-assess-physical-aws-gcp-servers-now-generally-available/"
 webUrl: "https://azure.microsoft.com/en-us/updates/support-to-assess-physical-aws-gcp-servers-now-generally-available/"
 type: article
 quality: 52

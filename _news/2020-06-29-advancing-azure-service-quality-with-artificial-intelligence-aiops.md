@@ -3,6 +3,7 @@ category: news
 title: "Advancing Azure service quality with artificial intelligence: AIOps"
 excerpt: "As Mark mentioned when he authored the Advancing Reliability blog series, building and operating a global cloud infrastructure at the scale of Azure is a complex task with hundreds of ever-evolving service components, spanning more than 160 datacenters and across more than 60 regions."
 publishedDateTime: 2020-06-29T09:00:20Z
+originalUrl: "https://azure.microsoft.com/blog/advancing-azure-service-quality-with-artificial-intelligence-aiops/"
 webUrl: "https://azure.microsoft.com/blog/advancing-azure-service-quality-with-artificial-intelligence-aiops/"
 type: article
 quality: 89

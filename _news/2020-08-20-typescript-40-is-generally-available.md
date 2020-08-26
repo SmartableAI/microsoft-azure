@@ -3,6 +3,7 @@ category: news
 title: "TypeScript 4.0 is generally available"
 excerpt: "TypeScript 4 is the latest major version of the TypeScript programming language."
 publishedDateTime: 2020-08-20T16:00:04Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/typescript-40-is-generally-available/"
 webUrl: "https://azure.microsoft.com/en-us/updates/typescript-40-is-generally-available/"
 type: article
 quality: 52

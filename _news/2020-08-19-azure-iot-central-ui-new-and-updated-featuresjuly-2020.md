@@ -3,6 +3,7 @@ category: news
 title: "Azure IoT Central UI new and updated features—July 2020"
 excerpt: "July updates include jobs improvements, CLI updates, documentation enhancements, new REST APIs, and a new mobile gateway sample."
 publishedDateTime: 2020-08-19T16:00:48Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-july-2020/"
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-july-2020/"
 type: article
 quality: 67

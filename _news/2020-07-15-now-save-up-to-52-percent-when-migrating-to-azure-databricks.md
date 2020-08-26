@@ -3,6 +3,7 @@ category: news
 title: "Now save up to 52 percent when migrating to Azure Databricks"
 excerpt: "To make it easier for customers to modernize their on-premises Spark and big data workloads to the cloud, we’re announcing a new migration offer with Azure Databricks."
 publishedDateTime: 2020-07-15T08:00:28Z
+originalUrl: "https://azure.microsoft.com/blog/now-save-up-to-52-percent-when-migrating-to-azure-databricks/"
 webUrl: "https://azure.microsoft.com/blog/now-save-up-to-52-percent-when-migrating-to-azure-databricks/"
 type: article
 quality: 69

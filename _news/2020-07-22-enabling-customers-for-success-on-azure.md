@@ -3,6 +3,7 @@ category: news
 title: "Enabling customers for success on Azure"
 excerpt: "The cloud has surged to the center of the recent digital transformation efforts, by quickly creating new solutions securely and reliably, meeting new business challenges, and driving transformation with continuous technological innovation."
 publishedDateTime: 2020-07-22T08:00:58Z
+originalUrl: "https://azure.microsoft.com/blog/enabling-customers-for-success-on-azure/"
 webUrl: "https://azure.microsoft.com/blog/enabling-customers-for-success-on-azure/"
 type: article
 quality: 69

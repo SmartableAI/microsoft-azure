@@ -3,6 +3,7 @@ category: news
 title: "Be prepared for what’s next: Accelerate cloud migration"
 excerpt: "We are in the midst of unprecedented times with far-reaching implications of the global health crisis to healthcare, public policy, and the economy. Organizations are fundamentally changing how they run their businesses, ensure the safety of their workforce, and keep their IT operations running. Most"
 publishedDateTime: 2020-06-15T10:00:02Z
+originalUrl: "https://azure.microsoft.com/blog/be-prepared-for-whats-next-accelerate-cloud-migration/"
 webUrl: "https://azure.microsoft.com/blog/be-prepared-for-whats-next-accelerate-cloud-migration/"
 type: article
 quality: 69

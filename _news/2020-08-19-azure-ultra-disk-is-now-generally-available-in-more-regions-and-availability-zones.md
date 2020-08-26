@@ -3,6 +3,7 @@ category: news
 title: "Azure Ultra Disk is now generally available in more regions and Availability Zones"
 excerpt: "Azure Ultra Disk is now available in Australia East, East Asia, Brazil South, and Canada Central, while Azure Ultra Disk support has been expanded to the 3 Availability Zones in US East 2 and Japan East. "
 publishedDateTime: 2020-08-19T16:00:23Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-ultra-disk-is-now-generally-available-in-more-regions-and-availability-zones/"
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-ultra-disk-is-now-generally-available-in-more-regions-and-availability-zones/"
 type: article
 quality: 61

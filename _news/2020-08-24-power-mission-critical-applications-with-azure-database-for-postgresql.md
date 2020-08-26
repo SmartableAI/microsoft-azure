@@ -3,6 +3,7 @@ category: news
 title: "Power mission-critical applications with Azure Database for PostgreSQL"
 excerpt: "In our current environment, organizations are increasingly looking towards digital solutions to engage their customers and remain competitive. "
 publishedDateTime: 2020-08-24T10:00:16Z
+originalUrl: "https://azure.microsoft.com/blog/power-missioncritical-applications-with-azure-database-for-postgresql/"
 webUrl: "https://azure.microsoft.com/blog/power-missioncritical-applications-with-azure-database-for-postgresql/"
 type: article
 quality: 71

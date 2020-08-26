@@ -3,6 +3,7 @@ category: news
 title: "New features and insights in Azure Monitor"
 excerpt: "Customers need full stack observability for their apps and infrastructure across Azure and hybrid environments to ensure their workloads are always up and running, for which they rely on Azure Monitor. Over the past few months, we have released many new capabilities targeting to improve native integration"
 publishedDateTime: 2020-06-11T09:00:02Z
+originalUrl: "https://azure.microsoft.com/blog/new-features-and-insights-in-azure-monitor/"
 webUrl: "https://azure.microsoft.com/blog/new-features-and-insights-in-azure-monitor/"
 type: article
 quality: 89

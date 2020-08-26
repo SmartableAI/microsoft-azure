@@ -3,6 +3,7 @@ category: news
 title: "Optimize costs and increase agility with the latest SAP on Azure offerings"
 excerpt: "SAP SAPPHIRE NOW is an event we look forward to year after year, as it’s always a place to meet our customers and learn how we can continue to support their evolving needs. This year, those conversations will take a different format, but thanks to technology, we can still connect with our customers across"
 publishedDateTime: 2020-06-15T08:00:02Z
+originalUrl: "https://azure.microsoft.com/blog/optimize-costs-and-increase-agility-with-the-latest-sap-on-azure-offerings/"
 webUrl: "https://azure.microsoft.com/blog/optimize-costs-and-increase-agility-with-the-latest-sap-on-azure-offerings/"
 type: article
 quality: 67

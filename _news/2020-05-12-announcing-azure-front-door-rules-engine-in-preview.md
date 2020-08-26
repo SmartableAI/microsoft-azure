@@ -3,6 +3,7 @@ category: news
 title: "Announcing Azure Front Door Rules Engine in preview"
 excerpt: "Starting today, customers of Azure Front Door (AFD) can take advantage of new rules to further customize their AFD behavior to best meet the needs of their customers. These rules bring the specific routing needs of your customers to the forefront of application delivery on Azure Front Door, giving you"
 publishedDateTime: 2020-05-12T09:00:19Z
+originalUrl: "https://azure.microsoft.com/blog/announcing-azure-front-door-rules-engine-in-preview/"
 webUrl: "https://azure.microsoft.com/blog/announcing-azure-front-door-rules-engine-in-preview/"
 type: article
 quality: 91

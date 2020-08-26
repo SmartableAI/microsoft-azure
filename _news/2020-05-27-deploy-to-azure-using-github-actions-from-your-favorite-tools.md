@@ -3,6 +3,7 @@ category: news
 title: "Deploy to Azure using GitHub Actions from your favorite tools"
 excerpt: "Enterprises and teams are adopting DevOps technologies combined with people and processes to deliver high-quality code, with faster release cycles and continuous delivery of value, to achieve higher levels of satisfaction for their own customers.\r\n\r\nHowever, it can often get difficult to craft CI/CD"
 publishedDateTime: 2020-05-27T08:00:01Z
+originalUrl: "https://azure.microsoft.com/blog/deploy-to-azure-using-github-actions-from-your-favorite-tools/"
 webUrl: "https://azure.microsoft.com/blog/deploy-to-azure-using-github-actions-from-your-favorite-tools/"
 type: article
 quality: 91

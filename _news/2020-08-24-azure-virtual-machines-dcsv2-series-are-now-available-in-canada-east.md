@@ -3,6 +3,7 @@ category: news
 title: "Azure Virtual Machines DCsv2-series are now available in Canada East"
 excerpt: "Confidential computing DCsv2-series virtual machines (VMs) are now available in East US, Canada Central, Canada East, UK South, West Europe, and West US 2."
 publishedDateTime: 2020-08-24T17:05:00Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-confidential-computing-available-in-canada-east/"
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-confidential-computing-available-in-canada-east/"
 type: article
 quality: 67

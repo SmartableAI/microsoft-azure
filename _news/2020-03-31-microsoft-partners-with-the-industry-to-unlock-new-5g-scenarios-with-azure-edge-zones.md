@@ -3,6 +3,7 @@ category: news
 title: "Microsoft partners with the industry to unlock new 5G scenarios with Azure Edge Zones"
 excerpt: "Cloud, edge computing, and IoT are making strides to transform whole industries and create opportunities that weren't possible just a few years ago. With the rise of 5G mobile connectivity, there are even more possibilities to deliver immersive, real-time experiences that have demanding, ultra-low latency,"
 publishedDateTime: 2020-03-31T08:00:10Z
+originalUrl: "https://azure.microsoft.com/blog/microsoft-partners-with-the-industry-to-unlock-new-5g-scenarios-with-azure-edge-zones/"
 webUrl: "https://azure.microsoft.com/blog/microsoft-partners-with-the-industry-to-unlock-new-5g-scenarios-with-azure-edge-zones/"
 type: article
 quality: 82

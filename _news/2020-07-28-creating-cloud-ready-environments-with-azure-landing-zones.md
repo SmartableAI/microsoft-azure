@@ -3,6 +3,7 @@ category: news
 title: "Creating cloud ready environments with Azure landing zones"
 excerpt: "Azure landing zones in the Microsoft Cloud Adoption Framework for Azure are designed to accelerate efforts to map, modernize, or even reimagine the operating model. Azure landing zones help build a cloud environment aligned to the optimal technology operations specific to your needs in the cloud."
 publishedDateTime: 2020-07-28T08:00:14Z
+originalUrl: "https://azure.microsoft.com/blog/creating-cloud-ready-environments-with-azure-landing-zones/"
 webUrl: "https://azure.microsoft.com/blog/creating-cloud-ready-environments-with-azure-landing-zones/"
 type: article
 quality: 89

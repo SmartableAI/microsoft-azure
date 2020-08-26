@@ -3,6 +3,7 @@ category: news
 title: "Unified network monitoring with Connection Monitor now in preview"
 excerpt: "Azure Network Watcher’s new and improved Connection Monitor now provides unified end-to-end connection monitoring capabilities for hybrid and Azure deployments. Users can now use the same solution to monitor connectivity for on-premises, Azure, and multi-cloud setups. In this preview phase, the solution"
 publishedDateTime: 2020-03-18T09:00:05Z
+originalUrl: "https://azure.microsoft.com/blog/unified-network-monitoring-with-connection-monitor-now-in-preview/"
 webUrl: "https://azure.microsoft.com/blog/unified-network-monitoring-with-connection-monitor-now-in-preview/"
 type: article
 quality: 74

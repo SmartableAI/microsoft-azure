@@ -3,6 +3,7 @@ category: news
 title: "Cross Region Restore (CRR) for Azure Virtual Machines using Azure Backup"
 excerpt: "Today we're indroducing the preview of Cross Region Restore (CRR) for Microsoft Azure Virtual Machines (VMs) support using Microsoft Azure Backup.\r\n\r\nAzure Backup uses Recovery Services vault to hold customers' backup data which offers both local and geographic redundancy. To ensure high availability"
 publishedDateTime: 2020-04-30T09:00:07Z
+originalUrl: "https://azure.microsoft.com/blog/cross-region-restore-crr-for-azure-virtual-machines-using-azure-backup/"
 webUrl: "https://azure.microsoft.com/blog/cross-region-restore-crr-for-azure-virtual-machines-using-azure-backup/"
 type: article
 quality: 107

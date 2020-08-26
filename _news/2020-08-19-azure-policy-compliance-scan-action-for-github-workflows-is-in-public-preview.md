@@ -3,6 +3,7 @@ category: news
 title: "Azure Policy Compliance Scan Action for GitHub Workflows is in public preview"
 excerpt: "Trigger on-demand Azure policy compliance scan on Azure resources from GitHub workflows and proceed/fail workflow execution depending on compliance state of resources. "
 publishedDateTime: 2020-08-19T19:02:50Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-policy-compliance-scan-action-for-github-workflows-is-in-public-preview/"
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-policy-compliance-scan-action-for-github-workflows-is-in-public-preview/"
 type: article
 quality: 64

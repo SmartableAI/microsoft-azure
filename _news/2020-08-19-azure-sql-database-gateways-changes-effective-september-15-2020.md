@@ -3,6 +3,7 @@ category: news
 title: "Azure SQL Database gateways changes effective September 15, 2020"
 excerpt: "Beginning September 15, 2020, new & existing Azure SQL Database gateways in multiple regions will start accepting traffic"
 publishedDateTime: 2020-08-19T20:00:04Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-database-gateways-changes-effective-september-15-2020/"
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-database-gateways-changes-effective-september-15-2020/"
 type: article
 quality: 67

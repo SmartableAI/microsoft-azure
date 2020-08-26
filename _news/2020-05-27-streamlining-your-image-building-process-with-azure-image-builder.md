@@ -3,6 +3,7 @@ category: news
 title: "Streamlining your image building process with Azure Image Builder"
 excerpt: "Customizing virtual machine (VM) images to meet security and compliance requirements and achieve faster deployment is a strong need for many enterprises, but most don't enjoy the process and energy needed for determining the right tooling, building the right pipeline, and maintaining it continuously.\r\n\r\nWe"
 publishedDateTime: 2020-05-27T09:00:01Z
+originalUrl: "https://azure.microsoft.com/blog/streamlining-your-image-building-process-with-azure-image-builder/"
 webUrl: "https://azure.microsoft.com/blog/streamlining-your-image-building-process-with-azure-image-builder/"
 type: article
 quality: 89

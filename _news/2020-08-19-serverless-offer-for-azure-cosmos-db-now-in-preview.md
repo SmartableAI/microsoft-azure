@@ -3,6 +3,7 @@ category: news
 title: "Serverless offer for Azure Cosmos DB now in preview "
 excerpt: "A new consumption-based offer that requires no capacity management is now available"
 publishedDateTime: 2020-08-19T16:00:01Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/serverless-offer-for-azure-cosmos-db-now-in-public-preview/"
 webUrl: "https://azure.microsoft.com/en-us/updates/serverless-offer-for-azure-cosmos-db-now-in-public-preview/"
 type: article
 quality: 67

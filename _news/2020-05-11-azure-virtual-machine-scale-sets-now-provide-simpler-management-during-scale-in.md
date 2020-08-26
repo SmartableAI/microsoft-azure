@@ -3,6 +3,7 @@ category: news
 title: "Azure Virtual Machine Scale Sets now provide simpler management during scale-in"
 excerpt: "We recently announced the general availability of three features for Azure Virtual Machine Scale Sets. Instance protection, custom scale-in policy, and terminate notification provide new capabilities to simplify management of virtual machine instances during scale-in.\r\n\r\nAzure Virtual Machine Scale Sets"
 publishedDateTime: 2020-05-11T12:00:03Z
+originalUrl: "https://azure.microsoft.com/blog/azure-virtual-machine-scale-sets-now-provide-simpler-management-during-scalein/"
 webUrl: "https://azure.microsoft.com/blog/azure-virtual-machine-scale-sets-now-provide-simpler-management-during-scalein/"
 type: article
 quality: 100

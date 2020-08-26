@@ -3,6 +3,7 @@ category: news
 title: "Advancing resilience through chaos engineering and fault injection"
 excerpt: "This post is designed to get you thinking about how best to validate typical failure conditions, including examples of how we at Microsoft validate our own systems."
 publishedDateTime: 2020-07-27T09:00:02Z
+originalUrl: "https://azure.microsoft.com/blog/advancing-resilience-through-chaos-engineering-and-fault-injection/"
 webUrl: "https://azure.microsoft.com/blog/advancing-resilience-through-chaos-engineering-and-fault-injection/"
 type: article
 quality: 60

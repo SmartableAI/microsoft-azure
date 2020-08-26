@@ -3,6 +3,7 @@ category: news
 title: "How Azure Machine Learning enables PowerPoint Designer"
 excerpt: "PowerPoint Designer is one of the everyday AI capabilities in Office 365, enabling users to be more productive and unlock greater value from PowerPoint. It applies AI technologies and machine learning (ML) based techniques to suggest high-quality professional slide designs. Content on slides such as"
 publishedDateTime: 2020-03-26T12:00:05Z
+originalUrl: "https://azure.microsoft.com/blog/how-azure-machine-learning-enables-powerpoint-designer/"
 webUrl: "https://azure.microsoft.com/blog/how-azure-machine-learning-enables-powerpoint-designer/"
 type: article
 quality: 104

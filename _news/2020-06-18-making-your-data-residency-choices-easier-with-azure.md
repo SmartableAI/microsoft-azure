@@ -3,6 +3,7 @@ category: news
 title: "Making your data residency choices easier with Azure"
 excerpt: "We understand that with Azure’s over 200 services, advances in architecture, and data protection promises, there are a lot of options available to customers. To help you make the right decisions, we have summarized the answers to your questions on Azure regions, data residency, data access, and retention."
 publishedDateTime: 2020-06-18T11:30:28Z
+originalUrl: "https://azure.microsoft.com/blog/making-your-data-residency-choices-easier-with-azure/"
 webUrl: "https://azure.microsoft.com/blog/making-your-data-residency-choices-easier-with-azure/"
 type: article
 quality: 89

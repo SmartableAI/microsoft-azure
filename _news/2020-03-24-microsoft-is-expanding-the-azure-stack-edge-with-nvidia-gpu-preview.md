@@ -3,6 +3,7 @@ category: news
 title: "Microsoft is expanding the Azure Stack Edge with NVIDIA GPU preview"
 excerpt: "We’re expanding the Microsoft Azure Stack Edge with NVIDIA T4 Tensor Core GPU preview during the GPU Technology Conference (GTC Digital). Azure Stack Edge is a cloud-managed appliance that brings Azure’s compute, storage, and machine learning capabilities to the edge for fast local analysis and insights."
 publishedDateTime: 2020-03-24T14:00:25Z
+originalUrl: "https://azure.microsoft.com/blog/microsoft-is-expanding-the-azure-stack-edge-with-nvidia-t4-gpu-preview/"
 webUrl: "https://azure.microsoft.com/blog/microsoft-is-expanding-the-azure-stack-edge-with-nvidia-t4-gpu-preview/"
 type: article
 quality: 91

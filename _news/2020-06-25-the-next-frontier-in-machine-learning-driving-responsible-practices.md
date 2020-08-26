@@ -3,6 +3,7 @@ category: news
 title: "The next frontier in machine learning: driving responsible practices"
 excerpt: "Organizations around the world are gearing up for a future powered by artificial intelligence (AI). From supply chain systems to genomics, and from predictive maintenance to autonomous systems, every aspect of the transformation is making use of AI."
 publishedDateTime: 2020-06-25T13:00:30Z
+originalUrl: "https://azure.microsoft.com/blog/the-next-frontier-in-machine-learning-driving-responsible-practices/"
 webUrl: "https://azure.microsoft.com/blog/the-next-frontier-in-machine-learning-driving-responsible-practices/"
 type: article
 quality: 74

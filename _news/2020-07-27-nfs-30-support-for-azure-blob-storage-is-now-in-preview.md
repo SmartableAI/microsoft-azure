@@ -3,6 +3,7 @@ category: news
 title: "NFS 3.0 support for Azure Blob storage is now in preview"
 excerpt: "To enable customers to run NFS based applications at scale, we are announcing the preview of NFS 3.0 protocol support for Azure Blob storage. "
 publishedDateTime: 2020-07-27T10:00:03Z
+originalUrl: "https://azure.microsoft.com/blog/nfs-30-support-for-azure-blob-storage-is-now-in-preview/"
 webUrl: "https://azure.microsoft.com/blog/nfs-30-support-for-azure-blob-storage-is-now-in-preview/"
 type: article
 quality: 86

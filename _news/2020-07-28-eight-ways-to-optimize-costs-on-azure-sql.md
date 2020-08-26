@@ -3,6 +3,7 @@ category: news
 title: "Eight ways to optimize costs on Azure SQL"
 excerpt: "Across the globe, businesses are emerging into a new normal, eager to restart or rebuild, but still operating in uncertain times. Optimizing costs and redirecting the spend to where it matters most is as important as ever, and many companies see the cloud as a way to control costs, build resilience and"
 publishedDateTime: 2020-07-28T09:00:15Z
+originalUrl: "https://azure.microsoft.com/blog/eight-ways-to-optimize-costs-on-azure-sql/"
 webUrl: "https://azure.microsoft.com/blog/eight-ways-to-optimize-costs-on-azure-sql/"
 type: article
 quality: 91

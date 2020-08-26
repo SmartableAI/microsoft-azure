@@ -3,6 +3,7 @@ category: news
 title: "Microsoft Azure Stack HCI: How to make the hybrid cloud part of your network"
 excerpt: "The second release of Azure Stack HCI brings a cloud-centric operational model to on-premises, with the Azure Portal as your gateway to the hybrid cloud."
 publishedDateTime: 2020-08-25T09:39:00Z
+originalUrl: "https://www.techrepublic.com/article/microsoft-azure-stack-hci-how-to-make-the-hybrid-cloud-part-of-your-network/"
 webUrl: "https://www.techrepublic.com/article/microsoft-azure-stack-hci-how-to-make-the-hybrid-cloud-part-of-your-network/"
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-stack-hci-how-to-make-the-hybrid-cloud-part-of-your-network/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-stack-hci-how-to-make-the-hybrid-cloud-part-of-your-network/"

@@ -3,6 +3,7 @@ category: news
 title: "Azure Container Registry: Mitigating data exfiltration with dedicated data endpoints"
 excerpt: "Azure Container Registry announces dedicated data endpoints, enabling tightly scoped client firewall rules to specific registries, minimizing data exfiltration concerns.\r\n\r\nPulling content from a registry involves two endpoints:\r\n\r\n\r\n\tRegistry endpoint, often referred to as the login URL, used for authentication"
 publishedDateTime: 2020-04-30T10:00:07Z
+originalUrl: "https://azure.microsoft.com/blog/azure-container-registry-mitigating-data-exfiltration-with-dedicated-data-endpoints/"
 webUrl: "https://azure.microsoft.com/blog/azure-container-registry-mitigating-data-exfiltration-with-dedicated-data-endpoints/"
 type: article
 quality: 82

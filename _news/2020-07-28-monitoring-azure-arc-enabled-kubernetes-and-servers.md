@@ -3,6 +3,7 @@ category: news
 title: "Monitoring Azure Arc enabled Kubernetes and servers"
 excerpt: "Azure Arc is a preview service that enables users to create and attach Kubernetes clusters both inside and outside of Azure. Azure Arc also enables the user to manage Windows and Linux machines outside of Azure the same way native Azure Virtual Machines are managed."
 publishedDateTime: 2020-07-28T11:00:16Z
+originalUrl: "https://azure.microsoft.com/blog/monitoring-azure-arc-enabled-kubernetes-and-servers/"
 webUrl: "https://azure.microsoft.com/blog/monitoring-azure-arc-enabled-kubernetes-and-servers/"
 type: article
 quality: 89

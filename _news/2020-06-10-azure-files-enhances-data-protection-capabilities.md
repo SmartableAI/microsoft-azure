@@ -3,6 +3,7 @@ category: news
 title: "Azure Files enhances data protection capabilities"
 excerpt: "Protecting your production data is critical for any business. That’s why Azure Files has a multi-layered approach to ensuring your data is highly available, backed up, and recoverable. Whether it’s a ransomware attack, a datacenter outage, or a file share that was accidentally deleted, we want to make"
 publishedDateTime: 2020-06-10T11:30:14Z
+originalUrl: "https://azure.microsoft.com/blog/azure-files-enhances-data-protection-capabilities/"
 webUrl: "https://azure.microsoft.com/blog/azure-files-enhances-data-protection-capabilities/"
 type: article
 quality: 91

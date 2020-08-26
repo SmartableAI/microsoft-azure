@@ -3,6 +3,7 @@ category: news
 title: "Azure.com operates on Azure part 1: Design principles and best practices"
 excerpt: "In part one of our two-part series, we will peek behind the Azure.com web page to show you how we think about running a major brand website on a global scale. "
 publishedDateTime: 2020-06-24T09:00:15Z
+originalUrl: "https://azure.microsoft.com/blog/azurecom-operates-on-azure-part-1-design-principles-and-best-practices/"
 webUrl: "https://azure.microsoft.com/blog/azurecom-operates-on-azure-part-1-design-principles-and-best-practices/"
 type: article
 quality: 86

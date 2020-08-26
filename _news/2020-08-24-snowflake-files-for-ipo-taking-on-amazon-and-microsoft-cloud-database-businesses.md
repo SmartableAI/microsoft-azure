@@ -3,6 +3,7 @@ category: news
 title: "Snowflake files for IPO, taking on Amazon and Microsoft cloud database businesses"
 excerpt: "Snowflake said in its IPO prospectus that revenue in the first half of 2020 more than doubled to $242 million, while its net loss narrowed slightly to $171.3 million."
 publishedDateTime: 2020-08-24T21:19:00Z
+originalUrl: "https://www.cnbc.com/2020/08/24/snowflake-files-s-1-for-ipo.html"
 webUrl: "https://www.cnbc.com/2020/08/24/snowflake-files-s-1-for-ipo.html"
 ampWebUrl: "https://www.cnbc.com/amp/2020/08/24/snowflake-files-s-1-for-ipo.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/08/24/snowflake-files-s-1-for-ipo.html"

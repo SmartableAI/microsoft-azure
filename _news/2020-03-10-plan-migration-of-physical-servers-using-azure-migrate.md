@@ -3,6 +3,7 @@ category: news
 title: "Plan migration of physical servers using Azure Migrate"
 excerpt: "At Microsoft Ignite, we announced new Microsoft Azure Migrate assessment capabilities that further simplify migration planning. In this post, I will talk about how you can plan migration of physical servers. Using this feature, you can also plan migration of virtual machines of any hypervisor or cloud."
 publishedDateTime: 2020-03-10T10:00:09Z
+originalUrl: "https://azure.microsoft.com/blog/plan-migration-of-physical-servers-using-azure-migrate/"
 webUrl: "https://azure.microsoft.com/blog/plan-migration-of-physical-servers-using-azure-migrate/"
 type: article
 quality: 106

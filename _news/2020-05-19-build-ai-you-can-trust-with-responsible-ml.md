@@ -3,6 +3,7 @@ category: news
 title: "Build AI you can trust with responsible ML"
 excerpt: "As AI reaches critical momentum across industries and applications, it becomes essential to ensure the safe and responsible use of AI. AI deployments are increasingly impacted by the lack of customer trust in the transparency, accountability, and fairness of these solutions. Microsoft is committed to"
 publishedDateTime: 2020-05-19T08:00:15Z
+originalUrl: "https://azure.microsoft.com/blog/build-ai-you-can-trust-with-responsible-ml/"
 webUrl: "https://azure.microsoft.com/blog/build-ai-you-can-trust-with-responsible-ml/"
 type: article
 quality: 74

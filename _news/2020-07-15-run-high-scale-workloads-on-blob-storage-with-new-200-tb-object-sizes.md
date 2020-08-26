@@ -3,6 +3,7 @@ category: news
 title: "Run high scale workloads on Blob storage with new 200 TB object sizes"
 excerpt: "Azure Blob storage is a massively scalable object storage solution that serves from small amounts to hundreds of petabytes of data per customer across a diverse set of data types including logging, documents, media, genomics, seismic processing, and much more."
 publishedDateTime: 2020-07-15T09:00:26Z
+originalUrl: "https://azure.microsoft.com/blog/run-high-scale-workloads-on-blob-storage-with-new-200-tb-object-sizes/"
 webUrl: "https://azure.microsoft.com/blog/run-high-scale-workloads-on-blob-storage-with-new-200-tb-object-sizes/"
 type: article
 quality: 91

@@ -3,6 +3,7 @@ category: news
 title: "Azure Machine Learning announces output dataset (Preview)"
 excerpt: "With the new output datasets capability, write back to cloud storage and configure and register output data. "
 publishedDateTime: 2020-08-20T21:23:12Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-machine-learning-announces-output-dataset-preview/"
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-machine-learning-announces-output-dataset-preview/"
 type: article
 quality: 67

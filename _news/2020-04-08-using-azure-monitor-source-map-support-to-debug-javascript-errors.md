@@ -3,6 +3,7 @@ category: news
 title: "Using Azure Monitor source map support to debug JavaScript errors"
 excerpt: "Azure Monitor’s new source map support expands a growing list of tools that empower developers to observe, diagnose, and debug their JavaScript applications.\r\n\r\nDifficult to debug\r\n\r\nAs organizations rapidly adopt modern JavaScript frontend frameworks such as React, Angular, and Vue, they are left with"
 publishedDateTime: 2020-04-08T10:00:00Z
+originalUrl: "https://azure.microsoft.com/blog/using-azure-monitor-source-map-support-to-debug-javascript-errors/"
 webUrl: "https://azure.microsoft.com/blog/using-azure-monitor-source-map-support-to-debug-javascript-errors/"
 type: article
 quality: 89

@@ -3,6 +3,7 @@ category: news
 title: "Tech Data Expands Cloud Solution Factory Portfolio with Windows Virtual Desktop on Azure Click-to-Run Solution"
 excerpt: "Tech Data today announced that it has expanded its Cloud Solution Factory offering with the addition of a new Windows Virtual Desktop on Azure Click-t"
 publishedDateTime: 2020-08-24T12:43:00Z
+originalUrl: "https://www.businesswire.com/news/home/20200824005324/en/Tech-Data-Expands-Cloud-Solution-Factory-Portfolio"
 webUrl: "https://www.businesswire.com/news/home/20200824005324/en/Tech-Data-Expands-Cloud-Solution-Factory-Portfolio"
 type: article
 quality: 17

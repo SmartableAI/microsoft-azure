@@ -3,6 +3,7 @@ category: news
 title: "Migrate to the cloud with confidence"
 excerpt: "To support your cloud migration projects, we are committed to solutions that optimize costs, scale efficiencies, and bring unmatched security and compliance."
 publishedDateTime: 2020-07-22T08:00:50Z
+originalUrl: "https://azure.microsoft.com/blog/migrate-to-the-cloud-with-confidence/"
 webUrl: "https://azure.microsoft.com/blog/migrate-to-the-cloud-with-confidence/"
 type: article
 quality: 54

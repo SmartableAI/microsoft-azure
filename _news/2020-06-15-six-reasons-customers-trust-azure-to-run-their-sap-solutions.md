@@ -3,6 +3,7 @@ category: news
 title: "Six reasons customers trust Azure to run their SAP solutions"
 excerpt: "As global organizations across every industry adjust to the new normal, SAP solutions are playing an increasingly vital role in addressing immediate needs and paving a path to a resilient future. Now more than ever, companies are realizing the value of running their SAP solutions in the cloud. While"
 publishedDateTime: 2020-06-15T08:00:01Z
+originalUrl: "https://azure.microsoft.com/blog/six-reasons-customers-trust-azure-to-run-their-sap-solutions/"
 webUrl: "https://azure.microsoft.com/blog/six-reasons-customers-trust-azure-to-run-their-sap-solutions/"
 type: article
 quality: 73

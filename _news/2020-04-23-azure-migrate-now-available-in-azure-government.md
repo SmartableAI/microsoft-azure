@@ -3,6 +3,7 @@ category: news
 title: "Azure Migrate now available in Azure Government"
 excerpt: "Microsoft’s service for datacenter migration, Azure Migrate, is now available in Azure Government—unlocking the whole range of functionality for government customers. Previously, Azure Migrate V1 was available to US Azure Government customers, which performed limited scale assessment for VMware workloads."
 publishedDateTime: 2020-04-23T11:00:11Z
+originalUrl: "https://azure.microsoft.com/blog/azure-migrate-now-available-in-azure-government/"
 webUrl: "https://azure.microsoft.com/blog/azure-migrate-now-available-in-azure-government/"
 type: article
 quality: 89

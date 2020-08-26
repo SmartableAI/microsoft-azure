@@ -3,6 +3,7 @@ category: news
 title: "Three reasons to migrate your ASP.NET apps and SQL Server data to Azure"
 excerpt: "The way we work and live has changed. Over the last several months, enterprises have had to shift their strategy from physical first to digital first and accelerate their digital transformation to enable remote productivity, reduce costs, or rapidly address new opportunities."
 publishedDateTime: 2020-07-28T10:00:15Z
+originalUrl: "https://azure.microsoft.com/blog/three-reasons-to-migrate-your-aspnet-apps-and-sql-server-data-to-azure/"
 webUrl: "https://azure.microsoft.com/blog/three-reasons-to-migrate-your-aspnet-apps-and-sql-server-data-to-azure/"
 type: article
 quality: 73

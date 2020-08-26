@@ -3,6 +3,7 @@ category: news
 title: "Azure Backup for SAP HANA databases running on RHEL is now generally available"
 excerpt: "On August 1, 2020, Azure Backups support for HANA databases running on Red Hat Enterprise Linux (RHEL) became generally available. This offering is available across all Azure regions except for Germany Northeast, Germany Central, France South, and US Gov IOWA. "
 publishedDateTime: 2020-08-19T16:00:41Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-for-sap-hana-databases-running-on-rhel-is-now-ga/"
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-for-sap-hana-databases-running-on-rhel-is-now-ga/"
 type: article
 quality: 63

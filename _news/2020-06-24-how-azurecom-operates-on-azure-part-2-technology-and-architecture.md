@@ -3,6 +3,7 @@ category: news
 title: "How Azure.com operates on Azure part 2: Technology and architecture"
 excerpt: "In part two of our two-part series we share our blueprint, so you can learn from our experience building a website on global scale and move forward with your own website transformation."
 publishedDateTime: 2020-06-24T09:00:15Z
+originalUrl: "https://azure.microsoft.com/blog/how-azurecom-operates-on-azure-part-2-technology-and-architecture/"
 webUrl: "https://azure.microsoft.com/blog/how-azurecom-operates-on-azure-part-2-technology-and-architecture/"
 type: article
 quality: 87

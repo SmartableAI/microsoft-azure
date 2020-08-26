@@ -3,6 +3,7 @@ category: news
 title: "Azure Cost Management + Billing updates – March 2020"
 excerpt: "We're covering the spectrum this month from improvements to help you stay on top of all your pay-as-you-go (PAYG) invoices to 4 new ways to save money and a wealth of new, quick videos to help you learn how to manage and optimize your costs."
 publishedDateTime: 2020-03-25T11:00:12Z
+originalUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-march-2020/"
 webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-march-2020/"
 type: article
 quality: 69

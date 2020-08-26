@@ -3,6 +3,7 @@ category: news
 title: "Azure Cost Management + Billing updates – April 2020"
 excerpt: "Whether you're a new student, thriving startup, or the largest enterprise, you have financial constraints and you need to know what you're spending, where, and how to plan for the future. Nobody wants a surprise when it comes to the bill, and this is where Azure Cost Management + Billing comes in.\r\n\r\nWe're"
 publishedDateTime: 2020-04-30T11:00:08Z
+originalUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-april-2020/"
 webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-april-2020/"
 type: article
 quality: 95

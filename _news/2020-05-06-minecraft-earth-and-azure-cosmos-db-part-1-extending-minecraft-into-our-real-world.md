@@ -3,6 +3,7 @@ category: news
 title: "Minecraft Earth and Azure Cosmos DB part 1: Extending Minecraft into our real world"
 excerpt: "This post is part 1 of a two-part series about how organizations use Azure Cosmos DB to meet real world needs and the difference it’s making to them. In part 1, we explore the challenges that led service developers for Minecraft Earth to choose Azure Cosmos DB and how they’re using it to capture almost"
 publishedDateTime: 2020-05-06T10:00:12Z
+originalUrl: "https://azure.microsoft.com/blog/minecraft-earth-and-azure-cosmos-db-part-1-extending-minecraft-into-our-real-world/"
 webUrl: "https://azure.microsoft.com/blog/minecraft-earth-and-azure-cosmos-db-part-1-extending-minecraft-into-our-real-world/"
 type: article
 quality: 98

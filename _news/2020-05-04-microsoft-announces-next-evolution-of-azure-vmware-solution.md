@@ -3,6 +3,7 @@ category: news
 title: "Microsoft announces next evolution of Azure VMware Solution"
 excerpt: "Today, I’m excited to announce the preview of the next generation of Azure VMware Solution, designed, built, and supported by Microsoft and endorsed by VMware.\r\n\r\nWith the current economic environment, many organizations face new challenges to find rapid and cost-effective solutions that enable business"
 publishedDateTime: 2020-05-04T10:30:00Z
+originalUrl: "https://azure.microsoft.com/blog/microsoft-announces-next-evolution-of-azure-vmware-solution/"
 webUrl: "https://azure.microsoft.com/blog/microsoft-announces-next-evolution-of-azure-vmware-solution/"
 type: article
 quality: 69

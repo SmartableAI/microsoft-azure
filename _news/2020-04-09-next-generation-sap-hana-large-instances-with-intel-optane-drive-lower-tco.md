@@ -3,6 +3,7 @@ category: news
 title: "Next Generation SAP HANA Large Instances with Intel® Optane™ drive lower TCO"
 excerpt: "At Microsoft Ignite 2019, we announced general availability of the new SAP HANA Large Instances powered by the 2nd Generation Intel Xeon Scalable processors, formally Cascade Lake, supporting Intel® Optane™ persistent memory (PMem).\r\n\r\nMicrosoft’s largest SAP customers are continuing to consolidate their"
 publishedDateTime: 2020-04-09T10:00:12Z
+originalUrl: "https://azure.microsoft.com/blog/next-generation-sap-hana-large-instances-with-intel-optane-drive-lower-tco/"
 webUrl: "https://azure.microsoft.com/blog/next-generation-sap-hana-large-instances-with-intel-optane-drive-lower-tco/"
 type: article
 quality: 73

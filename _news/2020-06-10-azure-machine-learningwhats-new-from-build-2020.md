@@ -3,6 +3,7 @@ category: news
 title: "Azure Machine Learning—what’s new from Build 2020"
 excerpt: "Machine learning (ML) is gaining momentum across a number of industries and scenarios as enterprises look to drive innovation, increase efficiency, and reduce costs. Microsoft Azure Machine Learning empowers developers and data scientists with enterprise-grade capabilities to accelerate the ML lifecycle."
 publishedDateTime: 2020-06-10T12:00:14Z
+originalUrl: "https://azure.microsoft.com/blog/azure-machine-learning-what-s-new-from-build-2020/"
 webUrl: "https://azure.microsoft.com/blog/azure-machine-learning-what-s-new-from-build-2020/"
 type: article
 quality: 104

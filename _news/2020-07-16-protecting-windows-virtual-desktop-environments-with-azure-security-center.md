@@ -3,6 +3,7 @@ category: news
 title: "Protecting Windows Virtual Desktop environments with Azure Security Center"
 excerpt: "With massive workforces now remote, IT admins and security professionals are under increased pressure to keep everyone productive and connected while combatting evolving threats."
 publishedDateTime: 2020-07-16T14:00:42Z
+originalUrl: "https://azure.microsoft.com/blog/protecting-windows-virtual-desktop-environments-with-azure-security-center/"
 webUrl: "https://azure.microsoft.com/blog/protecting-windows-virtual-desktop-environments-with-azure-security-center/"
 type: article
 quality: 102

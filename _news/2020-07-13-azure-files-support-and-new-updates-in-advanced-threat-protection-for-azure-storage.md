@@ -3,6 +3,7 @@ category: news
 title: "Azure Files support and new updates in advanced threat protection for Azure Storage"
 excerpt: "A year ago we announced the general availability of advanced threat protection for Azure Storage, to help our customers better protect their data in blob containers from the growing risk of cyberattacks."
 publishedDateTime: 2020-07-13T10:00:01Z
+originalUrl: "https://azure.microsoft.com/blog/azure-files-support-and-new-updates-in-advanced-threat-protection-for-azure-storage/"
 webUrl: "https://azure.microsoft.com/blog/azure-files-support-and-new-updates-in-advanced-threat-protection-for-azure-storage/"
 type: article
 quality: 83

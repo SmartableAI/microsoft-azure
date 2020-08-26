@@ -3,6 +3,7 @@ category: news
 title: "Reminder: Save 95% on the Complete Microsoft Azure eBook & Video Course Bundle"
 excerpt: "Just a quick reminder for our readers about the awesome deal on the Complete Microsoft Azure eBook & Video Course Bundle in the Geeky Gadgets Deals store. The Complete Microsoft Azure eBook ..."
 publishedDateTime: 2020-08-20T15:15:00Z
+originalUrl: "https://www.geeky-gadgets.com/reminder-save-95-on-the-complete-microsoft-azure-ebook-video-course-bundle-20-08-2020/"
 webUrl: "https://www.geeky-gadgets.com/reminder-save-95-on-the-complete-microsoft-azure-ebook-video-course-bundle-20-08-2020/"
 type: article
 quality: 33

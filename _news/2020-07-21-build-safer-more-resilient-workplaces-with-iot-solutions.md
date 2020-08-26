@@ -3,6 +3,7 @@ category: news
 title: "Build safer, more resilient workplaces with IoT solutions"
 excerpt: "How do we make it safe for people to return to the workplace? And how can the Internet of Things (IoT) play a role in supporting these phases of responding, recovering, and rebuilding?"
 publishedDateTime: 2020-07-21T08:00:49Z
+originalUrl: "https://azure.microsoft.com/blog/build-safer-more-resilient-workplaces-with-iot-solutions/"
 webUrl: "https://azure.microsoft.com/blog/build-safer-more-resilient-workplaces-with-iot-solutions/"
 type: article
 quality: 89

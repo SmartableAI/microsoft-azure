@@ -3,6 +3,7 @@ category: news
 title: "Microsoft cloud vets raise $26M for drug prescription data platform Prescryptive Health"
 excerpt: "Seattle startup Prescryptive Health raised $26 million for its prescription data platform software. Founded in 2017 by Microsoft commercial cloud vets Chris Blackley and Kevin"
 publishedDateTime: 2020-08-25T17:36:00Z
+originalUrl: "https://www.geekwire.com/2020/microsoft-cloud-vets-raise-26m-drug-prescription-data-platform-prescryptive-health/"
 webUrl: "https://www.geekwire.com/2020/microsoft-cloud-vets-raise-26m-drug-prescription-data-platform-prescryptive-health/"
 ampWebUrl: "https://www.geekwire.com/2020/microsoft-cloud-vets-raise-26m-drug-prescription-data-platform-prescryptive-health/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-cloud-vets-raise-26m-drug-prescription-data-platform-prescryptive-health/amp/"

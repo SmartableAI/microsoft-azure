@@ -3,6 +3,7 @@ category: news
 title: "Empowering remote learning with Azure Cognitive Services"
 excerpt: "Announcing the general availability of Immersive Reader and other enhancements to improve learning engagement."
 publishedDateTime: 2020-08-25T08:00:06Z
+originalUrl: "https://azure.microsoft.com/blog/empowering-remote-learning-with-azure-cognitive-services/"
 webUrl: "https://azure.microsoft.com/blog/empowering-remote-learning-with-azure-cognitive-services/"
 type: article
 quality: 67

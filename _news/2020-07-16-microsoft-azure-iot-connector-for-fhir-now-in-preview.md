@@ -3,6 +3,7 @@ category: news
 title: "Microsoft Azure IoT Connector for FHIR now in preview"
 excerpt: "The preview of Azure IoT Connector for FHIR—a fully managed and compliant feature of the Azure API for FHIR—is now available. The connector empowers health teams with the technology for a scalable end-to-end pipeline to ingest, transform, and manage Protected Health Information (PHI) data from devices"
 publishedDateTime: 2020-07-16T11:00:40Z
+originalUrl: "https://azure.microsoft.com/blog/microsoft-azure-iot-connector-for-fhir-now-in-preview/"
 webUrl: "https://azure.microsoft.com/blog/microsoft-azure-iot-connector-for-fhir-now-in-preview/"
 type: article
 quality: 104

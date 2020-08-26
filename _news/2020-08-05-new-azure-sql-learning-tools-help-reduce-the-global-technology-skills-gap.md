@@ -3,6 +3,7 @@ category: news
 title: "New Azure SQL Learning Tools help reduce the global technology skills gap"
 excerpt: "Across Microsoft, we are helping a new generation of technology workers develop the right level of skills. Recently, Microsoft announced the availability of new virtual learning programs. These programs, focused on technical topics are already helping people enhance their digital expertise and, for some,"
 publishedDateTime: 2020-08-05T09:00:41Z
+originalUrl: "https://azure.microsoft.com/blog/new-azure-sql-learning-tools-help-reduce-the-global-technology-skills-gap/"
 webUrl: "https://azure.microsoft.com/blog/new-azure-sql-learning-tools-help-reduce-the-global-technology-skills-gap/"
 type: article
 quality: 68

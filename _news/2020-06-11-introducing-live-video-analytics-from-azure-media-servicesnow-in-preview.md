@@ -3,6 +3,7 @@ category: news
 title: "Introducing live video analytics from Azure Media Services—now in preview"
 excerpt: "Azure Media Services is pleased to announce the preview of a new platform capability called Live Video Analytics, or in short, LVA. LVA provides a platform for you to build hybrid applications with video analytics capabilities. The platform offers the capability of capturing, recording, and analyzing"
 publishedDateTime: 2020-06-11T11:30:23Z
+originalUrl: "https://azure.microsoft.com/blog/introducing-live-video-analytics-on-iot-edge-now-in-preview/"
 webUrl: "https://azure.microsoft.com/blog/introducing-live-video-analytics-on-iot-edge-now-in-preview/"
 type: article
 quality: 88
