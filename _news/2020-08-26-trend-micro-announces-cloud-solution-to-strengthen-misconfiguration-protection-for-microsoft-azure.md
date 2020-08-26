@@ -1,43 +1,28 @@
 ---
 category: news
-title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
-excerpt: "UNIVERSAL CITY, Calif., and REDMOND, Wash., Aug. 21, 2020 /PRNewswire via COMTEX/ -- UNIVERSAL CITY, Calif., and REDMOND, Wash., Aug. 21, 2020"
-publishedDateTime: 2020-08-22T01:48:00Z
-webUrl: "https://www.marketwatch.com/press-release/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-2020-08-21?mod=mw_quote_news&tesla=y"
+title: "Trend Micro Announces Cloud Solution to Strengthen Misconfiguration Protection for Microsoft Azure"
+excerpt: "PRNewswire/ -- Trend Micro Incorporated (TYO: 4704; TSE: 4704), a global leader in cloud security, today announced its"
+publishedDateTime: 2020-08-26T01:46:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/trend-micro-announces-cloud-solution-to-strengthen-misconfiguration-protection-for-microsoft-azure-1029533684"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/trend-micro-announces-cloud-solution-to-strengthen-misconfiguration-protection-for-microsoft-azure-1029533684"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/trend-micro-announces-cloud-solution-to-strengthen-misconfiguration-protection-for-microsoft-azure-1029533684"
 type: article
-quality: 48
-heat: -1
-published: false
+quality: 63
+heat: 243
+published: true
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
 related:
-  - title: "Trend Micro Announces Cloud Solution to Strengthen Misconfiguration Protection for Microsoft Azure"
-    excerpt: "PRNewswire/ -- Trend Micro Incorporated (TYO: 4704; TSE: 4704), a global leader in cloud security, today announced its"
-    publishedDateTime: 2020-08-26T01:46:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/trend-micro-announces-cloud-solution-to-strengthen-misconfiguration-protection-for-microsoft-azure-1029533684"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/trend-micro-announces-cloud-solution-to-strengthen-misconfiguration-protection-for-microsoft-azure-1029533684"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/trend-micro-announces-cloud-solution-to-strengthen-misconfiguration-protection-for-microsoft-azure-1029533684"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
   - title: "Microsoft and TSMC announce Joint Innovation Lab to accelerate silicon design on Azure"
     excerpt: "Right now, every industry and every customer is going through a massive transformation, and cloud computing is often a central enabler of this."
     publishedDateTime: 2020-08-24T14:00:18Z
@@ -67,6 +52,20 @@ related:
     excerpt: "They will bring those workflows into Microsoft Azure and ensure Universal's ecosystem of partners can connect to them in open, standards-based ways. This partnership will also enable the ..."
     publishedDateTime: 2020-08-20T23:59:00Z
     webUrl: "https://www.marketwatch.com/press-release/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-2020-08-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
+    excerpt: "UNIVERSAL CITY, Calif., and REDMOND, Wash., Aug. 21, 2020 /PRNewswire via COMTEX/ -- UNIVERSAL CITY, Calif., and REDMOND, Wash., Aug. 21, 2020"
+    publishedDateTime: 2020-08-22T01:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-2020-08-21?mod=mw_quote_news&tesla=y"
     type: article
     provider:
       name: MarketWatch
@@ -137,6 +136,6 @@ related:
         height: 512
         isCached: true
 
-secured: "5RnvrlZ7Alj3Ir+Ljki8AAJkGR5cx7h+SdmQqQyX+DAWHHMO2JZbIK5dIGSrjl2KYRJbSEKbsZH4hB7MvakVR/LdFEp3Rp4YTdGRQ2jeRtHmpvYnXGSE3tQ3ASVErEzY6HDT3Lg3M614A9jF4ofSFWr5V9u/35dN70pDHXOBFEascqS1xOKEho2qb+kS9jE2lp7h9+C8xY+Cz0M9Unrk+oIW2daaBrUblmSwMaIp+voLvK4lXeUgU3C5qKfLKcFmda9GfYri5IQu9kod/IY8ci9xYVvvaXR15erabs7NEfd7pWSQxfLiYXPoRSpqvcaCUeqKuHCavkyIOCyrZj8CTw==;KdOuknHwQwN/V2zuZZeP/A=="
+secured: "OBVJE/9o1fy394ixuFVI58hSH42ZbtEmRlYA8TB+tIAUnCUrTbURVzOXSDR9P31PW0m3/9dsZ0MOzE5Q+dPE9LRKZXTXObRYtmKXtoiUOQusecg2Kg1YTYmy3WZTc9W9E1VQ2j8nZbd86IrDpkPA70bogRTtwY41g0wD3Af3CuuHqlhlzfMGEm7BXut+OAd7oH4/pW0GmEr7iZ4J+W35qVRuEB8s0CGT44HzN1/6YkNySjO5lhlSmCKvWO5qP158LrBznu/WXO6ZwC0WZ0MFTxB1KPoBUSWjbThuKRO3Fmgpa0RfEuIJax3Ht+PiPNU2ZM4kF4F+BFq4lIdhDh8faQ==;TqE8RK+MJghJ4uI4zjlxTg=="
 ---
 
