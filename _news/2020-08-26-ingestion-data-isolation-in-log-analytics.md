@@ -6,6 +6,9 @@ publishedDateTime: 2020-08-26T16:00:01Z
 originalUrl: "https://azure.microsoft.com/en-us/updates/improved-data-ingestion-isolation-in-log-analytics/"
 webUrl: "https://azure.microsoft.com/en-us/updates/improved-data-ingestion-isolation-in-log-analytics/"
 type: article
+quality: 52
+heat: 52
+published: false
 
 provider:
   name: Microsoft
