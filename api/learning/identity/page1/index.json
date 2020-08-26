@@ -128,6 +128,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-azure-well-architected-security.md",
+      "title": "Microsoft Azure Well-Architected Framework - Security",
+      "excerpt": "Learn how to incorporate security into your architecture design, and discover the tools that Azure provides to help you create a secure environment through all the layers of your architecture.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-security/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
+      "length": "PT1H2M",
+      "ratings": {
+        "count": 1658,
+        "average": 4.6917973
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 125,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-security-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Microsoft Azure Well-Architected Framework - Security",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-introduction-to-security.md",
       "title": "Security, responsibility, and trust in Azure",
       "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
@@ -135,8 +178,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
       "length": "76 mins",
       "ratings": {
-        "count": 42301,
-        "average": 4.7018275
+        "count": 42302,
+        "average": 4.701834
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -160,48 +203,6 @@
           "width": 200,
           "height": 200,
           "title": "Security, responsibility, and trust in Azure",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-m365-identity-cultural-shift.md",
-      "title": "Enable identity protection in Microsoft 365",
-      "excerpt": "Learn about Azure Active Directory (AD) Identity Protection and ways to optimize the end-user experience while benefiting security.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-identity-cultural-shift/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-cultural-shift/",
-      "length": "PT31M",
-      "ratings": {
-        "count": 983,
-        "average": 4.726348
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/use-microsoft-365-to-enable-a-cultural-shift-toward-secured-identities-social.png",
-          "width": 800,
-          "height": 400,
           "isCached": true
         }
       ],
@@ -463,6 +464,135 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-secure-your-cloud-applications-in-azure.md",
+      "title": "Secure your cloud applications in Azure",
+      "excerpt": "Learn how to secure your Azure apps and associated data with encryption, certificates, and policy.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-secure-your-cloud-applications-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-secure-your-cloud-applications-in-azure/",
+      "length": "PT5H36M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate",
+        "Advanced"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Microsoft Azure Well-Architected Framework - Security",
+          "excerpt": "Learn how to incorporate security into your architecture design, and discover the tools that Azure provides to help you create a secure environment through all the layers of your architecture.",
+          "heat": 125,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-security-social.png",
+              "width": 640,
+              "height": 320,
+              "title": "Microsoft Azure Well-Architected Framework - Security",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Top 5 security items to consider before pushing to production",
+          "excerpt": "Secure your web applications on Azure and protect your apps against the most common and dangerous web application attacks.",
+          "heat": 74,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/top-5-security-items-to-consider-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Top 5 security items to consider before pushing to production",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Create security baselines",
+          "excerpt": "Create security baselines",
+          "heat": 60,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-security-baselines-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Create security baselines",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Manage secrets in your server apps with Azure Key Vault",
+          "excerpt": "Your application requires service passwords, connection strings, and other secret configuration values to do its job. Storing and handling secret values is risky, and every usage introduces the possibility of leakage. Azure Key Vault, in combination with managed identities for Azure resources, enables your Azure web app to access secret configuration values easily and securely without needing to store any secrets in your source control or configuration.",
+          "heat": 60,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/manage-secrets-with-azure-key-vault-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Manage secrets in your server apps with Azure Key Vault",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Security",
+            "Compute",
+            "Web"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 88,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-security-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Microsoft Azure Well-Architected Framework - Security",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Security",
+        "Identity",
+        "Integration",
+        "Web"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-az-400-develop-a-security-and-compliance-plan.md",
       "title": "AZ-400: Develop a security and compliance plan",
       "excerpt": "Build strategies around security and compliance that enable you to authenticate and authorize your users, handle sensitive information, and enforce proper governance.\nTake this learning path to help prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions.",
@@ -586,135 +716,6 @@
         "Web",
         "DevOps",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-secure-your-cloud-applications-in-azure.md",
-      "title": "Secure your cloud applications in Azure",
-      "excerpt": "Learn how to secure your Azure apps and associated data with encryption, certificates, and policy.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-secure-your-cloud-applications-in-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-secure-your-cloud-applications-in-azure/",
-      "length": "PT5H36M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate",
-        "Advanced"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Microsoft Azure Well-Architected Framework - Security",
-          "excerpt": "Learn how to incorporate security into your architecture design, and discover the tools that Azure provides to help you create a secure environment through all the layers of your architecture.",
-          "heat": 65,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-security-social.png",
-              "width": 640,
-              "height": 320,
-              "title": "Microsoft Azure Well-Architected Framework - Security",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Top 5 security items to consider before pushing to production",
-          "excerpt": "Secure your web applications on Azure and protect your apps against the most common and dangerous web application attacks.",
-          "heat": 74,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/top-5-security-items-to-consider-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Top 5 security items to consider before pushing to production",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Create security baselines",
-          "excerpt": "Create security baselines",
-          "heat": 60,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/create-security-baselines-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Create security baselines",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Manage secrets in your server apps with Azure Key Vault",
-          "excerpt": "Your application requires service passwords, connection strings, and other secret configuration values to do its job. Storing and handling secret values is risky, and every usage introduces the possibility of leakage. Azure Key Vault, in combination with managed identities for Azure resources, enables your Azure web app to access secret configuration values easily and securely without needing to store any secrets in your source control or configuration.",
-          "heat": 60,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/manage-secrets-with-azure-key-vault-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Manage secrets in your server apps with Azure Key Vault",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Security",
-            "Compute",
-            "Web"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 78,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-security-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Microsoft Azure Well-Architected Framework - Security",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Security",
-        "Identity",
-        "Integration",
-        "Web"
       ]
     },
     {
@@ -1114,49 +1115,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-azure-well-architected-security.md",
-      "title": "Microsoft Azure Well-Architected Framework - Security",
-      "excerpt": "Learn how to incorporate security into your architecture design, and discover the tools that Azure provides to help you create a secure environment through all the layers of your architecture.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-security/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
-      "length": "PT1H2M",
-      "ratings": {
-        "count": 1657,
-        "average": 4.6916113
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 65,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-security-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Microsoft Azure Well-Architected Framework - Security",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-intro-to-azure-ad.md",
       "title": "Secure your identities by using Azure Active Directory",
       "excerpt": "Secure internal resources, external resources, SaaS applications, and more by using Azure Active Directory. Learn about the features and capabilities of Azure AD.",
@@ -1164,8 +1122,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
       "length": "27 mins",
       "ratings": {
-        "count": 1139,
-        "average": 4.6760316
+        "count": 1140,
+        "average": 4.676316
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1343,8 +1301,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
       "length": "50 mins",
       "ratings": {
-        "count": 2568,
-        "average": 4.67095
+        "count": 2569,
+        "average": 4.671078
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1622,8 +1580,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
       "length": "37 mins",
       "ratings": {
-        "count": 4336,
-        "average": 4.6457562
+        "count": 4338,
+        "average": 4.64592
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1973,8 +1931,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-device-identity-ad-join/",
       "length": "PT25M",
       "ratings": {
-        "count": 712,
-        "average": 4.5632024
+        "count": 713,
+        "average": 4.5638146
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2188,8 +2146,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-custom-domain-name-azure-active-directory/",
       "length": "18 mins",
       "ratings": {
-        "count": 741,
-        "average": 4.6585693
+        "count": 742,
+        "average": 4.6590295
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2352,6 +2310,49 @@
         "Identity",
         "Management Tools",
         "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-enable-external-access-with-b2c.md",
+      "title": "Enable secure access to apps for external users with Azure AD B2C",
+      "excerpt": "Use Azure AD B2C as the full-featured identity system for your application, and ensure that users are required to sign in securely by using multi-factor authentication.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-enable-external-access-with-b2c/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-external-access-with-b2c/",
+      "length": "16 mins",
+      "ratings": {
+        "count": 39,
+        "average": 4.4871793
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/enable-external-access-with-b2c-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Enable secure access to apps for external users with Azure AD B2C",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
       ]
     }
   ],

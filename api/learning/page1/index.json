@@ -257,8 +257,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/",
       "length": "62 mins",
       "ratings": {
-        "count": 158117,
-        "average": 4.7717323
+        "count": 158144,
+        "average": 4.7717586
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -300,8 +300,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
       "length": "39 mins",
       "ratings": {
-        "count": 126781,
-        "average": 4.6949544
+        "count": 126791,
+        "average": 4.694978
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -467,8 +467,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
       "length": "38 mins",
       "ratings": {
-        "count": 60116,
-        "average": 4.7074656
+        "count": 60118,
+        "average": 4.7074585
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -633,6 +633,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-azure-well-architected-security.md",
+      "title": "Microsoft Azure Well-Architected Framework - Security",
+      "excerpt": "Learn how to incorporate security into your architecture design, and discover the tools that Azure provides to help you create a secure environment through all the layers of your architecture.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-security/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
+      "length": "PT1H2M",
+      "ratings": {
+        "count": 1658,
+        "average": 4.6917973
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 125,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-security-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Microsoft Azure Well-Architected Framework - Security",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-data-in-azure.md",
       "title": "Core Cloud Services - Azure data storage options",
       "excerpt": "In this module, we'll explore the benefits of Azure data storage versus on-premises storage.",
@@ -640,8 +683,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-data-in-azure/",
       "length": "25 mins",
       "ratings": {
-        "count": 52358,
-        "average": 4.7321134
+        "count": 52365,
+        "average": 4.73213
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -684,8 +727,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/",
       "length": "45 mins",
       "ratings": {
-        "count": 64265,
-        "average": 4.711616
+        "count": 64270,
+        "average": 4.7116227
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -719,6 +762,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-design-a-hybrid-network-architecture.md",
+      "title": "Design a hybrid network architecture on Azure",
+      "excerpt": "You have a traditional on-premises infrastructure that you need to connect to resources in Azure. In this module, you learn how to select a connectivity method for your use cases that balances functionality, cost, and security.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-a-hybrid-network-architecture/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-a-hybrid-network-architecture/",
+      "length": "47 mins",
+      "ratings": {
+        "count": 1009,
+        "average": 4.6134787
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 118,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/design-a-hybrid-network-architecture-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Design a hybrid network architecture on Azure",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-welcome-to-azure.md",
       "title": "Core Cloud Services - Introduction to Azure",
       "excerpt": "Get started with Azure by creating and configuring your first website in the cloud.",
@@ -726,8 +812,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/",
       "length": "36 mins",
       "ratings": {
-        "count": 63720,
-        "average": 4.7991996
+        "count": 63723,
+        "average": 4.7991934
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1014,47 +1100,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-configure-database-authentication-authorization.md",
-      "title": "Configure database authentication and authorization",
-      "excerpt": "Contrast authentication using Azure Active Directory vs Windows Active Directory vs SQL Server authentication. Implement various security principals and configure permissions.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-database-authentication-authorization/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-database-authentication-authorization/",
-      "length": "PT26M",
-      "ratings": {
-        "count": 17,
-        "average": 4.7058825
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 112,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-introduction-to-security.md",
       "title": "Security, responsibility, and trust in Azure",
       "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
@@ -1062,8 +1107,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
       "length": "76 mins",
       "ratings": {
-        "count": 42301,
-        "average": 4.7018275
+        "count": 42302,
+        "average": 4.701834
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1098,48 +1143,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-m365-identity-cultural-shift.md",
-      "title": "Enable identity protection in Microsoft 365",
-      "excerpt": "Learn about Azure Active Directory (AD) Identity Protection and ways to optimize the end-user experience while benefiting security.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-identity-cultural-shift/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-cultural-shift/",
-      "length": "PT31M",
-      "ratings": {
-        "count": 983,
-        "average": 4.726348
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/use-microsoft-365-to-enable-a-cultural-shift-toward-secured-identities-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-intro-to-azure-networking.md",
       "title": "Core Cloud Services - Azure networking options",
       "excerpt": "Running your app or service in the cloud requires a fast and secure network. Learn some of the Azure networking basics and how Azure networking helps improve resiliency and reduce latency.",
@@ -1147,8 +1150,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-networking/",
       "length": "28 mins",
       "ratings": {
-        "count": 41469,
-        "average": 4.763727
+        "count": 41470,
+        "average": 4.763733
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1190,8 +1193,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/",
       "length": "73 mins",
       "ratings": {
-        "count": 48156,
-        "average": 4.706371
+        "count": 48157,
+        "average": 4.706377
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1233,8 +1236,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
       "length": "46 mins",
       "ratings": {
-        "count": 36178,
-        "average": 4.6276464
+        "count": 36183,
+        "average": 4.6276703
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1276,8 +1279,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimize-spending/",
       "length": "74 mins",
       "ratings": {
-        "count": 38531,
-        "average": 4.713633
+        "count": 38534,
+        "average": 4.7136297
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1690,8 +1693,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
       "length": "46 mins",
       "ratings": {
-        "count": 36607,
-        "average": 4.7121863
+        "count": 36612,
+        "average": 4.712171
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1723,6 +1726,135 @@
       "topics": [
         "Azure",
         "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-secure-your-cloud-applications-in-azure.md",
+      "title": "Secure your cloud applications in Azure",
+      "excerpt": "Learn how to secure your Azure apps and associated data with encryption, certificates, and policy.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-secure-your-cloud-applications-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-secure-your-cloud-applications-in-azure/",
+      "length": "PT5H36M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate",
+        "Advanced"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Microsoft Azure Well-Architected Framework - Security",
+          "excerpt": "Learn how to incorporate security into your architecture design, and discover the tools that Azure provides to help you create a secure environment through all the layers of your architecture.",
+          "heat": 125,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-security-social.png",
+              "width": 640,
+              "height": 320,
+              "title": "Microsoft Azure Well-Architected Framework - Security",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Top 5 security items to consider before pushing to production",
+          "excerpt": "Secure your web applications on Azure and protect your apps against the most common and dangerous web application attacks.",
+          "heat": 74,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/top-5-security-items-to-consider-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Top 5 security items to consider before pushing to production",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Create security baselines",
+          "excerpt": "Create security baselines",
+          "heat": 60,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-security-baselines-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Create security baselines",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Manage secrets in your server apps with Azure Key Vault",
+          "excerpt": "Your application requires service passwords, connection strings, and other secret configuration values to do its job. Storing and handling secret values is risky, and every usage introduces the possibility of leakage. Azure Key Vault, in combination with managed identities for Azure resources, enables your Azure web app to access secret configuration values easily and securely without needing to store any secrets in your source control or configuration.",
+          "heat": 60,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/manage-secrets-with-azure-key-vault-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Manage secrets in your server apps with Azure Key Vault",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Security",
+            "Compute",
+            "Web"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 88,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-security-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Microsoft Azure Well-Architected Framework - Security",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Security",
+        "Identity",
+        "Integration",
+        "Web"
       ]
     },
     {
@@ -2469,133 +2601,6 @@
       "topics": [
         "Azure",
         "Networking"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-administer-infrastructure-resources-in-azure-learning-path.md",
-      "title": "Administer infrastructure resources in Azure learning path",
-      "excerpt": "This learning path teaches how to create and customize Windows and Linux virtual machines, connect them to virtual networks, and keep them updated.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-administer-infrastructure-resources-in-azure-learning-path/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-administer-infrastructure-resources-in-azure-learning-path/",
-      "length": "PT10H59M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Introduction to Azure virtual machines",
-          "excerpt": "Learn about the decisions you make before creating a virtual machine, the options to create and manage the VM, and the extensions and services you use to manage your VM.",
-          "heat": 81,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-virtual-machines-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Introduction to Azure virtual machines",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Compute"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Create a Linux virtual machine in Azure",
-          "excerpt": "In this module, we discuss how to create a Linux virtual machine using the Azure portal.",
-          "heat": 63,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/create-linux-virtual-machine-in-azure-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Create a Linux virtual machine in Azure",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Create a Windows virtual machine in Azure",
-          "excerpt": "Azure virtual machines (VMs) enable you to create dedicated compute resources in minutes that can be used just like a physical desktop or server machine.",
-          "heat": 69,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/create-windows-virtual-machine-in-azure-social.png",
-              "width": 1000,
-              "height": 500,
-              "title": "Create a Windows virtual machine in Azure",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Compute"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Manage virtual machines with the Azure CLI",
-          "excerpt": "Learn how to use the cross-platform Azure CLI to create, start, stop, and perform other management tasks related to virtual machines in Azure.",
-          "heat": 57,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/manage-virtual-machines-with-azure-cli-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Manage virtual machines with the Azure CLI",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Management Tools"
-          ]
-        }
-      ],
-      "size": 12,
-      "heat": 82,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-virtual-machines-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Introduction to Azure virtual machines",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Storage",
-        "Management Tools",
-        "DevOps"
       ]
     }
   ],

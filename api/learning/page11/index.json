@@ -4,90 +4,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-azure-sql-case-studies.md",
-      "title": "Putting it all together with Azure SQL",
-      "excerpt": "Putting it all together with Azure SQL",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-sql-case-studies/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-case-studies/",
-      "length": "PT54M",
-      "ratings": {
-        "count": 19,
-        "average": 4.9473686
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-sql-case-studies-social.png",
-          "width": 643,
-          "height": 324,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-sql-secure-data.md",
-      "title": "Secure your data with Azure SQL",
-      "excerpt": "Secure your data with Azure SQL",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-sql-secure-data/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-secure-data/",
-      "length": "PT1H24M",
-      "ratings": {
-        "count": 24,
-        "average": 4.5416665
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-sql-secure-data-social.png",
-          "width": 642,
-          "height": 325,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-azure-well-architected-reliability.md",
       "title": "Microsoft Azure Well-Architected Framework - Reliability",
       "excerpt": "Learn how to handle infrastructure and service failure, recover from the loss of data, and recover from a disaster by incorporating reliability into your architecture.",
@@ -95,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-reliability/",
       "length": "PT59M",
       "ratings": {
-        "count": 322,
-        "average": 4.695652
+        "count": 323,
+        "average": 4.696594
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -228,8 +144,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/caching-and-performance-azure-storage-and-disks/",
       "length": "44 mins",
       "ratings": {
-        "count": 1634,
-        "average": 4.677479
+        "count": 1636,
+        "average": 4.6778727
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -357,8 +273,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-and-moderate-text-with-azure-content-moderator/",
       "length": "31 mins",
       "ratings": {
-        "count": 1539,
-        "average": 4.634178
+        "count": 1542,
+        "average": 4.634241
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -488,8 +404,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-and-publish-a-luis-model/",
       "length": "54 mins",
       "ratings": {
-        "count": 1420,
-        "average": 4.6507044
+        "count": 1422,
+        "average": 4.6511955
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -793,8 +709,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/export-data-with-azure-import-export/",
       "length": "24 mins",
       "ratings": {
-        "count": 385,
-        "average": 4.6987014
+        "count": 386,
+        "average": 4.699482
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1142,8 +1058,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/keep-your-virtual-machines-updated/",
       "length": "35 mins",
       "ratings": {
-        "count": 2558,
-        "average": 4.486708
+        "count": 2560,
+        "average": 4.485156
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1302,6 +1218,92 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-monitor-diagnose-and-troubleshoot-azure-storage.md",
+      "title": "Monitor, diagnose, and troubleshoot your Azure storage",
+      "excerpt": "Discover the tools available to detect and correct problems with your Azure Storage to enable your cloud storage infrastructure to operate at peak performance.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-diagnose-and-troubleshoot-azure-storage/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-diagnose-and-troubleshoot-azure-storage/",
+      "length": "41 mins",
+      "ratings": {
+        "count": 1054,
+        "average": 4.5578747
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/monitor-diagnose-and-troubleshoot-azure-storage-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Monitor, diagnose, and troubleshoot your Azure storage",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-monitor-github-events-with-a-function-triggered-by-a-webhook.md",
+      "title": "Monitor GitHub events by using a webhook with Azure Functions",
+      "excerpt": "Webhooks offer a lightweight mechanism for your app to be notified by another service when something of interest happens. In this module. you'll learn how to trigger an Azure function with a GitHub webhook and parse the payload for insights.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-github-events-with-a-function-triggered-by-a-webhook/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-github-events-with-a-function-triggered-by-a-webhook/",
+      "length": "53 mins",
+      "ratings": {
+        "count": 1499,
+        "average": 4.629086
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/monitor-github-events-with-a-function-triggered-by-a-webhook-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Monitor GitHub events by using a webhook with Azure Functions",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless"
       ]
     }
   ],

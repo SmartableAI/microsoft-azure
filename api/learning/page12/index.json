@@ -4,92 +4,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-monitor-diagnose-and-troubleshoot-azure-storage.md",
-      "title": "Monitor, diagnose, and troubleshoot your Azure storage",
-      "excerpt": "Discover the tools available to detect and correct problems with your Azure Storage to enable your cloud storage infrastructure to operate at peak performance.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-diagnose-and-troubleshoot-azure-storage/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-diagnose-and-troubleshoot-azure-storage/",
-      "length": "41 mins",
-      "ratings": {
-        "count": 1054,
-        "average": 4.5578747
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/monitor-diagnose-and-troubleshoot-azure-storage-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Monitor, diagnose, and troubleshoot your Azure storage",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-monitor-github-events-with-a-function-triggered-by-a-webhook.md",
-      "title": "Monitor GitHub events by using a webhook with Azure Functions",
-      "excerpt": "Webhooks offer a lightweight mechanism for your app to be notified by another service when something of interest happens. In this module. you'll learn how to trigger an Azure function with a GitHub webhook and parse the payload for insights.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-github-events-with-a-function-triggered-by-a-webhook/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-github-events-with-a-function-triggered-by-a-webhook/",
-      "length": "53 mins",
-      "ratings": {
-        "count": 1499,
-        "average": 4.629086
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/monitor-github-events-with-a-function-triggered-by-a-webhook-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Monitor GitHub events by using a webhook with Azure Functions",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-neural-networks.md",
       "title": "Make predictions from complex data with neural networks",
       "excerpt": "Use neural network models to make predictions. Change neural network structures to refine predictions using TensorFlow and Keras.",
@@ -536,8 +450,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-custom-domain-name-azure-active-directory/",
       "length": "18 mins",
       "ratings": {
-        "count": 741,
-        "average": 4.6585693
+        "count": 742,
+        "average": 4.6590295
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -834,8 +748,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/",
       "length": "42 mins",
       "ratings": {
-        "count": 1618,
-        "average": 4.567367
+        "count": 1619,
+        "average": 4.5670166
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -986,6 +900,47 @@
           "width": 640,
           "height": 320,
           "title": "Communicate effectively on GitHub by using Markdown",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-configure-database-authentication-authorization.md",
+      "title": "Configure database authentication and authorization",
+      "excerpt": "Contrast authentication using Azure Active Directory vs Windows Active Directory vs SQL Server authentication. Implement various security principals and configure permissions.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-database-authentication-authorization/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-database-authentication-authorization/",
+      "length": "PT26M",
+      "ratings": {
+        "count": 17,
+        "average": 4.7058825
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -1358,6 +1313,49 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-identify-faces-with-computer-vision.md",
+      "title": "Identify faces and expressions by using the Computer Vision API in Azure Cognitive Services",
+      "excerpt": "Learn about the Computer Vision API in Azure that allows you to identify facial details in pictures.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-identify-faces-with-computer-vision/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identify-faces-with-computer-vision/",
+      "length": "47 mins",
+      "ratings": {
+        "count": 1323,
+        "average": 4.644747
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/identify-faces-with-computer-vision-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Identify faces and expressions by using the Computer Vision API in Azure Cognitive Services",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Developer Tools"
       ]
     }
   ],

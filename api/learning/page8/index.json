@@ -4,86 +4,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-machine-learning-crash-course.md",
-      "title": "Machine learning crash course",
-      "excerpt": "A high-level overview of artificial intelligence (AI) and machine learning. Modules are aimed at people with little or no knowledge of computer science and statistics. You will cover the essential concepts of AI and learn how to apply custom machine learning solutions with free, easy to use tools. You will learn simple but powerful ways that AI practitioners make predictions about objects, people, and the future. Then, you’ll cover exciting, complex topics you may have heard of, such as neural networks, computer vision, deep learning, and unsupervised learning.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-machine-learning-crash-course/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-machine-learning-crash-course/",
-      "length": "PT3H45M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Predict numeric values with regression",
-          "excerpt": "Use machine learning regression models to predict numeric values. Build multiple variations of linear regression models to estimate things like internet traffic.",
-          "heat": 58,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/introduction-to-regression-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Predict numeric values with regression",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Make predictions from complex data with neural networks",
-          "excerpt": "Use neural network models to make predictions. Change neural network structures to refine predictions using TensorFlow and Keras.",
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/introduction-to-neural-networks-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Make predictions from complex data with neural networks",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        }
-      ],
-      "size": 2,
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-regression-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Predict numeric values with regression",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-analyze-devops-continuous-planning-intergration.md",
       "title": "Analyze DevOps Continuous Planning and Continuous Integration",
       "excerpt": "Explore the first two capabilities in the DevOps taxonomy, Continuous Planning and Continuous Integration.",
@@ -133,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-deploy-configure/",
       "length": "PT1H14M",
       "ratings": {
-        "count": 46,
-        "average": 4.673913
+        "count": 47,
+        "average": 4.680851
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -174,8 +94,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
       "length": "29 mins",
       "ratings": {
-        "count": 1035,
-        "average": 4.635749
+        "count": 1037,
+        "average": 4.6364512
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -538,49 +458,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-design-a-hybrid-network-architecture.md",
-      "title": "Design a hybrid network architecture on Azure",
-      "excerpt": "You have a traditional on-premises infrastructure that you need to connect to resources in Azure. In this module, you learn how to select a connectivity method for your use cases that balances functionality, cost, and security.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-a-hybrid-network-architecture/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-a-hybrid-network-architecture/",
-      "length": "47 mins",
-      "ratings": {
-        "count": 1008,
-        "average": 4.614087
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/design-a-hybrid-network-architecture-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Design a hybrid network architecture on Azure",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-enable-reliable-messaging-for-big-data-applications-using-azure-event-hubs.md",
       "title": "Enable reliable messaging for Big Data applications using Azure Event Hubs",
       "excerpt": "Connect sending and receiving applications with Event Hubs so you can handle extremely high loads without losing data.",
@@ -631,8 +508,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-data-analytics/",
       "length": "PT16M",
       "ratings": {
-        "count": 327,
-        "average": 4.8165135
+        "count": 328,
+        "average": 4.8170733
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -673,8 +550,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-non-relational-data/",
       "length": "PT26M",
       "ratings": {
-        "count": 273,
-        "average": 4.864469
+        "count": 274,
+        "average": 4.8649635
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -886,8 +763,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
       "length": "PT1H12M",
       "ratings": {
-        "count": 212,
-        "average": 4.707547
+        "count": 214,
+        "average": 4.7009344
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -971,8 +848,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-app-data-with-azure-blob-storage/",
       "length": "50 mins",
       "ratings": {
-        "count": 2625,
-        "average": 4.574857
+        "count": 2626,
+        "average": 4.575019
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1057,8 +934,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-azure-services-with-cli/",
       "length": "34 mins",
       "ratings": {
-        "count": 3764,
-        "average": 4.744421
+        "count": 3766,
+        "average": 4.7445564
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1143,8 +1020,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-device-identity-ad-join/",
       "length": "PT25M",
       "ratings": {
-        "count": 712,
-        "average": 4.5632024
+        "count": 713,
+        "average": 4.5638146
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1186,8 +1063,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/",
       "length": "51 mins",
       "ratings": {
-        "count": 5426,
-        "average": 4.699042
+        "count": 5427,
+        "average": 4.699097
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1305,6 +1182,190 @@
       "topics": [
         "Azure",
         "Storage"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-azure-data-fundamentals-explore-relational-data-in-azure.md",
+      "title": "Azure Data Fundamentals: Explore relational data in Azure",
+      "excerpt": "Learn the fundamentals of database concepts in a cloud environment, get basic skilling in cloud data services, and build your foundational knowledge of cloud data services within Microsoft Azure. You will explore relational data offerings, provisioning and deploying relational databases, and querying relational data through cloud data solutions with Microsoft Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-azure-data-fundamentals-explore-relational-data-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-azure-data-fundamentals-explore-relational-data-in-azure/",
+      "length": "PT1H51M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Explore relational data offerings in Azure",
+          "excerpt": "Explore Azure SQL Database, Azure Database for PostgreSQL, Azure Database for MySQL, and Azure Database for MariaDB. Explore scenarios for using these database management systems.",
+          "heat": 56,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/explore-relational-data-offerings-azure-social.png",
+              "width": 640,
+              "height": 320,
+              "title": "Explore relational data offerings in Azure",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Explore provisioning and deploying relational database offerings in Azure",
+          "excerpt": "Learn how to provision and configure Azure SQL Database, Azure Database for PostgreSQL, and Azure Database for MySQL.",
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/explore-provision-deploy-relational-database-offerings-azure-social.png",
+              "width": 640,
+              "height": 320,
+              "title": "Explore provisioning and deploying relational database offerings in Azure",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Query relational data in Azure",
+          "excerpt": "Learn about Structured Query Language (SQL), and how you can use it to query, insert, update, and delete data in a relational database.",
+          "heat": 56,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/query-relational-data-azure-social.png",
+              "width": 640,
+              "height": 320,
+              "title": "Query relational data in Azure",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/explore-relational-data-offerings-azure-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Explore relational data offerings in Azure",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-migrate-aspnet-apps-to-azure.md",
+      "title": "Migrate ASP.NET Apps to Azure",
+      "excerpt": "Migrate ASP.NET web applications and their data to Azure App Service and Azure SQL Database to take advantage of the cloud.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-migrate-aspnet-apps-to-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-migrate-aspnet-apps-to-azure/",
+      "length": "PT2H0M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Migrate an on-premises web application to Azure with the App Service Migration Assistant",
+          "excerpt": "Use the Azure App Service Migration Assistant to assess the readiness of a web app to be deployed on App Service, and perform the migration.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/migrate-app-service-migration-assistant-social.png",
+              "width": 640,
+              "height": 320,
+              "title": "Migrate an on-premises web application to Azure with the App Service Migration Assistant",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Web"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Migrate your relational data stored in SQL Server to Azure SQL Database",
+          "excerpt": "Plan and implement the migration of relational data from SQL Server to Azure SQL Database. Select the appropriate migration strategy for your database, and then use Data Migration Assistant to do the assessment and the migration.",
+          "heat": 56,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Migrate your relational data stored in SQL Server to Azure SQL Database",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Databases",
+            "Migration"
+          ]
+        }
+      ],
+      "size": 2,
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/migrate-app-service-migration-assistant-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Migrate an on-premises web application to Azure with the App Service Migration Assistant",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Compute",
+        "Web"
       ]
     }
   ],

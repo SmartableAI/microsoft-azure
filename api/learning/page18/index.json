@@ -4,48 +4,6 @@
   "page": 18,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-build-an-ai-ready-culture.md",
-      "title": "Understand the importance of building an AI-ready culture",
-      "excerpt": "A successful AI strategy must consider cultural issues as well as business issues. Becoming an AI-ready organization requires a fundamental transformation in how you do things, how employees relate to each other, what skills they have, and what processes and principles guide your behaviors. This unit is designed to help you understand which are the key elements that make a culture AI-ready and proposes a framework to drive that change in your organization.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-an-ai-ready-culture/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/",
-      "length": "49 mins",
-      "ratings": {
-        "count": 857,
-        "average": 4.747958
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/build-an-ai-ready-culture-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Understand the importance of building an AI-ready culture",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-build-api-azure-functions.md",
       "title": "Build Serverless APIs with Azure Functions",
       "excerpt": "Build Serverless APIs with Azure Functions",
@@ -1226,6 +1184,48 @@
         "Azure",
         "Management Tools",
         "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-configure-databases-for-performance.md",
+      "title": "Configure databases for performance",
+      "excerpt": "Control database-level configuration options. Explore Intelligent Query Processing. Configure Open Source databases for optimum performance.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-databases-for-performance/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-databases-performance/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 20,
+        "average": 4.9
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
       ]
     }
   ],

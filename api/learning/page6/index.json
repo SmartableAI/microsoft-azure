@@ -4,48 +4,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-evolving-world-of-data.md",
-      "title": "Understand the evolving world of data",
-      "excerpt": "Learn how data systems are evolving and how the changes affect data professionals. Explore the differences between on-premises and cloud data solutions, and consider sample business cases that apply cloud technologies.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-evolving-world-of-data/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/",
-      "length": "28 mins",
-      "ratings": {
-        "count": 4369,
-        "average": 4.674983
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/evolving-world-of-data-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Understand the evolving world of data",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-get-started-with-devops.md",
       "title": "Get started with Azure DevOps",
       "excerpt": "Explore what DevOps is (and isn't) and learn how to get started with Azure DevOps.",
@@ -53,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/",
       "length": "PT25M",
       "ratings": {
-        "count": 6725,
-        "average": 4.7211895
+        "count": 6726,
+        "average": 4.721231
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -172,8 +130,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
       "length": "50 mins",
       "ratings": {
-        "count": 4436,
-        "average": 4.64743
+        "count": 4437,
+        "average": 4.6475096
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3193,6 +3151,130 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-monitor-and-maintain-windows-server-iaas-virtual-machine.md",
+      "title": "Monitor and maintain Windows Server IaaS Virtual Machine",
+      "excerpt": "In this learning path, you’ll learn how to implement remote administration and management in Azure. After completing this path, you’ll be able to monitor your Azure resources, and plan for scale and high-availability.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-monitor-and-maintain-windows-server-iaas-virtual-machine/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-monitor-and-maintain-windows-server-iaas-virtual-machine/",
+      "length": "PT4H7M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Administer and manage Windows Server IaaS Virtual Machine remotely",
+          "excerpt": "You’ll be able to select and use suitable tools and techniques to remotely manage Windows IaaS VMs, and restrict administrative connections to those VMs.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "Compute"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Monitor Windows Server IaaS Virtual Machines and hybrid instances",
+          "excerpt": "You'll be able to implement Azure Monitor for IaaS Virtual Machines in Azure, implement Azure Monitor in on-premises environments, and use dependency maps.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "DevOps",
+            "Compute"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Understand Windows Server IaaS Virtual Machine cost management",
+          "excerpt": "You'll be able to use the Pricing calculator to assess likely costs, use Azure Advisor to monitor actual costs for Azure resources, implement Spot VMs and Azure Reservations, and describe benefits of Azure Hybrid licensing.",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "Compute"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Implement scale and high availability with Windows Server VM",
+          "excerpt": "You'll learn how to implement scaling for virtual machine scale sets and load-balanced VMs. You'll also learn how to implement Azure Site Recovery.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "Compute"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "DevOps",
+        "Compute"
       ]
     }
   ],

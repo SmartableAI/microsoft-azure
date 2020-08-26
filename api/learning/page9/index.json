@@ -4,190 +4,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-azure-data-fundamentals-explore-relational-data-in-azure.md",
-      "title": "Azure Data Fundamentals: Explore relational data in Azure",
-      "excerpt": "Learn the fundamentals of database concepts in a cloud environment, get basic skilling in cloud data services, and build your foundational knowledge of cloud data services within Microsoft Azure. You will explore relational data offerings, provisioning and deploying relational databases, and querying relational data through cloud data solutions with Microsoft Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-azure-data-fundamentals-explore-relational-data-in-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-azure-data-fundamentals-explore-relational-data-in-azure/",
-      "length": "PT1H51M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Explore relational data offerings in Azure",
-          "excerpt": "Explore Azure SQL Database, Azure Database for PostgreSQL, Azure Database for MySQL, and Azure Database for MariaDB. Explore scenarios for using these database management systems.",
-          "heat": 56,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/explore-relational-data-offerings-azure-social.png",
-              "width": 640,
-              "height": 320,
-              "title": "Explore relational data offerings in Azure",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Explore provisioning and deploying relational database offerings in Azure",
-          "excerpt": "Learn how to provision and configure Azure SQL Database, Azure Database for PostgreSQL, and Azure Database for MySQL.",
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/explore-provision-deploy-relational-database-offerings-azure-social.png",
-              "width": 640,
-              "height": 320,
-              "title": "Explore provisioning and deploying relational database offerings in Azure",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Query relational data in Azure",
-          "excerpt": "Learn about Structured Query Language (SQL), and how you can use it to query, insert, update, and delete data in a relational database.",
-          "heat": 56,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/query-relational-data-azure-social.png",
-              "width": 640,
-              "height": 320,
-              "title": "Query relational data in Azure",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-relational-data-offerings-azure-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Explore relational data offerings in Azure",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-migrate-aspnet-apps-to-azure.md",
-      "title": "Migrate ASP.NET Apps to Azure",
-      "excerpt": "Migrate ASP.NET web applications and their data to Azure App Service and Azure SQL Database to take advantage of the cloud.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-migrate-aspnet-apps-to-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-migrate-aspnet-apps-to-azure/",
-      "length": "PT2H0M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Migrate an on-premises web application to Azure with the App Service Migration Assistant",
-          "excerpt": "Use the Azure App Service Migration Assistant to assess the readiness of a web app to be deployed on App Service, and perform the migration.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/migrate-app-service-migration-assistant-social.png",
-              "width": 640,
-              "height": 320,
-              "title": "Migrate an on-premises web application to Azure with the App Service Migration Assistant",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Web"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Migrate your relational data stored in SQL Server to Azure SQL Database",
-          "excerpt": "Plan and implement the migration of relational data from SQL Server to Azure SQL Database. Select the appropriate migration strategy for your database, and then use Data Migration Assistant to do the assessment and the migration.",
-          "heat": 56,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Migrate your relational data stored in SQL Server to Azure SQL Database",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Databases",
-            "Migration"
-          ]
-        }
-      ],
-      "size": 2,
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/migrate-app-service-migration-assistant-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Migrate an on-premises web application to Azure with the App Service Migration Assistant",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Compute",
-        "Web"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-azure-well-architected-cost-optimization.md",
       "title": "Microsoft Azure Well-Architected Framework - Cost optimization",
       "excerpt": "Learn how to use the cost optimization pillar of the Microsoft Azure Well-Architected Framework to design a cloud-based architecture that is efficient, eliminates waste, and gives you full visibility into where your money is spent on cloud resources.",
@@ -239,8 +55,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-azure-vm-templates/",
       "length": "37 mins",
       "ratings": {
-        "count": 3244,
-        "average": 4.5326757
+        "count": 3245,
+        "average": 4.5328197
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1107,8 +923,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-long-running-serverless-workflow-with-durable-functions/",
       "length": "46 mins",
       "ratings": {
-        "count": 2389,
-        "average": 4.457514
+        "count": 2390,
+        "average": 4.4564853
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1194,8 +1010,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-concepts-of-relational-data/",
       "length": "PT24M",
       "ratings": {
-        "count": 323,
-        "average": 4.8173375
+        "count": 324,
+        "average": 4.817901
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1236,8 +1052,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-visual-studio/",
       "length": "43 mins",
       "ratings": {
-        "count": 1624,
-        "average": 4.6083746
+        "count": 1625,
+        "average": 4.608
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1442,6 +1258,95 @@
         "Azure",
         "DevOps",
         "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-app-center.md",
+      "title": "Introduction to App Center",
+      "excerpt": "Characterize the types of services offered by App Center. Describe the use of App Center to build, distribute, test, and analyze usage of apps.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-app-center/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-app-center/",
+      "length": "49 mins",
+      "ratings": {
+        "count": 217,
+        "average": 4.479263
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/app-center/introduction-to-app-center-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Introduction to App Center",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-route-and-process-data-logic-apps.md",
+      "title": "Route and process data automatically using Logic Apps",
+      "excerpt": "Define a workflow using built-in triggers, actions, and conditional operators. Your workflow will run automatically when data is available, process the data in the cloud, record results in a database, and send email notifications.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-route-and-process-data-logic-apps/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/route-and-process-data-logic-apps/",
+      "length": "56 mins",
+      "ratings": {
+        "count": 1379,
+        "average": 4.53372
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/route-and-process-data-logic-apps-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Route and process data automatically using Logic Apps",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "IoT",
+        "Blockchain",
+        "Integration"
       ]
     }
   ],

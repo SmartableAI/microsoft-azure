@@ -4,48 +4,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-analyze-climate-data-with-azure-notebooks.md",
-      "title": "Analyze climate data with Azure Notebooks",
-      "excerpt": "Create an Azure Notebook and use three popular Python libraries to analyze climate data collected by NASA, then share it.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-climate-data-with-azure-notebooks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-climate-data-with-azure-notebooks/",
-      "length": "45 mins",
-      "ratings": {
-        "count": 1912,
-        "average": 4.714958
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/analyze-climate-data-with-azure-notebooks-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Analyze climate data with Azure Notebooks",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-analyze-receipts-form-recognizer.md",
       "title": "Analyze receipts with the Form Recognizer service",
       "excerpt": "Processing invoices and receipts is a common task in many business scenarios. Increasingly, organizations are turning to artificial intelligence (AI) to automate data extraction from scanned receipts.",
@@ -273,8 +231,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-spring-cloud-workshop/",
       "length": "84 mins",
       "ratings": {
-        "count": 92,
-        "average": 4.2934785
+        "count": 93,
+        "average": 4.27957
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -915,8 +873,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
       "length": "PT53M",
       "ratings": {
-        "count": 296,
-        "average": 4.5236487
+        "count": 297,
+        "average": 4.5252523
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1291,6 +1249,49 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-hpc.md",
+      "title": "Introduction to high-performance computing (HPC) on Azure",
+      "excerpt": "Discover the services available on Azure for your high-performance computing workloads.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-hpc/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-hpc/",
+      "length": "50 mins",
+      "ratings": {
+        "count": 812,
+        "average": 4.5603447
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-hpc-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Introduction to high-performance computing (HPC) on Azure",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute"
       ]
     }
   ],

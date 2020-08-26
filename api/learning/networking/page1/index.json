@@ -4,6 +4,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-design-a-hybrid-network-architecture.md",
+      "title": "Design a hybrid network architecture on Azure",
+      "excerpt": "You have a traditional on-premises infrastructure that you need to connect to resources in Azure. In this module, you learn how to select a connectivity method for your use cases that balances functionality, cost, and security.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-a-hybrid-network-architecture/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-a-hybrid-network-architecture/",
+      "length": "47 mins",
+      "ratings": {
+        "count": 1009,
+        "average": 4.6134787
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 118,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/design-a-hybrid-network-architecture-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Design a hybrid network architecture on Azure",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-azure-networking.md",
       "title": "Core Cloud Services - Azure networking options",
       "excerpt": "Running your app or service in the cloud requires a fast and secure network. Learn some of the Azure networking basics and how Azure networking helps improve resiliency and reduce latency.",
@@ -11,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-networking/",
       "length": "28 mins",
       "ratings": {
-        "count": 41469,
-        "average": 4.763727
+        "count": 41470,
+        "average": 4.763733
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -673,8 +716,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-vpn-gateway/",
       "length": "39 mins",
       "ratings": {
-        "count": 4111,
-        "average": 4.6003404
+        "count": 4113,
+        "average": 4.600535
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1225,8 +1268,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-expressroute/",
       "length": "40 mins",
       "ratings": {
-        "count": 2826,
-        "average": 4.6624203
+        "count": 2827,
+        "average": 4.66254
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1823,49 +1866,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-design-a-hybrid-network-architecture.md",
-      "title": "Design a hybrid network architecture on Azure",
-      "excerpt": "You have a traditional on-premises infrastructure that you need to connect to resources in Azure. In this module, you learn how to select a connectivity method for your use cases that balances functionality, cost, and security.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-a-hybrid-network-architecture/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-a-hybrid-network-architecture/",
-      "length": "47 mins",
-      "ratings": {
-        "count": 1008,
-        "average": 4.614087
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/design-a-hybrid-network-architecture-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Design a hybrid network architecture on Azure",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-hub-and-spoke-network-architecture.md",
       "title": "Centralize your core services by using hub and spoke Azure virtual network architecture",
       "excerpt": "Design a network architecture in Azure that allows for growth and flexibility, secure isolation of critical resources, low administrative overhead, and communication with on-premises network resources.",
@@ -2045,8 +2045,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-reliability/",
       "length": "PT59M",
       "ratings": {
-        "count": 322,
-        "average": 4.695652
+        "count": 323,
+        "average": 4.696594
       },
       "provider": {
         "name": "Microsoft Learn",

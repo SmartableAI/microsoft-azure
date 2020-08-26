@@ -4,130 +4,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-monitor-and-maintain-windows-server-iaas-virtual-machine.md",
-      "title": "Monitor and maintain Windows Server IaaS Virtual Machine",
-      "excerpt": "In this learning path, you’ll learn how to implement remote administration and management in Azure. After completing this path, you’ll be able to monitor your Azure resources, and plan for scale and high-availability.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-monitor-and-maintain-windows-server-iaas-virtual-machine/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-monitor-and-maintain-windows-server-iaas-virtual-machine/",
-      "length": "PT4H7M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Administer and manage Windows Server IaaS Virtual Machine remotely",
-          "excerpt": "You’ll be able to select and use suitable tools and techniques to remotely manage Windows IaaS VMs, and restrict administrative connections to those VMs.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "Compute"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Monitor Windows Server IaaS Virtual Machines and hybrid instances",
-          "excerpt": "You'll be able to implement Azure Monitor for IaaS Virtual Machines in Azure, implement Azure Monitor in on-premises environments, and use dependency maps.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "DevOps",
-            "Compute"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Understand Windows Server IaaS Virtual Machine cost management",
-          "excerpt": "You'll be able to use the Pricing calculator to assess likely costs, use Azure Advisor to monitor actual costs for Azure resources, implement Spot VMs and Azure Reservations, and describe benefits of Azure Hybrid licensing.",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "Compute"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Implement scale and high availability with Windows Server VM",
-          "excerpt": "You'll learn how to implement scaling for virtual machine scale sets and load-balanced VMs. You'll also learn how to implement Azure Site Recovery.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "Compute"
-          ]
-        }
-      ],
-      "size": 5,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "DevOps",
-        "Compute"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-monitor-and-optimize-operational-resources-in-sql-server.md",
       "title": "Monitor and optimize operational resources in SQL Server",
       "excerpt": "Configure hardware and server resources for optimum performance after establishing a baseline. Identify sources of performance problems. Troubleshoot using Azure SQL Intelligent Insights.",
@@ -888,8 +764,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-an-agile-approach/",
       "length": "PT40M",
       "ratings": {
-        "count": 5120,
-        "average": 4.745117
+        "count": 5121,
+        "average": 4.745167
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1014,8 +890,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
       "length": "32 mins",
       "ratings": {
-        "count": 2588,
-        "average": 4.6236477
+        "count": 2589,
+        "average": 4.623793
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1247,8 +1123,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/",
       "length": "37 mins",
       "ratings": {
-        "count": 1249,
-        "average": 4.621297
+        "count": 1250,
+        "average": 4.6216
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1376,8 +1252,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
       "length": "45 mins",
       "ratings": {
-        "count": 2801,
-        "average": 4.58015
+        "count": 2803,
+        "average": 4.5804496
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1553,8 +1429,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
       "length": "65 mins",
       "ratings": {
-        "count": 4870,
-        "average": 4.5958934
+        "count": 4871,
+        "average": 4.5959764
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1778,6 +1654,86 @@
         "Azure",
         "Management Tools",
         "AI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-machine-learning-crash-course.md",
+      "title": "Machine learning crash course",
+      "excerpt": "A high-level overview of artificial intelligence (AI) and machine learning. Modules are aimed at people with little or no knowledge of computer science and statistics. You will cover the essential concepts of AI and learn how to apply custom machine learning solutions with free, easy to use tools. You will learn simple but powerful ways that AI practitioners make predictions about objects, people, and the future. Then, you’ll cover exciting, complex topics you may have heard of, such as neural networks, computer vision, deep learning, and unsupervised learning.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-machine-learning-crash-course/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-machine-learning-crash-course/",
+      "length": "PT3H45M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Predict numeric values with regression",
+          "excerpt": "Use machine learning regression models to predict numeric values. Build multiple variations of linear regression models to estimate things like internet traffic.",
+          "heat": 58,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/introduction-to-regression-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Predict numeric values with regression",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Make predictions from complex data with neural networks",
+          "excerpt": "Use neural network models to make predictions. Change neural network structures to refine predictions using TensorFlow and Keras.",
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/introduction-to-neural-networks-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Make predictions from complex data with neural networks",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 2,
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-regression-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Predict numeric values with regression",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],

@@ -4,95 +4,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-app-center.md",
-      "title": "Introduction to App Center",
-      "excerpt": "Characterize the types of services offered by App Center. Describe the use of App Center to build, distribute, test, and analyze usage of apps.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-app-center/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-app-center/",
-      "length": "49 mins",
-      "ratings": {
-        "count": 217,
-        "average": 4.479263
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/app-center/introduction-to-app-center-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Introduction to App Center",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-route-and-process-data-logic-apps.md",
-      "title": "Route and process data automatically using Logic Apps",
-      "excerpt": "Define a workflow using built-in triggers, actions, and conditional operators. Your workflow will run automatically when data is available, process the data in the cloud, record results in a database, and send email notifications.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-route-and-process-data-logic-apps/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/route-and-process-data-logic-apps/",
-      "length": "56 mins",
-      "ratings": {
-        "count": 1379,
-        "average": 4.53372
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/route-and-process-data-logic-apps-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Route and process data automatically using Logic Apps",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "IoT",
-        "Blockchain",
-        "Integration"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-implement-a-data-streaming-solution-with-azure-streaming-analytics.md",
       "title": "Implement a Data Streaming Solution with Azure Streaming Analytics",
       "excerpt": "Learn the concepts of event processing and streaming data and how this applies to Azure Stream Analytics. You will then set up a stream analytics job to stream data, and learn how to manage and monitor a running job.",
@@ -961,8 +872,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-access-data-cosmos-graph-api/",
       "length": "42 mins",
       "ratings": {
-        "count": 1373,
-        "average": 4.648216
+        "count": 1374,
+        "average": 4.6477437
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1410,8 +1321,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
       "length": "70 mins",
       "ratings": {
-        "count": 2105,
-        "average": 4.697862
+        "count": 2107,
+        "average": 4.6976743
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1527,6 +1438,90 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-azure-sql-case-studies.md",
+      "title": "Putting it all together with Azure SQL",
+      "excerpt": "Putting it all together with Azure SQL",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-sql-case-studies/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-case-studies/",
+      "length": "PT54M",
+      "ratings": {
+        "count": 19,
+        "average": 4.9473686
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-sql-case-studies-social.png",
+          "width": 643,
+          "height": 324,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-azure-sql-secure-data.md",
+      "title": "Secure your data with Azure SQL",
+      "excerpt": "Secure your data with Azure SQL",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-sql-secure-data/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-secure-data/",
+      "length": "PT1H24M",
+      "ratings": {
+        "count": 25,
+        "average": 4.56
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-sql-secure-data-social.png",
+          "width": 642,
+          "height": 325,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
       ]
     }
   ],
