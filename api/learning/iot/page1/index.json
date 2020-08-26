@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
       "length": "38 mins",
       "ratings": {
-        "count": 60205,
-        "average": 4.707483
+        "count": 60220,
+        "average": 4.707406
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -50,49 +50,6 @@
         "IoT",
         "Blockchain",
         "Integration"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-remotely-monitor-and-service-customer-equipment.md",
-      "title": "Remotely monitor and service customer equipment with Connected Field Service for Dynamics 365 and Azure IoT",
-      "excerpt": "This module will focus on the end-to-end process of remotely monitoring IoT enabled devices using the Connected Field Service solution including device registration, working with alerts, and designing processes to take specific actions.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-remotely-monitor-and-service-customer-equipment/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/remotely-monitor-and-service-customer-equipment/",
-      "length": "70 mins",
-      "ratings": {
-        "count": 71,
-        "average": 4.7042255
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/remotely-monitor-and-service-customer-equipment-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Remotely monitor and service customer equipment with Connected Field Service for Dynamics 365 and Azure IoT",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
       ]
     },
     {
@@ -1592,7 +1549,7 @@
           "path": "",
           "title": "Remotely monitor and service customer equipment with Connected Field Service for Dynamics 365 and Azure IoT",
           "excerpt": "This module will focus on the end-to-end process of remotely monitoring IoT enabled devices using the Connected Field Service solution including device registration, working with alerts, and designing processes to take specific actions.",
-          "heat": 110,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/remotely-monitor-and-service-customer-equipment-social.png",
@@ -1675,8 +1632,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/",
       "length": "23 mins",
       "ratings": {
-        "count": 5564,
-        "average": 4.737419
+        "count": 5565,
+        "average": 4.7372866
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1718,8 +1675,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
       "length": "45 mins",
       "ratings": {
-        "count": 2807,
-        "average": 4.5810475
+        "count": 2808,
+        "average": 4.5808406
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1929,8 +1886,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot-edge/",
       "length": "29 mins",
       "ratings": {
-        "count": 675,
-        "average": 4.6325927
+        "count": 676,
+        "average": 4.6316566
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2060,8 +2017,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-your-first-iot-central-app/",
       "length": "87 mins",
       "ratings": {
-        "count": 514,
-        "average": 4.589494
+        "count": 515,
+        "average": 4.5883493
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2417,6 +2374,51 @@
       "topics": [
         "IoT",
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-azure-intro-to-logic-apps.md",
+      "title": "Introduction to Azure Logic Apps",
+      "excerpt": "Characterize the types of business processes that Logic Apps can automate. Describe the function of connectors, triggers, and actions and show how you combine them to create an app.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-intro-to-logic-apps/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-logic-apps/",
+      "length": "28 mins",
+      "ratings": {
+        "count": 1551,
+        "average": 4.7053514
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-logic-apps-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Introduction to Azure Logic Apps",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Blockchain",
+        "Integration"
       ]
     }
   ],

@@ -4,6 +4,54 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-classify-user-feedback-with-the-text-analytics-api.md",
+      "title": "Discover sentiment in text with the Text Analytics API",
+      "excerpt": "Learn what your customers are really saying about your product or brand when they send feedback. We'll create a solution that uses Azure Functions and the intelligence of the Text Analytics API to discover sentiment in text messages.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-classify-user-feedback-with-the-text-analytics-api/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
+      "length": "48 mins",
+      "ratings": {
+        "count": 1285,
+        "average": 4.610117
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/classify-user-feedback-with-the-text-analytics-api-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Discover sentiment in text with the Text Analytics API",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Compute",
+        "Serverless",
+        "Storage",
+        "AI",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-cosmos-db-for-scale.md",
       "title": "Create an Azure Cosmos DB database built to scale",
       "excerpt": "Learn how to create an Azure Cosmos DB account, database, and container built to scale as your application grows.",
@@ -11,8 +59,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-cosmos-db-for-scale/",
       "length": "35 mins",
       "ratings": {
-        "count": 3612,
-        "average": 4.6403656
+        "count": 3613,
+        "average": 4.640465
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -55,8 +103,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
       "length": "84 mins",
       "ratings": {
-        "count": 601,
-        "average": 4.409318
+        "count": 602,
+        "average": 4.408638
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -99,8 +147,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/access-data-with-cosmos-db-and-sql-api/",
       "length": "58 mins",
       "ratings": {
-        "count": 2390,
-        "average": 4.6518826
+        "count": 2391,
+        "average": 4.6516104
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -360,8 +408,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-secure-data/",
       "length": "PT1H24M",
       "ratings": {
-        "count": 25,
-        "average": 4.56
+        "count": 27,
+        "average": 4.5925927
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -451,8 +499,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-api-for-cosmos-db/",
       "length": "38 mins",
       "ratings": {
-        "count": 1981,
-        "average": 4.6749115
+        "count": 1982,
+        "average": 4.674571
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -581,8 +629,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
       "length": "55 mins",
       "ratings": {
-        "count": 1292,
-        "average": 4.2902474
+        "count": 1293,
+        "average": 4.28925
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -618,8 +666,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-high-availability/",
       "length": "PT1H34M",
       "ratings": {
-        "count": 14,
-        "average": 4.785714
+        "count": 15,
+        "average": 4.8
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -752,8 +800,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-db-for-postgresql-server/",
       "length": "44 mins",
       "ratings": {
-        "count": 1757,
-        "average": 4.6192374
+        "count": 1758,
+        "average": 4.618885
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1175,8 +1223,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-intro/",
       "length": "PT44M",
       "ratings": {
-        "count": 97,
-        "average": 4.7731957
+        "count": 98,
+        "average": 4.7755103
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1301,8 +1349,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-sql-server-virtual-machine/",
       "length": "PT27M",
       "ratings": {
-        "count": 17,
-        "average": 4.9411764
+        "count": 18,
+        "average": 4.9444447
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1421,48 +1469,6 @@
         "Databases",
         "Networking",
         "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-explore-performance-based-design.md",
-      "title": "Explore performance-based design",
-      "excerpt": "Evaluate possible changes to indexes. Determine the impact of changes to queries and indexes. Explore relevant Dynamic Management Objects.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-performance-based-design/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-performance-based-design/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 13,
-        "average": 4.923077
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
       ]
     }
   ],
