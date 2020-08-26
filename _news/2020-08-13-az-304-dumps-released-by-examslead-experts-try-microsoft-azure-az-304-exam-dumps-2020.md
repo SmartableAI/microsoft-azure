@@ -3,6 +3,7 @@ category: news
 title: "AZ-304 Dumps Released by Examslead Experts – Try Microsoft Azure AZ-304 Exam Dumps [2020]"
 excerpt: "Try Microsoft AZ-304 dumps and ensure your success in Azure certification with ExamsLead actual Microsoft AZ-304 Exam Dumps. Taking the Microsoft Azure Architect Design Exam can help you enhance ..."
 publishedDateTime: 2020-08-13T02:03:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/08/ab17064396/az-304-dumps-released-by-examslead-experts-try-microsoft-azure-az-304-exam-dumps-2020"
 webUrl: "https://www.benzinga.com/pressreleases/20/08/ab17064396/az-304-dumps-released-by-examslead-experts-try-microsoft-azure-az-304-exam-dumps-2020"
 ampWebUrl: "https://amp.benzinga.com/amp/content/17064396"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17064396"

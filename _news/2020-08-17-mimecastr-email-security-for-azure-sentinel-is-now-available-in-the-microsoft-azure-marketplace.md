@@ -3,6 +3,7 @@ category: news
 title: "Mimecast(R) Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
 excerpt: "The MarketWatch News Department was not involved in the creation of this content. LEXINGTON, Mass., Aug 17, 2020 (GLOBE NEWSWIRE via COMTEX) -- LEXINGTON, Mass., Aug. 17, 2020 (GLOBE NEWSWIRE ..."
 publishedDateTime: 2020-08-17T09:33:00Z
+originalUrl: "https://www.marketwatch.com/press-release/mimecastr-email-security-for-azure-sentinel-is-now-available-in-the-microsoft-azure-marketplace-2020-08-17-51843038"
 webUrl: "https://www.marketwatch.com/press-release/mimecastr-email-security-for-azure-sentinel-is-now-available-in-the-microsoft-azure-marketplace-2020-08-17-51843038"
 type: article
 quality: 64
