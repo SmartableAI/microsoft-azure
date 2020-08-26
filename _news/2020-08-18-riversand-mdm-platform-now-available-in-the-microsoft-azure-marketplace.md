@@ -3,6 +3,7 @@ category: news
 title: "Riversand MDM Platform Now Available in the Microsoft Azure Marketplace"
 excerpt: "HOUSTON--(BUSINESS WIRE)--Riversand, a provider of cloud-native Master Data Management (MDM) and Product Information Management (PIM) software solutions, announced today the availability of Riversand MDM Platform in the Microsoft Azure Marketplace and ..."
 publishedDateTime: 2020-08-18T11:07:00Z
+originalUrl: "https://www.businesswire.com/news/home/20200818005296/en/"
 webUrl: "https://www.businesswire.com/news/home/20200818005296/en/"
 type: article
 quality: 37
