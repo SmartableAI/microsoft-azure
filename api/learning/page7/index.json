@@ -4,6 +4,138 @@
   "page": 7,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-migrate-virtual-machines-and-apps-using-azure-migrate.md",
+      "title": "Migrate virtual machines and apps using Azure Migrate",
+      "excerpt": "The Virtual machine and app migration using Azure Migrate learning path gives you a step-by-step process to help you understand, set up, assess, and migrate virtual and physical servers, databases, applications, and virtual desktops from on-premises to the Azure infrastructure. Azure Migrate now includes fully integrated and optimized migration-specific tools previously available only in Azure Site Recovery.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-migrate-virtual-machines-and-apps-using-azure-migrate/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-migrate-virtual-machines-and-apps-using-azure-migrate/",
+      "length": "PT1H35M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Introduction to Azure Migrate for server migration",
+          "excerpt": "Discover how Azure Migrate helps you realize the benefits of moving your on-premises VMware or Hyper-V server workloads to Azure infrastructure as a service (IaaS). Learn the process for migrating your workload agent-less, all within the hub.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/introduction-azure-migrate-server-migration-social.png",
+              "width": 640,
+              "height": 320,
+              "title": "Introduction to Azure Migrate for server migration",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Migration",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Set up Azure Migrate for server migration",
+          "excerpt": "Learn how to check your prerequisite configurations in Azure and in your VMware vSphere environment and then perform the initial steps in Azure Migrate to choose your assessment and migration tools.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/set-up-azure-migrate-server-migration-social.png",
+              "width": 640,
+              "height": 320,
+              "title": "Set up Azure Migrate for server migration",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Migration",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Discover and Assess your on-premises servers with Azure Migrate",
+          "excerpt": "Explore the Azure Migrate tools for discovering and assessing your virtual machine servers. Learn how to install and configure a virtual machine appliance in your virtualization host infrastructure.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/discover-assess-azure-migrate-server-migration-social.png",
+              "width": 640,
+              "height": 320,
+              "title": "Discover and Assess your on-premises servers with Azure Migrate",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Migration",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Replicate and migrate virtual machine servers with Azure Migrate",
+          "excerpt": "Learn the process for replicating, testing, and finally migrating your virtual machines into production.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/replicate-migrate-virtual-machine-servers-social.png",
+              "width": 640,
+              "height": 320,
+              "title": "Replicate and migrate virtual machine servers with Azure Migrate",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Migration",
+            "Management Tools"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-azure-migrate-server-migration-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Introduction to Azure Migrate for server migration",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Migration",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-migrating-open-source-workloads-to-azure.md",
       "title": "Migrating open-source workloads to Azure",
       "excerpt": "Learn how to migrate open-source workloads from PostgreSQL and MySQL databases to the equivalent services in Azure. Explore the processes and tools, and learn how to validate application dependencies to support a successful migration.",
@@ -972,8 +1104,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
       "length": "39 mins",
       "ratings": {
-        "count": 3251,
-        "average": 4.5721316
+        "count": 3252,
+        "average": 4.5722632
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1016,8 +1148,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-an-agile-approach/",
       "length": "PT40M",
       "ratings": {
-        "count": 5121,
-        "average": 4.745167
+        "count": 5122,
+        "average": 4.745217
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1100,8 +1232,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
       "length": "60 mins",
       "ratings": {
-        "count": 1951,
-        "average": 4.6227574
+        "count": 1952,
+        "average": 4.6224384
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1142,8 +1274,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
       "length": "32 mins",
       "ratings": {
-        "count": 2591,
-        "average": 4.6240835
+        "count": 2592,
+        "average": 4.6238427
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1375,8 +1507,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/",
       "length": "37 mins",
       "ratings": {
-        "count": 1250,
-        "average": 4.6216
+        "count": 1251,
+        "average": 4.6219025
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1549,8 +1681,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/",
       "length": "46 mins",
       "ratings": {
-        "count": 3572,
-        "average": 4.6290593
+        "count": 3573,
+        "average": 4.6288834
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1594,8 +1726,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
       "length": "83 mins",
       "ratings": {
-        "count": 3141,
-        "average": 4.6981854
+        "count": 3142,
+        "average": 4.697963
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1639,8 +1771,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-roles-responsibilities-world-of-data/",
       "length": "PT17M",
       "ratings": {
-        "count": 405,
-        "average": 4.814815
+        "count": 406,
+        "average": 4.815271
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1769,8 +1901,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-linux/",
       "length": "PT16M",
       "ratings": {
-        "count": 444,
-        "average": 4.7657657
+        "count": 445,
+        "average": 4.766292
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1794,48 +1926,6 @@
           "width": 640,
           "height": 320,
           "title": "Introduction to Linux on Azure",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-secure-vms-with-security-center.md",
-      "title": "Protect your servers and VMs from brute-force and malware attacks with Azure Security Center",
-      "excerpt": "In this module, you’ll discover how to protect VMs and servers with Azure Security Center",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-vms-with-security-center/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-vms-with-azure-security-center/",
-      "length": "44 mins",
-      "ratings": {
-        "count": 810,
-        "average": 4.6395063
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-vms-with-azure-security-center-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Protect your servers and VMs from brute-force and malware attacks with Azure Security Center",
           "isCached": true
         }
       ],
