@@ -8,7 +8,7 @@ length: 29 mins
 ratings:
   count: 140
   average: 4.8
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Recognize and synthesize speech"
 
-secured: "6PvwY3rI4z2n/u0gXyA6zIufC+r4ICLUOD1f0gUtSMx58oxfjGOxptO3cDE9g8kxi30a4xYDVC7jct1COoNASnaH8KSk/+dc/Hu3fLaFFgg61PfZLXBZcLTAbgCh7/TW/ZpDvpmW14+ncqpTXdo9eEiqv0CBmK/iZJ42mMsn50wqb+nSdM/Vf4r9FeCcqcFhHthNMO9HypNtvpq4n0O3olgdxwdpReHjW3cOf6O12R1s4lQoI+NGqLsY516xYVqwmRI0aE53eTn17jhx1IND3IGC68xm0ojZZSb58taNh5slCJQKdhnRWv4mTz9Nfa2gbUBYRbLhhR77NYnw3OB4U4OrE2O7ImlXE4b0lKpT5hzXmpepFnzSuTes7ARfP938XFV6p+MSoRra7pfSAbxjOw==;Ql3cNjBN2eyLTrbY0Yw+Hw=="
+secured: "OPuZBFf+Ow9PfKEqwX12afEHQly8t2KzpVurFUcfiJtp4qOgxch2sjysA3iSZqXY4x4h02MFmYuCJhe/mkXN7fKybPypskZIyj+aCSwrRhE20NJdt+GGhGoan7OBVWJUfTy9bP+c8/6i4nAo5AH9qpEFW3+6R1JuBfCMdtWdbhyAgRLsxPUIDHMnSXtImvghoXIMb3z63DCLwX87RE4KgwBjxYcfzzBXkvHmk4SoY7XrzgyTFBqozefUTjKtW8Y4JaX35EnI7mXGE5Bu8927OnOGmyG5DulHpEB1xk/xu3e9pEv1eP2hhiUwioDNrZC1yXW8XILIeaziLPyNkrkTe+aSwscDLsukjY/eSZF8yXk7k2qow+ckpmt6WsEb5CJdZqCOufyfxVd1hBNYR5mNURb3PsQU0hYkHAk4+AG1EDc=;O1qtt0T+YUv3bsWLZCoZZg=="
 ---
 
