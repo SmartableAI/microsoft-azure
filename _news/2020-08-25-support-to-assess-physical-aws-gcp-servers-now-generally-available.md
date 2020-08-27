@@ -40,6 +40,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "Immersive Reader is now generally available"
+    excerpt: "Immersive Reader is an Azure Cognitive Service for developers who want to embed inclusive capabilities into their apps for enhancing text reading and comprehension for users regardless of age or ability. "
+    publishedDateTime: 2020-08-27T00:35:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/immersive-reader-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "SAP HANA backup using Azure Backup is now generally available"
     excerpt: "We are sharing that Microsoft Azure Backup’s solution for SAP HANA databases is generally available in all Azure Public and Gov Regions (with the exception of Germany Northeast and Germany central, France South & US Gov IOWA).\r\n\r\nAzure Backup is Azure's native backup solution, which is BackInt certified"
     publishedDateTime: 2019-12-02T13:00:29Z
