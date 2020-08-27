@@ -2,55 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2020-05-15-microsoft-open-sources-its-coronavirus-threat-data-for-security-researchers.md",
-      "title": "Microsoft open-sources its coronavirus threat data for security researchers",
-      "excerpt": "For the last couple of months, cybercriminals have taken advantage of the coronavirus pandemic to launch a series of attacks on individuals and companies, with a COVID-19 angle. In order to fight these threats,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/microsoft/2020/05/15/microsoft-open-sources-its-coronavirus-related-threat-data/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/11/microsoft-hed-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Microsoft open-sources its coronavirus threat data for security researchers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-14T23:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_news/2020-05-14-microsoft-is-acquiring-metaswitch-networks-to-expand-its-azure-5g-strategy.md",
       "title": "Microsoft is acquiring Metaswitch Networks to expand its Azure 5G strategy",
       "excerpt": "Just weeks after announcing a deal to acquire 5G specialist Affirmed Networks, Microsoft is making another acquisition to strengthen its cloud-based telecoms offering. It’s acquiring Metaswitch Networks,",
@@ -1222,6 +1173,55 @@
       "topics": [
         "Azure",
         "Security"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-microsoft-and-intel-project-converts-malware-into-images-before-analyzing-it.md",
+      "title": "Microsoft and Intel project converts malware into images before analyzing it",
+      "excerpt": "Microsoft and Intel have recently collaborated on a new research project that explored a new approach to detecting and classifying malware. Called STAMINA (STAtic Malware-as-Image Network Analysis), the project relies on a new technique that converts malware samples into grayscale images and then scans the image for textural and structural patterns specific to malware samples.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-and-intel-project-converts-malware-into-images-before-analyzing-it/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2019/04/20/932ea1cb-d0e5-4b88-801e-c33b6433469f/resize/1200x900/350c937a9c20ed5d4994987051363f4e/03-optional-features.jpg",
+          "width": 991,
+          "height": 900,
+          "title": "Microsoft and Intel project converts malware into images before analyzing it",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-and-intel-project-converts-malware-into-images-before-analyzing-it/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-intel-project-converts-malware-into-images-before-analyzing-it/",
+      "publishedDateTime": "2020-05-10T18:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
       ]
     }
   ],

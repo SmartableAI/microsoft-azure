@@ -54,6 +54,20 @@ related:
         height: 563
         isCached: true
   - title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
+    excerpt: "They will bring those workflows into Microsoft Azure and ensure Universal's ecosystem of partners can connect to them in open, standards-based ways. This partnership will also enable the ..."
+    publishedDateTime: 2020-08-20T23:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-2020-08-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
     excerpt: "UNIVERSAL CITY, Calif., and REDMOND, Wash., Aug. 21, 2020 /PRNewswire via COMTEX/ -- UNIVERSAL CITY, Calif., and REDMOND, Wash., Aug. 21, 2020"
     publishedDateTime: 2020-08-22T01:48:00Z
     webUrl: "https://www.marketwatch.com/press-release/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-2020-08-21?mod=mw_quote_news&tesla=y"
@@ -67,6 +81,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mobius Logic brings drone flight management to Microsoft Azure"
+    excerpt: "PRNewswire-PRWeb/ -- Mobius Logic, Inc. a leader in next-generation digital services, announced today that its Federal Aviation Administration"
+    publishedDateTime: 2020-08-21T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/08/n17190966/mobius-logic-brings-drone-flight-management-to-microsoft-azure"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17190966"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17190966"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
   - title: "Signal Sciences Announces Advanced Protection for Applications on Microsoft Azure"
     excerpt: "Signal Sciences, the fastest growing web application security company in the world, today announced an integration with Microsoft Azure App Service for the Signal Sciences next-gen Web Application ..."
     publishedDateTime: 2020-08-04T14:46:00Z
@@ -92,6 +117,20 @@ related:
       name: Proactive Investors
       domain: proactiveinvestors.co.uk
     quality: 31
+  - title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
+    excerpt: "They will bring those workflows into Microsoft Azure and ensure Universal’s ecosystem of partners can connect to them in open, standards-based ways. This partnership will also enable the development of near-term solutions to accelerate a return to ..."
+    publishedDateTime: 2020-08-21T15:05:00Z
+    webUrl: "https://news.microsoft.com/2020/08/21/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 8
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/prod/2020/08/NBCU-MS-Logo-Lockup-MNC-1024x512.jpg"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "tR/ywCOthRmDTkCLTVl9SjKnFnlfi40B1MBMgmLUrWcEu5RyKBryd4nPg68h3ozGzy1wENVVDxj7Kh1GV4vJj6ZvV2ZVe07kPJ8nwoENibIRKzPXpXXuGHrCZvkscy620muLGSI8hmYaBdL83LMalhVO3mMTkQ5Cw9QNpsVu5qSVg896Qt2tBBhHjepM9zM25bH1IjiYbUi4R+X7qiM9APqQgLjH7N/mfl2p7AditI9IuNCb2Rydc2LuU6868absaD4YWuuxdbL9Q1Pw3gf7tkROi0laKLw5R68J3DHQ5fl3etwXSRinIY/9/AbW2GrUAks6hJWfAOOxA1Xz4cbzXZcq/F+t5KzDuX/82UJRyrNWCDcqSJQpp6RAHtWQ38rLVArkK4C5Io8QkdcHAfFcFo44chl7vvnK2nrKSp7rLbsSoQQUVM9caCW74h3Liko0jXclCDajloUYumFaSprRTeilGQrTOpK1T4uQb3cATuNnUsKbzqV3/o+IyBJBH4sD;bOgxjDDK4Agk+kQQuJd7NA=="
 ---
