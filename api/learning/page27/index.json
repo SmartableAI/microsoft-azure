@@ -4,6 +4,49 @@
   "page": 27,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-support-concurrency-blob-storage.md",
+      "title": "Support concurrency in Blob storage apps with ETags and blob leases",
+      "excerpt": "Develop apps that properly support concurrency against data in Azure Blob storage",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-support-concurrency-blob-storage/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/support-concurrency-blob-storage/",
+      "length": "50 mins",
+      "ratings": {
+        "count": 54,
+        "average": 4.740741
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/support-concurrency-blob-storage-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Support concurrency in Blob storage apps with ETags and blob leases",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-test-hypothesis-by-simulating-statistics.md",
       "title": "Test hypothesis by simulating  statistics",
       "excerpt": "Learn how to test hypothesis through simulation of statistics.",
@@ -606,8 +649,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-project-github/",
       "length": "PT43M",
       "ratings": {
-        "count": 84,
-        "average": 4.6666665
+        "count": 85,
+        "average": 4.670588
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -725,48 +768,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-using-iaas-support-azure-sap-workloads.md",
-      "title": "Using IAAS support with Azure for SAP workloads",
-      "excerpt": "There are many SAP-certified operating systems supported by SAP running on Azure VMs. In this module, you will review the SAP recommended support products for VM types and the network, database, and monitoring requirements.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-using-iaas-support-azure-sap-workloads/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/using-iaas-support-azure-sap-workloads/",
-      "length": "44 mins",
-      "ratings": {
-        "count": 220,
-        "average": 4.7136364
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/using-iaas-support-with-azure-for-sap-workloads-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Using IAAS support with Azure for SAP workloads",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     },
     {

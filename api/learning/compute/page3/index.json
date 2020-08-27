@@ -60,8 +60,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
       "length": "70 mins",
       "ratings": {
-        "count": 2529,
-        "average": 4.5697904
+        "count": 2530,
+        "average": 4.5699606
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -106,8 +106,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-network-traffic-flow-with-routes/",
       "length": "50 mins",
       "ratings": {
-        "count": 1501,
-        "average": 4.620253
+        "count": 1502,
+        "average": 4.620506
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -150,8 +150,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/",
       "length": "46 mins",
       "ratings": {
-        "count": 3578,
-        "average": 4.6280046
+        "count": 3579,
+        "average": 4.627829
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -195,8 +195,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-github-events-with-a-function-triggered-by-a-webhook/",
       "length": "53 mins",
       "ratings": {
-        "count": 1502,
-        "average": 4.628495
+        "count": 1503,
+        "average": 4.6287427
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -387,8 +387,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-and-size-disks-in-azure-virtual-machines/",
       "length": "36 mins",
       "ratings": {
-        "count": 2017,
-        "average": 4.6628656
+        "count": 2020,
+        "average": 4.6623764
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -431,8 +431,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-azure-vm-templates/",
       "length": "37 mins",
       "ratings": {
-        "count": 3249,
-        "average": 4.5330873
+        "count": 3251,
+        "average": 4.5333743
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -564,8 +564,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/caching-and-performance-azure-storage-and-disks/",
       "length": "44 mins",
       "ratings": {
-        "count": 1640,
-        "average": 4.6786585
+        "count": 1641,
+        "average": 4.6788545
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -608,8 +608,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
       "length": "48 mins",
       "ratings": {
-        "count": 1289,
-        "average": 4.6113267
+        "count": 1290,
+        "average": 4.611628
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -865,6 +865,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-configure-bitlocker-disk-encryption-for-windows-iaas-vms.md",
+      "title": "Configure BitLocker disk encryption for Windows IaaS Virtual Machines",
+      "excerpt": "You'll be able to configure Azure Disk Encryption for Windows IaaS VMs and back up and recover encrypted data.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-bitlocker-disk-encryption-for-windows-iaas-vms/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-bitlocker-disk-encryption-windows-iaas-virtual-machines/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 5,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Compute"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-design-a-geographically-distributed-application.md",
       "title": "Design a geographically distributed application",
       "excerpt": "Build an application that spans multiple geographic locations for high availability and resiliency.",
@@ -918,8 +961,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-vm-settings-with-dsc/",
       "length": "54 mins",
       "ratings": {
-        "count": 778,
-        "average": 4.6683803
+        "count": 779,
+        "average": 4.668806
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1714,52 +1757,6 @@
         "Compute",
         "Containers",
         "Mobile"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-aspnet-logging.md",
-      "title": "Implement logging in a .NET Framework ASP.NET web application",
-      "excerpt": "Learn how to implement logging in an ASP.NET web application, to store log data in Azure blob storage, and incorporate log information in Application Insights performance data.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aspnet-logging/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-logging/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 5,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Web",
-        "Compute",
-        "Containers",
-        "Mobile",
-        "Management Tools"
       ]
     }
   ],

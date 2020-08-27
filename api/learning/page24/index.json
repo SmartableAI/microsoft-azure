@@ -4,6 +4,92 @@
   "page": 24,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-manage-enterprise-security-in-hdinsight.md",
+      "title": "Manage enterprise security in HDInsight",
+      "excerpt": "Azure HDInsight in conjunction with other Azure services provides a comprehensive multi-tiered security solution and is a shared responsibility between Microsoft and the customer.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-enterprise-security-in-hdinsight/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-enterprise-security-hdinsight/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 43,
+        "average": 4.6744184
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/manage-enterprise-security-in-hdinsight-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Manage enterprise security in HDInsight",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-hybrid-workloads-with-azure-arc.md",
+      "title": "Manage hybrid workloads with Azure Arc",
+      "excerpt": "You will learn to describe Azure Arc, implement Azure Arc with on-premises server instances, deploy Azure policies with Azure Arc, and use role-based access control (RBAC) to restrict access to Log Analytics data.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-hybrid-workloads-with-azure-arc/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-hybrid-workloads-azure-arc/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 12,
+        "average": 4.9166665
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Compute"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-manage-innersource-program-github.md",
       "title": "Manage an InnerSource program by using GitHub",
       "excerpt": "Learn to manage a successful InnerSource program on GitHub through effective discoverability, guidance, and maintenance.",
@@ -1182,91 +1268,6 @@
           "width": 800,
           "height": 400,
           "title": "Optimize storage performance and costs using Blob storage tiers",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-optimize-web-app-with-redis.md",
-      "title": "Optimize your web applications by caching read-only data with Redis",
-      "excerpt": "Use Redis caching in Azure to reduce the load on databases. Apply different caching architectures to support larger loads in distributed and high-volume environments.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-optimize-web-app-with-redis/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-your-web-apps-with-redis/",
-      "length": "55 mins",
-      "ratings": {
-        "count": 172,
-        "average": 4.72093
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/optimize-web-apps-with-redis-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Optimize your web applications by caching read-only data with Redis",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-organize-blobs-properties-metadata.md",
-      "title": "Organize Azure storage blobs with properties and metadata",
-      "excerpt": "Compare the types of properties and metadata associated with Azure storage blobs, and examine the methods used to view and modify these values. Add code to ASP.NET Core apps to retrieve and modify metadata.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-organize-blobs-properties-metadata/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/organize-blobs-properties-metadata/",
-      "length": "42 mins",
-      "ratings": {
-        "count": 58,
-        "average": 4.37931
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/organize-blobs-with-properties-and-metadata-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Organize Azure storage blobs with properties and metadata",
           "isCached": true
         }
       ],

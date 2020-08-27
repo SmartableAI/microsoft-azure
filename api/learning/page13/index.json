@@ -4,6 +4,48 @@
   "page": 13,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-azure-sql-performance.md",
+      "title": "Deliver consistent performance with Azure SQL",
+      "excerpt": "Deliver consistent performance with Azure SQL",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-sql-performance/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-performance/",
+      "length": "PT1H24M",
+      "ratings": {
+        "count": 18,
+        "average": 4.9444447
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-sql-performance-social.png",
+          "width": 642,
+          "height": 324,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-build-app-with-scale-sets.md",
       "title": "Build a scalable application with virtual machine scale sets",
       "excerpt": "Enable your application to automatically adjust to changes in load while minimizing costs with virtual machine scale sets.",
@@ -457,8 +499,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-offerings-azure/",
       "length": "PT41M",
       "ratings": {
-        "count": 106,
-        "average": 4.8207545
+        "count": 107,
+        "average": 4.82243
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -756,8 +798,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-kubernetes/",
       "length": "53 mins",
       "ratings": {
-        "count": 433,
-        "average": 4.5842957
+        "count": 434,
+        "average": 4.5852532
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1222,50 +1264,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-protect-apis-on-api-management.md",
-      "title": "Protect your APIs on Azure API Management",
-      "excerpt": "Protect your back-end APIs from information exposure and implement throttling to prevent resource exhaustion with policies in Azure API Management.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-apis-on-api-management/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-apis-on-api-management/",
-      "length": "43 mins",
-      "ratings": {
-        "count": 611,
-        "average": 4.7184944
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/protect-apis-on-api-management-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Protect your APIs on Azure API Management",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Integration",
-        "Web"
       ]
     }
   ],

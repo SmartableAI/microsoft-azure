@@ -4,6 +4,48 @@
   "page": 23,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-inclusive-marketing.md",
+      "title": "Learn inclusive marketing principles",
+      "excerpt": "Learn how to embody diversity and inclusivity across marketing engines.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-inclusive-marketing/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/inclusive-marketing/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 24,
+        "average": 4.7083335
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Learn inclusive marketing principles",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-integrate-azure-databricks-other-azure-services.md",
       "title": "Integrate Azure Databricks with other Azure services",
       "excerpt": "Azure Databricks is just one of many powerful data services in Azure. Learn how to integrate with other services, such as Azure Synapse Analytics and Azure Cosmos DB as part of your data architecture.",
@@ -1238,49 +1280,6 @@
       "topics": [
         "Azure",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-manage-hybrid-workloads-with-azure-arc.md",
-      "title": "Manage hybrid workloads with Azure Arc",
-      "excerpt": "You will learn to describe Azure Arc, implement Azure Arc with on-premises server instances, deploy Azure policies with Azure Arc, and use role-based access control (RBAC) to restrict access to Log Analytics data.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-hybrid-workloads-with-azure-arc/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-hybrid-workloads-azure-arc/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 12,
-        "average": 4.9166665
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Compute"
       ]
     }
   ],

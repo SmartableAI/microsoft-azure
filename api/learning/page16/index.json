@@ -4,6 +4,90 @@
   "page": 16,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-maintain-azure-sap-workloads.md",
+      "title": "Maintain Azure for SAP workloads",
+      "excerpt": "You will review connection to Azure VMs running SAP workloads using public endpoints on a Jumpbox, VPN, or Azure ExpressRoute. You will also see how to back up Azure VMs using or more Azure VMs.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-maintain-azure-sap-workloads/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/maintain-azure-sap-workloads/",
+      "length": "48 mins",
+      "ratings": {
+        "count": 80,
+        "average": 4.65
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/maintain-azure-sap-workloads-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Maintain Azure for SAP workloads",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-maintain-secure-repository-github.md",
+      "title": "Maintain a secure repository by using GitHub best practices",
+      "excerpt": "Learn best practices for building, hosting, and maintaining a secure repository on GitHub.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-maintain-secure-repository-github/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/maintain-secure-repository-github/",
+      "length": "PT1H9M",
+      "ratings": {
+        "count": 81,
+        "average": 4.6790123
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Maintain a secure repository by using GitHub best practices",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-manage-azure-paas-resources-using-automated-methods.md",
       "title": "Manage Azure PaaS resources using automated methods",
       "excerpt": "Explore SQL automation for Azure SQL Database and Open Source databases. Configure elastic jobs and Azure Policy.",
@@ -354,8 +438,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-vm-settings-with-dsc/",
       "length": "54 mins",
       "ratings": {
-        "count": 778,
-        "average": 4.6683803
+        "count": 779,
+        "average": 4.668806
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -765,6 +849,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-schedule-tasks-using-sql-server-agent.md",
+      "title": "Schedule tasks using SQL Server Agent",
+      "excerpt": "Explore SQL automation for scheduled tasks and automatic alerts for SQL Server and Managed Instance. Configure extended event sessions for tracing activities.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-schedule-tasks-using-sql-server-agent/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/schedule-tasks-using-sql-server-agent/",
+      "length": "PT46M",
+      "ratings": {
+        "count": 11,
+        "average": 4.4545455
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-set-up-rules-take-actions-telemetry-data-azure-iot-central.md",
       "title": "Set up rules and take action on telemetry data in Azure IoT Central",
       "excerpt": "This module builds an IoT Central app to monitor and command a refrigerated truck. We build the IoT Central app from a downloaded JSON file, defining all the device capabilities. Source code is also downloaded for the device app. The focus of this module is on creating rules and actions, to respond to certain telemetry input. Rules and actions enable greater automation of an IoT Central system.",
@@ -817,8 +943,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-access-data-cosmos-table-api/",
       "length": "29 mins",
       "ratings": {
-        "count": 1233,
-        "average": 4.6025953
+        "count": 1234,
+        "average": 4.602107
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1322,302 +1448,6 @@
         "AI",
         "Compute",
         "Containers"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-capture-feedback-and-monitoring-data-to-continuously-improve-your-software-learning-path.md",
-      "title": "Capture feedback and monitoring data to continuously improve your software learning path",
-      "excerpt": "Learn how to configure release pipelines that continuously build, test, and deploy your applications.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-capture-feedback-and-monitoring-data-to-continuously-improve-your-software-learning-path/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-capture-feedback-and-monitoring-data-to-continuously-improve-your-software-learning-path/",
-      "length": "PT1H46M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Recommend and design system feedback mechanisms",
-          "excerpt": "Learn how surveys and application analytics create a feedback loop that helps you understand the voice of the customer.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/recommend-system-feedback-mechanisms-social.png",
-              "width": 1000,
-              "height": 500,
-              "title": "Recommend and design system feedback mechanisms",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "DevOps"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Route system feedback to development teams",
-          "excerpt": "Learn how continuous monitoring and dashboards give you insight into how customers use your software and where patterns of failure occur.",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/route-system-feedback-social.png",
-              "width": 1000,
-              "height": 500,
-              "title": "Route system feedback to development teams",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "DevOps"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Manage site reliability",
-          "excerpt": "Learn how to manage site reliability.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-site-reliability-social.png",
-              "width": 1000,
-              "height": 500,
-              "title": "Manage site reliability",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "DevOps"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/recommend-system-feedback-mechanisms-social.png",
-          "width": 1000,
-          "height": 500,
-          "title": "Recommend and design system feedback mechanisms",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-capture-feedback-and-monitoring-data-to-continuously-improve-your-software.md",
-      "title": "Capture feedback and monitoring data to continuously improve your software",
-      "excerpt": "Learn how to recommend and design system feedback mechanisms, implement a process for routing system feedback to development teams, and optimize feedback mechanisms.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-capture-feedback-and-monitoring-data-to-continuously-improve-your-software/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-capture-feedback-and-monitoring-data-to-continuously-improve-your-software/",
-      "length": "PT1H46M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Recommend and design system feedback mechanisms",
-          "excerpt": "Learn how surveys and application analytics create a feedback loop that helps you understand the voice of the customer.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/recommend-system-feedback-mechanisms-social.png",
-              "width": 1000,
-              "height": 500,
-              "title": "Recommend and design system feedback mechanisms",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "DevOps"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Route system feedback to development teams",
-          "excerpt": "Learn how continuous monitoring and dashboards give you insight into how customers use your software and where patterns of failure occur.",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/route-system-feedback-social.png",
-              "width": 1000,
-              "height": 500,
-              "title": "Route system feedback to development teams",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "DevOps"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Manage site reliability",
-          "excerpt": "Learn how to manage site reliability.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-site-reliability-social.png",
-              "width": 1000,
-              "height": 500,
-              "title": "Manage site reliability",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "DevOps"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/recommend-system-feedback-mechanisms-social.png",
-          "width": 1000,
-          "height": 500,
-          "title": "Recommend and design system feedback mechanisms",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-cloud-administration-basics.md",
-      "title": "Cloud administration basics",
-      "excerpt": "Learn about the basics of the cloud, including the history, building blocks, and types of services, in preparation for real-world cloud practice on Azure.\nIn this learning path, you will:\n\nLearn about the history of the cloud, and how it was built\nKnow the major cloud providers and cloud types\nUnderstand what types of resources are available through the cloud\nRecognize cloud service modules\nKnow the economic benefits of the cloud\nUnderstand digital identity, and how digital identities can be shared and secured\n\nIn partnership with Dr. Majd Sakr and Carnegie Mellon University.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-cloud-administration-basics/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-cloud-administration-basics/",
-      "length": "PT3H26M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Foundations of cloud computing for administrators",
-          "excerpt": "Learn about the cloud, including the history, building blocks, and types on your way to becoming a Cloud Administrator.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cloud-admin-overview-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Foundations of cloud computing for administrators",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Provision and manage cloud services",
-          "excerpt": "Learn about the different types of resources available on the cloud and the technology behind how they work.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cloud-admin-provision-manage-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Provision and manage cloud services",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Secure your cloud resources with access control",
-          "excerpt": "Learn about digital identities and how they can be managed and synchronized within an organization.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/secure-cloud-resources-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Secure your cloud resources with access control",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cloud-admin-overview-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Foundations of cloud computing for administrators",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],

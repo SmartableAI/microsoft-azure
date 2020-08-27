@@ -4,6 +4,135 @@
   "page": 6,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-develop-iot-solutions-with-azure-iot-central.md",
+      "title": "Develop IoT solutions with Azure IoT Central",
+      "excerpt": "Interested in building end to end IoT solutions with Azure IoT Central, but aren't quite sure what it can do for you? This path is the place to start.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-develop-iot-solutions-with-azure-iot-central/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-develop-iot-solutions-with-azure-iot-central/",
+      "length": "PT2H58M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Create your first Azure IoT Central app",
+          "excerpt": "This module builds an IoT Central app to monitor and command a refrigerated truck. The first unit creates the app, the second unit defines a device template for a refrigerated truck. Then, create a programming project, add code to simulate a truck, and communicate with your IoT Central app. The truck is monitored through a custom dashboard.",
+          "heat": 56,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/iot/iot-central-refrigerated-truck-module-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Create your first Azure IoT Central app",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "IoT",
+            "Azure",
+            "Mobile",
+            "Web"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Set up rules and take action on telemetry data in Azure IoT Central",
+          "excerpt": "This module builds an IoT Central app to monitor and command a refrigerated truck. We build the IoT Central app from a downloaded JSON file, defining all the device capabilities. Source code is also downloaded for the device app. The focus of this module is on creating rules and actions, to respond to certain telemetry input. Rules and actions enable greater automation of an IoT Central system.",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/iot/set-up-rules-take-actions-telemetry-data-azure-iot-central-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Set up rules and take action on telemetry data in Azure IoT Central",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "IoT",
+            "Azure",
+            "Mobile",
+            "Web"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Manage IoT Central applications with the REST API",
+          "excerpt": "The IoT Central REST API lets you manage applications programmatically. For example, you can add device templates, create devices, set device properties, send commands to devices, and manage data exports.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/manage-iot-central-apps-with-rest-api-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Manage IoT Central applications with the REST API",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Set up continuous data export from Azure IoT Central to a Power BI app",
+          "excerpt": "This module covers continuous data export from IoT Central. You use the scenario from the &quot;Create your first Azure IoT Central app&quot; Learn module, where you control a refrigerated truck. This module adds continuous data export to both Blob storage, and an Event Hub. Then, a Power BI app is built to read and display the telemetry data on a mobile phone.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/iot/continuous-data-export-from-iot-central-social.png",
+              "width": 640,
+              "height": 320,
+              "title": "Set up continuous data export from Azure IoT Central to a Power BI app",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "IoT",
+            "Storage",
+            "Analytics"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/iot/iot-central-refrigerated-truck-module-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Create your first Azure IoT Central app",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-explore-computer-vision-in-microsoft-azure.md",
       "title": "Explore computer vision in Microsoft Azure",
       "excerpt": "Computer vision is an area of artificial intelligence (AI) in which software systems are designed to perceive the world visually, though cameras, images, and video. There are multiple specific types of computer vision problem that AI engineers and data scientists can solve using a mix of custom machine learning models and platform-as-a-service (PaaS) solutions - including many cognitive services in Microsoft Azure.",
@@ -171,7 +300,7 @@
           "path": "",
           "title": "Applications and infrastructure migration and modernization",
           "excerpt": "Every modern business is powered by applications, such as internal procurement applications, Customer Relationship Management (CRM) systems, retail websites, and third-party products. As your business prepares for digital transformation, it’s important to begin modernizing and migrating your applications and infrastructure to the cloud. Azure is a key component of that process. You can choose to migrate, modernize, or build cloud native solutions depending on your business goals and how you assess your application portfolio. This is a strategic decision. You’ll be able to choose the path that’s right for your organization.",
-          "heat": 50,
+          "heat": 110,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/apps-and-infra-migration-modernization-social.png",
@@ -359,123 +488,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-sap-certified-offerings-for-azure.md",
-      "title": "SAP certified offerings for Azure",
-      "excerpt": "As an IT Professional experienced in SAP solutions, you need to understand how to leverage Azure resources that include virtual machines, virtual networks, storage accounts, and Azure AD. These modules will provide the basis for running SAP workloads in Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-sap-certified-offerings-for-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-sap-certified-offerings-for-azure/",
-      "length": "PT3H9M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Introduction to Azure for SAP workloads",
-          "excerpt": "With the recently expanded partnership between Microsoft and SAP, you can run SAP applications across development, test, and production scenarios in Azure, taking advantage of the scalability, flexibility, and cost savings of Microsoft Azure.",
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/introduction-azure-sap-workloads-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Introduction to Azure for SAP workloads",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Deploy SAP certified offerings on Azure",
-          "excerpt": "In this module, you explore the platform compliance criteria that is stipulated by SAP for deploying SAP solutions in Azure. In addition, you will look at the options for deploying SAP in Azure.",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/deploy-sap-certified-offerings-for-azure-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Deploy SAP certified offerings on Azure",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Using IAAS support with Azure for SAP workloads",
-          "excerpt": "There are many SAP-certified operating systems supported by SAP running on Azure VMs. In this module, you will review the SAP recommended support products for VM types and the network, database, and monitoring requirements.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/using-iaas-support-with-azure-for-sap-workloads-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Using IAAS support with Azure for SAP workloads",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "SAP HANA on Azure Compute, Network, and Storage",
-          "excerpt": "SAP HANA on Azure (Large Instances) provides virtual machines for deploying and running SAP HANA. This module explores the SAP HANA on Azure (Large Instances) solution that builds on assigned, non-shared host/server bare-metal hardware.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/sap-hana-azure-compute-network-storage-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "SAP HANA on Azure Compute, Network, and Storage",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        }
-      ],
-      "size": 4,
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-azure-sap-workloads-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Introduction to Azure for SAP workloads",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-build-serverless-api-with-functions-api-management.md",
       "title": "Expose multiple Azure Function apps as a consistent API by using Azure API Management",
       "excerpt": "Combine multiple Azure Functions apps into a unified interface by importing them into a single Azure API Management instance.",
@@ -483,8 +495,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/",
       "length": "41 mins",
       "ratings": {
-        "count": 889,
-        "average": 4.577053
+        "count": 890,
+        "average": 4.577528
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -529,8 +541,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
       "length": "25 mins",
       "ratings": {
-        "count": 3863,
-        "average": 4.7033396
+        "count": 3864,
+        "average": 4.7034163
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -689,8 +701,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/",
       "length": "51 mins",
       "ratings": {
-        "count": 5440,
-        "average": 4.698897
+        "count": 5443,
+        "average": 4.699063
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -733,8 +745,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-your-dev-environment-for-azure-development/",
       "length": "28 mins",
       "ratings": {
-        "count": 4615,
-        "average": 4.690574
+        "count": 4616,
+        "average": 4.6906414
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2822,7 +2834,7 @@
           "path": "",
           "title": "Configure BitLocker disk encryption for Windows IaaS Virtual Machines",
           "excerpt": "You'll be able to configure Azure Disk Encryption for Windows IaaS VMs and back up and recover encrypted data.",
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",

@@ -296,6 +296,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-schedule-tasks-using-sql-server-agent.md",
+      "title": "Schedule tasks using SQL Server Agent",
+      "excerpt": "Explore SQL automation for scheduled tasks and automatic alerts for SQL Server and Managed Instance. Configure extended event sessions for tracing activities.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-schedule-tasks-using-sql-server-agent/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/schedule-tasks-using-sql-server-agent/",
+      "length": "PT46M",
+      "ratings": {
+        "count": 11,
+        "average": 4.4545455
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-store-access-data-cosmos-table-api.md",
       "title": "Store and Access NoSQL Data with Azure Cosmos DB and the Table API",
       "excerpt": "Get lower latency, higher availability, and easier scaling by moving your Azure Storage Tables application to Azure Cosmos DB.",
@@ -303,8 +345,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-access-data-cosmos-table-api/",
       "length": "29 mins",
       "ratings": {
-        "count": 1233,
-        "average": 4.6025953
+        "count": 1234,
+        "average": 4.602107
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1627,50 +1669,6 @@
           "width": 800,
           "height": 400,
           "title": "Migrate on-premises MySQL databases to Azure Database for MySQL",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Migration",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-migrate-premises-postgresql-databases-azure-database-postgresql.md",
-      "title": "Migrate on-premises PostgreSQL databases to Azure Database for PostgreSQL",
-      "excerpt": "In this module, you'll learn about the benefits of migrating PostgreSQL workloads to Azure, you'll see how to create an Azure Database for PostgreSQL instance and how to migrate on-premises PostgreSQL databases to Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-premises-postgresql-databases-azure-database-postgresql/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-postgresql-databases/",
-      "length": "50 mins",
-      "ratings": {
-        "count": 49,
-        "average": 4.7959185
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/learn-pr/achievements/migrate-onpremises-postgresql-db-azure-db-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Migrate on-premises PostgreSQL databases to Azure Database for PostgreSQL",
           "isCached": true
         }
       ],

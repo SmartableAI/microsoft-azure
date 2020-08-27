@@ -4,6 +4,50 @@
   "page": 20,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-create-language-model-with-luis.md",
+      "title": "Create a language model with LUIS",
+      "excerpt": "In this module, we'll introduce you to Language Understanding Intelligent Service (LUIS) and show how to create a LUIS application.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-language-model-with-luis/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-luis/",
+      "length": "39 mins",
+      "ratings": {
+        "count": 148,
+        "average": 4.7972975
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-publish-luis-model-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Create a language model with LUIS",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI",
+        "Developer Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-open-source-program-github.md",
       "title": "Create an open-source program by using GitHub best practices",
       "excerpt": "Learn to create a successful open-source program by establishing contributor guidance, following proven processes, and leveraging community standards.",
@@ -978,8 +1022,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks-delta-lake-architecture/",
       "length": "PT33M",
       "ratings": {
-        "count": 46,
-        "average": 4.5869565
+        "count": 47,
+        "average": 4.574468
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1284,52 +1328,6 @@
         "Serverless",
         "Containers",
         "Networking"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-design-for-security.md",
-      "title": "Design for security in Azure",
-      "excerpt": "Learn how to incorporate security into your architecture design, and discover the tools that Azure provides to help you create a secure environment through all the layers of your architecture.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-for-security/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-for-security-in-azure/",
-      "length": "62 mins",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/design-for-security-in-azure-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Design for security in Azure",
-          "isCached": true
-        },
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-framework-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Design for security in Azure",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
       ]
     }
   ],

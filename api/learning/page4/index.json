@@ -903,8 +903,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-azure-services-with-cli/",
       "length": "34 mins",
       "ratings": {
-        "count": 3782,
-        "average": 4.744315
+        "count": 3783,
+        "average": 4.744383
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1921,8 +1921,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/",
       "length": "24 mins",
       "ratings": {
-        "count": 8193,
-        "average": 4.700232
+        "count": 8194,
+        "average": 4.7002683
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2774,6 +2774,123 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-sap-certified-offerings-for-azure.md",
+      "title": "SAP certified offerings for Azure",
+      "excerpt": "As an IT Professional experienced in SAP solutions, you need to understand how to leverage Azure resources that include virtual machines, virtual networks, storage accounts, and Azure AD. These modules will provide the basis for running SAP workloads in Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-sap-certified-offerings-for-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-sap-certified-offerings-for-azure/",
+      "length": "PT3H9M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Introduction to Azure for SAP workloads",
+          "excerpt": "With the recently expanded partnership between Microsoft and SAP, you can run SAP applications across development, test, and production scenarios in Azure, taking advantage of the scalability, flexibility, and cost savings of Microsoft Azure.",
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/introduction-azure-sap-workloads-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Introduction to Azure for SAP workloads",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Deploy SAP certified offerings on Azure",
+          "excerpt": "In this module, you explore the platform compliance criteria that is stipulated by SAP for deploying SAP solutions in Azure. In addition, you will look at the options for deploying SAP in Azure.",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/deploy-sap-certified-offerings-for-azure-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Deploy SAP certified offerings on Azure",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Using IAAS support with Azure for SAP workloads",
+          "excerpt": "There are many SAP-certified operating systems supported by SAP running on Azure VMs. In this module, you will review the SAP recommended support products for VM types and the network, database, and monitoring requirements.",
+          "heat": 110,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/using-iaas-support-with-azure-for-sap-workloads-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Using IAAS support with Azure for SAP workloads",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "SAP HANA on Azure Compute, Network, and Storage",
+          "excerpt": "SAP HANA on Azure (Large Instances) provides virtual machines for deploying and running SAP HANA. This module explores the SAP HANA on Azure (Large Instances) solution that builds on assigned, non-shared host/server bare-metal hardware.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/sap-hana-azure-compute-network-storage-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "SAP HANA on Azure Compute, Network, and Storage",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-azure-sap-workloads-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Introduction to Azure for SAP workloads",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-choose-messaging-model.md",
       "title": "Choose a messaging model in Azure to loosely connect your services",
       "excerpt": "When you have an application that consists of components running on different computers, servers, and mobile devices, reliable communications between those components can be difficult and unreliable. Azure provides several technologies that you can use to communicate more reliably, including Storage queues, Event Hubs, Event Grid, and Service Bus. This module shows you how to choose the best technology for your communication task.",
@@ -2901,49 +3018,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-integrate-vnets-with-vnet-peering.md",
-      "title": "Distribute your services across Azure virtual networks and integrate them by using virtual network peering",
-      "excerpt": "Use virtual network peering to enable communication across virtual networks in a way that's secure and minimally complex.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-integrate-vnets-with-vnet-peering/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
-      "length": "42 mins",
-      "ratings": {
-        "count": 2236,
-        "average": 4.716458
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/integrate-vnets-with-vnet-peering-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Distribute your services across Azure virtual networks and integrate them by using virtual network peering",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
       ]
     }
   ],

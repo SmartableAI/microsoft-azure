@@ -4,6 +4,50 @@
   "page": 12,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-describe-azure-databricks.md",
+      "title": "Describe Azure Databricks",
+      "excerpt": "Discover the capabilities of Azure Databricks and the Apache Spark notebook for processing huge files. Understand the Azure Databricks platform and identify the types of tasks well-suited for Apache Spark.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-azure-databricks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
+      "length": "PT53M",
+      "ratings": {
+        "count": 301,
+        "average": 4.524917
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-azure-databricks-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Describe Azure Databricks",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-examine-components-of-modern-data-warehouse.md",
       "title": "Examine components of a modern data warehouse",
       "excerpt": "Examine the components of a modern data warehouse. Understand the role of services like Azure Databricks, Azure Synapse Analytics, and Azure HDInsight. See how to use Azure Synapse Analytics to load and process data.",
@@ -11,8 +55,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-components-of-modern-data-warehouse/",
       "length": "PT24M",
       "ratings": {
-        "count": 149,
-        "average": 4.751678
+        "count": 150,
+        "average": 4.74
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -53,8 +97,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-storage-processing-azure/",
       "length": "PT24M",
       "ratings": {
-        "count": 107,
-        "average": 4.728972
+        "count": 108,
+        "average": 4.7222223
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -222,8 +266,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-code-workflow/",
       "length": "PT1H27M",
       "ratings": {
-        "count": 3398,
-        "average": 4.765156
+        "count": 3399,
+        "average": 4.7646365
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -465,8 +509,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-azure-web-app-with-visual-studio/",
       "length": "47 mins",
       "ratings": {
-        "count": 2766,
-        "average": 4.676428
+        "count": 2767,
+        "average": 4.676545
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -507,8 +551,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-manage-apis-with-azure-api-management/",
       "length": "38 mins",
       "ratings": {
-        "count": 1042,
-        "average": 4.662188
+        "count": 1043,
+        "average": 4.662512
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -594,8 +638,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/react-to-state-changes-using-event-grid/",
       "length": "33 mins",
       "ratings": {
-        "count": 224,
-        "average": 4.589286
+        "count": 225,
+        "average": 4.591111
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1409,8 +1453,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-case-studies/",
       "length": "PT54M",
       "ratings": {
-        "count": 21,
-        "average": 4.952381
+        "count": 22,
+        "average": 4.9545455
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1475,48 +1519,6 @@
           "url": "https://docs.microsoft.com/learn/achievements/azure-sql-high-availability-social.png",
           "width": 642,
           "height": 325,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-sql-performance.md",
-      "title": "Deliver consistent performance with Azure SQL",
-      "excerpt": "Deliver consistent performance with Azure SQL",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-sql-performance/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-performance/",
-      "length": "PT1H24M",
-      "ratings": {
-        "count": 17,
-        "average": 4.9411764
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-sql-performance-social.png",
-          "width": 642,
-          "height": 324,
           "isCached": true
         }
       ],
