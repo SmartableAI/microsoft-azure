@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 24 mins
 ratings:
-  count: 161
-  average: 4.7018633
+  count: 162
+  average: 4.703704
 heat: 51
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Analyze receipts with the Form Recognizer service"
 
-secured: "pMwEkpRff1Unv16bcWHIWhRJO9T0xR1IQoUa0F9q9oWvVvmbhuqqi4mb9GPUlvp1zz819rWAaqYwh6XKc6M7y6ulttGFRpKe3eHpue1V1QzA9Tgyt+/1J3E7MH/LjkaYH6HBOJ+YXlH0k/LzO9sgEhPwHwXU0JvQ5qaF51tMcCACxB21kKg2vl6RqGYY1GmjB+kO0RTiT0ExWstUgjuDsNnptSjMGoUrkGttEtrd2RMlm5C0MdKRDNruWOPVyI1OgYWeuXm9hHqvGeLRrsQPaGGLjjFm35JTNx+exyM8gawQ8GnvwyqL1omsdafqswegK5UwWfcjpWK7Mr4O5OIh7LIe35HBeLPURD+Yu+GLafelcELAKe/QhFH7LGL+IiBrrPmLAHzpWI7XWneY+N7O1A==;F9TVjnJXzdXAbCt/zhwcRg=="
+secured: "lwvShzLzlbe4UQcuBFW2eLh57bwhoAclkgCa4XCChuiYRMmQX4Hra/chGb3gbA2ZJckOOUEFQ4r8VRqaPIKNHKcaZg5h4mZ93+KlyGI+dQWQSLdJce05G12OlJgMnbPF8mObbUhCzS8LJ1IHR2VVj6XS6sa0ctVs7eVkV1P5h4I0aD6qF7uWWdridRQVoajQQZ7+hoh/PgtW0RaqlzWf9qDGNuF7KND99mVkpQ2Md8wcAsS+aQNXAaQdB+f5OYqscQTEbn/Jk+xJvYViNZsYsELqG/1z+7VgbWPuhOhSnplOjpHPz2p9agRHlnjjr1ehHQjuxjWkcTjsSlyE3rNCfdYKhNGukuIKTFZAeZ669xvj1VYcc1oZPyYfWSpemU83s7ZDr688FQHEm1PU2/SGjh1ZqTfMKs+fGAstQMCJhf0=;yhR5unsqi4uaGRHrLFaEoA=="
 ---
 

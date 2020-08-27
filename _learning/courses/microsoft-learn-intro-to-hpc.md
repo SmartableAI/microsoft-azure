@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 50 mins
 ratings:
-  count: 812
-  average: 4.5603447
-heat: 51
+  count: 813
+  average: 4.5596557
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Introduction to high-performance computing (HPC) on Azure"
 
-secured: "ouM3tKNOFb3mHbesQ3XruxeW3TIPBU+Xg3ofsJifoOBLUDwQwGwrM1yRYGFiKP4R4WyHnUB4y2frE/4+qlGGoxJ7Ht5X6mk0q3LThtSF/qrazc4cat4hs3vp+vF+2F3ISJZUk62UqLQ67jECMNCtpll7svUWIWqG7BGto2lnqB9G2qjrLjXmeRnxitbShzFCmYsINDRFrQIaG/yOzUXkXudRD5hAKPNy3Ouk5b8HAHDR6reTFX/h7f9s6w6TnblrxROFVv0T81zE/mCZ+oHu1g8QuGxys64YogUv38eUtS6DDJawPInKn9TUZgOOaggsCBDHKoRyS35bMPs1sb9jq1HzdckofruyVN4f1MRw9XQZzdDW3EZTx8IkJhAc/QeSrDoWwdyBukdOhwMKPq1hJg==;nHUE5ZsDH6dIXQgD3k24Cw=="
+secured: "s1QgxSh73ELI1pa0b1oYoQ/wCxkmv5ooPXYe+44m5ZwDLVInA1aG0fMHl95o4k/oHraiFDQL07Kxmy6/XltzCVvhShCJedSONC7YjzF4M16apjkUfDF8E74P7wAoE+fUK9pBHYWSOdIWOXPZfT0O6BtIS4C+Nbjz7D7EEVtr++Lo5e0b4riZ1YnzTXm2sN766VVMRY+ArhVbc6/BRiC0ZAmfCM07GVzTJ1HZBMkEtTTAghcrae1q3ip0o/gbdHgAOe71N7CVKP9gmuyqKGm/iCygdWd2RNeAVnzKqHdqNyYd8ItPwyZR4S4DONvsFXgjOdqATOd+Uz5pToIRPBQ5ebkVoBbDT+vXiv1K1DMT8Xd5JMJQDjJYSI7ilWXiHIaG9+9lYuSSF+UBrs260mUQhdoh64lCTL0zJTpcG4+0wJY=;kh03UHZl+97isXznRCof5g=="
 ---
 
