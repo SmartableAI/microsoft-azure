@@ -270,14 +270,14 @@ related:
         isCached: true
   - title: "Mimecast Email Security for Azure Sentinel now available in the Microsoft Azure Marketplace"
     excerpt: "Mimecast Limited, a leading email security and cyber resilience company, has announced the availability of Mimecast Email Security for Azure Sentinel in the Microsoft Azure Marketplace ..."
-    publishedDateTime: 2020-08-20T10:36:00Z
-    webUrl: "https://businesstech.co.za/news/industry-news/427380/mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace/"
-    ampWebUrl: "https://businesstech.co.za/news/industry-news/427380/mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace/amp/"
-    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/industry-news/427380/mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace/amp/"
+    publishedDateTime: 2020-08-20T10:34:00Z
+    webUrl: "https://mybroadband.co.za/news/industrynews/364426-mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace.html"
+    ampWebUrl: "https://mybroadband.co.za/news/industrynews/364426-mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/364426-mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace.html/amp"
     type: article
     provider:
-      name: businesstech.co.za
-      domain: businesstech.co.za
+      name: MyBroadband
+      domain: mybroadband.co.za
     quality: 27
   - title: "Mimecast® Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
     excerpt: "(GLOBE NEWSWIRE) -- Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure Marketplace,"

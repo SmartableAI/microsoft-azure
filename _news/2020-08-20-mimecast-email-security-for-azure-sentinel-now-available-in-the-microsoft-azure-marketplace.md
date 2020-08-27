@@ -2,19 +2,19 @@
 category: news
 title: "Mimecast Email Security for Azure Sentinel now available in the Microsoft Azure Marketplace"
 excerpt: "Mimecast Limited, a leading email security and cyber resilience company, has announced the availability of Mimecast Email Security for Azure Sentinel in the Microsoft Azure Marketplace ..."
-publishedDateTime: 2020-08-20T10:36:00Z
-originalUrl: "https://businesstech.co.za/news/industry-news/427380/mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace/"
-webUrl: "https://businesstech.co.za/news/industry-news/427380/mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace/"
-ampWebUrl: "https://businesstech.co.za/news/industry-news/427380/mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace/amp/"
-cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/industry-news/427380/mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace/amp/"
+publishedDateTime: 2020-08-20T10:34:00Z
+originalUrl: "https://mybroadband.co.za/news/industrynews/364426-mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace.html"
+webUrl: "https://mybroadband.co.za/news/industrynews/364426-mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace.html"
+ampWebUrl: "https://mybroadband.co.za/news/industrynews/364426-mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace.html/amp"
+cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/364426-mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace.html/amp"
 type: article
 quality: 27
 heat: -1
 published: false
 
 provider:
-  name: businesstech.co.za
-  domain: businesstech.co.za
+  name: MyBroadband
+  domain: mybroadband.co.za
 
 topics:
   - Azure
@@ -311,6 +311,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "sfAs1GbcGfo3H+wVR9GliPDhnlbftUXMWkY6k6BlJqpwiFapLQG/AHXmlnpLKEKLksEUKsgeMAsUFwlgXdgimFdAbTWFVliJrrYFYICwvmXDCysTwWGQ1i2sAiXS0Ab7RKjd4OW+M0mAcfJKs8zAG4nHeh0pFut01lnoVn8D6Al06txqEk24CdcC8MJz3OCpclaRfPg9sPaHdjp8+S2xMGdgVmfVRxv3yhbEyIix/s7bT5M17L7mbhAWhDpyN27wlO7rLLT7MxWD4+zfRREwyLviKnHZe+l4D01T3Q3IVqTBKdLmLZTFVpqxRYuFKJINoxdp+G3Ykgrtpca6OXbM5wSdZxbhuGMhVWsevCxkq7k=;FXqbl7OvhIBuqZJrkP1a4g=="
+secured: "mTziDh2lbNAN5LN7Oysz4RJtve0a3ztikgIbVSC7Fe605qmsue1ARbW+z6caRRJDHphlxrvLX0fD4dC+409woBqKgN6SKjELrnpZGnG3w5paPk89qcuWt5cVGfPYmy3tL+vRjFrcTdq7WsKR5Iob52anQFCa7HXIBqdWmpucK3vkjq2v2OTAXPWaX1KnjzeITphwsoOgNkIEtR2ILLIPBtXW25v4jAS9uzuUAO7R45hI+Ak+zfZA0J9pHprzHXk+540JV/F7Dbb0+2rCfqT1c0vCpKGUF7j3Ae0w41GybVgvOHkgqXbHMvO9d8LIc8CNsg8FoaWG0tHZw2mZQ3jrI9jBqDDHMQv2UnIuCmVtW+4=;lYrKgCdxqIrY60mqsWU1MQ=="
 ---
 
