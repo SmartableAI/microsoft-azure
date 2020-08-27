@@ -1,29 +1,26 @@
 ---
 category: news
 title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
-excerpt: "They will bring those workflows into Microsoft Azure and ensure Universal’s ecosystem of partners can connect to them in open, standards-based ways. This partnership will also enable the development of near-term solutions to accelerate a return to ..."
-publishedDateTime: 2020-08-21T15:05:00Z
-webUrl: "https://news.microsoft.com/2020/08/21/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions/"
+excerpt: "Universal Filmed Entertainment Group and Microsoft Corp. on Friday announced a strategic partnership to cloud-optimize live-action"
+publishedDateTime: 2020-08-21T15:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-301116222.html"
+webUrl: "https://www.prnewswire.com/news-releases/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-301116222.html"
 type: article
 quality: 8
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/prod/2020/08/NBCU-MS-Logo-Lockup-MNC-1024x512.jpg"
-    width: 1024
-    height: 512
+  - url: "https://mma.prnewswire.com/media/24227/microsoft_corp_logo226_9217jpg.jpg?p=facebook"
+    width: 2695
+    height: 1414
     isCached: true
 
 related:
@@ -137,6 +134,6 @@ related:
       domain: imdb.com
     quality: 11
 
-secured: "xUltzs4tPI8LlW7hkJmpNkK6yRDnQnxuF5Kacp8LgFxAG9CJ4r01Ij+Skxs/LMX+YV3B5dc6dpjHGB9nfQDd/Efdu5qAQ7kn41NNsur4Tewea3CpQOPcgDJxJnynf/cek8SERtqQpy43qW8kQarlkPIU2bZX9IY2fX8VUt7BpVPVOx7PT8cvuFK1F/8H+a4TPSc8BW3vqaDOXMesCa+uvUWfUv+QcO3LBtLRVeLGHblAZUMDM7r/gKlCzxccGPh8VOXlkAS787NZ5mx1OVqOiSmKlU0FKpAsf/5e0GLEPa/7mXdvg2j2eYfrXrA8GIKW6JWKpIUNJMW4mtZAAI3zBw==;yhPLEeES7Tg1EpiKhLX5Qw=="
+secured: "KZ8J+xl65bh+ZiGMaVN1E95gusrtjx7vLHlsNuKsiO+kv6NzDBsl/rP1PWlxHWkzibrvbcfmi8I7/TZ/0raxfArgF2qjgWNxtMZHIJroEK1pmoonqgHC0GSAOjS2bIxlr+kjan0HltdmoNICH7QFwgXKvxRMT+mcIf1xjdvHacN0FORZTZkUv8gRTDN4CKOOEuFCzS+PQSo1FePwEQ+mU3h7ykWIEUfdyXu237pxeJtk2eRqcdH8Ha9j9O7vKnwTm+nC6w6gXNpWWZhK/IZNU+mUnC3L/Aa+kTuyvg4qc45Lw2O6NW3YFZgvLCs9t9zqrZWlm9sgy2PHXX0++ohylowoVmJesTk2CmN52RoYq3s=;BnebaiPjwk2RLXSYEdQYiw=="
 ---
 

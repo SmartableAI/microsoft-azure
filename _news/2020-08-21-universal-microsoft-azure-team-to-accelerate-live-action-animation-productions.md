@@ -120,18 +120,18 @@ related:
       domain: imdb.com
     quality: 11
   - title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
-    excerpt: "They will bring those workflows into Microsoft Azure and ensure Universal’s ecosystem of partners can connect to them in open, standards-based ways. This partnership will also enable the development of near-term solutions to accelerate a return to ..."
-    publishedDateTime: 2020-08-21T15:05:00Z
-    webUrl: "https://news.microsoft.com/2020/08/21/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions/"
+    excerpt: "Universal Filmed Entertainment Group and Microsoft Corp. on Friday announced a strategic partnership to cloud-optimize live-action"
+    publishedDateTime: 2020-08-21T15:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-301116222.html"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 8
     images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/prod/2020/08/NBCU-MS-Logo-Lockup-MNC-1024x512.jpg"
-        width: 1024
-        height: 512
+      - url: "https://mma.prnewswire.com/media/24227/microsoft_corp_logo226_9217jpg.jpg?p=facebook"
+        width: 2695
+        height: 1414
         isCached: true
 
 secured: "ovAq7t6hx85GbH4hiZvLx7Q+SmXOvznjfhPCar8qoY64WZPDl6gH10OXpJ6iLq5TJt+wg3SuJUVXxnl5TTafSJEmh/ga+AbGvFp5e/qF6ctFgz5ONOyWU1wvg6rWxT8AadNNpJJwRe/zWBur+e1Tc3/diggezLMch3vMr5/MB0/Gb/spwWtT6whlxg3GD97O15wygSmJvZL7atmocNSgJmLoJfcaAUpcX7HMCqrOMXc6iWqNyH7mZwd/3x1beovHyAZIIaB9f7mrNGz9JQp/sZvJjPSwmaHG88nyDPqEvW/4k6RIaFWqOWYDvCGRAretFCFXnh7laYlJgzqzo2+DToWYPEOjpsGwy5YX/XYGCBZbwt9WtHPRN/TZxABuhipigiDpXWQLECm7WhgrAdYIAPondaiBfTSd05yfjULQT2DBfIp8AkRTawyZaRKGLVADZ64ClkV0KfzSkr6y5qwhjJuSPdXgtozm59W6IF94paJN6XRYa0W6gykrlA1Wbo9aRxXkiEzHJX1NayTG7HTQHQ==;EIkDIGJhvnumKUmqz0l2Dw=="

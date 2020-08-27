@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-12T18:00:30Z
 webUrl: "https://azure.microsoft.com/en-us/updates/improvements-to-azure-vm-backups-are-now-available-2/"
 type: article
 quality: 87
-heat: 188
+heat: 187
 published: true
 
 provider:
