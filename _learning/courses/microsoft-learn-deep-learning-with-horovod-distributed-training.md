@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Deep learning with Horovod for distributed training"
 
-secured: "vI2b2ss0FFTFD8KT04s+uiAlI2ZzEnLdoEZ4qFPH2fl0jVUcKGp1mXX+h+jkuLRo41M3cbUj6c8BMYW1djkd//u8FuYrx0M6s7dyum1u+9e8wimLSWWuHxrSEIu9F81IP/q1EpcV3NXecohJlnrWgZTPE+b/J0OURM46zYehvGQ0JRcnlpEDGNWZVEB3G79aT0wY7JdAJIDwyPMkW+03fw0FFV5qkSx08vLYaCR7ATezRrBsQUmfT66yn7TqOD1rlktLyiknhnjZbeN5Etk0+3v8zJdHsSURhjjoD76KJTKFALh4TXkTm4kEi/XNN2sssE88v2BBemJSaYBMeL+Q+pMu5WXJHu/6BtxM94293ppQ9ACYHdLGspfvI+PYIkzHIZz+hT+IujqOPEAV/dkSGg==;cwpdoESrF8PDMkesTtOSlw=="
+secured: "QYMTUqJcY57YPcYjBilOW+9EZQaTbAM57XhXGalXoqm/v+WJPDYYPba7E0mlw1+4tWsQwzYjFaZPPn3WHZ6+s3b5Tze0l7EOt1HIslarTnjKgerha+GzXZthZoHm/J5Uro8mm9TTW/KwOPiqn/kJrCIXt+gXiZjIdFZzN+rO5mXoFM/WkuWLYxIcbH7LD+IZ5BwFoazhhfSSgkCGbWSvcajZMgpohR06H4Xq+ptA5rMlsemSQSRsjcU5B5DDi6bzjDmpfgRMSz1YMVTgp9JcyezjRK90RpzG5C5JR0iHo4MMalANNUGi9S5Z9A3zeyAbASegqP83/oTJqYJxpYR93W1/0K6oyQotzoX1lw0DWfhkJQgWaDH6TVnNsQhcNGPFoLFnuMlAQfOTdcKUvQ/KM44bRXQSeWJ83IyE1q+NQ8s=;3LnHAf/epW8BWirQ2GD3yg=="
 ---
 

@@ -8,7 +8,7 @@ length: 36 mins
 ratings:
   count: 4265
   average: 4.7214537
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Microsoft data estate migration and modernization"
 
-secured: "yXdMBLE5V4nMJZqJmOHkglybVuYPkMjk/MadEpHQep3s4Q6HP5/g5YH3dsMsSMwI7/mTdqEdWVGncgRe8bKX4HFtsk0UkvqXbkNBmZJ6+3MIGL6qReSxmegFZ9WFNxSCkRBbQK6S3jFLQDsBu0HmOmUb0f5b/aXZHh/ou7PkseGVZGHcp3NuB3BjfCE+2uJrP2uCHjJvQyPAmT64bTgprJ/BVR7F9P2diNeTzogaWQcGHhKB9KBmvTWMGK/BHjyk5k86qLdYrwI+GvdBJUD9syIdM7hq7rThhLOWO+273NfHWrnuYZPgqeTLVYng3cPP0jqIxBux+2dtn0He8hRGtjgwl8EhJKcG2vwLvCTwqRUcP4XD+ZhOzM6Q6gBaMu56CcRycFEgc364Ibaty7Ms/Q==;5oAb6Oe2uNYt8oeWqgJ37A=="
+secured: "mquQMZciD1V1eAke8iJFokYFExh4Ua6GUvPzjAYXl1OlNi3wLYdinfUF9Khi10Yb2pd152d2OyHXnX/FIYQOJm83C5JgyesnNv9LVN3gIl1UVXNjbn0AabOh3RV3YXJ2PpZtwAcEk7cj2BPwL8X6Q/uRgeu9fdqmvmV6VpRmIQxCLDc9rRbmdTANxeVo0HcaRNNA9RzZsIrdssVRYYntDYwqkNKaMf7VcveZFQwh+RHW7zyquH8jOltJnmD1UWOkMOXFpCW9EStzI+KtHdb5NqW9h6o8yN/cLVV3ITbHjrCLIKtHqVAoBcIMqBS8GIXNrqRrVFjlDpcXTI6LKZWAajHkdjTpPWR+Jb0JSsP9H5Xs5SgYszLXbZJ6J2Ahz8hKcYzk4HLLrbGtxerqKpjC4K/FFGEsM5/WAzk+D9b15vc=;HEdhvYpD81zUWod8XOZ2lQ=="
 ---
 

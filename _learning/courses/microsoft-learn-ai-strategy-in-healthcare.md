@@ -8,7 +8,7 @@ length: 40 mins
 ratings:
   count: 621
   average: 4.78744
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Define an AI strategy to create business value in healthcare"
 
-secured: "HqHmdaCv5vx2QuL8Lfyi7P00FgZncLVo8u03i5rBMm/2OzSpup0JaXX7l31fLtdt+GO6u8Gxd+KDRJTm4GSWgp6oVl+/oVuZ09bloGQ3Eh+cIkS5fsMt9dF1u+Gob0KCEQvMLDGejhsNegdlGyv7ouo47pFPgH26SBDarrNMc6r9osN+amrM38gjUg0RExz2iIrPUKOc80N110L5HC3uNVi6BRQiawP92GjISJQhuHTJmXqIYwDOe+8Dv7CVuWH8fKGYHDLMsNvAvQHLwdd/I9wRUwfn2pdpEU2zpUS973U9SNJCXCToVee6pv1DDB3TJ4uw0rGhsgvdb/EX8hWf/dApMsGRbaWkTVI/a2JwmjrgSCuyF9cHAwDQVh2YsudVNslBFKaWCrDtt6i2aoqlyw==;pe8aj4x1NBrA0/BFxMZD8g=="
+secured: "LHZbPeaTUtCNE87qX2tUUlwHv8X+2YBWZgpXayoj/X6Oqbl2h2u7ggwdX9KzPDnoUDtgCIcyKMr3bymaWMI2dXLdybW653O/a9+ERokxhISioNCf9ywRbvHBVBeQc0c5HUnSAtQY0hKbqCkPNsoJDnirS6ZxHj2r+17iXcIKX/1zp+SGmjgpMWgvfzVU2JFNFErY7kiPsbeVV7h67qwQDxsg+/NIu991fVlnxMs2XY1EVIhsPAoXLdoMPuUBzAL//JFbb6RTbA6IoEtIcEGYSdvvpWaKh3UEyfmcpa6vgm81yhjnqGZl7rgFTs9tJ5NqG9LWBP5Nqyt/MJ1ZzIWDJCg3QLSEl2pEG4e7RHa1ITHsmocZcQPvFD9Vr2mL8l3OD59gcOZiOQnqDpGMhM4TTfSzYUfV0FyjnLdwCCoZreA=;Ep39PlpvdjRSqaY06mqOhQ=="
 ---
 

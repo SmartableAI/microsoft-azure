@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT18M
 ratings:
-  count: 167
-  average: 4.57485
-heat: 50
+  count: 168
+  average: 4.577381
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Synthesize Text Input to Speech"
 
-secured: "8JA2VnrV9PwZ0Ph/4UhpIZ2dAtDONGkMuXF4m7G4y1lRS8Ao8kwAhrWslFVRkZo/g46Y8z/df5o9tu8zr/0CveCZCvcEeR3HFDXNsbxUUwBphyaA37J5DTSy5MFlq8wJKFGHg80smW5Qk7A+1uaUvVwyyv0UNsrmRrSNEaZzKsiFxusGiLvM2QSOoLZcIEkIm/Qlmn53nstSIIH7J8DWtIgUFrImXFKAyiikzaJpYlIqJqDQGJDKTMrCoIIzEN/lMdP5NvzwZo6N6D5nT+niDZrI6UCX6VgfZwAcqSVzpXS88paQeNz3NuZTY5fDGhfOwdCXUm3Dz4q4xzLT28bS3/RiIyC6vtxcCQipS45ThsKnGBcELP+IlR2SA5yVoJNkhjQhY/MRCrBTOpnmgc3coA==;6TAO3MkwjIgbOri1+HC4PQ=="
+secured: "AR6LUI905fkcnVwgNF0XSDRFxVqxBANZQE1wR6spkYICrH298e46b5sGmfd8oMtLDc0n/GdEPj5xl+2AdUQ9ZbtWZ5u1trYXhuJF4JiFkhMmBwDvlp0shM5BU3sH9+/PDE3fq8jecRpcwRaT1JL/vYhjkS/jBw+NQfWQxHnlqjD9vnjGdQREUzDftVx+5k6UoyjLOt/GLhuujmrhKulhHJnglgZFoJfg9imNbVSTzHRFT7OUYasTlioaEhcpRptRRzjrTrTfzWvySq+aawY6AZV2JSJc9lGh0qc8nysQ96wYLozjZJQ2VO455PWWLagGgCIXRdneTl2gkTV4XjWonl+yDPJw+G4I9euC1h327Hf20o5mv5hRz7xirm1slK6DtGkO0H2CFNfQqLxOZUBUP9BQKcaenYJ+L9YmWW2+0jA=;g9rNugJSarWCaTzDpequBQ=="
 ---
 

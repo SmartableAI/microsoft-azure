@@ -8,7 +8,7 @@ length: 21 mins
 ratings:
   count: 1172
   average: 4.662969
-heat: 60
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Identity
 
-secured: "Xgnl2PAQHQTjPnTF1zst/JFfs+5S2RvexhGyr+wXzCld16LwXSEVsRLML9WQzvvFK6mKl8ONmU/40hhhHyqPfiYQnDPm76bAkzdpMPz6iWgQQBkK+6qz8OMy+bnH5sxW0MxyT/Qvo6aR/7yXfYC81MlQ8Mqskd02GIF+tbxmXg+UN489hFefjyDxynvtQWYWXgmXY7Yvv9nM4+ABvj9eN5hHTdQAXXvVAc+ulkrqFTXW0/uRnhsNuigt7VnIiUu0DG+GkzHUkM3c4+9r/KnEgO1e/8Xrr0V7rdcvk1K8gYeS9x3Fygm0QS6pvmGpLPNJt2Uc3Niw5shsPfRPIOgc/Hog3fp3mk71OWFEeStYs/qofe5D27kmuZglHr73YRqSJwIue6QOhRLJ/6LUAT2a7Q==;Wm4yE6siAo5wdPbNeqXPWw=="
+secured: "UxSuaWhuVJmYSjKhiL12nNaqZBrBcgxkH9vhvnZw0+TnmysFF4vu+uDAKZphD3R+sLmyF/OagnKNme+Ik40WYbiM+NgBcWYEcQDkWn2cyKM+DSKkVJ51P7/Q7Gf1BbfYbGzaEA/wf2NuvUzlqbn7EzRqMdYQBJjBe91TOaVTdOFzt9OQtYMI8DoKD8agFX+ZUIrauw4SeQI/ERn80fISs8hCYSvh+uKM9fv2ituIaV4Ys/6DDITZmg8va1ITEfjQEVqJZ5vbQ23YP/O2YulTVn+0e5Q5cdd+dKu8DSykDkUJ4n8EX94c09389IxUi02Z/i1cDcorh3EoB/wNxYq1KxU1YYfEZARfTpJOJjYmp6/lw3FDdHTN8LPBMfWsVj+mjSr/6PZdHzDBMc7VfTvUN0mX6Rl0h97Lxmbwb8UmF20=;lan7dvPyD2sPJrW0DQi8Tg=="
 ---
 

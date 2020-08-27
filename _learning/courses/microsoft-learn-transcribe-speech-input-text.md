@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT27M
 ratings:
-  count: 205
-  average: 4.6634145
-heat: 50
+  count: 207
+  average: 4.657005
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Transcribe speech input to text"
 
-secured: "oxiFxLr4vGcIE7SIbHNeNKiZUlmTRQ4CtM8qvHTBS9LM8P3WURIrirAxC7Cysh/pcQNb4uS6Wbt9qAs9J3NVm73zlfIuMnA/Nt8PX4lPDf10FoPVi5sX2jbdFRQmj2ad0i2Qo7jjB0qwhWt5GivAaOxZFa1uJp/4B0D4Xx40digBOLE2xCoAJAlfNOU0C4x768CXGh9j6L+Wxylt60QxG4KFXSpEc2XW3fQcKxQ4PncVN8PROuJJfLfOqZqKaUkB1rjWh1wAVHxny3MQXADZzhSkPFAOeaF8jq7XmniOoywoqprIGaqdCbM6Jx782jJhs5q8o21QyNfYzNhXYk+6/oUNRkPhX38F5R7AFK3cRSATAtAFwy+BSzHCDQpBDA9fifv2tnmXbpOwOeF8gsAGwg==;FwdCDpGbd17rsy1xLeDhew=="
+secured: "HRhBNtB/BII04vIOEwgiStXL8uhClld3nGVxAPLiYcEIF20U58Z1CBgvjag5ujZxuTJVTO3m4x1OyOgrUzwG0F+j4dwQuu0cWb2q0e4nubeS4ybFYZqz4Dn2GSoj6g1Kvl7vfMoVgrhawRmJQCaQxqinYoEfxwL5YKYa0Z0NolkZdzU5HhNwCoU24Crbagh+Rhehzx7vaUYvKQqB2p2Eua651z79t1+q9cGaNloYpT8rGhRZwQJbWeffj67jjMjritUgYx2Z1R2Dfcl44Gz1KJI/j5PCzQzuRR5NcXPkmZ8HDpLBKX5gd/wyW1p/ZZ9ENj/d+VBXSatLO6Zjaih5iljaF5EZEarUuAd5LOcUlOD/7asr0Ocsyls1banTRUba9nyV2cxQ2RBQm2RPTOZ7DpiXp6R/fJxt5dvg3cYcRpM=;ICdF7SFuSi4m+xQo/o7pkA=="
 ---
 
