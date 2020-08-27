@@ -1,23 +1,27 @@
 ---
 category: news
 title: "Mimecast® Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
-excerpt: "Mimecast customers can now take advantage of the Microsoft Azure Sentinel's scalability, high availability, and security, with streamlined deployment and management. By logging email activity in ..."
-publishedDateTime: 2020-08-17T09:50:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/08/g17115771/mimecast-email-security-for-azure-sentinel-is-now-available-in-the-microsoft-azure-marketplace"
-webUrl: "https://www.benzinga.com/pressreleases/20/08/g17115771/mimecast-email-security-for-azure-sentinel-is-now-available-in-the-microsoft-azure-marketplace"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17115771"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17115771"
+excerpt: "(GLOBE NEWSWIRE) -- Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure Marketplace,"
+publishedDateTime: 2020-08-17T09:30:00Z
+originalUrl: "https://apnews.com/4710425f0bbe81da97cd4d269601accc"
+webUrl: "https://apnews.com/4710425f0bbe81da97cd4d269601accc"
 type: article
 quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "AmploFly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
@@ -280,14 +284,14 @@ related:
         isCached: true
   - title: "Mimecast Email Security for Azure Sentinel now available in the Microsoft Azure Marketplace"
     excerpt: "Mimecast Limited, a leading email security and cyber resilience company, has announced the availability of Mimecast Email Security for Azure Sentinel in the Microsoft Azure Marketplace ..."
-    publishedDateTime: 2020-08-20T10:34:00Z
-    webUrl: "https://mybroadband.co.za/news/industrynews/364426-mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace.html"
-    ampWebUrl: "https://mybroadband.co.za/news/industrynews/364426-mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/364426-mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace.html/amp"
+    publishedDateTime: 2020-08-20T10:36:00Z
+    webUrl: "https://businesstech.co.za/news/industry-news/427380/mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace/"
+    ampWebUrl: "https://businesstech.co.za/news/industry-news/427380/mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace/amp/"
+    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/industry-news/427380/mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace/amp/"
     type: article
     provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
+      name: businesstech.co.za
+      domain: businesstech.co.za
     quality: 27
   - title: "DataVisor Now Available in the Microsoft Azure Marketplace"
     excerpt: "DataVisor, the leading fraud detection company with solutions powered by transformational AI technology, today announced the availability of dVector a"
@@ -308,6 +312,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "p3bU4yzyCV2sKxidE/rgASOMrtgLVxxiKPlTLglH3u01WDEJAf+INgyqNAvkGX/fCfHnKigJTD5+5Yb5imQ6PxV77TK2opnSVyOSIVTNpsfDbFm8GelWHY0fmjzUUthQCL2GrR64QZd9KCDZNfjovAvFpq1wO5SugucX0rZzKT+D9A6XmEmvsr8zbqh95qCpzArlwiLP1Gxk0Juit/Nz4ljgwQlIHfw55sMzOESu11JMcrjE0oOWMrlTrXaorXTPvzgaUVUL7BUvJBB6hLgghXvx7ysW306+vDR5OZvOyJCwurt+C3migNjP8jZK8Fnr2MduGQSxUFYX1E3ROQzJ2JPzXyHNHayFdj7uAEFOp10=;+7wyYPXoXgPEuRRDm+tMWg=="
+secured: "4i5jzzPr7sLq4Hhiz/CXtexEXlJjwPdkUZIFguKEnEIPxnOwqHEwGVl8mSP2+rdWOlU7XoeMxhZfOXrNCjNaUhiVurscXr8Dgi+sMj2qxCIMz7WTerOvCirmlhud51R40ER8FcyDfxJEIlFynISHcf46QSQDx/m18+iCQ7Ju6BHg37YKkAygF1VZPWVK8tyjLIqNUbkKEFeQM4UDHwxvnmaTivT/R8ER6QZlJJsgae9HGrogRwRAZiZiMaxrsFOPzPYTsYe7yJ5VZv1xCY2/hw+zSuBJK85xtA9219R674AKvAxoVBMhTSt/sguBMwFz9/2TzGlX18FHHjWdCCpGsHM1om1IIhh0PtR63n9CciI=;QnLF2VSUrSjNPGeSed40hQ=="
 ---
 
