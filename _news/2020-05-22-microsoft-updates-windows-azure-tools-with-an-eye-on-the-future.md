@@ -8,7 +8,7 @@ ampWebUrl: "https://www.pcmag.com/news/microsoft-updates-windows-azure-tools-wit
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=true"
 type: article
 quality: 97
-heat: 157
+heat: 177
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
     quality: 37
     images:
       - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BrightTunnelSmall.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "Microsoft Updates Windows Terminal and Azure CLI Tools"
+    excerpt: "New Windows Terminal and Azure CLI (command line interface) updates were released this week. Microsoft delivered a new Windows Terminal 1.2 (stable version), and it rolled out a preview of Windows Terminal 1."
+    publishedDateTime: 2020-08-27T16:27:00Z
+    webUrl: "https://redmondmag.com/articles/2020/08/27/windows-terminal-azure-cli-update.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 37
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GENMeasuringGears.jpg"
         width: 647
         height: 450
         isCached: true

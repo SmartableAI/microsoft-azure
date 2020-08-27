@@ -1,39 +1,33 @@
 ---
 category: news
-title: "Mobius Logic brings drone flight management to Microsoft Azure"
-excerpt: "PRNewswire-PRWeb/ -- Mobius Logic, Inc. a leader in next-generation digital services, announced today that its Federal Aviation Administration"
-publishedDateTime: 2020-08-21T15:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/08/n17190966/mobius-logic-brings-drone-flight-management-to-microsoft-azure"
-webUrl: "https://www.benzinga.com/pressreleases/20/08/n17190966/mobius-logic-brings-drone-flight-management-to-microsoft-azure"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17190966"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17190966"
+title: "Carahsoft Brings Microsoft Azure to Its Public Sector Customers and Partners"
+excerpt: "Innovative Cloud Solutions Now Available Through Carahsoft NASA SEWP V Contracts, The Quilt National C"
+publishedDateTime: 2020-08-27T16:07:00Z
+originalUrl: "https://www.bloomberg.com/press-releases/2020-08-27/carahsoft-brings-microsoft-azure-to-its-public-sector-customers-and-partners"
+webUrl: "https://www.bloomberg.com/press-releases/2020-08-27/carahsoft-brings-microsoft-azure-to-its-public-sector-customers-and-partners"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 74
+heat: 154
+published: true
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
+images:
+  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
 related:
-  - title: "Carahsoft Brings Microsoft Azure to Its Public Sector Customers and Partners"
-    excerpt: "Innovative Cloud Solutions Now Available Through Carahsoft NASA SEWP V Contracts, The Quilt National C"
-    publishedDateTime: 2020-08-27T16:07:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2020-08-27/carahsoft-brings-microsoft-azure-to-its-public-sector-customers-and-partners"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 74
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
     excerpt: "They will bring those workflows into Microsoft Azure and ensure Universal's ecosystem of partners can connect to them in open, standards-based ways. This partnership will also enable the ..."
     publishedDateTime: 2020-08-20T23:59:00Z
@@ -48,6 +42,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mobius Logic brings drone flight management to Microsoft Azure"
+    excerpt: "PRNewswire-PRWeb/ -- Mobius Logic, Inc. a leader in next-generation digital services, announced today that its Federal Aviation Administration"
+    publishedDateTime: 2020-08-21T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/08/n17190966/mobius-logic-brings-drone-flight-management-to-microsoft-azure"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17190966"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17190966"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
   - title: "Microsoft Azure partners with Universal Filmed Entertainment Group"
     excerpt: "Microsoft and Universal Filmed Entertainment Group have announced a partnership to accelerate live-action and animation productions with Azure-based cloud"
     publishedDateTime: 2020-08-25T09:08:00Z
@@ -72,6 +77,6 @@ related:
         height: 512
         isCached: true
 
-secured: "KKGO0OmPLaptrQ2sMrU88pPB2QQ3xooK0SVBo17W3bObxuK2moGAA78bnbx3OZ6AIfzJUE+O9y5MeUsMe7nEm8xlTihCpFzvHXEsxuq4svj7rObCpq4/jvhe0gMaVuhmZHP4AEbOc7xjelind2IRjOh5/OPK34Mj62z+VFcekrFdO2mAGHmfXrmdgICWIToN7dCj3rl2ix0Ce3n9H+lCp6kyedMe6DlO1KcIUgCzChw9LsatTyHL1B4U5jNi5JFMq9FeukTS8ZfGUoFXtXh5ybaXpY9yf7BfM+S0zordDjAXbu3T1gS33/+5MjGDRhL77u4Fl6D4WoR5XZLbmF3gDDEv9gRhLJcAsywRukEIfjOTOb32mgzLdyHtTXsFOw7duUPC1Br4Dxv7szTWMyF0iBKS78xCPFIIYEMkKmVE+HoyPvCeSnaMl8v8kx/B4OF2qQoJQ+7VMSDECzQauaX33jkHLEzGUf6g/8Zdk4MbBWp88CKVLh5IS5vAdv9v3CEB6ezsZAMz82GDWtASSY+Cr/sM2JjZoBLhEuzHPacWjsI=;71MObegQv2F76Vys80ckSQ=="
+secured: "s8ZQHzv3tFOGRyWVHnbLodbxHatipDOVM1O/gEeoXch4V43NUq41ug6OvOa37pkAZnQSb4jJrPef9Yg14JaerXmeEdsFV57ffxjjfAh9GZl7UTO0FGg0HtqwPyXEub5O2nKjbavD8KIwx2wd7N3aogK6rt5S4ftwvZ0RZRVvkbifV7S2sr7xW8dkgtJQTDmM8CYoDGJGNEOV+CR5OUdcYa4x4nKbbiKp0baPh65LudYfQBactmmarTp8Za6f2zvUsbm7R4Ezk16hUekvNoVlMZFNZjkMug29A1WMVyT0I0McBBmnTqt9Wq6I0V4c6oilR6ZKeGGXHF4v0mokASzyxrrfG5v/dncN+/ncY9nqKZs=;UL3lThFP1w0uuLap/LA6fw=="
 ---
 

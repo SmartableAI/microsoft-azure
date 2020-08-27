@@ -56,20 +56,6 @@ related:
         height: 563
         isCached: true
   - title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
-    excerpt: "They will bring those workflows into Microsoft Azure and ensure Universal's ecosystem of partners can connect to them in open, standards-based ways. This partnership will also enable the ..."
-    publishedDateTime: 2020-08-20T23:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-2020-08-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
     excerpt: "UNIVERSAL CITY, Calif., and REDMOND, Wash., Aug. 21, 2020 /PRNewswire via COMTEX/ -- UNIVERSAL CITY, Calif., and REDMOND, Wash., Aug. 21, 2020"
     publishedDateTime: 2020-08-22T01:48:00Z
     webUrl: "https://www.marketwatch.com/press-release/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-2020-08-21?mod=mw_quote_news&tesla=y"
@@ -83,17 +69,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Mobius Logic brings drone flight management to Microsoft Azure"
-    excerpt: "PRNewswire-PRWeb/ -- Mobius Logic, Inc. a leader in next-generation digital services, announced today that its Federal Aviation Administration"
-    publishedDateTime: 2020-08-21T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/08/n17190966/mobius-logic-brings-drone-flight-management-to-microsoft-azure"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17190966"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17190966"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
   - title: "Signal Sciences Announces Advanced Protection for Applications on Microsoft Azure"
     excerpt: "Signal Sciences, the fastest growing web application security company in the world, today announced an integration with Microsoft Azure App Service for the Signal Sciences next-gen Web Application ..."
     publishedDateTime: 2020-08-04T14:46:00Z
@@ -117,20 +92,6 @@ related:
       name: IMDb
       domain: imdb.com
     quality: 11
-  - title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
-    excerpt: "Universal Filmed Entertainment Group and Microsoft Corp. on Friday announced a strategic partnership to cloud-optimize live-action"
-    publishedDateTime: 2020-08-21T15:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-301116222.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 8
-    images:
-      - url: "https://mma.prnewswire.com/media/24227/microsoft_corp_logo226_9217jpg.jpg?p=facebook"
-        width: 2695
-        height: 1414
-        isCached: true
 
 secured: "xtkHw86lQfJNw+8NgFNeAcftzTrON3hcn4c8HloWH8uiLOUcDi2iQxpdl0y58E9cFuQrBqPD6dXKHZQfjnpr5QqLjWBHh7ufWv+JHjjpjN8xRKryzLgSVuNHXXdnSbjcHLSDgh81xF1B1RlCCOic8cME5/c+cKXiz4D+pfdqosXfAGKLW63zAFBWOfBvA6RmdBnLEpp7fa/r41fdzvm3bhRnPv7OmkD8gSkcwkqDETWRgyqNoqBzcaxmkwOwXB3koV/Ic0swOYQW2xPEckj5lqq3xC2mrZnnyHKwSop9FJdpBD9gS3jN4Rc/k7AnWKmFo2Z4TF9ifuCQZCeRyG9HTw==;XcttB5YDrAHBYiP0jBGzsg=="
 ---

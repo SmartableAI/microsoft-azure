@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Microsoft Gives Azure Lighthouse MSP Tool Some Attention"
-excerpt: "Microsoft Azure Chief Technology Officer Mark Russinovich provided an update on Azure Lighthouse progress in a blog post in the wake of Build, Microsoft's biggest annual conference for developers."
-publishedDateTime: 2020-05-27T19:51:00Z
-webUrl: "https://rcpmag.com/Blogs/Scott-Bekker/2020/05/Azure-Lighthouse-MSP.aspx"
+title: "Microsoft Updates Windows Terminal and Azure CLI Tools"
+excerpt: "New Windows Terminal and Azure CLI (command line interface) updates were released this week. Microsoft delivered a new Windows Terminal 1.2 (stable version), and it rolled out a preview of Windows Terminal 1."
+publishedDateTime: 2020-08-27T16:27:00Z
+originalUrl: "https://redmondmag.com/articles/2020/08/27/windows-terminal-azure-cli-update.aspx"
+webUrl: "https://redmondmag.com/articles/2020/08/27/windows-terminal-azure-cli-update.aspx"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Redmond Channel Partner
-  domain: rcpmag.com
+  name: Redmond Magazine
+  domain: redmondmag.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BrightTunnelSmall.jpg"
+  - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GENMeasuringGears.jpg"
     width: 647
     height: 450
     isCached: true
-    title: "Microsoft Gives Azure Lighthouse MSP Tool Some Attention"
 
 related:
   - title: "Microsoft Updates Windows, Azure Tools with an Eye on The Future"
@@ -40,17 +40,17 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Microsoft Updates Windows Terminal and Azure CLI Tools"
-    excerpt: "New Windows Terminal and Azure CLI (command line interface) updates were released this week. Microsoft delivered a new Windows Terminal 1.2 (stable version), and it rolled out a preview of Windows Terminal 1."
-    publishedDateTime: 2020-08-27T16:27:00Z
-    webUrl: "https://redmondmag.com/articles/2020/08/27/windows-terminal-azure-cli-update.aspx"
+  - title: "Microsoft Gives Azure Lighthouse MSP Tool Some Attention"
+    excerpt: "Microsoft Azure Chief Technology Officer Mark Russinovich provided an update on Azure Lighthouse progress in a blog post in the wake of Build, Microsoft's biggest annual conference for developers."
+    publishedDateTime: 2020-05-27T19:51:00Z
+    webUrl: "https://rcpmag.com/Blogs/Scott-Bekker/2020/05/Azure-Lighthouse-MSP.aspx"
     type: article
     provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
+      name: Redmond Channel Partner
+      domain: rcpmag.com
     quality: 37
     images:
-      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GENMeasuringGears.jpg"
+      - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BrightTunnelSmall.jpg"
         width: 647
         height: 450
         isCached: true
@@ -78,6 +78,6 @@ related:
       domain: seekingalpha.com
     quality: 17
 
-secured: "/J6DCl8RD0H/vzRREh2vsD98mJbk+ROWZ1S2aIesrol6qJM808v499O/gtOCfTGoC2F89ZCR4lYOuw08dq1zKA2ImelwepQpcRmuAMKtqzrBnAEO5NvJuAHCzphbqfd+AEPqDhvCwTsnbRL83W2xSz9BC1sdRkGXxx9Q3ZphQfBmLDx5fZG0pbyEFO03zqt4jc0NJdWG7GbjuiYZOSAmA6Ud1IlLolvXJnCJqKaErqOY2GiaBSFTF9vQ+fsic8cIGsL7k9AT7GB1+mIYTGMPAaTvIpTSMoOvy6K9n5ZvtoYEvRf8gLCdNNbiCM+o8ZaIFQVqzyIaVAYs6hDBTIgnbZX2TY2uR9/Xx/beLieLpHqoprJzhfGRKjl1HvOKAJ5U98N/QCpXAIGG5Trmwla9nZDIX3Gt+Jdmv/HlIO3xDB4gBtFEjmMg+lx3yo9RnqepZd5hV9yyg87EvHDk8pTG1668CGPFt35e0CF8yqLEpFY=;ZZtpfRS7vT2WLU5md5l5QQ=="
+secured: "pxYH1CMWFof5Xvb2TY20s1P8EyZ37r56U03jRaUdkg1i9xIDH3cdE9qq1OQLbNDGe5BGAQ90UZEK/d3YGpqoljuy4v/3BxFF2sk7VvulHQS+bH0bPsfYnaNfUArR1uqv22HlrR1gO+8OGp/7sY/XuXg2cSt7vdIfixp7gr0/8rrxGw7VyC5z7suJ0oNaP84ayEO2K4EYQo5et+RfruewCSHnjrdI08XvHSV2Wg9Bmty7Q7VqY2+SGlnOnSWByrhTkK04DvPR6JuYHX+SLGIGtWCMR6kL9uIRgBA+2tZJFHittsXnZz0K29ilZn9bW6vsBg6Jm4y+Hvw9G7jLhs57Ee8rXwwMtRih7S5NIC8RGZs=;PehARREvpnb9TAP+zDbV6Q=="
 ---
 
