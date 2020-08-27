@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-data-explorer-crea
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-explorer-create-a-table-with-the-1click-experience/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
