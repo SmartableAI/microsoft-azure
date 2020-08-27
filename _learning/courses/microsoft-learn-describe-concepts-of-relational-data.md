@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT24M
 ratings:
-  count: 329
-  average: 4.8206687
-heat: 55
+  count: 330
+  average: 4.8212123
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Describe concepts of relational data"
 
-secured: "RQmmry1E4NVy5/aEt90SrUyDPWrkyLsvcse1eC8ZZjlMnJ48sgzkPH3KEyhIIP7uQM59kWLfBDv94awQZi4T0dh4IimP/9iDf7DDO0wvEuN7t/54RtPjWI2IIpnhIll4OUwsy5Wypj/SG82a3+ujbc+fP9MuUfFtcK1U36YqAqbNHz+l1XvXO318wcSZ5LdBpKLlEWF8Kb5IuSjZ8ccXC0Vfx/6lBmHt7Za+j2LBTJKSPMZlhHUZgJztz528t3wy2Qo6WSyHsZvcbB1tj67286kryxjLfwdRMy/NEpdjUZLKl9NfiQZSboVpQ082YtXHczNVvYCZpchi6Jjx9pEmVaPqfmksHtzuA/zOtFMoDAmalXVgIuszq7TZhYW9yd6zm9FKQKbIEl+9AKx5jKQF+Q==;PbgIhhciI7jLeVsi7rq5lA=="
+secured: "BuEvY8KACV4FEL8dfdNjR/5qxLoBM7L6QBa8rPjc66b0iJKHSIWvLxQ9eLpcFCX8oo3sUSDyhdnpmVRgdqTzxyfoxrDEJBKKPueLrPVZSY87RZ7EPPFFVf5C7uW0/ozp7Fv6NgVpIVj+e8aODitTL/Ewwfs6L37sU/Zg33JKoifRY1ksRKZH4mDrhQ+36s8cfN2oltHF+uypjENdfzz+Xisok2maMkA4sT1vZZbcViVTGF28jEgO4kL+L+UPv8r8Uhasfwa4ZZZn1l+4vZz1gd1oPdfjM8gH67l/DTldoC0+uY31LQF9czijYIpUTiVbt6Uh519Xt2OZET0FALZDLmrJDtzXUDgT8g5e8AcHtLlY5U7vtf+oxIIXiz9PFC93YFECyGdz8bXSPNpH3q+STrYkLWHO5jvi896FtkcwQ+k=;LHQ0vn5Q10X/nnJBkqvmew=="
 ---
 

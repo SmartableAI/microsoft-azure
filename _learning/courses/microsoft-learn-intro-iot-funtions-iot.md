@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Introduction to Azure Functions for IoT"
 
-secured: "qTXfVQpGPniwa+sRSHN3oMZi/sYixUMIXyMGRiKoObI1HiWcuf6vxlQcHHO8QGZPOY9RjzCWLcpJRR5DkG7h96aTkL3Qfcdnf1tKWflz/Uc5d7KsxCwN2Z3DaeAcj300X3Z/Ps8cdWXYJV17beq12cM2T/oANG/J/fi+BCGQSJjzXFwxz/+Ko944MxbU6Fwyr+U/cfVnCkqP6vLS25RSls9MU4Z2vp311DXyaQEG+AYFUYwY5ly/4ahJHA4N9Cq+7cQC3+E0I2aCk3CGbULW8N67vCMcXqgts+/WzqyFnSMH/Z8l3xQ1P9NLGwjFdFKh3JSnhpP7+r5XEJOSElNfQ+1TO5/1OW9kGiHfwh4+MDQJIQZJqfdwEMhB/js5mL3hxLyat4Pp74NpH33BBR1hwg==;K6rWZkfyxvlSyZoCh/F1GA=="
+secured: "+ypy7NsrQU9FWlB+dlRrncBdB5m2guqyjJ36VVGIlls/mCOHyFRR9Tbjm8z5Hst2RCx1LBlghRkNN0Qkk1D4Ij96RVsgKmbQCv/HYwlas5Fro5vqj3BA3+QJvrp/lNqCVVdejFDTbj3FcHylx9AAwcMckB+1cL+CMtU8TDF0XVYHuYZefSRF1umxoGRyJu/evUaWuD873ECMI68BvGzJWuLMI/dCVG6cmhzTlkzEL3wKm51QVD57eoJ+emADSr9XzMEgbt+GSBzQH0qahNCchPYv4vnIQYb4iy2ez51fgnJndUN1dZ3RXoqwqba/cubx/7ghp/EQ7zmlvcSH85rGm6q9bho76emm1Xp2SkNW/JFUgGBgyfIvp32PAKYIYmLtvJbUyxwgfv1mZEq2viTwVqAqsmMCV3qBPH7tjApLzu0=;oUbIxuF2t9+/pJ/kQecbmg=="
 ---
 

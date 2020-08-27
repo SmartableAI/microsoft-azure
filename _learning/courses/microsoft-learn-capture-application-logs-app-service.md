@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 55 mins
 ratings:
-  count: 885
-  average: 4.59661
-heat: 58
+  count: 886
+  average: 4.595937
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Capture Web Application Logs with App Service Diagnostics Logging"
 
-secured: "3Owjl+Z+iB/KfT0JZOPLMkPhID4GFIWuGH0ltD3oLjRSyh7zeCAkF/SzMPyt4oUDv7zKI2zfL+PP7PVJthv5oO3kJBKgZLky99nOsD7TA9eMejWca7RsUC56M8masu5gjQCB3ZTTTUCN1CCVx1EpG/pUluN368BUdMcF+1IFbB+9lbgxiMD4CZb4oslq1ZfZvDw6ZaeJpGopuC/3hXMXR5si4rNjQd6ZxfdrsFwKZrUgQH6afAGTxWZ18jn3vqipvKWuKHlvDUK5RZ+Viig+I2D6mVNBRdTDNmqsqIUq2pRN2ZzcM3+N9fQ7NkMfjsFGyHIXGin1+OpFMHn3Nwi0KsWBGyWQJUVEJKwqxpo62epH+36UPgOX64hBt7M6xtKpvznBrE6WCqH/WKO3zjgZoA==;435w+I+veocU0STUGI1qSA=="
+secured: "+oO1SpJszFvBxRb15Nl5cjBmei7mhfA1zdUgbiJ4YK6g0B5ctndgaOkPaCid9TViwCd9S179Q0u9najRzqHxlOSZ7IRtfyQB4bYi4U9P5twhEtPPw6XrIvNDAfgPnb4wE19gHGxjJTcjNJo/WslQdwAQtupjrdD/VfieRAfEf6rHMjCUjemXVO69UFv7RUkJtAQEi1KkL/3DGgxegN8nmummNQ+ht0ajzznPmP/yyBV8yL8snVTO4g5DkuyA5F7wIaB1SJUI+NqL85IDMUsniWhc7UEjw1C6myttGNhs7bs0CULpS++6T0IkT2uZ6+ufF+5xSzQsgXKGnEPSHLNQSQPc7R2u6zt6lCvHPT5457FEZ+DK2VG8AsjYu6h7M5JEs5qbr4VgnpVCMyDgKtzo6xIxglYeNPge9cUResJvpGM=;JSKEwEv3LJ837/9DhiKiKw=="
 ---
 

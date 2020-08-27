@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT1H16M
 ratings:
-  count: 36
-  average: 4.5
+  count: 37
+  average: 4.5135136
 heat: 50
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Create a chat bot to help students learn with Azure Bot Service"
 
-secured: "IcaGtP5EtmXcWmD+QfZwgpkyIOJZjEObzOjDNXtday1VjgJ37ABZIbjXBXjdHoacy3wA1sQfrREi2UtfU+iXmKWhxm1U1kKbdungvHRnGWuyX6Us/66AiyKSkXc0GWQ/Az19APsNqxABNxmpkLi2W1X55Y2U9zatqGvb7V8/WmgezVJz1y9yC9dPBXQfcghLOKJOLhMwxfzpZL7Kt9rJ1zYUMVrPN9NIFYoV/dV7FE1d9DlTU8UN593dAWa4hrGVRllcNcorv4lZM87nxTa/WIwapcl9EDyE5uOMTvajGsCv/cxibf3Q6EKQFpCgPeOGrBCcUPTKXwUdFakzl47Rw8OzD7bxsYxt06g9x3nsKow+ot0RBmgTkpDY/utSIjeafMyI7jGB8SYLQm1rOJpW/w==;g+sRHTDoy1KoFPca2mpRgQ=="
+secured: "feLzQWiyRfeRQ6nHccDck3JCiqjDj2SqYUpfDqmd1Njg3A+eQH22NYQ757pUWU86jwVLXkRwGv/L9wnSh8TKMsTSNmbDnA0thStvg9WuSYlogpovOhfdYlHR+9+IiWuVWKZlzktd+iW/bLuhgmkAsipoHhAKf7vaup0kkOdmN8Pe4SAodkNT1fBYy39b2yVHuynPUyUuWXUUWPDie9ZlNWIKk58i/r/iRUoMyAGv5VCgbzw8m5Siemykh4NnHvWB5QEbovZFufaWXMf0WF+3IU/J4hTTrRJ8KpMp9krMMnchlyfxdlQbIXoAq4OQX2pY33C9wGRzN+79Upr9EztwWpwvj2g0VHwnnXBy4BwG71FhMZYjEw7zxPTR6qqXg884OfShPvyebZCorBHQEtj+NmWMNt8Kb64mAuweBRCq6ng=;NtzVC3aXcRVw6CNRJeKHkQ=="
 ---
 

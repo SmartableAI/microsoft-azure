@@ -8,7 +8,7 @@ length: 38 mins
 ratings:
   count: 611
   average: 4.787234
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Discover how to foster an AI-ready culture in marketing"
 
-secured: "LCZat1WytXIc7azPi1sveATB7mbq45obr31c10YYELQwtI9rzOmNkjWcWouKQBwhD+2xTEXyy6DKW8bdkzSrask5BgkKlol3b7ima1TyX1URR3etBTcqt9MuTXsmObEe4tlbZ8+1T/DcaZti+m+IPBhUJPwoThbP9FKTQd/GWEPfn0/bGW4DWiAqTbYML+sj3gadBBz7fknocOCBeLcvsk+eLKSw1TobUBYmctgaapfV7PWqDLLm4LEZW9ZIyAGKtTFRUURYAF2uEnQ4+0RZv3k84f2s48nKB1nZts4QZvJUTzd4HiL0HI8gyYDtn9dwIMhaThjbGcwawzsUh33Hk2KDx+I6tSVX9w1JIZ+Ut1iUoiEK69GMsVRzWhvFD/eZtoTRuGsykvR95aYjzUnnJA==;4i+kQM9EiXaa5r5c+mvV2w=="
+secured: "HxGnIPRKptgtdEYLaNl7ubQYX1NuHe5z11tkA/X+zSV/RuHrVSBkjL7Cwf+iMFC84urYssTm7aHSWuEbYY7n11Pu3x39Am6m5ygW75anDjnkNRPl44Ifr+YkAKbGi+5V9eszHU3GbuhWTwzWPUocYysLu1xko9tj6gHRV5Hg+AER6Q4Pv7R+fb1hwebZc5wtUzwGdCWySnSSLTYva9lVCCY1ATOgW5HzYOJbs4f8TNbFRLdjNulSCMOAQfkkRbiIq4TmH7jOgQf1rtvFU6z54iakXcKdwdHqdVVVRT9MNSC7P298RXcczdPXLoBrEXTwlrkrSoUtQIPI7ZtrEQQRbERhhRtILzHVyPevIAH3jlZ/nPUhlpgQuvF0dWC6TBOAf15I0D7ICZ1YMUEQWWmrZT8BIoha+LaCy9/h0Y0mZtg=;+//APMvhk5wY9DPn/NKLPg=="
 ---
 

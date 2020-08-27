@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 37 mins
 ratings:
-  count: 1415
-  average: 4.6932864
-heat: 51
+  count: 1416
+  average: 4.6927967
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Introduction to AI technology"
 
-secured: "2cbxCOpiBoSpkzLIvPlzDnoa7spQpJqnVYwa4FAtSYQBvA/1D+vau9X4agdV8foj+gKjcov2zruyFVZJW1CziFI0kJTtmGvPVLoeD288z6i6ROujdksvAyCTVjSI87N+nUQKzXp7Snqv/IubwhyDAjZJ6nH5/1r/ajuk9TqqZMokNG9uHqPd9ZFzGpnpv7SPD4+wLEUgjGD2Ls9JiOdSy/+GG1ivHzKO6qD4vxc+vublyGmMmmjzGHrdRV76r+H3yiZNiUhjHe6+yVlrgi4b/Ekzgq2Wn2XXIIeu0SJNZVWGoHaYt7SBTbAiLy207hgZvB3OTyHbECEthCfB9OkXZONX4shNbxFLKpLGGiEV+PXk3/8s730zSBv4h76+xbMx3bmebeO87CyYgxPr7wpSpw==;0ltAsS+K2wyxVOaHgwUdIg=="
+secured: "CggrG1uuY50C/QRD59sFDazJI1OFOeG3ycfzH2aRTh3kQHUvefdtTW9UgEi3ocP4yQY5ZOWm7Tcu0oezSK1vTLDNKrUiSZjXA9IG240UCw5k62iPqrrfdOdSYeWtlQ2+YtG4VkkqRbnppziPKnfp7eAmDNoXG6ceDDsgeDunfSsz6a1uE3w8nCcnSYKWwyPHcpx2XTfIIRHZ9SHnMi26nHr3iLT6lRis1Aawc9eDH9TObDhNzqTXw9rFQBPXz8WjCdH31zlrdDnheZvx32C8tKF9T6HQtrb9aOmT1DfWAJuPNiPYqyLTlSRNopH9/2IC0TEWL/4S6zPxIfC16Z8OfsF+rFBmm87dina4/glPMvZPYSCQqSh5QzQqAT1Qt90S/anMD54DSmiuDrEC1uLSPXSspK89kiWT6cnsnDNEsfs=;JfYXiySYpefi0VJ0YZ6sHg=="
 ---
 

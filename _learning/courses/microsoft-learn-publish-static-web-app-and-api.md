@@ -8,7 +8,7 @@ length: PT38M
 ratings:
   count: 258
   average: 4.77907
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Publish an Angular, React, Svelte, or Vue JavaScript app and API with Azure Static Web Apps"
 
-secured: "y4eLEeZekP9OdTyrp4nM2qDwTfdbD+fCNxtC3Aeeb3ZALZL2Rc0XFVpUpIAXwn6jD7j5X2cdkiOet2uNdHjaoDwms8glS6jN9FGAvuivD7jtYJ1BmvB59BR8gruI9qJ0lBvKz296tqnLuDMYPuMOFd3enOQ+ilXIvWXMgREU5Mi/B2d+9H3hCsbpX9ehjxpZo0L+W6iqA8xXY4dcZcshGb3Psw3F/u9nbia5wPpNwfkNFAfQJz1YdFzn+hRfn0tSKSdEQv6tkaoGGYZpVTSmQ4Cz5APFVgwQhpzMHQ3L98PBsi0XFz5eEUH6SjeNPLyXEVkiPU8rraZT3Is7ddwmDBQGghxVNYhYB88YmWqN2m8WfAdmVlPNzXHZoRPiKu4r7pADDSV/h/XvCmxLEklUeg==;zxCTOFzt7FASity2RYwQUw=="
+secured: "JUGSuZC38MEyKHNhfOyd9ZnnUV7jhCqs0pKvTQtENrSt4y5p+XpVXiV+aB3RwBeR4vYL4VYZoI3ROCnICobNOQlQ71PbxM6TssISlV+xukM3PIz9wrJJaxt+pJUir+1zqg262tM4+ktqkC1vNl5TPLNSk05K42fpklfLmJWfUUK998i9h9lyBxD8BMCcASz2cjhEWa4e68RYVK6dfviBgRSCeK4CSaue0JHcFcWmBVtGuJfto2KVF3QwtGOVH/U0TweInpFJmxErevp2CCVOXhEQwwziL3fq9ocOBG0QCsQVq+iMt8Ha9n3GA/k/0imSiJ1G8YGrK7Abzn8Mg3IdBER0TygETQ4U2xoeY8oVjmVzrDmu+7nfeV4wj3RvzwOfyosuIci2I+B7wfUzyZsQq5xUyVPqHJEv7q/JA7wwhEI=;piCPPKO2jnZPzoaD+1wLFg=="
 ---
 

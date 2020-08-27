@@ -8,7 +8,7 @@ length: 26 mins
 ratings:
   count: 15
   average: 4.866667
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Create and publish a web application with Azure App Service and Visual Studio Code"
 
-secured: "Q7OXAvUrKEpWY3/L1EP77dOxctGW/eEdUFU3CHL3rqSmJhYOrBIC5K2iViRYKUaWBlMQtgbRb4l1ZnRraR4d0J+wYk+zuBxHc+U486coVDZ0akzswj8+F3ebGQqFkWj954U9PKS3zOV9IwBHftkaMSRJvQZMMjU2249+5uwy67sFkAhMlIUun8qRC4JS01pFlz2c3l3Sbj8QB9GWZhf4mZ38pfZcuVMsPOKcbscgy6n15IiGtrV9v/qeDU93jvCGlZ1fZgOz8OLZJMopSkPaEaLvNCTfBsCXw6yqQ4ry3xVCrwEzODbYjVoM9FXAkFFOYrQWWzcmw0lUm+DYtz0QS8+pJq/+c7I4HbApYbuZ7e4MQ/z8DllY2WUF5togjJ5HgnPiqFaBdLzBs35rf4zF7g==;87yYR0iYHBTR5cj554u1Og=="
+secured: "bOgyGYrcEA5H3oqQEwEpBuEoZIXidHIAqM4B3aCEpgCuOrsltZ/bnizLJ9Ph5ehpOj6xezMyjPEOaROW8tOHzQyy0OG3lAnDIzOsRNcaWMWHL+u8p4FlJoROxJGyvI5YvD4MZ+7sKbbPga1v3/kAfN0Ocm86KEJRPjbvWuQCLUmd/nD47s/5Id9XKOtvLdFvBOt5kKeIXmeEmc8YhckYCoHNZMt7baJAQ9cQ53BO991T3uSFg1ntpeR7BoTgjSkij0ZqY60h8zWnTSht2ms2WOId87EhTq8x0IJlNXpx2CKMuZiJEUyN3/IhjG8nBcuDBCBc8brXJ/Dg5XJAYPZtKx280IsOikVHDcF9/N8lQIE4G2VzRQhNQD/ZIl+ldLOqXi3kHurDrWRtaACYVS/IqNnk/FcGG87ugD1lxZ30YYw=;86ikzF+jlUj8w3K40vYrFA=="
 ---
 

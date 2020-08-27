@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT38M
 ratings:
-  count: 52
-  average: 4.769231
-heat: 52
+  count: 53
+  average: 4.773585
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Search and organize repository history by using GitHub"
 
-secured: "nDAvwzBMDF9IXjQvgBveiB7sgo0Zm7ixYJCp7Z9PLxa2ClkzCv3aR6SMAK/9hE32RDrLRpPFuez+CPUwKCGVDIm7j97Ij6067VR+1ivkgcdky0LnB6g/hmOos0wleK5aj0zAjE+GDrE8mkJVouoWdLse/Kb1Ykf48qas8Xh73VVu4OzmoM4sZZcvCwDJT0fc/S9mOmikmOu148EaWhcodKf0rhjpBXN/Pg+CRowdfyQsz1XAOG88HciPKGGcf6tftiIOlHTJ3qAApTO5mVYoRnWUKOPMeh9G8VEkMHlBdR6HZJfIpI6sclZ88lk2dBoWO7W2l37JFpw1/SWjvHcFXGWJ+/DrA1A8nc2WNXB7zkjtLbc6AcbK8ZRxB9tvRog1thBedUkR+GzaK46qqGtTjw==;PZCy63p2EdC3LtSBrhQvgw=="
+secured: "/4iquZokfFFlu58zuKzJ8Jv0YvUSlRWAdZUtCI0UMaMOCcBw2b83q/kkqTMne1M6RR0VBxyoO1W/fAVpMQtiarcSAecPo5RpqPkBQskS5IBQA8WCZCdKeQrbGV5htPgdYTTxxXDn6dYWJ7uig/ZrLDt/IojpxCkazJsQfJ8EjOCFIDCkLSimzFZT8m0jeyK9QNtismmP4WEPxXxlb0XNnTTw/DBSxLD93l49r6/bm+oviavEqaTgA6ipC3FMq0UtodXrpYBGrmgIE7SQcyNhBe363ExSmriWRKnx9X0WAXoaBtwhU/Ir0ZLjD5I8mEAk/AhD5Olry60ExNpg85SLqB1UbqQslXGVeMr7thmd+p2nJudEUG9rMJIv5dscclT/iUNHwC1bJVs/H4IxvgKdz9jI5sxbNbxGy7ebYlRXul8=;dL42bI+KXYixKB8qv0kVVQ=="
 ---
 

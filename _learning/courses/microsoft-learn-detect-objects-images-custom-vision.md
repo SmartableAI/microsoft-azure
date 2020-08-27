@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 39 mins
 ratings:
-  count: 150
-  average: 4.7266665
-heat: 50
+  count: 151
+  average: 4.728477
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Detect objects in images with the Custom Vision service"
 
-secured: "sNTI7D4vBCAN1bRV2o73Q6McA//lP1p+o4OrOSVw7dwGuqcgkMD4AnTLy3V1HVmtsAD1u+nhuhUXcWVlBVbg4KupUpaPdEOccSjXB36zE6PhwcvzfWj0tf9cLzjek+ogNAWRbuKYkc2STtVwy8euBUu08WCbLc0A++t0jlUWHELP89b6Aax3lI6jHKsTOkbQwn7U+C9mZv3r9fM+Fbk/+1N00XXRWJ9pSeJCCV+ztp+U8TkrSUdvw4aGVcQSrx4F5VROeYh/NX0k36OkDxERbbq5aOpC5LstSWhHWTYgAfWaR8Ts/WuWlxaUDytfLt0fPa2C1Ps7DlFNfugG+62AilJUDa740SOLwbvYhJieBIa3GsSVy2TVecHElPftvY5w3FgHxq4XTvFuxrihiWhjFQ==;RaYUOeekwa+zuSFipiAo5Q=="
+secured: "jK38Ui5W1+06nvrZN08nzlaPmEa5m/HVg/7QSb2ZglN46UWp0hzZet3jnadmPE+5G9a7HVAMMoC2NSkQGrduhNH9enQakUVqLH7Q6ObmcuJs9OuooUjrg4OQ+k8zmw7X+ECVoQTxM/7HPWucwB20XdTrtfZAAZ/Xhcb4rNzXtZ2A9chqIK2t+vVJrYv31rS9q8UieNiR7Yqv3/0f5XT+5ucmQejfT5W8jOAKjvQ71bu5+J9VDuEtbmACoN19zHTuZ2Mzym0iFnfEUMEGMLXaKz//2fFfkx6+yOBk6fdariktRBFweJjZzv/JfsR8Db/vLuEEhlKW3zGqwH5GtvpRkzaA1hM+fPgg7Qut71t1FLLiqP3qz17zUGPRRcOPjx6jtu3jbTs+98hi0g1mEYvElx2iQ0ktrJ895WcqSyOpFUc=;IU8BbVYNrhKoxBV1nPQiFg=="
 ---
 

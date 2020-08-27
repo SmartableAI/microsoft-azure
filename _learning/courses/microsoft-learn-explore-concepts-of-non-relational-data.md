@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT26M
 ratings:
-  count: 277
-  average: 4.866426
+  count: 278
+  average: 4.8669066
 heat: 58
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Explore concepts of non-relational data"
 
-secured: "UV5VFo1H3lrDG5tleXFvbYyoWhno8Fh+rUUMBnW6+LLb8a0VjktVDiauKsxcU2Lm016Sm1NwCw7jIit9We9hqnBQyOvScA+hRGJXMWSfEKEF7JvPZKj7u3+LQCL8A6A9Un1aQ3F+CoQ7CWNO4mjg44/5RkAGAWqT27ia7DjyGcBWT79cfm7V1LzWJawYvUvD0Lw7NWXZo+bxybe5FOS8kQeU0krba7MjxPbJuxUxT4/V3YNWoB0yHxkN2WMYAI5HECRvku4KD0Kmq/rM/0bY5fX+Kb7KczVzdVNd+DuLoNKOs8thz7rBG2DuInCwDFORyxwgEO7hHNYR63bZnOCYXdf5dVFimLGARk9o0in1HMJ+qVwUOyor5IkBdW0bHaeq4RVkmKB+BAbaYZsxMAPSRA==;BizQRFY2xkVYhXEix6idfA=="
+secured: "efsJTULNrxxZwxJxbb8AQ+HZZTZuxkVWMGniXwZEF4yO4fgQ1D4sER8CU4q2upOn0+bqYJUpX7eK087eNDeVuspbx1o7WnFXw7n5XgTtin8zqg99xCO2De1BjtksHKLx+ALvnVz7klBeNYa8483DTDD7J70ERJEM7Ey6j31zzNegUDFdV0xXExpJ4DBsA9RXom6hK9JBuXvwYkwO9U0IIBZM4MpgKNl9lQ3HGfarEKYC7c8vwP+sF4A6my5CxpZvNO+l+xxdJXn/k0eEVPvxlyRK1FqlN+t0jESIjmZFOWmQtTjyvWUHvaGJIzvEgGli0G4CDtKjDQILh/bnwa+8Fykp6tYj3sBj133Yy46tabQKNsk3h5tXLSj8Sgun+7+K8Z9wokO4nt4mllNaz85qn5zJVPGah/rUwy4v5um7Kf8=;PjVSRSifiWcWzC1wyM/g6Q=="
 ---
 
