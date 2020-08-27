@@ -87,17 +87,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Mobius Logic brings drone flight management to Microsoft Azure"
-    excerpt: "PRNewswire-PRWeb/ -- Mobius Logic, Inc. a leader in next-generation digital services, announced today that its Federal Aviation Administration"
-    publishedDateTime: 2020-08-21T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/08/n17190966/mobius-logic-brings-drone-flight-management-to-microsoft-azure"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17190966"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17190966"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
   - title: "Blackbird team give demonstration on the Microsoft Azure stand at the 2019 NAB Show"
     excerpt: "Oliver Parker and Huw Dymond from Blackbird Plc (LON:BIRD) discuss how they work with Microsoft Azure to enable 'lightning fast workflows for sports clipping and highlights production in the cloud'. This presentation was filmed at the 2019 NAB Show."
     publishedDateTime: 2020-08-18T14:29:00Z
