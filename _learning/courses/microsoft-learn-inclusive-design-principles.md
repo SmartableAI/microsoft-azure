@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Design with inclusivity in mind"
 
-secured: "5MW9LBXRGfApX60wTWqstgdOgSXnSi90XaRs4ccMErEuH7cq6n/3Qd3j3uotjbP8SPxL0wF8LyhJ3+k5+mPNc7ALoy6vcL3MGSezHA3iae5Arn+bL+Pwrg2nirlcu8GpdMID0sBhleLhhquoFdS4PtTH3+/M5/sx7KfAqgsJ+9KlG0FBsTWJaGMk0bZfxyNUvJJ1CWIaj6Iene3iZj31yPeLD7Dk+5+4hreUsNd9If9t8Qva4KXsDfQO/23LpK2GVi9CjSS5UJm6x4Qi0jwj901d7aYPfYdvwwQz0aNHfcYrkRbomYlC98sHCeQB0h0matnwft0Zk8oGAQHZfZnWlzgblrjZnsm3Hmd38gnZdj3082kryxZJ2QP75/gAhLmxKn1VIwubpVmLFfSQx6/fGDEqx5qaW1YMKJ/+cnYyxns=;yZYpcs/ePxh/AcXn+y1v0g=="
+secured: "jBaJLRNC6C4Ocb6tY4VywElUy22OTYH8DLixbyb8gCSJ/5hEQADhpHwN4oVV2XGAS/cl7o2cG5+M+Z+MPaGCAumUHAE2vfTci4V6CJdjEg02zny2z+agitmA+pNGtvD8vjkVCuPv8uBaRmLN27PkKlCUkaH/DVqGrqjzFdOyueg+WfB1z/H+sfPRzLNHe5Zs/4e1mWBexkd/dqWhoqJKsWt1m/kfPSfavwqxeppsMdSUhA5eIDvFfs5f70fd7X4eOmH1hLih+nso5xUrPMBlvUxjGgqDEk2JthnuPYkjQ/fRhGjR7ow6w3Etq7nahVD4Meb/0Zlv/fiShS643/4gcAzzihyNhX1nCIlsWB8lUTMqGbAwXlPpSwb9itWLttePCz/v989iAF0hvjQEU0ztcwynIIYbdlTA3LOJ+Mr9XSU=;7ylT/uckdX4cIgKOThcPEw=="
 ---
 
