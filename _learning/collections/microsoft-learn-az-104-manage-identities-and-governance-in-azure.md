@@ -4,7 +4,7 @@ excerpt: "Learn how to manage Azure Active Directory objects, role-based access 
 type: collection
 price: Free
 length: PT7H17M
-heat: 74
+heat: 72
 
 provider:
   name: Microsoft Learn

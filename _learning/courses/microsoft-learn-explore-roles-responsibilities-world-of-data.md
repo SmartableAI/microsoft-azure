@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT17M
 ratings:
-  count: 424
-  average: 4.8160377
-heat: 61
+  count: 425
+  average: 4.8164706
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Explore roles and responsibilities in the world of data"
 
-secured: "FtkJUz9vZ5uuffTZUEhOIP7VUH1+N3+xzmZ4TG/ogWFiYyIAYCvaofJAwpIBAsGc1pazNsGMyRVcKEqlpC3rVlIu5MdZjgHcNkJnF1zu8zyFBlgl6BkhKuMMk+ikGM6I9V7acbRwHUNqpf+pauyO+VrE2vrxzaCWpaNF5UcSkIju2bNQduf6zSMpW2v9TfDwYBZ28+prlDG+7VEdYsVOX6nX/K/QXfopHZi622zthmwabPb5EEtkioxrT6MeWDOc5KEB9XyphFaGoGceUPV7DAEtF5LisGDducEsDoUvTnUPjyfLkT8QlWHCGHqXakl/r1LVi51WpI1I53smnGqm6RfVig6yyAjzvVIyBYT3Y0yam1aTIX2ETvFh29lLEnosfPIdLCRC5cTAwgv0aqu3TK7cMfFHkUr1D+W4YKiyXvM=;krLlxH0wOIpE9pLxTKdK7Q=="
+secured: "JbAAWmcxnkgIV+B7rLGetrSizVnZ9spG0d+4QRQBPuT3LUgADriyTnRmWuFWiawN4m3lPk1T8+dKlZLLFYU1ZxiOZBgqWg2kr4Ew5eMRsencNrp2hkJzUBbx7243Els4nNuQtPxmXB6PDHwZH0TDN86kRS5CLtu39THLAzoLKUjqxKrF3NZcP8mFUGFXcZ0W594lBfOUl6v0jaiLjFUXBzzqaIH3WdTlF9XVt9USpF8/iZmBXN/B0aOqiECimz9STnfZnITv2csh3Fh/m9d9QWwRawzia8RLB4hH25hetdt9Yg0c6VFVjBVFilyhnDB45/gKSUM/GCse1o/0UXSOLh+JXhGM7+fgaGh7yf4y2eOsAqG4E/afDl8agdIlJ0aSbfiyuHcmt8iWNPDsIrbtVqL4+VKeuHoS7oY5melGTKk=;OzE/Z7OvdCUS1B4Ug5xnpw=="
 ---
 

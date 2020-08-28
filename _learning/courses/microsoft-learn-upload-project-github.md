@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT43M
 ratings:
-  count: 89
-  average: 4.6853933
-heat: 50
+  count: 90
+  average: 4.688889
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Upload your project by using GitHub best practices"
 
-secured: "exUmnoNdTwVSdI57d7sE8/PSM6b+25/YjEXdAh6Wi8PNFsdmV37pwUpIUAldeyH0FzLDbx58Dz9Iz1uW/hMlPJrexC/aoDfu3LdQcdZSFTabetw6Sg0rkRkwXB/AUme/rLxMq6+6Kv+sPp7brYKpFakG4iKiiU4hFgWI6IKVsnHNEYzXUlIBUJbeeRJPfO9W+xhSMHdJQ4KblX4CFjRuP5Oo2R04/7fkN0q3d6FTR0wTTl6e/KLKkbkX8q0njzLKR59lQma8B3FxtJwys+cOyIqaBkxFtbCFGXj/XOIeGVUsS8vW4wCoI7f0OQeig6FbRUZpNJQQwRTTnVH9Q6E1pxpjFwHoRy8lAWJgfcO/1T3gRp8Xluedi5rqn2S2qa3i2NHpMdUlaQz0cmGLNKQa3Bp50NI7Jg6k4Y55HUvIZts=;MGyoplGbS6NIdKzJTXteIA=="
+secured: "2UkFqDJ1Bsb3Cn3fLkyK/SMvrzCf2MiZnB8muSM/4EucbjShCfIfjwlrDUZIF/rTDM+zHfuTmcXp1uwU5c/LMW7xw3PzkgeZayTA6T+boz/KeWcRR2udmJrxaO1nCILBgpLcSPTiYR3792ROeOfznWh+HdjAvDL8T2iPWf03FAXiVlNnp1p0m4e8pAWRs4ITxVspntO2M2y98615qX7FTLLCjaYOTiHKSyiZrW+tWrrM8GmDlUtaxVBrgYdsz6TMQD5NGcjfRo5Lj8dSYKySrXQnU1+emVlzEwpnIjAdZ1EOwagceP/7CAzyL5w7lC1NeFr17vNqL0WnnSYSctqTyw4uy3TQPym25LG9dr6z4PGYZoHPLQmCGfH3qRheSpOBLzlNf0NroNCl2AN7f04shwKLa26t7vWKQk07W0FVaa0=;H2/W4Bb4TAQHh8EvfjaGag=="
 ---
 

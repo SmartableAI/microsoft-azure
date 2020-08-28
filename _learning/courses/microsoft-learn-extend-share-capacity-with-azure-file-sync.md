@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Extend your on-premises file share capacity using Azure File Sync"
 
-secured: "aoXeTMwLxJrRqNUgRj4L9ZaJXmxGdilj3uZoAiWg4qZlX/ZP1/0CmGmGRoQaWm9TiE/jlwSfcnw8/Gf2yZzKAw2o4UhhUJeFDS4uuVYBB+qZGUkAWs5CcdxZIWPUT2MZ/NWoI1ukL0lq/ip6ZSVVJGUc0HlOux4I2T+PW2g3Qtxoku11bBQesgkpcSCPcY7rDJMzSvCE1SpWg2eYCswnDSleTkP8qEI+gtlpw/4gSSMp+ZXqGpNJrgTVCl23wqO4nw2Hqgsg+9A6jjJJr+3ld+vZjKg5JPC+twVKjCZm3+3W6exIjuNT/rgcK0oc8U7JyveOYGMlL1T2ZmG2SobZd+NYe5ve34HHg45xPuSflg90itdWHoqa+uBY9a5l25oGHunfY3F5WRvBJcn+JJuZ5nxGD93AfzCf/Z91UvoUlQ8=;ZpFwutZ6yiIKqLfOJTATxg=="
+secured: "U1sToBUe7DYndEjFcOUcN6nxeuT2bA+Z4LSEIMyUZApJHY/Xg7hHeJIVrCx0JhC3+jFYCDUMowAHhtJdwabonGrq+rWoOrDb+vpufl4zjrNOMe6FwFoxXmlZvr9FIDHxiffUyX5KxmW/LMn/YbyOVrtjmjz6e0/0VbP5Ppa2EU8gcVpJ+zLx/KgTybX+Y9Kz7Cfev+KjkQJR6jmD0LrOPslftaX8DZmldbD9yLBeAFzZiT6F8v79whHSVBkL2+bIIiKGVPH9cDIJXHKJRR+hxiSg5kSo2k8IXBw8UTq6J+fFHOT99SDq4PiuUOBoZcjDVVS9ZQAh0viA/55I+QkLohbCKesukTTnd6MiYOwDDB1oiyRvH5mqdbeM6ChTcvo+/HJSHV9imL2N3ffz8d//uj0q0Y0quFSC71KiOU77KlA=;MzNsB1Ph9vLzZWUbaZdtuQ=="
 ---
 

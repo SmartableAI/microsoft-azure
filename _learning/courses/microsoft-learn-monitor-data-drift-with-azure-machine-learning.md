@@ -8,7 +8,7 @@ length: PT42M
 ratings:
   count: 96
   average: 4.7083335
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Monitor data drift with Azure Machine Learning"
 
-secured: "Kb6HfS4ZUmp653//or6p52OAULNf7EhTRjbYG9Qsb6Alurt8/hpTDpE5LdDNF1MAhKsa7NobjTp7/4n1yiezfcfM5xy24+a0Y2LHXMB74mgOLR9kCe0Hoq5Hr0NUXAYfIngBG5d9kE0fqn3Nb32m999ahjeFHPVCD6D+hY+8bAs7pMx2AEE6GBsRS9Izmy/aTWD3A59E1i9MlgNT5XPw1JQuaz++GtA/HGRX/4VAsF0WCNyqqbGGBxvWQ8y5R9aAlJthowjFAyG/Bl1UfmSPhC4K/5LLwT/Nw7TN+0VfAb4x2AXoRzuF0UCvCKZb//msvjYh5yVGnpb1OD+AB1xofq1P+E9iuuKKCBJV8hVnhvc+V6TBjw1ep7EtEhV6j9UmM8wYsXS9EOMD8ZanhhRWH5lkMY2cNoWH4uDnZ/e+wv0=;NNILhxSLD48zqgYcqptSxA=="
+secured: "Qw5d+St/0SICduZXpBMFeGZd3C6IVdN45oxUO8GAPY+LpULohO1ipUfE9Yxnyww11gzNSPMB4jUvo/VAJVBEzg6vYQ5uX2eclnrcuYN49+2liNc8jQnK2kFBQe+dDBEw8C+PZuUkVbQ3nGdgMFlbvkfq6JUoRZo66ucyiPX5uFotYGidrZ344YlECshgHfRzmeuSEWpbF4HlE8boS+AHHY8qMDqOB7edmYe0CCZ3GCZHVG4RUt3H851rARGSZxAzjew893bQel5uurnVos0n8/FS/bF3Pelsc4u5F3zptiDOC3cWYvT99sFkxMlRVpJCglsDJTQocAwpafx2j9d+UeolOJW4dQCOLouSbpiq3eOD8yIzn9OuA381Jc95GfESjfknpxwWidd4X35His5RZp7KhNnVcf/ppwHQrGaMqMw=;VAZ9AUfjUXoDeTjIIpHErQ=="
 ---
 

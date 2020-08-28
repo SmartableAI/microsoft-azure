@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT40M
 ratings:
-  count: 142
-  average: 4.78169
-heat: 52
+  count: 143
+  average: 4.783217
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Query relational data in Azure"
 
-secured: "NrPizmSAPPLMF/ZM7U2XUhho7dl6J1GO4OjJtnucEHilci5Cu6J8MeijWz2bKZYacdLn0SCBKiZCG3BTuxxod1JceaJa1YoY3fOso0GFr6rPSM7OnCJq0nX867k3LwnayKrM+OgXbDpwsyaYj9+P7aiDhdX4+lHgAydaKd1THMKC5JkfEX+jsVBncfRE0Vt9Bv5ZbWdnfAtgM1MhTAV5+Z+kZABkO7uGRtFH3H0YYO6MuZDzHPsOBhK57Q9l7NnjIjHtvGx9lVCf/9ZXEyQHH9EulK9Zsr+TwVR+qs+/WrsKwACYGubbtqPl05JB5kmBflSKO9vIM2GdQD+PFAsxbKGpHj9sHXhXQkaddW8LZYlobRdWg8Saqu8Wubo0GGsoDhpGYJPW7AVszkfGHF7IQz9ZvgpGQKNbX1Q5auWcu0c=;NwNXPz6dI+qllOJwjEDeMA=="
+secured: "TadVmOrvexgQn/fr+V7ScOOf0qzsy8sfFgmLjira5mER3NFa0FtOiRxFyKeLHNbNPjjix6KRzCrK0Txh3IS+0P5hLVtPiF0LBoVg7QLkFmZTXu6+PFmvWZ6E6t0gNJpZw8SBA+FeuRJMA38qvLf2mFa5ZCQgSz2/jRzMWrj1zSett6jT6302g1oFUhx2DPWUHQ9xI68f4u7rbQRa8HHsSE0yyHe13JyX65JCB8jFPX5TVFL3hyfKcuZ4zz4o4oXPHx3UbvR8XCSxJ7p2fqllmyPhsKP9iF+Tiz3Dr9EwXF6SKqwweoMQQRScBj+smodnlliWprcfa6f+Hs9wLvbzbegBfbJ819EEVWMosDwnnKA9d6uXOzStzjEmJFBp5kIMrE+jqmrFu/0KQL6mFDsp72t/07LSkM3Yira7TMimzfI=;ho1Uo4vZEQXIe+GG93JpEA=="
 ---
 

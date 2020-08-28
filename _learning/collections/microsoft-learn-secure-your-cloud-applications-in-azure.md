@@ -4,7 +4,7 @@ excerpt: "Learn how to secure your Azure apps and associated data with encryptio
 type: collection
 price: Free
 length: PT5H36M
-heat: 76
+heat: 81
 
 provider:
   name: Microsoft Learn
