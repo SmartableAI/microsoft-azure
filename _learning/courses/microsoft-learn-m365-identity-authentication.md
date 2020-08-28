@@ -8,7 +8,7 @@ length: 8 mins
 ratings:
   count: 1029
   average: 4.6938777
-heat: 54
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Strengthen authentication with Microsoft 365"
 
-secured: "oiBS9+CboZPUdcTb46ZPhQOPTbHVJxv/EW8Zw2OLGJZEVg2sBjLynuBRK3oP58qTWeOCFsjJkadrfF5UrWaIgxPS4fYlhfDDGTbbzFHNvSCLt3Qefy6fOU7Vc+3n9chXxXn8YPIa1FuYk6JeDlYRIA5gz0Aaa/ysFacpy06NQSXV3+51o62n05Oc2AkGXMJZnRqgZ4oKfXYxRYsCj0ohv1DuNZwN+JZocg1TE60llwK8DtgLCVeh9iLkoxycl9+X9xqhzljAPHBfNj+GUsdmoX19M+wAXsvrXDuJuuqzRDBnHb/scN4zcvRNVyMa6yMnlLVkxg5YNqw9rl2DrmeQwbU3SrMgasOv6dglAfgsm/Wgf3URlLoDnjcAfNi6QzzXFlBsAkzVVRSVf1g2zP2D8hoiFA6PO/rvBGEIWObIgp4=;ZpASJiAGmHIW5MivSwZJpg=="
+secured: "rb5XJcXhNi97UWukMUzQQmv4o26Vob6YotH5UQRvXNpbY60MYdo/lXQArEWAcdfBbM+QPvkPT6rlWYrPSgjVa0FucINDxrPQUGOzaInZTF7Oovl7QoRQQBlDMF2Ju40TDsiAM6aFWjiWBBy9CRfL9+4u8qlVAhkHn9hLXRhcDVpQmyR7HMiL0hzJby9aQNQ0OwrM1rwpNYVSusImoLtbP/+RwsMQXB//ULfPeT+IEyqhINqY+tr75lp7SP4RBrkzJ28fvDWPzUtGiTXzznFRJ4EBecBf1ocXzwZX5cJLldnDfIrHS7WXGSO5QewnT0CL5A9Gq6ET9Bv4NOOBCBYLM8ZgfZD6VNZ9qRlwss5H2yOk4CU8w4HG9rBG/mNki0Eu4RnfkOV2KfBQ5joImjPoEA+ayzbSbQBE3W1rstXF3og=;VVgEOZStnMfbiH3nucmgBw=="
 ---
 

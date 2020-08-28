@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 41 mins
 ratings:
-  count: 150
-  average: 4.74
-heat: 50
+  count: 151
+  average: 4.7350993
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Provision and manage cloud services"
 
-secured: "8TtP05VZ7H3T6b6uPTIIzjKQCLeSInXx/q0Uuo3nTcKtr4HtsbC4FDxamtbXvtHBpoGsqSLiyoYaw3iCaIdE1ODVLPnMxEGrfz3Nnb+ZPwFgr1vcS1CML2OKP/Al1+yt1m5Zpp1GEQIkkwjzw4TzcRife52WnUzc2PgPR5zfk84hAYdjOUQ/z0kYzjKmMHHBK5uH0fSm1w95m2J/hqoQGnqgep2Ut8A9Q/mMi1L6VVtPuE97iT2CyyKhmPj+W+KQxgZ0xlFBdbuk2VJJOY7CVLd9UIh5mjdE6Dk+hCw7wst+h1S5uroX9kALsGGbdbW78mmj176l8Mtdo4kB5QN2wmpBDss3BsoSZ0l0OXtQhWGg1RkLJGgji4rTdQKgFt3Km4Eqw83O6tNnSxPJp+hFSHqr8O0u4dDySaY36GskjqM=;wgJCWSIaGXMt8kX/ihqhlg=="
+secured: "HQc65ZrerpfgfD0MJeDieDMqv6wg6K2nSJBHGx+tLEOvH5076BHJaX+FCFwEtQ77G3NP1j8EZlcid1oNISPkovV25tRFZwZX3vnYDrwQ0z/BoSKVSo4c4V2etzfD0vmHlXi5qCwXlwKbDWNKYntn2Uw7RjZgWCcgWW0wdnXwpgV7dow5LNGhSiiWpJXCSHFRmNM7+v6A787bBsTToXyeLLXywFW5oHQJTWgRVAzc8+6zOggJrhAKRp9uEQhQC4b5PGP7hTCevnBptuwWYonn29PmhyCHKHCawimvOigbopr/PAdhWA3lxemFo3tsnkFLb/0iqs3VcytZhorEuLday+/IWgiTTGpNKgJCKKNlOj0Ia29++ZisXo0z/bIa1YmDB7LfKxgkritHQtjlaVsMj2xpjdwDBMjLBPd+lvXPjyw=;l1bEat3WyDHlKrRuHxBURg=="
 ---
 

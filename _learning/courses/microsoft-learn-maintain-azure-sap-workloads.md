@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 48 mins
 ratings:
-  count: 80
-  average: 4.65
-heat: 51
+  count: 81
+  average: 4.654321
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Maintain Azure for SAP workloads"
 
-secured: "7R/8KsTJnWYvpduR0OHwz67oYRkygv3VFJN2vRcCURA9bxOMmnb2HpTWhyAiE/IGY4sEWt9ay7kNrXthHr3XOMuUWNRBLhh7Vbnw/5RlH3JlRJ9K/NI8O2oGpb0LGi7nGPMU+b94L8hdNHqmj23/+e9GSWm+MRK8AZ5aGvPEIgBmBhCORD82dwgyTCpqBGb0TVJgkUhpS8BUanwpsAKUQ4sQZ0vO+dBk0IkJ1Lvwh5NqEW2Y5kctmawjJKb8/oitkqKRx5HwU0ynEbP9TpGheHpLL6822Zo+XrklAQfqRMoy0v3VhWsLZW32pCa2TUpp9sDGQacAQwbNd+juyCJmbTkLMavub4B1LDWeqRQb4JFznckkDtr1VSQm0LWSHrfhPBQFb12tVXaVXOdtIW630nXXUw/BMAgFqldZOA4VWIU=;Z/3DIqpvcNmIsQb1Aj+DhA=="
+secured: "r6kskPnOdoYh+K9mma17UOvIaURnOPAXHHn8pjuQjwG1EZlozuQXDz1VenhmrlZDPR6cOuYrXopwhc2V/mjaik8VrB3wzXOe70Cxy68TOj8NONHQ0uWEsta3JA7eOf/p8uwPVb/DUeR//L0O/amSdHdEMv6tlujdCkNrOpJTTxotZHn5r9UO2L6t0/eZ3VTQHuW+FdQHs1z/onF7fLbtrw42NElPLXS3yCrXxWbD7JH9Db7q3NtaqHgeNxJiebrN/npnGlFp4IieYwktY7CWoAPbAFglsyCddDdY2j62VxopXDHGdXoBY5tVoli06D+vNjKrGt+dxbYZlFSG0VNIUsYcVP07UozRuYIK6vYwRqLf4E0MomeaT2J/O4jrt9aetM4MfVbxM6sdt2ulgFyFFDxVREueVL5HzO2TMfRUnpY=;Tt8lp9SvDBesKrorGa2GIQ=="
 ---
 

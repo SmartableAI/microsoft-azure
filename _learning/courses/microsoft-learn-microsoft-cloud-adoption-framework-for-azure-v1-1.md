@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 50 mins
 ratings:
-  count: 2028
-  average: 4.748028
-heat: 50
+  count: 2029
+  average: 4.748152
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Microsoft Cloud Adoption Framework for Azure"
 
-secured: "YkWZYW0eIv6WUX1VQp2CjPgrJ0ICThq3QPB0LjeLgyd9B+uJHVUa44AY4ARmV2cpi1R5iqAAVZMY9Bhddl7MiWIvOMwLYD7JzVriuDpebogXOGesfKLHDKuab11HLi1v68k95+AkXRWsXIvT67TnRyyJrnwrAxLpoy49BTsZ9UNCqrrqJPMPobkZtuEpo7RKyhhGH5XglXPL5R8tUiYo+k6yH+rbJEMYcTocST7Ky57E45v5srVg94oSdZ1GJmGmZqAXRKtaLEmJwPO8l5T7SnZbnnVsaQjhp0ppcr90TZ1Px2DtZidCrl9//Va7rCVTTJKJd/L+rPnvAhRQDeZKwjuAJJuWfWWEjkBJslKhVnwNgQnICAlFB5IubW+PNq7MrPI78anWG5ipQdVSjzI9yi+1pelADZjnTArWt3XgsW4=;bwvW9JcAuPrK3BaIqhq2qQ=="
+secured: "sU3VREeF4JwyKUNIZCqXXOhwn1HGfopMBPTcEmvqQ0ZaPhd2JE8G6BiuR5V/3Rszd7EqOaHMuCh55acAzhmwZAiuULp+sSle49yw7kVlmoaU3ky0cDiOt8z/8bYMyZsmTV8B85J6ExnUtCl51Sc+5rRSbmbURbjAIiEFNUXFGc4T1PiOKimt+knrJHFmxyZsrqSn6VfUti8scFwyiei5l5iWkKEokjgPiZWmSXFKVK4l2FihXiqI/i2vEg9dR4RwvRWDO7qOFZKPPw2+HLCgSN32meK2xlH27jepUHBWQrmK9ZBU//BXopLfiuVgWXyETBmnnYL1WMFYsh4RZX4MRWEbiX/OpIPBLg7MY4PGiobxcQChaElGGNPty60TTlLsjPdtZ+lhRl4zckfhebDOZ764BXidEE5QXoB4LxTtLnk=;SI5qIamXxIVa5OXzb4ZMeA=="
 ---
 

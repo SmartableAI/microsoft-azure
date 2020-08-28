@@ -8,7 +8,7 @@ length: PT43M
 ratings:
   count: 73
   average: 4.60274
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Build and query a Delta Lake"
 
-secured: "suc+uXana6Cvj5srKOa+x+1gi1qMXaFTbF5QQ4euJD+0/TJ4fmk8BuMdkNfbISgc258JHtaWdE1j1LfymI7/4ER+HlynkVw4t7oG8l84Tao3IG4vMNAoVTxg89PVmI+MnTixn8g8Z2i3hd8rbbtDqUaDZysGIiqozEBmRmkjRn8LFAAbHHEtuemhGtuDOin13UyOqC8b0soytz96vbnkdNmBDZnp2pjhDGBl8VhQeOU0aYesq8hcy9FkY22auuBOy4VqCW0pCCipGDzvjERkMK3lVwDYe58HQEEdVd3lZfdQhP0EowqdWsS653x2n1KE8r63pX9uib5l0Ib2fk59dC00vC8IBxFeRx5B9woNAZ4FLFdaF8mlYEHX5VqyqEm0D3TZ746KlqG+cdxUJcQ7+S1ZEdRR/W7p5B+9d0cgO38=;oxbxXxXIy3AfQiXX3umTXQ=="
+secured: "RbfhShY6nY0jSZHkEsELXYHO/6GrQZp94/Y7D4hIbQEiOkDTu52bTFYCLH1YaAZgtTmwWBmPMm5nNFa9b2dxYh2KZRrfzdprWh7WuSCvTd62OFDOFxVncHYqeAchHKWK2FM4mGKvvKB+ZiVxIPdYomnWRTgNRLzg3yVhpRyRI5ePjFJ9yNXmGoHZTAK8o2SXk0DdTzqE8nFjsp1FTyDkQyT9704VpJUFIVu0Z48cdt7gmBPs6GXH0sJlyaCrYCnNeh6ZvbFE+dA5NMpxWqsN2/1UvgwKV7fvHxhXC29qqYxmftgstMAsVbdI1IbHDIP9ymmdVJkgjRcx1SmtKvrpPbB+JtBKuWNf3RNlQtMly6Gn67Rp/PiBGvGNr1SwdtxTVLHCR1XCztunNTWDKfvmPNrdpKyJI794wPEh93KZvxs=;Q52us84mNsCti3LMpdEwrQ=="
 ---
 

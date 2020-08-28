@@ -8,7 +8,7 @@ length: PT44M
 ratings:
   count: 121
   average: 4.5867767
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Deploy batch inference pipelines with Azure Machine Learning"
 
-secured: "7Y41sQ9T4I+xRzcq3ZaGmaiuSbBPPfgKBLh5tll1LdFKUw8xkR63gR0UsuZzrqapK3zvKZ0YudRtjj+h8ySFklpjYoWL8qRUkmAyb1N4CrYuiaHHyWlf0gBKAIzM/B+CHsh0JdvSgzPutE9UqOIsF92sf5cssia1cScDgiFnG9RO2Xc/T/DOWErr95T4iWjNFcP/XQTFck1QR5gDP7/jQ+Wzi+uREasvS2jIz8xw5iBhHcznQmIDjdYdR3PxNuy6JMGNWenWicOfock3fKZjNKaAmPJIEaw0e0vIm5n59O4AS0vprG9Tj0c5bn+rm4v5kP1tA4ydRaDxTOiWgjHQ0Bfj9uE9bZ1YZ8vxSLin3zBYOSniFwswlAuNPmgLq1dget5FtLIg8sd/sZuAg/cEVpDgFge8VILHQQThRueqaEg=;SkQIdUlMMrw/H/ik+dI3pw=="
+secured: "YGKFPpzDxIONDnErEB0ajvT15Gsa8tN5SyJUBPWCDsm+MLQiN+MZ0DOYRBOWsrCNfyetE4OaaPzyZOzdLUkfNqx8jtpxq6+kHAsluESpfrf8Q8nasdQsRmMRcu2g5ZeDocl/u6ei6P0kkJoThlo7uG17Ux9qvWhGlR4uv3QKSga5UYJB/FGa42gHMYL5WLeNq0TvYGY239K/qtv9f4ylfwA9ph4cPNDL4KagNhygk1dPTnZPTIkdVbt/d27MBUlIARIC4sfSN464Zgxuq4wJj4/jJTYVMdzPL+ADnf5M6Q+GfxESg0C2V46Qi4APT5a/AJUL8aRBUbJa8bsj5JIGE1V3nmMQObWRQO0ROWluuQHNMbrsTC2GS6fd1LcoQAd52vzS8b77gGoHzhfsxW+4yT6q7z9um+c6XZ24dkdz/FY=;xYn87qASCxQWNPNYIaXwfA=="
 ---
 

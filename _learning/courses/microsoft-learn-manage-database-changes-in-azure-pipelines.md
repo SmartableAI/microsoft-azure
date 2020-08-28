@@ -8,7 +8,7 @@ length: 74 mins
 ratings:
   count: 584
   average: 4.64726
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Manage database changes in Azure Pipelines"
 
-secured: "BBH9Sn5qnB71vaoUpPeEc0yoviO4u2izG/JDeR2/ZWGL7HAs993/iHcyYFTpZsWdLyrw2raNrhRiNQxcR3K3UDDo5YvB+ncktUK/f+X7NZLVv91DizJBiFSz3XtlI/DcaUK+UFntZRYrcgtr8qcExz74CaymAPX9APMDNey/qIt7bnqglo8au3awHPPVYxd7vE5llNsMsJXk8DSnZmrHFluqPuiZoGqYd+nVABx2gYjT/subHeKGof0SZE+01/O35x1xYusP1Sr/jEwwTIEcKD2nUxrMDE0HZCKX7ZHqKdLYOUbP4GC5TGQ6HohqnjAWsRIoulPdx5l+HuVJrJv1txxIz7Cz7JPyio0RR4bADXWY25qGM+cbAE8MS9zuyBsD5Wf++xrWZ+eL7CFC5omDr1VTJiei36V7r1ovv70V/aE=;gmxGAd2fTtDEu7e4xnvkFg=="
+secured: "V9gzfdV29g/qovJc/uFaHIypFWlQSnVQStnPCmpa7VlF82GuYF/Qd0bnWIFSzVosmTA7/IDM8T3WG1btr3NsRoaWaXbYAS+TWMqr7FL6pdvP7FTVUvQ3PLzdKXoQgbH5YjwPb6i/EQu5be2hSBZWqVyc9+dmEWO3+Xmz+aUYAd3hAvqnH3OknQsmm1Jiq75zj/ZVANEDa4BhaTzJAm5UxQyH6UD6ZFNWI1S+wDJN90HR309HcvQiXB3XLVDBXV4kqwFzTM7xmrT6XpI+puMIyLRIiCnvsSZtkI9apFW0OpSsXFcDtfe/T3u9N1fTwjzBsuCJlC145DIy7sPE/faeTYqQmYK7Y/FlUDmcJxg0Irsqwo2Ui3UetHwg2vgrgohcKepNg4gRJxhkWMXe5AppN6AJVrlcMENyKVrqT6wUVc4=;e+2iua4ELMShDsvo+aQVtg=="
 ---
 

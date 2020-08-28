@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 55 mins
 ratings:
-  count: 72
-  average: 4.638889
-heat: 50
+  count: 73
+  average: 4.630137
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Automate cloud resource management"
 
-secured: "u0SOwFK7OLAk6UBPyc/mt/GGEUamr3eQQ83/BpfLmbi1BDSrQA6bJMN0zxLoefhF2tVSen+Po9bVtIVz49u8fGP3H0lAS1FqKt6lDCLxyaMI22X43hvAFR6T6Omjard8IH+hVdwCLsTBbsQt17pYa2SPfgotIeelmUOmfjIIroTil7iusXLVlUuwcIkPgDTDwZE3niqGkirGG0XKo8Mooe4duYq3zjIykWuY5bmAAvSTWu8G2PWe7a/pIjepIjJHWCgwU8lVWD3cXbkFGkVsPEf465XbmwQsUvoswBsl+L+LXZTsh1S93uYZ+W3IKOYEUkoBvk72QHiKLEoOUtns/TlfmD+hDWaGyuk1hTSHmK+f3sy4YNQ2hC4P3x6RzR6J4DWxDb8PobbvP340A6OWdf3YQAsZmjW5KEpbpJVxBHE=;yqjMZtjRH+x0SDgkYUg6sA=="
+secured: "0EvBZyXN4/TlxY3Wfkk/OFS8rsHGlbJ7QZvWvodV8cjPzAYyUR6f3e1x0snfLN76T0zGw3Gr8BGeqA/wZjr8AR65PeT2uhyZEBS9MIpGHFCjE7DNH1uN0TJIznK2btVR0D3JNvrAVMZOvKOmh5vkhUI3eMe3X6M1PDW0Sb/IBTkSxQvyhLnDhiZRiIHrBz+jNBRMBjottoEHh/7Wh/aqiC4Y3RO3Jz1hZdfI726Fw26IqqloawI0sudWjen8iCHrVzbhCG2EQ9weJm1ZWPcm8bQRQHFG7MujP6EOtHYzu0SIslYbxP+XHK2vOkrGs2V58zdeXz7wDdAhCRdNGhURQGOW1BIHkewXI9Us4DqOicTWbxn+XfZv2klRrkUw6nWDP7hZLpLtdOdwBHMZk1M3zP40XjkcvJYiB1+/FRhcvK8=;qiwmFUHNzz6JcjakeEiDdA=="
 ---
 
