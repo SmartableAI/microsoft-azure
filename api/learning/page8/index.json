@@ -4,6 +4,50 @@
   "page": 8,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-build-and-run-a-web-application-with-the-mean-stack-on-an-azure-linux-vm.md",
+      "title": "Build and run a web application with the MEAN stack on an Azure Linux virtual machine",
+      "excerpt": "Learn how to set up a MEAN-based web application on a new Azure Linux virtual machine.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-and-run-a-web-application-with-the-mean-stack-on-an-azure-linux-vm/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/",
+      "length": "42 mins",
+      "ratings": {
+        "count": 1631,
+        "average": 4.569589
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/build-a-web-app-with-mean-on-a-linux-vm-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Build and run a web application with the MEAN stack on an Azure Linux virtual machine",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-communicate-between-applications-with-azure-queue-storage.md",
       "title": "Communicate between applications with Azure Queue storage",
       "excerpt": "Implement the publish-subscribe pattern in the cloud using Azure Queue storage.",
@@ -54,8 +98,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/",
       "length": "PT1H20M",
       "ratings": {
-        "count": 4593,
-        "average": 4.7415633
+        "count": 4595,
+        "average": 4.741676
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -375,8 +419,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-linux/",
       "length": "PT16M",
       "ratings": {
-        "count": 460,
-        "average": 4.769565
+        "count": 462,
+        "average": 4.7683983
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -503,8 +547,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
       "length": "21 mins",
       "ratings": {
-        "count": 1184,
-        "average": 4.6596284
+        "count": 1185,
+        "average": 4.6599154
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -537,8 +581,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
       "length": "84 mins",
       "ratings": {
-        "count": 611,
-        "average": 4.4124384
+        "count": 612,
+        "average": 4.4133987
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -668,8 +712,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/align-requirements-in-azure/",
       "length": "35 mins",
       "ratings": {
-        "count": 5402,
-        "average": 4.7352834
+        "count": 5403,
+        "average": 4.735332
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -879,8 +923,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-visual-studio/",
       "length": "43 mins",
       "ratings": {
-        "count": 1636,
-        "average": 4.6081905
+        "count": 1637,
+        "average": 4.6065974
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -968,8 +1012,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/keep-your-virtual-machines-updated/",
       "length": "35 mins",
       "ratings": {
-        "count": 2571,
-        "average": 4.485414
+        "count": 2572,
+        "average": 4.4856143
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1212,50 +1256,6 @@
         "Azure",
         "Storage",
         "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-scale-azure-sql-dbs-elastic-pools.md",
-      "title": "Scale multiple Azure SQL Databases with SQL elastic pools",
-      "excerpt": "SQL elastic pools allow you to manage performance and cost for a collection of SQL databases.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-scale-azure-sql-dbs-elastic-pools/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
-      "length": "39 mins",
-      "ratings": {
-        "count": 3261,
-        "average": 4.5725236
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-scale-azure-sql-databases-elastic-pools-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Scale multiple Azure SQL Databases with SQL elastic pools",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Management Tools"
       ]
     }
   ],

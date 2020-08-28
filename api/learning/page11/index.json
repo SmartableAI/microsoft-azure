@@ -4,6 +4,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-design-ip-addressing-for-azure.md",
+      "title": "Design an IP addressing schema for your Azure deployment",
+      "excerpt": "A good Azure IP addressing schema provides flexibility, room for growth, and integration with on-premises networks. The schema ensures that communication works for deployed resources, minimizes public exposure of systems, and gives the organization flexibility in its network. If not properly designed, systems might not be able to communicate, and additional work will be required to remediate.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-ip-addressing-for-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/",
+      "length": "37 mins",
+      "ratings": {
+        "count": 1047,
+        "average": 4.7239733
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/design-ip-addressing-for-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Design an IP addressing schema for your Azure deployment",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-explore-data-ingestion-azure.md",
       "title": "Explore data ingestion in Azure",
       "excerpt": "Explore the different data ingestion options available when you are building a data warehouse with Azure. See how to use Azure Data Factory to ingest data into a data warehouse.",
@@ -137,8 +180,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/export-data-with-azure-import-export/",
       "length": "24 mins",
       "ratings": {
-        "count": 394,
-        "average": 4.6928935
+        "count": 395,
+        "average": 4.6936707
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -356,8 +399,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-authentication/",
       "length": "8 mins",
       "ratings": {
-        "count": 1027,
-        "average": 4.693281
+        "count": 1028,
+        "average": 4.6935797
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -398,8 +441,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-zero-trust/",
       "length": "PT35M",
       "ratings": {
-        "count": 67,
-        "average": 4.776119
+        "count": 68,
+        "average": 4.779412
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -439,8 +482,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing-dynamics-365-deployment/",
       "length": "PT45M",
       "ratings": {
-        "count": 1718,
-        "average": 4.689173
+        "count": 1719,
+        "average": 4.6893544
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -943,8 +986,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-custom-domain-name-azure-active-directory/",
       "length": "18 mins",
       "ratings": {
-        "count": 747,
-        "average": 4.6586347
+        "count": 748,
+        "average": 4.659091
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1198,8 +1241,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/characterize-devops-continous-collaboration-improvement/",
       "length": "17 mins",
       "ratings": {
-        "count": 257,
-        "average": 4.6575875
+        "count": 258,
+        "average": 4.6589146
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1281,8 +1324,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-db-for-postgresql-server/",
       "length": "44 mins",
       "ratings": {
-        "count": 1761,
-        "average": 4.6195345
+        "count": 1762,
+        "average": 4.6197505
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1359,47 +1402,6 @@
         "Azure",
         "AI",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-nodejs-project-dependencies.md",
-      "title": "Create a new Node.js project and work with dependencies",
-      "excerpt": "Create a Node.js project and learn to add packages and manage package dependencies in your project.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-nodejs-project-dependencies/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-nodejs-project-dependencies/",
-      "length": "PT25M",
-      "ratings": {
-        "count": 158,
-        "average": 4.797468
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],

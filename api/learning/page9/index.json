@@ -4,6 +4,50 @@
   "page": 9,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-azure-scale-azure-sql-dbs-elastic-pools.md",
+      "title": "Scale multiple Azure SQL Databases with SQL elastic pools",
+      "excerpt": "SQL elastic pools allow you to manage performance and cost for a collection of SQL databases.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-scale-azure-sql-dbs-elastic-pools/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
+      "length": "39 mins",
+      "ratings": {
+        "count": 3262,
+        "average": 4.5726547
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-scale-azure-sql-databases-elastic-pools-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Scale multiple Azure SQL Databases with SQL elastic pools",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-well-architected-cost-optimization.md",
       "title": "Microsoft Azure Well-Architected Framework - Cost optimization",
       "excerpt": "Learn how to use the cost optimization pillar of the Microsoft Azure Well-Architected Framework to design a cloud-based architecture that is efficient, eliminates waste, and gives you full visibility into where your money is spent on cloud resources.",
@@ -11,8 +55,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
       "length": "PT51M",
       "ratings": {
-        "count": 774,
-        "average": 4.7093024
+        "count": 775,
+        "average": 4.709677
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -104,8 +148,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
       "length": "70 mins",
       "ratings": {
-        "count": 2534,
-        "average": 4.570639
+        "count": 2535,
+        "average": 4.570809
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -150,8 +194,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-an-agile-approach/",
       "length": "PT40M",
       "ratings": {
-        "count": 5132,
-        "average": 4.7453237
+        "count": 5133,
+        "average": 4.7453732
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -491,8 +535,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-app-that-queries-azure-sql/",
       "length": "50 mins",
       "ratings": {
-        "count": 2391,
-        "average": 4.529904
+        "count": 2392,
+        "average": 4.5301003
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -534,8 +578,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ha-application-storage-with-grs/",
       "length": "34 mins",
       "ratings": {
-        "count": 1186,
-        "average": 4.4780774
+        "count": 1187,
+        "average": 4.478517
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -619,8 +663,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduce-foundation-pillars-devops/",
       "length": "25 mins",
       "ratings": {
-        "count": 558,
-        "average": 4.66129
+        "count": 560,
+        "average": 4.660714
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -661,8 +705,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/load-balance-web-traffic-with-application-gateway/",
       "length": "92 mins",
       "ratings": {
-        "count": 1749,
-        "average": 4.5780444
+        "count": 1750,
+        "average": 4.5782857
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -704,8 +748,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-provisioning/",
       "length": "17 mins",
       "ratings": {
-        "count": 1261,
-        "average": 4.7240286
+        "count": 1262,
+        "average": 4.7242475
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -875,8 +919,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/move-azure-resources-another-resource-group/",
       "length": "42 mins",
       "ratings": {
-        "count": 1404,
-        "average": 4.5897436
+        "count": 1405,
+        "average": 4.5879
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -998,8 +1042,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-azure-network-infrastructure/",
       "length": "37 mins",
       "ratings": {
-        "count": 1835,
-        "average": 4.574387
+        "count": 1837,
+        "average": 4.57485
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1349,50 +1393,6 @@
         "IoT",
         "Blockchain",
         "Integration"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-build-azure-vm-templates.md",
-      "title": "Build Azure Resource Manager templates",
-      "excerpt": "Learn how Resource Manager templates express your deployments as code, enabling you to deploy faster and more reliably.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-azure-vm-templates/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-azure-vm-templates/",
-      "length": "37 mins",
-      "ratings": {
-        "count": 3256,
-        "average": 4.533477
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/build-azure-vm-templates-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Build Azure Resource Manager templates",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Management Tools"
       ]
     }
   ],
