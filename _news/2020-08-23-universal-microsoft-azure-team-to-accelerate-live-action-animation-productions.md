@@ -106,6 +106,20 @@ related:
       name: Proactive Investors
       domain: proactiveinvestors.co.uk
     quality: 31
+  - title: "Microsoft Proposes Azure Sentinel Solution for Finding Vulnerable Netlogon Clients"
+    excerpt: "Microsoft engineers outlined a way to find vulnerable Netlogon channel connections for organizations using newer Windows Server systems."
+    publishedDateTime: 2020-08-28T20:16:00Z
+    webUrl: "https://redmondmag.com/articles/2020/08/28/azure-sentinel-solution-for-netlogon.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 31
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN1SingleRedRockLightGreenRocks.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
     excerpt: "Universal Filmed Entertainment Group and Microsoft Corp. on Friday announced a strategic partnership to cloud-optimize live-action"
     publishedDateTime: 2020-08-21T15:00:00Z

@@ -1,25 +1,27 @@
 ---
 category: news
-title: "Microsoft and TSMC announce Joint Innovation Lab to accelerate silicon design on Azure"
-excerpt: "Right now, every industry and every customer is going through a massive transformation, and cloud computing is often a central enabler of this."
-publishedDateTime: 2020-08-24T14:00:18Z
-originalUrl: "https://azure.microsoft.com/blog/microsoft-and-tsmc-announce-joint-innovation-lab-to-accelerate-silicon-design-on-azure/"
-webUrl: "https://azure.microsoft.com/blog/microsoft-and-tsmc-announce-joint-innovation-lab-to-accelerate-silicon-design-on-azure/"
+title: "Microsoft Proposes Azure Sentinel Solution for Finding Vulnerable Netlogon Clients"
+excerpt: "Microsoft engineers outlined a way to find vulnerable Netlogon channel connections for organizations using newer Windows Server systems."
+publishedDateTime: 2020-08-28T20:16:00Z
+originalUrl: "https://redmondmag.com/articles/2020/08/28/azure-sentinel-solution-for-netlogon.aspx"
+webUrl: "https://redmondmag.com/articles/2020/08/28/azure-sentinel-solution-for-netlogon.aspx"
 type: article
-quality: 59
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Redmond Magazine
+  domain: redmondmag.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN1SingleRedRockLightGreenRocks.jpg"
+    width: 647
+    height: 450
+    isCached: true
 
 related:
   - title: "Trend Micro Announces Cloud Solution to Strengthen Misconfiguration Protection for Microsoft Azure"
@@ -33,6 +35,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 63
+  - title: "Microsoft and TSMC announce Joint Innovation Lab to accelerate silicon design on Azure"
+    excerpt: "Right now, every industry and every customer is going through a massive transformation, and cloud computing is often a central enabler of this."
+    publishedDateTime: 2020-08-24T14:00:18Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-and-tsmc-announce-joint-innovation-lab-to-accelerate-silicon-design-on-azure/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 59
   - title: "Universal & Microsoft Azure Team To Accelerate Live-Action & Animation Productions"
     excerpt: "Universal Filmed Entertainment Group and Microsoft Corp. have formed a strategic partnership to cloud-optimize live-action and animation productions. The team-up will streamline workflows, and"
     publishedDateTime: 2020-08-21T16:00:00Z
@@ -102,20 +113,6 @@ related:
       name: Proactive Investors
       domain: proactiveinvestors.co.uk
     quality: 31
-  - title: "Microsoft Proposes Azure Sentinel Solution for Finding Vulnerable Netlogon Clients"
-    excerpt: "Microsoft engineers outlined a way to find vulnerable Netlogon channel connections for organizations using newer Windows Server systems."
-    publishedDateTime: 2020-08-28T20:16:00Z
-    webUrl: "https://redmondmag.com/articles/2020/08/28/azure-sentinel-solution-for-netlogon.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 31
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN1SingleRedRockLightGreenRocks.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Universal & Microsoft Azure Team To Accelerate Live-Action & Animation Productions"
     excerpt: "Universal Filmed Entertainment Group and Microsoft Corp. have formed a strategic partnership to cloud-optimize live-action and animation productions. The team-up will streamline workflows, and enable frictionless remote collaboration and content creation though a cloud-based production workflow,"
     publishedDateTime: 2020-08-23T12:35:00Z
@@ -140,6 +137,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "PUGHClUZEBn/lbbtV2KZdXhVbGcQk9pjCPO32f9upmzDDy3TBVgnGp83uOo9iE0GUBGizMYtxqo258bZePsxF1vSNT1iWY3unnvxqS6/AJ+gM9gFZ/B2QBkIx1+4xQIKU2TpuG69kGTkIcq4TlYFJKaK3dvKmHnY4nrWR3r3jWo7kK7k6bM8gmxGZCkUkYPpa66crI2pqsOP0gp2T/AQKG5XnL13cXgcBNvYN5v9xFWQXsn+kvzUEVaM1l6SowKbVlCPp7OJcwqrVqQiBEw+8zkaqUHsNiNKvGUN+Tj2IrXJFNOqc7LVqqacKTdZBkxAtXDI1OUKokFoXclME6dyMA==;sg2VVBvM3cI6tTs44YOhHg=="
+secured: "KI0zozUmHDILvp4nxWndhhUZL7wno/MvJV6j9XL94fM/O1oZGiI4Cy7lv6Yh3V4l5afnc7Rf02mf1dk5dhFgLmvja9oiZDK1gulWjZzF4iVvHyuPF3tsFXB01xS4ka1230PC9JoXs5KoAsbTg69/SKJNvzLISWaeGrKA1te2Jj4KfIoabX4nwjX0NSRZ50YvChVD4mrwwpeyjqMwH6Cl6LYLZmi1E/QaoDY/0xNUuPNbVqdxhvQZRu+Wc4tgq8aTSRTcpBAS4UT1/6BcbgkIArVTqBeR0AfQFVpae+Hm7hwG7HOm5obx4SqxAXuaefFYNUzB4UQv5xZ0AWqMzllPTuu7Optr8Eq4tad9aLbfuWg=;Q12IBJwHHdxHbliGj0RNww=="
 ---
 

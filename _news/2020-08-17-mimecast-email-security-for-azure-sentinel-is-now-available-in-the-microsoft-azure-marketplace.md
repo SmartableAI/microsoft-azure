@@ -1,23 +1,27 @@
 ---
 category: news
 title: "Mimecast® Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
-excerpt: "Mimecast customers can now take advantage of the Microsoft Azure Sentinel's scalability, high availability, and security, with streamlined deployment and management. By logging email activity in ..."
-publishedDateTime: 2020-08-17T09:50:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/08/g17115771/mimecast-email-security-for-azure-sentinel-is-now-available-in-the-microsoft-azure-marketplace"
-webUrl: "https://www.benzinga.com/pressreleases/20/08/g17115771/mimecast-email-security-for-azure-sentinel-is-now-available-in-the-microsoft-azure-marketplace"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17115771"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17115771"
+excerpt: "(GLOBE NEWSWIRE) -- Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure Marketplace,"
+publishedDateTime: 2020-08-17T09:30:00Z
+originalUrl: "https://apnews.com/4710425f0bbe81da97cd4d269601accc"
+webUrl: "https://apnews.com/4710425f0bbe81da97cd4d269601accc"
 type: article
 quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "AmploFly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
@@ -308,6 +312,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "Fxfm3niOEO5Vo+kR8VGSi5m9hTSp4zznkHlcr8Yf4ETZdwcE+qzefxW1hUBYHaf+BWhv9tsrYsf4vnLMkaGH0bkcMy2IsngKzS6fHxBFy+Ju01P0TxR7OqOvlL63onZ4SVtDapbxwErFwrbjwHYJNuraEUaNX7iwEK8PC0z0urkL0OvCRI44pfMrlr/iC/ByoVjggIPwDvItNH+TlgorOjmyxHq9YgCL26813WdpCdOSiy5kHFbXL/pYAlksrzYlGWgQWTE6RXkjXCij8TZQyASYKiWuYvv4yDEHRPoDbXbJj36phTRtIEYPiw3HuOTFT8O/eDE2MA+BtT/sga1Ms4tlVPmGFgq27p8g2lD59Hg=;/GWFR2+g3prc+06D9biXTg=="
+secured: "arl2p+QlRzZT6afyn29wwJLaYnOGmg+NJSxfRDIcr5tUphOuYLISEatABVjzymShU+8b43ar//lDEj4LwYWj73PQ6k0jX4xX8dwgsVyUgR/5KAvX5DnlGTMLwkqbY2UAVvkHNdFUvgx9EPkvZvSM2KRM8b82827x8g0aulF9xCILt4EB8io0tR0swmK8mpZIFqP19aBrG2YhYlXBwiUYmjMuIPSnRw1Eod718epLE7z6En+odcWU3a+xaLgoKTrJZX0G/rcI/oZAFPW7HGqnOQk5aan/RjqqaYT3ZHprrhg1H4MotiLLEPddEK9JmHR8A3UoEAiiaiBShOA+4/Mgu7OLMynhh04y4uxywhJAiBU=;+mJxrgBAZqhmsxdvnryMEg=="
 ---
 
