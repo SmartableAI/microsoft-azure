@@ -119,19 +119,14 @@ related:
       domain: imdb.com
     quality: 11
   - title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
-    excerpt: "They will bring those workflows into Microsoft Azure and ensure Universal’s ecosystem of partners can connect to them in open, standards-based ways. This partnership will also enable the development of near-term solutions to accelerate a return to ..."
-    publishedDateTime: 2020-08-21T15:05:00Z
-    webUrl: "https://news.microsoft.com/2020/08/21/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions/"
+    excerpt: "They will bring those workflows into Microsoft Azure and ensure Universal's ecosystem of partners can connect to them in open, standards-based ways. This partnership will also enable the ..."
+    publishedDateTime: 2020-08-21T20:49:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20200821sf99683/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 8
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/prod/2020/08/NBCU-MS-Logo-Lockup-MNC-1024x512.jpg"
-        width: 1024
-        height: 512
-        isCached: true
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "KKGO0OmPLaptrQ2sMrU88pPB2QQ3xooK0SVBo17W3bObxuK2moGAA78bnbx3OZ6AIfzJUE+O9y5MeUsMe7nEm8xlTihCpFzvHXEsxuq4svj7rObCpq4/jvhe0gMaVuhmZHP4AEbOc7xjelind2IRjOh5/OPK34Mj62z+VFcekrFdO2mAGHmfXrmdgICWIToN7dCj3rl2ix0Ce3n9H+lCp6kyedMe6DlO1KcIUgCzChw9LsatTyHL1B4U5jNi5JFMq9FeukTS8ZfGUoFXtXh5ybaXpY9yf7BfM+S0zordDjAXbu3T1gS33/+5MjGDRhL77u4Fl6D4WoR5XZLbmF3gDDEv9gRhLJcAsywRukEIfjOTOb32mgzLdyHtTXsFOw7duUPC1Br4Dxv7szTWMyF0iBKS78xCPFIIYEMkKmVE+HoyPvCeSnaMl8v8kx/B4OF2qQoJQ+7VMSDECzQauaX33jkHLEzGUf6g/8Zdk4MbBWp88CKVLh5IS5vAdv9v3CEB6ezsZAMz82GDWtASSY+Cr/sM2JjZoBLhEuzHPacWjsI=;71MObegQv2F76Vys80ckSQ=="
 ---

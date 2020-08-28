@@ -118,19 +118,14 @@ related:
       domain: proactiveinvestors.co.uk
     quality: 31
   - title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
-    excerpt: "They will bring those workflows into Microsoft Azure and ensure Universal’s ecosystem of partners can connect to them in open, standards-based ways. This partnership will also enable the development of near-term solutions to accelerate a return to ..."
-    publishedDateTime: 2020-08-21T15:05:00Z
-    webUrl: "https://news.microsoft.com/2020/08/21/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions/"
+    excerpt: "They will bring those workflows into Microsoft Azure and ensure Universal's ecosystem of partners can connect to them in open, standards-based ways. This partnership will also enable the ..."
+    publishedDateTime: 2020-08-21T20:49:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20200821sf99683/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 8
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/prod/2020/08/NBCU-MS-Logo-Lockup-MNC-1024x512.jpg"
-        width: 1024
-        height: 512
-        isCached: true
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "tR/ywCOthRmDTkCLTVl9SjKnFnlfi40B1MBMgmLUrWcEu5RyKBryd4nPg68h3ozGzy1wENVVDxj7Kh1GV4vJj6ZvV2ZVe07kPJ8nwoENibIRKzPXpXXuGHrCZvkscy620muLGSI8hmYaBdL83LMalhVO3mMTkQ5Cw9QNpsVu5qSVg896Qt2tBBhHjepM9zM25bH1IjiYbUi4R+X7qiM9APqQgLjH7N/mfl2p7AditI9IuNCb2Rydc2LuU6868absaD4YWuuxdbL9Q1Pw3gf7tkROi0laKLw5R68J3DHQ5fl3etwXSRinIY/9/AbW2GrUAks6hJWfAOOxA1Xz4cbzXZcq/F+t5KzDuX/82UJRyrNWCDcqSJQpp6RAHtWQ38rLVArkK4C5Io8QkdcHAfFcFo44chl7vvnK2nrKSp7rLbsSoQQUVM9caCW74h3Liko0jXclCDajloUYumFaSprRTeilGQrTOpK1T4uQb3cATuNnUsKbzqV3/o+IyBJBH4sD;bOgxjDDK4Agk+kQQuJd7NA=="
 ---

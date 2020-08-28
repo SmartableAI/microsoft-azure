@@ -124,19 +124,14 @@ related:
       domain: imdb.com
     quality: 11
   - title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
-    excerpt: "They will bring those workflows into Microsoft Azure and ensure Universal’s ecosystem of partners can connect to them in open, standards-based ways. This partnership will also enable the development of near-term solutions to accelerate a return to ..."
-    publishedDateTime: 2020-08-21T15:05:00Z
-    webUrl: "https://news.microsoft.com/2020/08/21/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions/"
+    excerpt: "They will bring those workflows into Microsoft Azure and ensure Universal's ecosystem of partners can connect to them in open, standards-based ways. This partnership will also enable the ..."
+    publishedDateTime: 2020-08-21T20:49:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20200821sf99683/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 8
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/prod/2020/08/NBCU-MS-Logo-Lockup-MNC-1024x512.jpg"
-        width: 1024
-        height: 512
-        isCached: true
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "NT/hXmcyTl9Vn78VaHq2PjsEybac6rOYBfWtBkYESQ0IjWiXIrnOppjmt56FnYr09fr2R+mneB7vBfh6ymSeD8SLZlWzVd+MlzXL8zBVa+lvUVD4Wt24hV3EN2sz2p8yWUfiKX3Yzb3C/51vmW5LVvEl2Mwy88yFv9qu8lIVBzsYC/QzIu2qaR0eNmQmCtFOmZBqzKJmUuOd8ET3UQ9+vdvt2qYnbIkwHg7yoyo6Q0l4E/4tXX8fWAU4Yq5Bgce+Druj26f9nIlhWNyiwDC89ePaAAs/FyjXnYOqb6F40UTr0F+r0Ro4QuppSuE9m3e2Q7YGukcYJGnPN3UX1vz8wQ==;6r5WBjwV9QJ3NotTuI0YRg=="
 ---

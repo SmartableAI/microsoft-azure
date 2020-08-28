@@ -1,31 +1,21 @@
 ---
 category: news
 title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
-excerpt: "They will bring those workflows into Microsoft Azure and ensure Universal’s ecosystem of partners can connect to them in open, standards-based ways. This partnership will also enable the development of near-term solutions to accelerate a return to ..."
-publishedDateTime: 2020-08-21T15:05:00Z
-originalUrl: "https://news.microsoft.com/2020/08/21/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions/"
-webUrl: "https://news.microsoft.com/2020/08/21/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions/"
+excerpt: "They will bring those workflows into Microsoft Azure and ensure Universal's ecosystem of partners can connect to them in open, standards-based ways. This partnership will also enable the ..."
+publishedDateTime: 2020-08-21T20:49:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20200821sf99683/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20200821sf99683/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions"
 type: article
-quality: 8
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/prod/2020/08/NBCU-MS-Logo-Lockup-MNC-1024x512.jpg"
-    width: 1024
-    height: 512
-    isCached: true
 
 related:
   - title: "Trend Micro Announces Cloud Solution to Strengthen Misconfiguration Protection for Microsoft Azure"
@@ -138,6 +128,6 @@ related:
       domain: imdb.com
     quality: 11
 
-secured: "FiCAtH8stc0r2b8U0ATGXgBVZaEgorIlGH9QXCncgv6d6629cpUDXr71CSmYWZR60UlSVr+nTZZ6c41z3Ia/XE+JAFO/X1vpn0H8fVAhuliUAX0zBPmGnnwPppc/chpJXZh35B355jnD0tHaJSRvpKbgWpmCmbD7GDwe18BEkmvoVBovgoM56a5nFiuZo7F95bxjC3pLXobvEn5aSlNonBS72vs+5u2bhesJM5v0q4ZALxMHQeQ3y7tUjwHI/mlKOliUoT7zgW7LEZO8hW01FKZ1twJXQPbWXsFDTFdOGHgM6jiTWVPhfYLgxIZuaohfeS2xoIdxDosz/HR6aCN9akLbcTx9fcI4675KyxjcMNQ=;FiegSK7NE6BhkNj6nw0xfg=="
+secured: "aw3B+fIN7jAmthQyE381NPT1DlvZjWu1seKwVfGZAdY8nrzCmhlij2uCKQwb3PFde9gYmJHjDrvIpsRbCcro0PIHAiljTXvzhdzGrv+UtZRP+VP5Cbb4/ykXsnPAt8rCwjxddmFG0fp+YHknB7JPgCGeqUt2Fd41toQWL/JrJxn966pvgfV68fCeqUK4g2YjabT5mhys+moGtgR/5ZItR7XDj2qJ48o6vOgwBafSl6y377lU69iCgHnu/JHZVT8E4HLnX3c7u1IqJQgGbuUPZ9aq5yLEt1HHmvIZyELlplI3IIdd9pGS7oJVnjA4wG03NDvO+fr5LfY1H6pWNfno1B9R5L+zcMP3r/h4ZkPNhgA=;cgeQjh8WnaP+Ljl/hs+QhA=="
 ---
 
