@@ -3,6 +3,7 @@ category: news
 title: "Cloud Services improves Delivery Auto operations and realizes 30% infrastructure savings with Microsoft Azure"
 excerpt: "With over 400 warehouses, Delivery Auto provides domestic and international shipping logistics across Ukraine. The company retained Cloud Services to optimize and scale its existing Microsoft Azure implementation."
 publishedDateTime: 2020-08-07T22:11:00Z
+originalUrl: "https://news.microsoft.com/en-cee/2020/08/07/cloud-services-improves-delivery-auto-operations-and-realizes-30-infrastructure-savings-with-microsoft-azure/"
 webUrl: "https://news.microsoft.com/en-cee/2020/08/07/cloud-services-improves-delivery-auto-operations-and-realizes-30-infrastructure-savings-with-microsoft-azure/"
 type: article
 quality: 18

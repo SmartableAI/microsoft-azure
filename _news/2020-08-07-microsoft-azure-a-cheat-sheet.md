@@ -3,6 +3,7 @@ category: news
 title: "Microsoft Azure: A cheat sheet"
 excerpt: "This comprehensive guide about Microsoft Azure includes common use cases, technical limitations, and what to know before adopting the cloud computing platform. The rise of cloud computing provides businesses the ability to quickly provision computing ..."
 publishedDateTime: 2020-08-07T00:22:00Z
+originalUrl: "https://www.techrepublic.com/article/microsoft-azure-the-smart-persons-guide/"
 webUrl: "https://www.techrepublic.com/article/microsoft-azure-the-smart-persons-guide/"
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-the-smart-persons-guide/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-the-smart-persons-guide/"
