@@ -4,123 +4,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-improve-your-reliability-with-modern-operations-practices.md",
-      "title": "Improve your reliability with modern operations practices",
-      "excerpt": "The reliability of your systems, services and products has a direct impact on your success. Learn the modern operations principles and practices (and the Azure features that support them) that will help you achieve the level of reliability you need.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-improve-your-reliability-with-modern-operations-practices/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-improve-your-reliability-with-modern-operations-practices/",
-      "length": "PT2H50M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Improve your reliability with modern operations practices: An introduction",
-          "excerpt": "The reliability of your systems, services, and products are crucial to your success and the success of your organization. Learn how to approach those challenges.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/improve-reliability-introduction-social.png",
-              "width": 640,
-              "height": 320,
-              "title": "Improve your reliability with modern operations practices: An introduction",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Improve your reliability with modern operations practices: Monitoring",
-          "excerpt": "Monitoring is the foundational practice you must tackle before you can make any headway with reliability. Learn what (and what not) to monitor to improve it using the tools available on Azure.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/improve-reliability-monitoring-social.png",
-              "width": 640,
-              "height": 320,
-              "title": "Improve your reliability with modern operations practices: Monitoring",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Improve your reliability with modern operations practices: Incident response",
-          "excerpt": "Everyone has incidents, but the top performing organizations know how to respond to them effectively. Learn the fundamentals of efficient incident response and the Azure tools that make them possible.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/improve-reliability-incidents-social.png",
-              "width": 640,
-              "height": 320,
-              "title": "Improve your reliability with modern operations practices: Incident response",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Improve your reliability with modern operations practices: Learning from failure",
-          "excerpt": "Incidents will happen—there’s no doubt about that. The key question is whether you will treat them as a learning opportunity to make your operations practice better or just as a loss of time, money, and reputation. Learn the practice and the Azure tools that can help level up your operations practice by learning from failure.",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/improve-reliability-failure-social.png",
-              "width": 640,
-              "height": 320,
-              "title": "Improve your reliability with modern operations practices: Learning from failure",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/improve-reliability-introduction-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Improve your reliability with modern operations practices: An introduction",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-migrate-virtual-machines-and-apps-using-azure-migrate.md",
       "title": "Migrate virtual machines and apps using Azure Migrate",
       "excerpt": "The Virtual machine and app migration using Azure Migrate learning path gives you a step-by-step process to help you understand, set up, assess, and migrate virtual and physical servers, databases, applications, and virtual desktops from on-premises to the Azure infrastructure. Azure Migrate now includes fully integrated and optimized migration-specific tools previously available only in Azure Site Recovery.",
@@ -843,7 +726,7 @@
           "path": "",
           "title": "Using IoT Central with Connected Field Service for Dynamics 365",
           "excerpt": "This module focuses on using IoT Central with Connected Field Service add-on for Dynamics 365 for Field Service.  The module walks you through building an IoT Central application and escalating the alerts into Dynamics 365.",
-          "heat": 50,
+          "heat": 110,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/using-iot-central-with-connected-field-service-social.png",
@@ -886,8 +769,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/allow-users-reset-their-password/",
       "length": "31 mins",
       "ratings": {
-        "count": 1314,
-        "average": 4.7070017
+        "count": 1316,
+        "average": 4.7051673
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -929,8 +812,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/assess-your-development-process/",
       "length": "PT19M",
       "ratings": {
-        "count": 6523,
-        "average": 4.70581
+        "count": 6524,
+        "average": 4.7058554
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1064,8 +947,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-azure-sql-data-warehouse/",
       "length": "47 mins",
       "ratings": {
-        "count": 2548,
-        "average": 4.5745683
+        "count": 2549,
+        "average": 4.574735
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1107,8 +990,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/distribute-load-with-traffic-manager/",
       "length": "29 mins",
       "ratings": {
-        "count": 1852,
-        "average": 4.522138
+        "count": 1853,
+        "average": 4.522396
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1150,8 +1033,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/",
       "length": "28 mins",
       "ratings": {
-        "count": 4387,
-        "average": 4.673581
+        "count": 4390,
+        "average": 4.6738043
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1192,8 +1075,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
       "length": "65 mins",
       "ratings": {
-        "count": 4890,
-        "average": 4.5957055
+        "count": 4892,
+        "average": 4.5956664
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1237,8 +1120,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
       "length": "37 mins",
       "ratings": {
-        "count": 4364,
-        "average": 4.645509
+        "count": 4365,
+        "average": 4.64559
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1367,8 +1250,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-cosmos-db-for-scale/",
       "length": "35 mins",
       "ratings": {
-        "count": 3621,
-        "average": 4.640707
+        "count": 3622,
+        "average": 4.640806
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1454,8 +1337,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-data-analytics/",
       "length": "PT16M",
       "ratings": {
-        "count": 343,
-        "average": 4.8221574
+        "count": 345,
+        "average": 4.82029
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1496,8 +1379,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/",
       "length": "54 mins",
       "ratings": {
-        "count": 1871,
-        "average": 4.6429715
+        "count": 1872,
+        "average": 4.6431623
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1581,8 +1464,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-overview/",
       "length": "8 mins",
       "ratings": {
-        "count": 1704,
-        "average": 4.7194834
+        "count": 1705,
+        "average": 4.719648
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1624,8 +1507,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-device-identity-ad-join/",
       "length": "PT25M",
       "ratings": {
-        "count": 724,
-        "average": 4.5662985
+        "count": 725,
+        "average": 4.5655174
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2011,6 +1894,50 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-build-and-run-a-web-application-with-the-mean-stack-on-an-azure-linux-vm.md",
+      "title": "Build and run a web application with the MEAN stack on an Azure Linux virtual machine",
+      "excerpt": "Learn how to set up a MEAN-based web application on a new Azure Linux virtual machine.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-and-run-a-web-application-with-the-mean-stack-on-an-azure-linux-vm/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/",
+      "length": "42 mins",
+      "ratings": {
+        "count": 1631,
+        "average": 4.569589
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/build-a-web-app-with-mean-on-a-linux-vm-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Build and run a web application with the MEAN stack on an Azure Linux virtual machine",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Management Tools"
       ]
     }
   ],

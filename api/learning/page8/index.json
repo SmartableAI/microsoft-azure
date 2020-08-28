@@ -4,50 +4,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-build-and-run-a-web-application-with-the-mean-stack-on-an-azure-linux-vm.md",
-      "title": "Build and run a web application with the MEAN stack on an Azure Linux virtual machine",
-      "excerpt": "Learn how to set up a MEAN-based web application on a new Azure Linux virtual machine.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-and-run-a-web-application-with-the-mean-stack-on-an-azure-linux-vm/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/",
-      "length": "42 mins",
-      "ratings": {
-        "count": 1631,
-        "average": 4.569589
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/build-a-web-app-with-mean-on-a-linux-vm-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Build and run a web application with the MEAN stack on an Azure Linux virtual machine",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-communicate-between-applications-with-azure-queue-storage.md",
       "title": "Communicate between applications with Azure Queue storage",
       "excerpt": "Implement the publish-subscribe pattern in the cloud using Azure Queue storage.",
@@ -98,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/",
       "length": "PT1H20M",
       "ratings": {
-        "count": 4590,
-        "average": 4.7413945
+        "count": 4593,
+        "average": 4.7415633
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -250,8 +206,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
       "length": "60 mins",
       "ratings": {
-        "count": 1961,
-        "average": 4.6231513
+        "count": 1962,
+        "average": 4.6228337
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -334,8 +290,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-non-relational-data/",
       "length": "PT26M",
       "ratings": {
-        "count": 283,
-        "average": 4.8657246
+        "count": 284,
+        "average": 4.8591547
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -376,8 +332,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/import-data-into-asdw-with-polybase/",
       "length": "66 mins",
       "ratings": {
-        "count": 1896,
-        "average": 4.5559072
+        "count": 1897,
+        "average": 4.5561414
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -668,8 +624,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/access-data-with-cosmos-db-and-sql-api/",
       "length": "58 mins",
       "ratings": {
-        "count": 2395,
-        "average": 4.651357
+        "count": 2396,
+        "average": 4.6515026
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -835,8 +791,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
       "length": "55 mins",
       "ratings": {
-        "count": 1361,
-        "average": 4.6429095
+        "count": 1362,
+        "average": 4.643172
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -879,8 +835,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-and-publish-a-luis-model/",
       "length": "54 mins",
       "ratings": {
-        "count": 1429,
-        "average": 4.6515045
+        "count": 1430,
+        "average": 4.651049
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1179,8 +1135,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-app-data-with-azure-blob-storage/",
       "length": "50 mins",
       "ratings": {
-        "count": 2644,
-        "average": 4.574508
+        "count": 2645,
+        "average": 4.5746694
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1222,8 +1178,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/",
       "length": "37 mins",
       "ratings": {
-        "count": 1265,
-        "average": 4.622925
+        "count": 1266,
+        "average": 4.623223
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1256,6 +1212,50 @@
         "Azure",
         "Storage",
         "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-azure-scale-azure-sql-dbs-elastic-pools.md",
+      "title": "Scale multiple Azure SQL Databases with SQL elastic pools",
+      "excerpt": "SQL elastic pools allow you to manage performance and cost for a collection of SQL databases.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-scale-azure-sql-dbs-elastic-pools/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
+      "length": "39 mins",
+      "ratings": {
+        "count": 3261,
+        "average": 4.5725236
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-scale-azure-sql-databases-elastic-pools-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Scale multiple Azure SQL Databases with SQL elastic pools",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Management Tools"
       ]
     }
   ],

@@ -257,8 +257,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/",
       "length": "62 mins",
       "ratings": {
-        "count": 158865,
-        "average": 4.771869
+        "count": 158895,
+        "average": 4.771862
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -300,8 +300,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
       "length": "39 mins",
       "ratings": {
-        "count": 127233,
-        "average": 4.6949925
+        "count": 127248,
+        "average": 4.695005
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -343,8 +343,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
       "length": "38 mins",
       "ratings": {
-        "count": 60373,
-        "average": 4.707634
+        "count": 60387,
+        "average": 4.707669
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -516,8 +516,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-data-in-azure/",
       "length": "25 mins",
       "ratings": {
-        "count": 52568,
-        "average": 4.7323656
+        "count": 52577,
+        "average": 4.7323923
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -550,6 +550,49 @@
         "Azure",
         "Storage",
         "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-control-azure-services-with-cli.md",
+      "title": "Control Azure services with the CLI",
+      "excerpt": "Install the Azure CLI locally and use it to manage Azure resources.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-control-azure-services-with-cli/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-azure-services-with-cli/",
+      "length": "34 mins",
+      "ratings": {
+        "count": 3791,
+        "average": 4.7441306
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 127,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/control-azure-services-with-cli-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Control Azure services with the CLI",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools"
       ]
     },
     {
@@ -684,8 +727,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/",
       "length": "45 mins",
       "ratings": {
-        "count": 64436,
-        "average": 4.7116675
+        "count": 64445,
+        "average": 4.711599
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -971,6 +1014,246 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-manage-resources-in-azure-learning-path.md",
+      "title": "Manage resources in Azure learning path",
+      "excerpt": "Learn how to work with the Azure command line and web portal to create, manage, and control cloud based resources.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-manage-resources-in-azure-learning-path/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-manage-resources-in-azure-learning-path/",
+      "length": "PT5H2M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Align requirements with cloud types and service models in Azure",
+          "excerpt": "Azure supports three approaches to deploying cloud resources - public, private, and the hybrid cloud. Selecting between them will change several factors of the services you move into Azure including cost, maintenance requirements, and security. In this module, we will look at all three types and help you make an informed decision about which one to leverage for your services. We'll also quickly look at the service models supported by Azure which can help you determine the services you should start with when planning out an Azure deployment.",
+          "heat": 57,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/align-requirements-in-azure-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Align requirements with cloud types and service models in Azure",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Control Azure services with the CLI",
+          "excerpt": "Install the Azure CLI locally and use it to manage Azure resources.",
+          "heat": 127,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/control-azure-services-with-cli-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Control Azure services with the CLI",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Automate Azure tasks using scripts with PowerShell",
+          "excerpt": "Install Azure PowerShell locally and use it to manage Azure resources.",
+          "heat": 76,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/automate-azure-tasks-with-powershell-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Automate Azure tasks using scripts with PowerShell",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Predict costs and optimize spending for Azure",
+          "excerpt": "Cost is one of the most important aspects of the cloud and can have a massive impact on your business. Azure has several tools available to help you get a better understanding of cloud spend and some best practices that you can leverage to help you save money.",
+          "heat": 96,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/predict-costs-and-optimize-spending-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Predict costs and optimize spending for Azure",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 115,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/align-requirements-in-azure-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Align requirements with cloud types and service models in Azure",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-manage-resources-in-azure.md",
+      "title": "Manage resources in Azure",
+      "excerpt": "Learn how to work with the Azure command line and web portal to create, manage, and control cloud based resources.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-manage-resources-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-manage-resources-in-azure/",
+      "length": "PT5H2M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Align requirements with cloud types and service models in Azure",
+          "excerpt": "Azure supports three approaches to deploying cloud resources - public, private, and the hybrid cloud. Selecting between them will change several factors of the services you move into Azure including cost, maintenance requirements, and security. In this module, we will look at all three types and help you make an informed decision about which one to leverage for your services. We'll also quickly look at the service models supported by Azure which can help you determine the services you should start with when planning out an Azure deployment.",
+          "heat": 57,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/align-requirements-in-azure-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Align requirements with cloud types and service models in Azure",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Control Azure services with the CLI",
+          "excerpt": "Install the Azure CLI locally and use it to manage Azure resources.",
+          "heat": 127,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/control-azure-services-with-cli-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Control Azure services with the CLI",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Automate Azure tasks using scripts with PowerShell",
+          "excerpt": "Install Azure PowerShell locally and use it to manage Azure resources.",
+          "heat": 76,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/automate-azure-tasks-with-powershell-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Automate Azure tasks using scripts with PowerShell",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Predict costs and optimize spending for Azure",
+          "excerpt": "Cost is one of the most important aspects of the cloud and can have a massive impact on your business. Azure has several tools available to help you get a better understanding of cloud spend and some best practices that you can leverage to help you save money.",
+          "heat": 96,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/predict-costs-and-optimize-spending-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Predict costs and optimize spending for Azure",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 115,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/align-requirements-in-azure-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Align requirements with cloud types and service models in Azure",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-welcome-to-azure.md",
       "title": "Core Cloud Services - Introduction to Azure",
       "excerpt": "Get started with Azure by creating and configuring your first website in the cloud.",
@@ -978,8 +1261,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/",
       "length": "36 mins",
       "ratings": {
-        "count": 63879,
-        "average": 4.7991986
+        "count": 63886,
+        "average": 4.799189
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1021,8 +1304,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/",
       "length": "73 mins",
       "ratings": {
-        "count": 48315,
-        "average": 4.706323
+        "count": 48324,
+        "average": 4.7062745
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1428,89 +1711,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-cmu-virtualize-input-output.md",
-      "title": "Virtualize I/O",
-      "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn about how computer input/output is virtualized. Covers I/O basics and a case study of virtualizing I/O.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-virtualize-input-output/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-virtualize-input-output/",
-      "length": "PT21M",
-      "ratings": {
-        "count": 33,
-        "average": 4.6969695
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/resource-virtualization-input-output-social.png",
-          "width": 1000,
-          "height": 500,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-github-actions-automate-tasks.md",
-      "title": "Automate development tasks by using GitHub Actions",
-      "excerpt": "Create a basic GitHub Action and use that action in a workflow.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-github-actions-automate-tasks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-automate-tasks/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 103,
-        "average": 4.6116505
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/github/github-actions-automate-tasks-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Automate development tasks by using GitHub Actions",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-introduction-to-security.md",
       "title": "Security, responsibility, and trust in Azure",
       "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
@@ -1518,8 +1718,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
       "length": "76 mins",
       "ratings": {
-        "count": 42447,
-        "average": 4.7014866
+        "count": 42455,
+        "average": 4.7014723
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1554,6 +1754,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-using-iot-central-with-connected-field-service.md",
+      "title": "Using IoT Central with Connected Field Service for Dynamics 365",
+      "excerpt": "This module focuses on using IoT Central with Connected Field Service add-on for Dynamics 365 for Field Service.  The module walks you through building an IoT Central application and escalating the alerts into Dynamics 365.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-using-iot-central-with-connected-field-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/using-iot-central-with-connected-field-service/",
+      "length": "58 mins",
+      "ratings": {
+        "count": 52,
+        "average": 4.6538463
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/using-iot-central-with-connected-field-service-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Using IoT Central with Connected Field Service for Dynamics 365",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-governance.md",
       "title": "Apply and monitor infrastructure standards with Azure Policy",
       "excerpt": "Learn about governance and management in Azure services.",
@@ -1561,8 +1804,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
       "length": "46 mins",
       "ratings": {
-        "count": 36314,
-        "average": 4.627554
+        "count": 36318,
+        "average": 4.6275125
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1604,8 +1847,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-networking/",
       "length": "28 mins",
       "ratings": {
-        "count": 41598,
-        "average": 4.7637625
+        "count": 41605,
+        "average": 4.763778
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1647,8 +1890,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
       "length": "46 mins",
       "ratings": {
-        "count": 36727,
-        "average": 4.7119284
+        "count": 36735,
+        "average": 4.7118826
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1690,8 +1933,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimize-spending/",
       "length": "74 mins",
       "ratings": {
-        "count": 38653,
-        "average": 4.713476
+        "count": 38657,
+        "average": 4.7134023
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1733,8 +1976,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
       "length": "67 mins",
       "ratings": {
-        "count": 13393,
-        "average": 4.6828194
+        "count": 13396,
+        "average": 4.6828156
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2018,246 +2261,6 @@
       "topics": [
         "Azure",
         "Storage"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-manage-resources-in-azure-learning-path.md",
-      "title": "Manage resources in Azure learning path",
-      "excerpt": "Learn how to work with the Azure command line and web portal to create, manage, and control cloud based resources.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-manage-resources-in-azure-learning-path/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-manage-resources-in-azure-learning-path/",
-      "length": "PT5H2M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Align requirements with cloud types and service models in Azure",
-          "excerpt": "Azure supports three approaches to deploying cloud resources - public, private, and the hybrid cloud. Selecting between them will change several factors of the services you move into Azure including cost, maintenance requirements, and security. In this module, we will look at all three types and help you make an informed decision about which one to leverage for your services. We'll also quickly look at the service models supported by Azure which can help you determine the services you should start with when planning out an Azure deployment.",
-          "heat": 57,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/align-requirements-in-azure-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Align requirements with cloud types and service models in Azure",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Control Azure services with the CLI",
-          "excerpt": "Install the Azure CLI locally and use it to manage Azure resources.",
-          "heat": 67,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/control-azure-services-with-cli-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Control Azure services with the CLI",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Automate Azure tasks using scripts with PowerShell",
-          "excerpt": "Install Azure PowerShell locally and use it to manage Azure resources.",
-          "heat": 76,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/automate-azure-tasks-with-powershell-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Automate Azure tasks using scripts with PowerShell",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Predict costs and optimize spending for Azure",
-          "excerpt": "Cost is one of the most important aspects of the cloud and can have a massive impact on your business. Azure has several tools available to help you get a better understanding of cloud spend and some best practices that you can leverage to help you save money.",
-          "heat": 96,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/predict-costs-and-optimize-spending-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Predict costs and optimize spending for Azure",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Management Tools"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 91,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/align-requirements-in-azure-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Align requirements with cloud types and service models in Azure",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-manage-resources-in-azure.md",
-      "title": "Manage resources in Azure",
-      "excerpt": "Learn how to work with the Azure command line and web portal to create, manage, and control cloud based resources.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-manage-resources-in-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-manage-resources-in-azure/",
-      "length": "PT5H2M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Align requirements with cloud types and service models in Azure",
-          "excerpt": "Azure supports three approaches to deploying cloud resources - public, private, and the hybrid cloud. Selecting between them will change several factors of the services you move into Azure including cost, maintenance requirements, and security. In this module, we will look at all three types and help you make an informed decision about which one to leverage for your services. We'll also quickly look at the service models supported by Azure which can help you determine the services you should start with when planning out an Azure deployment.",
-          "heat": 57,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/align-requirements-in-azure-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Align requirements with cloud types and service models in Azure",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Control Azure services with the CLI",
-          "excerpt": "Install the Azure CLI locally and use it to manage Azure resources.",
-          "heat": 67,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/control-azure-services-with-cli-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Control Azure services with the CLI",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Automate Azure tasks using scripts with PowerShell",
-          "excerpt": "Install Azure PowerShell locally and use it to manage Azure resources.",
-          "heat": 76,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/automate-azure-tasks-with-powershell-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Automate Azure tasks using scripts with PowerShell",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Predict costs and optimize spending for Azure",
-          "excerpt": "Cost is one of the most important aspects of the cloud and can have a massive impact on your business. Azure has several tools available to help you get a better understanding of cloud spend and some best practices that you can leverage to help you save money.",
-          "heat": 96,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/predict-costs-and-optimize-spending-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Predict costs and optimize spending for Azure",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Management Tools"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 91,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/align-requirements-in-azure-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Align requirements with cloud types and service models in Azure",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools"
       ]
     },
     {
