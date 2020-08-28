@@ -77,17 +77,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Mobius Logic brings drone flight management to Microsoft Azure"
-    excerpt: "PRNewswire-PRWeb/ -- Mobius Logic, Inc. a leader in next-generation digital services, announced today that its Federal Aviation Administration"
-    publishedDateTime: 2020-08-21T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/08/n17190966/mobius-logic-brings-drone-flight-management-to-microsoft-azure"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17190966"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17190966"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
   - title: "Signal Sciences Announces Advanced Protection for Applications on Microsoft Azure"
     excerpt: "Signal Sciences, the fastest growing web application security company in the world, today announced an integration with Microsoft Azure App Service for the Signal Sciences next-gen Web Application ..."
     publishedDateTime: 2020-08-04T14:46:00Z
@@ -123,14 +112,19 @@ related:
       domain: imdb.com
     quality: 11
   - title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
-    excerpt: "They will bring those workflows into Microsoft Azure and ensure Universal's ecosystem of partners can connect to them in open, standards-based ways. This partnership will also enable the ..."
-    publishedDateTime: 2020-08-21T20:49:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20200821sf99683/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions"
+    excerpt: "Universal Filmed Entertainment Group and Microsoft Corp. on Friday announced a strategic partnership to cloud-optimize live-action"
+    publishedDateTime: 2020-08-21T15:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-301116222.html"
     type: article
     provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 0
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 8
+    images:
+      - url: "https://mma.prnewswire.com/media/24227/microsoft_corp_logo226_9217jpg.jpg?p=facebook"
+        width: 2695
+        height: 1414
+        isCached: true
 
 secured: "5RnvrlZ7Alj3Ir+Ljki8AAJkGR5cx7h+SdmQqQyX+DAWHHMO2JZbIK5dIGSrjl2KYRJbSEKbsZH4hB7MvakVR/LdFEp3Rp4YTdGRQ2jeRtHmpvYnXGSE3tQ3ASVErEzY6HDT3Lg3M614A9jF4ofSFWr5V9u/35dN70pDHXOBFEascqS1xOKEho2qb+kS9jE2lp7h9+C8xY+Cz0M9Unrk+oIW2daaBrUblmSwMaIp+voLvK4lXeUgU3C5qKfLKcFmda9GfYri5IQu9kod/IY8ci9xYVvvaXR15erabs7NEfd7pWSQxfLiYXPoRSpqvcaCUeqKuHCavkyIOCyrZj8CTw==;KdOuknHwQwN/V2zuZZeP/A=="
 ---
