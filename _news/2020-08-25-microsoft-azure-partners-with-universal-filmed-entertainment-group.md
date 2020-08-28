@@ -3,6 +3,7 @@ category: news
 title: "Microsoft Azure partners with Universal Filmed Entertainment Group"
 excerpt: "Microsoft and Universal Filmed Entertainment Group have announced a partnership to accelerate live-action and animation productions with Azure-based cloud"
 publishedDateTime: 2020-08-25T09:08:00Z
+originalUrl: "https://www.telecompaper.com/news/microsoft-azure-partners-with-universal-filmed-entertainment-group--1351376"
 webUrl: "https://www.telecompaper.com/news/microsoft-azure-partners-with-universal-filmed-entertainment-group--1351376"
 type: article
 quality: 17
