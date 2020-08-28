@@ -41,6 +41,20 @@ related:
         width: 790
         height: 527
         isCached: true
+  - title: "ATO taps Data#3 for $3.5 million Microsoft cloud deal"
+    excerpt: "The Australian Taxation Office has struck up a contract with Data#3 for the provision of cloud infrastructure. The one-year renewal has been listed as a $3.5 million investment from the tax office, which will see it continue to procure Microsoft Azure Cloud Services from the Brisbane-based IT provider."
+    publishedDateTime: 2020-08-28T02:02:00Z
+    webUrl: "https://www.crn.com.au/news/ato-taps-data3-for-35-million-microsoft-cloud-deal-552551"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 22
+    images:
+      - url: "https://i.nextmedia.com.au/News/20200828115619_crn_14_data3newoffice.jpg"
+        width: 1400
+        height: 900
+        isCached: true
 
 secured: "eXpe5ZM6mc+mohDRCWAMsDP7stwkRPzRrcXeAPIKAfJzXHgpFDzogJKn8M8zPOgzVGan4CrrxAkvwzuv9sE/7fM8raKl9PXxe1B+GOno30at+miRyxgP33rQ/1gNHQql9yv6L9PLf/q4Ip5MV+uIW6Y4252ioA1vKSOoXAGieGNb1PYmFQ78lsNbdl+fIeMSnXx5ni0JZfR3BDsB35HuViTWnf6xSwzJQ3b2PVZd8wh5a0qEh9+l3ur0xiotokRDK3XR5tIjmlH4BsQjZUvAHNLZ9AZb95zJIrKmE8SeYrXsZLG9lKtWfdleW8A41QWHKaU5rlxsBEX4IoH9Vin8uQ==;ksdau4C+EdSK+xTcOwy8TA=="
 ---

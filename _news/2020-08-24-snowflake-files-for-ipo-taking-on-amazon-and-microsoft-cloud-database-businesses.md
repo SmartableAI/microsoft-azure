@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/08/24/snowflake-files-s-1-for-ipo.html
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/08/24/snowflake-files-s-1-for-ipo.html"
 type: article
 quality: 77
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://images.financialexpress.com/2020/08/Birls-Soft-660.jpg"
         width: 660
         height: 440
+        isCached: true
+  - title: "ATO taps Data#3 for $3.5 million Microsoft cloud deal"
+    excerpt: "The Australian Taxation Office has struck up a contract with Data#3 for the provision of cloud infrastructure. The one-year renewal has been listed as a $3.5 million investment from the tax office, which will see it continue to procure Microsoft Azure Cloud Services from the Brisbane-based IT provider."
+    publishedDateTime: 2020-08-28T02:02:00Z
+    webUrl: "https://www.crn.com.au/news/ato-taps-data3-for-35-million-microsoft-cloud-deal-552551"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 22
+    images:
+      - url: "https://i.nextmedia.com.au/News/20200828115619_crn_14_data3newoffice.jpg"
+        width: 1400
+        height: 900
         isCached: true
 
 secured: "hgSHWwS2tpOg7j7bCRkKLYluKh/st01F9uQdmtYqTCZ7v3G+VXx8E0cvx1OhaWZU223rNzF6yBy/B+xWEX9KF6eb29wjsT9+NdI61MwixngsGOKJK71odJi5TwnSYjD120utAPOno1J2jbKIY2uEUdwIK+zyGBtpgnV3Eoevvhvd3gQuJVKpgBCKKClbPy6i/wxQIXway8XbI1WBzO1U5Hq56xYBHJsXVNRvLXwAWYHnHY6xF7gK7cFLOkwHz/6MG3jXM7ASSm3RjsnljRb9ODr2mgyl86QnU5i2VE9x0N/blsuT26wh9wl57ED4iupvG3qnZ8EhBffQWU8vgUqh081KkBUIa0fG4jWNU0W6w9fthXDUVFOfzA0A7ovZr6I6bacl3y5rgGCS2HEo47sTLmB3mgfjdEpGKMGnL580DfkxH/PCWTKp7ffPOkRwQZDPrHSBKmgizpqBufX/WAI/ANWMxfRqYFD5K4N6Jx9BVcIET8FL9okGDoSKkEii8VjntdYY/SwARsCv1EkXycsCqQ==;Z3j7CKJxYdfopZm1jaP0GA=="
