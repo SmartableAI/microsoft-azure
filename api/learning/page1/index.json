@@ -257,8 +257,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/",
       "length": "62 mins",
       "ratings": {
-        "count": 159140,
-        "average": 4.771817
+        "count": 159157,
+        "average": 4.77181
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -300,8 +300,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
       "length": "39 mins",
       "ratings": {
-        "count": 127437,
-        "average": 4.695159
+        "count": 127452,
+        "average": 4.6951795
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -343,8 +343,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
       "length": "38 mins",
       "ratings": {
-        "count": 60478,
-        "average": 4.707861
+        "count": 60486,
+        "average": 4.707883
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -892,8 +892,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-data-in-azure/",
       "length": "25 mins",
       "ratings": {
-        "count": 52643,
-        "average": 4.732576
+        "count": 52648,
+        "average": 4.7326016
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -936,8 +936,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/",
       "length": "36 mins",
       "ratings": {
-        "count": 63949,
-        "average": 4.799293
+        "count": 63952,
+        "average": 4.7993026
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -979,8 +979,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/",
       "length": "45 mins",
       "ratings": {
-        "count": 64516,
-        "average": 4.7117147
+        "count": 64521,
+        "average": 4.711722
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1014,15 +1014,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-recognize-synthesize-speech.md",
-      "title": "Recognize and synthesize speech",
-      "excerpt": "Learn how to recognize and synthesize speech by using Azure Cognitive Services.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-recognize-synthesize-speech/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-synthesize-speech/",
-      "length": "29 mins",
+      "path": "_learning/courses/microsoft-learn-cmu-virtualize-input-output.md",
+      "title": "Virtualize I/O",
+      "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn about how computer input/output is virtualized. Covers I/O basics and a case study of virtualizing I/O.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-virtualize-input-output/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-virtualize-input-output/",
+      "length": "PT21M",
       "ratings": {
-        "count": 143,
-        "average": 4.804196
+        "count": 33,
+        "average": 4.6969695
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1037,36 +1037,33 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
-      "heat": 112,
+      "heat": 110,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/convert-speech-to-text-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Recognize and synthesize speech",
+          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/resource-virtualization-input-output-social.png",
+          "width": 1000,
+          "height": 500,
           "isCached": true
         }
       ],
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure",
-        "AI",
-        "Developer Tools"
+        "Azure"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-azure-cognitive-search-solution.md",
-      "title": "Create an Azure Cognitive Search solution",
-      "excerpt": "Unlock the hidden insights in your data with Azure Cognitive Search.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-azure-cognitive-search-solution/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-cognitive-search-solution/",
-      "length": "PT46M",
+      "path": "_learning/courses/microsoft-learn-manage-release-cadence.md",
+      "title": "Manage release cadence in Azure Pipelines by using deployment patterns",
+      "excerpt": "Choose and implement a deployment pattern that helps you smoothly roll out new application features to your users.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-release-cadence/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-release-cadence/",
+      "length": "60 mins",
       "ratings": {
-        "count": 7,
-        "average": 5.0
+        "count": 499,
+        "average": 4.7074146
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1086,9 +1083,10 @@
       "heat": 110,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-release-cadence-using-deployment-patterns-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Manage release cadence in Azure Pipelines by using deployment patterns",
           "isCached": true
         }
       ],
@@ -1096,7 +1094,7 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Storage"
+        "DevOps"
       ]
     },
     {
@@ -1107,8 +1105,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
       "length": "76 mins",
       "ratings": {
-        "count": 42521,
-        "average": 4.7016063
+        "count": 42526,
+        "average": 4.7016177
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1150,8 +1148,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/",
       "length": "73 mins",
       "ratings": {
-        "count": 48381,
-        "average": 4.706331
+        "count": 48384,
+        "average": 4.7063494
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1193,8 +1191,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
       "length": "46 mins",
       "ratings": {
-        "count": 36374,
-        "average": 4.6277285
+        "count": 36380,
+        "average": 4.62779
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1236,8 +1234,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-networking/",
       "length": "28 mins",
       "ratings": {
-        "count": 41656,
-        "average": 4.763972
+        "count": 41661,
+        "average": 4.764
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1279,8 +1277,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
       "length": "46 mins",
       "ratings": {
-        "count": 36784,
-        "average": 4.71194
+        "count": 36788,
+        "average": 4.711944
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1322,8 +1320,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimize-spending/",
       "length": "74 mins",
       "ratings": {
-        "count": 38697,
-        "average": 4.713544
+        "count": 38699,
+        "average": 4.7135587
       },
       "provider": {
         "name": "Microsoft Learn",

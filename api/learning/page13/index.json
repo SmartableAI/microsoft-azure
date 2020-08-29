@@ -4,49 +4,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-develop-app-that-queries-azure-sql.md",
-      "title": "Develop and configure an ASP.NET application that queries an Azure SQL database",
-      "excerpt": "Create a database on Azure SQL Database to store data for an application, and create an ASP.NET application to query data from the database.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-develop-app-that-queries-azure-sql/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-app-that-queries-azure-sql/",
-      "length": "50 mins",
-      "ratings": {
-        "count": 2393,
-        "average": 4.530297
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/develop-app-that-queries-azure-sql-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Develop and configure an ASP.NET application that queries an Azure SQL database",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-distribute-data-globally-with-cosmos-db.md",
       "title": "Distribute your data globally with Azure Cosmos DB",
       "excerpt": "Distribute your data globally with Azure Cosmos DB",
@@ -54,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/distribute-data-globally-with-cosmos-db/",
       "length": "31 mins",
       "ratings": {
-        "count": 1453,
-        "average": 4.6090846
+        "count": 1454,
+        "average": 4.6093535
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -98,8 +55,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-components-of-modern-data-warehouse/",
       "length": "PT24M",
       "ratings": {
-        "count": 154,
-        "average": 4.733766
+        "count": 157,
+        "average": 4.7261147
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -266,8 +223,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-domain-azure-dns/",
       "length": "43 mins",
       "ratings": {
-        "count": 212,
-        "average": 4.693396
+        "count": 213,
+        "average": 4.6948357
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -394,8 +351,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-hpc/",
       "length": "50 mins",
       "ratings": {
-        "count": 819,
-        "average": 4.5567765
+        "count": 821,
+        "average": 4.557856
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -563,8 +520,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-data-streaming/",
       "length": "25 mins",
       "ratings": {
-        "count": 1213,
-        "average": 4.6364384
+        "count": 1214,
+        "average": 4.636738
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -735,8 +692,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-azure-vm-using-diagnostic-data/",
       "length": "43 mins",
       "ratings": {
-        "count": 825,
-        "average": 4.660606
+        "count": 826,
+        "average": 4.661017
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -940,6 +897,50 @@
         "Azure",
         "Compute",
         "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-recognize-synthesize-speech.md",
+      "title": "Recognize and synthesize speech",
+      "excerpt": "Learn how to recognize and synthesize speech by using Azure Cognitive Services.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-recognize-synthesize-speech/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-synthesize-speech/",
+      "length": "29 mins",
+      "ratings": {
+        "count": 143,
+        "average": 4.804196
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/convert-speech-to-text-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Recognize and synthesize speech",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI",
+        "Developer Tools"
       ]
     },
     {

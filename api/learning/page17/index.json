@@ -4,49 +4,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-ai-strategy-in-retail.md",
-      "title": "Define an AI strategy to create business value in retail",
-      "excerpt": "In retail, decision-makers must take into account specific industry considerations before they can realize the true transformational power of AI in the enterprise. To create real business value, a comprehensive understanding of all the strategic components is required.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-in-retail/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-retail/",
-      "length": "40 mins",
-      "ratings": {
-        "count": 627,
-        "average": 4.7814994
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-retail-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Define an AI strategy to create business value in retail",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-aks-deploy-container-app.md",
       "title": "Deploy a containerized application on Azure Kubernetes Service",
       "excerpt": "Explore how to create and deploy a containerized application using Azure Kubernetes Service using declarative manifest files.",
@@ -528,6 +485,49 @@
         "Compute",
         "Containers",
         "Mobile"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-audit-security-of-windows-server-iaas-vms.md",
+      "title": "Audit the security of Windows Server IaaS Virtual Machines",
+      "excerpt": "You'll learn about Azure Security Center and how to onboard Windows Server computers to Security Center. You'll also learn about Azure Sentinel, security information and event management (SIEM), and security orchestration, automation and response (SOAR).",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-audit-security-of-windows-server-iaas-vms/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/audit-security-of-windows-server-iaas-virtual-machines/",
+      "length": "PT45M",
+      "ratings": {
+        "count": 8,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Compute"
       ]
     },
     {

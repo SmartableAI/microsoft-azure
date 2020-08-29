@@ -490,8 +490,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-healthcare/",
       "length": "40 mins",
       "ratings": {
-        "count": 623,
-        "average": 4.7865167
+        "count": 624,
+        "average": 4.7852564
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -568,49 +568,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-audit-security-of-windows-server-iaas-vms.md",
-      "title": "Audit the security of Windows Server IaaS Virtual Machines",
-      "excerpt": "You'll learn about Azure Security Center and how to onboard Windows Server computers to Security Center. You'll also learn about Azure Sentinel, security information and event management (SIEM), and security orchestration, automation and response (SOAR).",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-audit-security-of-windows-server-iaas-vms/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/audit-security-of-windows-server-iaas-virtual-machines/",
-      "length": "PT45M",
-      "ratings": {
-        "count": 8,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Compute"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-authenticate-apps-with-managed-identities.md",
       "title": "Authenticate apps to Azure services by using service principals and managed identities for Azure resources",
       "excerpt": "Securely authenticate applications to Azure to manage and access Azure services. Service principals and managed identities for Azure resources give your app an Azure Active Directory identity.",
@@ -618,8 +575,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/authenticate-apps-with-managed-identities/",
       "length": "66 mins",
       "ratings": {
-        "count": 95,
-        "average": 4.536842
+        "count": 96,
+        "average": 4.5416665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1138,8 +1095,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-luis/",
       "length": "39 mins",
       "ratings": {
-        "count": 152,
-        "average": 4.8026314
+        "count": 153,
+        "average": 4.8039217
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1388,8 +1345,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-sap-certified-offerings/",
       "length": "43 mins",
       "ratings": {
-        "count": 282,
-        "average": 4.787234
+        "count": 283,
+        "average": 4.787986
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1474,8 +1431,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-analyze-faces/",
       "length": "24 mins",
       "ratings": {
-        "count": 152,
-        "average": 4.7236843
+        "count": 153,
+        "average": 4.72549
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1507,6 +1464,48 @@
       "topics": [
         "AI",
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-evaluate-performance-improvements.md",
+      "title": "Evaluate performance improvements",
+      "excerpt": "Evaluate possible changes to indexes. Determine the impact of changes to queries and indexes. Explore relevant Dynamic Management Objects.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-evaluate-performance-improvements/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evaluate-performance-improvements/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 13,
+        "average": 4.6923075
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
       ]
     }
   ],
