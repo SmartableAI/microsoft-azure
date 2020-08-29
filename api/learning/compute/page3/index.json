@@ -4,49 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-deploy-vms-from-vhd-templates.md",
-      "title": "Deploy Azure virtual machines from VHD templates",
-      "excerpt": "Standardize and automate your virtual machine deployments to minimize manual configuration, variance, and errors.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-vms-from-vhd-templates/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-vms-from-vhd-templates/",
-      "length": "42 mins",
-      "ratings": {
-        "count": 1463,
-        "average": 4.680793
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/deploy-vms-from-vhd-templates-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Deploy Azure virtual machines from VHD templates",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-migrate-aspnet-apps-to-azure.md",
       "title": "Migrate ASP.NET Apps to Azure",
       "excerpt": "Migrate ASP.NET web applications and their data to Azure App Service and Azure SQL Database to take advantage of the cloud.",
@@ -228,8 +185,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
       "length": "48 mins",
       "ratings": {
-        "count": 1299,
-        "average": 4.6135488
+        "count": 1300,
+        "average": 4.6130767
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -364,8 +321,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
       "length": "61 mins",
       "ratings": {
-        "count": 2365,
-        "average": 4.649894
+        "count": 2366,
+        "average": 4.6496196
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -490,8 +447,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-visual-studio/",
       "length": "43 mins",
       "ratings": {
-        "count": 1640,
-        "average": 4.6060977
+        "count": 1641,
+        "average": 4.605728
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -793,8 +750,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/",
       "length": "42 mins",
       "ratings": {
-        "count": 1635,
-        "average": 4.567584
+        "count": 1636,
+        "average": 4.5672374
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -979,8 +936,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
       "length": "46 mins",
       "ratings": {
-        "count": 1383,
-        "average": 4.584237
+        "count": 1384,
+        "average": 4.5845375
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1800,6 +1757,52 @@
         "Azure",
         "Management Tools",
         "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-aspnet-configurationbuilder.md",
+      "title": "Externalize configuration for your ASP.NET application using Azure Key Vault",
+      "excerpt": "Learn how use ConfigurationBuilder to dynamically configure an ASP.NET web application to retrieve secrets from Azure Key vault",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aspnet-configurationbuilder/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-configurationbuilder/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 7,
+        "average": 4.142857
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security",
+        "Web",
+        "Compute",
+        "Containers",
+        "Mobile"
       ]
     }
   ],

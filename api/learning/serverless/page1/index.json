@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
       "length": "38 mins",
       "ratings": {
-        "count": 60491,
-        "average": 4.7078905
+        "count": 60499,
+        "average": 4.7078795
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -50,50 +50,6 @@
         "IoT",
         "Blockchain",
         "Integration"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-the-mojifier.md",
-      "title": "The Mojifier - Create a Slack bot that replaces people's faces with emojis matching their emotion",
-      "excerpt": "Learn how to get images, calculate emotion, match emotions to emojis, and replace faces with emoji.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-the-mojifier/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/replace-faces-with-emojis-matching-emotion/",
-      "length": "91 mins",
-      "ratings": {
-        "count": 46,
-        "average": 4.5869565
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/replace-faces-with-emojis-matching-emotion-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "The Mojifier - Create a Slack bot that replaces people's faces with emojis matching their emotion",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless"
       ]
     },
     {
@@ -814,8 +770,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-long-running-serverless-workflow-with-durable-functions/",
       "length": "46 mins",
       "ratings": {
-        "count": 2415,
-        "average": 4.4592133
+        "count": 2416,
+        "average": 4.459437
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -858,8 +814,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/",
       "length": "41 mins",
       "ratings": {
-        "count": 908,
-        "average": 4.5837007
+        "count": 909,
+        "average": 4.5830584
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1039,8 +995,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
       "length": "48 mins",
       "ratings": {
-        "count": 1299,
-        "average": 4.6135488
+        "count": 1300,
+        "average": 4.6130767
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1168,8 +1124,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-visual-studio/",
       "length": "43 mins",
       "ratings": {
-        "count": 1640,
-        "average": 4.6060977
+        "count": 1641,
+        "average": 4.605728
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1603,6 +1559,50 @@
           "width": 320,
           "height": 160,
           "title": "Refactor Node.js and Express APIs to Serverless APIs with Azure Functions",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-the-mojifier.md",
+      "title": "The Mojifier - Create a Slack bot that replaces people's faces with emojis matching their emotion",
+      "excerpt": "Learn how to get images, calculate emotion, match emotions to emojis, and replace faces with emoji.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-the-mojifier/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/replace-faces-with-emojis-matching-emotion/",
+      "length": "91 mins",
+      "ratings": {
+        "count": 46,
+        "average": 4.5869565
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/replace-faces-with-emojis-matching-emotion-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "The Mojifier - Create a Slack bot that replaces people's faces with emojis matching their emotion",
           "isCached": true
         }
       ],

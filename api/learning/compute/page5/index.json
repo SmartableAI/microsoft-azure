@@ -4,51 +4,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-m365-azure-migrate-replicate-virtual-servers.md",
-      "title": "Replicate and migrate virtual machine servers with Azure Migrate",
-      "excerpt": "Learn the process for replicating, testing, and finally migrating your virtual machines into production.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-azure-migrate-replicate-virtual-servers/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-azure-migrate-replicate-virtual-servers/",
-      "length": "PT28M",
-      "ratings": {
-        "count": 48,
-        "average": 4.8541665
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/replicate-migrate-virtual-machine-servers-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Replicate and migrate virtual machine servers with Azure Migrate",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Migration",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-m365-azure-migrate-set-up.md",
       "title": "Set up Azure Migrate for server migration",
       "excerpt": "Learn how to check your prerequisite configurations in Azure and in your VMware vSphere environment and then perform the initial steps in Azure Migrate to choose your assessment and migration tools.",
@@ -749,6 +704,50 @@
         "Azure",
         "Compute",
         "Web"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-the-mojifier.md",
+      "title": "The Mojifier - Create a Slack bot that replaces people's faces with emojis matching their emotion",
+      "excerpt": "Learn how to get images, calculate emotion, match emotions to emojis, and replace faces with emoji.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-the-mojifier/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/replace-faces-with-emojis-matching-emotion/",
+      "length": "91 mins",
+      "ratings": {
+        "count": 46,
+        "average": 4.5869565
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/replace-faces-with-emojis-matching-emotion-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "The Mojifier - Create a Slack bot that replaces people's faces with emojis matching their emotion",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless"
       ]
     },
     {

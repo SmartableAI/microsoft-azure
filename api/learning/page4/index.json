@@ -954,8 +954,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 1706,
-        "average": 4.6922626
+        "count": 1707,
+        "average": 4.691857
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -997,8 +997,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/",
       "length": "75 mins",
       "ratings": {
-        "count": 4516,
-        "average": 4.6275463
+        "count": 4517,
+        "average": 4.627629
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1084,8 +1084,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
       "length": "36 mins",
       "ratings": {
-        "count": 1526,
-        "average": 4.682831
+        "count": 1528,
+        "average": 4.683246
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2410,6 +2410,123 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-foundations-of-data-science.md",
+      "title": "Foundations of data science",
+      "excerpt": "This path is intended for beginners that are looking to learn the basics of Python and Data Science",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-foundations-of-data-science/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-foundations-of-data-science/",
+      "length": "PT12H53M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Learn the data science method",
+          "excerpt": "Learn about the history and motivation behind data science",
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/learn-data-science-method-social.png",
+              "width": 640,
+              "height": 320,
+              "title": "Learn the data science method",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Introduction to Python using the datascience library",
+          "excerpt": "Learn about programming and data types in Python",
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-python-using-datascience-library-social.png",
+              "width": 640,
+              "height": 320,
+              "title": "Introduction to Python using the datascience library",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Create and manipulate tables using the datascience library",
+          "excerpt": "Learn the basics of table manipulation in the datascience library.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/create-manipulate-tables-using-datascience-library-social.png",
+              "width": 640,
+              "height": 320,
+              "title": "Create and manipulate tables using the datascience library",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Design and plot graphs in Python",
+          "excerpt": "Learn about plots and graphs in Python",
+          "heat": 110,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/design-plot-graphs-python-social.png",
+              "width": 640,
+              "height": 320,
+              "title": "Design and plot graphs in Python",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 12,
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/learn-data-science-method-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Learn the data science method",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-migrate-application-workloads-and-data-to-azure.md",
       "title": "Migrate application workloads and data to Azure",
       "excerpt": "Determine a migration approach for on-premises workloads and databases and ready those resources for migration to Microsoft Azure. Migrate on-premises Hyper-V-based application workloads and relational data to the cloud using Azure Migrate.",
@@ -2713,8 +2830,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-your-dev-environment-for-azure-development/",
       "length": "28 mins",
       "ratings": {
-        "count": 4635,
-        "average": 4.6919093
+        "count": 4636,
+        "average": 4.691976
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2915,129 +3032,6 @@
         "Management Tools",
         "Containers",
         "AI",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-az-400-develop-a-site-reliability-engineering-sre-strategy.md",
-      "title": "AZ-400: Develop a Site Reliability Engineering (SRE) strategy",
-      "excerpt": "Learn how Site Reliability Engineering enables you to sustainably achieve the appropriate level of reliability in your systems, services, and products.\nTake this learning path to help prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-400-develop-a-site-reliability-engineering-sre-strategy/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-400-develop-a-site-reliability-engineering-sre-strategy/",
-      "length": "PT7H46M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Introduction to Site Reliability Engineering (SRE)",
-          "excerpt": "Organizations big and small have started to realize just how crucial system and application reliability is to their business. They’ve also learned just how difficult it is to maintain that reliability while iterating at the speed demanded by the marketplace. Site Reliability Engineering (SRE) is a proven approach to this challenge.",
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/intro-to-site-reliability-engineering-sre-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Introduction to Site Reliability Engineering (SRE)",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Improve incident response with alerting on Azure",
-          "excerpt": "Respond to incidents and activities in your infrastructure through alerting capabilities in Azure Monitor.",
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/incident-response-with-alerting-on-azure-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Improve incident response with alerting on Azure",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "DevOps",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Capture Web Application Logs with App Service Diagnostics Logging",
-          "excerpt": "Use application logs in Azure Web Apps to help debug web app code.",
-          "heat": 57,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Capture Web Application Logs with App Service Diagnostics Logging",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Manage site reliability",
-          "excerpt": "Learn how to manage site reliability.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-site-reliability-social.png",
-              "width": 1000,
-              "height": 500,
-              "title": "Manage site reliability",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "DevOps"
-          ]
-        }
-      ],
-      "size": 8,
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-site-reliability-engineering-sre-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Introduction to Site Reliability Engineering (SRE)",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Management Tools",
-        "Networking",
         "Compute"
       ]
     }

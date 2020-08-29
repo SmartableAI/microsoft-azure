@@ -4,6 +4,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-automate-iot-devices-management-with-azure-iot-hub.md",
+      "title": "Automate IoT devices management with Azure IoT Hub",
+      "excerpt": "Automate IoT devices management with Azure IoT Hub",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-automate-iot-devices-management-with-azure-iot-hub/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-iot-devices-management-with-azure-iot-hub/",
+      "length": "53 mins",
+      "ratings": {
+        "count": 140,
+        "average": 4.757143
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/iot/automate-iot-devices-management-with-azure-iot-hub-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Automate IoT devices management with Azure IoT Hub",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "IoT",
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-continuous-data-export-from-iot-central.md",
       "title": "Set up continuous data export from Azure IoT Central to a Power BI app",
       "excerpt": "This module covers continuous data export from IoT Central. You use the scenario from the &quot;Create your first Azure IoT Central app&quot; Learn module, where you control a refrigerated truck. This module adds continuous data export to both Blob storage, and an Event Hub. Then, a Power BI app is built to read and display the telemetry data on a mobile phone.",
@@ -1275,50 +1318,6 @@
           "width": 640,
           "height": 320,
           "title": "Prioritize your issues and apply security controls",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Security",
-        "Azure",
-        "IoT"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-tm-provide-context-with-the-right-depth-layer.md",
-      "title": "Provide Context with the Right Depth Layer",
-      "excerpt": "Threat models can get complex if all parties involved cannot agree on a data-flow diagram depth layer that provides enough context to satisfy requirements",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-tm-provide-context-with-the-right-depth-layer/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-provide-context-with-the-right-depth-layer/",
-      "length": "26 mins",
-      "ratings": {
-        "count": 161,
-        "average": 4.726708
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Provide Context with the Right Depth Layer",
           "isCached": true
         }
       ],

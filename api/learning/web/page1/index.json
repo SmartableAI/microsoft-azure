@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
       "length": "38 mins",
       "ratings": {
-        "count": 60491,
-        "average": 4.7078905
+        "count": 60499,
+        "average": 4.7078795
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -50,6 +50,51 @@
         "IoT",
         "Blockchain",
         "Integration"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-use-azure-maps-to-track-air-pollution.md",
+      "title": "Track global air quality with Azure Maps",
+      "excerpt": "This module shows how you can track global air quality using the Azure Maps Web SDK and pollution data from a third-party air quality API.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-azure-maps-to-track-air-pollution/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-maps-track-air-pollution/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 24,
+        "average": 4.6666665
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/advocates/use-azure-maps-to-track-air-pollution-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Track global air quality with Azure Maps",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Mobile",
+        "Web"
       ]
     },
     {
@@ -1841,8 +1886,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/",
       "length": "41 mins",
       "ratings": {
-        "count": 908,
-        "average": 4.5837007
+        "count": 909,
+        "average": 4.5830584
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1887,8 +1932,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
       "length": "65 mins",
       "ratings": {
-        "count": 4899,
-        "average": 4.5962443
+        "count": 4901,
+        "average": 4.5962048
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1932,8 +1977,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
       "length": "55 mins",
       "ratings": {
-        "count": 1369,
-        "average": 4.6406136
+        "count": 1370,
+        "average": 4.640876
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2339,8 +2384,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
       "length": "46 mins",
       "ratings": {
-        "count": 1383,
-        "average": 4.584237
+        "count": 1384,
+        "average": 4.5845375
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2470,118 +2515,6 @@
       "excerpt": "Migrate an ASP.NET web application to Azure App Service",
       "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-migrate-an-aspnet-web-application-to-azure-app-service/index.json",
       "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-migrate-an-aspnet-web-application-to-azure-app-service/",
-      "length": "PT1H17M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Externalize configuration for your ASP.NET application using Azure Key Vault",
-          "excerpt": "Learn how use ConfigurationBuilder to dynamically configure an ASP.NET web application to retrieve secrets from Azure Key vault",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Security",
-            "Web",
-            "Compute",
-            "Containers",
-            "Mobile"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Implement logging in a .NET Framework ASP.NET web application",
-          "excerpt": "Learn how to implement logging in an ASP.NET web application, to store log data in Azure blob storage, and incorporate log information in Application Insights performance data.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Web",
-            "Compute",
-            "Containers",
-            "Mobile",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Improve session scalability in a .NET Framework ASP.NET web application using Azure Cache for Redis",
-          "excerpt": "Learn how to use Azure Cache for Redis to store session data and improve the scalability of web applications",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Web",
-            "Compute",
-            "Containers",
-            "Mobile"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web",
-        "Security",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-migrate-an-aspnet-web-application-to-azure-with-visual-studio.md",
-      "title": "Migrate an ASP.NET web application to Azure with Visual Studio",
-      "excerpt": "Migrate an ASP.NET web application to Azure with Visual Studio",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-migrate-an-aspnet-web-application-to-azure-with-visual-studio/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-migrate-an-aspnet-web-application-to-azure-with-visual-studio/",
       "length": "PT1H17M",
       "provider": {
         "name": "Microsoft Learn",
