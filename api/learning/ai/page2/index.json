@@ -4,6 +4,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-recognize-synthesize-speech.md",
+      "title": "Recognize and synthesize speech",
+      "excerpt": "Learn how to recognize and synthesize speech by using Azure Cognitive Services.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-recognize-synthesize-speech/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-synthesize-speech/",
+      "length": "29 mins",
+      "ratings": {
+        "count": 143,
+        "average": 4.804196
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/convert-speech-to-text-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Recognize and synthesize speech",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI",
+        "Developer Tools"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-process-and-translate-speech-with-azure-cognitive-speech-services.md",
       "title": "Process and Translate Speech with Azure Cognitive Speech Services",
       "excerpt": "Learn how to implement the Speech services found in Azure Cognitive Services by performing speech-to-text transcription, synthesizing text input to speech, performing speech translation, and implementing speaker recognition in your AI infused applications.",
@@ -113,8 +157,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-education/",
       "length": "51 mins",
       "ratings": {
-        "count": 515,
-        "average": 4.7786407
+        "count": 516,
+        "average": 4.77907
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1425,52 +1469,6 @@
       "topics": [
         "Azure",
         "Analytics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-convert-speech-to-text.md",
-      "title": "Transcribe speech in real time with Azure Cognitive Services",
-      "excerpt": "Learn how to transcribe speech and convert it to text through real-time transcription with the Speech Service in Azure Cognitive Services.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-convert-speech-to-text/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/convert-speech-to-text/",
-      "length": "52 mins",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/convert-speech-to-text-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Transcribe speech in real time with Azure Cognitive Services",
-          "isCached": true
-        },
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/transcribe-speech-input-text-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Transcribe speech in real time with Azure Cognitive Services",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
         "AI"
       ]
     }

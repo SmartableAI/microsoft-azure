@@ -257,8 +257,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/",
       "length": "62 mins",
       "ratings": {
-        "count": 159049,
-        "average": 4.7718062
+        "count": 159058,
+        "average": 4.7718067
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -300,8 +300,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
       "length": "39 mins",
       "ratings": {
-        "count": 127364,
-        "average": 4.6950946
+        "count": 127373,
+        "average": 4.695108
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -343,8 +343,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
       "length": "38 mins",
       "ratings": {
-        "count": 60444,
-        "average": 4.7077293
+        "count": 60449,
+        "average": 4.707737
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -892,8 +892,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-data-in-azure/",
       "length": "25 mins",
       "ratings": {
-        "count": 52618,
-        "average": 4.732544
+        "count": 52622,
+        "average": 4.7325454
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -936,8 +936,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/",
       "length": "36 mins",
       "ratings": {
-        "count": 63930,
-        "average": 4.799249
+        "count": 63931,
+        "average": 4.7992525
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -979,8 +979,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/",
       "length": "45 mins",
       "ratings": {
-        "count": 64494,
-        "average": 4.7116475
+        "count": 64497,
+        "average": 4.711661
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1014,53 +1014,16 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-cmu-share-cloud-resources.md",
-      "title": "Share cloud resources",
-      "excerpt": "Carnegie Mellon University's Cloud Developer course. Get an introduction to virtualization, one of the many technologies that power the cloud. Learn what virtualization is, its benefits, and how cloud resources are shared.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-share-cloud-resources/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-share-cloud-resources/",
-      "length": "PT54M",
+      "path": "_learning/courses/microsoft-learn-azure-diagnose-application-startup-errors-with-kudu-console.md",
+      "title": "Diagnose startup errors in your application using Kudu console",
+      "excerpt": "This module will help you understand the common startup errors in a ASP.NET Core application and diagnose them using Kudu console.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-diagnose-application-startup-errors-with-kudu-console/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-diagnose-application-startup-errors-with-kudu-console/",
+      "length": "37 mins",
       "ratings": {
-        "count": 68,
-        "average": 4.602941
+        "count": 11,
+        "average": 4.090909
       },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/share-cloud-resources-social.png",
-          "width": 1000,
-          "height": 500,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-design-for-security.md",
-      "title": "Design for security in Azure",
-      "excerpt": "Learn how to incorporate security into your architecture design, and discover the tools that Azure provides to help you create a secure environment through all the layers of your architecture.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-for-security/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-for-security-in-azure/",
-      "length": "62 mins",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -1079,17 +1042,51 @@
       "heat": 110,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/design-for-security-in-azure-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Design for security in Azure",
+          "url": "https://docs.microsoft.com/learn/achievements/azure-diagnose-application-startup-errors-with-kudu-console-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Diagnose startup errors in your application using Kudu console",
           "isCached": true
-        },
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-use-containers-language-understanding-intelligent-service-apps.md",
+      "title": "Use containers for your Language Understanding Intelligent Service (LUIS) Apps",
+      "excerpt": "The Language Understanding (LUIS) container loads your trained or published Language Understanding model. As a LUIS app, the docker container provides access to the query predictions from the container's API endpoints",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-containers-language-understanding-intelligent-service-apps/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-containers-language-understanding-intelligent-service-apps/",
+      "length": "PT18M",
+      "ratings": {
+        "count": 10,
+        "average": 4.4
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 110,
+      "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-framework-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
           "width": 640,
           "height": 320,
-          "title": "Design for security in Azure",
           "isCached": true
         }
       ],
@@ -1097,7 +1094,7 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Security"
+        "AI"
       ]
     },
     {
@@ -1108,8 +1105,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
       "length": "76 mins",
       "ratings": {
-        "count": 42495,
-        "average": 4.701565
+        "count": 42496,
+        "average": 4.7015486
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1151,8 +1148,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/",
       "length": "73 mins",
       "ratings": {
-        "count": 48358,
-        "average": 4.7062325
+        "count": 48359,
+        "average": 4.7062182
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1194,8 +1191,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
       "length": "46 mins",
       "ratings": {
-        "count": 36354,
-        "average": 4.627661
+        "count": 36357,
+        "average": 4.6276646
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1280,8 +1277,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
       "length": "46 mins",
       "ratings": {
-        "count": 36771,
-        "average": 4.7118926
+        "count": 36775,
+        "average": 4.711924
       },
       "provider": {
         "name": "Microsoft Learn",
