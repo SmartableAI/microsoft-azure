@@ -2,9 +2,9 @@
 category: news
 title: "Reminder: Save 95% on the Complete Microsoft Azure eBook & Video Course Bundle"
 excerpt: "Just a quick reminder for our readers about the awesome deal on the Complete Microsoft Azure eBook & Video Course Bundle in the Geeky Gadgets Deals store. The Complete Microsoft Azure eBook ..."
-publishedDateTime: 2020-08-20T15:15:00Z
-originalUrl: "https://www.geeky-gadgets.com/reminder-save-95-on-the-complete-microsoft-azure-ebook-video-course-bundle-20-08-2020/"
-webUrl: "https://www.geeky-gadgets.com/reminder-save-95-on-the-complete-microsoft-azure-ebook-video-course-bundle-20-08-2020/"
+publishedDateTime: 2020-08-27T11:02:00Z
+originalUrl: "https://www.geeky-gadgets.com/reminder-save-95-on-the-complete-microsoft-azure-ebook-video-course-bundle-27-08-2020/"
+webUrl: "https://www.geeky-gadgets.com/reminder-save-95-on-the-complete-microsoft-azure-ebook-video-course-bundle-27-08-2020/"
 type: article
 quality: 33
 heat: -1
@@ -68,8 +68,8 @@ related:
         isCached: true
   - title: "Reminder: Save 95% on the Complete Microsoft Azure eBook & Video Course Bundle"
     excerpt: "Just a quick reminder for our readers about the awesome deal on the Complete Microsoft Azure eBook & Video Course Bundle in the Geeky Gadgets Deals store. The Complete Microsoft Azure eBook ..."
-    publishedDateTime: 2020-08-27T11:02:00Z
-    webUrl: "https://www.geeky-gadgets.com/reminder-save-95-on-the-complete-microsoft-azure-ebook-video-course-bundle-27-08-2020/"
+    publishedDateTime: 2020-08-20T15:15:00Z
+    webUrl: "https://www.geeky-gadgets.com/reminder-save-95-on-the-complete-microsoft-azure-ebook-video-course-bundle-20-08-2020/"
     type: article
     provider:
       name: Geeky Gadgets
@@ -81,6 +81,6 @@ related:
         height: 526
         isCached: true
 
-secured: "hWNR5DYXr5MrTJHXM+Yt4GvGW0tCo588wAWeIjTcMC/fFu6+lNtD3QQPX1a4o6pETPFdaujfd/EZQqjvsuOsFM+ZghH1clvmqi3NjX6M6pILg76vqH+jbXQktILD2V4+P8Z8RcWcz8ifG0PLiGeDQ1uZMIGUKQ6vevrUkjpP268RX6Y5Dp3HNlyjnokVFJ8Z4s+kQWtLgYoos6gRlehmcA3RkFrFOmj1KT1snEJPcn2G9WjoYWNw7liI48YV8+DehkkQmQy7aHf8wm2u4OPf0nON3VUvMxNmacekpwllSbyfKxAx0bvFvzA+XysPtryUUEviNAoUX9YX6SI4z2DdnQ==;KKYv8DV/6MIIflL9wYOqMg=="
+secured: "f5SqpChYD6/Xd4ji3GTVYMB4eTTXtv3lwSGHsbQ0Ejzq1Kt4tF29CAj1jcFaz/FrXq9od+Mp8l9utWZRbLPAMJp43hZTuU3FPMa0ArhWn2z+FyWOmqm7j+P8/nf4V0RekS5/OtJsAUPpPRgigvF40CVUYPl23d6gzjsZV9ZMVIN+216YWh0o0rnQ5yrCXslLbTS1FYhmKdiFJk7VmEVJk10oed1RhNHXt8koSRYFnvJkZ/bR24nwnq2GDrLcRp209KojNsgDtqmaYXCLtdJvbIgR52fG1Z2thVto+adj4+6jg1ZFmHgXIxBhgxEihq9Z32/0IOEADEEgkt4ZGFFP4L8e2v46HQBJ/4Is1Meq0XY=;W87p8GQIsPGfraRLSh6vxw=="
 ---
 
