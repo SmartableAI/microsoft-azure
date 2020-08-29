@@ -3,6 +3,7 @@ category: news
 title: "IIJ secures Microsoft Azure Expert MSP certification"
 excerpt: "Internet Initiative Japan reports it has been certified as a Microsoft Azure Expert Managed Service Provider (Azure Expert MSP). Azure Expert MSPs are one of the certified partners programs in the Microsoft Azure."
 publishedDateTime: 2020-08-25T09:08:00Z
+originalUrl: "https://www.telecompaper.com/news/iij-secures-microsoft-azure-expert-msp-certification--1351375"
 webUrl: "https://www.telecompaper.com/news/iij-secures-microsoft-azure-expert-msp-certification--1351375"
 type: article
 quality: 17
