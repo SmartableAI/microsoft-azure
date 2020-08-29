@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/prepare-and-certify-your-devices-
 webUrl: "https://azure.microsoft.com/blog/prepare-and-certify-your-devices-for-iot-plug-and-play/"
 type: article
 quality: 89
-heat: 109
+heat: 129
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Telit's Comprehensive IoT Portfolio is Microsoft Azure Certified for IoT Device Catalog"
+    excerpt: "Telit, a global enabler of the Internet of Things (IoT), today announced that several of its module families have been certified by Microsoft as part of its Azure Certified for IoT device catalog. This certification provides Azure solution developers with a comprehensive selection of industry-leading LTE-M,"
+    publishedDateTime: 2020-08-27T08:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/telits-comprehensive-iot-portfolio-is-microsoft-azure-certified-for-iot-device-catalog-2020-08-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Azure Certified for Plug and Play is now available"
     excerpt: "IoT Plug and Play device certification is now available from Microsoft as part of the Azure Certified device program. "
     publishedDateTime: 2020-08-27T00:21:50Z

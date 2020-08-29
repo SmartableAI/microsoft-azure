@@ -36,6 +36,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Telit's Comprehensive IoT Portfolio is Microsoft Azure Certified for IoT Device Catalog"
+    excerpt: "Telit, a global enabler of the Internet of Things (IoT), today announced that several of its module families have been certified by Microsoft as part of its Azure Certified for IoT device catalog. This certification provides Azure solution developers with a comprehensive selection of industry-leading LTE-M,"
+    publishedDateTime: 2020-08-27T08:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/telits-comprehensive-iot-portfolio-is-microsoft-azure-certified-for-iot-device-catalog-2020-08-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Mk9kXkC5riguIjVJktcopuJSQQO3jupV8tpPrE/rICII41TGUEQcA8S6QgkL7go+9rc9ZdBZyCkFzn5frn5Y5rkFpLEuu4Zsvm7AO6k/82l1ZPrSaOvDJ6/WXLBfeyaOqUCr04vJevFDzWyZf2rGXi1uVRUEdhDQT5uwkfZqAWHz9P4HpU0VkHqMwaEu1bqNYvZ47in8Xl/7j/hWysG9gjzYyksa5a+846zmeSowTmljZhZJSQbcUbRdebqRfvP3Uzzo3qpf4LYPZ5lns0btVEGFpk3j7Ub2HlAWURvYjBtfBMs8i4ukKx0zOnLwg1QO87Z1Vak4vVjNYjaxRFAsWz47RvdFxBRYSk+LOZVqEQU=;/6R/+nP2nAB10T0+6jzgzQ=="
 ---

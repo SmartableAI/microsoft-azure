@@ -84,22 +84,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "amplofly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
-    excerpt: "PISCATAWAY, NJ / ACCESSWIRE / August 18, 2020 / Amplo Global Inc announced today that its AI-powered platform is now available on the Microsoft AppSource and Microsoft Azure Marketplace - their online stores providing applications and services for ..."
-    publishedDateTime: 2020-08-18T17:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/08/ac17142440/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17142440"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17142440"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
-    images:
-      - url: "http://cdn.newswire.com/files/x/26/69/1756aa85fe2bddc31a756e61b382.jpg"
-        width: 320
-        height: 220
-        isCached: true
   - title: "eBaoCloud InsureMO is Now Available in the Microsoft Azure Marketplace"
     excerpt: "SHANGHAI, May 20, 2020 /PRNewswire/ -- eBaoTech Corporation today announced the availability of eBaoCloud ® InsureMO ® in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. eBaoTech's customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined ..."
     publishedDateTime: 2020-05-20T15:30:00Z
@@ -169,6 +153,20 @@ related:
       - url: "https://mma.prnewswire.com/media/391402/Nasuni_Logo.jpg?p=facebook"
         width: 1497
         height: 785
+        isCached: true
+  - title: "amplofly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
+    excerpt: "Amplo Global Inc announced today that its AI-powered platform is now available on the Microsoft AppSource and  Microsoft Azure Marketplace – their online stores providing applications and services for use on Azure."
+    publishedDateTime: 2020-08-18T17:00:00Z
+    webUrl: "https://apnews.com/c6dc3fe157382b0b0e9f44cf7627faa7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Riversand MDM Platform Now Available in the Microsoft Azure Marketplace"
     excerpt: "Riversand, a provider of cloud-native Master Data Management (MDM) and Product Information Management (PIM) software solutions, announced today the av"

@@ -1,27 +1,26 @@
 ---
 category: news
 title: "amplofly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
-excerpt: "PISCATAWAY, NJ / ACCESSWIRE / August 18, 2020 / Amplo Global Inc announced today that its AI-powered platform is now available on the Microsoft AppSource and Microsoft Azure Marketplace - their online stores providing applications and services for ..."
-publishedDateTime: 2020-08-18T17:30:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/08/ac17142440/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17142440"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17142440"
+excerpt: "Amplo Global Inc announced today that its AI-powered platform is now available on the Microsoft AppSource and  Microsoft Azure Marketplace – their online stores providing applications and services for use on Azure."
+publishedDateTime: 2020-08-18T17:00:00Z
+originalUrl: "https://apnews.com/c6dc3fe157382b0b0e9f44cf7627faa7"
+webUrl: "https://apnews.com/c6dc3fe157382b0b0e9f44cf7627faa7"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "http://cdn.newswire.com/files/x/26/69/1756aa85fe2bddc31a756e61b382.jpg"
-    width: 320
-    height: 220
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -311,6 +310,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "CxL6hpOtj5NNzSejnGIBaJq6RdXZD3qsya8qOm8qa1iwEyiMxtleU9i9dW2Z1Bm+N1scYO3aA/R+CC4JsRYPBlEC7k9wckBgIWA1lo9QUQPAj1B4Sqb9AkUtTNcDNraMWqKrNFMXMzF4g5uT5qLTTM+hGmFMUGs13zPfhcTNDCKAi36bsmvElv3HP0QIhX4X9D9f1JHODbxkj8NtSr3aga/XbLP/f8Up6cAf5k8qR/B/1XNpZNkJkYRCjIZnTcbXO984hp080YmCCeA77pHLpqFEVJA0BlsIVo6fD2cHQxtEE8xPFwOMd3TlBdBvYO8kr74wlq3FGk+WWER4McWo0ECsL8L1hzrsP9zQUqajc3TM5fyHBmlzKl1ftvt/g2tzv7G78RJdcJFFI2lvuTpv0t/FWy0PhKfkXPD8fey5zezdLk+IW8zYhwXIu/zDNmYmedC0aYLLyAfBCLJ7ni9AMPFIfgJX/e8UCZaSCXG32Kmw2EBhLZFcRXhWzya7UsT7;PiScGs6pb4BMFYbcfOy4zQ=="
+secured: "FfjgmEE8LKqIEkfCkvwHuiHNNIaBXCkIcHqa4d/viGhkqg+WogOm7/TImBcJEgbbqn/HQA61IQ5FzTorc3B1GgJXx40XgcnC1dWqxc5mAbapxKaYPSRkyZU+kEEXhr7Ue13j8BpCPh9GIAoEdQmznOpgSncjxx1Wh+IfGTKzeHCBBoXwJX0XEfn/ugXatwuwPxfJL0lsprw7MaAFe6sBIJnLChAYJfetgUMx5unCA54gh3xkYE6aO0CLux29SnKEIgRaHavh9WKAiLUK3HiK8ETCtKlazFfimnR983hsLBFED0y7kfEkdgLTgs7m0Kdu8qtxwCApfYjCYueWzRO+JBpXOiKgdvqrrmAgTYaURDI=;dKJBQCMlEgNu30RmIv2ikA=="
 ---
 
