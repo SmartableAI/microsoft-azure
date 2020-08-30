@@ -4,48 +4,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-azure-sql-intro.md",
-      "title": "Introduction to Azure SQL",
-      "excerpt": "Introduction to Azure SQL",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-sql-intro/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-intro/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 108,
-        "average": 4.7685184
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-sql-intro-social.png",
-          "width": 642,
-          "height": 325,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-caching-and-performance-azure-storage-and-disks.md",
       "title": "Caching and performance in Azure storage disks",
       "excerpt": "Moving data as fast as possible is good for business. Learn about disk performance in Azure, how caching can help optimize read and write access to storage, and how to enable caching to help optimize the performance of Azure VM disks.",
@@ -97,8 +55,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/characterize-devops-continous-collaboration-improvement/",
       "length": "17 mins",
       "ratings": {
-        "count": 260,
-        "average": 4.6615386
+        "count": 261,
+        "average": 4.662835
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -139,8 +97,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-security-policies-to-manage-data/",
       "length": "39 mins",
       "ratings": {
-        "count": 1860,
-        "average": 4.594086
+        "count": 1861,
+        "average": 4.594304
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -598,8 +556,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/learn-data-science-method/",
       "length": "PT34M",
       "ratings": {
-        "count": 231,
-        "average": 4.722944
+        "count": 232,
+        "average": 4.724138
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -724,8 +682,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-device-identity-ad-join/",
       "length": "PT25M",
       "ratings": {
-        "count": 731,
-        "average": 4.5677156
+        "count": 732,
+        "average": 4.568306
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -767,8 +725,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-with-azure-backup/",
       "length": "35 mins",
       "ratings": {
-        "count": 866,
-        "average": 4.5935335
+        "count": 867,
+        "average": 4.592849
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -856,8 +814,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
       "length": "48 mins",
       "ratings": {
-        "count": 2276,
-        "average": 4.625659
+        "count": 2277,
+        "average": 4.624945
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1573,6 +1531,50 @@
         "Management Tools",
         "Storage",
         "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-access-data-with-cosmos-db-and-sql-api.md",
+      "title": "Insert and query data in your Azure Cosmos DB database",
+      "excerpt": "Learn how to add data to your database and query NoSQL data in Azure Cosmos DB.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-access-data-with-cosmos-db-and-sql-api/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/access-data-with-cosmos-db-and-sql-api/",
+      "length": "58 mins",
+      "ratings": {
+        "count": 2399,
+        "average": 4.6511045
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/access-data-with-cosmos-db-and-sql-api-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Insert and query data in your Azure Cosmos DB database",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Management Tools"
       ]
     }
   ],

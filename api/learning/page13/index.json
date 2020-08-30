@@ -4,50 +4,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-distribute-data-globally-with-cosmos-db.md",
-      "title": "Distribute your data globally with Azure Cosmos DB",
-      "excerpt": "Distribute your data globally with Azure Cosmos DB",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-distribute-data-globally-with-cosmos-db/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/distribute-data-globally-with-cosmos-db/",
-      "length": "31 mins",
-      "ratings": {
-        "count": 1456,
-        "average": 4.6092033
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/distribute-data-globally-with-cosmos-db-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Distribute your data globally with Azure Cosmos DB",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-examine-components-of-modern-data-warehouse.md",
       "title": "Examine components of a modern data warehouse",
       "excerpt": "Examine the components of a modern data warehouse. Understand the role of services like Azure Databricks, Azure Synapse Analytics, and Azure HDInsight. See how to use Azure Synapse Analytics to load and process data.",
@@ -863,8 +819,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-vm-settings-with-dsc/",
       "length": "54 mins",
       "ratings": {
-        "count": 784,
-        "average": 4.667092
+        "count": 785,
+        "average": 4.6675158
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -907,8 +863,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-synthesize-speech/",
       "length": "29 mins",
       "ratings": {
-        "count": 143,
-        "average": 4.804196
+        "count": 144,
+        "average": 4.8055553
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -951,8 +907,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/release-based-workflow-github/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 47,
-        "average": 4.808511
+        "count": 48,
+        "average": 4.8125
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1103,6 +1059,48 @@
           "width": 800,
           "height": 400,
           "title": "Run parallel tasks in Azure Batch with the Azure CLI",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-secure-aspnet-core-identity.md",
+      "title": "Secure an ASP.NET Core web app with the Identity framework",
+      "excerpt": "Add authentication and authorization to an ASP.NET Core web app using the Identity framework.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-aspnet-core-identity/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aspnet-core-identity/",
+      "length": "68 mins",
+      "ratings": {
+        "count": 705,
+        "average": 4.4695034
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/aspnetcore/secure-aspnet-core-identity-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Secure an ASP.NET Core web app with the Identity framework",
           "isCached": true
         }
       ],
