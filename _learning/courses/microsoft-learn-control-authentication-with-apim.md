@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 55 mins
 ratings:
-  count: 1371
-  average: 4.641138
-heat: 57
+  count: 1372
+  average: 4.6413994
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Control authentication for your APIs with Azure API Management"
 
-secured: "WyBI8M5k9y3ZPZPzBVKRd+dOau+j+LmhcQipkHVwjFg7Yqb8BzxGDqyStxDLP13dafaZhPny7+nUPYUPhlQ5hSpeD+NOFOU5ZaiI8961ZTs1BSRvDX80CWojcruSCuTG7qh/DD5/Xe3JHhSswW8d68Au/PIaPF4KPtpHFgZ+7jzGWmzuomWCwlZXSCJhlt3BYNR+gxp2DYy9+PlIN+QOqWF+ESlWacYOwNncPj7P/F+dGAj45mybQULIU76JdS0jjXoRYGKRySztjSfE3i7dVJdXNQ4SfNL0NT56rrH2bx+MTaQlC6w1/x3GiSUS2em+GazRypVXCJnSH3wx4Lzo/x31QoDMHSBHL4YciLsXVnNRqiCcChi4hUhHOaIg1Up7LpGTGLDY/ZPQ98BEZ/RXa0eO3gKiSkFxWfCKcnyFCKI=;guZe3G/pVGAQeiYtH7uEdw=="
+secured: "SeQL0oAaWMykXqy4XFw9pZ9LbJeB2vz003gG3bfmiTdVvxHMNQv5RQ7uvlNPt9tI+tFBPk/vRJxz2QJctBAnjo3rFk4+xoNPlxkOvYdMDYQW+H51UeINGDsUeWdJgPrNF0scKDMusyqMDJ607Gj5GtQDksqPg5gaDqRzLQmLjgdJ1wRGTwyWLkF+E493RwPLLtgTanWLvrSySemKK3ERLYE+xxG9lmm8m3Ugw7BGxFIDxFP4CqnWttjKFMEYkrB9i6P3urR3Cecu7D/p5zi7lON4PNR5cgdBTMB75p/X6k+iEsKgmtvHFZzFnoYVmANvmidlTDEX5K8UKgvfTNx303oBTbjB0hKZ9laZCxm5sbxmlNDJc5tGnFF6YBrPhexmAuyndU1H8G21B7SqAPxaPAv94o53Flrw24Vb7Ij5DrU=;uUqIFeB/2gmS0QmA8R4ygA=="
 ---
 

@@ -8,7 +8,7 @@ length: 42 mins
 ratings:
   count: 1324
   average: 4.586858
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Train a machine learning model with Azure Machine Learning"
 
-secured: "UcORGovj422uIzyYZyJSndCxDGFR+nItELJJEX0iX2VCOnQ6DcXEXOt0Zb4/Sfp/9qkAyiOtBcM0zWOo/4ZPDT1T1rQAle8rbgNH428oYpOPhNWJFjOK/3yf4DSGVartA5sb7djYJRt02KQ7cp2GKNY5F87v/f9mv3NXnlQf0zjtpd8uKT4fEVoXi8rb1MFymBk+lTUzXj5n3dKkNYc4LgryDUdI2nt+nAA+sCvURWQlbde+/IK22dyU9x4J13uo5yMuLoEfGwQCdezLnyjq5/IxGrswaeHC5kg25vxvcVEvfEdsyToUPL4q2ylnkT5eNsmep45qEWsNAXDKT6qCUYOexYBnD+ARQNmbd5boNrEMLLCev1FIJzBToTnB1zeRx9qBn1vKSWYC0zWPYHTjxOmoeo6muGOzBNEU4J6j7nk=;ny7ZjBXXfdfQq6bvAhXSIQ=="
+secured: "dLar/1lWtPMCoUzxXr8SVjlJsGUjlVqs4CqZDvfMP6xLYK9lR1eMxysI3VcbGbjaclUkQG6bcoWqDxWeTKzYW4fdGO9CXfLzm7SJD6JSwTpiz7M7HsGxGNhPREh7JbrM15sDdvlcWXPZ7e6fG1nRhuqa9WJVGkKIQP8+aRfV2eVhGFeY+9hj3FjzT8wQoRtiwz+OtExFFGfDshxo2DCQDg46bJoCXt7c4H3On3zchIypU6pl42NFfsM+Aog8W1uj+P7/vddhoFaRr0Hm57h7E2Qu6s74CgbwOgCkwaoTOzBa8nz96AMxfHl1nG1zWJDadQfGWDKyaejJlDX68ugfzmJ9BIEvZN8Hcp1I6avQCRtXv38/lhtPRIeWBtv5G24K/eJJs7M3lXrgNSbBtLsls0mMsrJkP0QcwYIvtImPjoI=;4bdgmCOQJFQX8fqIQ7GY6w=="
 ---
 

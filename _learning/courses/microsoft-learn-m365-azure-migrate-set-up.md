@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Set up Azure Migrate for server migration"
 
-secured: "s4NaFI/+kTUv17TP42vkQflCHYQSMvE9W42AfMQxGaxNwJRcCNVqUvdggtmSP13zGNPtpjU7fh0bZ/E4g86qM+//SRLqYafxdhY5OqM1pfiJiHGZ3jKxa5iWXJIy5eV8z8xEs+GgqtkVSN43Y7Otc1LWZ0Gyhk3WYHzG500ouqORlzONEBQ7mvtb2+IMTMRjfjUr8GDQ/ki1l4he9jFh4pVcdHqHHi+eJXWG4cHwnD+EH8YWoEl8+g9Xs0Ir2V5Yu2WascvrVvUCA2E70nqDrBTPShzPeeqQV+a6nVBPsjsn7s+OFym2POW75ACmXoXjY5Y56giI9YB93dKoOIkHjHxzzIK6DbbNqZ0TN6gLnOYUa9IOPNm/AXDts3T29eSaKcAX77IcCBcRgtTa57rRI+/4lMS/lsSIZ+B/cGfPFH4=;VXRv/NVFABpgXRn9tyepCw=="
+secured: "zxNKCfyTXrt3uidzP1zhC04dIoxaJPzkyEXZYm89G0TF1w7/ZfOHBYkofl+cM6ZiEZ4tjmk8Thevm4wkx8ACdhVWuw0hVYmW+yRQDHBfV69zHaWQhL96P7DEhO/1rtnY++qctH9aYL/UKFfvQf1qpd4cC1QF4+3fkoP7/uaVzlB2ydMGJ2tcJCsvyeAosvOKcgwhRRySE12EtUFX5nYpH3/t/bDibATr/FihkYWc0svu7B8pzxpLxWfSO1jUvS/Am8NeUnUQjCG7BKZPO15XoY8e2jXzxxMcuann66GJ/cNcwo/cGwvSEbZ05oWU55zKNBLnJQLAwoMxrSUfDiRDKrf7korV6BvFpsD7so2xEHiWYT8FnqMAsxV79vjLTkVwNP5ZLDnz5lYgwM9ca+gnUkVLx6ch9xtST+aA0fFsSik=;2YkHu/YKN/Y2Scuq8p9FqQ=="
 ---
 

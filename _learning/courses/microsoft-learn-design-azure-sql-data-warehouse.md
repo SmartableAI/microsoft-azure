@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 47 mins
 ratings:
-  count: 2557
-  average: 4.5748925
-heat: 57
+  count: 2558
+  average: 4.5750585
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Design a data warehouse with Azure Synapse Analytics"
 
-secured: "N16TbJ7mkunaAa6VHoBb2T4AfPY7RT8WVD6wByrjLHLLAp9ztg5ow9EnEQ/+G38MushxyZn0TjJbZ2p6EUyAXDMwnEjYtNIylOdHkCFwWWxY8fcYGeWNdx0Rvs3i9He4TJelQaOt1/gDzIIvBsQ5l+/Pel7gR+IIk15fyncgKNZgWuJuWndejcFu+4g39BA4JKO3wf28YEKMcjy1GjRBEWgoi1zuUuoE8w9M4HASF3ssKv5iwRKfSNqFUj4ird3Iqv1PgC7xC4G2HzEZxJ6D+ZWRk7LPG8iqHtd9GcLLB3aCRwy2OEoHL/ceVdFkGpd/C/1sap/k8UGpu+ttkstQz1GrRvn6wNupBpWiG4rcph7c64F3UcPQ2VYBVK8EQPuQRMuCNcnAdLo4jnjjZ3CbRooQrE2yl9u0UC9GFakvfps=;XnKCZL3nwN5X3eB0Bf5C+g=="
+secured: "Yg2VhDYBKxeJl9LAeGFV+VOVynacG+qnIbVReQDeZG08Zowo56+R/sv2dQabGUQKWd0/o7X32HC6kwmtV6ha/H+G/1oQ+Ue+z+ywQQdwXURbiDQLYifSLUZRQqETkwTupYi0fZm69upqa3i3bP5d4jVVcRIGdqGNarcdE9rDZSpliOBqskGfyjb8s6OAi/NO2HIuxUS4BTGxrglPw1S4/HZSWAu8FRTdOBJawaIYkenQvQG80S+97PPShSlQeMx8OLy1nPShrYUD561ApUpxu8jvYm+D1LrfhdNHW0yYbMAb+jxxajV3HiKkzhhij9a95glXPHKb/8yx08NBZFbVCBy/ktPedisHMFnbUhUdg0b0l9S1VHS1iSaycyDe5PR0KlUXBErNPQRCRGbp/W3FaMYe3lAAq1FsiPBAndGJT7c=;aSCuyt1h/2538DTz0plPCw=="
 ---
 

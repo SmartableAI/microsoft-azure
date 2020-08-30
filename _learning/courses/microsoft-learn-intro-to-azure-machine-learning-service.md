@@ -8,7 +8,7 @@ length: 42 mins
 ratings:
   count: 1959
   average: 4.6094947
-heat: 51
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -37,6 +37,6 @@ images:
     isCached: true
     title: "Introduction to Azure Machine Learning"
 
-secured: "UaohkZ0wL8tj+89NbB94RhSsnCFiLdEKa88JaaQkYuMveyPb3GsvZvpiCWHdURFQRFacSKcurkXuHWV3jxsNypSFocNKZLv96CqdajJOlmRpfb8FTVcQqE1BVkDOsUw/DROpJSeR98ypKwixxVyO1SIRQ/aWsl3fWoydd3LvkqzilRHi42mhyzUvMYLiY0eWx3DqthvxG9zZzKm2iQmjobAMm8yJaE2MwCivdJqaFfw2Hl3IiEabKvZs36zEG7rHvqDnfD6CMc3GasxaI3jpwOcnza4B9QJz7wT5/dB2GQQpLVTATZApTdTVrtFmp0J2d8/6j0OFzPIcGSE6ecXQWoxGcSCgATAbZtK07CIzfS0rkjcbBw4AQ0mah7GTd2LUEr9cYAr0cKzdFyEgFzS3t3I+NKIzDBEfX7e5Do3h/G8=;wQEC4HQqNPw523evyAFXcQ=="
+secured: "CwsscQLox9upEa+pfNiQDlRWnQxNyHGG0qtXpVqkfHEJKkYBZT5EZKULQRkb0YZEVaswRAWnRV/GmISkaR3pTqupZ4bXLIP4mrzdnU0UDRtI5CJBTkYp5QMIoa6NdTWKzzoC6XsGiPM2yW6PPdCzUUAf96mAOt2wDsfuED1zIGvSop3rg2ZtTqMGphijAYEVecvkDGmByxkA2mPhnW/haneA2Jcmy/k4lJubu+/J+hVH1Q/h0FlNj3IKoozfsFHqG4wDc9+K9mKRnikr0MYYaE9TdNQBf04i3vZGnHNH9n9HsLFvldi9+xXqmXJeckVoaRImGQ6060xNLELNJUD+NlsvWA5/PyTPJgjgIbi7zpu7QxcBkaov3mWnnaIWz52nGCuhu3ElWhmKeckxwq+DtH949B2zEViSlSejXCMk85s=;ab27YwU7ml3DRrXKz6Rcig=="
 ---
 

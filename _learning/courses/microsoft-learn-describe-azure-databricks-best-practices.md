@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT38M
 ratings:
-  count: 32
-  average: 4.84375
-heat: 50
+  count: 33
+  average: 4.818182
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Describe Azure Databricks best practices"
 
-secured: "A7L8VZ3qpdaEOGU/jD6S+GsLZHVkWiiormbee0qwRp4IDII+9YH7G6xlWG8x91xINj7FdolemZMXKUzvEyDFyby7H2Ugq9brRs2yYAOqQJdeukLlL3zYrCmjg3diVcD3Lms0Ds6fh2ctR43NtBn6Ub/CTE3+cPfddiEevzn+xcNQJSCm4w5i9A2OYv2SzfKag8DdxZdJAKBU0SuZ0Bq9AtDL5b6N2Q+zeC9LS0vKHypf2iDf4h5U17dRfEcwiVCgGZT5/tr1w0HDXWQdY5Gzz1JNCvXmGONdw/dLKPe+QU+1PSpkSu98su3p4VnBbSm0gbCCXG0bBezH65yJuik1lL0H8ZXcEP+j0wLkE+ffMd3Ac0VjwOoLrGiuvFuEcRBtGfDjv9fS13VjSvmnplbAVdcpdGMRrQ+dXPPO6lHsPfk=;LVWOJqgZR2EbEWP5kh3Hvw=="
+secured: "bGp9+qli+071LHXZd0WMALwxJFU6oLf9yzxWMD4f9hPpS9wl9aosMH9ALrAV2rrQt7kpploaBDGZY2mTB4y+KKHwgm/xcg5rHUVDZBlL2FJ8i+aLpr+BTGiCtnhmU1Cnt7Y2O2YlJO0q6/5JDDqIMEuIM1L2lDE4w2FS/13oHlcOMhN4/VtxTG0L3482uT3H/6P53G/WCklILxd8GM0XTTl+r9fz4mBdxZT0y+c20Zf2RDMIWsUArPH3bAQAYfkvvSRF5liT0inxPq4g/jPrDx6e8148dSn8BQ1TJRcmeEuBsUT2i4Uwkb40ZtRC3WulWEyprKg0E+3w1M1A/kZHro/ssRwqEmVpocdu4XAJwmQ7qDfSdbppZFV7WSHrij9e7Gtzrn+RY5nAhqSEfqQ2JJFj6RN0bsYHea/UqI2UMaM=;o4RFA/AqFnLxjEwRz/dZGw=="
 ---
 

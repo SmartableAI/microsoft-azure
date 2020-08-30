@@ -8,7 +8,7 @@ length: 55 mins
 ratings:
   count: 73
   average: 4.630137
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Automate cloud resource management"
 
-secured: "0EvBZyXN4/TlxY3Wfkk/OFS8rsHGlbJ7QZvWvodV8cjPzAYyUR6f3e1x0snfLN76T0zGw3Gr8BGeqA/wZjr8AR65PeT2uhyZEBS9MIpGHFCjE7DNH1uN0TJIznK2btVR0D3JNvrAVMZOvKOmh5vkhUI3eMe3X6M1PDW0Sb/IBTkSxQvyhLnDhiZRiIHrBz+jNBRMBjottoEHh/7Wh/aqiC4Y3RO3Jz1hZdfI726Fw26IqqloawI0sudWjen8iCHrVzbhCG2EQ9weJm1ZWPcm8bQRQHFG7MujP6EOtHYzu0SIslYbxP+XHK2vOkrGs2V58zdeXz7wDdAhCRdNGhURQGOW1BIHkewXI9Us4DqOicTWbxn+XfZv2klRrkUw6nWDP7hZLpLtdOdwBHMZk1M3zP40XjkcvJYiB1+/FRhcvK8=;qiwmFUHNzz6JcjakeEiDdA=="
+secured: "Mdiv21RwDJUlcGM8VcABgq6CNKe//4gFL9xp5y6BIIkgwP1KGe16dipUfHNBSOwhyrjgXmTfuYTDtIihzEgSseuV+zHECW4RPDXVS0RSjUXz5nuscPMQaqUAZ1pPPDvk7hsW04BFliYZwft/gv2UH7mK7NLvaFwcyLC9ruNIKX5CC2PRfVcGPpE/0EjLvm734fOcGK+6YTae8w3qo2ry28zVUi0NrJNvQ9yHHb94phc0LaCGv3PzUxMF0cML1/A+TJcyHGoheObmkMbFlgqXYHPtbs4dAhBdqAy4yw9MAysJuaf5FrcJ7+1bvkUX/dS2cZER8fYcEMUK/YirPnPSyT+B4xmmLik/5wl9cxpbEXpgvmYVaY//8GB7IoYb9uE2GnwHUuQnnUoh9j2wOeAOvnuptHXQZW63F6/w2NIp82U=;1ZpyeRdcBBwjdAyxnF6tBA=="
 ---
 

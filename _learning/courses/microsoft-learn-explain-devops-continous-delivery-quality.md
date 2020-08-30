@@ -8,7 +8,7 @@ length: 18 mins
 ratings:
   count: 315
   average: 4.698413
-heat: 55
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Explain DevOps Continuous Delivery and Continuous Quality"
 
-secured: "Qz2zM9NaAjKmPOsITzZavvDdrwZ1kLVoajJY3Z/VvBN7pytijMkgWhnUmSO/4+bHMeFaX1//E7MtqQYZrsC6Wr7WJzDaAtAqCiZibeZ/8OnYBTZH1KK+X/GiWqsf9SjrlEagu7NtiSvoS95n9bPy6DRv6MlnwQ/+EIqPCd66Zj+mLz26zO8B/RZec7P7jucKf7HAnbYKQpWsVSM1oQEZwZO85G4yuIlBvKTrSPMJkqCgd8YUQFre85fxgm6nJ2OE4yuwRw69IQzRzZ5xDMc8CWZhiOEmlC4/DkVBnJ65lBtYiSkypEYYfllhLOeNNM6c56eApTPG70jmTtH3JL+E9W9/7EahS310qGc3AXhGicVRZQmpfY/OxPtS25Sfe7q1dzSw5X8vVa0T5AZs0PbbOIMQtEQdcI9fVQ9nSlp1M84=;taF67wm+aSLAL5zDb6CYFQ=="
+secured: "AnAfWD4CUvVrQ5lnedP/Cqtc/PdbwN9llu519n8kgfexgOAjAG2pqAH3VT/Kf6JeeRgZev4U3Ljcl+FvYVte1/DXqXDME3cvBmlIwqMqbdkZki7gVn4CY5zggj1DP/I0zPBp3SNJOY1dksINiJ4ajnR8RJfI8jQt9LCMjyJP4MIpBoOspu+A9VpPdtkFSrDQINnV+7JgYdoBvRXIGVcwlekULBp2HqTVcrYkSEOsuR3cfIRpChHJ4Rg3gDsEWr6FLAkD7eGAEWKaZIBh/TAdUNHwK7pVYmxUl5voor7Lbsalxyt5Q5i6WVEtp84iUuejO/HTkHhXAYcliyGaaWK+Egq8TNWnibdZDF38AhSLtIGIHv2R80Fw8xdgo1Z1Dnwouo8EONUxNQs/zOzIB1f2CnLyQ6//PGOX8TGdMyu3rxc=;du2EVDka3oKPyGjAMxg7ew=="
 ---
 

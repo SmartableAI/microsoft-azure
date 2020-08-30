@@ -4,7 +4,7 @@ excerpt: "If you're an IT Administrator that's new to Azure and need to prepare 
 type: collection
 price: Free
 length: PT6H30M
-heat: 88
+heat: 86
 
 provider:
   name: Microsoft Learn

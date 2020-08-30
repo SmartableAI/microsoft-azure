@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 53 mins
 ratings:
-  count: 140
-  average: 4.757143
+  count: 141
+  average: 4.744681
 heat: 50
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Automate IoT devices management with Azure IoT Hub"
 
-secured: "9Jhrxea1QYNxH14LRCGik82dr4dJ+CoLw5T8lM3PIifEMYkFJ0oZfuRWFCFDfKmHNe3MA810hkfeaoBQT8OyscUV5tO20t9eaketJ/ZPaLggdhpFr0aPufoLVO7XddutEFAGEK4RLSvFCzF9N6FtibFnFgUa95pJd6EC30diJrUFP9ZH66R0uC6t8ZeknXqeCg1ykg12Av2ILOu0PwjWt11CtYfCNE0e/I55bb9A3tuyXKiFLbccu0X9qjvCGf3fcCIm8ari7pM76CwYzasA+qSNoTW39EOQiY/ohwveaO4t2Gahzq1zMobnum4bqxrdJRz62gpCHvA2Kd176ciCr3dCLegpM1/lekQEp+CPjMtgX3p/VJXkpn8odBfseY0M2uyc2iJ6SjAW8nJJoRIHKMcGMH2qU/1AP+mK0joN2iw=;ftgIMvYgjJFY4Mr1NjXhRg=="
+secured: "FgsUa2hA/3stuepcMyK+SW9Qpj5JvThIiuCNWXGNQdKc9JngGt9NY2F3m8MUKPwnrZv6yg0UH3cv7ZBk9PxAruSuOYPYTzZLKRdb5Nba2QeTH47aXVpFiua1zx0WWw6LIzvIXNhbd1Lwoa/Ps7DbVJxkTxGsb09do7oljcgxExBaMHKuioIjjDdWTzX119qoKvrnCNUKHfWeEua5FFBlluYxytnT6g9WW/yFIgAbsTsgR8ex25SUzZvO9WY7kcQLp6gjk4vpbqGxmMV9ivtOOuXdg+e+kOqZu042VXJSy/hpMx1TAVcSjtDmlUxGUzdTitURH2tyX9TzzNa2cbyZV4k4drtngWm7bFyxV3wzT7DceJFg5sOfzx3yge0jxKkCll3L+s0ygYq0IgY1uwCqEJRtr8lJrw2jzdEy8mJy8p4=;A/6MTRwPhXa0NfavRJV5jg=="
 ---
 
