@@ -257,8 +257,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/",
       "length": "62 mins",
       "ratings": {
-        "count": 159184,
-        "average": 4.7718177
+        "count": 159194,
+        "average": 4.771826
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -300,8 +300,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
       "length": "39 mins",
       "ratings": {
-        "count": 127461,
-        "average": 4.6951776
+        "count": 127467,
+        "average": 4.695168
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -343,8 +343,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
       "length": "38 mins",
       "ratings": {
-        "count": 60499,
-        "average": 4.7078795
+        "count": 60500,
+        "average": 4.7078843
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -892,8 +892,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-data-in-azure/",
       "length": "25 mins",
       "ratings": {
-        "count": 52650,
-        "average": 4.7326117
+        "count": 52652,
+        "average": 4.7326026
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -936,8 +936,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/",
       "length": "36 mins",
       "ratings": {
-        "count": 63959,
-        "average": 4.799278
+        "count": 63962,
+        "average": 4.799287
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -979,8 +979,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/",
       "length": "45 mins",
       "ratings": {
-        "count": 64531,
-        "average": 4.7117352
+        "count": 64536,
+        "average": 4.7117577
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1014,15 +1014,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-design-plot-graphs-python.md",
-      "title": "Design and plot graphs in Python",
-      "excerpt": "Learn about plots and graphs in Python",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-plot-graphs-python/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-plot-graphs-python/",
-      "length": "PT52M",
+      "path": "_learning/courses/microsoft-learn-secure-aspnet-core-identity.md",
+      "title": "Secure an ASP.NET Core web app with the Identity framework",
+      "excerpt": "Add authentication and authorization to an ASP.NET Core web app using the Identity framework.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-aspnet-core-identity/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aspnet-core-identity/",
+      "length": "68 mins",
       "ratings": {
-        "count": 57,
-        "average": 4.7017546
+        "count": 705,
+        "average": 4.4695034
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1037,15 +1037,15 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
-      "heat": 110,
+      "heat": 112,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/design-plot-graphs-python-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Design and plot graphs in Python",
+          "url": "https://docs.microsoft.com/learn/achievements/aspnetcore/secure-aspnet-core-identity-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Secure an ASP.NET Core web app with the Identity framework",
           "isCached": true
         }
       ],
@@ -1056,15 +1056,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-use-azure-maps-to-track-air-pollution.md",
-      "title": "Track global air quality with Azure Maps",
-      "excerpt": "This module shows how you can track global air quality using the Azure Maps Web SDK and pollution data from a third-party air quality API.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-azure-maps-to-track-air-pollution/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-maps-track-air-pollution/",
-      "length": "PT36M",
+      "path": "_learning/courses/microsoft-learn-instrument-web-app-code-with-application-insights.md",
+      "title": "Instrument server-side web application code with Application Insights",
+      "excerpt": "Obtain comprehensive diagnostic information from a web app by adding the Application Insights SDK to your server-side code.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-instrument-web-app-code-with-application-insights/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/instrument-web-app-code-with-application-insights/",
+      "length": "34 mins",
       "ratings": {
-        "count": 24,
-        "average": 4.6666665
+        "count": 225,
+        "average": 4.6222224
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1084,20 +1084,17 @@
       "heat": 110,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/advocates/use-azure-maps-to-track-air-pollution-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Track global air quality with Azure Maps",
+          "url": "https://docs.microsoft.com/learn/achievements/instrument-web-app-code-with-application-insights-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Instrument server-side web application code with Application Insights",
           "isCached": true
         }
       ],
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure",
-        "IoT",
-        "Mobile",
-        "Web"
+        "Azure"
       ]
     },
     {
@@ -1108,8 +1105,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
       "length": "76 mins",
       "ratings": {
-        "count": 42533,
-        "average": 4.70162
+        "count": 42534,
+        "average": 4.701627
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1151,8 +1148,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/",
       "length": "73 mins",
       "ratings": {
-        "count": 48391,
-        "average": 4.706309
+        "count": 48394,
+        "average": 4.7063274
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1194,8 +1191,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
       "length": "46 mins",
       "ratings": {
-        "count": 36385,
-        "average": 4.627814
+        "count": 36388,
+        "average": 4.627734
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1280,8 +1277,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
       "length": "46 mins",
       "ratings": {
-        "count": 36789,
-        "average": 4.7119517
+        "count": 36796,
+        "average": 4.711925
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1323,8 +1320,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimize-spending/",
       "length": "74 mins",
       "ratings": {
-        "count": 38702,
-        "average": 4.7135806
+        "count": 38704,
+        "average": 4.7135696
       },
       "provider": {
         "name": "Microsoft Learn",
