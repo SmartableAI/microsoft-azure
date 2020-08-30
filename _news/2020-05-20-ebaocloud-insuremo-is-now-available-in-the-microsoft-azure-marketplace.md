@@ -98,6 +98,15 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Nozomi Networks OT and IoT Security Solutions Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Sajan Parihar, Senior Director, Microsoft Azure Platform at Microsoft Corp said, “We’re pleased to welcome Nozomi Networks to the Microsoft Azure Marketplace, which gives our partners great ..."
+    publishedDateTime: 2020-08-25T12:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nozomi-networks-ot-and-iot-security-solutions-now-available-in-the-microsoft-azure-marketplace-1029531104"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
   - title: "Healthper USA, Inc. Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Healthper to take advantage of the scalability, reliability, and agility of Azure to drive well-being."
     publishedDateTime: 2020-05-20T16:53:00Z

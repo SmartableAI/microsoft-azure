@@ -84,6 +84,15 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Nozomi Networks OT and IoT Security Solutions Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Sajan Parihar, Senior Director, Microsoft Azure Platform at Microsoft Corp said, “We’re pleased to welcome Nozomi Networks to the Microsoft Azure Marketplace, which gives our partners great ..."
+    publishedDateTime: 2020-08-25T12:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nozomi-networks-ot-and-iot-security-solutions-now-available-in-the-microsoft-azure-marketplace-1029531104"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
   - title: "eBaoCloud InsureMO is Now Available in the Microsoft Azure Marketplace"
     excerpt: "SHANGHAI, May 20, 2020 /PRNewswire/ -- eBaoTech Corporation today announced the availability of eBaoCloud ® InsureMO ® in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. eBaoTech's customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined ..."
     publishedDateTime: 2020-05-20T15:30:00Z

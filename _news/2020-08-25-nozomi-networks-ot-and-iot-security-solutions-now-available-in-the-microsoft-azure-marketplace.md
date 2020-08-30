@@ -1,31 +1,25 @@
 ---
 category: news
-title: "Commvault's Metallic SaaS Data Protection Now Available in the Microsoft Azure Marketplace"
-excerpt: "PRNewswire/ -- Commvault (NASDAQ: CVLT), a recognized global enterprise software leader in the management of data across cloud and on-premises environments, has announced the availability of Metallic's Software-as-a-Service (SaaS) data protection portfolio in the Microsoft Azure Marketplace,"
-publishedDateTime: 2020-08-22T09:05:00Z
-originalUrl: "https://www.marketwatch.com/press-release/commvaults-metallic-saas-data-protection-now-available-in-the-microsoft-azure-marketplace-2020-08-12"
-webUrl: "https://www.marketwatch.com/press-release/commvaults-metallic-saas-data-protection-now-available-in-the-microsoft-azure-marketplace-2020-08-12"
+title: "Nozomi Networks OT and IoT Security Solutions Now Available in the Microsoft Azure Marketplace"
+excerpt: "Sajan Parihar, Senior Director, Microsoft Azure Platform at Microsoft Corp said, “We’re pleased to welcome Nozomi Networks to the Microsoft Azure Marketplace, which gives our partners great ..."
+publishedDateTime: 2020-08-25T12:07:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/nozomi-networks-ot-and-iot-security-solutions-now-available-in-the-microsoft-azure-marketplace-1029531104"
+webUrl: "https://markets.businessinsider.com/news/stocks/nozomi-networks-ot-and-iot-security-solutions-now-available-in-the-microsoft-azure-marketplace-1029531104"
 type: article
-quality: 67
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "AmploFly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
@@ -37,6 +31,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 77
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Commvault's Metallic SaaS Data Protection Now Available in the Microsoft Azure Marketplace"
+    excerpt: "PRNewswire/ -- Commvault (NASDAQ: CVLT), a recognized global enterprise software leader in the management of data across cloud and on-premises environments, has announced the availability of Metallic's Software-as-a-Service (SaaS) data protection portfolio in the Microsoft Azure Marketplace,"
+    publishedDateTime: 2020-08-22T09:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/commvaults-metallic-saas-data-protection-now-available-in-the-microsoft-azure-marketplace-2020-08-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -88,15 +96,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Nozomi Networks OT and IoT Security Solutions Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Sajan Parihar, Senior Director, Microsoft Azure Platform at Microsoft Corp said, “We’re pleased to welcome Nozomi Networks to the Microsoft Azure Marketplace, which gives our partners great ..."
-    publishedDateTime: 2020-08-25T12:07:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nozomi-networks-ot-and-iot-security-solutions-now-available-in-the-microsoft-azure-marketplace-1029531104"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
   - title: "eBaoCloud InsureMO is Now Available in the Microsoft Azure Marketplace"
     excerpt: "SHANGHAI, May 20, 2020 /PRNewswire/ -- eBaoTech Corporation today announced the availability of eBaoCloud ® InsureMO ® in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. eBaoTech's customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined ..."
     publishedDateTime: 2020-05-20T15:30:00Z
@@ -323,6 +322,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "zvdixhizmBLuBHbTDX4LHIf3O6DAjKHK/1YpqFTHO4JXSv1fl/xogniAGksrlL7fT9eoyuh3zLftYYcb2wxD0kBRW1zWMfXdoBB2UbIOSYIoK45IwzzX4c1bjPPcokx3dI4zJ06KvesAGljcdY1gSAEOMNKBCi20IZ8dtTag/aD0VEuWF+JgEhuo1tnrbvR0vxRRQTZtA8ewMIjQKMbfSJm9abHx/QjNetBd1Q9JhLZ6HomsEj5J4o2lujUJABpsbT0ay0OvrqffgnIYFwXP9PyNeY+SYgLg3sCackaeVKcMh18qlxKLj8LwjIQ2wCCm7gP8k01xeIKsqsKz2FXEpg==;Xb9BJxacoJfAywxqgEiLrw=="
+secured: "EgGn+jqycyuk/8sVn73TU/g/1FgGyFFt0NMug2p2JSgsBkA8D/cYzhTc3W/6TvTtPItrmHbWP1h5TEARxOFwbyuwrZ3kEFAfWnvdJmqDgAHaU77/yWtJtO/W5gcj4xsXe+vXRc3eIiNGeq3m/ZPaUjR8i4nNP+jlx9EksH0xjq0wh6lIxVWQyn/3fmKeY0pUV79t00VF4iNsnBVX1pCkd70M8n9jBu/fiqWrySzuaU+YNZcBESqPTobWXEGHHtJj0eF5sQmS6gXIGNtk4/Lj69uE8LQ4pJ0cPEASlwQIkEu2i3UOT9zmLYzXm9mZvTN1jr9/8nswPmDoGcotRhxPMUNFTV9EBGfrhW/Guw0R5F0=;J4Wh6uMdSLy0HchX6crPTg=="
 ---
 
