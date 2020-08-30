@@ -257,8 +257,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/",
       "length": "62 mins",
       "ratings": {
-        "count": 159222,
-        "average": 4.7718344
+        "count": 159231,
+        "average": 4.771841
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -300,8 +300,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
       "length": "39 mins",
       "ratings": {
-        "count": 127483,
-        "average": 4.695167
+        "count": 127488,
+        "average": 4.695179
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -333,6 +333,55 @@
       "topics": [
         "Azure",
         "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-compute.md",
+      "title": "Core Cloud Services - Azure compute options",
+      "excerpt": "Review the Azure compute services and explore how they can solve common business needs.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-compute/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
+      "length": "38 mins",
+      "ratings": {
+        "count": 60518,
+        "average": 4.7078557
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-compute-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Core Cloud Services - Azure compute options",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Containers",
+        "Serverless",
+        "Web",
+        "IoT",
+        "Blockchain",
+        "Integration"
       ]
     },
     {
@@ -423,7 +472,7 @@
           "path": "",
           "title": "Create Azure users and groups in Azure Active Directory",
           "excerpt": "Create users in Azure Active Directory. Understand different types of groups. Create a group and add members. Manage business-to-business guest accounts.",
-          "heat": 120,
+          "heat": 60,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
@@ -441,7 +490,7 @@
         }
       ],
       "size": 9,
-      "heat": 144,
+      "heat": 129,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/intro-to-security-in-azure-social.png",
@@ -457,55 +506,6 @@
         "Azure",
         "Management Tools",
         "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-compute.md",
-      "title": "Core Cloud Services - Azure compute options",
-      "excerpt": "Review the Azure compute services and explore how they can solve common business needs.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-compute/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
-      "length": "38 mins",
-      "ratings": {
-        "count": 60513,
-        "average": 4.7078643
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-compute-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Core Cloud Services - Azure compute options",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Containers",
-        "Serverless",
-        "Web",
-        "IoT",
-        "Blockchain",
-        "Integration"
       ]
     },
     {
@@ -885,15 +885,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-users-and-groups-in-azure-active-directory.md",
-      "title": "Create Azure users and groups in Azure Active Directory",
-      "excerpt": "Create users in Azure Active Directory. Understand different types of groups. Create a group and add members. Manage business-to-business guest accounts.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-users-and-groups-in-azure-active-directory/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
-      "length": "41 mins",
+      "path": "_learning/courses/microsoft-learn-build-app-with-scale-sets.md",
+      "title": "Build a scalable application with virtual machine scale sets",
+      "excerpt": "Enable your application to automatically adjust to changes in load while minimizing costs with virtual machine scale sets.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-app-with-scale-sets/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-app-with-scale-sets/",
+      "length": "57 mins",
       "ratings": {
-        "count": 2073,
-        "average": 4.6999516
+        "count": 1371,
+        "average": 4.576222
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -910,13 +910,13 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 120,
+      "heat": 117,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/build-scalable-application-with-azure-virtual-machine-scale-sets-social.png",
           "width": 800,
           "height": 400,
-          "title": "Create Azure users and groups in Azure Active Directory",
+          "title": "Build a scalable application with virtual machine scale sets",
           "isCached": true
         }
       ],
@@ -924,7 +924,7 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Identity"
+        "Compute"
       ]
     },
     {
@@ -935,8 +935,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-data-in-azure/",
       "length": "25 mins",
       "ratings": {
-        "count": 52663,
-        "average": 4.7326016
+        "count": 52666,
+        "average": 4.732598
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -979,8 +979,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/",
       "length": "36 mins",
       "ratings": {
-        "count": 63966,
-        "average": 4.7992997
+        "count": 63970,
+        "average": 4.799312
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1022,8 +1022,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/",
       "length": "45 mins",
       "ratings": {
-        "count": 64546,
-        "average": 4.7117867
+        "count": 64547,
+        "average": 4.7117915
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1057,15 +1057,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-github-actions-automate-tasks.md",
-      "title": "Automate development tasks by using GitHub Actions",
-      "excerpt": "Create a basic GitHub Action and use that action in a workflow.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-github-actions-automate-tasks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-automate-tasks/",
-      "length": "PT36M",
+      "path": "_learning/courses/microsoft-learn-work-with-azure-machine-learning-deploy-serving-models.md",
+      "title": "Work with Azure Machine Learning to deploy serving models",
+      "excerpt": "Learn how to use MLflow and Azure Machine Learning service register, package, and deploy a trained model to both Azure Container Instance, and Azure Kubernetes Service as a scoring web service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-with-azure-machine-learning-deploy-serving-models/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-azure-machine-learning-deploy-serving-models/",
+      "length": "PT23M",
       "ratings": {
-        "count": 103,
-        "average": 4.6116505
+        "count": 17,
+        "average": 4.647059
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1080,22 +1080,24 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 110,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/github/github-actions-automate-tasks-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/work-with-azure-machine-learning-deploy-serving-models-social.png",
           "width": 640,
           "height": 320,
-          "title": "Automate development tasks by using GitHub Actions",
+          "title": "Work with Azure Machine Learning to deploy serving models",
           "isCached": true
         }
       ],
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure"
+        "Azure",
+        "Analytics",
+        "AI"
       ]
     },
     {
@@ -1106,8 +1108,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
       "length": "76 mins",
       "ratings": {
-        "count": 42546,
-        "average": 4.701688
+        "count": 42550,
+        "average": 4.701692
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1149,8 +1151,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/",
       "length": "73 mins",
       "ratings": {
-        "count": 48406,
-        "average": 4.7063794
+        "count": 48408,
+        "average": 4.7063913
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1192,8 +1194,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
       "length": "46 mins",
       "ratings": {
-        "count": 36399,
-        "average": 4.6278467
+        "count": 36400,
+        "average": 4.627857
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1235,8 +1237,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-networking/",
       "length": "28 mins",
       "ratings": {
-        "count": 41672,
-        "average": 4.7640142
+        "count": 41676,
+        "average": 4.764013
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1321,8 +1323,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimize-spending/",
       "length": "74 mins",
       "ratings": {
-        "count": 38708,
-        "average": 4.713599
+        "count": 38709,
+        "average": 4.713607
       },
       "provider": {
         "name": "Microsoft Learn",

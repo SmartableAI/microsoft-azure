@@ -4,12 +4,12 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-deploy-and-manage-compute-resources-for-azure-administrators.md",
-      "title": "Deploy and manage compute resources for Azure administrators",
-      "excerpt": "Learn how to deploy and configure virtual machines, containers, and Web Apps in Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-deploy-and-manage-compute-resources-for-azure-administrators/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-deploy-and-manage-compute-resources-for-azure-administrators/",
-      "length": "PT11H15M",
+      "path": "_learning/collections/microsoft-learn-manage-identities-and-governance-for-azure-administrators.md",
+      "title": "Manage identities and governance for Azure administrators",
+      "excerpt": "Learn how to manage users, subscriptions, role-based access control (RBAC), and governance in Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-manage-identities-and-governance-for-azure-administrators/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-manage-identities-and-governance-for-azure-administrators/",
+      "length": "PT8H47M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -28,96 +28,84 @@
       "topItems": [
         {
           "path": "",
-          "title": "Create a Linux virtual machine in Azure",
-          "excerpt": "In this module, we discuss how to create a Linux virtual machine using the Azure portal.",
-          "heat": 59,
+          "title": "Create Azure users and groups in Azure Active Directory",
+          "excerpt": "Create users in Azure Active Directory. Understand different types of groups. Create a group and add members. Manage business-to-business guest accounts.",
+          "heat": 60,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/create-linux-virtual-machine-in-azure-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Create a Linux virtual machine in Azure",
+              "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Create Azure users and groups in Azure Active Directory",
               "isCached": true
             }
           ],
           "type": "course",
           "topics": [
             "Azure",
-            "Compute",
-            "Management Tools"
+            "Identity"
           ]
         },
         {
           "path": "",
-          "title": "Create a Windows virtual machine in Azure",
-          "excerpt": "Azure virtual machines (VMs) enable you to create dedicated compute resources in minutes that can be used just like a physical desktop or server machine.",
-          "heat": 67,
+          "title": "Manage users and groups in Azure Active Directory",
+          "excerpt": "Manage users and groups in Azure Active Directory",
+          "heat": 62,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/create-windows-virtual-machine-in-azure-social.png",
-              "width": 1000,
-              "height": 500,
-              "title": "Create a Windows virtual machine in Azure",
+              "url": "https://docs.microsoft.com/learn/achievements/manage-users-and-groups-in-aad-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Manage users and groups in Azure Active Directory",
               "isCached": true
             }
           ],
           "type": "course",
           "topics": [
             "Azure",
-            "Compute"
+            "Identity"
           ]
         },
         {
           "path": "",
-          "title": "Manage virtual machines with the Azure CLI",
-          "excerpt": "Learn how to use the cross-platform Azure CLI to create, start, stop, and perform other management tasks related to virtual machines in Azure.",
-          "heat": 61,
+          "title": "Allow users to reset their password with Azure Active Directory self-service password reset",
+          "excerpt": "Evaluate self-service password reset to allow users in your organization to reset their passwords or unlock their accounts. Set up, configure, and test self-service password reset.",
+          "heat": 57,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/manage-virtual-machines-with-azure-cli-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Manage virtual machines with the Azure CLI",
+              "url": "https://docs.microsoft.com/learn/achievements/allow-users-reset-their-password-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Allow users to reset their password with Azure Active Directory self-service password reset",
               "isCached": true
             }
           ],
           "type": "course",
           "topics": [
             "Azure",
-            "Compute",
-            "Management Tools"
+            "Identity"
           ]
         },
         {
           "path": "",
-          "title": "Add and size disks in Azure virtual machines",
-          "excerpt": "Understand and create the different types of disk storage available to Azure virtual machines (VMs).",
-          "heat": 56,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/add-and-size-disks-in-azure-virtual-machines-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Add and size disks in Azure virtual machines",
-              "isCached": true
-            }
-          ],
+          "title": "Manage access to an Azure subscription by using Azure role-based access control (RBAC)",
+          "excerpt": "To grant access to a subscription, identify the appropriate role to assign to an employee. Understand when you might need to temporarily elevate your own access to regain access to a subscription.",
+          "heat": 60,
           "type": "course",
           "topics": [
             "Azure",
-            "Compute",
-            "Management Tools"
+            "Identity"
           ]
         }
       ],
       "size": 14,
-      "heat": 73,
+      "heat": 72,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/create-linux-virtual-machine-in-azure-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Create a Linux virtual machine in Azure",
+          "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Create Azure users and groups in Azure Active Directory",
           "isCached": true
         }
       ],
@@ -125,9 +113,8 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Compute",
-        "Management Tools",
-        "Containers"
+        "Identity",
+        "Management Tools"
       ]
     },
     {
@@ -138,8 +125,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
       "length": "30 mins",
       "ratings": {
-        "count": 5511,
-        "average": 4.751588
+        "count": 5513,
+        "average": 4.751678
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -182,8 +169,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
       "length": "45 mins",
       "ratings": {
-        "count": 7191,
-        "average": 4.6399665
+        "count": 7193,
+        "average": 4.6400666
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1154,8 +1141,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-vpn-gateway/",
       "length": "39 mins",
       "ratings": {
-        "count": 4184,
-        "average": 4.597514
+        "count": 4187,
+        "average": 4.5975637
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2860,8 +2847,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
       "length": "51 mins",
       "ratings": {
-        "count": 11926,
-        "average": 4.706859
+        "count": 11928,
+        "average": 4.706908
       },
       "provider": {
         "name": "Microsoft Learn",
