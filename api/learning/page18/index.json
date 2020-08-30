@@ -4,6 +4,39 @@
   "page": 18,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-build-product-road-maps.md",
+      "title": "Build product road maps",
+      "excerpt": "Identify and construct Agile product road maps including audiences, prioritization, themes, milestones, epics, and user stories.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-product-road-maps/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-product-roadmaps/",
+      "length": "41 mins",
+      "ratings": {
+        "count": 50,
+        "average": 4.62
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-build-query-delta-lake.md",
       "title": "Build and query a Delta Lake",
       "excerpt": "Learn how to use Delta Lake to create, append, and upsert data to Apache Spark tables, taking advantage of built-in reliability and optimizations.",
@@ -238,8 +271,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-build-apps-cloud/",
       "length": "PT1H21M",
       "ratings": {
-        "count": 83,
-        "average": 4.566265
+        "count": 84,
+        "average": 4.571429
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1184,51 +1217,6 @@
       "topics": [
         "Azure",
         "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-continuous-data-export-from-iot-central.md",
-      "title": "Set up continuous data export from Azure IoT Central to a Power BI app",
-      "excerpt": "This module covers continuous data export from IoT Central. You use the scenario from the &quot;Create your first Azure IoT Central app&quot; Learn module, where you control a refrigerated truck. This module adds continuous data export to both Blob storage, and an Event Hub. Then, a Power BI app is built to read and display the telemetry data on a mobile phone.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-continuous-data-export-from-iot-central/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/continuously-export-data-from-iot-central-power-bi/",
-      "length": "PT1H9M",
-      "ratings": {
-        "count": 37,
-        "average": 4.6216216
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/continuous-data-export-from-iot-central-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Set up continuous data export from Azure IoT Central to a Power BI app",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Storage",
-        "Analytics"
       ]
     }
   ],

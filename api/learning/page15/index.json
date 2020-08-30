@@ -4,6 +4,48 @@
   "page": 15,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-evaluate-performance-improvements.md",
+      "title": "Evaluate performance improvements",
+      "excerpt": "Evaluate possible changes to indexes. Determine the impact of changes to queries and indexes. Explore relevant Dynamic Management Objects.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-evaluate-performance-improvements/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evaluate-performance-improvements/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 13,
+        "average": 4.6923075
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-explore-performance-based-design.md",
       "title": "Explore performance-based design",
       "excerpt": "Evaluate possible changes to indexes. Determine the impact of changes to queries and indexes. Explore relevant Dynamic Management Objects.",
@@ -255,8 +297,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-azure-vm-based-sap-solutions/",
       "length": "61 mins",
       "ratings": {
-        "count": 87,
-        "average": 4.7126436
+        "count": 88,
+        "average": 4.715909
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -682,8 +724,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/react-to-state-changes-using-event-grid/",
       "length": "33 mins",
       "ratings": {
-        "count": 227,
-        "average": 4.5947137
+        "count": 228,
+        "average": 4.5964913
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -770,8 +812,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/register-and-deploy-model-with-amls/",
       "length": "42 mins",
       "ratings": {
-        "count": 868,
-        "average": 4.593318
+        "count": 869,
+        "average": 4.593786
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -855,8 +897,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-secure-cloud-resources/",
       "length": "40 mins",
       "ratings": {
-        "count": 160,
-        "average": 4.6625
+        "count": 161,
+        "average": 4.6583853
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1113,8 +1155,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-compute-contexts-in-aml/",
       "length": "47 mins",
       "ratings": {
-        "count": 483,
-        "average": 4.625259
+        "count": 484,
+        "average": 4.626033
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1277,99 +1319,6 @@
       "topics": [
         "Azure",
         "Databases"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-automate-your-deployments-with-azure-devops-learning-path.md",
-      "title": "Automate your deployments with Azure DevOps learning path",
-      "excerpt": "Learn how to combine automation techniques such as infrastructure as code with automated pipelines to provision and configure the infrastructure you need to run your applications and services.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-automate-your-deployments-with-azure-devops-learning-path/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-automate-your-deployments-with-azure-devops-learning-path/",
-      "length": "PT4H6M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Provision infrastructure in Azure Pipelines",
-          "excerpt": "Learn how infrastructure as code enables you to describe and automatically provision the infrastructure that you need for your application.",
-          "heat": 50,
-          "type": "course",
-          "topics": [
-            "Azure",
-            "DevOps"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Configure infrastructure in Azure Pipelines",
-          "excerpt": "Run configuration management tools in Azure Pipelines to help keep your infrastructure configured as you need.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/configure-infrastructure-azure-pipelines-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Configure infrastructure in Azure Pipelines",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "DevOps"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Provision databases in Azure Pipelines",
-          "excerpt": "Learn how to automatically provision Azure SQL Database in Azure Pipelines by using an Azure Resource Manager template.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/provision-database-azure-pipelines-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Provision databases in Azure Pipelines",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "DevOps"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/configure-infrastructure-azure-pipelines-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Configure infrastructure in Azure Pipelines",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
       ]
     }
   ],

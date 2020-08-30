@@ -257,8 +257,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/",
       "length": "62 mins",
       "ratings": {
-        "count": 159201,
-        "average": 4.771823
+        "count": 159211,
+        "average": 4.7718186
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -300,8 +300,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
       "length": "39 mins",
       "ratings": {
-        "count": 127472,
-        "average": 4.695164
+        "count": 127477,
+        "average": 4.695161
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -343,8 +343,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
       "length": "38 mins",
       "ratings": {
-        "count": 60507,
-        "average": 4.707852
+        "count": 60509,
+        "average": 4.7078614
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -892,8 +892,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-data-in-azure/",
       "length": "25 mins",
       "ratings": {
-        "count": 52653,
-        "average": 4.732608
+        "count": 52656,
+        "average": 4.732604
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -936,8 +936,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/",
       "length": "36 mins",
       "ratings": {
-        "count": 63965,
-        "average": 4.7992964
+        "count": 63966,
+        "average": 4.7992997
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -972,48 +972,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-analyze-infrastructure-with-azure-monitor-logs.md",
-      "title": "Analyze your Azure infrastructure by using Azure Monitor logs",
-      "excerpt": "Use Azure Monitor logs to extract valuable information about your infrastructure from log data.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-infrastructure-with-azure-monitor-logs/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
-      "length": "34 mins",
-      "ratings": {
-        "count": 1735,
-        "average": 4.62536
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 114,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/analyze-infrastructure-with-azure-monitor-logs-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Analyze your Azure infrastructure by using Azure Monitor logs",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-explore-azure-infrastructure.md",
       "title": "Core Cloud Services - Azure architecture and service guarantees",
       "excerpt": "Azure provides a global network of secure datacenters you can deploy your services into. Learn about the physical architecture of Azure, how redundancy is provided, and what service guarantees Microsoft provides.",
@@ -1021,8 +979,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/",
       "length": "45 mins",
       "ratings": {
-        "count": 64538,
-        "average": 4.7117667
+        "count": 64541,
+        "average": 4.711765
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1056,15 +1014,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-control-access-to-azure-storage-with-sas.md",
-      "title": "Control access to Azure Storage with shared access signatures",
-      "excerpt": "Grant access to data stored in your Azure Storage accounts securely through the use of shared access signatures.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-control-access-to-azure-storage-with-sas/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-access-to-azure-storage-with-sas/",
-      "length": "37 mins",
+      "path": "_learning/courses/microsoft-learn-monitor-models-with-azure-machine-learning.md",
+      "title": "Monitor models with Azure Machine Learning",
+      "excerpt": "After a machine learning model has been deployed into production, it's important to understand how it is being used by capturing and viewing telemetry.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-models-with-azure-machine-learning/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-models-with-azure-machine-learning/",
+      "length": "PT39M",
       "ratings": {
-        "count": 30,
-        "average": 4.4
+        "count": 94,
+        "average": 4.7340426
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1084,10 +1042,10 @@
       "heat": 110,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/control-access-to-azure-storage-with-sas-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Control access to Azure Storage with shared access signatures",
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Monitor models with Azure Machine Learning",
           "isCached": true
         }
       ],
@@ -1095,7 +1053,51 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Storage"
+        "AI",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-translate-text-with-translation-service.md",
+      "title": "Translate text and speech",
+      "excerpt": "Automated translation capabilities in an AI solution enables closer collaboration by removing language barriers.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-translate-text-with-translation-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-text-with-translation-service/",
+      "length": "29 mins",
+      "ratings": {
+        "count": 130,
+        "average": 4.6846156
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/translate-text-with-translation-service-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Translate text and speech",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Azure"
       ]
     },
     {
@@ -1106,8 +1108,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
       "length": "76 mins",
       "ratings": {
-        "count": 42538,
-        "average": 4.7016315
+        "count": 42543,
+        "average": 4.7016664
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1149,8 +1151,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/",
       "length": "73 mins",
       "ratings": {
-        "count": 48396,
-        "average": 4.7063394
+        "count": 48402,
+        "average": 4.706355
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1192,8 +1194,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
       "length": "46 mins",
       "ratings": {
-        "count": 36393,
-        "average": 4.6277857
+        "count": 36396,
+        "average": 4.627816
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1235,8 +1237,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-networking/",
       "length": "28 mins",
       "ratings": {
-        "count": 41666,
-        "average": 4.764028
+        "count": 41667,
+        "average": 4.76401
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1278,8 +1280,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
       "length": "46 mins",
       "ratings": {
-        "count": 36796,
-        "average": 4.711925
+        "count": 36797,
+        "average": 4.711933
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1321,8 +1323,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimize-spending/",
       "length": "74 mins",
       "ratings": {
-        "count": 38705,
-        "average": 4.7135773
+        "count": 38706,
+        "average": 4.7135844
       },
       "provider": {
         "name": "Microsoft Learn",

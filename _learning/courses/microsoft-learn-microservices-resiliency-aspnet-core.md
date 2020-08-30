@@ -25,6 +25,6 @@ topics:
   - Azure
   - Containers
 
-secured: "x7M+BYwkuvE83C0YC/rPCxtcUuqHm1ba404CvuxLHYZwIDm3cHUxQn7v+bbyzB+Uq5FWSxqmfUrSd12E7fsRQbXFK6gnHOSImUcjPs+07CM9+3tkSwtJXGX4eeHjPKDEyVLOscR/u/jOYRufbN8XmzNM/hArCxtdknuZFLkXHpnyA/1Yucx4wtxMp9F/7EdZ1RuAQpySUcmrAlcG/Q0XXJHpM+FDylbd2dEM0aed/qgWKy7/d3g1KoKneMG0kwZtCJz9MwnTiFoiRNPRbxqC6TNbei0XOfZaF+GGzmS2MaWe7hKoLB8Q0Rc/n1ikIqt6xlZ30GZqfH4rozuNo8wP+BmfUdvQk+XHBzPm0ag72fwEiIxpETctnIfItgcfOpC9ZfTdtXEP06G81a4xQI/fX9MtCHzLiOSMzVPSGmnsbIU=;RNMOMulWZeYaeI8w7r4SNw=="
+secured: "VXQlERz7/QmMDVqaUK/6aC2hHZ1n57wG+90o/cNxGP1wbGr8+KUz+fdIjjuWEoos7z+efqyf8TEE3OglEWPREhNH73tR9tj0LW+h/InEwWgaKxxlN5qCExDCAzXuBU8B8Akowg2CQO0Tp++A/3rOKFLeWwjjmJ/lIhON2uzl2ZVMGT1w/fn1vlKsQga+zz/SD1Oo3okgnU1AY1ErsOJMggsbvY2LvAosvyQZ0nPh/xQY/LbK4uweQDWfvlHdh/z+7u2m6CqIfbV+WjJJisnuyktuTsOulsNFHraCsaCSb396X1xmBLQ95oReztadro9kiMiQGcqtgnCSXE1jfCBVx6n0B7E00MHRVrjU5AMQYWRw++DurSbbm5Cn6Nzxw8AC/9WhCJ6LXoLLchf1lKoHLjWXx2L2N6h2OphAjC+9iPI=;d1SEGj6hi+8gn/6eSPdkUA=="
 ---
 
