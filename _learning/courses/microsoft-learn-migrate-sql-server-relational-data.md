@@ -8,7 +8,7 @@ length: 84 mins
 ratings:
   count: 618
   average: 4.4142394
-heat: 56
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Migrate your relational data stored in SQL Server to Azure SQL Database"
 
-secured: "CcuiKeHmQROYRqdb4HaNNFu6jQsBGTnwvf9eE3duVh7TOYMPfjgLGWcsst6w94Y5VtK9o+dE5oRhO43Ok9YqUK/1MlO2ooPwywg8Hoj4kcrWbkHJgFkdfUvTNY2GLiSQ5tfrNwLcmZ/acU9KTmE6VHWdDf/86th0CS0zk45rc3l0mbsnxxqNOdnjOMBcT/0JHQv8YFanKd0e3/R4CF0BvOMlMNKQAhdutDL5jj3MIMr+gbwDxkPwYsdHzgfrULAIECxf01+3x7M/pfMVRwSL9ame+IBcy0aM3ad/TU0Zi32+VfF3UG8pAawZiBf5gPcwRFATge2dVlf8wkkeQKGYJmTK+Qi/bmI0yglCLmKuxbEUk5nxdKi49ukZBHDwk3ndUAARREsd8HXycdUYOa5kTNIk909/SUnfRTQMX1nz64M=;G36ivL5OwP6K4OmNByDVYQ=="
+secured: "aq4DzjId5MLyEHe4jSnyVEfABGKGFcFnjnTvGXpzTJEF5cPO+3RYOYnnin6G0HvitEH8jwF4r/2vbf+IBTiAqeZFX/a5+BB7FBzgcdot176leNGf6U8NRe33MhnLwhjT7w8bGZxNDjIZnYlcu8l/c4r0oVFz0gncf6BWlLoOHrUAIOCWaK6ZJeDU5b/SqLnFi0lITcXQOSVIzST11yTiiPyN1w+FdvX2YSdt5lzsrHSy/bzb8E7+W7xDg9GOBij/Hwp0jkY8Ii8hbdJ5j0l5gGc+r5w/Pul+8pBD3X4VhaLoKTs+bpf1by3rudT2q5LweryTZaPBEhp5maQUDWHj/CQaeptY/xZeHuhaQFfED9bPMRpQoqqKgy8s9YuEui2lmnetueD911V/PaFMqZnM5PWK43W68vap4EJowHab3Jg=;XSt7mtSQK4wZHgWsfYKKHw=="
 ---
 

@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 30 mins
 ratings:
-  count: 9585
-  average: 4.659155
-heat: 80
+  count: 9586
+  average: 4.6591907
+heat: 69
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Choose a data storage approach in Azure"
 
-secured: "EnFEX3M9ce1Xim1kVd/3t2fxGiBG5wtXDRpZW/XTfutI33IL6ov7d7rJvRJk31DjM3UPuui/xYxrJ61+G5eUuDkcJtP9crDQ5ZBOzk6Pj0iHY/A46jMDELMiTzF8cibCvJWqNsv9dnl8wI/WWp1Lix2lDKkN3kCn3BKRoll4REuhf+xVQsyfUtGxJuOwIuCQQnW8i7hTl/D30/4kIHZIGcCwdiPbw+DPeBnGcff/fzhk/t5sX4IveBKM87oPGMtjOipF8dBZdShxaSSlaxCMzOW5Wj7fwb/Ciz/A5q42W/NBbFzUxLFElviCc+syiHZovuB5sPVSI/3XV//ay1z1qvI8KYFbiZ/Pee7BhgllfWpOI0ljBkkTSBY1W0HKYUk6sW0nMxBCg/yQn28Om0ZfxqqxmUQ8gwToWKPiSL0J0BE=;wZ3zXTvj0OcxROT0I9atIA=="
+secured: "9TLIiE+fi3mwMS5lduWCFuDU2QWKyj5TubHJCZrWAWl6u/I0VVGib76Kf1jlRHnpcBXV8zL0MFP3Zj6E9dtGUZq/vjxGJN4ZRA5ZFZ76hmgWlJT1jADWTW79woJhfrnuzNcki3YfQkdq7Gznytetf52D2rTKR7vMr2I/QrImt69/PKIOKJPiSO6FdkxcHYiflB5cEgSR6B9VzUYpwNYGm/dxtPGI/nySDKwJH1dHCRXuUCg+60FcPpcSMngUV/60GhbNPj7ftw00wZBXPisSeYED7z9x61d6NmGQ9lCxdpnDvY26CA9Ba9jTRG0OO6gDBSwbuXt8hNB2DoA2KR3uO5KM7iAoiD2O7Xp4pDrbi+KrOPJTgzBqG6ly3iHBg2tVfDCRGVYIYlFQVImIlKRg2KwZr3vZ0O+y12zUwRBStnE=;N1jOrKhPP4Py9mSYYzZYgw=="
 ---
 

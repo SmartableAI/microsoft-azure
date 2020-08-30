@@ -8,7 +8,7 @@ length: PT1H27M
 ratings:
   count: 3407
   average: 4.765189
-heat: 57
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Implement a code workflow in your build pipeline by using Git and GitHub"
 
-secured: "THoHz+yL4LQIOeClN0u5zPJxpbqa1ro82R5LIvwPlmnZwnFQjXGjTLEk93vonOwc5nypmm0JFxOkktdZ4SRMG2t+/BfDr9IS6Zsi9owrDvlUKbZegPiylUcfTVgjea/usZSGx9rSabamp16lVPomWH4Ube5tirTtDTB1P96WCh4fK5U1prGUK8wbcZrQstqso3p0E+2YBnDn9ofPFDRWeNMLURjTQORUrcocPfP0YSNeBKUw02H3axWB2mTtuIrL+YPYD8Ru2E7fvd7iJqZY6fP4vwkwm8JjO1Wtc7w6EBzjuSZ2zkfokFEs4GtcQNQ06m3ovyH9RaZTO4ysdC637ap0oPPYXr3JQJM1XoN5nU4J71a93qeCwF8AdOu9+fNQ7uAPYP7Lcg8lHTp+o6yT7S7nc6y8wYPr01sVT8fC1ug=;K63Xe88cg6y+yV28zIaT6w=="
+secured: "yzPDBx9yM/JRIBfWXeUMeNlE8Z+1d6QxU3suuzKRASche5j9xBV+THRiMT01XJx4lebpgzmVtGxSgb72ezNegy+pVbejTz3Z7vKfRaD7vSOdhC9SmdkDVZSNo4+sbLEqONi+YIH1V+o0qYluXV+HRDzMJ/GgpvGDog4fz0SKFlhplYPyQpdL9J2KwQBzLCa7u+g5JnKXf/HK8nzINhmejtakl48scsMgW+/22RUr+WI5e4ZkIMCBLa0wGccGZPSciUejGvyCvJjTsNhfoEWm8S4kVff3K313Diyp92IwM4z/+1LjT0Grv5ClmflgVmGrMGYNrCvFUWxUbydTaWK72nyNwEzfGEXsUiDRDt/5K6TDREOlPg4ocI0Zb4GiMwxrmCUZBH303oU1Ohu9fsnCuPggrATTkCRNfiAGwQ1q36c=;cauhy9A9UK6n92P+ANj8SQ=="
 ---
 

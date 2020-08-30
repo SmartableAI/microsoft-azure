@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Monitor and troubleshoot your end-to-end Azure network infrastructure by using network monitoring tools"
 
-secured: "XHNIfJXDqCldA35FOgLVkCeHz6eVbFDbVGCliT0lHUsEq5LON+VsYz1hpUwkCwsBL+f9f0ptYxnG5kHO9vgbAXO+SbFvpfiPCpvdXzoDgA7vCFRu+WpgUwBHseD8JxF69rBQh4T963fsYWyVi66QOw/i2y7LEYxcF+wqbOxsWvsgSAuRgU0yyoRl6mmDjh2TgEPcudJISR1VkF5nGLKbgW6HJ/u/4fbE6JnilwycAuMr2BAH6+WCsH/BJ/EMCuf1v82ukTxAF6hin0ZQn+8oct9/nB/fh62pEvfdVfLhx2Iz+XDnBbpLCZh5TGArCWXKArSKL1pGgEqvpaXFdK65wAFMdGSi8Tb27CqUWGTXUdqNyMz9za89zSTAyQglp/mDhoUkpaoQfYfS33qUV5EE0ItQQU5oY0nlVr+hq0+zznE=;R2uZGYtmgO3D+M/SIPCmhA=="
+secured: "/rPaxxkQrj+Ty+s/9tzs/RWBdxL0e53XAYpDgqFE6s2PkdBuxrt0j3L223/WiY41ny44AF/r4t+SXjhG2grcwlh8ND482jJtvpmFITFCjizFKkvBiyriTn9xomSp1vo1FYRqVLx1sBxc7nQTPol3D78hJDt6k81c8UpviR6zlReLnLPDIMWwe2j4B6SYRliwsGypB33wy39u9QuDzw4c949fple++Dgvw2c7gYBHfNwSQhNK9+gV0kfMR2hW6Gin8YG0Q7HiJoUjZeLTbtL22RcFt5dVt/0AHkBxqZP6FSUENEx6Ts102Kwk/3b5ONEgALV8ph3zcAkCvgmBnkVlTK4TNXuOQNn/hsety5M1kzSM+XkF+E45ZVTXT2mi2BLS9C+WfZT/nak48c4NLRHEkl+kMVTrNOueAQTk8FkEWds=;csJG2LqnwBWt29GdUHHlrA=="
 ---
 

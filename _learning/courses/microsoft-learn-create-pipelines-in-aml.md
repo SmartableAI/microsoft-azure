@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 57 mins
 ratings:
-  count: 391
-  average: 4.6214833
-heat: 51
+  count: 392
+  average: 4.619898
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - AI
 
-secured: "MhWJuFhEoHbd4SyqdVxL1mUXzfbI7dmWmo38PlWqEP2qtwb1z9U2fXHzuJUmOICfoCIppnWifdqX7xMHmKF7qrOlaFfRBiYmiDydDarKV+7lNpQvlaPQNusaxkpeukOe84BJpvVwvdRlSVO+QH4kKBJco4+7J93QhZDBn1k2LdqZa15qCItwdOel7TU6aStrL8ae6tiGTpCfztfb3lpa5ru0UlLebEuPpbG9eON55EOwGqT2EYgatf1XjnpeKjiRCDyibXa7zw08R0o3RWPOfFwGwepdRmpMu+LyLjvyUY1KwM6rWT718iXd0WEp4kmN/IYFQJ8h4hrc04awwszS8h6zmQIHcXUN/pjgrr2K4TMu7z5tg9lXeicJqyKh0Wola5H0d9eXaoxp0PCPodp2LFRaMS+pDVDSVX30fXxV+88=;YHg/BKjzfVTkOj9ADyUNig=="
+secured: "mGdzkijVSk8EqBVlUpNJ9Xy7pSAxyYVDoLfOitSkuBySdhLSQa/lsfAiVKahhcpJak6nwS75PnsqC/PUvLPLJceiOqjuSDIccz5QgfcQcv0Q72QrunFtYMHpPiB1mcLStBjeBFh7bqjoY6bmJ0beIAZcZXxUtu0ySdR5UG+dryY3fdx4yP1qIUB62q8SiBJN67Qti3EWjciVgdGAsaqN60KM+fuXUu25myeWw9DLilyL7eSkWBBxt2161XIRD2FPH3s/KFeBhnNU/m4cfFlHRenYSZzYN+pBg6w3zZ03MZ37+DLT92GzeqAGV7cVAFy38g/pyvaT2ut/LvdGdQI1LJAyWa4kpUP1On9p90FK8rRiPlVuJoOXkj2WR4sQsMmmMeSyQ60T5sqnw59eNubwfRrXQqRWE/MPw+elTn9siaA=;XR/IIPWpV95OSQjBo98Wlw=="
 ---
 

@@ -8,7 +8,7 @@ length: 29 mins
 ratings:
   count: 1759
   average: 4.601478
-heat: 56
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Configure and manage secrets in Azure Key Vault"
 
-secured: "i2aaDuryA8/mtUvSQZ542MaBY16u6+628/dxyuUo94eiK90fmdzLYpbkMziiSwb3DJ8yYieSRD03KDU3e9EobE+mKOWYACE3l5ALhEsO+fJrQ2y5yOhwt8mwnKepKvkES5/FOd6X3k8F4Wst9SQCo7cJdcjPIIRpauujCmkIXePLfo2gyz/LRTLkV3A0R9K6rCF+h+oMbHbltkNA/xUjE2SkPQ5X/kTurVEMgYQqXb/JNg458MVm8znko/3XB80mLv1B2HHD5n2ssCu+LlZP1ASozHDUWb2OEE7cr7zwypCGmFqi5qXIBYhH++/mXGEYN2CiRkyRf4o4sLw2L3OJ7p5rDOGv7eR4LQS59WR4Fa+N3WllF23mPcTt1TRLgQPCo1E7/5gXcLpkyt+3dmO5OpNKyX+gGkAznWBL4nCWZQY=;jqpXEYDZFip9U9PvdUOxdw=="
+secured: "um+/GWeWbV4+kNWIOLEqhceIl98fYn42fRjpl39vOsdjEtnX1QOtveOvmo2cb3C6Wm0e6QbWHfl+s3nboC5XplRxyejfI1kfwQ80e037gD0leoH26ehrroedODxEnkozpsOnjy4jzZv/A0yDGAFCM872rPeNtNMJsYj6twWq0/d9MxJKR9oAFyQnsrMxDACQVZmBuGq/BVxq72NSBW2RDjWNa+ifvI6WKWt2+GURM+h1DmqNF8XUnseMLaxH3HETLj/jtPcCBM8ee2XamrbhxJpa3hxShuS3spKVwHy2qy6Y60HY0p6XqnIVjInUV6uG8o7g2zgwqr3yCAYWvOCe9Wkg3pXx52uBaG1Q9s87WbPtoSnDJVIlaJmJiT3A1dch/kcV1aOQBe2TGlyU+lAd8ACAV4f9Voc2gFxcMUkU4Jk=;/4Ds7YsxCQM4KP0dllgsvg=="
 ---
 

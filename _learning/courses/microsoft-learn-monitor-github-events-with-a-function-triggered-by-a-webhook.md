@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 53 mins
 ratings:
-  count: 1510
-  average: 4.629139
-heat: 55
+  count: 1511
+  average: 4.6293845
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Monitor GitHub events by using a webhook with Azure Functions"
 
-secured: "+99OnAAUizwSaAKNCwNhm2LcW4L9v5ubJnE6EELiT9xQ2Xwcofg9At5WCbildn8fgMjyVIeKIg7r4E/1BAtKlkN9ZTJ/MgPUN5xn9+uXIvCFg894gPHUhK1GcumXI2g5kzgqkoCkmKKWJx3wXL/sYcZObKiQimEnk0pXvccUyqPetAdLKeKEYxzgpT88da70PiAuY6cCbSY8EotVzyaUINDw0PioanyABsAErO8DC3tE1WBAI88zZPO136tVwno44o3ONYz8edgIBYQVdtITaBzU9i7kGtdr72EkvOMcJZTygDsdLi9te4K1hYOtNH3KQcrKeh0EfjVABUwCnmV08dec5KUZ1xXnfFdExDENqC8ej0ia6JeAfuzHPgE6amFZM83sO6VtlPn7yRYauqWHBYiC1mnpSkSR6pOb043IdcU=;VTr2TAbIB2ZGhN44LqZPaw=="
+secured: "AJ66bAeJ8e5V7ObJocruzhN1ohrxTdwO4QEzIl3lXCeoOmlNtsv84IA80C0CCSqRJt5T5HjtNXAzAecP6P0SdNPVm20tzT/fR83MV6WmALHjHCW8o52ILYmkwFofXUhCa6YCRlArDHCq1bJBvBj0ox2UFJLwdCZK8sUIM1FsUluz1N7aDZAiMu0GIcQFWKbkxgrdoRSqomPvyXhLkFDJGiygeBuCgqKG+dFzmctPimrntnwqET7KqJhNqJZVlAZ/0NeDzn7g/xcBccWmlHMOtY4WERV3V2NN6HIb6dWgXK64RP2spxXKNCoISPlXA10iws1esSce4zUEFpkYY2yrCIl+CMXbGeDp7BXzXU79qpFVYKMhXHohwicsDMneIX0hHeWAHcuTuwkHPJGpRdaK5ve8zPx1Eki+xNE8C0YbM5E=;835RI4szqYarpcIF5v5oPQ=="
 ---
 

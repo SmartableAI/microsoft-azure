@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 57 mins
 ratings:
-  count: 2657
-  average: 4.6051936
+  count: 2658
+  average: 4.6053424
 heat: 53
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Build a containerized web application with Docker"
 
-secured: "4wEHATS0ZQmx/gC26U+Peotdjagszzq3gu6bmH7793E0bvwWCWPrgA0RitkSj3AqSKB1qB7J1kg+1QEPXO6MxJZsMlgybLNXUazhFgjKSK4kC6i2/fxPcTUka30uz7oDC0mHuR82iEXtJ4Ydf18ROR1zM31Iaty2/vJI0v+lcGyOmGrxn7Fj4PVOvvo/wAjJYNI9wXDe+Nzpd9r8qQ+GC5Xit8MDNGw2SVDObLm4u9LF7KpX6FbgPiNpz4qTQTdYi+eR4w9Kz4i+HRqNC5NjO6mpLrqAyq1nwyLfl4AU5a3lm9uCw28nG4cBzMsJMlNDCYH3xIuoebwLSPsxuheL6HQdEjVP0sS5ni61naUolJzFhMQ3xaeFGsflQgQvcJS5WfYEbqY1X1Idi8YbOFbtL7XUcTIzNn7a/zKQ2YEQkq8=;GuK3hKj0RjqOSNcvSD+itA=="
+secured: "1rUKTy48SGwfaIa8+Rysv/zHfN9NxqUIapz9zK94aJ1SU4DGytG2EgRma449Q46nQ+JDswZ/xCkc6uw2+NOigk6VgS6YuF1r7eIzeQ3bJm81insrXeDDkSxYCfP3/EIeVXi2TGSAdsm8VYebgVItI9Kn/UtkFxs5XKuXNAAcnYk9hJ0ESant5jGvN9wqmGHLzJgTGrS0zTDl+MdQw+3ntAQlqkSCiI6ED9RgjxBamcEHVukZ/8D7OHMgulV6Z/qqEqlTfMBdCeI/5r8yMFu0zL85Ff9Ofbgzh09VxLOy76LyIjHjDOOtXDS+93Irq3wsKWxLVGR1iRZG6NlC7ULW2kIZ1IU4mlftIxO6ZvZPQU1Jnth2oL1zUUzT9/pC1JX6fCNCPO9z9FhrZkksTReLelG7jpv10daTQbxnQIyK5Ic=;UqQpFj1JeawvoL98bOdLZA=="
 ---
 
