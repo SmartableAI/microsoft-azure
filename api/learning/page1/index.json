@@ -90,7 +90,7 @@
           "path": "",
           "title": "Core Cloud Services - Azure architecture and service guarantees",
           "excerpt": "Azure provides a global network of secure datacenters you can deploy your services into. Learn about the physical architecture of Azure, how redundancy is provided, and what service guarantees Microsoft provides.",
-          "heat": 96,
+          "heat": 156,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/explore-azure-infrastructure-social.png",
@@ -107,7 +107,7 @@
         }
       ],
       "size": 12,
-      "heat": 158,
+      "heat": 177,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/principles-cloud-computing-social.png",
@@ -213,7 +213,7 @@
           "path": "",
           "title": "Core Cloud Services - Azure architecture and service guarantees",
           "excerpt": "Azure provides a global network of secure datacenters you can deploy your services into. Learn about the physical architecture of Azure, how redundancy is provided, and what service guarantees Microsoft provides.",
-          "heat": 96,
+          "heat": 156,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/explore-azure-infrastructure-social.png",
@@ -230,7 +230,7 @@
         }
       ],
       "size": 12,
-      "heat": 158,
+      "heat": 177,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/principles-cloud-computing-social.png",
@@ -250,6 +250,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-explore-azure-infrastructure.md",
+      "title": "Core Cloud Services - Azure architecture and service guarantees",
+      "excerpt": "Azure provides a global network of secure datacenters you can deploy your services into. Learn about the physical architecture of Azure, how redundancy is provided, and what service guarantees Microsoft provides.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-azure-infrastructure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/",
+      "length": "45 mins",
+      "ratings": {
+        "count": 64587,
+        "average": 4.7118616
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 156,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/explore-azure-infrastructure-social.png",
+          "width": 100,
+          "height": 100,
+          "title": "Core Cloud Services - Azure architecture and service guarantees",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-principles-cloud-computing.md",
       "title": "Cloud Concepts - Principles of cloud computing",
       "excerpt": "Explore the core concepts of cloud computing and how it can help your business.",
@@ -257,8 +299,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/",
       "length": "62 mins",
       "ratings": {
-        "count": 159353,
-        "average": 4.771884
+        "count": 159367,
+        "average": 4.7718725
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -300,8 +342,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
       "length": "39 mins",
       "ratings": {
-        "count": 127578,
-        "average": 4.6952376
+        "count": 127588,
+        "average": 4.6952534
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -460,60 +502,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-set-up-rules-take-actions-telemetry-data-azure-iot-central.md",
-      "title": "Set up rules and take action on telemetry data in Azure IoT Central",
-      "excerpt": "This module builds an IoT Central app to monitor and command a refrigerated truck. We build the IoT Central app from a downloaded JSON file, defining all the device capabilities. Source code is also downloaded for the device app. The focus of this module is on creating rules and actions, to respond to certain telemetry input. Rules and actions enable greater automation of an IoT Central system.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-set-up-rules-take-actions-telemetry-data-azure-iot-central/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/set-up-rules-take-actions-telemetry-data-azure-iot-central/",
-      "length": "46 mins",
+      "path": "_learning/courses/microsoft-learn-identity-permissions-consent.md",
+      "title": "Permissions and Consent Framework",
+      "excerpt": "The Microsoft identity platform implements the OAuth 2.0 authorization protocol. This protocol is a method that a third-party app can access web-hosted resources on behalf of a user. The web-hosted resources can define a set of permissions that you can use to implement functionality in smaller chunks. Developers can leverage one of two types of permissions supported by the Microsoft identity platform depending on the app scenario. In this module, you'll learn the different types of permissions and consent framework models for obtaining permissions from users to use them in apps.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-identity-permissions-consent/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-permissions-consent/",
+      "length": "PT1H6M",
       "ratings": {
-        "count": 123,
-        "average": 4.715447
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/set-up-rules-take-actions-telemetry-data-azure-iot-central-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Set up rules and take action on telemetry data in Azure IoT Central",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "IoT",
-        "Azure",
-        "Mobile",
-        "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-work-dataframes-advanced-methods-azure-databricks.md",
-      "title": "Work with DataFrames advanced methods in Azure Databricks",
-      "excerpt": "Use advanced DataFrame functions operations to manipulate data, apply aggregates, and perform date and time operations in Azure Databricks.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-dataframes-advanced-methods-azure-databricks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-advanced-methods-azure-databricks/",
-      "length": "PT42M",
-      "ratings": {
-        "count": 60,
-        "average": 4.6666665
+        "count": 70,
+        "average": 4.714286
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -533,10 +530,10 @@
       "heat": 110,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/work-dataframes-advanced-methods-azure-databricks-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Work with DataFrames advanced methods in Azure Databricks",
+          "url": "https://docs.microsoft.com/learn/achievements/identity-permissions-consent-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Permissions and Consent Framework",
           "isCached": true
         }
       ],
@@ -544,8 +541,7 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Analytics",
-        "AI"
+        "Identity"
       ]
     },
     {
@@ -680,8 +676,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
       "length": "38 mins",
       "ratings": {
-        "count": 60557,
-        "average": 4.707994
+        "count": 60562,
+        "average": 4.7080183
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -974,48 +970,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-explore-azure-infrastructure.md",
-      "title": "Core Cloud Services - Azure architecture and service guarantees",
-      "excerpt": "Azure provides a global network of secure datacenters you can deploy your services into. Learn about the physical architecture of Azure, how redundancy is provided, and what service guarantees Microsoft provides.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-azure-infrastructure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/",
-      "length": "45 mins",
-      "ratings": {
-        "count": 64585,
-        "average": 4.7118526
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 96,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-azure-infrastructure-social.png",
-          "width": 100,
-          "height": 100,
-          "title": "Core Cloud Services - Azure architecture and service guarantees",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-introduction-to-security.md",
       "title": "Security, responsibility, and trust in Azure",
       "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
@@ -1023,8 +977,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
       "length": "76 mins",
       "ratings": {
-        "count": 42579,
-        "average": 4.7017546
+        "count": 42583,
+        "average": 4.701782
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1066,8 +1020,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-data-in-azure/",
       "length": "25 mins",
       "ratings": {
-        "count": 52708,
-        "average": 4.732621
+        "count": 52709,
+        "average": 4.7326264
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1110,8 +1064,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/",
       "length": "73 mins",
       "ratings": {
-        "count": 48444,
-        "average": 4.706527
+        "count": 48445,
+        "average": 4.7065125
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1153,8 +1107,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
       "length": "46 mins",
       "ratings": {
-        "count": 36428,
-        "average": 4.627841
+        "count": 36431,
+        "average": 4.6278443
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1196,8 +1150,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-networking/",
       "length": "28 mins",
       "ratings": {
-        "count": 41713,
-        "average": 4.7641263
+        "count": 41717,
+        "average": 4.7641487
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1403,7 +1357,7 @@
           "path": "",
           "title": "Introduction to Linux on Azure",
           "excerpt": "Discover the unique benefits of running Linux on Azure and how to run Linux-based applications and workloads in the cloud with Azure.",
-          "heat": 60,
+          "heat": 56,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-linux-social.png",
@@ -1610,8 +1564,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/",
       "length": "36 mins",
       "ratings": {
-        "count": 63997,
-        "average": 4.7993655
+        "count": 64000,
+        "average": 4.799375
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2157,8 +2111,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
       "length": "46 mins",
       "ratings": {
-        "count": 36823,
-        "average": 4.7119737
+        "count": 36826,
+        "average": 4.71197
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2200,8 +2154,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimize-spending/",
       "length": "74 mins",
       "ratings": {
-        "count": 38736,
-        "average": 4.7135997
+        "count": 38738,
+        "average": 4.7136145
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2493,6 +2447,132 @@
       "excerpt": "This learning path gets you started with the basics of storage management in Azure, Storage Account creation, and choices for data storage.",
       "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-store-data-in-azure-learning-path/index.json",
       "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-store-data-in-azure-learning-path/",
+      "length": "PT3H50M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Choose a data storage approach in Azure",
+          "excerpt": "Learn how using Azure Storage, Azure SQL Database, and Azure Cosmos DB - or a combination of them - for your business scenario is the best way to get the most performant solution.",
+          "heat": 69,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/choose-storage-approach-in-azure-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Choose a data storage approach in Azure",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Storage",
+            "Databases"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Create an Azure Storage account",
+          "excerpt": "Create an Azure Storage account with the correct options for your business needs.",
+          "heat": 63,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-azure-storage-account-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Create an Azure Storage account",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Storage",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Connect an app to Azure Storage",
+          "excerpt": "Create a simple application and add configuration, client library references, and code to connect it to Azure Storage.",
+          "heat": 61,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/connect-an-app-to-azure-storage-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Connect an app to Azure Storage",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Storage",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Secure your Azure Storage account",
+          "excerpt": "Learn how Azure Storage provides multilayered security to protect your data. Find out how to use access keys, to secure networks, and to use Advanced Threat Protection to proactively monitor your system.",
+          "heat": 61,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/data-ai/secure-azure-storage-account-badge-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Secure your Azure Storage account",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Storage"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 75,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/choose-storage-approach-in-azure-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Choose a data storage approach in Azure",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-store-data-in-azure.md",
+      "title": "Store data in Azure",
+      "excerpt": "Azure provides a variety of ways to store data: unstructured, archival, relational, and more. Learn the basics of storage management in Azure, how to create a Storage Account, and how to choose the right model for the data you want to store in the cloud.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-store-data-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-store-data-in-azure/",
       "length": "PT3H50M",
       "provider": {
         "name": "Microsoft Learn",
