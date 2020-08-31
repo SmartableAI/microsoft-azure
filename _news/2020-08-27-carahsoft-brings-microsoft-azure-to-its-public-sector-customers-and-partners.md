@@ -36,6 +36,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "TikTok could become one of the largest Microsoft Azure customers"
+    excerpt: "For Microsoft, a minority investment in TikTok could lead to the company deciding to use Azure over competing cloud computing services. According to The Information, the social media app signed a ..."
+    publishedDateTime: 2020-08-27T22:47:00Z
+    webUrl: "https://www.techradar.com/news/tiktok-could-become-one-of-the-largest-microsoft-azure-customers"
+    ampWebUrl: "https://www.techradar.com/amp/news/tiktok-could-become-one-of-the-largest-microsoft-azure-customers"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/tiktok-could-become-one-of-the-largest-microsoft-azure-customers"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 97
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/DjEsP5aRA3jcWVJjU6gtzH-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "6tMzGxMGHdNkClNNuJjp2DefCC+3MJ/VYbWh6XwEDl9joOT3sMaUt6T8BiUqrl/c6SbonXb9ke7a7rQCd/6sZm1KdTFPzB22zA6UEuXo+UPuQY+pa+7Z5ZgxuY3MlWvuWHslIFzGSL2QBsYgvtJTWXxHFmQWzuW+0SZMqXxXeerjNMn817dyMNIOutmyrib2AGxWVtL61uWlUsQtmgEmINOf+KcxWKquN0ohx5TlAq0pDvYLuorg5mmCN/gV76b+wav54E8ZFlfXcbukQSWqYgnFNR4Y3CUKOgUgdRhICcv5xaQ2EnqU9/rKXg1VAC/kEcLzXIIG3WoMZmI/DGRIbY+NuW82cHTpUcQPLRqExp4=;rnxZ+K7uIG0Qmk/Y0b0HTA=="
 ---

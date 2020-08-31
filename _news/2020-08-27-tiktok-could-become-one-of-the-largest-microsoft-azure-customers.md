@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/au/amp/news/tiktok-could-become-one-of-the
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/tiktok-could-become-one-of-the-largest-microsoft-azure-customers"
 type: article
 quality: 97
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "TikTok could become one of the largest Microsoft Azure customers"
+    excerpt: "For Microsoft, a minority investment in TikTok could lead to the company deciding to use Azure over competing cloud computing services. According to The Information, the social media app signed a ..."
+    publishedDateTime: 2020-08-27T22:47:00Z
+    webUrl: "https://www.techradar.com/news/tiktok-could-become-one-of-the-largest-microsoft-azure-customers"
+    ampWebUrl: "https://www.techradar.com/amp/news/tiktok-could-become-one-of-the-largest-microsoft-azure-customers"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/tiktok-could-become-one-of-the-largest-microsoft-azure-customers"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 97
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/DjEsP5aRA3jcWVJjU6gtzH-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Carahsoft Brings Microsoft Azure to Its Public Sector Customers and Partners"
     excerpt: "Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®, today announced that Microsoft Azure services"
     publishedDateTime: 2020-08-27T16:00:00Z
