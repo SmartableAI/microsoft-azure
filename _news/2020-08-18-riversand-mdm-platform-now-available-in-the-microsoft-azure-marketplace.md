@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Riversand MDM Platform Now Available in the Microsoft Azure Marketplace"
-excerpt: "Riversand provides out-of-the-box MDM solutions with rapid deployment and fully remote implementation that accelerates ROI. Riversand’s MDM and PIM solutions provide a foundation for all data quality challenges with flexibility to scale as a business grows and market conditions evolve."
-publishedDateTime: 2020-08-18T11:00:00Z
-originalUrl: "https://www.oaoa.com/news/business/riversand-mdm-platform-now-available-in-the-microsoft-azure-marketplace/article_b58fe46c-ae7b-5911-9185-d3a396508bad.html"
-webUrl: "https://www.oaoa.com/news/business/riversand-mdm-platform-now-available-in-the-microsoft-azure-marketplace/article_b58fe46c-ae7b-5911-9185-d3a396508bad.html"
+excerpt: "Riversand, a provider of cloud-native Master Data Management (MDM) and Product Information Management (PIM) software solutions, announced today the av"
+publishedDateTime: 2020-08-18T11:24:00Z
+originalUrl: "https://www.businesswire.com/news/home/20200818005296/en/"
+webUrl: "https://www.businesswire.com/news/home/20200818005296/en/"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
-    width: 576
-    height: 288
+  - url: "https://mms.businesswire.com/media/20200818005296/en/813376/23/riversandlogo.jpg"
+    width: 1200
+    height: 627
     isCached: true
 
 related:
@@ -314,6 +314,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "nTguMEwTRd4CAjyPJb/XCsrW0w/ebvGU9gNp17JMYf2vgFLChr6SPZG33lMRFN9MJG/SwYBreaEPZFaE/9bUCzCz4FaJK4miNXLX9jA5uR9GHwEthpd4MDI8ehBZ+1KczzotkdvkVcQYuyDuiOfMdnxtSRbSREBCdUVWzoI9JHxRipq0kJdrdJqcXwz/BMz3abILOMUEr0mav3HL3Rnvk0dZs6N47lDhPXOGSMBx5eJu5NxyJ3kZtSWtfdA0/zXbETUIWNl4oXae0J8S82YvVvy+CqmHu8OE7cX/fI77Q2/ck1cKe5kLltQeqvDKd+PX9SP//MHG0b18sj9BckjVM7GInVPbROKCgFmtjkcbIs8=;CMpAUJZ2E9Rmb47hCAjuQQ=="
+secured: "TrYGM8h4FQu0OzIowKJxwZp+FbH+kIlHLFpzuKBIKrmi82/LeiqXhIHDTmG01k2x2vrE1VCeIyA+mWXkCqnyPdzRM7tiPSaaye/QNnIekG+fH1Fp7QmfBgsR6pRRQfO0vjNiNQZu6KJqBCduLDUM55cq71DJYGf+CS/mOKzrf67hl8mcIvvpmq4CBOoyFNGgVc/88W6qSjIQcQUA397Zml+GkiXXkiWG9PkzG3nyTwSau0/f2FkcFD9QSCcEeZPaAhi02Ekkr/pJVOsrMcDik2reCAZAyUInb4C0aSo4pz6aIF2BChCHSm1Yz8UfgBBPmeASpEOleJRrgikUhx6iXuxCG/Ov81FyCppQTMFnq6c=;bp3Id9HwB2zWzVzsxlpW6w=="
 ---
 
