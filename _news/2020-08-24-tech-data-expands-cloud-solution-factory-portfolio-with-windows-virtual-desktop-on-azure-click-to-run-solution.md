@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "Windows Virtual Desktop is now available in the Azure Government cloud (in preview)"
+    excerpt: "Get started today with Windows Virtual Desktop in public preview in US Government regions. Deploy and scale Windows desktops and apps on Azure in minutes."
+    publishedDateTime: 2020-08-31T17:00:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/windows-virtual-desktop-is-now-available-in-the-azure-government-cloud-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 61
   - title: "Tech Data expands Cloud Solution Factory with Windows Virtual Desktop on Azure Click-to-Run Solution"
     excerpt: "Tech Data has expanded its Cloud Solution Factory offering with the addition of a new Windows Virtual Desktop on Azure Click-to-Run Solution."
     publishedDateTime: 2020-08-25T00:34:00Z

@@ -30,6 +30,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Upcoming changes to Standard Public IPs and Standard Load Balancers"
+    excerpt: "The zone related behavior in Standard Public IP address and Standard Load Balancer is being changed."
+    publishedDateTime: 2020-08-31T16:00:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/zone-behavior-change/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
 
 secured: "od1q2k4F83mCJJZ7ZKys0xTy7AkNJ8YTJRMh3KkrPtd0yXBxRjSXiRD3LRiJ3Kj3Rs5vPOk5ebRbxsqOxFgY18LMSHzHi4BtBCT3z4XQJohBBFhPeixdzmAKazoVIiuu0s0MeHgbp5GaQXrxtNIPdJQQkNY+E1WPr3wyrGkQzPKzFzZd+WrpmEcDgFJeh9/JZ9gzzvDDh5h56BSjx7K3Y9Em/LZSvDiizeCIv8bDixAr+E7n0+25SunyFuou7Uj7xkqAVVLsg2TwasJwA8ZppArX8a0iyvec9WZEVfX6RdUvgRz7Ega0nRYL7LKs9tmT7tkeHW2ujjlyOF9qc8BBuA==;PvdxLYZl8CLIJjyb8QvnpA=="
 ---
