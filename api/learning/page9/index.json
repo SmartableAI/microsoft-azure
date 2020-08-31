@@ -301,8 +301,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-overview/",
       "length": "8 mins",
       "ratings": {
-        "count": 1714,
-        "average": 4.7187862
+        "count": 1715,
+        "average": 4.7189503
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -419,6 +419,50 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-migrate-sql-server-relational-data.md",
+      "title": "Migrate your relational data stored in SQL Server to Azure SQL Database",
+      "excerpt": "Plan and implement the migration of relational data from SQL Server to Azure SQL Database. Select the appropriate migration strategy for your database, and then use Data Migration Assistant to do the assessment and the migration.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-sql-server-relational-data/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
+      "length": "84 mins",
+      "ratings": {
+        "count": 620,
+        "average": 4.4096775
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Migrate your relational data stored in SQL Server to Azure SQL Database",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Migration"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-query-relational-data-azure.md",
       "title": "Query relational data in Azure",
       "excerpt": "Learn about Structured Query Language (SQL), and how you can use it to query, insert, update, and delete data in a relational database.",
@@ -512,8 +556,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-azure-network-infrastructure/",
       "length": "37 mins",
       "ratings": {
-        "count": 1847,
-        "average": 4.5749865
+        "count": 1848,
+        "average": 4.5752163
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1220,8 +1264,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-and-manage-azure-key-vault/",
       "length": "29 mins",
       "ratings": {
-        "count": 1760,
-        "average": 4.6017046
+        "count": 1762,
+        "average": 4.6021566
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1305,8 +1349,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-computer-vision-service-to-classify-images/",
       "length": "32 mins",
       "ratings": {
-        "count": 1270,
-        "average": 4.6464567
+        "count": 1271,
+        "average": 4.6467347
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1467,49 +1511,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-design-a-hybrid-network-architecture.md",
-      "title": "Design a hybrid network architecture on Azure",
-      "excerpt": "You have a traditional on-premises infrastructure that you need to connect to resources in Azure. In this module, you learn how to select a connectivity method for your use cases that balances functionality, cost, and security.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-a-hybrid-network-architecture/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-a-hybrid-network-architecture/",
-      "length": "47 mins",
-      "ratings": {
-        "count": 1020,
-        "average": 4.614706
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/design-a-hybrid-network-architecture-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Design a hybrid network architecture on Azure",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
       ]
     }
   ],
