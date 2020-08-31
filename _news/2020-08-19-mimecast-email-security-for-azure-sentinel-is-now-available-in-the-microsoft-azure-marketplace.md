@@ -1,29 +1,23 @@
 ---
 category: news
-title: "Mimecast Email Security for Azure Sentinel Is Now Available in the Microsoft Azure Marketplace"
-excerpt: "Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure ..."
-publishedDateTime: 2020-08-19T07:08:00Z
-originalUrl: "https://www.albawaba.com/business/pr/mimecast-email-security-azure-sentinel-now-available-microsoft-azure-marketplace"
-webUrl: "https://www.albawaba.com/business/pr/mimecast-email-security-azure-sentinel-now-available-microsoft-azure-marketplace"
-ampWebUrl: "https://www.albawaba.com/amp/business/pr/mimecast-email-security-azure-sentinel-now-available-microsoft-azure-marketplace"
-cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/mimecast-email-security-azure-sentinel-now-available-microsoft-azure-marketplace"
+title: "Mimecast Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
+excerpt: "Dubai, United Arab Emirates - Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure Marketplace, an online store ..."
+publishedDateTime: 2020-08-19T07:14:00Z
+originalUrl: "https://www.zawya.com/uae/en/press-releases/story/Mimecast_Email_Security_for_Azure_Sentinel_is_now_available_in_the_Microsoft_Azure_Marketplace-ZAWYA20200819070435/"
+webUrl: "https://www.zawya.com/uae/en/press-releases/story/Mimecast_Email_Security_for_Azure_Sentinel_is_now_available_in_the_Microsoft_Azure_Marketplace-ZAWYA20200819070435/"
+ampWebUrl: "https://www.zawya.com/uae/en/story/amp/ZAWYA20200819070435/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20200819070435/"
 type: article
-quality: 45
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Al Bawaba News
-  domain: albawaba.com
+  name: Zawya
+  domain: zawya.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2020-08/Christina%20Van%20Houten%2C%20Chief%20Strategy%20Officer%2C%20Mimecast.jpg?itok=MPnsRrNr"
-    width: 960
-    height: 540
-    isCached: true
 
 related:
   - title: "AmploFly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
@@ -319,6 +313,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "Xmr8SKSQPFrdFfdwuW7q+m60389vWqOA2dhW0Y9Kg/41MJadPSrrzgHRL2TzfwR1HeHwphCXYrP4TgyEqM1/y6GJ1PyNdPwomdcdC9OGjVpZNCe2iveUr6T5y2E888iNBw3+DccZiq80tCn6RQJLK7PCn+ZQPfXO2vZ72Bxg4YScxVI8H+sroYwULbQ5hhKnGLDWYZw6VZ1zzh2gIwnoRSdKWTc9CBMg49cAXbtUWYJYErp13Eddijw+Lea64X4N2Nkwl1vw6007Jv9xDgBs2CB8gY+wVTzC/2zWPAQNPwz0SGQyR9JAjBYbo6hHJJuPWzjAtnXpQb4MoCqT7avEYA==;I3lCG0e67h1yCS7zHX/I9A=="
+secured: "FXha2cs3dBZ3Et8Sr0Y+JfGlOROWTAOGE/YiOm+dv86pARVL9eECxu0omp1OKfZ68DewRtfiJ52rMWOvU0ahdLV/rPGS8be/UfCBBPa3ToDV+1CSTsoAT8zIgP9PUXceYLSSInnGJ3q4LoAFP4GViMnuCuyNY7g+jx+hU5DBDzJIXLlMgLkhu4lGb0qTnFlvD9UHaWGcuvq4qP44Z7qNrlk1NySa0Y9HLHAUIX1cZ1eK819iWlyQVgLqVNzfQhHPnA3Ol2SWWZxH1p8di5E8lhG3+wVo33FYcDYr+nwLPzq1dj954A1QarTJgLX6x9K+sZSMvDoy1ixa5FGLYS5q9frtjyruOOeZwUYy5yNX2vE=;bvfDrBG/SqM5VpOxZbo3Iw=="
 ---
 

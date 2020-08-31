@@ -3,8 +3,8 @@ category: news
 title: "Universal Shifting to Microsoft’s Azure Cloud Platform for Live-Action, Animation Production"
 excerpt: "Universal Filmed Entertainment Group has its head in the cloud — and now it’s going to push its production teams there. The company has embarked on a major multiyear strategy to move its"
 publishedDateTime: 2020-08-21T16:00:00Z
-originalUrl: "https://variety.com/2020/digital/news/universal-microsoft-azure-cloud-production-1234743076/"
-webUrl: "https://variety.com/2020/digital/news/universal-microsoft-azure-cloud-production-1234743076/"
+originalUrl: "https://variety.com/2020/digital/news/universal-microsoft-azure-cloud-production-1234743076/#!"
+webUrl: "https://variety.com/2020/digital/news/universal-microsoft-azure-cloud-production-1234743076/#!"
 ampWebUrl: "https://variety.com/2020/digital/news/universal-microsoft-azure-cloud-production-1234743076/amp/"
 cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/digital/news/universal-microsoft-azure-cloud-production-1234743076/amp/"
 type: article
@@ -43,6 +43,6 @@ related:
         height: 1260
         isCached: true
 
-secured: "p3d8OB0V61FBnESnlI9Rze/nngv3KZKuEb1NNwrYIzcfgv6r13x45Itk8+m72f6aEzgYcl8KyfAegJBBb3jJd7tSPP/5yuTG5lcaIjkyjkle5AwEoR4dEq7tZCgzkrCDtEjsfR+NcMIiwjQjwvjsKXU8X+g3hfQVODKh1BiPds7mpsxRLuB9v06YECRpCc4hwzmUoi7vHoPXU9zDqKeRnejlqCl0gtPwfv5O6T4QslyDlxCTYcR200f8gopXkXVYeaCTlaDAMsu7OSbSTr6KqZ5c0TsiqYUZhjwRlsB63x9q0x+eqQ6heryB37MoNu7XzubWAAdibw/FU5zbg5dN4q3MUcNkPozE7XLgFbtD2zsN0/EqZxxQK+4UE6N5nYti8cEXXAhidYHZJa3WyIVnHPzOY268uyLrSOfWg/UKNiVgN8qRu8PtxYHj6t6GWBl0CcN/h7qQaKT78sW2Opejj3V7EbKKb53BWuQcPLC0V9K9j6VJFW3lFWnMz6MuQbACxKo8mVoD5q1koS76AcW/n1ko4dSr3irYw94wuoNdnME=;AeFCDzL9iDfv1alRkBrivQ=="
+secured: "9xgWJJMBfTpuBkfsy7WbDFdzSqxCOv0GIyg+wZD2QGQQTg0RvvzeteIExpLmJ+Td8loymxd2PSJKPZPy8sYI47t7lG3YuA7acZds7Td9LCe69bqLLfeZkZIpR2UTpcpRrrAm6vbVjL+MaRauvRQvCUUBJHZUljuBu0LFnGrrKddIp3vipvxI09kIcXMcemG5blxujOmptgDbuvCRBkHpu+QGUrfbBdovAl5BVguFm1zti2uFa0nHRhvqM7vyrkda0uua7jenDwJHdHl9ZXu4VGT5mj+llTePYxboyYDepReyw9qztv+sc5Y7ouXFoECY9HSdfGJADkmPkI2aBtMinz3qrLWzrKIk8gdlrXwjNC8=;f4YN5TxyvCokh3B1QmlkPQ=="
 ---
 
