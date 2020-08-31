@@ -3,8 +3,8 @@ category: news
 title: "Universal Shifting to Microsoft’s Azure Cloud Platform for Live-Action, Animation Production"
 excerpt: "Universal Filmed Entertainment Group has its head in the cloud — and now it’s going to push its production teams there. The company has embarked on a major multiyear strategy to move its"
 publishedDateTime: 2020-08-21T16:00:00Z
-originalUrl: "https://variety.com/2020/digital/news/universal-microsoft-azure-cloud-production-1234743076/"
-webUrl: "https://variety.com/2020/digital/news/universal-microsoft-azure-cloud-production-1234743076/"
+originalUrl: "https://variety.com/2020/digital/news/universal-microsoft-azure-cloud-production-1234743076/#!"
+webUrl: "https://variety.com/2020/digital/news/universal-microsoft-azure-cloud-production-1234743076/#!"
 ampWebUrl: "https://variety.com/2020/digital/news/universal-microsoft-azure-cloud-production-1234743076/amp/"
 cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/digital/news/universal-microsoft-azure-cloud-production-1234743076/amp/"
 type: article
@@ -43,6 +43,6 @@ related:
         height: 1260
         isCached: true
 
-secured: "isUz2j/2qRoDDjSWzeCyfAWIi/HdEgz49ksTphYz2B+GMoD/mFYTLV9tD6jkTGoB++u3q4UW4brolxwtwuqfCiWOZsjdAEVsR73vGCdBa6Dsrpr+C8sycba+xeoRsmuo5L5xPGKUhU75anuOu5zhccNzLx7XBKozKmutnLfvBw5NABs+XOrdsBmUz1oJxrr07zZuL5Ip8IM1HwfbKIhmyU31Z0r5Xo7XCJ9dsMsyc1L/W4mnwH2wzLtr6p2J5yuvmnzR/Zd53plzXkwoI1BKixz70jLD2OqbHJS1nh5p0s38fpFzTOVI/VkHxtXbhcSO6OGNAyuPolLHk1Ol1jk/QPpVIJg+7YuHxLBZAp6T57MPBGxJeMID8tXOd8Ios6DvPzVLvSihTKIlqEDRwm6WqKaDZmTOdGD2JNzZvoJs69MzWGlRpJIMwIeQkkpVwwbnEGrv3nlq+DA2ihZxnjt1JvU5MpZDzpomHgRQRsHa8bFh58NWOcD6Rg5IXY3Es8dD6HGtTk0D9PuGYY3aM7ZzaYg6SgKB5Miji60iHrh6kLA=;ylwN40aQQlYNfnVxHBH01Q=="
+secured: "pU8B9c2f1zkerC406oR/R06jj29MpDUE1WryFAmtiWo3pymZGUjvudfpPKVVtGqB3MzswfZFz0EU1yYlwM2+QLcqulU6KagQuvAiiWDvM/jMvo9qBfZBtfp6WhNXt4ZFxTkwi446EBoFBDFFuSpXWytNIGcp3nGkTDjjV6NJ6CCF/CWPbFmsQJJuH23iYZy9UdhyzknIfcPRrT6HYV4LmnBDL9ddDr9Cl+mE3q23q0XHQPEpHqmDgZOjbC1HdEusdiAtFHz1chMqqJ20Z2IKJ/hOCZ2L18079V06FmTPBVF7jbG0xoTD3LTUVrjZ7ZzfCmtM59VGOnDjXMHit9VKuhpv3vk9Nn2Wfv9rMIjJmEs=;4VMPtMnqQxWhNihEakcfxw=="
 ---
 
