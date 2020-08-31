@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Tech Data Expands Cloud Solution Factory Portfolio with Windows Virtual Desktop on Azure Click-to-Run Solution"
-excerpt: "We look forward to delivering higher value to our partner ecosystem with the addition of the Windows Virtual Desktop on Azure Click-to-Run Solution to our Cloud Solution Factory.” The deployment ..."
-publishedDateTime: 2020-08-24T12:31:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20200824005324/tech-data-expands-cloud-solution-factory-portfolio-with-windows-virtual-desktop-on-azure-click-to-run-solution"
-webUrl: "https://www.morningstar.com/news/business-wire/20200824005324/tech-data-expands-cloud-solution-factory-portfolio-with-windows-virtual-desktop-on-azure-click-to-run-solution"
+excerpt: "Tech Data today announced that it has expanded its Cloud Solution Factory offering with the addition of a new Windows Virtual Desktop on Azure Click-t"
+publishedDateTime: 2020-08-24T12:43:00Z
+originalUrl: "https://www.businesswire.com/news/home/20200824005324/en/Tech-Data-Expands-Cloud-Solution-Factory-Portfolio"
+webUrl: "https://www.businesswire.com/news/home/20200824005324/en/Tech-Data-Expands-Cloud-Solution-Factory-Portfolio"
 type: article
-quality: 0
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://mms.businesswire.com/media/20200824005324/en/701681/23/Tech_Data_Logo.jpg"
+    width: 1200
+    height: 627
+    isCached: true
 
 related:
   - title: "Tech Data expands Cloud Solution Factory with Windows Virtual Desktop on Azure Click-to-Run Solution"
@@ -33,6 +39,6 @@ related:
         height: 430
         isCached: true
 
-secured: "t1XZpXl4xEYn53wSuKk9Dw9ahEAaoNLkLQawYnQABA6GUhEkr803kO53XHecONrFEYfrzSy2eT4/jEbg6mCwo/cXMeLTke/upTr2iEJqVGJM+sS0yZnrjdp+pbqFq9pYo1/1UM0sbI73zdU21kGJpeRaQtrCV0FeyM1a2LUi3AGfbdQ7L0jrL4qbR3TYKSpCxssYJE47xTb/vEHlvrt22Sw2xAFKIeRZHo59xmyoyclcAXSAQLNUl/pI9CgT6Nyuj+wZtYa4KSj4gt3d2tKthzyj1hnjXpL/oWEW9bHfRXWSv94XfSlSAzbn2kFj1t9naOuwVntaNsNDSN/VtYEsvaeuG8Usr679AMR2NZo0YQU=;c94CwytHmSHAFnbcnNv7Ew=="
+secured: "lWByXxuBFvoN5lEi2CW1AYaotHmOhXd+lSHQWs3HBzqzuqj5nhv+XWx5SzBIld9DrBphRrh0CH6boJFktFu7+yo615s818eHW43B0RD+0TkXaFpTRSwk7aMuUtlgdMhqhyjhnGHFZWDTfb67i9HU63zWR4+8mU6/mmpDLPH8t05ira+8z9mDmNFRDeD1QZ+HUuCl687SuI0sSWSUQPEpVoby+pgtuwSxgOkK47LkRAUUXoeiN+JCC9HCbZNXkGQWQPPO4a+2vg9KImMyfncnYUCNY2Mxetm1jhCnZLyaFX3NpxnPjF1k2L0lgRCbCYtutESzmrnCl5Fg8tkG6GuYeuo719CVRYgIu2XfpKzMJVY=;ywUP3F/ODs+YWWtHQYtmyQ=="
 ---
 

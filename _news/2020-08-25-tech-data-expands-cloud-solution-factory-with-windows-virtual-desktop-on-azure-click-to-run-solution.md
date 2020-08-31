@@ -25,14 +25,19 @@ images:
 
 related:
   - title: "Tech Data Expands Cloud Solution Factory Portfolio with Windows Virtual Desktop on Azure Click-to-Run Solution"
-    excerpt: "We look forward to delivering higher value to our partner ecosystem with the addition of the Windows Virtual Desktop on Azure Click-to-Run Solution to our Cloud Solution Factory.” The deployment ..."
-    publishedDateTime: 2020-08-24T12:31:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20200824005324/tech-data-expands-cloud-solution-factory-portfolio-with-windows-virtual-desktop-on-azure-click-to-run-solution"
+    excerpt: "Tech Data today announced that it has expanded its Cloud Solution Factory offering with the addition of a new Windows Virtual Desktop on Azure Click-t"
+    publishedDateTime: 2020-08-24T12:43:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200824005324/en/Tech-Data-Expands-Cloud-Solution-Factory-Portfolio"
     type: article
     provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 0
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
+    images:
+      - url: "https://mms.businesswire.com/media/20200824005324/en/701681/23/Tech_Data_Logo.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "VJFRfnCQt6GGOTcqTP1R5m4RtcJmwe5ErfLmOvz3BzyX0wawwJaBkCaNchSowWBvEs6Mitwj/ZMMyFEnuZbW4e4EtW3lcJdCTUyOwitrREpwOQnH4+rGLmbK1BRQeyD6Z9CmyFN/wxFzsuFduSUXRCvKUJZy3Lwu69owwoSOG5LTg2Kp7MsRlzbhLVOiKZK67X3QfXG1cj3TgLC7N92cjRc+dhWx2ynjToc5AuCISNkCRyOFpS2f7y54Ik5i8grb8WgZQ6AewDQ2yP7JyU4r2ZrvHu7Zi5kGoD9ngOii2NAR3TldqYvwdnMRuXQkk6w4xdgjRcojR/5FLes77n2kCA==;L8nHM4wVfxnX1ZWC3Y5aqQ=="
 ---

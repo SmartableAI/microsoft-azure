@@ -62,6 +62,20 @@ related:
         width: 1432
         height: 1070
         isCached: true
+  - title: "Managing Hybrid and Multi-Cloud Platforms with Microsoft Azure Arc"
+    excerpt: "It includes hybrid server management, Kubernetes and Azure data services. Brendan Burns, a distinguished engineer at Microsoft, stated in a tweet: Helping deliver consistent management and policy ..."
+    publishedDateTime: 2020-08-25T00:00:00Z
+    webUrl: "https://www.infoq.com/news/2019/11/azure-arc-hybrid-multicloud/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 37
+    images:
+      - url: "https://cdn.infoq.com/statics_s1_20200821054911_1/styles/static/images/logo/logo-big.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "sxuvABrrngG40wnQ2MTE9YULIOsQMXZXajkNzGck5qRSeodP+PdIoMggpesv0uAOnHNc+5TsQK/XlaESdWaO0P6ZPU1ijqSUMrk/MeZ1IYAEFqgUs3j92s4KdY3ynemFb8LJIInrpkSGArVrrAQ/Ne3OPWkkwK35I3TfTvnszivRZkb1ALVRvL+0KTvWo/pP29jiRO1dbmnkB1KQkeM1ApRACf/I3eKleXSR68AbLksWP1OCBA5AQaIX77xfY7fTGec3uzXC8Kkw5XvKWOhRN4jjy11b+k12e+eewkjDHqTRzLjhUS9JrBHXGMuPWjtYKrtPNDeiULy5rV+/hQ9ldPNgg0jHSW/VPIHAiSKAJCvpzHs3c6nah2NXPXETsZgcLlaWb9m6CwDfpYnsMWBPf6g/Ibp8/FzpyoL+aWdGyNy63ofnQGZNApleQ49JRLSKLeUfospHhNdPeRZdP5QCPnT8nUdq0mhKGtCQbINjg3I=;zvBpoG/N2MKcylSDE4xm8Q=="
 ---

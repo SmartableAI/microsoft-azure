@@ -1,35 +1,45 @@
 ---
 category: news
-title: "A Closer Look At Azure Arc – Microsoft’s Hybrid And Multi-Cloud Platform"
-excerpt: "With Azure IoT Edge, Azure Stack Edge and Azure Arc, Microsoft covers the whole spectrum spanning the edge, data center, and the cloud."
-publishedDateTime: 2020-05-24T15:54:00Z
-webUrl: "https://www.forbes.com/sites/janakirammsv/2020/05/24/a-closer-look-at-azure-arc--microsofts-hybrid-and-multi-cloud-platform/"
-ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/05/24/a-closer-look-at-azure-arc--microsofts-hybrid-and-multi-cloud-platform/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/05/24/a-closer-look-at-azure-arc--microsofts-hybrid-and-multi-cloud-platform/amp/"
+title: "Managing Hybrid and Multi-Cloud Platforms with Microsoft Azure Arc"
+excerpt: "It includes hybrid server management, Kubernetes and Azure data services. Brendan Burns, a distinguished engineer at Microsoft, stated in a tweet: Helping deliver consistent management and policy ..."
+publishedDateTime: 2020-08-25T00:00:00Z
+originalUrl: "https://www.infoq.com/news/2019/11/azure-arc-hybrid-multicloud/"
+webUrl: "https://www.infoq.com/news/2019/11/azure-arc-hybrid-multicloud/"
 type: article
-quality: 96
-heat: 156
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: InfoQ
+  domain: infoq.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eca9237702e3700087145bd%2F0x0.jpg"
-    width: 1000
-    height: 529
+  - url: "https://cdn.infoq.com/statics_s1_20200821054911_1/styles/static/images/logo/logo-big.jpg"
+    width: 1200
+    height: 630
     isCached: true
-    title: "A Closer Look At Azure Arc – Microsoft’s Hybrid And Multi-Cloud Platform"
 
 related:
+  - title: "A Closer Look At Azure Arc – Microsoft’s Hybrid And Multi-Cloud Platform"
+    excerpt: "With Azure IoT Edge, Azure Stack Edge and Azure Arc, Microsoft covers the whole spectrum spanning the edge, data center, and the cloud."
+    publishedDateTime: 2020-05-24T15:54:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2020/05/24/a-closer-look-at-azure-arc--microsofts-hybrid-and-multi-cloud-platform/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/05/24/a-closer-look-at-azure-arc--microsofts-hybrid-and-multi-cloud-platform/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/05/24/a-closer-look-at-azure-arc--microsofts-hybrid-and-multi-cloud-platform/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 96
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eca9237702e3700087145bd%2F0x0.jpg"
+        width: 1000
+        height: 529
+        isCached: true
   - title: "Become a cloud pro: Microsoft Azure certification prep bundle is 95% off"
     excerpt: "The cloud computing race in 2020 will have a definite multi-cloud spin. Here's a look at how the cloud leaders stack up, the hybrid market, and the SaaS players that run your company as well as their latest strategic moves."
     publishedDateTime: 2020-05-27T12:00:00Z
@@ -62,21 +72,7 @@ related:
         width: 1024
         height: 686
         isCached: true
-  - title: "Managing Hybrid and Multi-Cloud Platforms with Microsoft Azure Arc"
-    excerpt: "It includes hybrid server management, Kubernetes and Azure data services. Brendan Burns, a distinguished engineer at Microsoft, stated in a tweet: Helping deliver consistent management and policy ..."
-    publishedDateTime: 2020-08-25T00:00:00Z
-    webUrl: "https://www.infoq.com/news/2019/11/azure-arc-hybrid-multicloud/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 37
-    images:
-      - url: "https://cdn.infoq.com/statics_s1_20200821054911_1/styles/static/images/logo/logo-big.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "df075iP/QQ8hWMJnw2CApeLYwJULcfWAYy0Ahy4ESXAbAci9XrRuPf1kXBECg4TrkdYuwko92v9EozAg2vRApyXZVN/7SwhkgaiBvjjOo+NXBixGUxcVo/586YdrAbgaXzdP78Q45y8ZtKEyUmQyHH4rvuFblSC8ZGvRuXKbPTlhvQlEI0e4vpq8zPQzCE1wienEn6mcbRk2F+c6px7uJlRm9o9OBAjM81rhp+BpJhsJVw1Xh6RLml/bUNKReQqOo04bNFVrtR9TpNgk2o7EVyZEdJk9qfDXhh5+lt3bjhPfenxCcOECTFH4cifzfp3r;AGi1SdgLM3iYA17L9NibNA=="
+secured: "eOUsG9OWuC8aw/i8L+pO9VwcDZViMzG0KNUnGKJMWfeoE/NdmFP6fZNPPTMv5keaFtJ+PKzuQplfml3VO43pp3sAH9Ml45MHYVTocQcgXUBm5Z3QL2xzemUMoPPSLidLXZhePWpN3KR03PRKKjQNxiNCL599VTUD8mDtqGVXGFyfI4G4xlx7qitcXUUAdGXXfbDPjBA3Fl7uZ+7dTHYLxvakh+pyWAyuoMPRWa6XEsMVICyQm5upxSCQm/eRvTjA6+MQFBWYPk6UV4pKrCAwwE9m+s36CNpVr6O3Z55O0B/TPe+wipNVgGr2Gm6D5KA+O+Fl26EH6JeRzUKxvJv4Kghn85QmK9zgDtk+16QckaA=;MBfdP+g6B8GCx7mZSdMtZQ=="
 ---
 
