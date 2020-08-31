@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-19T16:05:42Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-vm-image-builder-service-will-be-generally-available-june-2020/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -19,17 +19,6 @@ provider:
 
 topics:
   - Azure
-
-related:
-  - title: "Azure Container Registry diagnostic logs now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-05-19T16:05:39Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-diagnostic-logs-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
 
 secured: "E7miJX7VVdZpwvGCIm+mt8A7BxXQQLqezqNOdW9cqqVHabEe5teBw1EyyfPq57nNswZ6J1mwxtAa6fz7kjj6YZZ4+/yP3e7v6Vcyn4ZRu7dZhdx3qRJN+eDxZF4THYw4zxtAJz4CrP31EKc5TOnBWWPeU2hIczxNORIEYetmFd9oi8GBRz2NYxjO4lIFAZjXOaTROD0bENoSof0bytJ30yaBsl6l65/kRTTmg2GDHwdJLgpNVzdV6LJ4xQ2Jk95gCWNASf44zC+5YhZ6nmKVMKPen19TvEtPmr4UZ6lZt6L5Y/ZGi4iokU7GqzwfWAhuCQ39ykZVC8sI/+RnsLGBiw==;IuixJjeKu/srqK8G6FCGzg=="
 ---
