@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-13T15:44:00Z
 webUrl: "https://www.businesswire.com/news/home/20200813005239/en/"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -23,17 +23,17 @@ images:
     isCached: true
 
 related:
-  - title: "AtScale Expands Reach of Cloud OLAP with Support for Microsoft Azure Databricks in 2020.3 Release"
-    excerpt: "With our AtScale 2020.3 release, they’ll now be able to add Microsoft Azure Databricks to their Cloud OLAP environments.” “Microsoft Azure Databricks provides a fast, easy, and collaborative ..."
-    publishedDateTime: 2020-08-18T13:19:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200818005298/en/AtScale-Expands-Reach-Cloud-OLAP-Support-Microsoft"
+  - title: "Infoworks DataFoundry to be Featured at Databricks Microsoft Azure Event"
+    excerpt: "Infoworks.io, the leader in Enterprise Data Operations and Orchestration (EDO2) systems, announces that the company is co-sponsoring a Unified Data Analytics virtual workshop with Databricks and Microsoft Azure this week."
+    publishedDateTime: 2020-08-31T15:29:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200831005452/en/Infoworks-DataFoundry-Featured-Databricks-Microsoft-Azure-Event"
     type: article
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 24
+    quality: 36
     images:
-      - url: "https://mms.businesswire.com/media/20200818005298/en/813347/23/AtScale_Logo_2.jpg"
+      - url: "https://mms.businesswire.com/media/20200831005452/en/756518/23/Infoworks.jpg"
         width: 1200
         height: 627
         isCached: true
