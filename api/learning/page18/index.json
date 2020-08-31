@@ -4,49 +4,6 @@
   "page": 18,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-configure-bitlocker-disk-encryption-for-windows-iaas-vms.md",
-      "title": "Configure BitLocker disk encryption for Windows IaaS Virtual Machines",
-      "excerpt": "You'll be able to configure Azure Disk Encryption for Windows IaaS VMs and back up and recover encrypted data.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-bitlocker-disk-encryption-for-windows-iaas-vms/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-bitlocker-disk-encryption-windows-iaas-virtual-machines/",
-      "length": "PT35M",
-      "ratings": {
-        "count": 6,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Compute"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-configure-database-authentication-authorization.md",
       "title": "Configure database authentication and authorization",
       "excerpt": "Contrast authentication using Azure Active Directory vs Windows Active Directory vs SQL Server authentication. Implement various security principals and configure permissions.",
@@ -127,49 +84,6 @@
       "topics": [
         "Azure",
         "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-configure-infrastructure-azure-pipelines.md",
-      "title": "Configure infrastructure in Azure Pipelines",
-      "excerpt": "Run configuration management tools in Azure Pipelines to help keep your infrastructure configured as you need.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-infrastructure-azure-pipelines/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-infrastructure-azure-pipelines/",
-      "length": "62 mins",
-      "ratings": {
-        "count": 322,
-        "average": 4.537267
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/configure-infrastructure-azure-pipelines-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Configure infrastructure in Azure Pipelines",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
       ]
     },
     {
@@ -657,8 +571,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-implement-application-allowlists-adaptive-application-control/",
       "length": "PT24M",
       "ratings": {
-        "count": 0,
-        "average": 0.0
+        "count": 2,
+        "average": 5.0
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -785,8 +699,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-multi-stage-pipeline/",
       "length": "73 mins",
       "ratings": {
-        "count": 763,
-        "average": 4.7562256
+        "count": 764,
+        "average": 4.7565446
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1298,6 +1212,91 @@
         "Azure",
         "Analytics",
         "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-deploy-azure-functions.md",
+      "title": "Automate Azure Functions deployments with Azure Pipelines",
+      "excerpt": "Implement a CI/CD pipeline for Azure Functions.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-azure-functions/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-azure-functions/",
+      "length": "46 mins",
+      "ratings": {
+        "count": 271,
+        "average": 4.697417
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/deploy-azure-functions-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Automate Azure Functions deployments with Azure Pipelines",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-deploy-azure-sql-database.md",
+      "title": "Deploy Azure SQL Database",
+      "excerpt": "Provision and deploy Azure SQL Database and SQL Server Managed Instances. Select the appropriate options when performing a migration to the SQL PaaS platform.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-azure-sql-database/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-azure-sql-database/",
+      "length": "PT21M",
+      "ratings": {
+        "count": 21,
+        "average": 4.904762
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
       ]
     }
   ],

@@ -4,52 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-design-for-security.md",
-      "title": "Design for security in Azure",
-      "excerpt": "Learn how to incorporate security into your architecture design, and discover the tools that Azure provides to help you create a secure environment through all the layers of your architecture.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-for-security/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-for-security-in-azure/",
-      "length": "62 mins",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/design-for-security-in-azure-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Design for security in Azure",
-          "isCached": true
-        },
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-framework-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Design for security in Azure",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-az-400-develop-a-security-and-compliance-plan.md",
       "title": "AZ-400: Develop a security and compliance plan",
       "excerpt": "Build strategies around security and compliance that enable you to authenticate and authorize your users, handle sensitive information, and enforce proper governance.\nTake this learning path to help prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions.",
@@ -1270,8 +1224,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
       "length": "57 mins",
       "ratings": {
-        "count": 1206,
-        "average": 4.574627
+        "count": 1207,
+        "average": 4.5741506
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1661,6 +1615,52 @@
         "Compute",
         "Containers",
         "Mobile"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-design-for-security.md",
+      "title": "Design for security in Azure",
+      "excerpt": "Learn how to incorporate security into your architecture design, and discover the tools that Azure provides to help you create a secure environment through all the layers of your architecture.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-for-security/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-for-security-in-azure/",
+      "length": "62 mins",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/design-for-security-in-azure-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Design for security in Azure",
+          "isCached": true
+        },
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-framework-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Design for security in Azure",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
       ]
     },
     {

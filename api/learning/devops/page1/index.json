@@ -4,6 +4,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-configure-infrastructure-azure-pipelines.md",
+      "title": "Configure infrastructure in Azure Pipelines",
+      "excerpt": "Run configuration management tools in Azure Pipelines to help keep your infrastructure configured as you need.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-infrastructure-azure-pipelines/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-infrastructure-azure-pipelines/",
+      "length": "62 mins",
+      "ratings": {
+        "count": 322,
+        "average": 4.537267
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/configure-infrastructure-azure-pipelines-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Configure infrastructure in Azure Pipelines",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-architect-infrastructure-operations-in-azure-learning-path.md",
       "title": "Architect infrastructure operations in Azure learning path",
       "excerpt": "Learn how to monitor, analyze, and manage the ongoing operation of your infrastructure in Azure.",
@@ -2579,8 +2622,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-delivery-plans/",
       "length": "PT33M",
       "ratings": {
-        "count": 1970,
-        "average": 4.718274
+        "count": 1973,
+        "average": 4.7187023
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2662,8 +2705,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
       "length": "57 mins",
       "ratings": {
-        "count": 1206,
-        "average": 4.574627
+        "count": 1207,
+        "average": 4.5741506
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2707,8 +2750,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
       "length": "53 mins",
       "ratings": {
-        "count": 1483,
-        "average": 4.637222
+        "count": 1485,
+        "average": 4.63569
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2751,8 +2794,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/assess-your-development-process/",
       "length": "PT19M",
       "ratings": {
-        "count": 6536,
-        "average": 4.7059364
+        "count": 6537,
+        "average": 4.705828
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2868,8 +2911,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/",
       "length": "PT1H20M",
       "ratings": {
-        "count": 4608,
-        "average": 4.7419705
+        "count": 4609,
+        "average": 4.7418094
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2900,51 +2943,6 @@
       "price": "Free",
       "topics": [
         "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-troubleshoot-inbound-network-connectivity-azure-load-balancer.md",
-      "title": "Troubleshoot inbound network connectivity for Azure Load Balancer",
-      "excerpt": "Review multidimensional metrics for the load balancer in Azure Monitor Metrics, and check health probe status for the load balancer.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-troubleshoot-inbound-network-connectivity-azure-load-balancer/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-inbound-connectivity-azure-load-balancer/",
-      "length": "98 mins",
-      "ratings": {
-        "count": 177,
-        "average": 4.6497173
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/troubleshoot-inbound-connectivity-azure-load-balancer-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Troubleshoot inbound network connectivity for Azure Load Balancer",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking",
-        "DevOps",
-        "Management Tools"
       ]
     }
   ],

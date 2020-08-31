@@ -4,48 +4,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-azure-sql-secure-data.md",
-      "title": "Secure your data with Azure SQL",
-      "excerpt": "Secure your data with Azure SQL",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-sql-secure-data/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-secure-data/",
-      "length": "PT1H24M",
-      "ratings": {
-        "count": 31,
-        "average": 4.612903
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-sql-secure-data-social.png",
-          "width": 642,
-          "height": 325,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-backup-restore-databases.md",
       "title": "Back up and restore databases",
       "excerpt": "Plan and implement policy for recovering data in case of user error or failure of technology. Explore various options for how and where to backup and restore databases.",
@@ -825,8 +783,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-disaster-recovery-backup/",
       "length": "61 mins",
       "ratings": {
-        "count": 37,
-        "average": 4.7297297
+        "count": 38,
+        "average": 4.631579
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1230,6 +1188,49 @@
       "topics": [
         "Azure",
         "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-configure-bitlocker-disk-encryption-for-windows-iaas-vms.md",
+      "title": "Configure BitLocker disk encryption for Windows IaaS Virtual Machines",
+      "excerpt": "You'll be able to configure Azure Disk Encryption for Windows IaaS VMs and back up and recover encrypted data.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-bitlocker-disk-encryption-for-windows-iaas-vms/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-bitlocker-disk-encryption-windows-iaas-virtual-machines/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 6,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Compute"
       ]
     }
   ],
