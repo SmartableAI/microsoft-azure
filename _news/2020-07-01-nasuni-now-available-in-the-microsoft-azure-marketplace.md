@@ -162,18 +162,18 @@ related:
         height: 450
         isCached: true
   - title: "Riversand MDM Platform Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Riversand, a provider of cloud-native Master Data Management (MDM) and Product Information Management (PIM) software solutions, announced today the av"
-    publishedDateTime: 2020-08-18T11:24:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200818005296/en/"
+    excerpt: "Riversand provides out-of-the-box MDM solutions with rapid deployment and fully remote implementation that accelerates ROI. Riversand’s MDM and PIM solutions provide a foundation for all data quality challenges with flexibility to scale as a business grows and market conditions evolve."
+    publishedDateTime: 2020-08-18T11:00:00Z
+    webUrl: "https://www.oaoa.com/news/business/riversand-mdm-platform-now-available-in-the-microsoft-azure-marketplace/article_b58fe46c-ae7b-5911-9185-d3a396508bad.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Odessa American
+      domain: oaoa.com
     quality: 37
     images:
-      - url: "https://mms.businesswire.com/media/20200818005296/en/813376/23/riversandlogo.jpg"
-        width: 1200
-        height: 627
+      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+        width: 576
+        height: 288
         isCached: true
   - title: "AmploFly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
     excerpt: "PRNewswire/ -- Amplo Global Inc announced today that its AI-powered platform is now available on the MicrosoftAppSource and Microsoft Azure Marketplace"
