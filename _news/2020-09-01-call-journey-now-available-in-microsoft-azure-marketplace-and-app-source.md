@@ -1,27 +1,23 @@
 ---
 category: news
-title: "Mimecast® Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
-excerpt: "(GLOBE NEWSWIRE) -- Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure Marketplace,"
-publishedDateTime: 2020-08-17T09:30:00Z
-originalUrl: "https://apnews.com/4710425f0bbe81da97cd4d269601accc"
-webUrl: "https://apnews.com/4710425f0bbe81da97cd4d269601accc"
+title: "Call Journey Now Available in Microsoft Azure Marketplace and App Source"
+excerpt: "Microsoft customers can now gain access to Call Journey's AI-powered Conversation Analytics technology to drive customer experience, enhance employee engagement,"
+publishedDateTime: 2020-08-31T23:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/08/p17320531/call-journey-now-available-in-microsoft-azure-marketplace-and-app-source"
+webUrl: "https://www.benzinga.com/pressreleases/20/08/p17320531/call-journey-now-available-in-microsoft-azure-marketplace-and-app-source"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17320531"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17320531"
 type: article
-quality: 25
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "AmploFly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
@@ -203,17 +199,6 @@ related:
         width: 1198
         height: 628
         isCached: true
-  - title: "Call Journey Now Available in Microsoft Azure Marketplace and App Source"
-    excerpt: "Microsoft customers can now gain access to Call Journey's AI-powered Conversation Analytics technology to drive customer experience, enhance employee engagement,"
-    publishedDateTime: 2020-08-31T23:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/08/p17320531/call-journey-now-available-in-microsoft-azure-marketplace-and-app-source"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17320531"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17320531"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 36
   - title: "BitDam Advanced Threat Protection now available on Microsoft Azure Marketplace"
     excerpt: "BitDam announced the availability of its Advanced Threat Protection in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. BitDam customers can now take advantage of the productive and trusted Azure cloud ..."
     publishedDateTime: 2020-07-22T23:20:00Z
@@ -295,6 +280,20 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 27
+  - title: "Mimecast® Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
+    excerpt: "(GLOBE NEWSWIRE) -- Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure Marketplace,"
+    publishedDateTime: 2020-08-17T09:30:00Z
+    webUrl: "https://apnews.com/4710425f0bbe81da97cd4d269601accc"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Mimecast Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
     excerpt: "Dubai, United Arab Emirates - Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure Marketplace, an online store ..."
     publishedDateTime: 2020-08-19T07:14:00Z
@@ -325,6 +324,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "arl2p+QlRzZT6afyn29wwJLaYnOGmg+NJSxfRDIcr5tUphOuYLISEatABVjzymShU+8b43ar//lDEj4LwYWj73PQ6k0jX4xX8dwgsVyUgR/5KAvX5DnlGTMLwkqbY2UAVvkHNdFUvgx9EPkvZvSM2KRM8b82827x8g0aulF9xCILt4EB8io0tR0swmK8mpZIFqP19aBrG2YhYlXBwiUYmjMuIPSnRw1Eod718epLE7z6En+odcWU3a+xaLgoKTrJZX0G/rcI/oZAFPW7HGqnOQk5aan/RjqqaYT3ZHprrhg1H4MotiLLEPddEK9JmHR8A3UoEAiiaiBShOA+4/Mgu7OLMynhh04y4uxywhJAiBU=;+mJxrgBAZqhmsxdvnryMEg=="
+secured: "VFJIPmWf1Nddh7CK73UvWXIL0eYj9lzvutU1nl83wjyHMpe4CwvNikDhkoapCkP3D9Mp53wdKT3rHegpZWmfjRfyDPCCOHSRLwGJfv3XpW3tvz3pnFC+DWZhvJxAoFPcRcI6m1qf9fFTQXVHw8A56JSlndKAYlB+rYDKOmhkwEhcBgrhS8M/I8ZbcKhuiicIws73/m4f0pXLzXF2aJRcoB0aIaaY+WWFj4nld1Fkm45J6cJArpmUW6GY6SKpUBXkjjWyCQjeVfxaJ2k2WtR8/KmEV11M7hBLmDvMhKMBPi9q10EdDhFKUXcPOQ0w1UCwjPbHmyZX7Y1/VRDHM+DaJL1JdVbH6POZlq+3cqMiJLs=;AF4hXhhr3fR+cM9cUUYcCg=="
 ---
 

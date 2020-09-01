@@ -1,26 +1,27 @@
 ---
 category: news
 title: "Innovaccer's COVID-19 Management System Now Available in the Microsoft Azure Marketplace"
-excerpt: "\"We are delighted to have our COVID-19 Management System available in the Microsoft Azure Marketplace. Amidst the COVID-19 crisis, it is our duty to make a contribution that assists the healthcare ..."
-publishedDateTime: 2020-08-13T16:22:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/innovaccer-s-covid-19-management-system-now-available-in-the-microsoft-azure-marketplace-1029502354"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/innovaccer-s-covid-19-management-system-now-available-in-the-microsoft-azure-marketplace-1029502354"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/innovaccer-s-covid-19-management-system-now-available-in-the-microsoft-azure-marketplace-1029502354"
+excerpt: "SAN FRANCISCO, Aug. 13, 2020 /PRNewswire/ -- Innovaccer, Inc., a leading healthcare technology company, today announced the availability of its COVID-19 Management System in the Microsoft Azure ..."
+publishedDateTime: 2020-08-13T16:17:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/innovaccers-covid-19-management-system-now-available-in-the-microsoft-azure-marketplace-301111911.html"
+webUrl: "https://www.prnewswire.com/news-releases/innovaccers-covid-19-management-system-now-available-in-the-microsoft-azure-marketplace-301111911.html"
 type: article
-quality: 68
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://mma.prnewswire.com/media/1228171/Innovaccer_Logo.jpg?p=facebook"
+    width: 600
+    height: 314
+    isCached: true
 
 related:
   - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
@@ -153,6 +154,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "m/6cjcdz1lmfzQlhAI+X3oiHufE3IxE5lM/wn04xq7C3+R5OuXbcVSPXjKxZTP1mxDRGLYsILKLzajPcIsl+HkYXHe5+ESVtHqmzluX+nfKZGEhOgKC4dwEL7oOmh7ZO6bNb2r0Zxu5i3PkL8R61Kq8eoPFdkITve8bhq/hJ5qfE55eyjQr3AGGvkbKGo47dPA0x3gDc2ti0LUR3tpMQvk6FVoka7vzUEffaHaT+RnGc/Y8KRdeH3L7Svvj7Cbpf9tdAT7ZjQKzrJMR4Wme5wTlOFwCiKI17DZkPOBBOLEsAE13WhsHAED7B49k7nJs+nvXgDzR51BDWuAUunEumug==;B/V/DweilM9nvB7TAwEx9w=="
+secured: "5osQj38HWgbXvVVqjSkZUcmT9TrqRPxU7IodRhS7gZJKZQdgjH+jf40DWuUk6psFomeR6Vx5jDCzW7HlDFLXtW+LoDI761CgIaoC6dRFDQnURFj6RPazRiTpRo/7KjW+GGJw+IbYLkynj7D8h+SvJb4b60hoUVZpmbFuaZJVyQrspOdOz9ErJ2fDP0KCNK7jFr7RbV0pI1a5nTZezKyimSCcxfEW9lSE34t6GZcextDJCmhsjcynzJEgE6nAihgBrdgW88oFk91zZDA/utZ6oCyYfO50tXlZzdglOuCUO+ZBiZ+G1d2mbwwvVo6hJ8Uxk55iqsJLPQqqJE3inX/Gh2BbZ1yY87/G/4xlLMzLeTU=;u0LRb9jRe8QQPiKFHQPwQg=="
 ---
 
