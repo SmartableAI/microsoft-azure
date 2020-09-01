@@ -4,15 +4,15 @@
   "page": 15,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-nodejs.md",
-      "title": "Introduction to Node.js",
-      "excerpt": "Learn everything about Node.js: what it is, how does it work and when to use it.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-nodejs/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-nodejs/",
-      "length": "PT20M",
+      "path": "_learning/courses/microsoft-learn-intro-to-hpc.md",
+      "title": "Introduction to high-performance computing (HPC) on Azure",
+      "excerpt": "Discover the services available on Azure for your high-performance computing workloads.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-hpc/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-hpc/",
+      "length": "50 mins",
       "ratings": {
-        "count": 329,
-        "average": 4.808511
+        "count": 826,
+        "average": 4.5569005
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -32,16 +32,18 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-hpc-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Introduction to high-performance computing (HPC) on Azure",
           "isCached": true
         }
       ],
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure"
+        "Azure",
+        "Compute"
       ]
     },
     {
@@ -179,8 +181,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-threat-safeguard/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 33,
-        "average": 4.878788
+        "count": 34,
+        "average": 4.882353
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -220,8 +222,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-build-dependencies/",
       "length": "PT59M",
       "ratings": {
-        "count": 1622,
-        "average": 4.678175
+        "count": 1623,
+        "average": 4.6783733
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -347,8 +349,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microservices-aspnet-core/",
       "length": "PT53M",
       "ratings": {
-        "count": 84,
-        "average": 4.642857
+        "count": 85,
+        "average": 4.647059
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -432,8 +434,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microsoft-runs-on-trust/",
       "length": "30 mins",
       "ratings": {
-        "count": 5392,
-        "average": 4.7420254
+        "count": 5393,
+        "average": 4.742073
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -601,8 +603,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-on-premises-infrastructure-with-azure-site-recovery/",
       "length": "33 mins",
       "ratings": {
-        "count": 763,
-        "average": 4.600262
+        "count": 764,
+        "average": 4.5994763
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -897,8 +899,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-functional-tests-azure-pipelines/",
       "length": "63 mins",
       "ratings": {
-        "count": 618,
-        "average": 4.6391587
+        "count": 619,
+        "average": 4.6397414
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1025,8 +1027,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-quality-tests-build-pipeline/",
       "length": "PT1H22M",
       "ratings": {
-        "count": 2927,
-        "average": 4.7259994
+        "count": 2930,
+        "average": 4.7255974
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1067,8 +1069,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/search-organize-repository-history-github/",
       "length": "PT38M",
       "ratings": {
-        "count": 60,
-        "average": 4.8
+        "count": 61,
+        "average": 4.803279
       },
       "provider": {
         "name": "Microsoft Learn",
