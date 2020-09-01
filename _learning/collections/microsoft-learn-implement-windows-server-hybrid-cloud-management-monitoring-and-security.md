@@ -4,7 +4,7 @@ excerpt: "This learning path addresses problem related to managing, monitoring, 
 type: collection
 price: Free
 length: PT2H55M
-heat: 60
+heat: 132
 
 provider:
   name: Microsoft Learn
