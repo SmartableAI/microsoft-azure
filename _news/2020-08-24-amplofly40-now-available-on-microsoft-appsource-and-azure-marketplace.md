@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-24T07:06:00Z
 webUrl: "https://www.marketwatch.com/press-release/amplofly40-now-available-on-microsoft-appsource-and-azure-marketplace-2020-08-21"
 type: article
 quality: 77
-heat: 557
+heat: 577
 published: true
 
 provider:
@@ -205,6 +205,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/cb/3cbcd9fb-ef6c-5b03-a63d-3d4936dac151/5f404454416a5.image.jpg?resize=400%2C209"
         width: 400
         height: 209
+        isCached: true
+  - title: "Buurst Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Buurst, a leading enterprise-class data performance company, today announced the availability of its flagship product, SoftNAS, in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2020-09-01T12:00:00Z
+    webUrl: "https://apnews.com/d02a5aa318c5402188ac79f986783f8a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Call Journey Now Available in Microsoft Azure Marketplace and App Source"
     excerpt: "Microsoft customers can now gain access to Call Journey's AI-powered Conversation Analytics technology to drive customer experience, enhance employee engagement,"

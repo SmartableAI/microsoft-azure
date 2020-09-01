@@ -1,26 +1,26 @@
 ---
 category: news
-title: "AmploFly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
-excerpt: "PRNewswire/ -- Amplo Global Inc announced today that its AI-powered platform is now available on the MicrosoftAppSource and Microsoft Azure Marketplace - their online stores"
-publishedDateTime: 2020-08-21T21:50:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace/article_0e6a799a-8c12-50f5-9d88-c1b0d7081ff9.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace/article_0e6a799a-8c12-50f5-9d88-c1b0d7081ff9.html"
+title: "Buurst Now Available in the Microsoft Azure Marketplace"
+excerpt: "Buurst, a leading enterprise-class data performance company, today announced the availability of its flagship product, SoftNAS, in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+publishedDateTime: 2020-09-01T12:00:00Z
+originalUrl: "https://apnews.com/d02a5aa318c5402188ac79f986783f8a"
+webUrl: "https://apnews.com/d02a5aa318c5402188ac79f986783f8a"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/cb/3cbcd9fb-ef6c-5b03-a63d-3d4936dac151/5f404454416a5.image.jpg?resize=400%2C209"
-    width: 400
-    height: 209
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -203,19 +203,19 @@ related:
         width: 1198
         height: 628
         isCached: true
-  - title: "Buurst Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Buurst, a leading enterprise-class data performance company, today announced the availability of its flagship product, SoftNAS, in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2020-09-01T12:00:00Z
-    webUrl: "https://apnews.com/d02a5aa318c5402188ac79f986783f8a"
+  - title: "AmploFly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
+    excerpt: "PRNewswire/ -- Amplo Global Inc announced today that its AI-powered platform is now available on the MicrosoftAppSource and Microsoft Azure Marketplace - their online stores"
+    publishedDateTime: 2020-08-21T21:50:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace/article_0e6a799a-8c12-50f5-9d88-c1b0d7081ff9.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 37
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/cb/3cbcd9fb-ef6c-5b03-a63d-3d4936dac151/5f404454416a5.image.jpg?resize=400%2C209"
+        width: 400
+        height: 209
         isCached: true
   - title: "Call Journey Now Available in Microsoft Azure Marketplace and App Source"
     excerpt: "Microsoft customers can now gain access to Call Journey's AI-powered Conversation Analytics technology to drive customer experience, enhance employee engagement,"
@@ -353,6 +353,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "p3armI0fgrE3U61+v8GtvQRfqAiBqLnv5gkfgORBa7BiuLCWcN2uGIdJn+a4dE1eDv7bA/1JMXr0vYlNbsBQbBvuUmBwc/pnRLvMkFps4N+quVGmvkr3rEY3BheSpb8nKCMfOxVbtgHnKJTrTgFO2H6fbSn9gNdgWGpGT6x89e4i6/NvQvdDqpCB5jXPs1t2KrFMBnQg/ePDxLG8w03QwqHLVX8Q+zcmMjAChPiy+Dl2wyK0Nt/Cdx9uNdeocQqa1JsDWQClBL7mEUkhfeFbSYTQysA1B14pqojzZCCPiq3CmJ0Yyhi1ahqiWV1hy7gicvWxpW0rNd4gaXLzBP1FEmbkYk1MossVb3b7lnja/tucLt0aaCQBPqFgVANKott7MdZ8H5Xd2kxcDWfl8UE02B8n6hR7yPGElTTji7SNeY8T9b3thXy4P8N1j9uoSOegzIbilm5J/iWjbyY5OuaK9U2gaPqWsLaKGkP5UANnb/tXgISKeqrexXHQa3jTUPQP3hWy1z3DhYnqxe7eyE6jKw==;D8zOI80cJ4pmcY4Ra2BI1g=="
+secured: "i/X1xB1RMGk9u3TiCWxCVj1+eQbGccvLdyc5TYmAbJbQyc51Fml8qfHuZieedJQJxiuZUhbX077a80Q4sRT87xudThI9D+o/uuV82aHm6S25nr3biIoJAp9GB1oqpPABCtze5jM3L5BGw2M8Oe6HC3xmUYj/vDs1qfGghTyed7VZepFALkG2nb3GYuMmaUU5bqmDiOccsTV2/WGLP8jm218X380M7uhb0Nf5rir7AuRHI0d9vK4RxjAKP/UtwBTBYPPSkqIUSiBJtDnmf/zm9meuMotNwgybAodpNZ29ACZMR9s+aPs1PrDWwupYlKwVUxtTHpdoXVq7qInlJ185w3yefofLZV+F5ICaBFGNbLo=;s0SgTGzqo9aO4zTivZ1yUQ=="
 ---
 
