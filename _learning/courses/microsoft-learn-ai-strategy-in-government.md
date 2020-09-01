@@ -8,7 +8,7 @@ length: 47 mins
 ratings:
   count: 585
   average: 4.7384615
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Define an AI strategy to create value in government"
 
-secured: "52C30ILP6HwoofB9vVCGl/IS1H/i/ytcJ6O/FtnvViWBxDol5/CMM9fwaDwjJgWjbogOPMmWoK6W8AOh2A5Zxwspxvo+MxlK3FUdjSsf4XjoP6SchEPCKkmyfMZpf+YcQnR1ZEWhevhTMBDLz3fxo60c9uaG2P40Tr5OrlqHEhuTH+PLrXR8ZbeBpJpwR4TCDMoyQkRXuHbKpPnUEFMZXjjS4ISNBknmf2cIAy7IVN+t1sA8xdzexIc77rVCWp2snCHafkegsFc+yaST5ak+FQD56DHsiixao/v1Er+DXclx2hw6fUZNPq1w4/JK71rm92gOO0yaQlZF3Plg6vuI4tkutmUGcoSWSbUfoJDhaiWILmIoas4gdsKEJXuzZapxH0jsmiDIOw8NY4BMK2qtKj5G141NtEkIAQkpltRPRvk=;f/QxD7jopf+XZhzWEb1DEw=="
+secured: "Htcb3G0NtsrZLxLcYJsexy/Kb+Ntylnx4LL+Ix2nMUbBnXq7i3bRdZJsZaWAxk1FelWkDvi9yVP3CY6y2nMZnuOeZk7uhDumTljPcrj5KVBzgiNqEglOqvNAi+HDsjdjYskABZODQvGoXQ+bogQGlVCZ/kyoFRxJKlhngJZXx8a5qIb53Dl43PgtVGPeayE2wOTyYW4jPZgZIZzqH7H5STK7x/tAKDo4gZ6T53UkUab85GyLANBTd3t4OrOkm6A1o4HsLtspxEoOR2isywLF/bUqdyIloOZOpN1EC+nQry2ev9IhXKFyu/aEKTqkJGnVIHqZwXSLpcDIBiqUMT5/O5X9YyXDx4HnViaeceVot2qbBPUpKFEo6Vw1zBtCNWDHY/mkQ2ImA45if/U/eKYG631OcnkESNDWMucOvkyZiqU=;SYn7lkEdKjO2RcALBEdp6g=="
 ---
 

@@ -8,7 +8,7 @@ length: 50 mins
 ratings:
   count: 1303
   average: 4.613968
-heat: 52
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Secure your application by using OpenID Connect and Azure AD"
 
-secured: "OI3q5bytuhKvQYqH3HJHVYjkq9/bRkL1tp+W7cXNd0um7aPcTaufi4STQ7ppBYR7+lWEvd9x9uY4vloiWY8isI4E4VbEOrF+0DyuiagDQX7nolnnirpUCOocz1qwWGz56mtqxlych8Vj9McGEjPNnWqR4KP6khpMmO6XbSvheJ0opSsi66a6bPrUvxNM5Dp00T1HbFrpYhF6q6Alg1J9tmc8d7bPr8thziBGFY6RkIbvGZk1hy9LFKAU9QiAJmXGCIDTpXirWSgfBNVH4ILfkrSmM2x76BGUtua9wtkk3KAEYBtydK6TP68L8hsZICGP/H80kXgOmcITsynp57fRRnycjKnVP8UVm6tdlrxJ4MwcTxQ67cvpjzASb8NCRhfzaPaoYZLKrtUqVCHAmmTB96AYEtNzbRTqOqgZqnW50AI=;E/jkCApzklGsM+Y2ypNBlA=="
+secured: "HrcvWIBYVYcHHSL26mgRF+IVbZs5Xw026dsuAe9M+tCnUROobKtYPclz26u0nQco/yZaouIJeoC9HUkqV01/KFar5Ymm2vUnkXVciGozhFjZ7eztn9lB3YUR+ilsbzFcGBGfC0bj8h4EyHslyF5LIN0SJ/wg9xkzgsJAFMXhLhOawgaCOWssTpuo7xXECuwCIOqbY7Whn/3RE2WMhSv2tR66gmZO5GEeVfuY49LIRYeqofA8mCapnHXRSI7WMcAR0bnNooOmHoL5zSbd6EvK0Q7DG/dW3vTx8hV1qCbSyX0GOAX77NZTbXNfoATlAs+HQvkW0oB3+MtIKkc5LUWFpI8MPpwYjtP6zC6+iHUKjpvcb6ig/FzzcczKNn3L//bK0M51hGUrZMukOppA5XmWh1J8PIuSVnItMdRPDqq/4is=;a9RmVuF1YktF/1W0nPuWoA=="
 ---
 
