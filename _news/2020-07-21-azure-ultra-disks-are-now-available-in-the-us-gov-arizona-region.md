@@ -62,15 +62,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "New general purpose and memory-optimized Azure Virtual Machines with Intel now available"
-    excerpt: "Today we're announcing the availability of new general purpose and memory-optimized Azure Virtual Machines based on the 2nd generation Intel Xeon Platinum 8272CL (Cascade Lake). This custom processor runs at a base speed of 2.5GHz and can achieve all-core turbo frequency of 3.4GHz. It features Intel®"
-    publishedDateTime: 2020-06-15T09:00:47Z
-    webUrl: "https://azure.microsoft.com/blog/new-general-purpose-and-memoryoptimized-azure-virtual-machines-with-intel-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 8
 
 secured: "umDqwY89TfA/NpvtNnzRhKM78GuenObjIm2r6gOU70ln3ikhthFgGm1uTiYLMnl3SGqhUj3X3BzgpcPsrYEOfKNWoVT6sjY4dMxmVi9Aw4OaJiAmFCSiYfiTJbm063R11CCCuW/lXCqRm9OzzaxzAQO5dmSfgSC3OOYSJ26QiUuH6Ok7CGLgxuGV6pub9ho+sZZ78VpX0GHLo7Q5XfpO0ZsgFizMIv8iyfI0j3Nwe4H/xa27NtpCnP5d4CMW4Z3BlLjxnQ0cbe8kzAbT/XH/e8ljSur5basoY1FC3INfXbPdgCU68kS0jiMbyw3imdHGKNMpeWzZiZl9Q0xVoF93GQ==;d+vcC8g/WOMJ7CwISN5EGw=="
 ---

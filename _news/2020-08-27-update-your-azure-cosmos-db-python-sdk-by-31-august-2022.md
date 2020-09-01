@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/update-your-azure-cosmos
 webUrl: "https://azure.microsoft.com/en-us/updates/update-your-azure-cosmos-db-python-sdk-by-31-august-2022/"
 type: article
 quality: 67
-heat: 87
+heat: 107
 published: true
 
 provider:
@@ -22,6 +22,15 @@ topics:
   - Azure
 
 related:
+  - title: "Update your Azure Cosmos DB .NET SDKs by 31 August 2022"
+    excerpt: "We’ll be retiring version 1.x of the Azure Cosmos DB .NET SDK and the .NET Core SDK."
+    publishedDateTime: 2020-09-01T16:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/update-your-azure-cosmos-db-net-sdks-by-31-august-2022/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Update your Traffic Analytics queries by 31 August 2022 "
     excerpt: "Update Traffic Analytics log schema to use new fields in queries "
     publishedDateTime: 2020-08-27T16:00:14Z
