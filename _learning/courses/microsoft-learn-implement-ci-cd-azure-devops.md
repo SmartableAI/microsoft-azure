@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Implement CI/CD with Azure DevOps"
 
-secured: "DRtJor18cFHRqihKXo2tXeOzyPOaLksi3nn8B1Tq4SzxlMQmKa/X/lVbzVTIzJ017zRSdWvP6rRtl9iJj8hG7+xFQYQnv/R1W5FV7HcG/+Cmbo7om9bULJI1SvzXeYIagBdxrqgn6/P8ur+Afu+wC/FhI5BmCnMkXNz5EUSt4TyTmkIoSpDo26ZPcFcuWmLrhHyChtMPQ9hsQGI3PlKVAUa5dJCz5XXrwCe+g3x7h5yLqlLXLZpQnTEKsewW0tiE5OmtcyGC9dCr9QB64Osr8WxhxBIMYB1JOA6ElINq/zjCsJCXQlEMTIDBo/uyF5Q52NtH4LanIlIN78iD0zVhvaue+3FAZ3AL2EKA+A3QBSdvyK/2G1aBqcyzhG1NDBY94qR4frB0QWaiRNTi5gIRDiShE7vegqtlpdPZjZ6dXX4=;joLAaSn2RZ/i8es/uswZKw=="
+secured: "sl2vKD8FkDbnREugyCowzmxufU9+wOaK5pbHrTYBaIkaixegj+hiXcaLBjDINnvy5Tz+cEynISmeuaGiVsZ6gUmuA9K4s6Vj7KLS7O4Ex1RSN7pSXQ4YfexW+40vnWulsOTeiS+F5ug5KboXyOi0tY45tDDF7+nYoXxyg0XOakeRD/T4FXBtTSlT+0Aqwc+VPsGBkhBJ39wiVY/VtX+RE6OapgdviXrSpdg+lLewuXiunVnh3Wpp7khoSkLuh9+E9Qdp0/JIy4B4vP17JnyIQK860/ZP9JVyjU/Iu/lZMRZzluEy8/qFoIb7wHxz7pJ0/0EZeJp7ZsOlFrEGyMSrR8WZFT44UjVyQA/9ahvoxpXIJxDKDGwF2WThXR2ynQFUU0spOIWQP8lAlKzo6X7ic7w6wpfApktghPaItOh5PII=;GtRokNIRZaOsB90l3MqvdQ=="
 ---
 

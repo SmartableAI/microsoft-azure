@@ -8,7 +8,7 @@ length: PT33M
 ratings:
   count: 1982
   average: 4.7194753
-heat: 56
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,6 @@ levels:
 topics:
   - DevOps
 
-secured: "qMXvZOWESKg8uFGL/MpqGS+B1tyR8dYw068MJDdp7o80/r1JMqiMjDht9hlH231qFuQCivCS/gTHx8+wuLodlRaUMHO2LXNPGiC0y7ONfqQJwnN5stXqjY8C5wBEGIfHLdTUKDeDR49eU40/RomGJYpT8TUF339Hg5NPOG+EjsfxbJi5jkqD0M3S4JZnWia15b6M0UiYPAkQaokjk337XTZI06s5x1KmqOy17udm1EikYMNLGQ7fgjmA1DdS4FgIZ6YH6Jd+pmfG9h6Mba5or4CoNnJxAM3r4dCuVxNtjTV5MnLw+/XbKXNHQXYPcH8hmCYP7Ly9gdIklzadNjXQILJcayyWEeLvBevDFiHw0o3SnTvp0xO+NnRQb4vu48yLEuijpJLjVW3pFKn4h2lw+OIiezbcVvQH2AljLl5q1Eg=;R3+JtUx8eCltiKSaiNEAag=="
+secured: "oKATi8M044upgCtQM3oTrX9zGzaADNrwbW4ZUTC3/lFm6QEjl0vapA/b2/OuAoYnwUTyxKj/w75S/Kcv8UmiSE51kiJTc7ij8r3ZI9UJCP3Kc7fq876Ns5K0f2JyxKBJV7RmlrlRPIubmDxd4bzBGwhZm/Cdce0XfGAz6b2LmAwIq1Xw7PSsTNcSE5U4NvvrRdtrNFyErT8f/Z1daIW714ZT5C3Cehj6CS3WPHLLP0uhDFYBpsnsK7nv/0KkIaUSOxd6C+jskBqLccE0Ls11M3g7QdCRwGgO27f+0qCA7ffspXtMPWzr68Kux6ASqQ5XRq99cCr/uQlLovNQj8uKkFLjvpHFf6ZrY/EBaHaV2bufk2VcYcspjsnTW4OlzmGusRQqfSkliCTtox9Cmll7CCfnEezOXRQJjDzpLzPMpcU=;s0ESLuhHwrLvvu6lIXa/Gg=="
 ---
 

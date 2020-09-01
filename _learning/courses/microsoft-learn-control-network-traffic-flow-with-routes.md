@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 50 mins
 ratings:
-  count: 1528
-  average: 4.621728
-heat: 55
+  count: 1529
+  average: 4.621975
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Manage and control traffic flow in your Azure deployment with routes"
 
-secured: "nUKO/4RSnimrlNhNdXafS1aGXjpxzholsVbiFyjegXpLD6H3wI+RtHV3334NEppIJGMMgrFERjK12vukLHbsjNhjw0BA47+l8RgK9V3fbe3hKCHRQWB/tL+geEZtIIW/d0YwPFVuvZErbZE0Ue2HOIpBU39zPRRzzG2jHO01OwdW76JXXs65X0yaZanaUT1UKfM0F1eAGzGAkSOh7Ec4PwXfQ8YBhipBr/lM0Z5X7MtV1anA4VX9g5bGeeDYLnJs1B0eQWixeclVRRucurk1AY1JiIBFskCQvk8AZMCIKxcN6JdL+/rTnm9F8pteDIQCZtvl6Ch4OyTheBnWWc850nu7CqXsJ/Xzx26y7jbkB8SSgjnL+oElzSE5laQv9cM4X3WPi/tP4cuqCiUoxf7HQSe5Y0y+QSwWDFouZ1Gmvak=;Znu38kzxRotoCYA297ZuTg=="
+secured: "hRSDCAT3O9/CoImUqBLw9z+uoyYF5D56nyrPKtg9j++Gy1gqAGoPQBli8Jz7mYa951bC2QnNVQl7DJZEsRXiTSwGNPypElOtVcfALWf9fvsrd9U+O4hvhvlNGjAtXqCapRSh/I+TdjQW8HwoLbCa+UTJn730tguGM5tONUXl/VDQSedK/5fIEvadyuUm1KtVprgjA4YdOudmmbUecOlcTZoxbEW4mv5N21UFUr/3oT6G5+cprB/SDDYQvC9QOrqsfF46SPOtQ0zPLS3m1kuYCet3JR1NFJ3Wzvd5g8iRimyiUwjFsl1S9vhBlj+Vy+dPdYCHA38T1FAj3ObnAvJKhJI28M7ybijNYoFiyfBqipurIX5Iz+Vj3IemF6I9vKj9bYVipD8BBZ91tLCB8h6tn3CZbEr9FQX2LjFlzLczeOs=;jf/A5plstGQJHu/TRsZ2aw=="
 ---
 
