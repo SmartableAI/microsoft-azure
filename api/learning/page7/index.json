@@ -493,8 +493,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/",
       "length": "23 mins",
       "ratings": {
-        "count": 5595,
-        "average": 4.737444
+        "count": 5596,
+        "average": 4.737491
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -536,8 +536,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 1728,
-        "average": 4.693866
+        "count": 1730,
+        "average": 4.6942196
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -647,6 +647,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-manage-users-and-groups-in-aad.md",
+      "title": "Manage users and groups in Azure Active Directory",
+      "excerpt": "Manage users and groups in Azure Active Directory",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-users-and-groups-in-aad/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
+      "length": "50 mins",
+      "ratings": {
+        "count": 2628,
+        "average": 4.671613
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/manage-users-and-groups-in-aad-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Manage users and groups in Azure Active Directory",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-top-5-security-items-to-consider.md",
       "title": "Top 5 security items to consider before pushing to production",
       "excerpt": "Secure your web applications on Azure and protect your apps against the most common and dangerous web application attacks.",
@@ -654,8 +697,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
       "length": "45 mins",
       "ratings": {
-        "count": 5888,
-        "average": 4.644701
+        "count": 5890,
+        "average": 4.644652
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -741,8 +784,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
       "length": "PT51M",
       "ratings": {
-        "count": 794,
-        "average": 4.711587
+        "count": 796,
+        "average": 4.7123117
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -785,8 +828,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/",
       "length": "PT1H20M",
       "ratings": {
-        "count": 4615,
-        "average": 4.7417116
+        "count": 4616,
+        "average": 4.741768
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -872,8 +915,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-app-scalability-resiliency-with-load-balancer/",
       "length": "47 mins",
       "ratings": {
-        "count": 1769,
-        "average": 4.7139626
+        "count": 1770,
+        "average": 4.714124
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -958,8 +1001,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-overview/",
       "length": "8 mins",
       "ratings": {
-        "count": 1728,
-        "average": 4.718171
+        "count": 1729,
+        "average": 4.718334
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1273,8 +1316,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-network-traffic-flow-with-routes/",
       "length": "50 mins",
       "ratings": {
-        "count": 1534,
-        "average": 4.623207
+        "count": 1536,
+        "average": 4.623047
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1427,8 +1470,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-roles-responsibilities-world-of-data/",
       "length": "PT17M",
       "ratings": {
-        "count": 449,
-        "average": 4.8017817
+        "count": 450,
+        "average": 4.8
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1469,8 +1512,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-python/",
       "length": "67 mins",
       "ratings": {
-        "count": 4488,
-        "average": 4.712121
+        "count": 4489,
+        "average": 4.7121854
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1587,50 +1630,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-manage-vms-with-azure-cli.md",
-      "title": "Manage virtual machines with the Azure CLI",
-      "excerpt": "Learn how to use the cross-platform Azure CLI to create, start, stop, and perform other management tasks related to virtual machines in Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-vms-with-azure-cli/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/",
-      "length": "51 mins",
-      "ratings": {
-        "count": 5476,
-        "average": 4.697772
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/manage-virtual-machines-with-azure-cli-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Manage virtual machines with the Azure CLI",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Management Tools"
       ]
     }
   ],

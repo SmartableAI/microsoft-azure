@@ -4,6 +4,50 @@
   "page": 8,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-manage-vms-with-azure-cli.md",
+      "title": "Manage virtual machines with the Azure CLI",
+      "excerpt": "Learn how to use the cross-platform Azure CLI to create, start, stop, and perform other management tasks related to virtual machines in Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-vms-with-azure-cli/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/",
+      "length": "51 mins",
+      "ratings": {
+        "count": 5480,
+        "average": 4.69781
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/manage-virtual-machines-with-azure-cli-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Manage virtual machines with the Azure CLI",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-align-requirements-in-azure.md",
       "title": "Align requirements with cloud types and service models in Azure",
       "excerpt": "Azure supports three approaches to deploying cloud resources - public, private, and the hybrid cloud. Selecting between them will change several factors of the services you move into Azure including cost, maintenance requirements, and security. In this module, we will look at all three types and help you make an informed decision about which one to leverage for your services. We'll also quickly look at the service models supported by Azure which can help you determine the services you should start with when planning out an Azure deployment.",
@@ -11,8 +55,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/align-requirements-in-azure/",
       "length": "35 mins",
       "ratings": {
-        "count": 5420,
-        "average": 4.7357936
+        "count": 5421,
+        "average": 4.7356577
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -182,8 +226,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-introduction/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 785,
-        "average": 4.7210193
+        "count": 788,
+        "average": 4.718274
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -267,8 +311,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
       "length": "56 mins",
       "ratings": {
-        "count": 1547,
-        "average": 4.584357
+        "count": 1549,
+        "average": 4.5848937
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -398,8 +442,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/",
       "length": "54 mins",
       "ratings": {
-        "count": 1896,
-        "average": 4.64557
+        "count": 1897,
+        "average": 4.6457562
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -485,8 +529,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/move-azure-resources-another-resource-group/",
       "length": "42 mins",
       "ratings": {
-        "count": 1430,
-        "average": 4.588112
+        "count": 1433,
+        "average": 4.5882764
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -603,8 +647,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/",
       "length": "42 mins",
       "ratings": {
-        "count": 1645,
-        "average": 4.568389
+        "count": 1647,
+        "average": 4.567699
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -647,8 +691,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-and-manage-azure-key-vault/",
       "length": "29 mins",
       "ratings": {
-        "count": 1768,
-        "average": 4.60181
+        "count": 1769,
+        "average": 4.602035
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -724,8 +768,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/distribute-load-with-traffic-manager/",
       "length": "29 mins",
       "ratings": {
-        "count": 1879,
-        "average": 4.5284724
+        "count": 1881,
+        "average": 4.528974
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -810,8 +854,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
       "length": "65 mins",
       "ratings": {
-        "count": 4916,
-        "average": 4.5968266
+        "count": 4917,
+        "average": 4.5967054
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -855,8 +899,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-linux/",
       "length": "PT16M",
       "ratings": {
-        "count": 489,
-        "average": 4.775051
+        "count": 490,
+        "average": 4.7755103
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1028,8 +1072,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-azure-network-infrastructure/",
       "length": "37 mins",
       "ratings": {
-        "count": 1858,
-        "average": 4.5748115
+        "count": 1860,
+        "average": 4.5752687
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1071,8 +1115,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/",
       "length": "37 mins",
       "ratings": {
-        "count": 1293,
-        "average": 4.62181
+        "count": 1295,
+        "average": 4.6223936
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1278,50 +1322,6 @@
       "topics": [
         "Azure",
         "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-cosmos-db-for-scale.md",
-      "title": "Create an Azure Cosmos DB database built to scale",
-      "excerpt": "Learn how to create an Azure Cosmos DB account, database, and container built to scale as your application grows.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-cosmos-db-for-scale/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-cosmos-db-for-scale/",
-      "length": "35 mins",
-      "ratings": {
-        "count": 3643,
-        "average": 4.6412296
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-cosmos-db-for-scale-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Create an Azure Cosmos DB database built to scale",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Management Tools"
       ]
     }
   ],
