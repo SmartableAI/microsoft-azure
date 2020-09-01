@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT30M
 ratings:
-  count: 20
-  average: 4.75
+  count: 21
+  average: 4.714286
 heat: 50
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Start the machine learning lifecycle with MLOps"
 
-secured: "nkWqh+aK2cyU+9UI4u8RZ9R0My4SdwOvLhOfWyVUQ3ghQHD4YaluQoVKIYljing07Vg13oiiuSzhvmbSt80iWPq0DmruwXLw5YlFjq18JJ0wGSjDx0H+AN89T+1kn6SjRN1mOi0PhiyoRcUEZv6sbfsKotGi9I6eGiRvlMbe3KrbzTVtT/mq9s/XKtIiqcliPhHpjJBsyRI2QyGLxPHj8Wcd9Mx1TYKHoz8c0ZZUW+Dop8MR2HMzNqZWXcm+A6rrf7zn4uK+JXMkCVhv7VT1bSLOt+yOpRkJNt08up3ZxPFGKfWGs6y6UpZJpGZrZKzFppy7wIbVbuxk6aDF0NaU08TVTynobiYNZ+gv6wvhSXSgmucrvadMgIlWqCumgvcWLJ2rSJNWPGcSnshMBq2aa1oD3NBSTy79FifEWxmjDb4=;iFa/YGtZD+lQYt8bCvHrng=="
+secured: "AICT9CkJumxGjr6EPAb4Pg+Xu4QjHmB91y0XGFEBEXcA9aE3+KKrhruaFWsiio++es81m7XEvWoHgTgl4WEq0RmIrRSppPyz4mAg7gKyXaZP+j8LW1vBlb6u3QqIuabmfTNDEfvhpuPA1wCdErrPo6ST6Ki3GVem0v8WSM0JsPtxE2MQYJxO8UHYjEE6lzNJWmAq9i8PmaGKyS34XLHL/T6TjxhEcRqN6r8MtJPZGdrf/eMbkQ1XYDRciCPDmUdQN2WtsFIEkTXgJACT9BiJZsMzuEcJn1bhKwJlUAos87u6d0xJbqMP2YjxeQfKJe4D16bOUu8pMw7G+KJNFtW8/YKqh5IgtPD5pYHbV2YrUZ7Mq0n2SOxTBHTdK/TyY7Zn3yYCEM3g0MZqiGhsxqj6WT90+uICP/Cq27+XaZYEFy8=;Qykj6b8W/x1cja20k6UIJA=="
 ---
 

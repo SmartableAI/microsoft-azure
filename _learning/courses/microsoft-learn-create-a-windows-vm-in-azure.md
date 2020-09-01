@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 51 mins
 ratings:
-  count: 11957
-  average: 4.707117
-heat: 68
+  count: 11959
+  average: 4.707166
+heat: 70
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Create a Windows virtual machine in Azure"
 
-secured: "HE7jSIJ/NDX4IV3TXA/YsMJLSkZGu+DXbDxojL4cgMu+ks4rYnmxALEyH2YGWjWCT0lvP+GbJG0VS6oCNjb0+ocSh6tiF3E+zx/dx8qWAZt5Sk1+2al4Y03j8fALaBF/7y5b9gIg4uhsvEp51qRxwVLVWy4VHNmaoDdU8FnxkVFUe4r1+zA5psInDCiRHtn81stCKHGmGt13TPEjjXHxEOno5ZzMj8pf46b0OLulDTMt5VYCNtJJpKy8okYxjVa9tgR++en2/IJrXfrRWi+J2C/1kTFPHrN3mgNuntGe2W0NdEodUUO2srtRgl//Cp4aEHPQYQMibmOgPpuUhhhEADblxlEmLZC7E+V0TA1a+xkrQmW3X6qbtjTYs1OtMRwggDj0FlvDHM/XGoZvLSQK05Up1PNglWv+mwqvRjChaFsDI4KJXfMwJQb84VRB7Mgh;X/3iuQey9cguJGG57bGajA=="
+secured: "d/7yz2GRVpjGqv0OVxei8v78K3C2Cr1MF7xGlG40Y2eR3nOqyJYWoqleyB7dolZVZvpp21UdrUW9oD5rARobekqgrGbCrM0bVLUBOcWpXlmCMS/b0j0WwjcLpmCNdpJ4dWr3Xqq9tahamm+OqbNY2kZnZ5f7mu21gw08I2fXjP/BWids9qg+p3/jcvk9VvighTVW7hzMhWTloRuF2d+Qy7SgZoEapf2GLOGnQgVJaNaa+tN7LQEPK9T0XRzQITj9mjAP9JlUm4c3mwaiFwwe9blewVoT7YD4d82jZ9nx0KK3EGIH0VK0fpMuPRHuyTTXECZDhYKKvTJGqSGI7j92u0diRIM/n1+K/sJsJ9+d6YOLDhvt01IwoN7afzjIieL/5Gf2lcjah1lBeqC44019z1aR+gteRgbGmBnECwb1wdm6FusNtrZIFJeebm/K9gOL;8VTqs3JRFzcaNHDS5eesTg=="
 ---
 

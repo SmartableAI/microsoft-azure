@@ -8,7 +8,7 @@ length: 39 mins
 ratings:
   count: 155
   average: 4.729032
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Detect objects in images with the Custom Vision service"
 
-secured: "nPM9OEaElOfvbFiYhL6Ioy8C28wIQ9WHWBIhCCpIs8wiJXfik7HklgHO2FVdw9eVMQHmWAjoyN24X8L4Buws/xykHN6PSu2oAMYVcYNPbxthnF6fRYqZTeoU8OuIPeO6G6u5fjBqTShV5rpGE7iP6T4epKcmphgvib0lpu1wFbm2hqf0QSnvUPVgZM1Io3ccME7f1Hu2SxfmDQq0Nt0ZdExhMxNdBWc5Y3y+x9awDZhFieklh5BCMxZC4uxuF4JHqKp0mTHg7Bie8FWBure1EV/syTmjofvOMUnvvHtJLBb7bvK9CxSHC8hsYb4F87GThDdZXKEdR1vXZ3ywuR77CkRgE3Knr51sP/Vj83Z17eFmr+ilrL4qQ46EwYScr5KRpHbuFWXUm3t4mfGNUDAR2ysXk4+efOhl/eYNvM3baPw=;jErd69/25DJ+K80AWWXlUg=="
+secured: "l8yvzIDfnCaVo2BO1m7UyaYdfD5fb9ZMHbnfgdtCde70PR19OqNnEDGGOaQVzxlCy/6tXi7wvQ3fNAUFoObHgdm3W3nO3n1eblODDm1v3CbMDkuBcpR+MYhilvktrVaJJ8Fj9RjWWjXDyz3yLRpmUebIE8kT94S8m/StNGp3A40hllVCmZdOVLxFtdQ+sKyooATm0qqLapQXKyVM6zY3Vv/O0Xj31xEbVJ7AOGy3MJ9od4PfTW8SJZmSV6dBa+PREBwtUiUlF6na8/GusMcxL+ZeW+/lQRisv5cTxCRgEWNhg7XtJR2r6uc4pe+5NSz3FZEjK3SZaQrMrYX7u/fL/AQ8pIAJHpwmsPvqFBrVtxscIUJEDgEJFpoCXrWOBktfA40tZtxhN1VB6TREcPKL5L1jzSHxaADcEOESIBgYQuc=;XuT2LOQI2+T3f1M0tsMT5g=="
 ---
 

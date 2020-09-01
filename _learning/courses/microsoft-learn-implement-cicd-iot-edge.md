@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Implement CICD for IoT Edge"
 
-secured: "bPJ7EJCbsI0upoBw7se+kR5NfN2o10KUywGjaawylU5jDkjh/ieK6VkCNeM3oSFROpclxkVNTqh8+jGGpqLeD37i7BXpeZli0uRhXrfp5xxU+C+8e54iMDFLenD/sckDmHpai6xCyhQ2/A09WSVPc93ZBWoTtak1bvsguYHapg/pvrVOFy+KeFwXybtDMKWJ0sKd+Y5CeUYbKRGRgfIq+D1Cps8KNAaTstQ2TRPEHJuyLkr9b0kFFqlJUo1F5rrJMxPFYKC3Fx2zdxkjbisv7l9xjNc6iSY1vmI/T0YHhQkEuknZd20MhIPL5uf5hDmyoo8dfX00DnBiohL0LXQsah94iCBuS97hApyNT0ehtkM1Tx5HcuJHncb/qVfnpdYtEeyvITGLWU36zkk1X9MBlCx202xrtbY++TSSy+KcZdc=;/jl34b/r/pccs/r9fiAy7Q=="
+secured: "al2Wrp1ibeGdIuf+Yby0qlHtYLXKREp8TXSz0NGKlyOK9wzXCnscjgbCjKkvgU1ywRdy5B7YQaI21rejHk+mpgeyivrGIhx8ojwws0VVmOZHx5WuA/r56YbMhK5lX25h2+1StZMiHxMTbFGrebV5kwgT2FQ/fgssbtfLrCsjJ6zL1ezpcj+fTuTVYRnutdFQmqolJuBBvOrghcU+hHLSdlDkVNXfYD+z1224doeNAkQRIq8z34rNN2hNSelB7AECkV/0BZfX4+UJBPOvuli+Txqn/OYcb8lRA8qebcEvlqqYMaCVmiv/vqIZRiErl+H2SZWZaBJsSZC2SzSar+wxPFs2NN+hFsDsxTkrDgTU8EhLrwvQcf5ggi/UnKzQ4Qc+a4NBRvJzl059UOOQfpczm6RAkhxDepjPl3+V3GHgr0o=;CRKqO1AkYfzV/nZNjhsj1w=="
 ---
 

@@ -8,7 +8,7 @@ length: 49 mins
 ratings:
   count: 2235
   average: 4.604027
-heat: 52
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Build and store container images with Azure Container Registry"
 
-secured: "FRYwFQi8RFp5GS45C87lmSt6c3sY5f2UsFNKFr4H7BIj2ltRbZOJ4vj9MP8Vl4LCusWyq26J76HU6z68P2/Y2h7T5/+RdGeiPKOaydJ+IHacSLzYRhP9hGs3DPnch9iYDnp73gL8IZj24bYFdA6Fq4l6rjYU4neIXl0i2dEfZLmKQqSQiKwa8mdKHOXw/Qrny8e+lNqZSC0LE/ed1onpf4KdEqOaGz7ZsaJ3adke27iYMsvv+2GdGoZuV4IWAadpCSZjdqmmv+YUggTpr5ERL+/bk9C9fDXAS4E7PC2l8BgJrhBpwzOyDEbHYs1nSJq/PsWV2MLJeTPfZnbUUBNYJru0xjiUAtKDNANDQZrsRci7YsueoQzrZgRL4fJO0YJhAOinJfLraMRODQ8v6d+/6m3VynUaVaIOAp/7+uSwhtA=;pssLKIu40qTIko8PGqnOQQ=="
+secured: "5MQ4IzcPMalynNB64ytAf5X5CkxouGMLTFw41Vlyu3bwt+QwOgdK6TIvQyvoRMSMcoKijDuO1jcFpM/oHUi6qMuEGj26g2YhzLA2EMVhAb608ojdoavoXtK6CYYekUKGJYuwQcxVWLu5wbvOJDoIzQJBfMwiHKnWvG9ifB/e/2Yq4Z+z+8ne7BNDXsh2NKZJ7RqcLzYgKu7lt/ea21NrxQvegO9MDZ1N4bWybSwl+CGi0mG0mMmKiN5EUlweKmqREt+F4uLt1j2TfEYToekQNHp900s4GvhEuf30bh2u0mep++phTy5V/hob4RxabnwiyPASTiD9dJ0l5Z7RgtqIhKoD4wrWNXDr2KG0eiYt3CCPRqcQYjU+T7YnBWov/V50vqA2TxL2vQDA+TRwtOENNELA2+EfJEL4oAQjo6LHKqw=;1BS+qE+wusY9E6Un/jgEhw=="
 ---
 

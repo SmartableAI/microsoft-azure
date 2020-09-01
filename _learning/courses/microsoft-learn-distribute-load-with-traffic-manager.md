@@ -8,7 +8,7 @@ length: 29 mins
 ratings:
   count: 1872
   average: 4.5267096
-heat: 57
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Enhance your service availability and data locality by using Azure Traffic Manager"
 
-secured: "5dp0Qs3uDiYdUXi9DUCxvf21ROMt1vTAKbe9zueKoSZ2RCiQcJogaUxLyZidyq15oo+8GpJDQYb2BALwFhPB1sWMI0/cPUcfRqIBnJrL14o4tKUw83Q0f6FQImTY/Ad5kFTL00aHSaw6iUjY5Z6srxSoA368FV/KVrJkf1U+yTtjTEmNsQKiTqbvPlN52OZiD8TG6NPk60PKyxHZ0plRQUiPBj8yjzxuzMz2yroIjhk6Nzwt0xbXxcpKDXtTE1DsgaUb835pHcZ3MqpNzUScMwKamWkuvxxQOo62K6afXpbzgevLxurqwwIY+z5eEnmj1AtvGaB06w5T1sKlov6hsq1gtzPZ9KmUYRWPlcBat43kIlFgc80pzHfSpRJDxRj9QJVZDdPExNfbJ4FaKO8tccgtR5QxSWeN/Gwq3TEg3Ec=;apGJO/XZtPnh5vRBMSFkOw=="
+secured: "qKCvsLtTI7Z3MOjmmUKctgpxuuC9rzov7Uan7seDChEQ80eCD8ONs3e0EGU80/fGpdVlLuGdYOgQZnz7ryF8F4tFGqi6QQBkZzfkny4ixcwwNp14+w739Qq48pkkfHlfbqquSTnhX06WvhEdV8tGV/BVph6lcS1leNmVkR2YIDB1h706EFmqcsRB6APXTMDm7kLO/C36EgyX1/N7J8+w+TTThLLi2i6/xydUyCLPd2WwBcRvRBqp5bNxmcuVuS1XBlRO1neIY/gm4f5Omj8eWdncejmqY4Dl2l+6TVSZypDfVdS6YZ9mkEz1tG42q2l5oZDU3tZ0WxgBwhXA33N9f0oUecvqwY73YwpGeNXv/dwVJjeX90xt6m8hGpNYIzDOaZRYpglU57MyGKwv+dvfwvLRnz7MTy8l1BhurC75Sf0=;f5yccOq/xaZkmzkEUDjFng=="
 ---
 
