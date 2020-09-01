@@ -21,34 +21,24 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Monitor Community Repository is now available"
-    excerpt: "Today we're launching the Azure Monitor Community Repository, which provides a collaborative space for community members to share and explore Azure Monitor artifacts such as queries [KQL], workbooks and alerts."
-    publishedDateTime: 2020-07-30T17:00:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-community-repository-is-now-available-2/"
+  - title: "Azure Private Link support in Azure Data Factory now available"
+    excerpt: "Azure Data Factory (ADF) now supports Azure Private Link. "
+    publishedDateTime: 2020-08-31T22:00:31Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-support-in-azure-data-factory-now-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 37
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/95c103a6-ea66-448a-9cfd-b36191a0ccbc.png"
-        width: 1028
-        height: 575
-        isCached: true
-  - title: "A new Power BI component for React is now available"
-    excerpt: "A new Power BI component is now available for easier integration with React, a popular open-source JavaScript library for building user interfaces. "
-    publishedDateTime: 2020-07-27T20:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-react-power-bi/"
+    quality: 67
+  - title: "Azure Relay—Azure Private Link support for sender clients is now available in preview"
+    excerpt: ""
+    publishedDateTime: 2020-05-18T21:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-relay-private-link-support-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 22
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/8b48b085-0d0a-43b2-a856-ce5947f0938c.gif"
-        width: 1920
-        height: 970
-        isCached: true
+    quality: 10
 
 secured: "gnUc7Xz+oQtPYOFfnAs+FUPQwcK1l1xumD7Y00DSeVX7cUl2ESgHiLi2jS2XV21eOsuFYd6Mv4WaZIoj51xYAWWaDbASU9ssrYUOAQgvkEPkOj/a109Y6ZQymEsHoTEpucV8lXdSWK21/Ai9TB++tRCN2/V2nN9szTYYvTEswfWgm4idpnG999SDk6SiL0ETW/RzIRsO5erJM/m6NydscfKqidgXJOQfcVOwy1dZT38P7MsD8OQ96lrJd3DrvNRH3FgKk+TCdtCVrQ4qQ8LjFnLg1fIPdWcrfkf6ixAdpQqkuoXybt376OaV+nrEfjWbdAlW5fXTq6YnTvFAkj9TGA==;K/cUHmZi6KGh48KpNk2MLg=="
 ---

@@ -21,15 +21,6 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Relay—Azure Private Link support for sender clients is now available in preview"
-    excerpt: ""
-    publishedDateTime: 2020-05-18T21:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-relay-private-link-support-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 10
   - title: "Private Link is now available on Event Grid"
     excerpt: ""
     publishedDateTime: 2020-05-13T16:00:54Z

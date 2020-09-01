@@ -41,15 +41,6 @@ related:
         width: 1028
         height: 575
         isCached: true
-  - title: "Azure Private Link for Azure Monitor is now available"
-    excerpt: ""
-    publishedDateTime: 2020-05-22T22:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/private-link-azure-monitor-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
 
 secured: "t9SmWclZHarEODKQrR/rZ8vFIiJ/e7cWrO0tvFUNxbqCCxUWnWR3CNqKt7uVrFpHKBhGLlQXP3rFHJM7HQtmYcmUq1/cbH7Ji/a6GpI5cHlWIPMjztKO636wW+YtNlb/pb23aGy2xbj1QhQqiVBEMawfMnIfESVoFHmjZNzOKfmBQ1+hzOEZwSMSBULrDEqYFOD+rg1s6lQkJSfmykVvBchAdpvwhgqb3oDrKt9GxVihq7rF8TVeYiHpYLg0eA2c9hlJEHyyg9V9q3ddPzwiDdVJVVVNFawieGQitxbExKwdkdWsgY/f3qodVWIlL5Vp01fpdUrirEM0X/p/TcL/4w==;fGBA9B+K1wFvXIn05b1BdA=="
 ---
