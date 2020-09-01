@@ -113,6 +113,15 @@ related:
       name: Proactive Investors
       domain: proactiveinvestors.co.uk
     quality: 31
+  - title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
+    excerpt: "They will bring those workflows into Microsoft Azure and ensure Universal's ecosystem of partners can connect to them in open, standards-based ways. This partnership will also enable the ..."
+    publishedDateTime: 2020-08-21T11:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 28
   - title: "Universal & Microsoft Azure Team To Accelerate Live-Action & Animation Productions"
     excerpt: "Universal Filmed Entertainment Group and Microsoft Corp. have formed a strategic partnership to cloud-optimize live-action and animation productions. The team-up will streamline workflows, and enable frictionless remote collaboration and content creation though a cloud-based production workflow,"
     publishedDateTime: 2020-08-23T12:35:00Z
@@ -122,20 +131,6 @@ related:
       name: IMDb
       domain: imdb.com
     quality: 11
-  - title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
-    excerpt: "Universal Filmed Entertainment Group and Microsoft Corp. on Friday announced a strategic partnership to cloud-optimize live-action"
-    publishedDateTime: 2020-08-21T15:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-301116222.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 8
-    images:
-      - url: "https://mma.prnewswire.com/media/24227/microsoft_corp_logo226_9217jpg.jpg?p=facebook"
-        width: 2695
-        height: 1414
-        isCached: true
 
 secured: "yaaxvaV347ymeHtmJ7FZqtKFEEoSY5qPsDJpZzHSyUjH8ztMeXaZoBmUF2EaaBpek40QyH4r9SO6EZidfuc39U72CYcq8vQ80178oweMb6M/lGN3c2s1y1vGU/TyPYf/WYahWNrYzO1PDtCiMF8CFVnRDtUOjYgdQzup+ddZiWC/QGFw+BA82MJVsDupA8tHG8uFiczlHvWGlzX/xMUpJLCDY9nEu0UcaHXAEEUutGpGLT9p+9dmJ7aI35MhmU1tJTiL882cJCSNgMZUr61u2i3MER8rF93lxa1jIKIPpPcOjuKmb7qDlCpBYjOxASNzNBB9GPdZaUAFPl+jSdewDdJQta4Pi2H2uQiGyAbyyiUJKODYJ4dzebWbO8NJIs06TOthO3wljGTL8GduBl5yhpq1JGA4ggLMaDceR+a83zWUvajMiG2juDx4dOiRZGGRiNak58Ek8Q9l5NNPT4OBzk1insRCeene/ej5+zD8N6Qs/YEHIEnh4mBWhr2/kI2nqhybstkHPi99WeMfrZOg6r4sQmahgZJqLOr48F1VuLI=;TMsmcTit+SrOsxht4F2Y5A=="
 ---

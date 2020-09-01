@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
-excerpt: "Universal Filmed Entertainment Group and Microsoft Corp. on Friday announced a strategic partnership to cloud-optimize live-action"
-publishedDateTime: 2020-08-21T15:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-301116222.html"
-webUrl: "https://www.prnewswire.com/news-releases/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-301116222.html"
+excerpt: "They will bring those workflows into Microsoft Azure and ensure Universal's ecosystem of partners can connect to them in open, standards-based ways. This partnership will also enable the ..."
+publishedDateTime: 2020-08-21T11:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to"
+webUrl: "https://www.nasdaq.com/press-release/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to"
 type: article
-quality: 8
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/24227/microsoft_corp_logo226_9217jpg.jpg?p=facebook"
-    width: 2695
-    height: 1414
-    isCached: true
 
 related:
   - title: "Trend Micro Announces Cloud Solution to Strengthen Misconfiguration Protection for Microsoft Azure"
@@ -137,6 +131,6 @@ related:
       domain: imdb.com
     quality: 11
 
-secured: "KbuGm2WVlFiiM5G9O74CQ8MvdQpqYqz5NPezsMqEHJgjKXOUnPlN40meI4qonfa4V4JuCsiVYw9LLNAjDmBD/wgqPPSorB5Veou4Zr+vsyA9tZTdrPXkKv9Z9H6gjbXuYVdGqqddvwUHOf7TptEj1oGTHff2YfbUqLxpVcDW08JXsN+evX5XLNJ/qhK8uIK5xMpRoqBE7YwdK+yAb+G53HQvdlYCZvtecf79SWhdiAsdgotoAgY3Mj++b+5yr9m6dm/PA8J1PDR5EUMb+nD2dUJLYXNsYVjkKzuO1J/ELovFq9otxNhkRDWdFI3+zhNNhzde3KJLKg8ryTAI5SCs2EGJfOWKVGPTM9Lw/wsguH4UrJaIoDhlZBE6wvGSI10MwfWn5r8rV3S04VZT8GDMYtojmGLAoYqcHlHUasc3y7Zpa/tdom06IP7WXcoq5GlUHBXx0dfhQEVVDcYBk/+iBJmVHgSWZW7jnp6btb3cu1gzQp44RWwpqGR8MtV3vZ0DTPqnbHU6PY5VwACZTj4SUOolvAU5ob+pZbgj58MZWFo=;M/oDleBQHrprWIeTwEu/LQ=="
+secured: "eULt/NPWQMNqcwI8zgNdugUkBgINJ14yUK0DN3GVKz3Kq4G5NM9axNymf+0GyF8Pp7I0EdU1so4SuChwupRV+A54bsY37N4WLkTw2NitJhPfJ8qKL4aWjMOkBU9gJg504gK675jVpQcY2EwZ+1eku9di5wOP1bgQ6yYdxpnjO68JoY/AGkCrwbhSVvz/KsqJ1T4oFZ6GacJFVwNxuQpasqQSQ07ncG/zNJb9HdzF00IUJgh2Jph+xBK7eGaYybsbGZ6uWGoo22hCBgcpP/QUIy/VpeOGO4LXZeudPxwbkElmVluz6fUcD0eJLzUOzxeH31yBt004REZGt07w19YCcSXSucWToDAGfIqt7vRZwTw=;0dQBHw2BohZJqktID2XVgQ=="
 ---
 

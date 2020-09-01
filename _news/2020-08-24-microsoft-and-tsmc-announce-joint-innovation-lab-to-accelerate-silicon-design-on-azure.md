@@ -116,6 +116,15 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
+    excerpt: "They will bring those workflows into Microsoft Azure and ensure Universal's ecosystem of partners can connect to them in open, standards-based ways. This partnership will also enable the ..."
+    publishedDateTime: 2020-08-21T11:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 28
   - title: "Universal & Microsoft Azure Team To Accelerate Live-Action & Animation Productions"
     excerpt: "Universal Filmed Entertainment Group and Microsoft Corp. have formed a strategic partnership to cloud-optimize live-action and animation productions. The team-up will streamline workflows, and enable frictionless remote collaboration and content creation though a cloud-based production workflow,"
     publishedDateTime: 2020-08-23T12:35:00Z
@@ -125,20 +134,6 @@ related:
       name: IMDb
       domain: imdb.com
     quality: 11
-  - title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
-    excerpt: "Universal Filmed Entertainment Group and Microsoft Corp. on Friday announced a strategic partnership to cloud-optimize live-action"
-    publishedDateTime: 2020-08-21T15:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-301116222.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 8
-    images:
-      - url: "https://mma.prnewswire.com/media/24227/microsoft_corp_logo226_9217jpg.jpg?p=facebook"
-        width: 2695
-        height: 1414
-        isCached: true
 
 secured: "PUGHClUZEBn/lbbtV2KZdXhVbGcQk9pjCPO32f9upmzDDy3TBVgnGp83uOo9iE0GUBGizMYtxqo258bZePsxF1vSNT1iWY3unnvxqS6/AJ+gM9gFZ/B2QBkIx1+4xQIKU2TpuG69kGTkIcq4TlYFJKaK3dvKmHnY4nrWR3r3jWo7kK7k6bM8gmxGZCkUkYPpa66crI2pqsOP0gp2T/AQKG5XnL13cXgcBNvYN5v9xFWQXsn+kvzUEVaM1l6SowKbVlCPp7OJcwqrVqQiBEw+8zkaqUHsNiNKvGUN+Tj2IrXJFNOqc7LVqqacKTdZBkxAtXDI1OUKokFoXclME6dyMA==;sg2VVBvM3cI6tTs44YOhHg=="
 ---
