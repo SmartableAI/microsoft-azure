@@ -1,29 +1,40 @@
 ---
 category: news
-title: "Trend Micro Announces Cloud Solution to Strengthen Misconfiguration Protection for Microsoft Azure"
-excerpt: "PRNewswire/ -- Trend Micro Incorporated (TYO: 4704; TSE: 4704), a global leader in cloud security, today announced its"
-publishedDateTime: 2020-08-26T01:46:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/trend-micro-announces-cloud-solution-to-strengthen-misconfiguration-protection-for-microsoft-azure-1029533684"
-webUrl: "https://markets.businessinsider.com/news/stocks/trend-micro-announces-cloud-solution-to-strengthen-misconfiguration-protection-for-microsoft-azure-1029533684"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/trend-micro-announces-cloud-solution-to-strengthen-misconfiguration-protection-for-microsoft-azure-1029533684"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/trend-micro-announces-cloud-solution-to-strengthen-misconfiguration-protection-for-microsoft-azure-1029533684"
+title: "DH2i Announces Support for Microsoft Azure Shared Disks and New Azure Disk Storage Enhancements"
+excerpt: "PRNewswire/ -- DH2i®, the leading provider of multi-platform Software Defined Perimeter (SDP) and Smart Availability™ software, today announced"
+publishedDateTime: 2020-09-01T13:15:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/dh2i-announces-support-for-microsoft-azure-shared-disks-and-new-azure-disk-storage-enhancements-301121956.html"
+webUrl: "https://www.prnewswire.com/news-releases/dh2i-announces-support-for-microsoft-azure-shared-disks-and-new-azure-disk-storage-enhancements-301121956.html"
 type: article
-quality: 63
-heat: 263
-published: true
+quality: 25
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
+images:
+  - url: "https://mma.prnewswire.com/media/324010/dh2i_logo.jpg?p=facebook"
+    width: 1400
+    height: 732
+    isCached: true
+
 related:
+  - title: "Trend Micro Announces Cloud Solution to Strengthen Misconfiguration Protection for Microsoft Azure"
+    excerpt: "PRNewswire/ -- Trend Micro Incorporated (TYO: 4704; TSE: 4704), a global leader in cloud security, today announced its"
+    publishedDateTime: 2020-08-26T01:46:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/trend-micro-announces-cloud-solution-to-strengthen-misconfiguration-protection-for-microsoft-azure-1029533684"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/trend-micro-announces-cloud-solution-to-strengthen-misconfiguration-protection-for-microsoft-azure-1029533684"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/trend-micro-announces-cloud-solution-to-strengthen-misconfiguration-protection-for-microsoft-azure-1029533684"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
   - title: "Microsoft and TSMC announce Joint Innovation Lab to accelerate silicon design on Azure"
     excerpt: "Right now, every industry and every customer is going through a massive transformation, and cloud computing is often a central enabler of this."
     publishedDateTime: 2020-08-24T14:00:18Z
@@ -125,20 +136,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 28
-  - title: "DH2i Announces Support for Microsoft Azure Shared Disks and New Azure Disk Storage Enhancements"
-    excerpt: "PRNewswire/ -- DH2i®, the leading provider of multi-platform Software Defined Perimeter (SDP) and Smart Availability™ software, today announced"
-    publishedDateTime: 2020-09-01T13:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/dh2i-announces-support-for-microsoft-azure-shared-disks-and-new-azure-disk-storage-enhancements-301121956.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 25
-    images:
-      - url: "https://mma.prnewswire.com/media/324010/dh2i_logo.jpg?p=facebook"
-        width: 1400
-        height: 732
-        isCached: true
   - title: "Universal & Microsoft Azure Team To Accelerate Live-Action & Animation Productions"
     excerpt: "Universal Filmed Entertainment Group and Microsoft Corp. have formed a strategic partnership to cloud-optimize live-action and animation productions. The team-up will streamline workflows, and enable frictionless remote collaboration and content creation though a cloud-based production workflow,"
     publishedDateTime: 2020-08-23T12:35:00Z
@@ -149,6 +146,6 @@ related:
       domain: imdb.com
     quality: 11
 
-secured: "OBVJE/9o1fy394ixuFVI58hSH42ZbtEmRlYA8TB+tIAUnCUrTbURVzOXSDR9P31PW0m3/9dsZ0MOzE5Q+dPE9LRKZXTXObRYtmKXtoiUOQusecg2Kg1YTYmy3WZTc9W9E1VQ2j8nZbd86IrDpkPA70bogRTtwY41g0wD3Af3CuuHqlhlzfMGEm7BXut+OAd7oH4/pW0GmEr7iZ4J+W35qVRuEB8s0CGT44HzN1/6YkNySjO5lhlSmCKvWO5qP158LrBznu/WXO6ZwC0WZ0MFTxB1KPoBUSWjbThuKRO3Fmgpa0RfEuIJax3Ht+PiPNU2ZM4kF4F+BFq4lIdhDh8faQ==;TqE8RK+MJghJ4uI4zjlxTg=="
+secured: "UiHlDIztgIxsBUQaMnIzuC4IfOsAscK0fOj3Mj6yl27EDnpS4ewYDn+AchYG497AScMdUexwkbbx3yR1ha7aLZ3T4p8zHiSsnT9X0ovKGuD3zOlzo9dSEOXLCAoVEjVequTrJxJBFKsAY7r7o+xHwXh9juAy8BA2GmZXyjCtlp5T9wg0D+vgFD5BbqxzXGIQ5CE/2Nsqii3b1KZ3UolKgUELnqkHPBt7rYdbk4xcuYiCd12vT2HNBF74s9xjpqkAF0QkZRRyOsflaTSk1msmLnAkJPX+E0Rm7KopJLMPrxKWtQ80rV1xO3wDAxxLQ6lnJcsrxk5U+4y7aNVF2EF19rA7jyQ7Gvv2DQ3nrDxgilg=;ZW8V2DpDHUeg5tNOkGw0HQ=="
 ---
 

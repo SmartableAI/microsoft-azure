@@ -1,23 +1,27 @@
 ---
 category: news
-title: "Mimecast Email Security for Azure Sentinel now available in the Microsoft Azure Marketplace"
-excerpt: "Mimecast Limited, a leading email security and cyber resilience company, has announced the availability of Mimecast Email Security for Azure Sentinel in the Microsoft Azure Marketplace ..."
-publishedDateTime: 2020-08-20T10:34:00Z
-originalUrl: "https://mybroadband.co.za/news/industrynews/364426-mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace.html"
-webUrl: "https://mybroadband.co.za/news/industrynews/364426-mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace.html"
-ampWebUrl: "https://mybroadband.co.za/news/industrynews/364426-mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace.html/amp"
-cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/364426-mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace.html/amp"
+title: "AmploFly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
+excerpt: "PRNewswire/ -- Amplo Global Inc announced today that its AI-powered platform is now available on the MicrosoftAppSource and Microsoft Azure Marketplace - their online stores"
+publishedDateTime: 2020-08-21T21:50:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace/article_0e6a799a-8c12-50f5-9d88-c1b0d7081ff9.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace/article_0e6a799a-8c12-50f5-9d88-c1b0d7081ff9.html"
 type: article
-quality: 27
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: MyBroadband
-  domain: mybroadband.co.za
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/cb/3cbcd9fb-ef6c-5b03-a63d-3d4936dac151/5f404454416a5.image.jpg?resize=400%2C209"
+    width: 400
+    height: 209
+    isCached: true
 
 related:
   - title: "AmploFly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
@@ -199,20 +203,6 @@ related:
         width: 1198
         height: 628
         isCached: true
-  - title: "AmploFly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
-    excerpt: "PRNewswire/ -- Amplo Global Inc announced today that its AI-powered platform is now available on the MicrosoftAppSource and Microsoft Azure Marketplace - their online stores"
-    publishedDateTime: 2020-08-21T21:50:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace/article_0e6a799a-8c12-50f5-9d88-c1b0d7081ff9.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/cb/3cbcd9fb-ef6c-5b03-a63d-3d4936dac151/5f404454416a5.image.jpg?resize=400%2C209"
-        width: 400
-        height: 209
-        isCached: true
   - title: "Call Journey Now Available in Microsoft Azure Marketplace and App Source"
     excerpt: "Microsoft customers can now gain access to Call Journey's AI-powered Conversation Analytics technology to drive customer experience, enhance employee engagement,"
     publishedDateTime: 2020-08-31T23:00:00Z
@@ -294,6 +284,17 @@ related:
         width: 320
         height: 220
         isCached: true
+  - title: "Mimecast Email Security for Azure Sentinel now available in the Microsoft Azure Marketplace"
+    excerpt: "Mimecast Limited, a leading email security and cyber resilience company, has announced the availability of Mimecast Email Security for Azure Sentinel in the Microsoft Azure Marketplace ..."
+    publishedDateTime: 2020-08-20T10:34:00Z
+    webUrl: "https://mybroadband.co.za/news/industrynews/364426-mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace.html"
+    ampWebUrl: "https://mybroadband.co.za/news/industrynews/364426-mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/364426-mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 27
   - title: "Mimecast® Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
     excerpt: "(GLOBE NEWSWIRE) -- Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure Marketplace,"
     publishedDateTime: 2020-08-17T09:30:00Z
@@ -338,6 +339,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "mTziDh2lbNAN5LN7Oysz4RJtve0a3ztikgIbVSC7Fe605qmsue1ARbW+z6caRRJDHphlxrvLX0fD4dC+409woBqKgN6SKjELrnpZGnG3w5paPk89qcuWt5cVGfPYmy3tL+vRjFrcTdq7WsKR5Iob52anQFCa7HXIBqdWmpucK3vkjq2v2OTAXPWaX1KnjzeITphwsoOgNkIEtR2ILLIPBtXW25v4jAS9uzuUAO7R45hI+Ak+zfZA0J9pHprzHXk+540JV/F7Dbb0+2rCfqT1c0vCpKGUF7j3Ae0w41GybVgvOHkgqXbHMvO9d8LIc8CNsg8FoaWG0tHZw2mZQ3jrI9jBqDDHMQv2UnIuCmVtW+4=;lYrKgCdxqIrY60mqsWU1MQ=="
+secured: "ID7nMRnw1Kfik5AGC1bkvLEB0cVcXCFfDT/QRMtQNRDJ4LxbTD5RNqAispbIKHc30R0Fuv5/WwFi40HFrEpO92FXbnxpw5j12fwTmN9jGfDbTqkghl3zxxTYBjXDeBeU3zwVJ/0A5RIq30WnwfP6k3GYh3Zytxua19A9Jfd1QY60iPX0DaRMQ1fBeiuT20CqHoc1L63faZqM6vMYpdU9Q+wDZpO5WbpWFZow562LkuqCQwgRuHBp0jJGP7PvxUJ7Tg8OkUqzX/JAta7gJq2vrbq9Spq6sgaXXwg/KiAwF+bWQhnsNGSfqz+9rg2wnvZuaow0f6lACsoN3+73KYH5Q8guwhsOvk5RTvwNPmTbMOE=;H08mvZ2IGmfAqTykJwzDeg=="
 ---
 

@@ -129,6 +129,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 28
+  - title: "DH2i Announces Support for Microsoft Azure Shared Disks and New Azure Disk Storage Enhancements"
+    excerpt: "PRNewswire/ -- DH2i®, the leading provider of multi-platform Software Defined Perimeter (SDP) and Smart Availability™ software, today announced"
+    publishedDateTime: 2020-09-01T13:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/dh2i-announces-support-for-microsoft-azure-shared-disks-and-new-azure-disk-storage-enhancements-301121956.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
+    images:
+      - url: "https://mma.prnewswire.com/media/324010/dh2i_logo.jpg?p=facebook"
+        width: 1400
+        height: 732
+        isCached: true
 
 secured: "tR/ywCOthRmDTkCLTVl9SjKnFnlfi40B1MBMgmLUrWcEu5RyKBryd4nPg68h3ozGzy1wENVVDxj7Kh1GV4vJj6ZvV2ZVe07kPJ8nwoENibIRKzPXpXXuGHrCZvkscy620muLGSI8hmYaBdL83LMalhVO3mMTkQ5Cw9QNpsVu5qSVg896Qt2tBBhHjepM9zM25bH1IjiYbUi4R+X7qiM9APqQgLjH7N/mfl2p7AditI9IuNCb2Rydc2LuU6868absaD4YWuuxdbL9Q1Pw3gf7tkROi0laKLw5R68J3DHQ5fl3etwXSRinIY/9/AbW2GrUAks6hJWfAOOxA1Xz4cbzXZcq/F+t5KzDuX/82UJRyrNWCDcqSJQpp6RAHtWQ38rLVArkK4C5Io8QkdcHAfFcFo44chl7vvnK2nrKSp7rLbsSoQQUVM9caCW74h3Liko0jXclCDajloUYumFaSprRTeilGQrTOpK1T4uQb3cATuNnUsKbzqV3/o+IyBJBH4sD;bOgxjDDK4Agk+kQQuJd7NA=="
 ---
