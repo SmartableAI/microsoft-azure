@@ -4,7 +4,7 @@ excerpt: "Implement SQL Server-based options for authentication and authorizatio
 type: collection
 price: Free
 length: PT1H6M
-heat: 50
+heat: 53
 
 provider:
   name: Microsoft Learn
