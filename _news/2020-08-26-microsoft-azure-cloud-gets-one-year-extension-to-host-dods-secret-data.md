@@ -23,6 +23,22 @@ images:
     height: 270
     isCached: true
 
+related:
+  - title: "Microsoft launches Azure Spring Cloud to simplify enterprise software projects"
+    excerpt: "Microsoft Corp. today announced the general availability of Azure Spring Cloud, a managed service designed to reduce the amount of work involved in building and maintaining enterprise applications on its cloud platform."
+    publishedDateTime: 2020-09-02T18:11:00Z
+    webUrl: "https://siliconangle.com/2020/09/02/microsoft-launches-azure-spring-cloud-simplify-enterprise-software-projects/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/microsoft2-1-1.png"
+        width: 718
+        height: 400
+        isCached: true
+
 secured: "Y41kHtOkT1zaI5T4FCePvikx2doyZUpuBG91J6uvCKrvLA+78bp3I3IuMJi7IskZBpBL8L0btKvyxJcjBf4dojKjz6k0FH5QJQMYl4T03B1hhk+xOr75XgytH7mfLGi4ZGbgqQTxUzfq0Ck3APklLhoqjIWZA0uDKV2Q5gfaiuiwtBpHgUwJjJNfo4z6LYpGrEigLRqHFVbATtd+8YxNdGALWEfZQVxuKFsutqwt9sjyitjwRxFhYewzeAArWgx5e6MBYLv8LErNSX0qTNxvg0QbXfejVbw/Js+heD0f31gJ/WH405faNllWVUsV+h83iDyRIw9GDSlbzO5iXiVGvjc6IUfEr5lSHQUHQpkVCqE=;2oPJu3ZFYcAiv9nNLf8qqQ=="
 ---
 
