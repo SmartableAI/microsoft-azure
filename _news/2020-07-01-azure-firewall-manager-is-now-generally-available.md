@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Connector for AWS in Azure Cost Management + Billing is now generally available"
+    excerpt: "The connector for AWS that helps you manage Azure and AWS costs from a single location is now generally available."
+    publishedDateTime: 2020-09-02T08:00:01Z
+    webUrl: "https://azure.microsoft.com/blog/connector-for-aws-in-azure-cost-management-billing-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 83
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8a7ddc8c-ab40-4eb0-8979-ec73c6098015.png"
+        width: 640
+        height: 364
+        isCached: true
   - title: "Azure Spring Cloud: a fully managed service for Spring Boot apps is now generally available"
     excerpt: "Azure Spring Cloud is a fully managed service for Spring Boot apps, that lets you focus on building the apps that run your business without the hassle of managing infrastructure."
     publishedDateTime: 2020-09-02T06:00:00Z
@@ -50,15 +64,24 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Support to assess physical, AWS, GCP servers now generally available"
-    excerpt: "The assessments offer Azure suitability analysis, migration cost planning and performance-based rightsizing."
-    publishedDateTime: 2020-08-25T17:00:07Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/support-to-assess-physical-aws-gcp-servers-now-generally-available/"
+  - title: "Visualize and Manage your AWS costs in Azure Cost Management"
+    excerpt: "Connector for AWS in Azure Cost Management is now Generally Available."
+    publishedDateTime: 2020-09-01T16:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/visualize-and-manage-your-aws-costs-in-azure-cost-management/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 52
+    quality: 67
+  - title: "New Azure VMs for general purpose and memory intensive workloads now available"
+    excerpt: "The new D v4 and E v4 series Azure Virtual Machines feature the Intel Xeon Platinum 8272CL custom processor, can achieve up to 3.4Ghz all core turbo frequency, and offer up to 504 GiB of RAM. "
+    publishedDateTime: 2020-09-01T16:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-vms-for-general-purpose-and-memory-intensive-workloads-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 63
   - title: "Immersive Reader is now generally available"
     excerpt: "Immersive Reader is an Azure Cognitive Service for developers who want to embed inclusive capabilities into their apps for enhancing text reading and comprehension for users regardless of age or ability. "
     publishedDateTime: 2020-08-27T00:35:27Z
@@ -77,10 +100,10 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 47
-  - title: "Azure App Service—.NET Core 3.1 is now generally available"
+  - title: "Azure Monitor for virtual machines is now generally available"
     excerpt: ""
-    publishedDateTime: 2020-04-23T16:00:29Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-app-service-net-core-31-ga-on-app-service/"
+    publishedDateTime: 2020-04-15T16:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-for-virtual-machines-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft

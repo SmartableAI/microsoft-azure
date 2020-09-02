@@ -21,51 +21,102 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Virtual Machines DCsv2-series is now available in West US 2"
-    excerpt: "Confidential computing DCsv2-series virtual machines (VMs) are now available in East US, Canada Central, UK South, West Europe, and West US 2."
-    publishedDateTime: 2020-08-14T03:11:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-confidential-computing-available-in-west-us2/"
+  - title: "Connector for AWS in Azure Cost Management + Billing is now generally available"
+    excerpt: "The connector for AWS that helps you manage Azure and AWS costs from a single location is now generally available."
+    publishedDateTime: 2020-09-02T08:00:01Z
+    webUrl: "https://azure.microsoft.com/blog/connector-for-aws-in-azure-cost-management-billing-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 83
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8a7ddc8c-ab40-4eb0-8979-ec73c6098015.png"
+        width: 640
+        height: 364
+        isCached: true
+  - title: "Azure Spring Cloud: a fully managed service for Spring Boot apps is now generally available"
+    excerpt: "Azure Spring Cloud is a fully managed service for Spring Boot apps, that lets you focus on building the apps that run your business without the hassle of managing infrastructure."
+    publishedDateTime: 2020-09-02T06:00:00Z
+    webUrl: "https://azure.microsoft.com/blog/azure-spring-cloud-a-fully-managed-service-for-spring-boot-apps-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/816ab479-5c10-48ba-8084-c7816d2b6f1b.jpg"
+        width: 1024
+        height: 737
+        isCached: true
+  - title: "Azure Blob versioning is now general available "
+    excerpt: "Azure storage strives to protect your business critial data from any accident or attack. We are excited to announce the general availability of  Azure Blob versioning. "
+    publishedDateTime: 2020-08-31T20:00:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-versioning-is-now-general-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Virtual Machines DCsv2-series are now available in Canada East"
-    excerpt: "Confidential computing DCsv2-series virtual machines (VMs) are now available in East US, Canada Central, Canada East, UK South, West Europe, and West US 2."
-    publishedDateTime: 2020-08-24T17:05:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-confidential-computing-available-in-canada-east/"
+  - title: "Visualize and Manage your AWS costs in Azure Cost Management"
+    excerpt: "Connector for AWS in Azure Cost Management is now Generally Available."
+    publishedDateTime: 2020-09-01T16:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/visualize-and-manage-your-aws-costs-in-azure-cost-management/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Virtual Machines DCsv2-series is now available in West Europe"
-    excerpt: "Confidential computing DCsv2-series virtual machines (VMs) are now available in East US, Canada Central, UK South, and West Europe."
-    publishedDateTime: 2020-06-22T16:00:41Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-confidential-computing-available-in-west-europe/"
+  - title: "New Azure VMs for general purpose and memory intensive workloads now available"
+    excerpt: "The new D v4 and E v4 series Azure Virtual Machines feature the Intel Xeon Platinum 8272CL custom processor, can achieve up to 3.4Ghz all core turbo frequency, and offer up to 504 GiB of RAM. "
+    publishedDateTime: 2020-09-01T16:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-vms-for-general-purpose-and-memory-intensive-workloads-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 63
+  - title: "Immersive Reader is now generally available"
+    excerpt: "Immersive Reader is an Azure Cognitive Service for developers who want to embed inclusive capabilities into their apps for enhancing text reading and comprehension for users regardless of age or ability. "
+    publishedDateTime: 2020-08-27T00:35:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/immersive-reader-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "Manage your Azure & Amazon Web Services (AWS) spending in a single location with Azure Cost Management +Billing"
+    excerpt: "An Azure Cost Management + Billing connector for AWS is now generally available. "
+    publishedDateTime: 2020-09-01T17:16:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/manage-your-azure-amazon-web-services-aws-spending-in-a-single-location-with-azure-cost-management-billing/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 47
+  - title: "Azure Firewall Manager is now generally available"
+    excerpt: "Azure Firewall Manager is now generally available, and includes Azure Firewall Policy, Azure Firewall in a Virtual WAN Hub (Secure Virtual Hub), and Hub Virtual Network."
+    publishedDateTime: 2020-07-01T08:00:06Z
+    webUrl: "https://azure.microsoft.com/blog/azure-firewall-manager-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/48d05065-53c7-4758-8091-6b72d3df73d0.png"
+        width: 1024
+        height: 367
+        isCached: true
+  - title: "Azure SQL Managed Instance management pack is now generally available"
+    excerpt: "System Center Operations Manager (SCOM) management pack for Azure SQL Managed Instance is now generally available."
+    publishedDateTime: 2020-07-15T23:00:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-managed-instance-management-pack-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Selective disks backup for Azure Virtual Machine is in public preview"
-    excerpt: "Optimize your costs and enjoy faster backup and restore operations by selectively backing up a subset of the data disks in a VM."
-    publishedDateTime: 2020-08-06T18:00:12Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/selective-disks-backup-for-azure-virtual-machine-is-in-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "New DCsv2-series virtual machines are now available"
-    excerpt: ""
-    publishedDateTime: 2020-04-27T19:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-dcsv2series-virtual-machines-are-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 2
 
 secured: "ABRicviYTpivJVZoYf6B2vmL2xQJUTQujexmyjUD5w6Gzh1/mU5rCjjs9LHhqVxAZfw1QEAGC9esGVm2Lt47cpe/ux5rL/qDc7xizh1xxmUUYdThLVUsIRCPwnVMSxASJ9wftaF6NLmhQbfwdiYLhX7mLZ1ez7SPxP/NhrORA1tC/5lkzJF9D/VMyrpmLuQ53+zwzhyUQLqIkAuhDJlv4uNjb/gLbdxuThE7YxEb292RuIzh4CDBq8oR6Z4ibKRohbEz5tws9hgi1wWPnjmytZDZb3Ci/lm7B7cA1rVu3X9RMc8I+Ero8HT33kTu1SCAqVbCdkGssiKAiUc3VHaYYA==;PK2ZjjW9KmQIaxYP5lvpKQ=="
 ---

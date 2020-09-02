@@ -40,6 +40,20 @@ related:
         width: 600
         height: 201
         isCached: true
+  - title: "Insurtech Leader FastTrack Completes Migration to the Microsoft Azure Cloud"
+    excerpt: "FastTrack, a leading provider of insurtech solutions for the Life & Disability insurance industry, announced today the completion of their migration to a"
+    publishedDateTime: 2020-09-02T12:36:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_new_jersey/insurtech-leader-fasttrack-completes-migration-to-the-microsoft-azure-cloud/article_4cdec792-cb8e-59cc-bdd5-ba9439ffda2d.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 35
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "FedEx, Microsoft to collaborate on commerce"
     excerpt: "Fedex (NYSE:FDX) and Microsoft (NASDAQ:MSFT) sign new multiyear collaboration, bringing MSFT's intelligent cloud to the logistics network.Shares of FDX are up 4% premarket, MSFT is up 1.5%.FedEx Surro"
     publishedDateTime: 2020-05-18T13:19:00Z
