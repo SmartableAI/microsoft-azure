@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-logs-log-a
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-logs-log-analytics-rest-apis-general-availability/"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: 67
+published: false
 
 provider:
   name: Microsoft
@@ -20,17 +20,6 @@ provider:
 
 topics:
   - Azure
-
-related:
-  - title: "Azure Blob versioning is now general available "
-    excerpt: "Azure storage strives to protect your business critial data from any accident or attack. We are excited to announce the general availability of  Azure Blob versioning. "
-    publishedDateTime: 2020-08-31T20:00:37Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-versioning-is-now-general-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
 
 secured: "fbTgndDN89n+dTIVhPJY6bi6DPjCPeaWQhcWWz/Up0I7Esv5g6UFQWNYi9Dx9sFtuIEu1c1q5c5HSQb6Q+C+9j2dyvMhOkbcdjK4n5LYnaSn3K9vcb81i13B0gDbGlxKKbXZLKdpi+drlwY4w9VgR7YA8I9sdKOU0H+rFjbvSPcddaqwOcRPqZIGK6oFn9HtYwM3cugZ98r8ncUT2gK0HwpV5LUluywxjIeZpvt8oK7U4IDql+rrZ76mwPmZx3a3hu2rb4zBB5e5ZnlZcMt6CUMvIRCtqRDcIFWkMbFpiwMRPQ8e0gIataVtmpD8plRamfjtzjKK4nLihRWx8/XbcqMRSV48ORN7SN6+Hkl4/MY=;VfaNnGPYU2AJSjuqD044sg=="
 ---

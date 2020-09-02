@@ -65,15 +65,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 21
-  - title: "Azure App Service—.NET Core 3.1 is now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-04-23T16:00:29Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-app-service-net-core-31-ga-on-app-service/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
   - title: "Azure Text Analytics v3 is now generally available"
     excerpt: ""
     publishedDateTime: 2020-05-29T21:00:32Z

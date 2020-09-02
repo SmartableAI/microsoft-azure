@@ -27,60 +27,74 @@ images:
     isCached: true
 
 related:
-  - title: "Azure Functions: PowerShell 7 support is now generally available"
-    excerpt: "Develop and deploy Azure Functions Apps for production scenarios using the latest version of PowerShell."
-    publishedDateTime: 2020-08-10T20:39:42Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-functions-powershell-7-support-is-now-generally-available/"
+  - title: "Azure Spring Cloud: a fully managed service for Spring Boot apps is now generally available"
+    excerpt: "Azure Spring Cloud is a fully managed service for Spring Boot apps, that lets you focus on building the apps that run your business without the hassle of managing infrastructure."
+    publishedDateTime: 2020-09-02T06:00:00Z
+    webUrl: "https://azure.microsoft.com/blog/azure-spring-cloud-a-fully-managed-service-for-spring-boot-apps-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/816ab479-5c10-48ba-8084-c7816d2b6f1b.jpg"
+        width: 1024
+        height: 737
+        isCached: true
+  - title: "Azure Blob versioning is now general available "
+    excerpt: "Azure storage strives to protect your business critial data from any accident or attack. We are excited to announce the general availability of  Azure Blob versioning. "
+    publishedDateTime: 2020-08-31T20:00:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-versioning-is-now-general-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Data Box Disk is now generally available in South Africa and China"
-    excerpt: "Data Box Disk is GA in South Africa and China"
-    publishedDateTime: 2020-08-12T19:00:30Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-box-disk-is-now-generally-available-in-south-africa-and-china/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 66
-  - title: "Azure Data Share in-place sharing for Azure Data Explorer now generally available"
-    excerpt: "Share big data in-place easily, securely, and at no additional cost."
-    publishedDateTime: 2020-08-17T20:41:54Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-share-inplace-sharing-for-azure-data-explorer-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 62
-  - title: "Windows 10 IoT Core Services are generally available"
-    excerpt: "Moving forward with Windows CE using the Windows CE App Container on Windows 10 IoT Core"
-    publishedDateTime: 2020-08-11T17:00:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/windows-10-iot-core-services-are-generally-available/"
+  - title: "Support to assess physical, AWS, GCP servers now generally available"
+    excerpt: "The assessments offer Azure suitability analysis, migration cost planning and performance-based rightsizing."
+    publishedDateTime: 2020-08-25T17:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/support-to-assess-physical-aws-gcp-servers-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 52
-  - title: "Azure Support API is generally available"
+  - title: "Immersive Reader is now generally available"
+    excerpt: "Immersive Reader is an Azure Cognitive Service for developers who want to embed inclusive capabilities into their apps for enhancing text reading and comprehension for users regardless of age or ability. "
+    publishedDateTime: 2020-08-27T00:35:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/immersive-reader-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "Manage your Azure & Amazon Web Services (AWS) spending in a single location with Azure Cost Management +Billing"
+    excerpt: "An Azure Cost Management + Billing connector for AWS is now generally available. "
+    publishedDateTime: 2020-09-01T17:16:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/manage-your-azure-amazon-web-services-aws-spending-in-a-single-location-with-azure-cost-management-billing/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 47
+  - title: "Azure App Service—.NET Core 3.1 is now generally available"
     excerpt: ""
-    publishedDateTime: 2020-04-17T17:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-support-api-is-generally-available/"
+    publishedDateTime: 2020-04-23T16:00:29Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-app-service-net-core-31-ga-on-app-service/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Azure Data Lake Storage Gen2 PowerShell and CLI are now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-05-15T16:00:19Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-lake-storage-gen2-powershell-and-cli-are-now-generally-available/"
+  - title: "Azure SQL Managed Instance management pack is now generally available"
+    excerpt: "System Center Operations Manager (SCOM) management pack for Azure SQL Managed Instance is now generally available."
+    publishedDateTime: 2020-07-15T23:00:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-managed-instance-management-pack-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 15
+    quality: 17
 
 secured: "kO2aQPzentqjh+UritFk8PJSoVJReOkInUZmmaBzzZQu6Q7ZrZQ2gEOZXJoJZmAB3R1aFWI//qKxpaXJf+pYc72KxcPn4/ZXeOTLK6s24Lr+0D21UIo6DCPYkmIJmkA1HtzDlkKqMBCEzQvasH3tQm9GludDjsHAJHag5kV5fq4x5OkbkZdbRRGHg2NOO4TFSZW35VZcz+9dF63krrEx8bdMVj+aEwTBOzAswF6/1kft8vsUIZ3h+YaQr0JlYUIz8vJZlw/b3QiTYrXJtzDUn+W0VqtZ8LlyCmws0vRoiBQceQl+P+cEFW2gT/KAW6WsvDQXGLhxxwF1eFnBfLLUeg==;JuBHu2xJxOoFor+WD0zgbg=="
 ---

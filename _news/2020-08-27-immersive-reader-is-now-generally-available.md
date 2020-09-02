@@ -22,24 +22,29 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Backup for SAP HANA databases running on RHEL is now generally available"
-    excerpt: "On August 1, 2020, Azure Backups support for HANA databases running on Red Hat Enterprise Linux (RHEL) became generally available. This offering is available across all Azure regions except for Germany Northeast, Germany Central, France South, and US Gov IOWA. "
-    publishedDateTime: 2020-08-19T16:00:41Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-for-sap-hana-databases-running-on-rhel-is-now-ga/"
+  - title: "Azure Spring Cloud: a fully managed service for Spring Boot apps is now generally available"
+    excerpt: "Azure Spring Cloud is a fully managed service for Spring Boot apps, that lets you focus on building the apps that run your business without the hassle of managing infrastructure."
+    publishedDateTime: 2020-09-02T06:00:00Z
+    webUrl: "https://azure.microsoft.com/blog/azure-spring-cloud-a-fully-managed-service-for-spring-boot-apps-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 63
-  - title: "TypeScript 4.0 is generally available"
-    excerpt: "TypeScript 4 is the latest major version of the TypeScript programming language."
-    publishedDateTime: 2020-08-20T16:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/typescript-40-is-generally-available/"
+    quality: 77
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/816ab479-5c10-48ba-8084-c7816d2b6f1b.jpg"
+        width: 1024
+        height: 737
+        isCached: true
+  - title: "Azure Blob versioning is now general available "
+    excerpt: "Azure storage strives to protect your business critial data from any accident or attack. We are excited to announce the general availability of  Azure Blob versioning. "
+    publishedDateTime: 2020-08-31T20:00:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-versioning-is-now-general-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 52
+    quality: 67
   - title: "Support to assess physical, AWS, GCP servers now generally available"
     excerpt: "The assessments offer Azure suitability analysis, migration cost planning and performance-based rightsizing."
     publishedDateTime: 2020-08-25T17:00:07Z
@@ -49,19 +54,42 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
-  - title: "SAP HANA backup using Azure Backup is now generally available"
-    excerpt: "We are sharing that Microsoft Azure Backup’s solution for SAP HANA databases is generally available in all Azure Public and Gov Regions (with the exception of Germany Northeast and Germany central, France South & US Gov IOWA).\r\n\r\nAzure Backup is Azure's native backup solution, which is BackInt certified"
-    publishedDateTime: 2019-12-02T13:00:29Z
-    webUrl: "https://azure.microsoft.com/blog/sap-hana-backup-using-azure-is-now-generally-available/"
+  - title: "Manage your Azure & Amazon Web Services (AWS) spending in a single location with Azure Cost Management +Billing"
+    excerpt: "An Azure Cost Management + Billing connector for AWS is now generally available. "
+    publishedDateTime: 2020-09-01T17:16:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/manage-your-azure-amazon-web-services-aws-spending-in-a-single-location-with-azure-cost-management-billing/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 19
-  - title: "Backup your SAP HANA databases running on RHEL using Azure Backup"
+    quality: 47
+  - title: "Azure Firewall Manager is now generally available"
+    excerpt: "Azure Firewall Manager is now generally available, and includes Azure Firewall Policy, Azure Firewall in a Virtual WAN Hub (Secure Virtual Hub), and Hub Virtual Network."
+    publishedDateTime: 2020-07-01T08:00:06Z
+    webUrl: "https://azure.microsoft.com/blog/azure-firewall-manager-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/48d05065-53c7-4758-8091-6b72d3df73d0.png"
+        width: 1024
+        height: 367
+        isCached: true
+  - title: "Azure App Service—.NET Core 3.1 is now generally available"
     excerpt: ""
-    publishedDateTime: 2020-05-27T20:53:43Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/backup-your-sap-hana-databases-running-on-rhel-using-azure-backup/"
+    publishedDateTime: 2020-04-23T16:00:29Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-app-service-net-core-31-ga-on-app-service/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure SQL Managed Instance management pack is now generally available"
+    excerpt: "System Center Operations Manager (SCOM) management pack for Azure SQL Managed Instance is now generally available."
+    publishedDateTime: 2020-07-15T23:00:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-managed-instance-management-pack-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft

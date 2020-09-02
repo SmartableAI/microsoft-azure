@@ -1,13 +1,14 @@
 ---
 category: news
-title: "Azure SQL Managed Instance management pack is now generally available"
-excerpt: "System Center Operations Manager (SCOM) management pack for Azure SQL Managed Instance is now generally available."
-publishedDateTime: 2020-07-15T23:00:30Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-managed-instance-management-pack-is-now-generally-available/"
+title: "Azure Spring Cloud: a fully managed service for Spring Boot apps is now generally available"
+excerpt: "Azure Spring Cloud is a fully managed service for Spring Boot apps, that lets you focus on building the apps that run your business without the hassle of managing infrastructure."
+publishedDateTime: 2020-09-02T06:00:00Z
+originalUrl: "https://azure.microsoft.com/blog/azure-spring-cloud-a-fully-managed-service-for-spring-boot-apps-is-now-generally-available/"
+webUrl: "https://azure.microsoft.com/blog/azure-spring-cloud-a-fully-managed-service-for-spring-boot-apps-is-now-generally-available/"
 type: article
-quality: 17
-heat: -1
-published: false
+quality: 77
+heat: 217
+published: true
 
 provider:
   name: Microsoft
@@ -20,21 +21,13 @@ provider:
 topics:
   - Azure
 
+images:
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/816ab479-5c10-48ba-8084-c7816d2b6f1b.jpg"
+    width: 1024
+    height: 737
+    isCached: true
+
 related:
-  - title: "Azure Spring Cloud: a fully managed service for Spring Boot apps is now generally available"
-    excerpt: "Azure Spring Cloud is a fully managed service for Spring Boot apps, that lets you focus on building the apps that run your business without the hassle of managing infrastructure."
-    publishedDateTime: 2020-09-02T06:00:00Z
-    webUrl: "https://azure.microsoft.com/blog/azure-spring-cloud-a-fully-managed-service-for-spring-boot-apps-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/816ab479-5c10-48ba-8084-c7816d2b6f1b.jpg"
-        width: 1024
-        height: 737
-        isCached: true
   - title: "Azure Blob versioning is now general available "
     excerpt: "Azure storage strives to protect your business critial data from any accident or attack. We are excited to announce the general availability of  Azure Blob versioning. "
     publishedDateTime: 2020-08-31T20:00:37Z
@@ -94,7 +87,16 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
+  - title: "Azure SQL Managed Instance management pack is now generally available"
+    excerpt: "System Center Operations Manager (SCOM) management pack for Azure SQL Managed Instance is now generally available."
+    publishedDateTime: 2020-07-15T23:00:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-managed-instance-management-pack-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
 
-secured: "DGD0exgc7AR4vMY8OkYIRfq8dDGzyArU9SWARwP+7pWLSGOONBwt+RLl8YCxqUuy0Q89D5Rmjmx++tn9f6Ik5PhkWITHvdywmmBPa1iclDKrgQ286zhS5FFp7CMD31OiIKVlY5Xl61u7orU5/7UJ9MXB0qAVuLkiWPIyC3Y2XBPCNTTNeSjPzHGlQuJ6wd07foGxqy8EAEQqF/Fo9DQieLIL8VjgFC9LPKbiBHTqV9bs/zzzESibJ7W7ZSj+nYhxSk4nXk8BjePW4eXCKGz0KkSvAUALWXdM8D2T0xP5hiirpQvOV9WdCyMWYiu4gmfSeqo4fdpIZ6OJzVGA15np5Q==;qdGORDE0LwzrQEukDTzuzw=="
+secured: "B+BvK5Iemx6BMZcbwBhal5d3UpgIPhy7TvOi9iqf3LkzdMQmVqIXSLSgsiWCAI+gq3fAcnTM1+mgzPSTpfkrrifpWRjj1hI1eyyp3okpLqep5F1V9NVItSpwKwYcLbDPuor8ZTinWOzy44c310m7JgwDe5B3wy93v5IMjCWSjwXehXHaM9EFZ6lSm9QkFX2pkE7qm2bqVX+5V5kEdgfP/YbgKBQ++rIWZSZASv2A2EovONPoM4Sr7qNm3MrE6YlRY5V/4VYyMWymyEPdK1QKM8s3v06p/PmVx1cTo6xC0s73K2PVKmlkSBtrlTczpqdn/MAmhbPojQskYpwvvSnVZ/8LtJcVBz3vQZjlAVxnoBQ=;Gal6fViIVGfQ7OcdZSMnPg=="
 ---
 

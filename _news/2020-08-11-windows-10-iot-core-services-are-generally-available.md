@@ -48,20 +48,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 62
-  - title: "Azure Firewall Manager is now generally available"
-    excerpt: "Azure Firewall Manager is now generally available, and includes Azure Firewall Policy, Azure Firewall in a Virtual WAN Hub (Secure Virtual Hub), and Hub Virtual Network."
-    publishedDateTime: 2020-07-01T08:00:06Z
-    webUrl: "https://azure.microsoft.com/blog/azure-firewall-manager-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 37
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/48d05065-53c7-4758-8091-6b72d3df73d0.png"
-        width: 1024
-        height: 367
-        isCached: true
   - title: "Azure Support API is generally available"
     excerpt: ""
     publishedDateTime: 2020-04-17T17:00:00Z

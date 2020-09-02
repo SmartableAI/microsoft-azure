@@ -40,24 +40,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
-  - title: "Support to assess physical, AWS, GCP servers now generally available"
-    excerpt: "The assessments offer Azure suitability analysis, migration cost planning and performance-based rightsizing."
-    publishedDateTime: 2020-08-25T17:00:07Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/support-to-assess-physical-aws-gcp-servers-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
-  - title: "Immersive Reader is now generally available"
-    excerpt: "Immersive Reader is an Azure Cognitive Service for developers who want to embed inclusive capabilities into their apps for enhancing text reading and comprehension for users regardless of age or ability. "
-    publishedDateTime: 2020-08-27T00:35:27Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/immersive-reader-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
   - title: "Backup your SAP HANA databases running on RHEL using Azure Backup"
     excerpt: ""
     publishedDateTime: 2020-05-27T20:53:43Z

@@ -1,0 +1,28 @@
+---
+category: news
+title: "dunnhumby Reduces Time to Action for Data Scientists via New Tool on Microsoft Azure"
+excerpt: "Press Release dunnhumby, the global leader in customer data science, has launched its new web-based application on Microsoft Azure, enabling data scientists to deliver customer insights faster, driving profitability and customer loyalty."
+publishedDateTime: 2020-09-02T13:48:00Z
+originalUrl: "https://venturebeat.com/2020/09/02/dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft-azure/"
+webUrl: "https://venturebeat.com/2020/09/02/dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft-azure/"
+ampWebUrl: "https://venturebeat.com/2020/09/02/dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft-azure/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/02/dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft-azure/amp/"
+type: article
+quality: 70
+heat: 70
+published: true
+
+provider:
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Azure
+
+secured: "Ap4X9wmWh3SOm7RvoGI5N0VE8GUc9ODTaZdvOuauXsov6qIwxiuK5krxFPw6j16WiUn2ewHtfMB3JS1/WnEOSeu3yJ3eT32zjVWnVW5D1WvKTw+mXGCFXacqonROJMh1iBldUvpc3M0DVAVd/K7xz8Nt9u0T2E2AuEEeiOAYzLwQqj5WoOWVeDwSihtnISXrDl+5DMYKQsYTCEwmeXj3hvksede6gK6pxhjoD7zmxTnu8/EofKBk2zsdaHXZ0AFSRQPwqTMqg51zGSeTqgRsEW2O3ZpiLR6Hf4IhIjwPAy8sYTYmwMykhqpGy/33qEbcJQy0bIT0GEDLuyGZcWtWzjWGGqU4jWUzHBtNjW73WVk=;l+Q/VGX99jVhQKtqNxPHxg=="
+---
+
