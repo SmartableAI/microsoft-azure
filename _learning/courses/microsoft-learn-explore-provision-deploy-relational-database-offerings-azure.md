@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT38M
 ratings:
-  count: 136
-  average: 4.8014708
-heat: 52
+  count: 137
+  average: 4.7956204
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Explore provisioning and deploying relational database offerings in Azure"
 
-secured: "HEMiAZH/iEC91aX+jInoJZPdKW22HXFT+6IK5YnaGJAewJQf19QA1IInk3+y/vssUC/sG0KjfmKLMBUjzVLnPYO/IQPz0m7UEHQWunW4U6En51zcj20ahm7BqHXNqUyjCLv8YKyAqvYKAwksBv+RqKq2PkyD6hmeAoI6i/2txX3mKhKoRO8RA1TB21Yj/mc97EEmR13Z2vbsol1JVl+j/4IqwzZDpBk+Og9LBJBqyNqBzHLX9Yio0oVLlkvYx8nTTYIkbPG1LSXG4C/Ebncs1pPFu1Xgbv1WhChTTJgGmGD9Dm/pazQOrPG312fDQAdZWmtf729Ro9a0nKhY8X46lzgnqWANW/GztyFB2XXMiszmfjOSgt8tgh77Wktbf1e9mGNB+DXCtjVKldoKJYVr3H2NZcNDkDl2Cdba98y2DUo=;lz0aYbUWmMwUbnD2XY1PCA=="
+secured: "TUPMlwzdyCuaCiZrCa4b+epXjENODGxqO+62pUMtQ9VBSqfcgnMqr0RaznlEx7NYrMY2jKe06aajYPN0OFS5cfnOpYf+mjtJ9jNSenK1Hq6kND6bs+36jfR++0F5tNzKwkEoMofFvA4ns6bivcqNx8dAXY0+Dq4Z2Sd5W1GyDiUQ7PuQehhk6Z9q2jt2nMcxqzy6J/u7N7L2AUxifdFzKvIK9ptdn3T14wdJ070jXRkRPpAa6r0wJC7tE4KTR8wqCiJ26Ie2Aae2lq02Uh/wUikudtQgmiszi2QNl7VW2Qq8ayiOH4dP4XvL7LL/hu8DrKQiSoAkBCk0jxf2nBfuO+LJ0Ek2LvPxz5hFtiJVxEM1Uhde5+ADOLdhic58vARkLi8Cy1I0/xtO9j7PJg3bf0B37c/QnBpbZ1W9RMDrOaU=;ytASs1xv8N+EUbkqBS4S9A=="
 ---
 

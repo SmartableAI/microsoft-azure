@@ -4,123 +4,6 @@
   "page": 27,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-simulate-generate-empirical-distributions-python.md",
-      "title": "Simulate and generate empirical distributions in Python",
-      "excerpt": "Learn how to simulate and generate empirical distributions in Python",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-simulate-generate-empirical-distributions-python/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/simulate-generate-empirical-distributions-python/",
-      "length": "PT1H16M",
-      "ratings": {
-        "count": 49,
-        "average": 4.591837
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-solve-quantum-inspired-optimization-problems.md",
-      "title": "Solve optimization problems by using quantum-inspired optimization",
-      "excerpt": "Learn how quantum-inspired algorithms mimic quantum physics to solve difficult optimization problems.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-solve-quantum-inspired-optimization-problems/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/solve-quantum-inspired-optimization-problems/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 79,
-        "average": 4.544304
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/quantum/solve-quantum-inspired-optimization-problems-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Solve optimization problems by using quantum-inspired optimization",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-start-ml-lifecycle-mlops.md",
-      "title": "Start the machine learning lifecycle with MLOps",
-      "excerpt": "In this module, we discuss best practices for creating and managing machine learning (ML) models using MLOps processes. MLOps is the practice of collaboration between data scientists, ML engineers, software developers, and other IT teams to manage the end-to-end ML lifecycle.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-start-ml-lifecycle-mlops/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/start-ml-lifecycle-mlops/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 22,
-        "average": 4.6363635
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/start-ml-lifecycle-mlops-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Start the machine learning lifecycle with MLOps",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-static-apps-gatsby.md",
       "title": "Create and publish a static web app with Gatsby and Azure Static Web Apps",
       "excerpt": "Use Gatsby to develop and compile a static web app, then deploy it to the web with Azure Static Web Apps.",
@@ -294,6 +177,57 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-tm-approach-your-data-flow-diagram-with-the-right-threat-model-focus.md",
+      "title": "Approach your data-flow diagram with the right threat model focus",
+      "excerpt": "Threat modeling is an effective technique to help you identify threats and ways to reduce or eliminate risk. We start by deciding to focus on either what needs to be protected or who it needs protection from.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-tm-approach-your-data-flow-diagram-with-the-right-threat-model-focus/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-approach-your-data-flow-diagram-with-the-right-threat-model-focus/",
+      "length": "8 mins",
+      "ratings": {
+        "count": 202,
+        "average": 4.7376237
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Approach your data-flow diagram with the right threat model focus",
+          "isCached": true
+        },
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/approach-your-data-flow-diagram-with-the-right-threat-model-focus-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Approach your data-flow diagram with the right threat model focus",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Security",
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-tm-introduction-to-threat-modeling.md",
       "title": "Introduction to threat modeling",
       "excerpt": "Threat modeling is an effective way to help secure your systems, applications, networks, and services. It's an engineering technique that identifies potential threats and recommendations to help reduce risk and meet security objectives earlier in the development lifecycle.",
@@ -333,6 +267,57 @@
           "width": 640,
           "height": 320,
           "title": "Introduction to threat modeling",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Security",
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-tm-prioritize-your-issues-and-apply-security-controls.md",
+      "title": "Prioritize your issues and apply security controls",
+      "excerpt": "Threat modeling provides you with a list of threats and ways to reduce or eliminate risk, but it doesn't prioritize them for you. Also, there are no layered security control recommendations based on their type and function.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-tm-prioritize-your-issues-and-apply-security-controls/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-prioritize-your-issues-and-apply-security-controls/",
+      "length": "14 mins",
+      "ratings": {
+        "count": 163,
+        "average": 4.6993866
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Prioritize your issues and apply security controls",
+          "isCached": true
+        },
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/prioritize-your-issues-and-apply-security-controls-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Prioritize your issues and apply security controls",
           "isCached": true
         }
       ],
@@ -748,6 +733,50 @@
       "topics": [
         "Azure",
         "Management Tools",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-upgrade-migrate-windows-server-iaas-virtual-machines.md",
+      "title": "Upgrade and migrate Windows Server IaaS virtual machines",
+      "excerpt": "Learn to migrate a workload running in Windows Server to an infrastructure as a service (IaaS) virtual machine (VM) and to Windows Server 2019 by using Windows Server migration tools or the Storage Migration Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-upgrade-migrate-windows-server-iaas-virtual-machines/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upgrade-migrate-windows-server-iaas-virtual-machines/",
+      "length": "PT53M",
+      "ratings": {
+        "count": 3,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Storage",
         "Compute"
       ]
     },

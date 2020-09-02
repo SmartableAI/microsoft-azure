@@ -4,7 +4,7 @@ excerpt: "Learn how to harness the power of Apache Spark and powerful clusters r
 type: collection
 price: Free
 length: PT10H32M
-heat: 62
+heat: 63
 
 provider:
   name: Microsoft Learn

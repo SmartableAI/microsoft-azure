@@ -4,6 +4,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-principles-cloud-computing.md",
+      "title": "Cloud Concepts - Principles of cloud computing",
+      "excerpt": "Explore the core concepts of cloud computing and how it can help your business.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-principles-cloud-computing/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/",
+      "length": "62 mins",
+      "ratings": {
+        "count": 160299,
+        "average": 4.7718453
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 194,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/principles-cloud-computing-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Cloud Concepts - Principles of cloud computing",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-learning-path.md",
       "title": "Azure fundamentals learning path",
       "excerpt": "Follow this learning path for a broad and compelling introduction to the fundamentals of Azure cloud computing.",
@@ -30,7 +73,7 @@
           "path": "",
           "title": "Cloud Concepts - Principles of cloud computing",
           "excerpt": "Explore the core concepts of cloud computing and how it can help your business.",
-          "heat": 181,
+          "heat": 194,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/principles-cloud-computing-social.png",
@@ -90,7 +133,7 @@
           "path": "",
           "title": "Core Cloud Services - Azure architecture and service guarantees",
           "excerpt": "Azure provides a global network of secure datacenters you can deploy your services into. Learn about the physical architecture of Azure, how redundancy is provided, and what service guarantees Microsoft provides.",
-          "heat": 112,
+          "heat": 125,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/explore-azure-infrastructure-social.png",
@@ -153,7 +196,7 @@
           "path": "",
           "title": "Cloud Concepts - Principles of cloud computing",
           "excerpt": "Explore the core concepts of cloud computing and how it can help your business.",
-          "heat": 181,
+          "heat": 194,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/principles-cloud-computing-social.png",
@@ -213,7 +256,7 @@
           "path": "",
           "title": "Core Cloud Services - Azure architecture and service guarantees",
           "excerpt": "Azure provides a global network of secure datacenters you can deploy your services into. Learn about the physical architecture of Azure, how redundancy is provided, and what service guarantees Microsoft provides.",
-          "heat": 112,
+          "heat": 125,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/explore-azure-infrastructure-social.png",
@@ -250,49 +293,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-principles-cloud-computing.md",
-      "title": "Cloud Concepts - Principles of cloud computing",
-      "excerpt": "Explore the core concepts of cloud computing and how it can help your business.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-principles-cloud-computing/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/",
-      "length": "62 mins",
-      "ratings": {
-        "count": 160276,
-        "average": 4.7718496
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 181,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/principles-cloud-computing-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Cloud Concepts - Principles of cloud computing",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-create-azure-account.md",
       "title": "Create an Azure account",
       "excerpt": "The first step to using Azure is to sign up. You may sign up directly through Azure.com, with the help of a Microsoft representative, or through a partner. If you’re new to Azure, you may sign up for an Azure free account to start exploring with $200 USD free credit and free services.",
@@ -300,8 +300,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
       "length": "39 mins",
       "ratings": {
-        "count": 128149,
-        "average": 4.6954017
+        "count": 128157,
+        "average": 4.6954203
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -336,130 +336,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-manage-identity-and-access-in-azure-active-directory.md",
-      "title": "Manage identity and access in Azure Active Directory",
-      "excerpt": "Learn how to work with subscriptions, users, and groups by configuring Microsoft Azure Active Directory for workloads.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-manage-identity-and-access-in-azure-active-directory/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-manage-identity-and-access-in-azure-active-directory/",
-      "length": "PT6H8M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Security, responsibility, and trust in Azure",
-          "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
-          "heat": 107,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/intro-to-security-in-azure-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Security, responsibility, and trust in Azure",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Create an Azure account",
-          "excerpt": "The first step to using Azure is to sign up. You may sign up directly through Azure.com, with the help of a Microsoft representative, or through a partner. If you’re new to Azure, you may sign up for an Azure free account to start exploring with $200 USD free credit and free services.",
-          "heat": 156,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/create-azure-account-social.png",
-              "width": 100,
-              "height": 100,
-              "title": "Create an Azure account",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Manage users and groups in Azure Active Directory",
-          "excerpt": "Manage users and groups in Azure Active Directory",
-          "heat": 64,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/manage-users-and-groups-in-aad-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Manage users and groups in Azure Active Directory",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Create Azure users and groups in Azure Active Directory",
-          "excerpt": "Create users in Azure Active Directory. Understand different types of groups. Create a group and add members. Manage business-to-business guest accounts.",
-          "heat": 65,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Create Azure users and groups in Azure Active Directory",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        }
-      ],
-      "size": 9,
-      "heat": 128,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-security-in-azure-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Security, responsibility, and trust in Azure",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-intro-to-compute.md",
       "title": "Core Cloud Services - Azure compute options",
       "excerpt": "Review the Azure compute services and explore how they can solve common business needs.",
@@ -467,8 +343,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
       "length": "38 mins",
       "ratings": {
-        "count": 60877,
-        "average": 4.7080016
+        "count": 60882,
+        "average": 4.7080255
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -485,7 +361,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 125,
+      "heat": 131,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-compute-social.png",
@@ -509,15 +385,58 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-introduce-foundation-pillars-devops.md",
-      "title": "Introduce the foundation pillars of DevOps: Culture and Lean Product",
-      "excerpt": "DevOps is the union of people, process, and products to enable continuous delivery of value to our end users. Discover the first two foundation pillars of DevOps: Culture and Lean Product.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduce-foundation-pillars-devops/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduce-foundation-pillars-devops/",
-      "length": "25 mins",
+      "path": "_learning/courses/microsoft-learn-distribute-load-with-traffic-manager.md",
+      "title": "Enhance your service availability and data locality by using Azure Traffic Manager",
+      "excerpt": "Azure Traffic Manager provides DNS load balancing to your application, so you improve your ability to distribute your application around the world. Use Traffic Manager to improve the performance and availability of your application.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-distribute-load-with-traffic-manager/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/distribute-load-with-traffic-manager/",
+      "length": "29 mins",
       "ratings": {
-        "count": 881,
-        "average": 4.6208854
+        "count": 1897,
+        "average": 4.5313654
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 127,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/distribute-load-with-traffic-manager-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Enhance your service availability and data locality by using Azure Traffic Manager",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-explore-azure-infrastructure.md",
+      "title": "Core Cloud Services - Azure architecture and service guarantees",
+      "excerpt": "Azure provides a global network of secure datacenters you can deploy your services into. Learn about the physical architecture of Azure, how redundancy is provided, and what service guarantees Microsoft provides.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-azure-infrastructure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/",
+      "length": "45 mins",
+      "ratings": {
+        "count": 64844,
+        "average": 4.7120166
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -537,10 +456,10 @@
       "heat": 125,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/introduce-foundation-pillars-devops-culture-learn-product-social.png",
-          "width": 320,
-          "height": 160,
-          "title": "Introduce the foundation pillars of DevOps: Culture and Lean Product",
+          "url": "https://docs.microsoft.com/learn/achievements/explore-azure-infrastructure-social.png",
+          "width": 100,
+          "height": 100,
+          "title": "Core Cloud Services - Azure architecture and service guarantees",
           "isCached": true
         }
       ],
@@ -558,8 +477,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/",
       "length": "36 mins",
       "ratings": {
-        "count": 64234,
-        "average": 4.7995143
+        "count": 64243,
+        "average": 4.7995114
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -621,7 +540,7 @@
           "path": "",
           "title": "Security, responsibility, and trust in Azure",
           "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
-          "heat": 107,
+          "heat": 104,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/intro-to-security-in-azure-social.png",
@@ -718,6 +637,130 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-manage-identity-and-access-in-azure-active-directory.md",
+      "title": "Manage identity and access in Azure Active Directory",
+      "excerpt": "Learn how to work with subscriptions, users, and groups by configuring Microsoft Azure Active Directory for workloads.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-manage-identity-and-access-in-azure-active-directory/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-manage-identity-and-access-in-azure-active-directory/",
+      "length": "PT6H8M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Security, responsibility, and trust in Azure",
+          "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
+          "heat": 104,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/intro-to-security-in-azure-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Security, responsibility, and trust in Azure",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Create an Azure account",
+          "excerpt": "The first step to using Azure is to sign up. You may sign up directly through Azure.com, with the help of a Microsoft representative, or through a partner. If you’re new to Azure, you may sign up for an Azure free account to start exploring with $200 USD free credit and free services.",
+          "heat": 156,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-azure-account-social.png",
+              "width": 100,
+              "height": 100,
+              "title": "Create an Azure account",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Manage users and groups in Azure Active Directory",
+          "excerpt": "Manage users and groups in Azure Active Directory",
+          "heat": 64,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/manage-users-and-groups-in-aad-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Manage users and groups in Azure Active Directory",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Create Azure users and groups in Azure Active Directory",
+          "excerpt": "Create users in Azure Active Directory. Understand different types of groups. Create a group and add members. Manage business-to-business guest accounts.",
+          "heat": 65,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Create Azure users and groups in Azure Active Directory",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        }
+      ],
+      "size": 9,
+      "heat": 124,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-security-in-azure-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Security, responsibility, and trust in Azure",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-az-400-facilitate-communication-and-collaboration.md",
       "title": "AZ-400: Facilitate communication and collaboration",
       "excerpt": "Learn how DevOps capabilities such as continuous planning and continuous collaboration help you communicate deployment and release information with business stakeholders.\nTake this learning path to help prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions.",
@@ -763,7 +806,7 @@
           "path": "",
           "title": "Introduce the foundation pillars of DevOps: Culture and Lean Product",
           "excerpt": "DevOps is the union of people, process, and products to enable continuous delivery of value to our end users. Discover the first two foundation pillars of DevOps: Culture and Lean Product.",
-          "heat": 125,
+          "heat": 115,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/introduce-foundation-pillars-devops-culture-learn-product-social.png",
@@ -801,7 +844,7 @@
           "path": "",
           "title": "Explain DevOps Continuous Delivery and Continuous Quality",
           "excerpt": "Explore two capabilities in the DevOps taxonomy, Continuous Delivery and Continuous Quality.",
-          "heat": 88,
+          "heat": 89,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/explain-devops-continuous-delivery-quality-social.png",
@@ -862,7 +905,7 @@
           "path": "",
           "title": "Introduce the foundation pillars of DevOps: Culture and Lean Product",
           "excerpt": "DevOps is the union of people, process, and products to enable continuous delivery of value to our end users. Discover the first two foundation pillars of DevOps: Culture and Lean Product.",
-          "heat": 125,
+          "heat": 115,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/introduce-foundation-pillars-devops-culture-learn-product-social.png",
@@ -919,7 +962,7 @@
           "path": "",
           "title": "Explain DevOps Continuous Delivery and Continuous Quality",
           "excerpt": "Explore two capabilities in the DevOps taxonomy, Continuous Delivery and Continuous Quality.",
-          "heat": 88,
+          "heat": 89,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/explain-devops-continuous-delivery-quality-social.png",
@@ -979,7 +1022,7 @@
           "path": "",
           "title": "Introduce the foundation pillars of DevOps: Culture and Lean Product",
           "excerpt": "DevOps is the union of people, process, and products to enable continuous delivery of value to our end users. Discover the first two foundation pillars of DevOps: Culture and Lean Product.",
-          "heat": 125,
+          "heat": 115,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/introduce-foundation-pillars-devops-culture-learn-product-social.png",
@@ -1036,7 +1079,7 @@
           "path": "",
           "title": "Explain DevOps Continuous Delivery and Continuous Quality",
           "excerpt": "Explore two capabilities in the DevOps taxonomy, Continuous Delivery and Continuous Quality.",
-          "heat": 88,
+          "heat": 89,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/explain-devops-continuous-delivery-quality-social.png",
@@ -1096,7 +1139,7 @@
           "path": "",
           "title": "Introduce the foundation pillars of DevOps: Culture and Lean Product",
           "excerpt": "DevOps is the union of people, process, and products to enable continuous delivery of value to our end users. Discover the first two foundation pillars of DevOps: Culture and Lean Product.",
-          "heat": 125,
+          "heat": 115,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/introduce-foundation-pillars-devops-culture-learn-product-social.png",
@@ -1153,7 +1196,7 @@
           "path": "",
           "title": "Explain DevOps Continuous Delivery and Continuous Quality",
           "excerpt": "Explore two capabilities in the DevOps taxonomy, Continuous Delivery and Continuous Quality.",
-          "heat": 88,
+          "heat": 89,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/explain-devops-continuous-delivery-quality-social.png",
@@ -1439,6 +1482,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-azure-sql-intro.md",
+      "title": "Introduction to Azure SQL",
+      "excerpt": "Introduction to Azure SQL",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-sql-intro/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-intro/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 124,
+        "average": 4.7419353
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 115,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-sql-intro-social.png",
+          "width": 642,
+          "height": 325,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-data-in-azure.md",
       "title": "Core Cloud Services - Azure data storage options",
       "excerpt": "In this module, we'll explore the benefits of Azure data storage versus on-premises storage.",
@@ -1446,8 +1531,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-data-in-azure/",
       "length": "25 mins",
       "ratings": {
-        "count": 52933,
-        "average": 4.7327943
+        "count": 52943,
+        "average": 4.732845
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1483,15 +1568,57 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-explore-non-relational-data-offerings-azure.md",
-      "title": "Explore non-relational data offerings in Azure",
-      "excerpt": "Learn about Azure Table Storage, Azure Blob Storage, Azure File Storage, and Azure Cosmos DB, and explore situations for using them.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-non-relational-data-offerings-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-offerings-azure/",
-      "length": "PT41M",
+      "path": "_learning/courses/microsoft-learn-introduce-foundation-pillars-devops.md",
+      "title": "Introduce the foundation pillars of DevOps: Culture and Lean Product",
+      "excerpt": "DevOps is the union of people, process, and products to enable continuous delivery of value to our end users. Discover the first two foundation pillars of DevOps: Culture and Lean Product.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduce-foundation-pillars-devops/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduce-foundation-pillars-devops/",
+      "length": "25 mins",
       "ratings": {
-        "count": 121,
-        "average": 4.8099174
+        "count": 883,
+        "average": 4.619479
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 115,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduce-foundation-pillars-devops-culture-learn-product-social.png",
+          "width": 320,
+          "height": 160,
+          "title": "Introduce the foundation pillars of DevOps: Culture and Lean Product",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-tour-azure-portal-features.md",
+      "title": "Core Cloud Services - Manage services with the Azure portal",
+      "excerpt": "Tour the Azure portal features and services, and customize your portal.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-tour-azure-portal-features/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/",
+      "length": "73 mins",
+      "ratings": {
+        "count": 48643,
+        "average": 4.7065763
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1511,137 +1638,10 @@
       "heat": 113,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-non-relational-data-offerings-azure-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Explore non-relational data offerings in Azure",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-explore-azure-infrastructure.md",
-      "title": "Core Cloud Services - Azure architecture and service guarantees",
-      "excerpt": "Azure provides a global network of secure datacenters you can deploy your services into. Learn about the physical architecture of Azure, how redundancy is provided, and what service guarantees Microsoft provides.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-azure-infrastructure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/",
-      "length": "45 mins",
-      "ratings": {
-        "count": 64833,
-        "average": 4.7120295
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 112,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-azure-infrastructure-social.png",
-          "width": 100,
-          "height": 100,
-          "title": "Core Cloud Services - Azure architecture and service guarantees",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-hpc.md",
-      "title": "Introduction to high-performance computing (HPC) on Azure",
-      "excerpt": "Discover the services available on Azure for your high-performance computing workloads.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-hpc/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-hpc/",
-      "length": "50 mins",
-      "ratings": {
-        "count": 828,
-        "average": 4.556763
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 111,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-hpc-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Introduction to high-performance computing (HPC) on Azure",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-introduction-to-security.md",
-      "title": "Security, responsibility, and trust in Azure",
-      "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-security/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
-      "length": "76 mins",
-      "ratings": {
-        "count": 42759,
-        "average": 4.701934
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 107,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-security-in-azure-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/tour-azure-portal-features-social.png",
           "width": 200,
           "height": 200,
-          "title": "Security, responsibility, and trust in Azure",
+          "title": "Core Cloud Services - Manage services with the Azure portal",
           "isCached": true
         }
       ],
@@ -1649,7 +1649,7 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Identity"
+        "Management Tools"
       ]
     },
     {
@@ -1719,7 +1719,7 @@
           "path": "",
           "title": "Fundamentals of computer networking",
           "excerpt": "You'll learn the fundamental principles of computer networking to prepare you for the Azure admin and developer learning paths.",
-          "heat": 73,
+          "heat": 79,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/network-fundamentals-social.png",
@@ -1804,7 +1804,7 @@
           "path": "",
           "title": "Cloud Concepts - Principles of cloud computing",
           "excerpt": "Explore the core concepts of cloud computing and how it can help your business.",
-          "heat": 181,
+          "heat": 194,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/principles-cloud-computing-social.png",
@@ -1863,7 +1863,7 @@
           "path": "",
           "title": "Create a Linux virtual machine in Azure",
           "excerpt": "In this module, we discuss how to create a Linux virtual machine using the Azure portal.",
-          "heat": 61,
+          "heat": 64,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-linux-virtual-machine-in-azure-social.png",
@@ -1965,7 +1965,7 @@
           "path": "",
           "title": "Fundamentals of computer networking",
           "excerpt": "You'll learn the fundamental principles of computer networking to prepare you for the Azure admin and developer learning paths.",
-          "heat": 73,
+          "heat": 79,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/network-fundamentals-social.png",
@@ -2031,8 +2031,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
       "length": "46 mins",
       "ratings": {
-        "count": 36603,
-        "average": 4.627981
+        "count": 36610,
+        "average": 4.627998
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2067,6 +2067,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-introduction-to-security.md",
+      "title": "Security, responsibility, and trust in Azure",
+      "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-security/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
+      "length": "76 mins",
+      "ratings": {
+        "count": 42767,
+        "average": 4.701896
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 104,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-security-in-azure-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Security, responsibility, and trust in Azure",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-azure-networking.md",
       "title": "Core Cloud Services - Azure networking options",
       "excerpt": "Running your app or service in the cloud requires a fast and secure network. Learn some of the Azure networking basics and how Azure networking helps improve resiliency and reduce latency.",
@@ -2074,8 +2117,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-networking/",
       "length": "28 mins",
       "ratings": {
-        "count": 41872,
-        "average": 4.7639475
+        "count": 41878,
+        "average": 4.7639093
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2110,49 +2153,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-tour-azure-portal-features.md",
-      "title": "Core Cloud Services - Manage services with the Azure portal",
-      "excerpt": "Tour the Azure portal features and services, and customize your portal.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-tour-azure-portal-features/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/",
-      "length": "73 mins",
-      "ratings": {
-        "count": 48635,
-        "average": 4.7065897
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 103,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/tour-azure-portal-features-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Core Cloud Services - Manage services with the Azure portal",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-analyze-devops-continuous-planning-intergration.md",
       "title": "Analyze DevOps Continuous Planning and Continuous Integration",
       "excerpt": "Explore the first two capabilities in the DevOps taxonomy, Continuous Planning and Continuous Integration.",
@@ -2160,8 +2160,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-devops-continuous-planning-intergration/",
       "length": "22 mins",
       "ratings": {
-        "count": 593,
-        "average": 4.674536
+        "count": 595,
+        "average": 4.6689076
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2202,8 +2202,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
       "length": "46 mins",
       "ratings": {
-        "count": 36971,
-        "average": 4.7120986
+        "count": 36975,
+        "average": 4.7121296
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2245,8 +2245,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimize-spending/",
       "length": "74 mins",
       "ratings": {
-        "count": 38866,
-        "average": 4.7136574
+        "count": 38869,
+        "average": 4.7136536
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2281,15 +2281,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-introduction-to-azure-virtual-machines.md",
-      "title": "Introduction to Azure virtual machines",
-      "excerpt": "Learn about the decisions you make before creating a virtual machine, the options to create and manage the VM, and the extensions and services you use to manage your VM.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-azure-virtual-machines/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
-      "length": "67 mins",
+      "path": "_learning/courses/microsoft-learn-explain-devops-continous-delivery-quality.md",
+      "title": "Explain DevOps Continuous Delivery and Continuous Quality",
+      "excerpt": "Explore two capabilities in the DevOps taxonomy, Continuous Delivery and Continuous Quality.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explain-devops-continous-delivery-quality/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explain-devops-continous-delivery-quality/",
+      "length": "18 mins",
       "ratings": {
-        "count": 13547,
-        "average": 4.683472
+        "count": 445,
+        "average": 4.6674156
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2309,18 +2309,17 @@
       "heat": 89,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-virtual-machines-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Introduction to Azure virtual machines",
+          "url": "https://docs.microsoft.com/learn/achievements/explain-devops-continuous-delivery-quality-social.png",
+          "width": 320,
+          "height": 160,
+          "title": "Explain DevOps Continuous Delivery and Continuous Quality",
           "isCached": true
         }
       ],
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure",
-        "Compute"
+        "Azure"
       ]
     }
   ],

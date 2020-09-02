@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 47 mins
 ratings:
-  count: 1786
-  average: 4.712766
-heat: 59
+  count: 1787
+  average: 4.712927
+heat: 65
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Improve application scalability and resiliency by using Azure Load Balancer"
 
-secured: "O4Q7W4/dRDsE+zKaNKx9+fXuz1BIKLslfckhxH0lrz0ZYFXS8mg38GHnspg1himUzm4dFffyHd38RHXJfQ6m32AZlS6GI7g/zKU+ZZQV8+tXaeOKs+X6vjHd4noOlhkoc9Wlq2rw3lxw3WtcAhLNRLXWdEX4HDEmBaFErYQE5bFAIihCf/PYQwxXPErq+gJZSQL3d8ZKop5cnyoIOrCQB01GZNt/0g3htidvoxmuaXv7Pvfn2dw/B+aSfcIby7enfBPCrS7etQRXWvMr25uGJ9ZzBSjGUiyQxF8QasDDx88uFQ7IXUy+Tm7omldhVkHiqiNVJIkhZ2iq2SEaQiN/urutxL1/8axVQN8g5WYIFkQ+E7CkmGh6/CN80HE1GOj0/fuLaoOzktZrPzUXYzYsSNhpfQ3MPTyhS2peJcCtF/I=;S7xq5/8UoTnSAzP+mvHRWA=="
+secured: "Pm4kP/v6RFFWFRAtj/7WyxLoTP2m3vkdP3p+6YacEydjWmocvWN2xPvXQyojyKpiFZhyx3kMBruy1K+eHnlwyPQHjHJy3qgfbR82JvK3YrvZZPJ6g+lHowM/ispZg/wKbvZSMSzD+HywQLC10yLSpee/TVcBtuyqkpFgirkeBeYZca9AtctQRc+0RXv92O05jNR8MfdpBbFcssYwyxCotWs5+VyBeJfzuVhenBPuD9w8L49bDWh2Qek72oPxKh53Pb79kaUEU/4/umtzvn27afvf+HIDnVMuYBZGpLwisewV+6Akmn5UxkEB9EyLwGnRJMEH+W6KTRtSJml4+WVqPopF+fUWTHuKN5TPmlO/WkRgtEtssO/e0mqCgCcgr+8o2Pce6bcrojc3VbNaHDAIwpBIWSTi2STE0lRXrAgMsvs=;/dgXr0qVMK2CgFOyzFiMuQ=="
 ---
 

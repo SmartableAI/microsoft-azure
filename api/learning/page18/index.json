@@ -4,6 +4,41 @@
   "page": 18,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-automate-virtual-machine-software-installation-configuration.md",
+      "title": "Automate the installation and configuration of software in your Virtual Machines",
+      "excerpt": "Learn how to use the cross-platform Azure CLI to create a virtual machine in Azure, and use a custom script to install and configure a web server. Automate the installation of PHP and the creation of a dynamic home page, then use a web browser to test your installation.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-automate-virtual-machine-software-installation-configuration/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-virtual-machine-software-installation-configuration/",
+      "length": "PT39M",
+      "ratings": {
+        "count": 5,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-ai-strategy.md",
       "title": "Microsoft Azure Artificial Intelligence (AI) strategy and solutions",
       "excerpt": "This module provides an overview of Azure AI and demonstrates how Microsoft tools, services, and infrastructure can help make AI real for your organization, whether you want to unlock insights from your latent data with knowledge mining, develop your own AI models with machine learning, or build immersive apps using AI.",
@@ -423,6 +458,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-backup-restore-azure-sql.md",
+      "title": "Back up and restore your Azure SQL database",
+      "excerpt": "Protect the data in your Azure SQL database and recover from data loss or corruption with backup and restore.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-backup-restore-azure-sql/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/backup-restore-azure-sql/",
+      "length": "41 mins",
+      "ratings": {
+        "count": 561,
+        "average": 4.58467
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/backup-restore-azure-sql-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Back up and restore your Azure SQL database",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-backup-restore-databases.md",
       "title": "Back up and restore databases",
       "excerpt": "Plan and implement policy for recovering data in case of user error or failure of technology. Explore various options for how and where to backup and restore databases.",
@@ -539,48 +616,6 @@
           "width": 800,
           "height": 400,
           "title": "Edit code through branching and merging in Git",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-build-an-ai-ready-culture.md",
-      "title": "Understand the importance of building an AI-ready culture",
-      "excerpt": "A successful AI strategy must consider cultural issues as well as business issues. Becoming an AI-ready organization requires a fundamental transformation in how you do things, how employees relate to each other, what skills they have, and what processes and principles guide your behaviors. This unit is designed to help you understand which are the key elements that make a culture AI-ready and proposes a framework to drive that change in your organization.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-an-ai-ready-culture/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/",
-      "length": "49 mins",
-      "ratings": {
-        "count": 865,
-        "average": 4.7398844
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/build-an-ai-ready-culture-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Understand the importance of building an AI-ready culture",
           "isCached": true
         }
       ],
@@ -905,48 +940,6 @@
         "Beginner"
       ],
       "heat": 50,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-cloud-admin-provision-manage.md",
-      "title": "Provision and manage cloud services",
-      "excerpt": "Learn about the different types of resources available on the cloud and the technology behind how they work.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cloud-admin-provision-manage/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-provision-cloud-services/",
-      "length": "41 mins",
-      "ratings": {
-        "count": 158,
-        "average": 4.740506
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cloud-admin-provision-manage-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Provision and manage cloud services",
-          "isCached": true
-        }
-      ],
       "type": "course",
       "price": "Free",
       "topics": [

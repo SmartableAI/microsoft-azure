@@ -49,7 +49,7 @@
           "path": "",
           "title": "Introduce the foundation pillars of DevOps: Culture and Lean Product",
           "excerpt": "DevOps is the union of people, process, and products to enable continuous delivery of value to our end users. Discover the first two foundation pillars of DevOps: Culture and Lean Product.",
-          "heat": 125,
+          "heat": 115,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/introduce-foundation-pillars-devops-culture-learn-product-social.png",
@@ -87,7 +87,7 @@
           "path": "",
           "title": "Explain DevOps Continuous Delivery and Continuous Quality",
           "excerpt": "Explore two capabilities in the DevOps taxonomy, Continuous Delivery and Continuous Quality.",
-          "heat": 88,
+          "heat": 89,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/explain-devops-continuous-delivery-quality-social.png",
@@ -420,7 +420,7 @@
           "path": "",
           "title": "Create a Linux virtual machine in Azure",
           "excerpt": "In this module, we discuss how to create a Linux virtual machine using the Azure portal.",
-          "heat": 61,
+          "heat": 64,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-linux-virtual-machine-in-azure-social.png",
@@ -461,7 +461,7 @@
           "path": "",
           "title": "Manage virtual machines with the Azure CLI",
           "excerpt": "Learn how to use the cross-platform Azure CLI to create, start, stop, and perform other management tasks related to virtual machines in Azure.",
-          "heat": 58,
+          "heat": 62,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/manage-virtual-machines-with-azure-cli-social.png",
@@ -547,7 +547,7 @@
           "path": "",
           "title": "Create a Linux virtual machine in Azure",
           "excerpt": "In this module, we discuss how to create a Linux virtual machine using the Azure portal.",
-          "heat": 61,
+          "heat": 64,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-linux-virtual-machine-in-azure-social.png",
@@ -588,7 +588,7 @@
           "path": "",
           "title": "Manage virtual machines with the Azure CLI",
           "excerpt": "Learn how to use the cross-platform Azure CLI to create, start, stop, and perform other management tasks related to virtual machines in Azure.",
-          "heat": 58,
+          "heat": 62,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/manage-virtual-machines-with-azure-cli-social.png",
@@ -1088,134 +1088,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-az-104-monitor-and-back-up-azure-resources.md",
-      "title": "AZ-104: Monitor and back up Azure resources",
-      "excerpt": "Learn how to monitor resources by using Azure Monitor and implement backup and recover in Azure. This learning path helps prepare you for Exam AZ-104: Microsoft Azure Administrator.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-104-monitor-and-back-up-azure-resources/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-104-monitor-and-back-up-azure-resources/",
-      "length": "PT6H25M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Design a holistic monitoring strategy on Azure",
-          "excerpt": "Use monitoring services on Azure to bring operational excellence to your applications and infrastructure.",
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/design-monitoring-strategy-on-azure-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Design a holistic monitoring strategy on Azure",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Security",
-            "DevOps",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Monitor the health of your Azure virtual machine by collecting and analyzing diagnostic data",
-          "excerpt": "Evaluate monitoring options for an Azure virtual machine (VM). Enable diagnostics to get data about your VM. View VM metrics and create an alert to monitor performance.",
-          "heat": 55,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/monitor-azure-vm-using-diagnostic-data-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Monitor the health of your Azure virtual machine by collecting and analyzing diagnostic data",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Compute"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Analyze your Azure infrastructure by using Azure Monitor logs",
-          "excerpt": "Use Azure Monitor logs to extract valuable information about your infrastructure from log data.",
-          "heat": 56,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/analyze-infrastructure-with-azure-monitor-logs-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Analyze your Azure infrastructure by using Azure Monitor logs",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Improve incident response with alerting on Azure",
-          "excerpt": "Respond to incidents and activities in your infrastructure through alerting capabilities in Azure Monitor.",
-          "heat": 56,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/incident-response-with-alerting-on-azure-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Improve incident response with alerting on Azure",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "DevOps",
-            "Management Tools"
-          ]
-        }
-      ],
-      "size": 8,
-      "heat": 67,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/design-monitoring-strategy-on-azure-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Design a holistic monitoring strategy on Azure",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "DevOps",
-        "Management Tools",
-        "Storage",
-        "Migration"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-az-400-develop-a-site-reliability-engineering-sre-strategy.md",
       "title": "AZ-400: Develop a Site Reliability Engineering (SRE) strategy",
       "excerpt": "Learn how Site Reliability Engineering enables you to sustainably achieve the appropriate level of reliability in your systems, services, and products.\nTake this learning path to help prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions.",
@@ -1404,7 +1276,7 @@
           "path": "",
           "title": "Introduction to App Center",
           "excerpt": "Characterize the types of services offered by App Center. Describe the use of App Center to build, distribute, test, and analyze usage of apps.",
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/app-center/introduction-to-app-center-badge-social.png",
@@ -1470,6 +1342,134 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-az-104-monitor-and-back-up-azure-resources.md",
+      "title": "AZ-104: Monitor and back up Azure resources",
+      "excerpt": "Learn how to monitor resources by using Azure Monitor and implement backup and recover in Azure. This learning path helps prepare you for Exam AZ-104: Microsoft Azure Administrator.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-104-monitor-and-back-up-azure-resources/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-104-monitor-and-back-up-azure-resources/",
+      "length": "PT6H25M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Design a holistic monitoring strategy on Azure",
+          "excerpt": "Use monitoring services on Azure to bring operational excellence to your applications and infrastructure.",
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/design-monitoring-strategy-on-azure-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Design a holistic monitoring strategy on Azure",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Security",
+            "DevOps",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Monitor the health of your Azure virtual machine by collecting and analyzing diagnostic data",
+          "excerpt": "Evaluate monitoring options for an Azure virtual machine (VM). Enable diagnostics to get data about your VM. View VM metrics and create an alert to monitor performance.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/monitor-azure-vm-using-diagnostic-data-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Monitor the health of your Azure virtual machine by collecting and analyzing diagnostic data",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Compute"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Analyze your Azure infrastructure by using Azure Monitor logs",
+          "excerpt": "Use Azure Monitor logs to extract valuable information about your infrastructure from log data.",
+          "heat": 55,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/analyze-infrastructure-with-azure-monitor-logs-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Analyze your Azure infrastructure by using Azure Monitor logs",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Improve incident response with alerting on Azure",
+          "excerpt": "Respond to incidents and activities in your infrastructure through alerting capabilities in Azure Monitor.",
+          "heat": 56,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/incident-response-with-alerting-on-azure-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Improve incident response with alerting on Azure",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "DevOps",
+            "Management Tools"
+          ]
+        }
+      ],
+      "size": 8,
+      "heat": 66,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/design-monitoring-strategy-on-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Design a holistic monitoring strategy on Azure",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "DevOps",
+        "Management Tools",
+        "Storage",
+        "Migration"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-monitor-and-back-up-resources-for-azure-administrators.md",
       "title": "Monitor and back up resources for Azure administrators",
       "excerpt": "Learn how to monitor resources by using Azure Monitor and implement backup and recover in Azure.",
@@ -1518,7 +1518,7 @@
           "path": "",
           "title": "Monitor the health of your Azure virtual machine by collecting and analyzing diagnostic data",
           "excerpt": "Evaluate monitoring options for an Azure virtual machine (VM). Enable diagnostics to get data about your VM. View VM metrics and create an alert to monitor performance.",
-          "heat": 55,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/monitor-azure-vm-using-diagnostic-data-social.png",
@@ -1538,7 +1538,7 @@
           "path": "",
           "title": "Analyze your Azure infrastructure by using Azure Monitor logs",
           "excerpt": "Use Azure Monitor logs to extract valuable information about your infrastructure from log data.",
-          "heat": 56,
+          "heat": 55,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/analyze-infrastructure-with-azure-monitor-logs-social.png",
@@ -1576,7 +1576,7 @@
         }
       ],
       "size": 8,
-      "heat": 67,
+      "heat": 66,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/design-monitoring-strategy-on-azure-social.png",
@@ -1981,7 +1981,7 @@
           "path": "",
           "title": "Create a release pipeline in Azure Pipelines",
           "excerpt": "Set up a continuous delivery (CD) pipeline that automates the process of deploying your application.",
-          "heat": 53,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-release-pipeline-with-azure-pipelines-social.png",
@@ -2021,7 +2021,7 @@
           "path": "",
           "title": "Manage database changes in Azure Pipelines",
           "excerpt": "Use a release approval in Azure Pipelines to help coordinate database schema changes between developers and database administrators.",
-          "heat": 50,
+          "heat": 52,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-database-changes-in-azure-pipelines-social.png",
@@ -2104,7 +2104,7 @@
           "path": "",
           "title": "Create a release pipeline in Azure Pipelines",
           "excerpt": "Set up a continuous delivery (CD) pipeline that automates the process of deploying your application.",
-          "heat": 53,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-release-pipeline-with-azure-pipelines-social.png",
@@ -2144,7 +2144,7 @@
           "path": "",
           "title": "Manage database changes in Azure Pipelines",
           "excerpt": "Use a release approval in Azure Pipelines to help coordinate database schema changes between developers and database administrators.",
-          "heat": 50,
+          "heat": 52,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-database-changes-in-azure-pipelines-social.png",
@@ -2208,8 +2208,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/",
       "length": "PT1H20M",
       "ratings": {
-        "count": 4629,
-        "average": 4.742061
+        "count": 4630,
+        "average": 4.7421165
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2653,8 +2653,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
       "length": "PT51M",
       "ratings": {
-        "count": 806,
-        "average": 4.7133994
+        "count": 808,
+        "average": 4.712871
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2697,8 +2697,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/",
       "length": "PT25M",
       "ratings": {
-        "count": 6768,
-        "average": 4.721336
+        "count": 6769,
+        "average": 4.721377
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2730,8 +2730,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/assess-your-development-process/",
       "length": "PT19M",
       "ratings": {
-        "count": 6552,
-        "average": 4.7057385
+        "count": 6553,
+        "average": 4.705784
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2816,8 +2816,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
       "length": "PT48M",
       "ratings": {
-        "count": 340,
-        "average": 4.65
+        "count": 341,
+        "average": 4.6510262
       },
       "provider": {
         "name": "Microsoft Learn",

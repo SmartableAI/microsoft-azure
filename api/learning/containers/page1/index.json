@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
       "length": "38 mins",
       "ratings": {
-        "count": 60877,
-        "average": 4.7080016
+        "count": 60882,
+        "average": 4.7080255
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 125,
+      "heat": 131,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-compute-social.png",
@@ -119,7 +119,7 @@
           "path": "",
           "title": "Fundamentals of computer networking",
           "excerpt": "You'll learn the fundamental principles of computer networking to prepare you for the Azure admin and developer learning paths.",
-          "heat": 73,
+          "heat": 79,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/network-fundamentals-social.png",
@@ -244,7 +244,7 @@
           "path": "",
           "title": "Fundamentals of computer networking",
           "excerpt": "You'll learn the fundamental principles of computer networking to prepare you for the Azure admin and developer learning paths.",
-          "heat": 73,
+          "heat": 79,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/network-fundamentals-social.png",
@@ -329,7 +329,7 @@
           "path": "",
           "title": "Create a Linux virtual machine in Azure",
           "excerpt": "In this module, we discuss how to create a Linux virtual machine using the Azure portal.",
-          "heat": 61,
+          "heat": 64,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-linux-virtual-machine-in-azure-social.png",
@@ -370,7 +370,7 @@
           "path": "",
           "title": "Manage virtual machines with the Azure CLI",
           "excerpt": "Learn how to use the cross-platform Azure CLI to create, start, stop, and perform other management tasks related to virtual machines in Azure.",
-          "heat": 58,
+          "heat": 62,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/manage-virtual-machines-with-azure-cli-social.png",
@@ -410,7 +410,7 @@
         }
       ],
       "size": 14,
-      "heat": 73,
+      "heat": 76,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/create-linux-virtual-machine-in-azure-social.png",
@@ -456,7 +456,7 @@
           "path": "",
           "title": "Create a Linux virtual machine in Azure",
           "excerpt": "In this module, we discuss how to create a Linux virtual machine using the Azure portal.",
-          "heat": 61,
+          "heat": 64,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-linux-virtual-machine-in-azure-social.png",
@@ -497,7 +497,7 @@
           "path": "",
           "title": "Manage virtual machines with the Azure CLI",
           "excerpt": "Learn how to use the cross-platform Azure CLI to create, start, stop, and perform other management tasks related to virtual machines in Azure.",
-          "heat": 58,
+          "heat": 62,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/manage-virtual-machines-with-azure-cli-social.png",
@@ -537,7 +537,7 @@
         }
       ],
       "size": 14,
-      "heat": 73,
+      "heat": 76,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/create-linux-virtual-machine-in-azure-social.png",
@@ -1119,7 +1119,7 @@
           "path": "",
           "title": "Introduction to App Center",
           "excerpt": "Characterize the types of services offered by App Center. Describe the use of App Center to build, distribute, test, and analyze usage of apps.",
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/app-center/introduction-to-app-center-badge-social.png",
@@ -1231,7 +1231,7 @@
           "path": "",
           "title": "Introduction to Kubernetes",
           "excerpt": "Determine the types of business problems that can be solved using Kubernetes. Describe the benefits of container orchestration with features like deployment management, automatic updates, and self-healing.",
-          "heat": 50,
+          "heat": 55,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/introduction-to-kubernetes-social.png",
@@ -1387,7 +1387,7 @@
           "path": "",
           "title": "Introduction to Azure IoT Hub",
           "excerpt": "Assess the characteristics of Azure IoT Hub and determine scenarios when to use IoT Hub.",
-          "heat": 53,
+          "heat": 57,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-iot-hub-social.png",
@@ -1474,8 +1474,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/",
       "length": "46 mins",
       "ratings": {
-        "count": 3622,
-        "average": 4.627278
+        "count": 3623,
+        "average": 4.627381
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1555,6 +1555,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-intro-to-kubernetes.md",
+      "title": "Introduction to Kubernetes",
+      "excerpt": "Determine the types of business problems that can be solved using Kubernetes. Describe the benefits of container orchestration with features like deployment management, automatic updates, and self-healing.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-kubernetes/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-kubernetes/",
+      "length": "53 mins",
+      "ratings": {
+        "count": 448,
+        "average": 4.598214
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-kubernetes-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Introduction to Kubernetes",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-well-architected-performance-efficiency.md",
       "title": "Microsoft Azure Well-Architected Framework - Performance efficiency",
       "excerpt": "Scaling your system to handle load, identifying network bottlenecks, and optimizing your storage performance are important to ensure your users have the best experience. Learn how to make your application perform at its best.",
@@ -1562,8 +1605,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
       "length": "PT48M",
       "ratings": {
-        "count": 340,
-        "average": 4.65
+        "count": 341,
+        "average": 4.6510262
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1612,8 +1655,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
       "length": "48 mins",
       "ratings": {
-        "count": 2292,
-        "average": 4.621728
+        "count": 2293,
+        "average": 4.621893
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1742,8 +1785,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microservices-aspnet-core/",
       "length": "PT53M",
       "ratings": {
-        "count": 85,
-        "average": 4.647059
+        "count": 86,
+        "average": 4.6511626
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2197,49 +2240,6 @@
         "Serverless",
         "Containers",
         "Networking"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-kubernetes.md",
-      "title": "Introduction to Kubernetes",
-      "excerpt": "Determine the types of business problems that can be solved using Kubernetes. Describe the benefits of container orchestration with features like deployment management, automatic updates, and self-healing.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-kubernetes/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-kubernetes/",
-      "length": "53 mins",
-      "ratings": {
-        "count": 448,
-        "average": 4.598214
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-kubernetes-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Introduction to Kubernetes",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
       ]
     },
     {

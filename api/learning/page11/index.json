@@ -4,15 +4,15 @@
   "page": 11,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-introduction-azure-sap-workloads.md",
-      "title": "Introduction to Azure for SAP workloads",
-      "excerpt": "With the recently expanded partnership between Microsoft and SAP, you can run SAP applications across development, test, and production scenarios in Azure, taking advantage of the scalability, flexibility, and cost savings of Microsoft Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-azure-sap-workloads/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-azure-sap-workloads/",
-      "length": "50 mins",
+      "path": "_learning/courses/microsoft-learn-intro-to-azure-machine-learning-service.md",
+      "title": "Introduction to Azure Machine Learning",
+      "excerpt": "Introduction to Azure Machine Learning",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-machine-learning-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-machine-learning-service/",
+      "length": "42 mins",
       "ratings": {
-        "count": 352,
-        "average": 4.815341
+        "count": 1973,
+        "average": 4.6092243
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -27,15 +27,64 @@
         ]
       },
       "levels": [
-        "Advanced"
+        "Beginner"
       ],
       "heat": 54,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-azure-sap-workloads-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/intro-to-azure-machine-learning-service-badge-social.png",
           "width": 800,
           "height": 400,
-          "title": "Introduction to Azure for SAP workloads",
+          "title": "Introduction to Azure Machine Learning",
+          "isCached": true
+        },
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-machine-learning-service-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Introduction to Azure Machine Learning",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-nodejs.md",
+      "title": "Introduction to Node.js",
+      "excerpt": "Learn everything about Node.js: what it is, how does it work and when to use it.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-nodejs/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-nodejs/",
+      "length": "PT20M",
+      "ratings": {
+        "count": 332,
+        "average": 4.807229
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -46,15 +95,98 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-m365-identity-authentication.md",
-      "title": "Strengthen authentication with Microsoft 365",
-      "excerpt": "Learn how to strengthen authentication across your enterprise deployment with security tools from Microsoft 365.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-identity-authentication/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-authentication/",
-      "length": "8 mins",
+      "path": "_learning/courses/microsoft-learn-intro-to-site-reliability-engineering.md",
+      "title": "Introduction to Site Reliability Engineering (SRE)",
+      "excerpt": "Organizations big and small have started to realize just how crucial system and application reliability is to their business. They’ve also learned just how difficult it is to maintain that reliability while iterating at the speed demanded by the marketplace. Site Reliability Engineering (SRE) is a proven approach to this challenge.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-site-reliability-engineering/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-site-reliability-engineering/",
+      "length": "55 mins",
       "ratings": {
-        "count": 1042,
-        "average": 4.6957774
+        "count": 461,
+        "average": 4.722343
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-site-reliability-engineering-sre-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Introduction to Site Reliability Engineering (SRE)",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-python-nasa.md",
+      "title": "Discover the role of Python in space exploration",
+      "excerpt": "Get an introduction to the types of space exploration problems that Python and data science can influence.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-python-nasa/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-python-nasa/",
+      "length": "PT23M",
+      "ratings": {
+        "count": 21,
+        "average": 4.714286
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-python-nasa-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-m365-identity-provisioning.md",
+      "title": "Simplify access and identity provisioning with Microsoft 365",
+      "excerpt": "Learn how to use Microsoft 365 authentication tools for access and identity provisioning.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-identity-provisioning/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-provisioning/",
+      "length": "17 mins",
+      "ratings": {
+        "count": 1278,
+        "average": 4.72457
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -74,10 +206,10 @@
       "heat": 54,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/strengthen-authentication-with-microsoft-365-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/simplify-access-and-identity-provisioning-with-microsoft-365-social.png",
           "width": 800,
           "height": 400,
-          "title": "Strengthen authentication with Microsoft 365",
+          "title": "Simplify access and identity provisioning with Microsoft 365",
           "isCached": true
         }
       ],
@@ -88,6 +220,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-manage-device-identity-ad-join.md",
+      "title": "Manage device identity with Azure AD join and Enterprise State Roaming",
+      "excerpt": "Evaluate options to manage device identities in Azure AD. Allow users to join devices in Azure AD. Require devices to be marked as compliant. Enable Enterprise State Roaming.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-device-identity-ad-join/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-device-identity-ad-join/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 742,
+        "average": 4.5673857
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/manage-device-identity-ad-join-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Manage device identity with Azure AD join and Enterprise State Roaming",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-migrate-sql-server-relational-data.md",
       "title": "Migrate your relational data stored in SQL Server to Azure SQL Database",
       "excerpt": "Plan and implement the migration of relational data from SQL Server to Azure SQL Database. Select the appropriate migration strategy for your database, and then use Data Migration Assistant to do the assessment and the migration.",
@@ -95,8 +270,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
       "length": "84 mins",
       "ratings": {
-        "count": 633,
-        "average": 4.4012637
+        "count": 634,
+        "average": 4.3990536
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -129,6 +304,48 @@
         "Azure",
         "Databases",
         "Migration"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-responsible-ai-guiding-principles.md",
+      "title": "Identify guiding principles for responsible AI",
+      "excerpt": "At Microsoft, we’ve recognized six principles that we believe should guide AI development and use — fairness, reliability and safety, privacy and security, inclusiveness, transparency, and accountability. For us, these principles are the cornerstone of a responsible and trustworthy approach to AI, especially as intelligent technology becomes more prevalent in the products and services we use every day. We recognize that every individual, company, and region will have their own beliefs and standards that should be reflected in their AI journey. We want to share our perspective as you consider developing your own guiding principles.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-responsible-ai-guiding-principles/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/responsible-ai-principles/",
+      "length": "56 mins",
+      "ratings": {
+        "count": 689,
+        "average": 4.7111754
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/responsible-ai-principles-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Identify guiding principles for responsible AI",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     },
     {
@@ -174,51 +391,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks.md",
-      "title": "Secure your Azure virtual machine disks",
-      "excerpt": "Use Azure Disk Encryption (ADE) to encrypt OS and data disks on existing and new VMs.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
-      "length": "61 mins",
-      "ratings": {
-        "count": 2378,
-        "average": 4.650126
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-your-azure-virtual-machine-disks-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Secure your Azure virtual machine disks",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Storage",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-troubleshoot-inbound-network-connectivity-azure-load-balancer.md",
       "title": "Troubleshoot inbound network connectivity for Azure Load Balancer",
       "excerpt": "Review multidimensional metrics for the load balancer in Azure Monitor Metrics, and check health probe status for the load balancer.",
@@ -226,8 +398,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-inbound-connectivity-azure-load-balancer/",
       "length": "98 mins",
       "ratings": {
-        "count": 185,
-        "average": 4.654054
+        "count": 186,
+        "average": 4.6505375
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -290,7 +462,7 @@
           "path": "",
           "title": "Explore non-relational data offerings in Azure",
           "excerpt": "Learn about Azure Table Storage, Azure Blob Storage, Azure File Storage, and Azure Cosmos DB, and explore situations for using them.",
-          "heat": 113,
+          "heat": 53,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/explore-non-relational-data-offerings-azure-social.png",
@@ -352,104 +524,6 @@
           "width": 640,
           "height": 320,
           "title": "Explore non-relational data offerings in Azure",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-azure-data-fundamentals-explore-relational-data-in-azure.md",
-      "title": "Azure Data Fundamentals: Explore relational data in Azure",
-      "excerpt": "Learn the fundamentals of database concepts in a cloud environment, get basic skilling in cloud data services, and build your foundational knowledge of cloud data services within Microsoft Azure. You will explore relational data offerings, provisioning and deploying relational databases, and querying relational data through cloud data solutions with Microsoft Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-azure-data-fundamentals-explore-relational-data-in-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-azure-data-fundamentals-explore-relational-data-in-azure/",
-      "length": "PT1H51M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Explore relational data offerings in Azure",
-          "excerpt": "Explore Azure SQL Database, Azure Database for PostgreSQL, Azure Database for MySQL, and Azure Database for MariaDB. Explore scenarios for using these database management systems.",
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/explore-relational-data-offerings-azure-social.png",
-              "width": 640,
-              "height": 320,
-              "title": "Explore relational data offerings in Azure",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Explore provisioning and deploying relational database offerings in Azure",
-          "excerpt": "Learn how to provision and configure Azure SQL Database, Azure Database for PostgreSQL, and Azure Database for MySQL.",
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/explore-provision-deploy-relational-database-offerings-azure-social.png",
-              "width": 640,
-              "height": 320,
-              "title": "Explore provisioning and deploying relational database offerings in Azure",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Query relational data in Azure",
-          "excerpt": "Learn about Structured Query Language (SQL), and how you can use it to query, insert, update, and delete data in a relational database.",
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/query-relational-data-azure-social.png",
-              "width": 640,
-              "height": 320,
-              "title": "Query relational data in Azure",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-relational-data-offerings-azure-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Explore relational data offerings in Azure",
           "isCached": true
         }
       ],
@@ -583,7 +657,7 @@
           "path": "",
           "title": "Introduction to Azure Data Lake storage",
           "excerpt": "Learn how Azure Data Lake Storage provides a cloud storage service that is highly available, secure, durable, scalable, and redundant and brings new efficiencies to processing big data analytics workloads.",
-          "heat": 51,
+          "heat": 53,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/data-ai/introduction-to-azure-data-lake-storage-badge-social.png",
@@ -622,7 +696,7 @@
           "path": "",
           "title": "Secure your Azure Storage account",
           "excerpt": "Learn how Azure Storage provides multilayered security to protect your data. Find out how to use access keys, to secure networks, and to use Advanced Threat Protection to proactively monitor your system.",
-          "heat": 65,
+          "heat": 67,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/data-ai/secure-azure-storage-account-badge-social.png",
@@ -657,151 +731,6 @@
         "Management Tools",
         "Storage",
         "Compute"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-process-and-translate-speech-with-azure-cognitive-speech-services.md",
-      "title": "Process and Translate Speech with Azure Cognitive Speech Services",
-      "excerpt": "Learn how to implement the Speech services found in Azure Cognitive Services by performing speech-to-text transcription, synthesizing text input to speech, performing speech translation, and implementing speaker recognition in your AI infused applications.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-process-and-translate-speech-with-azure-cognitive-speech-services/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-process-and-translate-speech-with-azure-cognitive-speech-services/",
-      "length": "PT1H3M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Transcribe speech input to text",
-          "excerpt": "Speech-to-text from the speech service,  known as speech recognition, enables real time transcription of audio streams into text. Your applications, tools, or devices can consume, display, and take action on this text as command input.",
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/transcribe-speech-input-text-social.png",
-              "width": 640,
-              "height": 320,
-              "title": "Transcribe speech input to text",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Synthesize Text Input to Speech",
-          "excerpt": "Learn how to synthesize text to speech using the Speech-to-Text service.",
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/synthesize-text-input-speech-social.png",
-              "width": 640,
-              "height": 320,
-              "title": "Synthesize Text Input to Speech",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Translate speech with the speech service",
-          "excerpt": "Perform speech translation tasks with the speech service to translate spoken text to different languages.",
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/translate-speech-speech-service-social.png",
-              "width": 640,
-              "height": 320,
-              "title": "Translate speech with the speech service",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/transcribe-speech-input-text-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Transcribe speech input to text",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-ai-strategy-to-create-business-value.md",
-      "title": "Define an AI strategy to create business value",
-      "excerpt": "AI has the capacity to empower the whole world to achieve more. From empowering technical development teams to mobilizing an entire organization to unlock the true potential of AI, enterprises need to think strategically about AI – and they need to start today.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-to-create-business-value/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
-      "length": "70 mins",
-      "ratings": {
-        "count": 2128,
-        "average": 4.6978383
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Define an AI strategy to create business value",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
       ]
     },
     {
@@ -847,15 +776,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-azure-scale-azure-sql-dbs-elastic-pools.md",
-      "title": "Scale multiple Azure SQL Databases with SQL elastic pools",
-      "excerpt": "SQL elastic pools allow you to manage performance and cost for a collection of SQL databases.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-scale-azure-sql-dbs-elastic-pools/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
-      "length": "39 mins",
+      "path": "_learning/courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings.md",
+      "title": "Chain Azure Functions together using input and output bindings",
+      "excerpt": "Integrate data sources with your Azure Functions serverless logic by using bindings.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
+      "length": "70 mins",
       "ratings": {
-        "count": 3277,
-        "average": 4.572475
+        "count": 2554,
+        "average": 4.5704775
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -875,10 +804,10 @@
       "heat": 53,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-scale-azure-sql-databases-elastic-pools-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Scale multiple Azure SQL Databases with SQL elastic pools",
+          "url": "https://docs.microsoft.com/learn/achievements/chain-azure-functions-data-using-bindings-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Chain Azure Functions together using input and output bindings",
           "isCached": true
         }
       ],
@@ -887,7 +816,9 @@
       "topics": [
         "Azure",
         "Databases",
-        "Management Tools"
+        "Compute",
+        "Serverless",
+        "Storage"
       ]
     },
     {
@@ -898,8 +829,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-an-agile-approach/",
       "length": "PT40M",
       "ratings": {
-        "count": 5153,
-        "average": 4.745391
+        "count": 5154,
+        "average": 4.7454405
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -930,6 +861,135 @@
       "price": "Free",
       "topics": [
         "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-choose-the-appropriate-api-for-cosmos-db-storage.md",
+      "title": "Choose the appropriate API for Azure Cosmos DB storage",
+      "excerpt": "You will compare the different APIs available in Azure Cosmos DB, highlighting and contrasting the different scenarios that would make them a good choice for a company.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-the-appropriate-api-for-cosmos-db-storage/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-api-for-cosmos-db/",
+      "length": "38 mins",
+      "ratings": {
+        "count": 1997,
+        "average": 4.674512
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/choose-the-appropriate-api-for-cosmos-db-storage-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Choose the appropriate API for Azure Cosmos DB storage",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-classify-and-moderate-text-with-azure-content-moderator.md",
+      "title": "Classify and moderate text with Azure Content Moderator",
+      "excerpt": "Learn how to implement text moderation with the Azure Content Moderator service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-classify-and-moderate-text-with-azure-content-moderator/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-and-moderate-text-with-azure-content-moderator/",
+      "length": "31 mins",
+      "ratings": {
+        "count": 1559,
+        "average": 4.635664
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/classify-and-moderate-text-with-azure-content-moderator-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Classify and moderate text with Azure Content Moderator",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI",
+        "Developer Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-cloud-admin-provision-manage.md",
+      "title": "Provision and manage cloud services",
+      "excerpt": "Learn about the different types of resources available on the cloud and the technology behind how they work.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cloud-admin-provision-manage/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-provision-cloud-services/",
+      "length": "41 mins",
+      "ratings": {
+        "count": 158,
+        "average": 4.740506
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cloud-admin-provision-manage-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Provision and manage cloud services",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     },
     {
@@ -1066,8 +1126,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-pipelines-in-aml/",
       "length": "57 mins",
       "ratings": {
-        "count": 399,
-        "average": 4.6165414
+        "count": 400,
+        "average": 4.6175
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1090,49 +1150,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-release-pipeline.md",
-      "title": "Create a release pipeline in Azure Pipelines",
-      "excerpt": "Set up a continuous delivery (CD) pipeline that automates the process of deploying your application.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-release-pipeline/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-release-pipeline/",
-      "length": "64 mins",
-      "ratings": {
-        "count": 923,
-        "average": 4.6793065
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-release-pipeline-with-azure-pipelines-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Create a release pipeline in Azure Pipelines",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
       ]
     },
     {
@@ -1310,6 +1327,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-design-your-migration-to-azure.md",
+      "title": "Design your migration to Azure",
+      "excerpt": "Minimize the time and resources required to migrate your on-premises environment to Azure. Assess your current systems with Azure Migrate, and migrate them with Azure Site Recovery and Azure Database Migration Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-your-migration-to-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
+      "length": "44 mins",
+      "ratings": {
+        "count": 1309,
+        "average": 4.6241407
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/design-your-migration-to-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Design your migration to Azure",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Migration"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-detect-objects-images-custom-vision.md",
       "title": "Detect objects in images with the Custom Vision service",
       "excerpt": "Object detection is a form of computer vision in which artificial intelligence (AI) agents can identify and locate specific types of object in an image or camera feed.",
@@ -1360,8 +1420,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-visual-studio/",
       "length": "43 mins",
       "ratings": {
-        "count": 1657,
-        "average": 4.6071215
+        "count": 1658,
+        "average": 4.6073585
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1394,177 +1454,6 @@
         "Azure",
         "Compute",
         "Serverless"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-explore-provision-deploy-non-relational-data-services-azure.md",
-      "title": "Explore provisioning and deploying non-relational data services in Azure",
-      "excerpt": "Learn how to provision and configure Azure Cosmos DB, Azure Data Lake , Azure Blob Storage, and Azure File Storage.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-provision-deploy-non-relational-data-services-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-provision-deploy-non-relational-data-services-azure/",
-      "length": "PT1H2M",
-      "ratings": {
-        "count": 96,
-        "average": 4.8020835
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-provision-deploy-non-relational-data-services-azure-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Explore provisioning and deploying non-relational data services in Azure",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-identify-faces-with-computer-vision.md",
-      "title": "Identify faces and expressions by using the Computer Vision API in Azure Cognitive Services",
-      "excerpt": "Learn about the Computer Vision API in Azure that allows you to identify facial details in pictures.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-identify-faces-with-computer-vision/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identify-faces-with-computer-vision/",
-      "length": "47 mins",
-      "ratings": {
-        "count": 1336,
-        "average": 4.64521
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/identify-faces-with-computer-vision-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Identify faces and expressions by using the Computer Vision API in Azure Cognitive Services",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Developer Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-implement-code-workflow.md",
-      "title": "Implement a code workflow in your build pipeline by using Git and GitHub",
-      "excerpt": "Collaborate with others and merge only the highest quality code.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-code-workflow/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-code-workflow/",
-      "length": "PT1H27M",
-      "ratings": {
-        "count": 3413,
-        "average": 4.7653093
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/implement-a-code-workflow-in-your-build-pipeline-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Implement a code workflow in your build pipeline by using Git and GitHub",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-improve-api-performance-with-apim-caching-policy.md",
-      "title": "Improve the performance of an API by adding a caching policy in Azure API Management",
-      "excerpt": "API Management policies are configurable modules that you can add to APIs to change\ntheir behaviors. Policies can do things like cache responses, transform documents and values,\ncall webhooks for notification or audit purposes, and retry requests after transient\nfailures. This module will use policies to enable caching in order to improve API performance\nunder load.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-improve-api-performance-with-apim-caching-policy/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-api-performance-with-apim-caching-policy/",
-      "length": "47 mins",
-      "ratings": {
-        "count": 610,
-        "average": 4.6655736
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/improve-api-performance-with-apim-caching-policy-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Improve the performance of an API by adding a caching policy in Azure API Management",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Integration",
-        "Web"
       ]
     }
   ],

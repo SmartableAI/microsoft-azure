@@ -8,7 +8,7 @@ length: 8 mins
 ratings:
   count: 202
   average: 4.7376237
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -38,6 +38,6 @@ images:
     isCached: true
     title: "Approach your data-flow diagram with the right threat model focus"
 
-secured: "BehMA49KW5Epq6AeIsmSFY5AbAj4SX3LVd0l24YCaEwgNn/nZHZNuPVpK5Qh+Zx7fswpt3cpDeqMreCg72ERk+yZx5xc3XXh/XVfy7f28M5ISmYmK0DELOr8UL9CIrUA6WzwpdCRwHzkFcQpcxmUolX0+N3qB5U8br+pnPTLyk+gFfPIiAqobdXAUxnxHUBQcMWNCpg5j7QzOrFycDB2XmVkXflRzgPD4/G7l/WfC+u98mkWRsQX9f4UzAPqlz+dWi6pZHBZjv9Nf1ILy6YQnrpdxJgesYJ/dvZd4qJYgLj3Z6UHglhX3SqQmfXTzYBJkfIIR1A7H+LfzUK8P3VrjjN9cIBcPonYDFHkpTCBXJ79x8Z2t3CwAakNto8saJPiwIdMZOUl9A7Z4wHg8KpsK0s1CMluwwCnus9ytX5bfiQ=;WqqyZ5//76/a3lSOCYYlNg=="
+secured: "rj7Vv1ugUWydjquq4/WIsho22BUfizgp8vqp+jdwCU3ZyJYMdA9P6t3VLj3B8ByESsLMkJglA4E96LRXUrMRup1N/1AJ+qEIDe2T9HXBYMKE8UbklO754PbAfmVz5xYH4sA1IUNu14sS/8mF609LmUQot4CFzEcVbxtaHiBL/pS/RZj7ejYbt2R1tuyS4bNM0OIisTUm8EeJNN1NyU+Rp0e8sdhiYH0AGjuETdDbatgcTH/qg8GxpAoxu3bVIR0QkYW1fdumBb+/5xt6pCYWwDHufA2coHBDBS6GcfYiv+Amx0zetvZFJZpNcSyYoBRcpW0r4VZFP3In2UyGwbb5BpAdeqgknt09Dte+/BFKE1XJX8UNNiuN5KFO6t4hQzF3A2B4xYpNHnZOv1nKzRGsuHLOoS6rRRg4olj2y5GLx9g=;8tkPH3WRU0VXPI8VZR8cKA=="
 ---
 

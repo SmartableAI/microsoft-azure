@@ -96,8 +96,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-inbound-connectivity-azure-load-balancer/",
       "length": "98 mins",
       "ratings": {
-        "count": 185,
-        "average": 4.654054
+        "count": 186,
+        "average": 4.6505375
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -141,8 +141,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-an-agile-approach/",
       "length": "PT40M",
       "ratings": {
-        "count": 5153,
-        "average": 4.745391
+        "count": 5154,
+        "average": 4.7454405
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -172,49 +172,6 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-release-pipeline.md",
-      "title": "Create a release pipeline in Azure Pipelines",
-      "excerpt": "Set up a continuous delivery (CD) pipeline that automates the process of deploying your application.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-release-pipeline/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-release-pipeline/",
-      "length": "64 mins",
-      "ratings": {
-        "count": 923,
-        "average": 4.6793065
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-release-pipeline-with-azure-pipelines-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Create a release pipeline in Azure Pipelines",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
         "DevOps"
       ]
     },
@@ -304,6 +261,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-run-non-functional-tests-azure-pipelines.md",
+      "title": "Run nonfunctional tests in Azure Pipelines",
+      "excerpt": "Run automated load tests by using Apache JMeter, a form of nonfunctional testing, in Azure Pipelines.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-non-functional-tests-azure-pipelines/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-non-functional-tests-azure-pipelines/",
+      "length": "49 mins",
+      "ratings": {
+        "count": 596,
+        "average": 4.694631
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/run-non-functional-tests-azure-pipelines-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Run nonfunctional tests in Azure Pipelines",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-deploy-azure-functions.md",
       "title": "Automate Azure Functions deployments with Azure Pipelines",
       "excerpt": "Implement a CI/CD pipeline for Azure Functions.",
@@ -336,6 +336,56 @@
           "width": 640,
           "height": 320,
           "title": "Automate Azure Functions deployments with Azure Pipelines",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-deploy-docker.md",
+      "title": "Automate Docker container deployments with Azure Pipelines",
+      "excerpt": "Implement a CI/CD pipeline for Docker containers.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-docker/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-docker/",
+      "length": "46 mins",
+      "ratings": {
+        "count": 239,
+        "average": 4.6945605
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Automate Docker container deployments with Azure Pipelines",
+          "isCached": true
+        },
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/deploy-docker-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Automate Docker container deployments with Azure Pipelines",
           "isCached": true
         }
       ],
@@ -389,6 +439,50 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-manage-database-changes-in-azure-pipelines.md",
+      "title": "Manage database changes in Azure Pipelines",
+      "excerpt": "Use a release approval in Azure Pipelines to help coordinate database schema changes between developers and database administrators.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-database-changes-in-azure-pipelines/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-database-changes-in-azure-pipelines/",
+      "length": "74 mins",
+      "ratings": {
+        "count": 589,
+        "average": 4.6485567
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-database-changes-in-azure-pipelines-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Manage database changes in Azure Pipelines",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "DevOps"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-manage-release-cadence.md",
       "title": "Manage release cadence in Azure Pipelines by using deployment patterns",
       "excerpt": "Choose and implement a deployment pattern that helps you smoothly roll out new application features to your users.",
@@ -432,15 +526,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-configure-infrastructure-azure-pipelines.md",
-      "title": "Configure infrastructure in Azure Pipelines",
-      "excerpt": "Run configuration management tools in Azure Pipelines to help keep your infrastructure configured as you need.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-infrastructure-azure-pipelines/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-infrastructure-azure-pipelines/",
-      "length": "62 mins",
+      "path": "_learning/courses/microsoft-learn-create-release-pipeline.md",
+      "title": "Create a release pipeline in Azure Pipelines",
+      "excerpt": "Set up a continuous delivery (CD) pipeline that automates the process of deploying your application.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-release-pipeline/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-release-pipeline/",
+      "length": "64 mins",
       "ratings": {
-        "count": 324,
-        "average": 4.537037
+        "count": 923,
+        "average": 4.6793065
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -460,10 +554,10 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/configure-infrastructure-azure-pipelines-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-release-pipeline-with-azure-pipelines-social.png",
           "width": 800,
           "height": 400,
-          "title": "Configure infrastructure in Azure Pipelines",
+          "title": "Create a release pipeline in Azure Pipelines",
           "isCached": true
         }
       ],
@@ -567,49 +661,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-run-non-functional-tests-azure-pipelines.md",
-      "title": "Run nonfunctional tests in Azure Pipelines",
-      "excerpt": "Run automated load tests by using Apache JMeter, a form of nonfunctional testing, in Azure Pipelines.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-non-functional-tests-azure-pipelines/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-non-functional-tests-azure-pipelines/",
-      "length": "49 mins",
-      "ratings": {
-        "count": 596,
-        "average": 4.694631
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/run-non-functional-tests-azure-pipelines-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Run nonfunctional tests in Azure Pipelines",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-run-quality-tests-build-pipeline.md",
       "title": "Run quality tests in your build pipeline by using Azure Pipelines",
       "excerpt": "Set up automated testing in your pipeline to improve code quality.",
@@ -689,7 +740,7 @@
           "path": "",
           "title": "Configure infrastructure in Azure Pipelines",
           "excerpt": "Run configuration management tools in Azure Pipelines to help keep your infrastructure configured as you need.",
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-devops/configure-infrastructure-azure-pipelines-social.png",
@@ -782,7 +833,7 @@
           "path": "",
           "title": "Configure infrastructure in Azure Pipelines",
           "excerpt": "Run configuration management tools in Azure Pipelines to help keep your infrastructure configured as you need.",
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-devops/configure-infrastructure-azure-pipelines-social.png",
@@ -1036,15 +1087,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-deploy-docker.md",
-      "title": "Automate Docker container deployments with Azure Pipelines",
-      "excerpt": "Implement a CI/CD pipeline for Docker containers.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-docker/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-docker/",
-      "length": "46 mins",
+      "path": "_learning/courses/microsoft-learn-configure-infrastructure-azure-pipelines.md",
+      "title": "Configure infrastructure in Azure Pipelines",
+      "excerpt": "Run configuration management tools in Azure Pipelines to help keep your infrastructure configured as you need.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-infrastructure-azure-pipelines/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-infrastructure-azure-pipelines/",
+      "length": "62 mins",
       "ratings": {
-        "count": 239,
-        "average": 4.6945605
+        "count": 324,
+        "average": 4.537037
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1064,17 +1115,10 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/configure-infrastructure-azure-pipelines-social.png",
           "width": 800,
           "height": 400,
-          "title": "Automate Docker container deployments with Azure Pipelines",
-          "isCached": true
-        },
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/deploy-docker-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Automate Docker container deployments with Azure Pipelines",
+          "title": "Configure infrastructure in Azure Pipelines",
           "isCached": true
         }
       ],
@@ -1259,50 +1303,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-manage-database-changes-in-azure-pipelines.md",
-      "title": "Manage database changes in Azure Pipelines",
-      "excerpt": "Use a release approval in Azure Pipelines to help coordinate database schema changes between developers and database administrators.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-database-changes-in-azure-pipelines/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-database-changes-in-azure-pipelines/",
-      "length": "74 mins",
-      "ratings": {
-        "count": 589,
-        "average": 4.6485567
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-database-changes-in-azure-pipelines-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Manage database changes in Azure Pipelines",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "DevOps"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-manage-site-reliability.md",
       "title": "Manage site reliability",
       "excerpt": "Learn how to manage site reliability.",
@@ -1352,8 +1352,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-report-aad-security-events/",
       "length": "35 mins",
       "ratings": {
-        "count": 119,
-        "average": 4.6134453
+        "count": 120,
+        "average": 4.616667
       },
       "provider": {
         "name": "Microsoft Learn",

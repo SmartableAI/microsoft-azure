@@ -4,216 +4,6 @@
   "page": 25,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-n-tier-architecture.md",
-      "title": "Tour the N-tier architecture style for your application",
-      "excerpt": "Use a Resource Manager template to deploy an application styled in an N-tier architecture, identify key concepts of N-tier architectures, and review best practices for deployments of this style.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-n-tier-architecture/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/n-tier-architecture/",
-      "length": "39 mins",
-      "ratings": {
-        "count": 626,
-        "average": 4.809904
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/n-tier-architecture-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Tour the N-tier architecture style for your application",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-nodejs-files.md",
-      "title": "Work with files and directories in a Node.js app",
-      "excerpt": "Build an app that manipulates files and directories with Node.js.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-nodejs-files/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/nodejs-files/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 67,
-        "average": 4.6119404
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-optimize-blob-storage-costs.md",
-      "title": "Optimize storage performance and costs using Blob storage tiers",
-      "excerpt": "Compare storage tiers and assign appropriate levels for data types.  Use Azure tools and code to retrieve and set storage tier for accounts and blobs.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-optimize-blob-storage-costs/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-archive-costs-blob-storage/",
-      "length": "43 mins",
-      "ratings": {
-        "count": 64,
-        "average": 4.6875
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/optimize-blob-storage-costs-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Optimize storage performance and costs using Blob storage tiers",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-optimize-web-app-with-redis.md",
-      "title": "Optimize your web applications by caching read-only data with Redis",
-      "excerpt": "Use Redis caching in Azure to reduce the load on databases. Apply different caching architectures to support larger loads in distributed and high-volume environments.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-optimize-web-app-with-redis/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-your-web-apps-with-redis/",
-      "length": "55 mins",
-      "ratings": {
-        "count": 177,
-        "average": 4.7231636
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/optimize-web-apps-with-redis-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Optimize your web applications by caching read-only data with Redis",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-organize-blobs-properties-metadata.md",
-      "title": "Organize Azure storage blobs with properties and metadata",
-      "excerpt": "Compare the types of properties and metadata associated with Azure storage blobs, and examine the methods used to view and modify these values. Add code to ASP.NET Core apps to retrieve and modify metadata.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-organize-blobs-properties-metadata/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/organize-blobs-properties-metadata/",
-      "length": "42 mins",
-      "ratings": {
-        "count": 58,
-        "average": 4.37931
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/organize-blobs-with-properties-and-metadata-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Organize Azure storage blobs with properties and metadata",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-perform-advanced-streaming-data-transformations-with-spark-kafka.md",
       "title": "Perform advanced streaming data transformations with Apache Spark and Kafka in Azure HDInsight",
       "excerpt": "In this module, you will learn how to create real-time streaming data analytics pipelines and applications on the cloud by using Azure HDInsight with Apache Kafka and Apache Spark.",
@@ -846,6 +636,50 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-protect-vm-settings-with-dsc.md",
+      "title": "Protect your virtual machine settings with Azure Automation State Configuration",
+      "excerpt": "Create a desired state configuration script that checks that IIS is installed. Onboard virtual machines (VMs) for management by Azure Automation. Automatically install IIS on the VMs where that feature is missing.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-vm-settings-with-dsc/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-vm-settings-with-dsc/",
+      "length": "54 mins",
+      "ratings": {
+        "count": 788,
+        "average": 4.6662436
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/protect-vm-settings-with-dsc-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Protect your virtual machine settings with Azure Automation State Configuration",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-protecting-monitoring-tuning-migrated-database.md",
       "title": "Protecting, monitoring and tuning a migrated database",
       "excerpt": "In this module, you'll learn how to use the Azure features available for protect, monitor, and tune a database.",
@@ -1265,6 +1099,177 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-python-object-oriented-programming.md",
+      "title": "Object-oriented programming in Python",
+      "excerpt": "Learn more about object-oriented programming with this next-steps module in Python.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-python-object-oriented-programming/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/python-object-oriented-programming/",
+      "length": "51 mins",
+      "ratings": {
+        "count": 723,
+        "average": 4.6639004
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/python-object-oriented-programming-badge-social.png",
+          "width": 320,
+          "height": 160,
+          "title": "Object-oriented programming in Python",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-qsharp-create-first-quantum-development-kit.md",
+      "title": "Create your first Q# program by using the Quantum Development Kit",
+      "excerpt": "Get started with Q# programming by building a quantum random number generator.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-qsharp-create-first-quantum-development-kit/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/qsharp-create-first-quantum-development-kit/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 160,
+        "average": 4.76875
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/quantum/qsharp-create-first-quantum-development-kit-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Create your first Q# program by using the Quantum Development Kit",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-react-to-state-changes-using-event-grid.md",
+      "title": "React to state changes in your Azure services by using Event Grid",
+      "excerpt": "Build a serverless application architecture, automate your operations, and integrate applications by handling Azure events with Event Grid.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-react-to-state-changes-using-event-grid/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/react-to-state-changes-using-event-grid/",
+      "length": "33 mins",
+      "ratings": {
+        "count": 230,
+        "average": 4.595652
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/react-to-state-changes-using-event-grid-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "React to state changes in your Azure services by using Event Grid",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Integration",
+        "IoT",
+        "Blockchain"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-recognize-entities-text-analytics-api.md",
+      "title": "Recognize entities in text with the text analytics API",
+      "excerpt": "Identify and categorize entities in your text as people, places, organizations, date/time, quantities, percentages, currencies, and more.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-recognize-entities-text-analytics-api/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-entities-text-analytics-api/",
+      "length": "PT18M",
+      "ratings": {
+        "count": 8,
+        "average": 4.875
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
       ]
     }
   ],

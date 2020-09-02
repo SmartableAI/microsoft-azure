@@ -4,49 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-creating-and-configuring-hdinsight-cluster.md",
-      "title": "Creating and configuring a HDInsight cluster",
-      "excerpt": "In this module, you will learn how to create a HDInsight Cluster, monitor a cluster and be aware of common provisioning issues.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-creating-and-configuring-hdinsight-cluster/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/creating-and-configuring-hdinsight-cluster/",
-      "length": "PT1H6M",
-      "ratings": {
-        "count": 126,
-        "average": 4.5555553
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/creating-and-configuring-a-hdinsight-cluster-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Creating and configuring a HDInsight cluster",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-data-anomaly-search-using-iot-hub.md",
       "title": "Identify anomalies by routing data via IoT Hub to a built-in ML model in Azure Stream Analytics",
       "excerpt": "Learn about Azure IoT Hub message routing, and Stream Analytics anomaly detection. Start by creating an app that simulates issues with conveyor belt vibration. Then, use the Azure portal to route all the data for archiving in blob storage. Finish by routing the vibration data to anomaly detection, using a built-in ML model.",
@@ -212,6 +169,50 @@
           "width": 640,
           "height": 320,
           "title": "Describe Azure Databricks Delta Lake architecture",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-describe-lazy-evaluation-other-performance-features-azure-databricks.md",
+      "title": "Describe lazy evaluation and other performance features in Azure Databricks",
+      "excerpt": "Understand the difference between a transform and an action, lazy and eager evaluations, Wide and Narrow transformations, and other optimizations in Azure Databricks.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-lazy-evaluation-other-performance-features-azure-databricks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-lazy-evaluation-performance-features-azure-databricks/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 62,
+        "average": 4.7419353
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-lazy-evaluation-other-performance-features-azure-databricks-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Describe lazy evaluation and other performance features in Azure Databricks",
           "isCached": true
         }
       ],
@@ -399,15 +400,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-introduction-to-data-streaming.md",
-      "title": "Work with data streams by using Azure Stream Analytics",
-      "excerpt": "Explore how Azure Stream Analytics integrates with your applications or Internet of Things (IoT) devices to gain insights with real-time streaming data. Learn how to consume and analyze data streams and derive actionable results.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-data-streaming/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-data-streaming/",
-      "length": "25 mins",
+      "path": "_learning/courses/microsoft-learn-introduction-open-source-analytics-offering.md",
+      "title": "Introduction to the Open source Analytics Offering",
+      "excerpt": "At the end of this module, you will learn that Azure HDInsight is a fully managed cloud service that enables you to efficiently process massive amounts of data using the most popular open source frameworks.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-open-source-analytics-offering/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-open-source-analytics-offering/",
+      "length": "PT31M",
       "ratings": {
-        "count": 1217,
-        "average": 4.63599
+        "count": 196,
+        "average": 4.602041
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -427,10 +428,10 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/introduction-to-data-streaming-badge-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-the-open-source-analytics-offering-social.png",
           "width": 800,
           "height": 400,
-          "title": "Work with data streams by using Azure Stream Analytics",
+          "title": "Introduction to the Open source Analytics Offering",
           "isCached": true
         }
       ],

@@ -8,7 +8,7 @@ length: 55 mins
 ratings:
   count: 177
   average: 4.7231636
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Optimize your web applications by caching read-only data with Redis"
 
-secured: "NTGg6iFBLtup5UiRAfkmQRS0ZAftYB2YKA1VmaGzY9u+CNcIc45FR0pmzHBwNfPmfIHn3Nqu8gaWfEaaB9LDDN4Hed9bjuyzW9ANP/6zHcrb9d+Vui2TsZe0zuDnqwSObo/JIVZv1QEP9mzi7CWjyi2j5OOjfTvSj14HoV3mU/3pnRHu7vpy47MXeUgvLWoyYptesTTMWC8hoF7EXBFTZhZrZewboZEpl4Mh7cClp2C5go0d1de7yP2MqZHAUNzQIc/PY6SeWNLLKPSwkIfAPDmyOBbEliQlERVQWdvX8oQyH+P5IgGTnXvjdrxlcGSkYdnzQ4e+3ac52RKa+JFyCs7iY2wlq/u+RdyV3R4yO+A7oawPoQUaoBp1dqm3Xw0K0YCocbByXENcXj78hM+Ic37+/fLcmFVIMjBoTEPPHio=;LrHwpGW6kdBsYuidkMTH7w=="
+secured: "0wsUSR7dr7ey5dTOKpqPmSHyhOMK/19XJrGX86grSuBTC022SkpMz03+TwlPHW6JInTVCGFeNYdFbOz0ptNtd3fcdwtgctLxhpP3NZE1TUW8nbx4LeP44QHMcAUgQxXERMOS6jOZryAmWo2fJ+8Mgzt7f/MjcQzilrWi2sXSWKwqnlZxjM2itBrwuxuGhUCDeDdjvbpGWpGtSrbqerBrI5NksOZH9b+GnR7AnF9gtbMTPbat7afH9F+NJDkZKWyKueEbvRTVFiIY5aHv5leDBgHsBlt551Xau5W+dJZSd6BbHvKjbgCtD7e3bQJQApi+ecHV+NQCmFnfl4tdwr/jDtph+z76gYcjV9mLA2q5m49rx4g3fv6s3602lws1AebJYuOS9eYp0y35p/ud0Lv+2XXIFwqVRcziPRR6OGZe9Ug=;633XWAtEuaIgHO5CsknoFg=="
 ---
 

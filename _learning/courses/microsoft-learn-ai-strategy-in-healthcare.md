@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Define an AI strategy to create business value in healthcare"
 
-secured: "T6JpSZa9Ad6FRRQuw45B/C1GOKOsef6jQ/79j8cOxDMjvgubphHySb+O+nHD1p3cCXweHvmG2WUUTVAeZz2+eQ2xSM0tdUJpaQKS71etyLhnlfXz5D4FqNsXUQJ02TLBIM8ezIwAQ4tqFzqaHbVNVQC9ly3tKy5FNJ+8pAlwdXX/o8R2Z/m/eDorEV/zj2iQmtcSvqDWDnn3mGqhxyXdgj9Dfik0DvkZG5dR7vep/9tX/DtDPRVB5y1Cz1R9AXrvb7ZN7IEFhxSg1CFEodalZzq8nehF5PN5TdTSlI1HopXLK57Ynw1iawTSH5Hxup697/YAYySsPNagsmGD4CRu/YAA42mGmx69awf2OgAoP85aOhGCYCThdMxTh6GOrFPvnjh20h/eosLXDTSkoaxnpLdPod3OeT8r78swuYvvXrk=;+Lx6XEFbBP5e/fCD0U1StA=="
+secured: "ooQTzD+EuQYeRDtC1sEklqd+BFHAaC8LsGx/i1WGPyEVntQothae+8FSavU+vz+LXTGgYkd2rBlct+mFzh4p7H+nqdJ+CIy2BSVoQNG/YMOtlLgTz8NIU7O/EN8XLC6Hv736yQfqEJP+xGLXZvckz1GwDNP+pa/oM0Vb1UZygNrOTlWCf8VAEwKRNYDqCujLOaGk7wHKpxmHUwOaApmlHCZlBWvFOCLWkRWqIlKa0iYm+gt01/CkZXBA/BbwoNjo74aZyxpXxC0IBm8F+6JSzUO/7MwFpnRUrhKnp17YaZY5gBqzbBMIYgLLCD5kx2H6Tpi437Y7Hh8rPJ5Ou0di3g5/foTg6aEkC+V2OdBRnFjs+4pJeFMDnp6UkjijJJvc7R4ey/fyJy8RdkmTHMeDHDvnGci9JabPABo/eqb7i9Y=;q5sa36ilKfRjXTZG+c/csw=="
 ---
 

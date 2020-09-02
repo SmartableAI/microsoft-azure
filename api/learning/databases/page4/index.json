@@ -4,6 +4,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-migrate-sql-workloads-azure-managed-instances.md",
+      "title": "Migrate SQL Workloads to Azure Managed Instances",
+      "excerpt": "Learners will be able to demonstrate the benefits and processes for moving a SQL Server database to an Azure SQL Database Managed Instance.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-sql-workloads-azure-managed-instances/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-workloads-azure-managed-instances/",
+      "length": "64 mins",
+      "ratings": {
+        "count": 57,
+        "average": 4.631579
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/migrate-sql-workloads-to-azure-managed-instances-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Migrate SQL Workloads to Azure Managed Instances",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Migration"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-migrate-sql-workloads-azure-sql-databases.md",
       "title": "Migrate SQL Workloads to Azure SQL Databases",
       "excerpt": "In this module, you will learn to demonstrate the benefits and processes for moving a SQL Server database to Azure SQL Database.",
@@ -44,49 +88,6 @@
       "topics": [
         "Azure",
         "Migration",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-optimize-web-app-with-redis.md",
-      "title": "Optimize your web applications by caching read-only data with Redis",
-      "excerpt": "Use Redis caching in Azure to reduce the load on databases. Apply different caching architectures to support larger loads in distributed and high-volume environments.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-optimize-web-app-with-redis/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-your-web-apps-with-redis/",
-      "length": "55 mins",
-      "ratings": {
-        "count": 177,
-        "average": 4.7231636
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/optimize-web-apps-with-redis-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Optimize your web applications by caching read-only data with Redis",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
         "Databases"
       ]
     },

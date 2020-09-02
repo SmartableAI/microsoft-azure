@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Train and package an Azure machine learning module for deployment to IoT Edge device"
 
-secured: "KcODvQ8fhKrZtVBF+kjTqylHvf3r6KzIO/hxd4SnrV9lEtHngGJY+1MtWHN4Ad2YZgw+SFuOO0m4Qo/uFAJxSeEzoLavB3bRSkjG1KQYrlq4WdNty/AOdCi/Gdt4HWFtVTk/ISp6/VMUVR71t3kmDbzOVBhaiwIVpKeD3dmQ6g5/gpMsanG9Zqnd0toc3iSJL6fn1iXP+q2E2/3AIJY6KrH+rkww8pqogPui/zGnfcTdGHBkrdz6u0XObyTIClZFfb5oWO0gRXuru3LVgaf/lceUd85KTHKb1F1EIKpRYTJxexOy7QP0p8oFMF4qSmnTTmpS+uIhmV+dGht17JcFzZ8x7HrgGZjz3K/lcyLQMYF++7Zp1adl1fYUyvggLeRhaM/FIJa2yvQgXillug59whT7hHhhJjy39IrKTzrk4Hw=;hdywT/+nBMHv2hg1N/ldXQ=="
+secured: "wNa1VrSKuWODteuUWtBRN4KUr8SrjFbZEHKxfb2KjI5T7QQQaGD81qcMSeb9+zBQEAI60oVQIIHozvWnJHi03Kx479+ae7dgTef02tgcOKCPKiE30iT02A9AjLe7uqMVFT4ll3xnhAqXbLSF3bkPgsdclIhtCsuA+XhzSlL3EiV8NM1ekEsXKqanb4MbV9s8VKd+WmXSrePCOWtLDHpIkCilIkB5hI0nY5BV90IEv2w6dD+PtsNhIKbpHaZMgFBc5fPwnDw52QokELdthrma1pcL7HQV+8tVU2T7+wdlGoPl71qYU/KDq06jmeJSaPK2svqZHkbE1wreqTEabmGR6Q8gPUHN5iuB11+EpqluiuYqfjI6HilYSCDrx5+UVpiY7sF0cwkLK67iMEsbsQT3/Lb7ogvhUF/6REr+agJbOfo=;+quPkXaIh4l1rMTAV7zb0w=="
 ---
 

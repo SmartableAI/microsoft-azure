@@ -8,7 +8,7 @@ length: 31 mins
 ratings:
   count: 1467
   average: 4.607362
-heat: 52
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Distribute your data globally with Azure Cosmos DB"
 
-secured: "xTuCDeO0Uc3T2ShzcrMzs53enZ7FohWv1K2fWlhJyjvX3/3ZpVcqZVY7njdKH3TkL3ROjxUwQN8f5JOnrA6P077ikkND8Ph0lFmb7UjpWVfDJYCEN5TVjyof2fYPznG2gX1cA8qHkpIU11o+dMJnixnLqJju1MdPQYrpgZIxOh4HRnQbfukMYOSa22NuYJWBMemxbCQqQjzVlAc++dpV4XrB6m/hCgy9u2cMvYZeYwlu3d8/cdxscSJyQfaKkY6cicYzauGioHExKpMi7LzDlvRtQg+UkRzMt5LV4mUqXFsDNX7gb7Edg+9mFFB8etJHvEo/nwJdMC9ZdqgF5RYfCJl+jvwoLXrKhqL62it1i1ydcqIZ2e2pY7DUYPqc6DAuNDVyxxG5EA29o3WKiF2P5dws5+QPCPAwNya87Qr5Ss4=;G3BC/KjSOwNM/3zAlbx8Iw=="
+secured: "M9fqQrVh8S9ml7+1v++9b3cvlvbeSNZaB7aA7GPy72c1kKFr8y/a15Qkgq+X34OTgM8VKIghyx6Y8fQvPr4FSaMNawUxd0aD4bFWWRVg6JOyUT8+qnn0pXhrbzjIU6zUunmsdTQuC6bf55QgjflHpkeVQ91MfXnmLI1EB84TdSMy+HZat+h7UQhEE7digJTtnJCXlCBSoQu30VTZVGtOr0oJFOzOKx/z2NwB5lTr7opf6OjOLicBv3LGcYW2Swq8QJ+0cIF5uks7SI1qk0MXFQhBs2veHUHpaaVVRz6zGaZEao+h89Y/xqSwVHeYsbsXZ3rirBkhgv4F7kEmxFsQRcVKLMfITJ0MmixF1g61Qix9ee1BXzKkq4tCvdFvjCdS8N2xtML/YDrtzsKEm/1VO/Nbdy8ysrTycOZG0xj4ang=;+KpqDHmbA5wHzEgiUa6iXA=="
 ---
 

@@ -8,7 +8,7 @@ length: 17 mins
 ratings:
   count: 1278
   average: 4.72457
-heat: 53
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Simplify access and identity provisioning with Microsoft 365"
 
-secured: "Gyn2LEXUHYgHLL4iWgRGio9rX9rd3bT7622RKdlySMafDhtNaU20isP2ku8DhTcPQA8uqHfLP319DkhhH1Upam1dql7d10mFrpxeviCZN2rIeiJVMKlZ/LQbODdpkM8tmjifr8+X64PREOwrANUySCHmLsbWa1D+r7NqUVExmnzj4ilwH9/e3gIBbnanGqRyof7mw0wosMPPnvUbVgVaRyQTeczJs1I6RhjCiNms0xQXVwmOGfXRxGFVmZxUwccFsYQVf6UVyPDp7maImZ25gYaN/9vOwYQlAfGoA6SqaoM2vOozf1paRk14A1RiDXWB4NX8qfj6giines6zNn0V4QYX+ljKkhlCZ/168fkHeO7ZqJz+L8iM21upqEHfWiAnqtP0Q55Fmxy//eRlLB362xWfZD2J2yc/LWCAGlOm6HM=;YVpwQ3u26VH1ZAjzj22POg=="
+secured: "VHS62ttilQtdB6kj/c2xEWBx60Fj+x9fdO22NdaiuEC3mP54RKoLkeFUWm173EtBO2DwWi1iTp7emGGe/hruqzukR0GONql/5dqExMyaJubbDf1t9OD54GVqzJFg/anJv9Y3v/c0svtapfOALreiEI/BgTTa8j0FosCL9C9uPPr3der+dPtBmy6a3Lu5EFPeBxkr6DVu4EVaWI8uhHQSjmbsR64e4Lu7Oazp5qdHsgY4G547w7RfA5IjCkrmAnCFGqHACtXn1pF+awWxOdx/Ookm+63pjMOjNIsr+Aj0ULtrFinjD/3A+mCnq157eRYCyQk3HwTgPHj6IanqD4BlaUqafXRna1/tf06Qbv0uUf4M2cwZDlXDrBdJs6T9F9dFw2N9jyHQDJa+awAJttXOau4cXA/IgYp1z3gYCgYF5ag=;9+1kwYlRo5i8UyZjGzJB9A=="
 ---
 

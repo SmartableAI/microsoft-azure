@@ -4,6 +4,439 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-migrate-an-aspnet-web-application-to-azure-app-service.md",
+      "title": "Migrate an ASP.NET web application to Azure App Service",
+      "excerpt": "Migrate an ASP.NET web application to Azure App Service",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-migrate-an-aspnet-web-application-to-azure-app-service/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-migrate-an-aspnet-web-application-to-azure-app-service/",
+      "length": "PT1H17M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Externalize configuration for your ASP.NET application using Azure Key Vault",
+          "excerpt": "Learn how use ConfigurationBuilder to dynamically configure an ASP.NET web application to retrieve secrets from Azure Key vault",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Security",
+            "Web",
+            "Compute",
+            "Containers",
+            "Mobile"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Implement logging in a .NET Framework ASP.NET web application",
+          "excerpt": "Learn how to implement logging in an ASP.NET web application, to store log data in Azure blob storage, and incorporate log information in Application Insights performance data.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Web",
+            "Compute",
+            "Containers",
+            "Mobile",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Improve session scalability in a .NET Framework ASP.NET web application using Azure Cache for Redis",
+          "excerpt": "Learn how to use Azure Cache for Redis to store session data and improve the scalability of web applications",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Web",
+            "Compute",
+            "Containers",
+            "Mobile"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web",
+        "Security",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-migrate-an-aspnet-web-application-to-azure-with-visual-studio.md",
+      "title": "Migrate an ASP.NET web application to Azure with Visual Studio",
+      "excerpt": "Migrate an ASP.NET web application to Azure with Visual Studio",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-migrate-an-aspnet-web-application-to-azure-with-visual-studio/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-migrate-an-aspnet-web-application-to-azure-with-visual-studio/",
+      "length": "PT1H17M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Externalize configuration for your ASP.NET application using Azure Key Vault",
+          "excerpt": "Learn how use ConfigurationBuilder to dynamically configure an ASP.NET web application to retrieve secrets from Azure Key vault",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Security",
+            "Web",
+            "Compute",
+            "Containers",
+            "Mobile"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Implement logging in a .NET Framework ASP.NET web application",
+          "excerpt": "Learn how to implement logging in an ASP.NET web application, to store log data in Azure blob storage, and incorporate log information in Application Insights performance data.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Web",
+            "Compute",
+            "Containers",
+            "Mobile",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Improve session scalability in a .NET Framework ASP.NET web application using Azure Cache for Redis",
+          "excerpt": "Learn how to use Azure Cache for Redis to store session data and improve the scalability of web applications",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Web",
+            "Compute",
+            "Containers",
+            "Mobile"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web",
+        "Security",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-migrate-sql-workloads-to-azure.md",
+      "title": "Migrate SQL workloads to Azure",
+      "excerpt": "The objective of this learning path is to educate the learner how they can migrate SQL Server workloads to SQL Services that exist on Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-migrate-sql-workloads-to-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-migrate-sql-workloads-to-azure/",
+      "length": "PT4H1M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Migrate SQL workloads to Azure virtual machines",
+          "excerpt": "Learners will be able to demonstrate the benefits and processes for moving a SQL Server database to an Azure virtual machine.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/migrate-sql-workloads-to-azure-virtual-machines-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Migrate SQL workloads to Azure virtual machines",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Migration",
+            "Compute"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Migrate SQL Workloads to Azure SQL Databases",
+          "excerpt": "In this module, you will learn to demonstrate the benefits and processes for moving a SQL Server database to Azure SQL Database.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/migrate-sql-workloads-to-azure-sql-databases-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Migrate SQL Workloads to Azure SQL Databases",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Migration",
+            "Databases"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Migrate SQL Workloads to Azure Managed Instances",
+          "excerpt": "Learners will be able to demonstrate the benefits and processes for moving a SQL Server database to an Azure SQL Database Managed Instance.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/migrate-sql-workloads-to-azure-managed-instances-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Migrate SQL Workloads to Azure Managed Instances",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Databases",
+            "Migration"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/migrate-sql-workloads-to-azure-virtual-machines-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Migrate SQL workloads to Azure virtual machines",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-migrating-cassandra-and-mongodb-workloads-to-cosmos-db.md",
+      "title": "Migrating Cassandra and MongoDB workloads to Cosmos DB",
+      "excerpt": "This learning path enables students to migrate Cassandra and MongoDB workloads to Cosmos DB.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-migrating-cassandra-and-mongodb-workloads-to-cosmos-db/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-migrating-cassandra-and-mongodb-workloads-to-cosmos-db/",
+      "length": "PT1H13M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Introduction to open source database migration to Azure Cosmos DB",
+          "excerpt": "In this module, the learner will gain an understanding of Cosmos DB and the main considerations when migrating to Cosmos DB.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/Introduction-to-open-source-database-migration-to-Azure-Cosmos-DB-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Introduction to open source database migration to Azure Cosmos DB",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Migrate Cassandra workloads to Cosmos DB",
+          "excerpt": "Learners will be able to demonstrate the benefits and processes for moving a Cassandra database to the Azure Cosmos DB Cassandra API.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/learn-pr/achievements/migrate-cassandra-workloads-to-cosmos-db-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Migrate Cassandra workloads to Cosmos DB",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Databases",
+            "Migration"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Migrate on-premises MongoDB databases to Cosmos DB",
+          "excerpt": "Learners will be able to demonstrate the benefits and processes for moving a MongoDB database to the Azure Cosmos DB for MongoDB API.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/learn-pr/achievements/migrate-on-premises-mongodb-databases-to-cosmos-db-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Migrate on-premises MongoDB databases to Cosmos DB",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Databases",
+            "Migration"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/Introduction-to-open-source-database-migration-to-Azure-Cosmos-DB-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Introduction to open source database migration to Azure Cosmos DB",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-optimize-query-performance-in-sql-server.md",
       "title": "Optimize query performance in SQL Server",
       "excerpt": "Analyze individual query performance and determine where improvements can be made. Explore performance-related Dynamic Management Objects. Investigate how indexes and database design affect queries.",
@@ -624,48 +1057,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-describe-performance-monitoring.md",
-      "title": "Describe performance monitoring",
-      "excerpt": "Compare Azure and on-premises tools for monitoring and measuring performance. Determine critical metrics. Understand the purpose of a baseline for comparative analysis.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-performance-monitoring/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-performance-monitoring/",
-      "length": "PT42M",
-      "ratings": {
-        "count": 20,
-        "average": 4.85
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-describe-performance-related-maintenance-tasks-sql-server.md",
       "title": "Describe performance-related maintenance tasks in SQL Server",
       "excerpt": "Implement tasks for both IaaS and PaaS to maintain indexes, and statistics. Explore the automatic tuning features of Azure SQL Database.",
@@ -937,48 +1328,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-explore-causes-of-performance-issues.md",
-      "title": "Explore causes of performance issues",
-      "excerpt": "Explore the Query Store for tracking down problematic queries. Understand how SQL Server and Azure SQL manage currency by locking and blocking, or by using snapshots. Implement fragmentation checks and defragmentation.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-causes-of-performance-issues/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-causes-performance-issues/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 26,
-        "average": 4.8461537
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-explore-iaas-paas-platform-tools-for-ha-dr.md",
       "title": "Explore IaaS and PaaS platform tools for high availability and disaster recovery",
       "excerpt": "Deploy Windows Server Failover Cluster and AGs in Azure and hybrid environments. Configure temporal tables, geo-replication and auto failover groups.",
@@ -1138,50 +1487,6 @@
       "topics": [
         "Azure",
         "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-manage-database-changes-in-azure-pipelines.md",
-      "title": "Manage database changes in Azure Pipelines",
-      "excerpt": "Use a release approval in Azure Pipelines to help coordinate database schema changes between developers and database administrators.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-database-changes-in-azure-pipelines/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-database-changes-in-azure-pipelines/",
-      "length": "74 mins",
-      "ratings": {
-        "count": 589,
-        "average": 4.6485567
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-database-changes-in-azure-pipelines-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Manage database changes in Azure Pipelines",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "DevOps"
       ]
     },
     {
@@ -1358,50 +1663,6 @@
         "Azure",
         "Migration",
         "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-migrate-sql-workloads-azure-managed-instances.md",
-      "title": "Migrate SQL Workloads to Azure Managed Instances",
-      "excerpt": "Learners will be able to demonstrate the benefits and processes for moving a SQL Server database to an Azure SQL Database Managed Instance.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-sql-workloads-azure-managed-instances/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-workloads-azure-managed-instances/",
-      "length": "64 mins",
-      "ratings": {
-        "count": 57,
-        "average": 4.631579
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/migrate-sql-workloads-to-azure-managed-instances-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Migrate SQL Workloads to Azure Managed Instances",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Migration"
       ]
     }
   ],

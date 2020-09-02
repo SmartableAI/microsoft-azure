@@ -4,15 +4,15 @@
   "page": 23,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-intro-azure-sphere.md",
-      "title": "Introduction to Azure Sphere",
-      "excerpt": "Determine the types of business problems that can be solved using Azure Sphere. Explain the capabilities and the components (microcontroller unit, operating system, cloud-based security service) for the Azure Sphere. Describe how the components provide a secure platform to develop, deploy, and maintain secure internet connected IoT solutions.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-azure-sphere/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-azure-sphere/",
-      "length": "PT30M",
+      "path": "_learning/courses/microsoft-learn-intro-to-app-center.md",
+      "title": "Introduction to App Center",
+      "excerpt": "Characterize the types of services offered by App Center. Describe the use of App Center to build, distribute, test, and analyze usage of apps.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-app-center/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-app-center/",
+      "length": "49 mins",
       "ratings": {
-        "count": 34,
-        "average": 4.6764708
+        "count": 228,
+        "average": 4.486842
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -32,10 +32,10 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-azure-sphere-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Introduction to Azure Sphere",
+          "url": "https://docs.microsoft.com/learn/achievements/app-center/introduction-to-app-center-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Introduction to App Center",
           "isCached": true
         }
       ],
@@ -43,135 +43,7 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "IoT"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-cloud-everyone.md",
-      "title": "Introduction to Cloud for Everyone",
-      "excerpt": "Learn about Cloud for Everyone.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-cloud-everyone/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-cloud-everyone/",
-      "length": "PT17M",
-      "ratings": {
-        "count": 5,
-        "average": 4.8
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Introduction to Cloud for Everyone",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-iot-funtions-iot.md",
-      "title": "Introduction to Azure Functions for IoT",
-      "excerpt": "Assess the characteristics of Azure Functions for IoT. Describe the function of triggers and bindings and show how you combine them to create a scalable IoT solution. Describe the benefits of using cloud infrastructure to rapidly deploy IoT applications with Azure Functions.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-iot-funtions-iot/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-azure-functions-iot/",
-      "length": "PT27M",
-      "ratings": {
-        "count": 61,
-        "average": 4.639344
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-azure-functions-iot-edge-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Introduction to Azure Functions for IoT",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-mlops-iot-edge.md",
-      "title": "Introduction to MLOps for IoT Edge",
-      "excerpt": "Analyze the significance of MLOps in the development and deployment of machine learning models for IoT Edge. Describe the components of the MLOps pipeline and show how you can combine them to create models that can be retrained automatically for IoT Edge devices.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-mlops-iot-edge/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-mlops-iot-edge/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 33,
-        "average": 4.4848485
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-mlops-iot-edge-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Introduction to MLOps for IoT Edge",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
+        "Management Tools"
       ]
     },
     {
@@ -351,8 +223,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot/",
       "length": "31 mins",
       "ratings": {
-        "count": 413,
-        "average": 4.687651
+        "count": 414,
+        "average": 4.688406
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -384,49 +256,6 @@
       "topics": [
         "Azure",
         "IoT"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-kubernetes.md",
-      "title": "Introduction to Kubernetes",
-      "excerpt": "Determine the types of business problems that can be solved using Kubernetes. Describe the benefits of container orchestration with features like deployment management, automatic updates, and self-healing.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-kubernetes/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-kubernetes/",
-      "length": "53 mins",
-      "ratings": {
-        "count": 448,
-        "average": 4.598214
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-kubernetes-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Introduction to Kubernetes",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
       ]
     },
     {
@@ -463,6 +292,49 @@
         "IoT",
         "Storage",
         "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-open-source-analytics-offering.md",
+      "title": "Introduction to the Open source Analytics Offering",
+      "excerpt": "At the end of this module, you will learn that Azure HDInsight is a fully managed cloud service that enables you to efficiently process massive amounts of data using the most popular open source frameworks.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-open-source-analytics-offering/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-open-source-analytics-offering/",
+      "length": "PT31M",
+      "ratings": {
+        "count": 196,
+        "average": 4.602041
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-the-open-source-analytics-offering-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Introduction to the Open source Analytics Offering",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
       ]
     },
     {
@@ -599,47 +471,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-introduction-python-nasa.md",
-      "title": "Discover the role of Python in space exploration",
-      "excerpt": "Get an introduction to the types of space exploration problems that Python and data science can influence.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-python-nasa/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-python-nasa/",
-      "length": "PT23M",
-      "ratings": {
-        "count": 20,
-        "average": 4.7
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-python-nasa-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-introduction-python-using-datascience-library.md",
       "title": "Introduction to Python using the datascience library",
       "excerpt": "Learn about programming and data types in Python",
@@ -724,49 +555,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-introduction-to-data-streaming.md",
-      "title": "Work with data streams by using Azure Stream Analytics",
-      "excerpt": "Explore how Azure Stream Analytics integrates with your applications or Internet of Things (IoT) devices to gain insights with real-time streaming data. Learn how to consume and analyze data streams and derive actionable results.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-data-streaming/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-data-streaming/",
-      "length": "25 mins",
-      "ratings": {
-        "count": 1217,
-        "average": 4.63599
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/introduction-to-data-streaming-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Work with data streams by using Azure Stream Analytics",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-introduction-to-distributed-programming.md",
       "title": "What is distributed programming?",
       "excerpt": "Learn about distributed programming and why it's useful for the cloud, including programming models, types of parallelism, and symmetrical vs. asymmetrical architecture.",
@@ -799,48 +587,6 @@
           "width": 320,
           "height": 160,
           "title": "What is distributed programming?",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-introduction-to-git.md",
-      "title": "Introduction to Git",
-      "excerpt": "Find out what source control is, and get an introduction to Git - the world's most popular version control system.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-git/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-git/",
-      "length": "75 mins",
-      "ratings": {
-        "count": 417,
-        "average": 4.736211
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-git-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Introduction to Git",
           "isCached": true
         }
       ],
@@ -1239,6 +985,47 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-m365-identity-zero-trust.md",
+      "title": "Embrace Zero Trust with Microsoft 365",
+      "excerpt": "Learn about the Zero Trust model and how to implement Zero Trust into your organization.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-identity-zero-trust/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-zero-trust/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 81,
+        "average": 4.7901235
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-maintain-azure-sap-workloads.md",
       "title": "Maintain Azure for SAP workloads",
       "excerpt": "You will review connection to Azure VMs running SAP workloads using public endpoints on a Jumpbox, VPN, or Azure ExpressRoute. You will also see how to back up Azure VMs using or more Azure VMs.",
@@ -1278,6 +1065,218 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-make-predictions-with-linear-regression.md",
+      "title": "Make predictions with linear regression",
+      "excerpt": "Learn how to make predictions using linear regression",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-make-predictions-with-linear-regression/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/make-predictions-with-linear-regression/",
+      "length": "PT1H27M",
+      "ratings": {
+        "count": 37,
+        "average": 4.783784
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/make-predictions-with-linear-regression-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Make predictions with linear regression",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-azure-paas-resources-using-automated-methods.md",
+      "title": "Manage Azure PaaS resources using automated methods",
+      "excerpt": "Explore SQL automation for Azure SQL Database and Open Source databases. Configure elastic jobs and Azure Policy.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-azure-paas-resources-using-automated-methods/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-azure-paas-resources-using-automated-methods/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 12,
+        "average": 4.8333335
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-azure-updates.md",
+      "title": "Manage Azure updates",
+      "excerpt": "You'll be able to enable Azure Update Management, deploy updates, review an update assessment, and manage updates for your Azure VMs.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-azure-updates/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-azure-updates/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 9,
+        "average": 4.4444447
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-costs-partner-cost-management.md",
+      "title": "Configure and manage costs as a Microsoft Partner by using Azure Cost Management",
+      "excerpt": "Learn how to reconcile your bill and analyze costs across your customers and resources by using Azure Cost Management as a partner.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-costs-partner-cost-management/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-costs-partner-cost-management/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 3,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/manage-costs-partner-cost-management-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-enterprise-security-in-hdinsight.md",
+      "title": "Manage enterprise security in HDInsight",
+      "excerpt": "Azure HDInsight in conjunction with other Azure services provides a comprehensive multi-tiered security solution and is a shared responsibility between Microsoft and the customer.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-enterprise-security-in-hdinsight/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-enterprise-security-hdinsight/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 44,
+        "average": 4.6363635
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/manage-enterprise-security-in-hdinsight-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Manage enterprise security in HDInsight",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
       ]
     }
   ],
