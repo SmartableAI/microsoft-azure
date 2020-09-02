@@ -21,23 +21,24 @@ topics:
   - Azure
 
 related:
-  - title: "Qualys provides vulnerability management for customers of Azure Security Center"
-    excerpt: "Qualys Container Security is immediately available and Qualys Vulnerability Management will be available within a month in Microsoft Azure Security Center."
-    publishedDateTime: 2020-05-10T23:32:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/05/11/qualys-microsoft-azure/"
+  - title: "Azure Security Center—News and updates for August 2020"
+    excerpt: "New enhancements and updates that were made to Azure Security Center in August 2020."
+    publishedDateTime: 2020-09-02T21:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asc-august2020/"
     type: article
     provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 33
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
-        width: 304
-        height: 430
-        isCached: true
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/04/05180452/qualys-globe.jpg"
-        width: 1280
-        height: 732
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Security Center—News and updates for July 2020"
+    excerpt: "New enhancements and updates were made to Azure Security Center in July 2020."
+    publishedDateTime: 2020-08-04T16:00:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asc-july2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
 
 secured: "qg2Dp+/6xnTaAeuU9Wad7YZCz4rlzbYiwGlK6BaERXX0pQq4D1ZVLcqekenyXsJYZQ2xjePLeXrEbvz6ZdcQZUjjKL9q9Z15rN7wo1LdEgBkT5z8XgivQezb5AAodsKtMm+/SA+PAN5vOlhuBH/baaaB2xSqnMnlhTUhIS2VI2HJDb+fU9MjURZRnlxN+0933O8fg6TLvMRBTnBuvyRz9tG8NnSvIS8HI+d/mQSs8A1A9mw8SBMqEU11lEMiBdGPLlKZM9iWN6m4EjH6nVw3/hEwfkebUNnyAezZYgTgrai87rESZSVz8fJ+W8onRlJCMlnyqgCFkiHvqbvMfkkVNw==;e5+q6fCzfkhj/T/HyGYeCg=="
 ---
