@@ -255,20 +255,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 36
-  - title: "Call Journey Now Available in Microsoft Azure Marketplace and App Source"
-    excerpt: "Call Journey, provider of market-leading Conversation Analytics technology, announces its listing in the Microsoft Azure Marketplace and AppSource o"
-    publishedDateTime: 2020-09-02T07:41:00Z
-    webUrl: "https://www.cmo.com.au/mediareleases/135281/call-journey-now-available-in-microsoft-azure/"
-    type: article
-    provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 36
-    images:
-      - url: "https://demo.idg.com.au/cmo/cmo50/2020/cmo50_promo_2.jpg"
-        width: 620
-        height: 254
-        isCached: true
   - title: "Greater Than Make Enerfy Loyalty Now Available in the Microsoft Azure Marketplace"
     excerpt: "Greater Than, today announced the availability of the cloud-based loyalty program Enerfy Loyalty in the Microsoft Azure Marketplace,"
     publishedDateTime: 2020-06-11T10:01:00Z
@@ -379,6 +365,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 17
+  - title: "Call Journey Now Available in Microsoft Azure Marketplace and App Source"
+    excerpt: "Call Journey, provider of market-leading Conversation Analytics technology, announces its listing in the Microsoft Azure Marketplace and AppSource online stores for Microsoft customers providing applications and services tailored to specific business needs."
+    publishedDateTime: 2020-09-02T07:41:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/135281/call-journey-now-available-in-microsoft-azure/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 16
 
 secured: "KvDvGJ4CDn1PsoGzvrwIDpgNmPmblSh/EQalRjtOnMnd9hLU000V0xUbsD+dkiwGdnk6ezTtVy7VCi8+Bs9XhhDozoekANh6Fzci4QFspTYGqdKBC+2qQaU3HBZfNHsYtxMaBoYmP+wGZmbPVBIE0Xq3zEpWZhkHSuJFbo+BZgoxvh9bFL42RKPGdGxwNHNVzDeTAe/3y4/JQhwsF2bUXOlPWLOVh3957d85yvtaRLm+nEMZbDX/7+AK78zGJs17cjRAdtu4lfG+pJNum/XXjl3x8Nvl0C1L0vR+pdHvQTWzjRyO0yZkYSARGw/kkg4NQ9XQ3IV9b1i0dAhlV7Mad+rmnu3YhXcr9fkRyj2Q5248jV86QFqkbaADg1zrlGg7MMEfZAXVNLHQZVpbc7ZCSOyxlXFYV/GP7fxhsy9AaSO4UF9NP2cx91RU8hTVKmYvxhel8Mh/niYjFcIr55kVHWrmZRP+xsLn0xYfHpXtWIZHW1G4NqKbKp2kWHTeRvECG6Bf8WFsx3YvtskcoyJ8/A==;9m7lPDfQz7Rv8NzPgr2Qhg=="
 ---

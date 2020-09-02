@@ -252,20 +252,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 36
-  - title: "Call Journey Now Available in Microsoft Azure Marketplace and App Source"
-    excerpt: "Call Journey, provider of market-leading Conversation Analytics technology, announces its listing in the Microsoft Azure Marketplace and AppSource o"
-    publishedDateTime: 2020-09-02T07:41:00Z
-    webUrl: "https://www.cmo.com.au/mediareleases/135281/call-journey-now-available-in-microsoft-azure/"
-    type: article
-    provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 36
-    images:
-      - url: "https://demo.idg.com.au/cmo/cmo50/2020/cmo50_promo_2.jpg"
-        width: 620
-        height: 254
-        isCached: true
   - title: "BitDam Advanced Threat Protection now available on Microsoft Azure Marketplace"
     excerpt: "BitDam announced the availability of its Advanced Threat Protection in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. BitDam customers can now take advantage of the productive and trusted Azure cloud ..."
     publishedDateTime: 2020-07-22T23:20:00Z
@@ -379,6 +365,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 17
+  - title: "Call Journey Now Available in Microsoft Azure Marketplace and App Source"
+    excerpt: "Call Journey, provider of market-leading Conversation Analytics technology, announces its listing in the Microsoft Azure Marketplace and AppSource online stores for Microsoft customers providing applications and services tailored to specific business needs."
+    publishedDateTime: 2020-09-02T07:41:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/135281/call-journey-now-available-in-microsoft-azure/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 16
 
 secured: "mTziDh2lbNAN5LN7Oysz4RJtve0a3ztikgIbVSC7Fe605qmsue1ARbW+z6caRRJDHphlxrvLX0fD4dC+409woBqKgN6SKjELrnpZGnG3w5paPk89qcuWt5cVGfPYmy3tL+vRjFrcTdq7WsKR5Iob52anQFCa7HXIBqdWmpucK3vkjq2v2OTAXPWaX1KnjzeITphwsoOgNkIEtR2ILLIPBtXW25v4jAS9uzuUAO7R45hI+Ak+zfZA0J9pHprzHXk+540JV/F7Dbb0+2rCfqT1c0vCpKGUF7j3Ae0w41GybVgvOHkgqXbHMvO9d8LIc8CNsg8FoaWG0tHZw2mZQ3jrI9jBqDDHMQv2UnIuCmVtW+4=;lYrKgCdxqIrY60mqsWU1MQ=="
 ---

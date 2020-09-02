@@ -242,20 +242,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 36
-  - title: "Call Journey Now Available in Microsoft Azure Marketplace and App Source"
-    excerpt: "Call Journey, provider of market-leading Conversation Analytics technology, announces its listing in the Microsoft Azure Marketplace and AppSource o"
-    publishedDateTime: 2020-09-02T07:41:00Z
-    webUrl: "https://www.cmo.com.au/mediareleases/135281/call-journey-now-available-in-microsoft-azure/"
-    type: article
-    provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 36
-    images:
-      - url: "https://demo.idg.com.au/cmo/cmo50/2020/cmo50_promo_2.jpg"
-        width: 620
-        height: 254
-        isCached: true
   - title: "BitDam Advanced Threat Protection now available on Microsoft Azure Marketplace"
     excerpt: "BitDam announced the availability of its Advanced Threat Protection in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. BitDam customers can now take advantage of the productive and trusted Azure cloud ..."
     publishedDateTime: 2020-07-22T23:20:00Z
@@ -380,6 +366,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 17
+  - title: "Call Journey Now Available in Microsoft Azure Marketplace and App Source"
+    excerpt: "Call Journey, provider of market-leading Conversation Analytics technology, announces its listing in the Microsoft Azure Marketplace and AppSource online stores for Microsoft customers providing applications and services tailored to specific business needs."
+    publishedDateTime: 2020-09-02T07:41:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/135281/call-journey-now-available-in-microsoft-azure/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 16
 
 secured: "6jAbtVpPfHKUnZ8tsSXtkP+ysxxDeCOLrPwzfAQ/th4A0P+SVBLHMs1zVN9WCpjK8sMRWKrQSBU6GI8uw86ci9yV2nCv6nbdMHjrpB7dRXIWrZWYTDNUw8WHyPA5EIweyKlNXobVZxX9GddvRH/RTAcngtsak+r+bl9WaPg0Hhh3Z6HgS6kkEEapATHrqRQVhZe0ftiZN3kpwJge29YtLG+NsPJjXIeyg9iF1lc6/WT+KDLJXv6kCtXk+OMie6smp2y3F0v7N1U/D1adnSM9IpwVO3f204uzsKbsgNKHBGGvwPBa9EanVxSWfV+fgCFOTccGb3X1980Y8D+gNww8DpwxuzDSBOG8caC7RJdfTzsKk385qHRPJ6Ki48Z/kkgzmRozepkst6vT3vEQsiR2UCkw+uXu7qzs7j4Ox+qMjgSy/IjlEOcLjYMnDrQsbXG/tZrEtkP02xRnhKEiG0+V7RJp/mdr5a4nNhXYlmHYAhYadRSGRKej5yAfnf03TkfJ7PNwHz0tg8Op+uc2Xgt/s6cvqX8eNTSxT5ZuGJ5Rdes=;921VdrSsDmR0dVdvgq2zKg=="
 ---

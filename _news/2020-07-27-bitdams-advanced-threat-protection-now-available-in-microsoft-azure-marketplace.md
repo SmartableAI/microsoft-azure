@@ -255,20 +255,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 36
-  - title: "Call Journey Now Available in Microsoft Azure Marketplace and App Source"
-    excerpt: "Call Journey, provider of market-leading Conversation Analytics technology, announces its listing in the Microsoft Azure Marketplace and AppSource o"
-    publishedDateTime: 2020-09-02T07:41:00Z
-    webUrl: "https://www.cmo.com.au/mediareleases/135281/call-journey-now-available-in-microsoft-azure/"
-    type: article
-    provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 36
-    images:
-      - url: "https://demo.idg.com.au/cmo/cmo50/2020/cmo50_promo_2.jpg"
-        width: 620
-        height: 254
-        isCached: true
   - title: "BitDam Advanced Threat Protection now available on Microsoft Azure Marketplace"
     excerpt: "BitDam announced the availability of its Advanced Threat Protection in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. BitDam customers can now take advantage of the productive and trusted Azure cloud ..."
     publishedDateTime: 2020-07-22T23:20:00Z
@@ -379,6 +365,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 17
+  - title: "Call Journey Now Available in Microsoft Azure Marketplace and App Source"
+    excerpt: "Call Journey, provider of market-leading Conversation Analytics technology, announces its listing in the Microsoft Azure Marketplace and AppSource online stores for Microsoft customers providing applications and services tailored to specific business needs."
+    publishedDateTime: 2020-09-02T07:41:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/135281/call-journey-now-available-in-microsoft-azure/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 16
 
 secured: "9hDe/8W8Ud/dDV3YRSlQCd/wuv0PkRimmOHPRHwxrxtQUCOBEs4zkXgjhE7Q1eKQuspQI0BBffVBJn85EWF7UXQwNpmDJCYAjvXIcoBM1mVDweISo0ZaXaFyMhfifpAG5NYIACdKvRg4rRdWpGh/HZIaWPUyoeUrxfy6iMXQMBx1yXdJEdtkjw2qGtZ1hv0Ca4Rx5wA7VPJB4ROdynL343JFay2duCZQz9+YrCwr/E9qx9BOcdISjD2E2heu6krTIMogQZsygA+JcDMK4O90TOd1ydyGmwzF3b+LejIJV6bLzqA+nztbxpz3mTdJBoH6sTLK3oGxRbL2FkVe6cnsHQ==;gs3NyBT4ZKHg/4zgKQKeZA=="
 ---

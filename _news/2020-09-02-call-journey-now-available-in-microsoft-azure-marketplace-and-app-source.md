@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Call Journey Now Available in Microsoft Azure Marketplace and App Source"
-excerpt: "Call Journey, provider of market-leading Conversation Analytics technology, announces its listing in the Microsoft Azure Marketplace and AppSource o"
+excerpt: "Call Journey, provider of market-leading Conversation Analytics technology, announces its listing in the Microsoft Azure Marketplace and AppSource online stores for Microsoft customers providing applications and services tailored to specific business needs."
 publishedDateTime: 2020-09-02T07:41:00Z
-originalUrl: "https://www.cmo.com.au/mediareleases/135281/call-journey-now-available-in-microsoft-azure/"
-webUrl: "https://www.cmo.com.au/mediareleases/135281/call-journey-now-available-in-microsoft-azure/"
+originalUrl: "https://www.arnnet.com.au/mediareleases/135281/call-journey-now-available-in-microsoft-azure/"
+webUrl: "https://www.arnnet.com.au/mediareleases/135281/call-journey-now-available-in-microsoft-azure/"
 type: article
-quality: 36
+quality: 16
 heat: -1
 published: false
 
 provider:
-  name: cmo.com.au
-  domain: cmo.com.au
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
   - Azure
-
-images:
-  - url: "https://demo.idg.com.au/cmo/cmo50/2020/cmo50_promo_2.jpg"
-    width: 620
-    height: 254
-    isCached: true
 
 related:
   - title: "AmploFly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
@@ -381,6 +375,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "DFfxiuZKUvm6RXfweiQOpVdKd733kPvbsXRHkzDbCIcqC1XpbqTaw92jGARxGSI3cRW+TJYG3HH/y8gllM2wvVHGHdg4NnyChrUmZprIKq+d/pjJd6rJG1VHP4ejUorjmTOSUHG270bpDkhclYtNjlF3lbubTrAmeZelpx/eRhIimsIdH7pf+JYZyG4W+836mG6birOeZokDWIKUVPX+C1QYGvMUrJKhcclqSIppKVwk9P04UPfse452rXDMfBiyO9NopaoC4Gl9tb4GprjxeAJnIpMOxIhNsBWwpT8auDGqngB5fZza6JQj5Hs79NK5zCAybaqLPA+wbZLMkt52jUvvozXiG1yM6obtu2pDF6Q=;aEN36GoXtGeAogHPc8p+7Q=="
+secured: "iLk2JglB8WMaMFq+xa46ZCp99sq1ET5fBXf/5+o3KcomXz6M9rI9q5ri7uurB70+AG5ybOW7UtSYOoUStEzX65DvUG291SykI7frjKkmbvkq0eukdob0uaj3dk8ESY6gZQqKTVN4eKukyv9YUSUC1kb8oKMfQHkFiQB+DwoWhL6SiThcPcjdOxE73R8YOubMWXXTpKr8wpzX8iqY3gxzD1jlCNlCur7AFjLboX4MUGCNcIWGJ+o5iDP2/jn49K1cuylrc0Xn6uEElxxQ6uD3IXYcjqXWMXw62Jmr8CweRjCAZfBmT+TISU/j0/8xqyuVErgJjTLNXe31Dq8xkQu6f/IvqFMeTQn6jfT8tdw9mlg=;TdCjeNQ7zXnCpoX6tRtNcw=="
 ---
 
