@@ -24,6 +24,7 @@ items:
   - courses/microsoft-learn-introduction-open-source-database-migration-azure
   - courses/microsoft-learn-build-and-run-a-web-application-with-the-mean-stack-on-an-azure-linux-vm
   - courses/microsoft-learn-host-a-web-application-with-azure-web-apps
+  - courses/microsoft-learn-optimize-web-app-with-redis
   - courses/microsoft-learn-create-serverless-logic-with-functions
   - courses/microsoft-learn-intro-to-azure-kubernetes-service
   - courses/microsoft-learn-run-docker-containers-aci
@@ -41,6 +42,7 @@ items:
   - courses/microsoft-learn-introduction-open-source-database-migration-azure
   - courses/microsoft-learn-build-and-run-a-web-application-with-the-mean-stack-on-an-azure-linux-vm
   - courses/microsoft-learn-host-a-web-application-with-azure-web-apps
+  - courses/microsoft-learn-optimize-web-app-with-redis
   - courses/microsoft-learn-create-serverless-logic-with-functions
   - courses/microsoft-learn-intro-to-azure-kubernetes-service
   - courses/microsoft-learn-run-docker-containers-aci
