@@ -4,6 +4,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-transcribe-speech-input-text.md",
+      "title": "Transcribe speech input to text",
+      "excerpt": "Speech-to-text from the speech service,  known as speech recognition, enables real time transcription of audio streams into text. Your applications, tools, or devices can consume, display, and take action on this text as command input.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-transcribe-speech-input-text/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/transcribe-speech-input-text/",
+      "length": "PT27M",
+      "ratings": {
+        "count": 216,
+        "average": 4.6666665
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/transcribe-speech-input-text-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Transcribe speech input to text",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-classify-images-with-custom-vision-services.md",
       "title": "Classify images with the Microsoft Custom Vision Service",
       "excerpt": "Create, train and test a custom image classification model using the Custom Vision Service to accurately identify paintings from famous artists.",
@@ -177,8 +220,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/",
       "length": "PT33M",
       "ratings": {
-        "count": 237,
-        "average": 4.6371307
+        "count": 238,
+        "average": 4.634454
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -386,8 +429,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-data-in-aml/",
       "length": "47 mins",
       "ratings": {
-        "count": 563,
-        "average": 4.64476
+        "count": 564,
+        "average": 4.64539
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1317,8 +1360,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-financial-services/",
       "length": "45 mins",
       "ratings": {
-        "count": 822,
-        "average": 4.7360096
+        "count": 823,
+        "average": 4.7339005
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1446,8 +1489,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-receipts-form-recognizer/",
       "length": "24 mins",
       "ratings": {
-        "count": 168,
-        "average": 4.714286
+        "count": 170,
+        "average": 4.717647
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1471,49 +1514,6 @@
           "width": 640,
           "height": 320,
           "title": "Analyze receipts with the Form Recognizer service",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-analyze-text-with-text-analytics-service.md",
-      "title": "Analyze text with the Text Analytics service",
-      "excerpt": "The Text Analytics service is a cloud-based service that provides advanced natural language processing over raw text for sentiment analysis, key phrase extraction, named entity recognition, and language detection.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-text-with-text-analytics-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-text-with-text-analytics-service/",
-      "length": "29 mins",
-      "ratings": {
-        "count": 165,
-        "average": 4.818182
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/analyze-text-with-text-analytics-service-social.png",
-          "width": 320,
-          "height": 160,
-          "title": "Analyze text with the Text Analytics service",
           "isCached": true
         }
       ],

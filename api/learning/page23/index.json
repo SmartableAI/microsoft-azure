@@ -4,6 +4,48 @@
   "page": 23,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-inclusive-design-principles.md",
+      "title": "Design with inclusivity in mind",
+      "excerpt": "Learn the principles of inclusive design.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-inclusive-design-principles/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/inclusive-design-principles/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 21,
+        "average": 4.6190476
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Design with inclusivity in mind",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-inclusive-marketing.md",
       "title": "Learn inclusive marketing principles",
       "excerpt": "Learn how to embody diversity and inclusivity across marketing engines.",
@@ -267,8 +309,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-azure-functions-iot/",
       "length": "PT27M",
       "ratings": {
-        "count": 60,
-        "average": 4.633333
+        "count": 61,
+        "average": 4.639344
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -783,8 +825,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-python-nasa/",
       "length": "PT23M",
       "ratings": {
-        "count": 17,
-        "average": 4.7058825
+        "count": 19,
+        "average": 4.736842
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -934,48 +976,6 @@
           "width": 320,
           "height": 160,
           "title": "What is distributed programming?",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-introduction-to-git.md",
-      "title": "Introduction to Git",
-      "excerpt": "Find out what source control is, and get an introduction to Git - the world's most popular version control system.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-git/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-git/",
-      "length": "75 mins",
-      "ratings": {
-        "count": 415,
-        "average": 4.7349396
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-git-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Introduction to Git",
           "isCached": true
         }
       ],

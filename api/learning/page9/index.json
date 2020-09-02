@@ -4,6 +4,50 @@
   "page": 9,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-access-data-with-cosmos-db-and-sql-api.md",
+      "title": "Insert and query data in your Azure Cosmos DB database",
+      "excerpt": "Learn how to add data to your database and query NoSQL data in Azure Cosmos DB.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-access-data-with-cosmos-db-and-sql-api/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/access-data-with-cosmos-db-and-sql-api/",
+      "length": "58 mins",
+      "ratings": {
+        "count": 2417,
+        "average": 4.650807
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/access-data-with-cosmos-db-and-sql-api-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Insert and query data in your Azure Cosmos DB database",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-allow-users-to-reset-their-password.md",
       "title": "Allow users to reset their password with Azure Active Directory self-service password reset",
       "excerpt": "Evaluate self-service password reset to allow users in your organization to reset their passwords or unlock their accounts. Set up, configure, and test self-service password reset.",
@@ -54,8 +98,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-intro/",
       "length": "PT44M",
       "ratings": {
-        "count": 123,
-        "average": 4.756098
+        "count": 124,
+        "average": 4.7419353
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -96,8 +140,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-cosmos-db-for-scale/",
       "length": "35 mins",
       "ratings": {
-        "count": 3652,
-        "average": 4.6415663
+        "count": 3654,
+        "average": 4.6417623
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -140,8 +184,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-concepts-of-relational-data/",
       "length": "PT24M",
       "ratings": {
-        "count": 359,
-        "average": 4.793872
+        "count": 360,
+        "average": 4.7944446
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -182,8 +226,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-a-hybrid-network-architecture/",
       "length": "47 mins",
       "ratings": {
-        "count": 1030,
-        "average": 4.618447
+        "count": 1031,
+        "average": 4.618817
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -355,8 +399,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/",
       "length": "PT25M",
       "ratings": {
-        "count": 6767,
-        "average": 4.7212944
+        "count": 6768,
+        "average": 4.721336
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -609,8 +653,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
       "length": "21 mins",
       "ratings": {
-        "count": 1222,
-        "average": 4.6644845
+        "count": 1224,
+        "average": 4.665033
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -730,8 +774,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-azure-web-app-with-visual-studio/",
       "length": "47 mins",
       "ratings": {
-        "count": 2792,
-        "average": 4.674785
+        "count": 2793,
+        "average": 4.6749015
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -903,8 +947,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-app-data-with-azure-blob-storage/",
       "length": "50 mins",
       "ratings": {
-        "count": 2665,
-        "average": 4.575985
+        "count": 2666,
+        "average": 4.575019
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1364,50 +1408,6 @@
       "topics": [
         "Azure",
         "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-build-azure-vm-templates.md",
-      "title": "Build Azure Resource Manager templates",
-      "excerpt": "Learn how Resource Manager templates express your deployments as code, enabling you to deploy faster and more reliably.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-azure-vm-templates/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-azure-vm-templates/",
-      "length": "37 mins",
-      "ratings": {
-        "count": 3274,
-        "average": 4.533598
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/build-azure-vm-templates-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Build Azure Resource Manager templates",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Management Tools"
       ]
     }
   ],

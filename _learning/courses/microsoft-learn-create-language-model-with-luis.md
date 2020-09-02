@@ -1,14 +1,14 @@
 ---
-title: "Create a language model with LUIS"
-excerpt: "In this module, we'll introduce you to Language Understanding Intelligent Service (LUIS) and show how to create a LUIS application."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-luis/
+title: "Create a language model with Language Understanding"
+excerpt: "In this module, we'll introduce you to Language Understanding Intelligent Service (LUIS) and show how to build and publish a LUIS model."
+webUrl: https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-language-understanding/
 type: course
 price: Free
-length: 39 mins
+length: PT39M
 ratings:
   count: 158
   average: 4.8037972
-heat: 50
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -31,8 +31,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Create a language model with LUIS"
 
-secured: "Y8lgqMmJXJ/n6Xwxc7mWIvJ4eWJ9zYWc/R3C7swGfCANctbuz1S2ildMbVmqNDBPRnO8a2qAmW54RmxAVJBKw2HlRWwgHByGjOkuBEPnacE+2b761yb9pTWzFtZcrtDE0QgH5qkV7KbJ/ka8NY1P12PIez1Lcre7zb4YEuq7BPqbu3CQFh2qutCakvt0cQn0LgpNsja8syZ4ohRrgz8BsAa6GFkrkhJx+c4QAfASnWoCKx6FHId8JFHh4n91DvBo6IdIGfXJWw5hHJeVRvlH+a50uyTC8uTuNoTYfnfjN22l45z+LWz9k+72vzP8BikNBQpsUrcFB07H+TLn4ZIkUvZRE1crXWYhqzDLO+3svaOky7adG5FGPaDXy0/J4TxGJakUaEq6OoBL69xzxSrK62y6ZaqtIEgHodDzYNfOwkA=;ASn/pBXmKCbQg8GHXrDS5A=="
+secured: "desR0PramhmgLBs+ZSeVN/5lb4qsbRYuO8y32ocVMT8DbvPpUn3Ot76iZ7My0Z9srtV93mRWc+/gcwUXSAz0yUCduJ3Am62h8tLTDp1KdKj68zpUr5zK7fjppQFmKZmCJovud+Tcbul7sH+AbSPnUhMSVji2Xzuk8lScZM8QLSnYez0+IDaph/auOZ4IwLb2Cz5SfSdmX2oS7TOvVfbN95obZMMZv/2BbNQneFmLik5tVydsNeQF2Cg5dhWV3axZPS8w8qfF+ohV1WzicxXBL7m3veyQGaqR5yuY4XdVfUp6NlSSYau4/bXzZRdxHRsdDSeEKPqsjWjb8HX23c5QpmE1JoyGtM+fwxijKTDXWCH8NCKHjz+jILYUSs/WtYgBIHgJ+K902EiMT8tUBO07UA==;wUjDp8jKccKnny0ZYZGcGw=="
 ---
 

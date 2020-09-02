@@ -4,6 +4,207 @@
   "page": 14,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-large-scale-data-processing-with-azure-data-lake-storage-gen2.md",
+      "title": "Large-Scale Data Processing with Azure Data Lake Storage Gen2",
+      "excerpt": "In this learning path, you will see how Azure Data Lake Storage can make processing Big Data analytical solutions more efficient and how easy it is to set up. You will also explore how it fits into common architectures, as well as the different methods of uploading the data to the data store. You will finally examine the myriad of security features that will ensure your data is secure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-large-scale-data-processing-with-azure-data-lake-storage-gen2/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-large-scale-data-processing-with-azure-data-lake-storage-gen2/",
+      "length": "PT2H5M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Introduction to Azure Data Lake storage",
+          "excerpt": "Learn how Azure Data Lake Storage provides a cloud storage service that is highly available, secure, durable, scalable, and redundant and brings new efficiencies to processing big data analytics workloads.",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/data-ai/introduction-to-azure-data-lake-storage-badge-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Introduction to Azure Data Lake storage",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Upload data to Azure Data Lake Storage",
+          "excerpt": "Learn various ways to upload data to Data Lake Storage Gen 2. Upload data through the Azure portal, Azure Storage Explorer, or .NET. Or copy the data in Azure Data Factory.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/data-ai/upload-data-to-azure-data-lake-storage-badge-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Upload data to Azure Data Lake Storage",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Storage"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Secure your Azure Storage account",
+          "excerpt": "Learn how Azure Storage provides multilayered security to protect your data. Find out how to use access keys, to secure networks, and to use Advanced Threat Protection to proactively monitor your system.",
+          "heat": 65,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/data-ai/secure-azure-storage-account-badge-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Secure your Azure Storage account",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Storage"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/introduction-to-azure-data-lake-storage-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Introduction to Azure Data Lake storage",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Storage",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-planning-azure-for-sap-workloads.md",
+      "title": "Planning Azure for SAP workloads",
+      "excerpt": "In this learning path, you see how to plan for a deployment of SAP solutions on Azure. You will also consider the preparation required for migrating SAP workloads to Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-planning-azure-for-sap-workloads/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-planning-azure-for-sap-workloads/",
+      "length": "PT3H26M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Utilize Azure for SAP workloads reference architecture",
+          "excerpt": "In this module, you will review the Azure infrastructure options for hosting SAP NetWeaver and S/4HANA systems in Azure. You will examine the differences between the offerings of traditional outsourcers and IaaS offerings.",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/utilizing-azure-sap-workloads-reference-architecture-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Utilize Azure for SAP workloads reference architecture",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Planning for implementing SAP solutions on Azure",
+          "excerpt": "In this module, you will review the SAP supported VM and HLI types, the OS and DBMS releases for SAP in Azure, and the SAPS throughput estimates provided by Azure VMs and HLI.",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/planning-implementing-sap-solutions-azure-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Planning for implementing SAP solutions on Azure",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Prepare to migrate SAP workloads to Azure",
+          "excerpt": "In this module, you will walk through the important steps required for deploying SAP workloads to Azure. The steps include project preparation, pilot, non-production, production preparation, go-live, and post production.",
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/preparing-migrate-sap-workloads-azure-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Prepare to migrate SAP workloads to Azure",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/utilizing-azure-sap-workloads-reference-architecture-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Utilize Azure for SAP workloads reference architecture",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-process-and-classify-images-with-the-azure-cognitive-vision-services.md",
       "title": "Process and classify images with the Azure Cognitive Vision Services",
       "excerpt": "Microsoft Cognitive Services offers pre-built functionality to enable computer vision functionality in your applications.  Learn how to use the Cognitive Vision Services to detect faces, tag and classify images, and identify objects.",
@@ -711,8 +912,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-databases-performance/",
       "length": "PT24M",
       "ratings": {
-        "count": 23,
-        "average": 4.869565
+        "count": 24,
+        "average": 4.875
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -838,8 +1039,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-sql-server-resources-optimal-performance/",
       "length": "PT35M",
       "ratings": {
-        "count": 17,
-        "average": 4.882353
+        "count": 18,
+        "average": 4.888889
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1136,8 +1337,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
       "length": "56 mins",
       "ratings": {
-        "count": 321,
-        "average": 4.4641743
+        "count": 322,
+        "average": 4.459627
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1257,82 +1458,6 @@
         "Azure",
         "Analytics",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-examine-components-of-modern-data-warehouse.md",
-      "title": "Examine components of a modern data warehouse",
-      "excerpt": "Examine the components of a modern data warehouse. Understand the role of services like Azure Databricks, Azure Synapse Analytics, and Azure HDInsight. See how to use Azure Synapse Analytics to load and process data.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-examine-components-of-modern-data-warehouse/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-components-of-modern-data-warehouse/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 163,
-        "average": 4.7239265
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/examine-components-of-modern-data-warehouse-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Examine components of a modern data warehouse",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-explore-and-analyze-time-series-insights.md",
-      "title": "Explore and analyze time-stamped data with Time Series Insights",
-      "excerpt": "Azure Time Series Insights allows you to collect, process, store, analyze, and query data at Internet Of Things (IoT) scale. Learn how to deploy this service and use it to gain insights from data generated by IoT devices.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-and-analyze-time-series-insights/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-analyze-time-series-insights/",
-      "length": "37 mins",
-      "ratings": {
-        "count": 303,
-        "average": 4.6534653
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "IoT",
-        "Azure"
       ]
     }
   ],

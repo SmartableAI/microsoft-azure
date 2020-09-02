@@ -98,8 +98,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing-dynamics-365-deployment/",
       "length": "PT45M",
       "ratings": {
-        "count": 1740,
-        "average": 4.68908
+        "count": 1742,
+        "average": 4.6888633
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -224,8 +224,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/app-service-scale-up-scale-out/",
       "length": "46 mins",
       "ratings": {
-        "count": 2002,
-        "average": 4.551948
+        "count": 2003,
+        "average": 4.5521717
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -352,8 +352,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
       "length": "24 mins",
       "ratings": {
-        "count": 1464,
-        "average": 4.659153
+        "count": 1465,
+        "average": 4.6593857
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -438,8 +438,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
       "length": "55 mins",
       "ratings": {
-        "count": 1385,
-        "average": 4.6433215
+        "count": 1386,
+        "average": 4.6435785
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -569,8 +569,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
       "length": "53 mins",
       "ratings": {
-        "count": 1497,
-        "average": 4.6352706
+        "count": 1498,
+        "average": 4.635514
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -845,6 +845,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-create-language-model-with-luis.md",
+      "title": "Create a language model with Language Understanding",
+      "excerpt": "In this module, we'll introduce you to Language Understanding Intelligent Service (LUIS) and show how to build and publish a LUIS model.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-language-model-with-luis/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-language-understanding/",
+      "length": "PT39M",
+      "ratings": {
+        "count": 158,
+        "average": 4.8037972
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-publish-luis-model-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI",
+        "Developer Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-distribute-load-with-traffic-manager.md",
       "title": "Enhance your service availability and data locality by using Azure Traffic Manager",
       "excerpt": "Azure Traffic Manager provides DNS load balancing to your application, so you improve your ability to distribute your application around the world. Use Traffic Manager to improve the performance and availability of your application.",
@@ -852,8 +895,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/distribute-load-with-traffic-manager/",
       "length": "29 mins",
       "ratings": {
-        "count": 1891,
-        "average": 4.529878
+        "count": 1894,
+        "average": 4.530623
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1027,8 +1070,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-your-dev-environment-for-azure-development/",
       "length": "28 mins",
       "ratings": {
-        "count": 4659,
-        "average": 4.692638
+        "count": 4660,
+        "average": 4.6927037
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1277,50 +1320,6 @@
         "Databases",
         "Compute",
         "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-access-data-with-cosmos-db-and-sql-api.md",
-      "title": "Insert and query data in your Azure Cosmos DB database",
-      "excerpt": "Learn how to add data to your database and query NoSQL data in Azure Cosmos DB.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-access-data-with-cosmos-db-and-sql-api/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/access-data-with-cosmos-db-and-sql-api/",
-      "length": "58 mins",
-      "ratings": {
-        "count": 2416,
-        "average": 4.6506624
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/access-data-with-cosmos-db-and-sql-api-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Insert and query data in your Azure Cosmos DB database",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Management Tools"
       ]
     }
   ],

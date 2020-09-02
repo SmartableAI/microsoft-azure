@@ -4,6 +4,50 @@
   "page": 10,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-build-azure-vm-templates.md",
+      "title": "Build Azure Resource Manager templates",
+      "excerpt": "Learn how Resource Manager templates express your deployments as code, enabling you to deploy faster and more reliably.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-azure-vm-templates/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-azure-vm-templates/",
+      "length": "37 mins",
+      "ratings": {
+        "count": 3276,
+        "average": 4.5332723
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/build-azure-vm-templates-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Build Azure Resource Manager templates",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings.md",
       "title": "Chain Azure Functions together using input and output bindings",
       "excerpt": "Integrate data sources with your Azure Functions serverless logic by using bindings.",
@@ -192,8 +236,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
       "length": "94 mins",
       "ratings": {
-        "count": 3467,
-        "average": 4.5529275
+        "count": 3468,
+        "average": 4.5530567
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -280,8 +324,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-custom-azure-roles-with-rbac/",
       "length": "30 mins",
       "ratings": {
-        "count": 1101,
-        "average": 4.6630335
+        "count": 1102,
+        "average": 4.6624317
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -531,49 +575,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-design-your-migration-to-azure.md",
-      "title": "Design your migration to Azure",
-      "excerpt": "Minimize the time and resources required to migrate your on-premises environment to Azure. Assess your current systems with Azure Migrate, and migrate them with Azure Site Recovery and Azure Database Migration Service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-your-migration-to-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
-      "length": "44 mins",
-      "ratings": {
-        "count": 1309,
-        "average": 4.6241407
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/design-your-migration-to-azure-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Design your migration to Azure",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Migration"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-develop-test-deploy-azure-functions-core-tools.md",
       "title": "Develop, test, and publish Azure Functions by using Azure Functions Core Tools",
       "excerpt": "Use the Azure Functions Core Tools to create and run functions on a development computer and publish them to Azure.",
@@ -581,8 +582,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-core-tools/",
       "length": "20 mins",
       "ratings": {
-        "count": 1624,
-        "average": 4.698276
+        "count": 1625,
+        "average": 4.6984615
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1431,8 +1432,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
       "length": "70 mins",
       "ratings": {
-        "count": 2127,
-        "average": 4.697696
+        "count": 2128,
+        "average": 4.6978383
       },
       "provider": {
         "name": "Microsoft Learn",

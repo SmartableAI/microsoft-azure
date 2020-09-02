@@ -231,8 +231,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-database-authentication-authorization/",
       "length": "PT26M",
       "ratings": {
-        "count": 24,
-        "average": 4.7083335
+        "count": 25,
+        "average": 4.72
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -698,8 +698,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-provisioning/",
       "length": "17 mins",
       "ratings": {
-        "count": 1277,
-        "average": 4.724354
+        "count": 1278,
+        "average": 4.72457
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -822,8 +822,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
       "length": "44 mins",
       "ratings": {
-        "count": 834,
-        "average": 4.681055
+        "count": 835,
+        "average": 4.681437
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -942,6 +942,49 @@
       "price": "Free",
       "topics": [
         "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-monitor-azure-cosmos-db.md",
+      "title": "Optimize the performance of Azure Cosmos DB by using partitioning and indexing strategies",
+      "excerpt": "Learn how to measure the throughput of your NoSQL database and assess the impact of partition key and indexing strategies on throughput.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-azure-cosmos-db/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-and-scale-cosmos-db/",
+      "length": "76 mins",
+      "ratings": {
+        "count": 1040,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/monitor-azure-cosmos-db-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Optimize the performance of Azure Cosmos DB by using partitioning and indexing strategies",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
       ]
     },
     {
@@ -1083,8 +1126,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-apis-on-api-management/",
       "length": "43 mins",
       "ratings": {
-        "count": 622,
-        "average": 4.717042
+        "count": 623,
+        "average": 4.717496
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1127,8 +1170,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-data-transit-rest/",
       "length": "PT25M",
       "ratings": {
-        "count": 25,
-        "average": 4.64
+        "count": 26,
+        "average": 4.6538463
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1245,50 +1288,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-run-docker-containers-aci.md",
-      "title": "Run Docker containers with Azure Container Instances",
-      "excerpt": "Learn how to run containerized apps using Docker containers with Azure Container Instances (ACI).",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-docker-containers-aci/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
-      "length": "48 mins",
-      "ratings": {
-        "count": 2291,
-        "average": 4.6215625
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/run-docker-with-azure-container-instances-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Run Docker containers with Azure Container Instances",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers",
-        "Databases"
       ]
     }
   ],

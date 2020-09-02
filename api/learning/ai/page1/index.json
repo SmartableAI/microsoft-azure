@@ -150,8 +150,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 1550,
-        "average": 4.7225804
+        "count": 1554,
+        "average": 4.719434
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -919,15 +919,14 @@
         },
         {
           "path": "",
-          "title": "Create a language model with LUIS",
-          "excerpt": "In this module, we'll introduce you to Language Understanding Intelligent Service (LUIS) and show how to create a LUIS application.",
-          "heat": 50,
+          "title": "Create a language model with Language Understanding",
+          "excerpt": "In this module, we'll introduce you to Language Understanding Intelligent Service (LUIS) and show how to build and publish a LUIS model.",
+          "heat": 56,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-publish-luis-model-social.png",
               "width": 800,
               "height": 400,
-              "title": "Create a language model with LUIS",
               "isCached": true
             }
           ],
@@ -1044,15 +1043,14 @@
         },
         {
           "path": "",
-          "title": "Create a language model with LUIS",
-          "excerpt": "In this module, we'll introduce you to Language Understanding Intelligent Service (LUIS) and show how to create a LUIS application.",
-          "heat": 50,
+          "title": "Create a language model with Language Understanding",
+          "excerpt": "In this module, we'll introduce you to Language Understanding Intelligent Service (LUIS) and show how to build and publish a LUIS model.",
+          "heat": 56,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-publish-luis-model-social.png",
               "width": 800,
               "height": 400,
-              "title": "Create a language model with LUIS",
               "isCached": true
             }
           ],
@@ -1501,6 +1499,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-create-language-model-with-luis.md",
+      "title": "Create a language model with Language Understanding",
+      "excerpt": "In this module, we'll introduce you to Language Understanding Intelligent Service (LUIS) and show how to build and publish a LUIS model.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-language-model-with-luis/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-language-understanding/",
+      "length": "PT39M",
+      "ratings": {
+        "count": 158,
+        "average": 4.8037972
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-publish-luis-model-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI",
+        "Developer Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-azure-machine-learning-service.md",
       "title": "Introduction to Azure Machine Learning",
       "excerpt": "Introduction to Azure Machine Learning",
@@ -1906,8 +1947,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
       "length": "70 mins",
       "ratings": {
-        "count": 2127,
-        "average": 4.697696
+        "count": 2128,
+        "average": 4.6978383
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2035,8 +2076,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-local-model-with-azure-mls/",
       "length": "42 mins",
       "ratings": {
-        "count": 1340,
-        "average": 4.5858207
+        "count": 1341,
+        "average": 4.5861297
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2060,49 +2101,6 @@
           "width": 800,
           "height": 400,
           "title": "Train a machine learning model with Azure Machine Learning",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-transcribe-speech-input-text.md",
-      "title": "Transcribe speech input to text",
-      "excerpt": "Speech-to-text from the speech service,  known as speech recognition, enables real time transcription of audio streams into text. Your applications, tools, or devices can consume, display, and take action on this text as command input.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-transcribe-speech-input-text/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/transcribe-speech-input-text/",
-      "length": "PT27M",
-      "ratings": {
-        "count": 216,
-        "average": 4.6666665
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/transcribe-speech-input-text-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Transcribe speech input to text",
           "isCached": true
         }
       ],
