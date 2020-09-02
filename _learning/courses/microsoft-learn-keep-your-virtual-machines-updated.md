@@ -8,7 +8,7 @@ length: 35 mins
 ratings:
   count: 2593
   average: 4.4874663
-heat: 55
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Keep your virtual machines updated"
 
-secured: "fSk0ue5ieKLOxM+6xChLcTIG7sD634/N+vDdf0/ZoWYNnehS3StwtB9+tV0iJGQjbrCujMg/PHw+R+7hZQkkF9sH5uqpzP7zbs32EEKnC07JXy5kOCNx4sysLBxe4F+9kjJXe+ibzgF2U7mcbnD2v6jRfEgY5QWyAcq+ewQybDZCVlSqoJ6cmodJwasxZ/XLEHKO7gkSAiL357yKkt4b+SbYU2PY0bNHTCCtn/VovXcigcIuJZVJ6Z1y4qBX3+oDZzho7ahAFoBkuX4xCVoWFLaHHBGJpzdjBuZWQkRHDOyddpI853UyR1wDja8aACIWxpOkaAt2xua3eEvEGjgc7c4ZhslsLekF1WSA5kDzywf65m25uqmOsZNDeT01Lb/HqWibcyMaFi79vX4IODurESRE148V4kH1kzA7Q9eSrDQ=;o9hw0JceHeixwnykefh2QQ=="
+secured: "K2WVXdXmN0UWPj4dbapvGvPXbtGPloW/QidXob14yemLRzXZ6pHxVN/DZfaa6qf03k02/z4C6JVLqjbK8hDhhawRF8zReSjnNQ1p4MLPbhLLl3D+9qIoQJDDTP0nUcrES/lcDqeCYt5/fGXEDmDUyu+TX6vp8xegoTO4i/Z4SFJds1ZTkaqbGIBThXZoE8a7AyxgBq8q/iZfJx3s3Zw5X9iKusQ/zgiFW4pR+dnr2u/LJhiVVJJBDtMfoSRGrbUtK3PFLcO0QfNVBky/jyIb4nLmNztErP5g5ZMI2rSdsgr0bjdov638r0SPIqOciX6qLiUp/CymbxQKY+OxJLE58V3g135EE82BR1PXpROResIplo6oFcdQgu02dUTpRRZr+W9atv/6Vjg3HGIHRsNAJ5fnkpQFy0MH6+ri+DHZ6Nw=;8/bUZmW6qJvRvAp1GAUpCA=="
 ---
 

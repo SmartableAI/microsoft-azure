@@ -8,7 +8,7 @@ length: 98 mins
 ratings:
   count: 185
   average: 4.654054
-heat: 52
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Troubleshoot inbound network connectivity for Azure Load Balancer"
 
-secured: "I8S6WGokyGVEjyv+cw9xvIKu3AsVnD1KRuARL9IfJ9avTeeR0qMyhP3RFRpuG1L4Z3Ac4+taz92vPM03XNxBlhpmj+i+ywdO/c+bxEvrUTGUU61YisvE/CrUT74IVmEAVUXsdf7mBGBgRMKE6ovpOMPUKAo5NbBeOBX7E1ZvPYUsEbvVm/lpJxIEV/mB2vnCCiOSeVGbAAADnOGrW3UFehiweAjeovTPkBad+xWzVvkhMGQ4px6inTbVFmTgSKX0EX9l/ZsefdK0Ixr3ZqeP2otgEr1Pe8FCIlG3TlWjX8qeHaqeFl9T6gyCtij9TrOVhxyoLDZAOjSnC7iHX8StQh32PEhsdVZB9YeeJABkVS+i7sN81kF/Iul0o1NzXR2dyN6f8pBjmcm/yjgosao+Xfc7rHAQbdNsGUGtAFMvO/8=;BypN/rhy4nzb9NTIu4ERrw=="
+secured: "6h/uhlEfQeAMVQ7GDVzbuXjW8dIbr475XK2sAjqugwRaLjgwpshQ1vikOACs5yAn7apKrWQaY5HkdUisIukDvLjzPVXtdtKMWaSD6EnuSCiDznY5HPdQpkY2rZgeprRc5bh4uuC5C1Yo6de6dqwnwSUCg7K5VYoxG7PUo0y8hCFr2wKd9iplvI2dnKI6dnHkeFwVDFMYvlSlooLs+ewXhctU+GfUO5eWh2vDiYZFY3q9MZppEPmz/SGFcxtcXLRVuw4A0bH12WZAFN1+3YCtcuyEziSXLjacShjYk4VYIqsbps98OC+M0yt24EA7W0kGmRcAF6q75UHQ4eUSV/4xzkTXjlajBRPWYejb5DVCSfeT9RDXiip4LIyjH+QIeVawt7nW1b8Ezqf25e2vRcsqVeoB2jHYcRp61LmGpEemmLI=;LITsxl7DKn1Uv2q0x2EHQw=="
 ---
 

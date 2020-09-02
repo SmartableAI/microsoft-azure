@@ -8,7 +8,7 @@ length: 63 mins
 ratings:
   count: 621
   average: 4.6392913
-heat: 51
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Run functional tests in Azure Pipelines"
 
-secured: "MjZe3fpPXTtMkFlkitjrcgnv7CuGjqaBz1uG0tlc1Q+TU+TeL/03I8/ORmVjS91ugF2X64Eczz5Yv5tdaN0frgowVLm4r9Onl+nECXAKuTDOv9V6ODcCcul8caCNkZmpyeRSfifLN7X5j/7j+NWnIzXPN9hdc93bpBdKHQvGtXv54L3Z4BZbqh5qk1iH1hsFGn6RwlG2PO9rsGPkcJQbHJLsOJGUZFqkez12YUs42wuDC94++tv42T/6vrqaXbNqg8y2ylzNSvix8ltHCoJq9orsMXIYxhsYIP4QKhfpkSJ98rtHdG/lLkArYzyMj3AfgzQ4wcH4h1rMLiPc+0/8DAAIF5wH1POunLrgmvlVf+qn1AB+pxDnEEgxxADWL8FZ9r6n8uarSzLYwDx05i7LqDgyoCQoOWsVj31E24CV5kg=;K3CoIsupuaVn/ToZ0AOSNg=="
+secured: "KxZnnXnle3wXY7f4v9CQPXM2zaviWsvDqpTboB4Fic9XDiwa8LAU0IqY6Eh8ZU724HroYfxGUAiftP4yv36gRiY5v3Hdw/0nYV/O1gbVBKarwLUZrMpHVXh4gGV8nocdYaTbw1pL0Ee7ezSW5//iftgE92jDpgYmTOsRXomdm/aWVsQjLVbmQObVwaPxGIE2IQKcm7a3lDTWisQVF/hhrFcVSLTyP6AwdkxlWEgAPm8qKgTkMuI+S2KkPAFoG9XNtar3nYgL9HVhDdAJmMZ3hk1dWaOgSXDC70gfUI1tJfApMpIEPp9IXNsmgx6tPXo3VbNoNRbo2+IE6dlJp1AA42fTyy8aMgyNlyXXxlJDqFwGwu7I9Z/BiYqQzJ3nXSjbSyXHyXaTGgGbKB6O+ikQ4lk5DSJldkEhHI/6L96z59Q=;+evjC4+F53zFST0c9J8Rtw=="
 ---
 

@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 33 mins
 ratings:
-  count: 501
-  average: 4.6147704
+  count: 502
+  average: 4.6155376
 heat: 50
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Improve the developer experience of an API with Swagger documentation"
 
-secured: "xFhVZAZWyKtXJ9x1/7PEwiLexQoKFvhe2TJPwJ5uHyejmqPMINuE5Ecr6qduTgiHYjvHj08v/xg20pDBaOW7Dhov9cEdl2elExbFLV5UcV1Bj9oax+ceEJ/LniisIXcpfPPYYAhsI8lP9PiPcDp4nKhOMa6WZBaIuXEaSdkLzORIgxRo+a2JdCjtQzCui3dfLY/OMRRa1QPfvW31wC4a/wGmA3Dn6DZ/Hr3NOubOwXcF0qHQcYcNkM6HzcRZzzY9EwKWqG/IADoHv9ZsQOlZ9IzNxGVhL6Yobfiezd0+u7+6hdwZXFYwrQrC22yByrQKtzSDEbASY5f1NHtgRffPohjFlx/d7/Zwmh1ENmBOwsOVpHoWqvrY5vW0tweIakVC1V/GpEPS5j+BSKa/zsOCcHtEnY9eMYq6+S/lSgv3/BI=;rDwrcw7Mq9GZYiyz7eWxDA=="
+secured: "h8OatQ3Xly4XH7l4Ff7fAspxWBzCAx1vyY6FZrKKW6wwTCU7ZLzM8be2QELZrCVwSvvlvik+M/QBFgKea7pyQiKXo48ajLKQ+SzyP9ZzHGIlxlpB8kM2TdIEMrD62wcgSRHEUWSRz3oYkESBr2VVO1AOpmF7FXL3gfXSr90dyG/e/0985QwGjCy79chHT4ggVskUBTb9mBuhi9kjfX0zNx8SEFveqbiwo8CPQpc2ghPZBeut01DpJvbuAbMNt7mYk1cMK03jH8Y2NICGxGVqzgV5x2sAtcwNz+3CzqFTMkBnexTdZ6hEy/XcYjxJ8/6hylTV+EPOBNHlnsJDblgQQYAfKWJj4xEub+f5Uh/PWn4nUVuwsz1m4uPXbSpno5/3Gt/AW8PR42Mv7EMR9gGxzibzakj08Pw3vJ8CKwZQ7Qs=;Yg63RnDxyMPWuhIlPSIX0Q=="
 ---
 

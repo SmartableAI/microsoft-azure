@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 22 mins
 ratings:
-  count: 271
-  average: 4.6568265
-heat: 74
+  count: 273
+  average: 4.655678
+heat: 77
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Explore DevOps Continuous Security and Continuous Operations"
 
-secured: "6qkFLfdFXt6AFBR2bpcBeOGDwAztwdygujk+BySgJOQZHJZUHhbEwpnvBqibyABLb+wCOpi1MlXdGLr3drpEDcz8bCtEzOUQxVcO3GNacA+P7HfTyvLJgi2pfUiBsIh753a7vS7+y1YPlaciUmzx+wm8fCWq8HqloTeVgxcHeQNgbElDlaNcnM9xOm2piOvR+qxGv9nVpYUQcd7KTvi8FYfcaODE3ClsK5vx1SGDNyldCon6cHfmg/Ff9zLaCfHsA8/xs4l/YlaSuBaxuippLgNfKsQ21RK4KeRQ2xRhLqNdQYmqjxA2Li8/wxtigO8ie1LeN1/lLDJ24MkIHiK7Ju74WaWkyqW/ebJOzJxctQdcJ63rntYrT0IjmuCVhOx6VrCtzXt3Fln15zd0uOVVPW5Ygkljl6eNOXMAcggGOp4=;/t9Okogi1ktv+1jJ9MQwLw=="
+secured: "gNAKzc3VkleyzzneJns1FPFjqVUkJEJ9rT4kPgT86uhRO3Ht46yOOZQqQFABYjinUIdyyNFpBBXPq8pDruJOaHdMavYrziOv11lj41OEeiqvBlyHJ88ttHlthsfqjgaXIF3wbFwbikFV24LsoGIXT/jJ6Kt1FKZN/pYGg/bN76rCCi5APhZoCYV+F4zWjtXGetnoNCznLXdwDFMLLzDkzVvruE8yWZ8k7A/r5zFjpp7EMI/+Rkqf23gNjcvjidysQqNQPND2Kt4dveKtY9/ZKlrGQMLxXCmNiCns7uoDX5XLw7VVhxbMnjhxvUFxHfbVKPQn/zlqXT8dMlg9ypMTUcrdeOvIqrCH/klSroNV6ijdNMzR0T7uL0daUnVmXtXeFMTQcJeOttqYJZ75jforatAxkRraT7i/bDAv8ouUpmE=;pN66xTzOA6il43QRJP0GZQ=="
 ---
 

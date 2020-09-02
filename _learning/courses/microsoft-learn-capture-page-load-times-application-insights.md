@@ -8,7 +8,7 @@ length: 45 mins
 ratings:
   count: 338
   average: 4.508876
-heat: 53
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Capture and view page load times in your Azure web app with Application Insights"
 
-secured: "5MpFfFvGkEvOUVtzRhXwpAGshRHvkJAvVNLfrOSXhE10t/v8Txk86et1uO/Sfhfgh9cM/FHC+wSAgWO0OANUmnXJPZ1ydyDHOnfDb8CEsRbuILhWh+OEc3y6g3hDzIqjk7M1zPvxZH0kduhTmDc81Xo+MgYToOGnCbR9eqJrHAVAOEpfUDI+tZWjsBAsecy6Us4ywnQyNx2gV2Hf48xTTT3uNGeUHBCmYVn7RhZoA3+xiQSilcKeUYhyC6NseRYwEPIOhNzpPWJcm/6oB3Gslt0hQeXu0YqpFaPtb4bP+fA/Xc4G8HEtvZZr8chwfbWkEMy7xS6YEQDT050dS/YMleIjM1OVUfX3elI7kYkIrMpiN8PrqtLExYwbIRLHIoF38syIfRN4Mi80DlSXYGC/Dptcjn/dslfRB73yi1BxM8A=;pWM+1+l6sAYSBIsYT+uoIA=="
+secured: "16gKsXHsT5kWNaRbQSgbUSHwgrvr8cJqONb9+hTJPG0M0YqEC5I+7NoLPeEZP1G76LqiB20TDzxiUrYoe+mj6fW5hkGhfrmcEu7ybPh4qRLHRTjZK0GaTtpazMI58hSbzzYq4g9TbldNK7jwLdXN3H2tSReyDYYG9sKW+n4eS7XvUr0kRcMtI9CWWeq2gh4Ks9lxkVZSnnCDzc+5SB/C5pTEkJn1wp0P3D51W5xpN3LitTbKVLsrVvADciJYeCZuciflKjV/C6ZMpbrGuJn8jSMMyi8Za0eISaesl8pn7E2DCu9I2L/VmOWUSuMZ2GR910V0O8uXHwzkuyNurAcGElIZTjWf/FCwVqtLu+sEO1aECwS9gumq66clk8iufCW5yZQSM/Eom7E3kPO8NcjqAh6pcF9OD7EUUQGGSxOrSLI=;ngCN4oDo6p07oObf6WB00w=="
 ---
 

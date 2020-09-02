@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT50M
 ratings:
-  count: 65
-  average: 4.7384615
-heat: 50
+  count: 66
+  average: 4.742424
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Manage an InnerSource program by using GitHub"
 
-secured: "KQhynoVs3qbhThm/TnEeRREG2IzFAmH8uA1QUrQpjIpEG+4MZUyGsXvcjNwYGD7h6ApNoC4t8cn01yHwWe7vBtqigoBMS1ltzzTLK76x2Tbx3j6ugA96G1d0+yDK6Ikvrh12mUPHajMh72xXC8AqHZWJuFdikx1HIm8H5ustIWABVWloxm/ARlwnbYrWxw6IRaD6YGejmDy/mAlXcTTBfQABqvX4X5x2H66U6gRTw0tu7Rf0cgiJeh3M1zsDQfHC3ZS94T9ZYejASVLMATIqeOiyJ8c9JXFDlrgXOCq2MFEq7djDXOUb4f+wplX5RoYH17/HqN8Z7W+JWnRo84xxWbDt54sT+t1tJKg3kB90B/gi874SB0aH14DGBrfv9iyaTTNvEN/p5BMFho/p8Idbjr0eyOy6w5XffpcLouUpj0s=;8dpJAlFKp9dmdyA5zclOqQ=="
+secured: "m8EgnrRXMiImz603cSlQhd7ZMBGT6dC1e2ALZnMq6Nh3brstjLhifvKBiOZH+tGsdxID2vo6f23veYBCAp+s1toAYN0CN/QyEk5PlghtFWriHDKbnDrSK1HlSFmF/3wnO/gFyBuYB8JC/ZotlRqZtLF7ed7PzszAcy9gr488pCwg3QAE5LuPNi26dYA8XkJtVlIDphrZQo4zJGYvQGsxB053tCIflVO53yiFrKDyhP39q14iQGL7CdfnLiGAOvV1dgT+M1i0dJmshSzOZmT9Gda7xSOzL/u05n2oa2RQcFdFKLRBYEA5ElNCFBmhhRIO62rxKJBvLHOWfvrEn52ZS/XK60tOI+Qx+gVX2enGCYEG6VW8xmx3swr3wxpKbRMcEFl81tORAk9TzkGdd4fjWEk4WUSK1R7D15+D56dwk0w=;SeM4cMsNyGnIgxt6XunWOg=="
 ---
 

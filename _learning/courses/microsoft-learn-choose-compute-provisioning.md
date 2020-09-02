@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Choose a compute provisioning solution for your application"
 
-secured: "5Bb8hQOfts4MqX8wb3474LWBAMD06iihPPFSgB81gdvt/cdeidS5YujFYM+qYNnVDXLH6Rz+Oh65EQt97kJPn+UsCOs1QBbBW2IzZasQ6n1sdX4v2TIF/rK3ev3qCwyCVErbAYS4eVgS4BQZ7fGYthog2j2VZjDahkcThrrXe2r+EEAu4LkvJDdbjB/2sw/2pAnKq/o6FOvccKdCe6GqgTlhJr4cHmAGyCPK7HqIRsmOmx551UVy9tJ0dVBgEdIQOz0HHRE4Y+nfY/kC/7sRbdHKig3BfWfxYtN3VuqXY/YzBgm+0qJUKckVRLV6Ab1PEVsN9xjeTTIlKhsXz7eWO/uClH9WhuSmlrqwvyyFclCc/cF+0AAmO8AOr+kzZi1WzmQvqrIKeOFs/Zsd/0T3hL3Bxj6FxtNU5SZuj3wphcc=;gZYbtokmBoJdBAuXen2XCg=="
+secured: "JJ5oAYTv9KvOAaqOKkt5VFRnRKQVT0Y5Aoq6DVHFfjCW+RCGj9ACJdLjanO130tdaKbFBbtyQ6j0zULD8/aU+6wnf+d2uBJdY6RO0TH7xGHJ+ey7toONUEg+qIp7FKL/B70Re+AfqYp23sbvwEhPk1o8A8j8rNa6Cnf9OK++2C9o/trfpJLsD4P/1VvnKsQGBjwuHvFhm+KIRWlOB8DwY88fWfusRA6CpoGciB/9P3GuI0CFH6kyl3OTPfCjrX13Trb10cs8/N6Hlw/U0VUK/pPucTNz/npvSghVwy53jqNEb3K51F3dMfhIk+fk4MJw1lkZ4BhNu3ABNSdRKGgp1Ydt0Li90BulsUbN7VpcdzvJDjfIvNtUW1swLFEwRi/4D7cikqN9/yJ56Reig1GJQu1LDRfUYViFkMZj8gLwJ4E=;4qVZ4ONK8XD+VRtYaIBrBQ=="
 ---
 

@@ -8,7 +8,7 @@ length: 83 mins
 ratings:
   count: 3185
   average: 4.698273
-heat: 55
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Execute an Azure Function with triggers"
 
-secured: "IYd9COwaTFQZ+FVZcjYKFoduujmgdQPckv/LeTq5EYYM2c4zu1/Nx3/Ydpze14PXhEN9lUDNwofQsp4Q0NN7WDGhB5XNK+A+5jvCk/y4RLw9wyrMM4D0QxzZNin4u0VpB7pEei/X/V40p5UF10iJmCWJ/C67Ysq1NhtOJw2SQJ8ybD0ZTCGcS8Z5tsH8u8QwzXyMgH1jpchkhdbwCWbSkIa/Yd8Vana+HaYNnWtrCDnBmVgjjlPfcyO6UbAFRRaGcXDaXAzU6xW3yjV9WO/UFlaHJpHAZU8AJPPnwzB2DM8gZER5+bo8myeVMSnAxaetc1vRCEUm0sMi0vsqX+QF4iEgKguzOnvP5fNIyOGL0qYSdetqjqAnTuL7fUo/+/d5io8aayOjW5il8FfBW/JCfxG6NMJxg1WeDkknS9fksmI=;ngWYldfFx4wYhKIqfrB4KA=="
+secured: "D1+yQrcVaXHNjhFPHTB5WqgDcxSY8BhgZf2H9nsH7WXsH9ISV5Ym9KRgTUOfLMNcgrg91tPDaQBZpH2px32FZLxBZFG78PCJYeIkbLGmFP/xxTp9LzKQ5qPdgomtVtjsIphQ3qqZzX4HdDuA5C/j2kEnQVHQVYObkubXoL9UHeh26yt5PUHKB1dRDMtKopojKnpc7V7GE1FN5TVDZEQOBTK4hYoT93o522i5NEivW4uI7cOcgMINVR/+SPdKM7oS1h24GHPG7pdKUrvDJ561P5BFGwkV5vmfafSvyEAZOgBEkYGXTIFlftZH4OKTigdTUhRN0Nd/BSdsthrNdIPjlGzpu1DK93ezkGpUSffiiRW5rdkAKenMgEHnKSsMnyQMiNtJE75g4DYSfbwSmdDpPCfGon+42nBjnMj6CUSZV/E=;n6weu8IjSUWfTw8cu/J6Bg=="
 ---
 

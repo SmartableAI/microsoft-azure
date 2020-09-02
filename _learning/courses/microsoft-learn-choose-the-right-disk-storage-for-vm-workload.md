@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 24 mins
 ratings:
-  count: 1465
-  average: 4.6593857
+  count: 1466
+  average: 4.6582537
 heat: 57
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Choose the right disk storage for your virtual machine workload"
 
-secured: "Jji8L8DOlfTTIw9YYkAVO3ZpJTy9zqcGVHMMgIptZOGakJf4CtywVSLCQTCJ88ixf1dBy4k1mkaY+KhmrntWcRgVsvBydv1/pAUeOp80OTwiUILv41AiyI82J5bvonGfYLU49MJxPVnZBandJJGDQj+LprK2LwbD589MINBSurNr0MaWLJV3nQjTe32GL9ttN2BOj2wERGbP1zzbL3wm3sFOxhlr13x/x/Y2ARAJvMElIXuFPfXWKZq4Ecd58bX99kqDwgKzbdUr9gX3fTk8fvMau9JDwnlYK6dnebBbUr8H+NO2vK007uiRYA8LCEXDJXTvsOVAStVUnzmTaqLkhelLUapL04l2MYDgUlvMKeTzmjyfdDxbn3BQNVj4malGRxQV0qqx6ieN8WaapzU4nh/WttAN4SMZTjPiHHWdIdI=;VH1ssdX4ViAuAhjgp17olQ=="
+secured: "fjq8ontPOc+rhqD5fvn6+14MhNmG6W+NoTrTtXUHYfvN9bJjm0I95qRMdYqzKy3UKcH+fMnK0RCUmoFWngByI6cE6OyF+8fcZLyiTG2H9um0A1ZbTnN+uRc8aYUWtesi+BOCLt1yHbndX+ukka/568RlokphSGHUSXMIBBybwgd/zFwcy8XD5blF85ZmBxvur0fzQPxXpyDatiNPNqCMjfASch1Cw0Nlg57Y2eSX8jov3obSDUzmMmCyivsPrWyZwD4xpUK5cL9p6M4wGOrrqX0xdFLV+otG6zICYAKmBgWfPTdNd69S4cjO05zMBCe+FYiUz+KqMLk5Hps9mQNZmhoneiTNF/LCadg3czc9lMkwOdRWnfDJcNDEPXnu8+EbZG8ZQpA5b4dSEMCMhlvEDcFq02Toc1xjOTAnXtYSXuE=;NjYgDLafSk8KDRTofblujg=="
 ---
 

@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 25 mins
 ratings:
-  count: 52923
-  average: 4.7327814
+  count: 52933
+  average: 4.7327943
 heat: 115
 
 provider:
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Core Cloud Services - Azure data storage options"
 
-secured: "iiTrzsbuMgHGP4ote2rOKOsGqMO5ya0oo8XMRMgNg80ZXPF9/iB9OeN7FvwUiI3CODB+ydigTTVIYG0d7Ra7F0n5esWRTpZtcb7hsdDgA/4AXDL1I2y4v18lw3mkYV1bO/zh9fsucEldu8acGJDRWg9UaV+faFuBs0ObKdeJN93iFXKep93JxMF/5QQe8Svf6b3HuKABZs5V897fRKmXPwbJAWCWqDBq65Af8Xr6SxJWUhQNNiiWB0kS3wRgvbCsdi3YOT1cNTN6XoDEsQx/b2EeBwulwtRedqQMCKeiQ/w0GtAahP9RhTtdrodVWIK3myr8ECluAVu6vLoz1xcH0DPg0aMHBfEI1XtEInTfvSrqMPl1yXiD5e8Ad70rrIAjmYzLgIuKfcCMH+Zr+QfcFfVlKO8ffija9K6P6dAfuUiQvmvCXSIAmLhJ76riH9vI;oF6A1o2WUz2vU9xdMfLslA=="
+secured: "HNYNEno7+SbNV0yT87pA+lgQP+qG8zRiPfl1TY6o6W2lffHsMDKQ2VdIxjsHQLTfVzY/LmIyMExNZRPzygt+NbVJvfD/EN+Vlsx6B6NayTw7TX7beBW3Mqq6RDR1dcOc7E84XNS7R3/vSitk1tK774U1gyUiBvCNZYJywLsWO9xLMMeEVfryCuTHyuayipDhJxWbzAu8Q+7bLlfw6IXv4VigR7GovBZDrqVv6dS+tjsej9zl8RIx+XB3zmi4EXPg1lXOkyHsVe0uTwiYdekUMdE3EdsQQGeb2OZ2KBBn9upHXVkQm9JUL/G56wVCurpENOIr1qEYeTtsibBRP5TIggBhdO1bdnBYc6XH66OfjNpyPj5luSeINXGIoS3/u3k3dPnEJm84E3xU3Ff8iyAxjHlSIzkH0uyrnC7KI4L31d0tGkTm8jR/cdtKt8EtbNgM;fXZ6VoojN3I3Ggza7hUxVA=="
 ---
 

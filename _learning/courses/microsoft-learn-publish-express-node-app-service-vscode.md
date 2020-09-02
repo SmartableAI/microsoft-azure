@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 26 mins
 ratings:
-  count: 17
-  average: 4.882353
+  count: 18
+  average: 4.888889
 heat: 50
 
 provider:
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Create and publish a web application with Azure App Service and Visual Studio Code"
 
-secured: "JwWeyu4fODbyRkYMOmTaDbFzCrd8m5HZAWKd0KLZFwFukeNPHtsbLmQVk//kXaLlzb3q8g/CwRv1n2z8qDFd5UeMOCZP0ZF0nx4q5QhizyPTS++UfMzuP4LGUhMWDGa0tpibXWljm1/jDiVWDVf2rzRvSj96KimTPksVrqIOuZAgSex2kAuBRYTIZBKG3qGEbRCoPc7tpGxuJEzIjZ/GUwYk3MHiz7TWpcWD2Usdnk/EvTiNWIjo4AIonc9DuY/GUgj60QXkSh5MHAyg8hUpjvXYoH433v8OJpzVJKOIxOrcyIL29oxBK+zQFo3guRzBomMuS/gKyebRh9sFBppXh9uP8W8e1SBeB/eYrkkWW0zAIl5wEBBGxPjg/W7KRNOBvKglr2SyBsaL42M+Gtf3VVXGIuUTF/DeEjvmLooLmAk=;t3dHTb1IhQNWviNpoYWPjQ=="
+secured: "Vpk4OGTcYk2qfBkIqB4PG2iu9THzBsLyhqnDEBRQ2UvKAipeEZ+A3j/9CESBs0g760dZi9f9x9wy1I3pQ5Oaz3Gr3LbxjzpT8SyOnk8Z+WWokxaNEoznC6NIG37DYT53Oe9+OvgsfuUUx5t5V3G0ZkdUAFWaneDUkhrB4dMhIZM1cjyuqLDhaDo2cx9WAGQP0pFKbM1ydfsh1I3tKkiQknsVP1/D+0tM7gBiyxX3nymNRRKWKHfqZ7WoAvdtcP4AQfeYgk/aVNafylrwotJ5i5m5Iz/ZpE8Y82hJCRDk/gYm2GL339J8W0K4HUbck8B3a4rLdDyImUqasrMQASE/kbIE2CRajosVedbgtbJeek5v4G2mJtdDm3PBWlRno5AcNJdlz+e1S+wHi9YBeclY6TVBZ02Wbcfqrrt4f/Wn+C0=;Kg0LVJXt2eKffXh+YpFNmg=="
 ---
 
