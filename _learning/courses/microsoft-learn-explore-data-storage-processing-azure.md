@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Explore data storage and processing in Azure"
 
-secured: "1wE7Z+67IJGPreNPZChTAFUoxDoejZqbU8B+/wRH6j1ToFtZTWybgCsSyKrVG//GHl0yltf6ZDII2IyXkQ6KRP3UXpVDlnTazPZ0QXAkSDPrqkZzX6YsSG5268mr0v04UqxAo/iaW0msXEK8IxF0kF4E5J+mU7OG+mltVjjFSXk05tmig1rU9/SbwEEEuuOdwX7IjdlQD+faDARD/+inLi2A9Q+5nTvSGocn/buV/tV/+L+FTTZkdHI16C1FghzBLqPXBKXl244xyH6unzpRGG9cReD4gkfH0+pR7kfA1PJ1MAVNfJ24pdxk0RuNVBrtK8WoAAgZlhDX2GxOA90TWjgkXy+B5eQ0zzk6UAfZY9EpYpqf6MxY+iwDRQr5Ql9qFxSJBT7wnWwGUuxqfqRmr2oOdxR18qWN2+JGoaLoV7o=;OxKqiTZh0CdW6qdjwzNnvw=="
+secured: "9tjPZdF/DMEiXS0wttTcUA+35bS4ilow8yvvS2AZ4tUvcXVEuPbImYuMcRMDVDtX4gqwTtG7+Ew6sAK/fCw3Smaf22XJ4WwEj20opDhKEx1lkzcMqQaC9lK3W5+kIHeXpEQXFvR9L+y4ZFj5QqGgDZogRrX33AYMGnHms/hQ3jG36TLn3VvFkbWu4K8j8ppHmnK/tvq4wVMDEEoJCX8diWtVpwxMQjQ/iSURpUhjudZglWhl3HfqgfplP91kPMm7MJ7ul0kz0tKiKMJCD7xeUWK0aU1LfxPy6SbMrxojYJvOmT+91Z7L0udjOyuGX78ca/hPweYcv/Y/Dk2zrw39N/5V4VALlzSlJB+zUupJjCmoK5Rs43wmDao8QVLQ8smRywEeFPSRgtO1AZTeKyN42j0hcCBh+mg5RI+sGNg7+3s=;BHn8Y2nBMZCYyzeVAdZhPg=="
 ---
 
