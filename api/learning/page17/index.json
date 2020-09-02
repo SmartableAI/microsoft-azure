@@ -4,104 +4,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-safeguard-cloud-resources.md",
-      "title": "Safeguard cloud resources",
-      "excerpt": "Learn to monitor your cloud resources, keep them safe, and protect or recover them in the case of a disaster.\nIn this learning path, you will:\n\nLearn why and how to monitor cloud services\nDescribe what KPIs are and how they differ from metrics\nBe familiar with different types of security\nBe familiar with some of the main threats to cloud security\nUnderstand the meaning of “fault tolerance”\nUnderstand the role that backup services play in disaster response and recovery\n\nIn Partnership with Dr. Majd Sakr and Carnegie Mellon University.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-safeguard-cloud-resources/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-safeguard-cloud-resources/",
-      "length": "PT2H40M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Monitor cloud resources",
-          "excerpt": "Monitoring how your cloud resources are performing is crucial to building reliable cloud applications. This module covers what monitoring is, why you need to do it, and how you can about monitoring your resources.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cmu-monitor-cloud-resources-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Monitor cloud resources",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Cloud security",
-          "excerpt": "Keeping your cloud secure means more than just adding permissions to resources. Learn about what cloud security means, including threats and cryptography.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cmu-cloud-security-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Cloud security",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Disaster recovery and backup",
-          "excerpt": "What do you do when something goes wrong with your resources on the cloud? How do you prepare for such an issue? Learn about disaster backup and recovery with this module.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cmu-disaster-recovery-backup-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Disaster recovery and backup",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cmu-monitor-cloud-resources-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Monitor cloud resources",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-scale-ai-in-your-organization.md",
       "title": "Scale AI in your organization",
       "excerpt": "In this learning path, you’ll get a high-level overview of how to manage an AI organization, team, department, or center of excellence. You’ll learn about fueling innovation at all levels, evaluating and prioritizing AI investments, establishing technical processes for AI, and distributing AI-related responsibilities across the organization.",
@@ -1182,8 +1084,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-model-selection-with-azure-automl/",
       "length": "42 mins",
       "ratings": {
-        "count": 838,
-        "average": 4.6109786
+        "count": 839,
+        "average": 4.6102505
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1341,6 +1243,51 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-azure-in-action.md",
+      "title": "See Azure in action",
+      "excerpt": "Many organizations are eager to take advantage of the benefits of cloud computing by migrating their existing apps and workloads to the cloud from their on-premises datacenters. The competitive advantages of higher efficiency, greater flexibility, lower costs, and better performance are appealing, but getting started can feel intimidating. To help you get started with migration, the demos in this module provide an opportunity to see Azure in action.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-in-action/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-in-action/",
+      "length": "30 mins",
+      "ratings": {
+        "count": 2073,
+        "average": 4.705258
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-in-action-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "See Azure in action",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Compute",
+        "Management Tools"
       ]
     }
   ],
