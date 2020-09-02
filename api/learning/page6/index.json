@@ -4,200 +4,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-threat-modeling-security-fundamentals.md",
-      "title": "Threat Modeling Security Fundamentals",
-      "excerpt": "This learning path takes you through the four main phases of threat modeling, explains the differences between each data-flow diagram element, walks you through the threat modeling framework, recommends different tools and gives you a step-by-step guide on creating proper data-flow diagrams.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-threat-modeling-security-fundamentals/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-threat-modeling-security-fundamentals/",
-      "length": "PT3H12M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Introduction to threat modeling",
-          "excerpt": "Threat modeling is an effective way to help secure your systems, applications, networks, and services. It's an engineering technique that identifies potential threats and recommendations to help reduce risk and meet security objectives earlier in the development lifecycle.",
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Introduction to threat modeling",
-              "isCached": true
-            },
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/introduction-to-threat-modeling-social.png",
-              "width": 640,
-              "height": 320,
-              "title": "Introduction to threat modeling",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Security",
-            "Azure",
-            "IoT"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Create a threat model using data-flow diagram elements",
-          "excerpt": "Data-flow diagrams are graphical representations of your system and should specify each element, their interactions and helpful context.",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Create a threat model using data-flow diagram elements",
-              "isCached": true
-            },
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/create-a-threat-model-using-data-flow-diagram-elements-social.png",
-              "width": 640,
-              "height": 320,
-              "title": "Create a threat model using data-flow diagram elements",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Security",
-            "Azure",
-            "IoT"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Provide Context with the Right Depth Layer",
-          "excerpt": "Threat models can get complex if all parties involved cannot agree on a data-flow diagram depth layer that provides enough context to satisfy requirements",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Provide Context with the Right Depth Layer",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Security",
-            "Azure",
-            "IoT"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Approach your data-flow diagram with the right threat model focus",
-          "excerpt": "Threat modeling is an effective technique to help you identify threats and ways to reduce or eliminate risk. We start by deciding to focus on either what needs to be protected or who it needs protection from.",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Approach your data-flow diagram with the right threat model focus",
-              "isCached": true
-            },
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/approach-your-data-flow-diagram-with-the-right-threat-model-focus-social.png",
-              "width": 640,
-              "height": 320,
-              "title": "Approach your data-flow diagram with the right threat model focus",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Security",
-            "Azure",
-            "IoT"
-          ]
-        }
-      ],
-      "size": 7,
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Introduction to threat modeling",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-choose-messaging-model.md",
-      "title": "Choose a messaging model in Azure to loosely connect your services",
-      "excerpt": "When you have an application that consists of components running on different computers, servers, and mobile devices, reliable communications between those components can be difficult and unreliable. Azure provides several technologies that you can use to communicate more reliably, including Storage queues, Event Hubs, Event Grid, and Service Bus. This module shows you how to choose the best technology for your communication task.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-messaging-model/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
-      "length": "45 mins",
-      "ratings": {
-        "count": 2881,
-        "average": 4.5845194
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/choose-a-messaging-model-in-azure-to-connect-your-services-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Choose a messaging model in Azure to loosely connect your services",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Integration",
-        "IoT",
-        "Analytics"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-connect-app-to-azure-storage.md",
       "title": "Connect an app to Azure Storage",
       "excerpt": "Create a simple application and add configuration, client library references, and code to connect it to Azure Storage.",
@@ -205,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/",
       "length": "75 mins",
       "ratings": {
-        "count": 4545,
-        "average": 4.628603
+        "count": 4547,
+        "average": 4.628546
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -292,8 +98,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
       "length": "86 mins",
       "ratings": {
-        "count": 7474,
-        "average": 4.683971
+        "count": 7475,
+        "average": 4.6838794
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -378,8 +184,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
       "length": "27 mins",
       "ratings": {
-        "count": 1213,
-        "average": 4.680132
+        "count": 1214,
+        "average": 4.6803956
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -421,8 +227,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/survey-the-azure-data-platform/",
       "length": "58 mins",
       "ratings": {
-        "count": 4079,
-        "average": 4.6861978
+        "count": 4080,
+        "average": 4.6862745
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3090,6 +2896,258 @@
         "Compute",
         "Migration",
         "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-migrating-open-source-workloads-to-azure.md",
+      "title": "Migrating open-source workloads to Azure",
+      "excerpt": "Learn how to migrate open-source workloads from PostgreSQL and MySQL databases to the equivalent services in Azure. Explore the processes and tools, and learn how to validate application dependencies to support a successful migration.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-migrating-open-source-workloads-to-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-migrating-open-source-workloads-to-azure/",
+      "length": "PT3H8M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Introduction to open-source database migration on Azure",
+          "excerpt": "In this module, you'll learn about the issues and considerations for migrating on-premises open-source databases to Azure, the services that Azure provides to help you migrate your databases, and how to plan a migration.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/learn-pr/achievements/introduction-to-open-source-database-migration-on-azure-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Introduction to open-source database migration on Azure",
+              "isCached": true
+            },
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/introduction-to-open-source-database-migration-on-azure-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Introduction to open-source database migration on Azure",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Migrate on-premises MySQL databases to Azure Database for MySQL",
+          "excerpt": "In this module, you'll learn about the benefits of migrating MySQL workloads to Azure, you'll see how to create an Azure Database for MySQL instance, and learn how to migrate on-premises MySQL databases to Azure.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/learn-pr/achievements/migrate-on-premises-mysql-databases-to-azure-database-for-mysql-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Migrate on-premises MySQL databases to Azure Database for MySQL",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Migration",
+            "Databases"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Migrate on-premises PostgreSQL databases to Azure Database for PostgreSQL",
+          "excerpt": "In this module, you'll learn about the benefits of migrating PostgreSQL workloads to Azure, you'll see how to create an Azure Database for PostgreSQL instance and how to migrate on-premises PostgreSQL databases to Azure.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/learn-pr/achievements/migrate-onpremises-postgresql-db-azure-db-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Migrate on-premises PostgreSQL databases to Azure Database for PostgreSQL",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Migration",
+            "Databases"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Protecting, monitoring and tuning a migrated database",
+          "excerpt": "In this module, you'll learn how to use the Azure features available for protect, monitor, and tune a database.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/learn-pr/achievements/protecting-monitoring-and-tuning-a-migrated-database-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Protecting, monitoring and tuning a migrated database",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/learn-pr/achievements/introduction-to-open-source-database-migration-on-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Introduction to open-source database migration on Azure",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-monitor-and-maintain-windows-server-iaas-virtual-machine.md",
+      "title": "Monitor and maintain Windows Server IaaS Virtual Machine",
+      "excerpt": "In this learning path, you’ll learn how to implement remote administration and management in Azure. After completing this path, you’ll be able to monitor your Azure resources, and plan for scale and high-availability.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-monitor-and-maintain-windows-server-iaas-virtual-machine/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-monitor-and-maintain-windows-server-iaas-virtual-machine/",
+      "length": "PT4H7M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Administer and manage Windows Server IaaS Virtual Machine remotely",
+          "excerpt": "You’ll be able to select and use suitable tools and techniques to remotely manage Windows IaaS VMs, and restrict administrative connections to those VMs.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "Compute"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Monitor Windows Server IaaS Virtual Machines and hybrid instances",
+          "excerpt": "You'll be able to implement Azure Monitor for IaaS Virtual Machines in Azure, implement Azure Monitor in on-premises environments, and use dependency maps.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "DevOps",
+            "Compute"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Understand Windows Server IaaS Virtual Machine cost management",
+          "excerpt": "You'll be able to use the Pricing calculator to assess likely costs, use Azure Advisor to monitor actual costs for Azure resources, implement Spot VMs and Azure Reservations, and describe benefits of Azure Hybrid licensing.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "Compute"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Implement scale and high availability with Windows Server VM",
+          "excerpt": "You'll learn how to implement scaling for virtual machine scale sets and load-balanced VMs. You'll also learn how to implement Azure Site Recovery.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "Compute"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "DevOps",
+        "Compute"
       ]
     }
   ],

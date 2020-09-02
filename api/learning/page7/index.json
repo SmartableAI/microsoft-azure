@@ -4,258 +4,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-migrating-open-source-workloads-to-azure.md",
-      "title": "Migrating open-source workloads to Azure",
-      "excerpt": "Learn how to migrate open-source workloads from PostgreSQL and MySQL databases to the equivalent services in Azure. Explore the processes and tools, and learn how to validate application dependencies to support a successful migration.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-migrating-open-source-workloads-to-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-migrating-open-source-workloads-to-azure/",
-      "length": "PT3H8M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Introduction to open-source database migration on Azure",
-          "excerpt": "In this module, you'll learn about the issues and considerations for migrating on-premises open-source databases to Azure, the services that Azure provides to help you migrate your databases, and how to plan a migration.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/learn-pr/achievements/introduction-to-open-source-database-migration-on-azure-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Introduction to open-source database migration on Azure",
-              "isCached": true
-            },
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/introduction-to-open-source-database-migration-on-azure-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Introduction to open-source database migration on Azure",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Migrate on-premises MySQL databases to Azure Database for MySQL",
-          "excerpt": "In this module, you'll learn about the benefits of migrating MySQL workloads to Azure, you'll see how to create an Azure Database for MySQL instance, and learn how to migrate on-premises MySQL databases to Azure.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/learn-pr/achievements/migrate-on-premises-mysql-databases-to-azure-database-for-mysql-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Migrate on-premises MySQL databases to Azure Database for MySQL",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Migration",
-            "Databases"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Migrate on-premises PostgreSQL databases to Azure Database for PostgreSQL",
-          "excerpt": "In this module, you'll learn about the benefits of migrating PostgreSQL workloads to Azure, you'll see how to create an Azure Database for PostgreSQL instance and how to migrate on-premises PostgreSQL databases to Azure.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/learn-pr/achievements/migrate-onpremises-postgresql-db-azure-db-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Migrate on-premises PostgreSQL databases to Azure Database for PostgreSQL",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Migration",
-            "Databases"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Protecting, monitoring and tuning a migrated database",
-          "excerpt": "In this module, you'll learn how to use the Azure features available for protect, monitor, and tune a database.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/learn-pr/achievements/protecting-monitoring-and-tuning-a-migrated-database-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Protecting, monitoring and tuning a migrated database",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        }
-      ],
-      "size": 4,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/learn-pr/achievements/introduction-to-open-source-database-migration-on-azure-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Introduction to open-source database migration on Azure",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-monitor-and-maintain-windows-server-iaas-virtual-machine.md",
-      "title": "Monitor and maintain Windows Server IaaS Virtual Machine",
-      "excerpt": "In this learning path, you’ll learn how to implement remote administration and management in Azure. After completing this path, you’ll be able to monitor your Azure resources, and plan for scale and high-availability.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-monitor-and-maintain-windows-server-iaas-virtual-machine/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-monitor-and-maintain-windows-server-iaas-virtual-machine/",
-      "length": "PT4H7M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Administer and manage Windows Server IaaS Virtual Machine remotely",
-          "excerpt": "You’ll be able to select and use suitable tools and techniques to remotely manage Windows IaaS VMs, and restrict administrative connections to those VMs.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "Compute"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Monitor Windows Server IaaS Virtual Machines and hybrid instances",
-          "excerpt": "You'll be able to implement Azure Monitor for IaaS Virtual Machines in Azure, implement Azure Monitor in on-premises environments, and use dependency maps.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "DevOps",
-            "Compute"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Understand Windows Server IaaS Virtual Machine cost management",
-          "excerpt": "You'll be able to use the Pricing calculator to assess likely costs, use Azure Advisor to monitor actual costs for Azure resources, implement Spot VMs and Azure Reservations, and describe benefits of Azure Hybrid licensing.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "Compute"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Implement scale and high availability with Windows Server VM",
-          "excerpt": "You'll learn how to implement scaling for virtual machine scale sets and load-balanced VMs. You'll also learn how to implement Azure Site Recovery.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "Compute"
-          ]
-        }
-      ],
-      "size": 5,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "DevOps",
-        "Compute"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-process-natural-language-with-azure-cognitive-language-services.md",
       "title": "Process natural language with Azure Cognitive Language Services",
       "excerpt": "Process natural language with Azure Cognitive Language Services",
@@ -376,6 +124,119 @@
       "topics": [
         "Azure",
         "AI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-virtualization-sharing-cloud-resources.md",
+      "title": "Virtualization - Sharing cloud resources",
+      "excerpt": "Dive deeper into how the cloud works by understanding virtualization. How are computing power, memory, input and output, networking, and storage virtualized?\nIn this learning path, you will:\n\nGet an overview of virtualization technology and how it is used in the cloud\nLearn a formal definition of virtualization and its different types\nUnderstand how CPUs are virtualized\nUnderstand how memory is virtualized\nUnderstand how I/O is virtualized\nUnderstand how storage and networking is virtualized\n\nIn partnership with Dr. Majd Sakr and Carnegie Mellon University.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-virtualization-sharing-cloud-resources/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-virtualization-sharing-cloud-resources/",
+      "length": "PT3H22M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Share cloud resources",
+          "excerpt": "Carnegie Mellon University's Cloud Developer course. Get an introduction to virtualization, one of the many technologies that power the cloud. Learn what virtualization is, its benefits, and how cloud resources are shared.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/share-cloud-resources-social.png",
+              "width": 1000,
+              "height": 500,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Understand virtualization",
+          "excerpt": "Carnegie Mellon University's Cloud Developer course. Take a deep dive into virtualization by understanding its formal definition as well as the different types of virtual machines.",
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/understand-virtualization-social.png",
+              "width": 1000,
+              "height": 500,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Virtualize computing power",
+          "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn about how computing power is virtualized using virtual CPUs. Covers different types of CPU virtualization.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/virtualize-computing-power-social.png",
+              "width": 1000,
+              "height": 500,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Virtualize memory",
+          "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn how memory is virtualized to support cloud resources. Covers different types of memory mapping and related issues.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/virtualize-memory-social.png",
+              "width": 1000,
+              "height": 500,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/share-cloud-resources-social.png",
+          "width": 1000,
+          "height": 500,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     },
     {
@@ -508,8 +369,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/",
       "length": "23 mins",
       "ratings": {
-        "count": 5597,
-        "average": 4.737538
+        "count": 5598,
+        "average": 4.737585
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -669,8 +530,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
       "length": "50 mins",
       "ratings": {
-        "count": 2631,
-        "average": 4.6700873
+        "count": 2633,
+        "average": 4.669958
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -843,8 +704,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/",
       "length": "PT1H20M",
       "ratings": {
-        "count": 4618,
-        "average": 4.7418795
+        "count": 4619,
+        "average": 4.7419353
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -885,8 +746,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/",
       "length": "46 mins",
       "ratings": {
-        "count": 3611,
-        "average": 4.626696
+        "count": 3612,
+        "average": 4.6267996
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1101,8 +962,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
       "length": "50 mins",
       "ratings": {
-        "count": 4488,
-        "average": 4.64951
+        "count": 4490,
+        "average": 4.649443
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1527,8 +1388,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-roles-responsibilities-world-of-data/",
       "length": "PT17M",
       "ratings": {
-        "count": 453,
-        "average": 4.799117
+        "count": 454,
+        "average": 4.7995596
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1636,6 +1497,49 @@
           "width": 800,
           "height": 400,
           "title": "Predict categories with machine learning classification",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-to-regression.md",
+      "title": "Predict numeric values with regression",
+      "excerpt": "Use machine learning regression models to predict numeric values. Build multiple variations of linear regression models to estimate things like internet traffic.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-regression/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-regression/",
+      "length": "56 mins",
+      "ratings": {
+        "count": 606,
+        "average": 4.6254125
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-regression-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Predict numeric values with regression",
           "isCached": true
         }
       ],

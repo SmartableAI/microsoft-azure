@@ -8,7 +8,7 @@ length: PT1H2M
 ratings:
   count: 95
   average: 4.8105264
-heat: 50
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Explore provisioning and deploying non-relational data services in Azure"
 
-secured: "LSL0sSGkIDWIF74hN600W3cpGW7UofqD4xxz+ddi4qD7rPOUavEJ8nNPYQz3px2uiCHR7m36CMsNy2Qh3e6p/lyUZrcs49+76m7hKIa2MPX6JXqIipCy0yN3SlJhZrdqy1wDGZ89228+MulB0NPoU+C3DH87YodDOWxQ9ICHzH9jrSb3SfiH2qlRkg+oo1PEggY5JzyRsD3hsnK4/kQTxRpNXtj7Lj54e6EIWxw8Fz2D8TMSNhfPD1BgMtmH6TXTx1TO0WjcLoO6G0b8bweUS0fpUajZeWaCyI5eel7jsdEU4t/ZRgm+KYideobNdFvsbn51G6oif193HjHO9udymsOJ6eWiWaHGci1+xrEt5B5Deq+HxC9ahAV8LGyoA6AKaAuWk0S8NEkmN0/TemyJNPpLAw6anf+2W2ALgXmFIP8=;B69CuYlAvhZB8DLXdLy54g=="
+secured: "Cu6K2wcEu0r/crVoNF/fU+zVbUH4xqVHWHs/sFQlm5CxGFD4TBakr8MMdYxspOmnuc87iyvZKujBFrQyhsXj6RHreBN0Olq1q1bvfQlWeYSQ6HJGuKOyRWHA6dg/p2GaljCLrSdrPnqiSuRKsdXjPVr09PMJVrAdJv3LBVUTUMAs2VWMVtQl0DsHz6jR/ECn+lABYCEo8QRVuw9RUUn4k1e/qL1yq3RP9yZLwX/5/fDc+l/I3cTf7EgqGD99sBgWG2JYz1H7M+JxqaQN+497ZpGlTmClC4RJ7Gvvxo27l53IWgWNKxDnLFRcwhWixy2MWdoJJCjudG/yM3Ar99gE/HP4rTSdvnJZ0AWvuF0h/a8KzDxGK28ieRLEA14pkzSQaeCVK06tbX9J5PoHea/lkiCA+hMkzMwYcXBu2qwxmu4=;IeArPusrOOCTLVmVH1JlvQ=="
 ---
 

@@ -257,8 +257,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
       "length": "38 mins",
       "ratings": {
-        "count": 60784,
-        "average": 4.7080812
+        "count": 60787,
+        "average": 4.708079
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -296,50 +296,6 @@
         "IoT",
         "Blockchain",
         "Integration"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-protect-vm-settings-with-dsc.md",
-      "title": "Protect your virtual machine settings with Azure Automation State Configuration",
-      "excerpt": "Create a desired state configuration script that checks that IIS is installed. Onboard virtual machines (VMs) for management by Azure Automation. Automatically install IIS on the VMs where that feature is missing.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-vm-settings-with-dsc/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-vm-settings-with-dsc/",
-      "length": "54 mins",
-      "ratings": {
-        "count": 787,
-        "average": 4.6658196
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 111,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/protect-vm-settings-with-dsc-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Protect your virtual machine settings with Azure Automation State Configuration",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Management Tools"
       ]
     },
     {
@@ -1104,8 +1060,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
       "length": "67 mins",
       "ratings": {
-        "count": 13523,
-        "average": 4.6832805
+        "count": 13524,
+        "average": 4.683156
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1417,7 +1373,7 @@
           "path": "",
           "title": "Choose the best Azure service to automate your business processes",
           "excerpt": "Microsoft Azure provides several different ways to host and execute code or workflows without using Virtual Machines (VMs) including Azure Functions, Microsoft Power Automate, Azure Logic Apps, and Azure WebJobs. In this module, you will learn about these technologies and how to choose the right one for a given scenario.",
-          "heat": 82,
+          "heat": 142,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/choose-azure-service-to-integrate-and-automate-business-processes-social.png",
@@ -1550,7 +1506,7 @@
           "path": "",
           "title": "Choose the best Azure service to automate your business processes",
           "excerpt": "Microsoft Azure provides several different ways to host and execute code or workflows without using Virtual Machines (VMs) including Azure Functions, Microsoft Power Automate, Azure Logic Apps, and Azure WebJobs. In this module, you will learn about these technologies and how to choose the right one for a given scenario.",
-          "heat": 82,
+          "heat": 142,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/choose-azure-service-to-integrate-and-automate-business-processes-social.png",
@@ -2309,8 +2265,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
       "length": "51 mins",
       "ratings": {
-        "count": 11978,
-        "average": 4.707046
+        "count": 11979,
+        "average": 4.7069874
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2734,6 +2690,134 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-az-104-monitor-and-back-up-azure-resources.md",
+      "title": "AZ-104: Monitor and back up Azure resources",
+      "excerpt": "Learn how to monitor resources by using Azure Monitor and implement backup and recover in Azure. This learning path helps prepare you for Exam AZ-104: Microsoft Azure Administrator.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-104-monitor-and-back-up-azure-resources/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-104-monitor-and-back-up-azure-resources/",
+      "length": "PT6H25M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Design a holistic monitoring strategy on Azure",
+          "excerpt": "Use monitoring services on Azure to bring operational excellence to your applications and infrastructure.",
+          "heat": 114,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/design-monitoring-strategy-on-azure-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Design a holistic monitoring strategy on Azure",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Security",
+            "DevOps",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Monitor the health of your Azure virtual machine by collecting and analyzing diagnostic data",
+          "excerpt": "Evaluate monitoring options for an Azure virtual machine (VM). Enable diagnostics to get data about your VM. View VM metrics and create an alert to monitor performance.",
+          "heat": 55,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/monitor-azure-vm-using-diagnostic-data-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Monitor the health of your Azure virtual machine by collecting and analyzing diagnostic data",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Compute"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Analyze your Azure infrastructure by using Azure Monitor logs",
+          "excerpt": "Use Azure Monitor logs to extract valuable information about your infrastructure from log data.",
+          "heat": 56,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/analyze-infrastructure-with-azure-monitor-logs-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Analyze your Azure infrastructure by using Azure Monitor logs",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Improve incident response with alerting on Azure",
+          "excerpt": "Respond to incidents and activities in your infrastructure through alerting capabilities in Azure Monitor.",
+          "heat": 57,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/incident-response-with-alerting-on-azure-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Improve incident response with alerting on Azure",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "DevOps",
+            "Management Tools"
+          ]
+        }
+      ],
+      "size": 8,
+      "heat": 68,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/design-monitoring-strategy-on-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Design a holistic monitoring strategy on Azure",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "DevOps",
+        "Management Tools",
+        "Storage",
+        "Migration"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-az-400-develop-a-site-reliability-engineering-sre-strategy.md",
       "title": "AZ-400: Develop a Site Reliability Engineering (SRE) strategy",
       "excerpt": "Learn how Site Reliability Engineering enables you to sustainably achieve the appropriate level of reliability in your systems, services, and products.\nTake this learning path to help prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions.",
@@ -2993,11 +3077,11 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-az-104-monitor-and-back-up-azure-resources.md",
-      "title": "AZ-104: Monitor and back up Azure resources",
-      "excerpt": "Learn how to monitor resources by using Azure Monitor and implement backup and recover in Azure. This learning path helps prepare you for Exam AZ-104: Microsoft Azure Administrator.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-104-monitor-and-back-up-azure-resources/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-104-monitor-and-back-up-azure-resources/",
+      "path": "_learning/collections/microsoft-learn-monitor-and-back-up-resources-for-azure-administrators.md",
+      "title": "Monitor and back up resources for Azure administrators",
+      "excerpt": "Learn how to monitor resources by using Azure Monitor and implement backup and recover in Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-monitor-and-back-up-resources-for-azure-administrators/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-monitor-and-back-up-resources-for-azure-administrators/",
       "length": "PT6H25M",
       "provider": {
         "name": "Microsoft Learn",
@@ -3019,7 +3103,7 @@
           "path": "",
           "title": "Design a holistic monitoring strategy on Azure",
           "excerpt": "Use monitoring services on Azure to bring operational excellence to your applications and infrastructure.",
-          "heat": 54,
+          "heat": 114,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/design-monitoring-strategy-on-azure-social.png",
@@ -3099,7 +3183,7 @@
         }
       ],
       "size": 8,
-      "heat": 67,
+      "heat": 68,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/design-monitoring-strategy-on-azure-social.png",
@@ -3369,12 +3453,12 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-monitor-and-back-up-resources-for-azure-administrators.md",
-      "title": "Monitor and back up resources for Azure administrators",
-      "excerpt": "Learn how to monitor resources by using Azure Monitor and implement backup and recover in Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-monitor-and-back-up-resources-for-azure-administrators/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-monitor-and-back-up-resources-for-azure-administrators/",
-      "length": "PT6H25M",
+      "path": "_learning/collections/microsoft-learn-architect-modern-applications-in-azure-learning-path.md",
+      "title": "Architect modern applications in Azure learning path",
+      "excerpt": "Learn how to build modern applications using PaaS services for applications, caching, containers and Kubernetes in Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-architect-modern-applications-in-azure-learning-path/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-architect-modern-applications-in-azure-learning-path/",
+      "length": "PT6H27M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -3388,62 +3472,20 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "topItems": [
         {
           "path": "",
-          "title": "Design a holistic monitoring strategy on Azure",
-          "excerpt": "Use monitoring services on Azure to bring operational excellence to your applications and infrastructure.",
-          "heat": 54,
+          "title": "Build a containerized web application with Docker",
+          "excerpt": "Package a web app so that it can be deployed as a Docker image and run from an Azure Container Instance.",
+          "heat": 52,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/design-monitoring-strategy-on-azure-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Design a holistic monitoring strategy on Azure",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Security",
-            "DevOps",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Monitor the health of your Azure virtual machine by collecting and analyzing diagnostic data",
-          "excerpt": "Evaluate monitoring options for an Azure virtual machine (VM). Enable diagnostics to get data about your VM. View VM metrics and create an alert to monitor performance.",
-          "heat": 55,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/monitor-azure-vm-using-diagnostic-data-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Monitor the health of your Azure virtual machine by collecting and analyzing diagnostic data",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Compute"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Analyze your Azure infrastructure by using Azure Monitor logs",
-          "excerpt": "Use Azure Monitor logs to extract valuable information about your infrastructure from log data.",
-          "heat": 56,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/analyze-infrastructure-with-azure-monitor-logs-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Analyze your Azure infrastructure by using Azure Monitor logs",
+              "url": "https://docs.microsoft.com/learn/achievements/intro-to-containers-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Build a containerized web application with Docker",
               "isCached": true
             }
           ],
@@ -3454,34 +3496,76 @@
         },
         {
           "path": "",
-          "title": "Improve incident response with alerting on Azure",
-          "excerpt": "Respond to incidents and activities in your infrastructure through alerting capabilities in Azure Monitor.",
-          "heat": 57,
+          "title": "Run Docker containers with Azure Container Instances",
+          "excerpt": "Learn how to run containerized apps using Docker containers with Azure Container Instances (ACI).",
+          "heat": 53,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/incident-response-with-alerting-on-azure-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Improve incident response with alerting on Azure",
+              "url": "https://docs.microsoft.com/learn/achievements/run-docker-with-azure-container-instances-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Run Docker containers with Azure Container Instances",
               "isCached": true
             }
           ],
           "type": "course",
           "topics": [
             "Azure",
-            "DevOps",
+            "Containers",
+            "Databases"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Build and store container images with Azure Container Registry",
+          "excerpt": "Azure Container Registry is a managed Docker registry service based on the open-source Docker Registry 2.0. Container Registry is private, hosted in Azure, and allows you to build, store, and manage images for all types of container deployments. Learn how to build and store container images with Azure Container Registry.",
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/build-and-store-container-images-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Build and store container images with Azure Container Registry",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Containers"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Host a web application with Azure App service",
+          "excerpt": "Azure App Service enables you to build and host web applications in the programming language of your choice without managing infrastructure. Learn how to create a website through the hosted web app platform in Azure App Service.",
+          "heat": 56,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/host-a-web-app-with-azure-app-service-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Host a web application with Azure App service",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Web",
             "Management Tools"
           ]
         }
       ],
       "size": 8,
-      "heat": 67,
+      "heat": 64,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/design-monitoring-strategy-on-azure-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Design a holistic monitoring strategy on Azure",
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-containers-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Build a containerized web application with Docker",
           "isCached": true
         }
       ],
@@ -3489,11 +3573,9 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "Containers",
         "Compute",
-        "DevOps",
-        "Management Tools",
-        "Storage",
-        "Migration"
+        "Web"
       ]
     }
   ],

@@ -4,49 +4,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-allow-users-to-reset-their-password.md",
-      "title": "Allow users to reset their password with Azure Active Directory self-service password reset",
-      "excerpt": "Evaluate self-service password reset to allow users in your organization to reset their passwords or unlock their accounts. Set up, configure, and test self-service password reset.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-allow-users-to-reset-their-password/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/allow-users-reset-their-password/",
-      "length": "31 mins",
-      "ratings": {
-        "count": 1343,
-        "average": 4.7058825
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/allow-users-reset-their-password-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Allow users to reset their password with Azure Active Directory self-service password reset",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-azure-sql-intro.md",
       "title": "Introduction to Azure SQL",
       "excerpt": "Introduction to Azure SQL",
@@ -268,8 +225,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
       "length": "83 mins",
       "ratings": {
-        "count": 3180,
-        "average": 4.6977987
+        "count": 3181,
+        "average": 4.6978936
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -355,8 +312,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/",
       "length": "PT25M",
       "ratings": {
-        "count": 6759,
-        "average": 4.7217045
+        "count": 6760,
+        "average": 4.7217455
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -388,8 +345,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/hub-and-spoke-network-architecture/",
       "length": "36 mins",
       "ratings": {
-        "count": 1072,
-        "average": 4.647388
+        "count": 1073,
+        "average": 4.6477165
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -431,8 +388,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/",
       "length": "25 mins",
       "ratings": {
-        "count": 3183,
-        "average": 4.604147
+        "count": 3184,
+        "average": 4.6042714
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -474,8 +431,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-machine-learning-service/",
       "length": "42 mins",
       "ratings": {
-        "count": 1971,
-        "average": 4.608828
+        "count": 1972,
+        "average": 4.6090264
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -903,8 +860,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-app-data-with-azure-blob-storage/",
       "length": "50 mins",
       "ratings": {
-        "count": 2663,
-        "average": 4.576042
+        "count": 2664,
+        "average": 4.5758257
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1408,6 +1365,52 @@
         "Azure",
         "Compute",
         "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings.md",
+      "title": "Chain Azure Functions together using input and output bindings",
+      "excerpt": "Integrate data sources with your Azure Functions serverless logic by using bindings.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
+      "length": "70 mins",
+      "ratings": {
+        "count": 2550,
+        "average": 4.5709805
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/chain-azure-functions-data-using-bindings-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Chain Azure Functions together using input and output bindings",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Compute",
+        "Serverless",
+        "Storage"
       ]
     }
   ],
