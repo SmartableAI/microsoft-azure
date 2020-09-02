@@ -3,6 +3,7 @@ category: news
 title: "SimCorp Offers ‘Dimension as a Service’ on Microsoft Azure"
 excerpt: "Scott Guthrie, executive vice president, Cloud + AI, Microsoft Corp adds: “By bringing SimCorp Dimension as a Service to Azure, institutional investors in the Financial Services Industry will better serve their customers. SimCorp and Microsoft will ..."
 publishedDateTime: 2020-08-12T18:09:00Z
+originalUrl: "https://www.tradersmagazine.com/xtra/simcorp-offers-dimension-as-a-service-on-microsoft-azure/"
 webUrl: "https://www.tradersmagazine.com/xtra/simcorp-offers-dimension-as-a-service-on-microsoft-azure/"
 type: article
 quality: 37

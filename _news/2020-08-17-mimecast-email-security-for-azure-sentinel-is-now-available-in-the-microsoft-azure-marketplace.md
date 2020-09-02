@@ -231,6 +231,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Buurst SoftNAS is now available in the Microsoft Azure Marketplace"
+    excerpt: "Buurst announced the availability of SoftNAS in the Microsoft Azure Marketplace, with streamlined deployment and management."
+    publishedDateTime: 2020-09-01T23:48:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/09/02/buurst-microsoft-azure/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 37
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/08/31114057/insecure-66a.jpg"
+        width: 304
+        height: 405
+        isCached: true
   - title: "Call Journey Now Available in Microsoft Azure Marketplace and App Source"
     excerpt: "Microsoft customers can now gain access to Call Journey's AI-powered Conversation Analytics technology to drive customer experience, enhance employee engagement,"
     publishedDateTime: 2020-08-31T23:00:00Z

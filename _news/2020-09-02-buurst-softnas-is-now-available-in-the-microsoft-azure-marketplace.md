@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Buurst Now Available in the Microsoft Azure Marketplace"
-excerpt: "Buurst, a leading enterprise-class data performance company, today announced the availability of its flagship product, SoftNAS, in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-publishedDateTime: 2020-09-01T12:00:00Z
-originalUrl: "https://apnews.com/d02a5aa318c5402188ac79f986783f8a"
-webUrl: "https://apnews.com/d02a5aa318c5402188ac79f986783f8a"
+title: "Buurst SoftNAS is now available in the Microsoft Azure Marketplace"
+excerpt: "Buurst announced the availability of SoftNAS in the Microsoft Azure Marketplace, with streamlined deployment and management."
+publishedDateTime: 2020-09-01T23:48:00Z
+originalUrl: "https://www.helpnetsecurity.com/2020/09/02/buurst-microsoft-azure/"
+webUrl: "https://www.helpnetsecurity.com/2020/09/02/buurst-microsoft-azure/"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Help Net Security
+  domain: helpnetsecurity.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/08/31114057/insecure-66a.jpg"
+    width: 304
+    height: 405
     isCached: true
 
 related:
@@ -217,19 +217,19 @@ related:
         width: 400
         height: 209
         isCached: true
-  - title: "Buurst SoftNAS is now available in the Microsoft Azure Marketplace"
-    excerpt: "Buurst announced the availability of SoftNAS in the Microsoft Azure Marketplace, with streamlined deployment and management."
-    publishedDateTime: 2020-09-01T23:48:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/09/02/buurst-microsoft-azure/"
+  - title: "Buurst Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Buurst, a leading enterprise-class data performance company, today announced the availability of its flagship product, SoftNAS, in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2020-09-01T12:00:00Z
+    webUrl: "https://apnews.com/d02a5aa318c5402188ac79f986783f8a"
     type: article
     provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
+      name: Associated Press
+      domain: apnews.com
     quality: 37
     images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/08/31114057/insecure-66a.jpg"
-        width: 304
-        height: 405
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Call Journey Now Available in Microsoft Azure Marketplace and App Source"
     excerpt: "Microsoft customers can now gain access to Call Journey's AI-powered Conversation Analytics technology to drive customer experience, enhance employee engagement,"
@@ -367,6 +367,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "i/X1xB1RMGk9u3TiCWxCVj1+eQbGccvLdyc5TYmAbJbQyc51Fml8qfHuZieedJQJxiuZUhbX077a80Q4sRT87xudThI9D+o/uuV82aHm6S25nr3biIoJAp9GB1oqpPABCtze5jM3L5BGw2M8Oe6HC3xmUYj/vDs1qfGghTyed7VZepFALkG2nb3GYuMmaUU5bqmDiOccsTV2/WGLP8jm218X380M7uhb0Nf5rir7AuRHI0d9vK4RxjAKP/UtwBTBYPPSkqIUSiBJtDnmf/zm9meuMotNwgybAodpNZ29ACZMR9s+aPs1PrDWwupYlKwVUxtTHpdoXVq7qInlJ185w3yefofLZV+F5ICaBFGNbLo=;s0SgTGzqo9aO4zTivZ1yUQ=="
+secured: "1tsaC5DJs6Ogo3nQNJWq8CjW1IKOWdvsx8WLUK9GHtBWtQCXC+MZ4fv5IyJe5D8/wrk/CKLWrzLUJ3W9O4Z3YCvNk4fCE5tIh/1QZkgnC9SEKiYJQPVV9TDZKxtIADjSXTZevPqJfLh2gHAyVwPTc3tTDZ5NCmlsArX4NRu9dtk119hobTFR/Whldr7+nLOyq0oW/Uf/FplqlERDd+OK4v1X9psahhTM8u+PNoHzgJI9HlrF5PYqlV/UpGeCOdN5pZfLgX2Sw6zMNB73NayTUeCwBYywyxqRzVWN8OBaOp39lNrB3S4gv8VsUOloXE1qTzdxzHTdqCqhTlOekpbJ0xLghTfBvaLZpN0/guUJyc8=;q0zXH+965JNOuhTV7PS2aw=="
 ---
 
