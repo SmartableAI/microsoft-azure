@@ -255,6 +255,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 36
+  - title: "Call Journey Now Available in Microsoft Azure Marketplace and App Source"
+    excerpt: "Call Journey, provider of market-leading Conversation Analytics technology, announces its listing in the Microsoft Azure Marketplace and AppSource o"
+    publishedDateTime: 2020-09-02T07:41:00Z
+    webUrl: "https://www.cmo.com.au/mediareleases/135281/call-journey-now-available-in-microsoft-azure/"
+    type: article
+    provider:
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 36
+    images:
+      - url: "https://demo.idg.com.au/cmo/cmo50/2020/cmo50_promo_2.jpg"
+        width: 620
+        height: 254
+        isCached: true
   - title: "Greater Than Make Enerfy Loyalty Now Available in the Microsoft Azure Marketplace"
     excerpt: "Greater Than, today announced the availability of the cloud-based loyalty program Enerfy Loyalty in the Microsoft Azure Marketplace,"
     publishedDateTime: 2020-06-11T10:01:00Z
