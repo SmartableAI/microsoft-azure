@@ -1,11 +1,12 @@
 ---
 category: news
-title: "Azure Monitor for virtual machines is now generally available"
-excerpt: ""
-publishedDateTime: 2020-04-15T16:00:16Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-for-virtual-machines-is-now-generally-available/"
+title: "User-initiated failover for application fault resiliency in Azure SQL Managed Instance is now generally available"
+excerpt: "Test the impact of automatic failover operations during planned or unplanned events before deployment to production by manually initiating automatic failover"
+publishedDateTime: 2020-09-02T16:00:05Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/userinitiated-failover-for-application-fault-resiliency-in-azure-sql-managed-instance-is-now-generally-available/"
+webUrl: "https://azure.microsoft.com/en-us/updates/userinitiated-failover-for-application-fault-resiliency-in-azure-sql-managed-instance-is-now-generally-available/"
 type: article
-quality: 17
+quality: 46
 heat: -1
 published: false
 
@@ -103,15 +104,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 47
-  - title: "User-initiated failover for application fault resiliency in Azure SQL Managed Instance is now generally available"
-    excerpt: "Test the impact of automatic failover operations during planned or unplanned events before deployment to production by manually initiating automatic failover"
-    publishedDateTime: 2020-09-02T16:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/userinitiated-failover-for-application-fault-resiliency-in-azure-sql-managed-instance-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 46
   - title: "Azure Firewall Manager is now generally available"
     excerpt: "Azure Firewall Manager is now generally available, and includes Azure Firewall Policy, Azure Firewall in a Virtual WAN Hub (Secure Virtual Hub), and Hub Virtual Network."
     publishedDateTime: 2020-07-01T08:00:06Z
@@ -126,6 +118,15 @@ related:
         width: 1024
         height: 367
         isCached: true
+  - title: "Azure Monitor for virtual machines is now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-15T16:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-for-virtual-machines-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
   - title: "Azure SQL Managed Instance management pack is now generally available"
     excerpt: "System Center Operations Manager (SCOM) management pack for Azure SQL Managed Instance is now generally available."
     publishedDateTime: 2020-07-15T23:00:30Z
@@ -136,6 +137,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "ABRicviYTpivJVZoYf6B2vmL2xQJUTQujexmyjUD5w6Gzh1/mU5rCjjs9LHhqVxAZfw1QEAGC9esGVm2Lt47cpe/ux5rL/qDc7xizh1xxmUUYdThLVUsIRCPwnVMSxASJ9wftaF6NLmhQbfwdiYLhX7mLZ1ez7SPxP/NhrORA1tC/5lkzJF9D/VMyrpmLuQ53+zwzhyUQLqIkAuhDJlv4uNjb/gLbdxuThE7YxEb292RuIzh4CDBq8oR6Z4ibKRohbEz5tws9hgi1wWPnjmytZDZb3Ci/lm7B7cA1rVu3X9RMc8I+Ero8HT33kTu1SCAqVbCdkGssiKAiUc3VHaYYA==;PK2ZjjW9KmQIaxYP5lvpKQ=="
+secured: "rJxAcRxgtsCDYgn1K3n49k1Q1jVt4EbuXy8Sc+gjAnlXkocGuAVPlPn3ojW7PESTGYNra5VagB+gD1eVc8Gp5QugrDEcVktx+Q8CetOKNc+xf01neqHwYlqKu+J9/Vuwk8wlbTEVGopGwCUoGoKuVHMjNzoRXu4xVKJvjxbXnPqIlhYVKxX6czhtJr+vhu30iQfk+TLVmxgK9eb0MX/c8mV3wOcxBseGld9+EbmHuBIsfD8bJi+mjFZTncKAMW5gudsJrQizrJzzIf/FCqp0jvYNjXQQlXK/aM3a4RRW9AqBUtC1LKeQQlWqvMIaJ10OhgImQlvgX0GHpQu4RzS5LsOroJuOo0PLjuQZfB0V0pA=;zAFTVL70vSF3mixXO/U+7Q=="
 ---
 

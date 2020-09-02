@@ -68,6 +68,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Spring Cloud is now generally available"
+    excerpt: "Azure Spring Cloud is a fully managed service for Spring Boot apps that lets you focus on building the apps that run your business without the hassle of managing infrastructure"
+    publishedDateTime: 2020-09-02T16:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-spring-cloud-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "New Azure VMs for general purpose and memory intensive workloads now available"
     excerpt: "The new D v4 and E v4 series Azure Virtual Machines feature the Intel Xeon Platinum 8272CL custom processor, can achieve up to 3.4Ghz all core turbo frequency, and offer up to 504 GiB of RAM. "
     publishedDateTime: 2020-09-01T16:00:06Z
@@ -86,6 +95,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 47
+  - title: "User-initiated failover for application fault resiliency in Azure SQL Managed Instance is now generally available"
+    excerpt: "Test the impact of automatic failover operations during planned or unplanned events before deployment to production by manually initiating automatic failover"
+    publishedDateTime: 2020-09-02T16:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/userinitiated-failover-for-application-fault-resiliency-in-azure-sql-managed-instance-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 46
   - title: "Azure Firewall Manager is now generally available"
     excerpt: "Azure Firewall Manager is now generally available, and includes Azure Firewall Policy, Azure Firewall in a Virtual WAN Hub (Secure Virtual Hub), and Hub Virtual Network."
     publishedDateTime: 2020-07-01T08:00:06Z

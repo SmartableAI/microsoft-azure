@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Insurtech Leader FastTrack Completes Migration to the Microsoft Azure Cloud"
-excerpt: "FastTrack, a leading provider of insurtech solutions for the Life & Disability insurance industry, announced today the completion of their migration to a"
+excerpt: "FastTrack, a leading provider of insurtech solutions for the Life & Disability insurance industry, announced today the completion of"
 publishedDateTime: 2020-09-02T12:36:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_new_jersey/insurtech-leader-fasttrack-completes-migration-to-the-microsoft-azure-cloud/article_4cdec792-cb8e-59cc-bdd5-ba9439ffda2d.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_new_jersey/insurtech-leader-fasttrack-completes-migration-to-the-microsoft-azure-cloud/article_4cdec792-cb8e-59cc-bdd5-ba9439ffda2d.html"
+originalUrl: "https://www.prnewswire.com/news-releases/insurtech-leader-fasttrack-completes-migration-to-the-microsoft-azure-cloud-301122621.html"
+webUrl: "https://www.prnewswire.com/news-releases/insurtech-leader-fasttrack-completes-migration-to-the-microsoft-azure-cloud-301122621.html"
 type: article
 quality: 35
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -66,6 +66,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "HxFrHzKMlz3FH4ix4ElalqWOBpMqcF1z8yRozvFtTtLPW7WwCaoCzRbtNGXTqPEUIYfsgcUfwignSobHras/FmO5U02xVNs2c0xYVB8jehDwXLDr/IQgBAlalEkHxpSqcol0hmBocELd0PDJnsUEE2acA1+0tU900hhj46SCpea612zwm57qvKTIDqopI2nAY/UBjJamTHXlj7ACz+eqHg/kRJreX7/1zvdtMFbsBG4iB2Wo2udTW5jBuez3BcyO54TTLfn/PSA+1kqhVFUAa01m3pPTfW0MDXrwZQrDSxq2AAfIHO5+08CUQoGjoj0KgM/dhQEuPpIR/eowhy8ClvsCvD11B8mk/+fq0welBcY=;af3xBaOrM2u1qLv17ftHQQ=="
+secured: "0gkaln2/IgAITX+jiOSuO9s+X/YuHXEpl52GKYiiYJVFFNiE6iK3GXofg/E+5JrTZaImW1om0o0FdNFCf41NR7lR8hc9m2IrrWQmJUam5FUV/yU5fmAKN54sjv59iOfa/s2Cin3NhJ2mm3y97o5wT1FRX2H12Ma4gTnt0qzXNiY1gPYfShCFNMVQJ0QD1LqgFYtCo7VpFz1oQuNNRl3NkaXwOuhzm4lIQ+G1K65mket19A31rtfxv79aaJFX8OOCY97jbTVcikQHtg9Infoe1doFeitsx8scTNm1oaJIASO5+a9Ute1eBEYt9EqJz4rFcyxkaV787DcTdmVWTMBPOozB0oux3hW9AK/5nlv9X00=;YTV/WGBBBqDTvWECryl6VA=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-24T16:00:15Z
 webUrl: "https://azure.microsoft.com/en-us/updates/durable-functions-now-supports-python/"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,17 @@ images:
     height: 639
     isCached: true
     title: "Durable Functions now supports Python"
+
+related:
+  - title: "Durable Functions v2.3 is now available "
+    excerpt: "A new release of Durable Functions is out now. This release includes new functionality including long running timers, logging, and state management improvements."
+    publishedDateTime: 2020-09-02T16:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/durable-functions-v23-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
 
 secured: "H0GItZi2YMk91pVWXAWxRGvcv2Uq7nrxO/8mF389aJ4iw57tsQ74AVU8rqOin8ze1TiBaSmx+ywGVbN2yiOqPcdom5s7eaoNCAI+yMJZS3mN0xL+S13TCdofUXLeYL32l1205T1WDc7OoGRKKo66niYE4x/t4u/WjEKnbjVHsntEIQ6e81Da3Kp29Os3W3CH4oJfoTlLn63S+Ur3UjBTJVdf98TsB09MwkYZINcAOFd5ZWLiBOnFQMIA8nzsNmzXJGwkCQtDW71YPwL1qO3KoKuQ2DbXngtD8/H+Orsvd12nXg1TH1+Ly+VfHfGr1LHgMnurqeOGuz9SM81ZMdPQTw==;uW6DNfjmScp5qCeGUsb1Ew=="
 ---

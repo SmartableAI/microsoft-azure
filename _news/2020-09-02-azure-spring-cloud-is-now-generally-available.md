@@ -1,11 +1,12 @@
 ---
 category: news
-title: "Azure Monitor for virtual machines is now generally available"
-excerpt: ""
-publishedDateTime: 2020-04-15T16:00:16Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-for-virtual-machines-is-now-generally-available/"
+title: "Azure Spring Cloud is now generally available"
+excerpt: "Azure Spring Cloud is a fully managed service for Spring Boot apps that lets you focus on building the apps that run your business without the hassle of managing infrastructure"
+publishedDateTime: 2020-09-02T16:00:04Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-spring-cloud-is-now-generally-available/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-spring-cloud-is-now-generally-available/"
 type: article
-quality: 17
+quality: 67
 heat: -1
 published: false
 
@@ -67,15 +68,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Spring Cloud is now generally available"
-    excerpt: "Azure Spring Cloud is a fully managed service for Spring Boot apps that lets you focus on building the apps that run your business without the hassle of managing infrastructure"
-    publishedDateTime: 2020-09-02T16:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-spring-cloud-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "New Azure VMs for general purpose and memory intensive workloads now available"
     excerpt: "The new D v4 and E v4 series Azure Virtual Machines feature the Intel Xeon Platinum 8272CL custom processor, can achieve up to 3.4Ghz all core turbo frequency, and offer up to 504 GiB of RAM. "
     publishedDateTime: 2020-09-01T16:00:06Z
@@ -126,6 +118,15 @@ related:
         width: 1024
         height: 367
         isCached: true
+  - title: "Azure Monitor for virtual machines is now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-15T16:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-for-virtual-machines-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
   - title: "Azure SQL Managed Instance management pack is now generally available"
     excerpt: "System Center Operations Manager (SCOM) management pack for Azure SQL Managed Instance is now generally available."
     publishedDateTime: 2020-07-15T23:00:30Z
@@ -136,6 +137,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "ABRicviYTpivJVZoYf6B2vmL2xQJUTQujexmyjUD5w6Gzh1/mU5rCjjs9LHhqVxAZfw1QEAGC9esGVm2Lt47cpe/ux5rL/qDc7xizh1xxmUUYdThLVUsIRCPwnVMSxASJ9wftaF6NLmhQbfwdiYLhX7mLZ1ez7SPxP/NhrORA1tC/5lkzJF9D/VMyrpmLuQ53+zwzhyUQLqIkAuhDJlv4uNjb/gLbdxuThE7YxEb292RuIzh4CDBq8oR6Z4ibKRohbEz5tws9hgi1wWPnjmytZDZb3Ci/lm7B7cA1rVu3X9RMc8I+Ero8HT33kTu1SCAqVbCdkGssiKAiUc3VHaYYA==;PK2ZjjW9KmQIaxYP5lvpKQ=="
+secured: "RTiZplyUSrL7ScDiCj9V4On5XQZm1a5FdVD401bA3ndhD9hLEz+0eqel55nDVnvPbim3MhhdC/4uyxG4gUeQWX1IZAtkgjFMJBR0x/grT+2JGsmy0Vdnl500CtzukUuzCds2RZHxc5kIkgpTSm2jskLO/z7LnYSTZ9QzVLBBYCVJPtTXllOyuQfo7jwOmSlNCu9IC8E2M/dnw8gQHyg6OuoNS1ALjDI51lcVsuBtGp5nOfuqIb/KdZMhcX5NHjTWkSxsbvWVIT4B6Ezarnrko16zskVixMJ/ShDLfdn6bfzbmauQoi8osZK2IS832AWItn4ZLtBnc+7k5mg/hXln5jEUDG425m2HXLu2nlVguUY=;o9FvGeb/X9zqlgPSs9jXJA=="
 ---
 

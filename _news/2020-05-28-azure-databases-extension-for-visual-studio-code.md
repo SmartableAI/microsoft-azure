@@ -35,6 +35,15 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Azure Cache for Redis Visual Studio Code extension now in preview"
+    excerpt: "You’ll be able to use Visual Studio Code to view, test, and debug your caches in one streamlined experience. This extension enhances ease of development by eliminating the need to manually track connection and access keys to connect to your caches."
+    publishedDateTime: 2020-09-02T16:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cache-for-redis-visual-studio-code-extension-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "New Azure API Management Visual Studio Code extension now available"
     excerpt: ""
     publishedDateTime: 2020-04-13T16:00:06Z
