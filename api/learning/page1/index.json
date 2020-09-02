@@ -257,8 +257,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/",
       "length": "62 mins",
       "ratings": {
-        "count": 160170,
-        "average": 4.7718487
+        "count": 160209,
+        "average": 4.7718353
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -300,8 +300,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
       "length": "39 mins",
       "ratings": {
-        "count": 128089,
-        "average": 4.695376
+        "count": 128115,
+        "average": 4.695399
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -467,8 +467,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
       "length": "38 mins",
       "ratings": {
-        "count": 60849,
-        "average": 4.7079163
+        "count": 60861,
+        "average": 4.707941
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -516,8 +516,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduce-foundation-pillars-devops/",
       "length": "25 mins",
       "ratings": {
-        "count": 861,
-        "average": 4.6190476
+        "count": 865,
+        "average": 4.618497
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1403,8 +1403,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-data-in-azure/",
       "length": "25 mins",
       "ratings": {
-        "count": 52908,
-        "average": 4.7327623
+        "count": 52915,
+        "average": 4.7327414
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1440,15 +1440,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks.md",
-      "title": "Secure your Azure virtual machine disks",
-      "excerpt": "Use Azure Disk Encryption (ADE) to encrypt OS and data disks on existing and new VMs.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
-      "length": "61 mins",
+      "path": "_learning/courses/microsoft-learn-monitor-azure-cosmos-db.md",
+      "title": "Optimize the performance of Azure Cosmos DB by using partitioning and indexing strategies",
+      "excerpt": "Learn how to measure the throughput of your NoSQL database and assess the impact of partition key and indexing strategies on throughput.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-azure-cosmos-db/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-and-scale-cosmos-db/",
+      "length": "76 mins",
       "ratings": {
-        "count": 2377,
-        "average": 4.649979
+        "count": 1039,
+        "average": 4.599615
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1465,13 +1465,13 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 114,
+      "heat": 113,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-your-azure-virtual-machine-disks-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/monitor-azure-cosmos-db-social.png",
           "width": 200,
           "height": 200,
-          "title": "Secure your Azure virtual machine disks",
+          "title": "Optimize the performance of Azure Cosmos DB by using partitioning and indexing strategies",
           "isCached": true
         }
       ],
@@ -1479,9 +1479,7 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Compute",
-        "Storage",
-        "Management Tools"
+        "Databases"
       ]
     },
     {
@@ -1492,8 +1490,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/",
       "length": "45 mins",
       "ratings": {
-        "count": 64808,
-        "average": 4.7119493
+        "count": 64820,
+        "average": 4.711987
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1527,15 +1525,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-migrate-premises-postgresql-databases-azure-database-postgresql.md",
-      "title": "Migrate on-premises PostgreSQL databases to Azure Database for PostgreSQL",
-      "excerpt": "In this module, you'll learn about the benefits of migrating PostgreSQL workloads to Azure, you'll see how to create an Azure Database for PostgreSQL instance and how to migrate on-premises PostgreSQL databases to Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-premises-postgresql-databases-azure-database-postgresql/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-postgresql-databases/",
-      "length": "50 mins",
+      "path": "_learning/courses/microsoft-learn-run-web-app-background-task-with-webjobs.md",
+      "title": "Run a background task in an App Service Web App with WebJobs",
+      "excerpt": "Automate a task for a Web App that should run in the background without affecting the performance of the Web App.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-web-app-background-task-with-webjobs/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-web-app-background-task-with-webjobs/",
+      "length": "39 mins",
       "ratings": {
-        "count": 49,
-        "average": 4.7959185
+        "count": 585,
+        "average": 4.3760686
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1550,24 +1548,22 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
-      "heat": 110,
+      "heat": 112,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/learn-pr/achievements/migrate-onpremises-postgresql-db-azure-db-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/run-web-app-background-task-with-webjobs-social.png",
           "width": 800,
           "height": 400,
-          "title": "Migrate on-premises PostgreSQL databases to Azure Database for PostgreSQL",
+          "title": "Run a background task in an App Service Web App with WebJobs",
           "isCached": true
         }
       ],
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure",
-        "Migration",
-        "Databases"
+        "Azure"
       ]
     },
     {
@@ -1578,8 +1574,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
       "length": "76 mins",
       "ratings": {
-        "count": 42744,
-        "average": 4.701923
+        "count": 42749,
+        "average": 4.7019577
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1621,8 +1617,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/",
       "length": "36 mins",
       "ratings": {
-        "count": 64205,
-        "average": 4.799486
+        "count": 64215,
+        "average": 4.799517
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1664,8 +1660,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-networking/",
       "length": "28 mins",
       "ratings": {
-        "count": 41856,
-        "average": 4.7639766
+        "count": 41863,
+        "average": 4.7639203
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1707,8 +1703,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/",
       "length": "73 mins",
       "ratings": {
-        "count": 48616,
-        "average": 4.7065163
+        "count": 48623,
+        "average": 4.7065587
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1750,8 +1746,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
       "length": "46 mins",
       "ratings": {
-        "count": 36593,
-        "average": 4.627989
+        "count": 36596,
+        "average": 4.627965
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1793,8 +1789,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-devops-continuous-planning-intergration/",
       "length": "22 mins",
       "ratings": {
-        "count": 576,
-        "average": 4.6666665
+        "count": 582,
+        "average": 4.668385
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1835,8 +1831,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
       "length": "46 mins",
       "ratings": {
-        "count": 36960,
-        "average": 4.7121754
+        "count": 36967,
+        "average": 4.7121487
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1878,8 +1874,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimize-spending/",
       "length": "74 mins",
       "ratings": {
-        "count": 38857,
-        "average": 4.7136164
+        "count": 38861,
+        "average": 4.713646
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2292,8 +2288,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/characterize-devops-continous-collaboration-improvement/",
       "length": "17 mins",
       "ratings": {
-        "count": 377,
-        "average": 4.6392574
+        "count": 379,
+        "average": 4.635884
       },
       "provider": {
         "name": "Microsoft Learn",
