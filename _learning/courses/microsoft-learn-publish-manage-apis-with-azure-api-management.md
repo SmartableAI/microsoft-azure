@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 38 mins
 ratings:
-  count: 1059
-  average: 4.6610007
-heat: 56
+  count: 1060
+  average: 4.6613207
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Publish and manage your APIs with Azure API Management"
 
-secured: "U7z0Fe2yGbBIma8Pt4eihUvgjOZVhFe0OgZDPoS7faW9u5rtUfKTc6Frgz+MN836WyYLEI5/FPPDxgkKROEeWBTdDBb0H1M2z2YiSZldkR0LYNeENngBccAuPsoOK9AJrzWend1ENlMQmAl8J9RvpSqYcnlBOsTCsBHy9xu2YzN8S9gE9ruufDcwoQdB6P4kljWklOgfZJA757Jd0pJApzpxCq45D8WEgL56kSoTTBc14imBN5AruDVaPZIJYsKwmHHmFCyz3gJ+zLSBIYgUaxfbOlftBIvJySVDJcdAAzKGwvzQoHHa3P9S0zNyv2mNw68XsG0vPVu0MhFhcyD8Kgbui5f9dN6GNTiP/9GRrFYWZLcN6QpqPrdbTgUOsxDo+x79bFEodgsqjp/rL6qtIYMTjUsgo/uVy/TTkXErxv8=;PH4WcJUj6nVFciMQ+3c4BQ=="
+secured: "k3nWXs3DuP+1+XYv1fBwiAlJnA1OkIiC+4G0FuCI9VnzWJT7eMPijnBgEkq+9t965qEJuLg5qfsYTwWwE+IneNs643W+FVDXQ8EWZSZsFwpPP33YEJ6T5qP1GE0R4xKCbdMO6Eku9Bdee/16lGBR25I7wOXM3PLXNuO5tIrV1h5gueX7OwhxM1Y3GkNPzambJClSuk+5Na9CAsZxTE9R0lxtsAg9/IKMarv+0l4ICY4//J7acRBjz7rPYuTfxzwS+OT/OviZNDjkgbRi+RVMtmO1z9Vnd0WIMYooVMnQfV3oQ3gxvOMakE4HG0GNJfFmLBgYe5xXIQp8+5doSQ0sdFhrbRsoWRB/opWaraoGJvKymsb/48h2FtNTOII/Ch/HZI7FO09w+m05pSbYn7/WorSwElvEM4YdXty4fztnO48=;Hjo+AJuDmouTZRJwqzpySg=="
 ---
 

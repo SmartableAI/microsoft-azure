@@ -8,7 +8,7 @@ length: PT51M
 ratings:
   count: 810
   average: 4.708642
-heat: 59
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Microsoft Azure Well-Architected Framework - Cost optimization"
 
-secured: "HdJqEZslTAiQ0B+pYqwZHc5pgJeW+cn5g8rkGB8qGF5GKEB0cnINjE+mQEhN7AmapMJ8MdfHkChdjcwcKfOZGKlEFBmnPzOxyBbYfN0kwtgk0Pi5w8hf7DWHF9ouqtSKHKyvZl/q9l1ZpC8MRbO6io5nCeS5wLyA6i8m2qwIm70/n8QZu3Xqw0SaEDzvlpbsxxXD1K4o5xFLBlIcamyipLVYd/5/RPeiYjrI11qICKH1dUtnkEeAw0Vqt8GWfJXL0q33l12AgAvK/VGmkmtlHLmFAazif/JzX7Ba1jjaSGpELbvnnZGI0+wyrUIFXK9cz66AyMHFwLEEcU1zSvKM5Kgq5Gi3dhgnMB7PIDdI8jYs+/7Caj1kChfn+TlXsO1f1z6DTuRfb02X9G+PjbMpdgB86sIaU5wAhSRTpfon5WU=;pTWbMNSovQNCN1maVJGCXg=="
+secured: "uOvViqCXtn++WH4FEbLDEPu/aT2x+3+nqVcoNjtbSzFozD4B8/CaOQp8cPwfnI/P4k/Vz4322GVpkhd0sHTJfUQHPpLZslNO9gwrQaKnzPe7er2PzWKGcwwZ6FdKJGsr5+UvZ6NeWdeNlsWscPdFWnxE5fqa0S1PtCsC+hbxG+Bgy5MQAxm5wf3EOuKf4U+ZE0DmmZDdQ+g69TA8RF3ZDZUCC5rTG2RNauglgRsJZ5frPchhq4N6ngI0Stq1lpXd0rSFtwCJKSjqH7NoRkZcj8IzRdUAdNPq2KY3TvenUdQrKFSgPVTJoE8M590rzuD2Y1T7sYy6G5WxMVtAIQU5x64gBoy6XbApjwmgTCeb1fGFlc9U7XjJvjUxsP4ZirxwZjU0pQEyEWAvU8rC5C3HmhOExAEKXbIGUXf/mX5TmgY=;hJSW0AbmjUlZOLcTazBwow=="
 ---
 

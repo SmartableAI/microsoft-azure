@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 16 mins
 ratings:
-  count: 474
-  average: 4.6983123
+  count: 475
+  average: 4.6989474
 heat: 85
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Define the foundation pillars of DevOps: Architecture and Technology"
 
-secured: "8GozhdICyCseK/W3SXb8rZru62TQrKdZwPRKLrHH+ZDgYVixqTdtJFEuaNzjI3c8SpOVqj4VnX1Eax9Z4hNelNYno6nlMZWBiI0pm/9vM7yi/XchrVtTxMYNZtMHC0+MBW0ANdZSDzUeQTQc3rbF2DUJtJizteyD5v2ZZfCsh4yWYrySUAS4IHyQzizNNHCveScewcTymEkVqVtmmlb0eUZrv0GgcMwuCnV4XgFicvow6k7U3QlMjkptvvco+DG6NxGgvP3RDhVwJ76DJ46DFEpjTZeXnanZ9yeKGhgO3iY+5kckP7mm5m9GuYZzkbAQ3zw8jaz/nqari7ZHFzpAfU6yfGx9yzvtgfm6MfDxgcGlwHTRC3HBsFa3a2CUe9Vzwvp1CVmxm5RSccyjbc/uFVoN1zzM1fmMPqZhtTN8RAU=;JueMJUF2xQsAqjiGgKNAdw=="
+secured: "AIVTy++kbr3CztOhTlzjbwSezH/jCETl0F0trioE7fPtiIauoN5lHorpaoXY8XcSFfFeH+Q1SiTrxeLtB1sfgWEH7DnxW/NW2Q4HvqUahl049BEPPzRhn9bVcSelkzOzdqEiD1yWp2ikNvGpiKG0S+qFCqo82YJod/nFWggzbi7AGIGhi36JGw6TDqKOnpFBvGSSdwftctyJD2j+0ti3fAlWDu0MOlqE7P7MX7t2hu4bY0uYMHS4UACBQLWHQE8V3GK35ly4Q5BbZlG5dO2hRgFTFgYlvcJJ8PAKGDx+1hTE4VokNhCSuOFP0cR8jWakcaOlxbXn4T3lONK7nuRZsSUK75fF4cICDqBTxWjZLY4STgLl8PP+mLT96adpJoDQGebFi7N8Meaq2yNwv7tEWvysWrsdHT6D49e396QK5Hk=;8lj5Fp20L52C0yNgMpat6Q=="
 ---
 
