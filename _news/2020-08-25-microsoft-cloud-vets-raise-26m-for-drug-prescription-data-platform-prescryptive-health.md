@@ -31,11 +31,11 @@ images:
 
 related:
   - title: "Universal Shifting to Microsoft’s Azure Cloud Platform for Live-Action, Animation Production"
-    excerpt: "The company has embarked on a major multiyear strategy to move its studios’ film and TV production from in-house servers to the Microsoft Azure cloud computing platform. The goal is to let ..."
-    publishedDateTime: 2020-08-21T08:00:00Z
-    webUrl: "https://variety.com/2020/film/news/universal-microsoft-azure-cloud-production-1234743076/"
-    ampWebUrl: "https://variety.com/2020/film/news/universal-microsoft-azure-cloud-production-1234743076/amp/"
-    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/film/news/universal-microsoft-azure-cloud-production-1234743076/amp/"
+    excerpt: "Universal Filmed Entertainment Group has its head in the cloud — and now it’s going to push its production teams there. The company has embarked on a major multiyear strategy to move its"
+    publishedDateTime: 2020-08-21T16:00:00Z
+    webUrl: "https://variety.com/2020/digital/news/universal-microsoft-azure-cloud-production-1234743076/"
+    ampWebUrl: "https://variety.com/2020/digital/news/universal-microsoft-azure-cloud-production-1234743076/amp/"
+    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/digital/news/universal-microsoft-azure-cloud-production-1234743076/amp/"
     type: article
     provider:
       name: Variety

@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Universal Shifting to Microsoft’s Azure Cloud Platform for Live-Action, Animation Production"
-excerpt: "The company has embarked on a major multiyear strategy to move its studios’ film and TV production from in-house servers to the Microsoft Azure cloud computing platform. The goal is to let ..."
-publishedDateTime: 2020-08-21T08:00:00Z
-originalUrl: "https://variety.com/2020/film/news/universal-microsoft-azure-cloud-production-1234743076/"
-webUrl: "https://variety.com/2020/film/news/universal-microsoft-azure-cloud-production-1234743076/"
-ampWebUrl: "https://variety.com/2020/film/news/universal-microsoft-azure-cloud-production-1234743076/amp/"
-cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/film/news/universal-microsoft-azure-cloud-production-1234743076/amp/"
+excerpt: "Universal Filmed Entertainment Group has its head in the cloud — and now it’s going to push its production teams there. The company has embarked on a major multiyear strategy to move its"
+publishedDateTime: 2020-08-21T16:00:00Z
+originalUrl: "https://variety.com/2020/digital/news/universal-microsoft-azure-cloud-production-1234743076/"
+webUrl: "https://variety.com/2020/digital/news/universal-microsoft-azure-cloud-production-1234743076/"
+ampWebUrl: "https://variety.com/2020/digital/news/universal-microsoft-azure-cloud-production-1234743076/amp/"
+cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/digital/news/universal-microsoft-azure-cloud-production-1234743076/amp/"
 type: article
 quality: 46
 heat: -1
@@ -43,6 +43,6 @@ related:
         height: 1260
         isCached: true
 
-secured: "kGjIwNZZWT5RpPE2aDKmcvbDpC2b/kLk3tSfU+e5f5U3r1Tw/BoYu0YAd77aMCU0tBnBLHJBBn1szNImQscXaEstzQvN2xBpBkHtF6FNR1/WnEpjfe2Kosg7zPHubWfBB0ARPxmlwOrrmTdXovHIJpLZ7JOjxFgbB0zwmNZZ6biEPtC5URAYRELGR12GNJpv2GJz9dQpQsU1Qdtz+kFMBc/XZjGXdkblmspH5ZpDIITWQ4IhgCzMp0nFMZfG9/sI/RRL23oBx55L0xt+y3l7OBvZTPHcrWSQ5HPjlcun7vuX99MpwRxXxLdT+bkFw4dYdJ+WZpI0C6RasyWG775QZJm+Cn1rwv5hRDVqvfmhQek=;7OMYeDtJ29c4wx28OPwVhw=="
+secured: "zlaflxUVh+MMZ4ec/w0WZ0ILq3anXURvFmt/bmLWKJRFDfckHw5Gy9jiHT3uum2VXd3BLZY3cbm+3G+Tlhq1yOWhGcFfFKP9flpm4NhDIqDuFJ+anSbXE6hxTBxtbaQjTpUdzJ87I2NZE961+lWOQLG2l0T2wcbYFHq8evM6q3eVgFjLivELqWY7mtn7d4CY5GQskiIuOxJSs2lPT6nxLT2hCTJbPUxKpw+ctY7/+OVIs3ZVGoJIyLDl6CCczudfu0D1jDOb90jcbjAssuxfZ4F2UAQg6KV/HgNg/GSUibh5RMQxHipvVNvHlegpFEmxSvV0OhbYQzJi6rt7Js2BH6vv8mbsPpFRQd/Ef1LKGnk=;SQYj8JbCLRQ31wwl7pfUIA=="
 ---
 
