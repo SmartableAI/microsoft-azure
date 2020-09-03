@@ -40,6 +40,20 @@ related:
         width: 600
         height: 201
         isCached: true
+  - title: "Insurtech Leader FastTrack Completes Migration to the Microsoft Azure Cloud"
+    excerpt: "FastTrack, a leading provider of insurtech solutions for the Life & Disability insurance industry, announced today the completion of"
+    publishedDateTime: 2020-09-02T12:36:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/insurtech-leader-fasttrack-completes-migration-to-the-microsoft-azure-cloud-301122621.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 35
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Netcracker Offers AI-Driven Digital BSS/OSS to Microsoft Azure"
     excerpt: "Netcracker Technology announced today it is working with Microsoft to offer its Digital BSS/OSS and Orchestration applications on Microsoft Azure. Netcracker is collaborating with Microsoft to integrate Azure Machine Learning (ML) and AI services with Netcracker’s Advanced Analytics to add intelligent contextual decisioning and recommendations to enable more personalized customer"
     publishedDateTime: 2020-05-14T09:16:00Z

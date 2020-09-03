@@ -355,6 +355,17 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 25
+  - title: "Mimecast Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
+    excerpt: "Dubai, United Arab Emirates - Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure Marketplace, an online store ..."
+    publishedDateTime: 2020-08-19T23:13:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Mimecast_Email_Security_for_Azure_Sentinel_is_now_available_in_the_Microsoft_Azure_Marketplace-ZAWYA20200819070435/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200819070435/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200819070435/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 25
   - title: "Mimecast offers e-mail security via Microsoft Azure marketplace"
     excerpt: "E-mail and data security company Mimecast has announced the availability of Mimecast Email Security for Azure Sentinel on the Microsoft Azure Marketplace. By logging email activity instantly and making the information available to Azure Sentinel,"
     publishedDateTime: 2020-08-20T12:25:00Z

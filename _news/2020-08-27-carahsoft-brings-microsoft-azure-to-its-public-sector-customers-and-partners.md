@@ -52,20 +52,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Insurtech Leader FastTrack Completes Migration to the Microsoft Azure Cloud"
-    excerpt: "FastTrack, a leading provider of insurtech solutions for the Life & Disability insurance industry, announced today the completion of their migration to a cloud-computing platform. The project resulted in a transition to Microsoft Azure for their entire suite of solutions and was completed without any service disruption to its customers."
-    publishedDateTime: 2020-09-02T12:36:00Z
-    webUrl: "https://www.finanzen.net/nachricht/aktien/insurtech-leader-fasttrack-completes-migration-to-the-microsoft-azure-cloud-9257872"
-    type: article
-    provider:
-      name: Finanzen
-      domain: finanzen.net
-    quality: 35
-    images:
-      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "6tMzGxMGHdNkClNNuJjp2DefCC+3MJ/VYbWh6XwEDl9joOT3sMaUt6T8BiUqrl/c6SbonXb9ke7a7rQCd/6sZm1KdTFPzB22zA6UEuXo+UPuQY+pa+7Z5ZgxuY3MlWvuWHslIFzGSL2QBsYgvtJTWXxHFmQWzuW+0SZMqXxXeerjNMn817dyMNIOutmyrib2AGxWVtL61uWlUsQtmgEmINOf+KcxWKquN0ohx5TlAq0pDvYLuorg5mmCN/gV76b+wav54E8ZFlfXcbukQSWqYgnFNR4Y3CUKOgUgdRhICcv5xaQ2EnqU9/rKXg1VAC/kEcLzXIIG3WoMZmI/DGRIbY+NuW82cHTpUcQPLRqExp4=;rnxZ+K7uIG0Qmk/Y0b0HTA=="
 ---
