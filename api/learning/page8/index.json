@@ -4,6 +4,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-allow-users-to-reset-their-password.md",
+      "title": "Allow users to reset their password with Azure Active Directory self-service password reset",
+      "excerpt": "Evaluate self-service password reset to allow users in your organization to reset their passwords or unlock their accounts. Set up, configure, and test self-service password reset.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-allow-users-to-reset-their-password/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/allow-users-reset-their-password/",
+      "length": "31 mins",
+      "ratings": {
+        "count": 1348,
+        "average": 4.706973
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/allow-users-reset-their-password-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Allow users to reset their password with Azure Active Directory self-service password reset",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-automate-azure-tasks-with-powershell.md",
       "title": "Automate Azure tasks using scripts with PowerShell",
       "excerpt": "Install Azure PowerShell locally and use it to manage Azure resources.",
@@ -53,8 +96,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-introduction/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 794,
-        "average": 4.7166247
+        "count": 795,
+        "average": 4.716981
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -337,8 +380,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-concepts-of-relational-data/",
       "length": "PT24M",
       "ratings": {
-        "count": 360,
-        "average": 4.7944446
+        "count": 361,
+        "average": 4.795014
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -379,8 +422,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-non-relational-data/",
       "length": "PT26M",
       "ratings": {
-        "count": 305,
-        "average": 4.8262296
+        "count": 306,
+        "average": 4.8267975
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -592,8 +635,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing-dynamics-365-deployment/",
       "length": "PT45M",
       "ratings": {
-        "count": 1743,
-        "average": 4.689042
+        "count": 1745,
+        "average": 4.6893983
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -677,8 +720,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-and-share-with-azure-files/",
       "length": "51 mins",
       "ratings": {
-        "count": 1045,
-        "average": 4.600957
+        "count": 1047,
+        "average": 4.6007643
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -720,8 +763,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/",
       "length": "37 mins",
       "ratings": {
-        "count": 1302,
-        "average": 4.6205835
+        "count": 1304,
+        "average": 4.618865
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -850,8 +893,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/assess-your-development-process/",
       "length": "PT19M",
       "ratings": {
-        "count": 6553,
-        "average": 4.705784
+        "count": 6554,
+        "average": 4.7058287
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -936,8 +979,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-app-with-scale-sets/",
       "length": "57 mins",
       "ratings": {
-        "count": 1386,
-        "average": 4.577922
+        "count": 1387,
+        "average": 4.5775056
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1227,40 +1270,6 @@
         "Azure",
         "Compute",
         "Serverless"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-move-azure-resources-to-another-resource-group.md",
-      "title": "Move Azure resources to another resource group",
-      "excerpt": "Identify Azure resources that you can move to a different resource group. Use the Azure portal to move resources.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-move-azure-resources-to-another-resource-group/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/move-azure-resources-another-resource-group/",
-      "length": "42 mins",
-      "ratings": {
-        "count": 1445,
-        "average": 4.584083
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 57,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools"
       ]
     }
   ],
