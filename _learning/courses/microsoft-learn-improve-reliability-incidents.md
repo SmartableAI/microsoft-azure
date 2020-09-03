@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT33M
 ratings:
-  count: 66
-  average: 4.590909
-heat: 50
+  count: 67
+  average: 4.597015
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Improve your reliability with modern operations practices: Incident response"
 
-secured: "hl0dQCupXHzRY2sjjoP8ibzQl9IjDESlygnSAHnBsdLmgld2CkvGB2m/5hnosO/P7Ywp0k37JRS/rkU/a1MxjHlqCiomHlKMqxu1C4GeH6meAqZTKaWwHPUVDxQQKABwqE6BOj6iC6sUQba1BrfU0j8RYSNyjrm4xA2EIi4ggCSEa/UxTZaJOvVJ3tKCcs4O+4Mk2gmIhmvpYwwTYIo+cmyHmAb2uD7DjKQmeaw7GgkQprZ2e5iXVwYScT+iNxVRnGeAuxC1Y7OUJ70GEKpLz9KlOtsEBkRzPAfZgBLHm/LJ9hBj4yrjU8iMGeR69yshe7MePYK2q3zN9DhF8Vrnr7jBX7a5K+R4GHNuyEp+JD/gyrY1getoYPFy7uOTw/n4cgLvBonef34kAdpFxb4kT3ZAgVZtu4kofWMqYGH44Z0=;6atSY5x3b7Mi1zcZKW3kqA=="
+secured: "QYvpOxEFWMxeoiUHlv6B4NO7CITfNU4PJ6lKBafqC3ZGkpYQQnW8S0oJNz5+9ilIAouSjIQ55dVkR4RNzjXNTKsidI3lMP5XLlza7Z7aoUhQmqOesCreHYjyrCp4DfCumXCv9WskUgHhm2hTtm8UM2hHw3hHB7qBs6mNvbvkH8cG7h2egNWhT+mErDEoD+c+LZLMRNti1tjiEAGuaJIkguEjP7RSs7RCLR08pnUMwvMHGftK9A/dpF4DNXIPt8fyCTZ6yqLaRrMYO104ZcVeZXpaz3ToLALN1wdC0gbm4IsUbCAwRgkUiV2yg+eDhGuARsCdB2o0LilpOwS0VGg2JzBxrzpz9a17Az2qrcgtNbdzhfBEUa9XRQNVpP3aHmMf6fZRDb13s68nQsj+EesdIs5PAnbwYk5O7fSCL2slI8c=;AWJjWlZEaRDB1yzDlhTtGg=="
 ---
 
