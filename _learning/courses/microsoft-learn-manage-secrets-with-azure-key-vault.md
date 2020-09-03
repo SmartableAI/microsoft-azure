@@ -7,7 +7,7 @@ price: Free
 length: 46 mins
 ratings:
   count: 1393
-  average: 4.5829144
+  average: 4.5821967
 heat: 50
 
 provider:
