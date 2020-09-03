@@ -40,6 +40,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Migrate your Azure Data Factory version 1 to 2 service  "
+    excerpt: "We’re retiring Azure Data Factory version 1 service on 31 August 2023 "
+    publishedDateTime: 2020-09-03T16:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/migrate-your-azure-data-factory-version-1-to-2-service/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
 
 secured: "MG37RDzaQkZTV0hyvansi3qX71BPTjlJL8nyaXWgyOHrn71kr9nzkBM0uyvGpsCB29xQvLJoFSe+mBmNcSIN77ZBqN6UE6+2oIkdZHzqb/LPoDge8R8PthXmkB9cc0kQ3SSyaXbDtTcnsDGp4zjdS7Ks10mGliI70tygFbkal0n/62zDjPt0xpaPsn4MnyzLU9zoRB5wssHhCi9g2JOUpwJqc7nD19HK1WcI9ZGdFTKtMO9RysDDmdG7lYOQDDgzCJ0baRnsTrWkjKSPHSBIiDU/H2UNpDN3B5j0N81AwdjQ7JjwMkNF3Stadt/O+yJ0Wh69hb2jWyonXVv9X/yqzn3PQhlpkL+3+iXmEMIhB1c=;5/LkSWA2ve0HTbzEfvP1bw=="
 ---

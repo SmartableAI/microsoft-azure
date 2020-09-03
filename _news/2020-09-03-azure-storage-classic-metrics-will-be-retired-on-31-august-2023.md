@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Version 2 of Translator is retiring on 24 May 2021 "
-excerpt: "Migrate to version 3 of Translator "
-publishedDateTime: 2020-08-27T16:00:14Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/version-2-of-translator-is-retiring-on-24-may-2021/"
-webUrl: "https://azure.microsoft.com/en-us/updates/version-2-of-translator-is-retiring-on-24-may-2021/"
+title: "Azure Storage classic metrics will be retired on 31 August 2023"
+excerpt: "Transition to using metrics in Azure Monitor"
+publishedDateTime: 2020-09-03T16:00:17Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-classic-metrics-will-be-retired-on-31-august-2023/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-classic-metrics-will-be-retired-on-31-august-2023/"
 type: article
-quality: 52
+quality: 67
 heat: -1
 published: false
 
@@ -40,15 +40,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Storage classic metrics will be retired on 31 August 2023"
-    excerpt: "Transition to using metrics in Azure Monitor"
-    publishedDateTime: 2020-09-03T16:00:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-classic-metrics-will-be-retired-on-31-august-2023/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Azure API Management will retire 5 legacy metrics in Azure Monitor on 31 August 2023"
     excerpt: "Start using the new Requests metric in Azure Monitor."
     publishedDateTime: 2020-09-03T16:57:33Z
@@ -58,7 +49,16 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 60
+  - title: "Version 2 of Translator is retiring on 24 May 2021 "
+    excerpt: "Migrate to version 3 of Translator "
+    publishedDateTime: 2020-08-27T16:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/version-2-of-translator-is-retiring-on-24-may-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
 
-secured: "K0CJWhXSTXIXiMXGKQfd+Xv7f7weQuAt7l+bSin6MVlDhUIMlvJGQb2RYEXm/aX1fn+ArqDDijQ32tV5C6toWcX6UPYISO2A7AC+VgnHo/Ek0eFFJBxgL6FNQIA6zXTOgu3b33RBYqqArrdcAnWWoMSkPCfQz4Gtm5NOyYfBFUUFnjxl1diJfh2P2oqS9eOos6LYtCgBHl66IF+SR6KFWlDtnA76eYgbfgwqYOdDbO/41TR1NsEc/fD62SSSjK4kcoPj7KMhBVznsHwrhoYimU4LywOKQdbzqjNkjuCNnVTTgtzUvj1s976icQr+o/BWAycZIXe2Mcd9ysCB1ZO+Q8SNyzloV/9AdlRUvHvmPTQ=;FHEdBLFDFQD/FiykgbaEPA=="
+secured: "YtWPqIXrBQZvS4kL0iOo5oEKVSDvhNPYRW2ioznYupnmoJA62AtC2mIZfYps/oAQd83DA6MB5EtsaisVgb8W5Q9zfnw3u5bhvj9lBSHAtTrDaWBsasxFgbQmwZ6XsMy4Vbz5Z/pvpInuf5qe9Q29MWyfBPs0Gq0jJQZ6/o4ah01EZrCTUyXEHJdXGOhBi4kCiFPSEz4HfzdLsjEK7ctyCAxuNVieP3AxOjmErKkTaODk6n70mDykK6PyYAzZkHYmmulpYWUZX+YbZROnxNZYNJ5Xz6g1woT260vYUqxvCfOjTxTrRQzXWjTpXZqvsFOzNlKmbrxNHy+5kl1vxg34/TZWQCPLl0oGbcrRtb2wMxM=;gvg6kqc/UF8dC8nHtabFiQ=="
 ---
 

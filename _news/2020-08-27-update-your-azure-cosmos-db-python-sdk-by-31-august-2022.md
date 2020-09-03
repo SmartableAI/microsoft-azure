@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/update-your-azure-cosmos
 webUrl: "https://azure.microsoft.com/en-us/updates/update-your-azure-cosmos-db-python-sdk-by-31-august-2022/"
 type: article
 quality: 67
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -26,6 +26,15 @@ related:
     excerpt: "We’ll be retiring version 1.x of the Azure Cosmos DB .NET SDK and the .NET Core SDK."
     publishedDateTime: 2020-09-01T16:00:06Z
     webUrl: "https://azure.microsoft.com/en-us/updates/update-your-azure-cosmos-db-net-sdks-by-31-august-2022/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Migrate your Azure Data Factory version 1 to 2 service  "
+    excerpt: "We’re retiring Azure Data Factory version 1 service on 31 August 2023 "
+    publishedDateTime: 2020-09-03T16:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/migrate-your-azure-data-factory-version-1-to-2-service/"
     type: article
     provider:
       name: Microsoft

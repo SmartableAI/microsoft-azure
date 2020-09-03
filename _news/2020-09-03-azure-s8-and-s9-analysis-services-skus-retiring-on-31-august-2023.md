@@ -1,14 +1,14 @@
 ---
 category: news
-title: "View Designer in Azure Monitor is retiring on 31 August 2023"
-excerpt: "Start using Azure Monitor Workbooks for rich visual reports"
-publishedDateTime: 2020-09-01T16:00:06Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/view-designer-in-azure-monitor-is-retiring-on-31-august-2023/"
-webUrl: "https://azure.microsoft.com/en-us/updates/view-designer-in-azure-monitor-is-retiring-on-31-august-2023/"
+title: "Azure S8 and S9 Analysis Services SKUs retiring on 31 August 2023 "
+excerpt: "Migrate to S8V2 or S9V2 SKUs "
+publishedDateTime: 2020-09-03T16:00:17Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-s8-and-s9-analysis-services-skus-retiring-on-31-august-2023/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-s8-and-s9-analysis-services-skus-retiring-on-31-august-2023/"
 type: article
 quality: 67
-heat: 147
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -22,10 +22,10 @@ topics:
   - Azure
 
 related:
-  - title: "Azure S8 and S9 Analysis Services SKUs retiring on 31 August 2023 "
-    excerpt: "Migrate to S8V2 or S9V2 SKUs "
-    publishedDateTime: 2020-09-03T16:00:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-s8-and-s9-analysis-services-skus-retiring-on-31-august-2023/"
+  - title: "View Designer in Azure Monitor is retiring on 31 August 2023"
+    excerpt: "Start using Azure Monitor Workbooks for rich visual reports"
+    publishedDateTime: 2020-09-01T16:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/view-designer-in-azure-monitor-is-retiring-on-31-august-2023/"
     type: article
     provider:
       name: Microsoft
@@ -59,6 +59,6 @@ related:
       domain: microsoft.com
     quality: 52
 
-secured: "tGqo5e0vEdapUpiprWYx/K1XgVFBWrzIuMVpScGOGFDP7pzQ7U4ruflH0WcQX49cXI+QB3MjCCUlRv5mUU+DT9K3Q7j0H6pbnSSBEoy5wONS+CSuveyw47joC39CQW7WLlLwaShxELAzhOPkPhetyATkuw8ZqvIfe1uWCTaPJRIi8TZjis9MyF+3VyoJ9brSQhiREoXq48hEnV1z7jddXgB8qYz0QE1buxjITwwrNEbdVyc0FVsB/vOsrXMJ0YVYRfHxraSEiofBQm79GN1H2Rx4NkAORKivbYItlTXIY37OzeFzEh+G+VBt+GpB+Fv23A1VM9mzvCrIZrArldOVSzezss7SHcv7AF7thnbCkKs=;15oQqbXZDdifjsF+pcPNZw=="
+secured: "aI6WtEVS4ny+JT5SdTTM/gKGq4TTbEfWCVI+075F0HsZeUWv0S4Zx8Xr/X9zjMaajgVodZv4J7AUkP4rn30Ak9YOblZ6tG89I4p0p9eRnS+tQt9LJsQoEO+/f3mlPg5ejGURsZwn+Mgpx6TrG4M62f478CsAAjB7/HaSHKvHvSt+LFeX27VCN2j0+k/NX2XSS+og3A4oMfQcLi/oSdnCgRlfjHzmFkvF0uglG/58HDY1oIhQK2Vcdo2MqYxwg2nLxmNA+guc2XJvwQoGuNrWUqrJ/N0zSY+23aAGWHJrQUVID50Vxd3bIO3F8QAFPGkxJpGQy37YEnk8XNN1BTGTCjUCy6Xq0LTWww5RHZEcp9Y=;gjPTU+J1LIbtmnJe4pyfvw=="
 ---
 
