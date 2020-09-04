@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT30M
 ratings:
-  count: 24
-  average: 4.6666665
-heat: 50
+  count: 25
+  average: 4.68
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Start the machine learning lifecycle with MLOps"
 
-secured: "zNKHki//C+3+IEWaMTWmKUV/pum3uH6VcmBj9SLVy+VC5yqB2mydxTKpZN25WhA6N4CZMRESqv7zOmocRQusVmD4q0heWQfR8+UA37xDvGQ3VIpwiYokTM5QY9BE9Jp8wodk3OQIWszD2Ay3s8Oqv/LkubeiDDursfvR9O5UWL5ZFWJlJx4rDlUy0Yj8Z0kT6fOsCbsn76ftvXowdMjFIILA8d4UdxAwPzah9kN8mVyostSumo5x9JtWQS2M9E2yYtafw2CE15ei11XUa/VXFqVG5isFDFbHkM04ULqQi3s/TLsit9SwfbjS16Tg7OIb5FP7gqu+i3WP7fJGAiUNFSfQA0pvoKZI7Hl3+2E0ZVPhWFoQozUXxbPnOqIIpE+DBeXWCLzUTz1Uay5f/PcD9qRs5fnUbleBehlTdt6v2gM=;F1XtvKaLfSZEE+VaWO0NgQ=="
+secured: "znZZUak8mONQZz6RTqoJpboe4RT9m3iH4SRZavvJIFAKRrR+wZep84qxHgrlDYwOB4b8cIlS4DaIRz+yan6rHpF7OqkBUMplN9CD2NFhmonyPhTMXl4nXuD8oD68RZe+m7I5zM5ZjQcYtQZ6PQ7NcgnlSwvdL9p00XuvqxKjPGK5OB3pixrzRb0NC3dADoe2k9ftaD2E3MzG1dSa0wSE537nZSOsUHUXyWHgDfq531fYQHv6MbqnYsM8wEijHvAvyjG0ck9tuZ9ZBhXWwwyqDH1oikCaAOuidvtt+XHAETxhJcY3Z9FtRRRH254WMoDpKj758bKQPuyEAZqmH6+DqVVVO+3h7nStewzNM4PN2uHE5wxEIPaorcPDgES7uZyheJqIKuPqpOmm6JN8vbnPOG5yuTrpJvbMIVZDClgo9Yk=;7JIScJBom9fHEw5KRzXSJg=="
 ---
 

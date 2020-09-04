@@ -4,7 +4,7 @@ excerpt: "Familiarize yourself with DevOps basic concepts and principles."
 type: collection
 price: Free
 length: PT2H0M
-heat: 122
+heat: 106
 
 provider:
   name: Microsoft Learn

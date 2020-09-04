@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 71 mins
 ratings:
-  count: 4491
-  average: 4.709196
-heat: 58
+  count: 4493
+  average: 4.709103
+heat: 64
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Automate Azure tasks using scripts with PowerShell"
 
-secured: "3h/fw/BDQdAioC3Rsq558c35mLzOAi2ojRZDOsm8UvvOWMCFikd/7eLzZhbW1jfESrsUrem+Nwb5vR+drPv0hjDfT3K3sUeQgEhCkt4AuEvsLsRiZr4xd1F2Q+JGYOhvEAlHcG1P/UfJSi4Av2/PF+3z/yTm6mnOGJ8fHgCCy/7lbn+S1luzuVhYbNiXAZcVVvseLrIh0+R1S/qHBaQXDYQYzyQreS+KW3j1O8P81h1vxI93C1wnKqP1No91KVSnetDfdAF73zpO/3U1+egLnR+iLqVC7TvBk+S97IQjXzGMPfH43yAlvoin5iWXP7r7fHYGAcIUiVgV6zlWC0+vGHoy3GIDr6qkybXb0vyX0wXOvULyLM5nZ5gr2yewyqcnO6XHcm7ywQ45D/SM4Aj5auBQdo0HCZuRyZeuKLRO0wA=;MwLeEdxYBpQ4NgpNLQua5w=="
+secured: "3d7HZnquGlmbQlw/17FaBV3wmYE0wYtfnHmHJU2LXLZksgBvkJX6OkgmN6kxVsBN/mvspzKkxOEAhqM8VDYNWtofVJOXHjYVwsT3XFjZybqDVYfIkJaYht9laW1tj5dQXj1kJXv0Ez2oPBLu6rf18SBW1ZIOJO40RR0VQpLH1wrkMTxfdYbQw+ys98jStEWIsjYSwXeJk7WRjBmEBYXZ6n20HjqZpelIkE5wmSKoKEwbw22Ot4WNzPCIHeHz3NASrMQz2yNsvAJKlCyvzBWTLLafJVcIwAMap6gmQUX7ubxMYzNn4Xpeedei43OlEaz+M3J5JAj2UdTB4MswpqUpM8b6dzAphP07aJQN962cgggI2Mw7WkYQ+OJhaudoj9CAOO5HRGQCC+1MZ+/k4YNsl73/rJoOmNcM6Zl4+IvdoZo=;KxlZJWKR6b2Qv8Q/rH3ylg=="
 ---
 

@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT24M
 ratings:
-  count: 166
-  average: 4.7108436
+  count: 167
+  average: 4.712575
 heat: 52
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Examine components of a modern data warehouse"
 
-secured: "PPdg3XK+XcXqA9wcqwLqLy3APVR2fZCF/f4TBnzBzJHCfhQSaLMedSyaMw5FjNvoUSqjausTsrrdXAFGBr1la9O8GwNCRWjkQz+DQlxYT+Yi+5yYccz0pSTCfHqclg48RJZFKfPlXCp+Gu5qHL41Zj4zyjmrS5VOygtWpYF6r6+6Nwz3c6Yz/GASUqrU99fVEDnGTWX6Y0PAfGCObk20m4Bky2JyOQyEU28lD41C0b/4Q86zrjIRLSMUMHnV20Aw9GX+jZJcHiwGNXn+nxMxBw2R3eEeaIYtDSL94NjJj6p7V3c/cix+f27BxY3vZLTAgAB9kKRP01ueaze8MU9GzgsX87s98r1N/JnHhxk7FkDrVTgYuL7nlvdwSl7vpk5e8uVkc5RjXL25rLWwl0EfTUT3XruLM/SUMvW/4ngQk4k=;5kfuzbrSy5uNfnnQ0+HkvQ=="
+secured: "F+Y8bALVKsF7pbAND3jb2Yx1HkaQsVbn4FNbkV1cm8Z2XPnzxSrg2AnotJ60eJZu018W4VdKREmGO3wDzC2xJ1CtWgpY8EFbHiTWDdbOF7j4dTv/bE5S7i9LsI4lyJ8GOs5kzl7rhRQQTPh28D+rHFl80Ar+atIsP7RbbjOK4qQJNwxs1rh8O/MiZAhOWjHP0XhWGX4xwlzkWb5Pa1+SPvyC/0IFh5oKwgnWKxd9MqzC/tZu2vi1FL1swgZwNkSvJrzDsEQap8qPSu6I1JaF0K4uSsf+fcOXEuWupnz31wUriaqEZxJilWkRTJLNSFheV//HJkecYv5IUBgMFAdIhft6xA4bCfint232EBIfGSBOujOTSGvn7xOGKQP9rJMfiBgZnxc0cDumt/Ezt/jmNWLR0JS9HCTFWcaWOWM0YKg=;nP2nGO19gd0sYsc/i1SkyQ=="
 ---
 

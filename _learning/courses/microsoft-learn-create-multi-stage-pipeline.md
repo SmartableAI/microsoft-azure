@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 73 mins
 ratings:
-  count: 773
-  average: 4.7542043
-heat: 54
+  count: 774
+  average: 4.754522
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Create a multistage pipeline by using Azure Pipelines"
 
-secured: "aAcb0EBjULksOLEa/rKKeE+JMNyzKAuoeMOvKDJySeMgcTAD/Rk7uFbMNzKr7rlBmqNeJgLfufH5opiR5DM5WDBelmDLU+MRc7XU7chjbwPxvwxa8IrSwhTzzANxv6gtHs/8V/dk8uSeZ15IGCzaW/GkRYpH2XgAikD36fprWsMvqkO3iA0jYwUOEJkVajlVlsVdA/VpOj0LCtyjoQOioZMzACJ3ZAB2M4uXeq0vJxH6N7kq/CZbfmXksGjjDxDF+DuqULCQU67BSCMkMPQGH0YEVE5tSP72J9g9BmjKlETTs0g1kjASaGD7sY/r1m2DFNxwqP048XFmNbAMSXUs+wnHrNgqqGaNtAOJwx5globpW0do6ImjgtADynsDPS4bPxMJ+jNEKh6RX8tpYRFvRKWvTrkW1p2N13Gg9Js/xWI=;KeSwYm2p0naFZnRN2pPZcA=="
+secured: "6dCMOmbUvGdCHQ4jqE3L9AEg110GOjzgekSKC+ykc9cxiih7yWjVMg4Yy1aBrS0JwSRIn/Uxbs/bz/7vZgcyZxfrvvZmcr/PFXBkMPXyiS9FXH4lY6DHNr6c1/dd3gNUen+rFGM3j/khk/vwnyXOSux1c+1CIZVgbYOBr496XFTDhQslWti67oNYqNijKRBgQQggWZz+X232D9IN/y0XqR4mrdyrYVZdLWA23PCr0uKskmXv2mnyFO6D+N1cN23qcXd+qwyyd9Qi2KJAQAElx1MwI+aGM9+M69XZB7Ixe48fUn5F04aAnRYnuYKMo09K1tq0NaVz2ucgph8RE+K/mySTS8KDb7bc/1Ve71IWs0ublmOzox5koFTutVpXW/4sF+5o495t0JobB9/F684oXJG/NrG8OzFyTCBSJz1abiI=;dTaD/k+/ZwSK3UM0OKfWIg=="
 ---
 

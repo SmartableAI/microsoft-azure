@@ -8,7 +8,7 @@ length: PT45M
 ratings:
   count: 13
   average: 4.6923075
-heat: 110
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Create your first route finding app with Azure Maps"
 
-secured: "1WucqZfYyv2AGFcWXpzka5bdz9pkYaYt2o8ONm3onaHp7BAEJvTiPuBI/mt1wz8XxwXwceFPSdAJmyxhQEUAjPupeDd75N4tbzZu+Vk0LFra+IQy2H6dzOq80dWN+Lw3VtwntNXMxSpCrZdvoeS6jctpHKJa8HPJz+ITIUk0UA8e7/tN5FyZkey7H661fh8vNmE0psdMWLTCtuIzgiBE0QIxzqzzJdYRxzz+V863nKvQStXZ4ASmozRSZpg3piMOtChP4JNeG46rZpwQAkUKCP67IB8sHlY1uSf4ykkrg3PjCJ0f6Wcq/QRmj3CNZoHhcd8/bT4HhoBeiHIfVzRXv0LiBWomkrN2odmeDMdeZueJM1uBmxfbnBe+729bGciuFX2LbuT7uk+w5dCV6lsxYZvld/7a1Rqbr+x9P57djWg=;kj04BoufX3aGpbcpBmGPQw=="
+secured: "a/gox1BBYf83TeM8QisfmJXeVUjj31+PXaWPBlV60e5tjsjXIGGEMcH03cpXKkORECnnSCj8GiHSrT0fuWBOmUqNFs1dJKOpghaPOmv3ztSXUcZz0g9ERda+brKUOvAT2542ijStdSKrKKubtRwZZ/TL2b5AevqA6G9V1JnidBwugiJKTZ2hu64O8ooSI55BOQBs5SsHCgeTdISct+iwECMOoAWv/kqOex7Zdh4cAnrwJ9NRERhzlmNqyJAzvRjReIM5qY942eo/yjdbefxx6Xz2w01JL2w3yu2KADOn4Ak9C3FOls+KGfJvvMDNW6pa1eP5bTBeCsB9inoNnZEHh7kDhmMSmcP0zs9TXBE2OJMYjFwn8jrRIALOTfNibUG/8zuccYHWw0iZZLi3CgGZ+mV3LDF3rOCuGcX7H9menGk=;Gq3yUpktnawq+PdBqbTeIQ=="
 ---
 

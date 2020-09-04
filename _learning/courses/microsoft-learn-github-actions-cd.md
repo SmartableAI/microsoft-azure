@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT54M
 ratings:
-  count: 74
-  average: 4.6621623
-heat: 50
+  count: 75
+  average: 4.6666665
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Build and deploy applications to Azure by using GitHub Actions"
 
-secured: "x7DENfaLHefIDsubwMfQWbJP2K1wlW6frVPBT4/c36bQHcHULkBYQL4NaXzdVL2SsDBmvtGR0uqlebGMNUQ6zBBV4/wjuoBfLkmiUGP9fpcTESlkK3RPDdVno1fJEAz6y7ig0OzCdOi352207jnvDCQ6xbnwOuCF9+aRPgTzdkke855B1OU2Zj/KJYwYRPdoT9Le5J5/B0VMAvXG8kQ3SAZFIQ4ykOZEbB67qb3fTHaoiy/tXBKuJ+nyHFpujNnTjFVshV8WXnvl6eMfJdPlnNQWP8QzbT797fpQVkk5AebmjIKpK1wXEUqKmlRMeOTxulY5jyDCuuPhaeJIHTkhrocPxK67a2Uzz4d4c462u01yomYy9uPRpMABonLj8SfgNcCt8Utze7iSmDkmD1cDExFkwpprcon+gCDh6ANwzW8=;2W3xCV/+54yqSzq87y0EAA=="
+secured: "QuZD07D2GSf9CFNnWafo+17m/MJXgv8AP2RzaTd4sHLoaaV2L8FPbvtjNnSDw0IlOkJ2DN9gXMhmWmB8Z8DQ/oHNpGDiL35c0b8DEtINpot2nK84BH1zSpGDQnYrEzuduMHWXXe9zTFya2ipeaUFckNCU+RQgd6M5PWbEzkvHcRBFw/OcqfrX5qB48lqoNlayG/mZV55a5eEKDosOHSABePxymJinx0H/+52iGf2rsKbJw+dqP9sIZLn3Z+hKAWFIzwNb5Hk7tU0n3tC6n7S2E7maW0uEOTkhJz/gqu0g03+3jvAjUzdPRQh8z55MwoAY0ixD+SKbPJrCbQuPb12DU+0aGXJSc9OvVW3KFKmr1dcIUdzMil2p5fqMxKTkwRf+rKm7wfDldLkp50E8iu+PiG6c36c/AflC27CIoMGHv0=;w9lVcFs5bFQcc47YdW6vVA=="
 ---
 

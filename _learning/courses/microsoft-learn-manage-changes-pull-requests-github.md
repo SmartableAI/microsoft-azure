@@ -8,7 +8,7 @@ length: PT49M
 ratings:
   count: 75
   average: 4.613333
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Manage repository changes by using pull requests on GitHub"
 
-secured: "z4bN/yRO9X0X/lmy7FI+qDYUNpz5PRcRoD2EkfuvwJpf+GXmaP3E2LQVaZONeCrzJEfmcN+L1jydNw1yvJWq7PngKMHrGNh+oDz/zFK4dZrQLljfjSj1bItzhihUHE1HXx9FuPFspbC1sweraV6H1ZVjDQCJe2NzSGNDyMRpGgOqT6FxpL6q0+nrcK/GVyDGKSih3nk0xhE9kiTn3HS0uXqa2p/eGp1Jcd45C8HPmTgP1kS5/lukXMPvuG4pDo3ExbFZSPdJc7d26oiZg7sNhWIbPSlyG9cmRqNnce1gFKtwTEfcyroXG5Oca58+QmuaRv3A7TsP38NDOV9nUELTIQUUK2z6+YJd9hqh7V16OpQaLPAwGqej8gw/YNgiJEbiivvYrwQq19zMLnwgV+r+KEQ/2cbq0u7l6G4piTOYv2Y=;cGDLtNki6Rs2E1SiadK6hA=="
+secured: "9U5kCQuQslf7xycZChBbwlM6KURLowaOo9wfTxZhwSfE1epldMG2eYDpVCniftWtLTf9jOGJXNQZUPjjb5LnDZDS2ArvVvoHSmyA2HfOrReaeKNOohwRypW2929yWVKumysbhCfYqjgAExr43iMXuMZ9oNrXlDkQmmTHRSaUKYNnwCyQHso42h5PzGsZLWD3rpZUha+J1pqZuO/HLOHAXJO1JeObWmnP1q4UP9JTRDY7AoX3Nx7LZxJia0x8WDumKDyrOi5YEhFZyX6i8KKJ4zj8ZfbDIUV+S/YB93Cq6h0DsbRduvXcwzmYBepPmZGv0e1frparGrXt7L8UsbhC9tad7aGBXHnLYg2xVJ5KqFgYnN/mECkIAXTPzTna6G0lt3zqIzsGYmQKY/r0LjphFEtTq4udofbQ/Rj37haulog=;O4aIY2Zh3aZfNlPUM/P51Q=="
 ---
 

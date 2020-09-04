@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT1H27M
 ratings:
-  count: 3416
-  average: 4.7655153
+  count: 3417
+  average: 4.765584
 heat: 53
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Implement a code workflow in your build pipeline by using Git and GitHub"
 
-secured: "rZhhmm+8JlttaRpiTX7luEFdzaRvRHH1uIKMKrTi7+IXSfJlsXMtYrwn+ZxIdvjhkZ1khEQOivkb0o6hIVgRAPmlN96A2NarcHB5TKLzg8EBKESqEMiVyoXliqE/ivowC8lV8oEgfUu6/g7GQkyldk6clibY+TTTuErAPBE5/S/H1jdAen4FoZqOXOIWSSc2/YqgdWkEuSJwrdpt7HB2wSdIMSKFJ6EMqrYgZWtIb11jQYiP4tYsyifROmRtUsqomSCqcPakt/eMlwC4Z+DKCQkfDiF3S0N/l43Lo2Zumn0wBjKDcnRxGeO0Tyng5t6Y3oRZdX4vEmBYf6pX3bt3bzo4q9gzGSEnfDhImCxHysZiIepUs8pWD542oDtDf3G6lhLJqWqsP+jMJFf8898fPdmnKnvR+w//Ch0ASemAdFw=;T4HbtmczO2sLYD7LIFdk8w=="
+secured: "LwYrvZZjB8DBigcwHO2p+TseIMdafzXJjkXLMMukvbtSAgDhcNKya6w6/U1GwG6dl+XqBf2QGgdxifstxQkFicq8BRL/Ni/g3A1tHFX+D7n8r5eXfBANzKKC2pF8BZ7Oyxfi5/OaC15KwJELAZ/ed3aMzNVDNUS4fyfXJcGErLOOkP+zIeosRh8Dy7lQLCPkfvS3KtMKj8xInWeif8GOzPne2SEDPBDWGqfdc32FnezM2xcAVd/Idf4wIjYRE2Oz1xxhtZ9fAct56vjueKRNmVt9jV249LQK8jV2782d1IJzg4vU6hVKq4q/ZP3TKXRZPvIoh8AoCNEuCaQw8kQUogp8oWA4sOGFxHptAonjtg0FSKHOpQFUfVqKkrznA2jBGYAacDkpj9AV+xQK+atr2rHsneNp76z2eyNyOislTiw=;Q1GI5H4YoB8mQGvhsKbzYg=="
 ---
 
