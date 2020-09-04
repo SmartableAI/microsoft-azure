@@ -4,6 +4,90 @@
   "page": 16,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-explore-non-relational-data-stores-azure.md",
+      "title": "Manage non-relational data stores in Azure",
+      "excerpt": "Learn how to upload and retrieve data held in Azure Cosmos DB, Azure Blob storage, and Azure File storage.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-non-relational-data-stores-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-stores-azure/",
+      "length": "PT54M",
+      "ratings": {
+        "count": 110,
+        "average": 4.6545453
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/explore-non-relational-data-stores-azure-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Manage non-relational data stores in Azure",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-explore-performance-based-design.md",
+      "title": "Explore performance-based design",
+      "excerpt": "Evaluate possible changes to indexes. Determine the impact of changes to queries and indexes. Explore relevant Dynamic Management Objects.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-performance-based-design/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-performance-based-design/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 17,
+        "average": 4.7647057
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-explore-relational-data-offerings.md",
       "title": "Explore relational data offerings in Azure",
       "excerpt": "Explore Azure SQL Database, Azure Database for PostgreSQL, Azure Database for MySQL, and Azure Database for MariaDB. Explore scenarios for using these database management systems.",
@@ -393,8 +477,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-reliability-incidents/",
       "length": "PT33M",
       "ratings": {
-        "count": 67,
-        "average": 4.597015
+        "count": 68,
+        "average": 4.602941
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -562,8 +646,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/learn-data-science-method/",
       "length": "PT34M",
       "ratings": {
-        "count": 243,
-        "average": 4.716049
+        "count": 244,
+        "average": 4.7090163
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1075,8 +1159,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-report-aad-security-events/",
       "length": "35 mins",
       "ratings": {
-        "count": 121,
-        "average": 4.619835
+        "count": 122,
+        "average": 4.622951
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1162,8 +1246,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-relational-data/",
       "length": "PT40M",
       "ratings": {
-        "count": 164,
-        "average": 4.756098
+        "count": 165,
+        "average": 4.757576
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1187,90 +1271,6 @@
           "width": 640,
           "height": 320,
           "title": "Query relational data in Azure",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-release-based-workflow-github.md",
-      "title": "Manage software delivery by using a release based workflow on GitHub",
-      "excerpt": "Learn to implement a release based workflow on GitHub using project boards, branches, and releases.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-release-based-workflow-github/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/release-based-workflow-github/",
-      "length": "PT1H44M",
-      "ratings": {
-        "count": 53,
-        "average": 4.8301888
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Manage software delivery by using a release based workflow on GitHub",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-responsible-ai-guiding-principles.md",
-      "title": "Identify guiding principles for responsible AI",
-      "excerpt": "At Microsoft, we’ve recognized six principles that we believe should guide AI development and use — fairness, reliability and safety, privacy and security, inclusiveness, transparency, and accountability. For us, these principles are the cornerstone of a responsible and trustworthy approach to AI, especially as intelligent technology becomes more prevalent in the products and services we use every day. We recognize that every individual, company, and region will have their own beliefs and standards that should be reflected in their AI journey. We want to share our perspective as you consider developing your own guiding principles.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-responsible-ai-guiding-principles/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/responsible-ai-principles/",
-      "length": "56 mins",
-      "ratings": {
-        "count": 691,
-        "average": 4.7105646
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/responsible-ai-principles-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Identify guiding principles for responsible AI",
           "isCached": true
         }
       ],

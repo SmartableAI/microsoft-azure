@@ -1567,7 +1567,7 @@
           "path": "",
           "title": "Introduction to threat modeling",
           "excerpt": "Threat modeling is an effective way to help secure your systems, applications, networks, and services. It's an engineering technique that identifies potential threats and recommendations to help reduce risk and meet security objectives earlier in the development lifecycle.",
-          "heat": 50,
+          "heat": 110,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -1931,8 +1931,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/allow-users-reset-their-password/",
       "length": "31 mins",
       "ratings": {
-        "count": 1367,
-        "average": 4.7037306
+        "count": 1368,
+        "average": 4.7039475
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2016,8 +2016,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
       "length": "24 mins",
       "ratings": {
-        "count": 1482,
-        "average": 4.6578946
+        "count": 1483,
+        "average": 4.6581254
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2179,8 +2179,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-introduction/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 809,
-        "average": 4.7156982
+        "count": 810,
+        "average": 4.716049
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2308,8 +2308,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-concepts-of-relational-data/",
       "length": "PT24M",
       "ratings": {
-        "count": 374,
-        "average": 4.7967916
+        "count": 376,
+        "average": 4.7978725
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2350,8 +2350,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/",
       "length": "37 mins",
       "ratings": {
-        "count": 1081,
-        "average": 4.7271047
+        "count": 1082,
+        "average": 4.727357
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2386,6 +2386,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-intro-to-azure-linux.md",
+      "title": "Introduction to Linux on Azure",
+      "excerpt": "Discover the unique benefits of running Linux on Azure and how to run Linux-based applications and workloads in the cloud with Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-linux/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-linux/",
+      "length": "PT16M",
+      "ratings": {
+        "count": 519,
+        "average": 4.7745667
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-linux-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Introduction to Linux on Azure",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-nodejs.md",
       "title": "Introduction to Node.js",
       "excerpt": "Learn everything about Node.js: what it is, how does it work and when to use it.",
@@ -2393,8 +2435,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-nodejs/",
       "length": "PT20M",
       "ratings": {
-        "count": 348,
-        "average": 4.801724
+        "count": 350,
+        "average": 4.802857
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2501,48 +2543,6 @@
         }
       ],
       "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-analyze-infrastructure-with-azure-monitor-logs.md",
-      "title": "Analyze your Azure infrastructure by using Azure Monitor logs",
-      "excerpt": "Use Azure Monitor logs to extract valuable information about your infrastructure from log data.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-infrastructure-with-azure-monitor-logs/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
-      "length": "34 mins",
-      "ratings": {
-        "count": 1766,
-        "average": 4.624009
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/analyze-infrastructure-with-azure-monitor-logs-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Analyze your Azure infrastructure by using Azure Monitor logs",
-          "isCached": true
-        }
-      ],
-      "type": "course",
       "price": "Free",
       "topics": [
         "Azure"

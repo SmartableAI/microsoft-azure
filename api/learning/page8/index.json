@@ -4,6 +4,48 @@
   "page": 8,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-analyze-infrastructure-with-azure-monitor-logs.md",
+      "title": "Analyze your Azure infrastructure by using Azure Monitor logs",
+      "excerpt": "Use Azure Monitor logs to extract valuable information about your infrastructure from log data.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-infrastructure-with-azure-monitor-logs/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
+      "length": "34 mins",
+      "ratings": {
+        "count": 1767,
+        "average": 4.624222
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/analyze-infrastructure-with-azure-monitor-logs-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Analyze your Azure infrastructure by using Azure Monitor logs",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-well-architected-cost-optimization.md",
       "title": "Microsoft Azure Well-Architected Framework - Cost optimization",
       "excerpt": "Learn how to use the cost optimization pillar of the Microsoft Azure Well-Architected Framework to design a cloud-based architecture that is efficient, eliminates waste, and gives you full visibility into where your money is spent on cloud resources.",
@@ -11,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
       "length": "PT51M",
       "ratings": {
-        "count": 822,
-        "average": 4.7092457
+        "count": 823,
+        "average": 4.709599
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -55,8 +97,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-reliability/",
       "length": "PT59M",
       "ratings": {
-        "count": 357,
-        "average": 4.70028
+        "count": 358,
+        "average": 4.7011175
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -215,8 +257,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/",
       "length": "46 mins",
       "ratings": {
-        "count": 3635,
-        "average": 4.6280603
+        "count": 3636,
+        "average": 4.6278877
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -345,8 +387,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
       "length": "65 mins",
       "ratings": {
-        "count": 4937,
-        "average": 4.5971236
+        "count": 4939,
+        "average": 4.5970845
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -390,8 +432,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-app-scalability-resiliency-with-load-balancer/",
       "length": "47 mins",
       "ratings": {
-        "count": 1799,
-        "average": 4.71373
+        "count": 1800,
+        "average": 4.713889
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -433,8 +475,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
       "length": "42 mins",
       "ratings": {
-        "count": 2322,
-        "average": 4.720069
+        "count": 2324,
+        "average": 4.719449
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -476,8 +518,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-commercial-marketplace/",
       "length": "PT30M",
       "ratings": {
-        "count": 260,
-        "average": 4.7884617
+        "count": 263,
+        "average": 4.7908745
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -595,8 +637,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
       "length": "21 mins",
       "ratings": {
-        "count": 1240,
-        "average": 4.666129
+        "count": 1241,
+        "average": 4.666398
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -846,8 +888,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/",
       "length": "41 mins",
       "ratings": {
-        "count": 955,
-        "average": 4.5853405
+        "count": 957,
+        "average": 4.585162
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1270,51 +1312,6 @@
       "topics": [
         "Azure",
         "Developer Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-protect-virtual-machines-with-azure-backup.md",
-      "title": "Protect your virtual machines by using Azure Backup",
-      "excerpt": "Use Azure Backup to help protect the data for on-premises servers, virtual machines, virtualized workloads, SQL Server, Azure Files, and more.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-virtual-machines-with-azure-backup/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-with-azure-backup/",
-      "length": "35 mins",
-      "ratings": {
-        "count": 883,
-        "average": 4.5956964
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/protect-virtual-machines-with-azure-backup-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Protect your virtual machines by using Azure Backup",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Management Tools",
-        "Storage"
       ]
     }
   ],

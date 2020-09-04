@@ -4,6 +4,48 @@
   "page": 10,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-stage-deploy-app-service-deployment-slots.md",
+      "title": "Stage a web app deployment for testing and rollback by using App Service deployment slots",
+      "excerpt": "Use deployment slots to streamline deployment and roll back a web app in Azure App Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-stage-deploy-app-service-deployment-slots/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/stage-deploy-app-service-deployment-slots/",
+      "length": "44 mins",
+      "ratings": {
+        "count": 1635,
+        "average": 4.5131497
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/stage-deploy-app-service-deployment-slots-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Stage a web app deployment for testing and rollback by using App Service deployment slots",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-troubleshoot-inbound-network-connectivity-azure-load-balancer.md",
       "title": "Troubleshoot inbound network connectivity for Azure Load Balancer",
       "excerpt": "Review multidimensional metrics for the load balancer in Azure Monitor Metrics, and check health probe status for the load balancer.",
@@ -230,8 +272,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
       "length": "55 mins",
       "ratings": {
-        "count": 1329,
-        "average": 4.282167
+        "count": 1331,
+        "average": 4.281743
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -267,8 +309,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-page-load-times-application-insights/",
       "length": "45 mins",
       "ratings": {
-        "count": 346,
-        "average": 4.517341
+        "count": 348,
+        "average": 4.520115
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -352,8 +394,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
       "length": "55 mins",
       "ratings": {
-        "count": 1397,
-        "average": 4.643522
+        "count": 1398,
+        "average": 4.643777
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -396,8 +438,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-nodejs-project-dependencies/",
       "length": "PT25M",
       "ratings": {
-        "count": 172,
-        "average": 4.773256
+        "count": 173,
+        "average": 4.7745667
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -480,8 +522,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/",
       "length": "54 mins",
       "ratings": {
-        "count": 1915,
-        "average": 4.645953
+        "count": 1916,
+        "average": 4.6461377
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -609,8 +651,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-azure-web-app-with-visual-studio/",
       "length": "47 mins",
       "ratings": {
-        "count": 2801,
-        "average": 4.674759
+        "count": 2802,
+        "average": 4.6748753
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1135,8 +1177,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
       "length": "PT48M",
       "ratings": {
-        "count": 347,
-        "average": 4.6512966
+        "count": 348,
+        "average": 4.652299
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1407,8 +1449,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
       "length": "57 mins",
       "ratings": {
-        "count": 1223,
-        "average": 4.5739985
+        "count": 1224,
+        "average": 4.5743465
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1485,51 +1527,6 @@
       "topics": [
         "Azure",
         "Databases",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-execute-azure-function-with-triggers.md",
-      "title": "Execute an Azure Function with triggers",
-      "excerpt": "A trigger is responsible for executing an Azure function and there are dozens of triggers to choose from. This module will you show you some of the most common types of triggers and how to configure them to execute your logic.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-execute-azure-function-with-triggers/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
-      "length": "83 mins",
-      "ratings": {
-        "count": 3192,
-        "average": 4.698935
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/execute-azure-function-with-triggers-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Execute an Azure Function with triggers",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless",
         "Management Tools"
       ]
     }

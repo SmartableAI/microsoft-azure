@@ -4,6 +4,50 @@
   "page": 25,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-perform-model-selection-with-hyperparameter-tuning.md",
+      "title": "Perform model selection with hyperparameter tuning",
+      "excerpt": "Learn how to use modules from the Spark’s machine learning library for hyperparameter tuning and model selection.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-perform-model-selection-with-hyperparameter-tuning/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-model-selection-with-hyperparameter-tuning/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 18,
+        "average": 4.7222223
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/perform-model-selection-with-hyperparameter-tuning-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Perform model selection with hyperparameter tuning",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-perform-zero-etl-analytics-hdinsight-interactive-query.md",
       "title": "Perform Zero ETL analytics with HDInsight Interactive Query",
       "excerpt": "By the end of this module, you will be able to perform ad hoc queries on a big-data set. Using HDInsight Interactive Query helps to achieve sub second query latencies.",
@@ -1107,8 +1151,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-synthesize-speech/",
       "length": "29 mins",
       "ratings": {
-        "count": 149,
-        "average": 4.798658
+        "count": 150,
+        "average": 4.8
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1227,49 +1271,6 @@
       "price": "Free",
       "topics": [
         "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-register-and-manage-customer-devices-with-connected-field-service.md",
-      "title": "Register and manage customer devices with Connected Field Service for Dynamics 365 and Azure IoT",
-      "excerpt": "This module will focus on IoT Device registration and monitoring using the Connected Field Service solution including device registration (physical and non-physical), working with device twins, and streamlining device management and interactions.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-register-and-manage-customer-devices-with-connected-field-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/register-and-manage-customer-devices-with-connected-field-service/",
-      "length": "86 mins",
-      "ratings": {
-        "count": 53,
-        "average": 4.6981134
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/register-and-manage-customer-devices-with-connected-field-service-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Register and manage customer devices with Connected Field Service for Dynamics 365 and Azure IoT",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
       ]
     }
   ],
