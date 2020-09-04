@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 41 mins
 ratings:
-  count: 954
-  average: 4.5849056
-heat: 61
+  count: 955
+  average: 4.5853405
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -35,6 +35,6 @@ images:
     isCached: true
     title: "Expose multiple Azure Function apps as a consistent API by using Azure API Management"
 
-secured: "gahqEmIGiWpFVfs1xeZBXX0S4J3PcdA8tR+Ba4yTetZcXb2G1SuCWcZ3o0/6qR2WORyPG5vhP4mp4LB8ujvxN1iA6cKXzdECCrDxksVql04fFhhW2RGJ/4L8AjwbrxcB4Hvq2GaByBBoNfQVid45spkd+OOhgZa84vfubvJcaG/l9VbcjP0eiN+qslqmHxO1L1lMh4MZ0zGUIlCfjp6yZiQ+1AQw3MvW8jS417kZS+rilZMo3mmNefu365dhl7tnn+4grUz9C4zpy4KgTe1ZROnPrtgUdUp6//db4G29wgTfgacDPMAKY+81FW0v/TKVN8K9pxpce/xsD85tx31ODZMd77c3YDTNwlR40ut6v8h4RXSx9GBS0nW+M2U8+51i/KlZkADgAm2TZD6oIQx4GHjtXPMfE6VbE7+dfbhI73k=;fHyOO8MmarCmEQrWyFyz1w=="
+secured: "SFiWM8SphxO7TtW0mWqRV+TEkS95GsDZWLjrS1NT4GBByRczuMUX107kfD3p/f8+vzTZQ6DQPJeZReweXVRsV+7EaAJnpzJ3cBDLIlEU7DhgyHOf37r1ToczuRTebfTR2HlLnIwyx9oTtAiPbWbdrZR0vyUJvB+O591/K/TRrGAPB3wvMbDsVwmRzaE6ys5kw5FICSt9WQOnqdNyex2DoykINSO/RZrNmsFTXqZomQPLlw2b7gLVHRc1DWuFP9r7WXYasf0l0+R9XzgOyRYTwG7aq97pfZXS+PzN8Unl4+GEum/fAJD3QRXgmft8xUb0mL9AXE6zp7tKeowkvUKKIFFfw6M1El9jsQ/7vilfmChmMjZ5u1mLT0D5rvwliw+1kMA+hj5dksXe0Ho7UwwVTongYUOxf5MXuHGPzIQxwuM=;oRzHQgJxylmD0DIhy/NUKg=="
 ---
 

@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Automate development tasks by using GitHub Actions"
 
-secured: "j2K/YARSuDtu6yuN+r/xAq52xV2Wn/iwe6eD1fu6hCqGxb7bV/MpEffjv8pNPGI8CLhkrNjYyFnLsgJQxc//mzd2M0ovvVzziXdABA7vkxijvXcJvlLG/wbjAGmtJhGCzrbF23YHWeGxUw9sAD1b6FbFWZOetL0b+bVzWSCmJohU3MpNYmkdxlXywvfnNMqdgqkCFNw/1mQDAH/4e1A6qz9mW+bLX7sd4PRVovJZoWslMDCjTRMS/rIoyME+Muf1LaXSRDL7sb24sTCKn81vv94wrfmI/QAgfkIP/MxdcT+pePai80IgY/J4U3sX+/s24d5vOMd6ZN33fWnFnVX5bkldViFM81NtwC5lkAeFo/db00Yrot1sgyeghM6nncVhMWNmmzGfmxe6/0Fz0TV5wNxhJHhIomdBTgygnh8zq18=;HAO81yNI33bl3vtcZgAoUA=="
+secured: "hDMI8iLVall2DIYSHBZI5UiPL4g69nvMowYCu+CexQF/ZjxmGEfUCo50OuXXLg9YPUGAz4sYYUsPw9KN5IIjxfXvmc8E013tfhGghSxx4/RdnGZ/VjBbBB2VKYfIjDCToIni+I9dzPx5BNAjmw+K17NiF0h9sksPpAmimbABnTF/EQQaL8+2F5B7brDS/NmUJ8/Cgw4QS1oOkvCIb5qduZL5/crbru77UUSSdnSOBLWrDN0ItEO9gbfNCrlHX2aDqMxR310UgwsH24gxf9qn1NNJLOIAzEqsbmuZTzxQbQL2YVBFgn7JvUsBZm9QEZODM4qpUeqesugwKLkASUzgKYohNPLRlyuL+AqMRAKGs7L5UkGmnfnT9nQ6HsHJipDAvVR1fTzJqdd/eE1hiONu+/SlXMgSeg+bl+907Uh7y7E=;Co9lAwKXV3mIE2bkMf5UTA=="
 ---
 

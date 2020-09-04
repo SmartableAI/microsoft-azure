@@ -4,7 +4,7 @@ excerpt: "The DevOps dojo white belt foundation course aims to provide you with:
 type: collection
 price: Free
 length: PT2H0M
-heat: 102
+heat: 98
 
 provider:
   name: Microsoft Learn
