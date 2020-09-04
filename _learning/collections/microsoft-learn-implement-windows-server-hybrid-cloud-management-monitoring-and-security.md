@@ -1,6 +1,6 @@
 ---
-title: "Implement Windows Server hybrid cloud management, monitoring and security"
-excerpt: "This learning path addresses problem related to managing, monitoring, and securing a hybrid environment. After completing the learning path, you’ll be able to manage and maintain hybrid Azure and on-premises workloads."
+title: "Implement Windows Server hybrid cloud management, monitoring, and security"
+excerpt: "This learning path addresses problems related to managing, monitoring, and securing a hybrid environment. After completing the learning path, you’ll be able to manage and maintain hybrid Azure and on-premises workloads."
 type: collection
 price: Free
 length: PT2H55M
@@ -40,6 +40,6 @@ images:
     height: 320
     isCached: true
 
-secured: "yPWy3f0dze2VsD2iC9E5zQXd98lKTODZGOtPDnNzz23vCdmo79QQJMruM/ZVe0r1BvCMTIn5Ko06tPyu0ailJPq4l4UHyIpNAVQur6e340EUDLD5baIb5TQGqeH2c25kuQVHI6gXX8Z/gvdjC9kxm+cfWzI92tQl76Onuw3ag5U+rT7UUVbsfRL6BxsZFRoxN3D079bP99k3iL4QanPd4MZSw9/4GBowf99pBlalbU5q8VuaHziuWdCsik5hUErEKp9fgc+zEYsD1W+r2o+k1mKx8mOI8P2v6xD9cDvUJBb11Q5PXjN6+LUwLo0VuVOHmLY4Oll0U+M0oA8bSNX7wA==;QRsdndVY0WIN6hh0kNNsyw=="
+secured: "ng4rJ2IWhzwkFxFmMkcwDik28WO5GOA4oNsnvGapnzeY6VowJF4cYTF0EFhKH+mZLncA0L/mxHz7tdt28xe6x/6bHMY9gDNf2+LvqwfE6YKhDR9CYKSs9GAbupsXTbniw8PCvjVOKnNCvLDEuKLIUHtbtYyuK+5Dwnv+hQmUHqfCQQW8tVmfIRRd5V3KRmwtFdpUsYQGbE11wnRJUJ5FzVZrjK1hLd3uQRKYeniI0TB+zKdQLh0RLifDBt7A2TE/rxZieFsyuV0Nr8j91RYY20Gu7XtRi/0Q1lmVdwsZnXM3DUfg8s6JrwgL8bnywTToZshTOA67hTPQEzPKzXB4Gio/HWeTTVJDshJO07nGjjE=;2swR9YMjgngmFlv3Bx5fNw=="
 ---
 
