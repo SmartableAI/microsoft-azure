@@ -4,6 +4,50 @@
   "page": 9,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-run-docker-containers-aci.md",
+      "title": "Run Docker containers with Azure Container Instances",
+      "excerpt": "Learn how to run containerized apps using Docker containers with Azure Container Instances (ACI).",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-docker-containers-aci/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
+      "length": "48 mins",
+      "ratings": {
+        "count": 2300,
+        "average": 4.622174
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/run-docker-with-azure-container-instances-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Run Docker containers with Azure Container Instances",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-create-intelligent-bots-with-the-azure-bot-service.md",
       "title": "Create Intelligent Bots with the Azure Bot Service",
       "excerpt": "Learn how to build a chat bot and add intelligence to the Bot by integrating QnA Maker and LUIS.",
@@ -429,8 +473,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
       "length": "55 mins",
       "ratings": {
-        "count": 933,
-        "average": 4.60343
+        "count": 934,
+        "average": 4.603854
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -634,8 +678,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-vms-from-vhd-templates/",
       "length": "42 mins",
       "ratings": {
-        "count": 1490,
-        "average": 4.6771812
+        "count": 1491,
+        "average": 4.6773977
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -850,8 +894,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
       "length": "53 mins",
       "ratings": {
-        "count": 1502,
-        "average": 4.6364846
+        "count": 1503,
+        "average": 4.6367264
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -936,8 +980,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/",
       "length": "25 mins",
       "ratings": {
-        "count": 3194,
-        "average": 4.604258
+        "count": 3196,
+        "average": 4.6045055
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -979,8 +1023,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/keep-your-virtual-machines-updated/",
       "length": "35 mins",
       "ratings": {
-        "count": 2596,
-        "average": 4.487288
+        "count": 2598,
+        "average": 4.487683
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1049,50 +1093,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-secure-your-azure-sql-database.md",
-      "title": "Secure your Azure SQL Database",
-      "excerpt": "Secure your Azure SQL Database to keep your data secure and diagnose potential security concerns as they happen.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-your-azure-sql-database/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-sql-database/",
-      "length": "67 mins",
-      "ratings": {
-        "count": 3876,
-        "average": 4.5312176
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-your-azure-sql-database-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Secure your Azure SQL Database",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-use-compute-contexts-in-aml.md",
       "title": "Working with Compute Contexts in Azure Machine Learning",
       "excerpt": "One of the key benefits of the cloud is the ability to use scalable, on-demand compute resources for cost-effective processing of large data. In this module, you'll learn how to use cloud compute in Azure Machine Learning to run training experiments at scale.",
@@ -1134,8 +1134,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-and-size-disks-in-azure-virtual-machines/",
       "length": "36 mins",
       "ratings": {
-        "count": 2055,
-        "average": 4.6642337
+        "count": 2057,
+        "average": 4.66456
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1221,8 +1221,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
       "length": "34 mins",
       "ratings": {
-        "count": 1759,
-        "average": 4.6242185
+        "count": 1760,
+        "average": 4.6244316
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1263,8 +1263,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
       "length": "55 mins",
       "ratings": {
-        "count": 1327,
-        "average": 4.281839
+        "count": 1328,
+        "average": 4.2816267
       },
       "provider": {
         "name": "Microsoft Learn",
