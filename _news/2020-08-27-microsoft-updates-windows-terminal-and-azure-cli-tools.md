@@ -3,8 +3,8 @@ category: news
 title: "Microsoft Updates Windows Terminal and Azure CLI Tools"
 excerpt: "New Windows Terminal and Azure CLI (command line interface) updates were released this week. Microsoft delivered a new Windows Terminal 1.2 (stable version), and it rolled out a preview of Windows Terminal 1."
 publishedDateTime: 2020-08-27T16:27:00Z
-originalUrl: "https://redmondmag.com/articles/2020/08/27/windows-terminal-azure-cli-update.aspx"
-webUrl: "https://redmondmag.com/articles/2020/08/27/windows-terminal-azure-cli-update.aspx"
+originalUrl: "https://redmondmag.com/articles/2020/08/27/windows-terminal-azure-cli-update.aspx?admgarea=BDNA"
+webUrl: "https://redmondmag.com/articles/2020/08/27/windows-terminal-azure-cli-update.aspx?admgarea=BDNA"
 type: article
 quality: 37
 heat: -1
@@ -78,6 +78,6 @@ related:
       domain: seekingalpha.com
     quality: 17
 
-secured: "XrUezV0RTU9+KYcd2iqyvDj9Gtixv0MrfIysWxZciedOEwT8Xd9PS131VYm7ZiCYV8yv9x0BIZJ48ADNdTghtXSDNH+MSssp0rdyBF3mRrwkULEErJPrJNfbRISDdYrlAf9y7BYOA3ue3yNtF4CnDELd8uWEhXAjlB0TDrJnMlFv98VAPUXSndl4CWTctB4JvUlzu/25un7OGvKLxbF3U+/T2CHPAcehZb9uKgAvDdQpBiFmhIZwDWt3rCSI/StPUH9Ug4bjv+4VqEshDUYKl65jbqURCe2T0VyXnz10M2zLGHf4cvUhHB8UKqfDcz+GcE8XLCHcs2BzWWAS/mGbyJs4ZWu2Wa6nbwygFdWHy6xCwgKlGb4gF6g1Sg1Ls8emL2viIgICiFaYdph2CZiJy8FQ4d87iyPulTn/PfPRiVUlQPrR7uxdiP9h2Zy8qxi7a30pUWW6ytI/GfH8zovaCYe3c89RZKn3Tt9TCwLaWIajVZ2tzHjgBNPJP4hmEJQgh0YGSBhctNHaBa4X/Ig4l+EvDFaSi83uyOeG8obgRSQ=;t+H7YracLmS4B7OnlRzoTQ=="
+secured: "ZN5/CLFPSafBscIM+RE/L5xoFOZVFjbFKr7x8h/1a+Gh2BF9XV2qykJvRGofKhuYNnLlE8yolLZPd0pNCCBIZKoZ3eOR3Ac++MfHjifVG/nlIaBQVlKrwuJIdn3h9JiArVN0gV/Xh0CFhrmT8m6DfC6vY7nmdq+DabB1VE2BaACDcyhJv4W503nxjsJvYrfWlzEUfpWWmeLTwCDp//UypEAENhJ5OPibeCj6dI0TIdXf39fG4qYyAPxARKybNFkKZ1NChw79GFJV3iWhH8YTidEBpo8Gnb9Vr2q3IygC+NTqATi/7nWiFL0g4auIDWW0p4XMk9cgcWgFeXAiAwhDOUsI51V37YtVAWBQXEoY34I=;KGr4akK47z1jU09MlZgMLA=="
 ---
 
