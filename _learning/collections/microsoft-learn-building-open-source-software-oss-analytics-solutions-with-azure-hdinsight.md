@@ -4,7 +4,7 @@ excerpt: "Building Open Source Software (OSS) Analytics Solutions with Azure HDI
 type: collection
 price: Free
 length: PT4H36M
-heat: 60
+heat: 62
 
 provider:
   name: Microsoft Learn

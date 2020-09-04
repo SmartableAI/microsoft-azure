@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT41M
 ratings:
-  count: 20
-  average: 4.85
-heat: 50
+  count: 21
+  average: 4.857143
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Implement AI in your organization"
 
-secured: "P/G2zpWKLN8KcKnGELvMXggWMxkfgwo5En1TpNLtPCY4IuFohVNVnuXl7aoBUWn/SzKbQO6iQKT5QiZs2nQ0Y69ge+ThTV4DK+pKTsEUYdBbecS2v5iP0hnFvI1j7IG5aFYRmRwXcQaJTAiUBvIOkKCNWJqH8ecNbIk8+gqQIjRCJgEjtk2zJcG9RT7BS/Fda2catviN5T+tBV0EvB3jCwRbWkICAjHQcr+A6tjdJfdV4BoAU+HxaV7DQda3aTgKHCPrb98oOzw/6FJvR1Dn+37HPtjgj30gYgB+W4CxW51SAixe2HUIObHfJxw1yr65BMJqWN92cJvl4TfYOmLMaJD0oC2eFF7I8ZHFupEKmsboi0ldP5mPjdRkUIfjP3huDrKwxaMNQC5abdWBc66H/RpLnWt3RaPugkGl/8UKjM8=;SpRUz9JF/6NUUuBPYr47Tw=="
+secured: "Ra74jeEO2JMCc1b3j5C6XYP4GnztqSEJqzOweAbewEhsCQl/mcC5furSOGT5MbmuZKl4hTvfwTYGkUCyDrDBK2a5BtiOPe4baKkBGfmPDc5JyOXjuFS84Emk9Uh9TvqWrOjNmA+PwVzuVO9VxaIjYjbwuHL2EArF7PqzDGnfioqQ2b6Q7t0l3Vl5rZgjgSK9juJ0QTNopleSlpk2Oc9aYULTySjSPvnwfIg8LtyO0VztlRTur8H7U/fuyvRpzWrydbjGi9ggfKCIYCIeByhlkoYjI6AQT053VM2jlHHxI90/lN1QVw7MCXp5J87BFb14N74Fuoms1Qd0Q11W8k5OUgxdof5MXKlE2bOwfRgvqBh8h9APMavxYXOGFEG7zGSpka53KAv3Xr29wyPIqHohR6Xut06ENZYVhxZoIXz59nY=;ScAiVq8bb4MsjyAzLRds0w=="
 ---
 

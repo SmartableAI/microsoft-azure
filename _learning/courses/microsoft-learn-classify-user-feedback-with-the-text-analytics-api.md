@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 48 mins
 ratings:
-  count: 1320
-  average: 4.6151514
-heat: 54
+  count: 1321
+  average: 4.614686
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -37,6 +37,6 @@ images:
     isCached: true
     title: "Discover sentiment in text with the Text Analytics API"
 
-secured: "mlrITL3SsyhgmOecDQI8iDrWFDsG7VviqJyOc+GQiu6xRKHjjsfs/s5Sdtj+zSI/vzMoNbHC4cDMxR+Ljf6mMf4qSVRPsvacLMkS//L6zoAHyKC3L2BOCWAh2IVUxJuVLIKhCAdM9jd5qbz+ylirS7o0kIi/aDWvv1PCmVNQuAC1w4CHlnvEC8brF38PSLOvhmSZomNvgwOvbMbj1gEE/SHsFSLKpP5/j3RlzaS4uTda1o+LEE5yAluaVlYrjrlPNP7o2+TMWVbldwoAd2QsoCcTxrY2xV/+g1UDQ6ZIg5zV5aMZrLH14Nph7Sug7JYQseV1ZWDpLtv463VLxVf+hoWRepkroWrAvP1VPoO+Qr+DCScs5qHlE4NMi9WtwFoUXf8BwV80OhEwppPgwgov04/Mi0vF5NNm0MG59f02Ht4=;WOQH8f3mDem4teDW/2vVuw=="
+secured: "CvKmOLEHtOUiXduqcRnZVopJdhakIhDzTAfhSJcjPzM2+18uGwlTHmrtflQcIX7sWqsT+TRsV+7zVTsc3A/WK+wWSOm6CTChyKP5WA3D/8Tjno+h7WKtBnSuCJwVLjs/7CS/mmBCgcv8yV4zSJqc4v3adB46OQVAUIp8lneR12bzlkPQU0hMi7BpZysd0axg+85PFsPzer5ln/7cFmuGLiIn3S+XcwdSu9uCDGl3wLQkuEWPvxxXsilMfGhzhpv01lAk+ISAdAbKJHgVM0E6w2xxn0kVXbN4XtkkPq9TDsfesZA0ZLg4BzXBesk7fQKCfUGs8HAydIqLMcG12g8BsZqhuR+M7sGDTMSorOQYZ+dNuuhTa/mu8hDAmju0aKrN8ZyzxcoZnd++AowrfjquNlX9GFBKPDMiomnUBPqW4/0=;XvWB2dUeDj7l7hln2ok4pg=="
 ---
 

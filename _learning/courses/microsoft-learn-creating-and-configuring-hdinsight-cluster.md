@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT1H6M
 ratings:
-  count: 128
-  average: 4.5546875
-heat: 50
+  count: 129
+  average: 4.5581393
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Creating and configuring a HDInsight cluster"
 
-secured: "YfJxMBV5SCOL5mB/rpl9MPzjTMwROF7x/+5oFOl2jcRCxeM3veBvsbRiJo7kkZrKtTQDsylNgptVbNwSQtYM1h8774dQ8BUCDB4Z8tWiJuBi3FYPhVSGBxOzJM1p7R4QWtrqmfaYfVvY+BavG3jvlYya52l1IrNtiXZT7xneg5MWkqfzzwxhtJPNOlsZ4FEo+XjeEIYMz8tn7HnBQUmae3nNj4fx+sZSR36n8Ypr7YYLw+ilhoOIkkAFZb76UEgITDdrj3WvngMZf2JHtpkQnLWoYWc1lrBHBEVKBzpRwVFrNY+YkR7RmGc3U/52cxNq8lp2aCOMGHlXApnfMni8FXyTT1qjwyIyhCHpXuHjMymP+VHAZ8IgOtPPYx74zqnOQ5+JO4PRoNkjiPFONF/5P0k40kF8h4Vn5LwZusOni4A=;2EdmtE6dWRZBwQzi5VxLAg=="
+secured: "bhLfZR24EeVPqDtmCTBTnmFE3SESsTjMLEqLOaORZHpZAOS1KHwzby3HiQST0bHOyHQ9CKb4nKUFeXNrRWzkpCEeZhOoPhzCBOBTi3X/s1Ptd284XOxFbJ9cyN24z+MDFenR7T9wLp8NFzslDFnscNMniCSs8SlLR5NSyi1HtHtc02Jeiiq6JIbqudGoGSPWf9n8tMy4ufhhoa9LCMJmAbIUqJYGKVHb2cHQY680J7XfBwlcJ4UpAL5pp/RvN4mmDtqXabd9hes1vdFAmxq6VJv2k0coSsnEXUyRJMAtcJgCsrDFtG2dVx1iC8OgOLdHrevmc29OBb6YDpU1+vL7UMxcPydy9GO0SkHYIBqNpW6RRRr/vA8cXqQTrB6dwU2JaV8dryTiVD5uHiAJunF2y3qYusmfa5jT6yPpNWuZVa8=;UDdC1F7iJ8rsPKXSYvD3Cw=="
 ---
 

@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 23 mins
 ratings:
-  count: 5614
-  average: 4.737264
-heat: 59
+  count: 5615
+  average: 4.737311
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Microsoft Azure IoT strategy and solutions"
 
-secured: "Jtd7N39ZNmGDC2SfI63QTS41UYgI6JVGTkltkUhaDUBVBX1H5li70II09lnRcUOyh2zm9iVHK4nSS+gtmFZxHpV/ao3kEf3zbvgQI1rknyJ5K5VlLcnkCwp+wCc0pyBf/wT41MxAi0ylUTEaAG6lTVtrB1ucGtr5q8INHL1KHjY5BjfuZ3eKS1mP2DOZSA5San+Gb1QGGXvH9CX20dLUE9uq3UlPk4ow95ljA85MD2bKEB5lNqXAaGR7RO9/ZExEDgKDW0RsAzxz7thiIn5oA1JOITGcXdQBovPvXzGr50GbnTjIYs9BeFt0yyR6EyeUaXOI8XlKy2R3VT/ATipKkdxAHK1Vs1oM0Nf6baWiwsVdWSrpfLBCADQSJl8ejHVkBEGpYySWM+YVBAabemjwV0oIH+AQvRzKLER1F11yAII=;uQpUto2pYzCdFL2N4b3Z8g=="
+secured: "kGGXcVXBZOZTiyRiF+Cf9pbYndLpS2ccq3YGJvuVe72ToZREjVnRQEKGSLIkHI7vfUsD5aECWaB/h4+v5mGxzGlgcOPgtsC/tNkxMpP1xQx9LPU/I6++iGmbxMEdtsKlm9N6N1qN6TyDHK1WOleUA+96zUyWLqUcrsNjb+HPqMs1DOlbuH118r76eKm58oWs1VmTy4qQSS37gsH4f7XWcz7Px7phJqWGuVxuDACh9zrpYEN69GB4dCW7wpvCb4YrU9KRQ8u8dCYXbJdd/BvkA0yNnOm8lOwj+MYPrL8SLTYBQt55UahCZA56zz9HzuEiQrqumOfWzevS9dL6/cWgfNQBPEYpBYVmkDFdkr9SdViQUS0y2RMQSq0ld8qs3iiak31jC8/BwLFI66qeSAPFw8BBNnIrp2Ac9w5l7t9rL2E=;RIM7pCvueIU5ouRuAmcNTg=="
 ---
 
