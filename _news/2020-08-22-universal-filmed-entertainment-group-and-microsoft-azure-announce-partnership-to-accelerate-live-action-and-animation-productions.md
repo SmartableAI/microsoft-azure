@@ -1,29 +1,26 @@
 ---
 category: news
 title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
-excerpt: "UNIVERSAL CITY, Calif., and REDMOND, Wash., Aug. 21, 2020 /PRNewswire via COMTEX/ -- UNIVERSAL CITY, Calif., and REDMOND, Wash., Aug. 21, 2020"
-publishedDateTime: 2020-08-22T01:48:00Z
-webUrl: "https://www.marketwatch.com/press-release/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-2020-08-21?mod=mw_quote_news&tesla=y"
+excerpt: "They will bring those workflows into Microsoft Azure and ensure Universal's ecosystem of partners can connect to them in open, standards-based ways. This partnership will also enable the ..."
+publishedDateTime: 2020-08-22T06:15:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-301116222.html"
+webUrl: "https://www.prnewswire.com/news-releases/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-301116222.html"
 type: article
-quality: 48
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/24227/microsoft_corp_logo226_9217jpg.jpg?p=facebook"
+    width: 2695
+    height: 1414
     isCached: true
 
 related:
@@ -116,15 +113,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
-    excerpt: "They will bring those workflows into Microsoft Azure and ensure Universal's ecosystem of partners can connect to them in open, standards-based ways. This partnership will also enable the ..."
-    publishedDateTime: 2020-08-21T11:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 28
   - title: "Universal & Microsoft Azure Team To Accelerate Live-Action & Animation Productions"
     excerpt: "Universal Filmed Entertainment Group and Microsoft Corp. have formed a strategic partnership to cloud-optimize live-action and animation productions. The team-up will streamline workflows, and enable frictionless remote collaboration and content creation though a cloud-based production workflow,"
     publishedDateTime: 2020-08-23T12:35:00Z
@@ -134,7 +122,21 @@ related:
       name: IMDb
       domain: imdb.com
     quality: 11
+  - title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
+    excerpt: "They will bring those workflows into Microsoft Azure and ensure Universal’s ecosystem of partners can connect to them in open, standards-based ways. This partnership will also enable the development of near-term solutions to accelerate a return to ..."
+    publishedDateTime: 2020-08-21T15:05:00Z
+    webUrl: "https://news.microsoft.com/2020/08/21/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 8
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/prod/2020/08/NBCU-MS-Logo-Lockup-MNC-1024x512.jpg"
+        width: 1024
+        height: 512
+        isCached: true
 
-secured: "5RnvrlZ7Alj3Ir+Ljki8AAJkGR5cx7h+SdmQqQyX+DAWHHMO2JZbIK5dIGSrjl2KYRJbSEKbsZH4hB7MvakVR/LdFEp3Rp4YTdGRQ2jeRtHmpvYnXGSE3tQ3ASVErEzY6HDT3Lg3M614A9jF4ofSFWr5V9u/35dN70pDHXOBFEascqS1xOKEho2qb+kS9jE2lp7h9+C8xY+Cz0M9Unrk+oIW2daaBrUblmSwMaIp+voLvK4lXeUgU3C5qKfLKcFmda9GfYri5IQu9kod/IY8ci9xYVvvaXR15erabs7NEfd7pWSQxfLiYXPoRSpqvcaCUeqKuHCavkyIOCyrZj8CTw==;KdOuknHwQwN/V2zuZZeP/A=="
+secured: "xtu68vwhJvxF7j3S3RsCtOK9QSC57dElVcULaDXHG9SZNwRzlaVb+ZVMa5papgs63S2es4nUFrDlKaf7T19C0hq5n+qZukYdyC4GDZZOF9FPQdUIhCI8zDvTILkYEMbezXo9eoR7zCqeKfMZLF86YFWO9X5U4CMSixciLlIQmeylnZLZVAjHVCQ3oZgNvQosezhguDsNYF5dRWXQbODBTdvkgtNR6/j/evt+egQx+Vl9I6KJakk77L1tlObfTW8zhtlqzHlTU5j+ulcz5fAY8I5JeEDZguT5G7rs/3tJxm/OlyaWU6OcDlgxIwJAjsMwVs50W2TC9nfkLeL2UXAdt6/y5W2MKUmHr5JrUNnuCdg=;nVk64vZJFMKzXZtBJVYe0g=="
 ---
 

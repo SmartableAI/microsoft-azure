@@ -1,21 +1,31 @@
 ---
 category: news
 title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
-excerpt: "They will bring those workflows into Microsoft Azure and ensure Universal's ecosystem of partners can connect to them in open, standards-based ways. This partnership will also enable the ..."
-publishedDateTime: 2020-08-21T11:00:00Z
-originalUrl: "https://www.nasdaq.com/press-release/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to"
-webUrl: "https://www.nasdaq.com/press-release/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to"
+excerpt: "They will bring those workflows into Microsoft Azure and ensure Universal’s ecosystem of partners can connect to them in open, standards-based ways. This partnership will also enable the development of near-term solutions to accelerate a return to ..."
+publishedDateTime: 2020-08-21T15:05:00Z
+originalUrl: "https://news.microsoft.com/2020/08/21/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions/"
+webUrl: "https://news.microsoft.com/2020/08/21/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions/"
 type: article
-quality: 28
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
+
+images:
+  - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/prod/2020/08/NBCU-MS-Logo-Lockup-MNC-1024x512.jpg"
+    width: 1024
+    height: 512
+    isCached: true
 
 related:
   - title: "Trend Micro Announces Cloud Solution to Strengthen Misconfiguration Protection for Microsoft Azure"
@@ -58,20 +68,6 @@ related:
     excerpt: "They will bring those workflows into Microsoft Azure and ensure Universal's ecosystem of partners can connect to them in open, standards-based ways. This partnership will also enable the ..."
     publishedDateTime: 2020-08-20T23:59:00Z
     webUrl: "https://www.marketwatch.com/press-release/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-2020-08-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
-    excerpt: "UNIVERSAL CITY, Calif., and REDMOND, Wash., Aug. 21, 2020 /PRNewswire via COMTEX/ -- UNIVERSAL CITY, Calif., and REDMOND, Wash., Aug. 21, 2020"
-    publishedDateTime: 2020-08-22T01:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-2020-08-21?mod=mw_quote_news&tesla=y"
     type: article
     provider:
       name: MarketWatch
@@ -130,7 +126,21 @@ related:
       name: IMDb
       domain: imdb.com
     quality: 11
+  - title: "Universal Filmed Entertainment Group and Microsoft Azure announce partnership to accelerate live-action and animation productions"
+    excerpt: "They will bring those workflows into Microsoft Azure and ensure Universal's ecosystem of partners can connect to them in open, standards-based ways. This partnership will also enable the ..."
+    publishedDateTime: 2020-08-22T06:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/universal-filmed-entertainment-group-and-microsoft-azure-announce-partnership-to-accelerate-live-action-and-animation-productions-301116222.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 8
+    images:
+      - url: "https://mma.prnewswire.com/media/24227/microsoft_corp_logo226_9217jpg.jpg?p=facebook"
+        width: 2695
+        height: 1414
+        isCached: true
 
-secured: "eULt/NPWQMNqcwI8zgNdugUkBgINJ14yUK0DN3GVKz3Kq4G5NM9axNymf+0GyF8Pp7I0EdU1so4SuChwupRV+A54bsY37N4WLkTw2NitJhPfJ8qKL4aWjMOkBU9gJg504gK675jVpQcY2EwZ+1eku9di5wOP1bgQ6yYdxpnjO68JoY/AGkCrwbhSVvz/KsqJ1T4oFZ6GacJFVwNxuQpasqQSQ07ncG/zNJb9HdzF00IUJgh2Jph+xBK7eGaYybsbGZ6uWGoo22hCBgcpP/QUIy/VpeOGO4LXZeudPxwbkElmVluz6fUcD0eJLzUOzxeH31yBt004REZGt07w19YCcSXSucWToDAGfIqt7vRZwTw=;0dQBHw2BohZJqktID2XVgQ=="
+secured: "ixUJBoKKzqz5XrBmwID9DKPpGXbedk229tLbLmcbfWFERdCmdDgVZb/VTj3VCvJw/gXJR8p0PLOrE8uK7EzkKg/qhUfo55/mWWU7UKykwWhs/dI3TP9CahJMAA6TCBUY+0gXt1UR69B05JlNaSuS880WXF6GSe0B8D5bP33AywGzLd5/Cim/t9WuQwSRg/jvIjmBAz/j3RFPxHdQwE63ZXwSsNZEJRga9IE01HsHkkkfcGwlLuSj09rWjk+KwYWtKhuW2NVp5YegcwIOrp0ZcNFKMxzhSI3EB2wvh8NKpHstbinq5+ozuVBUXEvOR/KgmaAIjlzzHoZoQ1Y1lr3WfzW2JLfDeFkEQ/vxOVyJgmc=;ySZFqaSTb+vbBqQCFBtPVw=="
 ---
 
