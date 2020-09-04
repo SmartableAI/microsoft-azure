@@ -4,6 +4,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-configure-and-manage-azure-key-vault.md",
+      "title": "Configure and manage secrets in Azure Key Vault",
+      "excerpt": "Storing and handling secrets, encryption keys, and certificates directly is risky, and every usage introduces the possibility of unintentional data exposure. Azure Key Vault provides a secure storage area for managing all your app secrets so you can properly encrypt your data in transit or while it's being stored.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-and-manage-azure-key-vault/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-and-manage-azure-key-vault/",
+      "length": "29 mins",
+      "ratings": {
+        "count": 1775,
+        "average": 4.602817
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/configure-and-manage-azure-key-vault-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Configure and manage secrets in Azure Key Vault",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-control-authentication-with-apim.md",
       "title": "Control authentication for your APIs with Azure API Management",
       "excerpt": "Discover how to protect your APIs from unauthorized use with API keys and client certificate authentication.",
@@ -11,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
       "length": "55 mins",
       "ratings": {
-        "count": 1393,
-        "average": 4.644652
+        "count": 1394,
+        "average": 4.6427546
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -141,8 +184,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
       "length": "25 mins",
       "ratings": {
-        "count": 3913,
-        "average": 4.703041
+        "count": 3914,
+        "average": 4.703117
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -314,8 +357,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/hub-and-spoke-network-architecture/",
       "length": "36 mins",
       "ratings": {
-        "count": 1079,
-        "average": 4.649676
+        "count": 1080,
+        "average": 4.65
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -357,8 +400,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-kubernetes/",
       "length": "53 mins",
       "ratings": {
-        "count": 454,
-        "average": 4.6013217
+        "count": 455,
+        "average": 4.6
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -400,8 +443,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-diagnose-and-troubleshoot-azure-storage/",
       "length": "41 mins",
       "ratings": {
-        "count": 1083,
-        "average": 4.5586333
+        "count": 1084,
+        "average": 4.5590405
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -484,8 +527,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
       "length": "61 mins",
       "ratings": {
-        "count": 2387,
-        "average": 4.6501884
+        "count": 2388,
+        "average": 4.649916
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -529,8 +572,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-app-data-with-azure-blob-storage/",
       "length": "50 mins",
       "ratings": {
-        "count": 2673,
-        "average": 4.5750093
+        "count": 2674,
+        "average": 4.575168
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1027,8 +1070,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
       "length": "PT48M",
       "ratings": {
-        "count": 344,
-        "average": 4.65407
+        "count": 345,
+        "average": 4.652174
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1077,8 +1120,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-custom-vision/",
       "length": "34 mins",
       "ratings": {
-        "count": 183,
-        "average": 4.7431693
+        "count": 184,
+        "average": 4.744565
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1211,8 +1254,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/distribute-data-globally-with-cosmos-db/",
       "length": "31 mins",
       "ratings": {
-        "count": 1470,
-        "average": 4.6081634
+        "count": 1471,
+        "average": 4.6084294
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1415,49 +1458,6 @@
       "topics": [
         "Azure",
         "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-host-domain-azure-dns.md",
-      "title": "Host your domain on Azure DNS",
-      "excerpt": "Create a DNS zone for your domain name. Create DNS records to map the URL to an IP address. Test that the domain name resolves to your web server.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-host-domain-azure-dns/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-domain-azure-dns/",
-      "length": "43 mins",
-      "ratings": {
-        "count": 223,
-        "average": 4.6860986
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/host-domain-azure-dns-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Host your domain on Azure DNS",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
       ]
     }
   ],

@@ -473,8 +473,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
       "length": "55 mins",
       "ratings": {
-        "count": 934,
-        "average": 4.603854
+        "count": 935,
+        "average": 4.604278
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -678,8 +678,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-vms-from-vhd-templates/",
       "length": "42 mins",
       "ratings": {
-        "count": 1491,
-        "average": 4.6773977
+        "count": 1492,
+        "average": 4.676944
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -764,8 +764,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-core-tools/",
       "length": "20 mins",
       "ratings": {
-        "count": 1627,
-        "average": 4.6982174
+        "count": 1628,
+        "average": 4.698403
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1093,6 +1093,50 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-secure-your-azure-sql-database.md",
+      "title": "Secure your Azure SQL Database",
+      "excerpt": "Secure your Azure SQL Database to keep your data secure and diagnose potential security concerns as they happen.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-your-azure-sql-database/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-sql-database/",
+      "length": "67 mins",
+      "ratings": {
+        "count": 3878,
+        "average": 4.5314593
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/secure-your-azure-sql-database-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Secure your Azure SQL Database",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-use-compute-contexts-in-aml.md",
       "title": "Working with Compute Contexts in Azure Machine Learning",
       "excerpt": "One of the key benefits of the cloud is the ability to use scalable, on-demand compute resources for cost-effective processing of large data. In this module, you'll learn how to use cloud compute in Azure Machine Learning to run training experiments at scale.",
@@ -1134,8 +1178,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-and-size-disks-in-azure-virtual-machines/",
       "length": "36 mins",
       "ratings": {
-        "count": 2057,
-        "average": 4.66456
+        "count": 2058,
+        "average": 4.663265
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1334,49 +1378,6 @@
         "Azure",
         "Databases",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-configure-and-manage-azure-key-vault.md",
-      "title": "Configure and manage secrets in Azure Key Vault",
-      "excerpt": "Storing and handling secrets, encryption keys, and certificates directly is risky, and every usage introduces the possibility of unintentional data exposure. Azure Key Vault provides a secure storage area for managing all your app secrets so you can properly encrypt your data in transit or while it's being stored.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-and-manage-azure-key-vault/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-and-manage-azure-key-vault/",
-      "length": "29 mins",
-      "ratings": {
-        "count": 1775,
-        "average": 4.602817
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/configure-and-manage-azure-key-vault-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Configure and manage secrets in Azure Key Vault",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
       ]
     }
   ],
