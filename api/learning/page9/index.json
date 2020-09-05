@@ -57,8 +57,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-app-data-with-azure-blob-storage/",
       "length": "50 mins",
       "ratings": {
-        "count": 2680,
-        "average": 4.575746
+        "count": 2681,
+        "average": 4.5759044
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -267,8 +267,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-and-size-disks-in-azure-virtual-machines/",
       "length": "36 mins",
       "ratings": {
-        "count": 2061,
-        "average": 4.662785
+        "count": 2062,
+        "average": 4.6624637
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -311,8 +311,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-costs-create-budgets-azure-cost-management/",
       "length": "PT40M",
       "ratings": {
-        "count": 625,
-        "average": 4.592
+        "count": 626,
+        "average": 4.5910544
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -397,8 +397,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
       "length": "29 mins",
       "ratings": {
-        "count": 1099,
-        "average": 4.6378527
+        "count": 1101,
+        "average": 4.6376023
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -517,8 +517,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
       "length": "44 mins",
       "ratings": {
-        "count": 1322,
-        "average": 4.62708
+        "count": 1323,
+        "average": 4.626606
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -775,8 +775,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
       "length": "53 mins",
       "ratings": {
-        "count": 1510,
-        "average": 4.637086
+        "count": 1511,
+        "average": 4.6373262
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -998,8 +998,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/",
       "length": "51 mins",
       "ratings": {
-        "count": 5505,
-        "average": 4.697911
+        "count": 5507,
+        "average": 4.6978393
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1042,8 +1042,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-github-events-with-a-function-triggered-by-a-webhook/",
       "length": "53 mins",
       "ratings": {
-        "count": 1541,
-        "average": 4.626866
+        "count": 1542,
+        "average": 4.6271076
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1076,6 +1076,50 @@
         "Azure",
         "Compute",
         "Serverless"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-move-data-with-azure-data-box.md",
+      "title": "Move large amounts of data to the cloud by using Azure Data Box family",
+      "excerpt": "Evaluate Azure Data Box family to import terabytes (TBs) of data from a local computer to Azure Blob storage. Order disks. Copy data to disks and return them. Verify that the data is uploaded to Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-move-data-with-azure-data-box/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/move-data-with-azure-data-box/",
+      "length": "25 mins",
+      "ratings": {
+        "count": 358,
+        "average": 4.6229053
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/move-data-with-azure-data-box-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Move large amounts of data to the cloud by using Azure Data Box family",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Migration"
       ]
     },
     {
@@ -1130,8 +1174,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
       "length": "48 mins",
       "ratings": {
-        "count": 2306,
-        "average": 4.623157
+        "count": 2307,
+        "average": 4.62332
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1260,8 +1304,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/stage-deploy-app-service-deployment-slots/",
       "length": "44 mins",
       "ratings": {
-        "count": 1636,
-        "average": 4.5134473
+        "count": 1637,
+        "average": 4.513745
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1336,50 +1380,6 @@
         "Azure",
         "Networking",
         "DevOps",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-access-data-with-cosmos-db-and-sql-api.md",
-      "title": "Insert and query data in your Azure Cosmos DB database",
-      "excerpt": "Learn how to add data to your database and query NoSQL data in Azure Cosmos DB.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-access-data-with-cosmos-db-and-sql-api/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/access-data-with-cosmos-db-and-sql-api/",
-      "length": "58 mins",
-      "ratings": {
-        "count": 2427,
-        "average": 4.6501856
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/access-data-with-cosmos-db-and-sql-api-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Insert and query data in your Azure Cosmos DB database",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
         "Management Tools"
       ]
     }
