@@ -4,12 +4,12 @@
   "page": 5,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-az-400-manage-source-control.md",
-      "title": "AZ-400: Manage source control",
-      "excerpt": "Learn how GitHub enables you to build a modern source control strategy that fosters collaboration and enables you to automate your build and deployment processes.\nTake this learning path to help prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-400-manage-source-control/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-400-manage-source-control/",
-      "length": "PT14H31M",
+      "path": "_learning/collections/microsoft-learn-azure-sql-fundamentals.md",
+      "title": "Azure SQL fundamentals",
+      "excerpt": "Learn how to deploy, secure, monitor and troubleshoot Azure SQL database.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-azure-sql-fundamentals/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-azure-sql-fundamentals/",
+      "length": "PT7H14M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -28,34 +28,33 @@
       "topItems": [
         {
           "path": "",
-          "title": "Introduction to GitHub",
-          "excerpt": "Learn to use key GitHub features, including issues, notifications, branches, commits, and pull requests.",
-          "heat": 56,
+          "title": "Introduction to Azure SQL",
+          "excerpt": "Introduction to Azure SQL",
+          "heat": 54,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "title": "Introduction to GitHub",
+              "url": "https://docs.microsoft.com/learn/achievements/azure-sql-intro-social.png",
+              "width": 642,
+              "height": 325,
               "isCached": true
             }
           ],
           "type": "course",
           "topics": [
-            "Azure"
+            "Azure",
+            "Databases"
           ]
         },
         {
           "path": "",
-          "title": "Migrate your repository by using GitHub best practices",
-          "excerpt": "Learn to move your existing project to GitHub from a legacy version control system.",
+          "title": "Deploy and configure servers, instances, and databases for Azure SQL",
+          "excerpt": "Deploy and configure servers, instances, and databases for Azure SQL",
           "heat": 52,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "title": "Migrate your repository by using GitHub best practices",
+              "url": "https://docs.microsoft.com/learn/achievements/azure-sql-deploy-configure-social.png",
+              "width": 642,
+              "height": 324,
               "isCached": true
             }
           ],
@@ -66,58 +65,58 @@
         },
         {
           "path": "",
-          "title": "Upload your project by using GitHub best practices",
-          "excerpt": "Learn to upload your existing project to GitHub.",
-          "heat": 51,
+          "title": "Secure your data with Azure SQL",
+          "excerpt": "Secure your data with Azure SQL",
+          "heat": 50,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "title": "Upload your project by using GitHub best practices",
+              "url": "https://docs.microsoft.com/learn/achievements/azure-sql-secure-data-social.png",
+              "width": 642,
+              "height": 325,
               "isCached": true
             }
           ],
           "type": "course",
           "topics": [
-            "Azure"
+            "Azure",
+            "Databases"
           ]
         },
         {
           "path": "",
-          "title": "Manage repository changes by using pull requests on GitHub",
-          "excerpt": "Learn how to manage changes to your repository source by using pull requests.",
-          "heat": 51,
+          "title": "Deliver consistent performance with Azure SQL",
+          "excerpt": "Deliver consistent performance with Azure SQL",
+          "heat": 50,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "title": "Manage repository changes by using pull requests on GitHub",
+              "url": "https://docs.microsoft.com/learn/achievements/azure-sql-performance-social.png",
+              "width": 642,
+              "height": 324,
               "isCached": true
             }
           ],
           "type": "course",
           "topics": [
-            "Azure"
+            "Azure",
+            "Databases"
           ]
         }
       ],
-      "size": 15,
+      "size": 6,
       "heat": 62,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Introduction to GitHub",
+          "url": "https://docs.microsoft.com/learn/achievements/azure-sql-intro-social.png",
+          "width": 642,
+          "height": 325,
           "isCached": true
         }
       ],
       "type": "collection",
       "price": "Free",
       "topics": [
-        "Azure"
+        "Azure",
+        "Databases"
       ]
     },
     {
@@ -406,8 +405,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/",
       "length": "51 mins",
       "ratings": {
-        "count": 5517,
-        "average": 4.697843
+        "count": 5518,
+        "average": 4.697898
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -450,8 +449,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
       "length": "36 mins",
       "ratings": {
-        "count": 1636,
-        "average": 4.6845965
+        "count": 1638,
+        "average": 4.684371
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -801,8 +800,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-core-data-concepts/",
       "length": "PT25M",
       "ratings": {
-        "count": 646,
-        "average": 4.845201
+        "count": 647,
+        "average": 4.8454404
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -843,8 +842,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-devops-continuous-security-operations/",
       "length": "22 mins",
       "ratings": {
-        "count": 311,
-        "average": 4.6623793
+        "count": 312,
+        "average": 4.6634617
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2922,7 +2921,7 @@
           "path": "",
           "title": "Discover how to foster an AI-ready culture in sales",
           "excerpt": "A successful AI strategy in sales must consider cultural issues, as well as business issues. The goal of this module is to enable you to think about AI transformation holistically, with a focus on the cultural changes necessary to make AI transformation successful.",
-          "heat": 50,
+          "heat": 110,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/foster-ai-ready-culture-sales-social.png",

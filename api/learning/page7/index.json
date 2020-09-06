@@ -4,49 +4,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-integrate-vnets-with-vnet-peering.md",
-      "title": "Distribute your services across Azure virtual networks and integrate them by using virtual network peering",
-      "excerpt": "Use virtual network peering to enable communication across virtual networks in a way that's secure and minimally complex.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-integrate-vnets-with-vnet-peering/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
-      "length": "42 mins",
-      "ratings": {
-        "count": 2331,
-        "average": 4.719863
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/integrate-vnets-with-vnet-peering-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Distribute your services across Azure virtual networks and integrate them by using virtual network peering",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-introduction-to-classification.md",
       "title": "Predict categories with machine learning classification",
       "excerpt": "Use machine learning models to categorize data. Build a logistic regression model and support vector machine models to predict categories like win/loss and tree species.",
@@ -183,8 +140,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
       "length": "61 mins",
       "ratings": {
-        "count": 2402,
-        "average": 4.6507077
+        "count": 2403,
+        "average": 4.650853
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -228,8 +185,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/app-service-scale-up-scale-out/",
       "length": "46 mins",
       "ratings": {
-        "count": 2026,
-        "average": 4.5538006
+        "count": 2028,
+        "average": 4.5537477
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -401,8 +358,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/characterize-devops-continous-collaboration-improvement/",
       "length": "17 mins",
       "ratings": {
-        "count": 444,
-        "average": 4.641892
+        "count": 445,
+        "average": 4.642697
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -433,48 +390,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-choose-an-agile-approach.md",
-      "title": "Choose an Agile approach to software development",
-      "excerpt": "Learn to foster the DevOps values of transparency and team cooperation with Azure Boards.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-an-agile-approach/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-an-agile-approach/",
-      "length": "PT40M",
-      "ratings": {
-        "count": 5167,
-        "average": 4.7451134
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/choose-an-agile-approach-to-software-development-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Choose an Agile approach to software development",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "DevOps"
       ]
     },
     {
@@ -573,8 +488,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-network-traffic-flow-with-routes/",
       "length": "50 mins",
       "ratings": {
-        "count": 1572,
-        "average": 4.6291347
+        "count": 1573,
+        "average": 4.6293707
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -705,8 +620,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-concepts-of-relational-data/",
       "length": "PT24M",
       "ratings": {
-        "count": 386,
-        "average": 4.7979274
+        "count": 388,
+        "average": 4.7989693
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -747,8 +662,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/",
       "length": "37 mins",
       "ratings": {
-        "count": 1090,
-        "average": 4.7284403
+        "count": 1091,
+        "average": 4.728689
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -780,6 +695,51 @@
       "topics": [
         "Azure",
         "Networking"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-host-a-web-application-with-azure-web-apps.md",
+      "title": "Host a web application with Azure App service",
+      "excerpt": "Azure App Service enables you to build and host web applications in the programming language of your choice without managing infrastructure. Learn how to create a website through the hosted web app platform in Azure App Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-host-a-web-application-with-azure-web-apps/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
+      "length": "65 mins",
+      "ratings": {
+        "count": 4950,
+        "average": 4.597172
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/host-a-web-app-with-azure-app-service-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Host a web application with Azure App service",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web",
+        "Management Tools"
       ]
     },
     {
@@ -833,8 +793,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
       "length": "27 mins",
       "ratings": {
-        "count": 1255,
-        "average": 4.684462
+        "count": 1256,
+        "average": 4.6847134
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -986,8 +946,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
       "length": "43 mins",
       "ratings": {
-        "count": 3227,
-        "average": 4.56802
+        "count": 3228,
+        "average": 4.568154
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1029,8 +989,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
       "length": "45 mins",
       "ratings": {
-        "count": 5942,
-        "average": 4.6452374
+        "count": 5943,
+        "average": 4.644792
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1109,50 +1069,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-add-and-size-disks-in-azure-virtual-machines.md",
-      "title": "Add and size disks in Azure virtual machines",
-      "excerpt": "Understand and create the different types of disk storage available to Azure virtual machines (VMs).",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-add-and-size-disks-in-azure-virtual-machines/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-and-size-disks-in-azure-virtual-machines/",
-      "length": "36 mins",
-      "ratings": {
-        "count": 2067,
-        "average": 4.6627965
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/add-and-size-disks-in-azure-virtual-machines-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Add and size disks in Azure virtual machines",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-connect-app-to-azure-storage.md",
       "title": "Connect an app to Azure Storage",
       "excerpt": "Create a simple application and add configuration, client library references, and code to connect it to Azure Storage.",
@@ -1204,8 +1120,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-expressroute/",
       "length": "40 mins",
       "ratings": {
-        "count": 2952,
-        "average": 4.6656504
+        "count": 2954,
+        "average": 4.665877
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1279,6 +1195,83 @@
       "price": "Free",
       "topics": [
         "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-classification-model-with-azure-machine-learning-designer.md",
+      "title": "Create a classification model with Azure Machine Learning designer",
+      "excerpt": "Classification is a supervised machine learning technique used to predict categories or classes. Learn how to create classification models using Azure Machine Learning designer.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-classification-model-with-azure-machine-learning-designer/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-classification-model-azure-machine-learning-designer/",
+      "length": "PT60M",
+      "ratings": {
+        "count": 187,
+        "average": 4.7967916
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 56,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-design-a-hybrid-network-architecture.md",
+      "title": "Design a hybrid network architecture on Azure",
+      "excerpt": "You have a traditional on-premises infrastructure that you need to connect to resources in Azure. In this module, you learn how to select a connectivity method for your use cases that balances functionality, cost, and security.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-a-hybrid-network-architecture/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-a-hybrid-network-architecture/",
+      "length": "47 mins",
+      "ratings": {
+        "count": 1050,
+        "average": 4.6238093
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/design-a-hybrid-network-architecture-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Design a hybrid network architecture on Azure",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
       ]
     }
   ],

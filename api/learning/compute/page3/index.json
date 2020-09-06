@@ -4,92 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-migrate-aspnet-apps-to-azure.md",
-      "title": "Migrate ASP.NET Apps to Azure",
-      "excerpt": "Migrate ASP.NET web applications and their data to Azure App Service and Azure SQL Database to take advantage of the cloud.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-migrate-aspnet-apps-to-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-migrate-aspnet-apps-to-azure/",
-      "length": "PT2H0M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Migrate an on-premises web application to Azure with the App Service Migration Assistant",
-          "excerpt": "Use the Azure App Service Migration Assistant to assess the readiness of a web app to be deployed on App Service, and perform the migration.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/migrate-app-service-migration-assistant-social.png",
-              "width": 640,
-              "height": 320,
-              "title": "Migrate an on-premises web application to Azure with the App Service Migration Assistant",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Web"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Migrate your relational data stored in SQL Server to Azure SQL Database",
-          "excerpt": "Plan and implement the migration of relational data from SQL Server to Azure SQL Database. Select the appropriate migration strategy for your database, and then use Data Migration Assistant to do the assessment and the migration.",
-          "heat": 55,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Migrate your relational data stored in SQL Server to Azure SQL Database",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Databases",
-            "Migration"
-          ]
-        }
-      ],
-      "size": 2,
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/migrate-app-service-migration-assistant-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Migrate an on-premises web application to Azure with the App Service Migration Assistant",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Compute",
-        "Web"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-build-azure-vm-templates.md",
       "title": "Build Azure Resource Manager templates",
       "excerpt": "Learn how Resource Manager templates express your deployments as code, enabling you to deploy faster and more reliably.",
@@ -141,8 +55,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
       "length": "70 mins",
       "ratings": {
-        "count": 2569,
-        "average": 4.567536
+        "count": 2571,
+        "average": 4.5678725
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -231,8 +145,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-visual-studio/",
       "length": "43 mins",
       "ratings": {
-        "count": 1670,
-        "average": 4.608383
+        "count": 1671,
+        "average": 4.6080194
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -415,6 +329,50 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-add-and-size-disks-in-azure-virtual-machines.md",
+      "title": "Add and size disks in Azure virtual machines",
+      "excerpt": "Understand and create the different types of disk storage available to Azure virtual machines (VMs).",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-add-and-size-disks-in-azure-virtual-machines/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-and-size-disks-in-azure-virtual-machines/",
+      "length": "36 mins",
+      "ratings": {
+        "count": 2067,
+        "average": 4.6627965
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/add-and-size-disks-in-azure-virtual-machines-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Add and size disks in Azure virtual machines",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-well-architected-reliability.md",
       "title": "Microsoft Azure Well-Architected Framework - Reliability",
       "excerpt": "Learn how to handle infrastructure and service failure, recover from the loss of data, and recover from a disaster by incorporating reliability into your architecture.",
@@ -422,8 +380,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-reliability/",
       "length": "PT59M",
       "ratings": {
-        "count": 363,
-        "average": 4.6997247
+        "count": 364,
+        "average": 4.7005496
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -609,8 +567,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-core-tools/",
       "length": "20 mins",
       "ratings": {
-        "count": 1633,
-        "average": 4.6987143
+        "count": 1635,
+        "average": 4.6990824
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -653,8 +611,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-hpc/",
       "length": "50 mins",
       "ratings": {
-        "count": 837,
-        "average": 4.5567503
+        "count": 838,
+        "average": 4.557279
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -696,8 +654,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
       "length": "46 mins",
       "ratings": {
-        "count": 1399,
-        "average": 4.5818443
+        "count": 1400,
+        "average": 4.582143
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1048,8 +1006,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
       "length": "48 mins",
       "ratings": {
-        "count": 1324,
-        "average": 4.615559
+        "count": 1327,
+        "average": 4.616428
       },
       "provider": {
         "name": "Microsoft Learn",

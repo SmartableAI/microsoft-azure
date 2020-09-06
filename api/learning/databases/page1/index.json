@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-data-in-azure/",
       "length": "25 mins",
       "ratings": {
-        "count": 53180,
-        "average": 4.7330575
+        "count": 53190,
+        "average": 4.7331076
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1462,7 +1462,7 @@
           "path": "",
           "title": "Host a web application with Azure App service",
           "excerpt": "Azure App Service enables you to build and host web applications in the programming language of your choice without managing infrastructure. Learn how to create a website through the hosted web app platform in Azure App Service.",
-          "heat": 58,
+          "heat": 57,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/host-a-web-app-with-azure-app-service-social.png",
@@ -1615,122 +1615,6 @@
           "width": 800,
           "height": 400,
           "title": "Design your migration to Azure",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-azure-sql-fundamentals.md",
-      "title": "Azure SQL fundamentals",
-      "excerpt": "Learn how to deploy, secure, monitor and troubleshoot Azure SQL database.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-azure-sql-fundamentals/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-azure-sql-fundamentals/",
-      "length": "PT7H14M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Introduction to Azure SQL",
-          "excerpt": "Introduction to Azure SQL",
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-sql-intro-social.png",
-              "width": 642,
-              "height": 325,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Deploy and configure servers, instances, and databases for Azure SQL",
-          "excerpt": "Deploy and configure servers, instances, and databases for Azure SQL",
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-sql-deploy-configure-social.png",
-              "width": 642,
-              "height": 324,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Secure your data with Azure SQL",
-          "excerpt": "Secure your data with Azure SQL",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-sql-secure-data-social.png",
-              "width": 642,
-              "height": 325,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Deliver consistent performance with Azure SQL",
-          "excerpt": "Deliver consistent performance with Azure SQL",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-sql-performance-social.png",
-              "width": 642,
-              "height": 324,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-sql-intro-social.png",
-          "width": 642,
-          "height": 325,
           "isCached": true
         }
       ],
@@ -2508,6 +2392,122 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-azure-sql-fundamentals.md",
+      "title": "Azure SQL fundamentals",
+      "excerpt": "Learn how to deploy, secure, monitor and troubleshoot Azure SQL database.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-azure-sql-fundamentals/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-azure-sql-fundamentals/",
+      "length": "PT7H14M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Introduction to Azure SQL",
+          "excerpt": "Introduction to Azure SQL",
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-sql-intro-social.png",
+              "width": 642,
+              "height": 325,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Deploy and configure servers, instances, and databases for Azure SQL",
+          "excerpt": "Deploy and configure servers, instances, and databases for Azure SQL",
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-sql-deploy-configure-social.png",
+              "width": 642,
+              "height": 324,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Secure your data with Azure SQL",
+          "excerpt": "Secure your data with Azure SQL",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-sql-secure-data-social.png",
+              "width": 642,
+              "height": 325,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Deliver consistent performance with Azure SQL",
+          "excerpt": "Deliver consistent performance with Azure SQL",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-sql-performance-social.png",
+              "width": 642,
+              "height": 324,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-sql-intro-social.png",
+          "width": 642,
+          "height": 325,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-securely-connect-iot-devices-to-the-cloud.md",
       "title": "Securely connect IoT devices to the cloud",
       "excerpt": "Interested in building end to end IoT solutions or about Azure IoT, but aren't quite sure what it can do for you? This path is the place to start.",
@@ -2774,8 +2774,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
       "length": "70 mins",
       "ratings": {
-        "count": 2569,
-        "average": 4.567536
+        "count": 2571,
+        "average": 4.5678725
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2820,8 +2820,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
       "length": "84 mins",
       "ratings": {
-        "count": 653,
-        "average": 4.392037
+        "count": 654,
+        "average": 4.3868504
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2908,8 +2908,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-intro/",
       "length": "PT44M",
       "ratings": {
-        "count": 137,
-        "average": 4.70073
+        "count": 138,
+        "average": 4.7028985
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2950,8 +2950,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-reliability/",
       "length": "PT59M",
       "ratings": {
-        "count": 363,
-        "average": 4.6997247
+        "count": 364,
+        "average": 4.7005496
       },
       "provider": {
         "name": "Microsoft Learn",

@@ -4,49 +4,6 @@
   "page": 25,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-prepare-onpremises-workloads-migration-azure.md",
-      "title": "Prepare on-premises workloads for migration to Azure",
-      "excerpt": "Choose an agentless Hyper-V migration approach. Create an Azure Migrate project, enable Azure AD permissions, prepare the on-premises environment, and deploy the Azure Migrate appliance. Your on-premises workloads are now ready for the actual migration.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-prepare-onpremises-workloads-migration-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-onpremises-workloads-migration-azure/",
-      "length": "35 mins",
-      "ratings": {
-        "count": 103,
-        "average": 4.6893206
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/prepare-on-premises-workloads-for-migration-to-azure-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Prepare on-premises workloads for migration to Azure",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Migration"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-preparing-migrate-sap-workloads-azure.md",
       "title": "Prepare to migrate SAP workloads to Azure",
       "excerpt": "In this module, you will walk through the important steps required for deploying SAP workloads to Azure. The steps include project preparation, pilot, non-production, production preparation, go-live, and post production.",
@@ -1153,6 +1110,48 @@
       "topics": [
         "Azure",
         "IoT"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-resource-manager-template-reuse.md",
+      "title": "Deploy to multiple Azure environments by using Azure Resource Manager template features - Learn",
+      "excerpt": "Manage multiple Azure environment deployments of your Azure Resource Manager templates using functions, variables, tags and parameter files.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-resource-manager-template-reuse/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modify-azure-resource-manager-template-reuse/",
+      "length": "PT39M",
+      "ratings": {
+        "count": 9,
+        "average": 4.5555553
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/modify-azure-resource-manager-template-reuse-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools"
       ]
     },
     {

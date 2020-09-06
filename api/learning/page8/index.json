@@ -4,83 +4,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-create-classification-model-with-azure-machine-learning-designer.md",
-      "title": "Create a classification model with Azure Machine Learning designer",
-      "excerpt": "Classification is a supervised machine learning technique used to predict categories or classes. Learn how to create classification models using Azure Machine Learning designer.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-classification-model-with-azure-machine-learning-designer/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-classification-model-azure-machine-learning-designer/",
-      "length": "PT60M",
-      "ratings": {
-        "count": 187,
-        "average": 4.7967916
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 56,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-design-a-hybrid-network-architecture.md",
-      "title": "Design a hybrid network architecture on Azure",
-      "excerpt": "You have a traditional on-premises infrastructure that you need to connect to resources in Azure. In this module, you learn how to select a connectivity method for your use cases that balances functionality, cost, and security.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-a-hybrid-network-architecture/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-a-hybrid-network-architecture/",
-      "length": "47 mins",
-      "ratings": {
-        "count": 1049,
-        "average": 4.6234508
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/design-a-hybrid-network-architecture-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Design a hybrid network architecture on Azure",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-design-azure-sql-data-warehouse.md",
       "title": "Design a data warehouse with Azure Synapse Analytics",
       "excerpt": "Learn how to create a data warehouse in Azure Synapse Analytics in minutes to take advantage of massively parallel processing (MPP) and run complex queries at petabyte scale quickly.",
@@ -88,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-azure-sql-data-warehouse/",
       "length": "47 mins",
       "ratings": {
-        "count": 2596,
-        "average": 4.575501
+        "count": 2597,
+        "average": 4.575664
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -466,8 +389,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/stage-deploy-app-service-deployment-slots/",
       "length": "44 mins",
       "ratings": {
-        "count": 1644,
-        "average": 4.5145984
+        "count": 1645,
+        "average": 4.5148935
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1031,8 +954,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
       "length": "70 mins",
       "ratings": {
-        "count": 2569,
-        "average": 4.567536
+        "count": 2571,
+        "average": 4.5678725
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1249,8 +1172,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
       "length": "57 mins",
       "ratings": {
-        "count": 1230,
-        "average": 4.5747967
+        "count": 1231,
+        "average": 4.57433
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1337,8 +1260,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-visual-studio/",
       "length": "43 mins",
       "ratings": {
-        "count": 1670,
-        "average": 4.608383
+        "count": 1671,
+        "average": 4.6080194
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1381,8 +1304,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/",
       "length": "28 mins",
       "ratings": {
-        "count": 4475,
-        "average": 4.6739664
+        "count": 4476,
+        "average": 4.6740394
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1423,8 +1346,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-non-relational-data/",
       "length": "PT26M",
       "ratings": {
-        "count": 325,
-        "average": 4.833846
+        "count": 326,
+        "average": 4.834356
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1497,6 +1420,93 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-import-data-into-asdw-with-polybase.md",
+      "title": "Import data into Azure Synapse Analytics by using PolyBase",
+      "excerpt": "Load petabytes of data into an Azure Synapse Analytics database in minutes by using PolyBase.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-import-data-into-asdw-with-polybase/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/import-data-into-asdw-with-polybase/",
+      "length": "66 mins",
+      "ratings": {
+        "count": 1939,
+        "average": 4.5564723
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/import-data-into-asdw-with-polybase-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Import data into Azure Synapse Analytics by using PolyBase",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-incident-response-with-alerting-on-azure.md",
+      "title": "Improve incident response with alerting on Azure",
+      "excerpt": "Respond to incidents and activities in your infrastructure through alerting capabilities in Azure Monitor.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-incident-response-with-alerting-on-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
+      "length": "53 mins",
+      "ratings": {
+        "count": 1516,
+        "average": 4.6365438
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/incident-response-with-alerting-on-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Improve incident response with alerting on Azure",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Management Tools"
       ]
     }
   ],

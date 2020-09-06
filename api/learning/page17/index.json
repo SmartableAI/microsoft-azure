@@ -4,51 +4,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-azure-intro-to-logic-apps.md",
-      "title": "Introduction to Azure Logic Apps",
-      "excerpt": "Characterize the types of business processes that Logic Apps can automate. Describe the function of connectors, triggers, and actions and show how you combine them to create an app.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-intro-to-logic-apps/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-logic-apps/",
-      "length": "28 mins",
-      "ratings": {
-        "count": 1560,
-        "average": 4.705769
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-logic-apps-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Introduction to Azure Logic Apps",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Blockchain",
-        "Integration"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-azure-introduction-to-azure-search.md",
       "title": "Introduction to Azure Cognitive Search",
       "excerpt": "Use Azure Cognitive Search to make your data searchable.",
@@ -556,6 +511,39 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-build-product-road-maps.md",
+      "title": "Build product road maps",
+      "excerpt": "Identify and construct Agile product road maps including audiences, prioritization, themes, milestones, epics, and user stories.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-product-road-maps/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-product-roadmaps/",
+      "length": "41 mins",
+      "ratings": {
+        "count": 50,
+        "average": 4.62
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-build-query-delta-lake.md",
       "title": "Build and query a Delta Lake",
       "excerpt": "Learn how to use Delta Lake to create, append, and upsert data to Apache Spark tables, taking advantage of built-in reliability and optimizations.",
@@ -819,6 +807,47 @@
         "Beginner"
       ],
       "heat": 50,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-cmu-build-apps-cloud.md",
+      "title": "Build applications on the cloud",
+      "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn how developers write programs that run on the cloud, including how to deploy, be fault-tolerant, load balance, scale, and deal with latency.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-build-apps-cloud/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-build-apps-cloud/",
+      "length": "PT1H21M",
+      "ratings": {
+        "count": 89,
+        "average": 4.5393257
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/build-applications-on-the-cloud-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
       "type": "course",
       "price": "Free",
       "topics": [
@@ -1189,48 +1218,6 @@
           "width": 800,
           "height": 400,
           "title": "Disaster recovery and backup",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-cmu-orchestration.md",
-      "title": "Automate cloud resource management",
-      "excerpt": "Learn about how to automate cloud resource management with scripts and infrastructure-as-code tools like Terraform.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-orchestration/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-orchestration/",
-      "length": "55 mins",
-      "ratings": {
-        "count": 73,
-        "average": 4.630137
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cmu-orchestration-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Automate cloud resource management",
           "isCached": true
         }
       ],

@@ -4,49 +4,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-implement-message-workflows-with-service-bus.md",
-      "title": "Implement message-based communication workflows with Azure Service Bus",
-      "excerpt": "Write C# code in a custom application that sends and receives messages using Azure Service Bus topics and queues.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-message-workflows-with-service-bus/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/",
-      "length": "54 mins",
-      "ratings": {
-        "count": 1917,
-        "average": 4.6463223
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/implement-message-workflows-with-service-bus-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Implement message-based communication workflows with Azure Service Bus",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Integration"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-intro-to-ai-technology.md",
       "title": "Introduction to AI technology",
       "excerpt": "This module provides a high-level overview of the primary concepts of AI and the technologies behind it. We then dive into how Microsoft is turning the latest advancements in AI into tools, products, and services that can be leveraged by organizations.",
@@ -773,49 +730,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-monitor-azure-cosmos-db.md",
-      "title": "Optimize the performance of Azure Cosmos DB by using partitioning and indexing strategies",
-      "excerpt": "Learn how to measure the throughput of your NoSQL database and assess the impact of partition key and indexing strategies on throughput.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-azure-cosmos-db/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-and-scale-cosmos-db/",
-      "length": "76 mins",
-      "ratings": {
-        "count": 1047,
-        "average": 4.597899
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/monitor-azure-cosmos-db-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Optimize the performance of Azure Cosmos DB by using partitioning and indexing strategies",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-monitor-data-drift-with-azure-machine-learning.md",
       "title": "Monitor data drift with Azure Machine Learning",
       "excerpt": "Changing trends in data over time can reduce the accuracy of the predictions made by a model. Monitoring for this data drift is an important way to ensure your model continues to predict accurately.",
@@ -823,8 +737,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-data-drift-with-azure-machine-learning/",
       "length": "PT42M",
       "ratings": {
-        "count": 107,
-        "average": 4.6635513
+        "count": 108,
+        "average": 4.6666665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -867,8 +781,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-models-with-azure-machine-learning/",
       "length": "PT39M",
       "ratings": {
-        "count": 105,
-        "average": 4.733333
+        "count": 106,
+        "average": 4.735849
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -954,8 +868,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-quality-tests-build-pipeline/",
       "length": "PT1H22M",
       "ratings": {
-        "count": 2939,
-        "average": 4.725757
+        "count": 2940,
+        "average": 4.72585
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1278,6 +1192,84 @@
       "topics": [
         "Azure",
         "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-work-with-data-in-aml.md",
+      "title": "Working with Data in Azure Machine Learning",
+      "excerpt": "Data is the foundation of machine learning. In this module, you will learn how to work with datastores and datasets in Azure Machine Learning, enabling you to build scalable, cloud-based model training solutions.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-with-data-in-aml/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-data-in-aml/",
+      "length": "47 mins",
+      "ratings": {
+        "count": 571,
+        "average": 4.6462345
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-work-with-mutable-and-partial-data-in-a-redis-cache.md",
+      "title": "Work with mutable and partial data in Azure Cache for Redis",
+      "excerpt": "Use Azure Cache for Redis to store frequently accessed data. Learn how to create transactions, manage memory, and use the cache-aside pattern.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-with-mutable-and-partial-data-in-a-redis-cache/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-mutable-and-partial-data-in-a-redis-cache/",
+      "length": "65 mins",
+      "ratings": {
+        "count": 525,
+        "average": 4.613333
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/work-with-mutable-and-partial-data-in-a-redis-cache-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Work with mutable and partial data in Azure Cache for Redis",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Management Tools"
       ]
     }
   ],

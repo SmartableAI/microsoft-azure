@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
       "length": "38 mins",
       "ratings": {
-        "count": 61197,
-        "average": 4.708515
+        "count": 61205,
+        "average": 4.7085533
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -391,7 +391,7 @@
           "path": "",
           "title": "Add and size disks in Azure virtual machines",
           "excerpt": "Understand and create the different types of disk storage available to Azure virtual machines (VMs).",
-          "heat": 56,
+          "heat": 54,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/add-and-size-disks-in-azure-virtual-machines-social.png",
@@ -518,7 +518,7 @@
           "path": "",
           "title": "Add and size disks in Azure virtual machines",
           "excerpt": "Understand and create the different types of disk storage available to Azure virtual machines (VMs).",
-          "heat": 56,
+          "heat": 54,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/add-and-size-disks-in-azure-virtual-machines-social.png",
@@ -1018,7 +1018,7 @@
           "path": "",
           "title": "Host a web application with Azure App service",
           "excerpt": "Azure App Service enables you to build and host web applications in the programming language of your choice without managing infrastructure. Learn how to create a website through the hosted web app platform in Azure App Service.",
-          "heat": 58,
+          "heat": 57,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/host-a-web-app-with-azure-app-service-social.png",
@@ -1144,7 +1144,7 @@
           "path": "",
           "title": "Host a web application with Azure App service",
           "excerpt": "Azure App Service enables you to build and host web applications in the programming language of your choice without managing infrastructure. Learn how to create a website through the hosted web app platform in Azure App Service.",
-          "heat": 58,
+          "heat": 57,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/host-a-web-app-with-azure-app-service-social.png",
@@ -1431,8 +1431,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/",
       "length": "46 mins",
       "ratings": {
-        "count": 3650,
-        "average": 4.628767
+        "count": 3651,
+        "average": 4.628321
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1563,8 +1563,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/",
       "length": "25 mins",
       "ratings": {
-        "count": 3206,
-        "average": 4.6044917
+        "count": 3208,
+        "average": 4.604738
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1699,8 +1699,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-and-store-container-images/",
       "length": "49 mins",
       "ratings": {
-        "count": 2246,
-        "average": 4.605076
+        "count": 2247,
+        "average": 4.6052513
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1766,49 +1766,6 @@
       "topics": [
         "Azure",
         "Containers"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-aks-optimize-compute-costs.md",
-      "title": "Optimize compute costs on Azure Kubernetes Service (AKS)",
-      "excerpt": "Explore some strategies that you can use on Azure to optimize your cloud-native application development process using Azure Kubernetes Service (AKS).",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aks-optimize-compute-costs/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-optimize-compute-costs/",
-      "length": "PT1H2M",
-      "ratings": {
-        "count": 38,
-        "average": 4.6842103
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/optimize-compute-costs-on-azure-kubernetes-service-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers",
-        "Management Tools"
       ]
     },
     {
@@ -1963,6 +1920,49 @@
         "AI",
         "Compute",
         "Containers"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-aks-optimize-compute-costs.md",
+      "title": "Optimize compute costs on Azure Kubernetes Service (AKS)",
+      "excerpt": "Explore some strategies that you can use on Azure to optimize your cloud-native application development process using Azure Kubernetes Service (AKS).",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aks-optimize-compute-costs/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-optimize-compute-costs/",
+      "length": "PT1H2M",
+      "ratings": {
+        "count": 38,
+        "average": 4.6842103
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/optimize-compute-costs-on-azure-kubernetes-service-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers",
+        "Management Tools"
       ]
     },
     {

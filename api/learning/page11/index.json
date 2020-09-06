@@ -4,91 +4,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-iot-hub.md",
-      "title": "Introduction to Azure IoT Hub",
-      "excerpt": "Assess the characteristics of Azure IoT Hub and determine scenarios when to use IoT Hub.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-iot-hub/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
-      "length": "28 mins",
-      "ratings": {
-        "count": 1191,
-        "average": 4.647355
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-iot-hub-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Introduction to Azure IoT Hub",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "IoT",
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-m365-identity-provisioning.md",
-      "title": "Simplify access and identity provisioning with Microsoft 365",
-      "excerpt": "Learn how to use Microsoft 365 authentication tools for access and identity provisioning.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-identity-provisioning/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-provisioning/",
-      "length": "17 mins",
-      "ratings": {
-        "count": 1289,
-        "average": 4.723041
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/simplify-access-and-identity-provisioning-with-microsoft-365-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Simplify access and identity provisioning with Microsoft 365",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-manage-secrets-with-azure-key-vault.md",
       "title": "Manage secrets in your server apps with Azure Key Vault",
       "excerpt": "Your application requires service passwords, connection strings, and other secret configuration values to do its job. Storing and handling secret values is risky, and every usage introduces the possibility of leakage. Azure Key Vault, in combination with managed identities for Azure resources, enables your Azure web app to access secret configuration values easily and securely without needing to store any secrets in your source control or configuration.",
@@ -96,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
       "length": "46 mins",
       "ratings": {
-        "count": 1399,
-        "average": 4.5818443
+        "count": 1400,
+        "average": 4.582143
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -270,8 +185,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-manage-apis-with-azure-api-management/",
       "length": "38 mins",
       "ratings": {
-        "count": 1067,
-        "average": 4.6626053
+        "count": 1068,
+        "average": 4.6629214
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -357,8 +272,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-relational-data/",
       "length": "PT40M",
       "ratings": {
-        "count": 168,
-        "average": 4.7619047
+        "count": 169,
+        "average": 4.763314
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1011,8 +926,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-custom-domain-name-azure-active-directory/",
       "length": "18 mins",
       "ratings": {
-        "count": 763,
-        "average": 4.661861
+        "count": 764,
+        "average": 4.6623034
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1140,8 +1055,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-and-store-container-images/",
       "length": "49 mins",
       "ratings": {
-        "count": 2246,
-        "average": 4.605076
+        "count": 2247,
+        "average": 4.6052513
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1257,6 +1172,47 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-azure-sql-deploy-configure.md",
+      "title": "Deploy and configure servers, instances, and databases for Azure SQL",
+      "excerpt": "Deploy and configure servers, instances, and databases for Azure SQL",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-sql-deploy-configure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-deploy-configure/",
+      "length": "PT1H14M",
+      "ratings": {
+        "count": 72,
+        "average": 4.6805553
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-sql-deploy-configure-social.png",
+          "width": 642,
+          "height": 324,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-build-and-run-a-web-application-with-the-mean-stack-on-an-azure-linux-vm.md",
       "title": "Build and run a web application with the MEAN stack on an Azure Linux virtual machine",
       "excerpt": "Learn how to set up a MEAN-based web application on a new Azure Linux virtual machine.",
@@ -1342,6 +1298,48 @@
         "Azure",
         "Compute",
         "Storage"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-choose-an-agile-approach.md",
+      "title": "Choose an Agile approach to software development",
+      "excerpt": "Learn to foster the DevOps values of transparency and team cooperation with Azure Boards.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-an-agile-approach/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-an-agile-approach/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 5167,
+        "average": 4.7451134
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/choose-an-agile-approach-to-software-development-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Choose an Agile approach to software development",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "DevOps"
       ]
     },
     {

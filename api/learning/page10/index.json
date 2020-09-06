@@ -4,91 +4,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-manage-device-identity-ad-join.md",
-      "title": "Manage device identity with Azure AD join and Enterprise State Roaming",
-      "excerpt": "Evaluate options to manage device identities in Azure AD. Allow users to join devices in Azure AD. Require devices to be marked as compliant. Enable Enterprise State Roaming.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-device-identity-ad-join/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-device-identity-ad-join/",
-      "length": "PT25M",
-      "ratings": {
-        "count": 759,
-        "average": 4.5704875
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/manage-device-identity-ad-join-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Manage device identity with Azure AD join and Enterprise State Roaming",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-monitor-diagnose-and-troubleshoot-azure-storage.md",
-      "title": "Monitor, diagnose, and troubleshoot your Azure storage",
-      "excerpt": "Discover the tools available to detect and correct problems with your Azure Storage to enable your cloud storage infrastructure to operate at peak performance.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-diagnose-and-troubleshoot-azure-storage/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-diagnose-and-troubleshoot-azure-storage/",
-      "length": "41 mins",
-      "ratings": {
-        "count": 1093,
-        "average": 4.558097
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/monitor-diagnose-and-troubleshoot-azure-storage-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Monitor, diagnose, and troubleshoot your Azure storage",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-monitor-github-events-with-a-function-triggered-by-a-webhook.md",
       "title": "Monitor GitHub events by using a webhook with Azure Functions",
       "excerpt": "Webhooks offer a lightweight mechanism for your app to be notified by another service when something of interest happens. In this module. you'll learn how to trigger an Azure function with a GitHub webhook and parse the payload for insights.",
@@ -610,8 +525,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/assess-your-development-process/",
       "length": "PT19M",
       "ratings": {
-        "count": 6576,
-        "average": 4.705748
+        "count": 6577,
+        "average": 4.705641
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1044,8 +959,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-core-tools/",
       "length": "20 mins",
       "ratings": {
-        "count": 1633,
-        "average": 4.6987143
+        "count": 1635,
+        "average": 4.6990824
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1132,8 +1047,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
       "length": "56 mins",
       "ratings": {
-        "count": 1722,
-        "average": 4.4518003
+        "count": 1723,
+        "average": 4.450958
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1175,8 +1090,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-data-analytics/",
       "length": "PT16M",
       "ratings": {
-        "count": 387,
-        "average": 4.8036175
+        "count": 388,
+        "average": 4.804124
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1260,8 +1175,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-hpc/",
       "length": "50 mins",
       "ratings": {
-        "count": 837,
-        "average": 4.5567503
+        "count": 838,
+        "average": 4.557279
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1293,6 +1208,91 @@
       "topics": [
         "Azure",
         "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-iot-hub.md",
+      "title": "Introduction to Azure IoT Hub",
+      "excerpt": "Assess the characteristics of Azure IoT Hub and determine scenarios when to use IoT Hub.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-iot-hub/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
+      "length": "28 mins",
+      "ratings": {
+        "count": 1191,
+        "average": 4.647355
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-iot-hub-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Introduction to Azure IoT Hub",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "IoT",
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-m365-identity-provisioning.md",
+      "title": "Simplify access and identity provisioning with Microsoft 365",
+      "excerpt": "Learn how to use Microsoft 365 authentication tools for access and identity provisioning.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-identity-provisioning/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-provisioning/",
+      "length": "17 mins",
+      "ratings": {
+        "count": 1289,
+        "average": 4.723041
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/simplify-access-and-identity-provisioning-with-microsoft-365-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Simplify access and identity provisioning with Microsoft 365",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],

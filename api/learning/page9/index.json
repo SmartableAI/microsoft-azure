@@ -4,93 +4,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-import-data-into-asdw-with-polybase.md",
-      "title": "Import data into Azure Synapse Analytics by using PolyBase",
-      "excerpt": "Load petabytes of data into an Azure Synapse Analytics database in minutes by using PolyBase.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-import-data-into-asdw-with-polybase/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/import-data-into-asdw-with-polybase/",
-      "length": "66 mins",
-      "ratings": {
-        "count": 1939,
-        "average": 4.5564723
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/import-data-into-asdw-with-polybase-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Import data into Azure Synapse Analytics by using PolyBase",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-incident-response-with-alerting-on-azure.md",
-      "title": "Improve incident response with alerting on Azure",
-      "excerpt": "Respond to incidents and activities in your infrastructure through alerting capabilities in Azure Monitor.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-incident-response-with-alerting-on-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
-      "length": "53 mins",
-      "ratings": {
-        "count": 1515,
-        "average": 4.6363034
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/incident-response-with-alerting-on-azure-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Improve incident response with alerting on Azure",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-keep-your-virtual-machines-updated.md",
       "title": "Keep your virtual machines updated",
       "excerpt": "Deploy the Azure Update Management solution to update virtual machines in your cloud environment.",
@@ -175,8 +88,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
       "length": "84 mins",
       "ratings": {
-        "count": 653,
-        "average": 4.392037
+        "count": 654,
+        "average": 4.3868504
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -219,8 +132,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-infrastructure-with-site-recovery/",
       "length": "59 mins",
       "ratings": {
-        "count": 693,
-        "average": 4.5194807
+        "count": 694,
+        "average": 4.520173
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -444,6 +357,50 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-add-and-size-disks-in-azure-virtual-machines.md",
+      "title": "Add and size disks in Azure virtual machines",
+      "excerpt": "Understand and create the different types of disk storage available to Azure virtual machines (VMs).",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-add-and-size-disks-in-azure-virtual-machines/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-and-size-disks-in-azure-virtual-machines/",
+      "length": "36 mins",
+      "ratings": {
+        "count": 2067,
+        "average": 4.6627965
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/add-and-size-disks-in-azure-virtual-machines-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Add and size disks in Azure virtual machines",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-analyze-costs-create-budgets-azure-cost-management.md",
       "title": "Analyze costs and create budgets with Azure Cost Management",
       "excerpt": "Learn how to use cost analysis to understand how your costs accrue each month. Use this understanding to create an Azure budget to monitor and alert on your costs.",
@@ -530,47 +487,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-azure-sql-deploy-configure.md",
-      "title": "Deploy and configure servers, instances, and databases for Azure SQL",
-      "excerpt": "Deploy and configure servers, instances, and databases for Azure SQL",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-sql-deploy-configure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-deploy-configure/",
-      "length": "PT1H14M",
-      "ratings": {
-        "count": 71,
-        "average": 4.6901407
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-sql-deploy-configure-social.png",
-          "width": 642,
-          "height": 324,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-azure-sql-intro.md",
       "title": "Introduction to Azure SQL",
       "excerpt": "Introduction to Azure SQL",
@@ -578,8 +494,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-intro/",
       "length": "PT44M",
       "ratings": {
-        "count": 137,
-        "average": 4.70073
+        "count": 138,
+        "average": 4.7028985
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -620,8 +536,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-reliability/",
       "length": "PT59M",
       "ratings": {
-        "count": 363,
-        "average": 4.6997247
+        "count": 364,
+        "average": 4.7005496
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -711,8 +627,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-and-moderate-text-with-azure-content-moderator/",
       "length": "31 mins",
       "ratings": {
-        "count": 1568,
-        "average": 4.6345663
+        "count": 1569,
+        "average": 4.634799
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -798,8 +714,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-security-policies-to-manage-data/",
       "length": "39 mins",
       "ratings": {
-        "count": 1878,
-        "average": 4.5958467
+        "count": 1879,
+        "average": 4.5960617
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -928,8 +844,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
       "length": "25 mins",
       "ratings": {
-        "count": 3926,
-        "average": 4.702496
+        "count": 3928,
+        "average": 4.702393
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1013,8 +929,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/",
       "length": "24 mins",
       "ratings": {
-        "count": 8307,
-        "average": 4.69929
+        "count": 8308,
+        "average": 4.699326
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1097,8 +1013,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/",
       "length": "PT25M",
       "ratings": {
-        "count": 6793,
-        "average": 4.721478
+        "count": 6796,
+        "average": 4.721601
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1130,8 +1046,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/",
       "length": "25 mins",
       "ratings": {
-        "count": 3206,
-        "average": 4.6044917
+        "count": 3208,
+        "average": 4.604738
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1223,8 +1139,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
       "length": "57 mins",
       "ratings": {
-        "count": 2686,
-        "average": 4.607595
+        "count": 2687,
+        "average": 4.607741
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1339,6 +1255,91 @@
       "topics": [
         "Azure",
         "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-device-identity-ad-join.md",
+      "title": "Manage device identity with Azure AD join and Enterprise State Roaming",
+      "excerpt": "Evaluate options to manage device identities in Azure AD. Allow users to join devices in Azure AD. Require devices to be marked as compliant. Enable Enterprise State Roaming.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-device-identity-ad-join/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-device-identity-ad-join/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 760,
+        "average": 4.5710526
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/manage-device-identity-ad-join-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Manage device identity with Azure AD join and Enterprise State Roaming",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-monitor-diagnose-and-troubleshoot-azure-storage.md",
+      "title": "Monitor, diagnose, and troubleshoot your Azure storage",
+      "excerpt": "Discover the tools available to detect and correct problems with your Azure Storage to enable your cloud storage infrastructure to operate at peak performance.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-diagnose-and-troubleshoot-azure-storage/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-diagnose-and-troubleshoot-azure-storage/",
+      "length": "41 mins",
+      "ratings": {
+        "count": 1093,
+        "average": 4.558097
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/monitor-diagnose-and-troubleshoot-azure-storage-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Monitor, diagnose, and troubleshoot your Azure storage",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],
