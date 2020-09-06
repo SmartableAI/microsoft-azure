@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
       "length": "38 mins",
       "ratings": {
-        "count": 61153,
-        "average": 4.708502
+        "count": 61156,
+        "average": 4.7084994
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -101,7 +101,7 @@
           "path": "",
           "title": "Top 5 security items to consider before pushing to production",
           "excerpt": "Secure your web applications on Azure and protect your apps against the most common and dangerous web application attacks.",
-          "heat": 66,
+          "heat": 126,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/top-5-security-items-to-consider-social.png",
@@ -1214,6 +1214,135 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-securely-connect-iot-devices-to-the-cloud.md",
+      "title": "Securely connect IoT devices to the cloud",
+      "excerpt": "Interested in building end to end IoT solutions or about Azure IoT, but aren't quite sure what it can do for you? This path is the place to start.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-securely-connect-iot-devices-to-the-cloud/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-securely-connect-iot-devices-to-the-cloud/",
+      "length": "PT5H29M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Learn how to manage IoT devices as an IT admin",
+          "excerpt": "This module is an introduction to the Internet of Things for IT admins.",
+          "heat": 56,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/manage-your-iot-devices-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Learn how to manage IoT devices as an IT admin",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Automatically provision IoT devices securely and at scale with the Device Provisioning Service",
+          "excerpt": "The focus of this module is on creating a Device Provisioning Service (DPS) to securely handle multiple remote devices. First, you create an IoT Hub, and add the DPS service. Next, an X.509 root certificate, and multiple leaf certificates, are created to handle security. Code for a simulated device is provided. You then link all the pieces together, and verify that your DPS resource works. After completing the module, you should have a good understanding of how to provision Azure IoT devices at scale.",
+          "heat": 111,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/iot/automatically-provision-iot-devices-securely-at-scale-with-dps-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Automatically provision IoT devices securely and at scale with the Device Provisioning Service",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "IoT",
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Identify anomalies by routing data via IoT Hub to a built-in ML model in Azure Stream Analytics",
+          "excerpt": "Learn about Azure IoT Hub message routing, and Stream Analytics anomaly detection. Start by creating an app that simulates issues with conveyor belt vibration. Then, use the Azure portal to route all the data for archiving in blob storage. Finish by routing the vibration data to anomaly detection, using a built-in ML model.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/iot/iot-hub-conveyor-belt-vibration-detection-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Identify anomalies by routing data via IoT Hub to a built-in ML model in Azure Stream Analytics",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "IoT",
+            "Analytics",
+            "Storage",
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Remotely monitor and control devices with Azure IoT Hub",
+          "excerpt": "Create an IoT Hub device app, and a back-end service app. As a scenario, we use the monitoring, and controlling, of the temperature and humidity of a cheese cave.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/iot/remotely-monitor-and-control-devices-with-azure-iot-hub-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Remotely monitor and control devices with Azure IoT Hub",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "IoT",
+            "Azure"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 67,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/manage-your-iot-devices-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Learn how to manage IoT devices as an IT admin",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Management Tools",
+        "Storage",
+        "Databases",
+        "Integration"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-architect-api-integration-in-azure-learning-path.md",
       "title": "Architect API integration in Azure learning path",
       "excerpt": "Learn how to architect API integration in Azure, and provide secure, scalable API access for your applications.",
@@ -1611,8 +1740,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
       "length": "45 mins",
       "ratings": {
-        "count": 2915,
-        "average": 4.5825043
+        "count": 2917,
+        "average": 4.5821047
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1649,135 +1778,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-securely-connect-iot-devices-to-the-cloud.md",
-      "title": "Securely connect IoT devices to the cloud",
-      "excerpt": "Interested in building end to end IoT solutions or about Azure IoT, but aren't quite sure what it can do for you? This path is the place to start.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-securely-connect-iot-devices-to-the-cloud/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-securely-connect-iot-devices-to-the-cloud/",
-      "length": "PT5H29M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Learn how to manage IoT devices as an IT admin",
-          "excerpt": "This module is an introduction to the Internet of Things for IT admins.",
-          "heat": 56,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/manage-your-iot-devices-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Learn how to manage IoT devices as an IT admin",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "IoT"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Automatically provision IoT devices securely and at scale with the Device Provisioning Service",
-          "excerpt": "The focus of this module is on creating a Device Provisioning Service (DPS) to securely handle multiple remote devices. First, you create an IoT Hub, and add the DPS service. Next, an X.509 root certificate, and multiple leaf certificates, are created to handle security. Code for a simulated device is provided. You then link all the pieces together, and verify that your DPS resource works. After completing the module, you should have a good understanding of how to provision Azure IoT devices at scale.",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/iot/automatically-provision-iot-devices-securely-at-scale-with-dps-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Automatically provision IoT devices securely and at scale with the Device Provisioning Service",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "IoT",
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Identify anomalies by routing data via IoT Hub to a built-in ML model in Azure Stream Analytics",
-          "excerpt": "Learn about Azure IoT Hub message routing, and Stream Analytics anomaly detection. Start by creating an app that simulates issues with conveyor belt vibration. Then, use the Azure portal to route all the data for archiving in blob storage. Finish by routing the vibration data to anomaly detection, using a built-in ML model.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/iot/iot-hub-conveyor-belt-vibration-detection-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Identify anomalies by routing data via IoT Hub to a built-in ML model in Azure Stream Analytics",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "IoT",
-            "Analytics",
-            "Storage",
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Remotely monitor and control devices with Azure IoT Hub",
-          "excerpt": "Create an IoT Hub device app, and a back-end service app. As a scenario, we use the monitoring, and controlling, of the temperature and humidity of a cheese cave.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/iot/remotely-monitor-and-control-devices-with-azure-iot-hub-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Remotely monitor and control devices with Azure IoT Hub",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "IoT",
-            "Azure"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/manage-your-iot-devices-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Learn how to manage IoT devices as an IT admin",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Management Tools",
-        "Storage",
-        "Databases",
-        "Integration"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-build-serverless-api-with-functions-api-management.md",
       "title": "Expose multiple Azure Function apps as a consistent API by using Azure API Management",
       "excerpt": "Combine multiple Azure Functions apps into a unified interface by importing them into a single Azure API Management instance.",
@@ -1785,8 +1785,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/",
       "length": "41 mins",
       "ratings": {
-        "count": 963,
-        "average": 4.586708
+        "count": 964,
+        "average": 4.5871367
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1877,8 +1877,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
       "length": "55 mins",
       "ratings": {
-        "count": 1399,
-        "average": 4.6440315
+        "count": 1400,
+        "average": 4.6442857
       },
       "provider": {
         "name": "Microsoft Learn",

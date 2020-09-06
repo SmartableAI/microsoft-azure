@@ -4,51 +4,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-execute-azure-function-with-triggers.md",
-      "title": "Execute an Azure Function with triggers",
-      "excerpt": "A trigger is responsible for executing an Azure function and there are dozens of triggers to choose from. This module will you show you some of the most common types of triggers and how to configure them to execute your logic.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-execute-azure-function-with-triggers/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
-      "length": "83 mins",
-      "ratings": {
-        "count": 3202,
-        "average": 4.699875
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/execute-azure-function-with-triggers-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Execute an Azure Function with triggers",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-explore-concepts-of-data-analytics.md",
       "title": "Explore concepts of data analytics",
       "excerpt": "Learn how to ingest raw data into a data analytics system, and use this data to create analytical models that enable a business to gain meaningful insights into their operations.",
@@ -56,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-data-analytics/",
       "length": "PT16M",
       "ratings": {
-        "count": 381,
-        "average": 4.805774
+        "count": 382,
+        "average": 4.8036647
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -992,8 +947,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/app-and-infra-migration-and-modernization/",
       "length": "43 mins",
       "ratings": {
-        "count": 5186,
-        "average": 4.747397
+        "count": 5187,
+        "average": 4.747253
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1329,6 +1284,54 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "AI",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-classify-user-feedback-with-the-text-analytics-api.md",
+      "title": "Discover sentiment in text with the Text Analytics API",
+      "excerpt": "Learn what your customers are really saying about your product or brand when they send feedback. We'll create a solution that uses Azure Functions and the intelligence of the Text Analytics API to discover sentiment in text messages.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-classify-user-feedback-with-the-text-analytics-api/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
+      "length": "48 mins",
+      "ratings": {
+        "count": 1323,
+        "average": 4.615268
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/classify-user-feedback-with-the-text-analytics-api-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Discover sentiment in text with the Text Analytics API",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Compute",
+        "Serverless",
+        "Storage",
         "AI",
         "Management Tools"
       ]
