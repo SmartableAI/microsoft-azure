@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 44 mins
 ratings:
-  count: 1775
-  average: 4.622535
+  count: 1776
+  average: 4.6221848
 heat: 51
 
 provider:
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Create an Azure Database for PostgreSQL server"
 
-secured: "MgfukfgwM5CfIFpZbOrVO48NRSMVUAzXV/jhYaLE0xJ4+yVgE4a+KjpGgqoaJsx/ZxtLGiOmarnjuW6EbxJRuBZeHJqdaWV2UT5iO+Ewtga6+x13PiuGDfqQLUl4xol/F/DM/ZnI2Hg3TnnM7gLaMX9/N1CAR+X/cV43lIdYt5OwTbxms8Jg0n7O+4m2PeW0lXwEP4gVMjZ8E5qEeKF8qCfxEqOZXfv/RCMO1Y+fj7vzcpFLEDfZqFTuz8FY+glGt/iJOp9oKH5XmRJ5H5LVOPs162ooojz1HTY7n5+PBk35uT8wtdUJV/q+AA07SVfcZFULKev/tQlmu74wxyszMRYKlA/SgSey0KzMKgQP67KPAAnJ7IZu4QTefWcjjIJ9XJ51IaO3H2vNip3Rpi7bKc5CeT+irtEE0GgzcuMN3qM=;LqyDZJhMYVPSRXw7h1wgpA=="
+secured: "K124YbIb7Zqkee9Jm78iL0v/tLQxOVgBuMb4cEIZ3G++Bl3E8OTDpLpWdVWcyCHP8vAHrjo3iQggE5F6az0nVtR6+XFKB/KtxevlTQJC4pvgYJ8jmuo4G5281lB64pfXup83E1zEBVKIpzndXeVmOZ0+KHNEjH0lBv1Iea1og/aslq6FAkXok14YtFKKd9LDTWZEzg45wNGatUtuBh77sbimuy3edFvIQU1pilBfRIudTjK2DHJvSd9KQ+KVEXMTf3rA5vDmDX7tfSOV2PKzZ9ukkAqwpQ6HMyW1L14KumpYPAna0UCf4QqqNDCfrbVu7H9DWnmv4RPiDKf/jHPSFkqvURdhGVKHvgVoKkK0aWwOEYVlC69H1I4hwbYbnX0EgGKep0oCXVVA7aNQhSjwXVY990Is0gK8AZ6QpRDiOCA=;MotZa7wPyrrtNQhcY26wGQ=="
 ---
 
