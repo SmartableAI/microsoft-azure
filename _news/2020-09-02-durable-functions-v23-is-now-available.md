@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/durable-functions-v23-is
 webUrl: "https://azure.microsoft.com/en-us/updates/durable-functions-v23-is-now-available/"
 type: article
 quality: 52
-heat: 72
+heat: 73
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/improvements-to-azure-mo
 webUrl: "https://azure.microsoft.com/en-us/updates/improvements-to-azure-monitor-metric-alerts/"
 type: article
 quality: 67
-heat: 87
+heat: 88
 published: true
 
 provider:
