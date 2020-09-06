@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/asc-august2020/"
 webUrl: "https://azure.microsoft.com/en-us/updates/asc-august2020/"
 type: article
 quality: 67
-heat: 107
+heat: 108
 published: true
 
 provider:
