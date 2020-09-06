@@ -8,7 +8,7 @@ length: 48 mins
 ratings:
   count: 2310
   average: 4.622944
-heat: 56
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Run Docker containers with Azure Container Instances"
 
-secured: "NNiy+GEWY2lE0SE8YlmPugAWUBqLURpfy5UNGVKJ6f1gtTT8wT4XRJRDKLTgBviVHx7e5s0GiKv5q7pw+bkqf7yTDNOyKIFJU7zEXSkNcZmk6+7qcoF1neX7wm0fHjny6TVkrUvRZIk11LrJED5wyEOkBWHUv5tcEfwuPZ5w7hxIsC3OpQe1LuLALfXhFi7nsz5Z8tz/wE/VEL5J5I4LrWw1SBclVvtBvWaw345WO78JgCJEnJay6J2kstMHgTN4Gw3Bd0CL1KfcHTytK1+YgK+5Ct5uSxF6HqZ53AO7s7pvcHN00A0cg3L5aHnFAFSowjD2hVk/Jwnf/8ADzWwF4c6Xt0OHtUgFqxADtMZKopHLhy2V067a4m+s6NIdQz/++4NdhfpY/FeyVg3q/95jf1qn2mE/E9y9UzQfDjlu96g=;ZFztXtetqZMDYdAgUOpD/g=="
+secured: "StQPv1Dk/sr+/QT+u9nlWYvmB9ERCC70WzL2/JEIp1FEEmugnAbKF9lcp2pL5OOAqoxr4fsagG2r1iQLTpxjbJGOYHS0zrExne9lk185yvCP1LI6SsqJIWwkSVgAsxdd6W2bHNW97mZ4vsLQUbNg5L9ENX2x9TAtnVMQ/jO3VNehfQGYbszV6naPBRjjdg3upSanWkuCy6KflDJYm23gGa1jun7HlfK8a0KDIyYiFNtpozQp2d2ExIrEY6nPqACAhpZWxsAgs5VlFn8k7kSNlRK86c23bV1ymYeDjqv3pCwROcoVThwJRLJKpPeOTceMSsrDD0l5CTx2Q4QYL57YktgbAHnRG68KUI54sOwKPUq2y757iFkoQxqvS7qupZi+YAjYPsW4PJlhlGZrjA3y+WpO2hLkXCAF9bNGW54oQJY=;5or34/q/fXgEwQ1XazqmNQ=="
 ---
 
