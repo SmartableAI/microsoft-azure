@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 36 mins
 ratings:
-  count: 1083
-  average: 4.6500463
-heat: 55
+  count: 1084
+  average: 4.650369
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Centralize your core services by using hub and spoke Azure virtual network architecture"
 
-secured: "8jl5wR1hBzEPRHxSiWY5C0sV7h+GsP4orM46WmxgdQedI2tZinpaI2OYhpLtNddjIOSIA12MciG6IAZuAiASxq0H8+qUkObdQ9j41fqcLOgyedMaZUIiQMRRhuFzerk2G3mVPh+D0DOiCVKhY96MSCVBWZDFGGoAy15viVO8xg02DTvhu7A6sNg91KDsv28mhfzxbmwFGucTcqDih6HGQBMSHH4djVXgZ2EFGCVYMv2if7Db6YwiPizTlK8UOsKp1RDwNsxwfmaYzZATwPXYHV1Qp5zbygZyy9UBzlsuBTlhy/dNF2KU/9fVOM+gcYCbnW8lhgTuGoaBs4cSYYMyiCLK07CRwVBbL0ZgeWDGp9p0lqofeUtCCGaw12e9ZUxaC7dQmmLQAeGFyUsEh+Mf/AtXh8wOGJYHveKW4AWnH34=;LFplYjgbCAz1KshPsESaRA=="
+secured: "DhKMV34CzidXGdvH6tBoG3DH0fCpWEUnl6px0sh81SH1c0egGt6czXNqZyeMbvwWFNWMEuwvL/2LowOqOQ1SA6bM1wf2dzrbgCRwqikqv6Uqzh4wdCOvi1LKK8TjrDi+2mnJRt3NFRLHzE/rQ10TAH0LCOTXceK8AxQdkAKP8hO/cgsiJkxVdPvi/pjEhlJk+p1rjccwXFWWoLj24c3z7geyjqh7Fe0e+gDXE9i7bQyBKGtUwsvPlAy/y+OF4zLauIvLy7acDmlSrQeuMy7JH8LqKt4S/4/xZHBgzGOFnS8/wfpwTv5o3YSThINyUskY31SyKryKyNWaIoKxQqONeTNKNQckY0gvYTZlzwYubvRdRyBDnhSxltD3DusYT4qDKeudj9VAPp6ThHgICXKaIL+56ET/rSWeyAp1bm1tpkY=;LSjTgYpqTE5kiu7pLZudfA=="
 ---
 

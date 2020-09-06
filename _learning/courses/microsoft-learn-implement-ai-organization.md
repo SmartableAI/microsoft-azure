@@ -8,7 +8,7 @@ length: PT41M
 ratings:
   count: 21
   average: 4.857143
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Implement AI in your organization"
 
-secured: "Ra74jeEO2JMCc1b3j5C6XYP4GnztqSEJqzOweAbewEhsCQl/mcC5furSOGT5MbmuZKl4hTvfwTYGkUCyDrDBK2a5BtiOPe4baKkBGfmPDc5JyOXjuFS84Emk9Uh9TvqWrOjNmA+PwVzuVO9VxaIjYjbwuHL2EArF7PqzDGnfioqQ2b6Q7t0l3Vl5rZgjgSK9juJ0QTNopleSlpk2Oc9aYULTySjSPvnwfIg8LtyO0VztlRTur8H7U/fuyvRpzWrydbjGi9ggfKCIYCIeByhlkoYjI6AQT053VM2jlHHxI90/lN1QVw7MCXp5J87BFb14N74Fuoms1Qd0Q11W8k5OUgxdof5MXKlE2bOwfRgvqBh8h9APMavxYXOGFEG7zGSpka53KAv3Xr29wyPIqHohR6Xut06ENZYVhxZoIXz59nY=;ScAiVq8bb4MsjyAzLRds0w=="
+secured: "FjJTLsCS2EuZIX6tyazxSKTegdju6Pr4zU3hnTAfFvsqNte0ubr36yXmFiQAYsjbuhoNIy0Qvt68stzc6qlyzWfi31ARypr+XxYEgGF2bCpEsqAF4Ie07ExkIFfbvmPA9a5TrYJmcfHBt8kjXbw5ro/4uovY3Vh2uCh+PP2X4kDkkwKZkU8Auy/W6eeoAqq7DkI+9rVoa3NjV4bHDx34Sw68Y6o1QK3oPT8aIjoB/1ej8Kd+cKE9Um4gKkdCEfvx3Zr9hBW7zwvlOPkswyjQTv80JnnOV11FbhKmteOCNoZ32nGncScwxUT/E9hNHtZmU5eygO7XHXITNz/XWNqFCufpGCqqPS4vP9ipYypiyPZv/wWwp+9R1E2J5V0t0VuskPxVxOvBVlyHtbt9f/BLfP/dULu1Mzm21vF2tCjejTE=;b6wYaU8YVTX25tocZxrGQg=="
 ---
 

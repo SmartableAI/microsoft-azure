@@ -8,7 +8,7 @@ length: 44 mins
 ratings:
   count: 5
   average: 4.4
-heat: 50
+heat: 110
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Serverless
   - Azure
 
-secured: "f6H2ZtFAX7jSc6ak06Q9obNlEvYqsHHdST6TTUpeA41VMgU4hGFZfYtDNwGl3bmrmb5dnT9nfFTiRgdzfbTsqy7g0w0Q5D7URqFX54cAD/e9UFQZ8aa1aQtXkHjhufM4xeDtwc48dNkNtJOf/x3bBhG8hsfPvk649/hvO3XtUZlJNEE7ezfmLh8RvHNxD5OlkZy4cRITpoM7GwbqrUfYpgyG+RiF805ZfDBJ9i0ScZoiaMbEAySPOgjz73EkADbB1CucdyooS1621kTJTZW7UwJ0DJQdFNxz4uMfKR9DoB0VO3MV5zpsx6So+E8LSq677OIo/ItOBoi3idnAMAz5QtPLJoKTpYpPK8opCZrxwqc3d9mAC1NbHhRNS63BbqO47ea4x+XrnatZZfKM2xGEhNHN6DcZjghcGNEppz9PTEo=;A5tfXnbz0UtUaGeXSx4RGQ=="
+secured: "ubZwOc3AU4s2rQfgVjhM+HC27o7BoU/eOqcBfgV52uU335l+ZzzzJNkfK9F+2yZ/iPcI3EdWuWL8Y48CXJ5bA8Q5Sl/N+oekrs5PWBMdBLH9RobA3PVljLdGoFKdVlHkIlCF3xwKT8qdVKL8ipYd/4FDOoPQUa5c0qY72z8Nv9rfb6e3NQnFy/gYiCYIYDXAMAGAo4LnwtSpkUVFlj8J1dD4WIUx9nNvzhIvKXxBKMWf7WbHbMeq3lIvTzGr2hUMOh+TMqLQT2oZ1AeqYIOspX+VufTMsz8QYTgEVOspWwv14MgTlyo50G+VZwfZtZzikx2g1bPtyzMM+52DZj9EbSqOI7vbJkD1p5t9pujzN4PlZ9SqgDw+ZrUW4DCsg91v1WFRARrSGZ58Oa+YDup0eniAhnvprFviKpPx0DkEI54=;LOzcKIeM7GRCNapznM4L6Q=="
 ---
 
