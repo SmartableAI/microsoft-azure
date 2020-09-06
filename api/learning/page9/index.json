@@ -4,50 +4,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-keep-your-virtual-machines-updated.md",
-      "title": "Keep your virtual machines updated",
-      "excerpt": "Deploy the Azure Update Management solution to update virtual machines in your cloud environment.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-keep-your-virtual-machines-updated/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/keep-your-virtual-machines-updated/",
-      "length": "35 mins",
-      "ratings": {
-        "count": 2608,
-        "average": 4.489264
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/keep-your-virtual-machines-updated-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Keep your virtual machines updated",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-manage-delivery-plans.md",
       "title": "Manage Agile software delivery plans across teams",
       "excerpt": "Learn to optimize delivery efficiency by improving work plan visibility across teams.",
@@ -55,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-delivery-plans/",
       "length": "PT33M",
       "ratings": {
-        "count": 2002,
-        "average": 4.7202797
+        "count": 2003,
+        "average": 4.719421
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -218,8 +174,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/survey-the-azure-data-platform/",
       "length": "58 mins",
       "ratings": {
-        "count": 4118,
-        "average": 4.6860127
+        "count": 4120,
+        "average": 4.686165
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -536,8 +492,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-reliability/",
       "length": "PT59M",
       "ratings": {
-        "count": 364,
-        "average": 4.7005496
+        "count": 365,
+        "average": 4.6986303
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -714,8 +670,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-security-policies-to-manage-data/",
       "length": "39 mins",
       "ratings": {
-        "count": 1879,
-        "average": 4.5960617
+        "count": 1880,
+        "average": 4.5957446
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -756,8 +712,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
       "length": "55 mins",
       "ratings": {
-        "count": 1403,
-        "average": 4.6443334
+        "count": 1404,
+        "average": 4.6438746
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -844,8 +800,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
       "length": "25 mins",
       "ratings": {
-        "count": 3928,
-        "average": 4.702393
+        "count": 3929,
+        "average": 4.702469
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1046,8 +1002,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/",
       "length": "25 mins",
       "ratings": {
-        "count": 3209,
-        "average": 4.60455
+        "count": 3210,
+        "average": 4.6043615
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1139,8 +1095,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
       "length": "57 mins",
       "ratings": {
-        "count": 2688,
-        "average": 4.607887
+        "count": 2690,
+        "average": 4.6081786
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1308,8 +1264,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-diagnose-and-troubleshoot-azure-storage/",
       "length": "41 mins",
       "ratings": {
-        "count": 1094,
-        "average": 4.558501
+        "count": 1095,
+        "average": 4.557991
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1340,6 +1296,50 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-monitor-github-events-with-a-function-triggered-by-a-webhook.md",
+      "title": "Monitor GitHub events by using a webhook with Azure Functions",
+      "excerpt": "Webhooks offer a lightweight mechanism for your app to be notified by another service when something of interest happens. In this module. you'll learn how to trigger an Azure function with a GitHub webhook and parse the payload for insights.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-github-events-with-a-function-triggered-by-a-webhook/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-github-events-with-a-function-triggered-by-a-webhook/",
+      "length": "53 mins",
+      "ratings": {
+        "count": 1547,
+        "average": 4.6276665
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/monitor-github-events-with-a-function-triggered-by-a-webhook-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Monitor GitHub events by using a webhook with Azure Functions",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless"
       ]
     }
   ],

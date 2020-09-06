@@ -257,8 +257,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/",
       "length": "62 mins",
       "ratings": {
-        "count": 161195,
-        "average": 4.7718973
+        "count": 161205,
+        "average": 4.7719054
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -300,8 +300,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
       "length": "39 mins",
       "ratings": {
-        "count": 128747,
-        "average": 4.6957054
+        "count": 128753,
+        "average": 4.695704
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -336,15 +336,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-manage-iot-devices.md",
-      "title": "Learn how to manage IoT devices as an IT admin",
-      "excerpt": "This module is an introduction to the Internet of Things for IT admins.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-iot-devices/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
-      "length": "44 mins",
+      "path": "_learning/courses/microsoft-learn-create-release-pipeline.md",
+      "title": "Create a release pipeline in Azure Pipelines",
+      "excerpt": "Set up a continuous delivery (CD) pipeline that automates the process of deploying your application.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-release-pipeline/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-release-pipeline/",
+      "length": "64 mins",
       "ratings": {
-        "count": 848,
-        "average": 4.6780663
+        "count": 937,
+        "average": 4.6755605
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -361,13 +361,13 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 111,
+      "heat": 112,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/manage-your-iot-devices-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Learn how to manage IoT devices as an IT admin",
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-release-pipeline-with-azure-pipelines-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Create a release pipeline in Azure Pipelines",
           "isCached": true
         }
       ],
@@ -375,19 +375,19 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "IoT"
+        "DevOps"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-work-with-mlflow-azure-databricks.md",
-      "title": "Work with MLflow in Azure Databricks",
-      "excerpt": "Use MLflow to track machine learning experiments. Each experiment run can record parameters, metrics, artifacts, source code, and model.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-with-mlflow-azure-databricks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-mlflow-azure-databricks/",
-      "length": "PT33M",
+      "path": "_learning/courses/microsoft-learn-create-your-first-iot-central-app.md",
+      "title": "Create your first Azure IoT Central app",
+      "excerpt": "This module builds an IoT Central app to monitor and command a refrigerated truck. The first unit creates the app, the second unit defines a device template for a refrigerated truck. Then, create a programming project, add code to simulate a truck, and communicate with your IoT Central app. The truck is monitored through a custom dashboard.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-your-first-iot-central-app/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-your-first-iot-central-app/",
+      "length": "87 mins",
       "ratings": {
-        "count": 19,
-        "average": 4.6842103
+        "count": 534,
+        "average": 4.593633
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -402,24 +402,25 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
-      "heat": 110,
+      "heat": 112,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/work-with-mlflow-azure-databricks-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Work with MLflow in Azure Databricks",
+          "url": "https://docs.microsoft.com/learn/achievements/iot/iot-central-refrigerated-truck-module-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Create your first Azure IoT Central app",
           "isCached": true
         }
       ],
       "type": "course",
       "price": "Free",
       "topics": [
+        "IoT",
         "Azure",
-        "Analytics",
-        "AI"
+        "Mobile",
+        "Web"
       ]
     },
     {
@@ -430,8 +431,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
       "length": "38 mins",
       "ratings": {
-        "count": 61212,
-        "average": 4.708554
+        "count": 61214,
+        "average": 4.7085633
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -727,8 +728,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/",
       "length": "45 mins",
       "ratings": {
-        "count": 65093,
-        "average": 4.7124267
+        "count": 65101,
+        "average": 4.7124467
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -769,8 +770,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-data-in-azure/",
       "length": "25 mins",
       "ratings": {
-        "count": 53200,
-        "average": 4.7331014
+        "count": 53207,
+        "average": 4.733118
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -813,8 +814,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-python-nasa/",
       "length": "PT23M",
       "ratings": {
-        "count": 179,
-        "average": 4.7486033
+        "count": 188,
+        "average": 4.75
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -854,8 +855,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/",
       "length": "73 mins",
       "ratings": {
-        "count": 48850,
-        "average": 4.706694
+        "count": 48854,
+        "average": 4.706718
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -897,8 +898,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/",
       "length": "36 mins",
       "ratings": {
-        "count": 64455,
-        "average": 4.79969
+        "count": 64459,
+        "average": 4.799702
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1192,8 +1193,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
       "length": "46 mins",
       "ratings": {
-        "count": 36792,
-        "average": 4.628506
+        "count": 36794,
+        "average": 4.628472
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1399,7 +1400,7 @@
           "path": "",
           "title": "Introduction to Linux on Azure",
           "excerpt": "Discover the unique benefits of running Linux on Azure and how to run Linux-based applications and workloads in the cloud with Azure.",
-          "heat": 62,
+          "heat": 53,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-linux-social.png",
@@ -1606,8 +1607,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-networking/",
       "length": "28 mins",
       "ratings": {
-        "count": 42064,
-        "average": 4.76405
+        "count": 42067,
+        "average": 4.7640667
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1649,8 +1650,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
       "length": "76 mins",
       "ratings": {
-        "count": 42950,
-        "average": 4.702235
+        "count": 42953,
+        "average": 4.702233
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1692,8 +1693,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimize-spending/",
       "length": "74 mins",
       "ratings": {
-        "count": 39009,
-        "average": 4.7142196
+        "count": 39010,
+        "average": 4.714227
       },
       "provider": {
         "name": "Microsoft Learn",
