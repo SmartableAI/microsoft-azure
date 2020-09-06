@@ -4,6 +4,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-intro-to-iot-hub.md",
+      "title": "Introduction to Azure IoT Hub",
+      "excerpt": "Assess the characteristics of Azure IoT Hub and determine scenarios when to use IoT Hub.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-iot-hub/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
+      "length": "28 mins",
+      "ratings": {
+        "count": 1191,
+        "average": 4.647355
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-iot-hub-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Introduction to Azure IoT Hub",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "IoT",
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-m365-identity-provisioning.md",
       "title": "Simplify access and identity provisioning with Microsoft 365",
       "excerpt": "Learn how to use Microsoft 365 authentication tools for access and identity provisioning.",
@@ -183,8 +226,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
       "length": "50 mins",
       "ratings": {
-        "count": 4506,
-        "average": 4.6493564
+        "count": 4507,
+        "average": 4.6492124
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1011,8 +1054,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-images-computer-vision/",
       "length": "28 mins",
       "ratings": {
-        "count": 217,
-        "average": 4.769585
+        "count": 218,
+        "average": 4.7706423
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1221,8 +1264,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/",
       "length": "42 mins",
       "ratings": {
-        "count": 1660,
-        "average": 4.5686746
+        "count": 1661,
+        "average": 4.5689344
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1425,50 +1468,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-and-publish-a-luis-model.md",
-      "title": "Add conversational intelligence to your apps by using Language Understanding Intelligent Service (LUIS)",
-      "excerpt": "Introduction to adding conversational intelligence to your apps by using language understanding (LUIS)",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-and-publish-a-luis-model/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-and-publish-a-luis-model/",
-      "length": "54 mins",
-      "ratings": {
-        "count": 1452,
-        "average": 4.652204
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/create-and-publish-a-luis-model-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Add conversational intelligence to your apps by using Language Understanding Intelligent Service (LUIS)",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI",
-        "Developer Tools"
       ]
     }
   ],

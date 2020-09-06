@@ -4,6 +4,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-manage-device-identity-ad-join.md",
+      "title": "Manage device identity with Azure AD join and Enterprise State Roaming",
+      "excerpt": "Evaluate options to manage device identities in Azure AD. Allow users to join devices in Azure AD. Require devices to be marked as compliant. Enable Enterprise State Roaming.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-device-identity-ad-join/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-device-identity-ad-join/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 759,
+        "average": 4.5704875
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/manage-device-identity-ad-join-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Manage device identity with Azure AD join and Enterprise State Roaming",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-monitor-diagnose-and-troubleshoot-azure-storage.md",
       "title": "Monitor, diagnose, and troubleshoot your Azure storage",
       "excerpt": "Discover the tools available to detect and correct problems with your Azure Storage to enable your cloud storage infrastructure to operate at peak performance.",
@@ -11,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-diagnose-and-troubleshoot-azure-storage/",
       "length": "41 mins",
       "ratings": {
-        "count": 1092,
-        "average": 4.5576925
+        "count": 1093,
+        "average": 4.558097
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -267,8 +310,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-app-data-with-azure-blob-storage/",
       "length": "50 mins",
       "ratings": {
-        "count": 2685,
-        "average": 4.576536
+        "count": 2686,
+        "average": 4.5763216
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -310,8 +353,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-data-to-azure-data-lake-storage/",
       "length": "50 mins",
       "ratings": {
-        "count": 1535,
-        "average": 4.6006513
+        "count": 1536,
+        "average": 4.6009116
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -959,8 +1002,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/define-foundation-pillars/",
       "length": "16 mins",
       "ratings": {
-        "count": 519,
-        "average": 4.701349
+        "count": 520,
+        "average": 4.7
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1132,8 +1175,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-data-analytics/",
       "length": "PT16M",
       "ratings": {
-        "count": 384,
-        "average": 4.8046875
+        "count": 387,
+        "average": 4.8036175
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1250,49 +1293,6 @@
       "topics": [
         "Azure",
         "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-iot-hub.md",
-      "title": "Introduction to Azure IoT Hub",
-      "excerpt": "Assess the characteristics of Azure IoT Hub and determine scenarios when to use IoT Hub.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-iot-hub/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
-      "length": "28 mins",
-      "ratings": {
-        "count": 1191,
-        "average": 4.647355
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-iot-hub-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Introduction to Azure IoT Hub",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "IoT",
-        "Azure"
       ]
     }
   ],

@@ -4,258 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-architect-storage-infrastructure-in-azure.md",
-      "title": "Architect storage infrastructure in Azure",
-      "excerpt": "Learn how to architect storage solutions for your applications in Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-architect-storage-infrastructure-in-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-architect-storage-infrastructure-in-azure/",
-      "length": "PT6H7M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Choose a data storage approach in Azure",
-          "excerpt": "Learn how using Azure Storage, Azure SQL Database, and Azure Cosmos DB - or a combination of them - for your business scenario is the best way to get the most performant solution.",
-          "heat": 68,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/choose-storage-approach-in-azure-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Choose a data storage approach in Azure",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Storage",
-            "Databases"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Create an Azure Storage account",
-          "excerpt": "Create an Azure Storage account with the correct options for your business needs.",
-          "heat": 65,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/create-azure-storage-account-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Create an Azure Storage account",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Storage",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Upload, download, and manage data with Azure Storage Explorer",
-          "excerpt": "Azure Storage Explorer allows you to quickly view all the storage services under your account. You can browse through, read, and edit data stored in those services through a user-friendly graphical interface.",
-          "heat": 57,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/upload-download-and-manage-data-with-azure-storage-explorer-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Upload, download, and manage data with Azure Storage Explorer",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Storage",
-            "Databases"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Connect an app to Azure Storage",
-          "excerpt": "Create a simple application and add configuration, client library references, and code to connect it to Azure Storage.",
-          "heat": 56,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/connect-an-app-to-azure-storage-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Connect an app to Azure Storage",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Storage",
-            "Management Tools"
-          ]
-        }
-      ],
-      "size": 9,
-      "heat": 78,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/choose-storage-approach-in-azure-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Choose a data storage approach in Azure",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-store-data-in-azure-learning-path.md",
-      "title": "Store data in Azure learning path",
-      "excerpt": "This learning path gets you started with the basics of storage management in Azure, Storage Account creation, and choices for data storage.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-store-data-in-azure-learning-path/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-store-data-in-azure-learning-path/",
-      "length": "PT3H50M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Choose a data storage approach in Azure",
-          "excerpt": "Learn how using Azure Storage, Azure SQL Database, and Azure Cosmos DB - or a combination of them - for your business scenario is the best way to get the most performant solution.",
-          "heat": 68,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/choose-storage-approach-in-azure-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Choose a data storage approach in Azure",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Storage",
-            "Databases"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Create an Azure Storage account",
-          "excerpt": "Create an Azure Storage account with the correct options for your business needs.",
-          "heat": 65,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/create-azure-storage-account-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Create an Azure Storage account",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Storage",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Connect an app to Azure Storage",
-          "excerpt": "Create a simple application and add configuration, client library references, and code to connect it to Azure Storage.",
-          "heat": 56,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/connect-an-app-to-azure-storage-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Connect an app to Azure Storage",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Storage",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Secure your Azure Storage account",
-          "excerpt": "Learn how Azure Storage provides multilayered security to protect your data. Find out how to use access keys, to secure networks, and to use Advanced Threat Protection to proactively monitor your system.",
-          "heat": 59,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/data-ai/secure-azure-storage-account-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Secure your Azure Storage account",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Storage"
-          ]
-        }
-      ],
-      "size": 5,
-      "heat": 78,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/choose-storage-approach-in-azure-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Choose a data storage approach in Azure",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-store-data-in-azure.md",
       "title": "Store data in Azure",
       "excerpt": "Azure provides a variety of ways to store data: unstructured, archival, relational, and more. Learn the basics of storage management in Azure, how to create a Storage Account, and how to choose the right model for the data you want to store in the cloud.",
@@ -389,8 +137,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
       "length": "46 mins",
       "ratings": {
-        "count": 37111,
-        "average": 4.7122145
+        "count": 37115,
+        "average": 4.7122188
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -944,8 +692,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-devops-continuous-planning-intergration/",
       "length": "22 mins",
       "ratings": {
-        "count": 686,
-        "average": 4.664723
+        "count": 687,
+        "average": 4.665211
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -986,8 +734,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
       "length": "67 mins",
       "ratings": {
-        "count": 13635,
-        "average": 4.684635
+        "count": 13640,
+        "average": 4.6845307
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3361,6 +3109,254 @@
       "topics": [
         "Azure",
         "AI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-deploy-a-website-to-azure-with-azure-app-service-learning-path.md",
+      "title": "Deploy a website to Azure with Azure App Service learning path",
+      "excerpt": "In this learning path, get acquainted with using Azure App Service to create and deploy your website without underlying servers, storage or network assets.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-deploy-a-website-to-azure-with-azure-app-service-learning-path/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-deploy-a-website-to-azure-with-azure-app-service-learning-path/",
+      "length": "PT4H30M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Prepare your development environment for Azure development",
+          "excerpt": "Set up your local development environment with several popular IDEs.",
+          "heat": 58,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/prepare-your-dev-environment-for-azure-development-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Prepare your development environment for Azure development",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Developer Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Host a web application with Azure App service",
+          "excerpt": "Azure App Service enables you to build and host web applications in the programming language of your choice without managing infrastructure. Learn how to create a website through the hosted web app platform in Azure App Service.",
+          "heat": 58,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/host-a-web-app-with-azure-app-service-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Host a web application with Azure App service",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Web",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Publish a web app to Azure with Visual Studio",
+          "excerpt": "Use the publishing features of Visual Studio 2017 to deploy and manage an ASP.NET Core web application hosted on Azure.",
+          "heat": 57,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/publish-azure-web-app-with-visual-studio-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Publish a web app to Azure with Visual Studio",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Stage a web app deployment for testing and rollback by using App Service deployment slots",
+          "excerpt": "Use deployment slots to streamline deployment and roll back a web app in Azure App Service.",
+          "heat": 56,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/stage-deploy-app-service-deployment-slots-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Stage a web app deployment for testing and rollback by using App Service deployment slots",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 69,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/prepare-your-dev-environment-for-azure-development-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Prepare your development environment for Azure development",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-deploy-a-website-to-azure-with-azure-app-service.md",
+      "title": "Deploy a website to Azure with Azure App Service",
+      "excerpt": "Web apps in Azure allow you to publish and manage your website easily without having to work with the underlying servers, storage, or network assets. Instead, you can focus on your website features and rely on the robust Azure platform to provide secure access to your site.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-deploy-a-website-to-azure-with-azure-app-service/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-deploy-a-website-to-azure-with-azure-app-service/",
+      "length": "PT4H30M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Prepare your development environment for Azure development",
+          "excerpt": "Set up your local development environment with several popular IDEs.",
+          "heat": 58,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/prepare-your-dev-environment-for-azure-development-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Prepare your development environment for Azure development",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Developer Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Host a web application with Azure App service",
+          "excerpt": "Azure App Service enables you to build and host web applications in the programming language of your choice without managing infrastructure. Learn how to create a website through the hosted web app platform in Azure App Service.",
+          "heat": 58,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/host-a-web-app-with-azure-app-service-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Host a web application with Azure App service",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Web",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Publish a web app to Azure with Visual Studio",
+          "excerpt": "Use the publishing features of Visual Studio 2017 to deploy and manage an ASP.NET Core web application hosted on Azure.",
+          "heat": 57,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/publish-azure-web-app-with-visual-studio-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Publish a web app to Azure with Visual Studio",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Stage a web app deployment for testing and rollback by using App Service deployment slots",
+          "excerpt": "Use deployment slots to streamline deployment and roll back a web app in Azure App Service.",
+          "heat": 56,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/stage-deploy-app-service-deployment-slots-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Stage a web app deployment for testing and rollback by using App Service deployment slots",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 69,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/prepare-your-dev-environment-for-azure-development-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Prepare your development environment for Azure development",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web",
+        "Management Tools"
       ]
     }
   ],

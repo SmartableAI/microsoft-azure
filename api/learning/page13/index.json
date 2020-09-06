@@ -4,6 +4,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-ai-strategy-in-healthcare.md",
+      "title": "Define an AI strategy to create business value in healthcare",
+      "excerpt": "To realize the true transformational impact of AI in the healthcare sector, decision-makers must consider the special factors that apply only to their industry. To create real business value, a comprehensive understanding of all the strategic components is required.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-in-healthcare/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-healthcare/",
+      "length": "40 mins",
+      "ratings": {
+        "count": 628,
+        "average": 4.7834396
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-healthcare-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Define an AI strategy to create business value in healthcare",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-aks-deploy-container-app.md",
       "title": "Deploy a containerized application on Azure Kubernetes Service",
       "excerpt": "Explore how to create and deploy a containerized application using Azure Kubernetes Service using declarative manifest files.",
@@ -442,8 +485,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
       "length": "48 mins",
       "ratings": {
-        "count": 1323,
-        "average": 4.615268
+        "count": 1324,
+        "average": 4.615559
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -658,8 +701,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cosmos-db-app-with-vscode/",
       "length": "54 mins",
       "ratings": {
-        "count": 1401,
-        "average": 4.471806
+        "count": 1402,
+        "average": 4.4721828
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1220,49 +1263,6 @@
       "topics": [
         "Azure",
         "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-implement-message-workflows-with-service-bus.md",
-      "title": "Implement message-based communication workflows with Azure Service Bus",
-      "excerpt": "Write C# code in a custom application that sends and receives messages using Azure Service Bus topics and queues.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-message-workflows-with-service-bus/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/",
-      "length": "54 mins",
-      "ratings": {
-        "count": 1917,
-        "average": 4.6463223
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/implement-message-workflows-with-service-bus-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Implement message-based communication workflows with Azure Service Bus",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Integration"
       ]
     }
   ],

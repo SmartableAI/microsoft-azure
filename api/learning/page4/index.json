@@ -4,93 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-get-started-ai-fundamentals.md",
-      "title": "Get started with AI on Azure",
-      "excerpt": "With AI, we can build solutions that seemed like science fiction a short time ago; enabling incredible advances in health care, financial management, environmental protection, and other areas to make a better world for everyone.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-get-started-ai-fundamentals/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
-      "length": "PT27M",
-      "ratings": {
-        "count": 1615,
-        "average": 4.720743
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 66,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/get-started-ai-fundamentals-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Get started with AI on Azure",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-azure-storage-account.md",
-      "title": "Create an Azure Storage account",
-      "excerpt": "Create an Azure Storage account with the correct options for your business needs.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-azure-storage-account/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
-      "length": "30 mins",
-      "ratings": {
-        "count": 5614,
-        "average": 4.7524047
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 65,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-azure-storage-account-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Create an Azure Storage account",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-azure-sql-fundamentals.md",
       "title": "Azure SQL fundamentals",
       "excerpt": "Learn how to deploy, secure, monitor and troubleshoot Azure SQL database.",
@@ -204,6 +117,252 @@
       "topics": [
         "Azure",
         "Databases"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-control-azure-spending-and-manage-bills-with-azure-cost-management-and-billing-learning-path.md",
+      "title": "Control Azure spending and manage bills with Azure Cost Management and billing learning path",
+      "excerpt": "Learn how to monitor and control your Azure spending and optimize the use of Azure resources.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-control-azure-spending-and-manage-bills-with-azure-cost-management-and-billing-learning-path/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-control-azure-spending-and-manage-bills-with-azure-cost-management-and-billing-learning-path/",
+      "length": "PT3H19M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Microsoft Azure Well-Architected Framework - Cost optimization",
+          "excerpt": "Learn how to use the cost optimization pillar of the Microsoft Azure Well-Architected Framework to design a cloud-based architecture that is efficient, eliminates waste, and gives you full visibility into where your money is spent on cloud resources.",
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-cost-optimization-social.png",
+              "width": 640,
+              "height": 320,
+              "title": "Microsoft Azure Well-Architected Framework - Cost optimization",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "DevOps"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Predict costs and optimize spending for Azure",
+          "excerpt": "Cost is one of the most important aspects of the cloud and can have a massive impact on your business. Azure has several tools available to help you get a better understanding of cloud spend and some best practices that you can leverage to help you save money.",
+          "heat": 85,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/predict-costs-and-optimize-spending-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Predict costs and optimize spending for Azure",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Analyze costs and create budgets with Azure Cost Management",
+          "excerpt": "Learn how to use cost analysis to understand how your costs accrue each month. Use this understanding to create an Azure budget to monitor and alert on your costs.",
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/analyze-costs-create-budgets-azure-cost-management-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Analyze costs and create budgets with Azure Cost Management",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Save money with Azure Reserved Instances",
+          "excerpt": "Save money by taking advantage of Azure reservations. Analyze and decide what to purchase and then learn how to make a purchase. Understand the benefits provided through compute purchases and optimize against any under use. Perform basic reporting on your reservations.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/save-money-with-azure-reservations-social.png",
+              "width": 640,
+              "height": 320,
+              "title": "Save money with Azure Reserved Instances",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-cost-optimization-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Microsoft Azure Well-Architected Framework - Cost optimization",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-control-azure-spending-and-manage-bills-with-azure-cost-management-billing.md",
+      "title": "Control Azure spending and manage bills with Azure Cost Management + Billing",
+      "excerpt": "Learn how to monitor and control your Azure spending and optimize the use of Azure resources.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-control-azure-spending-and-manage-bills-with-azure-cost-management-billing/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-control-azure-spending-and-manage-bills-with-azure-cost-management-billing/",
+      "length": "PT2H45M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Microsoft Azure Well-Architected Framework - Cost optimization",
+          "excerpt": "Learn how to use the cost optimization pillar of the Microsoft Azure Well-Architected Framework to design a cloud-based architecture that is efficient, eliminates waste, and gives you full visibility into where your money is spent on cloud resources.",
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-cost-optimization-social.png",
+              "width": 640,
+              "height": 320,
+              "title": "Microsoft Azure Well-Architected Framework - Cost optimization",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "DevOps"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Predict costs and optimize spending for Azure",
+          "excerpt": "Cost is one of the most important aspects of the cloud and can have a massive impact on your business. Azure has several tools available to help you get a better understanding of cloud spend and some best practices that you can leverage to help you save money.",
+          "heat": 85,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/predict-costs-and-optimize-spending-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Predict costs and optimize spending for Azure",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Analyze costs and create budgets with Azure Cost Management",
+          "excerpt": "Learn how to use cost analysis to understand how your costs accrue each month. Use this understanding to create an Azure budget to monitor and alert on your costs.",
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/analyze-costs-create-budgets-azure-cost-management-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Analyze costs and create budgets with Azure Cost Management",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Save money with Azure Reserved Instances",
+          "excerpt": "Save money by taking advantage of Azure reservations. Analyze and decide what to purchase and then learn how to make a purchase. Understand the benefits provided through compute purchases and optimize against any under use. Perform basic reporting on your reservations.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/save-money-with-azure-reservations-social.png",
+              "width": 640,
+              "height": 320,
+              "title": "Save money with Azure Reserved Instances",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-cost-optimization-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Microsoft Azure Well-Architected Framework - Cost optimization",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools"
       ]
     },
     {
@@ -453,8 +612,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 1795,
-        "average": 4.6986074
+        "count": 1798,
+        "average": 4.698554
       },
       "provider": {
         "name": "Microsoft Learn",

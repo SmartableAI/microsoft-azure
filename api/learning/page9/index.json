@@ -98,8 +98,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/keep-your-virtual-machines-updated/",
       "length": "35 mins",
       "ratings": {
-        "count": 2607,
-        "average": 4.4894514
+        "count": 2608,
+        "average": 4.489264
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -305,8 +305,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/survey-the-azure-data-platform/",
       "length": "58 mins",
       "ratings": {
-        "count": 4116,
-        "average": 4.686103
+        "count": 4118,
+        "average": 4.6860127
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -441,6 +441,49 @@
         "Management Tools",
         "Storage",
         "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-analyze-costs-create-budgets-azure-cost-management.md",
+      "title": "Analyze costs and create budgets with Azure Cost Management",
+      "excerpt": "Learn how to use cost analysis to understand how your costs accrue each month. Use this understanding to create an Azure budget to monitor and alert on your costs.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-costs-create-budgets-azure-cost-management/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-costs-create-budgets-azure-cost-management/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 630,
+        "average": 4.5920634
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/analyze-costs-create-budgets-azure-cost-management-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Analyze costs and create budgets with Azure Cost Management",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools"
       ]
     },
     {
@@ -668,8 +711,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-and-moderate-text-with-azure-content-moderator/",
       "length": "31 mins",
       "ratings": {
-        "count": 1567,
-        "average": 4.634333
+        "count": 1568,
+        "average": 4.6345663
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -712,8 +755,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-and-manage-azure-key-vault/",
       "length": "29 mins",
       "ratings": {
-        "count": 1783,
-        "average": 4.604599
+        "count": 1784,
+        "average": 4.6048207
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -797,8 +840,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
       "length": "55 mins",
       "ratings": {
-        "count": 1401,
-        "average": 4.64454
+        "count": 1402,
+        "average": 4.644793
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -841,8 +884,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-cosmos-db-for-scale/",
       "length": "35 mins",
       "ratings": {
-        "count": 3677,
-        "average": 4.6423717
+        "count": 3678,
+        "average": 4.642469
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -885,8 +928,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
       "length": "25 mins",
       "ratings": {
-        "count": 3925,
-        "average": 4.70242
+        "count": 3926,
+        "average": 4.702496
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1054,8 +1097,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/",
       "length": "PT25M",
       "ratings": {
-        "count": 6791,
-        "average": 4.7215433
+        "count": 6793,
+        "average": 4.721478
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1087,8 +1130,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/",
       "length": "25 mins",
       "ratings": {
-        "count": 3205,
-        "average": 4.604368
+        "count": 3206,
+        "average": 4.6044917
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1288,49 +1331,6 @@
           "width": 800,
           "height": 400,
           "title": "Overview of identity and access management in Microsoft 365",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-manage-device-identity-ad-join.md",
-      "title": "Manage device identity with Azure AD join and Enterprise State Roaming",
-      "excerpt": "Evaluate options to manage device identities in Azure AD. Allow users to join devices in Azure AD. Require devices to be marked as compliant. Enable Enterprise State Roaming.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-device-identity-ad-join/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-device-identity-ad-join/",
-      "length": "PT25M",
-      "ratings": {
-        "count": 759,
-        "average": 4.5704875
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/manage-device-identity-ad-join-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Manage device identity with Azure AD join and Enterprise State Roaming",
           "isCached": true
         }
       ],

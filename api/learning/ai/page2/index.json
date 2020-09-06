@@ -4,49 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-analyze-images-computer-vision.md",
-      "title": "Analyze images with the Computer Vision service",
-      "excerpt": "The Computer Vision service enables software engineers to create intelligent solutions that extract information from images; a common task in many artificial intelligence (AI) scenarios.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-images-computer-vision/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-images-computer-vision/",
-      "length": "28 mins",
-      "ratings": {
-        "count": 217,
-        "average": 4.769585
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/analyze-images-computer-vision-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Analyze images with the Computer Vision service",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-analyze-text-with-text-analytics-service.md",
       "title": "Analyze text with the Text Analytics service",
       "excerpt": "The Text Analytics service is a cloud-based service that provides advanced natural language processing over raw text for sentiment analysis, key phrase extraction, named entity recognition, and language detection.",
@@ -364,8 +321,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
       "length": "48 mins",
       "ratings": {
-        "count": 1323,
-        "average": 4.615268
+        "count": 1324,
+        "average": 4.615559
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -621,8 +578,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-compute-contexts-in-aml/",
       "length": "47 mins",
       "ratings": {
-        "count": 502,
-        "average": 4.623506
+        "count": 503,
+        "average": 4.6242547
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -655,8 +612,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-data-in-aml/",
       "length": "47 mins",
       "ratings": {
-        "count": 570,
-        "average": 4.645614
+        "count": 571,
+        "average": 4.6462345
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1128,7 +1085,7 @@
           "path": "",
           "title": "Transcribe speech input to text",
           "excerpt": "Speech-to-text from the speech service,  known as speech recognition, enables real time transcription of audio streams into text. Your applications, tools, or devices can consume, display, and take action on this text as command input.",
-          "heat": 110,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/transcribe-speech-input-text-social.png",
@@ -1586,6 +1543,50 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-build-query-delta-lake.md",
+      "title": "Build and query a Delta Lake",
+      "excerpt": "Learn how to use Delta Lake to create, append, and upsert data to Apache Spark tables, taking advantage of built-in reliability and optimizations.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-query-delta-lake/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-query-delta-lake/",
+      "length": "PT43M",
+      "ratings": {
+        "count": 75,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/build-query-delta-lake-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Build and query a Delta Lake",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
         "AI"
       ]
     }

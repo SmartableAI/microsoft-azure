@@ -4,6 +4,50 @@
   "page": 12,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-create-and-publish-a-luis-model.md",
+      "title": "Add conversational intelligence to your apps by using Language Understanding Intelligent Service (LUIS)",
+      "excerpt": "Introduction to adding conversational intelligence to your apps by using language understanding (LUIS)",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-and-publish-a-luis-model/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-and-publish-a-luis-model/",
+      "length": "54 mins",
+      "ratings": {
+        "count": 1452,
+        "average": 4.652204
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/create-and-publish-a-luis-model-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Add conversational intelligence to your apps by using Language Understanding Intelligent Service (LUIS)",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI",
+        "Developer Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-release-pipeline.md",
       "title": "Create a release pipeline in Azure Pipelines",
       "excerpt": "Set up a continuous delivery (CD) pipeline that automates the process of deploying your application.",
@@ -11,8 +55,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-release-pipeline/",
       "length": "64 mins",
       "ratings": {
-        "count": 936,
-        "average": 4.676282
+        "count": 937,
+        "average": 4.6755605
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -54,8 +98,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
       "length": "60 mins",
       "ratings": {
-        "count": 2018,
-        "average": 4.6258674
+        "count": 2020,
+        "average": 4.6262374
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -228,8 +272,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-app-that-queries-azure-sql/",
       "length": "50 mins",
       "ratings": {
-        "count": 2423,
-        "average": 4.5282707
+        "count": 2424,
+        "average": 4.5276403
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -440,8 +484,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-build-agent/",
       "length": "59 mins",
       "ratings": {
-        "count": 1667,
-        "average": 4.706059
+        "count": 1668,
+        "average": 4.706235
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -483,8 +527,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-code-workflow/",
       "length": "PT1H27M",
       "ratings": {
-        "count": 3421,
-        "average": 4.765858
+        "count": 3423,
+        "average": 4.7657027
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -736,8 +780,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-vm-settings-with-dsc/",
       "length": "54 mins",
       "ratings": {
-        "count": 795,
-        "average": 4.6628933
+        "count": 796,
+        "average": 4.6633167
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1429,49 +1473,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-ai-strategy-in-healthcare.md",
-      "title": "Define an AI strategy to create business value in healthcare",
-      "excerpt": "To realize the true transformational impact of AI in the healthcare sector, decision-makers must consider the special factors that apply only to their industry. To create real business value, a comprehensive understanding of all the strategic components is required.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-in-healthcare/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-healthcare/",
-      "length": "40 mins",
-      "ratings": {
-        "count": 628,
-        "average": 4.7834396
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-healthcare-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Define an AI strategy to create business value in healthcare",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
       ]
     }
   ],

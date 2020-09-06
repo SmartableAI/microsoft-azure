@@ -257,8 +257,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/",
       "length": "62 mins",
       "ratings": {
-        "count": 161143,
-        "average": 4.7718425
+        "count": 161161,
+        "average": 4.7718678
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -300,8 +300,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
       "length": "39 mins",
       "ratings": {
-        "count": 128715,
-        "average": 4.6956687
+        "count": 128722,
+        "average": 4.695662
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -336,15 +336,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-analyze-costs-create-budgets-azure-cost-management.md",
-      "title": "Analyze costs and create budgets with Azure Cost Management",
-      "excerpt": "Learn how to use cost analysis to understand how your costs accrue each month. Use this understanding to create an Azure budget to monitor and alert on your costs.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-costs-create-budgets-azure-cost-management/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-costs-create-budgets-azure-cost-management/",
-      "length": "PT40M",
+      "path": "_learning/courses/microsoft-learn-build-product-road-maps.md",
+      "title": "Build product road maps",
+      "excerpt": "Identify and construct Agile product road maps including audiences, prioritization, themes, milestones, epics, and user stories.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-product-road-maps/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-product-roadmaps/",
+      "length": "41 mins",
       "ratings": {
-        "count": 629,
-        "average": 4.5930047
+        "count": 50,
+        "average": 4.62
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -361,33 +361,23 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 114,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/analyze-costs-create-budgets-azure-cost-management-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Analyze costs and create budgets with Azure Cost Management",
-          "isCached": true
-        }
-      ],
+      "heat": 110,
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure",
-        "Management Tools"
+        "Azure"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-transcribe-speech-input-text.md",
-      "title": "Transcribe speech input to text",
-      "excerpt": "Speech-to-text from the speech service,  known as speech recognition, enables real time transcription of audio streams into text. Your applications, tools, or devices can consume, display, and take action on this text as command input.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-transcribe-speech-input-text/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/transcribe-speech-input-text/",
-      "length": "PT27M",
+      "path": "_learning/courses/microsoft-learn-resource-manager-template-reuse.md",
+      "title": "Deploy to multiple Azure environments by using Azure Resource Manager template features - Learn",
+      "excerpt": "Manage multiple Azure environment deployments of your Azure Resource Manager templates using functions, variables, tags and parameter files.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-resource-manager-template-reuse/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modify-azure-resource-manager-template-reuse/",
+      "length": "PT39M",
       "ratings": {
-        "count": 217,
-        "average": 4.668203
+        "count": 9,
+        "average": 4.5555553
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -402,15 +392,14 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
       "heat": 110,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/transcribe-speech-input-text-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/modify-azure-resource-manager-template-reuse-social.png",
           "width": 640,
           "height": 320,
-          "title": "Transcribe speech input to text",
           "isCached": true
         }
       ],
@@ -418,7 +407,7 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "AI"
+        "Management Tools"
       ]
     },
     {
@@ -429,8 +418,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
       "length": "38 mins",
       "ratings": {
-        "count": 61187,
-        "average": 4.7085657
+        "count": 61197,
+        "average": 4.708515
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -719,252 +708,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-control-azure-spending-and-manage-bills-with-azure-cost-management-and-billing-learning-path.md",
-      "title": "Control Azure spending and manage bills with Azure Cost Management and billing learning path",
-      "excerpt": "Learn how to monitor and control your Azure spending and optimize the use of Azure resources.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-control-azure-spending-and-manage-bills-with-azure-cost-management-and-billing-learning-path/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-control-azure-spending-and-manage-bills-with-azure-cost-management-and-billing-learning-path/",
-      "length": "PT3H19M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Microsoft Azure Well-Architected Framework - Cost optimization",
-          "excerpt": "Learn how to use the cost optimization pillar of the Microsoft Azure Well-Architected Framework to design a cloud-based architecture that is efficient, eliminates waste, and gives you full visibility into where your money is spent on cloud resources.",
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-cost-optimization-social.png",
-              "width": 640,
-              "height": 320,
-              "title": "Microsoft Azure Well-Architected Framework - Cost optimization",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "DevOps"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Predict costs and optimize spending for Azure",
-          "excerpt": "Cost is one of the most important aspects of the cloud and can have a massive impact on your business. Azure has several tools available to help you get a better understanding of cloud spend and some best practices that you can leverage to help you save money.",
-          "heat": 85,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/predict-costs-and-optimize-spending-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Predict costs and optimize spending for Azure",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Analyze costs and create budgets with Azure Cost Management",
-          "excerpt": "Learn how to use cost analysis to understand how your costs accrue each month. Use this understanding to create an Azure budget to monitor and alert on your costs.",
-          "heat": 114,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/analyze-costs-create-budgets-azure-cost-management-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Analyze costs and create budgets with Azure Cost Management",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Save money with Azure Reserved Instances",
-          "excerpt": "Save money by taking advantage of Azure reservations. Analyze and decide what to purchase and then learn how to make a purchase. Understand the benefits provided through compute purchases and optimize against any under use. Perform basic reporting on your reservations.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/save-money-with-azure-reservations-social.png",
-              "width": 640,
-              "height": 320,
-              "title": "Save money with Azure Reserved Instances",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Management Tools"
-          ]
-        }
-      ],
-      "size": 4,
-      "heat": 102,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-cost-optimization-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Microsoft Azure Well-Architected Framework - Cost optimization",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-control-azure-spending-and-manage-bills-with-azure-cost-management-billing.md",
-      "title": "Control Azure spending and manage bills with Azure Cost Management + Billing",
-      "excerpt": "Learn how to monitor and control your Azure spending and optimize the use of Azure resources.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-control-azure-spending-and-manage-bills-with-azure-cost-management-billing/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-control-azure-spending-and-manage-bills-with-azure-cost-management-billing/",
-      "length": "PT2H45M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Microsoft Azure Well-Architected Framework - Cost optimization",
-          "excerpt": "Learn how to use the cost optimization pillar of the Microsoft Azure Well-Architected Framework to design a cloud-based architecture that is efficient, eliminates waste, and gives you full visibility into where your money is spent on cloud resources.",
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-cost-optimization-social.png",
-              "width": 640,
-              "height": 320,
-              "title": "Microsoft Azure Well-Architected Framework - Cost optimization",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "DevOps"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Predict costs and optimize spending for Azure",
-          "excerpt": "Cost is one of the most important aspects of the cloud and can have a massive impact on your business. Azure has several tools available to help you get a better understanding of cloud spend and some best practices that you can leverage to help you save money.",
-          "heat": 85,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/predict-costs-and-optimize-spending-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Predict costs and optimize spending for Azure",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Analyze costs and create budgets with Azure Cost Management",
-          "excerpt": "Learn how to use cost analysis to understand how your costs accrue each month. Use this understanding to create an Azure budget to monitor and alert on your costs.",
-          "heat": 114,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/analyze-costs-create-budgets-azure-cost-management-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Analyze costs and create budgets with Azure Cost Management",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Save money with Azure Reserved Instances",
-          "excerpt": "Save money by taking advantage of Azure reservations. Analyze and decide what to purchase and then learn how to make a purchase. Understand the benefits provided through compute purchases and optimize against any under use. Perform basic reporting on your reservations.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/save-money-with-azure-reservations-social.png",
-              "width": 640,
-              "height": 320,
-              "title": "Save money with Azure Reserved Instances",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Management Tools"
-          ]
-        }
-      ],
-      "size": 4,
-      "heat": 102,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-cost-optimization-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Microsoft Azure Well-Architected Framework - Cost optimization",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-explore-azure-infrastructure.md",
       "title": "Core Cloud Services - Azure architecture and service guarantees",
       "excerpt": "Azure provides a global network of secure datacenters you can deploy your services into. Learn about the physical architecture of Azure, how redundancy is provided, and what service guarantees Microsoft provides.",
@@ -972,8 +715,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/",
       "length": "45 mins",
       "ratings": {
-        "count": 65082,
-        "average": 4.7124553
+        "count": 65088,
+        "average": 4.712451
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1014,8 +757,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-data-in-azure/",
       "length": "25 mins",
       "ratings": {
-        "count": 53174,
-        "average": 4.733046
+        "count": 53180,
+        "average": 4.7330575
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1058,8 +801,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-python-nasa/",
       "length": "PT23M",
       "ratings": {
-        "count": 150,
-        "average": 4.7266665
+        "count": 154,
+        "average": 4.733766
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1099,8 +842,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/",
       "length": "73 mins",
       "ratings": {
-        "count": 48834,
-        "average": 4.7066593
+        "count": 48841,
+        "average": 4.706681
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1142,8 +885,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/",
       "length": "36 mins",
       "ratings": {
-        "count": 64441,
-        "average": 4.7996616
+        "count": 64443,
+        "average": 4.7996526
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1437,8 +1180,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
       "length": "46 mins",
       "ratings": {
-        "count": 36769,
-        "average": 4.62841
+        "count": 36780,
+        "average": 4.628385
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1851,8 +1594,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-networking/",
       "length": "28 mins",
       "ratings": {
-        "count": 42048,
-        "average": 4.7640076
+        "count": 42055,
+        "average": 4.7640233
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1894,8 +1637,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
       "length": "76 mins",
       "ratings": {
-        "count": 42937,
-        "average": 4.7021685
+        "count": 42942,
+        "average": 4.702203
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1937,8 +1680,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimize-spending/",
       "length": "74 mins",
       "ratings": {
-        "count": 39001,
-        "average": 4.7141867
+        "count": 39005,
+        "average": 4.714216
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2565,6 +2308,258 @@
       "topics": [
         "Azure",
         "Storage"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-architect-storage-infrastructure-in-azure.md",
+      "title": "Architect storage infrastructure in Azure",
+      "excerpt": "Learn how to architect storage solutions for your applications in Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-architect-storage-infrastructure-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-architect-storage-infrastructure-in-azure/",
+      "length": "PT6H7M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Choose a data storage approach in Azure",
+          "excerpt": "Learn how using Azure Storage, Azure SQL Database, and Azure Cosmos DB - or a combination of them - for your business scenario is the best way to get the most performant solution.",
+          "heat": 68,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/choose-storage-approach-in-azure-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Choose a data storage approach in Azure",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Storage",
+            "Databases"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Create an Azure Storage account",
+          "excerpt": "Create an Azure Storage account with the correct options for your business needs.",
+          "heat": 65,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-azure-storage-account-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Create an Azure Storage account",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Storage",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Upload, download, and manage data with Azure Storage Explorer",
+          "excerpt": "Azure Storage Explorer allows you to quickly view all the storage services under your account. You can browse through, read, and edit data stored in those services through a user-friendly graphical interface.",
+          "heat": 57,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/upload-download-and-manage-data-with-azure-storage-explorer-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Upload, download, and manage data with Azure Storage Explorer",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Storage",
+            "Databases"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Connect an app to Azure Storage",
+          "excerpt": "Create a simple application and add configuration, client library references, and code to connect it to Azure Storage.",
+          "heat": 56,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/connect-an-app-to-azure-storage-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Connect an app to Azure Storage",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Storage",
+            "Management Tools"
+          ]
+        }
+      ],
+      "size": 9,
+      "heat": 78,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/choose-storage-approach-in-azure-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Choose a data storage approach in Azure",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-store-data-in-azure-learning-path.md",
+      "title": "Store data in Azure learning path",
+      "excerpt": "This learning path gets you started with the basics of storage management in Azure, Storage Account creation, and choices for data storage.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-store-data-in-azure-learning-path/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-store-data-in-azure-learning-path/",
+      "length": "PT3H50M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Choose a data storage approach in Azure",
+          "excerpt": "Learn how using Azure Storage, Azure SQL Database, and Azure Cosmos DB - or a combination of them - for your business scenario is the best way to get the most performant solution.",
+          "heat": 68,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/choose-storage-approach-in-azure-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Choose a data storage approach in Azure",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Storage",
+            "Databases"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Create an Azure Storage account",
+          "excerpt": "Create an Azure Storage account with the correct options for your business needs.",
+          "heat": 65,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-azure-storage-account-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Create an Azure Storage account",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Storage",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Connect an app to Azure Storage",
+          "excerpt": "Create a simple application and add configuration, client library references, and code to connect it to Azure Storage.",
+          "heat": 56,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/connect-an-app-to-azure-storage-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Connect an app to Azure Storage",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Storage",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Secure your Azure Storage account",
+          "excerpt": "Learn how Azure Storage provides multilayered security to protect your data. Find out how to use access keys, to secure networks, and to use Advanced Threat Protection to proactively monitor your system.",
+          "heat": 59,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/data-ai/secure-azure-storage-account-badge-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Secure your Azure Storage account",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Storage"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 78,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/choose-storage-approach-in-azure-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Choose a data storage approach in Azure",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Management Tools"
       ]
     }
   ],
