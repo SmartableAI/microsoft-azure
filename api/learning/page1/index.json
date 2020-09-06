@@ -257,8 +257,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/",
       "length": "62 mins",
       "ratings": {
-        "count": 161064,
-        "average": 4.77178
+        "count": 161075,
+        "average": 4.7717957
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -300,8 +300,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
       "length": "39 mins",
       "ratings": {
-        "count": 128654,
-        "average": 4.69561
+        "count": 128662,
+        "average": 4.6956286
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -343,8 +343,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
       "length": "38 mins",
       "ratings": {
-        "count": 61148,
-        "average": 4.7085104
+        "count": 61153,
+        "average": 4.708502
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -640,8 +640,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/",
       "length": "45 mins",
       "ratings": {
-        "count": 65051,
-        "average": 4.7123795
+        "count": 65054,
+        "average": 4.712393
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -934,8 +934,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-data-in-azure/",
       "length": "25 mins",
       "ratings": {
-        "count": 53139,
-        "average": 4.73304
+        "count": 53142,
+        "average": 4.733017
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -971,15 +971,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-continuous-data-export-from-iot-central.md",
-      "title": "Set up continuous data export from Azure IoT Central to a Power BI app",
-      "excerpt": "This module covers continuous data export from IoT Central. You use the scenario from the &quot;Create your first Azure IoT Central app&quot; Learn module, where you control a refrigerated truck. This module adds continuous data export to both Blob storage, and an Event Hub. Then, a Power BI app is built to read and display the telemetry data on a mobile phone.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-continuous-data-export-from-iot-central/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/continuously-export-data-from-iot-central-power-bi/",
-      "length": "PT1H9M",
+      "path": "_learning/courses/microsoft-learn-cosmos-db-app-with-vscode.md",
+      "title": "Build a .NET Core app for Azure Cosmos DB in Visual Studio Code",
+      "excerpt": "Learn how to build a database app to store and query data in Azure Cosmos DB by using Visual Studio Code.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cosmos-db-app-with-vscode/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cosmos-db-app-with-vscode/",
+      "length": "54 mins",
       "ratings": {
-        "count": 40,
-        "average": 4.625
+        "count": 1401,
+        "average": 4.471806
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -996,13 +996,13 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 110,
+      "heat": 112,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/continuous-data-export-from-iot-central-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Set up continuous data export from Azure IoT Central to a Power BI app",
+          "url": "https://docs.microsoft.com/learn/achievements/build-cosmos-db-app-with-vscode-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Build a .NET Core app for Azure Cosmos DB in Visual Studio Code",
           "isCached": true
         }
       ],
@@ -1010,21 +1010,19 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "IoT",
-        "Storage",
-        "Analytics"
+        "Databases"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-azure-cognitive-search-solution.md",
-      "title": "Create an Azure Cognitive Search solution",
-      "excerpt": "Unlock the hidden insights in your data with Azure Cognitive Search.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-azure-cognitive-search-solution/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-cognitive-search-solution/",
-      "length": "PT46M",
+      "path": "_learning/courses/microsoft-learn-build-query-delta-lake.md",
+      "title": "Build and query a Delta Lake",
+      "excerpt": "Learn how to use Delta Lake to create, append, and upsert data to Apache Spark tables, taking advantage of built-in reliability and optimizations.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-query-delta-lake/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-query-delta-lake/",
+      "length": "PT43M",
       "ratings": {
-        "count": 8,
-        "average": 5.0
+        "count": 75,
+        "average": 4.6
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1044,9 +1042,10 @@
       "heat": 110,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/build-query-delta-lake-social.png",
           "width": 640,
           "height": 320,
+          "title": "Build and query a Delta Lake",
           "isCached": true
         }
       ],
@@ -1054,7 +1053,8 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Storage"
+        "Analytics",
+        "AI"
       ]
     },
     {
@@ -1065,8 +1065,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/",
       "length": "36 mins",
       "ratings": {
-        "count": 64416,
-        "average": 4.7996306
+        "count": 64417,
+        "average": 4.7996335
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1108,8 +1108,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/",
       "length": "73 mins",
       "ratings": {
-        "count": 48809,
-        "average": 4.7066526
+        "count": 48811,
+        "average": 4.7066646
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1194,8 +1194,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
       "length": "76 mins",
       "ratings": {
-        "count": 42915,
-        "average": 4.702109
+        "count": 42916,
+        "average": 4.7021155
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1748,8 +1748,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
       "length": "46 mins",
       "ratings": {
-        "count": 37097,
-        "average": 4.71216
+        "count": 37098,
+        "average": 4.7121677
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2162,8 +2162,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
       "length": "46 mins",
       "ratings": {
-        "count": 36746,
-        "average": 4.628368
+        "count": 36748,
+        "average": 4.628388
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2205,8 +2205,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimize-spending/",
       "length": "74 mins",
       "ratings": {
-        "count": 38987,
-        "average": 4.7139816
+        "count": 38990,
+        "average": 4.7140036
       },
       "provider": {
         "name": "Microsoft Learn",
