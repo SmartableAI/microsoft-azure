@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Call Journey Now Available in Microsoft Azure Marketplace and App Source"
-excerpt: "Microsoft customers can now gain access to Call Journey's AI-powered Conversation Analytics technology to drive customer experience, enhance employee engagement,"
+excerpt: "PRNewswire-PRWeb/ -- Call Journey, provider of market-leading Conversation Analytics technology, announces its listing in the Microsoft"
 publishedDateTime: 2020-08-31T23:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/08/p17320531/call-journey-now-available-in-microsoft-azure-marketplace-and-app-source"
-webUrl: "https://www.benzinga.com/pressreleases/20/08/p17320531/call-journey-now-available-in-microsoft-azure-marketplace-and-app-source"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17320531"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17320531"
+originalUrl: "https://www.benzinga.com/pressreleases/20/08/n17320508/call-journey-now-available-in-microsoft-azure-marketplace-and-app-source"
+webUrl: "https://www.benzinga.com/pressreleases/20/08/n17320508/call-journey-now-available-in-microsoft-azure-marketplace-and-app-source"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17320508"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17320508"
 type: article
 quality: 36
 heat: -1
@@ -386,6 +386,6 @@ related:
       domain: arnnet.com.au
     quality: 16
 
-secured: "VFJIPmWf1Nddh7CK73UvWXIL0eYj9lzvutU1nl83wjyHMpe4CwvNikDhkoapCkP3D9Mp53wdKT3rHegpZWmfjRfyDPCCOHSRLwGJfv3XpW3tvz3pnFC+DWZhvJxAoFPcRcI6m1qf9fFTQXVHw8A56JSlndKAYlB+rYDKOmhkwEhcBgrhS8M/I8ZbcKhuiicIws73/m4f0pXLzXF2aJRcoB0aIaaY+WWFj4nld1Fkm45J6cJArpmUW6GY6SKpUBXkjjWyCQjeVfxaJ2k2WtR8/KmEV11M7hBLmDvMhKMBPi9q10EdDhFKUXcPOQ0w1UCwjPbHmyZX7Y1/VRDHM+DaJL1JdVbH6POZlq+3cqMiJLs=;AF4hXhhr3fR+cM9cUUYcCg=="
+secured: "WqHH1+jyt2kapAyUB+COzm6PgTp9W0yNWoeMPN8ZXEZkU3k4f9zh3RdNd6+nDkg6tN5+PuY0cRqpFzfvFEf7+KwrBneaHDovDydQk58CbW88CtLV/CMtMT14FectskThx7GZtgAJSHU++SDhGGzDIZlcjw0u+HaktAEFGGGfNRxhuQl1reKejerMKN+BAmlEEcSI0pPbYy34TfYELvT77BcZ0hdkmcdoo71Nw/4Q5c7dXrpqeBxir5GE80pwesBIOpeITEhE2jHb6yLsc16mWq8FcpwIT7k5SmqQBiqdFjxszb3lqo2vUYu4u89pjECSXqBzM2KJLDsVMB6DOF5JfEEvhh7YNvihk4YSZcL9DgE=;6TtX2nrYmDhntNIHUo9Fig=="
 ---
 
