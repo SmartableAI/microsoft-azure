@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/au/amp/news/tiktok-could-become-one-of-the
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/tiktok-could-become-one-of-the-largest-microsoft-azure-customers"
 type: article
 quality: 97
-heat: 137
+heat: 157
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/DjEsP5aRA3jcWVJjU6gtzH-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Insurtech Leader FastTrack Completes Migration to the Microsoft Azure Cloud"
+    excerpt: "The project resulted in a transition to Microsoft Azure for their entire suite of solutions and was completed without any service disruption to its customers. Leveraging the hosting platform's ..."
+    publishedDateTime: 2020-09-02T15:20:00Z
+    webUrl: "https://www.trentonian.com/news/state/insurtech-leader-fasttrack-completes-migration-to-the-microsoft-azure-cloud/article_70b0fb10-bf08-5521-88bd-f3c4f075ad94.html"
+    type: article
+    provider:
+      name: The Trentonian
+      domain: trentonian.com
+    quality: 35
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/trentonian.com/content/tncms/custom/image/7e7299aa-52cf-11e8-9a1b-c387992939a2.jpg?resize=600%2C600"
+        width: 600
+        height: 600
         isCached: true
   - title: "Carahsoft Brings Microsoft Azure to Its Public Sector Customers and Partners"
     excerpt: "Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®, today announced that Microsoft Azure services"

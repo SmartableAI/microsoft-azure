@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-22T00:21:00Z
 webUrl: "https://markets.businessinsider.com/news/stocks/ratelinx-completes-migration-to-microsoft-azure-to-better-serve-customers-1029225453"
 type: article
 quality: 56
-heat: 136
+heat: 116
 published: true
 
 provider:
@@ -34,20 +34,6 @@ related:
       - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/0bef1a3f-3524-4a47-91e5-78466728c9a3.png?height=635&t=1590129628&width=1200"
         width: 600
         height: 201
-        isCached: true
-  - title: "Insurtech Leader FastTrack Completes Migration to the Microsoft Azure Cloud"
-    excerpt: "FastTrack, a leading provider of insurtech solutions for the Life & Disability insurance industry, announced today the completion of"
-    publishedDateTime: 2020-09-02T12:36:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/insurtech-leader-fasttrack-completes-migration-to-the-microsoft-azure-cloud-301122621.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 35
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
         isCached: true
   - title: "Netcracker Offers AI-Driven Digital BSS/OSS to Microsoft Azure"
     excerpt: "Netcracker Technology announced today it is working with Microsoft to offer its Digital BSS/OSS and Orchestration applications on Microsoft Azure. Netcracker is collaborating with Microsoft to integrate Azure Machine Learning (ML) and AI services with Netcracker’s Advanced Analytics to add intelligent contextual decisioning and recommendations to enable more personalized customer"
