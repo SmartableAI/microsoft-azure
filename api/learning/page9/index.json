@@ -4,52 +4,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-build-serverless-api-with-functions-api-management.md",
-      "title": "Expose multiple Azure Function apps as a consistent API by using Azure API Management",
-      "excerpt": "Combine multiple Azure Functions apps into a unified interface by importing them into a single Azure API Management instance.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-serverless-api-with-functions-api-management/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/",
-      "length": "41 mins",
-      "ratings": {
-        "count": 972,
-        "average": 4.589506
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/build-serverless-api-with-functions-api-management-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Expose multiple Azure Function apps as a consistent API by using Azure API Management",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless",
-        "Integration",
-        "Web"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings.md",
       "title": "Chain Azure Functions together using input and output bindings",
       "excerpt": "Integrate data sources with your Azure Functions serverless logic by using bindings.",
@@ -57,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
       "length": "70 mins",
       "ratings": {
-        "count": 2576,
-        "average": 4.567935
+        "count": 2577,
+        "average": 4.5681024
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -103,8 +57,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
       "length": "48 mins",
       "ratings": {
-        "count": 1330,
-        "average": 4.6165414
+        "count": 1331,
+        "average": 4.6168294
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -280,8 +234,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-access-management-capabilities-of-microsoft-365/",
       "length": "PT29M",
       "ratings": {
-        "count": 109,
-        "average": 4.7247705
+        "count": 110,
+        "average": 4.7181816
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -410,8 +364,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
       "length": "83 mins",
       "ratings": {
-        "count": 3214,
-        "average": 4.7009954
+        "count": 3215,
+        "average": 4.7010884
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -455,8 +409,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/hub-and-spoke-network-architecture/",
       "length": "36 mins",
       "ratings": {
-        "count": 1091,
-        "average": 4.652612
+        "count": 1093,
+        "average": 4.653248
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -614,8 +568,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
       "length": "50 mins",
       "ratings": {
-        "count": 4515,
-        "average": 4.6489477
+        "count": 4516,
+        "average": 4.649026
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -658,8 +612,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
       "length": "48 mins",
       "ratings": {
-        "count": 2317,
-        "average": 4.621925
+        "count": 2319,
+        "average": 4.622251
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1139,8 +1093,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-and-store-container-images/",
       "length": "49 mins",
       "ratings": {
-        "count": 2252,
-        "average": 4.6061277
+        "count": 2253,
+        "average": 4.6063027
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1182,8 +1136,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/",
       "length": "23 mins",
       "ratings": {
-        "count": 5628,
-        "average": 4.737562
+        "count": 5629,
+        "average": 4.737431
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1311,8 +1265,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
       "length": "29 mins",
       "ratings": {
-        "count": 1114,
-        "average": 4.6409335
+        "count": 1116,
+        "average": 4.6415772
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1388,6 +1342,48 @@
         "Azure",
         "AI",
         "Developer Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-configure-security-policies-to-manage-data.md",
+      "title": "Configure security policies to manage data",
+      "excerpt": "Learn how to set up policies to classify, retain, and protect your cloud-based data.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-security-policies-to-manage-data/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-security-policies-to-manage-data/",
+      "length": "39 mins",
+      "ratings": {
+        "count": 1883,
+        "average": 4.596389
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/configure-security-policies-to-manage-data-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Configure security policies to manage data",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],
