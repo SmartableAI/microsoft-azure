@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-25T17:00:35Z
 webUrl: "https://azure.microsoft.com/en-us/updates/intelligent-performance-mysql-8/"
 type: article
 quality: 6
-heat: 6
+heat: 26
 published: false
 
 provider:

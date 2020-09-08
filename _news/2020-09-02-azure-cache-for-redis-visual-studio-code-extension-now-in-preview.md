@@ -6,9 +6,6 @@ publishedDateTime: 2020-09-02T16:00:02Z
 originalUrl: "https://azure.microsoft.com/en-us/updates/azure-cache-for-redis-visual-studio-code-extension-now-in-preview/"
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-cache-for-redis-visual-studio-code-extension-now-in-preview/"
 type: article
-quality: 67
-heat: -1
-published: false
 
 provider:
   name: Microsoft
@@ -21,49 +18,6 @@ provider:
 topics:
   - Azure
 
-related:
-  - title: "New Deploy to Azure extension for Visual Studio Code"
-    excerpt: "Organizations and teams that adopt DevOps methodologies are consistently seeing improvements in their ability to deliver high-quality code, with faster release cycles, and ultimately achieve higher levels of satisfaction for their own customers, whether they’re internal or external. "
-    publishedDateTime: 2020-03-18T10:00:05Z
-    webUrl: "https://azure.microsoft.com/blog/new-deploy-to-azure-extension-for-visual-studio-code/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 91
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8fd83624-c140-4bcc-9bbb-b48b7cfd44cf.gif"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "New Azure API Management Visual Studio Code extension now available"
-    excerpt: ""
-    publishedDateTime: 2020-04-13T16:00:06Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-vs-code-extension-update-april-2020/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "New Azure extensions for Visual Studio Code"
-    excerpt: ""
-    publishedDateTime: 2020-05-19T16:05:40Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-extensions-for-visual-studio-code/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Azure Databases extension for Visual Studio Code"
-    excerpt: ""
-    publishedDateTime: 2020-05-28T16:00:15Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-databases-extension-for-visual-studio-code/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-
-secured: "o/AyNdKMZbmi3Vk6A3G/+fNYv6uQRl+ixqc5YwtCmrkIl9wAMIERPyJewG+zSyLebTNdjopf2H7v+hISCmZXiCgIRZW6giFsz3G6U1TEW4RwpLou+ZczBfz7HYfNx5UloVnf/EjF/Ym6/8fPaNYlfX1IIkqag2Y1JzIiErHyhYM8R2IYOP1r6kVMTGR3VuBGLuYw3b+RZY4SV9++6/eDcnSozalJ1/eyJD7Oaa1r+GqSeGqdkQmIbrEcJnuc8H+aMxGEGAdqYoP/+JugDL/zsgvqDp4yp8jFM/37lYwcHbPZVPR3yjehG42Hlzh/XNJzBKQNuMGxfx8x9PQwSzzbs8pHGkcNv0BiCd3cwvR0dfk=;ZAytDMPnHhlIx04nxEHBXg=="
+secured: "lfYl1hmyea2wvEDQLxgZsd6YkJY3WpG+vq0sCYfO3Z3/s4zK8YEPF+a4QqKgZz/mPN6cRkNB/6Kz4iWawV7FvKLwm9grfiAo6fle0B3O1bO5wxUdYWT7DAx6FUWGU0QXO/E0Mkzt7Vadn331XY5/FlMHlrIYG4wocPBd5QHTUI4y9K635NvYIi0lMgE9GDFSXOSSVS0FIUU9kIMgpa0sOjSlWowbOUextGky0wG8k/Da7yROWlRTcwwVHAnTEQF73R3lEsZ/49ANLWWrxnA6DjuDS3F28z8DKZEK5+QN3u3od8+bGbhaCscMm9zzV8kvTFYx9CHqKQSBcz6la7aNqqNUJN+PQmA0DZzOGmjNSgY=;PBELKjWDi9vV/jQNSwi5uQ=="
 ---
 

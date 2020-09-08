@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-01T16:00:14Z
 webUrl: "https://azure.microsoft.com/en-us/updates/new-regions-for-azure-database-for-postgresql-hyperscale-citus/"
 type: article
 quality: 17
-heat: 17
+heat: 77
 published: false
 
 provider:

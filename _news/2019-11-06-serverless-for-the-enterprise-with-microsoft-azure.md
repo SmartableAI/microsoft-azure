@@ -6,7 +6,7 @@ publishedDateTime: 2019-11-06T06:30:18Z
 webUrl: "https://azure.microsoft.com/blog/serverless-for-the-enterprise-with-microsoft-azure/"
 type: article
 quality: 39
-heat: 39
+heat: 59
 published: false
 
 provider:

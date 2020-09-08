@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-22T21:07:00Z
 webUrl: "https://www.marketwatch.com/press-release/iot-cloud-platform-market-growing-at-a-cagr-126-key-player-aws-microsoft-google-cisco-ibm-2020-05-22"
 type: article
 quality: 49
-heat: 49
+heat: 109
 published: false
 
 provider:
