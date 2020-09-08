@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Platform.sh announces expansion of services to Microsoft Azure West US 2 Datacenter Region"
-excerpt: "PRNewswire/ -- Platform.sh, an end-to-end web platform for agile teams, is pleased to announce the expansion of its services to the West US 2"
-publishedDateTime: 2020-09-08T16:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/platformsh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region-301125659.html"
-webUrl: "https://www.prnewswire.com/news-releases/platformsh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region-301125659.html"
+title: "Nutanix Partners with Microsoft Azure for a Seamless Hybrid Experience"
+excerpt: "SAN JOSE –– Nutanix (NASDAQ: NTNX), a leader in enterprise cloud computing, today announced a new partnership with Microsoft that will enable both companies to deliver a hybrid solution with seamless application,"
+publishedDateTime: 2020-09-08T20:39:00Z
+originalUrl: "https://insidehpc.com/2020/09/nutanix-partners-with-microsoft-azure-for-a-seamless-hybrid-experience/"
+webUrl: "https://insidehpc.com/2020/09/nutanix-partners-with-microsoft-azure-for-a-seamless-hybrid-experience/"
 type: article
-quality: 27
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: insideHPC
+  domain: insidehpc.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Nutanix Announces Partnership with Microsoft Azure for a Seamless Hybrid Experience"
@@ -49,6 +43,20 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 37
+  - title: "Platform.sh announces expansion of services to Microsoft Azure West US 2 Datacenter Region"
+    excerpt: "PRNewswire/ -- Platform.sh, an end-to-end web platform for agile teams, is pleased to announce the expansion of its services to the West US 2"
+    publishedDateTime: 2020-09-08T16:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/platformsh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region-301125659.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 27
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "DH2i Announces Support for Microsoft Azure Shared Disks and New Azure Disk Storage Enhancements"
     excerpt: "DH2i®, the leading provider of multi-platform Software Defined Perimeter (SDP) and Smart Availability(TM) software, today announced DxEnterprise(TM) support for the recently announced"
     publishedDateTime: 2020-09-01T14:37:00Z
@@ -77,16 +85,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Nutanix Partners with Microsoft Azure for a Seamless Hybrid Experience"
-    excerpt: "SAN JOSE –– Nutanix (NASDAQ: NTNX), a leader in enterprise cloud computing, today announced a new partnership with Microsoft that will enable both companies to deliver a hybrid solution with seamless application,"
-    publishedDateTime: 2020-09-08T20:39:00Z
-    webUrl: "https://insidehpc.com/2020/09/nutanix-partners-with-microsoft-azure-for-a-seamless-hybrid-experience/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 17
 
-secured: "vTRMH+tCJUhsWpCKSVo4iFTwFwb9T6K8cWRlvYaZbqqtSsAYPZ/7Ko5Q7mnt1b2udXb8N3SB+zWv5qDqwjDMldRytxuqNLRvWYv+bOg1PIbOWfCytQg3gzn54392jTTABd/ZhFyM5MMjRg22ANT8BdLJ22OA+xAQBXpNhLg32j6totnUMroUotOKceyJXtz+4iNdh66v6rBlGXdefL759xTUBRgVtkLbkAZKDoopAfw+mw801wyX+7bm2EqocrP+SDoknNTyXQmhCP3rNTZlMlRvc95pdEzBSvah148AJMNNZegtX5H+wYvZrV2BYXjzudRNO3JrlHsEeJXrW7jTTly0nVttJb2p0AYGJltDZd4=;DLuJLYRlRv3O8Q1YurDHcw=="
+secured: "yu5Qo7BP6WHgcemAxPOPBs870/D00/rK+2QFpLI74nB8fnZ/CpXV4bXrAFpXU06KQKgWlz1Ln7LKBHi4KuqpI8Ps6MNk+tgEOgPrOmuIh3LFieNXfm07pOJ18FoQVEdJhEgM7pO2LD7paTJWQkPCXcQooW23NoeGAF7LBQ1RJ4miwmCJH9rOsOKfUerPW0blXAsX3ERJfkhGJy32hDIV9Nskq8mtjbFqORaSon99rVgOMgQAoS3Rsf+xjpQ/SujPo9f1MvPwS1nfh9Iyb+fhs2qCHLFMju1wwDfo5ur9ax/rClCjiPeTW7yJlGqGYzdCNOxMHpU6UpYVewHMDZjpFnbdE8Q10wFipBS8T1Q4Rj8=;cwAvROLGLrzyQCSoiLns6Q=="
 ---
 

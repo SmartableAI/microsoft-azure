@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/nutanix-announces-partne
 webUrl: "https://www.marketwatch.com/press-release/nutanix-announces-partnership-with-microsoft-azure-for-a-seamless-hybrid-experience-2020-09-08"
 type: article
 quality: 71
-heat: 151
+heat: 171
 published: true
 
 provider:
@@ -40,16 +40,16 @@ related:
       domain: sify.com
     quality: 37
   - title: "Platform.sh announces expansion of services to Microsoft Azure West US 2 Datacenter Region"
-    excerpt: "Expansion to Azure West US 2 datacenter will help global website fleet customers put their sites closer to their audiences. It will also enable Platform.sh university and enterprise customers throughout the west to deliver the best experience possible to their users."
+    excerpt: "PRNewswire/ -- Platform.sh, an end-to-end web platform for agile teams, is pleased to announce the expansion of its services to the West US 2"
     publishedDateTime: 2020-09-08T16:00:00Z
-    webUrl: "https://www.finanzen.net/nachricht/aktien/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region-9274554"
+    webUrl: "https://www.prnewswire.com/news-releases/platformsh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region-301125659.html"
     type: article
     provider:
-      name: Finanzen
-      domain: finanzen.net
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 27
     images:
-      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
         isCached: true
@@ -81,6 +81,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nutanix Partners with Microsoft Azure for a Seamless Hybrid Experience"
+    excerpt: "SAN JOSE –– Nutanix (NASDAQ: NTNX), a leader in enterprise cloud computing, today announced a new partnership with Microsoft that will enable both companies to deliver a hybrid solution with seamless application,"
+    publishedDateTime: 2020-09-08T20:39:00Z
+    webUrl: "https://insidehpc.com/2020/09/nutanix-partners-with-microsoft-azure-for-a-seamless-hybrid-experience/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 17
 
 secured: "IvTJDhwqSmyhtOZmDo1vD9izgBoMlyIr3ShlSYkEgxgOZ5KfrAu4nZRhwCemNNms3dN0cox/vekmPj8rjBmAOmzdp/vrHcUPmLTEfLzoD84ANBAGDKyOPNxDJcrlcFvQvH3DxCTh/3Sth6kzBZ/6dVZevUZC1hP+fuDUP1D3K3E/AZ59rbbdjyoZaxgvJqK6+rm87lZAMnlVknJIm+IPwqa8R+Mh626TqsnlBhvtxAWfPDja/zmmSGIBBiK3CZqj5fFjY3hhSwJ530RrAfjmia0QNleCOP7quEA553rGlXHBT4FW54UZgb+8Td9pbHKoAItuftCEfwJTSBiZltCOtHzYfzBkPlRajqmwZ/t8lKQ=;e67zIHxhj99TAoTOLRBwSQ=="
 ---

@@ -35,16 +35,16 @@ related:
         height: 630
         isCached: true
   - title: "Platform.sh announces expansion of services to Microsoft Azure West US 2 Datacenter Region"
-    excerpt: "Expansion to Azure West US 2 datacenter will help global website fleet customers put their sites closer to their audiences. It will also enable Platform.sh university and enterprise customers throughout the west to deliver the best experience possible to their users."
+    excerpt: "PRNewswire/ -- Platform.sh, an end-to-end web platform for agile teams, is pleased to announce the expansion of its services to the West US 2"
     publishedDateTime: 2020-09-08T16:00:00Z
-    webUrl: "https://www.finanzen.net/nachricht/aktien/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region-9274554"
+    webUrl: "https://www.prnewswire.com/news-releases/platformsh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region-301125659.html"
     type: article
     provider:
-      name: Finanzen
-      domain: finanzen.net
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 27
     images:
-      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
         isCached: true
@@ -76,6 +76,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nutanix Partners with Microsoft Azure for a Seamless Hybrid Experience"
+    excerpt: "SAN JOSE –– Nutanix (NASDAQ: NTNX), a leader in enterprise cloud computing, today announced a new partnership with Microsoft that will enable both companies to deliver a hybrid solution with seamless application,"
+    publishedDateTime: 2020-09-08T20:39:00Z
+    webUrl: "https://insidehpc.com/2020/09/nutanix-partners-with-microsoft-azure-for-a-seamless-hybrid-experience/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 17
 
 secured: "xZWoUgdVewOGsiUdCgBDcBF8XV6iEt7oZwBJwt+I1kOfhkr2nfSFZrDrUNgLZ+eQbU2tuvK+86tt6H/XMFpC4EpVMcmenbSsbXiF2h0LYEAycXT555g/RjPzER7XEy+eKALlP2H+87+b2r2olejQJ6hDMgSCNJm0P33Zl0EZoF0isY9wWw6w3QMlDdBrhVhrZjsbf93SaszN95lbor2l3BIuUtVv12tW/q68sxT2IMj5NO4vblCczP8/BhD0GiTt4X2C9tF001DVyr1UhSWcvAY+mi8powiMplphT2Ug2PLw3+MvnwqpyL7sA3tOQp+30USIpKTXYIPuz4HGBWLzUsnnnNBf5sTkVDbNWyn2Vjo=;+Z9pLwzA1Bsz9G1Q8uy/Ow=="
 ---

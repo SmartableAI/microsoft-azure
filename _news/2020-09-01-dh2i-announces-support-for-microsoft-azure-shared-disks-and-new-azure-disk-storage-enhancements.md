@@ -50,16 +50,16 @@ related:
       domain: sify.com
     quality: 37
   - title: "Platform.sh announces expansion of services to Microsoft Azure West US 2 Datacenter Region"
-    excerpt: "Expansion to Azure West US 2 datacenter will help global website fleet customers put their sites closer to their audiences. It will also enable Platform.sh university and enterprise customers throughout the west to deliver the best experience possible to their users."
+    excerpt: "PRNewswire/ -- Platform.sh, an end-to-end web platform for agile teams, is pleased to announce the expansion of its services to the West US 2"
     publishedDateTime: 2020-09-08T16:00:00Z
-    webUrl: "https://www.finanzen.net/nachricht/aktien/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region-9274554"
+    webUrl: "https://www.prnewswire.com/news-releases/platformsh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region-301125659.html"
     type: article
     provider:
-      name: Finanzen
-      domain: finanzen.net
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 27
     images:
-      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
         isCached: true
@@ -77,6 +77,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nutanix Partners with Microsoft Azure for a Seamless Hybrid Experience"
+    excerpt: "SAN JOSE –– Nutanix (NASDAQ: NTNX), a leader in enterprise cloud computing, today announced a new partnership with Microsoft that will enable both companies to deliver a hybrid solution with seamless application,"
+    publishedDateTime: 2020-09-08T20:39:00Z
+    webUrl: "https://insidehpc.com/2020/09/nutanix-partners-with-microsoft-azure-for-a-seamless-hybrid-experience/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 17
 
 secured: "UOUEK+VDjkVDh/FTaagO6lUr89CHx+RVeGZ2fC7idhWRpmVs+zeRTGQFImn6GFbLsgeBdvIELbnkrTN8Ik1Nkchv1E9ZiJeXnNhIJBgtRp2ZKblqtq2gKjLgOSgjpqPSGCA6SKzpcHQsqZ2htPNpIWXirtWoYUgtPSIdbIbtxFvUaqaVGsQENywkJqgO+B331lec3LlhTmLShNXgF2PXqycgIzPCzzQadvC41KaXJjQjE5dqXXRklylr1B93XDLdk9BwTvjppG/FjgAqAz25CCCSM8w5BptkCcSVdOLTAxw8NZ0L9o6QCn5nP02Y7SvT3RmJx1qqNkVD+SswavTi4G7xHUPi0gKy+zz7sJl1v1z0UMy0hp0KMhb0TuuzQ2UfrokOZLTJYvBvGEM5AYcqEziNdGGoNJzgpAvEDiyrEybTk9RNPeDcQy0GAXkmvgAHshq0y5C+XLQvBi92FwpCtrlxI303D0mBsQoB9fKuRGgoTtQn+y09YSfZ1ZmgA88b3YBCQmgTPrDRqQce4JCc2A==;/Dvhh1rj0yfTijbcI1oJHA=="
 ---
