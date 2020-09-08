@@ -2,6 +2,55 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-07-14-bigquery-omni-will-query-data-across-google-aws-and-azure-clouds.md",
+      "title": "BigQuery Omni will query data across Google, AWS, and Azure clouds",
+      "excerpt": "Google Cloud is previewing a BigQuery service that promises to eliminate painful and costly data movement by querying the data in place",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3566559/bigquery-omni-will-query-data-across-google-aws-and-azure-clouds.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 217,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2014/03/178803656-100249440-large.jpg",
+          "width": 1200,
+          "height": 939,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3566559/bigquery-omni-will-query-data-across-google-aws-and-azure-clouds.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3566559/bigquery-omni-will-query-data-across-google-aws-and-azure-clouds.amp.html",
+      "publishedDateTime": "2020-07-14T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2020-07-14-nab-to-share-development-costs-with-microsoft-as-it-sends-1000-apps-to-azure.md",
       "title": "NAB to share development costs with Microsoft as it sends 1,000 apps to Azure",
       "excerpt": "The National Australia Bank (NAB) is expanding its partnership with Microsoft, this time seeking to send 1,000 of its 2,600 applications to Azure. The new five-year deal with Microsoft will see the pair co-design, develop, and invest in multi-cloud tech to ...",
@@ -1144,47 +1193,6 @@
       "topics": [
         "Azure",
         "Security"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-rules-engine-for-azure-front-door-and-azure-cdn-is-now-generally-available.md",
-      "title": "Rules Engine for Azure Front Door and Azure CDN is now generally available",
-      "excerpt": "Today we are announcing the general availability of the Rules Engine feature on both Azure Front Door and Azure Content Delivery Network (CDN). ",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/rules-engine-for-azure-front-door-and-azure-cdn-is-now-generally-available/",
-      "originalUrl": "https://azure.microsoft.com/blog/rules-engine-for-azure-front-door-and-azure-cdn-is-now-generally-available/",
-      "featuredContent": null,
-      "heat": 262,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-23T02:00:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Networking"
       ]
     }
   ],

@@ -24,18 +24,18 @@ images:
 
 related:
   - title: "Infoworks DataFoundry to be Featured at Databricks Microsoft Azure Event"
-    excerpt: "Theodore will discuss how AMN used Infoworks DataFoundry to successfully migrate operational and financial forecasting production environments from Hadoop to Microsoft Azure Databricks."
-    publishedDateTime: 2020-08-31T15:28:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event/article_2c52d44f-eb21-5663-81a7-ca7a0f7052ef.html"
+    excerpt: "Infoworks.io, the leader in Enterprise Data Operations and Orchestration (EDO2) systems, announces that the company is co-sponsoring a Unified Data Analytics virtual workshop with Databricks and Microsoft Azure this week."
+    publishedDateTime: 2020-08-31T15:29:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200831005452/en/Infoworks-DataFoundry-Featured-Databricks-Microsoft-Azure-Event"
     type: article
     provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 36
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
+      - url: "https://mms.businesswire.com/media/20200831005452/en/756518/23/Infoworks.jpg"
         width: 1200
-        height: 630
+        height: 627
         isCached: true
 
 secured: "ufo6Z22+OYG3WJB4JSskeMaRO7dSPK5sItAOMt6BieuWlMI1+RWX3PG2BR0EZ3eDJO2xJYYMU/S701vplKR7lb60UM+l1zfYVsLm0e6L91KaaznhMCGSgnv7vnHhuUwvidrNELLJX/gNoUraQtcjJ3lgdvUe8Su5oORRE+HL7wGvahyDa3WByi7lvzmB373tG+4L4Ve9lW+kO6rX6+XIqEEnWtZuTlopcs2tYgEhnzrdhX+dwcAq1sUXpiHNkAUWCW6Bk+NVGzIEA1Dq124Jp/pLOC/w1L7/1JxW9SFGvC+OUmexyB58LJ68fruoTf/vgPMuBzziCHcterLIppr2pQ==;ZZqJJIR7Wj4TAYmsUcy5Fg=="

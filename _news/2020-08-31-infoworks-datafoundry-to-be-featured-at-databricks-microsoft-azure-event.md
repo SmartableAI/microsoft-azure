@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Infoworks DataFoundry to be Featured at Databricks Microsoft Azure Event"
-excerpt: "Theodore will discuss how AMN used Infoworks DataFoundry to successfully migrate operational and financial forecasting production environments from Hadoop to Microsoft Azure Databricks."
-publishedDateTime: 2020-08-31T15:28:00Z
-originalUrl: "https://www.bakersfield.com/ap/news/infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event/article_2c52d44f-eb21-5663-81a7-ca7a0f7052ef.html"
-webUrl: "https://www.bakersfield.com/ap/news/infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event/article_2c52d44f-eb21-5663-81a7-ca7a0f7052ef.html"
+excerpt: "Infoworks.io, the leader in Enterprise Data Operations and Orchestration (EDO2) systems, announces that the company is co-sponsoring a Unified Data Analytics virtual workshop with Databricks and Microsoft Azure this week."
+publishedDateTime: 2020-08-31T15:29:00Z
+originalUrl: "https://www.businesswire.com/news/home/20200831005452/en/Infoworks-DataFoundry-Featured-Databricks-Microsoft-Azure-Event"
+webUrl: "https://www.businesswire.com/news/home/20200831005452/en/Infoworks-DataFoundry-Featured-Databricks-Microsoft-Azure-Event"
 type: article
 quality: 36
 heat: 36
 published: false
 
 provider:
-  name: The Bakersfield Californian
-  domain: bakersfield.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
+  - url: "https://mms.businesswire.com/media/20200831005452/en/756518/23/Infoworks.jpg"
     width: 1200
-    height: 630
+    height: 627
     isCached: true
 
 related:
@@ -39,6 +39,6 @@ related:
         height: 627
         isCached: true
 
-secured: "MOvE6VlAoxBK4WInpmM7Go9mT6gcu2OEZfymTd0h519+0PpYzN4Y34ycrKbYJSm2JsJylzmf/DTpWHHDQRw0H0ez1uPQCZJJQqke4crgXG8eokf/ebMIiuhRLxERrf6HJDEnFW39CLNhZ7KajFUlngIX2SdQezmesxEZ3cpbegW5J4nfdNdcLI9M8KtGW2MzOvWLr+VIhIoCxDRrKjvYeLo+p65o8n6CgI96jZXQPGpDmM6f8JVxHqXPHptUJwn19HRfilp/11RTjrWKJOIiASDxvHNCwH/YMllxBK0EanCC7gNxJYANoz/f9JtLmU4583Va00rG7zM955MdyuyUtFzn3j5lpXLHwXpXd70NJss=;rDPIQEInx89dBeGSk5N6Ig=="
+secured: "YqM+pt6uv4A5HkhQzj3VI+7sSQkjWZ2h5jm+SJmuBmeo+PyRK6IcAPOuNg1qM+rKMsVOjFEpluCUDcNNfbcinqu6QxG+lDIYjbbVg8FOYXp3xAUDuKobHGZZEVR+XeCqUCrWrCMmXRmksGS5IUf3M0WcjOdng580PyQOqIXYKQKlxQH37r8CF9T0c3ZRJOa1R6dksoo1mluxdtwfjbBzi81cTmUar6BqdK/tJwW/3xTAVPyO+is2BnIGu5G/J0igDxdqdVJvlAA8bM3gbDIjM9E+xlBolM8PecjeV7fvUGn6uCZbKNIPLqLV/cjvhOZVxWOCptRHmpuL7K/e/qMW9wU+qPVWGyrPraK88/1QD2Q=;c/OY4BIc5wS5zbjFViPlJg=="
 ---
 
