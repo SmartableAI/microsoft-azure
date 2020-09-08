@@ -4,7 +4,7 @@ excerpt: "Learn how to deploy and configure virtual machines, containers, and We
 type: collection
 price: Free
 length: PT11H15M
-heat: 82
+heat: 73
 
 provider:
   name: Microsoft Learn

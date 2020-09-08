@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Enable secure access to apps for external users with Azure AD B2C"
 
-secured: "2dvXYouFBjqMSF2838ywX7KYURnNFLqZqdAkp0ApYFwvvcIXAmYdIlq6EO7Cri5ELDUQL15OXh/bvkhmKKRQeJYmWbWYkBv+OybrFdQ4cZpMJKIqRMcYIQ99jebQITd9+ABAvafNJARuPtdUr5ZhzGJ+b/Npvz/Pm1dzlZlnqNV4++I3VFa4Hf5bVsG2kqeDpXHJt+OdW5TZRd8sNzLpj3pvVyB9uDaHOXuFcdcAO1ZW1xqt9RD/idFXW92quw21w+CqMk2bF5h9iGX+fVTI2GE3nsiuwyhKP0A7eukF2Feo8MdEZKxl2o/bIfbzYDCQee+AbSKyQY1fD5x2GN6eTYleuV3JQh/lx1PlF2D+IgO+IY2JkEMfyvpTpp4N/+1zSiMv7MQndo3WxTU0X39cvPxIn0S21KBV2JMQZM84VNk=;Dks9HfCfF4jpUgls6ZMEvA=="
+secured: "AA2IwTg8jVbTV+S3rjLzwlKR/WT0Vrq/Y496LngI4HgM4iSI3TluxAuAzigZznjeX8exq3TzOH1NFKYnveezun1n2ujW+CZnGSKmzpEeXR3lv0E5qiMTbu7D9/Pes0p3JLLhcXfvj/2YUkJI1UpNRgWHonoDH7Us7N4y9CHMBvkTFuEmSp2nieBWRZUwGOv8+4/ccRpe9cqmIxReODPf3n/XT+IOJOEk90Eungl+9N1ow5RzO93Ti65IGq1nFEkgCEc0nx8Nnz3OTAJmQeBGW1MXl9aAAqPdC/tZueHMBTq4XXENudRQt7oRR1VUxgcliBr/BjN0onqrfKHroIx0+i5elAbE33iGYWrZCCDrqRlsJXKbAMK4IlcQXB/u53KlvC+pFWPOXb49Uh7vzl9gVKd0KW+RxDYYiqTpWnwV0k8=;isom+aJOYCyNdQny8dCwUg=="
 ---
 

@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 64 mins
 ratings:
-  count: 233
-  average: 4.7381973
-heat: 50
+  count: 234
+  average: 4.7393165
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Utilize Azure for SAP workloads reference architecture"
 
-secured: "+mjC7tKH4FQ557baAErq34QxFTemBhjhB0oEgZ8NgSGu1VOFoHa3mAXHz/CjGVEDKBkEiEEw3E6mz8Xdee+fsIJJEPpt8qTUh6fBmeGbJ8afC1BHPfPiI2mukT8EJOeOLTvZxRZ98K05Mdg4d3V7yzD2w0KM/Fsn2fgbKYma47Hinw6kt8Vk7kE8yQZDsbOm5hk/wfBwWTJtdVEjqadWY68TF6sOq9vfkQR7MwqSICBvARkPJgSmE114t+IBAIYigGs27dQeLzILeyAnK0JrF1Tf+RAeJY7BDZfqP++txcfj+8aJrNCRoiO4U2tO+h3iZNcTRABBAgpdylnCZu0V0vE4cFIVWxNcneOXvb/MbmKse7QcoMe8XPqidb20l1yvgyGk7L9b0ejncK9R7R8jce/TV2nYT+33+GYlUyh0YFo=;+D7rxfoG4fBB1ianDaPwiA=="
+secured: "ePQVHQtpCenblkcbdbdqLBXBjOhaQZv/yDnyBTvp5V6VzBD3dQ3aBoaLrRLjjlM3/8Jsm3ErHvCwyL09ldniiaVkOAqb7M+8M8V6pepDxRMcZ6f+LbQTGg/My6JKn79d8dsVLAsQ9pqgcHiOPP/nBcNRud+pyngIxaPAdJL4AcoSpcZUhMQPrwzcNuj0BUSPYGywTUyR/nK7XixB0FOwuaAFHc7e3sYmD9/OiPMBOQv+07oH4Mq6Fp0GlzzeRP7qoQSZTnTiAElPfRgVTmAT0Re8lLPPEnqnIMCNc5Ed1LHXLupCvJGYXECY/8KoU6g//ndBTK5K56KtON8oJZyXHRutUNXYOS4gnAPFcUMLQqRk1ITHZmd1aNp9bigr4GAv7V6j6izrv0xCxjQTsI+aWYjHPq97egeYkb9sF2ozGI8=;/BWcY5bkSfsqHXahG3cCBw=="
 ---
 
