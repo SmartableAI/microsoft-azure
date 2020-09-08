@@ -4,6 +4,123 @@
   "page": 5,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-learn-the-business-value-of-microsoft-azure.md",
+      "title": "Learn the business value of Microsoft Azure",
+      "excerpt": "Are you interested in learning about the cloud in an easy to understand way? Or perhaps you are confused about where to begin with cloud technology?\nThis learning experience will take you on  a journey that will begin by showing you how digital transformation and the power of the cloud can transform your business. We will cover how Microsoft Azure cloud services can power your organization on a trusted cloud platform. Finally, we will wrap up by illustrating how to make this journey real for your organization.\nIn this learning path, you will learn about:\n\nEnabling digital transformation.\nIdentifying ways to migrate and modernize applications.\nGaining insights through data, artificial intelligence (AI) and the Internet of Things (IoT)\nMeeting a broad set of regulatory and compliance standards on a trusted cloud platform.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-learn-the-business-value-of-microsoft-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-learn-the-business-value-of-microsoft-azure/",
+      "length": "PT4H57M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Introduction to Azure solutions",
+          "excerpt": "Begin digital transformation by exploring why Azure is the right platform for your organization and the value Azure can bring. See how Azure enables you to empower employees, engage customers, optimize operations, and transform products.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-areas-and-solutions-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Introduction to Azure solutions",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Applications and infrastructure migration and modernization",
+          "excerpt": "Every modern business is powered by applications, such as internal procurement applications, Customer Relationship Management (CRM) systems, retail websites, and third-party products. As your business prepares for digital transformation, it’s important to begin modernizing and migrating your applications and infrastructure to the cloud. Azure is a key component of that process. You can choose to migrate, modernize, or build cloud native solutions depending on your business goals and how you assess your application portfolio. This is a strategic decision. You’ll be able to choose the path that’s right for your organization.",
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/apps-and-infra-migration-modernization-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Applications and infrastructure migration and modernization",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Microsoft data estate migration and modernization",
+          "excerpt": "Establishing a modern data estate is a foundational step toward digital transformation. A modern data estate enables timely insights and decision making across all your data, and sets the foundation for AI. A data estate is all of the data an organization owns. When you migrate this data to the cloud or modernize your environment on-premises you can gain important insights to fuel innovation.",
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/data-estate-migration-and-modernization-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Microsoft data estate migration and modernization",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Microsoft Azure Artificial Intelligence (AI) strategy and solutions",
+          "excerpt": "This module provides an overview of Azure AI and demonstrates how Microsoft tools, services, and infrastructure can help make AI real for your organization, whether you want to unlock insights from your latent data with knowledge mining, develop your own AI models with machine learning, or build immersive apps using AI.",
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-artificial-intelligence-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Microsoft Azure Artificial Intelligence (AI) strategy and solutions",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 8,
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-areas-and-solutions-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Introduction to Azure solutions",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-work-with-nosql-data-in-azure-cosmos-db-learning-path.md",
       "title": "Work with NoSQL data in Azure Cosmos DB learning path",
       "excerpt": "In this learning path, find out how to customize NoSQL data storage and distribution with the Azure portal, Cosmos DB extension, and Cosmos DB .NET Core SDK.",
@@ -261,8 +378,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-devops-continuous-planning-intergration/",
       "length": "22 mins",
       "ratings": {
-        "count": 709,
-        "average": 4.6671367
+        "count": 714,
+        "average": 4.669468
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -303,8 +420,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
       "length": "45 mins",
       "ratings": {
-        "count": 2941,
-        "average": 4.5817747
+        "count": 2945,
+        "average": 4.5809846
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -348,8 +465,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-azure-services-with-cli/",
       "length": "34 mins",
       "ratings": {
-        "count": 3876,
-        "average": 4.745872
+        "count": 3877,
+        "average": 4.7459373
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -391,8 +508,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/define-foundation-pillars/",
       "length": "16 mins",
       "ratings": {
-        "count": 537,
-        "average": 4.703911
+        "count": 538,
+        "average": 4.704461
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -433,8 +550,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
       "length": "50 mins",
       "ratings": {
-        "count": 2698,
-        "average": 4.67235
+        "count": 2701,
+        "average": 4.6712327
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -743,122 +860,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-azure-sql-fundamentals.md",
-      "title": "Azure SQL fundamentals",
-      "excerpt": "Learn how to deploy, secure, monitor and troubleshoot Azure SQL database.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-azure-sql-fundamentals/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-azure-sql-fundamentals/",
-      "length": "PT7H14M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Introduction to Azure SQL",
-          "excerpt": "Introduction to Azure SQL",
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-sql-intro-social.png",
-              "width": 642,
-              "height": 325,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Deploy and configure servers, instances, and databases for Azure SQL",
-          "excerpt": "Deploy and configure servers, instances, and databases for Azure SQL",
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-sql-deploy-configure-social.png",
-              "width": 642,
-              "height": 324,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Secure your data with Azure SQL",
-          "excerpt": "Secure your data with Azure SQL",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-sql-secure-data-social.png",
-              "width": 642,
-              "height": 325,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Deliver consistent performance with Azure SQL",
-          "excerpt": "Deliver consistent performance with Azure SQL",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-sql-performance-social.png",
-              "width": 642,
-              "height": 324,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-sql-intro-social.png",
-          "width": 642,
-          "height": 325,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-define-an-ai-strategy-to-create-business-value-across-industries.md",
       "title": "Define an AI strategy to create business value across industries",
       "excerpt": "In this learning path, you will hear from Peter Zemsky, INSEAD's Eli Lilly Chaired Professor of Strategy and Innovation, about how AI is driving business value across industries and companies as well as Microsoft customers and partners. You will be able to discuss how technical teams are bringing AI into business applications and how business leaders of different industries are thinking about AI for their own businesses.",
@@ -1109,8 +1110,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/",
       "length": "75 mins",
       "ratings": {
-        "count": 4606,
-        "average": 4.6296134
+        "count": 4608,
+        "average": 4.629557
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1153,7 +1154,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
       "length": "36 mins",
       "ratings": {
-        "count": 6146,
+        "count": 6152,
         "average": 4.6666126
       },
       "provider": {
@@ -1198,8 +1199,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-data-analytics/",
       "length": "PT16M",
       "ratings": {
-        "count": 400,
-        "average": 4.8075
+        "count": 401,
+        "average": 4.80798
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1240,8 +1241,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
       "length": "27 mins",
       "ratings": {
-        "count": 1271,
-        "average": 4.686074
+        "count": 1273,
+        "average": 4.6857815
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2165,7 +2166,7 @@
           "path": "",
           "title": "Recognize and synthesize speech",
           "excerpt": "Learn how to recognize and synthesize speech by using Azure Cognitive Services.",
-          "heat": 53,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/convert-speech-to-text-social.png",
@@ -2289,7 +2290,7 @@
           "path": "",
           "title": "Recognize and synthesize speech",
           "excerpt": "Learn how to recognize and synthesize speech by using Azure Cognitive Services.",
-          "heat": 53,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/convert-speech-to-text-social.png",
@@ -2471,6 +2472,123 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-improve-your-reliability-with-modern-operations-practices.md",
+      "title": "Improve your reliability with modern operations practices",
+      "excerpt": "The reliability of your systems, services and products has a direct impact on your success. Learn the modern operations principles and practices (and the Azure features that support them) that will help you achieve the level of reliability you need.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-improve-your-reliability-with-modern-operations-practices/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-improve-your-reliability-with-modern-operations-practices/",
+      "length": "PT2H50M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Improve your reliability with modern operations practices: An introduction",
+          "excerpt": "The reliability of your systems, services, and products are crucial to your success and the success of your organization. Learn how to approach those challenges.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/improve-reliability-introduction-social.png",
+              "width": 640,
+              "height": 320,
+              "title": "Improve your reliability with modern operations practices: An introduction",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Improve your reliability with modern operations practices: Monitoring",
+          "excerpt": "Monitoring is the foundational practice you must tackle before you can make any headway with reliability. Learn what (and what not) to monitor to improve it using the tools available on Azure.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/improve-reliability-monitoring-social.png",
+              "width": 640,
+              "height": 320,
+              "title": "Improve your reliability with modern operations practices: Monitoring",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Improve your reliability with modern operations practices: Incident response",
+          "excerpt": "Everyone has incidents, but the top performing organizations know how to respond to them effectively. Learn the fundamentals of efficient incident response and the Azure tools that make them possible.",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/improve-reliability-incidents-social.png",
+              "width": 640,
+              "height": 320,
+              "title": "Improve your reliability with modern operations practices: Incident response",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Improve your reliability with modern operations practices: Learning from failure",
+          "excerpt": "Incidents will happen—there’s no doubt about that. The key question is whether you will treat them as a learning opportunity to make your operations practice better or just as a loss of time, money, and reputation. Learn the practice and the Azure tools that can help level up your operations practice by learning from failure.",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/improve-reliability-failure-social.png",
+              "width": 640,
+              "height": 320,
+              "title": "Improve your reliability with modern operations practices: Learning from failure",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/improve-reliability-introduction-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Improve your reliability with modern operations practices: An introduction",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-sap-certified-offerings-for-azure.md",
       "title": "SAP certified offerings for Azure",
       "excerpt": "As an IT Professional experienced in SAP solutions, you need to understand how to leverage Azure resources that include virtual machines, virtual networks, storage accounts, and Azure AD. These modules will provide the basis for running SAP workloads in Azure.",
@@ -2588,16 +2706,12 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-linux-vm-in-azure.md",
-      "title": "Create a Linux virtual machine in Azure",
-      "excerpt": "In this module, we discuss how to create a Linux virtual machine using the Azure portal.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-linux-vm-in-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
-      "length": "86 mins",
-      "ratings": {
-        "count": 7534,
-        "average": 4.68463
-      },
+      "path": "_learning/collections/microsoft-learn-virtualization-sharing-cloud-resources.md",
+      "title": "Virtualization - Sharing cloud resources",
+      "excerpt": "Dive deeper into how the cloud works by understanding virtualization. How are computing power, memory, input and output, networking, and storage virtualized?\nIn this learning path, you will:\n\nGet an overview of virtualization technology and how it is used in the cloud\nLearn a formal definition of virtualization and its different types\nUnderstand how CPUs are virtualized\nUnderstand how memory is virtualized\nUnderstand how I/O is virtualized\nUnderstand how storage and networking is virtualized\n\nIn partnership with Dr. Majd Sakr and Carnegie Mellon University.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-virtualization-sharing-cloud-resources/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-virtualization-sharing-cloud-resources/",
+      "length": "PT3H22M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -2611,68 +2725,97 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Beginner",
+        "Intermediate"
       ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Share cloud resources",
+          "excerpt": "Carnegie Mellon University's Cloud Developer course. Get an introduction to virtualization, one of the many technologies that power the cloud. Learn what virtualization is, its benefits, and how cloud resources are shared.",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/share-cloud-resources-social.png",
+              "width": 1000,
+              "height": 500,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Understand virtualization",
+          "excerpt": "Carnegie Mellon University's Cloud Developer course. Take a deep dive into virtualization by understanding its formal definition as well as the different types of virtual machines.",
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/understand-virtualization-social.png",
+              "width": 1000,
+              "height": 500,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Virtualize computing power",
+          "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn about how computing power is virtualized using virtual CPUs. Covers different types of CPU virtualization.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/virtualize-computing-power-social.png",
+              "width": 1000,
+              "height": 500,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Virtualize memory",
+          "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn how memory is virtualized to support cloud resources. Covers different types of memory mapping and related issues.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/virtualize-memory-social.png",
+              "width": 1000,
+              "height": 500,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 6,
       "heat": 61,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/create-linux-virtual-machine-in-azure-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Create a Linux virtual machine in Azure",
+          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/share-cloud-resources-social.png",
+          "width": 1000,
+          "height": 500,
           "isCached": true
         }
       ],
-      "type": "course",
+      "type": "collection",
       "price": "Free",
       "topics": [
-        "Azure",
-        "Compute",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-secure-azure-resources-with-rbac.md",
-      "title": "Secure your Azure resources with role-based access control (RBAC)",
-      "excerpt": "Learn how to use RBAC to manage access to resources in Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-azure-resources-with-rbac/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
-      "length": "37 mins",
-      "ratings": {
-        "count": 4460,
-        "average": 4.645516
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-azure-resources-with-rbac-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Secure your Azure resources with role-based access control (RBAC)",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Identity"
+        "Azure"
       ]
     }
   ],

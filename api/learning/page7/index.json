@@ -4,6 +4,128 @@
   "page": 7,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-working-with-connected-field-service-for-dynamics-365-and-azure-iot.md",
+      "title": "Working with Connected Field Service for Dynamics 365 and Azure IoT",
+      "excerpt": "This learning path introduces you to connected Field Service and Azure IoT. Included in this learning path is identifying exceptions, register and manage devices, remotely monitor and service equipment, and using IoT central with connected Field Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-working-with-connected-field-service-for-dynamics-365-and-azure-iot/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-working-with-connected-field-service-for-dynamics-365-and-azure-iot/",
+      "length": "PT6H13M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Get started with Connected Field Service for Dynamics 365 and Azure IoT",
+          "excerpt": "This module gets you started with Connected Field Service and Azure IoT",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/get-started-with-connected-field-service-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Get started with Connected Field Service for Dynamics 365 and Azure IoT",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Remotely monitor and service customer equipment with Connected Field Service for Dynamics 365 and Azure IoT",
+          "excerpt": "This module will focus on the end-to-end process of remotely monitoring IoT enabled devices using the Connected Field Service solution including device registration, working with alerts, and designing processes to take specific actions.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/remotely-monitor-and-service-customer-equipment-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Remotely monitor and service customer equipment with Connected Field Service for Dynamics 365 and Azure IoT",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Register and manage customer devices with Connected Field Service for Dynamics 365 and Azure IoT",
+          "excerpt": "This module will focus on IoT Device registration and monitoring using the Connected Field Service solution including device registration (physical and non-physical), working with device twins, and streamlining device management and interactions.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/register-and-manage-customer-devices-with-connected-field-service-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Register and manage customer devices with Connected Field Service for Dynamics 365 and Azure IoT",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Using IoT Central with Connected Field Service for Dynamics 365",
+          "excerpt": "This module focuses on using IoT Central with Connected Field Service add-on for Dynamics 365 for Field Service.  The module walks you through building an IoT Central application and escalating the alerts into Dynamics 365.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/using-iot-central-with-connected-field-service-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Using IoT Central with Connected Field Service for Dynamics 365",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/get-started-with-connected-field-service-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Get started with Connected Field Service for Dynamics 365 and Azure IoT",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-allow-users-to-reset-their-password.md",
       "title": "Allow users to reset their password with Azure Active Directory self-service password reset",
       "excerpt": "Evaluate self-service password reset to allow users in your organization to reset their passwords or unlock their accounts. Set up, configure, and test self-service password reset.",
@@ -96,8 +218,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/",
       "length": "24 mins",
       "ratings": {
-        "count": 8322,
-        "average": 4.699712
+        "count": 8323,
+        "average": 4.6997476
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -138,8 +260,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/",
       "length": "28 mins",
       "ratings": {
-        "count": 4486,
-        "average": 4.673651
+        "count": 4487,
+        "average": 4.673724
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -180,8 +302,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-devops-continuous-security-operations/",
       "length": "22 mins",
       "ratings": {
-        "count": 327,
-        "average": 4.6666665
+        "count": 328,
+        "average": 4.667683
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -309,8 +431,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/survey-the-azure-data-platform/",
       "length": "58 mins",
       "ratings": {
-        "count": 4129,
-        "average": 4.6863647
+        "count": 4131,
+        "average": 4.686517
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -352,8 +474,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/assess-your-development-process/",
       "length": "PT19M",
       "ratings": {
-        "count": 6587,
-        "average": 4.7054806
+        "count": 6588,
+        "average": 4.7053733
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -394,8 +516,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-azure-tasks-with-powershell/",
       "length": "71 mins",
       "ratings": {
-        "count": 4527,
-        "average": 4.7077537
+        "count": 4528,
+        "average": 4.707818
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -474,39 +596,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-get-started-with-devops.md",
-      "title": "Get started with Azure DevOps",
-      "excerpt": "Explore what DevOps is (and isn't) and learn how to get started with Azure DevOps.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-get-started-with-devops/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/",
-      "length": "PT25M",
-      "ratings": {
-        "count": 6802,
-        "average": 4.7216997
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 59,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "DevOps"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-manage-subscription-access-azure-rbac.md",
       "title": "Manage access to an Azure subscription by using Azure role-based access control (RBAC)",
       "excerpt": "To grant access to a subscription, identify the appropriate role to assign to an employee. Understand when you might need to temporarily elevate your own access to regain access to a subscription.",
@@ -514,8 +603,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
       "length": "21 mins",
       "ratings": {
-        "count": 1264,
-        "average": 4.662975
+        "count": 1265,
+        "average": 4.662451
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -868,8 +957,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
       "length": "25 mins",
       "ratings": {
-        "count": 3938,
-        "average": 4.702641
+        "count": 3940,
+        "average": 4.7027917
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -910,8 +999,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-concepts-of-relational-data/",
       "length": "PT24M",
       "ratings": {
-        "count": 394,
-        "average": 4.796954
+        "count": 397,
+        "average": 4.793451
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -952,8 +1041,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-azure-sql-data-warehouse/",
       "length": "47 mins",
       "ratings": {
-        "count": 2609,
-        "average": 4.5741663
+        "count": 2610,
+        "average": 4.5743294
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1080,8 +1169,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-roles-responsibilities-world-of-data/",
       "length": "PT17M",
       "ratings": {
-        "count": 504,
-        "average": 4.803571
+        "count": 506,
+        "average": 4.804348
       },
       "provider": {
         "name": "Microsoft Learn",

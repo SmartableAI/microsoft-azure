@@ -4,6 +4,39 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-get-started-with-devops.md",
+      "title": "Get started with Azure DevOps",
+      "excerpt": "Explore what DevOps is (and isn't) and learn how to get started with Azure DevOps.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-get-started-with-devops/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 6802,
+        "average": 4.7216997
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 119,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "DevOps"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-architect-infrastructure-operations-in-azure-learning-path.md",
       "title": "Architect infrastructure operations in Azure learning path",
       "excerpt": "Learn how to monitor, analyze, and manage the ongoing operation of your infrastructure in Azure.",
@@ -799,7 +832,7 @@
           "path": "",
           "title": "Get started with Azure DevOps",
           "excerpt": "Explore what DevOps is (and isn't) and learn how to get started with Azure DevOps.",
-          "heat": 59,
+          "heat": 119,
           "type": "course",
           "topics": [
             "DevOps"
@@ -809,7 +842,7 @@
           "path": "",
           "title": "Choose an Agile approach to software development",
           "excerpt": "Learn to foster the DevOps values of transparency and team cooperation with Azure Boards.",
-          "heat": 52,
+          "heat": 54,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-devops/choose-an-agile-approach-to-software-development-social.png",
@@ -898,7 +931,7 @@
           "path": "",
           "title": "Get started with Azure DevOps",
           "excerpt": "Explore what DevOps is (and isn't) and learn how to get started with Azure DevOps.",
-          "heat": 59,
+          "heat": 119,
           "type": "course",
           "topics": [
             "DevOps"
@@ -908,7 +941,7 @@
           "path": "",
           "title": "Choose an Agile approach to software development",
           "excerpt": "Learn to foster the DevOps values of transparency and team cooperation with Azure Boards.",
-          "heat": 52,
+          "heat": 54,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-devops/choose-an-agile-approach-to-software-development-social.png",
@@ -2578,8 +2611,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/assess-your-development-process/",
       "length": "PT19M",
       "ratings": {
-        "count": 6587,
-        "average": 4.7054806
+        "count": 6588,
+        "average": 4.7053733
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2613,39 +2646,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-get-started-with-devops.md",
-      "title": "Get started with Azure DevOps",
-      "excerpt": "Explore what DevOps is (and isn't) and learn how to get started with Azure DevOps.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-get-started-with-devops/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/",
-      "length": "PT25M",
-      "ratings": {
-        "count": 6802,
-        "average": 4.7216997
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 59,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "DevOps"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-incident-response-with-alerting-on-azure.md",
       "title": "Improve incident response with alerting on Azure",
       "excerpt": "Respond to incidents and activities in your infrastructure through alerting capabilities in Azure Monitor.",
@@ -2653,8 +2653,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
       "length": "53 mins",
       "ratings": {
-        "count": 1526,
-        "average": 4.6336827
+        "count": 1528,
+        "average": 4.6335077
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2809,6 +2809,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-choose-an-agile-approach.md",
+      "title": "Choose an Agile approach to software development",
+      "excerpt": "Learn to foster the DevOps values of transparency and team cooperation with Azure Boards.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-an-agile-approach/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-an-agile-approach/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 5173,
+        "average": 4.7450223
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/choose-an-agile-approach-to-software-development-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Choose an Agile approach to software development",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "DevOps"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-a-build-pipeline.md",
       "title": "Create a build pipeline with Azure Pipelines",
       "excerpt": "Set up a continuous integration (CI) pipeline that automates the process of building your application.",
@@ -2858,8 +2900,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
       "length": "57 mins",
       "ratings": {
-        "count": 1236,
-        "average": 4.5760517
+        "count": 1238,
+        "average": 4.5759287
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2893,49 +2935,6 @@
         "Security",
         "DevOps",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-host-build-agent.md",
-      "title": "Host your own build agent in Azure Pipelines",
-      "excerpt": "Learn how to use your own build agent when Microsoft-hosted agents don't meet your needs.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-host-build-agent/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-build-agent/",
-      "length": "59 mins",
-      "ratings": {
-        "count": 1673,
-        "average": 4.7065153
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/host-your-own-build-server-in-your-build-pipeline-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Host your own build agent in Azure Pipelines",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
       ]
     }
   ],

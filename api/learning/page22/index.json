@@ -142,8 +142,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-compliance-controls-sensitive-data/",
       "length": "PT15M",
       "ratings": {
-        "count": 23,
-        "average": 4.826087
+        "count": 26,
+        "average": 4.8076925
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -599,48 +599,6 @@
           "width": 640,
           "height": 320,
           "title": "Improve your reliability with modern operations practices: Deployment",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-improve-reliability-incidents.md",
-      "title": "Improve your reliability with modern operations practices: Incident response",
-      "excerpt": "Everyone has incidents, but the top performing organizations know how to respond to them effectively. Learn the fundamentals of efficient incident response and the Azure tools that make them possible.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-improve-reliability-incidents/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-reliability-incidents/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 70,
-        "average": 4.614286
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/improve-reliability-incidents-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Improve your reliability with modern operations practices: Incident response",
           "isCached": true
         }
       ],
@@ -1284,6 +1242,49 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-iot.md",
+      "title": "Introduction to Azure IoT",
+      "excerpt": "Explain the significance of Azure IoT and the problems it solves. Describe Azure IoT components and explain how you combine them to solve IoT solutions, which create value for enterprises.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-iot/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot/",
+      "length": "31 mins",
+      "ratings": {
+        "count": 417,
+        "average": 4.6882496
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-iot-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Introduction to Azure IoT",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
       ]
     }
   ],

@@ -4,6 +4,137 @@
   "page": 19,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-control-access-to-azure-storage-with-sas.md",
+      "title": "Control access to Azure Storage with shared access signatures",
+      "excerpt": "Grant access to data stored in your Azure Storage accounts securely through the use of shared access signatures.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-control-access-to-azure-storage-with-sas/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-access-to-azure-storage-with-sas/",
+      "length": "37 mins",
+      "ratings": {
+        "count": 31,
+        "average": 4.387097
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/control-access-to-azure-storage-with-sas-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Control access to Azure Storage with shared access signatures",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-convert-speech-to-text.md",
+      "title": "Transcribe speech in real time with Azure Cognitive Services",
+      "excerpt": "Learn how to transcribe speech and convert it to text through real-time transcription with the Speech Service in Azure Cognitive Services.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-convert-speech-to-text/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/convert-speech-to-text/",
+      "length": "52 mins",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/convert-speech-to-text-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Transcribe speech in real time with Azure Cognitive Services",
+          "isCached": true
+        },
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/transcribe-speech-input-text-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Transcribe speech in real time with Azure Cognitive Services",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-copy-blobs-from-command-line-and-code.md",
+      "title": "Copy and move blobs from one container or storage account to another from the command line and in code",
+      "excerpt": "Use .NET, AzCopy, and Azure CLI to migrate files between Azure storage accounts.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-copy-blobs-from-command-line-and-code/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/copy-blobs-from-command-line-and-code/",
+      "length": "58 mins",
+      "ratings": {
+        "count": 142,
+        "average": 4.556338
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/copy-blobs-from-command-line-and-code-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Copy and move blobs from one container or storage account to another from the command line and in code",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-an-app-to-run-parallel-compute-jobs-in-azure-batch.md",
       "title": "Create an app to run parallel compute jobs in Azure Batch",
       "excerpt": "Azure Batch is a Platform as a Service (PaaS) provided by Microsoft to run large-scale parallel, high performant, computing applications in Azure. In this module you'll write a .NET Core console app to perform video transcoding, in parallel, with Azure Batch services.",
@@ -790,8 +921,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/debug-nodejs/",
       "length": "PT37M",
       "ratings": {
-        "count": 93,
-        "average": 4.6989245
+        "count": 94,
+        "average": 4.691489
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -875,8 +1006,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-azure-functions/",
       "length": "46 mins",
       "ratings": {
-        "count": 277,
-        "average": 4.6859207
+        "count": 278,
+        "average": 4.6870503
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -961,8 +1092,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-docker/",
       "length": "46 mins",
       "ratings": {
-        "count": 243,
-        "average": 4.6831274
+        "count": 244,
+        "average": 4.6844263
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1181,134 +1312,6 @@
       "topics": [
         "Azure",
         "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-deploy-prebuilt-module-edge-device.md",
-      "title": "Deploy a prebuilt module to the Edge device",
-      "excerpt": "Deploy a pre-built temperature simulator module to the edge using a container. The pre-built module will be deployed to an IoT edge device. You will check that the module was successfully created and deployed to the edge. You will view the simulated data from the deployed module.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-prebuilt-module-edge-device/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
-      "length": "56 mins",
-      "ratings": {
-        "count": 329,
-        "average": 4.4650455
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/deploy-pre-built-module-iot-edge-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Deploy a prebuilt module to the Edge device",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "IoT",
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-deploy-python.md",
-      "title": "Automate Python deployments with Azure Pipelines",
-      "excerpt": "Implement a CI/CD pipeline for Python.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-python/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-python/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 13,
-        "average": 4.6153846
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/deploy-python-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Automate Python deployments with Azure Pipelines",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-deploy-sap-certified-offerings.md",
-      "title": "Deploy SAP certified offerings on Azure",
-      "excerpt": "In this module, you explore the platform compliance criteria that is stipulated by SAP for deploying SAP solutions in Azure. In addition, you will look at the options for deploying SAP in Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-sap-certified-offerings/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-sap-certified-offerings/",
-      "length": "43 mins",
-      "ratings": {
-        "count": 297,
-        "average": 4.791246
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/deploy-sap-certified-offerings-for-azure-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Deploy SAP certified offerings on Azure",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],

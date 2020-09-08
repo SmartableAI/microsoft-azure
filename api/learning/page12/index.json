@@ -4,6 +4,50 @@
   "page": 12,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-tune-hyperparameters-with-azure-machine-learning.md",
+      "title": "Tune hyperparameters with Azure Machine Learning",
+      "excerpt": "Choosing optimal hyperparameter values for model training can be difficult, and usually involved a great deal of trial and error. With Azure Machine Learning, you can leverage cloud-scale experiments to tune hyperparameters.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-tune-hyperparameters-with-azure-machine-learning/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tune-hyperparameters-with-azure-machine-learning/",
+      "length": "PT46M",
+      "ratings": {
+        "count": 127,
+        "average": 4.6850395
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Tune hyperparameters with Azure Machine Learning",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-work-with-mutable-and-partial-data-in-a-redis-cache.md",
       "title": "Work with mutable and partial data in Azure Cache for Redis",
       "excerpt": "Use Azure Cache for Redis to store frequently accessed data. Learn how to create transactions, manage memory, and use the cache-aside pattern.",
@@ -589,8 +633,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/authenticate-apps-with-managed-identities/",
       "length": "66 mins",
       "ratings": {
-        "count": 103,
-        "average": 4.524272
+        "count": 104,
+        "average": 4.519231
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -705,47 +749,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-azure-sql-deploy-configure.md",
-      "title": "Deploy and configure servers, instances, and databases for Azure SQL",
-      "excerpt": "Deploy and configure servers, instances, and databases for Azure SQL",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-sql-deploy-configure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-deploy-configure/",
-      "length": "PT1H14M",
-      "ratings": {
-        "count": 77,
-        "average": 4.6753244
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-sql-deploy-configure-social.png",
-          "width": 642,
-          "height": 324,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-azure-well-architected-operational-excellence.md",
       "title": "Microsoft Azure Well-Architected Framework - Operational excellence",
       "excerpt": "Learn how to design an Azure architecture that uses modern practices and gives you full visibility into what's happening in your environment.",
@@ -753,8 +756,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-operational-excellence/",
       "length": "PT54M",
       "ratings": {
-        "count": 388,
-        "average": 4.659794
+        "count": 390,
+        "average": 4.6615386
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -795,8 +798,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
       "length": "PT48M",
       "ratings": {
-        "count": 356,
-        "average": 4.6460676
+        "count": 359,
+        "average": 4.649025
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -880,48 +883,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-choose-an-agile-approach.md",
-      "title": "Choose an Agile approach to software development",
-      "excerpt": "Learn to foster the DevOps values of transparency and team cooperation with Azure Boards.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-an-agile-approach/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-an-agile-approach/",
-      "length": "PT40M",
-      "ratings": {
-        "count": 5173,
-        "average": 4.7450223
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/choose-an-agile-approach-to-software-development-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Choose an Agile approach to software development",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "DevOps"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-choose-compute-provisioning.md",
       "title": "Choose a compute provisioning solution for your application",
       "excerpt": "Discover the services and tools available to automate the deployment and configuration of your Azure infrastructure.",
@@ -929,8 +890,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-compute-provisioning/",
       "length": "50 mins",
       "ratings": {
-        "count": 697,
-        "average": 4.6585364
+        "count": 698,
+        "average": 4.6590257
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1014,8 +975,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-monitor-cloud-resources/",
       "length": "40 mins",
       "ratings": {
-        "count": 103,
-        "average": 4.5339804
+        "count": 104,
+        "average": 4.5384617
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1505,6 +1466,49 @@
       "topics": [
         "Azure",
         "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-iot-hub.md",
+      "title": "Introduction to Azure IoT Hub",
+      "excerpt": "Assess the characteristics of Azure IoT Hub and determine scenarios when to use IoT Hub.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-iot-hub/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
+      "length": "28 mins",
+      "ratings": {
+        "count": 1194,
+        "average": 4.6465664
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-iot-hub-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Introduction to Azure IoT Hub",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "IoT",
+        "Azure"
       ]
     }
   ],

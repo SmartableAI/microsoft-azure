@@ -46,6 +46,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-introduction-to-classification.md",
+      "title": "Predict categories with machine learning classification",
+      "excerpt": "Use machine learning models to categorize data. Build a logistic regression model and support vector machine models to predict categories like win/loss and tree species.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-classification/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-classification/",
+      "length": "60 mins",
+      "ratings": {
+        "count": 385,
+        "average": 4.7194805
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-classification-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Predict categories with machine learning classification",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-introduction-to-regression.md",
       "title": "Predict numeric values with regression",
       "excerpt": "Use machine learning regression models to predict numeric values. Build multiple variations of linear regression models to estimate things like internet traffic.",
@@ -166,6 +209,50 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-add-and-size-disks-in-azure-virtual-machines.md",
+      "title": "Add and size disks in Azure virtual machines",
+      "excerpt": "Understand and create the different types of disk storage available to Azure virtual machines (VMs).",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-add-and-size-disks-in-azure-virtual-machines/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-and-size-disks-in-azure-virtual-machines/",
+      "length": "36 mins",
+      "ratings": {
+        "count": 2076,
+        "average": 4.6637764
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/add-and-size-disks-in-azure-virtual-machines-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Add and size disks in Azure virtual machines",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-control-authentication-with-apim.md",
       "title": "Control authentication for your APIs with Azure API Management",
       "excerpt": "Discover how to protect your APIs from unauthorized use with API keys and client certificate authentication.",
@@ -254,51 +341,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-host-a-web-application-with-azure-web-apps.md",
-      "title": "Host a web application with Azure App service",
-      "excerpt": "Azure App Service enables you to build and host web applications in the programming language of your choice without managing infrastructure. Learn how to create a website through the hosted web app platform in Azure App Service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-host-a-web-application-with-azure-web-apps/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
-      "length": "65 mins",
-      "ratings": {
-        "count": 4964,
-        "average": 4.5973005
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/host-a-web-app-with-azure-app-service-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Host a web application with Azure App service",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-incident-response-with-alerting-on-azure.md",
       "title": "Improve incident response with alerting on Azure",
       "excerpt": "Respond to incidents and activities in your infrastructure through alerting capabilities in Azure Monitor.",
@@ -306,8 +348,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
       "length": "53 mins",
       "ratings": {
-        "count": 1526,
-        "average": 4.6336827
+        "count": 1528,
+        "average": 4.6335077
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -479,8 +521,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
       "length": "43 mins",
       "ratings": {
-        "count": 3240,
-        "average": 4.566975
+        "count": 3241,
+        "average": 4.567109
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -875,8 +917,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-vms-from-vhd-templates/",
       "length": "42 mins",
       "ratings": {
-        "count": 1517,
-        "average": 4.6750164
+        "count": 1518,
+        "average": 4.6752305
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1165,8 +1207,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
       "length": "84 mins",
       "ratings": {
-        "count": 666,
-        "average": 4.388889
+        "count": 667,
+        "average": 4.3898053
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1254,8 +1296,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-azure-network-infrastructure/",
       "length": "37 mins",
       "ratings": {
-        "count": 1904,
-        "average": 4.5772057
+        "count": 1906,
+        "average": 4.577125
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1331,52 +1373,6 @@
         "Azure",
         "Management Tools",
         "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-build-serverless-api-with-functions-api-management.md",
-      "title": "Expose multiple Azure Function apps as a consistent API by using Azure API Management",
-      "excerpt": "Combine multiple Azure Functions apps into a unified interface by importing them into a single Azure API Management instance.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-serverless-api-with-functions-api-management/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/",
-      "length": "41 mins",
-      "ratings": {
-        "count": 972,
-        "average": 4.589506
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/build-serverless-api-with-functions-api-management-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Expose multiple Azure Function apps as a consistent API by using Azure API Management",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless",
-        "Integration",
-        "Web"
       ]
     }
   ],
