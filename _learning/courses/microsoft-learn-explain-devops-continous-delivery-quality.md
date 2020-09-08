@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 18 mins
 ratings:
-  count: 537
-  average: 4.6815643
-heat: 64
+  count: 538
+  average: 4.6802974
+heat: 68
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Explain DevOps Continuous Delivery and Continuous Quality"
 
-secured: "+NrzQQqE4DXdgB7xmxeDX0rroCxEFQUj2H4+r6H7sJGhLD0kTnLYhnJ5ds6yUjyJFPGalZwNUAJGq7HkRN6mcD7h9MUpEyI1fUAA7v6qAgJhA9qlIiv9LJP307cTJsIkuXerw3PD8P/w1YwZlr2Pf1iRcjCo9pENTI4vfmxhXs1NpUtDuP84O6yOwo4JR1qOhqBQ2kBL2u+oAphJ9qoT5W1HVKcVI19aLYF/ohyUqjHKdVZNi0AAbZT7zL5sFoiFgBCTTtptpaTAuoWJZpkKEBTc4uWTsqAbItnT8jvsgsj2L1riL3NVcxtqkMBqCBQAvWLJFHxifRaX9SmvW8VUxCEO87q/4XAzyJALzATSKKzDWFAXYMRHRSHEOROAuZFuQzMjKHrhy3K1rBGKZLdW5y+Zsn6a4B7EUqh8olzBKAU=;r8aHL7cz1TWHKbb6/tKFig=="
+secured: "cX824Fa2hd+n0mKenqdeAXdfio0Qi8BBfm5MgPAJtoMFq1QlqhiQqLu8QxhnoMrsfkgdeIT/cSBHvbfcckylDr/yh+qTXJpqHPVm0mw55kVDA6/erHjyBV7AZ0ss8YOkHnn022oaBcFgro7+HDQZUwzGWTF78gLzmNmbvwT4l0G+KjJk+a/nQSJDB8sF1qceKa8dbvngKOXinVgPAguvSDWSu2WnV00kDB0h1P837a9Et+T5M1CHYmSXhBRZCQlK1bVV7QuJL6DixWbsLbkECsEhAV0X5nw7ws6XKDM1huGTNRREY943GePEQoJKBhHp/9BfEZ2np+YRe0moVZvxyWE4NTzWWLWbUpwtimb7+0U1qKM2Wrrc57RP0h8sfpZk+9nfEnRqGvZuFv913gdZR+CrH/6FiSghoA7hnFOh78U=;sEQSFUrcMTfJbzNGNs7rUA=="
 ---
 

@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Understand the importance of building an AI-ready culture"
 
-secured: "j/tOYK++NOMpW2JiNe46aGPyJuVeAq8OaqSjiJWfxZWhWHJrJU179+UpOCqbBBOP0V9c1+9f5s+KJan15c+2iapbDAeyWhJlysSWk6JkfV6+sWQTcbCnet+uFHNO/uSmyLo6wzGNY/UsD8QkreEkSBuGCI4vLSbBTQr5Fz9/qiVWK1jzHvqhspaQvOGHBPT0Qid+os8h6z5t6EB7mBpG4o+O7xJypYbnvsstJHvc074D9D3pDQ+/+30yH7CuhI+hhEzcqyEGXuENJpLdvS9Z0IRA97hcd/KPh9Ir+fyr8jOOLruoZ75ICkGf0L5quW6y1+KF36qlS4WDAMr+Z8lrwzvwX7wKcDz/N8utBD/VMFbJUtsETANfWcqWE9rWnMaAqOLVOjPu+emOFd6sRqNjbWcyOkUX4uF2s6L8b3S6nI8=;zL1dIg8e+qLJUbqur+RCmg=="
+secured: "VxHrvmmXP4A+6JNDvWfqDPbZCt2kSz9v+WKBx86UQVESGUiPfBvYHn7TpxnfUtLbNPp6tGvVvpHYwszaWpUzNUzOA1/OW01Zymtn5vQlImJ2Ae1pM/ZHSOnId6p6LgngnmchvRSaAXce+5wr09Rq6GJr0LrUkPZml3sBfbaz28qvG1Toaw5BJsc24VDgkMJBcnCio7KF6gvKdb/nyomtzCUW2Sy2UQs0nTIYUhhS0AZ1gEFEWK9SaA087bEKBRQXbfDmn0Kv1NrlJl3Rt2YJia+1Tg4oDlQ36a+zrs1DKnxMvKi3Hy4d9qFKKwxV6zN+TG9xlYDZZ9GTZiZvYmaCzUsGPOdbkGxt/8nZ/yi0cO+ig+mUmVLIGb+4LISk44LCRFloKwZ5mIM9UJTAxjC98gAXbkAgdl1vpLV4gvjfut0=;dtbgToaN3Me6/Kwv1DyT0g=="
 ---
 

@@ -8,7 +8,7 @@ length: PT1H6M
 ratings:
   count: 73
   average: 4.7260275
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Permissions and Consent Framework"
 
-secured: "eRTlPjWBIbGRVbBWL7KL8ISBJ1TUNPoBIX8Lq8NzsCyDZLNb7eOQzZFhv7zM4sYaJAl/uNc8MoI9XDzuzgCA74OJdCzKleaXBy4B5rh/M/77j+LXBTxnotyDej2QzRgWKEG3hm32PqLY6E9K4Dt8ohLi+U81p3D0xR3OJCJEXnF/V/I6PjhryedX1Fy0QtGDx880Q/4swALa0wLSbVAKVl4ywKUFlDVSSUVYdNGPYm6T3Fm52zpTVRd5XFv+4aWVvJH6qaUDqCoPO1qmTmMSf7PR84f8Bf05X01UYHNoE5qCp8WSA/tFu8W2nEo6U71A4BfqGmtb39yOOugbbccOLIBxfUla4kT/6OMvKDE/Q8+BR4NkEqb51eDILHMuGkgHzKLrstlS7ktULxpsV4zqPFbXmB6nOmnLobxqNbg0B9M=;yUB3FPnc96zikHWtGfDOSg=="
+secured: "Y6ktie5ZDw637+KukSzSihGj+dGzApk7uO5e6IC7VE0JpAU6rc5G8WM06BxuIL2w+mru0jSJreOktmiNhIf34V9VhSycNgWFhw30RRzA1xYv5o4m6FcU68KrH8EjfDt+B8n//+g3yOB9xXi9Mra9qK9t8jhs7jFIUHwrpUG9pNfKHQReidI15O2emLkhEaoSMe3yEIWrCrFO30cNGIbhDEZNMXnZ+4+Rhe0KLfvrKQWE/UN55f9I7Dlo+7py7EGMoEPYf1GeDfggKJUamWojt7+DOlUGRSlgRoN+VRv+xVkWd1DZQO2NwkHQrC4LmidpxOe4FdboCAZR50p4FiSXdf8NUvDoC6ngwB8BlebBdygcb28cIx9d6uNb4libT6Y1qG7CA44KQgV1xm0vHqbdMvs4SWnGqq+K7gLjMlAAZU0=;MZp8KjIq9pyn/jVI/VKQrg=="
 ---
 

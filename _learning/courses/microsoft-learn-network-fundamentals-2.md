@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 36 mins
 ratings:
-  count: 1657
-  average: 4.683766
-heat: 62
+  count: 1658
+  average: 4.6839566
+heat: 67
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Fundamentals of network security"
 
-secured: "5cPQYpSbzbVY2Dr3UwUxx3EaCGQRKB81hpQnbYnpijZjX9F7BWYhUYpAhBPk9cWM+ykMOXhc1p1gXkKUmfivtlV2qRqL0wc6H1AL+sUJuIbrk4QU6K33EsRcxQKPt/cVS7PjoX0EKa6ycUN8k30BT2j31eN3otVZ5tJ7kZaxnuTM7ibpqG0Cb/xIENp3IND2lJf4pXRvZp++/WJVunGxlJaq+JhmNGrDZJUNnVpd7q4ABk6XNSMPs/Pm8hRSjrZT5aQllRX7VllIOWp5w/+NE09uJLsZ9V+SyERP1Ns5W3KkjVaMT+GPRI7AVzHfwWv743CSIf2TUq3au+9q97raCdokWkA8lcivDDtzCctvtHYTWhsqfRCtyuPEx5Kquya9FHgkCWzJzy5RYrTQzD45DdmzsbBWBwZbnphIu8oJTIU=;tZm3aLpQoFwi+2URcOSwQA=="
+secured: "XkAzN0BAoCXJqs+Moz18TuDIrqgwIh4mLHCAvTRG1TT6Jy/O04IrUbKK5iIrS3Y2f3eZw1QZyjuJVTQE7BJ4RxOKgpV2abaqh9a0Wlupl9Rv5AdtnAXQysYP95STkJd6Q+BXp2uGCdXxSKgP/qiQH2jKf+2qidCYdbIfqb432mvOtcm0U68VnNh/Y0DanUdI+eob01Dmsj0N4899DEyu93tedI5nMj9qj/orjfYZrbhfWBZwQhmICNIhZmJwtM0i5VyxkX7ORegHrjYGvuvBmQw/+In/Dg/5jrnaJlGFM8fJmd43XLwjeVGEuMFpatTFXuscY4zJ3hnCdHPNq3RGkQ7zz6cwQGSvGbS7IAZEUae8G1Vkkrh5vhobPZG5784OOfYwFigtucxrcpaa9S6u8uLxejm3kqOk/plIIHUgwG0=;XYvHBU6Z4iozJdw3upeg6Q=="
 ---
 

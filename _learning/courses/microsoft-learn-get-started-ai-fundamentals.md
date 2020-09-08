@@ -8,7 +8,7 @@ length: PT27M
 ratings:
   count: 1644
   average: 4.7220197
-heat: 66
+heat: 71
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Get started with AI on Azure"
 
-secured: "xADjXVCJ5rlN+Qso01YUlbRGLUksUtzJAOJvU+gO9eTgJXfa/fkXJ8m47UyIFa8PM2j7VYYgQfHtfSmG7+Jv9bOseQCs87vUCtEdI2vDauwR4eyLCrH5Wcq8pG6gPKFS7gYtgU1X5I1+pj481Nz0vOEp3O8XfYNWY+/9jBAp1F1iu5F+8/JOOgbV64QhxdgGnFybnLapRSvyD23iShkpCzvaPTQrxN2Rh5geDxVo8Le7vvHm5mOolXD1ZWSWW3vwkd6MlAXfGlhasmFj1GnLjHb/IRzFfwlscEraEpUjjt+wFqFX645Z4OYk14OU2iMzNW541WQvwvCfJYmnJqwuGk/guOOEABgQcKOFr8HrZqvo70XCAhBTDNumh4Bod1sdZ8WUlI1wFoX6BqVsLvcgzLlxtSmebQ9YMzeJQRZshqQ=;emBmBaU15qEbjJitdB/SlA=="
+secured: "aOlFA0ms2GufQmFzOdfkgA81Cvlg6pn5Z3+Kfawsi9I6Mk2cr1nVcOGHUSQiCJ19N2TkVbAty9JtnDLoByHTHlXqQ+HOdmoMAIxJccyFytuQHSNNvf9LJhhDvIh/oEtQi1DTQDR9oSu9evp4T+T5HnuZqDpbjcl0RjUhyAmjM/RhXU0TiQW9tOwpoBED/v+AU7RqjWzG07bbaHOhGoGhVGDOTsBVZoCkafC6fYXPp3J47uJ4cYUylAtwmrqog4im+LFITY9vnelDmZaeq5WJE4J7p7//4hpBrGB3EN5PDI0K5YJQ2qkuuYfV42Jr7G/5LHMx5dbqrZCyN81LYTuFsCuTM7YYCFqDWZ/vc4mdnRBa+b2yzHPtcRaGdi4LW2iEmoixouMd6zclG2KcCkUEZKnurwON0jGk863q+yaGNZw=;5IsUk+vijRbNhpxnvjuC4g=="
 ---
 

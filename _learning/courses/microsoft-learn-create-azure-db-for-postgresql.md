@@ -8,7 +8,7 @@ length: 44 mins
 ratings:
   count: 1781
   average: 4.622684
-heat: 51
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Create an Azure Database for PostgreSQL server"
 
-secured: "K124YbIb7Zqkee9Jm78iL0v/tLQxOVgBuMb4cEIZ3G++Bl3E8OTDpLpWdVWcyCHP8vAHrjo3iQggE5F6az0nVtR6+XFKB/KtxevlTQJC4pvgYJ8jmuo4G5281lB64pfXup83E1zEBVKIpzndXeVmOZ0+KHNEjH0lBv1Iea1og/aslq6FAkXok14YtFKKd9LDTWZEzg45wNGatUtuBh77sbimuy3edFvIQU1pilBfRIudTjK2DHJvSd9KQ+KVEXMTf3rA5vDmDX7tfSOV2PKzZ9ukkAqwpQ6HMyW1L14KumpYPAna0UCf4QqqNDCfrbVu7H9DWnmv4RPiDKf/jHPSFkqvURdhGVKHvgVoKkK0aWwOEYVlC69H1I4hwbYbnX0EgGKep0oCXVVA7aNQhSjwXVY990Is0gK8AZ6QpRDiOCA=;MotZa7wPyrrtNQhcY26wGQ=="
+secured: "GHhzjt4lCGVT6zsn03Mlx0YUWFmn3g03iZdtC8OH3ZOIRSuP/dxatsGRVmGHc8Yh+VKnwEM23KIRBFg22s34eDkCtJMjdXaKZXwvWHY8IiL03IKvxM+nEDn6M7WxOD06exUBenghkgpdKK7yfOxBdzKxFYdCwJrBRti6+DMSst+5XAV7Lipif55/4tacF8HJp53MWM26QaNRHU/wzBbDIYo0/0MrZyMbtElTqS47/GvLU4a3GPMp2AdTBR2RRn8YPpK9cSqsjalM6wmiX0B5G3arn5Ui0C6hC1BxL3PPcBwNdz6d1EfckaPnIlgu988Z3MeTpqQmZaYKM7n4KkqgFntwzSgzJ/EXHERpQ3Sb/G5AmmZjGDpWbrg3JZfOLslbLZygQhb3dwg1PsisRXmZ/hjmXsQnoXUOKVCCcPsrF0Q=;R3RvarwYRcA7K/TWA+/UuA=="
 ---
 
