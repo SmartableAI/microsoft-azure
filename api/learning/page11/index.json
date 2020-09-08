@@ -4,6 +4,48 @@
   "page": 11,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-azure-ai-strategy.md",
+      "title": "Microsoft Azure Artificial Intelligence (AI) strategy and solutions",
+      "excerpt": "This module provides an overview of Azure AI and demonstrates how Microsoft tools, services, and infrastructure can help make AI real for your organization, whether you want to unlock insights from your latent data with knowledge mining, develop your own AI models with machine learning, or build immersive apps using AI.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-ai-strategy/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-artificial-intelligence/",
+      "length": "59 mins",
+      "ratings": {
+        "count": 4356,
+        "average": 4.7506886
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-artificial-intelligence-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Microsoft Azure Artificial Intelligence (AI) strategy and solutions",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-create-long-running-serverless-workflow-with-durable-functions.md",
       "title": "Create a long-running serverless workflow with Durable Functions",
       "excerpt": "Learn how to orchestrate a long-running workflow as a set of activities using Durable Functions.",
@@ -11,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-long-running-serverless-workflow-with-durable-functions/",
       "length": "46 mins",
       "ratings": {
-        "count": 2460,
-        "average": 4.455691
+        "count": 2461,
+        "average": 4.455506
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -55,8 +97,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-deploy-configure/",
       "length": "PT1H14M",
       "ratings": {
-        "count": 78,
-        "average": 4.6666665
+        "count": 79,
+        "average": 4.670886
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -96,8 +138,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-introduction/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 819,
-        "average": 4.7155066
+        "count": 820,
+        "average": 4.714634
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -315,8 +357,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
       "length": "56 mins",
       "ratings": {
-        "count": 1569,
-        "average": 4.5838113
+        "count": 1570,
+        "average": 4.5834394
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -615,8 +657,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-application-types/",
       "length": "PT50M",
       "ratings": {
-        "count": 99,
-        "average": 4.6565657
+        "count": 100,
+        "average": 4.66
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -658,8 +700,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-code-workflow/",
       "length": "PT1H27M",
       "ratings": {
-        "count": 3428,
-        "average": 4.7648773
+        "count": 3429,
+        "average": 4.7646546
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -787,8 +829,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-nodejs/",
       "length": "PT20M",
       "ratings": {
-        "count": 358,
-        "average": 4.8072624
+        "count": 359,
+        "average": 4.8077993
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -870,8 +912,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-repository-github/",
       "length": "PT43M",
       "ratings": {
-        "count": 111,
-        "average": 4.6486487
+        "count": 112,
+        "average": 4.642857
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1173,8 +1215,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing-dynamics-365-deployment/",
       "length": "PT45M",
       "ratings": {
-        "count": 1770,
-        "average": 4.6909604
+        "count": 1772,
+        "average": 4.690745
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1248,48 +1290,6 @@
         "Azure",
         "Integration",
         "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-protect-infrastructure-with-azure-site-recovery.md",
-      "title": "Protect your Azure infrastructure with Azure Site Recovery",
-      "excerpt": "Provide disaster recovery for your Azure infrastructure by managing and orchestrating replication, failover, and failback of Azure virtual machines with Azure Site Recovery.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-infrastructure-with-azure-site-recovery/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-infrastructure-with-site-recovery/",
-      "length": "59 mins",
-      "ratings": {
-        "count": 698,
-        "average": 4.5229225
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/protect-infrastructure-with-azure-site-recovery-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Protect your Azure infrastructure with Azure Site Recovery",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],
