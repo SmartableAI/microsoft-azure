@@ -6,6 +6,9 @@ publishedDateTime: 2020-09-02T16:00:02Z
 originalUrl: "https://azure.microsoft.com/en-us/updates/azure-cache-for-redis-visual-studio-code-extension-now-in-preview/"
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-cache-for-redis-visual-studio-code-extension-now-in-preview/"
 type: article
+quality: 67
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -18,6 +21,63 @@ provider:
 topics:
   - Azure
 
-secured: "lfYl1hmyea2wvEDQLxgZsd6YkJY3WpG+vq0sCYfO3Z3/s4zK8YEPF+a4QqKgZz/mPN6cRkNB/6Kz4iWawV7FvKLwm9grfiAo6fle0B3O1bO5wxUdYWT7DAx6FUWGU0QXO/E0Mkzt7Vadn331XY5/FlMHlrIYG4wocPBd5QHTUI4y9K635NvYIi0lMgE9GDFSXOSSVS0FIUU9kIMgpa0sOjSlWowbOUextGky0wG8k/Da7yROWlRTcwwVHAnTEQF73R3lEsZ/49ANLWWrxnA6DjuDS3F28z8DKZEK5+QN3u3od8+bGbhaCscMm9zzV8kvTFYx9CHqKQSBcz6la7aNqqNUJN+PQmA0DZzOGmjNSgY=;PBELKjWDi9vV/jQNSwi5uQ=="
+related:
+  - title: "New Deploy to Azure extension for Visual Studio Code"
+    excerpt: "Organizations and teams that adopt DevOps methodologies are consistently seeing improvements in their ability to deliver high-quality code, with faster release cycles, and ultimately achieve higher levels of satisfaction for their own customers, whether they’re internal or external. "
+    publishedDateTime: 2020-03-18T10:00:05Z
+    webUrl: "https://azure.microsoft.com/blog/new-deploy-to-azure-extension-for-visual-studio-code/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 91
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8fd83624-c140-4bcc-9bbb-b48b7cfd44cf.gif"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "View your Azure Cache for Redis data in new Visual Studio Code extension"
+    excerpt: "Azure Cache for Redis is an in-memory data store that is used to power fast, scalable applications. Now in preview, you can access all the caches under your Azure subscriptions and view their data with the new Azure Cache for Redis Visual Studio Code extension."
+    publishedDateTime: 2020-09-08T08:00:01Z
+    webUrl: "https://azure.microsoft.com/blog/view-your-azure-cache-for-redis-data-in-new-visual-studio-code-extension/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 90
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/96dd25a6-f623-45bd-8863-ac0049eaea9d.jpg"
+        width: 1024
+        height: 630
+        isCached: true
+  - title: "New Azure API Management Visual Studio Code extension now available"
+    excerpt: ""
+    publishedDateTime: 2020-04-13T16:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-vs-code-extension-update-april-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "New Azure extensions for Visual Studio Code"
+    excerpt: ""
+    publishedDateTime: 2020-05-19T16:05:40Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-extensions-for-visual-studio-code/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure Databases extension for Visual Studio Code"
+    excerpt: ""
+    publishedDateTime: 2020-05-28T16:00:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-databases-extension-for-visual-studio-code/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+
+secured: "IrrqbHVh+tUgzvBASeWdGd1NNCU9WzaquKYJRQNzpPtRNNlMPaJgCP4JSundkHM8BsPGdcE2OaGTfU5/hsJa3sC9ZlAi+Qi3VPjycSfgZ0OvC1B5MNgE7u2mJcwTIC0nAQ1F4lX4Cjuxilq3f19e+wlENIsKVktyVJPElWkIZsjnoQydTd3SbjUSAuI4+/T5csq0xrJWGdR1mErt85tOFUbE1D82hTX4KPdpp/+UnGHHtGzRxLeKOeD+t52fxXh9cqnnoVyl+QSLkR8YZDKOJxhg/eW2B9sTa8ytgzmNRKwt/TCBcewfoGxQfjarKc9A7xQ+AEFO0UOk4B08q0CQzAH36T75gtjWCu71VaGrvrI=;HM6muKg2IVoWr1olHjR6uA=="
 ---
 

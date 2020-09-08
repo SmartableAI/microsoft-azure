@@ -37,20 +37,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 58
-  - title: "DH2i Announces Support for Microsoft Azure Shared Disks and New Azure Disk Storage Enhancements"
-    excerpt: "DH2i®, the leading provider of multi-platform Software Defined Perimeter (SDP) and Smart Availability(TM) software, today announced DxEnterprise(TM) support for the recently announced"
-    publishedDateTime: 2020-09-01T14:37:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dh2i-announces-support-for-microsoft-azure-shared-disks-and-new-azure-disk-storage-enhancements/article_0682c838-4b39-5c1c-bdb4-36d3238d99dd.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 25
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/b9/4b92a68b-33b1-5bcc-9a61-7b662de68e4f/5f4e51674d02a.image.jpg?resize=400%2C400"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "QYfLWS3uMkL52ucfpGyoy9gEjD+zU6YCZWoeAvuMQNNnRlG8Gv1Nrq1SulDBiFYW777+OhnxAyyPVE89E9vejOyW7jWWhi8Dm26Pr2VTkdz/O/XpEc12lwx2af1Bq2VM4H7XyqBkAPXaztwVlFN3p3XM6e+/rW1CMooh1D8+ept0dA65y/vemiO8lN3Mc9hrEpbrE9tGdPtbRMMusZy1PhQbiM6mXmlYhUjzWv2q6qD6Gmv2oPtJej6hYufyiZ5HyrSXYWvwFBPfeyb2i5Fu1BymS0VxR/dH7I0M38OgnvZOVYh6qpdRlVBYvZnxtZ524Y65sTRKvIjUFf/aJ0x0Cg==;9xp3cILb4pvV+vUkSzm1+g=="
 ---

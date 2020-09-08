@@ -24,28 +24,58 @@ images:
     isCached: true
 
 related:
-  - title: "Announcing the general availability of Azure shared disks and new Azure Disk Storage enhancements"
-    excerpt: "Today, we’re announcing the general availability of—enabling you to migrate your existing on-premises Windows and Linux-based clustered environments to Azure. We’re also announcing important new disk enhancements to provide you with more availability, security, and flexibility on Azure."
-    publishedDateTime: 2020-07-16T09:00:39Z
-    webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-shared-disks-and-new-azure-disk-storage-enhancements/"
+  - title: "Nutanix Announces Partnership with Microsoft Azure for a Seamless Hybrid Experience"
+    excerpt: "NEXT Conference - Nutanix (NASDAQ: NTNX), a leader in enterprise cloud computing, today announced a new partnership with Microsoft that will enable"
+    publishedDateTime: 2020-09-08T16:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/nutanix-announces-partnership-with-microsoft-azure-for-a-seamless-hybrid-experience-2020-09-08"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 58
-  - title: "Announcing general availability of incremental snapshots of Managed Disks"
-    excerpt: "We're announcing the general availability of incremental snapshots of Azure Managed Disks. Incremental snapshots are a cost-effective, point-in-time backup of managed disks. Unlike current snapshots, which are billed for the full size, incremental snapshots are billed for the delta changes to disks since"
-    publishedDateTime: 2020-03-26T10:00:04Z
-    webUrl: "https://azure.microsoft.com/blog/announcing-general-availability-of-incremental-snapshots-of-managed-disks/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 21
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/28a170f1-dbb3-48c7-94f9-6a58f943615f.png"
-        width: 1427
-        height: 840
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Nutanix joins Microsoft Azure for seamless Hybrid Cloud experience"
+    excerpt: "Enterprise Cloud computing firm Nutanix on Tuesday announced a partnership with Microsoft to deliver a Hybrid Cloud solution with seamless application, data and license mobility."
+    publishedDateTime: 2020-09-08T17:53:00Z
+    webUrl: "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
+    ampWebUrl: "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 37
+  - title: "Platform.sh announces expansion of services to Microsoft Azure West US 2 Datacenter Region"
+    excerpt: "Expansion to Azure West US 2 datacenter will help global website fleet customers put their sites closer to their audiences. It will also enable Platform.sh university and enterprise customers throughout the west to deliver the best experience possible to their users."
+    publishedDateTime: 2020-09-08T16:00:00Z
+    webUrl: "https://www.finanzen.net/nachricht/aktien/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region-9274554"
+    type: article
+    provider:
+      name: Finanzen
+      domain: finanzen.net
+    quality: 27
+    images:
+      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Microsoft Announces the General Availability of Immersive Reader Service on the Azure AI Platform"
+    excerpt: "Immersive Reader, which is a part of the Cognitive Services suite within the Microsoft Azure AI Platform provides help for readers to read and comprehend text. In a recent blog, Microsoft announced the general availability of the service."
+    publishedDateTime: 2020-09-07T11:19:00Z
+    webUrl: "https://www.infoq.com/news/2020/09/immersive-reader-ga-azure/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 24
+    images:
+      - url: "https://res.infoq.com/news/2020/09/immersive-reader-ga-azure/en/headerimage/croppted-1920_Panel4_FeatureHeader_PictureDictionary-1599385533206.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "UOUEK+VDjkVDh/FTaagO6lUr89CHx+RVeGZ2fC7idhWRpmVs+zeRTGQFImn6GFbLsgeBdvIELbnkrTN8Ik1Nkchv1E9ZiJeXnNhIJBgtRp2ZKblqtq2gKjLgOSgjpqPSGCA6SKzpcHQsqZ2htPNpIWXirtWoYUgtPSIdbIbtxFvUaqaVGsQENywkJqgO+B331lec3LlhTmLShNXgF2PXqycgIzPCzzQadvC41KaXJjQjE5dqXXRklylr1B93XDLdk9BwTvjppG/FjgAqAz25CCCSM8w5BptkCcSVdOLTAxw8NZ0L9o6QCn5nP02Y7SvT3RmJx1qqNkVD+SswavTi4G7xHUPi0gKy+zz7sJl1v1z0UMy0hp0KMhb0TuuzQ2UfrokOZLTJYvBvGEM5AYcqEziNdGGoNJzgpAvEDiyrEybTk9RNPeDcQy0GAXkmvgAHshq0y5C+XLQvBi92FwpCtrlxI303D0mBsQoB9fKuRGgoTtQn+y09YSfZ1ZmgA88b3YBCQmgTPrDRqQce4JCc2A==;/Dvhh1rj0yfTijbcI1oJHA=="

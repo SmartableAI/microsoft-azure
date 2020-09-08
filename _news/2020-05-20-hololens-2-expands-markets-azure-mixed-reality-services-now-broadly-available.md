@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-20T09:00:28Z
 webUrl: "https://azure.microsoft.com/blog/hololens-2-expands-markets-azure-mixed-reality-services-now-broadly-available/"
 type: article
 quality: 33
-heat: 53
+heat: 33
 published: false
 
 provider:

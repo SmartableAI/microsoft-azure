@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-19T17:00:14Z
 webUrl: "https://azure.microsoft.com/en-us/updates/high-throughput-output-to-azure-synapse-analytics-from-stream-analytics-preview/"
 type: article
 quality: 12
-heat: 32
+heat: 12
 published: false
 
 provider:

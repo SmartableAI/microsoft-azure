@@ -1,43 +1,33 @@
 ---
 category: news
-title: "Microsoft Announces the General Availability of Immersive Reader Service on the Azure AI Platform"
-excerpt: "Immersive Reader, which is a part of the Cognitive Services suite within the Microsoft Azure AI Platform provides help for readers to read and comprehend text. In a recent blog, Microsoft announced the general availability of the service."
-publishedDateTime: 2020-09-07T11:19:00Z
-originalUrl: "https://www.infoq.com/news/2020/09/immersive-reader-ga-azure/"
-webUrl: "https://www.infoq.com/news/2020/09/immersive-reader-ga-azure/"
+title: "Nutanix Announces Partnership with Microsoft Azure for a Seamless Hybrid Experience"
+excerpt: "NEXT Conference - Nutanix (NASDAQ: NTNX), a leader in enterprise cloud computing, today announced a new partnership with Microsoft that will enable"
+publishedDateTime: 2020-09-08T16:26:00Z
+originalUrl: "https://www.marketwatch.com/press-release/nutanix-announces-partnership-with-microsoft-azure-for-a-seamless-hybrid-experience-2020-09-08"
+webUrl: "https://www.marketwatch.com/press-release/nutanix-announces-partnership-with-microsoft-azure-for-a-seamless-hybrid-experience-2020-09-08"
 type: article
-quality: 24
-heat: -1
-published: false
+quality: 71
+heat: 151
+published: true
 
 provider:
-  name: InfoQ
-  domain: infoq.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://res.infoq.com/news/2020/09/immersive-reader-ga-azure/en/headerimage/croppted-1920_Panel4_FeatureHeader_PictureDictionary-1599385533206.jpg"
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
     isCached: true
 
 related:
-  - title: "Nutanix Announces Partnership with Microsoft Azure for a Seamless Hybrid Experience"
-    excerpt: "NEXT Conference - Nutanix (NASDAQ: NTNX), a leader in enterprise cloud computing, today announced a new partnership with Microsoft that will enable"
-    publishedDateTime: 2020-09-08T16:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/nutanix-announces-partnership-with-microsoft-azure-for-a-seamless-hybrid-experience-2020-09-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 71
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Nutanix joins Microsoft Azure for seamless Hybrid Cloud experience"
     excerpt: "Enterprise Cloud computing firm Nutanix on Tuesday announced a partnership with Microsoft to deliver a Hybrid Cloud solution with seamless application, data and license mobility."
     publishedDateTime: 2020-09-08T17:53:00Z
@@ -77,7 +67,21 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Microsoft Announces the General Availability of Immersive Reader Service on the Azure AI Platform"
+    excerpt: "Immersive Reader, which is a part of the Cognitive Services suite within the Microsoft Azure AI Platform provides help for readers to read and comprehend text. In a recent blog, Microsoft announced the general availability of the service."
+    publishedDateTime: 2020-09-07T11:19:00Z
+    webUrl: "https://www.infoq.com/news/2020/09/immersive-reader-ga-azure/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 24
+    images:
+      - url: "https://res.infoq.com/news/2020/09/immersive-reader-ga-azure/en/headerimage/croppted-1920_Panel4_FeatureHeader_PictureDictionary-1599385533206.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "U1tqkMVN1GYbiBhYeL2tQVTcDNIBzxmrzQoZ7b/OtMKBwGTi4iWQMYWRoY5//+bbYK5TPtlfNXhPwNj9JIFOdhGe+YzA6mSrD6Or9j40HScn/P1a4YihJFHEeLR1X0dQ5X9XFPWvE27MO29YAvR+wSSuPT0uaVXQTIVaTAwklnG2giZ6ATvrNKbU5ol/4WH0TxdO9sHFj1UL8Z86FHNzkTTGzhv51TUdBxXW+LOETVNBmPujfzkufeBRXqtqsIC/vZILSraFoGSBFbMEwyuFUGwt3tHJirDdWarJHZXWihTqhEwK5gcforL5ZndO2F2VSFYhzdlT7HBB0Bj4LFA3OgOxCADSf/p5DgDJh0MaGGpYypSNvurmssb86yq7dArBEgaVCo/uVN1BoLHFkXAuspMQdcSh1sp8QM+Znbebck43sovUc8DKCUF+Jwh/rdYzGCa1S3jv4OEGClmscc5kTq0NCrIl5NIxUTWNAVUpBNk2I704l10KER30x4l7xglfny5O+2SnK8ifyZSlk2TdqhNweFED8dUx03JCtH15Yog=;OK83GJ/IHhM0fndYtskbiQ=="
+secured: "MqRcsQnaz3zNJnyn8p6fTDp0wt6U/Pdf6ERNaBRSDOeYUUVZtYd8MTYfLahIutCmmOE1dS78WH/lf283fXoeuOpPLb2Xom6N37Nus4kR5q6otbCVh6QGuOdVHAQvSS0/PdUH43PxRMHDQPLqspDHrkwQUazjgTFyb1xiIGTKG5ZJt050a4nwBeKSJ8d2WRI051ApmPznLQpNzVx65pDVqyipAyE+OgGkaoccLldGriHBPYt8DP1ld5wQyNIpYKflI0oCXe8P54+i1zbPoYLP1lHNxCu0V4gikT1+wwU7f0ZVi1hn8e94XY2BJe5IH6TGZ4lRu/9dhrbc5fBCWqwfkWiRupzpwl6rEwYJaqh9C1o=;46VIKZSfqeSY0Pqdz/N8Fw=="
 ---
 

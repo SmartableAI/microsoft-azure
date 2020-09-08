@@ -1,27 +1,23 @@
 ---
 category: news
-title: "Microsoft Announces the General Availability of Immersive Reader Service on the Azure AI Platform"
-excerpt: "Immersive Reader, which is a part of the Cognitive Services suite within the Microsoft Azure AI Platform provides help for readers to read and comprehend text. In a recent blog, Microsoft announced the general availability of the service."
-publishedDateTime: 2020-09-07T11:19:00Z
-originalUrl: "https://www.infoq.com/news/2020/09/immersive-reader-ga-azure/"
-webUrl: "https://www.infoq.com/news/2020/09/immersive-reader-ga-azure/"
+title: "Nutanix joins Microsoft Azure for seamless Hybrid Cloud experience"
+excerpt: "Enterprise Cloud computing firm Nutanix on Tuesday announced a partnership with Microsoft to deliver a Hybrid Cloud solution with seamless application, data and license mobility."
+publishedDateTime: 2020-09-08T17:53:00Z
+originalUrl: "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
+webUrl: "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
+ampWebUrl: "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
 type: article
-quality: 24
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: InfoQ
-  domain: infoq.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://res.infoq.com/news/2020/09/immersive-reader-ga-azure/en/headerimage/croppted-1920_Panel4_FeatureHeader_PictureDictionary-1599385533206.jpg"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Nutanix Announces Partnership with Microsoft Azure for a Seamless Hybrid Experience"
@@ -38,17 +34,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Nutanix joins Microsoft Azure for seamless Hybrid Cloud experience"
-    excerpt: "Enterprise Cloud computing firm Nutanix on Tuesday announced a partnership with Microsoft to deliver a Hybrid Cloud solution with seamless application, data and license mobility."
-    publishedDateTime: 2020-09-08T17:53:00Z
-    webUrl: "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
-    ampWebUrl: "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 37
   - title: "Platform.sh announces expansion of services to Microsoft Azure West US 2 Datacenter Region"
     excerpt: "Expansion to Azure West US 2 datacenter will help global website fleet customers put their sites closer to their audiences. It will also enable Platform.sh university and enterprise customers throughout the west to deliver the best experience possible to their users."
     publishedDateTime: 2020-09-08T16:00:00Z
@@ -77,7 +62,21 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Microsoft Announces the General Availability of Immersive Reader Service on the Azure AI Platform"
+    excerpt: "Immersive Reader, which is a part of the Cognitive Services suite within the Microsoft Azure AI Platform provides help for readers to read and comprehend text. In a recent blog, Microsoft announced the general availability of the service."
+    publishedDateTime: 2020-09-07T11:19:00Z
+    webUrl: "https://www.infoq.com/news/2020/09/immersive-reader-ga-azure/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 24
+    images:
+      - url: "https://res.infoq.com/news/2020/09/immersive-reader-ga-azure/en/headerimage/croppted-1920_Panel4_FeatureHeader_PictureDictionary-1599385533206.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "U1tqkMVN1GYbiBhYeL2tQVTcDNIBzxmrzQoZ7b/OtMKBwGTi4iWQMYWRoY5//+bbYK5TPtlfNXhPwNj9JIFOdhGe+YzA6mSrD6Or9j40HScn/P1a4YihJFHEeLR1X0dQ5X9XFPWvE27MO29YAvR+wSSuPT0uaVXQTIVaTAwklnG2giZ6ATvrNKbU5ol/4WH0TxdO9sHFj1UL8Z86FHNzkTTGzhv51TUdBxXW+LOETVNBmPujfzkufeBRXqtqsIC/vZILSraFoGSBFbMEwyuFUGwt3tHJirDdWarJHZXWihTqhEwK5gcforL5ZndO2F2VSFYhzdlT7HBB0Bj4LFA3OgOxCADSf/p5DgDJh0MaGGpYypSNvurmssb86yq7dArBEgaVCo/uVN1BoLHFkXAuspMQdcSh1sp8QM+Znbebck43sovUc8DKCUF+Jwh/rdYzGCa1S3jv4OEGClmscc5kTq0NCrIl5NIxUTWNAVUpBNk2I704l10KER30x4l7xglfny5O+2SnK8ifyZSlk2TdqhNweFED8dUx03JCtH15Yog=;OK83GJ/IHhM0fndYtskbiQ=="
+secured: "xZWoUgdVewOGsiUdCgBDcBF8XV6iEt7oZwBJwt+I1kOfhkr2nfSFZrDrUNgLZ+eQbU2tuvK+86tt6H/XMFpC4EpVMcmenbSsbXiF2h0LYEAycXT555g/RjPzER7XEy+eKALlP2H+87+b2r2olejQJ6hDMgSCNJm0P33Zl0EZoF0isY9wWw6w3QMlDdBrhVhrZjsbf93SaszN95lbor2l3BIuUtVv12tW/q68sxT2IMj5NO4vblCczP8/BhD0GiTt4X2C9tF001DVyr1UhSWcvAY+mi8powiMplphT2Ug2PLw3+MvnwqpyL7sA3tOQp+30USIpKTXYIPuz4HGBWLzUsnnnNBf5sTkVDbNWyn2Vjo=;+Z9pLwzA1Bsz9G1Q8uy/Ow=="
 ---
 

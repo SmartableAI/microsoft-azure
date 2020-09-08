@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/new-deploy-to-azure-extension-for
 webUrl: "https://azure.microsoft.com/blog/new-deploy-to-azure-extension-for-visual-studio-code/"
 type: article
 quality: 91
-heat: 171
+heat: 191
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     title: "New Deploy to Azure extension for Visual Studio Code"
 
 related:
+  - title: "View your Azure Cache for Redis data in new Visual Studio Code extension"
+    excerpt: "Azure Cache for Redis is an in-memory data store that is used to power fast, scalable applications. Now in preview, you can access all the caches under your Azure subscriptions and view their data with the new Azure Cache for Redis Visual Studio Code extension."
+    publishedDateTime: 2020-09-08T08:00:01Z
+    webUrl: "https://azure.microsoft.com/blog/view-your-azure-cache-for-redis-data-in-new-visual-studio-code-extension/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 90
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/96dd25a6-f623-45bd-8863-ac0049eaea9d.jpg"
+        width: 1024
+        height: 630
+        isCached: true
   - title: "Azure Cache for Redis Visual Studio Code extension now in preview"
     excerpt: "You’ll be able to use Visual Studio Code to view, test, and debug your caches in one streamlined experience. This extension enhances ease of development by eliminating the need to manually track connection and access keys to connect to your caches."
     publishedDateTime: 2020-09-02T16:00:02Z

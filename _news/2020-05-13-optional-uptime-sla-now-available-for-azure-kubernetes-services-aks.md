@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-13T16:00:42Z
 webUrl: "https://azure.microsoft.com/en-us/updates/optional-uptime-sla-now-available-for-azure-kubernetes-services-aks/"
 type: article
 quality: 17
-heat: 77
+heat: 17
 published: false
 
 provider:
