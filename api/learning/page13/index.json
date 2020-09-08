@@ -4,49 +4,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-identify-faces-with-computer-vision.md",
-      "title": "Identify faces and expressions by using the Computer Vision API in Azure Cognitive Services",
-      "excerpt": "Learn about the Computer Vision API in Azure that allows you to identify facial details in pictures.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-identify-faces-with-computer-vision/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identify-faces-with-computer-vision/",
-      "length": "47 mins",
-      "ratings": {
-        "count": 1345,
-        "average": 4.6431227
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/identify-faces-with-computer-vision-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Identify faces and expressions by using the Computer Vision API in Azure Cognitive Services",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Developer Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-instrument-web-app-code-with-application-insights.md",
       "title": "Instrument server-side web application code with Application Insights",
       "excerpt": "Obtain comprehensive diagnostic information from a web app by adding the Application Insights SDK to your server-side code.",
@@ -54,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/instrument-web-app-code-with-application-insights/",
       "length": "34 mins",
       "ratings": {
-        "count": 236,
-        "average": 4.6271186
+        "count": 237,
+        "average": 4.6244726
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -182,8 +139,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-kubernetes/",
       "length": "53 mins",
       "ratings": {
-        "count": 460,
-        "average": 4.602174
+        "count": 463,
+        "average": 4.5982723
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -311,8 +268,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-adoption-framework-for-azure/",
       "length": "50 mins",
       "ratings": {
-        "count": 2044,
-        "average": 4.747554
+        "count": 2045,
+        "average": 4.747188
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -396,8 +353,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-diagnose-and-troubleshoot-azure-storage/",
       "length": "41 mins",
       "ratings": {
-        "count": 1096,
-        "average": 4.557482
+        "count": 1097,
+        "average": 4.557885
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1492,6 +1449,57 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-build-api-azure-functions.md",
+      "title": "Build Serverless APIs with Azure Functions",
+      "excerpt": "Build Serverless APIs with Azure Functions",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-api-azure-functions/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-api-azure-functions/",
+      "length": "53 mins",
+      "ratings": {
+        "count": 83,
+        "average": 4.674699
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Build Serverless APIs with Azure Functions",
+          "isCached": true
+        },
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/build-api-azure-functions-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Build Serverless APIs with Azure Functions",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless"
       ]
     }
   ],
