@@ -8,7 +8,7 @@ length: 32 mins
 ratings:
   count: 1284
   average: 4.6464176
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Process images with the Computer Vision service"
 
-secured: "Gb5/5wU8SuR1hzp7iV6U25wvddLcCdqvuDNd/UdB542WsqyRstCTuQjk/i7WxxpXsmerlF955dlW77dND2NWeAQrmoTJcFGevxd3MNBG4mYS8KH1G9s+mv/HvxK4Ui0T+kfpKceFhQSr2Jnia4O6xYz2KoZePn+DMMjpac1vZJrmCM7oA5RlRAyd4jerB2WNMWT95G2OAMRoEXIrJRrPFdorq0gEk6njkLBpHefVYqNwPebW3GUrr1x76k48ZJskw8rGmAp8YsC9xxjbDfXkv+7Qy0aSvfAAcF7aPYmhBBm9qnm7KPrKKDchQm8QzBzGibDpm9aGPBdfmB4whcI+DGc+wQREKWVSZd+aHQ3HLABH0F7dra9p1NancgVnMOLqW4EQbyf5YcgxMqsfwCeJjM4dcmdwJbeLd7cuKz6JD4E=;rh+kE+PWSNBYrLAQug+QKg=="
+secured: "x1LyN5fcfFdBbQh99opkQb+wqGBqen3Nd8noYfVsCTTiXlhkADX3RuNBQc+P7QOieaFi3Jns2tb5YpQgby7cO37rEo/pdLW9nG3orcgg9A6stPV5LyKvmPrkpi9Vij611Z4/OurI+3DVJnwXbmbjK8zXnPFOqe5DuxqmAuGIXnHYd0MLf2bNndhoeQTDNdez4VjmbyKU24dQ3hIvV+W9M4RIP/fKDfoTsSf01Xt/uqggynAQg5BTlv0zvDqHd6ncqDqwx3N1X/ckT7YVG6QWd0wsPkz2hVZ3dqR3yANC3D4qruaPJnXDUJh0Qr+UNletG6pyPYn4G1ZPQr2OT+7XJv+xu6fzliFlAZqXTNSSccoLqouuoYihJRhay4UEgYseee4r9lRPCj5Fpfm+MBTkFp+sw5XS4urpEnL0cAPJbPg=;wgruZwEA8oITFdkiJiFMdA=="
 ---
 

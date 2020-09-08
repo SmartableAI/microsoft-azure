@@ -8,7 +8,7 @@ length: 47 mins
 ratings:
   count: 616
   average: 4.6672077
-heat: 50
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Improve the performance of an API by adding a caching policy in Azure API Management"
 
-secured: "rj/IxBm3SzMYir+zbgx/qmSn6ejSTdmNkuzHMZIsg5+G+827ns/FVNdcBHW3c74dIrLnDVVfIzYfOLJTzcTwmV/DFAjwnvLPPorXNKugsKsVfdhZmb3hPtjpBPgaH4fh52yyzti7+mS4Bjk7lLxC+2qr5aSaBie7HW74jREXNKwkCzH7twEWuHNWkF6wKt718hZXVpFv88JJw56FXv8WAaskKsHaJdjBGLwquv89a1iTvOF1gD5GSrPWgt3vfr0QiAcCbybe3UpACPfTSXrWgR53qYrDIlFNd+/4CWgUCqnVjOcH3eJREefoByCErbqb+DMYRcuFYdFSIDNPx1mnisr2Px34Ij76JRwiXhtfzeYqfjw7w+CInBuK4MtdkCoHBt3ET1ruLE7xo4tQbnwLVO7sV5QvX3cwKA/osklqoiM=;nCdV/4C7RnEkXRB6sM5d6g=="
+secured: "dETSYhujNVSP6YnfsG0jCXkSV9s4hZJZCp3oq5JHm4QwIcCJBLZpDc/MoC5395KEsmPlBMyCVA535ExVzp+sHSA0yb8OyLYRM9OMNYNb3AgvYTm2MmxwttyMY8dyxsi9DNGlx5bsFGYz3I5TYYrbetnSAYJU8YHtIEikDdwCmTRLcgXmSNnshT5KwcKIVJLEPC6GtlMf7aBKoX/vMUpMfauDZlQkEBRQx/1C1M5jusEK3Ui9co39vIS6QA3PVgHOsQTzpVh275KY0w2T/alIuSjfQlNlfmd+EdZ06Ps3bHUMNyvVDFmr8Qjr8qJBVxgqP5M9wxbgsRMThYY3W6wHVIOy8uEzqEYCFaowau0R/F/FIhKwVGlFlDoPA7/ExxuKv2txJxgxZyOunTBsC28TM59gQ1AN+8OTA8n3SbBvuks=;uriGZq5OTxboXUPyz9gK1w=="
 ---
 

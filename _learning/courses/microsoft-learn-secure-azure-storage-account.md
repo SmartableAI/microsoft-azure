@@ -8,7 +8,7 @@ length: 45 mins
 ratings:
   count: 7307
   average: 4.6399345
-heat: 59
+heat: 65
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Secure your Azure Storage account"
 
-secured: "F+WqqNyCnWF8OYCYDIOaZJRy5AdaakGR7U6PgkdKxdFuN+ZKSZ6kddv850WO7u6QItdpq1wX9bVFiaFJS3lwRIyhZk87xBMXIoZYl/d1TwNw0591BbxUqZhpD/Zl2zHsYq8FI8p+a1kToibe3cC3iJDGhBVY/FR1rRfaCP7MEaiF93V1UGSd+bKDGJMSpYOhPgtghdq0PBHG0V3tRFUz/lUIDYSqswq6m8b6BOO+FQnbMOR5u91e8r5i8h3Re4wuSKO39k8rsgMZShSVA8NEMEPEqAne9Od7sb3zPIwLc/nUia90Ytt6FDX32nmT0mUQEzjyI/NJ6liLT+P4+MpUC3d+sjQtsSzSb9QChTO9AQOUTCxs90pC1REqWoId9EYJG+bb2r/Pin6CicLAWnh13/ndjvRQC7Rx0fvBL+F1wtA=;5gYnvTK3Hyqa5COLRoRLFw=="
+secured: "t8Rp1bbUzlFGL1EX0hZvvhB6OSkvcL64APXti1KmYeC+7RsgNwAGup4G2RGyGiyx2SlCFF6cHp67sQytyupN6twBXTou08Qeu/0dCrDORSFwSGgqyIEBt947Bp1fJ3XNohF+W0usyT5MFoMAaAdxH4pazUESQyB5sy3Ksz+dH1vfE56ZSTnOhvmoD3PTOhbhZhAe8eG2pKBwnmnXDQA6Sg/o+kG7faAxI3n+tYfe6Wh/RekDWZIrbVRsgUJpfkY+Yz4UUZ6qfU4sPEY1FpUgyXfnvGW810dziV1wul0bsxTXT21+WPSiU4vu4TPNvkZ2fGqyj8zUrFGOOvncf6ywVjGwHwEH4zQfraauCDT1jf7x0KXEH8iRirx6vNBcC5LgMblMUn1f02mBokFvpcGviRIjq5QXodrrAlBA8nj69jA=;S37mEZfdxDuBb3v3WlZrfA=="
 ---
 

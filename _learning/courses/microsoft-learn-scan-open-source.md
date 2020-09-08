@@ -8,7 +8,7 @@ length: PT38M
 ratings:
   count: 1795
   average: 4.7186627
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Scan open source components for vulnerabilities and license ratings in Azure Pipelines"
 
-secured: "1B7gNh+miRtIuEjq2qzmnffWDCaXPLe25IsKha9gvLFhxf3Vmthz+8XnSgLVtqTgMoLkGY1uZucDkLwEvUDv3JwEJgihynoKH339Yd9oedjHZz1seWx7N0+zCw/p/0Iwo+A7EUFrcunOVqyTNPdLxPi/DFKRqSikiFMqgNYybuy36hnA1bS5x9luftS184bBr/Dg+xi3Aj2rVFVpfvofHl6cbWhbK2bFnbUdLKqTchnjtVDoDYEHNrzQt3iNlr8TRnOz8OozgHEYx0jvbKNoJhQpO8hJXE+7TEP/nTaHSN5lhSzLdYooP1iGI2smBKqy2br2nbVcvXezVQZYiYwNPRTLSMEjIF0u1tgtMHI6iEpiqqSccIwdH/Enji4raHY9UqutasLf7Zqq+g4+/8lShrR1mWZ3xn778uFxaGVyVgo=;x7wiOo8oDC8N0GRCKF/6cQ=="
+secured: "0v70wmef+jpRf9Gbei3H5HdXs6mZ5vSQYmlfMsmACUEKFRu9BCsbFroGH1f2oAwVklBUpK7YOuAEJWoagn0+uf8LsWS17byIayjDINJ9sirzrzLd66vACWUz3fTNFyTzGct/5QMciEO6FQcUAfJb3oBWVJXOQs+vtbFlH8Y8aPekE4KRRwfd/UlznN73+0FLbe9yTiJK/GPt061SlVk8jm2dHBfsfLQCrKQY6U6wJKYA/+zva271NsHC2ldUv77qvVB1dRd25oEql33LLfOC20ADGBOtPWzqJolYm9RGV2bwtsTN1PBkFqBW2iujdGEu7BxVJOGLxQp+NtpWqkjhPuhDKH+9CnZYMMSpc59nWJy4i+1QGR8fYhdhZGpCbU/R1TtvuLtfh1GPXvf7NaBRoExyeEQdg8OhonmqCM8CCto=;wIzwsvLqHYH0CmNH4EFmMw=="
 ---
 

@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 84 mins
 ratings:
-  count: 110
-  average: 4.318182
+  count: 111
+  average: 4.3153152
 heat: 52
 
 provider:
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Azure Spring Cloud workshop"
 
-secured: "bSUjWputJYAIq+qbpV9Jm0Bp/swZh7aE8nRNVGwgzu08H4jKz3EW+2iSq/eiQKo2q6Lhu2MzHCecJjmu7p7ALrgzl1SbEWdxgTvnbgEHmrpjMKrV1vRbQBlrSIDpqzBc8+Iyhtw1B4n7/zGpUmVL1oiynvLc79I232J00XbmxuZ4aVbxj3yar4983EPjv3dUKr4/PF+CzvyBVK/bM1rGO2c+crX3R0jH2cdRvp1FtnFo20gx/DmUxjpSs974HDkaQ6mpC7q7ExFmY6mr+yialCULuD3cLWGm5pVid1X+AOk7xDTkR1ymHM9Z0r2dfH1Drlf3qqrOubavD9BswKX+BTwmyrzr3AtjEPoFzHIoqLXPZoxaGpTw+M5Sv7jJ2lar37amhqydrGvn0Vp1nukDbY/s/KbGXdXRtptA6LvGNN8=;ZkAuzGGaVeusEI7ZX4b8fg=="
+secured: "igWpV2tXbDAlIh4qOJbeFp6kWqn/iRxjYzUwIcLf0J599hIOD0kkrgqCd6JN9b/ZJAHHDLSPtny6oWDDcE+P0Jyir51t1+EDhj5K/EhwloTD8F+JqbzvhlUoFo5tUuftGYqhv/LBKZ8tj3daR6tlofB5IwYftPsGnFKRqPvWTtZxr93bozLh5dDHxxSQLCBQ8cNThtqO12sij5EErs0NeoSk3LJzyesPb7eBwg+2nMXKK8MZhgjd1BTJAQXl0YpylBEJwvnAS2xqwhGppEhXSRt1mQBejcxExN2kLL99trawbSrcl9v/g/eM1Cu997dc3kWGQyQXfwjPe4+zVObo0gpJNl8+gql/NWoc26Xl3OCJ5Cb89NHaB7ajvrO8qzqFLI638EaWciTce5D26sVVXce2SP93c0Xzf8CFGswALH0=;v9V9ZMb/VDILB1rLYull/g=="
 ---
 

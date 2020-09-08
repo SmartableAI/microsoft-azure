@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 43 mins
 ratings:
-  count: 1678
-  average: 4.6078663
-heat: 55
+  count: 1679
+  average: 4.6081
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Develop, test, and deploy an Azure Function with Visual Studio"
 
-secured: "Bui0Ezfa/JXqoj5pIUZAtSa7e4kB64RYCNVFr0puD5TRhR8ctVLpFF3iHsfK6cftDzj4yPlS0dsYMki5B2QNoa3LibGr+J82SDRrL73a6qr50KbmkhpZeQDS549vInl5IhvyCtYzB8qEz2drX98I/VHpiScSoKXIWlVq64fJYE6uemzuFW4wkOrD4JdP4+dUNjtDDsgbbQTrXizwmgu0WX0ldtXYckR0DgfS8FyoHNo5IhJ/T2PkBdpHLI8C1Oyv28X2Sw+jW1abGmBIqXF5j7K+552CZX2+nuNZ7MXiScbTMB9OcFbrOczAB4Uvl0PpN+4KVziruXXrbR/siCNSrumrotBeKD+23YCVUbdaqF5QfFTAHM8YADHJmDCnHylzxZ7UY+aN2AO0gTxKd1sMfqeNVoFRDSCTwyvxzfa7l3w=;FGQVN6nKhoNc7LsiRb/ROg=="
+secured: "3lLjn7AuFKfxdjJnFamj8Q5o1WlQB8YP+SI0zkm5upv91cwj+9Iq5b+BKfEaseknrbhuwb6TKM8hogvNaYBovumuU4PSWbB7wvZKWQJdXGNpJLUl9wj+G/lFoVrrWotL8zH3YtmWHxaSWNUniQqFgZfE21xb84T0vbyxmeexcYX9/j2U6Yzvl8GG4bnDCk17tQeCV+Rj+g8HqZvqSFDIVs8zIw+3FsnUTy+wJoEzXX7NX7lZUd/N4aMLUHuaZyaCi72BZG8HRT0Zf4lYcGAdgcmueLUKHej2UlZAqD24D9tOEmNcXU8OjM0hVjsHI7XuPMt6YWYxEkaJtI581bhInvBSTVzAyNiJtyD+F7qj+EWHjQN5FjTv5oUJC4mz5p8bxcGRBGRCxZ6d5/nLfi35FuYIJnAsxql3SgvLmnfcQbg=;hwfkKVtCMwcm3QS3BWmSNw=="
 ---
 
