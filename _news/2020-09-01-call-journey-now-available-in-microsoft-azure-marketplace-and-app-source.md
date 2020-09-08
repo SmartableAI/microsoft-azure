@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Call Journey Now Available in Microsoft Azure Marketplace and App Source"
-excerpt: "PRNewswire-PRWeb/ -- Call Journey, provider of market-leading Conversation Analytics technology, announces its listing in the Microsoft"
-publishedDateTime: 2020-08-31T23:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/08/n17320508/call-journey-now-available-in-microsoft-azure-marketplace-and-app-source"
-webUrl: "https://www.benzinga.com/pressreleases/20/08/n17320508/call-journey-now-available-in-microsoft-azure-marketplace-and-app-source"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17320508"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17320508"
+excerpt: "Call Journey, provider of market-leading Conversation Analytics technology, announces its listing in the Microsoft Azure Marketplace and AppSource online stores for Microsoft customers providing ..."
+publishedDateTime: 2020-08-31T23:40:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/08/p17320531/call-journey-now-available-in-microsoft-azure-marketplace-and-app-source"
+webUrl: "https://www.benzinga.com/pressreleases/20/08/p17320531/call-journey-now-available-in-microsoft-azure-marketplace-and-app-source"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17320531"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17320531"
 type: article
 quality: 36
 heat: -1
@@ -386,6 +386,6 @@ related:
       domain: arnnet.com.au
     quality: 16
 
-secured: "WqHH1+jyt2kapAyUB+COzm6PgTp9W0yNWoeMPN8ZXEZkU3k4f9zh3RdNd6+nDkg6tN5+PuY0cRqpFzfvFEf7+KwrBneaHDovDydQk58CbW88CtLV/CMtMT14FectskThx7GZtgAJSHU++SDhGGzDIZlcjw0u+HaktAEFGGGfNRxhuQl1reKejerMKN+BAmlEEcSI0pPbYy34TfYELvT77BcZ0hdkmcdoo71Nw/4Q5c7dXrpqeBxir5GE80pwesBIOpeITEhE2jHb6yLsc16mWq8FcpwIT7k5SmqQBiqdFjxszb3lqo2vUYu4u89pjECSXqBzM2KJLDsVMB6DOF5JfEEvhh7YNvihk4YSZcL9DgE=;6TtX2nrYmDhntNIHUo9Fig=="
+secured: "o3mdTcvh50PZ+L6HJMgNaKFSynxb2Sk1peM0D3rKskF0VtnZF/4oAOw/x5lQQxaDuaDcxVxLtaIOILshs+7DU+iRrnZ4o5kBTSrApYvG3+gaLh5bvHYsJwsi+8vL8Bk0gauLNYc1cAAGxlWgcwsDJKf1QtGua8VD5JzrzkqulIhHek88Mm9hSYu5TGmYlwSwOZSN33FO0L5TZDTlCreskS5j4FLOQjeWMozKhVeWsDokHMYjWyFoxaFYvHHpzHFmsZ0WU9P38b2uxDPy8i6KttczXkquFZna/r72QIX2LR11K3u5N8CBNxBIfQSKKI1OKsKdr4HhI+7MfX5DiZ2vgkOsbCULoI6ZFn2cmc5QDXQ=;I9GZ44Hn+V+1/yYbx+w3CA=="
 ---
 
