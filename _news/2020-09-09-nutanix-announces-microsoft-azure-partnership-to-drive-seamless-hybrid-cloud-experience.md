@@ -1,26 +1,28 @@
 ---
 category: news
-title: "DH2i Announces Support for Microsoft Azure Shared Disks and New Azure Disk Storage Enhancements"
-excerpt: "DH2i®, the leading provider of multi-platform Software Defined Perimeter (SDP) and Smart Availability(TM) software, today announced DxEnterprise(TM) support for the recently announced"
-publishedDateTime: 2020-09-01T14:37:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dh2i-announces-support-for-microsoft-azure-shared-disks-and-new-azure-disk-storage-enhancements/article_0682c838-4b39-5c1c-bdb4-36d3238d99dd.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dh2i-announces-support-for-microsoft-azure-shared-disks-and-new-azure-disk-storage-enhancements/article_0682c838-4b39-5c1c-bdb4-36d3238d99dd.html"
+title: "Nutanix Announces Microsoft Azure Partnership To Drive Seamless Hybrid Cloud Experience"
+excerpt: "Nutanix has announced a new partnership with Microsoft that will enable both companies to deliver a hybrid solution with seamless application, data, and license mobility as well as unified management across on-premises and Azure environments,"
+publishedDateTime: 2020-09-09T01:46:00Z
+originalUrl: "https://www.scoop.co.nz/stories/BU2009/S00178/nutanix-announces-microsoft-azure-partnership-to-drive-seamless-hybrid-cloud-experience.htm"
+webUrl: "https://www.scoop.co.nz/stories/BU2009/S00178/nutanix-announces-microsoft-azure-partnership-to-drive-seamless-hybrid-cloud-experience.htm"
+ampWebUrl: "https://m.scoop.co.nz/stories/BU2009/S00178/nutanix-announces-microsoft-azure-partnership-to-drive-seamless-hybrid-cloud-experience.htm"
+cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2009/S00178/nutanix-announces-microsoft-azure-partnership-to-drive-seamless-hybrid-cloud-experience.htm"
 type: article
-quality: 25
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Scoop
+  domain: scoop.co.nz
 
 topics:
   - Azure
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/b9/4b92a68b-33b1-5bcc-9a61-7b662de68e4f/5f4e51674d02a.image.jpg?resize=400%2C400"
-    width: 400
-    height: 400
+  - url: "https://m.scoop.co.nz/stories/images/1512/smcnz.png"
+    width: 268
+    height: 250
     isCached: true
 
 related:
@@ -37,22 +39,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Nutanix Announces Microsoft Azure Partnership To Drive Seamless Hybrid Cloud Experience"
-    excerpt: "Nutanix has announced a new partnership with Microsoft that will enable both companies to deliver a hybrid solution with seamless application, data, and license mobility as well as unified management across on-premises and Azure environments,"
-    publishedDateTime: 2020-09-09T01:46:00Z
-    webUrl: "https://www.scoop.co.nz/stories/BU2009/S00178/nutanix-announces-microsoft-azure-partnership-to-drive-seamless-hybrid-cloud-experience.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/BU2009/S00178/nutanix-announces-microsoft-azure-partnership-to-drive-seamless-hybrid-cloud-experience.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2009/S00178/nutanix-announces-microsoft-azure-partnership-to-drive-seamless-hybrid-cloud-experience.htm"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 49
-    images:
-      - url: "https://m.scoop.co.nz/stories/images/1512/smcnz.png"
-        width: 268
-        height: 250
         isCached: true
   - title: "Nutanix joins Microsoft Azure for seamless Hybrid Cloud experience"
     excerpt: "Enterprise Cloud computing firm Nutanix on Tuesday announced a partnership with Microsoft to deliver a Hybrid Cloud solution with seamless application, data and license mobility."
@@ -79,6 +65,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "DH2i Announces Support for Microsoft Azure Shared Disks and New Azure Disk Storage Enhancements"
+    excerpt: "DH2i®, the leading provider of multi-platform Software Defined Perimeter (SDP) and Smart Availability(TM) software, today announced DxEnterprise(TM) support for the recently announced"
+    publishedDateTime: 2020-09-01T14:37:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dh2i-announces-support-for-microsoft-azure-shared-disks-and-new-azure-disk-storage-enhancements/article_0682c838-4b39-5c1c-bdb4-36d3238d99dd.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 25
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/b9/4b92a68b-33b1-5bcc-9a61-7b662de68e4f/5f4e51674d02a.image.jpg?resize=400%2C400"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Microsoft Announces the General Availability of Immersive Reader Service on the Azure AI Platform"
     excerpt: "Immersive Reader, which is a part of the Cognitive Services suite within the Microsoft Azure AI Platform provides help for readers to read and comprehend text. In a recent blog, Microsoft announced the general availability of the service."
     publishedDateTime: 2020-09-07T11:19:00Z
@@ -103,6 +103,6 @@ related:
       domain: insidehpc.com
     quality: 17
 
-secured: "UOUEK+VDjkVDh/FTaagO6lUr89CHx+RVeGZ2fC7idhWRpmVs+zeRTGQFImn6GFbLsgeBdvIELbnkrTN8Ik1Nkchv1E9ZiJeXnNhIJBgtRp2ZKblqtq2gKjLgOSgjpqPSGCA6SKzpcHQsqZ2htPNpIWXirtWoYUgtPSIdbIbtxFvUaqaVGsQENywkJqgO+B331lec3LlhTmLShNXgF2PXqycgIzPCzzQadvC41KaXJjQjE5dqXXRklylr1B93XDLdk9BwTvjppG/FjgAqAz25CCCSM8w5BptkCcSVdOLTAxw8NZ0L9o6QCn5nP02Y7SvT3RmJx1qqNkVD+SswavTi4G7xHUPi0gKy+zz7sJl1v1z0UMy0hp0KMhb0TuuzQ2UfrokOZLTJYvBvGEM5AYcqEziNdGGoNJzgpAvEDiyrEybTk9RNPeDcQy0GAXkmvgAHshq0y5C+XLQvBi92FwpCtrlxI303D0mBsQoB9fKuRGgoTtQn+y09YSfZ1ZmgA88b3YBCQmgTPrDRqQce4JCc2A==;/Dvhh1rj0yfTijbcI1oJHA=="
+secured: "5TlzxIv0mnXxpjDgS6G2CSkIuU/CB43kOeulkVul1scIvRWuIXuVs7zLX/I4Y79jC+pLueyyGQGHEGU5A/YFWQ7EA1nTug5OaF6oGw/TLZBPpsS8FkLyr1wNp2tVZ5aZa+BF+5a6kResTkMnu+0J/Y5xtWLle84SqdgwIqQatYEOC4ruQes8F4XnGdk71Vb9HQE4ghHpgRcTG/4CRiIltfu1olVYjIz6bzsCmv1yhcUK+ATsZMj4JmjF0kNxXsroguuucOmiOMR69Thkw6hPVjnhDgqtOElUG0cWB/uDEVjKyBpkC8w2d21tuKILm6AuGvFR7LAt+ga/N9KRbTngL8WOl9ibjto89jBOWDkqVeE=;Byy6AgffzPBykt1YWJ+aHQ=="
 ---
 
