@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Nutanix joins Microsoft Azure for seamless Hybrid Cloud experience"
-excerpt: "Enterprise Cloud computing firm Nutanix on Tuesday announced a partnership with Microsoft to deliver a Hybrid Cloud solution with seamless application, data and license mobility."
-publishedDateTime: 2020-09-08T17:53:00Z
-originalUrl: "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
-webUrl: "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
-ampWebUrl: "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
+excerpt: "Enterprise Cloud computing firm Nutanix on Tuesday announced a partnership with Microsoft to deliver a Hybrid Cloud solution with seamless application, data and license mobility. As part of the collaboration,"
+publishedDateTime: 2020-09-08T23:37:00Z
+originalUrl: "https://news.webindia123.com/news/articles/Science/20200909/3623233.html"
+webUrl: "https://news.webindia123.com/news/articles/Science/20200909/3623233.html"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Azure
@@ -102,6 +100,6 @@ related:
       domain: insidehpc.com
     quality: 17
 
-secured: "sm+3xSkV4oEVf+Hr/Mpa0bkL/7+5xjY4QF7uUlEq+PJjGG4XbR/+eJQDmHDv4aln3J5qXoEZF3aghVD7yuQ3Hk1kPzSN5bKsSIP/gisCEcmDjLQeJVmeviOHTOUF8sXI5x3vsFdYTkrNJZahyrd6CYdElHp1QOooqGRFWmq62zAGBw4WfVW2Sm18ivE8cUNYbHvfTdk1NtjV9preFG5DYYikg943WuLejeB25DLDoQoqaYMjmORCua66H6hQGSP1+EMIk1IvBAOiY1fw0SthFb6fS0ZYgMSyoJrWxY7H3KLjih7BPo4pRkpjvJuJJttBnxVA69oKOcq/z6kdYpcueHaVoV6Ku4952dfBL6Vsb8A=;K7otjJ8mmdn1ZcZSFnKeJA=="
+secured: "M+l6xR6YlUsLRqoyHvlHQ+XwklzhSI+7uun26eHAV9ojwm3gc3vce/5s01p+KQyYVhR8YRnilik8kKuEhUA35E/qB/A3Gm8XuK8BaJXf0JE9MUp1PsaUBdnnu3h/gU5mVEfiPA9j1hxfVfXaQS7aqsuTYP4hpYr8iEizgGKEehil/a6AuYsdTwpNJSAJ3I2cuK219bEI4f0VaBLnaK08DRGEk94l2SRugAs82+uCboEZgMyWy87f2oT/kJfK5rjlhDWsSd2E1ICwJuVyX7786bQGP1K4pSMLSAr5zWnGvICa3xWAL/NVjjpcrfL99dSh+tRDoaHP8+WvlkZ+gY50f8wsXW1IUrl0rwHXb7IFx30=;cE+uh6g5QrFeyA3QXETXkg=="
 ---
 
