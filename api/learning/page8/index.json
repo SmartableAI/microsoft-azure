@@ -4,91 +4,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-kubernetes-service.md",
-      "title": "Introduction to Azure Kubernetes Service",
-      "excerpt": "Determine the types of business problems that can be solved using Azure Kubernetes Service. Describe the benefits of container orchestration with features like deployment management, automatic updates, and self-healing.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-kubernetes-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/",
-      "length": "25 mins",
-      "ratings": {
-        "count": 3221,
-        "average": 4.6041603
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-kubernetes-service-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Introduction to Azure Kubernetes Service",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-containers.md",
-      "title": "Build a containerized web application with Docker",
-      "excerpt": "Package a web app so that it can be deployed as a Docker image and run from an Azure Container Instance.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-containers/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
-      "length": "57 mins",
-      "ratings": {
-        "count": 2699,
-        "average": 4.6083736
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-containers-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Build a containerized web application with Docker",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-introduction-to-classification.md",
       "title": "Predict categories with machine learning classification",
       "excerpt": "Use machine learning models to categorize data. Build a logistic regression model and support vector machine models to predict categories like win/loss and tree species.",
@@ -391,8 +306,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
       "length": "53 mins",
       "ratings": {
-        "count": 1532,
-        "average": 4.633159
+        "count": 1533,
+        "average": 4.6333985
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -435,8 +350,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-linux/",
       "length": "PT16M",
       "ratings": {
-        "count": 535,
-        "average": 4.775701
+        "count": 536,
+        "average": 4.776119
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -470,6 +385,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-load-balance-web-traffic-with-application-gateway.md",
+      "title": "Load balance your web service traffic with Application Gateway",
+      "excerpt": "Improve application resilience by distributing load across multiple servers and use path-based routing to direct web traffic.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-load-balance-web-traffic-with-application-gateway/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/load-balance-web-traffic-with-application-gateway/",
+      "length": "92 mins",
+      "ratings": {
+        "count": 1823,
+        "average": 4.584202
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/load-balance-web-traffic-with-application-gateway-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Load balance your web service traffic with Application Gateway",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-m365-identity-overview.md",
       "title": "Overview of identity and access management in Microsoft 365",
       "excerpt": "Learn how identity and access management work in Microsoft 365.",
@@ -478,7 +436,7 @@
       "length": "8 mins",
       "ratings": {
         "count": 1769,
-        "average": 4.718485
+        "average": 4.7190504
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -520,8 +478,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-your-dev-environment-for-azure-development/",
       "length": "28 mins",
       "ratings": {
-        "count": 4694,
-        "average": 4.6932254
+        "count": 4695,
+        "average": 4.6932907
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -796,8 +754,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/align-requirements-in-azure/",
       "length": "35 mins",
       "ratings": {
-        "count": 5467,
-        "average": 4.7367845
+        "count": 5469,
+        "average": 4.736881
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -838,8 +796,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-azure-vm-templates/",
       "length": "37 mins",
       "ratings": {
-        "count": 3308,
-        "average": 4.5341597
+        "count": 3309,
+        "average": 4.533998
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1043,8 +1001,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
       "length": "56 mins",
       "ratings": {
-        "count": 1733,
-        "average": 4.4518175
+        "count": 1735,
+        "average": 4.4518733
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1086,8 +1044,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/import-data-into-asdw-with-polybase/",
       "length": "66 mins",
       "ratings": {
-        "count": 1950,
-        "average": 4.5579486
+        "count": 1951,
+        "average": 4.558175
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1290,8 +1248,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
       "length": "84 mins",
       "ratings": {
-        "count": 671,
-        "average": 4.388972
+        "count": 672,
+        "average": 4.389881
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1334,8 +1292,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing-dynamics-365-deployment/",
       "length": "PT45M",
       "ratings": {
-        "count": 1774,
-        "average": 4.69053
+        "count": 1775,
+        "average": 4.6907043
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1365,6 +1323,51 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks.md",
+      "title": "Secure your Azure virtual machine disks",
+      "excerpt": "Use Azure Disk Encryption (ADE) to encrypt OS and data disks on existing and new VMs.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
+      "length": "61 mins",
+      "ratings": {
+        "count": 2414,
+        "average": 4.65203
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/secure-your-azure-virtual-machine-disks-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Secure your Azure virtual machine disks",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Storage",
+        "Management Tools"
       ]
     }
   ],

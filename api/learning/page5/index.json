@@ -378,8 +378,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-devops-continuous-planning-intergration/",
       "length": "22 mins",
       "ratings": {
-        "count": 734,
-        "average": 4.6730247
+        "count": 736,
+        "average": 4.6725545
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -465,8 +465,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-azure-services-with-cli/",
       "length": "34 mins",
       "ratings": {
-        "count": 3881,
-        "average": 4.7451687
+        "count": 3883,
+        "average": 4.7453
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -498,48 +498,6 @@
       "topics": [
         "Azure",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-define-foundation-pillars.md",
-      "title": "Define the foundation pillars of DevOps: Architecture and Technology",
-      "excerpt": "There are three things required to make DevOps happen: the cultural component, tools and technology, and architecture. Discover the last two foundation pillars of DevOps, Architecture and Technology!",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-define-foundation-pillars/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/define-foundation-pillars/",
-      "length": "16 mins",
-      "ratings": {
-        "count": 553,
-        "average": 4.707052
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/define-foundation-pillars-devops-architecture-technology-social.png",
-          "width": 320,
-          "height": 160,
-          "title": "Define the foundation pillars of DevOps: Architecture and Technology",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     },
     {
@@ -1266,8 +1224,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
       "length": "36 mins",
       "ratings": {
-        "count": 6159,
-        "average": 4.666342
+        "count": 6160,
+        "average": 4.666396
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1311,8 +1269,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-data-analytics/",
       "length": "PT16M",
       "ratings": {
-        "count": 407,
-        "average": 4.808354
+        "count": 408,
+        "average": 4.8088236
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1353,8 +1311,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
       "length": "27 mins",
       "ratings": {
-        "count": 1285,
-        "average": 4.6871595
+        "count": 1287,
+        "average": 4.687646
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2816,6 +2774,50 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-linux-vm-in-azure.md",
+      "title": "Create a Linux virtual machine in Azure",
+      "excerpt": "In this module, we discuss how to create a Linux virtual machine using the Azure portal.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-linux-vm-in-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
+      "length": "86 mins",
+      "ratings": {
+        "count": 7542,
+        "average": 4.6840363
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-linux-virtual-machine-in-azure-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Create a Linux virtual machine in Azure",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Management Tools"
       ]
     }
   ],

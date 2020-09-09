@@ -4,51 +4,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks.md",
-      "title": "Secure your Azure virtual machine disks",
-      "excerpt": "Use Azure Disk Encryption (ADE) to encrypt OS and data disks on existing and new VMs.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
-      "length": "61 mins",
-      "ratings": {
-        "count": 2413,
-        "average": 4.6518855
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-your-azure-virtual-machine-disks-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Secure your Azure virtual machine disks",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Storage",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-troubleshoot-azure-network-infrastructure.md",
       "title": "Monitor and troubleshoot your end-to-end Azure network infrastructure by using network monitoring tools",
       "excerpt": "Use Network Watcher tools, diagnostics, and logs to help find and fix networking issues in your Azure infrastructure.",
@@ -56,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-azure-network-infrastructure/",
       "length": "37 mins",
       "ratings": {
-        "count": 1906,
-        "average": 4.577125
+        "count": 1907,
+        "average": 4.577347
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -277,8 +232,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
       "length": "48 mins",
       "ratings": {
-        "count": 1334,
-        "average": 4.617691
+        "count": 1335,
+        "average": 4.6179776
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -325,8 +280,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-and-manage-azure-key-vault/",
       "length": "29 mins",
       "ratings": {
-        "count": 1791,
-        "average": 4.6041317
+        "count": 1792,
+        "average": 4.6043525
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -533,6 +488,50 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-develop-test-deploy-azure-functions-core-tools.md",
+      "title": "Develop, test, and publish Azure Functions by using Azure Functions Core Tools",
+      "excerpt": "Use the Azure Functions Core Tools to create and run functions on a development computer and publish them to Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-develop-test-deploy-azure-functions-core-tools/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-core-tools/",
+      "length": "20 mins",
+      "ratings": {
+        "count": 1641,
+        "average": 4.700183
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/develop-test-deploy-azure-functions-core-tools-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Develop, test, and publish Azure Functions by using Azure Functions Core Tools",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-execute-azure-function-with-triggers.md",
       "title": "Execute an Azure Function with triggers",
       "excerpt": "A trigger is responsible for executing an Azure function and there are dozens of triggers to choose from. This module will you show you some of the most common types of triggers and how to configure them to execute your logic.",
@@ -540,8 +539,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
       "length": "83 mins",
       "ratings": {
-        "count": 3221,
-        "average": 4.7016454
+        "count": 3223,
+        "average": 4.7015204
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -703,8 +702,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-secure-administrators/",
       "length": "PT21M",
       "ratings": {
-        "count": 852,
-        "average": 4.7570424
+        "count": 853,
+        "average": 4.7549825
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1311,8 +1310,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
       "length": "39 mins",
       "ratings": {
-        "count": 3301,
-        "average": 4.5731597
+        "count": 3302,
+        "average": 4.573289
       },
       "provider": {
         "name": "Microsoft Learn",

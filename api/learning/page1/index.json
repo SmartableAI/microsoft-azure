@@ -257,8 +257,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/",
       "length": "62 mins",
       "ratings": {
-        "count": 161918,
-        "average": 4.7720265
+        "count": 161944,
+        "average": 4.7720323
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -300,8 +300,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
       "length": "39 mins",
       "ratings": {
-        "count": 129199,
-        "average": 4.695733
+        "count": 129209,
+        "average": 4.695741
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -336,6 +336,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-define-foundation-pillars.md",
+      "title": "Define the foundation pillars of DevOps: Architecture and Technology",
+      "excerpt": "There are three things required to make DevOps happen: the cultural component, tools and technology, and architecture. Discover the last two foundation pillars of DevOps, Architecture and Technology!",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-define-foundation-pillars/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/define-foundation-pillars/",
+      "length": "16 mins",
+      "ratings": {
+        "count": 553,
+        "average": 4.707052
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 123,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/define-foundation-pillars-devops-architecture-technology-social.png",
+          "width": 320,
+          "height": 160,
+          "title": "Define the foundation pillars of DevOps: Architecture and Technology",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-compute.md",
       "title": "Core Cloud Services - Azure compute options",
       "excerpt": "Review the Azure compute services and explore how they can solve common business needs.",
@@ -343,8 +385,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
       "length": "38 mins",
       "ratings": {
-        "count": 61441,
-        "average": 4.7086635
+        "count": 61451,
+        "average": 4.708662
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -392,8 +434,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-data-in-azure/",
       "length": "25 mins",
       "ratings": {
-        "count": 53398,
-        "average": 4.733248
+        "count": 53403,
+        "average": 4.733236
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -677,15 +719,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-load-balance-web-traffic-with-application-gateway.md",
-      "title": "Load balance your web service traffic with Application Gateway",
-      "excerpt": "Improve application resilience by distributing load across multiple servers and use path-based routing to direct web traffic.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-load-balance-web-traffic-with-application-gateway/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/load-balance-web-traffic-with-application-gateway/",
-      "length": "92 mins",
+      "path": "_learning/courses/microsoft-learn-create-regression-model-azure-machine-learning-designer.md",
+      "title": "Create a Regression Model with Azure Machine Learning designer",
+      "excerpt": "Regression is a supervised machine learning technique used to predict numeric values. Learn how to create regression models using Azure Machine Learning designer.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-regression-model-azure-machine-learning-designer/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-regression-model-azure-machine-learning-designer/",
+      "length": "PT50M",
       "ratings": {
-        "count": 1822,
-        "average": 4.583974
+        "count": 275,
+        "average": 4.7636366
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -702,65 +744,12 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 117,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/load-balance-web-traffic-with-application-gateway-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Load balance your web service traffic with Application Gateway",
-          "isCached": true
-        }
-      ],
+      "heat": 118,
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-develop-test-deploy-azure-functions-core-tools.md",
-      "title": "Develop, test, and publish Azure Functions by using Azure Functions Core Tools",
-      "excerpt": "Use the Azure Functions Core Tools to create and run functions on a development computer and publish them to Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-develop-test-deploy-azure-functions-core-tools/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-core-tools/",
-      "length": "20 mins",
-      "ratings": {
-        "count": 1641,
-        "average": 4.700183
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 115,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/develop-test-deploy-azure-functions-core-tools-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Develop, test, and publish Azure Functions by using Azure Functions Core Tools",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless"
+        "AI"
       ]
     },
     {
@@ -771,8 +760,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-python-nasa/",
       "length": "PT23M",
       "ratings": {
-        "count": 322,
-        "average": 4.757764
+        "count": 326,
+        "average": 4.760736
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -812,8 +801,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/",
       "length": "45 mins",
       "ratings": {
-        "count": 65302,
-        "average": 4.7124896
+        "count": 65312,
+        "average": 4.7125335
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -854,8 +843,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/",
       "length": "36 mins",
       "ratings": {
-        "count": 64631,
-        "average": 4.7997866
+        "count": 64637,
+        "average": 4.7997894
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1149,8 +1138,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-networking/",
       "length": "28 mins",
       "ratings": {
-        "count": 42199,
-        "average": 4.764094
+        "count": 42204,
+        "average": 4.764098
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1192,8 +1181,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/",
       "length": "73 mins",
       "ratings": {
-        "count": 49007,
-        "average": 4.706695
+        "count": 49015,
+        "average": 4.7066817
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1235,8 +1224,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
       "length": "46 mins",
       "ratings": {
-        "count": 36913,
-        "average": 4.628532
+        "count": 36918,
+        "average": 4.628528
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1649,8 +1638,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
       "length": "76 mins",
       "ratings": {
-        "count": 43087,
-        "average": 4.7023463
+        "count": 43091,
+        "average": 4.7023506
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1685,6 +1674,357 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-devops-dojo-white-belt-foundations.md",
+      "title": "DevOps dojo white belt foundations",
+      "excerpt": "Familiarize yourself with DevOps basic concepts and principles.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-devops-dojo-white-belt-foundations/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-devops-dojo-white-belt-foundations/",
+      "length": "PT2H0M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Introduce the foundation pillars of DevOps: Culture and Lean Product",
+          "excerpt": "DevOps is the union of people, process, and products to enable continuous delivery of value to our end users. Discover the first two foundation pillars of DevOps: Culture and Lean Product.",
+          "heat": 80,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/introduce-foundation-pillars-devops-culture-learn-product-social.png",
+              "width": 320,
+              "height": 160,
+              "title": "Introduce the foundation pillars of DevOps: Culture and Lean Product",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Define the foundation pillars of DevOps: Architecture and Technology",
+          "excerpt": "There are three things required to make DevOps happen: the cultural component, tools and technology, and architecture. Discover the last two foundation pillars of DevOps, Architecture and Technology!",
+          "heat": 123,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/define-foundation-pillars-devops-architecture-technology-social.png",
+              "width": 320,
+              "height": 160,
+              "title": "Define the foundation pillars of DevOps: Architecture and Technology",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Analyze DevOps Continuous Planning and Continuous Integration",
+          "excerpt": "Explore the first two capabilities in the DevOps taxonomy, Continuous Planning and Continuous Integration.",
+          "heat": 63,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/analyze-devops-continuous-planning-continuous-integration-social.png",
+              "width": 320,
+              "height": 160,
+              "title": "Analyze DevOps Continuous Planning and Continuous Integration",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Explain DevOps Continuous Delivery and Continuous Quality",
+          "excerpt": "Explore two capabilities in the DevOps taxonomy, Continuous Delivery and Continuous Quality.",
+          "heat": 68,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/explain-devops-continuous-delivery-quality-social.png",
+              "width": 320,
+              "height": 160,
+              "title": "Explain DevOps Continuous Delivery and Continuous Quality",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 96,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduce-foundation-pillars-devops-culture-learn-product-social.png",
+          "width": 320,
+          "height": 160,
+          "title": "Introduce the foundation pillars of DevOps: Culture and Lean Product",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-introduce-devops-dojo-create-efficiencies-that-support-your-business.md",
+      "title": "Introduce DevOps Dojo: Create efficiencies that support your business",
+      "excerpt": "Start your DevOps Dojo journey.  Create multidisciplinary DevOps teams by using shared tools and processes that are designed to make your organization’s software development and implementation projects more efficient.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-introduce-devops-dojo-create-efficiencies-that-support-your-business/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-introduce-devops-dojo-create-efficiencies-that-support-your-business/",
+      "length": "PT2H0M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Introduce the foundation pillars of DevOps: Culture and Lean Product",
+          "excerpt": "DevOps is the union of people, process, and products to enable continuous delivery of value to our end users. Discover the first two foundation pillars of DevOps: Culture and Lean Product.",
+          "heat": 80,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/introduce-foundation-pillars-devops-culture-learn-product-social.png",
+              "width": 320,
+              "height": 160,
+              "title": "Introduce the foundation pillars of DevOps: Culture and Lean Product",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Define the foundation pillars of DevOps: Architecture and Technology",
+          "excerpt": "There are three things required to make DevOps happen: the cultural component, tools and technology, and architecture. Discover the last two foundation pillars of DevOps, Architecture and Technology!",
+          "heat": 123,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/define-foundation-pillars-devops-architecture-technology-social.png",
+              "width": 320,
+              "height": 160,
+              "title": "Define the foundation pillars of DevOps: Architecture and Technology",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Analyze DevOps Continuous Planning and Continuous Integration",
+          "excerpt": "Explore the first two capabilities in the DevOps taxonomy, Continuous Planning and Continuous Integration.",
+          "heat": 63,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/analyze-devops-continuous-planning-continuous-integration-social.png",
+              "width": 320,
+              "height": 160,
+              "title": "Analyze DevOps Continuous Planning and Continuous Integration",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Explain DevOps Continuous Delivery and Continuous Quality",
+          "excerpt": "Explore two capabilities in the DevOps taxonomy, Continuous Delivery and Continuous Quality.",
+          "heat": 68,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/explain-devops-continuous-delivery-quality-social.png",
+              "width": 320,
+              "height": 160,
+              "title": "Explain DevOps Continuous Delivery and Continuous Quality",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 96,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduce-foundation-pillars-devops-culture-learn-product-social.png",
+          "width": 320,
+          "height": 160,
+          "title": "Introduce the foundation pillars of DevOps: Culture and Lean Product",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-learn-about-devops-dojo-white-belt-foundation.md",
+      "title": "Learn about DevOps dojo white belt foundation",
+      "excerpt": "The DevOps dojo white belt foundation course aims to provide you with:\n\nA high-level understanding of DevOps\nA DevOps taxonomy to help familiarize and provide you with an understanding of DevOps concepts and principles",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-learn-about-devops-dojo-white-belt-foundation/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-learn-about-devops-dojo-white-belt-foundation/",
+      "length": "PT2H0M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Introduce the foundation pillars of DevOps: Culture and Lean Product",
+          "excerpt": "DevOps is the union of people, process, and products to enable continuous delivery of value to our end users. Discover the first two foundation pillars of DevOps: Culture and Lean Product.",
+          "heat": 80,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/introduce-foundation-pillars-devops-culture-learn-product-social.png",
+              "width": 320,
+              "height": 160,
+              "title": "Introduce the foundation pillars of DevOps: Culture and Lean Product",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Define the foundation pillars of DevOps: Architecture and Technology",
+          "excerpt": "There are three things required to make DevOps happen: the cultural component, tools and technology, and architecture. Discover the last two foundation pillars of DevOps, Architecture and Technology!",
+          "heat": 123,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/define-foundation-pillars-devops-architecture-technology-social.png",
+              "width": 320,
+              "height": 160,
+              "title": "Define the foundation pillars of DevOps: Architecture and Technology",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Analyze DevOps Continuous Planning and Continuous Integration",
+          "excerpt": "Explore the first two capabilities in the DevOps taxonomy, Continuous Planning and Continuous Integration.",
+          "heat": 63,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/analyze-devops-continuous-planning-continuous-integration-social.png",
+              "width": 320,
+              "height": 160,
+              "title": "Analyze DevOps Continuous Planning and Continuous Integration",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Explain DevOps Continuous Delivery and Continuous Quality",
+          "excerpt": "Explore two capabilities in the DevOps taxonomy, Continuous Delivery and Continuous Quality.",
+          "heat": 68,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/explain-devops-continuous-delivery-quality-social.png",
+              "width": 320,
+              "height": 160,
+              "title": "Explain DevOps Continuous Delivery and Continuous Quality",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 96,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduce-foundation-pillars-devops-culture-learn-product-social.png",
+          "width": 320,
+          "height": 160,
+          "title": "Introduce the foundation pillars of DevOps: Culture and Lean Product",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-control-and-organize-with-resource-manager.md",
       "title": "Control and organize Azure resources with Azure Resource Manager",
       "excerpt": "Use Azure Resource Manager to organize resources, enforce standards, and protect critical assets from deletion.",
@@ -1692,8 +2032,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
       "length": "46 mins",
       "ratings": {
-        "count": 37219,
-        "average": 4.712539
+        "count": 37223,
+        "average": 4.71257
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1735,8 +2075,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimize-spending/",
       "length": "74 mins",
       "ratings": {
-        "count": 39117,
-        "average": 4.714293
+        "count": 39119,
+        "average": 4.714308
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2065,380 +2405,6 @@
         "Storage",
         "Management Tools",
         "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-deploy-a-website-with-azure-virtual-machines-learning-path.md",
-      "title": "Deploy a website with Azure virtual machines learning path",
-      "excerpt": "Learn to use a Windows or Linux Azure Virtual Machine to extend the website support that Azure provides.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-deploy-a-website-with-azure-virtual-machines-learning-path/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-deploy-a-website-with-azure-virtual-machines-learning-path/",
-      "length": "PT4H6M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Introduction to Azure virtual machines",
-          "excerpt": "Learn about the decisions you make before creating a virtual machine, the options to create and manage the VM, and the extensions and services you use to manage your VM.",
-          "heat": 83,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-virtual-machines-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Introduction to Azure virtual machines",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Compute"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Create a Linux virtual machine in Azure",
-          "excerpt": "In this module, we discuss how to create a Linux virtual machine using the Azure portal.",
-          "heat": 61,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/create-linux-virtual-machine-in-azure-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Create a Linux virtual machine in Azure",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Create a Windows virtual machine in Azure",
-          "excerpt": "Azure virtual machines (VMs) enable you to create dedicated compute resources in minutes that can be used just like a physical desktop or server machine.",
-          "heat": 69,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/create-windows-virtual-machine-in-azure-social.png",
-              "width": 1000,
-              "height": 500,
-              "title": "Create a Windows virtual machine in Azure",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Compute"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Build and run a web application with the MEAN stack on an Azure Linux virtual machine",
-          "excerpt": "Learn how to set up a MEAN-based web application on a new Azure Linux virtual machine.",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/build-a-web-app-with-mean-on-a-linux-vm-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Build and run a web application with the MEAN stack on an Azure Linux virtual machine",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Management Tools"
-          ]
-        }
-      ],
-      "size": 4,
-      "heat": 82,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-virtual-machines-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Introduction to Azure virtual machines",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-deploy-a-website-with-azure-virtual-machines.md",
-      "title": "Deploy a website with Azure virtual machines",
-      "excerpt": "If your web hosting requirements aren't directly supported by the Azure Web app platform, you can leverage virtual machines to customize and control every aspect of the web server. Learn how to create, configure, and manage virtual machines on Linux and Windows that host web apps.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-deploy-a-website-with-azure-virtual-machines/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-deploy-a-website-with-azure-virtual-machines/",
-      "length": "PT4H6M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Introduction to Azure virtual machines",
-          "excerpt": "Learn about the decisions you make before creating a virtual machine, the options to create and manage the VM, and the extensions and services you use to manage your VM.",
-          "heat": 83,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-virtual-machines-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Introduction to Azure virtual machines",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Compute"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Create a Linux virtual machine in Azure",
-          "excerpt": "In this module, we discuss how to create a Linux virtual machine using the Azure portal.",
-          "heat": 61,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/create-linux-virtual-machine-in-azure-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Create a Linux virtual machine in Azure",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Create a Windows virtual machine in Azure",
-          "excerpt": "Azure virtual machines (VMs) enable you to create dedicated compute resources in minutes that can be used just like a physical desktop or server machine.",
-          "heat": 69,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/create-windows-virtual-machine-in-azure-social.png",
-              "width": 1000,
-              "height": 500,
-              "title": "Create a Windows virtual machine in Azure",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Compute"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Build and run a web application with the MEAN stack on an Azure Linux virtual machine",
-          "excerpt": "Learn how to set up a MEAN-based web application on a new Azure Linux virtual machine.",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/build-a-web-app-with-mean-on-a-linux-vm-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Build and run a web application with the MEAN stack on an Azure Linux virtual machine",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Management Tools"
-          ]
-        }
-      ],
-      "size": 4,
-      "heat": 82,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-virtual-machines-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Introduction to Azure virtual machines",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-implement-virtual-machine-host-security-in-azure.md",
-      "title": "Implement virtual machine host security in Azure",
-      "excerpt": "Learn how to protect and harden your virtual machines in Azure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-implement-virtual-machine-host-security-in-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-implement-virtual-machine-host-security-in-azure/",
-      "length": "PT6H4M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Microsoft Azure Well-Architected Framework - Security",
-          "excerpt": "Learn how to incorporate security into your architecture design, and discover the tools that Azure provides to help you create a secure environment through all the layers of your architecture.",
-          "heat": 72,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-security-social.png",
-              "width": 640,
-              "height": 320,
-              "title": "Microsoft Azure Well-Architected Framework - Security",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Create security baselines",
-          "excerpt": "Create security baselines",
-          "heat": 55,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/create-security-baselines-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Create security baselines",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Create a Linux virtual machine in Azure",
-          "excerpt": "In this module, we discuss how to create a Linux virtual machine using the Azure portal.",
-          "heat": 61,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/create-linux-virtual-machine-in-azure-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Create a Linux virtual machine in Azure",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Create a Windows virtual machine in Azure",
-          "excerpt": "Azure virtual machines (VMs) enable you to create dedicated compute resources in minutes that can be used just like a physical desktop or server machine.",
-          "heat": 69,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/create-windows-virtual-machine-in-azure-social.png",
-              "width": 1000,
-              "height": 500,
-              "title": "Create a Windows virtual machine in Azure",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Compute"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 82,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-security-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Microsoft Azure Well-Architected Framework - Security",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Compute"
       ]
     }
   ],
