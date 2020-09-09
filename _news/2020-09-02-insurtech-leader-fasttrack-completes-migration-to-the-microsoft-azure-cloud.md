@@ -1,73 +1,71 @@
 ---
 category: news
 title: "Insurtech Leader FastTrack Completes Migration to the Microsoft Azure Cloud"
-excerpt: "The project resulted in a transition to Microsoft Azure for their entire suite of solutions and was completed without any service disruption to its customers. Leveraging the hosting platform's ..."
-publishedDateTime: 2020-09-02T15:20:00Z
-originalUrl: "https://www.trentonian.com/news/state/insurtech-leader-fasttrack-completes-migration-to-the-microsoft-azure-cloud/article_70b0fb10-bf08-5521-88bd-f3c4f075ad94.html"
-webUrl: "https://www.trentonian.com/news/state/insurtech-leader-fasttrack-completes-migration-to-the-microsoft-azure-cloud/article_70b0fb10-bf08-5521-88bd-f3c4f075ad94.html"
+excerpt: "FastTrack, a leading provider of insurtech solutions for the Life & Disability insurance industry, announced today the completion of"
+publishedDateTime: 2020-09-02T12:36:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/insurtech-leader-fasttrack-completes-migration-to-the-microsoft-azure-cloud-301122621.html"
+webUrl: "https://www.prnewswire.com/news-releases/insurtech-leader-fasttrack-completes-migration-to-the-microsoft-azure-cloud-301122621.html"
 type: article
 quality: 35
 heat: -1
 published: false
 
 provider:
-  name: The Trentonian
-  domain: trentonian.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/trentonian.com/content/tncms/custom/image/7e7299aa-52cf-11e8-9a1b-c387992939a2.jpg?resize=600%2C600"
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
     width: 600
-    height: 600
+    height: 315
     isCached: true
 
 related:
-  - title: "TikTok could become one of the largest Microsoft Azure customers"
-    excerpt: "Microsoft is just one of the many companies considering acquiring the social media app TikTok from its parent company ByteDance following President Trump's executive order that the service needs to be sold to a US company to continue operating in the United States."
-    publishedDateTime: 2020-08-27T22:44:00Z
-    webUrl: "https://www.techradar.com/au/news/tiktok-could-become-one-of-the-largest-microsoft-azure-customers"
-    ampWebUrl: "https://www.techradar.com/au/amp/news/tiktok-could-become-one-of-the-largest-microsoft-azure-customers"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/tiktok-could-become-one-of-the-largest-microsoft-azure-customers"
+  - title: "RateLinx completes migration to Microsoft Azure to better serve customers"
+    excerpt: "RateLinx announced today the completion of the migration to the Microsoft Azure cloud computing platform. The migration will enable more capabilities within the RateLinx suite of cloud-based logistics solutions,"
+    publishedDateTime: 2020-05-22T00:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ratelinx-completes-migration-to-microsoft-azure-to-better-serve-customers-1029225453"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 97
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
+  - title: "RateLinx completes migration to Microsoft Azure to better serve customers"
+    excerpt: "MADISON, WI (May 21, 2020) – RateLinx announced today the completion of the migration to the Microsoft Azure cloud computing platform. The migration will enable more capabilities within the RateLinx suite of cloud-based logistics solutions, in addition ..."
+    publishedDateTime: 2020-05-21T23:34:00Z
+    webUrl: "https://www.dcvelocity.com/articles/46116-ratelinx-completes-migration-to-microsoft-azure-to-better-serve-customers"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 36
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/DjEsP5aRA3jcWVJjU6gtzH-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/0bef1a3f-3524-4a47-91e5-78466728c9a3.png?height=635&t=1590129628&width=1200"
+        width: 600
+        height: 201
         isCached: true
-  - title: "TikTok could become one of the largest Microsoft Azure customers"
-    excerpt: "For Microsoft, a minority investment in TikTok could lead to the company deciding to use Azure over competing cloud computing services. According to The Information, the social media app signed a ..."
-    publishedDateTime: 2020-08-27T22:47:00Z
-    webUrl: "https://www.techradar.com/news/tiktok-could-become-one-of-the-largest-microsoft-azure-customers"
-    ampWebUrl: "https://www.techradar.com/amp/news/tiktok-could-become-one-of-the-largest-microsoft-azure-customers"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/tiktok-could-become-one-of-the-largest-microsoft-azure-customers"
+  - title: "Netcracker Offers AI-Driven Digital BSS/OSS to Microsoft Azure"
+    excerpt: "Netcracker Technology announced today it is working with Microsoft to offer its Digital BSS/OSS and Orchestration applications on Microsoft Azure. Netcracker is collaborating with Microsoft to integrate Azure Machine Learning (ML) and AI services with Netcracker’s Advanced Analytics to add intelligent contextual decisioning and recommendations to enable more personalized customer"
+    publishedDateTime: 2020-05-14T09:16:00Z
+    webUrl: "https://www.totaltele.com/505911/Netcracker-Offers-AI-Driven-Digital-BSSOSS-to-Microsoft-Azure"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 97
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/DjEsP5aRA3jcWVJjU6gtzH-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Carahsoft Brings Microsoft Azure to Its Public Sector Customers and Partners"
-    excerpt: "Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®, today announced that Microsoft Azure services"
-    publishedDateTime: 2020-08-27T16:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/08/g17272823/carahsoft-brings-microsoft-azure-to-its-public-sector-customers-and-partners"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17272823"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17272823"
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 17
+  - title: "FedEx, Microsoft to collaborate on commerce"
+    excerpt: "Fedex (NYSE:FDX) and Microsoft (NASDAQ:MSFT) sign new multiyear collaboration, bringing MSFT's intelligent cloud to the logistics network.Shares of FDX are up 4% premarket, MSFT is up 1.5%.FedEx Surro"
+    publishedDateTime: 2020-05-18T13:19:00Z
+    webUrl: "https://seekingalpha.com/news/3575525-fedex-microsoft-to-collaborate-on-commerce"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 34
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 2
 
-secured: "DV/qz4RuBe6qrAIXZtEXXIkxjvc3I/+pB0SMKEuqxWhp2ni7UhGGqNr6LJV+0gOPKqqgGgrs6+yIewYGnjlB1vDMZO5y7dupEpuM32pdqOLz5ekTc0PVtxSM5pO5dS8OLGA3Pu7FNtQl45zr+JEWxp0tNzKQw6M1PIQzV42fsc+3DtcuWqXko9ukoxxY2sp1/Vb83TnDqsa7CnRTt3uyPI2+C7hfqZuf1KiqlRfGxnhPP47C3L0Hag3MCrtNmOdK/cQAO9QoUgepeZ2kEzy3SfxNf2n/DE/grdAycUnluI7xpYl/i1eE1Jyx+gk/A44CTKUM1QNKLz1uiaND8aGLFGVg3VAUvzkCqHJUGvosDow=;l0qkivE0ZuVH3AdX3UKGHQ=="
+secured: "VpVreBuijs/liijmnJ6/bPzWRHu37m18YA9MONXTH94A9EaQUGHF/8g9bvreLYGZo2nkg4pBHRZBBS0LsanHLD5qdqe9G6Cl/qyLK3wY1D2eSsbHHXf9JEcT+y0NgyFRR37jYcJZsP0U38S22qWd2uLB5bd+f5LBGAv46GFPfhLzsX+BqDpjDWkz0P/eoEBNaJPpUXOJMXfefRlcF0nVzgddkuwnV6qHDTvzqWEHvVs1XRDujzAvvadoJBZ6vzEexMGGoBVxvzrroGBWlN/C49GyoRitnFy+zTH+JQ1rpuTivyK2XdO6TcZCaqu11h93x+/qY/BZdUZLxlRgNE8XzQIjCnAVoPAVlNEmZAJ8bQo=;WjY9F8EG1/W0NChZHqR4/w=="
 ---
 

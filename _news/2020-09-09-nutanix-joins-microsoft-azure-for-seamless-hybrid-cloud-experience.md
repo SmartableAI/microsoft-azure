@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Nutanix joins Microsoft Azure for seamless Hybrid Cloud experience"
-excerpt: "Enterprise Cloud computing firm Nutanix on Tuesday announced a partnership with Microsoft to deliver a Hybrid Cloud solution with seamless application, data and license mobility."
-publishedDateTime: 2020-09-08T17:53:00Z
-originalUrl: "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
-webUrl: "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
-ampWebUrl: "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
+excerpt: "Enterprise Cloud computing firm Nutanix on Tuesday announced a partnership with Microsoft to deliver a Hybrid Cloud solution with seamless application, data and license mobility. As part of the ..."
+publishedDateTime: 2020-09-08T23:55:00Z
+originalUrl: "https://news.webindia123.com/news/articles/Science/20200909/3623233.html"
+webUrl: "https://news.webindia123.com/news/articles/Science/20200909/3623233.html"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Azure
@@ -35,16 +33,16 @@ related:
         height: 630
         isCached: true
   - title: "Platform.sh announces expansion of services to Microsoft Azure West US 2 Datacenter Region"
-    excerpt: "PRNewswire/ -- Platform.sh, an end-to-end web platform for agile teams, is pleased to announce the expansion of its services to the West US 2"
+    excerpt: "Expansion to Azure West US 2 datacenter will help global website fleet customers put their sites closer to their audiences. It will also enable Platform.sh university and enterprise customers throughout the west to deliver the best experience possible to their users."
     publishedDateTime: 2020-09-08T16:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/platformsh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region-301125659.html"
+    webUrl: "https://www.finanzen.net/nachricht/aktien/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region-9274554"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Finanzen
+      domain: finanzen.net
     quality: 27
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
         width: 600
         height: 315
         isCached: true
@@ -86,6 +84,6 @@ related:
       domain: insidehpc.com
     quality: 17
 
-secured: "xZWoUgdVewOGsiUdCgBDcBF8XV6iEt7oZwBJwt+I1kOfhkr2nfSFZrDrUNgLZ+eQbU2tuvK+86tt6H/XMFpC4EpVMcmenbSsbXiF2h0LYEAycXT555g/RjPzER7XEy+eKALlP2H+87+b2r2olejQJ6hDMgSCNJm0P33Zl0EZoF0isY9wWw6w3QMlDdBrhVhrZjsbf93SaszN95lbor2l3BIuUtVv12tW/q68sxT2IMj5NO4vblCczP8/BhD0GiTt4X2C9tF001DVyr1UhSWcvAY+mi8powiMplphT2Ug2PLw3+MvnwqpyL7sA3tOQp+30USIpKTXYIPuz4HGBWLzUsnnnNBf5sTkVDbNWyn2Vjo=;+Z9pLwzA1Bsz9G1Q8uy/Ow=="
+secured: "O384QuPt0x2k+2LjTOhwRZPCx5Q95J3oCtL74fKKUg/rC3TDnlm7Iai4wQyBG7kqCODm5a0ViUHPwiZigp3+zqWunrKuYuz8aaTXWNLvhQ0Rcay8nZmSNToBKfL0AL7ELtXyIL/et3d22uQurcuIhExuOFz51n1G/SaIRsova4beuxF0TKYkXH3aIxm+z2SxWXRbm/DdHKq1c0L91APtCaWaqy4+U+hJuwXC6fmYvmnhKlRv51QNNlxz8WXYlI3a3o91lUw18gy0HTDcXl/GhP6Yb11lCHeqY1bw7mBKAKwxCdBCWvt3mTIxahKUe78zb8tnP4g8O8wC6vISBrtudNWZFHL8A/9A9bNrYOMv7Tg=;pg/iaagi5M2XKpnn++QCAg=="
 ---
 

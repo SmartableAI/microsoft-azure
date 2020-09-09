@@ -1,24 +1,24 @@
 ---
 category: news
 title: "Platform.sh announces expansion of services to Microsoft Azure West US 2 Datacenter Region"
-excerpt: "PRNewswire/ -- Platform.sh, an end-to-end web platform for agile teams, is pleased to announce the expansion of its services to the West US 2"
+excerpt: "Expansion to Azure West US 2 datacenter will help global website fleet customers put their sites closer to their audiences. It will also enable Platform.sh university and enterprise customers throughout the west to deliver the best experience possible to their users."
 publishedDateTime: 2020-09-08T16:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/platformsh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region-301125659.html"
-webUrl: "https://www.prnewswire.com/news-releases/platformsh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region-301125659.html"
+originalUrl: "https://www.finanzen.net/nachricht/aktien/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region-9274554"
+webUrl: "https://www.finanzen.net/nachricht/aktien/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region-9274554"
 type: article
 quality: 27
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Finanzen
+  domain: finanzen.net
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
     width: 600
     height: 315
     isCached: true
@@ -38,17 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Nutanix joins Microsoft Azure for seamless Hybrid Cloud experience"
-    excerpt: "Enterprise Cloud computing firm Nutanix on Tuesday announced a partnership with Microsoft to deliver a Hybrid Cloud solution with seamless application, data and license mobility."
-    publishedDateTime: 2020-09-08T17:53:00Z
-    webUrl: "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
-    ampWebUrl: "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 37
   - title: "DH2i Announces Support for Microsoft Azure Shared Disks and New Azure Disk Storage Enhancements"
     excerpt: "DH2i®, the leading provider of multi-platform Software Defined Perimeter (SDP) and Smart Availability(TM) software, today announced DxEnterprise(TM) support for the recently announced"
     publishedDateTime: 2020-09-01T14:37:00Z
@@ -77,6 +66,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nutanix joins Microsoft Azure for seamless Hybrid Cloud experience"
+    excerpt: "Enterprise Cloud computing firm Nutanix on Tuesday announced a partnership with Microsoft to deliver a Hybrid Cloud solution with seamless application, data and license mobility. As part of the ..."
+    publishedDateTime: 2020-09-08T23:55:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20200909/3623233.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 17
   - title: "Nutanix Partners with Microsoft Azure for a Seamless Hybrid Experience"
     excerpt: "SAN JOSE –– Nutanix (NASDAQ: NTNX), a leader in enterprise cloud computing, today announced a new partnership with Microsoft that will enable both companies to deliver a hybrid solution with seamless application,"
     publishedDateTime: 2020-09-08T20:39:00Z
@@ -87,6 +85,6 @@ related:
       domain: insidehpc.com
     quality: 17
 
-secured: "vTRMH+tCJUhsWpCKSVo4iFTwFwb9T6K8cWRlvYaZbqqtSsAYPZ/7Ko5Q7mnt1b2udXb8N3SB+zWv5qDqwjDMldRytxuqNLRvWYv+bOg1PIbOWfCytQg3gzn54392jTTABd/ZhFyM5MMjRg22ANT8BdLJ22OA+xAQBXpNhLg32j6totnUMroUotOKceyJXtz+4iNdh66v6rBlGXdefL759xTUBRgVtkLbkAZKDoopAfw+mw801wyX+7bm2EqocrP+SDoknNTyXQmhCP3rNTZlMlRvc95pdEzBSvah148AJMNNZegtX5H+wYvZrV2BYXjzudRNO3JrlHsEeJXrW7jTTly0nVttJb2p0AYGJltDZd4=;DLuJLYRlRv3O8Q1YurDHcw=="
+secured: "+pszbt5xfLPRfcVTopuFgYE5SaDf1DvJDnd66ogCV1J1wWy4S/XpXViqxWUUm1AIBJjLODq9S+Q5B312pioF8j1YZY1WByh0esW6YuAED1UdmCtWoeHuAwkKPSe8UHR9bD8VaV9cLQh/B6QEM0hlI9oLUUllIH5WDsBLjW3cwOeHokZMnh2Bccvy8rrSK6lJQ1Xnva1hNIjMLkq+2m0yqyh+roCAkr8g1JtWoxlnSF8VJgZL45lpcwnaEAS+iH/LJHBCXy18wGM9tXzZ4bpYqx73xQBA+TxiPDX/NSyXAYlImfg3ulAr4xwY+Pj1W2B53ujYm0QB5yvxWWUiQ7zJEApS9wtnxpCwgo57nkC74YY=;vfWAoTihXmmVmQoWKtZXCw=="
 ---
 
