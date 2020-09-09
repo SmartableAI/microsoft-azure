@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT53M
 ratings:
-  count: 330
-  average: 4.4939394
-heat: 54
+  count: 331
+  average: 4.486405
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Describe Azure Databricks"
 
-secured: "1ljhhdnnGrSQnIw7YXx0yCuHE35MzuJUdIDGh+K0JZIkCi08TIurwkGZRn6y0htJxnGBo6BxdXRSljQ5Xn4PUz1pzY1vykwU/K56BT34oMbiw0cxYhCZfFU4ZXpaOUN8TXN/1KTvLsrhH/kiCs0DC6/ni4G4/0bDTb1tIv37mACTZ3pzKDyhb6cCjHCfFXeCGuIoG4Kdfo520oa4FoRPyTQdnEcUUdoL+niIjUAmfNa7s59XozWEJCuEieE93Xs9Ole7sUp0sRzf9xWQx6Lw1eY+ABZ/eCX63qkhfK2EmtRajXLTrx70zcIoGmreI/lY17nTip5mpWQHtcTa743pOfRsPb5ILlA366YnFt5KJfhBxiExJJIxsyWMDC+18Xx3isZcSWvbg+/dgbSgdbhFL8KhAnoGwX96lUyN+1UnqNQ=;cXjZZwLSDjCBAvti0Im4UA=="
+secured: "eGSwVHbbdCkLYY8obckgbT1mY1gUe3N9E2w95MQFIQyadTyvbyPwyZgvXp/Vr2vNcMePWSZEf2TPjF8Mv4GXbqKKN2uFdsmYklQMe481sbLbhCUVnoAfOdP2FrMp+5X3m+bD7xwuX8QcognZXWXIkEciSn10ghvKsHFSR/vHCpttPTbGnf5sVdv7WIN++nRQzov+9GIMFdia/QP9yNkJHpA90A4zXD9TtFU2QzMabvxvqC0K9iDVKTUeHFuOeC4MDReHX/DgIzKvw9nu7nMuLR43ABSutE+966ppPwBC1k/Xc67uRL1o8wWzcjiw33ARxpnNQD0Fv0E+TBqHITYFEeGzSo00WxIC4l/bnMt7E4tnlalBE0RgY/19UhJ2CzaKRUtKWiyOhr8MlMh8dh5yhctTZGTAHW/x43YB701sjjo=;E5h/LrJgIy2ZKIhXh0NjNA=="
 ---
 

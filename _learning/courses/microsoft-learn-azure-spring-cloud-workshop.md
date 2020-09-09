@@ -8,7 +8,7 @@ length: 84 mins
 ratings:
   count: 114
   average: 4.2982454
-heat: 52
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Azure Spring Cloud workshop"
 
-secured: "igWpV2tXbDAlIh4qOJbeFp6kWqn/iRxjYzUwIcLf0J599hIOD0kkrgqCd6JN9b/ZJAHHDLSPtny6oWDDcE+P0Jyir51t1+EDhj5K/EhwloTD8F+JqbzvhlUoFo5tUuftGYqhv/LBKZ8tj3daR6tlofB5IwYftPsGnFKRqPvWTtZxr93bozLh5dDHxxSQLCBQ8cNThtqO12sij5EErs0NeoSk3LJzyesPb7eBwg+2nMXKK8MZhgjd1BTJAQXl0YpylBEJwvnAS2xqwhGppEhXSRt1mQBejcxExN2kLL99trawbSrcl9v/g/eM1Cu997dc3kWGQyQXfwjPe4+zVObo0gpJNl8+gql/NWoc26Xl3OCJ5Cb89NHaB7ajvrO8qzqFLI638EaWciTce5D26sVVXce2SP93c0Xzf8CFGswALH0=;v9V9ZMb/VDILB1rLYull/g=="
+secured: "MId+PBhBPZ0kvn/41/I3qaELDDrjooo0qaNIhw5tlTxC/dnF1+Q1l3V3b8W5v27Az7ZG6saTg7Ja8mfMuzAD0AEaCm1DRkS3RYbJ1te0mBmx5XnltDR4TsBnnic+XKDN/cesv4d0WahwFxW2J5q4S2oCqs8FuDGq/jYaZFS46vcj6RR4aUcy+K2lHD+vEr2MpMSf+rMeBJewce+qj2vN1wtwqACBqTa48Sg0iaetVM5xiA2t59pJR35w1lR7959c1oOw8+9aqjXrqGuXBM036L45zqHw4wAvaF9Z/7mWf8+nyvUBJ+GP6elg+kn/8Zb3+fxqmCnp+ZSwKZC7YPIIvDJObTMenvqaDJqyIWtWEQjJsgr5y8/zAPOG/J2bi8yOZuCbj0hIiQMn4IkZGmPQFthXz4KjhFn5A5dbQHliBuw=;OY25vByZHDmuJVcgiRcwBg=="
 ---
 

@@ -8,7 +8,7 @@ length: 45 mins
 ratings:
   count: 475
   average: 4.6526318
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -35,6 +35,6 @@ images:
     isCached: true
     title: "Create and deploy Logic Apps using Azure Resource Manager templates"
 
-secured: "cdK04nMBaDgDYDrqxlK8kpUdXaaOzZTph9kCwS/iKq7zOG4ZwmdFxziX3u5iqAH9QdxSGhEje16p8EMj8eKZS8oq6aLdpKQMel0L1TJx6vQC+1TkgK/xWtlywME42aF4P6hsDYpjVnkGIJtjs1lE1qkj7qS4R2YybSsdRigUzsN+WgdiO+wfTYJKS200Dnn5agoWOoum9w1BLleSigH3ik2ZmJXnZr0PJfpSGLs5ArOXFsr6VUGQLncK77r+pHUKRAmDjG1K8CnFkMbtPw2P27wH2aaiibx7VB8YnT+hWyBIGFQUOYmCO1zk0Ihd7I0T8mtLB189iWh7qBFHsdtMukbOSLnZExZrlByNDXO6Br8qTwJ0Mx3iqDPw3I5+EVgHxoeg6rwn2kazAAr4b52AnHIcLAtdVt0u/MMM2TvjgUQ=;ooOKNQ5wt4bP3vF+aEU5UA=="
+secured: "ntVdWWcxO1c0YzIBPy10WZK9T9CFFJbl5ayMUTnnOry1mxM0whevU2R1KLQMcKBW5Cy3BSYOQBZ04Bi9vtDRxIpbCfVWv/p8GMakx7a/giezfGdianujCH8r4G8Y+AbjSoLDJyEeg/Mrl+E5mhrCOVp+grcJzW6WFgxhcvrJZTYnuHfKTju/Zeu7/guK19a54+h2cFA2u3132idBolYWwoDdkdpAIuEO/TPX7LxQAAQ0CV8fYCbKsAKhd/Gz8cLg0CCe+2lRD5XAjxcnJIXhqOF/5JAe7fP/1viL/t5SZXDpRGciFXmU/P40CbKXzeiqOFyISqi/xVkLxRHdBFVwvNymPHpC2yvG358soG2HWaknaXdGIBjdhdO6hYeyGtA1TlzwbiqJ6ITUNupovTj9wJnlUoNanQqQmunW1qYv0lU=;cHnC+4LNq6AcP/VYo32mEA=="
 ---
 

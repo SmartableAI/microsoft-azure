@@ -8,7 +8,7 @@ length: PT46M
 ratings:
   count: 57
   average: 4.2982454
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Perform advanced streaming data transformations with Apache Spark and Kafka in Azure HDInsight"
 
-secured: "ZcxMv+7Orbqtr0N6bjHrXAw1sLmWYmdzzIwtalfhDK90QYYqI9Op0E7FmOh7JxdF4MMOjYtbD79ioYj6PHOSL8x/MD3wk8YrCCruBBQBHd+qQKprNLhj/1TkUzWk12Pb7G2ib9AMPz7NVM2MYLy3m7ELFCx+fgtocojttSppNhg+rLtnuyyh4R+A/9M3B/Koocs+B0x7nXKdOb8opGkNxFBAvqK5hhntK9T4xNqoltiPz8ynKLXE++X9rKUXXRMUMRKMOPVcgF7Nns5MbUaM2XAullHvUUIPgo9z6tRacgQKH36TePp/pLZJ30x+oK3Ea7/cX9fnyKAAS4wDhoq5zv6doP85zAlJTq7Jp1KAE2nwaoJBNddl5484/pev0+EPIlMsYR8BvFBGwjAkcDdv4G413PpRfsL1ggZf/PEdFyg=;CE3OkaSYEvYOy29pAAmQjQ=="
+secured: "hugH7QOs7sNWrKLeBCRPWzcQxUe0W+d60+4G8B7PV0e3OlG5plwpJbHYlPqMAo5VE167RBT7pv6tqf2c8moPwBPgon0hZXsCed7MpSitTl4FajXOBVK3GPb2adHgUK/HNT1AYwo8uvHVms3SGaKUWbu2B964zfDaA5YWtB9/nzxh0sQTdK9jHPo++JNjY5+F5mPLWHR9YoBjAAxN1B2RYgsijt+90KoPIGY1KiAdez8AQiWFP7tPHMU8mAon3OwtdOGoJbeWixrup8+Nmdus2W6IKKcr9yn7l4jrFEGiLI0H3fYQQZ+NYXzWw93UfKJPoZ2kT/zM141Cr8KX/VZPLyJkk5TUT7b+C6mEBkeAnHpP+dghZEiitLu3JF76FUm2A/k9uoa+dlV4vS5H96RbmmP2m0n1VHcRNSG/fbVyI1s=;pImTacZH2bbq80QUD3vxgQ=="
 ---
 

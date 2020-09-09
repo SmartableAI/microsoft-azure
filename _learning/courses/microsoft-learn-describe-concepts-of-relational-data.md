@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT24M
 ratings:
-  count: 403
-  average: 4.796526
+  count: 404
+  average: 4.7970295
 heat: 58
 
 provider:
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Describe concepts of relational data"
 
-secured: "2vOU+5f/vjytUKkXkwI8RL5/aW03m0zgXDFG/tYe7kmGcl84OoXzTrTe7IJn5dzZ5j20hFoiIKbYiBSQY8Idr+mHxMvx8t41n0v3u3bY+6UNG6rt2Davi7utHhKid2t00Kid4d7M0uLZhA9WIsFay2CpwMKAK1sSX8kas0in+CchpeRTpUYIVf5u5Xfw/5vXlHX+KQIxKxpg6rjdLeHDoppXa60Gn8h81BrPJgyY0tQBFsz8XmqkVeeICldraOQwZ6SckMCNO/Hhx/nZjsm9MxgBx73OluCy85y6QUmMKDz248fLC9q//3K0zRSj6187qaX8qfDhQPemdjpY7YY6Ww/sOVyeQQmyLzuIy60NDLHqYR+pCttEMeOhtR2M/mj4S8BP36eNpHdyM2ztA2w/Z26Dv9b8ho8L5XQPeqJq4Os=;THqSw1JVKm6P1z8q3uHJUQ=="
+secured: "AScw0BCb0kY+qdsD117LcMyP/AfwAbpcXwd7ejehJicbLWtPWI+PozRFSC7IL+kz7/LAVMd7gG1lMBUoPQCmRbpH0SS3qE7sR3aSLMIPS16VG9ORzIcOYYLA0fnb6vULH2gRr4IwMWtiTHu+DDREqLar3zW6wgwng31Jir2k2VzYs9F49Nb5LLiNKmw5hFBaJdYG0YjhZGYxmvCGjeM7sDkeg1z3AUL0MB3Iahqf56z/3dRnITOrFCzYqVy+5GmdzRcOvyuSFMPpOjsojPneUp+4ONplOK+4Y6c78b1U2zVAqFdJH/aMK8WcambcpPbHWDuUN3O0//hDAe9rXE34R1//B1Vwnk5WoWweDfhWZCyF7TLdeaPfyC6dZ8i4dFDQhzTdlkI6WOvsqziM4wtAsm9d1R0QCBo7S8QQaGahVZw=;hNddHPH2MxW+A9BhblceGw=="
 ---
 

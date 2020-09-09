@@ -8,7 +8,7 @@ length: 34 mins
 ratings:
   count: 1788
   average: 4.623602
-heat: 53
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Analyze your Azure infrastructure by using Azure Monitor logs"
 
-secured: "W7A9BK263l2OsBuQp4hXLSojX1tOq07i3hujCa0uyXWdKxIiUql3AB603TG+pv4cTWKSJiUzgp83AOmOfa1DbLvJgy3pKTK2ivp6oiT4HOBppWQ0aGEqYriRK+JF16O7otHEvAhkJRxpX5XVLWM6leZRI0vN5fqmaYHTDsD8C9Z8lalfNburkRcs11IS0cKNcmSuEzg34732Ysdm4m+2Cr/A9EECaHvdFKvGiaukDvAKUxxazEKvxelCwK0Vqm3rxABqAOCZlpfeYZzx7Ddr+1fTEB5LWnPDcqwueRbPFGraBkSPvrMItm0cRIgMllp5S1x4NgkI4WGuXHTv/AFJscHysF4LTO9NsL/oYWbcT4DbnLK1gJzxnNKDwzaRWSkjqs3lWfAFIFYLJhTIqAiRK0OylgKdm+/6wbAzwYW++rY=;wuqpebHQMyN5T8fcWd4ZxQ=="
+secured: "wiy0cQkaatQoIKLQxKPukAMQcXNXzn6grDsq9Z9I9QMqAkUr/LXnekqNMX/BC5oxd+gZi34adtyE/U7VaJL2WxvY4PlTwceF5NPnq1Fzo0nVA16+fZBxf3C10PAfJUZn92Zp1tHF0QGEXz2mGhCsW5v2h686sApk5rm6TGzbiLNjy4gyls2nbgXkSRBR6iJO6EqfOVDTzfpcJJc+vSyvI9LshJ1dpnDUkf1z4jIcCKiWy7bAFO1v7OnXbTkku2vm85RDMZ0qxzGYZWau8G3yWdm6nT5jQl2JIjR+MWLJaG8yhJpbH7SqZndTM2/DV47CIm81PVa4gicgTiLapVUP7UzyqEQhBDEHBALqE5k9YrtUPhcmsmBGY/aLzHRhpYyQKeWUEwTId7ethlz89KcMJ2Bzq/0r9TxN1GNoSFMdSFo=;qKJ47eTH0+/DJuabOLwbUw=="
 ---
 

@@ -8,7 +8,7 @@ length: PT1H44M
 ratings:
   count: 58
   average: 4.827586
-heat: 50
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Manage software delivery by using a release based workflow on GitHub"
 
-secured: "QowRglAICqva38moCA0HyZdiJ+QMJJR6FB/0ltAymoWJf3xMOr2tv6x+9ta5HFXVzxiJ8jabSmCUzPV7OgSsCne6/BRqt7MyQWLXtLTkOYR1bo4VJ7ZmCgKMAUxsa0Gntr5s9HKfCt2qr5MMX5vQGOj8V8UPR2msi/s10RK7JpgqF/jcnwk4LFZX7ygnU4cr6DLJblQd+mTZT/vOS7U03FS+vx7zgJPBwOKZkLiYIWz7I4WM/4fpiy1X/AQh3rNNZXlOb8oxdbi50Y9Y6hNote5tPSjgZ2fZ2Hm7XUcdF68SqnZfVTvcxTAqnwYPt+LtFhxZpOLYRvVxNjGrJwm5zhUAiOuO6VbVhtxx80RReGsDgeyBCrzijUPwyHttDrL3vs7gSvkH939lpWnwyzOVVolv4Tzb6b2iHwAs/PU557w=;ncTyUTRh9eVZ+EmZI3Cqhw=="
+secured: "zyF6VMxYBjUwZyo1hM8295OI2nwcrWtkYAe3L+aheL4o2U4XVzWZoMGCoK3CetyfjCIhzJ/a2Dyb5jIyamoPAcii9uZoYIgpLqI1IgHRLL9+bvDH3makkuQbiXg8aOhb5y5of/B0gRXhkSjUyeiYnZQepaZH2Q9M7yXLJNTJKaZRWuIRZmfwQIyOOfaC2OJbX/1LwpT0RbhalBp9cK5EpYs+2YaUA6zF0l7CcZLmPasmpQZIR05LlxuPX9BP5nm7MJz+J3KmlMSwT37k37vWCi9xdGn7gx/cMjifPNQ7gCCDy6Ylcug/aSQoQb4Epnu+iUZvzKEqssJay7rAQDbY8SIzIji1MrDoLTnMYpqWQJ6w8Q+jnDHVYnhwwFriurhjh6q1HAviXtD6yhPWbYaPeYSCgYELIC8T8t8hD5T2VYw=;rSwK7UDx+HIZkbRW3nRO7w=="
 ---
 

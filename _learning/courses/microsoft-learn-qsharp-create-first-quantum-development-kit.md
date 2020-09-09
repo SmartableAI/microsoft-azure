@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Create your first Q# program by using the Quantum Development Kit"
 
-secured: "6wptvBjf/oIFCMRAh22YlZXiY/IPC0y+gPlWDz+ql5x9OVjWQ6KhZBv2oiPRXEBXSMDSp66g5m9frfsOsKVVrbgNSx2+Exn6ut91Of/yDydQpZ11+bNDYuKo/ANhs6vUA6CnJSyWn7Q3+2mxPm7noLFi3vk0qDl1HSr/IH7U8cMBZGW3agYmf1vUJFQrtZ9PCha0vAQGQrdxL5MbmMovZQYPUnyOHsEuYl2a/q2G3TUN9aQ8j1yCzaYZmUQNBAokVFmZTCYRsLlUsg4ySsdJ8QOKA9Fe/pp+maPXdeJLZgG/m6G7HkmOvDJJRN/Vq/HqvC+GhdYtCmxWDZ0EXpEePO/je6f5z2GOxY402yx9diOIVGSI4pHAxyMpRDZ0H8cpcVLDI5+GLqEUnEdCuA0INKiFpI39gGooxpVw8HOrkbY=;5KLWzNSWQVSgCKiMOL/smA=="
+secured: "dnLAPqsgmPjpxBQx6PnCHZhAHMFbwHYcp+J76nHv4NwKX+gw+TidK4/q8Lx+nhgH671t1+d2od9FbZB2feFxyt61vayF+7htGCpi7aPDySju+6NMwbuntrsrd2r4ZxZmmJCAnzIJ92TwAaYCrKimFS2pu6RRJUsFn//Yot1RLhbI2pBJpQMF73D8YHIwlI+CCbBGWzwCWAxRv9KaG4eXbloDI/Szcv+Rut7uLsOdxxVSoaYBEkJj7X8i0Q5L76jTLflswfrBdjFaFX87dlAmWkJ8Av4I1CV8yAV+O7ayDSoM8y/5m4x4nCwF8mFy48TUnub0SwNEx6iv8f/GZAr/eQgUlsirXPOyUbs4e6rPPZWs7dUupp9iQ5/fFa2zO+ZVdpLyrikjIDNHSFerdpbr5GxCtXIvFyiV7c8yGTAS32M=;PtrXBOesPGVBoyA09X2W3Q=="
 ---
 

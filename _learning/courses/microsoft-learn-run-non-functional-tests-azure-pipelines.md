@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 49 mins
 ratings:
-  count: 605
-  average: 4.692562
+  count: 606
+  average: 4.6930695
 heat: 52
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Run nonfunctional tests in Azure Pipelines"
 
-secured: "yjP3AMv2Gkekk2DMpU3AF4L24y+fc/XF/04KoTTLQVYjSfitrtvbsaVtVAXi4HnS5t5II3SOxoULjxVPxLb5XjP1U68qctb40XE6o0WfDxTbb5/dVET0eLWapkdzIJ/oGbIMfV9MuHMRC6Q/tN77LuWfJEhAmvWpOaXcJe6zrMcTvXE+nsxV+gsyThcXxgGWj7ZU9UFbba0OIXAo/wwu+m0MlKfsA8+TViNxB3iBmBR+QyU4U3e93Sep9Vc1o14VYD3EzNl3qNr5RU91tCIQNjJjhloco1EIFp8HNb2AnOlUZDZ51iyPAVqRERqJ6H0jF4zVAe8ynMwk2Hwla9xyPko/Rd5I7LhB19PulMzOFFnx9jX4cXfhmJ306XRHBZiRookw77ZNwb51XCxtKX7sjAcSbta6+JjpMLFs78UH37Q=;aZgPyiO11cptTGdOB6CKCQ=="
+secured: "Aqwj5dF51rInKqnvaD4dEfbA8dNhZ0a9u3R2gVV/hpsVKCIzUiWAiGpvnW6DqFGd1xioMeU8hu8JGczCWFJnDBRNOFhLuYm2TqjHfCF0sxmyJdO7QUzbpVSv7lpXAsI3TGwfN07+/HLkUAedCayr6aqXco1fD2wnxOeNVEaPi9lnUQ2uqu8DaCwcv9baynuvwmnOAaRggWa17EhHdyPsmptGD3W6oTYthuOJahhj0x72qCxILv5F/f4dmyDMvTfHKo2gKw7N5VK++ZahNrj9gJPfvK26nSkD5alMnmjEvaqdx7uIbTx8e4VR3KeHTTz7aBWbPp8vUOS4WLT4ia6hsqPvVNPqx2t887yYi/OB11d/RpMDNZHbVTX3SqZBhi39w+EPDPt9T1eIfufW9lKjWvBOt2OQihgCxsAeqnJJZRg=;gEat+yXKz4U8o24CGtT7dA=="
 ---
 

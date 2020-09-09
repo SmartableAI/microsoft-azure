@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 35 mins
 ratings:
-  count: 103
-  average: 4.6893206
+  count: 104
+  average: 4.6826925
 heat: 50
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Prepare on-premises workloads for migration to Azure"
 
-secured: "HjArWkDooMeV7c3ib/dzkXoQIQcZj6g/0wIJYPudfwJ60kVEZLwMS6gKOyZm7VdeFzUQY/yzQ1VPQ4ca0FkNZ7BsCRUvFnZKetQZ9CS8mERw1UKNVHlRELuLDn9uQ0Mj5kxiX8I051mNRP09curt+pu7QqH4K8Wciij8DG2HY029YQmStrGJ9vs4lT/6yHWA1PyEGQ/9iI8l3bbiEo5XapFQYsqBs68HE4QE+3ree7PtNr62OaB5d2+0HqbmNqF1m4cPG6Mu+nUURFM3Lht2EXodrX54JJ7OtYKzHkr94op9F2pfK6bXSlyZEgR54WBznyfbPCxPZ68oaOtttoNGCXs5pRSKOT/A2TQdtouMUGA9UPh44zgfUhuABfHVA0mJ+70XGgpbIJdYz3kmOFwsXwu0X6+hXAW/keGYhfgd+3w=;IoMa0SbMeSLKJUvfpsc4AA=="
+secured: "22kXgnlKxaZKMMbryKIVJjHI+0ZVvWr83DNXQH4ngrvYq8msIWTZDZlypUXfjk3tZdfkO0U1gBG4qOju1JxNqcsO5Ojnw2zxNSSAWjslTPlLN94wZaZzrRZ2tmwXzCWHsdh20fxy4Umf8EJJyC/4GVhJ3nQfY9Zl1r/f0Wa6Qfv86Cfw8NTXExfBRZGtLEtTgaZnJoj5W0V/mQMJpy3Vkb4np+XmKjJr8GTdYmYm9XDMQq011cE4uUVVclW+eEP4oSqjHXpL98Qp5wD8a2hT3LUhbhN8Jk+nIWKZg/ip3/0WnLz+I2Wkw67yk+WXEUO+0qQl7uK40xFEJgLvfxyODvHIOcmMjM/ynJjA5tptVeKQyohHnw+JUg+mWVVU7URJrQP2SZ9qt8SIQ3nMOOP47GOd+aZ3TfhY1pLycVlpwlQ=;q+bWW2FANLvCgSweeRH8PA=="
 ---
 

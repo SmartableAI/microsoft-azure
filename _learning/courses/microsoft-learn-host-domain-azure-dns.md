@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 43 mins
 ratings:
-  count: 229
-  average: 4.689956
+  count: 230
+  average: 4.6869564
 heat: 52
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Host your domain on Azure DNS"
 
-secured: "lU0DLH/21MLcIgbexW+Pe8bZt+y16VQ7rlseMaquv59uQcLkjx9p0Rt+dz8avruq8coSxngBbSGiejUhfOreji8fdS5mjSSJrCG2NmejrdDcxBlr+BhTZvvIKWvrZ+vbsiCMyDHxWjz3lRVoZWu+xum+hXhKMyHTVel3ndRjfRdcoUbcwmdTSDHqq2u3QexqvVd6F59dZiRaCBzf4ftWuSRwv2h+VWSMJ/Lj4TJYmTX5bBDpkjRTO20vgKLAc8f3/v/UDUEPYSC8vB7spm7Mx4Nac2pga5/FzYc5CrgMCGSMDCB4NrbJjFHL2KDaXEywhgOIrDgT8LvC3EBFWoSQlhL084nLTsRPpJOlgGZUeU+cMEyrV4QBLUhWa9bF3KxQvDTjr/20bIjzF4OWHH1xwo9EzkOrXDFbF0J2Sbupb6Y=;/HUMWi65vZOtj+Zpu575Cw=="
+secured: "eBMCTdGfA9RRkTtnVUhICDZtsyleO/pu30sjhjcRMPsE8+nP0gZDQzpiwi/6Lf8nwQh7PNZr9bWZTz2UDyFnnLxkk9rEz7U/dTlmronQT/ThaIHKjUDVCcSXZHyp4DtNBiTD82znZU6Flfv86jiYQVF1frCf5aGXvde7kqdlnc2URWkK20Iy9QkN3pqTqfpolcC6jlIl1O+Vpdrfb1fiMVD0xRpUw6VrChs6PATE45d20SOuoF1JMDmXJhzXPqR2F+eZzsnmPqiGWcYA3Ojr3mNJz+o9tVInBvqw8EfbCNUgs82bIn5g+xVmdn+HZSqYEgVUsfnGkG7CMcdvXk9738FIALbOjtoSxG+J7lvyNx6DUf4ydU/ai6FsA8VxNMkUfK0rmqLG2PsV1GvABQ35RcopmemVnDGWYlYBIrb3Fng=;H8pcBo41fl0RqwM6ttZxyg=="
 ---
 
