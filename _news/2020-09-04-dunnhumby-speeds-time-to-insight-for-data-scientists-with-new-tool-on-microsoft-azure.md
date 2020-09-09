@@ -35,6 +35,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 70
+  - title: "Tamr Data Mastering Platform Now Available on Microsoft Azure"
+    excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced its cloud-native capabilities on Microsoft Azure."
+    publishedDateTime: 2020-09-09T14:17:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/tamr-data-mastering-platform-now-available-on-microsoft-azure-301126571.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "dunnhumby Speeds Time-to-Insight for Data Scientists with New Tool on Microsoft Azure"
     excerpt: "Microsoft Azure, enabling data scientists to deliver customer insights faster. dunnhumby Model Lab is designed to solve complex retail challenges, such as understanding customer churn and predicting propensity to purchase and in what channel,"
     publishedDateTime: 2020-09-02T15:43:00Z

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Azure Cache for Redis Visual Studio Code extension now in preview"
-excerpt: "You’ll be able to use Visual Studio Code to view, test, and debug your caches in one streamlined experience. This extension enhances ease of development by eliminating the need to manually track connection and access keys to connect to your caches."
-publishedDateTime: 2020-09-02T16:00:02Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-cache-for-redis-visual-studio-code-extension-now-in-preview/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-cache-for-redis-visual-studio-code-extension-now-in-preview/"
+excerpt: "You will be able to use Visual Studio Code to view, test, and debug your caches in one streamlined experience. This extension enhances ease of development by eliminating the need to manually track connection and access keys to connect to your caches."
+publishedDateTime: 2020-09-02T16:00:03Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-cache-for-redis-visual-studio-code-extension-now-in-preview-2/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-cache-for-redis-visual-studio-code-extension-now-in-preview-2/"
 type: article
 quality: 67
 heat: -1
@@ -78,6 +78,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "lkUTtRQ2j3xtFs+6jYAN7DMQBsx0gkgCFLPyPz8w367VF06mwLpAAlqNxcI6xSsNQ0Win+2t/1Wo3nw6Y6TwxT/fQx/K3LsM3EmHADEsoHv1d6W8ch9c8jBkeHYWkOHyYL9jghaRdUaCXXY2GU5HdbUJIW0lrU873g8LuEXBpiBSSEFulGyG3XzH8HJS09Xv7wxnE49IX1MeqwVwom36LB92YyIU0FVO2Vz9sIJIAExzlPC79ffoZdxRpda7UC5L/3lWrxfYL40zCtU1dy51j1ozX0Mgrh8svaaxdHMYtZ6oEeuXBtAqvSc+HEcGrxoVh0OwPTpMD+V0TVsUTElf0z1iOBlmQ20rZnaahmlzFVQ=;LcdC8NFINt0nyaBMV+upDg=="
+secured: "cNmSedJFn6wBXqb+usvgpU9jFZ9s0foSSg2GCTtB82k8FdB1RtmIHhtm/SKhh5bKW56YdrjZZA5QRdvtqc0xm3DMstlQVB3buAHubYqoVoeX3e0viOmCqK575ZFWu+VSNwByBHA9TgBnnHoDq33sRv9DTiUJLlMZ1KnjB8z/ZDhJhJnzFKUHLV5JEcBky3+wIxVvjflXO/i5St7DNxDYoc2RwGTemPMujwfXM2xDpb9Cd6Fr54McbKP2DBErIrL/dKV7dSFvyhu6NuXJxuNmjHj3wbynhdfMQPbydyVR17KBuACMjF83ALv2b2HrGlnESh2udD4VZddo22YgLJ+1scFXFNsJBGWYMUpsdO1R8+E=;jRZQkG2DkALE2VwM0a3utA=="
 ---
 

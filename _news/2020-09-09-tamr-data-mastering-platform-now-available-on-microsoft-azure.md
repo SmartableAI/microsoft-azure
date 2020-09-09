@@ -1,26 +1,26 @@
 ---
 category: news
-title: "dunnhumby Speeds Time-to-Insight for Data Scientists with New Tool on Microsoft Azure"
-excerpt: "Microsoft Azure, enabling data scientists to deliver customer insights faster. dunnhumby Model Lab is designed to solve complex retail challenges, such as understanding customer churn and predicting propensity to purchase and in what channel,"
-publishedDateTime: 2020-09-02T15:43:00Z
-originalUrl: "https://www.dbta.com/Editorial/News-Flashes/dunnhumby-Speeds-Time-to-Insight-for-Data-Scientists-with-New-Tool-on-Microsoft-Azure-142651.aspx"
-webUrl: "https://www.dbta.com/Editorial/News-Flashes/dunnhumby-Speeds-Time-to-Insight-for-Data-Scientists-with-New-Tool-on-Microsoft-Azure-142651.aspx"
+title: "Tamr Data Mastering Platform Now Available on Microsoft Azure"
+excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced its cloud-native capabilities on Microsoft Azure."
+publishedDateTime: 2020-09-09T14:17:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/tamr-data-mastering-platform-now-available-on-microsoft-azure-301126571.html"
+webUrl: "https://www.prnewswire.com/news-releases/tamr-data-mastering-platform-now-available-on-microsoft-azure-301126571.html"
 type: article
-quality: 30
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: dbta.com
-  domain: dbta.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.dbta.com/images/social-logo-2019.png"
-    width: 1200
-    height: 630
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -35,19 +35,19 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 70
-  - title: "Tamr Data Mastering Platform Now Available on Microsoft Azure"
-    excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced its cloud-native capabilities on Microsoft Azure."
-    publishedDateTime: 2020-09-09T14:17:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/tamr-data-mastering-platform-now-available-on-microsoft-azure-301126571.html"
+  - title: "dunnhumby Speeds Time-to-Insight for Data Scientists with New Tool on Microsoft Azure"
+    excerpt: "Microsoft Azure, enabling data scientists to deliver customer insights faster. dunnhumby Model Lab is designed to solve complex retail challenges, such as understanding customer churn and predicting propensity to purchase and in what channel,"
+    publishedDateTime: 2020-09-02T15:43:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/dunnhumby-Speeds-Time-to-Insight-for-Data-Scientists-with-New-Tool-on-Microsoft-Azure-142651.aspx"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
+      name: dbta.com
+      domain: dbta.com
+    quality: 30
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "dunnhumby Speeds Time-to-Insight for Data Scientists with New Tool on Microsoft Azure"
     excerpt: "Microsoft Azure, enabling data scientists to deliver customer insights faster. dunnhumby Model Lab is designed to solve complex retail challenges, such as understanding customer churn and predicting propensity to purchase and in what channel,"
@@ -64,6 +64,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Whp3IkbCEfgcENHvABeohqsh/+6LJpMkbc6NxW51DctSJE3T4H1+YLw/qdiWMykhmbFI9RaM3AVYyc+/p9lCxATmCn9m1pWwbgrdMo3UEcGjP/7Y/4SmMnJIz3IMVsvPFRtKKJ1BcLsQFjzI6X50VNt8c9Dwp0y7vE+OJHfnrvFBMI4t61B6ImsXsQmkeUawfE/67N3XcPfo3zLZP/7f7Q8n6bRu+DOkjNTm4eWt+0J3Q7BkVQe3ETMpNLMHiMuDUc6NTVFyyoTTa3nOGdW9QyVNV0bSXRl2u8uO6y0nS4ekrnLk42790rQE4AUN5IRV6nd8bqTgLAqkWsl+AZYaYe//n7pN7cxYfbRmWMu5Ux8=;HMbsflzKM8Yqh4rATocxOA=="
+secured: "e392FUNdKvWPWBjm7JAIlmW/cWCWqFc8g2ogn9klDj+l+Byemcmmye5FT/MSNmVzQrrNxV0KdY4mKbOczqOBhSPoyZXpHeKS8aIgpvifZTWSaUNQWjGGPL2N3+tv31f7VDcTfGFarbeNtQ3+vnALbdpPyCCWye851TuGFgZpJ/s1iy/auK4WiQPHOasgVDkHrq/r0Nt8mBy+68A85FdMk2cfOeK3mIuusvDvxYSw12L865joNvu8sGoKYtSiZ+7y5q9G8XQdwAyJ5tW9RXxzqnWNixhiNKFIAz3CVumzRS+PKYl8FSPRQSKuix39Qjcyfmd10Xf/bwxmmFcvN0u5Gn/K1T69Ca/jRxnaSAEMAko=;V9s8M5yE0paVVpoy55oyow=="
 ---
 
