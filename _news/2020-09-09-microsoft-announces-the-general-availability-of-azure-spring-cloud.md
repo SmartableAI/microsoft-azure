@@ -1,24 +1,27 @@
 ---
 category: news
-title: "Virtual Network NAT now generally available in Azure Government and Azure China"
-excerpt: ""
-publishedDateTime: 2020-05-07T21:00:13Z
-webUrl: "https://azure.microsoft.com/en-us/updates/virtualnetworknatgovchinaga/"
+title: "Microsoft Announces the General Availability of Azure Spring Cloud"
+excerpt: "Microsoft and VMWare both announced the general availability of Azure Spring Cloud, a fully-managed service for Spring Boot apps. The service allows enterprises to deploy JARs or code to it, and the service automates the process of wiring the apps to the Spring service runtime."
+publishedDateTime: 2020-09-09T11:11:00Z
+originalUrl: "https://www.infoq.com/news/2020/09/azure-spring-cloud-ga/"
+webUrl: "https://www.infoq.com/news/2020/09/azure-spring-cloud-ga/"
 type: article
-quality: 13
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: InfoQ
+  domain: infoq.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://res.infoq.com/news/2020/09/azure-spring-cloud-ga/en/headerimage/croppted-Azure+Spring+Cloud-1599509541685.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Announcing the general availability of Azure Spot Virtual Machines"
@@ -63,20 +66,6 @@ related:
         width: 1430
         height: 953
         isCached: true
-  - title: "Microsoft Announces the General Availability of Azure Spring Cloud"
-    excerpt: "Microsoft and VMWare both announced the general availability of Azure Spring Cloud, a fully-managed service for Spring Boot apps. The service allows enterprises to deploy JARs or code to it, and the service automates the process of wiring the apps to the Spring service runtime."
-    publishedDateTime: 2020-09-09T11:11:00Z
-    webUrl: "https://www.infoq.com/news/2020/09/azure-spring-cloud-ga/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 37
-    images:
-      - url: "https://res.infoq.com/news/2020/09/azure-spring-cloud-ga/en/headerimage/croppted-Azure+Spring+Cloud-1599509541685.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Finxact Announces General Availability of its Core-as-a-Service on Microsoft Azure"
     excerpt: "Finxact is responding to growing market demand from its regional and super regional clients and prospects to support Azure. Finxact chose Microsoft based on its unique strength in accelerating ..."
     publishedDateTime: 2020-05-13T12:33:00Z
@@ -105,6 +94,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Virtual Network NAT now generally available in Azure Government and Azure China"
+    excerpt: ""
+    publishedDateTime: 2020-05-07T21:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/virtualnetworknatgovchinaga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 13
   - title: "Microsoft Announces the General Availability of Windows Server Containers, and More for AKS"
     excerpt: "Microsoft launched a preview of Windows Server Containers in Azure Kubernetes Service (AKS). Now the company announced the general availability of Windows Server containers in AKS, including the support of private clusters and managed identities."
     publishedDateTime: 2020-05-05T11:23:00Z
@@ -129,6 +127,6 @@ related:
       domain: microsoft.com
     quality: 4
 
-secured: "48g9But8I2d8N+ngf+PpvTADML73juthZwbyIqXc1EjYajhsVcf9fRHYYr6d+P7yjpBAzC/Mel5uhPt92b77J235sS9k3/kLzbOEOMvIw/BtQtc1vdc15rjM9GzLB5bA94hUTKTZyejLQ8IPmGgDXiyYaY6VtYFXnltoOq9HcZgal44RWsMfqb6gDAnjXGcEPLU4V3oSHY1ZGpiSWGsrwSLoFDkuoB4mHCUrZGTlycPnYoH6MKoEfgEL+NzeKQFb9KitGsx2Vj5A6BTFUSJCqr4xQFRzClxxyS+AqZVajH0EOCemKF+nALngVMgR81cUpdV5U4QdUq1LPz26P0fx2g==;naYFFCKHhd+4cPZyH2tW6A=="
+secured: "XrQz16+sXABXEu2azIn1sabQk/zENJ13mogSWeP/IaRTKKd8jn/C49Tmr4/G+6hL+tNCLb7xMiamkxeHcyrnq7GrhKSLI9W7wBGIDdrqjt1ok/qmQzPzYHNjKIvhiP1c8Hgx0DBsdCpNOcTHAJ2SxYr6VHL6ORQgt73Fq17Nv5jCkos5kO6e7YbEXENF1kUj7lKF3eizpuM5Y6TI/2nAhHWAw/J349UziWKGv90OhdDrvtxM+KpyB4lla9P805FoQvUOFRrSmwaGOfWhgaeTAerUCAkzAthGsDZ53mVupWturorfDovBj2RZac2Ym+RvcuGQ7OO7UTU/LhvG2qAWbl7tQE23bvJpBqZmhJKQjgc=;+leHaGbHzYqV2I5k6HCUiw=="
 ---
 

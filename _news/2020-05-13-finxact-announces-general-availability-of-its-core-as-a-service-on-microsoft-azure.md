@@ -66,6 +66,20 @@ related:
         width: 1430
         height: 953
         isCached: true
+  - title: "Microsoft Announces the General Availability of Azure Spring Cloud"
+    excerpt: "Microsoft and VMWare both announced the general availability of Azure Spring Cloud, a fully-managed service for Spring Boot apps. The service allows enterprises to deploy JARs or code to it, and the service automates the process of wiring the apps to the Spring service runtime."
+    publishedDateTime: 2020-09-09T11:11:00Z
+    webUrl: "https://www.infoq.com/news/2020/09/azure-spring-cloud-ga/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 37
+    images:
+      - url: "https://res.infoq.com/news/2020/09/azure-spring-cloud-ga/en/headerimage/croppted-Azure+Spring+Cloud-1599509541685.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Qualys Delivers Vulnerability Management to Microsoft Azure Security Center for Virtual Machines and Containers"
     excerpt: "Now, Microsoft Azure developers and customers have real-time visibility to secure and remediate cloud workloads at a click of a button with built-in orchestration as well.\" \"Security is in the DNA ..."
     publishedDateTime: 2020-05-07T13:06:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/announcing-the-general-availabili
 webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-spot-virtual-machines/"
 type: article
 quality: 104
-heat: 244
+heat: 264
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8aaf8f84-054c-4681-82e8-58dd8d160940.png"
         width: 1430
         height: 953
+        isCached: true
+  - title: "Microsoft Announces the General Availability of Azure Spring Cloud"
+    excerpt: "Microsoft and VMWare both announced the general availability of Azure Spring Cloud, a fully-managed service for Spring Boot apps. The service allows enterprises to deploy JARs or code to it, and the service automates the process of wiring the apps to the Spring service runtime."
+    publishedDateTime: 2020-09-09T11:11:00Z
+    webUrl: "https://www.infoq.com/news/2020/09/azure-spring-cloud-ga/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 37
+    images:
+      - url: "https://res.infoq.com/news/2020/09/azure-spring-cloud-ga/en/headerimage/croppted-Azure+Spring+Cloud-1599509541685.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Finxact Announces General Availability of its Core-as-a-Service on Microsoft Azure"
     excerpt: "Finxact is responding to growing market demand from its regional and super regional clients and prospects to support Azure. Finxact chose Microsoft based on its unique strength in accelerating ..."
