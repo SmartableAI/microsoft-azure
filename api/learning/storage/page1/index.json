@@ -50,7 +50,7 @@
           "path": "",
           "title": "Create an Azure account",
           "excerpt": "The first step to using Azure is to sign up. You may sign up directly through Azure.com, with the help of a Microsoft representative, or through a partner. If you’re new to Azure, you may sign up for an Azure free account to start exploring with $200 USD free credit and free services.",
-          "heat": 152,
+          "heat": 170,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-azure-account-social.png",
@@ -107,7 +107,7 @@
         }
       ],
       "size": 12,
-      "heat": 182,
+      "heat": 204,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/principles-cloud-computing-social.png",
@@ -173,7 +173,7 @@
           "path": "",
           "title": "Create an Azure account",
           "excerpt": "The first step to using Azure is to sign up. You may sign up directly through Azure.com, with the help of a Microsoft representative, or through a partner. If you’re new to Azure, you may sign up for an Azure free account to start exploring with $200 USD free credit and free services.",
-          "heat": 152,
+          "heat": 170,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-azure-account-social.png",
@@ -230,7 +230,7 @@
         }
       ],
       "size": 12,
-      "heat": 182,
+      "heat": 204,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/principles-cloud-computing-social.png",
@@ -257,8 +257,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-data-in-azure/",
       "length": "25 mins",
       "ratings": {
-        "count": 53455,
-        "average": 4.73314
+        "count": 53460,
+        "average": 4.733165
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -931,7 +931,7 @@
           "path": "",
           "title": "Connect an app to Azure Storage",
           "excerpt": "Create a simple application and add configuration, client library references, and code to connect it to Azure Storage.",
-          "heat": 62,
+          "heat": 66,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/connect-an-app-to-azure-storage-social.png",
@@ -1057,7 +1057,7 @@
           "path": "",
           "title": "Connect an app to Azure Storage",
           "excerpt": "Create a simple application and add configuration, client library references, and code to connect it to Azure Storage.",
-          "heat": 62,
+          "heat": 66,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/connect-an-app-to-azure-storage-social.png",
@@ -1162,7 +1162,7 @@
           "path": "",
           "title": "Connect an app to Azure Storage",
           "excerpt": "Create a simple application and add configuration, client library references, and code to connect it to Azure Storage.",
-          "heat": 62,
+          "heat": 66,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/connect-an-app-to-azure-storage-social.png",
@@ -1288,7 +1288,7 @@
           "path": "",
           "title": "Connect an app to Azure Storage",
           "excerpt": "Create a simple application and add configuration, client library references, and code to connect it to Azure Storage.",
-          "heat": 62,
+          "heat": 66,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/connect-an-app-to-azure-storage-social.png",
@@ -2198,7 +2198,7 @@
           "path": "",
           "title": "Learn how to manage IoT devices as an IT admin",
           "excerpt": "This module is an introduction to the Internet of Things for IT admins.",
-          "heat": 50,
+          "heat": 54,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/manage-your-iot-devices-social.png",
@@ -2264,7 +2264,7 @@
           "path": "",
           "title": "Design a holistic monitoring strategy on Azure",
           "excerpt": "Use monitoring services on Azure to bring operational excellence to your applications and infrastructure.",
-          "heat": 54,
+          "heat": 55,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/design-monitoring-strategy-on-azure-social.png",
@@ -2648,7 +2648,7 @@
           "path": "",
           "title": "Design a holistic monitoring strategy on Azure",
           "excerpt": "Use monitoring services on Azure to bring operational excellence to your applications and infrastructure.",
-          "heat": 54,
+          "heat": 55,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/design-monitoring-strategy-on-azure-social.png",
@@ -2757,8 +2757,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
       "length": "30 mins",
       "ratings": {
-        "count": 5669,
-        "average": 4.7519846
+        "count": 5670,
+        "average": 4.752028
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2839,7 +2839,7 @@
           "path": "",
           "title": "Microsoft Azure Well-Architected Framework - Cost optimization",
           "excerpt": "Learn how to use the cost optimization pillar of the Microsoft Azure Well-Architected Framework to design a cloud-based architecture that is efficient, eliminates waste, and gives you full visibility into where your money is spent on cloud resources.",
-          "heat": 55,
+          "heat": 56,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-cost-optimization-social.png",
@@ -2904,7 +2904,7 @@
         }
       ],
       "size": 6,
-      "heat": 66,
+      "heat": 67,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-introduction-social.png",
@@ -2927,6 +2927,50 @@
         "Identity",
         "Compute",
         "Migration"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-connect-app-to-azure-storage.md",
+      "title": "Connect an app to Azure Storage",
+      "excerpt": "Create a simple application and add configuration, client library references, and code to connect it to Azure Storage.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-connect-app-to-azure-storage/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/",
+      "length": "75 mins",
+      "ratings": {
+        "count": 4631,
+        "average": 4.628374
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 66,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/connect-an-app-to-azure-storage-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Connect an app to Azure Storage",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Management Tools"
       ]
     },
     {
@@ -3224,50 +3268,6 @@
         "Migration",
         "Web",
         "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-connect-app-to-azure-storage.md",
-      "title": "Connect an app to Azure Storage",
-      "excerpt": "Create a simple application and add configuration, client library references, and code to connect it to Azure Storage.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-connect-app-to-azure-storage/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/",
-      "length": "75 mins",
-      "ratings": {
-        "count": 4630,
-        "average": 4.6285095
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/connect-an-app-to-azure-storage-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Connect an app to Azure Storage",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage",
-        "Management Tools"
       ]
     },
     {

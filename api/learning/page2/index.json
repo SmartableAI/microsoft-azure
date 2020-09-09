@@ -91,7 +91,7 @@
           "path": "",
           "title": "Build and run a web application with the MEAN stack on an Azure Linux virtual machine",
           "excerpt": "Learn how to set up a MEAN-based web application on a new Azure Linux virtual machine.",
-          "heat": 51,
+          "heat": 55,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/build-a-web-app-with-mean-on-a-linux-vm-social.png",
@@ -216,7 +216,7 @@
           "path": "",
           "title": "Build and run a web application with the MEAN stack on an Azure Linux virtual machine",
           "excerpt": "Learn how to set up a MEAN-based web application on a new Azure Linux virtual machine.",
-          "heat": 51,
+          "heat": 55,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/build-a-web-app-with-mean-on-a-linux-vm-social.png",
@@ -261,8 +261,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-python-nasa/",
       "length": "PT23M",
       "ratings": {
-        "count": 338,
-        "average": 4.754438
+        "count": 339,
+        "average": 4.7551622
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -346,8 +346,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-devops-continuous-planning-intergration/",
       "length": "22 mins",
       "ratings": {
-        "count": 766,
-        "average": 4.674935
+        "count": 769,
+        "average": 4.673602
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -470,7 +470,7 @@
           "path": "",
           "title": "Connect an app to Azure Storage",
           "excerpt": "Create a simple application and add configuration, client library references, and code to connect it to Azure Storage.",
-          "heat": 62,
+          "heat": 66,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/connect-an-app-to-azure-storage-social.png",
@@ -596,7 +596,7 @@
           "path": "",
           "title": "Connect an app to Azure Storage",
           "excerpt": "Create a simple application and add configuration, client library references, and code to connect it to Azure Storage.",
-          "heat": 62,
+          "heat": 66,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/connect-an-app-to-azure-storage-social.png",
@@ -701,7 +701,7 @@
           "path": "",
           "title": "Connect an app to Azure Storage",
           "excerpt": "Create a simple application and add configuration, client library references, and code to connect it to Azure Storage.",
-          "heat": 62,
+          "heat": 66,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/connect-an-app-to-azure-storage-social.png",
@@ -827,7 +827,7 @@
           "path": "",
           "title": "Connect an app to Azure Storage",
           "excerpt": "Create a simple application and add configuration, client library references, and code to connect it to Azure Storage.",
-          "heat": 62,
+          "heat": 66,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/connect-an-app-to-azure-storage-social.png",
@@ -1398,8 +1398,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
       "length": "44 mins",
       "ratings": {
-        "count": 9605,
-        "average": 4.567517
+        "count": 9606,
+        "average": 4.567562
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1730,7 +1730,7 @@
           "path": "",
           "title": "Create security baselines",
           "excerpt": "Create security baselines",
-          "heat": 55,
+          "heat": 60,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-security-baselines-social.png",
@@ -2064,8 +2064,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-vpn-gateway/",
       "length": "39 mins",
       "ratings": {
-        "count": 4402,
-        "average": 4.598819
+        "count": 4405,
+        "average": 4.598865
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2107,8 +2107,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explain-devops-continous-delivery-quality/",
       "length": "18 mins",
       "ratings": {
-        "count": 582,
-        "average": 4.683849
+        "count": 584,
+        "average": 4.6815066
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2318,8 +2318,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
       "length": "47 mins",
       "ratings": {
-        "count": 2468,
-        "average": 4.693679
+        "count": 2471,
+        "average": 4.694051
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2825,6 +2825,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-define-foundation-pillars.md",
+      "title": "Define the foundation pillars of DevOps: Architecture and Technology",
+      "excerpt": "There are three things required to make DevOps happen: the cultural component, tools and technology, and architecture. Discover the last two foundation pillars of DevOps, Architecture and Technology!",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-define-foundation-pillars/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/define-foundation-pillars/",
+      "length": "16 mins",
+      "ratings": {
+        "count": 575,
+        "average": 4.707826
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 75,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/define-foundation-pillars-devops-architecture-technology-social.png",
+          "width": 320,
+          "height": 160,
+          "title": "Define the foundation pillars of DevOps: Architecture and Technology",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-introduction-to-azure-iot.md",
       "title": "Introduction to Azure IoT",
       "excerpt": "Interested in building end to end IoT solutions or about Azure IoT, but aren't quite sure what it can do for you? This path is the place to start.",
@@ -2911,7 +2953,7 @@
           "path": "",
           "title": "Learn how to manage IoT devices as an IT admin",
           "excerpt": "This module is an introduction to the Internet of Things for IT admins.",
-          "heat": 50,
+          "heat": 54,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/manage-your-iot-devices-social.png",
@@ -2948,133 +2990,6 @@
         "Storage",
         "Databases",
         "Integration"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-az-104-deploy-and-manage-azure-compute-resources.md",
-      "title": "AZ-104: Deploy and manage Azure compute resources",
-      "excerpt": "Learn how to deploy and configure virtual machines, containers, and Web Apps in Azure. This learning path helps prepare you for Exam AZ-104: Microsoft Azure Administrator.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-104-deploy-and-manage-azure-compute-resources/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-104-deploy-and-manage-azure-compute-resources/",
-      "length": "PT11H15M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Create a Linux virtual machine in Azure",
-          "excerpt": "In this module, we discuss how to create a Linux virtual machine using the Azure portal.",
-          "heat": 61,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/create-linux-virtual-machine-in-azure-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Create a Linux virtual machine in Azure",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Create a Windows virtual machine in Azure",
-          "excerpt": "Azure virtual machines (VMs) enable you to create dedicated compute resources in minutes that can be used just like a physical desktop or server machine.",
-          "heat": 73,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/create-windows-virtual-machine-in-azure-social.png",
-              "width": 1000,
-              "height": 500,
-              "title": "Create a Windows virtual machine in Azure",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Compute"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Manage virtual machines with the Azure CLI",
-          "excerpt": "Learn how to use the cross-platform Azure CLI to create, start, stop, and perform other management tasks related to virtual machines in Azure.",
-          "heat": 60,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/manage-virtual-machines-with-azure-cli-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Manage virtual machines with the Azure CLI",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Add and size disks in Azure virtual machines",
-          "excerpt": "Understand and create the different types of disk storage available to Azure virtual machines (VMs).",
-          "heat": 57,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/add-and-size-disks-in-azure-virtual-machines-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Add and size disks in Azure virtual machines",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Management Tools"
-          ]
-        }
-      ],
-      "size": 14,
-      "heat": 73,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-linux-virtual-machine-in-azure-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Create a Linux virtual machine in Azure",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Management Tools",
-        "Containers"
       ]
     }
   ],

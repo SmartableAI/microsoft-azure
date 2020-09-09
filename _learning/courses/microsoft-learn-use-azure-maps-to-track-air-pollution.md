@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT36M
 ratings:
-  count: 28
-  average: 4.678571
-heat: 50
+  count: 29
+  average: 4.6551723
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Track global air quality with Azure Maps"
 
-secured: "gF5WL5KA+78cBcLcY/eY2fDQ/uW6A0CW70F3VWSDj8Yml+AwM3I6RTvKbY4xbB6vS8hlVwvkmBfsE0N0u+t7syrevQxI80piY45NTVtbEN6HLsFneAyYTBuZ1g7F9e9ThZEMV3S9irbZ69zmTG40lD9ARRnw4JqZReJyxvDa7U2K/XjEUGVx26tFDCxumT1w4wRbi0bR3xBblyDbEwIrGKEv0pXg0PifHBBXnlqS6BpD+epCkSOvFrZ/KaMWBdy/q19nu5v2/HsngZds7XLeDz0bRI7k0WoV8YylvkzPhvwlyqVQMts1W5bxbIfYCeAvR5gAgPt2U4wthIJA6etw29pbQh6JIL09MzMDh8IjiBIMIbZZsWOD1fN2hrAPyYs1JXtvuSQZ5J4Hzr4LeHN1WOgk7zgLvI6ytOpEeFibOVQ=;9htuOU91ZeD/ciKrjwiT3Q=="
+secured: "8iX12S3ejYSNIAlh0b/T8LbhQtsWnK3h40yeIhTcKkjcwJm4KVIAalUM4l9/VX0VaLZKbGOgY6hOMIx5C9HZKWH34nPxKZIfKr2LnC7ZZkgBJvD3N6kvLq+WrpRuVygInZg6pXoxK+zicOFIQ5kpYbRL6/tBnOwyY8FjR21fd+suYXR0iB1R0acjasDEm+UwQukKtyAhkWYKXOz/+LqEgFWmDyxJmxXynYxmdLAU8ZcVm0Zio1mWeZY15WceOqITePmq55k6XEAjnL2GvrkppBn1Io6TsKDPPArIWxVCCwNM7fGYJPubfwnKrueWXcRPZC5HXm1aMM95Kd6cs0omh3Q2GrF/qdRqo/Z/HJS67tpTuVIihRg5HAnN5EYmxCNJDTiohk+ujImCwjSv6GOTWIouM259BSUVIo1CpHGwBnI=;jTdJJewYco+JHtPjb7JKJQ=="
 ---
 

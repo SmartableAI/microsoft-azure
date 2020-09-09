@@ -4,49 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-principles-cloud-computing.md",
-      "title": "Cloud Concepts - Principles of cloud computing",
-      "excerpt": "Explore the core concepts of cloud computing and how it can help your business.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-principles-cloud-computing/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/",
-      "length": "62 mins",
-      "ratings": {
-        "count": 162201,
-        "average": 4.7719865
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 198,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/principles-cloud-computing-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Cloud Concepts - Principles of cloud computing",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-learning-path.md",
       "title": "Azure fundamentals learning path",
       "excerpt": "Follow this learning path for a broad and compelling introduction to the fundamentals of Azure cloud computing.",
@@ -93,7 +50,7 @@
           "path": "",
           "title": "Create an Azure account",
           "excerpt": "The first step to using Azure is to sign up. You may sign up directly through Azure.com, with the help of a Microsoft representative, or through a partner. If you’re new to Azure, you may sign up for an Azure free account to start exploring with $200 USD free credit and free services.",
-          "heat": 152,
+          "heat": 170,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-azure-account-social.png",
@@ -150,7 +107,7 @@
         }
       ],
       "size": 12,
-      "heat": 182,
+      "heat": 204,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/principles-cloud-computing-social.png",
@@ -216,7 +173,7 @@
           "path": "",
           "title": "Create an Azure account",
           "excerpt": "The first step to using Azure is to sign up. You may sign up directly through Azure.com, with the help of a Microsoft representative, or through a partner. If you’re new to Azure, you may sign up for an Azure free account to start exploring with $200 USD free credit and free services.",
-          "heat": 152,
+          "heat": 170,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-azure-account-social.png",
@@ -273,7 +230,7 @@
         }
       ],
       "size": 12,
-      "heat": 182,
+      "heat": 204,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/principles-cloud-computing-social.png",
@@ -293,15 +250,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-azure-account.md",
-      "title": "Create an Azure account",
-      "excerpt": "The first step to using Azure is to sign up. You may sign up directly through Azure.com, with the help of a Microsoft representative, or through a partner. If you’re new to Azure, you may sign up for an Azure free account to start exploring with $200 USD free credit and free services.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-azure-account/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
-      "length": "39 mins",
+      "path": "_learning/courses/microsoft-learn-principles-cloud-computing.md",
+      "title": "Cloud Concepts - Principles of cloud computing",
+      "excerpt": "Explore the core concepts of cloud computing and how it can help your business.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-principles-cloud-computing/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/",
+      "length": "62 mins",
       "ratings": {
-        "count": 129358,
-        "average": 4.695759
+        "count": 162229,
+        "average": 4.771989
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -318,7 +275,50 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 152,
+      "heat": 198,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/principles-cloud-computing-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Cloud Concepts - Principles of cloud computing",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-azure-account.md",
+      "title": "Create an Azure account",
+      "excerpt": "The first step to using Azure is to sign up. You may sign up directly through Azure.com, with the help of a Microsoft representative, or through a partner. If you’re new to Azure, you may sign up for an Azure free account to start exploring with $200 USD free credit and free services.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-azure-account/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
+      "length": "39 mins",
+      "ratings": {
+        "count": 129372,
+        "average": 4.695792
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 170,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/create-azure-account-social.png",
@@ -383,7 +383,7 @@
           "path": "",
           "title": "Create an Azure account",
           "excerpt": "The first step to using Azure is to sign up. You may sign up directly through Azure.com, with the help of a Microsoft representative, or through a partner. If you’re new to Azure, you may sign up for an Azure free account to start exploring with $200 USD free credit and free services.",
-          "heat": 152,
+          "heat": 170,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-azure-account-social.png",
@@ -467,8 +467,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/",
       "length": "45 mins",
       "ratings": {
-        "count": 65370,
-        "average": 4.7125134
+        "count": 65372,
+        "average": 4.712507
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -509,8 +509,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
       "length": "38 mins",
       "ratings": {
-        "count": 61513,
-        "average": 4.7086797
+        "count": 61523,
+        "average": 4.708727
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -682,8 +682,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-data-in-azure/",
       "length": "25 mins",
       "ratings": {
-        "count": 53455,
-        "average": 4.73314
+        "count": 53460,
+        "average": 4.733165
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -726,8 +726,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/",
       "length": "36 mins",
       "ratings": {
-        "count": 64681,
-        "average": 4.7997093
+        "count": 64690,
+        "average": 4.799737
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -762,50 +762,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-improve-api-performance-with-apim-caching-policy.md",
-      "title": "Improve the performance of an API by adding a caching policy in Azure API Management",
-      "excerpt": "API Management policies are configurable modules that you can add to APIs to change\ntheir behaviors. Policies can do things like cache responses, transform documents and values,\ncall webhooks for notification or audit purposes, and retry requests after transient\nfailures. This module will use policies to enable caching in order to improve API performance\nunder load.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-improve-api-performance-with-apim-caching-policy/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-api-performance-with-apim-caching-policy/",
-      "length": "47 mins",
-      "ratings": {
-        "count": 619,
-        "average": 4.6672053
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 112,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/improve-api-performance-with-apim-caching-policy-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Improve the performance of an API by adding a caching policy in Azure API Management",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Integration",
-        "Web"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-tour-azure-portal-features.md",
       "title": "Core Cloud Services - Manage services with the Azure portal",
       "excerpt": "Tour the Azure portal features and services, and customize your portal.",
@@ -813,8 +769,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/",
       "length": "73 mins",
       "ratings": {
-        "count": 49055,
-        "average": 4.706656
+        "count": 49061,
+        "average": 4.706671
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -915,7 +871,7 @@
           "path": "",
           "title": "Design a holistic monitoring strategy on Azure",
           "excerpt": "Use monitoring services on Azure to bring operational excellence to your applications and infrastructure.",
-          "heat": 54,
+          "heat": 55,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/design-monitoring-strategy-on-azure-social.png",
@@ -1041,7 +997,7 @@
           "path": "",
           "title": "Design a holistic monitoring strategy on Azure",
           "excerpt": "Use monitoring services on Azure to bring operational excellence to your applications and infrastructure.",
-          "heat": 54,
+          "heat": 55,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/design-monitoring-strategy-on-azure-social.png",
@@ -1101,15 +1057,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-inclusive-design-principles.md",
-      "title": "Design with inclusivity in mind",
-      "excerpt": "Learn the principles of inclusive design.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-inclusive-design-principles/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/inclusive-design-principles/",
-      "length": "PT33M",
+      "path": "_learning/courses/microsoft-learn-configure-databases-for-performance.md",
+      "title": "Configure databases for performance",
+      "excerpt": "Control database-level configuration options. Explore Intelligent Query Processing. Configure Open Source databases for optimum performance.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-databases-for-performance/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-databases-performance/",
+      "length": "PT24M",
       "ratings": {
-        "count": 21,
-        "average": 4.6190476
+        "count": 25,
+        "average": 4.88
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1124,7 +1080,7 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 110,
       "images": [
@@ -1132,14 +1088,14 @@
           "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
           "width": 640,
           "height": 320,
-          "title": "Design with inclusivity in mind",
           "isCached": true
         }
       ],
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure"
+        "Azure",
+        "Databases"
       ]
     },
     {
@@ -1150,8 +1106,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
       "length": "76 mins",
       "ratings": {
-        "count": 43131,
-        "average": 4.7023487
+        "count": 43138,
+        "average": 4.7023506
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1186,6 +1142,57 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-tm-use-a-framework-to-identify-threats-and-find-ways-to-reduce-or-eliminate-risk.md",
+      "title": "Use a Framework to Identify Threats and Find Ways to Reduce or Eliminate Risk",
+      "excerpt": "Threat modeling helps you generate a list of potential threats using the threat modeling framework and find ways to reduce or eliminate risk with corresponding security controls.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-tm-use-a-framework-to-identify-threats-and-find-ways-to-reduce-or-eliminate-risk/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-use-a-framework-to-identify-threats-and-find-ways-to-reduce-or-eliminate-risk/",
+      "length": "57 mins",
+      "ratings": {
+        "count": 142,
+        "average": 4.683099
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Use a Framework to Identify Threats and Find Ways to Reduce or Eliminate Risk",
+          "isCached": true
+        },
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/use-a-framework-to-identify-threats-and-find-ways-to-reduce-or-eliminate-risk-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Use a Framework to Identify Threats and Find Ways to Reduce or Eliminate Risk",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Security",
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-governance.md",
       "title": "Apply and monitor infrastructure standards with Azure Policy",
       "excerpt": "Learn about governance and management in Azure services.",
@@ -1193,8 +1200,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
       "length": "46 mins",
       "ratings": {
-        "count": 36958,
-        "average": 4.6286054
+        "count": 36960,
+        "average": 4.6286254
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1236,8 +1243,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduce-foundation-pillars-devops/",
       "length": "25 mins",
       "ratings": {
-        "count": 1157,
-        "average": 4.6292133
+        "count": 1161,
+        "average": 4.6287684
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1335,7 +1342,7 @@
           "path": "",
           "title": "Characterize DevOps Continuous Collaboration and Continuous Improvement",
           "excerpt": "Explore two capabilities in the DevOps taxonomy, Continuous Collaboration and Continuous Improvement.",
-          "heat": 68,
+          "heat": 73,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/characterize-devops-continuous-collaboration-improvement-social.png",
@@ -1434,7 +1441,7 @@
           "path": "",
           "title": "Define the foundation pillars of DevOps: Architecture and Technology",
           "excerpt": "There are three things required to make DevOps happen: the cultural component, tools and technology, and architecture. Discover the last two foundation pillars of DevOps, Architecture and Technology!",
-          "heat": 63,
+          "heat": 75,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/define-foundation-pillars-devops-architecture-technology-social.png",
@@ -1551,7 +1558,7 @@
           "path": "",
           "title": "Define the foundation pillars of DevOps: Architecture and Technology",
           "excerpt": "There are three things required to make DevOps happen: the cultural component, tools and technology, and architecture. Discover the last two foundation pillars of DevOps, Architecture and Technology!",
-          "heat": 63,
+          "heat": 75,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/define-foundation-pillars-devops-architecture-technology-social.png",
@@ -1668,7 +1675,7 @@
           "path": "",
           "title": "Define the foundation pillars of DevOps: Architecture and Technology",
           "excerpt": "There are three things required to make DevOps happen: the cultural component, tools and technology, and architecture. Discover the last two foundation pillars of DevOps, Architecture and Technology!",
-          "heat": 63,
+          "heat": 75,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/define-foundation-pillars-devops-architecture-technology-social.png",
@@ -1747,8 +1754,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-networking/",
       "length": "28 mins",
       "ratings": {
-        "count": 42241,
-        "average": 4.764021
+        "count": 42248,
+        "average": 4.76406
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1790,8 +1797,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimize-spending/",
       "length": "74 mins",
       "ratings": {
-        "count": 39150,
-        "average": 4.714355
+        "count": 39154,
+        "average": 4.714384
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1833,8 +1840,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
       "length": "46 mins",
       "ratings": {
-        "count": 37247,
-        "average": 4.7125406
+        "count": 37250,
+        "average": 4.712537
       },
       "provider": {
         "name": "Microsoft Learn",

@@ -8,7 +8,7 @@ length: PT33M
 ratings:
   count: 21
   average: 4.6190476
-heat: 110
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Design with inclusivity in mind"
 
-secured: "/AKdP1Zb/j26VF7xeQT8PTS7JWPXDmxpZYp7nXpdh2DGiJhSLQolHI3PSe+KfM0qjXiVrNXulosF4j3Q5oyY5LKhW3UBGg+CsicQb2Vz99x38jErorLg8sSPuOlnkyC2IOwEo5ispHAXBaCaL9s9Vzgq1bBsZtgGK2yIeLkh7kcTognFdPVz5Lvp3UHdKFJs3wT1d51/OULJl5VgMT/gU1ecUcrfOOwOS01agGKwIw5zeCY8/k0nSZs8dWb/st/d8HkP0ttiIw+rcevU6qBKrTtIIe5Uuib/cRjgKAEkr0NFi8AkAcpExg4P3sqJfXAFhDxzHDfT902ERyHlD+t7lBb47Hghxb9TNqNTY+r4EfN3qihtX9E0G25NA76Z9xLjnMjQFnU97Xza0Dvo9W+/PGk/zYneDqxYFl223FIcXTc=;syWo/8seMm+OGg3RXZGO0w=="
+secured: "cJsLyYgAp0Gw2xc4+Xkp7veqY+zNqU51HWP2twM1EsiSKtF+MLqQPuiFgsRpCfmbpnIdlkrS/zp9AFcgHy2ZYtKmsdmwbpZMaeh5vxWKyE+UZ5ksCERcLaoSRKooqysldj6d3psuBEXSE8R97ghPEpecQpmNBb312+tk08WJnM+j3NtozwEgQwZW1A2Ldq3SviGK35/4svafaWy/lmXdMFAHhhtZ5Ask0tAPbWJnsdLmmJpNCL5wRhX6+etbfyVsUA3dIZNfwqWIq6hsRC28lm8ZRsVLyk89oaGthA6rHTMqwDPjfpZPt1LmnhJEQ6mjCWjZl5aBBA2Rm+nMVm0aaJcG3GHTZN8Tq0FXrxChB7ccsjEfocMCwATdJQWdv+XCOKJaxXTEEvgBdBJMFpP6an9UmtEvhr8drgBiOwXJJg0=;VwVka96EOjTibculFoEflQ=="
 ---
 

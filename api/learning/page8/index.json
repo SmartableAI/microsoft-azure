@@ -4,6 +4,48 @@
   "page": 8,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-describe-concepts-of-relational-data.md",
+      "title": "Describe concepts of relational data",
+      "excerpt": "Explore the relational model for databases, how tables are structured, how you can use indexes to improve query performance, and how you can use views to simplify complex queries.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-concepts-of-relational-data/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-concepts-of-relational-data/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 406,
+        "average": 4.7980294
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-concepts-of-relational-data-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Describe concepts of relational data",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-implement-message-workflows-with-service-bus.md",
       "title": "Implement message-based communication workflows with Azure Service Bus",
       "excerpt": "Write C# code in a custom application that sends and receives messages using Azure Service Bus topics and queues.",
@@ -54,8 +96,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-app-scalability-resiliency-with-load-balancer/",
       "length": "47 mins",
       "ratings": {
-        "count": 1830,
-        "average": 4.7163935
+        "count": 1831,
+        "average": 4.7165484
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -97,8 +139,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-commercial-marketplace/",
       "length": "PT30M",
       "ratings": {
-        "count": 285,
-        "average": 4.796491
+        "count": 286,
+        "average": 4.7972026
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -296,40 +338,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-move-azure-resources-to-another-resource-group.md",
-      "title": "Move Azure resources to another resource group",
-      "excerpt": "Identify Azure resources that you can move to a different resource group. Use the Azure portal to move resources.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-move-azure-resources-to-another-resource-group/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/move-azure-resources-another-resource-group/",
-      "length": "42 mins",
-      "ratings": {
-        "count": 1489,
-        "average": 4.5896573
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 58,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints.md",
       "title": "Secure and isolate access to Azure resources by using network security groups and service endpoints",
       "excerpt": "Network security groups and service endpoints help you secure your virtual machines and Azure services from unauthorized network access.",
@@ -337,8 +345,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
       "length": "43 mins",
       "ratings": {
-        "count": 3248,
-        "average": 4.567426
+        "count": 3250,
+        "average": 4.5676923
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -380,8 +388,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-app-data-with-azure-blob-storage/",
       "length": "50 mins",
       "ratings": {
-        "count": 2709,
-        "average": 4.57512
+        "count": 2710,
+        "average": 4.574908
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -861,8 +869,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
       "length": "29 mins",
       "ratings": {
-        "count": 1123,
-        "average": 4.6402493
+        "count": 1124,
+        "average": 4.640569
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -948,8 +956,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-custom-azure-roles-with-rbac/",
       "length": "30 mins",
       "ratings": {
-        "count": 1148,
-        "average": 4.663763
+        "count": 1150,
+        "average": 4.6643476
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -990,8 +998,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
       "length": "25 mins",
       "ratings": {
-        "count": 3948,
-        "average": 4.7028875
+        "count": 3949,
+        "average": 4.702963
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1032,8 +1040,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
       "length": "56 mins",
       "ratings": {
-        "count": 1741,
-        "average": 4.45089
+        "count": 1742,
+        "average": 4.4506316
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1322,15 +1330,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-provision-azure-sql-db.md",
-      "title": "Provision an Azure SQL database to store application data",
-      "excerpt": "Use the Azure Portal and Cloud Shell to provision, connect, and manage Azure SQL databases.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-provision-azure-sql-db/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
-      "length": "50 mins",
+      "path": "_learning/courses/microsoft-learn-manage-delivery-plans.md",
+      "title": "Manage Agile software delivery plans across teams",
+      "excerpt": "Learn to optimize delivery efficiency by improving work plan visibility across teams.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-delivery-plans/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-delivery-plans/",
+      "length": "PT33M",
       "ratings": {
-        "count": 4523,
-        "average": 4.6489058
+        "count": 2018,
+        "average": 4.7210107
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1348,33 +1356,22 @@
         "Beginner"
       ],
       "heat": 57,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/provision-azure-sql-db-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Provision an Azure SQL database to store application data",
-          "isCached": true
-        }
-      ],
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure",
-        "Databases",
-        "Management Tools"
+        "DevOps"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-analyze-costs-create-budgets-azure-cost-management.md",
-      "title": "Analyze costs and create budgets with Azure Cost Management",
-      "excerpt": "Learn how to use cost analysis to understand how your costs accrue each month. Use this understanding to create an Azure budget to monitor and alert on your costs.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-costs-create-budgets-azure-cost-management/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-costs-create-budgets-azure-cost-management/",
-      "length": "PT40M",
+      "path": "_learning/courses/microsoft-learn-move-azure-resources-to-another-resource-group.md",
+      "title": "Move Azure resources to another resource group",
+      "excerpt": "Identify Azure resources that you can move to a different resource group. Use the Azure portal to move resources.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-move-azure-resources-to-another-resource-group/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/move-azure-resources-another-resource-group/",
+      "length": "42 mins",
       "ratings": {
-        "count": 642,
-        "average": 4.5981307
+        "count": 1489,
+        "average": 4.5896573
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1391,16 +1388,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/analyze-costs-create-budgets-azure-cost-management-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Analyze costs and create budgets with Azure Cost Management",
-          "isCached": true
-        }
-      ],
+      "heat": 57,
       "type": "course",
       "price": "Free",
       "topics": [

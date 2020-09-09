@@ -491,6 +491,129 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-process-natural-language-with-azure-cognitive-language-services.md",
+      "title": "Process natural language with Azure Cognitive Language Services",
+      "excerpt": "Process natural language with Azure Cognitive Language Services",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-process-natural-language-with-azure-cognitive-language-services/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-process-natural-language-with-azure-cognitive-language-services/",
+      "length": "PT2H51M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Add basic conversational intelligence to your apps by using Language Understanding Intelligent Service (LUIS)",
+          "excerpt": "Learn to identify valuable information in conversations with LUIS for interpreting user goals (intents) and distill valuable information from sentences (entities).",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Manage your Language Understanding Intelligent Service (LUIS) Apps",
+          "excerpt": "Learn to manage LUIS apps through versioning, key management, handling data, and improving predictions.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Use containers for your Language Understanding Intelligent Service (LUIS) Apps",
+          "excerpt": "The Language Understanding (LUIS) container loads your trained or published Language Understanding model. As a LUIS app, the docker container provides access to the query predictions from the container's API endpoints",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Discover sentiment in text with the Text Analytics API",
+          "excerpt": "Learn what your customers are really saying about your product or brand when they send feedback. We'll create a solution that uses Azure Functions and the intelligence of the Text Analytics API to discover sentiment in text messages.",
+          "heat": 56,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/classify-user-feedback-with-the-text-analytics-api-social.png",
+              "width": 200,
+              "height": 200,
+              "title": "Discover sentiment in text with the Text Analytics API",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Databases",
+            "Compute",
+            "Serverless",
+            "Storage",
+            "AI",
+            "Management Tools"
+          ]
+        }
+      ],
+      "size": 7,
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-threat-modeling-security-fundamentals.md",
       "title": "Threat Modeling Security Fundamentals",
       "excerpt": "This learning path takes you through the four main phases of threat modeling, explains the differences between each data-flow diagram element, walks you through the threat modeling framework, recommends different tools and gives you a step-by-step guide on creating proper data-flow diagrams.",
@@ -760,8 +883,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/allow-users-reset-their-password/",
       "length": "31 mins",
       "ratings": {
-        "count": 1405,
-        "average": 4.7024913
+        "count": 1406,
+        "average": 4.7027025
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -849,8 +972,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
       "length": "86 mins",
       "ratings": {
-        "count": 7552,
-        "average": 4.684322
+        "count": 7553,
+        "average": 4.684364
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -893,8 +1016,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-roles-responsibilities-world-of-data/",
       "length": "PT17M",
       "ratings": {
-        "count": 518,
-        "average": 4.8069496
+        "count": 519,
+        "average": 4.8073215
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3055,134 +3178,6 @@
         "Compute",
         "Migration",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-migrating-open-source-workloads-to-azure.md",
-      "title": "Migrating open-source workloads to Azure",
-      "excerpt": "Learn how to migrate open-source workloads from PostgreSQL and MySQL databases to the equivalent services in Azure. Explore the processes and tools, and learn how to validate application dependencies to support a successful migration.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-migrating-open-source-workloads-to-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-migrating-open-source-workloads-to-azure/",
-      "length": "PT3H8M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Introduction to open-source database migration on Azure",
-          "excerpt": "In this module, you'll learn about the issues and considerations for migrating on-premises open-source databases to Azure, the services that Azure provides to help you migrate your databases, and how to plan a migration.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/learn-pr/achievements/introduction-to-open-source-database-migration-on-azure-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Introduction to open-source database migration on Azure",
-              "isCached": true
-            },
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/introduction-to-open-source-database-migration-on-azure-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Introduction to open-source database migration on Azure",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Migrate on-premises MySQL databases to Azure Database for MySQL",
-          "excerpt": "In this module, you'll learn about the benefits of migrating MySQL workloads to Azure, you'll see how to create an Azure Database for MySQL instance, and learn how to migrate on-premises MySQL databases to Azure.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/learn-pr/achievements/migrate-on-premises-mysql-databases-to-azure-database-for-mysql-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Migrate on-premises MySQL databases to Azure Database for MySQL",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Migration",
-            "Databases"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Migrate on-premises PostgreSQL databases to Azure Database for PostgreSQL",
-          "excerpt": "In this module, you'll learn about the benefits of migrating PostgreSQL workloads to Azure, you'll see how to create an Azure Database for PostgreSQL instance and how to migrate on-premises PostgreSQL databases to Azure.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/learn-pr/achievements/migrate-onpremises-postgresql-db-azure-db-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Migrate on-premises PostgreSQL databases to Azure Database for PostgreSQL",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Migration",
-            "Databases"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Protecting, monitoring and tuning a migrated database",
-          "excerpt": "In this module, you'll learn how to use the Azure features available for protect, monitor, and tune a database.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/learn-pr/achievements/protecting-monitoring-and-tuning-a-migrated-database-social.png",
-              "width": 800,
-              "height": 400,
-              "title": "Protecting, monitoring and tuning a migrated database",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        }
-      ],
-      "size": 4,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/learn-pr/achievements/introduction-to-open-source-database-migration-on-azure-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Introduction to open-source database migration on Azure",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],

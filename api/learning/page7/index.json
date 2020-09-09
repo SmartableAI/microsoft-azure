@@ -4,6 +4,134 @@
   "page": 7,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-migrating-open-source-workloads-to-azure.md",
+      "title": "Migrating open-source workloads to Azure",
+      "excerpt": "Learn how to migrate open-source workloads from PostgreSQL and MySQL databases to the equivalent services in Azure. Explore the processes and tools, and learn how to validate application dependencies to support a successful migration.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-migrating-open-source-workloads-to-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-migrating-open-source-workloads-to-azure/",
+      "length": "PT3H8M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Introduction to open-source database migration on Azure",
+          "excerpt": "In this module, you'll learn about the issues and considerations for migrating on-premises open-source databases to Azure, the services that Azure provides to help you migrate your databases, and how to plan a migration.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/learn-pr/achievements/introduction-to-open-source-database-migration-on-azure-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Introduction to open-source database migration on Azure",
+              "isCached": true
+            },
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/introduction-to-open-source-database-migration-on-azure-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Introduction to open-source database migration on Azure",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Migrate on-premises MySQL databases to Azure Database for MySQL",
+          "excerpt": "In this module, you'll learn about the benefits of migrating MySQL workloads to Azure, you'll see how to create an Azure Database for MySQL instance, and learn how to migrate on-premises MySQL databases to Azure.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/learn-pr/achievements/migrate-on-premises-mysql-databases-to-azure-database-for-mysql-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Migrate on-premises MySQL databases to Azure Database for MySQL",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Migration",
+            "Databases"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Migrate on-premises PostgreSQL databases to Azure Database for PostgreSQL",
+          "excerpt": "In this module, you'll learn about the benefits of migrating PostgreSQL workloads to Azure, you'll see how to create an Azure Database for PostgreSQL instance and how to migrate on-premises PostgreSQL databases to Azure.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/learn-pr/achievements/migrate-onpremises-postgresql-db-azure-db-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Migrate on-premises PostgreSQL databases to Azure Database for PostgreSQL",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Migration",
+            "Databases"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Protecting, monitoring and tuning a migrated database",
+          "excerpt": "In this module, you'll learn how to use the Azure features available for protect, monitor, and tune a database.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/learn-pr/achievements/protecting-monitoring-and-tuning-a-migrated-database-social.png",
+              "width": 800,
+              "height": 400,
+              "title": "Protecting, monitoring and tuning a migrated database",
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/learn-pr/achievements/introduction-to-open-source-database-migration-on-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Introduction to open-source database migration on Azure",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-monitor-and-maintain-windows-server-iaas-virtual-machine.md",
       "title": "Monitor and maintain Windows Server IaaS Virtual Machine",
       "excerpt": "In this learning path, you’ll learn how to implement remote administration and management in Azure. After completing this path, you’ll be able to monitor your Azure resources, and plan for scale and high-availability.",
@@ -211,7 +339,7 @@
           "path": "",
           "title": "Configure databases for performance",
           "excerpt": "Control database-level configuration options. Explore Intelligent Query Processing. Configure Open Source databases for optimum performance.",
-          "heat": 50,
+          "heat": 110,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -241,129 +369,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-process-natural-language-with-azure-cognitive-language-services.md",
-      "title": "Process natural language with Azure Cognitive Language Services",
-      "excerpt": "Process natural language with Azure Cognitive Language Services",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-process-natural-language-with-azure-cognitive-language-services/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-process-natural-language-with-azure-cognitive-language-services/",
-      "length": "PT2H51M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Add basic conversational intelligence to your apps by using Language Understanding Intelligent Service (LUIS)",
-          "excerpt": "Learn to identify valuable information in conversations with LUIS for interpreting user goals (intents) and distill valuable information from sentences (entities).",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Manage your Language Understanding Intelligent Service (LUIS) Apps",
-          "excerpt": "Learn to manage LUIS apps through versioning, key management, handling data, and improving predictions.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Use containers for your Language Understanding Intelligent Service (LUIS) Apps",
-          "excerpt": "The Language Understanding (LUIS) container loads your trained or published Language Understanding model. As a LUIS app, the docker container provides access to the query predictions from the container's API endpoints",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Discover sentiment in text with the Text Analytics API",
-          "excerpt": "Learn what your customers are really saying about your product or brand when they send feedback. We'll create a solution that uses Azure Functions and the intelligence of the Text Analytics API to discover sentiment in text messages.",
-          "heat": 56,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/classify-user-feedback-with-the-text-analytics-api-social.png",
-              "width": 200,
-              "height": 200,
-              "title": "Discover sentiment in text with the Text Analytics API",
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Databases",
-            "Compute",
-            "Serverless",
-            "Storage",
-            "AI",
-            "Management Tools"
-          ]
-        }
-      ],
-      "size": 7,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
       ]
     },
     {
@@ -511,7 +516,7 @@
           "path": "",
           "title": "Learn how to manage IoT devices as an IT admin",
           "excerpt": "This module is an introduction to the Internet of Things for IT admins.",
-          "heat": 50,
+          "heat": 54,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/manage-your-iot-devices-social.png",
@@ -735,15 +740,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-app-service-scale-up-scale-out.md",
-      "title": "Scale an App Service web app to efficiently meet demand with App Service scale up and scale out",
-      "excerpt": "Respond to periods of increased activity by incrementally increasing the resources available and then, to reduce costs, decreasing these resources when activity drops.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-app-service-scale-up-scale-out/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/app-service-scale-up-scale-out/",
-      "length": "46 mins",
+      "path": "_learning/courses/microsoft-learn-create-security-baselines.md",
+      "title": "Create security baselines",
+      "excerpt": "Create security baselines",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-security-baselines/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
+      "length": "60 mins",
       "ratings": {
-        "count": 2052,
-        "average": 4.5531187
+        "count": 2039,
+        "average": 4.6277585
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -763,10 +768,10 @@
       "heat": 60,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/app-service-scale-up-scale-out-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/create-security-baselines-social.png",
           "width": 800,
           "height": 400,
-          "title": "Scale an App Service web app to efficiently meet demand with App Service scale up and scale out",
+          "title": "Create security baselines",
           "isCached": true
         }
       ],
@@ -869,8 +874,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-core-data-concepts/",
       "length": "PT25M",
       "ratings": {
-        "count": 674,
-        "average": 4.8442135
+        "count": 676,
+        "average": 4.8446746
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -954,8 +959,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/",
       "length": "51 mins",
       "ratings": {
-        "count": 5546,
-        "average": 4.6974397
+        "count": 5547,
+        "average": 4.697494
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1041,8 +1046,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
       "length": "55 mins",
       "ratings": {
-        "count": 971,
-        "average": 4.607621
+        "count": 972,
+        "average": 4.6080246
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1083,8 +1088,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
       "length": "45 mins",
       "ratings": {
-        "count": 2951,
-        "average": 4.581159
+        "count": 2952,
+        "average": 4.5813007
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1128,8 +1133,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-azure-services-with-cli/",
       "length": "34 mins",
       "ratings": {
-        "count": 3888,
-        "average": 4.7451134
+        "count": 3889,
+        "average": 4.7451787
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1161,6 +1166,49 @@
       "topics": [
         "Azure",
         "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-deploy-vms-from-vhd-templates.md",
+      "title": "Deploy Azure virtual machines from VHD templates",
+      "excerpt": "Standardize and automate your virtual machine deployments to minimize manual configuration, variance, and errors.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-vms-from-vhd-templates/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-vms-from-vhd-templates/",
+      "length": "42 mins",
+      "ratings": {
+        "count": 1527,
+        "average": 4.67649
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/deploy-vms-from-vhd-templates-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Deploy Azure virtual machines from VHD templates",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute"
       ]
     },
     {
@@ -1300,8 +1348,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-python/",
       "length": "67 mins",
       "ratings": {
-        "count": 4537,
-        "average": 4.713247
+        "count": 4538,
+        "average": 4.71331
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1589,6 +1637,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-app-service-scale-up-scale-out.md",
+      "title": "Scale an App Service web app to efficiently meet demand with App Service scale up and scale out",
+      "excerpt": "Respond to periods of increased activity by incrementally increasing the resources available and then, to reduce costs, decreasing these resources when activity drops.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-app-service-scale-up-scale-out/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/app-service-scale-up-scale-out/",
+      "length": "46 mins",
+      "ratings": {
+        "count": 2052,
+        "average": 4.5531187
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/app-service-scale-up-scale-out-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Scale an App Service web app to efficiently meet demand with App Service scale up and scale out",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-communicate-between-applications-with-azure-queue-storage.md",
       "title": "Communicate between applications with Azure Queue storage",
       "excerpt": "Implement the publish-subscribe pattern in the cloud using Azure Queue storage.",
@@ -1596,8 +1686,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
       "length": "56 mins",
       "ratings": {
-        "count": 1582,
-        "average": 4.579646
+        "count": 1583,
+        "average": 4.5799117
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1629,50 +1719,6 @@
       "topics": [
         "Azure",
         "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-control-network-traffic-flow-with-routes.md",
-      "title": "Manage and control traffic flow in your Azure deployment with routes",
-      "excerpt": "Learn how to control Azure virtual network traffic by implementing custom routes.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-control-network-traffic-flow-with-routes/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-network-traffic-flow-with-routes/",
-      "length": "50 mins",
-      "ratings": {
-        "count": 1590,
-        "average": 4.628302
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/control-network-traffic-flow-with-routes-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Manage and control traffic flow in your Azure deployment with routes",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Networking"
       ]
     },
     {
@@ -1783,48 +1829,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-describe-concepts-of-relational-data.md",
-      "title": "Describe concepts of relational data",
-      "excerpt": "Explore the relational model for databases, how tables are structured, how you can use indexes to improve query performance, and how you can use views to simplify complex queries.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-concepts-of-relational-data/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-concepts-of-relational-data/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 405,
-        "average": 4.7975307
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-concepts-of-relational-data-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Describe concepts of relational data",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],
