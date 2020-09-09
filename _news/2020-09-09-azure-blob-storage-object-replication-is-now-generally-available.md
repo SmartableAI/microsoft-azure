@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Connector for AWS in Azure Cost Management + Billing is now generally available"
-excerpt: "The connector for AWS that helps you manage Azure and AWS costs from a single location is now generally available."
-publishedDateTime: 2020-09-02T08:00:01Z
-originalUrl: "https://azure.microsoft.com/blog/connector-for-aws-in-azure-cost-management-billing-is-now-generally-available/"
-webUrl: "https://azure.microsoft.com/blog/connector-for-aws-in-azure-cost-management-billing-is-now-generally-available/"
+title: "Azure Blob storage object replication is now generally available"
+excerpt: "Object replication allows you to replicate your block blob data at the blob level from one storage account to another anywhere in the Azure. "
+publishedDateTime: 2020-09-09T20:05:14Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-object-replication-is-now-generally-available/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-object-replication-is-now-generally-available/"
 type: article
-quality: 83
-heat: 323
-published: true
+quality: 67
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -21,13 +21,21 @@ provider:
 topics:
   - Azure
 
-images:
-  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8a7ddc8c-ab40-4eb0-8979-ec73c6098015.png"
-    width: 640
-    height: 364
-    isCached: true
-
 related:
+  - title: "Connector for AWS in Azure Cost Management + Billing is now generally available"
+    excerpt: "The connector for AWS that helps you manage Azure and AWS costs from a single location is now generally available."
+    publishedDateTime: 2020-09-02T08:00:01Z
+    webUrl: "https://azure.microsoft.com/blog/connector-for-aws-in-azure-cost-management-billing-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 83
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8a7ddc8c-ab40-4eb0-8979-ec73c6098015.png"
+        width: 640
+        height: 364
+        isCached: true
   - title: "Azure Spring Cloud: a fully managed service for Spring Boot apps is now generally available"
     excerpt: "Azure Spring Cloud is a fully managed service for Spring Boot apps, that lets you focus on building the apps that run your business without the hassle of managing infrastructure."
     publishedDateTime: 2020-09-02T06:00:00Z
@@ -64,15 +72,6 @@ related:
     excerpt: "Azure Spring Cloud is a fully managed service for Spring Boot apps that lets you focus on building the apps that run your business without the hassle of managing infrastructure"
     publishedDateTime: 2020-09-02T16:00:04Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-spring-cloud-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Blob storage object replication is now generally available"
-    excerpt: "Object replication allows you to replicate your block blob data at the blob level from one storage account to another anywhere in the Azure. "
-    publishedDateTime: 2020-09-09T20:05:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-object-replication-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
@@ -147,6 +146,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "uk1rmC0hcqHdTmjvMMLz+m2xXs5hdOIHJgqWbqVwOij4Ihe6LhRlTZ6aYEvZb0q4RD3YhLHcUyG93LAIOOSL7m0bN2PNZ0KUdGEXxnl4aL3hK3emNqy4XesaL2TP8r7Q5bdES/wejymMIbqPMHLL6yTSdy8qnqeoNtA+WDt7QISN3Zce0TRgxpIkp5Pu8H3yXIBpWndB0BSHji4FZJc+H1NM32lc2iXspmHXVedHC1nAmBd7LRPymHb8OrASTeoKiIRHc3LGp3cm3wt97Q6CLCFAavno7LhEnlkqmUzVifkd7iZ2XWVTAT2O6wY4ob2MJdqiVsvKB42E/T0Fzui4FPF8KbuHbmF4qxXBJDALMp8=;g3FJCMIsgY/o1O9McGg3RA=="
+secured: "q56+Olcvcyp99UoX3wQIk4sDU0/5ddkPwR2Hk+DIaUCppBolkRIlkFLM4Z4RkllDWxhzgULDr+ypbiTgLOhbsFoiqq/DjB1HcajGJ4GgR4wZnfzUfS9TmKtJTGVuF2/Izis52hTLK5yqAB5JuaX5PnRFl88a/fbvKZ70eWDqrVM3plHYgosB5wT4r63uI3FmIaSP18HKGDVzLNNDIDOMRBYbkDD1srw8gSh8jsaOLud8FGOggT1mkgZtCGvfyaxa3/ZGzqj36Bz6UotKiXigsrqS9aImBZXPSTt/OLHpCYZk8D6eNPALB5AZP/rIvUNTapG7bju5K+HBiRrR86ZnwxcPeq3ng84fefmjGBAuN6g=;Db8x6kbN2/X30UlryVBZSw=="
 ---
 

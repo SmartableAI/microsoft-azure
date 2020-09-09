@@ -1,11 +1,12 @@
 ---
 category: news
-title: "Azure Disk Storage with Azure Private Link integration is in preview"
-excerpt: "Azure Disk Storage now enables enhanced security options for export and import via integration with Azure Private Link."
-publishedDateTime: 2020-07-21T16:01:46Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-disk-storage-with-azure-private-link-integration-is-in-preview/"
+title: "Change feed support is now generally available for Azure Blob Storage"
+excerpt: "Change feed support for Microsoft Azure Blob storage is now generally available."
+publishedDateTime: 2020-09-09T20:04:54Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/change-feed-support-is-now-generally-available-for-azure-blob-storage/"
+webUrl: "https://azure.microsoft.com/en-us/updates/change-feed-support-is-now-generally-available-for-azure-blob-storage/"
 type: article
-quality: 17
+quality: 67
 heat: -1
 published: false
 
@@ -30,15 +31,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 86
-  - title: "Change feed support is now generally available for Azure Blob Storage"
-    excerpt: "Change feed support for Microsoft Azure Blob storage is now generally available."
-    publishedDateTime: 2020-09-09T20:04:54Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/change-feed-support-is-now-generally-available-for-azure-blob-storage/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Firewall support for Azure Relay is now in preview"
     excerpt: ""
     publishedDateTime: 2020-05-18T21:00:04Z
@@ -61,6 +53,15 @@ related:
     excerpt: "We’ve increased the maximum size of a single blob in Azure Storage from 5 TB to 200 TB, now available in preview. The 200 TB blob size is available for preview in all Azure public regions with hot, cool, and premium tiers. "
     publishedDateTime: 2020-06-30T17:00:34Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-200-tb-block-blob-size-is-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure Disk Storage with Azure Private Link integration is in preview"
+    excerpt: "Azure Disk Storage now enables enhanced security options for export and import via integration with Azure Private Link."
+    publishedDateTime: 2020-07-21T16:01:46Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-disk-storage-with-azure-private-link-integration-is-in-preview/"
     type: article
     provider:
       name: Microsoft
@@ -103,6 +104,6 @@ related:
       domain: microsoft.com
     quality: 14
 
-secured: "WwCwDqFIpEAf8jM9gveVH1aNi74+Eo+BqGeennUgFm/p7G8o+nfd+YKJYYmPcLJ5burl7YhWfcHiF5j99XIFsfrbGI3wIbEpFJKf/MuFCPyrMmgGnqCjH9nXfj9TZAKt1lhXHZT645O0VuwBAlLYZakLiOCaVRlGOysfJnBY/jfztnksjP0tTsM0C1LBZt71CyyciXYZentjOwaH98fkEdboRSFd4OI4s6YE4TMYdbwOaNju7KJ+hkiY3w/PMinyv7t08ikdQ2no4PkcG+Oig76kVoDww/Y0QCymGLroa7xXnMTgh8YpMGPLA+eA58RV9ZG83UTe50jQXk+pI0tkrA==;pp1jxM3Dg/4J/sQ+WOaopA=="
+secured: "hPPoW3OaWnIbHFy7e/X+yf3RUxOObJsWkWluxt/a2Z8yI+5e6yiHKWrTS+6fg8Hf1MToogrmudmMCaUF47cNFx05lak7tClso310X+VjYvJi+3qxxPXYkZu/lt4KKbiA8YpOra7rjNUFWnmf7RXJiUXLnwWronzUgsraCJ/zbxeKFIa5d8rjhC3rb7Cp9NID+24Hm5/P/bRNPNrkbv3FSyCn3jgSwOKetWDPcII4ispd9p5yk0RN9WC4Ft9xFW199bHWuwUo+C7QkROVJEXJ7UdoIpemj0LIbafoEnRsCrVRLbaNbWdOChIiAD7DWFBu1okyV/7lvIeH4JOGzO4mTXcwMrRkrRrKjUUz+hKciKg=;DrujjhybuWhmSL0pGyaqcQ=="
 ---
 

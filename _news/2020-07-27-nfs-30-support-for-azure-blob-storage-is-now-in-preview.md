@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/nfs-30-support-for-azure-blob-sto
 webUrl: "https://azure.microsoft.com/blog/nfs-30-support-for-azure-blob-storage-is-now-in-preview/"
 type: article
 quality: 86
-heat: 246
+heat: 266
 published: true
 
 provider:
@@ -24,6 +24,15 @@ topics:
   - Management tools
 
 related:
+  - title: "Change feed support is now generally available for Azure Blob Storage"
+    excerpt: "Change feed support for Microsoft Azure Blob storage is now generally available."
+    publishedDateTime: 2020-09-09T20:04:54Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/change-feed-support-is-now-generally-available-for-azure-blob-storage/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Firewall support for Azure Relay is now in preview"
     excerpt: ""
     publishedDateTime: 2020-05-18T21:00:04Z
