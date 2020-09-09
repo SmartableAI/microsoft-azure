@@ -6,8 +6,8 @@ type: course
 price: Free
 length: 39 mins
 ratings:
-  count: 171
-  average: 4.736842
+  count: 172
+  average: 4.7383723
 heat: 51
 
 provider:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Detect objects in images with the Custom Vision service"
 
-secured: "TK09rk4opeTU2pORfOKEnuqdsbBfBTvSNpcGm18JwK/vNgUy7YPiVZUSiEU7yTvm/H/GnMIdwHl97HGiviD/qQp46J3DrVMM8TpehT+mx4bI58PfTlSB2gbMHYwrvd17MBb0KYVUmlTImFiYEzKj6rN1vaqY5D4eSXMV0lixRt69msbfZIsNnieQGRP1DdtrghmoXNCx7EJePG17IGUEGVSEEX5By4g7KTeTs29+u7SMdQufpli5x67dsPwTe1VQsbiQjME86h0OLaFspzah0fJNIBIpBviGGmgh59Q8e91PfXEwg8MMMZ2xhLgxQiu+1ejZ7fTkqLEUE8fs5xQRypx7q6cA4Lzv7046ca0e8PZHw7NOW9asLqQ94dbMql6e+sRzO8x1E4B2qLUGOkdn56a/uPfShkptytr2UpCgO0I=;IohqL1K0cb8Rn9dBvnYEGw=="
+secured: "QIUfPtZ8Yojokb7OATqjDSKcElAvBUSTHDiRHqiocCp38AVlqvykPgxI2/KmWR/0x+ZoowovxOcpa3lz+pfteYZmem22GKZE7q2J0TnzjZGP7jUAvOEBUWWD2EV2NSQu6/Zo1glyYSDnxks4FCG/r6k3utPmd7ghPcUnx3xDmSrON2E/BivyntBat87N41tCEKqC1vnzEiRTyGLl+rXkjhXohDbTyRX3j1xKc3IL9/VDt1u8REWtCt4p0SFwxwb8alwevidBSAi2St8l3m2lEB3xwtA7uPeUfDTgWKtoG5SZhJyGqiHD4TUypZhj+y+u6h+EudpfDmFMplsZ7HgifgLlpLBt8QatyiLC0Pnj19wvrgwZ1Bm9Rxb7tlqoIG0NIFfM28RlJCOtFAIAopKNL1z+ZiQMfg7MzHXIwIChtV4=;aviovvo2nYLk0q/8574Dpg=="
 ---
 

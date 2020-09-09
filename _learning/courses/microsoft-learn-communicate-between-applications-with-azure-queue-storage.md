@@ -6,9 +6,9 @@ type: course
 price: Free
 length: 56 mins
 ratings:
-  count: 1578
-  average: 4.5811152
-heat: 53
+  count: 1580
+  average: 4.579114
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Communicate between applications with Azure Queue storage"
 
-secured: "kYYNnHwVuUrdEBS2sZ9UIwduBJtoQKbQx3Kz2XoOMUUO2iECiCh1Viz15RTuyi/M/vQhMn+Srthi+kpNQHkpF6uXRJOYhreH9DWCd7YaN2ZbOglPqzGocltB/SwI79yF4CIl5W2LL2ki9oTjirLNi/ek0Vht5FPHRaEJ+JBZUc49QSx4PxeseWy14qVQ3BOydEC7CtEoXVj9VF25J59bbnnxOZTCkHqyzTKE2ZLOdVS5Lf5C5xmnFLxtylmxcmS4ivC4FNCcMws2Gs6mulzhrL9IvhtCZuDoRSTrwd2WZL/ZjPTbmTXPcYvrxK5iwxibxYzOmT4koUGc0re9k/oGEVVi5VVrpH+mqWft8nu7iVgAo1974a4ZfxnrdUsDz096DojPl4BwD4Is6kEyTMARvVWJuoHv4MX8ZOHI98B/V1I=;WlzLrxoxxhi3tO5gCaWErw=="
+secured: "sY2Vu7Pgu775tiisTZuvj/xxx/VqJ3EZrWq92Y2M+oudzukI+avpdrIJsw3zt8bcVwJhoZ3DsxKsfnP+M0LneyRdBLAJ2/bgnz5t5cKCDeXSCyeFs0vLhyCbl7ssFOgnNbzbNjWDrPmijU3OrUFFm4tdHrnNv2Rt9KNh+5EhrruZQ6ImISYEpAG5VYBRNjJFneH2c2XKcdSrdqDzifnE9/eUWM5/m1OlZzuRi7rbJk8rgzdMaMTFqrGLX/xS2rGPtJFdxBQQXBEcMrsjYwXPyFj5UrDD9Z+Vz7qEhj6qFz53F7XA+Kbd5Di0wEE99Cz9EQvvy4DpxASs53NFD+eDiwuCO/I2Qc9eGJ7/m3HqJDkgvdIFbaNJNX8CzXXjR/LirbyLBRpb1FdBNODDb61tWu1qoJTjOL+7pTaQnLxJFhE=;zHQfrWNfL3SBi3Bran7uwg=="
 ---
 

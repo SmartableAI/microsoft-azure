@@ -8,7 +8,7 @@ length: 62 mins
 ratings:
   count: 0
   average: 0
-heat: 110
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Provision databases in Azure Pipelines"
 
-secured: "hKtGtb3k8BL0E58lh28tttvWunWHMJi2GadZCYBsvhQy/m2gESJnRhdZ2myf6tc8UyR6TJmjnqbuKAK/wOTBFbHXeSbHxrVxBRD3X2ZP1z5TovhxRCtLC63nlKZJoNFPFwDbMd1pj7fey+fi3ymHoG2a9y+2A8lD64cJt6DpJqSUhYlx8GyISM80Nw8JjJOqMKZnCKO/63dED9JQkrAFIy8S6bxxlyzo2ELXOj/R5InJvIZQ/ZYXhbm8REnNnDgY8jDsZqzfczJggQ1D42u4fP72F1ibFRq83ihbEnxE8PBNWLxdFsOv5vgYeWCxHefo3aZcmNB11EB8snxhUfo+EdUGXF1CuGGTdzrTEcJIS6QptPbFYVxK/nXxErevrlJfpJ06gEPzstG4GF6gEnooNDGyv5UJb71NYOTw9S/a/nY=;lZnhboyqUR3uf6bF4g0vYA=="
+secured: "l+6eIUIAwMTLDeky8Vd5lUtlXIWYRpVPT1cuPulM3RMApEc7HBtyE80JX5JRAmsw+7+V2Zxn892jdgBvtd8ht9CB0hSG2msSwhNoj1c4A9qYe5f5KxEJFlisZ4GSERG1IZn+CNOXFbCPjF1FN0WI55VyVYTTtFYUp9MQ7EdxVDGJpu1bWlzKwtRGTe+F3iE+TvD8Deg68jJrtBKY9HH/+PWFhy4UjGxqFu58DMkkk6KnSIWRVnLkkzDC3vmI4174VhpVk9bAEmY/IimXpp5yLMyopjI8XGBwjCo0J/qJSBLH8RKlGw+I0mR/UTIGQYIlIT1YCuGAbL0XqN0Md5AC3aCfZsuKbv7j0rsztGfH/AqT6QmXxyMO+oDcBaSTkKandHY59UGJHQWKCpCNUrMZAr6sETIbqVytx3BkA/7jWJk=;VECSh6yTce9zBAn2wUYZCA=="
 ---
 

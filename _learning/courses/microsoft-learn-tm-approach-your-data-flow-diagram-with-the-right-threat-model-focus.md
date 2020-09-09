@@ -38,6 +38,6 @@ images:
     isCached: true
     title: "Approach your data-flow diagram with the right threat model focus"
 
-secured: "4zL0mdpsKerIfoWWz3oybgIZXrsDNvBNgBLZW1p5/Sc9GqRiCX5Uj1j5qahZLh+oDq+skCCuu29TJFoZCYw9JMZRl2A1a6dJ/l1C32quXBClTvsIoy8NhBkVQF/aeZYGh0QWnpu0aHUQm6XP19IIuYL4MMb4V57dhogqKQqn9zPgg8wZtqsZQ1hiliVYmJmbPmDsHUZvmLDa9/Mv+ErD32L9xhlW2PnNvd2jdWgFJVmGa/mdkg/J69zqzKrN0ozpdSxUlIL+Md3brNTMj45dlRf4iqms0etMZ3N9iDe814PaUFAnwAkjaMYqrwWw9lVis2DaDFW754/rGZ+k0/tl2KSmVHRtj/6Arxn5rh3a/t/sglV6WA51/zRBVxqzaWO+s5jp9tC6Se626t2MNhetVB2wiytPGHklbeUfYQFLdZ4=;cvd8HcXtcJYEyJEcTplYXA=="
+secured: "zKkQf3VjpG9yC90bv/Ztfgpw0YtvUBfFrUY6nCdpHUuMX1i4wceB6guLXjBc7e+wyBbX1vdEHjvpHFZOGWy7Ax4T1Q00xexl3MA1BFf7hsO7yvytDFIpOyNxUEWW7Dt7zE2V6sI8XprlVXPb5yOwKopexlisPhO8JNX8D+p+wTmvhTvL9RqJWk15f+MDGrnfATsyqSSKGoDipvZMW9Q/vnnxSNlKMPTu70Cq7L+JDplF/QULbgLJJS6XwGadybMykdamRgURgxjNb7+bXDpJix/Zmq4X4Uf8pk/aUb2suiGMhpPFR/A3MxCbSoc4WUVco8hytY3uPe/iYEvXmiBFSB7nUv2GsGH/unyFU+vqvd9iytM9aeD2X/+qBDQOJEbp+Bx8X99hVcakSsAAnN76LNOrEB8pQg0MmhUPqzvqlIg=;x08qRs17PdGvRpidZSD2gQ=="
 ---
 

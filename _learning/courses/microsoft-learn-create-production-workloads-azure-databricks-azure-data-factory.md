@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT33M
 ratings:
-  count: 68
-  average: 4.4852943
+  count: 69
+  average: 4.4927535
 heat: 50
 
 provider:
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Create production workloads on Azure Databricks with Azure Data Factory"
 
-secured: "AEuZWq+EhM/Z1hpUeYni2/mNj2BA8NNJQW7LNIpmiC1gOOM1R656JtZLpydmpjOBAvQ8e7+Jctnk4PLOQnyL+YeMAgQtbe1evWnwYkwWqLpBNaW0KCLQB+SI7x25mt0VzJGGJpbACJ9UuAvKCVHLNH5u5oOHwwT5COAF3NZTDlOwoea+CqzrzJ2Yc0/of6jjSaGVE3JjzcFnDUdm5XyVNunu3mGzlCnDaUG7X/loQfUyuN/feHq896FRiY/iUSeuUYVy7Ab0zqpOYbYEwNuaPxh6NGh8mgu35mVOHdRx64YdV+Y7uE8pJBmAQ19vazidZWmge8pbQ1Y3+5kQkj/7//tHb/ibJfqLpZspB2/OUtLYuI6SJpkwzeyuETc6Xy7SO9cuQLzt69UnvrU7zoltapS8GCu8VaLmsT2+kXlxS00=;CS+XuCansZM+yy8OzMXELw=="
+secured: "c8LBd8l54NvoIqneUonGw8NrqIdUdRS58t2okVrjms2sjFSkZVy8g4uTtaNiTzRUq5z/VzgT8pWHP7WLXQ6WVZdASVho+15ezag1ZxhQW9U2FdwxAzFzh5GO9uQ6TSxcwpb/FCwKnpQBDck30IJrmpUp+XenGjX+W7Xvl/n6zEK6gKWE9t/q5tdXfdpo10gCd5QjBgK+rS9WcWqZjbI459j6cKZ+xQOzpUMZh04laLmwpotLjq7iaUTgYUBI5sd9OrZoeGOGW/4wfZsDG8ITksLPYl/y1asZ9JtsAKFEx2PPjR/w78NsjYavWozdWOCMjnUez4Z8LPANrlw30ASAABpudVDMMfAvjuHp4+CSF9llaLYx62crudk5w2bHmXY75P/NTc9VbLyJfcupyjA/UjC+GRHqp4Lp+4Z+SGIS5GQ=;ifhZ2+u1CuaSP9yQkHJM3w=="
 ---
 

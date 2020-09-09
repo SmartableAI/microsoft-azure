@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Automate IoT devices management with Azure IoT Hub"
 
-secured: "8zRpBpEwnbwb0STVBmTvzEY13ymNvw3cWsuVkYDC7riks6agI90Oosx1jS8EHUKdXBP+CI0aj0FhHWZXjs+l3bzKrkIc5GjLZ+yx47RzJeKG7H59n0X+aPWo81Zhn15Hpm4z07f+CoxMx1/lXyqA84/1FI/+dSvxZLS/rHlqoOydG9lQetCE/Z1EdQmxaRAJLc8lgNYzkJk3kQAaoC/ogJoQzjMl1sj4czaFbVgzZgydkWcSNpWMun8nGf3lBQlIgWKsw/PGLEY6908HJI1Xtard8O3sbjZKL7NRmpiG3hhfgBI3ntu6Zik82/dqTrOYHlvVK/ee+wEQNb46YIahZHwbLljjSROXwoduOwqMFy/ZAhefjkEq/XcY/N/AmDmFyM9GnIPbRqfrWewTGpg7wVui9GkTliWJIvNO/b9zqMw=;HzTX7ByxCdgSjJTTYxHzdg=="
+secured: "pSaX1Z2DEwDp3EWePtkofhFbJWyHsJx+cnAuC5GLImZJx0WvixIRCpOMPSH1D4lsYac8DLS/hk9w36L6/z8SI/egbNcP6WsDIYgOValLi/K94q7o11+L9WbcZs+xT8lPAorae2JCp+XduDA/hrwdAU5kvt6sswBSmmqdY34ODiAuvHuxeOI4loRC30pWAQMHsowj4Vgr0kZMT1Q/VGamTHrb/zW0JqA3xs2w6aUwZtGv60hp1Zo3INzcAoPmQ5KXAf9i3YCMgyw8TwRSYp4dxg+xvMD+DMoE7qGuq5jcI68WkRI6HLOdQNvLW5TQ4h2Gd7BKnRjG3huVwnI/JUrG0naqyZBCa0Gu0VWPaMcrjLKK5ZmKZR2PMxj6kiVq4NP36By0BpEGkqUz1HtbXp7nC8HJWCCWE2JxFUxw/JmdNGk=;APnI32+wtMH+5gTAjyInXw=="
 ---
 
