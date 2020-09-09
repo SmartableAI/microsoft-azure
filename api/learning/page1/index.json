@@ -257,8 +257,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/",
       "length": "62 mins",
       "ratings": {
-        "count": 161902,
-        "average": 4.7720227
+        "count": 161918,
+        "average": 4.7720265
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -300,7 +300,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
       "length": "39 mins",
       "ratings": {
-        "count": 129186,
+        "count": 129199,
         "average": 4.695733
       },
       "provider": {
@@ -343,8 +343,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
       "length": "38 mins",
       "ratings": {
-        "count": 61432,
-        "average": 4.7086535
+        "count": 61441,
+        "average": 4.7086635
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -392,8 +392,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-data-in-azure/",
       "length": "25 mins",
       "ratings": {
-        "count": 53391,
-        "average": 4.7332134
+        "count": 53398,
+        "average": 4.733248
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -677,6 +677,93 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-load-balance-web-traffic-with-application-gateway.md",
+      "title": "Load balance your web service traffic with Application Gateway",
+      "excerpt": "Improve application resilience by distributing load across multiple servers and use path-based routing to direct web traffic.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-load-balance-web-traffic-with-application-gateway/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/load-balance-web-traffic-with-application-gateway/",
+      "length": "92 mins",
+      "ratings": {
+        "count": 1822,
+        "average": 4.583974
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 117,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/load-balance-web-traffic-with-application-gateway-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Load balance your web service traffic with Application Gateway",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-develop-test-deploy-azure-functions-core-tools.md",
+      "title": "Develop, test, and publish Azure Functions by using Azure Functions Core Tools",
+      "excerpt": "Use the Azure Functions Core Tools to create and run functions on a development computer and publish them to Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-develop-test-deploy-azure-functions-core-tools/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-core-tools/",
+      "length": "20 mins",
+      "ratings": {
+        "count": 1641,
+        "average": 4.700183
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 115,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/develop-test-deploy-azure-functions-core-tools-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Develop, test, and publish Azure Functions by using Azure Functions Core Tools",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-introduction-python-nasa.md",
       "title": "Discover the role of Python in space exploration",
       "excerpt": "Get an introduction to the types of space exploration problems that Python and data science can influence.",
@@ -684,8 +771,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-python-nasa/",
       "length": "PT23M",
       "ratings": {
-        "count": 317,
-        "average": 4.7570977
+        "count": 322,
+        "average": 4.757764
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -718,92 +805,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-deploy-batch-inference-pipelines-with-azure-machine-learning.md",
-      "title": "Deploy batch inference pipelines with Azure Machine Learning",
-      "excerpt": "Machine learning models are often used to generate predictions from large numbers of observations in a batch process. To accomplish this, you can use Azure Machine Learning to publish a batch inference pipeline.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-batch-inference-pipelines-with-azure-machine-learning/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-batch-inference-pipelines-with-azure-machine-learning/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 139,
-        "average": 4.597122
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 114,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Deploy batch inference pipelines with Azure Machine Learning",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-cmu-monitor-cloud-resources.md",
-      "title": "Monitor cloud resources",
-      "excerpt": "Monitoring how your cloud resources are performing is crucial to building reliable cloud applications. This module covers what monitoring is, why you need to do it, and how you can about monitoring your resources.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-monitor-cloud-resources/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-monitor-cloud-resources/",
-      "length": "40 mins",
-      "ratings": {
-        "count": 105,
-        "average": 4.542857
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 112,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cmu-monitor-cloud-resources-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Monitor cloud resources",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-explore-azure-infrastructure.md",
       "title": "Core Cloud Services - Azure architecture and service guarantees",
       "excerpt": "Azure provides a global network of secure datacenters you can deploy your services into. Learn about the physical architecture of Azure, how redundancy is provided, and what service guarantees Microsoft provides.",
@@ -811,8 +812,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/",
       "length": "45 mins",
       "ratings": {
-        "count": 65298,
-        "average": 4.712472
+        "count": 65302,
+        "average": 4.7124896
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -853,8 +854,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/",
       "length": "36 mins",
       "ratings": {
-        "count": 64625,
-        "average": 4.799768
+        "count": 64631,
+        "average": 4.7997866
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1148,8 +1149,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-networking/",
       "length": "28 mins",
       "ratings": {
-        "count": 42193,
-        "average": 4.7641077
+        "count": 42199,
+        "average": 4.764094
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1191,8 +1192,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/",
       "length": "73 mins",
       "ratings": {
-        "count": 48998,
-        "average": 4.7066817
+        "count": 49007,
+        "average": 4.706695
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1234,8 +1235,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
       "length": "46 mins",
       "ratings": {
-        "count": 36912,
-        "average": 4.628522
+        "count": 36913,
+        "average": 4.628532
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1648,8 +1649,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
       "length": "76 mins",
       "ratings": {
-        "count": 43082,
-        "average": 4.702312
+        "count": 43087,
+        "average": 4.7023463
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1691,8 +1692,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
       "length": "46 mins",
       "ratings": {
-        "count": 37217,
-        "average": 4.712524
+        "count": 37219,
+        "average": 4.712539
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1734,8 +1735,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimize-spending/",
       "length": "74 mins",
       "ratings": {
-        "count": 39115,
-        "average": 4.714278
+        "count": 39117,
+        "average": 4.714293
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1777,8 +1778,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
       "length": "67 mins",
       "ratings": {
-        "count": 13712,
-        "average": 4.6848016
+        "count": 13713,
+        "average": 4.6848245
       },
       "provider": {
         "name": "Microsoft Learn",

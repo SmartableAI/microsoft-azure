@@ -4,6 +4,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-keep-your-virtual-machines-updated.md",
+      "title": "Keep your virtual machines updated",
+      "excerpt": "Deploy the Azure Update Management solution to update virtual machines in your cloud environment.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-keep-your-virtual-machines-updated/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/keep-your-virtual-machines-updated/",
+      "length": "35 mins",
+      "ratings": {
+        "count": 2618,
+        "average": 4.490069
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/keep-your-virtual-machines-updated-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Keep your virtual machines updated",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks.md",
       "title": "Secure your Azure virtual machine disks",
       "excerpt": "Use Azure Disk Encryption (ADE) to encrypt OS and data disks on existing and new VMs.",
@@ -148,8 +192,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
       "length": "48 mins",
       "ratings": {
-        "count": 1333,
-        "average": 4.6174045
+        "count": 1334,
+        "average": 4.617691
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -186,50 +230,6 @@
         "Storage",
         "AI",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-develop-test-deploy-azure-functions-core-tools.md",
-      "title": "Develop, test, and publish Azure Functions by using Azure Functions Core Tools",
-      "excerpt": "Use the Azure Functions Core Tools to create and run functions on a development computer and publish them to Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-develop-test-deploy-azure-functions-core-tools/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-core-tools/",
-      "length": "20 mins",
-      "ratings": {
-        "count": 1641,
-        "average": 4.700183
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/develop-test-deploy-azure-functions-core-tools-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Develop, test, and publish Azure Functions by using Azure Functions Core Tools",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless"
       ]
     },
     {
@@ -285,8 +285,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-with-azure-backup/",
       "length": "35 mins",
       "ratings": {
-        "count": 899,
-        "average": 4.5973306
+        "count": 900,
+        "average": 4.5944443
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -374,8 +374,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-long-running-serverless-workflow-with-durable-functions/",
       "length": "46 mins",
       "ratings": {
-        "count": 2465,
-        "average": 4.4547668
+        "count": 2466,
+        "average": 4.454988
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -467,8 +467,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-app-with-scale-sets/",
       "length": "57 mins",
       "ratings": {
-        "count": 1418,
-        "average": 4.576869
+        "count": 1419,
+        "average": 4.577167
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -553,8 +553,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-github-events-with-a-function-triggered-by-a-webhook/",
       "length": "53 mins",
       "ratings": {
-        "count": 1552,
-        "average": 4.6282215
+        "count": 1553,
+        "average": 4.628461
       },
       "provider": {
         "name": "Microsoft Learn",

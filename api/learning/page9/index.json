@@ -4,47 +4,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-principles-cloud-computing-dynamics-365-deployment.md",
-      "title": "Principles of cloud computing and deployment",
-      "excerpt": "Principles of cloud computing and deployment",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-principles-cloud-computing-dynamics-365-deployment/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing-dynamics-365-deployment/",
-      "length": "PT45M",
-      "ratings": {
-        "count": 1774,
-        "average": 4.69053
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/principles-cloud-computing-deployment-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks.md",
       "title": "Secure your Azure virtual machine disks",
       "excerpt": "Use Azure Disk Encryption (ADE) to encrypt OS and data disks on existing and new VMs.",
@@ -140,8 +99,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-intro/",
       "length": "PT44M",
       "ratings": {
-        "count": 150,
-        "average": 4.7066665
+        "count": 153,
+        "average": 4.712418
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -318,8 +277,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
       "length": "48 mins",
       "ratings": {
-        "count": 1333,
-        "average": 4.6174045
+        "count": 1334,
+        "average": 4.617691
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -453,8 +412,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
       "length": "60 mins",
       "ratings": {
-        "count": 2030,
-        "average": 4.627094
+        "count": 2031,
+        "average": 4.6272774
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -571,50 +530,6 @@
       "topics": [
         "Azure",
         "Migration"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-develop-test-deploy-azure-functions-core-tools.md",
-      "title": "Develop, test, and publish Azure Functions by using Azure Functions Core Tools",
-      "excerpt": "Use the Azure Functions Core Tools to create and run functions on a development computer and publish them to Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-develop-test-deploy-azure-functions-core-tools/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-core-tools/",
-      "length": "20 mins",
-      "ratings": {
-        "count": 1641,
-        "average": 4.700183
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/develop-test-deploy-azure-functions-core-tools-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Develop, test, and publish Azure Functions by using Azure Functions Core Tools",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless"
       ]
     },
     {
@@ -1175,8 +1090,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-images-computer-vision/",
       "length": "28 mins",
       "ratings": {
-        "count": 224,
-        "average": 4.772321
+        "count": 225,
+        "average": 4.7733335
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1385,6 +1300,93 @@
       "price": "Free",
       "topics": [
         "IoT",
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-azure-scale-azure-sql-dbs-elastic-pools.md",
+      "title": "Scale multiple Azure SQL Databases with SQL elastic pools",
+      "excerpt": "SQL elastic pools allow you to manage performance and cost for a collection of SQL databases.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-scale-azure-sql-dbs-elastic-pools/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
+      "length": "39 mins",
+      "ratings": {
+        "count": 3301,
+        "average": 4.5731597
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-scale-azure-sql-databases-elastic-pools-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Scale multiple Azure SQL Databases with SQL elastic pools",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-build-faq-chatbot-qna-maker-azure-bot-service.md",
+      "title": "Build a bot with QnA Maker and Azure Bot Service",
+      "excerpt": "Bots are a popular way to provide support through multiple communication channels. This module describes how to use the QnA Maker service and Azure Bot Service to create a bot that answers user questions.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-faq-chatbot-qna-maker-azure-bot-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
+      "length": "29 mins",
+      "ratings": {
+        "count": 1119,
+        "average": 4.640751
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/build-faq-chatbot-qna-maker-azure-bot-service-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Build a bot with QnA Maker and Azure Bot Service",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "AI",
         "Azure"
       ]
     }
