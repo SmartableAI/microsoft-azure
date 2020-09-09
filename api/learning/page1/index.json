@@ -257,8 +257,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/",
       "length": "62 mins",
       "ratings": {
-        "count": 161980,
-        "average": 4.7720337
+        "count": 162017,
+        "average": 4.77203
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -300,8 +300,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
       "length": "39 mins",
       "ratings": {
-        "count": 129228,
-        "average": 4.6957316
+        "count": 129246,
+        "average": 4.6957197
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -343,8 +343,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
       "length": "38 mins",
       "ratings": {
-        "count": 61461,
-        "average": 4.7086606
+        "count": 61469,
+        "average": 4.7086663
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -392,8 +392,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-data-in-azure/",
       "length": "25 mins",
       "ratings": {
-        "count": 53413,
-        "average": 4.7332296
+        "count": 53422,
+        "average": 4.7331996
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -684,8 +684,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-python-nasa/",
       "length": "PT23M",
       "ratings": {
-        "count": 329,
-        "average": 4.7598786
+        "count": 330,
+        "average": 4.757576
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -718,15 +718,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-pipelines-in-aml.md",
-      "title": "Orchestrating machine learning with pipelines",
-      "excerpt": "Orchestrating machine learning training with pipelines is a key element of DevOps for machine learning. In this module, you'll learn how to create, publish, and run pipelines to train models in Azure Machine Learning.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-pipelines-in-aml/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-pipelines-in-aml/",
-      "length": "57 mins",
+      "path": "_learning/courses/microsoft-learn-choose-the-appropriate-api-for-cosmos-db-storage.md",
+      "title": "Choose the appropriate API for Azure Cosmos DB storage",
+      "excerpt": "You will compare the different APIs available in Azure Cosmos DB, highlighting and contrasting the different scenarios that would make them a good choice for a company.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-the-appropriate-api-for-cosmos-db-storage/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-api-for-cosmos-db/",
+      "length": "38 mins",
       "ratings": {
-        "count": 410,
-        "average": 4.617073
+        "count": 2010,
+        "average": 4.675124
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -743,12 +743,21 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 112,
+      "heat": 113,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/choose-the-appropriate-api-for-cosmos-db-storage-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Choose the appropriate API for Azure Cosmos DB storage",
+          "isCached": true
+        }
+      ],
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "AI"
+        "Databases"
       ]
     },
     {
@@ -759,8 +768,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/",
       "length": "45 mins",
       "ratings": {
-        "count": 65319,
-        "average": 4.7125187
+        "count": 65327,
+        "average": 4.7125077
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -801,8 +810,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/",
       "length": "36 mins",
       "ratings": {
-        "count": 64641,
-        "average": 4.7997866
+        "count": 64646,
+        "average": 4.7997556
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1089,15 +1098,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-microservices-resiliency-aspnet-core.md",
-      "title": "Implement resiliency in a cloud-native ASP.NET Core microservice",
-      "excerpt": "This module guides you through implementing resiliency in an ASP.NET Core microservices app in Azure Kubernetes Service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-microservices-resiliency-aspnet-core/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microservices-resiliency-aspnet-core/",
-      "length": "PT60M",
+      "path": "_learning/courses/microsoft-learn-m365-azure-migrate-discover-assess.md",
+      "title": "Discover and Assess your on-premises servers with Azure Migrate",
+      "excerpt": "Explore the Azure Migrate tools for discovering and assessing your virtual machine servers. Learn how to install and configure a virtual machine appliance in your virtualization host infrastructure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-azure-migrate-discover-assess/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-azure-migrate-discover-assess/",
+      "length": "PT29M",
       "ratings": {
-        "count": 7,
-        "average": 4.857143
+        "count": 42,
+        "average": 4.714286
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1112,14 +1121,25 @@
         ]
       },
       "levels": [
-        "Advanced"
+        "Intermediate"
       ],
       "heat": 110,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/discover-assess-azure-migrate-server-migration-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Discover and Assess your on-premises servers with Azure Migrate",
+          "isCached": true
+        }
+      ],
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Containers"
+        "Compute",
+        "Migration",
+        "Management Tools"
       ]
     },
     {
@@ -1130,8 +1150,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-networking/",
       "length": "28 mins",
       "ratings": {
-        "count": 42205,
-        "average": 4.764104
+        "count": 42212,
+        "average": 4.7640953
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1173,8 +1193,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/",
       "length": "73 mins",
       "ratings": {
-        "count": 49019,
-        "average": 4.706685
+        "count": 49023,
+        "average": 4.706689
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1216,8 +1236,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
       "length": "46 mins",
       "ratings": {
-        "count": 36922,
-        "average": 4.6285143
+        "count": 36929,
+        "average": 4.628476
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1630,8 +1650,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
       "length": "76 mins",
       "ratings": {
-        "count": 43096,
-        "average": 4.702339
+        "count": 43100,
+        "average": 4.7023435
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1673,8 +1693,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
       "length": "46 mins",
       "ratings": {
-        "count": 37226,
-        "average": 4.7125664
+        "count": 37228,
+        "average": 4.712555
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1716,8 +1736,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimize-spending/",
       "length": "74 mins",
       "ratings": {
-        "count": 39125,
-        "average": 4.714326
+        "count": 39131,
+        "average": 4.71437
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1759,8 +1779,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
       "length": "67 mins",
       "ratings": {
-        "count": 13715,
-        "average": 4.684798
+        "count": 13719,
+        "average": 4.684817
       },
       "provider": {
         "name": "Microsoft Learn",
