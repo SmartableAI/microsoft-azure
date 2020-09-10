@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-compute/",
       "length": "PT38M",
       "ratings": {
-        "count": 61565,
-        "average": 4.708828
+        "count": 61577,
+        "average": 4.70882
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -578,8 +578,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-long-running-serverless-workflow-with-durable-functions/",
       "length": "PT46M",
       "ratings": {
-        "count": 2473,
-        "average": 4.4565306
+        "count": 2474,
+        "average": 4.4567504
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -664,8 +664,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/develop-test-deploy-azure-functions-with-visual-studio/",
       "length": "PT43M",
       "ratings": {
-        "count": 1688,
-        "average": 4.60545
+        "count": 1689,
+        "average": 4.605684
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1154,6 +1154,41 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-the-mojifier.md",
+      "title": "The Mojifier - Create a Slack bot that replaces people's faces with emojis matching their emotion",
+      "excerpt": "Learn how to get images, calculate emotion, match emotions to emojis, and replace faces with emoji.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-the-mojifier/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/replace-faces-with-emojis-matching-emotion/",
+      "length": "PT1H31M",
+      "ratings": {
+        "count": 46,
+        "average": 4.5869565
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-send-location-over-sms-from-mobile-using-azure-functions-twilio.md",
       "title": "Share your location as a text message using Azure Functions and Twilio",
       "excerpt": "Learn how to use location tracking on your phone mixed with Azure Functions and Twilio to share your location with your friends as a text message.",
@@ -1214,41 +1249,6 @@
       },
       "levels": [
         "Beginner"
-      ],
-      "heat": 51,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-the-mojifier.md",
-      "title": "The Mojifier - Create a Slack bot that replaces people's faces with emojis matching their emotion",
-      "excerpt": "Learn how to get images, calculate emotion, match emotions to emojis, and replace faces with emoji.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-the-mojifier/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/replace-faces-with-emojis-matching-emotion/",
-      "length": "PT1H31M",
-      "ratings": {
-        "count": 46,
-        "average": 4.5869565
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
       ],
       "heat": 51,
       "type": "course",

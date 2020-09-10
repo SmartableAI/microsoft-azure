@@ -569,6 +569,41 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-the-mojifier.md",
+      "title": "The Mojifier - Create a Slack bot that replaces people's faces with emojis matching their emotion",
+      "excerpt": "Learn how to get images, calculate emotion, match emotions to emojis, and replace faces with emoji.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-the-mojifier/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/replace-faces-with-emojis-matching-emotion/",
+      "length": "PT1H31M",
+      "ratings": {
+        "count": 46,
+        "average": 4.5869565
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-unsupervised-learning.md",
       "title": "Use unsupervised learning to analyze unlabeled data",
       "excerpt": "Use unsupervised learning methods to predict groupings in data. Use variations of k-means clustering and spectral clustering to analyze and visualize difficult data sets.",
@@ -1338,8 +1373,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-sql-high-availability/",
       "length": "PT1H34M",
       "ratings": {
-        "count": 25,
-        "average": 4.72
+        "count": 26,
+        "average": 4.730769
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1380,8 +1415,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-sql-performance/",
       "length": "PT1H24M",
       "ratings": {
-        "count": 23,
-        "average": 4.869565
+        "count": 24,
+        "average": 4.875
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1404,48 +1439,6 @@
           "url": "https://docs.microsoft.com/learn/achievements/azure-sql-performance-social.png",
           "width": 642,
           "height": 324,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-sql-secure-data.md",
-      "title": "Secure your data with Azure SQL",
-      "excerpt": "Secure your data with Azure SQL",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-sql-secure-data/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/azure-sql-secure-data/",
-      "length": "PT1H24M",
-      "ratings": {
-        "count": 42,
-        "average": 4.6666665
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-sql-secure-data-social.png",
-          "width": 642,
-          "height": 325,
           "isCached": true
         }
       ],

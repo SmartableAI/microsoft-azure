@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-compute/",
       "length": "PT38M",
       "ratings": {
-        "count": 61565,
-        "average": 4.708828
+        "count": 61577,
+        "average": 4.70882
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -324,7 +324,7 @@
           "path": "",
           "title": "Call an API from a Logic Apps workflow using a custom connector",
           "excerpt": "In this module, learn to create a Logic Apps custom connector to call an API from a Logic Apps workflow.",
-          "heat": 68,
+          "heat": 69,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/logic-apps-and-custom-connectors-social.png",
@@ -584,6 +584,50 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-logic-apps-and-custom-connectors.md",
+      "title": "Call an API from a Logic Apps workflow using a custom connector",
+      "excerpt": "In this module, learn to create a Logic Apps custom connector to call an API from a Logic Apps workflow.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-logic-apps-and-custom-connectors/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/logic-apps-and-custom-connectors/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 495,
+        "average": 4.569697
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 69,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/logic-apps-and-custom-connectors-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Blockchain",
+        "Integration"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-logic-apps-and-arm-templates.md",
       "title": "Create and deploy Logic Apps using Azure Resource Manager templates",
       "excerpt": "Define a Logic Apps workflow declaratively as a Resource Manager template and deploy the app using the Azure Command Line Interface (CLI).",
@@ -626,50 +670,6 @@
         "Blockchain",
         "Integration",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-logic-apps-and-custom-connectors.md",
-      "title": "Call an API from a Logic Apps workflow using a custom connector",
-      "excerpt": "In this module, learn to create a Logic Apps custom connector to call an API from a Logic Apps workflow.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-logic-apps-and-custom-connectors/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/logic-apps-and-custom-connectors/",
-      "length": "PT40M",
-      "ratings": {
-        "count": 495,
-        "average": 4.569697
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 68,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/logic-apps-and-custom-connectors-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Blockchain",
-        "Integration"
       ]
     },
     {

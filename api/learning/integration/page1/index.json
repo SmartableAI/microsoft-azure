@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-compute/",
       "length": "PT38M",
       "ratings": {
-        "count": 61565,
-        "average": 4.708828
+        "count": 61577,
+        "average": 4.70882
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -71,7 +71,7 @@
           "path": "",
           "title": "Enabling digital transformation",
           "excerpt": "Digital transformation is a wave of business innovation fueled by the explosion of technology—data, applications, and devices are everywhere. The cloud, artificial intelligence (AI), and the internet of things (IoT) give organizations new ways to make sense of information and generate insights to transform their business. Realizing the benefits of digital transformation requires business leaders to look beyond technology to reimagine existing business models and embrace a different way of bringing together people, data, and processes to create value for customers.",
-          "heat": 181,
+          "heat": 182,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/enable-digital-transformation-social.png",
@@ -625,7 +625,7 @@
           "path": "",
           "title": "Implement message-based communication workflows with Azure Service Bus",
           "excerpt": "Discover how to write code in .NET applications using Azure Service Bus for communications that can handle high demand, low bandwidth, and hardware failures.",
-          "heat": 106,
+          "heat": 107,
           "type": "course",
           "topics": [
             "Azure",
@@ -656,7 +656,7 @@
         }
       ],
       "size": 4,
-      "heat": 127,
+      "heat": 128,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/choose-a-messaging-model-in-azure-to-connect-your-services-social.png",
@@ -717,7 +717,7 @@
           "path": "",
           "title": "Implement message-based communication workflows with Azure Service Bus",
           "excerpt": "Discover how to write code in .NET applications using Azure Service Bus for communications that can handle high demand, low bandwidth, and hardware failures.",
-          "heat": 106,
+          "heat": 107,
           "type": "course",
           "topics": [
             "Azure",
@@ -748,7 +748,7 @@
         }
       ],
       "size": 4,
-      "heat": 127,
+      "heat": 128,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/choose-a-messaging-model-in-azure-to-connect-your-services-social.png",
@@ -776,8 +776,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
       "length": "PT45M",
       "ratings": {
-        "count": 2954,
-        "average": 4.5815845
+        "count": 2956,
+        "average": 4.581867
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -995,7 +995,7 @@
           "path": "",
           "title": "Call an API from a Logic Apps workflow using a custom connector",
           "excerpt": "In this module, learn to create a Logic Apps custom connector to call an API from a Logic Apps workflow.",
-          "heat": 68,
+          "heat": 69,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/logic-apps-and-custom-connectors-social.png",
@@ -1081,7 +1081,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 106,
+      "heat": 107,
       "type": "course",
       "price": "Free",
       "topics": [
@@ -1865,6 +1865,50 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-logic-apps-and-custom-connectors.md",
+      "title": "Call an API from a Logic Apps workflow using a custom connector",
+      "excerpt": "In this module, learn to create a Logic Apps custom connector to call an API from a Logic Apps workflow.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-logic-apps-and-custom-connectors/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/logic-apps-and-custom-connectors/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 495,
+        "average": 4.569697
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 69,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/logic-apps-and-custom-connectors-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Blockchain",
+        "Integration"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-logic-apps-and-arm-templates.md",
       "title": "Create and deploy Logic Apps using Azure Resource Manager templates",
       "excerpt": "Define a Logic Apps workflow declaratively as a Resource Manager template and deploy the app using the Azure Command Line Interface (CLI).",
@@ -1910,50 +1954,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-logic-apps-and-custom-connectors.md",
-      "title": "Call an API from a Logic Apps workflow using a custom connector",
-      "excerpt": "In this module, learn to create a Logic Apps custom connector to call an API from a Logic Apps workflow.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-logic-apps-and-custom-connectors/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/logic-apps-and-custom-connectors/",
-      "length": "PT40M",
-      "ratings": {
-        "count": 495,
-        "average": 4.569697
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 68,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/logic-apps-and-custom-connectors-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Blockchain",
-        "Integration"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-build-the-intelligent-edge-with-azure-iot-edge.md",
       "title": "Build the intelligent edge with Azure IoT Edge",
       "excerpt": "Interested in building end to end IoT solutions or about Azure IoT, but aren't quite sure what it can do for you? This path is the place to start.",
@@ -1982,7 +1982,7 @@
           "path": "",
           "title": "Introduction to Azure IoT Edge",
           "excerpt": "University of Oxford",
-          "heat": 75,
+          "heat": 76,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-iot-edge-social.png",

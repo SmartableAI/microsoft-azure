@@ -4,12 +4,16 @@
   "page": 5,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-connect-your-services-together-learning-path.md",
-      "title": "Connect your services together learning path",
-      "excerpt": "Use Azure to create website front-ends, back-end services, and triggered functions that compute-on-demand and can also communicate with each other.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-connect-your-services-together-learning-path/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-connect-your-services-together-learning-path/",
-      "length": "PT3H31M",
+      "path": "_learning/courses/microsoft-learn-intro-to-azure-kubernetes-service.md",
+      "title": "Introduction to Azure Kubernetes Service",
+      "excerpt": "Get acquainted with the Azure Kubernetes open-source container-orchestration system for automating application deployment, scaling, and management.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-kubernetes-service/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-kubernetes-service/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 3227,
+        "average": 4.604896
+      },
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -23,85 +27,35 @@
         ]
       },
       "levels": [
-        "Beginner",
-        "Intermediate"
+        "Beginner"
       ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Choose a messaging model in Azure to loosely connect your services",
-          "excerpt": "Learn how Azure's storage queues, event hubs, event grid, and service bus can improve your communication between devices.",
-          "heat": 124,
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Integration",
-            "IoT",
-            "Analytics"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Implement message-based communication workflows with Azure Service Bus",
-          "excerpt": "Discover how to write code in .NET applications using Azure Service Bus for communications that can handle high demand, low bandwidth, and hardware failures.",
-          "heat": 106,
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Integration"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Communicate between applications with Azure Queue storage",
-          "excerpt": "Find out to use Azure Queue storage to handle high demand and improve resilience in your distributed applications.",
-          "heat": 98,
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Storage"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Enable reliable messaging for Big Data applications using Azure Event Hubs",
-          "excerpt": "Learn to use Azure Event Hubs to reliably process high-volume data streams to enable you to code applications to send and receive messages through the hub.",
-          "heat": 101,
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Analytics"
-          ]
-        }
-      ],
-      "size": 4,
-      "heat": 127,
+      "heat": 128,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/choose-a-messaging-model-in-azure-to-connect-your-services-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Choose a messaging model in Azure to loosely connect your services",
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-kubernetes-service-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
-      "type": "collection",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Integration",
-        "IoT",
-        "Analytics",
-        "Storage"
+        "Containers"
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-connect-your-services-together.md",
-      "title": "Connect your services together",
-      "excerpt": "Azure lets you create applications composed of various components: web site front-ends, back-end services, and triggered functions that perform compute-on-demand services. Azure also includes various communication strategies to let these various components pass data to each other. Learn how to leverage these communication services to create scalable, efficient solutions out of testable components.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-connect-your-services-together/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-connect-your-services-together/",
-      "length": "PT3H31M",
+      "path": "_learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints.md",
+      "title": "Secure and isolate access to Azure resources by using network security groups and service endpoints",
+      "excerpt": "Find out how Azure network security groups and service endpoints help you secure your virtual machines and Azure services from unauthorized network access.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
+      "length": "PT43M",
+      "ratings": {
+        "count": 3254,
+        "average": 4.5676093
+      },
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -115,76 +69,22 @@
         ]
       },
       "levels": [
-        "Beginner",
-        "Intermediate"
+        "Beginner"
       ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Choose a messaging model in Azure to loosely connect your services",
-          "excerpt": "Learn how Azure's storage queues, event hubs, event grid, and service bus can improve your communication between devices.",
-          "heat": 124,
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Integration",
-            "IoT",
-            "Analytics"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Implement message-based communication workflows with Azure Service Bus",
-          "excerpt": "Discover how to write code in .NET applications using Azure Service Bus for communications that can handle high demand, low bandwidth, and hardware failures.",
-          "heat": 106,
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Integration"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Communicate between applications with Azure Queue storage",
-          "excerpt": "Find out to use Azure Queue storage to handle high demand and improve resilience in your distributed applications.",
-          "heat": 98,
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Storage"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Enable reliable messaging for Big Data applications using Azure Event Hubs",
-          "excerpt": "Learn to use Azure Event Hubs to reliably process high-volume data streams to enable you to code applications to send and receive messages through the hub.",
-          "heat": 101,
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Analytics"
-          ]
-        }
-      ],
-      "size": 4,
-      "heat": 127,
+      "heat": 128,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/choose-a-messaging-model-in-azure-to-connect-your-services-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Choose a messaging model in Azure to loosely connect your services",
+          "url": "https://docs.microsoft.com/learn/achievements/secure-and-isolate-with-nsg-and-service-endpoints-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
-      "type": "collection",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Integration",
-        "IoT",
-        "Analytics",
-        "Storage"
+        "Networking"
       ]
     },
     {
@@ -195,8 +95,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/connect-on-premises-network-with-expressroute/",
       "length": "PT40M",
       "ratings": {
-        "count": 2992,
-        "average": 4.665441
+        "count": 2995,
+        "average": 4.6654425
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -278,8 +178,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
       "length": "PT45M",
       "ratings": {
-        "count": 2954,
-        "average": 4.5815845
+        "count": 2956,
+        "average": 4.581867
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -304,6 +204,40 @@
         "Integration",
         "IoT",
         "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-provision-infrastructure-azure-pipelines.md",
+      "title": "Provision infrastructure in Azure Pipelines",
+      "excerpt": "Learn how infrastructure as code enables you to describe and automatically provision the infrastructure that you need for your application.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-provision-infrastructure-azure-pipelines/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/provision-infrastructure-azure-pipelines/",
+      "length": "PT2H2M",
+      "ratings": {
+        "count": 360,
+        "average": 4.6583333
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 124,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps"
       ]
     },
     {
@@ -434,8 +368,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/publish-azure-web-app-with-visual-studio/",
       "length": "PT48M",
       "ratings": {
-        "count": 2822,
-        "average": 4.6743445
+        "count": 2823,
+        "average": 4.67446
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -467,8 +401,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-docker-containers/",
       "length": "PT32M",
       "ratings": {
-        "count": 2748,
-        "average": 4.624454
+        "count": 2749,
+        "average": 4.624591
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -576,8 +510,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/store-app-data-with-azure-blob-storage/",
       "length": "PT50M",
       "ratings": {
-        "count": 2713,
-        "average": 4.5746408
+        "count": 2714,
+        "average": 4.574797
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -600,6 +534,48 @@
       "topics": [
         "Azure",
         "Storage"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-design-azure-sql-data-warehouse.md",
+      "title": "Design a data warehouse with Azure Synapse Analytics",
+      "excerpt": "Learn how to create a data warehouse in Azure Synapse Analytics in minutes to take advantage of massively parallel processing (MPP) and run complex queries at petabyte scale quickly",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-azure-sql-data-warehouse/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/design-azure-sql-data-warehouse/",
+      "length": "PT47M",
+      "ratings": {
+        "count": 2625,
+        "average": 4.5763807
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 119,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/design-azure-sql-data-warehouse-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
       ]
     },
     {
@@ -637,48 +613,6 @@
         "Compute",
         "Serverless",
         "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-design-azure-sql-data-warehouse.md",
-      "title": "Design a data warehouse with Azure Synapse Analytics",
-      "excerpt": "Learn how to create a data warehouse in Azure Synapse Analytics in minutes to take advantage of massively parallel processing (MPP) and run complex queries at petabyte scale quickly",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-azure-sql-data-warehouse/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/design-azure-sql-data-warehouse/",
-      "length": "PT47M",
-      "ratings": {
-        "count": 2624,
-        "average": 4.5762196
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 118,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/design-azure-sql-data-warehouse-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
       ]
     },
     {
@@ -970,8 +904,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/network-fundamentals/",
       "length": "PT47M",
       "ratings": {
-        "count": 2479,
-        "average": 4.6942315
+        "count": 2483,
+        "average": 4.694724
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1031,6 +965,42 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks.md",
+      "title": "Secure your Azure virtual machine disks",
+      "excerpt": "Explore the options for Azure disk encryption to encrypt OS and data disks on existing and new virtual machines.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/secure-your-azure-virtual-machine-disks/",
+      "length": "PT1H1M",
+      "ratings": {
+        "count": 2416,
+        "average": 4.652318
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 116,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Storage",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-create-long-running-serverless-workflow-with-durable-functions.md",
       "title": "Create a long-running serverless workflow with Durable Functions",
       "excerpt": "Learn how to orchestrate a long-running workflow as a set of activities using scalable and cost-effective Durable Functions.",
@@ -1038,8 +1008,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-long-running-serverless-workflow-with-durable-functions/",
       "length": "PT46M",
       "ratings": {
-        "count": 2473,
-        "average": 4.4565306
+        "count": 2474,
+        "average": 4.4567504
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1123,8 +1093,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/integrate-vnets-with-vnet-peering/",
       "length": "PT42M",
       "ratings": {
-        "count": 2360,
-        "average": 4.718644
+        "count": 2361,
+        "average": 4.71834
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1158,15 +1128,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks.md",
-      "title": "Secure your Azure virtual machine disks",
-      "excerpt": "Explore the options for Azure disk encryption to encrypt OS and data disks on existing and new virtual machines.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/secure-your-azure-virtual-machine-disks/",
-      "length": "PT1H1M",
+      "path": "_learning/courses/microsoft-learn-set-up-rules-take-actions-telemetry-data-azure-iot-central.md",
+      "title": "Set up rules and take action on telemetry data in Azure IoT Central",
+      "excerpt": "This module builds an IoT Central app to monitor and command a refrigerated truck. We build the IoT Central app from a downloaded JSON file, defining all the device capabilities. Source code is also downloaded for the device app. The focus of this module is on creating rules and actions, to respond to certain telemetry input. Rules and actions enable greater automation of an IoT Central system.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-set-up-rules-take-actions-telemetry-data-azure-iot-central/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/set-up-rules-take-actions-telemetry-data-azure-iot-central/",
+      "length": "PT46M",
       "ratings": {
-        "count": 2416,
-        "average": 4.652318
+        "count": 128,
+        "average": 4.6953125
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1181,16 +1151,24 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
       "heat": 115,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/iot/set-up-rules-take-actions-telemetry-data-azure-iot-central-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Compute",
-        "Storage",
-        "Management Tools"
+        "IoT",
+        "Mobile",
+        "Web"
       ]
     },
     {
@@ -1264,7 +1242,7 @@
           "path": "",
           "title": "Call an API from a Logic Apps workflow using a custom connector",
           "excerpt": "In this module, learn to create a Logic Apps custom connector to call an API from a Logic Apps workflow.",
-          "heat": 68,
+          "heat": 69,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/logic-apps-and-custom-connectors-social.png",
@@ -1401,8 +1379,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-users-and-groups-in-azure-active-directory/",
       "length": "PT41M",
       "ratings": {
-        "count": 2204,
-        "average": 4.7019057
+        "count": 2205,
+        "average": 4.701587
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1433,50 +1411,6 @@
       "topics": [
         "Azure",
         "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-m365-azure-migrate-replicate-virtual-servers.md",
-      "title": "Replicate and migrate virtual machine servers with Azure Migrate",
-      "excerpt": "Learn the process for replicating, testing, and finally migrating your virtual machines into production.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-azure-migrate-replicate-virtual-servers/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/m365-azure-migrate-replicate-virtual-servers/",
-      "length": "PT28M",
-      "ratings": {
-        "count": 50,
-        "average": 4.84
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 112,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/replicate-migrate-virtual-machine-servers-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Migration",
-        "Management Tools"
       ]
     },
     {
@@ -1672,120 +1606,6 @@
       "topics": [
         "Azure",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-protect-identity-and-access-with-azure-active-directory.md",
-      "title": "Protect identity and access with Azure Active Directory",
-      "excerpt": "The **Identity and Access learning path** covers the latest identity and access technologies, tools for strengthening authentication, and guidance on identity protection within your organization. Microsoft access and identity technologies enable you to secure your organization’s identity, whether it is on-premises or in the cloud, and empower your users to work securely from any location.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-protect-identity-and-access-with-azure-active-directory/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-protect-identity-and-access-with-azure-active-directory/",
-      "length": "PT2H52M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Define identity and access management in Azure Active Directory",
-          "excerpt": "Learn about identity and access management in Azure Active Directory and why identity is a core component of your organization’s security posture.",
-          "heat": 103,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/introduction-to-identity-and-access-management-in-microsoft-365-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Simplify access and identity provisioning with Azure Active Directory",
-          "excerpt": "Learn about identity governance and how you can safeguard access to your organization’s data.",
-          "heat": 93,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/simplify-access-and-identity-provisioning-with-microsoft-365-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Strengthen authentication (conditional access) with Azure Active Directory",
-          "excerpt": "Learn about modern authentication and the security benefits it provides to your organization, such as enabling multi-factor authentication and a passwordless environment.",
-          "heat": 86,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/strengthen-authentication-with-microsoft-365-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Secure administrator accounts in Azure Active Directory",
-          "excerpt": "Learn about securing administrator accounts through secure devices, dedicated administrator accounts, and just-in-time privileges.",
-          "heat": 81,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/use-microsoft-365-to-secure-administrator-access-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 111,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-identity-and-access-management-in-microsoft-365-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
       ]
     }
   ],

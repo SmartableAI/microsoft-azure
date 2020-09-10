@@ -4,6 +4,120 @@
   "page": 6,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-protect-identity-and-access-with-azure-active-directory.md",
+      "title": "Protect identity and access with Azure Active Directory",
+      "excerpt": "The **Identity and Access learning path** covers the latest identity and access technologies, tools for strengthening authentication, and guidance on identity protection within your organization. Microsoft access and identity technologies enable you to secure your organization’s identity, whether it is on-premises or in the cloud, and empower your users to work securely from any location.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-protect-identity-and-access-with-azure-active-directory/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-protect-identity-and-access-with-azure-active-directory/",
+      "length": "PT2H52M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Define identity and access management in Azure Active Directory",
+          "excerpt": "Learn about identity and access management in Azure Active Directory and why identity is a core component of your organization’s security posture.",
+          "heat": 104,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/introduction-to-identity-and-access-management-in-microsoft-365-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Simplify access and identity provisioning with Azure Active Directory",
+          "excerpt": "Learn about identity governance and how you can safeguard access to your organization’s data.",
+          "heat": 93,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/simplify-access-and-identity-provisioning-with-microsoft-365-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Strengthen authentication (conditional access) with Azure Active Directory",
+          "excerpt": "Learn about modern authentication and the security benefits it provides to your organization, such as enabling multi-factor authentication and a passwordless environment.",
+          "heat": 86,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/strengthen-authentication-with-microsoft-365-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Secure administrator accounts in Azure Active Directory",
+          "excerpt": "Learn about securing administrator accounts through secure devices, dedicated administrator accounts, and just-in-time privileges.",
+          "heat": 81,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/use-microsoft-365-to-secure-administrator-access-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 111,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-identity-and-access-management-in-microsoft-365-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-protect-identity-and-access-with-microsoft-365.md",
       "title": "Protect identity and access with Microsoft 365",
       "excerpt": "Identity &amp; access management is the foundation for a secure digital estate. The credentials that you issue to your users prove that they are who they claim to be and that they have permission to access your resources. Learn how to use Microsoft 365 to for authentication and authorization in your enterprise environment.",
@@ -30,7 +144,7 @@
           "path": "",
           "title": "Define identity and access management in Azure Active Directory",
           "excerpt": "Learn about identity and access management in Azure Active Directory and why identity is a core component of your organization’s security posture.",
-          "heat": 103,
+          "heat": 104,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/introduction-to-identity-and-access-management-in-microsoft-365-social.png",
@@ -159,6 +273,41 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-add-and-size-disks-in-azure-virtual-machines.md",
+      "title": "Add and size disks in Azure virtual machines",
+      "excerpt": "Learn about your virtual machine storage options and how to choose between standard and premium, managed and unmanaged disks for your Azure virtual machine.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-add-and-size-disks-in-azure-virtual-machines/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/add-and-size-disks-in-azure-virtual-machines/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 2085,
+        "average": 4.6633096
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 110,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-in-action.md",
       "title": "See Azure in action",
       "excerpt": "The demos in this module provide an opportunity to see Azure in action.",
@@ -203,15 +352,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-add-and-size-disks-in-azure-virtual-machines.md",
-      "title": "Add and size disks in Azure virtual machines",
-      "excerpt": "Learn about your virtual machine storage options and how to choose between standard and premium, managed and unmanaged disks for your Azure virtual machine.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-add-and-size-disks-in-azure-virtual-machines/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/add-and-size-disks-in-azure-virtual-machines/",
-      "length": "PT36M",
+      "path": "_learning/courses/microsoft-learn-microsoft-cloud-adoption-framework-for-azure-v1-1.md",
+      "title": "Microsoft Cloud Adoption Framework for Azure",
+      "excerpt": "Learn how to use the Cloud Adoption Framework to develop best practices for cloud adoption in real-world scenarios.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-microsoft-cloud-adoption-framework-for-azure-v1-1/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/microsoft-cloud-adoption-framework-for-azure/",
+      "length": "PT50M",
       "ratings": {
-        "count": 2085,
-        "average": 4.6633096
+        "count": 2049,
+        "average": 4.7452416
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -226,15 +375,21 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
-      "heat": 109,
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/microsoft-cloud-adoption-framework-for-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure",
-        "Compute",
-        "Management Tools"
+        "Azure"
       ]
     },
     {
@@ -271,47 +426,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-microsoft-cloud-adoption-framework-for-azure-v1-1.md",
-      "title": "Microsoft Cloud Adoption Framework for Azure",
-      "excerpt": "Learn how to use the Cloud Adoption Framework to develop best practices for cloud adoption in real-world scenarios.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-microsoft-cloud-adoption-framework-for-azure-v1-1/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/microsoft-cloud-adoption-framework-for-azure/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 2048,
-        "average": 4.745117
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 109,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/microsoft-cloud-adoption-framework-for-azure-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-app-service-scale-up-scale-out.md",
       "title": "Scale an App Service web app to efficiently meet demand with App Service scale up and scale out",
       "excerpt": "Learn how to respond to periods of increased activity by incrementally increasing the resources available and then freeing these resources when activity drops.",
@@ -319,8 +433,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/app-service-scale-up-scale-out/",
       "length": "PT46M",
       "ratings": {
-        "count": 2054,
-        "average": 4.553554
+        "count": 2056,
+        "average": 4.5515566
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -402,8 +516,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-security-baselines/",
       "length": "PT60M",
       "ratings": {
-        "count": 2040,
-        "average": 4.627941
+        "count": 2041,
+        "average": 4.6276336
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -433,6 +547,40 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-implement-message-workflows-with-service-bus.md",
+      "title": "Implement message-based communication workflows with Azure Service Bus",
+      "excerpt": "Discover how to write code in .NET applications using Azure Service Bus for communications that can handle high demand, low bandwidth, and hardware failures.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-message-workflows-with-service-bus/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/implement-message-workflows-with-service-bus/",
+      "length": "PT54M",
+      "ratings": {
+        "count": 1943,
+        "average": 4.646423
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 107,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Integration"
       ]
     },
     {
@@ -503,7 +651,7 @@
           "path": "",
           "title": "Design a data warehouse with Azure Synapse Analytics",
           "excerpt": "Learn how to create a data warehouse in Azure Synapse Analytics in minutes to take advantage of massively parallel processing (MPP) and run complex queries at petabyte scale quickly",
-          "heat": 118,
+          "heat": 119,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/data-ai/design-azure-sql-data-warehouse-badge-social.png",
@@ -577,40 +725,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-implement-message-workflows-with-service-bus.md",
-      "title": "Implement message-based communication workflows with Azure Service Bus",
-      "excerpt": "Discover how to write code in .NET applications using Azure Service Bus for communications that can handle high demand, low bandwidth, and hardware failures.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-message-workflows-with-service-bus/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/implement-message-workflows-with-service-bus/",
-      "length": "PT54M",
-      "ratings": {
-        "count": 1943,
-        "average": 4.646423
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 106,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Integration"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-import-data-into-asdw-with-polybase.md",
       "title": "Import data into Azure Synapse Analytics by using PolyBase",
       "excerpt": "Load petabytes of data into an Azure Synapse Analytics database in minutes by using PolyBase",
@@ -618,8 +732,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/import-data-into-asdw-with-polybase/",
       "length": "PT1H6M",
       "ratings": {
-        "count": 1956,
-        "average": 4.5593047
+        "count": 1957,
+        "average": 4.55953
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -901,6 +1015,48 @@
       "topics": [
         "Azure",
         "Networking"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-m365-identity-overview.md",
+      "title": "Define identity and access management in Azure Active Directory",
+      "excerpt": "Learn about identity and access management in Azure Active Directory and why identity is a core component of your organization’s security posture.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-identity-overview/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/m365-identity-overview/",
+      "length": "PT15M",
+      "ratings": {
+        "count": 1772,
+        "average": 4.719526
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 104,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-identity-and-access-management-in-microsoft-365-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
       ]
     },
     {
@@ -1305,48 +1461,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-m365-identity-overview.md",
-      "title": "Define identity and access management in Azure Active Directory",
-      "excerpt": "Learn about identity and access management in Azure Active Directory and why identity is a core component of your organization’s security posture.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-identity-overview/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/m365-identity-overview/",
-      "length": "PT15M",
-      "ratings": {
-        "count": 1771,
-        "average": 4.7193675
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 103,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-identity-and-access-management-in-microsoft-365-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-principles-cloud-computing-dynamics-365-deployment.md",
       "title": "Principles of cloud computing and deployment",
       "excerpt": "Principles of cloud computing and deployment",
@@ -1455,8 +1569,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/get-started-ai-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 1682,
-        "average": 4.725327
+        "count": 1685,
+        "average": 4.724629
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1487,104 +1601,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-large-scale-data-processing-with-azure-data-lake-storage-gen2.md",
-      "title": "Large-Scale Data Processing with Azure Data Lake Storage Gen2",
-      "excerpt": "In this learning path, you will see how Azure Data Lake Storage can make processing Big Data analytical solutions more efficient and how easy it is to set up. You will also explore how it fits into common architectures, as well as the different methods of uploading the data to the data store. You will finally examine the myriad of security features that will ensure your data is secure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-large-scale-data-processing-with-azure-data-lake-storage-gen2/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-large-scale-data-processing-with-azure-data-lake-storage-gen2/",
-      "length": "PT2H5M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Introduction to Azure Data Lake storage",
-          "excerpt": "Discover how Data Lake Storage provides a repository where you can upload and store unstructured data bringing new efficiencies to processing big data analytics.",
-          "heat": 101,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/data-ai/introduction-to-azure-data-lake-storage-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Upload data to Azure Data Lake Storage",
-          "excerpt": "Learn about creating an Azure Data Lake Storage account and uploading data to Data Lake Storage Gen 2 through the Azure Storage Explorer.",
-          "heat": 98,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/data-ai/upload-data-to-azure-data-lake-storage-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Secure your Azure Storage account",
-          "excerpt": "Learn how Azure Storage provides multilayered security to protect your data with access keys, secure networks, and Advanced Threat Protection monitoring.",
-          "heat": 173,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/data-ai/secure-azure-storage-account-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Storage"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 101,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/introduction-to-azure-data-lake-storage-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Storage",
-        "Compute"
       ]
     }
   ],

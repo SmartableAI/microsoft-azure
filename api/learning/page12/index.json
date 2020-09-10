@@ -4,6 +4,88 @@
   "page": 12,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-backup-restore-azure-sql.md",
+      "title": "Back up and restore your Azure SQL database",
+      "excerpt": "Protect the data in your Azure SQL database and recover from data loss or corruption with backup and restore.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-backup-restore-azure-sql/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/backup-restore-azure-sql/",
+      "length": "PT41M",
+      "ratings": {
+        "count": 573,
+        "average": 4.5898776
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 71,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/backup-restore-azure-sql-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-azure-linux.md",
+      "title": "Introduction to Linux on Azure",
+      "excerpt": "Discover the unique benefits of running Linux on Azure, and how to run Linux-based applications and workloads in the cloud with Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-linux/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-linux/",
+      "length": "PT16M",
+      "ratings": {
+        "count": 546,
+        "average": 4.776557
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 71,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-linux-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-run-web-app-background-task-with-webjobs.md",
       "title": "Run a background task in an App Service Web App with WebJobs",
       "excerpt": "In this module, we'll guide you through creating a WebJob in the same project as an existing Web App and automating tasks with WebJobs.",
@@ -170,8 +252,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/design-a-geographically-distributed-application/",
       "length": "PT34M",
       "ratings": {
-        "count": 526,
-        "average": 4.6577945
+        "count": 527,
+        "average": 4.658444
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -207,8 +289,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-roles-responsibilities-world-of-data/",
       "length": "PT17M",
       "ratings": {
-        "count": 522,
-        "average": 4.8065133
+        "count": 524,
+        "average": 4.7996182
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -289,8 +371,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/work-with-mutable-and-partial-data-in-a-redis-cache/",
       "length": "PT1H5M",
       "ratings": {
-        "count": 530,
-        "average": 4.6132073
+        "count": 531,
+        "average": 4.613936
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -747,8 +829,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/characterize-devops-continous-collaboration-improvement/",
       "length": "PT17M",
       "ratings": {
-        "count": 518,
-        "average": 4.6640925
+        "count": 522,
+        "average": 4.662835
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -848,6 +930,50 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-logic-apps-and-custom-connectors.md",
+      "title": "Call an API from a Logic Apps workflow using a custom connector",
+      "excerpt": "In this module, learn to create a Logic Apps custom connector to call an API from a Logic Apps workflow.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-logic-apps-and-custom-connectors/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/logic-apps-and-custom-connectors/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 495,
+        "average": 4.569697
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 69,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/logic-apps-and-custom-connectors-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Blockchain",
+        "Integration"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-manage-release-cadence.md",
       "title": "Manage release cadence in Azure Pipelines by using deployment patterns",
       "excerpt": "Choose and implement a deployment pattern that helps you smoothly roll out new application features to your users.",
@@ -855,8 +981,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/manage-release-cadence/",
       "length": "PT60M",
       "ratings": {
-        "count": 507,
-        "average": 4.7061143
+        "count": 508,
+        "average": 4.7047243
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1379,50 +1505,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-logic-apps-and-custom-connectors.md",
-      "title": "Call an API from a Logic Apps workflow using a custom connector",
-      "excerpt": "In this module, learn to create a Logic Apps custom connector to call an API from a Logic Apps workflow.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-logic-apps-and-custom-connectors/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/logic-apps-and-custom-connectors/",
-      "length": "PT40M",
-      "ratings": {
-        "count": 495,
-        "average": 4.569697
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 68,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/logic-apps-and-custom-connectors-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Blockchain",
-        "Integration"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-building-open-source-software-oss-analytical-solutions-with-azure-hdinsight.md",
       "title": "Building Open Source Software (OSS) Analytical Solutions with Azure HDInsight",
       "excerpt": "In this learning path, the learner will be introduced to HDInsight and how to apply this technology to solve a range of real world challenges.",
@@ -1809,89 +1891,6 @@
         "Azure",
         "Networking",
         "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-export-data-with-azure-import-export.md",
-      "title": "Export large amounts of data from Azure by using Azure Import/Export",
-      "excerpt": "Learn how and when to use Azure Import/Export to copy large amounts of data from Azure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-export-data-with-azure-import-export/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/export-data-with-azure-import-export/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 438,
-        "average": 4.6849313
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 67,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/export-data-with-azure-import-export-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-introduction-to-git.md",
-      "title": "Introduction to Git",
-      "excerpt": "Use Git to track changes and collaborate with other developers",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-git/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-git/",
-      "length": "PT1H15M",
-      "ratings": {
-        "count": 422,
-        "average": 4.7369666
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 67,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-git-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],

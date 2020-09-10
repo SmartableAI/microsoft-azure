@@ -4,6 +4,48 @@
   "page": 22,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-azure-sql-secure-data.md",
+      "title": "Secure your data with Azure SQL",
+      "excerpt": "Secure your data with Azure SQL",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-sql-secure-data/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/azure-sql-secure-data/",
+      "length": "PT1H24M",
+      "ratings": {
+        "count": 42,
+        "average": 4.6666665
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-sql-secure-data-social.png",
+          "width": 642,
+          "height": 325,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-bash-introduction.md",
       "title": "Introduction to Bash",
       "excerpt": "Learn how to use Bash to manage IT infrastructure.",
@@ -1186,47 +1228,6 @@
       "topics": [
         "Azure",
         "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-gather-metrics-from-blob-storage.md",
-      "title": "Gather metrics from your Azure Blob Storage containers",
-      "excerpt": "Find out how to use Azure Storage Analytics to track the performance of your Blob storage containers and to display that Blob performance in your dashboard.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-gather-metrics-from-blob-storage/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/gather-metrics-blob-storage/",
-      "length": "PT1H26M",
-      "ratings": {
-        "count": 34,
-        "average": 4.382353
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/gather-metrics-from-blob-storage-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],

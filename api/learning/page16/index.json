@@ -4,6 +4,48 @@
   "page": 16,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-introduction-open-source-analytics-offering.md",
+      "title": "Introduction to the Open source Analytics Offering",
+      "excerpt": "Introduction to the Open source Analytics Offering",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-open-source-analytics-offering/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/intro-open-source-analytics-offering/",
+      "length": "PT31M",
+      "ratings": {
+        "count": 198,
+        "average": 4.6010103
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-the-open-source-analytics-offering-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-introduction-to-classification.md",
       "title": "Predict categories with machine learning classification",
       "excerpt": "Use machine learning models to categorize data. Build a logistic regression model and support vector machine models to predict categories like win/loss and tree species.",
@@ -329,7 +371,7 @@
           "path": "",
           "title": "Explore relational data offerings in Azure",
           "excerpt": "Explore relational data offerings in Azure",
-          "heat": 57,
+          "heat": 58,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/explore-relational-data-offerings-azure-social.png",
@@ -989,47 +1031,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/examine-components-of-modern-data-warehouse-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-explore-relational-data-offerings.md",
-      "title": "Explore relational data offerings in Azure",
-      "excerpt": "Explore relational data offerings in Azure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-relational-data-offerings/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/explore-relational-data-offerings/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 185,
-        "average": 4.783784
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-relational-data-offerings-azure-social.png",
           "width": 640,
           "height": 320,
           "isCached": true

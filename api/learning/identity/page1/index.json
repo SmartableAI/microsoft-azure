@@ -114,8 +114,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-security-in-azure/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 43160,
-        "average": 4.7023635
+        "count": 43167,
+        "average": 4.7023654
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -178,7 +178,7 @@
           "path": "",
           "title": "Introduction to Azure virtual machines",
           "excerpt": "Learn about the decisions you make before creating a virtual machine, the options to create and manage the VM, and the extensions and services you use to manage your VM.",
-          "heat": 212,
+          "heat": 213,
           "type": "course",
           "topics": [
             "Azure",
@@ -207,7 +207,7 @@
         }
       ],
       "size": 9,
-      "heat": 254,
+      "heat": 255,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/intro-to-governance-social.png",
@@ -267,7 +267,7 @@
           "path": "",
           "title": "Introduction to Azure virtual machines",
           "excerpt": "Learn about the decisions you make before creating a virtual machine, the options to create and manage the VM, and the extensions and services you use to manage your VM.",
-          "heat": 212,
+          "heat": 213,
           "type": "course",
           "topics": [
             "Azure",
@@ -296,7 +296,7 @@
         }
       ],
       "size": 9,
-      "heat": 254,
+      "heat": 255,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/intro-to-governance-social.png",
@@ -326,8 +326,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/secure-azure-resources-with-rbac/",
       "length": "PT37M",
       "ratings": {
-        "count": 4479,
-        "average": 4.645903
+        "count": 4480,
+        "average": 4.6459823
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -962,8 +962,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-users-and-groups-in-azure-active-directory/",
       "length": "PT41M",
       "ratings": {
-        "count": 2204,
-        "average": 4.7019057
+        "count": 2205,
+        "average": 4.701587
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1023,7 +1023,7 @@
           "path": "",
           "title": "Define identity and access management in Azure Active Directory",
           "excerpt": "Learn about identity and access management in Azure Active Directory and why identity is a core component of your organization’s security posture.",
-          "heat": 103,
+          "heat": 104,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/introduction-to-identity-and-access-management-in-microsoft-365-social.png",
@@ -1137,7 +1137,7 @@
           "path": "",
           "title": "Define identity and access management in Azure Active Directory",
           "excerpt": "Learn about identity and access management in Azure Active Directory and why identity is a core component of your organization’s security posture.",
-          "heat": 103,
+          "heat": 104,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/introduction-to-identity-and-access-management-in-microsoft-365-social.png",
@@ -1274,8 +1274,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/m365-identity-overview/",
       "length": "PT15M",
       "ratings": {
-        "count": 1771,
-        "average": 4.7193675
+        "count": 1772,
+        "average": 4.719526
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1292,7 +1292,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 103,
+      "heat": 104,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/introduction-to-identity-and-access-management-in-microsoft-365-social.png",
@@ -1482,6 +1482,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-secure-app-with-oidc-and-azure-ad.md",
+      "title": "Secure your application by using OpenID Connect and Azure AD",
+      "excerpt": "In this module, you will learn how to enable users to authenticate in multiple systems by using their Azure AD identities.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-app-with-oidc-and-azure-ad/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/secure-app-with-oidc-and-azure-ad/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 1325,
+        "average": 4.615849
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 93,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/secure-app-with-oidc-and-azure-ad-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-azure-ad.md",
       "title": "Secure your identities by using Azure Active Directory",
       "excerpt": "Use Azure Active Directory to you secure your internal, external, and customer identities.",
@@ -1489,8 +1531,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-ad/",
       "length": "PT27M",
       "ratings": {
-        "count": 1297,
-        "average": 4.687741
+        "count": 1298,
+        "average": 4.687211
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1531,8 +1573,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/manage-subscription-access-azure-rbac/",
       "length": "PT21M",
       "ratings": {
-        "count": 1283,
-        "average": 4.657833
+        "count": 1284,
+        "average": 4.6580997
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1558,48 +1600,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-secure-app-with-oidc-and-azure-ad.md",
-      "title": "Secure your application by using OpenID Connect and Azure AD",
-      "excerpt": "In this module, you will learn how to enable users to authenticate in multiple systems by using their Azure AD identities.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-app-with-oidc-and-azure-ad/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/secure-app-with-oidc-and-azure-ad/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 1325,
-        "average": 4.615849
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 92,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-app-with-oidc-and-azure-ad-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-secure-aad-users-with-mfa.md",
       "title": "Secure Azure Active Directory users with Multi-Factor Authentication",
       "excerpt": "Learn how to use multi-factor authentication with Azure AD to harden your user accounts.",
@@ -1607,8 +1607,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/secure-aad-users-with-mfa/",
       "length": "PT38M",
       "ratings": {
-        "count": 1254,
-        "average": 4.6794257
+        "count": 1255,
+        "average": 4.6796813
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1692,8 +1692,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/add-custom-domain-name-azure-active-directory/",
       "length": "PT18M",
       "ratings": {
-        "count": 769,
-        "average": 4.6605983
+        "count": 770,
+        "average": 4.661039
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1734,8 +1734,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/manage-device-identity-ad-join/",
       "length": "PT25M",
       "ratings": {
-        "count": 778,
-        "average": 4.570694
+        "count": 779,
+        "average": 4.571245
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2079,8 +2079,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/monitor-report-aad-security-events/",
       "length": "PT35M",
       "ratings": {
-        "count": 125,
-        "average": 4.616
+        "count": 126,
+        "average": 4.611111
       },
       "provider": {
         "name": "Microsoft Learn",

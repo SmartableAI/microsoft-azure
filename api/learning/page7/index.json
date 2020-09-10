@@ -4,6 +4,104 @@
   "page": 7,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-large-scale-data-processing-with-azure-data-lake-storage-gen2.md",
+      "title": "Large-Scale Data Processing with Azure Data Lake Storage Gen2",
+      "excerpt": "In this learning path, you will see how Azure Data Lake Storage can make processing Big Data analytical solutions more efficient and how easy it is to set up. You will also explore how it fits into common architectures, as well as the different methods of uploading the data to the data store. You will finally examine the myriad of security features that will ensure your data is secure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-large-scale-data-processing-with-azure-data-lake-storage-gen2/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-large-scale-data-processing-with-azure-data-lake-storage-gen2/",
+      "length": "PT2H5M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Introduction to Azure Data Lake storage",
+          "excerpt": "Discover how Data Lake Storage provides a repository where you can upload and store unstructured data bringing new efficiencies to processing big data analytics.",
+          "heat": 101,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/data-ai/introduction-to-azure-data-lake-storage-badge-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Upload data to Azure Data Lake Storage",
+          "excerpt": "Learn about creating an Azure Data Lake Storage account and uploading data to Data Lake Storage Gen 2 through the Azure Storage Explorer.",
+          "heat": 98,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/data-ai/upload-data-to-azure-data-lake-storage-badge-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Secure your Azure Storage account",
+          "excerpt": "Learn how Azure Storage provides multilayered security to protect your data with access keys, secure networks, and Advanced Threat Protection monitoring.",
+          "heat": 173,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/data-ai/secure-azure-storage-account-badge-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Storage"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 101,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/introduction-to-azure-data-lake-storage-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Storage",
+        "Compute"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-caching-and-performance-azure-storage-and-disks.md",
       "title": "Caching and performance in Azure storage disks",
       "excerpt": "Learn about Azure VM disk performance and how to enable caching to help optimize read and write access to storage.",
@@ -89,8 +187,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/develop-test-deploy-azure-functions-with-visual-studio/",
       "length": "PT43M",
       "ratings": {
-        "count": 1688,
-        "average": 4.60545
+        "count": 1689,
+        "average": 4.605684
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -166,8 +264,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/host-build-agent/",
       "length": "PT59M",
       "ratings": {
-        "count": 1680,
-        "average": 4.707143
+        "count": 1681,
+        "average": 4.7067223
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -249,8 +347,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/network-fundamentals-2/",
       "length": "PT36M",
       "ratings": {
-        "count": 1691,
-        "average": 4.6859846
+        "count": 1694,
+        "average": 4.6865406
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1904,137 +2002,6 @@
       "topics": [
         "Azure",
         "Compute"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-build-great-solutions-with-the-microsoft-azure-well-architected-framework.md",
-      "title": "Build great solutions with the Microsoft Azure Well-Architected Framework",
-      "excerpt": "Learn how to design and build secure, scalable, high-performing solutions in Azure using the pillars of the Microsoft Azure Well-Architected Framework.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-build-great-solutions-with-the-microsoft-azure-well-architected-framework/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-build-great-solutions-with-the-microsoft-azure-well-architected-framework/",
-      "length": "PT5H38M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Introduction to the Microsoft Azure Well-Architected Framework",
-          "excerpt": "Learn how using key principles throughout your cloud architecture can help you design and build a solid architectural foundation that you can continuously improve.",
-          "heat": 80,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-introduction-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Microsoft Azure Well-Architected Framework - Cost optimization",
-          "excerpt": "Learn how to use the cost optimization pillar of the Microsoft Azure Well-Architected Framework to design a cloud-based architecture that is efficient, eliminates waste, and gives you full visibility into where your money is spent on cloud resources.",
-          "heat": 80,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-cost-optimization-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "DevOps"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Microsoft Azure Well-Architected Framework - Operational excellence",
-          "excerpt": "Learn how to design an Azure architecture that uses modern practices and gives you full visibility into what's happening in your environment.",
-          "heat": 65,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-operational-excellence-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Microsoft Azure Well-Architected Framework - Performance efficiency",
-          "excerpt": "Learn how to adjust your capacity based on workload and how to optimize network performance, storage, and database performance.",
-          "heat": 64,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-performance-efficiency-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Networking",
-            "Web",
-            "Compute",
-            "Databases",
-            "Serverless",
-            "Containers",
-            "DevOps",
-            "Management Tools"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 96,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-introduction-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage",
-        "Databases",
-        "Management Tools",
-        "DevOps",
-        "Networking",
-        "Web",
-        "Identity",
-        "Compute",
-        "Migration"
       ]
     }
   ],

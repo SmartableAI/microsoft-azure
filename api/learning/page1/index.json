@@ -185,8 +185,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/principles-cloud-computing/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 162372,
-        "average": 4.771956
+        "count": 162401,
+        "average": 4.771935
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -219,8 +219,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-an-azure-account/",
       "length": "PT39M",
       "ratings": {
-        "count": 129439,
-        "average": 4.6957717
+        "count": 129457,
+        "average": 4.6957984
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -654,8 +654,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/welcome-to-azure/",
       "length": "PT36M",
       "ratings": {
-        "count": 64714,
-        "average": 4.799765
+        "count": 64718,
+        "average": 4.7997622
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -688,8 +688,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-azure-infrastructure/",
       "length": "PT45M",
       "ratings": {
-        "count": 65410,
-        "average": 4.7125516
+        "count": 65420,
+        "average": 4.7125344
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -721,8 +721,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-compute/",
       "length": "PT38M",
       "ratings": {
-        "count": 61565,
-        "average": 4.708828
+        "count": 61577,
+        "average": 4.70882
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -761,8 +761,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-data-in-azure/",
       "length": "PT25M",
       "ratings": {
-        "count": 53499,
-        "average": 4.73321
+        "count": 53506,
+        "average": 4.7332077
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -779,7 +779,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 305,
+      "heat": 306,
       "type": "course",
       "price": "Free",
       "topics": [
@@ -796,8 +796,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/tour-azure-portal/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 49096,
-        "average": 4.7067175
+        "count": 49100,
+        "average": 4.706721
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -823,6 +823,40 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-intro-to-azure-networking.md",
+      "title": "Core Cloud Services - Azure networking options",
+      "excerpt": "Get acquainted with Azure networking basics to find out how Azure networking helps improve resiliency and reduce latency.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-networking/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-networking/",
+      "length": "PT28M",
+      "ratings": {
+        "count": 42281,
+        "average": 4.764102
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 290,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-introduction-to-security.md",
       "title": "Security, responsibility, and trust in Azure",
       "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
@@ -830,8 +864,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-security-in-azure/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 43160,
-        "average": 4.7023635
+        "count": 43167,
+        "average": 4.7023654
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -857,40 +891,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-networking.md",
-      "title": "Core Cloud Services - Azure networking options",
-      "excerpt": "Get acquainted with Azure networking basics to find out how Azure networking helps improve resiliency and reduce latency.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-networking/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-networking/",
-      "length": "PT28M",
-      "ratings": {
-        "count": 42274,
-        "average": 4.7641106
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 289,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-predict-costs-and-optimize-spending.md",
       "title": "Predict costs and optimize spending for Azure",
       "excerpt": "Discover how to use Azure pricing calculator, Azure Cost Management, and Azure Advisor to predict and manage cloud expenses.",
@@ -898,8 +898,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/predict-costs-and-optimize-spending/",
       "length": "PT1H14M",
       "ratings": {
-        "count": 39169,
-        "average": 4.71434
+        "count": 39176,
+        "average": 4.714289
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -916,7 +916,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 283,
+      "heat": 284,
       "type": "course",
       "price": "Free",
       "topics": [
@@ -932,8 +932,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/control-and-organize-with-azure-resource-manager/",
       "length": "PT46M",
       "ratings": {
-        "count": 37269,
-        "average": 4.7123613
+        "count": 37273,
+        "average": 4.7123656
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -966,8 +966,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-governance/",
       "length": "PT46M",
       "ratings": {
-        "count": 36985,
-        "average": 4.6286063
+        "count": 36992,
+        "average": 4.628649
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1030,7 +1030,7 @@
           "path": "",
           "title": "Introduction to Azure virtual machines",
           "excerpt": "Learn about the decisions you make before creating a virtual machine, the options to create and manage the VM, and the extensions and services you use to manage your VM.",
-          "heat": 212,
+          "heat": 213,
           "type": "course",
           "topics": [
             "Azure",
@@ -1059,7 +1059,7 @@
         }
       ],
       "size": 9,
-      "heat": 254,
+      "heat": 255,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/intro-to-governance-social.png",
@@ -1137,7 +1137,7 @@
           "path": "",
           "title": "Introduction to Azure virtual machines",
           "excerpt": "Learn about the decisions you make before creating a virtual machine, the options to create and manage the VM, and the extensions and services you use to manage your VM.",
-          "heat": 212,
+          "heat": 213,
           "type": "course",
           "topics": [
             "Azure",
@@ -1158,7 +1158,7 @@
         }
       ],
       "size": 13,
-      "heat": 254,
+      "heat": 255,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-linux-social.png",
@@ -1211,7 +1211,7 @@
           "path": "",
           "title": "Introduction to Azure virtual machines",
           "excerpt": "Learn about the decisions you make before creating a virtual machine, the options to create and manage the VM, and the extensions and services you use to manage your VM.",
-          "heat": 212,
+          "heat": 213,
           "type": "course",
           "topics": [
             "Azure",
@@ -1240,7 +1240,7 @@
         }
       ],
       "size": 9,
-      "heat": 254,
+      "heat": 255,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/intro-to-governance-social.png",
@@ -1289,7 +1289,7 @@
           "path": "",
           "title": "Introduction to Azure virtual machines",
           "excerpt": "Learn about the decisions you make before creating a virtual machine, the options to create and manage the VM, and the extensions and services you use to manage your VM.",
-          "heat": 212,
+          "heat": 213,
           "type": "course",
           "topics": [
             "Azure",
@@ -1387,7 +1387,7 @@
           "path": "",
           "title": "Introduction to Azure virtual machines",
           "excerpt": "Learn about the decisions you make before creating a virtual machine, the options to create and manage the VM, and the extensions and services you use to manage your VM.",
-          "heat": 212,
+          "heat": 213,
           "type": "course",
           "topics": [
             "Azure",
@@ -1485,7 +1485,7 @@
           "path": "",
           "title": "Introduction to Azure virtual machines",
           "excerpt": "Learn about the decisions you make before creating a virtual machine, the options to create and manage the VM, and the extensions and services you use to manage your VM.",
-          "heat": 212,
+          "heat": 213,
           "type": "course",
           "topics": [
             "Azure",
@@ -1581,7 +1581,7 @@
           "path": "",
           "title": "Introduction to Azure virtual machines",
           "excerpt": "Learn about the decisions you make before creating a virtual machine, the options to create and manage the VM, and the extensions and services you use to manage your VM.",
-          "heat": 212,
+          "heat": 213,
           "type": "course",
           "topics": [
             "Azure",
@@ -1658,8 +1658,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-virtual-machines/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 13746,
-        "average": 4.684708
+        "count": 13751,
+        "average": 4.684823
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1676,7 +1676,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 212,
+      "heat": 213,
       "type": "course",
       "price": "Free",
       "topics": [
@@ -1754,7 +1754,7 @@
           "path": "",
           "title": "Add and size disks in Azure virtual machines",
           "excerpt": "Learn about your virtual machine storage options and how to choose between standard and premium, managed and unmanaged disks for your Azure virtual machine.",
-          "heat": 109,
+          "heat": 110,
           "type": "course",
           "topics": [
             "Azure",
@@ -1852,7 +1852,7 @@
           "path": "",
           "title": "Add and size disks in Azure virtual machines",
           "excerpt": "Learn about your virtual machine storage options and how to choose between standard and premium, managed and unmanaged disks for your Azure virtual machine.",
-          "heat": 109,
+          "heat": 110,
           "type": "course",
           "topics": [
             "Azure",

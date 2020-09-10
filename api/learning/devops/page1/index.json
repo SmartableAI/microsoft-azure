@@ -240,7 +240,7 @@
           "path": "",
           "title": "Introduction to Azure virtual machines",
           "excerpt": "Learn about the decisions you make before creating a virtual machine, the options to create and manage the VM, and the extensions and services you use to manage your VM.",
-          "heat": 212,
+          "heat": 213,
           "type": "course",
           "topics": [
             "Azure",
@@ -338,7 +338,7 @@
           "path": "",
           "title": "Introduction to Azure virtual machines",
           "excerpt": "Learn about the decisions you make before creating a virtual machine, the options to create and manage the VM, and the extensions and services you use to manage your VM.",
-          "heat": 212,
+          "heat": 213,
           "type": "course",
           "topics": [
             "Azure",
@@ -436,7 +436,7 @@
           "path": "",
           "title": "Assess your existing software development process",
           "excerpt": "Find out how to assess efficiency with a value stream map to help you examine your existing release processes and technologies.",
-          "heat": 167,
+          "heat": 168,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-devops/assess-your-software-development-process-social.png",
@@ -490,7 +490,7 @@
         }
       ],
       "size": 4,
-      "heat": 200,
+      "heat": 201,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/azure-devops/assess-your-software-development-process-social.png",
@@ -532,7 +532,7 @@
           "path": "",
           "title": "Assess your existing software development process",
           "excerpt": "Find out how to assess efficiency with a value stream map to help you examine your existing release processes and technologies.",
-          "heat": 167,
+          "heat": 168,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-devops/assess-your-software-development-process-social.png",
@@ -586,7 +586,7 @@
         }
       ],
       "size": 4,
-      "heat": 200,
+      "heat": 201,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/azure-devops/assess-your-software-development-process-social.png",
@@ -660,7 +660,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 167,
+      "heat": 168,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/azure-devops/assess-your-software-development-process-social.png",
@@ -702,7 +702,7 @@
           "path": "",
           "title": "Create a build pipeline with Azure Pipelines",
           "excerpt": "Set up a continuous integration (CI) pipeline that automates the process of building your application.",
-          "heat": 148,
+          "heat": 149,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-build-pipeline-azure-pipelines-social.png",
@@ -815,7 +815,7 @@
           "path": "",
           "title": "Create a build pipeline with Azure Pipelines",
           "excerpt": "Set up a continuous integration (CI) pipeline that automates the process of building your application.",
-          "heat": 148,
+          "heat": 149,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-build-pipeline-azure-pipelines-social.png",
@@ -909,8 +909,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/choose-an-agile-approach/",
       "length": "PT40M",
       "ratings": {
-        "count": 5183,
-        "average": 4.7455144
+        "count": 5184,
+        "average": 4.7453704
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -969,7 +969,7 @@
           "path": "",
           "title": "Create a build pipeline with Azure Pipelines",
           "excerpt": "Set up a continuous integration (CI) pipeline that automates the process of building your application.",
-          "heat": 148,
+          "heat": 149,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-build-pipeline-azure-pipelines-social.png",
@@ -1066,8 +1066,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-a-build-pipeline/",
       "length": "PT1H20M",
       "ratings": {
-        "count": 4667,
-        "average": 4.7405186
+        "count": 4669,
+        "average": 4.7404156
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1084,7 +1084,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 148,
+      "heat": 149,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-build-pipeline-azure-pipelines-social.png",
@@ -1107,8 +1107,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/implement-code-workflow/",
       "length": "PT1H27M",
       "ratings": {
-        "count": 3433,
-        "average": 4.764929
+        "count": 3434,
+        "average": 4.764997
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1178,6 +1178,40 @@
       "type": "course",
       "price": "Free",
       "topics": [
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-provision-infrastructure-azure-pipelines.md",
+      "title": "Provision infrastructure in Azure Pipelines",
+      "excerpt": "Learn how infrastructure as code enables you to describe and automatically provision the infrastructure that you need for your application.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-provision-infrastructure-azure-pipelines/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/provision-infrastructure-azure-pipelines/",
+      "length": "PT2H2M",
+      "ratings": {
+        "count": 360,
+        "average": 4.6583333
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 124,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
         "DevOps"
       ]
     },
@@ -1629,8 +1663,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/host-build-agent/",
       "length": "PT59M",
       "ratings": {
-        "count": 1680,
-        "average": 4.707143
+        "count": 1681,
+        "average": 4.7067223
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2099,6 +2133,242 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-deploy-applications-with-azure-devops-learning-path.md",
+      "title": "Deploy applications with Azure DevOps learning path",
+      "excerpt": "Learn how to configure release pipelines that continuously build, test, and deploy your applications.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-deploy-applications-with-azure-devops-learning-path/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-deploy-applications-with-azure-devops-learning-path/",
+      "length": "PT8H51M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Create a release pipeline in Azure Pipelines",
+          "excerpt": "Set up a continuous delivery (CD) pipeline that automates the process of deploying your application.",
+          "heat": 83,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-release-pipeline-with-azure-pipelines-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "DevOps"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Create a multistage pipeline by using Azure Pipelines",
+          "excerpt": "Design and create a realistic release pipeline that promotes changes to various testing and staging environments.",
+          "heat": 79,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-multi-stage-pipeline-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "DevOps"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Manage database changes in Azure Pipelines",
+          "excerpt": "Use a release approval in Azure Pipelines to help coordinate database schema changes between developers and database administrators.",
+          "heat": 72,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-database-changes-in-azure-pipelines-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "DevOps",
+            "Databases"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Run functional tests in Azure Pipelines",
+          "excerpt": "Run Selenium UI tests, a form of functional testing, in Azure Pipelines.",
+          "heat": 73,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/run-functional-tests-azure-pipelines-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "DevOps"
+          ]
+        }
+      ],
+      "size": 9,
+      "heat": 94,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-release-pipeline-with-azure-pipelines-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-deploy-applications-with-azure-devops.md",
+      "title": "Deploy applications with Azure DevOps",
+      "excerpt": "Learn how to configure release pipelines that continuously build, test, and deploy your applications.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-deploy-applications-with-azure-devops/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-deploy-applications-with-azure-devops/",
+      "length": "PT8H51M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Create a release pipeline in Azure Pipelines",
+          "excerpt": "Set up a continuous delivery (CD) pipeline that automates the process of deploying your application.",
+          "heat": 83,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-release-pipeline-with-azure-pipelines-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "DevOps"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Create a multistage pipeline by using Azure Pipelines",
+          "excerpt": "Design and create a realistic release pipeline that promotes changes to various testing and staging environments.",
+          "heat": 79,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-multi-stage-pipeline-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "DevOps"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Manage database changes in Azure Pipelines",
+          "excerpt": "Use a release approval in Azure Pipelines to help coordinate database schema changes between developers and database administrators.",
+          "heat": 72,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-database-changes-in-azure-pipelines-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "DevOps",
+            "Databases"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Run functional tests in Azure Pipelines",
+          "excerpt": "Run Selenium UI tests, a form of functional testing, in Azure Pipelines.",
+          "heat": 73,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/run-functional-tests-azure-pipelines-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "DevOps"
+          ]
+        }
+      ],
+      "size": 9,
+      "heat": 94,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-release-pipeline-with-azure-pipelines-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-az-400-facilitate-communication-and-collaboration.md",
       "title": "AZ-400: Facilitate communication and collaboration",
       "excerpt": "Learn how DevOps capabilities such as continuous planning and continuous collaboration help you communicate deployment and release information with business stakeholders.\nTake this learning path to help prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions.",
@@ -2178,286 +2448,6 @@
       "topics": [
         "Azure",
         "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-deploy-applications-with-azure-devops-learning-path.md",
-      "title": "Deploy applications with Azure DevOps learning path",
-      "excerpt": "Learn how to configure release pipelines that continuously build, test, and deploy your applications.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-deploy-applications-with-azure-devops-learning-path/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-deploy-applications-with-azure-devops-learning-path/",
-      "length": "PT8H51M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Create a release pipeline in Azure Pipelines",
-          "excerpt": "Set up a continuous delivery (CD) pipeline that automates the process of deploying your application.",
-          "heat": 83,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-release-pipeline-with-azure-pipelines-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "DevOps"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Create a multistage pipeline by using Azure Pipelines",
-          "excerpt": "Design and create a realistic release pipeline that promotes changes to various testing and staging environments.",
-          "heat": 78,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-multi-stage-pipeline-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "DevOps"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Manage database changes in Azure Pipelines",
-          "excerpt": "Use a release approval in Azure Pipelines to help coordinate database schema changes between developers and database administrators.",
-          "heat": 72,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-database-changes-in-azure-pipelines-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "DevOps",
-            "Databases"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Run functional tests in Azure Pipelines",
-          "excerpt": "Run Selenium UI tests, a form of functional testing, in Azure Pipelines.",
-          "heat": 73,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/run-functional-tests-azure-pipelines-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "DevOps"
-          ]
-        }
-      ],
-      "size": 9,
-      "heat": 93,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-release-pipeline-with-azure-pipelines-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-deploy-applications-with-azure-devops.md",
-      "title": "Deploy applications with Azure DevOps",
-      "excerpt": "Learn how to configure release pipelines that continuously build, test, and deploy your applications.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-deploy-applications-with-azure-devops/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-deploy-applications-with-azure-devops/",
-      "length": "PT8H51M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Create a release pipeline in Azure Pipelines",
-          "excerpt": "Set up a continuous delivery (CD) pipeline that automates the process of deploying your application.",
-          "heat": 83,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-release-pipeline-with-azure-pipelines-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "DevOps"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Create a multistage pipeline by using Azure Pipelines",
-          "excerpt": "Design and create a realistic release pipeline that promotes changes to various testing and staging environments.",
-          "heat": 78,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-multi-stage-pipeline-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "DevOps"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Manage database changes in Azure Pipelines",
-          "excerpt": "Use a release approval in Azure Pipelines to help coordinate database schema changes between developers and database administrators.",
-          "heat": 72,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-database-changes-in-azure-pipelines-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "DevOps",
-            "Databases"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Run functional tests in Azure Pipelines",
-          "excerpt": "Run Selenium UI tests, a form of functional testing, in Azure Pipelines.",
-          "heat": 73,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/run-functional-tests-azure-pipelines-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "DevOps"
-          ]
-        }
-      ],
-      "size": 9,
-      "heat": 93,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-release-pipeline-with-azure-pipelines-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-design-monitoring-strategy-on-azure.md",
-      "title": "Design a holistic monitoring strategy on Azure",
-      "excerpt": "Use monitoring services on Azure to bring operational excellence to your applications and infrastructure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-monitoring-strategy-on-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/design-monitoring-strategy-on-azure/",
-      "length": "PT57M",
-      "ratings": {
-        "count": 1247,
-        "average": 4.57498
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 90,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/design-monitoring-strategy-on-azure-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Management Tools",
-        "Security"
       ]
     }
   ],

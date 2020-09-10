@@ -4,12 +4,16 @@
   "page": 13,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-develop-iot-solutions-with-azure-iot-central.md",
-      "title": "Develop IoT solutions with Azure IoT Central",
-      "excerpt": "Interested in building end to end IoT solutions with Azure IoT Central, but aren't quite sure what it can do for you? This path is the place to start.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-develop-iot-solutions-with-azure-iot-central/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-develop-iot-solutions-with-azure-iot-central/",
-      "length": "PT2H58M",
+      "path": "_learning/courses/microsoft-learn-export-data-with-azure-import-export.md",
+      "title": "Export large amounts of data from Azure by using Azure Import/Export",
+      "excerpt": "Learn how and when to use Azure Import/Export to copy large amounts of data from Azure",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-export-data-with-azure-import-export/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/export-data-with-azure-import-export/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 438,
+        "average": 4.6849313
+      },
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -23,108 +27,63 @@
         ]
       },
       "levels": [
-        "Beginner",
-        "Intermediate"
+        "Beginner"
       ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Create your first Azure IoT Central app",
-          "excerpt": "This module builds an IoT Central app to monitor and command a refrigerated truck. The first unit creates the app, the second unit defines a device template for a refrigerated truck. Then, create a programming project, add code to simulate a truck, and communicate with your IoT Central app. The truck is monitored through a custom dashboard.",
-          "heat": 70,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/iot/iot-central-refrigerated-truck-module-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "IoT",
-            "Mobile",
-            "Web"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Set up rules and take action on telemetry data in Azure IoT Central",
-          "excerpt": "This module builds an IoT Central app to monitor and command a refrigerated truck. We build the IoT Central app from a downloaded JSON file, defining all the device capabilities. Source code is also downloaded for the device app. The focus of this module is on creating rules and actions, to respond to certain telemetry input. Rules and actions enable greater automation of an IoT Central system.",
-          "heat": 55,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/iot/set-up-rules-take-actions-telemetry-data-azure-iot-central-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "IoT",
-            "Mobile",
-            "Web"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Manage IoT Central applications with the REST API",
-          "excerpt": "In this module, you'll learn how to manage an IoT Central application programmatically using the REST API",
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/manage-iot-central-apps-with-rest-api-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "IoT"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Set up continuous data export from Azure IoT Central to a Power BI app",
-          "excerpt": "This module covers continuous data export from IoT Central. You use the scenario from your previously completed \"Create your first Azure IoT Central app\" Learn module, where you controlled a refrigerated truck. Here, in this module, you add continuous data export to both Azure Blob storage and an event hub. You then build a Power BI app to read and display the telemetry data on a mobile phone.",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/iot/continuous-data-export-from-iot-central-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "IoT",
-            "Storage",
-            "Analytics"
-          ]
-        }
-      ],
-      "size": 4,
-      "heat": 66,
+      "heat": 67,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/iot-central-refrigerated-truck-module-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/export-data-with-azure-import-export-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
         }
       ],
-      "type": "collection",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "IoT"
+        "Storage"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-to-git.md",
+      "title": "Introduction to Git",
+      "excerpt": "Use Git to track changes and collaborate with other developers",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-git/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-git/",
+      "length": "PT1H15M",
+      "ratings": {
+        "count": 422,
+        "average": 4.7369666
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 67,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-git-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     },
     {
@@ -292,8 +251,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-well-architected-operational-excellence/",
       "length": "PT54M",
       "ratings": {
-        "count": 394,
-        "average": 4.6624365
+        "count": 395,
+        "average": 4.663291
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1067,8 +1026,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-devops-continuous-security-operations/",
       "length": "PT22M",
       "ratings": {
-        "count": 360,
-        "average": 4.6805553
+        "count": 363,
+        "average": 4.674931
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1259,8 +1218,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/move-data-with-azure-data-box/",
       "length": "PT25M",
       "ratings": {
-        "count": 368,
-        "average": 4.625
+        "count": 369,
+        "average": 4.626016
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1292,40 +1251,6 @@
         "Azure",
         "Storage",
         "Migration"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-provision-infrastructure-azure-pipelines.md",
-      "title": "Provision infrastructure in Azure Pipelines",
-      "excerpt": "Learn how infrastructure as code enables you to describe and automatically provision the infrastructure that you need for your application.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-provision-infrastructure-azure-pipelines/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/provision-infrastructure-azure-pipelines/",
-      "length": "PT2H2M",
-      "ratings": {
-        "count": 360,
-        "average": 4.6583333
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 64,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
       ]
     },
     {
@@ -1396,7 +1321,7 @@
           "path": "",
           "title": "Provision infrastructure in Azure Pipelines",
           "excerpt": "Learn how infrastructure as code enables you to describe and automatically provision the infrastructure that you need for your application.",
-          "heat": 64,
+          "heat": 124,
           "type": "course",
           "topics": [
             "Azure",
@@ -1486,7 +1411,7 @@
           "path": "",
           "title": "Provision infrastructure in Azure Pipelines",
           "excerpt": "Learn how infrastructure as code enables you to describe and automatically provision the infrastructure that you need for your application.",
-          "heat": 64,
+          "heat": 124,
           "type": "course",
           "topics": [
             "Azure",
@@ -1694,7 +1619,7 @@
           "path": "",
           "title": "Introduction to Azure IoT Edge",
           "excerpt": "University of Oxford",
-          "heat": 75,
+          "heat": 76,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-iot-edge-social.png",
