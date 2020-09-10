@@ -4,7 +4,7 @@ excerpt: "Learn how logging, telemetry, and monitoring give you full visibility 
 type: collection
 price: Free
 length: PT9H39M
-heat: 99
+heat: 100
 
 provider:
   name: Microsoft Learn
