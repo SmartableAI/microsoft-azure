@@ -4,7 +4,7 @@ excerpt: "Migrate ASP.NET web applications and their data to Azure App Service a
 type: collection
 price: Free
 length: PT2H0M
-heat: 73
+heat: 74
 
 provider:
   name: Microsoft Learn

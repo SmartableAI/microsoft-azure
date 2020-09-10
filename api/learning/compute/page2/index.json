@@ -63,7 +63,7 @@
           "path": "",
           "title": "Host a web application with Azure App service",
           "excerpt": "Create a website in the programming language of your choice through the hosted web app platform in Azure App Service.",
-          "heat": 150,
+          "heat": 151,
           "type": "course",
           "topics": [
             "Azure",
@@ -158,7 +158,7 @@
           "path": "",
           "title": "Identify the tasks of a data engineer in a cloud-hosted architecture",
           "excerpt": "Learn about the responsibilities of a data engineer, how they relate to the jobs of other data and AI roles, and explore common data engineering practices.",
-          "heat": 139,
+          "heat": 140,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/data-ai/data-engineering-processes-badge-social.png",
@@ -256,7 +256,7 @@
           "path": "",
           "title": "Identify the tasks of a data engineer in a cloud-hosted architecture",
           "excerpt": "Learn about the responsibilities of a data engineer, how they relate to the jobs of other data and AI roles, and explore common data engineering practices.",
-          "heat": 139,
+          "heat": 140,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/data-ai/data-engineering-processes-badge-social.png",
@@ -361,7 +361,7 @@
           "path": "",
           "title": "Secure your Azure resources with role-based access control (RBAC)",
           "excerpt": "Learn how to use Azure’s role-based access control to effectively manage your team’s access to Azure resources.",
-          "heat": 145,
+          "heat": 146,
           "type": "course",
           "topics": [
             "Azure",
@@ -462,7 +462,7 @@
           "path": "",
           "title": "Secure your Azure resources with role-based access control (RBAC)",
           "excerpt": "Learn how to use Azure’s role-based access control to effectively manage your team’s access to Azure resources.",
-          "heat": 145,
+          "heat": 146,
           "type": "course",
           "topics": [
             "Azure",
@@ -723,8 +723,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/deploy-run-container-app-service/",
       "length": "PT46M",
       "ratings": {
-        "count": 3677,
-        "average": 4.626598
+        "count": 3678,
+        "average": 4.6266994
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -767,8 +767,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/configure-network-for-azure-virtual-machines/",
       "length": "PT1H34M",
       "ratings": {
-        "count": 3511,
-        "average": 4.5525494
+        "count": 3513,
+        "average": 4.5525193
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -792,6 +792,42 @@
         "Azure",
         "Compute",
         "Networking"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-execute-azure-function-with-triggers.md",
+      "title": "Execute an Azure Function with triggers",
+      "excerpt": "This module demos some of the most common types of triggers for executing Azure Functions and how to configure them to execute your logic.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-execute-azure-function-with-triggers/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/execute-azure-function-with-triggers/",
+      "length": "PT1H23M",
+      "ratings": {
+        "count": 3229,
+        "average": 4.701765
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 130,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless",
+        "Management Tools"
       ]
     },
     {
@@ -830,42 +866,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-execute-azure-function-with-triggers.md",
-      "title": "Execute an Azure Function with triggers",
-      "excerpt": "This module demos some of the most common types of triggers for executing Azure Functions and how to configure them to execute your logic.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-execute-azure-function-with-triggers/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/execute-azure-function-with-triggers/",
-      "length": "PT1H23M",
-      "ratings": {
-        "count": 3229,
-        "average": 4.701765
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 129,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings.md",
       "title": "Chain Azure Functions together using input and output bindings",
       "excerpt": "In this module, we'll learn how to integrate your Azure Function with various data sources by using bindings.",
@@ -873,8 +873,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/chain-azure-functions-data-using-bindings/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 2593,
-        "average": 4.5696106
+        "count": 2594,
+        "average": 4.5697765
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -910,8 +910,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/keep-your-virtual-machines-updated/",
       "length": "PT35M",
       "ratings": {
-        "count": 2625,
-        "average": 4.489905
+        "count": 2626,
+        "average": 4.490099
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1191,8 +1191,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/secure-your-azure-virtual-machine-disks/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 2416,
-        "average": 4.652318
+        "count": 2417,
+        "average": 4.6524615
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1227,8 +1227,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-long-running-serverless-workflow-with-durable-functions/",
       "length": "PT46M",
       "ratings": {
-        "count": 2474,
-        "average": 4.4567504
+        "count": 2477,
+        "average": 4.4570045
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1823,8 +1823,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/control-network-traffic-flow-with-routes/",
       "length": "PT50M",
       "ratings": {
-        "count": 1594,
-        "average": 4.6273527
+        "count": 1596,
+        "average": 4.6278195
       },
       "provider": {
         "name": "Microsoft Learn",

@@ -4,50 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-design-monitoring-strategy-on-azure.md",
-      "title": "Design a holistic monitoring strategy on Azure",
-      "excerpt": "Use monitoring services on Azure to bring operational excellence to your applications and infrastructure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-monitoring-strategy-on-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/design-monitoring-strategy-on-azure/",
-      "length": "PT57M",
-      "ratings": {
-        "count": 1247,
-        "average": 4.57498
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 90,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/design-monitoring-strategy-on-azure-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Management Tools",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-create-release-pipeline.md",
       "title": "Create a release pipeline in Azure Pipelines",
       "excerpt": "Set up a continuous delivery (CD) pipeline that automates the process of deploying your application.",
@@ -55,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-release-pipeline/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 947,
-        "average": 4.6758184
+        "count": 948,
+        "average": 4.6761603
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -184,8 +140,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-multi-stage-pipeline/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 783,
-        "average": 4.752235
+        "count": 784,
+        "average": 4.752551
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -310,8 +266,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/manage-database-changes-in-azure-pipelines/",
       "length": "PT1H14M",
       "ratings": {
-        "count": 598,
-        "average": 4.633779
+        "count": 599,
+        "average": 4.634391
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -437,6 +393,40 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-provision-infrastructure-azure-pipelines.md",
+      "title": "Provision infrastructure in Azure Pipelines",
+      "excerpt": "Learn how infrastructure as code enables you to describe and automatically provision the infrastructure that you need for your application.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-provision-infrastructure-azure-pipelines/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/provision-infrastructure-azure-pipelines/",
+      "length": "PT2H2M",
+      "ratings": {
+        "count": 360,
+        "average": 4.6583333
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 64,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-automate-your-deployments-with-azure-devops-learning-path.md",
       "title": "Automate your deployments with Azure DevOps learning path",
       "excerpt": "Learn how to combine automation techniques such as infrastructure as code with automated pipelines to provision and configure the infrastructure you need to run your applications and services.",
@@ -463,7 +453,7 @@
           "path": "",
           "title": "Provision infrastructure in Azure Pipelines",
           "excerpt": "Learn how infrastructure as code enables you to describe and automatically provision the infrastructure that you need for your application.",
-          "heat": 124,
+          "heat": 64,
           "type": "course",
           "topics": [
             "Azure",
@@ -553,7 +543,7 @@
           "path": "",
           "title": "Provision infrastructure in Azure Pipelines",
           "excerpt": "Learn how infrastructure as code enables you to describe and automatically provision the infrastructure that you need for your application.",
-          "heat": 124,
+          "heat": 64,
           "type": "course",
           "topics": [
             "Azure",
@@ -1475,8 +1465,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/troubleshoot-inbound-connectivity-azure-load-balancer/",
       "length": "PT1H38M",
       "ratings": {
-        "count": 202,
-        "average": 4.658416
+        "count": 203,
+        "average": 4.6600986
       },
       "provider": {
         "name": "Microsoft Learn",

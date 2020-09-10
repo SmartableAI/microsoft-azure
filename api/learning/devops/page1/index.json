@@ -251,7 +251,7 @@
           "path": "",
           "title": "Create a Linux virtual machine in Azure",
           "excerpt": "This module guides you through options for virtual machines in Azure, creating and connecting a Linux virtual machine, and configuring your network settings.",
-          "heat": 175,
+          "heat": 176,
           "type": "course",
           "topics": [
             "Azure",
@@ -349,7 +349,7 @@
           "path": "",
           "title": "Create a Linux virtual machine in Azure",
           "excerpt": "This module guides you through options for virtual machines in Azure, creating and connecting a Linux virtual machine, and configuring your network settings.",
-          "heat": 175,
+          "heat": 176,
           "type": "course",
           "topics": [
             "Azure",
@@ -464,7 +464,7 @@
           "path": "",
           "title": "Choose an Agile approach to software development",
           "excerpt": "Learn with the Space Game web team how to use Azure Boards to implement Agile software practices along with DevOps transparency and collaboration.",
-          "heat": 154,
+          "heat": 155,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-devops/choose-an-agile-approach-to-software-development-social.png",
@@ -560,7 +560,7 @@
           "path": "",
           "title": "Choose an Agile approach to software development",
           "excerpt": "Learn with the Space Game web team how to use Azure Boards to implement Agile software practices along with DevOps transparency and collaboration.",
-          "heat": 154,
+          "heat": 155,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-devops/choose-an-agile-approach-to-software-development-social.png",
@@ -909,8 +909,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/choose-an-agile-approach/",
       "length": "PT40M",
       "ratings": {
-        "count": 5184,
-        "average": 4.7453704
+        "count": 5185,
+        "average": 4.7450337
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -927,7 +927,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 154,
+      "heat": 155,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/azure-devops/choose-an-agile-approach-to-software-development-social.png",
@@ -1005,7 +1005,7 @@
           "path": "",
           "title": "Manage build dependencies with Azure Artifacts",
           "excerpt": "In this module, the Space Game web team guides you through creating a build pipeline that produces a package that can be used by multiple applications.",
-          "heat": 100,
+          "heat": 101,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-dependencies-in-your-build-pipeline-social.png",
@@ -1023,7 +1023,7 @@
           "path": "",
           "title": "Host your own build agent in Azure Pipelines",
           "excerpt": "Work with guidance from the Space Game web team to set up your build agent running on-premises or on an Azure virtual machine running in the cloud.",
-          "heat": 101,
+          "heat": 102,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-devops/host-your-own-build-server-in-your-build-pipeline-social.png",
@@ -1148,8 +1148,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/run-quality-tests-build-pipeline/",
       "length": "PT1H22M",
       "ratings": {
-        "count": 2953,
-        "average": 4.725025
+        "count": 2954,
+        "average": 4.7251186
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1178,40 +1178,6 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-provision-infrastructure-azure-pipelines.md",
-      "title": "Provision infrastructure in Azure Pipelines",
-      "excerpt": "Learn how infrastructure as code enables you to describe and automatically provision the infrastructure that you need for your application.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-provision-infrastructure-azure-pipelines/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/provision-infrastructure-azure-pipelines/",
-      "length": "PT2H2M",
-      "ratings": {
-        "count": 360,
-        "average": 4.6583333
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 124,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
         "DevOps"
       ]
     },
@@ -1589,8 +1555,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/manage-delivery-plans/",
       "length": "PT33M",
       "ratings": {
-        "count": 2021,
-        "average": 4.721425
+        "count": 2022,
+        "average": 4.7210684
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1622,8 +1588,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/scan-open-source/",
       "length": "PT38M",
       "ratings": {
-        "count": 1798,
-        "average": 4.7191324
+        "count": 1799,
+        "average": 4.7192883
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1681,7 +1647,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 101,
+      "heat": 102,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/azure-devops/host-your-own-build-server-in-your-build-pipeline-social.png",
@@ -1723,7 +1689,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 100,
+      "heat": 101,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-dependencies-in-your-build-pipeline-social.png",
@@ -2415,7 +2381,7 @@
           "path": "",
           "title": "Characterize DevOps Continuous Collaboration and Continuous Improvement",
           "excerpt": "Explore two capabilities in the DevOps taxonomy, Continuous Collaboration and Continuous Improvement.",
-          "heat": 69,
+          "heat": 70,
           "type": "course",
           "topics": [
             "Azure"
@@ -2448,6 +2414,50 @@
       "topics": [
         "Azure",
         "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-design-monitoring-strategy-on-azure.md",
+      "title": "Design a holistic monitoring strategy on Azure",
+      "excerpt": "Use monitoring services on Azure to bring operational excellence to your applications and infrastructure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-monitoring-strategy-on-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/design-monitoring-strategy-on-azure/",
+      "length": "PT57M",
+      "ratings": {
+        "count": 1247,
+        "average": 4.57498
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 90,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/design-monitoring-strategy-on-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Management Tools",
+        "Security"
       ]
     }
   ],
